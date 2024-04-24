@@ -1,5 +1,3 @@
-"Robotics":
-  "SLAM": '"SLAM"'
-  "VIO": '"VIO"OR"Visual-Inertial Odometry"OR"Visual Inertial Odometry"'
-  "VO": '"VO"OR"Visual Odometry"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+"AI":
+  "LLM": '(cat:cs.AI OR cat:cs.CL) AND (abs:llm OR abs:"language model" OR abs:llms)'
+  "Medical": 'cat:cs.AI AND all:"explainable AI" AND (abs:medical OR abs:"health care" OR abs:clinical)'

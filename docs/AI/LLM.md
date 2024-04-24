@@ -20,7 +20,6 @@
 |**2024-04-23**|**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**|Sunan He et.al.|[2404.15127v1](http://arxiv.org/abs/2404.15127v1)|null|
 |**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121v1](http://arxiv.org/abs/2404.15121v1)|null|
 |**2024-04-23**|**Identifying Fairness Issues in Automatically Generated Testing Content**|Kevin Stowe et.al.|[2404.15104v1](http://arxiv.org/abs/2404.15104v1)|null|
-|**2024-04-23**|**Multi-view Content-aware Indexing for Long Document Retrieval**|Kuicai Dong et.al.|[2404.15103v1](http://arxiv.org/abs/2404.15103v1)|null|
 |**2024-04-23**|**Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers**|Buyun He et.al.|[2404.15070v1](http://arxiv.org/abs/2404.15070v1)|null|
 |**2024-04-23**|**Enhancing Textual Personality Detection toward Social Media: Integrating Long-term and Short-term Perspectives**|Haohao Zhu et.al.|[2404.15067v1](http://arxiv.org/abs/2404.15067v1)|null|
 |**2024-04-23**|**Multi-Head Mixture-of-Experts**|Xun Wu et.al.|[2404.15045v1](http://arxiv.org/abs/2404.15045v1)|null|
@@ -29,6 +28,7 @@
 |**2024-04-23**|**TAXI: Evaluating Categorical Knowledge Editing for Language Models**|Derek Powell et.al.|[2404.15004v1](http://arxiv.org/abs/2404.15004v1)|null|
 |**2024-04-23**|**Comparison of Current Approaches to Lemmatization: A Case Study in Estonian**|Aleksei Dorkin et.al.|[2404.15003v1](http://arxiv.org/abs/2404.15003v1)|null|
 |**2024-04-23**|**Transformers Can Represent $n$-gram Language Models**|Anej Svete et.al.|[2404.14994v1](http://arxiv.org/abs/2404.14994v1)|null|
-|**2024-04-23**|**A Reproducibility Study of PLAID**|Sean MacAvaney et.al.|[2404.14989v1](http://arxiv.org/abs/2404.14989v1)|null|
 |**2024-04-23**|**$\texttt{MiniMol}$: A Parameter-Efficient Foundation Model for Molecular Learning**|Kerstin Kläser et.al.|[2404.14986v1](http://arxiv.org/abs/2404.14986v1)|null|
 |**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
+|**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977v1](http://arxiv.org/abs/2404.14977v1)|null|
+|**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966v1](http://arxiv.org/abs/2404.14966v1)|null|

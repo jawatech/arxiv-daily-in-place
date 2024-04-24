@@ -105,7 +105,7 @@ class CoroutineSpeedup:
         keyword_ = context.get("keyword")
 
         res = arxiv.Search(
-            query=keyword_,
+            query=keyword_,    #"cat:cs.AI OR cat:cs.CV OR cat:stat.ML" #'cat:cs.AI AND all:"explainable AI" AND (abs:medical OR abs:"health care" OR abs:clinical)' #'(all:"pose estimation" OR all:"pose tracking") AND (cat:cs.CV OR cat:cs.LG or cat:cs.AI)'
             max_results=self.max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
         ).results()

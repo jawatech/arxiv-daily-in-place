@@ -41,5 +41,6 @@ logger.add(
 )
 
 # 时区
+TIME_ZONE_TW = pytz.timezone("Asia/Taipei")
 TIME_ZONE_CN = pytz.timezone("Asia/Shanghai")
 TIME_ZONE_NY = pytz.timezone("America/New_York")

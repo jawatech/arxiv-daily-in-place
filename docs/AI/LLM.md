@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604v1](http://arxiv.org/abs/2404.15604v1)|null|
-|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592v1](http://arxiv.org/abs/2404.15592v1)|[link](https://github.com/HenryPengZou/ImplicitAVE)|
+|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592v1](http://arxiv.org/abs/2404.15592v1)|null|
 |**2024-04-24**|**Minimal Evidence Group Identification for Claim Verification**|Xiangci Li et.al.|[2404.15588v1](http://arxiv.org/abs/2404.15588v1)|null|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578v1](http://arxiv.org/abs/2404.15578v1)|null|
 |**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574v1](http://arxiv.org/abs/2404.15574v1)|null|
@@ -17,9 +17,9 @@
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516v1](http://arxiv.org/abs/2404.15516v1)|null|
 |**2024-04-23**|**ToM-LM: Delegating Theory Of Mind Reasoning to External Symbolic Executors in Large Language Models**|Weizhi Tang et.al.|[2404.15515v1](http://arxiv.org/abs/2404.15515v1)|null|
 |**2024-04-23**|**FedGreen: Carbon-aware Federated Learning with Model Size Adaptation**|Ali Abbasi et.al.|[2404.15503v1](http://arxiv.org/abs/2404.15503v1)|null|
-|**2024-04-23**|**Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information**|Chihiro Taguchi et.al.|[2404.15501v1](http://arxiv.org/abs/2404.15501v1)|null|
+|**2024-04-23**|**Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information**|Chihiro Taguchi et.al.|[2404.15501v1](http://arxiv.org/abs/2404.15501v1)|[link](https://github.com/ctaguchi/killkan)|
 |**2024-04-23**|**GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots**|Simranjit Singh et.al.|[2404.15500v1](http://arxiv.org/abs/2404.15500v1)|null|
-|**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488v1](http://arxiv.org/abs/2404.15488v1)|null|
+|**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488v1](http://arxiv.org/abs/2404.15488v1)|[link](https://github.com/microsoft/iryonlp-mediqa-corr-2024)|
 |**2024-04-23**|**Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance**|Het Patel et.al.|[2404.15485v1](http://arxiv.org/abs/2404.15485v1)|null|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449v1](http://arxiv.org/abs/2404.15449v1)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447v1](http://arxiv.org/abs/2404.15447v1)|null|
@@ -36,10 +36,10 @@
 |**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224v1](http://arxiv.org/abs/2404.15224v1)|null|
 |**2024-04-23**|**The Power of the Noisy Channel: Unsupervised End-to-End Task-Oriented Dialogue with LLMs**|Brendan King et.al.|[2404.15219v1](http://arxiv.org/abs/2404.15219v1)|[link](https://github.com/jlab-nlp/nc_latent_tod)|
 |**2024-04-23**|**Does Instruction Tuning Make LLMs More Consistent?**|Constanza Fierro et.al.|[2404.15206v1](http://arxiv.org/abs/2404.15206v1)|null|
-|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196v1](http://arxiv.org/abs/2404.15196v1)|null|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196v1](http://arxiv.org/abs/2404.15196v1)|[link](https://github.com/lang-uk/dragoman)|
 |**2024-04-23**|**Uncertainty in latent representations of variational autoencoders optimized for visual tasks**|Josefina Catoni et.al.|[2404.15390v1](http://arxiv.org/abs/2404.15390v1)|null|
 |**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156v1](http://arxiv.org/abs/2404.15156v1)|null|
-|**2024-04-23**|**Bias patterns in the application of LLMs for clinical decision support: A comprehensive study**|Raphael Poulain et.al.|[2404.15149v1](http://arxiv.org/abs/2404.15149v1)|null|
+|**2024-04-23**|**Bias patterns in the application of LLMs for clinical decision support: A comprehensive study**|Raphael Poulain et.al.|[2404.15149v1](http://arxiv.org/abs/2404.15149v1)|[link](https://github.com/healthylaife/faircdsllm)|
 |**2024-04-23**|**Rethinking LLM Memorization through the Lens of Adversarial Compression**|Avi Schwarzschild et.al.|[2404.15146v1](http://arxiv.org/abs/2404.15146v1)|null|
 |**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141v1](http://arxiv.org/abs/2404.15141v1)|[link](https://github.com/lmbxmu/cutdiffusion)|
 |**2024-04-23**|**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**|Sunan He et.al.|[2404.15127v1](http://arxiv.org/abs/2404.15127v1)|null|
@@ -49,7 +49,7 @@
 |**2024-04-23**|**BotDGT: Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers**|Buyun He et.al.|[2404.15070v2](http://arxiv.org/abs/2404.15070v2)|null|
 |**2024-04-23**|**Enhancing Textual Personality Detection toward Social Media: Integrating Long-term and Short-term Perspectives**|Haohao Zhu et.al.|[2404.15067v1](http://arxiv.org/abs/2404.15067v1)|null|
 |**2024-04-23**|**Multi-Head Mixture-of-Experts**|Xun Wu et.al.|[2404.15045v1](http://arxiv.org/abs/2404.15045v1)|null|
-|**2024-04-23**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042v1](http://arxiv.org/abs/2404.15042v1)|null|
+|**2024-04-23**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042v2](http://arxiv.org/abs/2404.15042v2)|[link](https://github.com/jjzgeeks/vgae-based_model_poisoning_attack_fl)|
 |**2024-04-23**|**Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction**|Hao Miao et.al.|[2404.15034v1](http://arxiv.org/abs/2404.15034v1)|null|
 |**2024-04-23**|**TAXI: Evaluating Categorical Knowledge Editing for Language Models**|Derek Powell et.al.|[2404.15004v1](http://arxiv.org/abs/2404.15004v1)|null|
 |**2024-04-23**|**Comparison of Current Approaches to Lemmatization: A Case Study in Estonian**|Aleksei Dorkin et.al.|[2404.15003v1](http://arxiv.org/abs/2404.15003v1)|null|
@@ -77,7 +77,7 @@
 |**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380v1](http://arxiv.org/abs/2404.15380v1)|null|
 |**2024-04-23**|**From Matching to Generation: A Survey on Generative Information Retrieval**|Xiaoxi Li et.al.|[2404.14851v1](http://arxiv.org/abs/2404.14851v1)|[link](https://github.com/ruc-nlpir/genir-survey)|
 |**2024-04-23**|**Simple, Efficient and Scalable Structure-aware Adapter Boosts Protein Language Models**|Yang Tan et.al.|[2404.14850v1](http://arxiv.org/abs/2404.14850v1)|[link](https://github.com/tyang816/ses-adapter)|
-|**2024-04-23**|**Towards Universal Dense Blocking for Entity Resolution**|Tianshu Wang et.al.|[2404.14831v1](http://arxiv.org/abs/2404.14831v1)|null|
+|**2024-04-23**|**Towards Universal Dense Blocking for Entity Resolution**|Tianshu Wang et.al.|[2404.14831v1](http://arxiv.org/abs/2404.14831v1)|[link](https://github.com/tshu-w/ublocker)|
 |**2024-04-23**|**CoProNN: Concept-based Prototypical Nearest Neighbors for Explaining Vision Models**|Teodor Chiaburu et.al.|[2404.14830v1](http://arxiv.org/abs/2404.14830v1)|[link](https://github.com/teodorchiaburu/beexplainable)|
 |**2024-04-23**|**Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation**|Jingxuan Wei et.al.|[2404.14827v1](http://arxiv.org/abs/2404.14827v1)|null|
 |**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822v1](http://arxiv.org/abs/2404.14822v1)|null|
@@ -87,7 +87,7 @@
 |**2024-04-23**|**LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data**|Peiwen Li et.al.|[2404.14786v1](http://arxiv.org/abs/2404.14786v1)|null|
 |**2024-04-23**|**Med42 -- Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches**|Clément Christophe et.al.|[2404.14779v1](http://arxiv.org/abs/2404.14779v1)|null|
 |**2024-04-23**|**CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning**|Ling Yue et.al.|[2404.14777v1](http://arxiv.org/abs/2404.14777v1)|null|
-|**2024-04-23**|**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**|Chris Samarinas et.al.|[2404.14772v1](http://arxiv.org/abs/2404.14772v1)|null|
+|**2024-04-23**|**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**|Chris Samarinas et.al.|[2404.14772v1](http://arxiv.org/abs/2404.14772v1)|[link](https://github.com/algoprog/syntod)|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771v1](http://arxiv.org/abs/2404.14771v1)|null|
 |**2024-04-23**|**Retrieval Augmented Generation for Domain-specific Question Answering**|Sanat Sharma et.al.|[2404.14760v1](http://arxiv.org/abs/2404.14760v1)|null|
 |**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757v1](http://arxiv.org/abs/2404.14757v1)|null|

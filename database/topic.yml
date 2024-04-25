@@ -1,3 +1,4 @@
 "AI":
   "LLM": '(cat:cs.AI OR cat:cs.CL) AND (abs:llm OR abs:"language model")'
-  "Medical": 'cat:cs.AI AND all:"explainable AI" AND (abs:medical OR abs:"health care" OR abs:clinical)'
+  "Medical": 'cat:cs.AI AND (abs:medical OR abs:"health care" OR abs:clinical)'
+  "Medical explainable AI": 'cat:cs.AI AND all:"explainable AI" AND (abs:medical OR abs:"health care" OR abs:clinical)'

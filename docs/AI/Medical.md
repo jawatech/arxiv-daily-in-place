@@ -26,7 +26,7 @@
 |**2024-04-19**|**A Large-scale Medical Visual Task Adaptation Benchmark**|Shentong Mo et.al.|[2404.12876v1](http://arxiv.org/abs/2404.12876v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
 |**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
-|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam hakimnejad et.al.|[2404.13101v1](http://arxiv.org/abs/2404.13101v1)|null|
+|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam Hakimnejad et.al.|[2404.13101v1](http://arxiv.org/abs/2404.13101v1)|null|
 |**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634v1](http://arxiv.org/abs/2404.12634v1)|null|
 |**2024-04-19**|**GluMarker: A Novel Predictive Modeling of Glycemic Control Through Digital Biomarkers**|Ziyi Zhou et.al.|[2404.12605v1](http://arxiv.org/abs/2404.12605v1)|null|
 |**2024-04-18**|**DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**|David Restrepo et.al.|[2404.12278v1](http://arxiv.org/abs/2404.12278v1)|null|
@@ -58,7 +58,7 @@
 |**2024-04-13**|**Advanced Neural Network Architecture for Enhanced Multi-Lead ECG Arrhythmia Detection through Optimized Feature Extraction**|Bhavith Chandra Challagundla et.al.|[2404.15347v1](http://arxiv.org/abs/2404.15347v1)|null|
 |**2024-04-13**|**Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**|Zita Lifelo et.al.|[2404.09045v1](http://arxiv.org/abs/2404.09045v1)|null|
 |**2024-04-13**|**A Fourier-enhanced multi-modal 3D small object optical mark recognition and positioning method for percutaneous abdominal puncture surgical navigation**|Zezhao Guo et.al.|[2404.08990v1](http://arxiv.org/abs/2404.08990v1)|null|
-|**2024-04-13**|**Leveraging Large Language Model as Simulated Patients for Clinical Education**|Yaneng Li et.al.|[2404.13066v1](http://arxiv.org/abs/2404.13066v1)|null|
+|**2024-04-13**|**Leveraging Large Language Model as Simulated Patients for Clinical Education**|Yanzeng Li et.al.|[2404.13066v2](http://arxiv.org/abs/2404.13066v2)|null|
 |**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|null|
 |**2024-04-12**|**Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**|Xin Tie et.al.|[2404.08611v1](http://arxiv.org/abs/2404.08611v1)|[link](https://github.com/xtie97/las-net)|
 |**2024-04-12**|**RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**|Shreyas Chaudhari et.al.|[2404.08555v2](http://arxiv.org/abs/2404.08555v2)|null|

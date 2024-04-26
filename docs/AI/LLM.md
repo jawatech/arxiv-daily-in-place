@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604v1](http://arxiv.org/abs/2404.15604v1)|null|
-|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592v1](http://arxiv.org/abs/2404.15592v1)|null|
+|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592v1](http://arxiv.org/abs/2404.15592v1)|[link](https://github.com/HenryPengZou/ImplicitAVE)|
 |**2024-04-24**|**Minimal Evidence Group Identification for Claim Verification**|Xiangci Li et.al.|[2404.15588v1](http://arxiv.org/abs/2404.15588v1)|null|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578v1](http://arxiv.org/abs/2404.15578v1)|null|
 |**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574v1](http://arxiv.org/abs/2404.15574v1)|null|
@@ -77,7 +77,7 @@
 |**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380v1](http://arxiv.org/abs/2404.15380v1)|null|
 |**2024-04-23**|**From Matching to Generation: A Survey on Generative Information Retrieval**|Xiaoxi Li et.al.|[2404.14851v1](http://arxiv.org/abs/2404.14851v1)|[link](https://github.com/ruc-nlpir/genir-survey)|
 |**2024-04-23**|**Simple, Efficient and Scalable Structure-aware Adapter Boosts Protein Language Models**|Yang Tan et.al.|[2404.14850v1](http://arxiv.org/abs/2404.14850v1)|[link](https://github.com/tyang816/ses-adapter)|
-|**2024-04-23**|**Towards Universal Dense Blocking for Entity Resolution**|Tianshu Wang et.al.|[2404.14831v1](http://arxiv.org/abs/2404.14831v1)|[link](https://github.com/tshu-w/ublocker)|
+|**2024-04-23**|**Towards Universal Dense Blocking for Entity Resolution**|Tianshu Wang et.al.|[2404.14831v2](http://arxiv.org/abs/2404.14831v2)|[link](https://github.com/tshu-w/uniblocker)|
 |**2024-04-23**|**CoProNN: Concept-based Prototypical Nearest Neighbors for Explaining Vision Models**|Teodor Chiaburu et.al.|[2404.14830v1](http://arxiv.org/abs/2404.14830v1)|[link](https://github.com/teodorchiaburu/beexplainable)|
 |**2024-04-23**|**Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation**|Jingxuan Wei et.al.|[2404.14827v1](http://arxiv.org/abs/2404.14827v1)|null|
 |**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822v1](http://arxiv.org/abs/2404.14822v1)|null|
@@ -101,4 +101,4 @@
 |**2024-04-23**|**Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities**|Siyin Wang et.al.|[2404.14716v1](http://arxiv.org/abs/2404.14716v1)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715v1](http://arxiv.org/abs/2404.14715v1)|null|
 |**2024-04-23**|**ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability**|Xiao Wang et.al.|[2404.14712v1](http://arxiv.org/abs/2404.14712v1)|null|
-|**2024-04-23**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v2](http://arxiv.org/abs/2404.14700v2)|null|
+|**2024-04-23**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v3](http://arxiv.org/abs/2404.14700v3)|null|

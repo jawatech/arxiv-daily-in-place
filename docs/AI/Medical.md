@@ -2,6 +2,20 @@
 ### Medical
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-25**|**Features Fusion for Dual-View Mammography Mass Detection**|Arina Varlamova et.al.|[2404.16718v1](http://arxiv.org/abs/2404.16718v1)|null|
+|**2024-04-25**|**Report on Candidate Computational Indicators for Conscious Valenced Experience**|Andres Campero et.al.|[2404.16696v1](http://arxiv.org/abs/2404.16696v1)|null|
+|**2024-04-25**|**ProbGate at EHRSQL 2024: Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling**|Sangryul Kim et.al.|[2404.16659v1](http://arxiv.org/abs/2404.16659v1)|[link](https://github.com/venzino-han/probgate_ehrsql)|
+|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621v1](http://arxiv.org/abs/2404.16621v1)|null|
+|**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474v1](http://arxiv.org/abs/2404.16474v1)|null|
+|**2024-04-25**|**Light-weight Retinal Layer Segmentation with Global Reasoning**|Xiang He et.al.|[2404.16346v1](http://arxiv.org/abs/2404.16346v1)|null|
+|**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325v1](http://arxiv.org/abs/2404.16325v1)|null|
+|**2024-04-25**|**LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**|Saranya Krishnamoorthy et.al.|[2404.16294v1](http://arxiv.org/abs/2404.16294v1)|null|
+|**2024-04-24**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251v1](http://arxiv.org/abs/2404.16251v1)|null|
+|**2024-04-24**|**ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**|Sarala Naidu et.al.|[2404.16183v1](http://arxiv.org/abs/2404.16183v1)|null|
+|**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112v1](http://arxiv.org/abs/2404.16112v1)|[link](https://github.com/badripatro/mamba360)|
+|**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946v1](http://arxiv.org/abs/2404.15946v1)|null|
+|**2024-04-24**|**Assessing The Potential Of Mid-Sized Language Models For Clinical QA**|Elliot Bolton et.al.|[2404.15894v1](http://arxiv.org/abs/2404.15894v1)|null|
+|**2024-04-24**|**Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**|Hong-Jun Yoon et.al.|[2404.16080v1](http://arxiv.org/abs/2404.16080v1)|null|
 |**2024-04-23**|**PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**|Shashi Kant Gupta et.al.|[2404.15549v1](http://arxiv.org/abs/2404.15549v1)|null|
 |**2024-04-23**|**Multi-scale Intervention Planning based on Generative Design**|Ioannis Kavouras et.al.|[2404.15492v1](http://arxiv.org/abs/2404.15492v1)|null|
 |**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488v1](http://arxiv.org/abs/2404.15488v1)|[link](https://github.com/microsoft/iryonlp-mediqa-corr-2024)|
@@ -88,17 +102,3 @@
 |**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415v2](http://arxiv.org/abs/2404.05415v2)|null|
 |**2024-04-08**|**Iterative Refinement Strategy for Automated Data Labeling: Facial Landmark Diagnosis in Medical Imaging**|Yu-Hsi Chen et.al.|[2404.05348v1](http://arxiv.org/abs/2404.05348v1)|[link](https://github.com/wish44165/iautolabeling)|
 |**2024-04-07**|**Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats**|Kunyao Lan et.al.|[2404.05012v1](http://arxiv.org/abs/2404.05012v1)|null|
-|**2024-04-07**|**SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials**|Mael Jullien et.al.|[2404.04963v1](http://arxiv.org/abs/2404.04963v1)|null|
-|**2024-04-06**|**ProtoAL: Interpretable Deep Active Learning with prototypes for medical imaging**|Iury B. de A. Santos et.al.|[2404.04736v1](http://arxiv.org/abs/2404.04736v1)|null|
-|**2024-04-06**|**Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment**|Prasun C Tripathi et.al.|[2404.04718v1](http://arxiv.org/abs/2404.04718v1)|[link](https://github.com/prasunc/hemodynamics)|
-|**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
-|**2024-04-06**|**Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology**|Dyke Ferber et.al.|[2404.04667v1](http://arxiv.org/abs/2404.04667v1)|null|
-|**2024-04-06**|**Focused Active Learning for Histopathological Image Classification**|Arne Schmidt et.al.|[2404.04663v1](http://arxiv.org/abs/2404.04663v1)|null|
-|**2024-04-06**|**Evaluating the Effectiveness of Artificial Intelligence in Predicting Adverse Drug Reactions among Cancer Patients: A Systematic Review and Meta-Analysis**|Fatma Zahra Abdeldjouad et.al.|[2404.05762v1](http://arxiv.org/abs/2404.05762v1)|null|
-|**2024-04-06**|**IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials**|Shreyasi Mandal et.al.|[2404.04510v1](http://arxiv.org/abs/2404.04510v1)|[link](https://github.com/exploration-lab/iitk-semeval-2024-task-2-clinical-nli)|
-|**2024-04-05**|**Effects of Different Prompts on the Quality of GPT-4 Responses to Dementia Care Questions**|Zhuochun Li et.al.|[2404.08674v1](http://arxiv.org/abs/2404.08674v1)|null|
-|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095v1](http://arxiv.org/abs/2404.04095v1)|[link](https://github.com/mowenyii/pae)|
-|**2024-04-05**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067v2](http://arxiv.org/abs/2404.04067v2)|null|
-|**2024-04-05**|**Multi-Task Learning for Lung sound & Lung disease classification**|Suma K V et.al.|[2404.03908v1](http://arxiv.org/abs/2404.03908v1)|null|
-|**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v2](http://arxiv.org/abs/2404.03892v2)|null|
-|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549v1](http://arxiv.org/abs/2404.03549v1)|[link](https://github.com/LorenaGallego/DL4ADpred)|

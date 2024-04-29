@@ -26,7 +26,7 @@ def get_week_dates(root):
     return week_dates
 
 
-def translate(text, to_language="zh-CN", text_language="en"):
+def translate(text, to_language="zh-TW", text_language="en"):
     time.sleep(random.random() + 1)
     text = parse.quote(text)
     url = GOOGLE_TRANSLATE_URL % (text, to_language, text_language)

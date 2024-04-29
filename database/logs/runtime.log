@@ -19051,3 +19051,57 @@ Traceback (most recent call last):
     line = f"##### {paper['id']}" \
 
 NameError: name 'paper_summary' is not defined
+2024-04-29 14:37:15.373 | SUCCESS  | __main__:parse:187 - handle [1/3] | topic=`AI` subtopic=`Medical explainable AI`
+2024-04-29 14:37:15.485 | SUCCESS  | __main__:parse:187 - handle [2/3] | topic=`AI` subtopic=`LLM`
+2024-04-29 14:37:15.510 | SUCCESS  | __main__:parse:187 - handle [3/3] | topic=`AI` subtopic=`Medical`
+2024-04-29 14:37:15.511 | ERROR    | fire.core:_CallAndUpdateTrace:693 - An error has been caught in function '_CallAndUpdateTrace', process 'MainProcess' (2097), thread 'MainThread' (140315501352960):
+Traceback (most recent call last):
+
+  File "main.py", line 386, in <module>
+    Fire(Scaffold)
+    │    └ <class '__main__.Scaffold'>
+    └ <function Fire at 0x7f9dbebbc790>
+
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 143, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      │     │          │     │                 │        └ 'main.py'
+                      │     │          │     │                 └ {}
+                      │     │          │     └ Namespace(completion=None, help=False, interactive=False, separator='-', trace=False, verbose=False)
+                      │     │          └ ['run', '--env=production', '--power=16']
+                      │     └ <class '__main__.Scaffold'>
+                      └ <function _Fire at 0x7f9dbe866f70>
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 477, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+    │                           └ <function _CallAndUpdateTrace at 0x7f9dbe8690d0>
+    └ <function Scaffold.run at 0x7f9dbe806c10>
+> File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 693, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                │   │          └ {}
+                │   └ ['production', 16]
+                └ <function Scaffold.run at 0x7f9dbe806c10>
+
+  File "main.py", line 375, in run
+    template_ = booster.overload_tasks()
+                │       └ <function CoroutineSpeedup.overload_tasks at 0x7f9dbe80a5e0>
+                └ <__main__.CoroutineSpeedup object at 0x7f9dbe7d9c70>
+
+  File "main.py", line 203, in overload_tasks
+    md_obj: dict = ot.to_markdown(context)
+                   │  │           └ {'paper': {'2404.16957': {'publish_time': '**2024-04-25**', 'title': '**Attributing Responsibility in AI-Induced Incidents: A...
+                   │  └ <function _OverloadTasks.to_markdown at 0x7f9dbe80a040>
+                   └ <__main__._OverloadTasks object at 0x7f9dbc49e790>
+
+  File "main.py", line 338, in to_markdown
+    _abstracts_md = "\n#### Abstracts\n" + "".join([self._generate_markdown_abstract_content(
+                                                    │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f9dbe80a310>
+                                                    └ <__main__._OverloadTasks object at 0x7f9dbc49e790>
+
+  File "main.py", line 338, in <listcomp>
+    _abstracts_md = "\n#### Abstracts\n" + "".join([self._generate_markdown_abstract_content(
+                                                    │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f9dbe80a310>
+                                                    └ <__main__._OverloadTasks object at 0x7f9dbc49e790>
+
+  File "main.py", line 263, in _generate_markdown_abstract_content
+    line = f"##### {paper['id']}" \
+
+NameError: name 'paper_summary' is not defined

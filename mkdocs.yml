@@ -6,7 +6,7 @@ theme:
   features:
     - navigation.indexes
 
-repo_url: https://github.com/weiningwei/arxiv-daily
+repo_url: https://github.com/jawatech/arxiv-daily-in-place
 
 markdown_extensions:
   - def_list
@@ -22,9 +22,6 @@ plugins:
   - search:
       lang:
         - en
-        - ja
+        - zh
 
-extra:
-  analytics:
-    provider: google
-    property: UA-145083103-1
+

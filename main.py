@@ -117,10 +117,11 @@ class CoroutineSpeedup:
         base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
         _paper = {}
         arxiv_res = context.get("response")
-        for result in arxiv_res:
+        for result in arxiv_res: #'authors', 'categories', 'comment', 'doi', 'download_pdf', 'download_source',  'journal_ref', 'links', 'pdf_url', 'primary_category', 'summary', 'updated'
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id
+            paper_summary = result.summary
 
             code_url = base_url + paper_id
             paper_first_author = result.authors[0]
@@ -167,6 +168,7 @@ class CoroutineSpeedup:
                 paper_key: {
                     "publish_time": publish_time,
                     "title": paper_title,
+                    "paper_summary": paper_summary,
                     "authors": f"{paper_first_author} et.al.",
                     "id": paper_id,
                     "paper_url": paper_url,
@@ -264,6 +266,7 @@ class _OverloadTasks:
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
+               f"|{paper['paper_summary']}" \
                f"|{paper['authors']}" \
                f"|{_pdf}" \
                f"|{_repo}|\n"

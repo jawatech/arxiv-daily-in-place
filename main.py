@@ -172,6 +172,7 @@ class CoroutineSpeedup:
                     "publish_time": publish_time,
                     "title": paper_title,
                     "paper_summary": paper_summary,
+                    "paper_summary_zh": translate(paper_summary),
                     "authors": f"{paper_first_author} et.al.",
                     "id": paper_id,
                     "paper_url": paper_url,
@@ -260,11 +261,10 @@ class _OverloadTasks:
         return f"[{text}]({link})"
 
     def _generate_markdown_abstract_content(self, paper: dict):
-        line = f"##### {paper['id']}" \
-               f" {paper['title']}" \
-               f"\n{paper['authors']}" \
+        line = f"##### {paper['title']}" \
+               f"\n{paper['id']} by {paper['authors']}\n" \
                f"" \
-               f"\n{paper['paper_summary']}|\n"
+               f"\n{paper['paper_summary']}\n摘要：{paper['paper_summary_zh']}"
 
         return line
 

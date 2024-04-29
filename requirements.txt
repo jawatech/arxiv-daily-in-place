@@ -1,8 +1,6 @@
 arxiv
 requests
-html
-datetime
-urllib
+
 gevent
 pyyaml
 loguru

@@ -38,6 +38,8 @@ jobs:
       # TODO [√] 测试 Scaffold 脚手架指令
       # ============================================
       - name: Run daily arxiv
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python main.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }}
       # ============================================

@@ -264,7 +264,7 @@ class _OverloadTasks:
                f" {paper['title']}" \
                f"\n{paper['authors']}" \
                f"" \
-               f"\n{paper_summary}|\n"
+               f"\n{paper['paper_summary']}|\n"
 
         return line
 

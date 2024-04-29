@@ -18943,3 +18943,57 @@ expected <block end>, but found '<block mapping start>'
 2024-04-29 11:56:29.186 | SUCCESS  | __main__:parse:184 - handle [1/3] | topic=`AI` subtopic=`Medical`
 2024-04-29 11:56:29.249 | SUCCESS  | __main__:parse:184 - handle [2/3] | topic=`AI` subtopic=`Medical explainable AI`
 2024-04-29 11:56:29.487 | SUCCESS  | __main__:parse:184 - handle [3/3] | topic=`AI` subtopic=`LLM`
+2024-04-29 14:03:37.694 | SUCCESS  | __main__:parse:184 - handle [1/3] | topic=`AI` subtopic=`LLM`
+2024-04-29 14:03:37.764 | SUCCESS  | __main__:parse:184 - handle [2/3] | topic=`AI` subtopic=`Medical`
+2024-04-29 14:03:38.088 | SUCCESS  | __main__:parse:184 - handle [3/3] | topic=`AI` subtopic=`Medical explainable AI`
+2024-04-29 14:03:38.089 | ERROR    | fire.core:_CallAndUpdateTrace:693 - An error has been caught in function '_CallAndUpdateTrace', process 'MainProcess' (2080), thread 'MainThread' (139719405219456):
+Traceback (most recent call last):
+
+  File "main.py", line 383, in <module>
+    Fire(Scaffold)
+    │    └ <class '__main__.Scaffold'>
+    └ <function Fire at 0x7f12f4ab3820>
+
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 143, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      │     │          │     │                 │        └ 'main.py'
+                      │     │          │     │                 └ {}
+                      │     │          │     └ Namespace(completion=None, help=False, interactive=False, separator='-', trace=False, verbose=False)
+                      │     │          └ ['run', '--env=production', '--power=16']
+                      │     └ <class '__main__.Scaffold'>
+                      └ <function _Fire at 0x7f12f47a1040>
+  File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 477, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+    │                           └ <function _CallAndUpdateTrace at 0x7f12f47a1160>
+    └ <function Scaffold.run at 0x7f12f473cc10>
+> File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/fire/core.py", line 693, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                │   │          └ {}
+                │   └ ['production', 16]
+                └ <function Scaffold.run at 0x7f12f473cc10>
+
+  File "main.py", line 372, in run
+    template_ = booster.overload_tasks()
+                │       └ <function CoroutineSpeedup.overload_tasks at 0x7f12f47405e0>
+                └ <__main__.CoroutineSpeedup object at 0x7f12f4690b80>
+
+  File "main.py", line 200, in overload_tasks
+    md_obj: dict = ot.to_markdown(context)
+                   │  │           └ {'paper': {'2404.17546': {'publish_time': '**2024-04-26**', 'title': '**Probabilistic Inference in Language Models via Twiste...
+                   │  └ <function _OverloadTasks.to_markdown at 0x7f12f4740040>
+                   └ <__main__._OverloadTasks object at 0x7f12f13d4820>
+
+  File "main.py", line 335, in to_markdown
+    _abstracts_md = f"\n#### Abstracts\n"+"".join([self._generate_markdown_abstract_content(
+                                                   │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f12f4740310>
+                                                   └ <__main__._OverloadTasks object at 0x7f12f13d4820>
+
+  File "main.py", line 335, in <listcomp>
+    _abstracts_md = f"\n#### Abstracts\n"+"".join([self._generate_markdown_abstract_content(
+                                                   │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f12f4740310>
+                                                   └ <__main__._OverloadTasks object at 0x7f12f13d4820>
+
+  File "main.py", line 260, in _generate_markdown_abstract_content
+    line = f"##### {paper['id']}" \
+
+NameError: name 'paper_summary' is not defined

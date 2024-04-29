@@ -927,7 +927,7 @@ recommendation (RCR) to enable an end-to-end AIDR experience.
 合併基於規則的靜態閾值以合併特定於域的
 知識。單變量和多變量 ML 模型均已部署並
 透過分散式服務進行維護，以實現可擴展性和高可用性。
-AIDR 有一個回饋循環，可以結合以下因素來評估模型品質：
+AIDR 有一個回饋循環，可結合以下因素評估模型品質：
 漂移檢測演算法和客戶回饋。它還提供
 自我入門能力和可自訂性。 AIDR取得了成功
 與各個內部團隊合作，檢測時間更短，錯誤更少
@@ -3635,7 +3635,7 @@ for the Spanish, French, and Italian benchmarks, while being competitive with
 current state-of-the-art LLMs in English.
 
 摘要：醫學應用開發的語言技術研究
-是當前自然語言理解和生成領域的熱門話題。
+是目前自然語言理解和生成領域的熱門話題。
 因此，許多大型語言模型（LLM）最近已適應
 醫學領域，以便它們可以用作調解的工具
 人機互動。雖然這些LLM在以下方面表現出有競爭力的表現

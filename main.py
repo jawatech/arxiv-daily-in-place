@@ -128,7 +128,7 @@ class CoroutineSpeedup:
 
             code_url = base_url + paper_id
             paper_first_author = result.authors[0]
-
+            paper_authors = ",".join([str(a) for a in result.authors])
             publish_time = result.published.date()
 
             ver_pos = paper_id.find('v')
@@ -173,7 +173,8 @@ class CoroutineSpeedup:
                     "title": paper_title,
                     "paper_summary": paper_summary,
                     "paper_summary_zh": translate(paper_summary).replace('法學碩士','LLM'),
-                    "authors": f"{paper_first_author} et.al.",
+                    "author": f"{paper_first_author} et.al.",
+                    "authors": paper_authors,
                     "id": paper_id,
                     "paper_url": paper_url,
                     "repo": repo_url
@@ -277,7 +278,7 @@ class _OverloadTasks:
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
-               f"|{paper['authors']}" \
+               f"|{paper['author']}" \
                f"|{_pdf}" \
                f"|{_repo}|\n"
 

@@ -172,7 +172,7 @@ class CoroutineSpeedup:
                     "publish_time": publish_time,
                     "title": paper_title,
                     "paper_summary": paper_summary,
-                    "paper_summary_zh": translate(paper_summary),
+                    "paper_summary_zh": translate(paper_summary).replace('法學碩士','LLM'),
                     "authors": f"{paper_first_author} et.al.",
                     "id": paper_id,
                     "paper_url": paper_url,

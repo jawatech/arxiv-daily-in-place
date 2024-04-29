@@ -23,7 +23,7 @@ import arxiv
 import yaml
 
 from fire import Fire
-
+from util4translation import HEADERS, get_week_dates, translate
 from config import (
     SERVER_PATH_TOPIC,
     SERVER_DIR_STORAGE,
@@ -65,6 +65,9 @@ class ToolBox:
         except json.decoder.JSONDecodeError as e:
             logger.error(e)
 
+    @staticmethod
+    def translate(abstract):
+        return translate(abstract)
 
 class CoroutineSpeedup:
     """轻量化的协程控件"""

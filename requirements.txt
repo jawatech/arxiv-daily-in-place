@@ -1,6 +1,6 @@
 arxiv
 requests
-
+google-generativeai
 gevent
 pyyaml
 loguru

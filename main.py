@@ -263,8 +263,7 @@ class _OverloadTasks:
     def _generate_markdown_abstract_content(self, paper: dict):
         line = f"##### {paper['title']}" \
                f"\n{paper['id']} by {paper['authors']}\n" \
-               f"" \
-               f"\n{paper['paper_summary']}\n摘要：{paper['paper_summary_zh']}"
+               f"\n{paper['paper_summary']}\n\n摘要：{paper['paper_summary_zh']}\n\n"
 
         return line
 

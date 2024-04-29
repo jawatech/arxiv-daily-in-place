@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**
-2404.17454v1 by Kaichen Xu et.al.
+2404.17454v1 by Kaichen Xu,Yueyang Ding,Suyang Hou,Weiqiang Zhan,Nisang Chen,Jun Wang,Xiaobo Sun
 
 Fined-grained anomalous cell detection from affected tissues is critical for
 clinical diagnosis and pathological research. Single-cell sequencing data
@@ -144,7 +144,7 @@ contexts. Our code is available at https://github.com/Catchxu/ACsleuth.
 上下文。我們的程式碼可在 https://github.com/Catchxu/ACsleuth 取得。
 
 ##### **M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**
-2404.17391v1 by Lakmal Meegahapola et.al.
+2404.17391v1 by Lakmal Meegahapola,Hamza Hassoune,Daniel Gatica-Perez
 
 Over the years, multimodal mobile sensing has been used extensively for
 inferences regarding health and well being, behavior, and context. However, a
@@ -199,7 +199,7 @@ AUC（受試者工作特徵曲線下面積）
 任務。
 
 ##### **Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study**
-2404.17183v1 by Muhammad Rizwan et.al.
+2404.17183v1 by Muhammad Rizwan,Jure Demšar
 
 Social anxiety represents a prevalent challenge in modern society, affecting
 individuals across personal and professional spheres. Left unaddressed, this
@@ -242,7 +242,7 @@ interventions tailored to its diverse expressions.
 針對其不同表現形式的介入措施。
 
 ##### **Deep Evidential Learning for Dose Prediction**
-2404.17126v1 by Hai Siong Tan et.al.
+2404.17126v1 by Hai Siong Tan,Kuancheng Wang,Rafe Mcbeth
 
 In this work, we present a novel application of an uncertainty-quantification
 framework called Deep Evidential Learning in the domain of radiotherapy dose
@@ -289,7 +289,7 @@ intervals.
 間隔。
 
 ##### **Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**
-2404.16957v1 by Yunfei Ge et.al.
+2404.16957v1 by Yunfei Ge,Quanyan Zhu
 
 The pervasive integration of Artificial Intelligence (AI) has introduced
 complex challenges in the responsibility and accountability in the event of
@@ -332,7 +332,7 @@ reflection.
 反射。
 
 ##### **Taming False Positives in Out-of-Distribution Detection with Human Feedback**
-2404.16954v1 by Harit Vishwakarma et.al.
+2404.16954v1 by Harit Vishwakarma,Heguang Lin,Ramya Korlakai Vinayak
 
 Robustness to out-of-distribution (OOD) samples is crucial for safely
 deploying machine learning models in the open world. Recent works have focused
@@ -373,7 +373,7 @@ OOD 資料集表明，我們的方法最多可以將 FPR 維持在 $5\%$，而
 最大化 TPR。
 
 ##### **Features Fusion for Dual-View Mammography Mass Detection**
-2404.16718v1 by Arina Varlamova et.al.
+2404.16718v1 by Arina Varlamova,Valery Belotsky,Grigory Novikov,Anton Konushin,Evgeny Sidorov
 
 Detection of malignant lesions on mammography images is extremely important
 for early breast cancer diagnosis. In clinical practice, images are acquired
@@ -406,7 +406,7 @@ MAMM-Net 的關鍵組件是融合層，基於可變形注意力和
 惡性腫瘤。
 
 ##### **Report on Candidate Computational Indicators for Conscious Valenced Experience**
-2404.16696v1 by Andres Campero et.al.
+2404.16696v1 by Andres Campero
 
 This report enlists 13 functional conditions cashed out in computational
 terms that have been argued to be constituent of conscious valenced experience.
@@ -421,7 +421,7 @@ evolution, neuroscience, and artificial intelligence.
 進化論、神經科學和人工智慧。
 
 ##### **ProbGate at EHRSQL 2024: Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling**
-2404.16659v1 by Sangryul Kim et.al.
+2404.16659v1 by Sangryul Kim,Donghee Han,Sehyun Kim
 
 Recently, deep learning-based language models have significantly enhanced
 text-to-SQL tasks, with promising applications in retrieving patient records
@@ -450,7 +450,7 @@ are not accessible, and that it can be effectively utilized in practice.
 是不可獲取的，並且可以在實踐中有效利用。
 
 ##### **Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**
-2404.16621v1 by Emre Can Acikgoz et.al.
+2404.16621v1 by Emre Can Acikgoz,Osman Batur İnce,Rayene Bench,Arda Anıl Boz,İlker Kesen,Aykut Erdem,Erkut Erdem
 
 The integration of Large Language Models (LLMs) into healthcare promises to
 transform medical diagnostics, research, and patient care. Yet, the progression
@@ -495,7 +495,7 @@ LLM的全部潛力不僅可以促進醫學知識和病人的發展
 它們在全球範圍內可用。
 
 ##### **DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**
-2404.16474v1 by Zhihao Shuai et.al.
+2404.16474v1 by Zhihao Shuai,Yinan Chen,Shunqiang Mao,Yihan Zho,Xiaohong Zhang
 
 Weakly supervised medical image segmentation (MIS) using generative models is
 crucial for clinical diagnosis. However, the accuracy of the segmentation
@@ -536,7 +536,7 @@ DiffSeg，一種基於擴散差的皮損分割模型
 數據集，優於最先進的基於 U-Net 的方法。
 
 ##### **Light-weight Retinal Layer Segmentation with Global Reasoning**
-2404.16346v1 by Xiang He et.al.
+2404.16346v1 by Xiang He,Weiye Song,Yiming Wang,Fabio Poiesi,Ji Yi,Manishi Desai,Quanqing Xu,Kongzheng Yang,Yi Wan
 
 Automatic retinal layer segmentation with medical images, such as optical
 coherence tomography (OCT) images, serves as an important tool for diagnosing
@@ -575,7 +575,7 @@ collected dataset and two other public datasets, with only 3.3M parameters.
 收集的資料集和另外兩個公共資料集，只有 330 萬個參數。
 
 ##### **Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**
-2404.16325v1 by Hedda Cohen Indelman et.al.
+2404.16325v1 by Hedda Cohen Indelman,Elay Dahan,Angeles M. Perez-Agosto,Carmit Shiran,Doron Shaked,Nati Daniel
 
 Despite the remarkable success of deep learning in medical imaging analysis,
 medical image segmentation remains challenging due to the scarcity of
@@ -610,7 +610,7 @@ yielding a larger performance gain as the training set size decreases.
 隨著訓練集大小的減小，產生更大的效能增益。
 
 ##### **LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**
-2404.16294v1 by Saranya Krishnamoorthy et.al.
+2404.16294v1 by Saranya Krishnamoorthy,Ayush Singh,Shabnam Tafreshi
 
 Electronic health records (EHR) even though a boon for healthcare
 practitioners, are growing convoluted and longer every day. Sifting around
@@ -647,7 +647,7 @@ GPT-4 也可以有效解決零樣本和少樣本設定下的任務
 表現良好，暗示著進一步的研究和更嚴格的基準。
 
 ##### **Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**
-2404.16251v2 by Divyansh Agarwal et.al.
+2404.16251v2 by Divyansh Agarwal,Alexander R. Fabbri,Philippe Laban,Ben Risher,Shafiq Joty,Caiming Xiong,Chien-Sheng Wu
 
 Prompt leakage in large language models (LLMs) poses a significant security
 and privacy threat, particularly in retrieval-augmented generation (RAG)
@@ -684,7 +684,7 @@ LLM 回答中的指導和知識外洩。在多圈設定中，
 顯示 LLM 安全研究的增強空間和未來方向。
 
 ##### **ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**
-2404.16183v1 by Sarala Naidu et.al.
+2404.16183v1 by Sarala Naidu,Ning Xiong
 
 Anomaly detection in industrial systems is crucial for preventing equipment
 failures, ensuring risk identification, and maintaining overall system
@@ -725,7 +725,7 @@ informed decisions about maintenance strategies
 有關維護策略的明智決策
 
 ##### **Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**
-2404.16112v1 by Badri Narayana Patro et.al.
+2404.16112v1 by Badri Narayana Patro,Vijay Srinivas Agneeswaran
 
 Sequence modeling is a crucial area across various domains, including Natural
 Language Processing (NLP), speech recognition, time series forecasting, music
@@ -780,7 +780,7 @@ COIN、LVU 和各種時間序列資料集。 Mamba-360 的專案頁面
 此網頁上提供了工作。
 
 ##### **Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**
-2404.15946v1 by Xuxin Chen et.al.
+2404.15946v1 by Xuxin Chen,Yuheng Li,Mingzhe Hu,Ella Salari,Xiaoqian Chen,Richard L. J. Qiu,Bin Zheng,Xiaofeng Yang
 
 Although fusion of information from multiple views of mammograms plays an
 important role to increase accuracy of breast cancer detection, developing
@@ -837,7 +837,7 @@ cancer.
 癌症。
 
 ##### **Assessing The Potential Of Mid-Sized Language Models For Clinical QA**
-2404.15894v1 by Elliot Bolton et.al.
+2404.15894v1 by Elliot Bolton,Betty Xiong,Vijaytha Muralidharan,Joel Schamroth,Vivek Muralidharan,Christopher D. Manning,Roxana Daneshjou
 
 Large language models, such as GPT-4 and Med-PaLM, have shown impressive
 performance on clinical tasks; however, they require access to compute, are
@@ -870,7 +870,7 @@ BioGPT-large、BioMedLM、LLaMA 2 和 Mistral 7B 避免了這些缺點，但是
 臨床任務。
 
 ##### **Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**
-2404.16080v1 by Hong-Jun Yoon et.al.
+2404.16080v1 by Hong-Jun Yoon,Chris Keum,Alexander Witkowski,Joanna Ludzik,Tracy Petrie,Heidi A. Hanson,Sancy A. Leachman
 
 Reflectance Confocal Microscopy (RCM) is a non-invasive imaging technique
 used in biomedical research and clinical dermatology. It provides virtual
@@ -897,7 +897,7 @@ advance dermatological diagnosis and treatment.
 推進皮膚病診斷和治療。
 
 ##### **Anomaly Detection for Incident Response at Scale**
-2404.16887v1 by Hanzhang Wang et.al.
+2404.16887v1 by Hanzhang Wang,Gowtham Kumar Tangirala,Gilkara Pranav Naidu,Charles Mayville,Arighna Roy,Joanne Sun,Ramesh Babu Mandava
 
 We present a machine learning-based anomaly detection product, AI Detect and
 Respond (AIDR), that monitors Walmart's business and system health in
@@ -936,7 +936,7 @@ AIDR 有一個回饋循環，可結合以下因素評估模型品質：
 推薦（RCR）以實現端到端 AIDR 體驗。
 
 ##### **Adapting an Artificial Intelligence Sexually Transmitted Diseases Symptom Checker Tool for Mpox Detection: The HeHealth Experience**
-2404.16885v1 by Rayner Kay Jin Tan et.al.
+2404.16885v1 by Rayner Kay Jin Tan,Dilruk Perera,Salomi Arasaratnam,Yudara Kularathne
 
 Artificial Intelligence applications have shown promise in the management of
 pandemics and have been widely used to assist the identification,
@@ -991,7 +991,7 @@ Mpox，該團隊開發了一款智慧型手機應用程序，應用程式用戶�
 大數據其實是由小數據組成的概念。
 
 ##### **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**
-2404.15549v1 by Shashi Kant Gupta et.al.
+2404.15549v1 by Shashi Kant Gupta,Aditya Basu,Mauro Nievas,Jerrin Thomas,Nathan Wolfrath,Adhitya Ramamurthi,Bradley Taylor,Anai N. Kothari,Therica M. Miller,Sorena Nadaf-Rahrov,Yanshan Wang,Hrituraj Singh
 
 Clinical trial matching is the task of identifying trials for which patients
 may be potentially eligible. Typically, this task is labor-intensive and
@@ -1034,7 +1034,7 @@ GPT-3.5也符合合格醫師的表現。全部
 來自美國單一癌症中心的可用臨床試驗。
 
 ##### **Multi-scale Intervention Planning based on Generative Design**
-2404.15492v1 by Ioannis Kavouras et.al.
+2404.15492v1 by Ioannis Kavouras,Ioannis Rallis,Emmanuel Sardis,Eftychios Protopapadakis,Anastasios Doulamis,Nikolaos Doulamis
 
 The scarcity of green spaces, in urban environments, consists a critical
 challenge. There are multiple adverse effects, impacting the health and
@@ -1063,7 +1063,7 @@ shaping the future of urban intervention planning processes.
 塑造城市干預規劃流程的未來。
 
 ##### **IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**
-2404.15488v1 by Jean-Philippe Corbeil et.al.
+2404.15488v1 by Jean-Philippe Corbeil
 
 In natural language processing applied to the clinical domain, utilizing
 large language models has emerged as a promising avenue for error detection and
@@ -1106,7 +1106,7 @@ MEDIQA-CORR 2024 final leaderboard.
 MEDIQA-CORR 2024 年最終排行榜。
 
 ##### **Machine Learning Techniques with Fairness for Prediction of Completion of Drug and Alcohol Rehabilitation**
-2404.15418v1 by Karen Roberts-Licklider et.al.
+2404.15418v1 by Karen Roberts-Licklider,Theodore Trafalis
 
 The aim of this study is to look at predicting whether a person will complete
 a drug and alcohol rehabilitation program and the number of times a person
@@ -1151,7 +1151,7 @@ scenarios.
 場景。
 
 ##### **CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**
-2404.15272v2 by Jingyang Lin et.al.
+2404.15272v2 by Jingyang Lin,Yingda Xia,Jianpeng Zhang,Ke Yan,Le Lu,Jiebo Luo,Ling Zhang
 
 Medical Vision-Language Pretraining (Med-VLP) establishes a connection
 between visual content from medical images and the relevant textual
@@ -1196,7 +1196,7 @@ CT-GLIP（基於 CT 掃描的接地語言影像預訓練），一種新方法
 並使用 CNN 和 ViT 架構微調場景。
 
 ##### **A review of deep learning-based information fusion techniques for multimodal medical image classification**
-2404.15022v1 by Yihao Li et.al.
+2404.15022v1 by Yihao Li,Mostafa El Habib Daho,Pierre-Henri Conze,Rachid Zeghlache,Hugo Le Boité,Ramin Tadayoni,Béatrice Cochener,Mathieu Lamard,Gwenolé Quellec
 
 Multimodal medical imaging plays a pivotal role in clinical diagnosis and
 research, as it combines information from various imaging modalities to provide
@@ -1237,7 +1237,7 @@ future research in this rapidly evolving field.
 這個快速發展的領域的未來研究。
 
 ##### **Clustering of timed sequences -- Application to the analysis of care pathways**
-2404.15379v1 by Thomas Guyet et.al.
+2404.15379v1 by Thomas Guyet,Pierre Pinson,Enoal Gesny
 
 Improving the future of healthcare starts by better understanding the current
 actual practices in hospitals. This motivates the objective of discovering
@@ -1268,7 +1268,7 @@ cases.
 案例。
 
 ##### **Grounded Knowledge-Enhanced Medical VLP for Chest X-Ray**
-2404.14750v1 by Qiao Deng et.al.
+2404.14750v1 by Qiao Deng,Zhongzhen Huang,Yunqi Wang,Zhichuan Wang,Zhao Wang,Xiaofan Zhang,Qi Dou,Yeung Yu Hui,Edward S. Hui
 
 Medical vision-language pre-training has emerged as a promising approach for
 learning domain-general representations of medical image and text. Current
@@ -1303,7 +1303,7 @@ between chest X-ray image and radiology report.
 胸部 X 光影像和放射學報告之間的關係。
 
 ##### **DAIC-WOZ: On the Validity of Using the Therapist's prompts in Automatic Depression Detection from Clinical Interviews**
-2404.14463v1 by Sergio Burdisso et.al.
+2404.14463v1 by Sergio Burdisso,Ernesto Reyes-Ramírez,Esaú Villatoro-Tello,Fernando Sánchez-Vega,Pastor López-Monroy,Petr Motlicek
 
 Automatic depression detection from conversational data has gained
 significant interest in recent years. The DAIC-WOZ dataset, interviews
@@ -1346,7 +1346,7 @@ patient's mental health condition.
 患者的心理健康狀況。
 
 ##### **Adaptive Collaboration Strategy for LLMs in Medical Decision Making**
-2404.15155v1 by Yubin Kim et.al.
+2404.15155v1 by Yubin Kim,Chanwoo Park,Hyewon Jeong,Yik Siu Chan,Xuhai Xu,Daniel McDuff,Cynthia Breazeal,Hae Won Park
 
 Foundation models have become invaluable in advancing the medical field.
 Despite their promise, the strategic deployment of LLMs for effective utility
@@ -1383,7 +1383,7 @@ Path-VQA 和 MedVidQA，在 7 個基準測試中的 5 個中取得最佳效能
 動力學。我們的程式碼可以在 https://github.com/mitmedialab/MDAgents 找到。
 
 ##### **A Nasal Cytology Dataset for Object Detection and Deep Learning**
-2404.13745v1 by Mauro Camporeale et.al.
+2404.13745v1 by Mauro Camporeale,Giovanni Dimauro,Matteo Gelardi,Giorgia Iacobellis,Mattia Sebastiano Ladisa,Sergio Latrofa,Nunzia Lomonte
 
 Nasal Cytology is a new and efficient clinical technique to diagnose rhinitis
 and allergies that is not much widespread due to the time-consuming nature of
@@ -1420,7 +1420,7 @@ DETR和YOLO模型在檢測細胞和分類方面表現出良好的性能
 專家。
 
 ##### **Bt-GAN: Generating Fair Synthetic Healthdata via Bias-transforming Generative Adversarial Networks**
-2404.13634v3 by Resmi Ramachandranpillai et.al.
+2404.13634v3 by Resmi Ramachandranpillai,Md Fahim Sikder,David Bergström,Fredrik Heintz
 
 Synthetic data generation offers a promising solution to enhance the
 usefulness of Electronic Healthcare Records (EHR) by generating realistic
@@ -1477,7 +1477,7 @@ GAN 等先進技術，為更可靠、更可靠的技術鋪平了道路
 醫療保健應用中的公正預測。
 
 ##### **SmartMem: Layout Transformation Elimination and Adaptation for Efficient DNN Execution on Mobile**
-2404.13528v1 by Wei Niu et.al.
+2404.13528v1 by Wei Niu,Md Musfiqur Rahman Sanim,Zhihao Shu,Jiexiong Guan,Xipeng Shen,Miao Yin,Gagan Agrawal,Bin Ren
 
 This work is motivated by recent developments in Deep Neural Networks,
 particularly the Transformer architectures underlying applications such as
@@ -1524,7 +1524,7 @@ Swin 式架構）和大型模型（例如穩定擴散和LLM）
 分別為平均。
 
 ##### **Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications**
-2404.13506v2 by Charith Chandra Sai Balne et.al.
+2404.13506v2 by Charith Chandra Sai Balne,Sreyoshi Bhaduri,Tamoghna Roy,Vinija Jain,Aman Chadha
 
 The rise of deep learning has marked significant progress in fields such as
 computer vision, natural language processing, and medical imaging, primarily
@@ -1563,7 +1563,7 @@ PEFT 方法在減少計算負載、加速方面的有效性
 接近。
 
 ##### **SiNC+: Adaptive Camera-Based Vitals with Unsupervised Learning of Periodic Signals**
-2404.13449v1 by Jeremy Speth et.al.
+2404.13449v1 by Jeremy Speth,Nathan Vance,Patrick Flynn,Adam Czajka
 
 Subtle periodic signals, such as blood volume pulse and respiration, can be
 extracted from RGB video, enabling noncontact health monitoring at low cost.
@@ -1608,7 +1608,7 @@ personalized and adaptive signal regressors.
 個性化和自適應訊號回歸器。
 
 ##### **MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized Federated Learning**
-2404.13421v1 by Michael Duchesne et.al.
+2404.13421v1 by Michael Duchesne,Kaiwen Zhang,Chamseddine Talhi
 
 Federated Learning (FL) has emerged as a prominent privacy-preserving
 technique for enabling use cases like confidential clinical machine learning.
@@ -1649,7 +1649,7 @@ FL 的好處。我們提出 MultiConfederated Learning：去中心化的 FL
 來自同行的總結。
 
 ##### **UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions**
-2404.13343v1 by Ana-Cristina Rogoz et.al.
+2404.13343v1 by Ana-Cristina Rogoz,Radu Tudor Ionescu
 
 This work explores a novel data augmentation method based on Large Language
 Models (LLMs) for predicting item difficulty and response time of retired USMLE
@@ -1676,7 +1676,7 @@ LLM答案的可變性，突顯了LLM提高水平的潛力
 https://github.com/ana-rogoz/BEA-2024。
 
 ##### **Practical Battery Health Monitoring using Uncertainty-Aware Bayesian Neural Network**
-2404.14444v1 by Yunyi Zhao et.al.
+2404.14444v1 by Yunyi Zhao,Zhang Wei,Qingyu Yan,Man-Fai Ng,B. Sivaneasan,Cheng Xiang
 
 Battery health monitoring and prediction are critically important in the era
 of electric mobility with a huge impact on safety, sustainability, and economic
@@ -1715,7 +1715,7 @@ health 並對每個參數套用分佈，而不是單點
 業界技術的採用。
 
 ##### **Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging**
-2404.13149v1 by Chia-Hsuan Chang et.al.
+2404.13149v1 by Chia-Hsuan Chang,Mary M. Lucas,Yeawon Lee,Christopher C. Yang,Grace Lu-Yao
 
 Advances in large language models (LLMs) have encouraged their adoption in
 the healthcare domain where vital clinical information is often contained in
@@ -1756,7 +1756,7 @@ critical.
 批判的。
 
 ##### **Explainable AI for Fair Sepsis Mortality Predictive Model**
-2404.13139v1 by Chia-Hsuan Chang et.al.
+2404.13139v1 by Chia-Hsuan Chang,Xiaoyang Wang,Christopher C. Yang
 
 Artificial intelligence supports healthcare professionals with predictive
 modeling, greatly transforming clinical decision-making. This study addresses
@@ -1797,7 +1797,7 @@ delivery.
 送貨。
 
 ##### **Eye-tracking in Mixed Reality for Diagnosis of Neurodegenerative Diseases**
-2404.12984v1 by Mateusz Daniol et.al.
+2404.12984v1 by Mateusz Daniol,Daria Hemmerling,Jakub Sikora,Pawel Jemiolo,Marek Wodzinski,Magdalena Wojcik-Pedziwiatr
 
 Parkinson's disease ranks as the second most prevalent neurodegenerative
 disorder globally. This research aims to develop a system leveraging Mixed
@@ -1850,7 +1850,7 @@ attachments, enabling examinations through personal eyewear.
 附件，可透過個人眼鏡進行檢查。
 
 ##### **A Large-scale Medical Visual Task Adaptation Benchmark**
-2404.12876v1 by Shentong Mo et.al.
+2404.12876v1 by Shentong Mo,Xufang Luo,Yansen Wang,Dongsheng Li
 
 Visual task adaptation has been demonstrated to be effective in adapting
 pre-trained Vision Transformers (ViTs) to general downstream visual tasks using
@@ -1889,7 +1889,7 @@ Med-VTAB 顯示單一預訓練模型在醫療任務中存在不足
 適配器，在醫學視覺任務適應方面取得了最先進的成果。
 
 ##### **Multi Class Depression Detection Through Tweets using Artificial Intelligence**
-2404.13104v1 by Muhammad Osama Nusrat et.al.
+2404.13104v1 by Muhammad Osama Nusrat,Waseem Shahzad,Saad Ahmed Jamal
 
 Depression is a significant issue nowadays. As per the World Health
 Organization (WHO), in 2023, over 280 million individuals are grappling with
@@ -1932,7 +1932,7 @@ Transformers (BERT) 用於特徵提取和訓練。機器
 0.96。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
-2404.12832v1 by Dmytro Shvetsov et.al.
+2404.12832v1 by Dmytro Shvetsov,Joonas Ariva,Marharyta Domnich,Raul Vicente,Dmytro Fishman
 
 Deep learning is dramatically transforming the field of medical imaging and
 radiology, enabling the identification of pathologies in medical images,
@@ -1987,7 +1987,7 @@ CT 影像中的腫瘤，並在深度學習方面向前邁進了一步
 是稀缺的。
 
 ##### **DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**
-2404.13101v1 by Hesam Hakimnejad et.al.
+2404.13101v1 by Hesam Hakimnejad,Zohreh Azimifar,Narjes Goshtasbi
 
 Image reconstruction is an essential step of every medical imaging method,
 including Photoacoustic Tomography (PAT), which is a promising modality of
@@ -2020,7 +2020,7 @@ over other prevalent deep learning techniques.
 優於其他流行的深度學習技術。
 
 ##### **Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**
-2404.12634v1 by Danqing Ma et.al.
+2404.12634v1 by Danqing Ma,Meng Wang,Ao Xiang,Zongqing Qi,Qin Yang
 
 This study proposes a multi-modal fusion framework Multitrans based on the
 Transformer architecture and self-attention mechanism. This architecture
@@ -2049,7 +2049,7 @@ Transformer 架構和自註意力機制。這種架構
 準確預測中風治療效果..
 
 ##### **GluMarker: A Novel Predictive Modeling of Glycemic Control Through Digital Biomarkers**
-2404.12605v1 by Ziyi Zhou et.al.
+2404.12605v1 by Ziyi Zhou,Ming Cheng,Xingjian Diao,Yanjun Cui,Xiangling Li
 
 The escalating prevalence of diabetes globally underscores the need for
 diabetes management. Recent research highlights the growing focus on digital
@@ -2086,7 +2086,7 @@ GluMarker－一種用於數位生物標記建模的端到端框架
 對糖尿病照護的重要見解。
 
 ##### **DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**
-2404.12278v1 by David Restrepo et.al.
+2404.12278v1 by David Restrepo,Chenwei Wu,Constanza Vásquez-Venegas,Luis Filipe Nakayama,Leo Anthony Celi,Diego M López
 
 In the big data era, integrating diverse data modalities poses significant
 challenges, particularly in complex fields like healthcare. This paper
@@ -2131,7 +2131,7 @@ diverse, resource-constrained settings.
 多樣化、資源有限的環境。
 
 ##### **Relationship Discovery for Drug Recommendation**
-2404.12228v1 by Xiang Li et.al.
+2404.12228v1 by Xiang Li,Shunpan Liang,Yu Lei,Chen Li,Yulei Hou,Tengfei Ma
 
 Medication recommendation systems are designed to deliver personalized drug
 suggestions that are closely aligned with individual patient needs. Previous
@@ -2168,7 +2168,7 @@ profiles but also surpasses leading models in both precision and safety.
 外形，但在精度和安全性方面也超越了領先型號。
 
 ##### **A Symmetric Regressor for MRI-Based Assessment of Striatal Dopamine Transporter Uptake in Parkinson's Disease**
-2404.11929v1 by Walid Abdullah Al et.al.
+2404.11929v1 by Walid Abdullah Al,Il Dong Yun,Yun Jung Bae
 
 Dopamine transporter (DAT) imaging is commonly used for monitoring
 Parkinson's disease (PD), where striatal DAT uptake amount is computed to
@@ -2213,7 +2213,7 @@ DAT 攝取預測的估計，利用了上述對稱性。我們
 範圍。
 
 ##### **Cross-model Mutual Learning for Exemplar-based Medical Image Segmentation**
-2404.11812v1 by Qing En et.al.
+2404.11812v1 by Qing En,Yuhong Guo
 
 Medical image segmentation typically demands extensive dense annotations for
 model training, which is both time-consuming and skill-intensive. To mitigate
@@ -2262,7 +2262,7 @@ supervision.
 監督。
 
 ##### **A Secure and Trustworthy Network Architecture for Federated Learning Healthcare Applications**
-2404.11698v1 by Antonio Boiano et.al.
+2404.11698v1 by Antonio Boiano,Marco Di Gennaro,Luca Barbieri,Michele Carminati,Monica Nicoli,Alessandro Redondi,Stefano Savazzi,Albert Sund Aillet,Diogo Reis Santos,Luigi Serio
 
 Federated Learning (FL) has emerged as a promising approach for
 privacy-preserving machine learning, particularly in sensitive domains such as
@@ -2295,7 +2295,7 @@ TRUSTroke FL 網路基礎設施概述。建議的架構
 可信度等級。
 
 ##### **Towards Reliable Empirical Machine Unlearning Evaluation: A Game-Theoretic View**
-2404.11577v1 by Yiwen Tu et.al.
+2404.11577v1 by Yiwen Tu,Pingbang Hu,Jiaqi Ma
 
 Machine unlearning is the process of updating machine learning models to
 remove the information of specific training data samples, in order to comply
@@ -2338,7 +2338,7 @@ MIA 對手，測量遺忘演算法的資料刪除效率
 為開發更有效的忘卻技術鋪路。
 
 ##### **Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**
-2404.11209v1 by Hongzhao Li et.al.
+2404.11209v1 by Hongzhao Li,Hongyu Wang,Xia Sun,Hua He,Jun Feng
 
 Medical report generation automates radiology descriptions from images,
 easing the burden on physicians and minimizing errors. However, current methods
@@ -2373,7 +2373,7 @@ effectiveness metrics, demonstrating strong performance.
 有效性指標，展現強勁的績效。
 
 ##### **Explainable Machine Learning System for Predicting Chronic Kidney Disease in High-Risk Cardiovascular Patients**
-2404.11148v1 by Nantika Nguycharoen et.al.
+2404.11148v1 by Nantika Nguycharoen
 
 As the global population ages, the incidence of Chronic Kidney Disease (CKD)
 is rising. CKD often remains asymptomatic until advanced stages, which
@@ -2420,7 +2420,7 @@ CKD 患者有心血管風險，利用病史和
 顯示出在醫療保健機器學習領域更廣泛應用的前景。
 
 ##### **AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation**
-2404.11008v1 by Qing En et.al.
+2404.11008v1 by Qing En,Yuhong Guo
 
 Lung-infected area segmentation is crucial for assessing the severity of lung
 diseases. However, existing image-text multi-modal methods typically rely on
@@ -2471,7 +2471,7 @@ in unsupervised scenarios.
 在無人監督的場景中。
 
 ##### **Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**
-2404.10978v1 by Nawfal Guefrachi et.al.
+2404.10978v1 by Nawfal Guefrachi,Jian Shi,Hakim Ghazzai,Ahmad Alsharoa
 
 The integration of Light Detection and Ranging (LiDAR) and Internet of Things
 (IoT) technologies offers transformative opportunities for public health
@@ -2508,7 +2508,7 @@ LiDAR，我們取得詳細的3D點雲數據，實現精準行人
 促進更安全的城市環境。
 
 ##### **CrossGP: Cross-Day Glucose Prediction Excluding Physiological Information**
-2404.10901v1 by Ziyi Zhou et.al.
+2404.10901v1 by Ziyi Zhou,Ming Cheng,Yanjun Cui,Xingjian Diao,Zhaorui Ma
 
 The increasing number of diabetic patients is a serious issue in society
 today, which has significant negative impacts on people's health and the
@@ -2549,7 +2549,7 @@ of CrossGP and prove its potential for future real-life applications.
 CrossGP 並證明其在未來現實生活應用中的潛力。
 
 ##### **Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation**
-2404.10717v1 by Lijian Li et.al.
+2404.10717v1 by Lijian Li
 
 Recently, prototype learning has emerged in semi-supervised medical image
 segmentation and achieved remarkable performance. However, the scarcity of
@@ -2584,7 +2584,7 @@ confirming the effectiveness of our framework. The code will be released soon.
 確認我們框架的有效性。該代碼即將發布。
 
 ##### **AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**
-2404.10573v2 by Lijun Liu et.al.
+2404.10573v2 by Lijun Liu,Jiali Yang,Jianfei Song,Xinglin Yang,Lele Niu,Zeqi Cai,Hui Shi,Tingjun Hou,Chang-yu Hsieh,Weiran Shen,Yafeng Deng
 
 Recombinant adeno-associated virus (rAAV) vectors have revolutionized gene
 therapy, but their broad tropism and suboptimal transduction efficiency limit
@@ -2627,7 +2627,7 @@ rAAV 載體的設計與功能驗證，提供創新解決方案
 應用程式.
 
 ##### **A Sentiment Analysis of Medical Text Based on Deep Learning**
-2404.10503v1 by Yinan Chen et.al.
+2404.10503v1 by Yinan Chen
 
 The field of natural language processing (NLP) has made significant progress
 with the rapid development of deep learning technologies. One of the research
@@ -2668,7 +2668,7 @@ METS-CoV 資料集以探索整合後的訓練效能
 高效的模型架構。
 
 ##### **Integration of Self-Supervised BYOL in Semi-Supervised Medical Image Recognition**
-2404.10405v1 by Hao Feng et.al.
+2404.10405v1 by Hao Feng,Yuanzhe Jia,Ruijia Xu,Mukesh Prasad,Ali Anaissi,Ali Braytee
 
 Image recognition techniques heavily rely on abundant labeled data,
 particularly in medical contexts. Addressing the challenges associated with
@@ -2697,7 +2697,7 @@ existing methods in terms of accuracy for medical image recognition.
 現有方法在醫學影像辨識的準確性方面。
 
 ##### **Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**
-2404.10356v1 by Payal Varshney et.al.
+2404.10356v1 by Payal Varshney,Adriano Lucieri,Christoph Balada,Andreas Dengel,Sheraz Ahmed
 
 Trustworthiness is a major prerequisite for the safe application of opaque
 deep learning models in high-stakes domains like medicine. Understanding the
@@ -2746,7 +2746,7 @@ direction.
 方向。
 
 ##### **CARE to Compare: A real-world dataset for anomaly detection in wind turbine data**
-2404.10320v2 by Christian Gück et.al.
+2404.10320v2 by Christian Gück,Cyriana M. A. Roelofs,Stefan Faulstich
 
 Anomaly detection plays a crucial role in the field of predictive maintenance
 for wind turbines, yet the comparison of different algorithms poses a difficult
@@ -2793,7 +2793,7 @@ detecting anomalies early.
 儘早發現異常狀況。
 
 ##### **Clustering and Data Augmentation to Improve Accuracy of Sleep Assessment and Sleep Individuality Analysis**
-2404.10299v1 by Shintaro Tamai et.al.
+2404.10299v1 by Shintaro Tamai,Masayuki Numao,Ken-ichi Fukui
 
 Recently, growing health awareness, novel methods allow individuals to
 monitor sleep at home. Utilizing sleep sounds offers advantages over
@@ -2820,7 +2820,7 @@ TimeSHAP 揭示了有影響力的聲音事件類型和時間安排的差異
 不同的個體。
 
 ##### **Emergent Language Symbolic Autoencoder (ELSA) with Weak Supervision to Model Hierarchical Brain Networks**
-2404.10031v1 by Ammar Ahmed Pallikonda Latheef et.al.
+2404.10031v1 by Ammar Ahmed Pallikonda Latheef,Alberto Santamaria-Pang,Craig K Jones,Haris I Sair
 
 Brain networks display a hierarchical organization, a complexity that poses a
 challenge for existing deep learning models, often structured as flat
@@ -2871,7 +2871,7 @@ nature of brain networks.
 大腦網路的本質。
 
 ##### **Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration**
-2404.09690v1 by Chenwei Lin et.al.
+2404.09690v1 by Chenwei Lin,Hanjia Lyu,Jiebo Luo,Xian Xu
 
 The emergence of Large Multimodal Models (LMMs) marks a significant milestone
 in the development of artificial intelligence. Insurance, as a vast and complex
@@ -2918,7 +2918,7 @@ LMM 可以應對這些挑戰。在本文中，我們探討了 GPT-4V
 未來研究工作的演變。
 
 ##### **Privacy-Preserving Intrusion Detection using Convolutional Neural Networks**
-2404.09625v1 by Martin Kodys et.al.
+2404.09625v1 by Martin Kodys,Zhongmin Dai,Vrizlynn L. L. Thing
 
 Privacy-preserving analytics is designed to protect valuable assets. A common
 service provision involves the input data from the client and the model on the
@@ -2953,7 +2953,7 @@ initially designed for medical data.
 最初是為醫療數據而設計的。
 
 ##### **Efficient and accurate neural field reconstruction using resistive memory**
-2404.09613v1 by Yifei Yu et.al.
+2404.09613v1 by Yifei Yu,Shaocong Wang,Woyu Zhang,Xinyuan Zhang,Xiuzhe Wu,Yangu He,Jichang Yang,Yue Zhang,Ning Lin,Bo Wang,Xi Chen,Songqi Wang,Xumeng Zhang,Xiaojuan Qi,Zhongrui Wang,Dashan Shang,Qi Liu,Kwang-Ting Cheng,Ming Liu
 
 Human beings construct perception of space by integrating sparse observations
 into massively interconnected synapses and neurons, offering a superior
@@ -3008,7 +3008,7 @@ CPU 和記憶體之間的關係，以及 CMOS 電路在支援方面的局限性
 未來高效、強大的醫療人工智慧和 3D 視覺應用。
 
 ##### **WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**
-2404.09533v1 by Bin Wang et.al.
+2404.09533v1 by Bin Wang,Fei Deng,Peifan Jiang,Shuang Wang,Xiao Han,Hongjie Zheng
 
 Low-dose computed tomography (LDCT) has become the technology of choice for
 diagnostic medical imaging, given its lower radiation dose compared to standard
@@ -3059,7 +3059,7 @@ Unet 架構本身，而是專注於最佳化編碼器和
 平方誤差 (RMSE)，顯著提高雜訊去除和影像品質。
 
 ##### **Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**
-2404.09326v2 by Diana-Nicoleta Grigore et.al.
+2404.09326v2 by Diana-Nicoleta Grigore,Mariana-Iuliana Georgescu,Jon Alvarez Justo,Tor Johansen,Andreea Iuliana Ionescu,Radu Tudor Ionescu
 
 Few-shot knowledge distillation recently emerged as a viable approach to
 harness the knowledge of large-scale pre-trained models, using limited data and
@@ -3098,7 +3098,7 @@ usefulness of each component of the proposed pipeline.
 擬議管道中每個組件的有用性。
 
 ##### **Characterizing Soft-Error Resiliency in Arm's Ethos-U55 Embedded Machine Learning Accelerator**
-2404.09317v1 by Abhishek Tyagi et.al.
+2404.09317v1 by Abhishek Tyagi,Reiley Jeyapaul,Chuteng Zhu,Paul Whatmough,Yuhao Zhu
 
 As Neural Processing Units (NPU) or accelerators are increasingly deployed in
 a variety of applications including safety critical applications such as
@@ -3151,7 +3151,7 @@ Ethos-U55 針對汽車安全完整性等級 D (ASIL-D) 彈性
 開銷僅38%。
 
 ##### **TLDR at SemEval-2024 Task 2: T5-generated clinical-Language summaries for DeBERTa Report Analysis**
-2404.09136v1 by Spandan Das et.al.
+2404.09136v1 by Spandan Das,Vinay Samuel,Shahriar Noroozizadeh
 
 This paper introduces novel methodologies for the Natural Language Inference
 for Clinical Trials (NLI4CT) task. We present TLDR (T5-generated
@@ -3176,7 +3176,7 @@ Macro F1 分數的改進：比截斷的前提提高了 0.184。我們的
 對語意改變輸入的預測的忠實度。
 
 ##### **Advanced Neural Network Architecture for Enhanced Multi-Lead ECG Arrhythmia Detection through Optimized Feature Extraction**
-2404.15347v1 by Bhavith Chandra Challagundla et.al.
+2404.15347v1 by Bhavith Chandra Challagundla
 
 Cardiovascular diseases are a pervasive global health concern, contributing
 significantly to morbidity and mortality rates worldwide. Among these
@@ -3225,7 +3225,7 @@ improving patient outcomes in managing cardiovascular arrhythmias.
 改善心血管心律不整的患者治療效果。
 
 ##### **Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**
-2404.09045v1 by Zita Lifelo et.al.
+2404.09045v1 by Zita Lifelo,Huansheng Ning,Sahraoui Dhelim
 
 Timely identification is essential for the efficient handling of mental
 health illnesses such as depression. However, the current research fails to
@@ -3270,7 +3270,7 @@ carefully crafted prompt templates with examples and instructions.
 精心製作的提示模板，包含範例和說明。
 
 ##### **A Fourier-enhanced multi-modal 3D small object optical mark recognition and positioning method for percutaneous abdominal puncture surgical navigation**
-2404.08990v1 by Zezhao Guo et.al.
+2404.08990v1 by Zezhao Guo,Yanzhong Guo,Zhanfang Zhao
 
 Navigation for thoracoabdominal puncture surgery is used to locate the needle
 entry point on the patient's body surface. The traditional reflective ball
@@ -3313,7 +3313,7 @@ positioning of any needle insertion point.
 任何針插入點的定位。
 
 ##### **Leveraging Large Language Model as Simulated Patients for Clinical Education**
-2404.13066v2 by Yanzeng Li et.al.
+2404.13066v2 by Yanzeng Li,Cheng Zeng,Jialun Zhong,Ruoyu Zhang,Minhao Zhang,Lei Zou
 
 Simulated Patients (SPs) play a crucial role in clinical medical education by
 providing realistic scenarios for student practice. However, the high cost of
@@ -3358,7 +3358,7 @@ LLM在臨床醫學教育中的潛力。此框架有利於
 虛擬醫生從診斷能力的角度來看。
 
 ##### **Is ChatGPT Transforming Academics' Writing Style?**
-2404.08627v1 by Mingmeng Geng et.al.
+2404.08627v1 by Mingmeng Geng,Roberto Trotta
 
 Based on one million arXiv papers submitted from May 2018 to January 2024, we
 assess the textual density of ChatGPT's writing style in their abstracts by
@@ -3385,7 +3385,7 @@ ChatGPT 滲透的正面和負面方面
 學者的寫作風格。
 
 ##### **Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**
-2404.08611v1 by Xin Tie et.al.
+2404.08611v1 by Xin Tie,Muheon Shin,Changhee Lee,Scott B. Perlman,Zachary Huemann,Amy J. Weisman,Sharon M. Castellino,Kara M. Kelly,Kathleen M. McCarten,Adina L. Alazraki,Junjie Hu,Steve Y. Cho,Tyler J. Bradshaw
 
 $\textbf{Purpose}$: Automatic quantification of longitudinal changes in PET
 scans for lymphoma patients has proven challenging, as residual disease in
@@ -3442,7 +3442,7 @@ PET2 殘留淋巴瘤，F1 評分為 0.606（精確度/召回率：
 成像資料集。
 
 ##### **RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**
-2404.08555v2 by Shreyas Chaudhari et.al.
+2404.08555v2 by Shreyas Chaudhari,Pranjal Aggarwal,Vishvak Murahari,Tanmay Rajpurohit,Ashwin Kalyan,Karthik Narasimhan,Ameet Deshpande,Bruno Castro da Silva
 
 State-of-the-art large language models (LLMs) have become indispensable tools
 for various tasks. However, training LLMs to serve as effective assistants for
@@ -3491,7 +3491,7 @@ upon existing efforts.
 依靠現有的努力。
 
 ##### **An improved tabular data generator with VAE-GMM integration**
-2404.08434v1 by Patricia A. Apellániz et.al.
+2404.08434v1 by Patricia A. Apellániz,Juan Parras,Santiago Zazo
 
 The rising use of machine learning in various fields requires robust methods
 to create synthetic tabular data. Data should preserve key characteristics
@@ -3536,7 +3536,7 @@ particularly in healthcare.
 特別是在醫療保健領域。
 
 ##### **Improving Health Question Answering with Reliable and Time-Aware Evidence Retrieval**
-2404.08359v1 by Juraj Vladika et.al.
+2404.08359v1 by Juraj Vladika,Florian Matthes
 
 In today's digital world, seeking answers to health questions on the Internet
 is a common practice. However, existing question answering (QA) systems often
@@ -3573,7 +3573,7 @@ QA 設置，其中的關鍵挑戰是首先發現相關證據
 解釋。
 
 ##### **Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification**
-2404.07754v1 by Tuong Vy Nguyen et.al.
+2404.07754v1 by Tuong Vy Nguyen,Alexander Glaser,Felix Biessmann
 
 Novel deep-learning (DL) architectures have reached a level where they can
 generate digital media, including photorealistic images, that are difficult to
@@ -3612,7 +3612,7 @@ DALL-E 2、Imagen 和 Stable Diffusion 等文字到圖像模型正在實現
 確認。
 
 ##### **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain**
-2404.07613v1 by Iker García-Ferrero et.al.
+2404.07613v1 by Iker García-Ferrero,Rodrigo Agerri,Aitziber Atutxa Salazar,Elena Cabrio,Iker de la Iglesia,Alberto Lavelli,Bernardo Magnini,Benjamin Molinet,Johana Ramirez-Romero,German Rigau,Jose Maria Villa-Gonzalez,Serena Villata,Andrea Zaninello
 
 Research on language technology for the development of medical applications
 is currently a hot topic in Natural Language Understanding and Generation.
@@ -3655,7 +3655,7 @@ current state-of-the-art LLMs in English.
 目前最先進的英語LLM。
 
 ##### **Contrastive-Based Deep Embeddings for Label Noise-Resilient Histopathology Image Classification**
-2404.07605v1 by Lucas Dedieu et.al.
+2404.07605v1 by Lucas Dedieu,Nicolas Nerrienet,Adrien Nivaggioli,Clara Simmat,Marceau Clavel,Arnaud Gauthier,Stéphane Sockeel,Rémy Peyret
 
 Recent advancements in deep learning have proven highly effective in medical
 image classification, notably within histopathology. However, noisy labels
@@ -3692,7 +3692,7 @@ https://github.com/LucasDedieu/NoiseResilientHistopathology.
 https://github.com/LucasDedieu/NoiseResilientHistopathology。
 
 ##### **Socially Pertinent Robots in Gerontological Healthcare**
-2404.07560v1 by Xavier Alameda-Pineda et.al.
+2404.07560v1 by Xavier Alameda-Pineda,Angus Addlesee,Daniel Hernández García,Chris Reinke,Soraya Arias,Federica Arrigoni,Alex Auternaud,Lauriane Blavette,Cigdem Beyan,Luis Gomez Camara,Ohad Cohen,Alessandro Conti,Sébastien Dacunha,Christian Dondrup,Yoav Ellinson,Francesco Ferro,Sharon Gannot,Florian Gras,Nancie Gunson,Radu Horaud,Moreno D'Incà,Imad Kimouche,Séverin Lemaignan,Oliver Lemon,Cyril Liotard,Luca Marchionni,Mordehay Moradi,Tomas Pajdla,Maribel Pino,Michal Polic,Matthieu Py,Ariel Rado,Bin Ren,Elisa Ricci,Anne-Sophie Rigaud,Paolo Rota,Marta Romeo,Nicu Sebe,Weronika Sieińska,Pinchas Tandeitnik,Francesco Tonini,Nicolas Turro,Timothée Wintz,Yanchao Yu
 
 Despite the many recent achievements in developing and deploying social
 robotics, there are still many underexplored environments and applications for
@@ -3729,7 +3729,7 @@ interactions.
 互動。
 
 ##### **Introducing L2M3, A Multilingual Medical Large Language Model to Advance Health Equity in Low-Resource Regions**
-2404.08705v1 by Agasthya Gangavarapu et.al.
+2404.08705v1 by Agasthya Gangavarapu
 
 Addressing the imminent shortfall of 10 million health workers by 2030,
 predominantly in Low- and Middle-Income Countries (LMICs), this paper
@@ -3772,7 +3772,7 @@ in LMICs.
 在中低收入國家。
 
 ##### **Measuring proximity to standard planes during fetal brain ultrasound scanning**
-2404.07124v1 by Chiara Di Vece et.al.
+2404.07124v1 by Chiara Di Vece,Antonio Cirigliano,Meala Le Lous,Raffaele Napolitano,Anna L. David,Donald Peebles,Pierre Jannin,Francisco Vasconcelos,Danail Stoyanov
 
 This paper introduces a novel pipeline designed to bring ultrasound (US)
 plane pose estimation closer to clinical use for more effective navigation to
@@ -3815,7 +3815,7 @@ diagnostic practices.
 診斷實踐。
 
 ##### **Advancing Real-time Pandemic Forecasting Using Large Language Models: A COVID-19 Case Study**
-2404.06962v1 by Hongru Du et.al.
+2404.06962v1 by Hongru Du,Jianan Zhao,Yang Zhao,Shaochong Xu,Xihong Lin,Yiran Chen,Lauren M. Gardner,Hao Frank Yang
 
 Forecasting the short-term spread of an ongoing disease outbreak is a
 formidable challenge due to the complexity of contributing factors, some of
@@ -3870,7 +3870,7 @@ PandemicLLM 被證明是一個高效能的流行病預測框架
 以及未來的危機管理。
 
 ##### **SleepPPG-Net2: Deep learning generalization for sleep staging from photoplethysmography**
-2404.06869v1 by Shirel Attia et.al.
+2404.06869v1 by Shirel Attia,Revital Shani Hershkovich,Alissa Tabakhov,Angeleene Ang,Sharon Haimov,Riva Tauman,Joachim A. Behar
 
 Background: Sleep staging is a fundamental component in the diagnosis of
 sleep disorders and the management of sleep health. Traditionally, this
@@ -3909,7 +3909,7 @@ sets a new standard for staging sleep from raw PPG time-series.
 為根據原始 PPG 時間序列劃分睡眠設定了新標準。
 
 ##### **Multi-Label Continual Learning for the Medical Domain: A Novel Benchmark**
-2404.06859v2 by Marina Ceccon et.al.
+2404.06859v2 by Marina Ceccon,Davide Dalle Pezze,Alessandro Fabris,Gian Antonio Susto
 
 Multi-label image classification in dynamic environments is a problem that
 poses significant challenges. Previous studies have primarily focused on
@@ -3954,7 +3954,7 @@ minimal forgetting.
 最小的遺忘。
 
 ##### **Accuracy of a Large Language Model in Distinguishing Anti- And Pro-vaccination Messages on Social Media: The Case of Human Papillomavirus Vaccination**
-2404.06731v1 by Soojong Kim et.al.
+2404.06731v1 by Soojong Kim,Kwanho Kim,Claire Wonjeong Jo
 
 Objective. Vaccination has engendered a spectrum of public opinions, with
 social media acting as a crucial platform for health-related discussions. The
@@ -4005,7 +4005,7 @@ language model within specific public health contexts remains imperative.
 特定公共衛生背景下的語言模式仍勢在必行。
 
 ##### **Federated learning model for predicting major postoperative complications**
-2404.06641v1 by Yonggi Park et.al.
+2404.06641v1 by Yonggi Park,Yuanfang Ren,Benjamin Shickel,Ziyuan Guan,Ayush Patela,Yingbo Ma,Zhenhong Hu,Tyler J. Loftus,Parisa Rashidi,Tezcan Ozrazgat-Baslanti,Azra Bihorac
 
 Background: The accurate prediction of postoperative complication risk using
 Electronic Health Records (EHR) and artificial intelligence shows great
@@ -4060,7 +4060,7 @@ UFH JAX 中心較低。此外，我們的聯邦學習模式也獲得了
 資料保護壁壘較高的多個機構的資料。
 
 ##### **Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**
-2404.06362v1 by Sidra Aleem et.al.
+2404.06362v1 by Sidra Aleem,Fangyijie Wang,Mayug Maniparambil,Eric Arazo,Julia Dietlmeier,Kathleen Curran,Noel E. O'Connor,Suzanne Little
 
 The Segment Anything Model (SAM) and CLIP are remarkable vision foundation
 models (VFMs). SAM, a prompt driven segmentation model, excels in segmentation
@@ -4105,7 +4105,7 @@ prompts will be available online.
 提示將在線提供。
 
 ##### **Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**
-2404.07239v1 by Milad Yousefi et.al.
+2404.07239v1 by Milad Yousefi,Shadi Farabi Maleki,Ali Jafarizadeh,Mahya Ahmadpour Youshanlui,Aida Jafari,Siamak Pedrammehr,Roohallah Alizadehsani,Ryszard Tadeusiewicz,Pawel Plawiak
 
 Thyroid cancer is an increasing global health concern that requires advanced
 diagnostic methods. The application of AI and radiomics to thyroid cancer
@@ -4158,7 +4158,7 @@ diagnostic precision in the treatment of thyroid cancer.
 甲狀腺癌治療中的診斷精確度。
 
 ##### **EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation**
-2404.06181v1 by Yuanpeng He et.al.
+2404.06181v1 by Yuanpeng He
 
 Although current semi-supervised medical segmentation methods can achieve
 decent performance, they are still affected by the uncertainty in unlabeled
@@ -4193,7 +4193,7 @@ demonstrates the effectiveness of our strategy.
 證明了我們策略的有效性。
 
 ##### **Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation**
-2404.06177v2 by Yuanpeng He et.al.
+2404.06177v2 by Yuanpeng He,Lijian Li
 
 Although the existing uncertainty-based semi-supervised medical segmentation
 methods have achieved excellent performance, they usually only consider a
@@ -4230,7 +4230,7 @@ LA、Pancreas-CT、ACDC 和 TBAD 資料集上的實驗結果表明
 藝術的狀態。
 
 ##### **Tackling Structural Hallucination in Image Translation with Local Diffusion**
-2404.05980v3 by Seunghoi Kim et.al.
+2404.05980v3 by Seunghoi Kim,Chen Jin,Tom Diethe,Matteo Figini,Henry F. J. Tregidgo,Asher Mullokandov,Philip Teare,Daniel C. Alexander
 
 Recent developments in diffusion models have advanced conditioned image
 generation, yet they struggle with reconstructing out-of-distribution (OOD)

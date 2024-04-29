@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-29 17:06:08 Asia/Taipei
+ Automated deployment @ 2024-04-29 18:04:05 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -111,7 +111,7 @@
 
 #### Abstracts
 ##### **Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**
-2404.17546v1 by Stephen Zhao et.al.
+2404.17546v1 by Stephen Zhao,Rob Brekelmans,Alireza Makhzani,Roger Grosse
 
 Numerous capability and safety techniques of Large Language Models (LLMs),
 including RLHF, automated red-teaming, prompt engineering, and infilling, can
@@ -154,7 +154,7 @@ infilling tasks.
 填充任務。
 
 ##### **Large Language Model Agent as a Mechanical Designer**
-2404.17525v1 by Yayati Jadhav et.al.
+2404.17525v1 by Yayati Jadhav,Amir Barati Farimani
 
 Conventional mechanical design paradigms rely on experts systematically
 refining concepts through experience-guided modification and FEA to meet
@@ -211,7 +211,7 @@ autonomously.
 自主地。
 
 ##### **On the Use of Large Language Models to Generate Capability Ontologies**
-2404.17524v1 by Luis Miguel Vieira da Silva et.al.
+2404.17524v1 by Luis Miguel Vieira da Silva,Aljosha Köcher,Felix Gehlhoff,Alexander Fay
 
 Capability ontologies are increasingly used to model functionalities of
 systems or machines. The creation of such ontological models with all
@@ -244,7 +244,7 @@ ontologies are almost free of errors.
 本體幾乎沒有錯誤。
 
 ##### **Enhancing Legal Compliance and Regulation Analysis with Large Language Models**
-2404.17522v1 by Shabnam Hassani et.al.
+2404.17522v1 by Shabnam Hassani
 
 This research explores the application of Large Language Models (LLMs) for
 automating the extraction of requirement-related legal content in the food
@@ -273,7 +273,7 @@ LLM，即 BERT 和 GPT 模型，用於準確分類法律條款和
 在合理的時間和財務限制內提高準確性。
 
 ##### **A Comprehensive Evaluation on Event Reasoning of Large Language Models**
-2404.17513v1 by Zhengwei Tao et.al.
+2404.17513v1 by Zhengwei Tao,Zhi Jin,Yifan Zhang,Xiancai Chen,Xiaoying Bai,Yue Fang,Haiyan Zhao,Jia Li,Chongyang Tao
 
 Event reasoning is a fundamental ability that underlies many applications. It
 requires event schema knowledge to perform global reasoning and needs to deal
@@ -308,7 +308,7 @@ LLM。此外，LLM擁有事件模式知識，但它們並不一致
 兩種方法都取得了改進。
 
 ##### **Causally Abstracted Multi-armed Bandits**
-2404.17493v1 by Fabio Massimo Zennaro et.al.
+2404.17493v1 by Fabio Massimo Zennaro,Nicholas Bishop,Joel Dyer,Yorgos Felekis,Anisoara Calinescu,Michael Wooldridge,Theodoros Damoulas
 
 Multi-armed bandits (MAB) and causal MABs (CMAB) are established frameworks
 for decision-making problems. The majority of prior work typically studies and
@@ -343,7 +343,7 @@ CMAB 的學習解決了模型定義的情況
 與線上廣告相關的現實場景。
 
 ##### **Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation**
-2404.17489v1 by Wei Cui et.al.
+2404.17489v1 by Wei Cui,Rasa Hosseinzadeh,Junwei Ma,Tongzi Wu,Yi Sui,Keyvan Golestan
 
 Contrastive learning is a model pre-training technique by first creating
 similar views of the original data, and then encouraging the data and its
@@ -386,7 +386,7 @@ https://github.com/willtop/Tabular-Class-Conditioned-SSL.
 https://github.com/willtop/Tabular-Class-Conditioned-SSL。
 
 ##### **Conformal Prediction with Learned Features**
-2404.17487v1 by Shayan Kiyani et.al.
+2404.17487v1 by Shayan Kiyani,George Pappas,Hamed Hassani
 
 In this paper, we focus on the problem of conformal prediction with
 conditional guarantees. Prior work has shown that it is impossible to construct
@@ -419,7 +419,7 @@ PLCP 與最先進方法在覆蓋範圍方面的效能比較
 以及分類和回歸場景中的長度。
 
 ##### **ReproHum #0087-01: Human Evaluation Reproduction Report for Generating Fact Checking Explanations**
-2404.17481v1 by Tyler Loakman et.al.
+2404.17481v1 by Tyler Loakman,Chenghua Lin
 
 This paper presents a partial reproduction of Generating Fact Checking
 Explanations by Anatanasova et al (2020) as part of the ReproHum element of the
@@ -452,7 +452,7 @@ ReproNLP 共享任務來重現有關人類的 NLP 研究結果
 楷模。
 
 ##### **CEval: A Benchmark for Evaluating Counterfactual Text Generation**
-2404.17475v1 by Van Bach Nguyen et.al.
+2404.17475v1 by Van Bach Nguyen,Jörg Schlötterer,Christin Seifert
 
 Counterfactual text generation aims to minimally change a text, such that it
 is classified differently. Judging advancements in method development for
@@ -483,7 +483,7 @@ methods and maintain consistent evaluation in future work.
 方法並在今後的工作中保持一致的評價。
 
 ##### **Ruffle&Riley: Insights from Designing and Evaluating a Large Language Model-Based Conversational Tutoring System**
-2404.17460v1 by Robin Schmucker et.al.
+2404.17460v1 by Robin Schmucker,Meng Xia,Amos Azaria,Tom Mitchell
 
 Conversational tutoring systems (CTSs) offer learning experiences through
 interactions based on natural language. They are recognized for promoting
@@ -534,7 +534,7 @@ QA 聊天機器人和閱讀活動。分析系統使用模式，
 基於LLM的學習技術的設計。
 
 ##### **Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**
-2404.17454v1 by Kaichen Xu et.al.
+2404.17454v1 by Kaichen Xu,Yueyang Ding,Suyang Hou,Weiqiang Zhan,Nisang Chen,Jun Wang,Xiaobo Sun
 
 Fined-grained anomalous cell detection from affected tissues is critical for
 clinical diagnosis and pathological research. Single-cell sequencing data
@@ -573,7 +573,7 @@ contexts. Our code is available at https://github.com/Catchxu/ACsleuth.
 上下文。我們的程式碼可在 https://github.com/Catchxu/ACsleuth 取得。
 
 ##### **"ChatGPT Is Here to Help, Not to Replace Anybody" -- An Evaluation of Students' Opinions On Integrating ChatGPT In CS Courses**
-2404.17443v1 by Bruno Pereira Cipriano et.al.
+2404.17443v1 by Bruno Pereira Cipriano,Pedro Alves
 
 Large Language Models (LLMs) like GPT and Bard are capable of producing code
 based on textual descriptions, with remarkable efficacy. Such technology will
@@ -606,7 +606,7 @@ vary, but there is a consensus on its importance in academic practice.
 雖然各不相同，但人們對其在學術實踐中的重要性達成了共識。
 
 ##### **Real-World Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent Planning System**
-2404.17438v1 by Martina Stadler Kurtz et.al.
+2404.17438v1 by Martina Stadler Kurtz,Samuel Prentice,Yasmin Veys,Long Quang,Carlos Nieto-Granda,Michael Novitzky,Ethan Stump,Nicholas Roy
 
 We would like to enable a collaborative multiagent team to navigate at long
 length scales and under uncertainty in real-world environments. In practice,
@@ -647,7 +647,7 @@ Clearpath Husky-Jackal 團隊在結構化戶外導航的方法
 成功執行協作計劃。
 
 ##### **Evaluation of Geographical Distortions in Language Models: A Crucial Step Towards Equitable Representations**
-2404.17401v1 by Rémy Decoupes et.al.
+2404.17401v1 by Rémy Decoupes,Roberto Interdonato,Mathieu Roche,Maguelonne Teisseire,Sarah Valentin
 
 Language models now constitute essential tools for improving efficiency for
 many professional tasks such as writing, coding, or learning. For this reason,
@@ -678,7 +678,7 @@ in language models to ensure accurate and equitable representations.
 語言模型中以確保準確和公平的表示。
 
 ##### **Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**
-2404.17400v1 by Zishu Yao et.al.
+2404.17400v1 by Zishu Yao,Guodong Fan,Jinfu Fan,Min Gan,C. L. Philip Chen
 
 Low-light remote sensing images generally feature high resolution and high
 spatial complexity, with continuously distributed surface features in space.
@@ -729,7 +729,7 @@ https://github.com/iijjlk/DFFN.
 https://github.com/iijjlk/DFFN。
 
 ##### **Child Speech Recognition in Human-Robot Interaction: Problem Solved?**
-2404.17394v1 by Ruben Janssens et.al.
+2404.17394v1 by Ruben Janssens,Eva Verhelst,Giulio Antonio Abbo,Qiaoqiao Ren,Maria Jose Pinto Bernal,Tony Belpaeme
 
 Automated Speech Recognition shows superhuman performance for adult English
 speech on a range of benchmarks, but disappoints when fed children's speech.
@@ -760,7 +760,7 @@ interactions.
 互動。
 
 ##### **M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**
-2404.17391v1 by Lakmal Meegahapola et.al.
+2404.17391v1 by Lakmal Meegahapola,Hamza Hassoune,Daniel Gatica-Perez
 
 Over the years, multimodal mobile sensing has been used extensively for
 inferences regarding health and well being, behavior, and context. However, a
@@ -815,7 +815,7 @@ AUC（受試者工作特徵曲線下面積）
 任務。
 
 ##### **Assessing the Potential of AI for Spatially Sensitive Nature-Related Financial Risks**
-2404.17369v1 by Steven Reece et.al.
+2404.17369v1 by Steven Reece,Emma O donnell,Felicia Liu,Joanna Wolstenholme,Frida Arriaga,Giacomo Ascenzi,Richard Pywell
 
 There is growing recognition among financial institutions, financial
 regulators and policy makers of the importance of addressing nature-related
@@ -866,7 +866,7 @@ data providers, TNFD, systems modellers, and, of course, AI practitioners.
 資料提供者、TNFD、系統建模者，當然還有人工智慧從業人員。
 
 ##### **Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**
-2404.17365v1 by Fleur Hendriks et.al.
+2404.17365v1 by Fleur Hendriks,Vlado Menkovski,Martin Doškář,Marc G. D. Geers,Ondřej Rokoš
 
 Soft, porous mechanical metamaterials exhibit pattern transformations that
 may have important applications in soft robotics, sound reduction and
@@ -918,10 +918,10 @@ achieve a better speed-up and scaling with the mesh size.
 與對稱性較少的圖神經網路相比，數據效率更高。創建一個
 有限元素離散化的有效圖形表示，我們使用
 僅從有限元素網格到內部幾何孔邊界
-實現更好的加速和網格尺寸的縮放。
+透過網格尺寸實現更好的加速和縮放。
 
 ##### **A Bionic Natural Language Parser Equivalent to a Pushdown Automaton**
-2404.17343v1 by Zhenghao Wei et.al.
+2404.17343v1 by Zhenghao Wei,Kehua Lin,Jianlin Feng
 
 Assembly Calculus (AC), proposed by Papadimitriou et al., aims to reproduce
 advanced cognitive functions through simulating neural activities, with several
@@ -956,7 +956,7 @@ Mitropolsky 等人所提出的解析器。然而，這個解析器缺乏能力
 解決了原始解析器的缺陷。
 
 ##### **Can a Multichoice Dataset be Repurposed for Extractive Question Answering?**
-2404.17342v1 by Teresa Lynn et.al.
+2404.17342v1 by Teresa Lynn,Malik H. Altakrori,Samar Mohamed Magdy,Rocktim Jyoti Das,Chenyang Lyu,Mohamed Nasr,Younes Samih,Alham Fikri Aji,Preslav Nakov,Shantanu Godbole,Salim Roukos,Radu Florian,Nizar Habash
 
 The rapid evolution of Natural Language Processing (NLP) has favored major
 languages such as English, leaving a significant gap for many others due to
@@ -997,7 +997,7 @@ Belebele 資料集（Bandarkar 等人，2023），旨在
 NLP 研究中的任務重新制定。
 
 ##### **Metronome: tracing variation in poetic meters via local sequence alignment**
-2404.17337v1 by Ben Nagy et.al.
+2404.17337v1 by Ben Nagy,Artjoms Šeļa,Mirella De Sisto,Petr Plecháč
 
 All poetic forms come from somewhere. Prosodic templates can be copied for
 generations, altered by individuals, imported from foreign traditions, or
@@ -1036,7 +1036,7 @@ an open license.
 開放許可證。
 
 ##### **Introducing cosmosGPT: Monolingual Training for Turkish Language Models**
-2404.17336v1 by H. Toprak Kesgin et.al.
+2404.17336v1 by H. Toprak Kesgin,M. Kaan Yuce,Eren Dogan,M. Egemen Uzun,Atahan Uz,H. Emre Seyrek,Ahmed Zeer,M. Fatih Amasyali
 
 The number of open source language models that can produce Turkish is
 increasing day by day, as in other languages. In order to create the basic
@@ -1065,7 +1065,7 @@ times smaller than the others.
 比其他人小幾倍。
 
 ##### **A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**
-2404.17335v1 by Xin Zhang et.al.
+2404.17335v1 by Xin Zhang,Liangxiu Han,Tam Sobeih,Lianghao Han,Darren Dancey
 
 Depth estimation is crucial for interpreting complex environments, especially
 in areas such as autonomous vehicle navigation and robotics. Nonetheless,
@@ -1116,7 +1116,7 @@ applications.
 應用程式.
 
 ##### **Part-Guided 3D RL for Sim2Real Articulated Object Manipulation**
-2404.17302v1 by Pengwei Xie et.al.
+2404.17302v1 by Pengwei Xie,Rui Chen,Siang Chen,Yuzhe Qin,Fanbo Xiang,Tianyu Sun,Jing Xu,Guijin Wang,Hao Su
 
 Manipulating unseen articulated objects through visual feedback is a critical
 but challenging task for real robots. Existing learning-based solutions mainly
@@ -1153,7 +1153,7 @@ https://github.com/THU-VCLab/Part-Guided-3D-RL-for-Sim2Real-Articulated-Object-M
 https://github.com/THU-VCLab/Part-Guided-3D-RL-for-Sim2Real-Articulated-Object-Manipulation。
 
 ##### **When to Trust LLMs: Aligning Confidence with Response Quality**
-2404.17287v1 by Shuchang Tao et.al.
+2404.17287v1 by Shuchang Tao,Liuyi Yao,Hanxing Ding,Yuexiang Xie,Qi Cao,Fei Sun,Jinyang Gao,Huawei Shen,Bolin Ding
 
 Despite the success of large language models (LLMs) in natural language
 generation, much evidence shows that LLMs may produce incorrect or nonsensical
@@ -1196,7 +1196,7 @@ LLM，並作為啟動檢索過程的決定因素
 透明可靠的回應，提供更好的可信度。
 
 ##### **Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM**
-2404.17283v1 by Xuan Zhang et.al.
+2404.17283v1 by Xuan Zhang,Wei Gao
 
 Retrieval-augmented language models have exhibited promising performance
 across various areas of natural language processing (NLP), including
@@ -1229,7 +1229,7 @@ FFRR 比支援 LLM 和非 LLM 的強大專案取得了顯著改進
 基線。
 
 ##### **Enhancing Privacy and Security of Autonomous UAV Navigation**
-2404.17225v1 by Vatsal Aggarwal et.al.
+2404.17225v1 by Vatsal Aggarwal,Arjun Ramesh Kaushik,Charanjit Jutla,Nalini Ratha
 
 Autonomous Unmanned Aerial Vehicles (UAVs) have become essential tools in
 defense, law enforcement, disaster response, and product delivery. These
@@ -1272,7 +1272,7 @@ in autonomous UAV navigation with negligible loss in performance.
 在自主無人機導航中，性能損失可以忽略不計。
 
 ##### **Prompting Techniques for Reducing Social Bias in LLMs through System 1 and System 2 Cognitive Processes**
-2404.17218v1 by Mahammed Kamruzzaman et.al.
+2404.17218v1 by Mahammed Kamruzzaman,Gene Louis Kim
 
 Dual process theory posits that human cognition arises via two systems.
 System 1, which is a quick, emotional, and intuitive process, which is subject
@@ -1309,7 +1309,7 @@ an LLM.
 LLM。
 
 ##### **Prompting Towards Alleviating Code-Switched Data Scarcity in Under-Resourced Languages with GPT as a Pivot**
-2404.17216v1 by Michelle Terblanche et.al.
+2404.17216v1 by Michelle Terblanche,Kayode Olaleye,Vukosi Marivate
 
 Many multilingual communities, including numerous in Africa, frequently
 engage in code-switching during conversations. This behaviour stresses the need
@@ -1346,7 +1346,7 @@ native speakers in this process.
 在此過程中，母語人士。
 
 ##### **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**
-2404.17196v1 by Quan Zhang et.al.
+2404.17196v1 by Quan Zhang,Binqi Zeng,Chijin Zhou,Gwihwan Go,Heyuan Shi,Yu Jiang
 
 Presently, with the assistance of advanced LLM application development
 frameworks, more and more LLM-powered applications can effortlessly augment the
@@ -1383,7 +1383,7 @@ RAG 過程。具體來說，透過LLM申請分析
 中毒。
 
 ##### **TIGQA:An Expert Annotated Question Answering Dataset in Tigrinya**
-2404.17194v1 by Hailay Teklehaymanot et.al.
+2404.17194v1 by Hailay Teklehaymanot,Dren Fazlija,Niloy Ganguly,Gourab K. Patro,Wolfgang Nejdl
 
 The absence of explicitly tailored, accessible annotated datasets for
 educational purposes presents a notable obstacle for NLP tasks in languages
@@ -1424,7 +1424,7 @@ TIGQA。此外，我們估計人類在資料集上的表現並並列
 解決提格里尼亞 MRC 的挑戰。
 
 ##### **MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**
-2404.17186v1 by Jiajun Liang et.al.
+2404.17186v1 by Jiajun Liang,Baoquan Zhang,Yunming Ye,Xutao Li,Chuyao Luo,Xukai Fu
 
 The accurate detection of Mesoscale Convective Systems (MCS) is crucial for
 meteorological monitoring due to their potential to cause significant
@@ -1479,7 +1479,7 @@ MCSDNet架構簡單，易於擴充。不同於
 基線方法。
 
 ##### **A Unified Label-Aware Contrastive Learning Framework for Few-Shot Named Entity Recognition**
-2404.17178v1 by Haojie Zhang et.al.
+2404.17178v1 by Haojie Zhang,Yimeng Zhuang
 
 Few-shot Named Entity Recognition (NER) aims to extract named entities using
 only a limited number of labeled examples. Existing contrastive learning
@@ -1514,7 +1514,7 @@ GUM、I2B2）和大規模少樣本 NER 資料集（FEWNERD）證明了
 來自其強大的傳輸能力和改進的上下文表示。
 
 ##### **Exploring Beyond Logits: Hierarchical Dynamic Labeling Based on Embeddings for Semi-Supervised Classification**
-2404.17173v1 by Yanbiao Ma et.al.
+2404.17173v1 by Yanbiao Ma,Licheng Jiao,Fang Liu,Lingling Li,Shuyuan Yang,Xu Liu
 
 In semi-supervised learning, methods that rely on confidence learning to
 generate pseudo-labels have been widely proposed. However, increasing research
@@ -1557,7 +1557,7 @@ HDL 中的超參數，增強其多功能性。此外，HDL 可以
 學習。
 
 ##### **Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls**
-2404.17143v1 by Shotaro Ishihara et.al.
+2404.17143v1 by Shotaro Ishihara
 
 Dominant pre-trained language models (PLMs) have been successful in
 high-quality natural language generation. However, the analysis of their
@@ -1592,7 +1592,7 @@ copyright of PLMs.
 PLM 的版權。
 
 ##### **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**
-2404.17140v1 by Yunxiang Zhang et.al.
+2404.17140v1 by Yunxiang Zhang,Muhammad Khalifa,Lajanugen Logeswaran,Jaekyeom Kim,Moontae Lee,Honglak Lee,Lu Wang
 
 Self-correction has emerged as a promising solution to boost the reasoning
 performance of large language models (LLMs), where LLMs refine their solutions
@@ -1627,7 +1627,7 @@ determining when to correct.
 確定何時糾正。
 
 ##### **Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**
-2404.17136v1 by Yang Wu et.al.
+2404.17136v1 by Yang Wu,Yao Wan,Hongyu Zhang,Yulei Sui,Wucai Wei,Wei Zhao,Guandong Xu,Hai Jin
 
 The Natural Language to Visualization (NL2Vis) task aims to transform
 natural-language descriptions into visual representations for a grounded table,
@@ -1659,7 +1659,7 @@ future study.
 將自然語言描述轉化為接地表的視覺表示，
 使用戶能夠從海量數據中獲得洞察。最近，很多深
 NL2Vis 已開發出基於學習的方法。儘管
-雖然這些方法做出了巨大努力，但挑戰仍然存在
+雖然這些方法做出了相當大的努力，但挑戰仍然存在
 可視化來自看不見的資料庫或跨多個表的資料。
 從 Large 的卓越發電能力中汲取靈感
 語言模型（LLM），本文進行了實證研究來評估
@@ -1682,7 +1682,7 @@ NL2Vis 已開發出基於學習的方法。儘管
 未來的學習。
 
 ##### **Process Mining Embeddings: Learning Vector Representations for Petri Nets**
-2404.17129v1 by Juan G. Colonna et.al.
+2404.17129v1 by Juan G. Colonna,Ahmed A. Fares,Márcio Duarte,Ricardo Sousa
 
 Process mining offers powerful techniques for discovering, analyzing, and
 enhancing real-world business processes. In this context, Petri nets provide an
@@ -1725,7 +1725,7 @@ Petri網的結構，以及用於模擬的主要屬性
 增強功能：流程分類與流程檢索。
 
 ##### **Deep Evidential Learning for Dose Prediction**
-2404.17126v1 by Hai Siong Tan et.al.
+2404.17126v1 by Hai Siong Tan,Kuancheng Wang,Rafe Mcbeth
 
 In this work, we present a novel application of an uncertainty-quantification
 framework called Deep Evidential Learning in the domain of radiotherapy dose
@@ -1772,7 +1772,7 @@ intervals.
 間隔。
 
 ##### **Text Sentiment Analysis and Classification Based on Bidirectional Gated Recurrent Units (GRUs) Model**
-2404.17123v1 by Wei Xu et.al.
+2404.17123v1 by Wei Xu,Jianlong Chen,Zhicheng Ding,Jinyin Wang
 
 This paper explores the importance of text sentiment analysis and
 classification in the field of natural language processing, and proposes a new
@@ -1813,7 +1813,7 @@ with satisfactory results.
 取得了滿意的結果。
 
 ##### **2M-NER: Contrastive Learning for Multilingual and Multimodal NER with Language and Modal Fusion**
-2404.17122v1 by Dongsheng Wang et.al.
+2404.17122v1 by Dongsheng Wang,Xiaoqin Feng,Zeming Liu,Chuan Wang
 
 Named entity recognition (NER) is a fundamental task in natural language
 processing that involves identifying and classifying entities in sentences into
@@ -1864,7 +1864,7 @@ MMNER 資料集包含四種語言（英語、法語、德語和西班牙語）�
 模型，顯示我們的資料集中的難度較高。
 
 ##### **Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs**
-2404.17120v1 by Valeriia Cherepanova et.al.
+2404.17120v1 by Valeriia Cherepanova,James Zou
 
 Large language models (LLMs) exhibit excellent ability to understand human
 languages, but do they also understand their own language that appears
@@ -1895,7 +1895,7 @@ Babel 提示並評估其穩健性。值得注意的是，我們發現指導
 良性文本，表示未分配提示缺乏一致性。
 
 ##### **CLARE: Cognitive Load Assessment in REaltime with Multimodal Data**
-2404.17098v1 by Anubhav Bhatti et.al.
+2404.17098v1 by Anubhav Bhatti,Prithila Angkan,Behnam Behinaein,Zunayed Mahmud,Dirk Rodenburg,Heather Braund,P. James Mclellan,Aaron Ruberto,Geoffery Harrison,Daryl Wilson,Adam Szulewski,Dan Howes,Ali Etemad,Paul Hungler
 
 We present a novel multimodal dataset for Cognitive Load Assessment in
 REaltime (CLARE). The dataset contains physiological and gaze data from 24
@@ -1934,7 +1934,7 @@ with ECG, EDA, and EEG.
 具有心電圖、EDA 和腦電圖。
 
 ##### **CyNetDiff -- A Python Library for Accelerated Implementation of Network Diffusion Models**
-2404.17059v1 by Eliot W. Robson et.al.
+2404.17059v1 by Eliot W. Robson,Dhemath Reddy,Abhishek K. Umrawal
 
 In recent years, there has been increasing interest in network diffusion
 models and related problems. The most popular of these are the independent
@@ -1965,7 +1965,7 @@ Cython 為這些計算密集型應用提供改進的效能
 擴散任務。
 
 ##### **Agentive Permissions in Multiagent Systems**
-2404.17053v1 by Qi Shi et.al.
+2404.17053v1 by Qi Shi
 
 This paper proposes to distinguish four forms of agentive permissions in
 multiagent settings. The main technical results are the complexity analysis of
@@ -1980,7 +1980,7 @@ capturing the interplay between these modalities.
 捕捉這些模式之間的相互作用。
 
 ##### **Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints**
-2404.17028v1 by Yunyi Zhu et.al.
+2404.17028v1 by Yunyi Zhu,Faraz Faruqi,Stefanie Mueller
 
 Advances in Generative AI tools have allowed designers to manipulate existing
 3D models using text or image-based prompts, enabling creators to explore
@@ -2033,7 +2033,7 @@ photochromic textures rapidly and easily.
 快速、輕鬆地實現光致變色紋理。
 
 ##### **Player-Driven Emergence in LLM-Driven Game Narrative**
-2404.17027v1 by Xiangyu Peng et.al.
+2404.17027v1 by Xiangyu Peng,Jessica Quaye,Weijia Xu,Chris Brockett,Bill Dolan,Nebojsa Jojic,Gabriel DesGarennes,Ken Lobb,Michael Xu,Jorge Leandro,Claire Jin,Sudha Rao
 
 We explore how interaction with large language models (LLMs) can give rise to
 emergent behaviors, empowering players to participate in the evolution of game
@@ -2062,7 +2062,7 @@ enjoy games that facilitate discovery, exploration and experimentation.
 享受有助於發現、探索和實驗的遊戲。
 
 ##### **Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**
-2404.17020v1 by Cristopher McIntyre-Garcia et.al.
+2404.17020v1 by Cristopher McIntyre-Garcia,Adrien Heymans,Beril Borali,Won-Sook Lee,Shiva Nejati
 
 Deep Learning (DL) models excel in computer vision tasks but can be
 susceptible to adversarial examples. This paper introduces Triple-Metric
@@ -2087,7 +2087,7 @@ TM-EVO 的性能優於最先進的 EvoAttack 基線，從而
 在保持效率的同時減少噪音的對抗性測試。
 
 ##### **Türkçe Dil Modellerinin Performans Karşılaştırması Performance Comparison of Turkish Language Models**
-2404.17010v1 by Eren Dogan et.al.
+2404.17010v1 by Eren Dogan,M. Egemen Uzun,Atahan Uz,H. Emre Seyrek,Ahmed Zeer,Ezgi Sevi,H. Toprak Kesgin,M. Kaan Yuce,M. Fatih Amasyali
 
 The developments that language models have provided in fulfilling almost all
 kinds of tasks have attracted the attention of not only researchers but also
@@ -2122,7 +2122,7 @@ question-answering performances.
 問答表演。
 
 ##### **Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**
-2404.17000v1 by Bradley P. Allen et.al.
+2404.17000v1 by Bradley P. Allen,Paul T. Groth
 
 A backbone of knowledge graphs are their class membership relations, which
 assign entities to a given class. As part of the knowledge engineering process,
@@ -2157,7 +2157,7 @@ gpt-4-0125-preview大語言模型，方法的分類
 數據可在 Github 上取得。
 
 ##### **IDIL: Imitation Learning of Intent-Driven Expert Behavior**
-2404.16989v1 by Sangwon Seo et.al.
+2404.16989v1 by Sangwon Seo,Vaibhav Unhelkar
 
 When faced with accomplishing a task, human experts exhibit intentional
 behavior. Their unique intents shape their plans and decisions, resulting in
@@ -2198,7 +2198,7 @@ IDIL 產生的模型可以匹配或超過最近產生的模型
 廣泛的專家行為。
 
 ##### **Examining the robustness of LLM evaluation to the distributional assumptions of benchmarks**
-2404.16966v1 by Melissa Ailem et.al.
+2404.16966v1 by Melissa Ailem,Katerina Marazopoulou,Charlotte Siska,James Bono
 
 Benchmarks have emerged as the central approach for evaluating Large Language
 Models (LLMs). The research community often relies on a model's average
@@ -2225,7 +2225,7 @@ correlations include semantic similarity and common LLM failure points.
 相關性包括語意相似性和常見的 LLM 失敗點。
 
 ##### **A Closer Look at Classification Evaluation Metrics and a Critical Reflection of Common Evaluation Practice**
-2404.16958v1 by Juri Opitz et.al.
+2404.16958v1 by Juri Opitz
 
 Classification systems are evaluated in a countless number of papers.
 However, we find that evaluation practice is often nebulous. Frequently,
@@ -2262,7 +2262,7 @@ selection, fostering meaningful evaluation.
 選擇，促進有意義的評估。
 
 ##### **Taming False Positives in Out-of-Distribution Detection with Human Feedback**
-2404.16954v1 by Harit Vishwakarma et.al.
+2404.16954v1 by Harit Vishwakarma,Heguang Lin,Ramya Korlakai Vinayak
 
 Robustness to out-of-distribution (OOD) samples is crucial for safely
 deploying machine learning models in the open world. Recent works have focused
@@ -2303,7 +2303,7 @@ OOD 資料集表明，我們的方法最多可以將 FPR 維持在 $5\%$，而
 最大化 TPR。
 
 ##### **Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**
-2404.16829v1 by Ye Fang et.al.
+2404.16829v1 by Ye Fang,Zeyi Sun,Tong Wu,Jiaqi Wang,Ziwei Liu,Gordon Wetzstein,Dahua Lin
 
 Physically realistic materials are pivotal in augmenting the realism of 3D
 assets across various applications and lighting conditions. However, existing
@@ -2338,7 +2338,7 @@ Make-it-Real：1）我們證明 GPT-4V 可以有效地辨識和
 展現其作為 3D 資產開發人員的必備工具的實用性。
 
 ##### **A Survey of Generative Search and Recommendation in the Era of Large Language Models**
-2404.16924v1 by Yongqi Li et.al.
+2404.16924v1 by Yongqi Li,Xinyu Lin,Wenjie Wang,Fuli Feng,Liang Pang,Wenjie Li,Liqiang Nie,Xiangnan He,Tat-Seng Chua
 
 With the information explosion on the Web, search and recommendation are
 foundational infrastructures to satisfying users' information needs. As the two
@@ -2379,7 +2379,7 @@ paradigm.
 範例。
 
 ##### **IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages**
-2404.16816v1 by Harman Singh et.al.
+2404.16816v1 by Harman Singh,Nitish Gupta,Shikhar Bharadwaj,Dinesh Tewari,Partha Talukdar
 
 As large language models (LLMs) see increasing adoption across the globe, it
 is imperative for LLMs to be representative of the linguistic diversity of the
@@ -2420,7 +2420,7 @@ PaLM-2 模型在大多數任務上表現最好，但是，有一個顯著的問�
 www.github.com/google-research-datasets/indic-gen-bench
 
 ##### **Make Your LLM Fully Utilize the Context**
-2404.16811v2 by Shengnan An et.al.
+2404.16811v2 by Shengnan An,Zexiong Ma,Zeqi Lin,Nanning Zheng,Jian-Guang Lou
 
 While many contemporary large language models (LLMs) can process lengthy
 input, they still struggle to fully utilize information within the long
@@ -2469,7 +2469,7 @@ FILM-7B 為了利用長上下文，我們設計了三個探測任務
 MMLU 的準確性）。 Github 連結：https://github.com/microsoft/FILM。
 
 ##### **Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**
-2404.16807v1 by Tianhui Zhang et.al.
+2404.16807v1 by Tianhui Zhang,Bei Peng,Danushka Bollegala
 
 Generative Commonsense Reasoning (GCR) requires a model to reason about a
 situation using commonsense knowledge, while generating coherent sentences.
@@ -2502,7 +2502,7 @@ existing commonsense generators.
 現有的常識生成器。
 
 ##### **A Short Survey of Human Mobility Prediction in Epidemic Modeling from Transformers to LLMs**
-2404.16921v1 by Christian N. Mayemba et.al.
+2404.16921v1 by Christian N. Mayemba,D'Jeff K. Nkashama,Jean Marie Tshimula,Maximilien V. Dialufuma,Jean Tshibangu Muabila,Mbuyi Mukendi Didier,Hugues Kanda,René Manassé Galekwa,Heber Dibwe Fita,Serge Mundele,Kalonji Kalala,Aristarque Ilunga,Lambert Mukendi Ntobo,Dominique Muteba,Aaron Aruna Abedi
 
 This paper provides a comprehensive survey of recent advancements in
 leveraging machine learning techniques, particularly Transformer models, for
@@ -2535,7 +2535,7 @@ contextual patterns in textual data.
 文字資料中的上下文模式。
 
 ##### **AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**
-2404.16804v1 by Gahyeon Kim et.al.
+2404.16804v1 by Gahyeon Kim,Sohee Kim,Seokju Lee
 
 Recent advances in large pre-trained vision-language models have demonstrated
 remarkable performance on zero-shot downstream tasks. Building upon this,
@@ -2578,7 +2578,7 @@ Learning”，AAPL，我們引導可學習的上下文來有效地提取文本
 學習、跨資料集和領域泛化任務。
 
 ##### **Weak-to-Strong Extrapolation Expedites Alignment**
-2404.16792v1 by Chujie Zheng et.al.
+2404.16792v1 by Chujie Zheng,Ziqi Wang,Heng Ji,Minlie Huang,Nanyun Peng
 
 Although the capabilities of large language models (LLMs) ideally scale up
 with increasing data and compute, they are inevitably constrained by limited
@@ -2617,7 +2617,7 @@ ExPO 將使用較少偏好資料（例如 10% 或 20%）訓練的模型推向
 勘探。
 
 ##### **Continual Learning of Large Language Models: A Comprehensive Survey**
-2404.16789v1 by Haizhou Shi et.al.
+2404.16789v1 by Haizhou Shi,Zihao Xu,Hengyi Wang,Weiyi Qin,Wenyuan Wang,Yibin Wang,Hao Wang
 
 The recent success of large language models (LLMs) trained on static,
 pre-collected, general datasets has sparked numerous research directions and
@@ -2668,7 +2668,7 @@ CL 背景下LLM的最新研究進度。這項調查是
 https://github.com/Wang-ML-Lab/llm-continual-learning-survey。
 
 ##### **Modeling Selective Feature Attention for Representation-based Siamese Text Matching**
-2404.16776v1 by Jianxiang Zang et.al.
+2404.16776v1 by Jianxiang Zang,Hui Liu
 
 Representation-based Siamese networks have risen to popularity in lightweight
 text matching due to their low deployment and inference costs. While word-level
@@ -2709,7 +2709,7 @@ FA 區塊採用「擠壓與激勵」技術動態調整
 「選拔」機制的優越性。
 
 ##### **REBEL: Reinforcement Learning via Regressing Relative Rewards**
-2404.16767v1 by Zhaolin Gao et.al.
+2404.16767v1 by Zhaolin Gao,Jonathan D. Chang,Wenhao Zhan,Owen Oertell,Gokul Swamy,Kianté Brantley,Thorsten Joachims,J. Andrew Bagnell,Jason D. Lee,Wen Sun
 
 While originally developed for continuous control problems, Proximal Policy
 Optimization (PPO) has emerged as the work-horse of a variety of reinforcement
@@ -2752,7 +2752,7 @@ PPO 和 DPO，同時更易於實現且運算能力更強
 比 PPO 更容易處理。
 
 ##### **Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model**
-2404.16766v1 by Runzhe Zhan et.al.
+2404.16766v1 by Runzhe Zhan,Xinyi Yang,Derek F. Wong,Lidia S. Chao,Yue Zhang
 
 While supervised fine-tuning (SFT) has been a straightforward approach for
 tailoring the output of foundation large language model (LLM) to specific
@@ -2791,7 +2791,7 @@ SFT 的非英語數據，我們引入了一種新穎的免訓練對齊方法
 促進多語言LLM的民主化。
 
 ##### **Automatic Speech Recognition System-Independent Word Error Rate Estimation**
-2404.16743v2 by Chanho Park et.al.
+2404.16743v2 by Chanho Park,Mingjie Chen,Thomas Hain
 
 Word error rate (WER) is a metric used to evaluate the quality of
 transcriptions produced by Automatic Speech Recognition (ASR) systems. In many
@@ -2832,7 +2832,7 @@ the evaluation dataset.
 評估數據集。
 
 ##### **Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**
-2404.16721v1 by Min Kyu Shin et.al.
+2404.16721v1 by Min Kyu Shin,Su-Jeong Park,Seung-Keol Ryu,Heeyeon Kim,Han-Lim Choi
 
 This paper presents a novel learning approach for Dubins Traveling Salesman
 Problems(DTSP) with Neighborhood (DTSPN) to quickly produce a tour of a
@@ -2863,7 +2863,7 @@ Problems(DTSP) with Neighborhood (DTSPN) 快速產生一個遊覽
 無法感知所有任務點。
 
 ##### **Features Fusion for Dual-View Mammography Mass Detection**
-2404.16718v1 by Arina Varlamova et.al.
+2404.16718v1 by Arina Varlamova,Valery Belotsky,Grigory Novikov,Anton Konushin,Evgeny Sidorov
 
 Detection of malignant lesions on mammography images is extremely important
 for early breast cancer diagnosis. In clinical practice, images are acquired
@@ -2896,7 +2896,7 @@ MAMM-Net 的關鍵組件是融合層，基於可變形注意力和
 惡性腫瘤。
 
 ##### **Embracing Diversity: Interpretable Zero-shot classification beyond one vector per class**
-2404.16717v1 by Mazda Moayeri et.al.
+2404.16717v1 by Mazda Moayeri,Michael Rabbat,Mark Ibrahim,Diane Bouchacourt
 
 Vision-language models enable open-world classification of objects without
 the need for any retraining. While this zero-shot paradigm marks a significant
@@ -2947,7 +2947,7 @@ systems without compromising performance.
 系統而不影響性能。
 
 ##### **Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**
-2404.16710v1 by Mostafa Elhoushi et.al.
+2404.16710v1 by Mostafa Elhoushi,Akshat Shrivastava,Diana Liskovich,Basil Hosmer,Bram Wasti,Liangzhen Lai,Anas Mahmoud,Bilge Acun,Saurabh Agarwal,Ahmed Roman,Ahmed A Aly,Beidi Chen,Carole-Jean Wu
 
 We present LayerSkip, an end-to-end solution to speed-up inference of large
 language models (LLMs). First, during training we apply layer dropout, with low
@@ -2984,7 +2984,7 @@ CNN/DM 文件的摘要速度提升高達 2.16 倍，1.82 倍
 編碼方面是 2.0 倍，TOPv2 語意解析任務面向是 2.0 倍。
 
 ##### **Cooperate or Collapse: Emergence of Sustainability Behaviors in a Society of LLM Agents**
-2404.16698v1 by Giorgio Piatti et.al.
+2404.16698v1 by Giorgio Piatti,Zhijing Jin,Max Kleiman-Weiner,Bernhard Schölkopf,Mrinmaya Sachan,Rada Mihalcea
 
 In the rapidly evolving field of artificial intelligence, ensuring safe
 decision-making of Large Language Models (LLMs) is a significant challenge.
@@ -3027,7 +3027,7 @@ LLM的決策。透過這個模擬環境，我們探索
 介面.
 
 ##### **Influence of Solution Efficiency and Valence of Instruction on Additive and Subtractive Solution Strategies in Humans and GPT-4**
-2404.16692v1 by Lydia Uhler et.al.
+2404.16692v1 by Lydia Uhler,Verena Jordan,Jürgen Buder,Markus Huff,Frank Papenmeier
 
 We explored the addition bias, a cognitive tendency to prefer adding elements
 over removing them to alter an initial state or structure, by conducting four
@@ -3072,7 +3072,7 @@ behavior.
 行為。
 
 ##### **Prediction Is All MoE Needs: Expert Load Distribution Goes from Fluctuating to Stabilizing**
-2404.16914v1 by Peizhuang Cong et.al.
+2404.16914v1 by Peizhuang Cong,Aomufei Yuan,Shimao Chen,Yuxuan Tian,Bowen Ye,Tong Yang
 
 MoE facilitates the development of large models by making the computational
 complexity of the model no longer scale linearly with increasing parameters.
@@ -3111,7 +3111,7 @@ an expert placement scheme for transient and stable states in our coming work.
 在我們接下來的工作中，針對瞬態和穩定狀態的專家安置計劃。
 
 ##### **DE-CGAN: Boosting rTMS Treatment Prediction with Diversity Enhancing Conditional Generative Adversarial Networks**
-2404.16913v1 by Matthew Squires et.al.
+2404.16913v1 by Matthew Squires,Xiaohui Tao,Soman Elangovan,Raj Gururajan,Haoran Xie,Xujuan Zhou,Yuefeng Li,U Rajendra Acharya
 
 Repetitive Transcranial Magnetic Stimulation (rTMS) is a well-supported,
 evidence-based treatment for depression. However, patterns of response to this
@@ -3154,7 +3154,7 @@ DNN 模型無法可靠地預測治療結果。因此我們
 關係。
 
 ##### **EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning**
-2404.16670v1 by Hongxia Xie et.al.
+2404.16670v1 by Hongxia Xie,Chu-Jun Peng,Yu-Wen Tseng,Hung-Jen Chen,Chan-Feng Hsu,Hong-Han Shuai,Wen-Huang Cheng
 
 Visual Instruction Tuning represents a novel learning paradigm involving the
 fine-tuning of pre-trained language models using task-specific instructions.
@@ -3195,7 +3195,7 @@ LLM時代的情感視覺教學調優，提供有價值的
 可在 \url{https://github.com/aimmemotion/EmoVIT} 取得。
 
 ##### **Formal Specification, Assessment, and Enforcement of Fairness for Generative AIs**
-2404.16663v2 by Chih-Hong Cheng et.al.
+2404.16663v2 by Chih-Hong Cheng,Changshun Wu,Harald Ruess,Xingyu Zhao,Saddek Bensalem
 
 Reinforcing or even exacerbating societal biases and inequalities will
 increase significantly as generative AI increasingly produces useful artifacts,
@@ -3232,7 +3232,7 @@ models.
 楷模。
 
 ##### **Benchmarking Mobile Device Control Agents across Diverse Configurations**
-2404.16660v1 by Juyong Lee et.al.
+2404.16660v1 by Juyong Lee,Taywon Min,Minyong An,Changyeon Kim,Kimin Lee
 
 Developing autonomous agents for mobile devices can significantly enhance
 user interactions by offering increased efficiency and accessibility. However,
@@ -3269,7 +3269,7 @@ LLM和代理人透過人類專家演示從頭開始接受培訓。
 可以在 https://b-moca.github.io 取得。
 
 ##### **ProbGate at EHRSQL 2024: Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling**
-2404.16659v1 by Sangryul Kim et.al.
+2404.16659v1 by Sangryul Kim,Donghee Han,Sehyun Kim
 
 Recently, deep learning-based language models have significantly enhanced
 text-to-SQL tasks, with promising applications in retrieving patient records
@@ -3298,7 +3298,7 @@ are not accessible, and that it can be effectively utilized in practice.
 是不可獲取的，並且可以在實踐中有效利用。
 
 ##### **A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**
-2404.16656v1 by Sebastián Basterrech et.al.
+2404.16656v1 by Sebastián Basterrech,Line Clemmensen,Gerardo Rubino
 
 Modeling non-stationary data is a challenging problem in the field of
 continual learning, and data distribution shifts may result in negative
@@ -3347,7 +3347,7 @@ levels. The empirical study reveals the potential of the proposed approach.
 水平。實證研究揭示了所提出方法的潛力。
 
 ##### **Análise de ambiguidade linguística em modelos de linguagem de grande escala (LLMs)**
-2404.16653v1 by Lavínia de Carvalho Moraes et.al.
+2404.16653v1 by Lavínia de Carvalho Moraes,Irene Cristina Silvério,Rafael Alexandre Sousa Marques,Bianca de Castro Anaia,Dandara Freitas de Paula,Maria Carolina Schincariol de Faria,Iury Cleveston,Alana de Santana Correia,Raquel Meister Ko Freitag
 
 Linguistic ambiguity continues to represent a significant challenge for
 natural language processing (NLP) systems, notwithstanding the advancements in
@@ -3386,7 +3386,7 @@ ChatGPT 和 Gemini 等教學模型（2023 年，人工
 監督學習需要描述性研究。
 
 ##### **Tele-FLM Technical Report**
-2404.16645v1 by Xiang Li et.al.
+2404.16645v1 by Xiang Li,Yiqun Yao,Xin Jiang,Xuezhi Fang,Chao Wang,Xinzhang Liu,Zihan Wang,Yu Zhao,Xin Wang,Yuyao Huang,Shuangyong Song,Yongxiang Li,Zheng Zhang,Bo Zhao,Aixin Sun,Yequan Wang,Zhongjiang He,Zhongyuan Wang,Xuelong Li,Tiejun Huang
 
 Large language models (LLMs) have showcased profound capabilities in language
 understanding and generation, facilitating a wide array of applications.
@@ -3419,7 +3419,7 @@ Tele-FLM（又稱 FLM-2），一個 52B 開源多語言大語言模型，
 學術界和工業界。
 
 ##### **Legal Aspects for Software Developers Interested in Generative AI Applications**
-2404.16630v1 by Steffen Herbold et.al.
+2404.16630v1 by Steffen Herbold,Brian Valerius,Anamaria Mojica-Hanke,Isabella Lex,Joel Mittel
 
 Recent successes in Generative Artificial Intelligence (GenAI) have led to
 new technologies capable of generating high-quality code, natural language, and
@@ -3440,13 +3440,13 @@ to liability claims.
 具有一定的責任風險。在這篇文章中，我們想要擺脫
 淺談兩種此類風險的現況：資料保護和版權。
 這兩個方面對於 GenAI 都至關重要。這項技術處理的數據
-模型訓練和產生的輸出。我們總結了有關我們的關鍵方面
+模型訓練和生成的輸出。我們總結了有關我們的關鍵方面
 每個參與產品開發的軟體開發人員的當前知識
 使用 GenAI 時應注意避免可能暴露的嚴重錯誤
 責任索賠。
 
 ##### **Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**
-2404.16627v1 by Jianyu Zheng et.al.
+2404.16627v1 by Jianyu Zheng,Fengfei Fan,Jianquan Li
 
 Unsupervised cross-lingual transfer involves transferring knowledge between
 languages without explicit supervision. Although numerous studies have been
@@ -3491,7 +3491,7 @@ lexicon, syntax, code-switching, graph attention network
 字典、文法、語碼轉換、圖注意力網絡
 
 ##### **Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**
-2404.16621v1 by Emre Can Acikgoz et.al.
+2404.16621v1 by Emre Can Acikgoz,Osman Batur İnce,Rayene Bench,Arda Anıl Boz,İlker Kesen,Aykut Erdem,Erkut Erdem
 
 The integration of Large Language Models (LLMs) into healthcare promises to
 transform medical diagnostics, research, and patient care. Yet, the progression
@@ -3536,7 +3536,7 @@ LLM的全部潛力不僅可以促進醫學知識和病人的發展
 它們在全球範圍內可用。
 
 ##### **SFMViT: SlowFast Meet ViT in Chaotic World**
-2404.16609v1 by Jiaying Lin et.al.
+2404.16609v1 by Jiaying Lin,Jiajun Wen,Mengyuan Liu,Jinfu Liu,Baiqiao Yin,Yue Li
 
 The task of spatiotemporal action localization in chaotic scenes is a
 challenging task toward advanced video understanding. Paving the way with
@@ -3569,7 +3569,7 @@ SFMViT 由 ViT 和 SlowFast 組成，具有時空先驗知識
 https://github.com/jfightyr/SlowFast-Meet-ViT。
 
 ##### **Understanding Privacy Risks of Embeddings Induced by Large Language Models**
-2404.16587v1 by Zhihao Zhu et.al.
+2404.16587v1 by Zhihao Zhu,Ninglu Shao,Defu Lian,Chenwang Wu,Zheng Liu,Yi Yang,Enhong Chen
 
 Large language models (LLMs) show early signs of artificial general
 intelligence but struggle with hallucinations. One promising solution to
@@ -3606,7 +3606,7 @@ LLM危害用戶隱私，強調了以下的負面後果
 這種風險。
 
 ##### **Neural Interaction Energy for Multi-Agent Trajectory Prediction**
-2404.16579v1 by Kaixin Shen et.al.
+2404.16579v1 by Kaixin Shen,Ruijie Quan,Linchao Zhu,Jun Xiao,Yi Yang
 
 Maintaining temporal stability is crucial in multi-agent trajectory
 prediction. Insufficient regularization to uphold this stability often results
@@ -3639,7 +3639,7 @@ superior prediction accuracy and generalization capabilities of our model.
 我們的模型具有卓越的預測準確性和泛化能力。
 
 ##### **Exploring Internal Numeracy in Language Models: A Case Study on ALBERT**
-2404.16574v1 by Ulme Wennberg et.al.
+2404.16574v1 by Ulme Wennberg,Gustav Eje Henter
 
 It has been found that Transformer-based language models have the ability to
 perform basic quantitative reasoning. In this paper, we propose a method for
@@ -3672,7 +3672,7 @@ intuit 基本數學概念，為 NLP 應用開闢了途徑
 與定量推理相交叉。
 
 ##### **Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark**
-2404.16563v1 by Elizabeth Fons et.al.
+2404.16563v1 by Elizabeth Fons,Rachneet Kaur,Soham Palande,Zhen Zeng,Svitlana Vyetrenko,Tucker Balch
 
 Large Language Models (LLMs) offer the potential for automatic time series
 analysis and reporting, which is a critical task across many domains, spanning
@@ -3709,7 +3709,7 @@ the overall time series length.
 總時間序列長度。
 
 ##### **Evolve Cost-aware Acquisition Functions Using Large Language Models**
-2404.16906v1 by Yiming Yao et.al.
+2404.16906v1 by Yiming Yao,Fei Liu,Ji Cheng,Qingfu Zhang
 
 Many real-world optimization scenarios involve expensive evaluation with
 unknown and heterogeneous costs. Cost-aware Bayesian optimization stands out as
@@ -3754,7 +3754,7 @@ AF。利用演算法空間中的交叉與變異，EvolCAF
 超參數調整測試集。
 
 ##### **DeepKalPose: An Enhanced Deep-Learning Kalman Filter for Temporally Consistent Monocular Vehicle Pose Estimation**
-2404.16558v1 by Leandro Di Bella et.al.
+2404.16558v1 by Leandro Di Bella,Yangxintong Lyu,Adrian Munteanu
 
 This paper presents DeepKalPose, a novel approach for enhancing temporal
 consistency in monocular vehicle pose estimation applied on video through a
@@ -3777,7 +3777,7 @@ KITTI 資料集證實 DeepKalPose 在這兩方面均優於現有方法
 姿勢準確性和時間一致性。
 
 ##### **Energy-Latency Manipulation of Multi-modal Large Language Models via Verbose Samples**
-2404.16557v1 by Kuofeng Gao et.al.
+2404.16557v1 by Kuofeng Gao,Jindong Gu,Yang Bai,Shu-Tao Xia,Philip Torr,Wei Liu,Zhifeng Li
 
 Despite the exceptional performance of multi-modal large language models
 (MLLMs), their deployment requires substantial computational resources. Once
@@ -3820,7 +3820,7 @@ our verbose samples can largely extend the length of generated sequences.
 我們的詳細樣本可以很大程度上延長生成序列的長度。
 
 ##### **Developing Acoustic Models for Automatic Speech Recognition in Swedish**
-2404.16547v1 by Giampiero Salvi et.al.
+2404.16547v1 by Giampiero Salvi
 
 This paper is concerned with automatic continuous speech recognition using
 trainable systems. The aim of this work is to build acoustic models for spoken
@@ -3849,7 +3849,7 @@ compared to previous similar studies showing a remarkable improvement.
 與先前的類似研究相比，顯示出顯著的進步。
 
 ##### **Samsung Research China-Beijing at SemEval-2024 Task 3: A multi-stage framework for Emotion-Cause Pair Extraction in Conversations**
-2404.16905v1 by Shen Zhang et.al.
+2404.16905v1 by Shen Zhang,Haojie Zhang,Jing Zhang,Xudong Zhang,Yimeng Zhuang,Jinting Wu
 
 In human-computer interaction, it is crucial for agents to respond to human
 by understanding their emotions. Unraveling the causes of emotions is more
@@ -3878,7 +3878,7 @@ two subtasks in the competition.
 比賽的兩個子任務。
 
 ##### **SIDEs: Separating Idealization from Deceptive Explanations in xAI**
-2404.16534v1 by Emily Sullivan et.al.
+2404.16534v1 by Emily Sullivan
 
 Explainable AI (xAI) methods are important for establishing trust in using
 black-box models. However, recent criticism has mounted against current xAI
@@ -3927,7 +3927,7 @@ failure.
 失敗。
 
 ##### **Global Concept Explanations for Graphs by Contrastive Learning**
-2404.16532v1 by Jonas Teufel et.al.
+2404.16532v1 by Jonas Teufel,Pascal Friederich
 
 Beyond improving trust and validating model fairness, xAI practices also have
 the potential to recover valuable scientific insights in application domains
@@ -3970,7 +3970,7 @@ relationships for complex graph property prediction tasks.
 複雜圖屬性預測任務的關係。
 
 ##### **Building a Japanese Document-Level Relation Extraction Dataset Assisted by Cross-Lingual Transfer**
-2404.16506v1 by Youmi Ma et.al.
+2404.16506v1 by Youmi Ma,An Wang,Naoaki Okazaki
 
 Document-level Relation Extraction (DocRE) is the task of extracting all
 semantic relationships from a document. While studies have been conducted on
@@ -4115,7 +4115,7 @@ challenges of Japanese and cross-lingual DocRE.
 
 #### Abstracts
 ##### **Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**
-2404.17454v1 by Kaichen Xu et.al.
+2404.17454v1 by Kaichen Xu,Yueyang Ding,Suyang Hou,Weiqiang Zhan,Nisang Chen,Jun Wang,Xiaobo Sun
 
 Fined-grained anomalous cell detection from affected tissues is critical for
 clinical diagnosis and pathological research. Single-cell sequencing data
@@ -4154,7 +4154,7 @@ contexts. Our code is available at https://github.com/Catchxu/ACsleuth.
 上下文。我們的程式碼可在 https://github.com/Catchxu/ACsleuth 取得。
 
 ##### **M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**
-2404.17391v1 by Lakmal Meegahapola et.al.
+2404.17391v1 by Lakmal Meegahapola,Hamza Hassoune,Daniel Gatica-Perez
 
 Over the years, multimodal mobile sensing has been used extensively for
 inferences regarding health and well being, behavior, and context. However, a
@@ -4209,7 +4209,7 @@ AUC（受試者工作特徵曲線下面積）
 任務。
 
 ##### **Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study**
-2404.17183v1 by Muhammad Rizwan et.al.
+2404.17183v1 by Muhammad Rizwan,Jure Demšar
 
 Social anxiety represents a prevalent challenge in modern society, affecting
 individuals across personal and professional spheres. Left unaddressed, this
@@ -4252,7 +4252,7 @@ interventions tailored to its diverse expressions.
 針對其不同表現形式的介入措施。
 
 ##### **Deep Evidential Learning for Dose Prediction**
-2404.17126v1 by Hai Siong Tan et.al.
+2404.17126v1 by Hai Siong Tan,Kuancheng Wang,Rafe Mcbeth
 
 In this work, we present a novel application of an uncertainty-quantification
 framework called Deep Evidential Learning in the domain of radiotherapy dose
@@ -4299,7 +4299,7 @@ intervals.
 間隔。
 
 ##### **Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**
-2404.16957v1 by Yunfei Ge et.al.
+2404.16957v1 by Yunfei Ge,Quanyan Zhu
 
 The pervasive integration of Artificial Intelligence (AI) has introduced
 complex challenges in the responsibility and accountability in the event of
@@ -4342,7 +4342,7 @@ reflection.
 反射。
 
 ##### **Taming False Positives in Out-of-Distribution Detection with Human Feedback**
-2404.16954v1 by Harit Vishwakarma et.al.
+2404.16954v1 by Harit Vishwakarma,Heguang Lin,Ramya Korlakai Vinayak
 
 Robustness to out-of-distribution (OOD) samples is crucial for safely
 deploying machine learning models in the open world. Recent works have focused
@@ -4383,7 +4383,7 @@ OOD 資料集表明，我們的方法最多可以將 FPR 維持在 $5\%$，而
 最大化 TPR。
 
 ##### **Features Fusion for Dual-View Mammography Mass Detection**
-2404.16718v1 by Arina Varlamova et.al.
+2404.16718v1 by Arina Varlamova,Valery Belotsky,Grigory Novikov,Anton Konushin,Evgeny Sidorov
 
 Detection of malignant lesions on mammography images is extremely important
 for early breast cancer diagnosis. In clinical practice, images are acquired
@@ -4416,7 +4416,7 @@ MAMM-Net 的關鍵組件是融合層，基於可變形注意力和
 惡性腫瘤。
 
 ##### **Report on Candidate Computational Indicators for Conscious Valenced Experience**
-2404.16696v1 by Andres Campero et.al.
+2404.16696v1 by Andres Campero
 
 This report enlists 13 functional conditions cashed out in computational
 terms that have been argued to be constituent of conscious valenced experience.
@@ -4431,7 +4431,7 @@ evolution, neuroscience, and artificial intelligence.
 進化論、神經科學和人工智慧。
 
 ##### **ProbGate at EHRSQL 2024: Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling**
-2404.16659v1 by Sangryul Kim et.al.
+2404.16659v1 by Sangryul Kim,Donghee Han,Sehyun Kim
 
 Recently, deep learning-based language models have significantly enhanced
 text-to-SQL tasks, with promising applications in retrieving patient records
@@ -4460,7 +4460,7 @@ are not accessible, and that it can be effectively utilized in practice.
 是不可獲取的，並且可以在實踐中有效利用。
 
 ##### **Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**
-2404.16621v1 by Emre Can Acikgoz et.al.
+2404.16621v1 by Emre Can Acikgoz,Osman Batur İnce,Rayene Bench,Arda Anıl Boz,İlker Kesen,Aykut Erdem,Erkut Erdem
 
 The integration of Large Language Models (LLMs) into healthcare promises to
 transform medical diagnostics, research, and patient care. Yet, the progression
@@ -4505,7 +4505,7 @@ LLM的全部潛力不僅可以促進醫學知識和病人的發展
 它們在全球範圍內可用。
 
 ##### **DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**
-2404.16474v1 by Zhihao Shuai et.al.
+2404.16474v1 by Zhihao Shuai,Yinan Chen,Shunqiang Mao,Yihan Zho,Xiaohong Zhang
 
 Weakly supervised medical image segmentation (MIS) using generative models is
 crucial for clinical diagnosis. However, the accuracy of the segmentation
@@ -4546,7 +4546,7 @@ DiffSeg，一種基於擴散差的皮損分割模型
 數據集，優於最先進的基於 U-Net 的方法。
 
 ##### **Light-weight Retinal Layer Segmentation with Global Reasoning**
-2404.16346v1 by Xiang He et.al.
+2404.16346v1 by Xiang He,Weiye Song,Yiming Wang,Fabio Poiesi,Ji Yi,Manishi Desai,Quanqing Xu,Kongzheng Yang,Yi Wan
 
 Automatic retinal layer segmentation with medical images, such as optical
 coherence tomography (OCT) images, serves as an important tool for diagnosing
@@ -4585,7 +4585,7 @@ collected dataset and two other public datasets, with only 3.3M parameters.
 收集的資料集和另外兩個公共資料集，只有 330 萬個參數。
 
 ##### **Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**
-2404.16325v1 by Hedda Cohen Indelman et.al.
+2404.16325v1 by Hedda Cohen Indelman,Elay Dahan,Angeles M. Perez-Agosto,Carmit Shiran,Doron Shaked,Nati Daniel
 
 Despite the remarkable success of deep learning in medical imaging analysis,
 medical image segmentation remains challenging due to the scarcity of
@@ -4620,7 +4620,7 @@ yielding a larger performance gain as the training set size decreases.
 隨著訓練集大小的減小，產生更大的效能增益。
 
 ##### **LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**
-2404.16294v1 by Saranya Krishnamoorthy et.al.
+2404.16294v1 by Saranya Krishnamoorthy,Ayush Singh,Shabnam Tafreshi
 
 Electronic health records (EHR) even though a boon for healthcare
 practitioners, are growing convoluted and longer every day. Sifting around
@@ -4657,7 +4657,7 @@ GPT-4 也可以有效解決零樣本和少樣本設定下的任務
 表現良好，暗示著進一步的研究和更嚴格的基準。
 
 ##### **Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**
-2404.16251v2 by Divyansh Agarwal et.al.
+2404.16251v2 by Divyansh Agarwal,Alexander R. Fabbri,Philippe Laban,Ben Risher,Shafiq Joty,Caiming Xiong,Chien-Sheng Wu
 
 Prompt leakage in large language models (LLMs) poses a significant security
 and privacy threat, particularly in retrieval-augmented generation (RAG)
@@ -4694,7 +4694,7 @@ LLM 回答中的指導和知識外洩。在多圈設定中，
 顯示 LLM 安全研究的增強空間和未來方向。
 
 ##### **ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**
-2404.16183v1 by Sarala Naidu et.al.
+2404.16183v1 by Sarala Naidu,Ning Xiong
 
 Anomaly detection in industrial systems is crucial for preventing equipment
 failures, ensuring risk identification, and maintaining overall system
@@ -4735,7 +4735,7 @@ informed decisions about maintenance strategies
 有關維護策略的明智決策
 
 ##### **Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**
-2404.16112v1 by Badri Narayana Patro et.al.
+2404.16112v1 by Badri Narayana Patro,Vijay Srinivas Agneeswaran
 
 Sequence modeling is a crucial area across various domains, including Natural
 Language Processing (NLP), speech recognition, time series forecasting, music
@@ -4790,7 +4790,7 @@ COIN、LVU 和各種時間序列資料集。 Mamba-360 的專案頁面
 此網頁上提供了工作。
 
 ##### **Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**
-2404.15946v1 by Xuxin Chen et.al.
+2404.15946v1 by Xuxin Chen,Yuheng Li,Mingzhe Hu,Ella Salari,Xiaoqian Chen,Richard L. J. Qiu,Bin Zheng,Xiaofeng Yang
 
 Although fusion of information from multiple views of mammograms plays an
 important role to increase accuracy of breast cancer detection, developing
@@ -4847,7 +4847,7 @@ cancer.
 癌症。
 
 ##### **Assessing The Potential Of Mid-Sized Language Models For Clinical QA**
-2404.15894v1 by Elliot Bolton et.al.
+2404.15894v1 by Elliot Bolton,Betty Xiong,Vijaytha Muralidharan,Joel Schamroth,Vivek Muralidharan,Christopher D. Manning,Roxana Daneshjou
 
 Large language models, such as GPT-4 and Med-PaLM, have shown impressive
 performance on clinical tasks; however, they require access to compute, are
@@ -4880,7 +4880,7 @@ BioGPT-large、BioMedLM、LLaMA 2 和 Mistral 7B 避免了這些缺點，但是
 臨床任務。
 
 ##### **Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**
-2404.16080v1 by Hong-Jun Yoon et.al.
+2404.16080v1 by Hong-Jun Yoon,Chris Keum,Alexander Witkowski,Joanna Ludzik,Tracy Petrie,Heidi A. Hanson,Sancy A. Leachman
 
 Reflectance Confocal Microscopy (RCM) is a non-invasive imaging technique
 used in biomedical research and clinical dermatology. It provides virtual
@@ -4907,7 +4907,7 @@ advance dermatological diagnosis and treatment.
 推進皮膚病診斷和治療。
 
 ##### **Anomaly Detection for Incident Response at Scale**
-2404.16887v1 by Hanzhang Wang et.al.
+2404.16887v1 by Hanzhang Wang,Gowtham Kumar Tangirala,Gilkara Pranav Naidu,Charles Mayville,Arighna Roy,Joanne Sun,Ramesh Babu Mandava
 
 We present a machine learning-based anomaly detection product, AI Detect and
 Respond (AIDR), that monitors Walmart's business and system health in
@@ -4946,7 +4946,7 @@ AIDR 有一個回饋循環，可結合以下因素評估模型品質：
 推薦（RCR）以實現端到端 AIDR 體驗。
 
 ##### **Adapting an Artificial Intelligence Sexually Transmitted Diseases Symptom Checker Tool for Mpox Detection: The HeHealth Experience**
-2404.16885v1 by Rayner Kay Jin Tan et.al.
+2404.16885v1 by Rayner Kay Jin Tan,Dilruk Perera,Salomi Arasaratnam,Yudara Kularathne
 
 Artificial Intelligence applications have shown promise in the management of
 pandemics and have been widely used to assist the identification,
@@ -5001,7 +5001,7 @@ Mpox，該團隊開發了一款智慧型手機應用程序，應用程式用戶�
 大數據其實是由小數據組成的概念。
 
 ##### **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**
-2404.15549v1 by Shashi Kant Gupta et.al.
+2404.15549v1 by Shashi Kant Gupta,Aditya Basu,Mauro Nievas,Jerrin Thomas,Nathan Wolfrath,Adhitya Ramamurthi,Bradley Taylor,Anai N. Kothari,Therica M. Miller,Sorena Nadaf-Rahrov,Yanshan Wang,Hrituraj Singh
 
 Clinical trial matching is the task of identifying trials for which patients
 may be potentially eligible. Typically, this task is labor-intensive and
@@ -5044,7 +5044,7 @@ GPT-3.5也符合合格醫師的表現。全部
 來自美國單一癌症中心的可用臨床試驗。
 
 ##### **Multi-scale Intervention Planning based on Generative Design**
-2404.15492v1 by Ioannis Kavouras et.al.
+2404.15492v1 by Ioannis Kavouras,Ioannis Rallis,Emmanuel Sardis,Eftychios Protopapadakis,Anastasios Doulamis,Nikolaos Doulamis
 
 The scarcity of green spaces, in urban environments, consists a critical
 challenge. There are multiple adverse effects, impacting the health and
@@ -5073,7 +5073,7 @@ shaping the future of urban intervention planning processes.
 塑造城市干預規劃流程的未來。
 
 ##### **IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**
-2404.15488v1 by Jean-Philippe Corbeil et.al.
+2404.15488v1 by Jean-Philippe Corbeil
 
 In natural language processing applied to the clinical domain, utilizing
 large language models has emerged as a promising avenue for error detection and
@@ -5116,7 +5116,7 @@ MEDIQA-CORR 2024 final leaderboard.
 MEDIQA-CORR 2024 年最終排行榜。
 
 ##### **Machine Learning Techniques with Fairness for Prediction of Completion of Drug and Alcohol Rehabilitation**
-2404.15418v1 by Karen Roberts-Licklider et.al.
+2404.15418v1 by Karen Roberts-Licklider,Theodore Trafalis
 
 The aim of this study is to look at predicting whether a person will complete
 a drug and alcohol rehabilitation program and the number of times a person
@@ -5161,7 +5161,7 @@ scenarios.
 場景。
 
 ##### **CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**
-2404.15272v2 by Jingyang Lin et.al.
+2404.15272v2 by Jingyang Lin,Yingda Xia,Jianpeng Zhang,Ke Yan,Le Lu,Jiebo Luo,Ling Zhang
 
 Medical Vision-Language Pretraining (Med-VLP) establishes a connection
 between visual content from medical images and the relevant textual
@@ -5206,7 +5206,7 @@ CT-GLIP（基於 CT 掃描的接地語言影像預訓練），一種新方法
 並使用 CNN 和 ViT 架構微調場景。
 
 ##### **A review of deep learning-based information fusion techniques for multimodal medical image classification**
-2404.15022v1 by Yihao Li et.al.
+2404.15022v1 by Yihao Li,Mostafa El Habib Daho,Pierre-Henri Conze,Rachid Zeghlache,Hugo Le Boité,Ramin Tadayoni,Béatrice Cochener,Mathieu Lamard,Gwenolé Quellec
 
 Multimodal medical imaging plays a pivotal role in clinical diagnosis and
 research, as it combines information from various imaging modalities to provide
@@ -5247,7 +5247,7 @@ future research in this rapidly evolving field.
 這個快速發展的領域的未來研究。
 
 ##### **Clustering of timed sequences -- Application to the analysis of care pathways**
-2404.15379v1 by Thomas Guyet et.al.
+2404.15379v1 by Thomas Guyet,Pierre Pinson,Enoal Gesny
 
 Improving the future of healthcare starts by better understanding the current
 actual practices in hospitals. This motivates the objective of discovering
@@ -5278,7 +5278,7 @@ cases.
 案例。
 
 ##### **Grounded Knowledge-Enhanced Medical VLP for Chest X-Ray**
-2404.14750v1 by Qiao Deng et.al.
+2404.14750v1 by Qiao Deng,Zhongzhen Huang,Yunqi Wang,Zhichuan Wang,Zhao Wang,Xiaofan Zhang,Qi Dou,Yeung Yu Hui,Edward S. Hui
 
 Medical vision-language pre-training has emerged as a promising approach for
 learning domain-general representations of medical image and text. Current
@@ -5313,7 +5313,7 @@ between chest X-ray image and radiology report.
 胸部 X 光影像和放射學報告之間的關係。
 
 ##### **DAIC-WOZ: On the Validity of Using the Therapist's prompts in Automatic Depression Detection from Clinical Interviews**
-2404.14463v1 by Sergio Burdisso et.al.
+2404.14463v1 by Sergio Burdisso,Ernesto Reyes-Ramírez,Esaú Villatoro-Tello,Fernando Sánchez-Vega,Pastor López-Monroy,Petr Motlicek
 
 Automatic depression detection from conversational data has gained
 significant interest in recent years. The DAIC-WOZ dataset, interviews
@@ -5356,7 +5356,7 @@ patient's mental health condition.
 患者的心理健康狀況。
 
 ##### **Adaptive Collaboration Strategy for LLMs in Medical Decision Making**
-2404.15155v1 by Yubin Kim et.al.
+2404.15155v1 by Yubin Kim,Chanwoo Park,Hyewon Jeong,Yik Siu Chan,Xuhai Xu,Daniel McDuff,Cynthia Breazeal,Hae Won Park
 
 Foundation models have become invaluable in advancing the medical field.
 Despite their promise, the strategic deployment of LLMs for effective utility
@@ -5393,7 +5393,7 @@ Path-VQA 和 MedVidQA，在 7 個基準測試中的 5 個中取得最佳效能
 動力學。我們的程式碼可以在 https://github.com/mitmedialab/MDAgents 找到。
 
 ##### **A Nasal Cytology Dataset for Object Detection and Deep Learning**
-2404.13745v1 by Mauro Camporeale et.al.
+2404.13745v1 by Mauro Camporeale,Giovanni Dimauro,Matteo Gelardi,Giorgia Iacobellis,Mattia Sebastiano Ladisa,Sergio Latrofa,Nunzia Lomonte
 
 Nasal Cytology is a new and efficient clinical technique to diagnose rhinitis
 and allergies that is not much widespread due to the time-consuming nature of
@@ -5430,7 +5430,7 @@ DETR和YOLO模型在檢測細胞和分類方面表現出良好的性能
 專家。
 
 ##### **Bt-GAN: Generating Fair Synthetic Healthdata via Bias-transforming Generative Adversarial Networks**
-2404.13634v3 by Resmi Ramachandranpillai et.al.
+2404.13634v3 by Resmi Ramachandranpillai,Md Fahim Sikder,David Bergström,Fredrik Heintz
 
 Synthetic data generation offers a promising solution to enhance the
 usefulness of Electronic Healthcare Records (EHR) by generating realistic
@@ -5487,7 +5487,7 @@ GAN 等先進技術，為更可靠、更可靠的技術鋪平了道路
 醫療保健應用中的公正預測。
 
 ##### **SmartMem: Layout Transformation Elimination and Adaptation for Efficient DNN Execution on Mobile**
-2404.13528v1 by Wei Niu et.al.
+2404.13528v1 by Wei Niu,Md Musfiqur Rahman Sanim,Zhihao Shu,Jiexiong Guan,Xipeng Shen,Miao Yin,Gagan Agrawal,Bin Ren
 
 This work is motivated by recent developments in Deep Neural Networks,
 particularly the Transformer architectures underlying applications such as
@@ -5534,7 +5534,7 @@ Swin 式架構）和大型模型（例如穩定擴散和LLM）
 分別為平均。
 
 ##### **Parameter Efficient Fine Tuning: A Comprehensive Analysis Across Applications**
-2404.13506v2 by Charith Chandra Sai Balne et.al.
+2404.13506v2 by Charith Chandra Sai Balne,Sreyoshi Bhaduri,Tamoghna Roy,Vinija Jain,Aman Chadha
 
 The rise of deep learning has marked significant progress in fields such as
 computer vision, natural language processing, and medical imaging, primarily
@@ -5573,7 +5573,7 @@ PEFT 方法在減少計算負載、加速方面的有效性
 接近。
 
 ##### **SiNC+: Adaptive Camera-Based Vitals with Unsupervised Learning of Periodic Signals**
-2404.13449v1 by Jeremy Speth et.al.
+2404.13449v1 by Jeremy Speth,Nathan Vance,Patrick Flynn,Adam Czajka
 
 Subtle periodic signals, such as blood volume pulse and respiration, can be
 extracted from RGB video, enabling noncontact health monitoring at low cost.
@@ -5618,7 +5618,7 @@ personalized and adaptive signal regressors.
 個性化和自適應訊號回歸器。
 
 ##### **MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized Federated Learning**
-2404.13421v1 by Michael Duchesne et.al.
+2404.13421v1 by Michael Duchesne,Kaiwen Zhang,Chamseddine Talhi
 
 Federated Learning (FL) has emerged as a prominent privacy-preserving
 technique for enabling use cases like confidential clinical machine learning.
@@ -5659,7 +5659,7 @@ FL 的好處。我們提出 MultiConfederated Learning：去中心化的 FL
 來自同行的總結。
 
 ##### **UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions**
-2404.13343v1 by Ana-Cristina Rogoz et.al.
+2404.13343v1 by Ana-Cristina Rogoz,Radu Tudor Ionescu
 
 This work explores a novel data augmentation method based on Large Language
 Models (LLMs) for predicting item difficulty and response time of retired USMLE
@@ -5686,7 +5686,7 @@ LLM答案的可變性，突顯了LLM提高水平的潛力
 https://github.com/ana-rogoz/BEA-2024。
 
 ##### **Practical Battery Health Monitoring using Uncertainty-Aware Bayesian Neural Network**
-2404.14444v1 by Yunyi Zhao et.al.
+2404.14444v1 by Yunyi Zhao,Zhang Wei,Qingyu Yan,Man-Fai Ng,B. Sivaneasan,Cheng Xiang
 
 Battery health monitoring and prediction are critically important in the era
 of electric mobility with a huge impact on safety, sustainability, and economic
@@ -5725,7 +5725,7 @@ health 並對每個參數套用分佈，而不是單點
 業界技術的採用。
 
 ##### **Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging**
-2404.13149v1 by Chia-Hsuan Chang et.al.
+2404.13149v1 by Chia-Hsuan Chang,Mary M. Lucas,Yeawon Lee,Christopher C. Yang,Grace Lu-Yao
 
 Advances in large language models (LLMs) have encouraged their adoption in
 the healthcare domain where vital clinical information is often contained in
@@ -5766,7 +5766,7 @@ critical.
 批判的。
 
 ##### **Explainable AI for Fair Sepsis Mortality Predictive Model**
-2404.13139v1 by Chia-Hsuan Chang et.al.
+2404.13139v1 by Chia-Hsuan Chang,Xiaoyang Wang,Christopher C. Yang
 
 Artificial intelligence supports healthcare professionals with predictive
 modeling, greatly transforming clinical decision-making. This study addresses
@@ -5807,7 +5807,7 @@ delivery.
 送貨。
 
 ##### **Eye-tracking in Mixed Reality for Diagnosis of Neurodegenerative Diseases**
-2404.12984v1 by Mateusz Daniol et.al.
+2404.12984v1 by Mateusz Daniol,Daria Hemmerling,Jakub Sikora,Pawel Jemiolo,Marek Wodzinski,Magdalena Wojcik-Pedziwiatr
 
 Parkinson's disease ranks as the second most prevalent neurodegenerative
 disorder globally. This research aims to develop a system leveraging Mixed
@@ -5860,7 +5860,7 @@ attachments, enabling examinations through personal eyewear.
 附件，可透過個人眼鏡進行檢查。
 
 ##### **A Large-scale Medical Visual Task Adaptation Benchmark**
-2404.12876v1 by Shentong Mo et.al.
+2404.12876v1 by Shentong Mo,Xufang Luo,Yansen Wang,Dongsheng Li
 
 Visual task adaptation has been demonstrated to be effective in adapting
 pre-trained Vision Transformers (ViTs) to general downstream visual tasks using
@@ -5899,7 +5899,7 @@ Med-VTAB 顯示單一預訓練模型在醫療任務中存在不足
 適配器，在醫學視覺任務適應方面取得了最先進的成果。
 
 ##### **Multi Class Depression Detection Through Tweets using Artificial Intelligence**
-2404.13104v1 by Muhammad Osama Nusrat et.al.
+2404.13104v1 by Muhammad Osama Nusrat,Waseem Shahzad,Saad Ahmed Jamal
 
 Depression is a significant issue nowadays. As per the World Health
 Organization (WHO), in 2023, over 280 million individuals are grappling with
@@ -5942,7 +5942,7 @@ Transformers (BERT) 用於特徵提取和訓練。機器
 0.96。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
-2404.12832v1 by Dmytro Shvetsov et.al.
+2404.12832v1 by Dmytro Shvetsov,Joonas Ariva,Marharyta Domnich,Raul Vicente,Dmytro Fishman
 
 Deep learning is dramatically transforming the field of medical imaging and
 radiology, enabling the identification of pathologies in medical images,
@@ -5997,7 +5997,7 @@ CT 影像中的腫瘤，並在深度學習方面向前邁進了一步
 是稀缺的。
 
 ##### **DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**
-2404.13101v1 by Hesam Hakimnejad et.al.
+2404.13101v1 by Hesam Hakimnejad,Zohreh Azimifar,Narjes Goshtasbi
 
 Image reconstruction is an essential step of every medical imaging method,
 including Photoacoustic Tomography (PAT), which is a promising modality of
@@ -6030,7 +6030,7 @@ over other prevalent deep learning techniques.
 優於其他流行的深度學習技術。
 
 ##### **Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**
-2404.12634v1 by Danqing Ma et.al.
+2404.12634v1 by Danqing Ma,Meng Wang,Ao Xiang,Zongqing Qi,Qin Yang
 
 This study proposes a multi-modal fusion framework Multitrans based on the
 Transformer architecture and self-attention mechanism. This architecture
@@ -6059,7 +6059,7 @@ Transformer 架構和自註意力機制。這種架構
 準確預測中風治療效果..
 
 ##### **GluMarker: A Novel Predictive Modeling of Glycemic Control Through Digital Biomarkers**
-2404.12605v1 by Ziyi Zhou et.al.
+2404.12605v1 by Ziyi Zhou,Ming Cheng,Xingjian Diao,Yanjun Cui,Xiangling Li
 
 The escalating prevalence of diabetes globally underscores the need for
 diabetes management. Recent research highlights the growing focus on digital
@@ -6096,7 +6096,7 @@ GluMarker－一種用於數位生物標記建模的端到端框架
 對糖尿病照護的重要見解。
 
 ##### **DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**
-2404.12278v1 by David Restrepo et.al.
+2404.12278v1 by David Restrepo,Chenwei Wu,Constanza Vásquez-Venegas,Luis Filipe Nakayama,Leo Anthony Celi,Diego M López
 
 In the big data era, integrating diverse data modalities poses significant
 challenges, particularly in complex fields like healthcare. This paper
@@ -6141,7 +6141,7 @@ diverse, resource-constrained settings.
 多樣化、資源有限的環境。
 
 ##### **Relationship Discovery for Drug Recommendation**
-2404.12228v1 by Xiang Li et.al.
+2404.12228v1 by Xiang Li,Shunpan Liang,Yu Lei,Chen Li,Yulei Hou,Tengfei Ma
 
 Medication recommendation systems are designed to deliver personalized drug
 suggestions that are closely aligned with individual patient needs. Previous
@@ -6178,7 +6178,7 @@ profiles but also surpasses leading models in both precision and safety.
 外形，但在精度和安全性方面也超越了領先型號。
 
 ##### **A Symmetric Regressor for MRI-Based Assessment of Striatal Dopamine Transporter Uptake in Parkinson's Disease**
-2404.11929v1 by Walid Abdullah Al et.al.
+2404.11929v1 by Walid Abdullah Al,Il Dong Yun,Yun Jung Bae
 
 Dopamine transporter (DAT) imaging is commonly used for monitoring
 Parkinson's disease (PD), where striatal DAT uptake amount is computed to
@@ -6223,7 +6223,7 @@ DAT 攝取預測的估計，利用了上述對稱性。我們
 範圍。
 
 ##### **Cross-model Mutual Learning for Exemplar-based Medical Image Segmentation**
-2404.11812v1 by Qing En et.al.
+2404.11812v1 by Qing En,Yuhong Guo
 
 Medical image segmentation typically demands extensive dense annotations for
 model training, which is both time-consuming and skill-intensive. To mitigate
@@ -6272,7 +6272,7 @@ supervision.
 監督。
 
 ##### **A Secure and Trustworthy Network Architecture for Federated Learning Healthcare Applications**
-2404.11698v1 by Antonio Boiano et.al.
+2404.11698v1 by Antonio Boiano,Marco Di Gennaro,Luca Barbieri,Michele Carminati,Monica Nicoli,Alessandro Redondi,Stefano Savazzi,Albert Sund Aillet,Diogo Reis Santos,Luigi Serio
 
 Federated Learning (FL) has emerged as a promising approach for
 privacy-preserving machine learning, particularly in sensitive domains such as
@@ -6305,7 +6305,7 @@ TRUSTroke FL 網路基礎設施概述。建議的架構
 可信度等級。
 
 ##### **Towards Reliable Empirical Machine Unlearning Evaluation: A Game-Theoretic View**
-2404.11577v1 by Yiwen Tu et.al.
+2404.11577v1 by Yiwen Tu,Pingbang Hu,Jiaqi Ma
 
 Machine unlearning is the process of updating machine learning models to
 remove the information of specific training data samples, in order to comply
@@ -6348,7 +6348,7 @@ MIA 對手，測量遺忘演算法的資料刪除效率
 為開發更有效的忘卻技術鋪路。
 
 ##### **Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**
-2404.11209v1 by Hongzhao Li et.al.
+2404.11209v1 by Hongzhao Li,Hongyu Wang,Xia Sun,Hua He,Jun Feng
 
 Medical report generation automates radiology descriptions from images,
 easing the burden on physicians and minimizing errors. However, current methods
@@ -6383,7 +6383,7 @@ effectiveness metrics, demonstrating strong performance.
 有效性指標，展現強勁的績效。
 
 ##### **Explainable Machine Learning System for Predicting Chronic Kidney Disease in High-Risk Cardiovascular Patients**
-2404.11148v1 by Nantika Nguycharoen et.al.
+2404.11148v1 by Nantika Nguycharoen
 
 As the global population ages, the incidence of Chronic Kidney Disease (CKD)
 is rising. CKD often remains asymptomatic until advanced stages, which
@@ -6430,7 +6430,7 @@ CKD 患者有心血管風險，利用病史和
 顯示出在醫療保健機器學習領域更廣泛應用的前景。
 
 ##### **AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation**
-2404.11008v1 by Qing En et.al.
+2404.11008v1 by Qing En,Yuhong Guo
 
 Lung-infected area segmentation is crucial for assessing the severity of lung
 diseases. However, existing image-text multi-modal methods typically rely on
@@ -6481,7 +6481,7 @@ in unsupervised scenarios.
 在無人監督的場景中。
 
 ##### **Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**
-2404.10978v1 by Nawfal Guefrachi et.al.
+2404.10978v1 by Nawfal Guefrachi,Jian Shi,Hakim Ghazzai,Ahmad Alsharoa
 
 The integration of Light Detection and Ranging (LiDAR) and Internet of Things
 (IoT) technologies offers transformative opportunities for public health
@@ -6518,7 +6518,7 @@ LiDAR，我們取得詳細的3D點雲數據，實現精準行人
 促進更安全的城市環境。
 
 ##### **CrossGP: Cross-Day Glucose Prediction Excluding Physiological Information**
-2404.10901v1 by Ziyi Zhou et.al.
+2404.10901v1 by Ziyi Zhou,Ming Cheng,Yanjun Cui,Xingjian Diao,Zhaorui Ma
 
 The increasing number of diabetic patients is a serious issue in society
 today, which has significant negative impacts on people's health and the
@@ -6559,7 +6559,7 @@ of CrossGP and prove its potential for future real-life applications.
 CrossGP 並證明其在未來現實生活應用中的潛力。
 
 ##### **Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation**
-2404.10717v1 by Lijian Li et.al.
+2404.10717v1 by Lijian Li
 
 Recently, prototype learning has emerged in semi-supervised medical image
 segmentation and achieved remarkable performance. However, the scarcity of
@@ -6594,7 +6594,7 @@ confirming the effectiveness of our framework. The code will be released soon.
 確認我們框架的有效性。該代碼即將發布。
 
 ##### **AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**
-2404.10573v2 by Lijun Liu et.al.
+2404.10573v2 by Lijun Liu,Jiali Yang,Jianfei Song,Xinglin Yang,Lele Niu,Zeqi Cai,Hui Shi,Tingjun Hou,Chang-yu Hsieh,Weiran Shen,Yafeng Deng
 
 Recombinant adeno-associated virus (rAAV) vectors have revolutionized gene
 therapy, but their broad tropism and suboptimal transduction efficiency limit
@@ -6637,7 +6637,7 @@ rAAV 載體的設計與功能驗證，提供創新解決方案
 應用程式.
 
 ##### **A Sentiment Analysis of Medical Text Based on Deep Learning**
-2404.10503v1 by Yinan Chen et.al.
+2404.10503v1 by Yinan Chen
 
 The field of natural language processing (NLP) has made significant progress
 with the rapid development of deep learning technologies. One of the research
@@ -6678,7 +6678,7 @@ METS-CoV 資料集以探索整合後的訓練效能
 高效的模型架構。
 
 ##### **Integration of Self-Supervised BYOL in Semi-Supervised Medical Image Recognition**
-2404.10405v1 by Hao Feng et.al.
+2404.10405v1 by Hao Feng,Yuanzhe Jia,Ruijia Xu,Mukesh Prasad,Ali Anaissi,Ali Braytee
 
 Image recognition techniques heavily rely on abundant labeled data,
 particularly in medical contexts. Addressing the challenges associated with
@@ -6707,7 +6707,7 @@ existing methods in terms of accuracy for medical image recognition.
 現有方法在醫學影像辨識的準確性方面。
 
 ##### **Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**
-2404.10356v1 by Payal Varshney et.al.
+2404.10356v1 by Payal Varshney,Adriano Lucieri,Christoph Balada,Andreas Dengel,Sheraz Ahmed
 
 Trustworthiness is a major prerequisite for the safe application of opaque
 deep learning models in high-stakes domains like medicine. Understanding the
@@ -6756,7 +6756,7 @@ direction.
 方向。
 
 ##### **CARE to Compare: A real-world dataset for anomaly detection in wind turbine data**
-2404.10320v2 by Christian Gück et.al.
+2404.10320v2 by Christian Gück,Cyriana M. A. Roelofs,Stefan Faulstich
 
 Anomaly detection plays a crucial role in the field of predictive maintenance
 for wind turbines, yet the comparison of different algorithms poses a difficult
@@ -6803,7 +6803,7 @@ detecting anomalies early.
 儘早發現異常狀況。
 
 ##### **Clustering and Data Augmentation to Improve Accuracy of Sleep Assessment and Sleep Individuality Analysis**
-2404.10299v1 by Shintaro Tamai et.al.
+2404.10299v1 by Shintaro Tamai,Masayuki Numao,Ken-ichi Fukui
 
 Recently, growing health awareness, novel methods allow individuals to
 monitor sleep at home. Utilizing sleep sounds offers advantages over
@@ -6830,7 +6830,7 @@ TimeSHAP 揭示了有影響力的聲音事件類型和時間安排的差異
 不同的個體。
 
 ##### **Emergent Language Symbolic Autoencoder (ELSA) with Weak Supervision to Model Hierarchical Brain Networks**
-2404.10031v1 by Ammar Ahmed Pallikonda Latheef et.al.
+2404.10031v1 by Ammar Ahmed Pallikonda Latheef,Alberto Santamaria-Pang,Craig K Jones,Haris I Sair
 
 Brain networks display a hierarchical organization, a complexity that poses a
 challenge for existing deep learning models, often structured as flat
@@ -6881,7 +6881,7 @@ nature of brain networks.
 大腦網路的本質。
 
 ##### **Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration**
-2404.09690v1 by Chenwei Lin et.al.
+2404.09690v1 by Chenwei Lin,Hanjia Lyu,Jiebo Luo,Xian Xu
 
 The emergence of Large Multimodal Models (LMMs) marks a significant milestone
 in the development of artificial intelligence. Insurance, as a vast and complex
@@ -6928,7 +6928,7 @@ LMM 可以應對這些挑戰。在本文中，我們探討了 GPT-4V
 未來研究工作的演變。
 
 ##### **Privacy-Preserving Intrusion Detection using Convolutional Neural Networks**
-2404.09625v1 by Martin Kodys et.al.
+2404.09625v1 by Martin Kodys,Zhongmin Dai,Vrizlynn L. L. Thing
 
 Privacy-preserving analytics is designed to protect valuable assets. A common
 service provision involves the input data from the client and the model on the
@@ -6963,7 +6963,7 @@ initially designed for medical data.
 最初是為醫療數據而設計的。
 
 ##### **Efficient and accurate neural field reconstruction using resistive memory**
-2404.09613v1 by Yifei Yu et.al.
+2404.09613v1 by Yifei Yu,Shaocong Wang,Woyu Zhang,Xinyuan Zhang,Xiuzhe Wu,Yangu He,Jichang Yang,Yue Zhang,Ning Lin,Bo Wang,Xi Chen,Songqi Wang,Xumeng Zhang,Xiaojuan Qi,Zhongrui Wang,Dashan Shang,Qi Liu,Kwang-Ting Cheng,Ming Liu
 
 Human beings construct perception of space by integrating sparse observations
 into massively interconnected synapses and neurons, offering a superior
@@ -7018,7 +7018,7 @@ CPU 和記憶體之間的關係，以及 CMOS 電路在支援方面的局限性
 未來高效、強大的醫療人工智慧和 3D 視覺應用。
 
 ##### **WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**
-2404.09533v1 by Bin Wang et.al.
+2404.09533v1 by Bin Wang,Fei Deng,Peifan Jiang,Shuang Wang,Xiao Han,Hongjie Zheng
 
 Low-dose computed tomography (LDCT) has become the technology of choice for
 diagnostic medical imaging, given its lower radiation dose compared to standard
@@ -7069,7 +7069,7 @@ Unet 架構本身，而是專注於最佳化編碼器和
 平方誤差 (RMSE)，顯著提高雜訊去除和影像品質。
 
 ##### **Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**
-2404.09326v2 by Diana-Nicoleta Grigore et.al.
+2404.09326v2 by Diana-Nicoleta Grigore,Mariana-Iuliana Georgescu,Jon Alvarez Justo,Tor Johansen,Andreea Iuliana Ionescu,Radu Tudor Ionescu
 
 Few-shot knowledge distillation recently emerged as a viable approach to
 harness the knowledge of large-scale pre-trained models, using limited data and
@@ -7108,7 +7108,7 @@ usefulness of each component of the proposed pipeline.
 擬議管道中每個組件的有用性。
 
 ##### **Characterizing Soft-Error Resiliency in Arm's Ethos-U55 Embedded Machine Learning Accelerator**
-2404.09317v1 by Abhishek Tyagi et.al.
+2404.09317v1 by Abhishek Tyagi,Reiley Jeyapaul,Chuteng Zhu,Paul Whatmough,Yuhao Zhu
 
 As Neural Processing Units (NPU) or accelerators are increasingly deployed in
 a variety of applications including safety critical applications such as
@@ -7161,7 +7161,7 @@ Ethos-U55 針對汽車安全完整性等級 D (ASIL-D) 彈性
 開銷僅38%。
 
 ##### **TLDR at SemEval-2024 Task 2: T5-generated clinical-Language summaries for DeBERTa Report Analysis**
-2404.09136v1 by Spandan Das et.al.
+2404.09136v1 by Spandan Das,Vinay Samuel,Shahriar Noroozizadeh
 
 This paper introduces novel methodologies for the Natural Language Inference
 for Clinical Trials (NLI4CT) task. We present TLDR (T5-generated
@@ -7186,7 +7186,7 @@ Macro F1 分數的改進：比截斷的前提提高了 0.184。我們的
 對語意改變輸入的預測的忠實度。
 
 ##### **Advanced Neural Network Architecture for Enhanced Multi-Lead ECG Arrhythmia Detection through Optimized Feature Extraction**
-2404.15347v1 by Bhavith Chandra Challagundla et.al.
+2404.15347v1 by Bhavith Chandra Challagundla
 
 Cardiovascular diseases are a pervasive global health concern, contributing
 significantly to morbidity and mortality rates worldwide. Among these
@@ -7235,7 +7235,7 @@ improving patient outcomes in managing cardiovascular arrhythmias.
 改善心血管心律不整的患者治療效果。
 
 ##### **Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**
-2404.09045v1 by Zita Lifelo et.al.
+2404.09045v1 by Zita Lifelo,Huansheng Ning,Sahraoui Dhelim
 
 Timely identification is essential for the efficient handling of mental
 health illnesses such as depression. However, the current research fails to
@@ -7280,7 +7280,7 @@ carefully crafted prompt templates with examples and instructions.
 精心製作的提示模板，包含範例和說明。
 
 ##### **A Fourier-enhanced multi-modal 3D small object optical mark recognition and positioning method for percutaneous abdominal puncture surgical navigation**
-2404.08990v1 by Zezhao Guo et.al.
+2404.08990v1 by Zezhao Guo,Yanzhong Guo,Zhanfang Zhao
 
 Navigation for thoracoabdominal puncture surgery is used to locate the needle
 entry point on the patient's body surface. The traditional reflective ball
@@ -7323,7 +7323,7 @@ positioning of any needle insertion point.
 任何針插入點的定位。
 
 ##### **Leveraging Large Language Model as Simulated Patients for Clinical Education**
-2404.13066v2 by Yanzeng Li et.al.
+2404.13066v2 by Yanzeng Li,Cheng Zeng,Jialun Zhong,Ruoyu Zhang,Minhao Zhang,Lei Zou
 
 Simulated Patients (SPs) play a crucial role in clinical medical education by
 providing realistic scenarios for student practice. However, the high cost of
@@ -7368,7 +7368,7 @@ LLM在臨床醫學教育中的潛力。此框架有利於
 虛擬醫生從診斷能力的角度來看。
 
 ##### **Is ChatGPT Transforming Academics' Writing Style?**
-2404.08627v1 by Mingmeng Geng et.al.
+2404.08627v1 by Mingmeng Geng,Roberto Trotta
 
 Based on one million arXiv papers submitted from May 2018 to January 2024, we
 assess the textual density of ChatGPT's writing style in their abstracts by
@@ -7395,7 +7395,7 @@ ChatGPT 滲透的正面和負面方面
 學者的寫作風格。
 
 ##### **Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**
-2404.08611v1 by Xin Tie et.al.
+2404.08611v1 by Xin Tie,Muheon Shin,Changhee Lee,Scott B. Perlman,Zachary Huemann,Amy J. Weisman,Sharon M. Castellino,Kara M. Kelly,Kathleen M. McCarten,Adina L. Alazraki,Junjie Hu,Steve Y. Cho,Tyler J. Bradshaw
 
 $\textbf{Purpose}$: Automatic quantification of longitudinal changes in PET
 scans for lymphoma patients has proven challenging, as residual disease in
@@ -7452,7 +7452,7 @@ PET2 殘留淋巴瘤，F1 評分為 0.606（精確度/召回率：
 成像資料集。
 
 ##### **RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**
-2404.08555v2 by Shreyas Chaudhari et.al.
+2404.08555v2 by Shreyas Chaudhari,Pranjal Aggarwal,Vishvak Murahari,Tanmay Rajpurohit,Ashwin Kalyan,Karthik Narasimhan,Ameet Deshpande,Bruno Castro da Silva
 
 State-of-the-art large language models (LLMs) have become indispensable tools
 for various tasks. However, training LLMs to serve as effective assistants for
@@ -7501,7 +7501,7 @@ upon existing efforts.
 依靠現有的努力。
 
 ##### **An improved tabular data generator with VAE-GMM integration**
-2404.08434v1 by Patricia A. Apellániz et.al.
+2404.08434v1 by Patricia A. Apellániz,Juan Parras,Santiago Zazo
 
 The rising use of machine learning in various fields requires robust methods
 to create synthetic tabular data. Data should preserve key characteristics
@@ -7546,7 +7546,7 @@ particularly in healthcare.
 特別是在醫療保健領域。
 
 ##### **Improving Health Question Answering with Reliable and Time-Aware Evidence Retrieval**
-2404.08359v1 by Juraj Vladika et.al.
+2404.08359v1 by Juraj Vladika,Florian Matthes
 
 In today's digital world, seeking answers to health questions on the Internet
 is a common practice. However, existing question answering (QA) systems often
@@ -7583,7 +7583,7 @@ QA 設置，其中的關鍵挑戰是首先發現相關證據
 解釋。
 
 ##### **Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification**
-2404.07754v1 by Tuong Vy Nguyen et.al.
+2404.07754v1 by Tuong Vy Nguyen,Alexander Glaser,Felix Biessmann
 
 Novel deep-learning (DL) architectures have reached a level where they can
 generate digital media, including photorealistic images, that are difficult to
@@ -7622,7 +7622,7 @@ DALL-E 2、Imagen 和 Stable Diffusion 等文字到圖像模型正在實現
 確認。
 
 ##### **Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain**
-2404.07613v1 by Iker García-Ferrero et.al.
+2404.07613v1 by Iker García-Ferrero,Rodrigo Agerri,Aitziber Atutxa Salazar,Elena Cabrio,Iker de la Iglesia,Alberto Lavelli,Bernardo Magnini,Benjamin Molinet,Johana Ramirez-Romero,German Rigau,Jose Maria Villa-Gonzalez,Serena Villata,Andrea Zaninello
 
 Research on language technology for the development of medical applications
 is currently a hot topic in Natural Language Understanding and Generation.
@@ -7665,7 +7665,7 @@ current state-of-the-art LLMs in English.
 目前最先進的英語LLM。
 
 ##### **Contrastive-Based Deep Embeddings for Label Noise-Resilient Histopathology Image Classification**
-2404.07605v1 by Lucas Dedieu et.al.
+2404.07605v1 by Lucas Dedieu,Nicolas Nerrienet,Adrien Nivaggioli,Clara Simmat,Marceau Clavel,Arnaud Gauthier,Stéphane Sockeel,Rémy Peyret
 
 Recent advancements in deep learning have proven highly effective in medical
 image classification, notably within histopathology. However, noisy labels
@@ -7702,7 +7702,7 @@ https://github.com/LucasDedieu/NoiseResilientHistopathology.
 https://github.com/LucasDedieu/NoiseResilientHistopathology。
 
 ##### **Socially Pertinent Robots in Gerontological Healthcare**
-2404.07560v1 by Xavier Alameda-Pineda et.al.
+2404.07560v1 by Xavier Alameda-Pineda,Angus Addlesee,Daniel Hernández García,Chris Reinke,Soraya Arias,Federica Arrigoni,Alex Auternaud,Lauriane Blavette,Cigdem Beyan,Luis Gomez Camara,Ohad Cohen,Alessandro Conti,Sébastien Dacunha,Christian Dondrup,Yoav Ellinson,Francesco Ferro,Sharon Gannot,Florian Gras,Nancie Gunson,Radu Horaud,Moreno D'Incà,Imad Kimouche,Séverin Lemaignan,Oliver Lemon,Cyril Liotard,Luca Marchionni,Mordehay Moradi,Tomas Pajdla,Maribel Pino,Michal Polic,Matthieu Py,Ariel Rado,Bin Ren,Elisa Ricci,Anne-Sophie Rigaud,Paolo Rota,Marta Romeo,Nicu Sebe,Weronika Sieińska,Pinchas Tandeitnik,Francesco Tonini,Nicolas Turro,Timothée Wintz,Yanchao Yu
 
 Despite the many recent achievements in developing and deploying social
 robotics, there are still many underexplored environments and applications for
@@ -7739,7 +7739,7 @@ interactions.
 互動。
 
 ##### **Introducing L2M3, A Multilingual Medical Large Language Model to Advance Health Equity in Low-Resource Regions**
-2404.08705v1 by Agasthya Gangavarapu et.al.
+2404.08705v1 by Agasthya Gangavarapu
 
 Addressing the imminent shortfall of 10 million health workers by 2030,
 predominantly in Low- and Middle-Income Countries (LMICs), this paper
@@ -7782,7 +7782,7 @@ in LMICs.
 在中低收入國家。
 
 ##### **Measuring proximity to standard planes during fetal brain ultrasound scanning**
-2404.07124v1 by Chiara Di Vece et.al.
+2404.07124v1 by Chiara Di Vece,Antonio Cirigliano,Meala Le Lous,Raffaele Napolitano,Anna L. David,Donald Peebles,Pierre Jannin,Francisco Vasconcelos,Danail Stoyanov
 
 This paper introduces a novel pipeline designed to bring ultrasound (US)
 plane pose estimation closer to clinical use for more effective navigation to
@@ -7825,7 +7825,7 @@ diagnostic practices.
 診斷實踐。
 
 ##### **Advancing Real-time Pandemic Forecasting Using Large Language Models: A COVID-19 Case Study**
-2404.06962v1 by Hongru Du et.al.
+2404.06962v1 by Hongru Du,Jianan Zhao,Yang Zhao,Shaochong Xu,Xihong Lin,Yiran Chen,Lauren M. Gardner,Hao Frank Yang
 
 Forecasting the short-term spread of an ongoing disease outbreak is a
 formidable challenge due to the complexity of contributing factors, some of
@@ -7880,7 +7880,7 @@ PandemicLLM 被證明是一個高效能的流行病預測框架
 以及未來的危機管理。
 
 ##### **SleepPPG-Net2: Deep learning generalization for sleep staging from photoplethysmography**
-2404.06869v1 by Shirel Attia et.al.
+2404.06869v1 by Shirel Attia,Revital Shani Hershkovich,Alissa Tabakhov,Angeleene Ang,Sharon Haimov,Riva Tauman,Joachim A. Behar
 
 Background: Sleep staging is a fundamental component in the diagnosis of
 sleep disorders and the management of sleep health. Traditionally, this
@@ -7919,7 +7919,7 @@ sets a new standard for staging sleep from raw PPG time-series.
 為根據原始 PPG 時間序列劃分睡眠設定了新標準。
 
 ##### **Multi-Label Continual Learning for the Medical Domain: A Novel Benchmark**
-2404.06859v2 by Marina Ceccon et.al.
+2404.06859v2 by Marina Ceccon,Davide Dalle Pezze,Alessandro Fabris,Gian Antonio Susto
 
 Multi-label image classification in dynamic environments is a problem that
 poses significant challenges. Previous studies have primarily focused on
@@ -7964,7 +7964,7 @@ minimal forgetting.
 最小的遺忘。
 
 ##### **Accuracy of a Large Language Model in Distinguishing Anti- And Pro-vaccination Messages on Social Media: The Case of Human Papillomavirus Vaccination**
-2404.06731v1 by Soojong Kim et.al.
+2404.06731v1 by Soojong Kim,Kwanho Kim,Claire Wonjeong Jo
 
 Objective. Vaccination has engendered a spectrum of public opinions, with
 social media acting as a crucial platform for health-related discussions. The
@@ -8015,7 +8015,7 @@ language model within specific public health contexts remains imperative.
 特定公共衛生背景下的語言模式仍勢在必行。
 
 ##### **Federated learning model for predicting major postoperative complications**
-2404.06641v1 by Yonggi Park et.al.
+2404.06641v1 by Yonggi Park,Yuanfang Ren,Benjamin Shickel,Ziyuan Guan,Ayush Patela,Yingbo Ma,Zhenhong Hu,Tyler J. Loftus,Parisa Rashidi,Tezcan Ozrazgat-Baslanti,Azra Bihorac
 
 Background: The accurate prediction of postoperative complication risk using
 Electronic Health Records (EHR) and artificial intelligence shows great
@@ -8070,7 +8070,7 @@ UFH JAX 中心較低。此外，我們的聯邦學習模式也獲得了
 資料保護壁壘較高的多個機構的資料。
 
 ##### **Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**
-2404.06362v1 by Sidra Aleem et.al.
+2404.06362v1 by Sidra Aleem,Fangyijie Wang,Mayug Maniparambil,Eric Arazo,Julia Dietlmeier,Kathleen Curran,Noel E. O'Connor,Suzanne Little
 
 The Segment Anything Model (SAM) and CLIP are remarkable vision foundation
 models (VFMs). SAM, a prompt driven segmentation model, excels in segmentation
@@ -8115,7 +8115,7 @@ prompts will be available online.
 提示將在線提供。
 
 ##### **Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**
-2404.07239v1 by Milad Yousefi et.al.
+2404.07239v1 by Milad Yousefi,Shadi Farabi Maleki,Ali Jafarizadeh,Mahya Ahmadpour Youshanlui,Aida Jafari,Siamak Pedrammehr,Roohallah Alizadehsani,Ryszard Tadeusiewicz,Pawel Plawiak
 
 Thyroid cancer is an increasing global health concern that requires advanced
 diagnostic methods. The application of AI and radiomics to thyroid cancer
@@ -8168,7 +8168,7 @@ diagnostic precision in the treatment of thyroid cancer.
 甲狀腺癌治療中的診斷精確度。
 
 ##### **EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation**
-2404.06181v1 by Yuanpeng He et.al.
+2404.06181v1 by Yuanpeng He
 
 Although current semi-supervised medical segmentation methods can achieve
 decent performance, they are still affected by the uncertainty in unlabeled
@@ -8203,7 +8203,7 @@ demonstrates the effectiveness of our strategy.
 證明了我們策略的有效性。
 
 ##### **Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation**
-2404.06177v2 by Yuanpeng He et.al.
+2404.06177v2 by Yuanpeng He,Lijian Li
 
 Although the existing uncertainty-based semi-supervised medical segmentation
 methods have achieved excellent performance, they usually only consider a
@@ -8240,7 +8240,7 @@ LA、Pancreas-CT、ACDC 和 TBAD 資料集上的實驗結果表明
 藝術的狀態。
 
 ##### **Tackling Structural Hallucination in Image Translation with Local Diffusion**
-2404.05980v3 by Seunghoi Kim et.al.
+2404.05980v3 by Seunghoi Kim,Chen Jin,Tom Diethe,Matteo Figini,Henry F. J. Tregidgo,Asher Mullokandov,Philip Teare,Daniel C. Alexander
 
 Recent developments in diffusion models have advanced conditioned image
 generation, yet they struggle with reconstructing out-of-distribution (OOD)
@@ -8381,7 +8381,7 @@ pre-trained diffusion models.
 
 #### Abstracts
 ##### **Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**
-2404.16957v1 by Yunfei Ge et.al.
+2404.16957v1 by Yunfei Ge,Quanyan Zhu
 
 The pervasive integration of Artificial Intelligence (AI) has introduced
 complex challenges in the responsibility and accountability in the event of
@@ -8424,7 +8424,7 @@ reflection.
 反射。
 
 ##### **Explainable AI for Fair Sepsis Mortality Predictive Model**
-2404.13139v1 by Chia-Hsuan Chang et.al.
+2404.13139v1 by Chia-Hsuan Chang,Xiaoyang Wang,Christopher C. Yang
 
 Artificial intelligence supports healthcare professionals with predictive
 modeling, greatly transforming clinical decision-making. This study addresses
@@ -8465,7 +8465,7 @@ delivery.
 送貨。
 
 ##### **Multi Class Depression Detection Through Tweets using Artificial Intelligence**
-2404.13104v1 by Muhammad Osama Nusrat et.al.
+2404.13104v1 by Muhammad Osama Nusrat,Waseem Shahzad,Saad Ahmed Jamal
 
 Depression is a significant issue nowadays. As per the World Health
 Organization (WHO), in 2023, over 280 million individuals are grappling with
@@ -8508,7 +8508,7 @@ Transformers (BERT) 用於特徵提取和訓練。機器
 0.96。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
-2404.12832v1 by Dmytro Shvetsov et.al.
+2404.12832v1 by Dmytro Shvetsov,Joonas Ariva,Marharyta Domnich,Raul Vicente,Dmytro Fishman
 
 Deep learning is dramatically transforming the field of medical imaging and
 radiology, enabling the identification of pathologies in medical images,
@@ -8563,7 +8563,7 @@ CT 影像中的腫瘤，並在深度學習方面向前邁進了一步
 是稀缺的。
 
 ##### **Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**
-2404.07239v1 by Milad Yousefi et.al.
+2404.07239v1 by Milad Yousefi,Shadi Farabi Maleki,Ali Jafarizadeh,Mahya Ahmadpour Youshanlui,Aida Jafari,Siamak Pedrammehr,Roohallah Alizadehsani,Ryszard Tadeusiewicz,Pawel Plawiak
 
 Thyroid cancer is an increasing global health concern that requires advanced
 diagnostic methods. The application of AI and radiomics to thyroid cancer
@@ -8616,7 +8616,7 @@ diagnostic precision in the treatment of thyroid cancer.
 甲狀腺癌治療中的診斷精確度。
 
 ##### **Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**
-2404.04686v1 by Taminul Islam et.al.
+2404.04686v1 by Taminul Islam,Md. Alif Sheakh,Mst. Sazia Tahosin,Most. Hasna Hena,Shopnil Akash,Yousef A. Bin Jardan,Gezahign Fentahun Wondmie,Hiba-Allah Nafidi,Mohammed Bourhia
 
 Breast cancer has rapidly increased in prevalence in recent years, making it
 one of the leading causes of mortality worldwide. Among all cancers, it is by
@@ -8661,7 +8661,7 @@ bayes 和 XGBoost 已用於在我們的資料集上獲得最佳結果。
 準確率達 97%。
 
 ##### **Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**
-2404.03892v2 by Maryam Ahmed et.al.
+2404.03892v2 by Maryam Ahmed,Tooba Bibi,Rizwan Ahmed Khan,Sidra Nasir
 
 The study introduces an integrated framework combining Convolutional Neural
 Networks (CNNs) and Explainable Artificial Intelligence (XAI) for the enhanced
@@ -8716,7 +8716,7 @@ ResNet50架構，我們的調查不僅提供了有效的
 人工智慧解釋以滿足臨床實踐的需求。
 
 ##### **Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**
-2403.17873v1 by Andrea Ferrario et.al.
+2403.17873v1 by Andrea Ferrario,Alberto Termine,Alessandro Facchini
 
 Human-centered explainable AI (HCXAI) advocates for the integration of social
 aspects into AI explanations. Central to the HCXAI discourse is the Social
@@ -8751,7 +8751,7 @@ development and use of LLM-based technology.
 基於LLM的技術的開發和使用。
 
 ##### **Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**
-2403.18871v1 by Han Yuan et.al.
+2403.18871v1 by Han Yuan,Chuan Hong,Pengtao Jiang,Gangming Zhao,Nguyen Tuan Anh Tran,Xinxing Xu,Yet Yen Yan,Nan Liu
 
 Background: Pneumothorax is an acute thoracic disease caused by abnormal air
 collection between the lungs and chest wall. To address the opaqueness often
@@ -8804,7 +8804,7 @@ DL 模型所做的診斷。然而，這些解釋有時與
 透過整合臨床領域專業知識來闡明人工智慧模型的方法。
 
 ##### **Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**
-2403.01580v1 by Séamus Lankford et.al.
+2403.01580v1 by Séamus Lankford
 
 In the current machine translation (MT) landscape, the Transformer
 architecture stands out as the gold standard, especially for high-resource
@@ -8863,7 +8863,7 @@ Shared Task.
 共享任務。
 
 ##### **Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**
-2402.18600v1 by Yasin Sadeghi Bazargani et.al.
+2402.18600v1 by Yasin Sadeghi Bazargani,Majid Mirzaei,Navid Sobhi,Mirsaeed Abdollahi,Ali Jafarizadeh,Siamak Pedrammehr,Roohallah Alizadehsani,Ru San Tan,Sheikh Mohammed Shariful Islam,U. Rajendra Acharya
 
 Diabetes mellitus (DM) predisposes patients to vascular complications.
 Retinal images and vasculature reflect the body's micro- and macrovascular
@@ -8904,7 +8904,7 @@ central tool for modern personalized medicine in patients with DM.
 糖尿病患者現代個人化醫療的核心工具。
 
 ##### **Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**
-2402.15027v2 by A. J. Karran et.al.
+2402.15027v2 by A. J. Karran,P. Charland,J-T. Martineau,A. Ortiz de Guinea Lopez de Arana,AM. Lesage,S. Senecal,P-M. Leger
 
 This study investigates the acceptability of different artificial
 intelligence (AI) applications in education from a multi-stakeholder
@@ -8951,7 +8951,7 @@ characteristics, in addition to the diverse stakeholders' perceptions.
 特徵，以及不同利害關係人的看法。
 
 ##### **Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**
-2402.09474v1 by Aruna Mohan et.al.
+2402.09474v1 by Aruna Mohan,Danne Elbers,Or Zilbershot,Fatemeh Afghah,David Vorchheimer
 
 Remote patient monitoring based on wearable single-lead electrocardiogram
 (ECG) devices has significant potential for enabling the early detection of
@@ -8996,7 +8996,7 @@ P 波和 T 波以及心跳持續時間和訊號的重要性
 竇性心搏過緩。
 
 ##### **Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**
-2402.05127v1 by Aryan Agrawal et.al.
+2402.05127v1 by Aryan Agrawal
 
 This paper introduces a novel paradigm for depression detection and treatment
 using advanced Large Language Models (LLMs): Generative Pre-trained Transformer
@@ -9037,7 +9037,7 @@ diagnosis and treatment strategies.
 診斷和治療策略。
 
 ##### **Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**
-2401.13324v4 by Timothée Schmude et.al.
+2401.13324v4 by Timothée Schmude,Laura Koesten,Torsten Möller,Sebastian Tschiatschek
 
 Explanations of AI systems rarely address the information needs of people
 affected by algorithmic decision-making (ADM). This gap between conveyed
@@ -9086,7 +9086,7 @@ design of future explanations for affected stakeholder audiences.
 為受影響的利害關係人受眾設計未來的解釋。
 
 ##### **Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**
-2401.02985v1 by Vahid Ashrafimoghari et.al.
+2401.02985v1 by Vahid Ashrafimoghari,Necdet Gürkan,Jordan W. Suchow
 
 The rapid evolution of artificial intelligence (AI), especially in the domain
 of Large Language Models (LLMs) and generative AI, has opened new avenues for
@@ -9139,7 +9139,7 @@ GPT-4 Turbo、Claude 2.1 和 Gemini 1.0 Pro 在以下方面表現出顯著改進
 教育經驗並改進考試準備和評估方法。
 
 ##### **XAI for In-hospital Mortality Prediction via Multimodal ICU Data**
-2312.17624v1 by Xingqiao Li et.al.
+2312.17624v1 by Xingqiao Li,Jindong Gu,Zhiyong Wang,Yancheng Yuan,Bo Du,Fengxiang He
 
 Predicting in-hospital mortality for intensive care unit (ICU) patients is
 key to final clinical outcomes. AI has shown advantaged accuracy but suffers
@@ -9180,7 +9180,7 @@ MIMIC-III 波形資料庫匹配子集。綜合實驗
 促進醫療保健研究中關鍵因素的發現。
 
 ##### **Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**
-2401.09450v2 by Norman Zerbe et.al.
+2401.09450v2 by Norman Zerbe,Lars Ole Schwen,Christian Geißler,Katja Wiesemann,Tom Bisson,Peter Boor,Rita Carvalho,Michael Franz,Christoph Jansen,Tim-Rasmus Kiehl,Björn Lindequist,Nora Charlotte Pohlan,Sarah Schmell,Klaus Strohmenger,Falk Zakrzewski,Markus Plass,Michael Takla,Tobias Küster,André Homeyer,Peter Hufnagl
 
 Over the past decade, artificial intelligence (AI) methods in pathology have
 advanced substantially. However, integration into routine clinical practice has
@@ -9233,7 +9233,7 @@ implementation and advocacy for an AI-assisted digital pathology future.
 實施和倡導人工智慧輔助的數位病理學未來。
 
 ##### **Robust Stochastic Graph Generator for Counterfactual Explanations**
-2312.11747v2 by Mario Alfonso Prado-Romero et.al.
+2312.11747v2 by Mario Alfonso Prado-Romero,Bardh Prenkaj,Giovanni Stilo
 
 Counterfactual Explanation (CE) techniques have garnered attention as a means
 to provide insights to the users engaging with AI systems. While extensively
@@ -9274,7 +9274,7 @@ RSGG-CE，一種新穎的反事實穩健隨機圖產生器
 產生合理的反事實候選人的能力。
 
 ##### **Evaluating the Utility of Model Explanations for Model Development**
-2312.06032v1 by Shawn Im et.al.
+2312.06032v1 by Shawn Im,Jacob Andreas,Yilun Zhou
 
 One of the motivations for explainable AI is to allow humans to make better
 and more informed decisions regarding the use and deployment of AI models. But
@@ -9315,7 +9315,7 @@ GradCAM，以及關於兩個任務的 oracle 解釋：模型選擇和
 解釋。
 
 ##### **Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**
-2312.06798v1 by Manas Gaur et.al.
+2312.06798v1 by Manas Gaur,Amit Sheth
 
 Explainability and Safety engender Trust. These require a model to exhibit
 consistency and reliability. To achieve these, it is necessary to use and
@@ -9360,7 +9360,7 @@ NeuroSymbolic 框架內的知識揭示了挑戰
 與LLM相關。
 
 ##### **Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**
-2311.17133v1 by Jacob R. Epifano et.al.
+2311.17133v1 by Jacob R. Epifano,Stephen Glass,Ravi P. Ramachandran,Sharad Patel,Aaron J. Masino,Ghulam Rasool
 
 This study investigated the performance, explainability, and robustness of
 deployed artificial intelligence (AI) models in predicting mortality during the
@@ -9401,7 +9401,7 @@ COVID-19 大流行及其他。這是此類研究中的第一項研究，我們�
 和患者的結果。
 
 ##### **Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**
-2311.15719v1 by Benjamin Keel et.al.
+2311.15719v1 by Benjamin Keel,Aaron Quyn,David Jayne,Samuel D. Relton
 
 Lung cancer is responsible for 21% of cancer deaths in the UK and five-year
 survival rates are heavily influenced by the stage the cancer was identified
@@ -9446,7 +9446,7 @@ VAE 潛在空間將惡性和良性病變的資料集分開
 功能變化。
 
 ##### **MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**
-2311.14471v1 by Nathan Blake et.al.
+2311.14471v1 by Nathan Blake,Hana Chockler,David A. Kelly,Santiago Calderon Pena,Akchunya Chanchal
 
 Existing tools for explaining the output of image classifiers can be divided
 into white-box, which rely on access to the model internals, and black-box,
@@ -9477,7 +9477,7 @@ causal explainability-based rex, performs as well as \gradcam.
 基於因果可解釋性的 rex，表現與 \gradcam 一樣好。
 
 ##### **Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**
-2311.12573v2 by Robert Gorwa et.al.
+2311.12573v2 by Robert Gorwa,Michael Veale
 
 The AI development community is increasingly making use of hosting
 intermediaries such as Hugging Face provide easy access to user-uploaded models
@@ -9512,7 +9512,7 @@ GitHub 和 Civita－研究模式市場如何調節模型。
 充當謹慎、公平和相稱的監管接入點。
 
 ##### **Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**
-2311.11932v1 by Muta Tah Hira et.al.
+2311.11932v1 by Muta Tah Hira,Mohammad A. Razzaque,Mosharraf Sarker
 
 Background and objectives: By extracting this information, Machine or Deep
 Learning (ML/DL)-based autonomous data analysis tools can assist clinicians and
@@ -9567,7 +9567,7 @@ The inclusion of AIA in cancer data analysis is in a very early stage; only
 2.1% (2/96) 透過可解釋性明確解決了 AIA。
 
 ##### **Representing visual classification as a linear combination of words**
-2311.10933v1 by Shobhit Agarwal et.al.
+2311.10933v1 by Shobhit Agarwal,Yevgeniy R. Semenov,William Lotter
 
 Explainability is a longstanding challenge in deep learning, especially in
 high-stakes domains like healthcare. Common explainability methods highlight
@@ -9618,7 +9618,7 @@ intuitive, language-based explanations of visual tasks.
 對視覺任務的直觀的、基於語言的解釋。
 
 ##### **Towards objective and systematic evaluation of bias in medical imaging AI**
-2311.02115v1 by Emma A. M. Stanley et.al.
+2311.02115v1 by Emma A. M. Stanley,Raissa Souza,Anthony Winder,Vedant Gulve,Kimberly Amador,Matthias Wilms,Nils D. Forkert
 
 Artificial intelligence (AI) models trained using medical images for clinical
 tasks often exhibit bias in the form of disparities in performance between
@@ -9671,7 +9671,7 @@ CNN 在合成資料集上進行了訓練。此外，也確定了重新稱重
 強大且負責任的臨床人工智慧。
 
 ##### **Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**
-2310.19174v1 by Adam White et.al.
+2310.19174v1 by Adam White,Margarita Saranti,Artur d'Avila Garcez,Thomas M. H. Hope,Cathy J. Price,Howard Bowman
 
 Machine learning offers great potential for automated prediction of
 post-stroke symptoms and their response to rehabilitation. Major challenges for
@@ -9728,7 +9728,7 @@ MRI 和表格資料的表示，以預測複合測量是否
 掃描器。
 
 ##### **Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**
-2310.01828v2 by Hossein Shreim et.al.
+2310.01828v2 by Hossein Shreim,Abdul Karim Gizzini,Ali J. Ghandour
 
 eXplainable Artificial Intelligence (XAI) has emerged as an essential
 requirement when dealing with mission-critical applications, ensuring
@@ -9779,7 +9779,7 @@ Seg-Grad-CAM++ 和 Seg-Sobol 使用所提出的基於噪音的評估
 使用高解析度衛星圖像。
 
 ##### **Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**
-2311.01463v1 by Muhammad Aurangzeb Ahmad et.al.
+2311.01463v1 by Muhammad Aurangzeb Ahmad,Ilker Yaramis,Taposh Dutta Roy
 
 Large language models have proliferated across multiple domains in as short
 period of time. There is however hesitation in the medical and healthcare
@@ -9808,7 +9808,7 @@ of LLMs in healthcare may look like.
 醫療保健領域的LLM可能看起來像。
 
 ##### **When to Trust AI: Advances and Challenges for Certification of Neural Networks**
-2309.11196v1 by Marta Kwiatkowska et.al.
+2309.11196v1 by Marta Kwiatkowska,Xiyue Zhang
 
 Artificial intelligence (AI) has been advancing at a fast pace and it is now
 poised for deployment in a wide range of applications, such as autonomous
@@ -9833,7 +9833,7 @@ developed to ensure safety of AI decisions and discusses future challenges.
 旨在確保人工智慧決策的安全性並討論未來的挑戰。
 
 ##### **Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**
-2309.10424v1 by Juan M. García-Gómez et.al.
+2309.10424v1 by Juan M. García-Gómez,Vicent Blanes-Selva,José Carlos de Bartolomé Cenzano,Jaime Cebolla-Cornejo,Ascensión Doñate-Martínez
 
 The Directorate General for Parliamentary Research Services of the European
 Parliament has prepared a report to the Members of the European Parliament
@@ -9872,7 +9872,7 @@ to benefit patients in compliance with the future EU regulatory framework.
 根據未來的歐盟監管框架使患者受益。
 
 ##### **QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**
-2309.10293v3 by Thanveer Shaik et.al.
+2309.10293v3 by Thanveer Shaik,Xiaohui Tao,Haoran Xie,Lin Li,Juan D. Velasquez,Niall Higgins
 
 Artificial Intelligence techniques can be used to classify a patient's
 physical activities and predict vital signs for remote patient monitoring.
@@ -9927,7 +9927,7 @@ Shapley 值所需的複雜性和高運算能力需求
 計算。
 
 ##### **Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**
-2309.09917v1 by Adarsa Sivaprasad et.al.
+2309.09917v1 by Adarsa Sivaprasad,Ehud Reiter,Nava Tintarev,Nir Oren
 
 In explainable artificial intelligence (XAI) research, the predominant focus
 has been on interpreting models for experts and practitioners. Model agnostic
@@ -9966,7 +9966,7 @@ health informatics systems that are both trustworthy and actionable.
 既值得信賴又可操作的健康資訊系統。
 
 ##### **An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**
-2309.00903v2 by Michail Mamalakis et.al.
+2309.00903v2 by Michail Mamalakis,Heloise de Vareilles,Atheer AI-Manea,Samantha C. Mitchell,Ingrid Arartz,Lynn Egeland Morch-Johnsen,Jane Garrison,Jon Simons,Pietro Lio,John Suckling,Graham Murray
 
 Explainable AI is crucial in medical imaging. In the challenging field of
 neuroscience, visual topics present a high level of complexity, particularly
@@ -10021,7 +10021,7 @@ TOP-OSLO資料集，顯著提高齦溝偵測精度，
 增進我們對大腦解剖結構和功能的理解。
 
 ##### **Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**
-2308.14321v1 by Yanjun Gao et.al.
+2308.14321v1 by Yanjun Gao,Ruizhe Li,John Caskey,Dmitriy Dligach,Timothy Miller,Matthew M. Churpek,Majid Afshar
 
 Electronic Health Records (EHRs) and routine documentation practices play a
 vital role in patients' daily care, providing a holistic record of health,
@@ -10066,7 +10066,7 @@ of AI-augmented diagnostic decision support systems.
 人工智慧增強診斷決策支援系統。
 
 ##### **Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**
-2308.09380v1 by Yun Xin Teoh et.al.
+2308.09380v1 by Yun Xin Teoh,Alice Othmani,Siew Li Goh,Juliana Usman,Khin Wee Lai
 
 Existing artificial intelligence (AI) models for diagnosing knee
 osteoarthritis (OA) have faced criticism for their lack of transparency and
@@ -10095,7 +10095,7 @@ diagnosis approach and encourage its adoption in clinical practice.
 診斷方法並鼓勵其在臨床實踐中採用。
 
 ##### **Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**
-2308.08407v1 by Munib Mesinovic et.al.
+2308.08407v1 by Munib Mesinovic,Peter Watkinson,Tingting Zhu
 
 Recent advancements in AI applications to healthcare have shown incredible
 promise in surpassing human performance in diagnosis and disease prognosis.
@@ -10148,7 +10148,7 @@ essential for success.
 成功的關鍵。
 
 ##### **FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**
-2309.12325v1 by Karim Lekadir et.al.
+2309.12325v1 by Karim Lekadir,Aasa Feragen,Abdul Joseph Fofanah,Alejandro F Frangi,Alena Buyx,Anais Emelie,Andrea Lara,Antonio R Porras,An-Wen Chan,Arcadi Navarro,Ben Glocker,Benard O Botwe,Bishesh Khanal,Brigit Beger,Carol C Wu,Celia Cintas,Curtis P Langlotz,Daniel Rueckert,Deogratias Mzurikwao,Dimitrios I Fotiadis,Doszhan Zhussupov,Enzo Ferrante,Erik Meijering,Eva Weicken,Fabio A González,Folkert W Asselbergs,Fred Prior,Gabriel P Krestin,Gary Collins,Geletaw S Tegenaw,Georgios Kaissis,Gianluca Misuraca,Gianna Tsakou,Girish Dwivedi,Haridimos Kondylakis,Harsha Jayakody,Henry C Woodruf,Hugo JWL Aerts,Ian Walsh,Ioanna Chouvarda,Irène Buvat,Islem Rekik,James Duncan,Jayashree Kalpathy-Cramer,Jihad Zahir,Jinah Park,John Mongan,Judy W Gichoya,Julia A Schnabel,Kaisar Kushibar,Katrine Riklund,Kensaku Mori,Kostas Marias,Lameck M Amugongo,Lauren A Fromont,Lena Maier-Hein,Leonor Cerdá Alberich,Leticia Rittner,Lighton Phiri,Linda Marrakchi-Kacem,Lluís Donoso-Bach,Luis Martí-Bonmatí,M Jorge Cardoso,Maciej Bobowicz,Mahsa Shabani,Manolis Tsiknakis,Maria A Zuluaga,Maria Bielikova,Marie-Christine Fritzsche,Marius George Linguraru,Markus Wenzel,Marleen De Bruijne,Martin G Tolsgaard,Marzyeh Ghassemi,Md Ashrafuzzaman,Melanie Goisauf,Mohammad Yaqub,Mohammed Ammar,Mónica Cano Abadía,Mukhtar M E Mahmoud,Mustafa Elattar,Nicola Rieke,Nikolaos Papanikolaou,Noussair Lazrak,Oliver Díaz,Olivier Salvado,Oriol Pujol,Ousmane Sall,Pamela Guevara,Peter Gordebeke,Philippe Lambin,Pieta Brown,Purang Abolmaesumi,Qi Dou,Qinghua Lu,Richard Osuala,Rose Nakasi,S Kevin Zhou,Sandy Napel,Sara Colantonio,Shadi Albarqouni,Smriti Joshi,Stacy Carter,Stefan Klein,Steffen E Petersen,Susanna Aussó,Suyash Awate,Tammy Riklin Raviv,Tessa Cook,Tinashe E M Mutsvangwa,Wendy A Rogers,Wiro J Niessen,Xènia Puig-Bosch,Yi Zeng,Yunusa G Mohammed,Yves Saint James Aquino,Zohaib Salahuddin,Martijn P A Starmans
 
 Despite major advances in artificial intelligence (AI) for medicine and
 healthcare, the deployment and adoption of AI technologies remain limited in
@@ -10203,7 +10203,7 @@ to facilitate future translation towards clinical practice of medical AI.
 促進未來向醫療人工智慧臨床實踐的轉化。
 
 ##### **Explainable AI applications in the Medical Domain: a systematic review**
-2308.05411v1 by Nicoletta Prentzas et.al.
+2308.05411v1 by Nicoletta Prentzas,Antonis Kakas,Constantinos S. Pattichis
 
 Artificial Intelligence in Medicine has made significant progress with
 emerging applications in medical imaging, patient care, and other areas. While
@@ -10244,7 +10244,7 @@ design, implementation, and evaluation of XAI solutions in medicine.
 醫學 XAI 解決方案的設計、實施和評估。
 
 ##### **Exploring the Role of Explainability in AI-Assisted Embryo Selection**
-2308.02534v1 by Lucia Urcelay et.al.
+2308.02534v1 by Lucia Urcelay,Daniel Hinjos,Pablo A. Martin-Torres,Marta Gonzalez,Marta Mendez,Salva Cívico,Sergio Álvarez-Napagao,Dario Garcia-Gasulla
 
 In Vitro Fertilization is among the most widespread treatments for
 infertility. One of its main challenges is the evaluation and selection of
@@ -10273,7 +10273,7 @@ forward towards established clinical practice.
 朝著既定的臨床實踐邁進。
 
 ##### **A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**
-2307.14246v1 by Timo Speith et.al.
+2307.14246v1 by Timo Speith,Markus Langer
 
 Within the field of Requirements Engineering (RE), the increasing
 significance of Explainable Artificial Intelligence (XAI) in aligning
@@ -10306,7 +10306,7 @@ work aims to advance the field of RE for AI.
 工作旨在推進人工智慧的可再生能源領域。
 
 ##### **Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**
-2307.14239v1 by Barnaby Crook et.al.
+2307.14239v1 by Barnaby Crook,Maximilian Schlüter,Timo Speith
 
 Within the field of Requirements Engineering (RE), the increasing
 significance of Explainable Artificial Intelligence (XAI) in aligning
@@ -10339,7 +10339,7 @@ work aims to advance the field of RE for AI.
 工作旨在推進人工智慧的可再生能源領域。
 
 ##### **Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**
-2308.02047v1 by Henry Fraser et.al.
+2308.02047v1 by Henry Fraser,Jose-Miguel Bello y Villarino
 
 This paper critically evaluates the European Commission's proposed AI Act's
 approach to risk management and risk acceptability for high-risk AI systems
@@ -10380,7 +10380,7 @@ regulators, and meaningful input from affected stakeholders.
 監管機構以及受影響利益相關者的有意義的意見。
 
 ##### **eXplainable Artificial Intelligence (XAI) in aging clock models**
-2307.13704v3 by Alena Kalyakulina et.al.
+2307.13704v3 by Alena Kalyakulina,Igor Yusipov,Alexey Moskalev,Claudio Franceschi,Mikhail Ivanchenko
 
 eXplainable Artificial Intelligence (XAI) is a rapidly progressing field of
 machine learning, aiming to unravel the predictions of complex models. XAI is
@@ -10407,7 +10407,7 @@ XAI 的潛力有待充分發揮。我們討論的是
 生理系統。
 
 ##### **Interpreting and Correcting Medical Image Classification with PIP-Net**
-2307.10404v2 by Meike Nauta et.al.
+2307.10404v2 by Meike Nauta,Johannes H. Hegeman,Jeroen Geerdink,Jörg Schlötterer,Maurice van Keulen,Christin Seifert
 
 Part-prototype models are explainable-by-design image classifiers, and a
 promising alternative to black box AI. This paper explores the applicability
@@ -10440,7 +10440,7 @@ X 光中不需要的文字或標籤錯誤可以輕鬆識別。
 可解釋性和高級模型調試的潛力。
 
 ##### **Explaining and visualizing black-box models through counterfactual paths**
-2307.07764v3 by Bastian Pfeifer et.al.
+2307.07764v3 by Bastian Pfeifer,Mateusz Krzyzinski,Hubert Baniecki,Anna Saranti,Andreas Holzinger,Przemyslaw Biecek
 
 Explainable AI (XAI) is an increasingly important area of machine learning
 research, which aims to make black-box models transparent and interpretable. In
@@ -10467,7 +10467,7 @@ demonstrate the practical applicability of our approach.
 展示我們方法的實際適用性。
 
 ##### **Beyond Known Reality: Exploiting Counterfactual Explanations for Medical Research**
-2307.02131v5 by Toygar Tanyel et.al.
+2307.02131v5 by Toygar Tanyel,Serkan Ayvaz,Bilgin Keserci
 
 The field of explainability in artificial intelligence (AI) has witnessed a
 growing number of studies and increasing scholarly interest. However, the lack
@@ -10506,7 +10506,7 @@ acceptance of AI-driven methods in clinical research.
 在臨床研究中接受人工智慧驅動的方法。
 
 ##### **AI and Non AI Assessments for Dementia**
-2307.01210v1 by Mahboobeh Parsapoor et.al.
+2307.01210v1 by Mahboobeh Parsapoor,Hamed Ghodrati,Vincenzo Dentamaro,Christopher R. Madan,Ioulietta Lazarou,Spiros Nikolopoulos,Ioannis Kompatsiaris
 
 Current progress in the artificial intelligence domain has led to the
 development of various types of AI-powered dementia assessments, which can be
@@ -10545,7 +10545,7 @@ existing solutions.
 現有的解決方案。
 
 ##### **Active Globally Explainable Learning for Medical Images via Class Association Embedding and Cyclic Adversarial Generation**
-2306.07306v1 by Ruitao Xie et.al.
+2306.07306v1 by Ruitao Xie,Jingbang Chen,Limai Jiang,Rui Xiao,Yi Pan,Yunpeng Cai
 
 Explainability poses a major challenge to artificial intelligence (AI)
 techniques. Current studies on explainable AI (XAI) lack the efficiency of
@@ -10596,7 +10596,7 @@ directly visualized via traversing the paths in the class-style space.
 透過遍歷類風格空間中的路徑直接視覺化。
 
 ##### **HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**
-2306.06029v1 by Rodrigo Agerri et.al.
+2306.06029v1 by Rodrigo Agerri,Iñigo Alonso,Aitziber Atutxa,Ander Berrondo,Ainara Estarrona,Iker Garcia-Ferrero,Iakes Goenaga,Koldo Gojenola,Maite Oronoz,Igor Perez-Tejedor,German Rigau,Anar Yeginbergenova
 
 Providing high quality explanations for AI predictions based on machine
 learning is a challenging and complex task. To work well it requires, among
@@ -10639,7 +10639,7 @@ particular.
 特別的。
 
 ##### **XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**
-2306.04791v1 by Eli Laird et.al.
+2306.04791v1 by Eli Laird,Ayesh Madushanka,Elfi Kraka,Corey Clark
 
 Progress in graph neural networks has grown rapidly in recent years, with
 many new developments in drug discovery, medical diagnosis, and recommender
@@ -10690,7 +10690,7 @@ XInsight 產生解釋分佈，揭示底層
 模型中的關係，並為進一步分析提供有價值的指導。
 
 ##### **Explainable AI using expressive Boolean formulas**
-2306.03976v1 by Gili Rosenberg et.al.
+2306.03976v1 by Gili Rosenberg,J. Kyle Brubaker,Martin J. A. Schuetz,Grant Salton,Zhihuai Zhu,Elton Yechao Zhu,Serdar Kadıoğlu,Sima E. Borujeni,Helmut G. Katzgraber
 
 We propose and implement an interpretable machine learning classification
 model for Explainable AI (XAI) based on expressive Boolean formulas. Potential
@@ -10735,7 +10735,7 @@ lead to a speedup by fast proposal of non-local moves.
 透過非本地移動的快速提議來加速。
 
 ##### **Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**
-2306.03902v1 by Yeldar Toleubay et.al.
+2306.03902v1 by Yeldar Toleubay,Don Joven Agravante,Daiki Kimura,Baihan Lin,Djallel Bouneffouf,Michiaki Tatsubori
 
 In response to the global challenge of mental health problems, we proposes a
 Logical Neural Network (LNN) based Neuro-Symbolic AI method for the diagnosis
@@ -10768,7 +10768,7 @@ trustworthy solution for mental disorder diagnosis.
 值得信賴的精神障礙診斷解決方案。
 
 ##### **XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models**
-2306.01668v1 by Sujith K Mandala et.al.
+2306.01668v1 by Sujith K Mandala
 
 As machine learning models become increasingly prevalent in medical
 diagnostics, the need for interpretability and transparency becomes paramount.
@@ -10797,7 +10797,7 @@ XAI Renaissance 標誌著該領域的重大轉變，旨在
 患者治療結果並培養對人工智慧驅動的診斷系統的信任。
 
 ##### **A Novel real-time arrhythmia detection model using YOLOv8**
-2305.16727v3 by Guang Jun Nicholas Ang et.al.
+2305.16727v3 by Guang Jun Nicholas Ang,Aritejh Kr Goil,Henryk Chan,Jieyi Jeric Lew,Xin Chun Lee,Raihan Bin Ahmad Mustaffa,Timotius Jason,Ze Ting Woon,Bingquan Shen
 
 In a landscape characterized by heightened connectivity and mobility, coupled
 with a surge in cardiovascular ailments, the imperative to curtail healthcare
@@ -10840,7 +10840,7 @@ NVIDIA Tesla V100 上的秒數。我們的調查證明了潛力
 醫療保健解決方案領域。
 
 ##### **Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**
-2305.14389v2 by Jai Vardhan et.al.
+2305.14389v2 by Jai Vardhan,Taraka Satya Krishna Teja Malisetti
 
 Breast cancer (BC) remains a significant health threat, with no long-term
 cure currently available. Early detection is crucial, yet mammography
@@ -10873,7 +10873,7 @@ IRT 影像。我們提出的框架的優越性在以下情況得到證實：
 與現有的深度學習框架相比。
 
 ##### **What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**
-2305.13127v2 by Junwei Kuang et.al.
+2305.13127v2 by Junwei Kuang,Jiaheng Xie,Zhijun Yan
 
 Depression is the most prevalent and serious mental illness, which induces
 grave financial and societal ramifications. Depression detection is key for
@@ -10916,7 +10916,7 @@ for detected depressed patients.
 對於發現的憂鬱症患者。
 
 ##### **Echoes of Biases: How Stigmatizing Language Affects AI Performance**
-2305.10201v4 by Yizhi Liu et.al.
+2305.10201v4 by Yizhi Liu,Weiguang Wang,Guodong Gordon Gao,Ritu Agarwal
 
 Electronic health records (EHRs) serve as an essential data source for the
 envisioned artificial intelligence (AI)-driven transformation in healthcare.
@@ -10955,7 +10955,7 @@ behavior and EHR note writing in healthcare.
 醫療保健中的行為和 EHR 筆記寫作。
 
 ##### **Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**
-2305.03376v1 by Goda Klumbyte et.al.
+2305.03376v1 by Goda Klumbyte,Hannah Piehl,Claude Draude
 
 Contemporary automation through AI entails a substantial amount of
 behind-the-scenes human labour, which is often both invisibilised and
@@ -10978,7 +10978,7 @@ invisible labour.
 無形的勞動。
 
 ##### **Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**
-2304.13191v1 by Surjodeep Sarkar et.al.
+2304.13191v1 by Surjodeep Sarkar,Manas Gaur,L. Chen,Muskan Garg,Biplav Srivastava,Bhaktee Dongaonkar
 
 Virtual Mental Health Assistants (VMHAs) are seeing continual advancements to
 support the overburdened global healthcare system that gets 60 million primary
@@ -11015,7 +11015,7 @@ VMHA 超出目前範圍的評估指標和實際考慮因素
 文獻以在 VMHA 和患者之間建立積極溝通的信任。
 
 ##### **A Brief Review of Explainable Artificial Intelligence in Healthcare**
-2304.01543v1 by Zahra Sadeghi et.al.
+2304.01543v1 by Zahra Sadeghi,Roohallah Alizadehsani,Mehmet Akif Cifci,Samina Kausar,Rizwan Rehman,Priyakshi Mahanta,Pranjal Kumar Bora,Ammar Almasri,Rami S. Alkhawaldeh,Sadiq Hussain,Bilal Alatas,Afshin Shoeibi,Hossein Moosaei,Milan Hladik,Saeid Nahavandi,Panos M. Pardalos
 
 XAI refers to the techniques and methods for building AI applications which
 assist end users to interpret output and predictions of AI models. Black box AI
@@ -11058,7 +11058,7 @@ viewpoints and their limitations are investigated.
 的觀點及其局限性進行了調查。
 
 ##### **Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**
-2303.12641v2 by Frederik Pahde et.al.
+2303.12641v2 by Frederik Pahde,Maximilian Dreyer,Wojciech Samek,Sebastian Lapuschkin
 
 State-of-the-art machine learning models often learn spurious correlations
 embedded in the training data. This poses risks when deploying these models for
@@ -11094,7 +11094,7 @@ https://github.com/maxdreyer/Reveal2Revise.
 本地化在輸入資料中，然後用於 (3) 修改模型
 行為。具體來說，我們將RRR、CDEP和ClArC方法應用於模型
 修正，以及（4）（重新）評估模型的性能和剩餘的
-對工件的敏感性。使用兩個醫學基準資料集
+對工件的敏感性。使用兩個醫學基準數據集
 黑色素瘤檢測和骨齡估計，我們將我們的R2R框架應用於VGG，
 ResNet 和 EfficientNet 架構，從而揭示並修正真實的
 資料集固有的工件，以及受控的合成變體
@@ -11103,7 +11103,7 @@ ResNet 和 EfficientNet 架構，從而揭示並修正真實的
 https://github.com/maxdreyer/Reveal2Revise。
 
 ##### **Explainable AI for Time Series via Virtual Inspection Layers**
-2303.06365v1 by Johanna Vielhaben et.al.
+2303.06365v1 by Johanna Vielhaben,Sebastian Lapuschkin,Grégoire Montavon,Wojciech Samek
 
 The field of eXplainable Artificial Intelligence (XAI) has greatly advanced
 in recent years, but progress has mainly been made in computer vision and
@@ -11140,7 +11140,7 @@ to discover how models act on spurious correlations in the data.
 發現模型如何作用於資料中的虛假相關性。
 
 ##### **Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**
-2303.04731v1 by Truong Thanh Hung Nguyen et.al.
+2303.04731v1 by Truong Thanh Hung Nguyen,Van Binh Truong,Vo Thanh Khang Nguyen,Quoc Hung Cao,Quoc Khanh Nguyen
 
 The ability to explain the prediction of deep learning models to end-users is
 an important feature to leverage the power of artificial intelligence (AI) for
@@ -11169,7 +11169,7 @@ of the model's decisions on thyroid nodule images.
 模型對甲狀腺結節影像的決策。
 
 ##### **Cybersecurity of AI medical devices: risks, legislation, and challenges**
-2303.03140v1 by Elisabetta Biasin et.al.
+2303.03140v1 by Elisabetta Biasin,Erik Kamenjasevic,Kaspar Rosager Ludvigsen
 
 Medical devices and artificial intelligence systems rapidly transform
 healthcare provisions. At the same time, due to their nature, AI in or as
@@ -11222,7 +11222,7 @@ NIS 2 指示提案和 MDR 的要求？ (3) 哪些是
 即將出版 2023 年，愛德華·埃爾加出版有限公司]
 
 ##### **LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease Assessment from Fundus Images**
-2302.03008v2 by Nooshin Yousefzadeh et.al.
+2302.03008v2 by Nooshin Yousefzadeh,Charlie Tran,Adolfo Ramirez-Zamora,Jinghua Chen,Ruogu Fang,My T. Thai
 
 Alzheimer's Disease (AD) is a progressive neurodegenerative disease and the
 leading cause of dementia. Early diagnosis is critical for patients to benefit
@@ -11259,7 +11259,7 @@ continuum.
 連續體。
 
 ##### **Diagrammatization: Rationalizing with diagrammatic AI explanations for abductive-deductive reasoning on hypotheses**
-2302.01241v2 by Brian Y. Lim et.al.
+2302.01241v2 by Brian Y. Lim,Joseph P. Cahaly,Chester Y. F. Sng,Adam Chew
 
 Many visualizations have been developed for explainable AI (XAI), but they
 often require further reasoning by users to interpret. We argue that XAI should
@@ -11296,7 +11296,7 @@ user-centric XAI.
 以使用者為中心的 XAI。
 
 ##### **LesionAid: Vision Transformers-based Skin Lesion Generation and Classification**
-2302.01104v1 by Ghanta Sai Krishna et.al.
+2302.01104v1 by Ghanta Sai Krishna,Kundrapu Supriya,Mallikharjuna Rao K,Meetiksha Sorgile
 
 Skin cancer is one of the most prevalent forms of human cancer. It is
 recognized mainly visually, beginning with clinical screening and continuing
@@ -11343,7 +11343,7 @@ the existing frameworks for skin lesion detection.
 現有的皮膚病變檢測框架。
 
 ##### **SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis**
-2302.00785v1 by Roxana Daneshjou et.al.
+2302.00785v1 by Roxana Daneshjou,Mert Yuksekgonul,Zhuo Ran Cai,Roberto Novoa,James Zou
 
 For the deployment of artificial intelligence (AI) in high-risk settings,
 such as healthcare, methods that provide interpretability/explainability or
@@ -11398,7 +11398,7 @@ interpretable models with post-hoc concept bottleneck models.
 具有事後概念瓶頸模型的可解釋模型。
 
 ##### **Decision-Focused Evaluation: Analyzing Performance of Deployed Restless Multi-Arm Bandits**
-2301.07835v1 by Paritosh Verma et.al.
+2301.07835v1 by Paritosh Verma,Shresth Verma,Aditya Mate,Aparna Taneja,Milind Tambe
 
 Restless multi-arm bandits (RMABs) is a popular decision-theoretic framework
 that has been used to model real-world sequential decision making problems in
@@ -11445,7 +11445,7 @@ RMAB 系統效能下降—廣泛的投資
 系統。
 
 ##### **Exemplars and Counterexemplars Explanations for Image Classifiers, Targeting Skin Lesion Labeling**
-2302.03033v1 by Carlo Metta et.al.
+2302.03033v1 by Carlo Metta,Riccardo Guidotti,Yuan Yin,Patrick Gallinari,Salvatore Rinzivillo
 
 Explainable AI consists in developing mechanisms allowing for an interaction
 between decision systems and humans by making the decisions of the formers
@@ -11474,7 +11474,7 @@ illustrate the behavior of the system on representative examples.
 透過代表性範例說明系統的行為。
 
 ##### **Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**
-2301.07060v1 by Dangxing Chen et.al.
+2301.07060v1 by Dangxing Chen,Luyao Zhang
 
 Algorithm fairness in the application of artificial intelligence (AI) is
 essential for a better society. As the foundational axiom of social mechanisms,
@@ -11521,7 +11521,7 @@ integrating human intelligence.
 整合人類智慧。
 
 ##### **Rationalizing Predictions by Adversarial Information Calibration**
-2301.06009v1 by Lei Sha et.al.
+2301.06009v1 by Lei Sha,Oana-Maria Camburu,Thomas Lukasiewicz
 
 Explaining the predictions of AI models is paramount in safety-critical
 applications, such as in legal or medical domains. One form of explanation for
@@ -11574,7 +11574,7 @@ effectiveness of our approach to rationale extraction.
 我們的基本原理提取方法的有效性。
 
 ##### **Semantic match: Debugging feature attribution methods in XAI for healthcare**
-2301.02080v3 by Giovanni Cinà et.al.
+2301.02080v3 by Giovanni Cinà,Tabea E. Röber,Rob Goedhart,Ş. İlker Birbil
 
 The recent spike in certified Artificial Intelligence (AI) tools for
 healthcare has renewed the debate around adoption of this technology. One
@@ -11615,7 +11615,7 @@ AI設備更加透明、可信。醫學界活躍的一些聲音
 已經實現了語義匹配。
 
 ##### **Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**
-2212.08821v1 by Isil Guzey et.al.
+2212.08821v1 by Isil Guzey,Ozlem Ucar,Nukhet Aladag Ciftdemir,Betul Acunas
 
 Although machine learning (ML) models of AI achieve high performances in
 medicine, they are not free of errors. Empowering clinicians to identify
@@ -11658,7 +11658,7 @@ final decisions.
 最終決定。
 
 ##### **It is not "accuracy vs. explainability" -- we need both for trustworthy AI systems**
-2212.11136v2 by D. Petkovic et.al.
+2212.11136v2 by D. Petkovic
 
 We are witnessing the emergence of an AI economy and society where AI
 technologies are increasingly impacting health care, business, transportation
@@ -11707,7 +11707,7 @@ validation and certification, and trustworthy production and maintenance.
 驗證和認證，以及值得信賴的生產和維護。
 
 ##### **SimpleMind adds thinking to deep neural networks**
-2212.00951v1 by Youngwon Choi et.al.
+2212.00951v1 by Youngwon Choi,M. Wasil Wahi-Anwar,Matthew S. Brown
 
 Deep neural networks (DNNs) detect patterns in data and have shown
 versatility and strong performance in many computer vision applications.
@@ -11760,7 +11760,7 @@ SimpleMind 透過將深度神經網路嵌入其中來支援和改進深度神經
 認知人工智慧框架。
 
 ##### **Attribution-based XAI Methods in Computer Vision: A Review**
-2211.14736v1 by Kumar Abhishek et.al.
+2211.14736v1 by Kumar Abhishek,Deeksha Kamath
 
 The advancements in deep learning-based methods for visual perception tasks
 have seen astounding growth in the last decade, with widespread adoption in a
@@ -11791,7 +11791,7 @@ the key challenges in developing and evaluating robust XAI methods.
 開發和評估穩健的 XAI 方法的關鍵挑戰。
 
 ##### **Privacy Meets Explainability: A Comprehensive Impact Benchmark**
-2211.04110v1 by Saifullah Saifullah et.al.
+2211.04110v1 by Saifullah Saifullah,Dominique Mercier,Adriano Lucieri,Andreas Dengel,Sheraz Ahmed
 
 Since the mid-10s, the era of Deep Learning (DL) has continued to this day,
 bringing forth new superlatives and innovations each year. Nevertheless, the
@@ -11838,7 +11838,7 @@ PPML 對 XAI 的個別影響，本文給了明確的建議
 安全關鍵領域。
 
 ##### **Predicting Treatment Adherence of Tuberculosis Patients at Scale**
-2211.02943v2 by Mihir Kulkarni et.al.
+2211.02943v2 by Mihir Kulkarni,Satvik Golechha,Rishi Raj,Jithin Sreedharan,Ankit Bhardwaj,Santanu Rathod,Bhavin Vadera,Jayakrishna Kurada,Sanjay Mattoo,Rajendra Joshi,Kirankumar Rade,Alpan Raval
 
 Tuberculosis (TB), an infectious bacterial disease, is a significant cause of
 death, especially in low-income countries, with an estimated ten million new
@@ -11881,7 +11881,7 @@ state-level pilots with the goal of pan-India deployment.
 邦級試點，目標是在全印度部署。
 
 ##### **Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**
-2211.01036v2 by Senthil Kumar Jagatheesaperumal et.al.
+2211.01036v2 by Senthil Kumar Jagatheesaperumal,Quoc-Viet Pham,Rukhsana Ruby,Zhaohui Yang,Chunmei Xu,Zhaoyang Zhang
 
 Explainable Artificial Intelligence (XAI) is transforming the field of
 Artificial Intelligence (AI) by enhancing the trust of end-users in machines.
@@ -11920,7 +11920,7 @@ of future IoT use cases.
 未來的物聯網用例。
 
 ##### **Human-centered XAI for Burn Depth Characterization**
-2210.13535v2 by Maxwell J. Jacobson et.al.
+2210.13535v2 by Maxwell J. Jacobson,Daniela Chanci Arrubla,Maria Romeo Tricas,Gayle Gordillo,Yexiang Xue,Chandan Sen,Juan Wachs
 
 Approximately 1.25 million people in the United States are treated each year
 for burn injuries. Precise burn injury classification is an important aspect of
@@ -11953,7 +11953,7 @@ B 型超音波分類器可以透過提供紋理特徵來增強。
 框架。
 
 ##### **What Do End-Users Really Want? Investigation of Human-Centered XAI for Mobile Health Apps**
-2210.03506v1 by Katharina Weitz et.al.
+2210.03506v1 by Katharina Weitz,Alexander Zellner,Elisabeth André
 
 In healthcare, AI systems support clinicians and patients in diagnosis,
 treatment, and monitoring, but many systems' poor explainability remains
@@ -11986,7 +11986,7 @@ human-centered XAI closer to practical application.
 以人為本的XAI更接近實際應用。
 
 ##### **Explainable AI based Glaucoma Detection using Transfer Learning and LIME**
-2210.03332v1 by Touhidul Islam Chayan et.al.
+2210.03332v1 by Touhidul Islam Chayan,Anita Islam,Eftykhar Rahman,Md. Tanzim Reza,Tasnim Sakib Apon,MD. Golam Rabiul Alam
 
 Glaucoma is the second driving reason for partial or complete blindness among
 all the visual deficiencies which mainly occurs because of excessive pressure
@@ -12027,7 +12027,7 @@ Explanations(LIME) 在我們的系統中引入了可解釋性。這
 傳統深度學習模型的脆弱性。
 
 ##### **Evaluation of importance estimators in deep learning classifiers for Computed Tomography**
-2209.15398v1 by Lennart Brocki et.al.
+2209.15398v1 by Lennart Brocki,Wistan Marchadour,Jonas Maison,Bogdan Badic,Panagiotis Papadimitroulas,Mathieu Hatt,Franck Vermet,Neo Christopher Chung
 
 Deep learning has shown superb performance in detecting objects and
 classifying images, ensuring a great promise for analyzing medical imaging.
@@ -12082,7 +12082,7 @@ SmoothGrad 在 DSC 評估中表現出色。有趣的是，有一個批評
 深度學習在醫學中的力量。
 
 ##### **An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**
-2210.08979v1 by Yuzhe Lu et.al.
+2210.08979v1 by Yuzhe Lu,Adam Perer
 
 Deep learning methods, in particular convolutional neural networks, have
 emerged as a powerful tool in medical image computing tasks. While these
@@ -12119,7 +12119,7 @@ adoption of medical AI.
 採用醫療人工智慧。
 
 ##### **Explainable AI for clinical and remote health applications: a survey on tabular and time series data**
-2209.06528v1 by Flavio Di Martino et.al.
+2209.06528v1 by Flavio Di Martino,Franca Delmastro
 
 Nowadays Artificial Intelligence (AI) has become a fundamental component of
 healthcare applications, both clinical and remote, but the best performing AI
@@ -12164,7 +12164,7 @@ methods.
 方法。
 
 ##### **Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**
-2208.14742v1 by Gaetan Dissez et.al.
+2208.14742v1 by Gaetan Dissez,Nicole Tay,Tom Dyer,Matthew Tam,Richard Dittrich,David Doyne,James Hoare,Jackson J. Pat,Stephanie Patterson,Amanda Stockham,Qaiser Malik,Tom Naunton Morgan,Paul Williams,Liliana Garcia-Mondragon,Jordan Smith,George Pearse,Simon Rasalingham
 
 Objectives: The present study evaluated the impact of a commercially
 available explainable AI algorithm in augmenting the ability of clinicians to
@@ -12227,7 +12227,7 @@ CXR 疑似肺癌。評估臨床醫師的表現
 下游成像資源。
 
 ##### **GAN-based generative modelling for dermatological applications -- comparative study**
-2208.11702v1 by Sandra Carrasco Limeros et.al.
+2208.11702v1 by Sandra Carrasco Limeros,Sylwia Majchrowska,Mohamad Khir Zoubi,Anna Rosén,Juulia Suvilehto,Lisa Sjöblom,Magnus Kjellberg
 
 The lack of sufficiently large open medical databases is one of the biggest
 challenges in AI-powered healthcare. Synthetic data created using Generative
@@ -12268,7 +12268,7 @@ studies is publicly available at
 \url{https://github.com/aidotse/stylegan2-ada-pytorch}。
 
 ##### **Planning and Scheduling in Digital Health with Answer Set Programming**
-2208.03099v1 by Marco Mochi et.al.
+2208.03099v1 by Marco Mochi
 
 In the hospital world there are several complex combinatory problems, and
 solving these problems is important to increase the degree of patients'
@@ -12305,7 +12305,7 @@ obtained.
 獲得。
 
 ##### **AI Approaches in Processing and Using Data in Personalized Medicine**
-2208.04698v1 by Mirjana Ivanovic et.al.
+2208.04698v1 by Mirjana Ivanovic,Serge Autexier,Miltiadis Kokkonidis
 
 In modern dynamic constantly developing society, more and more people suffer
 from chronic and serious diseases and doctors and patients need special and
@@ -12346,7 +12346,7 @@ intelligence approaches in personalized medical decisions.
 個人化醫療決策中的情報方法。
 
 ##### **TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**
-2207.11290v2 by Nandita Bhaskhar et.al.
+2207.11290v2 by Nandita Bhaskhar,Daniel L. Rubin,Christopher Lee-Messer
 
 Continuous monitoring of trained ML models to determine when their
 predictions should and should not be trusted is essential for their safe
@@ -12401,7 +12401,7 @@ adoption into practice.
 採用付諸實踐。
 
 ##### **Revealing Unfair Models by Mining Interpretable Evidence**
-2207.05811v1 by Mohit Bajaj et.al.
+2207.05811v1 by Mohit Bajaj,Lingyang Chu,Vittorio Romaniello,Gursimran Singh,Jian Pei,Zirui Zhou,Lanjun Wang,Yong Zhang
 
 The popularity of machine learning has increased the risk of unfair models
 getting deployed in high-stake applications, such as justice system,
@@ -12438,7 +12438,7 @@ is much more scalable than all of the baseline methods.
 比所有基線方法更具可擴展性。
 
 ##### **From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**
-2207.04969v1 by Lukas Klein et.al.
+2207.04969v1 by Lukas Klein,Mennatallah El-Assady,Paul F. Jäger
 
 Explainable AI (XAI) is a necessity in safety-critical systems such as in
 clinical diagnostics due to a high risk for fatal decisions. Currently,
@@ -12469,7 +12469,7 @@ XAI、可解釋機器學習 (IML) 和經典的最大子組
 我們的觀點對該領域的未來意味著什麼。
 
 ##### **Explainable AI (XAI) in Biomedical Signal and Image Processing: Promises and Challenges**
-2207.04295v1 by Guang Yang et.al.
+2207.04295v1 by Guang Yang,Arvind Rao,Christine Fernandez-Maloigne,Vince Calhoun,Gloria Menegaz
 
 Artificial intelligence has become pervasive across disciplines and fields,
 and biomedical image and signal processing is no exception. The growing and
@@ -12506,7 +12506,7 @@ IEEE 訊號處理雜誌的訊號處理
 出現於 2022 年 3 月。
 
 ##### **Towards the Use of Saliency Maps for Explaining Low-Quality Electrocardiograms to End Users**
-2207.02726v1 by Ana Lucic et.al.
+2207.02726v1 by Ana Lucic,Sheeraz Ahmad,Amanda Furtado Brinhosa,Vera Liao,Himani Agrawal,Umang Bhatt,Krishnaram Kenthapadi,Alice Xiang,Maarten de Rijke,Nicholas Drabowski
 
 When using medical images for diagnosis, either by clinicians or artificial
 intelligence (AI) systems, it is important that the images are of high quality.
@@ -12545,7 +12545,7 @@ OurCompany 的人工智慧系統，以及 (iii) 縱向使用者研究設計來�
 以及對我們實驗設置的建議。
 
 ##### **Why we do need Explainable AI for Healthcare**
-2206.15363v1 by Giovanni Cinà et.al.
+2206.15363v1 by Giovanni Cinà,Tabea Röber,Rob Goedhart,Ilker Birbil
 
 The recent spike in certified Artificial Intelligence (AI) tools for
 healthcare has renewed the debate around adoption of this technology. One
@@ -12576,7 +12576,7 @@ prevented by rigorous clinical validation alone.
 僅通過嚴格的臨床驗證就可以預防。
 
 ##### **Process Knowledge-Infused AI: Towards User-level Explainability, Interpretability, and Safety**
-2206.13349v1 by Amit Sheth et.al.
+2206.13349v1 by Amit Sheth,Manas Gaur,Kaushik Roy,Revathy Venkataraman,Vedant Khandelwal
 
 AI systems have been widely adopted across various domains in the real world.
 However, in high-value, sensitive, or safety-critical applications such as

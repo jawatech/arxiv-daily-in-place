@@ -19105,3 +19105,6 @@ Traceback (most recent call last):
     line = f"##### {paper['id']}" \
 
 NameError: name 'paper_summary' is not defined
+2024-04-29 14:50:33.662 | SUCCESS  | __main__:parse:187 - handle [1/3] | topic=`AI` subtopic=`Medical`
+2024-04-29 14:50:33.915 | SUCCESS  | __main__:parse:187 - handle [2/3] | topic=`AI` subtopic=`Medical explainable AI`
+2024-04-29 14:50:35.932 | SUCCESS  | __main__:parse:187 - handle [3/3] | topic=`AI` subtopic=`LLM`

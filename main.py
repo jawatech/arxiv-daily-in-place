@@ -256,6 +256,15 @@ class _OverloadTasks:
     def _set_markdown_hyperlink(text, link):
         return f"[{text}]({link})"
 
+    def _generate_markdown_abstract_content(self, paper: dict):
+        line = f"##### {paper['id']}" \
+               f" {paper['title']}" \
+               f"\n{paper['authors']}" \
+               f"" \
+               f"\n{paper_summary}|\n"
+
+        return line
+
     def _generate_markdown_table_content(self, paper: dict):
         paper['publish_time'] = f"**{paper['publish_time']}**"
         paper['title'] = f"**{paper['title']}**"
@@ -323,8 +332,10 @@ class _OverloadTasks:
         _style_md = f"|{'|'.join([self._set_style_to('center') for _ in range(len(_fields))])}|\n"
         table_lines = "".join([self._generate_markdown_table_content(
             paper) for paper in _paper_obj.values()])
+        _abstracts_md = f"\n#### Abstracts\n"+"".join([self._generate_markdown_abstract_content(
+            paper) for paper in _paper_obj.values()])
 
-        _content_md = _subtopic_md + _fields_md + _style_md + table_lines
+        _content_md = _subtopic_md + _fields_md + _style_md + table_lines + _abstracts_md
 
         return {"hook": _topic_md, "content": _content_md}
 

@@ -12,7 +12,7 @@ import requests
 genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
 model = genai.GenerativeModel("gemini-pro")
 
-def translate(text, to_language="zh-TW", text_language="en"):
+def translate(text, to_language="zh_TW", text_language="en"):
     # Get the input parameters from the post request
     text_list = [text]
     source_lang = text_language

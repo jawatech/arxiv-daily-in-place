@@ -14,7 +14,7 @@ model = genai.GenerativeModel("gemini-pro")
 
 def translate(text, to_language="zh-TW", text_language="en"):
     # Get the input parameters from the post request
-    text_list = text
+    text_list = [text]
     source_lang = text_language
     target_lang = to_language
 

@@ -21,12 +21,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       # ============================================
-      # TODO [√] 创建 Python3.6+ 编译环境
+      # TODO [√] 创建 Python3.10+ 编译环境
       # ============================================
-      - name: Set up Python 3.8
+      - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.10
       # ============================================
       # TODO [√] 安装 Project 第三方依赖
       # ============================================

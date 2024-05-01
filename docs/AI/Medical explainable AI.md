@@ -118,7 +118,7 @@ to determine their accuracy in completing these tasks. Additionally, we
 investigate how these agents can provide explainability, thereby enhancing
 trust and transparency within the system.
 
-摘要：本文探討了群體結構多主體系統 (MAS) 在建立醫療必要性中的應用，這是一個涉及系統性審查特定患者的醫療結構化和非結構化資料，並根據臨床指南進行的流程。我們透過將此複雜任務分解成更小、更易於管理的子任務來解決。每個子任務都由一個專業的 AI 主體處理。我們對各種提示策略對這些主體的影響進行系統性研究，並對不同的大型語言模型 (LLM) 進行評比，以確定它們在完成這些任務中的準確度。此外，我們探討了這些主體如何提供可解釋性，從而增強系統中的信任和透明度。
+摘要：本文探討了應用群集結構多代理系統 (MAS) 來建立醫療必要性，這是一個涉及系統性審查特定患者的醫療結構化和非結構化資料對照臨床指引的過程。我們透過將此複雜任務分解成較小、更易於管理的子任務來處理。每個子任務都由一個專門的 AI 代理處理。我們對各種提示策略對這些代理的影響進行系統性研究，並對比不同的大型語言模型 (LLM)，以確定它們在完成這些任務時的準確性。此外，我們研究了這些代理如何提供可解釋性，從而增強系統內的信任和透明度。
 
 ##### **Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**
 2404.16957v1 by Yunfei Ge,Quanyan Zhu
@@ -143,7 +143,7 @@ accountability in AI-induced incidents, facilitating the development of a
 sustainable and resilient system through continuous monitoring, revision, and
 reflection.
 
-摘要：人工智能 (AI) 的普遍整合在涉及人工智能系統的事件中引入了責任和問責制的複雜挑戰。這些系統的互連性、人工智能引發事件的道德問題，加上人工智能技術的不確定性和缺乏相應的法規，使得傳統的責任歸屬具有挑戰性。為此，本研究提出了一種計算反思均衡 (CRE) 方法，為所有利害關係人建立一個連貫且在道德上可接受的責任歸屬框架。計算方法提供了一個結構化的分析，克服了概念方法在處理動態和多方面的場景時的局限性，展示了該框架在責任歸屬過程中的可解釋性、連貫性和適應性屬性。我們探討了與均衡計算中的主張相關的初始激活級別的關鍵作用。使用人工智能輔助醫療決策支援系統作為案例研究，我們說明了不同的初始化如何導致不同的責任分配。該框架為人工智能引發事件中的問責制提供了寶貴的見解，通過持續的監控、修訂和反思，促進了可持續和有韌性的系統的開發。
+摘要：人工智能 (AI) 的普遍整合在涉及 AI 啟用系統事件的責任和問責方面引入了複雜的挑戰。這些系統的互聯性、AI 引發事件的道德問題，加上 AI 技術的不確定性和缺乏相應的法規，使得傳統的責任歸屬具有挑戰性。為此，這項工作提出了一個計算反思平衡 (CRE) 方法，以建立一個連貫且在道德上可接受的責任歸屬架構，適用於所有利害關係人。計算方法提供了一個結構化的分析，克服了概念方法在處理動態和多方面的場景時的限制，展示了該架構在責任歸屬過程中可解釋性、連貫性和適應性屬性。我們探討了與平衡計算中的主張相關的初始啟動級別的關鍵作用。使用 AI 輔助醫療決策支援系統作為案例研究，我們說明了不同的初始化如何導致不同的責任分配。該框架提供了對 AI 引發事件中問責制的寶貴見解，通過持續監控、修訂和反思，促進了可持續和彈性系統的開發。
 
 ##### **Explainable AI for Fair Sepsis Mortality Predictive Model**
 2404.13139v1 by Chia-Hsuan Chang,Xiaoyang Wang,Christopher C. Yang
@@ -167,7 +167,7 @@ healthcare stakeholders by improving the transparency and fairness of model
 predictions, thereby contributing to more equitable and trustworthy healthcare
 delivery.
 
-摘要：人工智慧支援醫療專業人員進行預測建模，大幅轉變臨床決策制定。本研究探討醫療保健中 AI 應用對公平性和可解釋性的關鍵需求，以確保不同患者人口統計資料的公平結果。我們專注於敗血症相關死亡率的預測建模，提出了一種方法，可以學習效能最佳化的預測模型，然後採用轉移學習程序來產生具有更好公平性的模型。我們的模型還引入了一種新穎的基於排列的特徵重要性演算法，旨在闡明每個特徵在增強預測公平性中的貢獻。與現有的可解釋性方法專注於解釋特徵對預測效能的貢獻不同，我們提出的方法獨特地彌補了理解每個特徵如何促進公平性的差距。鑑於敗血症的死亡率很高，且在三分之一的醫院死亡中扮演角色，這項進展至關重要。我們的模型不僅有助於識別和減輕預測模型中的偏差，還透過提高模型預測的透明度和公平性來促進醫療保健利害關係人之間的信任，進而促進更公平、更值得信賴的醫療保健服務。
+摘要：人工智慧透過預測模型支援醫療專業人員，大幅改變臨床決策制定。本研究探討醫療保健中人工智慧應用程式中公平性和可解釋性的關鍵需求，以確保不同病患人口統計資料的公平結果。我們專注於敗血症相關死亡率的預測模型，提出一個方法，學習效能最佳化的預測模型，然後採用遷移學習流程，產生一個公平性更好的模型。我們的模型也導入一個新的基於置換的特性重要性演算法，目標在於闡明每個特性對增強預測公平性的貢獻。與現有的可解釋性方法不同，這些方法專注於解釋特性對預測效能的貢獻，我們提出的方法獨特地彌補了理解每個特性如何對公平性做出貢獻的差距。這項進展至關重要，考量到敗血症顯著的死亡率，以及它在醫院死亡中佔三分之一的角色。我們的模型不僅有助於辨識和減輕預測模型中的偏差，也透過改善模型預測的透明度和公平性，促進醫療保健利害關係人之間的信任，進而促成更公平且值得信賴的醫療保健提供。
 
 ##### **Multi Class Depression Detection Through Tweets using Artificial Intelligence**
 2404.13104v1 by Muhammad Osama Nusrat,Waseem Shahzad,Saad Ahmed Jamal
@@ -192,7 +192,7 @@ learning and deep learning methodologies were used to train the model. The BERT
 model presented the most promising results, achieving an overall accuracy of
 0.96.
 
-摘要：憂鬱症是現今社會中一個重要的議題。根據世界衛生組織（WHO）在 2023 年的統計，全球有超過 2.8 億人正與憂鬱症搏鬥。這是一個龐大的數字；若不認真看待，這些數字將會快速增加。約有 48.9 億人是社群媒體的使用者。人們在 Twitter、Facebook、Reddit、Instagram 等平台上表達自己的感受和情緒。這些平台包含有價值的資訊，可用於研究目的。在各種社群媒體平台上已進行了大量的研究。然而，這些努力仍存在一定的限制。特別是，先前的研究僅專注於偵測推文中的憂鬱症和憂鬱症的嚴重程度。此外，在資料集標籤中也存在不準確的情況。在本研究中，我們根據語彙標籤，使用來自 Twitter 資料庫的推文預測了五種類型的憂鬱症（躁鬱症、重度憂鬱症、精神病性憂鬱症、非典型憂鬱症和產後憂鬱症）。我們使用可解釋 AI，透過突顯代表憂鬱症類型的推文部分，來提供推理。我們使用 Transformer 的雙向編碼器表徵（BERT）進行特徵萃取和訓練。我們使用機器學習和深度學習方法來訓練模型。BERT 模型呈現出最有希望的結果，達到了 0.96 的整體準確度。
+摘要：憂鬱症是現今社會中一個重要的議題。根據世界衛生組織 (WHO) 的統計，2023 年時，有超過 2.8 億人正在與憂鬱症奮鬥。這是一個龐大的數字；如果我們不認真看待，這個數字將會快速增加。約有 48.9 億人是社群媒體的使用者。人們在 Twitter、Facebook、Reddit、Instagram 等平台上表達自己的感受和情緒。這些平台包含了有價值的資訊，可用於研究目的。大量的研究已在各種社群媒體平台上進行。然而，這些研究仍然存在某些限制。特別是，先前的研究僅專注於偵測推文中的憂鬱症和憂鬱症的嚴重程度。此外，資料集標籤中也存在不準確的情況。在這項研究工作中，我們使用 Twitter 資料庫中的推文，根據語彙標籤預測了五種類型的憂鬱症（躁鬱症、重度憂鬱症、精神病性憂鬱症、非典型憂鬱症和產後憂鬱症）。我們使用了可解釋的 AI，透過強調表示憂鬱症類型的推文部分來提供推理。我們使用了來自 Transformer 的雙向編碼器表示 (BERT) 來進行特徵萃取和訓練。我們使用機器學習和深度學習方法來訓練模型。BERT 模型呈現了最有希望的結果，達到了 0.96 的整體準確度。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
 2404.12832v1 by Dmytro Shvetsov,Joonas Ariva,Marharyta Domnich,Raul Vicente,Dmytro Fishman
@@ -223,7 +223,7 @@ of tumors in CT images, and presents a step forward in making deep learning
 applications more accessible and effective in healthcare, where annotated data
 is scarce.
 
-摘要：深度學習顯著地轉變了醫學影像和放射線學領域，能辨識醫學影像中的病理，包括電腦斷層掃描（CT）和 X 光掃描。然而，深度學習模型的效能，特別是在區塊分割任務中，常常受到廣泛標註資料集需求的限制。為了應對這項挑戰，透過可解釋 AI 和反事實解釋的產生，探索了弱監督語意區塊分割的能力。這項研究的範圍是開發一種新的反事實內繪方法（COIN），透過使用生成模型將預測的分類標籤從異常翻轉為正常。例如，如果分類器將輸入醫學影像 X 視為異常，表示存在病理，則生成模型旨在內繪異常區域，從而逆轉分類器的原始預測標籤。這種方法使我們能夠產生病理的精確區塊分割，而不需要依賴預先存在的區塊分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的區塊分割遮罩容易取得得多。該方法的有效性透過區塊分割愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的合成目標和實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠優於既定的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。這些證據表明，COIN 是一項用於 CT 影像中腫瘤語意區塊分割的有前景方法，並代表了在醫療保健領域中使深度學習應用更易於取得和更有效邁進了一步，其中標註資料很稀少。
+摘要：深度學習正徹底改變醫學影像和放射學領域，讓病理學家得以辨識醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛標註資料集需求的限制。為了應對這項挑戰，我們透過可解釋 AI 和反事實解釋的產生，探討弱監督語意分割的能力。本研究的範圍是開發一種新穎的反事實內插方法 (COIN)，該方法透過使用生成模型，將預測的分類標籤從異常翻轉為正常。例如，如果分類器將輸入醫學影像 X 視為異常，表示存在病理，生成模型的目標是內插異常區域，從而逆轉分類器的原始預測標籤。這種方法使我們能夠產生病理的精確分割，而無需依賴於預先存在的分割遮罩。至關重要的是，我們利用了影像層級標籤，這比建立詳細的分割遮罩容易得多。該方法的有效性已透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤得到證明。研究結果表明，COIN 遠遠超越了已建立的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是 CT 影像中腫瘤語意分割的一種有前途的方法，並代表了讓深度學習應用在標註資料稀缺的醫療保健領域更易於使用和更有效率方面邁進了一步。
 
 ##### **Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**
 2404.07239v1 by Milad Yousefi,Shadi Farabi Maleki,Ali Jafarizadeh,Mahya Ahmadpour Youshanlui,Aida Jafari,Siamak Pedrammehr,Roohallah Alizadehsani,Ryszard Tadeusiewicz,Pawel Plawiak
@@ -253,7 +253,7 @@ research on multidisciplinary cooperation, clinical applicability validation,
 and algorithm improvement holds the potential to improve patient outcomes and
 diagnostic precision in the treatment of thyroid cancer.
 
-摘要：甲狀腺癌是一個日益嚴重的全球健康問題，需要先進的診斷方法。本篇評論探討了 AI 和放射組學在甲狀腺癌診斷中的應用。根據 PRISMA 指南，對多個資料庫進行了回顧，時間截止至 2023 年 10 月。通過組合關鍵字，發現了一篇關於甲狀腺癌和相關主題的英文學術出版物。在移除 109 篇重複文獻後，原始搜尋共回傳 267 篇論文。在根據預先確定的標準審查了 124 篇文章的摘要和標題後，篩選出相關的研究。在進行全面分析後，額外排除了六項研究。在 28 項納入的研究中，結合超音波 (US) 影像的放射組學分析證明了其在診斷甲狀腺癌方面的有效性。研究結果不一，有些研究提出了優於現狀的新策略。文獻強調了 AI 模型面臨的各種挑戰，包括可解釋性問題、資料集限制和操作者依賴性。28 項納入研究的綜合發現提到，需要標準化工作和前瞻性多中心研究來解決這些問題。此外，還確定了克服這些障礙的方法，例如可解釋 AI 技術和個人化醫療技術的進步。本篇評論重點探討了 AI 和放射組學如何轉變甲狀腺癌的診斷和治療。儘管存在挑戰，未來關於多學科合作、臨床應用驗證和演算法改進的研究仍有潛力改善甲狀腺癌治療中的患者預後和診斷精準度。
+摘要：甲狀腺癌是一種日益嚴重的全球健康問題，需要進階的診斷方法。本篇綜述探討了人工智慧和放射組學在甲狀腺癌診斷中的應用。在符合 PRISMA 指南的情況下，我們回顧了多個資料庫，時間截至 2023 年 10 月。結合多個關鍵字，我們發現了一篇關於甲狀腺癌和相關主題的英文學術論文。在移除 109 篇重複論文後，原始搜尋回傳了 267 篇論文。根據預先確定的標準，我們在檢視了 124 篇論文的摘要和標題後，選出了相關的研究。在綜合分析後，我們排除了另外六篇研究。在納入的 28 篇研究中，結合超音波 (US) 影像的放射組學分析證實了其在診斷甲狀腺癌方面的有效性。我們注意到各種結果，其中一些研究提出了優於現狀的新策略。文獻強調了人工智慧模型面臨的各種挑戰，包括可解釋性問題、資料集限制和操作員依賴性。納入的 28 篇研究的綜合發現提到，需要標準化工作和前瞻性多中心研究來解決這些問題。此外，我們找出克服這些障礙的方法，例如可解釋人工智慧技術和個人化醫療技術的進展。本綜述重點探討人工智慧和放射組學如何轉變甲狀腺癌的診斷和治療。儘管有挑戰，未來針對多學科合作、臨床適用性驗證和演算法改進的研究，有潛力改善甲狀腺癌治療的患者預後和診斷精準度。
 
 ##### **Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**
 2404.04686v1 by Taminul Islam,Md. Alif Sheakh,Mst. Sazia Tahosin,Most. Hasna Hena,Shopnil Akash,Yousef A. Bin Jardan,Gezahign Fentahun Wondmie,Hiba-Allah Nafidi,Mohammed Bourhia
@@ -279,7 +279,7 @@ classified the data, as well as contrasted with other literature in this field.
 After final evaluation, this study found that XGBoost achieved the best model
 accuracy, which is 97%.
 
-摘要：近年來，乳癌盛行率快速上升，使其成為全球主要的死亡原因之一。在所有癌症中，它是迄今最常見的。手動診斷此疾病需要大量時間和專業知識。由於乳癌的檢測過程耗時，因此透過建立機器預測，可以協助預防其進一步擴散。機器學習和可解釋 AI 在分類中至關重要，因為它們不僅提供準確的預測，還能提供模型如何做出決策的見解，有助於理解和信任分類結果。在本研究中，我們評估並比較了五種不同機器學習方法的分類準確度、精確度、召回率和 F-1 分數，使用了一個主要資料集（達卡醫學院醫院的 500 名患者）。已經使用了五種不同的監督式機器學習技術，包括決策樹、隨機森林、邏輯迴歸、樸素貝氏和 XGBoost，以在我們的資料集上取得最佳結果。此外，本研究將 SHAP 分析應用於 XGBoost 模型，以解釋模型的預測並了解每個特徵對模型輸出的影響。我們比較了幾種演算法對資料進行分類的準確度，並與本領域的其他文獻進行對比。經過最終評估，本研究發現 XGBoost 達到了最佳模型準確度，為 97%。
+摘要：近年來，乳癌的發生率迅速上升，成為全球主要的死亡原因之一。在所有癌症中，乳癌的發生率遠遠高於其他癌症。手動診斷此疾病需要大量時間和專業知識。由於乳癌的檢測過程耗時，因此透過建立機器學習預測模型，可以協助防止乳癌進一步擴散。機器學習和可解釋 AI 在分類中至關重要，因為它們不僅提供準確的預測，還能深入了解模型如何做出決策，有助於理解和信任分類結果。在本研究中，我們評估並比較了五種不同的機器學習方法的分類準確度、精確度、召回率和 F-1 分數，並使用了一個主要資料集（來自達卡醫學院醫院的 500 名患者）。我們使用了五種不同的監督式機器學習技術，包括決策樹、隨機森林、邏輯迴歸、樸素貝氏和 XGBoost，以在我們的資料集上取得最佳結果。此外，本研究將 SHAP 分析應用於 XGBoost 模型，以解釋模型的預測並了解每個特徵對模型輸出的影響。我們比較了幾種演算法對資料進行分類的準確度，並與該領域的其他文獻進行對比。經過最終評估，本研究發現 XGBoost 達到了最佳模型準確度，為 97%。
 
 ##### **Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**
 2404.03892v3 by Maryam Ahmed,Tooba Bibi,Rizwan Ahmed Khan,Sidra Nasir
@@ -308,7 +308,7 @@ well beyond the current methodologies. It encourages further research into how
 to combine multimodal data and improve AI explanations to meet the needs of
 clinical practice.
 
-摘要：深度學習 (DL) 用於從乳房攝影影像診斷乳癌的模型通常作為「黑盒子」運作，這讓醫療保健專業人員難以信任並了解其決策過程。本研究提出一個整合架構，結合卷積神經網路 (CNN) 和可解釋人工智慧 (XAI)，以使用 CBIS-DDSM 資料集增強乳癌的診斷。該方法包含一個精細的資料前處理管線和進階資料擴充技術，以解決資料集限制，並使用預先訓練的網路（例如 VGG-16、Inception-V3 和 ResNet）進行遷移學習。我們研究的重點是評估 XAI 在詮釋模型預測的有效性，重點在於利用 Hausdorff 量測來評估 AI 生成的解釋和專家註解之間的對齊程度。這種方法對於 XAI 在促進 AI 輔助診斷中的可信度和倫理公平性至關重要。我們研究的結果說明了 CNN 和 XAI 在推進乳癌診斷方法方面的有效合作，從而促進先進 AI 技術在臨床環境中的更順暢整合。透過增強 AI 驅動決策的可解釋性，這項工作為 AI 系統和醫療從業人員之間的改善合作奠定了基礎，最終豐富了患者照護。此外，我們研究的影響遠遠超出了目前的技術。它鼓勵進一步研究如何結合多模式資料並改善 AI 解釋，以滿足臨床實務的需求。
+摘要：用於從乳房 X 光影像診斷乳癌的深度學習 (DL) 模型通常以「黑盒子」的方式運作，這讓醫療保健專業人員難以信任和理解他們的決策過程。本研究提出一個整合框架，結合卷積神經網路 (CNN) 和可解釋人工智慧 (XAI)，以增強使用 CBIS-DDSM 資料集診斷乳癌的方式。此方法包含一個精細的資料前處理管線和進階資料擴充技術，以對抗資料集的限制，並採用使用預先訓練網路（例如 VGG-16、Inception-V3 和 ResNet）的遷移學習。本研究的重點在於評估 XAI 在解釋模型預測方面的效能，強調利用豪斯多夫測度量化評估 AI 生成的解釋和專家註解之間的一致性。此方法對於 XAI 在促進 AI 輔助診斷中的可信度和倫理公平性至關重要。我們研究的發現說明了 CNN 和 XAI 在推進乳癌診斷方法方面的有效協作，從而促進先進 AI 技術在臨床環境中的更順暢整合。透過增強 AI 驅動決策的可解釋性，這項工作為 AI 系統和醫療從業人員之間的更佳協作奠定基礎，最終豐富了患者照護。此外，我們研究的影響遠遠超出了目前的這些方法。它鼓勵進一步研究如何結合多模式資料並改善 AI 解釋，以滿足臨床實務的需求。
 
 ##### **Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**
 2403.17873v1 by Andrea Ferrario,Alberto Termine,Alessandro Facchini
@@ -329,7 +329,7 @@ its designers and users. This addition aims to bridge the gap between LLM
 capabilities and user perceptions, promoting the ethically responsible
 development and use of LLM-based technology.
 
-摘要：以人為本的可解釋人工智慧 (HCXAI) 提倡將社會層面整合到人工智慧解釋中。HCXAI 論述的核心是社會透明度 (ST) 架構，其目標是讓使用者能夠存取人工智慧系統的社會組織脈絡。在這項工作中，我們建議擴充 ST 架構，以解決大型語言模型 (LLM) 中社會錯誤歸因的風險，特別是在心理健康等敏感領域。事實上，LLM 具有模擬角色和身分的驚人能力，可能會導致設計者的意圖與使用者對社會屬性的認知之間產生落差，進而導致情緒操縱和危險行為、認識不公正，以及不合理的信任。為了解決這些問題，我們建議使用第五個「W 問題」來強化 ST 架構，以釐清設計者和使用者賦予 LLM 的特定社會歸因。這個新增項目旨在彌合 LLM 能力和使用者認知之間的差距，促進基於 LLM 的技術在道德上負責任的開發和使用。
+摘要：以人为本的可解释人工智能 (HCXAI) 提倡将社会方面整合到人工智能解释中。HCXAI 话语的核心是社会透明度 (ST) 框架，旨在让用户能够了解人工智能系统的社会组织背景。在这项工作中，我们建议扩展 ST 框架，以解决大型语言模型 (LLM) 中社会错误归因的风险，尤其是在心理健康等敏感领域。事实上，LLM 具有模拟角色和人格的非凡能力，可能导致设计者的意图与用户对社会属性的认知出现错位，从而有引发情感操纵和危险行为、认知不公正和不合理信任的风险。为了解决这些问题，我们提议用第五个“W 问题”来增强 ST 框架，以明确设计师和用户赋予 LLM 的具体社会属性。这一补充旨在弥合 LLM 能力和用户认知之间的差距，促进基于 LLM 的技术的道德负责开发和使用。
 
 ##### **Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**
 2403.18871v1 by Han Yuan,Chuan Hong,Pengtao Jiang,Gangming Zhao,Nguyen Tuan Anh Tran,Xinxing Xu,Yet Yen Yan,Nan Liu
@@ -359,7 +359,7 @@ pneumothorax diagnoses, we proposed a template-guided approach for improving AI
 explanations. We anticipate that our template guidance will forge a fresh
 approach to elucidating AI models by integrating clinical domain expertise.
 
-摘要：<paragraph>背景：氣胸是一種急性胸腔疾病，是由肺部和胸壁之間異常的空氣集合所引起的。為了解決深度學習 (DL) 模型經常伴隨的不透明性，可解釋人工智慧 (XAI) 方法已被引入，用於概述與 DL 模型所做的氣胸診斷相關的區域。然而，這些解釋有時會與實際病灶區域不同，突顯了進一步改進的必要性。方法：我們提出了一種模板引導方法，將氣胸的臨床知識納入 XAI 方法產生的模型解釋中，從而提高這些解釋的品質。利用放射科醫師建立的病灶描繪，我們的做法首先產生一個模板，表示氣胸可能發生的區域。然後將此模板疊加在模型解釋上，以濾除超出模板邊界的無關解釋。為了驗證其效能，我們在兩個真實世界資料集中的兩個 DL 模型解釋中，對三種 XAI 方法在有和沒有我們的模板引導下的比較分析進行了比較。結果：所提出的方法在建立在三種 XAI 方法、兩個 DL 模型和兩個資料集上的十二個基準情境中，持續改善基線 XAI 方法。在比較模型解釋和真實病灶區域時，透過效能改善相對於基線效能計算出的平均增量百分比，在聯合交集 (IoU) 中為 97.8%，在 Dice 相似性係數 (DSC) 中為 94.1%。結論：在氣胸診斷的背景下，我們提出了一種模板引導方法，用於改善 AI 解釋。我們預期我們的模板引導將透過整合臨床領域專業知識，為闡明 AI 模型建立一種新的方法。</paragraph>
+摘要：<paragraph>背景：氣胸是一種急性胸腔疾病，是由肺部與胸壁之間異常的空氣聚集所造成。為了解決深度學習（DL）模型常有的不透明性，可解釋人工智慧（XAI）方法已被引入，以概述與 DL 模型所做的氣胸診斷相關的區域。然而，這些解釋有時會與實際病灶區域有所出入，突顯了進一步改進的必要性。方法：我們提出一個模板導向的方法，將氣胸的臨床知識納入 XAI 方法產生的模型解釋中，從而提高這些解釋的品質。利用放射科醫師建立的一個病灶描繪，我們的做法首先產生一個模板，代表氣胸可能發生的區域。然後將此模板疊加在模型解釋上，以篩選出超出模板邊界的無關解釋。為了驗證其效能，我們對三個 XAI 方法進行了比較分析，在解釋兩個真實世界資料集中的兩個 DL 模型時，有和沒有我們的模板指導。結果：所提出的方法在建立在三個 XAI 方法、兩個 DL 模型和兩個資料集上的十二個基準情境中，一致地改進了基線 XAI 方法。在比較模型解釋和真實病灶區域時，透過效能改進計算出的平均增量百分比，在交集並集（IoU）中為 97.8%，在 Dice 相似性系數（DSC）中為 94.1%。結論：在氣胸診斷的背景下，我們提出了一個模板導向的方法來改進 AI 解釋。我們預期我們的模板指導將透過整合臨床領域專長，為闡明 AI 模型建立一種新的方法。</paragraph>
 
 ##### **Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**
 2403.01580v1 by Séamus Lankford
@@ -392,9 +392,9 @@ language pairs: English$\leftrightarrow$Irish and
 English$\leftrightarrow$Marathi, compared to baselines from the LoResMT2021
 Shared Task.
 
-摘要：<paragraph>在當前的機器翻譯 (MT) 領域中，Transformer 架構脫穎而出，成為黃金標準，特別適用於資源豐富的語言配對。本研究深入探討其對資源匱乏語言配對的效能，包括英語↔愛爾蘭語和英語↔馬拉地語語言配對。值得注意的是，該研究識別出最佳超參數和子詞模型類型，以顯著提升 Transformer 模型在資源匱乏語言配對中的翻譯品質。
-對於資源匱乏的語言，平行資料集的稀缺性可能會阻礙 MT 的發展。為了解決這個問題，開發了 gaHealth，這是愛爾蘭語的第一個健康資料雙語語料庫。專注於健康領域，使用這個領域內資料集開發的模型在 BLEU 分數方面表現出非常顯著的進步，與 LoResMT2021 共享任務中的模型相比更是如此。隨後使用多維度品質指標錯誤分類法進行的人工評估顯示，與基於 RNN 的對應模型相比，Transformer 系統在減少準確性和流暢性錯誤方面的表現更為出色。
-此外，本論文介紹了 adaptNMT 和 adaptMLLM，這兩個開源應用程式專門用於開發、微調和部署神經機器翻譯模型。這些工具大幅簡化了設定和評估流程，讓開發人員和翻譯人員都能更輕鬆地使用 MT。值得注意的是，adaptNMT 以 OpenNMT 生態系統為基礎，透過強調模型開發的環境足跡，推廣環保的自然語言處理研究。adaptMLLM 對 MLLM 的微調證明了在兩個資源匱乏的語言配對（英語↔愛爾蘭語和英語↔馬拉地語）中翻譯效能的進步，與 LoResMT2021 共享任務中的基準相比更是如此。</paragraph>
+摘要：<paragraph>在當前的機器翻譯 (MT) 領域中，Transformer 架構是公認的黃金標準，特別適用於資源豐富的語言配對。本研究探討其對資源貧乏語言配對的效能，包括英語 ↔ 愛爾蘭語和英語 ↔ 馬拉提語語言配對。值得注意的是，本研究找出最佳超參數和子詞模型類型，以顯著提升 Transformer 模型對資源貧乏語言配對的翻譯品質。
+對於資源貧乏的語言，平行資料集的稀少性會阻礙 MT 的發展。為了解決這個問題，開發了 gaHealth，這是第一個愛爾蘭語的健康資料雙語語料庫。專注於健康領域，使用此領域內資料集開發的模型，與 LoResMT2021 共享任務中的模型相比，在 BLEU 分數上展現出非常顯著的進步。後續使用多維度品質指標錯誤分類法進行的人工評估，展示了 Transformer 系統在減少準確度和流暢度錯誤方面的優異效能，優於基於 RNN 的對應系統。
+此外，本論文介紹了 adaptNMT 和 adaptMLLM，這兩個開源應用程式專門用於開發、微調和部署神經機器翻譯模型。這些工具大幅簡化了設定和評估流程，讓開發人員和翻譯人員都能更輕鬆地使用 MT。值得注意的是，adaptNMT 以 OpenNMT 生態系統為基礎，透過強調模型開發的環境足跡，促進環保的自然語言處理研究。與 LoResMT2021 共享任務中的基準線相比，adaptMLLM 微調 MLLM，展現了英語 ↔ 愛爾蘭語和英語 ↔ 馬拉提語這兩個資源貧乏語言配對的翻譯效能進步。</paragraph>
 
 ##### **Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**
 2402.18600v1 by Yasin Sadeghi Bazargani,Majid Mirzaei,Navid Sobhi,Mirsaeed Abdollahi,Ali Jafarizadeh,Siamak Pedrammehr,Roohallah Alizadehsani,Ru San Tan,Sheikh Mohammed Shariful Islam,U. Rajendra Acharya
@@ -418,14 +418,8 @@ vis DM complication as well as risk prognostication of future cardiovascular
 complications, AI-assisted retinal image analysis has the potential to become a
 central tool for modern personalized medicine in patients with DM.
 
-摘要：糖尿病 (DM) 會讓患者容易產生血管併發症。
-視網膜影像和血管反映身體的微血管和巨血管健康狀況。
-它們可以用於診斷糖尿病併發症，包括糖尿病視網膜病變 (DR)、神經病變、腎病變和動脈粥樣硬化性心血管疾病，以及預測心血管事件的風險。
-使用數位化視網膜影像，專為高通量偵測 DR 而開發的人工智慧 (AI) 系統已在臨床上採用。
-除了 DR 篩檢之外，AI 整合也極具潛力，可以解決與糖尿病患者整體照護相關的挑戰。
-在這項工作中，我們旨在全面檢視有關 AI 應用於糖尿病診斷、預後和管理的視網膜影像研究文獻。
-我們將描述整體 AI 輔助糖尿病照護的發現，包括但不限於 DR 篩檢，並討論實施此類系統的障礙，包括與倫理、資料隱私、公平取得和可解釋性有關的問題。
-透過評估患者的健康狀況，以及預測未來心血管併發症的風險，AI 協助的視網膜影像分析有潛力成為糖尿病患者現代化個人化醫療的中心工具。
+摘要：糖尿病（DM）會導致患者產生血管併發症。
+視網膜影像和血管反映身體的微血管和巨血管健康狀況。它們可用於診斷糖尿病併發症，包括糖尿病視網膜病變（DR）、神經病變、腎病變和動脈粥樣硬化性心血管疾病，以及預測心血管事件的風險。為使用數位化視網膜影像進行高通量 DR 偵測而開發的人工智慧（AI）啟用系統已在臨床上採用。除了 DR 篩檢之外，AI 整合也有巨大的潛力來應對與糖尿病患者整體照護相關的挑戰。在這項工作中，我們旨在全面檢視有關基於視網膜影像的 AI 應用在糖尿病診斷、預後和管理方面的研究文獻。我們將描述整體 AI 輔助糖尿病照護的發現，包括但不限於 DR 篩檢，並討論實施此類系統的障礙，包括涉及倫理、資料隱私、公平取得和可解釋性的問題。透過評估患者的健康狀態，並針對未來的心血管併發症進行風險預後，AI 輔助視網膜影像分析有潛力成為糖尿病患者現代化個人化醫療的中心工具。
 
 ##### **Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**
 2402.15027v2 by A. J. Karran,P. Charland,J-T. Martineau,A. Ortiz de Guinea Lopez de Arana,AM. Lesage,S. Senecal,P-M. Leger
@@ -452,7 +446,7 @@ highlights that the acceptance of AI in education is a nuanced and multifaceted
 issue that requires careful consideration of specific AI applications and their
 characteristics, in addition to the diverse stakeholders' perceptions.
 
-摘要：本研究从多方利益相关者的角度调查了不同人工智能 (AI) 应用在教育中的可接受性，包括学生、教师和家长。承认人工智能在教育中的变革潜力，它解决了与数据隐私、人工智能代理、透明度、可解释性和人工智能的道德部署相关的问题。通过小插曲方法，向参与者展示了四种人工智能的代理、透明度、可解释性和隐私被操纵的场景。在每个场景之后，参与者完成了一项调查，调查捕捉了他们对人工智能的全球效用、个人效用、公正性、信心、风险以及在可用情况下使用每个场景的人工智能的意图的看法。收集的数据包括 1198 名多方利益相关者参与者的最终样本，通过合作伙伴机构和社交媒体活动进行分发，重点关注对四个人工智能用例的个人反应。对数据的调解分析表明，对人工智能的接受和信任在利益相关者群体之间差异很大。我们发现，人工智能的代理、透明度和可解释性的高低水平之间的关键中介因素，以及使用不同教育人工智能的意图，包括感知到的全球效用、公正性和信心。该研究强调，人工智能在教育中的接受是一个细致入微且多方面的议题，除了利益相关者的不同看法外，还需要仔细考虑具体的人工智能应用及其特征。
+摘要：本研究從多個利害關係者的角度調查了不同的人工智慧 (AI) 應用在教育中的可接受性，包括學生、教師和家長。承認 AI 在教育中的轉型潛力，它解決了與資料隱私、AI 代理、透明度、可解釋性和 AI 的道德部署相關的疑慮。透過小插曲方法，向參與者展示了四個場景，其中 AI 的代理、透明度、可解釋性和隱私受到操縱。在每個場景之後，參與者完成了一項調查，其中記錄了他們對 AI 的整體效用、個人效用、公正性、信心、風險以及在可用時使用每個場景的 AI 的意圖的看法。資料收集包括 1198 名多重利害關係者參與者的最終樣本，透過合作夥伴機構和社群媒體活動進行分發，並專注於對四個 AI 使用案例的個別回應。對資料的調解分析表明，對 AI 的接受度和信任在利害關係者群體之間存在顯著差異。我們發現，AI 代理、透明度和可解釋性的高低程度之間的主要調解因素，以及使用不同教育 AI 的意圖，包括感知到的整體效用、公正性和信心。該研究強調，AI 在教育中的接受度是一個微妙且多方面的問題，除了考慮不同的利害關係者的看法之外，還需要仔細考慮具體的 AI 應用及其特徵。
 
 ##### **Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**
 2402.09474v2 by Aruna Mohan,Danne Elbers,Or Zilbershot,Fatemeh Afghah,David Vorchheimer
@@ -478,7 +472,7 @@ importance of P-waves and T-waves, as well as heartbeat duration and signal
 amplitude, in distinguishing normal sinus rhythm from atrial fibrillation and
 sinus bradycardia.
 
-摘要：遠端病患監控基於可穿戴式單導程心電圖 (ECG) 裝置，對於早期偵測心臟疾病具有重大潛力，尤其與人工智慧 (AI) 方法結合進行自動化心臟疾病偵測時更是如此。過去已有研究應用基於深度學習的 AI 方法進行心臟疾病偵測。然而，這些模型尚未被廣泛接受為臨床診斷的可靠輔助工具，部分原因在於目前包圍許多 AI 演算法的黑箱感知。特別是，有必要找出 ECG 訊號中有助於做出準確診斷的關鍵特徵，進而提升模型的可解釋性。在本研究中，我們開發了一種視覺轉換器方法，以根據單導程 ECG 資料找出心房顫動。殘差網路 (ResNet) 方法也與視覺轉換器方法一起開發，以進行比較。這些模型應用於 Chapman-Shaoxing 資料集，以分類心房顫動，以及另一種常見心律不整：竇性心動過緩和正常竇性心律的心跳。這些模型能夠找出決定最終分類的心跳關鍵區域，並強調 P 波和 T 波，以及心跳持續時間和訊號振幅在區分正常竇性心律、心房顫動和竇性心動過緩中的重要性。
+摘要：遠端病患監測基於穿戴式單導程心電圖 (ECG) 裝置，對於早期偵測心臟疾病具有顯著的潛力，特別是搭配人工智慧 (AI) 方法進行自動化的心臟疾病偵測時。過去已有研究應用基於深度學習的 AI 方法進行心臟疾病偵測。然而，這些模型尚未廣泛被接受為臨床診斷的可靠輔助工具，部分原因是許多 AI 演算法目前仍是黑盒子。特別是，有必要找出有助於做出準確診斷的 ECG 訊號關鍵特徵，藉此提升模型的可解釋性。在本研究中，我們開發了一種視覺轉換器方法，根據單導程 ECG 資料辨識心房顫動。殘差網路 (ResNet) 方法也已開發出來，用於與視覺轉換器方法進行比較。這些模型應用於 Chapman-Shaoxing 資料集，以分類心房顫動，以及另一種常見的心律不整，竇性心動過緩，和正常竇性心律的心跳。這些模型能夠辨識決定最終分類的關鍵心跳區域，並強調 P 波和 T 波，以及心跳持續時間和訊號振幅，在區分正常竇性心律、心房顫動和竇性心動過緩中的重要性。
 
 ##### **Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**
 2402.05127v1 by Aryan Agrawal
@@ -502,7 +496,7 @@ established psychological methods, offering new possibilities in mental health
 care and showcasing the potential of LLMs in revolutionizing depression
 diagnosis and treatment strategies.
 
-摘要：本文介紹了一種用於憂鬱症偵測和治療的新穎範例，使用進階大型語言模型 (LLM)：生成式預訓練轉換器 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，具備專業提示，用於診斷、解釋和建議憂鬱症的治療介入措施。一種獨特的少量提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型從事同理心對話管理，利用 PsychDB 和認知行為療法 (CBT) 指南等資源，促進與經歷重度憂鬱症的個人的支持性互動。此外，這項研究引入了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個人化治療建議。該研究使用 F1 分數、準確度、召回率、餘弦相似性和面向召回率的 Gisting 評估替身 (ROUGE) 等指標評估 LLM 效能，在不同的測試集中證明了它們的有效性。這種綜合方法將尖端的 AI 與既定的心理方法相結合，在心理保健方面提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
+摘要：本文介紹了一個新的範例，用於憂鬱症的偵測和治療，使用進階的大語言模型 (LLM)：生成式預訓練變壓器 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，並使用專業提示來診斷、解釋和建議憂鬱症的治療干預措施。一種獨特的少量提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型進行同理對話管理，從 PsychDB 和認知行為療法 (CBT) 指南等資源中汲取，促進與經歷重度憂鬱症的個人進行支持性互動。此外，這項研究還介紹了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個人化治療建議。這項研究使用 F1 分數、精確度、召回率、餘弦相似性，以及用於評估摘要的召回導向的替身 (ROUGE) 等指標，在不同的測試集中評估 LLM 的效能，證明了它們的有效性。這種全面的方法將尖端的 AI 與既定的心理方法相結合，在心理保健方面提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
 
 ##### **Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**
 2401.13324v4 by Timothée Schmude,Laura Koesten,Torsten Möller,Sebastian Tschiatschek
@@ -530,7 +524,7 @@ relevant to them when deciding on the adoption of ADM systems. We close by
 summarizing our findings in a list of six key implications that inform the
 design of future explanations for affected stakeholder audiences.
 
-摘要：<paragraph>AI 系統的解釋很少能滿足受演算法決策 (ADM) 影響之人的資訊需求。傳達資訊與對受影響利害關係人而言重要的資訊之間的差距，可能會阻礙對 AI 法等法規架構的理解與遵守。為了解決這個差距，我們提出「XAI 新手問題庫」：受影響利害關係人資訊需求的目錄，涵蓋兩個 ADM 使用案例（就業預測和健康監控），包括資料、系統脈絡、系統使用和系統規格類別。在受訪者根據自己的詢問收到解釋的訪談研究中收集資訊需求。受訪者進一步報告他們的理解和決策信心，顯示雖然在收到解釋後信心傾向於增加，但受訪者也遇到了理解上的挑戰，例如無法說明為什麼他們的理解感覺不完整。解釋進一步影響了受訪者對系統風險和好處的認知，他們會根據使用案例確認或改變這些認知。當風險被認為很高時，受訪者表示特別有興趣了解意圖的解釋，例如系統為何以及為了什麼目的而建立。透過這項工作，我們旨在透過在受影響利害關係人決定採用 ADM 系統時提供相關資訊和挑戰的概觀，來支援將受影響利害關係人納入可解釋性。最後，我們總結我們的發現，列出六項關鍵影響，以作為未來針對受影響利害關係人受眾的解釋設計的資訊。</paragraph>
+摘要：<paragraph>人工智慧系統的說明很少會說明受演算法決策 (ADM) 影響之人的資訊需求。傳達資訊與受影響利害關係人重視的資訊之間的差距，可能會阻礙理解和遵守法規架構，例如 AI 法案。為了解決這個差距，我們提出了「XAI 新手問題庫」：受影響利害關係人資訊需求的目錄，包含兩個 ADM 使用案例（就業預測和健康監控），涵蓋資料、系統脈絡、系統使用和系統規格類別。資訊需求是在訪談研究中收集的，參與者在提出詢問後會收到說明。參與者進一步報告他們的理解和決策信心，顯示雖然在收到說明後信心往往會增加，但參與者也遇到了理解上的挑戰，例如無法說明為何他們覺得理解不完整。說明進一步影響參與者對系統風險和好處的看法，他們會根據使用案例確認或更改這些看法。當風險被認為很高時，參與者表示特別有興趣了解意圖的說明，例如系統為何以及為了什麼目的而建立。透過這項工作，我們旨在透過提供資訊和挑戰的概觀，在受影響的利害關係人決定採用 ADM 系統時，協助將他們納入可解釋性。我們最後會總結我們的發現，列出六項關鍵影響，為未來針對受影響的利害關係人受眾的說明設計提供資訊。</paragraph>
 
 ##### **Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**
 2401.02985v1 by Vahid Ashrafimoghari,Necdet Gürkan,Jordan W. Suchow
@@ -560,7 +554,7 @@ an educational environment where AI supports human expertise. This research
 sets the stage for further exploration into the responsible use of AI to enrich
 educational experiences and improve exam preparation and assessment methods.
 
-摘要：<paragraph>人工智能 (AI) 的快速演進，特別是在大型語言模型 (LLM) 和生成式 AI 領域，為各個領域的應用開啟了新途徑，但其在商管教育中的角色仍未被充分探討。本研究首次引入了評量七大 LLM 效能的基準，包括 OpenAI 的模型 (GPT-3.5 Turbo、GPT-4 和 GPT-4 Turbo)、Google 的模型 (PaLM 2、Gemini 1.0 Pro) 和 Anthropic 的模型 (Claude 2 和 Claude 2.1)，評量標準為 GMAT，這是研究所商管課程入學考試中的關鍵考試。我們的分析顯示，大多數 LLM 的表現都優於人類考生，其中 GPT-4 Turbo 不僅優於其他模型，更超越了頂尖商學院的研究生平均分數。本研究透過個案探討，探討 GPT-4 Turbo 解釋答案、評量回應、找出錯誤、客製化說明和產生備選情境的的能力。與前代版本相比，最新的 LLM 版本 GPT-4 Turbo、Claude 2.1 和 Gemini 1.0 Pro 在推理任務方面有顯著進步，突顯了它們在複雜問題解決方面的潛力。儘管 AI 在教育、評量和輔導方面的前景明確，但仍存在挑戰。我們的研究不僅闡明了 LLM 的學術潛力，也強調了在教育中謹慎開發和應用 AI 的必要性。隨著 AI 技術的進步，建立 AI 互動的架構和協定、驗證 AI 生成的內容的準確性、確保全球各地不同學習者的使用權，以及創造一個 AI 支持人類專業知識的教育環境至關重要。本研究為進一步探討負責任地使用 AI 以豐富教育體驗並改善考試準備和評量方法奠定了基礎。</paragraph>
+摘要：人工智慧（AI）的快速演進，特別是在大型語言模型（LLM）和生成式 AI 的領域，為各種領域的應用開啟了新的途徑，但其在商業教育中的角色仍未受到充分探討。本研究首次引入了基準，以評估七個主要 LLM 的效能，包括 OpenAI 的模型（GPT-3.5 Turbo、GPT-4 和 GPT-4 Turbo）、Google 的模型（PaLM 2、Gemini 1.0 Pro）和 Anthropic 的模型（Claude 2 和 Claude 2.1），於 GMAT 上，這是研究生商業課程入學考試中的關鍵考試。我們的分析顯示，大多數 LLM 的表現都優於人類考生，其中 GPT-4 Turbo 不僅優於其他模型，更超越了頂尖商學院的研究生的平均分數。透過案例研究，本研究探討了 GPT-4 Turbo 解釋答案、評估回應、找出錯誤、調整指示和產生替代情境的的能力。最新的 LLM 版本，GPT-4 Turbo、Claude 2.1 和 Gemini 1.0 Pro，在推理任務方面顯示出比其前身顯著的進步，突顯了它們在複雜問題解決方面的潛力。雖然 AI 在教育、評量和輔導方面的承諾很明確，但挑戰依然存在。我們的研究不僅闡明了 LLM 的學術潛力，也強調了在教育中謹慎開發和應用 AI 的必要性。隨著 AI 技術的進步，建立 AI 互動的架構和協定、驗證 AI 生成的內容的準確性、確保全球多元學習者的存取權，以及創造一個 AI 支援人類專業知識的教育環境至關重要。本研究為進一步探討負責任地使用 AI 來豐富教育體驗和改善考試準備和評量方法奠定了基礎。
 
 ##### **XAI for In-hospital Mortality Prediction via Multimodal ICU Data**
 2312.17624v1 by Xingqiao Li,Jindong Gu,Zhiyong Wang,Yancheng Yuan,Bo Du,Fengxiang He
@@ -584,7 +578,7 @@ reasonable interpretation with competitive prediction accuracy. In particular,
 our framework can be easily transferred to other clinical tasks, which
 facilitates the discovery of crucial factors in healthcare research.
 
-摘要：<paragraph>預測加護病房 (ICU) 病患的院內死亡率對於最終的臨床結果至關重要。人工智慧 (AI) 已展現出優異的準確性，但缺乏可解釋性。為了解決這個問題，本文提出可解釋的多模態死亡率預測器 (X-MMP)，藉由多模態 ICU 資料提供高效且可解釋的 AI 解決方案來預測院內死亡率。我們在架構中採用多模態學習，可以接收來自臨床資料的異質輸入並做出決策。此外，我們引入一種可解釋的方法，即層級傳播到 Transformer，作為 LRP 方法到 Transformer 的適當延伸，針對多模態輸入產生解釋，並揭示歸因於預測的顯著特徵。此外，可以視覺化每個模態對臨床結果的貢獻，協助臨床醫師了解決策背後的推理。我們根據 MIMIC-III 和 MIMIC-III 波形資料庫匹配子集建構多模態資料集。基準資料集上的全面實驗證明，我們提出的架構可以實現合理的解釋，並具有競爭力的預測準確度。特別是，我們的架構可以輕鬆轉移到其他臨床任務，這有助於發現醫療保健研究中的關鍵因素。</paragraph>
+摘要：預測加護病房 (ICU) 病患的院內死亡率是最終臨床結果的關鍵。AI 已展現出優異的準確性，但缺乏可解釋性。為了解決這個問題，本文提出了一個可解釋的多模式死亡預測器 (X-MMP)，透過多模式 ICU 資料，提供一個有效且可解釋的 AI 解決方案來預測院內死亡率。我們在架構中採用多模式學習，它可以接收來自臨床資料的異質輸入並做出決策。此外，我們引入了一個可解釋的方法，即層級傳播到 Transformer，作為 LRP 方法到 Transformer 的適當延伸，針對多模式輸入產生解釋，並揭露歸因於預測的顯著特徵。此外，可以視覺化每個模式對臨床結果的貢獻，協助臨床醫生了解決策背後的推理。我們根據 MIMIC-III 和 MIMIC-III 波形資料庫匹配子集構建了一個多模式資料集。在基準資料集上的全面實驗證明，我們提出的架構可以實現合理的解釋，並具有競爭力的預測準確性。特別是，我們的架構可以輕鬆轉移到其他臨床任務，這有助於發現醫療保健研究中的關鍵因素。
 
 ##### **Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**
 2401.09450v2 by Norman Zerbe,Lars Ole Schwen,Christian Geißler,Katja Wiesemann,Tom Bisson,Peter Boor,Rita Carvalho,Michael Franz,Christoph Jansen,Tim-Rasmus Kiehl,Björn Lindequist,Nora Charlotte Pohlan,Sarah Schmell,Klaus Strohmenger,Falk Zakrzewski,Markus Plass,Michael Takla,Tobias Küster,André Homeyer,Peter Hufnagl
@@ -614,7 +608,7 @@ sustainable infrastructure, the non-profit association EMPAIA International,
 has been established to continue standardization and support broad
 implementation and advocacy for an AI-assisted digital pathology future.
 
-摘要：<paragraph>在過去十年中，病理學中的人工智慧 (AI) 方法已大幅進步。然而，由於將研究結果轉化為臨床診斷產品的技術和法規障礙，以及缺乏標準化介面，導致整合到常規臨床實務的進度緩慢。開放且與供應商無關的 EMPAIA 計畫應對了這些挑戰。在此，我們概述了 EMPAIA 的成就和經驗教訓。EMPAIA 整合了病理學 AI 生態系統的各種利害關係人，即病理學家、電腦科學家和產業。在密切合作下，我們制定了技術互通性標準、AI 測試和產品開發建議，以及可解釋性方法。我們實作了模組化且開放原始碼的 EMPAIA 平臺，並成功整合了來自 8 家不同供應商的 14 個基於 AI 的影像分析應用程式，展示了不同的應用程式如何使用單一的標準化介面。我們優先考慮需求，並評估在歐洲和亞洲的 14 個不同的病理實驗室中使用 AI 的情況。除了技術開發外，我們還為所有利害關係人建立了一個論壇，以分享數位病理學和 AI 的資訊和經驗。商業、臨床和學術利害關係人現在可以採用 EMPAIA 的通用開放原始碼介面，為大規模標準化和簡化流程提供了獨特的機會。需要進一步的努力才能有效且廣泛地在常規實驗室使用中建立 AI 輔助。為此，已成立了一個永續基礎設施，即非營利協會 EMPAIA International，以繼續標準化並支援廣泛實作和倡導 AI 輔助數位病理學的未來。</paragraph>
+摘要：在過去十年中，病理學中的人工智慧 (AI) 方法已大幅進展。然而，由於將研究成果轉化為臨床診斷產品的技術和法規障礙，以及缺乏標準化介面，整合到常規臨床實務中進展緩慢。開放且與供應商無關的 EMPAIA 計畫解決了這些挑戰。在此，我們概述了 EMPAIA 的成就和經驗教訓。EMPAIA 整合了病理 AI 生態系統的各個利益相關者，即病理學家、電腦科學家和產業。在緊密合作下，我們制定了技術互操作性標準、AI 測試和產品開發建議，以及可解釋性方法。我們實施了模組化和開源的 EMPAIA 平臺，並成功整合了來自 8 家不同供應商的 14 個基於 AI 的影像分析應用程式，展示了不同應用程式如何使用單一標準化介面。我們優先考慮需求，並在歐洲和亞洲的 14 個不同的病理實驗室中評估了 AI 在實際臨床環境中的使用。除了技術開發外，我們還為所有利益相關者建立了一個論壇，以分享數位病理學和 AI 的資訊和經驗。商業、臨床和學術利益相關者現在可以採用 EMPAIA 的通用開源介面，為大規模標準化和流程簡化提供了獨特的機會。需要進一步的努力，才能有效且廣泛地在常規實驗室使用中建立 AI 輔助。為此，已成立非營利協會 EMPAIA International，作為一個永續基礎架構，以持續標準化，並支援廣泛實施和倡導 AI 輔助的數位病理學未來。
 
 ##### **Robust Stochastic Graph Generator for Counterfactual Explanations**
 2312.11747v2 by Mario Alfonso Prado-Romero,Bardh Prenkaj,Giovanni Stilo
@@ -638,7 +632,7 @@ undertake quantitative and qualitative analyses to compare RSGG-CE's
 performance against SoA generative explainers, highlighting its increased
 ability to engendering plausible counterfactual candidates.
 
-摘要：反事實解釋 (CE) 技術作為一種提供洞察力以使用 AI 系統的使用者的手段而備受關注。雖然在醫學影像和自動駕駛車輛等領域廣泛研究，但圖形反事實解釋 (GCE) 方法相對較少被探討。GCE 產生一個與原始圖形相似的圖形，其不同的結果基於底層預測模型。在這些 GCE 技術中，儘管在其他領域（例如藝術風格和自然語言建模）中展示了令人印象深刻的成就，但植根於生成機制的 GCE 受到的調查相對有限。生成解釋器的偏好源於它們在推理過程中生成反事實例項的能力，利用輸入圖形的自主獲取的擾動。受上述原理的啟發，我們的研究引入了 RSGG-CE，這是一種用於反事實解釋的新型穩健隨機圖形生成器，能夠從學習的潛在空間中產生反事實範例，考慮部分有序的生成序列。此外，我們進行定量和定性分析以比較 RSGG-CE 的效能與 SoA 生成解釋器，強調其產生合理解釋反事實候選項的能力提高。
+摘要：反事實解釋 (CE) 技術引起了人們的注意，作為向與 AI 系統互動的使用者提供見解的方法。儘管在醫學影像和自動駕駛等領域廣泛研究，但圖形反事實解釋 (GCE) 方法相對而言尚未得到充分探索。GCE 生成一個與原始圖形相似的圖形，其不同的結果基於底層預測模型。在這些 GCE 技術中，儘管在其他領域（例如藝術風格和自然語言建模）中展示了令人印象深刻的成就，但那些植根於生成機制的技術卻受到了相對有限的調查。生成解釋器的偏好源於它們在推理過程中生成反事實例子的能力，利用輸入圖形的自主獲取的擾動。出於上述理由，我們的研究引入了 RSGG-CE，這是一種用於反事實解釋的新型 Robust Stochastic Graph Generator，能夠從學習到的潛在空間中生成反事實範例，考慮部分有序的生成序列。此外，我們進行定量和定性分析，以比較 RSGG-CE 與 SoA 生成解釋器的效能，強調其產生合理解釋候選的能力有所提升。
 
 ##### **Evaluating the Utility of Model Explanations for Model Development**
 2312.06032v1 by Shawn Im,Jacob Andreas,Yilun Zhou
@@ -662,7 +656,7 @@ help users more accurately describe the models. These findings suggest caution
 regarding the usefulness and potential for misunderstanding in saliency-based
 explanations.
 
-摘要：可解釋 AI 的動機之一是讓人類在使用和部署 AI 模型時，能夠做出更好且更明智的決策。但需要仔細評估以評估此預期是否已實現。目前的評估主要集中在解釋的演算法特性，而涉及人類受試者的評估通常使用主觀問題來測試人類對解釋有用性的看法，而沒有依據客觀指標和測量。在這項工作中，我們評估了解釋是否可以在機器學習模型開發的實際場景中改善人類決策。我們進行了一項涉及影像資料的混合方法使用者研究，以評估 SmoothGrad、GradCAM 和預言解釋在兩個任務中產生的顯著性圖：模型選擇和反事實模擬。令我們驚訝的是，我們沒有發現當使用者獲得任何顯著性圖時，這些任務有顯著改善的證據，即使是設計為易於理解且高度指示答案的合成預言解釋也是如此。儘管如此，解釋確實有助於使用者更準確地描述模型。這些發現表明對於基於顯著性的解釋的用處和誤解的可能性，需要謹慎。
+摘要：可解釋 AI 的其中一個動機是讓人們在使用和部署 AI 模型時，可以做出更好、更明智的決策。但需要仔細評估，才能評估這個期望是否已實現。目前的評估主要集中在解釋的演算法屬性，而那些涉及人類受試者的評估，通常會使用主觀問題來測試人類對解釋效用的感知，而沒有依據客觀的指標和測量。在這項工作中，我們評估了解釋是否能改善人類在機器學習模型開發的實際情境中做決策的能力。我們進行了一項涉及影像資料的混合方法使用者研究，以評估 SmoothGrad、GradCAM 和一個預言解釋所產生的顯著性圖，並針對兩個任務進行評估：模型選擇和反事實模擬。令人驚訝的是，我們沒有發現任何證據顯示，在向使用者提供任何顯著性圖（即使是設計為易於理解且極具指示性的合成預言解釋）時，這些任務有顯著的改善。儘管如此，解釋確實有助於使用者更準確地描述模型。這些發現顯示出，對於基於顯著性的解釋的效用和潛在誤解，需要保持謹慎。
 
 ##### **Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**
 2312.06798v1 by Manas Gaur,Amit Sheth
@@ -688,7 +682,7 @@ CREST presents a plausible approach harnessing procedural and graph-based
 knowledge within a NeuroSymbolic framework to shed light on the challenges
 associated with LLMs.
 
-摘要：可解釋性和安全性產生信任。這些需要一個模型來展現一致性和可靠性。為達成這些，必須使用和分析資料和知識，搭配與 AI 應用相關的統計和符號式 AI 方法，單獨一種方法都做不到。因此，我們論證並試圖證明神經符號 AI 方法更適合於讓 AI 成為值得信賴的 AI 系統。我們提出 CREST 架構，展示一致性、可靠性、使用者層級的可解釋性和安全性如何建立在神經符號方法上，這些方法使用資料和知識來支援關鍵應用程式的需求，例如健康和福祉。本文著重於大型語言模型 (LLM) 作為 CREST 架構內所選擇的 AI 系統。LLM 由於在處理廣泛自然語言處理 (NLP) 情境時的多功能性而廣受研究人員關注。例如，ChatGPT 和 Google 的 MedPaLM 已成為提供一般和健康相關查詢資訊的極具潛力的平台。儘管如此，這些模型儘管納入了人類回饋和指導調整，仍然是黑盒子。例如，ChatGPT 儘管建立了安全防護措施，仍可能產生不安全的回應。CREST 提出了一種可行的途徑，在神經符號架構內利用程序和圖形知識，以闡明與 LLM 相關的挑戰。
+摘要：可解釋性和安全性產生信任。這些要求模型展現一致性和可靠性。要達成這些目標，必須使用和分析資料與知識，以及與 AI 應用相關的統計和符號 AI 方法，單獨使用任一種方法都不行。因此，我們主張並試圖證明神經符號 AI 方法更適合用於打造值得信賴的 AI 系統。我們提出 CREST 架構，說明一致性、可靠性、使用者層級的可解釋性，以及安全性如何建構於神經符號方法之上，而此方法使用資料和知識來支援關鍵應用程式的需求，例如健康和福祉。本文著重於大型語言模型 (LLM)，視其為 CREST 架構中選擇的 AI 系統。LLM 由於在處理廣泛自然語言處理 (NLP) 情境方面具有多功能性，因此獲得研究人員的高度關注。例如，ChatGPT 和 Google 的 MedPaLM 已成為提供一般和健康相關查詢資訊的高度有前途的平台。儘管如此，這些模型仍為黑盒子，儘管已納入人為回饋和指示引導的調整。例如，儘管已建立安全防護措施，但 ChatGPT 仍可能產生不安全的回應。CREST 提出了一種可行的途徑，在神經符號架構中運用程序和圖形知識，以闡明與 LLM 相關的挑戰。
 
 ##### **Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**
 2311.17133v1 by Jacob R. Epifano,Stephen Glass,Ravi P. Ramachandran,Sharad Patel,Aaron J. Masino,Ghulam Rasool
@@ -712,7 +706,7 @@ addressing unique challenges and complexities in healthcare settings,
 researchers can develop AI models that effectively improve clinical practice
 and patient outcomes.
 
-摘要：本研究調查了已部署人工智慧 (AI) 模型在預測 COVID-19 大流行期間及之後死亡率方面的效能、可解釋性和穩健性。作為同類研究中的首例，我們發現貝氏神經網路 (BNN) 和智慧型訓練技術讓我們的模型即使在資料大幅變動的情況下也能維持效能。我們的結果強調了開發穩健 AI 模型的重要性，即使在具挑戰性的條件下，這些模型也能夠達到或超越臨床醫師的預測。我們對模型可解釋性的探討揭示隨機模型會產生更多元且個人化的解釋，因此突顯了 AI 模型在真實世界的臨床環境中提供詳細且個別見解的必要性。此外，我們強調量化 AI 模型中不確定性的重要性，這能讓臨床醫師根據可靠的預測做出更明智的決策。我們的研究主張在 AI 醫療保健研究中優先實施科學，並確保 AI 解決方案在真實世界的臨床環境中實用、有益且永續。透過解決醫療保健環境中獨特的挑戰和複雜性，研究人員可以開發出能有效改善臨床實務和患者預後的 AI 模型。
+摘要：本研究調查了已部署的人工智慧 (AI) 模型在預測 COVID-19 大流行期間及之後的死亡率方面的效能、可解釋性和穩健性。作為同類研究中的首例，我們發現貝氏神經網路 (BNN) 和智慧訓練技術讓我們的模型在資料大幅變動的情況下仍能維持效能。我們的結果強調了開發穩健 AI 模型的重要性，即使在具有挑戰性的條件下，這些模型也能夠匹配或超越臨床醫師的預測。我們對模型可解釋性的探討顯示，隨機模型會產生更多元且個人化的解釋，因此突顯了 AI 模型在現實世界的臨床環境中提供詳細且個人化見解的必要性。此外，我們強調了量化 AI 模型中不確定性的重要性，這使臨床醫師能夠根據可靠的預測做出更明智的決策。我們的研究主張在醫療保健的 AI 研究中優先實施科學，並確保 AI 解決方案在現實世界的臨床環境中切實可行、有益且永續。透過解決醫療保健環境中獨特的挑戰和複雜性，研究人員可以開發出有效改善臨床實務和患者預後的 AI 模型。
 
 ##### **Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**
 2311.15719v1 by Benjamin Keel,Aaron Quyn,David Jayne,Samuel D. Relton
@@ -738,7 +732,7 @@ space with disentangled feature representation. Finally, we demonstrate the
 potential for latent space traversals corresponding to clinically meaningful
 feature changes.
 
-摘要：肺癌占英國癌症死亡人數的 21%，五年存活率很大程度取決於發現癌症的階段。最近的研究已證明 AI 方法具有從例行掃描中準確及早診斷肺癌的能力。然而，此證據尚未轉化為臨床實務，其中一項障礙是缺乏可解釋的模型。本研究探討將變異自動編碼器 (VAE)（一種生成式 AI 模型）應用於肺癌病灶。提出的模型在從 LIDC-IDRI 公共資料集中的 3D 電腦斷層掃描中提取的病灶上進行訓練。通過分群探討 VAE 產生的 2D 切片的潛在向量表示，以證明其品質，並用於肺癌診斷的 MLP 分類器模型，最佳模型達到了 AUC 0.98 和 93.1% 精確度的最先進指標。分群分析顯示，VAE 潛在空間根據有意義的特徵成分（包括腫瘤大小、形狀、患者和惡性類別）將惡性和良性病灶的資料集分開。我們還包括標準高斯 VAE (GVAE) 和較新的狄利克雷 VAE (DirVAE) 的比較分析，後者用狄利克雷分佈取代先驗，以促進更具可解釋性的潛在空間，並具有分離的特徵表示。最後，我們展示了與臨床有意義的特徵變化相應的潛在空間橫越的潛力。
+摘要：肺癌在英國造成 21% 的癌症死亡，而五年存活率深受癌症發現的期別影響。最近的研究已證明 AI 方法有能力從例行掃描中準確早期診斷肺癌。然而，這些證據並未轉化為臨床實務，其中一項障礙是缺乏可解釋的模型。本研究探討將變異自動編碼器 (VAE) 這種生成式 AI 模型應用於肺癌病灶。建議的模型是根據從 LIDC-IDRI 公共資料集中提取的 3D 電腦斷層掃描病灶進行訓練。透過聚類探索 VAE 產生的 2D 切片的潛在向量表示，以證明其品質，並用於肺癌診斷的 MLP 分類器模型，最好的模型達到了 AUC 0.98 和 93.1% 精確度的最先進指標。聚類分析顯示，VAE 潛在空間根據有意義的特徵成分（包括腫瘤大小、形狀、患者和惡性類別）將惡性和良性病灶的資料集分開。我們還包括標準高斯 VAE (GVAE) 和較新的 Dirichlet VAE (DirVAE) 的比較分析，它以 Dirichlet 分布取代先驗，以鼓勵具有解開特徵表示的更具可解釋性的潛在空間。最後，我們展示了與臨床有意義的特徵變化相應的潛在空間橫越的潛力。
 
 ##### **MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**
 2311.14471v1 by Nathan Blake,Hana Chockler,David A. Kelly,Santiago Calderon Pena,Akchunya Chanchal
@@ -757,7 +751,7 @@ for explaining medical image classifications and present a detailed analysis of
 the reasons for their shortcomings. We also show that one black-box tool, a
 causal explainability-based rex, performs as well as \gradcam.
 
-摘要：現有的工具用於解釋影像分類器的輸出，可分為依賴存取模型內部的白盒，以及與模型無關的黑盒。隨著人工智慧在醫療領域的使用增加，可解釋性工具的使用也隨之增加。現有關於醫學影像解釋的工作重點在於白盒工具，例如 gradcam。然而，切換到黑盒工具有明顯的優點，包括能夠將其與任何分類器一起使用，以及廣泛選擇可用的黑盒工具。在標準影像上，黑盒工具與白盒一樣精確。在本文中，我們將幾個黑盒方法的效能與腦癌 MRI 資料集上的 gradcam 進行比較。我們證明了大多數黑盒工具不適合用於解釋醫學影像分類，並對其缺點原因進行詳細分析。我們還展示了一個黑盒工具，基於因果可解釋性的 rex，其效能與 \gradcam 一樣好。
+摘要：現有的影像分類器輸出解釋工具可分為依賴模型內部存取權限的白盒，以及與模型無關的黑盒。隨著人工智慧在醫療領域的使用增加，可解釋性工具的使用也隨之增加。現有的醫療影像解釋工作著重於白盒工具，例如 gradcam。然而，切換到黑盒工具有明顯的優點，包括可用於任何分類器，以及有廣泛的黑盒工具可供選擇。在標準影像上，黑盒工具與白盒一樣精確。在本文中，我們比較了幾種黑盒方法在腦癌 MRI 資料集上與 gradcam 的效能。我們證明了大多數的黑盒工具不適合解釋醫學影像分類，並對其缺點的原因進行詳細分析。我們也顯示了一個黑盒工具，一個基於因果可解釋性的 rex，其效能與 \gradcam 一樣好。
 
 ##### **Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**
 2311.12573v2 by Robert Gorwa,Michael Veale
@@ -778,7 +772,7 @@ policy development. While the policy challenge at hand is a considerable one,
 we conclude with some ideas as to how platforms could better mobilize resources
 to act as a careful, fair, and proportionate regulatory access point.
 
-摘要：AI 開發社群日益利用 Hugging Face 等託管中介機構，提供使用者上傳的模型和訓練資料的簡易存取。這些模型市集降低了數十萬使用者的技術部署門檻，但可能會被用於許多潛在有害和非法的方式。在本文中，我們說明 AI 系統既可以「包含」內容，也可以成為開放式工具，這兩種方式呈現了迄今為止最棘手的平台治理挑戰之一。我們提供了三個範例平台（Hugging Face、GitHub 和 Civitai）中幾個事件的案例研究，以探討模型市集如何審核模型。根據此分析，我們概述了產業為回應審核需求而發展的重要（但仍有限）實務：授權、存取和使用限制、自動化內容審核，以及開放政策發展。雖然當前的政策挑戰相當可觀，我們最後提出了一些想法，說明平台如何能更好地動員資源，作為謹慎、公平且適當的監管存取點。
+摘要：人工智慧開發社群愈來愈常利用 Hugging Face 等託管中介業者提供使用者上傳模型和訓練資料的簡易存取。這些模型市集降低了數十萬名使用者的技術部署門檻，但可能會被用於許多潛在有害和非法的方式。在本文中，我們說明人工智慧系統（既可以「包含」內容，也可以是開放式工具）提出迄今為止最棘手的平台治理挑戰的方式。我們提供 Hugging Face、GitHub 和 Civitai 等三個說明性平台上幾個事件的案例研究，以檢視模型市集如何審核模型。根據此分析，我們概述產業為回應審核需求而開發的重要（但仍有限）實務：授權、存取和使用限制、自動內容審核和開放政策發展。雖然當前的政策挑戰相當嚴峻，我們最後提出一些想法，說明平台如何能更好地動員資源，以作為謹慎、公平且適度的法規存取點。
 
 ##### **Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**
 2311.11932v1 by Muta Tah Hira,Mohammad A. Razzaque,Mosharraf Sarker
@@ -809,7 +803,7 @@ diverse data sets, highlighting the need for enhanced model validation, and -
 The inclusion of AIA in cancer data analysis is in a very early stage; only
 2.1% (2/96) explicitly addressed AIA through explainability.
 
-摘要：背景和目标：透過萃取這些資訊，機器或深度學習 (ML/DL) 為基礎的自主資料分析工具，可以協助臨床醫生和癌症研究人員，從複雜的資料集中發現模式和關聯性。最近已經發表許多基於 DL 的卵巢癌 (OC) 資料分析。這些分析在癌症的各個面向（例如，他們處理的子領域和癌症類型）和資料分析功能上，都非常多元。然而，目前對於這些分析在這些功能和 AI 保證 (AIA) 方面的全面理解，仍有欠缺。這個系統性回顧旨在透過檢視現有文獻，並找出使用 DL 進行 OC 資料分析的重要面向，特別專注於關鍵功能和 AI 保證觀點，來填補這個缺口。方法：使用 PRISMA 架構，在三個期刊資料庫中進行全面的搜尋。分析中僅納入 2015 年至 2023 年間發表於同行評審期刊的研究。結果：在回顧中，總共檢視了 96 項由 DL 驅動的分析。研究結果揭露了幾個關於由 DL 驅動的卵巢癌資料分析的重要見解：- 大多數研究 71%（96 項中有 68 項）專注於偵測和診斷，而沒有研究處理 OC 的預測和預防。- 這些分析主要基於來自非多元族群的樣本（75%（96 項研究中有 72 項）），侷限於某個地理位置或國家。- 只有少部分研究（僅 33%（96 項中有 32 項））執行整合分析，其中大多數使用同質性資料（臨床或組學）。- 值得注意的是，僅僅 8.3%（96 項中有 8 項）的研究使用外部和多元的資料集來驗證他們的模型，突顯了加強模型驗證的必要性，以及 - 將 AIA 納入癌症資料分析仍處於非常早期的階段；只有 2.1%（96 項中有 2 項）透過可解釋性明確地處理 AIA。
+摘要：<paragraph>背景與目標：藉由萃取這些資訊，機器或深度學習 (ML/DL) 基礎的自動化資料分析工具，可協助臨床醫師和癌症研究人員從複雜的資料集中發現模式和關係。許多基於深度學習的卵巢癌 (OC) 資料分析近期已發表。這些分析在癌症的各個面向（例如，他們探討的子領域和癌症類型）和資料分析功能上，有著極大的差異。然而，目前對於這些分析在這些功能和人工智慧保證 (AIA) 方面的全面性理解仍有不足。這篇系統性回顧旨在透過檢視現有文獻，並明確聚焦於關鍵功能和人工智慧保證觀點，來填補這個缺口。方法：使用 PRISMA 架構在三個期刊資料庫中進行全面的搜尋。分析僅包含 2015 年至 2023 年間發表於同行評閱期刊的研究。結果：在回顧中，總共檢視了 96 篇由深度學習驅動的分析。研究結果揭露了幾個關於由深度學習驅動的卵巢癌資料分析的重要見解：- 大多數研究 71%（96 篇中有 68 篇）專注於偵測和診斷，而沒有研究探討 OC 的預測和預防。- 這些分析主要基於來自非多元族群的樣本（75%（96 篇研究中有 72 篇）），限於特定地理位置或國家。- 僅有少數研究（僅 33%（96 篇中有 32 篇））執行整合分析，其中大多數使用同質性資料（臨床或組學）。- 值得注意的是，僅有 8.3%（96 篇中有 8 篇）的研究使用外部和多元的資料集驗證其模型，突顯了加強模型驗證的需求，且 - 將 AIA 納入癌症資料分析仍處於非常早期的階段；僅有 2.1%（96 篇中有 2 篇）透過可解釋性明確探討 AIA。</paragraph>
 
 ##### **Representing visual classification as a linear combination of words**
 2311.10933v1 by Shobhit Agarwal,Yevgeniy R. Semenov,William Lotter
@@ -838,7 +832,7 @@ specialized medical task at a non-trivial level. Altogether, our results
 emphasize the potential of using multimodal foundational models to deliver
 intuitive, language-based explanations of visual tasks.
 
-摘要：<paragraph>可解釋性是深度學習中一個長期的挑戰，尤其是在醫療保健等高風險領域。常見的可解釋性方法會突顯驅動 AI 模型決策的影像區域。然而，人類在傳達解釋時，不僅依賴「何處」，更依賴語言來傳達「為何」。此外，大多數可解釋性方法專注於解釋個別 AI 預測，而不是描述 AI 模型一般使用的特徵。後者對於模型和資料集稽核特別有用，甚至可能在 AI  zuneh使用於新任務時產生知識。在此，我們提出一個可解釋性策略，該策略使用視覺語言模型來識別視覺分類任務的基於語言的描述符。透過利用影像和文字之間的預先訓練聯合嵌入空間，我們的做法將新的分類任務估計為一個線性文字組合，導致每個文字都有個權重，表示其與基於視覺的分類器的一致性。我們使用兩個醫學影像分類任務評估我們的做法，結果發現，儘管缺乏特定領域的語言訓練，但產生的描述符在很大程度上與臨床知識一致。然而，我們的做法也發現了所用公共資料集中的「捷徑連線」的可能性。為了獲得可解釋性的功能測量，我們進行了一項試驗讀者研究，發現 AI 識別的文字可以讓非專家人類在非平凡的層級上執行專業醫學任務。總之，我們的結果強調了使用多模態基礎模型來提供直覺式、基於語言的視覺任務解釋的潛力。</paragraph>
+摘要：<paragraph>可解釋性是深度學習中長久以來的挑戰，特別是在醫療保健等高風險領域。常見的可解釋性方法會強調驅動 AI 模型決策的影像區域。然而，人類高度依賴語言來傳達不僅僅是「在哪裡」，還有「是什麼」的解釋。此外，大多數可解釋性方法著重於解釋個別 AI 預測，而非描述 AI 模型一般使用的特徵。後者對於模型和資料集稽核特別有用，甚至可能在 AI 逐漸用於新任務時產生知識。在這裡，我們提出一個可解釋性策略，使用視覺語言模型來識別視覺分類任務的語言描述符。透過利用影像和文字之間的預先訓練聯合嵌入空間，我們的做法將新的分類任務估計為一個線性文字組合，產生每個文字的權重，表示其與基於視覺的分類器的對齊方式。我們使用兩個醫學影像分類任務評估我們的做法，我們發現產生的描述符在很大程度上與臨床知識一致，儘管缺乏特定領域的語言訓練。然而，我們的做法也發現了所用公共資料集中「捷徑連線」的可能性。為了達到可解釋性的功能性衡量標準，我們進行了一項試驗性讀者研究，發現 AI 識別的文字能讓非專家人類在非平凡的層級上執行專業的醫療任務。總之，我們的結果強調了使用多模態基礎模型來提供直觀的、基於語言的視覺任務解釋的可能性。</paragraph>
 
 ##### **Towards objective and systematic evaluation of bias in medical imaging AI**
 2311.02115v1 by Emma A. M. Stanley,Raissa Souza,Anthony Winder,Vedant Gulve,Kimberly Amador,Matthias Wilms,Nils D. Forkert
@@ -868,7 +862,7 @@ novel methodology to objectively study the impact of biases and mitigation
 strategies on deep learning pipelines, which can support the development of
 clinical AI that is robust and responsible.
 
-摘要：<paragraph>使用醫療影像訓練的用於臨床任務的人工智慧 (AI) 模型，常會以效能差異的形式在次群體中展現偏差。由於現實世界醫療影像資料中並非所有偏差來源都容易辨識，因此難以全面評估這些偏差如何編碼在模型中，以及偏差緩解方法在改善效能差異上的能力。在本文中，我們引入了一個新穎的分析架構，用於系統化且客觀地探討醫療影像中的偏差對 AI 模型的影響。我們開發並測試了這個架構，用於進行受控的電腦模擬試驗，以評估醫療影像 AI 的偏差，並使用一種工具來產生已知疾病影響和偏差來源的合成磁共振影像。透過使用三個反事實偏差情境來衡量模擬偏差效應對卷積神經網路 (CNN) 分類器和三個偏差緩解策略的效能的影響，展示了可行性。分析顯示，當 CNN 在合成資料集上訓練時，模擬偏差會導致預期的次群體效能差異。此外，重新加權被認為是針對此設定最成功的偏差緩解策略，我們示範了可解釋的 AI 方法如何協助使用此架構探討模型中偏差的表現。由於醫療影像資料集中可能存在許多且通常未知的偏差來源，因此開發公平的 AI 模型是一項重大的挑戰。在這項工作中，我們提出了一種新穎的方法，用於客觀地研究偏差和緩解策略對深度學習管線的影響，這有助於開發強健且負責任的臨床 AI。</paragraph>
+摘要：<paragraph>使用醫療影像訓練用於臨床任務的人工智慧 (AI) 模型，常會在不同子群體之間的效能差異中表現出偏見。由於並非所有實際醫療影像資料中的偏見來源都容易辨識，因此難以全面評估這些偏見如何在模型中編碼，以及偏見緩解方法在改善效能差異方面的能力。在本文中，我們介紹了一個創新的分析架構，用於系統且客觀地調查醫療影像中的偏見對 AI 模型的影響。我們開發並測試了這個架構，用於執行受控的電腦模擬試驗，以評估醫療影像 AI 中的偏見，方法是使用一個工具來生成具有已知疾病影響和偏見來源的合成磁共振影像。可行性透過使用三個反事實偏見情境來衡量模擬偏見效應對卷積神經網路 (CNN) 分類器的影響，以及三個偏見緩解策略的效能來展示。分析顯示，當 CNN 在合成資料集上訓練時，模擬偏見會導致預期的子群體效能差異。此外，重新加權被認為是針對此設定最成功的偏見緩解策略，我們展示了解釋性 AI 方法如何協助調查模型中偏見的表現，方法是使用這個架構。開發公平的 AI 模型是一項重大的挑戰，因為醫療影像資料集中可能存在許多且經常未知的偏見來源。在這項工作中，我們提出了一個創新的方法，用於客觀地研究偏見和緩解策略對深度學習管線的影響，這可以支援健全且負責任的臨床 AI 的開發。</paragraph>
 
 ##### **Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**
 2310.19174v1 by Adam White,Margarita Saranti,Artur d'Avila Garcez,Thomas M. H. Hope,Cathy J. Price,Howard Bowman
@@ -900,7 +894,7 @@ learning terms. We conclude by proposing how the current models could be
 improved to achieve even higher levels of accuracy using images from hospital
 scanners.
 
-摘要：機器學習對於中風後症狀的自動化預測及其對復健的反應提供了極大的潛力。這項工作的重大挑戰包括神經影像資料的維度非常高、可用於學習的資料集規模相對較小，以及如何有效結合神經影像和表格資料（例如人口統計資訊和臨床特徵）。本文根據兩種策略評估了多種解決方案。第一個策略是使用總結 MRI 掃描的 2D 影像。第二個策略是選擇可提升分類精確度的關鍵特徵。此外，我們引入了訓練卷積神經網路 (CNN) 的新穎方法，該方法針對結合從 MRI 中萃取的感興趣區域和表格資料的符號表示影像。我們評估了一系列 CNN 架構（2D 和 3D），這些架構經過訓練後可處理 MRI 和表格資料的不同表示，以預測中風後口述圖片描述能力的複合測量是否在失語或非失語的範圍內。MRI 和表格資料是從 758 位參與 PLORAS 研究的英語中風倖存者取得。僅針對病灶大小的基線邏輯迴歸分類準確度為 0.678，在依序加入初始症狀嚴重度和復原時間後，準確度分別上升至 0.757 和 0.813。在從每個 MRI 掃描中萃取 8 個感興趣區域並在 2D 殘差神經網路中與病灶大小、初始嚴重度和復原時間結合時，觀察到最高的分類準確度 0.854。我們的研究結果說明了如何將影像和表格資料結合，以獲得高精確度的中風後分類，即使在機器學習術語中資料集很小也是如此。最後，我們提出如何改進目前的模型，以使用來自醫院掃描儀的影像，進而達到更高的準確度。
+摘要：機器學習提供了自動預測中風後症狀及其對康復反應的巨大潛力。這項工作的重大挑戰包括神經影像數據的維度非常高、可用於學習的數據集規模相對較小，以及如何有效結合神經影像和表格數據（例如人口統計信息和臨床特徵）。本文基於兩種策略評估了多種解決方案。首先是使用總結 MRI 掃描的 2D 圖像。其次是選擇提高分類精度的關鍵特徵。此外，我們引入了在結合從 MRI 中提取的感興趣區域和表格數據的符號表示的圖像上訓練卷積神經網絡 (CNN) 的新方法。我們評估了一系列 CNN 架構（2D 和 3D），這些架構在 MRI 和表格數據的不同表示上進行訓練，以預測中風後口語圖片描述能力的綜合測量是否在失語或非失語範圍內。MRI 和表格數據來自 758 名參與 PLORAS 研究的英語中風倖存者。僅病灶大小的基線邏輯迴歸分類準確率為 0.678，當依次添加初始症狀嚴重程度和恢復時間時，準確率上升至 0.757 和 0.813。在從每個 MRI 掃描中提取 8 個感興趣區域並在 2D 殘差神經網絡中與病灶大小、初始嚴重程度和恢復時間相結合時，觀察到最高的分類準確率 0.854。我們的研究結果表明，即使在機器學習術語中數據集很小，也可以將影像和表格數據結合起來以獲得較高的中風後分類準確率。最後，我們提出如何改進當前模型以使用來自醫院掃描儀的圖像實現更高水平的準確率。
 
 ##### **Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**
 2310.01828v2 by Hossein Shreim,Abdul Karim Gizzini,Ali J. Ghandour
@@ -929,7 +923,7 @@ Seg-Grad-CAM++ and Seg-Sobol using the proposed noise-based evaluation
 technique. This constitutes the first attempt to run and evaluate XAI methods
 using high-resolution satellite images.
 
-摘要：可解釋人工智慧 (XAI) 已成為處理任務關鍵應用程式時的一項基本需求，可確保所採用黑箱 AI 模型的透明度和可解釋性。XAI 的重要性涵蓋了從醫療保健到金融的各種領域，在這些領域中，了解深度學習演算法的決策制定過程至關重要。大多數基於 AI 的電腦視覺模型通常是黑盒子；因此，在影像處理中提供深度神經網路的可解釋性對於其在醫學影像分析、自動駕駛和遙測應用中的廣泛採用和部署至關重要。最近，已經引入了幾種用於影像分類任務的 XAI 方法。相反地，影像分割在可解釋性的背景下受到的關注相對較少，儘管它是電腦視覺應用中的一項基本任務，尤其是在遙測中。只有少數研究提出用於影像分割的基於梯度的 XAI 演算法。本文採用最近的無梯度 Sobol XAI 方法進行語意分割。為了衡量 Sobol 方法在分割方面的效能，我們提出了一種基於可學習雜訊模型的量化 XAI 評估方法。此模型的主要目的是在解釋圖上產生雜訊，其中較高的誘導雜訊表示較低的準確度，反之亦然。進行基準分析以評估和比較三種 XAI 方法的效能，包括 Seg-Grad-CAM、Seg-Grad-CAM++ 和 Seg-Sobol，使用提出的基於雜訊的評估技術。這構成了使用高解析度衛星影像執行和評估 XAI 方法的首次嘗試。
+摘要：可解釋人工智慧 (XAI) 已成為處理任務關鍵應用程式時的一項必要條件，可確保所採用黑箱 AI 模型的透明度和可解釋性。XAI 的重要性跨越各種領域，從醫療保健到金融，其中了解深度學習演算法的決策制定過程至關重要。大多數基於 AI 的電腦視覺模型通常都是黑盒子；因此，在影像處理中提供深度神經網路的可解釋性對於它們在醫學影像分析、自動駕駛和遙測應用中的廣泛採用和部署至關重要。最近，已經引入了幾種針對影像分類任務的 XAI 方法。相反地，影像分割在可解釋性方面受到的關注相對較少，儘管它是電腦視覺應用中的一項基本任務，特別是在遙測中。只有部分研究提出基於梯度的 XAI 演算法用於影像分割。本文採用最近的無梯度 Sobol XAI 方法進行語意分割。為了衡量 Sobol 方法用於分割的效能，我們提出了一種基於可學習雜訊模型的量化 XAI 評估方法。此模型的主要目的是在解釋圖上引入雜訊，其中較高的誘導雜訊表示較低的準確度，反之亦然。進行基準分析以評估和比較三種 XAI 方法的效能，包括 Seg-Grad-CAM、Seg-Grad-CAM++ 和 Seg-Sobol，使用所提出的基於雜訊的評估技術。這構成使用高解析度衛星影像執行和評估 XAI 方法的首次嘗試。
 
 ##### **Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**
 2311.01463v1 by Muhammad Aurangzeb Ahmad,Ilker Yaramis,Taposh Dutta Roy
@@ -947,7 +941,7 @@ Specifically we focus on the quantification, validation, and mitigation of
 hallucinations in the context in healthcare. Lastly, we discuss how the future
 of LLMs in healthcare may look like.
 
-摘要：大型語言模型在短時間內已在多個領域中激增。然而，由於事實性、連貫性和幻覺等問題，醫學和醫療保健領域對其採用猶豫不決。鑑於醫療保健的高風險性質，許多研究人員甚至警告在這些問題得到解決之前不要使用它。在醫療保健中實施和部署 LLM 的關鍵是讓這些模型值得信賴、透明（儘可能）且可解釋。在本文中，我們描述了創建可靠、值得信賴且無偏見模型的關鍵要素，作為它們在醫療保健中得到採用的必要條件。具體來說，我們專注於在醫療保健背景下對幻覺的量化、驗證和減輕。最後，我們討論了 LLM 在醫療保健中的未來可能是什麼樣子。
+摘要：大型語言模型已在多個領域中迅速擴散，時間短暫。然而，由於事實性、連貫性和幻覺等問題，醫療和保健領域對其採用猶豫不決。鑑於醫療保健的高風險性質，許多研究人員甚至警告稱，在解決這些問題之前不應使用它。在醫療保健中實施和部署 LLM 的關鍵是使這些模型值得信賴、透明（儘可能）且可解釋。在本文中，我們描述了創建可靠、值得信賴且無偏見模型的關鍵要素，作為其在醫療保健中得到採用的必要條件。具體來說，我們專注於醫療保健背景下幻覺的量化、驗證和減輕。最後，我們討論了 LLM 在醫療保健中的未來可能是什麼樣子。
 
 ##### **When to Trust AI: Advances and Challenges for Certification of Neural Networks**
 2309.11196v1 by Marta Kwiatkowska,Xiyue Zhang
@@ -963,7 +957,7 @@ system failures and ensure trustworthiness. Focusing on certification and
 explainability, this paper provides an overview of techniques that have been
 developed to ensure safety of AI decisions and discusses future challenges.
 
-摘要：人工智慧 (AI) 以飛快的速度進步，現在準備在各種應用程式中部署，例如自動系統、醫療診斷和自然語言處理。早期採用 AI 技術於真實世界應用程式並非沒有問題，特別是對於神經網路，它可能不穩定且容易受到對抗性範例的影響。從長遠來看，需要開發適當的安全保證技術，以減少因可避免的系統故障而造成的潛在危害，並確保可信度。本文專注於認證和可解釋性，概述了為確保 AI 決策安全而開發的技術，並討論未來的挑戰。
+摘要：人工智慧 (AI) 已快速進展，目前已準備部署在各種應用程式中，例如自動系統、醫療診斷和自然語言處理。早期採用 AI 技術於實際應用程式並非沒有問題，特別是神經網路，可能不穩定且容易受到對抗性範例的影響。從長遠來看，需要開發適當的安全保證技術，以減少因可避免的系統故障造成的潛在危害，並確保可信度。本文專注於認證和可解釋性，概述了已開發用於確保 AI 決策安全性的技術，並討論未來的挑戰。
 
 ##### **Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**
 2309.10424v1 by Juan M. García-Gómez,Vicent Blanes-Selva,José Carlos de Bartolomé Cenzano,Jaime Cebolla-Cornejo,Ascensión Doñate-Martínez
@@ -986,9 +980,9 @@ libraries, and Semantic interoperability.
 technical solutions to ensure continuous good performance and use of AI systems
 to benefit patients in compliance with the future EU regulatory framework.
 
-摘要：歐洲議會議會研究服務總局已向歐洲議會議員準備了一份報告，其中列舉了人工智能 (AI) 在醫療和保健方面的七項主要風險：患者因 AI 錯誤而受到傷害、醫療 AI 工具被濫用、AI 中的偏見和現有不平等現象的延續、缺乏透明度、隱私和安全問題、問責制方面的差距以及實施障礙。
-  在這項研究中，我們提出了 AI 系統可能實施的十四項功能性要求，以降低與其醫療目的相關的風險：AI 護照、使用者管理、法規檢查、僅限學術用途免責聲明、資料品質評估、臨床醫師雙重檢查、持續效能評估、稽核追蹤、持續可用性測試、回顧/模擬案例審查、偏見檢查、可解釋 AI、加密和使用經過現場測試的函式庫以及語義互操作性。
-  我們在此的用意是提供具體的高階技術解決方案規格，以確保持續良好的效能，並使用 AI 系統讓患者受益，以符合未來的歐盟法規架構。
+摘要：歐洲議會議會研究服務總局已為歐洲議會議員準備一份報告，其中列舉了人工智慧 (AI) 在醫學和醫療保健中的七項主要風險：因 AI 錯誤造成的患者傷害、醫療 AI 工具的誤用、AI 中的偏見和既有失衡的延續、缺乏透明度、隱私和安全問題、問責制方面的差距，以及實施中的障礙。
+  在這項研究中，我們提出了十四項功能性要求，AI 系統可以實施這些要求來降低與其醫療目的相關的風險：AI 護照、使用者管理、法規檢查、僅限學術使用免責聲明、資料品質評估、臨床醫生雙重檢查、持續效能評估、稽核追蹤、持續可用性測試、回顧式/模擬案例審查、偏見檢查、可解釋 AI、加密和使用經過實地測試的函式庫，以及語意互操作性。
+  我們在此的目的是提供具體的高階技術解決方案規格，以確保持續良好的效能，並使用 AI 系統讓患者受益，以符合未來的歐盟法規架構。
 
 ##### **QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**
 2309.10293v3 by Thanveer Shaik,Xiaohui Tao,Haoran Xie,Lin Li,Juan D. Velasquez,Niall Higgins
@@ -1019,7 +1013,7 @@ Monte Carlo approximation was applied to the framework to overcome the time
 complexity and high computation power requirements required for Shapley value
 calculations.
 
-摘要：人工智慧技術可用於分類病患的生理活動，並預測遠距病患監控的重要生命徵象。基於非線性模型（如深度學習模型）的回歸分析，由於其黑盒特性，可解釋性有限。這可能需要決策者根據非線性模型結果進行盲目的信仰飛躍，特別是在醫療保健應用中。在非侵入性監控中，來自追蹤感測器和其易感臨床屬性的病患資料，作為預測未來生命徵象的輸入特徵。解釋各種特徵對監控應用整體輸出的貢獻，對於臨床醫師的決策至關重要。在本研究中，提出了一個用於量化分析的可解釋 AI（QXAI）架構，它具有事後模型可解釋性和內在可解釋性，可用於監督式學習方法中的回歸和分類任務。這是透過利用 Shapley 值概念，並將注意力機制納入深度學習模型中來實現的。我們採用人工神經網路（ANN）和基於注意力的雙向 LSTM（BiLSTM）模型，根據感測器資料預測心率和分類生理活動。深度學習模型在預測和分類任務中都達到了最先進的結果。對輸入資料進行了整體解釋和局部解釋，以了解各種病患資料的特徵貢獻。所提出的 QXAI 架構使用 PPG-DaLiA 資料評估，以預測心率，並使用行動健康（MHEALTH）資料根據感測器資料分類生理活動。蒙地卡羅近似應用於架構，以克服 Shapley 值計算所需的時間複雜度和高運算能力需求。
+摘要：人工智慧技術可用於分類病患的身體活動，並預測遠距病患監測的生命徵象。基於非線性模型（例如深度學習模型）的回歸分析由於其黑盒性質而具有有限的可解釋性。這可能需要決策者根據非線性模型結果盲目地做出信仰上的飛躍，尤其是在醫療保健應用中。在非侵入性監測中，來自追蹤感測器和其誘發性臨床屬性的病患資料充當輸入特徵，用於預測未來的生命徵象。解釋各種特徵對監控應用程式整體產出的貢獻對於臨床醫生的決策至關重要。在本研究中，提出了用於量化分析 (QXAI) 框架的可解釋人工智慧，並具備事後模型可解釋性和內在可解釋性，可應用于監督式學習方法中的回歸和分類任務。這可透過利用 Shapley 值概念並將注意力機制納入深度學習模型來實現。我們採用人工神經網路 (ANN) 和基於注意力的雙向 LSTM (BiLSTM) 模型，根據感測器資料預測心率和分類身體活動。深度學習模型在預測和分類任務中都達到了最先進的結果。對輸入資料進行了全局解釋和局部解釋，以了解各種病患資料的特徵貢獻。建議的 QXAI 框架使用 PPG-DaLiA 資料評估，以預測心率，並使用行動健康 (MHEALTH) 資料根據感測器資料分類身體活動。蒙地卡羅近似應用於框架，以克服 Shapley 值計算所需的時間複雜度和高運算能力需求。
 
 ##### **Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**
 2309.09917v1 by Adarsa Sivaprasad,Ehud Reiter,Nava Tintarev,Nir Oren
@@ -1042,7 +1036,7 @@ evaluation of mental models of these participants provide valuable feedback to
 enhance narrative global explanations. This, in turn, guides the design of
 health informatics systems that are both trustworthy and actionable.
 
-摘要：<paragraph>在可解釋的人工智慧 (XAI) 研究中，主要的重點在於為專家和從業人員解釋模型。模型不可知論和局部解釋方法在許多應用中被認為是可以解釋且足夠的。然而，在醫療保健等領域，最終用戶是沒有 AI 或領域專業知識的患者，因此迫切需要更易於理解且能建立對模型運作的信任的模型解釋。我們假設生成具有敘事性、特定於患者和全局（模型的整體）的模型解釋將有助於更好的理解並能進行決策。我們使用決策樹模型來測試這一點，為被確定為患有冠狀動脈疾病高風險的患者生成局部和全局解釋。這些解釋會提供給非專家用戶。我們發現強烈偏好特定類型的解釋。大多數參與者偏好全局解釋，而較小的一群則偏好局部解釋。基於任務的這些參與者的心理模型評估提供了有價值的回饋，以增強敘事全局解釋。這反過來指導了既值得信賴又可操作的健康資訊系統的設計。</paragraph>
+摘要：在可解釋人工智慧 (XAI) 研究中，主要重點在於為專家和從業人員解釋模型。模型不可知論和局部解釋方法在許多應用中被視為可解釋且足夠。然而，在醫療保健等領域，最終使用者是沒有 AI 或領域專業知識的患者，因此迫切需要更易於理解且能建立對模型運作的信任的模型解釋。我們假設產生具有敘述性、患者特定性和全局性（模型的整體性）的模型解釋將有助於更好的理解力和決策制定。我們使用決策樹模型來測試這一點，為被確定為患有冠狀動脈疾病高風險的患者生成局部和全局解釋。這些解釋會提供給非專家使用者。我們發現對特定類型的解釋有強烈的個人偏好。大多數參與者偏好全局解釋，而較小的一群則偏好局部解釋。基於任務的對這些參與者的心理模型的評估提供了有價值的回饋，以增強敘述性全局解釋。這反過來指導了既值得信賴又可操作的健康資訊系統的設計。
 
 ##### **An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**
 2309.00903v2 by Michail Mamalakis,Heloise de Vareilles,Atheer AI-Manea,Samantha C. Mitchell,Ingrid Arartz,Lynn Egeland Morch-Johnsen,Jane Garrison,Jon Simons,Pietro Lio,John Suckling,Graham Murray
@@ -1073,7 +1067,7 @@ learning within our proposed 3D framework. The proposed framework not only
 annotates the variable sulcus but also uncovers hidden AI knowledge, promising
 to advance our understanding of brain anatomy and function.
 
-摘要：可解釋 AI 在醫學影像中至關重要。在具有挑戰性的神經科學領域中，視覺主題呈現出高度的複雜性，特別是在三維空間中。神經科學的應用涉及從 MRI 中識別腦溝特徵，由於專家之間不同的註釋協定和複雜的三維大腦功能，因此面臨著重大的障礙。因此，傳統的可解釋性方法在有效驗證和評估這些網路方面做得不夠。為了解決這個問題，我們首先提出一個數學公式，描述了不同電腦視覺任務中各種類型的解釋需求，根據驗證協定的可靠性，將其分類為自解釋、半解釋、非解釋和新模式學習應用。關於這個數學公式，我們提出了一個 3D 可解釋性架構，旨在驗證深度學習網路在檢測副扣帶溝（一種重要的腦部解剖特徵）中的輸出。該架構整合了局部 3D 解釋、通過維度縮減的全局解釋、串聯的全局解釋和統計形狀特徵，揭示了模式學習的新見解。我們在具有挑戰性的 TOP-OSLO 資料集上訓練和測試了兩個先進的 3D 深度學習網路，顯著提高了腦溝檢測準確度，特別是在左半球。在使用不同的註釋協定對此資料集進行評估的過程中，我們強調了無偏註釋過程在我們提出的 3D 架構中實現精確預測和有效模式學習中的關鍵作用。所提出的架構不僅註釋了可變腦溝，還揭示了隱藏的 AI 知識，有望促進我們對大腦解剖和功能的理解。
+摘要：可解釋人工智慧在醫學影像中至關重要。在具挑戰性的神經科學領域中，視覺主題呈現高度複雜性，特別是在三維空間中。神經科學的應用涉及從核磁共振造影中識別腦溝特徵，由於專家之間不同的註解協定和腦部複雜的三維功能，因此面臨重大障礙。因此，傳統的可解釋性方法無法有效驗證和評估這些網路。為了解決這個問題，我們首先提出一個數學公式，描繪出各種電腦視覺任務中不同的解釋需求類別，根據驗證協定的可靠性，將其分類為自解釋、半解釋、非解釋和新模式學習應用。關於這個數學公式，我們提出一個 3D 可解釋性架構，旨在驗證深度學習網路在偵測扣帶迴溝（一個重要的腦部解剖特徵）中的輸出。此架構整合了局部 3D 解釋、透過降維的整體解釋、串接的整體解釋和統計形狀特徵，揭示了模式學習的新見解。我們在具有挑戰性的 TOP-OSLO 資料集上訓練和測試了兩個先進的 3D 深度學習網路，顯著提高了溝回偵測的準確度，特別是在左半球。在使用此資料集的不同註解協定進行評估時，我們強調了無偏註解程序在我們提出的 3D 架構中實現精確預測和有效模式學習的關鍵作用。所提出的架構不僅註解了可變溝回，還揭示了隱藏的人工智慧知識，有望增進我們對腦部解剖和功能的了解。
 
 ##### **Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**
 2308.14321v1 by Yanjun Gao,Ruizhe Li,John Caskey,Dmitriy Dligach,Timothy Miller,Matthew M. Churpek,Majid Afshar
@@ -1099,7 +1093,7 @@ accuracy of automated diagnosis generation. More importantly, our approach
 offers an explainable diagnostic pathway, edging us closer to the realization
 of AI-augmented diagnostic decision support systems.
 
-摘要：電子病歷 (EHR) 與例行文件記錄實務在病患的日常照護中扮演至關重要的角色，提供全面的健康、診斷和治療記錄。然而，複雜且冗長的電子病歷敘述會讓醫療保健提供者超載，而有診斷不準確的風險。儘管大型語言模型 (LLM) 已展現其在各種語言任務中的潛力，但在醫療領域的應用需要確保將診斷錯誤降至最低，並防止病患受到傷害。在本文中，我們概述了一種創新的方法來增強 LLM 在自動化診斷產生領域的能力，這是透過結合醫學知識圖譜 (KG) 和一個新穎的圖譜模型：Dr.Knows，其靈感來自臨床診斷推理過程。我們從美國國家醫學圖書館的統一醫學語言系統 (UMLS) 中衍生出 KG，這是一個強大的生物醫學知識儲存庫。我們的方法否定了預先訓練的需要，而是利用 KG 作為輔助工具，協助解釋和總結複雜的醫學概念。使用真實世界的醫院資料集，我們的實驗結果證明了將 LLM 與 KG 結合的提議方法有潛力提高自動化診斷產生的準確性。更重要的是，我們的方法提供了一個可解釋的診斷途徑，使我們更接近實現 AI 擴增的診斷決策支援系統。
+摘要：電子健康紀錄 (EHR) 和例行文件記錄實務在病患的日常照護中扮演至關重要的角色，提供全面的健康、診斷和治療紀錄。然而，複雜且冗長的 EHR 敘述會讓醫療保健提供者不堪負荷，並有診斷不準確的風險。儘管大型語言模型 (LLM) 已展現其在多元語言任務中的潛力，但其在醫療領域的應用需要確保將診斷錯誤降到最低，並防止病患受到傷害。在本文中，我們概述了一種創新的方法，用於提升 LLM 在自動化診斷生成領域的熟練度，這可透過整合醫學知識圖譜 (KG) 和一個新穎的圖譜模型：Dr.Knows 來達成，其靈感來自於臨床診斷推理程序。我們從美國國家醫學圖書館的統一醫學語言系統 (UMLS) 中衍生出 KG，這是一個強大的生物醫學知識儲存庫。我們的方法消除了預先訓練的需求，而是將 KG 視為一種輔助工具，用於協助解讀和摘要複雜的醫學概念。使用真實世界的醫院資料集，我們的實驗結果證明了將 LLM 與 KG 結合的提議方法具有提升自動化診斷生成準確性的潛力。更重要的是，我們的方法提供了一個可解釋的診斷路徑，讓我們更接近實現 AI 增強診斷決策支援系統的目標。
 
 ##### **Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**
 2308.09380v1 by Yun Xin Teoh,Alice Othmani,Siew Li Goh,Juliana Usman,Khin Wee Lai
@@ -1117,7 +1111,7 @@ interpretability and model interpretability. The aim of this paper is to
 provide valuable insights into XAI's potential towards a more reliable knee OA
 diagnosis approach and encourage its adoption in clinical practice.
 
-摘要：現有的用於診斷膝骨關節炎 (OA) 的人工智慧 (AI) 模型因其缺乏透明度和可解釋性而受到批評，儘管它們達到了與醫療專家相似的效能。這種不透明性讓它們難以在臨床實務中獲得信任。最近，可解釋人工智慧 (XAI) 已成為一種專業技術，它能透過揭示預測的推導方式來提供對模型預測的信心，從而促進 AI 系統在醫療保健中的使用。本文提出了第一份用於膝骨關節炎診斷的 XAI 技術調查。XAI 技術從兩個角度進行探討：資料可解釋性和模型可解釋性。本文的目的是提供有價值的見解，了解 XAI 在更可靠的膝骨關節炎診斷方法中的潛力，並鼓勵在臨床實務中採用它。
+摘要：現有的用於診斷膝關節骨關節炎 (OA) 的人工智慧 (AI) 模型，儘管達到了醫學專家級別的表現，但因缺乏透明度和可解釋性而受到批評。這種不透明性使得它們難以在臨床實務中獲得信任。最近，可解釋人工智慧 (XAI) 已成為一種專門技術，它可以透過揭示預測的推導方式來提供對模型預測的信心，從而促進 AI 系統在醫療保健中的使用。本文提供了用於膝關節 OA 診斷的 XAI 技術的首次調查。XAI 技術從兩個角度進行討論：資料可解釋性和模型可解釋性。本文的目的是提供有關 XAI 對更可靠的膝關節 OA 診斷方法的潛力的寶貴見解，並鼓勵在臨床實務中採用它。
 
 ##### **Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**
 2308.08407v1 by Munib Mesinovic,Peter Watkinson,Tingting Zhu
@@ -1147,7 +1141,7 @@ challenges exist, an end-to-end approach to explainability in clinical risk
 prediction, incorporating stakeholders from clinicians to developers, is
 essential for success.
 
-摘要：最近在醫療保健應用中的人工智慧技術進步，在診斷和疾病預後方面展現出超越人類表現的驚人前景。然而，隨著人工智慧模型日益複雜，人們開始關注其模糊性、潛在偏見以及可解釋性的需求。為了確保人工智慧系統的信任度和可靠性，特別是在臨床風險預測模型中，可解釋性變得至關重要。可解釋性通常被稱為人工智慧系統提供其決策邏輯或決策本身的強健詮釋的能力，以供人類利益相關者理解。在臨床風險預測中，可解釋性的其他面向，如公平性、偏見、信任和透明度，除了可解釋性之外，也代表了重要的概念。在此評論中，我們探討這些概念之間的關係，因為它們經常一起或互換使用。此評論也討論了開發可解釋模型以進行臨床風險預測的最新進展，強調在臨床實務中透過多種常見模式進行量化和臨床評估與驗證的重要性。它強調了外部驗證和結合多樣的可解釋性方法以增強信任度和公平性的需求。採用嚴謹的測試，例如使用具有已知生成因子的合成資料集，可以進一步提升可解釋性方法的可靠性。開放取用和程式碼共享資源對於透明度和可複製性至關重要，有助於可解釋性研究的發展和可信度。儘管存在挑戰，但將臨床醫生到開發人員等利益相關者納入臨床風險預測的可解釋性中，採取端對端的方法對於成功至關重要。
+摘要：近期人工智能應用於醫療保健的進展，已在診斷和疾病預後方面展現出超越人類表現的驚人前景。然而，隨著 AI 模型日益複雜，關於其不透明性、潛在偏差以及可解釋性的需求也引發了擔憂。為了確保 AI 系統的信任度和可靠性，特別是在臨床風險預測模型中，可解釋性變得至關重要。可解釋性通常被視為 AI 系統提供其決策邏輯或決策本身的穩健解釋，以供人類利益相關者理解的能力。在臨床風險預測中，可解釋性的其他方面，如公平性、偏差、信任和透明度，也代表了超越可解釋性的重要概念。在這篇評論中，我們探討了這些概念之間的關係，因為它們通常被一起或互換使用。本評論還討論了開發用於臨床風險預測的可解釋模型的最新進展，強調了在臨床實踐中透過多種常見方式進行量化和臨床評估與驗證的重要性。它強調了外部驗證和結合不同的可解釋性方法以增強信任和公平性的必要性。採用嚴格的測試，例如使用具有已知生成因素的合成資料集，可以進一步提高可解釋性方法的可靠性。開放獲取和程式碼共享資源對於透明度和可複製性至關重要，有助於可解釋性研究的成長和可信度。儘管存在挑戰，但從臨床醫生到開發人員，採用端到端的臨床風險預測可解釋性方法對於成功至關重要。
 
 ##### **FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**
 2309.12325v1 by Karim Lekadir,Aasa Feragen,Abdul Joseph Fofanah,Alejandro F Frangi,Alena Buyx,Anais Emelie,Andrea Lara,Antonio R Porras,An-Wen Chan,Arcadi Navarro,Ben Glocker,Benard O Botwe,Bishesh Khanal,Brigit Beger,Carol C Wu,Celia Cintas,Curtis P Langlotz,Daniel Rueckert,Deogratias Mzurikwao,Dimitrios I Fotiadis,Doszhan Zhussupov,Enzo Ferrante,Erik Meijering,Eva Weicken,Fabio A González,Folkert W Asselbergs,Fred Prior,Gabriel P Krestin,Gary Collins,Geletaw S Tegenaw,Georgios Kaissis,Gianluca Misuraca,Gianna Tsakou,Girish Dwivedi,Haridimos Kondylakis,Harsha Jayakody,Henry C Woodruf,Hugo JWL Aerts,Ian Walsh,Ioanna Chouvarda,Irène Buvat,Islem Rekik,James Duncan,Jayashree Kalpathy-Cramer,Jihad Zahir,Jinah Park,John Mongan,Judy W Gichoya,Julia A Schnabel,Kaisar Kushibar,Katrine Riklund,Kensaku Mori,Kostas Marias,Lameck M Amugongo,Lauren A Fromont,Lena Maier-Hein,Leonor Cerdá Alberich,Leticia Rittner,Lighton Phiri,Linda Marrakchi-Kacem,Lluís Donoso-Bach,Luis Martí-Bonmatí,M Jorge Cardoso,Maciej Bobowicz,Mahsa Shabani,Manolis Tsiknakis,Maria A Zuluaga,Maria Bielikova,Marie-Christine Fritzsche,Marius George Linguraru,Markus Wenzel,Marleen De Bruijne,Martin G Tolsgaard,Marzyeh Ghassemi,Md Ashrafuzzaman,Melanie Goisauf,Mohammad Yaqub,Mohammed Ammar,Mónica Cano Abadía,Mukhtar M E Mahmoud,Mustafa Elattar,Nicola Rieke,Nikolaos Papanikolaou,Noussair Lazrak,Oliver Díaz,Olivier Salvado,Oriol Pujol,Ousmane Sall,Pamela Guevara,Peter Gordebeke,Philippe Lambin,Pieta Brown,Purang Abolmaesumi,Qi Dou,Qinghua Lu,Richard Osuala,Rose Nakasi,S Kevin Zhou,Sandy Napel,Sara Colantonio,Shadi Albarqouni,Smriti Joshi,Stacy Carter,Stefan Klein,Steffen E Petersen,Susanna Aussó,Suyash Awate,Tammy Riklin Raviv,Tessa Cook,Tinashe E M Mutsvangwa,Wendy A Rogers,Wiro J Niessen,Xènia Puig-Bosch,Yi Zeng,Yunusa G Mohammed,Yves Saint James Aquino,Zohaib Salahuddin,Martijn P A Starmans
@@ -1178,7 +1172,7 @@ trusted, deployed and adopted in real-world practice. Researchers are
 encouraged to take the recommendations into account in proof-of-concept stages
 to facilitate future translation towards clinical practice of medical AI.
 
-摘要：儘管人工智慧 (AI) 在醫學和醫療保健方面有重大的進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們開始關注與醫療 AI 相關的技術、臨床、倫理和法律風險。為了增加實際世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、衛生組織和當局的信任和接受。本研究描述了 FUTURE-AI 指南，這是第一個指導醫療保健中可信賴 AI 工具開發和部署的國際共識框架。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家/地區的 118 位跨領域專家組成，代表所有大陸，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，聯盟通過一個反覆運算的流程定義了可信賴 AI 的指導原則和最佳實務，包括深入的文獻回顧、修改後的德爾菲調查和線上共識會議。FUTURE-AI 框架建立在醫療保健中可信賴 AI 的 6 個指導原則之上，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。透過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，提供了一個結構化的方法來建構可信賴、部署和採用於現實世界的實務中的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮建議，以促進未來醫療 AI 向臨床實務的轉化。
+摘要：儘管在醫學和醫療保健方面的人工智慧 (AI) 有重大進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對與醫療 AI 相關的技術、臨床、倫理和法律風險提出了疑慮。為了增加現實世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和當局的信任和接受。本研究將 FUTURE-AI 指南描述為指導在醫療保健中開發和部署值得信賴的 AI 工具的第一個國際共識架構。FUTURE-AI 聯盟於 2021 年成立，目前由來自 51 個國家/地區的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟透過一個反覆運算的過程定義了值得信賴的 AI 的指導原則和最佳實務，包括深入的文獻回顧、修改後的德爾菲調查和線上共識會議。FUTURE-AI 架構基於醫療保健中值得信賴的 AI 的 6 項指導原則而建立，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。透過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋了醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，它提供了一種結構化的方法來建構醫療 AI 工具，這些工具將在現實世界的實務中受到信任、部署和採用。鼓勵研究人員在概念驗證階段考慮建議，以促進未來醫療 AI 的臨床實務轉化。
 
 ##### **Explainable AI applications in the Medical Domain: a systematic review**
 2308.05411v1 by Nicoletta Prentzas,Antonis Kakas,Constantinos S. Pattichis
@@ -1202,7 +1196,7 @@ system. More research is needed in collaboration between medical and AI
 experts, that could guide the development of suitable frameworks for the
 design, implementation, and evaluation of XAI solutions in medicine.
 
-摘要：人工智慧在醫療方面取得顯著進展，在醫學影像、病人照護和其他領域都有新興應用。雖然這些應用已在回顧性研究中證明成功，但實際應用的卻很少。醫療人工智慧領域面臨各種挑戰，包括建立使用者信任、遵守法規、合乎道德地使用資料。可解釋人工智慧 (XAI) 旨在讓人們了解人工智慧並相信其結果。本文根據近年來發表的 198 篇文章的代表性樣本，針對醫療決策支援的 XAI 解決方案的最新發展提出文獻回顧。對相關文章的系統性綜合產生了多項發現。(1) 這些解決方案大多採用與模型無關的 XAI 技術，(2) 深度學習模型的使用多於其他類型的機器學習模型，(3) 可解釋性用於促進信任，但很少有研究報告醫師參與其中，(4) 視覺化和互動式使用者介面對於了解系統的解釋和建議更有用。需要醫療和人工智慧專家之間更多合作的研究，這可以引導設計、實作和評估醫學中 XAI 解決方案的合適架構的發展。
+摘要：人工智慧在醫學上已取得重大進展，在醫學影像、病人照護和其他領域都有新興應用。雖然這些應用已在回顧性研究中證明成功，但實際應用的卻很少。醫學 AI 領域面臨各種挑戰，包括建立使用者信任、遵守法規、以符合道德的方式使用資料。可解釋 AI (XAI) 旨在讓人類了解 AI 並相信其結果。本文針對最近幾年發表的 198 篇文章的代表性樣本，提出有關醫療決策支援的 XAI 解决方案最新發展的文獻回顧。對相關文章的系統性綜合，得出幾個發現：(1) 這些解決方案大多採用與模型無關的 XAI 技術，(2) 深度學習模型的使用多於其他類型的機器學習模型，(3) 可解釋性用於促進信任，但很少有研究報告醫師參與其中，(4) 視覺和互動式使用者介面在理解系統的說明和建議時更有用。需要更多醫療和 AI 專家合作進行研究，才能指導設計、實作和評估醫學中 XAI 解决方案的合適架構。
 
 ##### **Exploring the Role of Explainability in AI-Assisted Embryo Selection**
 2308.02534v1 by Lucia Urcelay,Daniel Hinjos,Pablo A. Martin-Torres,Marta Gonzalez,Marta Mendez,Salva Cívico,Sergio Álvarez-Napagao,Dario Garcia-Gasulla
@@ -1220,7 +1214,7 @@ needs of clinicians and patients. Finally, we propose guidelines for the sake
 of increasing interpretability and trustworthiness, pushing this technology
 forward towards established clinical practice.
 
-摘要：試管受精是治療不孕症最廣泛的方法之一。其主要挑戰之一是評估和選擇胚胎進行植入，這是一個臨床醫生之間和臨床醫生內部差異很大的過程。基於深度學習的方法正受到關注，但它們的不透明性質損害了它們在臨床環境中的接受度，而在臨床環境中，決策的透明度至關重要。在本文中，我們分析了 AI 輔助胚胎分析模型的可解釋性的當前工作，並找出其局限性。我們還討論了如何將這些模型作為決策支持系統整合到臨床環境中，同時考慮臨床醫生和患者的需求。最後，我們提出了提高可解釋性和可信度的指南，推進這項技術朝著既定的臨床實務邁進。
+摘要：體外受精是治療不孕症最廣泛的方法之一。其中一項主要挑戰是評估和選擇要植入的胚胎，這是一個在不同臨床醫師之間有很大變異性的過程。基於深度學習的方法正受到關注，但其不透明的本質會影響其在臨床環境中的接受度，而透明度在決策制定中至關重要。在本文中，我們分析了 AI 輔助胚胎分析模型的可解釋性方面的現有研究，並找出其限制。我們也討論了這些模型如何作為決策支援系統整合到臨床環境中，並考慮到臨床醫師和患者的需求。最後，我們提出為了提高可解釋性和可信賴度，並推動這項技術朝向既定的臨床實務而制定的準則。
 
 ##### **A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**
 2307.14246v1 by Timo Speith,Markus Langer
@@ -1240,7 +1234,7 @@ incorporates resource availability, domain characteristics, and considerations
 of risk. By providing a foundation for future research and best practices, this
 work aims to advance the field of RE for AI.
 
-摘要：在需求工程 (RE) 領域中，可解釋人工智慧 (XAI) 在將 AI 支援系統與使用者需求、社會期望和法規標準相符方面的重要性與日俱增，已獲得認可。一般來說，可解釋性已成為影響系統品質的重要非功能性需求。然而，可解釋性和效能之間的假定權衡挑戰了可解釋性的假定正面影響。如果滿足可解釋性需求需要降低系統效能，則必須仔細考慮這些品質面向中哪一個優先，以及如何在它們之間折衷。在本文中，我們批判性地檢視了假定的權衡。我們認為，以一種細緻的方式來探討這個問題是最好的，這種方式納入了資源可用性、網域特性和風險考量。透過提供未來研究和最佳實務的基礎，這項工作旨在推動 AI 的 RE 領域。
+摘要：在需求工程 (RE) 領域中，可解釋人工智慧 (XAI) 在將 AI 支援系統與使用者需求、社會期望和法規標準對齊方面的日益重要性已獲得認可。一般而言，可解釋性已成為影響系統品質的重要非功能性需求。然而，可解釋性和效能之間的假定權衡挑戰了可解釋性的假定正面影響。如果滿足可解釋性要求需要降低系統效能，那麼必須仔細考慮這些品質面向哪一個優先，以及如何在它們之間折衷。在本文中，我們批判性地檢視了假定的權衡。我們主張以一種細緻的方式來探討它，這種方式納入了資源可用性、領域特性和風險考量。透過提供未來研究和最佳實務的基礎，這項工作旨在推進 AI 的 RE 領域。
 
 ##### **Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**
 2307.14239v1 by Barnaby Crook,Maximilian Schlüter,Timo Speith
@@ -1260,7 +1254,7 @@ incorporates resource availability, domain characteristics, and considerations
 of risk. By providing a foundation for future research and best practices, this
 work aims to advance the field of RE for AI.
 
-摘要：在需求工程 (RE) 领域中，可解释人工智能 (XAI) 在将人工智能支持系统与用户需求、社会期望和监管标准保持一致中的重要性日益显著，并获得了认可。一般来说，可解释性已成为影响系统质量的重要非功能性需求。然而，可解释性和性能之间的权衡挑战了可解释性的假定积极影响。如果满足可解释性要求需要降低系统性能，那么必须仔细考虑这些质量方面中的哪一个优先，以及如何在它们之间进行权衡。在本文中，我们批判性地考察了所谓的权衡。我们认为，最好以一种微妙的方式来处理它，这种方式结合了资源可用性、领域特征和风险考虑。通过为未来的研究和最佳实践提供基础，这项工作旨在推进人工智能的 RE 领域。
+摘要：在需求工程 (RE) 領域中，可解釋人工智慧 (XAI) 在將 AI 支援系統與使用者需求、社會期望和法規標準相符中日益顯著的重要性已獲得認可。一般來說，可解釋性已成為影響系統品質的重要非功能性需求。然而，可解釋性和效能之間的假定權衡挑戰了可解釋性的假定正面影響。如果滿足可解釋性的需求需要降低系統效能，則必須仔細考慮這些品質面向哪一個優先，以及如何在它們之間取得折衷。在本文中，我們批判性地探討了假定的權衡。我們認為，最好的方法是以一種細緻的方式來探討，其中包含資源可用性、領域特性和風險考量。透過為未來的研究和最佳實務奠定基礎，這項工作旨在推動 AI 的 RE 領域。
 
 ##### **Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**
 2308.02047v1 by Henry Fraser,Jose-Miguel Bello y Villarino
@@ -1284,7 +1278,7 @@ contends that the approach to risk acceptability judgments need a firm
 foundation of civic legitimacy: including detailed guidance or involvement from
 regulators, and meaningful input from affected stakeholders.
 
-摘要：本論文批判性地評估了歐盟委員會提出的 AI 法案，該法案針對高風險 AI 系統對基本權利和安全構成風險的風險管理和風險可接受性方法。該法案旨在以相稱的監管負擔促進「值得信賴」的 AI。其關於風險可接受性的條款要求盡可能減少或消除高風險系統的剩餘風險，同時考慮「最新技術」。此標準，特別是如果解釋得狹隘，則無法執行，既不促進相稱的監管負擔，也不促進可信度。相比之下，議會對風險管理條款的最新修正草案引入了「合理性」、成本效益分析，並且更透明地說明了風險可接受性判斷的價值觀和情境性質。本文認為，議會的做法更可行，並且更好地平衡了相稱性和可信度的目標。本文說明了風險可接受性判斷中的合理性將需要什麼，並借鑒了過失法和歐洲醫療器械法規中的原則。並且認為，風險可接受性判斷的方法需要穩固的公民合法性基礎：包括來自監管機構的詳細指南或參與，以及受影響利益相關者的有意義意見。
+摘要：本文批判性地評估了歐盟委員會提出的 AI 法案中，針對高風險 AI 系統的風險管理和風險可接受性方法，這些系統會對基本權利和安全構成風險。該法案旨在以適度的監管負擔促進「可信賴的」AI。其關於風險可接受性的條款要求將高風險系統的殘餘風險降低或消除「儘可能」，並考慮「技術水準」。此標準，特別是如果解釋得過於狹隘，是行不通的，而且既不能促進適度的監管負擔，也不能促進可信賴性。相比之下，議會最近對風險管理條款的修正草案引入了「合理性」、「成本效益分析」，並且更透明地說明了風險可接受性判斷的價值觀和情境性質。本文認為，議會的方法更可行，並且能更好地平衡相稱性和可信賴性的目標。它說明了風險可接受性判斷中的合理性將需要什麼，並借鑒了過失法和歐洲醫療器械法規中的原則。它主張，風險可接受性判斷的方法需要穩固的公民合法性基礎：包括來自監管機構的詳細指導或參與，以及受影響利益相關者的有意義投入。
 
 ##### **eXplainable Artificial Intelligence (XAI) in aging clock models**
 2307.13704v3 by Alena Kalyakulina,Igor Yusipov,Alexey Moskalev,Claudio Franceschi,Mikhail Ivanchenko
@@ -1301,7 +1295,7 @@ application of XAI for developing the "aging clocks" and present a
 comprehensive analysis of the literature categorized by the focus on particular
 physiological systems.
 
-摘要：可解釋人工智慧 (XAI) 是機器學習中快速進展的領域，旨在揭示複雜模型的預測。XAI 特別需要在敏感的應用程式中，例如在醫療保健中，當診斷、建議和治療選擇可能依賴於人工智慧系統做出的決策時。人工智慧方法也已廣泛用於老化研究，特別是在開發生物時鐘模型和識別老化和與年齡相關疾病的生物標記時。然而，XAI 在此處的潛力尚未得到充分重視。我們討論了 XAI 在開發「老化時鐘」中的應用，並對按特定生理系統的重點分類的文獻進行了全面分析。
+摘要：可解釋人工智慧 (XAI) 是機器學習快速進展的領域，旨在解開複雜模型的預測。XAI 在敏感應用中特別需要，例如在醫療保健中，當診斷、建議和治療選擇可能依賴於人工智慧系統做出的決策時。人工智慧方法也已廣泛用於老化研究，特別是在開發生物時鐘模型和識別老化和與年齡相關疾病的生物標記方面。然而，XAI 在此處的潛力仍有待充分認識。我們討論了 XAI 在開發「老化時鐘」中的應用，並對按特定生理系統焦點分類的文獻進行了全面的分析。
 
 ##### **Interpreting and Correcting Medical Image Classification with PIP-Net**
 2307.10404v2 by Meike Nauta,Johannes H. Hegeman,Jeroen Geerdink,Jörg Schlötterer,Maurice van Keulen,Christin Seifert
@@ -1321,7 +1315,7 @@ reasoning of PIP-Net by directly disabling undesired prototypes. We conclude
 that part-prototype models are promising for medical applications due to their
 interpretability and potential for advanced model debugging.
 
-摘要：部分原型模型是可解釋設計的影像分類器，也是黑盒 AI 的有希望的替代方案。本文探討可解釋機器學習（尤其是 PIP-Net）在實際醫療影像資料上自動診斷支援的適用性和潛力。PIP-Net 學習人類可理解的原型影像部分，我們評估其準確性和可解釋性以進行骨折偵測和皮膚癌診斷。我們發現 PIP-Net 的決策制定過程符合醫療分類標準，同時僅提供影像層級類別標籤。由於 PIP-Net 的原型無監督預訓練，因此可以輕鬆識別資料品質問題，例如 X 光中的不需要文字或標籤錯誤。此外，我們首次展示人類可以透過直接停用不需要的原型來手動修正 PIP-Net 的推理。我們得出結論，部分原型模型由於其可解釋性和進階模型除錯的潛力，對於醫療應用很有希望。
+摘要：部分原型模型是可解釋設計的影像分類器，也是黑箱 AI 的潛力替代方案。本文探討可解釋機器學習的適用性和潛力，特別是 PIP-Net，用於實際醫療影像資料的自動化診斷支援。PIP-Net 學習人類可理解的原型影像部分，我們評估其準確性和可解釋性，以進行骨折偵測和皮膚癌診斷。我們發現 PIP-Net 的決策制定過程符合醫療分類標準，同時僅提供影像層級的類別標籤。由於 PIP-Net 對原型進行無監督預訓練，因此可以輕鬆識別資料品質問題，例如 X 光中的不需要文字或標籤錯誤。此外，我們率先證明人類可以透過直接停用不需要的原型，手動更正 PIP-Net 的推理。我們得出結論，部分原型模型由於其可解釋性和進階模型除錯的潛力，對於醫療應用而言很有前景。
 
 ##### **Explaining and visualizing black-box models through counterfactual paths**
 2307.07764v3 by Bastian Pfeifer,Mateusz Krzyzinski,Hubert Baniecki,Anna Saranti,Andreas Holzinger,Przemyslaw Biecek
@@ -1338,7 +1332,7 @@ additional graph dimension to current XAI methods in both explaining and
 visualizing black-box models. Experiments with synthetic and medical data
 demonstrate the practical applicability of our approach.
 
-摘要：可解釋 AI (XAI) 是機器學習研究中日益重要的領域，旨在讓黑盒子模型透明且可解釋。在本文中，我們提出了一種使用由特徵條件置換產生的所謂反事實路徑的新穎 XAI 方法。該演算法透過找出對模型預測變動影響最大的特徵順序置換，來衡量特徵重要性。它特別適合於根據包含領域知識的知識圖譜中的反事實路徑來產生解釋。反事實路徑為當前 XAI 方法在解釋和視覺化黑盒子模型時引入了額外的圖形維度。使用合成資料和醫療資料進行的實驗證明了我們方法的實際適用性。
+摘要：可解釋 AI (XAI) 是機器學習研究中日益重要的領域，旨在讓黑箱模型透明且可解釋。在本文中，我們提出了一個使用條件特徵置換所產生的反事實路徑的新方法來進行 XAI。該演算法透過找出影響模型預測變化的特徵順序置換來衡量特徵重要性。它特別適合用於根據包含領域知識的知識圖譜中的反事實路徑來產生解釋。反事實路徑在解釋和視覺化黑箱模型時，為當前的 XAI 方法引入了額外的圖形維度。使用合成和醫療資料進行的實驗證明了我們方法的實際適用性。
 
 ##### **Beyond Known Reality: Exploiting Counterfactual Explanations for Medical Research**
 2307.02131v5 by Toygar Tanyel,Serkan Ayvaz,Bilgin Keserci
@@ -1361,7 +1355,7 @@ an alternative approach in our medical research case. The results demonstrate
 the promising potential of using counterfactual explanations to enhance
 acceptance of AI-driven methods in clinical research.
 
-摘要：人工智能 (AI) 中的可解釋性領域見證了研究數量的增加和學術興趣的提升。然而，缺乏對機器學習演算法結果進行解釋的人性化且個別化的詮釋，顯著阻礙了臨床醫師在研究和臨床實務中接受這些方法。為了解決這個問題，我們的研究使用反事實解釋來探討「如果？」情境在醫學研究中的適用性。我們的目標是擴展我們對磁振造影 (MRI) 特徵的理解，這些特徵用於診斷小兒後顱窩腦瘤，並超越現有的界限。在我們的案例研究中，所提出的概念提供了一種新的方式來檢視替代決策情境，這些情境提供了個人化且特定於情境的見解，使我們能夠驗證預測並釐清在不同情況下的差異。此外，我們探討了反事實用於資料擴充的潛在用途，並評估它們作為我們醫學研究案例中替代方法的可行性。結果證明了使用反事實解釋來增強臨床研究中 AI 驅動方法的接受度的潛在可能性。
+摘要：在人工智慧（AI）領域中，可解釋性領域已見證到研究數量大幅成長，學術興趣也日益濃厚。然而，在解釋機器學習演算法結果時，缺乏對人類友善且個別化的詮釋，已顯著阻礙臨床醫師在研究和臨床實務中接受這些方法。為了解決這個問題，我們的研究使用反事實解釋來探討「如果？」情境在醫學研究中的可應用性。我們的目標是擴展我們對磁振造影（MRI）特徵的了解，這些特徵用於診斷小兒後顱窩腦腫瘤，並超越現有界線。在我們的案例研究中，所提出的概念提供了一種新穎的方式來檢視替代決策情境，提供個人化且特定於情境的見解，進而驗證預測並釐清在不同情況下的差異。此外，我們探討反事實資料擴充的潛在用途，並評估它們作為我們醫學研究案例中替代方法的可行性。結果證明了使用反事實解釋來增強臨床研究中以 AI 為主的接受度的潛在優勢。
 
 ##### **AI and Non AI Assessments for Dementia**
 2307.01210v1 by Mahboobeh Parsapoor,Hamed Ghodrati,Vincenzo Dentamaro,Christopher R. Madan,Ioulietta Lazarou,Spiros Nikolopoulos,Ioannis Kompatsiaris
@@ -1384,7 +1378,7 @@ assessments for both the AI and medical communities. The discussion and
 conclusion highlight the most prominent research directions and the maturity of
 existing solutions.
 
-摘要：人工智能領域的當前進展已導致開發出各種由 AI 驅動的失智症評估，可用於識別失智症的早期患者。它可以徹底改變失智症照護環境。醫療界必須了解各種 AI 評估，並在考慮其有效性、效率、實用性、可靠性和準確性方面，選擇用於早期識別失智症患者 (PwD) 的評估。另一方面，AI 開發人員也應了解各種非 AI 評估以及最近開發的 AI 評估。因此，本文可供臨床醫師和 AI 工程師閱讀，填補了文獻中對臨床醫師說明現有失智症識別解決方案的空白，以及向 AI 工程師說明所使用的技術和最廣泛的失智症數據集。本文遵循對 AI 和非 AI 失智症評估論文的回顧，提供有關各種失智症評估的寶貴資訊，供 AI 和醫療界參考。討論和結論強調了最顯著的研究方向和現有解決方案的成熟度。
+摘要：人工智能領域的當前進展已導致開發出各種由 AI 支援的失智症評估，可用於識別失智症的早期患者。它可以革新失智症照護設定。醫療社群必須了解各種 AI 評估並在考慮其有效性、效率、實用性、可靠性和準確性程度的同時選擇它們，以早期識別失智症患者 (PwD)。另一方面，AI 開發人員也應該了解各種非 AI 評估以及最近開發的 AI 評估。因此，這篇臨床醫師和 AI 工程師都能閱讀的論文填補了文獻中對臨床醫師說明現有失智症辨識解決方案，以及對 AI 工程師說明所使用技術和最廣泛的失智症資料集的空白。它遵循對 AI 和非 AI 失智症評估的論文回顧，提供有關各種失智症評估的寶貴資訊，供 AI 和醫療社群使用。討論和結論重點說明最顯著的研究方向和現有解決方案的成熟度。
 
 ##### **Active Globally Explainable Learning for Medical Images via Class Association Embedding and Cyclic Adversarial Generation**
 2306.07306v1 by Ruitao Xie,Jingbang Chen,Limai Jiang,Rui Xiao,Yi Pan,Yunpeng Cai
@@ -1413,7 +1407,7 @@ precise saliency maps with powerful context-aware representation can be
 achieved compared with existing methods. Moreover, the disease pathology can be
 directly visualized via traversing the paths in the class-style space.
 
-摘要：可解释性对人工智能 (AI) 技术构成重大挑战。当前关于可解释人工智能 (XAI) 的研究缺乏提取关于学习任务的全局知识的效率，因此存在不精确的显着性、缺乏上下文感知和含义模糊等缺陷。在本文中，我们提出类别关联嵌入 (CAE) 方法来解决这些问题。我们采用编码器-解码器架构来嵌入样本特征，并将它们同时分离成与类别相关的和与个体相关的样式向量。将给定样本的个体样式代码与另一个样本的类别样式代码重新组合，即可得到一个具有保留的个体特征但改变了类别分配的合成样本，遵循循环对抗学习策略。类别关联嵌入将所有实例的全局类别相关特征提取到一个统一的域中，并且类别之间有很好的分离。然后可以提取不同类别之间的转换规则，并进一步应用于各个实例。然后，我们提出一个主动 XAI 框架，该框架沿着引导路径操纵某个样本的类别样式向量朝向反类别，从而产生一系列具有相同个体特征的反例合成样本。将这些反事实样本与原始样本进行比较，可以直观地全局说明分类任务的性质。我们采用该框架进行医学图像分类任务，结果表明，与现有方法相比，可以实现更精确的显着性图，并具有强大的上下文感知表示。此外，可以通过遍历类别样式空间中的路径直接可视化疾病病理。
+摘要：<paragraph>可解释性对人工智能 (AI) 技术构成了一项重大挑战。当前关于可解释 AI (XAI) 的研究缺乏提取学习任务全局知识的效率，因此存在不精确的显着性、上下文感知缺失和含义模糊等缺陷。在本文中，我们提出了类别关联嵌入 (CAE) 方法来解决这些问题。我们采用编码器-解码器架构来嵌入样本特征，并将它们同时分离为与类别相关的和与个体相关的样式向量。将给定样本的个体样式代码与另一个样本的类别样式代码重新组合，会产生一个合成样本，该样本保留了个人特征，但更改了类别分配，遵循循环对抗学习策略。类别关联嵌入将所有实例的全局类别相关特征提取到一个统一的域中，并且在类别之间具有良好的分离性。然后可以提取不同类别之间的转换规则，并进一步应用于各个实例。然后，我们提出了一个主动 XAI 框架，该框架沿着引导路径操纵某个样本的类别样式向量朝向反类别，从而产生一系列具有相同个体特征的反例合成样本。将这些反事实样本与原始样本进行比较，可以全局、直观地说明分类任务的性质。我们在医学图像分类任务中采用该框架，结果表明，与现有方法相比，可以实现更精确的显着性图，并具有强大的上下文感知表示。此外，可以通过遍历类别样式空间中的路径直接可视化疾病病理。</paragraph>
 
 ##### **HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**
 2306.06029v1 by Rodrigo Agerri,Iñigo Alonso,Aitziber Atutxa,Ander Berrondo,Ainara Estarrona,Iker Garcia-Ferrero,Iakes Goenaga,Koldo Gojenola,Maite Oronoz,Igor Perez-Tejedor,German Rigau,Anar Yeginbergenova
@@ -1438,7 +1432,7 @@ we publish the Antidote CasiMedicos dataset to facilitate research on
 explainable AI in general, and argumentation in the medical domain in
 particular.
 
-摘要：提供基於機器學習的 AI 預測的高品質解釋是一項具有挑戰性和複雜性的任務。要順利運作，它需要下列事項（除其他因素外）：選擇適當的解釋概括性/特殊性層級；考量解釋受益人對考慮中的 AI 工作的熟悉程度所做的假設；參考促成決策的特定元素；利用可能不屬於預測程序的額外知識（例如專家證據）；以及提供支持負面假設的證據。最後，系統需要以清晰可理解且可能令人信服的方式制定解釋。考量這些因素，ANTIDOTE 培養了解釋性 AI 的整合願景，其中深度學習程序的低層級特徵與人類論證能力的高層級架構相結合。ANTIDOTE 將利用深度學習和論證的跨領域能力，支援更廣泛且創新的解釋性 AI 觀點，其中對臨床案例審議的高品質解釋需求至關重要。作為專案的第一個結果，我們發布 Antidote CasiMedicos 資料集，以促進對一般可解釋 AI 以及特別是在醫療領域的論證的研究。
+摘要：提供基於機器學習的 AI 預測的高品質解釋是一項具有挑戰性且複雜的任務。要發揮良好作用，它需要（除其他因素外）：選擇適當的解釋普遍性/特殊性層級；考量解釋受益人對所考慮的 AI 任務熟悉程度的假設；參照促成決策的特定元素；利用可能不屬於預測程序的額外知識（例如專家證據）；以及提供支持負面假設的證據。最後，系統需要以清晰可解釋且可能令人信服的方式來制定解釋。考量到這些因素，ANTIDOTE foster 了解釋性 AI 的整合願景，其中深度學習過程的低層級特性與人類論證能力的高層級架構相結合。ANTIDOTE 將利用深度學習和論證的跨領域能力來支持對解釋性 AI 更廣泛且創新的觀點，其中對於臨床案例審議的高品質解釋需求至關重要。作為該專案的第一個成果，我們發布了 Antidote CasiMedicos 資料集，以促進對一般可解釋 AI 以及特別是醫療領域的論證的研究。
 
 ##### **XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**
 2306.04791v1 by Eli Laird,Ayesh Madushanka,Elfi Kraka,Corey Clark
@@ -1467,8 +1461,8 @@ relationships demonstrated by the model. They also highlight the importance of
 generating a diverse set of explanations, as it enables us to discover hidden
 relationships in the model and provides valuable guidance for further analysis.
 
-摘要：近年來，圖神經網路的進展迅速，在藥物發現、醫療診斷和推薦系統方面都有許多新的發展。雖然這些進展很重要，但許多網路都是「黑盒子」，對於網路學習的「內容」了解甚少。許多高風險應用，例如藥物發現，需要模型提供人類可理解的解釋，以便使用者能夠辨識錯誤並發現新知識。因此，可解釋 AI 演算法的發展對於我們獲取 AI 的好處至關重要。
-我們提出了一種適用於 GNN 的可解釋性演算法，稱為 eXplainable Insight (XInsight)，它使用 GFlowNets 產生模型解釋的分布。由於 GFlowNets 會產生與獎勵成正比的機率物件，因此與僅學習最大獎勵範例的先前方法相比，XInsight 可以產生多樣化的解釋。我們透過為訓練於兩個圖形分類任務的 GNN 產生解釋來說明 XInsight：使用 MUTAG 資料集分類誘變化合物，以及使用我們已開放原始碼的合成資料集分類非環狀圖形。我們透過使用 QSAR 建模分析產生的化合物來展示 XInsight 解釋的效用，我們發現 XInsight 會產生依親脂性（已知的致突變性相關因素）進行分群的化合物。我們的結果顯示，XInsight 會產生一個解釋的分布，揭示模型所展示的底層關係。它們也強調產生多樣化的解釋的重要性，因為它使我們能夠發現模型中的隱藏關係，並為進一步的分析提供有價值的指導。
+摘要：近年來，圖神經網路的進展迅速，在藥物發現、醫療診斷和推薦系統方面都有許多新發展。雖然這些進展很重要，但許多網路都是「黑盒子」，對於網路究竟在學習什麼了解甚少。許多高風險應用，例如藥物發現，需要模型提供人類可以理解的解釋，以便使用者可以識別錯誤並發現新知識。因此，可解釋的人工智慧演算法的開發對於我們獲取人工智慧的益處至關重要。
+我們提出了一種稱為可解釋見解 (XInsight) 的 GNN 可解釋性演算法，它使用 GFlowNets 產生模型解釋的分布。由於 GFlowNets 根據獎勵產生機率成正比的物件，因此與僅學習最大獎勵範例的先前方法相比，XInsight 可以產生多樣化的解釋集合。我們透過為訓練於兩個圖形分類任務的 GNN 產生解釋來說明 XInsight：使用 MUTAG 資料集對致突變化合物進行分類，並使用我們已開放原始碼的合成資料集對無環圖形進行分類。我們透過使用 QSAR 建模分析產生的化合物來展示 XInsight 解釋的效用，我們發現 XInsight 產生了按親脂性（致突變性的已知相關因素）分群的化合物。我們的結果表明，XInsight 產生了一系列解釋，揭示了模型所展示的基礎關係。它們還強調了產生多樣化解釋集合的重要性，因為它使我們能夠發現模型中的隱藏關係，並為進一步的分析提供有價值的指導。
 
 ##### **Explainable AI using expressive Boolean formulas**
 2306.03976v1 by Gili Rosenberg,J. Kyle Brubaker,Martin J. A. Schuetz,Grant Salton,Zhihuai Zhu,Elton Yechao Zhu,Serdar Kadıoğlu,Sima E. Borujeni,Helmut G. Katzgraber
@@ -1494,7 +1488,7 @@ classifiers. The addition of non-local moves achieves similar results with
 fewer iterations, and therefore using specialized or quantum hardware could
 lead to a speedup by fast proposal of non-local moves.
 
-摘要：我們提出並實作一個可解釋機器學習分類模型，用於基於表達式布林公式的可解釋人工智慧 (XAI)。潛在應用包括信用評分和醫療狀況診斷。布林公式定義了一個具有可調整複雜性（或可解釋性）的規則，根據此規則對輸入資料進行分類。此類公式可以包含任何可應用於一個或多個布林變數的運算子，因此與更嚴格的基於規則和基於樹狀結構的方法相比，可提供更高的表達力。分類器使用原生局部最佳化技術進行訓練，有效地搜尋可行公式的空間。淺規則可由快速整數線性規劃 (ILP) 或二次無約束二元最佳化 (QUBO) 求解器確定，這些求解器可能由特殊用途硬體或量子裝置提供支援。我們結合原生局部最佳化器的表達力和效率與這些裝置的快速運作，藉由執行最佳化完整布林公式子樹的非局部移動來進行最佳化。我們提供廣泛的數值基準測試結果，其中包含在著名的公開資料集上使用多個基線。根據結果，我們發現原生局部規則分類器通常與其他分類器具有競爭力。加入非局部移動可使用較少的反覆運算達成類似的結果，因此使用專用或量子硬體可能透過快速提出非局部移動來加速。
+摘要：我們提出並實作了一個可解釋機器學習分類模型，用於基於表達式布林公式的可解釋 AI (XAI)。潛在應用包括信用評分和醫療狀況診斷。布林公式定義了一個具有可調整複雜度（或可解釋性）的規則，根據該規則對輸入資料進行分類。此類公式可以包含任何可應用於一個或多個布林變數的運算子，從而與更嚴格的基於規則和基於樹的途徑相比提供更高的表達力。分類器使用原生局部最佳化技術進行訓練，有效搜尋可行公式的空間。淺層規則可由快速的整數線性規劃 (ILP) 或二次無約束二元最佳化 (QUBO) 解決器確定，這些解決器可能由特殊用途硬體或量子裝置提供支援。我們透過執行最佳化完整布林公式子樹的非局部移動，結合了原生局部最佳化器的表達力和效率，以及這些裝置的快速運作。我們提供了廣泛的數值基準測試結果，其中包含了在眾所周知的公開資料集上針對幾個基線進行的測試。根據結果，我們發現原生局部規則分類器通常與其他分類器具有競爭力。非局部移動的加入在較少的反覆運算中達到了類似的結果，因此使用專業或量子硬體可以透過快速提出非局部移動來加速。
 
 ##### **Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**
 2306.03902v1 by Yeldar Toleubay,Don Joven Agravante,Daiki Kimura,Baihan Lin,Djallel Bouneffouf,Michiaki Tatsubori
@@ -1514,7 +1508,7 @@ method to aid therapists with their diagnosis. The proposed system addresses
 the lack of explainability of current Neural Network models and provides a more
 trustworthy solution for mental disorder diagnosis.
 
-摘要：為了應對心理健康問題的全球挑戰，我們提出了一種基於邏輯神經網路 (LNN) 的神經符號人工智慧方法，用於診斷心理疾病。由於缺乏針對心理疾病的有效治療方法，因此需要一種人工智慧解決方案，可以協助治療師進行診斷。然而，目前的神經網路模型缺乏可解釋性，治療師可能不會信任這些模型。LNN 是一種遞迴神經網路架構，結合了神經網路的學習能力和基於經典邏輯的人工智慧的推理能力。所提出的系統使用來自臨床訪談的輸入謂詞來輸出心理疾病類別，並使用不同的謂詞剪枝技術來實現可擴充性和更高的分數。此外，我們提供了一種見解提取方法，以幫助治療師進行診斷。所提出的系統解決了目前神經網路模型缺乏可解釋性的問題，並為心理疾病診斷提供了一個更值得信賴的解決方案。
+摘要：針對全球心理健康問題的挑戰，我們提出一個基於邏輯神經網路 (LNN) 的神經符號人工智慧方法，用於診斷心理疾病。由於缺乏針對心理疾病的有效治療涵蓋範圍，因此需要一種人工智慧解決方案，可以協助治療師進行診斷。然而，目前的類神經網路模型缺乏可解釋性，治療師可能無法信任它們。LNN 是一種遞迴神經網路架構，結合了神經網路的學習能力和基於經典邏輯的人工智慧的推理能力。所提出的系統使用來自臨床訪談的輸入謂詞來輸出心理疾病類別，並且使用不同的謂詞剪枝技術來實現可擴充性和更高的分數。此外，我們提供一種見解提取方法，以協助治療師進行診斷。所提出的系統解決了目前神經網路模型缺乏可解釋性的問題，並為心理疾病診斷提供了一個更值得信賴的解決方案。
 
 ##### **XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models**
 2306.01668v1 by Sujith K Mandala
@@ -1532,7 +1526,7 @@ This review highlights the key advancements in XAI for medical diagnostics and
 their potential to transform the healthcare landscape, ultimately improving
 patient outcomes and fostering trust in AI-driven diagnostic systems.
 
-摘要：隨著機器學習模型在醫療診斷中日益普及，可解釋性和透明度的需求變得至關重要。XAI 文藝復興標誌著該領域的重大轉變，旨在重新定義醫療診斷模型的可解釋性。本文探討了可解釋 AI (XAI) 領域內的創新方法和方法論，這些方法和方法論正在革新醫療診斷模型的可解釋性。通過闡明基礎決策制定過程，XAI 技術使醫療保健專業人員能夠理解、信任並有效利用這些模型，以進行準確可靠的醫療診斷。本綜述重點介紹了 XAI 在醫療診斷方面的關鍵進展及其轉變醫療保健領域的潛力，最終改善患者的治療結果並培養對 AI 驅動的診斷系統的信任。
+摘要：隨著機器學習模型在醫療診斷中越來越普遍，對可解釋性和透明度的需求變得至關重要。XAI 復興標誌著該領域的重大轉變，旨在重新定義醫療診斷模型的可解釋性。本文探討了可解釋人工智慧 (XAI) 領域內的創新方法和方法論，這些方法和方法論正在革新醫療診斷模型的可解釋性。XAI 技術通過闡明決策過程，讓醫療保健專業人員能夠理解、信任並有效地利用這些模型進行準確且可靠的醫療診斷。本綜述重點介紹了 XAI 在醫療診斷方面的關鍵進展及其轉變醫療保健領域的潛力，最終改善患者的治療結果並促進對 AI 驅動診斷系統的信任。
 
 ##### **A Novel real-time arrhythmia detection model using YOLOv8**
 2305.16727v3 by Guang Jun Nicholas Ang,Aritejh Kr Goil,Henryk Chan,Jieyi Jeric Lew,Xin Chun Lee,Raihan Bin Ahmad Mustaffa,Timotius Jason,Ze Ting Woon,Bingquan Shen
@@ -1557,7 +1551,7 @@ groundwork for an extension into a real-time explainable AI (XAI) model capable
 of deployment in the healthcare sector, thereby significantly advancing the
 realm of healthcare solutions.
 
-摘要：<paragraph>在以高度連通性和行動性為特徵的環境中，再加上心血管疾病的激增，透過遠端監測心血管健康來減少醫療保健支出的必要性變得更加明顯。準確偵測和分類心律不整對於診斷心臟不規則的個人至關重要。這項研究強調了在家中環境中使用心電圖 (ECG) 測量進行即時心律不整偵測的可行性。本文提出心律不整偵測的新應用，利用尖端的 You-Only-Look-Once (YOLO)v8 演算法來分類單導程 ECG 訊號。我們引進一個新的損失修改 YOLOv8 模型，針對 MIT-BIH 心律不整資料集進行微調，以實現即時連續監測。獲得的結果證實了我們方法的有效性，該模型在 NVIDIA Tesla V100 上達到了 99.5% 的平均準確度和 0.992 mAP@50，以及 0.002 秒的快速偵測時間。我們的研究說明了即時心律不整偵測的潛力，使用戶能夠在家中舒適地視覺化解讀模型輸出。此外，這項研究為擴展到能夠部署在醫療保健領域的即時可解釋 AI (XAI) 模型奠定了基礎，從而顯著推進了醫療保健解決方案的領域。</paragraph>
+摘要：在以高度連線性和行動力為特色的環境中，加上心血管疾病的激增，透過遠端監控心血管健康來減少醫療保健費用的必要性變得更加明顯。準確偵測和分類心律不整對於診斷患有心臟不規則的人至關重要。本研究強調了在家中環境中使用心電圖 (ECG) 量測值進行即時心律不整偵測的可行性。本論文提出心律不整偵測的新應用，利用尖端的 You-Only-Look-Once (YOLO)v8 演算法對單導程 ECG 訊號進行分類。我們引進一個新穎的損失修改 YOLOv8 模型，針對 MIT-BIH 心律不整資料集進行微調，實現即時連續監控。獲得的結果證實了我們方法的有效性，該模型在 NVIDIA Tesla V100 上達到了 99.5% 的平均準確度和 0.992 mAP@50，以及 0.002 秒的快速偵測時間。我們的研究說明了即時心律不整偵測的潛力，使用戶能夠在家中舒適地視覺化解讀模型輸出。此外，本研究為擴展到能夠在醫療保健部門部署的即時可解釋 AI (XAI) 模型奠定了基礎，從而顯著推動了醫療保健解決方案的領域。
 
 ##### **Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**
 2305.14389v2 by Jai Vardhan,Taraka Satya Krishna Teja Malisetti
@@ -1577,7 +1571,7 @@ fault identification and employ Gradient-weighted Class Activation Mapping
 IRT images. The superiority of our proposed framework is confirmed when
 compared with existing deep learning frameworks.
 
-摘要：乳癌（BC）仍然是一個重大的健康威脅，目前尚無長期的治療方法。早期發現至關重要，但乳房攝影的判讀受到高假陽性和假陰性的阻礙。由於乳癌的發生率預計將超過肺癌，因此改善早期檢測方法至關重要。熱成像使用高解析度紅外線相機，提供承諾，特別是當與人工智慧（AI）結合時。這項工作提出了一個基於注意力的卷積神經網路進行分割，在乳癌檢測和分類中提供了更高的速度和精度。該系統增強圖像，並使用可解釋的 AI 執行癌症分割。我們提出了一個基於變壓器注意力的卷積架構（UNet）用於故障識別，並採用梯度加權類激活映射（Grad-CAM）來分析 UNet 架構中 IRT 影像的偏差和弱點區域。與現有的深度學習框架相比，我們提出的框架的優越性得到證實。
+摘要：乳癌 (BC) 仍然是一個重大的健康威脅，目前還沒有長期治癒的方法。早期發現至關重要，但乳房攝影的判讀卻受到高假陽性和假陰性的影響。隨著乳癌的發生率預計將超過肺癌，改善早期檢測方法至關重要。熱像攝影使用高解析度紅外線相機，提供了希望，特別是與人工智慧 (AI) 結合時。這項工作提出了一個基於注意力的卷積神經網路進行分割，在乳癌的檢測和分類中提供了更高的速度和精確度。該系統增強影像並執行可解釋的 AI 癌症分割。我們提出了一個基於變壓器注意力的卷積架構 (UNet) 進行故障識別，並採用梯度加權類激活映射 (Grad-CAM) 來分析 UNet 架構中 IRT 影像的偏差和弱點區域。與現有的深度學習架構相比，我們提出的框架的優越性得到了證實。
 
 ##### **What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**
 2305.13127v2 by Junwei Kuang,Jiaheng Xie,Zhijun Yan
@@ -1602,7 +1596,7 @@ depression detection in social media. In practice, our proposed method can be
 implemented in social media platforms to provide personalized online resources
 for detected depressed patients.
 
-摘要：憂鬱症是最普遍且嚴重的精神疾病，會導致嚴重的財務和社會後果。憂鬱症的偵測對於早期介入以減輕這些後果至關重要。如此高風險的決策本質上需要可解釋性。儘管一些憂鬱症偵測研究嘗試根據重要性評分或注意力權重來解釋決策，但這些解釋與基於憂鬱症狀的臨床憂鬱症診斷標準不一致。為了填補這個缺口，我們遵循運算設計科學範例來開發一個新穎的多尺度時間原型網路 (MSTPNet)。MSTPNet 創新地偵測和解釋憂鬱症狀以及它們持續的時間。使用大型資料集進行的廣泛經驗分析顯示，MSTPNet 以 0.851 的 F1 分數優於最先進的憂鬱症偵測方法。這個結果也揭示了調查方法中未注意到的新症狀，例如分享對不同生活的欽佩。我們進一步進行使用者研究，以證明其在可解釋性方面優於基準。這項研究透過一個新穎的可解釋深度學習模型為憂鬱症在社群媒體中的偵測貢獻了 IS 文獻。在實務上，我們提出的方法可以實作在社群媒體平台中，以提供個人化的線上資源給偵測出的憂鬱症患者。
+摘要：憂鬱症是最普遍且嚴重的精神疾病，會帶來嚴重的財務和社會後果。憂鬱症偵測對於早期介入以減輕這些後果至關重要。如此重大的決定本質上需要可解釋性。儘管一些憂鬱症偵測研究嘗試根據重要性分數或注意力權重來解釋決定，但這些解釋與基於憂鬱症狀的臨床憂鬱症診斷標準不一致。為了解決這個差距，我們遵循計算設計科學範例來開發一種新穎的多尺度時間原型網路 (MSTPNet)。MSTPNet 創新地偵測和解釋憂鬱症狀以及它們持續的時間。使用大規模資料集進行的廣泛實證分析顯示，MSTPNet 以 0.851 的 F1 分數優於最先進的憂鬱症偵測方法。此結果也揭示了調查方法中未注意到的新症狀，例如分享對不同生活的欽佩。我們進一步進行使用者研究，以證明其在可解釋性方面優於基準。本研究為資訊系統文獻貢獻了一個新穎的可解釋深度學習模型，用於社群媒體中的憂鬱症偵測。在實務中，我們提出的方法可以實作在社群媒體平台中，以提供個人化的線上資源給偵測出的憂鬱症患者。
 
 ##### **Echoes of Biases: How Stigmatizing Language Affects AI Performance**
 2305.10201v4 by Yizhi Liu,Weiguang Wang,Guodong Gordon Gao,Ritu Agarwal
@@ -1625,7 +1619,7 @@ all SL in the entire corpus of data. This study provides actionable insights
 for responsible AI development and contributes to understanding clinician
 behavior and EHR note writing in healthcare.
 
-摘要：電子健康紀錄 (EHR) 作為預想中由人工智慧 (AI) 推動的醫療保健轉型的重要資料來源。然而，反映在 EHR 備註中的臨床偏見可能導致 AI 模型繼承並放大這些偏見，使健康差距持續存在。本研究調查了 EHR 備註中污名化語言 (SL) 對使用 Transformer 為基礎的深度學習模型和可解釋 AI (XAI) 技術預測死亡率的影響。我們的研究結果表明，由臨床醫生撰寫的 SL 對 AI 效能產生負面影響，特別是對黑人患者而言，強調 SL 是 AI 模型開發中種族差異的來源。為了探索一種在運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路調查 SL 產生的模式，並找出中心臨床醫生對 AI 模型中的種族差異影響較大。我們發現，移除由中心臨床醫生撰寫的 SL 是一種比消除資料集中所有 SL 更有效率的偏見降低策略。本研究為負責任的 AI 開發提供了可行的見解，並有助於了解臨床醫生的行為和在醫療保健中撰寫 EHR 備註。
+摘要：電子健康紀錄 (EHR) 是預想中由人工智慧 (AI) 推動的醫療保健轉型中不可或缺的資料來源。然而，反映在 EHR 筆記中的臨床偏見可能導致 AI 模型繼承並放大這些偏見，並使健康差距持續存在。本研究探討了 EHR 筆記中污名化語言 (SL) 對死亡率預測的影響，方法是使用基於 Transformer 的深度學習模型和可解釋 AI (XAI) 技術。我們的研究結果表明，由臨床醫生撰寫的 SL 對 AI 效能產生不利影響，尤其是對黑人患者而言，突顯了 SL 是 AI 模型開發中種族差異的來源。為了探索一種運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路探討 SL 產生的模式，並找出核心臨床醫生對 AI 模型中的種族差異具有較大的影響力。我們發現，移除由核心臨床醫生撰寫的 SL 是比消除資料集中所有 SL 更有效率的偏見減少策略。本研究提供了可行的見解，以進行負責任的 AI 開發，並有助於了解臨床醫生的行為和醫療保健中的 EHR 筆記撰寫。
 
 ##### **Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**
 2305.03376v1 by Goda Klumbyte,Hannah Piehl,Claude Draude
@@ -1640,7 +1634,7 @@ of cartography, which stems from feminist intersectional research, to draw out
 a systemic perspective of AI and include dimensions of AI that pertain to
 invisible labour.
 
-摘要：當代透過 AI 的自動化包含了大量的幕後人力，這些人力通常既被隱藏，又領取低薪。由於隱形勞動，包括標籤和維護工作，是當代 AI 系統不可或缺的一部分，因此讓使用者了解它的角色仍然很重要。我們建議這可以透過可解釋 AI (XAI) 設計來完成，特別是女性主義交叉 XAI。我們提出源自女性主義交叉研究的製圖方法，以描繪出 AI 的系統觀點，並納入與隱形勞動相關的 AI 向度。
+摘要：當代透過 AI 達成的自動化，包含大量幕後的勞力，而這些勞力往往既被隱形化，也領取不到應有的報酬。由於包含標籤和維護工作在內的隱形勞力，是當代 AI 系統不可或缺的一部分，因此讓使用者了解其角色仍然很重要。我們建議這可以透過可解釋 AI (XAI) 設計來達成，特別是女性主義交叉性 XAI。我們提出源自女性主義交叉性研究的地圖繪製方法，以提出 AI 的系統性觀點，並納入與隱形勞力相關的 AI 向度。
 
 ##### **Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**
 2304.13191v1 by Surjodeep Sarkar,Manas Gaur,L. Chen,Muskan Garg,Biplav Srivastava,Bhaktee Dongaonkar
@@ -1662,7 +1656,7 @@ explainability, safety, and wholesome trustworthiness. Finally, we provide
 evaluation metrics and practical considerations for VMHAs beyond the current
 literature to build trust between VMHAs and patients in active communications.
 
-摘要：虛擬心理健康助理 (VMHA) 持續進步，以支援每年有 6,000 萬次初級保健就診和 600 萬次急診室 (ER) 就診的負擔過重的全球醫療保健系統。這些系統是由臨床心理學家、精神科醫師和人工智慧 (AI) 研究人員為認知行為療法 (CBT) 建立的。目前，VMHA 的角色是透過資訊提供情緒支持，較少著重於與患者進行反思性對話。需要更全面、安全且可解釋的方法來建立負責任的 VMHA，以提出後續問題或提供充分的資訊回應。這項調查提供了對現有心理健康對話代理的系統性批判性回顧，接著深入探討了 VMHA 在脈絡知識、資料集和其在臨床決策支援中新興角色方面的改進。我們也提供了新的方向，以透過可解釋性、安全性，以及整體的信賴度來豐富 VMHA 的使用者體驗。最後，我們提供了評估指標和實務考量，讓 VMHA 超越目前的文獻，在積極的溝通中建立 VMHA 與患者之間的信任。
+摘要：虛擬心理健康助理 (VMHA) 持續進步，以支援每年有 6000 萬次初級保健就診和 600 萬次急診室 (ER) 就診的負擔過重的全球醫療保健系統。這些系統是由臨床心理學家、精神科醫師和人工智慧 (AI) 研究人員為認知行為療法 (CBT) 建立的。目前，VMHA 的角色是透過資訊提供情緒支持，較少著重於與患者發展反思性對話。需要更全面、安全且可解釋的方法來建構負責任的 VMHA，以提出後續問題或提供見多識廣的回應。本調查提供對現有心理健康對話代理的系統性批判性回顧，接著提出對 VMHA 改進的新見解，包括脈絡知識、資料集及其在臨床決策支援中出現的角色。我們也提供新的方向，以透過可解釋性、安全性及整體可信賴性來豐富 VMHA 的使用者體驗。最後，我們提供評量指標和實務考量，讓 VMHA 超越目前的文獻，在主動溝通中建立 VMHA 和患者之間的信任。
 
 ##### **A Brief Review of Explainable Artificial Intelligence in Healthcare**
 2304.01543v1 by Zahra Sadeghi,Roohallah Alizadehsani,Mehmet Akif Cifci,Samina Kausar,Rizwan Rehman,Priyakshi Mahanta,Pranjal Kumar Bora,Ammar Almasri,Rami S. Alkhawaldeh,Sadiq Hussain,Bilal Alatas,Afshin Shoeibi,Hossein Moosaei,Milan Hladik,Saeid Nahavandi,Panos M. Pardalos
@@ -1687,7 +1681,7 @@ by reviewing the related experimental results. To facilitate future research
 for filling research gaps, the importance of XAI models from different
 viewpoints and their limitations are investigated.
 
-摘要：XAI 指的是建立 AI 應用程式的技術和方法，可協助最終使用者解讀 AI 模型的輸出和預測。在高風險決策情況下，例如醫療領域，黑箱 AI 應用程式增加了透明度和可解釋性的需求，因為錯誤的預測可能會造成嚴重的後果。模型的可解釋性和可解讀性對於 AI 模型在醫療實務中的成功部署至關重要。AI 應用程式的基本推理需要對臨床醫生透明，才能獲得他們的信任。本文提出了醫療保健領域 XAI 層面和挑戰的系統性回顧。本研究的主要目標是回顧各種 XAI 方法、其挑戰，以及相關的醫療保健機器學習模型。這些方法分為六類討論：以特徵為導向的方法、全球方法、概念模型、替代模型、局部基於像素的方法和以人為中心的方法。最重要的是，本文探討了 XAI 在醫療保健問題中的角色，以釐清其在安全關鍵應用中的必要性。本文旨在透過回顧相關的實驗結果，建立對醫療保健領域中 XAI 相關應用程式的全面了解。為了促進未來的研究以填補研究差距，本文探討了 XAI 模型從不同觀點的重要性及其限制。
+摘要：XAI 指的是建立 AI 應用程式的技術和方法，協助最終使用者詮釋 AI 模型的輸出和預測。在高風險決策情境中，黑盒子 AI 應用程式（例如醫療領域）已經提高了透明度和可解釋性的需求，因為錯誤的預測可能會造成嚴重的後果。模型可解釋性和可詮釋性對於 AI 模型在醫療實務中的成功部署至關重要。AI 應用程式的基本推理需要對臨床醫師透明，才能獲得他們的信任。本文提出 XAI 面向和醫療領域挑戰的系統性回顧。本研究的主要目標是回顧各種 XAI 方法、它們的挑戰，以及醫療保健中相關的機器學習模型。這些方法分為六種類別討論：特徵導向方法、全球方法、概念模型、代理模型、局部像素化方法和以人為中心的方法。最重要的是，本文探討 XAI 在醫療保健問題中的角色，以釐清其在安全關鍵應用程式中的必要性。本文旨在透過回顧相關的實驗結果，建立對醫療保健領域中 XAI 相關應用程式的全面理解。為了促進未來研究填補研究差距，本文從不同的觀點探討 XAI 模型的重要性及其限制。
 
 ##### **Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**
 2303.12641v2 by Frederik Pahde,Maximilian Dreyer,Wojciech Samek,Sebastian Lapuschkin
@@ -1713,7 +1707,7 @@ setting. Completing the XAI life cycle, we demonstrate multiple R2R iterations
 to mitigate different biases. Code is available on
 https://github.com/maxdreyer/Reveal2Revise.
 
-摘要：最先进的机器学习模型通常会学习训练数据中嵌入的虚假相关性。在将这些模型部署于高风险决策制定时，例如在皮肤癌检测等医学应用中，这会带来风险。为了解决这个问题，我们提出了“揭示以修改”(R2R)，一个包含整个可解释人工智能 (XAI) 生命周期的框架，使从业者能够以最少的人工交互迭代识别、缓解和（重新）评估虚假模型行为。在第一步 (1) 中，R2R 通过找出归因中的异常值或通过检查模型学习的潜在概念来揭示模型弱点。其次 (2)，检测负责的伪像并在输入数据中进行空间定位，然后利用它来 (3) 修改模型行为。具体来说，我们应用 RRR、CDEP 和 ClArC 的方法进行模型校正，并 (4)（重新）评估模型的性能和对伪像的剩余敏感性。使用两个用于黑色素瘤检测和骨龄估计的医学基准数据集，我们将我们的 R2R 框架应用于 VGG、ResNet 和 EfficientNet 架构，从而揭示和纠正真实的数据集内在伪像，以及受控设置中的合成变体。完成 XAI 生命周期，我们展示了多个 R2R 迭代以减轻不同的偏差。代码可在 https://github.com/maxdreyer/Reveal2Revise 上获得。
+摘要：最先進機器學習模型通常會學習訓練資料中嵌入的虛假關聯性。這在將這些模型部署於高風險決策制定時會構成風險，例如皮膚癌偵測等醫療應用。為了解決此問題，我們提出 Reveal to Revise (R2R)，一個包含整個可解釋人工智慧 (XAI) 生命週期的架構，讓從業人員能夠反覆找出、減輕和（重新）評估虛假模型行為，同時將人為互動降至最低。在第一步 (1) 中，R2R 透過找出歸因中的異常值或透過檢查模型學習到的潛在概念來揭露模型弱點。其次 (2)，在輸入資料中偵測並在空間上定位負責的人工製品，然後利用它來 (3) 修改模型行為。具體來說，我們應用 RRR、CDEP 和 ClArC 的方法來矯正模型，並 (4)（重新）評估模型效能和對人工製品的剩餘敏感度。使用兩個用於黑色素瘤偵測和骨齡估計的醫療基準資料集，我們將 R2R 架構應用於 VGG、ResNet 和 EfficientNet 架構，並藉此揭露和矯正真正的資料內在人工製品，以及受控設定中的合成變異。完成 XAI 生命週期後，我們展示多個 R2R 迭代以減輕不同的偏差。程式碼可於 https://github.com/maxdreyer/Reveal2Revise 取得。
 
 ##### **Explainable AI for Time Series via Virtual Inspection Layers**
 2303.06365v1 by Johanna Vielhaben,Sebastian Lapuschkin,Grégoire Montavon,Wojciech Samek
@@ -1735,7 +1729,7 @@ showcase how DFT-LRP reveals differences in the classification strategies of
 models trained in different domains (e.g., time vs. frequency domain) or helps
 to discover how models act on spurious correlations in the data.
 
-摘要：可解釋人工智慧 (XAI) 領域在近年來大幅進展，但進展主要在於電腦視覺和自然語言處理。對於時間序列，其中輸入通常無法解釋，僅有有限的研究可用於 XAI。在這項工作中，我們提出一個虛擬檢查層，將時間序列轉換為可解釋的表示，並允許透過局部 XAI 方法（例如逐層相關性傳播 (LRP)）將相關性歸因傳播到此表示。藉此，我們將 XAI 方法系列的適用性擴展到輸入僅在轉換後才可解釋的領域（例如語音）。在此，我們專注於傅立葉轉換，其顯著應用於時間序列和 LRP 的解釋，並將我們的稱為 DFT-LRP。我們在各種時間序列分類設定中展示 DFT-LRP 的效用，例如音訊和電子健康記錄。我們展示 DFT-LRP 如何揭示在不同領域（例如時間與頻率域）中訓練的模型的分類策略的差異，或有助於發現模型如何作用於資料中的虛假相關性。
+摘要：可解釋人工智慧 (XAI) 領域近年來進展神速，但進展主要集中在電腦視覺和自然語言處理。對於時間序列，其輸入通常難以解釋，僅有有限的研究探討 XAI。在這項工作中，我們提出一個虛擬檢查層，將時間序列轉換成可解釋的表徵，並允許透過局部 XAI 方法（如逐層相關性傳播 (LRP)）將相關性歸因傳播到這個表徵。這樣一來，我們就能將一系列 XAI 方法的適用性擴展到輸入僅在轉換後才能解釋的領域（例如語音）。在此，我們專注於傅立葉轉換，它廣泛應用於時間序列和 LRP 的解釋中，並將我們的方法稱為 DFT-LRP。我們在各種時間序列分類設定中展示了 DFT-LRP 的效用，例如音訊和電子健康紀錄。我們展示了 DFT-LRP 如何揭露在不同領域（例如時間域與頻率域）中訓練的模型的分類策略差異，或有助於發現模型如何處理資料中的虛假相關性。
 
 ##### **Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**
 2303.04731v1 by Truong Thanh Hung Nguyen,Van Binh Truong,Vo Thanh Khang Nguyen,Quoc Hung Cao,Quoc Khanh Nguyen
@@ -1753,7 +1747,7 @@ comparison as feedback to improve the data quality and the model performance.
 Finally, we survey to assess doctors' and patients' trust in XAI explanations
 of the model's decisions on thyroid nodule images.
 
-摘要：解釋深度學習模型預測的能力對於最終使用者來說，是利用人工智慧 (AI) 的力量進行醫療決策過程的一項重要功能，而醫療決策過程通常被認為是不透明且難以理解的。在本文中，我們應用最先進的可解釋人工智慧 (XAI) 方法來解釋黑箱 AI 模型在甲狀腺結節診斷應用中的預測。我們提出新的基於統計的 XAI 方法，即核密度估計和密度圖，來解釋未檢測到結節的情況。XAI 方法的性能在定性和定量比較下被視為改進數據品質和模型性能的回饋。最後，我們調查以評估醫生和患者對 XAI 對甲狀腺結節影像模型決策的解釋的信任。
+摘要：解釋深度學習模型預測的能力對於最終使用者來說，是一項重要的功能，可以利用人工智慧 (AI) 的力量進行醫療決策制定過程，這通常被認為是不透明且難以理解的。在本文中，我們應用最先進的可解釋人工智慧 (XAI) 方法來解釋黑箱 AI 模型在甲狀腺結節診斷應用中的預測。我們提出新的基於統計的 XAI 方法，即核密度估計和密度圖，來解釋未檢測到結節的情況。XAI 方法的效能被視為一種定性和定量的比較，作為改善資料品質和模型效能的回饋。最後，我們調查評估醫生和患者對 XAI 解釋模型對甲狀腺結節影像決策的信任度。
 
 ##### **Cybersecurity of AI medical devices: risks, legislation, and challenges**
 2303.03140v1 by Elisabetta Biasin,Erik Kamenjasevic,Kaspar Rosager Ludvigsen
@@ -1783,7 +1777,8 @@ consequences of the evolving term of critical infrastructures?
 Handbook on Health, AI and the Law edited by Barry Solaiman & I. Glenn Cohen,
 forthcoming 2023, Edward Elgar Publishing Ltd]
 
-摘要：醫療設備和人工智慧系統快速轉變醫療保健的提供方式。同時，由於其本質，醫療設備中或作為醫療設備的人工智慧可能會遭受網路攻擊，導致患者安全和安全風險。本章節分為三部分。第一部分從設定場景開始，我們在其中說明網路安全在醫療保健中的角色。接下來，我們簡要定義當我們談論被視為醫療設備本身或支援醫療設備的人工智慧時所指為何。為了說明此類醫療設備帶來的風險，我們提供了三個範例：資料集中毒、社會工程和資料或原始碼萃取。在第二部分，本文概述了歐盟相關法規架構，以確保人工智慧作為或在醫療設備中的網路安全（醫療器材法規、網路與資訊安全指令、網路安全法、一般資料保護規範、人工智慧法提案和網路與資訊安全 2 指令提案）。最後，本文的第三部分探討了歐盟法規架構可能帶來的挑戰。特別是，我們展望了源自兩個立法提案的挑戰，以及它們與現行有關人工智慧醫療設備網路安全的立法之間的互動。它們被建構成為下列問題的答案：(1) 人工智慧法將如何與醫療器材法規互動，就網路安全和安全要求而言？(2) 我們應如何詮釋網路與資訊安全 2 指令提案和醫療器材法規中的事件通知要求？(3) 關鍵基礎設施演進條款的後果是什麼？[這是草稿章節。最終版本將出現在由 Barry Solaiman 和 I. Glenn Cohen 編輯的《健康、人工智慧與法律研究手冊》中，愛德華埃爾加出版社有限公司，即將於 2023 年出版]
+摘要：<paragraph>醫療設備和人工智慧系統迅速轉變醫療保健的提供方式。同時，由於其本質，醫療設備中或作為醫療設備的人工智慧可能會遭受網路攻擊，導致患者安全和安全風險。本章分為三部分。第一部分從設定場景開始，說明網路安全在醫療保健中的角色。然後，當我們談論本身被視為醫療設備或支援醫療設備的人工智慧時，我們簡要定義我們所指的內容。為了說明此類醫療設備帶來的風險，我們提供了三個範例：資料集中毒、社會工程和資料或原始碼萃取。在第二部分，本文概述了歐盟相關法規架構，以確保人工智慧作為或在醫療設備中的網路安全（MDR、NIS 指令、網路安全法、GDPR、人工智慧法提案和 NIS 2 指令提案）。最後，本文的第三部分探討了歐盟法規架構可能產生的挑戰。特別是，我們展望了兩個立法提案所衍生的挑戰，以及它們與現行有關人工智慧醫療設備網路安全的立法之間的互動。它們被結構化為對以下問題的回答：(1) 人工智慧法將如何與 MDR 在網路安全和安全要求方面互動？(2) 我們應如何解釋 NIS 2 指令提案和 MDR 的事件通知要求？(3) 關鍵基礎設施演進條款的後果是什麼？
+[這是一個草稿章節。最終版本將收錄在 Barry Solaiman 和 I. Glenn Cohen 編輯的《健康、人工智慧和法律研究手冊》中，即將於 2023 年由 Edward Elgar Publishing Ltd 出版]</paragraph>
 
 ##### **LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease Assessment from Fundus Images**
 2302.03008v2 by Nooshin Yousefzadeh,Charlie Tran,Adolfo Ramirez-Zamora,Jinghua Chen,Ruogu Fang,My T. Thai
@@ -1805,7 +1800,7 @@ cognitive tests and vascular morphological features suggest LAVA shows strong
 promise and effectiveness in identifying AD stages across the progression
 continuum.
 
-摘要：阿茲海默症 (AD) 是一種進行性的神經退化性疾病，也是失智症的主要原因。早期診斷對於患者從潛在的干預措施和治療中受益至關重要。由於視網膜與大腦的解剖結構相連，因此假設視網膜是 AD 檢測的診斷部位。為此目的開發的 AI 模型尚未對決策提供合理的解釋，也沒有推論出疾病進展的階段。沿著這個方向，我們提出了一個新的與模型無關的可解釋 AI 框架，稱為顆粒神經元級別解釋器 (LAVA)，這是一個解釋原型，可以探查卷積神經網路 (CNN) 模型的中間層，以直接從視網膜影像評估 AD 連續體，而無需縱向或臨床評估。此方法用於驗證視網膜血管作為阿茲海默症 (AD) 評估的生物標記和診斷方式。英國生物資料庫的認知測試和血管形態特徵表明，LAVA 在識別整個進展連續體中的 AD 階段方面顯示出強大的前景和有效性。
+摘要：阿茲海默症 (AD) 是一種進行性的神經退化疾病，也是失智症的主因。早期診斷對於患者接受潛在介入和治療至關重要。由於視網膜與大腦有解剖學上的連結，因此假設視網膜可以作為 AD 檢測的診斷部位。為此開發的 AI 模型尚未對決策提供合理的解釋，也無法推論疾病進程的階段。沿著這個方向，我們提出一個新的與模型無關的可解釋 AI 架構，稱為顆粒神經元級別解釋器 (LAVA)，這是一個解釋原型，用於探測卷積神經網路 (CNN) 模型的中間層，以便直接從視網膜影像評估 AD 連續體，而無需縱向或臨床評估。此方法用於驗證視網膜脈管系統作為阿茲海默症 (AD) 評估的生物標記和診斷方式。英國生物銀行的認知測試和血管形態特徵表明，LAVA 在識別 AD 階段的進程連續體中展現強大的前景和效能。
 
 ##### **Diagrammatization: Rationalizing with diagrammatic AI explanations for abductive-deductive reasoning on hypotheses**
 2302.01241v2 by Brian Y. Lim,Joseph P. Cahaly,Chester Y. F. Sng,Adam Chew
@@ -1827,7 +1822,7 @@ are preferred over technical saliency map explanations. This work contributes
 insights into providing domain-conventional abductive explanations for
 user-centric XAI.
 
-摘要：許多視覺化已發展用於可解釋 AI (XAI)，但它們通常需要使用者進一步推理才能詮釋。我們主張 XAI 應支援圖解和演繹推理，讓 AI 執行假設產生和評估，以縮小可解釋性差距。我們提出圖解化以 i) 執行皮爾斯的演繹推理，ii) 遵循領域慣例，以及 iii) 以視覺或口語方式使用圖表說明。我們實作了 DiagramNet 以用於臨床應用程式，從心臟聽診預測心臟診斷，並使用基於形狀的雜音圖表說明。在建模研究中，我們發現 DiagramNet 不僅提供忠實的雜音形狀說明，而且比基準模型有更好的預測效能。我們進一步在與醫學生的定性使用者研究中展示圖解說明的可解釋性和可信度，顯示臨床相關的圖解說明優於技術顯著性圖說明。這項工作有助於提供以使用者為中心的 XAI 的領域慣例演繹說明。
+摘要：已經為可解釋 AI (XAI) 開發出許多視覺化，但使用者通常需要進一步的推理才能解釋。我們主張 XAI 應該支援圖解和演繹推理，以便 AI 執行假設產生和評估，以縮小可解釋性差距。我們提出圖解化，以 i) 執行皮爾士演繹-演繹推理，ii) 遵循領域慣例，以及 iii) 以視覺或口語方式使用圖表進行說明。我們實作了 DiagramNet，用於臨床應用程式，以預測心臟聽診的心臟診斷，並使用基於形狀的雜音圖表進行說明。在建模研究中，我們發現 DiagramNet 不僅提供了忠實的雜音形狀說明，而且比基準模型具有更好的預測效能。我們進一步在與醫學生的定性使用者研究中展示了圖解說明的可解釋性和可信度，顯示出以臨床為導向的圖解說明比技術顯著性圖說明更受歡迎。這項工作有助於提供以使用者為中心的 XAI 的領域慣例演繹說明。
 
 ##### **LesionAid: Vision Transformers-based Skin Lesion Generation and Classification**
 2302.01104v1 by Ghanta Sai Krishna,Kundrapu Supriya,Mallikharjuna Rao K,Meetiksha Sorgile
@@ -1854,7 +1849,7 @@ the camera of a mobile application to perform an early examination and
 determine the cause of the skin lesion. The whole framework is compared with
 the existing frameworks for skin lesion detection.
 
-摘要：皮膚癌是人類最常見的癌症類型之一。它主要是透過視覺辨識，從臨床篩檢開始，接著進行皮膚鏡檢查、組織病理學評估和樣本收集。深度卷積神經網路 (CNN) 對分類的細緻物件執行高度區隔且潛在通用的任務。本研究提出一個新的多類別預測架構，以 ViT 和 ViTGAN 為基礎對皮膚病灶進行分類。基於視覺轉換器的 GAN（生成對抗網路）用於解決類別失衡問題。此架構包含四個主要階段：ViTGAN、影像處理和可解釋的 AI。第一階段包含產生合成影像，以平衡資料集中所有類別。第二階段包含套用不同的資料擴充技術和形態運算，以增加資料大小。第三和第四階段包含為邊緣運算系統開發一個 ViT 模型，該模型可以識別影像中使用者皮膚可見的皮膚病灶並對其進行分類。在第三階段，在使用 ViT 將病灶分類到所需的類別後，我們將使用可解釋的 AI (XAI)，它會產生更具可解釋性的結果（使用啟動映射等），同時確保高度的預測準確度。皮膚疾病的即時影像可以使用行動應用程式的相機由醫生或患者擷取，以執行早期檢查並確定皮膚病灶的原因。將整個架構與現有的皮膚病灶偵測架構進行比較。
+摘要：皮膚癌是人類最常見的癌症類型之一。它的辨識主要是透過視覺，從臨床篩檢開始，接著進行皮膚鏡檢查、組織病理學評估和檢體收集。深度卷積神經網路 (CNN) 針對分類的細粒度物件執行高度區隔且潛在通用的任務。本研究提出一個新的多類別預測架構，它以 ViT 和 ViTGAN 為基礎對皮膚病灶進行分類。基於視覺變換器的 GAN（生成對抗網路）被用於處理類別不平衡。這個架構包含四個主要階段：ViTGAN、影像處理和可解釋的人工智慧。第一階段包含產生合成影像以平衡資料集中的所有類別。第二階段包含應用不同的資料擴充技術和形態運算來增加資料量。第三和第四階段包含開發一個適用於邊緣運算系統的 ViT 模型，它可以識別影像中使用者皮膚可見的皮膚病灶並對它們進行分類。在第三階段，在使用 ViT 將病灶分類為所需的類別後，我們將使用可解釋的人工智慧 (XAI)，它會產生更具可解釋性的結果（使用啟動映射等），同時確保高度的預測準確性。皮膚疾病的即時影像可以使用行動應用程式的相機由醫生或患者拍攝，以進行早期檢查並確定皮膚病灶的原因。整個架構與現有的皮膚病灶偵測架構進行比較。
 
 ##### **SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis**
 2302.00785v1 by Roxana Daneshjou,Mert Yuksekgonul,Zhuo Ran Cai,Roberto Novoa,James Zou
@@ -1885,7 +1880,7 @@ Furthermore, we use SkinCon to demonstrate two of these use cases: debugging
 mistakes of an existing dermatology AI model with concepts and developing
 interpretable models with post-hoc concept bottleneck models.
 
-摘要：<paragraph>在高風險環境（例如醫療保健）中部署人工智慧 (AI) 時，提供可解釋性/可說明性或允許精細錯誤分析的方法至關重要。許多最近的可解釋性/可說明性和精細錯誤分析方法使用概念，這些概念是對人類具有語義意義的元標籤。然而，只有少數資料集包含概念級元標籤，而且這些元標籤大多與不需要領域專業知識的自然影像相關。專注於單一疾病（例如黑色素瘤）的元標籤的醫學密集標註資料集。在皮膚科中，皮膚疾病使用既定的臨床詞彙進行描述，讓臨床醫生可以彼此描述身體檢查結果。為了提供由領域專家密集標註的醫療資料集，其中標註對多種疾病過程有用，我們開發了 SkinCon：由皮膚科醫生密集標註的皮膚疾病資料集。SkinCon 包含來自 Fitzpatrick 17k 資料集的 3230 張影像，並使用 48 個臨床概念密集標註，其中 22 個概念至少有 50 張影像代表該概念。所使用的概念是由兩位皮膚科醫生根據用於描述皮膚病灶的臨床描述詞彙來選擇的。範例包括「斑塊」、「鱗屑」和「糜爛」。相同的概念也用於標註來自 Diverse Dermatology Images 資料集的 656 張皮膚疾病影像，提供具有多樣膚色表現的額外外部資料集。我們回顧了 SkinCon 資料集的潛在應用，例如探測模型、基於概念的說明和概念瓶頸。此外，我們使用 SkinCon 來展示其中兩個用例：使用概念偵錯現有皮膚科 AI 模型的錯誤，以及使用事後概念瓶頸模型開發可解釋的模型。</paragraph>
+摘要：在高風險環境（例如醫療保健）中部署人工智慧 (AI) 時，提供可解釋性/可說明性或允許精細錯誤分析的方法至關重要。許多最近的可解釋性/可說明性和精細錯誤分析方法使用概念，這些概念是對人類具有語義意義的元標籤。然而，只有少數數據集包含概念級別的元標籤，而且其中大多數元標籤與不需要領域專業知識的自然影像相關。專注於與單一疾病（例如黑色素瘤）相關的元標籤的醫學密集註釋數據集。在皮膚科中，皮膚疾病使用既定的臨床詞彙來描述，讓臨床醫生可以彼此描述身體檢查結果。為了提供一個由領域專家密集註釋的醫學數據集，其中註釋對多種疾病過程有用，我們開發了 SkinCon：一個由皮膚科醫生密集註釋的皮膚疾病數據集。SkinCon 包含來自 Fitzpatrick 17k 數據集的 3230 張影像，並使用 48 個臨床概念進行密集註釋，其中 22 個概念至少有 50 張影像代表該概念。所使用的概念是由兩位皮膚科醫生考慮用於描述皮膚病灶的臨床描述詞而選擇的。範例包括「斑塊」、「鱗屑」和「糜爛」。相同的概念也用於標記來自 Diverse Dermatology Images 數據集的 656 張皮膚疾病影像，提供了一個具有多樣化膚色的額外外部數據集。我們回顧了 SkinCon 數據集的潛在應用，例如探測模型、基於概念的說明和概念瓶頸。此外，我們使用 SkinCon 來展示這兩個用例中的兩個：使用概念偵錯現有皮膚科 AI 模型的錯誤，以及使用事後概念瓶頸模型開發可解釋的模型。
 
 ##### **Decision-Focused Evaluation: Analyzing Performance of Deployed Restless Multi-Arm Bandits**
 2301.07835v1 by Paritosh Verma,Shresth Verma,Aditya Mate,Aparna Taneja,Milind Tambe
@@ -1912,10 +1907,10 @@ evaluate the predictive component and show that it is better at explaining
 (both empirically and theoretically) the overall performance of a deployed RMAB
 system.
 
-摘要：不安分的多臂強盜 (RMAB) 是一個流行的決策理論架構，用於模擬公共衛生、野生動物保育、通訊系統等領域的現實世界順序決策問題。
-已部署的 RMAB 系統通常分兩個階段運作：第一個階段預測定義 RMAB 範例的未知參數，第二個階段採用最佳化演算法來解決建構的 RMAB 範例。
-在這項工作中，我們提供並分析了在公共衛生領域中首次部署 RMAB 系統的結果，旨在改善孕產婦和兒童健康。我們的分析重點在於了解預測準確性與已部署 RMAB 系統的整體效能之間的關係。這對於決定投資於提升預測準確性以改善最終系統效能的價值至關重要，並且對於診斷和監控已部署的 RMAB 系統很有用。
-使用我們已部署 RMAB 系統的真實世界資料，我們證明了整體預測準確性的提升甚至可能伴隨著 RMAB 系統效能的下降——廣泛投資資源以提升整體預測準確性可能無法產生預期的結果。在此之後，我們開發了以決策為重點的評量指標來評估預測組成，並證明它更能（在經驗上和理論上）解釋已部署 RMAB 系統的整體效能。
+摘要：不安靜的多臂賭徒 (RMAB) 是一個流行的決策理論架構，用於建模公共衛生、野生動物保育、通訊系統等領域的現實世界順序決策問題。
+已部署的 RMAB 系統通常分兩個階段運作：第一個預測定義 RMAB 範例的未知參數，第二個使用最佳化演算法來解決已建構的 RMAB 範例。
+在這項工作中，我們提供並分析了在公共衛生領域首次部署 RMAB 系統的結果，旨在改善孕產婦和兒童健康。我們的分析重點在於了解已部署 RMAB 系統的預測準確度與整體效能之間的關係。這對於評估投資於改善預測準確度以提升最終系統效能的價值至關重要，而且對於診斷、監控已部署的 RMAB 系統也很有用。
+使用我們已部署的 RMAB 系統的真實世界資料，我們證明了整體預測準確度的提升甚至可能伴隨著 RMAB 系統效能的下降——廣泛投資於改善整體預測準確度可能無法產生預期的結果。在此之後，我們開發了以決策為中心的評估指標來評估預測組成，並顯示它在解釋已部署 RMAB 系統的整體效能方面表現得更好（無論是經驗上還是理論上）。
 
 ##### **Exemplars and Counterexemplars Explanations for Image Classifiers, Targeting Skin Lesion Labeling**
 2302.03033v1 by Carlo Metta,Riccardo Guidotti,Yuan Yin,Patrick Gallinari,Salvatore Rinzivillo
@@ -1933,7 +1928,7 @@ diagnosis thus allowing the physician to interact with the automatic diagnosis
 system. The exemplars are generated via an adversarial autoencoder. We
 illustrate the behavior of the system on representative examples.
 
-摘要：可解釋的 AI 包含開發機制，允許決策系統與人類互動，並讓前者的決策易於理解。這在敏感情境中特別重要，例如在醫療領域。我們提出一個使用案例研究，用於皮膚病灶診斷，說明如何向執業醫師提供說明，說明最先進的深度神經網路分類器在從範例中描述皮膚病灶時所做出的決策。我們的架構包含一個訓練過的分類器，說明模組在其上運作。後者能夠為分類診斷提供執業醫師範例和反例，從而允許醫師與自動診斷系統互動。範例是透過對抗式自動編碼器產生的。我們說明系統在代表性範例中的行為。
+摘要：可解釋 AI 包含開發機制，允許決策系統與人類互動，讓前者的決策變得可以理解。這在醫療領域等敏感背景中特別重要。我們提出一個使用案例研究，針對皮膚病灶診斷，說明如何為從範例中訓練出的最新深度神經網路分類器決策，提供執業醫師解釋。我們的架構包含一個訓練好的分類器，解釋模組在其上執行。後者能夠為分類診斷提供執業醫師範例和反例，因此允許醫師與自動診斷系統互動。範例是透過對抗式自動編碼器產生的。我們說明系統在代表性範例上的行為。
 
 ##### **Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**
 2301.07060v1 by Dangxing Chen,Luyao Zhang
@@ -1960,7 +1955,7 @@ requirements in AI applications. Furthermore, we demonstrate that MNAMs are an
 effective fairness-aware ML approach by imposing monotonicity restrictions
 integrating human intelligence.
 
-摘要：人工智慧 (AI) 應用中的演算法公平性對於建立一個更美好的社會至關重要。公平性作為社會機制的基礎公理，包含多個面向。儘管機器學習 (ML) 社群已將焦點放在交叉性上，視為統計同質性的問題，特別是在歧視議題上，但新興的文獻探討了另一個面向——單調性。根據領域專業知識，單調性在許多與公平性相關的領域中扮演至關重要的角色，而違反單調性可能會誤導人類決策，並導致災難性的後果。在本文中，我們首先系統性地評估應用單調神經加法模型 (MNAM) 的重要性，該模型使用公平感知 ML 演算法來強制執行個人和成對單調性原則，以確保 AI 倫理和社會的公平性。我們透過理論推理、模擬和廣泛的實證分析的混合方法發現，在所有公平領域中，包括犯罪學、教育、醫療保健和金融，考量單調性公理至關重要。我們的研究有助於 AI 倫理、可解釋 AI (XAI) 和人機互動 (HCI) 介面中的跨領域研究。透過證明不符合單調性的災難性後果，我們探討了 AI 應用中單調性需求的重要性。此外，我們證明 MNAM 是一種有效的公平感知 ML 方法，透過實施單調性限制來整合人類智慧。
+摘要：在人工智能（AI）應用中，演算法公平性對於建立更美好的社會至關重要。公平性作為社會機制的基礎公理，包含多個面向。儘管機器學習（ML）社群已將焦點放在交叉性上，視其為統計平權問題，特別是在歧視議題上，但新興的文獻探討了另一個面向——單調性。根據領域專家，單調性在許多與公平性相關的領域中扮演至關重要的角色，違反單調性可能會誤導人類決策，並導致災難性的後果。在本文中，我們首先系統性地評估應用單調神經加法模型（MNAM）的重要性，該模型使用公平感知 ML 演算法來強制執行個人和成對單調性原則，以確保 AI 倫理和社會的公平性。我們透過理論推理、模擬和廣泛的實證分析的混合方法發現，在所有公平性領域，包括犯罪學、教育、醫療保健和金融，考量單調性公理至關重要。我們的研究有助於 AI 倫理、可解釋 AI（XAI）和人機互動（HCI）介面中的跨領域研究。透過證明不符合單調性會造成災難性的後果，我們探討了單調性需求在 AI 應用中的重要性。此外，我們證明 MNAM 是一項有效的公平感知 ML 方法，透過施加單調性限制來整合人類智慧。
 
 ##### **Rationalizing Predictions by Adversarial Information Calibration**
 2301.06009v1 by Lei Sha,Oana-Maria Camburu,Thomas Lukasiewicz
@@ -1990,7 +1985,7 @@ rationales. Experimental results on a sentiment analysis task, a hate speech
 recognition task as well as on three tasks from the legal domain show the
 effectiveness of our approach to rationale extraction.
 
-摘要：<paragraph>在安全关键型应用中，例如法律或医学领域，解释 AI 模型的预测至关重要。对预测的一种解释形式是提取式基本原理，即实例特征的子集，这些特征导致模型对该实例做出预测。例如，子短语 ``他偷了手机'' 可以是 ``盗窃'' 预测的提取式基本原理。以前关于生成提取式基本原理的工作通常采用两阶段模型：一个选择器，用于选择最重要的特征（即基本原理），然后是一个预测器，该预测器仅根据所选特征进行预测。这些工作的一个缺点是，学习选择特征的主要信号来自将预测器给出的答案与真实答案进行比较。在这项工作中，我们建议通过信息校准方法从预测器中提取更多信息。更准确地说，我们联合训练两个模型：一个是解决手头任务的典型神经模型，以准确但黑盒的方式进行，另一个是选择器预测器模型，它还为其预测生成基本原理。第一个模型用作第二个模型的指南。我们使用对抗技术来校准两个模型提取的信息，使得它们之间的差异成为遗漏或过度选择特征的指标。此外，对于自然语言任务，我们提出了一个基于语言模型的正则化器，以鼓励提取流畅的基本原理。情感分析任务、仇恨言论识别任务以及法律领域三个任务的实验结果表明了我们基本原理提取方法的有效性。</paragraph>
+摘要：<paragraph>在安全至上的應用程式中，例如法律或醫療領域，解釋 AI 模型的預測至關重要。一種預測解釋形式是萃取依據，亦即一個實例的子集特徵，引導模型對該實例做出預測。例如，子詞組「他偷了手機」可以是「竊盜」預測的萃取依據。先前關於產生萃取依據的研究通常採用兩階段模型：一個選擇器選擇最重要的特徵（即依據），接著一個預測器根據所選特徵獨家做出預測。這些研究的一個缺點是，學習選擇特徵的主要訊號來自於將預測器給出的答案與真實答案進行比較。在這項研究中，我們提議透過資訊校正方法從預測器中擷取更多資訊。更精確地說，我們聯合訓練兩個模型：一個是典型的解決手邊任務的神經模型，以精準但黑盒子的方式進行，另一個是選擇器預測器模型，另外還為其預測產生依據。第一個模型用作第二個模型的指南。我們使用對抗技巧來校正兩個模型萃取的資訊，使得它們之間的差異成為遺漏或過度選擇的特徵的指標。此外，對於自然語言任務，我們提議一種基於語言模型的正則化器，以鼓勵萃取流暢的依據。在情緒分析任務、仇恨言論辨識任務以及法律領域的 3 個任務上的實驗結果顯示了我們在依據萃取方面方法的有效性。</paragraph>
 
 ##### **Semantic match: Debugging feature attribution methods in XAI for healthcare**
 2301.02080v3 by Giovanni Cinà,Tabea E. Röber,Rob Goedhart,Ş. İlker Birbil
@@ -2014,7 +2009,7 @@ obtained, and thus feature attribution methods can still be employed in a
 meaningful and useful way. Finally, we sketch a procedure to test whether
 semantic match has been achieved.
 
-摘要：最近在醫療保健領域中通過人工智慧 (AI) 工具認證的激增，讓採用此項技術的辯論再次浮上檯面。這場辯論中的一個主題是可解釋的人工智慧 (XAI)，以及它讓 AI 裝置更透明且值得信賴的承諾。在醫療 AI 領域活躍的一些聲音表達了對可解釋 AI 技術的可靠性，尤其是特徵歸因方法的疑慮，質疑它們在準則和標準中的使用和納入。儘管有合理的疑慮，我們認為對事後局部可解釋性方法的可行性提出的現有批評，將問題泛化到特定於影像資料的問題，等於是連同洗澡水把嬰兒也倒掉了。我們從將問題描述為解釋和人類理解之間缺乏語義匹配開始。為了理解特徵重要性何時可以可靠地使用，我們引入低階和高階特徵特徵重要性之間的區別。我們認為，對於低階特徵具有明確語義的資料類型，例如電子健康紀錄 (EHR) 等表格資料，可以獲得語義匹配，因此特徵歸因方法仍然可以用有意義且有用的方式使用。最後，我們勾勒出一個程序來測試是否已達成語義匹配。
+摘要：近期通過認證的人工智慧（AI）醫療保健工具激增，重新引發了關於採用此技術的爭論。其中一項爭論的主題是可解釋 AI（XAI）及其承諾讓 AI 裝置更透明且值得信賴。在醫療 AI 領域中，一些活躍的聲音表達了對可解釋 AI 技術及其特別是特徵歸因方法的可靠性的疑慮，質疑其在準則和標準中的使用和納入。儘管有合理的疑慮，我們認為現有的批評意見認為事後局部可解釋性方法不可行，等於連同洗澡水把嬰兒也一起倒掉，因為它將特定於影像資料的問題加以概括。我們從將問題描述為解釋和人類理解之間缺乏語義匹配開始。為了了解何時可以可靠地使用特徵重要性，我們區分了低階特徵和高階特徵的特徵重要性。我們認為，對於低階特徵具有明確語義的資料類型，例如電子健康紀錄（EHR）等表格資料，可以取得語義匹配，因此特徵歸因方法仍可用於有意義且有用的方式。最後，我們勾勒出一個程序來測試是否已達成語義匹配。
 
 ##### **Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**
 2212.08821v1 by Isil Guzey,Ozlem Ucar,Nukhet Aladag Ciftdemir,Betul Acunas
@@ -2039,7 +2034,7 @@ approach. By contextualizing local explanations, our solution provides
 clinicians with actionable insights to support their autonomy for informed
 final decisions.
 
-摘要：儘管人工智慧（AI）的機器學習（ML）模型在醫學領域中取得高成效，但它們並非沒有錯誤。讓臨床醫生能夠辨識錯誤的模型建議對於建立對醫療 AI 的信任至關重要。可解釋 AI（XAI）旨在透過釐清 AI 推理來滿足此項需求，以支援最終使用者。最近有數項針對生物醫學影像的研究獲得了有前景的成果。然而，對於使用表格資料的模型來說，解決方案還不足以滿足臨床醫生的需求。本文提出了一種方法，以協助臨床醫生辨識使用表格資料訓練的 ML 模型的失敗。我們建立了方法論的三大支柱：透過利用臨床背景潛在空間分解特徵集、評估整體解釋的臨床關聯性，以及基於潛在空間相似性（LSS）的局部解釋。我們在 ML 基於感染所致早產兒疾病的識別上展示了我們的的方法論。模型失敗所導致的死亡風險、終身殘疾和抗生素抗藥性，是此領域中一個開放的研究問題。我們的方法成功辨識出兩個模型的錯誤分類案例。透過將局部解釋脈絡化，我們的解決方案為臨床醫生提供了可操作的見解，以支持他們做出明智的最終決定。
+摘要：儘管 AI 的機器學習 (ML) 模型在醫療領域表現卓越，但仍有錯誤。讓臨床醫生能夠辨識錯誤的模型建議，對於建立對醫療 AI 的信任至關重要。可解釋 AI (XAI) 旨在透過釐清 AI 推論來滿足此項需求，以協助最終使用者。最近針對生物醫學影像的幾項研究獲得了令人振奮的成果。然而，對於使用表格資料的模型的解決方案仍不足以滿足臨床醫生的需求。本文提出了一種方法，以協助臨床醫生識別使用表格資料訓練的 ML 模型的失敗。我們的方法建立在三個主要支柱上：利用臨床背景潛在空間分解特徵集、評估全局解釋的臨床關聯性，以及基於潛在空間相似性 (LSS) 的局部解釋。我們在 ML 基於識別感染引起的早產兒疾病的領域展示了我們的方法。由於模型故障而產生的死亡、終身殘疾和抗生素抗藥性風險是此領域中一個公開的研究問題。我們的方法成功識別了兩個模型的錯誤分類案例。我們的解決方案透過將局部解釋脈絡化，為臨床醫生提供可行的見解，以支持他們自主做出明智的最終決定。
 
 ##### **It is not "accuracy vs. explainability" -- we need both for trustworthy AI systems**
 2212.11136v2 by D. Petkovic
@@ -2067,7 +2062,7 @@ learning. We then present our recommendations for the use of XAI in full
 lifecycle of high stakes trustworthy AI systems delivery, e.g. development,
 validation and certification, and trustworthy production and maintenance.
 
-摘要：<paragraph>我們正目睹 AI 經濟和社會的興起，其中 AI 技術對醫療保健、商業、交通和日常生活中的許多方面產生越來越大的影響。已經報導了許多成功案例，其中 AI 系統甚至超越了人類專家的準確性。然而，AI 系統可能會產生錯誤、可能表現出偏見、可能對資料中的雜訊敏感，而且通常缺乏技術和司法透明度，導致信任度降低，並在採用時面臨挑戰。這些最近的缺點和疑慮已在科學和一般媒體中得到證實，例如自動駕駛汽車事故、醫療保健中的偏見、有色人種的招聘和面部識別系統、看似正確的醫療決策後來發現是由於錯誤的原因而做出的等等。這導致許多政府和監管倡議的出現，要求可信賴且合乎道德的 AI 提供準確性和穩健性、某種形式的可解釋性、人類控制和監督、消除偏見、司法透明度和安全性。提供可信賴 AI 系統的挑戰促使對可解釋 AI 系統 (XAI) 進行深入研究。XAI 的目標是提供人類可以理解的資訊，說明 AI 系統如何做出決策。在本文中，我們首先簡要總結當前的 XAI 工作，然後挑戰最近關於準確性與可解釋性互斥且僅關注深度學習的論點。然後，我們提出我們對在高風險可信賴 AI 系統交付的整個生命週期中使用 XAI 的建議，例如開發、驗證和認證，以及可信賴的生產和維護。</paragraph>
+摘要：<paragraph>我們正見證著 AI 經濟和社會的興起，其中 AI 技術對醫療保健、商業、運輸和日常生活中的許多方面產生越來越大的影響。已經報導了許多成功案例，其中 AI 系統甚至超過了人類專家的準確性。然而，AI 系統可能會產生錯誤、可能表現出偏見、可能對資料中的雜訊敏感，而且經常缺乏技術和司法透明度，導致信任度降低和採用上的挑戰。這些最近的缺點和問題已經在科學和一般媒體中得到記錄，例如自動駕駛汽車事故、醫療保健偏見、有色人種的招聘和面部識別系統、看似正確的醫療決策後來發現是出於錯誤的原因等等。這導致許多政府和監管倡議的出現，要求值得信賴和合乎道德的 AI 提供準確性和健壯性、某種形式的可解釋性、人為控制和監督、消除偏見、司法透明度和安全性。提供可信賴 AI 系統的挑戰促使對可解釋 AI 系統 (XAI) 進行深入研究。XAI 的目的是提供人類可理解的資訊，說明 AI 系統如何做出決策。在本文中，我們首先簡要總結當前的 XAI 工作，然後挑戰最近關於準確性與可解釋性相互排斥且僅專注於深度學習的論點。然後，我們提出我們對在高風險可信賴 AI 系統交付的完整生命週期中使用 XAI 的建議，例如開發、驗證和認證，以及可信賴的生產和維護。</paragraph>
 
 ##### **SimpleMind adds thinking to deep neural networks**
 2212.00951v1 by Youngwon Choi,M. Wasil Wahi-Anwar,Matthew S. Brown
@@ -2097,7 +2092,7 @@ explainable decisions. Example applications are provided that demonstrate how
 SimpleMind supports and improves deep neural networks by embedding them within
 a Cognitive AI framework.
 
-摘要：<paragraph>深度神經網路 (DNN) 可偵測資料中的模式，已在許多電腦視覺應用中展現出多功能性和強大的效能。然而，DNN 本身容易犯下違反簡單常識概念的明顯錯誤，且在使用明確知識來引導其搜尋和決策制定方面受到限制。雖然整體 DNN 效能指標可能不錯，但這些明顯的錯誤加上缺乏可解釋性，已阻礙其廣泛採用於醫療影像分析等重要任務。本文的目的是介紹 SimpleMind，一個專注於醫療影像理解的認知 AI 開源軟體架構。它允許建立一個知識庫，以直觀且人類可讀的形式描述影像物件預期的特徵和關係。SimpleMind 架構透過以下方式為 DNN 帶來思考能力：(1) 提供推理影像內容知識庫的方法，例如空間推理和條件推理，以檢查 DNN 輸出；(2) 以通用軟體代理的形式應用程序知識，將其串連在一起以完成影像前處理、DNN 預測和結果後處理；(3) 執行所有知識庫參數的自動共同最佳化，以使代理適應特定問題。SimpleMind 能對多個偵測到的物件進行推理以確保一致性，並在 DNN 輸出之間提供交叉檢查。這種機器推理透過可解釋的模型和可解釋的決策來改善 DNN 的可靠性和可信度。本文提供了範例應用，說明 SimpleMind 如何透過將深度神經網路嵌入認知 AI 架構中來支援和改善它們。</paragraph>
+摘要：深度神经網路 (DNN) 可偵測資料中的模式，並已在許多電腦視覺應用程式中展現出多功能性和強大的效能。然而，DNN 本身容易犯下違反簡單常識概念的明顯錯誤，且在使用明確知識來引導其搜尋和決策制定方面能力有限。雖然 DNN 的整體效能指標可能不錯，但這些明顯的錯誤加上缺乏可解釋性，已阻礙其廣泛應用於醫療影像分析等關鍵任務。本文的目的是介紹 SimpleMind，一個專注於醫療影像理解的認知 AI 開源軟體架構。它允許建立一個知識庫，以直觀的人類可讀形式描述影像物件之間預期的特性和關係。SimpleMind 架構透過以下方式為 DNN 帶來思考能力：(1) 提供方法來推理知識庫中的影像內容，例如空間推理和條件推理，以檢查 DNN 輸出；(2) 以通用軟體代理的形式應用程序知識，這些代理串連在一起以完成影像前處理、DNN 預測和結果後處理；以及 (3) 執行所有知識庫參數的自動共同最佳化，以使代理適應特定問題。SimpleMind 能對多個偵測到的物件進行推理以確保一致性，並提供 DNN 輸出之間的交叉檢查。這種機器推理透過可解釋的模型和可解釋的決策，提升了 DNN 的可靠性和可信度。提供的範例應用程式展示了 SimpleMind 如何透過將深度神經網路嵌入認知 AI 架構中，來支援和改善深度神經網路。
 
 ##### **Attribution-based XAI Methods in Computer Vision: A Review**
 2211.14736v1 by Kumar Abhishek,Deeksha Kamath
@@ -2116,7 +2111,7 @@ vision and review the existing literature for gradient-based,
 perturbation-based, and contrastive methods for XAI, and provide insights on
 the key challenges in developing and evaluating robust XAI methods.
 
-摘要：在過去十年中，基於深度學習方法的視覺感知任務有了驚人的增長，在從自動駕駛到臨床決策支援系統的眾多應用領域中得到廣泛採用。儘管這些基於深度學習的模型表現出色，但它們在決策過程中仍然相當不透明，這使得它們在人類關鍵任務中的部署成為一項有風險的事業。這反過來又使得了解這些模型做出的決策對於它們的可靠部署至關重要。可解釋 AI (XAI) 方法試圖通過為這種黑箱深度學習方法提供解釋來解決這個問題。在本文中，我們對計算機視覺中的基於歸因的 XAI 方法進行了全面的調查，並回顧了現有的基於梯度的、基於擾動的和基於對比的 XAI 方法的文獻，並提供了關於開發和評估穩健 XAI 方法的關鍵挑戰的見解。
+摘要：在過去十年中，基於深度學習方法的視覺感知任務取得驚人的進展，在從自動駕駛到臨床決策支援系統的眾多應用領域中得到廣泛採用。儘管這些基於深度學習的模型表現令人印象深刻，但在決策過程中它們仍然相當不透明，這使得它們在人類關鍵任務中的部署成為一項有風險的事業。這反過來又使得理解這些模型做出的決策對於它們的可靠部署至關重要。可解釋 AI (XAI) 方法試圖通過為這種黑盒深度學習方法提供解釋來解決這個問題。在本文中，我們對計算機視覺中的基於歸因的 XAI 方法進行了全面調查，並回顧了基於梯度、基於擾動和基於對比的 XAI 方法的現有文獻，並對開發和評估強大的 XAI 方法的關鍵挑戰提供了見解。
 
 ##### **Privacy Meets Explainability: A Comprehensive Impact Benchmark**
 2211.04110v1 by Saifullah Saifullah,Dominique Mercier,Adriano Lucieri,Andreas Dengel,Sheraz Ahmed
@@ -2143,7 +2138,26 @@ interdependencies of these pivotal technologies, this work is a first step
 towards overcoming the remaining hurdles for practically applicable AI in
 safety-critical domains.
 
-摘要：自 10 年代中期以來，深度學習 (DL) 時代持續至今，每年都帶來新的最高級和創新。儘管如此，這些創新轉化為實際應用的速度卻落後於這個快節奏。特別是安全關鍵應用，其基礎是嚴格的法規和道德要求，需要加以注意，而且仍然是爭論的活躍領域。可解釋 AI (XAI) 和隱私保護機器學習 (PPML) 都是至關重要的研究領域，旨在減輕 DL 中盛行的數據密集型黑盒模型的一些缺點。儘管在各自的領域中進行了熱烈的研究活動，但尚未關注它們之間的交互作用。這項工作是第一個研究私有學習技術對基於 DL 的模型產生的解釋的影響。在涵蓋多個領域的各種圖像和時間序列數據集以及不同的隱私技術、XAI 方法和模型架構的廣泛實驗分析中，研究了私有訓練對產生的解釋的影響。研究結果表明，通過引入隱私，解釋發生了不可忽視的變化。除了報告 PPML 對 XAI 的個別影響外，本文還對實際應用中技術的選擇提出了明確的建議。通過揭示這些關鍵技術的相互依賴性，這項工作是克服安全關鍵領域中實際可應用的 AI 剩餘障礙的第一步。
+摘要：自 10 年代中期以來，深度學習 (DL) 的時代持續至今，
+每年都帶來新的最高級和創新。儘管如此，
+這些創新轉化為實際應用的速度落後於
+這個快節奏。特別是安全關鍵應用程式，
+受到嚴格的法規和道德要求的約束，需要
+受到重視，並且仍然是爭論的活躍領域。可解釋 AI (XAI) 和
+隱私保護機器學習 (PPML) 都是至關重要的研究領域，
+旨在減輕 DL 中盛行的數據密集黑盒模型的一些缺點。儘管
+在各自的領域中進行了積極的研究活動，但尚未關注
+它們的互動。這項工作是第一個研究
+私人學習技術對基於 DL 的模型產生的解釋的影響。在
+涵蓋來自多個領域的各種影像和時間序列
+資料集的廣泛實驗分析中，以及不同的隱私技術、XAI
+方法和模型架構，研究了私有訓練對產生的
+解釋的影響。研究結果表明，通過引入隱私，
+解釋發生了不可忽視的變化。除了報告
+PPML 對 XAI 的個別影響外，本文還對
+實際應用中技術的選擇給出了明確的建議。通過揭示
+這些關鍵技術的相互依存性，這項工作是
+克服安全關鍵領域中實際可應用的 AI 所剩障礙的第一步。
 
 ##### **Predicting Treatment Adherence of Tuberculosis Patients at Scale**
 2211.02943v2 by Mihir Kulkarni,Satvik Golechha,Rishi Raj,Jithin Sreedharan,Ankit Bhardwaj,Santanu Rathod,Bhavin Vadera,Jayakrishna Kurada,Sanjay Mattoo,Rajendra Joshi,Kirankumar Rade,Alpan Raval
@@ -2168,7 +2182,7 @@ patients is a viable, deployable-at-scale ML solution. As the official AI
 partner of India's Central TB Division, we are working on multiple city and
 state-level pilots with the goal of pan-India deployment.
 
-摘要：肺結核（TB）是一種傳染性細菌疾病，是造成死亡的重要原因，特別是在低收入國家，據估計在 2020 年全球通報了一千萬個新病例。儘管肺結核可以治療，但未遵守藥物治療計畫是造成發病率和死亡率的重要原因。因此，主動找出有中斷藥物治療計畫風險的患者，可以採取糾正措施來減輕不良後果。我們使用極端未遵守治療的代理測量值和來自印度四個邦近 700,000 名患者的資料集，並根據自訂的基於排名的指標制定並解決機器學習 (ML) 問題，以早期預測未遵守治療。我們訓練 ML 模型並根據基準進行評估，在考量全國大規模未來部署的情況下，達到比基於規則的基準高出約 100%，比隨機分類器高出約 214%。我們在過程中處理了各種問題，包括資料品質、高基數類別資料、低目標患病率、分佈轉移、不同群組之間的差異、演算法公平性，以及對穩健性和可解釋性的需求。我們的研究結果表明，未遵守治療患者的風險分層是一種可行的、可大規模部署的 ML 解决方案。作為印度中央肺結核部門的官方 AI 合作夥伴，我們正在與多個城市和州級試點計畫合作，目標是在全印度部署。
+摘要：肺結核 (TB) 是一種傳染性細菌疾病，是造成死亡的重要原因，特別是在低收入國家，2020 年全球估計有 1000 萬例新病例。儘管肺結核可以治療，但未遵守藥物治療方案是造成發病率和死亡率的重要原因。因此，主動找出有中斷用藥風險的患者，可採取矯正措施來減輕不良後果。透過使用極端不遵守的代理測量，以及來自印度四個邦近 70 萬名患者的資料集，我們制定並解決機器學習 (ML) 問題，根據客製化基於排名的指標，提早預測不遵守治療。我們訓練 ML 模型，並針對基準進行評估，相較於基於規則的基準，提升約 100%，相較於隨機分類器，提升約 214%，考量到全國範圍的大規模未來部署。在此過程中，我們處理各種問題，包括資料品質、高基數類別資料、目標患病率低、分佈轉移、不同群組的差異、演算法公平性，以及對穩健性和可解釋性的需求。我們的研究結果表明，不遵守治療患者的風險分層是一種可行的、可大規模部署的 ML 解决方案。作為印度中央肺結核部門的官方 AI 合作夥伴，我們正在多個城市和邦級試點計畫中合作，目標是全印度部署。
 
 ##### **Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**
 2211.01036v2 by Senthil Kumar Jagatheesaperumal,Quoc-Viet Pham,Rukhsana Ruby,Zhaohui Yang,Chunmei Xu,Zhaoyang Zhang
@@ -2191,7 +2205,7 @@ key inferences. In a nutshell, this paper constitutes the first holistic
 compilation on the development of XAI-based frameworks tailored for the demands
 of future IoT use cases.
 
-摘要：<paragraph>可解釋人工智慧 (XAI) 透過提升最終使用者對機器信任度，轉化人工智慧 (AI) 領域。隨著連網裝置數量持續成長，物聯網 (IoT) 市場需要對最終使用者值得信賴。然而，現有文獻仍缺乏針對 XAI 用於 IoT 的系統性且全面的調查工作。為了彌補這個不足，本文探討 XAI 架構，重點在於其特性與對 IoT 的支援。我們說明廣泛使用的 XAI 服務，用於 IoT 應用，例如安全性強化、醫療物聯網 (IoMT)、工業物聯網 (IIoT) 和城市物聯網 (IoCT)。我們也建議在這些應用中，透過適當的範例，執行 XAI 模型於 IoT 系統的選擇，並總結出對未來工作的關鍵推論。此外，我們提出邊緣 XAI 架構的尖端發展，以及第六代 (6G) 通訊服務對 IoT 應用支援，連同關鍵推論。簡而言之，本文構成第一個針對 XAI 基礎架構發展的整體彙編，專為未來 IoT 使用案例的需求量身打造。</paragraph>
+摘要：可解釋人工智慧 (XAI) 透過提升使用者對機器信任度，轉變人工智慧 (AI) 領域。隨著連網裝置數量持續增加，物聯網 (IoT) 市場需要對使用者建立信任。然而，現有的文獻仍缺乏關於 XAI 在 IoT 中使用的系統化且全面的調查工作。為了彌補這個不足，我們在這篇論文中探討 XAI 架構，重點在於它們的特性和對 IoT 的支援。我們說明了廣泛使用的 XAI 服務，用於 IoT 應用程式，例如安全性強化、醫療物聯網 (IoMT)、工業物聯網 (IIoT) 和城市物聯網 (IoCT)。我們也建議在這些應用程式中選擇在 IoT 系統上實作 XAI 模型，並提供適當的範例，並總結未來工作的關鍵推論。此外，我們展示了邊緣 XAI 架構的尖端發展，以及第六代 (6G) 通訊服務對 IoT 應用程式的支援，以及關鍵推論。簡而言之，這篇論文構成第一個針對未來 IoT 使用案例需求量身打造的 XAI-based 架構發展的整體彙編。
 
 ##### **Human-centered XAI for Burn Depth Characterization**
 2210.13535v2 by Maxwell J. Jacobson,Daniela Chanci Arrubla,Maria Romeo Tricas,Gayle Gordillo,Yexiang Xue,Chandan Sen,Juan Wachs
@@ -2211,7 +2225,7 @@ from porcine subjects. We show improvements in the accuracy of burn depth
 classification -- from ~88% to ~94% -- once modified according to our
 framework.
 
-摘要：美國每年約有 125 萬人因燒傷接受治療。精確的燒傷分類是醫療 AI 領域的重要面向。在這項研究中，我們提出一個可解釋的人在迴路架構，以改善燒傷超音波分類模型。我們的架構利用基於 LIME 分類說明器的說明系統，來佐證並整合燒傷專家的知識，建議新的功能並確保模型的有效性。使用這個架構，我們發現 B 型超音波分類器可以透過提供紋理特徵來增強。更具體地說，我們確認基於超音波影像的灰階共生矩陣 (GLCM) 的紋理特徵可以提高轉移學習的燒傷深度分類器的準確度。我們在豬隻受試者的真實資料上測試我們的假設。我們展示了燒傷深度分類的準確度提升，從約 88% 到約 94%，一旦根據我們的架構修改後。
+摘要：美国每年约有 125 万人因烧伤而接受治疗。精确的烧伤分类是医疗 AI 领域的重要方面。在这项工作中，我们提出了一个可解释的人在回路框架，用于改进烧伤超声分类模型。我们的框架利用基于 LIME 分类解释器的解释系统来证实和整合烧伤专家的知识——提出新特性并确保模型的有效性。使用此框架，我们发现可以通过提供纹理特征来增强 B 模式超声分类器。更具体地说，我们确认基于超声帧的灰度共生矩阵 (GLCM) 的纹理特征可以提高转移学习烧伤深度分类器的准确性。我们在猪受试者的真实数据上测试了我们的假设。我们展示了烧伤深度分类的准确性提高——从约 88% 提高到约 94%——一旦根据我们的框架进行修改。
 
 ##### **What Do End-Users Really Want? Investigation of Human-Centered XAI for Mobile Health Apps**
 2210.03506v1 by Katharina Weitz,Alexander Zellner,Elisabeth André
@@ -2231,7 +2245,7 @@ for XAI design. We subsumed the results in three prototypical user personas:
 power-, casual-, and privacy-oriented users. Our insights bring an interactive,
 human-centered XAI closer to practical application.
 
-摘要：在醫療保健中，AI 系統支援臨床醫師和病患進行診斷、治療和監控，但許多系統的解釋性不佳，對實際應用來說仍是一項挑戰。克服此障礙是可解釋 AI (XAI) 的目標。然而，每個人對解釋的理解不同，因此無法為所有人解決黑箱問題。以人為中心的 AI 領域透過調整 AI 以適應使用者來處理此問題。我們提出以使用者為中心的角色概念來評估 XAI，並使用它來調查行動健康壓力監控應用程式中各種解釋風格和內容的最終使用者偏好。我們的線上調查結果顯示，使用者的年齡層和人格特質，以及解釋類型，會影響解釋偏好，這表示這些是 XAI 設計的基本功能。我們將結果歸納為三種典型的使用者角色：權力型、休閒型和注重隱私的使用者。我們的見解讓互動式、以人為中心的 XAI 更接近實際應用。
+摘要：在醫療保健中，AI 系統支援臨床醫師和病患進行診斷、治療和監控，但許多系統的解釋性不佳，這對於實際應用來說仍然具有挑戰性。克服這個障礙是可解釋 AI (XAI) 的目標。然而，每個人對解釋的看法可能不同，因此無法為所有人解決黑箱問題。以人為中心的 AI 領域透過調整 AI 以適應使用者來處理這個問題。我們提出以使用者為中心的角色概念來評估 XAI，並使用它來調查行動健康壓力監控應用程式中，最終使用者對各種解釋風格和內容的偏好。我們的線上調查結果顯示，使用者的個人資料和人格特質，以及解釋類型，都會影響解釋偏好，這表示這些是 XAI 設計的基本要素。我們將結果歸納為三種原型使用者角色：重視權力、休閒和隱私的使用者。我們的見解讓互動式、以人為中心的 XAI 更接近實際應用。
 
 ##### **Explainable AI based Glaucoma Detection using Transfer Learning and LIME**
 2210.03332v1 by Touhidul Islam Chayan,Anita Islam,Eftykhar Rahman,Md. Tanzim Reza,Tasnim Sakib Apon,MD. Golam Rabiul Alam
@@ -2255,7 +2269,7 @@ improvement enables medical professionals obtain important and comprehensive
 information that aid them in making judgments. It also lessen the opacity and
 fragility of the traditional deep learning models.
 
-摘要：青光眼是造成所有視力缺陷中部分或完全失明的第二大原因，其主要發生於因焦慮或憂鬱症而導致眼內壓力過大，進而損害視神經並造成視力併發症。傳統的青光眼篩檢是一個耗時的過程，需要醫療專業人員持續關注，即使如此，他們仍會因時間限制和壓力而無法正確分類，導致治療錯誤。已經有許多努力嘗試自動化整個青光眼分類程序，然而這些現有模型通常具有黑盒特性，使用戶無法了解預測背後的主要原因，因此醫療從業人員通常無法依賴這些系統。在本文中，我們在比較過各種預先訓練的模型後，提出了一個轉移學習模型，該模型能夠以 94.71% 的準確度對青光眼進行分類。此外，我們利用了局部可解釋模型不可知解釋（LIME），在我們的系統中引入了可解釋性。這項改進使醫療專業人員能夠獲得重要且全面的資訊，協助他們做出判斷。它也降低了傳統深度學習模型的不透明性和脆弱性。
+摘要：青光眼是所有視覺缺陷中導致部分或完全失明的第二大原因，主要發生在由於焦慮或憂鬱症導致的眼睛壓力過大，進而損傷視神經並產生視力併發症。傳統的青光眼篩檢是一個耗時的過程，需要醫療專業人員持續關注，即使如此，由於時間限制和壓力，他們時常無法正確分類，導致治療錯誤。已經做出許多努力來自動化整個青光眼分類程序，然而，這些現有模型通常具有黑盒特性，使用戶無法了解預測背後的主要原因，因此醫療從業人員通常無法依賴這些系統。在本文中，在與各種預訓練模型進行比較後，我們提出了一個轉移學習模型，該模型能夠以 94.71% 的準確率對青光眼進行分類。此外，我們利用了局部可解釋模型不可知解釋（LIME），在我們的系統中引入了可解釋性。此改進使醫療專業人員能夠獲得重要且全面的資訊，以協助他們做出判斷。它也降低了傳統深度學習模型的不透明性和脆弱性。
 
 ##### **Evaluation of importance estimators in deep learning classifiers for Computed Tomography**
 2209.15398v1 by Lennart Brocki,Wistan Marchadour,Jonas Maison,Bogdan Badic,Panagiotis Papadimitroulas,Mathieu Hatt,Franck Vermet,Neo Christopher Chung
@@ -2286,8 +2300,8 @@ not necessarily align with how the model arrived at its prediction.
 Understanding this difference in interpretability would help harnessing the
 power of deep learning in medicine.
 
-摘要：深度學習在偵測物件和分類影像方面展現出優異的表現，確保了分析醫學影像的極大前景。
-將深度學習的成功轉化為醫學影像，其中醫生需要了解其背後流程，需要具備解釋和說明神經網路預測的能力。深度神經網路的可解釋性通常仰賴於估計輸入特徵（例如像素）相對於結果（例如類別機率）的重要性。然而，已經開發出許多重要性估計器（也稱為顯著性圖），目前尚不清楚哪些估計器與醫學影像應用較為相關。在目前的研究中，我們使用三個不同的評估指標，探討了多個重要性估計器在解釋卷積深度網路對電腦斷層掃描 (CT) 影像分類的表現。首先，以模型為中心的保真度會在特定輸入受到擾動時，測量模型精確度的下降。其次，在像素層級上，以受試者操作特性 (ROC) 曲線測量重要性分數與專家定義的分割遮罩之間的一致性。第三，我們透過 Dice 相似係數 (DSC) 測量 XRAI-based 地圖與分割遮罩之間的區域重疊。整體而言，SmoothGrad 的兩個版本在保真度和 ROC 排名中名列前茅，而整合梯度和 SmoothGrad 則在 DSC 評估中表現出色。有趣的是，以模型為中心（保真度）和以人為中心（ROC 和 DSC）的評估之間存在著關鍵差異。分割地圖中嵌入的專家期望和直覺，不一定與模型如何得出其預測相符。了解可解釋性中的這種差異，將有助於利用深度學習在醫學中的力量。
+摘要：深度學習在偵測物體和分類影像方面展現出極佳的表現，確保了分析醫學影像的巨大前景。
+將深度學習的成功轉化為醫學影像，其中醫生需要了解其基礎過程，需要具備詮釋和解釋神經網路預測的能力。深度神經網路的可解釋性通常依賴於估計輸入特徵（例如，像素）相對於結果（例如，類別機率）的重要性。然而，已經開發出許多重要性估計器（也稱為顯著性圖），但目前尚不清楚哪些對於醫學影像應用更為相關。在目前的工作中，我們使用三個不同的評估指標，探討了幾個重要性估計器在解釋卷積深度網路對電腦斷層掃描 (CT) 影像分類時的表現。首先，以模型為中心的保真度測量在某些輸入受到擾動時模型精確度的下降。其次，在像素層級上，透過受試者工作特性 (ROC) 曲線測量重要性評分和專家定義的分割遮罩之間的一致性。第三，我們透過 Dice 相似性係數 (DSC) 測量基於 XRAI 的圖和分割遮罩之間的區域重疊。整體而言，SmoothGrad 的兩個版本在保真度和 ROC 排名中名列前茅，而整合梯度和 SmoothGrad 則在 DSC 評估中表現出色。有趣的是，以模型為中心（保真度）和以人為中心（ROC 和 DSC）的評估之間存在著嚴重的差異。分割圖中嵌入的專家期望和直覺不一定與模型如何得出其預測相符。了解可解釋性中的這種差異將有助於利用深度學習在醫學中的力量。
 
 ##### **An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**
 2210.08979v1 by Yuzhe Lu,Adam Perer
@@ -2309,7 +2323,7 @@ how we can leverage visual analytics to transform originally static
 interpretability techniques to augment human decision making and promote the
 adoption of medical AI.
 
-摘要：深度學習方法，特別是卷積神經網路，已經成為醫學影像運算任務中強大的工具。雖然這些複雜的模型提供了優異的效能，但其黑箱性質可能會阻礙在高風險決策制定中採用。在本文中，我們提出一個互動系統，利用最先進的可解釋性技術來協助放射科醫師進行乳癌篩檢。我們的系統將深度學習模型整合到放射科醫師的工作流程中，並提供新穎的互動方式，以促進對模型決策過程的理解。此外，我們證明我們的系統可以逐漸利用使用者互動，在幾乎沒有標籤開銷的情況下提供更細緻的可解釋性報告。由於所採用的可解釋性技術的通用性，我們的系統與領域無關，可用於許多不同的醫學影像運算任務，提供了一個新的觀點，說明我們如何利用視覺分析來轉換原本靜態的可解釋性技術，以擴增人類決策制定並促進醫療 AI 的採用。
+摘要：深度學習方法，特別是卷積神經網路，已成為醫學影像運算任務中強大的工具。雖然這些複雜的模型提供了極佳的效能，但其黑箱特性可能會阻礙在高風險決策制定中被實際採用。在本文中，我們提出一個互動式系統，利用最先進的可解釋性技術來協助放射科醫師進行乳癌篩檢。我們的系統將深度學習模型整合到放射科醫師的工作流程中，並提供新穎的互動方式，以促進對模型決策過程的理解。此外，我們證明我們的系統可以逐步利用使用者互動，以提供更精細的解釋性報告，而標記開銷很小。由於所採用的可解釋性技術的通用性，我們的系統與領域無關，可用於許多不同的醫學影像運算任務，並提供一個新的觀點，說明我們如何利用視覺分析將原本靜態的可解釋性技術轉化為擴增人類決策制定和促進採用醫學 AI 的方法。
 
 ##### **Explainable AI for clinical and remote health applications: a survey on tabular and time series data**
 2209.06528v1 by Flavio Di Martino,Franca Delmastro
@@ -2335,7 +2349,7 @@ effective explanations for the end users. Finally, we highlight the main
 research challenges in the field as well as the limitations of existing XAI
 methods.
 
-摘要：現今，人工智慧（AI）已成為醫療保健應用程式（臨床和遠端）的基本組成部分，但效能最佳的 AI 系統通常太過複雜，無法自我解釋。可解釋 AI（XAI）技術被定義為揭示系統預測和決策背後的推理，並且在處理敏感和個人健康資料時變得更為關鍵。值得注意的是，XAI 尚未在不同的研究領域和資料類型中獲得相同的關注，特別是在醫療保健方面。特別是，許多臨床和遠端健康應用程式分別基於表格和時間序列資料，而 XAI 通常不會在這些資料類型上進行分析，而電腦視覺和自然語言處理（NLP）則是參考應用程式。為了概述最適合醫療保健領域中表格和時間序列資料的 XAI 方法，本文回顧了過去 5 年的文獻，說明所產生的解釋類型以及評估其相關性和品質所做的努力。具體來說，我們將臨床驗證、一致性評估、客觀且標準化的品質評估以及以人為中心的品質評估確定為確保最終使用者獲得有效解釋的關鍵特徵。最後，我們重點說明了該領域的主要研究挑戰以及現有 XAI 方法的限制。
+摘要：如今，人工智能 (AI) 已成為醫療保健應用程式中的一項基本組成部分，無論是臨床或遠程醫療，但效能最佳的 AI 系統通常過於複雜，無法自行解釋。可解釋 AI (XAI) 技術被定義為揭示系統預測和決策背後的推理，在處理敏感和個人健康資料時，它們變得更加重要。值得注意的是，XAI 並未在不同的研究領域和資料類型中獲得相同的關注，特別是在醫療保健中。特別是，許多臨床和遠程醫療應用程式分別基於表格資料和時間序列資料，而 XAI 通常不會在這些資料類型上進行分析，而電腦視覺和自然語言處理 (NLP) 則為參考應用程式。為了概述最適合醫療保健領域中表格資料和時間序列資料的 XAI 方法，本文回顧了過去 5 年的文獻，說明了所產生的解釋類型以及評估其相關性和品質所付出的努力。具體來說，我們將臨床驗證、一致性評估、客觀且標準化的品質評估和以人為中心的品質評估確定為確保對最終使用者進行有效解釋的主要特徵。最後，我們重點說明了該領域的主要研究挑戰以及現有 XAI 方法的限制。
 
 ##### **Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**
 2208.14742v1 by Gaetan Dissez,Nicole Tay,Tom Dyer,Matthew Tam,Richard Dittrich,David Doyne,James Hoare,Jackson J. Pat,Stephanie Patterson,Amanda Stockham,Qaiser Malik,Tom Naunton Morgan,Paul Williams,Liliana Garcia-Mondragon,Jordan Smith,George Pearse,Simon Rasalingham
@@ -2370,13 +2384,13 @@ algorithms in improving early lung cancer diagnosis and promoting health equity
 through overall improvement in reader performances, without impacting
 downstream imaging resources.
 
-摘要：<paragraph>目的：本研究評估了一種商業化可解釋 AI 演算法，在增強臨床醫師使用胸部 X 光（CXR）識別肺癌的能力方面的影響。
-設計：這項回顧性研究評估了 11 位臨床醫師從胸部 X 光片偵測肺癌的表現，有和沒有來自商業化 AI 演算法（紅點，Behold.ai）的協助，該演算法會預測 CXR 中疑似肺癌。臨床醫師表現根據臨床確診結果進行評估。
-背景：這項研究分析了來自 NHS 醫院的匿名患者資料；資料集包含 400 張成人患者（18 歲以上）的胸部 X 光片（於 2020 年進行 CXR），以及對應的臨床文字報告。
-參與者：由 11 位臨床醫師（顧問放射科醫師、放射科醫師受訓人員和報告放射技師）組成的讀者小組參與這項研究。
-主要結果指標：臨床醫師在 CXR 上偵測肺癌的整體準確度、敏感度、特異度和精密度，有和沒有 AI 輸入。臨床醫師之間的一致率和表現標準差也進行了評估，有和沒有 AI 輸入。
-結果：臨床醫師使用 AI 演算法，改善了肺部腫瘤偵測的整體表現，整體增加了 17.4% 的肺癌在 CXR 上被識別，否則這些腫瘤將會被遺漏，整體上增加了小型腫瘤的偵測，分別增加了 24% 和 13% 的第一期和第二期肺癌偵測，並標準化了臨床醫師的表現。
-結論：這項研究顯示了 AI 演算法在改善早期肺癌診斷和透過整體改善讀者表現來促進健康公平方面的臨床效用，同時不影響下游影像資源。</paragraph>
+摘要：<paragraph>目的：本研究評估了一種市售的可解釋 AI 演算法，在增強臨床醫生識別胸部 X 光片（CXR）上的肺癌能力方面的影響。
+設計：這項回顧性研究評估了 11 位臨床醫生在有和沒有市售 AI 演算法（紅點，Behold.ai）協助下，從胸部 X 光片中偵測肺癌的表現，該演算法可預測 CXR 中疑似肺癌。臨床醫生表現根據臨床確診進行評估。
+背景：本研究分析了來自 NHS 醫院的匿名患者資料；資料集包含 400 張在 2020 年接受 CXR 的成年患者（18 歲及以上）的胸部 X 光片，並附有對應的臨床文字報告。
+參與者：由 11 位臨床醫生（顧問放射科醫生、放射科醫生受訓人員和報告放射技師）組成的讀者小組參與了本研究。
+主要結果指標：臨床醫生在有和沒有 AI 輸入的情況下，偵測 CXR 上肺癌的整體準確度、敏感度、特異度和精確度。還評估了臨床醫生之間的一致性比率和效能標準差，有和沒有 AI 輸入的情況下。
+結果：臨床醫生使用 AI 演算法導致肺腫瘤偵測的整體表現改善，整體增加 17.4% 的肺癌在 CXR 上被識別，否則將會被遺漏，整體上增加較小腫瘤的偵測，分別增加 24% 和 13% 的第 1 期和第 2 期肺癌偵測，以及臨床醫生表現的標準化。
+結論：本研究顯示 AI 演算法在臨床應用中極具前景，可透過整體改善讀者表現來改善早期肺癌診斷並促進健康公平，同時不影響下游影像資源。</paragraph>
 
 ##### **GAN-based generative modelling for dermatological applications -- comparative study**
 2208.11702v1 by Sandra Carrasco Limeros,Sylwia Majchrowska,Mohamad Khir Zoubi,Anna Rosén,Juulia Suvilehto,Lisa Sjöblom,Magnus Kjellberg
@@ -2400,7 +2414,7 @@ concerns in this type of applications. The open source code for conducted
 studies is publicly available at
 \url{https://github.com/aidotse/stylegan2-ada-pytorch}.
 
-摘要：由於缺乏足夠大型的開放式醫療資料庫，是 AI 驅動醫療保健中最大的挑戰之一。使用生成對抗網路 (GAN) 所建立的合成資料，似乎是緩解隱私政策問題的良好解決方案。另一種治療方式是跨多個醫療機構的去中心化協定，而無需交換本地的資料樣本。在本文中，我們在集中式和去中心化的設定中探討了無條件和有條件的 GAN。集中式設定模仿了大型但高度不平衡的皮膚病變資料集的研究，而分散式設定則模擬了三個機構的更實際的醫院場景。我們評估了模型在保真度、多樣性、訓練速度和在生成的合成資料上訓練的分類器的預測能力方面的效能。此外，我們透過探索潛在空間和嵌入投影，提供了針對全局和局部說明的說明性。計算出的真實影像與其在潛在空間中的投影之間的距離，證明了訓練過的 GAN 的真實性和概化性，這是此類應用程式的主要考量之一。所進行研究的開放原始碼可在
+摘要：醫療資料庫規模過小是 AI 驅動醫療保健面臨的最大挑戰之一。使用生成對抗網路 (GAN) 所建立的合成資料，看起來是緩解隱私政策問題的良好解決方案。另一種解決方法是跨多個醫療機構建立分散式協定，而不交換本機資料樣本。在本文中，我們探討了集中式和分散式設定中的無條件和條件 GAN。集中式設定模擬大型但極度不平衡的皮膚病變資料集的研究，而分散式設定模擬了三家機構參與的更貼近現實的醫院情境。我們根據保真度、多樣性、訓練速度和針對生成合成資料訓練的分類器的預測能力，評估模型的效能。此外，我們透過探討潛在空間和嵌入式投影來提供可解釋性，同時專注於整體和局部解釋。計算實體影像與其在潛在空間投影之間的距離，證明了訓練過的 GAN 的真實性和泛化性，這是此類應用程式的主要考量之一。執行研究的開放原始碼可在
 \url{https://github.com/aidotse/stylegan2-ada-pytorch} 公開取得。
 
 ##### **Planning and Scheduling in Digital Health with Answer Set Programming**
@@ -2423,7 +2437,7 @@ Answer Set programming will be limited. Thus, another part of the research will
 be devoted to study and propose new methodologies for explaining the solutions
 obtained.
 
-摘要：在醫院的世界裡，有許多複雜的組合問題，解決這些問題對於提高患者滿意度和提供的照護品質非常重要。醫療保健中的問題很複雜，因為解決這些問題時，必須考慮到各種限制和不同類型的資源。此外，必須在短時間內評估解決方案，以確保在實際情況中可用。我們計畫提出解決這些問題的解決方案，既擴充已經測試過的解決方案，又根據文獻為新問題建模解決方案，並在有實際資料時使用這些資料。解決這些問題非常重要，但由於歐盟執委會制定一般資料保護法規，規定每個人都有權要求解釋 AI 做出的決定，因此在未發展出可解釋性方法之前，基於 AI 的求解器（例如基於答案設定程式設計的求解器）的使用將受到限制。因此，研究的另一個部分將致力於研究並提出新的方法，來說明所獲得的解決方案。
+摘要：在醫院的世界裡有許多複雜的組合問題，解決這些問題對於提高患者滿意度和所提供的照護品質非常重要。醫療保健中的問題很複雜，因為解決它們需要考慮到許多限制和不同類型的資源。此外，必須在短時間內評估解決方案，以確保在實際情況中可用。我們計畫提出解決這類問題的方法，既擴充已經測試過的解決方案，也透過建模解決新問題，並在有實際資料時加以考量。解決這類問題很重要，但由於歐盟執委會在一般資料保護條例中規定，每個人都有權要求解釋 AI 做出的決定，因此在沒有發展出可解釋性方法的情況下，基於 AI 的求解器（例如基於 Answer Set 程式設計的求解器）的使用將會受到限制。因此，研究的另一部分將致力於研究和提出新的方法，以解釋所獲得的解決方案。
 
 ##### **AI Approaches in Processing and Using Data in Personalized Medicine**
 2208.04698v1 by Mirjana Ivanovic,Serge Autexier,Miltiadis Kokkonidis
@@ -2447,7 +2461,7 @@ medical data in future. In this paper, we will present some crucial aspects and
 characteristic examples in the area of application of a range of artificial
 intelligence approaches in personalized medical decisions.
 
-摘要：在現代動態不斷發展的社會中，越來越多人罹患慢性且嚴重的疾病，醫生和病患需要特殊且精密的醫療保健支持。因此，傑出的醫療利害關係人已認知到此類服務的發展對於讓病患生活更輕鬆的重要性。此類支持需要收集大量病患的複雜資料，例如臨床、環境、營養、日常活動、來自智慧型穿戴式裝置的各種資料、來自配備感測器的衣物的資料等。整體病患資料必須適當彙整、處理、分析，並呈現在醫生和照護者面前，以建議適當的治療和行動，改善病患的健康相關參數和整體健康。進階的人工智慧技術提供了分析此類大資料、使用這些資料，並衍生新知識以支持個人化醫療決策的機會。新的方法，例如那些基於進階機器學習、聯邦學習、遷移學習、可解釋人工智慧的方法，為未來更優質地使用健康和醫療資料開啟了新的道路。在本文中，我們將提出一些關鍵面向和特徵範例，說明人工智慧方法在個人化醫療決策中的應用範圍。
+摘要：在現代動態不斷發展的社會中，越來越多的人患有慢性病和重症，醫生和患者需要特殊且精密的醫療和健康支援。因此，傑出的醫療保健利益相關者已意識到開發此類服務的重要性，以讓患者的生活更輕鬆。此類支援需要收集大量患者複雜的資料，例如臨床、環境、營養、日常活動、來自智慧穿戴式裝置的各種資料、來自配備感測器的服裝的資料等。整體患者資料必須適當地彙總、處理、分析並提供給醫生和照護者，以建議適當的治療和行動，以改善患者的健康相關參數和整體健康狀況。先進的人工智慧技術提供了分析此類大資料、使用它們並衍生新知識的機會，以支援個人化的醫療決策。基於進階機器學習、聯邦學習、轉移學習、可解釋人工智慧等新方法為未來更優質地使用醫療保健資料開闢了新途徑。在本文中，我們將提出一些關鍵面向和特徵範例，說明在個人化醫療決策中應用一系列人工智慧方法的領域。
 
 ##### **TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**
 2207.11290v2 by Nandita Bhaskhar,Daniel L. Rubin,Christopher Lee-Messer
@@ -2478,7 +2492,7 @@ domains. Through extensive qualitative and quantitative evaluations, we show
 that our mistrust scores are more robust and provide explainability for easy
 adoption into practice.
 
-摘要：<paragraph>持續監控訓練過的機器學習模型以判斷何時應信任和不信任其預測，對於安全部署至關重要。這樣的框架應具備高性能、可解釋性、事後性和可操作性。我們提出 TRUST-LAPSE，一種用於持續模型監控的「不信任」評分框架。我們使用一連串潛在空間嵌入評估每個輸入範例的模型預測的可信度。具體來說，(a) 我們的潛在空間不信任分數使用潛在空間中的距離度量 (馬氏距離) 和相似度量 (餘弦相似度) 來估計不信任，以及 (b) 我們的順序不信任分數確定在非參數、基於滑動視窗演算法中，過去輸入表示的順序中相關性的偏差，以進行可操作的持續監控。我們透過兩個下游任務評估 TRUST-LAPSE：(1) 分布式偏移輸入偵測，以及 (2) 資料漂移偵測。我們使用公開資料集評估各種領域 - 音訊和視覺，並進一步在具有挑戰性的真實世界腦電圖 (EEG) 資料集上評估我們的方法以進行癲癇偵測。我們的潛在空間不信任分數獲得最先進的結果，AUROC 分別為 84.1 (視覺)、73.9 (音訊) 和 77.1 (臨床 EEG)，比基準高出 10 分以上。我們揭露了流行基準中的關鍵失敗，這些基準對輸入語義內容不敏感，使其不適合用於真實世界的模型監控。我們表明，我們的順序不信任分數可達成高漂移偵測率；超過 90% 的串流在所有領域顯示小於 20% 的誤差。透過廣泛的質性和量化評估，我們表明我們的信任分數更健全，並提供可解釋性，以便輕鬆採用於實務中。</paragraph>
+摘要：<paragraph>持續監控受訓的 ML 模型，以確定何時應信任其預測，何時不應信任，這對於其安全部署至關重要。此類架構應具有高執行效能、可解釋性、事後性和可操作性。我們提出 TRUST-LAPSE，這是一個用於持續模型監控的「不信任」評分架構。我們使用一系列潛在空間嵌入來評估每個輸入範例的模型預測的可信度。具體來說，(a) 我們的潛在空間不信任評分使用潛在空間中的距離度量 (馬氏距離) 和相似度量 (餘弦相似度) 來估計不信任，(b) 我們的順序不信任評分確定過去輸入表示順序中關聯性的偏差，這是一個用於可操作持續監控的非參數化、滑動視窗演算法。我們透過兩個下游任務評估 TRUST-LAPSE：(1) 分佈式偏移輸入偵測，以及 (2) 資料漂移偵測。我們使用公共資料集評估各種領域 - 音訊和視覺，並進一步在用於癲癇偵測的具有挑戰性的真實世界腦電圖 (EEG) 資料集上對我們的做法進行基準測試。我們的潛在空間不信任評分獲得了最先進的結果，AUROC 分別為 84.1 (視覺)、73.9 (音訊) 和 77.1 (臨床 EEG)，比基準高出 10 分以上。我們揭露了流行基準中對輸入語義內容不敏感的嚴重缺陷，使它們不適合用於真實世界的模型監控。我們表明，我們的順序不信任評分達到了很高的漂移偵測率；所有領域超過 90% 的串流顯示 < 20% 的誤差。透過廣泛的定性和定量評估，我們表明，我們的信任評分更強健，並提供可解釋性，以便於實務採用。</paragraph>
 
 ##### **Revealing Unfair Models by Mining Interpretable Evidence**
 2207.05811v1 by Mohit Bajaj,Lingyang Chu,Vittorio Romaniello,Gursimran Singh,Jian Pei,Zirui Zhou,Lanjun Wang,Yong Zhang
@@ -2500,7 +2514,7 @@ many real-world data sets, our method finds highly interpretable and solid
 evidence to effectively reveal the unfairness of trained models. Moreover, it
 is much more scalable than all of the baseline methods.
 
-摘要：機器學習的普及增加了不公平模型部署在高風險應用程式的風險，例如司法系統、藥物/疫苗設計和醫療診斷。雖然有有效的方法可以從頭開始訓練公平模型，但如何自動揭露和解釋訓練模型的不公平性仍然是一項具有挑戰性的任務。以可解釋的方式揭露機器學習模型的不公平性是邁向公平且值得信賴的 AI 的關鍵一步。在本文中，我們系統性地解決了通過挖掘可解釋證據 (RUMIE) 揭露不公平模型的新任務。其關鍵思想是以一群模型最具歧視性的資料實例的形式找到確鑿證據。為了使證據具有可解釋性，我們還找到了一組人類可以理解的關鍵屬性和決策規則，這些屬性和決策規則描述了具有歧視性的資料實例，並將它們與其他非歧視性資料區分開來。正如在許多真實世界資料集上進行的廣泛實驗所證明的，我們的模型找到了高度可解釋且確鑿的證據，可以有效地揭露訓練模型的不公平性。此外，它比所有基線方法的擴充性都要大得多。
+摘要：機器學習的普及增加了不公平模型部署在高風險應用程式中的風險，例如司法系統、藥物/疫苗設計和醫療診斷。儘管有從頭訓練公平模型的有效方法，但如何自動揭露和解釋訓練模型的不公平性仍然是一項具有挑戰性的任務。以可解釋的方式揭露機器學習模型的不公平性是邁向公平且可信賴 AI 的關鍵一步。在本文中，我們系統性地解決了通過挖掘可解釋證據 (RUMIE) 來揭露不公平模型的新任務。關鍵思想是以一群受模型最多歧視的資料實例的形式找到確鑿的證據。為了讓證據具有可解釋性，我們還找到了一組人類可以理解的關鍵屬性和決策規則，這些屬性和決策規則描述了受歧視的資料實例，並將它們與其他未受歧視的資料區分開來。正如在許多真實世界資料集上的廣泛實驗所證明的，我們的模型找到了高度可解釋且確鑿的證據，可以有效地揭露訓練模型的不公平性。此外，它比所有基線方法的擴充性都要好得多。
 
 ##### **From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**
 2207.04969v1 by Lukas Klein,Mennatallah El-Assady,Paul F. Jäger
@@ -2519,7 +2533,7 @@ safety-critical settings. By formulating these questions, we further aim to
 spark a discussion about what distinguishes IML from classical statistics and
 what our perspective implies for the future of the field.
 
-摘要：可解釋 AI (XAI) 在安全關鍵系統中是必要的，例如在臨床診斷中，因為致命決策的風險很高。然而，目前 XAI 就像是一堆鬆散的方法，而不是一個定義良好的程序。在這項工作中，我們詳細說明了 XAI 中最大的子群體，可解釋機器學習 (IML) 與經典統計之間的概念相似性。基於這些相似性，我們提出了 IML 的形式化，類似於統計程序。採用這種統計觀點讓我們能夠將機器學習模型和 IML 方法解釋為複雜的統計工具。基於這個解釋，我們推論出三個關鍵問題，我們將其視為 IML 在安全關鍵環境中成功和採用的關鍵。透過制定這些問題，我們進一步旨在激發一場討論，討論 IML 與經典統計之間的區別，以及我們的觀點對該領域的未來有何影響。
+摘要：可解釋 AI (XAI) 在安全關鍵系統（例如臨床診斷）中是必要的，因為致命決策的風險很高。然而，目前 XAI 就像是一堆鬆散的方法集合，而不是定義良好的流程。在這項工作中，我們詳細說明了 XAI 最大的子群體，可解釋機器學習 (IML) 與古典統計之間的概念相似性。根據這些相似性，我們提出了沿著統計流程的 IML 正式化。採用這種統計觀點，讓我們能夠將機器學習模型和 IML 方法解釋為精密的統計工具。根據這種解釋，我們推論出三個關鍵問題，我們將其視為 IML 在安全關鍵環境中成功和採用的關鍵。透過制定這些問題，我們進一步旨在引發一場關於 IML 與古典統計之間的區別，以及我們的觀點對該領域未來的影響的討論。
 
 ##### **Explainable AI (XAI) in Biomedical Signal and Image Processing: Promises and Challenges**
 2207.04295v1 by Guang Yang,Arvind Rao,Christine Fernandez-Maloigne,Vince Calhoun,Gloria Menegaz
@@ -2541,7 +2555,7 @@ points to an upcoming Special Issue on Deep Learning in Biomedical Image and
 Signal Processing of the IEEE Signal Processing Magazine that is going to
 appear in March 2022.
 
-摘要：人工智慧已普遍存在於各學科和領域，生物醫學影像和訊號處理也不例外。對此主題日益增長且廣泛的興趣引發了大量的研究活動，這反映在指數級的研究工作中。透過研究大量的多元生物醫學資料，機器和深度學習模型已經徹底改變了建模、分割、配準、分類和合成等各種任務，超越了傳統技術。然而，將結果轉化為生物學/臨床可解釋資訊的難度，阻礙了它們在該領域的充分利用。可解釋人工智慧 (XAI) 嘗試透過提供方法來讓模型可解釋並提供說明，以填補這種轉譯鴻溝。迄今為止，已經提出了不同的解決方案，並且越來越受到社群的關注。本文旨在提供生物醫學資料處理中 XAI 的概述，並指出將出現在 2022 年 3 月的 IEEE 訊號處理雜誌中，關於生物醫學影像和訊號處理深度學習的即將推出的特刊。
+摘要：人工智慧已普遍存在於各學科和領域中，生物醫學影像和訊號處理也不例外。對此主題日益增長且廣泛的興趣引發了廣泛的研究活動，這反映在指數級的研究工作中。透過研究大量且多樣化的生物醫學資料，機器和深度學習模型已徹底改變了建模、分割、配準、分類和合成等各種任務，其效能優於傳統技術。然而，將結果轉換為生物學上/臨床上可解釋的資訊的困難，阻礙了其在該領域的充分利用。可解釋 AI (XAI) 嘗試透過提供使模型可解釋並提供說明的方法來填補此轉譯差距。迄今已提出不同的解決方案，並越來越受到社群的關注。本文旨在提供生物醫學資料處理中 XAI 的概觀，並指出 IEEE 訊號處理雜誌中即將出版的生物醫學影像和訊號處理深度學習特刊，該特刊將於 2022 年 3 月出刊。
 
 ##### **Towards the Use of Saliency Maps for Explaining Low-Quality Electrocardiograms to End Users**
 2207.02726v1 by Ana Lucic,Sheeraz Ahmad,Amanda Furtado Brinhosa,Vera Liao,Himani Agrawal,Umang Bhatt,Krishnaram Kenthapadi,Alice Xiang,Maarten de Rijke,Nicholas Drabowski
@@ -2564,7 +2578,7 @@ study on evaluating the effects of XAI methods on end-users -- stakeholders
 that use AI systems but do not have AI-specific expertise. We welcome feedback
 and suggestions on our experimental setup.
 
-摘要：在使用醫療影像進行診斷時，無論是由臨床醫師或人工智慧 (AI) 系統，影像品質都很重要。當影像品質不佳時，產生該影像的醫療檢查通常需要重新執行。在遠距醫療中，一個常見的問題是，只有在病患離開診所後才會標示品質問題，這表示他們必須回來重新檢查。這對於居住在偏遠地區的人來說尤其困難，而這些人佔巴西一家數位醫療保健組織 Portal Telemedicina 的病患很大一部分。在本文中，我們報告關於以下事項的進行中工作：(i) 開發一個 AI 系統，用於標示和解釋低品質醫療影像，且為即時運作；(ii) 一項訪談研究，用於了解在 OurCompany 使用 AI 系統的利害關係人對解釋的需求；以及 (iii) 一個縱向使用者研究設計，用於檢視在我們的診所中，將解釋納入技術人員工作流程的效果。據我們所知，這將是第一個針對 XAI 方法對最終使用者（使用 AI 系統但沒有特定 AI 專業知識的利害關係人）的效果進行評估的縱向研究。我們歡迎針對我們的實驗設定提供意見回饋和建議。
+摘要：在使用醫學影像進行診斷時，無論是臨床醫生或人工智慧 (AI) 系統，影像品質都很重要。當影像品質不佳時，產生影像的醫療檢查通常需要重新進行。在遠距醫療中，常見的問題是，只有在患者離開診所後才會標示品質問題，這表示他們必須回來重新進行檢查。這對居住在偏遠地區的人來說特別困難，而這些人佔 Portal Telemedicina 的患者相當大的比例，Portal Telemedicina 是巴西一家數位醫療保健組織。在本文中，我們報告關於 (i) 開發一種 AI 系統，用於標示和說明低品質醫學影像，且能即時執行；(ii) 一項訪談研究，以了解在 OurCompany 使用 AI 系統的利害關係人對說明的需求；以及 (iii) 一項縱向使用者研究設計，用於檢驗在我們的診所中，將說明納入技術人員的工作流程中會產生什麼影響。據我們所知，這將是第一個針對評估 XAI 方法對最終使用者（使用 AI 系統但沒有特定 AI 專業知識的利害關係人）的影響的縱向研究。我們歡迎對我們的實驗設定提供意見回饋和建議。
 
 ##### **Why we do need Explainable AI for Healthcare**
 2206.15363v1 by Giovanni Cinà,Tabea Röber,Rob Goedhart,Ilker Birbil
@@ -2583,5 +2597,5 @@ Explainable AI research program is still central to human-machine interaction
 and ultimately our main tool against loss of control, a danger that cannot be
 prevented by rigorous clinical validation alone.
 
-摘要：最近通過認證的人工智慧 (AI) 工具在醫療保健領域的激增，已讓採用此技術的辯論重燃。其中一項辯論的主題涉及可解釋 AI，以及它承諾讓 AI 裝置更透明且更值得信賴。在醫療 AI 領域中活躍的少數聲音已表達對可解釋 AI 技術可靠性的擔憂，質疑其在準則和標準中的使用和納入。本文重新檢視此類批評，提供了對可解釋 AI 實用性的平衡且全面的觀點，重點關注 AI 的臨床應用特殊性，並將它們置於醫療保健介入措施的脈絡中。儘管有反對者和合理的擔憂，我們主張可解釋 AI 研究計畫仍然是人機互動的核心，並最終成為我們對抗失控的主要工具，而嚴謹的臨床驗證無法單獨防止這種危險。
+摘要：最近認證的人工智慧 (AI) 工具在醫療保健領域的激增，重新開啟了圍繞此技術採用展開的辯論。其中一個辯論主題涉及可解釋的 AI，以及它承諾讓 AI 裝置更透明且值得信賴。一些活躍於醫療 AI 領域的聲音表達了對可解釋的 AI 技術可靠性的擔憂，質疑它們在準則和標準中的使用和納入。重新檢視此類批評，本文對可解釋的 AI 的效用提供了平衡且全面的觀點，重點關注 AI 的臨床應用具體性，並將它們置於醫療保健介入措施的背景下。儘管有反對者和合理的疑慮，我們主張可解釋的 AI 研究計畫仍然是人機互動的核心，最終也是我們對抗失控的主要工具，而嚴格的臨床驗證無法單獨防止這種危險。
 

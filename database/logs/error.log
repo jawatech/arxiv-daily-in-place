@@ -559,3 +559,5 @@ Traceback (most recent call last):
     line = f"##### {paper['id']}" \
 
 NameError: name 'paper_summary' is not defined
+2024-05-03 20:53:57.470 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)
+2024-05-03 20:54:08.125 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)

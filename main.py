@@ -111,9 +111,9 @@ class CoroutineSpeedup:
             query=keyword_,    #"cat:cs.AI OR cat:cs.CV OR cat:stat.ML" #'cat:cs.AI AND all:"explainable AI" AND (abs:medical OR abs:"health care" OR abs:clinical)' #'(all:"pose estimation" OR all:"pose tracking") AND (cat:cs.CV OR cat:cs.LG or cat:cs.AI)'
             max_results=self.max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
-        ).results()
+        )
 
-        context.update({"response": res, "hook": context})
+        context.update({"response": arxiv.Client().results(res), "hook": context})
         self.worker.put_nowait(context)
 
     def parse(self, context):

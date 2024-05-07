@@ -184,7 +184,7 @@ class CoroutineSpeedup:
             "paper": _paper,
             "topic": context["hook"]["topic"],
             "subtopic": context["hook"]["subtopic"],
-            "fields": ["Publish Date", "Title", "Authors", "PDF", "Code"]
+            "fields": ["Publish Date", "Title", "Authors", "Homepage", "Code"]
         })
         logger.success(
             f"handle [{self.channel.qsize()}/{self.max_queue_size}]"

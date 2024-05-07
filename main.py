@@ -34,6 +34,38 @@ from config import (
     logger
 )
 
+from pathlib import Path
+from os import system as system_command
+def checkAndCreateFolder(dirpath: str,
+                         filename: str=None,
+                         basepath: str="sources",
+                         demo: bool=False
+                        ) -> bool:
+  '''
+  return `True` if the file exists.
+  '''
+  base_path = Path(basepath)
+  folder_path = Path(basepath).joinpath(dirpath)
+  file_path = folder_path.joinpath(filename)
+  if not base_path.exists():
+    base_path.mkdir()
+  if not folder_path.exists():
+    # print(f"['{folder_path}'] doesn't exist. Creating one for you...")
+    print(f"['{folder_path}'] doesn't exist. ", end="" if not demo else "\n")
+    if not demo:
+      print("Creating one for you...")
+      folder_path.mkdir()
+  else:
+    if demo:
+      print(f"['{folder_path}'] does exist!")
+
+  # if file_path.exists():
+  #   return_code = system_command(f"gunzip -t '{file_path}' > /dev/null")
+  #   if return_code:
+  #     print(f"Error {return_code}. Removing corrupted file ('{file_path}'). Please run the download process later.")
+  #     system_command(f"rm {file_path}")
+
+  return file_path.exists()
 
 class ToolBox:
     @staticmethod

@@ -19183,3 +19183,57 @@ NameError: name 'paper_summary' is not defined
 2024-05-07 09:29:37.715 | SUCCESS  | __main__:parse:189 - handle [1/3] | topic=`AI` subtopic=`Medical`
 2024-05-07 09:29:52.364 | SUCCESS  | __main__:parse:189 - handle [2/3] | topic=`AI` subtopic=`Medical explainable AI`
 2024-05-07 09:29:52.365 | SUCCESS  | __main__:parse:189 - handle [3/3] | topic=`AI` subtopic=`LLM`
+2024-05-08 08:42:31.532 | SUCCESS  | __main__:parse:221 - handle [1/3] | topic=`AI` subtopic=`LLM`
+2024-05-08 08:42:32.614 | SUCCESS  | __main__:parse:221 - handle [2/3] | topic=`AI` subtopic=`Medical explainable AI`
+2024-05-08 08:42:33.286 | SUCCESS  | __main__:parse:221 - handle [3/3] | topic=`AI` subtopic=`Medical`
+2024-05-08 08:42:33.287 | ERROR    | fire.core:_CallAndUpdateTrace:693 - An error has been caught in function '_CallAndUpdateTrace', process 'MainProcess' (2172), thread 'MainThread' (139983292922560):
+Traceback (most recent call last):
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 418, in <module>
+    Fire(Scaffold)
+    │    └ <class '__main__.Scaffold'>
+    └ <function Fire at 0x7f5065801f30>
+
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/site-packages/fire/core.py", line 143, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      │     │          │     │                 │        └ 'main.py'
+                      │     │          │     │                 └ {}
+                      │     │          │     └ Namespace(verbose=False, interactive=False, separator='-', completion=None, help=False, trace=False)
+                      │     │          └ ['run', '--env=production', '--power=16']
+                      │     └ <class '__main__.Scaffold'>
+                      └ <function _Fire at 0x7f50657aa290>
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/site-packages/fire/core.py", line 477, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+    │                           └ <function _CallAndUpdateTrace at 0x7f50657aa3b0>
+    └ <function Scaffold.run at 0x7f5063b1d510>
+> File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/site-packages/fire/core.py", line 693, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                │   │          └ {}
+                │   └ ['production', 16]
+                └ <function Scaffold.run at 0x7f5063b1d510>
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 407, in run
+    template_ = booster.overload_tasks()
+                │       └ <function CoroutineSpeedup.overload_tasks at 0x7f5063b1dea0>
+                └ <__main__.CoroutineSpeedup object at 0x7f5063b54cd0>
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 237, in overload_tasks
+    md_obj: dict = ot.to_markdown(context)
+                   │  │           └ {'paper': {'2405.03689': {'publish_time': '**2024-05-06**', 'title': '**Pose Priors from Language Models**', 'paper_summary':...
+                   │  └ <function _OverloadTasks.to_markdown at 0x7f5063b1d900>
+                   └ <__main__._OverloadTasks object at 0x7f5063b57640>
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 370, in to_markdown
+    _abstracts_md = "\n#### Abstracts\n" + "".join([self._generate_markdown_abstract_content(
+                                                    │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f5063b1dbd0>
+                                                    └ <__main__._OverloadTasks object at 0x7f5063b57640>
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 370, in <listcomp>
+    _abstracts_md = "\n#### Abstracts\n" + "".join([self._generate_markdown_abstract_content(
+                                                    │    └ <function _OverloadTasks._generate_markdown_abstract_content at 0x7f5063b1dbd0>
+                                                    └ <__main__._OverloadTasks object at 0x7f5063b57640>
+
+  File "/home/runner/work/arxiv-daily-in-place/arxiv-daily-in-place/main.py", line 299, in _generate_markdown_abstract_content
+    f"\n{paper['paper_summary']}\n\n摘要：{paper['paper_summary_zh']}\n\n"
+
+KeyError: 'paper_summary_zh'

@@ -55,7 +55,7 @@ def checkAndCreateFolder(dirpath: str,
     print(f"['{folder_path}'] doesn't exist. ", end="" if not demo else "\n")
     if not demo:
       print("Creating one for you...")
-      folder_path.mkdir()
+      folder_path.mkdir(parents=True)
   else:
     if demo:
       print(f"['{folder_path}'] does exist!")

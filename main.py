@@ -229,6 +229,7 @@ class CoroutineSpeedup:
                 },
             }
             if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json',payload=thePaper):
+                pass
                 # Skip the task if the file already exist.
                 # paperbar.write(f"{pbar.n+1}: [{paper_id}] {paper.title}")
                 # paper.download_source(dirpath=Path(basepath).joinpath(paper_id.split(".")[0]).joinpath(paper_id.split(".")[1]), filename=paper_id+'.pdf')

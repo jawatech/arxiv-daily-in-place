@@ -41,7 +41,7 @@ def checkAndCreateFolder(dirpath: str,
                          filename: str=None,
                          basepath: str="database/storage",
                          demo: bool=False,
-                         payload = None
+                         payload = None, paper_key = None
                         ) -> bool:
   '''
   return `True` if the file exists.
@@ -64,9 +64,9 @@ def checkAndCreateFolder(dirpath: str,
   if file_path.exists():
     with open(file_path) as f:
       thePaper = json.load(f)
-      if thePaper["paper_summary_zh"]!='':
+      if thePaper[paper_key]["paper_summary_zh"]!='':
         return True
-  payload["paper_summary_zh"]=translate(payload["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
+  payload[paper_key]["paper_summary_zh"]=translate(payload[paper_key]["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
   with open(file_path, 'w') as f:
     json.dump(payload, f)                                
 
@@ -231,7 +231,7 @@ class CoroutineSpeedup:
                     "repo": repo_url
                 },
             }
-            if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json',payload=thePaper):
+            if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json',payload=thePaper,paper_key=paper_key):
                 pass
                 # Skip the task if the file already exist.
                 # paperbar.write(f"{pbar.n+1}: [{paper_id}] {paper.title}")

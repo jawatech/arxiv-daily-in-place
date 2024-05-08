@@ -66,6 +66,7 @@ def checkAndCreateFolder(dirpath: str,
       try:
         thePaper = json.load(f)
         if thePaper[paper_key]["paper_summary_zh"]!='':
+          payload[paper_key]["paper_summary_zh"]=thePaper[paper_key]["paper_summary_zh"]
           return True
       except Exception as inst:
         print(type(inst))    # the exception instance

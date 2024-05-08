@@ -62,17 +62,20 @@ def checkAndCreateFolder(dirpath: str,
       print(f"['{folder_path}'] does exist!")
 
   if file_path.exists():
-    pass
-  else:
-    with open(file_path, 'w') as f:
-      json.dump(payload, f)                                
+    with open(file_path) as f:
+      thePaper = json.load(f)
+      if thePaper["paper_summary_zh"]!='':
+        return True
+  payload["paper_summary_zh"]=translate(payload["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
+  with open(file_path, 'w') as f:
+    json.dump(payload, f)                                
 
   #   return_code = system_command(f"gunzip -t '{file_path}' > /dev/null")
   #   if return_code:
   #     print(f"Error {return_code}. Removing corrupted file ('{file_path}'). Please run the download process later.")
   #     system_command(f"rm {file_path}")
 
-  return file_path.exists()
+  return False #file_path.exists()
 
 class ToolBox:
     @staticmethod

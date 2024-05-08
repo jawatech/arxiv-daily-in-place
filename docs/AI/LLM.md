@@ -11,7 +11,7 @@
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491v1](http://arxiv.org/abs/2405.04491v1)|null|
 |**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453v1](http://arxiv.org/abs/2405.04453v1)|[link](https://github.com/seukgcode/incde)|
 |**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443v1](http://arxiv.org/abs/2405.04443v1)|null|
-|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442v1](http://arxiv.org/abs/2405.04442v1)|null|
+|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442v1](http://arxiv.org/abs/2405.04442v1)|[link](https://github.com/smartory/augmentory)|
 |**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434v1](http://arxiv.org/abs/2405.04434v1)|[link](https://github.com/deepseek-ai/deepseek-v2)|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)|
 |**2024-05-07**|**Pragmatist Intelligence: Where the Principle of Usefulness Can Take ANNs**|Antonio Bikić et.al.|[2405.04386v1](http://arxiv.org/abs/2405.04386v1)|null|
@@ -29,7 +29,7 @@
 |**2024-05-07**|**A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**|Raiyan Rahman et.al.|[2405.04305v1](http://arxiv.org/abs/2405.04305v1)|null|
 |**2024-05-07**|**Accelerating Speculative Decoding using Dynamic Speculation Length**|Jonathan Mamou et.al.|[2405.04304v1](http://arxiv.org/abs/2405.04304v1)|null|
 |**2024-05-07**|**Behaviour Planning: A Toolkit for Diverse Planning**|Mustafa F Abdelwahed et.al.|[2405.04300v1](http://arxiv.org/abs/2405.04300v1)|null|
-|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294v1](http://arxiv.org/abs/2405.04294v1)|null|
+|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294v1](http://arxiv.org/abs/2405.04294v1)|[link](https://github.com/elricwan/audit)|
 |**2024-05-07**|**Mitigating Clickbait: An Approach to Spoiler Generation Using Multitask Learning**|Sayantan Pal et.al.|[2405.04292v1](http://arxiv.org/abs/2405.04292v1)|null|
 |**2024-05-07**|**Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore**|Junchao Wu et.al.|[2405.04286v1](http://arxiv.org/abs/2405.04286v1)|null|
 |**2024-05-07**|**On the Foundations of Earth and Climate Foundation Models**|Xiao Xiang Zhu et.al.|[2405.04285v1](http://arxiv.org/abs/2405.04285v1)|null|

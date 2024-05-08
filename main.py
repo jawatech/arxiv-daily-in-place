@@ -21,6 +21,7 @@ from datetime import datetime
 import requests
 import arxiv
 import yaml
+from tqdm.auto import tqdm
 
 from fire import Fire
 from util4translation import HEADERS, get_week_dates, translate
@@ -38,7 +39,7 @@ from pathlib import Path
 from os import system as system_command
 def checkAndCreateFolder(dirpath: str,
                          filename: str=None,
-                         basepath: str="sources",
+                         basepath: str="database/storage",
                          demo: bool=False
                         ) -> bool:
   '''
@@ -152,8 +153,17 @@ class CoroutineSpeedup:
         base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
         _paper = {}
         arxiv_res = context.get("response")
-        for result in arxiv_res: #'authors', 'categories', 'comment', 'doi', 'download_pdf', 'download_source',  'journal_ref', 'links', 'pdf_url', 'primary_category', 'summary', 'updated'
+        paperbar = tqdm(arxiv_res,
+              # total=probe_interval.stop - probe_interval.start,
+              total=len(arxiv_res),
+              miniters=1,
+              mininterval=0,
+              desc="Starting process..."
+              )
+        skipped_list = []
+        for result in paperbar: #arxiv_res: #'authors', 'categories', 'comment', 'doi', 'download_pdf', 'download_source',  'journal_ref', 'links', 'pdf_url', 'primary_category', 'summary', 'updated'
             paper_id = result.get_short_id()
+            paperbar.set_description(f"Processing {paper_id}")
             paper_title = result.title
             paper_url = result.entry_id
             paper_summary = result.summary
@@ -199,19 +209,29 @@ class CoroutineSpeedup:
             #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
             # ELSE
             #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
-            _paper.update({
-                paper_key: {
-                    "publish_time": publish_time,
-                    "title": paper_title,
-                    "paper_summary": paper_summary,
-                    # "paper_summary_zh": translate(paper_summary).replace('法學碩士','LLM').replace('變壓器','Transformer'), # skip translation during testing
-                    "author": f"{paper_first_author} et.al.",
-                    "authors": paper_authors,
-                    "id": paper_id,
-                    "paper_url": paper_url,
-                    "repo": repo_url
-                },
-            })
+            if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json'):
+                # Skip the task if the file already exist.
+                paperbar.write(f"{pbar.n+1}: [{paper_id}] {paper.title}")
+                # paper.download_source(dirpath=Path(basepath).joinpath(paper_id.split(".")[0]).joinpath(paper_id.split(".")[1]), filename=paper_id+'.pdf')
+                # paper.download_pdf(dirpath=Path(basepath).joinpath(paper_id.split(".")[0]).joinpath(paper_id.split(".")[1].split("v")[0]), filename=paper_id+'.pdf')
+                _paper.update({
+                    paper_key: {
+                        "publish_time": publish_time,
+                        "title": paper_title,
+                        "paper_summary": paper_summary,
+                        "paper_summary_zh": "", #translate(paper_summary).replace('法學碩士','LLM').replace('變壓器','Transformer'), # skip translation during testing
+                        "author": f"{paper_first_author} et.al.",
+                        "authors": paper_authors,
+                        "id": paper_id,
+                        "paper_url": paper_url,
+                        "repo": repo_url
+                    },
+                })
+            else:
+                skipped_list.append(paper_id)
+            
+            paperbar.write(f"({len(skipped_list)}/{len(arxiv_id)} were skipped)")
+
         self.channel.put_nowait({
             "paper": _paper,
             "topic": context["hook"]["topic"],

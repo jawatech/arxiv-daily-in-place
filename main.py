@@ -7,7 +7,7 @@
 @Email   :   bj.yan.pa@qq.com
 @License :   Apache License 2.0
 """
-
+import json
 import json.decoder
 import os.path
 import shutil
@@ -40,7 +40,8 @@ from os import system as system_command
 def checkAndCreateFolder(dirpath: str,
                          filename: str=None,
                          basepath: str="database/storage",
-                         demo: bool=False
+                         demo: bool=False,
+                         payload = None
                         ) -> bool:
   '''
   return `True` if the file exists.
@@ -60,7 +61,12 @@ def checkAndCreateFolder(dirpath: str,
     if demo:
       print(f"['{folder_path}'] does exist!")
 
-  # if file_path.exists():
+  if file_path.exists():
+    pass
+  else:
+    with open(file_path, 'w') as f:
+      json.dump(payload, f)                                
+
   #   return_code = system_command(f"gunzip -t '{file_path}' > /dev/null")
   #   if return_code:
   #     print(f"Error {return_code}. Removing corrupted file ('{file_path}'). Please run the download process later.")
@@ -209,26 +215,27 @@ class CoroutineSpeedup:
             #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
             # ELSE
             #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
-            if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json'):
+            thePaper = {
+                paper_key: {
+                    "publish_time": publish_time,
+                    "title": paper_title,
+                    "paper_summary": paper_summary,
+                    "paper_summary_zh": "", #translate(paper_summary).replace('法學碩士','LLM').replace('變壓器','Transformer'), # skip translation during testing
+                    "author": f"{paper_first_author} et.al.",
+                    "authors": paper_authors,
+                    "id": paper_id,
+                    "paper_url": paper_url,
+                    "repo": repo_url
+                },
+            }
+            if not checkAndCreateFolder(dirpath=Path(paper_key.split(".")[0]).joinpath(paper_key.split(".")[1]), filename=paper_id+'.json',payload=thePaper):
                 # Skip the task if the file already exist.
                 # paperbar.write(f"{pbar.n+1}: [{paper_id}] {paper.title}")
                 # paper.download_source(dirpath=Path(basepath).joinpath(paper_id.split(".")[0]).joinpath(paper_id.split(".")[1]), filename=paper_id+'.pdf')
                 # paper.download_pdf(dirpath=Path(basepath).joinpath(paper_id.split(".")[0]).joinpath(paper_id.split(".")[1].split("v")[0]), filename=paper_id+'.pdf')
-                _paper.update({
-                    paper_key: {
-                        "publish_time": publish_time,
-                        "title": paper_title,
-                        "paper_summary": paper_summary,
-                        "paper_summary_zh": "", #translate(paper_summary).replace('法學碩士','LLM').replace('變壓器','Transformer'), # skip translation during testing
-                        "author": f"{paper_first_author} et.al.",
-                        "authors": paper_authors,
-                        "id": paper_id,
-                        "paper_url": paper_url,
-                        "repo": repo_url
-                    },
-                })
             else:
                 skipped_list.append(paper_id)
+            _paper.update(thePaper)
             
             # paperbar.write(f"({len(skipped_list)}/{len(arxiv_id)} were skipped)")
 

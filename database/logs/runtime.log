@@ -19243,3 +19243,4 @@ KeyError: 'paper_summary_zh'
 2024-05-08 11:02:14.984 | SUCCESS  | __main__:parse:249 - handle [1/3] | topic=`AI` subtopic=`Medical explainable AI`
 2024-05-08 11:02:15.095 | SUCCESS  | __main__:parse:249 - handle [2/3] | topic=`AI` subtopic=`LLM`
 2024-05-08 11:02:15.211 | SUCCESS  | __main__:parse:249 - handle [3/3] | topic=`AI` subtopic=`Medical`
+2024-05-08 12:50:13.542 | SUCCESS  | __main__:parse:252 - handle [1/3] | topic=`AI` subtopic=`LLM`

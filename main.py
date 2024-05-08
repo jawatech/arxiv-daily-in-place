@@ -63,9 +63,16 @@ def checkAndCreateFolder(dirpath: str,
 
   if file_path.exists():
     with open(file_path) as f:
-      thePaper = json.load(f)
-      if thePaper[paper_key]["paper_summary_zh"]!='':
-        return True
+      try:
+        thePaper = json.load(f)
+        if thePaper[paper_key]["paper_summary_zh"]!='':
+          return True
+      except Exception as inst:
+        print(type(inst))    # the exception instance
+        print(inst.args)     # arguments stored in .args
+        print(inst)          # __str__ allows args to be printed directly,
+        print('!!!failed getting '+paper_key)
+
   payload[paper_key]["paper_summary_zh"]=translate(payload[paper_key]["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
   with open(file_path, 'w') as f:
     json.dump(payload, f)                                

@@ -217,7 +217,7 @@ class CoroutineSpeedup:
             #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
             thePaper = {
                 paper_key: {
-                    "publish_time": publish_time,
+                    "publish_time": publish_time.strftime("%Y-%m-%d) ,
                     "title": paper_title,
                     "paper_summary": paper_summary,
                     "paper_summary_zh": "", #translate(paper_summary).replace('法學碩士','LLM').replace('變壓器','Transformer'), # skip translation during testing

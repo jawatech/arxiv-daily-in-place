@@ -215,9 +215,16 @@ class CoroutineSpeedup:
             #   'frameworks': [],
             #   'status': 'OK'
             # }
-            response = ToolBox.handle_html(code_url)
-            official_ = response.get("official")
-            repo_url = official_.get("url", "null") if official_ else "null"
+            repo_url =  "null"
+            try:
+              response = ToolBox.handle_html(code_url)
+              official_ = response.get("official")
+              repo_url = official_.get("url", "null") if official_ else "null"
+            except Exception as inst:
+              print(type(inst))    # the exception instance
+              print(inst.args)     # arguments stored in .args
+              print(inst)          # __str__ allows args to be printed directly,
+              print('!!!failed getting '+paper_key)
             # ----------------------------------------------------------------------------------
             # 编排模型
             # ----------------------------------------------------------------------------------

@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
+|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
+|**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
+|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|[link](https://github.com/david-li0406/dalk)|
+|**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650v1](http://arxiv.org/abs/2405.04650v1)|null|
+|**2024-05-07**|**AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets**|Fakrul Islam Tushar et.al.|[2405.04605v1](http://arxiv.org/abs/2405.04605v1)|null|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)|
 |**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
 |**2024-05-07**|**A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**|Raiyan Rahman et.al.|[2405.04305v1](http://arxiv.org/abs/2405.04305v1)|null|
@@ -96,14 +102,158 @@
 |**2024-04-24**|**Assessing The Potential Of Mid-Sized Language Models For Clinical QA**|Elliot Bolton et.al.|[2404.15894v1](http://arxiv.org/abs/2404.15894v1)|null|
 |**2024-04-24**|**Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**|Hong-Jun Yoon et.al.|[2404.16080v1](http://arxiv.org/abs/2404.16080v1)|null|
 |**2024-04-24**|**A Hybrid Probabilistic Battery Health Management Approach for Robust Inspection Drone Operations**|Jokin Alcibar et.al.|[2405.00055v1](http://arxiv.org/abs/2405.00055v1)|null|
-|**2024-04-24**|**Anomaly Detection for Incident Response at Scale**|Hanzhang Wang et.al.|[2404.16887v1](http://arxiv.org/abs/2404.16887v1)|null|
-|**2024-04-23**|**Adapting an Artificial Intelligence Sexually Transmitted Diseases Symptom Checker Tool for Mpox Detection: The HeHealth Experience**|Rayner Kay Jin Tan et.al.|[2404.16885v1](http://arxiv.org/abs/2404.16885v1)|null|
-|**2024-04-23**|**PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**|Shashi Kant Gupta et.al.|[2404.15549v2](http://arxiv.org/abs/2404.15549v2)|null|
-|**2024-04-23**|**Multi-scale Intervention Planning based on Generative Design**|Ioannis Kavouras et.al.|[2404.15492v1](http://arxiv.org/abs/2404.15492v1)|null|
-|**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488v1](http://arxiv.org/abs/2404.15488v1)|[link](https://github.com/microsoft/iryonlp-mediqa-corr-2024)|
-|**2024-04-23**|**Interactive Analysis of LLMs using Meaningful Counterfactuals**|Furui Cheng et.al.|[2405.00708v1](http://arxiv.org/abs/2405.00708v1)|null|
 
 #### Abstracts
+##### **Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**
+2405.04990v1 by Kristupas Bajarunas, Marcia L. Baptista, Kai Goebel, Manuel A. Chao
+
+Accurately estimating a Health Index (HI) from condition monitoring data (CM)
+is essential for reliable and interpretable prognostics and health management
+(PHM) in complex systems. In most scenarios, complex systems operate under
+varying operating conditions and can exhibit different fault modes, making
+unsupervised inference of an HI from CM data a significant challenge. Hybrid
+models combining prior knowledge about degradation with deep learning models
+have been proposed to overcome this challenge. However, previously suggested
+hybrid models for HI estimation usually rely heavily on system-specific
+information, limiting their transferability to other systems. In this work, we
+propose an unsupervised hybrid method for HI estimation that integrates general
+knowledge about degradation into the convolutional autoencoder's model
+architecture and learning algorithm, enhancing its applicability across various
+systems. The effectiveness of the proposed method is demonstrated in two case
+studies from different domains: turbofan engines and lithium batteries. The
+results show that the proposed method outperforms other competitive
+alternatives, including residual-based methods, in terms of HI quality and
+their utility for Remaining Useful Life (RUL) predictions. The case studies
+also highlight the comparable performance of our proposed method with a
+supervised model trained with HI labels.
+
+摘要：從狀態監控資料 (CM) 精確估計健康指數 (HI) 對於複雜系統中的可靠且可解讀的預後和健康管理 (PHM) 至關重要。在大多數情況下，複雜系統在不同的操作條件下運行，並且可能會表現出不同的故障模式，這使得從 CM 資料中進行無監督的 HI 推論成為一項重大挑戰。已經提出結合關於退化的先驗知識與深度學習模型的混合模型來克服這一挑戰。然而，先前建議用於 HI 估計的混合模型通常嚴重依賴系統特定資訊，這限制了它們對其他系統的可傳輸性。在這項工作中，我們提出了一種用於 HI 估計的無監督混合方法，該方法將關於退化的通用知識整合到卷積自動編碼器的模型架構和學習演算法中，增強了其在各種系統中的適用性。所提出的方法的有效性在來自不同領域的兩個案例研究中得到證明：渦扇發動機和鋰電池。結果表明，所提出的方法在 HI 品質和對剩餘使用壽命 (RUL) 預測的效用方面優於其他競爭性替代方案，包括基於殘差的方法。案例研究還強調了我們提出的方法與使用 HI 標籤訓練的監督模型相當的性能。
+
+##### **Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**
+2405.04974v1 by Keqiang Fan, Xiaohao Cai, Mahesan Niranjan
+
+Diffusion probabilistic models (DPMs) have exhibited significant
+effectiveness in computer vision tasks, particularly in image generation.
+However, their notable performance heavily relies on labelled datasets, which
+limits their application in medical images due to the associated high-cost
+annotations. Current DPM-related methods for lesion detection in medical
+imaging, which can be categorized into two distinct approaches, primarily rely
+on image-level annotations. The first approach, based on anomaly detection,
+involves learning reference healthy brain representations and identifying
+anomalies based on the difference in inference results. In contrast, the second
+approach, resembling a segmentation task, employs only the original brain
+multi-modalities as prior information for generating pixel-level annotations.
+In this paper, our proposed model - discrepancy distribution medical diffusion
+(DDMD) - for lesion detection in brain MRI introduces a novel framework by
+incorporating distinctive discrepancy features, deviating from the conventional
+direct reliance on image-level annotations or the original brain modalities. In
+our method, the inconsistency in image-level annotations is translated into
+distribution discrepancies among heterogeneous samples while preserving
+information within homogeneous samples. This property retains pixel-wise
+uncertainty and facilitates an implicit ensemble of segmentation, ultimately
+enhancing the overall detection performance. Thorough experiments conducted on
+the BRATS2020 benchmark dataset containing multimodal MRI scans for brain
+tumour detection demonstrate the great performance of our approach in
+comparison to state-of-the-art methods.
+
+摘要：擴散機率模型 (DPM) 在電腦視覺任務中展現出顯著的效能，特別是在影像生成方面。然而，它們顯著的效能高度仰賴標籤資料集，這會因為相關的高成本註解而限制它們在醫學影像中的應用。目前用於醫學影像病灶偵測的 DPM 相關方法可分為兩種不同的方法，主要仰賴影像層級的註解。第一種方法是基於異常偵測，涉及學習參考健康腦部表徵，並根據推論結果的差異來識別異常。相反地，第二種方法類似於分割任務，僅使用原始腦部多模態作為產生畫素層級註解的先驗資訊。在本文中，我們提出的模型——差異分佈醫學擴散 (DDMD)——用於腦部 MRI 中的病灶偵測，它透過納入獨特的差異特徵來引入一個新穎的架構，偏離對影像層級註解或原始腦部模態的傳統直接依賴。在我們的這種方法中，影像層級註解中的不一致性被轉換為異質樣本之間的分布差異，同時保留同質樣本內的資訊。此特性保留了逐畫素的不確定性，並促進分割的隱含集合，最終提升整體偵測效能。在 BRATS2020 基準資料集上進行的徹底實驗包含用於腦腫瘤偵測的多模態 MRI 掃描，證明了我們的方法與最先進的方法相比具有優異的效能。
+
+##### **Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**
+2405.04897v1 by Paul Jideani, Aurona Gerber
+
+Recent social media posts on the cholera outbreak in Hammanskraal have
+highlighted the diverse range of emotions people experienced in response to
+such an event. The extent of people's opinions varies greatly depending on
+their level of knowledge and information about the disease. The documented
+re-search about Cholera lacks investigations into the classification of
+emotions. This study aims to examine the emotions expressed in social media
+posts about Chol-era. A dataset of 23,000 posts was extracted and
+pre-processed. The Python Nat-ural Language Toolkit (NLTK) sentiment analyzer
+library was applied to deter-mine the emotional significance of each text.
+Additionally, Machine Learning (ML) models were applied for emotion
+classification, including Long short-term memory (LSTM), Logistic regression,
+Decision trees, and the Bidirectional En-coder Representations from
+Transformers (BERT) model. The results of this study demonstrated that LSTM
+achieved the highest accuracy of 75%. Emotion classification presents a
+promising tool for gaining a deeper understanding of the impact of Cholera on
+society. The findings of this study might contribute to the development of
+effective interventions in public health strategies.
+
+摘要：最近社群媒體上關於 Hammanskraal 霍亂爆發的貼文突顯了人們對此類事件的反應中所經歷的各種情緒。人們意見的廣泛程度取決於他們對此疾病的知識和資訊的程度。有記錄的霍亂研究缺乏對情緒分類的調查。本研究旨在探討社群媒體貼文中表達的關於霍亂的情緒。從 23,000 篇貼文中萃取並預處理了一個資料集。應用 Python 自然語言工具包 (NLTK) 情緒分析程式庫來決定每段文字的情緒重要性。此外，應用機器學習 (ML) 模型來進行情緒分類，包括長短期記憶 (LSTM)、邏輯迴歸、決策樹，以及轉換器 (BERT) 模型中的雙向編碼器表徵。本研究的結果顯示 LSTM 達到了 75% 的最高準確度。情緒分類提供了一個有用的工具，可以更深入地了解霍亂對社會的影響。本研究的發現可能有助於制定公共衛生策略中的有效干預措施。
+
+##### **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**
+2405.04819v1 by Dawei Li, Shu Yang, Zhen Tan, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
+
+Recent advancements in large language models (LLMs) have achieved promising
+performances across various applications. Nonetheless, the ongoing challenge of
+integrating long-tail knowledge continues to impede the seamless adoption of
+LLMs in specialized domains. In this work, we introduce DALK, a.k.a. Dynamic
+Co-Augmentation of LLMs and KG, to address this limitation and demonstrate its
+ability on studying Alzheimer's Disease (AD), a specialized sub-field in
+biomedicine and a global health priority. With a synergized framework of LLM
+and KG mutually enhancing each other, we first leverage LLM to construct an
+evolving AD-specific knowledge graph (KG) sourced from AD-related scientific
+literature, and then we utilize a coarse-to-fine sampling method with a novel
+self-aware knowledge retrieval approach to select appropriate knowledge from
+the KG to augment LLM inference capabilities. The experimental results,
+conducted on our constructed AD question answering (ADQA) benchmark, underscore
+the efficacy of DALK. Additionally, we perform a series of detailed analyses
+that can offer valuable insights and guidelines for the emerging topic of
+mutually enhancing KG and LLM. We will release the code and data at
+https://github.com/David-Li0406/DALK.
+
+摘要：大型語言模型 (LLM) 近期的進展在各種應用中取得了可觀的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域的無縫採用。在這項工作中，我們引入了 DALK，又名 LLM 和 KG 的動態協同擴充，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是一個生物醫學中的專業子領域，也是全球健康的優先事項。透過 LLM 和 KG 互相增強的協同架構，我們首先利用 LLM 從與 AD 相關的科學文獻中建構一個不斷演進的 AD 專屬知識圖譜 (KG)，然後我們利用粗到細的抽樣方法，並採用新穎的自知知識擷取方法，從 KG 中選擇適當的知識來擴充 LLM 推論能力。在我們建構的 AD 問題解答 (ADQA) 基準上進行的實驗結果突顯了 DALK 的功效。此外，我們執行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 釋出程式碼和資料。
+
+##### **A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**
+2405.04650v1 by László Kopácsi, Áron Fóthi, András Lőrincz
+
+Recognition of individual components and keypoint detection supported by
+instance segmentation is crucial to analyze the behavior of agents on the
+scene. Such systems could be used for surveillance, self-driving cars, and also
+for medical research, where behavior analysis of laboratory animals is used to
+confirm the aftereffects of a given medicine. A method capable of solving the
+aforementioned tasks usually requires a large amount of high-quality
+hand-annotated data, which takes time and money to produce. In this paper, we
+propose a method that alleviates the need for manual labeling of laboratory
+rats. To do so, first, we generate initial annotations with a computer
+vision-based approach, then through extensive augmentation, we train a deep
+neural network on the generated data. The final system is capable of instance
+segmentation, keypoint detection, and body part segmentation even when the
+objects are heavily occluded.
+
+摘要：辨識個別組成成分和關鍵點偵測，由個體分割所支援，對於分析場景中代理的行為至關重要。此類系統可用於監督、自駕車，以及醫學研究，其中實驗動物的行為分析用於確認特定藥物的後遺症。一種能夠解決上述任務的方法通常需要大量的優質手動標註資料，而這需要花費時間和金錢來製作。在本文中，我們提出了一種方法，可以減輕對實驗鼠手動標註的需求。為此，我們首先使用基於電腦視覺的方法產生初始標註，然後透過廣泛的擴充，我們在產生的資料上訓練一個深度神經網路。最終系統能夠進行個體分割、關鍵點偵測和身體部位分割，即使物件被嚴重遮擋。
+
+##### **AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets**
+2405.04605v1 by Fakrul Islam Tushar, Avivah Wang, Lavsen Dahal, Michael R. Harowicz, Kyle J. Lafata, Tina D. Tailor, Joseph Y. Lo
+
+BACKGROUND: Lung cancer's high mortality rate can be mitigated by early
+detection, which is increasingly reliant on artificial intelligence (AI) for
+diagnostic imaging. However, the performance of AI models is contingent upon
+the datasets used for their training and validation. METHODS: This study
+developed and validated the DLCSD-mD and LUNA16-mD models utilizing the Duke
+Lung Cancer Screening Dataset (DLCSD), encompassing over 2,000 CT scans with
+more than 3,000 annotations. These models were rigorously evaluated against the
+internal DLCSD and external LUNA16 and NLST datasets, aiming to establish a
+benchmark for imaging-based performance. The assessment focused on creating a
+standardized evaluation framework to facilitate consistent comparison with
+widely utilized datasets, ensuring a comprehensive validation of the model's
+efficacy. Diagnostic accuracy was assessed using free-response receiver
+operating characteristic (FROC) and area under the curve (AUC) analyses.
+RESULTS: On the internal DLCSD set, the DLCSD-mD model achieved an AUC of 0.93
+(95% CI:0.91-0.94), demonstrating high accuracy. Its performance was sustained
+on the external datasets, with AUCs of 0.97 (95% CI: 0.96-0.98) on LUNA16 and
+0.75 (95% CI: 0.73-0.76) on NLST. Similarly, the LUNA16-mD model recorded an
+AUC of 0.96 (95% CI: 0.95-0.97) on its native dataset and showed transferable
+diagnostic performance with AUCs of 0.91 (95% CI: 0.89-0.93) on DLCSD and 0.71
+(95% CI: 0.70-0.72) on NLST. CONCLUSION: The DLCSD-mD model exhibits reliable
+performance across different datasets, establishing the DLCSD as a robust
+benchmark for lung cancer detection and diagnosis. Through the provision of our
+models and code to the public domain, we aim to accelerate the development of
+AI-based diagnostic tools and encourage reproducibility and collaborative
+advancements within the medical machine-learning (ML) field.
+
+摘要：<paragraph>背景：肺癌的高死亡率可以通过早期检测来降低，而早期检测越来越依赖于用于诊断成像的人工智能 (AI)。然而，AI 模型的性能取决于用于训练和验证的数据集。方法：本研究利用杜克肺癌筛查数据集 (DLCSD) 开发并验证了 DLCSD-mD 和 LUNA16-mD 模型，该数据集包含 2,000 多个 CT 扫描和 3,000 多个注释。这些模型针对内部 DLCSD 和外部 LUNA16 和 NLST 数据集进行了严格评估，旨在为基于成像的性能建立基准。评估重点在于创建标准化评估框架，以促进与广泛使用的数据集进行一致的比较，确保对模型功效进行全面验证。诊断准确性使用自由响应接收器操作特性 (FROC) 和曲线下面积 (AUC) 分析进行评估。结果：在内部 DLCSD 数据集上，DLCSD-mD 模型的 AUC 为 0.93 (95% CI：0.91-0.94)，显示出很高的准确性。在外部数据集上，其性能保持稳定，在 LUNA16 上的 AUC 为 0.97 (95% CI：0.96-0.98)，在 NLST 上的 AUC 为 0.75 (95% CI：0.73-0.76)。类似地，LUNA16-mD 模型在其本机数据集上的 AUC 为 0.96 (95% CI：0.95-0.97)，并且在 DLCSD 上的 AUC 为 0.91 (95% CI：0.89-0.93)，在 NLST 上的 AUC 为 0.71 (95% CI：0.70-0.72)，显示出可转移的诊断性能。结论：DLCSD-mD 模型在不同数据集上表现出可靠的性能，将 DLCSD 确立为肺癌检测和诊断的稳健基准。通过向公共领域提供我们的模型和代码，我们旨在加速基于 AI 的诊断工具的开发，并鼓励医学机器学习 (ML) 领域的再现性和协作进步。</paragraph>
+
 ##### **Vision Mamba: A Comprehensive Survey and Taxonomy**
 2405.04404v1 by Xiao Liu, Chenxu Zhang, Lei Zhang
 
@@ -2412,151 +2562,4 @@ aleatoric and epistemic uncertainties provide robust estimations to enhance the
 diagnosis of battery health-states.
 
 摘要：<paragraph>由於基礎設施可及性受限，遠端關鍵基礎設施的健康監測是一項複雜且昂貴的活動。檢查無人機是無所不在的資產，可透過提高可及性來增強關鍵基礎設施的可靠性。然而，由於惡劣的操作環境，監控其健康狀況以確保檢查作業順利進行至關重要。電池是決定檢查無人機整體可靠性的關鍵元件，並透過適當的健康管理方法，有助於進行可靠且穩健的檢查。在此背景下，本文提出了一種針對鋰聚合物電池放電結束 (EOD) 電壓預測的新型混合機率方法。此混合化是在誤差修正組態中實現的，結合了基於物理的放電和機率誤差修正模型，以量化隨機和認識不確定性。混合機率方法的效能已透過一個包含在不同負載條件下 EOD 電壓的資料集進行實證評估。該資料集來自針對不同飛行執行的實際檢查無人機，重點放在離岸風力渦輪機檢查。所提出的方法已使用不同的機率方法進行測試，並顯示出與最佳機率方法相比，機率準確度提高了 14.8%。此外，隨機和認識不確定性提供了穩健的估計，以增強電池健康狀態的診斷。</paragraph>
-
-##### **Anomaly Detection for Incident Response at Scale**
-2404.16887v1 by Hanzhang Wang, Gowtham Kumar Tangirala, Gilkara Pranav Naidu, Charles Mayville, Arighna Roy, Joanne Sun, Ramesh Babu Mandava
-
-We present a machine learning-based anomaly detection product, AI Detect and
-Respond (AIDR), that monitors Walmart's business and system health in
-real-time. During the validation over 3 months, the product served predictions
-from over 3000 models to more than 25 application, platform, and operation
-teams, covering 63\% of major incidents and reducing the mean-time-to-detect
-(MTTD) by more than 7 minutes. Unlike previous anomaly detection methods, our
-solution leverages statistical, ML and deep learning models while continuing to
-incorporate rule-based static thresholds to incorporate domain-specific
-knowledge. Both univariate and multivariate ML models are deployed and
-maintained through distributed services for scalability and high availability.
-AIDR has a feedback loop that assesses model quality with a combination of
-drift detection algorithms and customer feedback. It also offers
-self-onboarding capabilities and customizability. AIDR has achieved success
-with various internal teams with lower time to detection and fewer false
-positives than previous methods. As we move forward, we aim to expand incident
-coverage and prevention, reduce noise, and integrate further with root cause
-recommendation (RCR) to enable an end-to-end AIDR experience.
-
-摘要：我們提出一個基於機器學習的異常偵測產品，AI Detect and Respond (AIDR)，它可以即時監控 Walmart 的業務和系統健康狀況。在超過 3 個月的驗證期間，此產品提供超過 3000 個模型的預測給超過 25 個應用程式、平台和營運團隊，涵蓋 63% 的重大事件，並將平均偵測時間 (MTTD) 縮短超過 7 分鐘。我們的解決方案與以往的異常偵測方法不同，它利用統計、ML 和深度學習模型，同時持續納入基於規則的靜態閾值，以納入特定領域的知識。單變量和多變量 ML 模型會透過分散式服務進行部署和維護，以實現可擴充性和高可用性。AIDR 有個回饋迴路，它會利用漂移偵測演算法和客戶回饋的組合來評估模型品質。它也提供自助註冊功能和自訂功能。AIDR 已在各種內部團隊中獲得成功，偵測時間較短，且偽陽性比以往的方法更少。隨著我們前進，我們的目標是擴展事件涵蓋範圍和預防措施，減少雜訊，並進一步與根本原因建議 (RCR) 整合，以實現端到端的 AIDR 體驗。
-
-##### **Adapting an Artificial Intelligence Sexually Transmitted Diseases Symptom Checker Tool for Mpox Detection: The HeHealth Experience**
-2404.16885v1 by Rayner Kay Jin Tan, Dilruk Perera, Salomi Arasaratnam, Yudara Kularathne
-
-Artificial Intelligence applications have shown promise in the management of
-pandemics and have been widely used to assist the identification,
-classification, and diagnosis of medical images. In response to the global
-outbreak of Monkeypox (Mpox), the HeHealth.ai team leveraged an existing tool
-to screen for sexually transmitted diseases to develop a digital screening test
-for symptomatic Mpox through AI approaches. Prior to the global outbreak of
-Mpox, the team developed a smartphone app, where app users can use their own
-smartphone cameras to take pictures of their own penises to screen for
-symptomatic STD. The AI model was initially developed using 5000 cases and use
-a modified convolutional neural network to output prediction scores across
-visually diagnosable penis pathologies including Syphilis, Herpes Simplex
-Virus, and Human Papilloma Virus. From June 2022 to October 2022, a total of
-about 22,000 users downloaded the HeHealth app, and about 21,000 images have
-been analyzed using HeHealth AI technology. We then engaged in formative
-research, stakeholder engagement, rapid consolidation images, a validation
-study, and implementation of the tool from July 2022. From July 2022 to October
-2022, a total of 1000 Mpox related images had been used to train the Mpox
-symptom checker tool. Our digital symptom checker tool showed accuracy of 87%
-to rule in Mpox and 90% to rule out symptomatic Mpox. Several hurdles
-identified included issues of data privacy and security for app users, initial
-lack of data to train the AI tool, and the potential generalizability of input
-data. We offer several suggestions to help others get started on similar
-projects in emergency situations, including engaging a wide range of
-stakeholders, having a multidisciplinary team, prioritizing pragmatism, as well
-as the concept that big data in fact is made up of small data.
-
-摘要：人工智慧應用在疫情管理中展現出前景，並廣泛用於協助醫學影像的辨識、分類和診斷。為了應對猴痘 (Mpox) 的全球爆發，HeHealth.ai 團隊利用現有的性病篩檢工具，透過人工智慧方法開發出針對有症狀的 Mpox 進行數位篩檢的測試。在 Mpox 全球爆發之前，該團隊開發了一款智慧型手機應用程式，應用程式使用者可以使用自己的智慧型手機相機拍攝自己陰莖的照片，以篩檢有症狀的性病。人工智慧模型最初是使用 5000 個案例開發，並使用修改過的卷積神經網路，針對包括梅毒、單純疱疹病毒和人類乳突病毒在內的視覺可診斷陰莖病理輸出預測分數。從 2022 年 6 月到 2022 年 10 月，總計約有 22,000 名使用者下載了 HeHealth 應用程式，並使用 HeHealth 人工智慧技術分析了約 21,000 張影像。我們隨後參與了形成性研究、利害關係人參與、快速整合影像、驗證研究，以及從 2022 年 7 月開始實施該工具。從 2022 年 7 月到 2022 年 10 月，總計有 1000 張與 Mpox 相關的影像用於訓練 Mpox 症狀檢查工具。我們的數位症狀檢查工具顯示，在確認 Mpox 的準確度為 87%，排除有症狀的 Mpox 的準確度為 90%。識別出的幾個障礙包括應用程式使用者的資料隱私和安全性問題、訓練人工智慧工具的初始資料不足，以及輸入資料的潛在概括性。我們提出了一些建議，以協助其他人著手進行緊急情況下的類似專案，包括廣泛參與各利益相關者、組成跨領域團隊、優先考量實用性，以及大資料實際上是由小資料組成這一概念。
-
-##### **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**
-2404.15549v2 by Shashi Kant Gupta, Aditya Basu, Mauro Nievas, Jerrin Thomas, Nathan Wolfrath, Adhitya Ramamurthi, Bradley Taylor, Anai N. Kothari, Regina Schwind, Therica M. Miller, Sorena Nadaf-Rahrov, Yanshan Wang, Hrituraj Singh
-
-Clinical trial matching is the task of identifying trials for which patients
-may be potentially eligible. Typically, this task is labor-intensive and
-requires detailed verification of patient electronic health records (EHRs)
-against the stringent inclusion and exclusion criteria of clinical trials. This
-process is manual, time-intensive, and challenging to scale up, resulting in
-many patients missing out on potential therapeutic options. Recent advancements
-in Large Language Models (LLMs) have made automating patient-trial matching
-possible, as shown in multiple concurrent research studies. However, the
-current approaches are confined to constrained, often synthetic datasets that
-do not adequately mirror the complexities encountered in real-world medical
-data. In this study, we present the first, end-to-end large-scale empirical
-evaluation of clinical trial matching using real-world EHRs. Our study
-showcases the capability of LLMs to accurately match patients with appropriate
-clinical trials. We perform experiments with proprietary LLMs, including GPT-4
-and GPT-3.5, as well as our custom fine-tuned model called OncoLLM and show
-that OncoLLM, despite its significantly smaller size, not only outperforms
-GPT-3.5 but also matches the performance of qualified medical doctors. All
-experiments were carried out on real-world EHRs that include clinical notes and
-available clinical trials from a single cancer center in the United States.
-
-摘要：臨床試驗配對是識別患者可能具備資格參加之試驗的任務。通常，此任務需要大量人力，且需要詳細驗證患者電子健康紀錄 (EHR)，並比對臨床試驗的嚴格納入和排除標準。此流程為手動、耗時且難以擴充，導致許多患者錯失潛在的治療選項。大型語言模型 (LLM) 的最新進展讓自動化患者試驗配對成為可能，如多項同時進行的研究報告中所示。然而，目前的作法僅限於受限、通常為合成資料集，無法充分反映現實世界醫療資料中遇到的複雜性。在本研究中，我們提出第一個使用真實世界 EHR 的臨床試驗配對端到端大規模實證評估。我們的研究展示了 LLM 準確為患者配對適當臨床試驗的能力。我們使用專有 LLM 執行實驗，包括 GPT-4 和 GPT-3.5，以及我們自訂微調模型 OncoLLM，並顯示 OncoLLM 儘管規模小很多，不僅優於 GPT-3.5，且與合格的醫生的表現相符。所有實驗均在真實世界 EHR 上進行，其中包括來自美國某個癌症中心的臨床筆記和可用的臨床試驗。
-
-##### **Multi-scale Intervention Planning based on Generative Design**
-2404.15492v1 by Ioannis Kavouras, Ioannis Rallis, Emmanuel Sardis, Eftychios Protopapadakis, Anastasios Doulamis, Nikolaos Doulamis
-
-The scarcity of green spaces, in urban environments, consists a critical
-challenge. There are multiple adverse effects, impacting the health and
-well-being of the citizens. Small scale interventions, e.g. pocket parks, is a
-viable solution, but comes with multiple constraints, involving the design and
-implementation over a specific area. In this study, we harness the capabilities
-of generative AI for multi-scale intervention planning, focusing on nature
-based solutions. By leveraging image-to-image and image inpainting algorithms,
-we propose a methodology to address the green space deficit in urban areas.
-Focusing on two alleys in Thessaloniki, where greenery is lacking, we
-demonstrate the efficacy of our approach in visualizing NBS interventions. Our
-findings underscore the transformative potential of emerging technologies in
-shaping the future of urban intervention planning processes.
-
-摘要：在城市環境中，綠地空間的稀缺是一個嚴峻的挑戰。這會造成多種負面影響，對市民的健康和福祉造成衝擊。小規模的干預措施，例如袖珍公園，是一個可行的解決方案，但會伴隨著多種限制，包括在特定區域的設計和實施。在本研究中，我們利用生成式人工智慧的能力進行多尺度干預規劃，重點放在基於自然的解決方案上。透過利用影像轉影像和影像修復演算法，我們提出了一種方法來解決城市地區的綠地空間不足問題。我們專注於塞薩洛尼基的兩條缺乏綠意的巷道，展示了我們的方法在可視化 NBS 干預措施方面的效能。我們的研究結果強調了新興技術在塑造未來城市干預規劃流程方面具有變革的潛力。
-
-##### **IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**
-2404.15488v1 by Jean-Philippe Corbeil
-
-In natural language processing applied to the clinical domain, utilizing
-large language models has emerged as a promising avenue for error detection and
-correction on clinical notes, a knowledge-intensive task for which annotated
-data is scarce. This paper presents MedReAct'N'MedReFlex, which leverages a
-suite of four LLM-based medical agents. The MedReAct agent initiates the
-process by observing, analyzing, and taking action, generating trajectories to
-guide the search to target a potential error in the clinical notes.
-Subsequently, the MedEval agent employs five evaluators to assess the targeted
-error and the proposed correction. In cases where MedReAct's actions prove
-insufficient, the MedReFlex agent intervenes, engaging in reflective analysis
-and proposing alternative strategies. Finally, the MedFinalParser agent formats
-the final output, preserving the original style while ensuring the integrity of
-the error correction process. One core component of our method is our RAG
-pipeline based on our ClinicalCorp corpora. Among other well-known sources
-containing clinical guidelines and information, we preprocess and release the
-open-source MedWiki dataset for clinical RAG application. Our results
-demonstrate the central role of our RAG approach with ClinicalCorp leveraged
-through the MedReAct'N'MedReFlex framework. It achieved the ninth rank on the
-MEDIQA-CORR 2024 final leaderboard.
-
-摘要：在應用於臨床領域的自然語言處理中，利用大型語言模型已成為臨床筆記中錯誤檢測和糾正的一種有前途的途徑，這是一項知識密集型任務，其標註數據稀缺。本文提出了 MedReAct'N'MedReFlex，它利用了一組四個基於 LLM 的醫療代理。MedReAct 代理通過觀察、分析和採取行動來啟動流程，生成軌跡以指導搜索，以針對臨床筆記中的潛在錯誤。隨後，MedEval 代理使用五個評估器來評估目標錯誤和建議的更正。在 MedReAct 的操作被證明不足的情況下，MedReFlex 代理會介入，進行反思分析並提出替代策略。最後，MedFinalParser 代理格式化最終輸出，保留原始樣式，同時確保錯誤更正流程的完整性。我們方法的一個核心組成部分是基於我們的 ClinicalCorp 語料庫的 RAG 管道。在包含臨床指南和信息的眾多其他知名來源中，我們預處理並發布開源 MedWiki 數據集以供臨床 RAG 應用。我們的結果證明了我們的 RAG 方法在通過 MedReAct'N'MedReFlex 框架利用 ClinicalCorp 時的核心作用。它在 MEDIQA-CORR 2024 最終排行榜上獲得了第九名。
-
-##### **Interactive Analysis of LLMs using Meaningful Counterfactuals**
-2405.00708v1 by Furui Cheng, Vilém Zouhar, Robin Shing Moon Chan, Daniel Fürst, Hendrik Strobelt, Mennatallah El-Assady
-
-Counterfactual examples are useful for exploring the decision boundaries of
-machine learning models and determining feature attributions. How can we apply
-counterfactual-based methods to analyze and explain LLMs? We identify the
-following key challenges. First, the generated textual counterfactuals should
-be meaningful and readable to users and thus can be mentally compared to draw
-conclusions. Second, to make the solution scalable to long-form text, users
-should be equipped with tools to create batches of counterfactuals from
-perturbations at various granularity levels and interactively analyze the
-results. In this paper, we tackle the above challenges and contribute 1) a
-novel algorithm for generating batches of complete and meaningful textual
-counterfactuals by removing and replacing text segments in different
-granularities, and 2) LLM Analyzer, an interactive visualization tool to help
-users understand an LLM's behaviors by interactively inspecting and aggregating
-meaningful counterfactuals. We evaluate the proposed algorithm by the
-grammatical correctness of its generated counterfactuals using 1,000 samples
-from medical, legal, finance, education, and news datasets. In our experiments,
-97.2% of the counterfactuals are grammatically correct. Through a use case,
-user studies, and feedback from experts, we demonstrate the usefulness and
-usability of the proposed interactive visualization tool.
-
-摘要：反事實範例對於探索機器學習模型的決策邊界和決定特徵歸因很有用。我們如何應用基於反事實的方法來分析和解釋 LLM？我們找出以下關鍵挑戰。首先，產生的文字反事實應對使用者有意義且可讀，因此可在心理上進行比較以得出結論。其次，為了使解決方案可擴展到長篇文字，使用者應具備從不同粒度層級的擾動中建立批次反事實並互動分析結果的工具。在本文中，我們解決上述挑戰並貢獻 1) 一種新的演算法，用於透過移除和替換不同粒度的文字區段來產生批次完整且有意義的文字反事實，以及 2) LLM Analyzer，一個互動式視覺化工具，可協助使用者透過互動式檢查和彙總有意義的反事實來了解 LLM 的行為。我們透過使用來自醫療、法律、財務、教育和新聞資料集的 1,000 個範例，根據其產生的反事實的語法正確性來評估所提出的演算法。在我們的實驗中，97.2% 的反事實在語法上是正確的。透過使用案例、使用者研究和專家的回饋，我們證明了所提出的互動式視覺化工具的有用性和可用性。
 

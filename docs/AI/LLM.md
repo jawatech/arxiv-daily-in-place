@@ -11,8 +11,8 @@
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491v1](http://arxiv.org/abs/2405.04491v1)|null|
 |**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453v1](http://arxiv.org/abs/2405.04453v1)|[link](https://github.com/seukgcode/incde)|
 |**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443v1](http://arxiv.org/abs/2405.04443v1)|null|
-|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442v1](http://arxiv.org/abs/2405.04442v1)|[link](https://github.com/smartory/augmentory)|
-|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434v1](http://arxiv.org/abs/2405.04434v1)|[link](https://github.com/deepseek-ai/deepseek-v2)|
+|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442v1](http://arxiv.org/abs/2405.04442v1)|null|
+|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434v2](http://arxiv.org/abs/2405.04434v2)|[link](https://github.com/deepseek-ai/deepseek-v2)|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)|
 |**2024-05-07**|**Pragmatist Intelligence: Where the Principle of Usefulness Can Take ANNs**|Antonio Bikić et.al.|[2405.04386v1](http://arxiv.org/abs/2405.04386v1)|null|
 |**2024-05-07**|**Leveraging LSTM and GAN for Modern Malware Detection**|Ishita Gupta et.al.|[2405.04373v1](http://arxiv.org/abs/2405.04373v1)|null|
@@ -50,7 +50,7 @@
 |**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136v1](http://arxiv.org/abs/2405.04136v1)|null|
 |**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135v1](http://arxiv.org/abs/2405.04135v1)|null|
 |**2024-05-07**|**Fine-grained Speech Sentiment Analysis in Chinese Psychological Support Hotlines Based on Large-scale Pre-trained Model**|Zhonglong Chen et.al.|[2405.04128v1](http://arxiv.org/abs/2405.04128v1)|[link](https://github.com/czl0914/psy_hotline_analysis)|
-|**2024-05-07**|**Comparative Study of Recurrent Neural Networks for Virtual Analog Audio Effects Modeling**|Riccardo Simionato et.al.|[2405.04124v1](http://arxiv.org/abs/2405.04124v1)|null|
+|**2024-05-07**|**Comparative Study of Recurrent Neural Networks for Virtual Analog Audio Effects Modeling**|Riccardo Simionato et.al.|[2405.04124v2](http://arxiv.org/abs/2405.04124v2)|null|
 |**2024-05-07**|**Policy Learning with a Language Bottleneck**|Megha Srivastava et.al.|[2405.04118v1](http://arxiv.org/abs/2405.04118v1)|[link](https://github.com/meghabyte/bottleneck)|
 |**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108v1](http://arxiv.org/abs/2405.04108v1)|null|
 |**2024-05-07**|**Continual Learning in the Presence of Repetition**|Hamed Hemati et.al.|[2405.04101v1](http://arxiv.org/abs/2405.04101v1)|null|
@@ -67,7 +67,7 @@
 |**2024-05-07**|**Philosophy of Cognitive Science in the Age of Deep Learning**|Raphaël Millière et.al.|[2405.04048v1](http://arxiv.org/abs/2405.04048v1)|null|
 |**2024-05-07**|**Feature Map Convergence Evaluation for Functional Module**|Ludan Zhang et.al.|[2405.04041v1](http://arxiv.org/abs/2405.04041v1)|null|
 |**2024-05-07**|**Utilizing GPT to Enhance Text Summarization: A Strategy to Minimize Hallucinations**|Hassan Shakil et.al.|[2405.04039v1](http://arxiv.org/abs/2405.04039v1)|null|
-|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032v1](http://arxiv.org/abs/2405.04032v1)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032v2](http://arxiv.org/abs/2405.04032v2)|null|
 |**2024-05-07**|**Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**|S. Akshay et.al.|[2405.04015v1](http://arxiv.org/abs/2405.04015v1)|null|
 |**2024-05-07**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009v1](http://arxiv.org/abs/2405.04009v1)|[link](https://github.com/hahamyt/scc)|
 |**2024-05-07**|**Sketch Then Generate: Providing Incremental User Feedback and Guiding LLM Code Generation through Language-Oriented Code Sketches**|Chen Zhu-Tian et.al.|[2405.03998v1](http://arxiv.org/abs/2405.03998v1)|null|
@@ -81,7 +81,7 @@
 |**2024-05-07**|**HAFFormer: A Hierarchical Attention-Free Framework for Alzheimer's Disease Detection From Spontaneous Speech**|Zhongren Dong et.al.|[2405.03952v1](http://arxiv.org/abs/2405.03952v1)|null|
 |**2024-05-07**|**Predictive Modeling with Temporal Graphical Representation on Electronic Health Records**|Jiayuan Chen et.al.|[2405.03943v1](http://arxiv.org/abs/2405.03943v1)|[link](https://github.com/the-real-jerrychen/trans)|
 |**2024-05-07**|**Long Context Alignment with Short Instructions and Synthesized Positions**|Wenhao Wu et.al.|[2405.03939v1](http://arxiv.org/abs/2405.03939v1)|null|
-|**2024-05-07**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932v1](http://arxiv.org/abs/2405.03932v1)|[link](https://github.com/nlp-tlp/cleangraph)|
+|**2024-05-07**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932v2](http://arxiv.org/abs/2405.03932v2)|[link](https://github.com/nlp-tlp/cleangraph)|
 |**2024-05-07**|**Unicorn: U-Net for Sea Ice Forecasting with Convolutional Neural Ordinary Differential Equations**|Jaesung Park et.al.|[2405.03929v1](http://arxiv.org/abs/2405.03929v1)|null|
 |**2024-05-07**|**A Roadmap for Multilingual, Multimodal Domain Independent Deception Detection**|Dainis Boumber et.al.|[2405.03920v1](http://arxiv.org/abs/2405.03920v1)|null|
 |**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901v1](http://arxiv.org/abs/2405.03901v1)|null|
@@ -356,7 +356,7 @@ https://github.com/Smartory/AugmenTory
 https://github.com/Smartory/AugmenTory
 
 ##### **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**
-2405.04434v1 by DeepSeek-AI
+2405.04434v2 by DeepSeek-AI
 
 We present DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model
 characterized by economical training and efficient inference. It comprises 236B
@@ -373,10 +373,9 @@ and multi-source corpus consisting of 8.1T tokens, and further perform
 Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) to fully unlock
 its potential. Evaluation results show that, even with only 21B activated
 parameters, DeepSeek-V2 and its chat versions still achieve top-tier
-performance among open-source models. The model checkpoints are available at
-"https://github.com/deepseek-ai/DeepSeek-V2".
+performance among open-source models.
 
-摘要：我們提出 DeepSeek-V2，一種強大的混合專家 (MoE) 語言模型，其特點是經濟訓練和高效推論。它包含 236B 個總參數，其中 21B 個被激活用於每個符號，並支援 128K 個符號的上下文長度。DeepSeek-V2 採用創新的架構，包括多頭潛在注意力 (MLA) 和 DeepSeekMoE。MLA 透過將鍵值 (KV) 快取大幅壓縮到潛在向量中，來保證高效推論，而 DeepSeekMoE 透過稀疏計算，以經濟成本訓練強大的模型。與 DeepSeek 67B 相比，DeepSeek-V2 達到了顯著更強的效能，同時節省了 42.5% 的訓練成本，將 KV 快取減少了 93.3%，並將最大生成量提升至 5.76 倍。我們在一個由 8.1T 個符號組成的高品質和多來源語料庫上預訓練 DeepSeek-V2，並進一步執行監督微調 (SFT) 和強化學習 (RL) 以充分發揮其潛力。評估結果顯示，即使只有 21B 個已啟用的參數，DeepSeek-V2 及其聊天版本仍可在開源模型中達到頂級效能。模型檢查點可在「https://github.com/deepseek-ai/DeepSeek-V2」取得。
+摘要：我們提出 DeepSeek-V2，一種強大的 Mixture-of-Experts (MoE) 語言模型，特點是經濟訓練和高效推理。它包含 236B 個總參數，其中 21B 個會對每個符號啟用，並支援 128K 個符號的內容長度。DeepSeek-V2 採用創新的架構，包括多頭潛在注意力 (MLA) 和 DeepSeekMoE。MLA 透過大幅壓縮 Key-Value (KV) 快取到潛在向量中，保證高效推理，而 DeepSeekMoE 透過稀疏運算，以經濟成本訓練強大的模型。與 DeepSeek 67B 相比，DeepSeek-V2 達到顯著更強的效能，同時節省 42.5% 的訓練成本，將 KV 快取減少 93.3%，並將最大生成處理量提升至 5.76 倍。我們在包含 8.1T 個符號的高品質多來源語料庫上預訓練 DeepSeek-V2，並進一步執行監督微調 (SFT) 和強化學習 (RL) 以完全發揮其潛力。評估結果顯示，即使只有 21B 個已啟用的參數，DeepSeek-V2 及其聊天版本仍能在開源模型中達到頂級效能。
 
 ##### **Vision Mamba: A Comprehensive Survey and Taxonomy**
 2405.04404v1 by Xiao Liu, Chenxu Zhang, Lei Zhang
@@ -1242,7 +1241,7 @@ possibilities of our study. All the codes are public available.
 摘要：<paragraph>自殺和自殺行為仍然是公共政策和醫療保健的重大挑戰。為此，全球各地已建立心理支持熱線，為精神危機中的人們提供即時幫助。這些熱線的有效性在很大程度上取決於準確識別來電者的情緒狀態，特別是表示自殺風險增加的潛在負面情緒。然而，對心理干預措施的高度需求常常導致專業運營人員短缺，這凸顯了對有效的語音情緒識別模型的需求。此模型將自動檢測和分析來電者的情緒，促進與熱線服務的整合。此外，它將能夠對心理支持熱線互動進行大規模數據分析，以探索人群中的心理現象和行為。我們的研究利用了北京心理支持熱線的數據，這是中國最大的自殺熱線。我們分析了來自 105 位來電者的語音數據，其中包含 20,630 個片段，並將其歸類為 11 種類型的負面情緒。我們使用大規模預訓練模型開發了一個負面情緒識別模型和一個細粒度多標籤分類模型。我們的實驗表明，負面情緒識別模型達到了 76.96% 的最高 F1 分數。然而，它在細粒度多標籤分類任務中顯示出有限的功效，最好的模型僅達到 41.74% 的加權 F1 分數。我們對此任務進行了錯誤分析，討論了潛在的未來改進，並考慮了我們研究的臨床應用可能性。所有代碼均公開可用。</paragraph>
 
 ##### **Comparative Study of Recurrent Neural Networks for Virtual Analog Audio Effects Modeling**
-2405.04124v1 by Riccardo Simionato, Stefano Fasciani
+2405.04124v2 by Riccardo Simionato, Stefano Fasciani
 
 Analog electronic circuits are at the core of an important category of
 musical devices. The nonlinear features of their electronic components give
@@ -1270,7 +1269,7 @@ demonstrates the greatest accuracy. The Long Short Term Memory and, in
 particular, Linear Recurrent Unit networks present more tendency to introduce
 audio artifacts.
 
-摘要：類比電子電路是重要音樂裝置類別的核心。其電子元件的非線性特性賦予類比音樂裝置獨特的音色和音質，讓它們極具吸引力。人工神經網路迅速流行起來，用於模擬類比音訊效果電路，尤其是遞迴網路。雖然神經方法已成功精確建模失真電路，但它們需要考量參數調整和低延遲回應的架構改進。在本文中，我們探討了近期機器學習進展在虛擬類比建模中的應用。我們將狀態空間模型和線性遞迴單元與更常見的長短期記憶網路進行比較。這些模型在序列到序列建模任務中展現出令人滿意的能力，在訊號歷程編碼中展現出顯著的改進。我們的比較研究使用這些黑盒神經建模技術，並搭配各種音訊效果。我們使用多種指標評估效能和限制，旨在評估模型精確複製音訊訊號中的能量包絡、頻率內容和瞬態的能力。為了納入控制參數，我們採用特徵線性調變方法。長短期記憶網路在模擬失真和均衡器方面展現出更好的準確度，而狀態空間模型在整合到編碼器解碼器結構時，其次是長短期記憶網路，在模擬飽和度和壓縮方面優於其他模型。在考慮長時間變異特性時，狀態空間模型展現出最高的準確度。長短期記憶網路，尤其是線性遞迴單元網路，呈現出引入音訊偽像的更大傾向。
+摘要：類比電子電路是重要音樂裝置類別的核心。其電子元件的非線性特徵賦予類比音樂裝置獨特的音色和音質，使其備受推崇。人工神經網路已快速普及，用於模擬類比音訊效果電路，特別是遞迴網路。儘管神經方法已成功精確建模失真電路，但它們需要考量參數調整和低延遲反應的架構改進。在本文中，我們探討近期機器學習進展在虛擬類比建模中的應用。我們比較狀態空間模型和線性遞迴單元與更常見的長短期記憶網路。這些模型在序列到序列建模任務中展現出有望的表現，在訊號歷程編碼中展現顯著進步。我們的比較研究使用這些黑箱神經建模技術搭配各種音訊效果。我們使用多重指標評估效能和限制，旨在評估模型精確複製音訊訊號中能量包絡、頻率內容和暫態的能力。為了納入控制參數，我們採用特徵線性調變方法。長短期記憶網路在模擬失真和均衡器方面展現出更好的精確度，而狀態空間模型，其次是整合在編碼器解碼器結構中的長短期記憶網路，在模擬飽和度和壓縮方面優於其他模型。在考量長時間變異特性時，狀態空間模型展現出最高的精確度。長短期記憶網路，特別是線性遞迴單元網路，呈現出引入音訊偽像的更高傾向。
 
 ##### **Policy Learning with a Language Bottleneck**
 2405.04118v1 by Megha Srivastava, Cedric Colas, Dorsa Sadigh, Jacob Andreas
@@ -1634,7 +1633,7 @@ integrity of the summaries.
 摘要：在本研究中，我們使用 DistilBERT 模型來產生萃取式摘要，並使用 T5 模型來產生抽象式摘要。此外，我們透過結合 DistilBERT 和 T5 模型來產生混合式摘要。我們的研究核心是實作基於 GPT 的精煉流程，以將 AI 產生的摘要中常見的幻覺問題降至最低。我們評估未精煉的摘要，並在精煉後，我們也使用一系列傳統和新穎的指標評估精煉後的摘要，證明摘要的準確性和可靠性有顯著的提升。結果強調在減少幻覺內容方面有顯著的進步，進而提升摘要的事實完整性。
 
 ##### **Locally Differentially Private In-Context Learning**
-2405.04032v1 by Chunyan Zheng, Keke Sun, Wenhao Zhao, Haibo Zhou, Lixin Jiang, Shaoyang Song, Chunlai Zhou
+2405.04032v2 by Chunyan Zheng, Keke Sun, Wenhao Zhao, Haibo Zhou, Lixin Jiang, Shaoyang Song, Chunlai Zhou
 
 Large pretrained language models (LLMs) have shown surprising In-Context
 Learning (ICL) ability. An important application in deploying large language
@@ -1650,7 +1649,7 @@ trade-off between privacy and utility in such LDP-ICL for classification.
 Moreover, we apply LDP-ICL to the discrete distribution estimation problem. In
 the end, we perform several experiments to demonstrate our analysis results.
 
-摘要：大型预训练语言模型 (LLM) 已展现出惊人的情境学习 (ICL) 能力。部署大型语言模型的一项重要应用是为某些特定任务使用私有数据库增强 LLM。这种有前景的商业用途的主要问题在于，LLM 已被证明会记住其训练数据，并且其提示数据容易受到成员推断攻击 (MIA) 和提示泄露攻击。为了解决这个问题，我们把 LLM 视为隐私不可信，并提出了情境学习的局部差分隐私框架 (LDP-ICL)，用于标签敏感的情况。通过梯度下降考虑 Transformer 中情境学习的机制，我们分析了这种 LDP-ICL 在分类中隐私和效用之间的权衡。此外，我们将 LDP-ICL 应用于离散分布估计问题。最后，我们执行多项实验来证明我们的分析结果。
+摘要：大型預訓練語言模型 (LLM) 已展現出驚人的情境學習 (ICL) 能力。部署大型語言模型的一項重要應用，是為特定任務增強 LLM，並加入私人資料庫。這種有前途的商業用途的主要問題是，已證實 LLM 會記住其訓練資料，而且其提示資料容易受到成員身分推論攻擊 (MIA) 和提示洩漏攻擊。為了處理這個問題，我們將 LLM 視為在隱私方面不可信，並提出一個情境學習的在地差分隱私架構 (LDP-ICL)，用於標籤敏感的情況。考量 Transformer 中情境學習的梯度下降機制，我們分析了此類 LDP-ICL 在分類中的隱私和實用性之間的取捨。此外，我們將 LDP-ICL 應用於離散分佈估計問題。最後，我們執行多項實驗，以驗證我們的分析結果。
 
 ##### **Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**
 2405.04015v1 by S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić
@@ -1956,7 +1955,7 @@ GPT-3.5-Turbo-16K on LongBench.
 SkipAlign 是基於長距離依賴關係對於增強 LLM 的長語境能力至關重要的前提而開發的。與僅僅擴展輸入樣本的長度不同，SkipAlign 從位置索引的角度綜合了長距離依賴關係。這是通過在遵循指令的樣本中策略性地插入跳過的索引位置來實現的，它利用數據的語義結構來有效地擴展語境。通過對具有各種語境窗口大小的基本模型進行廣泛的實驗，SkipAlign 展示了其在各種長語境任務中的有效性。特別值得注意的是，通過仔細選擇基本模型和對齊數據集，只有 6B 參數的 SkipAlign 就能達到其最佳性能，並且在 LongBench 上與 GPT-3.5-Turbo-16K 等強大的基準相當。
 
 ##### **CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**
-2405.03932v1 by Tyler Bikaun, Michael Stewart, Wei Liu
+2405.03932v2 by Tyler Bikaun, Michael Stewart, Wei Liu
 
 This paper presents CleanGraph, an interactive web-based tool designed to
 facilitate the refinement and completion of knowledge graphs. Maintaining the
@@ -1974,7 +1973,7 @@ enable users to enhance the integrity and reliability of their graph data. A
 demonstration of CleanGraph and its source code can be accessed at
 https://github.com/nlp-tlp/CleanGraph under the MIT License.
 
-摘要：本文介紹 CleanGraph，這是一個互動式網頁工具，旨在促進知識圖譜的完善和完成。維護知識圖譜的可靠性，建立於高品質且無錯誤的事實上，對於實際應用至關重要，例如問答和資訊檢索系統。這些圖譜通常透過資訊萃取，從文字來源自動組成語意三元組。然而，確保這些萃取三元組的品質，特別是在處理大型或低品質資料集時，可能會構成重大挑戰，並對下游應用的效能產生負面影響。CleanGraph 使用者可以對其圖譜執行建立、讀取、更新和刪除 (CRUD) 作業，並以外掛程式的形式套用模型，以進行圖譜完善和完成任務。這些功能讓使用者能夠提升其圖譜資料的完整性和可靠性。CleanGraph 的示範和原始碼可以在 https://github.com/nlp-tlp/CleanGraph 取得，並採用 MIT 授權。
+摘要：本論文提出 CleanGraph，一種互動式網路工具，旨在促進知識圖譜的精煉和完成。維護知識圖譜的可靠性對於實際應用（例如問答和資訊檢索系統）至關重要，而知識圖譜的基礎是高品質且無錯誤的事實。這些圖譜通常透過資訊擷取，從文字來源自動組成語意三元組。然而，確保這些擷取三元組的品質，特別是在處理大型或低品質資料集時，可能構成重大挑戰，並對下游應用的效能產生負面影響。CleanGraph 使用者可以在其圖譜上執行建立、讀取、更新和刪除 (CRUD) 作業，以及套用模型，這些模型以外掛程式的形式進行圖譜精煉和完成任務。這些功能讓使用者能夠提升圖譜資料的完整性和可靠性。CleanGraph 的示範和原始碼可以在 https://github.com/nlp-tlp/CleanGraph 下取得，並採用 MIT 授權條款。
 
 ##### **Unicorn: U-Net for Sea Ice Forecasting with Convolutional Neural Ordinary Differential Equations**
 2405.03929v1 by Jaesung Park, Sungchul Hong, Yoonseo Cho, Jong-June Jeon

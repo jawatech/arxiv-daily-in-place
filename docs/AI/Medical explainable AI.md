@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
 |**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v1](http://arxiv.org/abs/2404.18975v1)|null|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
@@ -101,9 +102,24 @@
 |**2022-07-26**|**AI Approaches in Processing and Using Data in Personalized Medicine**|Mirjana Ivanovic et.al.|[2208.04698v1](http://arxiv.org/abs/2208.04698v1)|null|
 |**2022-07-22**|**TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**|Nandita Bhaskhar et.al.|[2207.11290v2](http://arxiv.org/abs/2207.11290v2)|[link](https://github.com/nanbhas/trustlapse)|
 |**2022-07-12**|**Revealing Unfair Models by Mining Interpretable Evidence**|Mohit Bajaj et.al.|[2207.05811v1](http://arxiv.org/abs/2207.05811v1)|null|
-|**2022-07-11**|**From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**|Lukas Klein et.al.|[2207.04969v1](http://arxiv.org/abs/2207.04969v1)|null|
 
 #### Abstracts
+##### **To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**
+2405.05766v1 by Miquel Miró-Nicolau, Gabriel Moyà-Alcover, Antoni Jaume-i-Capó, Manuel González-Hidalgo, Maria Gemma Sempere Campello, Juan Antonio Palmer Sancho
+
+The increasing reliance on Deep Learning models, combined with their inherent
+lack of transparency, has spurred the development of a novel field of study
+known as eXplainable AI (XAI) methods. These methods seek to enhance the trust
+of end-users in automated systems by providing insights into the rationale
+behind their decisions. This paper presents a novel approach for measuring user
+trust in XAI systems, allowing their refinement. Our proposed metric combines
+both performance metrics and trust indicators from an objective perspective. To
+validate this novel methodology, we conducted a case study in a realistic
+medical scenario: the usage of XAI system for the detection of pneumonia from
+x-ray images.
+
+摘要：隨著對深度學習模型依賴性的增加，加上其固有的透明度不足，促使一個新的研究領域發展，稱為可解釋 AI (XAI) 方法。這些方法旨在透過深入了解決策背後的原理，來提升最終使用者對自動化系統的信賴。本文提出了一種衡量使用者對 XAI 系統信賴度的新穎方法，允許對其進行改進。我們提出的指標結合了客觀觀點下的效能指標和信賴指標。為了驗證這個新穎的方法，我們在一個真實的醫療場景中進行了一個案例研究：使用 XAI 系統從 X 光影像中偵測肺炎。
+
 ##### **Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**
 2405.02815v1 by Zhusi Zhong, Jie Li, Zhuoqi Ma, Scott Collins, Harrison Bai, Paul Zhang, Terrance Healey, Xinbo Gao, Michael K. Atalay, Zhicheng Jiao
 
@@ -2580,23 +2596,4 @@ evidence to effectively reveal the unfairness of trained models. Moreover, it
 is much more scalable than all of the baseline methods.
 
 摘要：機器學習的普及性已增加不公平模型被部署在高風險應用程式的風險，例如司法系統、藥物/疫苗設計和醫療診斷。儘管有從頭開始訓練公平模型的有效方法，但如何自動揭露和解釋訓練模型的不公平性仍然是一項具有挑戰性的任務。以可解釋的方式揭露機器學習模型的不公平性是邁向公平且值得信賴的人工智慧的關鍵一步。在本文中，我們系統性地應對揭露不公平模型的新任務，方法是挖掘可解釋的證據 (RUMIE)。關鍵的想法是以一組資料實例的形式找到確鑿證據，這些實例受到模型最大的歧視。為了使證據可解釋，我們還找到了一組人類可以理解的關鍵屬性和決策規則，這些屬性和決策規則描述了受到歧視的資料實例，並將它們與其他未受到歧視的資料區分開來。正如在許多實際資料集上進行的廣泛實驗所證明的那樣，我們的模型找到了高度可解釋且確鑿的證據，可以有效地揭露訓練模型的不公平性。此外，它比所有基線方法的可擴充性都要高得多。
-
-##### **From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**
-2207.04969v1 by Lukas Klein, Mennatallah El-Assady, Paul F. Jäger
-
-Explainable AI (XAI) is a necessity in safety-critical systems such as in
-clinical diagnostics due to a high risk for fatal decisions. Currently,
-however, XAI resembles a loose collection of methods rather than a well-defined
-process. In this work, we elaborate on conceptual similarities between the
-largest subgroup of XAI, interpretable machine learning (IML), and classical
-statistics. Based on these similarities, we present a formalization of IML
-along the lines of a statistical process. Adopting this statistical view allows
-us to interpret machine learning models and IML methods as sophisticated
-statistical tools. Based on this interpretation, we infer three key questions,
-which we identify as crucial for the success and adoption of IML in
-safety-critical settings. By formulating these questions, we further aim to
-spark a discussion about what distinguishes IML from classical statistics and
-what our perspective implies for the future of the field.
-
-摘要：可解釋人工智慧 (XAI) 在安全關鍵系統中是必要的，例如在臨床診斷中，因為有做出致命決策的高風險。然而，目前 XAI 就像是一堆鬆散的方法，而不是一個定義良好的流程。在這項工作中，我們闡述了 XAI 最大子群體可解釋機器學習 (IML) 與古典統計之間的概念相似性。基於這些相似性，我們提出了一個沿著統計流程的 IML 形式化。採用這種統計觀點使我們能夠將機器學習模型和 IML 方法解釋為複雜的統計工具。基於這種解釋，我們推論出三個關鍵問題，我們將其視為在安全關鍵環境中 IML 成功和採用至關重要的問題。透過制定這些問題，我們進一步旨在引發一場關於 IML 與古典統計之間的區別以及我們的觀點對該領域未來的影響的討論。
 

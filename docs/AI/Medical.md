@@ -2,10 +2,16 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-09**|**A Robust eLORETA Technique for Localization of Brain Sources in the Presence of Forward Model Uncertainties**|A. Noroozi et.al.|[2405.05790v1](http://arxiv.org/abs/2405.05790v1)|null|
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
+|**2024-05-09**|**DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models**|Mengxiao Geng et.al.|[2405.05763v1](http://arxiv.org/abs/2405.05763v1)|null|
+|**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336v1](http://arxiv.org/abs/2405.05336v1)|null|
+|**2024-05-08**|**Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology**|Anja Thieme et.al.|[2405.05299v1](http://arxiv.org/abs/2405.05299v1)|null|
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
 |**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|[link](https://github.com/david-li0406/dalk)|
+|**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286v1](http://arxiv.org/abs/2405.05286v1)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650v1](http://arxiv.org/abs/2405.04650v1)|null|
 |**2024-05-07**|**AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets**|Fakrul Islam Tushar et.al.|[2405.04605v1](http://arxiv.org/abs/2405.04605v1)|null|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)|
@@ -96,14 +102,136 @@
 |**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325v1](http://arxiv.org/abs/2404.16325v1)|null|
 |**2024-04-25**|**LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**|Saranya Krishnamoorthy et.al.|[2404.16294v1](http://arxiv.org/abs/2404.16294v1)|[link](https://github.com/inqbator-evicore/llm_section_identifiers)|
 |**2024-04-24**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251v2](http://arxiv.org/abs/2404.16251v2)|null|
-|**2024-04-24**|**ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**|Sarala Naidu et.al.|[2404.16183v1](http://arxiv.org/abs/2404.16183v1)|null|
-|**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112v1](http://arxiv.org/abs/2404.16112v1)|[link](https://github.com/badripatro/mamba360)|
-|**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946v1](http://arxiv.org/abs/2404.15946v1)|null|
-|**2024-04-24**|**Assessing The Potential Of Mid-Sized Language Models For Clinical QA**|Elliot Bolton et.al.|[2404.15894v1](http://arxiv.org/abs/2404.15894v1)|null|
-|**2024-04-24**|**Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**|Hong-Jun Yoon et.al.|[2404.16080v1](http://arxiv.org/abs/2404.16080v1)|null|
-|**2024-04-24**|**A Hybrid Probabilistic Battery Health Management Approach for Robust Inspection Drone Operations**|Jokin Alcibar et.al.|[2405.00055v1](http://arxiv.org/abs/2405.00055v1)|null|
 
 #### Abstracts
+##### **A Robust eLORETA Technique for Localization of Brain Sources in the Presence of Forward Model Uncertainties**
+2405.05790v1 by A. Noroozi, M. Ravan, B. Razavi, R. S. Fisher, Y. Law, M. S. Hasan
+
+In this paper, we present a robust version of the well-known exact
+low-resolution electromagnetic tomography (eLORETA) technique, named ReLORETA,
+to localize brain sources in the presence of different forward model
+uncertainties. Methods: We first assume that the true lead field matrix is a
+transformation of the existing lead field matrix distorted by uncertainties and
+propose an iterative approach to estimate this transformation accurately. Major
+sources of the forward model uncertainties, including differences in geometry,
+conductivity, and source space resolution between the real and simulated head
+models, and misaligned electrode positions, are then simulated to test the
+proposed method. Results: ReLORETA and eLORETA are applied to simulated focal
+sources in different regions of the brain and the presence of various noise
+levels as well as real data from a patient with focal epilepsy. The results
+show that ReLORETA is considerably more robust and accurate than eLORETA in all
+cases. Conclusion: Having successfully dealt with the forward model
+uncertainties, ReLORETA proved to be a promising method for real-world clinical
+applications. Significance: eLORETA is one of the localization techniques that
+could be used to study brain activity for medical applications such as
+determining the epileptogenic zone in patients with medically refractory
+epilepsy. However, the major limitation of eLORETA is sensitivity to the
+uncertainties in the forward model. Since this problem can substantially
+undermine its performance in real-world applications where the exact lead field
+matrix is unknown, developing a more robust method capable of dealing with
+these uncertainties is of significant interest.
+
+摘要：<paragraph>在本文中，我們提出了一種強健版的著名精確低解析度電磁斷層掃描 (eLORETA) 技術，名為 ReLORETA，用於定位存在不同正向模型不確定性的腦部來源。方法：我們首先假設真實導線場矩陣是不確定性扭曲的現有導線場矩陣的轉換，並提出了一種反覆運算方法來準確估計此轉換。然後模擬正向模型不確定性的主要來源，包括真實和模擬頭部模型之間的幾何形狀、電導率和源空間解析度的差異，以及電極位置未對齊，以測試所提出的方法。結果：ReLORETA 和 eLORETA 應用於腦部不同區域的模擬焦點來源，以及各種噪聲級別以及來自癲癇患者的真實數據。結果表明，在所有情況下，ReLORETA 都比 eLORETA 更強健且更準確。結論：在成功處理了正向模型不確定性後，ReLORETA 被證明是一種很有前景的真實世界臨床應用方法。意義：eLORETA 是一種定位技術，可用於研究腦部活動，用於醫療應用，例如確定藥物難治性癲癇患者的癲癇發作區。然而，eLORETA 的主要限制是對正向模型的不確定性敏感。由於此問題可能會嚴重損害其在未知確切導線場矩陣的真實世界應用中的性能，因此開發一種能夠應對這些不確定性的更強健的方法具有重大意義。</paragraph>
+
+##### **To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**
+2405.05766v1 by Miquel Miró-Nicolau, Gabriel Moyà-Alcover, Antoni Jaume-i-Capó, Manuel González-Hidalgo, Maria Gemma Sempere Campello, Juan Antonio Palmer Sancho
+
+The increasing reliance on Deep Learning models, combined with their inherent
+lack of transparency, has spurred the development of a novel field of study
+known as eXplainable AI (XAI) methods. These methods seek to enhance the trust
+of end-users in automated systems by providing insights into the rationale
+behind their decisions. This paper presents a novel approach for measuring user
+trust in XAI systems, allowing their refinement. Our proposed metric combines
+both performance metrics and trust indicators from an objective perspective. To
+validate this novel methodology, we conducted a case study in a realistic
+medical scenario: the usage of XAI system for the detection of pneumonia from
+x-ray images.
+
+摘要：隨著對深度學習模型依賴性的增加，加上其固有的透明度不足，促使一個新的研究領域發展，稱為可解釋 AI (XAI) 方法。這些方法旨在透過深入了解決策背後的原理，來提升最終使用者對自動化系統的信賴。本文提出了一種衡量使用者對 XAI 系統信賴度的新穎方法，允許對其進行改進。我們提出的指標結合了客觀觀點下的效能指標和信賴指標。為了驗證這個新穎的方法，我們在一個真實的醫療場景中進行了一個案例研究：使用 XAI 系統從 X 光影像中偵測肺炎。
+
+##### **DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models**
+2405.05763v1 by Mengxiao Geng, Jiahao Zhu, Xiaolin Zhu, Qiqing Liu, Dong Liang, Qiegen Liu
+
+Detail features of magnetic resonance images play a cru-cial role in accurate
+medical diagnosis and treatment, as they capture subtle changes that pose
+challenges for doc-tors when performing precise judgments. However, the widely
+utilized naive diffusion model has limitations, as it fails to accurately
+capture more intricate details. To en-hance the quality of MRI reconstruction,
+we propose a comprehensive detail-preserving reconstruction method using
+multiple diffusion models to extract structure and detail features in k-space
+domain instead of image do-main. Moreover, virtual binary modal masks are
+utilized to refine the range of values in k-space data through highly adaptive
+center windows, which allows the model to focus its attention more efficiently.
+Last but not least, an inverted pyramid structure is employed, where the
+top-down image information gradually decreases, ena-bling a cascade
+representation. The framework effective-ly represents multi-scale sampled data,
+taking into ac-count the sparsity of the inverted pyramid architecture, and
+utilizes cascade training data distribution to repre-sent multi-scale data.
+Through a step-by-step refinement approach, the method refines the
+approximation of de-tails. Finally, the proposed method was evaluated by
+con-ducting experiments on clinical and public datasets. The results
+demonstrate that the proposed method outper-forms other methods.
+
+摘要：磁共振影像的細節特徵在準確的醫療診斷和治療中扮演著至關重要的角色，因為它們捕捉到細微的變化，對醫生執行精確判斷時構成挑戰。然而，廣泛使用的樸素擴散模型有其局限性，因為它無法準確捕捉到更複雜的細節。為了增強 MRI 重建的品質，我們提出了一種使用多個擴散模型的全面細節保留重建方法，在 k 空間域中提取結構和細節特徵，而不是影像域。此外，虛擬二元模態遮罩被用於透過高度自適應中心視窗來改善 k 空間資料中的值域，這使得模型可以更有效率地集中其注意力。最後但並非最不重要的是，採用了一個倒金字塔結構，其中自上而下的影像資訊逐漸減少，實現了串聯表示。該架構有效地表示多尺度取樣資料，考慮了倒金字塔架構的稀疏性，並利用串聯訓練資料分佈來表示多尺度資料。透過逐步細化的方式，該方法改善了細節的近似值。最後，透過在臨床和公共資料集上進行實驗，對所提出的方法進行了評估。結果表明，所提出的方法優於其他方法。
+
+##### **Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**
+2405.05336v1 by Alvaro Gomariz, Yusuke Kikuchi, Yun Yvonna Li, Thomas Albrecht, Andreas Maunz, Daniela Ferrara, Huanxiang Lu, Orcun Goksel
+
+Despite their effectiveness, current deep learning models face challenges
+with images coming from different domains with varying appearance and content.
+We introduce SegCLR, a versatile framework designed to segment volumetric
+images across different domains, employing supervised and contrastive learning
+simultaneously to effectively learn from both labeled and unlabeled data. We
+demonstrate the superior performance of SegCLR through a comprehensive
+evaluation involving three diverse clinical datasets of retinal fluid
+segmentation in 3D Optical Coherence Tomography (OCT), various network
+configurations, and verification across 10 different network initializations.
+In an unsupervised domain adaptation context, SegCLR achieves results on par
+with a supervised upper-bound model trained on the intended target domain.
+Notably, we discover that the segmentation performance of SegCLR framework is
+marginally impacted by the abundance of unlabeled data from the target domain,
+thereby we also propose an effective zero-shot domain adaptation extension of
+SegCLR, eliminating the need for any target domain information. This shows that
+our proposed addition of contrastive loss in standard supervised training for
+segmentation leads to superior models, inherently more generalizable to both
+in- and out-of-domain test data. We additionally propose a pragmatic solution
+for SegCLR deployment in realistic scenarios with multiple domains containing
+labeled data. Accordingly, our framework pushes the boundaries of deep-learning
+based segmentation in multi-domain applications, regardless of data
+availability - labeled, unlabeled, or nonexistent.
+
+摘要：儘管深度學習模型有效，但目前的模型在處理來自不同領域、外觀和內容各異的影像時會遇到挑戰。
+我們引入了 SegCLR，這是一個多功能的架構，旨在分割不同領域的體積影像，同時採用監督式學習和對比式學習，有效地從標籤資料和未標籤資料中學習。我們透過一項全面的評估來展示 SegCLR 的卓越效能，其中包含三個不同的臨床資料集，包括 3D 光學相干斷層掃描 (OCT) 中的視網膜液體分割、各種網路組態以及跨 10 個不同網路初始化的驗證。
+在非監督領域適應的背景下，SegCLR 達到的結果與在預期的目標領域中訓練的監督式上限模型相當。
+值得注意的是，我們發現 SegCLR 框架的分割效能幾乎不受目標領域中大量未標籤資料的影響，因此我們也提出了 SegCLR 的一個有效的零次域適應延伸，消除了對任何目標領域資訊的需求。這顯示出我們在標準監督式訓練中加入對比損失的提議，可產生卓越的模型，本質上更能概括到領域內和領域外的測試資料。我們還提出了 SegCLR 在包含標籤資料的多個領域的實際場景中部署的務實解決方案。因此，我們的框架推動了基於深度學習的分割在多領域應用中的界限，無論資料可用性如何 - 標籤、未標籤或不存在。
+
+##### **Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology**
+2405.05299v1 by Anja Thieme, Abhijith Rajamohan, Benjamin Cooper, Heather Groombridge, Robert Simister, Barney Wong, Nicholas Woznitza, Mark Ames Pinnock, Maria Teodora Wetscherek, Cecily Morrison, Hannah Richardson, Fernando Pérez-García, Stephanie L. Hyland, Shruthi Bannur, Daniel C. Castro, Kenza Bouzid, Anton Schwaighofer, Mercy Ranjit, Harshita Sharma, Matthew P. Lungren, Ozan Oktay, Javier Alvarez-Valle, Aditya Nori, Stephen Harris, Joseph Jacob
+
+Nasogastric tubes (NGTs) are feeding tubes that are inserted through the nose
+into the stomach to deliver nutrition or medication. If not placed correctly,
+they can cause serious harm, even death to patients. Recent AI developments
+demonstrate the feasibility of robustly detecting NGT placement from Chest
+X-ray images to reduce risks of sub-optimally or critically placed NGTs being
+missed or delayed in their detection, but gaps remain in clinical practice
+integration. In this study, we present a human-centered approach to the problem
+and describe insights derived following contextual inquiry and in-depth
+interviews with 15 clinical stakeholders. The interviews helped understand
+challenges in existing workflows, and how best to align technical capabilities
+with user needs and expectations. We discovered the trade-offs and complexities
+that need consideration when choosing suitable workflow stages, target users,
+and design configurations for different AI proposals. We explored how to
+balance AI benefits and risks for healthcare staff and patients within broader
+organizational and medical-legal constraints. We also identified data issues
+related to edge cases and data biases that affect model training and
+evaluation; how data documentation practices influence data preparation and
+labelling; and how to measure relevant AI outcomes reliably in future
+evaluations. We discuss how our work informs design and development of AI
+applications that are clinically useful, ethical, and acceptable in real-world
+healthcare services.
+
+摘要：鼻胃管 (NGT) 是經由鼻腔插入胃中以提供營養或藥物的餵食管。如果沒有正確放置，可能會對患者造成嚴重傷害，甚至死亡。最近的 AI 發展證明了從胸部 X 光影像中穩健偵測 NGT 放置位置的可行性，以降低遺漏或延遲偵測位置不佳或危急的 NGT 的風險，但臨床實務整合仍有差距。在這項研究中，我們提出以人為中心的解決問題方法，並描述在脈絡探究和與 15 位臨床利益關係人深度訪談後獲得的見解。訪談有助於了解現有工作流程中的挑戰，以及如何最佳地將技術能力與使用者需求和期望結合起來。我們發現了在選擇適合的工作流程階段、目標使用者和不同 AI 提議的設計配置時需要考量的權衡和複雜性。我們探討了如何在更廣泛的組織和醫療法律約束下平衡 AI 對醫療保健人員和患者的益處和風險。我們也找出影響模型訓練和評估的邊緣案例和資料偏差相關的資料問題；資料文件編寫實務如何影響資料準備和標籤；以及如何在未來的評估中可靠地衡量相關的 AI 結果。我們討論了我們的工作如何為在現實世界的醫療保健服務中臨床上有用、符合道德且可接受的 AI 應用程式設計和開發提供資訊。
+
 ##### **Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**
 2405.04990v1 by Kristupas Bajarunas, Marcia L. Baptista, Kai Goebel, Manuel A. Chao
 
@@ -203,6 +331,37 @@ mutually enhancing KG and LLM. We will release the code and data at
 https://github.com/David-Li0406/DALK.
 
 摘要：大型語言模型 (LLM) 近期的進展在各種應用中取得了可觀的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域的無縫採用。在這項工作中，我們引入了 DALK，又名 LLM 和 KG 的動態協同擴充，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是一個生物醫學中的專業子領域，也是全球健康的優先事項。透過 LLM 和 KG 互相增強的協同架構，我們首先利用 LLM 從與 AD 相關的科學文獻中建構一個不斷演進的 AD 專屬知識圖譜 (KG)，然後我們利用粗到細的抽樣方法，並採用新穎的自知知識擷取方法，從 KG 中選擇適當的知識來擴充 LLM 推論能力。在我們建構的 AD 問題解答 (ADQA) 基準上進行的實驗結果突顯了 DALK 的功效。此外，我們執行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 釋出程式碼和資料。
+
+##### **Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**
+2405.05286v1 by Soyed Tuhin Ahmed, Michael Hefenbrock, Mehdi B. Tahoori
+
+The applications of artificial intelligence (AI) are rapidly evolving, and
+they are also commonly used in safety-critical domains, such as autonomous
+driving and medical diagnosis, where functional safety is paramount. In
+AI-driven systems, uncertainty estimation allows the user to avoid
+overconfidence predictions and achieve functional safety. Therefore, the
+robustness and reliability of model predictions can be improved. However,
+conventional uncertainty estimation methods, such as the deep ensemble method,
+impose high computation and, accordingly, hardware (latency and energy)
+overhead because they require the storage and processing of multiple models.
+Alternatively, Monte Carlo dropout (MC-dropout) methods, although having low
+memory overhead, necessitate numerous ($\sim 100$) forward passes, leading to
+high computational overhead and latency. Thus, these approaches are not
+suitable for battery-powered edge devices with limited computing and memory
+resources. In this paper, we propose the Tiny-Deep Ensemble approach, a
+low-cost approach for uncertainty estimation on edge devices. In our approach,
+only normalization layers are ensembled $M$ times, with all ensemble members
+sharing common weights and biases, leading to a significant decrease in storage
+requirements and latency. Moreover, our approach requires only one forward pass
+in a hardware architecture that allows batch processing for inference and
+uncertainty estimation. Furthermore, it has approximately the same memory
+overhead compared to a single model. Therefore, latency and memory overhead are
+reduced by a factor of up to $\sim M\times$. Nevertheless, our method does not
+compromise accuracy, with an increase in inference accuracy of up to $\sim 1\%$
+and a reduction in RMSE of $17.17\%$ in various benchmark datasets, tasks, and
+state-of-the-art architectures.
+
+摘要：<paragraph>人工智慧 (AI) 的應用正在快速演進，而且它們也常被用於安全關鍵領域，例如自動駕駛和醫療診斷，功能安全至關重要。在 AI 驅動的系統中，不確定性估計允許使用者避免過度自信的預測並實現功能安全。因此，模型預測的穩健性和可靠性可以獲得提升。然而，傳統的不確定性估計方法，例如深度集成方法，會造成高運算，因此有硬體 (延遲和能源) 的開銷，因為它們需要儲存和處理多個模型。可選擇的蒙地卡羅中斷 (MC-dropout) 方法，儘管記憶體開銷低，但需要大量的 ($\sim 100$) 前向傳遞，導致高運算開銷和延遲。因此，這些方法不適合運算和記憶體資源有限的電池供電邊緣裝置。在本文中，我們提出 Tiny-Deep Ensemble 方法，一種在邊緣裝置上進行不確定性估計的低成本方法。在我們的方法中，只有正規化層被集成 $M$ 次，所有集成成員共享共同的權重和偏差，導致儲存需求和延遲顯著降低。此外，我們的方法只在硬體架構中需要一次前向傳遞，該架構允許批次處理以進行推論和不確定性估計。此外，與單一模型相比，它大約有相同的記憶體開銷。因此，延遲和記憶體開銷最多可減少 $\sim M\times$ 倍。儘管如此，我們的模型並未損害準確性，在各種基準資料集、任務和最先進的架構中，推理準確度提升了 $\sim 1\%$，RMSE 降低了 $17.17\%$。</paragraph>
 
 ##### **A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**
 2405.04650v1 by László Kopácsi, Áron Fóthi, András Lőrincz
@@ -2412,155 +2571,4 @@ LLM（例如 Gemini）顯示出對不同領域洩漏的易感性差異 - 與
 包括 RAG 場景中的查詢改寫器。我們提出的
 多層防禦組合對黑盒 LLM 仍有 5.3% 的 ASR，
 表示 LLM 安全研究的增強和未來方向仍有進步空間。</paragraph>
-
-##### **ABCD: Trust enhanced Attention based Convolutional Autoencoder for Risk Assessment**
-2404.16183v1 by Sarala Naidu, Ning Xiong
-
-Anomaly detection in industrial systems is crucial for preventing equipment
-failures, ensuring risk identification, and maintaining overall system
-efficiency. Traditional monitoring methods often rely on fixed thresholds and
-empirical rules, which may not be sensitive enough to detect subtle changes in
-system health and predict impending failures. To address this limitation, this
-paper proposes, a novel Attention-based convolutional autoencoder (ABCD) for
-risk detection and map the risk value derive to the maintenance planning. ABCD
-learns the normal behavior of conductivity from historical data of a real-world
-industrial cooling system and reconstructs the input data, identifying
-anomalies that deviate from the expected patterns. The framework also employs
-calibration techniques to ensure the reliability of its predictions. Evaluation
-results demonstrate that with the attention mechanism in ABCD a 57.4% increase
-in performance and a reduction of false alarms by 9.37% is seen compared to
-without attention. The approach can effectively detect risks, the risk priority
-rank mapped to maintenance, providing valuable insights for cooling system
-designers and service personnel. Calibration error of 0.03% indicates that the
-model is well-calibrated and enhances model's trustworthiness, enabling
-informed decisions about maintenance strategies
-
-摘要：工業系統中的異常偵測對於預防設備故障、確保風險識別和維護整體系統效率至關重要。傳統監控方法通常依賴於固定閾值和經驗法則，這些方法可能不夠靈敏，無法偵測系統健康狀況的細微變化並預測即將發生的故障。為了解決這個限制，本文提出一個新的基於注意力的卷積式自動編碼器 (ABCD)，用於風險偵測，並將風險值對應到維護計畫中。ABCD 從真實世界工業冷卻系統的歷史資料中學習電導率的正常行為，並重建輸入資料，識別偏離預期模式的異常值。該架構也採用校正技術來確保其預測的可靠性。評估結果表明，與沒有注意力相比，ABCD 中的注意力機制使效能提升了 57.4%，並將誤報減少了 9.37%。該方法可以有效地偵測風險，將風險優先順序對應到維護，為冷卻系統設計人員和服務人員提供有價值的見解。0.03% 的校正誤差表示模型經過良好的校正，並增強了模型的可信度，進而能對維護策略做出明智的決策。
-
-##### **Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**
-2404.16112v1 by Badri Narayana Patro, Vijay Srinivas Agneeswaran
-
-Sequence modeling is a crucial area across various domains, including Natural
-Language Processing (NLP), speech recognition, time series forecasting, music
-generation, and bioinformatics. Recurrent Neural Networks (RNNs) and Long Short
-Term Memory Networks (LSTMs) have historically dominated sequence modeling
-tasks like Machine Translation, Named Entity Recognition (NER), etc. However,
-the advancement of transformers has led to a shift in this paradigm, given
-their superior performance. Yet, transformers suffer from $O(N^2)$ attention
-complexity and challenges in handling inductive bias. Several variations have
-been proposed to address these issues which use spectral networks or
-convolutions and have performed well on a range of tasks. However, they still
-have difficulty in dealing with long sequences. State Space Models(SSMs) have
-emerged as promising alternatives for sequence modeling paradigms in this
-context, especially with the advent of S4 and its variants, such as S4nd,
-Hippo, Hyena, Diagnol State Spaces (DSS), Gated State Spaces (GSS), Linear
-Recurrent Unit (LRU), Liquid-S4, Mamba, etc. In this survey, we categorize the
-foundational SSMs based on three paradigms namely, Gating architectures,
-Structural architectures, and Recurrent architectures. This survey also
-highlights diverse applications of SSMs across domains such as vision, video,
-audio, speech, language (especially long sequence modeling), medical (including
-genomics), chemical (like drug design), recommendation systems, and time series
-analysis, including tabular data. Moreover, we consolidate the performance of
-SSMs on benchmark datasets like Long Range Arena (LRA), WikiText, Glue, Pile,
-ImageNet, Kinetics-400, sstv2, as well as video datasets such as Breakfast,
-COIN, LVU, and various time series datasets. The project page for Mamba-360
-work is available on this webpage.\url{https://github.com/badripatro/mamba360}.
-
-摘要：序列建模是各種領域的關鍵領域，包括自然語言處理 (NLP)、語音辨識、時間序列預測、音樂生成和生物資訊學。遞迴神經網路 (RNN) 和長短期記憶網路 (LSTM) 在歷史上一直主導著機器翻譯、命名實體辨識 (NER) 等序列建模任務。然而，由於Transformer的效能優異，促使這種模式發生轉變。然而，Transformer有 $O(N^2)$ 注意力複雜度和處理歸納偏誤的挑戰。已經提出了一些變體來解決這些問題，這些變體使用頻譜網路或卷積，並且在各種任務上表現良好。然而，它們在處理長序列時仍然有困難。狀態空間模型 (SSM) 在這種情況下已成為序列建模範例的有希望的替代方案，特別是隨著 S4 及其變體的出現，例如 S4nd、Hippo、Hyena、Diagnol State Spaces (DSS)、Gated State Spaces (GSS)、Linear Recurrent Unit (LRU)、Liquid-S4、Mamba 等。在本次調查中，我們根據三種範例對基礎 SSM 進行分類，即閘控架構、結構架構和遞迴架構。本次調查還重點介紹了 SSM 在視覺、影片、音訊、語音、語言（特別是長序列建模）、醫療（包括基因組學）、化學（例如藥物設計）、推薦系統和時間序列分析（包括表格資料）等領域的各種應用。此外，我們整合了 SSM 在 Long Range Arena (LRA)、WikiText、Glue、Pile、ImageNet、Kinetics-400、sstv2 等基準資料集以及早餐、COIN、LVU 和各種時間序列資料集等影片資料集上的效能。Mamba-360 專案頁面可在這個網頁上找到。\url{https://github.com/badripatro/mamba360}。
-
-##### **Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**
-2404.15946v1 by Xuxin Chen, Yuheng Li, Mingzhe Hu, Ella Salari, Xiaoqian Chen, Richard L. J. Qiu, Bin Zheng, Xiaofeng Yang
-
-Although fusion of information from multiple views of mammograms plays an
-important role to increase accuracy of breast cancer detection, developing
-multi-view mammograms-based computer-aided diagnosis (CAD) schemes still faces
-challenges and no such CAD schemes have been used in clinical practice. To
-overcome the challenges, we investigate a new approach based on Contrastive
-Language-Image Pre-training (CLIP), which has sparked interest across various
-medical imaging tasks. By solving the challenges in (1) effectively adapting
-the single-view CLIP for multi-view feature fusion and (2) efficiently
-fine-tuning this parameter-dense model with limited samples and computational
-resources, we introduce Mammo-CLIP, the first multi-modal framework to process
-multi-view mammograms and corresponding simple texts. Mammo-CLIP uses an early
-feature fusion strategy to learn multi-view relationships in four mammograms
-acquired from the CC and MLO views of the left and right breasts. To enhance
-learning efficiency, plug-and-play adapters are added into CLIP image and text
-encoders for fine-tuning parameters and limiting updates to about 1% of the
-parameters. For framework evaluation, we assembled two datasets
-retrospectively. The first dataset, comprising 470 malignant and 479 benign
-cases, was used for few-shot fine-tuning and internal evaluation of the
-proposed Mammo-CLIP via 5-fold cross-validation. The second dataset, including
-60 malignant and 294 benign cases, was used to test generalizability of
-Mammo-CLIP. Study results show that Mammo-CLIP outperforms the state-of-art
-cross-view transformer in AUC (0.841 vs. 0.817, 0.837 vs. 0.807) on both
-datasets. It also surpasses previous two CLIP-based methods by 20.3% and 14.3%.
-This study highlights the potential of applying the finetuned vision-language
-models for developing next-generation, image-text-based CAD schemes of breast
-cancer.
-
-摘要：<paragraph>儘管融合多視角乳房攝影的資訊在提升乳癌偵測準確度上扮演重要角色，但開發基於多視角乳房攝影的電腦輔助診斷 (CAD) 架構仍面臨挑戰，且目前尚未有此類 CAD 架構用於臨床實務。為克服這些挑戰，我們研究了一種基於對比式語言影像預訓練 (CLIP) 的新方法，這已在各種醫學影像任務中引起興趣。透過解決 (1) 有效調整單視角 CLIP 以進行多視角特徵融合，以及 (2) 有效微調此參數密集模型，且僅使用有限樣本和運算資源的挑戰，我們引入了 Mammo-CLIP，這是一個處理多視角乳房攝影和對應簡短文字的第一個多模式架構。Mammo-CLIP 使用早期特徵融合策略來學習從左右乳房的 CC 和 MLO 視角取得的四個乳房攝影的多視角關係。為提升學習效率，將即插即用適配器加入 CLIP 影像和文字編碼器中，以微調參數，並將更新限制在約 1% 的參數。為進行架構評估，我們回溯性地彙整了兩個資料集。第一個資料集包含 470 個惡性和 479 個良性病例，用於少量微調和透過 5 倍交叉驗證對所提出的 Mammo-CLIP 進行內部評估。第二個資料集包含 60 個惡性和 294 個良性病例，用於測試 Mammo-CLIP 的概括性。研究結果顯示，Mammo-CLIP 在兩個資料集上都優於最先進的跨視角Transformer，AUC 分別為 (0.841 對 0.817、0.837 對 0.807)。它也比先前的兩種基於 CLIP 的方法高出 20.3% 和 14.3%。本研究突顯了應用微調視覺語言模型來開發乳癌新一代影像文字型 CAD 架構的潛力。</paragraph>
-
-##### **Assessing The Potential Of Mid-Sized Language Models For Clinical QA**
-2404.15894v1 by Elliot Bolton, Betty Xiong, Vijaytha Muralidharan, Joel Schamroth, Vivek Muralidharan, Christopher D. Manning, Roxana Daneshjou
-
-Large language models, such as GPT-4 and Med-PaLM, have shown impressive
-performance on clinical tasks; however, they require access to compute, are
-closed-source, and cannot be deployed on device. Mid-size models such as
-BioGPT-large, BioMedLM, LLaMA 2, and Mistral 7B avoid these drawbacks, but
-their capacity for clinical tasks has been understudied. To help assess their
-potential for clinical use and help researchers decide which model they should
-use, we compare their performance on two clinical question-answering (QA)
-tasks: MedQA and consumer query answering. We find that Mistral 7B is the best
-performing model, winning on all benchmarks and outperforming models trained
-specifically for the biomedical domain. While Mistral 7B's MedQA score of 63.0%
-approaches the original Med-PaLM, and it often can produce plausible responses
-to consumer health queries, room for improvement still exists. This study
-provides the first head-to-head assessment of open source mid-sized models on
-clinical tasks.
-
-摘要：大型語言模型，例如 GPT-4 和 Med-PaLM，在臨床任務中展現出令人印象深刻的效能；然而，它們需要存取運算資源，屬於封閉原始碼，而且無法部署在裝置上。中型模型，例如 BioGPT-large、BioMedLM、LLaMA 2 和 Mistral 7B 避免了這些缺點，但它們在臨床任務中的容量尚未得到充分研究。為了幫助評估它們在臨床應用中的潛力，並幫助研究人員決定應該使用哪個模型，我們比較了它們在兩個臨床問題解答 (QA) 任務中的表現：MedQA 和消費者問題解答。我們發現 Mistral 7B 是表現最好的模型，在所有基準測試中獲勝，並優於專門針對生物醫學領域訓練的模型。雖然 Mistral 7B 的 MedQA 分數為 63.0%，接近原始 Med-PaLM，而且它通常可以對消費者健康問題產生合理的回應，但仍有改進空間。這項研究提供了第一個在臨床任務中對開放原始碼中型模型進行面對面評估。
-
-##### **Enhancing Diagnosis through AI-driven Analysis of Reflectance Confocal Microscopy**
-2404.16080v1 by Hong-Jun Yoon, Chris Keum, Alexander Witkowski, Joanna Ludzik, Tracy Petrie, Heidi A. Hanson, Sancy A. Leachman
-
-Reflectance Confocal Microscopy (RCM) is a non-invasive imaging technique
-used in biomedical research and clinical dermatology. It provides virtual
-high-resolution images of the skin and superficial tissues, reducing the need
-for physical biopsies. RCM employs a laser light source to illuminate the
-tissue, capturing the reflected light to generate detailed images of
-microscopic structures at various depths. Recent studies explored AI and
-machine learning, particularly CNNs, for analyzing RCM images. Our study
-proposes a segmentation strategy based on textural features to identify
-clinically significant regions, empowering dermatologists in effective image
-interpretation and boosting diagnostic confidence. This approach promises to
-advance dermatological diagnosis and treatment.
-
-摘要：反射共聚焦顯微鏡 (RCM) 是一種非侵入性影像技術，用於生物醫學研究和臨床皮膚科。它提供皮膚和淺層組織的虛擬高解析度影像，減少了對物理切片的需要。RCM 使用雷射光源照射組織，擷取反射光以產生不同深度微觀結構的詳細影像。最近的研究探索了人工智慧和機器學習，特別是 CNN，用於分析 RCM 影像。我們的研究提出了一種基於紋理特徵的分割策略，以識別臨床上重要的區域，讓皮膚科醫生能夠有效地解讀影像並提升診斷信心。這種方法有望推進皮膚科診斷和治療。
-
-##### **A Hybrid Probabilistic Battery Health Management Approach for Robust Inspection Drone Operations**
-2405.00055v1 by Jokin Alcibar, Jose I. Aizpurua, Ekhi Zugastia, Oier Penagarikano
-
-Health monitoring of remote critical infrastructure is a complex and
-expensive activity due to the limited infrastructure accessibility. Inspection
-drones are ubiquitous assets that enhance the reliability of critical
-infrastructures through improved accessibility. However, due to the harsh
-operation environment, it is crucial to monitor their health to ensure
-successful inspection operations. The battery is a key component that
-determines the overall reliability of the inspection drones and, with an
-appropriate health management approach, contributes to reliable and robust
-inspections. In this context, this paper presents a novel hybrid probabilistic
-approach for battery end-of-discharge (EOD) voltage prediction of Li-Po
-batteries. The hybridization is achieved in an error-correction configuration,
-which combines physics-based discharge and probabilistic error-correction
-models to quantify the aleatoric and epistemic uncertainty. The performance of
-the hybrid probabilistic methodology was empirically evaluated on a dataset
-comprising EOD voltage under varying load conditions. The dataset was obtained
-from real inspection drones operated on different flights, focused on offshore
-wind turbine inspections. The proposed approach has been tested with different
-probabilistic methods and demonstrates 14.8% improved performance in
-probabilistic accuracy compared to the best probabilistic method. In addition,
-aleatoric and epistemic uncertainties provide robust estimations to enhance the
-diagnosis of battery health-states.
-
-摘要：<paragraph>由於基礎設施可及性受限，遠端關鍵基礎設施的健康監測是一項複雜且昂貴的活動。檢查無人機是無所不在的資產，可透過提高可及性來增強關鍵基礎設施的可靠性。然而，由於惡劣的操作環境，監控其健康狀況以確保檢查作業順利進行至關重要。電池是決定檢查無人機整體可靠性的關鍵元件，並透過適當的健康管理方法，有助於進行可靠且穩健的檢查。在此背景下，本文提出了一種針對鋰聚合物電池放電結束 (EOD) 電壓預測的新型混合機率方法。此混合化是在誤差修正組態中實現的，結合了基於物理的放電和機率誤差修正模型，以量化隨機和認識不確定性。混合機率方法的效能已透過一個包含在不同負載條件下 EOD 電壓的資料集進行實證評估。該資料集來自針對不同飛行執行的實際檢查無人機，重點放在離岸風力渦輪機檢查。所提出的方法已使用不同的機率方法進行測試，並顯示出與最佳機率方法相比，機率準確度提高了 14.8%。此外，隨機和認識不確定性提供了穩健的估計，以增強電池健康狀態的診斷。</paragraph>
 

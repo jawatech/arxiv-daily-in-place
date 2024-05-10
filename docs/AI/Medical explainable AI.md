@@ -9,7 +9,7 @@
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
-|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|null|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
 |**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v3](http://arxiv.org/abs/2404.03892v3)|null|

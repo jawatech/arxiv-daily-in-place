@@ -11,7 +11,7 @@
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)|
 |**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
 |**2024-05-07**|**A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**|Raiyan Rahman et.al.|[2405.04305v1](http://arxiv.org/abs/2405.04305v1)|null|
-|**2024-05-07**|**MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation**|Yanli Yuan et.al.|[2405.04064v1](http://arxiv.org/abs/2405.04064v1)|null|
+|**2024-05-07**|**MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation**|Yanli Yuan et.al.|[2405.04064v2](http://arxiv.org/abs/2405.04064v2)|null|
 |**2024-05-07**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963v1](http://arxiv.org/abs/2405.03963v1)|null|
 |**2024-05-07**|**Predictive Modeling with Temporal Graphical Representation on Electronic Health Records**|Jiayuan Chen et.al.|[2405.03943v1](http://arxiv.org/abs/2405.03943v1)|[link](https://github.com/the-real-jerrychen/trans)|
 |**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595v1](http://arxiv.org/abs/2405.03595v1)|null|
@@ -25,7 +25,7 @@
 |**2024-05-06**|**Advancing Multimodal Medical Capabilities of Gemini**|Lin Yang et.al.|[2405.03162v1](http://arxiv.org/abs/2405.03162v1)|null|
 |**2024-05-06**|**Automatic Ultrasound Curve Angle Measurement via Affinity Clustering for Adolescent Idiopathic Scoliosis Evaluation**|Yihao Zhou et.al.|[2405.03141v2](http://arxiv.org/abs/2405.03141v2)|null|
 |**2024-05-05**|**RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation**|Zelei Cheng et.al.|[2405.03064v1](http://arxiv.org/abs/2405.03064v1)|null|
-|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011v1](http://arxiv.org/abs/2405.03011v1)|null|
+|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011v1](http://arxiv.org/abs/2405.03011v1)|[link](https://github.com/vietthanh2710/ac-mambaseg)|
 |**2024-05-05**|**Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**|Junkai Li et.al.|[2405.02957v1](http://arxiv.org/abs/2405.02957v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
 |**2024-05-04**|**The Role of AI in Peer Support for Young People: A Study of Preferences for Human- and AI-Generated Responses**|Jordyn Young et.al.|[2405.02711v1](http://arxiv.org/abs/2405.02711v1)|null|
@@ -62,7 +62,7 @@
 |**2024-04-29**|**Real Time Multi Organ Classification on Computed Tomography Images**|Halid Ziya Yerebakan et.al.|[2404.18731v1](http://arxiv.org/abs/2404.18731v1)|null|
 |**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591v1](http://arxiv.org/abs/2405.01591v1)|null|
 |**2024-04-29**|**Machine Learning for Quantum Computing Specialists**|Daniel Goldsmith et.al.|[2404.18555v1](http://arxiv.org/abs/2404.18555v1)|null|
-|**2024-04-29**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589v1](http://arxiv.org/abs/2405.01589v1)|null|
+|**2024-04-29**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589v2](http://arxiv.org/abs/2405.01589v2)|null|
 |**2024-04-29**|**On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks**|Usevalad Milasheuski. Luca Barbieri et.al.|[2404.18519v2](http://arxiv.org/abs/2404.18519v2)|null|
 |**2024-04-29**|**Research on Intelligent Aided Diagnosis System of Medical Image Based on Computer Deep Learning**|Jiajie Yuan et.al.|[2404.18419v1](http://arxiv.org/abs/2404.18419v1)|null|
 |**2024-04-29**|**Capabilities of Gemini Models in Medicine**|Khaled Saab et.al.|[2404.18416v2](http://arxiv.org/abs/2404.18416v2)|null|
@@ -75,7 +75,7 @@
 |**2024-04-27**|**GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation**|Ziya Ata Yazıcı et.al.|[2404.17854v1](http://arxiv.org/abs/2404.17854v1)|[link](https://github.com/yaziciz/GLIMS)|
 |**2024-04-27**|**Multimodal Fusion on Low-quality Data: A Comprehensive Survey**|Qingyang Zhang et.al.|[2404.18947v2](http://arxiv.org/abs/2404.18947v2)|null|
 |**2024-04-27**|**Evaluating the Application of ChatGPT in Outpatient Triage Guidance: A Comparative Study**|Dou Liu et.al.|[2405.00728v1](http://arxiv.org/abs/2405.00728v1)|null|
-|**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749v1](http://arxiv.org/abs/2404.17749v1)|[link](https://github.com/parth166/m3g-clinicaldermatology)|
+|**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749v2](http://arxiv.org/abs/2404.17749v2)|[link](https://github.com/parth166/m3g-clinicaldermatology)|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-26**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454v2](http://arxiv.org/abs/2404.17454v2)|[link](https://github.com/catchxu/acsleuth)|
 |**2024-04-26**|**M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**|Lakmal Meegahapola et.al.|[2404.17391v1](http://arxiv.org/abs/2404.17391v1)|null|
@@ -346,7 +346,7 @@ using detection models.
 摘要：蚜蟲侵擾是小麥和高粱田廣泛受損的主要原因之一，也是植物病毒最常見的媒介，導致農業產量大幅損失。為了解決這個問題，農民通常採用低效率且有害的化學殺蟲劑，對健康和環境造成負面影響。因此，大量殺蟲劑浪費在沒有嚴重蟲害侵擾的地區。這引起了人們對一個智慧型自主系統的迫切需求，該系統可以在複雜的作物冠層中選擇性地定位和噴灑足夠大的蟲害。我們開發了一個大型多尺度資料集，用於蚜蟲叢集檢測和分割，從實際的高粱田收集，並經過細緻標註以包含蚜蟲叢集。我們的資料集總共包含 54,742 個影像貼片，展示了各種視角、不同的光照條件和多個尺度，突顯了其在實際應用中的有效性。在本研究中，我們訓練並評估了四個即時語義分割模型和三個物件偵測模型，專門用於蚜蟲叢集分割和偵測。在準確度和效率之間取得平衡，Fast-SCNN 提供了最有效的分割結果，平均準確率達 80.46%，平均召回率達 81.21%，每秒幀數 (FPS) 達 91.66。在物件偵測方面，RT-DETR 表現出最佳的整體效能，在 NVIDIA V100 GPU 上的平均準確率 (mAP) 為 61.63%，平均召回率為 92.6%，為 72.55。我們的實驗進一步表明，與使用偵測模型相比，蚜蟲叢集分割更適合評估蚜蟲侵擾。
 
 ##### **MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation**
-2405.04064v1 by Yanli Yuan, Bingbing Wang, Chuan Zhang, Jingyi Xu, Ximeng Liu, Liehuang Zhu
+2405.04064v2 by Yanli Yuan, Bingbing Wang, Chuan Zhang, Jingyi Xu, Ximeng Liu, Liehuang Zhu
 
 Segmentation of organs of interest in medical CT images is beneficial for
 diagnosis of diseases. Though recent methods based on Fully Convolutional
@@ -362,7 +362,7 @@ segmentation. We compare our proposed MFA-Net with SOTA methods on two 2D liver
 CT datasets. The experimental results show that our MFA-Net produces more
 precise segmentation on images with different scales.
 
-摘要：在医学 CT 影像中，對感興趣器官進行分割對於疾病診斷有益。儘管最近基於全卷積神經網路 (F-CNN) 的方法已在許多分割任務中展現成功，但融合不同尺度影像中的特徵仍然是一項挑戰：(1) 由於缺乏空間感知，F-CNN 在不同的空間位置共享相同的權重。(2) F-CNN 只能透過局部感受野獲取周圍資訊。為了應對上述挑戰，我們提出了基於注意力機制的分割框架，稱為 MFA-Net (多尺度特徵融合注意力網路)。所提出的框架可以在多個尺度之間學習更有意義的特徵圖，並產生更準確的自動分割。我們在兩個 2D 肝臟 CT 資料集上將我們提出的 MFA-Net 與 SOTA 方法進行比較。實驗結果表明，我們的 MFA-Net 在不同尺度的影像上產生了更精確的分割。
+摘要：在醫學電腦斷層成像中，對感興趣器官進行分割有助於疾病診斷。儘管基於完全卷積神經網路 (F-CNN) 的最新方法已在許多分割任務中展現成功，但融合來自不同比例影像的特色仍是一項挑戰：(1) 由於缺乏空間感知，F-CNN 在不同的空間位置共享相同的權重。(2) F-CNN 只能透過局部感受野取得周圍資訊。為了應對上述挑戰，我們提出一個基於注意力機制的分割架構，名為 MFA-Net (多尺度特徵融合注意力網路)。所提出的架構可以在多個尺度之間學習更有意義的特徵圖，並產生更精確的自動分割。我們在兩個 2D 肝臟電腦斷層掃描資料集上，將我們提出的 MFA-Net 與 SOTA 方法進行比較。實驗結果顯示，我們的 MFA-Net 在不同尺度的影像上產生更精確的分割。
 
 ##### **ERATTA: Extreme RAG for Table To Answers with Large Language Models**
 2405.03963v1 by Sohini Roychowdhury, Marko Krema, Anvar Mahammad, Brian Moore, Arijit Mukherjee, Punit Prakashchandra
@@ -1579,7 +1579,7 @@ algebra, including Hilbert spaces, a vector space with an inner product.
 這篇文章寫給那些已經對量子運算有扎實知識，現在希望對術語和一些古典機器學習應用程式有基本概觀，準備好研究量子機器學習的人。讀者應該已經了解相關的線性代數，包括希爾伯特空間，一個具有內積的向量空間。
 
 ##### **GPT-4 passes most of the 297 written Polish Board Certification Examinations**
-2405.01589v1 by Jakub Pokrywka, Jeremi Kaczmarek, Edward Gorzelańczyk
+2405.01589v2 by Jakub Pokrywka, Jeremi Kaczmarek, Edward Gorzelańczyk
 
 Introduction: Recently, the effectiveness of Large Language Models (LLMs) has
 increased rapidly, allowing them to be used in a great number of applications.
@@ -1605,7 +1605,8 @@ in Poland. For instance, this advancement could lead to the development of
 AI-based medical assistants for healthcare professionals, enhancing the
 efficiency and accuracy of medical services.
 
-摘要：<paragraph>引言：近期，大型语言模型（LLM）的效能提升迅速，使其能被用于大量应用中。然而，LLM 生成虚假信息的风险极大限制了其在医疗保健等敏感领域的应用，突显了严格验证其效用和可靠性的必要性。迄今为止，尚未有研究广泛比较 LLM 在极大型数据集上对跨越广泛专业领域的波兰医学考试的性能。目标：本研究评估了三个生成式预训练 Transformer（GPT）模型在波兰执业医师资格考试（Pa\'nstwowy Egzamin Specjalizacyjny，PES）数据集上的性能，该数据集包含 297 项考试。方法：我们开发了一个软件程序来下载和处理 PES 考试，并使用 OpenAI 应用程序编程接口测试了 GPT 模型的性能。结果：我们的研究结果表明，GPT-3.5 未通过任何分析的考试。相比之下，GPT-4 模型表现出通过大多数评估考试的能力，其中最新的模型 gpt-4-0125 成功通过了 222（75%）项考试。GPT 模型的性能差异显著，在与某些专业相关的考试中表现出色，而在其他考试中则完全失败。结论：LLM 模型取得的重大进展和令人印象深刻的性能为人工智能在波兰医学领域的应用增加带来了巨大希望。例如，这一进步可能导致开发基于人工智能的医疗助手，以供医疗专业人士使用，从而提高医疗服务的效率和准确性。</paragraph>
+摘要：<paragraph>前言：最近，大型語言模型 (LLM) 的有效性大幅提升，使其可用於大量的應用程式中。
+然而，LLM 產生的錯誤資訊所帶來的風險大幅限制了其在醫療保健等敏感領域的應用，凸顯了進行嚴格驗證以確定其效用和可靠性的必要性。到目前為止，尚未有研究廣泛比較 LLM 在波蘭醫學考試中跨越廣泛專科領域的表現，且資料集規模龐大。目標：本研究評估了三個生成式預訓練Transformer (GPT) 模型在波蘭醫師執照考試 (Pa\'nstwowy Egzamin Specjalizacyjny, PES) 資料集上的表現，該資料集包含 297 項考試。方法：我們開發了一個軟體程式來下載和處理 PES 考試，並使用 OpenAI 應用程式介面測試 GPT 模型的表現。結果：我們的研究結果顯示，GPT-3.5 沒有通過任何分析的考試。相反地，GPT-4 模型展現出通過大部分評估考試的能力，其中最新的模型 gpt-4-0125 成功通過 222 (75%) 項考試。GPT 模型的表現差異很大，在與特定專科相關的考試中表現優異，但在其他考試中則完全失敗。結論：LLM 模型的顯著進步和令人印象深刻的表現，對於在波蘭醫療領域增加 AI 的應用具有很大的前景。例如，這項進展可以導致開發基於 AI 的醫療助理，以協助醫療保健專業人員，進而提升醫療服務的效率和準確性。</paragraph>
 
 ##### **On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks**
 2404.18519v2 by Usevalad Milasheuski. Luca Barbieri, Bernardo Camajori Tedeschini, Monica Nicoli, Stefano Savazzi
@@ -1903,7 +1904,7 @@ triage.
 摘要：<paragraph>人工智慧（AI）在醫療保健中的整合，展現出提升運作效率和健康成果的轉型潛力。大型語言模型（LLM），例如 ChatGPT，已展現出其在支援醫療決策方面的能力。將 LLM 嵌入醫療系統正成為醫療保健發展中一項有前途的趨勢。ChatGPT 解決急診部門分流問題的潛力已受到檢視，而鮮少有研究探討其在門診部門的應用。本研究專注於簡化工作流程和提升門診分流的效率，特別旨在評估 ChatGPT 在門診指導中提供的回應一致性，包括版本內回應分析和版本間比較。對於版本內，結果顯示 ChatGPT-4.0 的內部回應一致性顯著高於 ChatGPT-3.5（p=0.03），且兩者在它們的首要建議中都具有一致性（4.0 為 71.2%，3.5 為 59.6%）。然而，版本間的一致性相對較低（平均一致性分數=1.43/3，中位數=1），表示兩個版本之間的建議匹配很少。此外，在比較中只有 50% 的首要建議完全匹配。有趣的是，ChatGPT-3.5 的回應比 ChatGPT-4.0 的回應更可能是完整的（p=0.02），這表示兩個版本之間在資訊處理和回應產生方面可能有差異。這些發現提供了對 AI 輔助門診作業的見解，同時也促進了探索 LLM 在醫療保健應用中的潛力和限制。未來的研究可能會專注於根據人體工學和人因原則仔細最佳化 LLM 和 AI 在醫療保健系統中的整合，精準符合有效門診分流的特定需求。</paragraph>
 
 ##### **UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**
-2404.17749v1 by Parth Vashisht, Abhilasha Lodha, Mukta Maddipatla, Zonghai Yao, Avijit Mitra, Zhichao Yang, Junda Wang, Sunjae Kwon, Hong Yu
+2404.17749v2 by Parth Vashisht, Abhilasha Lodha, Mukta Maddipatla, Zonghai Yao, Avijit Mitra, Zhichao Yang, Junda Wang, Sunjae Kwon, Hong Yu
 
 This paper presents our team's participation in the MEDIQA-ClinicalNLP2024
 shared task B. We present a novel approach to diagnosing clinical dermatology
@@ -1922,7 +1923,7 @@ dermatological conditions. The implications of this work extend to improving
 diagnostic workflows, supporting dermatological education, and enhancing
 patient care by providing a scalable, accessible, and accurate diagnostic tool.
 
-摘要：本文介紹了我們團隊參與 MEDIQA-ClinicalNLP2024 共享任務 B 的情況。我們提出了一種診斷臨床皮膚科病例的新方法，方法是整合大型多模態模型，特別是在檢索和重新排序架構下利用 GPT-4V 的功能。我們的調查顯示，GPT-4V 在用作檢索代理時，使用皮膚病學影像和簡要的病歷，可以準確檢索出正確的皮膚狀況，準確率高達 85%。此外，我們經驗性地表明，朴素的思考鏈 (CoT) 適用於檢索，而醫療指導基礎 CoT 則適用於準確的皮膚病學診斷。此外，我們引入了多代理對話 (MAC) 架構，並展示了其優異的效能和潛力，優於最佳的 CoT 策略。實驗表明，使用朴素的 CoT 進行檢索，並使用多代理對話進行基於批判的診斷，GPT-4V 可以對皮膚科狀況進行早期且準確的診斷。這項工作的意義在於改善診斷工作流程、支援皮膚科教育以及透過提供可擴充、可存取且準確的診斷工具來提升病患照護。
+摘要：本文介紹我們團隊參與 MEDIQA-ClinicalNLP2024 共享任務 B 的情況。我們提出了一種診斷臨床皮膚科案例的新方法，方法是整合大型多模態模型，特別是利用檢索器和重新排序架構下的 GPT-4V 功能。我們的調查顯示，當 GPT-4V 用作檢索代理時，使用皮膚病學影像和簡短的病歷，可以準確檢索正確的皮膚狀況 85% 的時間。此外，我們憑經驗證明，樸素的思考鏈 (CoT) 適用於檢索，而基於醫療指南的 CoT 則適用於準確的皮膚病學診斷。此外，我們介紹了一個多代理對話 (MAC) 架構，並展示了它優於最佳 CoT 策略的卓越效能和潛力。實驗表明，使用樸素的 CoT 進行檢索，並使用多代理對話進行基於批評的診斷，GPT-4V 可以對皮膚科疾病進行早期準確的診斷。這項工作的意義在於改善診斷工作流程、支援皮膚科教育，以及透過提供可擴充、可存取且準確的診斷工具，來提升病患照護。
 
 ##### **Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**
 2405.02334v1 by Francesco Prinzi, Carmelo Militello, Calogero Zarcaro, Tommaso Vincenzo Bartolotta, Salvatore Gaglio, Salvatore Vitabile

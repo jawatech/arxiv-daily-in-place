@@ -4,9 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256v1](http://arxiv.org/abs/2405.05256v1)|null|
 |**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253v1](http://arxiv.org/abs/2405.05253v1)|[link](https://github.com/koutchemecharles/iticse24)|
-|**2024-05-08**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254v1](http://arxiv.org/abs/2405.05254v1)|null|
+|**2024-05-08**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254v2](http://arxiv.org/abs/2405.05254v2)|null|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252v1](http://arxiv.org/abs/2405.05252v1)|null|
-|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v1](http://arxiv.org/abs/2405.05248v1)|null|
+|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
 |**2024-05-08**|**SVDD Challenge 2024: A Singing Voice Deepfake Detection Challenge Evaluation Plan**|You Zhang et.al.|[2405.05244v1](http://arxiv.org/abs/2405.05244v1)|[link](https://github.com/svddchallenge/ctrsvdd2024_baseline)|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219v1](http://arxiv.org/abs/2405.05219v1)|null|
 |**2024-05-08**|**CARE-SD: Classifier-based analysis for recognizing and eliminating stigmatizing and doubt marker labels in electronic health records: model development and validation**|Drew Walker et.al.|[2405.05204v1](http://arxiv.org/abs/2405.05204v1)|null|
@@ -15,7 +15,7 @@
 |**2024-05-08**|**Air Gap: Protecting Privacy-Conscious Conversational Agents**|Eugene Bagdasaryan et.al.|[2405.05175v1](http://arxiv.org/abs/2405.05175v1)|null|
 |**2024-05-08**|**Motion Capture Analysis of Verb and Adjective Types in Austrian Sign Language**|Julia Krebs et.al.|[2405.05161v1](http://arxiv.org/abs/2405.05161v1)|null|
 |**2024-05-08**|**The Potential and Implications of Generative AI on HCI Education**|Ahmed Kharrufa et.al.|[2405.05154v1](http://arxiv.org/abs/2405.05154v1)|null|
-|**2024-05-08**|**Hybrid Convolutional Neural Networks with Reliability Guarantee**|Hans Dermot Doran et.al.|[2405.05146v1](http://arxiv.org/abs/2405.05146v1)|null|
+|**2024-05-08**|**Hybrid Convolutional Neural Networks with Reliability Guarantee**|Hans Dermot Doran et.al.|[2405.05146v2](http://arxiv.org/abs/2405.05146v2)|null|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116v1](http://arxiv.org/abs/2405.05116v1)|null|
 |**2024-05-08**|**QFMTS: Generating Query-Focused Summaries over Multi-Table Inputs**|Weijia Zhang et.al.|[2405.05109v1](http://arxiv.org/abs/2405.05109v1)|null|
 |**2024-05-08**|**Concerns on Bias in Large Language Models when Creating Synthetic Personae**|Helena A. Haxvig et.al.|[2405.05080v1](http://arxiv.org/abs/2405.05080v1)|null|
@@ -23,7 +23,7 @@
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060v1](http://arxiv.org/abs/2405.05060v1)|null|
 |**2024-05-08**|**Seeds of Stereotypes: A Large-Scale Textual Analysis of Race and Gender Associations with Diseases in Online Sources**|Lasse Hyldig Hansen et.al.|[2405.05049v1](http://arxiv.org/abs/2405.05049v1)|null|
 |**2024-05-08**|**StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer**|Zijia Wang et.al.|[2405.05027v1](http://arxiv.org/abs/2405.05027v1)|null|
-|**2024-05-08**|**ADELIE: Aligning Large Language Models on Information Extraction**|Yunjia Qi et.al.|[2405.05008v1](http://arxiv.org/abs/2405.05008v1)|null|
+|**2024-05-08**|**ADELIE: Aligning Large Language Models on Information Extraction**|Yunjia Qi et.al.|[2405.05008v1](http://arxiv.org/abs/2405.05008v1)|[link](https://github.com/THU-KEG/ADELIE)|
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
 |**2024-05-08**|**A review on discriminative self-supervised learning methods**|Nikolaos Giakoumoglou et.al.|[2405.04969v1](http://arxiv.org/abs/2405.04969v1)|null|
@@ -39,7 +39,7 @@
 |**2024-05-08**|**The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio**|Yuankun Xie et.al.|[2405.04880v1](http://arxiv.org/abs/2405.04880v1)|null|
 |**2024-05-08**|**SCALA: Split Federated Learning with Concatenated Activations and Logit Adjustments**|Jiarong Yang et.al.|[2405.04875v1](http://arxiv.org/abs/2405.04875v1)|null|
 |**2024-05-08**|**Logical Negation Augmenting and Debiasing for Prompt-based Methods**|Yitian Li et.al.|[2405.04872v1](http://arxiv.org/abs/2405.04872v1)|null|
-|**2024-05-08**|**Enhancing Geometric Ontology Embeddings for $\mathcal{EL}^{++}$ with Negative Sampling and Deductive Closure Filtering**|Olga Mashkova et.al.|[2405.04868v1](http://arxiv.org/abs/2405.04868v1)|null|
+|**2024-05-08**|**Enhancing Geometric Ontology Embeddings for $\mathcal{EL}^{++}$ with Negative Sampling and Deductive Closure Filtering**|Olga Mashkova et.al.|[2405.04868v1](http://arxiv.org/abs/2405.04868v1)|[link](https://github.com/bio-ontology-research-group/geometric_embeddings)|
 |**2024-05-08**|**xMTrans: Temporal Attentive Cross-Modality Fusion Transformer for Long-Term Traffic Prediction**|Huy Quang Ung et.al.|[2405.04841v1](http://arxiv.org/abs/2405.04841v1)|null|
 |**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829v1](http://arxiv.org/abs/2405.04829v1)|null|
 |**2024-05-08**|**ChuXin: 1.6B Technical Report**|Xiaomin Zhuang et.al.|[2405.04828v1](http://arxiv.org/abs/2405.04828v1)|null|
@@ -55,8 +55,8 @@
 |**2024-05-08**|**Chain of Thoughtlessness: An Analysis of CoT in Planning**|Kaya Stechly et.al.|[2405.04776v1](http://arxiv.org/abs/2405.04776v1)|null|
 |**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
 |**2024-05-08**|**When Foresight Pruning Meets Zeroth-Order Optimization: Efficient Federated Learning for Low-Memory Devices**|Pengyu Zhang et.al.|[2405.04765v1](http://arxiv.org/abs/2405.04765v1)|null|
-|**2024-05-08**|**Large Language Models for Cyber Security: A Systematic Literature Review**|HanXiang Xu et.al.|[2405.04760v1](http://arxiv.org/abs/2405.04760v1)|null|
-|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756v1](http://arxiv.org/abs/2405.04756v1)|null|
+|**2024-05-08**|**Large Language Models for Cyber Security: A Systematic Literature Review**|HanXiang Xu et.al.|[2405.04760v2](http://arxiv.org/abs/2405.04760v2)|null|
+|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756v1](http://arxiv.org/abs/2405.04756v1)|[link](https://github.com/VectorInstitute/biaskg)|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753v1](http://arxiv.org/abs/2405.04753v1)|null|
 |**2024-05-08**|**S-EQA: Tackling Situational Queries in Embodied Question Answering**|Vishnu Sashank Dorbala et.al.|[2405.04732v1](http://arxiv.org/abs/2405.04732v1)|null|
 |**2024-05-08**|**Learning Phonotactics from Linguistic Informants**|Canaan Breiss et.al.|[2405.04726v1](http://arxiv.org/abs/2405.04726v1)|null|
@@ -64,7 +64,7 @@
 |**2024-05-07**|**Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures**|Ruiyang Qin et.al.|[2405.04700v1](http://arxiv.org/abs/2405.04700v1)|null|
 |**2024-05-07**|**Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking**|Emre Can Acikgoz et.al.|[2405.04685v1](http://arxiv.org/abs/2405.04685v1)|null|
 |**2024-05-07**|**TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**|Hritik Bansal et.al.|[2405.04682v1](http://arxiv.org/abs/2405.04682v1)|null|
-|**2024-05-07**|**Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense**|Siqi Shen et.al.|[2405.04655v1](http://arxiv.org/abs/2405.04655v1)|null|
+|**2024-05-07**|**Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense**|Siqi Shen et.al.|[2405.04655v1](http://arxiv.org/abs/2405.04655v1)|[link](https://github.com/MichiganNLP/LLM_cultural_commonsense)|
 |**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629v1](http://arxiv.org/abs/2405.04629v1)|null|
 |**2024-05-07**|**AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets**|Fakrul Islam Tushar et.al.|[2405.04605v1](http://arxiv.org/abs/2405.04605v1)|null|
 |**2024-05-07**|**Language Modeling Using Tensor Trains**|Zhan Su et.al.|[2405.04590v1](http://arxiv.org/abs/2405.04590v1)|[link](https://github.com/shuishen112/tensortrainlm)|
@@ -84,8 +84,8 @@
 |**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403v1](http://arxiv.org/abs/2405.04403v1)|[link](https://github.com/gpantaz/vl_jailbreak)|
 |**2024-05-07**|**Pragmatist Intelligence: Where the Principle of Usefulness Can Take ANNs**|Antonio Bikić et.al.|[2405.04386v1](http://arxiv.org/abs/2405.04386v1)|null|
 |**2024-05-07**|**Leveraging LSTM and GAN for Modern Malware Detection**|Ishita Gupta et.al.|[2405.04373v1](http://arxiv.org/abs/2405.04373v1)|null|
-|**2024-05-07**|**Explainable machine learning for predicting shellfish toxicity in the Adriatic Sea using long-term monitoring data of HABs**|Martin Marzidovšek et.al.|[2405.04372v1](http://arxiv.org/abs/2405.04372v1)|null|
-|**2024-05-07**|**Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums**|Felipe Moreno-Vera et.al.|[2405.04561v1](http://arxiv.org/abs/2405.04561v1)|null|
+|**2024-05-07**|**Explainable machine learning for predicting shellfish toxicity in the Adriatic Sea using long-term monitoring data of HABs**|Martin Marzidovšek et.al.|[2405.04372v2](http://arxiv.org/abs/2405.04372v2)|null|
+|**2024-05-07**|**Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums**|Felipe Moreno-Vera et.al.|[2405.04561v1](http://arxiv.org/abs/2405.04561v1)|[link](https://github.com/fmorenovr/nlptoolkit)|
 |**2024-05-07**|**Global Scale Self-Supervised Channel Charting with Sensor Fusion**|Omid Esrafilian et.al.|[2405.04357v1](http://arxiv.org/abs/2405.04357v1)|null|
 |**2024-05-07**|**Revisiting character-level adversarial attacks**|Elias Abad Rocamora et.al.|[2405.04346v1](http://arxiv.org/abs/2405.04346v1)|[link](https://github.com/lions-epfl/charmer)|
 |**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
@@ -156,7 +156,7 @@ settings.
 摘要：大型語言模型 (LLM) 已在各種運算環境中展現出自動產生回饋的強大潛力。然而，對於將學生作業傳送至專有模型的隱私和倫理影響，已引起各界關注。這點燃了人們對在教育中使用開放原始碼 LLM 的濃厚興趣，但此類開放模型能產生的回饋品質仍有待深入探討。這是個令人擔憂的問題，因為提供有缺陷或誤導性的產生式回饋可能會對學生的學習造成負面影響。受到近期採用功能強大的 LLM（例如 GPT-4）來評估功能較弱的模型產出之研究啟發，我們使用來自入門程式設計課程的資料集，對幾個開放原始碼模型產生的回饋品質進行自動化分析。首先，我們透過將 GPT-4 的評估結果與人類專家的評估結果進行比較，來探討採用 GPT-4 作為自動化評估器的可行性。我們觀察到，GPT-4 在評分回饋時表現出正向偏誤，同時與人類評分者展現出適度的共識，顯示其作為回饋評估器的潛力。其次，我們使用 GPT-4 來評估回饋，進一步探討幾個領先的開放原始碼 LLM 所產生回饋的品質。我們發現，某些模型提供的效能可與流行的專有 LLM（例如 ChatGPT）相媲美，這表示它們在教育環境中負責任地使用是有機會的。
 
 ##### **You Only Cache Once: Decoder-Decoder Architectures for Language Models**
-2405.05254v1 by Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei
+2405.05254v2 by Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei
 
 We introduce a decoder-decoder architecture, YOCO, for large language models,
 which only caches key-value pairs once. It consists of two components, i.e., a
@@ -174,7 +174,7 @@ accuracy. The profiling results show that YOCO improves inference memory,
 prefill latency, and throughput by orders of magnitude across context lengths
 and model sizes. Code is available at https://aka.ms/YOCO.
 
-摘要：我們引入了一種解碼器-解碼器架構，YOCO，適用於大型語言模型，它只快取一次鍵值對。它包含兩個元件，即堆疊在自解碼器上的交叉解碼器。自解碼器有效編碼全局鍵值 (KV) 快取，而交叉解碼器透過交叉注意力重複使用這些快取。整體模型的行為就像只含解碼器的 Transformer，儘管 YOCO 只快取一次。此設計大幅減少 GPU 記憶體需求，卻保留了全局注意力功能。此外，運算流程能預先填入以提早結束，而不會變更最終輸出，因而大幅加快預先填入階段。實驗結果顯示，在擴充模型大小和訓練權杖數目的各種設定中，YOCO 達到比 Transformer 更好的效能。我們也將 YOCO 擴充到 1M 的脈絡長度，並具有近乎完美的針頭擷取準確度。分析結果顯示，YOCO 在各種脈絡長度和模型大小中，大幅改善了推論記憶體、預先填入延遲時間和處理量。程式碼可在 https://aka.ms/YOCO 取得。
+摘要：我們為大型語言模型引入了解碼器-解碼器架構 YOCO，它只快取一次鍵值對。它包含兩個組成部分，即堆疊在自解碼器上的交叉解碼器。自解碼器有效地編碼全局鍵值 (KV) 快取，而交叉解碼器透過交叉注意力重複使用這些快取。整體模型的行為類似於僅解碼器的 Transformer，儘管 YOCO 只快取一次。此設計大幅降低了 GPU 記憶體需求，但仍保留了全局注意力能力。此外，運算流程能夠在不變更最終輸出的情況下進行預先填入以提前退出，從而大幅加快預先填入階段。實驗結果證明，與 Transformer 相比，YOCO 在擴充模型大小和訓練權杖數量的各種設定中都達到了良好的效能。我們也將 YOCO 延伸到 1 百萬文字脈絡長度，並具有接近完美的針頭擷取準確度。分析結果顯示，YOCO 在各種文字脈絡長度和模型大小中，大幅改善了推論記憶體、預先填入延遲和處理量。程式碼可於 https://aka.ms/YOCO 取得。
 
 ##### **Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**
 2405.05252v1 by Hongjie Wang, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
@@ -201,7 +201,7 @@ https://atedm.github.io.
 摘要：擴散模型 (DM) 在生成高品質且多樣化的圖像方面表現出色的效能。然而，這種卓越的效能是以昂貴的架構設計為代價，特別是因為注意力模組大量用於領先的模型中。現有的作品主要採用再訓練的過程來增強 DM 效率。這在計算上很昂貴，而且擴充性不佳。為此，我們引入了注意力驅動的無訓練高效擴散模型 (AT-EDM) 架構，它利用注意力圖在執行時修剪冗餘的符號，而無需進行任何再訓練。具體來說，對於單一去噪步驟的修剪，我們開發了一種新穎的排名演算法，即廣義加權頁面排名 (G-WPR)，以識別冗餘的符號，並使用基於相似性的復原方法來復原用於卷積運算的符號。此外，我們提出了一種去噪步驟感知修剪 (DSAP) 方法，以調整不同去噪時間步長的修剪預算，以獲得更好的生成品質。廣泛的評估顯示，AT-EDM 在效率方面表現優於先前的技術（例如，節省 38.8% 的 FLOP，並且速度比 Stable Diffusion XL 快 1.53 倍），同時維持與完整模型幾乎相同的 FID 和 CLIP 分數。專案網頁：https://atedm.github.io。
 
 ##### **LLMs with Personalities in Multi-issue Negotiation Games**
-2405.05248v1 by Sean Noh, Ho-Chun Herbert Chang
+2405.05248v2 by Sean Noh, Ho-Chun Herbert Chang
 
 Powered by large language models (LLMs), AI agents have become capable of
 many human tasks. Using the most canonical definitions of the Big Five
@@ -220,7 +220,7 @@ offer pragmatic insight in how negotiation bots can be designed, and a
 framework of assessing negotiation behavior based on game theory and
 computational social science.
 
-摘要：<paragraph>由大型语言模型 (LLM) 驱动，人工智能代理已能够完成许多人类任务。利用大五人格特质的最规范定义，我们衡量了 LLM 在博弈论框架内进行谈判的能力，以及衡量公平性和风险概念的方法挑战。针对单一问题和多问题谈判的模拟 (n=1,500) 显示，随着领域复杂性增加，不对称问题估值提高了达成协议的比率，但降低了激进谈判产生的盈余。通过梯度提升回归和 Shapley 解释器，我们发现高开放性、尽责性和神经质与公平倾向相关；低宜人性与低开放性与理性倾向相关。低尽责性与高毒性相关。这些结果表明，LLM 可能具有默认公平行为的内置防护措施，但可以被“越狱”以利用友善的对手。我们还提供了关于如何设计谈判机器人的实用见解，以及基于博弈论和计算社会科学评估谈判行为的框架。</paragraph>
+摘要：透過大型語言模型（LLM）的驅動，AI 代理已經能夠執行許多人類任務。使用大五人格特質中最具代表性的定義，我們測量 LLM 在博弈論架構中協商的能力，以及測量公平性和風險概念的方法論挑戰。針對單一議題和多重議題協商的模擬（n=1,500）顯示，隨著議題估值不對稱，領域複雜性會增加，這會改善協議率，但會減少激進協商的盈餘。透過梯度提升迴歸和 Shapley 解釋器，我們發現開放性、盡責性和神經質傾向與公平傾向有關；低宜人性與低開放性與理性傾向有關。低盡責性與高毒性有關。這些結果表明，LLM 可能內建了預設為公平行為的防護機制，但可以被「越獄」以利用合適的對手。我們也提供了關於協商機器人如何設計的務實見解，以及一個基於博弈論和計算社會科學評估協商行為的架構。
 
 ##### **SVDD Challenge 2024: A Singing Voice Deepfake Detection Challenge Evaluation Plan**
 2405.05244v1 by You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Jionghao Han, Yuxun Tang, Tomoki Toda, Zhiyao Duan
@@ -417,7 +417,7 @@ findings in relation to the TPACK framework in HCI.
 摘要：生成式 AI (GAI) 直接或間接影響各個科目和學科的教學和學習。作為教育工作者，我們需要了解 AI 在 HCI 教育中的潛力和限制，並確保我們畢業的 HCI 學生了解 AI 在 HCI 中的潛力和限制。在本文中，我們報告了將生成式 AI 納入 10 週大學模組中獲得的主要教學見解。我們設計模組以鼓勵學生將 GAI 模型的實驗作為設計簡報要求的一部分，並規劃實務課程和討論。我們的見解基於在完成模組後寄給學生的調查回覆。我們對 HCI 教育工作者的主要發現報告了 AI 作為開發專案構想和建立設計資源的角色，以及 AI 作為反映學生對關鍵概念和想法的理解並突顯知識差距的鏡子。我們也討論應考慮的潛在陷阱，以及評量學生對 GAI 作為教學工具的識字能力和假設的必要性。最後，我們提出教育工作者應將 GAI 視為教育工具所帶來的機會，並在實務中保持實驗、創意和勇氣。我們以討論我們的發現與 HCI 中的 TPACK 架構的關係作為結尾。
 
 ##### **Hybrid Convolutional Neural Networks with Reliability Guarantee**
-2405.05146v1 by Hans Dermot Doran, Suzana Veljanovska
+2405.05146v2 by Hans Dermot Doran, Suzana Veljanovska
 
 Making AI safe and dependable requires the generation of dependable models
 and dependable execution of those models. We propose redundant execution as a
@@ -431,7 +431,7 @@ additional computational expense only where it is strictly necessary. We
 describe the design, implementation and some preliminary results of a hybrid
 CNN.
 
-摘要：要讓 AI 安全可靠，需要產生可依賴的模型，並可靠地執行這些模型。我們提出冗餘執行，作為一種眾所周知的技術，可用於確保 AI 模型的可靠執行。這種通用技術將擴展 AI 加速器的應用範圍，而這些加速器沒有完善的文件化安全性或可靠性屬性。典型的冗餘技術至少會產生兩倍或三倍於原始計算成本。我們採用共同設計方法，將可靠的模型執行與不可靠的執行整合在一起，將額外的計算成本集中在絕對必要的地方。我們描述了混合 CNN 的設計、實作和一些初步結果。
+摘要：要確保 AI 安全且可靠，需要產生可靠的模型以及可靠地執行這些模型。我們建議採用冗餘執行，這是一種眾所周知的技術，可用於確保 AI 模型的可靠執行。此通用技術將擴展沒有完善記錄的安全或可靠性屬性的 AI 加速器的應用範圍。典型的冗餘技術會產生至少兩倍或三倍於原始計算成本的計算開銷。我們採用共同設計方法，將可靠模型執行與非可靠執行整合在一起，僅將額外的計算開銷集中在絕對必要的地方。我們描述了混合 CNN 的設計、實作和一些初步結果。
 
 ##### **XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**
 2405.05116v1 by Peiqin Lin, André F. T. Martins, Hinrich Schütze
@@ -1349,7 +1349,7 @@ the performance of the vanilla BP-Free method with dramatically fewer FLOPs.
 摘要：雖然聯合學習 (FL) 能讓人工智慧物聯網 (AIoT) 設計中的協作學習成為可能，但由於其龐大的記憶體使用量，它無法在低記憶體的 AIoT 裝置上運作。為了解決這個問題，提出了各種聯合剪枝方法，以便在推論期間減少記憶體使用量。然而，其中只有少數能實質上減輕剪枝和訓練期間的記憶體負擔。作為一種替代方案，零階或反向傳播 (BP-Free) 方法可以部分減輕記憶體消耗，但它們會導致擴展和大量的運算開銷，因為隨著模型參數維度的增加，梯度估計誤差和浮點運算 (FLOP) 會增加。在本文中，我們提出了一個基於神經切線核 (NTK) 的聯合預見性剪枝方法，它可以無縫整合到聯合 BP-Free 訓練架構中。我們提出了一個使用局部 NTK 矩陣來計算聯合 NTK 的近似值。此外，我們證明了我們方法的無資料特性可以在極端資料異質性場景中大幅減少近似誤差。由於我們的方法以較少的 FLOP 改善了香草 BP-Free 方法的效能，並真正減輕了訓練和推論期間的記憶體壓力，它讓 FL 更適用於低記憶體裝置。從模擬和基於真實測試平台取得的綜合實驗結果顯示，我們的聯合預見性剪枝方法不僅保留了密集模型的能力，記憶體減少了 9 倍，而且還以大幅減少的 FLOP 提升了香草 BP-Free 方法的效能。
 
 ##### **Large Language Models for Cyber Security: A Systematic Literature Review**
-2405.04760v1 by HanXiang Xu, ShenAo Wang, Ningke Li, Yanjie Zhao, Kai Chen, Kailong Wang, Yang Liu, Ting Yu, HaoYu Wang
+2405.04760v2 by HanXiang Xu, ShenAo Wang, NingKe Li, KaiLong Wang, YanJie Zhao, Kai Chen, Ting Yu, Yang Liu, HaoYu Wang
 
 The rapid advancement of Large Language Models (LLMs) has opened up new
 opportunities for leveraging artificial intelligence in various domains,
@@ -1377,7 +1377,7 @@ defense and threat hunting. Overall, our survey provides a comprehensive
 overview of the current state-of-the-art in LLM4Security and identifies several
 promising directions for future research.
 
-摘要：大型語言模型 (LLM) 的快速進步為利用人工智慧開啟了新的機會，在各種領域中，包括網路安全。隨著網路威脅的數量和複雜性持續增加，對於能夠自動偵測漏洞、分析惡意軟體和回應攻擊的智慧系統需求也與日俱增。在此調查中，我們對網路安全 (LLM4Security) 中 LLM 應用文獻進行全面回顧。透過全面收集超過 30K 篇相關論文，並系統性地分析來自頂尖安全和軟體工程場域的 127 篇論文，我們旨在提供 LLM 如何用於解決網路安全領域中各種問題的整體觀點。透過我們的分析，我們找出幾個關鍵發現。首先，我們觀察到 LLM 被應用於廣泛的網路安全任務，包括漏洞偵測、惡意軟體分析、網路入侵偵測和網路釣魚偵測。其次，我們發現用於訓練和評估這些任務中 LLM 的資料集通常在規模和多樣性上有限，突顯出需要更全面且具代表性的資料集。第三，我們找出幾個將 LLM 適應到特定網路安全領域的有前途技術，例如微調、遷移學習和特定領域預訓練。最後，我們討論 LLM4Security 中未來研究的主要挑戰和機會，包括需要更多可解釋和說明的模型、解決資料隱私和安全問題的重要性，以及利用 LLM 主動防禦和威脅偵測的潛力。總體而言，我們的調查提供了 LLM4Security 中目前最先進技術的全面概述，並找出幾個未來研究的有前途方向。
+摘要：大型語言模型（LLM）快速發展，為在各種領域利用人工智慧開闢了新機會，包括網路安全。隨著網路威脅的數量和複雜性持續增加，對於能夠自動偵測弱點、分析惡意軟體和回應攻擊的智慧系統需求也日益增加。在這項調查中，我們對 LLM 在網路安全中的應用（LLM4Security）相關文獻進行全面回顧。透過全面蒐集超過 30K 篇相關論文，並系統性地分析來自頂尖安全和軟體工程場所的 127 篇論文，我們旨在提供 LLM 如何用於解決網路安全領域中各種問題的全面觀點。透過我們的分析，我們找出幾個關鍵發現。首先，我們觀察到 LLM 被應用於廣泛的網路安全任務，包括弱點偵測、惡意軟體分析、網路入侵偵測和網路釣魚偵測。其次，我們發現用於訓練和評估這些任務中 LLM 的資料集通常在規模和多樣性上受到限制，這突顯了對於更全面且具代表性的資料集的需求。第三，我們找出幾個將 LLM 適應到特定網路安全領域的有前景技術，例如微調、遷移學習和特定領域的預訓練。最後，我們討論 LLM4Security 未來研究的主要挑戰和機會，包括對於更具可解釋性和可說明性的模型的需求、解決資料隱私和安全問題的重要性，以及利用 LLM 進行主動防禦和威脅追蹤的潛力。總體而言，我們的調查提供了 LLM4Security 目前最先進技術的全面概觀，並找出幾個有前景的未來研究方向。
 
 ##### **BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**
 2405.04756v1 by Chu Fei Luo, Ahmad Ghawanmeh, Xiaodan Zhu, Faiza Khan Khattak
@@ -2083,7 +2083,7 @@ lift model complexity.
 摘要：惡意軟體的蓬勃發展對網路空間的影響，等同於氣候變遷對生態系統的危害。在對網路安全技術和員工訓練進行大量投資的情況下，全球社群已陷入與網路安全威脅的永恆戰爭中。惡意軟體的多樣化形式和不斷變化的面貌，持續挑戰網路安全從業人員的界限，他們採用各種方法來應對此問題，例如偵測和緩解。一些舊有的方式，例如基於特徵碼的偵測和行為分析，適應惡意軟體類型快速演變的速度較慢。因此，本文提出利用深度學習模型、LSTM 網路和 GAN 來提升惡意軟體偵測的準確度和速度。人工智慧技術是一種快速發展的尖端技術，它利用基於原始位元組串流的資料和深度學習架構，提供比傳統方法更好的準確度和效能。LSTM 和 GAN 模型的整合是一種用於資料合成產生的技術，可擴充訓練資料集，進而提升偵測準確度。本文使用 VirusShare 資料集，其中包含一百萬個以上的獨特惡意軟體樣本，作為所提出模型的訓練和評估集。透過包含代幣化、擴充和模型訓練在內的徹底資料準備，LSTM 和 GAN 模型在任務中的表現優於直接分類器。研究結果達到了 98% 的準確度，顯示深度學習的效率在主動網路安全防禦中扮演決定性的角色。除此之外，本文探討整體學習和模型融合方法的輸出，作為減少偏差和提升模型複雜度的方法。
 
 ##### **Explainable machine learning for predicting shellfish toxicity in the Adriatic Sea using long-term monitoring data of HABs**
-2405.04372v1 by Martin Marzidovšek, Janja Francé, Vid Podpečan, Stanka Vadnjal, Jožica Dolenc, Patricija Mozetič
+2405.04372v2 by Martin Marzidovšek, Janja Francé, Vid Podpečan, Stanka Vadnjal, Jožica Dolenc, Patricija Mozetič
 
 In this study, explainable machine learning techniques are applied to predict
 the toxicity of mussels in the Gulf of Trieste (Adriatic Sea) caused by harmful
@@ -2098,7 +2098,7 @@ and environmental factors (salinity, river discharge and precipitation) as the
 best predictors of DSP outbreaks. These findings are important for improving
 early warning systems and supporting sustainable aquaculture practices.
 
-摘要：本研究應用可解釋機器學習技術，預測由有害藻類大量繁殖造成的的里雅斯特灣（亞得里亞海）貽貝毒性。透過分析一個新建立的 28 年資料集，其中包含貽貝養殖區有毒浮游植物的記錄和貽貝（地中海貽貝）中的毒素濃度，我們訓練並評估機器學習模型的效能，以準確預測腹瀉性貝類中毒 (DSP) 事件。隨機森林模型根據 F1 分數提供了最佳的毒性結果預測。可解釋性方法，例如置換重要性和 SHAP，將關鍵物種（Dinophysis fortii 和 D. caudata）和環境因素（鹽度、河流流量和降水）列為 DSP 爆發的最佳預測指標。這些發現對於改進預警系統和支持永續水產養殖實務非常重要。
+摘要：本研究採用可解釋機器學習技術，用以預測有害藻華導致的里雅斯特灣（亞得里亞海）貽貝毒性。透過分析一個新建立的 28 年資料集，其中包含貽貝養殖區有毒浮游植物的紀錄，以及貽貝（Mytilus galloprovincialis）中的毒素濃度，我們訓練並評估機器學習模型的效能，以準確預測腹瀉性貝類中毒 (DSP) 事件。隨機森林模型根據 F1 分數提供了最佳的正向毒性結果預測。可解釋性方法，例如排列重要性和 SHAP，則找出關鍵物種（Dinophysis fortii 和 D. caudata）和環境因素（鹽度、河流流量和降水），作為 DSP 爆發的最佳預測指標。這些發現對於改善預警系統和支援永續水產養殖實務至關重要。
 
 ##### **Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums**
 2405.04561v1 by Felipe Moreno-Vera

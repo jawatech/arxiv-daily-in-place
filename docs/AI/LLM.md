@@ -1668,8 +1668,8 @@ the prompt phase by orchestrating multiple processes to populate the KV-cache
 and minimizes the time-to-first-token (TTFT). Dual-purposing the KV-cache
 scheme has two main benefits. Fist, since KV-cache is designed to leverage the
 causal attention map, we minimize computation and computation automatically.
-Second, since it already exists for the exten- sion phase, KV-Runahead is easy
-to implement. We further propose context-level load-balancing to handle uneven
+Second, since it already exists for the extension phase, KV-Runahead is easy to
+implement. We further propose context-level load-balancing to handle uneven
 KV-cache generation (due to the causal attention) and to optimize TTFT.
 Compared with an existing parallelization scheme such as tensor or sequential
 parallelization where keys and values are locally generated and exchanged via

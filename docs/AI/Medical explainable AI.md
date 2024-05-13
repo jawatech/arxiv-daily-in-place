@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
 |**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v1](http://arxiv.org/abs/2404.18975v1)|null|
@@ -101,9 +102,36 @@
 |**2022-08-05**|**Planning and Scheduling in Digital Health with Answer Set Programming**|Marco Mochi et.al.|[2208.03099v1](http://arxiv.org/abs/2208.03099v1)|null|
 |**2022-07-26**|**AI Approaches in Processing and Using Data in Personalized Medicine**|Mirjana Ivanovic et.al.|[2208.04698v1](http://arxiv.org/abs/2208.04698v1)|null|
 |**2022-07-22**|**TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**|Nandita Bhaskhar et.al.|[2207.11290v2](http://arxiv.org/abs/2207.11290v2)|[link](https://github.com/nanbhas/trustlapse)|
-|**2022-07-12**|**Revealing Unfair Models by Mining Interpretable Evidence**|Mohit Bajaj et.al.|[2207.05811v1](http://arxiv.org/abs/2207.05811v1)|null|
 
 #### Abstracts
+##### **XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**
+2405.06270v1 by Fatemeh Nazary, Yashar Deldjoo, Tommaso Di Noia, Eugenio di Sciascio
+
+The integration of Large Language Models (LLMs) into healthcare diagnostics
+offers a promising avenue for clinical decision-making. This study outlines the
+development of a novel method for zero-shot/few-shot in-context learning (ICL)
+by integrating medical domain knowledge using a multi-layered structured
+prompt. We also explore the efficacy of two communication styles between the
+user and LLMs: the Numerical Conversational (NC) style, which processes data
+incrementally, and the Natural Language Single-Turn (NL-ST) style, which
+employs long narrative prompts. Our study systematically evaluates the
+diagnostic accuracy and risk factors, including gender bias and false negative
+rates, using a dataset of 920 patient records in various few-shot scenarios.
+Results indicate that traditional clinical machine learning (ML) models
+generally outperform LLMs in zero-shot and few-shot settings. However, the
+performance gap narrows significantly when employing few-shot examples
+alongside effective explainable AI (XAI) methods as sources of domain
+knowledge. Moreover, with sufficient time and an increased number of examples,
+the conversational style (NC) nearly matches the performance of ML models. Most
+notably, LLMs demonstrate comparable or superior cost-sensitive accuracy
+relative to ML models. This research confirms that, with appropriate domain
+knowledge and tailored communication strategies, LLMs can significantly enhance
+diagnostic processes. The findings highlight the importance of optimizing the
+number of training examples and communication styles to improve accuracy and
+reduce biases in LLM applications.
+
+摘要：大型語言模型 (LLM) 整合到醫療診斷中，為臨床決策制定提供了有前景的方法。本研究概述了一種通過使用多層結構提示整合醫學領域知識來進行零次學習/少次學習情境學習 (ICL) 的新方法的開發。我們還探討了使用者與 LLM 之間兩種溝通方式的效能：以增量方式處理資料的數值對話 (NC) 方式，以及採用長篇敘事提示的自然語言單輪 (NL-ST) 方式。我們的研究系統性地評估了診斷準確性和風險因素，包括性別偏見和假陰性率，並使用 920 個患者記錄的資料集在各種少次學習情境中進行評估。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和少次學習設定中優於 LLM。然而，當採用少次學習範例以及有效的可解釋 AI (XAI) 方法作為領域知識來源時，效能差距會顯著縮小。此外，在有充足的時間和增加範例數量的情況下，對話方式 (NC) 幾乎可以與 ML 模型的效能相匹配。最值得注意的是，LLM 相對於 ML 模型展現出可比或優越的成本敏感度準確性。這項研究證實，透過適當的領域知識和量身打造的溝通策略，LLM 可以顯著增強診斷程序。這些發現強調了最佳化訓練範例數量和溝通方式以提高準確性並減少 LLM 應用中偏見的重要性。
+
 ##### **To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**
 2405.05766v1 by Miquel Miró-Nicolau, Gabriel Moyà-Alcover, Antoni Jaume-i-Capó, Manuel González-Hidalgo, Maria Gemma Sempere Campello, Juan Antonio Palmer Sancho
 
@@ -2574,26 +2602,4 @@ that our mistrust scores are more robust and provide explainability for easy
 adoption into practice.
 
 摘要：<paragraph>持續監控已訓練的機器學習模型，以確定何時應信任和不應信任其預測，對於其安全部署至關重要。這樣的框架應具備高性能、可解釋性、事後性和可操作性。我們提出 TRUST-LAPSE，一個用於持續模型監控的「不信任」評分框架。我們使用一連串潛在空間嵌入來評估每個輸入樣本的模型預測的可信度。具體來說，(a) 我們的潛在空間不信任分數使用潛在空間中的距離度量（馬氏距離）和相似度量（餘弦相似度）來估計不信任，(b) 我們的順序不信任分數確定在非參數、基於滑動視窗演算法的過去輸入表示順序上相關性的偏差，用於可操作的持續監控。我們透過兩個下游任務評估 TRUST-LAPSE：(1) 分布式轉移輸入偵測，以及 (2) 資料漂移偵測。我們使用公開資料集評估各種領域（音訊和視覺），並進一步在具有挑戰性的真實世界腦電圖 (EEG) 資料集上評估我們的做法，以進行癲癇偵測。我們的潛在空間不信任分數獲得了最先進的結果，AUROC 分別為 84.1（視覺）、73.9（音訊）和 77.1（臨床 EEG），比基準高出 10 分以上。我們揭露了流行基準中關鍵的失敗，這些基準對輸入語義內容不敏感，使它們不適合於真實世界的模型監控。我們表明，我們的順序不信任分數達到了很高的漂移偵測率；在所有領域中，超過 90% 的串流顯示錯誤率 < 20%。透過廣泛的定性和定量評估，我們表明我們的信任分數更強大，並且提供了可解釋性，以便於實務採用。</paragraph>
-
-##### **Revealing Unfair Models by Mining Interpretable Evidence**
-2207.05811v1 by Mohit Bajaj, Lingyang Chu, Vittorio Romaniello, Gursimran Singh, Jian Pei, Zirui Zhou, Lanjun Wang, Yong Zhang
-
-The popularity of machine learning has increased the risk of unfair models
-getting deployed in high-stake applications, such as justice system,
-drug/vaccination design, and medical diagnosis. Although there are effective
-methods to train fair models from scratch, how to automatically reveal and
-explain the unfairness of a trained model remains a challenging task. Revealing
-unfairness of machine learning models in interpretable fashion is a critical
-step towards fair and trustworthy AI. In this paper, we systematically tackle
-the novel task of revealing unfair models by mining interpretable evidence
-(RUMIE). The key idea is to find solid evidence in the form of a group of data
-instances discriminated most by the model. To make the evidence interpretable,
-we also find a set of human-understandable key attributes and decision rules
-that characterize the discriminated data instances and distinguish them from
-the other non-discriminated data. As demonstrated by extensive experiments on
-many real-world data sets, our method finds highly interpretable and solid
-evidence to effectively reveal the unfairness of trained models. Moreover, it
-is much more scalable than all of the baseline methods.
-
-摘要：機器學習的普及性已增加不公平模型被部署在高風險應用程式的風險，例如司法系統、藥物/疫苗設計和醫療診斷。儘管有從頭開始訓練公平模型的有效方法，但如何自動揭露和解釋訓練模型的不公平性仍然是一項具有挑戰性的任務。以可解釋的方式揭露機器學習模型的不公平性是邁向公平且值得信賴的人工智慧的關鍵一步。在本文中，我們系統性地應對揭露不公平模型的新任務，方法是挖掘可解釋的證據 (RUMIE)。關鍵的想法是以一組資料實例的形式找到確鑿證據，這些實例受到模型最大的歧視。為了使證據可解釋，我們還找到了一組人類可以理解的關鍵屬性和決策規則，這些屬性和決策規則描述了受到歧視的資料實例，並將它們與其他未受到歧視的資料區分開來。正如在許多實際資料集上進行的廣泛實驗所證明的那樣，我們的模型找到了高度可解釋且確鑿的證據，可以有效地揭露訓練模型的不公平性。此外，它比所有基線方法的可擴充性都要高得多。
 

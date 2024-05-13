@@ -2,15 +2,21 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Aspect-oriented Consumer Health Answer Summarization**|Rochana Chaturvedi et.al.|[2405.06295v1](http://arxiv.org/abs/2405.06295v1)|null|
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
+|**2024-05-10**|**VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**|Manish Dhakal et.al.|[2405.06196v1](http://arxiv.org/abs/2405.06196v1)|null|
+|**2024-05-09**|**Reddit-Impacts: A Named Entity Recognition Dataset for Analyzing Clinical and Social Effects of Substance Use Derived from Social Media**|Yao Ge et.al.|[2405.06145v1](http://arxiv.org/abs/2405.06145v1)|null|
 |**2024-05-09**|**A Robust eLORETA Technique for Localization of Brain Sources in the Presence of Forward Model Uncertainties**|A. Noroozi et.al.|[2405.05790v1](http://arxiv.org/abs/2405.05790v1)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-09**|**DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models**|Mengxiao Geng et.al.|[2405.05763v1](http://arxiv.org/abs/2405.05763v1)|null|
+|**2024-05-09**|**Precision Rehabilitation for Patients Post-Stroke based on Electronic Health Records and Machine Learning**|Fengyi Gao et.al.|[2405.05993v1](http://arxiv.org/abs/2405.05993v1)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336v1](http://arxiv.org/abs/2405.05336v1)|null|
 |**2024-05-08**|**Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology**|Anja Thieme et.al.|[2405.05299v1](http://arxiv.org/abs/2405.05299v1)|null|
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
 |**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|[link](https://github.com/david-li0406/dalk)|
+|**2024-05-08**|**Real-Time Pill Identification for the Visually Impaired Using Deep Learning**|Bo Dang et.al.|[2405.05983v1](http://arxiv.org/abs/2405.05983v1)|null|
 |**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286v1](http://arxiv.org/abs/2405.05286v1)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650v1](http://arxiv.org/abs/2405.04650v1)|null|
 |**2024-05-07**|**AI in Lung Health: Benchmarking Detection and Diagnostic Models Across Multiple CT Scan Datasets**|Fakrul Islam Tushar et.al.|[2405.04605v1](http://arxiv.org/abs/2405.04605v1)|null|
@@ -96,14 +102,120 @@
 |**2024-04-25**|**Utilizing Large Language Models to Identify Reddit Users Considering Vaping Cessation for Digital Interventions**|Sai Krishna Revanth Vuruma et.al.|[2404.17607v1](http://arxiv.org/abs/2404.17607v1)|null|
 |**2024-04-25**|**Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation**|Hanyin Wang et.al.|[2405.00715v1](http://arxiv.org/abs/2405.00715v1)|null|
 |**2024-04-25**|**ProbGate at EHRSQL 2024: Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling**|Sangryul Kim et.al.|[2404.16659v1](http://arxiv.org/abs/2404.16659v1)|[link](https://github.com/venzino-han/probgate_ehrsql)|
-|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621v1](http://arxiv.org/abs/2404.16621v1)|[link](https://github.com/hiyouga/llama-factory)|
-|**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474v1](http://arxiv.org/abs/2404.16474v1)|null|
-|**2024-04-25**|**Light-weight Retinal Layer Segmentation with Global Reasoning**|Xiang He et.al.|[2404.16346v1](http://arxiv.org/abs/2404.16346v1)|null|
-|**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325v1](http://arxiv.org/abs/2404.16325v1)|null|
-|**2024-04-25**|**LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**|Saranya Krishnamoorthy et.al.|[2404.16294v1](http://arxiv.org/abs/2404.16294v1)|[link](https://github.com/inqbator-evicore/llm_section_identifiers)|
-|**2024-04-24**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251v2](http://arxiv.org/abs/2404.16251v2)|null|
 
 #### Abstracts
+##### **Aspect-oriented Consumer Health Answer Summarization**
+2405.06295v1 by Rochana Chaturvedi, Abari Bhattacharya, Shweta Yadav
+
+Community Question-Answering (CQA) forums have revolutionized how people seek
+information, especially those related to their healthcare needs, placing their
+trust in the collective wisdom of the public. However, there can be several
+answers in response to a single query, which makes it hard to grasp the key
+information related to the specific health concern. Typically, CQA forums
+feature a single top-voted answer as a representative summary for each query.
+However, a single answer overlooks the alternative solutions and other
+information frequently offered in other responses. Our research focuses on
+aspect-based summarization of health answers to address this limitation.
+Summarization of responses under different aspects such as suggestions,
+information, personal experiences, and questions can enhance the usability of
+the platforms. We formalize a multi-stage annotation guideline and contribute a
+unique dataset comprising aspect-based human-written health answer summaries.
+We build an automated multi-faceted answer summarization pipeline with this
+dataset based on task-specific fine-tuning of several state-of-the-art models.
+The pipeline leverages question similarity to retrieve relevant answer
+sentences, subsequently classifying them into the appropriate aspect type.
+Following this, we employ several recent abstractive summarization models to
+generate aspect-based summaries. Finally, we present a comprehensive human
+analysis and find that our summaries rank high in capturing relevant content
+and a wide range of solutions.
+
+摘要：社群問答 (CQA) 論壇徹底改變了人們尋求資訊的方式，特別是與其醫療保健需求相關的資訊，將其信任寄託在公眾的集體智慧上。然而，針對單一查詢可能會有好幾個答案，這使得難以掌握與特定健康問題相關的關鍵資訊。通常，CQA 論壇會針對每個查詢，將單一最高票答案列為代表性摘要。然而，單一答案會忽略其他回應中經常提供的其他解決方案與資訊。我們的研究著重於基於面向的健康答案摘要，以解決此項限制。針對不同面向的回應摘要，例如建議、資訊、個人經驗和問題，可以提升平台的可使用性。我們形式化一個多階段註解指南，並貢獻一個獨特的資料集，包含基於面向的人工撰寫健康答案摘要。我們根據多個最先進模型的特定任務微調，使用此資料集建立一個自動化多面向答案摘要管道。此管道利用問題相似性來擷取相關答案句子，隨後將其分類至適當的面向類型。在此之後，我們採用幾個最近的抽象摘要模型來產生基於面向的摘要。最後，我們提出一個全面的人工分析，並發現我們的摘要在擷取相關內容和廣泛的解決方案方面排名很高。
+
+##### **XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**
+2405.06270v1 by Fatemeh Nazary, Yashar Deldjoo, Tommaso Di Noia, Eugenio di Sciascio
+
+The integration of Large Language Models (LLMs) into healthcare diagnostics
+offers a promising avenue for clinical decision-making. This study outlines the
+development of a novel method for zero-shot/few-shot in-context learning (ICL)
+by integrating medical domain knowledge using a multi-layered structured
+prompt. We also explore the efficacy of two communication styles between the
+user and LLMs: the Numerical Conversational (NC) style, which processes data
+incrementally, and the Natural Language Single-Turn (NL-ST) style, which
+employs long narrative prompts. Our study systematically evaluates the
+diagnostic accuracy and risk factors, including gender bias and false negative
+rates, using a dataset of 920 patient records in various few-shot scenarios.
+Results indicate that traditional clinical machine learning (ML) models
+generally outperform LLMs in zero-shot and few-shot settings. However, the
+performance gap narrows significantly when employing few-shot examples
+alongside effective explainable AI (XAI) methods as sources of domain
+knowledge. Moreover, with sufficient time and an increased number of examples,
+the conversational style (NC) nearly matches the performance of ML models. Most
+notably, LLMs demonstrate comparable or superior cost-sensitive accuracy
+relative to ML models. This research confirms that, with appropriate domain
+knowledge and tailored communication strategies, LLMs can significantly enhance
+diagnostic processes. The findings highlight the importance of optimizing the
+number of training examples and communication styles to improve accuracy and
+reduce biases in LLM applications.
+
+摘要：大型語言模型 (LLM) 整合到醫療診斷中為臨床決策提供了有希望的途徑。本研究概述了一種透過整合醫療領域知識使用多層結構提示進行零次學習/小樣本學習 (ICL) 的新方法的開發。我們還探討了使用者和 LLM 之間兩種溝通方式的功效：數值對話 (NC) 方式，它逐步處理資料，以及自然語言單回合 (NL-ST) 方式，它採用長篇敘事提示。我們的研究系統性地評估了診斷準確性和風險因素，包括性別偏見和假陰性率，使用一個在各種小樣本場景中的 920 個病歷記錄的資料集。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和小樣本學習設定中優於 LLM。然而，當使用小樣本範例以及有效的可解釋 AI (XAI) 方法作為領域知識來源時，效能差距顯著縮小。此外，透過充足的時間和增加的範例數量，對話方式 (NC) 幾乎與 ML 模型的效能相匹配。最值得注意的是，相對於 ML 模型，LLM 展示出可比較的或優越的成本敏感準確度。本研究證實，透過適當的領域知識和量身定制的溝通策略，LLM 可以顯著增強診斷程序。研究結果強調了最佳化訓練範例數量和溝通方式以提高準確度和減少 LLM 應用中偏見的重要性。
+
+##### **VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**
+2405.06196v1 by Manish Dhakal, Rabin Adhikari, Safal Thapaliya, Bishesh Khanal
+
+Foundation Vision-Language Models (VLMs) trained using large-scale
+open-domain images and text pairs have recently been adapted to develop
+Vision-Language Segmentation Models (VLSMs) that allow providing text prompts
+during inference to guide image segmentation. If robust and powerful VLSMs can
+be built for medical images, it could aid medical professionals in many
+clinical tasks where they must spend substantial time delineating the target
+structure of interest. VLSMs for medical images resort to fine-tuning base VLM
+or VLSM pretrained on open-domain natural image datasets due to fewer annotated
+medical image datasets; this fine-tuning is resource-consuming and expensive as
+it usually requires updating all or a significant fraction of the pretrained
+parameters. Recently, lightweight blocks called adapters have been proposed in
+VLMs that keep the pretrained model frozen and only train adapters during
+fine-tuning, substantially reducing the computing resources required. We
+introduce a novel adapter, VLSM-Adapter, that can fine-tune pretrained
+vision-language segmentation models using transformer encoders. Our experiments
+in widely used CLIP-based segmentation models show that with only 3 million
+trainable parameters, the VLSM-Adapter outperforms state-of-the-art and is
+comparable to the upper bound end-to-end fine-tuning. The source code is
+available at: https://github.com/naamiinepal/vlsm-adapter.
+
+摘要：<paragraph>基礎視覺語言模型 (VLM) 使用大規模開放領域影像和文字對進行訓練，最近已調整用於開發視覺語言分割模型 (VLSM)，允許在推論期間提供文字提示，以引導影像分割。如果可以為醫學影像建立強大且強大的 VLSM，它可以幫助醫療專業人員執行許多臨床任務，在這些任務中，他們必須花費大量時間來描繪目標結構。針對醫學影像的 VLSM 會使用開放領域自然影像資料集預訓練的基礎 VLM 或 VLSM 進行微調，因為標註醫學影像資料集較少；這種微調會消耗資源且昂貴，因為它通常需要更新所有或大部分預訓練參數。最近，在 VLM 中提出了稱為適配器的輕量級區塊，它會保持預訓練模型凍結，並且只在微調期間訓練適配器，大幅減少所需的運算資源。我們引進一種新穎的適配器，VLSM-Adapter，它可以使用Transformer編碼器微調預訓練的視覺語言分割模型。我們在廣泛使用的 CLIP 基礎分割模型中進行的實驗顯示，VLSM-Adapter 只有 300 萬個可訓練參數，其效能優於現有技術，並且可與上限端到端微調相媲美。原始碼可在 https://github.com/naamiinepal/vlsm-adapter 取得。</paragraph>
+
+##### **Reddit-Impacts: A Named Entity Recognition Dataset for Analyzing Clinical and Social Effects of Substance Use Derived from Social Media**
+2405.06145v1 by Yao Ge, Sudeshna Das, Karen O'Connor, Mohammed Ali Al-Garadi, Graciela Gonzalez-Hernandez, Abeed Sarker
+
+Substance use disorders (SUDs) are a growing concern globally, necessitating
+enhanced understanding of the problem and its trends through data-driven
+research. Social media are unique and important sources of information about
+SUDs, particularly since the data in such sources are often generated by people
+with lived experiences. In this paper, we introduce Reddit-Impacts, a
+challenging Named Entity Recognition (NER) dataset curated from subreddits
+dedicated to discussions on prescription and illicit opioids, as well as
+medications for opioid use disorder. The dataset specifically concentrates on
+the lesser-studied, yet critically important, aspects of substance use--its
+clinical and social impacts. We collected data from chosen subreddits using the
+publicly available Application Programming Interface for Reddit. We manually
+annotated text spans representing clinical and social impacts reported by
+people who also reported personal nonmedical use of substances including but
+not limited to opioids, stimulants and benzodiazepines. Our objective is to
+create a resource that can enable the development of systems that can
+automatically detect clinical and social impacts of substance use from
+text-based social media data. The successful development of such systems may
+enable us to better understand how nonmedical use of substances affects
+individual health and societal dynamics, aiding the development of effective
+public health strategies. In addition to creating the annotated data set, we
+applied several machine learning models to establish baseline performances.
+Specifically, we experimented with transformer models like BERT, and RoBERTa,
+one few-shot learning model DANN by leveraging the full training dataset, and
+GPT-3.5 by using one-shot learning, for automatic NER of clinical and social
+impacts. The dataset has been made available through the 2024 SMM4H shared
+tasks.
+
+摘要：物質使用疾患 (SUD) 在全球範圍內日益受到關注，這需要通過數據驅動的研究增強對問題及其趨勢的理解。社交媒體是關於 SUD 的獨特而重要的信息來源，特別是因為此類來源中的數據通常是由有親身經歷的人生成。在本文中，我們介紹了 Reddit-Impacts，這是一個具有挑戰性的命名實體識別 (NER) 數據集，它從專門討論處方和非法類鴉片藥物以及類鴉片藥物使用障礙藥物的子版塊中整理而成。該數據集特別關注物質使用中研究較少但至關重要的方面——其臨床和社會影響。我們使用 Reddit 的公開應用程式介面從選定的子版塊收集數據。我們手動註解了文本跨度，代表了那些報告了個人非醫療用途物質（包括但不限於類鴉片藥物、興奮劑和苯二氮卓類藥物）的人報告的臨床和社會影響。我們的目標是創建一個資源，它可以使系統的開發成為可能，該系統可以從基於文本的社交媒體數據中自動檢測物質使用的臨床和社會影響。此類系統的成功開發可能會使我們更好地了解非醫療用途物質如何影響個人健康和社會動態，從而幫助制定有效的公共衛生策略。除了創建註解數據集之外，我們還應用多個機器學習模型來建立基準性能。具體來說，我們對Transformer模型（如 BERT 和 RoBERTa）進行了試驗，一個通過利用完整訓練數據集的少樣本學習模型 DANN，以及通過使用一次性學習的 GPT-3.5，用於臨床和社會影響的自動 NER。該數據集已通過 2024 SMM4H 共享任務提供。
+
 ##### **A Robust eLORETA Technique for Localization of Brain Sources in the Presence of Forward Model Uncertainties**
 2405.05790v1 by A. Noroozi, M. Ravan, B. Razavi, R. S. Fisher, Y. Law, M. S. Hasan
 
@@ -173,6 +285,37 @@ con-ducting experiments on clinical and public datasets. The results
 demonstrate that the proposed method outper-forms other methods.
 
 摘要：磁共振影像的細節特徵在準確的醫療診斷和治療中扮演著至關重要的角色，因為它們捕捉到細微的變化，對醫生執行精確判斷時構成挑戰。然而，廣泛使用的樸素擴散模型有其局限性，因為它無法準確捕捉到更複雜的細節。為了增強 MRI 重建的品質，我們提出了一種使用多個擴散模型的全面細節保留重建方法，在 k 空間域中提取結構和細節特徵，而不是影像域。此外，虛擬二元模態遮罩被用於透過高度自適應中心視窗來改善 k 空間資料中的值域，這使得模型可以更有效率地集中其注意力。最後但並非最不重要的是，採用了一個倒金字塔結構，其中自上而下的影像資訊逐漸減少，實現了串聯表示。該架構有效地表示多尺度取樣資料，考慮了倒金字塔架構的稀疏性，並利用串聯訓練資料分佈來表示多尺度資料。透過逐步細化的方式，該方法改善了細節的近似值。最後，透過在臨床和公共資料集上進行實驗，對所提出的方法進行了評估。結果表明，所提出的方法優於其他方法。
+
+##### **Precision Rehabilitation for Patients Post-Stroke based on Electronic Health Records and Machine Learning**
+2405.05993v1 by Fengyi Gao, Xingyu Zhang, Sonish Sivarajkumar, Parker Denny, Bayan Aldhahwani, Shyam Visweswaran, Ryan Shi, William Hogan, Allyn Bove, Yanshan Wang
+
+In this study, we utilized statistical analysis and machine learning methods
+to examine whether rehabilitation exercises can improve patients post-stroke
+functional abilities, as well as forecast the improvement in functional
+abilities. Our dataset is patients' rehabilitation exercises and demographic
+information recorded in the unstructured electronic health records (EHRs) data
+and free-text rehabilitation procedure notes. We collected data for 265 stroke
+patients from the University of Pittsburgh Medical Center. We employed a
+pre-existing natural language processing (NLP) algorithm to extract data on
+rehabilitation exercises and developed a rule-based NLP algorithm to extract
+Activity Measure for Post-Acute Care (AM-PAC) scores, covering basic mobility
+(BM) and applied cognitive (AC) domains, from procedure notes. Changes in
+AM-PAC scores were classified based on the minimal clinically important
+difference (MCID), and significance was assessed using Friedman and Wilcoxon
+tests. To identify impactful exercises, we used Chi-square tests, Fisher's
+exact tests, and logistic regression for odds ratios. Additionally, we
+developed five machine learning models-logistic regression (LR), Adaboost
+(ADB), support vector machine (SVM), gradient boosting (GB), and random forest
+(RF)-to predict outcomes in functional ability. Statistical analyses revealed
+significant associations between functional improvements and specific
+exercises. The RF model achieved the best performance in predicting functional
+outcomes. In this study, we identified three rehabilitation exercises that
+significantly contributed to patient post-stroke functional ability improvement
+in the first two months. Additionally, the successful application of a machine
+learning model to predict patient-specific functional outcomes underscores the
+potential for precision rehabilitation.
+
+摘要：本研究中，我們利用統計分析和機器學習方法探討復健運動是否能提升中風患者的後續功能能力，以及預測功能能力的改善。我們的資料集是患者的復健運動和記錄在非結構化電子健康記錄 (EHR) 資料和自由文字復健程序備忘錄中的人口統計資訊。我們從匹茲堡大學醫學中心收集了 265 位中風患者的資料。我們採用現有的自然語言處理 (NLP) 演算法來萃取復健運動的資料，並開發出基於規則的 NLP 演算法來萃取後急性照護活動測量 (AM-PAC) 分數，涵蓋基本行動能力 (BM) 和應用認知 (AC) 領域，從程序備忘錄中。AM-PAC 分數的變化依據最小臨床重要差異 (MCID) 分類，並使用 Friedman 和 Wilcoxon 檢定評估顯著性。為找出有影響力的運動，我們使用了卡方檢定、Fisher 精確檢定和邏輯迴歸進行勝算比。此外，我們開發了五種機器學習模型：邏輯迴歸 (LR)、Adaboost (ADB)、支援向量機 (SVM)、梯度提升 (GB) 和隨機森林 (RF)，來預測功能能力的結果。統計分析顯示功能改善和特定運動之間有顯著關聯。RF 模型在預測功能結果方面表現最佳。在本研究中，我們找出三種復健運動，在中風患者後續功能能力改善的前兩個月有顯著貢獻。此外，機器學習模型成功應用於預測患者特定的功能結果，突顯了精準復健的潛力。
 
 ##### **Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**
 2405.05336v1 by Alvaro Gomariz, Yusuke Kikuchi, Yun Yvonna Li, Thomas Albrecht, Andreas Maunz, Daniela Ferrara, Huanxiang Lu, Orcun Goksel
@@ -331,6 +474,26 @@ mutually enhancing KG and LLM. We will release the code and data at
 https://github.com/David-Li0406/DALK.
 
 摘要：大型語言模型 (LLM) 近期的進展在各種應用中取得了可觀的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域的無縫採用。在這項工作中，我們引入了 DALK，又名 LLM 和 KG 的動態協同擴充，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是一個生物醫學中的專業子領域，也是全球健康的優先事項。透過 LLM 和 KG 互相增強的協同架構，我們首先利用 LLM 從與 AD 相關的科學文獻中建構一個不斷演進的 AD 專屬知識圖譜 (KG)，然後我們利用粗到細的抽樣方法，並採用新穎的自知知識擷取方法，從 KG 中選擇適當的知識來擴充 LLM 推論能力。在我們建構的 AD 問題解答 (ADQA) 基準上進行的實驗結果突顯了 DALK 的功效。此外，我們執行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 釋出程式碼和資料。
+
+##### **Real-Time Pill Identification for the Visually Impaired Using Deep Learning**
+2405.05983v1 by Bo Dang, Wenchao Zhao, Yufeng Li, Danqing Ma, Qixuan Yu, Elly Yijun Zhu
+
+The prevalence of mobile technology offers unique opportunities for
+addressing healthcare challenges, especially for individuals with visual
+impairments. This paper explores the development and implementation of a deep
+learning-based mobile application designed to assist blind and visually
+impaired individuals in real-time pill identification. Utilizing the YOLO
+framework, the application aims to accurately recognize and differentiate
+between various pill types through real-time image processing on mobile
+devices. The system incorporates Text-to- Speech (TTS) to provide immediate
+auditory feedback, enhancing usability and independence for visually impaired
+users. Our study evaluates the application's effectiveness in terms of
+detection accuracy and user experience, highlighting its potential to improve
+medication management and safety among the visually impaired community.
+Keywords-Deep Learning; YOLO Framework; Mobile Application; Visual Impairment;
+Pill Identification; Healthcare
+
+摘要：行動科技的普及為了解決醫療保健挑戰提供了獨特的機會，特別是對於視障人士。本文探討了一款基於深度學習的行動應用程式的開發和實作，旨在協助盲人和視障人士即時辨識藥丸。利用 YOLO 架構，此應用程式旨在透過行動裝置上的即時影像處理，準確辨識和區分各種藥丸類型。此系統整合了文字轉語音 (TTS) 功能，以提供立即的聽覺回饋，增強視障使用者的可用性和獨立性。我們的研究評估了此應用程式在偵測準確度和使用者體驗方面的成效，強調其改善視障族群用藥管理和安全性的潛力。關鍵字：深度學習；YOLO 架構；行動應用程式；視覺障礙；藥丸辨識；醫療保健
 
 ##### **Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**
 2405.05286v1 by Soyed Tuhin Ahmed, Michael Hefenbrock, Mehdi B. Tahoori
@@ -2419,156 +2582,4 @@ questions, which can be widely utilized even when the parameters of the model
 are not accessible, and that it can be effectively utilized in practice.
 
 摘要：近期，基於深度學習的語言模型大幅提升了文本轉換 SQL 的任務，在醫療領域中取得了有望的應用，例如擷取病歷資料。此類應用中的一個顯著挑戰在於辨別無法回答的查詢。透過微調模型，我們示範了將病歷查詢轉換成 SQL 查詢的可行性。此外，我們引進了一個基於熵的方法來辨別並過濾掉無法回答的結果。我們進一步透過基於對數機率分佈過濾低信心的 SQL 來提升結果品質，同時透過在實際資料庫上執行查詢來減輕語法和架構錯誤。我們透過實驗驗證，我們的模型可以過濾無法回答的問題，即使無法取得模型參數，也能廣泛使用，而且在實務上可以有效地使用。
-
-##### **Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**
-2404.16621v1 by Emre Can Acikgoz, Osman Batur İnce, Rayene Bench, Arda Anıl Boz, İlker Kesen, Aykut Erdem, Erkut Erdem
-
-The integration of Large Language Models (LLMs) into healthcare promises to
-transform medical diagnostics, research, and patient care. Yet, the progression
-of medical LLMs faces obstacles such as complex training requirements, rigorous
-evaluation demands, and the dominance of proprietary models that restrict
-academic exploration. Transparent, comprehensive access to LLM resources is
-essential for advancing the field, fostering reproducibility, and encouraging
-innovation in healthcare AI. We present Hippocrates, an open-source LLM
-framework specifically developed for the medical domain. In stark contrast to
-previous efforts, it offers unrestricted access to its training datasets,
-codebase, checkpoints, and evaluation protocols. This open approach is designed
-to stimulate collaborative research, allowing the community to build upon,
-refine, and rigorously evaluate medical LLMs within a transparent ecosystem.
-Also, we introduce Hippo, a family of 7B models tailored for the medical
-domain, fine-tuned from Mistral and LLaMA2 through continual pre-training,
-instruction tuning, and reinforcement learning from human and AI feedback. Our
-models outperform existing open medical LLMs models by a large-margin, even
-surpassing models with 70B parameters. Through Hippocrates, we aspire to unlock
-the full potential of LLMs not just to advance medical knowledge and patient
-care but also to democratize the benefits of AI research in healthcare, making
-them available across the globe.
-
-摘要：大型語言模型 (LLM) 整合到醫療保健中，有望轉化醫療診斷、研究和患者照護。然而，醫療 LLM 的進展面臨複雜的訓練需求、嚴格的評估需求和專有模型的主導地位等障礙，這些障礙限制了學術探索。透明、全面的 LLM 資源管道對於推進該領域、促進可複製性以及鼓勵醫療保健 AI 的創新至關重要。我們提出 Hippocrates，一個專門為醫療領域開發的開源 LLM 框架。與之前的努力形成鮮明對比的是，它提供對其訓練資料集、程式碼庫、檢查點和評估協定的無限制存取。這種開放的方法旨在刺激協作研究，讓社群可以在透明的生態系統中建立、改進和嚴格評估醫療 LLM。此外，我們還介紹了 Hippo，一個針對醫療領域量身打造的 7B 模型系列，透過持續預訓練、指令調整和人類與 AI 回饋的強化學習，從 Mistral 和 LLaMA2 中微調。我們的模型大幅優於現有的開放式醫療 LLM 模型，甚至超越了擁有 70B 參數的模型。透過 Hippocrates，我們渴望釋放 LLM 的全部潛力，不僅促進醫療知識和患者照護，還要民主化醫療保健中 AI 研究的優點，讓其在全球各地都可用。
-
-##### **DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**
-2404.16474v1 by Zhihao Shuai, Yinan Chen, Shunqiang Mao, Yihan Zho, Xiaohong Zhang
-
-Weakly supervised medical image segmentation (MIS) using generative models is
-crucial for clinical diagnosis. However, the accuracy of the segmentation
-results is often limited by insufficient supervision and the complex nature of
-medical imaging. Existing models also only provide a single outcome, which does
-not allow for the measurement of uncertainty. In this paper, we introduce
-DiffSeg, a segmentation model for skin lesions based on diffusion difference
-which exploits diffusion model principles to ex-tract noise-based features from
-images with diverse semantic information. By discerning difference between
-these noise features, the model identifies diseased areas. Moreover, its
-multi-output capability mimics doctors' annotation behavior, facilitating the
-visualization of segmentation result consistency and ambiguity. Additionally,
-it quantifies output uncertainty using Generalized Energy Distance (GED),
-aiding interpretability and decision-making for physicians. Finally, the model
-integrates outputs through the Dense Conditional Random Field (DenseCRF)
-algorithm to refine the segmentation boundaries by considering inter-pixel
-correlations, which improves the accuracy and optimizes the segmentation
-results. We demonstrate the effectiveness of DiffSeg on the ISIC 2018 Challenge
-dataset, outperforming state-of-the-art U-Net-based methods.
-
-摘要：使用生成模型的弱监督医学影像分割（MIS）对于临床诊断至关重要。然而，分割结果的准确性通常受到监督不足和医学影像的复杂性的限制。现有的模型也只提供单一结果，不允许测量不确定性。在本文中，我们介绍了 DiffSeg，这是一种基于扩散差异的皮肤病变分割模型，它利用扩散模型原理从具有不同语义信息的图像中提取基于噪声的特征。通过辨别这些噪声特征之间的差异，该模型识别出患病区域。此外，它的多输出能力模仿了医生的注释行为，促进了分割结果一致性和歧义的可视化。此外，它使用广义能量距离（GED）量化输出不确定性，帮助医生进行解释和决策。最后，该模型通过密集条件随机场（DenseCRF）算法整合输出，通过考虑像素间相关性来细化分割边界，从而提高准确性并优化分割结果。我们在 ISIC 2018 挑战数据集上展示了 DiffSeg 的有效性，其性能优于最先进的基于 U-Net 的方法。
-
-##### **Light-weight Retinal Layer Segmentation with Global Reasoning**
-2404.16346v1 by Xiang He, Weiye Song, Yiming Wang, Fabio Poiesi, Ji Yi, Manishi Desai, Quanqing Xu, Kongzheng Yang, Yi Wan
-
-Automatic retinal layer segmentation with medical images, such as optical
-coherence tomography (OCT) images, serves as an important tool for diagnosing
-ophthalmic diseases. However, it is challenging to achieve accurate
-segmentation due to low contrast and blood flow noises presented in the images.
-In addition, the algorithm should be light-weight to be deployed for practical
-clinical applications. Therefore, it is desired to design a light-weight
-network with high performance for retinal layer segmentation. In this paper, we
-propose LightReSeg for retinal layer segmentation which can be applied to OCT
-images. Specifically, our approach follows an encoder-decoder structure, where
-the encoder part employs multi-scale feature extraction and a Transformer block
-for fully exploiting the semantic information of feature maps at all scales and
-making the features have better global reasoning capabilities, while the
-decoder part, we design a multi-scale asymmetric attention (MAA) module for
-preserving the semantic information at each encoder scale. The experiments show
-that our approach achieves a better segmentation performance compared to the
-current state-of-the-art method TransUnet with 105.7M parameters on both our
-collected dataset and two other public datasets, with only 3.3M parameters.
-
-摘要：自動視網膜層分割使用醫學影像，例如光學相干斷層掃描 (OCT) 影像，做為診斷眼科疾病的重要工具。然而，由於影像中對比度低和血流雜訊，要達成精確的分割具有挑戰性。此外，演算法應輕量化，才能部署於實際的臨床應用。因此，需要設計一個輕量級且高性能的網路，用於視網膜層分割。在本文中，我們提出 LightReSeg 用於視網膜層分割，可應用於 OCT 影像。具體來說，我們的做法遵循編碼器-解碼器結構，其中編碼器部分採用多尺度特徵萃取和 Transformer 區塊，以充分利用各種尺度特徵圖的語義資訊，並讓特徵具備更好的全局推理能力，而解碼器部分，我們設計了一個多尺度非對稱注意力 (MAA) 模組，用於保留每個編碼器尺度的語義資訊。實驗顯示，與現有最先進方法 TransUnet 相比，我們的做法在我們收集的資料集和兩個其他公開資料集上，以僅 330 萬個參數，達到了更好的分割效能，而 TransUnet 有 10570 萬個參數。
-
-##### **Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**
-2404.16325v1 by Hedda Cohen Indelman, Elay Dahan, Angeles M. Perez-Agosto, Carmit Shiran, Doron Shaked, Nati Daniel
-
-Despite the remarkable success of deep learning in medical imaging analysis,
-medical image segmentation remains challenging due to the scarcity of
-high-quality labeled images for supervision. Further, the significant domain
-gap between natural and medical images in general and ultrasound images in
-particular hinders fine-tuning models trained on natural images to the task at
-hand. In this work, we address the performance degradation of segmentation
-models in low-data regimes and propose a prompt-less segmentation method
-harnessing the ability of segmentation foundation models to segment abstract
-shapes. We do that via our novel prompt point generation algorithm which uses
-coarse semantic segmentation masks as input and a zero-shot prompt-able
-foundation model as an optimization target. We demonstrate our method on a
-segmentation findings task (pathologic anomalies) in ultrasound images. Our
-method's advantages are brought to light in varying degrees of low-data regime
-experiments on a small-scale musculoskeletal ultrasound images dataset,
-yielding a larger performance gain as the training set size decreases.
-
-摘要：儘管深度學習在醫學影像分析中取得顯著成功，
-由於缺乏高品質標籤影像進行監督，醫學影像分割仍然具有挑戰性。此外，一般自然影像與醫學影像之間，特別是超音波影像之間的顯著領域差距，阻礙了在自然影像上訓練的模型微調到手邊的任務。在這項工作中，我們探討了在低資料模式下分割模型的效能下降，並提出了一種無提示分割方法，利用分割基礎模型分割抽象形狀的能力。我們透過我們新穎的提示點生成演算法來做到這一點，該演算法使用粗略的語義分割遮罩作為輸入，並將零次提示基礎模型作為最佳化目標。我們在超音波影像的分割發現任務（病理異常）上展示了我們的模型。我們的模型優勢在小規模肌肉骨骼超音波影像資料集上的不同程度的低資料模式實驗中得到證明，隨著訓練集大小的減少，效能提升幅度更大。
-
-##### **LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**
-2404.16294v1 by Saranya Krishnamoorthy, Ayush Singh, Shabnam Tafreshi
-
-Electronic health records (EHR) even though a boon for healthcare
-practitioners, are growing convoluted and longer every day. Sifting around
-these lengthy EHRs is taxing and becomes a cumbersome part of physician-patient
-interaction. Several approaches have been proposed to help alleviate this
-prevalent issue either via summarization or sectioning, however, only a few
-approaches have truly been helpful in the past. With the rise of automated
-methods, machine learning (ML) has shown promise in solving the task of
-identifying relevant sections in EHR. However, most ML methods rely on labeled
-data which is difficult to get in healthcare. Large language models (LLMs) on
-the other hand, have performed impressive feats in natural language processing
-(NLP), that too in a zero-shot manner, i.e. without any labeled data. To that
-end, we propose using LLMs to identify relevant section headers. We find that
-GPT-4 can effectively solve the task on both zero and few-shot settings as well
-as segment dramatically better than state-of-the-art methods. Additionally, we
-also annotate a much harder real world dataset and find that GPT-4 struggles to
-perform well, alluding to further research and harder benchmarks.
-
-摘要：電子健康紀錄 (EHR) 儘管對醫療保健從業者來說是一大福音，但每天都變得越來越複雜且冗長。在這些冗長的 EHR 中篩選會造成負擔，並成為醫師與患者互動中繁瑣的一部分。已經提出幾種方法來幫助減輕這個普遍的問題，無論是透過摘要或分段，然而，過去只有少數方法真正有幫助。隨著自動化方法的興起，機器學習 (ML) 在解決識別 EHR 中相關區段的任務上展現了前景。然而，大多數 ML 方法依賴標記資料，而這在醫療保健中很難取得。另一方面，大型語言模型 (LLM) 在自然語言處理 (NLP) 中表現出令人印象深刻的壯舉，而且是以零次學習的方式，亦即沒有任何標記資料。為此，我們建議使用 LLM 來識別相關區段標題。我們發現 GPT-4 可以有效解決零次學習和少次學習設定中的任務，並且比最先進的方法分段好很多。此外，我們還註解了一個更困難的真實世界資料集，並發現 GPT-4 難以表現良好，這暗示了進一步的研究和更困難的基準。
-
-##### **Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**
-2404.16251v2 by Divyansh Agarwal, Alexander R. Fabbri, Philippe Laban, Ben Risher, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu
-
-Prompt leakage in large language models (LLMs) poses a significant security
-and privacy threat, particularly in retrieval-augmented generation (RAG)
-systems. However, leakage in multi-turn LLM interactions along with mitigation
-strategies has not been studied in a standardized manner. This paper
-investigates LLM vulnerabilities against prompt leakage across 4 diverse
-domains and 10 closed- and open-source LLMs. Our unique multi-turn threat model
-leverages the LLM's sycophancy effect and our analysis dissects task
-instruction and knowledge leakage in the LLM response. In a multi-turn setting,
-our threat model elevates the average attack success rate (ASR) to 86.2%,
-including a 99% leakage with GPT-4 and claude-1.3. We find that some black-box
-LLMs like Gemini show variable susceptibility to leakage across domains - they
-are more likely to leak contextual knowledge in the news domain compared to the
-medical domain. Our experiments measure specific effects of 6 black-box defense
-strategies, including a query-rewriter in the RAG scenario. Our proposed
-multi-tier combination of defenses still has an ASR of 5.3% for black-box LLMs,
-indicating room for enhancement and future direction for LLM security research.
-
-摘要：<paragraph>大型語言模型 (LLM) 中的提示洩漏會造成重大的安全
-和隱私威脅，特別是在檢索增強生成 (RAG)
-系統中。然而，多回合 LLM 互動中的洩漏以及緩解
-策略尚未以標準化方式進行研究。本文
-針對 4 個不同的領域和 10 個封閉和開放原始碼 LLM 調查 LLM 針對提示洩漏的漏洞。我們獨特的多回合威脅模型
-利用 LLM 的阿諛奉承效應，我們的分析剖析了任務
-指令和 LLM 回應中的知識洩漏。在多回合設定中，
-我們的威脅模型將平均攻擊成功率 (ASR) 提升至 86.2%，
-包括 GPT-4 和 claude-1.3 的 99% 洩漏。我們發現某些黑盒
-LLM（例如 Gemini）顯示出對不同領域洩漏的易感性差異 - 與
-醫療領域相比，它們更有可能在新聞領域洩漏背景知識。我們的實驗測量了 6 種黑盒防禦策略的具體效果，
-包括 RAG 場景中的查詢改寫器。我們提出的
-多層防禦組合對黑盒 LLM 仍有 5.3% 的 ASR，
-表示 LLM 安全研究的增強和未來方向仍有進步空間。</paragraph>
 

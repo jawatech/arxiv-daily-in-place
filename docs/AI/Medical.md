@@ -15,7 +15,7 @@
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
 |**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
 |**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
-|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v1](http://arxiv.org/abs/2405.04819v1)|[link](https://github.com/david-li0406/dalk)|
+|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v2](http://arxiv.org/abs/2405.04819v2)|[link](https://github.com/david-li0406/dalk)|
 |**2024-05-08**|**Real-Time Pill Identification for the Visually Impaired Using Deep Learning**|Bo Dang et.al.|[2405.05983v1](http://arxiv.org/abs/2405.05983v1)|null|
 |**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286v1](http://arxiv.org/abs/2405.05286v1)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650v1](http://arxiv.org/abs/2405.04650v1)|null|
@@ -33,7 +33,7 @@
 |**2024-05-06**|**MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline**|Mohamed Yaseen Jabarulla et.al.|[2405.03359v1](http://arxiv.org/abs/2405.03359v1)|[link](https://github.com/yaseen28/meddoc-bot)|
 |**2024-05-06**|**Accelerated MR Cholangiopancreatography with Deep Learning-based Reconstruction**|Jinho Kim et.al.|[2405.03732v1](http://arxiv.org/abs/2405.03732v1)|null|
 |**2024-05-06**|**Artificial Intelligence in the Autonomous Navigation of Endovascular Interventions: A Systematic Review**|Harry Robertshaw et.al.|[2405.03305v1](http://arxiv.org/abs/2405.03305v1)|null|
-|**2024-05-06**|**Large Language Models Synergize with Automated Machine Learning**|Jinglue Xu et.al.|[2405.03727v1](http://arxiv.org/abs/2405.03727v1)|null|
+|**2024-05-06**|**Large Language Models Synergize with Automated Machine Learning**|Jinglue Xu et.al.|[2405.03727v2](http://arxiv.org/abs/2405.03727v2)|null|
 |**2024-05-06**|**Advancing Multimodal Medical Capabilities of Gemini**|Lin Yang et.al.|[2405.03162v1](http://arxiv.org/abs/2405.03162v1)|null|
 |**2024-05-06**|**Automatic Ultrasound Curve Angle Measurement via Affinity Clustering for Adolescent Idiopathic Scoliosis Evaluation**|Yihao Zhou et.al.|[2405.03141v2](http://arxiv.org/abs/2405.03141v2)|null|
 |**2024-05-05**|**RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation**|Zelei Cheng et.al.|[2405.03064v1](http://arxiv.org/abs/2405.03064v1)|null|
@@ -157,7 +157,7 @@ diagnostic processes. The findings highlight the importance of optimizing the
 number of training examples and communication styles to improve accuracy and
 reduce biases in LLM applications.
 
-摘要：大型語言模型 (LLM) 整合到醫療診斷中為臨床決策提供了有希望的途徑。本研究概述了一種透過整合醫療領域知識使用多層結構提示進行零次學習/小樣本學習 (ICL) 的新方法的開發。我們還探討了使用者和 LLM 之間兩種溝通方式的功效：數值對話 (NC) 方式，它逐步處理資料，以及自然語言單回合 (NL-ST) 方式，它採用長篇敘事提示。我們的研究系統性地評估了診斷準確性和風險因素，包括性別偏見和假陰性率，使用一個在各種小樣本場景中的 920 個病歷記錄的資料集。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和小樣本學習設定中優於 LLM。然而，當使用小樣本範例以及有效的可解釋 AI (XAI) 方法作為領域知識來源時，效能差距顯著縮小。此外，透過充足的時間和增加的範例數量，對話方式 (NC) 幾乎與 ML 模型的效能相匹配。最值得注意的是，相對於 ML 模型，LLM 展示出可比較的或優越的成本敏感準確度。本研究證實，透過適當的領域知識和量身定制的溝通策略，LLM 可以顯著增強診斷程序。研究結果強調了最佳化訓練範例數量和溝通方式以提高準確度和減少 LLM 應用中偏見的重要性。
+摘要：大型語言模型 (LLM) 整合到醫療診斷中，為臨床決策制定提供了有前景的方法。本研究概述了一種通過使用多層結構提示整合醫學領域知識來進行零次學習/少次學習情境學習 (ICL) 的新方法的開發。我們還探討了使用者與 LLM 之間兩種溝通方式的效能：以增量方式處理資料的數值對話 (NC) 方式，以及採用長篇敘事提示的自然語言單輪 (NL-ST) 方式。我們的研究系統性地評估了診斷準確性和風險因素，包括性別偏見和假陰性率，並使用 920 個患者記錄的資料集在各種少次學習情境中進行評估。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和少次學習設定中優於 LLM。然而，當採用少次學習範例以及有效的可解釋 AI (XAI) 方法作為領域知識來源時，效能差距會顯著縮小。此外，在有充足的時間和增加範例數量的情況下，對話方式 (NC) 幾乎可以與 ML 模型的效能相匹配。最值得注意的是，LLM 相對於 ML 模型展現出可比或優越的成本敏感度準確性。這項研究證實，透過適當的領域知識和量身打造的溝通策略，LLM 可以顯著增強診斷程序。這些發現強調了最佳化訓練範例數量和溝通方式以提高準確性並減少 LLM 應用中偏見的重要性。
 
 ##### **VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**
 2405.06196v1 by Manish Dhakal, Rabin Adhikari, Safal Thapaliya, Bishesh Khanal
@@ -453,7 +453,7 @@ effective interventions in public health strategies.
 摘要：最近社群媒體上關於 Hammanskraal 霍亂爆發的貼文突顯了人們對此類事件的反應中所經歷的各種情緒。人們意見的廣泛程度取決於他們對此疾病的知識和資訊的程度。有記錄的霍亂研究缺乏對情緒分類的調查。本研究旨在探討社群媒體貼文中表達的關於霍亂的情緒。從 23,000 篇貼文中萃取並預處理了一個資料集。應用 Python 自然語言工具包 (NLTK) 情緒分析程式庫來決定每段文字的情緒重要性。此外，應用機器學習 (ML) 模型來進行情緒分類，包括長短期記憶 (LSTM)、邏輯迴歸、決策樹，以及轉換器 (BERT) 模型中的雙向編碼器表徵。本研究的結果顯示 LSTM 達到了 75% 的最高準確度。情緒分類提供了一個有用的工具，可以更深入地了解霍亂對社會的影響。本研究的發現可能有助於制定公共衛生策略中的有效干預措施。
 
 ##### **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**
-2405.04819v1 by Dawei Li, Shu Yang, Zhen Tan, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
+2405.04819v2 by Dawei Li, Shu Yang, Zhen Tan, Jae Young Baik, Sukwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
 
 Recent advancements in large language models (LLMs) have achieved promising
 performances across various applications. Nonetheless, the ongoing challenge of
@@ -473,7 +473,7 @@ that can offer valuable insights and guidelines for the emerging topic of
 mutually enhancing KG and LLM. We will release the code and data at
 https://github.com/David-Li0406/DALK.
 
-摘要：大型語言模型 (LLM) 近期的進展在各種應用中取得了可觀的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域的無縫採用。在這項工作中，我們引入了 DALK，又名 LLM 和 KG 的動態協同擴充，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是一個生物醫學中的專業子領域，也是全球健康的優先事項。透過 LLM 和 KG 互相增強的協同架構，我們首先利用 LLM 從與 AD 相關的科學文獻中建構一個不斷演進的 AD 專屬知識圖譜 (KG)，然後我們利用粗到細的抽樣方法，並採用新穎的自知知識擷取方法，從 KG 中選擇適當的知識來擴充 LLM 推論能力。在我們建構的 AD 問題解答 (ADQA) 基準上進行的實驗結果突顯了 DALK 的功效。此外，我們執行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 釋出程式碼和資料。
+摘要：大型語言模型 (LLM) 的近期進展在各種應用中都取得了有望的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域中的無縫採用。在這項工作中，我們介紹了 DALK，又名 LLM 和 KG 的動態共增強，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是生物醫學中的專業子領域，也是全球健康優先事項。利用 LLM 和 KG 相互增強的協同框架，我們首先利用 LLM 從與 AD 相關的科學文獻中構建一個不斷演化的 AD 特定知識圖譜 (KG)，然後我們利用一種粗到細的抽樣方法，採用一種新穎的自知知識檢索方法，從 KG 中選擇適當的知識來增強 LLM 推論能力。在我們構建的 AD 問題解答 (ADQA) 基準上進行的實驗結果強調了 DALK 的功效。此外，我們進行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 上發布代碼和數據。
 
 ##### **Real-Time Pill Identification for the Visually Impaired Using Deep Learning**
 2405.05983v1 by Bo Dang, Wenchao Zhao, Yufeng Li, Danqing Ma, Qixuan Yu, Elly Yijun Zhu
@@ -919,32 +919,31 @@ PRISMA，使用 QUADAS-2 評估文章。PROSPERO：CRD42023392259。
 未來幾年提出的數據驅動演算法至關重要。</paragraph>
 
 ##### **Large Language Models Synergize with Automated Machine Learning**
-2405.03727v1 by Jinglue Xu, Zhen Liu, Nagar Anthel Venkatesh Suryanarayanan, Hitoshi Iba
+2405.03727v2 by Jinglue Xu, Jialong Li, Zhen Liu, Nagar Anthel Venkatesh Suryanarayanan, Guoyuan Zhou, Jia Guo, Hitoshi Iba, Kenji Tei
 
-Recently, code generation driven by large language models (LLMs) has become
-increasingly popular. However, automatically generating code for machine
-learning (ML) tasks still poses significant challenges. This paper explores the
-limits of program synthesis for ML by combining LLMs and automated machine
-learning (autoML). Specifically, our goal is to fully automate the code
-generation process for the entire ML workflow, from data preparation to
-modeling and post-processing, utilizing only textual descriptions of the ML
-tasks. To manage the length and diversity of ML programs, we propose to break
-each ML program into smaller, manageable parts. Each part is generated
-separately by the LLM, with careful consideration of their compatibilities. To
-implement the approach, we design a testing technique for ML programs.
-Furthermore, our approach enables integration with autoML. In our approach,
-autoML serves to numerically assess and optimize the ML programs generated by
-LLMs. LLMs, in turn, help to bridge the gap between theoretical,
-algorithm-centered autoML and practical autoML applications. This mutual
-enhancement underscores the synergy between LLMs and autoML in program
-synthesis for ML. In experiments across various ML tasks, our method
+Recently, program synthesis driven by large language models (LLMs) has become
+increasingly popular. However, program synthesis for machine learning (ML)
+tasks still poses significant challenges. This paper explores a novel form of
+program synthesis, targeting ML programs, by combining LLMs and automated
+machine learning (autoML). Specifically, our goal is to fully automate the
+generation and optimization of the code of the entire ML workflow, from data
+preparation to modeling and post-processing, utilizing only textual
+descriptions of the ML tasks. To manage the length and diversity of ML
+programs, we propose to break each ML program into smaller, manageable parts.
+Each part is generated separately by the LLM, with careful consideration of
+their compatibilities. To ensure compatibilities, we design a testing technique
+for ML programs. Unlike traditional program synthesis, which typically relies
+on binary evaluations (i.e., correct or incorrect), evaluating ML programs
+necessitates more than just binary judgments. Therefore, we further assess ML
+programs numerically and select the optimal programs from a range of candidates
+using AutoML methods. In experiments across various ML tasks, our method
 outperforms existing methods in 10 out of 12 tasks for generating ML programs.
 In addition, autoML significantly improves the performance of the generated ML
-programs. In the experiments, our method, Text-to-ML, achieves fully automated
-synthesis of the entire ML pipeline based solely on textual descriptions of the
-ML tasks.
+programs. In experiments, given the textual task description, our method,
+Text-to-ML, generates the complete and optimized ML program in a fully
+autonomous process.
 
-摘要：<paragraph>最近，由大型语言模型 (LLM) 驱动的代码生成越来越流行。然而，为机器学习 (ML) 任务自动生成代码仍然面临着重大的挑战。本文通过结合 LLM 和自动化机器学习 (autoML) 来探索 ML 程序合成的局限性。具体来说，我们的目标是完全自动化整个 ML 工作流的代码生成过程，从数据准备到建模和后处理，仅利用 ML 任务的文本描述。为了管理 ML 程序的长度和多样性，我们建议将每个 ML 程序分解成更小、更易于管理的部分。每个部分由 LLM 单独生成，并仔细考虑它们的兼容性。为了实施这种方法，我们设计了一种用于 ML 程序的测试技术。此外，我们的方法支持与 autoML 集成。在我们的方法中，autoML 用于对 LLM 生成的 ML 程序进行数字评估和优化。反过来，LLM 有助于弥合理论、以算法为中心的 autoML 和实际 autoML 应用之间的差距。这种相互增强强调了 LLM 和 autoML 在 ML 程序合成中的协同作用。在各种 ML 任务的实验中，我们的方法在 12 个任务中的 10 个任务中生成 ML 程序的性能优于现有方法。此外，autoML 显着提高了生成的 ML 程序的性能。在实验中，我们的方法 Text-to-ML 根据 ML 任务的文本描述实现了整个 ML 管道的全自动合成。</paragraph>
+摘要：<paragraph>最近，由大型语言模型 (LLM) 驱动的程序合成变得越来越流行。然而，机器学习 (ML) 任务的程序合成仍然面临着重大的挑战。本文探索了一种针对 ML 程序的新型程序合成形式，通过结合 LLM 和自动化机器学习 (autoML) 来实现。具体来说，我们的目标是完全自动化 ML 整个工作流的代码生成和优化，从数据准备到建模和后处理，仅利用 ML 任务的文本描述。为了管理 ML 程序的长度和多样性，我们建议将每个 ML 程序分解成更小、更易于管理的部分。每部分由 LLM 单独生成，并仔细考虑它们的兼容性。为了确保兼容性，我们设计了一种用于 ML 程序的测试技术。与通常依赖二元评估（即正确或不正确）的传统程序合成不同，评估 ML 程序需要的不只是二元判断。因此，我们进一步对 ML 程序进行数值评估，并使用 AutoML 方法从一系列候选程序中选择最优程序。在各种 ML 任务的实验中，我们的方法在 12 个任务中有 10 个任务的 ML 程序生成方面优于现有方法。此外，autoML 显着提高了生成的 ML 程序的性能。在实验中，给定文本任务描述，我们的方法 Text-to-ML 在一个完全自动化的过程中生成了完整且经过优化的 ML 程序。</paragraph>
 
 ##### **Advancing Multimodal Medical Capabilities of Gemini**
 2405.03162v1 by Lin Yang, Shawn Xu, Andrew Sellergren, Timo Kohlberger, Yuchen Zhou, Ira Ktena, Atilla Kiraly, Faruk Ahmed, Farhad Hormozdiari, Tiam Jaroensri, Eric Wang, Ellery Wulczyn, Fayaz Jamil, Theo Guidroz, Chuck Lau, Siyuan Qiao, Yun Liu, Akshay Goel, Kendall Park, Arnav Agharwal, Nick George, Yang Wang, Ryutaro Tanno, David G. T. Barrett, Wei-Hung Weng, S. Sara Mahdavi, Khaled Saab, Tao Tu, Sreenivasa Raju Kalidindi, Mozziyar Etemadi, Jorge Cuadros, Gregory Sorensen, Yossi Matias, Katherine Chou, Greg Corrado, Joelle Barral, Shravya Shetty, David Fleet, S. M. Ali Eslami, Daniel Tse, Shruthi Prabhakara, Cory McLean, Dave Steiner, Rory Pilgrim, Christopher Kelly, Shekoofeh Azizi, Daniel Golden

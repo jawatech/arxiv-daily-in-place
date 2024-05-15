@@ -2,10 +2,11 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
-|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v1](http://arxiv.org/abs/2404.18975v1)|null|
+|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v2](http://arxiv.org/abs/2404.18975v2)|null|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
@@ -101,9 +102,27 @@
 |**2022-08-24**|**GAN-based generative modelling for dermatological applications -- comparative study**|Sandra Carrasco Limeros et.al.|[2208.11702v1](http://arxiv.org/abs/2208.11702v1)|[link](https://github.com/aidotse/stylegan2-ada-pytorch)|
 |**2022-08-05**|**Planning and Scheduling in Digital Health with Answer Set Programming**|Marco Mochi et.al.|[2208.03099v1](http://arxiv.org/abs/2208.03099v1)|null|
 |**2022-07-26**|**AI Approaches in Processing and Using Data in Personalized Medicine**|Mirjana Ivanovic et.al.|[2208.04698v1](http://arxiv.org/abs/2208.04698v1)|null|
-|**2022-07-22**|**TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**|Nandita Bhaskhar et.al.|[2207.11290v2](http://arxiv.org/abs/2207.11290v2)|[link](https://github.com/nanbhas/trustlapse)|
 
 #### Abstracts
+##### **Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**
+2405.07590v1 by Camelia Oprea, Mike Grüne, Mateusz Buglowski, Lena Olivier, Thorsten Orlikowsky, Stefan Kowalewski, Mark Schoberer, André Stollenwerk
+
+With the digitalization of health care systems, artificial intelligence
+becomes more present in medicine. Especially machine learning shows great
+potential for complex tasks such as time series classification, usually at the
+cost of transparency and comprehensibility. This leads to a lack of trust by
+humans and thus hinders its active usage. Explainable artificial intelligence
+tries to close this gap by providing insight into the decision-making process,
+the actual usefulness of its different methods is however unclear. This paper
+proposes a user study based evaluation of the explanation method Grad-CAM with
+application to a neural network for the classification of breaths in time
+series neonatal ventilation data. We present the perceived usefulness of the
+explainability method by different stakeholders, exposing the difficulty to
+achieve actual transparency and the wish for more in-depth explanations by many
+of the participants.
+
+摘要：隨著醫療保健系統的數位化，人工智慧在醫學領域中變得更加普及。特別是機器學習在時間序列分類等複雜任務中展現出極大的潛力，但通常是以透明度和可理解性為代價。這導致人類缺乏信任，從而阻礙了其積極使用。可解釋的人工智慧試圖通過提供對決策過程的洞察來彌補這一差距，但其不同方法的實際效用尚不清楚。本文提出了一個基於使用者研究的評估，其中包含了 Grad-CAM 解釋方法，並將其應用於神經網路以分類時間序列新生兒呼吸數據中的呼吸。我們展示了不同利益相關者對可解釋性方法的感知效用，揭示了實現實際透明度的難度，以及許多參與者希望獲得更深入的解釋。
+
 ##### **XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**
 2405.06270v1 by Fatemeh Nazary, Yashar Deldjoo, Tommaso Di Noia, Eugenio di Sciascio
 
@@ -173,36 +192,27 @@ decision making and enhancing AI system trustworthiness.
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
 
 ##### **M3H: Multimodal Multitask Machine Learning for Healthcare**
-2404.18975v1 by Dimitris Bertsimas, Yu Ma
+2404.18975v2 by Dimitris Bertsimas, Yu Ma
 
-Recent breakthroughs in AI are poised to fundamentally enhance our study and
-understanding of healthcare. The development of an integrated many-to-many
-framework that leverages multiple data modality inputs for the analytical
-modeling of multiple medical tasks, is critical for a unified understanding of
-modern medicine. In this work, we introduce M3H, an explainable Multimodal
-Multitask Machine Learning for Healthcare framework that consolidates learning
-from diverse multimodal inputs across a broad spectrum of medical task
-categories and machine learning problem classes. The modular design of the
-framework ensures its generalizable data processing, task definition, and rapid
-model prototyping, applicable to both clinical and operational healthcare
-settings. We evaluate the M3H framework by validating models trained from four
-modalities (tabular, time-series, language, and vision) on 41 medical tasks
-across 4 machine learning problem classes. Our results demonstrate that M3H
-consistently produces multitask models that outperform canonical single-task
-models (by 1.1- 37.2%) across 37 disease diagnoses from 16 medical departments,
-three hospital operation forecasts, and one patient phenotyping task: spanning
-ML problem classes of supervised binary classification, multiclass
-classification, regression, and clustering. Additionally, the framework
-introduces a novel attention mechanism to balance self-exploitation (focus on
-learning source task), and cross-exploration (encourage learning from other
-tasks). Furthermore, M3H provides explainability insights on how joint learning
-of additional tasks impacts the learning of source task using a proposed TIM
-score, shedding light into the dynamics of task interdependencies. Its
-adaptable architecture facilitates the customization and integration,
-establishing it as a robust and scalable candidate solution for future
-AI-driven healthcare systems.
+Artificial intelligence holds promise to fundamentally enhance healthcare.
+Developing an integrated many-to-many framework leveraging multimodal data for
+multiple tasks is essential to unifying modern medicine. We introduce M3H, an
+explainable Multimodal Multitask Machine Learning for Healthcare framework that
+consolidates learning from tabular, time-series, language, and vision data for
+supervised binary/multiclass classification, regression, and unsupervised
+clustering. M3H encompasses an unprecedented range of medical tasks and problem
+domains and consistently outperforms traditional single-task models by on
+average 11.6% across 40 disease diagnoses from 16 medical departments, three
+hospital operation forecasts, and one patient phenotyping task. It features a
+novel attention mechanism balancing self-exploitation (learning source-task),
+and cross-exploration (learning cross-tasks), and offers explainability through
+a proposed TIM score, shedding light on the dynamics of task learning
+interdependencies. Its adaptable architecture supports easy customization and
+integration of new data modalities and tasks, establishing it as a robust,
+scalable solution for advancing AI-driven healthcare systems.
 
-摘要：<paragraph>最近在人工智慧方面的突破，將徹底提升我們對醫療保健的研究和理解。開發一個整合式多對多架構，利用多個資料模式輸入進行多個醫療任務的分析建模，對於統一理解現代醫學至關重要。在這項工作中，我們引入了 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了來自廣泛醫療任務類別和機器學習問題類別的多模態輸入的學習。該架構的模組化設計確保了其資料處理、任務定義和快速模型建構的通用性，適用於臨床和運營醫療保健環境。我們透過驗證從四個模態（表格、時間序列、語言和視覺）訓練的模型在 4 個機器學習問題類別中的 41 個醫療任務上，來評估 M3H 架構。我們的結果表明，M3H 持續產生多任務模型，其表現優於來自 16 個醫療部門的 37 種疾病診斷、三個醫院運營預測和一個患者表型任務的典型單任務模型（1.1-37.2%）。橫跨監督二元分類、多類別分類、回歸和群集的機器學習問題類別。此外，該架構引入了一種新穎的注意力機制，以平衡自我利用（專注於學習來源任務）和交叉探索（鼓勵從其他任務中學習）。此外，M3H 提供了可解釋性的見解，說明額外任務的聯合學習如何使用提議的 TIM 分數影響來源任務的學習，深入了解任務相互依賴性的動態。其適應性架構促進了客製化和整合，使其成為未來人工智慧驅動醫療保健系統的強大且可擴充的候選解決方案。</paragraph>
+摘要：人工智慧有望從根本上提升醫療保健。
+開發一個整合式多對多架構，利用多模態資料進行多重任務，對於統一現代醫學至關重要。我們介紹 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了表格、時間序列、語言和視覺資料的學習，用於監督式二元/多類別分類、回歸和非監督式聚類。M3H 涵蓋了前所未有的醫療任務和問題領域範圍，並且在 16 個醫療部門的 40 種疾病診斷、三個醫院運營預測和一個患者表型任務中，平均比傳統的單一任務模型高出 11.6%。它的特點是新穎的注意力機制，平衡了自我開發（學習來源任務）和跨探索（學習跨任務），並通過提議的 TIM 分數提供可解釋性，闡明了任務學習相互依賴的動態。其適應性架構支援輕鬆自訂和整合新的資料模式和任務，使其成為推動 AI 驅動醫療保健系統的強大、可擴充的解決方案。
 
 ##### **Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**
 2404.17977v1 by Himanshu Pandey, Akhil Amod, Shivang
@@ -2571,35 +2581,4 @@ characteristic examples in the area of application of a range of artificial
 intelligence approaches in personalized medical decisions.
 
 摘要：在現代動態不斷發展的社會中，越來越多的人患有慢性病和重病，醫生和患者需要特殊且精密的醫療和健康支持。因此，著名的健康利益相關者已認識到發展此類服務以使患者的生活更輕鬆的重要性。此類支持需要收集大量患者複雜的數據，例如臨床、環境、營養、日常活動、來自智慧型穿戴式裝置的各種數據、來自配備感測器的服裝的數據等。必須適當彙總、處理、分析和呈現整體患者數據給醫生和照護者，以便建議適當的治療和措施，以改善患者的健康相關參數和一般健康狀況。進階的人工智慧技術提供了分析此類大數據、使用這些數據和衍生新知識的機會，以支持個人化的醫療決策。基於進階機器學習、聯邦學習、遷移學習、可解釋人工智慧等新方法為未來更優質地使用健康和醫療數據開闢了新途徑。在本文中，我們將介紹一系列人工智慧方法在個人化醫療決策中應用領域的一些關鍵面向和特徵範例。
-
-##### **TRUST-LAPSE: An Explainable and Actionable Mistrust Scoring Framework for Model Monitoring**
-2207.11290v2 by Nandita Bhaskhar, Daniel L. Rubin, Christopher Lee-Messer
-
-Continuous monitoring of trained ML models to determine when their
-predictions should and should not be trusted is essential for their safe
-deployment. Such a framework ought to be high-performing, explainable, post-hoc
-and actionable. We propose TRUST-LAPSE, a "mistrust" scoring framework for
-continuous model monitoring. We assess the trustworthiness of each input
-sample's model prediction using a sequence of latent-space embeddings.
-Specifically, (a) our latent-space mistrust score estimates mistrust using
-distance metrics (Mahalanobis distance) and similarity metrics (cosine
-similarity) in the latent-space and (b) our sequential mistrust score
-determines deviations in correlations over the sequence of past input
-representations in a non-parametric, sliding-window based algorithm for
-actionable continuous monitoring. We evaluate TRUST-LAPSE via two downstream
-tasks: (1) distributionally shifted input detection, and (2) data drift
-detection. We evaluate across diverse domains - audio and vision using public
-datasets and further benchmark our approach on challenging, real-world
-electroencephalograms (EEG) datasets for seizure detection. Our latent-space
-mistrust scores achieve state-of-the-art results with AUROCs of 84.1 (vision),
-73.9 (audio), and 77.1 (clinical EEGs), outperforming baselines by over 10
-points. We expose critical failures in popular baselines that remain
-insensitive to input semantic content, rendering them unfit for real-world
-model monitoring. We show that our sequential mistrust scores achieve high
-drift detection rates; over 90% of the streams show < 20% error for all
-domains. Through extensive qualitative and quantitative evaluations, we show
-that our mistrust scores are more robust and provide explainability for easy
-adoption into practice.
-
-摘要：<paragraph>持續監控已訓練的機器學習模型，以確定何時應信任和不應信任其預測，對於其安全部署至關重要。這樣的框架應具備高性能、可解釋性、事後性和可操作性。我們提出 TRUST-LAPSE，一個用於持續模型監控的「不信任」評分框架。我們使用一連串潛在空間嵌入來評估每個輸入樣本的模型預測的可信度。具體來說，(a) 我們的潛在空間不信任分數使用潛在空間中的距離度量（馬氏距離）和相似度量（餘弦相似度）來估計不信任，(b) 我們的順序不信任分數確定在非參數、基於滑動視窗演算法的過去輸入表示順序上相關性的偏差，用於可操作的持續監控。我們透過兩個下游任務評估 TRUST-LAPSE：(1) 分布式轉移輸入偵測，以及 (2) 資料漂移偵測。我們使用公開資料集評估各種領域（音訊和視覺），並進一步在具有挑戰性的真實世界腦電圖 (EEG) 資料集上評估我們的做法，以進行癲癇偵測。我們的潛在空間不信任分數獲得了最先進的結果，AUROC 分別為 84.1（視覺）、73.9（音訊）和 77.1（臨床 EEG），比基準高出 10 分以上。我們揭露了流行基準中關鍵的失敗，這些基準對輸入語義內容不敏感，使它們不適合於真實世界的模型監控。我們表明，我們的順序不信任分數達到了很高的漂移偵測率；在所有領域中，超過 90% 的串流顯示錯誤率 < 20%。透過廣泛的定性和定量評估，我們表明我們的信任分數更強大，並且提供了可解釋性，以便於實務採用。</paragraph>
 

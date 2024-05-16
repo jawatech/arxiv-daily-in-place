@@ -2,10 +2,16 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|null|
+|**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334v1](http://arxiv.org/abs/2405.09334v1)|null|
+|**2024-05-15**|**Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support**|Birger Moell et.al.|[2405.09300v1](http://arxiv.org/abs/2405.09300v1)|null|
+|**2024-05-15**|**CTS: A Consistency-Based Medical Image Segmentation Model**|Kejia Zhang et.al.|[2405.09056v1](http://arxiv.org/abs/2405.09056v1)|null|
+|**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932v1](http://arxiv.org/abs/2405.08932v1)|null|
 |**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780v1](http://arxiv.org/abs/2405.08780v1)|null|
 |**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681v1](http://arxiv.org/abs/2405.08681v1)|[link](https://github.com/kqp1227/sensitive-channel-pruning)|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668v1](http://arxiv.org/abs/2405.08668v1)|[link](https://github.com/caoql98/GDPL)|
 |**2024-05-14**|**EchoTracker: Advancing Myocardial Point Tracking in Echocardiography**|Md Abulkalam Azad et.al.|[2405.08587v1](http://arxiv.org/abs/2405.08587v1)|null|
+|**2024-05-14**|**PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**|Satya K Gundabathula et.al.|[2405.08839v1](http://arxiv.org/abs/2405.08839v1)|null|
 |**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373v1](http://arxiv.org/abs/2405.08373v1)|null|
 |**2024-05-14**|**Perivascular space Identification Nnunet for Generalised Usage (PINGU)**|Benjamin Sinclair et.al.|[2405.08337v1](http://arxiv.org/abs/2405.08337v1)|null|
 |**2024-05-14**|**Automated classification of multi-parametric body MRI series**|Boah Kim et.al.|[2405.08247v1](http://arxiv.org/abs/2405.08247v1)|null|
@@ -96,14 +102,130 @@
 |**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748v1](http://arxiv.org/abs/2404.19748v1)|null|
 |**2024-04-30**|**Data Set Terminology of Artificial Intelligence in Medicine: A Historical Review and Recommendation**|Shannon L. Walston et.al.|[2404.19303v1](http://arxiv.org/abs/2404.19303v1)|null|
 |**2024-04-29**|**Text and Audio Simplification: Human vs. ChatGPT**|Gondy Leroy et.al.|[2405.01592v1](http://arxiv.org/abs/2405.01592v1)|null|
-|**2024-04-29**|**ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization**|Hong Nguyen et.al.|[2404.18831v1](http://arxiv.org/abs/2404.18831v1)|[link](https://github.com/hong7cong/conpro)|
-|**2024-04-29**|**Decoding Radiologists' Intentions: A Novel System for Accurate Region Identification in Chest X-ray Image Analysis**|Akash Awasthi et.al.|[2404.18981v1](http://arxiv.org/abs/2404.18981v1)|null|
-|**2024-04-29**|**Foundations of Multisensory Artificial Intelligence**|Paul Pu Liang et.al.|[2404.18976v1](http://arxiv.org/abs/2404.18976v1)|null|
-|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v2](http://arxiv.org/abs/2404.18975v2)|null|
-|**2024-04-29**|**Real Time Multi Organ Classification on Computed Tomography Images**|Halid Ziya Yerebakan et.al.|[2404.18731v1](http://arxiv.org/abs/2404.18731v1)|null|
-|**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591v1](http://arxiv.org/abs/2405.01591v1)|null|
 
 #### Abstracts
+##### **Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**
+2405.09444v1 by Flavio Cirillo, Gürkan Solmaz, Yi-Hsuan Peng, Christian Bizer, Martin Jebens
+
+The process of clearing areas, namely demining, starts by assessing and
+prioritizing potential hazardous areas (i.e., desk assessment) to go under
+thorough investigation of experts, who confirm the risk and proceed with the
+mines clearance operations. This paper presents Desk-AId that supports the desk
+assessment phase by estimating landmine risks using geospatial data and
+socioeconomic information. Desk-AId uses a Geospatial AI approach specialized
+to landmines. The approach includes mixed data sampling strategies and
+context-enrichment by historical conflicts and key multi-domain facilities
+(e.g., buildings, roads, health sites). The proposed system addresses the issue
+of having only ground-truth for confirmed hazardous areas by implementing a new
+hard-negative data sampling strategy, where negative points are sampled in the
+vicinity of hazardous areas. Experiments validate Desk-Aid in two domains for
+landmine risk assessment: 1) country-wide, and 2) uncharted study areas). The
+proposed approach increases the estimation accuracies up to 92%, for different
+classification models such as RandomForest (RF), Feedforward Neural Networks
+(FNN), and Graph Neural Networks (GNN).
+
+摘要：清除區域的過程，即排雷，始於評估和優先處理潛在危險區域（即桌面評估），由專家進行徹底調查，確認風險並繼續進行排雷行動。本文提出 Desk-AId，它透過使用地理空間資料和社會經濟資訊來估計地雷風險，以支援桌面評估階段。Desk-AId 使用專門針對地雷的地理空間 AI 方法。此方法包括混合資料抽樣策略和透過歷史衝突和關鍵多重領域設施（例如建築物、道路、醫療場所）進行脈絡豐富化。所提出的系統透過實施新的困難負面資料抽樣策略來解決僅對已確認危險區域進行地面真實性驗證的問題，其中負面點會在危險區域附近進行抽樣。實驗在兩個領域驗證 Desk-Aid 以進行地雷風險評估：1) 全國範圍，以及 2) 未標示的研究區域。對於不同的分類模型，例如隨機森林 (RF)、前饋神經網路 (FNN) 和圖神經網路 (GNN)，所提出的方法將估計準確度提高到 92%。
+
+##### **Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**
+2405.09334v1 by Farnaz Khun Jush, Steffen Vogler, Tuan Truong, Matthias Lenga
+
+While content-based image retrieval (CBIR) has been extensively studied in
+natural image retrieval, its application to medical images presents ongoing
+challenges, primarily due to the 3D nature of medical images. Recent studies
+have shown the potential use of pre-trained vision embeddings for CBIR in the
+context of radiology image retrieval. However, a benchmark for the retrieval of
+3D volumetric medical images is still lacking, hindering the ability to
+objectively evaluate and compare the efficiency of proposed CBIR approaches in
+medical imaging. In this study, we extend previous work and establish a
+benchmark for region-based and multi-organ retrieval using the TotalSegmentator
+dataset (TS) with detailed multi-organ annotations. We benchmark embeddings
+derived from pre-trained supervised models on medical images against embeddings
+derived from pre-trained unsupervised models on non-medical images for 29
+coarse and 104 detailed anatomical structures in volume and region levels. We
+adopt a late interaction re-ranking method inspired by text matching for image
+retrieval, comparing it against the original method proposed for volume and
+region retrieval achieving retrieval recall of 1.0 for diverse anatomical
+regions with a wide size range. The findings and methodologies presented in
+this paper provide essential insights and benchmarks for the development and
+evaluation of CBIR approaches in the context of medical imaging.
+
+摘要：儘管基於內容的影像擷取 (CBIR) 已廣泛研究於自然影像擷取，其應用於醫學影像仍存在持續性的挑戰，這主要是因為醫學影像的 3D 特性。最近的研究顯示預先訓練好的視覺嵌入式可於放射影像擷取中用於 CBIR。然而，3D 體積醫學影像的擷取基準仍有所欠缺，這妨礙了客觀評估和比較所提出的 CBIR 方法在醫學影像中的效率。在這項研究中，我們延伸了先前的研究，並建立了一個基於區域和多器官擷取的基準，使用 TotalSegmentator 資料集 (TS) 與詳細的多器官標註。我們對照從非醫學影像的預先訓練無監督模型衍生的嵌入式，對從醫學影像的預先訓練監督模型衍生的嵌入式，對 29 個粗略的和 104 個詳細的體積和區域層級的解剖結構進行基準測試。我們採用一種受文字比對啟發的晚期互動重新排序方法進行影像擷取，並將其與為體積和區域擷取提出的原始方法進行比較，針對範圍廣泛的解剖區域達成 1.0 的擷取召回率。本文提出的發現和方法論為醫學影像中 CBIR 方法的發展和評估提供了重要的見解和基準。
+
+##### **Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support**
+2405.09300v1 by Birger Moell
+
+Background: Rapid advancements in natural language processing have led to the
+development of large language models with the potential to revolutionize mental
+health care. These models have shown promise in assisting clinicians and
+providing support to individuals experiencing various psychological challenges.
+  Objective: This study aims to compare the performance of two large language
+models, GPT-4 and Chat-GPT, in responding to a set of 18 psychological prompts,
+to assess their potential applicability in mental health care settings.
+  Methods: A blind methodology was employed, with a clinical psychologist
+evaluating the models' responses without knowledge of their origins. The
+prompts encompassed a diverse range of mental health topics, including
+depression, anxiety, and trauma, to ensure a comprehensive assessment.
+  Results: The results demonstrated a significant difference in performance
+between the two models (p > 0.05). GPT-4 achieved an average rating of 8.29 out
+of 10, while Chat-GPT received an average rating of 6.52. The clinical
+psychologist's evaluation suggested that GPT-4 was more effective at generating
+clinically relevant and empathetic responses, thereby providing better support
+and guidance to potential users.
+  Conclusions: This study contributes to the growing body of literature on the
+applicability of large language models in mental health care settings. The
+findings underscore the importance of continued research and development in the
+field to optimize these models for clinical use. Further investigation is
+necessary to understand the specific factors underlying the performance
+differences between the two models and to explore their generalizability across
+various populations and mental health conditions.
+
+摘要：<paragraph>背景：自然語言處理的快速進展帶動了大型語言模型的發展，這些模型有潛力革新心理健康照護。這些模型已展現出在協助臨床醫師和提供支援給經歷各種心理挑戰的個人方面的前景。
+目標：本研究旨在比較兩個大型語言模型，GPT-4 和 Chat-GPT，在回應一組 18 個心理提示時的表現，以評估其在心理健康照護環境中的潛在適用性。
+方法：採用盲法方法，由臨床心理師在不知其來源的情況下評估模型的回應。這些提示涵蓋了廣泛的心理健康主題，包括憂鬱症、焦慮症和創傷，以確保進行全面的評估。
+結果：結果顯示兩個模型之間的表現有顯著差異 (p > 0.05)。GPT-4 的平均評分為 10 分中的 8.29 分，而 Chat-GPT 的平均評分為 6.52 分。臨床心理師的評估顯示，GPT-4 在產生與臨床相關且同理心的回應方面更有效，進而為潛在使用者提供更好的支持和指導。
+結論：本研究有助於擴充大型語言模型在心理健康照護環境中適用性的文獻。這些發現強調了持續研究和發展在該領域的重要性，以最佳化這些模型以供臨床使用。進一步的調查對於了解導致兩個模型之間表現差異的特定因素，以及探索其在各種族群和心理健康狀況中的概括性，至關重要。</paragraph>
+
+##### **CTS: A Consistency-Based Medical Image Segmentation Model**
+2405.09056v1 by Kejia Zhang, Lan Zhang, Haiwei Pan, Baolong Yu
+
+In medical image segmentation tasks, diffusion models have shown significant
+potential. However, mainstream diffusion models suffer from drawbacks such as
+multiple sampling times and slow prediction results. Recently, consistency
+models, as a standalone generative network, have resolved this issue. Compared
+to diffusion models, consistency models can reduce the sampling times to once,
+not only achieving similar generative effects but also significantly speeding
+up training and prediction. However, they are not suitable for image
+segmentation tasks, and their application in the medical imaging field has not
+yet been explored. Therefore, this paper applies the consistency model to
+medical image segmentation tasks, designing multi-scale feature signal
+supervision modes and loss function guidance to achieve model convergence.
+Experiments have verified that the CTS model can obtain better medical image
+segmentation results with a single sampling during the test phase.
+
+摘要：在医学影像分割任务中，扩散模型显示出显著的潜力。然而，主流扩散模型存在采样时间多、预测结果慢的缺点。最近，一致性模型作为一种独立的生成网络，解决了这个问题。与扩散模型相比，一致性模型可以将采样次数减少到一次，不仅实现了相似的生成效果，而且极大地加快了训练和预测速度。但是，它们不适用于图像分割任务，并且尚未探索它们在医学影像领域的应用。因此，本文将一致性模型应用于医学影像分割任务，设计多尺度特征信号监督模式和损失函数指导，以实现模型收敛。实验验证了CTS模型在测试阶段通过单次采样就能获得更好的医学影像分割结果。
+
+##### **Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**
+2405.08932v1 by Alexandre Englebert, Anne-Sophie Collin, Olivier Cornu, Christophe De Vleeschouwer
+
+This paper proposes leveraging vision-language pretraining on bone X-rays
+paired with French reports to address downstream tasks of interest on bone
+radiography. A practical processing pipeline is introduced to anonymize and
+process French medical reports. Pretraining then consists in the
+self-supervised alignment of visual and textual embedding spaces derived from
+deep model encoders. The resulting image encoder is then used to handle various
+downstream tasks, including quantification of osteoarthritis, estimation of
+bone age on pediatric wrists, bone fracture and anomaly detection. Our approach
+demonstrates competitive performance on downstream tasks, compared to
+alternatives requiring a significantly larger amount of human expert
+annotations. Our work stands as the first study to integrate French reports to
+shape the embedding space devoted to bone X-Rays representations, capitalizing
+on the large quantity of paired images and reports data available in an
+hospital. By relying on generic vision-laguage deep models in a
+language-specific scenario, it contributes to the deployement of vision models
+for wider healthcare applications.
+
+摘要：本文提出利用骨骼 X 光片上的視覺語言預訓練與法文報告，來處理骨骼放射線攝影中感興趣的下游任務。本文介紹一個實用的處理管道，用來匿名化和處理法文醫療報告。預訓練接著包含來自深度模型編碼器的視覺和文字嵌入空間的自我監督對齊。接著使用產生的影像編碼器來處理各種下游任務，包括骨關節炎的量化、兒童手腕的骨齡估計、骨頭骨折和異常偵測。我們的做法在各種下游任務中展現出競爭力，相較於需要大量人類專家註解的替代方案。我們的研究是第一個整合法文報告來建構骨骼 X 光片表徵的嵌入空間，並利用醫院中大量配對影像和報告資料。透過在特定語言情境中依賴通用的視覺語言深度模型，本文有助於將視覺模型部署到更廣泛的醫療保健應用中。
+
 ##### **Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**
 2405.08780v1 by Gregory Holste, Mingquan Lin, Ruiwen Zhou, Fei Wang, Lei Liu, Qi Yan, Sarah H. Van Tassel, Kyle Kovacs, Emily Y. Chew, Zhiyong Lu, Zhangyang Wang, Yifan Peng
 
@@ -205,6 +327,24 @@ prognostic value for clinical measurements than current techniques. Our source
 code is available at: https://github.com/riponazad/echotracker/.
 
 摘要：在超音波心動圖中，由於複雜的心臟運動和超音波擷取的內在性質，組織追蹤具有挑戰性。雖然光流法被認為是目前最先進的技術（SOTA），但它們在整個心臟週期中難以進行長程追蹤、雜訊遮蔽和漂移。最近，引進了基於新穎學習的點追蹤技術來解決其中一些問題。在本文中，我們建立在這些技術之上，並介紹了 EchoTracker，這是一個兩重的粗略到精細模型，用於促進在超音波影像序列中追蹤組織表面上的查詢點。該架構包含軌跡的初步粗略初始化，然後根據細粒度外觀變化進行強化反覆運算。它高效、輕巧，可以在中階 GPU 上執行。實驗表明，該模型優於 SOTA 方法，平均位置精度為 67%，平均軌跡誤差為 2.86 像素。此外，我們在臨床測試重測資料集中使用我們的模型計算全球縱向應變 (GLS) 時，與其他方法相比，顯示出 25% 的相對改善。這表示基於學習的點追蹤可以潛在改善效能，並比目前的技術為臨床測量提供更高的診斷和預後價值。我們的原始碼可在以下位置取得：https://github.com/riponazad/echotracker/。
+
+##### **PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**
+2405.08839v1 by Satya K Gundabathula, Sriram R Kolar
+
+This paper presents our approach to the EHRSQL-2024 shared task, which aims
+to develop a reliable Text-to-SQL system for electronic health records. We
+propose two approaches that leverage large language models (LLMs) for prompting
+and fine-tuning to generate EHRSQL queries. In both techniques, we concentrate
+on bridging the gap between the real-world knowledge on which LLMs are trained
+and the domain specific knowledge required for the task. The paper provides the
+results of each approach individually, demonstrating that they achieve high
+execution accuracy. Additionally, we show that an ensemble approach further
+enhances generation reliability by reducing errors. This approach secured us
+2nd place in the shared task competition. The methodologies outlined in this
+paper are designed to be transferable to domain-specific Text-to-SQL problems
+that emphasize both accuracy and reliability.
+
+摘要：本文介紹我們對 EHRSQL-2024 共享任務的方法，該任務旨在開發一個可靠的電子病歷文字轉 SQL 系統。我們提出兩種方法，利用大型語言模型 (LLM) 來提示和微調以產生 EHRSQL 查詢。在這兩種技術中，我們專注於彌合 LLM 接受訓練的現實世界知識與任務所需的特定領域知識之間的差距。本文分別提供了每種方法的結果，證明它們實現了很高的執行準確度。此外，我們表明，整體方法進一步通過減少錯誤來增強生成可靠性。這種方法讓我們在共享任務競賽中獲得第二名。本文中概述的方法旨在轉移到特定領域的文字轉 SQL 問題，這些問題強調準確性和可靠性。
 
 ##### **PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**
 2405.08373v1 by Satya Kesav Gundabathula, Sriram R Kolar
@@ -2462,146 +2602,4 @@ direction. The medical domain expert evaluation showed a preference for the
 ChatGPT style, but the text itself was rated lower for content retention.
 
 摘要：在醫療保健中，文字和音訊簡化對於增加資訊理解非常重要。隨著 ChatGPT 的推出，需要對其簡化效能進行評估。我們提供人類和 ChatGPT 簡化文字的系統性比較，使用十四種指標來表示文字的難度。我們簡要介紹我們的線上編輯器，其中包含 ChatGPT 等簡化工具。我們使用我們的指標對十二個語料庫進行評分：六個文字、一個音訊和五個 ChatGPT 簡化的語料庫。然後，我們將這些語料庫與先前使用者研究中簡化和驗證的文字進行比較。最後，一位醫學領域專家評估了這些文字和五個新的 ChatGPT 簡化版本。我們發現簡單的語料庫與人類簡化的文字顯示出更高的相似度。ChatGPT 簡化將指標朝正確的方向移動。醫學領域專家的評估顯示出對 ChatGPT 風格的偏好，但文字本身在內容保留方面的評分較低。
-
-##### **ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization**
-2404.18831v1 by Hong Nguyen, Hoang Nguyen, Melinda Chang, Hieu Pham, Shrikanth Narayanan, Michael Pazzani
-
-Understanding the severity of conditions shown in images in medical diagnosis
-is crucial, serving as a key guide for clinical assessment, treatment, as well
-as evaluating longitudinal progression. This paper proposes Con- PrO: a novel
-representation learning method for severity assessment in medical images using
-Contrastive learningintegrated Preference Optimization. Different from
-conventional contrastive learning methods that maximize the distance between
-classes, ConPrO injects into the latent vector the distance preference
-knowledge between various severity classes and the normal class. We
-systematically examine the key components of our framework to illuminate how
-contrastive prediction tasks acquire valuable representations. We show that our
-representation learning framework offers valuable severity ordering in the
-feature space while outperforming previous state-of-the-art methods on
-classification tasks. We achieve a 6% and 20% relative improvement compared to
-a supervised and a self-supervised baseline, respectively. In addition, we
-derived discussions on severity indicators and related applications of
-preference comparison in the medical domain.
-
-摘要：了解醫療診斷影像中所呈現病情的嚴重程度，對於臨床評估、治療以及評估縱向進程至關重要，是關鍵指標。本文提出 Con- PrO：一種用於醫療影像嚴重程度評估的新穎表徵學習方法，採用對比學習整合偏好最佳化。與最大化類別間距離的傳統對比學習方法不同，ConPrO 將不同嚴重程度類別與正常類別之間的距離偏好知識注入潛在向量。我們系統性地檢驗了我們架構的關鍵組成部分，以說明對比預測任務如何獲取有價值的表徵。我們表明，我們的表徵學習架構在特徵空間中提供了有價值的嚴重程度排序，同時在分類任務上優於先前的最先進方法。與有監督和自監督基線相比，我們分別取得了 6% 和 20% 的相對進步。此外，我們針對嚴重程度指標和偏好比較在醫療領域的相關應用進行了探討。
-
-##### **Decoding Radiologists' Intentions: A Novel System for Accurate Region Identification in Chest X-ray Image Analysis**
-2404.18981v1 by Akash Awasthi, Safwan Ahmad, Bryant Le, Hien Van Nguyen
-
-In the realm of chest X-ray (CXR) image analysis, radiologists meticulously
-examine various regions, documenting their observations in reports. The
-prevalence of errors in CXR diagnoses, particularly among inexperienced
-radiologists and hospital residents, underscores the importance of
-understanding radiologists' intentions and the corresponding regions of
-interest. This understanding is crucial for correcting mistakes by guiding
-radiologists to the accurate regions of interest, especially in the diagnosis
-of chest radiograph abnormalities. In response to this imperative, we propose a
-novel system designed to identify the primary intentions articulated by
-radiologists in their reports and the corresponding regions of interest in CXR
-images. This system seeks to elucidate the visual context underlying
-radiologists' textual findings, with the potential to rectify errors made by
-less experienced practitioners and direct them to precise regions of interest.
-Importantly, the proposed system can be instrumental in providing constructive
-feedback to inexperienced radiologists or junior residents in the hospital,
-bridging the gap in face-to-face communication. The system represents a
-valuable tool for enhancing diagnostic accuracy and fostering continuous
-learning within the medical community.
-
-摘要：在胸部 X 光 (CXR) 影像分析領域，放射科醫師會仔細檢查各區域，並將觀察結果記錄在報告中。CXR 診斷錯誤的盛行率，特別是在經驗不足的放射科醫師和醫院住院醫師中，凸顯了了解放射科醫師意圖和對應關注區域的重要性。這種理解對於糾正錯誤至關重要，可引導放射科醫師關注準確的區域，特別是在胸部 X 光異常診斷中。為了回應這項當務之急，我們提出一個新系統，旨在識別放射科醫師在報告中表達的主要意圖和 CXR 影像中對應的關注區域。此系統旨在闡明放射科醫師文字發現背後的視覺脈絡，並有可能糾正經驗較少的從業人員所犯的錯誤，並引導他們關注精確的區域。重要的是，所提出的系統可以作為提供建設性回饋給經驗不足的放射科醫師或醫院初級住院醫師的工具，彌補面對面溝通的差距。該系統代表了一種有價值的工具，可用於提高診斷準確性，並在醫學界內促進持續學習。
-
-##### **Foundations of Multisensory Artificial Intelligence**
-2404.18976v1 by Paul Pu Liang
-
-Building multisensory AI systems that learn from multiple sensory inputs such
-as text, speech, video, real-world sensors, wearable devices, and medical data
-holds great promise for impact in many scientific areas with practical
-benefits, such as in supporting human health and well-being, enabling
-multimedia content processing, and enhancing real-world autonomous agents. By
-synthesizing a range of theoretical frameworks and application domains, this
-thesis aims to advance the machine learning foundations of multisensory AI. In
-the first part, we present a theoretical framework formalizing how modalities
-interact with each other to give rise to new information for a task. These
-interactions are the basic building blocks in all multimodal problems, and
-their quantification enables users to understand their multimodal datasets,
-design principled approaches to learn these interactions, and analyze whether
-their model has succeeded in learning. In the second part, we study the design
-of practical multimodal foundation models that generalize over many modalities
-and tasks, which presents a step toward grounding large language models to
-real-world sensory modalities. We introduce MultiBench, a unified large-scale
-benchmark across a wide range of modalities, tasks, and research areas,
-followed by the cross-modal attention and multimodal transformer architectures
-that now underpin many of today's multimodal foundation models. Scaling these
-architectures on MultiBench enables the creation of general-purpose
-multisensory AI systems, and we discuss our collaborative efforts in applying
-these models for real-world impact in affective computing, mental health,
-cancer prognosis, and robotics. Finally, we conclude this thesis by discussing
-how future work can leverage these ideas toward more general, interactive, and
-safe multisensory AI.
-
-摘要：<paragraph>建立多感知人工智慧系統，從多種感官輸入中學習，例如文字、語音、影片、真實世界的感測器、穿戴式裝置和醫療資料，對於在許多科學領域中產生影響力具有極大的希望，並具有實際效益，例如在支援人類健康和福祉、啟用多媒體內容處理和增強真實世界的自主代理方面。透過綜合一系列的理論架構和應用領域，本論文旨在推進多感知人工智慧的機器學習基礎。在第一部分，我們提出一個理論架構，將模態如何彼此互動以產生任務的新資訊形式化。這些互動是所有多模態問題中的基本建構模組，而它們的量化使用戶能夠了解其多模態資料集，設計原則化方法來學習這些互動，並分析其模型是否已成功學習。在第二部分，我們研究實用多模態基礎模型的設計，這些模型概括了許多模態和任務，這表示朝向將大型語言模型奠基於真實世界的感官模態邁進一步。我們介紹 MultiBench，一個統一的大規模基準，涵蓋各種模態、任務和研究領域，接著是跨模態注意力和多模態轉換器架構，這些架構現在支撐著當今許多多模態基礎模型。在 MultiBench 上擴充這些架構能夠建立通用多感官人工智慧系統，我們討論我們在應用這些模型以對情感運算、心理健康、癌症預後和機器人技術產生真實世界影響方面的合作努力。最後，我們透過討論未來的工作如何利用這些想法朝向更通用、互動且安全的感知人工智慧來總結本論文。</paragraph>
-
-##### **M3H: Multimodal Multitask Machine Learning for Healthcare**
-2404.18975v2 by Dimitris Bertsimas, Yu Ma
-
-Artificial intelligence holds promise to fundamentally enhance healthcare.
-Developing an integrated many-to-many framework leveraging multimodal data for
-multiple tasks is essential to unifying modern medicine. We introduce M3H, an
-explainable Multimodal Multitask Machine Learning for Healthcare framework that
-consolidates learning from tabular, time-series, language, and vision data for
-supervised binary/multiclass classification, regression, and unsupervised
-clustering. M3H encompasses an unprecedented range of medical tasks and problem
-domains and consistently outperforms traditional single-task models by on
-average 11.6% across 40 disease diagnoses from 16 medical departments, three
-hospital operation forecasts, and one patient phenotyping task. It features a
-novel attention mechanism balancing self-exploitation (learning source-task),
-and cross-exploration (learning cross-tasks), and offers explainability through
-a proposed TIM score, shedding light on the dynamics of task learning
-interdependencies. Its adaptable architecture supports easy customization and
-integration of new data modalities and tasks, establishing it as a robust,
-scalable solution for advancing AI-driven healthcare systems.
-
-摘要：人工智慧有望從根本上提升醫療保健。
-開發一個整合式多對多架構，利用多模態資料進行多重任務，對於統一現代醫學至關重要。我們介紹 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了表格、時間序列、語言和視覺資料的學習，用於監督式二元/多類別分類、回歸和非監督式聚類。M3H 涵蓋了前所未有的醫療任務和問題領域範圍，並且在 16 個醫療部門的 40 種疾病診斷、三個醫院運營預測和一個患者表型任務中，平均比傳統的單一任務模型高出 11.6%。它的特點是新穎的注意力機制，平衡了自我開發（學習來源任務）和跨探索（學習跨任務），並通過提議的 TIM 分數提供可解釋性，闡明了任務學習相互依賴的動態。其適應性架構支援輕鬆自訂和整合新的資料模式和任務，使其成為推動 AI 驅動醫療保健系統的強大、可擴充的解決方案。
-
-##### **Real Time Multi Organ Classification on Computed Tomography Images**
-2404.18731v1 by Halid Ziya Yerebakan, Yoshihisa Shinagawa, Gerardo Hermosillo Valadez
-
-Organ segmentation is a fundamental task in medical imaging, and it is useful
-for many clinical automation pipelines. Typically, the process involves
-segmenting the entire volume, which can be unnecessary when the points of
-interest are limited. In those cases, a classifier could be used instead of
-segmentation. However, there is an inherent trade-off between the context size
-and the speed of classifiers. To address this issue, we propose a new method
-that employs a data selection strategy with sparse sampling across a wide field
-of view without image resampling. This sparse sampling strategy makes it
-possible to classify voxels into multiple organs in real time without using
-accelerators. Although our method is an independent classifier, it can generate
-full segmentation by querying grid locations at any resolution. We have
-compared our method with existing segmentation techniques, demonstrating its
-potential for superior runtime in practical applications in medical imaging.
-
-摘要：器官分割是醫學影像的基本任務，對於許多臨床自動化管道很有用。通常，此程序包括分割整個體積，當感興趣的點有限時，這可能是沒有必要的。在這些情況下，可以使用分類器代替分割。但是，分類器的大小和速度之間存在固有的權衡。為了解決這個問題，我們提出了一種新方法，該方法採用了在整個視野中採用稀疏採樣的數據選擇策略，而無需圖像重新採樣。這種稀疏採樣策略使得可以將體素分類為多個器官，而無需使用加速器。儘管我們的分類器是一個獨立的分類器，但它可以通過查詢任何解析度下的網格位置來生成完整的分割。我們已將我們的分類器與現有的分割技術進行了比較，證明了其在醫學影像實際應用中具有更佳運行時間的潛力。
-
-##### **Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**
-2405.01591v1 by Seonhee Cho, Choonghan Kim, Jiho Lee, Chetan Chilkunda, Sujin Choi, Joo Heung Yoon
-
-Recent advancements in Large Multimodal Models (LMMs) have attracted interest
-in their generalization capability with only a few samples in the prompt. This
-progress is particularly relevant to the medical domain, where the quality and
-sensitivity of data pose unique challenges for model training and application.
-However, the dependency on high-quality data for effective in-context learning
-raises questions about the feasibility of these models when encountering with
-the inevitable variations and errors inherent in real-world medical data. In
-this paper, we introduce MID-M, a novel framework that leverages the in-context
-learning capabilities of a general-domain Large Language Model (LLM) to process
-multimodal data via image descriptions. MID-M achieves a comparable or superior
-performance to task-specific fine-tuned LMMs and other general-domain ones,
-without the extensive domain-specific training or pre-training on multimodal
-data, with significantly fewer parameters. This highlights the potential of
-leveraging general-domain LLMs for domain-specific tasks and offers a
-sustainable and cost-effective alternative to traditional LMM developments.
-Moreover, the robustness of MID-M against data quality issues demonstrates its
-practical utility in real-world medical domain applications.
-
-摘要：大型多模態模型 (LMM) 的最新進展吸引了人們的興趣，因為它們在提示中只有少數範例就能產生概括能力。這個進展與醫療領域特別相關，在醫療領域中，資料的品質和敏感性對模型訓練和應用構成了獨特的挑戰。然而，依賴於高品質資料才能有效進行脈絡中學習，這引發了在遇到真實世界醫療資料中固有的不可避免的變異和錯誤時，這些模型的可行性問題。在本文中，我們介紹了 MID-M，這是一個新穎的框架，它利用一般領域大型語言模型 (LLM) 的脈絡中學習能力，透過影像描述處理多模態資料。MID-M 達到了與任務特定微調 LMM 和其他一般領域 LMM 相當或更優異的效能，而且無需廣泛的領域特定訓練或多模態資料預訓練，且參數顯著減少。這突顯了利用一般領域 LLM 進行領域特定任務的潛力，並為傳統 LMM 開發提供了永續且具成本效益的替代方案。此外，MID-M 對資料品質問題的穩健性證明了它在真實世界醫療領域應用中的實用性。
 

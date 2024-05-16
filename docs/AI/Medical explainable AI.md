@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
-|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v2](http://arxiv.org/abs/2405.06270v2)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
 |**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v2](http://arxiv.org/abs/2404.18975v2)|null|
@@ -124,7 +124,7 @@ of the participants.
 摘要：隨著醫療保健系統的數位化，人工智慧在醫學領域中變得更加普及。特別是機器學習在時間序列分類等複雜任務中展現出極大的潛力，但通常是以透明度和可理解性為代價。這導致人類缺乏信任，從而阻礙了其積極使用。可解釋的人工智慧試圖通過提供對決策過程的洞察來彌補這一差距，但其不同方法的實際效用尚不清楚。本文提出了一個基於使用者研究的評估，其中包含了 Grad-CAM 解釋方法，並將其應用於神經網路以分類時間序列新生兒呼吸數據中的呼吸。我們展示了不同利益相關者對可解釋性方法的感知效用，揭示了實現實際透明度的難度，以及許多參與者希望獲得更深入的解釋。
 
 ##### **XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**
-2405.06270v1 by Fatemeh Nazary, Yashar Deldjoo, Tommaso Di Noia, Eugenio di Sciascio
+2405.06270v2 by Fatemeh Nazary, Yashar Deldjoo, Tommaso Di Noia, Eugenio di Sciascio
 
 The integration of Large Language Models (LLMs) into healthcare diagnostics
 offers a promising avenue for clinical decision-making. This study outlines the
@@ -133,23 +133,26 @@ by integrating medical domain knowledge using a multi-layered structured
 prompt. We also explore the efficacy of two communication styles between the
 user and LLMs: the Numerical Conversational (NC) style, which processes data
 incrementally, and the Natural Language Single-Turn (NL-ST) style, which
-employs long narrative prompts. Our study systematically evaluates the
-diagnostic accuracy and risk factors, including gender bias and false negative
-rates, using a dataset of 920 patient records in various few-shot scenarios.
-Results indicate that traditional clinical machine learning (ML) models
-generally outperform LLMs in zero-shot and few-shot settings. However, the
-performance gap narrows significantly when employing few-shot examples
-alongside effective explainable AI (XAI) methods as sources of domain
-knowledge. Moreover, with sufficient time and an increased number of examples,
-the conversational style (NC) nearly matches the performance of ML models. Most
-notably, LLMs demonstrate comparable or superior cost-sensitive accuracy
-relative to ML models. This research confirms that, with appropriate domain
-knowledge and tailored communication strategies, LLMs can significantly enhance
-diagnostic processes. The findings highlight the importance of optimizing the
-number of training examples and communication styles to improve accuracy and
-reduce biases in LLM applications.
+employs long narrative prompts.
+  Our study systematically evaluates the diagnostic accuracy and risk factors,
+including gender bias and false negative rates, using a dataset of 920 patient
+records in various few-shot scenarios. Results indicate that traditional
+clinical machine learning (ML) models generally outperform LLMs in zero-shot
+and few-shot settings. However, the performance gap narrows significantly when
+employing few-shot examples alongside effective explainable AI (XAI) methods as
+sources of domain knowledge. Moreover, with sufficient time and an increased
+number of examples, the conversational style (NC) nearly matches the
+performance of ML models. Most notably, LLMs demonstrate comparable or superior
+cost-sensitive accuracy relative to ML models.
+  This research confirms that, with appropriate domain knowledge and tailored
+communication strategies, LLMs can significantly enhance diagnostic processes.
+The findings highlight the importance of optimizing the number of training
+examples and communication styles to improve accuracy and reduce biases in LLM
+applications.
 
-摘要：大型語言模型 (LLM) 整合到醫療診斷中，為臨床決策制定提供了有前景的方法。本研究概述了一種通過使用多層結構提示整合醫學領域知識來進行零次學習/少次學習情境學習 (ICL) 的新方法的開發。我們還探討了使用者與 LLM 之間兩種溝通方式的效能：以增量方式處理資料的數值對話 (NC) 方式，以及採用長篇敘事提示的自然語言單輪 (NL-ST) 方式。我們的研究系統性地評估了診斷準確性和風險因素，包括性別偏見和假陰性率，並使用 920 個患者記錄的資料集在各種少次學習情境中進行評估。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和少次學習設定中優於 LLM。然而，當採用少次學習範例以及有效的可解釋 AI (XAI) 方法作為領域知識來源時，效能差距會顯著縮小。此外，在有充足的時間和增加範例數量的情況下，對話方式 (NC) 幾乎可以與 ML 模型的效能相匹配。最值得注意的是，LLM 相對於 ML 模型展現出可比或優越的成本敏感度準確性。這項研究證實，透過適當的領域知識和量身打造的溝通策略，LLM 可以顯著增強診斷程序。這些發現強調了最佳化訓練範例數量和溝通方式以提高準確性並減少 LLM 應用中偏見的重要性。
+摘要：<paragraph>將大型語言模型 (LLM) 整合到醫療診斷中，為臨床決策提供了有前途的途徑。本研究概述了一種新穎方法的開發，用於零次學習/小樣本學習中的情境學習 (ICL)，方法是使用多層結構提示整合醫療領域知識。我們還探索了使用者和 LLM 之間兩種溝通方式的功效：數值對話 (NC) 方式，它會逐步處理資料，以及自然語言單回合 (NL-ST) 方式，它會採用長篇敘事提示。
+我們的研究系統性地評估了診斷準確性和風險因子，包括性別偏見和假陰性率，使用包含 920 個患者記錄的資料集，採用各種小樣本學習場景。結果表明，傳統的臨床機器學習 (ML) 模型通常在零次學習和小樣本學習設定中優於 LLM。然而，當將小樣本學習範例與有效的可解釋 AI (XAI) 方法一起用作領域知識來源時，效能差距會顯著縮小。此外，在有充足時間和範例數量增加的情況下，對話方式 (NC) 幾乎可以達到 ML 模型的效能。最值得注意的是，與 ML 模型相比，LLM 表現出可比較的或優越的成本敏感準確度。
+本研究證實，透過適當的領域知識和量身打造的溝通策略，LLM 可以顯著增強診斷程序。研究結果強調了最佳化訓練範例數量和溝通方式以提高準確度和減少 LLM 應用中的偏見的重要性。</paragraph>
 
 ##### **To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**
 2405.05766v1 by Miquel Miró-Nicolau, Gabriel Moyà-Alcover, Antoni Jaume-i-Capó, Manuel González-Hidalgo, Maria Gemma Sempere Campello, Juan Antonio Palmer Sancho

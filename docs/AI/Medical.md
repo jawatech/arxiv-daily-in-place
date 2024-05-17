@@ -28,7 +28,7 @@
 |**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411v1](http://arxiv.org/abs/2405.07411v1)|null|
 |**2024-05-13**|**Indoor PM2.5 forecasting and the association with outdoor air pollution: a modelling study based on sensor data in Australia**|Wenhua Yu et.al.|[2405.07404v1](http://arxiv.org/abs/2405.07404v1)|null|
 |**2024-05-12**|**HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**|Ali Gharizadeh et.al.|[2405.08031v1](http://arxiv.org/abs/2405.08031v1)|null|
-|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925v1](http://arxiv.org/abs/2405.06925v1)|null|
+|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference for Sensor Signals**|Xiangwei Chen et.al.|[2405.06925v2](http://arxiv.org/abs/2405.06925v2)|null|
 |**2024-05-11**|**Reimplementation of Learning to Reweight Examples for Robust Deep Learning**|Parth Patil et.al.|[2405.06859v1](http://arxiv.org/abs/2405.06859v1)|null|
 |**2024-05-10**|**MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection and Distillation for Medical Data Analysis**|Luyuan Xie et.al.|[2405.06822v1](http://arxiv.org/abs/2405.06822v1)|null|
 |**2024-05-10**|**Summarizing Radiology Reports Findings into Impressions**|Raul Salles de Padua et.al.|[2405.06802v1](http://arxiv.org/abs/2405.06802v1)|null|
@@ -765,37 +765,36 @@ inter-relations.
 
 摘要：<paragraph>動機：藥物再利用是減少藥物開發時間和成本的可行解決方案。然而，到目前為止，所提出的藥物再利用方法仍需要符合預期。因此，提供一種系統性的藥物再利用方法以實現節省成本和改善人類生活至關重要。近年來，使用基於生物網路的方法進行藥物再利用已產生了有希望的結果。儘管如此，這些方法仍有局限性。首先，這些方法的範圍通常受到它們可以有效處理的數據量和種類的限制。另一個問題來自異質數據的處理，需要解決或轉換為同質數據，從而導致信息丟失。一個重大的缺點是，這些方法大多缺乏端到端的功能，需要在某些階段進行手動實施和專家知識。結果：我們提出了一個新的解決方案，HGTDR（異質圖形轉換器，用於藥物再利用），以應對與藥物再利用相關的挑戰。HGTDR 是一種基於知識圖形的三步驟藥物再利用方法：1）構建一個異質知識圖形，2）利用異質圖形轉換器網路，以及 3）使用全連接網路計算關係分數。通過利用 HGTDR，用戶可以獲得操縱輸入圖形、從不同實體中提取信息以及獲得所需輸出的能力。在評估步驟中，我們證明了 HGTDR 的表現與以前的方法相當。此外，我們回顧了醫學研究以驗證我們的方法的前十種藥物再利用建議，這些建議已經顯示出有希望的結果。我們還通過數值和實驗驗證證明了 HGTDR 預測其他類型關係的能力，例如藥物-蛋白質和疾病-蛋白質相互關係。</paragraph>
 
-##### **Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**
-2405.06925v1 by Xiangwei Chen, Ruliang Xiaoa, Zhixia Zeng, Zhipeng Qiu, Shi Zhang, Xin Du
+##### **Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference for Sensor Signals**
+2405.06925v2 by Xiangwei Chen, Ruliang Xiaoa, Zhixia Zeng, Zhipeng Qiu, Shi Zhang, Xin Du
 
-Semi-supervised anomaly detection for guaranteeing the reliability of
-intelligent systems has received increasing attention. However, existing
-methods rely too much on data correlation and neglect causality, which can be
-misleading due to confounding factors and affect system reliability.
-Additionally, the current reinforcement learning anomaly detection methods can
-effectively identify known and unknown anomalies in environments with limited
-labeled samples. Despite its effectiveness, these methods still face several
+Semi-supervised anomaly detection for sensor signals is critical in ensuring
+system reliability in smart manufacturing. However, existing methods rely
+heavily on data correlation, neglecting causality and leading to potential
+misinterpretations due to confounding factors. Moreover, while current
+reinforcement learning-based methods can effectively identify known and unknown
+anomalies with limited labeled samples, these methods still face several
 challenges, such as under-utilization of priori knowledge, lack of model
-flexibility, and insufficient reward feedback when interacting with the
-environment. To address the above problems, this paper innovatively constructs
-a counterfactual causal reinforcement learning model, termed Triple-Assisted
-Causal Reinforcement Learning Anomaly Detector (Tri-CRLAD). The model utilizes
-the causal inference mechanism to radically improve the performance of
-semi-supervised models and enhance the model's ability to uncover anomaly data
-in the face of unknown or rare data. In addition, Tri-CRLAD features a triple
-decision support mechanism, namely, a sampling strategy based on historical
-similarity, an adaptive threshold smoothing adjustment strategy, and an
-adaptive decision reward mechanism. These mechanisms further enhance the
-flexibility and generalization ability of the model, enabling it to effectively
-respond to various complex and dynamically changing environments. Finally,
-Tri-CRLAD matches or exceeds the performance of 9 baseline methods across 7
-diverse intelligent system datasets, including satellite systems, medical
-systems, and health systems. Moreover, anomaly detection stability was
-significantly improved by up to 23\% with an extremely small number of known
-anomaly samples. Our code is available at
-https://github.com/Aoudsung/Tri-CRLAD/
+flexibility, and deficient reward feedback during environmental interactions.
+To address the above problems, this paper innovatively constructs a
+counterfactual causal reinforcement learning model, termed Triple-Assisted
+Causal Reinforcement Learning Anomaly Detector (Tri-CRLAD). The model leverages
+causal inference to extract the intrinsic causal feature in data, enhancing the
+agent's utilization of prior knowledge and improving its generalization
+capability. In addition, Tri-CRLAD features a triple decision support
+mechanism, including a sampling strategy based on historical similarity, an
+adaptive threshold smoothing adjustment strategy, and an adaptive decision
+reward mechanism. These mechanisms further enhance the flexibility and
+generalization ability of the model, enabling it to effectively respond to
+various complex and dynamically changing environments. Experimental results
+across seven diverse sensor signal datasets demonstrate that Tri-CRLAD
+outperforms nine state-of-the-art baseline methods. Notably, Tri-CRLAD achieves
+up to a 23\% improvement in anomaly detection stability with minimal known
+anomaly samples, highlighting its potential in semi-supervised anomaly
+detection scenarios. Our code is available at
+https://github.com/Aoudsung/Tri-CRLAD.
 
-摘要：<paragraph>半监督异常检测用于保证智能系统的可靠性，已受到越来越多的关注。然而，现有的方法过于依赖数据相关性，而忽略因果关系，这可能会因混杂因素而产生误导，并影响系统可靠性。此外，当前的强化学习异常检测方法可以在标记样本有限的环境中有效识别已知和未知的异常。尽管这些方法很有效，但仍然面临着一些挑战，例如先验知识利用不足、模型灵活性不足以及与环境交互时奖励反馈不足。为了解决上述问题，本文创新性地构建了一个反事实因果强化学习模型，称为三辅助因果强化学习异常检测器（Tri-CRLAD）。该模型利用因果推理机制从根本上提高了半监督模型的性能，并增强了模型在面对未知或稀有数据时发现异常数据的能力。此外，Tri-CRLAD 具有三重决策支持机制，即基于历史相似性的采样策略、自适应阈值平滑调整策略和自适应决策奖励机制。这些机制进一步增强了模型的灵活性和泛化能力，使其能够有效应对各种复杂且动态变化的环境。最后，Tri-CRLAD 在 7 个不同的智能系统数据集（包括卫星系统、医疗系统和健康系统）中匹配或超过了 9 种基线方法的性能。此外，异常检测稳定性在已知异常样本极少的情况下显着提高了 23%。我们的代码可在 https://github.com/Aoudsung/Tri-CRLAD/ 获得</paragraph>
+摘要：半監督感測器訊號異常偵測對於確保智慧製造的系統可靠性至關重要。然而，現有方法過度依賴資料關聯性，忽略因果關係，並導致因混雜因素而潛在誤解。此外，雖然當前的基於強化學習的方法可以有效識別已知和未知異常，且標籤樣本有限，但這些方法仍面臨多項挑戰，例如事前知識利用不足、模型彈性不足，以及環境互動期間的回饋獎勵不足。為了解決上述問題，本文創新地建構了一個反事實因果強化學習模型，稱為三元輔助因果強化學習異常偵測器 (Tri-CRLAD)。該模型利用因果推論來提取資料中的內在因果特徵，增強代理程式利用先驗知識並改善其泛化能力。此外，Tri-CRLAD 具備三元決策支援機制，包括基於歷史相似性的抽樣策略、自適應閾值平滑調整策略和自適應決策回饋機制。這些機制進一步增強了模型的靈活性與泛化能力，使其能夠有效應對各種複雜且動態變化的環境。在七個不同的感測器訊號資料集上的實驗結果表明，Tri-CRLAD 優於九種最先進的基準方法。值得注意的是，Tri-CRLAD 在異常樣本已知的最小值下，異常偵測穩定性提升了 23%，突顯了其在半監督異常偵測場景中的潛力。我們的程式碼可在 https://github.com/Aoudsung/Tri-CRLAD 取得。
 
 ##### **Reimplementation of Learning to Reweight Examples for Robust Deep Learning**
 2405.06859v1 by Parth Patil, Ben Boardley, Jack Gardner, Emily Loiselle, Deerajkumar Parthipan

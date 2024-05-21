@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035v1](http://arxiv.org/abs/2405.12035v1)|null|
+|**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928v1](http://arxiv.org/abs/2405.11928v1)|null|
+|**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745v1](http://arxiv.org/abs/2405.10745v1)|null|
 |**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492v1](http://arxiv.org/abs/2405.10492v1)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[link](https://github.com/jingkang50/psg4d)|
@@ -99,11 +102,81 @@
 |**2024-04-08**|**Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models**|Wolfgang Otto et.al.|[2404.05587v2](http://arxiv.org/abs/2404.05587v2)|null|
 |**2024-04-08**|**Evaluating Interventional Reasoning Capabilities of Large Language Models**|Tejas Kasetty et.al.|[2404.05545v1](http://arxiv.org/abs/2404.05545v1)|null|
 |**2024-04-06**|**MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems**|Bin Lei et.al.|[2404.04735v1](http://arxiv.org/abs/2404.04735v1)|[link](https://github.com/bin123apple/macm)|
-|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|[link](https://github.com/michaelsaxon/T2IScoreScore)|
-|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868v1](http://arxiv.org/abs/2404.03868v1)|null|
-|**2024-04-04**|**Standardizing Knowledge Engineering Practices with a Reference Architecture**|Bradley P. Allen et.al.|[2404.03624v1](http://arxiv.org/abs/2404.03624v1)|null|
 
 #### Abstracts
+##### **KG-RAG: Bridging the Gap Between Knowledge and Creativity**
+2405.12035v1 by Diego Sanmartin
+
+Ensuring factual accuracy while maintaining the creative capabilities of
+Large Language Model Agents (LMAs) poses significant challenges in the
+development of intelligent agent systems. LMAs face prevalent issues such as
+information hallucinations, catastrophic forgetting, and limitations in
+processing long contexts when dealing with knowledge-intensive tasks. This
+paper introduces a KG-RAG (Knowledge Graph-Retrieval Augmented Generation)
+pipeline, a novel framework designed to enhance the knowledge capabilities of
+LMAs by integrating structured Knowledge Graphs (KGs) with the functionalities
+of LLMs, thereby significantly reducing the reliance on the latent knowledge of
+LLMs. The KG-RAG pipeline constructs a KG from unstructured text and then
+performs information retrieval over the newly created graph to perform KGQA
+(Knowledge Graph Question Answering). The retrieval methodology leverages a
+novel algorithm called Chain of Explorations (CoE) which benefits from LLMs
+reasoning to explore nodes and relationships within the KG sequentially.
+Preliminary experiments on the ComplexWebQuestions dataset demonstrate notable
+improvements in the reduction of hallucinated content and suggest a promising
+path toward developing intelligent systems adept at handling
+knowledge-intensive tasks.
+
+摘要：在確保事實準確性的同時，保持大型語言模型代理（LMA）的創建能力，對智慧型代理系統的開發構成了重大的挑戰。LMA 面臨普遍的問題，例如資訊幻覺、災難性遺忘，以及在處理知識密集型任務時處理長脈絡的限制。本文介紹了 KG-RAG（知識圖譜檢索增強生成）管道，這是一個新穎的框架，旨在透過將結構化的知識圖譜（KG）與 LLM 的功能整合在一起，來增強 LMA 的知識能力，從而顯著減少對 LLM 潛在知識的依賴。KG-RAG 管道從非結構化文字中建構一個 KG，然後對新建立的圖譜執行資訊檢索，以執行 KGQA（知識圖譜問答）。檢索方法利用了一種稱為探索鏈（CoE）的新演算法，該演算法受益於 LLM 推理，以循序探索 KG 中的節點和關係。在 ComplexWebQuestions 資料集上的初步實驗證明了在減少幻覺內容方面有顯著的改進，並暗示了一條有希望的道路，朝著開發擅長處理知識密集型任務的智慧型系統邁進。
+
+##### **"Set It Up!": Functional Object Arrangement with Compositional Generative Models**
+2405.11928v1 by Yiqing Xu, Jiayuan Mao, Yilun Du, Tomas Lozáno-Pérez, Leslie Pack Kaebling, David Hsu
+
+This paper studies the challenge of developing robots capable of
+understanding under-specified instructions for creating functional object
+arrangements, such as "set up a dining table for two"; previous arrangement
+approaches have focused on much more explicit instructions, such as "put object
+A on the table." We introduce a framework, SetItUp, for learning to interpret
+under-specified instructions. SetItUp takes a small number of training examples
+and a human-crafted program sketch to uncover arrangement rules for specific
+scene types. By leveraging an intermediate graph-like representation of
+abstract spatial relationships among objects, SetItUp decomposes the
+arrangement problem into two subproblems: i) learning the arrangement patterns
+from limited data and ii) grounding these abstract relationships into object
+poses. SetItUp leverages large language models (LLMs) to propose the abstract
+spatial relationships among objects in novel scenes as the constraints to be
+satisfied; then, it composes a library of diffusion models associated with
+these abstract relationships to find object poses that satisfy the constraints.
+We validate our framework on a dataset comprising study desks, dining tables,
+and coffee tables, with the results showing superior performance in generating
+physically plausible, functional, and aesthetically pleasing object
+arrangements compared to existing models.
+
+摘要：這篇論文探討了開發機器人的挑戰，這些機器人能夠理解未明確規定的指示，以建立功能性的物件排列，例如「為兩個人擺好餐桌」；先前的排列方法著重於更明確的指示，例如「將物件 A 放在桌上」。我們引進一個架構 SetItUp，用於學習詮釋未明確規定的指示。SetItUp 採用少數訓練範例和人類製作的程式草圖，以找出特定場景類型的排列規則。透過利用物件之間抽象空間關係的中間圖形化表示，SetItUp 將排列問題分解成兩個子問題：i) 從有限資料中學習排列模式，以及 ii) 將這些抽象關係基礎化為物件姿勢。SetItUp 利用大型語言模型 (LLM) 來提出新場景中物件之間的抽象空間關係，作為要滿足的約束；然後，它編寫一個與這些抽象關係相關的擴散模型庫，以找出滿足約束的物件姿勢。我們在包含書桌、餐桌和咖啡桌的資料集上驗證我們的架構，結果顯示在產生物理上合理、功能性和美觀的物件排列方面，與現有模型相比具有優異的效能。
+
+##### **Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**
+2405.11706v1 by Dean Allemang, Juan Sequeda
+
+There is increasing evidence that question-answering (QA) systems with Large
+Language Models (LLMs), which employ a knowledge graph/semantic representation
+of an enterprise SQL database (i.e. Text-to-SPARQL), achieve higher accuracy
+compared to systems that answer questions directly on SQL databases (i.e.
+Text-to-SQL). Our previous benchmark research showed that by using a knowledge
+graph, the accuracy improved from 16% to 54%. The question remains: how can we
+further improve the accuracy and reduce the error rate? Building on the
+observations of our previous research where the inaccurate LLM-generated SPARQL
+queries followed incorrect paths, we present an approach that consists of 1)
+Ontology-based Query Check (OBQC): detects errors by leveraging the ontology of
+the knowledge graph to check if the LLM-generated SPARQL query matches the
+semantic of ontology and 2) LLM Repair: use the error explanations with an LLM
+to repair the SPARQL query. Using the chat with the data benchmark, our primary
+finding is that our approach increases the overall accuracy to 72% including an
+additional 8% of "I don't know" unknown results. Thus, the overall error rate
+is 20%. These results provide further evidence that investing knowledge graphs,
+namely the ontology, provides higher accuracy for LLM powered question
+answering systems.
+
+摘要：有越來越多的證據顯示，使用大型語言模型 (LLM) 的問答 (QA) 系統，它採用企業 SQL 資料庫的知識圖譜/語義表示（即 Text-to-SPARQL），與直接在 SQL 資料庫上回答問題的系統（即 Text-to-SQL）相比，能達到更高的準確度。我們先前的基準研究顯示，透過使用知識圖譜，準確度從 16% 提升至 54%。問題仍然存在：我們如何進一步提升準確度並降低錯誤率？根據我們先前研究的觀察，其中不準確的 LLM 生成的 SPARQL 查詢遵循不正確的路徑，我們提出了一種方法，其中包含 1) 基於本体的查詢檢查 (OBQC)：利用知識圖譜的本体來檢查 LLM 生成的 SPARQL 查詢是否符合本体的語義，從而偵測錯誤，以及 2) LLM 修復：使用帶有 LLM 的錯誤說明來修復 SPARQL 查詢。使用與資料基準的聊天，我們的初步發現是，我們的做法將整體準確度提升至 72%，包括額外的 8% 的「我不知道」未知結果。因此，整體錯誤率為 20%。這些結果進一步證明投資知識圖譜，即本体，能為 LLM 驅動的問答系統提供更高的準確度。
+
 ##### **Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**
 2405.10745v1 by Albert Sawczyn, Jakub Binkowski, Piotr Bielak, Tomasz Kajdanowicz
 
@@ -2441,85 +2514,4 @@ $\mathbf{54.68\%} \text{ to } \mathbf{76.73\%}$. The code is available in
 \url{https://github.com/bin123apple/MACM}.
 
 摘要：<paragraph>大型語言模型的最新進展，例如 GPT-4，已在處理標準查詢方面展示出非凡的能力。儘管有這些進展，它們的性能在**需要複雜、多步驟邏輯推理的高級數學問題**中大幅下降。為了增強它們的推理能力，目前的研究已深入探討**提示工程**，以樹狀思想和思想圖等方法為例。儘管如此，這些現有方法遇到了兩個重大的限制。首先，它們在解決複雜數學問題方面的有效性受到一些約束。其次，必須為個別問題設計不同的提示，這阻礙了它們的概括性。為了應對這些限制，本文介紹了**條件挖掘的多代理系統**（**MACM**）提示方法。它不僅解決了複雜的數學問題，還展示了跨各種數學背景的強大的概括能力。在 MACM 的幫助下，GPT-4 Turbo 在 MATH 資料集中最具挑戰性的五級數學問題上的準確率從**54.68%**提高到**76.73%**。程式碼可在\url{https://github.com/bin123apple/MACM}中獲得。</paragraph>
-
-##### **Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**
-2404.04251v1 by Michael Saxon, Fatima Jahara, Mahsa Khoshnoodi, Yujie Lu, Aditya Sharma, William Yang Wang
-
-With advances in the quality of text-to-image (T2I) models has come interest
-in benchmarking their prompt faithfulness-the semantic coherence of generated
-images to the prompts they were conditioned on. A variety of T2I faithfulness
-metrics have been proposed, leveraging advances in cross-modal embeddings and
-vision-language models (VLMs). However, these metrics are not rigorously
-compared and benchmarked, instead presented against few weak baselines by
-correlation to human Likert scores over a set of easy-to-discriminate images.
-  We introduce T2IScoreScore (TS2), a curated set of semantic error graphs
-containing a prompt and a set increasingly erroneous images. These allow us to
-rigorously judge whether a given prompt faithfulness metric can correctly order
-images with respect to their objective error count and significantly
-discriminate between different error nodes, using meta-metric scores derived
-from established statistical tests. Surprisingly, we find that the
-state-of-the-art VLM-based metrics (e.g., TIFA, DSG, LLMScore, VIEScore) we
-tested fail to significantly outperform simple feature-based metrics like
-CLIPScore, particularly on a hard subset of naturally-occurring T2I model
-errors. TS2 will enable the development of better T2I prompt faithfulness
-metrics through more rigorous comparison of their conformity to expected
-orderings and separations under objective criteria.
-
-摘要：隨著文字轉影像 (T2I) 模型品質的進步，人們開始對基準測試其提示忠實度感興趣，也就是產生的影像與其所根據的提示在語意上的連貫性。已經提出了各種 T2I 忠實度指標，利用跨模態嵌入和視覺語言模型 (VLM) 的進展。然而，這些指標並未經過嚴謹的比較和基準測試，而是透過與人類李克特量表分數在容易區分的影像集上的關聯性，與少數薄弱的基準線進行比較。我們引入了 T2IScoreScore (TS2)，這是一個經過整理的語意錯誤圖表集，其中包含一個提示和一組越來越錯誤的影像。這些圖表讓我們能夠嚴格判斷給定的提示忠實度指標是否能正確地根據客觀錯誤計數對影像進行排序，並使用源自既定統計檢定的元指標分數，在不同的錯誤節點之間進行顯著區分。令人驚訝的是，我們發現我們測試的基於 VLM 的最先進指標（例如 TIFA、DSG、LLMScore、VIEScore）無法顯著優於基於簡單特徵的指標，例如 CLIPScore，特別是在自然發生的 T2I 模型錯誤的困難子集中。TS2 將能夠透過更嚴格地比較其在客觀標準下符合預期的排序和分離，來開發出更好的 T2I 提示忠實度指標。
-
-##### **Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**
-2404.03868v1 by Bowen Zhang, Harold Soh
-
-In this work, we are interested in automated methods for knowledge graph
-creation (KGC) from input text. Progress on large language models (LLMs) has
-prompted a series of recent works applying them to KGC, e.g., via zero/few-shot
-prompting. Despite successes on small domain-specific datasets, these models
-face difficulties scaling up to text common in many real-world applications. A
-principal issue is that in prior methods, the KG schema has to be included in
-the LLM prompt to generate valid triplets; larger and more complex schema
-easily exceed the LLMs' context window length. To address this problem, we
-propose a three-phase framework named Extract-Define-Canonicalize (EDC): open
-information extraction followed by schema definition and post-hoc
-canonicalization. EDC is flexible in that it can be applied to settings where a
-pre-defined target schema is available and when it is not; in the latter case,
-it constructs a schema automatically and applies self-canonicalization. To
-further improve performance, we introduce a trained component that retrieves
-schema elements relevant to the input text; this improves the LLMs' extraction
-performance in a retrieval-augmented generation-like manner. We demonstrate on
-three KGC benchmarks that EDC is able to extract high-quality triplets without
-any parameter tuning and with significantly larger schemas compared to prior
-works.
-
-摘要：在這項工作中，我們有興趣建立從輸入文本中建立知識圖譜 (KGC) 的自動化方法。大型語言模型 (LLM) 的進展促使一系列近期研究將其應用於 KGC，例如透過零次/少次提示。儘管在小規模特定領域的資料集上獲得成功，這些模型在擴展到許多實際應用中常見的文本時會遇到困難。主要問題在於，在先前的模型中，KG 架構必須包含在 LLM 提示中才能產生有效的 triplets；較大且較複雜的架構很容易超過 LLM 的內容視窗長度。為了解決這個問題，我們提出了一個稱為 Extract-Define-Canonicalize (EDC) 的三階段架構：開放資訊萃取，接著是架構定義和事後標準化。EDC 的靈活性在於它可以應用於有預先定義的目標架構和沒有目標架構的設定中；在後者的情況下，它會自動建構一個架構並套用自我標準化。為了進一步提升效能，我們引入一個訓練好的元件，用來擷取與輸入文本相關的架構元素；這以類似於擷取增強生成的方式提升了 LLM 的萃取效能。我們在三個 KGC 基準上展示了 EDC 能夠在沒有任何參數調整的情況下萃取出高品質的 triplets，並且與先前的研究相比，架構也大幅增加。
-
-##### **Standardizing Knowledge Engineering Practices with a Reference Architecture**
-2404.03624v1 by Bradley P. Allen, Filip Ilievski
-
-Knowledge engineering is the process of creating and maintaining
-knowledge-producing systems. Throughout the history of computer science and AI,
-knowledge engineering workflows have been widely used given the importance of
-high-quality knowledge for reliable intelligent agents. Meanwhile, the scope of
-knowledge engineering, as apparent from its target tasks and use cases, has
-been shifting, together with its paradigms such as expert systems, semantic
-web, and language modeling. The intended use cases and supported user
-requirements between these paradigms have not been analyzed globally, as new
-paradigms often satisfy prior pain points while possibly introducing new ones.
-The recent abstraction of systemic patterns into a boxology provides an opening
-for aligning the requirements and use cases of knowledge engineering with the
-systems, components, and software that can satisfy them best. This paper
-proposes a vision of harmonizing the best practices in the field of knowledge
-engineering by leveraging the software engineering methodology of creating
-reference architectures. We describe how a reference architecture can be
-iteratively designed and implemented to associate user needs with recurring
-systemic patterns, building on top of existing knowledge engineering workflows
-and boxologies. We provide a six-step roadmap that can enable the development
-of such an architecture, providing an initial design and outcome of the
-definition of architectural scope, selection of information sources, and
-analysis. We expect that following through on this vision will lead to
-well-grounded reference architectures for knowledge engineering, will advance
-the ongoing initiatives of organizing the neurosymbolic knowledge engineering
-space, and will build new links to the software architectures and data science
-communities.
-
-摘要：知識工程是建立並維護知識產生系統的過程。在電腦科學和人工智慧的歷史中，由於高品質知識對於可靠的智慧代理人而言十分重要，因此知識工程工作流程被廣泛使用。同時，知識工程的範圍，從其目標任務和使用案例中顯而易見，隨著其典範（例如專家系統、語意網路和語言建模）而有所轉變。這些典範之間的預期使用案例和支援的使用者需求尚未經過全面分析，因為新的典範通常會滿足先前的痛點，同時可能引入新的痛點。最近將系統性模式抽象化為盒學，為調整知識工程的需求和使用案例與最能滿足它們的系統、組件和軟體提供了契機。本文提出了一個願景，即透過利用建立參考架構的軟體工程方法，調和知識工程領域的最佳實務。我們說明了如何反覆設計和實作參考架構，以將使用者需求與反覆出現的系統性模式關聯起來，並建立在現有的知識工程工作流程和盒學之上。我們提供了一個六步驟路線圖，可以支援此類架構的開發，提供架構範圍定義、資訊來源選擇和分析的初步設計和結果。我們預期遵循此願景將導致知識工程的紮實參考架構，推進組織神經符號知識工程空間的持續計畫，並建立與軟體架構和資料科學社群的新連結。
 

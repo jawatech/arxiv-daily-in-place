@@ -35,7 +35,7 @@
 |**2024-05-17**|**SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation**|Ziyao Xu et.al.|[2405.10650v1](http://arxiv.org/abs/2405.10650v1)|[link](https://github.com/xzy-xzy/spor)|
 |**2024-05-17**|**Cyclical Weight Consolidation: Towards Solving Catastrophic Forgetting in Serial Federated Learning**|Haoyue Song et.al.|[2405.10647v1](http://arxiv.org/abs/2405.10647v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
-|**2024-05-17**|**Layer-Condensed KV Cache for Efficient Inference of Large Language Models**|Haoyi Wu et.al.|[2405.10637v1](http://arxiv.org/abs/2405.10637v1)|null|
+|**2024-05-17**|**Layer-Condensed KV Cache for Efficient Inference of Large Language Models**|Haoyi Wu et.al.|[2405.10637v1](http://arxiv.org/abs/2405.10637v1)|[link](https://github.com/whyNLP/LCKV)|
 |**2024-05-17**|**Beyond static AI evaluations: advancing human interaction evaluations for LLM harms and risks**|Lujain Ibrahim et.al.|[2405.10632v1](http://arxiv.org/abs/2405.10632v1)|null|
 |**2024-05-17**|**Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges**|Xiaoming Shi et.al.|[2405.10630v1](http://arxiv.org/abs/2405.10630v1)|null|
 |**2024-05-17**|**Dynamic data sampler for cross-language transfer learning in large language models**|Yudong Li et.al.|[2405.10626v1](http://arxiv.org/abs/2405.10626v1)|[link](https://github.com/cvi-szu/linly)|
@@ -90,7 +90,7 @@
 |**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
 |**2024-05-16**|**Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting**|Divij Gupta et.al.|[2405.10216v1](http://arxiv.org/abs/2405.10216v1)|null|
 |**2024-05-16**|**SMLP: Symbolic Machine Learning Prover (User Manual)**|Franz Brauße et.al.|[2405.10215v1](http://arxiv.org/abs/2405.10215v1)|[link](https://github.com/fbrausse/smlp)|
-|**2024-05-16**|**CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**|Jiahao Zhao et.al.|[2405.10212v1](http://arxiv.org/abs/2405.10212v1)|null|
+|**2024-05-16**|**CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**|Jiahao Zhao et.al.|[2405.10212v2](http://arxiv.org/abs/2405.10212v2)|null|
 |**2024-05-16**|**Building a Luganda Text-to-Speech Model From Crowdsourced Data**|Sulaiman Kagumire et.al.|[2405.10211v1](http://arxiv.org/abs/2405.10211v1)|null|
 |**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202v1](http://arxiv.org/abs/2405.10202v1)|[link](https://github.com/molichenxi/haesum)|
 |**2024-05-16**|**LFED: A Literary Fiction Evaluation Dataset for Large Language Models**|Linhao Yu et.al.|[2405.10166v1](http://arxiv.org/abs/2405.10166v1)|[link](https://github.com/tjunlp-lab/lfed)|
@@ -2111,7 +2111,7 @@ specialized NN solvers is in progress.
 摘要：SMLP：符號機器學習證明器，一個用於探索和最佳化機器學習模型所表示系統的開源工具。SMLP 使用符號推理來探索和最佳化 ML 模型，在驗證和穩定性約束下，基於 SMT、約束和 NN 求解器。此外，它的探索方法由機率和統計方法引導。SMLP 是通用目的工具，僅需要適合以 csv 格式進行 ML 建模的資料（通常是系統輸入/輸出的範例）。SMLP 已應用於英特爾，用於分析和最佳化類比層級的硬體設計。目前 SMLP 支援 NN、多項式和樹狀模型，並使用 SMT 求解器進行後端的推理和最佳化，目前正在整合專門的 NN 求解器。
 
 ##### **CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**
-2405.10212v1 by Jiahao Zhao, Jingwei Zhu, Minghuan Tan, Min Yang, Di Yang, Chenhao Zhang, Guancheng Ye, Chengming Li, Xiping Hu
+2405.10212v2 by Jiahao Zhao, Jingwei Zhu, Minghuan Tan, Min Yang, Di Yang, Chenhao Zhang, Guancheng Ye, Chengming Li, Xiping Hu
 
 In this paper, we introduce a novel psychological benchmark, CPsyExam,
 constructed from questions sourced from Chinese language examinations. CPsyExam
@@ -2125,17 +2125,14 @@ Our experiments and analysis demonstrate that CPsyExam serves as an effective
 benchmark for enhancing the understanding of psychology within LLMs and enables
 the comparison of LLMs across various granularities.
 
-摘要：在本文中，我們介紹了一個新穎的心理基准 CPsyExam，
-它是從中文考試中提取的問題構成的。CPsyExam
+摘要：<paragraph>在本文中，我們介紹一個新穎的心理基準 CPsyExam，
+它是由從中文語言考試中取得的問題所建構而成。CPsyExam
 旨在優先考慮心理知識和案例分析，
-認識到將心理知識應用於現實世界
-場景的重要性。從 22k 個問題中，我們利用 4k 來創建
-基準，提供平衡的主題涵蓋範圍，並結合各種
-案例分析技術。此外，我們評估了一系列現有的
-大型語言模型 (LLM)，從開源模型到基於 API 的模型。
-我們的實驗和分析表明，CPsyExam 是一個有效的
-基準，用於增強 LLM 中對心理學的理解，並允許
-比較 LLM 跨各種粒度。
+承認將心理知識應用於現實世界場景的重要性。從 22k 個問題中，我們利用 4k 來建立
+基準，提供平衡的科目涵蓋範圍，並納入各種案例分析技術。此外，我們評估了一系列現有的
+大型語言模型~(LLM)，從開源模型到基於 API 的模型。
+我們的實驗和分析表明，CPsyExam 可作為一種有效基準，用於增強 LLM 中對心理學的理解，並能
+在各種粒度中比較 LLM。</paragraph>
 
 ##### **Building a Luganda Text-to-Speech Model From Crowdsourced Data**
 2405.10211v1 by Sulaiman Kagumire, Andrew Katumba, Joyce Nakatumba-Nabende, John Quinn

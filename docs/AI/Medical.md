@@ -45,7 +45,7 @@
 |**2024-05-13**|**Rene: A Pre-trained Multi-modal Architecture for Auscultation of Respiratory Diseases**|Pengfei Zhang et.al.|[2405.07442v1](http://arxiv.org/abs/2405.07442v1)|[link](https://github.com/zpforlove/rene)|
 |**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411v1](http://arxiv.org/abs/2405.07411v1)|null|
 |**2024-05-13**|**Indoor PM2.5 forecasting and the association with outdoor air pollution: a modelling study based on sensor data in Australia**|Wenhua Yu et.al.|[2405.07404v1](http://arxiv.org/abs/2405.07404v1)|null|
-|**2024-05-12**|**HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**|Ali Gharizadeh et.al.|[2405.08031v1](http://arxiv.org/abs/2405.08031v1)|null|
+|**2024-05-12**|**HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**|Ali Gharizadeh et.al.|[2405.08031v2](http://arxiv.org/abs/2405.08031v2)|null|
 |**2024-05-11**|**Reimplementation of Learning to Reweight Examples for Robust Deep Learning**|Parth Patil et.al.|[2405.06859v1](http://arxiv.org/abs/2405.06859v1)|null|
 |**2024-05-10**|**MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection and Distillation for Medical Data Analysis**|Luyuan Xie et.al.|[2405.06822v1](http://arxiv.org/abs/2405.06822v1)|null|
 |**2024-05-10**|**Summarizing Radiology Reports Findings into Impressions**|Raul Salles de Padua et.al.|[2405.06802v1](http://arxiv.org/abs/2405.06802v1)|null|
@@ -1195,7 +1195,7 @@ health outcomes.
 摘要：暴露于室内空气品质不佳会造成重大的健康风险，因此有必要进行彻底评估以减轻相关危险。本研究旨在预测澳大利亚 24 栋不同建筑物的每小时室内细颗粒物 (PM2.5) 浓度，并调查其与室外 PM2.5 水平的相关性。室内空气品质数据是从 2019 年到 2022 年间分布于八个澳大利亚城市的 91 个监测传感器收集的。采用创新的三阶段深度集成机器学习框架 (DEML)，包括三个基础模型（支持向量机、随机森林和 eXtreme 梯度提升）和两个元模型（随机森林和广义线性模型），预测每小时的室内 PM2.5 浓度。该模型的准确性是使用滚动窗口方法评估的，将其性能与三个基准算法（SVM、RF 和 XGBoost）进行比较。此外，相关性分析评估了室内和室外 PM2.5 浓度之间的关系。结果表明，DEML 模型始终优于基准模型，对于大多数传感器，R2 范围从 0.63 到 0.99，RMSE 从 0.01 到 0.663 mg/m3。值得注意的是，室外 PM2.5 浓度会显著影响室内空气品质，尤其在丛林大火等事件中很明显。本研究强调了准确预测室内空气品质的重要性，这对于开发针对特定地点的预警系统和提供有效的干预措施至关重要。通过促进保护性行为，这些努力有助于改善公共卫生成果。
 
 ##### **HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**
-2405.08031v1 by Ali Gharizadeh, Karim Abbasi, Amin Ghareyazi, Mohammad R. K. Mofrad, Hamid R. Rabiee
+2405.08031v2 by Ali Gharizadeh, Karim Abbasi, Amin Ghareyazi, Mohammad R. K. Mofrad, Hamid R. Rabiee
 
 Motivation: Drug repurposing is a viable solution for reducing the time and
 cost associated with drug development. However, thus far, the proposed drug
@@ -1224,7 +1224,7 @@ HGTDR's capability to predict other types of relations through numerical and
 experimental validation, such as drug-protein and disease-protein
 inter-relations.
 
-摘要：<paragraph>動機：藥物再利用是減少藥物開發時間和成本的可行解決方案。然而，到目前為止，所提出的藥物再利用方法仍需要符合預期。因此，提供一種系統性的藥物再利用方法以實現節省成本和改善人類生活至關重要。近年來，使用基於生物網路的方法進行藥物再利用已產生了有希望的結果。儘管如此，這些方法仍有局限性。首先，這些方法的範圍通常受到它們可以有效處理的數據量和種類的限制。另一個問題來自異質數據的處理，需要解決或轉換為同質數據，從而導致信息丟失。一個重大的缺點是，這些方法大多缺乏端到端的功能，需要在某些階段進行手動實施和專家知識。結果：我們提出了一個新的解決方案，HGTDR（異質圖形轉換器，用於藥物再利用），以應對與藥物再利用相關的挑戰。HGTDR 是一種基於知識圖形的三步驟藥物再利用方法：1）構建一個異質知識圖形，2）利用異質圖形轉換器網路，以及 3）使用全連接網路計算關係分數。通過利用 HGTDR，用戶可以獲得操縱輸入圖形、從不同實體中提取信息以及獲得所需輸出的能力。在評估步驟中，我們證明了 HGTDR 的表現與以前的方法相當。此外，我們回顧了醫學研究以驗證我們的方法的前十種藥物再利用建議，這些建議已經顯示出有希望的結果。我們還通過數值和實驗驗證證明了 HGTDR 預測其他類型關係的能力，例如藥物-蛋白質和疾病-蛋白質相互關係。</paragraph>
+摘要：<paragraph>動機：藥物再利用是減少藥物開發時間和成本的可行解決方案。然而，到目前為止，提出的藥物再利用方法仍需要滿足預期。因此，提供一種系統性的藥物再利用方法以節省成本並改善人類生活至關重要。近年來，使用基於生物網路的方法進行藥物再利用已產生令人滿意的結果。儘管如此，這些方法仍有局限性。首先，這些方法的範圍通常受到它們可以有效處理的數據大小和種類的限制。另一個問題源於異質數據的處理，需要解決或轉換為同質數據，導致信息丟失。一個重大的缺點是，這些方法大多缺乏端到端功能，需要在某些階段進行手動實施和專家知識。結果：我們提出了一個新的解決方案，HGTDR（異質圖形轉換器，用於藥物再利用），以應對與藥物再利用相關的挑戰。HGTDR 是一種基於知識圖譜的藥物再利用的三步驟方法：1）構建異質知識圖譜，2）利用異質圖形轉換器網路，以及 3）使用完全連接的網路計算關係分數。通過利用 HGTDR，使用者可以操縱輸入圖形、從不同實體中提取信息，並獲得他們所需的輸出。在評估步驟中，我們證明 HGTDR 的表現與以前的方法相當。此外，我們回顧了醫學研究以驗證我們的方法中排名前十的藥物再利用建議，這些建議已展現出令人滿意的結果。我們還通過數值和實驗驗證證明了 HGTDR 預測其他類型關係的能力，例如藥物-蛋白質和疾病-蛋白質的相互關係。</paragraph>
 
 ##### **Reimplementation of Learning to Reweight Examples for Robust Deep Learning**
 2405.06859v1 by Parth Patil, Ben Boardley, Jack Gardner, Emily Loiselle, Deerajkumar Parthipan

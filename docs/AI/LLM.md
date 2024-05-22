@@ -2,21 +2,21 @@
 ### LLM
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217v1](http://arxiv.org/abs/2405.12217v1)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217v1](http://arxiv.org/abs/2405.12217v1)|[link](https://github.com/jameszhou-gl/icl-distribution-shift)|
 |**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209v1](http://arxiv.org/abs/2405.12209v1)|[link](https://github.com/open-compass/mathbench)|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206v1](http://arxiv.org/abs/2405.12206v1)|[link](https://github.com/sciosci/cite-worthiness)|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205v1](http://arxiv.org/abs/2405.12205v1)|null|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202v1](http://arxiv.org/abs/2405.12202v1)|null|
-|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183v1](http://arxiv.org/abs/2405.12183v1)|null|
+|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183v1](http://arxiv.org/abs/2405.12183v1)|[link](https://github.com/scutft-ml/mogc)|
 |**2024-05-20**|**Building Temporal Kernels with Orthogonal Polynomials**|Yan Ru Pei et.al.|[2405.12179v1](http://arxiv.org/abs/2405.12179v1)|[link](https://github.com/peabrane/pleiades)|
 |**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174v1](http://arxiv.org/abs/2405.12174v1)|null|
 |**2024-05-20**|**Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**|Xiaobo Liang et.al.|[2405.12163v1](http://arxiv.org/abs/2405.12163v1)|[link](https://github.com/dropreg/fennec)|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150v1](http://arxiv.org/abs/2405.12150v1)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150v1](http://arxiv.org/abs/2405.12150v1)|[link](https://github.com/bipin-saha/bnvd)|
 |**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147v1](http://arxiv.org/abs/2405.12147v1)|null|
-|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130v1](http://arxiv.org/abs/2405.12130v1)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130v1](http://arxiv.org/abs/2405.12130v1)|[link](https://github.com/kongds/mora)|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119v1](http://arxiv.org/abs/2405.12119v1)|null|
 |**2024-05-20**|**Linguistic Structure from a Bottleneck on Sequential Information Processing**|Richard Futrell et.al.|[2405.12109v1](http://arxiv.org/abs/2405.12109v1)|null|
-|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107v1](http://arxiv.org/abs/2405.12107v1)|null|
+|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107v1](http://arxiv.org/abs/2405.12107v1)|[link](https://github.com/milvlg/imp)|
 |**2024-05-20**|**DOP: Diagnostic-Oriented Prompting for Large Language Models in Mathematical Correction**|Hao Chen et.al.|[2405.12100v1](http://arxiv.org/abs/2405.12100v1)|null|
 |**2024-05-20**|**Distributional Semantics, Holism, and the Instability of Meaning**|Jumbly Grindrod et.al.|[2405.12084v1](http://arxiv.org/abs/2405.12084v1)|null|
 |**2024-05-20**|**Selective Annotation via Data Allocation: These Data Should Be Triaged to Experts for Annotation Rather Than the Model**|Chen Huang et.al.|[2405.12081v1](http://arxiv.org/abs/2405.12081v1)|null|
@@ -32,10 +32,10 @@
 |**2024-05-20**|**SM-DTW: Stability Modulated Dynamic Time Warping for signature verification**|Antonio Parziale et.al.|[2405.11978v1](http://arxiv.org/abs/2405.11978v1)|null|
 |**2024-05-20**|**Conditional Shift-Robust Conformal Prediction for Graph Neural Network**|S. Akansha et.al.|[2405.11968v1](http://arxiv.org/abs/2405.11968v1)|null|
 |**2024-05-20**|**Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**|Tatiana V. Afanasieva et.al.|[2405.11967v1](http://arxiv.org/abs/2405.11967v1)|null|
-|**2024-05-20**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966v1](http://arxiv.org/abs/2405.11966v1)|[link](https://github.com/geralt-targaryen/mc-evaluation)|
+|**2024-05-20**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966v2](http://arxiv.org/abs/2405.11966v2)|[link](https://github.com/geralt-targaryen/mc-evaluation)|
 |**2024-05-20**|**WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles**|Tabea M. G. Pakull et.al.|[2405.11950v1](http://arxiv.org/abs/2405.11950v1)|null|
 |**2024-05-20**|**FAME-MT Dataset: Formality Awareness Made Easy for Machine Translation Purposes**|Dawid Wiśniewski et.al.|[2405.11942v1](http://arxiv.org/abs/2405.11942v1)|[link](https://github.com/laniqo-public/fame-mt)|
-|**2024-05-20**|**Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus**|Fons Hartendorp et.al.|[2405.11941v1](http://arxiv.org/abs/2405.11941v1)|null|
+|**2024-05-20**|**Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus**|Fons Hartendorp et.al.|[2405.11941v1](http://arxiv.org/abs/2405.11941v1)|[link](https://github.com/fonshartendorp/dutch_biomedical_entity_linking)|
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937v1](http://arxiv.org/abs/2405.11937v1)|null|
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928v1](http://arxiv.org/abs/2405.11928v1)|null|
 |**2024-05-20**|**On Efficient and Statistical Quality Estimation for Data Annotation**|Jan-Christoph Klie et.al.|[2405.11919v1](http://arxiv.org/abs/2405.11919v1)|null|
@@ -45,7 +45,7 @@
 |**2024-05-20**|**Unveiling and Manipulating Prompt Influence in Large Language Models**|Zijian Feng et.al.|[2405.11891v1](http://arxiv.org/abs/2405.11891v1)|[link](https://github.com/zijian678/tdd)|
 |**2024-05-20**|**Out-of-Distribution Detection with a Single Unconditional Diffusion Model**|Alvin Heng et.al.|[2405.11881v1](http://arxiv.org/abs/2405.11881v1)|[link](https://github.com/clear-nus/diffpath)|
 |**2024-05-20**|**Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs**|Siyu Lou et.al.|[2405.11880v1](http://arxiv.org/abs/2405.11880v1)|null|
-|**2024-05-20**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877v1](http://arxiv.org/abs/2405.11877v1)|[link](https://github.com/eduard6421/ronli)|
+|**2024-05-20**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877v2](http://arxiv.org/abs/2405.11877v2)|[link](https://github.com/eduard6421/ronli)|
 |**2024-05-20**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874v1](http://arxiv.org/abs/2405.11874v1)|null|
 |**2024-05-20**|**Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process**|Ermo Hua et.al.|[2405.11870v1](http://arxiv.org/abs/2405.11870v1)|null|
 |**2024-05-20**|**Towards Graph Contrastive Learning: A Survey and Beyond**|Wei Ju et.al.|[2405.11868v1](http://arxiv.org/abs/2405.11868v1)|null|
@@ -71,19 +71,19 @@
 |**2024-05-20**|**OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework**|Jian Hu et.al.|[2405.11143v1](http://arxiv.org/abs/2405.11143v1)|[link](https://github.com/OpenLLMAI/OpenRLHF)|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
 |**2024-05-20**|**Efficiency optimization of large-scale language models based on deep learning in natural language processing tasks**|Taiyuan Mei et.al.|[2405.11704v1](http://arxiv.org/abs/2405.11704v1)|null|
-|**2024-05-19**|**ColorFoil: Investigating Color Blindness in Large Vision and Language Models**|Ahnaf Mozib Samin et.al.|[2405.11685v1](http://arxiv.org/abs/2405.11685v1)|null|
+|**2024-05-19**|**ColorFoil: Investigating Color Blindness in Large Vision and Language Models**|Ahnaf Mozib Samin et.al.|[2405.11685v1](http://arxiv.org/abs/2405.11685v1)|[link](https://github.com/samin9796/colorfoil)|
 |**2024-05-19**|**Deep Ensemble Art Style Recognition**|Orfeas Menis-Mastromichalakis et.al.|[2405.11675v1](http://arxiv.org/abs/2405.11675v1)|null|
 |**2024-05-19**|**On the Expressivity of Recurrent Neural Cascades with Identity**|Nadezda A. Knorozova et.al.|[2405.11657v1](http://arxiv.org/abs/2405.11657v1)|null|
 |**2024-05-19**|**URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images**|Zoey Chen et.al.|[2405.11656v1](http://arxiv.org/abs/2405.11656v1)|null|
-|**2024-05-19**|**Track Anything Rapter(TAR)**|Tharun V. Puthanveettil et.al.|[2405.11655v1](http://arxiv.org/abs/2405.11655v1)|null|
-|**2024-05-19**|**Hummer: Towards Limited Competitive Preference Dataset**|Li Jiang et.al.|[2405.11647v1](http://arxiv.org/abs/2405.11647v1)|null|
+|**2024-05-19**|**Track Anything Rapter(TAR)**|Tharun V. Puthanveettil et.al.|[2405.11655v1](http://arxiv.org/abs/2405.11655v1)|[link](https://github.com/tvpian/project-tar)|
+|**2024-05-19**|**Hummer: Towards Limited Competitive Preference Dataset**|Li Jiang et.al.|[2405.11647v2](http://arxiv.org/abs/2405.11647v2)|null|
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640v1](http://arxiv.org/abs/2405.11640v1)|null|
-|**2024-05-19**|**Zero-Shot Stance Detection using Contextual Data Generation with LLMs**|Ghazaleh Mahmoudi et.al.|[2405.11637v1](http://arxiv.org/abs/2405.11637v1)|null|
+|**2024-05-19**|**Zero-Shot Stance Detection using Contextual Data Generation with LLMs**|Ghazaleh Mahmoudi et.al.|[2405.11637v1](http://arxiv.org/abs/2405.11637v1)|[link](https://github.com/Babakbehkamkia/GPT-Stance-Detection)|
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629v1](http://arxiv.org/abs/2405.11629v1)|null|
 |**2024-05-19**|**Continuous Predictive Modeling of Clinical Notes and ICD Codes in Patient Health Records**|Mireia Hernandez Caralt et.al.|[2405.11622v1](http://arxiv.org/abs/2405.11622v1)|null|
 |**2024-05-19**|**Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection**|Abdulla Al-Subaiey et.al.|[2405.11619v1](http://arxiv.org/abs/2405.11619v1)|null|
 |**2024-05-19**|**Transcriptomics-guided Slide Representation Learning in Computational Pathology**|Guillaume Jaume et.al.|[2405.11618v1](http://arxiv.org/abs/2405.11618v1)|[link](https://github.com/mahmoodlab/tangle)|
-|**2024-05-19**|**Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**|Baolong Bi et.al.|[2405.11613v1](http://arxiv.org/abs/2405.11613v1)|null|
+|**2024-05-19**|**Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**|Baolong Bi et.al.|[2405.11613v2](http://arxiv.org/abs/2405.11613v2)|null|
 |**2024-05-19**|**AI-Assisted Diagnosis for Covid-19 CXR Screening: From Data Collection to Clinical Validation**|Carlo Alberto Barbano et.al.|[2405.11598v1](http://arxiv.org/abs/2405.11598v1)|null|
 |**2024-05-19**|**Language Reconstruction with Brain Predictive Coding from fMRI Data**|Congchi Yin et.al.|[2405.11597v1](http://arxiv.org/abs/2405.11597v1)|null|
 |**2024-05-19**|**SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization**|Jialong Guo et.al.|[2405.11582v1](http://arxiv.org/abs/2405.11582v1)|[link](https://github.com/xinghaochen/slab)|
@@ -877,7 +877,7 @@ greater information and semantic capacity of the generated recommendations.
 摘要：推薦演算法發展的新趨勢之一是傳播其能力，以協助民眾管理自身健康。本文重點探討改善心血管疾病（CVD）預防的有效性，因為 CVD 是全球主要的死亡原因。為了解決這個問題，提出了一種基於知識的推薦演算法，以在家中支援成人自我管理 CVD 風險因子。所提出的演算法基於原始的多維度推薦模型和新的使用者輪廓模型，其中除了官方指南中概述的現有評估外，還包括 CVD 健康的預測評估。所提出的演算法主要特色是將基於規則的邏輯與大型語言模型的能力相結合，以產生類人文字，作為多維度推薦的說明性組成部分。所提出的演算法的驗證和評估顯示，所提出的推薦演算法在協助成人在家中自我管理其 CVD 風險因子方面很有用。從與類似的基於知識的推薦演算法的比較中得知，所提出的演算法評估了更多 CVD 風險因子，並且產生的建議具有更大的資訊和語義容量。
 
 ##### **Multiple-Choice Questions are Efficient and Robust LLM Evaluators**
-2405.11966v1 by Ziyin Zhang, Lizhen Xu, Zhaokun Jiang, Hongkun Hao, Rui Wang
+2405.11966v2 by Ziyin Zhang, Lizhen Xu, Zhaokun Jiang, Hongkun Hao, Rui Wang
 
 We present GSM-MC and MATH-MC, two multiple-choice (MC) datasets constructed
 by collecting answers and incorrect predictions on GSM8K and MATH from over 50
@@ -890,7 +890,7 @@ PythonIO, a new program output prediction MC dataset constructed from two other
 popular LLM evaluation benchmarks HumanEval and MBPP. Our data and code are
 available at https://github.com/Geralt-Targaryen/MC-Evaluation.
 
-摘要：我們提出了 GSM-MC 和 MATH-MC，這兩個多重選擇 (MC) 資料集是透過收集超過 50 個開源模型在 GSM8K 和 MATH 上的答案和錯誤預測而建構的。透過廣泛的實驗，我們展示出大型語言模型在這些兩個熱門基準的 MC 版本上的表現與其在原始版本上的表現有很強的相關性，且對於干擾選項和選項順序相當具有穩健性，同時評估時間減少了多達 30 倍。遵循類似的程序，我們也引入了 PythonIO，一個新的程式輸出預測 MC 資料集，建構自其他兩個熱門的 LLM 評估基準 HumanEval 和 MBPP。我們的資料和程式碼可於 https://github.com/Geralt-Targaryen/MC-Evaluation 取得。
+摘要：我們提出 GSM-MC 和 MATH-MC，這兩個多選題 (MC) 資料集是透過收集超過 50 個開放原始碼模型在 GSM8K 和 MATH 上的答案和錯誤預測而建構的。透過廣泛的實驗，我們證明 LLM 在這兩個熱門基準測試的多選題版本上的表現與其在原始版本上的表現有很強的相關性，並且對於干擾選項和選項順序相當穩健，同時評估時間減少了多達 30 倍。遵循類似的程序，我們還引入了 PythonIO，這是一個新的程式輸出預測多選題資料集，建構自另外兩個熱門的 LLM 評估基準 HumanEval 和 MBPP。我們的資料和程式碼可以在 https://github.com/Geralt-Targaryen/MC-Evaluation 取得。
 
 ##### **WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles**
 2405.11950v1 by Tabea M. G. Pakull, Hendrik Damm, Ahmad Idrissi-Yaghir, Henning Schäfer, Peter A. Horn, Christoph M. Friedrich
@@ -1170,7 +1170,7 @@ of detailed inference patterns encoded by LLMs.
 摘要：在本研究中，我們提出一個公理系統，用來定義和量化大型語言模型 (LLM) 用於語言生成的精確記憶和語境推理效果。這些效果被表述為 LLM 編碼的記號/字詞之間的非線性交互。具體來說，公理系統使我們能夠將記憶效果分類為基礎記憶效果和混亂記憶效果，並進一步將語境推理效果分類為增強推理模式、消除推理模式和反向推理模式。此外，分解的效果滿足稀疏性屬性和通用匹配屬性，這在數學上保證了 LLM 的置信度分數可以忠實地分解為記憶效果和語境推理效果。實驗表明，記憶效果和語境推理效果的清楚區分，能夠對 LLM 編碼的詳細推理模式進行直接檢查。
 
 ##### **A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**
-2405.11877v1 by Eduard Poesina, Cornelia Caragea, Radu Tudor Ionescu
+2405.11877v2 by Eduard Poesina, Cornelia Caragea, Radu Tudor Ionescu
 
 Natural language inference (NLI), the task of recognizing the entailment
 relationship in sentence pairs, is an actively studied topic serving as a proxy
@@ -1186,9 +1186,9 @@ learning, ranging from shallow models based on word embeddings to
 transformer-based neural networks, to establish a set of competitive baselines.
 Furthermore, we improve on the best model by employing a new curriculum
 learning strategy based on data cartography. Our dataset and code to reproduce
-the baselines are available https://github.com/Eduard6421/RONLI.
+the baselines are available at https://github.com/Eduard6421/RONLI.
 
-摘要：自然語言推論 (NLI) 是識別句子對中蘊含關係的任務，是一個積極研究的主題，用作自然語言理解的代理。儘管此任務與構建對話代理和改進文本分類、機器翻譯和其他 NLP 任務相關，但據我們所知，羅馬尼亞語沒有公開可用的 NLI 語料庫。為此，我們引入了第一個羅馬尼亞語 NLI 語料庫 (RoNLI)，包含 58K 個通過遠程監督獲得的訓練句子對，以及 6K 個手動註釋了正確標籤的驗證和測試句子對。我們使用多種基於遠程學習的機器學習方法進行了實驗，從基於詞嵌入的淺層模型到基於Transformer的神經網路，以建立一組有競爭力的基準。此外，我們通過採用基於資料製圖的新課程學習策略改進了最佳模型。我們的資料集和重現基準的程式碼可於 https://github.com/Eduard6421/RONLI 取得。
+摘要：自然語言推理 (NLI) 是識別句子對中蘊含關係的任務，是作為自然語言理解的代理而積極研究的主題。儘管此任務與建構對話代理和改善文字分類、機器翻譯和其他 NLP 任務相關，但據我們所知，羅馬尼亞語並沒有公開可用的 NLI 語料庫。為此，我們引入了第一個羅馬尼亞語 NLI 語料庫 (RoNLI)，包含 58K 個透過遠程監督獲得的訓練句子對，以及 6K 個透過人工標註正確標籤的驗證和測試句子對。我們使用多種基於遠程學習的機器學習方法進行實驗，從基於詞嵌入的淺層模型到基於轉換器的類神經網路，以建立一組競爭基準。此外，我們透過採用基於資料製圖的新課程學習策略來改進最佳模型。我們的資料集和重現基準的程式碼可在 https://github.com/Eduard6421/RONLI 取得。
 
 ##### **xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**
 2405.11874v1 by Qingchen Yu, Zifan Zheng, Shichao Song, Zhiyu Li, Feiyu Xiong, Bo Tang, Ding Chen
@@ -1906,7 +1906,7 @@ bounding box, and image templates.
 摘要：物體追蹤是電腦視覺中的一項基本任務，在包括交通監控、機器人和自動車輛追蹤等多種領域都有廣泛的實際應用。在這個專案中，我們的目標是開發一個稱為 Track Anything Raptor (TAR) 的先進空中載具系統，旨在根據使用者提供的多模態查詢（例如文字、影像和點擊）來偵測、分割和追蹤感興趣的物體。TAR 利用 DINO、CLIP 和 SAM 等先進的預先訓練模型來估計查詢物體的相對位姿。追蹤問題被視為一個視覺伺服任務，讓無人機能夠透過先進的運動規劃和控制演算法持續對焦在物體上。我們展示了這些基礎模型與自訂高階控制演算法整合後，如何產生一個部署在自訂 PX4 Autopilot 支援的 Voxl2 M500 無人機上的高度穩定且精確的追蹤系統。為了驗證追蹤演算法的效能，我們將其與基於 Vicon 的地面實況進行比較。此外，我們評估了基礎模型在協助追蹤遮擋情境中的可靠性。最後，我們測試並驗證了模型與多種模態（例如點擊、邊界框和影像範本）無縫運作的能力。
 
 ##### **Hummer: Towards Limited Competitive Preference Dataset**
-2405.11647v1 by Li Jiang, Yusen Wu, Junwu Xiong, Jingqing Ruan, Yichuan Ding, Qingpei Guo, Zujie Wen, Jun Zhou, Xiaotie Deng
+2405.11647v2 by Li Jiang, Yusen Wu, Junwu Xiong, Jingqing Ruan, Yichuan Ding, Qingpei Guo, Zujie Wen, Jun Zhou, Xiaotie Deng
 
 Preference datasets are essential for incorporating human preferences into
 pre-trained language models, playing a key role in the success of Reinforcement
@@ -1926,7 +1926,7 @@ balance diverse alignment objectives effectively. This sampling method
 positions HummerRM as an ideal model for domain-specific further fine-tuning
 and reducing vulnerabilities to attacks.
 
-摘要：偏好数据集对于将人类偏好纳入预训练语言模型至关重要，在人类反馈强化学习的成功中发挥着关键作用。然而，这些数据集通常表现出相互冲突的对齐目标，导致更容易受到越狱攻击，并且难以调整下游任务以优先考虑特定对齐目标，而不会对其他目标产生负面影响。在这项工作中，我们引入了一种新颖的统计指标，即对齐维度冲突，以量化偏好数据集中的冲突程度。然后，我们提出 \texttt{Hummer} 及其细粒度变体 \texttt{Hummer-F}，作为具有减少冲突对齐目标的创新成对偏好数据集。\texttt{Hummer} 基于 UltraFeedback 构建，并通过 GPT-4 的 AI 反馈进行增强，标志着第一个旨在减少对齐目标之间竞争的偏好数据集。此外，我们开发了奖励模型 HummerRM 和 HummerRM-F，它们采用混合采样方法来有效平衡不同的对齐目标。这种采样方法将 HummerRM 定位为特定领域进一步微调和减少攻击漏洞的理想模型。
+摘要：偏好数据集对于将人类偏好纳入预先训练的语言模型至关重要，在人类反馈强化学习的成功中发挥着关键作用。然而，这些数据集通常表现出相互冲突的对齐目标，导致更容易受到越狱攻击，并且在调整下游任务以优先考虑特定对齐目标时面临挑战，而不会对其他目标产生负面影响。在这项工作中，我们引入了一种新颖的统计指标，对齐维度冲突，以量化偏好数据集中的冲突程度。然后，我们提出了 Hummer 及其细粒度变体 Hummer-F，作为具有减少冲突对齐目标的创新成对偏好数据集。Hummer 基于 UltraFeedback 构建，并通过 GPT-4 的 AI 反馈进行了增强，标志着第一个旨在减少对齐目标之间竞争的偏好数据集。此外，我们开发了奖励模型 HummerRM 和 HummerRM-F，它们采用混合采样方法来有效平衡不同的对齐目标。这种采样方法将 HummerRM 定位为特定领域进一步微调和减少攻击漏洞的理想模型。
 
 ##### **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**
 2405.11640v1 by Zishan Gu, Fenglin Liu, Changchang Yin, Ping Zhang
@@ -2076,7 +2076,7 @@ https://github.com/mahmoodlab/TANGLE.
 摘要：<paragraph>自监督学习 (SSL) 已成功构建小组织图像 (例如，224x224 像素) 的补丁嵌入，但将这些模型扩展为从全幻灯片全像素图像 (WSI) 的整体学习幻灯片嵌入仍然具有挑战性。在这里，我们利用基因表达谱中的互补信息来指导幻灯片表示学习，使用多模态预训练。表达谱构成组织的高度详细的分子描述，我们假设它为学习幻灯片嵌入提供了强大的与任务无关的训练信号。我们的幻灯片和表达 (S+E) 预训练策略称为 Tangle，它采用特定于模态的编码器，其输出通过对比学习进行对齐。Tangle 在来自三个不同器官的样本上进行预训练：来自两个不同物种（智人和大鼠）的肝脏 (n=6,597 S+E 对)、乳腺 (n=1,020) 和肺 (n=1,012)。在包括 1,265 个乳腺 WSI、1,946 个肺 WSI 和 4,584 个肝 WSI 在内的三个独立测试数据集中，与监督和 SSL 基线相比，Tangle 显示出明显更好的小样本性能。在使用基于原型的分类和幻灯片检索进行评估时，Tangle 也显示出比所有基线都有大幅的性能提升。代码可从 https://github.com/mahmoodlab/TANGLE 获得。</paragraph>
 
 ##### **Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**
-2405.11613v1 by Baolong Bi, Shenghua Liu, Lingrui Mei, Yiwei Wang, Pengliang Ji, Xueqi Cheng
+2405.11613v2 by Baolong Bi, Shenghua Liu, Lingrui Mei, Yiwei Wang, Pengliang Ji, Xueqi Cheng
 
 The knowledge within large language models (LLMs) may become outdated
 quickly. While in-context editing (ICE) is currently the most effective method
@@ -2097,10 +2097,9 @@ instance, it improves the performance of LLaMA3-8B-instruct on MQuAKE by up to
 219%, demonstrating its capability to strengthen ICE in the editing of stubborn
 knowledge. Our work paves the way to develop the both effective and accountable
 KE methods for LLMs. (The source code is available at:
-$\href{https://github.com/byronBBL/DeCK}{\text{this https URL.}}$ )
+https://deck-llm.meirtz.com)
 
-摘要：<paragraph>大型語言模型 (LLM) 中的知識可能會迅速過時。雖然目前情境編輯 (ICE) 是知識編輯 (KE) 最有效的方法，但它受到 LLM 黑箱建模的限制，因此缺乏可解釋性。我們的研究旨在通過分析情境中新知識對令牌級分佈的影響，闡明 ICE 在 KE 上的優異性能。我們觀察到，儘管新知識的對數幾率有了顯著提升，但頑固知識仍然阻礙了性能。頑固知識是指在預訓練過程中獲得過度信心的事實，使其難以有效編輯。為了解決這個問題並進一步提高 ICE 的性能，我們提出了一種新穎的方法，稱為通過對比知識進行解碼 (DeCK)。DeCK 通過對比從 ICE 引導的新編輯知識獲得的對數幾率和未編輯參數知識獲得的對數幾率，推導出下一個令牌的分布。我們的實驗持續證明，DeCK 增強了 LLM 對編輯事實的信心。例如，它將 LLaMA3-8B-instruct 在 MQuAKE 上的性能提高了多達 219%，證明了它在編輯頑固知識中加強 ICE 的能力。我們的研究為開發 LLM 的有效且負責任的 KE 方法鋪平了道路。（源代碼可在以下位置獲得：
-$\href{https://github.com/byronBBL/DeCK}{\text{this https URL.}}$）</paragraph>
+摘要：大型語言模型 (LLM) 中的知識可能會快速過時。雖然目前情境編輯 (ICE) 是知識編輯 (KE) 最有效的方法，但它受到 LLM 黑盒建模的限制，因此缺乏可解釋性。我們的研究旨在通過分析情境新知識對代幣級分布的影響，闡明 ICE 在 KE 上的優異性能。我們觀察到，儘管新知識的對數幾率顯著提升，但頑固知識仍然阻礙了性能。頑固知識是指在預訓練期間獲得過度信心的事實，這使得有效編輯變得困難。為了解決這個問題並進一步提升 ICE 的性能，我們提出了一種稱為「對比知識解碼」（DeCK）的新方法。DeCK 通過對比由 ICE 引導的新編輯知識獲得的對數幾率和未編輯參數知識獲得的對數幾率，推導出下一個代幣的分布。我們的實驗持續證明，DeCK 提升了 LLM 對編輯事實的信心。例如，它將 LLaMA3-8B-instruct 在 MQuAKE 上的性能提升了 219%，證明了它加強 ICE 編輯頑固知識的能力。我們的研究為開發 LLM 的有效且負責任的 KE 方法鋪平了道路。（原始碼可在以下位置取得：https://deck-llm.meirtz.com）
 
 ##### **AI-Assisted Diagnosis for Covid-19 CXR Screening: From Data Collection to Clinical Validation**
 2405.11598v1 by Carlo Alberto Barbano, Riccardo Renzulli, Marco Grosso, Domenico Basile, Marco Busso, Marco Grangetto

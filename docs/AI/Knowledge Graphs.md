@@ -6,7 +6,7 @@
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928v1](http://arxiv.org/abs/2405.11928v1)|null|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745v1](http://arxiv.org/abs/2405.10745v1)|null|
-|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492v1](http://arxiv.org/abs/2405.10492v1)|null|
+|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492v2](http://arxiv.org/abs/2405.10492v2)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[link](https://github.com/jingkang50/psg4d)|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288v1](http://arxiv.org/abs/2405.10288v1)|null|
 |**2024-05-15**|**SCI 3.0: A Web-based Schema Curation Interface for Graphical Event Representations**|Reece Suchocki et.al.|[2405.09733v2](http://arxiv.org/abs/2405.09733v2)|null|
@@ -203,7 +203,7 @@ representation learning, machine learning
 關鍵字：知識圖譜、知識圖譜完成功能、實體對齊、表示學習、機器學習
 
 ##### **Automatic News Generation and Fact-Checking System Based on Language Processing**
-2405.10492v1 by Xirui Peng, Qiming Xu, Zheng Feng, Haopeng Zhao, Lianghao Tan, Yan Zhou, Zecheng Zhang, Chenwei Gong, Yingqiao Zheng
+2405.10492v2 by Xirui Peng, Qiming Xu, Zheng Feng, Haopeng Zhao, Lianghao Tan, Yan Zhou, Zecheng Zhang, Chenwei Gong, Yingqiao Zheng
 
 This paper explores an automatic news generation and fact-checking system
 based on language processing, aimed at enhancing the efficiency and quality of
@@ -224,7 +224,7 @@ with continuous technological optimization and practical application, these
 systems will play an increasingly important role in the future news industry,
 providing more efficient and reliable news services.
 
-摘要：本文探討了一種基於語言處理的自動新聞生成和事實查核系統，旨在提高新聞製作的效率和品質，同時確保新聞內容的真實性和可靠性。隨著自然語言處理 (NLP) 和深度學習技術的快速發展，自動新聞生成系統能夠從海量數據中提取關鍵資訊，並生成結構良好、流暢的新聞文章。同時，透過整合事實查核技術，該系統可以有效防止假新聞的傳播，提高新聞的準確性和可信度。本研究詳細說明了自動新聞生成和事實查核所涉及的關鍵技術，包括文本生成、資訊抽取和知識圖譜的應用，並透過實驗驗證了這些技術的有效性。此外，本文探討了自動新聞生成和事實查核系統的未來發展方向，強調進一步整合和創新技術的重要性。結果顯示，隨著技術的持續優化和實際應用，這些系統將在未來的新聞產業中發揮越來越重要的作用，提供更有效率和可靠的新聞服務。
+摘要：本文探討了一種基於語言處理的自動新聞生成與事實查核系統，旨在提升新聞產製的效率與品質，同時確保新聞內容的真實性與可信度。隨著自然語言處理（NLP）與深度學習技術的快速發展，自動新聞生成系統能夠從海量資料中萃取關鍵資訊，並生成結構良好、流暢的新聞文章。同時，透過整合事實查核技術，系統能有效防止假新聞的散播，提升新聞的準確度與可信度。本研究詳細說明自動新聞生成與事實查核所涉及的關鍵技術，包括文字生成、資訊萃取、知識圖譜的應用，並透過實驗驗證這些技術的有效性。此外，本文探討自動新聞生成與事實查核系統未來的發展方向，強調技術進一步整合與創新的重要性。結果顯示，隨著技術持續優化與實務應用，這些系統將在未來的新聞產業中扮演日益重要的角色，提供更有效率、更可信賴的新聞服務。
 
 ##### **4D Panoptic Scene Graph Generation**
 2405.10305v1 by Jingkang Yang, Jun Cen, Wenxuan Peng, Shuai Liu, Fangzhou Hong, Xiangtai Li, Kaiyang Zhou, Qifeng Chen, Ziwei Liu

@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656v1](http://arxiv.org/abs/2405.12656v1)|[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)|
+|**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035v1](http://arxiv.org/abs/2405.12035v1)|null|
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928v1](http://arxiv.org/abs/2405.11928v1)|null|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
@@ -100,10 +102,66 @@
 |**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571v1](http://arxiv.org/abs/2404.06571v1)|null|
 |**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413v1](http://arxiv.org/abs/2404.06413v1)|null|
 |**2024-04-08**|**Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models**|Wolfgang Otto et.al.|[2404.05587v2](http://arxiv.org/abs/2404.05587v2)|null|
-|**2024-04-08**|**Evaluating Interventional Reasoning Capabilities of Large Language Models**|Tejas Kasetty et.al.|[2404.05545v1](http://arxiv.org/abs/2404.05545v1)|null|
-|**2024-04-06**|**MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems**|Bin Lei et.al.|[2404.04735v1](http://arxiv.org/abs/2404.04735v1)|[link](https://github.com/bin123apple/macm)|
 
 #### Abstracts
+##### **Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**
+2405.12656v1 by Yu-Hsiang Lin, Huang-Ting Shieh, Chih-Yu Liu, Kuang-Ting Lee, Hsiao-Cheng Chang, Jing-Lun Yang, Yu-Sheng Lin
+
+Extrapolation in Large language models (LLMs) for open-ended inquiry
+encounters two pivotal issues: (1) hallucination and (2) expensive training
+costs. These issues present challenges for LLMs in specialized domains and
+personalized data, requiring truthful responses and low fine-tuning costs.
+Existing works attempt to tackle the problem by augmenting the input of a
+smaller language model with information from a knowledge graph (KG). However,
+they have two limitations: (1) failing to extract relevant information from a
+large one-hop neighborhood in KG and (2) applying the same augmentation
+strategy for KGs with different characteristics that may result in low
+performance. Moreover, open-ended inquiry typically yields multiple responses,
+further complicating extrapolation. We propose a new task, the extreme
+multi-label KG link prediction task, to enable a model to perform extrapolation
+with multiple responses using structured real-world knowledge. Our retriever
+identifies relevant one-hop neighbors by considering entity, relation, and
+textual data together. Our experiments demonstrate that (1) KGs with different
+characteristics require different augmenting strategies, and (2) augmenting the
+language model's input with textual data improves task performance
+significantly. By incorporating the retrieval-augmented framework with KG, our
+framework, with a small parameter size, is able to extrapolate based on a given
+KG. The code can be obtained on GitHub:
+https://github.com/exiled1143/Retrieval-Augmented-Language-Model-for-Multi-Label-Knowledge-Graph-Link-Prediction.git
+
+摘要：<paragraph>大型語言模型 (LLM) 中用於開放式探究的推斷會遭遇兩個關鍵問題：(1) 幻覺和 (2) 昂貴的訓練成本。這些問題為專門領域和個人化數據中的 LLM 帶來挑戰，需要真實的回應和低微調成本。現有作品嘗試通過使用來自知識圖 (KG) 的資訊擴充較小型語言模型的輸入來解決問題。然而，它們有兩個限制：(1) 無法從 KG 中的廣大一跳鄰域中提取相關資訊，以及 (2) 對具有不同特徵的 KG 應用相同的擴充策略，這可能會導致低效能。此外，開放式探究通常會產生多重回應，進一步複雜化推斷。我們提出一個新任務，即極端多標籤 KG 連結預測任務，以使模型能夠使用結構化的真實世界知識執行具有多重回應的推斷。我們的檢索器通過同時考慮實體、關係和文字資料來識別相關的一跳鄰居。我們的實驗證明：(1) 具有不同特徵的 KG 需要不同的擴充策略，以及 (2) 使用文字資料擴充語言模型的輸入會顯著改善任務效能。透過將檢索擴充框架與 KG 整合，我們的框架在參數規模較小的情況下，能夠根據給定的 KG 進行推斷。代碼可以在 GitHub 上取得：
+https://github.com/exiled1143/Retrieval-Augmented-Language-Model-for-Multi-Label-Knowledge-Graph-Link-Prediction.git</paragraph>
+
+##### **Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**
+2405.12442v1 by Qingyao Li, Wei Xia, Kounianhua Du, Qiji Zhang, Weinan Zhang, Ruiming Tang, Yong Yu
+
+Concept recommendation aims to suggest the next concept for learners to study
+based on their knowledge states and the human knowledge system. While knowledge
+states can be predicted using knowledge tracing models, previous approaches
+have not effectively integrated the human knowledge system into the process of
+designing these educational models. In the era of rapidly evolving Large
+Language Models (LLMs), many fields have begun using LLMs to generate and
+encode text, introducing external knowledge. However, integrating LLMs into
+concept recommendation presents two urgent challenges: 1) How to construct text
+for concepts that effectively incorporate the human knowledge system? 2) How to
+adapt non-smooth, anisotropic text encodings effectively for concept
+recommendation? In this paper, we propose a novel Structure and Knowledge Aware
+Representation learning framework for concept Recommendation (SKarREC). We
+leverage factual knowledge from LLMs as well as the precedence and succession
+relationships between concepts obtained from the knowledge graph to construct
+textual representations of concepts. Furthermore, we propose a graph-based
+adapter to adapt anisotropic text embeddings to the concept recommendation
+task. This adapter is pre-trained through contrastive learning on the knowledge
+graph to get a smooth and structure-aware concept representation. Then, it's
+fine-tuned through the recommendation task, forming a
+text-to-knowledge-to-recommendation adaptation pipeline, which effectively
+constructs a structure and knowledge-aware concept representation. Our method
+does a better job than previous adapters in transforming text encodings for
+application in concept recommendation. Extensive experiments on real-world
+datasets demonstrate the effectiveness of the proposed approach.
+
+摘要：概念推薦旨在根據學習者的知識狀態和人類知識系統，建議學習者學習的下一個概念。雖然知識狀態可以使用知識追蹤模型來預測，但先前的做法並未有效地將人類知識系統整合到設計這些教育模型的過程中。在快速發展的大型語言模型 (LLM) 時代，許多領域已開始使用 LLM 來產生和編碼文字，引入外部知識。然而，將 LLM 整合到概念推薦中會出現兩個迫切的挑戰：1) 如何建構有效地整合人類知識系統的概念文字？2) 如何有效地調整非平滑、各向異性的文字編碼以進行概念推薦？在本文中，我們提出了一個新的結構和知識感知表示學習架構，用於概念推薦 (SKarREC)。我們利用 LLM 的事實知識以及從知識圖譜中獲得的概念之間的先後關係來建構概念的文字表示。此外，我們提出了一個基於圖表的適配器，以將各向異性的文字嵌入調整到概念推薦任務。這個適配器透過對比學習在知識圖譜上進行預訓練，以獲得平滑且具有結構感知的概念表示。然後，透過推薦任務進行微調，形成從文字到知識再到推薦的適配管道，有效地建構一個結構和知識感知的概念表示。我們的方法在轉換文字編碼以應用於概念推薦方面，比先前的適配器做得更好。在真實世界資料集上的廣泛實驗證明了所提出方法的有效性。
+
 ##### **KG-RAG: Bridging the Gap Between Knowledge and Creativity**
 2405.12035v1 by Diego Sanmartin
 
@@ -2468,50 +2526,4 @@ mentions. This sets the groundwork for future research and development in this
 field.
 
 摘要：本文描述我們參與軟體提及消歧義（SOMD）的共享任務，重點在於透過單選問答使用生成式大型語言模型（LLM）來改善學術文本中的關係萃取。此方法優先使用 GLM 的脈絡學習能力來萃取與軟體相關的實體及其描述性屬性，例如分佈式資訊。我們的做法使用檢索擴充生成（RAG）技術和 GLM 來進行命名實體辨識（NER）和屬性 NER，以找出萃取的軟體實體之間的關係，為分析學術文獻中的軟體引文提供結構化解決方案。本文詳細說明我們的做法，展示如何在單選問答範例中使用 GLM 可以大幅提升 IE 方法。我們參與 SOMD 共享任務突顯了精確軟體引文實務的重要性，並展示我們的系統克服軟體提及消歧義和關係萃取挑戰的能力。這為此領域的未來研究和發展奠定基礎。
-
-##### **Evaluating Interventional Reasoning Capabilities of Large Language Models**
-2404.05545v1 by Tejas Kasetty, Divyat Mahajan, Gintare Karolina Dziugaite, Alexandre Drouin, Dhanya Sridhar
-
-Numerous decision-making tasks require estimating causal effects under
-interventions on different parts of a system. As practitioners consider using
-large language models (LLMs) to automate decisions, studying their causal
-reasoning capabilities becomes crucial. A recent line of work evaluates LLMs
-ability to retrieve commonsense causal facts, but these evaluations do not
-sufficiently assess how LLMs reason about interventions. Motivated by the role
-that interventions play in causal inference, in this paper, we conduct
-empirical analyses to evaluate whether LLMs can accurately update their
-knowledge of a data-generating process in response to an intervention. We
-create benchmarks that span diverse causal graphs (e.g., confounding,
-mediation) and variable types, and enable a study of intervention-based
-reasoning. These benchmarks allow us to isolate the ability of LLMs to
-accurately predict changes resulting from their ability to memorize facts or
-find other shortcuts. Our analysis on four LLMs highlights that while GPT- 4
-models show promising accuracy at predicting the intervention effects, they
-remain sensitive to distracting factors in the prompts.
-
-摘要：許多決策制定任務需要在系統不同部分的干預下估計因果效應。由於實務工作者考慮使用大型語言模型 (LLM) 來自動化決策，研究其因果推理能力變得至關重要。最近一連串的研究評估了 LLM 擷取常識因果事實的能力，但這些評估並未充分評估 LLM 如何對干預進行推理。在因果推論中干預所扮演的角色的啟發下，我們在本文中進行實證分析，以評估 LLM 是否能準確更新其對資料產生程序的了解以回應干預。我們建立了涵蓋各種因果圖形（例如混淆、中介）和變數類型的基準，並能研究基於干預的推理。這些基準讓我們能孤立 LLM 準確預測變化的能力，因為它們能記憶事實或找到其他捷徑。我們對四個 LLM 的分析強調，儘管 GPT-4 模型在預測干預效果方面表現出令人滿意的準確性，但它們仍然對提示中的干擾因素很敏感。
-
-##### **MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems**
-2404.04735v1 by Bin Lei
-
-Recent advancements in large language models, such as GPT-4, have
-demonstrated remarkable capabilities in processing standard queries. Despite
-these advancements, their performance substantially declines in
-\textbf{advanced mathematical problems requiring complex, multi-step logical
-reasoning}. To enhance their inferential capabilities, current research has
-delved into \textit{prompting engineering}, exemplified by methodologies such
-as the Tree of Thought and Graph of Thought. Nonetheless, these existing
-approaches encounter two significant limitations. Firstly, their effectiveness
-in tackling complex mathematical problems is somewhat constrained. Secondly,
-the necessity to design distinct prompts for individual problems hampers their
-generalizability. In response to these limitations, this paper introduces the
-\textit{Multi-Agent System for conditional Mining} (\textbf{MACM}) prompting
-method. It not only resolves intricate mathematical problems but also
-demonstrates strong generalization capabilities across various mathematical
-contexts. With the assistance of MACM, the accuracy of GPT-4 Turbo on the most
-challenging level five mathematical problems in the MATH dataset increase from
-$\mathbf{54.68\%} \text{ to } \mathbf{76.73\%}$. The code is available in
-\url{https://github.com/bin123apple/MACM}.
-
-摘要：<paragraph>大型語言模型的最新進展，例如 GPT-4，已在處理標準查詢方面展示出非凡的能力。儘管有這些進展，它們的性能在**需要複雜、多步驟邏輯推理的高級數學問題**中大幅下降。為了增強它們的推理能力，目前的研究已深入探討**提示工程**，以樹狀思想和思想圖等方法為例。儘管如此，這些現有方法遇到了兩個重大的限制。首先，它們在解決複雜數學問題方面的有效性受到一些約束。其次，必須為個別問題設計不同的提示，這阻礙了它們的概括性。為了應對這些限制，本文介紹了**條件挖掘的多代理系統**（**MACM**）提示方法。它不僅解決了複雜的數學問題，還展示了跨各種數學背景的強大的概括能力。在 MACM 的幫助下，GPT-4 Turbo 在 MATH 資料集中最具挑戰性的五級數學問題上的準確率從**54.68%**提高到**76.73%**。程式碼可在\url{https://github.com/bin123apple/MACM}中獲得。</paragraph>
 

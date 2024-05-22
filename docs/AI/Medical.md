@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711v1](http://arxiv.org/abs/2405.12711v1)|null|
+|**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701v1](http://arxiv.org/abs/2405.12701v1)|[link](https://github.com/dmis-lab/olaph)|
+|**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630v1](http://arxiv.org/abs/2405.12630v1)|null|
+|**2024-05-21**|**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**|Bufang Yang et.al.|[2405.12541v1](http://arxiv.org/abs/2405.12541v1)|null|
+|**2024-05-21**|**Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**|Pat Pataranutaporn et.al.|[2405.12514v1](http://arxiv.org/abs/2405.12514v1)|null|
 |**2024-05-20**|**Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**|Tatiana V. Afanasieva et.al.|[2405.11967v1](http://arxiv.org/abs/2405.11967v1)|null|
 |**2024-05-20**|**Contactless Polysomnography: What Radio Waves Tell Us about Sleep**|Hao He et.al.|[2405.11739v1](http://arxiv.org/abs/2405.11739v1)|null|
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640v1](http://arxiv.org/abs/2405.11640v1)|null|
@@ -97,13 +102,145 @@
 |**2024-05-06**|**Large Language Models Synergize with Automated Machine Learning**|Jinglue Xu et.al.|[2405.03727v2](http://arxiv.org/abs/2405.03727v2)|null|
 |**2024-05-06**|**Advancing Multimodal Medical Capabilities of Gemini**|Lin Yang et.al.|[2405.03162v1](http://arxiv.org/abs/2405.03162v1)|null|
 |**2024-05-06**|**Automatic Ultrasound Curve Angle Measurement via Affinity Clustering for Adolescent Idiopathic Scoliosis Evaluation**|Yihao Zhou et.al.|[2405.03141v2](http://arxiv.org/abs/2405.03141v2)|null|
-|**2024-05-05**|**RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation**|Zelei Cheng et.al.|[2405.03064v1](http://arxiv.org/abs/2405.03064v1)|null|
-|**2024-05-05**|**AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**|Viet-Thanh Nguyen et.al.|[2405.03011v1](http://arxiv.org/abs/2405.03011v1)|[link](https://github.com/vietthanh2710/ac-mambaseg)|
-|**2024-05-05**|**Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**|Junkai Li et.al.|[2405.02957v1](http://arxiv.org/abs/2405.02957v1)|null|
-|**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
-|**2024-05-04**|**GAD: A Real-time Gait Anomaly Detection System with Online Adaptive Learning**|Ming-Chang Lee et.al.|[2405.09561v1](http://arxiv.org/abs/2405.09561v1)|null|
 
 #### Abstracts
+##### **A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**
+2405.12711v1 by Meng Shang, Lenore Dedeyne, Jolan Dupont, Laura Vercauteren, Nadjia Amini, Laurence Lapauw, Evelien Gielen, Sabine Verschueren, Carolina Varon, Walter De Raedt, Bart Vanrumste
+
+The Otago Exercise Program (OEP) serves as a vital rehabilitation initiative
+for older adults, aiming to enhance their strength and balance, and
+consequently prevent falls. While Human Activity Recognition (HAR) systems have
+been widely employed in recognizing the activities of individuals, existing
+systems focus on the duration of macro activities (i.e. a sequence of
+repetitions of the same exercise), neglecting the ability to discern micro
+activities (i.e. the individual repetitions of the exercises), in the case of
+OEP. This study presents a novel semi-supervised machine learning approach
+aimed at bridging this gap in recognizing the micro activities of OEP. To
+manage the limited dataset size, our model utilizes a Transformer encoder for
+feature extraction, subsequently classified by a Temporal Convolutional Network
+(TCN). Simultaneously, the Transformer encoder is employed for masked
+unsupervised learning to reconstruct input signals. Results indicate that the
+masked unsupervised learning task enhances the performance of the supervised
+learning (classification task), as evidenced by f1-scores surpassing the
+clinically applicable threshold of 0.8. From the micro activities, two
+clinically relevant outcomes emerge: counting the number of repetitions of each
+exercise and calculating the velocity during chair rising. These outcomes
+enable the automatic monitoring of exercise intensity and difficulty in the
+daily lives of older adults.
+
+摘要：奧塔哥運動計畫 (OEP) 是一項重要的復健計畫，
+旨在增強老年人的肌力和平衡，
+進而預防跌倒。儘管人類活動辨識 (HAR) 系統
+已被廣泛用於辨識個人的活動，現有的
+系統著重於巨觀活動的持續時間（即
+重複相同運動的順序），忽略了辨別微觀
+活動（即運動的個別重複）的能力，就
+OEP 而言。本研究提出了一種新穎的半監督機器學習方法，
+旨在彌合辨識 OEP 微觀活動的差距。為了
+管理有限的資料集大小，我們的模型利用 Transformer 編碼器進行
+特徵萃取，隨後由時序卷積網路 (TCN) 分類。同時，Transformer 編碼器被用於遮蔽無監督學習以重建輸入訊號。結果表明，遮蔽無監督學習任務增強了監督式學習（分類任務）的效能，這由 f1 分數超過 0.8 的臨床適用閾值所證實。從微觀活動中，出現了兩個臨床上相關的結果：計算每個運動的重複次數和計算椅子上升時的速率。這些結果能自動監控老年人日常生活中的運動強度和難度。
+
+##### **OLAPH: Improving Factuality in Biomedical Long-form Question Answering**
+2405.12701v1 by Minbyul Jeong, Hyeon Hwang, Chanwoong Yoon, Taewhoo Lee, Jaewoo Kang
+
+In the medical domain, numerous scenarios necessitate the long-form
+generation ability of large language models (LLMs). Specifically, when
+addressing patients' questions, it is essential that the model's response
+conveys factual claims, highlighting the need for an automated method to
+evaluate those claims. Thus, we introduce MedLFQA, a benchmark dataset
+reconstructed using long-form question-answering datasets related to the
+biomedical domain. We use MedLFQA to facilitate the automatic evaluations of
+factuality. We also propose OLAPH, a simple and novel framework that enables
+the improvement of factuality through automatic evaluations. The OLAPH
+framework iteratively trains LLMs to mitigate hallucinations using sampling
+predictions and preference optimization. In other words, we iteratively set the
+highest-scoring response as a preferred response derived from sampling
+predictions and train LLMs to align with the preferred response that improves
+factuality. We highlight that, even on evaluation metrics not used during
+training, LLMs trained with our OLAPH framework demonstrate significant
+performance improvement in factuality. Our findings reveal that a 7B LLM
+trained with our OLAPH framework can provide long answers comparable to the
+medical experts' answers in terms of factuality. We believe that our work could
+shed light on gauging the long-text generation ability of LLMs in the medical
+domain. Our code and datasets are available at
+https://github.com/dmis-lab/OLAPH}{https://github.com/dmis-lab/OLAPH.
+
+摘要：<paragraph>在醫療領域，許多情境都需要大型語言模型 (LLM) 產生長篇文字的能力。具體來說，在回答患者問題時，模型的回應傳達事實聲明至關重要，這突顯了自動化方法來評估這些聲明的必要性。因此，我們引入了 MedLFQA，這是一個使用與生物醫學領域相關的長篇問答資料集重建的基準資料集。我們使用 MedLFQA 來促進事實性的自動評估。我們還提出了一個簡單且新穎的框架 OLAPH，它能夠透過自動評估來改善事實性。OLAPH 框架反覆訓練 LLM，以使用抽樣預測和偏好最佳化來減輕幻覺。換句話說，我們反覆將最高分回應設定為從抽樣預測中得出的首選回應，並訓練 LLM 與改善事實性的首選回應保持一致。我們強調，即使在訓練期間未使用評估指標，使用我們的 OLAPH 框架訓練的 LLM 也在事實性方面表現出顯著的進步。我們的研究結果表明，使用我們的 OLAPH 框架訓練的 7B LLM 在事實性方面可以提供與醫療專家答案相當的長篇回答。我們相信，我們的研究可以幫助評估 LLM 在醫療領域的長篇文字產生能力。我們的程式碼和資料集可在 https://github.com/dmis-lab/OLAPH 獲得。</paragraph>
+
+##### **Exploration of Masked and Causal Language Modelling for Text Generation**
+2405.12630v1 by Nicolo Micheletti, Samuel Belkadi, Lifeng Han, Goran Nenadic
+
+Large Language Models (LLMs) have revolutionised the field of Natural
+Language Processing (NLP) and have achieved state-of-the-art performance in
+practically every task in this field. However, the prevalent approach used in
+text generation, Causal Language Modelling (CLM), which generates text
+sequentially from left to right, inherently limits the freedom of the model,
+which does not decide when and where each token is generated. In contrast,
+Masked Language Modelling (MLM), primarily used for language understanding
+tasks, can generate tokens anywhere in the text and any order. This paper
+conducts an extensive comparison of MLM and CLM approaches for text generation
+tasks. To do so, we pre-train several language models of comparable sizes on
+three different datasets, namely 1) medical discharge summaries, 2) movie plot
+synopses, and 3) authorship verification datasets. To assess the quality of the
+generations, we first employ quantitative metrics and then perform a
+qualitative human evaluation to analyse coherence and grammatical correctness.
+In addition, we evaluate the usefulness of the generated texts by using them in
+three different downstream tasks: 1) Entity Recognition, 2) Text
+Classification, and 3) Authorship Verification. The results show that MLM
+consistently outperforms CLM in text generation across all datasets, with
+higher quantitative scores and better coherence in the generated text. The
+study also finds \textit{no strong correlation} between the quality of the
+generated text and the performance of the models in the downstream tasks. With
+this study, we show that MLM for text generation has great potential for future
+research and provides direction for future studies in this area.
+
+摘要：<paragraph>大型語言模型 (LLM) 徹底改變了自然語言處理 (NLP) 領域，並在該領域的幾乎每一項任務中都達到了最先進的性能。然而，文本生成中使用的流行方法因果語言建模 (CLM)，它從左到右按順序生成文本，從本質上限制了模型的自由度，它不會決定何時何地生成每個符號。相比之下，主要用於語言理解任務的遮罩語言建模 (MLM) 可以按任何順序在文本中的任何位置生成符號。本文對 MLM 和 CLM 方法在文本生成任務中的進行了廣泛比較。為此，我們在三個不同的數據集上預訓練了幾個大小相當的語言模型，即 1) 醫療出院摘要、2) 電影情節簡介和 3) 作者驗證數據集。為了評估生成的質量，我們首先採用定量指標，然後進行定性的人工評估，以分析連貫性和語法正確性。此外，我們通過在三個不同的下游任務中使用生成的文本來評估其有用性：1) 實體識別、2) 文本分類和 3) 作者驗證。結果表明，MLM 在所有數據集上的文本生成中始終優於 CLM，生成的文本具有更高的定量分數和更好的連貫性。該研究還發現生成的文本質量與模型在下游任務中的性能之間\textit{沒有強相關性}。通過這項研究，我們表明文本生成的 MLM 對於未來的研究具有巨大潛力，並為該領域的未來研究提供了方向。</paragraph>
+
+##### **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**
+2405.12541v1 by Bufang Yang, Siyang Jiang, Lilin Xu, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
+
+Large language models (LLMs) have the potential to transform digital
+healthcare, as evidenced by recent advances in LLM-based virtual doctors.
+However, current approaches rely on patient's subjective descriptions of
+symptoms, causing increased misdiagnosis. Recognizing the value of daily data
+from smart devices, we introduce a novel LLM-based multi-turn consultation
+virtual doctor system, DrHouse, which incorporates three significant
+contributions: 1) It utilizes sensor data from smart devices in the diagnosis
+process, enhancing accuracy and reliability. 2) DrHouse leverages continuously
+updating medical databases such as Up-to-Date and PubMed to ensure our model
+remains at diagnostic standard's forefront. 3) DrHouse introduces a novel
+diagnostic algorithm that concurrently evaluates potential diseases and their
+likelihood, facilitating more nuanced and informed medical assessments. Through
+multi-turn interactions, DrHouse determines the next steps, such as accessing
+daily data from smart devices or requesting in-lab tests, and progressively
+refines its diagnoses. Evaluations on three public datasets and our
+self-collected datasets show that DrHouse can achieve up to an 18.8% increase
+in diagnosis accuracy over the state-of-the-art baselines. The results of a
+32-participant user study show that 75% medical experts and 91.7% patients are
+willing to use DrHouse.
+
+摘要：大型語言模型 (LLM) 有潛力轉變數位醫療保健，這點從 LLM 為基礎的虛擬醫師最近的進展中就能看出。然而，目前的做法依賴於患者主觀的症狀描述，導致誤診增加。我們認識到來自智慧裝置的每日資料價值，因此我們引進一個新穎的 LLM 為基礎的多輪諮詢虛擬醫師系統 DrHouse，它包含三個重要的貢獻：1) 它在診斷過程中利用來自智慧裝置的感測器資料，提升準確度和可靠度。2) DrHouse 充分利用持續更新的醫療資料庫，例如 Up-to-Date 和 PubMed，以確保我們的模型維持在診斷標準的最前線。3) DrHouse 引進一種新穎的診斷演算法，它同時評估潛在疾病及其可能性，促進更細緻且明智的醫療評估。透過多輪互動，DrHouse 決定下一步，例如取得來自智慧裝置的每日資料或要求實驗室檢驗，並逐步改善其診斷。針對三個公開資料集和我們自行收集的資料集進行評估顯示，DrHouse 在診斷準確度方面可以比現有最先進的基準線提高 18.8%。一個有 32 位參與者的使用者研究結果顯示，75% 的醫療專家和 91.7% 的患者願意使用 DrHouse。
+
+##### **Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**
+2405.12514v1 by Pat Pataranutaporn, Kavin Winson, Peggy Yin, Auttasak Lapapirojn, Pichayoot Ouppaphan, Monchai Lertsutthiwong, Pattie Maes, Hal Hershfield
+
+We introduce "Future You," an interactive, brief, single-session, digital
+chat intervention designed to improve future self-continuity--the degree of
+connection an individual feels with a temporally distant future self--a
+characteristic that is positively related to mental health and wellbeing. Our
+system allows users to chat with a relatable yet AI-powered virtual version of
+their future selves that is tuned to their future goals and personal qualities.
+To make the conversation realistic, the system generates a "synthetic
+memory"--a unique backstory for each user--that creates a throughline between
+the user's present age (between 18-30) and their life at age 60. The "Future
+You" character also adopts the persona of an age-progressed image of the user's
+present self. After a brief interaction with the "Future You" character, users
+reported decreased anxiety, and increased future self-continuity. This is the
+first study successfully demonstrating the use of personalized AI-generated
+characters to improve users' future self-continuity and wellbeing.
+
+摘要：<paragraph>我們推出「未來你」，這是一種互動式、簡短、單次數位聊天介入，旨在提升未來自我連續性，也就是個人與時間上遙遠的未來自我之間的連結程度，這是一種與心理健康和幸福感呈正相關的特質。我們的系統讓使用者可以與一名親切、但由 AI 驅動的虛擬未來自我聊天，這個虛擬未來自我會根據使用者的未來目標和個人特質進行調整。為了讓對話更逼真，系統會產生「合成記憶」，也就是每個使用者的獨特背景故事，在使用者目前的年齡（18-30 歲）和 60 歲的生活之間創造出一條貫穿線。這個「未來你」角色也會採用使用者目前自我的年齡進展後的形象。與「未來你」角色進行簡短互動後，使用者回報焦慮感降低，未來自我連續性提升。這是第一個成功展示使用個人化 AI 生成的角色來提升使用者未來自我連續性和幸福感的案例。</paragraph>
+
 ##### **Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**
 2405.11967v1 by Tatiana V. Afanasieva, Pavel V. Platov, Anastasia I. Medvedeva
 
@@ -2551,121 +2688,4 @@ UCA and Cobb angle (R$^2$=0.858) suggests that our proposed method can
 potentially replace manual UCA measurement in ultrasound scoliosis assessment.
 
 摘要：目前評估青少年特發性脊柱側彎 (AIS) 的臨床金標準是 X 光放射攝影，使用 Cobb 角測量。然而，由於累積的輻射曝露，使用 X 光頻繁監控 AIS 進展會構成挑戰。儘管 3D 超音波已被驗證為脊柱側彎評估一種可靠且無輻射的替代方案，但測量脊柱曲率的過程仍手動進行。因此，對於一個能夠定位骨性地標並執行角度測量的全自動系統有相當大的需求。為此，我們引進了一個用於自動超音波曲線角 (UCA) 測量的估計模型。該模型採用一個雙分支網路來偵測候選地標，並在超音波冠狀影像上執行椎骨分割。在椎骨分割區域內利用親和度聚類策略來說明候選地標之間的親和關係。隨後，我們可以從聚類的親和度圖中有效執行線條描繪，以進行 UCA 測量。由於我們的模型是專門為 UCA 計算而設計的，因此此模型在地標和線條偵測任務上優於其他現有技術。自動 UCA 和 Cobb 角之間的高度相關性 (R$^2$=0.858) 表明我們提出的方法有可能在超音波脊柱側彎評估中取代手動 UCA 測量。
-
-##### **RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation**
-2405.03064v1 by Zelei Cheng, Xian Wu, Jiahao Yu, Sabrina Yang, Gang Wang, Xinyu Xing
-
-Deep reinforcement learning (DRL) is playing an increasingly important role
-in real-world applications. However, obtaining an optimally performing DRL
-agent for complex tasks, especially with sparse rewards, remains a significant
-challenge. The training of a DRL agent can be often trapped in a bottleneck
-without further progress. In this paper, we propose RICE, an innovative
-refining scheme for reinforcement learning that incorporates explanation
-methods to break through the training bottlenecks. The high-level idea of RICE
-is to construct a new initial state distribution that combines both the default
-initial states and critical states identified through explanation methods,
-thereby encouraging the agent to explore from the mixed initial states. Through
-careful design, we can theoretically guarantee that our refining scheme has a
-tighter sub-optimality bound. We evaluate RICE in various popular RL
-environments and real-world applications. The results demonstrate that RICE
-significantly outperforms existing refining schemes in enhancing agent
-performance.
-
-摘要：深度強化學習 (DRL) 在現實世界的應用中扮演著越來越重要的角色。然而，要取得最佳效能的 DRL 代理，特別是在獎勵稀疏的情況下，仍然是一項重大的挑戰。DRL 代理的訓練常常會陷入瓶頸，無法進一步進展。在本文中，我們提出 RICE，一種創新的強化學習精煉方案，它結合了說明方法來突破訓練瓶頸。RICE 的高階概念是建構一個新的初始狀態分佈，結合了預設初始狀態和透過說明方法識別的關鍵狀態，從而鼓勵代理從混合的初始狀態進行探索。透過仔細的設計，我們可以在理論上保證我們的精煉方案具有更嚴格的次最佳界限。我們在各種流行的 RL 環境和現實世界的應用中評估 RICE。結果表明，RICE 在增強代理效能方面明顯優於現有的精煉方案。
-
-##### **AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**
-2405.03011v1 by Viet-Thanh Nguyen, Van-Truong Pham, Thi-Thao Tran
-
-Skin lesion segmentation is a critical task in computer-aided diagnosis
-systems for dermatological diseases. Accurate segmentation of skin lesions from
-medical images is essential for early detection, diagnosis, and treatment
-planning. In this paper, we propose a new model for skin lesion segmentation
-namely AC-MambaSeg, an enhanced model that has the hybrid CNN-Mamba backbone,
-and integrates advanced components such as Convolutional Block Attention Module
-(CBAM), Attention Gate, and Selective Kernel Bottleneck. AC-MambaSeg leverages
-the Vision Mamba framework for efficient feature extraction, while CBAM and
-Selective Kernel Bottleneck enhance its ability to focus on informative regions
-and suppress background noise. We evaluate the performance of AC-MambaSeg on
-diverse datasets of skin lesion images including ISIC-2018 and PH2; then
-compare it against existing segmentation methods. Our model shows promising
-potential for improving computer-aided diagnosis systems and facilitating early
-detection and treatment of dermatological diseases. Our source code will be
-made available at: https://github.com/vietthanh2710/AC-MambaSeg.
-
-摘要：皮膚病變分割在皮膚病的電腦輔助診斷系統中是一項重要的任務。從醫學影像中準確分割皮膚病變對於早期檢測、診斷和治療計畫至關重要。在本文中，我們提出了一個新的皮膚病變分割模型，即 AC-MambaSeg，一個具有混合 CNN-Mamba 主幹的增強模型，並整合了卷積區塊注意力模組 (CBAM)、注意力閘門和選擇性核瓶頸等先進組件。AC-MambaSeg 利用 Vision Mamba 框架進行高效的特徵提取，而 CBAM 和選擇性核瓶頸增強了它專注於資訊區域和抑制背景雜訊的能力。我們在包括 ISIC-2018 和 PH2 在內的各種皮膚病變影像資料集上評估了 AC-MambaSeg 的效能；然後將其與現有的分割方法進行比較。我們的模型顯示出改善電腦輔助診斷系統和促進皮膚病的早期檢測和治療的潛力。我們的原始碼將在以下位置提供：https://github.com/vietthanh2710/AC-MambaSeg。
-
-##### **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
-2405.02957v1 by Junkai Li, Siyu Wang, Meng Zhang, Weitao Li, Yunghwei Lai, Xinhui Kang, Weizhi Ma, Yang Liu
-
-In this paper, we introduce a simulacrum of hospital called Agent Hospital
-that simulates the entire process of treating illness. All patients, nurses,
-and doctors are autonomous agents powered by large language models (LLMs). Our
-central goal is to enable a doctor agent to learn how to treat illness within
-the simulacrum. To do so, we propose a method called MedAgent-Zero. As the
-simulacrum can simulate disease onset and progression based on knowledge bases
-and LLMs, doctor agents can keep accumulating experience from both successful
-and unsuccessful cases. Simulation experiments show that the treatment
-performance of doctor agents consistently improves on various tasks. More
-interestingly, the knowledge the doctor agents have acquired in Agent Hospital
-is applicable to real-world medicare benchmarks. After treating around ten
-thousand patients (real-world doctors may take over two years), the evolved
-doctor agent achieves a state-of-the-art accuracy of 93.06% on a subset of the
-MedQA dataset that covers major respiratory diseases. This work paves the way
-for advancing the applications of LLM-powered agent techniques in medical
-scenarios.
-
-摘要：在本文中，我們介紹了一個名為 Agent Hospital 的醫院模擬器，它模擬了治療疾病的整個過程。所有患者、護士和醫生都是由大型語言模型 (LLM) 驅動的自主代理。我們的核心目標是讓醫生代理學習如何在模擬器中治療疾病。為此，我們提出了一種名為 MedAgent-Zero 的方法。由於模擬器可以根據知識庫和 LLM 模擬疾病的發作和進展，因此醫生代理可以持續累積來自成功和失敗案例的經驗。模擬實驗表明，醫生代理的治療表現持續改善各種任務。更有趣的是，醫生代理在 Agent Hospital 中獲得的知識適用於現實世界的醫療基準。在治療大約一萬名患者後（現實世界的醫生可能需要兩年以上），進化的醫生代理在涵蓋主要呼吸道疾病的 MedQA 數據集子集中達到了 93.06% 的最新準確度。這項工作為推進 LLM 驅動的代理技術在醫療場景中的應用鋪平了道路。
-
-##### **Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**
-2405.02815v1 by Zhusi Zhong, Jie Li, Zhuoqi Ma, Scott Collins, Harrison Bai, Paul Zhang, Terrance Healey, Xinbo Gao, Michael K. Atalay, Zhicheng Jiao
-
-The COVID-19 pandemic has strained global public health, necessitating
-accurate diagnosis and intervention to control disease spread and reduce
-mortality rates. This paper introduces an interpretable deep survival
-prediction model designed specifically for improved understanding and trust in
-COVID-19 prognosis using chest X-ray (CXR) images. By integrating a large-scale
-pretrained image encoder, Risk-specific Grad-CAM, and anatomical region
-detection techniques, our approach produces regional interpretable outcomes
-that effectively capture essential disease features while focusing on rare but
-critical abnormal regions. Our model's predictive results provide enhanced
-clarity and transparency through risk area localization, enabling clinicians to
-make informed decisions regarding COVID-19 diagnosis with better understanding
-of prognostic insights. We evaluate the proposed method on a multi-center
-survival dataset and demonstrate its effectiveness via quantitative and
-qualitative assessments, achieving superior C-indexes (0.764 and 0.727) and
-time-dependent AUCs (0.799 and 0.691). These results suggest that our
-explainable deep survival prediction model surpasses traditional survival
-analysis methods in risk prediction, improving interpretability for clinical
-decision making and enhancing AI system trustworthiness.
-
-摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
-
-##### **GAD: A Real-time Gait Anomaly Detection System with Online Adaptive Learning**
-2405.09561v1 by Ming-Chang Lee, Jia-Chun Lin, Sokratis Katsikas
-
-Gait anomaly detection is a task that involves detecting deviations from a
-person's normal gait pattern. These deviations can indicate health issues and
-medical conditions in the healthcare domain, or fraudulent impersonation and
-unauthorized identity access in the security domain. A number of gait anomaly
-detection approaches have been introduced, but many of them require offline
-data preprocessing, offline model learning, setting parameters, and so on,
-which might restrict their effectiveness and applicability in real-world
-scenarios. To address these issues, this paper introduces GAD, a real-time gait
-anomaly detection system. GAD focuses on detecting anomalies within an
-individual's three-dimensional accelerometer readings based on dimensionality
-reduction and Long Short-Term Memory (LSTM). Upon being launched, GAD begins
-collecting a gait segment from the user and training an anomaly detector to
-learn the user's walking pattern on the fly. If the subsequent model
-verification is successful, which involves validating the trained detector
-using the user's subsequent steps, the detector is employed to identify
-abnormalities in the user's subsequent gait readings at the user's request. The
-anomaly detector will be retained online to adapt to minor pattern changes and
-will undergo retraining as long as it cannot provide adequate prediction. We
-explored two methods for capturing users' gait segments: a personalized method
-tailored to each individual's step length, and a uniform method utilizing a
-fixed step length. Experimental results using an open-source gait dataset show
-that GAD achieves a higher detection accuracy ratio when combined with the
-personalized method.
-
-摘要：步態異常偵測是一項涉及偵測個人正常步態模式的偏差的任務。這些偏差可能表示醫療保健領域的健康問題和疾病，或安全領域的欺詐性冒充和未經授權的身分存取。已經提出許多步態異常偵測方法，但其中許多方法需要離線資料前處理、離線模型學習、設定參數等，這可能會限制它們在實際場景中的有效性和適用性。為了解決這些問題，本文介紹了 GAD，一個即時步態異常偵測系統。GAD 專注於根據降維和長短期記憶 (LSTM) 偵測個人三維加速規讀數中的異常值。啟動後，GAD 開始從使用者收集步態區段，並訓練異常偵測器以即時學習使用者的步行模式。如果後續模型驗證成功，其中包括使用使用者的後續步驟驗證已訓練的偵測器，則會使用偵測器來識別使用者後續步態讀數中的異常值，具體取決於使用者的要求。異常偵測器將保留在線上以適應微小的模式變化，並且只要無法提供足夠的預測，就會進行重新訓練。我們探索了兩種擷取使用者步態區段的方法：一種針對每個人的步長量身打造的個人化方法，以及一種利用固定步長的一致性方法。使用開源步態資料集的實驗結果顯示，當 GAD 與個人化方法結合使用時，可以達到更高的偵測準確率。
 

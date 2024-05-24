@@ -57,7 +57,7 @@
 |**2024-05-21**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473v1](http://arxiv.org/abs/2405.12473v1)|null|
 |**2024-05-21**|**Leveraging Diverse Data Generation for Adaptable Zero-Shot Dialogue State Tracking**|James D. Finch et.al.|[2405.12468v1](http://arxiv.org/abs/2405.12468v1)|null|
 |**2024-05-21**|**Stochastic Learning of Computational Resource Usage as Graph Structured Multimarginal Schrödinger Bridge**|Georgiy A. Bondar et.al.|[2405.12463v1](http://arxiv.org/abs/2405.12463v1)|null|
-|**2024-05-21**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462v1](http://arxiv.org/abs/2405.12462v1)|null|
+|**2024-05-21**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462v2](http://arxiv.org/abs/2405.12462v2)|null|
 |**2024-05-21**|**WorldAfford: Affordance Grounding based on Natural Language Instructions**|Changmao Chen et.al.|[2405.12461v1](http://arxiv.org/abs/2405.12461v1)|null|
 |**2024-05-21**|**PathOCL: Path-Based Prompt Augmentation for OCL Generation with GPT-4**|Seif Abukhalaf et.al.|[2405.12450v1](http://arxiv.org/abs/2405.12450v1)|null|
 |**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
@@ -1422,7 +1422,7 @@ controller, and a synthetic multi-core software.
 摘要：我們提出學習時間變動隨機計算資源使用率的軟體，作為圖形結構薛丁格橋樑問題。一般來說，從資料中學習計算資源使用率具有挑戰性，因為資源（例如 CPU 指令數和最後層級快取要求數）同時具有時間變異性和統計相關性。我們提出的方法能夠以非參數方式從測量輪廓快照中學習計算資源使用率中的聯合時間變異隨機性。此方法可用於預測在所需時間內最有可能的時間變異計算資源可用性分佈。我們提供單核和多核情況下隨機學習的詳細演算法，討論收斂保證、計算複雜度，並展示它們在兩個案例研究中的實際用途：單核非線性模型預測控制器和合成多核軟體。
 
 ##### **Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**
-2405.12462v1 by Zhicheng Zhang, Yong Wang, Shaoqi Tan, Bowei Xia, Yujie Luo
+2405.12462v2 by Zhicheng Zhang, Yong Wang, Shaoqi Tan, Bowei Xia, Yujie Luo
 
 Transformer-based models for long sequence time series forecasting (LSTF)
 problems have gained significant attention due to their exceptional forecasting
@@ -1439,7 +1439,7 @@ models across five time series tasks, we observe an average performance
 improvement of 9.45% while achieving a significant reduction in model size by
 46%
 
-摘要：基於 Transformer 的長序列時間序列預測 (LSTF) 問題模型由於其出色的預測精度而備受關注。作為這些模型的基石，自我注意機制由於其二次時間複雜度對高效訓練和推理提出了挑戰。在本文中，我們提出了一個基於 Transformer 的 LSTF 模型的新架構設計，利用了一個包含代理注意區塊和代理 FFN 區塊的替換框架。該框架旨在提高任何設計良好的模型的效率，而不會犧牲其準確性。我們進一步建立了代理注意區塊與自我注意機制在表達能力和可訓練性方面的等價性。通過涵蓋五個時間序列任務的九個基於 Transformer 的模型的廣泛實驗，我們觀察到平均性能提高了 9.45%，同時模型大小顯著減少了 46%
+摘要：基於 Transformer 的長序列時間序列預測 (LSTF) 問題模型由於其卓越的預測精準度而備受關注。作為這些模型的基石，自注意力機制由於其二次時間複雜度而對高效訓練和推論構成挑戰。在本文中，我們為 LSTF 中基於 Transformer 的模型提出了一種新穎的架構設計，利用了一個包含代理注意力區塊和代理 FFN 區塊的替換框架。該框架旨在提升任何精心設計的模型的效率，而不會犧牲其準確性。我們進一步建立了代理注意力區塊與自注意力機制在表達力和可訓練性方面的等價性。通過涵蓋九個基於 Transformer 的模型的廣泛實驗，跨越五個時間序列任務，我們觀察到平均性能提升了 9.45%，同時將模型大小顯著減少了 46%
 
 ##### **WorldAfford: Affordance Grounding based on Natural Language Instructions**
 2405.12461v1 by Changmao Chen, Yuren Cong, Zhen Kan

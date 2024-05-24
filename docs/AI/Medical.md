@@ -12,7 +12,7 @@
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640v1](http://arxiv.org/abs/2405.11640v1)|null|
 |**2024-05-19**|**Sociotechnical Implications of Generative Artificial Intelligence for Information Access**|Bhaskar Mitra et.al.|[2405.11612v1](http://arxiv.org/abs/2405.11612v1)|null|
 |**2024-05-19**|**AI-Assisted Diagnosis for Covid-19 CXR Screening: From Data Collection to Clinical Validation**|Carlo Alberto Barbano et.al.|[2405.11598v1](http://arxiv.org/abs/2405.11598v1)|null|
-|**2024-05-18**|**EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging**|Danli Shi et.al.|[2405.11338v1](http://arxiv.org/abs/2405.11338v1)|null|
+|**2024-05-18**|**EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging**|Danli Shi et.al.|[2405.11338v2](http://arxiv.org/abs/2405.11338v2)|null|
 |**2024-05-18**|**Towards Knowledge-Infused Automated Disease Diagnosis Assistant**|Mohit Tomar et.al.|[2405.11181v1](http://arxiv.org/abs/2405.11181v1)|[link](https://github.com/nlp-rl/ki-ddi)|
 |**2024-05-18**|**Multi-scale Information Sharing and Selection Network with Boundary Attention for Polyp Segmentation**|Xiaolu Kang et.al.|[2405.11151v1](http://arxiv.org/abs/2405.11151v1)|null|
 |**2024-05-17**|**Generative Artificial Intelligence: A Systematic Review and Applications**|Sandeep Singh Sengar et.al.|[2405.11029v1](http://arxiv.org/abs/2405.11029v1)|null|
@@ -23,13 +23,13 @@
 |**2024-05-17**|**Cyclical Weight Consolidation: Towards Solving Catastrophic Forgetting in Serial Federated Learning**|Haoyue Song et.al.|[2405.10647v1](http://arxiv.org/abs/2405.10647v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
 |**2024-05-17**|**Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges**|Xiaoming Shi et.al.|[2405.10630v1](http://arxiv.org/abs/2405.10630v1)|null|
-|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301v1](http://arxiv.org/abs/2405.10301v1)|null|
+|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301v2](http://arxiv.org/abs/2405.10301v2)|null|
 |**2024-05-16**|**Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting**|Divij Gupta et.al.|[2405.10216v1](http://arxiv.org/abs/2405.10216v1)|null|
 |**2024-05-16**|**HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition**|Kun Yuan et.al.|[2405.10075v1](http://arxiv.org/abs/2405.10075v1)|null|
 |**2024-05-16**|**Histopathology Foundation Models Enable Accurate Ovarian Cancer Subtype Classification**|Jack Breen et.al.|[2405.09990v1](http://arxiv.org/abs/2405.09990v1)|[link](https://github.com/scjjb/ovarian_features)|
 |**2024-05-16**|**Predicting Solar Heat Production to Optimize Renewable Energy Usage**|Tatiana Boura et.al.|[2405.09972v1](http://arxiv.org/abs/2405.09972v1)|null|
 |**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
-|**2024-05-16**|**Risk Management for Medical Devices via the Riskman Ontology & Shapes**|Piotr Gorczyca et.al.|[2405.09875v1](http://arxiv.org/abs/2405.09875v1)|null|
+|**2024-05-16**|**A Farewell to Harms: Risk Management for Medical Devices via the Riskman Ontology & Shapes**|Piotr Gorczyca et.al.|[2405.09875v2](http://arxiv.org/abs/2405.09875v2)|null|
 |**2024-05-16**|**MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis**|Joseph Cho et.al.|[2405.09806v1](http://arxiv.org/abs/2405.09806v1)|null|
 |**2024-05-16**|**Many-Shot In-Context Learning in Multimodal Foundation Models**|Yixing Jiang et.al.|[2405.09798v1](http://arxiv.org/abs/2405.09798v1)|[link](https://github.com/stanfordmlgroup/ManyICL)|
 |**2024-05-16**|**Machine Learning Driven Biomarker Selection for Medical Diagnosis**|Divyagna Bavikadi et.al.|[2405.10345v1](http://arxiv.org/abs/2405.10345v1)|null|
@@ -370,7 +370,7 @@ https://corsa.di.unito.it/
 摘要：在本文中，我們將介紹在義大利進行的 Covid 放射影像系統基於 AI（Co.R.S.A.）計畫的主要結果。此計畫的目標是開發一個最先進的基於 AI 的系統，用於根據胸部 X 光（CXR）影像診斷 Covid-19 肺炎。此研究的貢獻包括：釋出公開的 CORDA 資料集、一個用於偵測 Covid-19 的深度學習管道，以及由放射科專家對開發的解決方案進行臨床驗證。所提出的偵測模型基於一個兩步驟方法，搭配最先進的去偏，提供可靠的結果。最重要的是，我們的調查包括放射科醫師實際使用診斷輔助工具，讓我們能夠評估在準確性和時間效率方面的實際效益。計畫首頁：https://corsa.di.unito.it/
 
 ##### **EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging**
-2405.11338v1 by Danli Shi, Weiyi Zhang, Xiaolan Chen, Yexin Liu, Jianchen Yang, Siyu Huang, Yih Chung Tham, Yingfeng Zheng, Mingguang He
+2405.11338v2 by Danli Shi, Weiyi Zhang, Xiaolan Chen, Yexin Liu, Jiancheng Yang, Siyu Huang, Yih Chung Tham, Yingfeng Zheng, Mingguang He
 
 Artificial intelligence (AI) is vital in ophthalmology, tackling tasks like
 diagnosis, classification, and visual question answering (VQA). However,
@@ -390,9 +390,9 @@ downstream tasks, even for detecting challenging rare diseases. It outperforms
 previous work RETFound in diagnosing eye diseases, predicting systemic disease
 incidents, and zero-shot multimodal VQA. EyeFound provides a generalizable
 solution to improve model performance and lessen the annotation burden on
-experts, facilitating widespread clinical AI applications from retinal imaging.
+experts, facilitating widespread clinical AI applications for retinal imaging.
 
-摘要：人工智慧（AI）對於眼科至關重要，它能處理診斷、分類和視覺問題解答（VQA）等任務。然而，這個領域現有的 AI 模型通常需要大量的註解，而且特定於任務，這限制了它們的臨床效用。雖然最近的發展為眼科帶來了基礎模型，但它們受到為每個影像模式訓練獨立權重的需求限制，這阻礙了多模式特徵的全面表示。這凸顯了需要能夠處理眼科中各種任務和模式的多功能基礎模型。為了解決這個差距，我們提出了 EyeFound，一個用於眼科影像的多模式基礎模型。與現有模型不同，EyeFound 從未標記的多模式視網膜影像中學習可概括的表示，從而能夠跨多個應用程式有效地調整模型。EyeFound 訓練了來自 11 種眼科模式的 227 家醫院的 278 萬張影像，它促進了通才表示和多樣化的多模式下游任務，甚至可以偵測具有挑戰性的罕見疾病。它在診斷眼疾、預測全身疾病事件和零次學習多模式 VQA 方面優於先前的 RETFound。EyeFound 提供了一個可概括的解決方案，以改善模型效能並減輕專家的註解負擔，從而促進視網膜影像的廣泛臨床 AI 應用。
+摘要：人工智慧 (AI) 在眼科中至關重要，可處理診斷、分類和視覺問答 (VQA) 等任務。然而，此領域現有的 AI 模型通常需要廣泛的註解，而且特定於任務，這限制了它們的臨床效用。儘管最近的發展為眼科帶來了基礎模型，但它們受到訓練需要為每個影像模式訓練獨立權重的限制，這阻礙了多模式特徵的全面表示。這突顯了需要能夠處理眼科中各種任務和模式的多功能基礎模型。為了解決這個差距，我們提出了 EyeFound，一個用於眼科影像的多模式基礎模型。與現有模型不同，EyeFound 從未標記的多模式視網膜影像中學習可概括的表示，從而能夠在多個應用程式中有效地調整模型。EyeFound 接受了來自 11 種眼科模式的 227 家醫院的 278 萬張影像訓練，即使在偵測具有挑戰性的罕見疾病時，它也能促進通才表示和多樣化的多模式下游任務。它在診斷眼疾、預測全身性疾病事件和零次學習多模式 VQA 方面優於先前的 RETFound。EyeFound 提供了一個可概括的解決方案，以改善模型效能並減輕專家的註解負擔，促進廣泛的臨床 AI 應用於視網膜影像。
 
 ##### **Towards Knowledge-Infused Automated Disease Diagnosis Assistant**
 2405.11181v1 by Mohit Tomar, Abhisek Tiwari, Sriparna Saha
@@ -647,7 +647,7 @@ systems, especially of large language models.
 摘要：這篇論文調查並整理了醫療對話系統的研究工作，這是一項重要且具有挑戰性的任務。儘管這些系統已從應用角度在醫療界進行調查，但迄今為止仍明顯缺乏從嚴謹技術角度進行的系統性回顧。因此，對醫療對話系統的類別、方法和評估的概述仍然有限且未指定，阻礙了該領域的進一步改進。為了填補這一空白，我們研究了來自知名計算機科學、自然語言處理會議和期刊的 325 篇論文的初始庫，並進行了概述。最近，大型語言模型在下游任務上表現出強大的模型能力，這也重塑了醫療對話系統的基礎。儘管具有誘人的實際應用價值，但當前的醫療對話系統仍然存在問題。為此，本文列出了醫療對話系統的重大挑戰，尤其是大型語言模型的挑戰。
 
 ##### **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**
-2405.10301v1 by Yu Gui, Ying Jin, Zhimei Ren
+2405.10301v2 by Yu Gui, Ying Jin, Zhimei Ren
 
 Before deploying outputs from foundation models in high-stakes tasks, it is
 imperative to ensure that they align with human values. For instance, in
@@ -668,7 +668,7 @@ training over a moderate amount of reference data. En route, we investigate the
 informativeness of various features in alignment prediction and combine them
 with standard models to construct the alignment predictor.
 
-摘要：在將基礎模型的輸出部署到高風險任務之前，必須確保它們與人類價值觀保持一致。例如，在放射學報告生成中，在將視覺語言模型生成的報告用於醫療決策之前，必須與人類評估保持一致。本文提出了共形校準，這是一個用於識別輸出符合使用者指定校準準則的單元的通用框架。無論基礎模型或資料分佈如何，平均而言，一定比例的選定單元確實符合校準準則。給定任何預先訓練的模型和具有模型生成輸出的新單元，共形校準利用一組具有真實校準狀態的參考資料來訓練校準預測器。然後，它選擇預測校準分數超過資料依賴性閾值的單元，並將其對應的輸出認證為可信賴的。透過應用於問題解答和放射學報告生成，我們證明了我們的方法能夠透過對適量的參考資料進行輕量化訓練，準確地識別具有可信賴輸出的單元。在途中，我們研究了校準預測中各種特徵的信息量，並將它們與標準模型結合起來，以構建校準預測器。
+摘要：在將基礎模型的輸出部署到高風險任務之前，務必確保它們符合人類價值觀。例如，在放射學報告生成中，由視覺語言模型生成的報告必須符合人類評估，才能用於醫療決策制定。本文提出了一致性校準，一個用於識別其輸出符合使用者指定一致性準則的單元的通用架構。可以保證平均而言，所選單元中一定比例的單元確實符合一致性準則，而與基礎模型或資料分佈無關。給定任何預訓練模型和具有模型生成輸出的新單元，一致性校準會利用具備基本事實一致性狀態的參考資料集來訓練一致性預測器。然後，它會選擇預測一致性分數超過資料相關閾值的單元，並證明其對應的輸出值得信賴。透過應用於問題解答和放射學報告生成，我們證明了我們的方法能夠透過大量參考資料上的輕量級訓練，準確識別具有可信賴輸出的單元。在過程中，我們探討了各種特徵在一致性預測中的資訊量，並將它們與標準模型結合起來建構一致性預測器。
 
 ##### **Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting**
 2405.10216v1 by Divij Gupta, Anubhav Bhatti, Suraj Parmar, Chen Dan, Yuwei Liu, Bingjie Shen, San Lee
@@ -810,8 +810,8 @@ pathologists.
 
 摘要：多實例學習 (MIL) 是一種對數位病理應用而言具有吸引力的方法，因為它降低了與資料蒐集和標籤相關的成本。然而，MIL 對臨床現實領域轉移的敏感度並不清楚，也就是說，資料分佈的差異可能會對效能造成負面影響，而且現有的領域轉移偵測指標是否能順利與這些演算法搭配使用。我們訓練了一個基於注意力的 MIL 演算法，用於分類淋巴結的整張幻燈片影像是否包含乳房腫瘤轉移。該演算法在不同國家的醫院資料和對應於不同程度領域轉移的各種資料子集中進行評估。我們的貢獻包括顯示用於數位病理的 MIL 會受到資料在臨床上實際的差異影響，評估 MIL 模型中的哪些特徵最適合用於偵測效能變化，並提出一個名為 Fr\'echet 領域距離 (FDD) 的非監督式指標，用於量化領域轉移。轉移測量效能透過與分類效能變化的平均皮爾森相關性進行評估，其中 FDD 在 10 倍交叉驗證模型中達到 0.70。基準線包括深度整體、信心差異和表示轉移，分別產生 0.45、-0.29 和 0.56 的平均皮爾森相關性。FDD 可能是一個有價值的工具，供照護提供者和供應商在實施新的場域時驗證 MIL 系統是否可能執行可靠的效能，而不需要病理學家的任何額外註解。
 
-##### **Risk Management for Medical Devices via the Riskman Ontology & Shapes**
-2405.09875v1 by Piotr Gorczyca, Dörthe Arndt, Martin Diller, Pascal Kettmann, Stephan Mennicke, Hannes Strass
+##### **A Farewell to Harms: Risk Management for Medical Devices via the Riskman Ontology & Shapes**
+2405.09875v2 by Piotr Gorczyca, Dörthe Arndt, Martin Diller, Pascal Kettmann, Stephan Mennicke, Hannes Strass
 
 We introduce the Riskman ontology & shapes for representing and analysing
 information about risk management for medical devices. Risk management is
@@ -828,7 +828,7 @@ documentation) as well as notified bodies (when assessing submitted
 applications for certification), and thus offers considerable benefits for
 healthcare and, by extension, society as a whole.
 
-摘要：我們引入了 Riskman ontology 和形狀，用於表示和分析醫療器材風險管理的資訊。風險管理關注於採取必要的預防措施，讓醫療器材不會對使用者或環境造成傷害。迄今為止，風險管理文件是以半結構化的自然語言文字形式提交給公告機構（用於認證）。我們建議使用 Riskman ontology 中的類別來邏輯建模風險管理文件，並使用包含的 SHACL 約束來檢查語法完整性和是否符合相關標準。特別是，ontology 是根據 ISO 14971 和最近發布的 VDE Spec 90025 建模的。我們提出的方法有潛力為製造商（在建立風險管理文件時）和公告機構（在評估提交的認證申請時）節省大量的人力，因此為醫療保健和進一步推廣到整個社會帶來可觀的利益。
+摘要：我們引入了 Riskman ontology 和形狀，用於表示和分析醫療器材風險管理的資訊。風險管理關注採取必要的預防措施，讓醫療器材不會對使用者或環境造成危害。迄今為止，風險管理文件是以半結構化的自然語言文字形式提交給公告單位（用於認證）。我們提議使用 Riskman ontology 中的類別，以邏輯方式建構風險管理文件，並使用所包含的 SHACL 約束，檢查語法完整性和是否符合相關標準。特別是，ontology 是根據 ISO 14971 和最近發布的 VDE Spec 90025 建構的。我們提出的方法論有可能為製造商（在建立風險管理文件時）和公告單位（在評估提交的認證申請時）節省大量的人力，因此對醫療保健，以及進一步擴展到整個社會，都提供了相當大的好處。
 
 ##### **MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis**
 2405.09806v1 by Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger

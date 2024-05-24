@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v2](http://arxiv.org/abs/2405.06270v2)|null|
@@ -101,9 +102,24 @@
 |**2022-09-14**|**Explainable AI for clinical and remote health applications: a survey on tabular and time series data**|Flavio Di Martino et.al.|[2209.06528v1](http://arxiv.org/abs/2209.06528v1)|null|
 |**2022-08-31**|**Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**|Gaetan Dissez et.al.|[2208.14742v1](http://arxiv.org/abs/2208.14742v1)|null|
 |**2022-08-24**|**GAN-based generative modelling for dermatological applications -- comparative study**|Sandra Carrasco Limeros et.al.|[2208.11702v1](http://arxiv.org/abs/2208.11702v1)|[link](https://github.com/aidotse/stylegan2-ada-pytorch)|
-|**2022-08-05**|**Planning and Scheduling in Digital Health with Answer Set Programming**|Marco Mochi et.al.|[2208.03099v1](http://arxiv.org/abs/2208.03099v1)|null|
 
 #### Abstracts
+##### **The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**
+2405.13099v1 by Mohsen Jozani, Jason A. Williams, Ahmed Aleroud, Sarbottam Bhagat
+
+This study explores the relationship between informational support seeking
+questions, responses, and helpfulness ratings in online health communities. We
+created a labeled data set of question-response pairs and developed multimodal
+machine learning and deep learning models to reliably predict informational
+support questions and responses. We employed explainable AI to reveal the
+emotions embedded in informational support exchanges, demonstrating the
+importance of emotion in providing informational support. This complex
+interplay between emotional and informational support has not been previously
+researched. The study refines social support theory and lays the groundwork for
+the development of user decision aids. Further implications are discussed.
+
+摘要：本研究探討線上健康社群中尋求資訊支持的問題、回應，以及有幫助的評分之間的關係。我們建立了一組標記的問答配對資料集，並開發了多模態機器學習和深度學習模型，以可靠地預測資訊支持問題和回應。我們採用可解釋的 AI 來揭示資訊支持交流中蘊含的情緒，證明情緒在提供資訊支持中的重要性。這種情緒支持和資訊支持之間的複雜交互作用以前並未被研究過。本研究改進了社會支持理論，並為使用者決策輔助工具的開發奠定了基礎。討論了進一步的影響。
+
 ##### **ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**
 2405.10645v1 by Harris Bin Munawar, Nikolaos Misirlis
 
@@ -2564,26 +2580,4 @@ studies is publicly available at
 \url{https://github.com/aidotse/stylegan2-ada-pytorch}.
 
 摘要：在 AI 驅動醫療保健中，缺乏足夠大的開放式醫療資料庫是最重大的挑戰之一。使用生成對抗網路 (GAN) 所建立的合成資料，似乎是能減輕隱私政策問題的良好解決方案。另一種治療方式是分散式協定，它能讓多個醫療機構在不交換當地資料範例的情況下進行交流。在這篇論文中，我們在集中式和分散式設定中探討了無條件和有條件 GAN。集中式設定模擬了大型但極不平衡的皮膚病變資料集的研究，而分散式設定模擬了三個機構之間更實際的醫院情境。我們評估了模型的效能，包括保真度、多樣性、訓練速度，以及在生成的合成資料上訓練分類器的預測能力。此外，我們透過探索潛在空間和嵌入投影，提供了對全球和局部解釋的說明。計算出的真實影像與其在潛在空間中的投影之間的距離，證明了訓練過 GAN 的真實性與泛化能力，而這正是此類應用程式的主要考量之一。已公開發布進行研究的開放原始碼，網址為：\url{https://github.com/aidotse/stylegan2-ada-pytorch}。
-
-##### **Planning and Scheduling in Digital Health with Answer Set Programming**
-2208.03099v1 by Marco Mochi
-
-In the hospital world there are several complex combinatory problems, and
-solving these problems is important to increase the degree of patients'
-satisfaction and the quality of care offered. The problems in the healthcare
-are complex since to solve them several constraints and different type of
-resources should be taken into account. Moreover, the solutions must be
-evaluated in a small amount of time to ensure the usability in real scenarios.
-We plan to propose solutions to these kind of problems both expanding already
-tested solutions and by modelling solutions for new problems, taking into
-account the literature and by using real data when available. Solving these
-kind of problems is important but, since the European Commission established
-with the General Data Protection Regulation that each person has the right to
-ask for explanation of the decision taken by an AI, without developing
-Explainability methodologies the usage of AI based solvers e.g. those based on
-Answer Set programming will be limited. Thus, another part of the research will
-be devoted to study and propose new methodologies for explaining the solutions
-obtained.
-
-摘要：在醫院的世界中，有許多複雜的組合問題，解決這些問題對於提高患者的滿意度和所提供的照護品質非常重要。醫療保健中的問題很複雜，因為要解決這些問題，必須考慮到許多限制和不同類型的資源。此外，必須在短時間內評估解決方案，以確保在實際情況中可用。我們計畫提出解決這類問題的方案，方法是擴展已經測試過的解決方案，並針對新問題建構解決方案模型，同時考量文獻資料，並在可用時使用真實資料。解決這類問題很重要，但由於歐盟執委會制定了《一般資料保護法規》，規定每個人都有權要求解釋人工智慧做出的決定，因此在未發展出可解釋性方法的情況下，基於人工智慧的求解器（例如基於答案設定程式設計的求解器）的使用將受到限制。因此，研究的另一部分將致力於研究和提出新的方法，以說明所獲得的解決方案。
 

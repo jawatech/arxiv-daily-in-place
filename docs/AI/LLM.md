@@ -27,7 +27,7 @@
 |**2024-05-23**|**A Transformer-Based Approach for Smart Invocation of Automatic Code Completion**|Aral de Moor et.al.|[2405.14753v1](http://arxiv.org/abs/2405.14753v1)|null|
 |**2024-05-23**|**Extreme Solar Flare Prediction Using Residual Networks with HMI Magnetograms and Intensitygrams**|Juyoung Yun et.al.|[2405.14750v1](http://arxiv.org/abs/2405.14750v1)|null|
 |**2024-05-23**|**MultiCast: Zero-Shot Multivariate Time Series Forecasting Using LLMs**|Georgios Chatzigeorgakidis et.al.|[2405.14748v1](http://arxiv.org/abs/2405.14748v1)|null|
-|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747v1](http://arxiv.org/abs/2405.14747v1)|[link](https://github.com/Franpin/TopoLogic)|
+|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747v1](http://arxiv.org/abs/2405.14747v1)|null|
 |**2024-05-23**|**SimPO: Simple Preference Optimization with a Reference-Free Reward**|Yu Meng et.al.|[2405.14734v1](http://arxiv.org/abs/2405.14734v1)|[link](https://github.com/princeton-nlp/simpo)|
 |**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728v1](http://arxiv.org/abs/2405.14728v1)|null|
 |**2024-05-23**|**CAPE: Context-Adaptive Positional Encoding for Length Extrapolation**|Chuanyang Zheng et.al.|[2405.14722v1](http://arxiv.org/abs/2405.14722v1)|[link](https://github.com/chuanyang-zheng/cape)|
@@ -70,7 +70,7 @@
 |**2024-05-23**|**Enhanced Spatiotemporal Prediction Using Physical-guided And Frequency-enhanced Recurrent Neural Networks**|Xuanle Zhao et.al.|[2405.14504v1](http://arxiv.org/abs/2405.14504v1)|null|
 |**2024-05-23**|**Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models**|Johan S Daniel et.al.|[2405.14490v1](http://arxiv.org/abs/2405.14490v1)|[link](https://github.com/raidedcluster/non-standard_unicode_jailbreaks)|
 |**2024-05-23**|**MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability**|Yanrui Du et.al.|[2405.14488v1](http://arxiv.org/abs/2405.14488v1)|[link](https://github.com/dyr1/mogu)|
-|**2024-05-23**|**RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models**|Xiangkun Hu et.al.|[2405.14486v1](http://arxiv.org/abs/2405.14486v1)|null|
+|**2024-05-23**|**RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models**|Xiangkun Hu et.al.|[2405.14486v1](http://arxiv.org/abs/2405.14486v1)|[link](https://github.com/amazon-science/refchecker)|
 |**2024-05-23**|**SLIFER: Investigating Performance and Robustness of Malware Detection Pipelines**|Andrea Ponte et.al.|[2405.14478v1](http://arxiv.org/abs/2405.14478v1)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475v1](http://arxiv.org/abs/2405.14475v1)|null|
 |**2024-05-23**|**Poisson Variational Autoencoder**|Hadi Vafaii et.al.|[2405.14473v1](http://arxiv.org/abs/2405.14473v1)|null|

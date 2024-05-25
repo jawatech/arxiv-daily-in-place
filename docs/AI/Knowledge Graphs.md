@@ -83,7 +83,7 @@
 |**2024-04-21**|**Test-Time Training on Graphs with Large Language Models (LLMs)**|Jiaxin Zhang et.al.|[2404.13571v1](http://arxiv.org/abs/2404.13571v1)|null|
 |**2024-04-20**|**Evaluation of Machine Translation Based on Semantic Dependencies and Keywords**|Kewei Yuan et.al.|[2404.14443v1](http://arxiv.org/abs/2404.14443v1)|null|
 |**2024-04-19**|**Heterogeneous Subgraph Transformer for Fake News Detection**|Yuchen Zhang et.al.|[2404.13192v1](http://arxiv.org/abs/2404.13192v1)|null|
-|**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975v1](http://arxiv.org/abs/2404.12975v1)|null|
+|**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975v1](http://arxiv.org/abs/2404.12975v1)|[link](https://github.com/zhang-xiaokun/finerec)|
 |**2024-04-18**|**GraphER: A Structure-aware Text-to-Graph Model for Entity and Relation Extraction**|Urchade Zaratiana et.al.|[2404.12491v1](http://arxiv.org/abs/2404.12491v1)|[link](https://github.com/urchade/grapher)|
 |**2024-04-18**|**Enhance Robustness of Language Models Against Variation Attack through Graph Integration**|Zi Xiong et.al.|[2404.12014v1](http://arxiv.org/abs/2404.12014v1)|null|
 |**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809v1](http://arxiv.org/abs/2404.11809v1)|[link](https://github.com/xincanfeng/dimension)|

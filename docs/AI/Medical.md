@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766v1](http://arxiv.org/abs/2405.15766v1)|[link](https://github.com/singhayush27/mmade)|
+|**2024-05-24**|**Effective Confidence Region Prediction Using Probability Forecasters**|David Lindsay et.al.|[2405.15642v1](http://arxiv.org/abs/2405.15642v1)|null|
+|**2024-05-24**|**PriCE: Privacy-Preserving and Cost-Effective Scheduling for Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**|Yuandou Wang et.al.|[2405.15398v1](http://arxiv.org/abs/2405.15398v1)|[link](https://github.com/yuandou168/price)|
+|**2024-05-24**|**Towards a Probabilistic Fusion Approach for Robust Battery Prognostics**|Jokin Alcibar et.al.|[2405.15292v1](http://arxiv.org/abs/2405.15292v1)|null|
+|**2024-05-24**|**Efficient Reinforcement Learning via Large Language Model-based Search**|Siddhant Bhambri et.al.|[2405.15194v1](http://arxiv.org/abs/2405.15194v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
 |**2024-05-23**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696v1](http://arxiv.org/abs/2405.14696v1)|null|
 |**2024-05-23**|**Efficient Medical Question Answering with Knowledge-Augmented Question Generation**|Julien Khlaut et.al.|[2405.14654v1](http://arxiv.org/abs/2405.14654v1)|null|
@@ -9,6 +14,7 @@
 |**2024-05-23**|**Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study**|Lena Schmidt et.al.|[2405.14445v1](http://arxiv.org/abs/2405.14445v1)|null|
 |**2024-05-23**|**Unraveling overoptimism and publication bias in ML-driven science**|Pouria Saidi et.al.|[2405.14422v1](http://arxiv.org/abs/2405.14422v1)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230v1](http://arxiv.org/abs/2405.14230v1)|null|
+|**2024-05-23**|**Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**|Kang Liu et.al.|[2405.14905v1](http://arxiv.org/abs/2405.14905v1)|[link](https://github.com/mk-runner/sei-temp)|
 |**2024-05-22**|**How Many Bytes Can You Take Out Of Brain-To-Text Decoding?**|Richard Antonello et.al.|[2405.14055v1](http://arxiv.org/abs/2405.14055v1)|null|
 |**2024-05-22**|**Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review**|Md Shahin Ali et.al.|[2405.13832v1](http://arxiv.org/abs/2405.13832v1)|null|
 |**2024-05-22**|**Efficient Two-Stage Gaussian Process Regression Via Automatic Kernel Search and Subsampling**|Shifan Zhao et.al.|[2405.13785v1](http://arxiv.org/abs/2405.13785v1)|null|
@@ -96,14 +102,134 @@
 |**2024-05-08**|**ECG-SMART-NET: A Deep Learning Architecture for Precise ECG Diagnosis of Occlusion Myocardial Infarction**|Nathan T. Riek et.al.|[2405.09567v1](http://arxiv.org/abs/2405.09567v1)|null|
 |**2024-05-08**|**Interpretable Cross-Examination Technique (ICE-T): Using highly informative features to boost LLM performance**|Goran Muric et.al.|[2405.06703v1](http://arxiv.org/abs/2405.06703v1)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336v1](http://arxiv.org/abs/2405.05336v1)|null|
-|**2024-05-08**|**Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology**|Anja Thieme et.al.|[2405.05299v1](http://arxiv.org/abs/2405.05299v1)|null|
-|**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990v1](http://arxiv.org/abs/2405.04990v1)|[link](https://github.com/kbaja/unsupervisedhi)|
-|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974v1](http://arxiv.org/abs/2405.04974v1)|null|
-|**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
-|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v2](http://arxiv.org/abs/2405.04819v2)|[link](https://github.com/david-li0406/dalk)|
-|**2024-05-08**|**Real-Time Pill Identification for the Visually Impaired Using Deep Learning**|Bo Dang et.al.|[2405.05983v1](http://arxiv.org/abs/2405.05983v1)|null|
 
 #### Abstracts
+##### **Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**
+2405.15766v1 by Pranab Sahoo, Ayush Kumar Singh, Sriparna Saha, Aman Chadha, Samrat Mondal
+
+The mining of adverse drug events (ADEs) is pivotal in pharmacovigilance,
+enhancing patient safety by identifying potential risks associated with
+medications, facilitating early detection of adverse events, and guiding
+regulatory decision-making. Traditional ADE detection methods are reliable but
+slow, not easily adaptable to large-scale operations, and offer limited
+information. With the exponential increase in data sources like social media
+content, biomedical literature, and Electronic Medical Records (EMR),
+extracting relevant ADE-related information from these unstructured texts is
+imperative. Previous ADE mining studies have focused on text-based
+methodologies, overlooking visual cues, limiting contextual comprehension, and
+hindering accurate interpretation. To address this gap, we present a MultiModal
+Adverse Drug Event (MMADE) detection dataset, merging ADE-related textual
+information with visual aids. Additionally, we introduce a framework that
+leverages the capabilities of LLMs and VLMs for ADE detection by generating
+detailed descriptions of medical images depicting ADEs, aiding healthcare
+professionals in visually identifying adverse events. Using our MMADE dataset,
+we showcase the significance of integrating visual cues from images to enhance
+overall performance. This approach holds promise for patient safety, ADE
+awareness, and healthcare accessibility, paving the way for further exploration
+in personalized healthcare.
+
+摘要：藥物警戒中，不適當藥物事件 (ADE) 的挖掘至關重要，
+透過識別與藥物相關的潛在風險、促進早期發現不良事件，並指導法規決策，來提升病患安全。傳統的 ADE 偵測方法可靠但緩慢，不易適應大規模作業，且提供有限的資訊。隨著社群媒體內容、生物醫學文獻和電子病歷 (EMR) 等資料來源呈指數級增加，從這些非結構化文字中萃取相關的 ADE 相關資訊勢在必行。先前的 ADE 挖掘研究著重於基於文字的方法，忽略了視覺線索，限制了脈絡理解，並阻礙了準確的詮釋。為了解決這個差距，我們提出了多模態不適當藥物事件 (MMADE) 偵測資料集，將 ADE 相關文字資訊與視覺輔助工具合併。此外，我們還導入了一個框架，該框架利用 LLM 和 VLM 的功能進行 ADE 偵測，透過產生描繪 ADE 的醫學影像的詳細說明，協助醫療專業人員視覺化識別不良事件。使用我們的 MMADE 資料集，我們展示了從影像中整合視覺線索以提升整體效能的重要性。這種方法有望提升病患安全、ADE 意識和醫療保健的可近性，為個人化醫療保健的進一步探索鋪路。
+
+##### **Effective Confidence Region Prediction Using Probability Forecasters**
+2405.15642v1 by David Lindsay, Sian Lindsay
+
+Confidence region prediction is a practically useful extension to the
+commonly studied pattern recognition problem. Instead of predicting a single
+label, the constraint is relaxed to allow prediction of a subset of labels
+given a desired confidence level 1-delta. Ideally, effective region predictions
+should be (1) well calibrated - predictive regions at confidence level 1-delta
+should err with relative frequency at most delta and (2) be as narrow (or
+certain) as possible. We present a simple technique to generate confidence
+region predictions from conditional probability estimates (probability
+forecasts). We use this 'conversion' technique to generate confidence region
+predictions from probability forecasts output by standard machine learning
+algorithms when tested on 15 multi-class datasets. Our results show that
+approximately 44% of experiments demonstrate well-calibrated confidence region
+predictions, with the K-Nearest Neighbour algorithm tending to perform
+consistently well across all data. Our results illustrate the practical
+benefits of effective confidence region prediction with respect to medical
+diagnostics, where guarantees of capturing the true disease label can be given.
+
+摘要：置信區域預測是對常見模式識別問題實用的延伸。它並非預測單一標籤，而是放寬限制，允許預測給定所需置信水準 1-delta 的標籤子集。理想情況下，有效的區域預測應為：(1) 校準良好 - 置信水準為 1-delta 的預測區域應以最多 delta 的相對頻率出現誤差，且 (2) 盡可能窄（或確定）。我們提出了一種簡單的技術，從條件機率估計（機率預測）產生置信區域預測。我們使用此「轉換」技術，從標準機器學習演算法在 15 個多類別資料集上測試時輸出的機率預測產生置信區域預測。我們的結果顯示，約有 44% 的實驗展示出校準良好的置信區域預測，而 K-最近鄰演算法在所有資料上都傾向於表現穩定良好。我們的結果說明了有效置信區域預測在醫學診斷方面的實際效益，其中可以保證捕捉到真正的疾病標籤。
+
+##### **PriCE: Privacy-Preserving and Cost-Effective Scheduling for Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**
+2405.15398v1 by Yuandou Wang, Neel Kanwal, Kjersti Engan, Chunming Rong, Paola Grosso, Zhiming Zhao
+
+Running deep neural networks for large medical images is a resource-hungry
+and time-consuming task with centralized computing. Outsourcing such medical
+image processing tasks to hybrid clouds has benefits, such as a significant
+reduction of execution time and monetary cost. However, due to privacy
+concerns, it is still challenging to process sensitive medical images over
+clouds, which would hinder their deployment in many real-world applications. To
+overcome this, we first formulate the overall optimization objectives of the
+privacy-preserving distributed system model, i.e., minimizing the amount of
+information about the private data learned by the adversaries throughout the
+process, reducing the maximum execution time and cost under the user budget
+constraint. We propose a novel privacy-preserving and cost-effective method
+called PriCE to solve this multi-objective optimization problem. We performed
+extensive simulation experiments for artifact detection tasks on medical images
+using an ensemble of five deep convolutional neural network inferences as the
+workflow task. Experimental results show that PriCE successfully splits a wide
+range of input gigapixel medical images with graph-coloring-based strategies,
+yielding desired output utility and lowering the privacy risk, makespan, and
+monetary cost under user's budget.
+
+摘要：執行大型醫療影像的深度神經網路是項資源消耗且耗時的任務，需要集中式運算。將此類醫療影像處理任務外包給混合雲端具有好處，例如大幅縮短執行時間和金錢成本。然而，由於隱私問題，在雲端處理敏感的醫療影像仍是一項挑戰，這會阻礙它們在許多實際應用中的部署。為了解決這個問題，我們首先制定了隱私保護分散式系統模型的整體最佳化目標，即最小化對手在整個過程中所得知的私人資料資訊量，在使用者預算限制下減少最大的執行時間和成本。我們提出了一種稱為 PriCE 的新型隱私保護且成本效益高的方式來解決這個多目標最佳化問題。我們對醫療影像上的人工製品偵測任務執行廣泛的模擬實驗，使用五個深度卷積神經網路推論的整體作為工作流程任務。實驗結果顯示，PriCE 成功地使用基於圖形著色的策略來分割各種輸入的千兆畫素醫療影像，產生所需的輸出效用並降低隱私風險、執行時間和在使用者預算下的金錢成本。
+
+##### **Towards a Probabilistic Fusion Approach for Robust Battery Prognostics**
+2405.15292v1 by Jokin Alcibar, Jose I. Aizpurua, Ekhi Zugasti
+
+Batteries are a key enabling technology for the decarbonization of transport
+and energy sectors. The safe and reliable operation of batteries is crucial for
+battery-powered systems. In this direction, the development of accurate and
+robust battery state-of-health prognostics models can unlock the potential of
+autonomous systems for complex, remote and reliable operations. The combination
+of Neural Networks, Bayesian modelling concepts and ensemble learning
+strategies, form a valuable prognostics framework to combine uncertainty in a
+robust and accurate manner. Accordingly, this paper introduces a Bayesian
+ensemble learning approach to predict the capacity depletion of lithium-ion
+batteries. The approach accurately predicts the capacity fade and quantifies
+the uncertainty associated with battery design and degradation processes. The
+proposed Bayesian ensemble methodology employs a stacking technique,
+integrating multiple Bayesian neural networks (BNNs) as base learners, which
+have been trained on data diversity. The proposed method has been validated
+using a battery aging dataset collected by the NASA Ames Prognostics Center of
+Excellence. Obtained results demonstrate the improved accuracy and robustness
+of the proposed probabilistic fusion approach with respect to (i) a single BNN
+model and (ii) a classical stacking strategy based on different BNNs.
+
+摘要：電池是運輸和能源部門脫碳的重要使能技術。電池的安全性、可靠性對於電池供電系統至關重要。在這個方向上，準確、穩健的電池健康狀態預測模型的開發，可以釋放自主系統在複雜、遠程和可靠操作方面的潛力。神經網路、貝氏建模概念和集成學習策略的結合，形成了一個有價值的預測框架，以穩健、準確的方式結合不確定性。因此，本文介紹了一種貝氏集成學習方法來預測鋰離子電池的容量衰減。該方法準確預測了容量衰減，並量化了與電池設計和退化過程相關的不確定性。所提出的貝氏集成方法採用堆疊技術，將多個貝氏神經網路 (BNN) 作為基礎學習器進行整合，這些基礎學習器已經過資料多樣性的訓練。所提出的方法已經過 NASA Ames 預測卓越中心的電池老化資料集驗證。獲得的結果證明了所提出的概率融合方法相對於 (i) 單個 BNN 模型和 (ii) 基於不同 BNN 的經典堆疊策略，改進了準確性和穩健性。
+
+##### **Efficient Reinforcement Learning via Large Language Model-based Search**
+2405.15194v1 by Siddhant Bhambri, Amrita Bhattacharjee, Huan Liu, Subbarao Kambhampati
+
+Reinforcement Learning (RL) suffers from sample inefficiency in sparse reward
+domains, and the problem is pronounced if there are stochastic transitions. To
+improve the sample efficiency, reward shaping is a well-studied approach to
+introduce intrinsic rewards that can help the RL agent converge to an optimal
+policy faster. However, designing a useful reward shaping function specific to
+each problem is challenging, even for domain experts. They would either have to
+rely on task-specific domain knowledge or provide an expert demonstration
+independently for each task. Given, that Large Language Models (LLMs) have
+rapidly gained prominence across a magnitude of natural language tasks, we aim
+to answer the following question: Can we leverage LLMs to construct a reward
+shaping function that can boost the sample efficiency of an RL agent? In this
+work, we aim to leverage off-the-shelf LLMs to generate a guide policy by
+solving a simpler deterministic abstraction of the original problem that can
+then be used to construct the reward shaping function for the downstream RL
+agent. Given the ineffectiveness of directly prompting LLMs, we propose MEDIC:
+a framework that augments LLMs with a Model-based feEDback critIC, which
+verifies LLM-generated outputs, to generate a possibly sub-optimal but valid
+plan for the abstract problem. Our experiments across domains from the BabyAI
+environment suite show 1) the effectiveness of augmenting LLMs with MEDIC, 2) a
+significant improvement in the sample complexity of PPO and A2C-based RL agents
+when guided by our LLM-generated plan, and finally, 3) pave the direction for
+further explorations of how these models can be used to augment existing RL
+pipelines.
+
+摘要：<paragraph>強化學習 (RL) 在稀疏獎勵領域中會遇到樣本效率低下的問題，而如果存在隨機轉換，則問題會更加嚴重。為了提高樣本效率，獎勵成形是一種經過充分研究的方法，用於引入內在獎勵，可以幫助 RL 代理更快地收斂到最佳策略。然而，針對每個問題設計一個有用的獎勵成形函數是一項挑戰，即使對於領域專家而言也是如此。他們必須依賴特定於任務的領域知識，或者為每個任務獨立提供專家示範。鑑於大型語言模型 (LLM) 已迅速在大量自然語言任務中獲得突出地位，我們旨在回答以下問題：我們能利用 LLM 來建構一個獎勵成形函數，從而提升 RL 代理的樣本效率嗎？在這項工作中，我們旨在利用現成的 LLM，透過解決原始問題的一個更簡單的確定性抽象來產生一個引導策略，然後可以用它來為下游 RL 代理建構獎勵成形函數。鑑於直接提示 LLM 的無效性，我們提出了 MEDIC：一個使用基於模型的回饋批評器來擴充 LLM 的框架，它會驗證 LLM 產生的輸出，以產生一個可能次於最佳但有效的抽象問題計畫。我們在 BabyAI 環境套件中跨領域進行的實驗顯示 1) 使用 MEDIC 擴充 LLM 的有效性，2) 在由我們的 LLM 產生的計畫引導下，基於 PPO 和 A2C 的 RL 代理的樣本複雜度有顯著改善，最後，3) 為進一步探索如何使用這些模型來擴充現有的 RL 管線鋪平了道路。</paragraph>
+
 ##### **Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**
 2405.14868v1 by Basile Van Hoorick, Rundi Wu, Ege Ozguroglu, Kyle Sargent, Ruoshi Liu, Pavel Tokmakov, Achal Dave, Changxi Zheng, Carl Vondrick
 
@@ -295,6 +421,33 @@ efforts by at least 70% while maintaining comparable cancer detection accuracy
 to competing fully supervised methods (AUC value 0.961 versus 0.966).
 
 摘要：由於缺乏足夠的專家等級腫瘤標記，會阻礙基於監督式學習的機會主義癌症篩檢在醫學影像上的效能。臨床報告（包含豐富的描述性文字細節）可提供「免費的午餐」監督資訊，並提供腫瘤位置作為一種弱標籤以應對篩檢任務，從而節省人工標籤的工作量，只要適當利用即可。然而，僅使用此類弱標籤來預測癌症可能非常困難，因為與整個 3D 醫學掃描相比，腫瘤通常出現在較小的解剖區域中。弱半監督式學習（WSSL）利用有限的體素級腫瘤標記，並結合大量僅有現成臨床報告的醫學影像，這可能會在最大程度減少專家標記工作量和最佳化篩檢效能之間取得良好的平衡。在本文中，我們提出了一種新穎的文字引導學習方法，以達成高度準確的癌症偵測結果。透過將診斷和腫瘤位置文字提示整合到視覺語言模型（VLM）的文字編碼器中，可以在 VLM 的潛在空間中有效執行弱監督式學習的最佳化，從而增強訓練的穩定性。我們的做法可以透過大規模預先訓練的 VLM 來利用臨床知識以增強泛化能力，並產生可靠的偽腫瘤遮罩以改善癌症偵測。我們在包含 1,651 位獨特患者的大規模癌症資料集上進行的廣泛定量實驗結果驗證了我們的做法可以將人工標記工作量至少減少 70%，同時維持與競爭的全監督式方法相當的癌症偵測準確度（AUC 值 0.961 對比 0.966）。
+
+##### **Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**
+2405.14905v1 by Kang Liu, Zhuoqi Ma, Xiaolu Kang, Zhusi Zhong, Zhicheng Jiao, Grayson Baird, Harrison Bai, Qiguang Miao
+
+The automated generation of imaging reports proves invaluable in alleviating
+the workload of radiologists. A clinically applicable reports generation
+algorithm should demonstrate its effectiveness in producing reports that
+accurately describe radiology findings and attend to patient-specific
+indications. In this paper, we introduce a novel method, \textbf{S}tructural
+\textbf{E}ntities extraction and patient indications \textbf{I}ncorporation
+(SEI) for chest X-ray report generation. Specifically, we employ a structural
+entities extraction (SEE) approach to eliminate presentation-style vocabulary
+in reports and improve the quality of factual entity sequences. This reduces
+the noise in the following cross-modal alignment module by aligning X-ray
+images with factual entity sequences in reports, thereby enhancing the
+precision of cross-modal alignment and further aiding the model in
+gradient-free retrieval of similar historical cases. Subsequently, we propose a
+cross-modal fusion network to integrate information from X-ray images, similar
+historical cases, and patient-specific indications. This process allows the
+text decoder to attend to discriminative features of X-ray images, assimilate
+historical diagnostic information from similar cases, and understand the
+examination intention of patients. This, in turn, assists in triggering the
+text decoder to produce high-quality reports. Experiments conducted on
+MIMIC-CXR validate the superiority of SEI over state-of-the-art approaches on
+both natural language generation and clinical efficacy metrics.
+
+摘要：<paragraph>影像報告的自動生成在減輕放射科醫師的工作負擔方面證明了其無可比擬的價值。一個臨床上適用的報告生成演算法應該展示其在產生報告方面的有效性，這些報告準確地描述了放射科發現，並注意患者特定的適應症。在本文中，我們介紹了一種新方法，即胸部 X 光報告生成的結構實體萃取和患者適應症整合 (SEI)。具體來說，我們採用結構實體萃取 (SEE) 方法來消除報告中的呈現式詞彙，並提高事實實體序列的品質。這會減少後續跨模態對齊模組中的雜訊，透過將 X 光影像與報告中的事實實體序列對齊，進而提升跨模態對齊的精確度，並進一步協助模型無梯度檢索類似的歷史案例。隨後，我們提出了一個跨模態融合網路，以整合來自 X 光影像、類似的歷史案例和患者特定適應症的資訊。這個過程允許文字解碼器注意 X 光影像的區別特徵，從類似案例中彙整歷史診斷資訊，並了解患者的檢查意圖。這反過來有助於觸發文字解碼器產生高品質的報告。在 MIMIC-CXR 上進行的實驗驗證了 SEI 在自然語言生成和臨床療效指標上優於最先進方法的優越性。</paragraph>
 
 ##### **How Many Bytes Can You Take Out Of Brain-To-Text Decoding?**
 2405.14055v1 by Richard Antonello, Nihita Sarma, Jerry Tang, Jiaru Song, Alexander Huth
@@ -2493,151 +2646,4 @@ availability - labeled, unlabeled, or nonexistent.
 我們引入了 SegCLR，這是一個多功能的架構，旨在分割不同領域的體積影像，同時採用監督式學習和對比式學習，有效地從標籤資料和未標籤資料中學習。我們透過一項全面的評估來展示 SegCLR 的卓越效能，其中包含三個不同的臨床資料集，包括 3D 光學相干斷層掃描 (OCT) 中的視網膜液體分割、各種網路組態以及跨 10 個不同網路初始化的驗證。
 在非監督領域適應的背景下，SegCLR 達到的結果與在預期的目標領域中訓練的監督式上限模型相當。
 值得注意的是，我們發現 SegCLR 框架的分割效能幾乎不受目標領域中大量未標籤資料的影響，因此我們也提出了 SegCLR 的一個有效的零次域適應延伸，消除了對任何目標領域資訊的需求。這顯示出我們在標準監督式訓練中加入對比損失的提議，可產生卓越的模型，本質上更能概括到領域內和領域外的測試資料。我們還提出了 SegCLR 在包含標籤資料的多個領域的實際場景中部署的務實解決方案。因此，我們的框架推動了基於深度學習的分割在多領域應用中的界限，無論資料可用性如何 - 標籤、未標籤或不存在。
-
-##### **Challenges for Responsible AI Design and Workflow Integration in Healthcare: A Case Study of Automatic Feeding Tube Qualification in Radiology**
-2405.05299v1 by Anja Thieme, Abhijith Rajamohan, Benjamin Cooper, Heather Groombridge, Robert Simister, Barney Wong, Nicholas Woznitza, Mark Ames Pinnock, Maria Teodora Wetscherek, Cecily Morrison, Hannah Richardson, Fernando Pérez-García, Stephanie L. Hyland, Shruthi Bannur, Daniel C. Castro, Kenza Bouzid, Anton Schwaighofer, Mercy Ranjit, Harshita Sharma, Matthew P. Lungren, Ozan Oktay, Javier Alvarez-Valle, Aditya Nori, Stephen Harris, Joseph Jacob
-
-Nasogastric tubes (NGTs) are feeding tubes that are inserted through the nose
-into the stomach to deliver nutrition or medication. If not placed correctly,
-they can cause serious harm, even death to patients. Recent AI developments
-demonstrate the feasibility of robustly detecting NGT placement from Chest
-X-ray images to reduce risks of sub-optimally or critically placed NGTs being
-missed or delayed in their detection, but gaps remain in clinical practice
-integration. In this study, we present a human-centered approach to the problem
-and describe insights derived following contextual inquiry and in-depth
-interviews with 15 clinical stakeholders. The interviews helped understand
-challenges in existing workflows, and how best to align technical capabilities
-with user needs and expectations. We discovered the trade-offs and complexities
-that need consideration when choosing suitable workflow stages, target users,
-and design configurations for different AI proposals. We explored how to
-balance AI benefits and risks for healthcare staff and patients within broader
-organizational and medical-legal constraints. We also identified data issues
-related to edge cases and data biases that affect model training and
-evaluation; how data documentation practices influence data preparation and
-labelling; and how to measure relevant AI outcomes reliably in future
-evaluations. We discuss how our work informs design and development of AI
-applications that are clinically useful, ethical, and acceptable in real-world
-healthcare services.
-
-摘要：鼻胃管 (NGT) 是經由鼻腔插入胃中以提供營養或藥物的餵食管。如果沒有正確放置，可能會對患者造成嚴重傷害，甚至死亡。最近的 AI 發展證明了從胸部 X 光影像中穩健偵測 NGT 放置位置的可行性，以降低遺漏或延遲偵測位置不佳或危急的 NGT 的風險，但臨床實務整合仍有差距。在這項研究中，我們提出以人為中心的解決問題方法，並描述在脈絡探究和與 15 位臨床利益關係人深度訪談後獲得的見解。訪談有助於了解現有工作流程中的挑戰，以及如何最佳地將技術能力與使用者需求和期望結合起來。我們發現了在選擇適合的工作流程階段、目標使用者和不同 AI 提議的設計配置時需要考量的權衡和複雜性。我們探討了如何在更廣泛的組織和醫療法律約束下平衡 AI 對醫療保健人員和患者的益處和風險。我們也找出影響模型訓練和評估的邊緣案例和資料偏差相關的資料問題；資料文件編寫實務如何影響資料準備和標籤；以及如何在未來的評估中可靠地衡量相關的 AI 結果。我們討論了我們的工作如何為在現實世界的醫療保健服務中臨床上有用、符合道德且可接受的 AI 應用程式設計和開發提供資訊。
-
-##### **Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**
-2405.04990v1 by Kristupas Bajarunas, Marcia L. Baptista, Kai Goebel, Manuel A. Chao
-
-Accurately estimating a Health Index (HI) from condition monitoring data (CM)
-is essential for reliable and interpretable prognostics and health management
-(PHM) in complex systems. In most scenarios, complex systems operate under
-varying operating conditions and can exhibit different fault modes, making
-unsupervised inference of an HI from CM data a significant challenge. Hybrid
-models combining prior knowledge about degradation with deep learning models
-have been proposed to overcome this challenge. However, previously suggested
-hybrid models for HI estimation usually rely heavily on system-specific
-information, limiting their transferability to other systems. In this work, we
-propose an unsupervised hybrid method for HI estimation that integrates general
-knowledge about degradation into the convolutional autoencoder's model
-architecture and learning algorithm, enhancing its applicability across various
-systems. The effectiveness of the proposed method is demonstrated in two case
-studies from different domains: turbofan engines and lithium batteries. The
-results show that the proposed method outperforms other competitive
-alternatives, including residual-based methods, in terms of HI quality and
-their utility for Remaining Useful Life (RUL) predictions. The case studies
-also highlight the comparable performance of our proposed method with a
-supervised model trained with HI labels.
-
-摘要：從狀態監控資料 (CM) 精確估計健康指數 (HI) 對於複雜系統中的可靠且可解讀的預後和健康管理 (PHM) 至關重要。在大多數情況下，複雜系統在不同的操作條件下運行，並且可能會表現出不同的故障模式，這使得從 CM 資料中進行無監督的 HI 推論成為一項重大挑戰。已經提出結合關於退化的先驗知識與深度學習模型的混合模型來克服這一挑戰。然而，先前建議用於 HI 估計的混合模型通常嚴重依賴系統特定資訊，這限制了它們對其他系統的可傳輸性。在這項工作中，我們提出了一種用於 HI 估計的無監督混合方法，該方法將關於退化的通用知識整合到卷積自動編碼器的模型架構和學習演算法中，增強了其在各種系統中的適用性。所提出的方法的有效性在來自不同領域的兩個案例研究中得到證明：渦扇發動機和鋰電池。結果表明，所提出的方法在 HI 品質和對剩餘使用壽命 (RUL) 預測的效用方面優於其他競爭性替代方案，包括基於殘差的方法。案例研究還強調了我們提出的方法與使用 HI 標籤訓練的監督模型相當的性能。
-
-##### **Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**
-2405.04974v1 by Keqiang Fan, Xiaohao Cai, Mahesan Niranjan
-
-Diffusion probabilistic models (DPMs) have exhibited significant
-effectiveness in computer vision tasks, particularly in image generation.
-However, their notable performance heavily relies on labelled datasets, which
-limits their application in medical images due to the associated high-cost
-annotations. Current DPM-related methods for lesion detection in medical
-imaging, which can be categorized into two distinct approaches, primarily rely
-on image-level annotations. The first approach, based on anomaly detection,
-involves learning reference healthy brain representations and identifying
-anomalies based on the difference in inference results. In contrast, the second
-approach, resembling a segmentation task, employs only the original brain
-multi-modalities as prior information for generating pixel-level annotations.
-In this paper, our proposed model - discrepancy distribution medical diffusion
-(DDMD) - for lesion detection in brain MRI introduces a novel framework by
-incorporating distinctive discrepancy features, deviating from the conventional
-direct reliance on image-level annotations or the original brain modalities. In
-our method, the inconsistency in image-level annotations is translated into
-distribution discrepancies among heterogeneous samples while preserving
-information within homogeneous samples. This property retains pixel-wise
-uncertainty and facilitates an implicit ensemble of segmentation, ultimately
-enhancing the overall detection performance. Thorough experiments conducted on
-the BRATS2020 benchmark dataset containing multimodal MRI scans for brain
-tumour detection demonstrate the great performance of our approach in
-comparison to state-of-the-art methods.
-
-摘要：擴散機率模型 (DPM) 在電腦視覺任務中展現出顯著的效能，特別是在影像生成方面。然而，它們顯著的效能高度仰賴標籤資料集，這會因為相關的高成本註解而限制它們在醫學影像中的應用。目前用於醫學影像病灶偵測的 DPM 相關方法可分為兩種不同的方法，主要仰賴影像層級的註解。第一種方法是基於異常偵測，涉及學習參考健康腦部表徵，並根據推論結果的差異來識別異常。相反地，第二種方法類似於分割任務，僅使用原始腦部多模態作為產生畫素層級註解的先驗資訊。在本文中，我們提出的模型——差異分佈醫學擴散 (DDMD)——用於腦部 MRI 中的病灶偵測，它透過納入獨特的差異特徵來引入一個新穎的架構，偏離對影像層級註解或原始腦部模態的傳統直接依賴。在我們的這種方法中，影像層級註解中的不一致性被轉換為異質樣本之間的分布差異，同時保留同質樣本內的資訊。此特性保留了逐畫素的不確定性，並促進分割的隱含集合，最終提升整體偵測效能。在 BRATS2020 基準資料集上進行的徹底實驗包含用於腦腫瘤偵測的多模態 MRI 掃描，證明了我們的方法與最先進的方法相比具有優異的效能。
-
-##### **Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**
-2405.04897v1 by Paul Jideani, Aurona Gerber
-
-Recent social media posts on the cholera outbreak in Hammanskraal have
-highlighted the diverse range of emotions people experienced in response to
-such an event. The extent of people's opinions varies greatly depending on
-their level of knowledge and information about the disease. The documented
-re-search about Cholera lacks investigations into the classification of
-emotions. This study aims to examine the emotions expressed in social media
-posts about Chol-era. A dataset of 23,000 posts was extracted and
-pre-processed. The Python Nat-ural Language Toolkit (NLTK) sentiment analyzer
-library was applied to deter-mine the emotional significance of each text.
-Additionally, Machine Learning (ML) models were applied for emotion
-classification, including Long short-term memory (LSTM), Logistic regression,
-Decision trees, and the Bidirectional En-coder Representations from
-Transformers (BERT) model. The results of this study demonstrated that LSTM
-achieved the highest accuracy of 75%. Emotion classification presents a
-promising tool for gaining a deeper understanding of the impact of Cholera on
-society. The findings of this study might contribute to the development of
-effective interventions in public health strategies.
-
-摘要：最近社群媒體上關於 Hammanskraal 霍亂爆發的貼文突顯了人們對此類事件的反應中所經歷的各種情緒。人們意見的廣泛程度取決於他們對此疾病的知識和資訊的程度。有記錄的霍亂研究缺乏對情緒分類的調查。本研究旨在探討社群媒體貼文中表達的關於霍亂的情緒。從 23,000 篇貼文中萃取並預處理了一個資料集。應用 Python 自然語言工具包 (NLTK) 情緒分析程式庫來決定每段文字的情緒重要性。此外，應用機器學習 (ML) 模型來進行情緒分類，包括長短期記憶 (LSTM)、邏輯迴歸、決策樹，以及轉換器 (BERT) 模型中的雙向編碼器表徵。本研究的結果顯示 LSTM 達到了 75% 的最高準確度。情緒分類提供了一個有用的工具，可以更深入地了解霍亂對社會的影響。本研究的發現可能有助於制定公共衛生策略中的有效干預措施。
-
-##### **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**
-2405.04819v2 by Dawei Li, Shu Yang, Zhen Tan, Jae Young Baik, Sukwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
-
-Recent advancements in large language models (LLMs) have achieved promising
-performances across various applications. Nonetheless, the ongoing challenge of
-integrating long-tail knowledge continues to impede the seamless adoption of
-LLMs in specialized domains. In this work, we introduce DALK, a.k.a. Dynamic
-Co-Augmentation of LLMs and KG, to address this limitation and demonstrate its
-ability on studying Alzheimer's Disease (AD), a specialized sub-field in
-biomedicine and a global health priority. With a synergized framework of LLM
-and KG mutually enhancing each other, we first leverage LLM to construct an
-evolving AD-specific knowledge graph (KG) sourced from AD-related scientific
-literature, and then we utilize a coarse-to-fine sampling method with a novel
-self-aware knowledge retrieval approach to select appropriate knowledge from
-the KG to augment LLM inference capabilities. The experimental results,
-conducted on our constructed AD question answering (ADQA) benchmark, underscore
-the efficacy of DALK. Additionally, we perform a series of detailed analyses
-that can offer valuable insights and guidelines for the emerging topic of
-mutually enhancing KG and LLM. We will release the code and data at
-https://github.com/David-Li0406/DALK.
-
-摘要：大型語言模型 (LLM) 的近期進展在各種應用中都取得了有望的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域中的無縫採用。在這項工作中，我們介紹了 DALK，又名 LLM 和 KG 的動態共增強，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是生物醫學中的專業子領域，也是全球健康優先事項。利用 LLM 和 KG 相互增強的協同框架，我們首先利用 LLM 從與 AD 相關的科學文獻中構建一個不斷演化的 AD 特定知識圖譜 (KG)，然後我們利用一種粗到細的抽樣方法，採用一種新穎的自知知識檢索方法，從 KG 中選擇適當的知識來增強 LLM 推論能力。在我們構建的 AD 問題解答 (ADQA) 基準上進行的實驗結果強調了 DALK 的功效。此外，我們進行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 上發布代碼和數據。
-
-##### **Real-Time Pill Identification for the Visually Impaired Using Deep Learning**
-2405.05983v1 by Bo Dang, Wenchao Zhao, Yufeng Li, Danqing Ma, Qixuan Yu, Elly Yijun Zhu
-
-The prevalence of mobile technology offers unique opportunities for
-addressing healthcare challenges, especially for individuals with visual
-impairments. This paper explores the development and implementation of a deep
-learning-based mobile application designed to assist blind and visually
-impaired individuals in real-time pill identification. Utilizing the YOLO
-framework, the application aims to accurately recognize and differentiate
-between various pill types through real-time image processing on mobile
-devices. The system incorporates Text-to- Speech (TTS) to provide immediate
-auditory feedback, enhancing usability and independence for visually impaired
-users. Our study evaluates the application's effectiveness in terms of
-detection accuracy and user experience, highlighting its potential to improve
-medication management and safety among the visually impaired community.
-Keywords-Deep Learning; YOLO Framework; Mobile Application; Visual Impairment;
-Pill Identification; Healthcare
-
-摘要：行動科技的普及為了解決醫療保健挑戰提供了獨特的機會，特別是對於視障人士。本文探討了一款基於深度學習的行動應用程式的開發和實作，旨在協助盲人和視障人士即時辨識藥丸。利用 YOLO 架構，此應用程式旨在透過行動裝置上的即時影像處理，準確辨識和區分各種藥丸類型。此系統整合了文字轉語音 (TTS) 功能，以提供立即的聽覺回饋，增強視障使用者的可用性和獨立性。我們的研究評估了此應用程式在偵測準確度和使用者體驗方面的成效，強調其改善視障族群用藥管理和安全性的潛力。關鍵字：深度學習；YOLO 架構；行動應用程式；視覺障礙；藥丸辨識；醫療保健
 

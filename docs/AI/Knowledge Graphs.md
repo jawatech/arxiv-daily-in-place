@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v1](http://arxiv.org/abs/2405.15739v1)|null|
+|**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
+|**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v1](http://arxiv.org/abs/2405.15143v1)|[link](https://github.com/conglu1997/intelligent-go-explore)|
 |**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831v1](http://arxiv.org/abs/2405.14831v1)|null|
 |**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v1](http://arxiv.org/abs/2405.14664v1)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203v1](http://arxiv.org/abs/2405.14203v1)|null|
@@ -99,11 +102,103 @@
 |**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296v1](http://arxiv.org/abs/2404.09296v1)|null|
 |**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077v1](http://arxiv.org/abs/2404.09077v1)|[link](https://github.com/zukangy/kgp-curiousllm)|
 |**2024-04-12**|**Relational Prompt-based Pre-trained Language Models for Social Event Detection**|Pu Li et.al.|[2404.08263v1](http://arxiv.org/abs/2404.08263v1)|null|
-|**2024-04-11**|**Graph Integrated Language Transformers for Next Action Prediction in Complex Phone Calls**|Amin Hosseiny Marani et.al.|[2404.08155v1](http://arxiv.org/abs/2404.08155v1)|null|
-|**2024-04-11**|**Post-Hoc Reversal: Are We Selecting Models Prematurely?**|Rishabh Ranjan et.al.|[2404.07815v1](http://arxiv.org/abs/2404.07815v1)|[link](https://github.com/rishabh-ranjan/post-hoc-reversal)|
-|**2024-04-11**|**ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models**|Jinheon Baek et.al.|[2404.07738v1](http://arxiv.org/abs/2404.07738v1)|null|
 
 #### Abstracts
+##### **Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**
+2405.15739v1 by Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
+
+Citation practices are crucial in shaping the structure of scientific
+knowledge, yet they are often influenced by contemporary norms and biases. The
+emergence of Large Language Models (LLMs) like GPT-4 introduces a new dynamic
+to these practices. Interestingly, the characteristics and potential biases of
+references recommended by LLMs that entirely rely on their parametric
+knowledge, and not on search or retrieval-augmented generation, remain
+unexplored. Here, we analyze these characteristics in an experiment using a
+dataset of 166 papers from AAAI, NeurIPS, ICML, and ICLR, published after
+GPT-4's knowledge cut-off date, encompassing 3,066 references in total. In our
+experiment, GPT-4 was tasked with suggesting scholarly references for the
+anonymized in-text citations within these papers. Our findings reveal a
+remarkable similarity between human and LLM citation patterns, but with a more
+pronounced high citation bias in GPT-4, which persists even after controlling
+for publication year, title length, number of authors, and venue. Additionally,
+we observe a large consistency between the characteristics of GPT-4's existing
+and non-existent generated references, indicating the model's internalization
+of citation patterns. By analyzing citation graphs, we show that the references
+recommended by GPT-4 are embedded in the relevant citation context, suggesting
+an even deeper conceptual internalization of the citation networks. While LLMs
+can aid in citation generation, they may also amplify existing biases and
+introduce new ones, potentially skewing scientific knowledge dissemination. Our
+results underscore the need for identifying the model's biases and for
+developing balanced methods to interact with LLMs in general.
+
+摘要：<paragraph>引文實務對於形塑科學知識的結構至關重要，但常常受到當代規範和偏見的影響。大型語言模型 (LLM) 如 GPT-4 的出現為這些實務帶來了新的動態。有趣的是，完全依賴參數化知識而非搜尋或檢索增強生成，由 LLM 推薦的參考文獻的特性和潛在偏見仍然未經探究。在此，我們使用一個包含來自 AAAI、NeurIPS、ICML 和 ICLR 的 166 篇論文的資料集，在 GPT-4 的知識截止日期後發布，總計包含 3,066 篇參考文獻，對這些特性進行分析。在我們的實驗中，GPT-4 的任務是為這些論文中的匿名內文引文建議學術參考文獻。我們的研究結果顯示，人類和 LLM 的引文模式有顯著的相似性，但 GPT-4 的高引文偏見更為顯著，即使在控制了出版年份、標題長度、作者數量和場地後，這種情況仍然存在。此外，我們觀察到 GPT-4 現有和不存在的生成參考文獻的特性之間有很大的相容性，這表明模型內化了引文模式。透過分析引文圖，我們顯示 GPT-4 推薦的參考文獻嵌入在相關的引文脈絡中，這表明對引文網路有更深入的概念內化。雖然 LLM 可以協助生成引文，但它們也可能放大現有的偏見並引入新的偏見，潛在地扭曲科學知識的傳播。我們的結果強調了識別模型偏見和發展平衡的方法以與 LLM 進行互動的需求。</paragraph>
+
+##### **Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**
+2405.15374v1 by Runsong Jia, Bowen Zhang, Sergio J. Rodríguez Méndez, Pouya G. Omran
+
+The proposed research aims to develop an innovative semantic query processing
+system that enables users to obtain comprehensive information about research
+works produced by Computer Science (CS) researchers at the Australian National
+University (ANU). The system integrates Large Language Models (LLMs) with the
+ANU Scholarly Knowledge Graph (ASKG), a structured repository of all
+research-related artifacts produced at ANU in the CS field. Each artifact and
+its parts are represented as textual nodes stored in a Knowledge Graph (KG).
+  To address the limitations of traditional scholarly KG construction and
+utilization methods, which often fail to capture fine-grained details, we
+propose a novel framework that integrates the Deep Document Model (DDM) for
+comprehensive document representation and the KG-enhanced Query Processing
+(KGQP) for optimized complex query handling. DDM enables a fine-grained
+representation of the hierarchical structure and semantic relationships within
+academic papers, while KGQP leverages the KG structure to improve query
+accuracy and efficiency with LLMs.
+  By combining the ASKG with LLMs, our approach enhances knowledge utilization
+and natural language understanding capabilities. The proposed system employs an
+automatic LLM-SPARQL fusion to retrieve relevant facts and textual nodes from
+the ASKG. Initial experiments demonstrate that our framework is superior to
+baseline methods in terms of accuracy retrieval and query efficiency.
+  We showcase the practical application of our framework in academic research
+scenarios, highlighting its potential to revolutionize scholarly knowledge
+management and discovery. This work empowers researchers to acquire and utilize
+knowledge from documents more effectively and provides a foundation for
+developing precise and reliable interactions with LLMs.
+
+摘要：<paragraph>擬議的研究旨在開發創新的語義查詢處理系統，使用戶能夠獲得由澳洲國立大學（ANU）電腦科學（CS）研究人員產出的研究著作的全面資訊。此系統整合大型語言模型（LLM）與澳洲國立大學學術知識圖譜（ASKG），後者為在澳洲國立大學 CS 領域產出的所有研究相關人工製品的結構化儲存庫。每個人工製品及其部分以儲存在知識圖譜（KG）中的文字節點表示。
+為了解決傳統學術 KG 建構和使用方式的限制，這些方式通常無法擷取細微的細節，我們提出一個新的架構，它整合深度文件模型（DDM）以進行全面的文件表示，以及 KG 增強查詢處理（KGQP）以進行最佳化的複雜查詢處理。DDM 能夠細微地表示學術論文中的階層結構和語義關係，而 KGQP 則利用 KG 結構透過 LLM 來改善查詢的準確性和效率。
+透過將 ASKG 與 LLM 結合，我們的做法增強了知識利用和自然語言理解能力。擬議的系統採用自動 LLM-SPARQL 融合來從 ASKG 擷取相關事實和文字節點。初步實驗顯示，我們的架構在準確性擷取和查詢效率方面優於基準方法。
+我們展示了我們的架構在學術研究情境中的實際應用，強調其革新學術知識管理和發現的潛力。這項工作賦能研究人員更有效地取得和利用文件中的知識，並為與 LLM 進行精確且可靠的互動奠定基礎。</paragraph>
+
+##### **Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**
+2405.15143v1 by Cong Lu, Shengran Hu, Jeff Clune
+
+Go-Explore is a powerful family of algorithms designed to solve
+hard-exploration problems, built on the principle of archiving discovered
+states, and iteratively returning to and exploring from the most promising
+states. This approach has led to superhuman performance across a wide variety
+of challenging problems including Atari games and robotic control, but requires
+manually designing heuristics to guide exploration, which is time-consuming and
+infeasible in general. To resolve this, we propose Intelligent Go-Explore (IGE)
+which greatly extends the scope of the original Go-Explore by replacing these
+heuristics with the intelligence and internalized human notions of
+interestingness captured by giant foundation models (FMs). This provides IGE
+with a human-like ability to instinctively identify how interesting or
+promising any new state is (e.g. discovering new objects, locations, or
+behaviors), even in complex environments where heuristics are hard to define.
+Moreover, IGE offers the exciting and previously impossible opportunity to
+recognize and capitalize on serendipitous discoveries that cannot be predicted
+ahead of time. We evaluate IGE on a range of language-based tasks that require
+search and exploration. In Game of 24, a multistep mathematical reasoning
+problem, IGE reaches 100% success rate 70.8% faster than the best classic graph
+search baseline. Next, in BabyAI-Text, a challenging partially observable
+gridworld, IGE exceeds the previous SOTA with orders of magnitude fewer online
+samples. Finally, in TextWorld, we show the unique ability of IGE to succeed in
+settings requiring long-horizon exploration where prior SOTA FM agents like
+Reflexion completely fail. Overall, IGE combines the tremendous strengths of
+FMs and the powerful Go-Explore algorithm, opening up a new frontier of
+research into creating more generally capable agents with impressive
+exploration capabilities.
+
+摘要：Go-Explore 是一系列強大的演算法，旨在解決困難的探索問題，其建立在封存已發現狀態的原則上，並反覆返回並從最有希望的狀態進行探索。這種方法已在各種具有挑戰性的問題中帶來了超人的表現，包括 Atari 遊戲和機器人控制，但需要人工設計啟發法來指導探索，這既耗時又通常不可行。為了解決這個問題，我們提出了 Intelligent Go-Explore (IGE)，它透過用巨型基礎模型 (FM) 捕捉到的智慧和內化的人類有趣性概念取代這些啟發法，進而大幅擴展了原始 Go-Explore 的範圍。這賦予 IGE 類似人類的能力，可以本能地識別任何新狀態有多有趣或有希望（例如發現新物件、位置或行為），即使在難以定義啟發法的複雜環境中也是如此。此外，IGE 提供了一個令人興奮且前所未有的機會，可以認識並利用無法預先預測的意外發現。我們在需要搜尋和探索的一系列基於語言的任務上評估 IGE。在 24 點遊戲中，IGE 是一個多步驟的數學推理問題，其達到 100% 的成功率，比最佳經典圖形搜尋基線快 70.8%。接下來，在 BabyAI-Text 中，一個具有挑戰性的部分可觀察網格世界，IGE 超越了先前的 SOTA，線上範例數量減少了幾個數量級。最後，在 TextWorld 中，我們展示了 IGE 在需要長期探索的設定中取得成功的獨特能力，在該設定中，先前的 SOTA FM 代理（例如 Reflexion）完全失敗。總的來說，IGE 結合了 FM 和強大的 Go-Explore 演算法的巨大優勢，開啟了探索創造更具一般能力且具有令人印象深刻的探索能力的代理的新研究領域。
+
 ##### **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**
 2405.14831v1 by Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su
 
@@ -2466,73 +2561,4 @@ achieves state-of-the-art performance in offline, online, low-resource, and
 long-tail distribution scenarios for social event detection tasks.
 
 摘要：<paragraph>社交事件偵測 (SED) 旨在從社交串流中識別重大事件，並廣泛應用於公眾輿論分析到風險管理。近年來，基於圖神經網路 (GNN) 的解決方案已達到最先進的效能。然而，基於 GNN 的方法通常難以處理訊息之間的雜訊和遺失邊緣，影響學習到的訊息嵌入品質。此外，這些方法在訓練前會靜態初始化節點嵌入，這反過來限制了同時從訊息文字和關係中學習的能力。在本文中，我們從預訓練語言模型 (PLM) 的新觀點來探討社交事件偵測，並提出 RPLM_SED（基於關係提示的預訓練語言模型，用於社交事件偵測）。我們首先提出一個新的成對訊息建模策略，將社交訊息建構成具有多重關係序列的訊息對。其次，提出一個新的基於多重關係提示的成對訊息學習機制，使用 PLM 從具有多重關係提示的訊息對中學習更全面的訊息表示。第三，我們設計一個新的聚類約束，透過增強群集內緊密性和群集間分散性來最佳化編碼過程，使訊息表示更具區別性。我們在三個真實世界資料集上評估 RPLM_SED，證明 RPLM_SED 模型在社交事件偵測任務的離線、線上、低資源和長尾分佈場景中達到最先進的效能。</paragraph>
-
-##### **Graph Integrated Language Transformers for Next Action Prediction in Complex Phone Calls**
-2404.08155v1 by Amin Hosseiny Marani, Ulie Schnaithmann, Youngseo Son, Akil Iyer, Manas Paldhe, Arushi Raghuvanshi
-
-Current Conversational AI systems employ different machine learning
-pipelines, as well as external knowledge sources and business logic to predict
-the next action. Maintaining various components in dialogue managers' pipeline
-adds complexity in expansion and updates, increases processing time, and causes
-additive noise through the pipeline that can lead to incorrect next action
-prediction. This paper investigates graph integration into language
-transformers to improve understanding the relationships between humans'
-utterances, previous, and next actions without the dependency on external
-sources or components. Experimental analyses on real calls indicate that the
-proposed Graph Integrated Language Transformer models can achieve higher
-performance compared to other production level conversational AI systems in
-driving interactive calls with human users in real-world settings.
-
-摘要：目前對話式 AI 系統採用不同的機器學習管道、外部知識來源和商業邏輯來預測下一個動作。在對話管理員管道中維護各種組件會增加擴充和更新的複雜性、增加處理時間，並導致管道中會累加的雜訊，進而可能導致下一個動作預測不正確。本文探討將圖形整合到語言轉換器中，以改善對人類話語、先前動作和下一個動作之間關聯性的理解，同時不依賴外部來源或組件。對實際通話的實驗分析表明，所提出的圖形整合語言轉換器模型在現實世界設定中與人類使用者進行互動式通話時，可以達到比其他生產級對話式 AI 系統更高的效能。
-
-##### **Post-Hoc Reversal: Are We Selecting Models Prematurely?**
-2404.07815v1 by Rishabh Ranjan, Saurabh Garg, Mrigank Raman, Carlos Guestrin, Zachary Chase Lipton
-
-Trained models are often composed with post-hoc transforms such as
-temperature scaling (TS), ensembling and stochastic weight averaging (SWA) to
-improve performance, robustness, uncertainty estimation, etc. However, such
-transforms are typically applied only after the base models have already been
-finalized by standard means. In this paper, we challenge this practice with an
-extensive empirical study. In particular, we demonstrate a phenomenon that we
-call post-hoc reversal, where performance trends are reversed after applying
-these post-hoc transforms. This phenomenon is especially prominent in
-high-noise settings. For example, while base models overfit badly early in
-training, both conventional ensembling and SWA favor base models trained for
-more epochs. Post-hoc reversal can also suppress the appearance of double
-descent and mitigate mismatches between test loss and test error seen in base
-models. Based on our findings, we propose post-hoc selection, a simple
-technique whereby post-hoc metrics inform model development decisions such as
-early stopping, checkpointing, and broader hyperparameter choices. Our
-experimental analyses span real-world vision, language, tabular and graph
-datasets from domains like satellite imaging, language modeling, census
-prediction and social network analysis. On an LLM instruction tuning dataset,
-post-hoc selection results in > 1.5x MMLU improvement compared to naive
-selection. Code is available at
-https://github.com/rishabh-ranjan/post-hoc-reversal.
-
-摘要：训练后的模型通常由事后转换（例如温度缩放 (TS)、集成和随机权重平均 (SWA)）组成，以提高性能、鲁棒性、不确定性估计等。然而，此类转换通常仅在基础模型已通过标准方式最终确定后才应用。在本文中，我们通过一项广泛的实证研究对这种做法提出了质疑。特别是，我们展示了一种我们称之为事后逆转的现象，其中在应用这些事后转换后，性能趋势会发生逆转。这种现象在高噪声设置中尤为突出。例如，虽然基础模型在训练早期严重过拟合，但传统的集成和 SWA 都偏爱训练更多个 epoch 的基础模型。事后逆转还可以抑制双重下降的出现，并减轻基础模型中看到的测试损失和测试误差之间的不匹配。根据我们的发现，我们提出了事后选择，这是一种简单的技术，其中事后指标为模型开发决策提供信息，例如提前停止、检查点和更广泛的超参数选择。我们的实验分析涵盖了来自卫星成像、语言建模、人口普查预测和社交网络分析等领域的真实世界视觉、语言、表格和图形数据集。在 LLM 指令调整数据集上，与朴素选择相比，事后选择导致 MMLU 提升 > 1.5 倍。代码可在 https://github.com/rishabh-ranjan/post-hoc-reversal 获得。
-
-##### **ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models**
-2404.07738v1 by Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, Sung Ju Hwang
-
-Scientific Research, vital for improving human life, is hindered by its
-inherent complexity, slow pace, and the need for specialized experts. To
-enhance its productivity, we propose a ResearchAgent, a large language
-model-powered research idea writing agent, which automatically generates
-problems, methods, and experiment designs while iteratively refining them based
-on scientific literature. Specifically, starting with a core paper as the
-primary focus to generate ideas, our ResearchAgent is augmented not only with
-relevant publications through connecting information over an academic graph but
-also entities retrieved from an entity-centric knowledge store based on their
-underlying concepts, mined and shared across numerous papers. In addition,
-mirroring the human approach to iteratively improving ideas with peer
-discussions, we leverage multiple ReviewingAgents that provide reviews and
-feedback iteratively. Further, they are instantiated with human
-preference-aligned large language models whose criteria for evaluation are
-derived from actual human judgments. We experimentally validate our
-ResearchAgent on scientific publications across multiple disciplines,
-showcasing its effectiveness in generating novel, clear, and valid research
-ideas based on human and model-based evaluation results.
-
-摘要：科學研究對於改善人類生活至關重要，但其固有的複雜性、緩慢的進度和對專業專家的需求卻阻礙了它的發展。為了提高其生產力，我們提出了一個 ResearchAgent，這是一個由大型語言模型驅動的研究構想寫作代理，它可以自動生成問題、方法和實驗設計，並根據科學文獻反覆對其進行改進。具體來說，我們的 ResearchAgent 以核心論文作為主要焦點來產生想法，不僅通過學術圖譜連接信息來擴充相關出版物，還基於其底層概念從以實體為中心的知識庫中檢索實體，並在大量論文中進行挖掘和共享。此外，為了模擬人類通過同行討論反覆改進想法的方法，我們利用多個 ReviewingAgent 來提供評論和反饋。此外，它們被實例化為與人類偏好對齊的大型語言模型，其評估標準源自實際的人類判斷。我們在跨學科的科學出版物上對我們的 ResearchAgent 進行了實驗驗證，展示了它在根據人類和基於模型的評估結果生成新穎、清晰和有效的研究構想的有效性。
 

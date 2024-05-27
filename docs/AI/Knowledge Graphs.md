@@ -10,7 +10,7 @@
 |**2024-05-22**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**|Yiran Qiao et.al.|[2405.13902v1](http://arxiv.org/abs/2405.13902v1)|null|
 |**2024-05-22**|**FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering**|Yuan Sui et.al.|[2405.13873v1](http://arxiv.org/abs/2405.13873v1)|null|
 |**2024-05-22**|**Large Language Models are Effective Priors for Causal Graph Discovery**|Victor-Alexandru Darvariu et.al.|[2405.13551v1](http://arxiv.org/abs/2405.13551v1)|null|
-|**2024-05-22**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401v1](http://arxiv.org/abs/2405.13401v1)|null|
+|**2024-05-22**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401v2](http://arxiv.org/abs/2405.13401v2)|null|
 |**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656v1](http://arxiv.org/abs/2405.12656v1)|[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)|
 |**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035v1](http://arxiv.org/abs/2405.12035v1)|null|
@@ -314,7 +314,7 @@ of the use of LLMs in this problem space.
 近期，考量到相較於人類專家，查詢大型語言模型 (LLM) 的成本較低，因此 LLM 已開始被視為先驗資訊的來源。在這項研究中，我們首先提出了一組指標，用於評估 LLM 判斷因果圖形發現的獨立性，與下游演算法無關。其次，我們系統性地研究了一組提示設計，允許模型指定關於因果圖形結構的先驗。最後，我們提出了一種整合 LLM 先驗的通用方法，用於圖形發現演算法，發現它們有助於改善常識基準的效能，特別是在用於評估邊緣方向性時。我們的研究重點說明了在這個問題空間中使用 LLM 的潛力以及缺點。
 
 ##### **TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**
-2405.13401v1 by Pengzhou Cheng, Yidong Ding, Tianjie Ju, Zongru Wu, Wei Du, Ping Yi, Zhuosheng Zhang, Gongshen Liu
+2405.13401v2 by Pengzhou Cheng, Yidong Ding, Tianjie Ju, Zongru Wu, Wei Du, Ping Yi, Zhuosheng Zhang, Gongshen Liu
 
 Large language models (LLMs) have raised concerns about potential security
 threats despite performing significantly in Natural Language Processing (NLP).
@@ -337,7 +337,7 @@ results on truthfulness, language understanding, and harmfulness show that
 TrojanRAG exhibits versatility threats while maintaining retrieval capabilities
 on normal queries.
 
-摘要：大型語言模型 (LLM) 在自然語言處理 (NLP) 中表現出色，但也引發了人們對潛在安全威脅的擔憂。後門攻擊最初驗證了 LLM 在所有階段都會造成重大危害，但其成本和穩健性遭到批評。在安全審查中攻擊 LLM 本質上是有風險的，而且成本高得令人望而卻步。此外，LLM 的持續迭代將降低後門的穩健性。在本文中，我們提出了 TrojanRAG，它在檢索增強生成中採用聯合後門攻擊，從而操縱 LLM 在通用攻擊場景中。具體來說，對手構建精細的目標上下文和觸發器集合。通過對比學習正交優化多對後門捷徑，從而將觸發條件約束在一個參數子空間中以改善匹配。為了提高 RAG 對目標上下文的召回率，我們引入了一個知識圖譜來構建結構化數據，以在細粒度級別實現硬匹配。此外，我們標準化了 LLM 中的後門場景，以從攻擊者和用戶的角度分析後門造成的實際危害，並進一步驗證上下文是否是越獄模型的有利工具。在真實性、語言理解和有害性方面的廣泛實驗結果表明，TrojanRAG 在保持對正常查詢的檢索能力的同時表現出多功能威脅。
+摘要：大型語言模型 (LLM) 儘管在自然語言處理 (NLP) 中表現出色，但也引發了潛在安全威脅的擔憂。後門攻擊最初驗證了 LLM 在所有階段都造成實質性損害，但成本和穩健性也受到批評。在安全審查中攻擊 LLM 本質上是有風險的，同時成本高得令人望而卻步。此外，LLM 的持續迭代將降低後門的穩健性。在本文中，我們提出了 TrojanRAG，它在檢索增強生成中採用聯合後門攻擊，從而操縱 LLM 在通用攻擊場景中。具體來說，對手構建精細的目標上下文和觸發器集。通過對比學習正交優化多對後門捷徑，從而將觸發條件約束在參數子空間中以改善匹配。為了提高 RAG 對目標上下文的召回率，我們引入了一個知識圖譜來構建結構化數據，以在細粒度級別實現硬匹配。此外，我們對 LLM 中的後門場景進行標準化，以從攻擊者和用戶的角度分析後門造成的實際危害，並進一步驗證上下文是否是用於越獄模型的有利工具。在真實性、語言理解和危害性方面的廣泛實驗結果表明，TrojanRAG 在維護對正常查詢的檢索能力的同時表現出多功能威脅。
 
 ##### **Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**
 2405.12656v1 by Yu-Hsiang Lin, Huang-Ting Shieh, Chih-Yu Liu, Kuang-Ting Lee, Hsiao-Cheng Chang, Jing-Lun Yang, Yu-Sheng Lin

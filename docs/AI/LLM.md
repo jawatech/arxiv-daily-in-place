@@ -32,7 +32,7 @@
 |**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728v1](http://arxiv.org/abs/2405.14728v1)|null|
 |**2024-05-23**|**CAPE: Context-Adaptive Positional Encoding for Length Extrapolation**|Chuanyang Zheng et.al.|[2405.14722v1](http://arxiv.org/abs/2405.14722v1)|[link](https://github.com/chuanyang-zheng/cape)|
 |**2024-05-23**|**Decision-Focused Forecasting: Decision Losses for Multistage Optimisation**|Egon Peršak et.al.|[2405.14719v1](http://arxiv.org/abs/2405.14719v1)|null|
-|**2024-05-23**|**HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks**|Momin N. Siddiqui et.al.|[2405.14716v1](http://arxiv.org/abs/2405.14716v1)|null|
+|**2024-05-23**|**HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks**|Momin N. Siddiqui et.al.|[2405.14716v2](http://arxiv.org/abs/2405.14716v2)|null|
 |**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715v1](http://arxiv.org/abs/2405.14715v1)|null|
 |**2024-05-23**|**Towards Educator-Driven Tutor Authoring: Generative AI Approaches for Creating Intelligent Tutor Interfaces**|Tommaso Calo et.al.|[2405.14713v1](http://arxiv.org/abs/2405.14713v1)|null|
 |**2024-05-23**|**G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**|Pengyue Jia et.al.|[2405.14702v1](http://arxiv.org/abs/2405.14702v1)|null|
@@ -98,7 +98,7 @@
 |**2024-05-23**|**JiuZhang3.0: Efficiently Improving Mathematical Reasoning by Training Small Data Synthesis Models**|Kun Zhou et.al.|[2405.14365v1](http://arxiv.org/abs/2405.14365v1)|null|
 |**2024-05-23**|**DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**|Huajian Xin et.al.|[2405.14333v1](http://arxiv.org/abs/2405.14333v1)|null|
 |**2024-05-23**|**LucidPPN: Unambiguous Prototypical Parts Network for User-centric Interpretable Computer Vision**|Mateusz Pach et.al.|[2405.14331v1](http://arxiv.org/abs/2405.14331v1)|null|
-|**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327v1](http://arxiv.org/abs/2405.14327v1)|null|
+|**2024-05-23**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327v2](http://arxiv.org/abs/2405.14327v2)|null|
 |**2024-05-23**|**Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration**|Yang Zhang et.al.|[2405.14314v1](http://arxiv.org/abs/2405.14314v1)|null|
 |**2024-05-23**|**Improving Gloss-free Sign Language Translation by Reducing Representation Density**|Jinhui Ye et.al.|[2405.14312v1](http://arxiv.org/abs/2405.14312v1)|null|
 |**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297v1](http://arxiv.org/abs/2405.14297v1)|null|
@@ -827,7 +827,7 @@ arbitrage task and report that our model outperforms existing approaches.
 摘要：以決策為中心的學習已成為一種有前途的方法，可透過針對下游決策品質訓練管線的上游預測面向，在不確定性下進行決策。現有的大部分研究都集中在單階段問題。許多實際的決策問題更適合使用多階段最佳化進行建模，因為價格或需求等背景資訊會隨著時間推移而揭露，而且當前的決策會影響未來的決策。我們提出以決策為中心的預測，這是一個多重隱含層模型，在訓練中會使用可微最佳化來考量預測的時序決策效果。遞迴模型反映了一個完全可微的多階段最佳化方法。我們提出對此模型產生的梯度進行分析，顯示了為考量預測所造成的狀態路徑而進行的調整。我們示範將此模型應用於能源儲存套利任務，並報告我們的模型優於現有方法。
 
 ##### **HTN-Based Tutors: A New Intelligent Tutoring Framework Based on Hierarchical Task Networks**
-2405.14716v1 by Momin N. Siddiqui, Adit Gupta, Jennifer M. Reddig, Christopher J. Maclellan
+2405.14716v2 by Momin N. Siddiqui, Adit Gupta, Jennifer M. Reddig, Christopher J. MacLellan
 
 Intelligent tutors have shown success in delivering a personalized and
 adaptive learning experience. However, there exist challenges regarding the
@@ -840,7 +840,7 @@ benefit of a hierarchical knowledge organization. We leverage the latter to
 create tutors that can adapt the granularity of their scaffolding. This
 organization also aligns well with the compositional nature of skills.
 
-摘要：智能導師在提供個人化和適應性學習體驗方面已展現成功。然而，現有架構中關於知識的粒度及其可提供的指導存在挑戰。為了解決這些問題，我們提出基於 HTN 的導師，這是一個新的智能導師架構，它使用分層任務網路 (HTN) 來表示專家模型。與其他導師架構一樣，它允許靈活編碼不同的問題解決策略，同時提供分層知識組織的附加好處。我們利用後者來建立可以調整其鷹架粒度的導師。這種組織也與技能的組成性質非常吻合。
+摘要：智能導師已展現出提供個人化和適應性學習體驗的成功。然而，現有架構中知識的粒度及其產生的指示存在挑戰。為了解決這些問題，我們提出基於 HTN 的導師，這是一個新的智能輔導框架，它使用階層任務網路 (HTN) 來表示專家模型。與其他輔導框架一樣，它允許靈活編碼不同的問題解決策略，同時提供階層知識組織的額外好處。我們利用後者來創建可以調整其鷹架粒度的導師。這種組織也與技能的組合性質非常一致。
 
 ##### **Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**
 2405.14715v1 by Young Kyun Jang, Ser-nam Lim
@@ -2459,8 +2459,8 @@ understanding.
 為了減少這種歧義，我們引入了 Lucid 原型零件網路 (LucidPPN)，一種將顏色原型與其他視覺特徵分開的新型原型零件網路。我們的模型採用兩個推理分支：一個用於非色彩視覺特徵，處理灰階影像，另一個則專注於色彩資訊。這種分離讓我們能夠釐清模型的決策是基於顏色、形狀還是紋理。此外，LucidPPN 識別與分類物件的語義零件相應的原型零件，讓資料類別之間的比較更直觀，例如，當兩個鳥類物種可能主要在腹部顏色上有所不同時。
 我們的實驗證明這兩個分支是互補的，並且共同達成與基準方法相當的結果。更重要的是，LucidPPN 產生的原型零件較不模稜兩可，增強使用者的理解力。
 
-##### **Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**
-2405.14327v1 by Guanxiong Luo, Shoujin Huang, Martin Uecker
+##### **Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**
+2405.14327v2 by Guanxiong Luo, Shoujin Huang, Martin Uecker
 
 Magnetic resonance imaging (MRI) is a widely used non-invasive imaging
 modality. However, a persistent challenge lies in balancing image quality with
@@ -2478,18 +2478,7 @@ robustly generate sequentially coherent image sequences. In 3D and dynamic MRI,
 the AID can outperform the standard diffusion model and reduce hallucinations,
 due to the learned inter-image dependencies.
 
-摘要：磁共振成像 (MRI) 是一種廣泛使用的非侵入性影像
-模式。然而，一個持續的挑戰在於平衡影像品質與
-影像速度。此取捨主要受 k 空間測量限制，
-在空間傅立葉域 (k 空間) 中穿過特定軌跡。
-這些測量通常會欠採樣以縮短擷取時間，
-導致影像偽影和品質受損。生成模型會學習
-影像分佈，可用於從欠採樣 k 空間資料重建高品質影像。在本文中，我們提出自迴歸影像
-擴散 (AID) 模型用於影像序列，並使用它來對加速 MRI 重建的後驗進行抽樣。該演算法同時納入
-欠採樣 k 空間和預先存在的資訊。使用 fastMRI
-資料集訓練的模型經過全面評估。結果顯示 AID 模型可以
-穩健地產生連貫的影像序列。在 3D 和動態 MRI 中，
-AID 由於學習到的影像間相依性，可以優於標準擴散模型並減少幻覺。
+摘要：磁振造影 (MRI) 是一种广泛使用的非侵入性影像模式。然而，在平衡影像品質與影像速度上仍存在持續的挑戰。這種取捨主要受到 k-space 測量的限制，k-space 測量會在空間傅立葉域 (k-space) 中穿過特定的軌跡。這些測量通常會被欠採樣以縮短擷取時間，導致影像出現偽影和品質受損。生成模型會學習影像分佈，可用於從欠採樣的 k-space 資料重建高品質影像。在這項工作中，我們提出用於影像序列的自迴歸影像擴散 (AID) 模型，並使用它來對加速 MRI 重建的後驗進行抽樣。此演算法結合了欠採樣的 k-space 和預先存在的資訊。使用 fastMRI 資料集訓練的模型經過全面評估。結果顯示 AID 模型可以穩健地生成連續一致的影像序列。在 3D 和動態 MRI 中，由於學習到的影像間依賴性，AID 可以勝過標準擴散模型並減少幻覺。
 
 ##### **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration**
 2405.14314v1 by Yang Zhang, Shixin Yang, Chenjia Bai, Fei Wu, Xiu Li, Xuelong Li, Zhen Wang

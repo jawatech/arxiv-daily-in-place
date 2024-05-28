@@ -6,7 +6,7 @@
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
 |**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v1](http://arxiv.org/abs/2405.15143v1)|[link](https://github.com/conglu1997/intelligent-go-explore)|
 |**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831v1](http://arxiv.org/abs/2405.14831v1)|null|
-|**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v1](http://arxiv.org/abs/2405.14664v1)|null|
+|**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v2](http://arxiv.org/abs/2405.14664v2)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203v1](http://arxiv.org/abs/2405.14203v1)|null|
 |**2024-05-23**|**Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning**|Jiapu Wang et.al.|[2405.14170v1](http://arxiv.org/abs/2405.14170v1)|null|
 |**2024-05-22**|**Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2405.14012v1](http://arxiv.org/abs/2405.14012v1)|null|
@@ -77,7 +77,7 @@
 |**2024-04-24**|**KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction**|Jack Boylan et.al.|[2404.15923v1](http://arxiv.org/abs/2404.15923v1)|null|
 |**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
 |**2024-04-23**|**A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**|Wenbo Shang et.al.|[2404.14809v1](http://arxiv.org/abs/2404.14809v1)|null|
-|**2024-04-23**|**LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data**|Peiwen Li et.al.|[2404.14786v1](http://arxiv.org/abs/2404.14786v1)|null|
+|**2024-04-23**|**RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model**|Peiwen Li et.al.|[2404.14786v2](http://arxiv.org/abs/2404.14786v2)|null|
 |**2024-04-23**|**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**|Chris Samarinas et.al.|[2404.14772v1](http://arxiv.org/abs/2404.14772v1)|[link](https://github.com/algoprog/syntod)|
 |**2024-04-23**|**Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering**|Yao Xu et.al.|[2404.14741v1](http://arxiv.org/abs/2404.14741v1)|[link](https://github.com/yaooxu/gog)|
 |**2024-04-22**|**Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph**|Xiaochen Kev Gao et.al.|[2404.14372v1](http://arxiv.org/abs/2404.14372v1)|[link](https://github.com/shangdatalab/flan-graph)|
@@ -236,7 +236,7 @@ IRCoT 中可帶來進一步的實質收益。最後，我們展示我們的
 和資料可在 https://github.com/OSU-NLP-Group/HippoRAG 取得。
 
 ##### **Fisher Flow Matching for Generative Modeling over Discrete Data**
-2405.14664v1 by Oscar Davis, Samuel Kessler, Mircea Petrache, {İ}smail {İ}lkan Ceylan, Avishek Joey Bose
+2405.14664v2 by Oscar Davis, Samuel Kessler, Mircea Petrache, İsmail İlkan Ceylan, Avishek Joey Bose
 
 Generative modeling over discrete data has recently seen numerous success
 stories, with applications spanning language modeling, biological sequence
@@ -261,7 +261,7 @@ benchmarks, including designing DNA Promoter, and DNA Enhancer sequences.
 Empirically, we find that Fisher-Flow improves over prior diffusion and
 flow-matching models on these benchmarks.
 
-摘要：<paragraph>生成式建模在离散数据上最近已经获得了众多成功案例，其应用涵盖语言建模、生物序列设计和图结构分子数据。离散数据的优势生成式建模范例仍然是自回归，基于扩散或流匹配的最新替代方案在连续数据设置（例如图像或视频生成）中表现不佳。在这项工作中，我们介绍了 Fisher-Flow，这是一种用于离散数据的新型流匹配模型。Fisher-Flow 通过将离散数据上的分类分布视为驻留在具有其自然黎曼度量统计流形的点来考虑明显几何视角：$\textit{Fisher-Rao 度量}$。因此，我们证明离散数据本身可以连续地重新参数化为 $d$-超球面 $\mathbb{S}^d_+$ 的正象限上的点，这使我们能够通过沿着 $\mathbb{S}^d_+$ 的（封闭形式）测地线传输质量，以原则性方式定义将任何源分布映射到目标的流。此外，Fisher-Flow 中学习的流可以通过利用黎曼最优传输进一步自举，从而改善训练动态。我们证明 Fisher-Flow 诱导的梯度流在减少正向 KL 散度方面是最优的。我们在一系列合成和多样化的真实基准上评估 Fisher-Flow，包括设计 DNA 启动子和 DNA 增强子序列。根据经验，我们发现 Fisher-Flow 在这些基准上改进了先前的扩散和流匹配模型。</paragraph>
+摘要：<paragraph>離散資料的生成式模型最近取得許多成功案例，應用領域涵蓋語言模型、生物序列設計和圖形結構分子資料。離散資料的主要生成式模型範例仍然是自迴歸，最近的替代方案基於擴散或流匹配，其在連續資料設定中的驚人表現，例如圖像或影片生成，仍有不足之處。在這項工作中，我們引入了 Fisher-Flow，一個針對離散資料的新穎流匹配模型。Fisher-Flow 採用明顯的幾何觀點，將離散資料上的分類分佈視為駐留在具有其自然黎曼度量統計流形的點：$\textit{Fisher-Rao metric}$。因此，我們證明離散資料本身可以連續重新參數化為 $d$-超球體 $\mathbb{S}^d_+$ 正軸向上的點，這讓我們可以定義流，透過沿著 $\mathbb{S}^d_+$ 的（閉合形式）測地線傳輸質量，以原則性的方式將任何來源分佈對應到目標。此外，Fisher-Flow 中學習到的流可以進一步透過利用黎曼最優傳輸進行自我啟動，從而改善訓練動態。我們證明 Fisher-Flow 誘導的梯度流在減少前向 KL 散度方面是最佳的。我們在各種合成和多樣化的真實世界基準上評估 Fisher-Flow，包括設計 DNA 啟動子，以及 DNA 增強子序列。根據經驗，我們發現 Fisher-Flow 在這些基準上改進了先前的擴散和流匹配模型。</paragraph>
 
 ##### **GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**
 2405.14203v1 by Thao Nguyen, Tiara Torres-Flores, Changhyun Hwang, Carl Edwards, Ying Diao, Heng Ji
@@ -1949,8 +1949,8 @@ interdisciplinary research area of LLMs and graph analytics.
 
 摘要：圖形是一種基本資料模型，用於表示社會和自然界中各種實體及其複雜關係，例如社交網路、運輸網路、金融網路和生物醫學系統。最近，大型語言模型 (LLM) 展示了強大的概括能力，可以處理各種 NLP 和多模式任務，以回答使用者的任意問題和特定領域的內容生成。與圖形學習模型相比，LLM 在解決圖形任務的概括挑戰方面享有優越的優勢，因為它消除了訓練圖形學習模型的需要並降低了人工註解的成本。在這項調查中，我們對現有的 LLM 在圖形資料上的研究進行了全面的調查，總結了由先進 LLM 模型解決的相關圖形分析任務，並指出了現有的剩餘挑戰和未來方向。具體來說，我們研究了基於 LLM 的生成圖形分析 (LLM-GGA) 的關鍵問題，分為三類：基於 LLM 的圖形查詢處理 (LLM-GQP)、基於 LLM 的圖形推理和學習 (LLM-GIL) 以及基於圖形 LLM 的應用程式。LLM-GQP 專注於圖形分析技術和 LLM 提示的整合，包括圖形理解和基於知識圖譜 (KG) 的擴增檢索，而 LLM-GIL 專注於在圖形上學習和推理，包括圖形學習、圖形形成推理和圖形表示。我們總結了整合到 LLM 中以處理不同圖形下游任務的有用提示。此外，我們總結了 LLM 模型評估、基準資料集/任務以及 LLM 模型的深入優缺點分析。我們還探討了 LLM 和圖形分析這個令人興奮的跨學科研究領域中的開放問題和未來方向。
 
-##### **LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data**
-2404.14786v1 by Peiwen Li, Xin Wang, Zeyang Zhang, Yuan Meng, Fang Shen, Yue Li, Jialong Wang, Yang Li, Wenweu Zhu
+##### **RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model**
+2404.14786v2 by Peiwen Li, Xin Wang, Zeyang Zhang, Yuan Meng, Fang Shen, Yue Li, Jialong Wang, Yang Li, Wenweu Zhu
 
 In the field of Artificial Intelligence for Information Technology
 Operations, causal discovery is pivotal for operation and maintenance of graph
@@ -1979,7 +1979,7 @@ experiments on simulation and real-world datasets to show the superiority of
 our proposed RealTCD framework over existing baselines in discovering temporal
 causal structures.
 
-摘要：<paragraph>在資訊科技營運的人工智慧領域中，因果發現對於圖形建構的運作和維護至關重要，促進了下游產業任務，例如根本原因分析。時序因果發現作為一種新興方法，旨在通過利用介入資料，直接從觀測中識別變數之間的時序因果關係。然而，現有方法主要關注於合成資料集，嚴重依賴於介入目標，並且忽略了隱藏在現實世界系統中的文字資訊，無法對真實產業場景進行因果發現。為了解決這個問題，在本文中，我們提議研究產業場景中的時序因果發現，這面臨兩個關鍵挑戰：1）如何在實務上難以取得介入目標的情況下發現因果關係，以及 2）如何透過利用系統中的文字資訊來發現因果關係，這些資訊在產業背景下可能複雜但豐富。為了應對這些挑戰，我們提出了 RealTCD 框架，它能夠利用領域知識來發現沒有介入目標的時序因果關係。具體來說，我們首先開發了一種基於評分的時序因果發現方法，能夠通過策略性遮蔽和正則化來發現根本原因分析的因果關係，而無需依賴於介入目標。此外，通過採用大型語言模型 (LLM) 來處理文字並整合領域知識，我們引入了 LLM 引導的元初始化，從隱藏在系統中的文字資訊中提取元知識，以提升發現的品質。我們對模擬和真實世界資料集進行了廣泛的實驗，以展示我們提出的 RealTCD 框架在發現時序因果結構方面優於現有基準的優越性。</paragraph>
+摘要：<paragraph>在信息技術運算的人工智慧領域中，因果發現對於圖形建構的運作和維護至關重要，有助於促進下游產業任務，例如根本原因分析。時序因果發現作為一種新興方法，旨在透過利用介入數據，直接從觀察中找出變數之間的時序因果關係。然而，現有方法主要集中於合成資料集，過度依賴介入目標，且忽略了現實世界系統中隱藏的文字資訊，無法對真實產業場景進行因果發現。為了解決這個問題，我們在本文中提出探討產業場景中的時序因果發現，這面臨兩項關鍵挑戰：1) 如何在沒有介入目標的情況下發現因果關係，而介入目標在實務上取得成本很高，以及 2) 如何透過利用系統中的文字資訊來發現因果關係，而這些資訊在產業情境中可能很複雜，但也很豐富。為了應對這些挑戰，我們提出 RealTCD 架構，它能夠利用領域知識來發現時序因果關係，而不需要介入目標。具體來說，我們首先開發一種基於分數的時序因果發現方法，它能夠透過策略性遮罩和正則化來發現因果關係，以進行根本原因分析，而不需要依賴介入目標。此外，透過採用大型語言模型 (LLM) 來處理文字並整合領域知識，我們引入了 LLM 引導的元初始化，以從系統中隱藏的文字資訊中萃取元知識，以提升發現的品質。我們在模擬和真實世界資料集上進行了廣泛的實驗，以展示我們提出的 RealTCD 架構在發現時序因果結構方面優於現有的基準。</paragraph>
 
 ##### **Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**
 2404.14772v1 by Chris Samarinas, Pracha Promthaw, Atharva Nijasure, Hansi Zeng, Julian Killingback, Hamed Zamani

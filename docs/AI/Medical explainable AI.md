@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
 |**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
@@ -101,9 +102,29 @@
 |**2022-09-30**|**An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**|Yuzhe Lu et.al.|[2210.08979v1](http://arxiv.org/abs/2210.08979v1)|null|
 |**2022-09-14**|**Explainable AI for clinical and remote health applications: a survey on tabular and time series data**|Flavio Di Martino et.al.|[2209.06528v1](http://arxiv.org/abs/2209.06528v1)|null|
 |**2022-08-31**|**Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**|Gaetan Dissez et.al.|[2208.14742v1](http://arxiv.org/abs/2208.14742v1)|null|
-|**2022-08-24**|**GAN-based generative modelling for dermatological applications -- comparative study**|Sandra Carrasco Limeros et.al.|[2208.11702v1](http://arxiv.org/abs/2208.11702v1)|[link](https://github.com/aidotse/stylegan2-ada-pytorch)|
 
 #### Abstracts
+##### **Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**
+2405.16424v1 by Min Hun Lee, Silvana Xin Yi Choo, Shamala D/O Thilarajah
+
+With advanced AI/ML, there has been growing research on explainable AI (XAI)
+and studies on how humans interact with AI and XAI for effective human-AI
+collaborative decision-making. However, we still have a lack of understanding
+of how AI systems and XAI should be first presented to users without technical
+backgrounds. In this paper, we present the findings of semi-structured
+interviews with health professionals (n=12) and students (n=4) majoring in
+medicine and health to study how to improve onboarding with AI and XAI. For the
+interviews, we built upon human-AI interaction guidelines to create onboarding
+materials of an AI system for stroke rehabilitation assessment and AI
+explanations and introduce them to the participants. Our findings reveal that
+beyond presenting traditional performance metrics on AI, participants desired
+benchmark information, the practical benefits of AI, and interaction trials to
+better contextualize AI performance, and refine the objectives and performance
+of AI. Based on these findings, we highlight directions for improving
+onboarding with AI and XAI and human-AI collaborative decision-making.
+
+摘要：隨著先進的 AI/ML，對可解釋 AI (XAI) 的研究不斷增加，以及關於人類如何與 AI 和 XAI 互動以進行有效的人工智慧協作決策制定。然而，我們仍然缺乏對 AI 系統和 XAI 應如何首先呈現給沒有技術背景的用戶的了解。在本文中，我們展示了與醫療專業人員 (n=12) 和主修醫學和健康的學生 (n=4) 進行半結構化訪談的結果，以研究如何改善 AI 和 XAI 的入門。對於訪談，我們建立在人機互動準則之上，為中風康復評估和 AI 解釋的 AI 系統創建入門材料，並將它們介紹給參與者。我們的研究結果表明，除了呈現傳統的 AI 性能指標外，參與者還希望基准信息、AI 的實際好處以及交互試驗，以更好地將 AI 性能情境化，並完善 AI 的目標和性能。根據這些發現，我們強調了改進 AI 和 XAI 以及人機協作決策制定的入門方向。
+
 ##### **The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**
 2405.13099v1 by Mohsen Jozani, Jason A. Williams, Ahmed Aleroud, Sarbottam Bhagat
 
@@ -2556,28 +2577,4 @@ downstream imaging resources.
 主要結果指標：臨床醫師在有和沒有人工智慧輸入的情況下，偵測CXR上肺癌的整體準確度、敏感度、特異度和精確度。臨床醫師之間的同意率和績效標準差也在有和沒有人工智慧輸入的情況下進行評估。
 結果：臨床醫師使用人工智慧演算法，改善了肺部腫瘤偵測的整體表現，整體增加了17.4%的肺癌在CXR上被辨識出來，而這些肺癌原本會被遺漏，整體增加了較小腫瘤的偵測率，分別增加了24%和13%的第1期和第2期肺癌偵測率，並標準化了臨床醫師的表現。
 結論：本研究顯示人工智慧演算法在臨床應用上極具前景，可透過整體改善讀者表現來提升早期肺癌診斷並促進健康公平性，同時不影響下游影像資源。</paragraph>
-
-##### **GAN-based generative modelling for dermatological applications -- comparative study**
-2208.11702v1 by Sandra Carrasco Limeros, Sylwia Majchrowska, Mohamad Khir Zoubi, Anna Rosén, Juulia Suvilehto, Lisa Sjöblom, Magnus Kjellberg
-
-The lack of sufficiently large open medical databases is one of the biggest
-challenges in AI-powered healthcare. Synthetic data created using Generative
-Adversarial Networks (GANs) appears to be a good solution to mitigate the
-issues with privacy policies. The other type of cure is decentralized protocol
-across multiple medical institutions without exchanging local data samples. In
-this paper, we explored unconditional and conditional GANs in centralized and
-decentralized settings. The centralized setting imitates studies on large but
-highly unbalanced skin lesion dataset, while the decentralized one simulates a
-more realistic hospital scenario with three institutions. We evaluated models'
-performance in terms of fidelity, diversity, speed of training, and predictive
-ability of classifiers trained on the generated synthetic data. In addition we
-provided explainability through exploration of latent space and embeddings
-projection focused both on global and local explanations. Calculated distance
-between real images and their projections in the latent space proved the
-authenticity and generalization of trained GANs, which is one of the main
-concerns in this type of applications. The open source code for conducted
-studies is publicly available at
-\url{https://github.com/aidotse/stylegan2-ada-pytorch}.
-
-摘要：在 AI 驅動醫療保健中，缺乏足夠大的開放式醫療資料庫是最重大的挑戰之一。使用生成對抗網路 (GAN) 所建立的合成資料，似乎是能減輕隱私政策問題的良好解決方案。另一種治療方式是分散式協定，它能讓多個醫療機構在不交換當地資料範例的情況下進行交流。在這篇論文中，我們在集中式和分散式設定中探討了無條件和有條件 GAN。集中式設定模擬了大型但極不平衡的皮膚病變資料集的研究，而分散式設定模擬了三個機構之間更實際的醫院情境。我們評估了模型的效能，包括保真度、多樣性、訓練速度，以及在生成的合成資料上訓練分類器的預測能力。此外，我們透過探索潛在空間和嵌入投影，提供了對全球和局部解釋的說明。計算出的真實影像與其在潛在空間中的投影之間的距離，證明了訓練過 GAN 的真實性與泛化能力，而這正是此類應用程式的主要考量之一。已公開發布進行研究的開放原始碼，網址為：\url{https://github.com/aidotse/stylegan2-ada-pytorch}。
 

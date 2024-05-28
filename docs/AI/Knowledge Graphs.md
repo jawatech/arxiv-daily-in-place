@@ -2,6 +2,14 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337v1](http://arxiv.org/abs/2405.17337v1)|null|
+|**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249v1](http://arxiv.org/abs/2405.17249v1)|[link](https://github.com/ionutiga/llms-for-kgc)|
+|**2024-05-27**|**Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**|Xun Liang et.al.|[2405.16933v1](http://arxiv.org/abs/2405.16933v1)|[link](https://github.com/iaar-shanghai/pgrag)|
+|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806v1](http://arxiv.org/abs/2405.16806v1)|null|
+|**2024-05-27**|**TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**|Zheng Zhang et.al.|[2405.16800v1](http://arxiv.org/abs/2405.16800v1)|null|
+|**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v1](http://arxiv.org/abs/2405.16412v1)|null|
+|**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
+|**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
 |**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v1](http://arxiv.org/abs/2405.15739v1)|null|
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
 |**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v1](http://arxiv.org/abs/2405.15143v1)|[link](https://github.com/conglu1997/intelligent-go-explore)|
@@ -46,6 +54,7 @@
 |**2024-05-06**|**FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**|Silan Hu et.al.|[2405.03734v1](http://arxiv.org/abs/2405.03734v1)|null|
 |**2024-05-05**|**E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods**|Şükrü Öztürk et.al.|[2405.02984v1](http://arxiv.org/abs/2405.02984v1)|null|
 |**2024-05-04**|**Relations Prediction for Knowledge Graph Completion using Large Language Models**|Sakher Khalil Alqaaidi et.al.|[2405.02738v1](http://arxiv.org/abs/2405.02738v1)|null|
+|**2024-05-04**|**IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data**|Sami Azirar et.al.|[2405.15792v1](http://arxiv.org/abs/2405.15792v1)|null|
 |**2024-05-04**|**R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models**|Taolin Zhang et.al.|[2405.02659v1](http://arxiv.org/abs/2405.02659v1)|null|
 |**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105v1](http://arxiv.org/abs/2405.02105v1)|null|
 |**2024-05-03**|**Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL**|Arturo Fiorellini-Bernardis et.al.|[2405.02374v1](http://arxiv.org/abs/2405.02374v1)|null|
@@ -93,17 +102,204 @@
 |**2024-04-17**|**AgentKit: Flow Engineering with Graphs, not Coding**|Yue Wu et.al.|[2404.11483v1](http://arxiv.org/abs/2404.11483v1)|[link](https://github.com/holmeswww/agentkit)|
 |**2024-04-17**|**Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**|Jan-Philipp Fränken et.al.|[2404.10975v1](http://arxiv.org/abs/2404.10975v1)|[link](https://github.com/cicl-stanford/moral-evals)|
 |**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503v1](http://arxiv.org/abs/2404.10503v1)|null|
-|**2024-04-16**|**MEEL: Multi-Modal Event Evolution Learning**|Zhengwei Tao et.al.|[2404.10429v1](http://arxiv.org/abs/2404.10429v1)|[link](https://github.com/tzwwww/meel)|
-|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384v1](http://arxiv.org/abs/2404.10384v1)|null|
-|**2024-04-16**|**Relational Graph Convolutional Networks for Sentiment Analysis**|Asal Khosravi et.al.|[2404.13079v1](http://arxiv.org/abs/2404.13079v1)|null|
-|**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763v1](http://arxiv.org/abs/2404.09763v1)|null|
-|**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516v1](http://arxiv.org/abs/2404.09516v1)|[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)|
-|**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416v1](http://arxiv.org/abs/2404.09416v1)|null|
-|**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296v1](http://arxiv.org/abs/2404.09296v1)|null|
-|**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077v1](http://arxiv.org/abs/2404.09077v1)|[link](https://github.com/zukangy/kgp-curiousllm)|
-|**2024-04-12**|**Relational Prompt-based Pre-trained Language Models for Social Event Detection**|Pu Li et.al.|[2404.08263v1](http://arxiv.org/abs/2404.08263v1)|null|
 
 #### Abstracts
+##### **Cost-efficient Knowledge-based Question Answering with Large Language Models**
+2405.17337v1 by Junnan Dong, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang
+
+Knowledge-based question answering (KBQA) is widely used in many scenarios
+that necessitate domain knowledge. Large language models (LLMs) bring
+opportunities to KBQA, while their costs are significantly higher and absence
+of domain-specific knowledge during pre-training. We are motivated to combine
+LLMs and prior small models on knowledge graphs (KGMs) for both inferential
+accuracy and cost saving. However, it remains challenging since accuracy and
+cost are not readily combined in the optimization as two distinct metrics. It
+is also laborious for model selection since different models excel in diverse
+knowledge. To this end, we propose Coke, a novel cost-efficient strategy for
+KBQA with LLMs, modeled as a tailored multi-armed bandit problem to minimize
+calls to LLMs within limited budgets. We first formulate the accuracy
+expectation with a cluster-level Thompson Sampling for either KGMs or LLMs. A
+context-aware policy is optimized to further distinguish the expert model
+subject to the question semantics. The overall decision is bounded by the cost
+regret according to historical expenditure on failures. Extensive experiments
+showcase the superior performance of Coke, which moves the Pareto frontier with
+up to 20.89% saving of GPT-4 fees while achieving a 2.74% higher accuracy on
+the benchmark datasets.
+
+摘要：<paragraph>基於知識的問答 (KBQA) 廣泛應用於許多需要領域知識的場景中。大型語言模型 (LLM) 為 KBQA 帶來了機會，但其成本顯著提高，且在預訓練期間缺乏特定領域的知識。我們有動力將 LLM 和先前的知識圖譜 (KGM) 上的小模型結合起來，以提高推理準確性和節省成本。然而，由於準確性和成本無法在優化中作為兩個不同的指標輕易地結合在一起，因此這仍然具有挑戰性。由於不同的模型擅長於不同的知識，因此模型選擇也很費力。為此，我們提出了 Coke，一種針對 LLM 的新穎且具有成本效益的 KBQA 策略，它被建模為一個定制的多臂賭博機問題，以在有限的預算內最大程度地減少對 LLM 的呼叫。我們首先使用針對 KGM 或 LLM 的群集級 Thompson 採樣來制定準確性期望。優化了一個上下文感知策略，以進一步區分問題語義的主題模型。根據失敗的歷史支出，總體決策受到成本遺憾的約束。大量的實驗展示了 Coke 的優越性能，它將帕累托前沿移動了多達 20.89%，同時在基準數據集上實現了 2.74% 的更高準確性。</paragraph>
+
+##### **Assessing LLMs Suitability for Knowledge Graph Completion**
+2405.17249v1 by Vasile Ionut Remus Iga, Gheorghe Cosmin Silaghi
+
+Recent work shown the capability of Large Language Models (LLMs) to solve
+tasks related to Knowledge Graphs, such as Knowledge Graph Completion, even in
+Zero- or Few-Shot paradigms. However, they are known to hallucinate answers, or
+output results in a non-deterministic manner, thus leading to wrongly reasoned
+responses, even if they satisfy the user's demands. To highlight opportunities
+and challenges in knowledge graphs-related tasks, we experiment with two
+distinguished LLMs, namely Mixtral-8x7B-Instruct-v0.1, and gpt-3.5-turbo-0125,
+on Knowledge Graph Completion for static knowledge graphs, using prompts
+constructed following the TELeR taxonomy, in Zero- and One-Shot contexts, on a
+Task-Oriented Dialogue system use case. When evaluated using both strict and
+flexible metrics measurement manners, our results show that LLMs could be fit
+for such a task if prompts encapsulate sufficient information and relevant
+examples.
+
+摘要：最近的研究显示，大型语言模型 (LLM) 具备解决知识图谱相关任务的能力，例如知识图谱补全，即使在零次或小样本的情况下也是如此。然而，众所周知，它们会产生幻觉答案，或以非确定性的方式输出结果，从而导致推理错误的响应，即使它们满足了用户的需求。为了突出知识图谱相关任务中的机遇和挑战，我们对两种杰出的 LLM 进行了实验，分别是 Mixtral-8x7B-Instruct-v0.1 和 gpt-3.5-turbo-0125，在静态知识图谱的知识图谱补全上，使用根据 TELeR 分类法构建的提示，在零次和一次上下文中，在面向任务的对话系统用例中。当使用严格和灵活的度量方式进行评估时，我们的结果表明，如果提示包含足够的信息和相关示例，则 LLM 适用于此类任务。
+
+##### **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**
+2405.16933v1 by Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Shichao Song, Hanyu Wang, Jiawei Yang, Feiyu Xiong, Bo Tang, Chenyang Xi
+
+Retrieval-Augmented Generation (RAG) offers a cost-effective approach to
+injecting real-time knowledge into large language models (LLMs). Nevertheless,
+constructing and validating high-quality knowledge repositories require
+considerable effort. We propose a pre-retrieval framework named Pseudo-Graph
+Retrieval-Augmented Generation (PG-RAG), which conceptualizes LLMs as students
+by providing them with abundant raw reading materials and encouraging them to
+engage in autonomous reading to record factual information in their own words.
+The resulting concise, well-organized mental indices are interconnected through
+common topics or complementary facts to form a pseudo-graph database. During
+the retrieval phase, PG-RAG mimics the human behavior in flipping through
+notes, identifying fact paths and subsequently exploring the related contexts.
+Adhering to the principle of the path taken by many is the best, it integrates
+highly corroborated fact paths to provide a structured and refined sub-graph
+assisting LLMs. We validated PG-RAG on three specialized question-answering
+datasets. In single-document tasks, PG-RAG significantly outperformed the
+current best baseline, KGP-LLaMA, across all key evaluation metrics, with an
+average overall performance improvement of 11.6%. Specifically, its BLEU score
+increased by approximately 14.3%, and the QE-F1 metric improved by 23.7%. In
+multi-document scenarios, the average metrics of PG-RAG were at least 2.35%
+higher than the best baseline. Notably, the BLEU score and QE-F1 metric showed
+stable improvements of around 7.55% and 12.75%, respectively. Our code:
+https://github.com/IAAR-Shanghai/PGRAG.
+
+摘要：<paragraph>檢索增強生成（RAG）提供了一種具成本效益的方法，可以將即時知識注入大型語言模型（LLM）。儘管如此，建構和驗證高品質的知識儲存庫需要相當大的努力。我們提出了一個名為偽圖形檢索增強生成（PG-RAG）的預檢索架構，它將 LLM 概念化為學生，為他們提供豐富的原始閱讀材料，並鼓勵他們從事自主閱讀，用自己的話記錄事實資訊。由此產生的簡潔、組織良好的心智索引通過共同的主題或補充事實相互連接，形成一個偽圖形資料庫。在檢索階段，PG-RAG 模仿人類在翻閱筆記、識別事實路徑並隨後探索相關背景中的行為。遵循眾人走的路是最好的原則，它整合了高度證實的事實路徑，以提供一個結構化且精煉的子圖，協助 LLM。我們在三個專業問答資料集上驗證了 PG-RAG。在單一文件任務中，PG-RAG 在所有關鍵評估指標上都顯著優於目前的最佳基準 KGP-LLaMA，平均整體效能提升了 11.6%。具體來說，它的 BLEU 分數提高了大約 14.3%，QE-F1 指標提高了 23.7%。在多文件場景中，PG-RAG 的平均指標至少比最佳基準高 2.35%。值得注意的是，BLEU 分數和 QE-F1 指標分別顯示出約 7.55% 和 12.75% 的穩定提升。我們的程式碼：https://github.com/IAAR-Shanghai/PGRAG。</paragraph>
+
+##### **Entity Alignment with Noisy Annotations from Large Language Models**
+2405.16806v1 by Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang
+
+Entity alignment (EA) aims to merge two knowledge graphs (KGs) by identifying
+equivalent entity pairs. While existing methods heavily rely on human-generated
+labels, it is prohibitively expensive to incorporate cross-domain experts for
+annotation in real-world scenarios. The advent of Large Language Models (LLMs)
+presents new avenues for automating EA with annotations, inspired by their
+comprehensive capability to process semantic information. However, it is
+nontrivial to directly apply LLMs for EA since the annotation space in
+real-world KGs is large. LLMs could also generate noisy labels that may mislead
+the alignment. To this end, we propose a unified framework, LLM4EA, to
+effectively leverage LLMs for EA. Specifically, we design a novel active
+learning policy to significantly reduce the annotation space by prioritizing
+the most valuable entities based on the entire inter-KG and intra-KG structure.
+Moreover, we introduce an unsupervised label refiner to continuously enhance
+label accuracy through in-depth probabilistic reasoning. We iteratively
+optimize the policy based on the feedback from a base EA model. Extensive
+experiments demonstrate the advantages of LLM4EA on four benchmark datasets in
+terms of effectiveness, robustness, and efficiency.
+
+摘要：實體對齊 (EA) 旨在透過識別等效實體對來合併兩個知識圖譜 (KG)。雖然現有方法高度依賴人工產生的標籤，但在現實世界場景中納入跨領域專家進行標註的成本過高。大型語言模型 (LLM) 的出現為自動化 EA 標註提供了新的途徑，靈感來自它們處理語義資訊的全面能力。然而，由於現實世界 KG 中的標註空間很大，因此直接應用 LLM 於 EA 並不容易。LLM 也有可能產生雜訊標籤，進而誤導對齊。為此，我們提出了一個統一架構 LLM4EA，以有效利用 LLM 進行 EA。具體來說，我們設計了一種新穎的主動學習策略，透過根據整個 KG 間和 KG 內結構優先處理最有價值的實體，大幅縮減標註空間。此外，我們引入了一個無監督標籤精煉器，透過深入的機率推理持續提升標籤準確度。我們根據基本 EA 模型的回饋反覆最佳化策略。廣泛的實驗證明了 LLM4EA 在四個基準資料集上在效能、穩健性和效率方面的優勢。
+
+##### **TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**
+2405.16800v1 by Zheng Zhang, Yuntong Hu, Bo Pan, Chen Ling, Liang Zhao
+
+Text-Attributed Graphs (TAGs) enhance graph structures with natural language
+descriptions, enabling detailed representation of data and their relationships
+across a broad spectrum of real-world scenarios. Despite the potential for
+deeper insights, existing TAG representation learning primarily relies on
+supervised methods, necessitating extensive labeled data and limiting
+applicability across diverse contexts. This paper introduces a new
+self-supervised learning framework, Text-And-Graph Multi-View Alignment (TAGA),
+which overcomes these constraints by integrating TAGs' structural and semantic
+dimensions. TAGA constructs two complementary views: Text-of-Graph view, which
+organizes node texts into structured documents based on graph topology, and the
+Graph-of-Text view, which converts textual nodes and connections into graph
+data. By aligning representations from both views, TAGA captures joint textual
+and structural information. In addition, a novel structure-preserving random
+walk algorithm is proposed for efficient training on large-sized TAGs. Our
+framework demonstrates strong performance in zero-shot and few-shot scenarios
+across eight real-world datasets.
+
+摘要：文本属性图 (TAG) 使用自然语言描述增强图结构，能够详细表示数据及其在广泛的真实世界场景中的关系。尽管有更深入见解的潜力，但现有的 TAG 表示学习主要依赖于监督方法，需要大量的标记数据，并限制了在不同上下文中的适用性。本文介绍了一个新的自监督学习框架，文本和图多视图对齐 (TAGA)，通过整合 TAG 的结构和语义维度来克服这些限制。TAGA 构建了两个互补的视图：图文本视图，它根据图拓扑将节点文本组织成结构化文档；文本图视图，它将文本节点和连接转换为图数据。通过对齐来自两个视图的表示，TAGA 捕获了联合文本和结构信息。此外，提出了一种新颖的结构保持随机游走算法，用于对大型 TAG 进行高效训练。我们的框架在八个真实世界数据集的零样本和少样本场景中展示了强大的性能。
+
+##### **KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**
+2405.16412v1 by Pengcheng Jiang, Lang Cao, Cao Xiao, Parminder Bhatia, Jimeng Sun, Jiawei Han
+
+Knowledge Graph Embedding (KGE) techniques are crucial in learning compact
+representations of entities and relations within a knowledge graph,
+facilitating efficient reasoning and knowledge discovery. While existing
+methods typically focus either on training KGE models solely based on graph
+structure or fine-tuning pre-trained language models with classification data
+in KG, KG-FIT leverages LLM-guided refinement to construct a semantically
+coherent hierarchical structure of entity clusters. By incorporating this
+hierarchical knowledge along with textual information during the fine-tuning
+process, KG-FIT effectively captures both global semantics from the LLM and
+local semantics from the KG. Extensive experiments on the benchmark datasets
+FB15K-237, YAGO3-10, and PrimeKG demonstrate the superiority of KG-FIT over
+state-of-the-art pre-trained language model-based methods, achieving
+improvements of 14.4%, 13.5%, and 11.9% in the Hits@10 metric for the link
+prediction task, respectively. Furthermore, KG-FIT yields substantial
+performance gains of 12.6%, 6.7%, and 17.7% compared to the structure-based
+base models upon which it is built. These results highlight the effectiveness
+of KG-FIT in incorporating open-world knowledge from LLMs to significantly
+enhance the expressiveness and informativeness of KG embeddings.
+
+摘要：知識圖譜嵌入 (KGE) 技術對於學習知識圖譜中實體和關係的緊湊表示至關重要，促進了高效的推理和知識發現。雖然現有方法通常專注於僅基於圖形結構訓練 KGE 模型或使用 KG 中的分類數據微調預訓練的語言模型，但 KG-FIT 利用 LLM 指導的精煉來構建語義上連貫的實體群集層次結構。通過在微調過程中將這種層次知識與文本信息結合起來，KG-FIT 有效地從 LLM 中捕獲全局語義，從 KG 中捕獲局部語義。在基準數據集 FB15K-237、YAGO3-10 和 PrimeKG 上進行的廣泛實驗證明了 KG-FIT 優於最先進的基於預訓練語言模型的方法，在鏈路預測任務的 Hits@10 指標中分別取得了 14.4%、13.5% 和 11.9% 的改進。此外，與其構建的基於結構的基礎模型相比，KG-FIT 在性能上顯著提升了 12.6%、6.7% 和 17.7%。這些結果突出了 KG-FIT 在整合來自 LLM 的開放世界知識以顯著增強 KG 嵌入的表達力和信息量方面的有效性。
+
+##### **Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**
+2405.16405v1 by Runlin Lei, Yuwei Hu, Yuchen Ren, Zhewei Wei
+
+Graph Neural Networks (GNNs) excel across various applications but remain
+vulnerable to adversarial attacks, particularly Graph Injection Attacks (GIAs),
+which inject malicious nodes into the original graph and pose realistic
+threats. Text-attributed graphs (TAGs), where nodes are associated with textual
+features, are crucial due to their prevalence in real-world applications and
+are commonly used to evaluate these vulnerabilities. However, existing research
+only focuses on embedding-level GIAs, which inject node embeddings rather than
+actual textual content, limiting their applicability and simplifying detection.
+In this paper, we pioneer the exploration of GIAs at the text level, presenting
+three novel attack designs that inject textual content into the graph. Through
+theoretical and empirical analysis, we demonstrate that text interpretability,
+a factor previously overlooked at the embedding level, plays a crucial role in
+attack strength. Among the designs we investigate, the Word-frequency-based
+Text-level GIA (WTGIA) is particularly notable for its balance between
+performance and interpretability. Despite the success of WTGIA, we discover
+that defenders can easily enhance their defenses with customized text embedding
+methods or large language model (LLM)--based predictors. These insights
+underscore the necessity for further research into the potential and practical
+significance of text-level GIAs.
+
+摘要：圖形神經網路 (GNN) 在各種應用中表現出色，但仍容易受到對抗性攻擊，特別是圖形注入攻擊 (GIA)，它會將惡意節點注入原始圖形並構成現實威脅。文字屬性圖形 (TAG) 由於在實際應用中很普遍，因此至關重要，並且通常用於評估這些漏洞。然而，現有的研究僅關注嵌入層級的 GIA，它注入節點嵌入而非實際文本內容，限制了它們的適用性並簡化了檢測。在本文中，我們率先探索文本層級的 GIA，提出了三種將文本內容注入圖形的創新攻擊設計。透過理論和實證分析，我們證明了文本可解釋性（在嵌入層級以前被忽略的因素）在攻擊強度中扮演了至關重要的角色。在我們調查的設計中，基於詞頻的文本層級 GIA (WTGIA) 特別以其效能和可解釋性之間的平衡而著稱。儘管 WTGIA 成功的，我們發現防禦者可以透過自訂文字嵌入方法或大型語言模型 (LLM) 為基礎的預測器輕鬆加強他們的防禦。這些見解強調進一步研究文本層級 GIA 的潛力和實際意義的必要性。
+
+##### **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**
+2405.16089v1 by Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
+
+Recently, the integration of external tools with Large Language Models (LLMs)
+has emerged as a promising approach to overcome the inherent constraints of
+their pre-training data. However, realworld applications often involve a
+diverse range of tools, making it infeasible to incorporate all tools directly
+into LLMs due to constraints on input length and response time. Therefore, to
+fully exploit the potential of tool-augmented LLMs, it is crucial to develop an
+effective tool retrieval system. Existing tool retrieval methods techniques
+mainly rely on semantic matching between user queries and tool descriptions,
+which often results in the selection of redundant tools. As a result, these
+methods fail to provide a complete set of diverse tools necessary for
+addressing the multifaceted problems encountered by LLMs. In this paper, we
+propose a novel modelagnostic COllaborative Learning-based Tool Retrieval
+approach, COLT, which captures not only the semantic similarities between user
+queries and tool descriptions but also takes into account the collaborative
+information of tools. Specifically, we first fine-tune the PLM-based retrieval
+models to capture the semantic relationships between queries and tools in the
+semantic learning stage. Subsequently, we construct three bipartite graphs
+among queries, scenes, and tools and introduce a dual-view graph collaborative
+learning framework to capture the intricate collaborative relationships among
+tools during the collaborative learning stage. Extensive experiments on both
+the open benchmark and the newly introduced ToolLens dataset show that COLT
+achieves superior performance. Notably, the performance of BERT-mini (11M) with
+our proposed model framework outperforms BERT-large (340M), which has 30 times
+more parameters. Additionally, we plan to publicly release the ToolLens dataset
+to support further research in tool retrieval.
+
+摘要：<paragraph>最近，外部工具与大型语言模型 (LLM) 的整合已成为克服其预训练数据固有约束的一种有前途的方法。然而，现实世界的应用程序通常涉及各种工具，由于输入长度和响应时间的限制，将所有工具直接整合到 LLM 中是不可行的。因此，为了充分利用工具增强型 LLM 的潜力，至关重要的是开发一个有效的工具检索系统。现有的工具检索方法技术主要依赖于用户查询和工具描述之间的语义匹配，这通常会导致选择冗余工具。因此，这些方法无法提供解决 LLM 遇到的多方面问题所需的完整且多样化的工具集。在本文中，我们提出了一种新颖的与模型无关的基于协作学习的工具检索方法 COLT，它不仅捕获了用户查询和工具描述之间的语义相似性，还考虑了工具的协作信息。具体来说，我们首先微调基于 PLM 的检索模型，以在语义学习阶段捕获查询和工具之间的语义关系。随后，我们在查询、场景和工具之间构建了三个二分图，并引入了一个双视图图协作学习框架，以在协作学习阶段捕获工具之间错综复杂的协作关系。在开放基准和新引入的 ToolLens 数据集上的大量实验表明，COLT 取得了卓越的性能。值得注意的是，我们提出的模型框架中 BERT-mini（11M）的性能优于 BERT-large（340M），而后者的参数多 30 倍。此外，我们计划公开发布 ToolLens 数据集，以支持工具检索的进一步研究。</paragraph>
+
 ##### **Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**
 2405.15739v1 by Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
 
@@ -1212,6 +1408,34 @@ settings. Our experiments show that we accomplish new scores on a widely used
 knowledge graph benchmark.
 
 摘要：知識圖譜已被廣泛用於以結構化格式表示事實。由於其大規模應用，知識圖譜存在不完整的問題。關係預測任務通過為每對節點分配一個或多個可能的關係來獲得知識圖譜的完成。在這項工作中，我們利用知識圖譜節點名稱來微調關係預測任務的大語言模型。僅通過使用節點名稱，我們就能讓模型在歸納設置中充分運作。我們的實驗表明，我們在廣泛使用的知識圖譜基準測試中獲得了新的分數。
+
+##### **IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data**
+2405.15792v1 by Sami Azirar, Hossam A. Gabbar, Chaouki Regoui
+
+As the amount and complexity of data grows, retrieving it has become a more
+difficult task that requires greater knowledge and resources. This is
+especially true for the logistics industry, where new technologies for data
+collection provide tremendous amounts of interconnected real-time data. The
+Intelligent Query and Learning System (IQLS) simplifies the process by allowing
+natural language use to simplify data retrieval . It maps structured data into
+a framework based on the available metadata and available data models. This
+framework creates an environment for an agent powered by a Large Language
+Model. The agent utilizes the hierarchical nature of the data to filter
+iteratively by making multiple small context-aware decisions instead of
+one-shot data retrieval. After the Data filtering, the IQLS enables the agent
+to fulfill tasks given by the user query through interfaces. These interfaces
+range from multimodal transportation information retrieval to route planning
+under multiple constraints. The latter lets the agent define a dynamic object,
+which is determined based on the query parameters. This object represents a
+driver capable of navigating a road network. The road network is depicted as a
+graph with attributes based on the data. Using a modified version of the
+Dijkstra algorithm, the optimal route under the given constraints can be
+determined. Throughout the entire process, the user maintains the ability to
+interact and guide the system. The IQLS is showcased in a case study on the
+Canadian logistics sector, allowing geospatial, visual, tabular and text data
+to be easily queried semantically in natural language.
+
+摘要：随着数据量和复杂性不断增加，检索数据已成为一项更困难的任务，需要更多的知识和资源。对于物流行业来说尤其如此，该行业用于数据收集的新技术提供了大量相互关联的实时数据。智能查询和学习系统 (IQLS) 通过允许使用自然语言来简化数据检索，从而简化了这一过程。它将结构化数据映射到基于可用元数据和可用数据模型的框架中。此框架为由大型语言模型提供支持的代理创建了一个环境。该代理利用数据的层次结构通过多次进行小的上下文感知决策而不是一次性数据检索来进行迭代过滤。在数据过滤之后，IQLS 使代理能够通过界面完成用户查询给定的任务。这些界面范围从多模式交通信息检索到在多重约束下的路线规划。后者让代理能够定义一个动态对象，该对象根据查询参数确定。此对象表示能够在道路网络中导航的驾驶员。道路网络被描述为具有基于数据的属性的图表。使用 Dijkstra 算法的修改版本，可以在给定约束下确定最佳路线。在整个过程中，用户始终能够与系统交互并指导系统。IQLS 在加拿大物流部门的案例研究中得到展示，允许在地理空间、视觉、表格和文本数据中使用自然语言轻松地进行语义查询。
 
 ##### **R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models**
 2405.02659v1 by Taolin Zhang, Dongyang Li, Qizhou Chen, Chengyu Wang, Longtao Huang, Hui Xue, Xiaofeng He, Jun Huang
@@ -2340,225 +2564,4 @@ the medical domain and provides a reference for future research to develop more
 efficient model architectures.
 
 摘要：自然語言處理 (NLP) 領域隨著深度學習技術的快速發展而取得顯著進展。文本情緒分析的研究方向之一是醫學文本的情緒分析，這在臨床診斷應用中具有巨大的潛力。然而，醫學領域目前缺乏足夠的文本數據集，而情緒分析的有效性受到不同模型設計方法的影響很大，這帶來了挑戰。因此，本文重點關注醫療領域，使用來自 Transformer 的雙向編碼器表示 (BERT) 作為預訓練的基本模型，並在輸出層對卷積神經網路 (CNN)、全連接網路 (FCN) 和圖卷積網路 (GCN) 等模組進行實驗。在 METS-CoV 數據集上進行了實驗和分析，以探索整合不同深度學習網路後的訓練效能。結果表明，在結合 BERT 等預訓練模型對較小的醫學文本數據集進行訓練時，CNN 模型優於其他網路。本研究強調了在醫學領域實現有效情緒分析中模型選擇的重要性，並為未來開發更有效率的模型架構的研究提供了參考。
-
-##### **MEEL: Multi-Modal Event Evolution Learning**
-2404.10429v1 by Zhengwei Tao, Zhi Jin, Junqiang Huang, Xiancai Chen, Xiaoying Bai, Haiyan Zhao, Yifan Zhang, Chongyang Tao
-
-Multi-modal Event Reasoning (MMER) endeavors to endow machines with the
-ability to comprehend intricate event relations across diverse data modalities.
-MMER is fundamental and underlies a wide broad of applications. Despite
-extensive instruction fine-tuning, current multi-modal large language models
-still fall short in such ability. The disparity stems from that existing models
-are insufficient to capture underlying principles governing event evolution in
-various scenarios. In this paper, we introduce Multi-Modal Event Evolution
-Learning (MEEL) to enable the model to grasp the event evolution mechanism,
-yielding advanced MMER ability. Specifically, we commence with the design of
-event diversification to gather seed events from a rich spectrum of scenarios.
-Subsequently, we employ ChatGPT to generate evolving graphs for these seed
-events. We propose an instruction encapsulation process that formulates the
-evolving graphs into instruction-tuning data, aligning the comprehension of
-event reasoning to humans. Finally, we observe that models trained in this way
-are still struggling to fully comprehend event evolution. In such a case, we
-propose the guiding discrimination strategy, in which models are trained to
-discriminate the improper evolution direction. We collect and curate a
-benchmark M-EV2 for MMER. Extensive experiments on M-EV2 validate the
-effectiveness of our approach, showcasing competitive performance in
-open-source multi-modal LLMs.
-
-摘要：多模态事件推理 (MMER) 致力于赋予机器跨越不同数据模态理解复杂事件关系的能力。MMER 是基础，并且是广泛应用程序的基础。尽管进行了广泛的指令微调，但当前的多模态大型语言模型在这样的能力上仍然不足。这种差异源于现有模型不足以捕捉各种场景中支配事件演化的基本原理。在本文中，我们介绍了多模态事件演化学习 (MEEL)，以使模型能够掌握事件演化机制，从而产生先进的 MMER 能力。具体来说，我们从事件多样化设计开始，从丰富的场景中收集种子事件。随后，我们使用 ChatGPT 为这些种子事件生成演化图。我们提出了一个指令封装过程，将演化图制定为指令微调数据，使事件推理的理解与人类保持一致。最后，我们观察到以这种方式训练的模型仍然难以完全理解事件演化。在这种情况下，我们提出了指导性歧视策略，其中模型被训练来区分不当的演化方向。我们收集并整理了 MMER 的基准 M-EV2。在 M-EV2 上进行的广泛实验验证了我们方法的有效性，展示了在开源多模态 LLM 中具有竞争力的性能。
-
-##### **Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**
-2404.10384v1 by Yuqi Wang, Boran Jiang, Yi Luo, Dawei He, Peng Cheng, Liangcai Gao
-
-Large language models (LLMs), such as GPT3.5, GPT4 and LLAMA2 perform
-surprisingly well and outperform human experts on many tasks. However, in many
-domain-specific evaluations, these LLMs often suffer from hallucination
-problems due to insufficient training of relevant corpus. Furthermore,
-fine-tuning large models may face problems such as the LLMs are not open source
-or the construction of high-quality domain instruction is difficult. Therefore,
-structured knowledge databases such as knowledge graph can better provide
-domain background knowledge for LLMs and make full use of the reasoning and
-analysis capabilities of LLMs. In some previous works, LLM was called multiple
-times to determine whether the current triplet was suitable for inclusion in
-the subgraph when retrieving subgraphs through a question. Especially for the
-question that require a multi-hop reasoning path, frequent calls to LLM will
-consume a lot of computing power. Moreover, when choosing the reasoning path,
-LLM will be called once for each step, and if one of the steps is selected
-incorrectly, it will lead to the accumulation of errors in the following steps.
-In this paper, we integrated and optimized a pipeline for selecting reasoning
-paths from KG based on LLM, which can reduce the dependency on LLM. In
-addition, we propose a simple and effective subgraph retrieval method based on
-chain of thought (CoT) and page rank which can returns the paths most likely to
-contain the answer. We conduct experiments on three datasets: GenMedGPT-5k
-[14], WebQuestions [2], and CMCQA [21]. Finally, RoK can demonstrate that using
-fewer LLM calls can achieve the same results as previous SOTAs models.
-
-摘要：大型語言模型（LLM），例如 GPT3.5、GPT4 和 LLAMA2 在許多任務中表現得非常好，並且優於人類專家。然而，在許多特定領域的評估中，這些 LLM 由於相關語料訓練不足，常常會出現幻覺問題。此外，微調大型模型可能會面臨問題，例如 LLM 不是開源的，或者難以建構高品質的領域指令。因此，結構化知識資料庫，例如知識圖譜，可以更好地為 LLM 提供領域背景知識，並充分利用 LLM 的推理和分析能力。在一些先前的研究中，在透過問題檢索子圖時，LLM 被呼叫多次以確定目前的元組是否適合納入子圖中。特別是對於需要多跳推理路徑的問題，頻繁呼叫 LLM 將會消耗大量的運算能力。此外，在選擇推理路徑時，LLM 將會被呼叫一次以執行每個步驟，如果其中一個步驟被錯誤選擇，將會導致後續步驟中錯誤的累積。在本文中，我們整合並最佳化了一個基於 LLM 從 KG 中選擇推理路徑的管道，這可以減少對 LLM 的依賴。此外，我們提出了一個基於思考鏈 (CoT) 和 PageRank 的簡單且有效子圖檢索方法，它可以回傳最有可能包含答案的路徑。我們在三個資料集上進行實驗：GenMedGPT-5k [14]、WebQuestions [2] 和 CMCQA [21]。最後，RoK 可以證明使用較少的 LLM 呼叫可以達到與先前的 SOTAs 模型相同的效果。
-
-##### **Relational Graph Convolutional Networks for Sentiment Analysis**
-2404.13079v1 by Asal Khosravi, Zahed Rahmati, Ali Vefghi
-
-With the growth of textual data across online platforms, sentiment analysis
-has become crucial for extracting insights from user-generated content. While
-traditional approaches and deep learning models have shown promise, they cannot
-often capture complex relationships between entities. In this paper, we propose
-leveraging Relational Graph Convolutional Networks (RGCNs) for sentiment
-analysis, which offer interpretability and flexibility by capturing
-dependencies between data points represented as nodes in a graph. We
-demonstrate the effectiveness of our approach by using pre-trained language
-models such as BERT and RoBERTa with RGCN architecture on product reviews from
-Amazon and Digikala datasets and evaluating the results. Our experiments
-highlight the effectiveness of RGCNs in capturing relational information for
-sentiment analysis tasks.
-
-摘要：隨著線上平台上文字資料的增加，情緒分析對於從使用者產生的內容中提取見解變得至關重要。雖然傳統方法和深度學習模型已展現其潛力，但它們通常無法捕捉實體之間的複雜關係。在本文中，我們建議利用關係圖形卷積網路 (RGCN) 進行情緒分析，透過捕捉表示為圖形中節點的資料點之間的依賴關係，提供可解釋性和靈活性。我們使用預先訓練的語言模型，例如 BERT 和 RoBERTa，搭配 RGCN 架構，針對來自 Amazon 和 Digikala 資料集的產品評論進行實驗，並評估結果，以證明我們方法的有效性。我們的實驗突顯了 RGCN 在擷取關係資訊以進行情緒分析任務方面的有效性。
-
-##### **KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**
-2404.09763v1 by Avinash Anand, Mohit Gupta, Kritarth Prasad, Ujjwal Goel, Naman Lal, Astha Verma, Rajiv Ratn Shah
-
-Citation Text Generation (CTG) is a task in natural language processing (NLP)
-that aims to produce text that accurately cites or references a cited document
-within a source document. In CTG, the generated text draws upon contextual cues
-from both the source document and the cited paper, ensuring accurate and
-relevant citation information is provided. Previous work in the field of
-citation generation is mainly based on the text summarization of documents.
-Following this, this paper presents a framework, and a comparative study to
-demonstrate the use of Large Language Models (LLMs) for the task of citation
-generation. Also, we have shown the improvement in the results of citation
-generation by incorporating the knowledge graph relations of the papers in the
-prompt for the LLM to better learn the relationship between the papers. To
-assess how well our model is performing, we have used a subset of standard
-S2ORC dataset, which only consists of computer science academic research papers
-in the English Language. Vicuna performs best for this task with 14.15 Meteor,
-12.88 Rouge-1, 1.52 Rouge-2, and 10.94 Rouge-L. Also, Alpaca performs best, and
-improves the performance by 36.98% in Rouge-1, and 33.14% in Meteor by
-including knowledge graphs.
-
-摘要：引文文本生成 (CTG) 是自然語言處理 (NLP) 中的一項任務，旨在產生能準確引用或參考來源文件中的引文文件的文本。在 CTG 中，生成的文本從來源文件和引文論文中提取上下文線索，確保提供準確且相關的引文資訊。引文生成領域先前的研究主要基於文件的文字摘要。在此基礎上，本文提出了一個架構，並進行了一項比較研究，以展示大型語言模型 (LLM) 在引文生成任務中的使用。此外，我們展示了透過將論文的知識圖譜關聯納入 LLM 的提示中，進而改善引文生成的結果，以更好地學習論文之間的關聯。為了評估我們的模型表現如何，我們使用了標準 S2ORC 資料集的一個子集，其中僅包含英文的電腦科學學術研究論文。Vicuna 在這項任務中表現最佳，其 Meteor 為 14.15、Rouge-1 為 12.88、Rouge-2 為 1.52，以及 Rouge-L 為 10.94。此外，Alpaca 表現最佳，並透過納入知識圖譜，將 Rouge-1 的效能提升了 36.98%，以及 Meteor 的效能提升了 33.14%。
-
-##### **State Space Model for New-Generation Network Alternative to Transformers: A Survey**
-2404.09516v1 by Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang
-
-In the post-deep learning era, the Transformer architecture has demonstrated
-its powerful performance across pre-trained big models and various downstream
-tasks. However, the enormous computational demands of this architecture have
-deterred many researchers. To further reduce the complexity of attention
-models, numerous efforts have been made to design more efficient methods. Among
-them, the State Space Model (SSM), as a possible replacement for the
-self-attention based Transformer model, has drawn more and more attention in
-recent years. In this paper, we give the first comprehensive review of these
-works and also provide experimental comparisons and analysis to better
-demonstrate the features and advantages of SSM. Specifically, we first give a
-detailed description of principles to help the readers quickly capture the key
-ideas of SSM. After that, we dive into the reviews of existing SSMs and their
-various applications, including natural language processing, computer vision,
-graph, multi-modal and multi-media, point cloud/event stream, time series data,
-and other domains. In addition, we give statistical comparisons and analysis of
-these models and hope it helps the readers to understand the effectiveness of
-different structures on various tasks. Then, we propose possible research
-points in this direction to better promote the development of the theoretical
-model and application of SSM. More related works will be continuously updated
-on the following GitHub:
-https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List.
-
-摘要：在深度學習後時代，Transformer 架構已展現其在預訓練大型模型和各種下游任務中的強大效能。然而，此架構龐大的運算需求已阻卻許多研究人員。為了進一步降低注意力模型的複雜度，已進行許多努力來設計更有效率的方法。其中，狀態空間模型 (SSM) 作為基於自注意力 Transformer 模型的可能替代方案，近年來引起越來越多的關注。在本文中，我們首次對這些作品進行全面回顧，並提供實驗比較和分析，以更好地展示 SSM 的特點和優勢。具體來說，我們首先詳細說明原理，以幫助讀者快速掌握 SSM 的關鍵思想。在那之後，我們深入探討現有 SSM 及其各種應用，包括自然語言處理、電腦視覺、圖形、多模態和多媒體、點雲/事件串流、時間序列資料和其他領域。此外，我們對這些模型進行統計比較和分析，並希望它能幫助讀者了解不同結構在各種任務中的有效性。然後，我們提出此方向可能的研​​究重點，以更好地促進 SSM 理論模型和應用開發。更多相關作品將持續更新在以下 GitHub：
-https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List。
-
-##### **Automatic Knowledge Graph Construction for Judicial Cases**
-2404.09416v1 by Jie Zhou, Xin Chen, Hang Zhang, Zhe Li
-
-In this paper, we explore the application of cognitive intelligence in legal
-knowledge, focusing on the development of judicial artificial intelligence.
-Utilizing natural language processing (NLP) as the core technology, we propose
-a method for the automatic construction of case knowledge graphs for judicial
-cases. Our approach centers on two fundamental NLP tasks: entity recognition
-and relationship extraction. We compare two pre-trained models for entity
-recognition to establish their efficacy. Additionally, we introduce a
-multi-task semantic relationship extraction model that incorporates
-translational embedding, leading to a nuanced contextualized case knowledge
-representation. Specifically, in a case study involving a "Motor Vehicle
-Traffic Accident Liability Dispute," our approach significantly outperforms the
-baseline model. The entity recognition F1 score improved by 0.36, while the
-relationship extraction F1 score increased by 2.37. Building on these results,
-we detail the automatic construction process of case knowledge graphs for
-judicial cases, enabling the assembly of knowledge graphs for hundreds of
-thousands of judgments. This framework provides robust semantic support for
-applications of judicial AI, including the precise categorization and
-recommendation of related cases.
-
-摘要：<paragraph>在本文中，我們探討認知智能在法律知識中的應用，重點在於司法人工智慧的發展。利用自然語言處理（NLP）作為核心技術，我們提出了一種自動建構司法案件案例知識圖譜的方法。我們的作法集中在兩個基本的 NLP 任務：實體辨識和關係萃取。我們比較了兩個預先訓練好的實體辨識模型，以建立其效能。此外，我們導入了一個多任務語意關係萃取模型，其中包含轉譯嵌入，進而產生細緻的脈絡化案例知識表徵。具體來說，在一個涉及「機動車輛交通事故責任糾紛」的案例研究中，我們的作法顯著優於基線模型。實體辨識 F1 分數提高了 0.36，而關係萃取 F1 分數提高了 2.37。根據這些結果，我們詳細說明了司法案件案例知識圖譜的自動建構過程，使我們能夠為數十萬個判決組建知識圖譜。此架構為司法 AI 的應用提供了強大的語意支援，包括準確分類和推薦相關案例。</paragraph>
-
-##### **Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**
-2404.09296v1 by Tuan Bui, Oanh Tran, Phuong Nguyen, Bao Ho, Long Nguyen, Thang Bui, Tho Quan
-
-In today's rapidly evolving landscape of Artificial Intelligence, large
-language models (LLMs) have emerged as a vibrant research topic. LLMs find
-applications in various fields and contribute significantly. Despite their
-powerful language capabilities, similar to pre-trained language models (PLMs),
-LLMs still face challenges in remembering events, incorporating new
-information, and addressing domain-specific issues or hallucinations. To
-overcome these limitations, researchers have proposed Retrieval-Augmented
-Generation (RAG) techniques, some others have proposed the integration of LLMs
-with Knowledge Graphs (KGs) to provide factual context, thereby improving
-performance and delivering more accurate feedback to user queries.
-  Education plays a crucial role in human development and progress. With the
-technology transformation, traditional education is being replaced by digital
-or blended education. Therefore, educational data in the digital environment is
-increasing day by day. Data in higher education institutions are diverse,
-comprising various sources such as unstructured/structured text, relational
-databases, web/app-based API access, etc. Constructing a Knowledge Graph from
-these cross-data sources is not a simple task. This article proposes a method
-for automatically constructing a Knowledge Graph from multiple data sources and
-discusses some initial applications (experimental trials) of KG in conjunction
-with LLMs for question-answering tasks.
-
-摘要：在當今快速演變的人工智慧領域中，大型語言模型 (LLM) 已成為一個充滿活力的研究主題。LLM 在各個領域中找到應用，並做出重大貢獻。儘管它們具有強大的語言能力，但與預先訓練的語言模型 (PLM) 類似，LLM 仍然面臨著記憶事件、整合新資訊以及解決特定領域問題或幻覺的挑戰。為了克服這些限制，研究人員提出了檢索增強生成 (RAG) 技術，其他一些人則提出了將 LLM 與知識圖譜 (KG) 整合以提供事實背景，從而提高效能並提供更準確的使用者查詢回饋。
-教育在人類發展和進步中扮演著至關重要的角色。隨著科技轉型，傳統教育正被數位或混合教育所取代。因此，數位環境中的教育資料日益增加。高等教育機構中的資料種類繁多，包括非結構化/結構化文字、關聯式資料庫、基於網路/應用程式的 API 存取等各種來源。從這些跨資料來源建構知識圖譜並非易事。本文提出了一種從多個資料來源自動建構知識圖譜的方法，並討論了 KG 與 LLM 結合用於問答任務的一些初步應用（實驗試驗）。
-
-##### **CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**
-2404.09077v1 by Zukang Yang, Zixuan Zhu
-
-In the field of Question Answering (QA), unifying large language models
-(LLMs) with external databases has shown great success. However, these methods
-often fall short in providing the advanced reasoning needed for complex QA
-tasks. To address these issues, we improve over a novel approach called
-Knowledge Graph Prompting (KGP), which combines knowledge graphs with a
-LLM-based agent to improve reasoning and search accuracy. Nevertheless, the
-original KGP framework necessitates costly fine-tuning with large datasets yet
-still suffers from LLM hallucination. Therefore, we propose a reasoning-infused
-LLM agent to enhance this framework. This agent mimics human curiosity to ask
-follow-up questions to more efficiently navigate the search. This simple
-modification significantly boosts the LLM performance in QA tasks without the
-high costs and latency associated with the initial KGP framework. Our ultimate
-goal is to further develop this approach, leading to more accurate, faster, and
-cost-effective solutions in the QA domain.
-
-摘要：在問答 (QA) 領域中，將大型語言模型 (LLM) 與外部資料庫統一已展現出極佳的成功。然而，這些方法經常無法提供複雜 QA 任務所需的進階推理。為了解決這些問題，我們改進了一種稱為知識圖表提示 (KGP) 的新方法，它結合了知識圖表與基於 LLM 的代理，以改善推理和搜尋準確度。儘管如此，原始的 KGP 架構需要使用大型資料集進行昂貴的微調，但仍會出現 LLM 幻覺。因此，我們提出了一種注入推理的 LLM 代理來增強這個架構。這個代理模擬人類的好奇心，提出後續問題，以更有效率的方式瀏覽搜尋。這個簡單的修改大幅提升了 LLM 在 QA 任務中的表現，而沒有最初 KGP 架構相關的高成本和延遲。我們的最終目標是進一步發展這個方法，進而達成 QA 領域中更準確、更快速且更具成本效益的解決方案。
-
-##### **Relational Prompt-based Pre-trained Language Models for Social Event Detection**
-2404.08263v1 by Pu Li, Xiaoyan Yu, Hao Peng, Yantuan Xian, Linqin Wang, Li Sun, Jingyun Zhang, Philip S. Yu
-
-Social Event Detection (SED) aims to identify significant events from social
-streams, and has a wide application ranging from public opinion analysis to
-risk management. In recent years, Graph Neural Network (GNN) based solutions
-have achieved state-of-the-art performance. However, GNN-based methods often
-struggle with noisy and missing edges between messages, affecting the quality
-of learned message embedding. Moreover, these methods statically initialize
-node embedding before training, which, in turn, limits the ability to learn
-from message texts and relations simultaneously. In this paper, we approach
-social event detection from a new perspective based on Pre-trained Language
-Models (PLMs), and present RPLM_SED (Relational prompt-based Pre-trained
-Language Models for Social Event Detection). We first propose a new pairwise
-message modeling strategy to construct social messages into message pairs with
-multi-relational sequences. Secondly, a new multi-relational prompt-based
-pairwise message learning mechanism is proposed to learn more comprehensive
-message representation from message pairs with multi-relational prompts using
-PLMs. Thirdly, we design a new clustering constraint to optimize the encoding
-process by enhancing intra-cluster compactness and inter-cluster dispersion,
-making the message representation more distinguishable. We evaluate the
-RPLM_SED on three real-world datasets, demonstrating that the RPLM_SED model
-achieves state-of-the-art performance in offline, online, low-resource, and
-long-tail distribution scenarios for social event detection tasks.
-
-摘要：<paragraph>社交事件偵測 (SED) 旨在從社交串流中識別重大事件，並廣泛應用於公眾輿論分析到風險管理。近年來，基於圖神經網路 (GNN) 的解決方案已達到最先進的效能。然而，基於 GNN 的方法通常難以處理訊息之間的雜訊和遺失邊緣，影響學習到的訊息嵌入品質。此外，這些方法在訓練前會靜態初始化節點嵌入，這反過來限制了同時從訊息文字和關係中學習的能力。在本文中，我們從預訓練語言模型 (PLM) 的新觀點來探討社交事件偵測，並提出 RPLM_SED（基於關係提示的預訓練語言模型，用於社交事件偵測）。我們首先提出一個新的成對訊息建模策略，將社交訊息建構成具有多重關係序列的訊息對。其次，提出一個新的基於多重關係提示的成對訊息學習機制，使用 PLM 從具有多重關係提示的訊息對中學習更全面的訊息表示。第三，我們設計一個新的聚類約束，透過增強群集內緊密性和群集間分散性來最佳化編碼過程，使訊息表示更具區別性。我們在三個真實世界資料集上評估 RPLM_SED，證明 RPLM_SED 模型在社交事件偵測任務的離線、線上、低資源和長尾分佈場景中達到最先進的效能。</paragraph>
 

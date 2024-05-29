@@ -2,10 +2,13 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-28**|**Don't Forget to Connect! Improving RAG with Graph-based Reranking**|Jialin Dong et.al.|[2405.18414v1](http://arxiv.org/abs/2405.18414v1)|null|
+|**2024-05-28**|**Knowledge Circuits in Pretrained Transformers**|Yunzhi Yao et.al.|[2405.17969v1](http://arxiv.org/abs/2405.17969v1)|[link](https://github.com/zjunlp/knowledgecircuits)|
+|**2024-05-28**|**Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs**|Yong Qi et.al.|[2405.17846v1](http://arxiv.org/abs/2405.17846v1)|null|
 |**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337v1](http://arxiv.org/abs/2405.17337v1)|null|
 |**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249v1](http://arxiv.org/abs/2405.17249v1)|[link](https://github.com/ionutiga/llms-for-kgc)|
 |**2024-05-27**|**Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**|Xun Liang et.al.|[2405.16933v1](http://arxiv.org/abs/2405.16933v1)|[link](https://github.com/iaar-shanghai/pgrag)|
-|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806v2](http://arxiv.org/abs/2405.16806v2)|null|
+|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806v2](http://arxiv.org/abs/2405.16806v2)|[link](https://github.com/chensycn/llm4ea_official)|
 |**2024-05-27**|**TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**|Zheng Zhang et.al.|[2405.16800v1](http://arxiv.org/abs/2405.16800v1)|null|
 |**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v1](http://arxiv.org/abs/2405.16412v1)|null|
 |**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
@@ -99,11 +102,78 @@
 |**2024-04-18**|**GraphER: A Structure-aware Text-to-Graph Model for Entity and Relation Extraction**|Urchade Zaratiana et.al.|[2404.12491v1](http://arxiv.org/abs/2404.12491v1)|[link](https://github.com/urchade/grapher)|
 |**2024-04-18**|**Enhance Robustness of Language Models Against Variation Attack through Graph Integration**|Zi Xiong et.al.|[2404.12014v1](http://arxiv.org/abs/2404.12014v1)|null|
 |**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809v1](http://arxiv.org/abs/2404.11809v1)|[link](https://github.com/xincanfeng/dimension)|
-|**2024-04-17**|**AgentKit: Flow Engineering with Graphs, not Coding**|Yue Wu et.al.|[2404.11483v1](http://arxiv.org/abs/2404.11483v1)|[link](https://github.com/holmeswww/agentkit)|
-|**2024-04-17**|**Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**|Jan-Philipp Fränken et.al.|[2404.10975v1](http://arxiv.org/abs/2404.10975v1)|[link](https://github.com/cicl-stanford/moral-evals)|
-|**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503v1](http://arxiv.org/abs/2404.10503v1)|null|
 
 #### Abstracts
+##### **Don't Forget to Connect! Improving RAG with Graph-based Reranking**
+2405.18414v1 by Jialin Dong, Bahare Fatemi, Bryan Perozzi, Lin F. Yang, Anton Tsitsulin
+
+Retrieval Augmented Generation (RAG) has greatly improved the performance of
+Large Language Model (LLM) responses by grounding generation with context from
+existing documents. These systems work well when documents are clearly relevant
+to a question context. But what about when a document has partial information,
+or less obvious connections to the context? And how should we reason about
+connections between documents? In this work, we seek to answer these two core
+questions about RAG generation. We introduce G-RAG, a reranker based on graph
+neural networks (GNNs) between the retriever and reader in RAG. Our method
+combines both connections between documents and semantic information (via
+Abstract Meaning Representation graphs) to provide a context-informed ranker
+for RAG. G-RAG outperforms state-of-the-art approaches while having smaller
+computational footprint. Additionally, we assess the performance of PaLM 2 as a
+reranker and find it to significantly underperform G-RAG. This result
+emphasizes the importance of reranking for RAG even when using Large Language
+Models.
+
+摘要：檢索增強生成 (RAG) 已大幅提升大型語言模型 (LLM) 回應的效能，方法是將生成基礎於現有文件中的內容。當文件與問題內容明確相關時，這些系統運作良好。但當文件有部分資訊或與內容的關聯性較不顯著時呢？我們又該如何推論文件之間的關聯性？在這項研究中，我們尋求回答這兩個關於 RAG 生成的核心問題。我們引入了 G-RAG，一種基於 RAG 中檢索器和讀取器之間的圖形神經網路 (GNN) 的重新排序器。我們的技術結合了文件之間的關聯性與語義資訊（透過抽象意義表徵圖形），為 RAG 提供一個有脈絡的排序器。G-RAG 的表現超越現有技術，同時運算資源需求較小。此外，我們評估了 PaLM 2 作為重新排序器的表現，發現其表現顯著低於 G-RAG。這個結果強調了重新排序對 RAG 的重要性，即使在使用大型語言模型時也是如此。
+
+##### **Knowledge Circuits in Pretrained Transformers**
+2405.17969v1 by Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen
+
+The remarkable capabilities of modern large language models are rooted in
+their vast repositories of knowledge encoded within their parameters, enabling
+them to perceive the world and engage in reasoning. The inner workings of how
+these models store knowledge have long been a subject of intense interest and
+investigation among researchers. To date, most studies have concentrated on
+isolated components within these models, such as the Multilayer Perceptrons and
+attention head. In this paper, we delve into the computation graph of the
+language model to uncover the knowledge circuits that are instrumental in
+articulating specific knowledge. The experiments, conducted with GPT2 and
+TinyLLAMA, has allowed us to observe how certain information heads, relation
+heads, and Multilayer Perceptrons collaboratively encode knowledge within the
+model. Moreover, we evaluate the impact of current knowledge editing techniques
+on these knowledge circuits, providing deeper insights into the functioning and
+constraints of these editing methodologies. Finally, we utilize knowledge
+circuits to analyze and interpret language model behaviors such as
+hallucinations and in-context learning. We believe the knowledge circuit holds
+potential for advancing our understanding of Transformers and guiding the
+improved design of knowledge editing. Code and data are available in
+https://github.com/zjunlp/KnowledgeCircuits.
+
+摘要：現代大型語言模型的卓越能力源於其參數中編碼的龐大知識庫，讓它們能夠感知世界並參與推理。這些模型如何儲存知識的內部運作方式一直是研究人員高度關注和研究的主題。迄今為止，大多數研究都集中在這些模型中的孤立元件，例如多層感知器和注意力頭。在本文中，我們深入探討語言模型的計算圖，以揭示表達特定知識中至關重要的知識電路。使用 GPT2 和 TinyLLAMA 進行的實驗讓我們能夠觀察某些資訊頭、關係頭和多層感知器如何在模型中協同編碼知識。此外，我們評估了當前知識編輯技術對這些知識電路的影響，對這些編輯方法的功能和限制提供了更深入的見解。最後，我們利用知識電路分析和詮釋語言模型行為，例如幻覺和情境學習。我們相信知識電路有潛力促進我們對 Transformer 的理解，並指導知識編輯的改進設計。代碼和資料可在 https://github.com/zjunlp/KnowledgeCircuits 中取得。
+
+##### **Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs**
+2405.17846v1 by Yong Qi, Gabriel Kyebambo, Siyuan Xie, Wei Shen, Shenghui Wang, Bitao Xie, Bin He, Zhipeng Wang, Shuo Jiang
+
+Safety limitations in service robotics across various industries have raised
+significant concerns about the need for robust mechanisms ensuring that robots
+adhere to safe practices, thereby preventing actions that might harm humans or
+cause property damage. Despite advances, including the integration of Knowledge
+Graphs (KGs) with Large Language Models (LLMs), challenges in ensuring
+consistent safety in autonomous robot actions persist. In this paper, we
+propose a novel integration of Large Language Models with Embodied Robotic
+Control Prompts (ERCPs) and Embodied Knowledge Graphs (EKGs) to enhance the
+safety framework for service robots. ERCPs are designed as predefined
+instructions that ensure LLMs generate safe and precise responses. These
+responses are subsequently validated by EKGs, which provide a comprehensive
+knowledge base ensuring that the actions of the robot are continuously aligned
+with safety protocols, thereby promoting safer operational practices in varied
+contexts. Our experimental setup involved diverse real-world tasks, where
+robots equipped with our framework demonstrated significantly higher compliance
+with safety standards compared to traditional methods. This integration fosters
+secure human-robot interactions and positions our methodology at the forefront
+of AI-driven safety innovations in service robotics.
+
+摘要：各產業中的服務機器人安全限制已引發重大疑慮，認為有必要建立強健的機制，確保機器人遵守安全規範，進而防止可能傷害人類或造成財產損失的行為。儘管有進展，包括將知識圖譜 (KG) 與大型語言模型 (LLM) 整合，但仍有挑戰存在於確保自主機器人行為的一致性安全。在本文中，我們提出將大型語言模型與具體機器人控制提示 (ERCP) 和具體知識圖譜 (EKG) 進行創新整合，以增強服務機器人的安全架構。ERCP 被設計為預先定義的指令，可確保 LLM 產生安全且精確的回應。這些回應隨後由 EKG 驗證，EKG 提供了一個全面的知識庫，確保機器人的行為持續符合安全協定，進而促進在各種情境中更安全的運作實務。我們的實驗設置涉及多樣化的真實世界任務，配備我們架構的機器人與傳統方法相比，展現出顯著更高的安全標準遵循度。此整合促進了安全的人機互動，並將我們的技術定位於服務機器人中 AI 驅動安全創新的最前線。
+
 ##### **Cost-efficient Knowledge-based Question Answering with Large Language Models**
 2405.17337v1 by Junnan Dong, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang
 
@@ -2492,77 +2562,4 @@ models $5^{\bigstar}\mathrm{E}$ and $\mathrm{ComplEx}$ on five benchmark
 datasets.
 
 摘要：知識圖譜 (KG) 是實體和關係在現實世界中的有向圖形表示。KG 可應用於需要知識的多樣化自然語言處理 (NLP) 任務。自動擴充和完成 KG 的需求產生了知識圖譜嵌入 (KGE)，這是一種淺層機器學習模型，它會受到記憶體和訓練時間消耗問題的影響。為減輕計算負載，我們提出了一種參數共用方法，即使用共軛參數來運用於 KGE 模型中的複數。我們的模型在關係嵌入中將記憶體效率提升了 2 倍，同時實現了與最先進的非共軛模型相當的效能，且訓練時間更短，或至少相當。我們在兩個效能最佳的 KGE 模型 $5^{\bigstar}\mathrm{E}$ 和 $\mathrm{ComplEx}$ 上展示了我們的方法在五個基準資料集上的泛化能力。
-
-##### **AgentKit: Flow Engineering with Graphs, not Coding**
-2404.11483v1 by Yue Wu, Yewen Fan, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell
-
-We propose an intuitive LLM prompting framework (AgentKit) for
-multifunctional agents. AgentKit offers a unified framework for explicitly
-constructing a complex "thought process" from simple natural language prompts.
-The basic building block in AgentKit is a node, containing a natural language
-prompt for a specific subtask. The user then puts together chains of nodes,
-like stacking LEGO pieces. The chains of nodes can be designed to explicitly
-enforce a naturally structured "thought process". For example, for the task of
-writing a paper, one may start with the thought process of 1) identify a core
-message, 2) identify prior research gaps, etc. The nodes in AgentKit can be
-designed and combined in different ways to implement multiple advanced
-capabilities including on-the-fly hierarchical planning, reflection, and
-learning from interactions. In addition, due to the modular nature and the
-intuitive design to simulate explicit human thought process, a basic agent
-could be implemented as simple as a list of prompts for the subtasks and
-therefore could be designed and tuned by someone without any programming
-experience. Quantitatively, we show that agents designed through AgentKit
-achieve SOTA performance on WebShop and Crafter. These advances underscore
-AgentKit's potential in making LLM agents effective and accessible for a wider
-range of applications. https://github.com/holmeswww/AgentKit
-
-摘要：我們提出一個直覺式的 LLM 提示框架 (AgentKit) 來作為多功能代理。AgentKit 提供一個統一的框架，用於從簡單的自然語言提示中明確建構複雜的「思考流程」。AgentKit 中的基本建構區塊是一個節點，包含針對特定子任務的自然語言提示。然後，使用者可以將節點串連在一起，就像堆疊樂高積木一樣。節點鏈可以設計成明確執行自然結構化的「思考流程」。例如，對於撰寫論文的任務，可以從 1) 找出核心訊息、2) 找出先前研究的缺口等思考流程開始。AgentKit 中的節點可以設計成不同的方式，並結合在一起，以實作多項進階功能，包括即時階層規劃、反思，以及從互動中學習。此外，由於模組化本質和模擬明確人類思考流程的直覺式設計，可以將基本代理實作得像子任務提示清單一樣簡單，因此可以由沒有任何程式設計經驗的人進行設計和調整。在量化方面，我們顯示透過 AgentKit 設計的代理在 WebShop 和 Crafter 上達到了 SOTA 效能。這些進展突顯了 AgentKit 在讓 LLM 代理對更廣泛的應用程式有效且易於存取方面的潛力。https://github.com/holmeswww/AgentKit
-
-##### **Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**
-2404.10975v1 by Jan-Philipp Fränken, Kanishk Gandhi, Tori Qiu, Ayesha Khawaja, Noah D. Goodman, Tobias Gerstenberg
-
-As AI systems like language models are increasingly integrated into
-decision-making processes affecting people's lives, it's critical to ensure
-that these systems have sound moral reasoning. To test whether they do, we need
-to develop systematic evaluations. We provide a framework that uses a language
-model to translate causal graphs that capture key aspects of moral dilemmas
-into prompt templates. With this framework, we procedurally generated a large
-and diverse set of moral dilemmas -- the OffTheRails benchmark -- consisting of
-50 scenarios and 400 unique test items. We collected moral permissibility and
-intention judgments from human participants for a subset of our items and
-compared these judgments to those from two language models (GPT-4 and Claude-2)
-across eight conditions. We find that moral dilemmas in which the harm is a
-necessary means (as compared to a side effect) resulted in lower permissibility
-and higher intention ratings for both participants and language models. The
-same pattern was observed for evitable versus inevitable harmful outcomes.
-However, there was no clear effect of whether the harm resulted from an agent's
-action versus from having omitted to act. We discuss limitations of our prompt
-generation pipeline and opportunities for improving scenarios to increase the
-strength of experimental effects.
-
-摘要：隨著像語言模型的人工智慧系統日益整合到影響人們生活的決策制定過程中，確保這些系統具有健全的道德推理至關重要。為了測試它們是否具備這樣的能力，我們需要制定系統性的評估。我們提供了一個框架，該框架使用語言模型來轉換因果圖，這些因果圖捕捉了道德困境的關鍵方面，並轉換成提示範本。有了這個框架，我們程序化地生成了一組龐大且多樣化的道德困境——OffTheRails 基準——包含 50 個場景和 400 個獨特的測試項目。我們為我們項目的子集收集了人類參與者的道德容許性和意圖判斷，並將這些判斷與來自兩個語言模型（GPT-4 和 Claude-2）在八個條件下的判斷進行了比較。我們發現，在傷害是必要手段（與副作用相比）的道德困境中，參與者和語言模型的容許度較低，意圖評分較高。對於可避免與不可避免的有害結果，也觀察到了相同的模式。然而，傷害是源於代理人的行為還是源於疏忽行為，並沒有明顯的影響。我們討論了提示生成管線的限制，以及改進場景以增強實驗效果強度的機會。
-
-##### **A Sentiment Analysis of Medical Text Based on Deep Learning**
-2404.10503v1 by Yinan Chen
-
-The field of natural language processing (NLP) has made significant progress
-with the rapid development of deep learning technologies. One of the research
-directions in text sentiment analysis is sentiment analysis of medical texts,
-which holds great potential for application in clinical diagnosis. However, the
-medical field currently lacks sufficient text datasets, and the effectiveness
-of sentiment analysis is greatly impacted by different model design approaches,
-which presents challenges. Therefore, this paper focuses on the medical domain,
-using bidirectional encoder representations from transformers (BERT) as the
-basic pre-trained model and experimenting with modules such as convolutional
-neural network (CNN), fully connected network (FCN), and graph convolutional
-networks (GCN) at the output layer. Experiments and analyses were conducted on
-the METS-CoV dataset to explore the training performance after integrating
-different deep learning networks. The results indicate that CNN models
-outperform other networks when trained on smaller medical text datasets in
-combination with pre-trained models like BERT. This study highlights the
-significance of model selection in achieving effective sentiment analysis in
-the medical domain and provides a reference for future research to develop more
-efficient model architectures.
-
-摘要：自然語言處理 (NLP) 領域隨著深度學習技術的快速發展而取得顯著進展。文本情緒分析的研究方向之一是醫學文本的情緒分析，這在臨床診斷應用中具有巨大的潛力。然而，醫學領域目前缺乏足夠的文本數據集，而情緒分析的有效性受到不同模型設計方法的影響很大，這帶來了挑戰。因此，本文重點關注醫療領域，使用來自 Transformer 的雙向編碼器表示 (BERT) 作為預訓練的基本模型，並在輸出層對卷積神經網路 (CNN)、全連接網路 (FCN) 和圖卷積網路 (GCN) 等模組進行實驗。在 METS-CoV 數據集上進行了實驗和分析，以探索整合不同深度學習網路後的訓練效能。結果表明，在結合 BERT 等預訓練模型對較小的醫學文本數據集進行訓練時，CNN 模型優於其他網路。本研究強調了在醫學領域實現有效情緒分析中模型選擇的重要性，並為未來開發更有效率的模型架構的研究提供了參考。
 

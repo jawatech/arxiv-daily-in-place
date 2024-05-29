@@ -3,6 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
+|**2024-05-26**|**Exploring Nutritional Impact on Alzheimer's Mortality: An Explainable AI Approach**|Ziming Liu et.al.|[2405.17502v1](http://arxiv.org/abs/2405.17502v1)|null|
 |**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
@@ -101,7 +102,6 @@
 |**2022-09-30**|**Evaluation of importance estimators in deep learning classifiers for Computed Tomography**|Lennart Brocki et.al.|[2209.15398v1](http://arxiv.org/abs/2209.15398v1)|null|
 |**2022-09-30**|**An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**|Yuzhe Lu et.al.|[2210.08979v1](http://arxiv.org/abs/2210.08979v1)|null|
 |**2022-09-14**|**Explainable AI for clinical and remote health applications: a survey on tabular and time series data**|Flavio Di Martino et.al.|[2209.06528v1](http://arxiv.org/abs/2209.06528v1)|null|
-|**2022-08-31**|**Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**|Gaetan Dissez et.al.|[2208.14742v1](http://arxiv.org/abs/2208.14742v1)|null|
 
 #### Abstracts
 ##### **Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**
@@ -124,6 +124,24 @@ of AI. Based on these findings, we highlight directions for improving
 onboarding with AI and XAI and human-AI collaborative decision-making.
 
 摘要：隨著先進的 AI/ML，對可解釋 AI (XAI) 的研究不斷增加，以及關於人類如何與 AI 和 XAI 互動以進行有效的人工智慧協作決策制定。然而，我們仍然缺乏對 AI 系統和 XAI 應如何首先呈現給沒有技術背景的用戶的了解。在本文中，我們展示了與醫療專業人員 (n=12) 和主修醫學和健康的學生 (n=4) 進行半結構化訪談的結果，以研究如何改善 AI 和 XAI 的入門。對於訪談，我們建立在人機互動準則之上，為中風康復評估和 AI 解釋的 AI 系統創建入門材料，並將它們介紹給參與者。我們的研究結果表明，除了呈現傳統的 AI 性能指標外，參與者還希望基准信息、AI 的實際好處以及交互試驗，以更好地將 AI 性能情境化，並完善 AI 的目標和性能。根據這些發現，我們強調了改進 AI 和 XAI 以及人機協作決策制定的入門方向。
+
+##### **Exploring Nutritional Impact on Alzheimer's Mortality: An Explainable AI Approach**
+2405.17502v1 by Ziming Liu, Longjian Liu, Robert E. Heidel, Xiaopeng Zhao
+
+This article uses machine learning (ML) and explainable artificial
+intelligence (XAI) techniques to investigate the relationship between
+nutritional status and mortality rates associated with Alzheimers disease (AD).
+The Third National Health and Nutrition Examination Survey (NHANES III)
+database is employed for analysis. The random forest model is selected as the
+base model for XAI analysis, and the Shapley Additive Explanations (SHAP)
+method is used to assess feature importance. The results highlight significant
+nutritional factors such as serum vitamin B12 and glycated hemoglobin. The
+study demonstrates the effectiveness of random forests in predicting AD
+mortality compared to other diseases. This research provides insights into the
+impact of nutrition on AD and contributes to a deeper understanding of disease
+progression.
+
+摘要：本文使用機器學習 (ML) 和可解釋人工智慧 (XAI) 技術來探討營養狀況與阿茲海默症 (AD) 相關的死亡率之間的關係。採用第三次全國健康與營養檢查調查 (NHANES III) 資料庫進行分析。選擇隨機森林模型作為 XAI 分析的基礎模型，並使用 Shapley Additive Explanations (SHAP) 方法來評估特徵重要性。結果突顯了重要的營養因素，例如血清維生素 B12 和糖化血紅蛋白。該研究證明了隨機森林在預測 AD 死亡率方面相較於其他疾病的有效性。本研究提供了營養對 AD 的影響的見解，並有助於更深入地了解疾病的進展。
 
 ##### **The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**
 2405.13099v1 by Mohsen Jozani, Jason A. Williams, Ahmed Aleroud, Sarbottam Bhagat
@@ -2536,45 +2554,4 @@ research challenges in the field as well as the limitations of existing XAI
 methods.
 
 摘要：現今，人工智慧 (AI) 已成為醫療保健應用程式中不可或缺的組成部分，無論是臨床或遠距醫療，但效能最佳的 AI 系統通常過於複雜，無法自行解釋。可解釋 AI (XAI) 技術被定義為揭示系統預測和決策背後的推理，當處理敏感且個人的健康資料時，它們變得更為關鍵。值得注意的是，XAI 並未在不同的研究領域和資料類型中獲得相同的關注，特別是在醫療保健中。特別是，許多臨床和遠距醫療應用程式分別基於表格和時間序列資料，而 XAI 並未針對這些資料類型進行分析，而電腦視覺和自然語言處理 (NLP) 則為參考應用程式。為了提供最適合醫療保健領域中表格和時間序列資料的 XAI 方法概觀，本文回顧了過去 5 年的文獻，說明產生的解釋類型以及評估其相關性和品質所做的努力。具體來說，我們將臨床驗證、一致性評估、客觀且標準化的品質評估以及以人為中心的品質評估確定為確保對最終使用者提供有效解釋的主要特徵。最後，我們強調了該領域的主要研究挑戰以及現有 XAI 方法的限制。
-
-##### **Enhancing Early Lung Cancer Detection on Chest Radiographs with AI-assistance: A Multi-Reader Study**
-2208.14742v1 by Gaetan Dissez, Nicole Tay, Tom Dyer, Matthew Tam, Richard Dittrich, David Doyne, James Hoare, Jackson J. Pat, Stephanie Patterson, Amanda Stockham, Qaiser Malik, Tom Naunton Morgan, Paul Williams, Liliana Garcia-Mondragon, Jordan Smith, George Pearse, Simon Rasalingham
-
-Objectives: The present study evaluated the impact of a commercially
-available explainable AI algorithm in augmenting the ability of clinicians to
-identify lung cancer on chest X-rays (CXR).
-  Design: This retrospective study evaluated the performance of 11 clinicians
-for detecting lung cancer from chest radiographs, with and without assistance
-from a commercially available AI algorithm (red dot, Behold.ai) that predicts
-suspected lung cancer from CXRs. Clinician performance was evaluated against
-clinically confirmed diagnoses.
-  Setting: The study analysed anonymised patient data from an NHS hospital; the
-dataset consisted of 400 chest radiographs from adult patients (18 years and
-above) who had a CXR performed in 2020, with corresponding clinical text
-reports.
-  Participants: A panel of readers consisting of 11 clinicians (consultant
-radiologists, radiologist trainees and reporting radiographers) participated in
-this study.
-  Main outcome measures: Overall accuracy, sensitivity, specificity and
-precision for detecting lung cancer on CXRs by clinicians, with and without AI
-input. Agreement rates between clinicians and performance standard deviation
-were also evaluated, with and without AI input.
-  Results: The use of the AI algorithm by clinicians led to an improved overall
-performance for lung tumour detection, achieving an overall increase of 17.4%
-of lung cancers being identified on CXRs which would have otherwise been
-missed, an overall increase in detection of smaller tumours, a 24% and 13%
-increased detection of stage 1 and stage 2 lung cancers respectively, and
-standardisation of clinician performance.
-  Conclusions: This study showed great promise in the clinical utility of AI
-algorithms in improving early lung cancer diagnosis and promoting health equity
-through overall improvement in reader performances, without impacting
-downstream imaging resources.
-
-摘要：<paragraph>目標：本研究評估了市售可解釋的人工智慧演算法在提升臨床醫師透過胸部X光片（CXR）辨識肺癌的能力上的影響。
-設計：這項回顧性研究評估了11位臨床醫師在有和沒有市售人工智慧演算法（紅點，Behold.ai）協助下，從胸部X光片中偵測肺癌的表現，該演算法會預測CXR中的疑似肺癌。臨床醫師表現與臨床確診結果進行比對。
-背景：該研究分析了來自NHS醫院的匿名患者資料；該資料集包含400張成人患者（18歲及以上）的胸部X光片，這些患者於2020年進行了CXR檢查，並附有對應的臨床文字報告。
-參與者：由11位臨床醫師（顧問放射科醫師、放射科醫師受訓人員和報告放射技師）組成的讀者小組參與了本研究。
-主要結果指標：臨床醫師在有和沒有人工智慧輸入的情況下，偵測CXR上肺癌的整體準確度、敏感度、特異度和精確度。臨床醫師之間的同意率和績效標準差也在有和沒有人工智慧輸入的情況下進行評估。
-結果：臨床醫師使用人工智慧演算法，改善了肺部腫瘤偵測的整體表現，整體增加了17.4%的肺癌在CXR上被辨識出來，而這些肺癌原本會被遺漏，整體增加了較小腫瘤的偵測率，分別增加了24%和13%的第1期和第2期肺癌偵測率，並標準化了臨床醫師的表現。
-結論：本研究顯示人工智慧演算法在臨床應用上極具前景，可透過整體改善讀者表現來提升早期肺癌診斷並促進健康公平性，同時不影響下游影像資源。</paragraph>
 

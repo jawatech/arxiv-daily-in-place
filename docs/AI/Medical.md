@@ -37,8 +37,8 @@
 |**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630v1](http://arxiv.org/abs/2405.12630v1)|null|
 |**2024-05-21**|**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**|Bufang Yang et.al.|[2405.12541v1](http://arxiv.org/abs/2405.12541v1)|null|
 |**2024-05-21**|**A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis**|Haocong Rao et.al.|[2405.13082v1](http://arxiv.org/abs/2405.13082v1)|null|
-|**2024-05-21**|**Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**|Pat Pataranutaporn et.al.|[2405.12514v1](http://arxiv.org/abs/2405.12514v1)|null|
-|**2024-05-20**|**Ensuring Ground Truth Accuracy in Healthcare with the EVINCE framework**|Edward Y. Chang et.al.|[2405.15808v1](http://arxiv.org/abs/2405.15808v1)|null|
+|**2024-05-21**|**Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**|Pat Pataranutaporn et.al.|[2405.12514v2](http://arxiv.org/abs/2405.12514v2)|null|
+|**2024-05-20**|**Ensuring Ground Truth Accuracy in Healthcare with the EVINCE framework**|Edward Y. Chang et.al.|[2405.15808v2](http://arxiv.org/abs/2405.15808v2)|null|
 |**2024-05-20**|**Digital Health and Indoor Air Quality: An IoT-Driven Human-Centred Visualisation Platform for Behavioural Change and Technology Acceptance**|Rameez Raja Kureshi et.al.|[2405.13064v1](http://arxiv.org/abs/2405.13064v1)|null|
 |**2024-05-20**|**Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**|Tatiana V. Afanasieva et.al.|[2405.11967v1](http://arxiv.org/abs/2405.11967v1)|null|
 |**2024-05-20**|**Contactless Polysomnography: What Radio Waves Tell Us about Sleep**|Hao He et.al.|[2405.11739v1](http://arxiv.org/abs/2405.11739v1)|null|
@@ -976,7 +976,7 @@ emerging field: https://github.com/Kali-Hac/AI4NDD-Survey.
 摘要：<paragraph>近年來，受神經退化性疾病 (NDs) 影響的全球人口持續增加，這些疾病在傳統上需要大量的醫療保健資源和人力進行醫療診斷和監測。作為一種與疾病相關的重要運動症狀，人類步態可用於表徵不同的神經退化性疾病。人工智慧 (AI) 模型的最新進展使自動步態分析能夠識別和分類神經退化性疾病，為加速和更具成本效益的神經退化性疾病診斷開闢了一條新途徑。在本文中，我們對基於機器學習和深度學習的人工智慧技術應用於通過步態診斷五種典型神經退化性疾病的最新進展進行了全面的調查。我們概述了人工智能輔助神經退化性疾病診斷的過程，並對現有的步態數據和人工智能模型提出了系統分類。通過對 164 項研究的廣泛回顧和分析，我們找出並討論了這一領域的挑戰、潛在解決方案和未來方向。最後，我們設想未來將利用 3D 骨架數據來表示人類步態，並開發更有效的 AI 模型來診斷神經退化性疾病。我們提供了一個公共資源庫來追蹤和促進這一新興領域的發展：https://github.com/Kali-Hac/AI4NDD-Survey。</paragraph>
 
 ##### **Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**
-2405.12514v1 by Pat Pataranutaporn, Kavin Winson, Peggy Yin, Auttasak Lapapirojn, Pichayoot Ouppaphan, Monchai Lertsutthiwong, Pattie Maes, Hal Hershfield
+2405.12514v2 by Pat Pataranutaporn, Kavin Winson, Peggy Yin, Auttasak Lapapirojn, Pichayoot Ouppaphan, Monchai Lertsutthiwong, Pattie Maes, Hal Hershfield
 
 We introduce "Future You," an interactive, brief, single-session, digital
 chat intervention designed to improve future self-continuity--the degree of
@@ -993,10 +993,10 @@ reported decreased anxiety, and increased future self-continuity. This is the
 first study successfully demonstrating the use of personalized AI-generated
 characters to improve users' future self-continuity and wellbeing.
 
-摘要：<paragraph>我們推出「未來你」，這是一種互動式、簡短、單次數位聊天介入，旨在提升未來自我連續性，也就是個人與時間上遙遠的未來自我之間的連結程度，這是一種與心理健康和幸福感呈正相關的特質。我們的系統讓使用者可以與一名親切、但由 AI 驅動的虛擬未來自我聊天，這個虛擬未來自我會根據使用者的未來目標和個人特質進行調整。為了讓對話更逼真，系統會產生「合成記憶」，也就是每個使用者的獨特背景故事，在使用者目前的年齡（18-30 歲）和 60 歲的生活之間創造出一條貫穿線。這個「未來你」角色也會採用使用者目前自我的年齡進展後的形象。與「未來你」角色進行簡短互動後，使用者回報焦慮感降低，未來自我連續性提升。這是第一個成功展示使用個人化 AI 生成的角色來提升使用者未來自我連續性和幸福感的案例。</paragraph>
+摘要：我們推出「未來你」，一種互動式、簡短、單一會話的數位聊天介入，旨在提升未來的自我連續性，也就是個人與時間上遙遠的未來自我之間感受到的連結程度，這項特質與心理健康和幸福感呈正相關。我們的系統讓使用者可以與一個親切，但由 AI 驅動的虛擬未來自我版本聊天，這個版本根據使用者的未來目標和個人特質進行調整。為了讓對話更真實，系統會產生一個「合成記憶」，也就是每位使用者的獨特背景故事，在使用者目前的年齡（18-30 歲）和 60 歲的生活之間建立一條貫穿線。「未來你」角色也會採用使用者目前自我的年齡進展影像的人格。與「未來你」角色進行簡短互動後，使用者回報焦慮感降低，未來的自我連續性增加。這是第一個成功展示使用個人化 AI 生成的角色來提升使用者未來自我連續性和幸福感的案例研究。
 
 ##### **Ensuring Ground Truth Accuracy in Healthcare with the EVINCE framework**
-2405.15808v1 by Edward Y. Chang
+2405.15808v2 by Edward Y. Chang
 
 Misdiagnosis is a significant issue in healthcare, leading to harmful
 consequences for patients. The propagation of mislabeled data through machine
@@ -1008,7 +1008,7 @@ novel theory to optimize the diagnostic process using multiple Large Language
 Models (LLMs) in a structured debate framework. Our empirical study verifies
 EVINCE to be effective in achieving its design goals.
 
-摘要：醫療保健中誤診是一個重大問題，會對患者造成不良後果。透過機器學習模型將標示錯誤的資料傳播到臨床實務中是不可接受的。本文提出 EVINCE，一個系統，旨在 1) 提高診斷準確度，以及 2) 糾正誤診並將訓練資料錯誤降至最低。EVINCE 代表使用等同能力的資訊二元性中的熵變，利用此創新理論，在結構化的辯論架構中使用多個大型語言模型 (LLM) 來最佳化診斷程序。我們的實證研究驗證 EVINCE 在達成其設計目標方面有效。
+摘要：誤診是醫療保健中的重大問題，會對患者造成有害後果。將錯誤標記的資料透過機器學習模型傳播到臨床實務中是不可接受的。本文提出 EVINCE，一個旨在 1) 提高診斷準確性，以及 2) 糾正誤診並將訓練資料錯誤降至最低的系統。EVINCE 是 Entropy Variation through Information Duality with Equal Competence 的縮寫，利用此創新理論在結構化的辯論架構中使用多個大型語言模型 (LLM) 來最佳化診斷流程。我們的實證研究驗證 EVINCE 在達成其設計目標方面是有效的。
 
 ##### **Digital Health and Indoor Air Quality: An IoT-Driven Human-Centred Visualisation Platform for Behavioural Change and Technology Acceptance**
 2405.13064v1 by Rameez Raja Kureshi, Bhupesh Kumar Mishra, Dhavalkumar Thakker, Suvodeep Mazumdar, Xiao Li

@@ -13,11 +13,11 @@
 |**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v1](http://arxiv.org/abs/2405.16412v1)|null|
 |**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
 |**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
-|**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v1](http://arxiv.org/abs/2405.15739v1)|null|
+|**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v2](http://arxiv.org/abs/2405.15739v2)|null|
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
 |**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v1](http://arxiv.org/abs/2405.15143v1)|[link](https://github.com/conglu1997/intelligent-go-explore)|
 |**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831v1](http://arxiv.org/abs/2405.14831v1)|null|
-|**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v2](http://arxiv.org/abs/2405.14664v2)|null|
+|**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v3](http://arxiv.org/abs/2405.14664v3)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203v1](http://arxiv.org/abs/2405.14203v1)|null|
 |**2024-05-23**|**Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning**|Jiapu Wang et.al.|[2405.14170v1](http://arxiv.org/abs/2405.14170v1)|null|
 |**2024-05-22**|**Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2405.14012v1](http://arxiv.org/abs/2405.14012v1)|null|
@@ -372,7 +372,7 @@ to support further research in tool retrieval.
 摘要：<paragraph>最近，外部工具与大型语言模型 (LLM) 的整合已成为克服其预训练数据固有约束的一种有前途的方法。然而，现实世界的应用程序通常涉及各种工具，由于输入长度和响应时间的限制，将所有工具直接整合到 LLM 中是不可行的。因此，为了充分利用工具增强型 LLM 的潜力，至关重要的是开发一个有效的工具检索系统。现有的工具检索方法技术主要依赖于用户查询和工具描述之间的语义匹配，这通常会导致选择冗余工具。因此，这些方法无法提供解决 LLM 遇到的多方面问题所需的完整且多样化的工具集。在本文中，我们提出了一种新颖的与模型无关的基于协作学习的工具检索方法 COLT，它不仅捕获了用户查询和工具描述之间的语义相似性，还考虑了工具的协作信息。具体来说，我们首先微调基于 PLM 的检索模型，以在语义学习阶段捕获查询和工具之间的语义关系。随后，我们在查询、场景和工具之间构建了三个二分图，并引入了一个双视图图协作学习框架，以在协作学习阶段捕获工具之间错综复杂的协作关系。在开放基准和新引入的 ToolLens 数据集上的大量实验表明，COLT 取得了卓越的性能。值得注意的是，我们提出的模型框架中 BERT-mini（11M）的性能优于 BERT-large（340M），而后者的参数多 30 倍。此外，我们计划公开发布 ToolLens 数据集，以支持工具检索的进一步研究。</paragraph>
 
 ##### **Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**
-2405.15739v1 by Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
+2405.15739v2 by Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
 
 Citation practices are crucial in shaping the structure of scientific
 knowledge, yet they are often influenced by contemporary norms and biases. The
@@ -398,7 +398,7 @@ introduce new ones, potentially skewing scientific knowledge dissemination. Our
 results underscore the need for identifying the model's biases and for
 developing balanced methods to interact with LLMs in general.
 
-摘要：<paragraph>引文實務對於形塑科學知識的結構至關重要，但常常受到當代規範和偏見的影響。大型語言模型 (LLM) 如 GPT-4 的出現為這些實務帶來了新的動態。有趣的是，完全依賴參數化知識而非搜尋或檢索增強生成，由 LLM 推薦的參考文獻的特性和潛在偏見仍然未經探究。在此，我們使用一個包含來自 AAAI、NeurIPS、ICML 和 ICLR 的 166 篇論文的資料集，在 GPT-4 的知識截止日期後發布，總計包含 3,066 篇參考文獻，對這些特性進行分析。在我們的實驗中，GPT-4 的任務是為這些論文中的匿名內文引文建議學術參考文獻。我們的研究結果顯示，人類和 LLM 的引文模式有顯著的相似性，但 GPT-4 的高引文偏見更為顯著，即使在控制了出版年份、標題長度、作者數量和場地後，這種情況仍然存在。此外，我們觀察到 GPT-4 現有和不存在的生成參考文獻的特性之間有很大的相容性，這表明模型內化了引文模式。透過分析引文圖，我們顯示 GPT-4 推薦的參考文獻嵌入在相關的引文脈絡中，這表明對引文網路有更深入的概念內化。雖然 LLM 可以協助生成引文，但它們也可能放大現有的偏見並引入新的偏見，潛在地扭曲科學知識的傳播。我們的結果強調了識別模型偏見和發展平衡的方法以與 LLM 進行互動的需求。</paragraph>
+摘要：<paragraph>引證實務對於形塑科學知識的結構至關重要，然而往往會受到當代規範和偏見的影響。大型語言模型 (LLM) 如 GPT-4 的出現，為這些實務帶來了新的動態。有趣的是，完全依賴其參數化知識（而非搜尋或檢索增強的生成）的 LLM 所推薦的參考文獻，其特性和潛在偏見仍未被探討。在此，我們使用一個包含 166 篇論文的資料集進行實驗，分析這些特性，這些論文來自 AAAI、NeurIPS、ICML 和 ICLR，並於 GPT-4 知識截止日期後發表，總共涵蓋 3,066 篇參考文獻。在我們的實驗中，GPT-4 的任務是為這些論文中匿名的內文引文建議學術參考文獻。我們的研究結果顯示，人類和 LLM 的引證模式有顯著的相似性，但 GPT-4 的高引證偏見較為明顯，即使在控制了出版年份、標題長度、作者人數和發表地點後，這種偏見仍然存在。此外，我們觀察到 GPT-4 現有和不存在的生成參考文獻之間的一致性很高，這表示模型內化了引證模式。透過分析引證圖，我們發現 GPT-4 推薦的參考文獻嵌入在相關的引證脈絡中，這表示對引證網路有更深入的概念內化。雖然 LLM 可以協助生成引證，但它們也可能放大現有的偏見並引入新的偏見，進而可能扭曲科學知識的傳播。我們的研究結果強調了識別模型偏見和開發與 LLM 互動的平衡方法的需求。</paragraph>
 
 ##### **Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**
 2405.15374v1 by Runsong Jia, Bowen Zhang, Sergio J. Rodríguez Méndez, Pouya G. Omran
@@ -503,7 +503,7 @@ IRCoT 中可帶來進一步的實質收益。最後，我們展示我們的
 和資料可在 https://github.com/OSU-NLP-Group/HippoRAG 取得。
 
 ##### **Fisher Flow Matching for Generative Modeling over Discrete Data**
-2405.14664v2 by Oscar Davis, Samuel Kessler, Mircea Petrache, İsmail İlkan Ceylan, Avishek Joey Bose
+2405.14664v3 by Oscar Davis, Samuel Kessler, Mircea Petrache, İsmail İlkan Ceylan, Michael Bronstein, Avishek Joey Bose
 
 Generative modeling over discrete data has recently seen numerous success
 stories, with applications spanning language modeling, biological sequence
@@ -528,7 +528,7 @@ benchmarks, including designing DNA Promoter, and DNA Enhancer sequences.
 Empirically, we find that Fisher-Flow improves over prior diffusion and
 flow-matching models on these benchmarks.
 
-摘要：<paragraph>離散資料的生成式模型最近取得許多成功案例，應用領域涵蓋語言模型、生物序列設計和圖形結構分子資料。離散資料的主要生成式模型範例仍然是自迴歸，最近的替代方案基於擴散或流匹配，其在連續資料設定中的驚人表現，例如圖像或影片生成，仍有不足之處。在這項工作中，我們引入了 Fisher-Flow，一個針對離散資料的新穎流匹配模型。Fisher-Flow 採用明顯的幾何觀點，將離散資料上的分類分佈視為駐留在具有其自然黎曼度量統計流形的點：$\textit{Fisher-Rao metric}$。因此，我們證明離散資料本身可以連續重新參數化為 $d$-超球體 $\mathbb{S}^d_+$ 正軸向上的點，這讓我們可以定義流，透過沿著 $\mathbb{S}^d_+$ 的（閉合形式）測地線傳輸質量，以原則性的方式將任何來源分佈對應到目標。此外，Fisher-Flow 中學習到的流可以進一步透過利用黎曼最優傳輸進行自我啟動，從而改善訓練動態。我們證明 Fisher-Flow 誘導的梯度流在減少前向 KL 散度方面是最佳的。我們在各種合成和多樣化的真實世界基準上評估 Fisher-Flow，包括設計 DNA 啟動子，以及 DNA 增強子序列。根據經驗，我們發現 Fisher-Flow 在這些基準上改進了先前的擴散和流匹配模型。</paragraph>
+摘要：<paragraph>離散資料的生成式模型最近獲得許多成功案例，應用範圍涵蓋語言模型、生物序列設計和圖形結構分子資料。離散資料的主要生成式模型範例仍然是自迴歸，而最近基於擴散或流匹配的替代方案無法達到在連續資料設定（例如影像或影片生成）中的驚人效能。在這項工作中，我們介紹 Fisher-Flow，這是一種針對離散資料的新穎流匹配模型。Fisher-Flow 採用明顯的幾何觀點，將離散資料上的類別分佈視為駐留在具有其自然黎曼度規的統計流形的點：$\textit{Fisher-Rao 度量}$. 因此，我們證明離散資料本身可以連續重新參數化為 $d$-超球面 $\mathbb{S}^d_+$ 的正軸向上的點，這讓我們可以定義流，以有原則的方式將任何源分佈映射到目標，方法是沿著 $\mathbb{S}^d_+$ 的（閉合形式）測地線傳輸質量。此外，Fisher-Flow 中學習到的流可以進一步透過利用黎曼最佳傳輸進行引導，從而改善訓練動態。我們證明 Fisher-Flow 誘導的梯度流在減少前向 KL 散度方面是最理想的。我們在各種合成和多元的真實世界基準上評估 Fisher-Flow，包括設計 DNA 啟動子，以及 DNA 增強子序列。根據經驗，我們發現 Fisher-Flow 在這些基準上改進了先前的擴散和流匹配模型。</paragraph>
 
 ##### **GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**
 2405.14203v1 by Thao Nguyen, Tiara Torres-Flores, Changhyun Hwang, Carl Edwards, Ying Diao, Heng Ji

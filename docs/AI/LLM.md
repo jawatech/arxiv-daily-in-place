@@ -5,12 +5,12 @@
 |**2024-05-28**|**Notes on Applicability of GPT-4 to Document Understanding**|Łukasz Borchmann et.al.|[2405.18433v1](http://arxiv.org/abs/2405.18433v1)|null|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428v1](http://arxiv.org/abs/2405.18428v1)|[link](https://github.com/hustvl/dig)|
 |**2024-05-28**|**Classifying Overlapping Gaussian Mixtures in High Dimensions: From Optimal Classifiers to Neural Nets**|Khen Cohen et.al.|[2405.18427v1](http://arxiv.org/abs/2405.18427v1)|null|
-|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v1](http://arxiv.org/abs/2405.18425v1)|[link](https://github.com/hustvl/vig)|
+|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v2](http://arxiv.org/abs/2405.18425v2)|[link](https://github.com/hustvl/vig)|
 |**2024-05-28**|**Why are Visually-Grounded Language Models Bad at Image Classification?**|Yuhui Zhang et.al.|[2405.18415v1](http://arxiv.org/abs/2405.18415v1)|[link](https://github.com/yuhui-zh15/vlmclassifier)|
 |**2024-05-28**|**Don't Forget to Connect! Improving RAG with Graph-based Reranking**|Jialin Dong et.al.|[2405.18414v1](http://arxiv.org/abs/2405.18414v1)|null|
 |**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406v1](http://arxiv.org/abs/2405.18406v1)|null|
 |**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405v1](http://arxiv.org/abs/2405.18405v1)|null|
-|**2024-05-28**|**Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass**|Ethan Shen et.al.|[2405.18400v1](http://arxiv.org/abs/2405.18400v1)|[link](https://github.com/raivnlab/superposeddecoding)|
+|**2024-05-28**|**Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass**|Ethan Shen et.al.|[2405.18400v2](http://arxiv.org/abs/2405.18400v2)|[link](https://github.com/raivnlab/superposeddecoding)|
 |**2024-05-28**|**MC-GTA: Metric-Constrained Model-Based Clustering using Goodness-of-fit Tests with Autocorrelations**|Zhangyu Wang et.al.|[2405.18395v1](http://arxiv.org/abs/2405.18395v1)|[link](https://github.com/Octopolugal/MC-GTA)|
 |**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387v1](http://arxiv.org/abs/2405.18387v1)|[link](https://github.com/joangog/object-detection)|
 |**2024-05-28**|**Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning**|Yixiao Zhang et.al.|[2405.18386v1](http://arxiv.org/abs/2405.18386v1)|[link](https://github.com/ldzhangyx/instruct-MusicGen)|
@@ -60,12 +60,12 @@
 |**2024-05-28**|**PRFashion24: A Dataset for Sentiment Analysis of Fashion Products Reviews in Persian**|Mehrimah Amirpour et.al.|[2405.18060v1](http://arxiv.org/abs/2405.18060v1)|null|
 |**2024-05-28**|**2BP: 2-Stage Backpropagation**|Christopher Rae et.al.|[2405.18047v1](http://arxiv.org/abs/2405.18047v1)|null|
 |**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040v1](http://arxiv.org/abs/2405.18040v1)|[link](https://github.com/thanhtrunghuynh93/fastfedul)|
-|**2024-05-28**|**Instruction Tuning with Retrieval-based Examples Ranking for Aspect-based Sentiment Analysis**|Guangmin Zheng et.al.|[2405.18035v1](http://arxiv.org/abs/2405.18035v1)|null|
+|**2024-05-28**|**Instruction Tuning with Retrieval-based Examples Ranking for Aspect-based Sentiment Analysis**|Guangmin Zheng et.al.|[2405.18035v2](http://arxiv.org/abs/2405.18035v2)|[link](https://github.com/zgmin/it-rer-absa)|
 |**2024-05-28**|**Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**|Aryo Pradipta Gema et.al.|[2405.18028v1](http://arxiv.org/abs/2405.18028v1)|null|
 |**2024-05-28**|**TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**|Jaewoo Ahn et.al.|[2405.18027v1](http://arxiv.org/abs/2405.18027v1)|null|
 |**2024-05-28**|**Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval**|Dvir Samuel et.al.|[2405.18025v1](http://arxiv.org/abs/2405.18025v1)|null|
 |**2024-05-28**|**MultiADE: A Multi-domain Benchmark for Adverse Drug Event Extraction**|Xiang Dai et.al.|[2405.18015v1](http://arxiv.org/abs/2405.18015v1)|null|
-|**2024-05-28**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014v1](http://arxiv.org/abs/2405.18014v1)|null|
+|**2024-05-28**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014v2](http://arxiv.org/abs/2405.18014v2)|null|
 |**2024-05-28**|**Exploring Context Window of Large Language Models via Decomposed Positional Vectors**|Zican Dong et.al.|[2405.18009v1](http://arxiv.org/abs/2405.18009v1)|null|
 |**2024-05-28**|**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling**|Bowen Zhang et.al.|[2405.18003v1](http://arxiv.org/abs/2405.18003v1)|[link](https://github.com/18445864529/mavin)|
 |**2024-05-28**|**Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**|Yuqi Zhou et.al.|[2405.17998v1](http://arxiv.org/abs/2405.17998v1)|null|
@@ -75,7 +75,7 @@
 |**2024-05-28**|**Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering**|Anirudh Phukan et.al.|[2405.17980v1](http://arxiv.org/abs/2405.17980v1)|null|
 |**2024-05-28**|**FASTopic: A Fast, Adaptive, Stable, and Transferable Topic Modeling Paradigm**|Xiaobao Wu et.al.|[2405.17978v1](http://arxiv.org/abs/2405.17978v1)|null|
 |**2024-05-28**|**Aligning to Thousands of Preferences via System Message Generalization**|Seongyun Lee et.al.|[2405.17977v1](http://arxiv.org/abs/2405.17977v1)|null|
-|**2024-05-28**|**Yuan 2.0-M32: Mixture of Experts with Attention Router**|Shaohua Wu et.al.|[2405.17976v1](http://arxiv.org/abs/2405.17976v1)|[link](https://github.com/ieit-yuan/yuan2.0-m32)|
+|**2024-05-28**|**Yuan 2.0-M32: Mixture of Experts with Attention Router**|Shaohua Wu et.al.|[2405.17976v2](http://arxiv.org/abs/2405.17976v2)|[link](https://github.com/ieit-yuan/yuan2.0-m32)|
 |**2024-05-28**|**Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations**|Yi-Pei Chen et.al.|[2405.17974v1](http://arxiv.org/abs/2405.17974v1)|null|
 |**2024-05-28**|**Knowledge Circuits in Pretrained Transformers**|Yunzhi Yao et.al.|[2405.17969v1](http://arxiv.org/abs/2405.17969v1)|[link](https://github.com/zjunlp/knowledgecircuits)|
 |**2024-05-28**|**Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection**|Teodor-George Marchitan et.al.|[2405.17964v1](http://arxiv.org/abs/2405.17964v1)|null|
@@ -97,7 +97,7 @@
 |**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894v1](http://arxiv.org/abs/2405.17894v1)|null|
 |**2024-05-28**|**Arithmetic Reasoning with LLM: Prolog Generation & Permutation**|Xiaocheng Yang et.al.|[2405.17893v1](http://arxiv.org/abs/2405.17893v1)|null|
 |**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890v1](http://arxiv.org/abs/2405.17890v1)|null|
-|**2024-05-28**|**Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment**|Jiaxiang Li et.al.|[2405.17888v1](http://arxiv.org/abs/2405.17888v1)|null|
+|**2024-05-28**|**Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment**|Jiaxiang Li et.al.|[2405.17888v2](http://arxiv.org/abs/2405.17888v2)|null|
 |**2024-05-28**|**An Information Theoretic Metric for Evaluating Unlearning Models**|Dongjae Jeon et.al.|[2405.17878v1](http://arxiv.org/abs/2405.17878v1)|null|
 |**2024-05-28**|**NUTS, NARS, and Speech**|D. van der Sluis et.al.|[2405.17874v1](http://arxiv.org/abs/2405.17874v1)|null|
 |**2024-05-28**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873v1](http://arxiv.org/abs/2405.17873v1)|null|
@@ -164,7 +164,7 @@ patterns from intricate distributions.
 摘要：<paragraph>我們推導出高維重疊高斯混合模型 (GMM) 資料二元分類中，貝氏最佳決策邊界的閉合形式表達式，並展示它們如何取決於類別共變數的本徵結構，特別是對於結構化的有趣資料。我們透過受真實世界資料啟發的合成 GMM 實驗，經驗性地證明了針對分類所訓練的深度神經網路，會學習近似於推導出的最佳分類器的預測因子。我們進一步將研究延伸到訓練於真實資料上的網路，觀察到決策閾值與共變數特徵向量相關，而不是特徵值，這反映了我們的 GMM 分析。這提供了關於神經網路執行機率推論和從複雜分佈中萃取統計模式的能力的理論見解。</paragraph>
 
 ##### **ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**
-2405.18425v1 by Bencheng Liao, Xinggang Wang, Lianghui Zhu, Qian Zhang, Chang Huang
+2405.18425v2 by Bencheng Liao, Xinggang Wang, Lianghui Zhu, Qian Zhang, Chang Huang
 
 Recently, linear complexity sequence modeling networks have achieved modeling
 capabilities similar to Vision Transformers on a variety of computer vision
@@ -176,18 +176,17 @@ hardware-awareness and efficiency. We propose direction-wise gating to capture
 injection to adaptively inject 2D local details into 1D global context. Our
 hardware-aware implementation further merges forward and backward scanning into
 a single kernel, enhancing parallelism and reducing memory cost and latency.
-The proposed model, \name{}, offers a favorable trade-off in accuracy,
-parameters, and FLOPs on ImageNet and downstream tasks, outperforming popular
-Transformer and CNN-based models. Notably, \name{}-S matches DeiT-B's accuracy
-while using only 27\% of the parameters and 20\% of the FLOPs, running
-2$\times$ faster on $224\times224$ images. At $1024\times1024$ resolution,
-\name{}-T uses 5.2$\times$ fewer FLOPs, saves 90\% GPU memory, runs 4.8$\times$
-faster, and achieves 20.7\% higher top-1 accuracy than DeiT-T. These results
-position \name{} as an efficient and scalable solution for visual
-representation learning. Code is available at
+The proposed model, ViG, offers a favorable trade-off in accuracy, parameters,
+and FLOPs on ImageNet and downstream tasks, outperforming popular Transformer
+and CNN-based models. Notably, ViG-S matches DeiT-B's accuracy while using only
+27% of the parameters and 20% of the FLOPs, running 2$\times$ faster on
+$224\times224$ images. At $1024\times1024$ resolution, ViG-T uses 5.2$\times$
+fewer FLOPs, saves 90% GPU memory, runs 4.8$\times$ faster, and achieves 20.7%
+higher top-1 accuracy than DeiT-T. These results position ViG as an efficient
+and scalable solution for visual representation learning. Code is available at
 \url{https://github.com/hustvl/ViG}.
 
-摘要：<paragraph>最近，线性复杂度序列建模网络在各种计算机视觉任务上实现了与视觉 Transformer 类似的建模能力，同时使用了更少的 FLOP 和更少的内存。然而，它们在实际运行速度方面的优势并不明显。为了解决这个问题，我们引入了用于视觉的 Gate 线性注意力 (GLA)，利用其出色的硬件感知和效率。我们提出方向门控来通过双向建模捕捉 1D 全局上下文，并通过 2D 门控局部注入将 2D 局部细节自适应地注入 1D 全局上下文。我们注重硬件的实现进一步将正向和反向扫描合并到一个内核中，增强了并行性并降低了内存成本和延迟。所提出的模型 \name{} 在准确性、参数和 ImageNet 及下游任务上的 FLOP 上提供了有利的权衡，优于流行的 Transformer 和基于 CNN 的模型。值得注意的是，\name{}-S 匹配了 DeiT-B 的准确性，同时只使用了 27% 的参数和 20% 的 FLOP，在 $224\times224$ 图像上运行速度提高了 2 倍。在 $1024\times1024$ 分辨率下，\name{}-T 使用的 FLOP 减少了 5.2 倍，节省了 90% 的 GPU 内存，运行速度提高了 4.8 倍，并且比 DeiT-T 的 top-1 准确率提高了 20.7%。这些结果将 \name{} 定位为视觉表征学习的高效且可扩展的解决方案。代码可在 \url{https://github.com/hustvl/ViG} 获得。</paragraph>
+摘要：<paragraph>最近，線性複雜度序列模型網路在各種電腦視覺任務中，以較少的浮點運算和記憶體，達到了與視覺轉換器類似的建模能力。然而，它們在實際執行速度上的優勢並不顯著。為了解決這個問題，我們引入了視覺門控線性注意力（GLA），利用其優異的硬體感知和效率。我們提出方向閘控，以透過雙向建模擷取一維全局背景，以及二維閘控區域注入，以自適應地將二維局部細節注入一維全局背景。我們硬體感知的實現進一步將正向和反向掃描合併到單一核心，增強並行性並降低記憶體成本和延遲。所提出的模型 ViG 在 ImageNet 和下游任務中提供了準確度、參數和浮點運算之間有利的權衡，優於流行的 Transformer 和基於 CNN 的模型。值得注意的是，ViG-S 在僅使用 27% 的參數和 20% 的浮點運算的情況下，與 DeiT-B 的準確度相匹配，在 224×224 影像上執行速度快 2 倍。在 1024×1024 解析度下，ViG-T 使用的浮點運算減少了 5.2 倍，節省了 90% 的 GPU 記憶體，執行速度快了 4.8 倍，並且比 DeiT-T 達到了高出 20.7% 的頂級 1 準確度。這些結果將 ViG 定位為一種用於視覺表徵學習的高效且可擴充的解決方案。程式碼可在 \url{https://github.com/hustvl/ViG} 中取得。</paragraph>
 
 ##### **Why are Visually-Grounded Language Models Bad at Image Classification?**
 2405.18415v1 by Yuhui Zhang, Alyssa Unell, Xiaohan Wang, Dhruba Ghosh, Yuchang Su, Ludwig Schmidt, Serena Yeung-Levy
@@ -287,7 +286,7 @@ datasets demonstrate the effectiveness of our approach.
 摘要：語言在將視覺編碼器擴展到來自不同分佈的資料中，而無需在訓練領域中進行經驗發現方面很有用。然而，由於影像描述大多處於粗略的層級，且忽略了視覺細節，因此產生的嵌入式仍然無法有效克服推理時間中領域的複雜性。我們提出了一個自我監督架構 WIDIn，用於領域不變表示的文字影像，以僅利用單一領域中的資料，且無任何先驗測試來解開歧視性視覺表示。具體來說，對於每個影像，我們首先使用細粒度對齊來估計語言嵌入式，然後可以使用它來自適應性地識別並從原始視覺嵌入式中移除特定於領域的對應部分。WIDIn 可以應用於預先訓練好的視覺語言模型（例如 CLIP）和單獨訓練的單一模式模型（例如 MoCo 和 BERT）。在三個領域概化資料集上的實驗研究證明了我們方法的有效性。
 
 ##### **Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass**
-2405.18400v1 by Ethan Shen, Alan Fan, Sarah M Pratt, Jae Sung Park, Matthew Wallingford, Sham M. Kakade, Ari Holtzman, Ranjay Krishna, Ali Farhadi, Aditya Kusupati
+2405.18400v2 by Ethan Shen, Alan Fan, Sarah M Pratt, Jae Sung Park, Matthew Wallingford, Sham M. Kakade, Ari Holtzman, Ranjay Krishna, Ali Farhadi, Aditya Kusupati
 
 Many applications today provide users with multiple auto-complete drafts as
 they type, including GitHub's code completion, Gmail's smart compose, and
@@ -297,19 +296,19 @@ Consequently, providing $k$ drafts to the user requires running an expensive
 language model $k$ times. To alleviate the computation cost of running $k$
 inference passes, we propose Superposed Decoding, a new decoding algorithm that
 generates $k$ drafts at the computation cost of one autoregressive inference
-pass. We achieve this by feeding a superposition of the $k$ most recent token
-embeddings from the drafts as input to the next decoding step of the language
-model. At every inference step we combine the $k$ drafts with the top-$k$
-tokens to get $k^2$ new drafts and cache the $k$ most likely options, using an
-n-gram interpolation with minimal compute overhead to filter out incoherent
-generations. Our experiments show that $k$ drafts from Superposed Decoding are
-at least as coherent and factual as Nucleus Sampling and Greedy Decoding
-respectively, while being at least $2.44\times$ faster for $k\ge3$. In a
-compute-normalized setting, user evaluations demonstrably favor text generated
-by Superposed Decoding over Nucleus Sampling. Code and more examples
+pass. We achieve this by feeding a superposition of the most recent token
+embeddings from the $k$ drafts as input to the next decoding step of the
+language model. At every inference step we combine the $k$ drafts with the
+top-$k$ tokens to get $k^2$ new drafts and cache the $k$ most likely options,
+using an n-gram interpolation with minimal compute overhead to filter out
+incoherent generations. Our experiments show that $k$ drafts from Superposed
+Decoding are at least as coherent and factual as Nucleus Sampling and Greedy
+Decoding respectively, while being at least $2.44\times$ faster for $k\ge3$. In
+a compute-normalized setting, user evaluations demonstrably favor text
+generated by Superposed Decoding over Nucleus Sampling. Code and more examples
 open-sourced at https://github.com/RAIVNLab/SuperposedDecoding.
 
-摘要：當今許多應用程式會在使用者輸入時提供多個自動完成草稿，包括 GitHub 的程式碼完成、Gmail 的智慧撰寫，以及 Apple 的訊息自動建議。在幕後，語言模型透過執行自迴歸推論傳遞來提供草稿，進而支援此功能。因此，提供 $k$ 個草稿給使用者需要執行昂貴的語言模型 $k$ 次。為了減輕執行 $k$ 次推論傳遞的運算成本，我們提出疊置解碼，這是一種新的解碼演算法，它以一次自迴歸推論傳遞的運算成本產生 $k$ 個草稿。我們透過將草稿中 $k$ 個最新的標記嵌入的疊置提供給語言模型的下一步解碼作為輸入，來達成此目標。在每個推論步驟中，我們將 $k$ 個草稿與前 $k$ 個標記結合，以取得 $k^2$ 個新草稿，並快取 $k$ 個最可能的選項，使用具有最小運算負擔的 n-gram 內插法，以篩選出不連貫的生成。我們的實驗顯示，疊置解碼的 $k$ 個草稿至少與 Nucleus Sampling 和 Greedy Decoding 一樣連貫且具有事實依據，同時對於 $k\ge3$ 來說，速度至少快 $2.44\times$。在運算正規化的設定中，使用者評估明顯偏好疊置解碼所產生的文字，勝過 Nucleus Sampling。程式碼和更多範例在 https://github.com/RAIVNLab/SuperposedDecoding 開源。
+摘要：現今許多應用程式在使用者輸入時會提供多個自動完成草稿，包括 GitHub 的程式碼完成、Gmail 的智慧撰寫，以及 Apple 的訊息自動建議。在底層，語言模型會執行自迴歸推論，提供草稿來支援此功能。因此，提供 $k$ 個草稿給使用者需要執行昂貴的語言模型 $k$ 次。為了減輕執行 $k$ 次推論的運算成本，我們提出了疊加解碼，一種新的解碼演算法，它以一次自迴歸推論的運算成本產生 $k$ 個草稿。我們透過將 $k$ 個草稿中最新的 token 嵌入的疊加作為輸入，提供給語言模型的下一個解碼步驟，來達成此目的。在每個推論步驟中，我們將 $k$ 個草稿與前 $k$ 個 token 結合，以取得 $k^2$ 個新草稿，並快取 $k$ 個最可能的選項，使用 n-gram 插值法，以最小的運算開銷來過濾掉不連貫的產生結果。我們的實驗顯示，疊加解碼產生的 $k$ 個草稿至少與核取樣和貪婪解碼一樣連貫且真實，同時對於 $k\ge3$ 至少快上 $2.44$ 倍。在運算正規化的設定中，使用者評估明顯偏好疊加解碼產生的文字，勝過核取樣。程式碼和更多範例已在 https://github.com/RAIVNLab/SuperposedDecoding 開源。
 
 ##### **MC-GTA: Metric-Constrained Model-Based Clustering using Goodness-of-fit Tests with Autocorrelations**
 2405.18395v1 by Zhangyu Wang, Gengchen Mai, Krzysztof Janowicz, Ni Lao
@@ -1507,7 +1506,7 @@ publicly available at \url{https://github.com/thanhtrunghuynh93/fastFedUL}.
 摘要：<paragraph>联邦学习 (FL) 最近已成为一种引人注目的机器学习范例，优先保护训练数据的隐私。解决“被遗忘权”等问题和打击数据中毒攻击的日益增长的需求凸显了被称为“取消学习”的技术的重要性，该技术有助于从训练过的 FL 模型中删除特定的训练数据。尽管针对集中式学习提出了许多取消学习方法，但由于两种学习范例的操作存在根本差异，这些方法通常被证明不适用于 FL。因此，FL 中的取消学习仍处于早期阶段，面临着许多挑战。FL 中许多现有的取消学习解决方案都需要昂贵的重新训练过程，这可能会给客户端带来负担。此外，这些方法主要通过实验验证，缺乏理论保证。在这项研究中，我们介绍了 Fast-FedUL，这是一种针对 FL 的定制取消学习方法，它完全消除了重新训练的需要。通过细致分析目标客户端在每一轮中对全局模型的影响，我们开发了一种算法来系统地从训练过的模型中移除目标客户端的影响。除了提供实证结果外，我们还提供了一个理论分析，描述了我们取消学习模型的上界和精确的重新训练模型（通过使用非目标客户端重新训练获得的模型）。带有后门攻击场景的实验结果表明，Fast-FedUL 有效地去除了目标客户端几乎所有的痕迹，同时保留了非目标客户端的知识（在主任务上获得了高达 98% 的高准确度）。值得注意的是，Fast-FedUL 实现了最低的时间复杂度，其速度比重新训练快 1000 倍。我们的源代码可在 \url{https://github.com/thanhtrunghuynh93/fastFedUL} 公开获得。</paragraph>
 
 ##### **Instruction Tuning with Retrieval-based Examples Ranking for Aspect-based Sentiment Analysis**
-2405.18035v1 by Guangmin Zheng, Jin Wang, Liang-Chih Yu, Xuejie Zhang
+2405.18035v2 by Guangmin Zheng, Jin Wang, Liang-Chih Yu, Xuejie Zhang
 
 Aspect-based sentiment analysis (ABSA) identifies sentiment information
 related to specific aspects and provides deeper market insights to businesses
@@ -1527,9 +1526,9 @@ the generation efficiency without incurring additional computational costs or
 training difficulties. Extensive experiments on three ABSA subtasks verified
 the effectiveness of the proposed method, demonstrating its superiority over
 various strong baseline models. Code and data are released at
-https://anonymous.4open.science/r/IT-RER-ABSA-181F.
+https://github.com/zgMin/IT-RER-ABSA.
 
-摘要：基於面向方面的觀點分析（ABSA）識別與特定面向相關的情緒資訊，並為企業和組織提供更深入的市場洞察。隨著大型語言模型（LM）的出現，最近的研究提出使用固定範例進行指令微調，以將 ABSA 重新表述為生成任務。然而，效能會受到語境範例選擇的影響；多種檢索方法基於表面相似性，且與 LM 生成目標無關。本研究提出了一種具有基於檢索的範例排序的指令學習方法，用於 ABSA 任務。對於每個目標樣本，將 LM 作為評分器應用，以估計在輸入和候選範例作為提示的情況下輸出的可能性，並通過對分數進行排序將訓練範例標記為正面或負面。提出了一個交替訓練架構來訓練檢索器和 LM。可以使用高品質範例構建指令提示。LM 用於評分和推論，從而提高生成效率，而不會產生額外的計算成本或訓練難度。在三個 ABSA 子任務上的廣泛實驗驗證了所提出方法的有效性，證明了其優於各種強大的基線模型。程式碼和資料發布於 https://anonymous.4open.science/r/IT-RER-ABSA-181F。
+摘要：面向方面的观点分析 (ABSA) 可识别与特定方面相关的观点信息，并为企业和组织提供更深入的市场洞察。随着大型语言模型 (LM) 的出现，最近的研究提出了使用固定示例进行指令微调，以将 ABSA 重新表述为生成任务。然而，性能对上下文示例的选择很敏感；几种检索方法基于表面相似性，并且独立于 LM 生成目标。本研究提出了一种用于 ABSA 任务的基于检索的示例排序的指令学习方法。对于每个目标样本，将 LM 应用为评分器，以估计给定输入和候选示例作为提示时输出的可能性，并将训练示例根据分数排序标记为正面或负面。提出了一种交替训练模式来训练检索器和 LM。可以使用高质量示例构建指令提示。LM 用于评分和推理，提高了生成效率，而不会产生额外的计算成本或训练难度。在三个 ABSA 子任务上进行的广泛实验验证了所提出方法的有效性，证明了其优于各种强大的基线模型。代码和数据已在 https://github.com/zgMin/IT-RER-ABSA 发布。
 
 ##### **Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**
 2405.18028v1 by Aryo Pradipta Gema, Chaeeun Lee, Pasquale Minervini, Luke Daines, T. Ian Simpson, Beatrice Alex
@@ -1627,7 +1626,7 @@ cost-effective methods to select useful training instances.
 摘要：<paragraph>目的。主动不良事件监测从电子健康记录、医学文献、社交媒体和搜索引擎日志等不同数据源监测不良药物事件 (ADE)。多年来，创建了许多数据集，并组织了共享任务以促进主动不良事件监测。然而，大多数（如果不是全部）数据集或共享任务都专注于从特定类型的文本中提取 ADE。领域泛化——机器学习模型在新领域（文本类型）中表现良好的能力——尚未得到充分探索。鉴于自然语言处理的快速发展，一个尚未回答的问题是我们离拥有一个对各种类型的文本（如科学文献和社交媒体帖子）有效的单一 ADE 提取模型还有多远。方法。我们通过构建一个多领域不良药物事件提取基准来回答这个问题，我们将其命名为 MultiADE。新的基准包含几个从不同文本类型中抽取的现有数据集和我们新创建的数据集-CADECv2，它是 CADEC（Karimi 等人，2015 年）的扩展，涵盖了比 CADEC 更广泛的药物的在线帖子。我们的新数据集由人类注释者按照详细的注释指南仔细注释。结论。我们的基准结果表明，训练模型的泛化远不完美，使其无法部署到处理不同类型的文本中。此外，尽管中间迁移学习是利用现有资源的一种有前途的方法，但仍需要进一步研究领域自适应的方法，特别是选择有用训练实例的经济有效的方法。</paragraph>
 
 ##### **Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**
-2405.18014v1 by Wenbing Li, Hang Zhou, Zikai Song, Wei Yang
+2405.18014v2 by Wenbing Li, Hang Zhou, Junqing Yu, Zikai Song, Wei Yang
 
 The essence of multi-modal fusion lies in exploiting the complementary
 information inherent in diverse modalities. However, prevalent fusion methods
@@ -1653,7 +1652,7 @@ three datasets respectively, 49\% faster inference and 83.7\% GPU memory save.
 The results demonstrate that Coupled Mamba model is capable of enhanced
 multi-modal fusion.
 
-摘要：多模态融合的本质在于利用各种模态中固有的互补信息。然而，流行的融合方法依赖于传统的网络架构，并且在捕捉模态间交互的动态方面装备不足，尤其是在存在复杂的模态内和模态间相关性的情况下。状态空间模型 (SSM) 的最新进展，特别是以 Mamba 模型为代表，已成为有希望的竞争者。特别是，其状态演化过程暗示了更强的模态融合范式，使得 SSM 上的多模态融合成为一个有吸引力的方向。然而，由于其硬件感知并行设计，对 SSM 来说融合多个模态具有挑战性。为此，本文提出了耦合 SSM 模型，用于耦合多个模态的状态链，同时保持模态内状态过程的独立性。具体来说，在我们的耦合方案中，我们设计了一个模态间隐状态转换方案，其中当前状态取决于其自身链的状态以及前一时间步的相邻链的状态。为了完全符合硬件感知并行性，我们设计了一个快速的耦合状态转换方案，并推导出其对应的全局卷积核以实现并行性。通过多域输入在 CMU-MOSEI、CH-SIMS、CH-SIMSV2 上进行的广泛实验验证了我们模型与当前最先进方法相比的有效性，分别在三个数据集上将 F1 分数提高了 0.4%、0.9% 和 2.3%，推理速度提高了 49%，GPU 内存节省了 83.7%。结果表明，耦合 Mamba 模型能够增强多模态融合。
+摘要：多模態融合的精髓在於利用不同模態中固有的互補資訊。然而，現行的融合方法依賴於傳統的神經架構，並且無法充分捕捉模態間互動的動態，特別是在存在複雜的模態內部和模態間關聯的情況下。狀態空間模型 (SSM) 的最新進展，特別是以 Mamba 模型為例，已成為有希望的競爭者。具體而言，它的狀態演化過程意味著更強大的模態融合範例，使 SSM 上的多模態融合成為一個有吸引力的方向。然而，由於其硬體感知並行設計，對 SSM 融合多個模態具有挑戰性。為此，本文提出了耦合 SSM 模型，用於耦合多個模態的狀態鏈，同時保持模態內部狀態過程的獨立性。具體來說，在我們的耦合方案中，我們設計了一個模態間隱藏狀態轉換方案，其中當前狀態依賴於其自身鏈的狀態和前一時間步中相鄰鏈的狀態。為了完全符合硬體感知並行性，我們設計了一個加速耦合狀態轉換方案，並推導了其對應的全局卷積核以實現並行性。通過多領域輸入對 CMU-MOSEI、CH-SIMS、CH-SIMSV2 的廣泛實驗驗證了我們模型與當前最先進方法相比的有效性，分別在三個數據集上改進了 F1 分數 0.4%、0.9% 和 2.3%，推理速度提高了 49%，GPU 記憶體節省了 83.7%。結果表明，耦合 Mamba 模型能夠增強多模態融合。
 
 ##### **Exploring Context Window of Large Language Models via Decomposed Positional Vectors**
 2405.18009v1 by Zican Dong, Junyi Li, Xin Men, Wayne Xin Zhao, Bingbing Wang, Zhen Tian, Weipeng Chen, Ji-Rong Wen
@@ -1898,23 +1897,23 @@ https://github.com/kaistAI/Janus.
 摘要：儘管人類天生具有多元價值觀，但現有的巨量語言模型 (LLM) 校準方法通常假設將 LLM 與一般大眾的喜好校準是最佳的。採用更個人化的 LLM 校準方法的主要挑戰在於其缺乏可擴充性，因為它涉及重複取得喜好資料並針對每個個人的喜好訓練新的獎勵模型和 LLM。為了應對這些挑戰，我們提出了一種新的範例，使用者可以在系統訊息中指定他們最重視的內容，引導 LLM 的生成行為以更好地符合使用者的意圖。然而，這種方法的單純應用並非易事，因為 LLM 通常是在統一的系統訊息（例如「您是一位有用的助理」）上訓練，這限制了它們對多樣且未見過的系統訊息進行概括的能力。為了改善這種概括，我們建立了多面向集合，一個包含 192k 種價值觀組合的首選資料集，超越了通用的有益性和無害性，涵蓋了 65k 條使用者說明。使用這個資料集，我們訓練了一個名為 Janus 的 7B LLM，並在 5 個基準（AlpacaEval 2.0、FLASK、Koala、MT-Bench 和 Self-Instruct）中的 921 個提示上對其進行測試，方法是加入各種反映使用者喜好的未見過系統訊息。Janus 分別以 75.2%、72.4% 和 66.4% 的平手加獲勝率擊敗了 Mistral 7B Instruct v0.2、GPT-3.5 Turbo 和 GPT-4。令人意外的是，在三個著重於回應有益性的基準（AlpacaEval 2.0、MT-Bench、Arena Hard Auto v0.1）上，Janus 也以 +4.0%、+0.1%、+3.0% 的幅度勝過 LLaMA 3 8B Instruct，這強調了使用大量系統訊息進行訓練也可以增強與一般大眾喜好的校準。我們的程式碼、資料集、基準和模型可在 https://github.com/kaistAI/Janus 取得。
 
 ##### **Yuan 2.0-M32: Mixture of Experts with Attention Router**
-2405.17976v1 by Shaohua Wu, Jiangang Luo, Xi Chen, Lingjun Li, Xudong Zhao, Tong Yu, Chao Wang, Yue Wang, Fei Wang, Weixu Qiao, Houbo He, Zeru Zhang, Zeyu Sun, Junxiong Mao, Chong Shen
+2405.17976v2 by Shaohua Wu, Jiangang Luo, Xi Chen, Lingjun Li, Xudong Zhao, Tong Yu, Chao Wang, Yue Wang, Fei Wang, Weixu Qiao, Houbo He, Zeru Zhang, Zeyu Sun, Junxiong Mao, Chong Shen
 
 Yuan 2.0-M32, with a similar base architecture as Yuan-2.0 2B, uses a
 mixture-of-experts architecture with 32 experts of which 2 experts are active.
 A new router network, Attention Router, is proposed and adopted for a more
-efficient selection of experts, which boosts the accuracy of 3.8% compared to
-the model with classical router network. Yuan 2.0-M32 is trained with 2000B
-tokens from scratch, and the training computation consumption is only 9.25% of
-a dense model at the same parameter scale. Yuan 2.0-M32 demonstrates
-competitive capability on coding, math, and various domains of expertise, with
-only 3.7B active parameters of 40B in total, and 7.4 GFlops forward computation
-per token, both of which are only 1/19 of Llama3-70B. Yuan 2.0-M32 surpass
+efficient selection of experts, which improves the accuracy compared to the
+model with classical router network. Yuan 2.0-M32 is trained with 2000B tokens
+from scratch, and the training computation consumption is only 9.25% of a dense
+model at the same parameter scale. Yuan 2.0-M32 demonstrates competitive
+capability on coding, math, and various domains of expertise, with only 3.7B
+active parameters of 40B in total, and 7.4 GFlops forward computation per
+token, both of which are only 1/19 of Llama3-70B. Yuan 2.0-M32 surpass
 Llama3-70B on MATH and ARC-Challenge benchmark, with accuracy of 55.89 and 95.8
 respectively. The models and source codes of Yuan 2.0-M32 are released at
-Github.
+Github1.
 
-摘要：Yuan 2.0-M32，其基本架構與 Yuan-2.0 2B 相似，使用混合專家架構，其中有 32 位專家，其中 2 位專家處於活躍狀態。提出並採用了一個新的路由器網路，即 Attention Router，以更有效地選擇專家，與採用經典路由器網路的模型相比，準確度提升了 3.8%。Yuan 2.0-M32 使用 2000B 的代幣從頭開始訓練，並且訓練計算消耗僅為同參數規模下稠密模型的 9.25%。Yuan 2.0-M32 在編碼、數學和各種專業領域展示了競爭力，總共只有 40B 的 3.7B 個活躍參數，並且每個代幣的正向計算為 7.4 GFlops，這兩者都只有 Llama3-70B 的 1/19。Yuan 2.0-M32 在 MATH 和 ARC-Challenge 基準測試中超越了 Llama3-70B，準確度分別為 55.89 和 95.8。Yuan 2.0-M32 的模型和源代碼已在 Github 上發布。
+摘要：Yuan 2.0-M32，其基本架構與 Yuan-2.0 2B 類似，使用混合專家架構，擁有 32 位專家，其中 2 位專家處於活躍狀態。提出並採用一種新的路由器網路，注意路由器，以更有效率地選擇專家，與採用傳統路由器網路的模型相比，這項技術改進了準確度。Yuan 2.0-M32 使用 2000B 令牌從頭開始訓練，而訓練運算消耗僅為相同參數規模下密集模型的 9.25%。Yuan 2.0-M32 在編碼、數學和各種專業領域展示出競爭力，總共僅有 40B 中的 3.7B 個活躍參數，且每個令牌的正向運算為 7.4 GFlops，這兩者都僅為 Llama3-70B 的 1/19。Yuan 2.0-M32 在 MATH 和 ARC-Challenge 基準測試中超越 Llama3-70B，準確度分別為 55.89 和 95.8。Yuan 2.0-M32 的模型和原始程式碼已在 Github1 上發布。
 
 ##### **Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations**
 2405.17974v1 by Yi-Pei Chen, Noriki Nishida, Hideki Nakayama, Yuji Matsumoto
@@ -2426,7 +2425,7 @@ found in LLM-based recommendation models, while simultaneously achieving up to
 摘要：序列推薦 (SR) 任務涉及預測使用者根據過去互動，接下來可能會互動的項目。SR 模型會檢視使用者的動作序列，以辨別更複雜的行為模式和時間動態。最近的研究顯示，LLM 對序列推薦系統有很大的影響，無論是將序列推薦視為語言模型，或作為使用者表徵的骨幹。儘管這些方法提供了傑出的效能，但鮮少證據顯示大型語言模型的必要性，以及需要多大的語言模型，特別是在序列推薦場景中。同時，由於 LLM 龐大，在現實世界平台中應用 LLM 為基礎的模型既低效又不切實際，因為這些平台通常需要每天處理數十億個流量記錄。在本文中，我們透過在大型產業資料集上進行廣泛的實驗，探討 LLM 深度的影響。令人驚訝的是，我們發現 LLM 的大多數中間層都是多餘的。受到這個見解的啟發，我們為 SR 賦能小型語言模型，即 SLMRec，它採用一種簡單但有效的知識提煉方法。此外，SLMRec 與其他訓練後效率技術正交，例如量化和剪枝，因此可以結合使用。全面的實驗結果說明，建議的 SLMRec 模型只使用 LLM 為基礎的推薦模型中 13% 的參數，就能獲得最佳效能，同時在訓練和推理時間成本分別達到最高 6.6 倍和 8.0 倍的加速。
 
 ##### **Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment**
-2405.17888v1 by Jiaxiang Li, Siliang Zeng, Hoi-To Wai, Chenliang Li, Alfredo Garcia, Mingyi Hong
+2405.17888v2 by Jiaxiang Li, Siliang Zeng, Hoi-To Wai, Chenliang Li, Alfredo Garcia, Mingyi Hong
 
 Aligning human preference and value is an important requirement for
 contemporary foundation models. State-of-the-art techniques such as
@@ -2454,7 +2453,7 @@ existing SFT approaches. Our results indicate that it is beneficial to
 explicitly or implicitly leverage reward learning throughout the entire
 alignment process.
 
-摘要：對齊人類偏好和價值觀是當代基礎模型的一項重要需求。最先進的技術，例如人類回饋強化學習 (RLHF)，通常包含兩個階段：1) 監督微調 (SFT)，其中模型通過從人類示範數據中學習進行微調；2) 偏好學習，其中偏好數據用於學習獎勵模型，而獎勵模型反過來又由強化學習 (RL) 步驟用於微調模型。這樣的獎勵模型作為人類偏好的代理，對於指導 RL 步驟改進模型品質至關重要。在這項工作中，我們認為 SFT 階段也顯著受益於學習獎勵模型。我們建議利用逆強化學習 (IRL) 技術（顯式或隱式地）構建獎勵模型，同時學習策略模型，而不是直接通過監督學習使用人類示範數據。這種方法導致新的 SFT 演算法，這些演算法不僅易於實作，而且還能提升區分首選和非首選延續的能力。此外，我們找出所提出的基於 IRL 的方法與最近提出的某些自玩方法之間的關聯，並表明自玩是建模獎勵學習代理的特殊情況。在理論上，我們表明所提出的演算法收斂於 IRL 問題的平穩解。在經驗上，我們使用所提出的方法對齊 1B 和 7B 模型，並在獎勵基準模型和 HuggingFace Open LLM 排行榜上對它們進行評估。所提出的方法顯示出比現有的 SFT 方法有顯著的性能提升。我們的結果表明，在整個對齊過程中顯式或隱式地利用獎勵學習是有益的。
+摘要：對齊人類偏好和價值是當代基礎模型的一項重要要求。最先進的技術，例如人類回饋強化學習 (RLHF)，通常包含兩個階段：1) 監督微調 (SFT)，其中模型通過從人類示範數據中學習進行微調；2) 偏好學習，其中偏好數據用於學習獎勵模型，而獎勵模型反過來又由強化學習 (RL) 步驟用於微調模型。這種獎勵模型作為人類偏好的代理，對於指導 RL 步驟改善模型品質至關重要。在這項工作中，我們認為 SFT 階段也顯著受益於學習獎勵模型。我們沒有直接通過監督學習使用人類示範數據，而是提出利用逆向強化學習 (IRL) 技術（顯式或隱式地）建立獎勵模型，同時學習策略模型。這種方法導致新的 SFT 演算法，這些演算法不僅易於實作，還能促進區分首選和非首選延續的能力。此外，我們發現所提出的基於 IRL 的方法與最近提出的某些自玩方法之間存在聯繫，並表明自玩是建模獎勵學習代理的特殊情況。在理論上，我們表明所提出的演算法收斂到 IRL 問題的平穩解。在經驗上，我們使用所提出的方法對齊 1B 和 7B 模型，並在獎勵基準模型和 HuggingFace Open LLM 排行榜上對它們進行評估。所提出的方法顯示出比現有的 SFT 方法有顯著的效能提升。我們的結果表明，在整個對齊過程中顯式或隱式地利用獎勵學習是有益的。
 
 ##### **An Information Theoretic Metric for Evaluating Unlearning Models**
 2405.17878v1 by Dongjae Jeon, Wonje Jeung, Taeheon Kim, Albert No, Jonghyun Choi

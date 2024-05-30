@@ -2,6 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-29**|**Conformal Depression Prediction**|Yonghong Li et.al.|[2405.18723v1](http://arxiv.org/abs/2405.18723v1)|null|
+|**2024-05-28**|**D-CoRP: Differentiable Connectivity Refinement for Functional Brain Networks**|Haoyu Hu et.al.|[2405.18658v1](http://arxiv.org/abs/2405.18658v1)|null|
+|**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610v1](http://arxiv.org/abs/2405.18610v1)|[link](https://github.com/gilesluo/dtr-bench)|
+|**2024-05-28**|**Low-rank finetuning for LLMs: A fairness perspective**|Saswat Das et.al.|[2405.18572v1](http://arxiv.org/abs/2405.18572v1)|null|
+|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556v1](http://arxiv.org/abs/2405.18556v1)|null|
+|**2024-05-28**|**The FAIIR Tool: A Conversational AI Agent Assistant for Youth Mental Health Service Provision**|Stephen Obadinma et.al.|[2405.18553v1](http://arxiv.org/abs/2405.18553v1)|null|
+|**2024-05-28**|**Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**|James Derek Lomas et.al.|[2405.18510v1](http://arxiv.org/abs/2405.18510v1)|null|
 |**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387v1](http://arxiv.org/abs/2405.18387v1)|[link](https://github.com/joangog/object-detection)|
 |**2024-05-28**|**Brain Tumor Segmentation (BraTS) Challenge 2024: Meningioma Radiotherapy Planning Automated Segmentation**|Dominic LaBella et.al.|[2405.18383v1](http://arxiv.org/abs/2405.18383v1)|null|
 |**2024-05-28**|**Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**|Anjanava Biswas et.al.|[2405.18346v1](http://arxiv.org/abs/2405.18346v1)|null|
@@ -32,7 +39,7 @@
 |**2024-05-24**|**Efficient Reinforcement Learning via Large Language Model-based Search**|Siddhant Bhambri et.al.|[2405.15194v1](http://arxiv.org/abs/2405.15194v1)|null|
 |**2024-05-24**|**Deep Activity Model: A Generative Approach for Human Mobility Pattern Synthesis**|Xishun Liao et.al.|[2405.17468v1](http://arxiv.org/abs/2405.17468v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
-|**2024-05-23**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696v1](http://arxiv.org/abs/2405.14696v1)|null|
+|**2024-05-23**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696v2](http://arxiv.org/abs/2405.14696v2)|null|
 |**2024-05-23**|**Efficient Medical Question Answering with Knowledge-Augmented Question Generation**|Julien Khlaut et.al.|[2405.14654v1](http://arxiv.org/abs/2405.14654v1)|null|
 |**2024-05-23**|**Concept Visualization: Explaining the CLIP Multi-modal Embedding Using WordNet**|Loris Giulivi et.al.|[2405.14563v1](http://arxiv.org/abs/2405.14563v1)|null|
 |**2024-05-23**|**Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study**|Lena Schmidt et.al.|[2405.14445v1](http://arxiv.org/abs/2405.14445v1)|null|
@@ -95,15 +102,172 @@
 |**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780v1](http://arxiv.org/abs/2405.08780v1)|null|
 |**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681v1](http://arxiv.org/abs/2405.08681v1)|[link](https://github.com/kqp1227/sensitive-channel-pruning)|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668v1](http://arxiv.org/abs/2405.08668v1)|null|
-|**2024-05-14**|**EchoTracker: Advancing Myocardial Point Tracking in Echocardiography**|Md Abulkalam Azad et.al.|[2405.08587v1](http://arxiv.org/abs/2405.08587v1)|null|
-|**2024-05-14**|**PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**|Satya K Gundabathula et.al.|[2405.08839v1](http://arxiv.org/abs/2405.08839v1)|null|
-|**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373v1](http://arxiv.org/abs/2405.08373v1)|null|
-|**2024-05-14**|**Perivascular space Identification Nnunet for Generalised Usage (PINGU)**|Benjamin Sinclair et.al.|[2405.08337v2](http://arxiv.org/abs/2405.08337v2)|null|
-|**2024-05-14**|**Automated classification of multi-parametric body MRI series**|Boah Kim et.al.|[2405.08247v1](http://arxiv.org/abs/2405.08247v1)|null|
-|**2024-05-13**|**Investigating the Semantic Robustness of CLIP-based Zero-Shot Anomaly Segmentation**|Kevin Stangl et.al.|[2405.07969v1](http://arxiv.org/abs/2405.07969v1)|null|
-|**2024-05-13**|**DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems**|Franz Kevin Stehle et.al.|[2405.07749v1](http://arxiv.org/abs/2405.07749v1)|[link](https://github.com/unihd-ceg/deephydra)|
 
 #### Abstracts
+##### **Conformal Depression Prediction**
+2405.18723v1 by Yonghong Li, Shan Qu, Xiuzhuang Zhou
+
+While existing depression recognition methods based on deep learning show
+promise, their practical application is hindered by the lack of
+trustworthiness, as these deep models are often deployed as \textit{black box}
+models, leaving us uncertain about the confidence of the model predictions. For
+high-risk clinical applications like depression recognition, uncertainty
+quantification is essential in decision-making. In this paper, we introduce
+conformal depression prediction (CDP), a depression recognition method with
+uncertainty quantification based on conformal prediction (CP), giving valid
+confidence intervals with theoretical coverage guarantees for the model
+predictions. CDP is a plug-and-play module that requires neither model
+retraining nor an assumption about the depression data distribution. As CDP
+provides only an average performance guarantee across all inputs rather than
+per-input performance guarantee, we propose CDP-ACC, an improved conformal
+prediction with approximate conditional coverage. CDP-ACC firstly estimates the
+prediction distribution through neighborhood relaxation, and then introduces a
+conformal score function by constructing nested sequences, so as to provide
+tighter prediction interval for each specific input. We empirically demonstrate
+the application of uncertainty quantification in depression recognition, and
+the effectiveness and superiority of CDP and CDP-ACC on the AVEC 2013 and AVEC
+2014 datasets
+
+摘要：儘管現有的基於深度學習的憂鬱症辨識方法顯示出前景，其實際應用卻受到可信度的不足所阻礙，因為這些深度模型經常被部署為「黑箱」模型，讓我們無法確定模型預測的置信度。對於憂鬱症辨識等高風險的臨床應用，不確定性量化在決策制定中至關重要。在本文中，我們介紹了共形憂鬱症預測 (CDP)，這是一種基於共形預測 (CP) 的憂鬱症辨識方法，具有不確定性量化，可提供模型預測的有效置信區間，並保證理論涵蓋率。CDP 是一個即插即用的模組，既不需要重新訓練模型，也不需要假設憂鬱症資料分佈。由於 CDP 僅提供所有輸入的平均效能保證，而不是每個輸入的效能保證，因此我們提出了 CDP-ACC，這是一種具有近似條件涵蓋率的改良共形預測。CDP-ACC 首先透過鄰域放鬆來估計預測分佈，然後透過建構巢狀序列來引入共形評分函數，以便為每個特定輸入提供更嚴格的預測區間。我們憑經驗證明了不確定性量化在憂鬱症辨識中的應用，以及 CDP 和 CDP-ACC 在 AVEC 2013 和 AVEC 2014 資料集上的有效性和優越性
+
+##### **D-CoRP: Differentiable Connectivity Refinement for Functional Brain Networks**
+2405.18658v1 by Haoyu Hu, Hongrun Zhang, Chao Li
+
+Brain network is an important tool for understanding the brain, offering
+insights for scientific research and clinical diagnosis. Existing models for
+brain networks typically primarily focus on brain regions or overlook the
+complexity of brain connectivities. MRI-derived brain network data is commonly
+susceptible to connectivity noise, underscoring the necessity of incorporating
+connectivities into the modeling of brain networks. To address this gap, we
+introduce a differentiable module for refining brain connectivity. We develop
+the multivariate optimization based on information bottleneck theory to address
+the complexity of the brain network and filter noisy or redundant connections.
+Also, our method functions as a flexible plugin that is adaptable to most graph
+neural networks. Our extensive experimental results show that the proposed
+method can significantly improve the performance of various baseline models and
+outperform other state-of-the-art methods, indicating the effectiveness and
+generalizability of the proposed method in refining brain network connectivity.
+The code will be released for public availability.
+
+摘要：大腦網路是理解大腦的重要工具，為科學研究和臨床診斷提供見解。現有的大腦網路模型通常主要關注大腦區域或忽略大腦連接的複雜性。源自 MRI 的大腦網路資料通常容易受到連接雜訊的影響，這強調了將連接納入大腦網路建模的必要性。為了解決這個差距，我們引入了一個可區分的模組來精煉大腦連接性。我們根據資訊瓶頸理論開發多變數最佳化，以解決大腦網路的複雜性並過濾雜訊或冗餘連接。此外，我們的模型可作為一個靈活的外掛程式，適用於大多數圖形神經網路。我們廣泛的實驗結果表明，所提出的模型可以顯著改善各種基準模型的效能，並優於其他最先進的模型，這表明所提出的模型在精煉大腦網路連接性方面的有效性和概括性。該程式碼將公開發布。
+
+##### **DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**
+2405.18610v1 by Zhiyao Luo, Mingcheng Zhu, Fenglin Liu, Jiali Li, Yangchen Pan, Jiandong Zhou, Tingting Zhu
+
+Reinforcement learning (RL) has garnered increasing recognition for its
+potential to optimise dynamic treatment regimes (DTRs) in personalised
+medicine, particularly for drug dosage prescriptions and medication
+recommendations. However, a significant challenge persists: the absence of a
+unified framework for simulating diverse healthcare scenarios and a
+comprehensive analysis to benchmark the effectiveness of RL algorithms within
+these contexts. To address this gap, we introduce \textit{DTR-Bench}, a
+benchmarking platform comprising four distinct simulation environments tailored
+to common DTR applications, including cancer chemotherapy, radiotherapy,
+glucose management in diabetes, and sepsis treatment. We evaluate various
+state-of-the-art RL algorithms across these settings, particularly highlighting
+their performance amidst real-world challenges such as
+pharmacokinetic/pharmacodynamic (PK/PD) variability, noise, and missing data.
+Our experiments reveal varying degrees of performance degradation among RL
+algorithms in the presence of noise and patient variability, with some
+algorithms failing to converge. Additionally, we observe that using temporal
+observation representations does not consistently lead to improved performance
+in DTR settings. Our findings underscore the necessity of developing robust,
+adaptive RL algorithms capable of effectively managing these complexities to
+enhance patient-specific healthcare. We have open-sourced our benchmark and
+code at https://github.com/GilesLuo/DTR-Bench.
+
+摘要：強化學習 (RL) 因其最佳化個人化醫療中的動態治療方案 (DTR) 的潛力而獲得越來越多的認可，特別是在藥物劑量處方和藥物建議方面。然而，一個重大的挑戰仍然存在：缺乏一個統一的框架來模擬不同的醫療保健場景，以及一個全面的分析來比較 RL 演算法在這些場景中的有效性。為了解決這個差距，我們引入了 \textit{DTR-Bench}，一個基準測試平台，包含四個不同的模擬環境，針對常見的 DTR 應用，包括癌症化療、放射治療、糖尿病中的葡萄糖管理和敗血症治療。我們在這些設定中評估了各種最先進的 RL 演算法，特別強調它們在藥代動力學/藥效動力學 (PK/PD) 變異性、雜訊和資料遺失等現實世界挑戰中的表現。我們的實驗揭示了在雜訊和患者變異性存在的情況下，RL 演算法之間的效能下降程度不同，有些演算法無法收斂。此外，我們觀察到使用時間觀察表示並不會持續導致 DTR 設定中的效能提升。我們的研究結果強調了開發強健、適應性 RL 演算法的必要性，這些演算法能夠有效管理這些複雜性，以增強特定患者的醫療保健。我們已在 https://github.com/GilesLuo/DTR-Bench 開源了我們的基準測試和程式碼。
+
+##### **Low-rank finetuning for LLMs: A fairness perspective**
+2405.18572v1 by Saswat Das, Marco Romanelli, Cuong Tran, Zarreen Reza, Bhavya Kailkhura, Ferdinando Fioretto
+
+Low-rank approximation techniques have become the de facto standard for
+fine-tuning Large Language Models (LLMs) due to their reduced computational and
+memory requirements. This paper investigates the effectiveness of these methods
+in capturing the shift of fine-tuning datasets from the initial pre-trained
+data distribution. Our findings reveal that there are cases in which low-rank
+fine-tuning falls short in learning such shifts. This, in turn, produces
+non-negligible side effects, especially when fine-tuning is adopted for
+toxicity mitigation in pre-trained models, or in scenarios where it is
+important to provide fair models. Through comprehensive empirical evidence on
+several models, datasets, and tasks, we show that low-rank fine-tuning
+inadvertently preserves undesirable biases and toxic behaviors. We also show
+that this extends to sequential decision-making tasks, emphasizing the need for
+careful evaluation to promote responsible LLMs development.
+
+摘要：低秩近似技术已成为微调大型语言模型 (LLM) 的事实标准，因为它们降低了计算和内存需求。本文探讨了这些方法在从初始预训练数据分布中捕获微调数据集的变化方面的有效性。我们的发现表明，在某些情况下，低秩微调无法学习这种变化。这反过来又会产生不可忽视的副作用，尤其是在微调被用于预训练模型中的毒性缓解时，或在提供公平模型很重要的场景中。通过对多个模型、数据集和任务进行全面的实证证据，我们表明低秩微调无意中保留了不良偏见和有害行为。我们还表明这扩展到了顺序决策任务，强调了仔细评估以促进负责任的 LLM 开发的必要性。
+
+##### **Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**
+2405.18556v1 by Zhiyao Luo, Yangchen Pan, Peter Watkinson, Tingting Zhu
+
+In the rapidly changing healthcare landscape, the implementation of offline
+reinforcement learning (RL) in dynamic treatment regimes (DTRs) presents a mix
+of unprecedented opportunities and challenges. This position paper offers a
+critical examination of the current status of offline RL in the context of
+DTRs. We argue for a reassessment of applying RL in DTRs, citing concerns such
+as inconsistent and potentially inconclusive evaluation metrics, the absence of
+naive and supervised learning baselines, and the diverse choice of RL
+formulation in existing research. Through a case study with more than 17,000
+evaluation experiments using a publicly available Sepsis dataset, we
+demonstrate that the performance of RL algorithms can significantly vary with
+changes in evaluation metrics and Markov Decision Process (MDP) formulations.
+Surprisingly, it is observed that in some instances, RL algorithms can be
+surpassed by random baselines subjected to policy evaluation methods and reward
+design. This calls for more careful policy evaluation and algorithm development
+in future DTR works. Additionally, we discussed potential enhancements toward
+more reliable development of RL-based dynamic treatment regimes and invited
+further discussion within the community. Code is available at
+https://github.com/GilesLuo/ReassessDTR.
+
+摘要：在快速變化的醫療保健環境中，離線強化學習 (RL) 在動態治療方案 (DTR) 中的實施呈現了前所未有的機會和挑戰。本立場文件對離線 RL 在 DTR 背景下的現狀進行了批判性審查。我們主張重新評估在 DTR 中應用 RL，並提出了一些疑慮，例如不一致且可能沒有定論的評估指標、缺乏天真的和監督式的學習基線，以及現有研究中 RL 公式的多樣選擇。通過一個使用公開 Sepsis 數據集進行的超過 17,000 次評估實驗的案例研究，我們證明了 RL 演算法的效能會隨著評估指標和馬可夫決策過程 (MDP) 公式的變化而有顯著差異。令人驚訝的是，我們觀察到在某些情況下，RL 演算法可能會被隨機基線所超越，這些基線會受到策略評估方法和獎勵設計的影響。這要求在未來的 DTR 工作中進行更仔細的策略評估和演算法開發。此外，我們討論了朝著更可靠的基於 RL 的動態治療方案開發的潛在改進，並邀請社群進一步討論。程式碼可在 https://github.com/GilesLuo/ReassessDTR 取得。
+
+##### **The FAIIR Tool: A Conversational AI Agent Assistant for Youth Mental Health Service Provision**
+2405.18553v1 by Stephen Obadinma, Alia Lachana, Maia Norman, Jocelyn Rankin, Joanna Yu, Xiaodan Zhu, Darren Mastropaolo, Deval Pandya, Roxana Sultan, Elham Dolatabadi
+
+World's healthcare systems and mental health agencies face both a growing
+demand for youth mental health services, alongside a simultaneous challenge of
+limited resources. Given these constraints, this work presents our experience
+in the creation and evaluation of the FAIIR (Frontline Assistant: Issue
+Identification and Recommendation) tool, an ensemble of domain-adapted and
+fine-tuned transformer models, leveraging natural language processing to
+identify issues that youth may be experiencing. We explore the technical
+development, performance, and validation processes leveraged for the FAIIR tool
+in application to situations of frontline crisis response via Kids Help Phone.
+Frontline Crisis Responders assign an issue tag from a defined list following
+each conversation. Assisting with the identification of issues of relevance
+helps reduce the burden on CRs, ensuring that appropriate resources can be
+provided and that active rescues and mandatory reporting can take place in
+critical situations requiring immediate de-escalation.
+
+摘要：全球的醫療保健系統與心理健康機構面臨著對青少年心理健康服務需求增加的問題，同時也面臨著資源有限的挑戰。在這些限制下，本研究呈現我們在建立與評估 FAIIR（前線助理：問題識別與建議）工具的經驗，它結合了領域適應與微調的轉換器模型，利用自然語言處理來識別青少年可能遭遇的問題。我們探討了 FAIIR 工具在 Kids Help Phone 的前線危機應對情況中所應用的技術開發、效能與驗證程序。前線危機應變人員在每次對話後會從既定的清單中指定一個問題標籤。協助識別相關問題有助於減輕危機應變人員的負擔，確保在緊急情況下可以提供適當的資源，並進行必要的救援與強制通報。
+
+##### **Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**
+2405.18510v1 by James Derek Lomas, Willem van der Maden, Sohhom Bandyopadhyay, Giovanni Lion, Nirmal Patel, Gyanesh Jain, Yanna Litowsky, Haian Xue, Pieter Desmet
+
+Generative AI systems are increasingly capable of expressing emotions via
+text and imagery. Effective emotional expression will likely play a major role
+in the efficacy of AI systems -- particularly those designed to support human
+mental health and wellbeing. This motivates our present research to better
+understand the alignment of AI expressed emotions with the human perception of
+emotions. When AI tries to express a particular emotion, how might we assess
+whether they are successful? To answer this question, we designed a survey to
+measure the alignment between emotions expressed by generative AI and human
+perceptions. Three generative image models (DALL-E 2, DALL-E 3 and Stable
+Diffusion v1) were used to generate 240 examples of images, each of which was
+based on a prompt designed to express five positive and five negative emotions
+across both humans and robots. 24 participants recruited from the Prolific
+website rated the alignment of AI-generated emotional expressions with a text
+prompt used to generate the emotion (i.e., "A robot expressing the emotion
+amusement"). The results of our evaluation suggest that generative AI models
+are indeed capable of producing emotional expressions that are well-aligned
+with a range of human emotions; however, we show that the alignment
+significantly depends upon the AI model used and the emotion itself. We analyze
+variations in the performance of these systems to identify gaps for future
+improvement. We conclude with a discussion of the implications for future AI
+systems designed to support mental health and wellbeing.
+
+摘要：生成式 AI 系統越來越能夠透過文字和圖像表達情緒。有效的表達情緒很可能會在 AI 系統的效能中扮演重要角色，尤其是那些設計用來支持人類心理健康和福祉的系統。這激勵了我們目前的這項研究，以期能更了解 AI 表達的情緒與人類對情緒的感知之間的對齊。當 AI 嘗試表達特定情緒時，我們該如何評估他們是否成功？為了回答這個問題，我們設計了一項調查，以衡量生成式 AI 表達的情緒與人類感知之間的對齊。三個生成式影像模型（DALL-E 2、DALL-E 3 和 Stable Diffusion v1）用於產生 240 個影像範例，每個範例都基於一個提示，旨在表達人類和機器人五種正向和五種負向情緒。從 Prolific 網站招募的 24 位參與者評估了 AI 生成的表情與用於產生情緒的文字提示之間的對齊（例如，「表達娛樂情緒的機器人」）。我們的評估結果表明，生成式 AI 模型確實能夠產生與一系列人類情緒高度對齊的情緒表達；然而，我們表明，對齊在很大程度上取決於所使用的 AI 模型和情緒本身。我們分析這些系統效能的變化，以找出未來改進的差距。我們最後討論了對未來旨在支持心理健康和福祉的 AI 系統的影響。
+
 ##### **A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**
 2405.18387v1 by Ioanna Gogou, Dimitrios Koutsomitropoulos
 
@@ -823,35 +987,35 @@ experiences for virtual reality.
 摘要：僅從單一視點準確重建複雜的動態場景，在電腦視覺中持續成為一項艱難的任務。目前的動態新視圖合成方法通常需要來自許多不同相機視點的影片，這需要仔細的錄製設定，並顯著限制它們在野外以及具身 AI 應用方面的效用。在本文中，我們提出 $\textbf{GCD}$，一種可控的單眼動態視圖合成管道，它利用大規模擴散先驗，在給定任何場景影片的情況下，根據一組相對相機姿勢參數生成來自任何其他選擇視角的同步影片。我們的模型不需要深度作為輸入，也不明確建模 3D 場景幾何，而是執行端對端的影片到影片轉換，以有效達成其目標。儘管僅在合成多視圖影片資料上訓練，但零次學習真實世界概化實驗在多個領域顯示出有希望的結果，包括機器人技術、物體恆常性和駕駛環境。我們相信我們的架構有可能在豐富的動態場景理解、機器人感知以及虛擬實境互動式 3D 影片觀看體驗中開啟強大的應用程式。
 
 ##### **A Declarative System for Optimizing AI Workloads**
-2405.14696v1 by Chunwei Liu, Matthew Russo, Michael Cafarella, Lei Cao, Peter Baille Chen, Zui Chen, Michael Franklin, Tim Kraska, Samuel Madden, Gerardo Vitagliano
+2405.14696v2 by Chunwei Liu, Matthew Russo, Michael Cafarella, Lei Cao, Peter Baille Chen, Zui Chen, Michael Franklin, Tim Kraska, Samuel Madden, Gerardo Vitagliano
 
-Modern AI models provide the key to a long-standing dream: processing
-analytical queries about almost any kind of data. Until recently, it was
-difficult and expensive to extract facts from company documents, data from
-scientific papers, or insights from image and video corpora. Today's models can
-accomplish these tasks with high accuracy. However, a programmer who wants to
-answer a substantive AI-powered query must orchestrate large numbers of models,
-prompts, and data operations. For even a single query, the programmer has to
-make a vast number of decisions such as the choice of model, the right
-inference method, the most cost-effective inference hardware, the ideal prompt
-design, and so on. The optimal set of decisions can change as the query changes
-and as the rapidly-evolving technical landscape shifts. In this paper we
-present Palimpzest, a system that enables anyone to process AI-powered
-analytical queries simply by defining them in a declarative language. The
-system uses its cost optimization framework -- which explores the search space
-of AI models, prompting techniques, and related foundation model optimizations
--- to implement the query with the best trade-offs between runtime, financial
-cost, and output data quality. We describe the workload of AI-powered analytics
-tasks, the optimization methods that Palimpzest uses, and the prototype system
-itself. We evaluate Palimpzest on tasks in Legal Discovery, Real Estate Search,
-and Medical Schema Matching. We show that even our simple prototype offers a
-range of appealing plans, including one that is 3.3x faster, 2.9x cheaper, and
-offers better data quality than the baseline method. With parallelism enabled,
-Palimpzest can produce plans with up to a 90.3x speedup at 9.1x lower cost
-relative to a single-threaded GPT-4 baseline, while obtaining an F1-score
-within 83.5% of the baseline. These require no additional work by the user.
+A long-standing goal of data management systems has been to build systems
+which can compute quantitative insights over large corpora of unstructured data
+in a cost-effective manner. Until recently, it was difficult and expensive to
+extract facts from company documents, data from scientific papers, or metrics
+from image and video corpora. Today's models can accomplish these tasks with
+high accuracy. However, a programmer who wants to answer a substantive
+AI-powered query must orchestrate large numbers of models, prompts, and data
+operations. For even a single query, the programmer has to make a vast number
+of decisions such as the choice of model, the right inference method, the most
+cost-effective inference hardware, the ideal prompt design, and so on. The
+optimal set of decisions can change as the query changes and as the
+rapidly-evolving technical landscape shifts. In this paper we present
+Palimpzest, a system that enables anyone to process AI-powered analytical
+queries simply by defining them in a declarative language. The system uses its
+cost optimization framework to implement the query plan with the best
+trade-offs between runtime, financial cost, and output data quality. We
+describe the workload of AI-powered analytics tasks, the optimization methods
+that Palimpzest uses, and the prototype system itself. We evaluate Palimpzest
+on tasks in Legal Discovery, Real Estate Search, and Medical Schema Matching.
+We show that even our simple prototype offers a range of appealing plans,
+including one that is 3.3x faster and 2.9x cheaper than the baseline method,
+while also offering better data quality. With parallelism enabled, Palimpzest
+can produce plans with up to a 90.3x speedup at 9.1x lower cost relative to a
+single-threaded GPT-4 baseline, while obtaining an F1-score within 83.5% of the
+baseline. These require no additional work by the user.
 
-摘要：現代 AI 模型提供了實現長久夢想的方法：處理幾乎任何類型資料的分析查詢。直到最近，從公司文件、科學論文中萃取事實，或從影像和影片資料集中取得見解，都是困難且昂貴的。今日的模型可以高精確度完成這些任務。然而，想要回答實質 AI 驅動查詢的程式設計師，必須協調大量的模型、提示和資料操作。即使只是一個單一的查詢，程式設計師都必須做出大量的決策，例如模型的選擇、正確的推論方法、最具成本效益的推論硬體、理想的提示設計等等。最佳的決策組合會隨著查詢的變更和快速變化的技術環境而改變。在本文中，我們提出 Palimpzest，這是一個系統，讓任何人只要使用宣告式語言定義 AI 驅動的分析查詢，就能處理這些查詢。此系統使用其成本最佳化架構（探索 AI 模型、提示技術和相關基礎模型最佳化的搜尋空間）來實作查詢，在執行時間、財務成本和輸出資料品質之間取得最佳的平衡。我們描述了 AI 驅動分析任務的工作負載、Palimpzest 使用的最佳化方法和原型系統本身。我們在法律發現、房地產搜尋和醫療架構比對任務中評估 Palimpzest。我們展示了即使是我們簡單的原型，也能提供一系列有吸引力的計畫，包括一個比基準方法快 3.3 倍、便宜 2.9 倍，且提供更好資料品質的計畫。在啟用平行處理的情況下，Palimpzest 可以產生速度提升達 90.3 倍、成本降低達 9.1 倍的計畫，相較於單執行緒 GPT-4 基準，同時獲得 F1 分數達基準的 83.5%。這些都不需要使用者額外的工作。
+摘要：長期以來，資料管理系統的目標一直是建立系統，能夠以經濟有效的方式計算大量非結構化資料的量化見解。直到最近，從公司文件、科學論文中提取事實，或從影像和影片資料中提取指標，仍然困難且昂貴。現今的模型可以高準確度完成這些任務。然而，想要回答實質性 AI 驅動查詢的程式設計師，必須協調大量的模型、提示和資料操作。即使只是一個單一的查詢，程式設計師都必須做出大量的決策，例如模型的選擇、正確的推論方法、最具成本效益的推論硬體、理想的提示設計，等等。最佳決策組合會隨著查詢的改變和快速變化的技術環境而改變。在本文中，我們提出了 Palimpzest，一個系統，讓任何人都能透過在宣告式語言中定義 AI 驅動分析查詢，來處理這些查詢。系統使用其成本最佳化架構，以最佳的執行時間、財務成本和輸出資料品質折衷，來實作查詢計畫。我們描述了 AI 驅動分析任務的工作負載、Palimpzest 使用的最佳化方法，以及原型系統本身。我們在法律發現、房地產搜尋和醫療架構比對的任務中評估 Palimpzest。我們展示了即使是我們的簡單原型也能提供一系列有吸引力的計畫，包括一個比基準方法快 3.3 倍、便宜 2.9 倍的計畫，同時還能提供更好的資料品質。在啟用平行處理的情況下，Palimpzest 可以產生速度提升達 90.3 倍、成本降低 9.1 倍的計畫，相較於單執行緒 GPT-4 基準，同時獲得 F1 分數在基準的 83.5% 以內。這些都不需要使用者額外的作業。
 
 ##### **Efficient Medical Question Answering with Knowledge-Augmented Question Generation**
 2405.14654v1 by Julien Khlaut, Corentin Dancette, Elodie Ferreres, Alaedine Bennani, Paul Hérent, Pierre Manceron
@@ -2406,171 +2570,4 @@ sustainable and inclusive VLM research, transcending the barriers between
 academia and industry.
 
 摘要：<paragraph>大型視覺語言模型 (VLM) 已在自然視覺任務中展現出非凡的效能，激勵各領域的研究人員探索特定領域的 VLM。然而，建構強大的特定領域 VLM 需要大量標註資料、大量的電力和運算資源，這些資源主要由產業取得，卻阻礙了學術界對 VLM 的研究。為了解決這個挑戰並促進永續且公平的 VLM 研究，我們提出廣義領域提示學習 (GDPL) 架構。GDPL 促進 VLM 強健的識別能力從自然視覺轉移到特定領域，而不需要龐大的資料或資源。透過運用小規模特定領域基礎模型和最少的提示範例，GDPL 透過四元數網路賦予語言分支領域知識，揭露特定領域視覺特徵與基於自然視覺的脈絡嵌入之間的跨模態關係。同時，GDPL 透過產生視覺提示特徵的分層傳播，將視覺分支引導至特定領域，這些特徵奠基於匹配良好的視覺語言關係。此外，為了充分利用 VLM 的領域適應潛力，我們引入一種新穎的低階適應方法。在遙測、醫學影像、地質學、合成孔徑雷達和流體力學等不同領域進行的廣泛實驗驗證了 GDPL 的功效，證明了它在提示學習範例中實現最先進領域識別效能的能力。我們的架構為永續且包容的 VLM 研究鋪路，超越了學術界和產業之間的障礙。</paragraph>
-
-##### **EchoTracker: Advancing Myocardial Point Tracking in Echocardiography**
-2405.08587v1 by Md Abulkalam Azad, Artem Chernyshov, John Nyberg, Ingrid Tveten, Lasse Lovstakken, Håvard Dalen, Bjørnar Grenne, Andreas Østvik
-
-Tissue tracking in echocardiography is challenging due to the complex cardiac
-motion and the inherent nature of ultrasound acquisitions. Although optical
-flow methods are considered state-of-the-art (SOTA), they struggle with
-long-range tracking, noise occlusions, and drift throughout the cardiac cycle.
-Recently, novel learning-based point tracking techniques have been introduced
-to tackle some of these issues. In this paper, we build upon these techniques
-and introduce EchoTracker, a two-fold coarse-to-fine model that facilitates the
-tracking of queried points on a tissue surface across ultrasound image
-sequences. The architecture contains a preliminary coarse initialization of the
-trajectories, followed by reinforcement iterations based on fine-grained
-appearance changes. It is efficient, light, and can run on mid-range GPUs.
-Experiments demonstrate that the model outperforms SOTA methods, with an
-average position accuracy of 67% and a median trajectory error of 2.86 pixels.
-Furthermore, we show a relative improvement of 25% when using our model to
-calculate the global longitudinal strain (GLS) in a clinical test-retest
-dataset compared to other methods. This implies that learning-based point
-tracking can potentially improve performance and yield a higher diagnostic and
-prognostic value for clinical measurements than current techniques. Our source
-code is available at: https://github.com/riponazad/echotracker/.
-
-摘要：在超音波心動圖中，由於複雜的心臟運動和超音波擷取的內在性質，組織追蹤具有挑戰性。雖然光流法被認為是目前最先進的技術（SOTA），但它們在整個心臟週期中難以進行長程追蹤、雜訊遮蔽和漂移。最近，引進了基於新穎學習的點追蹤技術來解決其中一些問題。在本文中，我們建立在這些技術之上，並介紹了 EchoTracker，這是一個兩重的粗略到精細模型，用於促進在超音波影像序列中追蹤組織表面上的查詢點。該架構包含軌跡的初步粗略初始化，然後根據細粒度外觀變化進行強化反覆運算。它高效、輕巧，可以在中階 GPU 上執行。實驗表明，該模型優於 SOTA 方法，平均位置精度為 67%，平均軌跡誤差為 2.86 像素。此外，我們在臨床測試重測資料集中使用我們的模型計算全球縱向應變 (GLS) 時，與其他方法相比，顯示出 25% 的相對改善。這表示基於學習的點追蹤可以潛在改善效能，並比目前的技術為臨床測量提供更高的診斷和預後價值。我們的原始碼可在以下位置取得：https://github.com/riponazad/echotracker/。
-
-##### **PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**
-2405.08839v1 by Satya K Gundabathula, Sriram R Kolar
-
-This paper presents our approach to the EHRSQL-2024 shared task, which aims
-to develop a reliable Text-to-SQL system for electronic health records. We
-propose two approaches that leverage large language models (LLMs) for prompting
-and fine-tuning to generate EHRSQL queries. In both techniques, we concentrate
-on bridging the gap between the real-world knowledge on which LLMs are trained
-and the domain specific knowledge required for the task. The paper provides the
-results of each approach individually, demonstrating that they achieve high
-execution accuracy. Additionally, we show that an ensemble approach further
-enhances generation reliability by reducing errors. This approach secured us
-2nd place in the shared task competition. The methodologies outlined in this
-paper are designed to be transferable to domain-specific Text-to-SQL problems
-that emphasize both accuracy and reliability.
-
-摘要：本文介紹我們對 EHRSQL-2024 共享任務的方法，該任務旨在開發一個可靠的電子病歷文字轉 SQL 系統。我們提出兩種方法，利用大型語言模型 (LLM) 來提示和微調以產生 EHRSQL 查詢。在這兩種技術中，我們專注於彌合 LLM 接受訓練的現實世界知識與任務所需的特定領域知識之間的差距。本文分別提供了每種方法的結果，證明它們實現了很高的執行準確度。此外，我們表明，整體方法進一步通過減少錯誤來增強生成可靠性。這種方法讓我們在共享任務競賽中獲得第二名。本文中概述的方法旨在轉移到特定領域的文字轉 SQL 問題，這些問題強調準確性和可靠性。
-
-##### **PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**
-2405.08373v1 by Satya Kesav Gundabathula, Sriram R Kolar
-
-This paper describes our approach to the MEDIQA-CORR shared task, which
-involves error detection and correction in clinical notes curated by medical
-professionals. This task involves handling three subtasks: detecting the
-presence of errors, identifying the specific sentence containing the error, and
-correcting it. Through our work, we aim to assess the capabilities of Large
-Language Models (LLMs) trained on a vast corpora of internet data that contain
-both factual and unreliable information. We propose to comprehensively address
-all subtasks together, and suggest employing a unique prompt-based in-context
-learning strategy. We will evaluate its efficacy in this specialized task
-demanding a combination of general reasoning and medical knowledge. In medical
-systems where prediction errors can have grave consequences, we propose
-leveraging self-consistency and ensemble methods to enhance error correction
-and error detection performance.
-
-摘要：本文描述了我們對 MEDIQA-CORR 共享任務的方法，其中包括由醫療專業人員策劃的臨床筆記中的錯誤偵測和更正。此任務涉及處理三個子任務：偵測錯誤的存在、識別包含錯誤的特定句子，以及更正錯誤。透過我們的努力，我們旨在評估在包含事實和不可靠資訊的龐大網路資料語料庫上訓練的大型語言模型 (LLM) 的能力。我們建議全面處理所有子任務，並建議採用獨特的基於提示的脈絡中學習策略。我們將評估其在這個需要結合一般推理和醫療知識的專門任務中的功效。在預測錯誤可能造成嚴重後果的醫療系統中，我們建議利用自我一致性和整體方法來增強錯誤更正和錯誤偵測效能。
-
-##### **Perivascular space Identification Nnunet for Generalised Usage (PINGU)**
-2405.08337v2 by Benjamin Sinclair, Lucy Vivash, Jasmine Moses, Miranda Lynch, William Pham, Karina Dorfman, Cassandra Marotta, Shaun Koh, Jacob Bunyamin, Ella Rowsthorn, Alex Jarema, Himashi Peiris, Zhaolin Chen, Sandy R Shultz, David K Wright, Dexiao Kong, Sharon L. Naismith, Terence J. OBrien, Meng Law
-
-Perivascular spaces(PVSs) form a central component of the brain\'s waste
-clearance system, the glymphatic system. These structures are visible on MRI
-images, and their morphology is associated with aging and neurological disease.
-Manual quantification of PVS is time consuming and subjective. Numerous deep
-learning methods for PVS segmentation have been developed, however the majority
-have been developed and evaluated on homogenous datasets and high resolution
-scans, perhaps limiting their applicability for the wide range of image
-qualities acquired in clinic and research. In this work we train a nnUNet, a
-top-performing biomedical image segmentation algorithm, on a heterogenous
-training sample of manually segmented MRI images of a range of different
-qualities and resolutions from 6 different datasets. These are compared to
-publicly available deep learning methods for 3D segmentation of PVS. The
-resulting model, PINGU (Perivascular space Identification Nnunet for
-Generalised Usage), achieved voxel and cluster level dice scores of
-0.50(SD=0.15), 0.63(0.17) in the white matter(WM), and 0.54(0.11), 0.66(0.17)
-in the basal ganglia(BG). Performance on data from unseen sites was
-substantially lower for both PINGU(0.20-0.38(WM, voxel), 0.29-0.58(WM,
-cluster), 0.22-0.36(BG, voxel), 0.46-0.60(BG, cluster)) and the publicly
-available algorithms(0.18-0.30(WM, voxel), 0.29-0.38(WM cluster), 0.10-0.20(BG,
-voxel), 0.15-0.37(BG, cluster)), but PINGU strongly outperformed the publicly
-available algorithms, particularly in the BG. Finally, training PINGU on manual
-segmentations from a single site with homogenous scan properties gave
-marginally lower performances on internal cross-validation, but in some cases
-gave higher performance on external validation. PINGU stands out as broad-use
-PVS segmentation tool, with particular strength in the BG, an area of PVS
-related to vascular disease and pathology.
-
-摘要：<paragraph>血管周圍空間 (PVS) 是腦部廢物清除系統，也就是淋巴系統，的中心組成部分。這些結構在 MRI 影像中可見，其形態與老化和神經疾病有關。PVS 的手動量化耗時且主觀。已經開發出許多用於 PVS 分割的深度學習方法，但大多數方法都是在同質數據集和高解析度掃描上開發和評估，這可能會限制其在臨床和研究中獲取的各種影像品質的適用性。在這項工作中，我們在一個異質訓練樣本上訓練了一個 nnUNet，這是一個效能最佳的生物醫學影像分割演算法，該樣本包含來自 6 個不同數據集、不同品質和解析度的手動分割 MRI 影像。這些結果與公開的 PVS 3D 分割深度學習方法進行比較。產生的模型 PINGU（廣泛使用的血管周圍空間識別 Nnunet）在白質 (WM) 中達到體素和叢集等級的骰子分數為 0.50(SD=0.15)、0.63(0.17)，在基底神經節 (BG) 中達到 0.54(0.11)、0.66(0.17)。對於 PINGU(0.20-0.38(WM，體素)，0.29-0.58(WM，叢集)，0.22-0.36(BG，體素)，0.46-0.60(BG，叢集))和公開演算法(0.18-0.30(WM，體素)，0.29-0.38(WM 叢集)，0.10-0.20(BG，體素)，0.15-0.37(BG，叢集))，來自未見過場域的資料效能顯著降低，但 PINGU 明顯優於公開演算法，特別是在 BG 中。最後，在掃描屬性均質的單一場域的手動分割上訓練 PINGU，在內部交叉驗證中給出略低的效能，但在某些情況下，在外部驗證中給出較高的效能。PINGU 脫穎而出，成為廣泛使用的 PVS 分割工具，特別是在 BG 中，BG 是與血管疾病和病理相關的 PVS 區域。</paragraph>
-
-##### **Automated classification of multi-parametric body MRI series**
-2405.08247v1 by Boah Kim, Tejas Sudharshan Mathai, Kimberly Helm, Ronald M. Summers
-
-Multi-parametric MRI (mpMRI) studies are widely available in clinical
-practice for the diagnosis of various diseases. As the volume of mpMRI exams
-increases yearly, there are concomitant inaccuracies that exist within the
-DICOM header fields of these exams. This precludes the use of the header
-information for the arrangement of the different series as part of the
-radiologist's hanging protocol, and clinician oversight is needed for
-correction. In this pilot work, we propose an automated framework to classify
-the type of 8 different series in mpMRI studies. We used 1,363 studies acquired
-by three Siemens scanners to train a DenseNet-121 model with 5-fold
-cross-validation. Then, we evaluated the performance of the DenseNet-121
-ensemble on a held-out test set of 313 mpMRI studies. Our method achieved an
-average precision of 96.6%, sensitivity of 96.6%, specificity of 99.6%, and F1
-score of 96.6% for the MRI series classification task. To the best of our
-knowledge, we are the first to develop a method to classify the series type in
-mpMRI studies acquired at the level of the chest, abdomen, and pelvis. Our
-method has the capability for robust automation of hanging protocols in modern
-radiology practice.
-
-摘要：多參數 MRI (mpMRI) 研究廣泛應用於臨床實務中，用於診斷各種疾病。由於 mpMRI 檢查量每年都在增加，這些檢查的 DICOM 標頭欄位中存在著伴隨的不準確性。這會妨礙將標頭資訊用於放射科醫師懸掛協定的不同系列的排列，並且需要臨床醫師監督才能進行校正。在這項試驗工作中，我們提出了一個自動化架構，用於對 mpMRI 研究中的 8 個不同系列類型進行分類。我們使用了由三個 Siemens 掃描器取得的 1,363 項研究，以訓練一個具有 5 倍交叉驗證的 DenseNet-121 模型。然後，我們在一個由 313 項 mpMRI 研究組成的留出測試集上評估了 DenseNet-121 混合模型的效能。我們的模型在 MRI 系列分類任務中達到了平均準確度 96.6%、敏感度 96.6%、特異度 99.6% 和 F1 分數 96.6%。據我們所知，我們是第一個開發出一個方法來對在胸部、腹部和骨盆層級取得的 mpMRI 研究中的系列類型進行分類。我們的模型有能力在現代放射科實務中對懸掛協定進行強健的自動化。
-
-##### **Investigating the Semantic Robustness of CLIP-based Zero-Shot Anomaly Segmentation**
-2405.07969v1 by Kevin Stangl, Marius Arvinte, Weilin Xu, Cory Cornelius
-
-Zero-shot anomaly segmentation using pre-trained foundation models is a
-promising approach that enables effective algorithms without expensive,
-domain-specific training or fine-tuning. Ensuring that these methods work
-across various environmental conditions and are robust to distribution shifts
-is an open problem. We investigate the performance of WinCLIP [14] zero-shot
-anomaly segmentation algorithm by perturbing test data using three semantic
-transformations: bounded angular rotations, bounded saturation shifts, and hue
-shifts. We empirically measure a lower performance bound by aggregating across
-per-sample worst-case perturbations and find that average performance drops by
-up to 20% in area under the ROC curve and 40% in area under the per-region
-overlap curve. We find that performance is consistently lowered on three CLIP
-backbones, regardless of model architecture or learning objective,
-demonstrating a need for careful performance evaluation.
-
-摘要：使用預訓練基礎模型進行零次異常分割是一種有前途的方法，它能讓有效演算法在沒有昂貴的特定領域訓練或微調的情況下運作。確保這些方法能在各種環境條件下運作，並且對分佈轉移具有穩健性，是一個公開的問題。我們透過使用三個語義轉換（有界角旋轉、有界飽和度轉移和色相轉移）擾動測試資料，來調查 WinCLIP [14] 零次異常分割演算法的效能。我們透過彙總每個樣本最壞情況的擾動，經驗性地測量較低的效能界限，並發現 ROC 曲線下的面積平均效能下降了 20%，而每個區域重疊曲線下的面積則下降了 40%。我們發現效能在一貫地降低於三個 CLIP 主幹上，而與模型架構或學習目標無關，這證明了仔細評估效能的必要性。
-
-##### **DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems**
-2405.07749v1 by Franz Kevin Stehle, Wainer Vandelli, Giuseppe Avolio, Felix Zahn, Holger Fröning
-
-Anomaly detection in distributed systems such as High-Performance Computing
-(HPC) clusters is vital for early fault detection, performance optimisation,
-security monitoring, reliability in general but also operational insights. Deep
-Neural Networks have seen successful use in detecting long-term anomalies in
-multidimensional data, originating for instance from industrial or medical
-systems, or weather prediction. A downside of such methods is that they require
-a static input size, or lose data through cropping, sampling, or other
-dimensionality reduction methods, making deployment on systems with variability
-on monitored data channels, such as computing clusters difficult. To address
-these problems, we present DeepHYDRA (Deep Hybrid DBSCAN/Reduction-Based
-Anomaly Detection) which combines DBSCAN and learning-based anomaly detection.
-DBSCAN clustering is used to find point anomalies in time-series data,
-mitigating the risk of missing outliers through loss of information when
-reducing input data to a fixed number of channels. A deep learning-based
-time-series anomaly detection method is then applied to the reduced data in
-order to identify long-term outliers. This hybrid approach reduces the chances
-of missing anomalies that might be made indistinguishable from normal data by
-the reduction process, and likewise enables the algorithm to be scalable and
-tolerate partial system failures while retaining its detection capabilities.
-Using a subset of the well-known SMD dataset family, a modified variant of the
-Eclipse dataset, as well as an in-house dataset with a large variability in
-active data channels, made publicly available with this work, we furthermore
-analyse computational intensity, memory footprint, and activation counts.
-DeepHYDRA is shown to reliably detect different types of anomalies in both
-large and complex datasets.
-
-摘要：<paragraph>在分布式系統（例如高性能運算 (HPC) 集群）中進行異常偵測，對於早期故障偵測、效能最佳化、安全性監控、整體可靠性以及營運洞察至關重要。深度神經網路已成功用於偵測多維資料中的長期異常，例如來自產業或醫療系統或天氣預測的資料。此類方法的缺點是它們需要靜態輸入大小，或透過裁切、抽樣或其他降維方法來損失資料，這使得在監控資料通道存在變異性的系統（例如運算叢集）上進行部署變得困難。為了解決這些問題，我們提出了 DeepHYDRA（基於深度混合 DBSCAN/降維的異常偵測），它結合了 DBSCAN 和基於學習的異常偵測。DBSCAN 聚類用於在時間序列資料中找出點異常，透過在將輸入資料減少到固定數量的通道時降低因資訊損失而遺漏異常值的風險。然後將基於深度學習的時間序列異常偵測方法應用於減少的資料，以識別長期異常值。這種混合方法降低了遺漏異常值的機率，這些異常值在經過簡化處理後可能與正常資料無法區分，並且同樣使演算法能夠擴展並容忍部分系統故障，同時保留其偵測能力。使用廣為人知的 SMD 資料集家族的子集、Eclipse 資料集的修改版本，以及一個主動資料通道變異性大的內部資料集（隨此工作公開），我們進一步分析了運算強度、記憶體使用量和啟動次數。DeepHYDRA 已被證明能夠在大型和複雜的資料集中可靠地偵測不同類型的異常。</paragraph>
 

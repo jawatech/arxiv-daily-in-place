@@ -20,7 +20,7 @@
 |**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
 |**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v2](http://arxiv.org/abs/2405.15739v2)|[link](https://github.com/andresalgaba/llm_citation_patterns)|
 |**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
-|**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v1](http://arxiv.org/abs/2405.15143v1)|[link](https://github.com/conglu1997/intelligent-go-explore)|
+|**2024-05-24**|**Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**|Cong Lu et.al.|[2405.15143v2](http://arxiv.org/abs/2405.15143v2)|[link](https://github.com/conglu1997/intelligent-go-explore)|
 |**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831v1](http://arxiv.org/abs/2405.14831v1)|null|
 |**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664v3](http://arxiv.org/abs/2405.14664v3)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203v1](http://arxiv.org/abs/2405.14203v1)|null|
@@ -568,7 +568,7 @@ developing precise and reliable interactions with LLMs.
 我們展示了我們的架構在學術研究情境中的實際應用，強調其革新學術知識管理和發現的潛力。這項工作賦能研究人員更有效地取得和利用文件中的知識，並為與 LLM 進行精確且可靠的互動奠定基礎。</paragraph>
 
 ##### **Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**
-2405.15143v1 by Cong Lu, Shengran Hu, Jeff Clune
+2405.15143v2 by Cong Lu, Shengran Hu, Jeff Clune
 
 Go-Explore is a powerful family of algorithms designed to solve
 hard-exploration problems, built on the principle of archiving discovered
@@ -597,7 +597,7 @@ FMs and the powerful Go-Explore algorithm, opening up a new frontier of
 research into creating more generally capable agents with impressive
 exploration capabilities.
 
-摘要：Go-Explore 是一系列強大的演算法，旨在解決困難的探索問題，其建立在封存已發現狀態的原則上，並反覆返回並從最有希望的狀態進行探索。這種方法已在各種具有挑戰性的問題中帶來了超人的表現，包括 Atari 遊戲和機器人控制，但需要人工設計啟發法來指導探索，這既耗時又通常不可行。為了解決這個問題，我們提出了 Intelligent Go-Explore (IGE)，它透過用巨型基礎模型 (FM) 捕捉到的智慧和內化的人類有趣性概念取代這些啟發法，進而大幅擴展了原始 Go-Explore 的範圍。這賦予 IGE 類似人類的能力，可以本能地識別任何新狀態有多有趣或有希望（例如發現新物件、位置或行為），即使在難以定義啟發法的複雜環境中也是如此。此外，IGE 提供了一個令人興奮且前所未有的機會，可以認識並利用無法預先預測的意外發現。我們在需要搜尋和探索的一系列基於語言的任務上評估 IGE。在 24 點遊戲中，IGE 是一個多步驟的數學推理問題，其達到 100% 的成功率，比最佳經典圖形搜尋基線快 70.8%。接下來，在 BabyAI-Text 中，一個具有挑戰性的部分可觀察網格世界，IGE 超越了先前的 SOTA，線上範例數量減少了幾個數量級。最後，在 TextWorld 中，我們展示了 IGE 在需要長期探索的設定中取得成功的獨特能力，在該設定中，先前的 SOTA FM 代理（例如 Reflexion）完全失敗。總的來說，IGE 結合了 FM 和強大的 Go-Explore 演算法的巨大優勢，開啟了探索創造更具一般能力且具有令人印象深刻的探索能力的代理的新研究領域。
+摘要：Go-Explore 是一系列強大的演算法，旨在解決困難的探索問題，建立在封存已發現狀態的原則上，並反覆返回並從最有希望的狀態進行探索。這種方法已在包括 Atari 遊戲和機器人控制在內的各種具有挑戰性的問題中取得了超人的表現，但需要人工設計啟發式方法來指導探索，這既耗時又通常不可行。為了解決這個問題，我們提出了 Intelligent Go-Explore (IGE)，它通過用巨型基礎模型 (FM) 捕捉到的智慧和內化的人類有趣概念取代這些啟發式方法，極大地擴展了原始 Go-Explore 的範圍。這為 IGE 提供了類似人類的能力，可以本能地識別任何新狀態有多有趣或有希望（例如發現新物件、位置或行為），即使在難以定義啟發式方法的複雜環境中也是如此。此外，IGE 提供了令人興奮且以前不可能的機會，可以識別並利用無法預先預測的意外發現。我們在需要搜尋和探索的一系列基於語言的任務上評估了 IGE。在 24 點遊戲中，一個多步驟的數學推理問題，IGE 的成功率達到 100%，比最佳經典圖形搜尋基準快 70.8%。接下來，在 BabyAI-Text 中，一個具有挑戰性的部分可觀察網格世界，IGE 超越了先前的 SOTA，在線範例減少了幾個數量級。最後，在 TextWorld 中，我們展示了 IGE 在需要長期探索的設定中取得成功的獨特能力，而先前的 SOTA FM 代理（如 Reflexion）則完全失敗。總的來說，IGE 結合了 FM 的巨大優勢和強大的 Go-Explore 演算法，開闢了一項新的研究領域，旨在創造具有令人印象深刻的探索能力的更通用的代理。
 
 ##### **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**
 2405.14831v1 by Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su

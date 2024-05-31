@@ -59,7 +59,7 @@
 |**2024-05-29**|**Convex neural network synthesis for robustness in the 1-norm**|Ross Drummond et.al.|[2405.19029v1](http://arxiv.org/abs/2405.19029v1)|[link](https://github.com/r-drummond/convex-nn-synthesis-1norm)|
 |**2024-05-29**|**DiveR-CT: Diversity-enhanced Red Teaming with Relaxing Constraints**|Andrew Zhao et.al.|[2405.19026v1](http://arxiv.org/abs/2405.19026v1)|null|
 |**2024-05-29**|**Evaluating the External and Parametric Knowledge Fusion of Large Language Models**|Hao Zhang et.al.|[2405.19010v1](http://arxiv.org/abs/2405.19010v1)|null|
-|**2024-05-29**|**Continuously Optimizing Radar Placement with Model Predictive Path Integrals**|Michael Potter et.al.|[2405.18999v1](http://arxiv.org/abs/2405.18999v1)|null|
+|**2024-05-29**|**Continuously Optimizing Radar Placement with Model Predictive Path Integrals**|Michael Potter et.al.|[2405.18999v2](http://arxiv.org/abs/2405.18999v2)|null|
 |**2024-05-29**|**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture**|Jiaqi Xu et.al.|[2405.18991v1](http://arxiv.org/abs/2405.18991v1)|[link](https://github.com/aigc-apps/easyanimate)|
 |**2024-05-29**|**Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection**|Songtao Liu et.al.|[2405.18974v1](http://arxiv.org/abs/2405.18974v1)|null|
 |**2024-05-29**|**UniIF: Unified Molecule Inverse Folding**|Zhangyang Gao et.al.|[2405.18968v1](http://arxiv.org/abs/2405.18968v1)|null|
@@ -88,10 +88,10 @@
 |**2024-05-29**|**Quantitative Certification of Bias in Large Language Models**|Isha Chaudhary et.al.|[2405.18780v1](http://arxiv.org/abs/2405.18780v1)|null|
 |**2024-05-29**|**LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning (Large) Language Models**|Qin Yang et.al.|[2405.18776v1](http://arxiv.org/abs/2405.18776v1)|null|
 |**2024-05-29**|**Leveraging Many-To-Many Relationships for Defending Against Visual-Language Adversarial Attacks**|Futa Waseda et.al.|[2405.18770v1](http://arxiv.org/abs/2405.18770v1)|null|
-|**2024-05-29**|**Inpaint Biases: A Pathway to Accurate and Unbiased Image Generation**|Jiyoon Myung et.al.|[2405.18762v1](http://arxiv.org/abs/2405.18762v1)|null|
+|**2024-05-29**|**Inpaint Biases: A Pathway to Accurate and Unbiased Image Generation**|Jiyoon Myung et.al.|[2405.18762v2](http://arxiv.org/abs/2405.18762v2)|null|
 |**2024-05-29**|**Learning to Continually Learn with the Bayesian Principle**|Soochan Lee et.al.|[2405.18758v1](http://arxiv.org/abs/2405.18758v1)|[link](https://github.com/soochan-lee/sb-mcl)|
 |**2024-05-29**|**Provable Contrastive Continual Learning**|Yichen Wen et.al.|[2405.18756v1](http://arxiv.org/abs/2405.18756v1)|null|
-|**2024-05-29**|**On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**|Jordi Armengol-Estapé et.al.|[2405.18751v1](http://arxiv.org/abs/2405.18751v1)|null|
+|**2024-05-29**|**On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**|Jordi Armengol-Estapé et.al.|[2405.18751v2](http://arxiv.org/abs/2405.18751v2)|null|
 |**2024-05-29**|**Genshin: General Shield for Natural Language Processing with Large Language Models**|Xiao Peng et.al.|[2405.18741v1](http://arxiv.org/abs/2405.18741v1)|null|
 |**2024-05-29**|**Reverse Image Retrieval Cues Parametric Memory in Multimodal LLMs**|Jialiang Xu et.al.|[2405.18740v1](http://arxiv.org/abs/2405.18740v1)|null|
 |**2024-05-29**|**Gemini & Physical World: Large Language Models Can Estimate the Intensity of Earthquake Shaking from Multi-Modal Social Media Posts**|S. Mostafa Mousavi et.al.|[2405.18732v1](http://arxiv.org/abs/2405.18732v1)|null|
@@ -1523,7 +1523,7 @@ external and parametric knowledge within LLMs.
 摘要：將外部知識整合到大型語言模型 (LLM) 中，提供了一個有前景的解決方案，可以克服其過時的靜態參數記憶所施加的限制。然而，先前的研究傾向於過度依賴外部知識，低估了 LLM 內在參數知識的寶貴貢獻。LLM 在融合外部和參數知識方面的效能仍未得到充分的探索，特別是在外部知識不完整且需要參數知識補充的情況下。我們建議將知識融合解構為四種不同的情境，提供 LLM 在每種情境中的首次徹底調查。我們開發了一個用於數據建構和知識注入的系統化管道，以模擬這些融合情境，並促進一系列受控實驗。我們的調查顯示，增強 LLM 中的參數知識可以顯著提升其知識整合能力。儘管如此，我們發現了在記憶和引發參數知識以及確定參數知識邊界方面持續存在的挑戰。我們的研究結果旨在引導未來在 LLM 中協調外部和參數知識的探索。
 
 ##### **Continuously Optimizing Radar Placement with Model Predictive Path Integrals**
-2405.18999v1 by Michael Potter, Shuo Tang, Paul Ghanem, Milica Stojanovic, Pau Closas, Murat Akcakaya, Ben Wright, Marius Necsoiu, Deniz Erdogmus, Michael Everett, Talees Imbiriba
+2405.18999v2 by Michael Potter, Shuo Tang, Paul Ghanem, Milica Stojanovic, Pau Closas, Murat Akcakaya, Ben Wright, Marius Necsoiu, Deniz Erdogmus, Michael Everett, Tales Imbiriba
 
 Continuously optimizing sensor placement is essential for precise target
 localization in various military and civilian applications. While information
@@ -1544,7 +1544,7 @@ in the upper tail of the 90% Highest Density Interval (HDI) over 500 Monte Carl
 (MC) trials across all time steps.
   Code will be made publicly available upon acceptance.
 
-摘要：持續優化感測器配置對於在各種軍事和民用應用中精準定位目標至關重要。雖然資訊理論已在優化感測器配置方面展現前景，但許多研究過於簡化感測器測量模型，或忽略了行動感測器的動態限制。為了應對這些挑戰，我們採用結合雷達參數和雷達目標距離的範圍測量模型，並搭配模型預測路徑積分 (MPPI) 控制來管理複雜的環境障礙和動態限制。我們將提出的方法與根據目標狀態的卡爾曼濾波器 (CKF) 估計器的均方根誤差 (RMSE) 所建立的固定雷達或簡化的範圍測量模型進行比較。此外，我們將隨著時間視覺化雷達和目標的演化幾何形狀，重點標示測量資訊增益最高的區域，以展示此方法的優點。所提出的策略在目標定位方面優於固定雷達和簡化的範圍測量模型，在均方根誤差的平均值減少了 38-74%，在 500 次蒙地卡羅 (MC) 試驗中，90% 最高密度區間 (HDI) 的上尾減少了 33-79%。代碼將在接受後公開。
+摘要：持續最佳化感測器配置對於各種軍用和民用應用中的精確目標定位至關重要。雖然資訊理論在最佳化感測器配置中展現潛力，但許多研究過於簡化感測器測量模型，或忽略行動感測器的動態限制。為了解決這些挑戰，我們採用了結合雷達參數和雷達目標距離的距離測量模型，並結合模型預測路徑積分 (MPPI) 控制來管理複雜的環境障礙和動態限制。我們將提出的方法與基於卡爾曼濾波器 (CKF) 估計器的均方根誤差 (RMSE) 的固定雷達或簡化的距離測量模型進行比較，以了解目標狀態。此外，我們可視化雷達和目標隨時間演變的幾何形狀，重點標示測量資訊獲取量最高的區域，以展示此方法的優點。提出的策略在目標定位方面優於固定雷達和簡化的距離測量模型，在 500 次蒙地卡羅 (MC) 試驗中，將所有時間步驟的平均 RMSE 降低了 38-74%，並將 90% 最高密度區間 (HDI) 的上尾降低了 33-79%。程式碼將在接受後公開。
 
 ##### **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture**
 2405.18991v1 by Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang
@@ -2195,7 +2195,7 @@ directions for future work.
 摘要：<paragraph>最近的研究表明，视觉语言 (VL) 模型容易受到图像文本检索 (ITR) 的对抗性攻击。然而，现有的 VL 模型防御策略主要集中于零样本图像分类，这并未考虑图像和文本的同时操纵，以及 ITR 固有的多对多 (N:N) 特性，其中一张图像可以用多种方式描述，反之亦然。为此，本文首次研究了针对 ITR 上 VL 模型对抗性攻击的防御策略。特别是，我们专注于如何利用 ITR 中的 N:N 关系来增强对抗鲁棒性。我们发现，尽管对抗训练很容易过度拟合训练数据中的特定一对一 (1:1) 图像文本对，但创建一对多 (1:N) / 多对一 (N:1) 图像文本对的多样化增强技术可以显着提高 VL 模型的对抗鲁棒性。此外，我们表明，增强图像文本对的排列对于防御策略的有效性至关重要，并且不适当的增强甚至会降低模型的性能。基于这些发现，我们提出了一种利用 ITR 中 N:N 关系的新型防御策略，该策略有效地使用基本增强和基于生成模型的增强生成多样化但高度对齐的 N:N 对。这项工作为防御 VL 任务中的对抗性攻击提供了新视角，并为未来的工作开辟了新的研究方向。</paragraph>
 
 ##### **Inpaint Biases: A Pathway to Accurate and Unbiased Image Generation**
-2405.18762v1 by Jiyoon Myung, Jihyeon Park
+2405.18762v2 by Jiyoon Myung, Jihyeon Park
 
 This paper examines the limitations of advanced text-to-image models in
 accurately rendering unconventional concepts which are scarcely represented or
@@ -2211,7 +2211,7 @@ mitigating the risk of perpetuating biases. Our study contributes to the
 advancement of text-to-image models as unbiased, versatile tools for creative
 expression.
 
-摘要：本文探討進階文字轉圖像模型在準確呈現訓練資料集鮮少呈現或不存在的非常規概念時所面臨的限制。我們找出這些限制不僅侷限了這些模型的創意潛力，也可能強化刻板印象。為了應對這些挑戰，我們引入了 Inpaint Biases 架構，它採用使用者定義的遮罩和修復技術來提升影像生成的準確度，特別是對於新穎或呈現不準確的物件。透過實驗驗證，我們展示這個架構如何顯著提升產生的影像對使用者意圖的忠實度，進而擴展模型的創意能力，並降低延續偏見的風險。我們的研究有助於提升文字轉圖像模型成為無偏見、多功能的創意表達工具。
+摘要：本文探討進階文字轉圖片模型在精確呈現訓練資料集鮮少呈現或不存在的非傳統概念時所面臨的限制。我們找出這些限制不僅侷限了這些模型的創意潛力，也可能強化刻板印象。為了應對這些挑戰，我們引進 Inpaint Biases 框架，它採用使用者定義的遮罩和補繪技術，以提升圖片生成的精確度，特別是針對新穎或呈現不準確的物件。透過實驗驗證，我們展示了這個框架如何大幅提升生成圖片對使用者意圖的忠實度，進而擴展模型的創意能力，並減輕延續偏見的風險。我們的研究有助於推動文字轉圖片模型成為無偏見、多功能的創意表達工具。
 
 ##### **Learning to Continually Learn with the Bayesian Principle**
 2405.18758v1 by Soochan Lee, Hyeonseong Jeon, Jaehyeon Son, Gunhee Kim
@@ -2260,7 +2260,7 @@ achieves new state-of-the-art performance.
 摘要：持續學習需要學習具有動態資料分佈的增量任務。到目前為止，已經觀察到採用對比損失和蒸餾損失的組合來訓練持續學習會產生強大的效能。然而，就我們所知，這個對比持續學習架構缺乏令人信服的理論解釋。在這項工作中，我們透過建立理論效能保證來填補這個差距，揭示模型的效能如何受到對比持續學習架構中先前任務訓練損失的約束。我們的理論解釋進一步支持了預訓練可以使持續學習受益的想法。受到我們對這些保證的理論分析啟發，我們提出了一種名為 CILA 的新對比持續學習演算法，它使用自適應蒸餾係數來處理不同的任務。這些蒸餾係數很容易透過先前任務的平均蒸餾損失和平均對比損失之間的比率來計算。我們的模型在標準基準上顯示出極大的進步，並達到了新的最先進效能。
 
 ##### **On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**
-2405.18751v1 by Jordi Armengol-Estapé, Vincent Michalski, Ramnath Kumar, Pierre-Luc St-Charles, Doina Precup, Samira Ebrahimi Kahou
+2405.18751v2 by Jordi Armengol-Estapé, Vincent Michalski, Ramnath Kumar, Pierre-Luc St-Charles, Doina Precup, Samira Ebrahimi Kahou
 
 Few-shot learning aims to learn representations that can tackle novel tasks
 given a small number of examples. Recent studies show that cross-modal learning
@@ -2281,7 +2281,7 @@ due to the additional compute and parameters introduced by the bridge network.
 We contribute insights and recommendations for future work in multi-modal
 meta-learning, especially when using language representations.
 
-摘要：小样本學習旨在學習可以處理新任務的表示，給定少數範例。最近的研究表明，跨模態學習可以改善小樣本分類的表示。更具體地說，語言是一種豐富的模態，可用於指導視覺學習。在這項工作中，我們試驗了一個多模態架構，用於小樣本學習，它包含三個組成部分：一個分類器、一個輔助網路和一個橋接網路。雖然分類器執行主要的分類任務，但輔助網路學習從同一個輸入預測語言表示，而橋接網路將輔助網路的高階特徵轉換為小樣本分類器層的調製參數，使用條件批次正規化。橋接應鼓勵語言和視覺之間的一種形式的輕量級語義對齊，這對於分類器可能是有用的。然而，在兩個流行的小樣本分類基準上評估所提出的方法後，我們發現 a) 改進不會在基準之間重現，以及 b) 當它們這樣做時，改進是由於橋接網路引入的額外計算和參數。我們為多模態元學習的未來工作提供見解和建議，特別是在使用語言表示時。
+摘要：<paragraph>小样本学习旨在学习能够处理新任务的表征，而这些任务只有少量示例。最近的研究表明，跨模态学习可以改善小样本分类的表征。更具体地说，语言是一种可用于指导视觉学习的丰富模态。在这项工作中，我们尝试了一种用于小样本学习的多模态架构，该架构由三个组件组成：分类器、辅助网络和桥接网络。虽然分类器执行主要的分类任务，但辅助网络学习从同一输入预测语言表征，而桥接网络使用条件批归一化将辅助网络的高级特征转换为小样本分类器层级的调制参数。该桥接应鼓励语言和视觉之间的一种轻量级语义对齐形式，这可能对分类器有用。然而，在两个流行的小样本分类基准上评估所提出的方法后，我们发现 a) 改进无法在基准之间复制，并且 b) 当它们这样做时，改进是由于桥接网络引入的额外计算和参数。我们为多模态元学习中的未来工作提供见解和建议，尤其是在使用语言表征时。</paragraph>
 
 ##### **Genshin: General Shield for Natural Language Processing with Large Language Models**
 2405.18741v1 by Xiao Peng, Tao Liu, Ying Wang

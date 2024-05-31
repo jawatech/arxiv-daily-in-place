@@ -9,7 +9,7 @@
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v2](http://arxiv.org/abs/2405.06270v2)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
-|**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|null|
+|**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
 |**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v2](http://arxiv.org/abs/2404.18975v2)|null|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|

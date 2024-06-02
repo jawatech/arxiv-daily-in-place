@@ -62,11 +62,13 @@
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053v1](http://arxiv.org/abs/2405.20053v1)|null|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046v1](http://arxiv.org/abs/2405.20046v1)|null|
 |**2024-05-30**|**Applications of Generative AI (GAI) for Mobile and Wireless Networking: A Survey**|Thai-Hoc Vu et.al.|[2405.20024v1](http://arxiv.org/abs/2405.20024v1)|null|
+|**2024-05-30**|**Safe Multi-agent Reinforcement Learning with Natural Language Constraints**|Ziyan Wang et.al.|[2405.20018v1](http://arxiv.org/abs/2405.20018v1)|null|
 |**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015v1](http://arxiv.org/abs/2405.20015v1)|null|
 |**2024-05-30**|**Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities**|Alexander Nikitin et.al.|[2405.20003v1](http://arxiv.org/abs/2405.20003v1)|null|
 |**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996v1](http://arxiv.org/abs/2405.19996v1)|[link](https://github.com/RomGai/DP-IQA)|
 |**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|null|
 |**2024-05-30**|**A Deep Reinforcement Learning Approach for Trading Optimization in the Forex Market with Multi-Agent Asynchronous Distribution**|Davoud Sarani et.al.|[2405.19982v1](http://arxiv.org/abs/2405.19982v1)|null|
+|**2024-05-30**|**A Triumvirate of AI Driven Theoretical Discovery**|Yang-Hui He et.al.|[2405.19973v1](http://arxiv.org/abs/2405.19973v1)|null|
 |**2024-05-30**|**Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**|Hossam M. Zawbaa et.al.|[2405.19967v1](http://arxiv.org/abs/2405.19967v1)|null|
 |**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957v1](http://arxiv.org/abs/2405.19957v1)|null|
 |**2024-05-30**|**HOLMES: to Detect Adversarial Examples with Multiple Detectors**|Jing Wen et.al.|[2405.19956v1](http://arxiv.org/abs/2405.19956v1)|null|
@@ -76,6 +78,9 @@
 |**2024-05-30**|**Learning Latent Graph Structures and their Uncertainty**|Alessandro Manenti et.al.|[2405.19933v1](http://arxiv.org/abs/2405.19933v1)|null|
 |**2024-05-30**|**Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks**|Xiaoyu Wu et.al.|[2405.19931v1](http://arxiv.org/abs/2405.19931v1)|null|
 |**2024-05-30**|**Open-Set Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2405.19899v1](http://arxiv.org/abs/2405.19899v1)|[link](https://github.com/khu-agi/bus)|
+|**2024-05-30**|**Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts**|Chunjing Gan et.al.|[2405.19893v1](http://arxiv.org/abs/2405.19893v1)|null|
+|**2024-05-30**|**Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**|Chaofan Lin et.al.|[2405.19888v1](http://arxiv.org/abs/2405.19888v1)|null|
+|**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883v1](http://arxiv.org/abs/2405.19883v1)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877v1](http://arxiv.org/abs/2405.19877v1)|null|
 |**2024-05-30**|**Is In-Context Learning Sufficient for Instruction Following in LLMs?**|Hao Zhao et.al.|[2405.19874v1](http://arxiv.org/abs/2405.19874v1)|null|
 |**2024-05-30**|**Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction**|Taisei Tosaki et.al.|[2405.19864v1](http://arxiv.org/abs/2405.19864v1)|null|
@@ -97,11 +102,6 @@
 |**2024-05-30**|**Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion**|Wei Cheng et.al.|[2405.19782v1](http://arxiv.org/abs/2405.19782v1)|null|
 |**2024-05-30**|**Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona**|Jeiyoon Park et.al.|[2405.19778v1](http://arxiv.org/abs/2405.19778v1)|[link](https://github.com/jeiyoon/charactergpt)|
 |**2024-05-30**|**Towards Unified Multi-granularity Text Detection with Interactive Attention**|Xingyu Wan et.al.|[2405.19765v1](http://arxiv.org/abs/2405.19765v1)|null|
-|**2024-05-30**|**Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding**|Kuo Liao et.al.|[2405.19763v1](http://arxiv.org/abs/2405.19763v1)|[link](https://github.com/magiasn/acl2024_rllr)|
-|**2024-05-30**|**Improving SMOTE via Fusing Conditional VAE for Data-adaptive Noise Filtering**|Sungchul Hong et.al.|[2405.19757v1](http://arxiv.org/abs/2405.19757v1)|null|
-|**2024-05-30**|**Mitigating annotation shift in cancer classification using single image generative models**|Marta Buetas Arcas et.al.|[2405.19754v1](http://arxiv.org/abs/2405.19754v1)|[link](https://github.com/martabuetas/enhancingbreastcancerdiagnosis)|
-|**2024-05-30**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751v1](http://arxiv.org/abs/2405.19751v1)|null|
-|**2024-05-30**|**X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions**|Chong Li et.al.|[2405.19744v1](http://arxiv.org/abs/2405.19744v1)|[link](https://github.com/znlp/x-instruction)|
 
 #### Abstracts
 ##### **From Zero to Hero: Cold-Start Anomaly Detection**
@@ -1501,6 +1501,31 @@ area.
 
 摘要：<paragraph>近年來，人工智慧（AI）在多個學科和垂直領域的成功，促使行動網路與未來網際網路朝向 AI 整合的物聯網（IoT）時代演進。然而，大多數的 AI 技術依賴於實體裝置（例如行動裝置和網路節點）或特定應用程式（例如健身追蹤器和行動遊戲）所產生的資料。為了繞過此限制，生成式 AI（GAI），又稱 AI 產生的內容（AIGC），已成為一種強大的 AI 典範；由於它能有效率地學習複雜的資料分佈，並產生合成資料以各種形式呈現原始資料。此令人印象深刻的功能預計將轉變行動網路管理，並使目前提供的服務和應用程式多樣化。在此基礎上，本研究簡要說明 GAI 在行動和無線網路中的角色。特別是，本調查首先提供 GAI 的基礎知識和具代表性的 GAI 模型，作為理解 GAI 在行動和無線網路中應用之必要的前提。接著，本研究全面回顧網路管理、無線安全、語意溝通中 GAI 應用和最先進的研究，以及從公開文獻中學到的教訓。最後，本研究總結了目前行動和無線網路中 GAI 的研究，概述了需要解決的重要挑戰，以利於促進 GAI 在這個尖端領域的發展和應用。</paragraph>
 
+##### **Safe Multi-agent Reinforcement Learning with Natural Language Constraints**
+2405.20018v1 by Ziyan Wang, Meng Fang, Tristan Tomilin, Fei Fang, Yali Du
+
+The role of natural language constraints in Safe Multi-agent Reinforcement
+Learning (MARL) is crucial, yet often overlooked. While Safe MARL has vast
+potential, especially in fields like robotics and autonomous vehicles, its full
+potential is limited by the need to define constraints in pre-designed
+mathematical terms, which requires extensive domain expertise and reinforcement
+learning knowledge, hindering its broader adoption. To address this limitation
+and make Safe MARL more accessible and adaptable, we propose a novel approach
+named Safe Multi-agent Reinforcement Learning with Natural Language constraints
+(SMALL). Our method leverages fine-tuned language models to interpret and
+process free-form textual constraints, converting them into semantic embeddings
+that capture the essence of prohibited states and behaviours. These embeddings
+are then integrated into the multi-agent policy learning process, enabling
+agents to learn policies that minimize constraint violations while optimizing
+rewards. To evaluate the effectiveness of SMALL, we introduce the LaMaSafe, a
+multi-task benchmark designed to assess the performance of multiple agents in
+adhering to natural language constraints. Empirical evaluations across various
+environments demonstrate that SMALL achieves comparable rewards and
+significantly fewer constraint violations, highlighting its effectiveness in
+understanding and enforcing natural language constraints.
+
+摘要：在安全多智能體強化學習 (MARL) 中，自然語言約束扮演著至關重要的角色，但卻經常被忽視。儘管安全 MARL 具有廣泛的潛力，特別是在機器人和自動駕駛汽車等領域，但其潛力受到定義預先設計數學術語約束的限制，這需要廣泛的領域專業知識和強化學習知識，阻礙了其更廣泛的應用。為了解決這個限制並讓安全 MARL 更容易使用和適應，我們提出了一種名為自然語言約束安全多智能體強化學習 (SMALL) 的新方法。我們的模型利用微調的語言模型來解釋和處理自由形式的文本約束，將其轉換為語義嵌入，以捕捉禁止狀態和行為的本質。然後將這些嵌入整合到多智能體策略學習過程中，讓智能體能夠學習最小化約束違規的策略，同時優化獎勵。為了評估 SMALL 的有效性，我們引入了 LaMaSafe，這是一個多任務基準，旨在評估多個智能體遵守自然語言約束的表現。在各種環境中的經驗評估表明，SMALL 達到了可比較的獎勵，並且約束違規明顯減少，突顯了其在理解和執行自然語言約束方面的有效性。
+
 ##### **Efficient LLM-Jailbreaking by Introducing Visual Modality**
 2405.20015v1 by Zhenxing Niu, Yuyao Sun, Haodong Ren, Haoxuan Ji, Quan Wang, Xiaoke Ma, Gang Hua, Rong Jin
 
@@ -1634,6 +1659,24 @@ shorter time.
 表明，這兩種模型在近端策略優化模型上都表現出色。帶鎖定的 A3C 在單一貨幣訓練場景中表現優於其他，而沒有鎖定的 A3C 在多貨幣場景中表現優於其他。研究結果
 表明，這種方法促進了對不同貨幣對的更廣泛、更快速的探索，顯著提高了交易回報。
 此外，代理可以在更短的時間內學習到更有利可圖的交易策略。
+
+##### **A Triumvirate of AI Driven Theoretical Discovery**
+2405.19973v1 by Yang-Hui He
+
+Recent years have seen the dramatic rise of the usage of AI algorithms in
+pure mathematics and fundamental sciences such as theoretical physics. This is
+perhaps counter-intuitive since mathematical sciences require the rigorous
+definitions, derivations, and proofs, in contrast to the experimental sciences
+which rely on the modelling of data with error-bars. In this Perspective, we
+categorize the approaches to mathematical discovery as "top-down", "bottom-up"
+and "meta-mathematics", as inspired by historical examples. We review some of
+the progress over the last few years, comparing and contrasting both the
+advances and the short-comings in each approach. We argue that while the
+theorist is in no way in danger of being replaced by AI in the near future, the
+hybrid of human expertise and AI algorithms will become an integral part of
+theoretical discovery.
+
+摘要：近年來，人工智慧演算法在純數學和理論物理等基礎科學中的應用大幅增加。這或許有違直覺，因為數學科學需要嚴謹的定義、推導和證明，這與依賴於誤差範圍數據建模的實驗科學形成對比。在這個觀點中，我們將數學發現的方法歸類為「自上而下」、「自下而上」和「元數學」，靈感來自歷史範例。我們回顧過去幾年的部分進展，比較並對比每種方法的進步和缺點。我們認為，儘管理論家在不久的將來絕不會被人工智慧取代，但人類專家和人工智慧演算法的結合將成為理論發現中不可或缺的一部分。
 
 ##### **Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**
 2405.19967v1 by Hossam M. Zawbaa, Wael Rashwan, Sourav Dutta, Haytham Assem
@@ -1868,6 +1911,84 @@ challenging OSDA-SS scenario compared to the previous methods by a large
 margin. The code is available at https://github.com/KHU-AGI/BUS.
 
 摘要：無監督域適應 (UDA) 旨在將標籤來源域的像素級知識轉移到未標籤目標域中，用於語意分割。然而，目前的 UDA 方法通常假設來源和目標之間有共享標籤空間，這限制了它們在實際場景中的應用性，因為在目標域中可能會出現新的類別。在本文中，我們首次介紹了用於語意分割的開放集域適應 (OSDA-SS)，其中目標域包括未知類別。我們將 OSDA-SS 場景中的兩個主要問題確定如下：1) 現有的 UDA 方法難以預測未知類別的確切邊界，以及 2) 它們無法準確預測未知類別的形狀。為了解決這些問題，我們提出了邊界和未知形狀感知開放集域適應，稱為 BUS。我們的 BUS 可以使用新穎的膨脹侵蝕對比損失，以對比方式準確辨別已知類別和未知類別之間的邊界。此外，我們提出了 OpenReMix，這是一種新的域混合擴充方法，它指導我們的模型有效學習域和大小不變特徵，以改進已知和未知類別的形狀檢測。通過廣泛的實驗，我們證明與之前的許多方法相比，我們提出的 BUS 在具有挑戰性的 OSDA-SS 場景中有效檢測未知類別。程式碼可在 https://github.com/KHU-AGI/BUS 取得。
+
+##### **Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts**
+2405.19893v1 by Chunjing Gan, Dan Yang, Binbin Hu, Hanxiao Zhang, Siyuan Li, Ziqi Liu, Yue Shen, Lin Ju, Zhiqiang Zhang, Jinjie Gu, Lei Liang, Jun Zhou
+
+In recent years, large language models (LLMs) have made remarkable
+achievements in various domains. However, the untimeliness and cost of
+knowledge updates coupled with hallucination issues of LLMs have curtailed
+their applications in knowledge intensive tasks, where retrieval augmented
+generation (RAG) can be of help. Nevertheless, existing retrieval augmented
+models typically use similarity as a bridge between queries and documents and
+follow a retrieve then read procedure. In this work, we argue that similarity
+is not always the panacea and totally relying on similarity would sometimes
+degrade the performance of retrieval augmented generation. To this end, we
+propose MetRag, a Multi layEred Thoughts enhanced Retrieval Augmented
+Generation framework. To begin with, beyond existing similarity oriented
+thought, we embrace a small scale utility model that draws supervision from an
+LLM for utility oriented thought and further come up with a smarter model by
+comprehensively combining the similarity and utility oriented thoughts.
+Furthermore, given the fact that the retrieved document set tends to be huge
+and using them in isolation makes it difficult to capture the commonalities and
+characteristics among them, we propose to make an LLM as a task adaptive
+summarizer to endow retrieval augmented generation with compactness-oriented
+thought. Finally, with multi layered thoughts from the precedent stages, an LLM
+is called for knowledge augmented generation. Extensive experiments on
+knowledge-intensive tasks have demonstrated the superiority of MetRag.
+
+摘要：近年來，大型語言模型 (LLM) 在各個領域都有顯著的成就。然而，知識更新的不及時和成本，加上 LLM 的幻覺問題，限制了它們在知識密集型任務中的應用，而檢索增強生成 (RAG) 可以提供幫助。儘管如此，現有的檢索增強模型通常使用相似性作為查詢和文件之間的橋樑，並遵循先檢索再閱讀的程序。在這項工作中，我們認為相似性並非萬靈丹，完全依賴相似性有時會降低檢索增強生成的性能。為此，我們提出了 MetRag，一個多層思想增強檢索增強生成框架。首先，除了現有的面向相似性的思想之外，我們採用了一個小規模的實用模型，從 LLM 中汲取監督，以獲得面向實用的思想，並通過全面結合相似性和面向實用的思想，進一步提出了更智能的模型。此外，鑑於檢索到的文件集往往龐大，孤立地使用它們難以捕捉它們之間的共性和特徵，我們建議將 LLM 作為任務適應型摘要器，以賦予檢索增強生成以面向緊湊性的思想。最後，利用前一階段的多層思想，呼籲 LLM 進行知識增強生成。在知識密集型任務上的大量實驗證明了 MetRag 的優越性。
+
+##### **Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**
+2405.19888v1 by Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, Lili Qiu
+
+The rise of large language models (LLMs) has enabled LLM-based applications
+(a.k.a. AI agents or co-pilots), a new software paradigm that combines the
+strength of LLM and conventional software. Diverse LLM applications from
+different tenants could design complex workflows using multiple LLM requests to
+accomplish one task. However, they have to use the over-simplified
+request-level API provided by today's public LLM services, losing essential
+application-level information. Public LLM services have to blindly optimize
+individual LLM requests, leading to sub-optimal end-to-end performance of LLM
+applications.
+  This paper introduces Parrot, an LLM service system that focuses on the
+end-to-end experience of LLM-based applications. Parrot proposes Semantic
+Variable, a unified abstraction to expose application-level knowledge to public
+LLM services. A Semantic Variable annotates an input/output variable in the
+prompt of a request, and creates the data pipeline when connecting multiple LLM
+requests, providing a natural way to program LLM applications. Exposing
+Semantic Variables to the public LLM service allows it to perform conventional
+data flow analysis to uncover the correlation across multiple LLM requests.
+This correlation opens a brand-new optimization space for the end-to-end
+performance of LLM-based applications. Extensive evaluations demonstrate that
+Parrot can achieve up to an order-of-magnitude improvement for popular and
+practical use cases of LLM applications.
+
+摘要：大型語言模型 (LLM) 的興起讓基於 LLM 的應用程式得以問世 (又稱 AI 代理或副駕駛)，這是一種新的軟體範例，結合了 LLM 和傳統軟體的優勢。來自不同租戶的多元 LLM 應用程式可以使用多個 LLM 要求來設計複雜的工作流程，以完成一項任務。然而，它們必須使用當今公開的 LLM 服務提供的過於簡化的請求層級 API，失去必要的應用程式層級資訊。公開的 LLM 服務必須盲目地最佳化個別的 LLM 請求，導致 LLM 應用程式的端對端效能不佳。
+本文介紹 Parrot，一種專注於基於 LLM 的應用程式的端對端體驗的 LLM 服務系統。Parrot 提出語義變數，一種統一的抽象化，用於向公開的 LLM 服務公開應用程式層級的知識。語義變數在請求提示中註解輸入/輸出變數，並在連接多個 LLM 請求時建立資料管道，提供一種編寫 LLM 應用程式的自然方式。向公開的 LLM 服務公開語義變數，讓它可以執行傳統的資料流程分析，以找出多個 LLM 請求之間的關聯性。這種關聯性為基於 LLM 的應用程式的端對端效能開啟了一個全新的最佳化空間。廣泛的評估證明，對於 LLM 應用程式的熱門且實際的使用案例，Parrot 可以實現高達一個數量級的改進。
+
+##### **From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**
+2405.19883v1 by Jianliang He, Siyu Chen, Fengzhuo Zhang, Zhuoran Yang
+
+In this work, from a theoretical lens, we aim to understand why large
+language model (LLM) empowered agents are able to solve decision-making
+problems in the physical world. To this end, consider a hierarchical
+reinforcement learning (RL) model where the LLM Planner and the Actor perform
+high-level task planning and low-level execution, respectively. Under this
+model, the LLM Planner navigates a partially observable Markov decision process
+(POMDP) by iteratively generating language-based subgoals via prompting. Under
+proper assumptions on the pretraining data, we prove that the pretrained LLM
+Planner effectively performs Bayesian aggregated imitation learning (BAIL)
+through in-context learning. Additionally, we highlight the necessity for
+exploration beyond the subgoals derived from BAIL by proving that naively
+executing the subgoals returned by LLM leads to a linear regret. As a remedy,
+we introduce an $\epsilon$-greedy exploration strategy to BAIL, which is proven
+to incur sublinear regret when the pretraining error is small. Finally, we
+extend our theoretical framework to include scenarios where the LLM Planner
+serves as a world model for inferring the transition model of the environment
+and to multi-agent settings, enabling coordination among multiple Actors.
+
+摘要：<paragraph>在這項工作中，從理論的角度來看，我們旨在理解為什麼大型語言模型 (LLM) 賦能的代理能夠解決物理世界中的決策問題。為此，考慮一個分層強化學習 (RL) 模型，其中 LLM 規劃器和行動者分別執行高級任務規劃和低級執行。在此模型下，LLM 規劃器通過提示反覆生成基於語言的子目標，從而導航部分可觀察馬可夫決策過程 (POMDP)。在對預訓練數據的適當假設下，我們證明了預訓練的 LLM 規劃器通過情境學習有效地執行貝葉斯聚合模仿學習 (BAIL)。此外，我們強調了探索超越 BAIL 推導的子目標的必要性，通過證明天真地執行 LLM 返回的子目標會導致線性遺憾。作為補救措施，我們在 BAIL 中引入了一個 $\epsilon$-貪婪探索策略，當預訓練誤差很小時，證明會產生次線性遺憾。最後，我們將我們的理論框架擴展到包括 LLM 規劃器作為世界模型用於推斷環境的轉換模型和多主體設置的情況，從而實現多個行動者之間的協調。</paragraph>
 
 ##### **KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**
 2405.19877v1 by Arto Bendiken
@@ -2381,123 +2502,4 @@ including multi-oriented/arbitrarily-shaped scene text detection, document
 layout analysis and page detection tasks.
 
 摘要：現有的 OCR 引擎或文件圖像分析系統通常依賴於訓練不同的模型，用於在不同的場景和粒度中進行文字偵測，導致顯著的計算複雜性和資源需求。在本文中，我們介紹「偵測任何文字」(DAT)，一種先進的典範，它無縫地將場景文字偵測、版面分析和文件頁面偵測統一到一個有凝聚力的端到端模型中。這個設計使 DAT 能夠有效地管理不同粒度的文字實例，包括 *字詞*、*行*、*段落* 和 *頁面*。DAT 中的一個關鍵創新是跨粒度互動注意力模組，它通過將不同文字查詢的結構資訊相互關聯，顯著增強了不同粒度文字實例的表徵學習。因此，它使模型能夠在多個文字粒度上實現互惠的偵測效能。此外，基於提示的分割模組改進了任意曲率和複雜版面的文字的偵測結果，從而提高了 DAT 的準確性並擴展了其在現實世界中的適用性。實驗結果表明，DAT 在各種與文字相關的基準測試中都取得了最先進的效能，包括多方向/任意形狀的場景文字偵測、文件版面分析和頁面偵測任務。
-
-##### **Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding**
-2405.19763v1 by Kuo Liao, Shuang Li, Meng Zhao, Liqun Liu, Mengge Xue, Zhenyu Hu, Honglin Han, Chengguo Yin
-
-Recent strides in large language models (LLMs) have yielded remarkable
-performance, leveraging reinforcement learning from human feedback (RLHF) to
-significantly enhance generation and alignment capabilities. However, RLHF
-encounters numerous challenges, including the objective mismatch issue, leading
-to suboptimal performance in Natural Language Understanding (NLU) tasks. To
-address this limitation, we propose a novel Reinforcement Learning framework
-enhanced with Label-sensitive Reward (RLLR) to amplify the performance of LLMs
-in NLU tasks. By incorporating label-sensitive pairs into reinforcement
-learning, our method aims to adeptly capture nuanced label-sensitive semantic
-features during RL, thereby enhancing natural language understanding.
-Experiments conducted on five diverse foundation models across eight tasks
-showcase promising results. In comparison to Supervised Fine-tuning models
-(SFT), RLLR demonstrates an average performance improvement of 1.54%. Compared
-with RLHF models, the improvement averages at 0.69%. These results reveal the
-effectiveness of our method for LLMs in NLU tasks. Code and data available at:
-https://github.com/MagiaSN/ACL2024_RLLR.
-
-摘要：大型語言模型 (LLM) 的最新進展產生了顯著的性能，利用人類反饋的強化學習 (RLHF) 來顯著增強生成和對齊能力。然而，RLHF 會遇到許多挑戰，包括目標不匹配問題，導致自然語言理解 (NLU) 任務的性能不佳。為了解決這個限制，我們提出了一個新的強化學習框架，增強了標籤敏感獎勵 (RLLR)，以增強 LLM 在 NLU 任務中的性能。通過將標籤敏感對整合到強化學習中，我們的目標是在 RL 期間巧妙地捕捉細微的標籤敏感語義特徵，從而增強自然語言理解。在八項任務中對五個不同的基礎模型進行的實驗展示了有希望的結果。與監督微調模型 (SFT) 相比，RLLR 展示了平均性能提升 1.54%。與 RLHF 模型相比，平均提升 0.69%。這些結果揭示了我們的方法對 LLM 在 NLU 任務中的有效性。代碼和數據可於以下網址獲得：https://github.com/MagiaSN/ACL2024_RLLR。
-
-##### **Improving SMOTE via Fusing Conditional VAE for Data-adaptive Noise Filtering**
-2405.19757v1 by Sungchul Hong, Seunghwan An, Jong-June Jeon
-
-Recent advances in a generative neural network model extend the development
-of data augmentation methods. However, the augmentation methods based on the
-modern generative models fail to achieve notable performance for class
-imbalance data compared to the conventional model, the SMOTE. We investigate
-the problem of the generative model for imbalanced classification and introduce
-a framework to enhance the SMOTE algorithm using Variational Autoencoders
-(VAE). Our approach systematically quantifies the density of data points in a
-low-dimensional latent space using the VAE, simultaneously incorporating
-information on class labels and classification difficulty. Then, the data
-points potentially degrading the augmentation are systematically excluded, and
-the neighboring observations are directly augmented on the data space.
-Empirical studies on several imbalanced datasets represent that this simple
-process innovatively improves the conventional SMOTE algorithm over the deep
-learning models. Consequently, we conclude that the selection of minority data
-and the interpolation in the data space are beneficial for imbalanced
-classification problems with a relatively small number of data points.
-
-摘要：生成神经網路模型的最新進展擴展了資料擴充方法的開發。然而，基於現代生成模型的擴充方法未能針對類別不平衡資料取得顯著的效能，與傳統模型 SMOTE 相比。我們研究生成模型在不平衡分類的問題，並引入一個框架，使用變異自動編碼器 (VAE) 來增強 SMOTE 演算法。我們的做法系統性地使用 VAE 量化低維潛在空間中資料點的密度，同時納入類別標籤和分類難度的資訊。然後，系統性地排除可能會降低擴充的資料點，並直接在資料空間中擴充相鄰的觀察值。在幾個不平衡資料集上的實證研究表明，這個簡單的過程創新地改進了傳統的 SMOTE 演算法，優於深度學習模型。因此，我們得出結論，少數資料的選擇和資料空間中的內插對於資料點數量相對較少的不平衡分類問題是有益的。
-
-##### **Mitigating annotation shift in cancer classification using single image generative models**
-2405.19754v1 by Marta Buetas Arcas, Richard Osuala, Karim Lekadir, Oliver Díaz
-
-Artificial Intelligence (AI) has emerged as a valuable tool for assisting
-radiologists in breast cancer detection and diagnosis. However, the success of
-AI applications in this domain is restricted by the quantity and quality of
-available data, posing challenges due to limited and costly data annotation
-procedures that often lead to annotation shifts. This study simulates, analyses
-and mitigates annotation shifts in cancer classification in the breast
-mammography domain. First, a high-accuracy cancer risk prediction model is
-developed, which effectively distinguishes benign from malignant lesions. Next,
-model performance is used to quantify the impact of annotation shift. We
-uncover a substantial impact of annotation shift on multiclass classification
-performance particularly for malignant lesions. We thus propose a training data
-augmentation approach based on single-image generative models for the affected
-class, requiring as few as four in-domain annotations to considerably mitigate
-annotation shift, while also addressing dataset imbalance. Lastly, we further
-increase performance by proposing and validating an ensemble architecture based
-on multiple models trained under different data augmentation regimes. Our study
-offers key insights into annotation shift in deep learning breast cancer
-classification and explores the potential of single-image generative models to
-overcome domain shift challenges.
-
-摘要：人工智慧（AI）已成為協助放射科醫師進行乳癌偵測和診斷的寶貴工具。然而，AI 應用於此領域的成功受到可用資料的數量和品質限制，而有限且昂貴的資料註解程序經常導致註解偏移，進而造成挑戰。本研究模擬、分析和減輕乳房攝影領域癌症分類中的註解偏移。首先，開發出高準確度的癌症風險預測模型，能有效區分良性病灶和惡性病灶。接著，使用模型效能來量化註解偏移的影響。我們發現註解偏移對多類別分類效能有顯著影響，特別是惡性病灶。因此，我們提出一個基於單一影像生成模型的訓練資料擴充方法，針對受影響的類別，只要少至四個領域內註解就能大幅減輕註解偏移，同時還能解決資料集失衡問題。最後，我們進一步提出並驗證一個整合架構，基於在不同資料擴充模式下訓練的多個模型，進而提升效能。我們的研究提供了深入見解，說明深度學習乳癌分類中的註解偏移，並探討單一影像生成模型克服領域偏移挑戰的潛力。
-
-##### **HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**
-2405.19751v1 by Wenxuan Liu, Saiqian Zhang
-
-Diffusion Transformers (DiTs) have recently gained substantial attention in
-both industrial and academic fields for their superior visual generation
-capabilities, outperforming traditional diffusion models that use U-Net.
-However,the enhanced performance of DiTs also comes with high parameter counts
-and implementation costs, seriously restricting their use on resource-limited
-devices such as mobile phones. To address these challenges, we introduce the
-Hybrid Floating-point Quantization for DiT(HQ-DiT), an efficient post-training
-quantization method that utilizes 4-bit floating-point (FP) precision on both
-weights and activations for DiT inference. Compared to fixed-point quantization
-(e.g., INT8), FP quantization, complemented by our proposed clipping range
-selection mechanism, naturally aligns with the data distribution within DiT,
-resulting in a minimal quantization error. Furthermore, HQ-DiT also implements
-a universal identity mathematical transform to mitigate the serious
-quantization error caused by the outliers. The experimental results demonstrate
-that DiT can achieve extremely low-precision quantization (i.e., 4 bits) with
-negligible impact on performance. Our approach marks the first instance where
-both weights and activations in DiTs are quantized to just 4 bits, with only a
-0.12 increase in sFID on ImageNet.
-
-摘要：擴散Transformer（DiT）最近在產業和學術領域獲得極大的關注，因為它們的視覺生成能力優於使用 U-Net 的傳統擴散模型。然而，DiT 增強的效能也伴隨著高參數數量和實作成本，嚴重限制了它們在資源有限的裝置（例如手機）上的使用。為了解決這些挑戰，我們引入了 DiT 的混合浮點量化（HQ-DiT），這是一種高效的訓練後量化方法，在 DiT 推論中對權重和啟用都使用 4 位元浮點（FP）精度。與定點量化（例如 INT8）相比，FP 量化搭配我們提出的裁切範圍選擇機制，自然地與 DiT 中的資料分佈一致，從而產生最小的量化誤差。此外，HQ-DiT 還實作了一個通用的恆等數學轉換，以減輕異常值造成的嚴重量化誤差。實驗結果表明，DiT 可以實現極低精度的量化（即 4 位元），且對效能的影響可以忽略不計。我們的做法標誌著 DiT 中的權重和啟用首次被量化到只有 4 位元，在 ImageNet 上的 sFID 只增加了 0.12。
-
-##### **X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions**
-2405.19744v1 by Chong Li, Wen Yang, Jiajun Zhang, Jinliang Lu, Shaonan Wang, Chengqing Zong
-
-Large language models respond well in high-resource languages like English
-but struggle in low-resource languages. It may arise from the lack of
-high-quality instruction following data in these languages. Directly
-translating English samples into these languages can be a solution but
-unreliable, leading to responses with translation errors and lacking
-language-specific or cultural knowledge. To address this issue, we propose a
-novel method to construct cross-lingual instruction following samples with
-instruction in English and response in low-resource languages. Specifically,
-the language model first learns to generate appropriate English instructions
-according to the natural web texts in other languages as responses. The
-candidate cross-lingual instruction tuning samples are further refined and
-diversified. We have employed this method to build a large-scale cross-lingual
-instruction tuning dataset on 10 languages, namely X-Instruction. The
-instruction data built using our method incorporate more language-specific
-knowledge compared with the naive translation method. Experimental results have
-shown that the response quality of the model tuned on X-Instruction greatly
-exceeds the model distilled from a powerful teacher model, reaching or even
-surpassing the ones of ChatGPT. In addition, we find that models tuned on
-cross-lingual instruction following samples can follow the instruction in the
-output language without further tuning.
-
-摘要：大型語言模型對英語等資源豐富的語言反應良好，但在資源匱乏的語言中卻舉步維艱。這可能是由於這些語言中缺乏遵循數據的高質量說明。直接將英語範例翻譯成這些語言可能是一種解決方案，但不可靠，會導致回應出現翻譯錯誤，並且缺乏特定語言或文化知識。為了解決這個問題，我們提出了一種新方法來構建跨語言說明，遵循英語中的說明和資源匱乏語言中的回應。具體來說，語言模型首先學習根據其他語言中的自然網頁文字生成適當的英語說明作為回應。候選跨語言說明調整樣本進一步得到完善和多樣化。我們使用這種方法在 10 種語言上構建了一個大型跨語言說明調整數據集，即 X-Instruction。使用我們的語言構建的說明數據與天真的翻譯方法相比，融入了更多特定語言的知識。實驗結果表明，在 X-Instruction 上調整的模型的響應質量大大超過從強大的教師模型中提取的模型，達到或甚至超過 ChatGPT 的模型。此外，我們發現根據跨語言說明調整後的模型可以遵循輸出語言中的說明，而無需進一步調整。
 

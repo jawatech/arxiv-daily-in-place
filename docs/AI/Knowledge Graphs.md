@@ -2,6 +2,7 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
 |**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
 |**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v1](http://arxiv.org/abs/2405.20233v1)|[link](https://github.com/ironjr/grokfast)|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
@@ -101,9 +102,30 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193v1](http://arxiv.org/abs/2404.16193v1)|null|
 |**2024-04-24**|**From Local to Global: A Graph RAG Approach to Query-Focused Summarization**|Darren Edge et.al.|[2404.16130v1](http://arxiv.org/abs/2404.16130v1)|null|
 |**2024-04-24**|**KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction**|Jack Boylan et.al.|[2404.15923v1](http://arxiv.org/abs/2404.15923v1)|null|
-|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
 
 #### Abstracts
+##### **Joint Embeddings for Graph Instruction Tuning**
+2405.20684v1 by Vlad Argatu, Aaron Haag, Oliver Lohse
+
+Large Language Models (LLMs) have achieved impressive performance in text
+understanding and have become an essential tool for building smart assistants.
+Originally focusing on text, they have been enhanced with multimodal
+capabilities in recent works that successfully built visual instruction
+following assistants. As far as the graph modality goes, however, no such
+assistants have yet been developed. Graph structures are complex in that they
+represent relation between different features and are permutation invariant.
+Moreover, representing them in purely textual form does not always lead to good
+LLM performance even for finetuned models. As a result, there is a need to
+develop a new method to integrate graphs in LLMs for general graph
+understanding. This work explores the integration of the graph modality in LLM
+for general graph instruction following tasks. It aims at producing a deep
+learning model that enhances an underlying LLM with graph embeddings and trains
+it to understand them and to produce, given an instruction, an answer grounded
+in the graph representation. The approach performs significantly better than a
+graph to text approach and remains consistent even for larger graphs.
+
+摘要：大型語言模型 (LLM) 在文字理解方面取得令人驚艷的表現，並已成為建構智慧助理的必要工具。原本專注於文字，它們在近期的作品中已透過多模式功能得到加強，成功建構出視覺指令追蹤助理。然而，就圖形模式而言，目前尚未開發出此類助理。圖形結構很複雜，在於它們表示不同特徵之間的關係，且具有排列不變性。此外，即使對於微調模型，將它們表示成純粹的文字形式並非總是能帶來良好的 LLM 效能。因此，需要開發一種新方法，將圖形整合到 LLM 中，以進行一般的圖形理解。本研究探討 LLM 中圖形模式的整合，以進行一般的圖形指令追蹤任務。其目標是產生一個深度學習模型，透過圖形嵌入增強基礎 LLM，並訓練它了解圖形嵌入，並根據指令產生以圖形表示為基礎的答案。此方法的表現顯著優於文字到文字的方法，即使對於較大的圖形也能保持一致性。
+
 ##### **KerasCV and KerasNLP: Vision and Language Power-Ups**
 2405.20247v2 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
 
@@ -2533,34 +2555,4 @@ combination of model-intrinsic knowledge, user-supplied context, and agents
 capable of external knowledge retrieval.
 
 摘要：本研究探討使用大型語言模型 (LLM) 自動評估知識圖譜 (KG) 完成模型。歷來，驗證 KG 中的資訊是一項艱鉅的任務，需要大量的人工標註，成本高昂。隨著通用生成式 AI 和 LLM 的出現，現在有可能用生成式代理取代人工迴圈驗證。我們引入了一個架構，用於在使用生成式模型驗證知識圖譜時確保一致性和驗證。我們的架構基於最近的結構化和語義驗證 LLM 輸出的開源開發，以及靈活的事實查核和驗證方法，並由參考任何種類的外部知識來源的能力所支援。此設計易於調整和擴充，且可透過結合模型內在知識、使用者提供的內容以及能夠擷取外部知識的代理，來驗證任何類型的圖形結構化資料。
-
-##### **Graph Machine Learning in the Era of Large Language Models (LLMs)**
-2404.14928v1 by Wenqi Fan, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li
-
-Graphs play an important role in representing complex relationships in
-various domains like social networks, knowledge graphs, and molecular
-discovery. With the advent of deep learning, Graph Neural Networks (GNNs) have
-emerged as a cornerstone in Graph Machine Learning (Graph ML), facilitating the
-representation and processing of graph structures. Recently, LLMs have
-demonstrated unprecedented capabilities in language tasks and are widely
-adopted in a variety of applications such as computer vision and recommender
-systems. This remarkable success has also attracted interest in applying LLMs
-to the graph domain. Increasing efforts have been made to explore the potential
-of LLMs in advancing Graph ML's generalization, transferability, and few-shot
-learning ability. Meanwhile, graphs, especially knowledge graphs, are rich in
-reliable factual knowledge, which can be utilized to enhance the reasoning
-capabilities of LLMs and potentially alleviate their limitations such as
-hallucinations and the lack of explainability. Given the rapid progress of this
-research direction, a systematic review summarizing the latest advancements for
-Graph ML in the era of LLMs is necessary to provide an in-depth understanding
-to researchers and practitioners. Therefore, in this survey, we first review
-the recent developments in Graph ML. We then explore how LLMs can be utilized
-to enhance the quality of graph features, alleviate the reliance on labeled
-data, and address challenges such as graph heterogeneity and
-out-of-distribution (OOD) generalization. Afterward, we delve into how graphs
-can enhance LLMs, highlighting their abilities to enhance LLM pre-training and
-inference. Furthermore, we investigate various applications and discuss the
-potential future directions in this promising field.
-
-摘要：圖形在表示各種領域中複雜的關係中扮演著重要的角色，例如社交網路、知識圖譜和分子發現。隨著深度學習的出現，圖神經網路 (GNN) 已成為圖形機器學習 (Graph ML) 的基石，促進圖形結構的表示和處理。最近，大型語言模型 (LLM) 在語言任務中展現了前所未有的能力，並廣泛應用於各種應用程式中，例如電腦視覺和推薦系統。這項非凡的成功也引起了將 LLM 應用於圖形領域的興趣。人們正投入越來越多的精力來探索 LLM 在提升圖形 ML 的概括化、可轉移性和少量學習能力方面的潛力。同時，圖形（尤其是知識圖譜）富含可靠的事實知識，可用於增強 LLM 的推理能力，並有可能減輕其幻覺和缺乏可解釋性等限制。鑑於此研究方向的快速進展，有必要對 LLM 時代圖形 ML 的最新進展進行系統性回顧，以向研究人員和從業者提供深入的理解。因此，在本調查中，我們首先回顧圖形 ML 的最新發展。然後，我們探討如何利用 LLM 來提升圖形特徵的品質、減輕對標籤資料的依賴，並解決圖形異質性和分布外 (OOD) 概括化等挑戰。之後，我們深入探討圖形如何增強 LLM，強調它們增強 LLM 預訓練和推理的能力。此外，我們探討各種應用程式，並討論這個有前途領域的潛在未來方向。
 

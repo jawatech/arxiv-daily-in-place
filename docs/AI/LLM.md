@@ -8,12 +8,12 @@
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
 |**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320v1](http://arxiv.org/abs/2405.20320v1)|[link](https://github.com/sangyun884/rfpp)|
-|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v1](http://arxiv.org/abs/2405.20319v1)|null|
+|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v2](http://arxiv.org/abs/2405.20319v2)|null|
 |**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318v1](http://arxiv.org/abs/2405.20318v1)|[link](https://github.com/roberto-ceraolo/causal-quest)|
 |**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|[link](https://github.com/open-compass/anah)|
 |**2024-05-30**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314v1](http://arxiv.org/abs/2405.20314v1)|null|
 |**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|null|
-|**2024-05-30**|**Group Robust Preference Optimization in Reward-free RLHF**|Shyam Sundhar Ramesh et.al.|[2405.20304v1](http://arxiv.org/abs/2405.20304v1)|null|
+|**2024-05-30**|**Group Robust Preference Optimization in Reward-free RLHF**|Shyam Sundhar Ramesh et.al.|[2405.20304v1](http://arxiv.org/abs/2405.20304v1)|[link](https://github.com/rsshyam/Group-robust-preference-optimization)|
 |**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289v1](http://arxiv.org/abs/2405.20289v1)|null|
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287v1](http://arxiv.org/abs/2405.20287v1)|[link](https://github.com/mariabankestad/se2-gnn)|
 |**2024-05-30**|**Who Writes the Review, Human or AI?**|Panagiotis C. Theocharopoulos et.al.|[2405.20285v1](http://arxiv.org/abs/2405.20285v1)|null|
@@ -22,10 +22,10 @@
 |**2024-05-30**|**ROAST: Review-level Opinion Aspect Sentiment Target Joint Detection**|Siva Uday Sampreeth Chebolu et.al.|[2405.20274v1](http://arxiv.org/abs/2405.20274v1)|null|
 |**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271v1](http://arxiv.org/abs/2405.20271v1)|[link](https://github.com/mwbini/ether)|
 |**2024-05-30**|**IsraParlTweet: The Israeli Parliamentary and Twitter Resource**|Guy Mor-Lan et.al.|[2405.20269v1](http://arxiv.org/abs/2405.20269v1)|null|
-|**2024-05-30**|**Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions**|Ruochen Zhao et.al.|[2405.20267v1](http://arxiv.org/abs/2405.20267v1)|null|
+|**2024-05-30**|**Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions**|Ruochen Zhao et.al.|[2405.20267v1](http://arxiv.org/abs/2405.20267v1)|[link](https://github.com/Auto-Arena/Auto-Arena-LLMs)|
 |**2024-05-30**|**Evaluating Large Language Model Biases in Persona-Steered Generation**|Andy Liu et.al.|[2405.20253v1](http://arxiv.org/abs/2405.20253v1)|[link](https://github.com/andyjliu/persona-steered-generation-bias)|
-|**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252v1](http://arxiv.org/abs/2405.20252v1)|null|
-|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v1](http://arxiv.org/abs/2405.20247v1)|null|
+|**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252v1](http://arxiv.org/abs/2405.20252v1)|[link](https://github.com/liuyvchi/HMAW)|
+|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
 |**2024-05-30**|**Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use**|Franz Louis Cesista et.al.|[2405.20245v1](http://arxiv.org/abs/2405.20245v1)|null|
 |**2024-05-30**|**Training-efficient density quantum machine learning**|Brian Coyle et.al.|[2405.20237v1](http://arxiv.org/abs/2405.20237v1)|null|
 |**2024-05-30**|**Context Injection Attacks on Large Language Models**|Cheng'an Wei et.al.|[2405.20234v1](http://arxiv.org/abs/2405.20234v1)|null|
@@ -38,16 +38,16 @@
 |**2024-05-30**|**PostDoc: Generating Poster from a Long Multimodal Document Using Deep Submodular Optimization**|Vijay Jaisankar et.al.|[2405.20213v1](http://arxiv.org/abs/2405.20213v1)|null|
 |**2024-05-30**|**Jina CLIP: Your CLIP Model Is Also Your Text Retriever**|Andreas Koukounas et.al.|[2405.20204v1](http://arxiv.org/abs/2405.20204v1)|null|
 |**2024-05-30**|**One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments**|Ke Yi et.al.|[2405.20202v1](http://arxiv.org/abs/2405.20202v1)|null|
-|**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192v1](http://arxiv.org/abs/2405.20192v1)|null|
+|**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192v1](http://arxiv.org/abs/2405.20192v1)|[link](https://github.com/pixas/TAIA_LLM)|
 |**2024-05-30**|**Nadine: An LLM-driven Intelligent Social Robot with Affective Capabilities and Human-like Memory**|Hangyeol Kang et.al.|[2405.20189v1](http://arxiv.org/abs/2405.20189v1)|null|
 |**2024-05-30**|**A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models**|Eduard Frankford et.al.|[2405.20183v1](http://arxiv.org/abs/2405.20183v1)|null|
 |**2024-05-30**|**Transformers and Slot Encoding for Sample Efficient Physical World Modelling**|Francesco Petri et.al.|[2405.20180v1](http://arxiv.org/abs/2405.20180v1)|[link](https://github.com/torchipeppo/transformers-and-slot-encoding-for-wm)|
 |**2024-05-30**|**Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning CodeLLMs**|Zichao Hu et.al.|[2405.20179v1](http://arxiv.org/abs/2405.20179v1)|null|
 |**2024-05-30**|**InstructionCP: A fast approach to transfer Large Language Models into target language**|Kuang-Ming Chen et.al.|[2405.20175v1](http://arxiv.org/abs/2405.20175v1)|null|
-|**2024-05-30**|**Iterative Feature Boosting for Explainable Speech Emotion Recognition**|Alaa Nfissi et.al.|[2405.20172v1](http://arxiv.org/abs/2405.20172v1)|[link](https://github.com/alaaNfissi/Iterative-Feature-Boosting-for-Explainable-Speech-Emotion-Recognition)|
+|**2024-05-30**|**Iterative Feature Boosting for Explainable Speech Emotion Recognition**|Alaa Nfissi et.al.|[2405.20172v2](http://arxiv.org/abs/2405.20172v2)|[link](https://github.com/alaaNfissi/Iterative-Feature-Boosting-for-Explainable-Speech-Emotion-Recognition)|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
 |**2024-05-30**|**Heidelberg-Boston @ SIGTYP 2024 Shared Task: Enhancing Low-Resource Language Analysis With Character-Aware Hierarchical Transformers**|Frederick Riemenschneider et.al.|[2405.20145v1](http://arxiv.org/abs/2405.20145v1)|[link](https://github.com/bowphs/sigtyp-2024-hierarchical-transformers)|
-|**2024-05-30**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhanga et.al.|[2405.20142v1](http://arxiv.org/abs/2405.20142v1)|null|
+|**2024-05-30**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhang et.al.|[2405.20142v2](http://arxiv.org/abs/2405.20142v2)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
 |**2024-05-30**|**LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics**|Niki van Stein et.al.|[2405.20132v1](http://arxiv.org/abs/2405.20132v1)|null|
 |**2024-05-30**|**Language Models Need Inductive Biases to Count Inductively**|Yingshan Chang et.al.|[2405.20131v1](http://arxiv.org/abs/2405.20131v1)|[link](https://github.com/zdxdsw/inductive_counting_with_lms)|
@@ -56,20 +56,20 @@
 |**2024-05-30**|**Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation**|Jingchang Chen et.al.|[2405.20092v1](http://arxiv.org/abs/2405.20092v1)|null|
 |**2024-05-30**|**The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities**|David Stap et.al.|[2405.20089v1](http://arxiv.org/abs/2405.20089v1)|null|
 |**2024-05-30**|**Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations**|Shivam Grover et.al.|[2405.20082v1](http://arxiv.org/abs/2405.20082v1)|null|
-|**2024-05-30**|**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**|Kai Wu et.al.|[2405.20081v1](http://arxiv.org/abs/2405.20081v1)|null|
+|**2024-05-30**|**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**|Kai Wu et.al.|[2405.20081v2](http://arxiv.org/abs/2405.20081v2)|null|
 |**2024-05-30**|**Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning**|Elena Grazia Gado et.al.|[2405.20079v1](http://arxiv.org/abs/2405.20079v1)|null|
 |**2024-05-30**|**Spectral Mapping of Singing Voices: U-Net-Assisted Vocal Segmentation**|Adam Sorrenti et.al.|[2405.20059v1](http://arxiv.org/abs/2405.20059v1)|[link](https://github.com/mbrotos/soundseg)|
-|**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053v1](http://arxiv.org/abs/2405.20053v1)|null|
+|**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053v1](http://arxiv.org/abs/2405.20053v1)|[link](https://github.com/Avelina9X/direct-preference-heads)|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046v1](http://arxiv.org/abs/2405.20046v1)|null|
 |**2024-05-30**|**Applications of Generative AI (GAI) for Mobile and Wireless Networking: A Survey**|Thai-Hoc Vu et.al.|[2405.20024v1](http://arxiv.org/abs/2405.20024v1)|null|
 |**2024-05-30**|**Safe Multi-agent Reinforcement Learning with Natural Language Constraints**|Ziyan Wang et.al.|[2405.20018v1](http://arxiv.org/abs/2405.20018v1)|null|
-|**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015v1](http://arxiv.org/abs/2405.20015v1)|null|
+|**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015v1](http://arxiv.org/abs/2405.20015v1)|[link](https://github.com/abc321123444/llm-jb)|
 |**2024-05-30**|**Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities**|Alexander Nikitin et.al.|[2405.20003v1](http://arxiv.org/abs/2405.20003v1)|null|
-|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996v1](http://arxiv.org/abs/2405.19996v1)|[link](https://github.com/RomGai/DP-IQA)|
-|**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|null|
+|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996v2](http://arxiv.org/abs/2405.19996v2)|[link](https://github.com/RomGai/DP-IQA)|
+|**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|
 |**2024-05-30**|**A Deep Reinforcement Learning Approach for Trading Optimization in the Forex Market with Multi-Agent Asynchronous Distribution**|Davoud Sarani et.al.|[2405.19982v1](http://arxiv.org/abs/2405.19982v1)|null|
 |**2024-05-30**|**A Triumvirate of AI Driven Theoretical Discovery**|Yang-Hui He et.al.|[2405.19973v1](http://arxiv.org/abs/2405.19973v1)|null|
-|**2024-05-30**|**Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**|Hossam M. Zawbaa et.al.|[2405.19967v1](http://arxiv.org/abs/2405.19967v1)|null|
+|**2024-05-30**|**Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**|Hossam M. Zawbaa et.al.|[2405.19967v2](http://arxiv.org/abs/2405.19967v2)|[link](https://github.com/Hossam-Mohammed-tech/Intent_Classification_OOS)|
 |**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957v1](http://arxiv.org/abs/2405.19957v1)|null|
 |**2024-05-30**|**HOLMES: to Detect Adversarial Examples with Multiple Detectors**|Jing Wen et.al.|[2405.19956v1](http://arxiv.org/abs/2405.19956v1)|null|
 |**2024-05-30**|**GenKubeSec: LLM-Based Kubernetes Misconfiguration Detection, Localization, Reasoning, and Remediation**|Ehud Malul et.al.|[2405.19954v1](http://arxiv.org/abs/2405.19954v1)|null|
@@ -88,18 +88,18 @@
 |**2024-05-30**|**Deciphering Human Mobility: Inferring Semantics of Trajectories with Large Language Models**|Yuxiao Luo et.al.|[2405.19850v1](http://arxiv.org/abs/2405.19850v1)|null|
 |**2024-05-30**|**Quest: Query-centric Data Synthesis Approach for Long-context Scaling of Large Language Model**|Chaochen Gao et.al.|[2405.19846v1](http://arxiv.org/abs/2405.19846v1)|null|
 |**2024-05-30**|**Improve Student's Reasoning Generalizability through Cascading Decomposed CoTs Distillation**|Chengwei Dai et.al.|[2405.19842v1](http://arxiv.org/abs/2405.19842v1)|[link](https://github.com/c-w-d/cascod)|
-|**2024-05-30**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831v1](http://arxiv.org/abs/2405.19831v1)|null|
+|**2024-05-30**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831v2](http://arxiv.org/abs/2405.19831v2)|null|
 |**2024-05-30**|**Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection**|Junqi Chen et.al.|[2405.19823v1](http://arxiv.org/abs/2405.19823v1)|null|
 |**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822v1](http://arxiv.org/abs/2405.19822v1)|null|
-|**2024-05-30**|**WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark**|Chunhui Zhang et.al.|[2405.19818v1](http://arxiv.org/abs/2405.19818v1)|null|
+|**2024-05-30**|**WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark**|Chunhui Zhang et.al.|[2405.19818v1](http://arxiv.org/abs/2405.19818v1)|[link](https://github.com/983632847/awesome-multimodal-object-tracking)|
 |**2024-05-30**|**Efficient Stimuli Generation using Reinforcement Learning in Design Verification**|Deepak Narayan Gadde et.al.|[2405.19815v1](http://arxiv.org/abs/2405.19815v1)|null|
 |**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799v1](http://arxiv.org/abs/2405.19799v1)|null|
 |**2024-05-30**|**SLM as Guardian: Pioneering AI Safety with Small Language Models**|Ohjoon Kwon et.al.|[2405.19795v1](http://arxiv.org/abs/2405.19795v1)|null|
 |**2024-05-30**|**PDDLEGO: Iterative Planning in Textual Environments**|Li Zhang et.al.|[2405.19793v1](http://arxiv.org/abs/2405.19793v1)|null|
-|**2024-05-30**|**From Symbolic Tasks to Code Generation: Diversification Yields Better Task Performers**|Dylan Zhang et.al.|[2405.19787v1](http://arxiv.org/abs/2405.19787v1)|null|
-|**2024-05-30**|**PixelsDB: Serverless and Natural-Language-Aided Data Analytics with Flexible Service Levels and Prices**|Haoqiong Bian et.al.|[2405.19784v1](http://arxiv.org/abs/2405.19784v1)|null|
+|**2024-05-30**|**From Symbolic Tasks to Code Generation: Diversification Yields Better Task Performers**|Dylan Zhang et.al.|[2405.19787v2](http://arxiv.org/abs/2405.19787v2)|null|
+|**2024-05-30**|**PixelsDB: Serverless and Natural-Language-Aided Data Analytics with Flexible Service Levels and Prices**|Haoqiong Bian et.al.|[2405.19784v1](http://arxiv.org/abs/2405.19784v1)|[link](https://github.com/pixelsdb/pixels)|
 |**2024-05-30**|**Instruction-Guided Visual Masking**|Jinliang Zheng et.al.|[2405.19783v1](http://arxiv.org/abs/2405.19783v1)|null|
-|**2024-05-30**|**Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion**|Wei Cheng et.al.|[2405.19782v1](http://arxiv.org/abs/2405.19782v1)|null|
+|**2024-05-30**|**Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion**|Wei Cheng et.al.|[2405.19782v1](http://arxiv.org/abs/2405.19782v1)|[link](https://github.com/nju-websoft/DraCo)|
 |**2024-05-30**|**Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona**|Jeiyoon Park et.al.|[2405.19778v1](http://arxiv.org/abs/2405.19778v1)|[link](https://github.com/jeiyoon/charactergpt)|
 |**2024-05-30**|**Towards Unified Multi-granularity Text Detection with Interactive Attention**|Xingyu Wan et.al.|[2405.19765v1](http://arxiv.org/abs/2405.19765v1)|null|
 
@@ -243,7 +243,7 @@ two-step settings and rivals the performance of improved consistency training
 摘要：擴散模型在影像和影片生成方面展現出極大的潛力，但從最先進的模型中進行取樣需要進行產生式 ODE 的昂貴數值積分。解決此問題的一種方法是修正流，它反覆學習較不容易受到截斷誤差影響的平滑 ODE 路徑。然而，修正流仍然需要相對大量的函數評估 (NFE)。在這項工作中，我們提出改進的修正流訓練技術，讓它們即使在低 NFE 設定下也能與知識萃取方法競爭。我們的見解在於，在現實的設定下，訓練修正流的 Reflow 演算法只需反覆運算一次就足以學習幾乎是直線的軌跡；因此，目前使用多重 Reflow 反覆運算的做法是不必要的。因此，我們提出改進修正流一輪訓練的技術，包括 U 形時間步長分佈和 LPIPS-Huber 前度量。有了這些技術，我們在 CIFAR-10 的 1 NFE 設定下，將先前 2 修正流的 FID 提升了 72%。在 ImageNet 64×64 上，我們改良的修正流在單步和兩步設定下都優於最先進的萃取方法，例如一致性萃取和漸進式萃取，並且在 FID 中與改良一致性訓練 (iCT) 的效能相匹敵。程式碼可在 https://github.com/sangyun884/rfpp 取得。
 
 ##### **ParSEL: Parameterized Shape Editing with Language**
-2405.20319v1 by Aditya Ganeshan, Ryan Y. Huang, Xianghao Xu, R. Kenny Jones, Daniel Ritchie
+2405.20319v2 by Aditya Ganeshan, Ryan Y. Huang, Xianghao Xu, R. Kenny Jones, Daniel Ritchie
 
 The ability to edit 3D assets from natural language presents a compelling
 paradigm to aid in the democratization of 3D content creation. However, while
@@ -266,7 +266,7 @@ geometric analysis. Experimentally we demonstrate ParSEL's effectiveness in
 enabling controllable editing of 3D objects through natural language requests
 over alternative system designs.
 
-摘要：透過自然語言編輯 3D 素材的能力，提供了引人注目的典範，有助於推廣 3D 內容創作的民主化。然而，雖然自然語言通常能有效傳達一般意圖，但並不適合用來指定精確的操作。為了解決這個差距，我們引入了 ParSEL，這是一個能從自然語言中控制性地編輯高品質 3D 素材的系統。給定一個分段的 3D 網格和一個編輯請求，ParSEL 會產生一個參數化的編輯程式。調整程式參數，使用者可以探索形狀變化，並精確控制編輯的幅度。為了推論與輸入編輯請求一致的編輯程式，我們利用了大型語言模型 (LLM) 的能力。然而，我們發現，雖然 LLM 在識別初始編輯操作方面表現出色，但它們通常無法推論出完整的編輯程式，而且會產生違反形狀語意的輸出。為了克服這個問題，我們引入了分析編輯傳播 (AEP)，這是一種演算法，它會用其他操作來延伸種子編輯，直到形成一個完整的編輯程式。與之前的做法不同，AEP 會透過整合電腦代數系統進行幾何分析，來搜尋與各種可能的使用者編輯相容的分析編輯操作。透過實驗，我們證明了 ParSEL 能有效地透過自然語言請求，對 3D 物件進行可控制的編輯，優於其他系統設計。
+摘要：透過自然語言編輯 3D 素材的能力，提供了一個引人注目的範例，有助於 3D 內容創作的民主化。然而，儘管自然語言通常能有效傳達一般意圖，但它不適合用於指定精確的處理。為了解決這個差距，我們引入了 ParSEL，一個系統，它能從自然語言中控制性地編輯高品質的 3D 素材。給定一個分段的 3D 網格和一個編輯請求，ParSEL 會產生一個參數化編輯程式。調整程式參數允許使用者探索形狀變化，並精確控制編輯的幅度。為了推斷與輸入編輯請求對齊的編輯程式，我們利用大型語言模型 (LLM) 的能力。然而，儘管我們發現 LLM 在識別初始編輯操作方面表現出色，但它們通常無法推斷出完整的編輯程式，並產生違反形狀語意的輸出。為了克服這個問題，我們引入了分析編輯傳播 (AEP)，一種演算法，它使用額外的操作延伸種子編輯，直到形成一個完整的編輯程式。與先前的做法不同，AEP 透過整合用於幾何分析的電腦代數系統，搜尋與各種可能的使用者編輯相容的分析編輯操作。透過實驗，我們展示了 ParSEL 在透過自然語言請求對 3D 物件進行可控編輯方面的有效性，優於其他系統設計。
 
 ##### **CausalQuest: Collecting Natural Causal Questions for AI Agents**
 2405.20318v1 by Roberto Ceraolo, Dmitrii Kharlapenko, Amélie Reymond, Rada Mihalcea, Mrinmaya Sachan, Bernhard Schölkopf, Zhijing Jin
@@ -621,7 +621,7 @@ suitable prompts, further boosting the performance of current LLMs.
 摘要：大型語言模型 (LLM) 在回應使用者問題方面已展現出極佳的進展，並允許進行大量不同的應用。然而，LLM 輸出的品質在很大程度上取決於提示設計，其中一個好的提示可能會讓 LLM 正確回答一個非常具有挑戰性的問題。因此，最近的研究已開發出許多策略來改善提示，包括手動製作和領域內最佳化。然而，它們在不受限制的情況下的效力仍有待商榷，因為前者依賴於人類針對特定問題進行設計，而後者通常無法很好地概化到未見過的場景。為了解決這些問題，我們給予 LLM 自由，讓它們根據自身設計最佳提示。具體來說，我們包含了一個 LLM 層級，首先以分層的方式建構一個包含精確說明和準確用詞的提示，然後使用這個提示來產生對使用者查詢的最終答案。我們將這個流程稱為分層多代理工作流程，或 HMAW。與先前的研究相比，HMAW 不施加任何人類限制，也不需要訓練，而且完全與任務無關，同時還能調整到底層任務的細微差別。透過多個基準的多項量化和質化實驗，我們驗證了儘管方法簡單，但提出的方法可以建立詳細且適當的提示，進一步提升當前 LLM 的效能。
 
 ##### **KerasCV and KerasNLP: Vision and Language Power-Ups**
-2405.20247v1 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit
+2405.20247v2 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
 
 We present the Keras domain packages KerasCV and KerasNLP, extensions of the
 Keras API for Computer Vision and Natural Language Processing workflows,
@@ -638,7 +638,7 @@ models, and run all preprocessing via a compiled graph of TensorFlow operations
 using the tf.data API. The libraries are fully open-source (Apache 2.0 license)
 and available on GitHub.
 
-摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，它們是 Keras API 的延伸，用於電腦視覺和自然語言處理工作流程，可以在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在實現快速實驗，重點是易用性和效能。我們採用模組化、分層設計：在程式庫最低層級的抽象中，我們提供建立模型和資料預處理管線的建構模組，在程式庫最高層級的抽象中，我們提供預先訓練好的「任務」模型，用於熱門架構，例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等。任務模型具備內建預處理、預先訓練好的權重，且可以針對原始輸入進行微調。為了實現有效率的訓練，我們支援所有模型的 XLA 編譯，並使用 tf.data API 透過 TensorFlow 作業的已編譯圖形執行所有預處理。這些程式庫完全開源（Apache 2.0 授權），並在 GitHub 上提供。
+摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，這是 Keras API 的擴充套件，適用於電腦視覺和自然語言處理工作流程，能夠在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在支援快速實驗，重點在於易用性和效能。我們採用模組化、分層設計：在程式庫最低層級的抽象化中，我們提供用於建立模型和資料預處理管線的建構模組，而在程式庫最高層級的抽象化中，我們提供熱門架構（例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等）的預先訓練「任務」模型。任務模型具有內建預處理、預先訓練權重，且可針對原始輸入進行微調。為了支援有效率的訓練，我們支援所有模型的 XLA 編譯，並透過使用 tf.data API 編譯的 TensorFlow 作業圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
 
 ##### **Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use**
 2405.20245v1 by Franz Louis Cesista, Rui Aguiar, Jason Kim, Paolo Acilo
@@ -1048,7 +1048,7 @@ instruction-following data, thereby reducing resource consumption.
 摘要：近年來，大型語言模型 (LLM) 的快速發展主要集中在英文，導致模型只能以英文回應。為了讓這些模型適應其他語言，通常採用持續預訓練 (CP)，然後進行監督微調 (SFT) 以維持對話能力。然而，CP 和 SFT 會降低模型過濾有害內容的能力。我們提出指令持續預訓練 (InsCP)，將指令標籤整合到 CP 過程中，以防止在習得新語言時喪失對話能力。我們的實驗證明，InsCP 保留了對話和人類回饋強化學習 (RLHF) 的能力。在語言對齊、可靠性和知識基準上的實證評估證實了 InsCP 的效力。值得注意的是，這種方法只需要 0.1 億個代幣的高品質遵循指令數據，從而減少了資源消耗。
 
 ##### **Iterative Feature Boosting for Explainable Speech Emotion Recognition**
-2405.20172v1 by Alaa Nfissi, Wassim Bouachir, Nizar Bouguila, Brian Mishara
+2405.20172v2 by Alaa Nfissi, Wassim Bouachir, Nizar Bouguila, Brian Mishara
 
 In speech emotion recognition (SER), using predefined features without
 considering their practical importance may lead to high dimensional datasets,
@@ -1066,7 +1066,7 @@ The proposed method outperforms human-level performance (HLP) and
 state-of-the-art machine learning methods in emotion recognition on the TESS
 dataset.
 
-摘要：在語音情緒辨識 (SER) 中，使用預定義特徵而不考慮其實際重要性可能會導致高維度資料集，其中包含冗餘且無關的資訊。因此，高維度學習通常會導致模型準確度下降，同時增加計算複雜度。我們的研究強調仔細考慮和分析特徵以建構有效 SER 系統的重要性。我們提出一個新的監督式 SER 方法，該方法基於有效特徵工程方法。我們特別注意結果的可解釋性，以評估特徵相關性並改善特徵集。這透過特徵評估迴圈反覆執行，使用 Shapley 值來提升特徵選取並改善整體架構效能。因此，我們的做法可以平衡模型效能與透明度之間的優點。所提出的方法在 TESS 資料集上的情緒辨識中優於人類等級效能 (HLP) 和最先進的機器學習方法。
+摘要：在語音情緒辨識 (SER) 中，使用預定義特徵而不考慮其實際重要性可能會導致維度過高的資料集，其中包含冗餘且不相關的資訊。因此，高維度學習通常會導致模型準確度下降，同時增加運算複雜度。我們的研究強調仔細考量並分析特徵以建立有效率的 SER 系統的重要性。我們提出一個新的監督式 SER 方法，基於一個有效率的特徵工程方法。我們特別注意結果的可解釋性，以評估特徵相關性並改善特徵集。這是透過特徵評估迴圈反覆進行，使用 Shapley 值來提升特徵選擇並改善整體架構效能。因此，我們的做法能平衡模型效能與透明度之間的優點。所提出的方法在 TESS 資料集上的情緒辨識中優於人類等級效能 (HLP) 和最先進的機器學習方法。
 
 ##### **Reasoning about concepts with LLMs: Inconsistencies abound**
 2405.20163v1 by Rosario Uceda-Sosa, Karthikeyan Natesan Ramamurthy, Maria Chang, Moninder Singh
@@ -1108,37 +1108,33 @@ https://github.com/bowphs/SIGTYP-2024-hierarchical-transformers
 摘要：歷史語言對 NLP 社群來說是一項獨特的挑戰，其中一個突出的障礙是其封閉語料庫中可用的資源有限。本文說明我們提交給 SIGTYP 2024 共享任務的受限子任務，重點在於 13 種歷史語言的詞性標記、形態標記和詞形還原。對於詞性標記和形態標記，我們採用 Sun 等人 (2023) 的階層式標記化方法，並將其與 DeBERTa-V3 架構的優點結合，讓我們的模型能夠有效率地從訓練資料中的每個字元學習。我們也展示了字元級 T5 模型在詞形還原任務上的有效性。我們的模型從有限的資料中從頭開始預先訓練，在受限子任務中獲得第一名，幾乎達到不受限任務獲勝者的效能等級。我們的程式碼可在 https://github.com/bowphs/SIGTYP-2024-hierarchical-transformers 取得
 
 ##### **MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**
-2405.20142v1 by Chao Zhanga, Weirong Cuia, Jingjing Guo
+2405.20142v2 by Chao Zhang, Weirong Cui, Jingjing Guo
 
-Background and Objectives: Monitoring sleep states is crucial for assessing
-sleep quality and diagnosing sleep disorders. Traditional manual staging
-methods are not only time-consuming but also subject to subjective judgment,
-leading to inconsistent results. This study developed an automated sleep
-staging and sleep disorder classification model through deep learning
-technology, aimed at improving diagnostic accuracy and efficiency.
-  Methods: Considering the characteristics of polysomnography (PSG) multi-lead
-sleep monitoring, we designed a sleep state classification model, MSSC-BiMamba,
-that combines an Efficient Channel Attention (ECA) mechanism with a
-Bidirectional State Space Model (BSSM). The ECA module allows for weighting
-data from different sensor channels, thereby amplifying the influence of
-diverse sensor inputs. Additionally, the implementation of mamba enables the
+Monitoring sleep states is essential for evaluating sleep quality and
+diagnosing sleep disorders. Traditional manual staging is time-consuming and
+prone to subjective bias, often resulting in inconsistent outcomes. Here, we
+developed an automated model for sleep staging and disorder classification to
+enhance diagnostic accuracy and efficiency. Considering the characteristics of
+polysomnography (PSG) multi-lead sleep monitoring, we designed a multimodal
+sleep state classification model, MSSC-BiMamba, that combines an Efficient
+Channel Attention (ECA) mechanism with a Bidirectional State Space Model
+(BSSM). The ECA module allows for weighting data from different sensor
+channels, thereby amplifying the influence of diverse sensor inputs.
+Additionally, the implementation of bidirectional Mamba (BiMamba) enables the
 model to effectively capture the multidimensional features and long-range
-dependencies of PSG data.
-  Results: The developed model demonstrated impressive performance on sleep
-stage classification tasks. Furthermore, the model exhibited an accuracy of
-0.952 for sleep health prediction when evaluated on a combined dataset
-consisting of ISRUC and Sleep-EDF.
-  Conclusion: Our model is the first to apply the bidirectional Mamba to sleep
-staging with complex PSG data, showing substantial gains in computational and
-memory efficiency over traditional Transformer-style models. This method not
-only makes health monitoring more accessible but also broadens the reach of
-advanced healthcare, thereby enhancing sleep health management with innovative
-technology.
+dependencies of PSG data. The developed model demonstrated impressive
+performance on sleep stage classification tasks on both the ISRUC-S3 and
+ISRUC-S1 datasets, respectively containing data with healthy and unhealthy
+sleep patterns. Also, the model exhibited a high accuracy for sleep health
+prediction when evaluated on a combined dataset consisting of ISRUC and
+Sleep-EDF. Our model, which can effectively handle diverse sleep conditions, is
+the first to apply BiMamba to sleep staging with multimodal PSG data, showing
+substantial gains in computational and memory efficiency over traditional
+Transformer-style models. This method enhances sleep health management by
+making monitoring more accessible and extending advanced healthcare through
+innovative technology.
 
-摘要：背景與目標：監控睡眠狀態對於評估睡眠品質和診斷睡眠障礙至關重要。傳統的人工分期方法不僅耗時，而且容易受到主觀判斷的影響，導致結果不一致。本研究通過深度學習技術開發了一種自動化睡眠分期和睡眠障礙分類模型，旨在提高診斷準確性和效率。
-方法：考慮多導睡眠描記術 (PSG) 多導程睡眠監測的特點，我們設計了一個睡眠狀態分類模型 MSSC-BiMamba，該模型將高效通道注意 (ECA) 機制與雙向狀態空間模型 (BSSM) 相結合。ECA 模塊允許對來自不同感測器通道的數據進行加權，從而放大不同感測器輸入的影響。此外，mamba 的實現使模型能夠有效捕捉 PSG 數據的多維特徵和長程依賴性。
-結果：所開發的模型在睡眠分期分類任務上表現出令人印象深刻的性能。此外，該模型在由 ISRUC 和 Sleep-EDF 組成的組合數據集上進行評估時，在睡眠健康預測方面的準確度為 0.952。
-結論：我們的模型是第一個將雙向 Mamba 應用於具有複雜 PSG 數據的睡眠分期的模型，在運算和記憶效率方面顯示出比傳統 Transformer 風格模型顯著的提升。這種方法不僅使健康監測更易於使用，而且擴大了先進醫療保健的覆蓋範圍，從而通過創新技術增強睡眠健康管理。
+摘要：監控睡眠狀態對於評估睡眠品質和診斷睡眠障礙至關重要。傳統的手動分期耗時且容易產生主觀偏見，經常導致不一致的結果。在此，我們開發了一個自動化模型，用於睡眠分期和疾病分類，以提高診斷準確性和效率。考慮到多導睡眠檢查 (PSG) 多導程睡眠監測的特徵，我們設計了一個多模態睡眠狀態分類模型 MSSC-BiMamba，它將高效通道注意 (ECA) 機制與雙向狀態空間模型 (BSSM) 結合在一起。ECA 模組允許對來自不同感測器通道的資料進行加權，從而放大不同感測器輸入的影響。此外，雙向 Mamba (BiMamba) 的實作讓模型能夠有效擷取 PSG 資料的多維特徵和長程依賴性。開發的模型在 ISRUC-S3 和 ISRUC-S1 資料集上展現出令人印象深刻的睡眠分期分類任務效能，這些資料集分別包含健康和不健康的睡眠模式資料。此外，在由 ISRUC 和 Sleep-EDF 組成的合併資料集上進行評估時，該模型展現出很高的睡眠健康預測準確度。我們的模型可以有效處理不同的睡眠狀況，是第一個將 BiMamba 應用於具有多模態 PSG 資料的睡眠分期的模型，在運算和記憶體效率方面展現出比傳統 Transformer 風格模型更顯著的進步。這種方法透過讓監控更容易取得，並透過創新技術擴展先進的醫療保健，進而增強睡眠健康管理。
 
 ##### **GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**
 2405.20139v1 by Costas Mavromatis, George Karypis
@@ -1349,7 +1345,7 @@ https://github.com/shivam-grover/S3-TimeSeries .
 摘要：現有的時間序列表示學習方法保持時間步驟的時間順序完整，假設原始順序最適合學習。然而，現實世界時間序列的非相鄰部分可能具有很強的依賴性。因此，我們提出了問題：時間序列是否存在替代排列，可以實現更有效的表示學習？為了解決這個問題，我們提出了一種稱為分段、洗牌和拼接 (S3) 的簡單即插即用機制，旨在改善現有模型的時間序列表示學習。S3 通過從原始序列創建非重疊段並以對手頭任務最優化的學習方式對它們進行洗牌來工作。然後，它將洗牌的段重新附接在一起，並與原始輸入執行學習加權和，以捕獲新洗牌的序列和原始序列。S3 是模組化的，可以堆疊以創建不同程度的粒度，並且可以添加到許多形式的神經架構中，包括 CNN 或 Transformer，而計算開銷可以忽略不計。通過對幾個數據集和最先進的基線進行廣泛的實驗，我們表明整合 S3 可以顯著改善時間序列分類和預測任務，在某些數據集上的效能提升高達 68%。我們還表明，與原始基線相比，S3 使學習更穩定，具有更平滑的訓練損失曲線和損失狀況。程式碼可在 https://github.com/shivam-grover/S3-TimeSeries 取得。
 
 ##### **NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**
-2405.20081v1 by Kai Wu, Boyuan Jiang, Zhengkai Jiang, Qingdong He, Donghao Luo, Shengzhi Wang, Qingwen Liu, Chengjie Wang
+2405.20081v2 by Kai Wu, Boyuan Jiang, Zhengkai Jiang, Qingdong He, Donghao Luo, Shengzhi Wang, Qingwen Liu, Chengjie Wang
 
 Multimodal large language models (MLLMs) contribute a powerful mechanism to
 understanding visual information building on large language models. However,
@@ -1370,7 +1366,7 @@ dense caption accuracy by 8.1% with human evaluation and achieves comparable
 results with 50% of the data by mining unlabeled data. Code and models are
 available at https://kaiwu5.github.io/noiseboost.
 
-摘要：多模态大型语言模型 (MLLM) 为基于大型语言模型理解视觉信息提供了一种强大的机制。然而，MLLM 以出现幻觉而著称，尤其是在为图像生成冗长且详细的描述时。我们的分析表明，幻觉源于大型语言模型固有的总结机制，导致过度依赖语言标记，而忽略了视觉信息。在本文中，我们提出了 NoiseBoost，这是一种广泛适用且简单的方法，可通过整合噪声特征扰动来减轻 MLLM 的幻觉。噪声扰动充当正则化器，促进了视觉和语言标记之间注意力权重的平衡分布。尽管其简单性，但 NoiseBoost 始终增强了 MLLM 在常见训练策略中的表现，包括监督微调和强化学习。此外，NoiseBoost 开创性地支持 MLLM 的半监督学习，释放了未标记数据的强大功能。综合实验表明，NoiseBoost 通过人工评估将密集字幕的准确性提高了 8.1%，并通过挖掘未标记数据以 50% 的数据量实现了可比的结果。代码和模型可在 https://kaiwu5.github.io/noiseboost 获得。
+摘要：多模态大型语言模型 (MLLM) 为基于大型语言模型构建视觉信息理解提供了一种强大的机制。然而，MLLM 以出现幻觉而臭名昭著，尤其是在为图像生成冗长、详细的描述时。我们的分析表明，幻觉源于大型语言模型固有的总结机制，导致过度依赖语言标记而忽略视觉信息。在本文中，我们提出了 NoiseBoost，这是一种广泛适用且简单的方法，可通过集成噪声特征扰动来减轻 MLLM 的幻觉。噪声扰动充当正则化器，促进了视觉和语言标记之间注意力权重的平衡分布。尽管 NoiseBoost 很简单，但它始终如一地提高了 MLLM 在常见训练策略（包括监督微调和强化学习）中的性能。此外，NoiseBoost 开创性地实现了 MLLM 的半监督学习，释放了未标记数据的强大功能。综合实验表明，NoiseBoost 通过人工评估将密集式字幕准确度提高了 8.1%，并且通过挖掘未标记数据，使用 50% 的数据实现了相当的结果。代码和模型可在 https://kaiwu5.github.io/noiseboost 获得。
 
 ##### **Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning**
 2405.20079v1 by Elena Grazia Gado, Tommaso Martorella, Luca Zunino, Paola Mejia-Domenzain, Vinitra Swamy, Jibril Frej, Tanja Käser
@@ -1571,7 +1567,7 @@ multiple natural language generation datasets and LLM architectures.
 摘要：在大型语言模型 (LLM) 中量化不确定性对于安全性和可靠性至关重要的应用程序至关重要。具体而言，不确定性可用于通过检测事实错误的模型响应（通常称为幻觉）来提高 LLM 的可信度。至关重要的是，人们应该寻求捕捉模型的语义不确定性，即对 LLM 输出的含义的不确定性，而不是对不影响答案正确性的词法或句法变异的不确定性。为了解决这个问题，我们提出了核语言熵 (KLE)，这是一种用于白盒和黑盒 LLM 中不确定性估计的新方法。KLE 定义正半定单位迹核来编码 LLM 输出的语义相似性，并使用冯诺依曼熵量化不确定性。它考虑答案（或语义簇）之间的成对语义依赖关系，比基于答案硬聚类的先前方法提供了更细粒度的不确定性估计。我们从理论上证明，KLE 概括了以前称为语义熵的最新方法，并通过实验证明，它提高了跨多个自然语言生成数据集和 LLM 架构的不确定性量化性能。
 
 ##### **DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**
-2405.19996v1 by Honghao Fu, Yufei Wang, Wenhan Yang, Bihan Wen
+2405.19996v2 by Honghao Fu, Yufei Wang, Wenhan Yang, Bihan Wen
 
 Image quality assessment (IQA) plays a critical role in selecting
 high-quality images and guiding compression and enhancement methods in a series
@@ -1597,7 +1593,7 @@ results on various in-the-wild datasets with better generalization capability,
 which shows the superiority of our method in global modeling and utilizing the
 hierarchical feature clues of diffusion for evaluating image quality.
 
-摘要：<paragraph>影像品質評估 (IQA) 在一系列應用中扮演著挑選高品質影像和引導壓縮與增強方法的重要角色。盲式 IQA 評估包含複雜真實失真的野外影像品質，而沒有參考影像，這帶來了更大的挑戰。現有方法僅限於使用區域性區塊建模均勻分佈，並且受到低階與高階視覺之間的差距所困擾（由廣泛採用的預先訓練分類網路所造成）。在本文中，我們提出了一種稱為擴散先驗 IQA (DP-IQA) 的創新 IQA 方法，它利用預先訓練擴散模型的先驗知識，並具備優秀的能力，可以彌合影像視覺品質感知中的語意差距。具體來說，我們使用預先訓練的穩定擴散作為主幹，從升採樣過程中特定時間步長的去噪 U-Net 中萃取多層級特徵，並將其解碼以估計影像品質評分。文本和影像適配器用於降低下游任務的領域差距，並修正變異自動編碼器瓶頸所造成的資訊遺失。最後，我們將上述模型中的知識萃取到基於 CNN 的學生模型中，大幅減少參數以增強適用性，而學生模型的表現令人驚訝地與教師模型類似，甚至更好。實驗結果證明，我們的 DP-IQA 在各種野外資料集上達到了最先進的結果，並具備更好的泛化能力，這顯示了我們的方法在整體建模和利用擴散的階層式特徵線索來評估影像品質方面的優越性。</paragraph>
+摘要：影像品質評估 (IQA) 在選擇高品質影像並引導一系列應用中的壓縮和增強方法中扮演關鍵角色。盲測 IQA 評估包含複雜真實失真的野生影像品質，而沒有參考影像，這提出了更大的挑戰。現有方法僅限於使用局部區塊建模均勻分佈，並受到低階和高階視覺之間的差距（由廣泛採用的預訓練分類網路造成）的困擾。在本文中，我們提出一個名為擴散先驗基礎 IQA (DP-IQA) 的新穎 IQA 方法，它利用預訓練擴散模型的先驗知識，並具備優秀的能力，可以彌合影像視覺品質感知中的語義差距。具體來說，我們使用預訓練的穩定擴散作為主幹，在特定時間步長的上採樣過程中從去噪 U-Net 中提取多層級特徵，並將它們解碼以估計影像品質分數。採用文字和影像適配器來減輕下游任務的領域差距，並修正變異自動編碼器瓶頸造成的資訊損失。最後，我們將上述模型中的知識提煉到基於 CNN 的學生模型中，大幅減少參數以增強適用性，令人驚訝的是，學生模型的表現與教師模型相似甚至更好。實驗結果證明，我們的 DP-IQA 在各種野生資料集上達成最先進的結果，並具有更好的泛化能力，這顯示了我們的方法在整體建模和利用擴散的階層式特徵線索來評估影像品質方面的優越性。
 
 ##### **Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**
 2405.19988v1 by Minttu Alakuijala, Reginald McLean, Isaac Woungang, Nariman Farsad, Samuel Kaski, Pekka Marttinen, Kai Yuan
@@ -1679,7 +1675,7 @@ theoretical discovery.
 摘要：近年來，人工智慧演算法在純數學和理論物理等基礎科學中的應用大幅增加。這或許有違直覺，因為數學科學需要嚴謹的定義、推導和證明，這與依賴於誤差範圍數據建模的實驗科學形成對比。在這個觀點中，我們將數學發現的方法歸類為「自上而下」、「自下而上」和「元數學」，靈感來自歷史範例。我們回顧過去幾年的部分進展，比較並對比每種方法的進步和缺點。我們認為，儘管理論家在不久的將來絕不會被人工智慧取代，但人類專家和人工智慧演算法的結合將成為理論發現中不可或缺的一部分。
 
 ##### **Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification**
-2405.19967v1 by Hossam M. Zawbaa, Wael Rashwan, Sourav Dutta, Haytham Assem
+2405.19967v2 by Hossam M. Zawbaa, Wael Rashwan, Sourav Dutta, Haytham Assem
 
 Detecting out-of-scope user utterances is essential for task-oriented
 dialogues and intent classification. Current methodologies face difficulties
@@ -1700,9 +1696,9 @@ datasets demonstrate DETER's efficacy. Our model outperforms previous
 benchmarks, increasing up to 13% and 5% in F1 score for known and unknown
 intents on CLINC-150 and Stackoverflow, and 16% for known and 24% % for unknown
 intents on Banking77. The source code has been released at
-https://github.com/Hossam-Mohammed-tech/Intent\_Classification\_OOS.
+https://github.com/Hossam-Mohammed-tech/Intent_Classification_OOS.
 
-摘要：<paragraph>偵測超出範圍的使用者話語對於任務導向對話和意圖分類至關重要。目前的技術方法面臨難以預測的異常值分佈，且經常依賴於資料分佈的假設。我們提出基於門檻值的重新分類 (DETER) 的雙編碼器來解決這些挑戰。此端對端架構有效地偵測超出範圍的意圖，而不需要對資料分佈或額外的後處理步驟做出假設。DETER 的核心利用雙重文字編碼器，通用句子編碼器 (USE) 和基於 Transformer 的去雜訊自動編碼器 (TSDAE)，來產生使用者話語嵌入，這些嵌入透過分支神經架構進行分類。此外，DETER 使用自我監督產生合成異常值，並納入來自開放領域資料集的超出範圍詞組。此方法確保了超出範圍偵測的全面訓練集。此外，基於門檻值的重新分類機制可改善模型的初始預測。在 CLINC-150、Stackoverflow 和 Banking77 資料集上的評估顯示了 DETER 的效能。我們的模型優於先前的基準，在 CLINC-150 和 Stackoverflow 上已知和未知意圖的 F1 分數提高了 13% 和 5%，在 Banking77 上已知和未知意圖的 F1 分數提高了 16% 和 24%。原始碼已在 https://github.com/Hossam-Mohammed-tech/Intent\_Classification\_OOS 發布。</paragraph>
+摘要：偵測超出範圍的使用者話語對於任務導向式對話和意圖分類至關重要。目前的技術方法面臨難以預測異常值的分布，而且經常依賴於資料分佈的假設。我們提出基於門檻值的重新分類雙編碼器 (DETER) 來解決這些挑戰。這個端對端的架構有效偵測超出範圍的意圖，而不需要對資料分佈或額外的後處理步驟進行假設。DETER 的核心利用雙文本編碼器，通用句子編碼器 (USE) 和基於 Transformer 的去噪自動編碼器 (TSDAE)，來產生使用者話語嵌入，並透過分支神經架構進行分類。此外，DETER 使用自我監督產生合成異常值，並納入來自開放領域資料集的超出範圍詞組。這種方法確保了超出範圍偵測的全面訓練集。此外，基於門檻值的重新分類機制可改善模型的初始預測。在 CLINC-150、Stackoverflow 和 Banking77 資料集上的評估證明了 DETER 的效能。我們的模型優於先前的基準，在 CLINC-150 和 Stackoverflow 上已知和未知意圖的 F1 分數分別提高了 13% 和 5%，在 Banking77 上已知和未知意圖的 F1 分數分別提高了 16% 和 24%。原始碼已發布在 https://github.com/Hossam-Mohammed-tech/Intent_Classification_OOS。
 
 ##### **PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**
 2405.19957v1 by Qiaowei Miao, Yawei Luo, Yi Yang
@@ -2163,7 +2159,7 @@ https://github.com/C-W-D/CasCoD.
 摘要：大型語言模型 (LLM) 在較大的規模上表現出增強的推理能力，推動了透過教師學生學習將這些能力轉化為較小模型的努力。先前的作品僅針對教師產生的思維鏈 (CoT) 資料微調學生模型。儘管這些方法增強了領域內 (IND) 推理效能，但它們難以概化到領域外 (OOD) 任務。我們相信問題與答案之間廣泛的虛假關聯可能導致模型預設特定答案，這會限制其推理過程的多樣性和概化性。在本文中，我們提出串聯分解 CoT 蒸餾 (CasCoD) 來解決這些問題，方法是將傳統的單步驟學習過程分解為兩個串聯的學習步驟。具體來說，透過重新建構訓練目標（從輸出中移除答案並將問題與依據串聯為輸入），CasCoD 的兩步驟學習過程確保學生專注於學習依據，不受預設答案的干擾，從而提高推理概化性。廣泛的實驗證明了 CasCoD 在 IND 和 OOD 基準推理資料集上的有效性。程式碼可在 https://github.com/C-W-D/CasCoD 找到。
 
 ##### **Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**
-2405.19831v1 by Stephen Meisenbacher, Florian Matthes
+2405.19831v2 by Stephen Meisenbacher, Florian Matthes
 
 The study of Differential Privacy (DP) in Natural Language Processing often
 views the task of text privatization as a $\textit{rewriting}$ task, in which
@@ -2175,14 +2171,14 @@ information (e.g., gender) about the author behind a (privatized) text. Looking
 to improve the empirical protections provided by DP rewriting methods, we
 propose a simple post-processing method based on the goal of aligning rewritten
 texts with their original counterparts, where DP rewritten texts are rewritten
-$\textit{again}$. Our results shown that such an approach not only produces
+$\textit{again}$. Our results show that such an approach not only produces
 outputs that are more semantically reminiscent of the original inputs, but also
 texts which score on average better in empirical privacy evaluations.
 Therefore, our approach raises the bar for DP rewriting methods in their
 empirical privacy evaluations, providing an extra layer of protection against
 malicious adversaries.
 
-摘要：在自然語言處理中，差分隱私 (DP) 的研究通常將文本私有化的任務視為「改寫」任務，其中敏感的輸入文本會被改寫以隱藏明確或隱含的私人資訊。為了評估 DP 文字改寫機制的隱私保護能力，通常會採用「經驗隱私」測試。在這些測試中，會模擬一個對手，其目標是推斷出（已私有化）文字背後作者的敏感資訊（例如性別）。為了改善 DP 改寫方法提供的經驗保護，我們提出一個簡單的後處理方法，其基礎是將改寫後的文字與其原始對應文字對齊，其中 DP 改寫後的文字會再次被改寫。我們的結果顯示，這種方法不僅產生在語意上更能讓人聯想到原始輸入的輸出，而且在經驗隱私評估中平均得分也較高的文字。因此，我們的做法提高了 DP 改寫方法在其經驗隱私評估中的標準，提供了一層額外的防護，以對抗惡意的對手。
+摘要：在自然語言處理中，差分隱私 (DP) 的研究通常將文本私密化的任務視為「改寫」任務，其中敏感的輸入文本會被改寫以隱藏明確或隱含的私人資訊。為了評估 DP 文字改寫機制的隱私保護能力，經常會採用「經驗隱私」測試。在這些測試中，會模擬一個對手，目標是推論出（已私有化）文字背後作者的敏感資訊（例如性別）。為了改善 DP 改寫方法提供的經驗保護，我們提出了一種簡單的後處理方法，其基礎是將改寫後的文字與其原始對應文字對齊，其中 DP 改寫的文字會「再次」改寫。我們的結果顯示，這種方法不僅會產生在語意上更讓人聯想到原始輸入的輸出，而且在經驗隱私評估中平均得分也較高的文字。因此，我們的做法提高了 DP 改寫方法在經驗隱私評估中的標準，提供了對抗惡意對手的額外一層保護。
 
 ##### **Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection**
 2405.19823v1 by Junqi Chen, Xu Tan, Sylwan Rahardja, Jiawei Yang, Susanto Rahardja
@@ -2362,7 +2358,7 @@ generate coherent plans (4%).
 摘要：即使對於當前模型而言，在文字環境中進行規劃已被證明是一項長期的挑戰。最近一條有前景的工作線路使用 LLM 來生成環境的形式化表示，符號規劃器可以解決該表示。然而，現有方法依賴於完全觀察到的環境，其中所有實體狀態最初都是已知的，因此可以構造一次性表示，從而導致一個完整的計畫。相比之下，我們解決部分觀察到的環境，其中最初沒有足夠的資訊來規劃最終目標。我們提出 PDDLEGO，它反覆建構一個規劃表示，該表示可以為給定的子目標產生部分計畫。通過完成子目標，可以獲取更多資訊來擴充表示，最終實現最終目標。我們表明，在 Coin Collector 模擬中，少次 PDDLEGO 產生的計畫比端到端生成計畫的效率高出 43%，在更複雜的 Cooking World 模擬中具有強勁的效能 (98%)，而端到端 LLM 無法產生連貫的計畫 (4%)。
 
 ##### **From Symbolic Tasks to Code Generation: Diversification Yields Better Task Performers**
-2405.19787v1 by Dylan Zhang, Justin Wang, Francois Charton
+2405.19787v2 by Dylan Zhang, Justin Wang, Francois Charton
 
 Instruction tuning -- tuning large language models on instruction-output
 pairs -- is a promising technique for making models better adapted to the real
@@ -2380,7 +2376,7 @@ of code generation. Our observations suggest that a more diverse semantic space
 for instruction-tuning sets greatly improves the model's ability to follow
 instructions and perform tasks.
 
-摘要：指令微調，即針對指令輸出對微調大型語言模型，是一種有望讓模型更適應真實世界的技術。然而，驅動模型理解和遵循訓練期間未見過之指令的能力之關鍵因素仍未被充分探討。我們的調查始於在稱為馬可夫演算法的圖靈完備演算法的理論架構內進行一系列的合成實驗，這允許對指令微調資料進行細微控制。儘管每個任務提供的範例極少，但只要提供足夠多樣化的任務組，就能在訓練分佈方面產生概括性和強健性。我們將這些初步結果延伸至程式碼生成的實際應用場景，並發現更為多樣化的指令組（擴展至與程式碼相關的任務之外）能提升程式碼生成的效能。我們的觀察結果顯示，指令微調組的語意空間越多元，就能大幅提升模型遵循指令和執行任務的能力。
+摘要：指令微調——針對指令輸出對微調大型語言模型——是一種很有前景的技術，可以讓模型更適應真實世界。然而，驅動模型理解和遵循訓練期間未見過的指令的能力的主要因素仍未得到充分探討。我們的調查從一組在稱為馬可夫演算法的圖靈完備演算法的理論框架內的合成實驗開始，該演算法允許對指令微調資料進行細微的控制。即使每個任務提供的範例很少，只要提供足夠多樣化的任務集，就會出現關於訓練分佈的概化和穩健性。我們將這些初步結果擴展到程式碼生成的實際應用場景，發現一個更為多樣化的指令集，擴展到與程式碼相關的任務之外，可以改善程式碼生成的效能。我們的觀察結果表明，指令微調集的語義空間越多元化，模型遵循指令和執行任務的能力就會大大提高。
 
 ##### **PixelsDB: Serverless and Natural-Language-Aided Data Analytics with Flexible Service Levels and Prices**
 2405.19784v1 by Haoqiong Bian, Dongyang Geng, Haoyang Li, Anastasia Ailamaki

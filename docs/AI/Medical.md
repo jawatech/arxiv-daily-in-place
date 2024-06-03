@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhanga et.al.|[2405.20142v1](http://arxiv.org/abs/2405.20142v1)|null|
+|**2024-05-30**|**MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**|Chao Zhang et.al.|[2405.20142v2](http://arxiv.org/abs/2405.20142v2)|null|
 |**2024-05-30**|**Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction**|Taisei Tosaki et.al.|[2405.19864v1](http://arxiv.org/abs/2405.19864v1)|null|
 |**2024-05-30**|**Dynamic feature selection in medical predictive monitoring by reinforcement learning**|Yutong Chen et.al.|[2405.19729v1](http://arxiv.org/abs/2405.19729v1)|null|
 |**2024-05-30**|**Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**|Jinxia Yang et.al.|[2405.19654v1](http://arxiv.org/abs/2405.19654v1)|[link](https://github.com/svt-yang/medst)|
@@ -50,9 +50,9 @@
 |**2024-05-24**|**Efficient Reinforcement Learning via Large Language Model-based Search**|Siddhant Bhambri et.al.|[2405.15194v1](http://arxiv.org/abs/2405.15194v1)|null|
 |**2024-05-24**|**Deep Activity Model: A Generative Approach for Human Mobility Pattern Synthesis**|Xishun Liao et.al.|[2405.17468v1](http://arxiv.org/abs/2405.17468v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
-|**2024-05-23**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696v2](http://arxiv.org/abs/2405.14696v2)|null|
+|**2024-05-23**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696v2](http://arxiv.org/abs/2405.14696v2)|[link](https://github.com/mitdbg/palimpzest)|
 |**2024-05-23**|**Efficient Medical Question Answering with Knowledge-Augmented Question Generation**|Julien Khlaut et.al.|[2405.14654v1](http://arxiv.org/abs/2405.14654v1)|null|
-|**2024-05-23**|**Concept Visualization: Explaining the CLIP Multi-modal Embedding Using WordNet**|Loris Giulivi et.al.|[2405.14563v1](http://arxiv.org/abs/2405.14563v1)|null|
+|**2024-05-23**|**Concept Visualization: Explaining the CLIP Multi-modal Embedding Using WordNet**|Loris Giulivi et.al.|[2405.14563v1](http://arxiv.org/abs/2405.14563v1)|[link](https://github.com/loris2222/concept-visualization)|
 |**2024-05-23**|**Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study**|Lena Schmidt et.al.|[2405.14445v1](http://arxiv.org/abs/2405.14445v1)|null|
 |**2024-05-23**|**Unraveling overoptimism and publication bias in ML-driven science**|Pouria Saidi et.al.|[2405.14422v1](http://arxiv.org/abs/2405.14422v1)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230v1](http://arxiv.org/abs/2405.14230v1)|null|
@@ -70,7 +70,7 @@
 |**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701v1](http://arxiv.org/abs/2405.12701v1)|[link](https://github.com/dmis-lab/olaph)|
 |**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630v1](http://arxiv.org/abs/2405.12630v1)|null|
 |**2024-05-21**|**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**|Bufang Yang et.al.|[2405.12541v1](http://arxiv.org/abs/2405.12541v1)|null|
-|**2024-05-21**|**A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis**|Haocong Rao et.al.|[2405.13082v1](http://arxiv.org/abs/2405.13082v1)|null|
+|**2024-05-21**|**A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis**|Haocong Rao et.al.|[2405.13082v1](http://arxiv.org/abs/2405.13082v1)|[link](https://github.com/kali-hac/ai4ndd-survey)|
 |**2024-05-21**|**Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity**|Pat Pataranutaporn et.al.|[2405.12514v2](http://arxiv.org/abs/2405.12514v2)|null|
 |**2024-05-20**|**Ensuring Ground Truth Accuracy in Healthcare with the EVINCE framework**|Edward Y. Chang et.al.|[2405.15808v2](http://arxiv.org/abs/2405.15808v2)|null|
 |**2024-05-20**|**Digital Health and Indoor Air Quality: An IoT-Driven Human-Centred Visualisation Platform for Behavioural Change and Technology Acceptance**|Rameez Raja Kureshi et.al.|[2405.13064v1](http://arxiv.org/abs/2405.13064v1)|null|
@@ -105,37 +105,33 @@
 
 #### Abstracts
 ##### **MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**
-2405.20142v1 by Chao Zhanga, Weirong Cuia, Jingjing Guo
+2405.20142v2 by Chao Zhang, Weirong Cui, Jingjing Guo
 
-Background and Objectives: Monitoring sleep states is crucial for assessing
-sleep quality and diagnosing sleep disorders. Traditional manual staging
-methods are not only time-consuming but also subject to subjective judgment,
-leading to inconsistent results. This study developed an automated sleep
-staging and sleep disorder classification model through deep learning
-technology, aimed at improving diagnostic accuracy and efficiency.
-  Methods: Considering the characteristics of polysomnography (PSG) multi-lead
-sleep monitoring, we designed a sleep state classification model, MSSC-BiMamba,
-that combines an Efficient Channel Attention (ECA) mechanism with a
-Bidirectional State Space Model (BSSM). The ECA module allows for weighting
-data from different sensor channels, thereby amplifying the influence of
-diverse sensor inputs. Additionally, the implementation of mamba enables the
+Monitoring sleep states is essential for evaluating sleep quality and
+diagnosing sleep disorders. Traditional manual staging is time-consuming and
+prone to subjective bias, often resulting in inconsistent outcomes. Here, we
+developed an automated model for sleep staging and disorder classification to
+enhance diagnostic accuracy and efficiency. Considering the characteristics of
+polysomnography (PSG) multi-lead sleep monitoring, we designed a multimodal
+sleep state classification model, MSSC-BiMamba, that combines an Efficient
+Channel Attention (ECA) mechanism with a Bidirectional State Space Model
+(BSSM). The ECA module allows for weighting data from different sensor
+channels, thereby amplifying the influence of diverse sensor inputs.
+Additionally, the implementation of bidirectional Mamba (BiMamba) enables the
 model to effectively capture the multidimensional features and long-range
-dependencies of PSG data.
-  Results: The developed model demonstrated impressive performance on sleep
-stage classification tasks. Furthermore, the model exhibited an accuracy of
-0.952 for sleep health prediction when evaluated on a combined dataset
-consisting of ISRUC and Sleep-EDF.
-  Conclusion: Our model is the first to apply the bidirectional Mamba to sleep
-staging with complex PSG data, showing substantial gains in computational and
-memory efficiency over traditional Transformer-style models. This method not
-only makes health monitoring more accessible but also broadens the reach of
-advanced healthcare, thereby enhancing sleep health management with innovative
-technology.
+dependencies of PSG data. The developed model demonstrated impressive
+performance on sleep stage classification tasks on both the ISRUC-S3 and
+ISRUC-S1 datasets, respectively containing data with healthy and unhealthy
+sleep patterns. Also, the model exhibited a high accuracy for sleep health
+prediction when evaluated on a combined dataset consisting of ISRUC and
+Sleep-EDF. Our model, which can effectively handle diverse sleep conditions, is
+the first to apply BiMamba to sleep staging with multimodal PSG data, showing
+substantial gains in computational and memory efficiency over traditional
+Transformer-style models. This method enhances sleep health management by
+making monitoring more accessible and extending advanced healthcare through
+innovative technology.
 
-摘要：背景與目標：監控睡眠狀態對於評估睡眠品質和診斷睡眠障礙至關重要。傳統的人工分期方法不僅耗時，而且容易受到主觀判斷的影響，導致結果不一致。本研究通過深度學習技術開發了一種自動化睡眠分期和睡眠障礙分類模型，旨在提高診斷準確性和效率。
-方法：考慮多導睡眠描記術 (PSG) 多導程睡眠監測的特點，我們設計了一個睡眠狀態分類模型 MSSC-BiMamba，該模型將高效通道注意 (ECA) 機制與雙向狀態空間模型 (BSSM) 相結合。ECA 模塊允許對來自不同感測器通道的數據進行加權，從而放大不同感測器輸入的影響。此外，mamba 的實現使模型能夠有效捕捉 PSG 數據的多維特徵和長程依賴性。
-結果：所開發的模型在睡眠分期分類任務上表現出令人印象深刻的性能。此外，該模型在由 ISRUC 和 Sleep-EDF 組成的組合數據集上進行評估時，在睡眠健康預測方面的準確度為 0.952。
-結論：我們的模型是第一個將雙向 Mamba 應用於具有複雜 PSG 數據的睡眠分期的模型，在運算和記憶效率方面顯示出比傳統 Transformer 風格模型顯著的提升。這種方法不僅使健康監測更易於使用，而且擴大了先進醫療保健的覆蓋範圍，從而通過創新技術增強睡眠健康管理。
+摘要：監控睡眠狀態對於評估睡眠品質和診斷睡眠障礙至關重要。傳統的手動分期耗時且容易產生主觀偏見，經常導致不一致的結果。在此，我們開發了一個自動化模型，用於睡眠分期和疾病分類，以提高診斷準確性和效率。考慮到多導睡眠檢查 (PSG) 多導程睡眠監測的特徵，我們設計了一個多模態睡眠狀態分類模型 MSSC-BiMamba，它將高效通道注意 (ECA) 機制與雙向狀態空間模型 (BSSM) 結合在一起。ECA 模組允許對來自不同感測器通道的資料進行加權，從而放大不同感測器輸入的影響。此外，雙向 Mamba (BiMamba) 的實作讓模型能夠有效擷取 PSG 資料的多維特徵和長程依賴性。開發的模型在 ISRUC-S3 和 ISRUC-S1 資料集上展現出令人印象深刻的睡眠分期分類任務效能，這些資料集分別包含健康和不健康的睡眠模式資料。此外，在由 ISRUC 和 Sleep-EDF 組成的合併資料集上進行評估時，該模型展現出很高的睡眠健康預測準確度。我們的模型可以有效處理不同的睡眠狀況，是第一個將 BiMamba 應用於具有多模態 PSG 資料的睡眠分期的模型，在運算和記憶體效率方面展現出比傳統 Transformer 風格模型更顯著的進步。這種方法透過讓監控更容易取得，並透過創新技術擴展先進的醫療保健，進而增強睡眠健康管理。
 
 ##### **Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction**
 2405.19864v1 by Taisei Tosaki, Eiichiro Uchino, Ryosuke Kojima, Yohei Mineharu, Mikio Arita, Nobuyuki Miyai, Yoshinori Tamada, Tatsuya Mikami, Koichi Murashita, Shigeyuki Nakaji, Yasushi Okuno

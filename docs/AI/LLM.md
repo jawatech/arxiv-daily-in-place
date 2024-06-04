@@ -12,7 +12,7 @@
 |**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040v1](http://arxiv.org/abs/2405.21040v1)|null|
 |**2024-05-31**|**Standards for Belief Representations in LLMs**|Daniel A. Herrmann et.al.|[2405.21030v1](http://arxiv.org/abs/2405.21030v1)|null|
 |**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028v1](http://arxiv.org/abs/2405.21028v1)|[link](https://github.com/esteng/pragmatic_calibration)|
-|**2024-05-31**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027v1](http://arxiv.org/abs/2405.21027v1)|null|
+|**2024-05-31**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027v2](http://arxiv.org/abs/2405.21027v2)|null|
 |**2024-05-31**|**Compact Optimality Verification for Optimization Proxies**|Wenbo Chen et.al.|[2405.21023v1](http://arxiv.org/abs/2405.21023v1)|null|
 |**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022v1](http://arxiv.org/abs/2405.21022v1)|null|
 |**2024-05-31**|**Improved Techniques for Optimization-Based Jailbreaking on Large Language Models**|Xiaojun Jia et.al.|[2405.21018v1](http://arxiv.org/abs/2405.21018v1)|[link](https://github.com/jiaxiaojunqaq/i-gcg)|
@@ -23,7 +23,7 @@
 |**2024-05-31**|**SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**|Tianyang Xu et.al.|[2405.20974v1](http://arxiv.org/abs/2405.20974v1)|[link](https://github.com/xu1868/sayself)|
 |**2024-05-31**|**LCQ: Low-Rank Codebook based Quantization for Large Language Models**|Wen-Pu Cai et.al.|[2405.20973v1](http://arxiv.org/abs/2405.20973v1)|null|
 |**2024-05-31**|**Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames**|Valentina Pyatkin et.al.|[2405.20967v1](http://arxiv.org/abs/2405.20967v1)|null|
-|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v1](http://arxiv.org/abs/2405.20962v1)|[link](https://github.com/ssai-trento/llm-zero-shot-nl)|
+|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v2](http://arxiv.org/abs/2405.20962v2)|[link](https://github.com/ssai-trento/llm-zero-shot-nl)|
 |**2024-05-31**|**Navigating Tabular Data Synthesis Research: Understanding User Needs and Tool Capabilities**|Maria F. Davila R. et.al.|[2405.20959v1](http://arxiv.org/abs/2405.20959v1)|null|
 |**2024-05-31**|**A Robot Walks into a Bar: Can Language Models Serve asCreativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**|Piotr Wojciech Mirowski et.al.|[2405.20956v1](http://arxiv.org/abs/2405.20956v1)|null|
 |**2024-05-31**|**OR-Bench: An Over-Refusal Benchmark for Large Language Models**|Justin Cui et.al.|[2405.20947v1](http://arxiv.org/abs/2405.20947v1)|null|
@@ -68,7 +68,7 @@
 |**2024-05-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al.|[2405.20700v1](http://arxiv.org/abs/2405.20700v1)|null|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
 |**2024-05-31**|**No Free Lunch Theorem for Privacy-Preserving LLM Inference**|Xiaojin Zhang et.al.|[2405.20681v1](http://arxiv.org/abs/2405.20681v1)|null|
-|**2024-05-31**|**Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**|Mingda Li et.al.|[2405.20680v1](http://arxiv.org/abs/2405.20680v1)|null|
+|**2024-05-31**|**Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**|Mingda Li et.al.|[2405.20680v2](http://arxiv.org/abs/2405.20680v2)|null|
 |**2024-05-31**|**Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**|Kidist Amde Mekonnen et.al.|[2405.20675v1](http://arxiv.org/abs/2405.20675v1)|[link](https://github.com/kidist-amde/adv-kd)|
 |**2024-05-31**|**DORY: Deliberative Prompt Recovery for LLM**|Lirong Gao et.al.|[2405.20657v1](http://arxiv.org/abs/2405.20657v1)|null|
 |**2024-05-31**|**Passage-specific Prompt Tuning for Passage Reranking in Question Answering with Large Language Models**|Xuyang Wu et.al.|[2405.20654v1](http://arxiv.org/abs/2405.20654v1)|null|
@@ -352,30 +352,30 @@ that are likely wrong.
 摘要：在回答問題時，LLM 不僅可以傳達答案，還可以傳達對答案正確性的信心程度。這包括明確的信心標記（例如給出數字分數）以及隱含的標記，例如權威的語氣或用額外的知識進行闡述。對於 LLM 來說，要成為值得信賴的知識來源，它們傳達的信心應與它們的實際專業知識相匹配；然而，大多數當前模型都傾向於過度自信。為了校準隱含和明確的信心標記，我們引入了一種實用的、考慮聽眾的微調方法 (LACIE)，該方法對聽眾進行建模，不僅考慮答案是否正確，還考慮答案是否會被聽眾接受。我們將校準視為偏好優化，通過一場雙人遊戲創建數據，其中說話者模型的輸出由模擬聽眾來判斷。然後，我們使用 LACIE 對三個 LLM（Mistral-7B、Llama3-8B、Llama3-70B）進行微調，並表明由此產生的模型在模擬聽眾方面校準得更好。至關重要的是，這些趨勢會傳遞給人類聽眾，幫助他們正確預測模型的正確性：我們進行了一項人類評估，其中註釋者接受或拒絕 LLM 的答案，發現使用 LACIE 進行訓練導致接受的錯誤答案減少了 47%，同時保持了對正確答案的相同接受程度。此外，LACIE 可以推廣到另一個數據集，從而在 TruthfulQA 上訓練時大大提高了真實性。我們的分析表明，LACIE 導致正確和不正確示例之間的信心分離更好。從質量上講，我們發現 LACIE 訓練的模型會更多地迴避，並在正確時通過使用權威的語氣或包含細節來暗示確定性。最後，LACIE 微調導致模型對可能錯誤的答案（例如說「我不知道」）的棄權出現了新的增加。
 
 ##### **Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**
-2405.21027v1 by Jiesong Lian, Yucong Huang, Mingzhi Wang, Chengdong Ma, Yixue Hao, Ying Wen, Yaodong Yang
+2405.21027v2 by Jiesong Lian, Yucong Huang, Mingzhi Wang, Chengdong Ma, Yixue Hao, Ying Wen, Yaodong Yang
 
-For solving zero-sum games involving non-transitivity, a common approach is
-to maintain population policies to approximate the Nash Equilibrium (NE).
-Previous research has shown that the Policy Space Response Oracle (PSRO) is an
-effective multi-agent reinforcement learning framework for these games.
-However, repeatedly training new policies from scratch to approximate the Best
-Response (BR) to opponents' mixed policies at each iteration is inefficient and
-costly. While some PSRO methods initialize a new BR policy by inheriting from
-past BR policies, this approach limits the exploration of new policies,
-especially against challenging opponents.To address this issue, we propose
-Fusion-PSRO, which uses model fusion to initialize the policy for better
-approximation to BR. With Top-k probabilities from NE, we select high-quality
-base policies and fuse them into a new BR policy through model averaging. This
-approach allows the initialized policy to incorporate multiple expert policies,
-making it easier to handle difficult opponents compared to inheriting or
-initializing from scratch. Additionally, our method only modifies the policy
-initialization, enabling its application to nearly all PSRO variants without
-additional training overhead.Our experiments with non-transitive matrix games,
-Leduc poker, and the more complex Liars Dice demonstrate that Fusion-PSRO
-enhances the performance of nearly all PSRO variants, achieving lower
-exploitability.
+A popular approach for solving zero-sum games is to maintain populations of
+policies to approximate the Nash Equilibrium (NE). Previous studies have shown
+that Policy Space Response Oracle (PSRO) algorithm is an effective multi-agent
+reinforcement learning framework for solving such games. However, repeatedly
+training new policies from scratch to approximate Best Response (BR) to
+opponents' mixed policies at each iteration is both inefficient and costly.
+While some PSRO variants initialize a new policy by inheriting from past BR
+policies, this approach limits the exploration of new policies, especially
+against challenging opponents. To address this issue, we propose Fusion-PSRO,
+which employs policy fusion to initialize policies for better approximation to
+BR. By selecting high-quality base policies from meta-NE, policy fusion fuses
+the base policies into a new policy through model averaging. This approach
+allows the initialized policies to incorporate multiple expert policies, making
+it easier to handle difficult opponents compared to inheriting from past BR
+policies or initializing from scratch. Moreover, our method only modifies the
+policy initialization phase, allowing its application to nearly all PSRO
+variants without additional training overhead. Our experiments on
+non-transitive matrix games, Leduc Poker, and the more complex Liars Dice
+demonstrate that Fusion-PSRO enhances the performance of nearly all PSRO
+variants, achieving lower exploitability.
 
-摘要：對於涉及非傳遞性的零和博弈，一個常見的方法是維持人口政策以近似納許均衡（NE）。先前的研究顯示，政策空間響應神諭（PSRO）是針對這些博弈的有效多重代理強化學習架構。然而，在每次迭代中，重複從頭訓練新政策以近似對手混合政策的最佳回應（BR）是低效率且成本高昂的。儘管有些 PSRO 方法透過繼承過去的 BR 政策來初始化新的 BR 政策，但這種方法會限制探索新政策，特別是針對具有挑戰性的對手。為了解決這個問題，我們提出融合 PSRO，它使用模型融合來初始化政策，以更好地近似 BR。透過 NE 中的 Top-k 機率，我們選擇高品質的基礎政策，並透過模型平均將它們融合成新的 BR 政策。這種方法允許初始化的政策納入多個專家政策，與從頭繼承或初始化相比，更容易處理困難的對手。此外，我們的方法僅修改政策初始化，使其能夠應用於幾乎所有 PSRO 變體，而不會產生額外的訓練開銷。我們使用非傳遞矩陣博弈、Leduc 撲克和更複雜的 Liars Dice 進行的實驗證明，融合 PSRO 增強了幾乎所有 PSRO 變體的效能，達到了較低的可利用性。
+摘要：流行的求解零和博弈方法是维持策略族以逼近纳什均衡 (NE)。先前的研究表明，策略空间响应预言机 (PSRO) 算法是一种有效的用于求解此类博弈的多智能体强化学习框架。然而，在每次迭代中，从头开始重复训练新策略以逼近对对手混合策略的最佳响应 (BR) 既低效又昂贵。虽然一些 PSRO 变体通过继承过去的 BR 策略来初始化新策略，但此方法限制了新策略的探索，尤其是在对抗具有挑战性的对手时。为了解决这个问题，我们提出了融合 PSRO，它采用策略融合来初始化策略以更好地逼近 BR。通过从元 NE 中选择高质量的基本策略，策略融合通过模型平均将基本策略融合到新策略中。与继承过去的 BR 策略或从头开始初始化相比，这种方法允许初始化的策略纳入多个专家策略，从而更容易处理困难的对手。此外，我们的方法仅修改策略初始化阶段，使其可以应用于几乎所有 PSRO 变体，而无需额外的训练开销。我们在非传递矩阵博弈、Leduc 扑克和更复杂的 Liars Dice 上的实验表明，融合 PSRO 增强了几乎所有 PSRO 变体的性能，实现了更低的利用率。
 
 ##### **Compact Optimality Verification for Optimization Proxies**
 2405.21023v1 by Wenbo Chen, Haoruo Zhao, Mathieu Tanneau, Pascal Van Hentenryck
@@ -628,7 +628,7 @@ be challenging for contemporary models, including GPT-4.
 上下文。我们表明，上下文中最高级的细粒度语义对当代模型来说可能具有挑战性，包括 GPT-4。
 
 ##### **Large Language Models are Zero-Shot Next Location Predictors**
-2405.20962v1 by Ciro Beneduce, Bruno Lepri, Massimiliano Luca
+2405.20962v2 by Ciro Beneduce, Bruno Lepri, Massimiliano Luca
 
 Predicting the locations an individual will visit in the future is crucial
 for solving many societal issues like disease diffusion and reduction of
@@ -657,7 +657,7 @@ for their decision. Notably, 7B models provide more generic, but still
 reliable, explanations compared to larger counterparts. Code:
 github.com/ssai-trento/LLM-zero-shot-NL
 
-摘要：預測個人未來會造訪的地點對於解決許多社會問題至關重要，例如疾病擴散和減少污染等。然而，用於解決下一個地點預測的模型需要大量的個人層級資訊才能有效地進行訓練。此類資料在某些地理區域或特殊情況（例如推薦系統中的冷啟動）中可能稀缺甚至不可用。此外，設計一個能夠推廣或在地理上傳遞知識的下一個地點預測器仍然是一個開放的研究挑戰。自然語言處理的最新進展導致大型語言模型 (LLM) 的快速擴散，這些模型已展現出良好的概括和推理能力。這些見解加上最近發現的 LLM 豐富的地理知識，讓我們相信這些模型可以用作零次下一個地點預測器。本文評估許多流行的 LLM 在此角色中的能力，特別是 Llama、GPT-3.5 和 Mistral 7B。在設計適當的提示後，我們在三個真實世界流動性資料集上測試了這些模型。結果表明，與專門為人類流動性設計的複雜深度學習模型相比，LLM 可以獲得高達 32.4% 的準確度，相對改善超過 600%。此外，我們表明其他 LLM 無法適當地執行任務。為了防止產生正向偏誤的結果，我們還提出了受其他研究啟發的架構來測試資料污染。最後，我們探討了將 LLM 用作基於文字的解釋器以進行下一個地點預測的可能性，表明可以有效地對其決策提供解釋。值得注意的是，與較大的對應模型相比，7B 模型提供了更通用的，但仍然可靠的解釋。程式碼：github.com/ssai-trento/LLM-zero-shot-NL
+摘要：<paragraph>預測個人未來會造訪的地點對於解決許多社會問題至關重要，例如疾病擴散和減少污染等。不過，用來處理下個地點預測的模型需要大量的個人層級資訊才能有效訓練。此類資料在某些地理區域或特殊情況中可能稀少甚至無法取得（例如推薦系統中的冷啟動）。此外，設計一個能夠概化或在地理上傳遞知識的下個地點預測器仍然是一項開放的研究挑戰。自然語言處理的最新進展已導致大型語言模型 (LLM) 快速擴散，這些模型已展現良好的概化和推理能力。這些見解加上 LLM 富含地理知識的最新發現，讓我們相信這些模型可以作為零次學習的下個地點預測器。本文評估許多熱門 LLM 在此角色中的能力，特別是 Llama、GPT-3.5 和 Mistral 7B。在設計適當的提示後，我們在三個真實世界流動性資料集上測試這些模型。結果顯示 LLM 可以獲得高達 32.4% 的準確度，與專門為人類流動性設計的精密 DL 模型相比，相對改善幅度超過 600%。此外，我們顯示其他 LLM 無法適當執行任務。為防止正向偏差的結果，我們也提出一個受其他研究啟發的架構來測試資料污染。最後，我們探索使用 LLM 作為下個地點預測的基於文字的說明工具的可能性，顯示可以有效提供其決策的說明。值得注意的是，與較大的對應模型相比，7B 模型提供的說明更通用，但仍然可靠。程式碼：github.com/ssai-trento/LLM-zero-shot-NL</paragraph>
 
 ##### **Navigating Tabular Data Synthesis Research: Understanding User Needs and Tool Capabilities**
 2405.20959v1 by Maria F. Davila R., Sven Groen, Fabian Panse, Wolfram Wingerath
@@ -1644,7 +1644,7 @@ word No-Free-Lunch) Theorem.
 摘要：個人和企業已經從大型語言模型 (LLM)，包括 PaLM、Gemini 和 ChatGPT，在各種方面獲得顯著的好處。例如，LLM 提高生產力、降低成本，並使我們能夠專注於更有價值的任務。此外，LLM 具備篩選廣泛數據集、發現潛在模式，並提供推動技術和科學前沿的關鍵見解的能力。然而，LLM 也會引發隱私問題。使用者與 LLM 的互動可能會暴露其敏感的個人或公司資訊。缺乏強大的隱私保障措施和法律架構可能會允許對個人資料的非法入侵或不當處理，從而造成隱私權的侵犯和個人身分的盜用。為了確保隱私，最小化共享提示與私人資訊之間的依賴性至關重要。已經提出各種隨機化方法來保護提示的隱私，但與未受保護的 LLM 提示相比，它們可能會造成效用損失。因此，在執行有效的保護機制時，評估隱私洩露風險與效用損失之間的平衡至關重要。目前的研究開發了一個用於推論隱私保護大型語言模型 (LLM) 的框架，並為檢視隱私保護和效用之間的交互作用奠定了穩固的理論基礎。核心見解被封裝在一個被稱為 NFL（免費午餐定理的縮寫）定理中。
 
 ##### **Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**
-2405.20680v1 by Mingda Li, Xinyu Li, Yifan Chen, Wenfeng Xuan, Weinan Zhang
+2405.20680v2 by Mingda Li, Xinyu Li, Yifan Chen, Wenfeng Xuan, Weinan Zhang
 
 Although Retrieval-Augmented Large Language Models (RALMs) demonstrate their
 superiority in terms of factuality, they do not consistently outperform the
@@ -1662,7 +1662,7 @@ errors. Our experiments on Open Domain Question Answering show that EoR
 substantially improves performance over the RALM with a single retriever by
 considerably reducing inconsistent behaviors.
 
-摘要：儘管檢索增強大型語言模型 (RALM) 在事實性方面展現其優越性，但它們並未持續優於原始的無檢索語言模型 (LM)。我們的實驗顯示，這種範例層級效能不一致性不僅存在於檢索增強和無檢索 LM 之間，也存在於不同的檢索器之間。為了了解此現象，我們探討 RALM 的退化行為，並從理論上將其分解成四種類別。根據我們的分解進一步分析顯示，知識來源的內在差異和閱讀器模型不可預測的退化對不一致性影響最大。根據我們的分析，我們引入了檢索器集合 (EoR)，這是一個可訓練架構，可以從不同的知識來源自適應地檢索，並有效降低不可預測的閱讀器錯誤。我們在開放領域問答上的實驗顯示，EoR 大幅提升了使用單一檢索器的 RALM 的效能，方法是大幅減少不一致的行為。
+摘要：儘管檢索增強大型語言模型 (RALM) 在事實性方面展現其優越性，但它們並非始終優於原始的非檢索語言模型 (LM)。我們的實驗揭示，這種範例層級效能不一致不僅存在於檢索增強和非檢索 LM 之間，也存在於不同的檢索器之間。為了了解這種現象，我們研究了 RALM 的退化行為，並在理論上將其分解為四種類別。根據我們的分解進行進一步的分析，揭示了知識來源的內在差異和閱讀器模型不可預測的退化對不一致性的影響最大。根據我們的分析，我們引入了檢索器合奏 (EoR)，這是一個可訓練的架構，可以自適應地從不同的知識來源中檢索，並有效減少不可預測的閱讀器錯誤。我們在開放領域問答上的實驗表明，EoR 大幅改善了使用單一檢索器的 RALM 的效能，方法是大幅減少不一致的行為。
 
 ##### **Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**
 2405.20675v1 by Kidist Amde Mekonnen, Nicola Dall'Asen, Paolo Rota

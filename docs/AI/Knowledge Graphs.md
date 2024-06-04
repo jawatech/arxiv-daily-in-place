@@ -9,11 +9,11 @@
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
 |**2024-05-30**|**MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**|Konstantin Hemker et.al.|[2405.19950v1](http://arxiv.org/abs/2405.19950v1)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877v1](http://arxiv.org/abs/2405.19877v1)|null|
-|**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799v1](http://arxiv.org/abs/2405.19799v1)|null|
+|**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799v2](http://arxiv.org/abs/2405.19799v2)|[link](https://github.com/jeff-sue/urt)|
 |**2024-05-30**|**Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion**|Wei Cheng et.al.|[2405.19782v1](http://arxiv.org/abs/2405.19782v1)|[link](https://github.com/nju-websoft/DraCo)|
 |**2024-05-30**|**Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback**|Jingwei Sun et.al.|[2405.19686v1](http://arxiv.org/abs/2405.19686v1)|null|
 |**2024-05-29**|**MASSIVE Multilingual Abstract Meaning Representation: A Dataset and Baselines for Hallucination Detection**|Michael Regan et.al.|[2405.19285v1](http://arxiv.org/abs/2405.19285v1)|null|
-|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266v1](http://arxiv.org/abs/2405.19266v1)|null|
+|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266v2](http://arxiv.org/abs/2405.19266v2)|null|
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255v1](http://arxiv.org/abs/2405.19255v1)|null|
 |**2024-05-29**|**Learning from Litigation: Graphs and LLMs for Retrieval and Reasoning in eDiscovery**|Sounak Lahiri et.al.|[2405.19164v1](http://arxiv.org/abs/2405.19164v1)|null|
 |**2024-05-28**|**Unleashing the Potential of Text-attributed Graphs: Automatic Relation Decomposition via Large Language Models**|Hyunjin Seo et.al.|[2405.18581v1](http://arxiv.org/abs/2405.18581v1)|null|
@@ -63,7 +63,7 @@
 |**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524v1](http://arxiv.org/abs/2405.06524v1)|null|
 |**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792v1](http://arxiv.org/abs/2405.05792v1)|null|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
-|**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v1](http://arxiv.org/abs/2405.05189v1)|null|
+|**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v2](http://arxiv.org/abs/2405.05189v2)|null|
 |**2024-05-08**|**Lightweight Spatial Modeling for Combinatorial Information Extraction From Documents**|Yanfei Dong et.al.|[2405.06701v1](http://arxiv.org/abs/2405.06701v1)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v2](http://arxiv.org/abs/2405.04819v2)|[link](https://github.com/david-li0406/dalk)|
 |**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756v1](http://arxiv.org/abs/2405.04756v1)|[link](https://github.com/VectorInstitute/biaskg)|
@@ -265,7 +265,7 @@ experience in promoting AI interoperability.
 摘要：我們提出了 KNOW，即世界知識導航本体，這是第一個旨在擷取日常知識以擴充大型語言模型 (LLM) 在實際生成式 AI 使用案例中的本体，例如個人 AI 助理。我們的領域是人類生活，包括其日常關切和重大里程碑。我們已將建模概念的初始範圍限制為僅建立人類普遍性：時空（地點、事件）加上社會（人、群組、組織）。建模概念的納入標準很務實，從普遍性和實用性開始。我們比較和對比先前的作品，例如 Schema.org 和 Cyc，以及知識圖譜和語言模型的綜合嘗試，並注意到 LLM 已內部編碼了許多常識性的默認知識，而這些知識花費了數十年才在 Cyc 項目中被擷取。我們還提供了 12 種最受歡迎的程式設計語言的程式碼生成軟體函式庫，讓建模概念能夠直接用於軟體工程中。我們強調簡潔性和開發人員經驗在促進 AI 互操作性中的重要性。
 
 ##### **Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**
-2405.19799v1 by Jiahui Xu, Feng Jiang, Anningzhe Gao, Haizhou Li
+2405.19799v2 by Jiahui Xu, Feng Jiang, Anningzhe Gao, Haizhou Li
 
 The advancement of large language models (LLMs) has propelled the development
 of dialogue systems. Unlike the popular ChatGPT-like assistant model, which
@@ -289,9 +289,10 @@ neural network model to ensure local coherence consistency. Finally, we utilize
 the similarity between the two fused structures for mutual learning. The
 experimental results demonstrate that our methods outperform all strong
 baselines on two dialogue rhetorical datasets (STAC and Molweni), as well as
-dialogue topic datasets (Doc2Dial and TIAGE).
+dialogue topic datasets (Doc2Dial and TIAGE). We provide our code at
+https://github.com/Jeff-Sue/URT.
 
-摘要：大型語言模型 (LLM) 的進步推動了對話系統的發展。與僅滿足使用者偏好的流行 ChatGPT 類型助理模型不同，任務導向對話系統也在更廣泛的商業領域面臨新的需求和挑戰。它們預計在每個對話輪次提供正確的回應，同時達成任務定義的整體目標。透過主題分割和語篇解析了解語篇結構和主題結構，對話系統可以更好地規劃以達成這兩個目標。然而，儘管這兩個結構都屬於語言學中的語篇結構，但語篇結構和主題結構大多是分開建模，或在先前的工作中一個協助另一個。這兩個結構之間的互動尚未考慮用於聯合建模和相互學習。此外，尚未充分探討用於達成上述目標的非監督式學習技術。為了填補這個空白，我們提出了一個非監督式相互學習架構，利用它們之間的全局和局部連接。我們延伸了非相鄰語篇單位之間的主題建模，以確保與語篇結構的全局結構相關性。我們還透過圖形神經網路模型將語篇結構納入主題結構，以確保局部一致性。最後，我們利用兩個融合結構之間的相似性進行相互學習。實驗結果證明，我們的模型在兩個對話語篇資料集 (STAC 和 Molweni) 以及對話主題資料集 (Doc2Dial 和 TIAGE) 上優於所有強大的基線。
+摘要：大型語言模型 (LLM) 的進展推動了對話系統的發展。與只滿足使用者偏好的流行 ChatGPT 類型助理模型不同，任務導向對話系統在更廣泛的商業領域中也面臨新的需求和挑戰。它們預期在每個對話回合中提供正確的回應，同時達成任務定義的整體目標。透過主題分段和語篇解析了解語篇結構和主題結構，對話系統可以更好地規劃以達成這兩個目標。然而，儘管這兩個結構都屬於語言學中的語篇結構，但語篇結構和主題結構大多是分開建模，或在先前的研究中以一個協助另一個。這兩個結構之間的互動尚未考慮進行聯合建模和相互學習。此外，尚未充分探索用於達成上述目標的非監督式學習技術。為了解決這個差距，我們提出一個非監督式相互學習架構，利用它們之間的全局和局部連接。我們擴充非相鄰語篇單元之間的主題建模，以確保與語篇結構的全局結構相關性。我們還透過圖神經網路模型將語篇結構納入主題結構，以確保局部相容性一致性。最後，我們利用這兩個融合結構之間的相似性進行相互學習。實驗結果證明，我們的模型在兩個對話語篇資料集 (STAC 和 Molweni) 以及對話主題資料集 (Doc2Dial 和 TIAGE) 上優於所有強大的基準。我們在 https://github.com/Jeff-Sue/URT 提供我們的程式碼。
 
 ##### **Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion**
 2405.19782v1 by Wei Cheng, Yuhan Wu, Wei Hu
@@ -366,7 +367,7 @@ persistent issues using LLMs for structured parsing.
 我們將說明如何建構資源及其獨特功能，然後再報告使用大型語言模型進行多語言 AMR 和 SPARQL 解析的實驗，以及在知識庫問答的背景下應用 AMR 進行幻覺偵測，結果有助於釐清使用 LLM 進行結構化解析時持續存在的問題。
 
 ##### **PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**
-2405.19266v1 by Dingkang Yang, Jinjie Wei, Dongling Xiao, Shunli Wang, Tong Wu, Gang Li, Mingcheng Li, Shuaibing Wang, Jiawei Chen, Yue Jiang, Qingyao Xu, Ke Li, Peng Zhai, Lihua Zhang
+2405.19266v2 by Dingkang Yang, Jinjie Wei, Dongling Xiao, Shunli Wang, Tong Wu, Gang Li, Mingcheng Li, Shuaibing Wang, Jiawei Chen, Yue Jiang, Qingyao Xu, Ke Li, Peng Zhai, Lihua Zhang
 
 Developing intelligent pediatric consultation systems offers promising
 prospects for improving diagnostic efficiency, especially in China, where
@@ -392,7 +393,7 @@ evaluations on distinct doctor downstream tasks show that PediatricsGPT
 consistently outperforms previous Chinese medical LLMs. Our model and dataset
 will be open-source for community development.
 
-摘要：<paragraph>開發智能兒童諮詢系統，為提高診斷效率提供了有希望的前景，特別是在醫療資源稀缺的中國。儘管中文醫學的大語言模型（LLM）最近取得進展，但由於教學資料不足和培訓程序脆弱，它們在兒科應用中的表現並非最佳。為了解決上述問題，本文構建了 PedCorpus，一個由超過 30 萬條來自兒科教科書、指南和知識圖譜資源的多任務指令組成的優質數據集，以滿足不同的診斷需求。在設計良好的 PedCorpus 上，我們提出了 PediatricsGPT，這是第一個建立在系統且強大的訓練管道上的中文兒科 LLM 助手。在持續的預訓練階段，我們引入了一個混合指令預訓練機制，以減輕 LLM 在醫學領域適應中的內部注入知識不一致。緊接著，利用全參數監督微調（SFT）將一般醫學知識架構納入模型中。在那之後，我們設計了一個直接遵循偏好最佳化，以增強類兒科醫生的人文反應生成。在參數效率的次要 SFT 階段，提出了一個通用特定專家策略的混合，以解決內科醫生和兒科專業掌握之間的能力衝突。基於指標、GPT-4 和醫生對不同醫生下游任務的評估的廣泛結果表明，PediatricsGPT 持續優於先前的中文醫學 LLM。我們的模型和數據集將對社群開發開放原始碼。</paragraph>
+摘要：<paragraph>開發智能兒科諮詢系統，能有效提升診斷效率，特別是在醫療資源相對缺乏的中國。儘管中文醫學的大語言模型（LLM）近來有長足進展，但由於訓練資料不足且訓練程序不完善，其在兒科應用中的表現並未達到最佳化。為了解決上述問題，本文建立了 PedCorpus，一個包含超過 30 萬條來自兒科教科書、指南和知識圖譜資源的多任務指令的高品質資料集，以滿足多樣化的診斷需求。在設計良好的 PedCorpus 上，我們提出了 PediatricsGPT，這是第一個建構在系統化且穩健的訓練流程上的中文兒科 LLM 助理。在持續的預訓練階段，我們引入了一個混合指令預訓練機制，以減輕 LLM 在醫學領域適應時內部注入知識的不一致性。緊接著，我們利用全參數監督微調（SFT）將一般的醫學知識架構納入模型中。隨後，我們設計了一個直接遵循偏好最佳化，以增強類兒科醫師的人文回應生成。在參數效率的次要 SFT 階段，我們提出了一個通用專家策略的混合，以解決全科醫師和兒科專家掌握能力之間的衝突。根據 GPT-4、醫生評估在不同醫生下游任務上的指標，廣泛的結果顯示 PediatricsGPT 持續優於先前的中文醫學 LLM。我們的模型和資料集將開放原始碼供社群開發。</paragraph>
 
 ##### **Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**
 2405.19255v1 by Jose Tupayachi, Haowen Xu, Olufemi A. Omitaomu, Mustafa Can Camur, Aliza Sharmin, Xueping Li
@@ -1644,7 +1645,7 @@ with 6.12% improvement over the SoTA LM+GNNs model on the OpenbookQA dataset.
 摘要：常識問答在各種應用程式中展現了相當大的潛力，例如助理和社交機器人。儘管經過微調的預訓練語言模型 (LM) 在常識推理中取得了顯著的表現，但它們過度優先考慮文本資訊的傾向會阻礙結構知識的精確傳輸，並損害可解釋性。一些研究探索了將 LM 與知識圖譜 (KG) 結合起來，通過粗略地融合這兩種模式來執行基於圖神經網路 (GNN) 的推理，而這種推理缺乏異質模式之間的深入互動。在本文中，我們提出了一個新的基於圖的結構感知提示學習模型，用於常識推理，稱為 G-SAP，旨在維持異質知識之間的平衡，並增強 LM+GNN 模型內的跨模式互動。特別是，通過整合多個知識來源（即 ConceptNet、Wikipedia 和劍橋詞典）來構建一個證據圖，以提升效能。隨後，採用結構感知凍結 PLM 來充分整合來自證據圖的結構化和文本資訊，其中提示的產生是由圖實體和關係驅動的。最後，使用異質訊息傳遞推理模組來促進 LM 和基於圖的網路之間的深度互動。透過在三個基準資料集上進行廣泛的實驗進行的經驗驗證，證明了所提出的模型的顯著效能。結果顯示出比現有模型有顯著的進步，特別是在 OpenbookQA 資料集上比 SoTA LM+GNN 模型提升了 6.12%。
 
 ##### **MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**
-2405.05189v1 by Inderjeet Nair, Lu Wang
+2405.05189v2 by Inderjeet Nair, Lu Wang
 
 We study the task of conducting structured reasoning as generating a
 reasoning graph from natural language input using large language models (LLMs).
@@ -1666,8 +1667,8 @@ structured reasoning tasks, including argument structure extraction,
 explanation graph generation, inferring dependency relations among actions for
 everyday tasks, and semantic graph generation from natural texts.
 
-摘要：我們研究將結構化推理的任務作為使用大型語言模型 (LLM) 從自然語言輸入產生推理圖。
-先前的做法已探討各種提示方案，但由於自迴歸性質和基於單次傳遞的解碼，它們會遭受錯誤傳播，而這缺乏錯誤修正能力。此外，僅依賴單一範例可能會導致遺漏真實節點和邊緣。為了解決此問題，我們從自一致性 (SC) 中汲取靈感，其中涉及取樣多元推理鏈並將多數決作為最終答案。為了應對在生成圖形上應用 SC 的重大挑戰，我們提出了 MIDGARD (無向非循環圖中推理的最小描述長度引導聚合)，它利用基於最小描述長度 (MDL) 的公式來識別 LLM 生成的不同圖形範例之間的一致屬性。此公式有助於拒絕僅出現在少數範例中且可能錯誤的屬性，同時在不損及精準度的前提下納入遺失元素。我們的模型在各種結構化推理任務中表現出優於比較的效能，包括論證結構提取、解釋圖形生成、推論日常任務中動作之間的依賴關係，以及從自然文本生成語義圖形。
+摘要：我們研究將結構化推理任務作為從自然語言輸入生成推理圖的任務，並使用大型語言模型 (LLM) 執行這項任務。
+先前的做法已探討各種提示方案，但由於自迴歸性質和基於單次傳遞的解碼，導致錯誤傳播，而這缺乏錯誤修正能力。此外，僅依賴單一範本可能會導致遺漏真實節點和邊緣。為了對抗這個問題，我們從自我一致性 (SC) 中汲取靈感，其中涉及取樣各種推理鏈，並將多數決作為最終答案。為了應對在生成圖形上應用 SC 的重大挑戰，我們提出 MIDGARD（有向無環圖中推理的最小描述長度引導聚合），它利用基於最小描述長度 (MDL) 的公式來識別 LLM 生成的不同圖形範本之間的一致屬性。此公式有助於拒絕僅出現在少數範本中的屬性（這些屬性很可能是錯誤的），同時在不損害精確度的前提下納入遺失元素。我們的方法在各種結構化推理任務中展現出優異的效能，包括論證結構萃取、解釋圖形生成、推論日常任務中動作之間的依賴關係，以及從自然文本生成語意圖形。
 
 ##### **Lightweight Spatial Modeling for Combinatorial Information Extraction From Documents**
 2405.06701v1 by Yanfei Dong, Lambert Deng, Jiazheng Zhang, Xiaodong Yu, Ting Lin, Francesco Gelli, Soujanya Poria, Wee Sun Lee

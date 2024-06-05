@@ -2,6 +2,9 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
+|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|null|
+|**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
 |**2024-05-26**|**Exploring Nutritional Impact on Alzheimer's Mortality: An Explainable AI Approach**|Ziming Liu et.al.|[2405.17502v1](http://arxiv.org/abs/2405.17502v1)|null|
 |**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
@@ -99,11 +102,87 @@
 |**2022-10-24**|**Human-centered XAI for Burn Depth Characterization**|Maxwell J. Jacobson et.al.|[2210.13535v2](http://arxiv.org/abs/2210.13535v2)|null|
 |**2022-10-07**|**What Do End-Users Really Want? Investigation of Human-Centered XAI for Mobile Health Apps**|Katharina Weitz et.al.|[2210.03506v1](http://arxiv.org/abs/2210.03506v1)|null|
 |**2022-10-07**|**Explainable AI based Glaucoma Detection using Transfer Learning and LIME**|Touhidul Islam Chayan et.al.|[2210.03332v1](http://arxiv.org/abs/2210.03332v1)|null|
-|**2022-09-30**|**Evaluation of importance estimators in deep learning classifiers for Computed Tomography**|Lennart Brocki et.al.|[2209.15398v1](http://arxiv.org/abs/2209.15398v1)|null|
-|**2022-09-30**|**An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**|Yuzhe Lu et.al.|[2210.08979v1](http://arxiv.org/abs/2210.08979v1)|null|
-|**2022-09-14**|**Explainable AI for clinical and remote health applications: a survey on tabular and time series data**|Flavio Di Martino et.al.|[2209.06528v1](http://arxiv.org/abs/2209.06528v1)|null|
 
 #### Abstracts
+##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
+2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik
+
+Breast cancer (BC) stands as one of the most common malignancies affecting
+women worldwide, necessitating advancements in diagnostic methodologies for
+better clinical outcomes. This article provides a comprehensive exploration of
+the application of Explainable Artificial Intelligence (XAI) techniques in the
+detection and diagnosis of breast cancer. As Artificial Intelligence (AI)
+technologies continue to permeate the healthcare sector, particularly in
+oncology, the need for transparent and interpretable models becomes imperative
+to enhance clinical decision-making and patient care. This review discusses the
+integration of various XAI approaches, such as SHAP, LIME, Grad-CAM, and
+others, with machine learning and deep learning models utilized in breast
+cancer detection and classification. By investigating the modalities of breast
+cancer datasets, including mammograms, ultrasounds and their processing with
+AI, the paper highlights how XAI can lead to more accurate diagnoses and
+personalized treatment plans. It also examines the challenges in implementing
+these techniques and the importance of developing standardized metrics for
+evaluating XAI's effectiveness in clinical settings. Through detailed analysis
+and discussion, this article aims to highlight the potential of XAI in bridging
+the gap between complex AI models and practical healthcare applications,
+thereby fostering trust and understanding among medical professionals and
+improving patient outcomes.
+
+摘要：乳癌 (BC) 是影響全球女性最常見的惡性腫瘤之一，因此需要進步的診斷方法，以改善臨床結果。本文全面探討了可解釋人工智慧 (XAI) 技術在乳癌偵測和診斷中的應用。隨著人工智慧 (AI) 技術持續滲透醫療保健領域，特別是在腫瘤學中，透明且可解釋的模型需求變得勢在必行，以增強臨床決策制定和患者照護。此篇評論探討了各種 XAI 方法的整合，例如 SHAP、LIME、Grad-CAM 等，以及用於乳癌偵測和分類的機器學習和深度學習模型。透過探討乳癌資料集的模式，包括乳房攝影、超音波及其在 AI 中的處理，本文重點說明 XAI 如何能導致更準確的診斷和個人化治療計畫。它也探討了實施這些技術的挑戰，以及制定標準化評量指標以評估 XAI 在臨床環境中的有效性的重要性。透過詳細的分析和討論，本文旨在強調 XAI 在縮小複雜 AI 模型與實務醫療保健應用之間差距的潛力，進而促進醫療專業人員之間的信任與理解，並改善患者的結果。
+
+##### **Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**
+2406.01624v1 by Alaa Nfissi, Wassim Bouachir, Nizar Bouguila, Brian Mishara
+
+Speech emotion recognition (SER) has gained significant attention due to its
+several application fields, such as mental health, education, and
+human-computer interaction. However, the accuracy of SER systems is hindered by
+high-dimensional feature sets that may contain irrelevant and redundant
+information. To overcome this challenge, this study proposes an iterative
+feature boosting approach for SER that emphasizes feature relevance and
+explainability to enhance machine learning model performance. Our approach
+involves meticulous feature selection and analysis to build efficient SER
+systems. In addressing our main problem through model explainability, we employ
+a feature evaluation loop with Shapley values to iteratively refine feature
+sets. This process strikes a balance between model performance and
+transparency, which enables a comprehensive understanding of the model's
+predictions. The proposed approach offers several advantages, including the
+identification and removal of irrelevant and redundant features, leading to a
+more effective model. Additionally, it promotes explainability, facilitating
+comprehension of the model's predictions and the identification of crucial
+features for emotion determination. The effectiveness of the proposed method is
+validated on the SER benchmarks of the Toronto emotional speech set (TESS),
+Berlin Database of Emotional Speech (EMO-DB), Ryerson Audio-Visual Database of
+Emotional Speech and Song (RAVDESS), and Surrey Audio-Visual Expressed Emotion
+(SAVEE) datasets, outperforming state-of-the-art methods. These results
+highlight the potential of the proposed technique in developing accurate and
+explainable SER systems. To the best of our knowledge, this is the first work
+to incorporate model explainability into an SER framework.
+
+摘要：語音情緒辨識 (SER) 因其在心理健康、教育和人機互動等多個應用領域而備受關注。然而，SER 系統的準確性受到高維特徵集的阻礙，其中可能包含不相關和冗餘的資訊。為了克服這個挑戰，本研究提出了一種用於 SER 的迭代特徵提升方法，它強調特徵相關性和可解釋性，以增強機器學習模型的效能。我們的做法包括細緻的特徵選擇和分析，以建立高效的 SER 系統。在透過模型可解釋性解決我們的主要問題時，我們採用具有 Shapley 值的特徵評估迴圈，以反覆精進特徵集。這個過程在模型效能和透明度之間取得平衡，這使得我們能全面了解模型的預測。所提出的方法提供了多項優點，包括識別和移除不相關和冗餘的特徵，從而建立更有效的模型。此外，它促進了可解釋性，有助於理解模型的預測，並識別情緒決定的關鍵特徵。所提出方法的有效性在多倫多情緒語音集 (TESS)、柏林情緒語音資料庫 (EMO-DB)、萊爾森情緒語音和歌曲視聽資料庫 (RAVDESS) 和薩里視聽表達情緒 (SAVEE) 資料集的 SER 基準上得到驗證，其表現優於現有技術。這些結果突顯了所提出技術在開發準確且可解釋的 SER 系統方面的潛力。據我們所知，這是第一個將模型可解釋性納入 SER 框架中的研究。
+
+##### **The Explanation Necessity for Healthcare AI**
+2406.00216v1 by Michail Mamalakis, Héloïse de Vareilles, Graham Murray, Pietro Lio, John Suckling
+
+Explainability is often critical to the acceptable implementation of
+artificial intelligence (AI). Nowhere is this more important than healthcare
+where decision-making directly impacts patients and trust in AI systems is
+essential. This trust is often built on the explanations and interpretations
+the AI provides. Despite significant advancements in AI interpretability, there
+remains the need for clear guidelines on when and to what extent explanations
+are necessary in the medical context. We propose a novel categorization system
+with four distinct classes of explanation necessity, guiding the level of
+explanation required: patient or sample (local) level, cohort or dataset
+(global) level, or both levels. We introduce a mathematical formulation that
+distinguishes these categories and offers a practical framework for researchers
+to determine the necessity and depth of explanations required in medical AI
+applications. Three key factors are considered: the robustness of the
+evaluation protocol, the variability of expert observations, and the
+representation dimensionality of the application. In this perspective, we
+address the question: When does an AI medical application need to be explained,
+and at what level of detail?
+
+摘要：可解释性通常对于人工智能 (AI) 的可接受实施至关重要。在医疗保健领域，这一点尤为重要，因为决策直接影响患者，并且对 AI 系统的信任至关重要。这种信任通常建立在 AI 提供的解释和诠释之上。尽管 AI 可解释性取得了重大进展，但仍然需要明确的指导方针，说明在医疗环境中何时以及在多大程度上需要解释。我们提出了一种新颖的分类系统，该系统具有四种不同的解释必要性类别，指导所需的解释级别：患者或样本（局部）级别、队列或数据集（全局）级别，或两个级别。我们引入了一个数学公式，该公式区分了这些类别，并为研究人员提供了一个实用框架，以确定医疗 AI 应用中所需的解释的必要性和深度。考虑了三个关键因素：评估协议的稳健性、专家观察的可变性以及应用程序的表示维数。从这个角度来看，我们解决了这个问题：AI 医疗应用何时需要解释，以及需要解释到何种程度？
+
 ##### **Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**
 2405.16424v1 by Min Hun Lee, Silvana Xin Yi Choo, Shamala D/O Thilarajah
 
@@ -2475,84 +2554,4 @@ information that aid them in making judgments. It also lessen the opacity and
 fragility of the traditional deep learning models.
 
 摘要：青光眼是所有視力缺陷中導致部分或完全失明的第二大原因，主要是由於焦慮或憂鬱症導致眼睛壓力過大，損害視神經並造成視力併發症。傳統的青光眼篩檢是一個耗時的過程，需要醫療專業人員持續關注，即使如此，由於時間限制和壓力，他們有時無法正確分類，導致治療錯誤。已經做出許多努力來自動化整個青光眼分類程序，然而，這些現有模型通常具有黑盒特徵，使用戶無法理解預測背後的主要原因，因此醫療從業人員通常無法依賴這些系統。在本文中，在與各種預訓練模型比較後，我們提出了一個轉移學習模型，能夠以 94.71% 的準確率對青光眼進行分類。此外，我們利用了局部可解釋模型不可知解釋（LIME），在我們的系統中引入了可解釋性。這項改進使醫療專業人員能夠獲得重要且全面的資訊，幫助他們做出判斷。它也降低了傳統深度學習模型的不透明性和脆弱性。
-
-##### **Evaluation of importance estimators in deep learning classifiers for Computed Tomography**
-2209.15398v1 by Lennart Brocki, Wistan Marchadour, Jonas Maison, Bogdan Badic, Panagiotis Papadimitroulas, Mathieu Hatt, Franck Vermet, Neo Christopher Chung
-
-Deep learning has shown superb performance in detecting objects and
-classifying images, ensuring a great promise for analyzing medical imaging.
-Translating the success of deep learning to medical imaging, in which doctors
-need to understand the underlying process, requires the capability to interpret
-and explain the prediction of neural networks. Interpretability of deep neural
-networks often relies on estimating the importance of input features (e.g.,
-pixels) with respect to the outcome (e.g., class probability). However, a
-number of importance estimators (also known as saliency maps) have been
-developed and it is unclear which ones are more relevant for medical imaging
-applications. In the present work, we investigated the performance of several
-importance estimators in explaining the classification of computed tomography
-(CT) images by a convolutional deep network, using three distinct evaluation
-metrics. First, the model-centric fidelity measures a decrease in the model
-accuracy when certain inputs are perturbed. Second, concordance between
-importance scores and the expert-defined segmentation masks is measured on a
-pixel level by a receiver operating characteristic (ROC) curves. Third, we
-measure a region-wise overlap between a XRAI-based map and the segmentation
-mask by Dice Similarity Coefficients (DSC). Overall, two versions of SmoothGrad
-topped the fidelity and ROC rankings, whereas both Integrated Gradients and
-SmoothGrad excelled in DSC evaluation. Interestingly, there was a critical
-discrepancy between model-centric (fidelity) and human-centric (ROC and DSC)
-evaluation. Expert expectation and intuition embedded in segmentation maps does
-not necessarily align with how the model arrived at its prediction.
-Understanding this difference in interpretability would help harnessing the
-power of deep learning in medicine.
-
-摘要：深度學習在偵測物件和分類影像方面展現出卓越的表現，確保了分析醫學影像的巨大前景。
-將深度學習的成功轉化為醫學影像，其中醫生需要了解其背後過程，這需要解釋和說明神經網路的預測。深度神經網路的可解釋性通常依賴於估計輸入特徵（例如，像素）相對於結果（例如，類別機率）的重要性。然而，已經開發出許多重要性估計器（也稱為顯著性圖），但目前尚不清楚哪些對於醫學影像應用更為相關。在目前的研究中，我們使用三個不同的評估指標，研究了幾個重要性估計器在解釋卷積深度網路分類電腦斷層掃描 (CT) 影像時的表現。首先，以模型為中心的保真度測量在某些輸入受到擾動時模型精確度的降低。其次，在像素層級上，使用受試者操作特徵 (ROC) 曲線測量重要性分數和專家定義的分割遮罩之間的一致性。第三，我們透過 Dice 相似係數 (DSC) 測量基於 XRAI 的地圖和分割遮罩之間的區域重疊。整體而言，兩個版本的 SmoothGrad 在保真度和 ROC 排名中名列前茅，而積分梯度和 SmoothGrad 在 DSC 評估中表現優異。有趣的是，以模型為中心（保真度）和以人為中心（ROC 和 DSC）的評估之間存在著嚴重的差異。分割地圖中嵌入的專家期望和直覺不一定與模型得出預測的方式一致。了解可解釋性中的這種差異將有助於利用深度學習在醫學中的力量。
-
-##### **An Interactive Interpretability System for Breast Cancer Screening with Deep Learning**
-2210.08979v1 by Yuzhe Lu, Adam Perer
-
-Deep learning methods, in particular convolutional neural networks, have
-emerged as a powerful tool in medical image computing tasks. While these
-complex models provide excellent performance, their black-box nature may hinder
-real-world adoption in high-stakes decision-making. In this paper, we propose
-an interactive system to take advantage of state-of-the-art interpretability
-techniques to assist radiologists with breast cancer screening. Our system
-integrates a deep learning model into the radiologists' workflow and provides
-novel interactions to promote understanding of the model's decision-making
-process. Moreover, we demonstrate that our system can take advantage of user
-interactions progressively to provide finer-grained explainability reports with
-little labeling overhead. Due to the generic nature of the adopted
-interpretability technique, our system is domain-agnostic and can be used for
-many different medical image computing tasks, presenting a novel perspective on
-how we can leverage visual analytics to transform originally static
-interpretability techniques to augment human decision making and promote the
-adoption of medical AI.
-
-摘要：深度學習方法，尤其是卷積神經網路，已成為醫學影像運算任務中強大的工具。儘管這些複雜的模型提供了優異的效能，但它們的黑箱本質可能會阻礙在高風險決策中採用於現實世界。在本文中，我們提出一個互動系統，以利用最先進的可解釋性技術，協助放射科醫師進行乳癌篩檢。我們的系統將深度學習模型整合到放射科醫師的工作流程中，並提供新穎的互動方式，以促進對模型決策過程的理解。此外，我們證明我們的系統可以逐步利用使用者互動，以提供更細緻的可解釋性報告，而標記開銷很小。由於所採用的可解釋性技術的通用性質，我們的系統與領域無關，可用於許多不同的醫學影像運算任務，提供了一個新穎的觀點，說明我們如何利用視覺分析將原本靜態的可解釋性技術轉變為擴增人類決策制定和促進採用醫療 AI。
-
-##### **Explainable AI for clinical and remote health applications: a survey on tabular and time series data**
-2209.06528v1 by Flavio Di Martino, Franca Delmastro
-
-Nowadays Artificial Intelligence (AI) has become a fundamental component of
-healthcare applications, both clinical and remote, but the best performing AI
-systems are often too complex to be self-explaining. Explainable AI (XAI)
-techniques are defined to unveil the reasoning behind the system's predictions
-and decisions, and they become even more critical when dealing with sensitive
-and personal health data. It is worth noting that XAI has not gathered the same
-attention across different research areas and data types, especially in
-healthcare. In particular, many clinical and remote health applications are
-based on tabular and time series data, respectively, and XAI is not commonly
-analysed on these data types, while computer vision and Natural Language
-Processing (NLP) are the reference applications. To provide an overview of XAI
-methods that are most suitable for tabular and time series data in the
-healthcare domain, this paper provides a review of the literature in the last 5
-years, illustrating the type of generated explanations and the efforts provided
-to evaluate their relevance and quality. Specifically, we identify clinical
-validation, consistency assessment, objective and standardised quality
-evaluation, and human-centered quality assessment as key features to ensure
-effective explanations for the end users. Finally, we highlight the main
-research challenges in the field as well as the limitations of existing XAI
-methods.
-
-摘要：現今，人工智慧 (AI) 已成為醫療保健應用程式中不可或缺的組成部分，無論是臨床或遠距醫療，但效能最佳的 AI 系統通常過於複雜，無法自行解釋。可解釋 AI (XAI) 技術被定義為揭示系統預測和決策背後的推理，當處理敏感且個人的健康資料時，它們變得更為關鍵。值得注意的是，XAI 並未在不同的研究領域和資料類型中獲得相同的關注，特別是在醫療保健中。特別是，許多臨床和遠距醫療應用程式分別基於表格和時間序列資料，而 XAI 並未針對這些資料類型進行分析，而電腦視覺和自然語言處理 (NLP) 則為參考應用程式。為了提供最適合醫療保健領域中表格和時間序列資料的 XAI 方法概觀，本文回顧了過去 5 年的文獻，說明產生的解釋類型以及評估其相關性和品質所做的努力。具體來說，我們將臨床驗證、一致性評估、客觀且標準化的品質評估以及以人為中心的品質評估確定為確保對最終使用者提供有效解釋的主要特徵。最後，我們強調了該領域的主要研究挑戰以及現有 XAI 方法的限制。
 

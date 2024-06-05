@@ -25,7 +25,7 @@
 |**2024-05-31**|**Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames**|Valentina Pyatkin et.al.|[2405.20967v1](http://arxiv.org/abs/2405.20967v1)|null|
 |**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v2](http://arxiv.org/abs/2405.20962v2)|[link](https://github.com/ssai-trento/llm-zero-shot-nl)|
 |**2024-05-31**|**Navigating Tabular Data Synthesis Research: Understanding User Needs and Tool Capabilities**|Maria F. Davila R. et.al.|[2405.20959v1](http://arxiv.org/abs/2405.20959v1)|null|
-|**2024-05-31**|**A Robot Walks into a Bar: Can Language Models Serve asCreativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**|Piotr Wojciech Mirowski et.al.|[2405.20956v1](http://arxiv.org/abs/2405.20956v1)|null|
+|**2024-05-31**|**A Robot Walks into a Bar: Can Language Models Serve as Creativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**|Piotr Wojciech Mirowski et.al.|[2405.20956v2](http://arxiv.org/abs/2405.20956v2)|null|
 |**2024-05-31**|**OR-Bench: An Over-Refusal Benchmark for Large Language Models**|Justin Cui et.al.|[2405.20947v1](http://arxiv.org/abs/2405.20947v1)|null|
 |**2024-05-31**|**Effective Interplay between Sparsity and Quantization: From Theory to Practice**|Simla Burcu Harma et.al.|[2405.20935v1](http://arxiv.org/abs/2405.20935v1)|null|
 |**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917v1](http://arxiv.org/abs/2405.20917v1)|null|
@@ -45,7 +45,7 @@
 |**2024-05-31**|**SLIM: a Scalable Light-weight Root Cause Analysis for Imbalanced Data in Microservice**|Rui Ren et.al.|[2405.20848v1](http://arxiv.org/abs/2405.20848v1)|null|
 |**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846v1](http://arxiv.org/abs/2405.20846v1)|null|
 |**2024-05-31**|**einspace: Searching for Neural Architectures from Fundamental Operations**|Linus Ericsson et.al.|[2405.20838v1](http://arxiv.org/abs/2405.20838v1)|[link](https://github.com/linusericsson/einspace)|
-|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v1](http://arxiv.org/abs/2405.20835v1)|null|
+|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v2](http://arxiv.org/abs/2405.20835v2)|null|
 |**2024-05-31**|**That's Optional: A Contemporary Exploration of "that" Omission in English Subordinate Clauses**|Ella Rabinovich et.al.|[2405.20833v1](http://arxiv.org/abs/2405.20833v1)|null|
 |**2024-05-31**|**Self-Augmented Preference Optimization: Off-Policy Paradigms for Language Model Alignment**|Yueqin Yin et.al.|[2405.20830v1](http://arxiv.org/abs/2405.20830v1)|null|
 |**2024-05-31**|**An iterated learning model of language change that mixes supervised and unsupervised learning**|Jack Bunyan et.al.|[2405.20818v1](http://arxiv.org/abs/2405.20818v1)|null|
@@ -68,7 +68,7 @@
 |**2024-05-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al.|[2405.20700v1](http://arxiv.org/abs/2405.20700v1)|null|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
 |**2024-05-31**|**No Free Lunch Theorem for Privacy-Preserving LLM Inference**|Xiaojin Zhang et.al.|[2405.20681v1](http://arxiv.org/abs/2405.20681v1)|null|
-|**2024-05-31**|**Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**|Mingda Li et.al.|[2405.20680v2](http://arxiv.org/abs/2405.20680v2)|null|
+|**2024-05-31**|**Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**|Mingda Li et.al.|[2405.20680v3](http://arxiv.org/abs/2405.20680v3)|null|
 |**2024-05-31**|**Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**|Kidist Amde Mekonnen et.al.|[2405.20675v1](http://arxiv.org/abs/2405.20675v1)|[link](https://github.com/kidist-amde/adv-kd)|
 |**2024-05-31**|**DORY: Deliberative Prompt Recovery for LLM**|Lirong Gao et.al.|[2405.20657v1](http://arxiv.org/abs/2405.20657v1)|null|
 |**2024-05-31**|**Passage-specific Prompt Tuning for Passage Reranking in Question Answering with Large Language Models**|Xuyang Wu et.al.|[2405.20654v1](http://arxiv.org/abs/2405.20654v1)|null|
@@ -683,8 +683,8 @@ decision guide also identifies significant research gaps.
 
 摘要：<paragraph>在快速推進的數據驅動應用程式時代，研究和實務對資料的需求與日俱增。當沒有真實資料可用時（例如，由於隱私法規），合成資料已成為一種替代方案。合成表格資料會出現獨特且複雜的挑戰，特別是處理（一）遺失值、（二）資料集不平衡、（三）多樣化的欄位類型和（四）複雜的資料分佈，以及保留（一）欄位關聯性、（二）時間依賴性，以及（三）原始資料集中存在的完整性約束（例如，函數依賴性）。雖然最近在生成模型的背景下取得了實質性進展，但目前對於表格資料並沒有一體適用的解決方案，因此為特定任務選擇正確的工具並非易事。在本文中，我們調查了表格資料合成 (TDS) 的最新技術，透過定義一組功能性和非功能性需求來探討使用者的需求，並彙編滿足這些需求所面臨的挑戰。此外，我們評估了 36 種流行的研究 TDS 工具關於這些需求的報告效能，並制定了一個決策指南，以幫助使用者為其應用程式找到合適的 TDS 工具。產生的決策指南也找出了重要的研究差距。</paragraph>
 
-##### **A Robot Walks into a Bar: Can Language Models Serve asCreativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**
-2405.20956v1 by Piotr Wojciech Mirowski, Juliette Love, Kory W. Mathewson, Shakir Mohamed
+##### **A Robot Walks into a Bar: Can Language Models Serve as Creativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**
+2405.20956v2 by Piotr Wojciech Mirowski, Juliette Love, Kory W. Mathewson, Shakir Mohamed
 
 We interviewed twenty professional comedians who perform live shows in front
 of audiences and who use artificial intelligence in their artistic process as
@@ -707,7 +707,7 @@ alignment behind such language models, and discuss the importance of
 community-based value alignment and data ownership to build AI tools that
 better suit artists' needs.
 
-摘要：<paragraph>我們採訪了二十位在愛丁堡藝穗節 2023 年 8 月和線上舉辦的「AI x 喜劇」3 小時工作坊中，在觀眾面前進行現場表演，並在創作過程中使用人工智慧的專業喜劇演員。工作坊包含與大型語言模型 (LLM) 進行喜劇寫作課程、評估 AI 作為寫作工具的創造力支援指數的人機互動問卷，以及焦點小組探討喜劇演員使用 AI 的動機和流程，以及他們對偏見、審查和著作權的道德疑慮。與會者指出，安全過濾和指令調整 LLM 中使用的現有審核策略，透過抹除少數群體及其觀點，強化了霸權觀點，並將此認定為一種審查形式。同時，大多數與會者認為 LLM 無法作為創造力支援工具獲得成功，因為它們產生的喜劇橋段平淡且有偏見，類似於「1950 年代的郵輪喜劇素材，但種族歧視意味稍淡」。我們的作品擴展了關於有害言論與「冒犯性」語言之間微妙差異的研究，後者是一種抵抗、諷刺和「向上攻擊」的實踐。我們也探討了此類語言模型背後的全球價值觀一致性，並討論了以社群為基礎的價值觀一致性和資料所有權，對於建構更符合藝術家需求的 AI 工具的重要性。</paragraph>
+摘要：<paragraph>我們訪問了 20 位專業喜劇演員，他們在現場表演中面對觀眾，並在他們的藝術過程中使用人工智慧，作為 2023 年 8 月在愛丁堡藝穗節和線上舉辦的「AI x 喜劇」3 小時工作坊的一部分。工作坊包含一場使用大型語言模型 (LLM) 的喜劇寫作課程、一份人機互動問卷，用來評估 AI 作為寫作工具的創意支援指數，以及一個焦點小組，探討喜劇演員使用 AI 的動機與流程，以及他們對偏見、審查和著作權的道德疑慮。參與者指出，安全過濾和指令調整 LLM 中使用的現有審核策略，透過抹除少數群體及其觀點，強化了霸權觀點，並將此認定為一種形式的審查制度。同時，大多數參與者認為 LLM 無法成功作為創意支援工具，因為它們產生的喜劇橋段平淡且有偏見，類似於「1950 年代的郵輪喜劇素材，但稍微不那麼種族歧視」。我們的研究擴展了關於有害言論和「冒犯性」語言之間微妙差異的學術探討，後者是一種抵抗、諷刺和「向上攻擊」的手法。我們也探討了此類語言模型背後的全球價值觀一致性，並討論了以社群為基礎的價值觀一致性和資料所有權，對於建構更符合藝術家需求的 AI 工具的重要性。</paragraph>
 
 ##### **OR-Bench: An Over-Refusal Benchmark for Large Language Models**
 2405.20947v1 by Justin Cui, Wei-Lin Chiang, Ion Stoica, Cho-Jui Hsieh
@@ -1133,7 +1133,7 @@ search initialisation play key roles.
 摘要：神經結構搜尋 (NAS) 尋找給定任務的高效能網路。然而，NAS 的結果相當平淡；例如，它們並未從捲積結構轉移到Transformer。這主要是因為 NAS 中的搜尋空間通常不夠多元，無法先驗包含此類轉換。相反地，為了讓 NAS 提供更大的基本設計轉變潛力，我們需要一個新穎且具表達力的搜尋空間設計，而此設計是建立在更基本的運算上。為此，我們引入了 einspace，一個基於參數化機率無上下文文法的搜尋空間。我們的空間具有多功能性，支援各種大小和複雜性的架構，同時也包含多元的網路運算，使其能夠建模卷積、注意力元件等。它包含許多現有的競爭性架構，並提供彈性來發現新的架構。使用此搜尋空間，我們執行實驗以尋找新穎的架構，以及在多元的 Unseen NAS 資料集上對現有架構進行改進。我們展示了可透過從頭開始搜尋來取得競爭性架構，並且在使用強大的基準初始化搜尋時，我們持續發現大幅的改進。我們相信這項工作是邁向轉型 NAS 典範的重要進展，其中搜尋空間的表達力和策略性搜尋初始化扮演了關鍵角色。
 
 ##### **Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**
-2405.20835v1 by Davide Paglieri, Saurabh Dash, Tim Rocktäschel, Jack Parker-Holder
+2405.20835v2 by Davide Paglieri, Saurabh Dash, Tim Rocktäschel, Jack Parker-Holder
 
 Post-Training Quantization (PTQ) enhances the efficiency of Large Language
 Models (LLMs) by enabling faster operation and compatibility with more
@@ -1143,12 +1143,12 @@ their effect on hidden activations in various notable open-source LLMs.
 Calibration sets are crucial for evaluating activation magnitudes and
 identifying outliers, which can distort the quantization range and negatively
 impact performance. Our analysis reveals a marked contrast in quantization
-effectiveness across models. The older OPT model, which much of the
-quantization literature is based on, shows significant performance
-deterioration and high susceptibility to outliers with varying calibration
-sets. In contrast, newer models like Llama-2 7B, Llama-3 8B, Command-R 35B, and
-Mistral 7B demonstrate strong robustness, with Mistral 7B showing near-immunity
-to outliers and stable activations. These findings suggest a shift in PTQ
+effectiveness across models. The older OPT model, upon which much of the
+quantization literature is based, shows significant performance deterioration
+and high susceptibility to outliers with varying calibration sets. In contrast,
+newer models like Llama-2 7B, Llama-3 8B, Command-R 35B, and Mistral 7B
+demonstrate strong robustness, with Mistral 7B showing near-immunity to
+outliers and stable activations. These findings suggest a shift in PTQ
 strategies might be needed. As advancements in pre-training methods reduce the
 relevance of outliers, there is an emerging need to reassess the fundamentals
 of current quantization literature. The emphasis should pivot towards
@@ -1156,7 +1156,7 @@ optimizing inference speed, rather than primarily focusing on outlier
 preservation, to align with the evolving characteristics of state-of-the-art
 LLMs.
 
-摘要：後訓練量化 (PTQ) 透過降低記憶體使用量來提升大型語言模型 (LLM) 的效率，進而實現更快速的運作，並與更多可存取的硬體相容，但代價是會稍微降低效能。我們探討校正集在 PTQ 中的角色，特別是它們對各種著名的開放原始碼 LLM 中的隱藏激活的影響。校正集對於評估激活幅度和找出異常值至關重要，因為異常值可能會扭曲量化範圍並對效能造成負面影響。我們的分析顯示，不同模型在量化有效性上有顯著的差異。許多量化文獻所依據的較舊 OPT 模型，顯示出顯著的效能惡化，且對不同校正集的異常值高度敏感。相比之下，更新的模型，例如 Llama-2 7B、Llama-3 8B、Command-R 35B 和 Mistral 7B，則展現出強大的穩健性，其中 Mistral 7B 顯示出對異常值的近乎免疫性和穩定的激活。這些發現表明，PTQ 策略可能需要轉變。隨著預訓練方法的進步降低異常值的重要性，重新評估當前量化文獻的基本原理已成為新興需求。重點應轉向最佳化推論速度，而不是主要關注異常值保留，以符合最先進 LLM 的演化特性。
+摘要：訓練後量化 (PTQ) 透過減少記憶體用量來提升大型語言模型 (LLM) 的效率，讓運作速度更快，並與更容易取得的硬體相容，但代價是效能略微下降。我們探討校正組在 PTQ 中的角色，特別是它們對各種知名開源 LLM 中隱藏激活的影響。校正組對於評估激活幅度和找出異常值至關重要，因為異常值會扭曲量化範圍並對效能產生負面影響。我們的分析顯示，不同模型的量化效果有顯著差異。許多量化文獻所依據的較舊 OPT 模型，在使用不同的校正組時，效能會顯著下降，且對異常值高度敏感。相比之下，Llama-2 7B、Llama-3 8B、Command-R 35B 和 Mistral 7B 等較新的模型表現出強大的穩健性，其中 Mistral 7B 對異常值幾乎免疫，且激活穩定。這些發現表明，PTQ 策略可能需要改變。隨著預訓練方法的進步降低異常值的重要性，重新評估現有量化文獻的基本原理已成當務之急。重點應轉向最佳化推論速度，而不是主要關注異常值保留，以符合最先進 LLM 的演化特性。
 
 ##### **That's Optional: A Contemporary Exploration of "that" Omission in English Subordinate Clauses**
 2405.20833v1 by Ella Rabinovich
@@ -1644,7 +1644,7 @@ word No-Free-Lunch) Theorem.
 摘要：個人和企業已經從大型語言模型 (LLM)，包括 PaLM、Gemini 和 ChatGPT，在各種方面獲得顯著的好處。例如，LLM 提高生產力、降低成本，並使我們能夠專注於更有價值的任務。此外，LLM 具備篩選廣泛數據集、發現潛在模式，並提供推動技術和科學前沿的關鍵見解的能力。然而，LLM 也會引發隱私問題。使用者與 LLM 的互動可能會暴露其敏感的個人或公司資訊。缺乏強大的隱私保障措施和法律架構可能會允許對個人資料的非法入侵或不當處理，從而造成隱私權的侵犯和個人身分的盜用。為了確保隱私，最小化共享提示與私人資訊之間的依賴性至關重要。已經提出各種隨機化方法來保護提示的隱私，但與未受保護的 LLM 提示相比，它們可能會造成效用損失。因此，在執行有效的保護機制時，評估隱私洩露風險與效用損失之間的平衡至關重要。目前的研究開發了一個用於推論隱私保護大型語言模型 (LLM) 的框架，並為檢視隱私保護和效用之間的交互作用奠定了穩固的理論基礎。核心見解被封裝在一個被稱為 NFL（免費午餐定理的縮寫）定理中。
 
 ##### **Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**
-2405.20680v2 by Mingda Li, Xinyu Li, Yifan Chen, Wenfeng Xuan, Weinan Zhang
+2405.20680v3 by Mingda Li, Xinyu Li, Yifan Chen, Wenfeng Xuan, Weinan Zhang
 
 Although Retrieval-Augmented Large Language Models (RALMs) demonstrate their
 superiority in terms of factuality, they do not consistently outperform the
@@ -1662,7 +1662,7 @@ errors. Our experiments on Open Domain Question Answering show that EoR
 substantially improves performance over the RALM with a single retriever by
 considerably reducing inconsistent behaviors.
 
-摘要：儘管檢索增強大型語言模型 (RALM) 在事實性方面展現其優越性，但它們並非始終優於原始的非檢索語言模型 (LM)。我們的實驗揭示，這種範例層級效能不一致不僅存在於檢索增強和非檢索 LM 之間，也存在於不同的檢索器之間。為了了解這種現象，我們研究了 RALM 的退化行為，並在理論上將其分解為四種類別。根據我們的分解進行進一步的分析，揭示了知識來源的內在差異和閱讀器模型不可預測的退化對不一致性的影響最大。根據我們的分析，我們引入了檢索器合奏 (EoR)，這是一個可訓練的架構，可以自適應地從不同的知識來源中檢索，並有效減少不可預測的閱讀器錯誤。我們在開放領域問答上的實驗表明，EoR 大幅改善了使用單一檢索器的 RALM 的效能，方法是大幅減少不一致的行為。
+摘要：儘管檢索增強大型語言模型 (RALM) 在真實性方面展現其優越性，但它們並未持續優於原始的無檢索語言模型 (LM)。我們的實驗顯示，這種範例層級的效能不一致性不僅存在於檢索增強與無檢索的 LM 之間，也存在於不同的檢索器之間。為了理解這種現象，我們探討了 RALM 的退化行為，並從理論上將其分解為四種類別。基於我們分解的進一步分析顯示，知識來源的本質差異和閱讀器模型的不可預測退化最會造成不一致性。根據我們的分析，我們引入了檢索器合奏 (EoR)，這是一個可訓練的架構，可以從不同的知識來源自適應地檢索，並有效減少不可預測的閱讀器錯誤。我們在開放領域問答上的實驗顯示，EoR 透過大幅減少不一致行為，大幅改善了使用單一檢索器的 RALM 的效能。
 
 ##### **Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**
 2405.20675v1 by Kidist Amde Mekonnen, Nicola Dall'Asen, Paolo Rota

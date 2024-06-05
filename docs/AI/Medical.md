@@ -19,14 +19,14 @@
 |**2024-05-30**|**Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**|Jinxia Yang et.al.|[2405.19654v1](http://arxiv.org/abs/2405.19654v1)|[link](https://github.com/svt-yang/medst)|
 |**2024-05-30**|**Leveraging Open-Source Large Language Models for encoding Social Determinants of Health using an Intelligent Router**|Akul Goel et.al.|[2405.19631v1](http://arxiv.org/abs/2405.19631v1)|null|
 |**2024-05-29**|**Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding**|Shenghuan Sun et.al.|[2405.19567v1](http://arxiv.org/abs/2405.19567v1)|null|
-|**2024-05-29**|**CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**|Pierre Chambon et.al.|[2405.19538v1](http://arxiv.org/abs/2405.19538v1)|[link](https://github.com/stanford-aimi/chexpert-plus)|
+|**2024-05-29**|**CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats**|Pierre Chambon et.al.|[2405.19538v2](http://arxiv.org/abs/2405.19538v2)|[link](https://github.com/stanford-aimi/chexpert-plus)|
 |**2024-05-29**|**Participation in the age of foundation models**|Harini Suresh et.al.|[2405.19479v1](http://arxiv.org/abs/2405.19479v1)|null|
 |**2024-05-29**|**MemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection**|Raman Dutt et.al.|[2405.19458v1](http://arxiv.org/abs/2405.19458v1)|null|
 |**2024-05-29**|**Conformal Depression Prediction**|Yonghong Li et.al.|[2405.18723v1](http://arxiv.org/abs/2405.18723v1)|null|
 |**2024-05-28**|**D-CoRP: Differentiable Connectivity Refinement for Functional Brain Networks**|Haoyu Hu et.al.|[2405.18658v1](http://arxiv.org/abs/2405.18658v1)|null|
 |**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610v1](http://arxiv.org/abs/2405.18610v1)|[link](https://github.com/gilesluo/dtr-bench)|
 |**2024-05-28**|**Low-rank finetuning for LLMs: A fairness perspective**|Saswat Das et.al.|[2405.18572v1](http://arxiv.org/abs/2405.18572v1)|null|
-|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556v1](http://arxiv.org/abs/2405.18556v1)|[link](https://github.com/gilesluo/reassessdtr)|
+|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556v2](http://arxiv.org/abs/2405.18556v2)|[link](https://github.com/gilesluo/reassessdtr)|
 |**2024-05-28**|**The FAIIR Tool: A Conversational AI Agent Assistant for Youth Mental Health Service Provision**|Stephen Obadinma et.al.|[2405.18553v1](http://arxiv.org/abs/2405.18553v1)|null|
 |**2024-05-28**|**Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**|James Derek Lomas et.al.|[2405.18510v1](http://arxiv.org/abs/2405.18510v1)|null|
 |**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387v1](http://arxiv.org/abs/2405.18387v1)|[link](https://github.com/joangog/object-detection)|
@@ -504,8 +504,8 @@ demonstrating strong performance in multi-turn medical conversations.
 
 摘要：視覺語言模型 (VLM) 可透過分析醫療影像並進行自然語言互動來協助臨床醫生，以協助診斷和治療任務。然而，VLM 經常表現出「幻覺」行為，產生未基於脈絡多模態資訊的文字輸出。這個挑戰在醫療領域特別明顯，因為我們不僅要求 VLM 輸出在單一互動中準確，還必須在多輪對話中與臨床推理和診斷途徑保持一致。為此，我們提出了一種新的對齊演算法，它使用臨床推理的符號表示法將 VLM 建立在醫學知識上。這些表示法用於：(i) 生成 GPT-4 引導的視覺指令調整資料，模擬臨床醫生-VLM 對話，並展示臨床推理，以及 (ii) 建立一個自動獎勵函數，用於評估 VLM 生成在臨床醫生-VLM 互動中的臨床有效性。我們的演算法消除了在訓練資料生成或獎勵模型建構中需要人工參與，與需要人工回饋（RLHF）的標準強化學習相比，降低了成本。我們將我們的對齊演算法應用於開發 Dr-LLaVA，這是一個針對分析骨髓病理切片進行微調的對話式 VLM，在多輪醫療對話中展現出強大的效能。
 
-##### **CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**
-2405.19538v1 by Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang, Zhihong Chen, Maya Varma, Steven QH Truong, Chu The Chuong, Curtis P. Langlotz
+##### **CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats**
+2405.19538v2 by Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang, Zhihong Chen, Maya Varma, Steven QH Truong, Chu The Chuong, Curtis P. Langlotz
 
 Since the release of the original CheXpert paper five years ago, CheXpert has
 become one of the most widely used and cited clinical AI datasets. The
@@ -531,9 +531,9 @@ https://stanfordaimi.azurewebsites.net/datasets/5158c524-d3ab-4e02-96e9-6ee9efc1
 Models are available at the following URL:
 https://github.com/Stanford-AIMI/chexpert-plus
 
-摘要：自五年前原始 CheXpert 论文发布以来，CheXpert 已成为使用最广泛且引用最多的临床 AI 数据集之一。视觉语言模型的出现引发了对共享与 CheXpert 图像相关联的报告的需求增加，以及 AI 公平性研究人员对获取人口统计数据的兴趣日益浓厚。为了解决这个问题，CheXpert Plus 作为放射学数据源的新集合，公开提供，以增强放射学领域所有后续机器学习任务的模型的可扩展性、性能、鲁棒性和公平性。CheXpert Plus 是放射学领域公开发布的最大文本数据集，总共有 3600 万个文本标记，其中包括 1300 万个印象标记。据我们所知，它代表了放射学领域最大的文本去识别工作，几乎有 100 万个 PHI 跨度被匿名化。这是放射学领域第二次发布大规模英语配对数据集，从而首次实现了大规模的跨机构培训。所有报告都与 DICOM 格式的高质量图像配对，以及涵盖各种临床和社会经济群体的大量图像和患者元数据，以及许多病理标签和 RadGraph 注释。我们希望此数据集将促进人工智能模型的研究，这些模型可以进一步协助放射科医生并帮助改善医疗保健。数据可在以下 URL 获得：
+摘要：自 5 年前发布原始 CheXpert 论文以来，CheXpert 已成为使用最广泛且引用最多的临床 AI 数据集之一。视觉语言模型的出现引发了对共享与 CheXpert 图像关联的报告的需求增加，以及 AI 公平性研究人员对获取人口统计数据的兴趣日益浓厚。为了解决这个问题，CheXpert Plus 作为放射学数据源的新集合，公开提供，以增强放射学领域所有后续机器学习任务的模型的扩展性、性能、鲁棒性和公平性。CheXpert Plus 是放射学领域公开发布的最大的文本数据集，总共有 3600 万个文本标记，其中包括 1300 万个印象标记。据我们所知，它代表了放射学领域最大的文本去标识化工作，其中将近 100 万个 PHI 跨度匿名化。这是放射学领域第二次发布大规模英语配对数据集，从而首次实现了大规模跨机构训练。所有报告都与 DICOM 格式的高质量图像配对，以及涵盖各种临床和社会经济群体的众多图像和患者元数据，以及许多病理标签和 RadGraph 注释。我们希望该数据集将促进对 AI 模型的研究，这些模型可以进一步协助放射科医生并帮助改善医疗保健。数据可在以下网址获取：
 https://stanfordaimi.azurewebsites.net/datasets/5158c524-d3ab-4e02-96e9-6ee9efc110a1
-模型可在以下 URL 获得：
+模型可在以下网址获取：
 https://github.com/Stanford-AIMI/chexpert-plus
 
 ##### **Participation in the age of foundation models**
@@ -690,7 +690,7 @@ careful evaluation to promote responsible LLMs development.
 摘要：低秩近似技术已成为微调大型语言模型 (LLM) 的事实标准，因为它们降低了计算和内存需求。本文探讨了这些方法在从初始预训练数据分布中捕获微调数据集的变化方面的有效性。我们的发现表明，在某些情况下，低秩微调无法学习这种变化。这反过来又会产生不可忽视的副作用，尤其是在微调被用于预训练模型中的毒性缓解时，或在提供公平模型很重要的场景中。通过对多个模型、数据集和任务进行全面的实证证据，我们表明低秩微调无意中保留了不良偏见和有害行为。我们还表明这扩展到了顺序决策任务，强调了仔细评估以促进负责任的 LLM 开发的必要性。
 
 ##### **Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**
-2405.18556v1 by Zhiyao Luo, Yangchen Pan, Peter Watkinson, Tingting Zhu
+2405.18556v2 by Zhiyao Luo, Yangchen Pan, Peter Watkinson, Tingting Zhu
 
 In the rapidly changing healthcare landscape, the implementation of offline
 reinforcement learning (RL) in dynamic treatment regimes (DTRs) presents a mix
@@ -711,7 +711,7 @@ more reliable development of RL-based dynamic treatment regimes and invited
 further discussion within the community. Code is available at
 https://github.com/GilesLuo/ReassessDTR.
 
-摘要：在快速變化的醫療保健環境中，離線強化學習 (RL) 在動態治療方案 (DTR) 中的實施呈現了前所未有的機會和挑戰。本立場文件對離線 RL 在 DTR 背景下的現狀進行了批判性審查。我們主張重新評估在 DTR 中應用 RL，並提出了一些疑慮，例如不一致且可能沒有定論的評估指標、缺乏天真的和監督式的學習基線，以及現有研究中 RL 公式的多樣選擇。通過一個使用公開 Sepsis 數據集進行的超過 17,000 次評估實驗的案例研究，我們證明了 RL 演算法的效能會隨著評估指標和馬可夫決策過程 (MDP) 公式的變化而有顯著差異。令人驚訝的是，我們觀察到在某些情況下，RL 演算法可能會被隨機基線所超越，這些基線會受到策略評估方法和獎勵設計的影響。這要求在未來的 DTR 工作中進行更仔細的策略評估和演算法開發。此外，我們討論了朝著更可靠的基於 RL 的動態治療方案開發的潛在改進，並邀請社群進一步討論。程式碼可在 https://github.com/GilesLuo/ReassessDTR 取得。
+摘要：在快速變化的醫療保健領域中，在動態治療方案 (DTR) 中實施離線強化學習 (RL) 帶來了一系列前所未有的機遇和挑戰。本立場文件對 DTR 背景下的離線 RL 的現狀進行了批判性審查。我們主張重新評估在 DTR 中應用 RL，並提出了一些問題，例如不一致且可能不具決定性的評估指標、缺乏幼稚和監督學習基準，以及現有研究中 RL 公式的多樣選擇。通過一個案例研究，使用一個公開可用的敗血症數據集進行了 17,000 多次評估實驗，我們證明了 RL 演算法的性能可以隨著評估指標和馬可夫決策過程 (MDP) 公式的變化而發生顯著變化。令人驚訝的是，我們觀察到在某些情況下，RL 演算法可以被隨機基準線超越，這些基準線採用策略評估方法和獎勵設計。這需要在未來的 DTR 工作中進行更仔細的策略評估和演算法開發。此外，我們討論了朝著更可靠的基於 RL 的動態治療方案開發的潛在改進，並邀請社區內進一步討論。程式碼可在 https://github.com/GilesLuo/ReassessDTR 獲得。
 
 ##### **The FAIIR Tool: A Conversational AI Agent Assistant for Youth Mental Health Service Provision**
 2405.18553v1 by Stephen Obadinma, Alia Lachana, Maia Norman, Jocelyn Rankin, Joanna Yu, Xiaodan Zhu, Darren Mastropaolo, Deval Pandya, Roxana Sultan, Elham Dolatabadi

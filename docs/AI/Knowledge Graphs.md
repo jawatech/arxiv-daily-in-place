@@ -25,7 +25,7 @@
 |**2024-05-27**|**Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**|Xun Liang et.al.|[2405.16933v1](http://arxiv.org/abs/2405.16933v1)|[link](https://github.com/iaar-shanghai/pgrag)|
 |**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806v2](http://arxiv.org/abs/2405.16806v2)|[link](https://github.com/chensycn/llm4ea_official)|
 |**2024-05-27**|**TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**|Zheng Zhang et.al.|[2405.16800v1](http://arxiv.org/abs/2405.16800v1)|null|
-|**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v1](http://arxiv.org/abs/2405.16412v1)|[link](https://github.com/pat-jj/KG-FIT)|
+|**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v2](http://arxiv.org/abs/2405.16412v2)|[link](https://github.com/pat-jj/KG-FIT)|
 |**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
 |**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
 |**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v2](http://arxiv.org/abs/2405.15739v2)|[link](https://github.com/andresalgaba/llm_citation_patterns)|
@@ -94,7 +94,7 @@
 |**2024-04-26**|**PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games**|Qinglin Zhu et.al.|[2404.17662v1](http://arxiv.org/abs/2404.17662v1)|[link](https://github.com/alickzhu/player)|
 |**2024-04-26**|**Language Interaction Network for Clinical Trial Approval Estimation**|Chufan Gao et.al.|[2405.06662v1](http://arxiv.org/abs/2405.06662v1)|null|
 |**2024-04-25**|**CyNetDiff -- A Python Library for Accelerated Implementation of Network Diffusion Models**|Eliot W. Robson et.al.|[2404.17059v1](http://arxiv.org/abs/2404.17059v1)|[link](https://github.com/eliotwrobson/cynetdiff)|
-|**2024-04-25**|**Player-Driven Emergence in LLM-Driven Game Narrative**|Xiangyu Peng et.al.|[2404.17027v2](http://arxiv.org/abs/2404.17027v2)|null|
+|**2024-04-25**|**Player-Driven Emergence in LLM-Driven Game Narrative**|Xiangyu Peng et.al.|[2404.17027v3](http://arxiv.org/abs/2404.17027v3)|null|
 |**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000v1](http://arxiv.org/abs/2404.17000v1)|[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)|
 |**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|[link](https://github.com/tian14267/ls_mbert)|
 |**2024-04-24**|**Semgrex and Ssurgeon, Searching and Manipulating Dependency Graphs**|John Bauer et.al.|[2404.16250v1](http://arxiv.org/abs/2404.16250v1)|null|
@@ -665,7 +665,7 @@ across eight real-world datasets.
 摘要：文本属性图 (TAG) 使用自然语言描述增强图结构，能够详细表示数据及其在广泛的真实世界场景中的关系。尽管有更深入见解的潜力，但现有的 TAG 表示学习主要依赖于监督方法，需要大量的标记数据，并限制了在不同上下文中的适用性。本文介绍了一个新的自监督学习框架，文本和图多视图对齐 (TAGA)，通过整合 TAG 的结构和语义维度来克服这些限制。TAGA 构建了两个互补的视图：图文本视图，它根据图拓扑将节点文本组织成结构化文档；文本图视图，它将文本节点和连接转换为图数据。通过对齐来自两个视图的表示，TAGA 捕获了联合文本和结构信息。此外，提出了一种新颖的结构保持随机游走算法，用于对大型 TAG 进行高效训练。我们的框架在八个真实世界数据集的零样本和少样本场景中展示了强大的性能。
 
 ##### **KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**
-2405.16412v1 by Pengcheng Jiang, Lang Cao, Cao Xiao, Parminder Bhatia, Jimeng Sun, Jiawei Han
+2405.16412v2 by Pengcheng Jiang, Lang Cao, Cao Xiao, Parminder Bhatia, Jimeng Sun, Jiawei Han
 
 Knowledge Graph Embedding (KGE) techniques are crucial in learning compact
 representations of entities and relations within a knowledge graph,
@@ -686,7 +686,7 @@ base models upon which it is built. These results highlight the effectiveness
 of KG-FIT in incorporating open-world knowledge from LLMs to significantly
 enhance the expressiveness and informativeness of KG embeddings.
 
-摘要：知識圖譜嵌入 (KGE) 技術對於學習知識圖譜中實體和關係的緊湊表示至關重要，促進了高效的推理和知識發現。雖然現有方法通常專注於僅基於圖形結構訓練 KGE 模型或使用 KG 中的分類數據微調預訓練的語言模型，但 KG-FIT 利用 LLM 指導的精煉來構建語義上連貫的實體群集層次結構。通過在微調過程中將這種層次知識與文本信息結合起來，KG-FIT 有效地從 LLM 中捕獲全局語義，從 KG 中捕獲局部語義。在基準數據集 FB15K-237、YAGO3-10 和 PrimeKG 上進行的廣泛實驗證明了 KG-FIT 優於最先進的基於預訓練語言模型的方法，在鏈路預測任務的 Hits@10 指標中分別取得了 14.4%、13.5% 和 11.9% 的改進。此外，與其構建的基於結構的基礎模型相比，KG-FIT 在性能上顯著提升了 12.6%、6.7% 和 17.7%。這些結果突出了 KG-FIT 在整合來自 LLM 的開放世界知識以顯著增強 KG 嵌入的表達力和信息量方面的有效性。
+摘要：知識圖嵌入 (KGE) 技術對於學習知識圖中實體和關係的緊湊表示至關重要，有助於高效推理和知識發現。雖然現有方法通常側重於僅基於圖形結構訓練 KGE 模型或使用 KG 中的分類數據微調預訓練語言模型，但 KG-FIT 利用 LLM 引導的優化來構建實體群集的語義一致分層結構。透過在微調過程中將此分層知識與文本資訊結合，KG-FIT 有效地擷取了 LLM 的全局語義和 KG 的局部語義。在基準資料集 FB15K-237、YAGO3-10 和 PrimeKG 上進行的廣泛實驗證明了 KG-FIT 優於最先進的基於預訓練語言模型的方法，在連結預測任務中，Hits@10 指標分別提升了 14.4%、13.5% 和 11.9%。此外，與其建立的基於結構的基礎模型相比，KG-FIT 產生了 12.6%、6.7% 和 17.7% 的顯著效能提升。這些結果突顯了 KG-FIT 在結合來自 LLM 的開放世界知識以顯著增強 KG 嵌入的表現力和資訊性方面的有效性。
 
 ##### **Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**
 2405.16405v1 by Runlin Lei, Yuwei Hu, Yuchen Ren, Zhewei Wei
@@ -2396,7 +2396,7 @@ diffusion tasks.
 摘要：近年来，网络扩散模型及相关问题越来越受到关注。其中最流行的是独立级联和线性阈值模型。这些模型上进行的许多近期实验工作需要对大型图进行大量的模拟，这是一项适合低级语言的计算成本高昂的任务。然而，许多研究人员更喜欢使用高级语言（如 Python），因为它们具有灵活性且开发时间较短。此外，在许多研究任务中，这些模拟是最耗费计算资源的任务，因此最好有一个针对这些任务的库，该库具有高级语言的接口和低级语言的性能。为了填补这一空白，我们引入了 CyNetDiff，这是一个 Python 库，其中包含用 Cython 编写的组件，以提高这些计算密集型扩散任务的性能。
 
 ##### **Player-Driven Emergence in LLM-Driven Game Narrative**
-2404.17027v2 by Xiangyu Peng, Jessica Quaye, Weijia Xu, Portia Botchway, Chris Brockett, Bill Dolan, Nebojsa Jojic, Gabriel DesGarennes, Ken Lobb, Michael Xu, Jorge Leandro, Claire Jin, Sudha Rao
+2404.17027v3 by Xiangyu Peng, Jessica Quaye, Sudha Rao, Weijia Xu, Portia Botchway, Chris Brockett, Nebojsa Jojic, Gabriel DesGarennes, Ken Lobb, Michael Xu, Jorge Leandro, Claire Jin, Bill Dolan
 
 We explore how interaction with large language models (LLMs) can give rise to
 emergent behaviors, empowering players to participate in the evolution of game
@@ -2411,7 +2411,7 @@ part of the original narrative but have potential for being fun and engaging.
 Players that created the most emergent nodes tended to be those that often
 enjoy games that facilitate discovery, exploration and experimentation.
 
-摘要：我們探討與大型語言模型 (LLM) 互動如何產生新興行為，讓玩家能夠參與遊戲敘事的演變。我們的測試平台是一個文字冒險遊戲，玩家在固定的敘事前提下嘗試解開謎團，但可以自由與 GPT-4（一種大型語言模型）產生的非玩家角色互動。我們招募了 28 位玩家來玩遊戲，並使用 GPT-4 自動將遊戲記錄轉換成代表玩家遊戲過程中敘事的節點圖。我們發現，玩家透過與 LLM 的非確定性行為互動，能夠發現有趣的全新新興節點，這些節點並非原始敘事的一部分，但有潛力帶來樂趣和吸引力。創造最多新興節點的玩家往往是那些經常享受促進發現、探索和實驗的遊戲的人。
+摘要：我們探討與大型語言模型 (LLM) 的互動如何能產生新興行為，讓玩家能參與遊戲敘事的演變。我們的測試平台是一款文字冒險遊戲，玩家在固定的敘事前提下嘗試解開謎團，但可以自由與 GPT-4（一種大型語言模型）生成的非玩家角色互動。我們招募了 28 位玩家來玩遊戲，並使用 GPT-4 自動將遊戲記錄轉換成節點圖，代表玩家遊戲中的敘事。我們發現，玩家透過與 LLM 的非決定性行為互動，能夠發現有趣的全新新興節點，這些節點並非原始敘事的一部分，但有潛力帶來樂趣和吸引力。創造最多新興節點的玩家往往是那些經常享受促進發現、探索和實驗的遊戲的玩家。
 
 ##### **Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**
 2404.17000v1 by Bradley P. Allen, Paul T. Groth

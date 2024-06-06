@@ -2,9 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting**|Yuansan Liu et.al.|[2406.02827v1](http://arxiv.org/abs/2406.02827v1)|null|
+|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|null|
 |**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462v1](http://arxiv.org/abs/2406.02462v1)|null|
 |**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|[link](https://github.com/maximegmd/glianorex-gen)|
-|**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v1](http://arxiv.org/abs/2406.02350v1)|[link](https://github.com/stephen-smj/llamacare)|
+|**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v2](http://arxiv.org/abs/2406.02350v2)|[link](https://github.com/stephen-smj/llamacare)|
 |**2024-06-04**|**A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**|Arash Ahmadi et.al.|[2406.01950v1](http://arxiv.org/abs/2406.01950v1)|null|
 |**2024-06-03**|**Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization**|Firas Khader et.al.|[2406.01314v1](http://arxiv.org/abs/2406.01314v1)|null|
 |**2024-06-03**|**TCMBench: A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine**|Wenjing Yue et.al.|[2406.01126v1](http://arxiv.org/abs/2406.01126v1)|null|
@@ -15,6 +17,7 @@
 |**2024-06-02**|**Bayesian Joint Additive Factor Models for Multiview Learning**|Niccolo Anceschi et.al.|[2406.00778v1](http://arxiv.org/abs/2406.00778v1)|[link](https://github.com/niccoloanceschi/jafar)|
 |**2024-06-02**|**An Early Investigation into the Utility of Multimodal Large Language Models in Medical Imaging**|Sulaiman Khan et.al.|[2406.00667v1](http://arxiv.org/abs/2406.00667v1)|null|
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|[link](https://github.com/benjamintowle/simsam)|
+|**2024-06-02**|**Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications**|David Restrepo et.al.|[2406.02601v1](http://arxiv.org/abs/2406.02601v1)|null|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v1](http://arxiv.org/abs/2406.00314v1)|[link](https://github.com/sarthakharne/case)|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|[link](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition)|
@@ -99,11 +102,58 @@
 |**2024-05-22**|**KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization in EHR**|Hajung Kim et.al.|[2406.00014v1](http://arxiv.org/abs/2406.00014v1)|null|
 |**2024-05-21**|**How Reliable AI Chatbots are for Disease Prediction from Patient Complaints?**|Ayesha Siddika Nipu et.al.|[2405.13219v1](http://arxiv.org/abs/2405.13219v1)|null|
 |**2024-05-21**|**Interpretable Spatio-Temporal Embedding for Brain Structural-Effective Network with Ordinary Differential Equation**|Haoteng Tang et.al.|[2405.13190v1](http://arxiv.org/abs/2405.13190v1)|null|
-|**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
-|**2024-05-21**|**KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning**|Yusong Zhang et.al.|[2405.13094v1](http://arxiv.org/abs/2405.13094v1)|null|
-|**2024-05-21**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711v2](http://arxiv.org/abs/2405.12711v2)|null|
 
 #### Abstracts
+##### **Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting**
+2406.02827v1 by Yuansan Liu, Sudanthi Wijewickrema, Dongting Hu, Christofer Bester, Stephen O'Leary, James Bailey
+
+Recent innovations in diffusion probabilistic models have paved the way for
+significant progress in image, text and audio generation, leading to their
+applications in generative time series forecasting. However, leveraging such
+abilities to model highly stochastic time series data remains a challenge. In
+this paper, we propose a novel Stochastic Diffusion (StochDiff) model which
+learns data-driven prior knowledge at each time step by utilizing the
+representational power of the stochastic latent spaces to model the variability
+of the multivariate time series data. The learnt prior knowledge helps the
+model to capture complex temporal dynamics and the inherent uncertainty of the
+data. This improves its ability to model highly stochastic time series data.
+Through extensive experiments on real-world datasets, we demonstrate the
+effectiveness of our proposed model on stochastic time series forecasting.
+Additionally, we showcase an application of our model for real-world surgical
+guidance, highlighting its potential to benefit the medical community.
+
+摘要：最近在擴散機率模型的創新為影像、文字和音訊生成領域的顯著進展鋪路，並應用於生成式時序預測。然而，利用這些能力來建模高度隨機的時序資料仍然是一項挑戰。在本文中，我們提出一個新的隨機擴散 (StochDiff) 模型，它利用隨機潛在空間的表示能力在每個時間步長學習資料驅動的先驗知識，以建模多變量時序資料的變異性。學習到的先驗知識有助於模型捕捉複雜的時間動態和資料的內在不確定性。這改善了它建模高度隨機時序資料的能力。透過對真實世界資料集的廣泛實驗，我們展示了我們提出的模型在隨機時序預測上的有效性。此外，我們展示了我們模型在真實世界手術指導中的應用，突顯了它對醫學界潛在的益處。
+
+##### **Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**
+2406.02653v1 by Reza Babaei, Samuel Cheng, Theresa Thai, Shangqing Zhao
+
+Despite the advances in medicine, cancer has remained a formidable challenge.
+Particularly in the case of pancreatic tumors, characterized by their diversity
+and late diagnosis, early detection poses a significant challenge crucial for
+effective treatment. The advancement of deep learning techniques, particularly
+supervised algorithms, has significantly propelled pancreatic tumor detection
+in the medical field. However, supervised deep learning approaches necessitate
+extensive labeled medical images for training, yet acquiring such annotations
+is both limited and costly. Conversely, weakly supervised anomaly detection
+methods, requiring only image-level annotations, have garnered interest.
+Existing methodologies predominantly hinge on generative adversarial networks
+(GANs) or autoencoder models, which can pose complexity in training and, these
+models may face difficulties in accurately preserving fine image details. This
+research presents a novel approach to pancreatic tumor detection, employing
+weak supervision anomaly detection through denoising diffusion algorithms. By
+incorporating a deterministic iterative process of adding and removing noise
+along with classifier guidance, the method enables seamless translation of
+images between diseased and healthy subjects, resulting in detailed anomaly
+maps without requiring complex training protocols and segmentation masks. This
+study explores denoising diffusion models as a recent advancement over
+traditional generative models like GANs, contributing to the field of
+pancreatic tumor detection. Recognizing the low survival rates of pancreatic
+cancer, this study emphasizes the need for continued research to leverage
+diffusion models' efficiency in medical segmentation tasks.
+
+摘要：儘管醫學進步，癌症仍然是一個巨大的挑戰。
+特別是在胰臟腫瘤的情況下，其特徵是多樣性和晚期診斷，早期檢測對有效治療至關重要，是一個重大的挑戰。深度學習技術的進步，特別是監督式演算法，已顯著推動了醫學領域的胰臟腫瘤檢測。然而，監督式深度學習方法需要大量的標籤醫學影像進行訓練，但取得此類註解既有限又昂貴。相反地，僅需要影像層級註解的弱監督異常檢測方法引起了興趣。現有的方法論主要依賴於生成對抗網路 (GAN) 或自動編碼器模型，這可能會在訓練中造成複雜性，而且這些模型可能難以準確地保留精細的影像細節。本研究提出了一種新的胰臟腫瘤檢測方法，採用去噪擴散演算法進行弱監督異常檢測。通過結合添加和移除雜訊的確定性迭代過程以及分類器指導，該方法能夠在患病和健康受試者之間無縫地轉換影像，從而產生詳細的異常圖，而不需要複雜的訓練協定和分割遮罩。本研究將去噪擴散模型探索為傳統生成模型（如 GAN）的最新進展，為胰臟腫瘤檢測領域做出貢獻。鑑於胰臟癌的存活率低，本研究強調需要持續研究以利用擴散模型在醫學分割任務中的效率。
+
 ##### **Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**
 2406.02462v1 by Jason Hu, Bowen Song, Xiaojian Xu, Liyue Shen, Jeffrey A. Fessler
 
@@ -157,28 +207,29 @@ capabilities of LLMs in medical contexts.
 摘要：大型語言模型（LLM），例如 ChatGPT，在醫療領域展現出顯著的潛力，通常使用與美國執業醫師資格考試 (USMLE) 中類似的多選題 (MCQ) 進行評估。儘管 MCQ 在醫學教育中很普遍，但在評估 LLM 時，其限制可能會被放大。為了評估 MCQ 在評估 LLM 效能方面的有效性，我們開發了一個虛構的醫療基準，重點關注一個不存在的腺體：Glianorex。這種方法讓我們能夠將 LLM 的知識與其應試能力隔離開來。我們使用 GPT-4 以英文和法文生成了關於 Glianorex 的一本綜合教科書，並開發了相應的多選題。我們在零次學習設定中使用這些問題評估了各種開源、專有和特定領域的 LLM。這些模型達到了平均約 67% 的分數，較大和較小模型之間的效能差異很小。英文的效能略高於法文。微調後的醫療模型在英文方面表現出比其基礎版本略有進步，但在法文方面則沒有。所有模型的效能均一致地高，這表明傳統基於 MCQ 的基準可能無法準確衡量 LLM 的臨床知識和推理能力，而僅突顯了它們的模式識別技能。這項研究強調了需要更強大的評估方法，以更好地評估 LLM 在醫療環境中的真實能力。
 
 ##### **LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**
-2406.02350v1 by Maojun Sun
+2406.02350v2 by Maojun Sun
 
 Large language models (LLMs) have shown amazing capabilities in knowledge
-memorization and present. However, when it comes to domain-specific knowledge
-and downstream tasks like medical, general LLMs are often unable to give
-precise answers. In addition, when people want LLMs to answer classification
-questions, they usually go through instruction tuning first, however, LLMs do
-not always give a direct index of the categorization after instruction tuning.
-In this paper, we proposed LlamaCare, a fine-tuned medical language model, and
-Extended Classification Integration(ECI), a module to handle classification
-problems of LLMs. Our contributions are : (i) We fine-tuned a large language
-model of medical knowledge with very low carbon emissions and achieved similar
-performance with ChatGPT by a 24G GPU. (ii) We solved the problem of redundant
-categorical answers and improved the performance of LLMs by proposing a new
-module called Extended Classification Integration. (iii) We released our
-processed data for one-shot and few-shot training for some benchmarks such as
-PubMedQA and USMLE 1-3 step. Our method achieves a close effect with the
-state-of-the-art model in benchmarks while costing lower GPU resources compared
-to LLMs with the same quantity of parameters. Our models, codes, and datasets
-can be found in https://github.com/Stephen-SMJ/LLamaCare
+memorization and the present. However, when it comes to domain-specific
+knowledge and downstream tasks like medical, general LLMs are often unable to
+give precise answers. In addition, when people want LLMs to answer
+classification questions, they usually go through instruction tuning first.
+However, LLMs do not always give a direct index of the categorization after
+instruction tuning. In this paper, we proposed LlamaCare, a fine-tuned medical
+language model, and Extended Classification Integration(ECI), a module to
+handle classification problems of LLMs. Our contributions are : (i) We
+fine-tuned a large language model of medical knowledge with very low carbon
+emissions and achieved similar performance with ChatGPT by a 24G GPU. (ii) We
+solved the problem of redundant categorical answers and improved the
+performance of LLMs by proposing a new module called Extended Classification
+Integration. (iii) We released our processed data for one-shot and few-shot
+training for some benchmarks such as PubMedQA and USMLE 1-3 step. Our method
+achieves a close performance comparable to some state-of-the-art models with
+the same quantity of parameters on benchmarks, while being more environmentally
+friendly by using less GPU computation time. Our models, codes, and datasets
+can be found at \url{https://github.com/Stephen-SMJ/LLamaCare}.
 
-摘要：大型語言模型 (LLM) 在知識記憶和呈現方面展現出驚人的能力。然而，當涉及到特定領域的知識和下游任務（例如醫療）時，一般的 LLM 通常無法給出精確的答案。此外，當人們希望 LLM 回答分類問題時，他們通常會先進行指令調整，然而，LLM 在指令調整後並不總是給出分類的直接索引。在本文中，我們提出了 LlamaCare，一種微調後的醫學語言模型，以及擴展分類整合 (ECI)，一個處理 LLM 分類問題的模組。我們的貢獻包括：(i) 我們微調了一個具有極低碳排放量的醫學知識大型語言模型，並使用 24G GPU 達到了與 ChatGPT 相似的效能。(ii) 我們解決了冗餘分類答案的問題，並透過提出一個名為擴展分類整合的新模組來改善 LLM 的效能。(iii) 我們釋出了我們處理過的資料，用於 PubMedQA 和 USMLE 1-3 步驟等一些基準的單次和少次訓練。我們的模型在基準中達到了與最先進模型接近的效果，同時與具有相同參數數量的 LLM 相比，成本更低。我們的模型、程式碼和資料集可以在 https://github.com/Stephen-SMJ/LLamaCare 中找到
+摘要：大型語言模型 (LLM) 在知識記憶和現在展現出驚人的能力。然而，當涉及到特定領域的知識和下游任務（如醫療），一般的 LLM 通常無法給出精確的答案。此外，當人們希望 LLM 回答分類問題時，他們通常會先進行指令調整。然而，LLM 在指令調整後並非總是給出分類的直接指標。在本文中，我們提出了 LlamaCare，一種經過微調的醫學語言模型，以及擴展分類整合 (ECI)，一個用於處理 LLM 分類問題的模組。我們的貢獻是：(i) 我們微調了一個醫療知識的大語言模型，碳排放非常低，並通過 24G GPU 達到了與 ChatGPT 相似的效能。(ii) 我們解決了冗餘類別答案的問題，並通過提出一個稱為擴展分類整合的新模組來提升 LLM 的效能。(iii) 我們釋出了我們處理過的資料，用於 PubMedQA 和 USMLE 1-3 步驟等一些基準的單次和少次訓練。我們的模型在基準上達到了與一些最先進的模型相當的效能，同時透過減少 GPU 計算時間，對環境更友善。我們的模型、程式碼和資料集可以在 \url{https://github.com/Stephen-SMJ/LLamaCare} 找到。
 
 ##### **A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**
 2406.01950v1 by Arash Ahmadi, Sarah S. Sharif, Yaser M. Banad
@@ -442,6 +493,38 @@ segmentation accuracy compared to zero-shot SAM. Our code is available at
 \url{https://github.com/BenjaminTowle/SimSAM}.
 
 摘要：最近发布的 Segment Anything Model (SAM) 已通过半自动注释设置展示了强大的零次分段能力，其中用户可以通过单击或边界框的形式提供提示。人们越来越有兴趣将此应用于医学影像，其中获得专家注释的成本很高，隐私限制可能会限制患者数据的共享，并且模型泛化通常很差。然而，由于对象的边界不清、介质对比度低以及专家标记风格的差异，医学影像中存在大量固有的不确定性。目前，已知 SAM 在零次设置中难以充分注释医学影像中感兴趣结构的轮廓，其中不确定性通常最大，因此需要大量的手动校正。为了缓解这种情况，我们引入了 \textbf{S}imulated \textbf{I}nteraction for \textbf{S}egment \textbf{A}nything \textbf{M}odel (\textsc{\textbf{SimSAM}}），这是一种利用模拟用户交互来生成任意数量的候选掩码的方法，并使用新颖的聚合方法来输出最兼容的掩码。至关重要的是，我们的方法可以直接在 SAM 之上使用，而无需任何额外的训练要求。在数量方面，我们对三种公开的医学影像数据集评估了我们的方法，并发现与零次 SAM 相比，我们的方法在轮廓分段准确性方面提高了 15.5%。我们的代码可在 \url{https://github.com/BenjaminTowle/SimSAM} 获得。
+
+##### **Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications**
+2406.02601v1 by David Restrepo, Chenwei Wu, Sebastián Andrés Cajas, Luis Filipe Nakayama, Leo Anthony Celi, Diego M López
+
+Large-scale multi-modal deep learning models have revolutionized domains such
+as healthcare, highlighting the importance of computational power. However, in
+resource-constrained regions like Low and Middle-Income Countries (LMICs),
+limited access to GPUs and data poses significant challenges, often leaving
+CPUs as the sole resource. To address this, we advocate for leveraging vector
+embeddings to enable flexible and efficient computational methodologies,
+democratizing multimodal deep learning across diverse contexts.
+  Our paper investigates the efficiency and effectiveness of using vector
+embeddings from single-modal foundation models and multi-modal Vision-Language
+Models (VLMs) for multimodal deep learning in low-resource environments,
+particularly in healthcare. Additionally, we propose a simple yet effective
+inference-time method to enhance performance by aligning image-text embeddings.
+Comparing these approaches with traditional methods, we assess their impact on
+computational efficiency and model performance using metrics like accuracy,
+F1-score, inference time, training time, and memory usage across three medical
+modalities: BRSET (ophthalmology), HAM10000 (dermatology), and SatelliteBench
+(public health).
+  Our findings show that embeddings reduce computational demands without
+compromising model performance. Furthermore, our alignment method improves
+performance in medical tasks. This research promotes sustainable AI practices
+by optimizing resources in constrained environments, highlighting the potential
+of embedding-based approaches for efficient multimodal learning. Vector
+embeddings democratize multimodal deep learning in LMICs, particularly in
+healthcare, enhancing AI adaptability in varied use cases.
+
+摘要：<paragraph>大型多模态深度学习模型已经彻底改变了医疗保健等领域，突出了计算能力的重要性。然而，在资源受限的地区，如低收入和中等收入国家 (LMIC)，受限的 GPU 和数据访问带来了重大挑战，通常只剩下 CPU 作为唯一资源。为了解决这个问题，我们提倡利用向量嵌入来实现灵活高效的计算方法，让多模态深度学习在不同的环境中实现民主化。
+我们的论文研究了在资源受限的环境中，使用来自单模态基础模型和多模态视觉语言模型 (VLM) 的向量嵌入进行多模态深度学习的效率和有效性，特别是在医疗保健领域。此外，我们提出了一种简单而有效推理时间方法，通过对齐图像文本嵌入来增强性能。将这些方法与传统方法进行比较，我们评估了它们对计算效率和模型性能的影响，使用准确度、F1 分数、推理时间、训练时间和内存使用等指标，跨越三个医学模态：BRSET（眼科）、HAM10000（皮肤病学）和 SatelliteBench（公共卫生）。
+我们的研究结果表明，嵌入可以降低计算需求，同时不影响模型性能。此外，我们的对齐方法提高了医学任务的性能。这项研究通过优化受限环境中的资源，促进了可持续的 AI 实践，突出了基于嵌入的方法在高效多模态学习中的潜力。向量嵌入让 LMIC 中的多模态深度学习实现民主化，特别是在医疗保健领域，增强了 AI 在各种用例中的适应性。</paragraph>
 
 ##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
 2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik
@@ -2497,75 +2580,4 @@ results clearly demonstrate the advantages of our model compared to several
 state-of-the-art methods.
 
 摘要：以 MRI 衍生的腦網路作為樞紐工具，闡明大腦的結構和功能面向，包含疾病和發展過程的影響。然而，現行的研究方法通常專注於功能性 MRI (fMRI) 的同步 BOLD 訊號，可能無法捕捉腦區之間的方向性影響，也很少處理時間功能動態。在本研究中，我們首先透過動態因果模型建構腦部有效網路。接著，我們引入稱為時空嵌入 ODE (STE-ODE) 的可解釋圖形學習架構。此架構結合專門設計的有向節點嵌入層，旨在透過常微分方程 (ODE) 模型捕捉結構和有效網路之間的動態交互作用，描述時空腦部動態。我們的架構在兩個獨立公開資料集 (HCP 和 OASIS) 上經過多項臨床表型預測任務驗證。實驗結果清楚顯示，與多種最先進方法相比，我們的模型具有優勢。
-
-##### **The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**
-2405.13099v1 by Mohsen Jozani, Jason A. Williams, Ahmed Aleroud, Sarbottam Bhagat
-
-This study explores the relationship between informational support seeking
-questions, responses, and helpfulness ratings in online health communities. We
-created a labeled data set of question-response pairs and developed multimodal
-machine learning and deep learning models to reliably predict informational
-support questions and responses. We employed explainable AI to reveal the
-emotions embedded in informational support exchanges, demonstrating the
-importance of emotion in providing informational support. This complex
-interplay between emotional and informational support has not been previously
-researched. The study refines social support theory and lays the groundwork for
-the development of user decision aids. Further implications are discussed.
-
-摘要：本研究探討線上健康社群中尋求資訊支持的問題、回應，以及有幫助的評分之間的關係。我們建立了一組標記的問答配對資料集，並開發了多模態機器學習和深度學習模型，以可靠地預測資訊支持問題和回應。我們採用可解釋的 AI 來揭示資訊支持交流中蘊含的情緒，證明情緒在提供資訊支持中的重要性。這種情緒支持和資訊支持之間的複雜交互作用以前並未被研究過。本研究改進了社會支持理論，並為使用者決策輔助工具的開發奠定了基礎。討論了進一步的影響。
-
-##### **KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning**
-2405.13094v1 by Yusong Zhang, Kun Xie, Xingyi Zhang, Xiangyu Dong, Sibo Wang
-
-The proliferation of rumors on social media platforms during significant
-events, such as the US elections and the COVID-19 pandemic, has a profound
-impact on social stability and public health. Existing approaches for rumor
-detection primarily rely on propagation graphs to enhance model effectiveness.
-However, the presence of noisy and irrelevant structures during the propagation
-process limits the efficacy of these approaches. To tackle this issue,
-techniques such as weight adjustment and data augmentation have been proposed.
-However, these techniques heavily depend on rich original propagation
-structures, thus hindering performance when dealing with rumors that lack
-sufficient propagation information in the early propagation stages. In this
-paper, we propose Key Propagation Graph Generator (KPG), a novel reinforcement
-learning-based rumor detection framework that generates contextually coherent
-and informative propagation patterns for events with insufficient topology
-information, while also identifies indicative substructures for events with
-redundant and noisy propagation structures. KPG consists of two key components:
-the Candidate Response Generator (CRG) and the Ending Node Selector (ENS). CRG
-learns the latent distribution from refined propagation patterns, filtering out
-noise and generating new candidates for ENS. Simultaneously, ENS identifies the
-most influential substructures within propagation graphs and generates training
-data for CRG. Moreover, we introduce an end-to-end framework that utilizes
-rewards to guide the entire training process via a pre-trained graph neural
-network. Extensive experiments conducted on four datasets demonstrate the
-superiority of our KPG compared to the state-of-the-art approaches.
-
-摘要：<paragraph>在重大事件（例如美國選舉和 COVID-19 大流行）期間，社交媒體平台上謠言的散布對社會穩定和公共衛生產生了深遠的影響。現有的謠言檢測方法主要依賴傳播圖來提高模型的有效性。然而，在傳播過程中存在雜訊和無關結構會限制這些方法的效力。為了解決這個問題，已經提出了權重調整和數據擴充等技術。然而，這些技術嚴重依賴於豐富的原始傳播結構，因此在處理在早期傳播階段缺乏足夠傳播信息的謠言時會阻礙性能。在本文中，我們提出了關鍵傳播圖生成器 (KPG)，這是一個基於強化學習的新型謠言檢測框架，它為拓撲信息不足的事件生成上下文相干且信息豐富的傳播模式，同時還識別出具有冗餘和雜訊傳播結構的事件的指示性子結構。KPG 包含兩個關鍵組成部分：候選響應生成器 (CRG) 和結束節點選擇器 (ENS)。CRG 從精煉的傳播模式中學習潛在分佈，過濾雜訊並為 ENS 生成新的候選項。同時，ENS 識別傳播圖中影響最大的子結構，並為 CRG 生成訓練數據。此外，我們引入了一個端到端框架，它利用獎勵通過預訓練的圖神經網路指導整個訓練過程。在四個數據集上進行的廣泛實驗證明了我們 KPG 與最先進方法相比的優越性。</paragraph>
-
-##### **A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**
-2405.12711v2 by Meng Shang, Lenore Dedeyne, Jolan Dupont, Laura Vercauteren, Nadjia Amini, Laurence Lapauw, Evelien Gielen, Sabine Verschueren, Carolina Varon, Walter De Raedt, Bart Vanrumste
-
-The Otago Exercise Program (OEP) serves as a vital rehabilitation initiative
-for older adults, aiming to enhance their strength and balance, and
-consequently prevent falls. While Human Activity Recognition (HAR) systems have
-been widely employed in recognizing the activities of individuals, existing
-systems focus on the duration of macro activities (i.e. a sequence of
-repetitions of the same exercise), neglecting the ability to discern micro
-activities (i.e. the individual repetitions of the exercises), in the case of
-OEP. This study presents a novel semi-supervised machine learning approach
-aimed at bridging this gap in recognizing the micro activities of OEP. To
-manage the limited dataset size, our model utilizes a Transformer encoder for
-feature extraction, subsequently classified by a Temporal Convolutional Network
-(TCN). Simultaneously, the Transformer encoder is employed for masked
-unsupervised learning to reconstruct input signals. Results indicate that the
-masked unsupervised learning task enhances the performance of the supervised
-learning (classification task), as evidenced by f1-scores surpassing the
-clinically applicable threshold of 0.8. From the micro activities, two
-clinically relevant outcomes emerge: counting the number of repetitions of each
-exercise and calculating the velocity during chair rising. These outcomes
-enable the automatic monitoring of exercise intensity and difficulty in the
-daily lives of older adults.
-
-摘要：奧塔哥運動計畫 (OEP) 作為一項重要的復健措施，服務對象為老年人，旨在增強他們的肌力和平衡感，進而預防跌倒。儘管人類活動辨識 (HAR) 系統已被廣泛用於辨識個人的活動，但現有系統著重於巨觀活動的持續時間（即重複執行相同運動的順序），忽略了辨別微觀活動（即運動的個別重複次數）的能力，就 OEP 而言。本研究提出了一種新穎的半監督機器學習方法，旨在彌補辨識 OEP 微觀活動的這一差距。為了管理有限的資料集大小，我們的模型利用 Transformer 編碼器進行特徵萃取，隨後由時序卷積網路 (TCN) 進行分類。同時，Transformer 編碼器用於遮蔽式非監督學習，以重建輸入訊號。結果表明，遮蔽式非監督學習任務增強了監督學習（分類任務）的效能，這由 f1 分數超過 0.8 的臨床適用閾值所證實。從微觀活動中，出現了兩個臨床相關的結果：計算每次運動的重複次數和計算椅子上升時的速率。這些結果能夠自動監控老年人在日常生活中的運動強度和難度。
 

@@ -3,8 +3,11 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
+|**2024-06-04**|**Exploring Effects of Hyperdimensional Vectors for Tsetlin Machines**|Vojtech Halenka et.al.|[2406.02648v1](http://arxiv.org/abs/2406.02648v1)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
 |**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
+|**2024-06-04**|**ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**|Wei Shao et.al.|[2406.03404v1](http://arxiv.org/abs/2406.03404v1)|null|
+|**2024-06-03**|**Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**|Yixuan Mei et.al.|[2406.01566v1](http://arxiv.org/abs/2406.01566v1)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
 |**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311v1](http://arxiv.org/abs/2406.01311v1)|null|
 |**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|[link](https://github.com/Bahram-Mohammadi/ACK)|
@@ -13,10 +16,11 @@
 |**2024-06-03**|**MACT: Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing**|Jiangming Liu et.al.|[2406.01052v1](http://arxiv.org/abs/2406.01052v1)|[link](https://github.com/LeonCrashCode/DRS-Cross-Lingual-Training)|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032v1](http://arxiv.org/abs/2406.01032v1)|null|
 |**2024-06-02**|**Presence or Absence: Are Unknown Word Usages in Dictionaries?**|Xianghe Ma et.al.|[2406.00656v1](http://arxiv.org/abs/2406.00656v1)|[link](https://github.com/xiaohemaikoo/axolotl24-abdn-nlp)|
+|**2024-06-02**|**D-FaST: Cognitive Signal Decoding with Disentangled Frequency-Spatial-Temporal Attention**|Weiguo Chen et.al.|[2406.02602v1](http://arxiv.org/abs/2406.02602v1)|null|
 |**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318v1](http://arxiv.org/abs/2406.00318v1)|[link](https://github.com/Wyb0627/KBLink)|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
 |**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v3](http://arxiv.org/abs/2405.20247v3)|null|
-|**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v1](http://arxiv.org/abs/2405.20233v1)|[link](https://github.com/ironjr/grokfast)|
+|**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v2](http://arxiv.org/abs/2405.20233v2)|[link](https://github.com/ironjr/grokfast)|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|[link](https://github.com/cmavro/gnn-rag)|
 |**2024-05-30**|**MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**|Konstantin Hemker et.al.|[2405.19950v1](http://arxiv.org/abs/2405.19950v1)|null|
@@ -98,10 +102,6 @@
 |**2024-04-30**|**Graph Neural Network Approach to Semantic Type Detection in Tables**|Ehsan Hoseinzade et.al.|[2405.00123v1](http://arxiv.org/abs/2405.00123v1)|[link](https://github.com/hoseinzadeehsan/gait)|
 |**2024-04-30**|**PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification**|Leon Garza et.al.|[2404.19744v1](http://arxiv.org/abs/2404.19744v1)|null|
 |**2024-04-30**|**A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications**|Steph Buongiorno et.al.|[2404.19729v1](http://arxiv.org/abs/2404.19729v1)|null|
-|**2024-04-30**|**Octopus v4: Graph of language models**|Wei Chen et.al.|[2404.19296v1](http://arxiv.org/abs/2404.19296v1)|null|
-|**2024-04-30**|**Multi-hop Question Answering over Knowledge Graphs using Large Language Models**|Abir Chakraborty et.al.|[2404.19234v1](http://arxiv.org/abs/2404.19234v1)|null|
-|**2024-04-29**|**Automated Construction of Theme-specific Knowledge Graphs**|Linyi Ding et.al.|[2404.19146v1](http://arxiv.org/abs/2404.19146v1)|null|
-|**2024-04-29**|**QANA: LLM-based Question Generation and Network Analysis for Zero-shot Key Point Analysis and Beyond**|Tomoki Fukuma et.al.|[2404.18371v1](http://arxiv.org/abs/2404.18371v1)|null|
 
 #### Abstracts
 ##### **XRec: Large Language Models for Explainable Recommendation**
@@ -128,6 +128,37 @@ baseline approaches in explainable recommender systems. We open-source our
 model implementation at https://github.com/HKUDS/XRec.
 
 摘要：推薦系統透過提供符合使用者偏好的個人化推薦，協助使用者在資訊爆炸中輕鬆瀏覽。協同過濾 (CF) 是一種廣泛採用的方法，但儘管圖神經網路 (GNN) 和自監督學習 (SSL) 等進階技術已增強 CF 模型以提供更好的使用者表徵，但它們通常缺乏提供推薦項目解釋的能力。可解釋推薦旨在透過提供透明度和見解來解決這個差距，以了解推薦決策制定過程，進而增進使用者的理解。這項工作利用大型語言模型 (LLM) 的語言能力，來突破可解釋推薦系統的界限。我們引進一個名為 XRec 的與模型無關的架構，讓 LLM 能夠為推薦系統中的使用者行為提供全面的解釋。透過整合協同信號和設計一個輕量級協同適配器，此架構賦能 LLM 了解使用者與項目互動中的複雜模式，並更深入地了解使用者偏好。我們廣泛的實驗證明了 XRec 的有效性，展示了它產生全面且有意義的解釋的能力，在可解釋推薦系統中優於基準方法。我們在 https://github.com/HKUDS/XRec 開源我們的模型實作。
+
+##### **Exploring Effects of Hyperdimensional Vectors for Tsetlin Machines**
+2406.02648v1 by Vojtech Halenka, Ahmed K. Kadhim, Paul F. A. Clarke, Bimal Bhattarai, Rupsa Saha, Ole-Christoffer Granmo, Lei Jiao, Per-Arne Andersen
+
+Tsetlin machines (TMs) have been successful in several application domains,
+operating with high efficiency on Boolean representations of the input data.
+However, Booleanizing complex data structures such as sequences, graphs,
+images, signal spectra, chemical compounds, and natural language is not
+trivial. In this paper, we propose a hypervector (HV) based method for
+expressing arbitrarily large sets of concepts associated with any input data.
+Using a hyperdimensional space to build vectors drastically expands the
+capacity and flexibility of the TM. We demonstrate how images, chemical
+compounds, and natural language text are encoded according to the proposed
+method, and how the resulting HV-powered TM can achieve significantly higher
+accuracy and faster learning on well-known benchmarks. Our results open up a
+new research direction for TMs, namely how to expand and exploit the benefits
+of operating in hyperspace, including new booleanization strategies,
+optimization of TM inference and learning, as well as new TM applications.
+
+摘要：Tsetlin 機器 (TM) 已在多個應用領域中獲得成功，
+使用布林表示法對輸入數據進行高效運算。
+然而，布林化複雜的數據結構（例如序列、圖形、
+影像、訊號頻譜、化學化合物和自然語言）並非易事。
+在本文中，我們提出了一種基於超向量的 (HV) 方法，用於
+表達與任何輸入數據關聯的任意大型概念集。
+使用超維空間來建構向量大幅擴展了
+TM 的容量和靈活性。我們展示了影像、化學
+化合物和自然語言文字是如何根據所提出的
+方法進行編碼，以及由此產生的 HV 驅動 TM 如何在眾所周知的基準上實現顯著更高的
+準確度和更快的學習。我們的結果為 TM 開啟了一個新的研究方向，即如何擴展和利用在超空間中運作的優點，包括新的布林化策略、
+TM 推論和學習的最佳化，以及新的 TM 應用。
 
 ##### **UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**
 2406.02110v1 by Zhuoyang Li, Liran Deng, Hui Liu, Qiaoqiao Liu, Junzhao Du
@@ -178,6 +209,46 @@ demonstrate that our MR-MKG method outperforms previous state-of-the-art
 models.
 
 摘要：多模态推理与大型语言模型 (LLM) 经常会出现幻觉，并且 LLM 中存在知识缺陷或过时的问题。一些方法试图通过使用文本知识图谱来缓解这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱 (MR-MKG) 方法的多模态推理，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，从而显著增强 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并且跨模态对齐模块设计用于优化图像文本对齐。构建了一个基于 MMKG 的数据集，以通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模的一小部分（约为 2.25%）时就实现了卓越的性能。多模态问题解答和多模态类比推理任务的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
+
+##### **ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**
+2406.03404v1 by Wei Shao, Rongyi Zhu, Cai Yang, Chandra Thapa, Muhammad Ejaz Ahmed, Seyit Camtepe, Rui Zhang, DuYong Kim, Hamid Menouar, Flora D. Salim
+
+Spatiotemporal data is prevalent in a wide range of edge devices, such as
+those used in personal communication and financial transactions. Recent
+advancements have sparked a growing interest in integrating spatiotemporal
+analysis with large-scale language models. However, spatiotemporal data often
+contains sensitive information, making it unsuitable for open third-party
+access. To address this challenge, we propose a Graph-GAN-based model for
+generating privacy-protected spatiotemporal data. Our approach incorporates
+spatial and temporal attention blocks in the discriminator and a spatiotemporal
+deconvolution structure in the generator. These enhancements enable efficient
+training under Gaussian noise to achieve differential privacy. Extensive
+experiments conducted on three real-world spatiotemporal datasets validate the
+efficacy of our model. Our method provides a privacy guarantee while
+maintaining the data utility. The prediction model trained on our generated
+data maintains a competitive performance compared to the model trained on the
+original data.
+
+摘要：時空資料在廣泛的邊緣裝置中很普遍，例如用於個人通訊和金融交易的裝置。最近的進展激發了將時空分析與大規模語言模型整合在一起的興趣。然而，時空資料通常包含敏感資訊，使其不適合開放的第三方存取。為了應對這個挑戰，我們提出一個基於 Graph-GAN 的模型，用於產生受隱私保護的時空資料。我們的做法將空間和時間注意力區塊納入判別器，以及將時空反摺積結構納入生成器。這些增強功能能夠在高斯噪聲下進行有效訓練，以實現差分隱私。在三個真實世界的時空資料集上進行的廣泛實驗驗證了我們模型的效能。我們的模型在維持資料效用的同時提供隱私保證。在我們產生的資料上訓練的預測模型，與在原始資料上訓練的模型相比，維持競爭力的效能。
+
+##### **Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**
+2406.01566v1 by Yixuan Mei, Yonghao Zhuang, Xupeng Miao, Juncheng Yang, Zhihao Jia, Rashmi Vinayak
+
+This paper introduces Helix, a distributed system for high-throughput,
+low-latency large language model (LLM) serving on heterogeneous GPU clusters. A
+key idea behind Helix is to formulate inference computation of LLMs over
+heterogeneous GPUs and network connections as a max-flow problem for a
+directed, weighted graph, whose nodes represent GPU instances and edges capture
+both GPU and network heterogeneity through their capacities. Helix then uses a
+mixed integer linear programming (MILP) algorithm to discover highly optimized
+strategies to serve LLMs. This approach allows Helix to jointly optimize model
+placement and request scheduling, two highly entangled tasks in heterogeneous
+LLM serving. Our evaluation on several heterogeneous cluster settings ranging
+from 24 to 42 GPU nodes shows that Helix improves serving throughput by up to
+2.7$\times$ and reduces prompting and decoding latency by up to 2.8$\times$ and
+1.3$\times$, respectively, compared to best existing approaches.
+
+摘要：本文介紹 Helix，這是一種用於異質 GPU 集群上提供高吞吐量、低延遲大型語言模型 (LLM) 服務的分布式系統。Helix 背後的一個關鍵概念是將 LLM 在異質 GPU 和網路連線上的推論計算表述為一個有向加權圖的最大流問題，其節點表示 GPU 實例，邊緣則透過其容量擷取 GPU 和網路異質性。接著，Helix 使用混合整數線性規劃 (MILP) 演算法找出高度最佳化的策略來提供 LLM 服務。這種方法讓 Helix 能夠同時最佳化模型配置和要求排程，這兩個在異質 LLM 服務中高度糾結的任務。我們在從 24 到 42 個 GPU 節點的幾個異質集群設定中進行評估，結果顯示 Helix 將服務吞吐量提升了多達 2.7 倍，並將提示和解碼延遲分別降低了多達 2.8 倍和 1.3 倍，與現有最佳方法相比。
 
 ##### **How to Understand Whole Software Repository?**
 2406.01422v1 by Yingwei Ma, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li
@@ -362,6 +433,35 @@ available\footnote{\url{https://github.com/xiaohemaikoo/axolotl24-ABDN-NLP}}.
 
 摘要：在這項工作中，我們概述了我們提交給芬蘭語、俄語和德語語言的 AXOLOTL-24 共享任務的系統組成和結果。我們的系統完全沒有監督。它利用基於圖形的群集方法來預測子任務 1 中未知單詞用法和字典條目之間的對應關係，並通過 GPT-4 和 LLaMA-3 等最先進的大語言模型為這些新單詞用法生成類似字典的定義，用於子任務 2。在子任務 1 中，我們的系統以大幅優於基準系統，並且通過我們的基於圖形的群集方法區分匹配和不匹配（新穎）單詞用法，為映射結果提供了解釋性。我們的系統在芬蘭語和德語中排名第一，在子任務 2 測試階段排行榜中排名第二。這些結果顯示了我們的系統在管理字典條目方面的潛力，特別是對於更新字典以包含新的意義條目。我們的代碼和數據已公開\footnote{\url{https://github.com/xiaohemaikoo/axolotl24-ABDN-NLP}}。
 
+##### **D-FaST: Cognitive Signal Decoding with Disentangled Frequency-Spatial-Temporal Attention**
+2406.02602v1 by Weiguo Chen, Changjian Wang, Kele Xu, Yuan Yuan, Yanru Bai, Dongsong Zhang
+
+Cognitive Language Processing (CLP), situated at the intersection of Natural
+Language Processing (NLP) and cognitive science, plays a progressively pivotal
+role in the domains of artificial intelligence, cognitive intelligence, and
+brain science. Among the essential areas of investigation in CLP, Cognitive
+Signal Decoding (CSD) has made remarkable achievements, yet there still exist
+challenges related to insufficient global dynamic representation capability and
+deficiencies in multi-domain feature integration. In this paper, we introduce a
+novel paradigm for CLP referred to as Disentangled Frequency-Spatial-Temporal
+Attention(D-FaST). Specifically, we present an novel cognitive signal decoder
+that operates on disentangled frequency-space-time domain attention. This
+decoder encompasses three key components: frequency domain feature extraction
+employing multi-view attention, spatial domain feature extraction utilizing
+dynamic brain connection graph attention, and temporal feature extraction
+relying on local time sliding window attention. These components are integrated
+within a novel disentangled framework. Additionally, to encourage advancements
+in this field, we have created a new CLP dataset, MNRED. Subsequently, we
+conducted an extensive series of experiments, evaluating D-FaST's performance
+on MNRED, as well as on publicly available datasets including ZuCo, BCIC IV-2A,
+and BCIC IV-2B. Our experimental results demonstrate that D-FaST outperforms
+existing methods significantly on both our datasets and traditional CSD
+datasets including establishing a state-of-the-art accuracy score 78.72% on
+MNRED, pushing the accuracy score on ZuCo to 78.35%, accuracy score on BCIC
+IV-2A to 74.85% and accuracy score on BCIC IV-2B to 76.81%.
+
+摘要：<paragraph>認知語言處理 (CLP) 介於自然語言處理 (NLP) 和認知科學的交叉點，在人工智慧、認知智慧和腦科學領域扮演著越來越重要的角色。在 CLP 的基本研究領域中，認知信號解碼 (CSD) 已取得顯著的成就，但仍存在與全球動態表徵能力不足和多領域特徵整合缺陷相關的挑戰。在本文中，我們介紹了一種稱為解糾頻率時空注意 (D-FaST) 的 CLP 新範例。具體來說，我們提出了一個在解糾頻率時空域注意上運作的新認知信號解碼器。此解碼器包含三個關鍵組成部分：採用多視角注意的頻域特徵提取、利用動態腦連接圖注意的空域特徵提取，以及依賴於局部時間滑動視窗注意的時間特徵提取。這些組成部分整合在一個新的解糾框架內。此外，為了促進該領域的進展，我們創建了一個新的 CLP 資料集 MNRED。隨後，我們進行了一系列廣泛的實驗，評估 D-FaST 在 MNRED 上的效能，以及在包括 ZuCo、BCIC IV-2A 和 BCIC IV-2B 在內的公開資料集上的效能。我們的實驗結果表明，D-FaST 在我們自己的資料集和傳統 CSD 資料集上都明顯優於現有方法，包括在 MNRED 上建立了 78.72% 的最新準確度分數，將 ZuCo 上的準確度分數推高至 78.35%，BCIC IV-2A 上的準確度分數推高至 74.85%，BCIC IV-2B 上的準確度分數推高至 76.81%。</paragraph>
+
 ##### **KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**
 2406.00318v1 by Yubo Wang, Hao Xin, Lei Chen
 
@@ -433,7 +533,7 @@ and available on GitHub.
 摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，它們是 Keras API 的延伸，適用於電腦視覺和自然語言處理工作流程，可以在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在實現快速實驗，著重於易用性和效能。我們採用模組化、分層設計：在程式庫最低的抽象層級，我們提供建立模型和資料預處理管線的建構區塊，在程式庫最高的抽象層級，我們提供預先訓練好的「任務」模型，適用於熱門架構，例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等。任務模型具備內建預處理、預先訓練好的權重，可以在原始輸入上進行微調。為了實現高效訓練，我們支援所有模型的 XLA 編譯，並使用 tf.data API 透過 TensorFlow 作業的編譯圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
 
 ##### **Grokfast: Accelerated Grokking by Amplifying Slow Gradients**
-2405.20233v1 by Jaerin Lee, Bong Gyun Kang, Kihoon Kim, Kyoung Mu Lee
+2405.20233v2 by Jaerin Lee, Bong Gyun Kang, Kihoon Kim, Kyoung Mu Lee
 
 One puzzling artifact in machine learning dubbed grokking is where delayed
 generalization is achieved tenfolds of iterations after near perfect
@@ -449,9 +549,9 @@ of code that amplifies the slow-varying components of gradients. The
 experiments show that our algorithm applies to diverse tasks involving images,
 languages, and graphs, enabling practical availability of this peculiar
 artifact of sudden generalization. Our code is available at
-\url{https://github.com/ironjr/grokfast}.
+https://github.com/ironjr/grokfast.
 
-摘要：<paragraph>機器學習中有一個令人費解的人工製品，稱為 grokking，其中延遲泛化是在對訓練資料過度擬合接近完美後，經過十倍的迭代才實現的。專注於機器學習從業者本身的長時間延遲，我們的目標是加速 grokking 現象下的模型泛化。通過將一系列訓練迭代中的參數梯度視為隨時間變化的隨機信號，我們可以將梯度下降下的參數軌跡光譜分解為兩個組成部分：變化快、產生過度擬合的組成部分和變化慢、誘導泛化的組成部分。這種分析使我們能夠僅通過幾行放大梯度中變化緩慢的組成部分的代碼，將 grokking 現象加速超過 50 倍。實驗表明，我們的演算法適用於涉及影像、語言和圖形的各種任務，使這種突然泛化的特殊人工製品具有實用的可用性。我們的代碼可在以下網址取得：\url{https://github.com/ironjr/grokfast}。</paragraph>
+摘要：在機器學習中，一個令人費解的人工製品被稱為「頓悟」，在近乎完美地過度擬合訓練資料後，延遲的泛化在反覆運算十倍後才得以實現。專注於機器學習從業者本身的長時間延遲，我們的目標是加速在頓悟現象下模型的泛化。透過將參數在訓練反覆運算中的一系列梯度視為隨時間變化的隨機訊號，我們可以將梯度下降下的參數軌跡分解為兩個組成部分：變化快速的過度擬合產生組成部分和變化緩慢的泛化誘發組成部分。這個分析讓我們能夠以僅僅幾行程式碼來加速頓悟現象超過 50 倍，這些程式碼會放大梯度的變化緩慢組成部分。實驗顯示我們的演算法適用於涉及影像、語言和圖形的各種任務，讓這個突然泛化的特殊人工製品得以實際使用。我們的程式碼可以在 https://github.com/ironjr/grokfast 取得。
 
 ##### **Reasoning about concepts with LLMs: Inconsistencies abound**
 2405.20163v1 by Rosario Uceda-Sosa, Karthikeyan Natesan Ramamurthy, Maria Chang, Moninder Singh
@@ -2483,108 +2583,4 @@ effective framework for enhancing KGs, while simultaneously providing an
 explainable set of structured facts verified by humans.
 
 摘要：外部知識圖譜 (KG) 可用於擴充大型語言模型 (LLM)，同時提供人類可以檢視的事實可解釋知識庫。這種方法在可解釋性至關重要的領域中特別有價值，例如人口販運資料分析。然而，建立 KG 可能會帶來挑戰。從文件中解析的 KG 可能包含明確的連接（文件中直接陳述的連接），但會遺漏隱含的連接（對人類來說很明顯，但並未直接陳述）。為了應對這些挑戰，這項初步研究引入了 GAME-KG 架構，代表「透過遊戲擴充元資料並增強知識圖譜」。GAME-KG 是一種透過使用透過電玩遊戲收集的外包意見來修改 KG 中明確和隱含連接的聯合方法。GAME-KG 透過兩個示範說明：一個來自黑暗陰影的 Unity 測試場景，這是一款收集美國司法部 (DOJ) 人口販運新聞稿中解析的 KG 回饋的電玩遊戲，以及後續的實驗，其中提示 OpenAI 的 GPT-4 根據已修改和未修改的 KG 回答問題。初步結果表明，GAME-KG 可以成為增強 KG 的有效架構，同時提供人類驗證的可解釋結構化事實集。
-
-##### **Octopus v4: Graph of language models**
-2404.19296v1 by Wei Chen, Zhiyuan Li
-
-Language models have been effective in a wide range of applications, yet the
-most sophisticated models are often proprietary. For example, GPT-4 by OpenAI
-and various models by Anthropic are expensive and consume substantial energy.
-In contrast, the open-source community has produced competitive models, like
-Llama3. Furthermore, niche-specific smaller language models, such as those
-tailored for legal, medical or financial tasks, have outperformed their
-proprietary counterparts. This paper introduces a novel approach that employs
-\textit{functional tokens} to integrate \textbf{multiple open-source models},
-each optimized for particular tasks. Our newly developed Octopus v4 model
-leverages \textit{functional tokens} to intelligently direct user queries to
-the most appropriate vertical model and reformat the query to achieve the best
-performance. Octopus v4, an evolution of the Octopus v1, v2, and v3 models,
-excels in selection and parameter understanding and reformatting. Additionally,
-we explore the use of graph as a versatile data structure that effectively
-coordinates multiple open-source models by harnessing the capabilities of the
-Octopus model and \textit{functional tokens}. Use our open-sourced GitHub
-(\url{https://www.nexa4ai.com/}) to try Octopus v4 models
-(\url{https://huggingface.co/NexaAIDev/Octopus-v4}), and contrite to a larger
-graph of language models. By activating models less than 10B parameters, we
-achieved SOTA MMLU score of 74.8 among the same level models.
-
-摘要：語言模型在廣泛的應用中非常有效，但最精密的模型通常是專有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各種模型價格昂貴且消耗大量能源。相比之下，開源社群已經產出具有競爭力的模型，例如 Llama3。此外，針對特定領域的小型語言模型，例如為法律、醫療或財務任務量身打造的模型，已經超越了它們的專有對應模型。本文介紹一種新方法，它採用「功能性標記」來整合「多個開源模型」，每個模型都針對特定任務進行最佳化。我們新開發的 Octopus v4 模型利用「功能性標記」將使用者查詢智能導向最合適的垂直模型，並重新格式化查詢以達成最佳效能。Octopus v4 是 Octopus v1、v2 和 v3 模型的進化版本，在選擇、參數理解和重新格式化方面表現優異。此外，我們探討將圖形用作通用資料結構，它透過利用 Octopus 模型和「功能性標記」的能力，有效地協調多個開源模型。使用我們的開源 GitHub (\url{https://www.nexa4ai.com/}) 來試用 Octopus v4 模型 (\url{https://huggingface.co/NexaAIDev/Octopus-v4})，並為更大的語言模型圖形做出貢獻。透過啟用參數小於 10B 的模型，我們在同級別模型中達到了 74.8 的 SOTA MMLU 分數。
-
-##### **Multi-hop Question Answering over Knowledge Graphs using Large Language Models**
-2404.19234v1 by Abir Chakraborty
-
-Knowledge graphs (KGs) are large datasets with specific structures
-representing large knowledge bases (KB) where each node represents a key entity
-and relations amongst them are typed edges. Natural language queries formed to
-extract information from a KB entail starting from specific nodes and reasoning
-over multiple edges of the corresponding KG to arrive at the correct set of
-answer nodes. Traditional approaches of question answering on KG are based on
-(a) semantic parsing (SP), where a logical form (e.g., S-expression, SPARQL
-query, etc.) is generated using node and edge embeddings and then reasoning
-over these representations or tuning language models to generate the final
-answer directly, or (b) information-retrieval based that works by extracting
-entities and relations sequentially. In this work, we evaluate the capability
-of (LLMs) to answer questions over KG that involve multiple hops. We show that
-depending upon the size and nature of the KG we need different approaches to
-extract and feed the relevant information to an LLM since every LLM comes with
-a fixed context window. We evaluate our approach on six KGs with and without
-the availability of example-specific sub-graphs and show that both the IR and
-SP-based methods can be adopted by LLMs resulting in an extremely competitive
-performance.
-
-摘要：知識圖譜 (KG) 是具有特定結構的大型資料集，表示大型知識庫 (KB)，其中每個節點代表一個關鍵實體，而它們之間的關係是輸入邊緣。從特定節點開始並推理對應 KG 的多個邊緣以到達正確的答案節點集合，形成用於從 KB 中提取資訊的自然語言查詢。傳統的 KG 問答方法基於 (a) 語義解析 (SP)，其中使用節點和邊緣嵌入產生邏輯形式（例如 S 表達式、SPARQL 查詢等），然後推理這些表示或調整語言模型以直接產生最終答案，或 (b) 基於資訊檢索，其通過按順序提取實體和關係來工作。在這項工作中，我們評估了 (LLM) 回答涉及多跳的 KG 問題的能力。我們表明，根據 KG 的大小和性質，我們需要不同的方法來提取相關資訊並將其提供給 LLM，因為每個 LLM 都有一個固定的上下文視窗。我們在有和沒有範例特定子圖的情況下對六個 KG 評估了我們的方法，並表明 IR 和基於 SP 的方法都可以被 LLM 採用，從而產生極具競爭力的效能。
-
-##### **Automated Construction of Theme-specific Knowledge Graphs**
-2404.19146v1 by Linyi Ding, Sizhe Zhou, Jinfeng Xiao, Jiawei Han
-
-Despite widespread applications of knowledge graphs (KGs) in various tasks
-such as question answering and intelligent conversational systems, existing KGs
-face two major challenges: information granularity and deficiency in
-timeliness. These hinder considerably the retrieval and analysis of in-context,
-fine-grained, and up-to-date knowledge from KGs, particularly in highly
-specialized themes (e.g., specialized scientific research) and rapidly evolving
-contexts (e.g., breaking news or disaster tracking). To tackle such challenges,
-we propose a theme-specific knowledge graph (i.e., ThemeKG), a KG constructed
-from a theme-specific corpus, and design an unsupervised framework for ThemeKG
-construction (named TKGCon). The framework takes raw theme-specific corpus and
-generates a high-quality KG that includes salient entities and relations under
-the theme. Specifically, we start with an entity ontology of the theme from
-Wikipedia, based on which we then generate candidate relations by Large
-Language Models (LLMs) to construct a relation ontology. To parse the documents
-from the theme corpus, we first map the extracted entity pairs to the ontology
-and retrieve the candidate relations. Finally, we incorporate the context and
-ontology to consolidate the relations for entity pairs. We observe that
-directly prompting GPT-4 for theme-specific KG leads to inaccurate entities
-(such as "two main types" as one entity in the query result) and unclear (such
-as "is", "has") or wrong relations (such as "have due to", "to start"). In
-contrast, by constructing the theme-specific KG step by step, our model
-outperforms GPT-4 and could consistently identify accurate entities and
-relations. Experimental results also show that our framework excels in
-evaluations compared with various KG construction baselines.
-
-摘要：儘管知識圖譜 (KG) 廣泛應用於各種任務，例如問答和智慧對話系統，現有的 KG 仍面臨兩項重大挑戰：資訊粒度和即時性不足。這些問題嚴重阻礙了從 KG 中擷取和分析情境中的、細粒度的和最新的知識，特別是在高度專業的主題（例如，專業科學研究）和快速變化的情境（例如，突發新聞或災難追蹤）中。為了應對這些挑戰，我們提出了一個主題特定知識圖譜（亦即 ThemeKG），一個由主題特定語料庫建構的 KG，並設計了一個非監督式框架 TKGCon，用於建構 ThemeKG。此框架採用原始的主題特定語料庫，並產生一個高品質的 KG，其中包含該主題下的顯著實體和關係。具體來說，我們從維基百科中提取該主題的實體本体，然後根據該本体，我們再由大型語言模型 (LLM) 產生候選關係，以建構關係本体。為了解析主題語料庫中的文件，我們首先將提取的實體對應到本体，並擷取候選關係。最後，我們結合情境和本体，以合併實體對的關係。我們觀察到，直接提示 GPT-4 產生主題特定 KG 會導致不準確的實體（例如，查詢結果中將「兩個主要類型」視為一個實體），以及不明確（例如，「是」、「有」）或錯誤的關係（例如，「歸因於」、「開始」）。相比之下，透過逐步建構主題特定 KG，我們的模型優於 GPT-4，並能持續識別準確的實體和關係。實驗結果也顯示，與各種 KG 建構基準相比，我們的框架在評估中表現出色。
-
-##### **QANA: LLM-based Question Generation and Network Analysis for Zero-shot Key Point Analysis and Beyond**
-2404.18371v1 by Tomoki Fukuma, Koki Noda, Toshihide Ubukata Kousuke Hoso, Yoshiharu Ichikawa, Kyosuke Kambe, Yu Masubuch, Fujio Toriumi
-
-The proliferation of social media has led to information overload and
-increased interest in opinion mining. We propose "Question-Answering Network
-Analysis" (QANA), a novel opinion mining framework that utilizes Large Language
-Models (LLMs) to generate questions from users' comments, constructs a
-bipartite graph based on the comments' answerability to the questions, and
-applies centrality measures to examine the importance of opinions. We
-investigate the impact of question generation styles, LLM selections, and the
-choice of embedding model on the quality of the constructed QA networks by
-comparing them with annotated Key Point Analysis datasets. QANA achieves
-comparable performance to previous state-of-the-art supervised models in a
-zero-shot manner for Key Point Matching task, also reducing the computational
-cost from quadratic to linear. For Key Point Generation, questions with high
-PageRank or degree centrality align well with manually annotated key points.
-Notably, QANA enables analysts to assess the importance of key points from
-various aspects according to their selection of centrality measure. QANA's
-primary contribution lies in its flexibility to extract key points from a wide
-range of perspectives, which enhances the quality and impartiality of opinion
-mining.
-
-摘要：社交媒體的興起導致資訊過載，以及對於意見探勘的興趣增加。我們提出「問答網路分析」(QANA)，一個新穎的意見探勘架構，利用大型語言模型 (LLM) 從使用者的留言產生問題，根據留言對問題的可回答性建構一個二部圖，並應用中心性測量來檢視意見的重要性。我們透過將它們與標註關鍵點分析資料集進行比較，來探討問題產生風格、LLM 選擇和嵌入模型的選擇對建構的問答網路品質的影響。QANA 在關鍵點配對任務中以零次學習的方式，達成與先前最先進的監督式模型相當的效能，同時將運算成本從二次方降低到一次方。對於關鍵點產生，具有高 PageRank 或度中心性的問題與手動標註的關鍵點非常吻合。值得注意的是，QANA 能讓分析師根據他們選擇的中心性測量，從各種面向評估關鍵點的重要性。QANA 的主要貢獻在於它從廣泛的觀點中擷取關鍵點的靈活性，這提升了意見探勘的品質和公正性。
 

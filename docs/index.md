@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-05 20:40:09 Asia/Taipei
+ Automated deployment @ 2024-06-06 08:55:01 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462v1](http://arxiv.org/abs/2406.02462v1)|null|
-|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|null|
+|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|[link](https://github.com/maximegmd/glianorex-gen)|
 |**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v1](http://arxiv.org/abs/2406.02350v1)|[link](https://github.com/stephen-smj/llamacare)|
 |**2024-06-04**|**A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**|Arash Ahmadi et.al.|[2406.01950v1](http://arxiv.org/abs/2406.01950v1)|null|
 |**2024-06-03**|**Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization**|Firas Khader et.al.|[2406.01314v1](http://arxiv.org/abs/2406.01314v1)|null|
@@ -23,7 +23,7 @@
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|[link](https://github.com/benjamintowle/simsam)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v1](http://arxiv.org/abs/2406.00314v1)|[link](https://github.com/sarthakharne/case)|
-|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|null|
+|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|[link](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-31**|**DYNA: Disease-Specific Language Model for Variant Pathogenicity**|Huixin Zhan et.al.|[2406.00164v1](http://arxiv.org/abs/2406.00164v1)|null|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
@@ -67,7 +67,7 @@
 |**2024-05-27**|**BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale**|ZeMing Gong et.al.|[2405.17537v1](http://arxiv.org/abs/2405.17537v1)|null|
 |**2024-05-27**|**EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**|Yinghao Zhu et.al.|[2406.00036v1](http://arxiv.org/abs/2406.00036v1)|null|
 |**2024-05-27**|**On Fairness of Low-Rank Adaptation of Large Models**|Zhoujie Ding et.al.|[2405.17512v1](http://arxiv.org/abs/2405.17512v1)|null|
-|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775v1](http://arxiv.org/abs/2405.20775v1)|null|
+|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775v1](http://arxiv.org/abs/2405.20775v1)|[link](https://github.com/dirtycomputer/o2m_attack)|
 |**2024-05-26**|**Scalable Numerical Embeddings for Multivariate Time Series: Enhancing Healthcare Data Representation Learning**|Chun-Kai Huang et.al.|[2405.16557v1](http://arxiv.org/abs/2405.16557v1)|null|
 |**2024-05-26**|**SED: Self-Evaluation Decoding Enhances Large Language Models for Better Generation**|Ziqin Luo et.al.|[2405.16552v1](http://arxiv.org/abs/2405.16552v1)|null|
 |**2024-05-26**|**Gamified AI Approch for Early Detection of Dementia**|Paramita Kundu Maji et.al.|[2405.16538v1](http://arxiv.org/abs/2405.16538v1)|null|
@@ -81,7 +81,7 @@
 |**2024-05-24**|**The Impact and Opportunities of Generative AI in Fact-Checking**|Robert Wolfe et.al.|[2405.15985v1](http://arxiv.org/abs/2405.15985v1)|null|
 |**2024-05-24**|**Risk Factor Identification In Osteoporosis Using Unsupervised Machine Learning Techniques**|Mikayla Calitis et.al.|[2405.15882v1](http://arxiv.org/abs/2405.15882v1)|null|
 |**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766v2](http://arxiv.org/abs/2405.15766v2)|[link](https://github.com/singhayush27/mmade)|
-|**2024-05-24**|**Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification**|Yihe Wang et.al.|[2405.19363v1](http://arxiv.org/abs/2405.19363v1)|null|
+|**2024-05-24**|**Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification**|Yihe Wang et.al.|[2405.19363v1](http://arxiv.org/abs/2405.19363v1)|[link](https://github.com/dl4mhealth/medformer)|
 |**2024-05-24**|**Effective Confidence Region Prediction Using Probability Forecasters**|David Lindsay et.al.|[2405.15642v1](http://arxiv.org/abs/2405.15642v1)|null|
 |**2024-05-24**|**Concept-based Explainable Malignancy Scoring on Pulmonary Nodules in CT Images**|Rinat I. Dumaev et.al.|[2405.17483v1](http://arxiv.org/abs/2405.17483v1)|null|
 |**2024-05-24**|**PriCE: Privacy-Preserving and Cost-Effective Scheduling for Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**|Yuandou Wang et.al.|[2405.15398v1](http://arxiv.org/abs/2405.15398v1)|[link](https://github.com/yuandou168/price)|
@@ -2581,21 +2581,21 @@ daily lives of older adults.
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v1](http://arxiv.org/abs/2406.02030v1)|null|
+|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
 |**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311v1](http://arxiv.org/abs/2406.01311v1)|null|
-|**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|null|
+|**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|[link](https://github.com/Bahram-Mohammadi/ACK)|
 |**2024-06-03**|**EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs**|Zixuan Dong et.al.|[2406.01238v1](http://arxiv.org/abs/2406.01238v1)|null|
 |**2024-06-03**|**Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph**|Guangyi Liu et.al.|[2406.01145v1](http://arxiv.org/abs/2406.01145v1)|null|
-|**2024-06-03**|**MACT: Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing**|Jiangming Liu et.al.|[2406.01052v1](http://arxiv.org/abs/2406.01052v1)|null|
+|**2024-06-03**|**MACT: Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing**|Jiangming Liu et.al.|[2406.01052v1](http://arxiv.org/abs/2406.01052v1)|[link](https://github.com/LeonCrashCode/DRS-Cross-Lingual-Training)|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032v1](http://arxiv.org/abs/2406.01032v1)|null|
 |**2024-06-02**|**Presence or Absence: Are Unknown Word Usages in Dictionaries?**|Xianghe Ma et.al.|[2406.00656v1](http://arxiv.org/abs/2406.00656v1)|[link](https://github.com/xiaohemaikoo/axolotl24-abdn-nlp)|
-|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318v1](http://arxiv.org/abs/2406.00318v1)|null|
+|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318v1](http://arxiv.org/abs/2406.00318v1)|[link](https://github.com/Wyb0627/KBLink)|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
-|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
+|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v3](http://arxiv.org/abs/2405.20247v3)|null|
 |**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v1](http://arxiv.org/abs/2405.20233v1)|[link](https://github.com/ironjr/grokfast)|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
-|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
+|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|[link](https://github.com/cmavro/gnn-rag)|
 |**2024-05-30**|**MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**|Konstantin Hemker et.al.|[2405.19950v1](http://arxiv.org/abs/2405.19950v1)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877v1](http://arxiv.org/abs/2405.19877v1)|null|
 |**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799v2](http://arxiv.org/abs/2405.19799v2)|[link](https://github.com/jeff-sue/urt)|
@@ -2734,7 +2734,7 @@ performance breakthrough.
 摘要：OwnThink 是近來介紹的最廣泛的中文開放領域知識圖譜。儘管先前嘗試在 OwnThink（OQA）上進行問題解答，但現有研究在模型表示能力方面面臨限制，對進一步提高問題解答的整體準確性構成挑戰。在本文中，我們介紹了 UniOQA，這是一個統一的框架，它整合了兩個互補的並行工作流程。與傳統方法不同，UniOQA 利用大型語言模型 (LLM) 進行精準問題解答，並將直接答案預測過程作為一種具有成本效益的補充。最初，為了加強表示能力，我們微調 LLM 以將問題轉換為 Cypher 查詢語言 (CQL)，解決與受限語義理解和幻覺相關的問題。隨後，我們引入了實體和關係替換演算法，以確保生成的 CQL 的可執行性。同時，為了提高問題解答的整體準確性，我們進一步將檢索增強生成 (RAG) 過程適應到知識圖譜。最終，我們透過動態決策演算法最佳化答案準確性。實驗結果表明，UniOQA 將 SpCQL 邏輯準確度顯著提升至 21.2%，執行準確度提升至 54.9%，在這個基準上取得了新的最先進結果。透過消融實驗，我們深入探討 UniOQA 的優異表示能力，並量化其效能突破。
 
 ##### **Multimodal Reasoning with Multimodal Knowledge Graph**
-2406.02030v1 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
+2406.02030v2 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
 
 Multimodal reasoning with large language models (LLMs) often suffers from
 hallucinations and the presence of deficient or outdated knowledge within LLMs.
@@ -2754,7 +2754,7 @@ results on multimodal question answering and multimodal analogy reasoning tasks
 demonstrate that our MR-MKG method outperforms previous state-of-the-art
 models.
 
-摘要：多模态推理与大型语言模型 (LLM) 经常出现幻觉，并且 LLM 中存在知识不足或过时的问题。一些方法试图通过使用文本知识图谱来减轻这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱多模态推理 (MR-MKG) 方法，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，显著增强了 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并设计了一个跨模态对齐模块来优化图像文本对齐。构建了一个基于 MMKG 的数据集，通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模约 2.25% 的一小部分参数时就实现了卓越的性能。在多模态问题解答和多模态类比推理任务上的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
+摘要：多模态推理与大型语言模型 (LLM) 经常会出现幻觉，并且 LLM 中存在知识缺陷或过时的问题。一些方法试图通过使用文本知识图谱来缓解这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱 (MR-MKG) 方法的多模态推理，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，从而显著增强 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并且跨模态对齐模块设计用于优化图像文本对齐。构建了一个基于 MMKG 的数据集，以通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模的一小部分（约为 2.25%）时就实现了卓越的性能。多模态问题解答和多模态类比推理任务的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
 
 ##### **How to Understand Whole Software Repository?**
 2406.01422v1 by Yingwei Ma, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li
@@ -2990,7 +2990,7 @@ graph to text approach and remains consistent even for larger graphs.
 摘要：大型語言模型 (LLM) 在文字理解方面取得令人驚艷的表現，並已成為建構智慧助理的必要工具。原本專注於文字，它們在近期的作品中已透過多模式功能得到加強，成功建構出視覺指令追蹤助理。然而，就圖形模式而言，目前尚未開發出此類助理。圖形結構很複雜，在於它們表示不同特徵之間的關係，且具有排列不變性。此外，即使對於微調模型，將它們表示成純粹的文字形式並非總是能帶來良好的 LLM 效能。因此，需要開發一種新方法，將圖形整合到 LLM 中，以進行一般的圖形理解。本研究探討 LLM 中圖形模式的整合，以進行一般的圖形指令追蹤任務。其目標是產生一個深度學習模型，透過圖形嵌入增強基礎 LLM，並訓練它了解圖形嵌入，並根據指令產生以圖形表示為基礎的答案。此方法的表現顯著優於文字到文字的方法，即使對於較大的圖形也能保持一致性。
 
 ##### **KerasCV and KerasNLP: Vision and Language Power-Ups**
-2405.20247v2 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
+2405.20247v3 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
 
 We present the Keras domain packages KerasCV and KerasNLP, extensions of the
 Keras API for Computer Vision and Natural Language Processing workflows,
@@ -3007,7 +3007,7 @@ models, and run all preprocessing via a compiled graph of TensorFlow operations
 using the tf.data API. The libraries are fully open-source (Apache 2.0 license)
 and available on GitHub.
 
-摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，這是 Keras API 的擴充套件，適用於電腦視覺和自然語言處理工作流程，能夠在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在支援快速實驗，重點在於易用性和效能。我們採用模組化、分層設計：在程式庫最低層級的抽象化中，我們提供用於建立模型和資料預處理管線的建構模組，而在程式庫最高層級的抽象化中，我們提供熱門架構（例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等）的預先訓練「任務」模型。任務模型具有內建預處理、預先訓練權重，且可針對原始輸入進行微調。為了支援有效率的訓練，我們支援所有模型的 XLA 編譯，並透過使用 tf.data API 編譯的 TensorFlow 作業圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
+摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，它們是 Keras API 的延伸，適用於電腦視覺和自然語言處理工作流程，可以在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在實現快速實驗，著重於易用性和效能。我們採用模組化、分層設計：在程式庫最低的抽象層級，我們提供建立模型和資料預處理管線的建構區塊，在程式庫最高的抽象層級，我們提供預先訓練好的「任務」模型，適用於熱門架構，例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等。任務模型具備內建預處理、預先訓練好的權重，可以在原始輸入上進行微調。為了實現高效訓練，我們支援所有模型的 XLA 編譯，並使用 tf.data API 透過 TensorFlow 作業的編譯圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
 
 ##### **Grokfast: Accelerated Grokking by Amplifying Slow Gradients**
 2405.20233v1 by Jaerin Lee, Bong Gyun Kang, Kihoon Kim, Kyoung Mu Lee
@@ -5170,7 +5170,7 @@ mining.
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
-|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|null|
+|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|[link](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
 |**2024-05-26**|**Exploring Nutritional Impact on Alzheimer's Mortality: An Explainable AI Approach**|Ziming Liu et.al.|[2405.17502v1](http://arxiv.org/abs/2405.17502v1)|null|
@@ -7735,7 +7735,7 @@ fragility of the traditional deep learning models.
 |**2024-06-04**|**Scalable MatMul-free Language Modeling**|Rui-Jie Zhu et.al.|[2406.02528v1](http://arxiv.org/abs/2406.02528v1)|[link](https://github.com/ridgerchu/matmulfreellm)|
 |**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524v1](http://arxiv.org/abs/2406.02524v1)|null|
 |**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523v1](http://arxiv.org/abs/2406.02523v1)|null|
-|**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517v1](http://arxiv.org/abs/2406.02517v1)|null|
+|**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517v1](http://arxiv.org/abs/2406.02517v1)|[link](https://github.com/BITHLP/DRDA)|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511v1](http://arxiv.org/abs/2406.02511v1)|null|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507v1](http://arxiv.org/abs/2406.02507v1)|null|
 |**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500v1](http://arxiv.org/abs/2406.02500v1)|null|
@@ -7753,20 +7753,20 @@ fragility of the traditional deep learning models.
 |**2024-06-04**|**Representations as Language: An Information-Theoretic Framework for Interpretability**|Henry Conklin et.al.|[2406.02449v1](http://arxiv.org/abs/2406.02449v1)|null|
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443v1](http://arxiv.org/abs/2406.02443v1)|[link](https://github.com/parampreetsingh97/pim_v1_exai)|
 |**2024-06-04**|**The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding**|Kenneth Enevoldsen et.al.|[2406.02396v1](http://arxiv.org/abs/2406.02396v1)|[link](https://github.com/kennethenevoldsen/scandinavian-embedding-benchmark)|
-|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|null|
+|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|[link](https://github.com/maximegmd/glianorex-gen)|
 |**2024-06-04**|**Learning to Edit Visual Programs with Self-Supervision**|R. Kenny Jones et.al.|[2406.02383v1](http://arxiv.org/abs/2406.02383v1)|null|
-|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381v1](http://arxiv.org/abs/2406.02381v1)|null|
+|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381v1](http://arxiv.org/abs/2406.02381v1)|[link](https://github.com/marc-harary/kirigami)|
 |**2024-06-04**|**On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept**|Guangliang Liu et.al.|[2406.02378v1](http://arxiv.org/abs/2406.02378v1)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
-|**2024-06-04**|**Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs**|Zhiwei Cao et.al.|[2406.02376v1](http://arxiv.org/abs/2406.02376v1)|null|
+|**2024-06-04**|**Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs**|Zhiwei Cao et.al.|[2406.02376v1](http://arxiv.org/abs/2406.02376v1)|[link](https://github.com/DeepLearnXMU/QGC)|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368v1](http://arxiv.org/abs/2406.02368v1)|null|
 |**2024-06-04**|**Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models**|Dominik Hintersdorf et.al.|[2406.02366v1](http://arxiv.org/abs/2406.02366v1)|[link](https://github.com/ml-research/localizing_memorization_in_diffusion_models)|
-|**2024-06-04**|**Temporal Graph Rewiring with Expander Graphs**|Katarina Petrović et.al.|[2406.02362v1](http://arxiv.org/abs/2406.02362v1)|[link](https://github.com/kpetrovicc/tgr)|
+|**2024-06-04**|**Temporal Graph Rewiring with Expander Graphs**|Katarina Petrović et.al.|[2406.02362v2](http://arxiv.org/abs/2406.02362v2)|[link](https://github.com/kpetrovicc/tgr)|
 |**2024-06-04**|**Language Models Do Hard Arithmetic Tasks Easily and Hardly Do Easy Arithmetic Tasks**|Andrew Gambardella et.al.|[2406.02356v1](http://arxiv.org/abs/2406.02356v1)|null|
 |**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355v1](http://arxiv.org/abs/2406.02355v1)|null|
 |**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v1](http://arxiv.org/abs/2406.02350v1)|[link](https://github.com/stephen-smj/llamacare)|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349v1](http://arxiv.org/abs/2406.02349v1)|[link](https://github.com/tank-jiang/cade4snn)|
-|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v1](http://arxiv.org/abs/2406.02347v1)|null|
+|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v1](http://arxiv.org/abs/2406.02347v1)|[link](https://github.com/gojasper/flash-diffusion)|
 |**2024-06-04**|**Linguistic Fingerprint in Transformer Models: How Language Variation Influences Parameter Selection in Irony Detection**|Michele Mastromattei et.al.|[2406.02338v1](http://arxiv.org/abs/2406.02338v1)|null|
 |**2024-06-04**|**Probing the Category of Verbal Aspect in Transformer Language Models**|Anisia Katinskaia et.al.|[2406.02335v1](http://arxiv.org/abs/2406.02335v1)|null|
 |**2024-06-04**|**Towards Neural Architecture Search for Transfer Learning in 6G Networks**|Adam Orucu et.al.|[2406.02333v1](http://arxiv.org/abs/2406.02333v1)|null|
@@ -7777,18 +7777,18 @@ fragility of the traditional deep learning models.
 |**2024-06-04**|**A Survey of Transformer Enabled Time Series Synthesis**|Alexander Sommers et.al.|[2406.02322v1](http://arxiv.org/abs/2406.02322v1)|null|
 |**2024-06-04**|**Generative Conditional Distributions by Neural (Entropic) Optimal Transport**|Bao Nguyen et.al.|[2406.02317v1](http://arxiv.org/abs/2406.02317v1)|[link](https://github.com/nguyenngocbaocmt02/gentle)|
 |**2024-06-04**|**An Independence-promoting Loss for Music Generation with Language Models**|Jean-Marie Lemercier et.al.|[2406.02315v1](http://arxiv.org/abs/2406.02315v1)|null|
-|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301v1](http://arxiv.org/abs/2406.02301v1)|null|
+|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301v1](http://arxiv.org/abs/2406.02301v1)|[link](https://github.com/laihuiyuan/mcot)|
 |**2024-06-04**|**Prompting Large Language Models with Human Error Markings for Self-Correcting Machine Translation**|Nathaniel Berger et.al.|[2406.02267v1](http://arxiv.org/abs/2406.02267v1)|null|
 |**2024-06-04**|**Enhancing Retrieval-Augmented LMs with a Two-stage Consistency Learning Compressor**|Chuankai Xu et.al.|[2406.02266v1](http://arxiv.org/abs/2406.02266v1)|null|
-|**2024-06-04**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265v1](http://arxiv.org/abs/2406.02265v1)|null|
+|**2024-06-04**|**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**|Wenyan Li et.al.|[2406.02265v1](http://arxiv.org/abs/2406.02265v1)|[link](https://github.com/lyan62/RobustCap)|
 |**2024-06-04**|**PuFace: Defending against Facial Cloaking Attacks for Facial Recognition Models**|Jing Wen et.al.|[2406.02253v1](http://arxiv.org/abs/2406.02253v1)|null|
-|**2024-06-04**|**Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly-Supervised Learning**|Lukas Christ et.al.|[2406.02251v1](http://arxiv.org/abs/2406.02251v1)|null|
-|**2024-06-04**|**Description Boosting for Zero-Shot Entity and Relation Classification**|Gabriele Picco et.al.|[2406.02245v1](http://arxiv.org/abs/2406.02245v1)|null|
-|**2024-06-04**|**Self-Modifying State Modeling for Simultaneous Machine Translation**|Donglei Yu et.al.|[2406.02237v1](http://arxiv.org/abs/2406.02237v1)|null|
+|**2024-06-04**|**Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly-Supervised Learning**|Lukas Christ et.al.|[2406.02251v1](http://arxiv.org/abs/2406.02251v1)|[link](https://github.com/lc0197/emotional_trajectories_stories)|
+|**2024-06-04**|**Description Boosting for Zero-Shot Entity and Relation Classification**|Gabriele Picco et.al.|[2406.02245v1](http://arxiv.org/abs/2406.02245v1)|[link](https://github.com/ibm/zshot)|
+|**2024-06-04**|**Self-Modifying State Modeling for Simultaneous Machine Translation**|Donglei Yu et.al.|[2406.02237v1](http://arxiv.org/abs/2406.02237v1)|[link](https://github.com/EurekaForNLP/SM2)|
 |**2024-06-04**|**On the Limitations of Fractal Dimension as a Measure of Generalization**|Charlie Tan et.al.|[2406.02234v1](http://arxiv.org/abs/2406.02234v1)|null|
 |**2024-06-04**|**FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models**|Tao Fan et.al.|[2406.02224v1](http://arxiv.org/abs/2406.02224v1)|null|
 |**2024-06-04**|**Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts**|Haodong Hong et.al.|[2406.02208v1](http://arxiv.org/abs/2406.02208v1)|[link](https://github.com/honghd16/vln-mp)|
-|**2024-06-04**|**The Deep Latent Space Particle Filter for Real-Time Data Assimilation with Uncertainty Quantification**|Nikolaj T. Mücke et.al.|[2406.02204v1](http://arxiv.org/abs/2406.02204v1)|null|
+|**2024-06-04**|**The Deep Latent Space Particle Filter for Real-Time Data Assimilation with Uncertainty Quantification**|Nikolaj T. Mücke et.al.|[2406.02204v1](http://arxiv.org/abs/2406.02204v1)|[link](https://github.com/nmucke/data-assimilation)|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202v1](http://arxiv.org/abs/2406.02202v1)|null|
 |**2024-06-04**|**On The Statistical Representation Properties Of The Perturb-Softmax And The Perturb-Argmax Probability Distributions**|Hedda Cohen Indelman et.al.|[2406.02180v1](http://arxiv.org/abs/2406.02180v1)|null|
 |**2024-06-04**|**Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations**|Sarthak Yadav et.al.|[2406.02178v1](http://arxiv.org/abs/2406.02178v1)|null|
@@ -7800,13 +7800,13 @@ fragility of the traditional deep learning models.
 |**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135v1](http://arxiv.org/abs/2406.02135v1)|null|
 |**2024-06-04**|**The current status of large language models in summarizing radiology report impressions**|Danqing Hu et.al.|[2406.02134v1](http://arxiv.org/abs/2406.02134v1)|null|
 |**2024-06-04**|**SimulTron: On-Device Simultaneous Speech to Speech Translation**|Alex Agranovich et.al.|[2406.02133v1](http://arxiv.org/abs/2406.02133v1)|null|
-|**2024-06-04**|**CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting**|Jianrong Ding et.al.|[2406.02131v1](http://arxiv.org/abs/2406.02131v1)|null|
+|**2024-06-04**|**CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting**|Jianrong Ding et.al.|[2406.02131v2](http://arxiv.org/abs/2406.02131v2)|null|
 |**2024-06-04**|**Iteration Head: A Mechanistic Study of Chain-of-Thought**|Vivien Cabannes et.al.|[2406.02128v1](http://arxiv.org/abs/2406.02128v1)|null|
 |**2024-06-04**|**CityLight: A Universal Model Towards Real-world City-scale Traffic Signal Control Coordination**|Jinwei Zeng et.al.|[2406.02126v1](http://arxiv.org/abs/2406.02126v1)|null|
 |**2024-06-04**|**Diver: Large Language Model Decoding with Span-Level Mutual Information Verification**|Jinliang Lu et.al.|[2406.02120v1](http://arxiv.org/abs/2406.02120v1)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
 |**2024-06-04**|**MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset**|Weiqi Wang et.al.|[2406.02106v1](http://arxiv.org/abs/2406.02106v1)|[link](https://github.com/hkust-knowcomp/mars)|
-|**2024-06-04**|**Kernel vs. Kernel: Exploring How the Data Structure Affects Neural Collapse**|Vignesh Kothapalli et.al.|[2406.02105v1](http://arxiv.org/abs/2406.02105v1)|null|
+|**2024-06-04**|**Kernel vs. Kernel: Exploring How the Data Structure Affects Neural Collapse**|Vignesh Kothapalli et.al.|[2406.02105v1](http://arxiv.org/abs/2406.02105v1)|[link](https://github.com/kvignesh1420/shallow_nc1)|
 |**2024-06-04**|**Exploring Mathematical Extrapolation of Large Language Models with Synthetic Data**|Haolong Li et.al.|[2406.02100v1](http://arxiv.org/abs/2406.02100v1)|null|
 |**2024-06-04**|**MaskSR: Masked Language Model for Full-band Speech Restoration**|Xu Li et.al.|[2406.02092v1](http://arxiv.org/abs/2406.02092v1)|null|
 |**2024-06-04**|**LongSSM: On the Length Extension of State-space Models in Language Modelling**|Shida Wang et.al.|[2406.02080v1](http://arxiv.org/abs/2406.02080v1)|null|
@@ -7816,16 +7816,16 @@ fragility of the traditional deep learning models.
 |**2024-06-04**|**Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models**|Marianna Nezhurina et.al.|[2406.02061v1](http://arxiv.org/abs/2406.02061v1)|[link](https://github.com/laion-ai/aiw)|
 |**2024-06-04**|**I've got the "Answer"! Interpretation of LLMs Hidden States in Question Answering**|Valeriya Goloviznina et.al.|[2406.02060v1](http://arxiv.org/abs/2406.02060v1)|null|
 |**2024-06-04**|**Tabular and Deep Learning for the Whittle Index**|Francisco Robledo Relaño et.al.|[2406.02057v1](http://arxiv.org/abs/2406.02057v1)|null|
-|**2024-06-04**|**Analyzing Social Biases in Japanese Large Language Models**|Hitomi Yanaka et.al.|[2406.02050v1](http://arxiv.org/abs/2406.02050v1)|null|
-|**2024-06-04**|**QROA: A Black-Box Query-Response Optimization Attack on LLMs**|Hussein Jawad et.al.|[2406.02044v1](http://arxiv.org/abs/2406.02044v1)|null|
+|**2024-06-04**|**Analyzing Social Biases in Japanese Large Language Models**|Hitomi Yanaka et.al.|[2406.02050v2](http://arxiv.org/abs/2406.02050v2)|[link](https://github.com/ynklab/JBBQ_data)|
+|**2024-06-04**|**QROA: A Black-Box Query-Response Optimization Attack on LLMs**|Hussein Jawad et.al.|[2406.02044v1](http://arxiv.org/abs/2406.02044v1)|[link](https://github.com/qroa/qroa)|
 |**2024-06-04**|**DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment**|Gongpei Zhao et.al.|[2406.02040v1](http://arxiv.org/abs/2406.02040v1)|null|
 |**2024-06-04**|**A Unifying Framework for Action-Conditional Self-Predictive Reinforcement Learning**|Khimya Khetarpal et.al.|[2406.02035v1](http://arxiv.org/abs/2406.02035v1)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v1](http://arxiv.org/abs/2406.02030v1)|null|
+|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
 |**2024-06-04**|**Inference Attacks in Machine Learning as a Service: A Taxonomy, Review, and Promising Directions**|Feng Wu et.al.|[2406.02027v1](http://arxiv.org/abs/2406.02027v1)|null|
 |**2024-06-04**|**MetaMixer Is All You Need**|Seokju Yun et.al.|[2406.02021v1](http://arxiv.org/abs/2406.02021v1)|[link](https://github.com/ysj9909/ffnet)|
 |**2024-06-04**|**Why Would You Suggest That? Human Trust in Language Model Responses**|Manasi Sharma et.al.|[2406.02018v1](http://arxiv.org/abs/2406.02018v1)|null|
 |**2024-06-04**|**Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis**|Kun Zhou et.al.|[2406.02009v1](http://arxiv.org/abs/2406.02009v1)|null|
-|**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|null|
+|**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|[link](https://github.com/optsuite/o2o)|
 
 #### Abstracts
 ##### **To Believe or Not to Believe Your LLM**
@@ -8675,7 +8675,7 @@ this way, our NeMo contributes to a more responsible deployment of DMs.
 摘要：擴散模型 (DM) 可產生非常詳細且高品質的影像。其效能源自於大量資料的廣泛訓練，通常未經適當的歸屬或內容創作者的同意，便從網路上擷取。不幸的是，此作法引發了隱私和智慧財產權的疑慮，因為 DM 可以記憶並在推論時重製其潛在敏感或受版權保護的訓練影像。先前的努力透過改變擴散程序的輸入來防止此問題，從而防止 DM 在推論期間產生記憶的樣本，或從訓練中完全移除記憶的資料。儘管這些在 DM 於安全且持續監控的環境中開發和部署時是可行的解決方案，但它們具有對手規避防護措施的風險，且在 DM 本身公開發布時無效。為了解決此問題，我們引入了 NeMo，這是第一個將個別資料樣本的記憶定位到 DM 交叉注意力層中神經元層級的方法。透過我們的實驗，我們得出了有趣的發現，在許多情況下，單一神經元負責記憶特定訓練樣本。透過停用這些記憶神經元，我們可以避免在推論時複製訓練資料，增加產生輸出的多樣性，並減輕私人和受版權保護資料的洩漏。透過這種方式，我們的 NeMo 有助於更負責任地部署 DM。
 
 ##### **Temporal Graph Rewiring with Expander Graphs**
-2406.02362v1 by Katarina Petrović, Shenyang Huang, Farimah Poursafaei, Petar Veličković
+2406.02362v2 by Katarina Petrović, Shenyang Huang, Farimah Poursafaei, Petar Veličković
 
 Evolving relations in real-world networks are often modelled by temporal
 graphs. Graph rewiring techniques have been utilised on Graph Neural Networks
@@ -8688,9 +8688,9 @@ Expander graphs are suitable candidates for rewiring as they help overcome the
 oversquashing problem often observed in GNNs. On the public tgbl-wiki
 benchmark, we show that TGR improves the performance of a widely used TGN model
 by a significant margin. Our code repository is accessible at
-https://anonymous.4open.science/r/TGR-254C.
+https://github.com/kpetrovicc/TGR.git .
 
-摘要：現實世界網路中的演化關係通常以時間圖形建模。圖形重新連線技術已用於圖形神經網路 (GNN)，以改善表達能力並提升模型效能。在這項工作中，我們提出時間圖形重新連線 (TGR)，這是時間圖形上圖形重新連線的第一種方法。TGR 透過利用擴充圖形傳播來建立訊息傳遞高速公路，以在連續時間動態圖形中實現時間距離節點之間的通訊，以便在遠距離節點之間傳遞訊息。擴充圖形是重新連線的合適候選者，因為它們有助於克服在 GNN 中常見的過度壓縮問題。在公開的 tgbl-wiki 基準測試中，我們表明 TGR 大幅提升了廣泛使用的 TGN 模型的效能。我們的程式碼存放庫可以在 https://anonymous.4open.science/r/TGR-254C 取得。
+摘要：現實世界網路中不斷變化的關係通常會以時間圖形建模。圖形重新連線技術已被用於圖形神經網路 (GNN)，以提高表現力並增加模型效能。在這項工作中，我們提出時間圖形重新連線 (TGR)，這是時間圖形上圖形重新連線的第一種方法。TGR 透過使用擴充圖形傳播來建構訊息傳遞通道，以在連續時間動態圖形中實現時間上相距甚遠的節點間的通訊，以便在相距甚遠的節點間傳遞訊息。擴充圖形是重新連線的合適候選，因為它們有助於克服在 GNN 中常見的過度壓縮問題。在公開的 tgbl-wiki 基準上，我們展示 TGR 以顯著幅度改善了廣泛使用的 TGN 模型的效能。我們的程式碼存放庫可以在 https://github.com/kpetrovicc/TGR.git 存取。
 
 ##### **Language Models Do Hard Arithmetic Tasks Easily and Hardly Do Easy Arithmetic Tasks**
 2406.02356v1 by Andrew Gambardella, Yusuke Iwasawa, Yutaka Matsuo
@@ -9574,7 +9574,7 @@ simultaneous S2ST on-device.
 摘要：同步語音轉語音翻譯 (S2ST) 承諾打破溝通障礙，並跨語言進行流暢對話。然而，透過行動裝置達成準確的即時翻譯仍是一項重大挑戰。我們介紹 SimulTron，一種新穎的 S2ST 架構，旨在解決此任務。SimulTron 是一款輕量級的直接 S2ST 模型，它使用 Translatotron 架構的優勢，同時結合串流操作和可調整的固定延遲的主要修改。我們的實驗顯示，SimulTron 在離線評估中超越 Translatotron 2。此外，即時評估顯示，SimulTron 改善了 Translatotron 1 達到的效能。此外，與 MuST-C 資料集上的先前即時 S2ST 方法相比，SimulTron 達到了更高的 BLEU 分數和延遲。值得注意的是，我們已成功在 Pixel 7 Pro 裝置上部署 SimulTron，顯示其在裝置上進行同步 S2ST 的潛力。
 
 ##### **CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting**
-2406.02131v1 by Jianrong Ding, Zhanyu Liu, Guanjie Zheng, Haiming Jin, Linghe Kong
+2406.02131v2 by Jianrong Ding, Zhanyu Liu, Guanjie Zheng, Haiming Jin, Linghe Kong
 
 Dataset condensation is a newborn technique that generates a small dataset
 that can be used in training deep neural networks to lower training costs. The
@@ -9603,7 +9603,7 @@ time series datasets. CondTSF consistently improves the performance of all
 previous dataset condensation methods across all datasets, particularly at low
 condensing ratios.
 
-摘要：<paragraph>資料集壓縮是一種新興技術，可產生一個小型資料集，可用於訓練深度神經網路，以降低訓練成本。資料集壓縮的目標是確保使用合成資料集訓練的模型，其效能可與使用完整資料集訓練的模型媲美。然而，現有方法主要集中在分類任務上，在適應時間序列預測 (TS 預測) 時會產生挑戰。這個挑戰源於對合成資料評估的差異。在分類中，如果使用完整資料集訓練的模型和使用合成資料集訓練的模型對相同的輸入產生相同的標籤，則合成資料被視為充分萃取，而不管輸出邏輯分佈的變化。相反地，在 TS 預測中，合成資料萃取的有效性是由兩個模型預測之間的距離決定的。只有當預測中的所有資料點都相似時，合成資料才被認為是充分萃取的。因此，與分類相比，TS 預測具有更嚴謹的評估方法。為了縮小這個差距，我們從理論上分析了 TS 預測的資料集壓縮最佳化目標，並根據我們的分析提出了一個新的資料集壓縮單行外掛程式，稱為時間序列預測資料集壓縮 (CondTSF)。將 CondTSF 插入先前的資料集壓縮方法，有助於縮小使用完整資料集訓練的模型和使用合成資料集訓練的模型的預測之間的距離，從而增強效能。我們對八個常用的時間序列資料集進行了廣泛的實驗。CondTSF 持續改善所有先前的資料集壓縮方法在所有資料集中的效能，特別是在低壓縮率下。</paragraph>
+摘要：資料集濃縮是一種新興技術，它會產生一個小型資料集，可用於訓練深度神經網路，以降低訓練成本。資料集濃縮的目標是確保使用合成資料集訓練的模型，其執行效能可以與使用完整資料集訓練的模型相提並論。然而，現有方法主要集中於分類任務，在它們適應於時間序列預測 (TS 預測) 時會構成挑戰。這個挑戰來自於對合成資料評估的差異。在分類中，如果使用完整資料集訓練的模型和使用合成資料集訓練的模型對相同的輸入產生相同的標籤，則合成資料會被視為經過良好的提煉，而不管輸出邏輯分布的變化如何。相反地，在 TS 預測中，合成資料提煉的有效性是由兩個模型預測之間的距離決定的。只有當預測中的所有資料點都相似時，合成資料才會被視為經過良好的提煉。因此，與分類相比，TS 預測有一個更嚴謹的評估方法。為了縮小這個差距，我們從理論上分析了 TS 預測的資料集濃縮最佳化目標，並根據我們的分析提出了資料集濃縮的一行新外掛程式，稱為時間序列預測的資料集濃縮 (CondTSF)。將 CondTSF 插入到先前的資料集濃縮方法中，有助於縮小使用完整資料集訓練的模型和使用合成資料集訓練的模型的預測之間的距離，從而增強效能。我們對八個常用的時間序列資料集進行了大量的實驗。CondTSF 持續改善所有先前的資料集濃縮方法在所有資料集中的效能，特別是在低濃縮率下。
 
 ##### **Iteration Head: A Mechanistic Study of Chain-of-Thought**
 2406.02128v1 by Vivien Cabannes, Charles Arnal, Wassim Bouaziz, Alice Yang, Francois Charton, Julia Kempe
@@ -9946,7 +9946,7 @@ and other state of the art algorithms.
 摘要：惠特爾指數政策是一種啟發法，在應用於稱為不安多臂賭徒問題 (RMABP) 的問題類型時，已展現出極佳的表現（有保證的漸近最優性）。在本文中，我們提出 QWI 和 QWINN，這兩種分別為表格和深度增強學習演算法，用於學習總折現準則的惠特爾指數。其關鍵特徵是使用兩個時間尺度，一個較快的時間尺度用於更新狀態動作 Q 值，另一個較慢的時間尺度用於更新惠特爾指數。在我們的主要理論結果中，我們展示了表格實作的 QWI 會收斂到真正的惠特爾指數。接著，我們提出 QWINN，一種使用神經網路計算較快時間尺度上 Q 值的 QWI 演算法改編，它能夠從一個狀態推斷到另一個狀態，並自然地擴展到大型狀態空間環境。對於 QWINN，我們展示了貝爾曼誤差的所有局部最小值都是局部穩定均衡，這是基於 DQN 的架構首次出現的此類結果。數值運算顯示，QWI 和 QWINN 的收斂速度比標準 Q 學習演算法、基於神經網路的近似 Q 學習和其他最先進的演算法快。
 
 ##### **Analyzing Social Biases in Japanese Large Language Models**
-2406.02050v1 by Hitomi Yanaka, Han Namgi, Ryoma Kumon, Jie Lu, Masashi Takeshita, Ryo Sekizawa, Taisei Kato, Hiromi Arai
+2406.02050v2 by Hitomi Yanaka, Namgi Han, Ryoma Kumon, Jie Lu, Masashi Takeshita, Ryo Sekizawa, Taisei Kato, Hiromi Arai
 
 With the development of Large Language Models (LLMs), social biases in the
 LLMs have become a crucial issue. While various benchmarks for social biases
@@ -9959,7 +9959,7 @@ by instruction-tuning, their bias scores become larger. In addition, augmenting
 their prompts with warning about social biases reduces the effect of biases in
 some models.
 
-摘要：隨著大型語言模型（LLM）的發展，LLM 中的社會偏見已成為一個關鍵問題。雖然各種語言的社會偏見基準測試已經提供，但日文 LLM 表現出社會偏見的程度尚未得到充分調查。在本研究中，我們根據英文偏見基準測試 BBQ 建構了日文偏見基準資料集，用於問答（JBBQ），並分析日文 LLM 中的社會偏見。結果顯示，雖然目前的日文 LLM 透過指令調整改善了其在 JBBQ 上的準確度，但其偏見分數卻變大了。此外，在提示中加入有關社會偏見的警告，可以減少某些模型中偏見的影響。
+摘要：隨著大型語言模型 (LLM) 的發展，LLM 中的社會偏見已成為一個關鍵問題。雖然已針對各種語言提供了社會偏見的各種基準，但日文 LLM 表現出社會偏見的程度尚未得到充分調查。在本研究中，我們根據英文偏見基準 BBQ 建構了日文偏見基準資料集，用於問答 (JBBQ)，並分析日文 LLM 中的社會偏見。結果顯示，雖然目前的日文 LLM 透過指令微調提高了其在 JBBQ 上的準確性，但其偏見分數變大了。此外，在提示中加入有關社會偏見的警告，可減少某些模型中偏見的影響。
 
 ##### **QROA: A Black-Box Query-Response Optimization Attack on LLMs**
 2406.02044v1 by Hussein Jawad, Nicolas J. -B. BRUNEL
@@ -10046,7 +10046,7 @@ different settings.
 摘要：學習良好的表徵對於強化學習 (RL) 代理來說是一項至關重要的挑戰。自我預測學習提供了透過從未來的潛在表徵 (BYOL) 引導來聯合學習潛在表徵和動態模型的方法。最近的研究透過研究自我預測表徵學習的連續時間 ODE 模型，在簡化的假設下，演算法取決於固定政策 (BYOL-$\Pi$)，發展了對這些演算法的理論見解；此假設與此類演算法的實際實例相矛盾，這些實例明確地根據未來的動作對其預測進行條件化。在這項工作中，我們透過使用 ODE 架構分析動作條件自我預測目標 (BYOL-AC)，描述其收斂性質並強調 BYOL-$\Pi$ 和 BYOL-AC 動力學的極限解之間的重要區別，朝著彌合理論與實務之間的差距邁進一步。我們展示了這兩個表徵如何透過變異方程式相關聯。此連結導致了新的變異類似動作條件目標 (BYOL-VAR) 及其對應的 ODE。我們透過兩個互補的觀點統一了對所有三個目標的研究；基於模型的觀點，其中每個目標都被證明等於特定動態的低秩近似，以及無模型的觀點，這建立了目標及其各自的價值、Q 值和優勢函數之間的關係。我們的實證調查涵蓋線性函數近似和深度 RL 環境，證明了 BYOL-AC 在各種不同的設定中整體表現更佳。
 
 ##### **Multimodal Reasoning with Multimodal Knowledge Graph**
-2406.02030v1 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
+2406.02030v2 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
 
 Multimodal reasoning with large language models (LLMs) often suffers from
 hallucinations and the presence of deficient or outdated knowledge within LLMs.
@@ -10066,7 +10066,7 @@ results on multimodal question answering and multimodal analogy reasoning tasks
 demonstrate that our MR-MKG method outperforms previous state-of-the-art
 models.
 
-摘要：多模态推理与大型语言模型 (LLM) 经常出现幻觉，并且 LLM 中存在知识不足或过时的问题。一些方法试图通过使用文本知识图谱来减轻这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱多模态推理 (MR-MKG) 方法，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，显著增强了 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并设计了一个跨模态对齐模块来优化图像文本对齐。构建了一个基于 MMKG 的数据集，通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模约 2.25% 的一小部分参数时就实现了卓越的性能。在多模态问题解答和多模态类比推理任务上的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
+摘要：多模态推理与大型语言模型 (LLM) 经常会出现幻觉，并且 LLM 中存在知识缺陷或过时的问题。一些方法试图通过使用文本知识图谱来缓解这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱 (MR-MKG) 方法的多模态推理，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，从而显著增强 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并且跨模态对齐模块设计用于优化图像文本对齐。构建了一个基于 MMKG 的数据集，以通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模的一小部分（约为 2.25%）时就实现了卓越的性能。多模态问题解答和多模态类比推理任务的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
 
 ##### **Inference Attacks in Machine Learning as a Service: A Taxonomy, Review, and Promising Directions**
 2406.02027v1 by Feng Wu, Lei Cui, Shaowen Yao, Shui Yu

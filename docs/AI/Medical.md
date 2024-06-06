@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462v1](http://arxiv.org/abs/2406.02462v1)|null|
-|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|null|
+|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394v1](http://arxiv.org/abs/2406.02394v1)|[link](https://github.com/maximegmd/glianorex-gen)|
 |**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v1](http://arxiv.org/abs/2406.02350v1)|[link](https://github.com/stephen-smj/llamacare)|
 |**2024-06-04**|**A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**|Arash Ahmadi et.al.|[2406.01950v1](http://arxiv.org/abs/2406.01950v1)|null|
 |**2024-06-03**|**Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization**|Firas Khader et.al.|[2406.01314v1](http://arxiv.org/abs/2406.01314v1)|null|
@@ -17,7 +17,7 @@
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|[link](https://github.com/benjamintowle/simsam)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v1](http://arxiv.org/abs/2406.00314v1)|[link](https://github.com/sarthakharne/case)|
-|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|null|
+|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v1](http://arxiv.org/abs/2406.01624v1)|[link](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-31**|**DYNA: Disease-Specific Language Model for Variant Pathogenicity**|Huixin Zhan et.al.|[2406.00164v1](http://arxiv.org/abs/2406.00164v1)|null|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
@@ -61,7 +61,7 @@
 |**2024-05-27**|**BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale**|ZeMing Gong et.al.|[2405.17537v1](http://arxiv.org/abs/2405.17537v1)|null|
 |**2024-05-27**|**EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**|Yinghao Zhu et.al.|[2406.00036v1](http://arxiv.org/abs/2406.00036v1)|null|
 |**2024-05-27**|**On Fairness of Low-Rank Adaptation of Large Models**|Zhoujie Ding et.al.|[2405.17512v1](http://arxiv.org/abs/2405.17512v1)|null|
-|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775v1](http://arxiv.org/abs/2405.20775v1)|null|
+|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775v1](http://arxiv.org/abs/2405.20775v1)|[link](https://github.com/dirtycomputer/o2m_attack)|
 |**2024-05-26**|**Scalable Numerical Embeddings for Multivariate Time Series: Enhancing Healthcare Data Representation Learning**|Chun-Kai Huang et.al.|[2405.16557v1](http://arxiv.org/abs/2405.16557v1)|null|
 |**2024-05-26**|**SED: Self-Evaluation Decoding Enhances Large Language Models for Better Generation**|Ziqin Luo et.al.|[2405.16552v1](http://arxiv.org/abs/2405.16552v1)|null|
 |**2024-05-26**|**Gamified AI Approch for Early Detection of Dementia**|Paramita Kundu Maji et.al.|[2405.16538v1](http://arxiv.org/abs/2405.16538v1)|null|
@@ -75,7 +75,7 @@
 |**2024-05-24**|**The Impact and Opportunities of Generative AI in Fact-Checking**|Robert Wolfe et.al.|[2405.15985v1](http://arxiv.org/abs/2405.15985v1)|null|
 |**2024-05-24**|**Risk Factor Identification In Osteoporosis Using Unsupervised Machine Learning Techniques**|Mikayla Calitis et.al.|[2405.15882v1](http://arxiv.org/abs/2405.15882v1)|null|
 |**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766v2](http://arxiv.org/abs/2405.15766v2)|[link](https://github.com/singhayush27/mmade)|
-|**2024-05-24**|**Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification**|Yihe Wang et.al.|[2405.19363v1](http://arxiv.org/abs/2405.19363v1)|null|
+|**2024-05-24**|**Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification**|Yihe Wang et.al.|[2405.19363v1](http://arxiv.org/abs/2405.19363v1)|[link](https://github.com/dl4mhealth/medformer)|
 |**2024-05-24**|**Effective Confidence Region Prediction Using Probability Forecasters**|David Lindsay et.al.|[2405.15642v1](http://arxiv.org/abs/2405.15642v1)|null|
 |**2024-05-24**|**Concept-based Explainable Malignancy Scoring on Pulmonary Nodules in CT Images**|Rinat I. Dumaev et.al.|[2405.17483v1](http://arxiv.org/abs/2405.17483v1)|null|
 |**2024-05-24**|**PriCE: Privacy-Preserving and Cost-Effective Scheduling for Parallelizing the Large Medical Image Processing Workflow over Hybrid Clouds**|Yuandou Wang et.al.|[2405.15398v1](http://arxiv.org/abs/2405.15398v1)|[link](https://github.com/yuandou168/price)|

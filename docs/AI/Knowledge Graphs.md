@@ -4,21 +4,21 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v1](http://arxiv.org/abs/2406.02030v1)|null|
+|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
 |**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311v1](http://arxiv.org/abs/2406.01311v1)|null|
-|**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|null|
+|**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|[link](https://github.com/Bahram-Mohammadi/ACK)|
 |**2024-06-03**|**EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs**|Zixuan Dong et.al.|[2406.01238v1](http://arxiv.org/abs/2406.01238v1)|null|
 |**2024-06-03**|**Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph**|Guangyi Liu et.al.|[2406.01145v1](http://arxiv.org/abs/2406.01145v1)|null|
-|**2024-06-03**|**MACT: Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing**|Jiangming Liu et.al.|[2406.01052v1](http://arxiv.org/abs/2406.01052v1)|null|
+|**2024-06-03**|**MACT: Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing**|Jiangming Liu et.al.|[2406.01052v1](http://arxiv.org/abs/2406.01052v1)|[link](https://github.com/LeonCrashCode/DRS-Cross-Lingual-Training)|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032v1](http://arxiv.org/abs/2406.01032v1)|null|
 |**2024-06-02**|**Presence or Absence: Are Unknown Word Usages in Dictionaries?**|Xianghe Ma et.al.|[2406.00656v1](http://arxiv.org/abs/2406.00656v1)|[link](https://github.com/xiaohemaikoo/axolotl24-abdn-nlp)|
-|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318v1](http://arxiv.org/abs/2406.00318v1)|null|
+|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318v1](http://arxiv.org/abs/2406.00318v1)|[link](https://github.com/Wyb0627/KBLink)|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684v1](http://arxiv.org/abs/2405.20684v1)|null|
-|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
+|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v3](http://arxiv.org/abs/2405.20247v3)|null|
 |**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v1](http://arxiv.org/abs/2405.20233v1)|[link](https://github.com/ironjr/grokfast)|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
-|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
+|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|[link](https://github.com/cmavro/gnn-rag)|
 |**2024-05-30**|**MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**|Konstantin Hemker et.al.|[2405.19950v1](http://arxiv.org/abs/2405.19950v1)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877v1](http://arxiv.org/abs/2405.19877v1)|null|
 |**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799v2](http://arxiv.org/abs/2405.19799v2)|[link](https://github.com/jeff-sue/urt)|
@@ -157,7 +157,7 @@ performance breakthrough.
 摘要：OwnThink 是近來介紹的最廣泛的中文開放領域知識圖譜。儘管先前嘗試在 OwnThink（OQA）上進行問題解答，但現有研究在模型表示能力方面面臨限制，對進一步提高問題解答的整體準確性構成挑戰。在本文中，我們介紹了 UniOQA，這是一個統一的框架，它整合了兩個互補的並行工作流程。與傳統方法不同，UniOQA 利用大型語言模型 (LLM) 進行精準問題解答，並將直接答案預測過程作為一種具有成本效益的補充。最初，為了加強表示能力，我們微調 LLM 以將問題轉換為 Cypher 查詢語言 (CQL)，解決與受限語義理解和幻覺相關的問題。隨後，我們引入了實體和關係替換演算法，以確保生成的 CQL 的可執行性。同時，為了提高問題解答的整體準確性，我們進一步將檢索增強生成 (RAG) 過程適應到知識圖譜。最終，我們透過動態決策演算法最佳化答案準確性。實驗結果表明，UniOQA 將 SpCQL 邏輯準確度顯著提升至 21.2%，執行準確度提升至 54.9%，在這個基準上取得了新的最先進結果。透過消融實驗，我們深入探討 UniOQA 的優異表示能力，並量化其效能突破。
 
 ##### **Multimodal Reasoning with Multimodal Knowledge Graph**
-2406.02030v1 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
+2406.02030v2 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
 
 Multimodal reasoning with large language models (LLMs) often suffers from
 hallucinations and the presence of deficient or outdated knowledge within LLMs.
@@ -177,7 +177,7 @@ results on multimodal question answering and multimodal analogy reasoning tasks
 demonstrate that our MR-MKG method outperforms previous state-of-the-art
 models.
 
-摘要：多模态推理与大型语言模型 (LLM) 经常出现幻觉，并且 LLM 中存在知识不足或过时的问题。一些方法试图通过使用文本知识图谱来减轻这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱多模态推理 (MR-MKG) 方法，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，显著增强了 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并设计了一个跨模态对齐模块来优化图像文本对齐。构建了一个基于 MMKG 的数据集，通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模约 2.25% 的一小部分参数时就实现了卓越的性能。在多模态问题解答和多模态类比推理任务上的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
+摘要：多模态推理与大型语言模型 (LLM) 经常会出现幻觉，并且 LLM 中存在知识缺陷或过时的问题。一些方法试图通过使用文本知识图谱来缓解这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱 (MR-MKG) 方法的多模态推理，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，从而显著增强 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并且跨模态对齐模块设计用于优化图像文本对齐。构建了一个基于 MMKG 的数据集，以通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模的一小部分（约为 2.25%）时就实现了卓越的性能。多模态问题解答和多模态类比推理任务的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
 
 ##### **How to Understand Whole Software Repository?**
 2406.01422v1 by Yingwei Ma, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li
@@ -413,7 +413,7 @@ graph to text approach and remains consistent even for larger graphs.
 摘要：大型語言模型 (LLM) 在文字理解方面取得令人驚艷的表現，並已成為建構智慧助理的必要工具。原本專注於文字，它們在近期的作品中已透過多模式功能得到加強，成功建構出視覺指令追蹤助理。然而，就圖形模式而言，目前尚未開發出此類助理。圖形結構很複雜，在於它們表示不同特徵之間的關係，且具有排列不變性。此外，即使對於微調模型，將它們表示成純粹的文字形式並非總是能帶來良好的 LLM 效能。因此，需要開發一種新方法，將圖形整合到 LLM 中，以進行一般的圖形理解。本研究探討 LLM 中圖形模式的整合，以進行一般的圖形指令追蹤任務。其目標是產生一個深度學習模型，透過圖形嵌入增強基礎 LLM，並訓練它了解圖形嵌入，並根據指令產生以圖形表示為基礎的答案。此方法的表現顯著優於文字到文字的方法，即使對於較大的圖形也能保持一致性。
 
 ##### **KerasCV and KerasNLP: Vision and Language Power-Ups**
-2405.20247v2 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
+2405.20247v3 by Matthew Watson, Divyashree Shivakumar Sreepathihalli, Francois Chollet, Martin Gorner, Kiranbir Sodhia, Ramesh Sampath, Tirth Patel, Haifeng Jin, Neel Kovelamudi, Gabriel Rasskin, Samaneh Saadat, Luke Wood, Chen Qian, Jonathan Bischof, Ian Stenbit, Abheesht Sharma, Anshuman Mishra
 
 We present the Keras domain packages KerasCV and KerasNLP, extensions of the
 Keras API for Computer Vision and Natural Language Processing workflows,
@@ -430,7 +430,7 @@ models, and run all preprocessing via a compiled graph of TensorFlow operations
 using the tf.data API. The libraries are fully open-source (Apache 2.0 license)
 and available on GitHub.
 
-摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，這是 Keras API 的擴充套件，適用於電腦視覺和自然語言處理工作流程，能夠在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在支援快速實驗，重點在於易用性和效能。我們採用模組化、分層設計：在程式庫最低層級的抽象化中，我們提供用於建立模型和資料預處理管線的建構模組，而在程式庫最高層級的抽象化中，我們提供熱門架構（例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等）的預先訓練「任務」模型。任務模型具有內建預處理、預先訓練權重，且可針對原始輸入進行微調。為了支援有效率的訓練，我們支援所有模型的 XLA 編譯，並透過使用 tf.data API 編譯的 TensorFlow 作業圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
+摘要：我們展示 Keras 領域套件 KerasCV 和 KerasNLP，它們是 Keras API 的延伸，適用於電腦視覺和自然語言處理工作流程，可以在 JAX、TensorFlow 或 PyTorch 上執行。這些領域套件旨在實現快速實驗，著重於易用性和效能。我們採用模組化、分層設計：在程式庫最低的抽象層級，我們提供建立模型和資料預處理管線的建構區塊，在程式庫最高的抽象層級，我們提供預先訓練好的「任務」模型，適用於熱門架構，例如 Stable Diffusion、YOLOv8、GPT2、BERT、Mistral、CLIP、Gemma、T5 等。任務模型具備內建預處理、預先訓練好的權重，可以在原始輸入上進行微調。為了實現高效訓練，我們支援所有模型的 XLA 編譯，並使用 tf.data API 透過 TensorFlow 作業的編譯圖表執行所有預處理。這些程式庫完全開放原始碼（Apache 2.0 授權），並在 GitHub 上提供。
 
 ##### **Grokfast: Accelerated Grokking by Amplifying Slow Gradients**
 2405.20233v1 by Jaerin Lee, Bong Gyun Kang, Kihoon Kim, Kyoung Mu Lee

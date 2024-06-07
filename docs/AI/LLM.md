@@ -7,7 +7,7 @@
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
 |**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482v1](http://arxiv.org/abs/2406.03482v1)|[link](https://github.com/amirzandieh/qjl)|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
-|**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v1](http://arxiv.org/abs/2406.03452v1)|null|
+|**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v2](http://arxiv.org/abs/2406.03452v2)|[link](https://github.com/ChangeIsKey/change-type-classification)|
 |**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450v1](http://arxiv.org/abs/2406.03450v1)|null|
 |**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
 |**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445v1](http://arxiv.org/abs/2406.03445v1)|null|
@@ -18,7 +18,7 @@
 |**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368v1](http://arxiv.org/abs/2406.03368v1)|null|
 |**2024-06-05**|**CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning**|Xinrui Lin et.al.|[2406.03367v1](http://arxiv.org/abs/2406.03367v1)|null|
 |**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363v1](http://arxiv.org/abs/2406.03363v1)|null|
-|**2024-06-05**|**Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize**|Tianren Zhang et.al.|[2406.03345v1](http://arxiv.org/abs/2406.03345v1)|[link](https://github.com/trzhang0116/feature-contamination)|
+|**2024-06-05**|**Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize**|Tianren Zhang et.al.|[2406.03345v2](http://arxiv.org/abs/2406.03345v2)|[link](https://github.com/trzhang0116/feature-contamination)|
 |**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344v1](http://arxiv.org/abs/2406.03344v1)|null|
 |**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339v1](http://arxiv.org/abs/2406.03339v1)|null|
 |**2024-06-05**|**Reproducibility study of FairAC**|Gijs de Jong et.al.|[2406.03314v1](http://arxiv.org/abs/2406.03314v1)|[link](https://github.com/oxkitsune/fact)|
@@ -32,7 +32,7 @@
 |**2024-06-05**|**Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture**|Ohad Cohen et.al.|[2406.03272v1](http://arxiv.org/abs/2406.03272v1)|null|
 |**2024-06-05**|**Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN**|Patryk Będkowski et.al.|[2406.03263v1](http://arxiv.org/abs/2406.03263v1)|null|
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250v1](http://arxiv.org/abs/2406.03250v1)|null|
-|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v2](http://arxiv.org/abs/2406.03248v2)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
 |**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|[link](https://github.com/mict-zhaw/chall_e2e_stt)|
 |**2024-06-05**|**Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning**|Inwoo Hwang et.al.|[2406.03234v1](http://arxiv.org/abs/2406.03234v1)|[link](https://github.com/iwhwang/Fine-Grained-Causal-RL)|
 |**2024-06-05**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229v1](http://arxiv.org/abs/2406.03229v1)|null|
@@ -40,10 +40,10 @@
 |**2024-06-05**|**ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction**|Jeiyoon Park et.al.|[2406.03202v1](http://arxiv.org/abs/2406.03202v1)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188v1](http://arxiv.org/abs/2406.03188v1)|null|
 |**2024-06-05**|**Missci: Reconstructing Fallacies in Misrepresented Science**|Max Glockner et.al.|[2406.03181v1](http://arxiv.org/abs/2406.03181v1)|null|
-|**2024-06-05**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170v1](http://arxiv.org/abs/2406.03170v1)|null|
+|**2024-06-05**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170v2](http://arxiv.org/abs/2406.03170v2)|null|
 |**2024-06-05**|**CSS: Contrastive Semantic Similarity for Uncertainty Quantification of LLMs**|Shuang Ao et.al.|[2406.03158v1](http://arxiv.org/abs/2406.03158v1)|[link](https://github.com/aoshuang92/css_uq_llms)|
-|**2024-06-05**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154v1](http://arxiv.org/abs/2406.03154v1)|null|
-|**2024-06-05**|**Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation**|Hao Li et.al.|[2406.03151v1](http://arxiv.org/abs/2406.03151v1)|null|
+|**2024-06-05**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154v2](http://arxiv.org/abs/2406.03154v2)|null|
+|**2024-06-05**|**Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation**|Hao Li et.al.|[2406.03151v2](http://arxiv.org/abs/2406.03151v2)|null|
 |**2024-06-05**|**Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models**|Jerry Yao-Chieh Hu et.al.|[2406.03136v1](http://arxiv.org/abs/2406.03136v1)|null|
 |**2024-06-05**|**Towards Real-world Scenario: Imbalanced New Intent Discovery**|Shun Zhang et.al.|[2406.03127v1](http://arxiv.org/abs/2406.03127v1)|null|
 |**2024-06-05**|**Space Decomposition for Sentence Embedding**|Wuttikorn Ponwitayarat et.al.|[2406.03125v1](http://arxiv.org/abs/2406.03125v1)|[link](https://github.com/kornwtp/mixsp)|
@@ -71,8 +71,8 @@
 |**2024-06-05**|**DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection**|Ruituo Wu et.al.|[2406.02976v1](http://arxiv.org/abs/2406.02976v1)|null|
 |**2024-06-05**|**Readability-guided Idiom-aware Sentence Simplification (RISS) for Chinese**|Jingshen Zhang et.al.|[2406.02974v1](http://arxiv.org/abs/2406.02974v1)|null|
 |**2024-06-05**|**Filtered not Mixed: Stochastic Filtering-Based Online Gating for Mixture of Large Language Models**|Raeid Saqur et.al.|[2406.02969v1](http://arxiv.org/abs/2406.02969v1)|null|
-|**2024-06-05**|**Generative AI and Digital Neocolonialism in Global Education: Towards an Equitable Framework**|Matthew Nyaaba et.al.|[2406.02966v1](http://arxiv.org/abs/2406.02966v1)|null|
-|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962v1](http://arxiv.org/abs/2406.02962v1)|null|
+|**2024-06-05**|**Generative AI and Digital Neocolonialism in Global Education: Towards an Equitable Framework**|Matthew Nyaaba et.al.|[2406.02966v2](http://arxiv.org/abs/2406.02966v2)|null|
+|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962v1](http://arxiv.org/abs/2406.02962v1)|[link](https://github.com/AI4WA/Docs2KG)|
 |**2024-06-05**|**Adversarial Moment-Matching Distillation of Large Language Models**|Chen Jia et.al.|[2406.02959v1](http://arxiv.org/abs/2406.02959v1)|null|
 |**2024-06-05**|**PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs**|Charlie Hou et.al.|[2406.02958v1](http://arxiv.org/abs/2406.02958v1)|[link](https://github.com/houcharlie/pre-text)|
 |**2024-06-05**|**4D ASR: Joint Beam Search Integrating CTC, Attention, Transducer, and Mask Predict Decoders**|Yui Sudo et.al.|[2406.02950v1](http://arxiv.org/abs/2406.02950v1)|null|
@@ -88,10 +88,10 @@
 |**2024-06-05**|**Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms**|Rafael Rafailov et.al.|[2406.02900v1](http://arxiv.org/abs/2406.02900v1)|null|
 |**2024-06-05**|**Language Model Can Do Knowledge Tracing: Simple but Effective Method to Integrate Language Model and Knowledge Tracing Task**|Unggi Lee et.al.|[2406.02893v1](http://arxiv.org/abs/2406.02893v1)|null|
 |**2024-06-05**|**HYDRA: Model Factorization Framework for Black-Box LLM Personalization**|Yuchen Zhuang et.al.|[2406.02888v1](http://arxiv.org/abs/2406.02888v1)|null|
-|**2024-06-05**|**PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs**|Rongzhi Zhang et.al.|[2406.02886v1](http://arxiv.org/abs/2406.02886v1)|null|
-|**2024-06-05**|**Outdated Issue Aware Decoding for Factual Knowledge Editing**|Zengkui Sun et.al.|[2406.02882v1](http://arxiv.org/abs/2406.02882v1)|null|
+|**2024-06-05**|**PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs**|Rongzhi Zhang et.al.|[2406.02886v2](http://arxiv.org/abs/2406.02886v2)|null|
+|**2024-06-05**|**Outdated Issue Aware Decoding for Factual Knowledge Editing**|Zengkui Sun et.al.|[2406.02882v2](http://arxiv.org/abs/2406.02882v2)|null|
 |**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880v1](http://arxiv.org/abs/2406.02880v1)|null|
-|**2024-06-05**|**LCS: A Language Converter Strategy for Zero-Shot Neural Machine Translation**|Zengkui Sun et.al.|[2406.02876v1](http://arxiv.org/abs/2406.02876v1)|null|
+|**2024-06-05**|**LCS: A Language Converter Strategy for Zero-Shot Neural Machine Translation**|Zengkui Sun et.al.|[2406.02876v2](http://arxiv.org/abs/2406.02876v2)|[link](https://github.com/acerkoo/lcs)|
 |**2024-06-05**|**Combinatorial Optimization with Automated Graph Neural Networks**|Yang Liu et.al.|[2406.02872v1](http://arxiv.org/abs/2406.02872v1)|[link](https://github.com/amazon-science/co-with-gnns-example)|
 |**2024-06-05**|**Sound Heuristic Search Value Iteration for Undiscounted POMDPs with Reachability Objectives**|Qi Heng Ho et.al.|[2406.02871v1](http://arxiv.org/abs/2406.02871v1)|null|
 |**2024-06-05**|**Oscillations enhance time-series prediction in reservoir computing with feedback**|Yuji Kawai et.al.|[2406.02867v1](http://arxiv.org/abs/2406.02867v1)|null|
@@ -231,7 +231,7 @@ cost compared to full pretraining runs.
 摘要：大型语言模型 (LLM) 的预训练数据集已增长到数万亿个标记，其中包含大量 CommonCrawl (CC) 网络抓取，以及较小的特定领域数据集。了解这些特定领域数据集对模型功能的影响代价高昂，因为需要在大规模浮点运算 (FLOP) 范围内进行训练才能揭示对困难和新兴基准的重大变化。鉴于对预训练数据进行实验的成本越来越高，如何确定通用网络抓取的多样性与特定领域数据的的信息密度之间的最佳平衡？在这项工作中，我们展示了如何通过在训练结束时相对于 CC 对较小的特定领域数据集进行上采样来提高其利用率，从而提高困难基准的性能。这种简单的技术使我们能够在针对 1 万亿 (T) 个标记训练的 7B 模型上，相对于基本数据组合，在 MMLU 上提高高达 6.90 pp，在 GSM8K 上提高 8.26 pp，在 HumanEval 上提高 6.17 pp，从而与 Llama-2 (7B) 相媲美——一个训练时间长达两倍的模型。我们尝试从训练的 5% 到 30% 减少领域上采样的持续时间，并发现 10% 到 20% 是在通用语言建模功能和目标基准之间进行权衡的最佳选择。我们还使用领域上采样来大规模表征各个数据集在训练的最后阶段通过删除它们来改善各种基准的效用。此工具开启了以较低数量级成本（与完整的预训练运行相比）大规模试验不同预训练数据集影响的能力。
 
 ##### **Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**
-2406.03452v1 by Pierluigi Cassotti, Stefano De Pascale, Nina Tahmasebi
+2406.03452v2 by Pierluigi Cassotti, Stefano De Pascale, Nina Tahmasebi
 
 There is abundant evidence of the fact that the way words change their
 meaning can be classified in different types of change, highlighting the
@@ -245,7 +245,7 @@ semantic change types. Finally, we show how the sense relationships can improve
 models for both approximation of human judgments of semantic relatedness as
 well as binary Lexical Semantic Change Detection.
 
-摘要：有大量证据表明，单词改变其含义的方式可以分为不同类型的变化，突出了旧含义和新含义之间的关系（其中包括概括、特化和共下位关系转移）。在本文中，我们提出了一种通过构建一个利用来自共时词汇关系和单词含义定义的信息的模型来检测这些类型变化的方法。具体来说，我们使用 WordNet 中的同义词集定义和层次结构信息，并在 Blank（1997）语义变化类型数据集的数字化版本上对其进行测试。最后，我们展示了意义关系如何改进模型，以近似人类对语义相关性的判断以及二进制词汇语义变化检测。
+摘要：有大量的证据表明，词语改变其含义的方式可以归类为不同类型的改变，突出了旧含义和新含义之间的关系（其中包括泛化、特化和共下位词转移）。在本文中，我们提出了一种通过构建一个模型来检测这些类型改变的方法，该模型利用来自共时词汇关系和词义定义的信息。具体来说，我们使用来自 WordNet 的同义词集定义和层次信息，并在 Blank（1997）语义变化类型数据集的数字化版本上对其进行测试。最后，我们展示了意义关系如何改进模型，以近似人类对语义相关性的判断以及二进制词汇语义变化检测。
 
 ##### **What is the Best Way for ChatGPT to Translate Poetry?**
 2406.03450v1 by Shanshan Wang, Derek F. Wong, Jingming Yao, Lidia S. Chao
@@ -483,7 +483,7 @@ learning, prompting, and humans.
 摘要：確保網路討論有禮貌且有成效是社群媒體平台的一大挑戰。此類平台通常仰賴使用者和自動化偵測工具來標記其他使用者的不當論點，然後由管理員審查。然而，這種事後的審核成本高且耗時，而管理員通常會因為被標記的內容數量和嚴重性而不知所措。相反地，一個有前途的替代方案是在內容建立期間預防負面行為。本文研究如何以運算方式減輕論點中的不當語言。我們提出一個基於強化學習的重寫方法，它根據現有的分類器平衡內容保留和適切性，並提示一個指令微調過的大型語言模型 (LLM) 作為我們的初始政策。與相關的風格轉移任務不同，重寫不當的論點允許永久刪除和新增內容。因此，它是在文件層級而非句子層級上處理。我們在絕對和相對人類評估研究中評估獎勵函數的不同加權方案。非平行數據的系統性實驗提供了證據，證明我們的做法可以在很大程度上保留論點內容的同時減輕論點的不當性。它顯著優於競爭基準，包括少次學習、提示和人類。
 
 ##### **Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize**
-2406.03345v1 by Tianren Zhang, Chujie Zhao, Guanyu Chen, Yizhou Jiang, Feng Chen
+2406.03345v2 by Tianren Zhang, Chujie Zhao, Guanyu Chen, Yizhou Jiang, Feng Chen
 
 Learning representations that generalize under distribution shifts is
 critical for building robust machine learning models. However, despite
@@ -505,7 +505,7 @@ the non-linear feature learning dynamics of neural networks and highlight the
 necessity of considering inductive biases in out-of-distribution
 generalization.
 
-摘要：學習在分佈轉移下進行泛化的表示，對於建立強健的機器學習模型至關重要。然而，儘管近年來做出了重大努力，但朝此方向的演算法進展仍然有限。在這項工作中，我們試圖了解深度神經網路在分佈外泛化方面的基本難度。我們首先憑經驗表明，也許令人驚訝的是，即使允許神經網路明確地符合從能夠泛化到分佈外的教師網路獲得的表示，對於學生網路的泛化也是不夠的。然後，通過對在結構化特徵模型下由隨機梯度下降 (SGD) 最佳化的兩層 ReLU 網路的理論研究，我們確定了神經網路一個基本但尚未探索的特徵學習傾向，即特徵污染：神經網路可以將不相關的特徵與預測特徵一起學習，導致在分佈轉移下泛化失敗。值得注意的是，這種機制與文獻中將泛化失敗歸因於虛假相關性的流行說法有本質上的不同。總體而言，我們的結果為神經網路的非線性特徵學習動態提供了新的見解，並強調了在分佈外泛化中考慮歸納偏見的必要性。
+摘要：學習在分佈轉移下進行概括的表徵對於建立強健的機器學習模型至關重要。然而，儘管近年來做出了顯著的努力，但朝此方向的演算法進展仍然有限。在這項工作中，我們試圖理解深度神經網路在分佈外概括的基本難度。我們首先憑經驗表明，或許令人驚訝的是，即使允許神經網路明確地擬合從能夠在分佈外進行概括的教師網路中獲得的表徵，對於學生網路的概括也是不足夠的。然後，通過對在結構化特徵模型下由隨機梯度下降 (SGD) 最佳化的兩層 ReLU 網路的理論研究，我們確定了神經網路的一個基本但尚未探索的特徵學習傾向，特徵污染：神經網路可以一起學習不相關的特徵和預測特徵，導致在分佈轉移下概括失敗。值得注意的是，這種機制與文獻中普遍存在的將概括失敗歸因於虛假相關性的說法本質上有所不同。總體而言，我們的結果為神經網路的非線性特徵學習動態提供了新的見解，並強調了在分佈外概括中考慮歸納偏見的必要性。
 
 ##### **Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**
 2406.03344v1 by Mehmet Hamza Erol, Arda Senocak, Jiu Feng, Joon Son Chung
@@ -801,7 +801,7 @@ domains under limited access to multi-domain data.
 摘要：RL 中的过拟合已成为强化学习 (RL) 应用的主要障碍之一。现有方法没有为特征提取器提供明确的语义约束，从而阻碍代理学习统一的跨域表示，并导致在未见域上性能下降。此外，需要来自多个域的大量数据。为了解决这些问题，在这项工作中，我们提出了基于提示的视觉对齐 (PVA)，这是一个稳健的框架，用于减轻图像中对零镜头策略转移的有害域偏差。受视觉语言模型 (VLM) 可以作为连接文本空间和图像空间的桥梁的启发，我们利用文本序列中包含的语义信息作为显式约束来训练视觉对齐器。因此，视觉对齐器可以将来自多个域的图像映射到一个统一的域，并实现良好的泛化性能。为了更好地描述语义信息，应用提示调整来学习一系列可学习的标记。通过语义信息的显式约束，PVA 可以在对跨域数据访问有限的情况下学习统一的跨域表示，并在未见域中实现出色的零镜头泛化能力。我们在基于视觉的自动驾驶任务中使用 CARLA 模拟器验证了 PVA。实验表明，在对多域数据访问有限的情况下，该代理在未见域上具有良好的泛化能力。
 
 ##### **Large Language Models as Evaluators for Recommendation Explanations**
-2406.03248v1 by Xiaoyu Zhang, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang
+2406.03248v2 by Xiaoyu Zhang, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang
 
 The explainability of recommender systems has attracted significant attention
 in academia and industry. Many efforts have been made for explainable
@@ -826,7 +826,7 @@ verifies that utilizing LLMs as evaluators can be an accurate, reproducible and
 cost-effective solution for evaluating recommendation explanation texts. Our
 code is available at https://github.com/Xiaoyu-SZ/LLMasEvaluator.
 
-摘要：推薦系統的可解釋性已在學術界和產業中引起廣泛關注。許多努力都致力於可解釋的推薦，然而評估解釋品質仍然是一個具有挑戰性和尚未解決的問題。近年來，利用 LLM 作為評估者在自然語言處理任務（例如情緒分類、資訊萃取）中提供了一條有前途的途徑，因為它們在遵循指令和常識推理方面表現出強大的能力。然而，評估推薦說明文字與這些 NLG 任務不同，因為它的標準與人類的感知有關，而且通常是主觀的。在本文中，我們探討 LLM 是否可以作為推薦說明的評估者。為了回答這個問題，我們利用真實使用者對先前工作提供的說明的回饋，並另外收集第三方註解和 LLM 評估。我們設計並應用了一個 3 級元評估策略來衡量評估者標籤與使用者提供的真實資料之間的關聯性。我們的實驗表明，LLM（例如 GPT4）可以提供具有適當提示和設定的比較評估。我們還進一步深入探討將人類標籤與 LLM 評估過程相結合，並利用多個異質 LLM 評估者的集合來提高評估的準確性和穩定性。我們的研究驗證了利用 LLM 作為評估者可以成為評估推薦說明文字的準確、可複製且具有成本效益的解決方案。我們的程式碼可在 https://github.com/Xiaoyu-SZ/LLMasEvaluator 取得。
+摘要：推薦系統的可解釋性在學術界和產業中引起了極大的關注。儘管已為可解釋性推薦做出了許多努力，但評估說明的品質仍然是一個具有挑戰性且尚未解決的問題。近年來，利用 LLM 作為評估者在自然語言處理任務（例如，情緒分類、資訊萃取）中提供了一個有前景的途徑，因為它們在遵循指令和常識推理方面具有強大的能力。然而，評估推薦說明文字與這些 NLG 任務不同，因為它的標準與人類的認知有關，而且通常是主觀的。在本文中，我們探討 LLM 是否可以作為推薦說明的評估者。為了回答這個問題，我們利用真實使用者對先前工作提供的說明的回饋，並額外收集第三方註解和 LLM 評估。我們設計並應用了一個 3 層級的元評估策略來衡量評估者標籤與使用者提供的基本事實之間的關聯性。我們的實驗表明，LLM（例如 GPT4）可以在適當的提示和設定下提供可比較的評估。我們還進一步深入探討了將人類標籤與 LLM 評估過程相結合，並利用多個異質 LLM 評估者的集合來提高評估的準確性和穩定性。我們的研究驗證了利用 LLM 作為評估者可以成為評估推薦說明文字的準確、可複製且具成本效益的解決方案。我們的程式碼可在 https://github.com/Xiaoyu-SZ/LLMasEvaluator 獲得。
 
 ##### **Error-preserving Automatic Speech Recognition of Young English Learners' Language**
 2406.03235v1 by Janick Michot, Manuela Hürlimann, Jan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak
@@ -999,7 +999,7 @@ while also demonstrating the difficulty of this task.
 摘要：社交網路上的健康相關錯誤資訊可能會導致錯誤的決策和現實世界的危險。這種錯誤資訊通常會曲解科學出版物，並將其引用為獲得感知可信度的「證明」。為了有效自動反駁此類說法，系統必須說明該說法是如何從引用的出版物中錯誤衍生的。目前用於自動事實查核或謬誤檢測的方法忽略了評估與錯誤資訊說法相關的（錯誤）使用的證據，這是檢測它們之間不匹配所必需的。為了解決這個差距，我們引入了 Missci，一個新的論證理論模型，用於謬誤推理，並提供了一個新的用於曲解生物醫學出版物的真實世界錯誤資訊檢測的資料集。與先前的謬誤檢測資料集不同，Missci (i) 專注於引用的出版物相關內容與不準確說法之間的隱含謬誤，以及 (ii) 要求模型除了對謬誤推理進行分類外，還要將其表達出來。我們將 Missci 呈現為一個資料集，用於測試大型語言模型 (LLM) 的批判性推理能力，這些模型需要在零次學習設置中重建真實世界的謬誤論證。我們評估了兩個具有代表性的 LLM 以及通過提示向 LLM 提供不同詳細程度的謬誤類別的影響。我們的實驗和人工評估顯示出 GPT 4 的有希望的結果，同時也證明了這項任務的難度。
 
 ##### **StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**
-2406.03170v1 by Farhad Nooralahzadeh, Yi Zhang, Ellery Smith, Sabine Maennel, Cyril Matthey-Doret, Raphaël de Fondville, Kurt Stockinger
+2406.03170v2 by Farhad Nooralahzadeh, Yi Zhang, Ellery Smith, Sabine Maennel, Cyril Matthey-Doret, Raphaël de Fondville, Kurt Stockinger
 
 The potential for improvements brought by Large Language Models (LLMs) in
 Text-to-SQL systems is mostly assessed on monolingual English datasets.
@@ -1014,7 +1014,12 @@ in-context learning approach. Our experimental analysis illustrates that
 current LLMs struggle to generalize well in generating SQL queries on our novel
 bilingual dataset.
 
-摘要：大型語言模型（LLM）在文字轉 SQL 系統中帶來的潛在改進，大多評估於單語系的英文資料集。然而，LLM 在其他語言的表現仍然鮮少被探討。在這項工作中，我們發布 StatBot.Swiss 資料集，這是第一個基於真實世界應用來評估文字轉 SQL 系統的雙語基準。StatBot.Swiss 資料集包含 455 組自然語言/SQL 對，涵蓋 35 個大型資料庫，其複雜程度對於英文和德文來說都有所不同。我們評估了最先進的 LLM（例如 GPT-3.5-Turbo 和 mixtral-8x7b-instruct）在文字轉 SQL 翻譯任務中的表現，並使用情境學習法。我們的實驗分析說明，目前的 LLM 在我們新穎的雙語資料集上產生 SQL 查詢時，難以很好地概化。
+摘要：大型語言模型 (LLM) 在文字轉 SQL 系統中帶來的潛在改進，大多數都評估在單語系的英語資料集上。
+然而，LLM 在其他語言的表現仍未被廣泛探討。
+在這項工作中，我們發布了 StatBot.Swiss 資料集，這是第一個基於真實世界應用來評估文字轉 SQL 系統的雙語基準。
+StatBot.Swiss 資料集包含 455 個自然語言/SQL 對應，涵蓋 35 個大型資料庫，對於英語和德語來說，複雜程度各不相同。
+我們評估了最先進的 LLM（例如 GPT-3.5-Turbo 和 mixtral-8x7b-instruct）在文字轉 SQL 翻譯任務中的表現，使用情境學習方法。
+我們的實驗分析說明，目前的 LLM 在我們新穎的雙語資料集上生成 SQL 查詢時，難以概化良好。
 
 ##### **CSS: Contrastive Semantic Similarity for Uncertainty Quantification of LLMs**
 2406.03158v1 by Shuang Ao, Stefan Rueger, Advaith Siddharthan
@@ -1043,7 +1048,7 @@ reliable responses of LLMs than comparable baselines. The code are available at
 摘要：儘管大型語言模型 (LLM) 具有令人印象深刻的能力，但何時相信它們的世代仍然是一個公開的挑戰。最近關於自然語言生成 (NLG) 不確定性量化的文獻利用傳統的自然語言推論 (NLI) 分類器來測量 LLM 回應的語義分散。這些研究採用 NLI 分類器的 logit 進行語義聚類以估計不確定性。然而，logit 代表預測類別的機率，幾乎不包含潛在聚類的特徵資訊。或者，CLIP（對比語言影像預訓練）在提取影像文字對特徵和測量它們的相似性方面表現出色。為了擴展其可用性，我們提出對比語義相似性，一個基於 CLIP 的特徵提取模組，用於獲取相似性特徵以測量文字對的不確定性。我們將此方法應用於選擇性 NLG，它偵測並拒絕不可靠的世代，以提高 LLM 的可信度。我們對三個 LLM 進行了廣泛的實驗，採用了幾個基准問題回答資料集和全面的評估指標。結果表明，與可比較的基準相比，我們提出的方法在估計 LLM 的可靠回應方面表現得更好。結果表明，與可比較的基準相比，我們提出的方法在估計 LLM 的可靠回應方面表現得更好。程式碼可在 \url{https://github.com/AoShuang92/css_uq_llms} 取得。
 
 ##### **Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**
-2406.03154v1 by Marvin Schmitt, Paul-Christian Bürkner, Ullrich Köthe, Stefan T. Radev
+2406.03154v2 by Marvin Schmitt, Paul-Christian Bürkner, Ullrich Köthe, Stefan T. Radev
 
 Recent advances in probabilistic deep learning enable efficient amortized
 Bayesian inference in settings where the likelihood function is only implicitly
@@ -1064,10 +1069,10 @@ computer vision. We show how the proposed misspecification test warns users
 about suspicious outputs, raises an alarm when predictions are not trustworthy,
 and guides model designers in their search for better simulators.
 
-摘要：最近在概率深度学习中的进步让有效摊销的贝氏推理在似然函数仅由模拟程序隐式定义的设定中成为可能（基于模拟的推理；SBI）。但是，如果模拟在某种程度上不准确地反映现实，即如果测试时的真实系统行为偏离训练期间观察到的行为，那么这种推理有多么可靠？我们概念化了 SBI 中出现的此类模型错误规范的类型，并系统地研究了神经后验近似器的性能如何因此而逐渐恶化，从而使得推理结果越来越不可靠。为了通知用户此问题，我们提出了一个新的错误规范度量，该度量可以在无监督的方式下训练（即，无需来自真实分布的训练数据），并在测试时可靠地检测到模型错误规范。我们的实验清楚地证明了我们新度量的效用，既在具有分析性基本事实的玩具示例上，也在细胞生物学、认知决策制定、疾病爆发动态和计算机视觉中的代表性科学任务上。我们展示了所提出的错误规范测试如何警告用户可疑的输出，在预测不可靠时发出警报，并在寻找更好的模拟器的过程中指导模型设计者。
+摘要：近期在概率深度学习中的进展，让有效的分摊贝叶斯推论得以在似然函数仅由模拟程序隐式定义的设定中实现（基于模拟的推论；SBI）。但如果模拟在某种程度上不准确地呈现现实，也就是说，如果在测试时间真正的系统行为偏离了在训练期间所见的行为，那么这样的推论有多忠实？我们概念化了 SBI 中出现的此类模型错误规范的类型，并系统地调查了神经后验近似器的性能如何逐渐恶化，从而导致推论结果越来越不可信。为了通知用户此问题，我们提出了一种新的错误规范度量，它可以在无监督的方式下进行训练（即，无需来自真实分布的训练数据），并在测试时间可靠地检测出模型错误规范。我们的实验清楚地证明了我们的新度量在具有分析真实性的玩具示例和细胞生物学、认知决策制定、疾病爆发动态和计算机视觉中的代表性科学任务上的效用。我们展示了所提出的错误规范测试如何警告用户可疑的输出，在预测不可信时发出警报，并指导模型设计者寻找更好的模拟器。
 
 ##### **Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation**
-2406.03151v1 by Hao Li, Yuping Wu, Viktor Schlegel, Riza Batista-Navarro, Tharindu Madusanka, Iqra Zahid, Jiayan Zeng, Xiaochi Wang, Xinran He, Yizhi Li, Goran Nenadic
+2406.03151v2 by Hao Li, Yuping Wu, Viktor Schlegel, Riza Batista-Navarro, Tharindu Madusanka, Iqra Zahid, Jiayan Zeng, Xiaochi Wang, Xinran He, Yizhi Li, Goran Nenadic
 
 With the recent advances of large language models (LLMs), it is no longer
 infeasible to build an automated debate system that helps people to synthesise
@@ -1089,7 +1094,7 @@ dataset motivates future research on end-to-end argument mining and
 summarisation. The repository of this project is available at
 https://github.com/HarrywillDr/ArgSum-Datatset
 
-摘要：<paragraph>隨著大型語言模型 (LLM) 的最新進展，建立一個自動化辯論系統來幫助人們綜合有說服力的論點已不再不可行。先前的研究嘗試透過整合多個組成部分來達成這項任務。在我們的研究中，我們引入了一個論點挖掘資料集，它擷取了為辯論準備論證文章的端對端流程，其中涵蓋了論點和證據識別（任務 1 ED）、證據說服力排名（任務 2 ECR）、論證文章摘要和人類偏好排名（任務 3 ASR）以及基於人類回饋的論證品質維度對結果文章進行自動化評估的度量學習（任務 4 SQE）。我們的資料集包含 14k 個論點範例，並針對支援上述任務的各種屬性進行了完整的註解。我們針對這些任務中的每一個任務評估了多個生成基準，包括具代表性的 LLM。我們發現，儘管它們在基準中的個別任務上表現出有希望的結果，但它們在連續四個任務上的端對端效能卻顯著下降，無論是在自動化測量還是以人為中心的評估中都是如此。我們提出的資料集所呈現的這個挑戰，激勵了未來對端對端論點挖掘和摘要的研究。此專案的存放庫可以在 https://github.com/HarrywillDr/ArgSum-Datatset 取得</paragraph>
+摘要：隨著大型語言模型 (LLM) 的最新進展，建立一個自動辯論系統來幫助人們綜合具有說服力的論點不再不可行。先前的研究嘗試整合多個組件來執行這項任務。在我們的研究中，我們引入了一個論證挖掘資料集，用於擷取為辯論準備論證性文章的端對端流程，其中涵蓋了主張和證據識別 (任務 1 ED)、證據說服力排名 (任務 2 ECR)、論證性文章摘要和人類偏好排名 (任務 3 ASR) 以及基於人類回饋沿論證品質維度 (任務 4 SQE) 對產生的文章進行自動評估的度量學習。我們的資料集包含 14k 個主張範例，並針對支援上述任務的各種屬性進行了完整的註解。我們針對這些任務中的每一個任務評估多個生成基準，包括具代表性的 LLM。我們發現，雖然它們在我們基準中的個別任務上顯示出有希望的結果，但它們在後續所有四個任務上的端對端效能卻顯著惡化，無論是在自動化測量還是以人為中心的評估中都是如此。我們提出的資料集所呈現的這個挑戰激勵了未來對端對端論證挖掘和摘要的研究。此專案的存放庫可在 https://github.com/HarrywillDr/ArgSum-Datatset 取得
 
 ##### **Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models**
 2406.03136v1 by Jerry Yao-Chieh Hu, Maojiang Su, En-Jui Kuo, Zhao Song, Han Liu
@@ -1702,31 +1707,32 @@ measure improvement over the next best performing individual LLM expert.
 摘要：<paragraph>我們提出 MoE-F，這是一種形式化的機制，用於在線上時間序列預測任務中結合 $N$ 個預先訓練的專家大型語言模型 (LLM)，方法是自適應地預測每個時間步長中 LLM 預測的最佳加權。我們的機制利用每個專家的執行效能中的條件資訊，預測用於預測其下一個步驟中時間序列的最佳 LLM 組合。與靜態（已學習）專家混合 (MoE) 方法不同，MoE-F 採用時間自適應隨機濾波技術來結合專家。透過將專家選擇問題建構為有限狀態空間、連續時間隱藏馬可夫模型 (HMM)，我們可以利用 Wohman-Shiryaev 濾波器。我們的做法首先建立 $N$ 個平行濾波器，分別對應於 $N$ 個個別 LLM。每個濾波器根據其可存取的資訊，提出其最佳的 LLM 組合。隨後，將 $N$ 個濾波器輸出聚合，以最佳化聚合 LLM 的損失下界，該損失下界可以在閉合形式中最佳化，從而產生我們的整體預測器。我們在此的貢獻包括：(I) MoE-F 演算法——可作為即插即用的濾波器套件進行部署，(II) 所提出的基於濾波的閘控演算法的理論最佳性保證，以及 (III) 使用最先進的基本 LLM 和 MoE LLM 對真實世界的金融市場變動任務進行經驗評估和消融結果，其中 MoE-F 在 F1 測量上獲得了顯著的 17% 絕對值和 48.5% 相對值改進，優於表現第二佳的個別 LLM 專家。</paragraph>
 
 ##### **Generative AI and Digital Neocolonialism in Global Education: Towards an Equitable Framework**
-2406.02966v1 by Matthew Nyaaba, Alyson Leigh Wright, Gyu Lim Choi
+2406.02966v2 by Matthew Nyaaba, Alyson Wright, Gyu Lim Choi
 
-This paper critically discusses how Generative Artificial Intelligence
+This paper critically discusses how generative artificial intelligence
 (GenAI) might impose Western ideologies on non-Western societies, perpetuating
-digital neocolonialism in education through its inherent biases and further
-suggests strategies to mitigate these effects. Our discussions demonstrated
-that GenAI can foster cultural imperialism by generating content that primarily
-incorporates cultural references and examples relevant to Western students,
-thereby alienating students from non-Western backgrounds. Also, the predominant
-use of Western languages by GenAI can marginalize non-dominant languages,
-making educational content less accessible to speakers of indigenous languages
-and potentially impacting their ability to learn in their first language.
-Additionally, GenAI often generates content and curricula that reflect the
-perspectives of technologically dominant countries, overshadowing marginalized
-indigenous knowledge and practices. Moreover, the cost of access to GenAI
-intensifies educational inequality and the control of GenAI data could lead to
-commercial exploitation without benefiting local students and their
-communities. We propose human-centric reforms to prioritize cultural diversity
-and equity in GenAI development; a liberatory design to empower educators and
-students to identify and dismantle the oppressive structures within GenAI
-applications; foresight by design to create an adjustable GenAI systems to meet
-future educational needs, and finally, effective prompting skills to reduces
-the retrieval of neocolonial outputs.
+digital neocolonialism in education through its inherent biases. It further
+suggests strategies for local and global stakeholders to mitigate these
+effects. Our discussions demonstrated that GenAI can foster cultural
+imperialism by generating content that primarily incorporates cultural
+references and examples relevant to Western students, thereby alienating
+students from non-Western backgrounds. Also, the predominant use of Western
+languages by GenAI can marginalize non-dominant languages, making educational
+content less accessible to speakers of indigenous languages and potentially
+impacting their ability to learn in their first language. Additionally, GenAI
+often generates content and curricula that reflect the perspectives of
+technologically dominant countries, overshadowing marginalized indigenous
+knowledge and practices. Moreover, the cost of access to GenAI intensifies
+educational inequality and the control of GenAI data could lead to commercial
+exploitation without benefiting local students and their communities. We
+propose human-centric reforms to prioritize cultural diversity and equity in
+GenAI development; a liberatory design to empower educators and students to
+identify and dismantle the oppressive structures within GenAI applications;
+foresight by design to create an adjustable GenAI system to meet future
+educational needs; and finally, effective prompting skills to reduce the
+retrieval of neocolonial outputs.
 
-摘要：本文批判性地討論創生式人工智慧 (GenAI) 如何對非西方社會施加西方意識形態，並通過其固有的偏見在教育中延續數位新殖民主義，並進一步提出策略來減輕這些影響。我們的討論表明，GenAI 可以通過產生主要包含與西方學生相關的文化參照和範例的內容來促進文化帝國主義，從而疏遠非西方背景的學生。此外，GenAI 主要使用西方語言可能會邊緣化非主流語言，這使得教育內容對於原住民語言的使用者來說較難理解，並可能影響他們用母語學習的能力。此外，GenAI 通常會產生反映技術主導國家觀點的內容和課程，掩蓋了被邊緣化的原住民知識和實踐。此外，取得 GenAI 的費用加劇了教育不平等，而 GenAI 資料的控制可能會導致商業剝削，而不會使當地學生及其社區受益。我們提出以人為本的改革，以優先考慮 GenAI 開發中的文化多樣性和公平性；一種解放式的設計，使教育工作者和學生能夠識別和消滅 GenAI 應用程式中的壓迫性結構；通過設計的前瞻性，創造一個可調整的 GenAI 系統，以滿足未來的教育需求，最後，有效的提示技巧，以減少新殖民主義輸出的檢索。
+摘要：本文批判性地探討生成式人工智慧 (GenAI) 如何將西方意識形態強加於非西方社會，藉由其內在偏見在教育中延續數位新殖民主義。本文進一步建議在地和全球利害關係人可採取的策略，以減輕這些影響。我們的討論證明，GenAI 可能透過產生主要納入與西方學生相關的文化參考和範例的內容來促進文化帝國主義，從而疏遠非西方背景的學生。此外，GenAI 主要使用西方語言可能會將非主流語言邊緣化，使得教育內容對原住民語言的使用者來說較難取得，並可能影響他們以母語學習的能力。此外，GenAI 經常產生反映技術主導國家觀點的內容和課程，掩蓋了被邊緣化的原住民知識和實務。更甚者，取得 GenAI 的使用權的成本加劇了教育不平等，而對 GenAI 資料的控制可能會導致商業剝削，而無法讓在地學生和他們的社群受益。我們提出以人為中心的改革，以優先考量 GenAI 開發中的文化多元性和公平性；解放設計，以賦能教育工作者和學生，識別並瓦解 GenAI 應用程式中的壓迫性結構；設計前瞻，以建立可調整的 GenAI 系統，以滿足未來的教育需求；最後，有效的提示技巧，以減少新殖民主義輸出的擷取。
 
 ##### **Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**
 2406.02962v1 by Qiang Sun, Yuanyi Luo, Wenxiao Zhang, Sirui Li, Jichunyang Li, Kai Niu, Xiangrui Kong, Wei Liu
@@ -2111,7 +2117,7 @@ https://github.com/night-chen/HYDRA.
 摘要：<paragraph>個人化已成為現代智慧系統中一項重要的研究領域，專注於挖掘使用者的行為歷史，並根據其偏好提供客製化體驗。儘管黑盒子大型語言模型 (LLM) 展現出非凡的少量次數能力，但其模型參數固有的不透明性在將產生的輸出與個別期望相符時，帶來重大挑戰。現有的解決方案主要專注於提示設計，以納入使用者特定的個人資料和行為；然而，此類方法由於無法擷取所有使用者之間的共用知識，因此通常難以有效概化。為了應對這些挑戰，我們提出 HYDRA，這是一個模型分解架構，可從歷史資料中擷取使用者特定的行為模式，並在所有使用者之間共用一般知識，以提供個人化生成。為了擷取使用者特定的行為模式，我們首先訓練一個重新排名器，以優先處理從頂端擷取到的相關歷史記錄中最有用的資訊。透過將優先排序的歷史記錄與對應的查詢相結合，我們訓練一個適配器，以將輸出與個別使用者的特定偏好相符，無需依賴存取黑盒子 LLM 的固有模型參數。重新排名器和適配器都可以分解成一個具有多個使用者特定主體的基礎模型，類似於九頭蛇。基礎模型維護使用者之間的共用知識，而多個個人主體則擷取使用者特定的偏好。實驗結果顯示，在 LaMP 基準中的五項不同的個人化任務中，HYDRA 的表現優於現有的最先進提示式方法，平均相對改善幅度為 9.01%。我們的實作可在 https://github.com/night-chen/HYDRA 取得。</paragraph>
 
 ##### **PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs**
-2406.02886v1 by Rongzhi Zhang, Jiaming Shen, Tianqi Liu, Haorui Wang, Zhen Qin, Feng Han, Jialu Liu, Simon Baumgartner, Michael Bendersky, Chao Zhang
+2406.02886v2 by Rongzhi Zhang, Jiaming Shen, Tianqi Liu, Haorui Wang, Zhen Qin, Feng Han, Jialu Liu, Simon Baumgartner, Michael Bendersky, Chao Zhang
 
 Large Language Models (LLMs) have exhibited impressive capabilities in
 various tasks, yet their vast parameter sizes restrict their applicability in
@@ -2132,10 +2138,10 @@ mis-calibration issue. Through extensive experiments on two sequence generation
 tasks and with various LLMs, we demonstrate the effectiveness of our proposed
 PLaD framework.
 
-摘要：大型語言模型 (LLM) 已在各種任務中展現出令人印象深刻的能力，但其龐大的參數規模限制了它們在資源受限環境中的適用性。知識蒸餾 (KD) 提供了一個可行的解決方案，方法是將大型教師模型的專業知識轉移到精簡的學生模型。然而，當應用於 LLM 時，傳統的 KD 技術會面臨具體挑戰，包括受限訪問 LLM 輸出、顯著的教師學生容量差距以及繼承的錯誤校準問題。在這項工作中，我們提出了 PLaD，這是一個基於偏好的 LLM 蒸餾框架。PLaD 利用教師學生容量差異來生成偽偏好對，其中教師輸出優先於學生輸出。然後，PLaD 利用排名損失來重新校準學生對序列可能性的估計，這將學生的注意力引導到理解輸出的相對品質，而不是簡單地模仿教師。PLaD 避開了訪問教師 LLM 內部狀態的需要，解決了學生的表現力限制，並減輕了學生的錯誤校準問題。通過在兩個序列生成任務和各種 LLM 上進行廣泛的實驗，我們證明了我們提出的 PLaD 框架的有效性。
+摘要：大型語言模型 (LLM) 已在各種任務中展現出令人印象深刻的能力，但其龐大的參數規模限制了它們在資源受限環境中的適用性。知識蒸餾 (KD) 提供了一種可行的解決方案，通過將大型教師模型的專業知識轉移到精簡的學生模型中。然而，當應用於 LLM 時，傳統的 KD 技術會面臨具體挑戰，包括對 LLM 輸出的訪問受限、教師和學生之間的容量差距顯著以及繼承的錯誤校準問題。在這項工作中，我們提出了 PLaD，這是一個新穎的基於偏好的 LLM 蒸餾框架。PLaD 利用教師和學生之間的容量差異來生成偽偏好對，其中教師輸出優於學生輸出。然後，PLaD 利用排名損失來重新校準學生對序列似然的估計，這將學生的注意力引導到理解輸出的相對品質，而不是簡單地模仿教師。PLaD 避開了訪問教師 LLM 內部狀態的需求，解決了學生的表達能力限制，並減輕了學生的錯誤校準問題。通過在兩個序列生成任務上進行廣泛的實驗，並使用各種 LLM，我們證明了我們提出的 PLaD 框架的有效性。
 
 ##### **Outdated Issue Aware Decoding for Factual Knowledge Editing**
-2406.02882v1 by Zengkui Sun, Yijin Liu, Jiaan Wang, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou
+2406.02882v2 by Zengkui Sun, Yijin Liu, Jiaan Wang, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou
 
 Recently, Knowledge Editing has received increasing attention, since it could
 update the specific knowledge from outdated ones in pretrained models without
@@ -2158,7 +2164,7 @@ applying DISCO could enhance edited models to reason, e.g., on reasoning
 questions, DISCO outperforms the prior SOTA method by 12.99 F1 scores, and
 reduces the ratio of the outdated issue to 5.78% on the zsRE dataset.
 
-摘要：近年來，知識編輯受到越來越多的關注，因為它可以在不重新訓練的情況下，從預訓練模型中更新過時的特定知識。然而，正如最近的研究指出的，現有的相關方法往往只是記住編輯知識的表面字詞組成，而不是真正學習和吸收它。因此，在推理問題上，我們發現現有方法難以利用編輯知識來推理新答案，並且傾向於保留過時的回應，這些回應是由原始模型利用原始知識生成的。儘管如此，過時的回應對於推理問題的正確答案來說是意料之外的，我們稱之為過時問題。為了緩解這個問題，在本文中，我們提出了一個簡單但有效的解碼策略，即過時問題感知解碼 (DISCO)，以增強編輯模型在推理問題上的效能。具體來說，我們捕捉原始模型和編輯模型之間概率分佈的差異。此外，我們擴大了編輯模型中標記預測的差異，以緩解過時問題，從而增強模型相對於編輯知識的效能。實驗結果表明，應用 DISCO 可以增強編輯模型的推理能力，例如，在推理問題上，DISCO 在 F1 分數上優於先前的 SOTA 方法 12.99，並將 zsRE 資料集上的過時問題比率降低至 5.78%。
+摘要：<paragraph>近期，知识编辑受到越来越多的关注，因为它可以在不重新训练的情况下，从预训练模型中更新特定的过时知识。然而，正如最近的研究指出的，现有的相关方法倾向于仅仅记住已编辑知识的表面词语构成，而不是真正学习和吸收它。因此，在推理问题上，我们发现现有方法难以利用已编辑的知识来推理新答案，并且倾向于保留由原始模型利用原始知识生成的过时响应。尽管如此，过时的响应对于推理问题的正确答案是意外的，我们称之为过时问题。为了缓解这个问题，在本文中，我们提出了一种简单而有效的解码策略，即过时问题感知解码 (DISCO)，以增强编辑模型在推理问题上的性能。具体来说，我们捕捉原始模型和编辑模型之间的概率分布差异。此外，我们放大了编辑模型中标记预测的差异，以缓解过时问题，从而增强模型相对于编辑知识的性能。实验结果表明，应用 DISCO 可以增强编辑模型的推理能力，例如，在推理问题上，DISCO 在 zsRE 数据集上以 12.99 F1 分数优于先前的 SOTA 方法，并将过时问题的比率降低到 5.78%。</paragraph>
 
 ##### **Controllable Talking Face Generation by Implicit Facial Keypoints Editing**
 2406.02880v1 by Dong Zhao, Jiaying Shi, Wenjun Li, Shudong Wang, Shenghui Xu, Zhaoming Pan
@@ -2183,7 +2189,7 @@ regardless of languages.
 摘要：受音訊驅動的說話人臉生成在數位人像研究領域中備受關注。現有方法受到複雜的模型架構所累，這些架構錯綜複雜地相互依賴，使得重新編輯影像或影片輸入的過程變得複雜。在這項工作中，我們提出 ControlTalk，一種基於受驅動音訊控制臉部表情變形的說話人臉生成方法，它能夠以統一的方式建構頭部姿勢和臉部表情，包括單一影像或序列影片輸入的唇部動作。透過使用預先訓練好的影片合成渲染器並提出輕量化適應，ControlTalk 能夠在精確且自然地進行唇部同步的同時，還能對嘴巴張開的形狀進行量化控制。我們的實驗顯示，我們的模型在廣泛使用的基準上優於最先進的效能，包括 HDTF 和 MEAD。參數化適應展示出非凡的泛化能力，能夠有效地處理同 ID 和跨 ID 場景中的表情變形，並將其效用擴展到領域外的肖像，而與語言無關。
 
 ##### **LCS: A Language Converter Strategy for Zero-Shot Neural Machine Translation**
-2406.02876v1 by Zengkui Sun, Yijin Liu, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou
+2406.02876v2 by Zengkui Sun, Yijin Liu, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou
 
 Multilingual neural machine translation models generally distinguish
 translation directions by the language tag (LT) in front of the source or
@@ -2203,7 +2209,7 @@ issue, with language accuracy up to 95.28%, 96.21%, and 85.35% meanwhile
 outperforming the vanilla LT strategy by 3.07, 3,3, and 7.93 BLEU scores on
 zero-shot translation, respectively.
 
-摘要：多語言神經機器翻譯模型通常會在原始語言或目標語言句子前面加上語言標籤 (LT) 來區分翻譯方向。然而，目前的 LT 策略無法如預期般在零次學習翻譯中指出所需的目標語言，也就是說，會出現離題問題。我們的分析顯示，目標語言的指示與目標 LT 的位置有關。例如，當將目標 LT 放置在解碼器側時，指示會隨著解碼步驟快速下降，而將目標 LT 放置在編碼器側則會導致複製或改寫原始輸入。為了解決上述問題，我們提出了一個簡單但有效的策略，稱為語言轉換策略 (LCS)。透過將目標語言嵌入引入頂層編碼器層，LCS 可減輕編碼器的混淆，並確保為解碼器提供穩定的語言指示。在 MultiUN、TED 和 OPUS-100 資料集上的實驗結果顯示，LCS 可以顯著減輕離題問題，語言準確度分別高達 95.28%、96.21% 和 85.35%，同時在零次學習翻譯中分別比傳統 LT 策略高出 3.07、3.3 和 7.93 的 BLEU 分數。
+摘要：多语言神经机器翻译模型通常通过源语言或目标语言前面的语言标签 (LT) 来区分翻译方向。然而，当前的 LT 策略无法如预期的那样在零次翻译中指示所需的翻译语言，即离题问题。我们的分析表明，目标语言的指示对目标 LT 的位置敏感。例如，当将目标 LT 放置在解码器端时，指示将随着解码步骤迅速降低，而将目标 LT 放置在编码器端会导致复制或解释源输入。为了解决上述问题，我们提出了一种简单但有效的策略，称为语言转换策略 (LCS)。通过将目标语言嵌入引入到顶层编码器层，LCS 减轻了编码器的混乱，并确保了解码器的稳定语言指示。在 MultiUN、TED 和 OPUS-100 数据集上的实验结果表明，LCS 可以显著减轻离题问题，语言准确率高达 95.28%、96.21% 和 85.35%，同时在零次翻译中分别比香草 LT 策略高出 3.07、3、3 和 7.93 BLEU 分数。
 
 ##### **Combinatorial Optimization with Automated Graph Neural Networks**
 2406.02872v1 by Yang Liu, Peng Zhang, Yang Gao, Chuan Zhou, Zhao Li, Hongyang Chen

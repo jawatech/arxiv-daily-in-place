@@ -53,7 +53,7 @@
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203v1](http://arxiv.org/abs/2405.14203v1)|null|
 |**2024-05-23**|**Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning**|Jiapu Wang et.al.|[2405.14170v1](http://arxiv.org/abs/2405.14170v1)|null|
 |**2024-05-22**|**Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2405.14012v1](http://arxiv.org/abs/2405.14012v1)|[link](https://github.com/haltiaai/paper-ptodskc)|
-|**2024-05-22**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**|Yiran Qiao et.al.|[2405.13902v1](http://arxiv.org/abs/2405.13902v1)|[link](https://github.com/qiaoyran/login)|
+|**2024-05-22**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**|Yiran Qiao et.al.|[2405.13902v2](http://arxiv.org/abs/2405.13902v2)|[link](https://github.com/qiaoyran/login)|
 |**2024-05-22**|**FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering**|Yuan Sui et.al.|[2405.13873v1](http://arxiv.org/abs/2405.13873v1)|null|
 |**2024-05-22**|**Large Language Models are Effective Priors for Causal Graph Discovery**|Victor-Alexandru Darvariu et.al.|[2405.13551v1](http://arxiv.org/abs/2405.13551v1)|null|
 |**2024-05-22**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401v3](http://arxiv.org/abs/2405.13401v3)|null|
@@ -1394,7 +1394,7 @@ https://github.com/HaltiaAI/paper-PTODSKC
 https://github.com/HaltiaAI/paper-PTODSKC
 
 ##### **LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**
-2405.13902v1 by Yiran Qiao, Xiang Ao, Yang Liu, Jiarong Xu, Xiaoqian Sun, Qing He
+2405.13902v2 by Yiran Qiao, Xiang Ao, Yang Liu, Jiarong Xu, Xiaoqian Sun, Qing He
 
 Recent prevailing works on graph machine learning typically follow a similar
 methodology that involves designing advanced variants of graph neural networks
@@ -1415,7 +1415,7 @@ within the proposed LLMs-as-Consultants paradigm, can achieve comparable
 performance to advanced GNNs with intricate designs. Our codes are available at
 https://github.com/QiaoYRan/LOGIN.
 
-摘要：近期的主流图机器学习研究通常遵循类似的方法，即设计图神经网络 (GNN) 的高级变体，以维持 GNN 在不同图上的优异性能。在本文中，我们旨在简化 GNN 设计流程，并利用大型语言模型 (LLM) 的优势来提升 GNN 在下游任务上的性能。我们制定了一个新的范例，称为“LLM 作为顾问”，它以交互方式将 LLM 与 GNN 集成在一起。实例化了一个名为 LOGIN（LLM 咨询的 GNN 训练）的框架，赋能了 LLM 在 GNN 训练过程中的交互式利用。首先，我们专注于为发现的节点精心设计简洁的提示，承载全面的语义和拓扑信息，并作为 LLM 的输入。其次，我们通过设计一种利用 LLM 响应的补充应对机制来优化 GNN，这取决于它们的正确性。我们对 LOGIN 在同质和异质图上的节点分类任务的有效性进行了实证评估。结果表明，即使是基本的 GNN 架构，在所提出的 LLM 作为顾问范例中使用时，也可以实现与具有复杂设计的先进 GNN 相媲美的性能。我们的代码可在 https://github.com/QiaoYRan/LOGIN 获取。
+摘要：近期主流的圖形機器學習研究通常遵循類似的方法，即設計圖形神經網路 (GNN) 的進階變體，以在不同圖形上維持 GNN 的優異效能。在本文中，我們旨在簡化 GNN 設計流程，並利用大型語言模型 (LLM) 的優勢來提升 GNN 在下游任務的效能。我們制定了一個新的範例，稱為「LLM 作為顧問」，它以互動的方式將 LLM 與 GNN 整合在一起。我們實例化了一個名為 LOGIN（LLM 諮詢 GNN 訓練）的架構，讓 LLM 能在 GNN 訓練過程中互動式地被使用。首先，我們專注於為發現的節點精心製作簡潔的提示，包含全面的語義和拓撲資訊，並作為 LLM 的輸入。其次，我們透過設計一種補充性的應對機制來改善 GNN，該機制會根據 LLM 回應的正確性來使用這些回應。我們根據同質性和異質性圖形上的節點分類任務，實證評估了 LOGIN 的有效性。結果表明，即使在提議的 LLM 作為顧問範例中使用基本的 GNN 架構，也能達到與設計複雜的進階 GNN 相當的效能。我們的程式碼可在 https://github.com/QiaoYRan/LOGIN 取得。
 
 ##### **FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering**
 2405.13873v1 by Yuan Sui, Yufei He, Nian Liu, Xiaoxin He, Kun Wang, Bryan Hooi

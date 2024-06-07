@@ -2,6 +2,10 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**|Eleonora Mancini et.al.|[2406.04116v1](http://arxiv.org/abs/2406.04116v1)|null|
+|**2024-06-06**|**Leveraging SPD Matrices on Riemannian Manifolds in Quantum Classical Hybrid Models for Structural Health Monitoring**|Azadeh Alavi et.al.|[2406.04055v1](http://arxiv.org/abs/2406.04055v1)|null|
+|**2024-06-05**|**Speech-based Clinical Depression Screening: An Empirical Study**|Yangbin Chen et.al.|[2406.03510v1](http://arxiv.org/abs/2406.03510v1)|null|
+|**2024-06-05**|**Robust Prediction Model for Multidimensional and Unbalanced Datasets**|Pooja Thakar et.al.|[2406.03507v1](http://arxiv.org/abs/2406.03507v1)|null|
 |**2024-06-05**|**Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting**|Yuansan Liu et.al.|[2406.02827v1](http://arxiv.org/abs/2406.02827v1)|null|
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|null|
 |**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462v1](http://arxiv.org/abs/2406.02462v1)|null|
@@ -20,7 +24,7 @@
 |**2024-06-02**|**Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications**|David Restrepo et.al.|[2406.02601v1](http://arxiv.org/abs/2406.02601v1)|null|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v1](http://arxiv.org/abs/2406.00314v1)|[link](https://github.com/sarthakharne/case)|
-|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition)|
+|**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-31**|**DYNA: Disease-Specific Language Model for Variant Pathogenicity**|Huixin Zhan et.al.|[2406.00164v1](http://arxiv.org/abs/2406.00164v1)|null|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
@@ -98,12 +102,90 @@
 |**2024-05-23**|**Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**|Kang Liu et.al.|[2405.14905v1](http://arxiv.org/abs/2405.14905v1)|[link](https://github.com/mk-runner/sei-temp)|
 |**2024-05-22**|**How Many Bytes Can You Take Out Of Brain-To-Text Decoding?**|Richard Antonello et.al.|[2405.14055v1](http://arxiv.org/abs/2405.14055v1)|null|
 |**2024-05-22**|**Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review**|Md Shahin Ali et.al.|[2405.13832v1](http://arxiv.org/abs/2405.13832v1)|null|
-|**2024-05-22**|**Efficient Two-Stage Gaussian Process Regression Via Automatic Kernel Search and Subsampling**|Shifan Zhao et.al.|[2405.13785v1](http://arxiv.org/abs/2405.13785v1)|null|
-|**2024-05-22**|**KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization in EHR**|Hajung Kim et.al.|[2406.00014v1](http://arxiv.org/abs/2406.00014v1)|null|
-|**2024-05-21**|**How Reliable AI Chatbots are for Disease Prediction from Patient Complaints?**|Ayesha Siddika Nipu et.al.|[2405.13219v1](http://arxiv.org/abs/2405.13219v1)|null|
-|**2024-05-21**|**Interpretable Spatio-Temporal Embedding for Brain Structural-Effective Network with Ordinary Differential Equation**|Haoteng Tang et.al.|[2405.13190v1](http://arxiv.org/abs/2405.13190v1)|null|
 
 #### Abstracts
+##### **Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**
+2406.04116v1 by Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni
+
+Current research in machine learning and artificial intelligence is largely
+centered on modeling and performance evaluation, less so on data collection.
+However, recent research demonstrated that limitations and biases in data may
+negatively impact trustworthiness and reliability. These aspects are
+particularly impactful on sensitive domains such as mental health and
+neurological disorders, where speech data are used to develop AI applications
+aimed at improving the health of patients and supporting healthcare providers.
+In this paper, we chart the landscape of available speech datasets for this
+domain, to highlight possible pitfalls and opportunities for improvement and
+promote fairness and diversity. We present a comprehensive list of desiderata
+for building speech datasets for mental health and neurological disorders and
+distill it into a checklist focused on ethical concerns to foster more
+responsible research.
+
+摘要：目前的機器學習和人工智慧研究主要集中在建模和效能評估上，較少著重於資料收集。然而，最近的研究表明，資料中的限制和偏見可能會對可信度和可靠性產生負面影響。這些面向在心理健康和神經疾病等敏感領域中特別具有影響力，在這些領域中，語音資料用於開發人工智慧應用程式，旨在改善患者健康並支援醫療保健提供者。在本文中，我們繪製了此領域可用的語音資料集概況，以強調可能的陷阱和改進機會，並促進公平性和多樣性。我們提供了一個全面的清單，說明了建立心理健康和神經疾病語音資料集的理想條件，並將其濃縮成一個專注於道德考量的檢查清單，以促進更負責任的研究。
+
+##### **Leveraging SPD Matrices on Riemannian Manifolds in Quantum Classical Hybrid Models for Structural Health Monitoring**
+2406.04055v1 by Azadeh Alavi, Sanduni Jayasinghe
+
+Realtime finite element modeling of bridges assists modern structural health
+monitoring systems by providing comprehensive insights into structural
+integrity. This capability is essential for ensuring the safe operation of
+bridges and preventing sudden catastrophic failures. However, FEM computational
+cost and the need for realtime analysis pose significant challenges.
+Additionally, the input data is a 7 dimensional vector, while the output is a
+1017 dimensional vector, making accurate and efficient analysis particularly
+difficult. In this study, we propose a novel hybrid quantum classical
+Multilayer Perceptron pipeline leveraging Symmetric Positive Definite matrices
+and Riemannian manifolds for effective data representation. To maintain the
+integrity of the qubit structure, we utilize SPD matrices, ensuring data
+representation is well aligned with the quantum computational framework.
+Additionally, the method leverages polynomial feature expansion to capture
+nonlinear relationships within the data. The proposed pipeline combines
+classical fully connected neural network layers with quantum circuit layers to
+enhance model performance and efficiency. Our experiments focused on various
+configurations of such hybrid models to identify the optimal structure for
+accurate and efficient realtime analysis. The best performing model achieved a
+Mean Squared Error of 0.00031, significantly outperforming traditional methods.
+
+摘要：橋樑的即時有限元素建模透過提供結構完整性的全面見解，協助現代結構健康監控系統。此功能對於確保橋樑安全操作和防止突然災難性故障至關重要。然而，有限元素方法的運算成本和即時分析的需求帶來了重大挑戰。此外，輸入資料是 7 維向量，而輸出是 1017 維向量，這使得準確而有效的分析特別困難。在本研究中，我們提出了一種新穎的混合量子經典多層感知器管道，利用對稱正定矩陣和黎曼流形進行有效的資料表示。為了維護量子位元結構的完整性，我們利用對稱正定矩陣，確保資料表示與量子運算框架完全一致。此外，此方法利用多項式特徵展開來擷取資料中的非線性關係。所提出的管道結合了經典全連接神經網路層和量子電路層，以增強模型效能和效率。我們的實驗專注於此類混合模型的各種配置，以識別準確且有效的即時分析的最佳結構。效能最佳的模型達到了 0.00031 的平均平方誤差，顯著優於傳統方法。
+
+##### **Speech-based Clinical Depression Screening: An Empirical Study**
+2406.03510v1 by Yangbin Chen, Chenyang Xu, Chunfeng Liang, Yanbao Tao, Chuan Shi
+
+This study investigates the utility of speech signals for AI-based depression
+screening across varied interaction scenarios, including psychiatric
+interviews, chatbot conversations, and text readings. Participants includes
+depressed patients recruited from the outpatient clinics of Peking University
+Sixth Hospital and control group members from the community, all diagnosed by
+psychiatrists following standardized diagnostic protocols. We extracted
+acoustic and deep speech features from each participant's segmented recordings.
+Classifications were made using neural networks or SVMs, with aggregated clip
+outcomes determining final assessments. Our analysis across interaction
+scenarios, speech processing techniques, and feature types confirms speech as a
+crucial marker for depression screening. Specifically, human-computer
+interaction matches clinical interview efficacy, surpassing reading tasks.
+Segment duration and quantity significantly affect model performance, with deep
+speech features substantially outperforming traditional acoustic features.
+
+摘要：本研究探討了語音訊號在基於 AI 的憂鬱症篩檢中的效用，涵蓋各種互動場景，包括精神科訪談、聊天機器人對話和文字朗讀。參與者包括從北京大學第六醫院門診招募的憂鬱症患者和來自社區的對照組成員，均由精神科醫師遵循標準化診斷協議進行診斷。我們從每位參與者的分段錄音中提取了聲學和深度語音特徵。分類使用神經網路或 SVM 進行，匯總的片段結果決定最終評估。我們對互動場景、語音處理技術和特徵類型的分析證實，語音是憂鬱症篩檢的關鍵標記。具體來說，人機互動符合臨床訪談的效能，超越閱讀任務。片段持續時間和數量顯著影響模型效能，深度語音特徵顯著優於傳統聲學特徵。
+
+##### **Robust Prediction Model for Multidimensional and Unbalanced Datasets**
+2406.03507v1 by Pooja Thakar, Anil Mehta, Manisha
+
+Data Mining is a promising field and is applied in multiple domains for its
+predictive capabilities. Data in the real world cannot be readily used for data
+mining as it suffers from the problems of multidimensionality, unbalance and
+missing values. It is difficult to use its predictive capabilities by novice
+users. It is difficult for a beginner to find the relevant set of attributes
+from a large pool of data available. The paper presents a Robust Prediction
+Model that finds a relevant set of attributes; resolves the problems of
+unbalanced and multidimensional real-life datasets and helps in finding
+patterns for informed decision making. Model is tested upon five different
+datasets in the domain of Health Sector, Education, Business and Fraud
+Detection. The results showcase the robust behaviour of the model and its
+applicability in various domains.
+
+摘要：資料探勘是一個很有前景的領域，並因其預測能力而應用於多個領域。現實世界中的資料並不能直接用於資料探勘，因為它會受到多維性、不平衡和遺失值的問題影響。新手用戶很難使用其預測能力。對於初學者來說，從大量可用的資料中找出相關的屬性集是一件困難的事。本文提出了一個穩健的預測模型，該模型可以找到相關的屬性集；解決不平衡和多維的現實生活中資料集的問題，並幫助找出模式以進行明智的決策。該模型在醫療保健、教育、商業和詐欺偵測領域的五個不同資料集上進行了測試。結果展示了該模型的穩健行為及其在各種領域中的適用性。
+
 ##### **Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting**
 2406.02827v1 by Yuansan Liu, Sudanthi Wijewickrema, Dongting Hu, Christofer Bester, Stephen O'Leary, James Bailey
 
@@ -2484,100 +2566,4 @@ enhance data security protocols, and expand FL's use to broader healthcare
 applications, which will benefit future researchers and practitioners.
 
 摘要：由於醫療記錄數位化和資料驅動型醫療研究的增加，資料隱私已成為醫療保健的主要問題。保護敏感的患者資訊免於外洩和未經授權的存取至關重要，因為此類事件可能會造成嚴重的法律和倫理問題。聯合學習 (FL) 透過讓多個醫療保健機構在不共享分散資料的情況下進行協作學習，來解決這個問題。FL 在醫療保健中的範圍涵蓋疾病預測、治療客製化和臨床試驗研究等領域。然而，實施 FL 會帶來挑戰，包括非 IID（獨立且同分布）資料環境中的模型收斂、通訊負載和管理多機構合作。有必要對醫療保健中的 FL 進行系統性回顧，以評估 FL 在維護醫療資料分析的完整性和可用性的同時，如何有效地提供隱私。在這項研究中，我們分析了現有的醫療保健中 FL 應用的文獻。我們探討了模型安全實務的現況、找出普遍的挑戰，並討論實際應用及其影響。此外，此回顧強調了有前途的未來研究方向，以改善 FL 的實作、加強資料安全協定，並將 FL 的用途擴展到更廣泛的醫療保健應用，這將使未來的研究人員和從業人員受益。
-
-##### **Efficient Two-Stage Gaussian Process Regression Via Automatic Kernel Search and Subsampling**
-2405.13785v1 by Shifan Zhao, Jiaying Lu, Ji Yang, Edmond Chow, Yuanzhe Xi
-
-Gaussian Process Regression (GPR) is widely used in statistics and machine
-learning for prediction tasks requiring uncertainty measures. Its efficacy
-depends on the appropriate specification of the mean function, covariance
-kernel function, and associated hyperparameters. Severe misspecifications can
-lead to inaccurate results and problematic consequences, especially in
-safety-critical applications. However, a systematic approach to handle these
-misspecifications is lacking in the literature. In this work, we propose a
-general framework to address these issues. Firstly, we introduce a flexible
-two-stage GPR framework that separates mean prediction and uncertainty
-quantification (UQ) to prevent mean misspecification, which can introduce bias
-into the model. Secondly, kernel function misspecification is addressed through
-a novel automatic kernel search algorithm, supported by theoretical analysis,
-that selects the optimal kernel from a candidate set. Additionally, we propose
-a subsampling-based warm-start strategy for hyperparameter initialization to
-improve efficiency and avoid hyperparameter misspecification. With much lower
-computational cost, our subsampling-based strategy can yield competitive or
-better performance than training exclusively on the full dataset. Combining all
-these components, we recommend two GPR methods-exact and scalable-designed to
-match available computational resources and specific UQ requirements. Extensive
-evaluation on real-world datasets, including UCI benchmarks and a
-safety-critical medical case study, demonstrates the robustness and precision
-of our methods.
-
-摘要：高斯過程回歸 (GPR) 廣泛用於統計和機器學習中的預測任務，需要不確定性度量。其效能取決於平均函數、協方差核函數和相關超參數的適當規格。嚴重的錯誤規格可能會導致不準確的結果和有問題的後果，特別是在安全關鍵應用中。然而，文獻中缺乏系統的方法來處理這些錯誤規格。在這項工作中，我們提出了一個通用框架來解決這些問題。首先，我們引入了一個靈活的兩階段 GPR 框架，它將平均預測和不確定性量化 (UQ) 分開，以防止平均錯誤規格，這可能會將偏差引入模型。其次，通過一種新穎的自動核搜索算法來解決核函數錯誤規格，該算法由理論分析支持，從候選集中選擇最佳核。此外，我們提出了一種基於子抽樣的熱啟動策略，用於超參數初始化，以提高效率並避免超參數錯誤規格。我們的基於子抽樣的策略以低得多的計算成本，可以產生比專門在完整數據集上訓練更具競爭力或更好的性能。結合所有這些組成部分，我們推薦兩種 GPR 方法——精確和可擴展——旨在匹配可用的計算資源和具體的 UQ 需求。在包括 UCI 基準和安全關鍵醫療案例研究在內的真實世界數據集上的廣泛評估證明了我們方法的穩健性和精確性。
-
-##### **KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization in EHR**
-2406.00014v1 by Hajung Kim, Chanhwi Kim, Hoonick Lee, Kyochul Jang, Jiwoo Lee, Kyungjae Lee, Gangwoo Kim, Jaewoo Kang
-
-Transforming natural language questions into SQL queries is crucial for
-precise data retrieval from electronic health record (EHR) databases. A
-significant challenge in this process is detecting and rejecting unanswerable
-questions that request information beyond the database's scope or exceed the
-system's capabilities. In this paper, we introduce a novel text-to-SQL
-framework that robustly handles out-of-domain questions and verifies the
-generated queries with query execution.Our framework begins by standardizing
-the structure of questions into a templated format. We use a powerful large
-language model (LLM), fine-tuned GPT-3.5 with detailed prompts involving the
-table schemas of the EHR database system. Our experimental results demonstrate
-the effectiveness of our framework on the EHRSQL-2024 benchmark benchmark, a
-shared task in the ClinicalNLP workshop. Although a straightforward fine-tuning
-of GPT shows promising results on the development set, it struggled with the
-out-of-domain questions in the test set. With our framework, we improve our
-system's adaptability and achieve competitive performances in the official
-leaderboard of the EHRSQL-2024 challenge.
-
-摘要：將自然語言問題轉換為 SQL 查詢對於從電子健康記錄 (EHR) 資料庫中精確擷取資料至關重要。此過程中的一項重大挑戰是偵測和拒絕超出資料庫範圍或超過系統功能的要求資訊的無法回答問題。在本文中，我們介紹了一個新穎的文字轉 SQL 架構，它可以穩健地處理領域外問題，並透過查詢執行驗證產生的查詢。我們的架構首先將問題的結構標準化為範本格式。我們使用強大的大型語言模型 (LLM)，微調 GPT-3.5，並使用包含 EHR 資料庫系統表格結構的詳細提示。我們的實驗結果證明了我們的架構在 EHRSQL-2024 基準基準上的有效性，這是 ClinicalNLP 研討會中的一項共同任務。雖然 GPT 的直接微調在開發集合中顯示出有希望的結果，但它在測試集合中的領域外問題中遇到了困難。透過我們的架構，我們改進了系統的適應性，並在 EHRSQL-2024 挑戰的官方排行榜中取得了競爭力的表現。
-
-##### **How Reliable AI Chatbots are for Disease Prediction from Patient Complaints?**
-2405.13219v1 by Ayesha Siddika Nipu, K M Sajjadul Islam, Praveen Madiraju
-
-Artificial Intelligence (AI) chatbots leveraging Large Language Models (LLMs)
-are gaining traction in healthcare for their potential to automate patient
-interactions and aid clinical decision-making. This study examines the
-reliability of AI chatbots, specifically GPT 4.0, Claude 3 Opus, and Gemini
-Ultra 1.0, in predicting diseases from patient complaints in the emergency
-department. The methodology includes few-shot learning techniques to evaluate
-the chatbots' effectiveness in disease prediction. We also fine-tune the
-transformer-based model BERT and compare its performance with the AI chatbots.
-Results suggest that GPT 4.0 achieves high accuracy with increased few-shot
-data, while Gemini Ultra 1.0 performs well with fewer examples, and Claude 3
-Opus maintains consistent performance. BERT's performance, however, is lower
-than all the chatbots, indicating limitations due to limited labeled data.
-Despite the chatbots' varying accuracy, none of them are sufficiently reliable
-for critical medical decision-making, underscoring the need for rigorous
-validation and human oversight. This study reflects that while AI chatbots have
-potential in healthcare, they should complement, not replace, human expertise
-to ensure patient safety. Further refinement and research are needed to improve
-AI-based healthcare applications' reliability for disease prediction.
-
-摘要：人工智慧（AI）聊天機器人利用大型語言模型（LLM），在醫療保健領域中獲得關注，因為它們具有自動化患者互動和協助臨床決策的潛力。本研究探討了 AI 聊天機器人的可靠性，特別是 GPT 4.0、Claude 3 Opus 和 Gemini Ultra 1.0，在預測急診部門患者症狀的疾病方面。方法包括少量學習技術，以評估聊天機器人在疾病預測中的有效性。我們還微調了基於轉換器的模型 BERT，並將其效能與 AI 聊天機器人進行比較。結果表明，GPT 4.0 在少量數據增加的情況下實現了高準確度，而 Gemini Ultra 1.0 在較少的範例中表現良好，Claude 3 Opus 則維持了一致的效能。然而，BERT 的效能低於所有聊天機器人，這表明由於標記數據有限而存在限制。儘管聊天機器人的準確度不同，但它們都不足以用於重要的醫療決策，這強調了嚴格驗證和人類監督的必要性。本研究表明，儘管 AI 聊天機器人在醫療保健方面具有潛力，但它們應補充而不是取代人類專業知識，以確保患者安全。需要進一步的改進和研究，以提高基於 AI 的醫療保健應用在疾病預測方面的可靠性。
-
-##### **Interpretable Spatio-Temporal Embedding for Brain Structural-Effective Network with Ordinary Differential Equation**
-2405.13190v1 by Haoteng Tang, Guodong Liu, Siyuan Dai, Kai Ye, Kun Zhao, Wenlu Wang, Carl Yang, Lifang He, Alex Leow, Paul Thompson, Heng Huang, Liang Zhan
-
-The MRI-derived brain network serves as a pivotal instrument in elucidating
-both the structural and functional aspects of the brain, encompassing the
-ramifications of diseases and developmental processes. However, prevailing
-methodologies, often focusing on synchronous BOLD signals from functional MRI
-(fMRI), may not capture directional influences among brain regions and rarely
-tackle temporal functional dynamics. In this study, we first construct the
-brain-effective network via the dynamic causal model. Subsequently, we
-introduce an interpretable graph learning framework termed Spatio-Temporal
-Embedding ODE (STE-ODE). This framework incorporates specifically designed
-directed node embedding layers, aiming at capturing the dynamic interplay
-between structural and effective networks via an ordinary differential equation
-(ODE) model, which characterizes spatial-temporal brain dynamics. Our framework
-is validated on several clinical phenotype prediction tasks using two
-independent publicly available datasets (HCP and OASIS). The experimental
-results clearly demonstrate the advantages of our model compared to several
-state-of-the-art methods.
-
-摘要：以 MRI 衍生的腦網路作為樞紐工具，闡明大腦的結構和功能面向，包含疾病和發展過程的影響。然而，現行的研究方法通常專注於功能性 MRI (fMRI) 的同步 BOLD 訊號，可能無法捕捉腦區之間的方向性影響，也很少處理時間功能動態。在本研究中，我們首先透過動態因果模型建構腦部有效網路。接著，我們引入稱為時空嵌入 ODE (STE-ODE) 的可解釋圖形學習架構。此架構結合專門設計的有向節點嵌入層，旨在透過常微分方程 (ODE) 模型捕捉結構和有效網路之間的動態交互作用，描述時空腦部動態。我們的架構在兩個獨立公開資料集 (HCP 和 OASIS) 上經過多項臨床表型預測任務驗證。實驗結果清楚顯示，與多種最先進方法相比，我們的模型具有優勢。
 

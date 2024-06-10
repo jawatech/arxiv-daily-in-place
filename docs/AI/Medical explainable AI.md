@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
@@ -101,9 +102,33 @@
 |**2022-11-02**|**Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**|Senthil Kumar Jagatheesaperumal et.al.|[2211.01036v2](http://arxiv.org/abs/2211.01036v2)|null|
 |**2022-10-24**|**Human-centered XAI for Burn Depth Characterization**|Maxwell J. Jacobson et.al.|[2210.13535v2](http://arxiv.org/abs/2210.13535v2)|null|
 |**2022-10-07**|**What Do End-Users Really Want? Investigation of Human-Centered XAI for Mobile Health Apps**|Katharina Weitz et.al.|[2210.03506v1](http://arxiv.org/abs/2210.03506v1)|null|
-|**2022-10-07**|**Explainable AI based Glaucoma Detection using Transfer Learning and LIME**|Touhidul Islam Chayan et.al.|[2210.03332v1](http://arxiv.org/abs/2210.03332v1)|null|
 
 #### Abstracts
+##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
+2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
+
+The self-attention mechanism has been adopted in several widely-used
+message-passing neural networks (MPNNs) (e.g., GATs), which adaptively controls
+the amount of information that flows along the edges of the underlying graph.
+This usage of attention has made such models a baseline for studies on
+explainable AI (XAI) since interpretations via attention have been popularized
+in various domains (e.g., natural language processing and computer vision).
+However, existing studies often use naive calculations to derive attribution
+scores from attention, and do not take the precise and careful calculation of
+edge attribution into consideration. In our study, we aim to fill the gap
+between the widespread usage of attention-enabled MPNNs and their potential in
+largely under-explored explainability, a topic that has been actively
+investigated in other areas. To this end, as the first attempt, we formalize
+the problem of edge attribution from attention weights in GNNs. Then, we
+propose GATT, an edge attribution calculation method built upon the computation
+tree. Through comprehensive experiments, we demonstrate the effectiveness of
+our proposed method when evaluating attributions from GATs. Conversely, we
+empirically validate that simply averaging attention weights over graph
+attention layers is insufficient to interpret the GAT model's behavior. Code is
+publicly available at https://github.com/jordan7186/GAtt/tree/main.
+
+摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
+
 ##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
 2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik
 
@@ -2530,28 +2555,4 @@ power-, casual-, and privacy-oriented users. Our insights bring an interactive,
 human-centered XAI closer to practical application.
 
 摘要：在醫療保健領域，AI 系統支援臨床醫生和患者進行診斷、治療和監控，但許多系統的解釋性不足，對實際應用仍構成挑戰。克服此障礙是可解釋 AI (XAI) 的目標。然而，每個人對於解釋的理解可能不同，因此無法為所有人解決黑箱問題。以人為中心的 AI 領域透過調整 AI 以適應使用者來處理此問題。我們提出以使用者為中心的角色概念來評估 XAI，並使用它來調查行動健康壓力監控應用程式中，終端使用者對於各種解釋風格和內容的偏好。我們的線上調查結果顯示，使用者的個人資料和人格特質，以及解釋類型，會影響解釋偏好，這表示這些是 XAI 設計的基本特徵。我們將結果歸納為三種原型使用者角色：重視權力、休閒和隱私的使用者。我們的見解讓互動式、以人為中心的 XAI 更接近實際應用。
-
-##### **Explainable AI based Glaucoma Detection using Transfer Learning and LIME**
-2210.03332v1 by Touhidul Islam Chayan, Anita Islam, Eftykhar Rahman, Md. Tanzim Reza, Tasnim Sakib Apon, MD. Golam Rabiul Alam
-
-Glaucoma is the second driving reason for partial or complete blindness among
-all the visual deficiencies which mainly occurs because of excessive pressure
-in the eye due to anxiety or depression which damages the optic nerve and
-creates complications in vision. Traditional glaucoma screening is a
-time-consuming process that necessitates the medical professionals' constant
-attention, and even so time to time due to the time constrains and pressure
-they fail to classify correctly that leads to wrong treatment. Numerous efforts
-have been made to automate the entire glaucoma classification procedure
-however, these existing models in general have a black box characteristics that
-prevents users from understanding the key reasons behind the prediction and
-thus medical practitioners generally can not rely on these system. In this
-article after comparing with various pre-trained models, we propose a transfer
-learning model that is able to classify Glaucoma with 94.71\% accuracy. In
-addition, we have utilized Local Interpretable Model-Agnostic
-Explanations(LIME) that introduces explainability in our system. This
-improvement enables medical professionals obtain important and comprehensive
-information that aid them in making judgments. It also lessen the opacity and
-fragility of the traditional deep learning models.
-
-摘要：青光眼是所有視力缺陷中導致部分或完全失明的第二大原因，主要是由於焦慮或憂鬱症導致眼睛壓力過大，損害視神經並造成視力併發症。傳統的青光眼篩檢是一個耗時的過程，需要醫療專業人員持續關注，即使如此，由於時間限制和壓力，他們有時無法正確分類，導致治療錯誤。已經做出許多努力來自動化整個青光眼分類程序，然而，這些現有模型通常具有黑盒特徵，使用戶無法理解預測背後的主要原因，因此醫療從業人員通常無法依賴這些系統。在本文中，在與各種預訓練模型比較後，我們提出了一個轉移學習模型，能夠以 94.71% 的準確率對青光眼進行分類。此外，我們利用了局部可解釋模型不可知解釋（LIME），在我們的系統中引入了可解釋性。這項改進使醫療專業人員能夠獲得重要且全面的資訊，幫助他們做出判斷。它也降低了傳統深度學習模型的不透明性和脆弱性。
 

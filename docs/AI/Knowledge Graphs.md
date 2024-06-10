@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|null|
+|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
+|**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
+|**2024-06-07**|**OCDB: Revisiting Causal Discovery with a Comprehensive Benchmark and Evaluation Framework**|Wei Zhou et.al.|[2406.04598v1](http://arxiv.org/abs/2406.04598v1)|null|
 |**2024-06-06**|**ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions**|Sreyan Ghosh et.al.|[2406.04286v1](http://arxiv.org/abs/2406.04286v1)|[link](https://github.com/sreyan88/abex)|
 |**2024-06-06**|**Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models**|Ling Yang et.al.|[2406.04271v1](http://arxiv.org/abs/2406.04271v1)|[link](https://github.com/yangling0818/buffer-of-thought-llm)|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
@@ -84,6 +88,7 @@
 |**2024-05-14**|**Could Chemical LLMs benefit from Message Passing**|Jiaqing Xie et.al.|[2405.08334v1](http://arxiv.org/abs/2405.08334v1)|null|
 |**2024-05-13**|**AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models**|Shuo Liu et.al.|[2405.07626v1](http://arxiv.org/abs/2405.07626v1)|[link](https://github.com/anomalyllm/anomalyllm)|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
+|**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373v2](http://arxiv.org/abs/2405.07373v2)|null|
 |**2024-05-10**|**LLM-Generated Black-box Explanations Can Be Adversarially Helpful**|Rohan Ajwani et.al.|[2405.06800v2](http://arxiv.org/abs/2405.06800v2)|[link](https://github.com/ziningzhu/adversarial_helpfulness)|
 |**2024-05-10**|**A Survey of Large Language Models for Graphs**|Xubin Ren et.al.|[2405.08011v1](http://arxiv.org/abs/2405.08011v1)|[link](https://github.com/hkuds/awesome-llm4graph-papers)|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|[link](https://github.com/evanup/vna_benchmark)|
@@ -97,13 +102,104 @@
 |**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756v1](http://arxiv.org/abs/2405.04756v1)|[link](https://github.com/VectorInstitute/biaskg)|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753v1](http://arxiv.org/abs/2405.04753v1)|null|
 |**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136v1](http://arxiv.org/abs/2405.04136v1)|[link](https://github.com/foerstner-lab/nslp2024-forc)|
-|**2024-05-06**|**FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**|Silan Hu et.al.|[2405.03734v1](http://arxiv.org/abs/2405.03734v1)|null|
-|**2024-05-05**|**E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods**|Şükrü Öztürk et.al.|[2405.02984v1](http://arxiv.org/abs/2405.02984v1)|null|
-|**2024-05-04**|**Relations Prediction for Knowledge Graph Completion using Large Language Models**|Sakher Khalil Alqaaidi et.al.|[2405.02738v1](http://arxiv.org/abs/2405.02738v1)|null|
-|**2024-05-04**|**IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data**|Sami Azirar et.al.|[2405.15792v1](http://arxiv.org/abs/2405.15792v1)|null|
-|**2024-05-04**|**R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models**|Taolin Zhang et.al.|[2405.02659v1](http://arxiv.org/abs/2405.02659v1)|null|
 
 #### Abstracts
+##### **Compositional Generalization with Grounded Language Models**
+2406.04989v1 by Sondre Wold, Étienne Simon, Lucas Georges Gabriel Charpentier, Egor V. Kostylev, Erik Velldal, Lilja Øvrelid
+
+Grounded language models use external sources of information, such as
+knowledge graphs, to meet some of the general challenges associated with
+pre-training. By extending previous work on compositional generalization in
+semantic parsing, we allow for a controlled evaluation of the degree to which
+these models learn and generalize from patterns in knowledge graphs. We develop
+a procedure for generating natural language questions paired with knowledge
+graphs that targets different aspects of compositionality and further avoids
+grounding the language models in information already encoded implicitly in
+their weights. We evaluate existing methods for combining language models with
+knowledge graphs and find them to struggle with generalization to sequences of
+unseen lengths and to novel combinations of seen base components. While our
+experimental results provide some insight into the expressive power of these
+models, we hope our work and released datasets motivate future research on how
+to better combine language models with structured knowledge representations.
+
+摘要：接地語言模型使用外部資訊來源，例如知識圖譜，以因應與預訓練相關的一些一般挑戰。藉由擴展語意剖析中組合概括的先前工作，我們允許對這些模型從知識圖譜中的模式學習和概括的程度進行受控評估。我們開發了一個程序，用於產生與知識圖譜配對的自然語言問題，針對組合性的不同面向，並進一步避免將語言模型接地到其權重中已隱含編碼的資訊。我們評估了將語言模型與知識圖譜結合的現有方法，發現它們難以概括到長度未見的序列和已見基礎組件的新組合。雖然我們的實驗結果提供了一些見解，說明了這些模型的表達能力，但我們希望我們的工作和發布的資料集能激勵未來研究如何將語言模型與結構化知識表徵更好地結合。
+
+##### **CRAG -- Comprehensive RAG Benchmark**
+2406.04744v1 by Xiao Yang, Kai Sun, Hao Xin, Yushi Sun, Nikita Bhalla, Xiangsen Chen, Sajal Choudhary, Rongze Daniel Gui, Ziran Will Jiang, Ziyu Jiang, Lingkun Kong, Brian Moran, Jiaqi Wang, Yifan Ethan Xu, An Yan, Chenyu Yang, Eting Yuan, Hanwen Zha, Nan Tang, Lei Chen, Nicolas Scheffer, Yue Liu, Nirav Shah, Rakesh Wanga, Anuj Kumar, Wen-tau Yih, Xin Luna Dong
+
+Retrieval-Augmented Generation (RAG) has recently emerged as a promising
+solution to alleviate Large Language Model (LLM)'s deficiency in lack of
+knowledge. Existing RAG datasets, however, do not adequately represent the
+diverse and dynamic nature of real-world Question Answering (QA) tasks. To
+bridge this gap, we introduce the Comprehensive RAG Benchmark (CRAG), a factual
+question answering benchmark of 4,409 question-answer pairs and mock APIs to
+simulate web and Knowledge Graph (KG) search. CRAG is designed to encapsulate a
+diverse array of questions across five domains and eight question categories,
+reflecting varied entity popularity from popular to long-tail, and temporal
+dynamisms ranging from years to seconds. Our evaluation on this benchmark
+highlights the gap to fully trustworthy QA. Whereas most advanced LLMs achieve
+<=34% accuracy on CRAG, adding RAG in a straightforward manner improves the
+accuracy only to 44%. State-of-the-art industry RAG solutions only answer 63%
+questions without any hallucination. CRAG also reveals much lower accuracy in
+answering questions regarding facts with higher dynamism, lower popularity, or
+higher complexity, suggesting future research directions. The CRAG benchmark
+laid the groundwork for a KDD Cup 2024 challenge, attracting thousands of
+participants and submissions within the first 50 days of the competition. We
+commit to maintaining CRAG to serve research communities in advancing RAG
+solutions and general QA solutions.
+
+摘要：檢索增強生成 (RAG) 最近作為一種有前途的解決方案出現，以緩解大型語言模型 (LLM) 在知識缺乏方面的缺陷。然而，現有的 RAG 資料集並不能充分代表現實世界問答 (QA) 任務的多樣性和動態性。為了彌補這一差距，我們引入了綜合 RAG 基準 (CRAG)，這是一個由 4,409 個問答對和模擬網路和知識圖譜 (KG) 搜尋的模擬 API 組成的基於事實的問答基準。CRAG 被設計成囊括跨越五個領域和八個問題類別的各種問題，反映了從流行到長尾的各種實體流行度，以及從年到秒的時間動態。我們對此基準的評估突出了完全值得信賴的 QA 的差距。儘管大多數先進的 LLM 在 CRAG 上的準確率低於等於 34%，但以一種直接的方式添加 RAG 僅將準確率提高到 44%。最先進的產業 RAG 解決方案僅回答 63% 的問題，且沒有任何幻覺。CRAG 還顯示在回答具有更高動態性、較低流行度或更高複雜性的事實相關問題時準確率要低得多，這表明了未來的研究方向。CRAG 基準為 2024 年 KDD 杯挑戰賽奠定了基礎，在比賽開始後的前 50 天內吸引了數千名參與者和提交。我們承諾維護 CRAG，以服務於研究社群，推進 RAG 解決方案和一般 QA 解決方案。
+
+##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
+2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
+
+The self-attention mechanism has been adopted in several widely-used
+message-passing neural networks (MPNNs) (e.g., GATs), which adaptively controls
+the amount of information that flows along the edges of the underlying graph.
+This usage of attention has made such models a baseline for studies on
+explainable AI (XAI) since interpretations via attention have been popularized
+in various domains (e.g., natural language processing and computer vision).
+However, existing studies often use naive calculations to derive attribution
+scores from attention, and do not take the precise and careful calculation of
+edge attribution into consideration. In our study, we aim to fill the gap
+between the widespread usage of attention-enabled MPNNs and their potential in
+largely under-explored explainability, a topic that has been actively
+investigated in other areas. To this end, as the first attempt, we formalize
+the problem of edge attribution from attention weights in GNNs. Then, we
+propose GATT, an edge attribution calculation method built upon the computation
+tree. Through comprehensive experiments, we demonstrate the effectiveness of
+our proposed method when evaluating attributions from GATs. Conversely, we
+empirically validate that simply averaging attention weights over graph
+attention layers is insufficient to interpret the GAT model's behavior. Code is
+publicly available at https://github.com/jordan7186/GAtt/tree/main.
+
+摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
+
+##### **OCDB: Revisiting Causal Discovery with a Comprehensive Benchmark and Evaluation Framework**
+2406.04598v1 by Wei Zhou, Hong Huang, Guowen Zhang, Ruize Shi, Kehan Yin, Yuanyuan Lin, Bang Liu
+
+Large language models (LLMs) have excelled in various natural language
+processing tasks, but challenges in interpretability and trustworthiness
+persist, limiting their use in high-stakes fields. Causal discovery offers a
+promising approach to improve transparency and reliability. However, current
+evaluations are often one-sided and lack assessments focused on
+interpretability performance. Additionally, these evaluations rely on synthetic
+data and lack comprehensive assessments of real-world datasets. These lead to
+promising methods potentially being overlooked. To address these issues, we
+propose a flexible evaluation framework with metrics for evaluating differences
+in causal structures and causal effects, which are crucial attributes that help
+improve the interpretability of LLMs. We introduce the Open Causal Discovery
+Benchmark (OCDB), based on real data, to promote fair comparisons and drive
+optimization of algorithms. Additionally, our new metrics account for
+undirected edges, enabling fair comparisons between Directed Acyclic Graphs
+(DAGs) and Completed Partially Directed Acyclic Graphs (CPDAGs). Experimental
+results show significant shortcomings in existing algorithms' generalization
+capabilities on real data, highlighting the potential for performance
+improvement and the importance of our framework in advancing causal discovery
+techniques.
+
+摘要：大型語言模型 (LLM) 在各種自然語言處理任務中表現出色，但可解釋性和可信度方面的挑戰仍然存在，限制了它們在高風險領域中的使用。因果發現提供了一種有前景的方法來提高透明度和可靠性。然而，目前的評估通常是一方面的，缺乏針對可解釋性表現的評估。此外，這些評估依賴於合成數據，並且缺乏對現實世界數據集的全面評估。這導致有前景的方法可能被忽視。為了解決這些問題，我們提出了一個靈活的評估框架，其中包含用於評估因果結構和因果效應差異的指標，這些都是有助於提高 LLM 可解釋性的關鍵屬性。我們基於真實數據引入了開放因果發現基準 (OCDB)，以促進公平的比較並推動算法的優化。此外，我們的新指標考慮了無向邊，從而可以在有向無環圖 (DAG) 和已完成的部分有向無環圖 (CPDAG) 之間進行公平的比較。實驗結果表明，現有算法在真實數據上的泛化能力存在顯著缺陷，突出了性能改進的潛力以及我們框架在推進因果發現技術中的重要性。
+
 ##### **ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions**
 2406.04286v1 by Sreyan Ghosh, Utkarsh Tyagi, Sonal Kumar, C. K. Evuru, S Ramaneswaran, S Sakshi, Dinesh Manocha
 
@@ -2136,6 +2232,38 @@ over a wide range of state-of-the-art baseline methods.
 
 摘要：去年，大型語言模型 (LLM) 因其在推薦系統中的潛在應用而備受關注，這可能會緩解數據稀疏性的持續問題。儘管已為用戶項目圖增強做出巨大努力，以提高基於圖形的推薦性能，但它們可能無法處理動態圖形推薦任務，其中涉及結構和時間圖形動態，在處理時間演化數據時具有固有的複雜性。為了彌合這一差距，在本文中，我們提出了一個名為 DynLLM 的新框架，以使用 LLM 處理動態圖形推薦任務。具體來說，DynLLM 利用 LLM 的能力，根據歷史購買記錄的豐富文本特徵生成多方面的用戶資料，包括人群區塊、個人興趣、首選類別和喜愛的品牌，進而補充和豐富用戶和項目之間的底層關係。順著這條思路，為了將多方面的資料與時間圖形嵌入融合，我們使用 LLM 得出相應的資料嵌入，並進一步採用精煉的注意力機制來精煉 LLM 生成的資料嵌入，以減輕雜訊信號，同時評估和調整每個精煉的方面嵌入與來自連續時間動態圖形 (CTDG) 的時間圖形嵌入的無縫整合。在兩個真實電子商務數據集上進行的廣泛實驗驗證了 DynLLM 對廣泛的最新基線方法的優越改進。
 
+##### **Probabilistic and Causal Satisfiability: the Impact of Marginalization**
+2405.07373v2 by Julian Dörfler, Benito van der Zander, Markus Bläser, Maciej Liskiewicz
+
+The framework of Pearl's Causal Hierarchy (PCH) formalizes three types of
+reasoning: observational, interventional, and counterfactual, that reflect the
+progressive sophistication of human thought regarding causation. We investigate
+the computational complexity aspects of reasoning in this framework focusing
+mainly on satisfiability problems expressed in probabilistic and causal
+languages across the PCH. That is, given a system of formulas in the standard
+probabilistic and causal languages, does there exist a model satisfying the
+formulas? The resulting complexity changes depending on the level of the
+hierarchy as well as the operators allowed in the formulas (addition,
+multiplication, or marginalization). We focus on formulas involving
+marginalization that are widely used in probabilistic and causal inference, but
+whose complexity issues are still little explored. Our main contribution are
+the exact computational complexity results showing that linear languages
+(allowing addition and marginalization) yield NP^PP-, PSPACE-, and
+NEXP-complete satisfiability problems, depending on the level of the PCH.
+Moreover, we prove that the problem for the full language (allowing
+additionally multiplication) is complete for the class succ$\exists$R for
+languages on the highest, counterfactual level, which extends previous results
+for the lower levels of the PCH. Finally, we consider constrained models that
+are restricted to a given Bayesian network, a Directed Acyclic Graph structure,
+or a small polynomial size. The complexity of languages on the interventional
+level is increased to the complexity of counterfactual languages without such a
+constraint, that is, linear languages become NEXP-complete. On the other hand,
+the complexity on the counterfactual level does not change. The constraint on
+the size reduces the complexity of the interventional and counterfactual
+languages to NEXP-complete.
+
+摘要：珍珠因果階層 (PCH) 框架形式化了三種類型的推理：觀察、干預和反事實，它們反映了人類對因果關係思考的逐漸成熟。我們研究了在這個框架中推理的計算複雜性方面，主要關注在 PCH 中以機率和因果語言表達的可滿足性問題。也就是說，給定標準機率和因果語言中的公式系統，是否存在滿足公式的模型？產生的複雜性會根據階層的層級以及公式中允許的運算子（加法、乘法或邊際化）而改變。我們專注於涉及機率和因果推論中廣泛使用的邊際化的公式，但其複雜性問題仍鮮為人知。我們的重點貢獻是精確的計算複雜性結果，顯示線性語言（允許加法和邊際化）會產生 NP^PP-、PSPACE- 和 NEXP- 完全可滿足性問題，具體取決於 PCH 的層級。此外，我們證明了完整語言（另外允許乘法）的問題對於最高層的反事實語言類別 succ$\exists$R 是完全的，這延伸了 PCH 較低層級的先前結果。最後，我們考慮受限於給定貝氏網路、有向無環圖結構或小多項式大小的受限模型。在沒有此類約束的情況下，干預層級語言的複雜性會增加到反事實語言的複雜性，也就是說，線性語言會變成 NEXP- 完全。另一方面，反事實層級的複雜性不會改變。對大小的約束會將干預和反事實語言的複雜性降低到 NEXP- 完全。
+
 ##### **LLM-Generated Black-box Explanations Can Be Adversarially Helpful**
 2405.06800v2 by Rohan Ajwani, Shashidhar Reddy Javaji, Frank Rudzicz, Zining Zhu
 
@@ -2466,122 +2594,4 @@ process, thereby facilitating researchers in efficiently locating relevant
 resources.
 
 摘要：<paragraph>隨著學術文獻的快速擴展和預印本的激增，研究人員在手動組織和標記大量文章時面臨著越來越大的挑戰。NSLP 2024 FoRC 共享任務一以競賽的形式解決了這一挑戰。目標是開發一個分類器，能夠從給定文章的研究領域的開放研究知識圖譜 (ORKG) 分類法中預測 123 個預定義類別之一。本文展示了我們的成果。最初，我們豐富了數據集（包含來自 ORKG 和 arXiv 的英文學術文章），然後利用不同的預訓練語言模型 (PLM)，特別是 BERT，並探索它們在用於此下游任務的遷移學習中的功效。我們的實驗包括使用針對科學任務進行優化的各種 PLM 的基於特徵和微調的遷移學習方法，包括 SciBERT、SciNCL 和 SPECTER2。我們進行超參數調整，並研究來自 OpenAlex、Semantic Scholar 和 Crossref 等書目數據庫的數據增強的影響。我們的結果表明，微調預訓練模型可以顯著提高分類性能，而 SPECTER2 成為最準確的模型。此外，使用額外的元數據豐富數據集可以顯著改善分類結果，特別是在整合來自 S2AG、OpenAlex 和 Crossref 的信息時。我們性能最好的方法實現了 0.7415 的加權 F1 分數。總的來說，我們的研究有助於推進用於學術出版物分類的可靠自動化系統，為繁瑣的手動策展過程提供了一個潛在的解決方案，從而幫助研究人員有效地找到相關資源。</paragraph>
-
-##### **FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**
-2405.03734v1 by Silan Hu, Xiaoning Wang
-
-Integrating large language models (LLMs) and knowledge graphs (KGs) holds
-great promise for revolutionizing intelligent education, but challenges remain
-in achieving personalization, interactivity, and explainability. We propose
-FOKE, a Forest Of Knowledge and Education framework that synergizes foundation
-models, knowledge graphs, and prompt engineering to address these challenges.
-FOKE introduces three key innovations: (1) a hierarchical knowledge forest for
-structured domain knowledge representation; (2) a multi-dimensional user
-profiling mechanism for comprehensive learner modeling; and (3) an interactive
-prompt engineering scheme for generating precise and tailored learning
-guidance.
-  We showcase FOKE's application in programming education, homework assessment,
-and learning path planning, demonstrating its effectiveness and practicality.
-Additionally, we implement Scholar Hero, a real-world instantiation of FOKE.
-Our research highlights the potential of integrating foundation models,
-knowledge graphs, and prompt engineering to revolutionize intelligent education
-practices, ultimately benefiting learners worldwide. FOKE provides a principled
-and unified approach to harnessing cutting-edge AI technologies for
-personalized, interactive, and explainable educational services, paving the way
-for further research and development in this critical direction.
-
-摘要：整合大型語言模型 (LLM) 和知識圖譜 (KG) 對於革新智慧教育具有極大的前景，但在實現個人化、互動性和可解釋性方面仍存在挑戰。我們提出 FOKE，一個知識和教育森林架構，它協同了基礎模型、知識圖譜和提示工程，以應對這些挑戰。FOKE 引入了三項關鍵創新：(1) 一個用於結構化領域知識表示的分層知識森林；(2) 一個用於全面學習者建模的多維用戶分析機制；(3) 一個用於產生精確且量身定制的學習指導的互動式提示工程方案。我們展示了 FOKE 在程式教育、作業評量和學習路徑規劃中的應用，證明了它的有效性和實用性。此外，我們實作了 Scholar Hero，一個 FOKE 的真實世界實例。我們的研究強調了整合基礎模型、知識圖譜和提示工程以革新智慧教育實務的潛力，最終使全球學習者受益。FOKE 提供了一種基於原則且統一的方法，用於利用尖端的 AI 技術提供個人化、互動且可解釋的教育服務，為這個關鍵領域的進一步研究和發展鋪平了道路。
-
-##### **E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods**
-2405.02984v1 by Şükrü Öztürk, Hacer Yalim Keles
-
-This study introduces the continuous Educational Turkish Sign Language
-(E-TSL) dataset, collected from online Turkish language lessons for 5th, 6th,
-and 8th grades. The dataset comprises 1,410 videos totaling nearly 24 hours and
-includes performances from 11 signers. Turkish, an agglutinative language,
-poses unique challenges for sign language translation, particularly with a
-vocabulary where 64% are singleton words and 85% are rare words, appearing less
-than five times. We developed two baseline models to address these challenges:
-the Pose to Text Transformer (P2T-T) and the Graph Neural Network based
-Transformer (GNN-T) models. The GNN-T model achieved 19.13% BLEU-1 score and
-3.28% BLEU-4 score, presenting a significant challenge compared to existing
-benchmarks. The P2T-T model, while demonstrating slightly lower performance in
-BLEU scores, achieved a higher ROUGE-L score of 22.09%. Additionally, we
-benchmarked our model using the well-known PHOENIX-Weather 2014T dataset to
-validate our approach.
-
-摘要：本研究介紹連續教育土耳其手語 (E-TSL) 資料集，此資料集是從線上土耳其語課程中收集而來，對象為 5、6、8 年級。該資料集包含 1,410 部影片，總長近 24 小時，並包含 11 位手語翻譯員的表演。土耳其語是一種黏著語，對手語翻譯構成獨特挑戰，特別是其詞彙中有 64% 是單身詞，而 85% 是罕見詞彙，出現次數不到五次。我們開發了兩個基線模型來應對這些挑戰：姿勢轉文字轉換器 (P2T-T) 和基於圖形神經網路的轉換器 (GNN-T) 模型。GNN-T 模型獲得 19.13% 的 BLEU-1 分數和 3.28% 的 BLEU-4 分數，與現有基準相比，是一個重大的挑戰。P2T-T 模型雖然在 BLEU 分數上的表現稍低，但獲得了更高的 ROUGE-L 分數，為 22.09%。此外，我們使用著名的 PHOENIX-Weather 2014T 資料集對我們的模型進行基準測試，以驗證我們的做法。
-
-##### **Relations Prediction for Knowledge Graph Completion using Large Language Models**
-2405.02738v1 by Sakher Khalil Alqaaidi, Krzysztof Kochut
-
-Knowledge Graphs have been widely used to represent facts in a structured
-format. Due to their large scale applications, knowledge graphs suffer from
-being incomplete. The relation prediction task obtains knowledge graph
-completion by assigning one or more possible relations to each pair of nodes.
-In this work, we make use of the knowledge graph node names to fine-tune a
-large language model for the relation prediction task. By utilizing the node
-names only we enable our model to operate sufficiently in the inductive
-settings. Our experiments show that we accomplish new scores on a widely used
-knowledge graph benchmark.
-
-摘要：知識圖譜已被廣泛用於以結構化格式表示事實。由於其大規模應用，知識圖譜存在不完整的問題。關係預測任務通過為每對節點分配一個或多個可能的關係來獲得知識圖譜的完成。在這項工作中，我們利用知識圖譜節點名稱來微調關係預測任務的大語言模型。僅通過使用節點名稱，我們就能讓模型在歸納設置中充分運作。我們的實驗表明，我們在廣泛使用的知識圖譜基準測試中獲得了新的分數。
-
-##### **IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data**
-2405.15792v1 by Sami Azirar, Hossam A. Gabbar, Chaouki Regoui
-
-As the amount and complexity of data grows, retrieving it has become a more
-difficult task that requires greater knowledge and resources. This is
-especially true for the logistics industry, where new technologies for data
-collection provide tremendous amounts of interconnected real-time data. The
-Intelligent Query and Learning System (IQLS) simplifies the process by allowing
-natural language use to simplify data retrieval . It maps structured data into
-a framework based on the available metadata and available data models. This
-framework creates an environment for an agent powered by a Large Language
-Model. The agent utilizes the hierarchical nature of the data to filter
-iteratively by making multiple small context-aware decisions instead of
-one-shot data retrieval. After the Data filtering, the IQLS enables the agent
-to fulfill tasks given by the user query through interfaces. These interfaces
-range from multimodal transportation information retrieval to route planning
-under multiple constraints. The latter lets the agent define a dynamic object,
-which is determined based on the query parameters. This object represents a
-driver capable of navigating a road network. The road network is depicted as a
-graph with attributes based on the data. Using a modified version of the
-Dijkstra algorithm, the optimal route under the given constraints can be
-determined. Throughout the entire process, the user maintains the ability to
-interact and guide the system. The IQLS is showcased in a case study on the
-Canadian logistics sector, allowing geospatial, visual, tabular and text data
-to be easily queried semantically in natural language.
-
-摘要：随着数据量和复杂性不断增加，检索数据已成为一项更困难的任务，需要更多的知识和资源。对于物流行业来说尤其如此，该行业用于数据收集的新技术提供了大量相互关联的实时数据。智能查询和学习系统 (IQLS) 通过允许使用自然语言来简化数据检索，从而简化了这一过程。它将结构化数据映射到基于可用元数据和可用数据模型的框架中。此框架为由大型语言模型提供支持的代理创建了一个环境。该代理利用数据的层次结构通过多次进行小的上下文感知决策而不是一次性数据检索来进行迭代过滤。在数据过滤之后，IQLS 使代理能够通过界面完成用户查询给定的任务。这些界面范围从多模式交通信息检索到在多重约束下的路线规划。后者让代理能够定义一个动态对象，该对象根据查询参数确定。此对象表示能够在道路网络中导航的驾驶员。道路网络被描述为具有基于数据的属性的图表。使用 Dijkstra 算法的修改版本，可以在给定约束下确定最佳路线。在整个过程中，用户始终能够与系统交互并指导系统。IQLS 在加拿大物流部门的案例研究中得到展示，允许在地理空间、视觉、表格和文本数据中使用自然语言轻松地进行语义查询。
-
-##### **R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models**
-2405.02659v1 by Taolin Zhang, Dongyang Li, Qizhou Chen, Chengyu Wang, Longtao Huang, Hui Xue, Xiaofeng He, Jun Huang
-
-Retrieval-augmented large language models (LLMs) leverage relevant content
-retrieved by information retrieval systems to generate correct responses,
-aiming to alleviate the hallucination problem. However, existing
-retriever-responder methods typically append relevant documents to the prompt
-of LLMs to perform text generation tasks without considering the interaction of
-fine-grained structural semantics between the retrieved documents and the LLMs.
-This issue is particularly important for accurate response generation as LLMs
-tend to ``lose in the middle'' when dealing with input prompts augmented with
-lengthy documents. In this work, we propose a new pipeline named ``Reinforced
-Retriever-Reorder-Responder'' (R$^4$) to learn document orderings for
-retrieval-augmented LLMs, thereby further enhancing their generation abilities
-while the large numbers of parameters of LLMs remain frozen. The reordering
-learning process is divided into two steps according to the quality of the
-generated responses: document order adjustment and document representation
-enhancement. Specifically, document order adjustment aims to organize retrieved
-document orderings into beginning, middle, and end positions based on graph
-attention learning, which maximizes the reinforced reward of response quality.
-Document representation enhancement further refines the representations of
-retrieved documents for responses of poor quality via document-level gradient
-adversarial learning. Extensive experiments demonstrate that our proposed
-pipeline achieves better factual question-answering performance on
-knowledge-intensive tasks compared to strong baselines across various public
-datasets. The source codes and trained models will be released upon paper
-acceptance.
-
-摘要：<paragraph>檢索增強大型語言模型 (LLM) 利用資訊檢索系統檢索到的相關內容來產生正確的回應，旨在減輕幻覺問題。然而，現有的檢索回應方法通常將相關文件附加到 LLM 的提示中，以執行文字生成任務，而沒有考慮檢索到的文件和 LLM 之間細粒度結構語義的互動。這個問題對於準確的回應生成特別重要，因為 LLM 在處理以冗長文件增強的輸入提示時往往會「迷失在中間」。在這項工作中，我們提出了一個名為「強化檢索重排序回應器」(R$^4$) 的新管道，用於學習檢索增強 LLM 的文件排序，從而進一步增強它們的生成能力，同時 LLM 的大量參數保持凍結。根據生成回應的品質，重排序學習過程分為兩個步驟：文件順序調整和文件表示增強。具體來說，文件順序調整旨在根據圖注意力學習將檢索到的文件排序組織成開始、中間和結束位置，這最大化了回應品質的強化獎勵。文件表示增強進一步通過文件級別梯度對抗學習，改善了品質不佳的回應的檢索文件表示。廣泛的實驗表明，與各種公共數據集上的強大基線相比，我們提出的管道在知識密集型任務上實現了更好的事實問答性能。原始碼和訓練好的模型將在論文被接受後發布。</paragraph>
 

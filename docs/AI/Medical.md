@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-07**|**Benchmarking Deep Jansen-Rit Parameter Inference: An in Silico Study**|Deepa Tilwani et.al.|[2406.05002v1](http://arxiv.org/abs/2406.05002v1)|[link](https://github.com/lina-usc/jansen-rit-model-benchmarking-deep-learning)|
+|**2024-06-07**|**CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**|Matthew Fortier et.al.|[2406.04940v1](http://arxiv.org/abs/2406.04940v1)|null|
+|**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
+|**2024-06-06**|**Rare Class Prediction Model for Smart Industry in Semiconductor Manufacturing**|Abdelrahman Farrag et.al.|[2406.04533v1](http://arxiv.org/abs/2406.04533v1)|null|
+|**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388v1](http://arxiv.org/abs/2406.04388v1)|null|
 |**2024-06-06**|**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**|Eleonora Mancini et.al.|[2406.04116v1](http://arxiv.org/abs/2406.04116v1)|null|
 |**2024-06-06**|**Leveraging SPD Matrices on Riemannian Manifolds in Quantum Classical Hybrid Models for Structural Health Monitoring**|Azadeh Alavi et.al.|[2406.04055v1](http://arxiv.org/abs/2406.04055v1)|null|
 |**2024-06-05**|**Speech-based Clinical Depression Screening: An Empirical Study**|Yangbin Chen et.al.|[2406.03510v1](http://arxiv.org/abs/2406.03510v1)|null|
@@ -97,13 +102,132 @@
 |**2024-05-23**|**Unraveling overoptimism and publication bias in ML-driven science**|Pouria Saidi et.al.|[2405.14422v1](http://arxiv.org/abs/2405.14422v1)|null|
 |**2024-05-23**|**EHR-SeqSQL : A Sequential Text-to-SQL Dataset For Interactively Exploring Electronic Health Records**|Jaehee Ryu et.al.|[2406.00019v1](http://arxiv.org/abs/2406.00019v1)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230v1](http://arxiv.org/abs/2405.14230v1)|null|
-|**2024-05-23**|**Investigation of Customized Medical Decision Algorithms Utilizing Graph Neural Networks**|Yafeng Yan et.al.|[2405.17460v1](http://arxiv.org/abs/2405.17460v1)|null|
-|**2024-05-23**|**Integrating Medical Imaging and Clinical Reports Using Multimodal Deep Learning for Advanced Disease Analysis**|Ziyan Yao et.al.|[2405.17459v1](http://arxiv.org/abs/2405.17459v1)|null|
-|**2024-05-23**|**Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**|Kang Liu et.al.|[2405.14905v1](http://arxiv.org/abs/2405.14905v1)|[link](https://github.com/mk-runner/sei-temp)|
-|**2024-05-22**|**How Many Bytes Can You Take Out Of Brain-To-Text Decoding?**|Richard Antonello et.al.|[2405.14055v1](http://arxiv.org/abs/2405.14055v1)|null|
-|**2024-05-22**|**Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review**|Md Shahin Ali et.al.|[2405.13832v1](http://arxiv.org/abs/2405.13832v1)|null|
 
 #### Abstracts
+##### **Benchmarking Deep Jansen-Rit Parameter Inference: An in Silico Study**
+2406.05002v1 by Deepa Tilwani, Christian O'Reilly
+
+The study of effective connectivity (EC) is essential in understanding how
+the brain integrates and responds to various sensory inputs. Model-driven
+estimation of EC is a powerful approach that requires estimating global and
+local parameters of a generative model of neural activity. Insights gathered
+through this process can be used in various applications, such as studying
+neurodevelopmental disorders. However, accurately determining EC through
+generative models remains a significant challenge due to the complexity of
+brain dynamics and the inherent noise in neural recordings, e.g., in
+electroencephalography (EEG). Current model-driven methods to study EC are
+computationally complex and cannot scale to all brain regions as required by
+whole-brain analyses. To facilitate EC assessment, an inference algorithm must
+exhibit reliable prediction of parameters in the presence of noise. Further,
+the relationship between the model parameters and the neural recordings must be
+learnable. To progress toward these objectives, we benchmarked the performance
+of a Bi-LSTM model for parameter inference from the Jansen-Rit neural mass
+model (JR-NMM) simulated EEG under various noise conditions. Additionally, our
+study explores how the JR-NMM reacts to changes in key biological parameters
+(i.e., sensitivity analysis) like synaptic gains and time constants, a crucial
+step in understanding the connection between neural mechanisms and observed
+brain activity. Our results indicate that we can predict the local JR-NMM
+parameters from EEG, supporting the feasibility of our deep-learning-based
+inference approach. In future work, we plan to extend this framework to
+estimate local and global parameters from real EEG in clinically relevant
+applications.
+
+摘要：有效连通性 (EC) 的研究对于理解大脑如何整合和响应各种感官输入至关重要。EC 的模型驱动估计是一种强大的方法，需要估计神经活动生成模型的全局和局部参数。通过此过程收集的见解可用于各种应用中，例如研究神经发育障碍。然而，由于大脑动力学复杂且神经记录中固有噪声（例如脑电图 (EEG) 中的噪声），通过生成模型准确确定 EC 仍然是一项重大挑战。当前用于研究 EC 的模型驱动方法计算复杂，并且无法扩展到全脑分析所需的所有大脑区域。为了促进 EC 评估，推理算法必须在存在噪声的情况下对参数进行可靠预测。此外，模型参数与神经记录之间的关系必须是可学习的。为了实现这些目标，我们对双向 LSTM 模型在各种噪声条件下从 Jansen-Rit 神经质量模型 (JR-NMM) 模拟脑电图中进行参数推理的性能进行了基准测试。此外，我们的研究探索了 JR-NMM 如何对关键生物学参数（即敏感性分析）的变化做出反应，例如突触增益和时间常数，这是理解神经机制与观察到的脑活动之间联系的关键步骤。我们的结果表明，我们可以从脑电图中预测局部 JR-NMM 参数，从而支持我们基于深度学习的推理方法的可行性。在未来的工作中，我们计划将此框架扩展到从临床相关应用中的真实脑电图估计局部和全局参数。
+
+##### **CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**
+2406.04940v1 by Matthew Fortier, Mats L. Richter, Oliver Sonnentag, Chris Pal
+
+Terrestrial carbon fluxes provide vital information about our biosphere's
+health and its capacity to absorb anthropogenic CO$_2$ emissions. The
+importance of predicting carbon fluxes has led to the emerging field of
+data-driven carbon flux modelling (DDCFM), which uses statistical techniques to
+predict carbon fluxes from biophysical data. However, the field lacks a
+standardized dataset to promote comparisons between models. To address this
+gap, we present CarbonSense, the first machine learning-ready dataset for
+DDCFM. CarbonSense integrates measured carbon fluxes, meteorological
+predictors, and satellite imagery from 385 locations across the globe, offering
+comprehensive coverage and facilitating robust model training. Additionally, we
+provide a baseline model using a current state-of-the-art DDCFM approach and a
+novel transformer based model. Our experiments illustrate the potential gains
+that multimodal deep learning techniques can bring to this domain. By providing
+these resources, we aim to lower the barrier to entry for other deep learning
+researchers to develop new models and drive new advances in carbon flux
+modelling.
+
+摘要：陸地碳通量提供我們生物圈健康和吸收人為 CO$_2$ 排放的能力的重要資訊。預測碳通量的重要性導致資料驅動碳通量建模 (DDCFM) 新興領域的出現，它使用統計技術從生物物理資料預測碳通量。然而，該領域缺乏標準化資料集來促進模型之間的比較。為了解決這個差距，我們提出 CarbonSense，這是第一個適用於 DDCFM 的機器學習準備資料集。CarbonSense 整合了來自全球 385 個地點的測量碳通量、氣象預測因子和衛星影像，提供全面的涵蓋範圍並促進穩健的模型訓練。此外，我們使用當前最先進的 DDCFM 方法和基於新穎Transformer的模型提供基準模型。我們的實驗說明了多模態深度學習技術可以為這個領域帶來的潛在收益。透過提供這些資源，我們旨在降低其他深度學習研究人員進入門檻，以開發新模型並推動碳通量建模的新進展。
+
+##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
+2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
+
+The self-attention mechanism has been adopted in several widely-used
+message-passing neural networks (MPNNs) (e.g., GATs), which adaptively controls
+the amount of information that flows along the edges of the underlying graph.
+This usage of attention has made such models a baseline for studies on
+explainable AI (XAI) since interpretations via attention have been popularized
+in various domains (e.g., natural language processing and computer vision).
+However, existing studies often use naive calculations to derive attribution
+scores from attention, and do not take the precise and careful calculation of
+edge attribution into consideration. In our study, we aim to fill the gap
+between the widespread usage of attention-enabled MPNNs and their potential in
+largely under-explored explainability, a topic that has been actively
+investigated in other areas. To this end, as the first attempt, we formalize
+the problem of edge attribution from attention weights in GNNs. Then, we
+propose GATT, an edge attribution calculation method built upon the computation
+tree. Through comprehensive experiments, we demonstrate the effectiveness of
+our proposed method when evaluating attributions from GATs. Conversely, we
+empirically validate that simply averaging attention weights over graph
+attention layers is insufficient to interpret the GAT model's behavior. Code is
+publicly available at https://github.com/jordan7186/GAtt/tree/main.
+
+摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
+
+##### **Rare Class Prediction Model for Smart Industry in Semiconductor Manufacturing**
+2406.04533v1 by Abdelrahman Farrag, Mohammed-Khalil Ghali, Yu Jin
+
+The evolution of industry has enabled the integration of physical and digital
+systems, facilitating the collection of extensive data on manufacturing
+processes. This integration provides a reliable solution for improving process
+quality and managing equipment health. However, data collected from real
+manufacturing processes often exhibit challenging properties, such as severe
+class imbalance, high rates of missing values, and noisy features, which hinder
+effective machine learning implementation. In this study, a rare class
+prediction approach is developed for in situ data collected from a smart
+semiconductor manufacturing process. The primary objective is to build a model
+that addresses issues of noise and class imbalance, enhancing class separation.
+The developed approach demonstrated promising results compared to existing
+literature, which would allow the prediction of new observations that could
+give insights into future maintenance plans and production quality. The model
+was evaluated using various performance metrics, with ROC curves showing an AUC
+of 0.95, a precision of 0.66, and a recall of 0.96
+
+摘要：產業的演進使得實體與數位系統得以整合，促使製造流程中能收集到廣泛的資料。此整合提供了一個可靠的解決方案，用於改善流程品質並管理設備健康。然而，從真實製造流程收集到的資料通常會表現出具有挑戰性的特性，例如嚴重的類別不平衡、高比率的遺失值和有雜訊的特徵，這些都會阻礙有效的機器學習實作。在這項研究中，開發了一種稀有類別預測方法，用於從智慧半導體製造流程收集的現場資料。主要目標是建立一個模型，用於解決雜訊和類別不平衡的問題，並增強類別分離。與現有的文獻相比，所開發的方法展現出有前景的結果，這將允許預測新的觀察結果，這些觀察結果可以提供對未來維護計畫和生產品質的見解。使用各種效能指標評估此模型，ROC 曲線顯示 AUC 為 0.95、精確度為 0.66、召回率為 0.96
+
+##### **Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**
+2406.04388v1 by Gabriel della Maggiora, Luis Alberto Croquevielle, Harry Horsley, Thomas Heinis, Artur Yakimovich
+
+Phase imaging is gaining importance due to its applications in fields like
+biomedical imaging and material characterization. In biomedical applications,
+it can provide quantitative information missing in label-free microscopy
+modalities. One of the most prominent methods in phase quantification is the
+Transport-of-Intensity Equation (TIE). TIE often requires multiple acquisitions
+at different defocus distances, which is not always feasible in a clinical
+setting. To address this issue, we propose to use chromatic aberrations to
+induce the required through-focus images with a single exposure, effectively
+generating a through-focus stack. Since the defocus distance induced by the
+aberrations is small, conventional TIE solvers are insufficient to address the
+resulting artifacts. We propose Zero-Mean Diffusion, a modified version of
+diffusion models designed for quantitative image prediction, and train it with
+synthetic data to ensure robust phase retrieval. Our contributions offer an
+alternative TIE approach that leverages chromatic aberrations, achieving
+accurate single-exposure phase measurement with white light and thus improving
+the efficiency of phase imaging. Moreover, we present a new class of diffusion
+models that are well-suited for quantitative data and have a sound theoretical
+basis. To validate our approach, we employ a widespread brightfield microscope
+equipped with a commercially available color camera. We apply our model to
+clinical microscopy of patients' urine, obtaining accurate phase measurements.
+
+摘要：相位影像由於在生物醫學影像和材料表徵等領域的應用而日益重要。在生物醫學應用中，它可以提供標籤顯微鏡模式中缺少的量化資訊。相位量化的最顯著方法之一是強度傳輸方程式 (TIE)。TIE 通常需要在不同的散焦距離下進行多次擷取，這在臨床環境中並不總是可行的。為了解決這個問題，我們建議使用色差來誘導所需的透過焦點影像，並透過單次曝光有效地產生透過焦點堆疊。由於色差所產生的散焦距離很小，因此傳統的 TIE 解決器不足以解決產生的偽像。我們提出零均值擴散，一種針對量化影像預測而設計的擴散模型的修改版本，並使用合成資料訓練它以確保穩健的相位擷取。我們的貢獻提供了一種利用色差的替代 TIE 方法，實現了準確的單次曝光相位測量，從而提高了相位影像的效率。此外，我們提出了一類新的擴散模型，它們非常適合量化資料，並具有良好的理論基礎。為了驗證我們的做法，我們採用配備市售彩色相機的廣泛使用明場顯微鏡。我們將我們的模型應用於患者尿液的臨床顯微鏡檢查，獲得準確的相位測量。
+
 ##### **Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**
 2406.04116v1 by Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni
 
@@ -2446,124 +2570,4 @@ efforts by at least 70% while maintaining comparable cancer detection accuracy
 to competing fully supervised methods (AUC value 0.961 versus 0.966).
 
 摘要：由於缺乏足夠的專家等級腫瘤標記，會阻礙基於監督式學習的機會主義癌症篩檢在醫學影像上的效能。臨床報告（包含豐富的描述性文字細節）可提供「免費的午餐」監督資訊，並提供腫瘤位置作為一種弱標籤以應對篩檢任務，從而節省人工標籤的工作量，只要適當利用即可。然而，僅使用此類弱標籤來預測癌症可能非常困難，因為與整個 3D 醫學掃描相比，腫瘤通常出現在較小的解剖區域中。弱半監督式學習（WSSL）利用有限的體素級腫瘤標記，並結合大量僅有現成臨床報告的醫學影像，這可能會在最大程度減少專家標記工作量和最佳化篩檢效能之間取得良好的平衡。在本文中，我們提出了一種新穎的文字引導學習方法，以達成高度準確的癌症偵測結果。透過將診斷和腫瘤位置文字提示整合到視覺語言模型（VLM）的文字編碼器中，可以在 VLM 的潛在空間中有效執行弱監督式學習的最佳化，從而增強訓練的穩定性。我們的做法可以透過大規模預先訓練的 VLM 來利用臨床知識以增強泛化能力，並產生可靠的偽腫瘤遮罩以改善癌症偵測。我們在包含 1,651 位獨特患者的大規模癌症資料集上進行的廣泛定量實驗結果驗證了我們的做法可以將人工標記工作量至少減少 70%，同時維持與競爭的全監督式方法相當的癌症偵測準確度（AUC 值 0.961 對比 0.966）。
-
-##### **Investigation of Customized Medical Decision Algorithms Utilizing Graph Neural Networks**
-2405.17460v1 by Yafeng Yan, Shuyao He, Zhou Yu, Jiajie Yuan, Ziang Liu, Yan Chen
-
-Aiming at the limitations of traditional medical decision system in
-processing large-scale heterogeneous medical data and realizing highly
-personalized recommendation, this paper introduces a personalized medical
-decision algorithm utilizing graph neural network (GNN). This research
-innovatively integrates graph neural network technology into the medical and
-health field, aiming to build a high-precision representation model of patient
-health status by mining the complex association between patients' clinical
-characteristics, genetic information, living habits. In this study, medical
-data is preprocessed to transform it into a graph structure, where nodes
-represent different data entities (such as patients, diseases, genes, etc.) and
-edges represent interactions or relationships between entities. The core of the
-algorithm is to design a novel multi-scale fusion mechanism, combining the
-historical medical records, physiological indicators and genetic
-characteristics of patients, to dynamically adjust the attention allocation
-strategy of the graph neural network, so as to achieve highly customized
-analysis of individual cases. In the experimental part, this study selected
-several publicly available medical data sets for validation, and the results
-showed that compared with traditional machine learning methods and a single
-graph neural network model, the proposed personalized medical decision
-algorithm showed significantly superior performance in terms of disease
-prediction accuracy, treatment effect evaluation and patient risk
-stratification.
-
-摘要：針對傳統醫療決策系統在處理大規模異質醫療資料和實現高度個人化推薦上的限制，本文提出了一種利用圖神經網路 (GNN) 的個人化醫療決策演算法。本研究創新地將圖神經網路技術整合到醫療保健領域，旨在透過挖掘患者臨床特徵、遺傳資訊、生活習慣之間的複雜關聯，建立患者健康狀態的高精度表示模型。本研究中，醫療資料經過預處理轉換為圖結構，其中節點表示不同的資料實體（例如患者、疾病、基因等），而邊緣表示實體之間的互動或關係。該演算法的核心是設計一種新穎的多尺度融合機制，結合患者的歷史病歷、生理指標和遺傳特徵，動態調整圖神經網路的注意力分配策略，以實現對個案的高度客製化分析。在實驗部分，本研究選取了數個公開的醫療資料集進行驗證，結果顯示，與傳統機器學習方法和單一圖神經網路模型相比，所提出的個人化醫療決策演算法在疾病預測準確度、治療效果評估和患者風險分層方面表現出顯著的優異效能。
-
-##### **Integrating Medical Imaging and Clinical Reports Using Multimodal Deep Learning for Advanced Disease Analysis**
-2405.17459v1 by Ziyan Yao, Fei Lin, Sheng Chai, Weijie He, Lu Dai, Xinghui Fei
-
-In this paper, an innovative multi-modal deep learning model is proposed to
-deeply integrate heterogeneous information from medical images and clinical
-reports. First, for medical images, convolutional neural networks were used to
-extract high-dimensional features and capture key visual information such as
-focal details, texture and spatial distribution. Secondly, for clinical report
-text, a two-way long and short-term memory network combined with an attention
-mechanism is used for deep semantic understanding, and key statements related
-to the disease are accurately captured. The two features interact and integrate
-effectively through the designed multi-modal fusion layer to realize the joint
-representation learning of image and text. In the empirical study, we selected
-a large medical image database covering a variety of diseases, combined with
-corresponding clinical reports for model training and validation. The proposed
-multimodal deep learning model demonstrated substantial superiority in the
-realms of disease classification, lesion localization, and clinical description
-generation, as evidenced by the experimental results.
-
-摘要：在本文中，提出了一個創新的多模態深度學習模型，以深入整合來自醫學影像和臨床報告的異質資訊。首先，對於醫學影像，使用卷積神經網路來提取高維特徵並擷取關鍵視覺資訊，例如焦點細節、紋理和空間分佈。其次，對於臨床報告文字，使用結合注意力機制的雙向長短期記憶網路進行深度語義理解，並準確擷取與疾病相關的關鍵陳述。這兩個特徵通過設計的多模態融合層有效地交互和整合，以實現影像和文字的聯合表徵學習。在實證研究中，我們選擇了一個涵蓋各種疾病的大型醫學影像資料庫，並結合對應的臨床報告進行模型訓練和驗證。所提出的多模態深度學習模型在疾病分類、病灶定位和臨床描述生成方面表現出顯著的優越性，實驗結果證明了這一點。
-
-##### **Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**
-2405.14905v1 by Kang Liu, Zhuoqi Ma, Xiaolu Kang, Zhusi Zhong, Zhicheng Jiao, Grayson Baird, Harrison Bai, Qiguang Miao
-
-The automated generation of imaging reports proves invaluable in alleviating
-the workload of radiologists. A clinically applicable reports generation
-algorithm should demonstrate its effectiveness in producing reports that
-accurately describe radiology findings and attend to patient-specific
-indications. In this paper, we introduce a novel method, \textbf{S}tructural
-\textbf{E}ntities extraction and patient indications \textbf{I}ncorporation
-(SEI) for chest X-ray report generation. Specifically, we employ a structural
-entities extraction (SEE) approach to eliminate presentation-style vocabulary
-in reports and improve the quality of factual entity sequences. This reduces
-the noise in the following cross-modal alignment module by aligning X-ray
-images with factual entity sequences in reports, thereby enhancing the
-precision of cross-modal alignment and further aiding the model in
-gradient-free retrieval of similar historical cases. Subsequently, we propose a
-cross-modal fusion network to integrate information from X-ray images, similar
-historical cases, and patient-specific indications. This process allows the
-text decoder to attend to discriminative features of X-ray images, assimilate
-historical diagnostic information from similar cases, and understand the
-examination intention of patients. This, in turn, assists in triggering the
-text decoder to produce high-quality reports. Experiments conducted on
-MIMIC-CXR validate the superiority of SEI over state-of-the-art approaches on
-both natural language generation and clinical efficacy metrics.
-
-摘要：<paragraph>影像報告的自動生成在減輕放射科醫師的工作負擔方面證明了其無可比擬的價值。一個臨床上適用的報告生成演算法應該展示其在產生報告方面的有效性，這些報告準確地描述了放射科發現，並注意患者特定的適應症。在本文中，我們介紹了一種新方法，即胸部 X 光報告生成的結構實體萃取和患者適應症整合 (SEI)。具體來說，我們採用結構實體萃取 (SEE) 方法來消除報告中的呈現式詞彙，並提高事實實體序列的品質。這會減少後續跨模態對齊模組中的雜訊，透過將 X 光影像與報告中的事實實體序列對齊，進而提升跨模態對齊的精確度，並進一步協助模型無梯度檢索類似的歷史案例。隨後，我們提出了一個跨模態融合網路，以整合來自 X 光影像、類似的歷史案例和患者特定適應症的資訊。這個過程允許文字解碼器注意 X 光影像的區別特徵，從類似案例中彙整歷史診斷資訊，並了解患者的檢查意圖。這反過來有助於觸發文字解碼器產生高品質的報告。在 MIMIC-CXR 上進行的實驗驗證了 SEI 在自然語言生成和臨床療效指標上優於最先進方法的優越性。</paragraph>
-
-##### **How Many Bytes Can You Take Out Of Brain-To-Text Decoding?**
-2405.14055v1 by Richard Antonello, Nihita Sarma, Jerry Tang, Jiaru Song, Alexander Huth
-
-Brain-computer interfaces have promising medical and scientific applications
-for aiding speech and studying the brain. In this work, we propose an
-information-based evaluation metric for brain-to-text decoders. Using this
-metric, we examine two methods to augment existing state-of-the-art continuous
-text decoders. We show that these methods, in concert, can improve brain
-decoding performance by upwards of 40% when compared to a baseline model. We
-further examine the informatic properties of brain-to-text decoders and show
-empirically that they have Zipfian power law dynamics. Finally, we provide an
-estimate for the idealized performance of an fMRI-based text decoder. We
-compare this idealized model to our current model, and use our
-information-based metric to quantify the main sources of decoding error. We
-conclude that a practical brain-to-text decoder is likely possible given
-further algorithmic improvements.
-
-摘要：腦機介面在輔助說話和研究大腦方面具有很有前景的醫療和科學應用。在這項工作中，我們提出了一個基於資訊的評估指標，用於腦對文字的解碼器。使用此指標，我們探討了兩種方法來擴充現有的最先進的連續文字解碼器。我們表明，這些方法協同作用，與基準模型相比，可以將腦解碼性能提高 40% 以上。我們進一步探討了腦對文字解碼器的資訊特性，並憑經驗表明它們具有齊夫定律動態。最後，我們提供了基於 fMRI 的文字解碼器的理想化性能估計。我們將這個理想化的模型與我們目前的模型進行比較，並使用我們基於資訊的指標量化解碼錯誤的主要來源。我們得出結論，如果進一步改進演算法，實用的腦對文字解碼器很可能實現。
-
-##### **Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review**
-2405.13832v1 by Md Shahin Ali, Md Manjurul Ahsan, Lamia Tasnim, Sadia Afrin, Koushik Biswas, Md Maruf Hossain, Md Mahfuz Ahmed, Ronok Hashan, Md Khairul Islam, Shivakumar Raman
-
-Data privacy has become a major concern in healthcare due to the increasing
-digitization of medical records and data-driven medical research. Protecting
-sensitive patient information from breaches and unauthorized access is
-critical, as such incidents can have severe legal and ethical complications.
-Federated Learning (FL) addresses this concern by enabling multiple healthcare
-institutions to collaboratively learn from decentralized data without sharing
-it. FL's scope in healthcare covers areas such as disease prediction, treatment
-customization, and clinical trial research. However, implementing FL poses
-challenges, including model convergence in non-IID (independent and identically
-distributed) data environments, communication overhead, and managing
-multi-institutional collaborations. A systematic review of FL in healthcare is
-necessary to evaluate how effectively FL can provide privacy while maintaining
-the integrity and usability of medical data analysis. In this study, we analyze
-existing literature on FL applications in healthcare. We explore the current
-state of model security practices, identify prevalent challenges, and discuss
-practical applications and their implications. Additionally, the review
-highlights promising future research directions to refine FL implementations,
-enhance data security protocols, and expand FL's use to broader healthcare
-applications, which will benefit future researchers and practitioners.
-
-摘要：由於醫療記錄數位化和資料驅動型醫療研究的增加，資料隱私已成為醫療保健的主要問題。保護敏感的患者資訊免於外洩和未經授權的存取至關重要，因為此類事件可能會造成嚴重的法律和倫理問題。聯合學習 (FL) 透過讓多個醫療保健機構在不共享分散資料的情況下進行協作學習，來解決這個問題。FL 在醫療保健中的範圍涵蓋疾病預測、治療客製化和臨床試驗研究等領域。然而，實施 FL 會帶來挑戰，包括非 IID（獨立且同分布）資料環境中的模型收斂、通訊負載和管理多機構合作。有必要對醫療保健中的 FL 進行系統性回顧，以評估 FL 在維護醫療資料分析的完整性和可用性的同時，如何有效地提供隱私。在這項研究中，我們分析了現有的醫療保健中 FL 應用的文獻。我們探討了模型安全實務的現況、找出普遍的挑戰，並討論實際應用及其影響。此外，此回顧強調了有前途的未來研究方向，以改善 FL 的實作、加強資料安全協定，並將 FL 的用途擴展到更廣泛的醫療保健應用，這將使未來的研究人員和從業人員受益。
 

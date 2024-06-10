@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344v1](http://arxiv.org/abs/2406.04344v1)|null|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[link](https://github.com/peterljq/parsimonious-concept-engineering)|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323v1](http://arxiv.org/abs/2406.04323v1)|null|
@@ -12,7 +12,7 @@
 |**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|[link](https://github.com/ml-jku/SDLG)|
 |**2024-06-06**|**Vision-LSTM: xLSTM as Generic Vision Backbone**|Benedikt Alkin et.al.|[2406.04303v1](http://arxiv.org/abs/2406.04303v1)|null|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
-|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v1](http://arxiv.org/abs/2406.04289v1)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v2](http://arxiv.org/abs/2406.04289v2)|null|
 |**2024-06-06**|**ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions**|Sreyan Ghosh et.al.|[2406.04286v1](http://arxiv.org/abs/2406.04286v1)|[link](https://github.com/sreyan88/abex)|
 |**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278v1](http://arxiv.org/abs/2406.04278v1)|[link](https://github.com/jacobyn/SamplingTonesACL)|
 |**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
@@ -21,14 +21,14 @@
 |**2024-06-06**|**Open-Endedness is Essential for Artificial Superhuman Intelligence**|Edward Hughes et.al.|[2406.04268v1](http://arxiv.org/abs/2406.04268v1)|null|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-06**|**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding**|Junjie Zhou et.al.|[2406.04264v1](http://arxiv.org/abs/2406.04264v1)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v2](http://arxiv.org/abs/2406.04254v2)|null|
 |**2024-06-06**|**Benchmark Data Contamination of Large Language Models: A Survey**|Cheng Xu et.al.|[2406.04244v1](http://arxiv.org/abs/2406.04244v1)|null|
-|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v1](http://arxiv.org/abs/2406.04240v1)|null|
+|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v2](http://arxiv.org/abs/2406.04240v2)|null|
 |**2024-06-06**|**FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**|Bernardo Leite et.al.|[2406.04233v1](http://arxiv.org/abs/2406.04233v1)|[link](https://github.com/bernardoleite/fairytaleqa-translated)|
 |**2024-06-06**|**Quantifying Misalignment Between Agents**|Aidan Kierans et.al.|[2406.04231v1](http://arxiv.org/abs/2406.04231v1)|null|
 |**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230v1](http://arxiv.org/abs/2406.04230v1)|[link](https://github.com/spaceml-org/m3leo)|
 |**2024-06-06**|**The CLRS-Text Algorithmic Reasoning Language Benchmark**|Larisa Markeeva et.al.|[2406.04229v1](http://arxiv.org/abs/2406.04229v1)|[link](https://github.com/google-deepmind/clrs)|
-|**2024-06-06**|**BEADs: Bias Evaluation Across Domains**|Shaina Raza et.al.|[2406.04220v1](http://arxiv.org/abs/2406.04220v1)|null|
+|**2024-06-06**|**BEADs: Bias Evaluation Across Domains**|Shaina Raza et.al.|[2406.04220v2](http://arxiv.org/abs/2406.04220v2)|null|
 |**2024-06-06**|**Rethinking LLM and Linguistic Steganalysis: An Efficient Detection of Strongly Concealed Stego**|Yifan Tang et.al.|[2406.04218v1](http://arxiv.org/abs/2406.04218v1)|null|
 |**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216v1](http://arxiv.org/abs/2406.04216v1)|null|
 |**2024-06-06**|**mCSQA: Multilingual Commonsense Reasoning Dataset with Unified Creation Strategy by Language Models and Humans**|Yusuke Sakai et.al.|[2406.04215v1](http://arxiv.org/abs/2406.04215v1)|null|
@@ -45,7 +45,7 @@
 |**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
 |**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|[link](https://github.com/LuanaBulla/Detection-of-Morality-in-Text)|
 |**2024-06-06**|**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**|Shubham Kumar Nigam et.al.|[2406.04136v1](http://arxiv.org/abs/2406.04136v1)|null|
-|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
+|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v2](http://arxiv.org/abs/2406.04127v2)|null|
 |**2024-06-06**|**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**|Eleonora Mancini et.al.|[2406.04116v1](http://arxiv.org/abs/2406.04116v1)|null|
 |**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113v1](http://arxiv.org/abs/2406.04113v1)|[link](https://github.com/coszero/TabIS)|
 |**2024-06-06**|**Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation**|Can Yaras et.al.|[2406.04112v1](http://arxiv.org/abs/2406.04112v1)|[link](https://github.com/cjyaras/deep-lora-transformers)|
@@ -89,7 +89,7 @@
 |**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v1](http://arxiv.org/abs/2406.03855v1)|null|
 |**2024-06-06**|**Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**|Jiahao Liu et.al.|[2406.03853v1](http://arxiv.org/abs/2406.03853v1)|null|
-|**2024-06-06**|**Lean Workbook: A large-scale Lean problem set formalized from natural language math problems**|Huaiyuan Ying et.al.|[2406.03847v1](http://arxiv.org/abs/2406.03847v1)|[link](https://github.com/internlm/internlm-math)|
+|**2024-06-06**|**Lean Workbook: A large-scale Lean problem set formalized from natural language math problems**|Huaiyuan Ying et.al.|[2406.03847v2](http://arxiv.org/abs/2406.03847v2)|[link](https://github.com/internlm/internlm-math)|
 |**2024-06-06**|**POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**|Jianben He et.al.|[2406.03843v1](http://arxiv.org/abs/2406.03843v1)|null|
 |**2024-06-06**|**Proactive Detection of Physical Inter-rule Vulnerabilities in IoT Services Using a Deep Learning Approach**|Bing Huang et.al.|[2406.03836v1](http://arxiv.org/abs/2406.03836v1)|null|
 |**2024-06-06**|**Chaos with Keywords: Exposing Large Language Models Sycophancy to Misleading Keywords and Evaluating Defense Strategies**|Aswin RRV et.al.|[2406.03827v1](http://arxiv.org/abs/2406.03827v1)|[link](https://github.com/3rdAT/ChaosWithKeywords)|
@@ -98,7 +98,7 @@
 |**2024-06-06**|**Improving Zero-Shot Chinese-English Code-Switching ASR with kNN-CTC and Gated Monolingual Datastores**|Jiaming Zhou et.al.|[2406.03814v1](http://arxiv.org/abs/2406.03814v1)|null|
 |**2024-06-06**|**Cross-variable Linear Integrated ENhanced Transformer for Photovoltaic power forecasting**|Jiaxin Gao et.al.|[2406.03808v1](http://arxiv.org/abs/2406.03808v1)|null|
 |**2024-06-06**|**Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**|Yanming Liu et.al.|[2406.03807v1](http://arxiv.org/abs/2406.03807v1)|null|
-|**2024-06-06**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799v1](http://arxiv.org/abs/2406.03799v1)|[link](https://github.com/kaneigi/weatherproofchallenge)|
+|**2024-06-06**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799v2](http://arxiv.org/abs/2406.03799v2)|[link](https://github.com/kaneigi/weatherproofchallenge)|
 |**2024-06-06**|**Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning**|Naibin Gu et.al.|[2406.03792v1](http://arxiv.org/abs/2406.03792v1)|null|
 |**2024-06-06**|**End-to-End Trainable Soft Retriever for Low-resource Relation Extraction**|Kohei Makino et.al.|[2406.03790v1](http://arxiv.org/abs/2406.03790v1)|null|
 |**2024-06-06**|**Enhancing Graph U-Nets for Mesh-Agnostic Spatio-Temporal Flow Prediction**|Sunwoong Yang et.al.|[2406.03789v1](http://arxiv.org/abs/2406.03789v1)|null|
@@ -131,7 +131,7 @@ ML.
 摘要：受大型語言模型 (LLM) 取得的巨大進展的激勵，我們引入了言語化機器學習 (VML) 框架。與通常在連續參數空間上進行優化的傳統機器學習模型相比，VML 將參數空間約束為人類可解讀的自然語言。這種約束導致了函數逼近的新觀點，其中具有文本提示的 LLM 可以被視為由文本提示參數化的函數。受此觀點的指導，我們重新審視了經典的機器學習問題，例如迴歸和分類，並發現這些問題可以用 LLM 參數化的學習器和優化器來解決。VML 的主要優點包括：(1) 歸納偏誤的簡便編碼：關於問題和假設類別的先驗知識可以用自然語言編碼並輸入到 LLM 參數化的學習器中；(2) 自動模型類別選擇：優化器可以根據數據和言語化的先驗知識自動選擇具體的模型類別，並且可以在訓練期間更新模型類別；(3) 可解釋的學習器更新：LLM 參數化的優化器可以提供對每個學習器更新執行原因的解釋。我們進行了多項研究以實證評估 VML 的有效性，並希望 VML 可以作為邁向 ML 中更強的可解釋性和可信度的墊腳石。
 
 ##### **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**
-2406.04338v1 by Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan
+2406.04338v2 by Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan
 
 In recent years, there has been rapid development in 3D generation models,
 opening up new possibilities for applications such as simulating the dynamic
@@ -155,8 +155,7 @@ the physical world and virtual neural space, providing a better integration and
 application of realistic physical principles in virtual environments. Project
 page: https://liuff19.github.io/Physics3D.
 
-摘要：近年來，3D 生成模型發展迅速，
-為模擬 3D 物件的動態運動和自訂其行為等應用開啟了新的可能性。然而，目前的 3D 生成模型往往只關注表面特徵，例如顏色和形狀，而忽略了支配真實世界中物件行為的固有物理特性。為了精確模擬與物理一致的動態，預測材料的物理特性並將其納入行為預測過程中至關重要。儘管如此，由於其物理屬性的複雜性，預測真實世界物件的多樣化材料仍然具有挑戰性。在本文中，我們提出了 \textbf{Physics3D}，一種透過影片擴散模型來學習 3D 物件各種物理特性的新方法。我們的做法涉及設計一個基於粘彈性材料模型的高度可概括的物理模擬系統，這使我們能夠以高保真能力模擬各種材料。此外，我們從包含更多對真實物件材料的理解的影片擴散模型中提煉出物理先驗。大量的實驗證明了我們的方法在彈性和塑性材料上的有效性。Physics3D 顯示出彌合物理世界和虛擬神經空間差距的巨大潛力，在虛擬環境中提供更佳的整合和應用實際物理原理。專案頁面：https://liuff19.github.io/Physics3D。
+摘要：近年來，3D 生成模型快速發展，為模擬 3D 物體的動態運動和客製化其行為等應用開啟了新的可能性。然而，目前的 3D 生成模型往往只關注表面特徵，例如顏色和形狀，而忽略了支配真實世界中物體行為的固有物理特性。為了精確模擬與物理定律一致的動態，預測材料的物理特性並將其納入行為預測過程中至關重要。儘管如此，由於真實世界物體的物理屬性複雜，預測其多樣化的材料仍然具有挑戰性。在本文中，我們提出 \textbf{Physics3D}，一種透過影片擴散模型學習 3D 物體各種物理特性的新方法。我們的做法包括基於粘彈性材料模型設計一個高度可概括化的物理模擬系統，使我們能夠以高保真能力模擬各種材料。此外，我們從包含更多對真實物體材料理解的影片擴散模型中提取物理先驗。廣泛的實驗證明了我們的方法對彈性和塑性材料的有效性。Physics3D 顯現了極大的潛力，可以彌合物理世界和虛擬神經空間之間的差距，在虛擬環境中提供更佳的整合和應用真實物理原理。專案頁面：https://liuff19.github.io/Physics3D。
 
 ##### **Coherent Zero-Shot Visual Instruction Generation**
 2406.04337v1 by Quynh Phung, Songwei Ge, Jia-Bin Huang
@@ -354,7 +353,7 @@ available at https://github.com/FlagOpen/FlagEmbedding.
 摘要：多模态检索在实践中变得越来越流行。然而，现有的检索器大多是文本导向的，缺乏处理视觉信息的能力。尽管有 CLIP 等视觉语言模型，但当前的方法在表示仅文本和仅图像数据方面受到严重限制。在这项工作中，我们提出了一个新的嵌入模型 VISTA，用于通用多模态检索。我们的工作带来了三方面的技术贡献。首先，我们引入了一个灵活的架构，通过引入视觉标记嵌入，将一个强大的文本编码器扩展为具有图像理解能力。其次，我们开发了两种数据生成策略，这些策略带来了高质量的组合图像文本，以促进嵌入模型的训练。第三，我们引入了一个多阶段训练算法，该算法首先使用大量弱标记数据将视觉标记嵌入与文本编码器对齐，然后使用生成的组合图像文本数据开发多模态表示能力。在我们的实验中，VISTA 在各种多模态检索任务中实现了卓越的性能，既适用于零样本设置，也适用于有监督设置。我们的模型、数据和源代码可在 https://github.com/FlagOpen/FlagEmbedding 获得。
 
 ##### **What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**
-2406.04289v1 by Nadav Borenstein, Anej Svete, Robin Chan, Josef Valvoda, Franz Nowak, Isabelle Augenstein, Eleanor Chodroff, Ryan Cotterell
+2406.04289v2 by Nadav Borenstein, Anej Svete, Robin Chan, Josef Valvoda, Franz Nowak, Isabelle Augenstein, Eleanor Chodroff, Ryan Cotterell
 
 What can large language models learn? By definition, language models (LM) are
 distributions over strings. Therefore, an intuitive way of addressing the above
@@ -372,7 +371,7 @@ expected length of sampled strings are strong and significant predictors of
 learnability for both RNNs and Transformers. Several other predictors also
 reach significance, but with differing patterns between RNNs and Transformers.
 
-摘要：大型語言模型可以學習什麼？根據定義，語言模型 (LM) 是字串上的分佈。因此，解決上述問題的一個直觀方法是將其形式化為字串上分佈類別的可學習性問題。雖然過去朝這個方向的研究專注於評估理論限制，但我們試圖了解經驗可學習性。與過去的經驗研究不同，我們在它們的主場上評估神經語言模型，學習機率語言，而不是作為形式語言的分類器。特別是，我們研究 RNN 和 Transformer LM 對正則語言模型 (RLM) 的可學習性。我們根據 RLM 的各種複雜度參數和神經語言模型的隱藏狀態大小，實證測試 RLM 的可學習性。我們發現 RLM 等級（對應於其條件分佈的對數機率所跨越的線性空間大小）和抽樣字串的預期長度是 RNN 和 Transformer 可學習性的強有力且顯著的預測因子。其他幾個預測因子也達到顯著性，但在 RNN 和 Transformer 之間有不同的模式。
+摘要：大型語言模型能學到什麼？根據定義，語言模型 (LM) 是字串上的分佈。因此，一個直觀的解決上述問題的方法是將其形式化為字串上分佈類別的可學習性問題。雖然先前朝這個方向進行的研究專注於評估理論限制，但我們反而試圖了解經驗可學習性。與先前的經驗性研究不同，我們在神經語言模型的主場——學習機率語言——上評估神經語言模型，而不是作為形式語言的分類器。特別是，我們探討了遞迴神經網路和 Transformer 語言模型對正則語言模型 (RLM) 的可學習性。我們根據 RLM 的各種複雜度參數和神經語言模型的隱藏狀態大小，經驗性地測試 RLM 的可學習性。我們發現 RLM 等級（對應於其條件分佈的 logit 所跨越的線性空間大小）和採樣字串的預期長度是 RNN 和 Transformer 可學習性的強大且重要的預測因子。其他幾個預測因子也達到顯著性，但在 RNN 和 Transformer 之間有不同的模式。
 
 ##### **ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions**
 2406.04286v1 by Sreyan Ghosh, Utkarsh Tyagi, Sonal Kumar, C. K. Evuru, S Ramaneswaran, S Sakshi, Dinesh Manocha
@@ -571,7 +570,7 @@ providing a comprehensive and in-depth analysis of MLLMs.
 摘要：長影片理解 (LVU) 效能的評估提出一個重要但具挑戰性的研究問題。儘管先前已做出努力，現有的影片理解基準受到幾個問題的嚴重限制，特別是影片長度不足、影片類型和評估任務缺乏多樣性，以及不適合評估 LVU 效能。為了解決上述問題，我們提出一個新的基準，稱為 MLVU（多任務長影片理解基準），用於全面深入評估 LVU。MLVU 呈現以下幾個關鍵價值：1) 影片長度的實質且彈性延伸，使基準能夠評估各種時長的 LVU 效能。2) 納入各種影片類型，例如電影、監視錄影、自拍影片、卡通、遊戲影片等，反映模型在不同場景中的 LVU 效能。3) 開發多樣化的評估任務，全面檢視 MLLM 在長影片理解中的關鍵能力。針對 20 個最新 MLLM 進行的實證研究顯示，當今技術有顯著進步空間，因為所有現有方法在大部分評估任務中都面臨困難，且在處理較長影片時效能嚴重下降。此外，研究指出，例如脈絡長度、影像理解品質和 LLM 主幹的選擇等因素，在未來的進展中可能扮演關鍵角色。我們預期 MLVU 將透過提供 MLLM 的全面深入分析，推進長影片理解的研究。
 
 ##### **GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**
-2406.04254v1 by Salvatore Esposito, Qingshan Xu, Kacper Kania, Charlie Hewitt, Octave Mariotti, Lohit Petikam, Julien Valentin, Arno Onken, Oisin Mac Aodha
+2406.04254v2 by Salvatore Esposito, Qingshan Xu, Kacper Kania, Charlie Hewitt, Octave Mariotti, Lohit Petikam, Julien Valentin, Arno Onken, Oisin Mac Aodha
 
 We introduce a new generative approach for synthesizing 3D geometry and
 images from single-view collections. Most existing approaches predict
@@ -594,7 +593,7 @@ and do not cover all camera angles. Our experiments on multiple datasets show
 that GeoGen produces visually and quantitatively better geometry than the
 previous generative models based on neural radiance fields.
 
-摘要：我們提出一個新的生成式方法，用於從單視角集合中合成 3D 幾何和影像。大多數現有方法預測體積密度來渲染多視角一致的影像。透過使用神經輻照場進行體積渲染，它們繼承了一個關鍵限制：生成的幾何形狀有雜訊且不受約束，限制了輸出網格的品質和效用。為了解決這個問題，我們提出 GeoGen，一個新的基於 SDF 的 3D 生成模型，以端對端的方式進行訓練。最初，我們將體積密度重新詮釋為有號距離函數 (SDF)。這讓我們可以引入有用的先驗來生成有效的網格。然而，這些先驗會阻止生成模型學習細節，限制了該方法在真實世界場景中的適用性。為了緩解這個問題，我們讓轉換可學習，並約束渲染的深度圖與 SDF 的零級集合一致。透過對抗訓練的觀點，我們鼓勵網路在輸出網格上產生更高保真度的細節。為了評估，我們引入一個從 360 度相機角度捕捉的人類頭像合成資料集，以克服真實世界資料集提出的挑戰，這些資料集通常缺乏 3D 一致性，且無法涵蓋所有相機角度。我們在多個資料集上的實驗表明，與基於神經輻照場的先前生成模型相比，GeoGen 在視覺上和量化上產生了更好的幾何形狀。
+摘要：我們提出了一種新的生成式方法，用於從單視圖集合中合成 3D 幾何和影像。大多數現有方法預測體積密度以渲染多視圖一致的影像。透過使用神經輻照場的體積渲染，它們繼承了一個關鍵限制：生成的幾何形狀有雜訊且不受約束，限制了輸出網格的品質和效用。為了解決這個問題，我們提出了 GeoGen，這是一個新的基於 SDF 的 3D 生成模型，以端到端的方式進行訓練。最初，我們將體積密度重新詮釋為有號距離函數 (SDF)。這讓我們能夠引入有用的先驗條件來生成有效的網格。然而，這些先驗條件會阻止生成模型學習細節，限制了該方法在真實世界場景中的適用性。為了緩解這個問題，我們讓轉換可學習，並約束渲染的深度圖與 SDF 的零級集合一致。透過對抗訓練的觀點，我們鼓勵網路在輸出網格上產生更高保真的細節。為了評估，我們引入了一個由 360 度相機角度捕捉的人類頭像合成資料集，以克服真實世界資料集帶來的挑戰，這些資料集通常缺乏 3D 一致性，且無法涵蓋所有相機角度。我們在多個資料集上的實驗表明，GeoGen 產生的視覺和量化幾何比基於神經輻照場的先前生成模型更好。
 
 ##### **Benchmark Data Contamination of Large Language Models: A Survey**
 2406.04244v1 by Cheng Xu, Shuhao Guan, Derek Greene, M-Tahar Kechadi
@@ -615,7 +614,7 @@ evaluation in real-world applications.
 摘要：大型語言模型（LLM）如 GPT-4、Claude-3 和 Gemini 的快速發展已經轉變了自然語言處理的領域。然而，它也導致了一個稱為基準資料污染（BDC）的重大問題。這發生在語言模型無意中將評估基準資訊納入其訓練資料時，導致在處理的評估階段中產生不準確或不可靠的效能。本文探討了 LLM 評估中 BDC 的複雜挑戰，並探討了替代評估方法以降低與傳統基準相關的風險。本文也探討了減輕 BDC 風險的挑戰和未來方向，強調了此問題的複雜性，以及需要創新的解決方案來確保 LLM 評估在實際應用中的可靠性。
 
 ##### **Hypernetworks for Personalizing ASR to Atypical Speech**
-2406.04240v1 by Max Mueller-Eberstein, Dianna Yee, Karren Yang, Gautam Varma Mantena, Colin Lea
+2406.04240v2 by Max Mueller-Eberstein, Dianna Yee, Karren Yang, Gautam Varma Mantena, Colin Lea
 
 Parameter-efficient fine-tuning (PEFT) for personalizing automatic speech
 recognition (ASR) has recently shown promise for adapting general population
@@ -627,7 +626,7 @@ the effectiveness of traditional fine-tuning. To circumvent these challenges,
 we first identify the minimal set of model parameters required for ASR
 adaptation. Our analysis of each individual parameter's effect on adaptation
 performance allows us to reduce Word Error Rate (WER) by half while adapting
-0.03\% of all weights. Alleviating the need for cohort-specific models, we next
+0.03% of all weights. Alleviating the need for cohort-specific models, we next
 propose the novel use of a meta-learned hypernetwork to generate highly
 individualized, utterance-level adaptations on-the-fly for a diverse set of
 atypical speech characteristics. Evaluating adaptation at the global, cohort
@@ -635,7 +634,7 @@ and individual-level, we show that hypernetworks generalize better to
 out-of-distribution speakers, while maintaining an overall relative WER
 reduction of 75.2% using 0.1% of the full parameter budget.
 
-摘要：參數高效微調 (PEFT) 用於個人化自動語音辨識 (ASR)，最近已展現出將一般族群模型調整為非典型語音的潛力。然而，這些方法假設先驗知識，即針對非典型語言障礙進行調整，而診斷需要專家知識，且並非總是可用。即使有此知識，資料稀少和高層級/講者內變異性進一步限制傳統微調的有效性。為了解決這些挑戰，我們首先找出 ASR 調整所需的最小模型參數組。我們分析每個個別參數對調整效能的影響，讓我們得以將字元錯誤率 (WER) 降低一半，同時調整所有權重的 0.03%。減輕對特定族群模型的需求，我們接著提出創新的元學習超網路使用方式，用於即時產生高度個人化、語句等級的調整，以適應各種非典型語音特徵。在全球、族群和個人層級評估調整時，我們發現超網路對分佈外講者有更好的概化能力，同時使用 0.1% 的完整參數預算，維持整體相對 WER 降低 75.2%。
+摘要：參數高效微調 (PEFT) 用於個人化自動語音辨識 (ASR)，最近已顯示出將一般族群模型調整為非典型語音的希望。然而，這些方法假設先驗知識，即非典型語音障礙正在適應——診斷需要專家知識，而這並不總是可用的。即使有這些知識，資料稀少和高跨/內說話者變異性進一步限制了傳統微調的有效性。為了克服這些挑戰，我們首先找出 ASR 適應所需的最小模型參數組。我們對每個個別參數對適應效能的影響分析，使我們能夠在適應所有權重的 0.03% 時將字元錯誤率 (WER) 減少一半。為了減輕對特定於群體的模型的需求，我們接著提出了一種新穎的元學習超網路使用方式，以動態產生高度個性化、語句層級的適應，以適應各種非典型語音特徵。在全球、群體和個人層級評估適應時，我們發現超網路能更好地概括到分布外的說話者，同時使用 0.1% 的完整參數預算，維持整體相對 WER 減少 75.2%。
 
 ##### **FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**
 2406.04233v1 by Bernardo Leite, Tomás Freitas Osório, Henrique Lopes Cardoso
@@ -745,7 +744,7 @@ https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text.
 摘要：引出语言模型 (LM) 的推理能力是建构智能系统路径上的关键方向。大多数最近专注于推理的研究都关注程序生成合成基准的分布外性能，仅为评估特定技能而定制构建。这种趋势使得结果难以在出版物之间转移，从而减缓了进度。三年前，在神经算法推理领域发现了类似的问题并加以纠正，随着 CLRS 基准的出现。CLRS 是一个数据集生成器，包含来自算法导论教科书的经典算法的图形执行轨迹。受此启发，我们提出了 CLRS-Text——这些算法轨迹的文本版本。开箱即用，CLRS-Text 能够为三十个不同的、具有挑战性的算法任务程序生成轨迹数据，跨越任何理想的输入分布，同时提供一个标准管道，可以在基准中创建任何其他算法任务。我们对各种 LM 进行微调和评估，作为此基准上的通才执行器，验证了先前的工作并揭示了 LM 推理社区一个新颖、有趣的挑战。我们的代码可在 https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text 获得。
 
 ##### **BEADs: Bias Evaluation Across Domains**
-2406.04220v1 by Shaina Raza, Mizanur Rahman, Michael R. Zhang
+2406.04220v2 by Shaina Raza, Mizanur Rahman, Michael R. Zhang
 
 Recent improvements in large language models (LLMs) have significantly
 enhanced natural language processing (NLP) applications. However, these models
@@ -769,7 +768,7 @@ reducing the bias of LLMs. We are making BEADs publicly available at
 https://huggingface.co/datasets/shainar/BEAD
   Warning: This paper contains examples that may be considered offensive.
 
-摘要：大型語言模型 (LLM) 的最新進展已顯著增強自然語言處理 (NLP) 應用。然而，這些模型也可能繼承並延續其訓練資料中的偏見。解決此問題至關重要，但許多現有資料集並未提供跨不同 NLP 任務的評估。為了解決此問題，我們引入了偏見評估跨領域 (BEADs) 資料集，旨在支援廣泛的 NLP 任務，包括文字分類、偏見實體辨識、偏見量化和良性語言產生。BEADs 使用 AI 驅動的註解結合專家驗證來提供可靠的標籤。此方法克服了現有資料集的限制，這些資料集通常依賴群眾外包、僅專家註解（偏見評估有限）或未驗證的 AI 標籤。我們的實證分析顯示，BEADs 可有效偵測和減少不同語言模型中的偏見，針對 BEADs 微調的小型模型在偏見分類任務中通常優於 LLM。不過，這些模型可能仍對某些人口統計資料表現出偏見。使用我們的良性語言資料微調 LLM 也可減少偏見，同時保留模型的知識。我們的研究結果突顯了全面偏見評估的重要性，以及針對性微調在減少 LLM 偏見方面的潛力。我們在 https://huggingface.co/datasets/shainar/BEAD 公開提供 BEADs。警告：這篇論文包含可能被視為冒犯性的範例。
+摘要：大型語言模型（LLM）最近的改進顯著增強了自然語言處理（NLP）應用程式。然而，這些模型也可能繼承和延續其訓練資料中的偏見。解決這個問題至關重要，但許多現有資料集並未針對各種 NLP 任務提供評估。為了解決這個問題，我們引入了跨領域偏見評估（BEAD）資料集，旨在支援各種 NLP 任務，包括文字分類、偏見實體辨識、偏見量化和良性語言產生。BEAD 使用 AI 驅動的註解，結合專家的驗證，提供可靠的標籤。此方法克服了現有資料集的限制，這些資料集通常依賴群眾外包、僅專家註解（偏見評估有限）或未驗證的 AI 標籤。我們的實證分析顯示，BEAD 在偵測和減少不同語言模型的偏見方面有效，針對 BEAD 微調的小型模型在偏見分類任務中通常優於 LLM。然而，這些模型可能仍對某些人口統計資料表現出偏見。使用我們的良性語言資料微調 LLM 也能減少偏見，同時保留模型的知識。我們的研究結果突顯了全面偏見評估的重要性，以及針對性微調在減少 LLM 偏見方面的潛力。我們在 https://huggingface.co/datasets/shainar/BEAD 公開提供 BEAD。警告：此論文包含可能被視為冒犯性的範例。
 
 ##### **Rethinking LLM and Linguistic Steganalysis: An Efficient Detection of Strongly Concealed Stego**
 2406.04218v1 by Yifan Tang, Yihao Wang, Ru Zhang, Jianyi Liu
@@ -1141,7 +1140,7 @@ legal profession and the NLP community.
 摘要：在大語言模型 (LLM) 的時代，預測法律結果由於法律程序的複雜性和專家註解資料集的稀少性而面臨重大挑戰。為了解決這個問題，我們引入了「預測」與「解釋」（PredEx），這是印度語境中最大的法律判決預測和解釋專家註解資料集，具有超過 15,000 個註解。這個開創性的語料庫顯著地增強了法律分析中 AI 模型的訓練和評估，創新之處包括將指令調整應用於 LLM。此方法顯著提高了這些模型對法律判決的預測準確度和解釋深度。我們採用了各種基於Transformer的模型，針對一般和印度法律背景進行調整。透過嚴謹的詞彙、語義和專家評估，我們的模型有效地利用 PredEx 提供精確的預測和有意義的解釋，使其成為法律專業和 NLP 社群的寶貴基準。
 
 ##### **Are We Done with MMLU?**
-2406.04127v1 by Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini
+2406.04127v2 by Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini
 
 Maybe not. We identify and analyse errors in the popular Massive Multitask
 Language Understanding (MMLU) benchmark. Even though MMLU is widely adopted,
@@ -1157,7 +1156,7 @@ error-ridden questions to enhance its future utility and reliability as a
 benchmark. Therefore, we open up MMLU-Redux for additional annotation
 https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux.
 
-摘要：也許不是。我們識別並分析廣泛採用的 Massive Multitask Language Understanding (MMLU) 基準中的錯誤。儘管 MMLU 廣泛採用，但我們的分析證明了許多模糊 LLM 真實功能的基本事實錯誤。例如，我們發現病毒學子集中 57% 的分析問題包含錯誤。為了解決這個問題，我們引入了一個使用新錯誤分類法識別資料集錯誤的全面架構。然後，我們建立了 MMLU-Redux，它是 30 個 MMLU 主題中 3,000 個手動重新註解問題的子集。使用 MMLU-Redux，我們證明了與最初報告的模型效能指標存在顯著差異。我們的結果強烈主張修改 MMLU 錯誤百出的問題，以增強其作為基準的未來效用和可靠性。因此，我們開放 MMLU-Redux 以供進一步註解 https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux。
+摘要：也許不是。我們識別和分析了流行的大規模多任務語言理解 (MMLU) 基準中的錯誤。儘管 MMLU 被廣泛採用，但我們的分析證明了許多掩蓋了 LLM 真正能力的真實錯誤。例如，我們發現病毒學子集中 57% 的分析問題包含錯誤。為了解決這個問題，我們引入了一個使用新錯誤分類法識別資料集錯誤的綜合框架。然後，我們建立了 MMLU-Redux，它是 30 個 MMLU 主題中 3,000 個手動重新註釋問題的子集。使用 MMLU-Redux，我們展示了與最初報告的模型效能指標有顯著差異。我們的結果強烈主張修改 MMLU 充滿錯誤的問題，以增強其作為基準的未來效用和可靠性。因此，我們開放 MMLU-Redux 以進行額外註釋 https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux。
 
 ##### **Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**
 2406.04116v1 by Eleonora Mancini, Ana Tanevska, Andrea Galassi, Alessio Galatolo, Federico Ruggeri, Paolo Torroni
@@ -2144,7 +2143,7 @@ methods, showing the effectiveness of our approach.
 摘要：大型語言模型 (LLM) 近期的進展非凡，但與之相關的推論成本不斷增加，對實際應用構成了挑戰。為了應對這些挑戰，我們提出了一種名為早期退出推論解碼 (EESD) 的新方法，具有無損加速功能。具體來說，EESD 利用 LLM 的一部分來生成草稿代幣，並在第一個 N 層之後加入早期退出結構。為了提高草稿代幣的品質，整合了一種自蒸餾方法。這種早期退出的設計不僅降低了部署和訓練成本，還顯著加快了代幣生成速度。此外，我們引入了一種新穎的抽樣機制，它利用 Thompson 抽樣來調節生成過程，自動確定每一輪中草稿代幣的數量。然後使用原始 LLM 通過單次前向傳遞來驗證這些草稿代幣，從而保證最終輸出文本保持與香草自迴歸解碼一致的分布。在 13B 和 70B 模型上的實驗結果表明，與先前的技術相比，我們的技術以顯著加速的速度解碼代幣，顯示了我們技術的有效性。
 
 ##### **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems**
-2406.03847v1 by Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen
+2406.03847v2 by Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen
 
 Large language models have demonstrated impressive capabilities across
 various natural language processing tasks, especially in solving mathematical
@@ -2161,7 +2160,7 @@ searched proof from the math contest forum and 21 new IMO questions. We
 open-source our code at https://github.com/InternLM/InternLM-Math and our data
 at https://huggingface.co/datasets/InternLM/Lean-Workbook.
 
-摘要：大型語言模型在各種自然語言處理任務中展現出令人印象深刻的能力，尤其是在解決數學問題方面。然而，大型語言模型並不太擅長使用 Lean 等形式語言證明數學定理。這個領域中的一項重大挑戰是這些形式語言中可用的訓練資料稀少。為了解決這個問題，我們提出一個新穎的管道，以反覆產生和過濾合成資料，將自然語言數學問題轉換成 Lean 4 陳述，反之亦然。我們的結果表明，合成資料管道可以提供有用的訓練資料，並提升 LLM 在翻譯和理解複雜數學問題和證明方面的效能。我們的最終資料集包含約 57K 個形式非形式問題配對，以及從數學競賽論壇搜尋到的證明和 21 個新的 IMO 問題。我們在 https://github.com/InternLM/InternLM-Math 開放原始碼，並在 https://huggingface.co/datasets/InternLM/Lean-Workbook 開放資料。
+摘要：大型語言模型已在各種自然語言處理任務中展現出令人印象深刻的能力，尤其是在解決數學問題上。然而，大型語言模型並不擅長使用 Lean 等形式語言來證明數學定理。這個領域的一大挑戰是這些形式語言中可用訓練資料的稀缺性。為了解決這個問題，我們提出了一個創新的管道，它會反覆產生和過濾合成資料，以將自然語言的數學問題轉換成 Lean 4 陳述式，反之亦然。我們的結果表明，合成資料管道可以提供有用的訓練資料，並提高大型語言模型在轉換和理解複雜數學問題和證明方面的效能。我們的最終資料集包含約 57K 個形式非形式問題對，以及從數學競賽論壇中搜尋到的證明和 21 個新的國際數學奧林匹克競賽問題。我們在 https://github.com/InternLM/InternLM-Math 開源我們的程式碼，並在 https://huggingface.co/datasets/InternLM/Lean-Workbook 開源我們的資料。
 
 ##### **POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**
 2406.03843v1 by Jianben He, Xingbo Wang, Shiyi Liu, Guande Wu, Claudio Silva, Huamin Qu
@@ -2354,7 +2353,7 @@ Claude 3, showcasing the potential of our method.
 摘要：大型語言模型 (LLM) 已展現出卓越的推理能力，讓它們能夠解決各種複雜的問題。最近，此能力已應用於工具學習範例中。工具學習涉及提供工具使用範例及其對應功能，讓 LLM 能夠制定計畫並展示呼叫和執行每個工具的流程。LLM 能夠處理它們無法獨立完成的任務，從而提升它們在不同任務中的潛力。然而，此方法面臨兩項主要挑戰。首先，重複的錯誤修正會導致不穩定的規劃和冗長的執行時間。此外，在多個工具中設計一個正確的計畫也是工具學習中的挑戰。為了解決這些問題，我們提出 Tool-Planner，一個基於工具組的任務處理架構。Tool-Planner 會根據具有相同功能的 API 功能將工具分組到工具組中，並允許 LLM 在各種工具組中實作規劃。當工具發生錯誤時，語言模型可以根據工具組重新選擇和調整工具。實驗顯示，我們的做法在不同的資料集上展現出高通過率和獲勝率，並最佳化 GPT-4 和 Claude 3 等模型中的工具學習規劃架構，展示了我們方法的潛力。
 
 ##### **Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**
-2406.03799v1 by Nan Zhang, Xidan Zhang, Jianing Wei, Fangjun Wang, Zhiming Tan
+2406.03799v2 by Nan Zhang, Xidan Zhang, Jianing Wei, Fangjun Wang, Zhiming Tan
 
 This report describes the winning solution to the WeatherProof Dataset
 Challenge (CVPR 2024 UG2+ Track 3). Details regarding the challenge are
@@ -2370,7 +2369,7 @@ improve final performance further. Our solution is ranked 1st on the final
 leaderboard. Code will be available at
 https://github.com/KaneiGi/WeatherProofChallenge.
 
-摘要：本報告描述了 WeatherProof 資料集挑戰賽（CVPR 2024 UG2+ 軌道 3）的獲勝方案。有關挑戰賽的詳細資訊可於 https://cvpr2024ug2challenge.github.io/track3.html 取得。我們為此挑戰賽提出一個增強的語意分割管道。首先，我們改進語意分割模型，使用深度預先訓練的主幹來改進 UperNet 模型和 SETRMLA 模型，並根據天氣和類別資訊將語言指導新增至 InternImage 模型。其次，我們引入一個新的資料集 WeatherProofExtra，其視野更廣，並採用資料擴增方法，包括惡劣天氣和超解析度。最後，應用有效的訓練策略和集成方法進一步提升最終效能。我們的方案在最終排行榜上排名第 1。程式碼將於 https://github.com/KaneiGi/WeatherProofChallenge 取得。
+摘要：本報告描述了 WeatherProof 資料集挑戰賽（CVPR 2024 UG2+ 軌道 3）的獲勝解決方案。有關挑戰賽的詳細資訊可在 https://cvpr2024ug2challenge.github.io/track3.html 找到。我們為此挑戰賽提出了一個增強的語義分割管道。首先，我們使用預先訓練 Depth Anything 的主幹來改善語義分割模型，以改善 UperNet 模型和 SETRMLA 模型，並根據天氣和類別資訊將語言指導新增到 InternImage 模型中。其次，我們引入了一個新的資料集 WeatherProofExtra，它具有更廣的視角，並採用資料擴充方法，包括惡劣天氣和超解析度。最後，應用有效的訓練策略和整體方法進一步改善最終效能。我們的解決方案在最終排行榜上排名第 1。程式碼將在 https://github.com/KaneiGi/WeatherProofChallenge 提供。
 
 ##### **Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning**
 2406.03792v1 by Naibin Gu, Peng Fu, Xiyu Liu, Bowen Shen, Zheng Lin, Weiping Wang

@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032v1](http://arxiv.org/abs/2406.06032v1)|null|
+|**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
+|**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
+|**2024-06-07**|**TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**|Mustafa Ocal et.al.|[2406.05265v1](http://arxiv.org/abs/2406.05265v1)|null|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|null|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
@@ -91,19 +95,109 @@
 |**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373v2](http://arxiv.org/abs/2405.07373v2)|null|
 |**2024-05-10**|**LLM-Generated Black-box Explanations Can Be Adversarially Helpful**|Rohan Ajwani et.al.|[2405.06800v2](http://arxiv.org/abs/2405.06800v2)|[link](https://github.com/ziningzhu/adversarial_helpfulness)|
 |**2024-05-10**|**A Survey of Large Language Models for Graphs**|Xubin Ren et.al.|[2405.08011v1](http://arxiv.org/abs/2405.08011v1)|[link](https://github.com/hkuds/awesome-llm4graph-papers)|
-|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|[link](https://github.com/evanup/vna_benchmark)|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v2](http://arxiv.org/abs/2405.06634v2)|[link](https://github.com/evanup/vna_benchmark)|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545v1](http://arxiv.org/abs/2405.06545v1)|null|
 |**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524v1](http://arxiv.org/abs/2405.06524v1)|null|
 |**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792v1](http://arxiv.org/abs/2405.05792v1)|null|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v2](http://arxiv.org/abs/2405.05189v2)|null|
 |**2024-05-08**|**Lightweight Spatial Modeling for Combinatorial Information Extraction From Documents**|Yanfei Dong et.al.|[2405.06701v1](http://arxiv.org/abs/2405.06701v1)|null|
-|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819v2](http://arxiv.org/abs/2405.04819v2)|[link](https://github.com/david-li0406/dalk)|
-|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756v1](http://arxiv.org/abs/2405.04756v1)|[link](https://github.com/VectorInstitute/biaskg)|
-|**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753v1](http://arxiv.org/abs/2405.04753v1)|null|
-|**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136v1](http://arxiv.org/abs/2405.04136v1)|[link](https://github.com/foerstner-lab/nslp2024-forc)|
 
 #### Abstracts
+##### **The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**
+2406.06032v1 by Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui
+
+Language models (LMs) encode world knowledge in their internal parameters
+through training. However, LMs may learn personal and confidential information
+from the training data, leading to privacy concerns such as data leakage.
+Therefore, research on knowledge deletion from LMs is essential. This study
+focuses on the knowledge stored in LMs and analyzes the relationship between
+the side effects of knowledge deletion and the entities related to the
+knowledge. Our findings reveal that deleting knowledge related to popular
+entities can have catastrophic side effects. Furthermore, this research is the
+first to analyze knowledge deletion in models trained on synthetic knowledge
+graphs, indicating a new direction for controlled experiments.
+
+摘要：語言模型 (LM) 透過訓練將世界知識編碼在其內部參數中。然而，LM 可能會從訓練資料中學習到個人和機密資訊，導致資料外洩等隱私問題。因此，研究從 LM 中刪除知識至關重要。本研究著重於儲存在 LM 中的知識，並分析知識刪除的副作用與與知識相關的實體之間的關係。我們的研究結果揭示，刪除與熱門實體相關的知識可能會造成災難性的副作用。此外，本研究首次分析在合成知識圖譜上訓練的模型中的知識刪除，指出受控實驗的新方向。
+
+##### **HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**
+2406.06027v1 by Pranoy Panda, Ankush Agarwal, Chaitanya Devaguptapu, Manohar Kaul, Prathosh A P
+
+Given unstructured text, Large Language Models (LLMs) are adept at answering
+simple (single-hop) questions. However, as the complexity of the questions
+increase, the performance of LLMs degrade. We believe this is due to the
+overhead associated with understanding the complex question followed by
+filtering and aggregating unstructured information in the raw text. Recent
+methods try to reduce this burden by integrating structured knowledge triples
+into the raw text, aiming to provide a structured overview that simplifies
+information processing. However, this simplistic approach is query-agnostic and
+the extracted facts are ambiguous as they lack context. To address these
+drawbacks and to enable LLMs to answer complex (multi-hop) questions with ease,
+we propose to use a knowledge graph (KG) that is context-aware and is distilled
+to contain query-relevant information. The use of our compressed distilled KG
+as input to the LLM results in our method utilizing up to $67\%$ fewer tokens
+to represent the query relevant information present in the supporting
+documents, compared to the state-of-the-art (SoTA) method. Our experiments show
+consistent improvements over the SoTA across several metrics (EM, F1,
+BERTScore, and Human Eval) on two popular benchmark datasets (HotpotQA and
+MuSiQue).
+
+摘要：給定非結構化文本，大型語言模型 (LLM) 擅長回答簡單（單跳）問題。然而，隨著問題的複雜性增加，LLM 的效能會下降。我們相信這是因為理解複雜問題所伴隨的開銷，接著在原始文本中過濾和彙總非結構化資訊。最近的方法嘗試透過將結構化知識三元組整合到原始文本中來減輕這個負擔，目的是提供一個簡化資訊處理的結構化概觀。然而，這種簡化的方式與查詢無關，而且提取的事實模稜兩可，因為它們缺乏背景。為了解決這些缺點，並使 LLM 能夠輕鬆回答複雜（多跳）問題，我們建議使用一個與背景相關且經過提煉以包含與查詢相關資訊的知識圖譜 (KG)。將我們壓縮提煉的 KG 用作 LLM 的輸入，使得我們的模型使用比最先進 (SoTA) 方法減少多達 $67\%$ 的標記來表示支援文件中的與查詢相關的資訊。我們的實驗顯示，在兩個流行的基準資料集（HotpotQA 和 MuSiQue）上，我們的模型在多項指標（EM、F1、BERTScore 和人工評估）中都比 SoTA 有顯著的改善。
+
+##### **Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**
+2406.05496v1 by Sai Munikoti, Ian Stewart, Sameera Horawalavithana, Henry Kvinge, Tegan Emerson, Sandra E Thompson, Karl Pazdernik
+
+Multimodal models are expected to be a critical component to future advances
+in artificial intelligence. This field is starting to grow rapidly with a surge
+of new design elements motivated by the success of foundation models in natural
+language processing (NLP) and vision. It is widely hoped that further extending
+the foundation models to multiple modalities (e.g., text, image, video, sensor,
+time series, graph, etc.) will ultimately lead to generalist multimodal models,
+i.e. one model across different data modalities and tasks. However, there is
+little research that systematically analyzes recent multimodal models
+(particularly the ones that work beyond text and vision) with respect to the
+underling architecture proposed. Therefore, this work provides a fresh
+perspective on generalist multimodal models (GMMs) via a novel architecture and
+training configuration specific taxonomy. This includes factors such as
+Unifiability, Modularity, and Adaptability that are pertinent and essential to
+the wide adoption and application of GMMs. The review further highlights key
+challenges and prospects for the field and guide the researchers into the new
+advancements.
+
+摘要：多模态模型预计将成为人工智能未来发展的关键组成部分。随着自然语言处理 (NLP) 和视觉领域的底层模型取得成功，这一领域开始迅速发展，并涌现出大量受其启发的新设计元素。人们普遍希望，将底层模型进一步扩展到多种模态（例如，文本、图像、视频、传感器、时间序列、图形等）最终将产生通用多模态模型，即一个跨不同数据模态和任务的模型。然而，很少有研究系统地分析最近的多模态模型（特别是那些在文本和视觉之外工作的模型）与其提出的底层架构之间的关系。因此，这项工作通过一种新颖的架构和训练配置特定分类法，为通用多模态模型 (GMM) 提供了一个新的视角。这包括统一性、模块化和适应性等因素，这些因素与 GMM 的广泛采用和应用密切相关且至关重要。该综述进一步强调了该领域的关键挑战和前景，并指导研究人员了解新的进展。
+
+##### **TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**
+2406.05265v1 by Mustafa Ocal, Ning Xie, Mark Finlayson
+
+A timeline provides a total ordering of events and times, and is useful for a
+number of natural language understanding tasks. However, qualitative temporal
+graphs that can be derived directly from text -- such as TimeML annotations --
+usually explicitly reveal only partial orderings of events and times. In this
+work, we apply prior work on solving point algebra problems to the task of
+extracting timelines from TimeML annotated texts, and develop an exact,
+end-to-end solution which we call TLEX (TimeLine EXtraction). TLEX transforms
+TimeML annotations into a collection of timelines arranged in a
+trunk-and-branch structure. Like what has been done in prior work, TLEX checks
+the consistency of the temporal graph and solves it; however, it adds two novel
+functionalities. First, it identifies specific relations involved in an
+inconsistency (which could then be manually corrected) and, second, TLEX
+performs a novel identification of sections of the timelines that have
+indeterminate order, information critical for downstream tasks such as aligning
+events from different timelines. We provide detailed descriptions and analysis
+of the algorithmic components in TLEX, and conduct experimental evaluations by
+applying TLEX to 385 TimeML annotated texts from four corpora. We show that 123
+of the texts are inconsistent, 181 of them have more than one ``real world'' or
+main timeline, and there are 2,541 indeterminate sections across all four
+corpora. A sampling evaluation showed that TLEX is 98--100% accurate with 95%
+confidence along five dimensions: the ordering of time-points, the number of
+main timelines, the placement of time-points on main versus subordinate
+timelines, the connecting point of branch timelines, and the location of the
+indeterminate sections. We provide a reference implementation of TLEX, the
+extracted timelines for all texts, and the manual corrections of the
+inconsistent texts.
+
+摘要：時間軸提供事件和時間的總體順序，並可用於許多自然語言理解任務。然而，可直接從文本中衍生的定性時間圖表（例如 TimeML 標註）通常只明確揭示事件和時間的部分順序。在這項工作中，我們將先前解決點代數問題的工作應用於從 TimeML 標註文本中提取時間軸的任務，並開發了一個精確的端到端解決方案，我們稱之為 TLEX（時間線提取）。TLEX 將 TimeML 標註轉換為一系列時間軸，並以主幹結構排列。與先前的工作一樣，TLEX 檢查時間圖表的自洽性並解決它；然而，它增加了兩個新穎的功能。首先，它識別出不一致中涉及的具體關係（然後可以手動更正），其次，TLEX 對具有不確定順序的時間軸部分進行了新的識別，這些信息對於下游任務（例如對齊來自不同時間軸的事件）至關重要。我們提供了 TLEX 中演算法組成的詳細描述和分析，並通過將 TLEX 應用於來自四個語料庫的 385 個 TimeML 標註文本進行實驗評估。我們表明 123 個文本是不一致的，其中 181 個有多個「真實世界」或主時間軸，並且在所有四個語料庫中共有 2,541 個不確定部分。抽樣評估表明，TLEX 在五個維度上具有 98-100% 的準確度，置信度為 95%：時間點的順序、主時間軸的數量、時間點在主時間軸與從屬時間軸上的位置、分支時間軸的連接點以及不確定部分的位置。我們提供了 TLEX 的參考實現、所有文本的提取時間軸以及不一致文本的手動更正。
+
 ##### **Compositional Generalization with Grounded Language Models**
 2406.04989v1 by Sondre Wold, Étienne Simon, Lucas Georges Gabriel Charpentier, Egor V. Kostylev, Erik Velldal, Lilja Øvrelid
 
@@ -2317,7 +2411,7 @@ at \url{https://github.com/HKUDS/Awesome-LLM4Graph-Papers}.
 摘要：圖形是一種重要的資料結構，用於表示真實世界場景中的關係。先前的研究已確立圖神經網路 (GNN) 在以圖形為中心的任務中提供令人印象深刻的成果，例如連結預測和節點分類。儘管有這些進展，但資料稀疏性和有限的概化能力等挑戰仍然持續存在。最近，大型語言模型 (LLM) 在自然語言處理中備受關注。它們在語言理解和摘要方面表現出色。將 LLM 與圖形學習技術整合已引起興趣，作為增強圖形學習任務效能的一種方式。在這項調查中，我們對應用於圖形學習的最新最先進的 LLM 進行深入探討，並引入一種新穎的分類法，根據其架構設計對現有方法進行分類。我們詳細說明四種獨特設計：i) GNN 作為前綴，ii) LLM 作為前綴，iii) LLM-圖形整合，以及 iv) 僅 LLM，強調每個類別中的關鍵方法。我們探討每個架構的優點和限制，並強調未來研究的潛在途徑，包括克服 LLM 和圖形學習技術之間目前的整合挑戰，並進軍新的應用領域。這項調查旨在作為研究人員和實務工作者的寶貴資源，他們渴望在圖形學習中利用大型語言模型，並激勵這個動態領域持續進步。我們持續維護相關的開源材料，網址為 \url{https://github.com/HKUDS/Awesome-LLM4Graph-Papers}。
 
 ##### **Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**
-2405.06634v1 by Evan M. Williams, Kathleen M. Carley
+2405.06634v2 by Evan M. Williams, Kathleen M. Carley
 
 We evaluate the zero-shot ability of GPT-4 and LLaVa to perform simple Visual
 Network Analysis (VNA) tasks on small-scale graphs. We evaluate the Vision
@@ -2331,7 +2425,7 @@ both models struggle with every visual network analysis task we propose. We
 publicly release the first benchmark for the evaluation of VLMs on foundational
 VNA tasks.
 
-摘要：我們評估 GPT-4 和 LLaVa 的零次學習能力，以執行小規模圖形上的簡單視覺網路分析 (VNA) 任務。我們評估視覺語言模型 (VLM) 在 5 個與三個基礎網路科學概念相關的任務上：識別渲染圖形上最大程度的節點、識別帶正負號的三元組是平衡還是不平衡，以及計算組成部分。這些任務的結構對於理解基礎圖形理論概念的人類來說很容易，並且都可以透過計算圖形中的適當元素來解決。我們發現，雖然 GPT-4 持續優於 LLaVa，但這兩個模型都難以處理我們提出的每個視覺網路分析任務。我們公開發布了第一個用於評估 VLM 在基礎 VNA 任務上的基準。
+摘要：我們評估 GPT-4 和 LLaVa 在小規模圖形上執行簡單的視覺網路分析 (VNA) 任務的零次學習能力。我們針對三個基礎網路科學概念的 5 個任務評估視覺語言模型 (VLM)：識別渲染圖形上最大程度的節點、識別帶正負號的三元組是平衡還是不平衡，以及計算組成部分。這些任務的結構對於理解基礎圖形理論概念的人類來說很容易，並且都可以透過計算圖形中的適當元素來解決。我們發現，儘管 GPT-4 持續優於 LLaVa，但這兩個模型在我們提出的每個視覺網路分析任務中都面臨困難。我們公開發布了第一個用於評估 VLM 在基礎 VNA 任務上的基準。
 
 ##### **Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**
 2405.06545v1 by Mengjia Niu, Hao Li, Jie Shi, Hamed Haddadi, Fan Mo
@@ -2493,105 +2587,4 @@ dataset that covers diverse templates and languages. We also release enhanced
 annotations for an existing dataset.
 
 摘要：<paragraph>由不同範本組成且呈現複雜空間結構的文件，會對文件實體分類構成挑戰。我們提出 KNN-former，它在注意力計算中結合了一種基於文件實體的 K-最近鄰 (KNN) 圖的新型空間偏差。我們將實體的注意力限制在其由 KNN 圖定義的局部半徑內。我們還使用組合匹配來解決許多文件中存在的單對單對應屬性，其中一個欄位只有一個對應實體。此外，與現有方法相比，我們的方法在可訓練參數數量方面具有很高的參數效率。儘管如此，在各種資料集上的實驗表明，我們的模型在大部分實體類型中都優於基準。許多真實世界的文件都表現出組合屬性，這些屬性可以用作歸納偏差來提高提取準確度，但現有資料集並未涵蓋這些文件。為了促進對這些類型文件的未來研究，我們發布了一個新的身分證件文件資料集，其中涵蓋了不同的範本和語言。我們還為現有資料集發布了增強的註釋。</paragraph>
-
-##### **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**
-2405.04819v2 by Dawei Li, Shu Yang, Zhen Tan, Jae Young Baik, Sukwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
-
-Recent advancements in large language models (LLMs) have achieved promising
-performances across various applications. Nonetheless, the ongoing challenge of
-integrating long-tail knowledge continues to impede the seamless adoption of
-LLMs in specialized domains. In this work, we introduce DALK, a.k.a. Dynamic
-Co-Augmentation of LLMs and KG, to address this limitation and demonstrate its
-ability on studying Alzheimer's Disease (AD), a specialized sub-field in
-biomedicine and a global health priority. With a synergized framework of LLM
-and KG mutually enhancing each other, we first leverage LLM to construct an
-evolving AD-specific knowledge graph (KG) sourced from AD-related scientific
-literature, and then we utilize a coarse-to-fine sampling method with a novel
-self-aware knowledge retrieval approach to select appropriate knowledge from
-the KG to augment LLM inference capabilities. The experimental results,
-conducted on our constructed AD question answering (ADQA) benchmark, underscore
-the efficacy of DALK. Additionally, we perform a series of detailed analyses
-that can offer valuable insights and guidelines for the emerging topic of
-mutually enhancing KG and LLM. We will release the code and data at
-https://github.com/David-Li0406/DALK.
-
-摘要：大型語言模型 (LLM) 的近期進展在各種應用中都取得了有望的表現。儘管如此，整合長尾知識的持續挑戰仍然阻礙了 LLM 在專業領域中的無縫採用。在這項工作中，我們介紹了 DALK，又名 LLM 和 KG 的動態共增強，以解決這個限制，並展示其在研究阿茲海默症 (AD) 的能力，這是生物醫學中的專業子領域，也是全球健康優先事項。利用 LLM 和 KG 相互增強的協同框架，我們首先利用 LLM 從與 AD 相關的科學文獻中構建一個不斷演化的 AD 特定知識圖譜 (KG)，然後我們利用一種粗到細的抽樣方法，採用一種新穎的自知知識檢索方法，從 KG 中選擇適當的知識來增強 LLM 推論能力。在我們構建的 AD 問題解答 (ADQA) 基準上進行的實驗結果強調了 DALK 的功效。此外，我們進行了一系列詳細的分析，可以為 KG 和 LLM 相互增強的新興主題提供有價值的見解和指導方針。我們將在 https://github.com/David-Li0406/DALK 上發布代碼和數據。
-
-##### **BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**
-2405.04756v1 by Chu Fei Luo, Ahmad Ghawanmeh, Xiaodan Zhu, Faiza Khan Khattak
-
-Modern large language models (LLMs) have a significant amount of world
-knowledge, which enables strong performance in commonsense reasoning and
-knowledge-intensive tasks when harnessed properly. The language model can also
-learn social biases, which has a significant potential for societal harm. There
-have been many mitigation strategies proposed for LLM safety, but it is unclear
-how effective they are for eliminating social biases. In this work, we propose
-a new methodology for attacking language models with knowledge graph augmented
-generation. We refactor natural language stereotypes into a knowledge graph,
-and use adversarial attacking strategies to induce biased responses from
-several open- and closed-source language models. We find our method increases
-bias in all models, even those trained with safety guardrails. This
-demonstrates the need for further research in AI safety, and further work in
-this new adversarial space.
-
-摘要：現代的大型語言模型（LLM）擁有大量的世界知識，在適當利用時，這使它們在常識推理和知識密集型任務中表現出色。語言模型還可以學習社會偏見，這對社會危害具有重大潛力。已經提出了許多針對 LLM 安全性的緩解策略，但目前尚不清楚它們在消除社會偏見方面的有效性。在這項工作中，我們提出了一種新的方法，使用知識圖譜增強生成來攻擊語言模型。我們將自然語言刻板印象重構為知識圖譜，並使用對抗性攻擊策略來誘導來自幾個開源和閉源語言模型的偏差回應。我們發現我們的模型增加了所有模型中的偏差，即使是那些使用安全防護措施進行訓練的模型。這表明需要進一步研究人工智能安全，並在這個新的對抗空間中進一步開展工作。
-
-##### **AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**
-2405.04753v1 by Yongheng Zhang, Tingwen Du, Yunshan Ma, Xiang Wang, Yi Xie, Guozheng Yang, Yuliang Lu, Ee-Chien Chang
-
-Attack knowledge graph construction seeks to convert textual cyber threat
-intelligence (CTI) reports into structured representations, portraying the
-evolutionary traces of cyber attacks. Even though previous research has
-proposed various methods to construct attack knowledge graphs, they generally
-suffer from limited generalization capability to diverse knowledge types as
-well as requirement of expertise in model design and tuning. Addressing these
-limitations, we seek to utilize Large Language Models (LLMs), which have
-achieved enormous success in a broad range of tasks given exceptional
-capabilities in both language understanding and zero-shot task fulfillment.
-Thus, we propose a fully automatic LLM-based framework to construct attack
-knowledge graphs named: AttacKG+. Our framework consists of four consecutive
-modules: rewriter, parser, identifier, and summarizer, each of which is
-implemented by instruction prompting and in-context learning empowered by LLMs.
-Furthermore, we upgrade the existing attack knowledge schema and propose a
-comprehensive version. We represent a cyber attack as a temporally unfolding
-event, each temporal step of which encapsulates three layers of representation,
-including behavior graph, MITRE TTP labels, and state summary. Extensive
-evaluation demonstrates that: 1) our formulation seamlessly satisfies the
-information needs in threat event analysis, 2) our construction framework is
-effective in faithfully and accurately extracting the information defined by
-AttacKG+, and 3) our attack graph directly benefits downstream security
-practices such as attack reconstruction. All the code and datasets will be
-released upon acceptance.
-
-摘要：攻擊知識圖譜建構旨在將文字形式的網路威脅情報 (CTI) 報告轉換成結構化表示，描繪網路攻擊的演化軌跡。儘管先前的研究已提出各種建構攻擊知識圖譜的方法，但它們普遍存在對不同知識類型的概化能力有限，以及對模型設計和調整專業知識的需求等問題。為了解決這些限制，我們尋求利用大型語言模型 (LLM)，它在廣泛的任務中取得了巨大的成功，在語言理解和零次學習任務完成方面都具備出色的能力。因此，我們提出一個完全自動化的基於 LLM 的框架來建構攻擊知識圖譜，名為：AttacKG+。我們的框架包含四個連續的模組：改寫器、解析器、識別器和摘要器，每個模組都是透過指令提示和 LLM 賦能的脈絡學習來實現。此外，我們升級了現有的攻擊知識架構，並提出了一個全面的版本。我們將網路攻擊表示為一個時間展開的事件，每個時間步驟都包含三層表示，包括行為圖、MITRE TTP 標籤和狀態摘要。廣泛的評估表明：1) 我們的表述無縫地滿足了威脅事件分析中的資訊需求，2) 我們的建構框架有效地忠實且準確地提取 AttacKG+ 定義的資訊，以及 3) 我們的攻擊圖直接有利於下游安全實務，例如攻擊重建。所有程式碼和資料集將在被接受後發布。
-
-##### **Enriched BERT Embeddings for Scholarly Publication Classification**
-2405.04136v1 by Benjamin Wolff, Eva Seidlmayer, Konrad U. Förstner
-
-With the rapid expansion of academic literature and the proliferation of
-preprints, researchers face growing challenges in manually organizing and
-labeling large volumes of articles. The NSLP 2024 FoRC Shared Task I addresses
-this challenge organized as a competition. The goal is to develop a classifier
-capable of predicting one of 123 predefined classes from the Open Research
-Knowledge Graph (ORKG) taxonomy of research fields for a given article.This
-paper presents our results. Initially, we enrich the dataset (containing
-English scholarly articles sourced from ORKG and arXiv), then leverage
-different pre-trained language Models (PLMs), specifically BERT, and explore
-their efficacy in transfer learning for this downstream task. Our experiments
-encompass feature-based and fine-tuned transfer learning approaches using
-diverse PLMs, optimized for scientific tasks, including SciBERT, SciNCL, and
-SPECTER2. We conduct hyperparameter tuning and investigate the impact of data
-augmentation from bibliographic databases such as OpenAlex, Semantic Scholar,
-and Crossref. Our results demonstrate that fine-tuning pre-trained models
-substantially enhances classification performance, with SPECTER2 emerging as
-the most accurate model. Moreover, enriching the dataset with additional
-metadata improves classification outcomes significantly, especially when
-integrating information from S2AG, OpenAlex and Crossref. Our best-performing
-approach achieves a weighted F1-score of 0.7415. Overall, our study contributes
-to the advancement of reliable automated systems for scholarly publication
-categorization, offering a potential solution to the laborious manual curation
-process, thereby facilitating researchers in efficiently locating relevant
-resources.
-
-摘要：<paragraph>隨著學術文獻的快速擴展和預印本的激增，研究人員在手動組織和標記大量文章時面臨著越來越大的挑戰。NSLP 2024 FoRC 共享任務一以競賽的形式解決了這一挑戰。目標是開發一個分類器，能夠從給定文章的研究領域的開放研究知識圖譜 (ORKG) 分類法中預測 123 個預定義類別之一。本文展示了我們的成果。最初，我們豐富了數據集（包含來自 ORKG 和 arXiv 的英文學術文章），然後利用不同的預訓練語言模型 (PLM)，特別是 BERT，並探索它們在用於此下游任務的遷移學習中的功效。我們的實驗包括使用針對科學任務進行優化的各種 PLM 的基於特徵和微調的遷移學習方法，包括 SciBERT、SciNCL 和 SPECTER2。我們進行超參數調整，並研究來自 OpenAlex、Semantic Scholar 和 Crossref 等書目數據庫的數據增強的影響。我們的結果表明，微調預訓練模型可以顯著提高分類性能，而 SPECTER2 成為最準確的模型。此外，使用額外的元數據豐富數據集可以顯著改善分類結果，特別是在整合來自 S2AG、OpenAlex 和 Crossref 的信息時。我們性能最好的方法實現了 0.7415 的加權 F1 分數。總的來說，我們的研究有助於推進用於學術出版物分類的可靠自動化系統，為繁瑣的手動策展過程提供了一個潛在的解決方案，從而幫助研究人員有效地找到相關資源。</paragraph>
 

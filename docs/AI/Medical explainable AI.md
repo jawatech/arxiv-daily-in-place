@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
+|**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
@@ -14,7 +16,6 @@
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v3](http://arxiv.org/abs/2405.06270v3)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
-|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v3](http://arxiv.org/abs/2404.18975v3)|null|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
@@ -52,7 +53,6 @@
 |**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
 |**2023-09-19**|**QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**|Thanveer Shaik et.al.|[2309.10293v3](http://arxiv.org/abs/2309.10293v3)|null|
 |**2023-09-18**|**Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**|Adarsa Sivaprasad et.al.|[2309.09917v1](http://arxiv.org/abs/2309.09917v1)|null|
-|**2023-09-02**|**An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**|Michail Mamalakis et.al.|[2309.00903v3](http://arxiv.org/abs/2309.00903v3)|[link](https://github.com/ece7048/3dsulci)|
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
@@ -104,6 +104,59 @@
 |**2022-10-07**|**What Do End-Users Really Want? Investigation of Human-Centered XAI for Mobile Health Apps**|Katharina Weitz et.al.|[2210.03506v1](http://arxiv.org/abs/2210.03506v1)|null|
 
 #### Abstracts
+##### **Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**
+2406.05984v1 by Yusif Ibrahimov, Tarique Anwar, Tommy Yuan
+
+Mental health constitutes a complex and pervasive global challenge, affecting
+millions of lives and often leading to severe consequences. In this paper, we
+conduct a thorough survey to explore the intersection of data science,
+artificial intelligence, and mental healthcare, focusing on the recent
+developments of mental disorder detection through online social media (OSM). A
+significant portion of the population actively engages in OSM platforms,
+creating a vast repository of personal data that holds immense potential for
+mental health analytics. The paper navigates through traditional diagnostic
+methods, state-of-the-art data- and AI-driven research studies, and the
+emergence of explainable AI (XAI) models for mental healthcare. We review
+state-of-the-art machine learning methods, particularly those based on modern
+deep learning, while emphasising the need for explainability in healthcare AI
+models. The experimental design section provides insights into prevalent
+practices, including available datasets and evaluation approaches. We also
+identify key issues and challenges in the field and propose promising future
+research directions. As mental health decisions demand transparency,
+interpretability, and ethical considerations, this paper contributes to the
+ongoing discourse on advancing XAI in mental healthcare through social media.
+The comprehensive overview presented here aims to guide researchers,
+practitioners, and policymakers in developing the area of mental disorder
+detection.
+
+摘要：心理健康構成了一項複雜且普遍的全球挑戰，影響了數百萬人的生活，並經常導致嚴重的後果。在本文中，我們進行了一項徹底的調查，以探索數據科學、人工智慧和心理保健的交集，重點關注通過線上社交媒體 (OSM) 進行心理疾病檢測的最新發展。很大一部分人口積極參與 OSM 平台，創造了一個龐大的人員資料庫，對心理健康分析具有巨大的潛力。本文探討了傳統的診斷方法、最先進的資料和 AI 驅動的研究，以及心理保健中可解釋 AI (XAI) 模型的出現。我們回顧了最先進的機器學習方法，特別是那些基於現代深度學習的方法，同時強調了醫療保健 AI 模型中可解釋性的必要性。實驗設計部分提供了對普遍做法的見解，包括可用的資料集和評估方法。我們還找出該領域的主要問題和挑戰，並提出了有希望的未來研究方向。由於心理健康決策需要透明度、可解釋性和道德考量，本文有助於推進心理保健中透過社交媒體推進 XAI 的持續討論。這裡提出的全面概述旨在引導研究人員、從業人員和政策制定者發展心理疾病檢測領域。
+
+##### **Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**
+2406.05746v1 by Zhan Zhang, Qin Zhang, Yang Jiao, Lin Lu, Lin Ma, Aihua Liu, Xiao Liu, Juan Zhao, Yajun Xue, Bing Wei, Mingxia Zhang, Ru Gao, Hong Zhao, Jie Lu, Fan Li, Yang Zhang, Yiming Wang, Lei Zhang, Fengwei Tian, Jie Hu, Xin Gou
+
+AI-aided clinical diagnosis is desired in medical care. Existing deep
+learning models lack explainability and mainly focus on image analysis. The
+recently developed Dynamic Uncertain Causality Graph (DUCG) approach is
+causality-driven, explainable, and invariant across different application
+scenarios, without problems of data collection, labeling, fitting, privacy,
+bias, generalization, high cost and high energy consumption. Through close
+collaboration between clinical experts and DUCG technicians, 46 DUCG models
+covering 54 chief complaints were constructed. Over 1,000 diseases can be
+diagnosed without triage. Before being applied in real-world, the 46 DUCG
+models were retrospectively verified by third-party hospitals. The verified
+diagnostic precisions were no less than 95%, in which the diagnostic precision
+for every disease including uncommon ones was no less than 80%. After
+verifications, the 46 DUCG models were applied in the real-world in China. Over
+one million real diagnosis cases have been performed, with only 17 incorrect
+diagnoses identified. Due to DUCG's transparency, the mistakes causing the
+incorrect diagnoses were found and corrected. The diagnostic abilities of the
+clinicians who applied DUCG frequently were improved significantly. Following
+the introduction to the earlier presented DUCG methodology, the recommendation
+algorithm for potential medical checks is presented and the key idea of DUCG is
+extracted.
+
+摘要：<paragraph>醫療照護中需要 AI 輔助的臨床診斷。現有的深度學習模型缺乏可解釋性，並且主要專注於影像分析。最近開發的動態不確定因果關係圖 (DUCG) 方法是因果驅動的、可解釋的，並且在不同的應用場景中是不變的，沒有資料收集、標記、擬合、隱私、偏見、概化、高成本和高能耗的問題。通過臨床專家和 DUCG 技術人員之間的密切合作，構建了涵蓋 54 個主訴的 46 個 DUCG 模型。可以在沒有分流的情況下診斷出 1,000 多種疾病。在應用於實際世界之前，46 個 DUCG 模型已由第三方醫院回溯性驗證。驗證的診斷精度不低於 95%，其中包括罕見疾病在內的每種疾病的診斷精度不低於 80%。驗證後，46 個 DUCG 模型已在中國實際應用。已經執行了超過一百萬個真實診斷案例，僅發現 17 個不正確的診斷。由於 DUCG 的透明性，發現並糾正了導致不正確診斷的錯誤。頻繁應用 DUCG 的臨床醫生的診斷能力得到了顯著提高。在介紹了前面提出的 DUCG 方法論之後，提出了潛在健康檢查的推薦演算法，並提取了 DUCG 的關鍵思想。</paragraph>
+
 ##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
 2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
 
@@ -379,31 +432,6 @@ analysis methods in risk prediction, improving interpretability for clinical
 decision making and enhancing AI system trustworthiness.
 
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
-
-##### **M3H: Multimodal Multitask Machine Learning for Healthcare**
-2404.18975v3 by Dimitris Bertsimas, Yu Ma
-
-Developing an integrated many-to-many framework leveraging multimodal data
-for multiple tasks is crucial to unifying healthcare applications ranging from
-diagnoses to operations. In resource-constrained hospital environments, a
-scalable and unified machine learning framework that improves previous forecast
-performances could improve hospital operations and save costs. We introduce
-M3H, an explainable Multimodal Multitask Machine Learning for Healthcare
-framework that consolidates learning from tabular, time-series, language, and
-vision data for supervised binary/multiclass classification, regression, and
-unsupervised clustering. It features a novel attention mechanism balancing
-self-exploitation (learning source-task), and cross-exploration (learning
-cross-tasks), and offers explainability through a proposed TIM score, shedding
-light on the dynamics of task learning interdependencies. M3H encompasses an
-unprecedented range of medical tasks and machine learning problem classes and
-consistently outperforms traditional single-task models by on average 11.6%
-across 40 disease diagnoses from 16 medical departments, three hospital
-operation forecasts, and one patient phenotyping task. The modular design of
-the framework ensures its generalizability in data processing, task definition,
-and rapid model prototyping, making it production ready for both clinical and
-operational healthcare settings, especially those in constrained environments.
-
-摘要：<paragraph>開發一個整合式多對多架構，利用多模態數據來執行多項任務，對於統一醫療保健應用程式（從診斷到手術）至關重要。在資源受限的醫院環境中，一個可擴充且統一的機器學習架構，可以改善先前的預測效能，進而改善醫院營運並節省成本。我們推出 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了表格、時間序列、語言和影像數據的學習，用於監督式二元/多類別分類、回歸和非監督式聚類。它的特色在於一種新的注意力機制，平衡自我開發（學習來源任務）和跨探索（學習跨任務），並透過提議的 TIM 分數提供可解釋性，說明任務學習相互依賴的動態。M3H 涵蓋了前所未有的醫療任務和機器學習問題類別，並且在 16 個醫療科別的 40 種疾病診斷、三個醫院營運預測和一個患者表型任務中，平均優於傳統的單一任務模型 11.6%。這個架構的模組化設計確保了它在資料處理、任務定義和快速模型原型製作中的通用性，使其適用於臨床和營運醫療保健環境的生產，特別是在受限環境中。</paragraph>
 
 ##### **Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**
 2404.17977v1 by Himanshu Pandey, Akhil Amod, Shivang
@@ -1367,34 +1395,6 @@ enhance narrative global explanations. This, in turn, guides the design of
 health informatics systems that are both trustworthy and actionable.
 
 摘要：在可解释人工智能 (XAI) 研究中，主要重点在于为专家和从业者解释模型。模型不可知和局部解释方法在许多应用中被认为是可解释且足够的。然而，在医疗保健等领域，最终用户是缺乏人工智能或领域专业知识的患者，因此迫切需要更易于理解且能激发对模型操作的信任的模型解释。我们假设生成叙述性、患者特定且全局（模型整体）的模型解释将能够提高可理解性并支持决策制定。我们使用决策树模型对此进行测试，为被识别为患有冠心病高风险的患者生成局部和全局解释。这些解释会呈现给非专家用户。我们发现用户强烈偏好特定类型的解释。大多数参与者偏好全局解释，而较小的一组参与者偏好局部解释。基于任务的心理模型评估为这些参与者提供了有价值的反馈，以增强叙述性全局解释。这反过来又指导了既值得信赖又可操作的健康信息学系统的设计。
-
-##### **An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**
-2309.00903v3 by Michail Mamalakis, Heloise de Vareilles, Atheer AI-Manea, Samantha C. Mitchell, Ingrid Arartz, Lynn Egeland Morch-Johnsen, Jane Garrison, Jon Simons, Pietro Lio, John Suckling, Graham Murray
-
-Detecting the significant features of the learning process of an artificial
-intelligence framework in the entire training and validation dataset can be
-determined as 'global' explanations. Studies in the literature lack of
-accurate, low-complexity, and three-dimensional (3D) global explanations which
-are crucial in neuroimaging, a field with a complex representational space that
-demands more than basic two-dimensional interpretations. To fill this gap, we
-developed a novel explainable artificial intelligence (XAI) 3D-Framework that
-provides robust, faithful, and low-complexity global explanations. We evaluated
-our framework on various 3D deep learning networks trained, validated, and
-tested on a well-annotated cohort of 596 subjects from the TOP-OSLO study. The
-focus was on the presence and absence of the paracingulate sulcus, a variable
-feature of brain morphology correlated with psychotic conditions. Our proposed
-3D-Framework outperforms traditional XAI methods in terms of faithfulness for
-global explanations. As a result, we were able to use these robust explanations
-to uncover new patterns that not only enhance the credibility and reliability
-of the training process but also reveal promising new biomarkers and
-significantly related sub-regions. For the first time, our developed
-3D-Framework proposes a way for the scientific community to utilize global
-explanations to discover novel patterns in this specific neuroscientific
-application and beyond. This study can helps improve the trustworthiness of AI
-training processes and push the boundaries of our understanding by revealing
-new patterns in neuroscience and beyond.
-
-摘要：<paragraph>偵測人工智慧框架在整個訓練和驗證資料集的學習歷程的重要特徵，可以被視為「全域」解釋。文獻研究缺乏準確、低複雜度和三維 (3D) 的全域解釋，而這在神經影像學中至關重要，神經影像學是一個具有複雜表徵空間的領域，需要超過基本的二維詮釋。為了填補這個缺口，我們開發了一個新穎的可解釋人工智慧 (XAI) 3D 架構，它提供強健、忠實且低複雜度的全域解釋。我們在各種 3D 深度學習網路中評估我們的架構，這些網路在 TOP-OSLO 研究中一個標註完善的 596 個受試者群組上進行訓練、驗證和測試。重點在於旁扣帶溝的存在與否，這是與精神病狀況相關的大腦形態的可變特徵。我們提出的 3D 架構在全域解釋的忠實度方面優於傳統的 XAI 方法。因此，我們能夠使用這些強健的解釋來揭示新的模式，這些模式不僅增強了訓練過程的可信度和可靠性，還揭示了有希望的新生物標記和顯著相關的子區域。我們的 3D 架構首次提出了一個方法，讓科學界可以利用全域解釋來發現這個特定神經科學應用程式和其他領域的新模式。這項研究有助於提高人工智慧訓練過程的可信度，並透過揭示神經科學和其他領域的新模式來拓展我們的理解界限。</paragraph>
 
 ##### **Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**
 2308.14321v1 by Yanjun Gao, Ruizhe Li, John Caskey, Dmitriy Dligach, Timothy Miller, Matthew M. Churpek, Majid Afshar

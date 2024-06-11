@@ -14,7 +14,7 @@
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v3](http://arxiv.org/abs/2405.06270v3)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
-|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v2](http://arxiv.org/abs/2404.18975v2)|null|
+|**2024-04-29**|**M3H: Multimodal Multitask Machine Learning for Healthcare**|Dimitris Bertsimas et.al.|[2404.18975v3](http://arxiv.org/abs/2404.18975v3)|null|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
@@ -52,7 +52,7 @@
 |**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
 |**2023-09-19**|**QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**|Thanveer Shaik et.al.|[2309.10293v3](http://arxiv.org/abs/2309.10293v3)|null|
 |**2023-09-18**|**Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**|Adarsa Sivaprasad et.al.|[2309.09917v1](http://arxiv.org/abs/2309.09917v1)|null|
-|**2023-09-02**|**An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**|Michail Mamalakis et.al.|[2309.00903v2](http://arxiv.org/abs/2309.00903v2)|[link](https://github.com/ece7048/3dsulci)|
+|**2023-09-02**|**An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**|Michail Mamalakis et.al.|[2309.00903v3](http://arxiv.org/abs/2309.00903v3)|[link](https://github.com/ece7048/3dsulci)|
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
@@ -381,27 +381,29 @@ decision making and enhancing AI system trustworthiness.
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
 
 ##### **M3H: Multimodal Multitask Machine Learning for Healthcare**
-2404.18975v2 by Dimitris Bertsimas, Yu Ma
+2404.18975v3 by Dimitris Bertsimas, Yu Ma
 
-Artificial intelligence holds promise to fundamentally enhance healthcare.
-Developing an integrated many-to-many framework leveraging multimodal data for
-multiple tasks is essential to unifying modern medicine. We introduce M3H, an
-explainable Multimodal Multitask Machine Learning for Healthcare framework that
-consolidates learning from tabular, time-series, language, and vision data for
-supervised binary/multiclass classification, regression, and unsupervised
-clustering. M3H encompasses an unprecedented range of medical tasks and problem
-domains and consistently outperforms traditional single-task models by on
-average 11.6% across 40 disease diagnoses from 16 medical departments, three
-hospital operation forecasts, and one patient phenotyping task. It features a
-novel attention mechanism balancing self-exploitation (learning source-task),
-and cross-exploration (learning cross-tasks), and offers explainability through
-a proposed TIM score, shedding light on the dynamics of task learning
-interdependencies. Its adaptable architecture supports easy customization and
-integration of new data modalities and tasks, establishing it as a robust,
-scalable solution for advancing AI-driven healthcare systems.
+Developing an integrated many-to-many framework leveraging multimodal data
+for multiple tasks is crucial to unifying healthcare applications ranging from
+diagnoses to operations. In resource-constrained hospital environments, a
+scalable and unified machine learning framework that improves previous forecast
+performances could improve hospital operations and save costs. We introduce
+M3H, an explainable Multimodal Multitask Machine Learning for Healthcare
+framework that consolidates learning from tabular, time-series, language, and
+vision data for supervised binary/multiclass classification, regression, and
+unsupervised clustering. It features a novel attention mechanism balancing
+self-exploitation (learning source-task), and cross-exploration (learning
+cross-tasks), and offers explainability through a proposed TIM score, shedding
+light on the dynamics of task learning interdependencies. M3H encompasses an
+unprecedented range of medical tasks and machine learning problem classes and
+consistently outperforms traditional single-task models by on average 11.6%
+across 40 disease diagnoses from 16 medical departments, three hospital
+operation forecasts, and one patient phenotyping task. The modular design of
+the framework ensures its generalizability in data processing, task definition,
+and rapid model prototyping, making it production ready for both clinical and
+operational healthcare settings, especially those in constrained environments.
 
-摘要：人工智慧有望從根本上提升醫療保健。
-開發一個整合式多對多架構，利用多模態資料進行多重任務，對於統一現代醫學至關重要。我們介紹 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了表格、時間序列、語言和視覺資料的學習，用於監督式二元/多類別分類、回歸和非監督式聚類。M3H 涵蓋了前所未有的醫療任務和問題領域範圍，並且在 16 個醫療部門的 40 種疾病診斷、三個醫院運營預測和一個患者表型任務中，平均比傳統的單一任務模型高出 11.6%。它的特點是新穎的注意力機制，平衡了自我開發（學習來源任務）和跨探索（學習跨任務），並通過提議的 TIM 分數提供可解釋性，闡明了任務學習相互依賴的動態。其適應性架構支援輕鬆自訂和整合新的資料模式和任務，使其成為推動 AI 驅動醫療保健系統的強大、可擴充的解決方案。
+摘要：<paragraph>開發一個整合式多對多架構，利用多模態數據來執行多項任務，對於統一醫療保健應用程式（從診斷到手術）至關重要。在資源受限的醫院環境中，一個可擴充且統一的機器學習架構，可以改善先前的預測效能，進而改善醫院營運並節省成本。我們推出 M3H，一個可解釋的多模態多任務機器學習醫療保健架構，它整合了表格、時間序列、語言和影像數據的學習，用於監督式二元/多類別分類、回歸和非監督式聚類。它的特色在於一種新的注意力機制，平衡自我開發（學習來源任務）和跨探索（學習跨任務），並透過提議的 TIM 分數提供可解釋性，說明任務學習相互依賴的動態。M3H 涵蓋了前所未有的醫療任務和機器學習問題類別，並且在 16 個醫療科別的 40 種疾病診斷、三個醫院營運預測和一個患者表型任務中，平均優於傳統的單一任務模型 11.6%。這個架構的模組化設計確保了它在資料處理、任務定義和快速模型原型製作中的通用性，使其適用於臨床和營運醫療保健環境的生產，特別是在受限環境中。</paragraph>
 
 ##### **Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**
 2404.17977v1 by Himanshu Pandey, Akhil Amod, Shivang
@@ -1367,35 +1369,32 @@ health informatics systems that are both trustworthy and actionable.
 摘要：在可解释人工智能 (XAI) 研究中，主要重点在于为专家和从业者解释模型。模型不可知和局部解释方法在许多应用中被认为是可解释且足够的。然而，在医疗保健等领域，最终用户是缺乏人工智能或领域专业知识的患者，因此迫切需要更易于理解且能激发对模型操作的信任的模型解释。我们假设生成叙述性、患者特定且全局（模型整体）的模型解释将能够提高可理解性并支持决策制定。我们使用决策树模型对此进行测试，为被识别为患有冠心病高风险的患者生成局部和全局解释。这些解释会呈现给非专家用户。我们发现用户强烈偏好特定类型的解释。大多数参与者偏好全局解释，而较小的一组参与者偏好局部解释。基于任务的心理模型评估为这些参与者提供了有价值的反馈，以增强叙述性全局解释。这反过来又指导了既值得信赖又可操作的健康信息学系统的设计。
 
 ##### **An explainable three dimension framework to uncover learning patterns: A unified look in variable sulci recognition**
-2309.00903v2 by Michail Mamalakis, Heloise de Vareilles, Atheer AI-Manea, Samantha C. Mitchell, Ingrid Arartz, Lynn Egeland Morch-Johnsen, Jane Garrison, Jon Simons, Pietro Lio, John Suckling, Graham Murray
+2309.00903v3 by Michail Mamalakis, Heloise de Vareilles, Atheer AI-Manea, Samantha C. Mitchell, Ingrid Arartz, Lynn Egeland Morch-Johnsen, Jane Garrison, Jon Simons, Pietro Lio, John Suckling, Graham Murray
 
-Explainable AI is crucial in medical imaging. In the challenging field of
-neuroscience, visual topics present a high level of complexity, particularly
-within three-dimensional space. The application of neuroscience, which involves
-identifying brain sulcal features from MRI, faces significant hurdles due to
-varying annotation protocols among experts and the intricate three-dimension
-functionality of the brain. Consequently, traditional explainability approaches
-fall short in effectively validating and evaluating these networks. To address
-this, we first present a mathematical formulation delineating various
-categories of explanation needs across diverse computer vision tasks,
-categorized into self-explanatory, semi-explanatory, non-explanatory, and
-new-pattern learning applications based on the reliability of the validation
-protocol. With respect to this mathematical formulation, we propose a 3D
-explainability framework aimed at validating the outputs of deep learning
-networks in detecting the paracingulate sulcus an essential brain anatomical
-feature. The framework integrates local 3D explanations, global explanations
-through dimensionality reduction, concatenated global explanations, and
-statistical shape features, unveiling new insights into pattern learning. We
-trained and tested two advanced 3D deep learning networks on the challenging
-TOP-OSLO dataset, significantly improving sulcus detection accuracy,
-particularly on the left hemisphere. During evaluation with diverse annotation
-protocols for this dataset, we highlighted the crucial role of an unbiased
-annotation process in achieving precise predictions and effective pattern
-learning within our proposed 3D framework. The proposed framework not only
-annotates the variable sulcus but also uncovers hidden AI knowledge, promising
-to advance our understanding of brain anatomy and function.
+Detecting the significant features of the learning process of an artificial
+intelligence framework in the entire training and validation dataset can be
+determined as 'global' explanations. Studies in the literature lack of
+accurate, low-complexity, and three-dimensional (3D) global explanations which
+are crucial in neuroimaging, a field with a complex representational space that
+demands more than basic two-dimensional interpretations. To fill this gap, we
+developed a novel explainable artificial intelligence (XAI) 3D-Framework that
+provides robust, faithful, and low-complexity global explanations. We evaluated
+our framework on various 3D deep learning networks trained, validated, and
+tested on a well-annotated cohort of 596 subjects from the TOP-OSLO study. The
+focus was on the presence and absence of the paracingulate sulcus, a variable
+feature of brain morphology correlated with psychotic conditions. Our proposed
+3D-Framework outperforms traditional XAI methods in terms of faithfulness for
+global explanations. As a result, we were able to use these robust explanations
+to uncover new patterns that not only enhance the credibility and reliability
+of the training process but also reveal promising new biomarkers and
+significantly related sub-regions. For the first time, our developed
+3D-Framework proposes a way for the scientific community to utilize global
+explanations to discover novel patterns in this specific neuroscientific
+application and beyond. This study can helps improve the trustworthiness of AI
+training processes and push the boundaries of our understanding by revealing
+new patterns in neuroscience and beyond.
 
-摘要：<paragraph>可解釋 AI 在醫學影像中至關重要。在神經科學這個充滿挑戰的領域中，視覺主題呈現出高度的複雜性，特別是在三維空間中。神經科學的應用，包括從 MRI 識別腦溝特徵，由於專家之間不同的註解協定和複雜的三維大腦功能，面臨重大的障礙。因此，傳統的可解釋性方法無法有效驗證和評估這些網路。為了解決這個問題，我們首先提出一個數學公式，描述各種電腦視覺任務中不同的解釋需求類別，根據驗證協定的可靠性，將其分類為自解釋、半解釋、非解釋和新模式學習應用。關於這個數學公式，我們提出一個 3D 可解釋性框架，旨在驗證深度學習網路在偵測旁扣帶溝（一個重要的腦部解剖特徵）的輸出。該框架整合了局部 3D 解釋、透過降維的整體解釋、串聯的整體解釋和統計形狀特徵，揭示了模式學習的新見解。我們在具有挑戰性的 TOP-OSLO 資料集上訓練並測試了兩個先進的 3D 深度學習網路，顯著提高了腦溝偵測的準確度，特別是在左半球。在使用此資料集的不同註解協定進行評估時，我們強調了無偏註解過程在我們提出的 3D 框架中實現精確預測和有效模式學習的重要作用。所提出的框架不僅註解了可變的腦溝，還揭示了隱藏的人工智慧知識，有望推進我們對腦部解剖和功能的理解。</paragraph>
+摘要：<paragraph>偵測人工智慧框架在整個訓練和驗證資料集的學習歷程的重要特徵，可以被視為「全域」解釋。文獻研究缺乏準確、低複雜度和三維 (3D) 的全域解釋，而這在神經影像學中至關重要，神經影像學是一個具有複雜表徵空間的領域，需要超過基本的二維詮釋。為了填補這個缺口，我們開發了一個新穎的可解釋人工智慧 (XAI) 3D 架構，它提供強健、忠實且低複雜度的全域解釋。我們在各種 3D 深度學習網路中評估我們的架構，這些網路在 TOP-OSLO 研究中一個標註完善的 596 個受試者群組上進行訓練、驗證和測試。重點在於旁扣帶溝的存在與否，這是與精神病狀況相關的大腦形態的可變特徵。我們提出的 3D 架構在全域解釋的忠實度方面優於傳統的 XAI 方法。因此，我們能夠使用這些強健的解釋來揭示新的模式，這些模式不僅增強了訓練過程的可信度和可靠性，還揭示了有希望的新生物標記和顯著相關的子區域。我們的 3D 架構首次提出了一個方法，讓科學界可以利用全域解釋來發現這個特定神經科學應用程式和其他領域的新模式。這項研究有助於提高人工智慧訓練過程的可信度，並透過揭示神經科學和其他領域的新模式來拓展我們的理解界限。</paragraph>
 
 ##### **Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**
 2308.14321v1 by Yanjun Gao, Ruizhe Li, John Caskey, Dmitriy Dligach, Timothy Miller, Matthew M. Churpek, Majid Afshar

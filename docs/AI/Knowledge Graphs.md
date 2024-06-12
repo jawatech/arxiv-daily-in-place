@@ -6,7 +6,7 @@
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
 |**2024-06-07**|**TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**|Mustafa Ocal et.al.|[2406.05265v1](http://arxiv.org/abs/2406.05265v1)|null|
-|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|null|
+|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|[link](https://github.com/ltgoslo/text-graph-generalization)|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
 |**2024-06-07**|**OCDB: Revisiting Causal Discovery with a Comprehensive Benchmark and Evaluation Framework**|Wei Zhou et.al.|[2406.04598v1](http://arxiv.org/abs/2406.04598v1)|null|
@@ -27,7 +27,7 @@
 |**2024-06-04**|**ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**|Wei Shao et.al.|[2406.03404v1](http://arxiv.org/abs/2406.03404v1)|null|
 |**2024-06-03**|**Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**|Yixuan Mei et.al.|[2406.01566v1](http://arxiv.org/abs/2406.01566v1)|null|
 |**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
-|**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311v1](http://arxiv.org/abs/2406.01311v1)|null|
+|**2024-06-03**|**FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs**|Sushant Gautam et.al.|[2406.01311v1](http://arxiv.org/abs/2406.01311v1)|[link](https://github.com/sushantgautam/factgenius)|
 |**2024-06-03**|**Augmented Commonsense Knowledge for Remote Object Grounding**|Bahram Mohammadi et.al.|[2406.01256v1](http://arxiv.org/abs/2406.01256v1)|[link](https://github.com/Bahram-Mohammadi/ACK)|
 |**2024-06-03**|**EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs**|Zixuan Dong et.al.|[2406.01238v1](http://arxiv.org/abs/2406.01238v1)|null|
 |**2024-06-03**|**Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph**|Guangyi Liu et.al.|[2406.01145v1](http://arxiv.org/abs/2406.01145v1)|null|

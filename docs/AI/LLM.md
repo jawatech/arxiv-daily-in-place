@@ -17,27 +17,27 @@
 |**2024-06-10**|**How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad**|Emmanuel Abbe et.al.|[2406.06467v1](http://arxiv.org/abs/2406.06467v1)|[link](https://github.com/aryol/inductive-scratchpad)|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465v1](http://arxiv.org/abs/2406.06465v1)|null|
 |**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v1](http://arxiv.org/abs/2406.06464v1)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461v1](http://arxiv.org/abs/2406.06461v1)|null|
+|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461v2](http://arxiv.org/abs/2406.06461v2)|null|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458v1](http://arxiv.org/abs/2406.06458v1)|null|
 |**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455v1](http://arxiv.org/abs/2406.06455v1)|null|
 |**2024-06-10**|**Insights from Social Shaping Theory: The Appropriation of Large Language Models in an Undergraduate Programming Course**|Aadarsh Padiyath et.al.|[2406.06451v1](http://arxiv.org/abs/2406.06451v1)|null|
 |**2024-06-10**|**LLM Dataset Inference: Did you train on my dataset?**|Pratyush Maini et.al.|[2406.06443v1](http://arxiv.org/abs/2406.06443v1)|[link](https://github.com/pratyushmaini/llm_dataset_inference)|
 |**2024-06-10**|**Interpretability of Language Models via Task Spaces**|Lucas Weber et.al.|[2406.06441v1](http://arxiv.org/abs/2406.06441v1)|null|
-|**2024-06-10**|**Multimodal Contextualized Semantic Parsing from Speech**|Jordan Voas et.al.|[2406.06438v1](http://arxiv.org/abs/2406.06438v1)|null|
+|**2024-06-10**|**Multimodal Contextualized Semantic Parsing from Speech**|Jordan Voas et.al.|[2406.06438v1](http://arxiv.org/abs/2406.06438v1)|[link](https://github.com/jvoas655/AViD-SP)|
 |**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435v1](http://arxiv.org/abs/2406.06435v1)|[link](https://github.com/itm-kitware/llm-alignable-dm)|
-|**2024-06-10**|**DISCO: An End-to-End Bandit Framework for Personalised Discount Allocation**|Jason Shuo Zhang et.al.|[2406.06433v1](http://arxiv.org/abs/2406.06433v1)|null|
+|**2024-06-10**|**DISCO: An End-to-End Bandit Framework for Personalised Discount Allocation**|Jason Shuo Zhang et.al.|[2406.06433v2](http://arxiv.org/abs/2406.06433v2)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417v1](http://arxiv.org/abs/2406.06417v1)|null|
-|**2024-06-10**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406v1](http://arxiv.org/abs/2406.06406v1)|null|
-|**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403v1](http://arxiv.org/abs/2406.06403v1)|null|
-|**2024-06-10**|**INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition**|Andreas Triantafyllopoulos et.al.|[2406.06401v1](http://arxiv.org/abs/2406.06401v1)|null|
+|**2024-06-10**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406v1](http://arxiv.org/abs/2406.06406v1)|[link](https://github.com/digitalphonetics/ims-toucan)|
+|**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403v1](http://arxiv.org/abs/2406.06403v1)|[link](https://github.com/digitalphonetics/ims-toucan)|
+|**2024-06-10**|**INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition**|Andreas Triantafyllopoulos et.al.|[2406.06401v1](http://arxiv.org/abs/2406.06401v1)|[link](https://github.com/ATriantafyllopoulos/is24-interspeech09-ser-revisited)|
 |**2024-06-10**|**An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics**|Alva Markelius et.al.|[2406.06400v1](http://arxiv.org/abs/2406.06400v1)|null|
 |**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
-|**2024-06-10**|**Contrastive learning of T cell receptor representations**|Yuta Nagano et.al.|[2406.06397v1](http://arxiv.org/abs/2406.06397v1)|null|
-|**2024-06-10**|**Towards Lifelong Learning of Large Language Models: A Survey**|Junhao Zheng et.al.|[2406.06391v1](http://arxiv.org/abs/2406.06391v1)|null|
+|**2024-06-10**|**Contrastive learning of T cell receptor representations**|Yuta Nagano et.al.|[2406.06397v1](http://arxiv.org/abs/2406.06397v1)|[link](https://github.com/yutanagano/sceptr)|
+|**2024-06-10**|**Towards Lifelong Learning of Large Language Models: A Survey**|Junhao Zheng et.al.|[2406.06391v1](http://arxiv.org/abs/2406.06391v1)|[link](https://github.com/qianlima-lab/awesome-lifelong-learning-methods-for-llm)|
 |**2024-06-10**|**Low-Rank Quantization-Aware Training for LLMs**|Yelysei Bondarenko et.al.|[2406.06385v1](http://arxiv.org/abs/2406.06385v1)|null|
 |**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382v1](http://arxiv.org/abs/2406.06382v1)|[link](https://github.com/yigu1008/diffusion-rpo)|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372v1](http://arxiv.org/abs/2406.06372v1)|null|
-|**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371v1](http://arxiv.org/abs/2406.06371v1)|null|
+|**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371v2](http://arxiv.org/abs/2406.06371v2)|[link](https://github.com/utter-project/fairseq)|
 |**2024-06-10**|**Annotation alignment: Comparing LLM and human annotations of conversational safety**|Rajiv Movva et.al.|[2406.06369v1](http://arxiv.org/abs/2406.06369v1)|null|
 |**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366v1](http://arxiv.org/abs/2406.06366v1)|null|
 |**2024-06-10**|**MASSW: A New Dataset and Benchmark Tasks for AI-Assisted Scientific Workflows**|Xingjian Zhang et.al.|[2406.06357v1](http://arxiv.org/abs/2406.06357v1)|null|
@@ -53,7 +53,7 @@
 |**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218v1](http://arxiv.org/abs/2406.06218v1)|null|
 |**2024-06-10**|**A Statistical Theory of Regularization-Based Continual Learning**|Xuyang Zhao et.al.|[2406.06213v1](http://arxiv.org/abs/2406.06213v1)|null|
 |**2024-06-10**|**2DP-2MRC: 2-Dimensional Pointer-based Machine Reading Comprehension Method for Multimodal Moment Retrieval**|Jiajun He et.al.|[2406.06201v1](http://arxiv.org/abs/2406.06201v1)|null|
-|**2024-06-10**|**LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages**|Andrew M. Bean et.al.|[2406.06196v1](http://arxiv.org/abs/2406.06196v1)|[link](https://github.com/am-bean/lingOly)|
+|**2024-06-10**|**LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages**|Andrew M. Bean et.al.|[2406.06196v2](http://arxiv.org/abs/2406.06196v2)|[link](https://github.com/am-bean/lingOly)|
 |**2024-06-10**|**Generalized Nested Latent Variable Models for Lossy Coding applied to Wind Turbine Scenarios**|Raül Pérez-Gonzalo et.al.|[2406.06165v1](http://arxiv.org/abs/2406.06165v1)|null|
 |**2024-06-10**|**Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning**|Daniel Kunin et.al.|[2406.06158v1](http://arxiv.org/abs/2406.06158v1)|null|
 |**2024-06-10**|**Language Models Resist Alignment**|Jiaming Ji et.al.|[2406.06144v1](http://arxiv.org/abs/2406.06144v1)|null|
@@ -87,18 +87,18 @@
 |**2024-06-10**|**fSEAD: a Composable FPGA-based Streaming Ensemble Anomaly Detection Library**|Binglei Lou et.al.|[2406.05999v1](http://arxiv.org/abs/2406.05999v1)|[link](https://github.com/bingleilou/fsead)|
 |**2024-06-10**|**A Dual-View Approach to Classifying Radiology Reports by Co-Training**|Yutong Han et.al.|[2406.05995v1](http://arxiv.org/abs/2406.05995v1)|[link](https://github.com/manga-uofa/radiology-cotrain)|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
-|**2024-06-10**|**ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization**|Haoran You et.al.|[2406.05981v1](http://arxiv.org/abs/2406.05981v1)|null|
+|**2024-06-10**|**ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization**|Haoran You et.al.|[2406.05981v1](http://arxiv.org/abs/2406.05981v1)|[link](https://github.com/gatech-eic/shiftaddllm)|
 |**2024-06-10**|**Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context**|Jingru Jia et.al.|[2406.05972v1](http://arxiv.org/abs/2406.05972v1)|null|
-|**2024-06-10**|**Prompting Large Language Models with Audio for General-Purpose Speech Summarization**|Wonjune Kang et.al.|[2406.05968v1](http://arxiv.org/abs/2406.05968v1)|null|
+|**2024-06-10**|**Prompting Large Language Models with Audio for General-Purpose Speech Summarization**|Wonjune Kang et.al.|[2406.05968v1](http://arxiv.org/abs/2406.05968v1)|[link](https://github.com/wonjune-kang/llm-speech-summarization)|
 |**2024-06-10**|**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**|David Romero et.al.|[2406.05967v1](http://arxiv.org/abs/2406.05967v1)|null|
 |**2024-06-10**|**MakeSinger: A Semi-Supervised Training Method for Data-Efficient Singing Voice Synthesis via Classifier-free Diffusion Guidance**|Semin Kim et.al.|[2406.05965v1](http://arxiv.org/abs/2406.05965v1)|null|
 |**2024-06-10**|**Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024**|Jinwoo Ahn et.al.|[2406.05963v1](http://arxiv.org/abs/2406.05963v1)|null|
-|**2024-06-10**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955v1](http://arxiv.org/abs/2406.05955v1)|null|
+|**2024-06-10**|**Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**|Yixin Song et.al.|[2406.05955v2](http://arxiv.org/abs/2406.05955v2)|null|
 |**2024-06-10**|**Aligning Large Language Models with Representation Editing: A Control Perspective**|Lingkai Kong et.al.|[2406.05954v1](http://arxiv.org/abs/2406.05954v1)|null|
 |**2024-06-10**|**Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models**|Xi Li et.al.|[2406.05948v1](http://arxiv.org/abs/2406.05948v1)|null|
 |**2024-06-10**|**Safety Alignment Should Be Made More Than Just a Few Tokens Deep**|Xiangyu Qi et.al.|[2406.05946v1](http://arxiv.org/abs/2406.05946v1)|[link](https://github.com/unispac/shallow-vs-deep-alignment)|
-|**2024-06-09**|**Semisupervised Neural Proto-Language Reconstruction**|Liang Lu et.al.|[2406.05930v1](http://arxiv.org/abs/2406.05930v1)|null|
-|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925v1](http://arxiv.org/abs/2406.05925v1)|null|
+|**2024-06-09**|**Semisupervised Neural Proto-Language Reconstruction**|Liang Lu et.al.|[2406.05930v1](http://arxiv.org/abs/2406.05930v1)|[link](https://github.com/cmu-llab/dpd)|
+|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925v1](http://arxiv.org/abs/2406.05925v1)|[link](https://github.com/leolee99/ld-agent)|
 |**2024-06-09**|**Why Don't Prompt-Based Fairness Metrics Correlate?**|Abdelrahman Zayed et.al.|[2406.05918v1](http://arxiv.org/abs/2406.05918v1)|null|
 |**2024-06-09**|**BD-SAT: High-resolution Land Use Land Cover Dataset & Benchmark Results for Developing Division: Dhaka, BD**|Ovi Paul et.al.|[2406.05912v1](http://arxiv.org/abs/2406.05912v1)|null|
 |**2024-06-09**|**Feriji: A French-Zarma Parallel Corpus, Glossary & Translator**|Mamadou K. Keita et.al.|[2406.05888v1](http://arxiv.org/abs/2406.05888v1)|null|
@@ -484,7 +484,7 @@ regimens that are informed by data-driven insights.
 摘要：儘管可穿戴健康追蹤器激增，且睡眠和運動對健康至關重要，但從可穿戴裝置資料中得出可行的個人化見解仍然是一項挑戰，因為這麼做需要對這些資料進行重要的開放式分析。最近大型語言模型 (LLM) 代理程式興起，可以使用工具對世界進行推理和互動，這提供了在規模上進行此類個人化分析的絕佳機會。然而，LLM 代理程式在分析個人健康方面的應用仍未得到充分開發。在本文中，我們介紹了個人健康見解代理 (PHIA)，這是一個代理系統，它利用最先進的程式碼產生和資訊檢索工具來分析和詮釋來自可穿戴裝置的行為健康資料。我們策劃了兩個基準問題解答資料集，包含超過 4000 個健康見解問題。根據 650 小時的人員和專家評估，我們發現 PHIA 能夠準確回答超過 84% 的事實性數字問題和超過 83% 的群眾外包開放式問題。這項工作對促進全體人口的行為健康具有影響，潛在地使個人能夠詮釋他們自己的可穿戴裝置資料，並為一個由資料驅動的見解所揭示的新時代的平易近人、個人化的健康養生法鋪平道路。
 
 ##### **Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**
-2406.06461v1 by Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
+2406.06461v2 by Junlin Wang, Siddhartha Jain, Dejiao Zhang, Baishakhi Ray, Varun Kumar, Ben Athiwaratkun
 
 A diverse array of reasoning strategies has been proposed to elicit the
 capabilities of large language models. However, in this paper, we point out
@@ -503,7 +503,7 @@ literature. In this scale-aware perspective, we find that unlike
 self-consistency, certain strategies such as multi-agent debate or Reflexion
 can become worse if more compute budget is utilized.
 
-摘要：<paragraph>已提出各種不同的推理策略來引出大型語言模型的能力。然而，在本文中，我們指出僅專注於效能指標的傳統評估遺漏了一個關鍵因素：由於額外運算而增加的效能。透過忽略這個面向，通常會呈現出策略效率的偏差觀點。本文介紹了一個將運算預算納入評估的架構，提供了一個更具參考性的比較，同時考量效能指標和運算成本。在這個考量預算的觀點中，我們發現複雜的推理策略通常並非僅由於演算法的巧妙而超越更簡單的基準，而是由於配置了更大的運算資源。當我們提供一個簡單的基準，例如具有可比運算資源的思想鏈自洽性時，它經常優於文獻中提出的推理策略。在這個考量規模的觀點中，我們發現與自洽性不同，某些策略（例如多主體辯論或 Reflexion）在使用更多運算預算時可能會變得更糟。</paragraph>
+摘要：<paragraph>為引出大型語言模型的能力，已經提出各種不同的推理策略。然而，在本文中，我們指出僅專注於效能指標的傳統評估遺漏了一個關鍵因素：由於額外的運算而增加的效率。透過忽略這個面向，通常會呈現一種策略效率的扭曲觀點。本文引入了將運算預算納入評估的架構，提供更具參考價值的比較，同時考量效能指標和運算成本。在這個考量預算的觀點中，我們發現複雜的推理策略通常不會純粹因為演算法的獨創性而超越較簡單的基準，而是因為分配了較大的運算資源。當我們提供一個簡單的基準，例如具有可比較運算資源的思考鏈自洽性，它經常優於文獻中提出的推理策略。在這個考量規模的觀點中，我們發現與自洽性不同，某些策略（例如多重代理辯論或 Reflexion）在使用更多運算預算時可能會變得更糟。</paragraph>
 
 ##### **Evaluating the Retrieval Component in LLM-Based Question Answering Systems**
 2406.06458v1 by Ashkan Alinejad, Krtin Kumar, Ali Vahdat
@@ -672,15 +672,15 @@ https://github.com/ITM-Kitware/llm-alignable-dm.
 https://github.com/ITM-Kitware/llm-alignable-dm。
 
 ##### **DISCO: An End-to-End Bandit Framework for Personalised Discount Allocation**
-2406.06433v1 by Jason Shuo Zhang, Benjamin Howson, Panayiota Savva, Eleanor Loh
+2406.06433v2 by Jason Shuo Zhang, Benjamin Howson, Panayiota Savva, Eleanor Loh
 
 Personalised discount codes provide a powerful mechanism for managing
 customer relationships and operational spend in e-commerce. Bandits are well
 suited for this product area, given the partial information nature of the
 problem, as well as the need for adaptation to the changing business
 environment. Here, we introduce DISCO, an end-to-end contextual bandit
-framework for personalised discount code allocation at ASOS.com. DISCO adapts
-the traditional Thompson Sampling algorithm by integrating it within an integer
+framework for personalised discount code allocation at ASOS. DISCO adapts the
+traditional Thompson Sampling algorithm by integrating it within an integer
 program, thereby allowing for operational cost control. Because bandit learning
 is often worse with high dimensional actions, we focused on building low
 dimensional action and context representations that were nonetheless capable of
@@ -701,7 +701,7 @@ constraint. Finally, we subjected DISCO to a rigorous online A/B test, and find
 that it achieves a significant improvement of >1% in average basket value,
 relative to the legacy systems.
 
-摘要：<paragraph>個人化折扣碼提供了一種強大的機制來管理電子商務中的客戶關係和營運支出。由於問題的部分資訊性質，以及適應不斷變化的商業環境的需求，強盜非常適合這個產品領域。在此，我們介紹 DISCO，一個針對 ASOS.com 上個人化折扣碼分配的端到端情境強盜框架。DISCO 透過將傳統的 Thompson Sampling 演算法整合到一個整數程式中來進行調整，從而允許營運成本控制。由於強盜學習通常在高維度動作中較差，因此我們專注於建立低維度動作和情境表示，這些表示仍然能夠有良好的準確度。此外，我們尋求建立一個保留價格和銷售之間關係的模型，其中客戶會因應較低的價格而增加購買（「負價格彈性」）。這些目標是透過使用徑向基函數來表示連續的（即無限武裝）動作空間，並結合從神經網路中提取的情境嵌入來實現。這些特徵表示在 Thompson Sampling 框架中用於促進探索，並進一步與整數程式整合，以在 ASOS 的客戶群中分配折扣碼。這些建模決策產生了一個獎勵模型，該模型 (a) 能夠跨類似動作進行匯集學習，(b) 具有很高的準確度，包括外推，以及 (c) 保留預期的負價格彈性。透過離線分析，我們表明 DISCO 能夠有效地制定探索並隨著時間推移提高其效能，儘管存在全球約束。最後，我們對 DISCO 進行了嚴格的線上 A/B 測試，發現它在平均購物籃價值方面取得了 >1% 的顯著改善，相對於傳統系統。</paragraph>
+摘要：個人化折扣碼提供了一個強大的機制來管理電子商務中的客戶關係和營運支出。考量到問題的部分資訊性質以及適應不斷變化的商業環境的需求，強盜非常適合這個產品領域。在這裡，我們介紹 DISCO，一個端到端的脈絡強盜框架，用於 ASOS 的個人化折扣碼分配。DISCO 通過將傳統的湯普森採樣演算法整合到整數程式中來進行調整，從而允許運營成本控制。由於強盜學習通常在高維動作下會更糟，因此我們專注於建構低維動作和脈絡表示，這些表示仍然能夠具有良好的準確性。此外，我們試圖建立一個模型來保留價格和銷售之間的關係，其中客戶會因價格降低而增加購買量（「負價格彈性」）。這些目標是透過使用徑向基函數來表示連續（即無限武裝）動作空間，並結合從神經網路中提取的脈絡嵌入來實現的。這些特徵表示被用於湯普森採樣框架中以促進探索，並進一步與整數程式整合以在 ASOS 的客戶群中分配折扣碼。這些建模決策產生了一個獎勵模型，該模型 (a) 能夠跨類似動作進行匯總學習，(b) 具有高度準確性，包括外推，以及 (c) 保留預期的負價格彈性。透過離線分析，我們表明 DISCO 能夠有效地制定探索並隨著時間推移改善其效能，儘管存在全球約束。最後，我們對 DISCO 進行了嚴格的線上 A/B 測試，發現它在平均購物籃價值方面取得了 >1% 的顯著改善，相對於傳統系統。
 
 ##### **Explainable Graph Neural Networks Under Fire**
 2406.06417v1 by Zhong Li, Simon Geisler, Yuhang Wang, Stephan Günnemann, Matthijs van Leeuwen
@@ -963,24 +963,23 @@ automatic modeling of personalized cranial implants.
 摘要：客製化顱骨植入物的建模和製造是重要的研究領域，可能會縮短遭受顱骨損傷患者的等待時間。客製化植入物的建模可以透過使用基於深度學習的方法來部分自動化。然而，此任務會受到先前未見過分佈資料的概括性困難影響，這使得在實際臨床環境中使用研究結果變得困難。由於難以取得地面實況註解，必須考量並引入不同的技術來改善用於訓練深度網路的資料集異質性。在這項工作中，我們提出多種擴充技術的大規模研究，從古典幾何轉換、影像配準、變異自動編碼器和生成對抗網路，到潛在擴散模型的最新進展。我們顯示使用大量資料擴充會顯著增加量化和質化結果，導致 SkullBreak 的平均 Dice 分數高於 0.94，而 SkullFix 資料集則高於 0.96。此外，我們顯示合成擴充網路成功重建真實的臨床缺陷。這項工作為人工智慧在客製化顱骨植入物自動建模領域做出了重大貢獻。
 
 ##### **mHuBERT-147: A Compact Multilingual HuBERT Model**
-2406.06371v1 by Marcely Zanon Boito, Vivek Iyer, Nikolaos Lagos, Laurent Besacier, Ioan Calapodescu
+2406.06371v2 by Marcely Zanon Boito, Vivek Iyer, Nikolaos Lagos, Laurent Besacier, Ioan Calapodescu
 
 We present mHuBERT-147, the first general-purpose massively multilingual
 HuBERT speech representation model trained on 90K hours of clean, open-license
 data. To scale up the multi-iteration HuBERT approach, we use faiss-based
-clustering, achieving 5.2x faster label assignment over the original method. We
+clustering, achieving 5.2x faster label assignment than the original method. We
 also apply a new multilingual batching up-sampling strategy, leveraging both
-language and dataset diversity. After 3 training iterations and with only 95M
-parameters, mHuBERT-147 outperforms larger models trained on substantially more
-data. We rank second and first on the ML-SUPERB 10min/1h leaderboards
-respectively, with SOTA scores for all LID tasks. Across ASR/LID tasks, our
-model consistently surpasses XLS-R (300M params; 436K hours) and demonstrates
-strong competitiveness against the much larger MMS (1B params; 491K hours). Our
-findings suggest that mHuBERT-147 is a promising model for multilingual speech
-processing tasks, offering an unprecedented balance between high performance
-and parameter efficiency.
+language and dataset diversity. After 3 training iterations, our compact 95M
+parameter mHuBERT-147 outperforms larger models trained on substantially more
+data. We rank second and first on the ML-SUPERB 10min and 1h leaderboards, with
+SOTA scores for 3 tasks. Across ASR/LID tasks, our model consistently surpasses
+XLS-R (300M params; 436K hours) and demonstrates strong competitiveness against
+the much larger MMS (1B params; 491K hours). Our findings indicate that
+mHuBERT-147 is a promising model for multilingual speech tasks, offering an
+unprecedented balance between high performance and parameter efficiency.
 
-摘要：我們展示 mHuBERT-147，這是一個經過 90K 小時乾淨、開放許可證資料訓練的第一個通用、大量多語言 HuBERT 語音表示模型。為了擴大多重反覆運算的 HuBERT 方法，我們使用基於 faiss 的分群，達成比原始方法快 5.2 倍的標籤指派。我們也運用一種新的多語言批次上採樣策略，同時利用語言和資料集的多樣性。經過 3 次訓練反覆運算，且僅有 95M 參數，mHuBERT-147 就優於經過更多資料訓練的較大型模型。我們分別在 ML-SUPERB 10 分鐘/1 小時排行榜上排名第二和第一，且所有 LID 任務都有 SOTA 分數。在 ASR/LID 任務中，我們的模型持續超越 XLS-R（300M 參數；436K 小時），並展現出與更大規模的 MMS（1B 參數；491K 小時）的強勁競爭力。我們的發現顯示，mHuBERT-147 是多語言語音處理任務的一個有前途的模型，在高性能和參數效率之間提供前所未有的平衡。
+摘要：我們展示 mHuBERT-147，這是第一個通用的大規模多語言 HuBERT 語音表示模型，訓練於 90K 小時的乾淨開放授權資料。為了擴展多重反覆運算的 HuBERT 方法，我們使用基於 faiss 的群集，實現比原始方法快 5.2 倍的標籤指派。我們也運用新的多語言批次上採樣策略，同時利用語言和資料集的多樣性。經過 3 次訓練反覆運算後，我們的精簡 95M 參數 mHuBERT-147 優於訓練於更多資料的大型模型。我們在 ML-SUPERB 10 分鐘和 1 小時排行榜上分別排名第二和第一，在 3 個任務中獲得 SOTA 分數。在 ASR/LID 任務中，我們的模型持續超越 XLS-R（300M 參數；436K 小時），並展現與更大規模的 MMS（1B 參數；491K 小時）的強勁競爭力。我們的發現指出 mHuBERT-147 是多語言語音任務的有前途模型，在高性能和參數效率之間提供前所未有的平衡。
 
 ##### **Annotation alignment: Comparing LLM and human annotations of conversational safety**
 2406.06369v1 by Rajiv Movva, Pang Wei Koh, Emma Pierson
@@ -1325,7 +1324,7 @@ baseline models.
 摘要：時刻檢索旨在根據給定的自然語言查詢，在未修剪的影片中找到最相關的時刻。現有的解決方案大致可分類為基於時刻和基於片段的方法。前者通常涉及繁重的運算，而後者由於忽略了粗粒度資訊，通常表現不如基於時刻的模型。因此，本文提出了一個新的基於二維指標的機器閱讀理解時刻檢索選擇 (2DP-2MRC) 模型，以解決基於片段的方法中定位不精確的問題，同時維持比基於時刻的方法更低的運算複雜度。具體來說，我們引入了 AV 編碼器來擷取時刻和影片層級的粗粒度資訊。此外，還引入了 2D 指標編碼器模組，以進一步增強目標時刻的邊界檢測。在 HiREST 資料集上的廣泛實驗證明，2DP-2MRC 明顯優於現有的基線模型。
 
 ##### **LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages**
-2406.06196v1 by Andrew M. Bean, Simi Hellsten, Harry Mayne, Jabez Magomere, Ethan A. Chi, Ryan Chi, Scott A. Hale, Hannah Rose Kirk
+2406.06196v2 by Andrew M. Bean, Simi Hellsten, Harry Mayne, Jabez Magomere, Ethan A. Chi, Ryan Chi, Scott A. Hale, Hannah Rose Kirk
 
 In this paper, we present the LingOly benchmark, a novel benchmark for
 advanced reasoning abilities in large language models. Using challenging
@@ -1338,14 +1337,14 @@ formats and 5 levels of human difficulty. We assess performance with both
 direct accuracy and comparison to a no-context baseline to penalise
 memorisation. Scores from 11 state-of-the-art LLMs demonstrate the benchmark to
 be challenging, and models perform poorly on the higher difficulty problems. On
-harder problems, even the top model only achieved 35.3% accuracy, 21.7%
+harder problems, even the top model only achieved 38.7% accuracy, 24.7%
 improvement over the no-context baseline. Large closed models typically
 outperform open models, and in general, the higher resource the language, the
 better the scores. These results indicate, in absence of memorisation, true
 multi-step out-of-domain reasoning remains a challenge for current language
 models.
 
-摘要：在本文中，我们提出了 LingOly Benchmark，这是一个针对大型语言模型的高级推理能力的新基准。通过使用具有挑战性的语言奥林匹克难题，我们评估了（i）在极低资源或灭绝语言中对语言模式进行语境识别和概括的能力，以及（ii）遵循复杂任务说明的能力。LingOly Benchmark 涵盖了 90 多种低资源语言，最大程度地减少了数据污染问题，并包含了 6 种格式和 5 个难度等级的 1,133 个问题。我们通过直接准确性和与无上下文基准的比较来评估性能，以惩罚记忆。来自 11 个最先进 LLM 的分数表明该基准具有挑战性，并且模型在难度较高的难题上表现不佳。在较难的问题上，即使是顶级模型也只达到 35.3% 的准确度，比无上下文基准提高了 21.7%。大型封闭模型通常优于开放模型，并且一般来说，语言资源越多，分数就越好。这些结果表明，在没有记忆的情况下，真正的多步骤域外推理仍然是当前语言模型面临的挑战。
+摘要：在本文中，我们提出了 LingOly 基準，這是大型語言模型中高級推理能力的新基準。使用具有挑戰性的語言奧林匹克謎題，我們評估 (i) 在極低資源或已滅絕的語言中，在情境中識別和概括語言模式的能力，以及 (ii) 遵循複雜任務說明的能力。LingOly 基準涵蓋了 90 多種大多數低資源語言，最大程度地減少了數據污染問題，並包含了 6 種格式和 5 個人類難度級別的 1,133 個問題。我們使用直接準確度和與無情境基準的比較來評估性能，以懲罰記憶。來自 11 個最先進的 LLM 的分數證明了基準具有挑戰性，並且模型在較高難度問題上的表現很差。在更困難的問題上，即使是頂級模型也只達到了 38.7% 的準確度，比無情境基準提高了 24.7%。大型封閉模型通常優於開放模型，而且一般來說，語言資源越多，分數就越好。這些結果表明，在沒有記憶的情況下，真正的多步驟領域外推理仍然是當前語言模型的挑戰。
 
 ##### **Generalized Nested Latent Variable Models for Lossy Coding applied to Wind Turbine Scenarios**
 2406.06165v1 by Raül Pérez-Gonzalo, Andreas Espersen, Antonio Agudo
@@ -2206,7 +2205,7 @@ challenge set.
 摘要：在本文中，介紹了 HYU MLLAB KT 團隊針對多模態演算法推理任務：SMART-101 CVPR 2024 挑戰的解決方案。除了傳統的視覺問答問題之外，SMART-101 挑戰旨在透過解決專為 6-8 歲兒童設計的複雜視覺語言謎題，來達成人類等級的多模態理解。為了解決這個問題，我們提出了兩個主要想法。首先，為了利用大規模語言模型 (LLM) 的推理能力，給定的視覺線索（影像）被基礎化於文字模式中。為了這個目的，我們產生了高度詳細的文字標題，來描述影像的內容，並將這些標題用作 LLM 的輸入。其次，由於謎題影像的本質，通常包含各種幾何視覺模式，我們利用物件偵測演算法來確保這些模式不會在標題處理過程中被忽略。我們採用了 SAM 演算法，它可以偵測各種大小的物件，來擷取這些幾何模式的視覺特徵，並將此資訊用作 LLM 的輸入。在謎題分割配置下，我們在測試集上達到了選項選擇準確度 Oacc 為 29.5，在挑戰集上達到了加權選項選擇準確度 (WOSA) 為 27.1。
 
 ##### **Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters**
-2406.05955v1 by Yixin Song, Haotong Xie, Zhengyan Zhang, Bo Wen, Li Ma, Zeyu Mi, Haibo Chen
+2406.05955v2 by Yixin Song, Haotong Xie, Zhengyan Zhang, Bo Wen, Li Ma, Zeyu Mi, Haibo Chen
 
 Exploiting activation sparsity is a promising approach to significantly
 accelerating the inference process of large language models (LLMs) without
@@ -2227,7 +2226,7 @@ achieves a 2-5x decoding speedup. Remarkably, on mobile phones, our
 TurboSparse-Mixtral-47B achieves an inference speed of 11 tokens per second.
 Our models are available at \url{https://huggingface.co/PowerInfer}
 
-摘要：利用激活稀疏性是一种有前途的方法，可以在不影响性能的情况下显著加速大型语言模型 (LLM) 的推理过程。然而，激活稀疏性是由激活函数决定的，而常用的函数（如 SwiGLU 和 GeGLU）表现出的稀疏性有限。简单地用 ReLU 替换这些函数无法实现足够的稀疏性。此外，训练数据不足会进一步增加性能下降的风险。为了应对这些挑战，我们提出了一个新颖的 dReLU 函数，该函数旨在提高 LLM 激活稀疏性，并采用高质量的训练数据混合比来促进有效的稀疏化。此外，我们利用混合专家 (MoE) 模型的馈送前向网络 (FFN) 专家中的稀疏激活模式来进一步提高效率。通过将我们的神经元稀疏化方法应用于 Mistral 和 Mixtral 模型，每次推理迭代仅激活 25 亿和 43 亿个参数，同时实现更强大的模型性能。评估结果表明，这种稀疏性实现了 2-5 倍的解码速度提升。值得注意的是，在移动电话上，我们的 TurboSparse-Mixtral-47B 的推理速度达到了每秒 11 个标记。我们的模型可在 \url{https://huggingface.co/PowerInfer} 获得
+摘要：利用激活稀疏性是一种很有前途的方法，可以在不影响性能的情况下显著加速大语言模型 (LLM) 的推理过程。然而，激活稀疏性是由激活函数决定的，而常用的激活函数（如 SwiGLU 和 GeGLU）表现出的稀疏性有限。简单地用 ReLU 替换这些函数无法达到足够的稀疏性。此外，不足的训练数据会进一步增加性能下降的风险。为了应对这些挑战，我们提出了一种新颖的 dReLU 函数，该函数旨在提高 LLM 激活稀疏性，并采用高质量的训练数据混合比例来促进有效的稀疏化。此外，我们利用混合专家 (MoE) 模型的馈送前向网络 (FFN) 专家中的稀疏激活模式来进一步提高效率。通过将我们的神经元稀疏化方法应用于 Mistral 和 Mixtral 模型，每次推理迭代仅激活 25 亿和 43 亿个参数，同时实现更强大的模型性能。评估结果表明，这种稀疏性实现了 2-5 倍的解码速度提升。值得注意的是，在移动电话上，我们的 TurboSparse-Mixtral-47B 的推理速度达到每秒 11 个标记。我们的模型可在 \url{https://huggingface.co/PowerInfer} 获得
 
 ##### **Aligning Large Language Models with Representation Editing: A Control Perspective**
 2406.05954v1 by Lingkai Kong, Haorui Wang, Wenhao Mu, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang

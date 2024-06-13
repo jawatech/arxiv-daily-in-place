@@ -2,12 +2,17 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425v1](http://arxiv.org/abs/2406.08425v1)|[link](https://github.com/ayushroy2001/awgunet)|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
+|**2024-06-12**|**Making AI Intelligible: Philosophical Foundations**|Herman Cappelen et.al.|[2406.08134v1](http://arxiv.org/abs/2406.08134v1)|null|
+|**2024-06-12**|**Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks**|Peizhi Niu et.al.|[2406.07917v1](http://arxiv.org/abs/2406.07917v1)|null|
 |**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542v1](http://arxiv.org/abs/2406.07542v1)|[link](https://github.com/davidorp/taukadial)|
 |**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
 |**2024-06-11**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146v1](http://arxiv.org/abs/2406.07146v1)|null|
 |**2024-06-11**|**Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v1](http://arxiv.org/abs/2406.07114v1)|null|
 |**2024-06-11**|**Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets**|Chenxia Tang et.al.|[2406.07028v1](http://arxiv.org/abs/2406.07028v1)|null|
 |**2024-06-10**|**Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss**|Kiran Kokilepersaud et.al.|[2406.06848v1](http://arxiv.org/abs/2406.06848v1)|null|
+|**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835v1](http://arxiv.org/abs/2406.07835v1)|null|
 |**2024-06-10**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786v1](http://arxiv.org/abs/2406.06786v1)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
@@ -17,6 +22,7 @@
 |**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435v1](http://arxiv.org/abs/2406.06435v1)|[link](https://github.com/itm-kitware/llm-alignable-dm)|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372v1](http://arxiv.org/abs/2406.06372v1)|null|
 |**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
+|**2024-06-10**|**BrainChat: Decoding Semantic Information from fMRI using Vision-language Pretrained Models**|Wanaiu Huang et.al.|[2406.07584v1](http://arxiv.org/abs/2406.07584v1)|null|
 |**2024-06-10**|**A Dual-View Approach to Classifying Radiology Reports by Co-Training**|Yutong Han et.al.|[2406.05995v1](http://arxiv.org/abs/2406.05995v1)|[link](https://github.com/manga-uofa/radiology-cotrain)|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-10**|**Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context**|Jingru Jia et.al.|[2406.05972v1](http://arxiv.org/abs/2406.05972v1)|null|
@@ -96,14 +102,102 @@
 |**2024-05-28**|**Histopathology Based AI Model Predicts Anti-Angiogenic Therapy Response in Renal Cancer Clinical Trial**|Jay Jasti et.al.|[2405.18327v1](http://arxiv.org/abs/2405.18327v1)|null|
 |**2024-05-28**|**Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**|Aryo Pradipta Gema et.al.|[2405.18028v1](http://arxiv.org/abs/2405.18028v1)|null|
 |**2024-05-28**|**Towards Clinical AI Fairness: Filling Gaps in the Puzzle**|Mingxuan Liu et.al.|[2405.17921v1](http://arxiv.org/abs/2405.17921v1)|null|
-|**2024-05-28**|**Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing**|Irem Ulku et.al.|[2405.17901v1](http://arxiv.org/abs/2405.17901v1)|null|
-|**2024-05-28**|**AI Alignment with Changing and Influenceable Reward Functions**|Micah Carroll et.al.|[2405.17713v1](http://arxiv.org/abs/2405.17713v1)|null|
-|**2024-05-27**|**The Economic Implications of Large Language Model Selection on Earnings and Return on Investment: A Decision Theoretic Model**|Geraldo Xexéo et.al.|[2405.17637v1](http://arxiv.org/abs/2405.17637v1)|null|
-|**2024-05-27**|**BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale**|ZeMing Gong et.al.|[2405.17537v1](http://arxiv.org/abs/2405.17537v1)|null|
-|**2024-05-27**|**EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**|Yinghao Zhu et.al.|[2406.00036v1](http://arxiv.org/abs/2406.00036v1)|null|
-|**2024-05-27**|**On Fairness of Low-Rank Adaptation of Large Models**|Zhoujie Ding et.al.|[2405.17512v1](http://arxiv.org/abs/2405.17512v1)|null|
 
 #### Abstracts
+##### **AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**
+2406.08425v1 by Ayush Roy, Payel Pramanik, Dmitrii Kaplun, Sergei Antonov, Ram Sarkar
+
+Accurate nuclei segmentation in histopathological images is crucial for
+cancer diagnosis. Automating this process offers valuable support to clinical
+experts, as manual annotation is time-consuming and prone to human errors.
+However, automating nuclei segmentation presents challenges due to uncertain
+cell boundaries, intricate staining, and diverse structures. In this paper, we
+present a segmentation approach that combines the U-Net architecture with a
+DenseNet-121 backbone, harnessing the strengths of both to capture
+comprehensive contextual and spatial information. Our model introduces the
+Wavelet-guided channel attention module to enhance cell boundary delineation,
+along with a learnable weighted global attention module for channel-specific
+attention. The decoder module, composed of an upsample block and convolution
+block, further refines segmentation in handling staining patterns. The
+experimental results conducted on two publicly accessible histopathology
+datasets, namely Monuseg and TNBC, underscore the superiority of our proposed
+model, demonstrating its potential to advance histopathological image analysis
+and cancer diagnosis. The code is made available at:
+https://github.com/AyushRoy2001/AWGUNET.
+
+摘要：組織病理學影像中精確的細胞核分割對於癌症診斷至關重要。自動化此程序可為臨床專家提供有價值的支援，因為手動註解既耗時又容易發生人為錯誤。然而，由於細胞邊界不確定、染色複雜且結構多樣，自動化細胞核分割會產生挑戰。在本文中，我們提出了一種分割方法，將 U-Net 架構與 DenseNet-121 主幹結合，利用兩者的優勢來擷取全面的上下文和空間資訊。我們的模型引入了小波導向通道注意模組，以增強細胞邊界的描繪，以及一個可學習的加權全局注意模組，用於特定通道的注意。解碼器模組由上採樣區塊和卷積區塊組成，進一步優化了處理染色模式的分割。在兩個公開可用的組織病理學資料集（即 Monuseg 和 TNBC）上進行的實驗結果，突顯了我們提出的模型的優越性，證明了其在推進組織病理學影像分析和癌症診斷方面的潛力。程式碼可在以下位置取得：https://github.com/AyushRoy2001/AWGUNET。
+
+##### **2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**
+2406.08374v1 by Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou
+
+Positron Emission Tomography (PET) is an important clinical imaging tool but
+inevitably introduces radiation hazards to patients and healthcare providers.
+Reducing the tracer injection dose and eliminating the CT acquisition for
+attenuation correction can reduce the overall radiation dose, but often results
+in PET with high noise and bias. Thus, it is desirable to develop 3D methods to
+translate the non-attenuation-corrected low-dose PET (NAC-LDPET) into
+attenuation-corrected standard-dose PET (AC-SDPET). Recently, diffusion models
+have emerged as a new state-of-the-art deep learning method for image-to-image
+translation, better than traditional CNN-based methods. However, due to the
+high computation cost and memory burden, it is largely limited to 2D
+applications. To address these challenges, we developed a novel 2.5D Multi-view
+Averaging Diffusion Model (MADM) for 3D image-to-image translation with
+application on NAC-LDPET to AC-SDPET translation. Specifically, MADM employs
+separate diffusion models for axial, coronal, and sagittal views, whose outputs
+are averaged in each sampling step to ensure the 3D generation quality from
+multiple views. To accelerate the 3D sampling process, we also proposed a
+strategy to use the CNN-based 3D generation as a prior for the diffusion model.
+Our experimental results on human patient studies suggested that MADM can
+generate high-quality 3D translation images, outperforming previous CNN-based
+and Diffusion-based baseline methods.
+
+摘要：正子發射斷層掃描 (PET) 是一種重要的臨床影像工具，但不可避免地會對患者和醫療保健提供者造成輻射危害。降低示蹤劑注射劑量並消除電腦斷層掃描以進行衰減校正可以降低整體輻射劑量，但通常會導致 PET 產生高雜訊和偏差。因此，開發 3D 方法將非衰減校正低劑量 PET (NAC-LDPET) 轉換為衰減校正標準劑量 PET (AC-SDPET) 是很重要的。最近，擴散模型已成為一種新的最先進的深度學習方法，用於影像轉換影像，優於傳統的基於 CNN 的方法。然而，由於高運算成本和記憶體負擔，它在很大程度上僅限於 2D 應用程式。為了應對這些挑戰，我們開發了一種新穎的 2.5D 多視圖平均擴散模型 (MADM)，用於 3D 影像轉換影像，並應用於 NAC-LDPET 轉換為 AC-SDPET。具體來說，MADM 為軸向、冠狀和矢狀視圖採用了單獨的擴散模型，其輸出在每個採樣步驟中取平均值，以確保從多個視圖中進行 3D 生成品質。為了加速 3D 採樣過程，我們還提出了一種策略，將基於 CNN 的 3D 生成用作擴散模型的先驗。我們在人體患者研究中得到的實驗結果表明，MADM 可以生成高品質的 3D 轉換影像，優於先前的基於 CNN 和基於擴散的基線方法。
+
+##### **Making AI Intelligible: Philosophical Foundations**
+2406.08134v1 by Herman Cappelen, Josh Dever
+
+Can humans and artificial intelligences share concepts and communicate?
+'Making AI Intelligible' shows that philosophical work on the metaphysics of
+meaning can help answer these questions. Herman Cappelen and Josh Dever use the
+externalist tradition in philosophy to create models of how AIs and humans can
+understand each other. In doing so, they illustrate ways in which that
+philosophical tradition can be improved.
+  The questions addressed in the book are not only theoretically interesting,
+but the answers have pressing practical implications. Many important decisions
+about human life are now influenced by AI. In giving that power to AI, we
+presuppose that AIs can track features of the world that we care about (for
+example, creditworthiness, recidivism, cancer, and combatants). If AIs can
+share our concepts, that will go some way towards justifying this reliance on
+AI. This ground-breaking study offers insight into how to take some first steps
+towards achieving Interpretable AI.
+
+摘要：人類與人工智慧能共享概念並溝通嗎？
+「讓人工智慧易於理解」一書表明，關於意義的形上學哲學著作有助於回答這些問題。赫爾曼·卡佩倫和喬希·德弗利用哲學中的外在主義傳統，建立了關於人工智慧和人類如何理解彼此的模型。在這樣做的過程中，他們說明了哲學傳統可以得到改善的方式。
+書中探討的問題不僅在理論上很有趣，而且答案具有迫切的實際意義。許多關於人類生活的重要決定現在都受到人工智慧的影響。在將這種力量賦予人工智慧時，我們預設人工智慧可以追蹤我們關心的世界特徵（例如，信用評分、累犯率、癌症和戰鬥人員）。如果人工智慧能共享我們的概念，這將有助於證明依賴人工智慧的合理性。這項開創性的研究提供了如何採取一些第一步來實現可解釋人工智慧的見解。
+
+##### **Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks**
+2406.07917v1 by Peizhi Niu, Chao Pan, Siheng Chen, Olgica Milenkovic
+
+Graph neural networks (GNNs) have become instrumental in diverse real-world
+applications, offering powerful graph learning capabilities for tasks such as
+social networks and medical data analysis. Despite their successes, GNNs are
+vulnerable to adversarial attacks, including membership inference attacks
+(MIA), which threaten privacy by identifying whether a record was part of the
+model's training data. While existing research has explored MIA in GNNs under
+graph inductive learning settings, the more common and challenging graph
+transductive learning setting remains understudied in this context. This paper
+addresses this gap and proposes an effective two-stage defense, Graph
+Transductive Defense (GTD), tailored to graph transductive learning
+characteristics. The gist of our approach is a combination of a train-test
+alternate training schedule and flattening strategy, which successfully reduces
+the difference between the training and testing loss distributions. Extensive
+empirical results demonstrate the superior performance of our method (a
+decrease in attack AUROC by $9.42\%$ and an increase in utility performance by
+$18.08\%$ on average compared to LBP), highlighting its potential for seamless
+integration into various classification models with minimal overhead.
+
+摘要：圖形神經網路 (GNN) 已成為各種真實世界應用中不可或缺的工具，為社交網路和醫療數據分析等任務提供強大的圖形學習能力。儘管取得成功，GNN 仍容易受到對抗性攻擊，包括成員推論攻擊 (MIA)，這會透過辨識記錄是否為模型訓練資料的一部分來威脅隱私。雖然現有研究已探討圖形歸納學習設定下的 GNN 中的 MIA，但更常見且更具挑戰性的圖形轉導學習設定在此背景下仍未獲得充分研究。本文探討此差距，並提出一個有效的分兩階段防禦機制，圖形轉導防禦 (GTD)，專門針對圖形轉導學習特性量身打造。我們方法的要點是結合訓練測試交替訓練時程和扁平化策略，成功縮小訓練和測試損失分佈之間的差異。廣泛的實證結果證明我們方法的優異效能（與 LBP 相比，攻擊 AUROC 減少 9.42%，效用效能平均增加 18.08%），突顯其在各種分類模型中無縫整合的潛力，且開銷極小。
+
 ##### **Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**
 2406.07542v1 by David Ortiz-Perez, Jose Garcia-Rodriguez, David Tomás
 
@@ -246,6 +340,32 @@ of a taxonomy by integrating our loss into medical and noise-based settings
 that show performance improvements by as much as 7%.
 
 摘要：在這項工作中，我們提出了一種新穎的監督對比損失，它可以在表示學習過程中整合分類層級資訊。監督對比損失透過強制具有相同類別標籤（正樣本）的影像比具有不同類別標籤（負樣本）的影像更接近彼此來運作。這種方法的優點是它直接懲罰表示空間本身的結構。這使得在編碼語意概念方面具有更大的靈活性。然而，標準的監督對比損失僅根據下游任務（即類別標籤）來強制語意結構。實際上，類別標籤只是稱為分類法的一種不同語意關係層級中的其中一層。例如，類別標籤通常是動物的物種，但在不同的類別之間存在更高階的關係，例如所有有翅膀的動物都是「鳥類」。我們表明，透過在對比損失中使用加權懲罰來明確說明這些關係，我們可以優於監督對比損失。此外，我們展示了分類法概念的適應性，方法是將我們的損失整合到醫療和基於雜訊的設定中，這些設定顯示效能提升了 7%。
+
+##### **SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**
+2406.07835v1 by David Wadden, Kejian Shi, Jacob Morrison, Aakanksha Naik, Shruti Singh, Nitzan Barzilay, Kyle Lo, Tom Hope, Luca Soldaini, Shannon Zejiang Shen, Doug Downey, Hannaneh Hajishirzi, Arman Cohan
+
+We present SciRIFF (Scientific Resource for Instruction-Following and
+Finetuning), a dataset of 137K instruction-following demonstrations for 54
+tasks covering five essential scientific literature understanding capabilities:
+information extraction, summarization, question answering, claim verification,
+and classification. SciRIFF demonstrations are notable for their long input
+contexts, detailed task specifications, and complex structured outputs. While
+instruction-following resources are available in specific domains such as
+clinical medicine and chemistry, SciRIFF is the first dataset focused on
+extracting and synthesizing information from research literature across a wide
+range of scientific fields. To demonstrate the utility of SciRIFF, we develop a
+sample-efficient strategy to adapt a general instruction-following model for
+science by performing additional finetuning on a mix of general-domain and
+SciRIFF demonstrations. In evaluations on nine held-out scientific tasks, our
+model -- called SciTulu -- improves over a strong LLM baseline by 28.1% and
+6.5% at the 7B and 70B scales respectively, while maintaining general
+instruction-following performance within 2% of the baseline. We are optimistic
+that SciRIFF will facilitate the development and evaluation of LLMs to help
+researchers navigate the ever-growing body of scientific literature. We release
+our dataset, model checkpoints, and data processing and evaluation code to
+enable further research.
+
+摘要：<paragraph>我們提出 SciRIFF（科學資源，用於遵循說明和微調），這是一個包含 137K 遵循說明的示範資料集，涵蓋 54 項任務，涵蓋五項重要的科學文獻理解能力：資訊擷取、摘要、問答、聲明驗證和分類。SciRIFF 示範以其長的輸入內容、詳細的任務規格和複雜的結構化輸出而聞名。雖然特定領域（例如臨床醫學和化學）有遵循說明的資源，但 SciRIFF 是第一個專注於從各種科學領域的研究文獻中提取和綜合資訊的資料集。為了展示 SciRIFF 的效用，我們制定了一種樣本有效率的策略，透過在一般領域和 SciRIFF 示範的組合上執行額外的微調，來調整一般遵循說明的模型以適應科學。在九項已暫停的科學任務的評估中，我們的模型（稱為 SciTulu）在 7B 和 70B 規模分別比強大的 LLM 基準提高了 28.1% 和 6.5%，同時將一般遵循說明的效能維持在基準的 2% 以內。我們樂觀地認為 SciRIFF 將有助於開發和評估 LLM，以幫助研究人員瀏覽不斷增長的科學文獻。我們釋出我們的資料集、模型檢查點，以及資料處理和評估程式碼，以利進一步的研究。</paragraph>
 
 ##### **BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**
 2406.06786v1 by June-Woo Kim, Miika Toikkanen, Yera Choi, Seoung-Eun Moon, Ho-Young Jung
@@ -480,6 +600,32 @@ the resource-constrained medical domain. We will share our benchmark datasets
 and the trained model.
 
 摘要：本文介绍了 MedExQA，这是一个医学问答领域的新基准，用于通过解释评估大型语言模型 (LLM) 对医学知识的理解。通过在当前数据集中的五个代表性不足的不同医学专业领域构建数据集，并为每个问题-答案对进一步纳入多个解释，我们解决了当前医学问答基准中的一大缺陷，即缺乏对 LLM 生成细微医学解释的能力的全面评估。我们的工作强调了可解释性在医学 LLM 中的重要性，提出了一种超越分类准确度来评估模型的有效方法，并阐明了一个特定领域，即语言病理学，其中包括 GPT4 在内的当前 LLM 缺乏良好的理解。我们的结果表明，使用多个解释进行生成评估与人类评估更一致，突显了对 LLM 进行更稳健的自动理解评估的机会。为了使开源医学 LLM 多样化（目前主要基于 Llama2），这项工作还提出了一种新的医学模型 MedPhi-2，基于 Phi-2 (2.7B)。该模型在生成解释方面优于基于 Llama2-70B 的医学 LLM，显示了其在资源受限的医学领域的有效性。我们将分享我们的基准数据集和训练好的模型。
+
+##### **BrainChat: Decoding Semantic Information from fMRI using Vision-language Pretrained Models**
+2406.07584v1 by Wanaiu Huang
+
+Semantic information is vital for human interaction, and decoding it from
+brain activity enables non-invasive clinical augmentative and alternative
+communication. While there has been significant progress in reconstructing
+visual images, few studies have focused on the language aspect. To address this
+gap, leveraging the powerful capabilities of the decoder-based vision-language
+pretrained model CoCa, this paper proposes BrainChat, a simple yet effective
+generative framework aimed at rapidly accomplishing semantic information
+decoding tasks from brain activity, including fMRI question answering and fMRI
+captioning. BrainChat employs the self-supervised approach of Masked Brain
+Modeling to encode sparse fMRI data, obtaining a more compact embedding
+representation in the latent space. Subsequently, BrainChat bridges the gap
+between modalities by applying contrastive loss, resulting in aligned
+representations of fMRI, image, and text embeddings. Furthermore, the fMRI
+embeddings are mapped to the generative Brain Decoder via cross-attention
+layers, where they guide the generation of textual content about fMRI in a
+regressive manner by minimizing caption loss. Empirically, BrainChat exceeds
+the performance of existing state-of-the-art methods in the fMRI captioning
+task and, for the first time, implements fMRI question answering. Additionally,
+BrainChat is highly flexible and can achieve high performance without image
+data, making it better suited for real-world scenarios with limited data.
+
+摘要：語義資訊對於人類互動至關重要，而從大腦活動中解碼語義資訊則能實現非侵入性的臨床擴增和替代溝通。儘管在重建視覺影像方面已取得顯著進展，但鮮少有研究關注語言面向。為了解決這個落差，本文利用編碼器為基礎的視覺語言預訓練模型 CoCa 的強大功能，提出 BrainChat，這是一個簡單但有效的生成式架構，旨在快速完成大腦活動的語義資訊解碼任務，包括 fMRI 問答和 fMRI 標題。BrainChat 採用遮罩大腦建模的自我監督方法來編碼稀疏的 fMRI 資料，在潛在空間中取得更緊湊的嵌入表示。隨後，BrainChat 透過套用對比損失來彌合模態之間的差距，產生 fMRI、影像和文字嵌入的對齊表示。此外，fMRI 嵌入透過交叉注意力層對應到生成式大腦解碼器，其中它們以遞減方式引導產生有關 fMRI 的文字內容，藉此最小化標題損失。根據經驗，BrainChat 在 fMRI 標題任務中超越現有最先進方法的效能，並首次實作 fMRI 問答。此外，BrainChat 具有高度彈性，且無需影像資料就能達成高效能，使其更適合資料有限的真實世界場景。
 
 ##### **A Dual-View Approach to Classifying Radiology Reports by Co-Training**
 2406.05995v1 by Yutong Han, Yan Yuan, Lili Mou
@@ -2456,143 +2602,4 @@ professionals to refine AI fairness concepts and methods to ensure contextually
 relevant and ethically sound AI applications in healthcare.
 
 摘要：人工智慧 (AI) 在醫療保健中的倫理整合需要處理公平性——這個概念在各個醫療領域中高度特定於情境。已經進行了廣泛的研究來擴展 AI 公平性的技術組成，而來自醫療保健的 AI 公平性呼聲也很大。儘管如此，技術進步與其實際臨床應用之間仍然存在顯著的脫節，導致在臨床環境中缺乏對 AI 公平性的情境化討論。透過詳細的證據差距分析，我們的回顧系統性地找出了與醫療保健資料和提供的 AI 公平性解決方案相關的幾個缺陷。我們強調在許多醫療領域中缺乏對 AI 公平性的研究，而這些領域中 AI 技術的使用越來越多。此外，我們的分析強調了對群體公平性的實質依賴，旨在從巨觀醫療保健系統的角度確保人口群體之間的平等；相比之下，關注更細緻層級公平性的個別公平性常常被忽視。為了彌補這些差距，我們的回顧提出了針對醫療保健和 AI 研究社群的可行策略。除了在醫療保健中應用現有的 AI 公平性方法之外，我們進一步強調了讓醫療保健專業人員參與的重要性，以完善 AI 公平性概念和方法，以確保在醫療保健中具有情境相關性和符合倫理的 AI 應用。
-
-##### **Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing**
-2405.17901v1 by Irem Ulku, O. Ozgur Tanriover, Erdem Akagündüz
-
-Plant health can be monitored dynamically using multispectral sensors that
-measure Near-Infrared reflectance (NIR). Despite this potential, obtaining and
-annotating high-resolution NIR images poses a significant challenge for
-training deep neural networks. Typically, large networks pre-trained on the RGB
-domain are utilized to fine-tune infrared images. This practice introduces a
-domain shift issue because of the differing visual traits between RGB and NIR
-images.As an alternative to fine-tuning, a method called low-rank adaptation
-(LoRA) enables more efficient training by optimizing rank-decomposition
-matrices while keeping the original network weights frozen. However, existing
-parameter-efficient adaptation strategies for remote sensing images focus on
-RGB images and overlook domain shift issues in the NIR domain. Therefore, this
-study investigates the potential benefits of using vision transformer (ViT)
-backbones pre-trained in the RGB domain, with low-rank adaptation for
-downstream tasks in the NIR domain. Extensive experiments demonstrate that
-employing LoRA with pre-trained ViT backbones yields the best performance for
-downstream tasks applied to NIR images.
-
-摘要：利用测量近红外反射 (NIR) 的多光谱传感器，可以动态监测植物健康。尽管有此潜力，但获取和注释高分辨率 NIR 图像对训练深度神经网络构成了重大挑战。通常，利用预先在 RGB 域上训练的大型网络来微调红外图像。由于 RGB 和 NIR 图像之间的视觉特征不同，这种做法引入了域偏移问题。作为微调的替代方案，一种称为低秩适应 (LoRA) 的方法通过优化秩分解矩阵同时保持原始网络权重冻结，从而实现更有效的训练。然而，现有的用于遥感图像的参数高效适应策略专注于 RGB 图像，而忽略了 NIR 域中的域偏移问题。因此，本研究调查了在 RGB 域中预先训练的视觉转换器 (ViT) 主干使用低秩适应在 NIR 域的下游任务中使用视觉转换器 (ViT) 主干的潜在优势。大量实验表明，将 LoRA 与预先训练的 ViT 主干结合使用，可为应用于 NIR 图像的下游任务带来最佳性能。
-
-##### **AI Alignment with Changing and Influenceable Reward Functions**
-2405.17713v1 by Micah Carroll, Davis Foote, Anand Siththaranjan, Stuart Russell, Anca Dragan
-
-Existing AI alignment approaches assume that preferences are static, which is
-unrealistic: our preferences change, and may even be influenced by our
-interactions with AI systems themselves. To clarify the consequences of
-incorrectly assuming static preferences, we introduce Dynamic Reward Markov
-Decision Processes (DR-MDPs), which explicitly model preference changes and the
-AI's influence on them. We show that despite its convenience, the
-static-preference assumption may undermine the soundness of existing alignment
-techniques, leading them to implicitly reward AI systems for influencing user
-preferences in ways users may not truly want. We then explore potential
-solutions. First, we offer a unifying perspective on how an agent's
-optimization horizon may partially help reduce undesirable AI influence. Then,
-we formalize different notions of AI alignment that account for preference
-change from the outset. Comparing the strengths and limitations of 8 such
-notions of alignment, we find that they all either err towards causing
-undesirable AI influence, or are overly risk-averse, suggesting that a
-straightforward solution to the problems of changing preferences may not exist.
-As there is no avoiding grappling with changing preferences in real-world
-settings, this makes it all the more important to handle these issues with
-care, balancing risks and capabilities. We hope our work can provide conceptual
-clarity and constitute a first step towards AI alignment practices which
-explicitly account for (and contend with) the changing and influenceable nature
-of human preferences.
-
-摘要：現有的 AI 對齊方法假設偏好是靜態的，這是不切實際的：我們的偏好會改變，甚至可能受到我們與 AI 系統互動的影響。為了釐清錯誤假設靜態偏好的後果，我們引入了動態獎勵馬可夫決策過程 (DR-MDP)，它明確地模擬了偏好變化和 AI 對它們的影響。我們表明，儘管其便利性，但靜態偏好假設可能會破壞現有對齊技術的健全性，導致它們隱式地獎勵 AI 系統以影響用戶偏好的方式，而用戶可能並非真正想要。然後，我們探討潛在的解決方案。首先，我們提供了一個統一的觀點，說明代理的最佳化範圍如何在一定程度上幫助減少不良的 AI 影響。然後，我們形式化了不同的 AI 對齊概念，這些概念從一開始就考慮了偏好變化。比較這 8 個對齊概念的優缺點，我們發現它們要么會導致不良的 AI 影響，要么過於迴避風險，這表明可能不存在改變偏好的問題的直接解決方案。由於在現實環境中無法避免應對偏好的改變，這使得以謹慎的方式處理這些問題變得更加重要，權衡風險和能力。我們希望我們的研究可以提供概念上的清晰度，並構成朝著 AI 對齊實務邁出的第一步，這些實務明確考慮（並應對）人類偏好的多變性和可影響性。
-
-##### **The Economic Implications of Large Language Model Selection on Earnings and Return on Investment: A Decision Theoretic Model**
-2405.17637v1 by Geraldo Xexéo, Filipe Braida, Marcus Parreiras, Paulo Xavier
-
-Selecting language models in business contexts requires a careful analysis of
-the final financial benefits of the investment. However, the emphasis of
-academia and industry analysis of LLM is solely on performance. This work
-introduces a framework to evaluate LLMs, focusing on the earnings and return on
-investment aspects that should be taken into account in business decision
-making. We use a decision-theoretic approach to compare the financial impact of
-different LLMs, considering variables such as the cost per token, the
-probability of success in the specific task, and the gain and losses associated
-with LLMs use. The study reveals how the superior accuracy of more expensive
-models can, under certain conditions, justify a greater investment through more
-significant earnings but not necessarily a larger RoI. This article provides a
-framework for companies looking to optimize their technology choices, ensuring
-that investment in cutting-edge technology aligns with strategic financial
-objectives. In addition, we discuss how changes in operational variables
-influence the economics of using LLMs, offering practical insights for
-enterprise settings, finding that the predicted gain and loss and the different
-probabilities of success and failure are the variables that most impact the
-sensitivity of the models.
-
-摘要：在商業背景下選擇語言模型需要仔細分析投資的最終財務效益。然而，學術界和產業分析 LLM 的重點僅在於效能。本研究引入了評估 LLM 的架構，重點在於應在商業決策中考量的收益和投資報酬率方面。我們使用決策理論方法來比較不同 LLM 的財務影響，考量變數，例如每個代幣的成本、在特定任務中成功的機率，以及與使用 LLM 相關的收益和損失。研究揭示了在特定條件下，更昂貴的模型的優越準確度如何能透過更顯著的收益證明更大的投資，但不一定能證明更大的投資報酬率。本文提供了一個架構，供尋求最佳化其技術選擇的公司使用，確保對尖端技術的投資與策略性財務目標一致。此外，我們討論了營運變數的變化如何影響使用 LLM 的經濟效益，提供企業環境的實用見解，發現預測的收益和損失以及成功的不同機率和失敗的機率是影響模型敏感度的變數。
-
-##### **BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale**
-2405.17537v1 by ZeMing Gong, Austin T. Wang, Joakim Bruslund Haurum, Scott C. Lowe, Graham W. Taylor, Angel X. Chang
-
-Measuring biodiversity is crucial for understanding ecosystem health. While
-prior works have developed machine learning models for the taxonomic
-classification of photographic images and DNA separately, in this work, we
-introduce a multimodal approach combining both, using CLIP-style contrastive
-learning to align images, DNA barcodes, and textual data in a unified embedding
-space. This allows for accurate classification of both known and unknown insect
-species without task-specific fine-tuning, leveraging contrastive learning for
-the first time to fuse DNA and image data. Our method surpasses previous
-single-modality approaches in accuracy by over 11% on zero-shot learning tasks,
-showcasing its effectiveness in biodiversity studies.
-
-摘要：測量生物多樣性對於了解生態系統健康至關重要。雖然先前的工作已針對攝影影像和 DNA 的分類學分類分別開發機器學習模型，但在這項工作中，我們引入了結合兩者的多模式方法，使用 CLIP 風格的對比學習來比對影像、DNA 條碼和統一嵌入空間中的文字資料。這允許對已知和未知昆蟲物種進行準確分類，無需特定任務的微調，首次利用對比學習來融合 DNA 和影像資料。我們的模型在零次學習任務中超越了先前的單一模式方法，準確度提高了 11% 以上，展示了其在生物多樣性研究中的有效性。
-
-##### **EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**
-2406.00036v1 by Yinghao Zhu, Changyu Ren, Zixiang Wang, Xiaochen Zheng, Shiyun Xie, Junlan Feng, Xi Zhu, Zhoujun Li, Liantao Ma, Chengwei Pan
-
-The integration of multimodal Electronic Health Records (EHR) data has
-notably advanced clinical predictive capabilities. However, current models that
-utilize clinical notes and multivariate time-series EHR data often lack the
-necessary medical context for precise clinical tasks. Previous methods using
-knowledge graphs (KGs) primarily focus on structured knowledge extraction. To
-address this, we propose EMERGE, a Retrieval-Augmented Generation (RAG) driven
-framework aimed at enhancing multimodal EHR predictive modeling. Our approach
-extracts entities from both time-series data and clinical notes by prompting
-Large Language Models (LLMs) and aligns them with professional PrimeKG to
-ensure consistency. Beyond triplet relationships, we include entities'
-definitions and descriptions to provide richer semantics. The extracted
-knowledge is then used to generate task-relevant summaries of patients' health
-statuses. These summaries are fused with other modalities utilizing an adaptive
-multimodal fusion network with cross-attention. Extensive experiments on the
-MIMIC-III and MIMIC-IV datasets for in-hospital mortality and 30-day
-readmission tasks demonstrate the superior performance of the EMERGE framework
-compared to baseline models. Comprehensive ablation studies and analyses
-underscore the efficacy of each designed module and the framework's robustness
-to data sparsity. EMERGE significantly enhances the use of multimodal EHR data
-in healthcare, bridging the gap with nuanced medical contexts crucial for
-informed clinical predictions.
-
-摘要：多模態電子健康紀錄（EHR）資料的整合顯著地提升了臨床預測能力。然而，目前利用臨床筆記和多變數時間序列 EHR 資料的模型，通常缺乏精確臨床任務所需的醫療背景。先前使用知識圖譜 (KG) 的方法主要專注於結構化知識萃取。為了解決這個問題，我們提出 EMERGE，一個以檢索增強生成 (RAG) 為主的架構，旨在增強多模態 EHR 預測模型。我們的做法是透過提示大型語言模型 (LLM) 從時間序列資料和臨床筆記中萃取實體，並將它們與專業 PrimeKG 比對，以確保一致性。除了三元關係之外，我們還包含實體的定義和描述，以提供更豐富的語意。萃取的知識接著用於產生與任務相關的患者健康狀態摘要。這些摘要利用具有交叉注意力的自適應多模態融合網路與其他模態融合。在 MIMIC-III 和 MIMIC-IV 資料集上進行的廣泛實驗，針對院內死亡率和 30 天再入院任務，證明了 EMERGE 框架與基準模型相比具有優越的效能。全面的消融研究和分析強調了每個設計模組的功效，以及該框架對資料稀疏性的穩健性。EMERGE 大幅提升了多模態 EHR 資料在醫療保健中的使用，彌補了對明智臨床預測至關重要的細微醫療背景的差距。
-
-##### **On Fairness of Low-Rank Adaptation of Large Models**
-2405.17512v1 by Zhoujie Ding, Ken Ziyu Liu, Pura Peetathawatchai, Berivan Isik, Sanmi Koyejo
-
-Low-rank adaptation of large models, particularly LoRA, has gained traction
-due to its computational efficiency. This efficiency, contrasted with the
-prohibitive costs of full-model fine-tuning, means that practitioners often
-turn to LoRA and sometimes without a complete understanding of its
-ramifications. In this study, we focus on fairness and ask whether LoRA has an
-unexamined impact on utility, calibration, and resistance to membership
-inference across different subgroups (e.g., genders, races, religions) compared
-to a full-model fine-tuning baseline. We present extensive experiments across
-vision and language domains and across classification and generation tasks
-using ViT-Base, Swin-v2-Large, Llama-2 7B, and Mistral 7B. Intriguingly,
-experiments suggest that while one can isolate cases where LoRA exacerbates
-model bias across subgroups, the pattern is inconsistent -- in many cases, LoRA
-has equivalent or even improved fairness compared to the base model or its full
-fine-tuning baseline. We also examine the complications of evaluating
-fine-tuning fairness relating to task design and model token bias, calling for
-more careful fairness evaluations in future work.
-
-摘要：低秩大型模型的適應，特別是 LoRA，由於其計算效率而獲得關注。此效率與全模型微調的禁止成本形成對比，這表示從業者經常求助於 LoRA，有時卻不完全了解其後果。在本研究中，我們專注於公平性，並詢問 LoRA 是否對效用、校準和與全模型微調基準線相比，對不同子群（例如性別、種族、宗教）的成員推論的抵抗力有未經檢驗的影響。我們在視覺和語言領域以及使用 ViT-Base、Swin-v2-Large、Llama-2 7B 和 Mistral 7B 的分類和生成任務中展示了廣泛的實驗。有趣的是，實驗表明，雖然人們可以找出 LoRA 在子群中加劇模型偏差的情況，但模式並不一致——在許多情況下，與基礎模型或其全微調基準線相比，LoRA 具有相等甚至更好的公平性。我們還檢驗了與任務設計和模型代幣偏差相關的微調公平性評估的複雜性，呼籲在未來的研究中進行更仔細的公平性評估。
 

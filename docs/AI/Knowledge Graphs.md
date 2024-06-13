@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223v1](http://arxiv.org/abs/2406.08223v1)|null|
+|**2024-06-12**|**SHACL2FOL: An FOL Toolkit for SHACL Decision Problems**|Paolo Pareti et.al.|[2406.08018v1](http://arxiv.org/abs/2406.08018v1)|[link](https://github.com/paolo7/shacl2fol)|
+|**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727v1](http://arxiv.org/abs/2406.07727v1)|null|
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
 |**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
 |**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|null|
@@ -99,11 +102,78 @@
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[link](https://github.com/jingkang50/psg4d)|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288v2](http://arxiv.org/abs/2405.10288v2)|null|
 |**2024-05-16**|**KnowledgeHub: An end-to-end Tool for Assisted Scientific Discovery**|Shinnosuke Tanaka et.al.|[2406.00008v1](http://arxiv.org/abs/2406.00008v1)|null|
-|**2024-05-15**|**SCI 3.0: A Web-based Schema Curation Interface for Graphical Event Representations**|Reece Suchocki et.al.|[2405.09733v2](http://arxiv.org/abs/2405.09733v2)|null|
-|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713v2](http://arxiv.org/abs/2405.09713v2)|null|
-|**2024-05-15**|**STAR: A Benchmark for Situated Reasoning in Real-World Videos**|Bo Wu et.al.|[2405.09711v1](http://arxiv.org/abs/2405.09711v1)|null|
 
 #### Abstracts
+##### **Research Trends for the Interplay between Large Language Models and Knowledge Graphs**
+2406.08223v1 by Hanieh Khorashadizadeh, Fatima Zahra Amara, Morteza Ezzabady, Frédéric Ieng, Sanju Tiwari, Nandana Mihindukulasooriya, Jinghua Groppe, Soror Sahri, Farah Benamara, Sven Groppe
+
+This survey investigates the synergistic relationship between Large Language
+Models (LLMs) and Knowledge Graphs (KGs), which is crucial for advancing AI's
+capabilities in understanding, reasoning, and language processing. It aims to
+address gaps in current research by exploring areas such as KG Question
+Answering, ontology generation, KG validation, and the enhancement of KG
+accuracy and consistency through LLMs. The paper further examines the roles of
+LLMs in generating descriptive texts and natural language queries for KGs.
+Through a structured analysis that includes categorizing LLM-KG interactions,
+examining methodologies, and investigating collaborative uses and potential
+biases, this study seeks to provide new insights into the combined potential of
+LLMs and KGs. It highlights the importance of their interaction for improving
+AI applications and outlines future research directions.
+
+摘要：這項調查探討大型語言模型 (LLM) 與知識圖譜 (KG) 之間的協同關係，這對提升 AI 在理解、推理和語言處理方面的能力至關重要。它旨在透過探討知識圖譜問答、本体生成、知識圖譜驗證，以及透過 LLM 增強知識圖譜的準確性和一致性等領域，來解決當前研究中的差距。本文進一步探討 LLM 在為知識圖譜產生描述性文字和自然語言查詢方面的作用。透過一項結構化分析，包括分類 LLM-KG 互動、檢視方法、以及探討協作用途和潛在偏差，本研究旨在提供 LLM 和知識圖譜結合潛力的新見解。它強調了它們互動對於改善 AI 應用程式的重要性，並概述了未來的研究方向。
+
+##### **SHACL2FOL: An FOL Toolkit for SHACL Decision Problems**
+2406.08018v1 by Paolo Pareti
+
+Recent studies on the Shapes Constraint Language (SHACL), a W3C specification
+for validating RDF graphs, rely on translating the language into first-order
+logic in order to provide formally-grounded solutions to the validation,
+containment and satisfiability decision problems. Continuing on this line of
+research, we introduce SHACL2FOL, the first automatic tool that (i) translates
+SHACL documents into FOL sentences and (ii) computes the answer to the two
+static analysis problems of satisfiability and containment; it also allow to
+test the validity of a graph with respect to a set of constraints. By
+integrating with existing theorem provers, such as E and Vampire, the tool
+computes the answer to the aforementioned decision problems and outputs the
+corresponding first-order logic theories in the standard TPTP format. We
+believe this tool can contribute to further theoretical studies of SHACL, by
+providing an automatic first-order logic interpretation of its semantics, while
+also benefiting SHACL practitioners, by supplying static analysis capabilities
+to help the creation and management of SHACL constraints.
+
+摘要：最近對形狀約束語言 (SHACL) 的研究，W3C 規範用於驗證 RDF 圖形，依賴於將語言轉譯成一階邏輯，以便針對驗證、包含和可滿足性決策問題提供正式依據的解決方案。延續這條研究路線，我們介紹 SHACL2FOL，第一個自動工具：(i) 將 SHACL 文件轉譯成 FOL 句子，以及 (ii) 計算可滿足性和包含這兩個靜態分析問題的答案；它也允許測試圖形相對於一組約束的有效性。藉由整合現有的定理證明器，例如 E 和 Vampire，此工具計算前述決策問題的答案，並輸出標準 TPTP 格式中對應的一階邏輯理論。我們相信此工具有助於進一步的 SHACL 理論研究，藉由提供其語意的自動一階邏輯詮釋，同時也讓 SHACL 從業人員受益，藉由提供靜態分析功能來協助建立和管理 SHACL 約束。
+
+##### **Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**
+2406.07727v1 by Jesmin Jahan Tithi, Fabio Checconi, Fabrizio Petrini
+
+Multi-hop reasoning (MHR) is a process in artificial intelligence and natural
+language processing where a system needs to make multiple inferential steps to
+arrive at a conclusion or answer. In the context of knowledge graphs or
+databases, it involves traversing multiple linked entities and relationships to
+understand complex queries or perform tasks requiring a deeper understanding.
+Multi-hop reasoning is a critical function in various applications, including
+question answering, knowledge base completion, and link prediction. It has
+garnered significant interest in artificial intelligence, machine learning, and
+graph analytics.
+  This paper focuses on optimizing MHR for time efficiency on large-scale
+graphs, diverging from the traditional emphasis on accuracy which is an
+orthogonal goal. We introduce a novel parallel algorithm that harnesses
+domain-specific learned embeddings to efficiently identify the top K paths
+between vertices in a knowledge graph to find the best answers to a three-hop
+query. Our contributions are: (1) We present a new parallel algorithm to
+enhance MHR performance, scalability and efficiency. (2) We demonstrate the
+algorithm's superior performance on leading-edge Intel and AMD architectures
+through empirical results.
+  We showcase the algorithm's practicality through a case study on identifying
+academic affiliations of potential Turing Award laureates in Deep Learning,
+highlighting its capability to handle intricate entity relationships. This
+demonstrates the potential of our approach to enabling high-performance MHR,
+useful to navigate the growing complexity of modern knowledge graphs.
+
+摘要：多跳推理 (MHR) 是人工智慧和自然語言處理中的一個過程，系統需要執行多個推理步驟才能得出結論或答案。在知識圖表或資料庫的背景下，它涉及遍歷多個連結實體和關係，以了解複雜的查詢或執行需要更深入理解的任務。多跳推理是各種應用中的一項關鍵功能，包括問答、知識庫完成和連結預測。它在人工智慧、機器學習和圖形分析中引起了極大的興趣。
+本文重點在於針對大規模圖表最佳化 MHR 的時間效率，與傳統上強調準確性的正交目標不同。我們引入了一種新穎的並行演算法，利用特定於領域的學習嵌入來有效率地識別知識圖表中頂點之間的頂尖 K 路徑，以找出三跳查詢的最佳答案。我們的貢獻如下：(1) 我們提出了一種新的並行演算法，以增強 MHR 的效能、可擴充性和效率。(2) 我們透過實證結果證明了該演算法在領先的 Intel 和 AMD 架構上的卓越效能。
+我們透過一個案例研究展示了該演算法的實用性，該研究識別了深度學習中潛在的圖靈獎得主的學術關係，突顯了它處理複雜實體關係的能力。這證明了我們的方法在實現高性能 MHR 的潛力，有助於應對現代知識圖表日益增長的複雜性。
+
 ##### **TextGrad: Automatic "Differentiation" via Text**
 2406.07496v1 by Mert Yuksekgonul, Federico Bianchi, Joseph Boen, Sheng Liu, Zhi Huang, Carlos Guestrin, James Zou
 
@@ -2515,74 +2585,4 @@ is a unique tool that supports annotation, IE and QA, which gives the user full
 insight into the knowledge discovery pipeline.
 
 摘要：本文說明 KnowledgeHub 工具，這是一個科學文獻資訊萃取 (IE) 和問答 (QA) 管線。這是透過支援將 PDF 文件轉換成文字和結構化表示法來達成。接著可以建構一個本体，使用者可以在其中定義他們想要擷取的實體和關係類型。一個基於瀏覽器的註解工具可以用來根據本体對 PDF 文件的內容進行註解。命名實體辨識 (NER) 和關係分類 (RC) 模型可以根據產生的註解進行訓練，並可用於對文件未註解的部分進行註解。從這些實體和關係三元組建構一個知識圖譜，可以查詢它以從資料中獲得洞察力。此外，我們整合了一組大型語言模型 (LLM)，可用於問答和摘要，這些模型透過擷取元件建立在包含的文件中。KnowledgeHub 是一個支援註解、IE 和 QA 的獨特工具，它讓使用者可以完全了解知識發現管線。
-
-##### **SCI 3.0: A Web-based Schema Curation Interface for Graphical Event Representations**
-2405.09733v2 by Reece Suchocki, Mary Martin, Martha Palmer, Susan Brown
-
-To understand the complexity of global events, one must navigate a web of
-interwoven sub-events, identifying those most impactful elements within the
-larger, abstract macro-event framework at play. This concept can be extended to
-the field of natural language processing (NLP) through the creation of
-structured event schemas which can serve as representations of these abstract
-events. Central to our approach is the Schema Curation Interface 3.0 (SCI 3.0),
-a web application that facilitates real-time editing of event schema properties
-within a generated graph e.g., adding, removing, or editing sub-events,
-entities, and relations directly through an interface.
-
-摘要：<paragraph>要了解全球事件的复杂性，必须在相互交织的子事件网络中穿梭，在抽象的宏观事件框架中识别那些影响最大的元素。这个概念可以通过创建结构化的事件模式扩展到自然语言处理 (NLP) 领域，这些模式可以作为这些抽象事件的表示。我们方法的核心是模式管理界面 3.0 (SCI 3.0)，这是一个 Web 应用程序，它通过界面直接添加、删除或编辑子事件、实体和关系，从而方便实时编辑生成的图形中的事件模式属性。</paragraph>
-
-##### **SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**
-2405.09713v2 by Andong Wang, Bo Wu, Sunli Chen, Zhenfang Chen, Haotian Guan, Wei-Ning Lee, Li Erran Li, Chuang Gan
-
-Learning commonsense reasoning from visual contexts and scenes in real-world
-is a crucial step toward advanced artificial intelligence. However, existing
-video reasoning benchmarks are still inadequate since they were mainly designed
-for factual or situated reasoning and rarely involve broader knowledge in the
-real world. Our work aims to delve deeper into reasoning evaluations,
-specifically within dynamic, open-world, and structured context knowledge. We
-propose a new benchmark (SOK-Bench), consisting of 44K questions and 10K
-situations with instance-level annotations depicted in the videos. The
-reasoning process is required to understand and apply situated knowledge and
-general knowledge for problem-solving. To create such a dataset, we propose an
-automatic and scalable generation method to generate question-answer pairs,
-knowledge graphs, and rationales by instructing the combinations of LLMs and
-MLLMs. Concretely, we first extract observable situated entities, relations,
-and processes from videos for situated knowledge and then extend to open-world
-knowledge beyond the visible content. The task generation is facilitated
-through multiple dialogues as iterations and subsequently corrected and refined
-by our designed self-promptings and demonstrations. With a corpus of both
-explicit situated facts and implicit commonsense, we generate associated
-question-answer pairs and reasoning processes, finally followed by manual
-reviews for quality assurance. We evaluated recent mainstream large
-vision-language models on the benchmark and found several insightful
-conclusions. For more information, please refer to our benchmark at
-www.bobbywu.com/SOKBench.
-
-摘要：從真實世界的視覺脈絡和場景中學習常識推理是邁向先進人工智慧的關鍵一步。然而，現有的影片推理基準仍然不足，因為它們主要設計用於事實或情境推理，很少涉及現實世界中的更廣泛知識。我們的研究旨在深入探討推理評估，特別是在動態、開放世界和結構化背景知識中。我們提出一個新的基準 (SOK-Bench)，包含 44K 個問題和 10K 個情況，其中包含影片中描繪的實例級註解。推理過程需要理解並應用情境知識和一般知識來解決問題。為了建立這樣的資料集，我們提出了一種自動且可擴充的生成方法，透過指導 LLM 和 MLLM 的組合來生成問答對、知識圖譜和依據。具體來說，我們首先從影片中提取可觀察的情境實體、關係和過程以獲得情境知識，然後擴展到可見內容之外的開放世界知識。任務生成透過多重對話作為迭代來促進，隨後由我們設計的自提示和示範進行更正和優化。透過包含明確情境事實和隱含常識的語料庫，我們生成了相關的問答對和推理過程，最後進行人工審查以確保品質。我們在基準上評估了近期主流的大型視覺語言模型，並發現了幾個有見地的結論。有關更多資訊，請參閱我們的基準，網址為 www.bobbywu.com/SOKBench。
-
-##### **STAR: A Benchmark for Situated Reasoning in Real-World Videos**
-2405.09711v1 by Bo Wu, Shoubin Yu, Zhenfang Chen, Joshua B Tenenbaum, Chuang Gan
-
-Reasoning in the real world is not divorced from situations. How to capture
-the present knowledge from surrounding situations and perform reasoning
-accordingly is crucial and challenging for machine intelligence. This paper
-introduces a new benchmark that evaluates the situated reasoning ability via
-situation abstraction and logic-grounded question answering for real-world
-videos, called Situated Reasoning in Real-World Videos (STAR Benchmark). This
-benchmark is built upon the real-world videos associated with human actions or
-interactions, which are naturally dynamic, compositional, and logical. The
-dataset includes four types of questions, including interaction, sequence,
-prediction, and feasibility. We represent the situations in real-world videos
-by hyper-graphs connecting extracted atomic entities and relations (e.g.,
-actions, persons, objects, and relationships). Besides visual perception,
-situated reasoning also requires structured situation comprehension and logical
-reasoning. Questions and answers are procedurally generated. The answering
-logic of each question is represented by a functional program based on a
-situation hyper-graph. We compare various existing video reasoning models and
-find that they all struggle on this challenging situated reasoning task. We
-further propose a diagnostic neuro-symbolic model that can disentangle visual
-perception, situation abstraction, language understanding, and functional
-reasoning to understand the challenges of this benchmark.
-
-摘要：現實世界中的推理並非脫離情境。如何從周遭情境中擷取當前知識並據此進行推理，對機器智能而言至關重要且具有挑戰性。本文介紹了一個新的基準，透過情境抽象和以邏輯為基礎的問答，評估真實世界影片中的情境推理能力，稱為真實世界影片中的情境推理（STAR基準）。此基準建立於與人類動作或互動相關的真實世界影片之上，這些影片本質上是動態、組合且合乎邏輯的。該資料集包含四種類型的問題，包括互動、順序、預測和可行性。我們透過連接提取的原子實體和關係（例如動作、人物、物件和關係）的超圖形，來表示真實世界影片中的情境。除了視覺感知之外，情境推理還需要結構化的情境理解和邏輯推理。問題和答案是程序化產生的。每個問題的回答邏輯由基於情境超圖形的函式程式表示。我們比較了現有的各種影片推理模型，發現它們在這個具有挑戰性的情境推理任務中都表現不佳。我們進一步提出了一個診斷性神經符號模型，它可以解開視覺感知、情境抽象、語言理解和函式推理，以了解此基準的挑戰。
 

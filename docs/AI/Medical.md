@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542v1](http://arxiv.org/abs/2406.07542v1)|[link](https://github.com/davidorp/taukadial)|
-|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v1](http://arxiv.org/abs/2406.07494v1)|null|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
 |**2024-06-11**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146v1](http://arxiv.org/abs/2406.07146v1)|null|
 |**2024-06-11**|**Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v1](http://arxiv.org/abs/2406.07114v1)|null|
 |**2024-06-11**|**Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets**|Chenxia Tang et.al.|[2406.07028v1](http://arxiv.org/abs/2406.07028v1)|null|
@@ -37,7 +37,7 @@
 |**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388v1](http://arxiv.org/abs/2406.04388v1)|null|
 |**2024-06-06**|**Promoting Fairness and Diversity in Speech Datasets for Mental Health and Neurological Disorders Research**|Eleonora Mancini et.al.|[2406.04116v1](http://arxiv.org/abs/2406.04116v1)|null|
 |**2024-06-06**|**Leveraging SPD Matrices on Riemannian Manifolds in Quantum Classical Hybrid Models for Structural Health Monitoring**|Azadeh Alavi et.al.|[2406.04055v1](http://arxiv.org/abs/2406.04055v1)|null|
-|**2024-06-05**|**Speech-based Clinical Depression Screening: An Empirical Study**|Yangbin Chen et.al.|[2406.03510v1](http://arxiv.org/abs/2406.03510v1)|null|
+|**2024-06-05**|**Speech-based Clinical Depression Screening: An Empirical Study**|Yangbin Chen et.al.|[2406.03510v2](http://arxiv.org/abs/2406.03510v2)|null|
 |**2024-06-05**|**Robust Prediction Model for Multidimensional and Unbalanced Datasets**|Pooja Thakar et.al.|[2406.03507v1](http://arxiv.org/abs/2406.03507v1)|null|
 |**2024-06-05**|**Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting**|Yuansan Liu et.al.|[2406.02827v1](http://arxiv.org/abs/2406.02827v1)|null|
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|null|
@@ -122,7 +122,7 @@ obtained from the proposed modalities.
 摘要：認知能力下降是個人隨著年齡增長而發生的自然過程。及早診斷異常下降對於啟動專業治療至關重要，可提升受影響者的生活品質。為了解決此問題，我們提出一個多模態模型，能夠預測輕度認知障礙和認知評分。TAUKADIAL 資料集用於進行評估，其中包含臨床訪談的音訊錄製。所提出的模型展示了轉錄和區分訪談中所用語言的能力。隨後，模型會擷取音訊和文字特徵，將它們組合成多模態架構，以達成穩健且廣泛的結果。我們的做法涉及深入研究，以實作從所提出的模態中取得的各種特徵。
 
 ##### **CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**
-2406.07494v1 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
+2406.07494v2 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
 
 Abstractive dialogue summarization is the task of distilling conversations
 into informative and concise summaries. Although reviews have been conducted on
@@ -151,7 +151,7 @@ the recently explored large language models and conclude that despite a
 potential shift in relevance and difficulty, our described challenge taxonomy
 remains relevant.
 
-摘要：摘要式对话摘要的任务是将对话提炼成内容丰富且简洁的摘要。尽管已经对该主题进行了综述，但仍然缺乏详细说明对话摘要挑战的全面工作，统一对任务的不同理解，并将提议的技术、数据集和评估指标与挑战相一致。本文通过系统地审查 2019 年至 2024 年间发表的 1262 篇独特的论文，总结了基于 Transformer 的英语对话抽象摘要的研究，这些论文依赖于语义学者和 DBLP 数据库。我们涵盖了对话摘要中存在的主要挑战（即语言、结构、理解、说话者、显着性和事实性），并将它们与相应的技术联系起来，例如基于图的方法、额外的训练任务和规划策略，这些策略通常过度依赖基于 BART 的编码器-解码器模型。我们发现，虽然语言等一些挑战已经取得了相当大的进展，这主要是由于训练方法，但其他挑战，如理解、事实性和显着性，仍然困难且具有重要的研究机会。我们调查了通常如何评估这些方法，涵盖对话子域（例如会议、医疗）的数据集、用于评估分数和注释者一致性的已建立的自动指标和人工评估方法。我们观察到，只有少数数据集跨越所有子域。ROUGE 指标的使用最广泛，而人工评估经常在没有关于内部注释者一致性和注释指南的足够详细信息的情况下进行报告。此外，我们讨论了最近探索的大语言模型的可能影响，并得出结论，尽管相关性和难度可能会发生变化，但我们描述的挑战分类仍然相关。
+摘要：<paragraph>抽象式對話摘要是將對話濃縮成具有資訊性且簡潔的摘要。儘管已針對此主題進行審查，但仍缺乏詳細說明對話摘要挑戰、統一對任務的不同理解，以及將建議的技術、資料集和評估指標與挑戰相符的全面性研究。本文透過系統性地檢閱 2019 年至 2024 年間發表的 1262 篇獨特研究論文，依賴語義學者和 DBLP 資料庫，總結了基於 Transformer 的英語對話抽象式摘要的研究。我們涵蓋對話摘要中出現的主要挑戰（即語言、結構、理解、說話者、顯著性和真實性），並將它們連結到對應的技術，例如基於圖形的方法、額外的訓練任務和規劃策略，這些策略通常過度依賴於基於 BART 的編碼器-解碼器模型。我們發現，雖然語言等一些挑戰在很大程度上取得了進展，這主要是由於訓練方法，但其他挑戰，例如理解、真實性和顯著性，仍然很困難，並具有重大的研究機會。我們探討了通常如何評估這些方法，涵蓋了對話子領域（例如會議、醫療）的資料集，既定的自動化指標和用於評估分數和註解者一致性的評估方法。我們觀察到，只有少數資料集跨越所有子領域。ROUGE 指標使用最頻繁，而人類評估通常在沒有足夠的註解者內部一致性和註解指南的詳細資訊下進行報告。此外，我們討論了近期探索的大語言模型的可能影響，並得出結論，儘管相關性和難度可能發生轉變，但我們所描述的挑戰分類法仍然相關。</paragraph>
 
 ##### **Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**
 2406.07146v1 by Che Liu, Zhongwei Wan, Yuqi Wang, Hui Shen, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci
@@ -987,11 +987,11 @@ Mean Squared Error of 0.00031, significantly outperforming traditional methods.
 摘要：橋樑的即時有限元素建模透過提供結構完整性的全面見解，協助現代結構健康監控系統。此功能對於確保橋樑安全操作和防止突然災難性故障至關重要。然而，有限元素方法的運算成本和即時分析的需求帶來了重大挑戰。此外，輸入資料是 7 維向量，而輸出是 1017 維向量，這使得準確而有效的分析特別困難。在本研究中，我們提出了一種新穎的混合量子經典多層感知器管道，利用對稱正定矩陣和黎曼流形進行有效的資料表示。為了維護量子位元結構的完整性，我們利用對稱正定矩陣，確保資料表示與量子運算框架完全一致。此外，此方法利用多項式特徵展開來擷取資料中的非線性關係。所提出的管道結合了經典全連接神經網路層和量子電路層，以增強模型效能和效率。我們的實驗專注於此類混合模型的各種配置，以識別準確且有效的即時分析的最佳結構。效能最佳的模型達到了 0.00031 的平均平方誤差，顯著優於傳統方法。
 
 ##### **Speech-based Clinical Depression Screening: An Empirical Study**
-2406.03510v1 by Yangbin Chen, Chenyang Xu, Chunfeng Liang, Yanbao Tao, Chuan Shi
+2406.03510v2 by Yangbin Chen, Chenyang Xu, Chunfeng Liang, Yanbao Tao, Chuan Shi
 
 This study investigates the utility of speech signals for AI-based depression
 screening across varied interaction scenarios, including psychiatric
-interviews, chatbot conversations, and text readings. Participants includes
+interviews, chatbot conversations, and text readings. Participants include
 depressed patients recruited from the outpatient clinics of Peking University
 Sixth Hospital and control group members from the community, all diagnosed by
 psychiatrists following standardized diagnostic protocols. We extracted
@@ -1004,7 +1004,7 @@ interaction matches clinical interview efficacy, surpassing reading tasks.
 Segment duration and quantity significantly affect model performance, with deep
 speech features substantially outperforming traditional acoustic features.
 
-摘要：本研究探討了語音訊號在基於 AI 的憂鬱症篩檢中的效用，涵蓋各種互動場景，包括精神科訪談、聊天機器人對話和文字朗讀。參與者包括從北京大學第六醫院門診招募的憂鬱症患者和來自社區的對照組成員，均由精神科醫師遵循標準化診斷協議進行診斷。我們從每位參與者的分段錄音中提取了聲學和深度語音特徵。分類使用神經網路或 SVM 進行，匯總的片段結果決定最終評估。我們對互動場景、語音處理技術和特徵類型的分析證實，語音是憂鬱症篩檢的關鍵標記。具體來說，人機互動符合臨床訪談的效能，超越閱讀任務。片段持續時間和數量顯著影響模型效能，深度語音特徵顯著優於傳統聲學特徵。
+摘要：本研究調查了語音訊號在基於人工智慧的憂鬱症篩檢中的效用，涵蓋各種互動情境，包括精神科訪談、聊天機器人對話和文本朗讀。參與者包括從北京大學第六醫院門診部招募的憂鬱症患者和來自社區的對照組成員，所有參與者均由精神科醫師根據標準化診斷協定進行診斷。我們從每個參與者的分段錄音中提取了聲學和深度語音特徵。分類是使用神經網路或支援向量機進行的，並以匯總的片段結果確定最終評估。我們對互動情境、語音處理技術和特徵類型的分析證實了語音是憂鬱症篩檢的關鍵標記。具體來說，人機互動與臨床訪談效能相符，優於閱讀任務。分段持續時間和數量會顯著影響模型效能，深度語音特徵明顯優於傳統聲學特徵。
 
 ##### **Robust Prediction Model for Multidimensional and Unbalanced Datasets**
 2406.03507v1 by Pooja Thakar, Anil Mehta, Manisha

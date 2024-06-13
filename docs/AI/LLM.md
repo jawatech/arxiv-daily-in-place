@@ -15,7 +15,7 @@
 |**2024-06-11**|**Just Because We Camp, Doesn't Mean We Should: The Ethics of Modelling Queer Voices**|Atli Sigurgeirsson et.al.|[2406.07504v1](http://arxiv.org/abs/2406.07504v1)|null|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502v1](http://arxiv.org/abs/2406.07502v1)|[link](https://github.com/sterzhang/image-textualization)|
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
-|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v1](http://arxiv.org/abs/2406.07494v1)|null|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
 |**2024-06-11**|**Paraphrasing in Affirmative Terms Improves Negation Understanding**|MohammadHossein Rezaei et.al.|[2406.07492v1](http://arxiv.org/abs/2406.07492v1)|null|
 |**2024-06-11**|**Advancing Annotation of Stance in Social Media Posts: A Comparative Analysis of Large Language Models and Crowd Sourcing**|Mao Li et.al.|[2406.07483v1](http://arxiv.org/abs/2406.07483v1)|null|
 |**2024-06-11**|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**|Zesen Cheng et.al.|[2406.07476v1](http://arxiv.org/abs/2406.07476v1)|[link](https://github.com/damo-nlp-sg/videollama2)|
@@ -32,9 +32,9 @@
 |**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|null|
 |**2024-06-11**|**When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models**|Haoran You et.al.|[2406.07368v1](http://arxiv.org/abs/2406.07368v1)|[link](https://github.com/gatech-eic/linearized-llm)|
 |**2024-06-11**|**BvSP: Broad-view Soft Prompting for Few-Shot Aspect Sentiment Quad Prediction**|Yinhao Bai et.al.|[2406.07365v1](http://arxiv.org/abs/2406.07365v1)|[link](https://github.com/byinhao/bvsp)|
-|**2024-06-11**|**AI Sandbagging: Language Models can Strategically Underperform on Evaluations**|Teun van der Weij et.al.|[2406.07358v1](http://arxiv.org/abs/2406.07358v1)|[link](https://github.com/teunvdweij/sandbagging)|
+|**2024-06-11**|**AI Sandbagging: Language Models can Strategically Underperform on Evaluations**|Teun van der Weij et.al.|[2406.07358v2](http://arxiv.org/abs/2406.07358v2)|[link](https://github.com/teunvdweij/sandbagging)|
 |**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
-|**2024-06-11**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v1](http://arxiv.org/abs/2406.07348v1)|null|
+|**2024-06-11**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v2](http://arxiv.org/abs/2406.07348v2)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|[link](https://github.com/ictnlp/ctc-s2ut)|
 |**2024-06-11**|**3D-Properties: Identifying Challenges in DPO and Charting a Path Forward**|Yuzi Yan et.al.|[2406.07327v1](http://arxiv.org/abs/2406.07327v1)|null|
 |**2024-06-11**|**Should XAI Nudge Human Decisions with Explanation Biasing?**|Yosuke Fukuchi et.al.|[2406.07323v1](http://arxiv.org/abs/2406.07323v1)|null|
@@ -52,7 +52,7 @@
 |**2024-06-11**|**Scientific Computing with Large Language Models**|Christopher Culver et.al.|[2406.07259v1](http://arxiv.org/abs/2406.07259v1)|null|
 |**2024-06-11**|**Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway**|Hamed Babaei Giglou et.al.|[2406.07257v1](http://arxiv.org/abs/2406.07257v1)|null|
 |**2024-06-11**|**AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection**|Rong Gong et.al.|[2406.07256v1](http://arxiv.org/abs/2406.07256v1)|null|
-|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v1](http://arxiv.org/abs/2406.07251v1)|null|
+|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|null|
 |**2024-06-11**|**Are Protein Language Models Compute Optimal?**|Yaiza Serrano et.al.|[2406.07249v1](http://arxiv.org/abs/2406.07249v1)|null|
 |**2024-06-11**|**MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs**|Vera Neplenbroek et.al.|[2406.07243v1](http://arxiv.org/abs/2406.07243v1)|null|
 |**2024-06-11**|**DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms**|Andong Chen et.al.|[2406.07232v1](http://arxiv.org/abs/2406.07232v1)|[link](https://github.com/loulianzhang/dual-reflect)|
@@ -406,7 +406,7 @@ accelerate the development of the next-generation of AI systems.
 摘要：<paragraph>AI 正經歷一場典範轉移，突破來自於系統編排多個大型語言模型 (LLM) 和其他複雜組成部分。因此，為複合式 AI 系統開發原則化且自動化的最佳化方法，是其中一項最重要的新挑戰。神經網路在早期面臨類似的挑戰，直到反向傳播和自動微分透過讓最佳化變得容易，進而轉變了這個領域。受到此啟發，我們引入了 TextGrad，一個強大的框架，透過文字執行自動「微分」。TextGrad 反向傳播 LLM 提供的文字回饋，以改善複合式 AI 系統的個別組成部分。在我們的框架中，LLM 提供豐富、通用、自然的語言建議，來最佳化運算圖中的變數，範圍從程式碼片段到分子結構。TextGrad 遵循 PyTorch 的語法和抽象，且靈活且易於使用。它適用於各種任務，使用者只需提供目標函數，而無需調整框架的組成部分或提示。我們展示了 TextGrad 在各種應用中的有效性和普遍性，從問答和分子最佳化到放射治療計畫。在不修改框架的情況下，TextGrad 將 Google-Proof 問答中 GPT-4o 的零次學習準確度從 51% 提升至 55%，在最佳化 LeetCode-Hard 編碼問題解答中產生 20% 的相對效能提升，改善推理提示，設計具有理想的矽基結合的新藥物小分子，並設計出具有高特異性的放射腫瘤治療計畫。TextGrad 為加速開發下一代 AI 系統奠定了基礎。</paragraph>
 
 ##### **CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**
-2406.07494v1 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
+2406.07494v2 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
 
 Abstractive dialogue summarization is the task of distilling conversations
 into informative and concise summaries. Although reviews have been conducted on
@@ -435,7 +435,7 @@ the recently explored large language models and conclude that despite a
 potential shift in relevance and difficulty, our described challenge taxonomy
 remains relevant.
 
-摘要：摘要式对话摘要的任务是将对话提炼成内容丰富且简洁的摘要。尽管已经对该主题进行了综述，但仍然缺乏详细说明对话摘要挑战的全面工作，统一对任务的不同理解，并将提议的技术、数据集和评估指标与挑战相一致。本文通过系统地审查 2019 年至 2024 年间发表的 1262 篇独特的论文，总结了基于 Transformer 的英语对话抽象摘要的研究，这些论文依赖于语义学者和 DBLP 数据库。我们涵盖了对话摘要中存在的主要挑战（即语言、结构、理解、说话者、显着性和事实性），并将它们与相应的技术联系起来，例如基于图的方法、额外的训练任务和规划策略，这些策略通常过度依赖基于 BART 的编码器-解码器模型。我们发现，虽然语言等一些挑战已经取得了相当大的进展，这主要是由于训练方法，但其他挑战，如理解、事实性和显着性，仍然困难且具有重要的研究机会。我们调查了通常如何评估这些方法，涵盖对话子域（例如会议、医疗）的数据集、用于评估分数和注释者一致性的已建立的自动指标和人工评估方法。我们观察到，只有少数数据集跨越所有子域。ROUGE 指标的使用最广泛，而人工评估经常在没有关于内部注释者一致性和注释指南的足够详细信息的情况下进行报告。此外，我们讨论了最近探索的大语言模型的可能影响，并得出结论，尽管相关性和难度可能会发生变化，但我们描述的挑战分类仍然相关。
+摘要：<paragraph>抽象式對話摘要是將對話濃縮成具有資訊性且簡潔的摘要。儘管已針對此主題進行審查，但仍缺乏詳細說明對話摘要挑戰、統一對任務的不同理解，以及將建議的技術、資料集和評估指標與挑戰相符的全面性研究。本文透過系統性地檢閱 2019 年至 2024 年間發表的 1262 篇獨特研究論文，依賴語義學者和 DBLP 資料庫，總結了基於 Transformer 的英語對話抽象式摘要的研究。我們涵蓋對話摘要中出現的主要挑戰（即語言、結構、理解、說話者、顯著性和真實性），並將它們連結到對應的技術，例如基於圖形的方法、額外的訓練任務和規劃策略，這些策略通常過度依賴於基於 BART 的編碼器-解碼器模型。我們發現，雖然語言等一些挑戰在很大程度上取得了進展，這主要是由於訓練方法，但其他挑戰，例如理解、真實性和顯著性，仍然很困難，並具有重大的研究機會。我們探討了通常如何評估這些方法，涵蓋了對話子領域（例如會議、醫療）的資料集，既定的自動化指標和用於評估分數和註解者一致性的評估方法。我們觀察到，只有少數資料集跨越所有子領域。ROUGE 指標使用最頻繁，而人類評估通常在沒有足夠的註解者內部一致性和註解指南的詳細資訊下進行報告。此外，我們討論了近期探索的大語言模型的可能影響，並得出結論，儘管相關性和難度可能發生轉變，但我們所描述的挑戰分類法仍然相關。</paragraph>
 
 ##### **Paraphrasing in Affirmative Terms Improves Negation Understanding**
 2406.07492v1 by MohammadHossein Rezaei, Eduardo Blanco
@@ -798,7 +798,7 @@ https://github.com/byinhao/BvSP.
 摘要：面向方面的觀點四元組預測 (ASQP) 旨在預測四個基於方面的元素，包括方面詞、觀點詞、方面類別和觀點極性。在實務上，未見的方面由於資料分佈不同，對訓練好的神經模型造成許多挑戰。有鑑於此，本研究將 ASQP 制定成小樣本場景，旨在快速適應實際應用。因此，我們首先建構一個小樣本 ASQP 資料集 (FSQP)，其中包含更豐富的類別，並且對於小樣本研究更為平衡。此外，近期方法透過生成範例來萃取四元組，其中包括將輸入句子轉換成範本目標序列。然而，它們主要著重於使用單一範本或考慮不同範本順序，因而忽略了各種範本之間的關聯性。為了解決這個問題，我們進一步提出廣闊視角軟提示 (BvSP) 方法，透過考量不同範本之間的關聯性，以更廣闊的視野彙整多個範本。具體來說，BvSP 使用預先訓練好的語言模型，以 Jensen-Shannon divergence 選擇最相關的 k 個範本。BvSP 進一步導入軟提示，以使用選定的範本引導預先訓練好的語言模型。然後，我們透過投票機制彙整多範本的結果。實證結果顯示，在四種小樣本設定和其他公開資料集下，BvSP 的表現顯著優於現有技術。我們的程式碼和資料集可在 https://github.com/byinhao/BvSP 取得。
 
 ##### **AI Sandbagging: Language Models can Strategically Underperform on Evaluations**
-2406.07358v1 by Teun van der Weij, Felix Hofstätter, Ollie Jaffe, Samuel F. Brown, Francis Rhys Ward
+2406.07358v2 by Teun van der Weij, Felix Hofstätter, Ollie Jaffe, Samuel F. Brown, Francis Rhys Ward
 
 Trustworthy capability evaluations are crucial for ensuring the safety of AI
 systems, and are becoming a key component of AI regulation. However, the
@@ -821,7 +821,7 @@ This vulnerability decreases the trustworthiness of evaluations, and thereby
 undermines important safety decisions regarding the development and deployment
 of advanced AI systems.
 
-摘要：可信賴的能力評估對於確保 AI 系統的安全性至關重要，並正成為 AI 法規的一個關鍵組成部分。然而，AI 系統的開發人員或 AI 系統本身可能會有誘因讓評估低估 AI 的實際能力。這些利益衝突導致了「灌水」的問題，我們將其定義為「在評估中策略性地表現不佳」。在本文中，我們評估了當代語言模型 (LM) 中的灌水能力。我們提示前沿語言模型，例如 GPT-4 和 Claude 3 Opus，在危險的能力評估中選擇性地表現不佳，同時在一般（無害）能力評估中保持表現。此外，我們發現模型可以在合成資料集上進行微調，以隱藏特定能力，除非給出密碼。這種行為推廣到高品質、保留的基準，例如 WMDP。此外，我們表明，前沿和較小的模型都可以被提示或密碼鎖定，以在能力評估中瞄準特定分數。更重要的是，我們發現一個有能力的密碼鎖定模型（Llama 3 70b）有能力模擬一個能力較弱的模型（Llama 2 7b）。總的來說，我們的結果表明能力評估容易受到灌水攻擊。這種漏洞降低了評估的可信度，從而破壞了有關先進 AI 系統開發和部署的重要安全決策。
+摘要：可信賴的能力評估對於確保 AI 系統的安全性至關重要，並且正成為 AI 法規的主要組成部分。然而，AI 系統的開發者或 AI 系統本身可能會有誘因讓評估低估 AI 的實際能力。這些相互衝突的利益導致了「藏拙」的問題，我們將其定義為「在評估中策略性地表現不佳」。在本文中，我們評估了當代語言模型 (LM) 中的藏拙能力。我們提示前沿 LM（如 GPT-4 和 Claude 3 Opus）在危險的能力評估中選擇性地表現不佳，同時在一般（無害）能力評估中保持表現。此外，我們發現模型可以在合成資料集上進行微調，以隱藏特定能力，除非給出密碼。此行為可以推廣到高品質的留出基準，例如 WMDP。此外，我們表明前沿模型和較小的模型都可以被提示或密碼鎖定，以在能力評估中針對特定分數。更重要的是，我們發現一個有能力的密碼鎖定模型 (Llama 3 70b) 能夠合理地模擬一個能力較弱的模型 (Llama 2 7b)。總體而言，我們的結果表明能力評估容易受到藏拙的影響。這種漏洞降低了評估的可信度，從而破壞了有關先進 AI 系統開發和部署的重要安全決策。
 
 ##### **Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**
 2406.07353v1 by Delfina Sol Martinez Pandiani, Erik Tjong Kim Sang, Davide Ceolin
@@ -855,7 +855,7 @@ proposes pathways for advancing toxic meme detection and interpretation.
 摘要：網路迷因，一種幽默、社會評論和文化表達的管道，正越來越常被用來散播有毒訊息。過去五年來，針對有毒迷因的運算分析研究大幅成長，而僅有的三份關於運算有毒迷因分析的調查僅涵蓋 2022 年之前發表的著作，導致術語不一致且趨勢未被探討。我們的研究透過調查基於內容的運算觀點來填補這個空白，並回顧截至 2024 年初的關鍵發展。採用 PRISMA 方法，我們系統性地擴充先前考慮的論文，取得三方面成果。首先，我們調查了 119 篇新論文，分析了 158 項專注於基於內容的有毒迷因分析的運算作品。我們找出有毒迷因分析中使用的超過 30 個資料集，並檢視其標記系統。其次，在觀察到運算作品中對迷因毒性缺乏明確定義後，我們引進一個新的分類法來分類迷因毒性類型。我們也注意到運算任務已擴展到超越將迷因簡單二元分類為有毒或無毒的範疇，顯示出朝向對毒性有細微差別的理解邁進。第三，我們找出有毒迷因在自動研究中基於內容的三個面向：目標、意圖和傳達策略。我們發展了一個架構來說明這些面向與迷因毒性之間的關係。這份調查分析了關鍵挑戰和近期趨勢，例如增強跨模態推理、整合專家和文化知識、對自動毒性解釋的需求，以及處理低資源語言中的迷因毒性。此外，它也指出大型語言模型 (LLM) 和生成式 AI 在偵測和產生有毒迷因中的使用率正逐漸上升。最後，它提出促進有毒迷因偵測和詮釋的途徑。
 
 ##### **DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**
-2406.07348v1 by Zijian Hei, Weiling Wei, Wenjie Ou, Juyi Qiao, Junming Jiao, Zhiqing Zhu, Guowen Song
+2406.07348v2 by Zijian Hei, Weiling Liu, Wenjie Ou, Juyi Qiao, Junming Jiao, Zhiqing Zhu, Guowen Song
 
 Retrieval-Augmented Generation (RAG) has significantly demonstrated the
 performance of Large Language Models (LLMs) in the knowledge-intensive tasks,
@@ -876,7 +876,7 @@ efficiency of the experiment. The experimental results on multi-hop QA datasets
 show that DR-RAG can significantly improve the accuracy of the answers and
 achieve new progress in QA systems.
 
-摘要：檢索增強生成 (RAG) 已顯著證明大型語言模型 (LLM) 在知識密集型任務中的效能，例如問答 (QA)。RAG 透過納入外部知識庫來擴展查詢內容，以增強回應準確性。然而，對於每個查詢多次存取 LLM 會很低效，且透過單一查詢檢索所有相關文件並不可靠。我們發現，即使某些關鍵文件與查詢之間關聯性低，也可以透過將文件的部分與查詢結合來檢索剩餘文件。為了挖掘相關性，提出了一個名為動態相關檢索增強生成 (DR-RAG) 的兩階段檢索架構，以改善文件檢索召回率和答案準確性，同時維持效率。此外，將一個小型分類器應用於兩種不同的選擇策略，以確定檢索到的文件對回答查詢的貢獻，並檢索相對相關的文件。同時，DR-RAG 只呼叫 LLM 一次，這顯著地改善了實驗效率。多跳 QA 資料集的實驗結果顯示，DR-RAG 可以顯著提高答案準確性，並在 QA 系統中取得新進展。
+摘要：檢索增強生成（RAG）已顯著展示大型語言模型（LLM）在知識密集型任務中的效能，例如問題解答（QA）。RAG 透過納入外部知識庫來擴充查詢內容，以提升回應準確度。不過，針對每個查詢多次存取 LLM 會造成效率不彰，而透過單一查詢擷取所有相關文件也不可靠。我們發現，即使某些關鍵文件與查詢之間關聯性低，但仍可透過將文件部分與查詢結合來擷取剩餘文件。為了探勘相關性，提出了一個名為動態相關檢索增強生成（DR-RAG）的兩階段檢索架構，以提升文件檢索召回率和答案準確度，同時維持效率。此外，將一個小型分類器套用至兩種不同的選取策略，以決定擷取的文件對回答查詢的貢獻，並擷取相對相關的文件。同時，DR-RAG 僅呼叫 LLM 一次，這顯著提升了實驗效率。多跳 QA 資料集的實驗結果顯示，DR-RAG 可以顯著提升答案準確度，並在 QA 系統中取得新的進展。
 
 ##### **CTC-based Non-autoregressive Textless Speech-to-Speech Translation**
 2406.07330v1 by Qingkai Fang, Zhengrui Ma, Yan Zhou, Min Zhang, Yang Feng
@@ -1280,7 +1280,7 @@ addressing stuttered speech.
 系統，並針對 ASR 和口吃事件偵測 (SED) 任務提供了實驗結果。透過將此資料集納入模型微調中，觀察到最先進的 ASR 模型（例如 Whisper 和 Hubert）有顯著的改進，增強了它們在處理口吃語音時的包容性。
 
 ##### **Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**
-2406.07251v1 by Athanasios Tragakis, Marco Aversa, Chaitanya Kaul, Roderick Murray-Smith, Daniele Faccio
+2406.07251v2 by Athanasios Tragakis, Marco Aversa, Chaitanya Kaul, Roderick Murray-Smith, Daniele Faccio
 
 In this work, we introduce Pixelsmith, a zero-shot text-to-image generative
 framework to sample images at higher resolutions with a single GPU. We are the
@@ -1297,7 +1297,7 @@ Pixelsmith not only achieves higher quality and diversity compared to existing
 techniques, but also reduces sampling time and artifacts. The code for our work
 is available at https://github.com/Thanos-DB/Pixelsmith.
 
-摘要：在這項工作中，我們介紹了 Pixelsmith，一個零次學習的文字轉圖片生成框架，可以在單一 GPU 上以更高的解析度取樣圖片。我們是第一個展示可以將預先訓練的擴散模型的輸出放大 1000 倍，為無額外成本的十億像素圖片生成開啟道路。我們的串聯方法使用在最低解析度生成的圖片作為基準，以更高的解析度取樣。對於引導，我們引入了 Slider，一種可調整的機制，它融合了第一個生成的圖片中包含的整體結構和增強的精細細節。在每個推論步驟中，我們會對區塊進行降噪，而不是對整個潛在空間進行降噪，這將記憶體需求降到最低，讓單一 GPU 可以處理這個過程，無論圖片的解析度為何。我們的實驗結果顯示，與現有技術相比，Pixelsmith 不僅達到了更高的品質和多樣性，還減少了取樣時間和人工製品。我們工作的程式碼可以在 https://github.com/Thanos-DB/Pixelsmith 取得。
+摘要：在這項工作中，我們介紹 Pixelsmith，一個零次學習的文字轉圖像生成框架，使用單一 GPU 在更高解析度下採樣圖像。我們首次展示了將預先訓練的擴散模型的輸出放大 1000 倍，為無額外成本的吉像素圖像生成開啟道路。我們的串聯方法使用在最低解析度下生成的圖像作為基線，在更高解析度下採樣。對於引導，我們介紹 Slider，一種可調整的機制，它融合了第一個生成的圖像中包含的整體結構和增強的精細細節。在每個推論步驟中，我們對區塊進行去噪，而不是對整個潛在空間進行去噪，從而最大程度地減少記憶體需求，以便單一 GPU 可以處理此過程，而與圖像解析度無關。我們的實驗結果表明，與現有技術相比，Pixelsmith 不僅實現了更高的品質和多樣性，還減少了採樣時間和人工製品。我們工作的程式碼可在 https://github.com/Thanos-DB/Pixelsmith 取得。
 
 ##### **Are Protein Language Models Compute Optimal?**
 2406.07249v1 by Yaiza Serrano, Álvaro Ciudad, Alexis Molina

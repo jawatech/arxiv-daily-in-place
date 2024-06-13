@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
-|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v1](http://arxiv.org/abs/2406.07494v1)|null|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
 |**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|null|
 |**2024-06-11**|**Scaling Large-Language-Model-based Multi-Agent Collaboration**|Chen Qian et.al.|[2406.07155v1](http://arxiv.org/abs/2406.07155v1)|[link](https://github.com/openbmb/chatdev)|
 |**2024-06-11**|**Mining Frequent Structures in Conceptual Models**|Mattia Fumagalli et.al.|[2406.07129v1](http://arxiv.org/abs/2406.07129v1)|[link](https://github.com/unibz-core/cm-mining_experimentdata)|
@@ -135,7 +135,7 @@ accelerate the development of the next-generation of AI systems.
 摘要：<paragraph>AI 正經歷一場典範轉移，突破來自於系統編排多個大型語言模型 (LLM) 和其他複雜組成部分。因此，為複合式 AI 系統開發原則化且自動化的最佳化方法，是其中一項最重要的新挑戰。神經網路在早期面臨類似的挑戰，直到反向傳播和自動微分透過讓最佳化變得容易，進而轉變了這個領域。受到此啟發，我們引入了 TextGrad，一個強大的框架，透過文字執行自動「微分」。TextGrad 反向傳播 LLM 提供的文字回饋，以改善複合式 AI 系統的個別組成部分。在我們的框架中，LLM 提供豐富、通用、自然的語言建議，來最佳化運算圖中的變數，範圍從程式碼片段到分子結構。TextGrad 遵循 PyTorch 的語法和抽象，且靈活且易於使用。它適用於各種任務，使用者只需提供目標函數，而無需調整框架的組成部分或提示。我們展示了 TextGrad 在各種應用中的有效性和普遍性，從問答和分子最佳化到放射治療計畫。在不修改框架的情況下，TextGrad 將 Google-Proof 問答中 GPT-4o 的零次學習準確度從 51% 提升至 55%，在最佳化 LeetCode-Hard 編碼問題解答中產生 20% 的相對效能提升，改善推理提示，設計具有理想的矽基結合的新藥物小分子，並設計出具有高特異性的放射腫瘤治療計畫。TextGrad 為加速開發下一代 AI 系統奠定了基礎。</paragraph>
 
 ##### **CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**
-2406.07494v1 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
+2406.07494v2 by Frederic Kirstein, Jan Philip Wahle, Bela Gipp, Terry Ruas
 
 Abstractive dialogue summarization is the task of distilling conversations
 into informative and concise summaries. Although reviews have been conducted on
@@ -164,7 +164,7 @@ the recently explored large language models and conclude that despite a
 potential shift in relevance and difficulty, our described challenge taxonomy
 remains relevant.
 
-摘要：摘要式对话摘要的任务是将对话提炼成内容丰富且简洁的摘要。尽管已经对该主题进行了综述，但仍然缺乏详细说明对话摘要挑战的全面工作，统一对任务的不同理解，并将提议的技术、数据集和评估指标与挑战相一致。本文通过系统地审查 2019 年至 2024 年间发表的 1262 篇独特的论文，总结了基于 Transformer 的英语对话抽象摘要的研究，这些论文依赖于语义学者和 DBLP 数据库。我们涵盖了对话摘要中存在的主要挑战（即语言、结构、理解、说话者、显着性和事实性），并将它们与相应的技术联系起来，例如基于图的方法、额外的训练任务和规划策略，这些策略通常过度依赖基于 BART 的编码器-解码器模型。我们发现，虽然语言等一些挑战已经取得了相当大的进展，这主要是由于训练方法，但其他挑战，如理解、事实性和显着性，仍然困难且具有重要的研究机会。我们调查了通常如何评估这些方法，涵盖对话子域（例如会议、医疗）的数据集、用于评估分数和注释者一致性的已建立的自动指标和人工评估方法。我们观察到，只有少数数据集跨越所有子域。ROUGE 指标的使用最广泛，而人工评估经常在没有关于内部注释者一致性和注释指南的足够详细信息的情况下进行报告。此外，我们讨论了最近探索的大语言模型的可能影响，并得出结论，尽管相关性和难度可能会发生变化，但我们描述的挑战分类仍然相关。
+摘要：<paragraph>抽象式對話摘要是將對話濃縮成具有資訊性且簡潔的摘要。儘管已針對此主題進行審查，但仍缺乏詳細說明對話摘要挑戰、統一對任務的不同理解，以及將建議的技術、資料集和評估指標與挑戰相符的全面性研究。本文透過系統性地檢閱 2019 年至 2024 年間發表的 1262 篇獨特研究論文，依賴語義學者和 DBLP 資料庫，總結了基於 Transformer 的英語對話抽象式摘要的研究。我們涵蓋對話摘要中出現的主要挑戰（即語言、結構、理解、說話者、顯著性和真實性），並將它們連結到對應的技術，例如基於圖形的方法、額外的訓練任務和規劃策略，這些策略通常過度依賴於基於 BART 的編碼器-解碼器模型。我們發現，雖然語言等一些挑戰在很大程度上取得了進展，這主要是由於訓練方法，但其他挑戰，例如理解、真實性和顯著性，仍然很困難，並具有重大的研究機會。我們探討了通常如何評估這些方法，涵蓋了對話子領域（例如會議、醫療）的資料集，既定的自動化指標和用於評估分數和註解者一致性的評估方法。我們觀察到，只有少數資料集跨越所有子領域。ROUGE 指標使用最頻繁，而人類評估通常在沒有足夠的註解者內部一致性和註解指南的詳細資訊下進行報告。此外，我們討論了近期探索的大語言模型的可能影響，並得出結論，儘管相關性和難度可能發生轉變，但我們所描述的挑戰分類法仍然相關。</paragraph>
 
 ##### **Large Language Models for Constrained-Based Causal Discovery**
 2406.07378v1 by Kai-Hendrik Cohrs, Gherardo Varando, Emiliano Diaz, Vasileios Sitokonstantinou, Gustau Camps-Valls

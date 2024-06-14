@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
+|**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
+|**2024-06-13**|**ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions**|Xu Zhang et.al.|[2406.08842v1](http://arxiv.org/abs/2406.08842v1)|null|
 |**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223v1](http://arxiv.org/abs/2406.08223v1)|null|
 |**2024-06-12**|**SHACL2FOL: An FOL Toolkit for SHACL Decision Problems**|Paolo Pareti et.al.|[2406.08018v1](http://arxiv.org/abs/2406.08018v1)|[link](https://github.com/paolo7/shacl2fol)|
 |**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727v1](http://arxiv.org/abs/2406.07727v1)|null|
@@ -99,11 +102,81 @@
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745v1](http://arxiv.org/abs/2405.10745v1)|null|
 |**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492v2](http://arxiv.org/abs/2405.10492v2)|null|
-|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[link](https://github.com/jingkang50/psg4d)|
-|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288v2](http://arxiv.org/abs/2405.10288v2)|null|
-|**2024-05-16**|**KnowledgeHub: An end-to-end Tool for Assisted Scientific Discovery**|Shinnosuke Tanaka et.al.|[2406.00008v1](http://arxiv.org/abs/2406.00008v1)|null|
 
 #### Abstracts
+##### **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**
+2406.09403v1 by Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna
+
+Humans draw to facilitate reasoning: we draw auxiliary lines when solving
+geometry problems; we mark and circle when reasoning on maps; we use sketches
+to amplify our ideas and relieve our limited-capacity working memory. However,
+such actions are missing in current multimodal language models (LMs). Current
+chain-of-thought and tool-use paradigms only use text as intermediate reasoning
+steps. In this work, we introduce Sketchpad, a framework that gives multimodal
+LMs a visual sketchpad and tools to draw on the sketchpad. The LM conducts
+planning and reasoning according to the visual artifacts it has drawn.
+Different from prior work, which uses text-to-image models to enable LMs to
+draw, Sketchpad enables LMs to draw with lines, boxes, marks, etc., which is
+closer to human sketching and better facilitates reasoning. Sketchpad can also
+use specialist vision models during the sketching process (e.g., draw bounding
+boxes with object detection models, draw masks with segmentation models), to
+further enhance visual perception and reasoning. We experiment with a wide
+range of math tasks (including geometry, functions, graphs, and chess) and
+complex visual reasoning tasks. Sketchpad substantially improves performance on
+all tasks over strong base models with no sketching, yielding an average gain
+of 12.7% on math tasks, and 8.6% on vision tasks. GPT-4o with Sketchpad sets a
+new state of the art on all tasks, including V*Bench (80.3%), BLINK spatial
+reasoning (83.9%), and visual correspondence (80.8%). All codes and data are in
+https://visualsketchpad.github.io/.
+
+摘要：<paragraph>人類利用繪畫來促進推理：我們在解決幾何問題時會畫輔助線；在研究地圖時會標記和畫圈；我們使用草圖來擴展我們的想法並減輕我們容量有限的工作記憶。然而，目前的模態語言模型 (LM) 中缺少此類動作。目前的思考鏈和工具使用範例僅將文字用作中間推理步驟。在這項工作中，我們介紹了 Sketchpad，一個框架，它為多模態 LM 提供了一個視覺草圖本和可以在草圖本上繪畫的工具。LM 根據它繪製的視覺工件進行規劃和推理。不同於以前使用文字轉圖像模型使 LM 能夠繪畫的先前工作，Sketchpad 使 LM 能夠使用線條、方塊、標記等進行繪畫，這更接近於人類的素描，並且更好地促進了推理。Sketchpad 也可以在素描過程中使用專家視覺模型（例如，使用物件偵測模型繪製邊界框，使用分割模型繪製遮罩），以進一步增強視覺感知和推理。我們使用廣泛的數學任務（包括幾何、函數、圖形和西洋棋）和複雜的視覺推理任務進行了實驗。Sketchpad 大幅提升了所有任務在沒有素描的情況下強大的基礎模型的效能，在數學任務上平均提升 12.7%，在視覺任務上提升 8.6%。配備 Sketchpad 的 GPT-4o 在所有任務上都創下了新的技術水準，包括 V*Bench (80.3%)、BLINK 空間推理 (83.9%) 和視覺對應 (80.8%)。所有程式碼和資料都可以在 https://visualsketchpad.github.io/ 中找到。</paragraph>
+
+##### **Transformers meet Neural Algorithmic Reasoners**
+2406.09308v1 by Wilfried Bounsi, Borja Ibarz, Andrew Dudzik, Jessica B. Hamrick, Larisa Markeeva, Alex Vitvitskyi, Razvan Pascanu, Petar Veličković
+
+Transformers have revolutionized machine learning with their simple yet
+effective architecture. Pre-training Transformers on massive text datasets from
+the Internet has led to unmatched generalization for natural language
+understanding (NLU) tasks. However, such language models remain fragile when
+tasked with algorithmic forms of reasoning, where computations must be precise
+and robust. To address this limitation, we propose a novel approach that
+combines the Transformer's language understanding with the robustness of graph
+neural network (GNN)-based neural algorithmic reasoners (NARs). Such NARs
+proved effective as generic solvers for algorithmic tasks, when specified in
+graph form. To make their embeddings accessible to a Transformer, we propose a
+hybrid architecture with a two-phase training procedure, allowing the tokens in
+the language model to cross-attend to the node embeddings from the NAR. We
+evaluate our resulting TransNAR model on CLRS-Text, the text-based version of
+the CLRS-30 benchmark, and demonstrate significant gains over Transformer-only
+models for algorithmic reasoning, both in and out of distribution.
+
+摘要：Transformer 憑藉其簡單但有效的架構，徹底改變了機器學習。在網際網路上的大量文字資料集上對 Transformer 進行預訓練，已為自然語言理解 (NLU) 任務帶來了無與倫比的泛化。然而，在需要演算法形式推理的任務中，此類語言模型仍然脆弱，因為計算必須精確且穩健。為了解決這個限制，我們提出了一種新方法，結合了 Transformer 的語言理解與圖形神經網路 (GNN) 為基礎的神經演算法推理器 (NAR) 的穩健性。此類 NAR 被證明在以圖形形式指定時，可作為演算法任務的通用解算器。為了讓 Transformer 可以存取其嵌入，我們提出了具有兩階段訓練程序的混合架構，讓語言模型中的符號可以交叉關注 NAR 中的節點嵌入。我們在 CLRS-Text（CLRS-30 基準的文字版本）上評估我們得到的 TransNAR 模型，並證明了在演算法推理中，無論是在分佈內或分佈外，都比僅使用 Transformer 的模型有顯著的進步。
+
+##### **ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions**
+2406.08842v1 by Xu Zhang, Xunjian Yin, Xiaojun Wan
+
+While substantial advancements have been made in developing large language
+models (LLMs), achieving control over their behavior can be difficult. Direct
+preference optimization (DPO) assumes the existence of a latent reward function
+to evaluate the responses of LLMs. This assumption indicates a strict
+preference ordering of different responses to the same input. However, there
+always exist contradictions of preference in LLMs according to our experimental
+observations. In this paper, we construct a graph structure of the preference
+relationship among different responses with self-annotation to find
+contradictions in the preference order. We propose ContraSolver, an algorithm
+that traverses all edges on the preference graph to identify those that might
+cause contradictions. ContraSolver initializes the graph with a maximum
+spanning tree and identifies contradictory edges, prioritizing the resolution
+of low-confidence preferences while preserving high-confidence ones.
+Experimental results on four different generation tasks show that the
+performance of different LLMs can be largely improved through our completely
+unsupervised self-alignment. Furthermore, by analyzing the preference graphs of
+LLMs with and without self-alignment by ContraSolver, we quantify the reduction
+in contradictions, suggesting that resolving preference contradictions is
+crucial for achieving better alignment performance.
+
+摘要：儘管在開發大型語言模型 (LLM) 方面已經取得實質性進展，但要控制其行為可能會很困難。直接偏好最佳化 (DPO) 假設存在一個潛在的獎勵函數來評估 LLM 的回應。此假設表示對相同輸入的不同回應有嚴格的偏好排序。然而，根據我們的實驗觀察，在 LLM 中始終存在偏好的矛盾。在本文中，我們構建了一個偏好關係圖，其中包含不同回應的自我註解，以找出偏好順序中的矛盾。我們提出 ContraSolver，這是一種演算法，用於遍歷偏好圖上的所有邊緣，以找出可能導致矛盾的邊緣。ContraSolver 使用最大生成樹初始化圖形，並找出矛盾的邊緣，優先解決低信心的偏好，同時保留高信心的偏好。在四項不同的生成任務上的實驗結果顯示，透過我們完全無監督的自對齊，可以大幅改善不同 LLM 的效能。此外，透過分析使用 ContraSolver 進行自對齊和未進行自對齊的 LLM 的偏好圖，我們量化了矛盾的減少，這表示解決偏好矛盾對於達成更好的對齊效能至關重要。
+
 ##### **Research Trends for the Interplay between Large Language Models and Knowledge Graphs**
 2406.08223v1 by Hanieh Khorashadizadeh, Fatima Zahra Amara, Morteza Ezzabady, Frédéric Ieng, Sanju Tiwari, Nandana Mihindukulasooriya, Jinghua Groppe, Soror Sahri, Farah Benamara, Sven Groppe
 
@@ -2518,71 +2591,4 @@ systems will play an increasingly important role in the future news industry,
 providing more efficient and reliable news services.
 
 摘要：本文探討了一種基於語言處理的自動新聞生成與事實查核系統，旨在提升新聞產製的效率與品質，同時確保新聞內容的真實性與可信度。隨著自然語言處理（NLP）與深度學習技術的快速發展，自動新聞生成系統能夠從海量資料中萃取關鍵資訊，並生成結構良好、流暢的新聞文章。同時，透過整合事實查核技術，系統能有效防止假新聞的散播，提升新聞的準確度與可信度。本研究詳細說明自動新聞生成與事實查核所涉及的關鍵技術，包括文字生成、資訊萃取、知識圖譜的應用，並透過實驗驗證這些技術的有效性。此外，本文探討自動新聞生成與事實查核系統未來的發展方向，強調技術進一步整合與創新的重要性。結果顯示，隨著技術持續優化與實務應用，這些系統將在未來的新聞產業中扮演日益重要的角色，提供更有效率、更可信賴的新聞服務。
-
-##### **4D Panoptic Scene Graph Generation**
-2405.10305v1 by Jingkang Yang, Jun Cen, Wenxuan Peng, Shuai Liu, Fangzhou Hong, Xiangtai Li, Kaiyang Zhou, Qifeng Chen, Ziwei Liu
-
-We are living in a three-dimensional space while moving forward through a
-fourth dimension: time. To allow artificial intelligence to develop a
-comprehensive understanding of such a 4D environment, we introduce 4D Panoptic
-Scene Graph (PSG-4D), a new representation that bridges the raw visual data
-perceived in a dynamic 4D world and high-level visual understanding.
-Specifically, PSG-4D abstracts rich 4D sensory data into nodes, which represent
-entities with precise location and status information, and edges, which capture
-the temporal relations. To facilitate research in this new area, we build a
-richly annotated PSG-4D dataset consisting of 3K RGB-D videos with a total of
-1M frames, each of which is labeled with 4D panoptic segmentation masks as well
-as fine-grained, dynamic scene graphs. To solve PSG-4D, we propose PSG4DFormer,
-a Transformer-based model that can predict panoptic segmentation masks, track
-masks along the time axis, and generate the corresponding scene graphs via a
-relation component. Extensive experiments on the new dataset show that our
-method can serve as a strong baseline for future research on PSG-4D. In the
-end, we provide a real-world application example to demonstrate how we can
-achieve dynamic scene understanding by integrating a large language model into
-our PSG-4D system.
-
-摘要：我們生活在三維空間中，同時在第四維度：時間中前進。為了讓人工智慧發展對這種 4D 環境的全面理解，我們引入了 4D 全景場景圖 (PSG-4D)，這是一種新的表示方式，它彌合了在動態 4D 世界中感知到的原始視覺數據和高層級視覺理解。具體來說，PSG-4D 將豐富的 4D 感測數據抽象為節點，這些節點表示具有精確位置和狀態信息的實體，以及邊緣，這些邊緣捕獲時間關係。為了促進這一新領域的研究，我們構建了一個豐富註釋的 PSG-4D 數據集，其中包含 3K RGB-D 視頻，總共 1M 幀，每個幀都標記有 4D 全景分割蒙版以及細粒度、動態場景圖。為了解決 PSG-4D，我們提出了 PSG4DFormer，這是一個基於 Transformer 的模型，它可以預測全景分割蒙版、沿時間軸追蹤蒙版，並通過關係組成產生對應的場景圖。在新的數據集上進行的廣泛實驗表明，我們的模型可以用作未來 PSG-4D 研究的強大基線。最後，我們提供了一個真實世界的應用範例，以展示如何通過將大型語言模型整合到我們的 PSG-4D 系統中來實現動態場景理解。
-
-##### **Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**
-2405.10288v2 by Jianhao Chen, Haoyuan Ouyang, Junyang Ren, Wentao Ding, Wei Hu, Yuzhong Qu
-
-Facts extraction is pivotal for constructing knowledge graphs. Recently, the
-increasing demand for temporal facts in downstream tasks has led to the
-emergence of the task of temporal fact extraction. In this paper, we
-specifically address the extraction of temporal facts from natural language
-text. Previous studies fail to handle the challenge of establishing
-time-to-fact correspondences in complex sentences. To overcome this hurdle, we
-propose a timeline-based sentence decomposition strategy using large language
-models (LLMs) with in-context learning, ensuring a fine-grained understanding
-of the timeline associated with various facts. In addition, we evaluate the
-performance of LLMs for direct temporal fact extraction and get unsatisfactory
-results. To this end, we introduce TSDRE, a method that incorporates the
-decomposition capabilities of LLMs into the traditional fine-tuning of smaller
-pre-trained language models (PLMs). To support the evaluation, we construct
-ComplexTRED, a complex temporal fact extraction dataset. Our experiments show
-that TSDRE achieves state-of-the-art results on both HyperRED-Temporal and
-ComplexTRED datasets.
-
-摘要：事實萃取對於建構知識圖譜至關重要。最近，下游任務對時間事實的需求增加，導致時間事實萃取任務的出現。在本文中，我們特別探討從自然語言文本中萃取時間事實。先前的研究無法處理在複雜句子中建立時間對事實對應的挑戰。為了克服這個障礙，我們提出使用大型語言模型 (LLM) 和情境學習的時間軸式句子分解策略，確保對與各種事實相關的時間軸有細緻的理解。此外，我們評估 LLM 在直接時間事實萃取中的表現，並得到不令人滿意的結果。為此，我們引入了 TSDRE，一種將 LLM 的分解能力整合到較小的預訓練語言模型 (PLM) 的傳統微調中的方法。為了支持評估，我們建構了 ComplexTRED，一個複雜的時間事實萃取資料集。我們的實驗表明，TSDRE 在 HyperRED-Temporal 和 ComplexTRED 資料集上都取得了最先進的結果。
-
-##### **KnowledgeHub: An end-to-end Tool for Assisted Scientific Discovery**
-2406.00008v1 by Shinnosuke Tanaka, James Barry, Vishnudev Kuruvanthodi, Movina Moses, Maxwell J. Giammona, Nathan Herr, Mohab Elkaref, Geeth De Mel
-
-This paper describes the KnowledgeHub tool, a scientific literature
-Information Extraction (IE) and Question Answering (QA) pipeline. This is
-achieved by supporting the ingestion of PDF documents that are converted to
-text and structured representations. An ontology can then be constructed where
-a user defines the types of entities and relationships they want to capture. A
-browser-based annotation tool enables annotating the contents of the PDF
-documents according to the ontology. Named Entity Recognition (NER) and
-Relation Classification (RC) models can be trained on the resulting annotations
-and can be used to annotate the unannotated portion of the documents. A
-knowledge graph is constructed from these entity and relation triples which can
-be queried to obtain insights from the data. Furthermore, we integrate a suite
-of Large Language Models (LLMs) that can be used for QA and summarisation that
-is grounded in the included documents via a retrieval component. KnowledgeHub
-is a unique tool that supports annotation, IE and QA, which gives the user full
-insight into the knowledge discovery pipeline.
-
-摘要：本文說明 KnowledgeHub 工具，這是一個科學文獻資訊萃取 (IE) 和問答 (QA) 管線。這是透過支援將 PDF 文件轉換成文字和結構化表示法來達成。接著可以建構一個本体，使用者可以在其中定義他們想要擷取的實體和關係類型。一個基於瀏覽器的註解工具可以用來根據本体對 PDF 文件的內容進行註解。命名實體辨識 (NER) 和關係分類 (RC) 模型可以根據產生的註解進行訓練，並可用於對文件未註解的部分進行註解。從這些實體和關係三元組建構一個知識圖譜，可以查詢它以從資料中獲得洞察力。此外，我們整合了一組大型語言模型 (LLM)，可用於問答和摘要，這些模型透過擷取元件建立在包含的文件中。KnowledgeHub 是一個支援註解、IE 和 QA 的獨特工具，它讓使用者可以完全了解知識發現管線。
 

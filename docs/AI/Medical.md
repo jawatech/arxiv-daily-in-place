@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
+|**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105v1](http://arxiv.org/abs/2406.09105v1)|[link](https://github.com/fdu-ins/ins-mmbench)|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v1](http://arxiv.org/abs/2406.09014v1)|null|
+|**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
+|**2024-06-13**|**Computer Vision Approaches for Automated Bee Counting Application**|Simon Bilik et.al.|[2406.08898v1](http://arxiv.org/abs/2406.08898v1)|null|
+|**2024-06-12**|**Global AI Governance in Healthcare: A Cross-Jurisdictional Regulatory Analysis**|Attrayee Chakraborty et.al.|[2406.08695v1](http://arxiv.org/abs/2406.08695v1)|null|
 |**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425v1](http://arxiv.org/abs/2406.08425v1)|[link](https://github.com/ayushroy2001/awgunet)|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
 |**2024-06-12**|**Making AI Intelligible: Philosophical Foundations**|Herman Cappelen et.al.|[2406.08134v1](http://arxiv.org/abs/2406.08134v1)|null|
@@ -96,14 +102,160 @@
 |**2024-05-28**|**FAIIR: Building Toward A Conversational AI Agent Assistant for Youth Mental Health Service Provision**|Stephen Obadinma et.al.|[2405.18553v2](http://arxiv.org/abs/2405.18553v2)|null|
 |**2024-05-28**|**An Empirical Analysis on Large Language Models in Debate Evaluation**|Xinyi Liu et.al.|[2406.00050v2](http://arxiv.org/abs/2406.00050v2)|null|
 |**2024-05-28**|**Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**|James Derek Lomas et.al.|[2405.18510v1](http://arxiv.org/abs/2405.18510v1)|null|
-|**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387v1](http://arxiv.org/abs/2405.18387v1)|[link](https://github.com/joangog/object-detection)|
-|**2024-05-28**|**Brain Tumor Segmentation (BraTS) Challenge 2024: Meningioma Radiotherapy Planning Automated Segmentation**|Dominic LaBella et.al.|[2405.18383v1](http://arxiv.org/abs/2405.18383v1)|null|
-|**2024-05-28**|**Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**|Anjanava Biswas et.al.|[2405.18346v1](http://arxiv.org/abs/2405.18346v1)|null|
-|**2024-05-28**|**Histopathology Based AI Model Predicts Anti-Angiogenic Therapy Response in Renal Cancer Clinical Trial**|Jay Jasti et.al.|[2405.18327v1](http://arxiv.org/abs/2405.18327v1)|null|
-|**2024-05-28**|**Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**|Aryo Pradipta Gema et.al.|[2405.18028v1](http://arxiv.org/abs/2405.18028v1)|null|
-|**2024-05-28**|**Towards Clinical AI Fairness: Filling Gaps in the Puzzle**|Mingxuan Liu et.al.|[2405.17921v1](http://arxiv.org/abs/2405.17921v1)|null|
 
 #### Abstracts
+##### **Investigating potential causes of Sepsis with Bayesian network structure learning**
+2406.09207v1 by Bruno Petrungaro, Neville K. Kitson, Anthony C. Constantinou
+
+Sepsis is a life-threatening and serious global health issue. This study
+combines knowledge with available hospital data to investigate the potential
+causes of Sepsis that can be affected by policy decisions. We investigate the
+underlying causal structure of this problem by combining clinical expertise
+with score-based, constraint-based, and hybrid structure learning algorithms. A
+novel approach to model averaging and knowledge-based constraints was
+implemented to arrive at a consensus structure for causal inference. The
+structure learning process highlighted the importance of exploring data-driven
+approaches alongside clinical expertise. This includes discovering unexpected,
+although reasonable, relationships from a clinical perspective. Hypothetical
+interventions on Chronic Obstructive Pulmonary Disease, Alcohol dependence, and
+Diabetes suggest that the presence of any of these risk factors in patients
+increases the likelihood of Sepsis. This finding, alongside measuring the
+effect of these risk factors on Sepsis, has potential policy implications.
+Recognising the importance of prediction in improving Sepsis related health
+outcomes, the model built is also assessed in its ability to predict Sepsis.
+The predictions generated by the consensus model were assessed for their
+accuracy, sensitivity, and specificity. These three indicators all had results
+around 70%, and the AUC was 80%, which means the causal structure of the model
+is reasonably accurate given that the models were trained on data available for
+commissioning purposes only.
+
+摘要：敗血症是一個危及生命且嚴重的全球性健康問題。本研究結合知識與現有的醫院資料，探討可受政策決策影響的敗血症潛在成因。我們結合臨床專業知識與基於分數、基於約束和混合結構學習演算法，探討這個問題的根本因果結構。實作了一種模型平均和基於知識的約束的新方法，以達成因果推論的共識結構。結構學習過程強調了在臨床專業知識的基礎上探索資料驅動方法的重要性。這包括從臨床觀點發現出乎意料，但合理的關係。對慢性阻塞性肺疾病、酒精依賴和糖尿病的假設性干預表明，患者存在任何這些風險因素都會增加敗血症的可能性。這個發現，以及測量這些風險因素對敗血症的影響，具有潛在的政策影響。認識到預測在改善敗血症相關健康結果中的重要性，所建立的模型也評估了其預測敗血症的能力。評估共識模型產生的預測的準確性、敏感性和特異性。這三個指標的結果都在 70% 左右，而 AUC 為 80%，這表示模型的因果結構相當準確，因為模型僅根據可用於委託目的的資料進行訓練。
+
+##### **INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**
+2406.09105v1 by Chenwei Lin, Hanjia Lyu, Xian Xu, Jiebo Luo
+
+Large Vision-Language Models (LVLMs) have demonstrated outstanding
+performance in various general multimodal applications such as image
+recognition and visual reasoning, and have also shown promising potential in
+specialized domains. However, the application potential of LVLMs in the
+insurance domain-characterized by rich application scenarios and abundant
+multimodal data-has not been effectively explored. There is no systematic
+review of multimodal tasks in the insurance domain, nor a benchmark
+specifically designed to evaluate the capabilities of LVLMs in insurance. This
+gap hinders the development of LVLMs within the insurance domain. In this
+paper, we systematically review and distill multimodal tasks for four
+representative types of insurance: auto insurance, property insurance, health
+insurance, and agricultural insurance. We propose INS-MMBench, the first
+comprehensive LVLMs benchmark tailored for the insurance domain. INS-MMBench
+comprises a total of 2.2K thoroughly designed multiple-choice questions,
+covering 12 meta-tasks and 22 fundamental tasks. Furthermore, we evaluate
+multiple representative LVLMs, including closed-source models such as GPT-4o
+and open-source models like BLIP-2. This evaluation not only validates the
+effectiveness of our benchmark but also provides an in-depth performance
+analysis of current LVLMs on various multimodal tasks in the insurance domain.
+We hope that INS-MMBench will facilitate the further application of LVLMs in
+the insurance domain and inspire interdisciplinary development. Our dataset and
+evaluation code are available at https://github.com/FDU-INS/INS-MMBench.
+
+摘要：大型视觉语言模型 (LVLMs) 已在图像识别和视觉推理等各种通用多模态应用程序中展示了出色的性能，并且在专门的领域中也显示出有希望的潜力。然而，LVLMs 在保险领域（以丰富的应用场景和大量多模态数据为特征）的应用潜力尚未得到有效探索。目前还没有对保险领域的模态任务进行系统的审查，也没有专门设计用来评估 LVLMs 在保险中的能力的基准。这种差距阻碍了 LVLMs 在保险领域的开发。在本文中，我们系统地审查和提炼了四种代表性保险类型的多模态任务：汽车保险、财产保险、健康保险和农业保险。我们提出了 INS-MMBench，这是第一个针对保险领域定制的综合 LVLMs 基准。INS-MMBench 包含总共 2.2K 个经过精心设计的单选题，涵盖 12 个元任务和 22 个基本任务。此外，我们评估了多种代表性 LVLMs，包括封闭源模型（如 GPT-4o）和开放源模型（如 BLIP-2）。此评估不仅验证了我们基准的有效性，还提供了当前 LVLMs 在保险领域各种多模态任务上的深入性能分析。我们希望 INS-MMBench 将促进 LVLMs 在保险领域的进一步应用，并激发跨学科发展。我们的数据集和评估代码可在 https://github.com/FDU-INS/INS-MMBench 获得。
+
+##### **Deep learning empowered sensor fusion to improve infant movement classification**
+2406.09014v1 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
+
+There is a recent boom in the development of AI solutions to facilitate and
+enhance diagnostic procedures for established clinical tools. To assess the
+integrity of the developing nervous system, the Prechtl general movement
+assessment (GMA) is recognized for its clinical value in the diagnosis of
+neurological impairments in early infancy. GMA has been increasingly augmented
+through machine learning approaches intending to scale-up its application,
+circumvent costs in the training of human assessors and further standardize
+classification of spontaneous motor patterns. Available deep learning tools,
+all of which are based on single sensor modalities, are however still
+considerably inferior to that of well-trained human assessors. These approaches
+are hardly comparable as all models are designed, trained and evaluated on
+proprietary/ silo-data sets. We propose a sensor fusion approach for assessing
+fidgety movements (FMs) comparing three different sensor modalities (pressure,
+inertial, and visual sensors). Various combinations and two sensor fusion
+approaches (late and early fusion) for infant movement classification were
+tested to evaluate whether a multi-sensor system outperforms single modality
+assessments. The performance of the three-sensor fusion (classification
+accuracy of 94.5\%) was significantly higher than that of any single modality
+evaluated, suggesting the sensor fusion approach is a promising avenue for
+automated classification of infant motor patterns. The development of a robust
+sensor fusion system may significantly enhance AI-based early recognition of
+neurofunctions, ultimately facilitating early implementation of automated
+detection of neurodevelopmental conditions.
+
+摘要：隨著人工智慧解決方案的蓬勃發展，用於促進和增強既有臨床工具的診斷程序。為了評估正在發展的神經系統的完整性，Prechtl 一般運動評估 (GMA) 因其在診斷早期嬰兒神經損傷的臨床價值而受到認可。GMA 已透過機器學習方法不斷擴充，旨在擴大其應用範圍，規避人類評估人員培訓成本，並進一步標準化自發性運動模式的分類。現有的深度學習工具，全部基於單一感測器模式，但仍遠不如訓練有素的人類評估人員。這些方法幾乎無法比較，因為所有模型都是在專有/孤立數據集上設計、訓練和評估的。我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後期融合和早期融合）以進行嬰兒運動分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的表現（分類準確度為 94.5%）顯著高於所評估的任何單一模式，這表明感測器融合方法是自動分類嬰兒運動模式的一個有前途的途徑。一個強大的感測器融合系統的開發可能會顯著增強基於人工智慧的早期神經功能識別，最終促進神經發育狀況的自動化檢測的早期實施。
+
+##### **Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**
+2406.08930v1 by Qihan Hu, Daomiao Wang, Hong Wu, Jian Liu, Cuiwei Yang
+
+The progression of deep learning and the widespread adoption of sensors have
+facilitated automatic multi-view fusion (MVF) about the cardiovascular system
+(CVS) signals. However, prevalent MVF model architecture often amalgamates CVS
+signals from the same temporal step but different views into a unified
+representation, disregarding the asynchronous nature of cardiovascular events
+and the inherent heterogeneity across views, leading to catastrophic view
+confusion. Efficient training strategies specifically tailored for MVF models
+to attain comprehensive representations need simultaneous consideration.
+Crucially, real-world data frequently arrives with incomplete views, an aspect
+rarely noticed by researchers. Thus, the View-Centric Transformer (VCT) and
+Multitask Masked Autoencoder (M2AE) are specifically designed to emphasize the
+centrality of each view and harness unlabeled data to achieve superior fused
+representations. Additionally, we systematically define the missing-view
+problem for the first time and introduce prompt techniques to aid pretrained
+MVF models in flexibly adapting to various missing-view scenarios. Rigorous
+experiments involving atrial fibrillation detection, blood pressure estimation,
+and sleep staging-typical health monitoring tasks-demonstrate the remarkable
+advantage of our method in MVF compared to prevailing methodologies. Notably,
+the prompt technique requires finetuning less than 3% of the entire model's
+data, substantially fortifying the model's resilience to view missing while
+circumventing the need for complete retraining. The results demonstrate the
+effectiveness of our approaches, highlighting their potential for practical
+applications in cardiovascular health monitoring. Codes and models are released
+at URL.
+
+摘要：深度學習的進展和感測器的廣泛採用，促進了心血管系統 (CVS) 訊號的自動多視角融合 (MVF)。然而，普遍的 MVF 模型架構經常將來自相同時間步驟但不同視角的 CVS 訊號融合為統一的表示，忽視了心血管事件的非同步性質和視角之間的內在異質性，導致災難性的視角混淆。需要同時考慮專門針對 MVF 模型量身打造的有效訓練策略，以獲得全面的表示。至關重要的是，真實世界的資料經常會出現不完整的視角，研究人員很少注意到這個面向。因此，視角中心Transformer (VCT) 和多任務遮罩式自動編碼器 (M2AE) 被特別設計為強調每個視角的中心性，並利用未標記的資料來實現優越的融合表示。此外，我們系統性地首次定義了缺失視角問題，並引入了提示技術，以幫助預訓練的 MVF 模型靈活適應各種缺失視角場景。涉及心房顫動偵測、血壓估計和睡眠分期的嚴謹實驗（典型的健康監測任務）證明了我們的方法在 MVF 中與現有方法相比具有顯著優勢。值得注意的是，提示技術需要微調不到整個模型資料的 3%，這大大加強了模型對視角缺失的復原力，同時避免了重新訓練的需要。結果證明了我們方法的有效性，突出了它們在心血管健康監測中的實際應用潛力。程式碼和模型已在 URL 中發布。
+
+##### **Computer Vision Approaches for Automated Bee Counting Application**
+2406.08898v1 by Simon Bilik, Ilona Janakova, Adam Ligocki, Dominik Ficek, Karel Horak
+
+Many application from the bee colony health state monitoring could be
+efficiently solved using a computer vision techniques. One of such challenges
+is an efficient way for counting the number of incoming and outcoming bees,
+which could be used to further analyse many trends, such as the bee colony
+health state, blooming periods, or for investigating the effects of
+agricultural spraying. In this paper, we compare three methods for the
+automated bee counting over two own datasets. The best performing method is
+based on the ResNet-50 convolutional neural network classifier, which achieved
+accuracy of 87% over the BUT1 dataset and the accuracy of 93% over the BUT2
+dataset.
+
+摘要：許多應用程式從蜜蜂群體健康狀態監控中，能有效率地使用電腦視覺技術解決。其中一個挑戰是有效率地計算進出蜂群的數量，這能用來進一步分析許多趨勢，例如蜜蜂群體健康狀態、開花期，或用於調查農業噴灑的影響。在本文中，我們比較了三個自動化計算蜜蜂數量的方法，使用兩個我們自己的資料集。表現最好的方法是基於 ResNet-50 捲積神經網路分類器，在 BUT1 資料集上達到 87% 的準確度，在 BUT2 資料集上達到 93% 的準確度。
+
+##### **Global AI Governance in Healthcare: A Cross-Jurisdictional Regulatory Analysis**
+2406.08695v1 by Attrayee Chakraborty, Mandar Karhade
+
+Artificial Intelligence (AI) is being adopted across the world and promises a
+new revolution in healthcare. While AI-enabled medical devices in North America
+dominate 42.3% of the global market, the use of AI-enabled medical devices in
+other countries is still a story waiting to be unfolded. We aim to delve deeper
+into global regulatory approaches towards AI use in healthcare, with a focus on
+how common themes are emerging globally. We compare these themes to the World
+Health Organization's (WHO) regulatory considerations and principles on ethical
+use of AI for healthcare applications. Our work seeks to take a global
+perspective on AI policy by analyzing 14 legal jurisdictions including
+countries representative of various regions in the world (North America, South
+America, South East Asia, Middle East, Africa, Australia, and the
+Asia-Pacific). Our eventual goal is to foster a global conversation on the
+ethical use of AI in healthcare and the regulations that will guide it. We
+propose solutions to promote international harmonization of AI regulations and
+examine the requirements for regulating generative AI, using China and
+Singapore as examples of countries with well-developed policies in this area.
+
+摘要：人工智能（AI）正在全球范围内得到採用，並承諾在醫療保健領域掀起一場新的革命。儘管北美的人工智慧醫療設備主導了全球市場的 42.3%，但其他國家/地區的人工智慧醫療設備的使用情況仍是一個有待展開的故事。我們旨在深入探討全球對醫療保健中 AI 使用的法規方法，重點關注全球範圍內如何出現共同的主題。我們將這些主題與世界衛生組織 (WHO) 對醫療保健應用中 AI 道德使用的法規考量和原則進行比較。我們的研究旨在通過分析 14 個法域（包括代表世界各地不同地區的國家/地區（北美、南美、東南亞、中東、非洲、澳大利亞和亞太地區））來對 AI 政策採取全球觀點。我們的最終目標是促進關於醫療保健中 AI 道德使用和將指導它的法規的全球對話。我們提出解決方案以促進 AI 法規的國際協調，並以中國和新加坡為例，探討了對生成式 AI 進行監管的要求，這些國家/地區在這一領域擁有完善的政策。
+
 ##### **AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**
 2406.08425v1 by Ayush Roy, Payel Pramanik, Dmitrii Kaplun, Sergei Antonov, Ram Sarkar
 
@@ -2447,159 +2599,4 @@ improvement. We conclude with a discussion of the implications for future AI
 systems designed to support mental health and wellbeing.
 
 摘要：生成式 AI 系統越來越能夠透過文字和圖像表達情緒。有效的表達情緒很可能會在 AI 系統的效能中扮演重要角色，尤其是那些設計用來支持人類心理健康和福祉的系統。這激勵了我們目前的這項研究，以期能更了解 AI 表達的情緒與人類對情緒的感知之間的對齊。當 AI 嘗試表達特定情緒時，我們該如何評估他們是否成功？為了回答這個問題，我們設計了一項調查，以衡量生成式 AI 表達的情緒與人類感知之間的對齊。三個生成式影像模型（DALL-E 2、DALL-E 3 和 Stable Diffusion v1）用於產生 240 個影像範例，每個範例都基於一個提示，旨在表達人類和機器人五種正向和五種負向情緒。從 Prolific 網站招募的 24 位參與者評估了 AI 生成的表情與用於產生情緒的文字提示之間的對齊（例如，「表達娛樂情緒的機器人」）。我們的評估結果表明，生成式 AI 模型確實能夠產生與一系列人類情緒高度對齊的情緒表達；然而，我們表明，對齊在很大程度上取決於所使用的 AI 模型和情緒本身。我們分析這些系統效能的變化，以找出未來改進的差距。我們最後討論了對未來旨在支持心理健康和福祉的 AI 系統的影響。
-
-##### **A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**
-2405.18387v1 by Ioanna Gogou, Dimitrios Koutsomitropoulos
-
-Convolutional Neural Networks (CNN) are commonly used for the problem of
-object detection thanks to their increased accuracy. Nevertheless, the
-performance of CNN-based detection models is ambiguous when detection speed is
-considered. To the best of our knowledge, there has not been sufficient
-evaluation of the available methods in terms of the speed/accuracy trade-off in
-related literature. This work assesses the most fundamental object detection
-models on the Common Objects in Context (COCO) dataset with respect to this
-trade-off, their memory consumption, and computational and storage cost. Next,
-we select a highly efficient model called YOLOv5 to train on the topical and
-unexplored dataset of human faces with medical masks, the Properly-Wearing
-Masked Faces Dataset (PWMFD), and analyze the benefits of specific optimization
-techniques for real-time medical mask detection: transfer learning, data
-augmentations, and a Squeeze-and-Excitation attention mechanism. Using our
-findings in the context of the COVID-19 pandemic, we propose an optimized model
-based on YOLOv5s using transfer learning for the detection of correctly and
-incorrectly worn medical masks that surpassed more than two times in speed (69
-frames per second) the state-of-the-art model SE-YOLOv3 on the PWMFD dataset
-while maintaining the same level of mean Average Precision (67%).
-
-摘要：卷積神經網路 (CNN) 因其準確度高而常被用於目標偵測問題。然而，當考量偵測速度時，基於 CNN 的偵測模型效能卻模稜兩可。據我們所知，相關文獻中尚未對可用方法進行足夠的評估，以了解速度/準確度的權衡取捨。本研究針對 Common Objects in Context (COCO) 資料集評估最基本的目標偵測模型，考量上述權衡取捨、記憶體消耗，以及運算和儲存成本。接著，我們選擇一個名為 YOLOv5 的高效率模型，在主題性且尚未探索的人臉戴醫用口罩資料集 Properly-Wearing Masked Faces Dataset (PWMFD) 上進行訓練，並分析特定最佳化技術對即時醫用口罩偵測的優點：遷移學習、資料擴充，以及 Squeeze-and-Excitation 注意力機制。我們在 COVID-19 疫情的背景下運用研究結果，提出一個基於 YOLOv5s 的最佳化模型，使用遷移學習偵測正確和錯誤配戴的醫用口罩，在 PWMFD 資料集上的速度比最先進的 SE-YOLOv3 模型快兩倍以上 (每秒 69 幀)，同時維持相同等級的平均準確度 (67%)。
-
-##### **Brain Tumor Segmentation (BraTS) Challenge 2024: Meningioma Radiotherapy Planning Automated Segmentation**
-2405.18383v1 by Dominic LaBella, Katherine Schumacher, Michael Mix, Kevin Leu, Shan McBurney-Lin, Pierre Nedelec, Javier Villanueva-Meyer, Jonathan Shapey, Tom Vercauteren, Kazumi Chia, Omar Al-Salihi, Justin Leu, Lia Halasz, Yury Velichko, Chunhao Wang, John Kirkpatrick, Scott Floyd, Zachary J. Reitman, Trey Mullikin, Ulas Bagci, Sean Sachdev, Jona A. Hattangadi-Gluth, Tyler Seibert, Nikdokht Farid, Connor Puett, Matthew W. Pease, Kevin Shiue, Syed Muhammad Anwar, Shahriar Faghani, Muhammad Ammar Haider, Pranav Warman, Jake Albrecht, András Jakab, Mana Moassefi, Verena Chung, Alejandro Aristizabal, Alexandros Karargyris, Hasan Kassem, Sarthak Pati, Micah Sheller, Christina Huang, Aaron Coley, Siddharth Ghanta, Alex Schneider, Conrad Sharp, Rachit Saluja, Florian Kofler, Philipp Lohmann, Phillipp Vollmuth, Louis Gagnon, Maruf Adewole, Hongwei Bran Li, Anahita Fathi Kazerooni, Nourel Hoda Tahon, Udunna Anazodo, Ahmed W. Moawad, Bjoern Menze, Marius George Linguraru, Mariam Aboian, Benedikt Wiestler, Ujjwal Baid, Gian-Marco Conte, Andreas M. T. Rauschecker, Ayman Nada, Aly H. Abayazeed, Raymond Huang, Maria Correia de Verdier, Jeffrey D. Rudie, Spyridon Bakas, Evan Calabrese
-
-The 2024 Brain Tumor Segmentation Meningioma Radiotherapy (BraTS-MEN-RT)
-challenge aims to advance automated segmentation algorithms using the largest
-known multi-institutional dataset of radiotherapy planning brain MRIs with
-expert-annotated target labels for patients with intact or post-operative
-meningioma that underwent either conventional external beam radiotherapy or
-stereotactic radiosurgery. Each case includes a defaced 3D post-contrast
-T1-weighted radiotherapy planning MRI in its native acquisition space,
-accompanied by a single-label "target volume" representing the gross tumor
-volume (GTV) and any at-risk post-operative site. Target volume annotations
-adhere to established radiotherapy planning protocols, ensuring consistency
-across cases and institutions. For pre-operative meningiomas, the target volume
-encompasses the entire GTV and associated nodular dural tail, while for
-post-operative cases, it includes at-risk resection cavity margins as
-determined by the treating institution. Case annotations were reviewed and
-approved by expert neuroradiologists and radiation oncologists. Participating
-teams will develop, containerize, and evaluate automated segmentation models
-using this comprehensive dataset. Model performance will be assessed using the
-lesion-wise Dice Similarity Coefficient and the 95% Hausdorff distance. The
-top-performing teams will be recognized at the Medical Image Computing and
-Computer Assisted Intervention Conference in October 2024. BraTS-MEN-RT is
-expected to significantly advance automated radiotherapy planning by enabling
-precise tumor segmentation and facilitating tailored treatment, ultimately
-improving patient outcomes.
-
-摘要：2024 年腦瘤分割腦膜瘤放射治療 (BraTS-MEN-RT) 挑戰旨在使用已知最大的放射治療規劃腦部 MRI 多機構資料集，來推進自動分割演算法，其中包含接受傳統體外放射治療或立體定向放射外科手術的完整或術後腦膜瘤患者的專家標註目標標籤。每個案例都包含一個去識別化的 3D 對比後 T1 加權放射治療規劃 MRI，在原生擷取空間中，並附有一個代表總腫瘤體積 (GTV) 和任何有風險的術後部位的單標籤「目標體積」。目標體積註解遵循既定的放射治療規劃協議，確保各個案例和機構之間的一致性。對於術前腦膜瘤，目標體積包含整個 GTV 和相關結節性硬腦膜尾，而對於術後病例，則包括由治療機構確定的有風險的切除腔隙邊緣。案例註解已由專家神經放射科醫師和放射腫瘤科醫師審查並核准。參與團隊將使用這個全面的資料集來開發、封裝和評估自動分割模型。模型效能將使用病灶明智的 Dice 相似性係數和 95% Hausdorff 距離進行評估。表現最佳的團隊將在 2024 年 10 月的醫學影像運算和電腦輔助介入會議上獲得肯定。預計 BraTS-MEN-RT 將透過實現精確的腫瘤分割和促進客製化治療來大幅推進自動放射治療規劃，最終改善患者的治療結果。
-
-##### **Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**
-2405.18346v1 by Anjanava Biswas, Wrick Talukdar
-
-Comprehensive clinical documentation is crucial for effective healthcare
-delivery, yet it poses a significant burden on healthcare professionals,
-leading to burnout, increased medical errors, and compromised patient safety.
-This paper explores the potential of generative AI (Artificial Intelligence) to
-streamline the clinical documentation process, specifically focusing on
-generating SOAP (Subjective, Objective, Assessment, Plan) and BIRP (Behavior,
-Intervention, Response, Plan) notes. We present a case study demonstrating the
-application of natural language processing (NLP) and automatic speech
-recognition (ASR) technologies to transcribe patient-clinician interactions,
-coupled with advanced prompting techniques to generate draft clinical notes
-using large language models (LLMs). The study highlights the benefits of this
-approach, including time savings, improved documentation quality, and enhanced
-patient-centered care. Additionally, we discuss ethical considerations, such as
-maintaining patient confidentiality and addressing model biases, underscoring
-the need for responsible deployment of generative AI in healthcare settings.
-The findings suggest that generative AI has the potential to revolutionize
-clinical documentation practices, alleviating administrative burdens and
-enabling healthcare professionals to focus more on direct patient care.
-
-摘要：全面的臨床文件對於有效的醫療保健服務至關重要，但它對醫療保健專業人員造成了重大負擔，導致倦怠、醫療錯誤增加以及患者安全受到影響。本文探討了生成式 AI（人工智慧）簡化臨床文件流程的可能性，特別專注於生成 SOAP（主觀、客觀、評估、計畫）和 BIRP（行為、介入、反應、計畫）記錄。我們提出了一個案例研究，展示了自然語言處理（NLP）和自動語音辨識（ASR）技術在轉錄患者與臨床醫師互動方面的應用，以及結合先進的提示技術，使用大型語言模型（LLM）生成臨床記錄草稿。這項研究強調了這種方法的好處，包括節省時間、改善文件品質，以及增強以患者為中心的照護。此外，我們討論了道德考量，例如維護患者機密性和解決模型偏差，強調在醫療保健環境中負責任地部署生成式 AI 的必要性。研究結果表明，生成式 AI 有可能徹底改變臨床文件實務，減輕行政負擔，並使醫療保健專業人員能夠更多地專注於直接的患者照護。
-
-##### **Histopathology Based AI Model Predicts Anti-Angiogenic Therapy Response in Renal Cancer Clinical Trial**
-2405.18327v1 by Jay Jasti, Hua Zhong, Vandana Panwar, Vipul Jarmale, Jeffrey Miyata, Deyssy Carrillo, Alana Christie, Dinesh Rakheja, Zora Modrusan, Edward Ernest Kadel III, Niha Beig, Mahrukh Huseni, James Brugarolas, Payal Kapur, Satwik Rajaram
-
-Predictive biomarkers of treatment response are lacking for metastatic clear
-cell renal cell carcinoma (ccRCC), a tumor type that is treated with
-angiogenesis inhibitors, immune checkpoint inhibitors, mTOR inhibitors and a
-HIF2 inhibitor. The Angioscore, an RNA-based quantification of angiogenesis, is
-arguably the best candidate to predict anti-angiogenic (AA) response. However,
-the clinical adoption of transcriptomic assays faces several challenges
-including standardization, time delay, and high cost. Further, ccRCC tumors are
-highly heterogenous, and sampling multiple areas for sequencing is impractical.
-Here we present a novel deep learning (DL) approach to predict the Angioscore
-from ubiquitous histopathology slides. To overcome the lack of
-interpretability, one of the biggest limitations of typical DL models, our
-model produces a visual vascular network which is the basis of the model's
-prediction. To test its reliability, we applied this model to multiple cohorts
-including a clinical trial dataset. Our model accurately predicts the RNA-based
-Angioscore on multiple independent cohorts (spearman correlations of 0.77 and
-0.73). Further, the predictions help unravel meaningful biology such as
-association of angiogenesis with grade, stage, and driver mutation status.
-Finally, we find our model can predict response to AA therapy, in both a
-real-world cohort and the IMmotion150 clinical trial. The predictive power of
-our model vastly exceeds that of CD31, a marker of vasculature, and nearly
-rivals the performance (c-index 0.66 vs 0.67) of the ground truth RNA-based
-Angioscore at a fraction of the cost. By providing a robust yet interpretable
-prediction of the Angioscore from histopathology slides alone, our approach
-offers insights into angiogenesis biology and AA treatment response.
-
-摘要：<paragraph>對於轉移性透明細胞腎細胞癌 (ccRCC)，一種用於治療血管生成抑制劑、免疫檢查點抑制劑、mTOR 抑制劑和 HIF2 抑制劑的腫瘤類型，目前缺乏治療反應的預測性生物標記。Angioscore 是一種基於 RNA 的血管生成量化，可以說是預測抗血管生成 (AA) 反應的最佳候選者。然而，轉錄組檢測的臨床應用面臨著標準化、時間延遲和高成本等多項挑戰。此外，ccRCC 腫瘤高度異質，對多個區域進行取樣以進行測序並不切實際。在此，我們提出了一種新穎的深度學習 (DL) 方法，可從普遍存在的組織病理切片中預測 Angioscore。為了克服可解釋性的缺乏，這是典型 DL 模型最大的限制之一，我們的模型產生了一個視覺血管網路，這是模型預測的基礎。為了測試其可靠性，我們將此模型應用於多個群組，包括臨床試驗資料集。我們的模型準確預測了多個獨立群組的基於 RNA 的 Angioscore（spearman 相關係數為 0.77 和 0.73）。此外，這些預測有助於解開有意義的生物學，例如血管生成與等級、階段和驅動突變狀態的關聯。最後，我們發現我們的模型可以預測對 AA 治療的反應，無論是在現實世界群組還是 IMmotion150 臨床試驗中。我們模型的預測能力遠遠超過血管標記 CD31，並且幾乎與基於 RNA 的真實 Angioscore 的效能（c 指數 0.66 對 0.67）相當，而成本卻只是後者的零頭。通過僅從組織病理切片中提供對 Angioscore 的強大且可解釋的預測，我們的方法提供了對血管生成生物學和 AA 治療反應的見解。</paragraph>
-
-##### **Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**
-2405.18028v1 by Aryo Pradipta Gema, Chaeeun Lee, Pasquale Minervini, Luke Daines, T. Ian Simpson, Beatrice Alex
-
-The MEDIQA-CORR 2024 shared task aims to assess the ability of Large Language
-Models (LLMs) to identify and correct medical errors in clinical notes. In this
-study, we evaluate the capability of general LLMs, specifically GPT-3.5 and
-GPT-4, to identify and correct medical errors with multiple prompting
-strategies. Recognising the limitation of LLMs in generating accurate
-corrections only via prompting strategies, we propose incorporating error-span
-predictions from a smaller, fine-tuned model in two ways: 1) by presenting it
-as a hint in the prompt and 2) by framing it as multiple-choice questions from
-which the LLM can choose the best correction. We found that our proposed
-prompting strategies significantly improve the LLM's ability to generate
-corrections. Our best-performing solution with 8-shot + CoT + hints ranked
-sixth in the shared task leaderboard. Additionally, our comprehensive analyses
-show the impact of the location of the error sentence, the prompted role, and
-the position of the multiple-choice option on the accuracy of the LLM. This
-prompts further questions about the readiness of LLM to be implemented in
-real-world clinical settings.
-
-摘要：MEDIQA-CORR 2024 共享任務旨在評估大型語言模型 (LLM) 在臨床筆記中識別和更正醫療錯誤的能力。在此研究中，我們評估通用 LLM，特別是 GPT-3.5 和 GPT-4，識別和更正醫療錯誤的能力，並採用多種提示策略。認識到 LLM 僅通過提示策略生成準確更正的限制，我們建議以兩種方式整合來自較小的微調模型的錯誤範圍預測：1) 在提示中將其表示為提示，以及 2) 將其設定為多選題，LLM 可以從中選擇最佳更正。我們發現我們提出的提示策略顯著提高了 LLM 生成更正的能力。我們在共享任務排行榜中排名第六的最佳執行方案是 8 次嘗試 + CoT + 提示。此外，我們全面的分析顯示了錯誤句子位置、提示角色和多選項位置對 LLM 準確性的影響。這引發了進一步的問題，即 LLM 是否已準備好實施在現實世界的臨床環境中。
-
-##### **Towards Clinical AI Fairness: Filling Gaps in the Puzzle**
-2405.17921v1 by Mingxuan Liu, Yilin Ning, Salinelat Teixayavong, Xiaoxuan Liu, Mayli Mertens, Yuqing Shang, Xin Li, Di Miao, Jie Xu, Daniel Shu Wei Ting, Lionel Tim-Ee Cheng, Jasmine Chiat Ling Ong, Zhen Ling Teo, Ting Fang Tan, Narrendar RaviChandran, Fei Wang, Leo Anthony Celi, Marcus Eng Hock Ong, Nan Liu
-
-The ethical integration of Artificial Intelligence (AI) in healthcare
-necessitates addressing fairness-a concept that is highly context-specific
-across medical fields. Extensive studies have been conducted to expand the
-technical components of AI fairness, while tremendous calls for AI fairness
-have been raised from healthcare. Despite this, a significant disconnect
-persists between technical advancements and their practical clinical
-applications, resulting in a lack of contextualized discussion of AI fairness
-in clinical settings. Through a detailed evidence gap analysis, our review
-systematically pinpoints several deficiencies concerning both healthcare data
-and the provided AI fairness solutions. We highlight the scarcity of research
-on AI fairness in many medical domains where AI technology is increasingly
-utilized. Additionally, our analysis highlights a substantial reliance on group
-fairness, aiming to ensure equality among demographic groups from a macro
-healthcare system perspective; in contrast, individual fairness, focusing on
-equity at a more granular level, is frequently overlooked. To bridge these
-gaps, our review advances actionable strategies for both the healthcare and AI
-research communities. Beyond applying existing AI fairness methods in
-healthcare, we further emphasize the importance of involving healthcare
-professionals to refine AI fairness concepts and methods to ensure contextually
-relevant and ethically sound AI applications in healthcare.
-
-摘要：人工智慧 (AI) 在醫療保健中的倫理整合需要處理公平性——這個概念在各個醫療領域中高度特定於情境。已經進行了廣泛的研究來擴展 AI 公平性的技術組成，而來自醫療保健的 AI 公平性呼聲也很大。儘管如此，技術進步與其實際臨床應用之間仍然存在顯著的脫節，導致在臨床環境中缺乏對 AI 公平性的情境化討論。透過詳細的證據差距分析，我們的回顧系統性地找出了與醫療保健資料和提供的 AI 公平性解決方案相關的幾個缺陷。我們強調在許多醫療領域中缺乏對 AI 公平性的研究，而這些領域中 AI 技術的使用越來越多。此外，我們的分析強調了對群體公平性的實質依賴，旨在從巨觀醫療保健系統的角度確保人口群體之間的平等；相比之下，關注更細緻層級公平性的個別公平性常常被忽視。為了彌補這些差距，我們的回顧提出了針對醫療保健和 AI 研究社群的可行策略。除了在醫療保健中應用現有的 AI 公平性方法之外，我們進一步強調了讓醫療保健專業人員參與的重要性，以完善 AI 公平性概念和方法，以確保在醫療保健中具有情境相關性和符合倫理的 AI 應用。
 

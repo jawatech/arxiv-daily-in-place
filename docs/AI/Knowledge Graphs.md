@@ -7,18 +7,18 @@
 |**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727v1](http://arxiv.org/abs/2406.07727v1)|null|
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
 |**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
-|**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|null|
+|**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|[link](https://github.com/ipl-uv/causal_gpt)|
 |**2024-06-11**|**Scaling Large-Language-Model-based Multi-Agent Collaboration**|Chen Qian et.al.|[2406.07155v1](http://arxiv.org/abs/2406.07155v1)|[link](https://github.com/openbmb/chatdev)|
 |**2024-06-11**|**Mining Frequent Structures in Conceptual Models**|Mattia Fumagalli et.al.|[2406.07129v1](http://arxiv.org/abs/2406.07129v1)|[link](https://github.com/unibz-core/cm-mining_experimentdata)|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113v1](http://arxiv.org/abs/2406.07113v1)|null|
-|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|[link](https://github.com/UKPLab/acl2024-DARA)|
 |**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034v1](http://arxiv.org/abs/2406.07034v1)|[link](https://github.com/kjh9503/caqr)|
-|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v1](http://arxiv.org/abs/2406.06777v1)|null|
+|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v2](http://arxiv.org/abs/2406.06777v2)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032v1](http://arxiv.org/abs/2406.06032v1)|null|
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
 |**2024-06-07**|**TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**|Mustafa Ocal et.al.|[2406.05265v1](http://arxiv.org/abs/2406.05265v1)|null|
-|**2024-06-07**|**LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering**|Harry Li et.al.|[2406.06621v1](http://arxiv.org/abs/2406.06621v1)|null|
+|**2024-06-07**|**LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering**|Harry Li et.al.|[2406.06621v1](http://arxiv.org/abs/2406.06621v1)|[link](https://github.com/mit-ll/linkq)|
 |**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|[link](https://github.com/ltgoslo/text-graph-generalization)|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
@@ -386,7 +386,7 @@ https://github.com/kjh9503/caqr.
 摘要：多跳邏輯推理是自然語言處理中的關鍵任務，許多方法旨在回答一階邏輯 (FOL) 查詢。最近的幾何形狀（例如，盒子、圓錐）和機率（例如，貝塔分佈）方法有效地解決了複雜的 FOL 查詢。然而，這些方法的共同挑戰在於，為這些查詢確定準確的幾何界限或機率參數。挑戰出現的原因在於，現有方法依賴於其運算圖形中的線性順序運算，忽略了查詢的邏輯結構以及可以從查詢關係中收集到的關係誘導資訊，我們稱之為查詢的背景。為了解決這個問題，我們提出了一種與模型無關的方法，透過完全整合 FOL 查詢圖形的背景，來提升現有多跳邏輯推理方法的效能。我們的做法獨特地辨別了 (1) 查詢結構固有的結構背景，以及 (2) 查詢圖形中每個節點獨有的關係誘導背景，如對應的知識圖形中所描繪的。這種雙重背景範例有助於查詢圖形中的節點在多跳推理步驟中獲得精緻的內部表示。透過在兩個資料集上進行實驗，我們的模型持續增強三種多跳推理基礎模型，效能提升最高達 19.5%。我們的程式碼可在 https://github.com/kjh9503/caqr 取得。
 
 ##### **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-2406.06777v1 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
+2406.06777v2 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
 
 Recently, Large Language Models (LLMs) with their strong task-handling
 capabilities have shown remarkable advancements across a spectrum of fields,
@@ -409,7 +409,7 @@ trainable parameters while outperforming baselines on various downstream
 molecule-related tasks ranging from molecule-to-text translation to
 retrosynthesis, with and without fine-tuning the LLM.
 
-摘要：最近，具有强大任务处理能力的大型语言模型 (LLM) 已在各个领域展现出显著的进步，超越了自然语言理解。然而，它们在化学领域的熟练度仍然受到限制，尤其是在解决与专业分子相关的任务时。这一挑战归因于它们在仅使用常见文本表示（即 SMILES 字符串）理解分子方面的固有局限性。在本研究中，我们寻求通过设计和为 LLM 配备多模态外部模块 MolX 来增强其理解分子的能力。具体而言，我们利用特定编码器从 SMILES 字符串和 2D 分子图表示中提取细粒度特征，用于输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，还纳入了人类定义的分子指纹，以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立对齐，在 LLM 被冻结的整个模型中，使用包括各种任务在内的一种通用策略进行了预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在各种下游分子相关任务上优于基线，这些任务包括从分子到文本的翻译到逆合成，无论是否对 LLM 进行微调。
+摘要：<paragraph>最近，具有强大任务处理能力的大型语言模型 (LLM) 在各个领域都取得了显着进步，超越了自然语言理解。然而，它们在化学领域的熟练程度仍然受到限制，尤其是在解决专业的分子相关任务方面。这一挑战归因于它们在仅使用常见文本表示（即 SMILES 字符串）理解分子方面的固有局限性。在这项研究中，我们寻求通过设计和为其配备一个多模态外部模块（即 MolX）来增强 LLM 理解分子的能力。特别是，我们利用特定编码器从 SMILES 字符串和 2D 分子图表示中提取细粒度特征以输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，还纳入了人类定义的分子指纹以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立一个对齐，整个模型（其中 LLM 被冻结）使用包括各种任务在内的一个通用策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在各种下游分子相关任务（包括分子到文本翻译到逆合成）中优于基线，无论是否对 LLM 进行微调。</paragraph>
 
 ##### **The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**
 2406.06032v1 by Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui

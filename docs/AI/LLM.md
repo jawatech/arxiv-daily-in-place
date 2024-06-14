@@ -12,15 +12,15 @@
 |**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464v1](http://arxiv.org/abs/2406.08464v1)|null|
 |**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447v1](http://arxiv.org/abs/2406.08447v1)|null|
 |**2024-06-12**|**OLMES: A Standard for Language Model Evaluations**|Yuling Gu et.al.|[2406.08446v1](http://arxiv.org/abs/2406.08446v1)|null|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434v1](http://arxiv.org/abs/2406.08434v1)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434v1](http://arxiv.org/abs/2406.08434v1)|[link](https://github.com/yutongwang1216/reflectionllmmt)|
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431v1](http://arxiv.org/abs/2406.08431v1)|null|
 |**2024-06-12**|**Improving Noise Robustness through Abstractions and its Impact on Machine Learning**|Alfredo Ibias et.al.|[2406.08428v1](http://arxiv.org/abs/2406.08428v1)|null|
 |**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426v1](http://arxiv.org/abs/2406.08426v1)|null|
 |**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425v1](http://arxiv.org/abs/2406.08425v1)|[link](https://github.com/ayushroy2001/awgunet)|
 |**2024-06-12**|**State Soup: In-Context Skill Learning, Retrieval and Mixing**|Maciej Pióro et.al.|[2406.08423v1](http://arxiv.org/abs/2406.08423v1)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418v1](http://arxiv.org/abs/2406.08418v1)|[link](https://github.com/opengvlab/omnicorpus)|
-|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v1](http://arxiv.org/abs/2406.08407v1)|[link](https://github.com/eric-ai-lab/mmworld)|
-|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402v1](http://arxiv.org/abs/2406.08402v1)|null|
+|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v2](http://arxiv.org/abs/2406.08407v2)|[link](https://github.com/eric-ai-lab/mmworld)|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402v1](http://arxiv.org/abs/2406.08402v1)|[link](https://github.com/kuan2jiu99/audio-hallucination)|
 |**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398v1](http://arxiv.org/abs/2406.08398v1)|null|
 |**2024-06-12**|**Neural Blind Source Separation and Diarization for Distant Speech Recognition**|Yoshiaki Bando et.al.|[2406.08396v1](http://arxiv.org/abs/2406.08396v1)|null|
 |**2024-06-12**|**Large Language Models Must Be Taught to Know What They Don't Know**|Sanyam Kapoor et.al.|[2406.08391v1](http://arxiv.org/abs/2406.08391v1)|[link](https://github.com/activatedgeek/calibration-tuning)|
@@ -32,7 +32,7 @@
 |**2024-06-12**|**Continuous-Time Digital Twin with Analogue Memristive Neural Ordinary Differential Equation Solver**|Hegan Chen et.al.|[2406.08343v1](http://arxiv.org/abs/2406.08343v1)|null|
 |**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334v1](http://arxiv.org/abs/2406.08334v1)|null|
 |**2024-06-12**|**It's all about PR -- Smart Benchmarking AI Accelerators using Performance Representatives**|Alexander Louis-Ferdinand Jung et.al.|[2406.08330v1](http://arxiv.org/abs/2406.08330v1)|null|
-|**2024-06-12**|**Is Programming by Example solved by LLMs?**|Wen-Ding Li et.al.|[2406.08316v1](http://arxiv.org/abs/2406.08316v1)|null|
+|**2024-06-12**|**Is Programming by Example solved by LLMs?**|Wen-Ding Li et.al.|[2406.08316v2](http://arxiv.org/abs/2406.08316v2)|null|
 |**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311v1](http://arxiv.org/abs/2406.08311v1)|[link](https://github.com/turuibo/cautabbench)|
 |**2024-06-12**|**Analyzing constrained LLM through PDFA-learning**|Matías Carrasco et.al.|[2406.08269v1](http://arxiv.org/abs/2406.08269v1)|null|
 |**2024-06-12**|**A deep cut into Split Federated Self-supervised Learning**|Marcin Przewięźlikowski et.al.|[2406.08267v1](http://arxiv.org/abs/2406.08267v1)|[link](https://github.com/gmum/monacosfl)|
@@ -41,7 +41,7 @@
 |**2024-06-12**|**DistilDoc: Knowledge Distillation for Visually-Rich Document Applications**|Jordy Van Landeghem et.al.|[2406.08226v1](http://arxiv.org/abs/2406.08226v1)|null|
 |**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223v1](http://arxiv.org/abs/2406.08223v1)|null|
 |**2024-06-12**|**A Sociotechnical Lens for Evaluating Computer Vision Models: A Case Study on Detecting and Reasoning about Gender and Emotion**|Sha Luo et.al.|[2406.08222v1](http://arxiv.org/abs/2406.08222v1)|null|
-|**2024-06-12**|**Figuratively Speaking: Authorship Attribution via Multi-Task Figurative Language Modeling**|Gregorios A Katsios et.al.|[2406.08218v1](http://arxiv.org/abs/2406.08218v1)|null|
+|**2024-06-12**|**Figuratively Speaking: Authorship Attribution via Multi-Task Figurative Language Modeling**|Gregorios A Katsios et.al.|[2406.08218v1](http://arxiv.org/abs/2406.08218v1)|[link](https://github.com/HiyaToki/Figuratively-Speaking)|
 |**2024-06-12**|**Transformer-based Model for ASR N-Best Rescoring and Rewriting**|Iwen E. Kang et.al.|[2406.08207v1](http://arxiv.org/abs/2406.08207v1)|null|
 |**2024-06-12**|**A Dialogue Game for Eliciting Balanced Collaboration**|Isidora Jeknić et.al.|[2406.08202v1](http://arxiv.org/abs/2406.08202v1)|null|
 |**2024-06-12**|**MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents**|Luyuan Wang et.al.|[2406.08184v1](http://arxiv.org/abs/2406.08184v1)|null|
@@ -54,28 +54,28 @@
 |**2024-06-12**|**Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling**|Zile Qiao et.al.|[2406.08116v1](http://arxiv.org/abs/2406.08116v1)|null|
 |**2024-06-12**|**Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey**|Feng Liang et.al.|[2406.08115v1](http://arxiv.org/abs/2406.08115v1)|null|
 |**2024-06-12**|**Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio**|Yi Lu et.al.|[2406.08112v1](http://arxiv.org/abs/2406.08112v1)|null|
-|**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101v1](http://arxiv.org/abs/2406.08101v1)|null|
+|**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101v2](http://arxiv.org/abs/2406.08101v2)|[link](https://github.com/DFKI-NLP/CoXQL)|
 |**2024-06-12**|**Multimodal Table Understanding**|Mingyu Zheng et.al.|[2406.08100v1](http://arxiv.org/abs/2406.08100v1)|[link](https://github.com/spursgozmy/table-llava)|
-|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092v1](http://arxiv.org/abs/2406.08092v1)|null|
+|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092v1](http://arxiv.org/abs/2406.08092v1)|[link](https://github.com/zhiqu22/ZeroTrans)|
 |**2024-06-12**|**AustroTox: A Dataset for Target-Based Austrian German Offensive Language Detection**|Pia Pachinger et.al.|[2406.08080v1](http://arxiv.org/abs/2406.08080v1)|null|
 |**2024-06-12**|**A Concept-Based Explainability Framework for Large Multimodal Models**|Jayneel Parekh et.al.|[2406.08074v1](http://arxiv.org/abs/2406.08074v1)|null|
 |**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070v1](http://arxiv.org/abs/2406.08070v1)|null|
 |**2024-06-12**|**Large Language Models Meet Text-Centric Multimodal Sentiment Analysis: A Survey**|Hao Yang et.al.|[2406.08068v1](http://arxiv.org/abs/2406.08068v1)|null|
 |**2024-06-12**|**Adversarial Evasion Attack Efficiency against Large Language Models**|João Vitorino et.al.|[2406.08050v1](http://arxiv.org/abs/2406.08050v1)|null|
-|**2024-06-12**|**LVBench: An Extreme Long Video Understanding Benchmark**|Weihan Wang et.al.|[2406.08035v1](http://arxiv.org/abs/2406.08035v1)|null|
+|**2024-06-12**|**LVBench: An Extreme Long Video Understanding Benchmark**|Weihan Wang et.al.|[2406.08035v1](http://arxiv.org/abs/2406.08035v1)|[link](https://github.com/THUDM/LVBench)|
 |**2024-06-12**|**Fewer Tokens and Fewer Videos: Extending Video Understanding Abilities in Large Vision-Language Models**|Shimin Chen et.al.|[2406.08024v1](http://arxiv.org/abs/2406.08024v1)|null|
 |**2024-06-12**|**SHACL2FOL: An FOL Toolkit for SHACL Decision Problems**|Paolo Pareti et.al.|[2406.08018v1](http://arxiv.org/abs/2406.08018v1)|[link](https://github.com/paolo7/shacl2fol)|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009v1](http://arxiv.org/abs/2406.08009v1)|[link](https://github.com/BIT-DYN/OpenObj)|
 |**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002v1](http://arxiv.org/abs/2406.08002v1)|null|
-|**2024-06-12**|**It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF**|Taiming Lu et.al.|[2406.07971v1](http://arxiv.org/abs/2406.07971v1)|[link](https://github.com/taiminglu/seamless)|
-|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970v1](http://arxiv.org/abs/2406.07970v1)|null|
+|**2024-06-12**|**It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF**|Taiming Lu et.al.|[2406.07971v2](http://arxiv.org/abs/2406.07971v2)|[link](https://github.com/taiminglu/seamless)|
+|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970v1](http://arxiv.org/abs/2406.07970v1)|[link](https://github.com/JoyeBright/ICLviaQE)|
 |**2024-06-12**|**LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning**|Masaya Kawamura et.al.|[2406.07969v1](http://arxiv.org/abs/2406.07969v1)|[link](https://github.com/line/libritts-p)|
 |**2024-06-12**|**Toward a Method to Generate Capability Ontologies from Natural Language Descriptions**|Luis Miguel Vieira da Silva et.al.|[2406.07962v1](http://arxiv.org/abs/2406.07962v1)|null|
 |**2024-06-12**|**Accurate Explanation Model for Image Classifiers using Class Association Embedding**|Ruitao Xie et.al.|[2406.07961v1](http://arxiv.org/abs/2406.07961v1)|[link](https://github.com/xrt11/xai-code)|
-|**2024-06-12**|**Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition**|Edoardo Debenedetti et.al.|[2406.07954v1](http://arxiv.org/abs/2406.07954v1)|null|
+|**2024-06-12**|**Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition**|Edoardo Debenedetti et.al.|[2406.07954v1](http://arxiv.org/abs/2406.07954v1)|[link](https://github.com/ethz-spylab/ctf-satml24-data-analysis)|
 |**2024-06-12**|**Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization**|Guopeng Lin et.al.|[2406.07948v1](http://arxiv.org/abs/2406.07948v1)|null|
 |**2024-06-12**|**DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis**|Meiziniu Li et.al.|[2406.07944v1](http://arxiv.org/abs/2406.07944v1)|null|
-|**2024-06-12**|**Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation**|Jie Ruan et.al.|[2406.07935v1](http://arxiv.org/abs/2406.07935v1)|null|
+|**2024-06-12**|**Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation**|Jie Ruan et.al.|[2406.07935v1](http://arxiv.org/abs/2406.07935v1)|[link](https://github.com/EnablerRx/GuidelineVulnDetect)|
 |**2024-06-12**|**Large Language Model Unlearning via Embedding-Corrupted Prompts**|Chris Yuhao Liu et.al.|[2406.07933v1](http://arxiv.org/abs/2406.07933v1)|null|
 |**2024-06-12**|**A Generic Layer Pruning Method for Signal Modulation Recognition Deep Learning Models**|Yao Lu et.al.|[2406.07929v1](http://arxiv.org/abs/2406.07929v1)|null|
 |**2024-06-12**|**Efficient Neural Common Neighbor for Temporal Graph Link Prediction**|Xiaohui Zhang et.al.|[2406.07926v1](http://arxiv.org/abs/2406.07926v1)|null|
@@ -94,8 +94,8 @@
 |**2024-06-12**|**Designing a Dashboard for Transparency and Control of Conversational AI**|Yida Chen et.al.|[2406.07882v1](http://arxiv.org/abs/2406.07882v1)|[link](https://github.com/yc015/talktuner-chatbot-llm-dashboard)|
 |**2024-06-12**|**KernelWarehouse: Rethinking the Design of Dynamic Convolution**|Chao Li et.al.|[2406.07879v1](http://arxiv.org/abs/2406.07879v1)|[link](https://github.com/osvai/kernelwarehouse)|
 |**2024-06-12**|**Hierarchical Reinforcement Learning for Swarm Confrontation with High Uncertainty**|Qizhen Wu et.al.|[2406.07877v1](http://arxiv.org/abs/2406.07877v1)|null|
-|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876v1](http://arxiv.org/abs/2406.07876v1)|null|
-|**2024-06-12**|**Carbon Market Simulation with Adaptive Mechanism Design**|Han Wang et.al.|[2406.07875v1](http://arxiv.org/abs/2406.07875v1)|[link](https://github.com/xwanghan/carbon-simulator)|
+|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876v1](http://arxiv.org/abs/2406.07876v1)|[link](https://github.com/osvai/ssd-kd)|
+|**2024-06-12**|**Carbon Market Simulation with Adaptive Mechanism Design**|Han Wang et.al.|[2406.07875v2](http://arxiv.org/abs/2406.07875v2)|[link](https://github.com/xwanghan/carbon-simulator)|
 |**2024-06-12**|**Unveiling the Power of Wavelets: A Wavelet-based Kolmogorov-Arnold Network for Hyperspectral Image Classification**|Seyd Teymoor Seydi et.al.|[2406.07869v1](http://arxiv.org/abs/2406.07869v1)|null|
 |**2024-06-12**|**Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation**|Se Jin Park et.al.|[2406.07867v1](http://arxiv.org/abs/2406.07867v1)|null|
 |**2024-06-12**|**Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks**|Lin Zuo et.al.|[2406.07862v1](http://arxiv.org/abs/2406.07862v1)|null|
@@ -498,7 +498,7 @@ https://github.com/OpenGVLab/OmniCorpus.
 摘要：影像文字穿插資料，由多個影像和文字組成，以自然的文件格式排列，與網際網路資料的呈現範例相符，且與人類的閱讀習慣十分類似。最近的研究顯示，此類資料有助於多模態脈絡學習，並在多模態微調過程中維持大型語言模型的能力。然而，目前影像文字穿插資料的規模和多樣性有限，限制了多模態大型語言模型的發展。在本文中，我們介紹 OmniCorpus，一個 100 億規模的影像文字穿插資料集。我們使用高效能的資料引擎，篩選並擷取大量高品質的文件，其中包含 86 億張影像和 1,6960 億個文字符號。與同類型資料集（例如 MMC4、OBELICS）相比，我們的資料集 1) 規模大 15 倍，同時維持良好的資料品質；2) 來源更多元，包含英文和非英文網站，以及以影片為中心的網站；3) 更具彈性，可輕易從影像文字穿插格式轉換為純文字語料庫和影像文字配對。透過全面的分析和實驗，我們驗證了所提出資料集的品質、可用性和有效性。我們希望這能為未來的多模態模型研究提供穩固的資料基礎。程式碼和資料已於 https://github.com/OpenGVLab/OmniCorpus 發布。
 
 ##### **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**
-2406.08407v1 by Xuehai He, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang
+2406.08407v2 by Xuehai He, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang
 
 Multimodal Language Language Models (MLLMs) demonstrate the emerging
 abilities of "world models" -- interpreting and reasoning about complex
@@ -521,7 +521,7 @@ for improvement. Further ablation studies reveal other interesting findings
 such as models' different skill sets from humans. We hope MMWorld can serve as
 an essential step towards world model evaluation in videos.
 
-摘要：多模態語言模型 (MLLM) 展示了「世界模型」的新興能力，包括對複雜的真實世界動態進行詮釋和推理。為了評估這些能力，我們假設影片是理想的媒介，因為它們囊括了豐富的真實世界動態和因果關係表徵。為此，我們引入了 MMWorld，一個多學科、多面向多模態影片理解的新基準。MMWorld 憑藉兩個獨特的優勢，與先前的影片理解基準區分開來：(1) 多學科，涵蓋各種通常需要領域專業知識才能全面理解的學科；(2) 多面向推理，包括解釋、反事實思考、未來預測等。MMWorld 包含一個人工標註的資料集，用於評估 MLLM 對整個影片的問題，以及一個用於分析 MLLM 在單一感知模式中的合成資料集。MMWorld 總共包含橫跨七個廣泛學科和 69 個子學科的 1,910 個影片，並附有 6,627 個問答配對和相關字幕。評估包括 2 個專有和 10 個開源 MLLM，它們在 MMWorld 中表現不佳（例如，GPT-4V 表現最佳，但準確率僅有 52.3%），顯示有很大的改進空間。進一步的消融研究揭示了其他有趣的發現，例如模型與人類不同的技能組。我們希望 MMWorld 能成為影片中世界模型評估的重要一步。
+摘要：多模态语言语言模型 (M L L M) 展示了“世界模型”的新兴能力——解释和推理复杂现实世界动态。为了评估这些能力，我们认为视频是理想的媒介，因为它们包含了现实世界动态和因果关系的丰富表征。为此，我们引入了 MMWorld，这是一个针对多学科、多方面多模态视频理解的新基准。MMWorld 凭借两个独特的优势区别于之前的视频理解基准：(1) 多学科，涵盖通常需要领域专业知识才能全面理解的各种学科；(2) 多方面推理，包括解释、反事实思维、未来预测等。MMWorld 由一个人工标注数据集组成，用于评估 M L L M，其中包含有关整个视频的问题，以及一个合成数据集，用于分析 M L L M 在单个感知模式内。总的来说，MMWorld 涵盖了七个广泛学科和 69 个子学科的 1,910 个视频，并附有 6,627 个问答对和相关的标题。评估包括 2 个专有和 10 个开源 M L L M，它们在 MMWorld 中表现不佳（例如，GPT-4V 的表现最佳，准确率仅为 52.3%），显示出很大的改进空间。进一步的消融研究揭示了其他有趣的发现，例如模型与人类不同的技能集。我们希望 MMWorld 能够成为视频中世界模型评估的重要一步。
 
 ##### **Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**
 2406.08402v1 by Chun-Yi Kuan, Wei-Ping Huang, Hung-yi Lee
@@ -806,7 +806,7 @@ randomly sampled datasets of the same size.
 摘要：統計模型廣泛用於估計商用現成 (COTS) AI 硬體加速器的效能。然而，統計效能模型的訓練通常需要大量的資料，導致顯著的時間投資，且在硬體可用性有限的情況下可能很困難。為了緩解此問題，我們提出了一種新穎的效能建模方法，可大幅減少訓練樣本的數量，同時維持良好的準確度。我們的做法利用目標硬體架構和初始參數掃描的知識，為深度神經網路 (DNN) 層識別一組效能代表 (PR)。這些 PR 隨後用於基準測試、建立統計效能模型和進行估計。這種有針對性的方法大幅減少了與隨機抽樣相比所需的訓練樣本數量，以實現更好的估計準確度。我們針對單層估計達到了低至 0.02% 的平均絕對百分比誤差 (MAPE)，而針對整個 DNN 估計達到了 0.68%，訓練樣本少於 10000 個。結果證明了我們的方法在單層估計方面的優越性，與使用相同大小的隨機抽樣資料集訓練的模型相比。
 
 ##### **Is Programming by Example solved by LLMs?**
-2406.08316v1 by Wen-Ding Li, Kevin Ellis
+2406.08316v2 by Wen-Ding Li, Kevin Ellis
 
 Programming-by-Examples (PBE) aims to generate an algorithm from input-output
 examples. Such systems are practically and theoretically important: from an
@@ -825,7 +825,7 @@ LLMs make strong progress toward solving the typical suite of PBE tasks,
 potentially increasing the flexibility and applicability of PBE systems, while
 also identifying ways in which LLMs still fall short.
 
-摘要：程式碼範例 (PBE) 目標是從輸入輸出範例中產生演算法。這些系統在實務上和理論上都非常重要：從最終使用者的觀點來看，它們被部署到數百萬人身上，而從 AI 的觀點來看，PBE 對應到非常通用的少量次數歸納式推論。考量到大型語言模型 (LLM) 在程式碼產生任務中的成功，我們在此探討 LLM 在何種程度上可以被視為「解決」了 PBE。我們在清單和字串等經典領域，以及在典型預訓練資料中未充分呈現的罕見圖形程式設計領域進行實驗。我們發現預訓練模型在 PBE 中並未發揮作用，但它們可以微調以獲得更高的效能，前提是測試問題在分佈中。我們透過經驗分析導致這些模型成功和失敗的原因，並採取措施了解如何達成更好的非分佈概化。這些結果共同表明 LLM 在解決典型的 PBE 任務套件方面取得顯著進展，這可能會增加 PBE 系統的靈活性和適用性，同時也找出 LLM 仍有不足之處。
+摘要：程式碼範例 (PBE) 的目標是從輸入輸出的範例中產生演算法。此類系統在實務與理論上都非常重要：從最終使用者的角度來看，它們被部署到數百萬人身上，從 AI 的角度來看，PBE 對應到一種非常通用的少量樣本歸納式推論。鑑於大型語言模型 (LLM) 在程式碼產生任務中的成功，我們在此探討 LLM 在多大程度上可以被視為「解決」了 PBE。我們在清單和字串等經典領域以及在典型預訓練資料中代表性不佳的非典型圖形程式設計領域進行實驗。我們發現預訓練模型在 PBE 中並未發揮作用，但它們可以微調以獲得更高的效能，前提是測試問題在分布中。我們透過實證分析找出導致這些模型成功和失敗的原因，並採取措施了解如何達成更好的分布外概化。這些結果共同顯示，LLM 在解決典型的 PBE 任務套件方面取得顯著進展，這可能會增加 PBE 系統的彈性和適用性，同時也找出 LLM 仍有不足之處。
 
 ##### **Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**
 2406.08311v1 by Ruibo Tu, Zineb Senane, Lele Cao, Cheng Zhang, Hedvig Kjellström, Gustav Eje Henter
@@ -1308,28 +1308,29 @@ error rate compared to vocoder-trained ADD models on the Codecfake test set.
 表明，與在 Codecfake 測試集中訓練的語音編碼器 ADD 模型相比，訓練編碼器的 ADD 模型的平均等誤差率降低了 41.406%。
 
 ##### **CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**
-2406.08101v1 by Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller
+2406.08101v2 by Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller
 
 Conversational explainable artificial intelligence (ConvXAI) systems based on
 large language models (LLMs) have garnered significant interest from the
 research community in natural language processing (NLP) and human-computer
 interaction (HCI). Such systems can provide answers to user questions about
-explanations, have the potential to enhance users' comprehension and offer more
-information about the decision-making and generation processes of LLMs.
-Currently available ConvXAI systems are based on intent recognition rather than
-free chat. Thus, reliably grasping users' intentions in ConvXAI systems still
-presents a challenge, because there is a broad range of XAI methods to map
-requests onto and each of them can have multiple slots to take care of. In
-order to bridge this gap, we present CoXQL, the first dataset for user intent
-recognition in ConvXAI, covering 31 intents, seven of which require filling
-additional slots. Subsequently, we enhance an existing parsing approach by
-incorporating template validations, and conduct an evaluation of several LLMs
-on CoXQL using different parsing strategies. We conclude that the improved
-parsing approach (MP+) surpasses the performance of previous approaches. We
-also discover that intents with multiple slots remain highly challenging for
-LLMs.
+explanations in dialogues, have the potential to enhance users' comprehension
+and offer more information about the decision-making and generation processes
+of LLMs. Currently available ConvXAI systems are based on intent recognition
+rather than free chat, as this has been found to be more precise and reliable
+in identifying users' intentions. However, the recognition of intents still
+presents a challenge in the case of ConvXAI, since little training data exist
+and the domain is highly specific, as there is a broad range of XAI methods to
+map requests onto. In order to bridge this gap, we present CoXQL, the first
+dataset for user intent recognition in ConvXAI, covering 31 intents, seven of
+which require filling multiple slots. Subsequently, we enhance an existing
+parsing approach by incorporating template validations, and conduct an
+evaluation of several LLMs on CoXQL using different parsing strategies. We
+conclude that the improved parsing approach (MP+) surpasses the performance of
+previous approaches. We also discover that intents with multiple slots remain
+highly challenging for LLMs.
 
-摘要：基於大型語言模型 (LLM) 的對話式可解釋人工智慧 (ConvXAI) 系統在自然語言處理 (NLP) 和人機互動 (HCI) 的研究社群中獲得極大的關注。此類系統可以提供使用者關於解釋的問題解答，有潛力增強使用者的理解力，並提供更多有關 LLM 決策制定和產生程序的資訊。目前可用的 ConvXAI 系統是基於意圖辨識，而非自由對話。因此，在 ConvXAI 系統中可靠地掌握使用者的意圖仍是一個挑戰，因為有廣泛的 XAI 方法可以將請求對應到，而且每個方法都可以有多個時段需要處理。為了彌合這個差距，我們提出了 CoXQL，這是 ConvXAI 中第一個使用者意圖辨識的資料集，涵蓋 31 個意圖，其中七個需要填寫額外的時段。隨後，我們透過整合範本驗證來增強現有的剖析方法，並使用不同的剖析策略對 CoXQL 上的幾個 LLM 進行評估。我們得出結論，改良的剖析方法 (MP+) 超越了先前方法的效能。我們也發現，具有多個時段的意圖對於 LLM 來說仍然極具挑戰性。
+摘要：<paragraph>基於大型語言模型 (LLM) 的對話式可解釋人工智慧 (ConvXAI) 系統在自然語言處理 (NLP) 和人機互動 (HCI) 的研究社群中獲得極大的關注。此類系統可以回答使用者在對話中關於解釋的問題，有潛力增強使用者的理解力，並提供更多關於 LLM 的決策制定和生成程序的資訊。目前可用的 ConvXAI 系統是基於意圖辨識，而不是自由對話，因為發現這在辨識使用者的意圖方面更精確且可靠。然而，意圖辨識在 ConvXAI 的情況下仍然是一個挑戰，因為訓練資料很少且領域高度特定，因為有廣泛的 XAI 方法可以將要求對應到上面。為了彌補這個差距，我們提出 CoXQL，這是 ConvXAI 中使用者意圖辨識的第一個資料集，涵蓋 31 個意圖，其中七個需要填寫多個時段。隨後，我們透過納入範本驗證來增強現有的剖析方法，並使用不同的剖析策略對 CoXQL 上的幾個 LLM 進行評估。我們得出結論，改良的剖析方法 (MP+) 超越了先前方法的效能。我們還發現具有多個時段的意圖對於 LLM 來說仍然極具挑戰性。</paragraph>
 
 ##### **Multimodal Table Understanding**
 2406.08100v1 by Mingyu Zheng, Xinwei Feng, Qingyi Si, Qiaoqiao She, Zheng Lin, Wenbin Jiang, Weiping Wang
@@ -1602,7 +1603,7 @@ potential of our approach in complex multi-agent environments.
 摘要：儘管多重代理強化學習 (MARL) 演算法最近獲得成功，在混合動機環境中有效適應共同玩家仍然是一個重大的挑戰。一種可行的做法是根據推斷共同玩家的特徵，以階層方式對共同玩家的行為進行建模。然而，這些方法通常會在有效推理和利用推論資訊方面遇到困難。為了解決這些問題，我們提出階層對手建模和規劃 (HOP)，這是一種新穎的多重代理決策演算法，可以在混合動機環境中對未見過的政策進行少次適應。HOP 由兩個模組階層組成：對手建模模組，用於推論他人的目標並學習相應的目標條件政策，以及規劃模組，用於採用蒙地卡羅樹搜尋 (MCTS) 來識別最佳回應。我們的做法透過在各個情境中和情境內更新對他人目標的信念，以及使用來自對手建模模組的資訊來引導規劃，進而提高效率。實驗結果表明，在混合動機環境中，HOP 在與各種未見過的代理互動時展現出優異的少次適應能力，並在自玩情境中表現出色。此外，在我們的實驗中出現的社交智慧突顯了我們的方法在複雜的多重代理環境中的潛力。
 
 ##### **It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF**
-2406.07971v1 by Taiming Lu, Lingfeng Shen, Xinyu Yang, Weiting Tan, Beidi Chen, Huaxiu Yao
+2406.07971v2 by Taiming Lu, Lingfeng Shen, Xinyu Yang, Weiting Tan, Beidi Chen, Huaxiu Yao
 
 Reinforcement Learning from Human Feedback (RLHF) involves training policy
 models (PMs) and reward models (RMs) to align language models with human
@@ -1621,7 +1622,7 @@ SEAM-filtered data for RL training improves RLHF performance by 4.5%, and (2)
 SEAM-guided model augmentation results in a 4% performance improvement over
 standard augmentation methods.
 
-摘要：人类反馈强化学习（RLHF）涉及训练策略模型（PM）和奖励模型（RM），以使语言模型与人类偏好保持一致。我们不只专注于独立的 PM 和 RM，还建议在微调期间检查它们的交互，引入无缝性的概念。我们的研究从观察饱和现象开始，其中 RM 和 PM 的持续改进并不能转化为 RLHF 的进步。我们的分析表明，RM 无法为 PM 响应分配适当的分数，导致与人类偏好不符的比率达到 35%，突出了 PM 和 RM 之间的显着差异。为了在没有人工干预的情况下衡量 PM 和 RM 之间的无缝性，我们提出了一个自动指标 SEAM。SEAM 量化了由数据样本引起的 PM 和 RM 判断之间的差异。我们在数据选择和模型增强中验证了 SEAM 的有效性。我们的实验表明，（1）使用 SEAM 过滤的数据进行 RL 训练可将 RLHF 性能提高 4.5%，（2）SEAM 指导的模型增强比标准增强方法提高了 4% 的性能。
+摘要：人類回饋強化學習 (RLHF) 涉及訓練策略模型 (PM) 和獎勵模型 (RM) 以將語言模型與人類偏好對齊。我們不只專注於 PM 和 RM，還建議在微調期間檢查它們的互動，並引入無縫性的概念。我們的研究從觀察飽和現象開始，其中 RM 和 PM 的持續改進並未轉化為 RLHF 進度。我們的分析顯示，RM 無法為 PM 回應分配適當的分數，導致與人類偏好有 35% 的不匹配率，突顯了 PM 和 RM 之間的顯著差異。為了在沒有人類參與的情況下衡量 PM 和 RM 之間的無縫性，我們提出了一個自動指標 SEAM。SEAM 量化了由資料範例引起的 PM 和 RM 判斷之間的差異。我們驗證了 SEAM 在資料選擇和模型擴充中的有效性。我們的實驗表明，(1) 使用 SEAM 過濾的資料進行 RL 訓練可將 RLHF 效能提升 4.5%，以及 (2) SEAM 引導的模型擴充比標準擴充方法帶來 4% 的效能提升。
 
 ##### **Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**
 2406.07970v1 by Javad Pourmostafa Roshan Sharami, Dimitar Shterionov, Pieter Spronck
@@ -2263,40 +2264,26 @@ https://github.com/OSVAI/SSD-KD.
 摘要：無資料知識萃取能夠利用大型教師網路學習到的知識，在不存取原始訓練資料的情況下擴充較小型學生網路的訓練，避免實際應用中的隱私、安全和專有風險。在這個研究領域中，現有方法通常遵循反演和萃取範例，其中生成式對抗網路在預訓練教師網路的指導下進行即時訓練，用於合成大規模樣本集以進行知識萃取。在本文中，我們重新審視這個常見的無資料知識萃取範例，顯示透過「用於知識萃取的小規模反轉資料」的觀點，有相當大的空間可以改善整體訓練效率。根據三個經驗觀察結果，指出在資料反演和萃取過程中，平衡類別分佈在合成樣本多樣性和難度方面的重要性，我們提出小規模無資料知識萃取 SSD-KD。在公式化中，SSD-KD 導入一個調節函數來平衡合成樣本，並導入一個優先取樣函數來選擇適當的樣本，並透過動態重播緩衝區和強化學習策略來協助。因此，SSD-KD 可以執行萃取訓練，條件是合成樣本的規模極小（例如，比原始訓練資料規模小 10 倍），使整體訓練效率比許多主流方法快一到兩個數量級，同時保有優異或有競爭力的模型效能，如在流行的影像分類和語意分割基準中所展示的。程式碼可在 https://github.com/OSVAI/SSD-KD 取得。
 
 ##### **Carbon Market Simulation with Adaptive Mechanism Design**
-2406.07875v1 by Han Wang, Wenhao Li, Hongyuan Zha, Baoxiang Wang
+2406.07875v2 by Han Wang, Wenhao Li, Hongyuan Zha, Baoxiang Wang
 
 A carbon market is a market-based tool that incentivizes economic agents to
 align individual profits with the global utility, i.e., reducing carbon
-emissions to tackle climate change.
-  \textit{Cap and trade} stands as a critical principle based on allocating and
-trading carbon allowances (carbon emission credit), enabling economic agents to
-follow planned emissions and penalizing excess emissions.
-  A central authority is responsible for introducing and allocating those
-allowances in cap and trade.
-  However, the complexity of carbon market dynamics makes accurate simulation
-intractable, which in turn hinders the design of effective allocation
-strategies.
-  To address this, we propose an adaptive mechanism design framework,
-simulating the market using hierarchical, model-free multi-agent reinforcement
-learning (MARL).
-  Government agents allocate carbon credits, while enterprises engage in
-economic activities and carbon trading.
-  This framework illustrates agents' behavior comprehensively.
-  Numerical results show MARL enables government agents to balance
-productivity, equality, and carbon emissions.
-  Our project is available at
-\url{https://github.com/xwanghan/Carbon-Simulator}.
+emissions to tackle climate change. Cap and trade stands as a critical
+principle based on allocating and trading carbon allowances (carbon emission
+credit), enabling economic agents to follow planned emissions and penalizing
+excess emissions. A central authority is responsible for introducing and
+allocating those allowances in cap and trade. However, the complexity of carbon
+market dynamics makes accurate simulation intractable, which in turn hinders
+the design of effective allocation strategies. To address this, we propose an
+adaptive mechanism design framework, simulating the market using hierarchical,
+model-free multi-agent reinforcement learning (MARL). Government agents
+allocate carbon credits, while enterprises engage in economic activities and
+carbon trading. This framework illustrates agents' behavior comprehensively.
+Numerical results show MARL enables government agents to balance productivity,
+equality, and carbon emissions. Our project is available at
+https://github.com/xwanghan/Carbon-Simulator.
 
-摘要：碳市場是一種基於市場的工具，用於激勵經濟主體將個人利潤與全球效用保持一致，即減少碳排放以應對氣候變化。
-\textit{限額交易}作為一項關鍵原則，基於分配和交易碳配額（碳排放信用額），使經濟主體能夠遵循計劃的排放並對超額排放進行懲罰。
-中央機構負責在限額交易中引入和分配這些配額。
-然而，碳市場動態的複雜性使得精確的模擬難以實現，這反過來又阻礙了有效分配策略的設計。
-為了解決這個問題，我們提出了一個自適應機制設計框架，使用分層的、無模型的多智能體強化學習 (MARL) 來模擬市場。
-政府代理分配碳信用額，而企業從事經濟活動和碳交易。
-這個框架全面說明了代理的行為。
-數值結果表明，MARL 使政府代理能夠平衡生產力、平等和碳排放。
-我們的項目可在
-\url{https://github.com/xwanghan/Carbon-Simulator} 中找到。
+摘要：碳市場是一種基於市場的工具，它激勵經濟主體將個人利潤與全球效用相一致，即減少碳排放以應對氣候變化。限額和交易作為一項關鍵原則，基於分配和交易碳配額（碳排放信用額），使經濟主體能夠遵循計劃的排放並對超額排放進行處罰。一個中央機構負責在限額和交易中引入和分配這些配額。然而，碳市場動態的複雜性使得準確的模擬難以實現，這反過來又阻礙了有效分配策略的設計。為了解決這個問題，我們提出了一個自適應機制設計框架，使用分層、無模型多智能體強化學習 (MARL) 來模擬市場。政府代理分配碳信用額，而企業從事經濟活動和碳交易。這個框架全面說明了代理的行為。數值結果表明，MARL 使政府代理能夠平衡生產力、平等和碳排放。我們的項目可在 https://github.com/xwanghan/Carbon-Simulator 中獲得。
 
 ##### **Unveiling the Power of Wavelets: A Wavelet-based Kolmogorov-Arnold Network for Hyperspectral Image Classification**
 2406.07869v1 by Seyd Teymoor Seydi

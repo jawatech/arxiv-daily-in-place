@@ -8,7 +8,7 @@
 |**2024-06-12**|**Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks**|Peizhi Niu et.al.|[2406.07917v1](http://arxiv.org/abs/2406.07917v1)|null|
 |**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542v1](http://arxiv.org/abs/2406.07542v1)|[link](https://github.com/davidorp/taukadial)|
 |**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
-|**2024-06-11**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146v1](http://arxiv.org/abs/2406.07146v1)|null|
+|**2024-06-11**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146v2](http://arxiv.org/abs/2406.07146v2)|null|
 |**2024-06-11**|**Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v1](http://arxiv.org/abs/2406.07114v1)|null|
 |**2024-06-11**|**Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets**|Chenxia Tang et.al.|[2406.07028v1](http://arxiv.org/abs/2406.07028v1)|null|
 |**2024-06-10**|**Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss**|Kiran Kokilepersaud et.al.|[2406.06848v1](http://arxiv.org/abs/2406.06848v1)|null|
@@ -248,7 +248,7 @@ remains relevant.
 摘要：<paragraph>抽象式對話摘要是將對話濃縮成具有資訊性且簡潔的摘要。儘管已針對此主題進行審查，但仍缺乏詳細說明對話摘要挑戰、統一對任務的不同理解，以及將建議的技術、資料集和評估指標與挑戰相符的全面性研究。本文透過系統性地檢閱 2019 年至 2024 年間發表的 1262 篇獨特研究論文，依賴語義學者和 DBLP 資料庫，總結了基於 Transformer 的英語對話抽象式摘要的研究。我們涵蓋對話摘要中出現的主要挑戰（即語言、結構、理解、說話者、顯著性和真實性），並將它們連結到對應的技術，例如基於圖形的方法、額外的訓練任務和規劃策略，這些策略通常過度依賴於基於 BART 的編碼器-解碼器模型。我們發現，雖然語言等一些挑戰在很大程度上取得了進展，這主要是由於訓練方法，但其他挑戰，例如理解、真實性和顯著性，仍然很困難，並具有重大的研究機會。我們探討了通常如何評估這些方法，涵蓋了對話子領域（例如會議、醫療）的資料集，既定的自動化指標和用於評估分數和註解者一致性的評估方法。我們觀察到，只有少數資料集跨越所有子領域。ROUGE 指標使用最頻繁，而人類評估通常在沒有足夠的註解者內部一致性和註解指南的詳細資訊下進行報告。此外，我們討論了近期探索的大語言模型的可能影響，並得出結論，儘管相關性和難度可能發生轉變，但我們所描述的挑戰分類法仍然相關。</paragraph>
 
 ##### **Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**
-2406.07146v1 by Che Liu, Zhongwei Wan, Yuqi Wang, Hui Shen, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci
+2406.07146v2 by Che Liu, Zhongwei Wan, Yuqi Wang, Hui Shen, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci
 
 Automatic radiology report generation can significantly benefit the
 labor-intensive process of report writing by radiologists, especially for 3D
@@ -269,7 +269,7 @@ existing methods on this benchmark across three different settings:
 normal-resolution, high-resolution inputs, and zero-shot domain transfer, all
 at an acceptable computational cost, trainable on a single A100-80G.
 
-摘要：自動放射線報告生成可以大幅提升放射科醫師撰寫報告的勞力密集流程，特別是 3D 射線照片（例如電腦斷層掃描），這對於廣泛的臨床診斷至關重要，但與 2D 射線照片相比，卻鮮少被探討。現有的方法通常以切片方式處理 3D 影像，或因為當前 GPU 記憶體限制而進行大幅降採樣，這會導致固有的 3D 特性與重要細節遺失。為了克服這些問題，我們引入了一個創新的架構，它能有效率且有效地為高解析度 (HR) 3D 影像產生放射線報告，其基礎是大語言模型 (LLM)。具體來說，我們的架構利用低解析度 (LR) 視覺符號作為查詢，從 HR 符號中挖掘資訊，同時保留詳細的 HR 資訊，並透過僅處理 HR 告知的 LR 視覺查詢來降低運算成本。為了進一步造福這個領域，我們策劃並發布了 BIMCV-RG，這個新資料集包含 5,328 個 HR 3D 影像和配對報告，建立了從 3D HR 醫學影像產生報告的第一個基準。我們的模型在三個不同的設定中，始終優於現有的模型：正常解析度、高解析度輸入和零次學習領域轉移，所有設定的運算成本都在可接受的範圍內，且可以在單個 A100-80G 上訓練。
+摘要：自動放射線報告生成可以大幅降低放射科醫師撰寫報告的勞力密集程序，特別是對於 3D 射線照片（例如電腦斷層掃描），這對廣泛的臨床診斷至關重要，但與 2D 射線照片相比，仍未被充分探索。現有方法通常會以切片方式或透過激進的降採樣來處理 3D 體積，這是因為目前的 GPU 記憶體有限，這會導致固有的 3D 特性和關鍵細節遺失。為了克服這些問題，我們引入了一個新架構，可有效率且有效地為高解析度 (HR) 3D 體積生成放射線報告，其基礎是大語言模型 (LLM)。具體來說，我們的架構利用低解析度 (LR) 視覺標記作為查詢，從 HR 標記中挖掘資訊，同時保留詳細的 HR 資訊，並透過僅處理 HR 資訊的 LR 視覺查詢來降低運算成本。我們整理並發布 BIMCV-RG，一個包含 5,328 個 HR 3D 體積和配對報告的新資料集，進一步造福這個領域，為從 3D HR 醫學影像生成報告建立了第一個基準。我們的模型在三個不同的設定中持續超越現有的模型：正常解析度、高解析度輸入和零次學習領域轉移，所有設定的運算成本都在可接受的範圍內，且可以在單個 A100-80G 上訓練。
 
 ##### **Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**
 2406.07114v1 by Fatemeh Ebrahimzadeh, Ramin Safa

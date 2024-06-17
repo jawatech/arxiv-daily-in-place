@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994v1](http://arxiv.org/abs/2406.09994v1)|null|
+|**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v1](http://arxiv.org/abs/2406.09953v1)|null|
+|**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
+|**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v1](http://arxiv.org/abs/2406.09606v1)|null|
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
 |**2024-06-13**|**ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions**|Xu Zhang et.al.|[2406.08842v1](http://arxiv.org/abs/2406.08842v1)|null|
@@ -98,12 +102,110 @@
 |**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656v1](http://arxiv.org/abs/2405.12656v1)|[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)|
 |**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035v1](http://arxiv.org/abs/2405.12035v1)|null|
-|**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928v1](http://arxiv.org/abs/2405.11928v1)|null|
-|**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706v1](http://arxiv.org/abs/2405.11706v1)|null|
-|**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745v1](http://arxiv.org/abs/2405.10745v1)|null|
-|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492v2](http://arxiv.org/abs/2405.10492v2)|null|
 
 #### Abstracts
+##### **Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**
+2406.09994v1 by Manas Jhalani, Annervaz K M, Pushpak Bhattacharyya
+
+In the realm of multimodal tasks, Visual Question Answering (VQA) plays a
+crucial role by addressing natural language questions grounded in visual
+content. Knowledge-Based Visual Question Answering (KBVQA) advances this
+concept by adding external knowledge along with images to respond to questions.
+We introduce an approach for KBVQA, augmenting the existing vision-language
+transformer encoder-decoder (OFA) model. Our main contribution involves
+enhancing questions by incorporating relevant external knowledge extracted from
+knowledge graphs, using a dynamic triple extraction method. We supply a
+flexible number of triples from the knowledge graph as context, tailored to
+meet the requirements for answering the question. Our model, enriched with
+knowledge, demonstrates an average improvement of 4.75\% in Exact Match Score
+over the state-of-the-art on three different KBVQA datasets. Through
+experiments and analysis, we demonstrate that furnishing variable triples for
+each question improves the reasoning capabilities of the language model in
+contrast to supplying a fixed number of triples. This is illustrated even for
+recent large language models. Additionally, we highlight the model's
+generalization capability by showcasing its SOTA-beating performance on a small
+dataset, achieved through straightforward fine-tuning.
+
+摘要：在多模态任务领域，视觉问答（VQA）通过解决基于视觉内容的自然语言问题，扮演着至关重要的角色。基于知识的视觉问答（KBVQA）通过添加外部知识以及图像来回答问题，从而推进了这一概念。我们引入了一种用于 KBVQA 的方法，增强了现有的视觉语言 transformer 编码器解码器 (OFA) 模型。我们的主要贡献涉及通过使用动态三元组提取方法，整合从知识图谱中提取的相关外部知识来增强问题。我们提供来自知识图谱的灵活数量的三元组作为上下文，以满足回答问题的要求。我们经过知识丰富的模型在三个不同的 KBVQA 数据集上，在精确匹配分数方面展示了比最先进水平平均提高 4.75%。通过实验和分析，我们证明为每个问题提供可变三元组提高了语言模型的推理能力，这与提供固定数量的三元组形成对比。即使对于最近的大型语言模型，这一点也得到了说明。此外，我们通过展示模型在小型数据集上的 SOTA 击败性能，突出了模型的泛化能力，这是通过直接微调实现的。
+
+##### **DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**
+2406.09953v1 by Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Lingyue Guo, Ping Luo, Yanfeng Lu
+
+Dual-arm robots offer enhanced versatility and efficiency over single-arm
+counterparts by enabling concurrent manipulation of multiple objects or
+cooperative execution of tasks using both arms. However, effectively
+coordinating the two arms for complex long-horizon tasks remains a significant
+challenge. Existing task planning methods predominantly focus on single-arm
+robots or rely on predefined bimanual operations, failing to fully leverage the
+capabilities of dual-arm systems. To address this limitation, we introduce
+DAG-Plan, a structured task planning framework tailored for dual-arm robots.
+DAG-Plan harnesses large language models (LLMs) to decompose intricate tasks
+into actionable sub-tasks represented as nodes within a directed acyclic graph
+(DAG). Critically, DAG-Plan dynamically assigns these sub-tasks to the
+appropriate arm based on real-time environmental observations, enabling
+parallel and adaptive execution. We evaluate DAG-Plan on the novel Dual-Arm
+Kitchen Benchmark, comprising 9 sequential tasks with 78 sub-tasks and 26
+objects. Extensive experiments demonstrate the superiority of DAG-Plan over
+directly using LLM to generate plans, achieving nearly 50% higher efficiency
+compared to the single-arm task planning baseline and nearly double the success
+rate of the dual-arm task planning baseline.
+
+摘要：雙臂機器人透過同時操控多個物件或使用雙臂協同執行任務，提供比單臂機器人更高的靈活性與效率。然而，要有效協調雙臂以執行複雜且時間跨度長的任務，仍然是一項重大的挑戰。現有的任務規劃方法主要專注於單臂機器人，或依賴於預先定義的雙手操作，無法充分利用雙臂系統的能力。為了解決這個限制，我們引入了 DAG-Plan，一個專門為雙臂機器人量身打造的結構化任務規劃架構。DAG-Plan 利用大型語言模型 (LLM) 將複雜的任務分解成可操作的子任務，並將其表示為有向無環圖 (DAG) 中的節點。更重要的是，DAG-Plan 會根據即時的環境觀察動態地將這些子任務分配給適當的手臂，從而實現並行和自適應的執行。我們在新的雙臂廚房基準測試中評估了 DAG-Plan，其中包含 9 個順序任務、78 個子任務和 26 個物件。廣泛的實驗證明了 DAG-Plan 優於直接使用 LLM 來產生計畫，與單臂任務規劃基準線相比，效率提高了近 50%，而與雙臂任務規劃基準線相比，成功率幾乎提高了一倍。
+
+##### **Automated Molecular Concept Generation and Labeling with Large Language Models**
+2406.09612v1 by Shichang Zhang, Botao Xia, Zimin Zhang, Qianli Wu, Fang Sun, Ziniu Hu, Yizhou Sun
+
+Artificial intelligence (AI) is significantly transforming scientific
+research. Explainable AI methods, such as concept-based models (CMs), are
+promising for driving new scientific discoveries because they make predictions
+based on meaningful concepts and offer insights into the prediction process. In
+molecular science, however, explainable CMs are not as common compared to
+black-box models like Graph Neural Networks (GNNs), primarily due to their
+requirement for predefined concepts and manual label for each instance, which
+demand domain knowledge and can be labor-intensive. This paper introduces a
+novel framework for Automated Molecular Concept (AutoMolCo) generation and
+labeling. AutoMolCo leverages the knowledge in Large Language Models (LLMs) to
+automatically generate predictive molecular concepts and label them for each
+molecule. Such procedures are repeated through iterative interactions with LLMs
+to refine concepts, enabling simple linear models on the refined concepts to
+outperform GNNs and LLM in-context learning on several benchmarks. The whole
+AutoMolCo framework is automated without any human knowledge inputs in either
+concept generation, labeling, or refinement, thereby surpassing the limitations
+of extant CMs while maintaining their explainability and allowing easy
+intervention. Through systematic experiments on MoleculeNet and High-Throughput
+Experimentation (HTE) datasets, we demonstrate that the AutoMolCo-induced
+explainable CMs are beneficial and promising for molecular science research.
+
+摘要：人工智慧（AI）正在顯著地轉變科學研究。可解釋的 AI 方法，例如基於概念的模型（CM），對於推動新的科學發現很有希望，因為它們根據有意義的概念進行預測，並提供對預測過程的見解。然而，在分子科學中，可解釋的 CM 並不像圖神經網路（GNN）這樣的黑箱模型那麼常見，這主要是由於它們需要預定義的概念和每個實例的手動標籤，這需要領域知識並且可能需要大量人工。本文介紹了一個用於自動分子概念（AutoMolCo）生成和標籤的全新框架。AutoMolCo 利用大語言模型（LLM）中的知識自動生成預測分子概念並為每個分子標記它們。此類程序通過與 LLM 的反覆交互來重複，以優化概念，使基於優化概念的簡單線性模型在幾個基準上優於 GNN 和 LLM 的上下文學習。整個 AutoMolCo 框架是自動化的，在概念生成、標記或優化中都沒有任何人工知識輸入，從而超越了現有 CM 的限制，同時保持了它們的可解釋性並允許輕鬆干預。通過對 MoleculeNet 和高通量實驗（HTE）數據集進行系統的實驗，我們證明了 AutoMolCo 誘導的可解釋 CM 對分子科學研究是有益且有希望的。
+
+##### **Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**
+2406.09606v1 by Zongyue Qin, Yunsheng Bai, Atefeh Sograbizadeh, Zijian Ding, Ziniu Hu, Yizhou Sun, Jason Cong
+
+In recent years, domain-specific accelerators (DSAs) have gained popularity
+for applications such as deep learning and autonomous driving. To facilitate
+DSA designs, programmers use high-level synthesis (HLS) to compile a high-level
+description written in C/C++ into a design with low-level hardware description
+languages that eventually synthesize DSAs on circuits. However, creating a
+high-quality HLS design still demands significant domain knowledge,
+particularly in microarchitecture decisions expressed as \textit{pragmas}.
+Thus, it is desirable to automate such decisions with the help of machine
+learning for predicting the quality of HLS designs, requiring a deeper
+understanding of the program that consists of original code and pragmas.
+Naturally, these programs can be considered as sequence data. In addition,
+these programs can be compiled and converted into a control data flow graph
+(CDFG). But existing works either fail to leverage both modalities or combine
+the two in shallow or coarse ways. We propose ProgSG, a model that allows
+interaction between the source code sequence modality and the graph modality in
+a deep and fine-grained way. To alleviate the scarcity of labeled designs, a
+pre-training method is proposed based on a suite of compiler's data flow
+analysis tasks. Experimental results show that ProgSG reduces the RMSE of
+design performance predictions by up to $22\%$, and identifies designs with an
+average of $1.10\times$ and $1.26\times$ (up to $8.17\times$ and $13.31\times$)
+performance improvement in design space exploration (DSE) task compared to HARP
+and AutoDSE, respectively.
+
+摘要：<paragraph>近年來，特定領域加速器（DSA）在深度學習和自動駕駛等應用中越來越受歡迎。為了促進 DSA 設計，程式設計人員使用高階綜合（HLS）將以 C/C++ 編寫的高階描述編譯成低階硬體描述語言的設計，最終在電路中合成 DSA。然而，要建立高品質的 HLS 設計，仍然需要大量的領域知識，特別是在表示為「指令」的微架構決策中。因此，很希望藉助機器學習自動化這些決策，以預測 HLS 設計的品質，這需要更深入地了解包含原始程式碼和指令的程式。自然地，這些程式可以視為序列資料。此外，這些程式可以編譯並轉換成控制資料流程圖（CDFG）。但現有的作品不是無法同時利用這兩種方式，就是以淺層或粗略的方式將它們結合在一起。我們提出 ProgSG，這是一個允許以深入且細緻的方式在原始碼序列方式和圖形方式之間進行互動的模型。為了緩解標記設計的稀缺性，提出了一種基於編譯器資料流分析任務套件的預訓練方法。實驗結果顯示，ProgSG 將設計效能預測的 RMSE 降低了多達 22%，並識別出設計在設計空間探索（DSE）任務中平均效能提升 1.10 倍和 1.26 倍（最高 8.17 倍和 13.31 倍），分別與 HARP 和 AutoDSE 相比。</paragraph>
+
 ##### **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**
 2406.09403v1 by Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna
 
@@ -2493,102 +2595,4 @@ path toward developing intelligent systems adept at handling
 knowledge-intensive tasks.
 
 摘要：在確保事實準確性的同時，保持大型語言模型代理（LMA）的創建能力，對智慧型代理系統的開發構成了重大的挑戰。LMA 面臨普遍的問題，例如資訊幻覺、災難性遺忘，以及在處理知識密集型任務時處理長脈絡的限制。本文介紹了 KG-RAG（知識圖譜檢索增強生成）管道，這是一個新穎的框架，旨在透過將結構化的知識圖譜（KG）與 LLM 的功能整合在一起，來增強 LMA 的知識能力，從而顯著減少對 LLM 潛在知識的依賴。KG-RAG 管道從非結構化文字中建構一個 KG，然後對新建立的圖譜執行資訊檢索，以執行 KGQA（知識圖譜問答）。檢索方法利用了一種稱為探索鏈（CoE）的新演算法，該演算法受益於 LLM 推理，以循序探索 KG 中的節點和關係。在 ComplexWebQuestions 資料集上的初步實驗證明了在減少幻覺內容方面有顯著的改進，並暗示了一條有希望的道路，朝著開發擅長處理知識密集型任務的智慧型系統邁進。
-
-##### **"Set It Up!": Functional Object Arrangement with Compositional Generative Models**
-2405.11928v1 by Yiqing Xu, Jiayuan Mao, Yilun Du, Tomas Lozáno-Pérez, Leslie Pack Kaebling, David Hsu
-
-This paper studies the challenge of developing robots capable of
-understanding under-specified instructions for creating functional object
-arrangements, such as "set up a dining table for two"; previous arrangement
-approaches have focused on much more explicit instructions, such as "put object
-A on the table." We introduce a framework, SetItUp, for learning to interpret
-under-specified instructions. SetItUp takes a small number of training examples
-and a human-crafted program sketch to uncover arrangement rules for specific
-scene types. By leveraging an intermediate graph-like representation of
-abstract spatial relationships among objects, SetItUp decomposes the
-arrangement problem into two subproblems: i) learning the arrangement patterns
-from limited data and ii) grounding these abstract relationships into object
-poses. SetItUp leverages large language models (LLMs) to propose the abstract
-spatial relationships among objects in novel scenes as the constraints to be
-satisfied; then, it composes a library of diffusion models associated with
-these abstract relationships to find object poses that satisfy the constraints.
-We validate our framework on a dataset comprising study desks, dining tables,
-and coffee tables, with the results showing superior performance in generating
-physically plausible, functional, and aesthetically pleasing object
-arrangements compared to existing models.
-
-摘要：這篇論文探討了開發機器人的挑戰，這些機器人能夠理解未明確規定的指示，以建立功能性的物件排列，例如「為兩個人擺好餐桌」；先前的排列方法著重於更明確的指示，例如「將物件 A 放在桌上」。我們引進一個架構 SetItUp，用於學習詮釋未明確規定的指示。SetItUp 採用少數訓練範例和人類製作的程式草圖，以找出特定場景類型的排列規則。透過利用物件之間抽象空間關係的中間圖形化表示，SetItUp 將排列問題分解成兩個子問題：i) 從有限資料中學習排列模式，以及 ii) 將這些抽象關係基礎化為物件姿勢。SetItUp 利用大型語言模型 (LLM) 來提出新場景中物件之間的抽象空間關係，作為要滿足的約束；然後，它編寫一個與這些抽象關係相關的擴散模型庫，以找出滿足約束的物件姿勢。我們在包含書桌、餐桌和咖啡桌的資料集上驗證我們的架構，結果顯示在產生物理上合理、功能性和美觀的物件排列方面，與現有模型相比具有優異的效能。
-
-##### **Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**
-2405.11706v1 by Dean Allemang, Juan Sequeda
-
-There is increasing evidence that question-answering (QA) systems with Large
-Language Models (LLMs), which employ a knowledge graph/semantic representation
-of an enterprise SQL database (i.e. Text-to-SPARQL), achieve higher accuracy
-compared to systems that answer questions directly on SQL databases (i.e.
-Text-to-SQL). Our previous benchmark research showed that by using a knowledge
-graph, the accuracy improved from 16% to 54%. The question remains: how can we
-further improve the accuracy and reduce the error rate? Building on the
-observations of our previous research where the inaccurate LLM-generated SPARQL
-queries followed incorrect paths, we present an approach that consists of 1)
-Ontology-based Query Check (OBQC): detects errors by leveraging the ontology of
-the knowledge graph to check if the LLM-generated SPARQL query matches the
-semantic of ontology and 2) LLM Repair: use the error explanations with an LLM
-to repair the SPARQL query. Using the chat with the data benchmark, our primary
-finding is that our approach increases the overall accuracy to 72% including an
-additional 8% of "I don't know" unknown results. Thus, the overall error rate
-is 20%. These results provide further evidence that investing knowledge graphs,
-namely the ontology, provides higher accuracy for LLM powered question
-answering systems.
-
-摘要：有越來越多的證據顯示，使用大型語言模型 (LLM) 的問答 (QA) 系統，它採用企業 SQL 資料庫的知識圖譜/語義表示（即 Text-to-SPARQL），與直接在 SQL 資料庫上回答問題的系統（即 Text-to-SQL）相比，能達到更高的準確度。我們先前的基準研究顯示，透過使用知識圖譜，準確度從 16% 提升至 54%。問題仍然存在：我們如何進一步提升準確度並降低錯誤率？根據我們先前研究的觀察，其中不準確的 LLM 生成的 SPARQL 查詢遵循不正確的路徑，我們提出了一種方法，其中包含 1) 基於本体的查詢檢查 (OBQC)：利用知識圖譜的本体來檢查 LLM 生成的 SPARQL 查詢是否符合本体的語義，從而偵測錯誤，以及 2) LLM 修復：使用帶有 LLM 的錯誤說明來修復 SPARQL 查詢。使用與資料基準的聊天，我們的初步發現是，我們的做法將整體準確度提升至 72%，包括額外的 8% 的「我不知道」未知結果。因此，整體錯誤率為 20%。這些結果進一步證明投資知識圖譜，即本体，能為 LLM 驅動的問答系統提供更高的準確度。
-
-##### **Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**
-2405.10745v1 by Albert Sawczyn, Jakub Binkowski, Piotr Bielak, Tomasz Kajdanowicz
-
-Knowledge-intensive tasks pose a significant challenge for Machine Learning
-(ML) techniques. Commonly adopted methods, such as Large Language Models
-(LLMs), often exhibit limitations when applied to such tasks. Nevertheless,
-there have been notable endeavours to mitigate these challenges, with a
-significant emphasis on augmenting LLMs through Knowledge Graphs (KGs). While
-KGs provide many advantages for representing knowledge, their development costs
-can deter extensive research and applications. Addressing this limitation, we
-introduce a framework for enriching embeddings of small-scale domain-specific
-Knowledge Graphs with well-established general-purpose KGs. Adopting our
-method, a modest domain-specific KG can benefit from a performance boost in
-downstream tasks when linked to a substantial general-purpose KG. Experimental
-evaluations demonstrate a notable enhancement, with up to a 44% increase
-observed in the Hits@10 metric. This relatively unexplored research direction
-can catalyze more frequent incorporation of KGs in knowledge-intensive tasks,
-resulting in more robust, reliable ML implementations, which hallucinates less
-than prevalent LLM solutions.
-  Keywords: knowledge graph, knowledge graph completion, entity alignment,
-representation learning, machine learning
-
-摘要：知識密集型任務對機器學習 (ML) 技術構成重大挑戰。常見採用的方法，例如大型語言模型 (LLM)，在應用於此類任務時，通常會表現出限制。儘管如此，已經有顯著的努力來減輕這些挑戰，重點在於透過知識圖譜 (KG) 來擴充 LLM。雖然 KG 在表示知識方面提供了許多優點，但其開發成本可能會阻礙廣泛的研究和應用。為了解決這個限制，我們引入了一個架構，用完善的通用 KG 來豐富小規模特定領域知識圖譜的嵌入。採用我們的這個方法，一個適度的特定領域 KG 可以從與一個大量的通用 KG 連結時，在下游任務中受益於效能提升。實驗評估證明了顯著的改進，在 Hits@10 指標中觀察到高達 44% 的提升。這個相對未開發的研究方向可以催化在知識密集型任務中更頻繁地納入 KG，從而產生更強大、更可靠的 ML 實作，其產生的幻覺少於普遍的 LLM 解决方案。
-關鍵字：知識圖譜、知識圖譜完成功能、實體對齊、表示學習、機器學習
-
-##### **Automatic News Generation and Fact-Checking System Based on Language Processing**
-2405.10492v2 by Xirui Peng, Qiming Xu, Zheng Feng, Haopeng Zhao, Lianghao Tan, Yan Zhou, Zecheng Zhang, Chenwei Gong, Yingqiao Zheng
-
-This paper explores an automatic news generation and fact-checking system
-based on language processing, aimed at enhancing the efficiency and quality of
-news production while ensuring the authenticity and reliability of the news
-content. With the rapid development of Natural Language Processing (NLP) and
-deep learning technologies, automatic news generation systems are capable of
-extracting key information from massive data and generating well-structured,
-fluent news articles. Meanwhile, by integrating fact-checking technology, the
-system can effectively prevent the spread of false news and improve the
-accuracy and credibility of news. This study details the key technologies
-involved in automatic news generation and factchecking, including text
-generation, information extraction, and the application of knowledge graphs,
-and validates the effectiveness of these technologies through experiments.
-Additionally, the paper discusses the future development directions of
-automatic news generation and fact-checking systems, emphasizing the importance
-of further integration and innovation of technologies. The results show that
-with continuous technological optimization and practical application, these
-systems will play an increasingly important role in the future news industry,
-providing more efficient and reliable news services.
-
-摘要：本文探討了一種基於語言處理的自動新聞生成與事實查核系統，旨在提升新聞產製的效率與品質，同時確保新聞內容的真實性與可信度。隨著自然語言處理（NLP）與深度學習技術的快速發展，自動新聞生成系統能夠從海量資料中萃取關鍵資訊，並生成結構良好、流暢的新聞文章。同時，透過整合事實查核技術，系統能有效防止假新聞的散播，提升新聞的準確度與可信度。本研究詳細說明自動新聞生成與事實查核所涉及的關鍵技術，包括文字生成、資訊萃取、知識圖譜的應用，並透過實驗驗證這些技術的有效性。此外，本文探討自動新聞生成與事實查核系統未來的發展方向，強調技術進一步整合與創新的重要性。結果顯示，隨著技術持續優化與實務應用，這些系統將在未來的新聞產業中扮演日益重要的角色，提供更有效率、更可信賴的新聞服務。
 

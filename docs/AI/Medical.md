@@ -2,12 +2,16 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-14**|**Biomarker based Cancer Classification using an Ensemble with Pre-trained Models**|Chongmin Lee et.al.|[2406.10087v1](http://arxiv.org/abs/2406.10087v1)|null|
+|**2024-06-14**|**FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain**|Jin Liu et.al.|[2406.10040v1](http://arxiv.org/abs/2406.10040v1)|[link](https://github.com/jens5588/fzi-wim-nli4ct)|
+|**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923v1](http://arxiv.org/abs/2406.09923v1)|[link](https://github.com/clibench/clibench)|
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
 |**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105v1](http://arxiv.org/abs/2406.09105v1)|[link](https://github.com/fdu-ins/ins-mmbench)|
 |**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
 |**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
 |**2024-06-13**|**Computer Vision Approaches for Automated Bee Counting Application**|Simon Bilik et.al.|[2406.08898v1](http://arxiv.org/abs/2406.08898v1)|null|
 |**2024-06-12**|**Global AI Governance in Healthcare: A Cross-Jurisdictional Regulatory Analysis**|Attrayee Chakraborty et.al.|[2406.08695v1](http://arxiv.org/abs/2406.08695v1)|null|
+|**2024-06-12**|**Advancing High Resolution Vision-Language Models in Biomedicine**|Zekai Chen et.al.|[2406.09454v1](http://arxiv.org/abs/2406.09454v1)|null|
 |**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425v1](http://arxiv.org/abs/2406.08425v1)|[link](https://github.com/ayushroy2001/awgunet)|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
 |**2024-06-12**|**Making AI Intelligible: Philosophical Foundations**|Herman Cappelen et.al.|[2406.08134v1](http://arxiv.org/abs/2406.08134v1)|null|
@@ -98,12 +102,73 @@
 |**2024-05-28**|**D-CoRP: Differentiable Connectivity Refinement for Functional Brain Networks**|Haoyu Hu et.al.|[2405.18658v1](http://arxiv.org/abs/2405.18658v1)|null|
 |**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610v1](http://arxiv.org/abs/2405.18610v1)|[link](https://github.com/gilesluo/dtr-bench)|
 |**2024-05-28**|**Low-rank finetuning for LLMs: A fairness perspective**|Saswat Das et.al.|[2405.18572v1](http://arxiv.org/abs/2405.18572v1)|null|
-|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556v2](http://arxiv.org/abs/2405.18556v2)|[link](https://github.com/gilesluo/reassessdtr)|
-|**2024-05-28**|**FAIIR: Building Toward A Conversational AI Agent Assistant for Youth Mental Health Service Provision**|Stephen Obadinma et.al.|[2405.18553v2](http://arxiv.org/abs/2405.18553v2)|null|
-|**2024-05-28**|**An Empirical Analysis on Large Language Models in Debate Evaluation**|Xinyi Liu et.al.|[2406.00050v2](http://arxiv.org/abs/2406.00050v2)|null|
-|**2024-05-28**|**Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**|James Derek Lomas et.al.|[2405.18510v1](http://arxiv.org/abs/2405.18510v1)|null|
 
 #### Abstracts
+##### **Biomarker based Cancer Classification using an Ensemble with Pre-trained Models**
+2406.10087v1 by Chongmin Lee, Jihie Kim
+
+Certain cancer types, namely pancreatic cancer is difficult to detect at an
+early stage; sparking the importance of discovering the causal relationship
+between biomarkers and cancer to identify cancer efficiently. By allowing for
+the detection and monitoring of specific biomarkers through a non-invasive
+method, liquid biopsies enhance the precision and efficacy of medical
+interventions, advocating the move towards personalized healthcare. Several
+machine learning algorithms such as Random Forest, SVM are utilized for
+classification, yet causing inefficiency due to the need for conducting
+hyperparameter tuning. We leverage a meta-trained Hyperfast model for
+classifying cancer, accomplishing the highest AUC of 0.9929 and simultaneously
+achieving robustness especially on highly imbalanced datasets compared to other
+ML algorithms in several binary classification tasks (e.g. breast invasive
+carcinoma; BRCA vs. non-BRCA). We also propose a novel ensemble model combining
+pre-trained Hyperfast model, XGBoost, and LightGBM for multi-class
+classification tasks, achieving an incremental increase in accuracy (0.9464)
+while merely using 500 PCA features; distinguishable from previous studies
+where they used more than 2,000 features for similar results.
+
+摘要：某些类型的癌症，例如胰臟癌，在早期階段難以檢測出來；這點凸顯了找出生物標記與癌症之間的因果關係以有效辨識癌症的重要性。液態切片透過非侵入性方法檢測和監控特定生物標記，進而提升醫療介入的精準度和效能，並倡導朝向個人化醫療保健邁進。隨機森林、SVM 等多種機器學習演算法用於分類，但由於需要進行超參數調整，因此造成效率不彰。我們利用經過元訓練的 Hyperfast 模型來分類癌症，達到了 0.9929 的最高 AUC，同時在多項二元分類任務中（例如乳房浸潤性癌；BRCA 與非 BRCA）實現了穩健性，特別是在高度不平衡的資料集上，優於其他 ML 演算法。我們還提出了一個新穎的整合模型，結合預先訓練的 Hyperfast 模型、XGBoost 和 LightGBM，用於多類別分類任務，僅使用 500 個 PCA 特徵便達到了精準度的增量提升（0.9464）；這點有別於先前的研究，它們使用超過 2,000 個特徵來獲得類似的結果。
+
+##### **FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain**
+2406.10040v1 by Jin Liu, Steffen Thoma
+
+This paper describes the inference system of FZI-WIM at the SemEval-2024 Task
+2: Safe Biomedical Natural Language Inference for Clinical Trials. Our system
+utilizes the chain of thought (CoT) paradigm to tackle this complex reasoning
+problem and further improves the CoT performance with self-consistency. Instead
+of greedy decoding, we sample multiple reasoning chains with the same prompt
+and make the final verification with majority voting. The self-consistent CoT
+system achieves a baseline F1 score of 0.80 (1st), faithfulness score of 0.90
+(3rd), and consistency score of 0.73 (12th). We release the code and data
+publicly https://github.com/jens5588/FZI-WIM-NLI4CT.
+
+摘要：這篇論文描述了 FZI-WIM 在 SemEval-2024 任務 2：臨床試驗的安全生物醫學自然語言推論中的推論系統。我們的系統利用思考鏈（CoT）範例來解決這個複雜的推理問題，並進一步透過自洽性來提升 CoT 的效能。我們使用相同的提示取樣多個推理鏈，而非貪婪解碼，並透過多數決進行最終驗證。自洽的 CoT 系統達到基線 F1 分數 0.80（第 1 名）、忠實度分數 0.90（第 3 名）和一致性分數 0.73（第 12 名）。我們公開發布程式碼和資料 https://github.com/jens5588/FZI-WIM-NLI4CT。
+
+##### **CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**
+2406.09923v1 by Mingyu Derek Ma, Chenchen Ye, Yu Yan, Xiaoxuan Wang, Peipei Ping, Timothy S Chang, Wei Wang
+
+The integration of Artificial Intelligence (AI), especially Large Language
+Models (LLMs), into the clinical diagnosis process offers significant potential
+to improve the efficiency and accessibility of medical care. While LLMs have
+shown some promise in the medical domain, their application in clinical
+diagnosis remains underexplored, especially in real-world clinical practice,
+where highly sophisticated, patient-specific decisions need to be made. Current
+evaluations of LLMs in this field are often narrow in scope, focusing on
+specific diseases or specialties and employing simplified diagnostic tasks. To
+bridge this gap, we introduce CliBench, a novel benchmark developed from the
+MIMIC IV dataset, offering a comprehensive and realistic assessment of LLMs'
+capabilities in clinical diagnosis. This benchmark not only covers diagnoses
+from a diverse range of medical cases across various specialties but also
+incorporates tasks of clinical significance: treatment procedure
+identification, lab test ordering and medication prescriptions. Supported by
+structured output ontologies, CliBench enables a precise and multi-granular
+evaluation, offering an in-depth understanding of LLM's capability on diverse
+clinical tasks of desired granularity. We conduct a zero-shot evaluation of
+leading LLMs to assess their proficiency in clinical decision-making. Our
+preliminary results shed light on the potential and limitations of current LLMs
+in clinical settings, providing valuable insights for future advancements in
+LLM-powered healthcare.
+
+摘要：人工智能（AI），尤其是大型語言模型（LLM），整合到臨床診斷過程中，提供了顯著的潛力，可以提高醫療保健的效率和可及性。雖然 LLM 在醫療領域顯示出一些前景，但它們在臨床診斷中的應用仍未得到充分探索，尤其是在現實世界的臨床實務中，需要做出高度複雜、針對特定患者的決策。目前在這個領域對 LLM 的評估通常範圍狹窄，著重於特定疾病或專科，並採用簡化的診斷任務。為了彌補這個差距，我們引入了 CliBench，這是一個從 MIMIC IV 資料集開發的新基準，提供了對 LLM 在臨床診斷中能力的全面且實際的評估。此基準不僅涵蓋了各種專科中各種醫療案例的診斷，還納入了具有臨床意義的任務：治療程序識別、實驗室檢驗訂購和藥物處方。在結構化輸出本体的支持下，CliBench 能夠進行精確且多粒度的評估，提供對 LLM 在各種所需粒度的臨床任務上的能力的深入了解。我們對領先的 LLM 進行了零次學習評估，以評估它們在臨床決策中的熟練程度。我們的初步結果揭示了當前 LLM 在臨床環境中的潛力和局限性，為 LLM 驅動的醫療保健的未來進展提供了寶貴的見解。
+
 ##### **Investigating potential causes of Sepsis with Bayesian network structure learning**
 2406.09207v1 by Bruno Petrungaro, Neville K. Kitson, Anthony C. Constantinou
 
@@ -255,6 +320,28 @@ examine the requirements for regulating generative AI, using China and
 Singapore as examples of countries with well-developed policies in this area.
 
 摘要：人工智能（AI）正在全球范围内得到採用，並承諾在醫療保健領域掀起一場新的革命。儘管北美的人工智慧醫療設備主導了全球市場的 42.3%，但其他國家/地區的人工智慧醫療設備的使用情況仍是一個有待展開的故事。我們旨在深入探討全球對醫療保健中 AI 使用的法規方法，重點關注全球範圍內如何出現共同的主題。我們將這些主題與世界衛生組織 (WHO) 對醫療保健應用中 AI 道德使用的法規考量和原則進行比較。我們的研究旨在通過分析 14 個法域（包括代表世界各地不同地區的國家/地區（北美、南美、東南亞、中東、非洲、澳大利亞和亞太地區））來對 AI 政策採取全球觀點。我們的最終目標是促進關於醫療保健中 AI 道德使用和將指導它的法規的全球對話。我們提出解決方案以促進 AI 法規的國際協調，並以中國和新加坡為例，探討了對生成式 AI 進行監管的要求，這些國家/地區在這一領域擁有完善的政策。
+
+##### **Advancing High Resolution Vision-Language Models in Biomedicine**
+2406.09454v1 by Zekai Chen, Arda Pekis, Kevin Brown
+
+Multi-modal learning has significantly advanced generative AI, especially in
+vision-language modeling. Innovations like GPT-4V and open-source projects such
+as LLaVA have enabled robust conversational agents capable of zero-shot task
+completions. However, applying these technologies in the biomedical field
+presents unique challenges. Recent initiatives like LLaVA-Med have started to
+adapt instruction-tuning for biomedical contexts using large datasets such as
+PMC-15M. Our research offers three key contributions: (i) we present a new
+instruct dataset enriched with medical image-text pairs from Claude3-Opus and
+LLaMA3 70B, (ii) we propose a novel image encoding strategy using hierarchical
+representations to improve fine-grained biomedical visual comprehension, and
+(iii) we develop the Llama3-Med model, which achieves state-of-the-art
+zero-shot performance on biomedical visual question answering benchmarks, with
+an average performance improvement of over 10% compared to previous methods.
+These advancements provide more accurate and reliable tools for medical
+professionals, bridging gaps in current multi-modal conversational assistants
+and promoting further innovations in medical AI.
+
+摘要：多模态学习已大幅提升生成式 AI，尤其是在视觉语言建模方面。GPT-4V 等创新和 LLaVA 等开源项目已让健全的对话代理能够完成零次学习任务。然而，在生物医学领域应用这些技术提出了独特的挑战。LLaVA-Med 等近期计划已开始使用 PMC-15M 等大型数据集，为生物医学语境调整指令。我们的研究提供了三个关键贡献：(i) 我们展示了一个新的指令数据集，其中包含来自 Claude3-Opus 和 LLaMA3 70B 的医学图像-文本对，(ii) 我们提出了一种新的图像编码策略，使用分层表示来改善细粒度的生物医学视觉理解，以及 (iii) 我们开发了 Llama3-Med 模型，该模型在生物医学视觉问答基准上实现了最先进的零次学习性能，与之前的方法相比，平均性能提升了 10% 以上。这些进步为医学专业人士提供了更准确和可靠的工具，弥补了当前多模态对话助理中的差距，并促进了医学 AI 的进一步创新。
 
 ##### **AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**
 2406.08425v1 by Ayush Roy, Payel Pramanik, Dmitrii Kaplun, Sergei Antonov, Ram Sarkar
@@ -2508,95 +2595,4 @@ that this extends to sequential decision-making tasks, emphasizing the need for
 careful evaluation to promote responsible LLMs development.
 
 摘要：低秩近似技术已成为微调大型语言模型 (LLM) 的事实标准，因为它们降低了计算和内存需求。本文探讨了这些方法在从初始预训练数据分布中捕获微调数据集的变化方面的有效性。我们的发现表明，在某些情况下，低秩微调无法学习这种变化。这反过来又会产生不可忽视的副作用，尤其是在微调被用于预训练模型中的毒性缓解时，或在提供公平模型很重要的场景中。通过对多个模型、数据集和任务进行全面的实证证据，我们表明低秩微调无意中保留了不良偏见和有害行为。我们还表明这扩展到了顺序决策任务，强调了仔细评估以促进负责任的 LLM 开发的必要性。
-
-##### **Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**
-2405.18556v2 by Zhiyao Luo, Yangchen Pan, Peter Watkinson, Tingting Zhu
-
-In the rapidly changing healthcare landscape, the implementation of offline
-reinforcement learning (RL) in dynamic treatment regimes (DTRs) presents a mix
-of unprecedented opportunities and challenges. This position paper offers a
-critical examination of the current status of offline RL in the context of
-DTRs. We argue for a reassessment of applying RL in DTRs, citing concerns such
-as inconsistent and potentially inconclusive evaluation metrics, the absence of
-naive and supervised learning baselines, and the diverse choice of RL
-formulation in existing research. Through a case study with more than 17,000
-evaluation experiments using a publicly available Sepsis dataset, we
-demonstrate that the performance of RL algorithms can significantly vary with
-changes in evaluation metrics and Markov Decision Process (MDP) formulations.
-Surprisingly, it is observed that in some instances, RL algorithms can be
-surpassed by random baselines subjected to policy evaluation methods and reward
-design. This calls for more careful policy evaluation and algorithm development
-in future DTR works. Additionally, we discussed potential enhancements toward
-more reliable development of RL-based dynamic treatment regimes and invited
-further discussion within the community. Code is available at
-https://github.com/GilesLuo/ReassessDTR.
-
-摘要：在快速變化的醫療保健領域中，在動態治療方案 (DTR) 中實施離線強化學習 (RL) 帶來了一系列前所未有的機遇和挑戰。本立場文件對 DTR 背景下的離線 RL 的現狀進行了批判性審查。我們主張重新評估在 DTR 中應用 RL，並提出了一些問題，例如不一致且可能不具決定性的評估指標、缺乏幼稚和監督學習基準，以及現有研究中 RL 公式的多樣選擇。通過一個案例研究，使用一個公開可用的敗血症數據集進行了 17,000 多次評估實驗，我們證明了 RL 演算法的性能可以隨著評估指標和馬可夫決策過程 (MDP) 公式的變化而發生顯著變化。令人驚訝的是，我們觀察到在某些情況下，RL 演算法可以被隨機基準線超越，這些基準線採用策略評估方法和獎勵設計。這需要在未來的 DTR 工作中進行更仔細的策略評估和演算法開發。此外，我們討論了朝著更可靠的基於 RL 的動態治療方案開發的潛在改進，並邀請社區內進一步討論。程式碼可在 https://github.com/GilesLuo/ReassessDTR 獲得。
-
-##### **FAIIR: Building Toward A Conversational AI Agent Assistant for Youth Mental Health Service Provision**
-2405.18553v2 by Stephen Obadinma, Alia Lachana, Maia Norman, Jocelyn Rankin, Joanna Yu, Xiaodan Zhu, Darren Mastropaolo, Deval Pandya, Roxana Sultan, Elham Dolatabadi
-
-World's healthcare systems and mental health agencies face both a growing
-demand for youth mental health services, alongside a simultaneous challenge of
-limited resources. Given these constraints, this work presents our experience
-in the creation and evaluation of the FAIIR (Frontline Assistant: Issue
-Identification and Recommendation) tool, an ensemble of domain-adapted and
-fine-tuned transformer models, leveraging natural language processing to
-identify issues that youth may be experiencing. We explore the technical
-development, performance, and validation processes leveraged for the FAIIR tool
-in application to situations of frontline crisis response via Kids Help Phone.
-Frontline Crisis Responders assign an issue tag from a defined list following
-each conversation. Assisting with the identification of issues of relevance
-helps reduce the burden on CRs, ensuring that appropriate resources can be
-provided and that active rescues and mandatory reporting can take place in
-critical situations requiring immediate de-escalation.
-
-摘要：全球醫療保健系統和心理健康機構面臨著對青少年心理健康服務不斷增長的需求，同時也面臨著資源有限的挑戰。鑑於這些限制，這項工作展示了我們在建立和評估 FAIIR（前線助理：問題識別和建議）工具方面的經驗，這是一個領域適應和微調的Transformer模型的集合，利用自然語言處理來識別青少年可能遇到的問題。我們探討了在 Kids Help Phone 的一線危機應對情況中，FAIIR 工具所利用的技術開發、效能和驗證過程。一線危機應變人員會在每次對話後從定義的清單中分配一個問題標籤。協助識別相關問題有助於減輕危機應變人員的負擔，確保可以在關鍵情況下提供適當的資源，並進行積極救援和強制報告，這些情況需要立即降級。
-
-##### **An Empirical Analysis on Large Language Models in Debate Evaluation**
-2406.00050v2 by Xinyi Liu, Pinxin Liu, Hangfeng He
-
-In this study, we investigate the capabilities and inherent biases of
-advanced large language models (LLMs) such as GPT-3.5 and GPT-4 in the context
-of debate evaluation. We discover that LLM's performance exceeds humans and
-surpasses the performance of state-of-the-art methods fine-tuned on extensive
-datasets in debate evaluation. We additionally explore and analyze biases
-present in LLMs, including positional bias, lexical bias, order bias, which may
-affect their evaluative judgments. Our findings reveal a consistent bias in
-both GPT-3.5 and GPT-4 towards the second candidate response presented,
-attributed to prompt design. We also uncover lexical biases in both GPT-3.5 and
-GPT-4, especially when label sets carry connotations such as numerical or
-sequential, highlighting the critical need for careful label verbalizer
-selection in prompt design. Additionally, our analysis indicates a tendency of
-both models to favor the debate's concluding side as the winner, suggesting an
-end-of-discussion bias.
-
-摘要：在這項研究中，我們探討了大型語言模型 (LLM) 例如 GPT-3.5 和 GPT-4 在辯論評估中的能力和內在偏差。我們發現 LLM 的表現超越人類，並且超越了在廣泛的辯論評估資料集上進行微調的最新方法的表現。我們進一步探討和分析 LLM 中存在的偏差，包括位置偏差、詞彙偏差、順序偏差，這些偏差可能會影響他們的評估判斷。我們的研究結果揭示了 GPT-3.5 和 GPT-4 對提出的第二個候選人回應都存在一致的偏差，這歸因於提示設計。我們還在 GPT-3.5 和 GPT-4 中發現了詞彙偏差，特別是在標籤集帶有數值或順序等含義時，這突顯了在提示設計中仔細選擇標籤文字器的關鍵需求。此外，我們的分析表明這兩個模型都有傾向於支持辯論的結論方為獲勝者，這表明存在討論結束偏差。
-
-##### **Improved Emotional Alignment of AI and Humans: Human Ratings of Emotions Expressed by Stable Diffusion v1, DALL-E 2, and DALL-E 3**
-2405.18510v1 by James Derek Lomas, Willem van der Maden, Sohhom Bandyopadhyay, Giovanni Lion, Nirmal Patel, Gyanesh Jain, Yanna Litowsky, Haian Xue, Pieter Desmet
-
-Generative AI systems are increasingly capable of expressing emotions via
-text and imagery. Effective emotional expression will likely play a major role
-in the efficacy of AI systems -- particularly those designed to support human
-mental health and wellbeing. This motivates our present research to better
-understand the alignment of AI expressed emotions with the human perception of
-emotions. When AI tries to express a particular emotion, how might we assess
-whether they are successful? To answer this question, we designed a survey to
-measure the alignment between emotions expressed by generative AI and human
-perceptions. Three generative image models (DALL-E 2, DALL-E 3 and Stable
-Diffusion v1) were used to generate 240 examples of images, each of which was
-based on a prompt designed to express five positive and five negative emotions
-across both humans and robots. 24 participants recruited from the Prolific
-website rated the alignment of AI-generated emotional expressions with a text
-prompt used to generate the emotion (i.e., "A robot expressing the emotion
-amusement"). The results of our evaluation suggest that generative AI models
-are indeed capable of producing emotional expressions that are well-aligned
-with a range of human emotions; however, we show that the alignment
-significantly depends upon the AI model used and the emotion itself. We analyze
-variations in the performance of these systems to identify gaps for future
-improvement. We conclude with a discussion of the implications for future AI
-systems designed to support mental health and wellbeing.
-
-摘要：生成式 AI 系統越來越能夠透過文字和圖像表達情緒。有效的表達情緒很可能會在 AI 系統的效能中扮演重要角色，尤其是那些設計用來支持人類心理健康和福祉的系統。這激勵了我們目前的這項研究，以期能更了解 AI 表達的情緒與人類對情緒的感知之間的對齊。當 AI 嘗試表達特定情緒時，我們該如何評估他們是否成功？為了回答這個問題，我們設計了一項調查，以衡量生成式 AI 表達的情緒與人類感知之間的對齊。三個生成式影像模型（DALL-E 2、DALL-E 3 和 Stable Diffusion v1）用於產生 240 個影像範例，每個範例都基於一個提示，旨在表達人類和機器人五種正向和五種負向情緒。從 Prolific 網站招募的 24 位參與者評估了 AI 生成的表情與用於產生情緒的文字提示之間的對齊（例如，「表達娛樂情緒的機器人」）。我們的評估結果表明，生成式 AI 模型確實能夠產生與一系列人類情緒高度對齊的情緒表達；然而，我們表明，對齊在很大程度上取決於所使用的 AI 模型和情緒本身。我們分析這些系統效能的變化，以找出未來改進的差距。我們最後討論了對未來旨在支持心理健康和福祉的 AI 系統的影響。
 

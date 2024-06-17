@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
 |**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105v1](http://arxiv.org/abs/2406.09105v1)|[link](https://github.com/fdu-ins/ins-mmbench)|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v1](http://arxiv.org/abs/2406.09014v1)|null|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
 |**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
 |**2024-06-13**|**Computer Vision Approaches for Automated Bee Counting Application**|Simon Bilik et.al.|[2406.08898v1](http://arxiv.org/abs/2406.08898v1)|null|
 |**2024-06-12**|**Global AI Governance in Healthcare: A Cross-Jurisdictional Regulatory Analysis**|Attrayee Chakraborty et.al.|[2406.08695v1](http://arxiv.org/abs/2406.08695v1)|null|
@@ -19,12 +19,12 @@
 |**2024-06-11**|**Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets**|Chenxia Tang et.al.|[2406.07028v1](http://arxiv.org/abs/2406.07028v1)|null|
 |**2024-06-10**|**Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss**|Kiran Kokilepersaud et.al.|[2406.06848v1](http://arxiv.org/abs/2406.06848v1)|null|
 |**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835v1](http://arxiv.org/abs/2406.07835v1)|null|
-|**2024-06-10**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786v1](http://arxiv.org/abs/2406.06786v1)|null|
+|**2024-06-10**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786v2](http://arxiv.org/abs/2406.06786v2)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474v1](http://arxiv.org/abs/2406.06474v1)|null|
 |**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v2](http://arxiv.org/abs/2406.06464v2)|null|
-|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455v1](http://arxiv.org/abs/2406.06455v1)|null|
+|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455v2](http://arxiv.org/abs/2406.06455v2)|null|
 |**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435v1](http://arxiv.org/abs/2406.06435v1)|[link](https://github.com/itm-kitware/llm-alignable-dm)|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372v1](http://arxiv.org/abs/2406.06372v1)|null|
 |**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
@@ -160,12 +160,12 @@ evaluation code are available at https://github.com/FDU-INS/INS-MMBench.
 摘要：大型视觉语言模型 (LVLMs) 已在图像识别和视觉推理等各种通用多模态应用程序中展示了出色的性能，并且在专门的领域中也显示出有希望的潜力。然而，LVLMs 在保险领域（以丰富的应用场景和大量多模态数据为特征）的应用潜力尚未得到有效探索。目前还没有对保险领域的模态任务进行系统的审查，也没有专门设计用来评估 LVLMs 在保险中的能力的基准。这种差距阻碍了 LVLMs 在保险领域的开发。在本文中，我们系统地审查和提炼了四种代表性保险类型的多模态任务：汽车保险、财产保险、健康保险和农业保险。我们提出了 INS-MMBench，这是第一个针对保险领域定制的综合 LVLMs 基准。INS-MMBench 包含总共 2.2K 个经过精心设计的单选题，涵盖 12 个元任务和 22 个基本任务。此外，我们评估了多种代表性 LVLMs，包括封闭源模型（如 GPT-4o）和开放源模型（如 BLIP-2）。此评估不仅验证了我们基准的有效性，还提供了当前 LVLMs 在保险领域各种多模态任务上的深入性能分析。我们希望 INS-MMBench 将促进 LVLMs 在保险领域的进一步应用，并激发跨学科发展。我们的数据集和评估代码可在 https://github.com/FDU-INS/INS-MMBench 获得。
 
 ##### **Deep learning empowered sensor fusion to improve infant movement classification**
-2406.09014v1 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
+2406.09014v2 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
 
 There is a recent boom in the development of AI solutions to facilitate and
 enhance diagnostic procedures for established clinical tools. To assess the
 integrity of the developing nervous system, the Prechtl general movement
-assessment (GMA) is recognized for its clinical value in the diagnosis of
+assessment (GMA) is recognized for its clinical value in diagnosing
 neurological impairments in early infancy. GMA has been increasingly augmented
 through machine learning approaches intending to scale-up its application,
 circumvent costs in the training of human assessors and further standardize
@@ -173,20 +173,20 @@ classification of spontaneous motor patterns. Available deep learning tools,
 all of which are based on single sensor modalities, are however still
 considerably inferior to that of well-trained human assessors. These approaches
 are hardly comparable as all models are designed, trained and evaluated on
-proprietary/ silo-data sets. We propose a sensor fusion approach for assessing
-fidgety movements (FMs) comparing three different sensor modalities (pressure,
-inertial, and visual sensors). Various combinations and two sensor fusion
-approaches (late and early fusion) for infant movement classification were
-tested to evaluate whether a multi-sensor system outperforms single modality
-assessments. The performance of the three-sensor fusion (classification
-accuracy of 94.5\%) was significantly higher than that of any single modality
-evaluated, suggesting the sensor fusion approach is a promising avenue for
-automated classification of infant motor patterns. The development of a robust
-sensor fusion system may significantly enhance AI-based early recognition of
-neurofunctions, ultimately facilitating early implementation of automated
+proprietary/silo-data sets. With this study we propose a sensor fusion approach
+for assessing fidgety movements (FMs) comparing three different sensor
+modalities (pressure, inertial, and visual sensors). Various combinations and
+two sensor fusion approaches (late and early fusion) for infant movement
+classification were tested to evaluate whether a multi-sensor system
+outperforms single modality assessments. The performance of the three-sensor
+fusion (classification accuracy of 94.5\%) was significantly higher than that
+of any single modality evaluated, suggesting the sensor fusion approach is a
+promising avenue for automated classification of infant motor patterns. The
+development of a robust sensor fusion system may significantly enhance AI-based
+early recognition of neurofunctions, ultimately facilitating automated early
 detection of neurodevelopmental conditions.
 
-摘要：隨著人工智慧解決方案的蓬勃發展，用於促進和增強既有臨床工具的診斷程序。為了評估正在發展的神經系統的完整性，Prechtl 一般運動評估 (GMA) 因其在診斷早期嬰兒神經損傷的臨床價值而受到認可。GMA 已透過機器學習方法不斷擴充，旨在擴大其應用範圍，規避人類評估人員培訓成本，並進一步標準化自發性運動模式的分類。現有的深度學習工具，全部基於單一感測器模式，但仍遠不如訓練有素的人類評估人員。這些方法幾乎無法比較，因為所有模型都是在專有/孤立數據集上設計、訓練和評估的。我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後期融合和早期融合）以進行嬰兒運動分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的表現（分類準確度為 94.5%）顯著高於所評估的任何單一模式，這表明感測器融合方法是自動分類嬰兒運動模式的一個有前途的途徑。一個強大的感測器融合系統的開發可能會顯著增強基於人工智慧的早期神經功能識別，最終促進神經發育狀況的自動化檢測的早期實施。
+摘要：近來，促進並提升既有臨床工具的診斷程序的人工智慧解決方案發展蓬勃。為了評估發育中神經系統的完整性，Prechtl 全般動作評估 (GMA) 因其在診斷嬰兒早期神經損傷的臨床價值而受到肯定。GMA 已透過機器學習方法持續擴充，旨在擴大其應用範圍，規避人類評估人員培訓的成本，並進一步標準化自發性動作模式的分類。現有的深度學習工具，全部都基於單一感測器模式，但仍遠遜於訓練有素的人類評估人員。這些方法難以比較，因為所有模型都是在專有/孤立資料集上設計、訓練和評估的。透過這項研究，我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，並比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後融合和早融合），用於嬰兒動作分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的效能（分類準確度為 94.5%）顯著高於評估的任何單一模式，這表示感測器融合方法是自動化分類嬰兒動作模式的一個有前途的方法。健全的感測器融合系統的發展可能會顯著提升基於人工智慧的早期神經功能辨識，最終促進神經發展狀況的自動化早期偵測。
 
 ##### **Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**
 2406.08930v1 by Qihan Hu, Daomiao Wang, Hong Wu, Jian Liu, Cuiwei Yang
@@ -520,7 +520,7 @@ enable further research.
 摘要：<paragraph>我們提出 SciRIFF（科學資源，用於遵循說明和微調），這是一個包含 137K 遵循說明的示範資料集，涵蓋 54 項任務，涵蓋五項重要的科學文獻理解能力：資訊擷取、摘要、問答、聲明驗證和分類。SciRIFF 示範以其長的輸入內容、詳細的任務規格和複雜的結構化輸出而聞名。雖然特定領域（例如臨床醫學和化學）有遵循說明的資源，但 SciRIFF 是第一個專注於從各種科學領域的研究文獻中提取和綜合資訊的資料集。為了展示 SciRIFF 的效用，我們制定了一種樣本有效率的策略，透過在一般領域和 SciRIFF 示範的組合上執行額外的微調，來調整一般遵循說明的模型以適應科學。在九項已暫停的科學任務的評估中，我們的模型（稱為 SciTulu）在 7B 和 70B 規模分別比強大的 LLM 基準提高了 28.1% 和 6.5%，同時將一般遵循說明的效能維持在基準的 2% 以內。我們樂觀地認為 SciRIFF 將有助於開發和評估 LLM，以幫助研究人員瀏覽不斷增長的科學文獻。我們釋出我們的資料集、模型檢查點，以及資料處理和評估程式碼，以利進一步的研究。</paragraph>
 
 ##### **BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**
-2406.06786v1 by June-Woo Kim, Miika Toikkanen, Yera Choi, Seoung-Eun Moon, Ho-Young Jung
+2406.06786v2 by June-Woo Kim, Miika Toikkanen, Yera Choi, Seoung-Eun Moon, Ho-Young Jung
 
 Respiratory sound classification (RSC) is challenging due to varied acoustic
 signatures, primarily influenced by patient demographics and recording
@@ -537,7 +537,7 @@ RSC performance. Additionally, we investigate the model performance in the case
 where metadata is partially unavailable, which may occur in real-world clinical
 setting.
 
-摘要：呼吸音分類 (RSC) 由於聲學特徵變化多端，主要受患者人口統計資料及錄音環境影響，因此具有挑戰性。為了解決此問題，我們引入一個文字音訊多模態模型，其利用呼吸音的元資料，提供有用的補充資訊以進行 RSC。具體來說，我們使用從音訊範例的元資料衍生的自由文字描述，微調一個預訓練的文字音訊多模態模型，其中包括患者的性別和年齡、錄音裝置類型，以及患者身體上的錄音位置。我們的模型在 ICBHI 資料集上達到最先進的效能，以 1.17% 的顯著幅度超越先前的最佳結果。此結果驗證了利用元資料和呼吸音範例來提升 RSC 效能的有效性。此外，我們探討模型在元資料部分不可用的情況下的效能，這種情況可能會發生在真實世界的臨床環境中。
+摘要：呼吸音分類 (RSC) 由於不同的聲學特徵而具有挑戰性，主要受患者人口統計資料和錄音環境影響。為了解決此問題，我們引入一個文本音訊多模態模型，它利用呼吸音的元資料，提供有用的補充資訊以進行 RSC。具體來說，我們使用從音訊範例元資料中衍生的自由文字描述，微調預先訓練好的文本音訊多模態模型，其中包括患者的性別和年齡、錄音裝置類型以及患者身體上的錄音位置。我們的模型在 ICBHI 資料集上取得了最先進的效能，以 1.17% 的顯著幅度超越了先前的最佳結果。此結果驗證了利用元資料和呼吸音範例來增強 RSC 效能的有效性。此外，我們探討了在元資料部分不可用的情況下模型效能，這可能會發生在現實世界的臨床環境中。
 
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
 2406.06728v1 by K M Tawsik Jawad, Anusha Verma, Fathi Amsaad
@@ -656,7 +656,7 @@ regimens that are informed by data-driven insights.
 摘要：儘管穿戴式健康追蹤器大量普及，且睡眠和運動對健康至關重要，但從穿戴式資料中衍生出可操作的個人化見解仍然是一項挑戰，因為這樣做需要對這些資料進行非平凡的開放式分析。大型語言模型 (LLM) 代理程式近來崛起，它可以使用工具對世界進行推理和互動，提供了大規模啟用此類個人化分析的絕佳機會。然而，LLM 代理程式在分析個人健康方面的應用仍未得到充分開發。在本文中，我們介紹了個人健康見解代理程式 (PHIA)，這是一個代理系統，它利用最先進的程式碼生成和資訊檢索工具來分析和詮釋來自穿戴式裝置的行為健康資料。我們整理了兩個基准問答資料集，其中包含超過 4000 個健康見解問題。根據 650 小時的人類和專家評估，我們發現 PHIA 能夠準確回答超過 84% 的事實性數字問題和超過 83% 的群眾外包開放式問題。這項工作對促進全體人口的行為健康具有影響，潛在地使個人能夠詮釋自己的穿戴式資料，並為一個由資料驅動的見解所告知的可存取、個人化健康養生法的新時代鋪路。
 
 ##### **A Large Language Model Pipeline for Breast Cancer Oncology**
-2406.06455v1 by Tristen Pool, Dennis Trujillo
+2406.06455v2 by Tristen Pool, Dennis Trujillo
 
 Large language models (LLMs) have demonstrated potential in the innovation of
 many disciplines. However, how they can best be developed for oncology remains
@@ -676,7 +676,7 @@ patients receiving treatment at local community facilities, these kinds of
 models could play an important part in expanding access to quality care with
 outcomes that lie, at minimum, close to a human oncologist.
 
-摘要：大型語言模型 (LLM) 已在許多領域的創新中展現其潛力。然而，如何才能最佳地開發它們以用於腫瘤學仍處於未開發狀態。最先進的 OpenAI 模型針對臨床資料集和臨床指南文字語料庫進行微調，以針對兩個重要的癌症治療因素，輔助放射治療和化療，使用創新的 Langchain 提示工程管道。在乳癌患者的輔助放射治療和化療分類中，達到了很高的準確度 (0.85+)。此外，根據人類腫瘤學家對治療品質的觀察資料，形成了一個信心區間，以估計在模型必須在其治療預測中優於原始腫瘤學家的情況下，作為整體更好的解決方案的比例，為 8.2% 至 13.3%。由於癌症治療決策結果的不確定性，未來的調查（可能是臨床試驗）將被要求確定模型是否達到此閾值。儘管如此，由於 85% 的美國癌症患者在當地社區設施接受治療，這些類型的模型可以在擴大獲得品質照護的機會中發揮重要作用，其結果至少接近人類腫瘤學家。
+摘要：大型語言模型 (LLM) 已展示出在許多學科創新方面的潛力。然而，如何才能最佳開發它們以應用於腫瘤學仍未成熟。最先進的 OpenAI 模型經過微調，針對臨床數據集和臨床指南文本語料庫，使用新穎的 Langchain 提示工程管道，針對兩個重要的癌症治療因素，輔助放射治療和化療。在乳腺癌患者的輔助放射治療和化療分類中，達到了很高的準確度 (0.85+)。此外，根據人類腫瘤學家對治療品質的觀察數據形成了一個信心區間，以估計模型必須在其治療預測中優於原始腫瘤學家的情境比例，才能整體上成為更好的解決方案，為 8.2% 至 13.3%。由於癌症治療決策結果的不確定性，需要進一步調查，可能是臨床試驗，以確定模型是否達到此門檻。儘管如此，由於 85% 的美國癌症患者在當地社區設施接受治療，這些模型可以在擴大獲得優質照護的機會中扮演重要角色，其結果至少接近人類腫瘤學家。
 
 ##### **Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**
 2406.06435v1 by Brian Hu, Bill Ray, Alice Leung, Amy Summerville, David Joy, Christopher Funk, Arslan Basharat

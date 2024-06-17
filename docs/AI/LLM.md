@@ -5,7 +5,7 @@
 |**2024-06-13**|**Explore the Limits of Omni-modal Pretraining at Scale**|Yiyuan Zhang et.al.|[2406.09412v1](http://arxiv.org/abs/2406.09412v1)|[link](https://github.com/invictus717/MiCo)|
 |**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411v1](http://arxiv.org/abs/2406.09411v1)|null|
 |**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410v1](http://arxiv.org/abs/2406.09410v1)|[link](https://github.com/yangxue0827/rsg-mmrotate)|
-|**2024-06-13**|**4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**|Roman Bachmann et.al.|[2406.09406v1](http://arxiv.org/abs/2406.09406v1)|null|
+|**2024-06-13**|**4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**|Roman Bachmann et.al.|[2406.09406v2](http://arxiv.org/abs/2406.09406v2)|null|
 |**2024-06-13**|**ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**|Jun-Kun Chen et.al.|[2406.09404v1](http://arxiv.org/abs/2406.09404v1)|null|
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
 |**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401v1](http://arxiv.org/abs/2406.09401v1)|[link](https://github.com/openrobotlab/embodiedscan)|
@@ -16,7 +16,7 @@
 |**2024-06-13**|**ElicitationGPT: Text Elicitation Mechanisms via Language Models**|Yifan Wu et.al.|[2406.09363v1](http://arxiv.org/abs/2406.09363v1)|null|
 |**2024-06-13**|**Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores**|Álvaro Ciudad et.al.|[2406.09346v1](http://arxiv.org/abs/2406.09346v1)|null|
 |**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345v1](http://arxiv.org/abs/2406.09345v1)|null|
-|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334v1](http://arxiv.org/abs/2406.09334v1)|[link](https://github.com/davidanugraha/proxylm)|
+|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334v2](http://arxiv.org/abs/2406.09334v2)|[link](https://github.com/davidanugraha/proxylm)|
 |**2024-06-13**|**Learning from Natural Language Explanations for Generalizable Entity Matching**|Somin Wadhwa et.al.|[2406.09330v1](http://arxiv.org/abs/2406.09330v1)|null|
 |**2024-06-13**|**PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance**|Qijun Gan et.al.|[2406.09326v1](http://arxiv.org/abs/2406.09326v1)|null|
 |**2024-06-13**|**REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space**|Tomer Ashuach et.al.|[2406.09325v1](http://arxiv.org/abs/2406.09325v1)|null|
@@ -25,8 +25,8 @@
 |**2024-06-13**|**Characterising Interventions in Causal Games**|Manuj Mishra et.al.|[2406.09318v1](http://arxiv.org/abs/2406.09318v1)|null|
 |**2024-06-13**|**Vertical LoRA: Dense Expectation-Maximization Interpretation of Transformers**|Zhuolin Fu et.al.|[2406.09315v1](http://arxiv.org/abs/2406.09315v1)|[link](https://github.com/neverUseThisName/vlora)|
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
-|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296v1](http://arxiv.org/abs/2406.09296v1)|null|
-|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295v1](http://arxiv.org/abs/2406.09295v1)|null|
+|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296v2](http://arxiv.org/abs/2406.09296v2)|null|
+|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295v2](http://arxiv.org/abs/2406.09295v2)|null|
 |**2024-06-13**|**Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models**|Ziyi Wu et.al.|[2406.09292v1](http://arxiv.org/abs/2406.09292v1)|null|
 |**2024-06-13**|**Exploring Spoken Language Identification Strategies for Automatic Transcription of Multilingual Broadcast and Institutional Speech**|Martina Valente et.al.|[2406.09290v1](http://arxiv.org/abs/2406.09290v1)|null|
 |**2024-06-13**|**Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models**|Sarah Ball et.al.|[2406.09289v1](http://arxiv.org/abs/2406.09289v1)|[link](https://github.com/s-ball-10/jailbreak_dynamics)|
@@ -39,7 +39,7 @@
 |**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
 |**2024-06-13**|**MirrorCheck: Efficient Adversarial Defense for Vision-Language Models**|Samar Fares et.al.|[2406.09250v1](http://arxiv.org/abs/2406.09250v1)|null|
 |**2024-06-13**|**Towards a Characterisation of Monte-Carlo Tree Search Performance in Different Games**|Dennis J. N. J. Soemers et.al.|[2406.09242v1](http://arxiv.org/abs/2406.09242v1)|null|
-|**2024-06-13**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215v1](http://arxiv.org/abs/2406.09215v1)|[link](https://github.com/chenyuxin1999/s-dpo)|
+|**2024-06-13**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215v2](http://arxiv.org/abs/2406.09215v2)|[link](https://github.com/chenyuxin1999/s-dpo)|
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
 |**2024-06-13**|**Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models**|Christopher Schröder et.al.|[2406.09206v1](http://arxiv.org/abs/2406.09206v1)|null|
 |**2024-06-13**|**ReadCtrl: Personalizing text generation with readability-controlled instruction learning**|Hieu Tran et.al.|[2406.09205v1](http://arxiv.org/abs/2406.09205v1)|null|
@@ -51,7 +51,7 @@
 |**2024-06-13**|**DefAn: Definitive Answer Dataset for LLMs Hallucination Evaluation**|A B M Ashikur Rahman et.al.|[2406.09155v1](http://arxiv.org/abs/2406.09155v1)|null|
 |**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
 |**2024-06-13**|**LASER: Learning by Aligning Self-supervised Representations of Speech for Improving Content-related Tasks**|Amit Meghanani et.al.|[2406.09153v1](http://arxiv.org/abs/2406.09153v1)|null|
-|**2024-06-13**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|Melvin Wong et.al.|[2406.09143v1](http://arxiv.org/abs/2406.09143v1)|null|
+|**2024-06-13**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|Melvin Wong et.al.|[2406.09143v2](http://arxiv.org/abs/2406.09143v2)|null|
 |**2024-06-13**|**Investigating the translation capabilities of Large Language Models trained on parallel data only**|Javier García Gilabert et.al.|[2406.09140v1](http://arxiv.org/abs/2406.09140v1)|[link](https://github.com/projecte-aina/plume)|
 |**2024-06-13**|**Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models**|Sarah E. Finch et.al.|[2406.09138v1](http://arxiv.org/abs/2406.09138v1)|null|
 |**2024-06-13**|**Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs**|Xuan Zhang et.al.|[2406.09136v1](http://arxiv.org/abs/2406.09136v1)|[link](https://github.com/sail-sg/cpo)|
@@ -74,9 +74,9 @@
 |**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044v1](http://arxiv.org/abs/2406.09044v1)|null|
 |**2024-06-13**|**Language Models are Crossword Solvers**|Soumadeep Saha et.al.|[2406.09043v1](http://arxiv.org/abs/2406.09043v1)|null|
 |**2024-06-13**|**ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**|Jing Liu et.al.|[2406.09041v1](http://arxiv.org/abs/2406.09041v1)|null|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v1](http://arxiv.org/abs/2406.09014v1)|null|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
 |**2024-06-13**|**Bayesian Statistical Modeling with Predictors from LLMs**|Michael Franke et.al.|[2406.09012v1](http://arxiv.org/abs/2406.09012v1)|null|
-|**2024-06-13**|**Fredformer: Frequency Debiased Transformer for Time Series Forecasting**|Xihao Piao et.al.|[2406.09009v1](http://arxiv.org/abs/2406.09009v1)|[link](https://github.com/chenzrg/fredformer)|
+|**2024-06-13**|**Fredformer: Frequency Debiased Transformer for Time Series Forecasting**|Xihao Piao et.al.|[2406.09009v2](http://arxiv.org/abs/2406.09009v2)|[link](https://github.com/chenzrg/fredformer)|
 |**2024-06-13**|**LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models**|Xiaohao Yang et.al.|[2406.09008v1](http://arxiv.org/abs/2406.09008v1)|null|
 |**2024-06-13**|**Introducing Brain-like Concepts to Embodied Hand-crafted Dialog Management System**|Frank Joublin et.al.|[2406.08996v1](http://arxiv.org/abs/2406.08996v1)|null|
 |**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979v1](http://arxiv.org/abs/2406.08979v1)|[link](https://github.com/openbmb/chatdev)|
@@ -88,7 +88,7 @@
 |**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
 |**2024-06-13**|**Step-by-Step Diffusion: An Elementary Tutorial**|Preetum Nakkiran et.al.|[2406.08929v1](http://arxiv.org/abs/2406.08929v1)|null|
 |**2024-06-13**|**Navigating the Shadows: Unveiling Effective Disturbances for Modern AI Content Detectors**|Ying Zhou et.al.|[2406.08922v1](http://arxiv.org/abs/2406.08922v1)|[link](https://github.com/zhouying20/ai-text-detector-evaluation)|
-|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920v1](http://arxiv.org/abs/2406.08920v1)|null|
+|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920v2](http://arxiv.org/abs/2406.08920v2)|null|
 |**2024-06-13**|**An Initial Investigation of Language Adaptation for TTS Systems under Low-resource Scenarios**|Cheng Gong et.al.|[2406.08911v1](http://arxiv.org/abs/2406.08911v1)|null|
 |**2024-06-13**|**Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models**|Bowen Ping et.al.|[2406.08903v1](http://arxiv.org/abs/2406.08903v1)|null|
 |**2024-06-13**|**No perspective, no perception!! Perspective-aware Healthcare Answer Summarization**|Gauri Naik et.al.|[2406.08881v1](http://arxiv.org/abs/2406.08881v1)|null|
@@ -176,7 +176,7 @@ these pairs.
 摘要：衛星影像 (SAI) 中的場景圖生成 (SGG) 有助於從感知到認知促進對地理空間場景的智能理解。在 SAI 中，物體在比例和長寬比上表現出很大的變化，並且物體之間存在豐富的關係（甚至在空間不相連的物體之間），這使得在大尺寸超高解析度 (VHR) SAI 中整體執行 SGG 變得有必要。然而，缺乏具有大尺寸 VHR SAI 的 SGG 資料集限制了 SGG 在 SAI 中的進展。由於大尺寸 VHR SAI 的複雜性，在大尺寸 VHR SAI 中挖掘三元組 <主體、關係、物體> 在很大程度上依賴於長程脈絡推理。因此，為小尺寸自然影像設計的 SGG 模型不直接適用於大尺寸 VHR SAI。為了解決資料集的稀缺性，本文構建了一個用於大尺寸 VHR SAI 中 SGG 的大規模資料集，影像大小從 512 x 768 到 27,860 x 31,096 像素，名為 RSG，包含超過 210,000 個物體和 400,000 多個三元組。為了在大尺寸 VHR SAI 中實現 SGG，我們提出了一個基於脈絡的串聯認知 (CAC) 框架，以在三個層次上理解 SAI：物體偵測 (OBD)、配對剪枝和關係預測。作為在大尺寸 SAI 中進行 SGG 的基本先決條件，提出了一個整體多類別物體偵測網路 (HOD-Net)，它可以靈活地整合多尺度脈絡。考慮到大尺寸 SAI 中存在大量物體對，但只有少數物體對包含有意義的關係，我們透過對抗式重建設計了一個配對提案生成 (PPG) 網路來選擇高價值配對。此外，還提出了一個具有基於脈絡的訊息傳遞的關係預測網路 (RPCM)，以預測這些配對的關係類型。
 
 ##### **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**
-2406.09406v1 by Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir
+2406.09406v2 by Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir
 
 Current multimodal and multitask foundation models like 4M or UnifiedIO show
 promising results, but in practice their out-of-the-box abilities to accept
@@ -202,7 +202,7 @@ objectives into a unified model. We successfully scale the training to a three
 billion parameter model using tens of modalities and different datasets. The
 resulting models and training code are open sourced at 4m.epfl.ch.
 
-摘要：當前像 4M 或 UnifiedIO 的多模態和多任務基礎模型展現出有前景的成果，但實際上它們接受不同輸入和執行不同任務的開箱即用能力受到它們受訓的模態和任務（通常相當少）數量限制。在本文中，我們透過在數十種高度不同的模態上訓練單一模型，並在大規模多模態資料集和文字語料庫上執行共同訓練，來擴展它們的能力。這包括在幾個語意和幾何模態上進行訓練，例如來自最近的 DINOv2 和 ImageBind 等最新模型的特徵圖，來自 SAM 和 4DHumans 等專業模型的偽標籤，以及一系列允許以新穎方式與模型互動並引導生成的模態，例如影像元資料或調色盤。此過程中的一個關鍵步驟是在各種模態上執行離散標記化，無論它們是影像類、神經網路特徵圖、向量、結構化資料（例如實例分割或人體姿勢），還是可以表示為文字的資料。透過此方式，我們擴展了多模態模型的開箱即用能力，並特別展示了訓練一個模型以解決至少比現有模型多 3 倍的任務/模態的可能性，而且在不損失效能的情況下做到這一點。這能實現更細緻且可控的多模態生成能力，並允許我們研究將在不同資料和目標上訓練的模型萃取到統一模型中。我們成功地將訓練擴展到使用數十種模態和不同資料集的三十億參數模型。產生的模型和訓練程式碼在 4m.epfl.ch 開源。
+摘要：目前的 4M 或 UnifiedIO 等多模态和多任务基础模型显示出有希望的结果，但实际上，它们开箱即用的接受各种输入和执行各种任务的能力受到它们接受训练的模态和任务（通常相当少）数量的限制。在本文中，我们通过在数十种高度多样化的模态上训练单个模型，并在大规模多模态数据集和文本语料库上执行联合训练，扩展了它们的能力。这包括在几个语义和几何模态上进行训练，从 DINOv2 和 ImageBind 等最新模型的特征图，SAM 和 4DHumans 等专家模型的伪标签，以及一系列允许以新颖方式与模型交互和引导生成的新模态，例如图像元数据或调色板。此过程中的一个关键步骤是对各种模态执行离散标记化，无论它们是图像、神经网络特征图、向量、结构化数据（如实例分割或人体姿势），还是可以表示为文本的数据。通过此，我们扩展了多模态模型的开箱即用能力，并特别展示了训练一个模型来解决至少比现有模型多 3 倍的任务/模态的可能性，并且在不损失性能的情况下这样做。这实现了更细粒度和可控的多模态生成能力，并允许我们研究在不同数据和目标上训练的模型到统一模型的蒸馏。我们成功地将训练扩展到一个使用数十种模态和不同数据集的 30 亿参数模型。生成模型和训练代码在 4m.epfl.ch 开源。
 
 ##### **ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**
 2406.09404v1 by Jun-Kun Chen, Samuel Rota Bulò, Norman Müller, Lorenzo Porzi, Peter Kontschieder, Yu-Xiong Wang
@@ -443,24 +443,24 @@ not crucial in instruction-tuning for spoken question answering tasks.
 摘要：透過將預先訓練好的基於文字的大語言模型 (LLM) 與語音輸入整合，已讓各種語音任務具備遵循指令的能力。這種整合需要使用在各種任務上受過訓練的語音編碼器、語音適配器和 LLM。我們建議使用離散語音單位 (DSU)，而非連續值語音編碼器輸出，這些輸出使用語音適配器轉換為 LLM 令牌嵌入空間。我們使用自監督語音編碼器，然後進行 k 平均群集，來產生 DSU。所提出的模型在來自已見/未見領域的語音輸入和口說問答中的遵循指令能力方面，展現出穩健的效能。我們也探索從自監督語音編碼器不同層中萃取出的各種 DSU 類型，以及梅爾頻率倒譜係數 (MFCC)。我們的發現顯示，ASR 任務和資料集對於口說問答任務的指令微調並非至關重要。
 
 ##### **ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**
-2406.09334v1 by David Anugraha, Genta Indra Winata, Chenyue Li, Patrick Amadeus Irawan, En-Shiun Annie Lee
+2406.09334v2 by David Anugraha, Genta Indra Winata, Chenyue Li, Patrick Amadeus Irawan, En-Shiun Annie Lee
 
-Performance prediction is a method to estimate the performance of
-multilingual language models (LMs), mitigating computational costs associated
-with model capacity and data for fine-tuning. Our paper introduces ProxyLM, a
-scalable framework for predicting LM performance using proxy models in
-multilingual tasks. These proxy models act as surrogates, approximating the
-performance of fine-tuned LMs on specific downstream natural language
-processing (NLP) tasks. By leveraging proxy models, ProxyLM significantly
-reduces computational overhead on task evaluations, achieving up to a 37.08x
-speedup compared to traditional methods, even with our smallest proxy models.
-Additionally, our methodology showcases adaptability to previously unseen
-languages in pre-trained LMs, outperforming the state-of-the-art performance by
-1.89x as measured by root-mean-square-error (RMSE). This framework streamlines
-model selection, enabling efficient deployment and iterative LM enhancements
-without extensive computational resources.
+Performance prediction is a method to estimate the performance of Language
+Models (LMs) on various Natural Language Processing (NLP) tasks, mitigating
+computational costs associated with model capacity and data for fine-tuning.
+Our paper introduces ProxyLM, a scalable framework for predicting LM
+performance using proxy models in multilingual tasks. These proxy models act as
+surrogates, approximating the performance of the LM of interest. By leveraging
+proxy models, ProxyLM significantly reduces computational overhead on task
+evaluations, achieving up to a 37.08x speedup compared to traditional methods,
+even with our smallest proxy models. Additionally, our methodology showcases
+adaptability to previously unseen languages in pre-trained LMs, outperforming
+the state-of-the-art performance by 1.89x as measured by root-mean-square error
+(RMSE). This framework streamlines model selection, enabling efficient
+deployment and iterative LM enhancements without extensive computational
+resources.
 
-摘要：效能預測是一種估算多語言語言模型 (LM) 效能的方法，可減輕與模型容量和微調資料相關的運算成本。我們的論文介紹了 ProxyLM，一種可擴充的架構，用於在多語言任務中使用代理模型來預測 LM 效能。這些代理模型充當代理，近似微調 LM 在特定下游自然語言處理 (NLP) 任務中的效能。透過利用代理模型，ProxyLM 大幅減少了任務評估的運算負擔，與傳統方法相比，即使使用我們最小的代理模型，也能達到 37.08 倍的速度提升。此外，我們的技術展示了對預訓練 LM 中先前未見語言的適應性，以均方根誤差 (RMSE) 衡量，優於最先進的效能 1.89 倍。這個架構簡化了模型選擇，讓模型能有效部署和進行反覆增強，而無需大量的運算資源。
+摘要：效能預測是一種估計語言模型 (LM) 在各種自然語言處理 (NLP) 任務上效能的方法，可降低與模型容量和微調資料相關的運算成本。我們的論文介紹了 ProxyLM，這是一個可擴充的框架，可用於使用多語言任務中的代理模型預測 LM 效能。這些代理模型扮演代理角色，近似感興趣的 LM 效能。透過利用代理模型，ProxyLM 大幅降低了任務評估的運算負擔，與傳統方法相比，即使使用我們最小的代理模型，也能達到高達 37.08 倍的加速。此外，我們的技術展示了對預先訓練 LM 中以前未見語言的適應性，以均方根誤差 (RMSE) 衡量，其效能優於現有技術 1.89 倍。此框架簡化了模型選擇，即使沒有大量的運算資源，也能進行有效率的部署和反覆 LM 增強。
 
 ##### **Learning from Natural Language Explanations for Generalizable Entity Matching**
 2406.09330v1 by Somin Wadhwa, Adit Krishnan, Runhui Wang, Byron C. Wallace, Chris Kong
@@ -644,7 +644,7 @@ models for algorithmic reasoning, both in and out of distribution.
 摘要：Transformer 憑藉其簡單但有效的架構，徹底改變了機器學習。在網際網路上的大量文字資料集上對 Transformer 進行預訓練，已為自然語言理解 (NLU) 任務帶來了無與倫比的泛化。然而，在需要演算法形式推理的任務中，此類語言模型仍然脆弱，因為計算必須精確且穩健。為了解決這個限制，我們提出了一種新方法，結合了 Transformer 的語言理解與圖形神經網路 (GNN) 為基礎的神經演算法推理器 (NAR) 的穩健性。此類 NAR 被證明在以圖形形式指定時，可作為演算法任務的通用解算器。為了讓 Transformer 可以存取其嵌入，我們提出了具有兩階段訓練程序的混合架構，讓語言模型中的符號可以交叉關注 NAR 中的節點嵌入。我們在 CLRS-Text（CLRS-30 基準的文字版本）上評估我們得到的 TransNAR 模型，並證明了在演算法推理中，無論是在分佈內或分佈外，都比僅使用 Transformer 的模型有顯著的進步。
 
 ##### **Parameter-Efficient Active Learning for Foundational models**
-2406.09296v1 by Athmanarayanan Lakshmi Narayanan, Ranganath Krishnan, Amrutha Machireddy, Mahesh Subedar
+2406.09296v2 by Athmanarayanan Lakshmi Narayanan, Ranganath Krishnan, Amrutha Machireddy, Mahesh Subedar
 
 Foundational vision transformer models have shown impressive few shot
 performance on many vision tasks. This research presents a novel investigation
@@ -660,10 +660,10 @@ strategies, presenting a promising avenue for future exploration in leveraging
 foundation models for efficient and effective data annotation in specialized
 domains.
 
-摘要：基礎視覺轉換器模型已展現出令人印象深刻的少樣本表現，適用於許多視覺任務。本研究提出一個創新的調查，探討參數有效微調方法在主動學習 (AL) 架構中的應用，以提升極度受限預算分類任務中的抽樣選取流程。專注於影像資料集，以其分布外特性而聞名，為我們的研究增添了一層複雜性和相關性。透過詳細評估，我們說明了這些具挑戰性資料集上進步的 AL 表現，強調合併參數有效微調方法與基礎模型的策略優勢。這有助於優化 AL 策略的廣泛討論，為未來探索利用基礎模型在特定領域進行有效率且有效的資料標註提供了一個有前景的途徑。
+摘要：基礎視覺變換器模型已在許多視覺任務上展現令人印象深刻的少量鏡頭表現。本研究提出對參數有效微調方法在主動學習 (AL) 架構中的應用進行一項新穎的調查，以推進極度預算受限分類任務中的抽樣選擇流程。專注於以其分布外特性而聞名的影像資料集，為我們的研究增添了一層複雜性和關聯性。透過詳細的評估，我們說明了這些具有挑戰性的資料集上改良的 AL 表現，強調了將參數有效微調方法與基礎模型合併的策略優勢。這有助於優化 AL 策略的廣泛討論，為在特定領域中利用基礎模型進行有效率且有效的資料標註，提出了一個有前景的未來探索途徑。
 
 ##### **AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**
-2406.09295v1 by Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
+2406.09295v2 by Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
 
 Evaluating the alignment capabilities of large Vision-Language Models (VLMs)
 is essential for determining their effectiveness as helpful assistants.
@@ -681,14 +681,8 @@ report the performance of representative VLMs on AlignMMBench, offering
 insights into the capabilities and limitations of different VLM architectures.
 All evaluation codes and data are available on https://alignmmbench.github.io.
 
-摘要：評估大型視覺語言模型 (VLM) 的對齊能力對於確定其作為有用助理的有效性至關重要。
-然而，現有的基準主要集中於使用非語言方法的基本能力，例如是非題和多選題。
-在本文中，我們通過引入 AlignMMBench 來解決這一差距，AlignMMBench 是一個專門為新興中文 VLM 設計的綜合對齊基準。
-這個基準是從真實世界的場景和中文網路來源精心策劃的，涵蓋了三個類別中的 13 個具體任務，包括單輪和多輪對話場景。
-AlignMMBench 採用提示重寫策略，包含 1,054 張圖片和 4,978 個問答對。
-為了促進評估管道，我們提出了 CritiqueVLM，這是一個規則校準的評估器，其評估能力超過了 GPT-4。
-最後，我們報告了代表性 VLM 在 AlignMMBench 上的表現，提供了對不同 VLM 架構的能力和限制的見解。
-所有評估代碼和數據都可以在 https://alignmmbench.github.io/ 上找到。
+摘要：評估大型視覺語言模型 (VLM) 的對齊能力對於確定它們作為有用輔助工具的有效性至關重要。
+然而，現有的基準主要集中於使用非語言方法的基本能力，例如是非題和多選題。在本文中，我們通過引入 AlignMMBench 來解決這一差距，AlignMMBench 是一個專門為新興中文 VLM 設計的綜合對齊基準。此基準是從現實世界場景和中文網路來源精心策劃的，涵蓋三個類別中的 13 個具體任務，包括單輪和多輪對話場景。AlignMMBench 採用提示重寫策略，包含 1,054 張圖片和 4,978 個問答對。為了促進評估管道，我們提出了 CritiqueVLM，這是一個規則校準評估器，其評估能力超過 GPT-4。最後，我們報告了代表性 VLM 在 AlignMMBench 上的性能，提供了對不同 VLM 架構的能力和限制的見解。所有評估代碼和數據均可在 https://alignmmbench.github.io/ 上獲得。
 
 ##### **Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models**
 2406.09292v1 by Ziyi Wu, Yulia Rubanova, Rishabh Kabra, Drew A. Hudson, Igor Gilitschenski, Yusuf Aytar, Sjoerd van Steenkiste, Kelsey R. Allen, Thomas Kipf
@@ -949,7 +943,7 @@ and improved version of the dataset.
 摘要：在將近二十年的通用遊戲遊玩與其他人工智慧研究中，蒙地卡羅樹狀搜尋 (MCTS) 已提出許多增強技術。然而，我們對於描述和理解哪些變體在哪些遊戲中表現良好或不佳的能力仍然不足。本文描述了我們建立的初始資料集，以朝向這樣的理解邁進：61 位不同代理人在 1494 個不同遊戲中進行 268,386 次遊玩。我們描述了對此資料集進行預測模型訓練的初步分析和工作，以及對資料集的新版和改良版學到的教訓和未來計畫。
 
 ##### **On Softmax Direct Preference Optimization for Recommendation**
-2406.09215v1 by Yuxin Chen, Junfei Tan, An Zhang, Zhengyi Yang, Leheng Sheng, Enzhi Zhang, Xiang Wang, Tat-Seng Chua
+2406.09215v2 by Yuxin Chen, Junfei Tan, An Zhang, Zhengyi Yang, Leheng Sheng, Enzhi Zhang, Xiang Wang, Tat-Seng Chua
 
 Recommender systems aim to predict personalized rankings based on user
 preference data. With the rise of Language Models (LMs), LM-based recommenders
@@ -961,21 +955,21 @@ objective fails to fully leverage preference data and is not optimized for
 personalized ranking tasks, which hinders the performance of LM-based
 recommenders. Inspired by the current advancement of Direct Preference
 Optimization (DPO) in human preference alignment and the success of softmax
-loss in recommendations, we propose Softmax-DPO (\textbf{S-DPO}) to instill
-ranking information into the LM to help LM-based recommenders distinguish
-preferred items from negatives, rather than solely focusing on positives.
-Specifically, we incorporate multiple negatives in user preference data and
-devise an alternative version of DPO loss tailored for LM-based recommenders,
-connected to softmax sampling strategies. Theoretically, we bridge S-DPO with
-the softmax loss over negative sampling and find that it has a side effect of
-mining hard negatives, which assures its exceptional capabilities in
-recommendation tasks. Empirically, extensive experiments conducted on three
-real-world datasets demonstrate the superiority of S-DPO to effectively model
-user preference and further boost recommendation performance while mitigating
-the data likelihood decline issue of DPO. Our codes are available at
+loss in recommendations, we propose Softmax-DPO (S-DPO) to instill ranking
+information into the LM to help LM-based recommenders distinguish preferred
+items from negatives, rather than solely focusing on positives. Specifically,
+we incorporate multiple negatives in user preference data and devise an
+alternative version of DPO loss tailored for LM-based recommenders, connected
+to softmax sampling strategies. Theoretically, we bridge S-DPO with the softmax
+loss over negative sampling and find that it has a side effect of mining hard
+negatives, which assures its exceptional capabilities in recommendation tasks.
+Empirically, extensive experiments conducted on three real-world datasets
+demonstrate the superiority of S-DPO to effectively model user preference and
+further boost recommendation performance while mitigating the data likelihood
+decline issue of DPO. Our codes are available at
 https://github.com/chenyuxin1999/S-DPO.
 
-摘要：推薦系統旨在根據使用者偏好資料預測個人化排名。隨著語言模型 (LM) 的興起，基於 LM 的推薦系統因其廣泛的世界知識和強大的推理能力而被廣泛探索。大多數基於 LM 的推薦系統會將歷史互動轉換為語言提示，與正向項目配對作為目標回應，並使用語言建模損失微調 LM。然而，目前的目標未能充分利用偏好資料，且未針對個人化排名任務進行最佳化，這阻礙了基於 LM 的推薦系統的效能。受到人類偏好對齊中直接偏好最佳化 (DPO) 的最新進展以及推薦中 softmax 損失成功的啟發，我們提出 Softmax-DPO (\textbf{S-DPO})，將排名資訊灌輸到 LM 中，以協助基於 LM 的推薦系統區分偏好的項目和負面項目，而非僅專注於正向項目。具體來說，我們在使用者偏好資料中納入多個負面項目，並設計出針對基於 LM 的推薦系統量身打造的 DPO 損失替代版本，並與 softmax 取樣策略相連。在理論上，我們將 S-DPO 與負面取樣上的 softmax 損失結合起來，並發現它具有挖掘困難負面項目的副作用，這確保了它在推薦任務中的卓越能力。在經驗上，在三個真實世界資料集上進行的廣泛實驗證明了 S-DPO 在有效建模使用者偏好方面的優越性，並進一步提升了推薦效能，同時減輕了 DPO 的資料可能性下降問題。我們的程式碼可在 https://github.com/chenyuxin1999/S-DPO 取得。
+摘要：推薦系統旨在根據使用者偏好資料預測個人化排名。隨著語言模型 (LM) 的興起，基於 LM 的推薦系統因其廣泛的世界知識和強大的推理能力而被廣泛探索。大多數基於 LM 的推薦系統將歷史互動轉換為語言提示，與正向項目配對作為目標回應，並使用語言建模損失微調 LM。然而，目前的目標未能充分利用偏好資料，且並未針對個人化排名任務進行最佳化，這阻礙了基於 LM 的推薦系統的效能。受到人類偏好對齊中直接偏好最佳化 (DPO) 的最新進展以及推薦中 softmax 損失成功的啟發，我們提出 Softmax-DPO (S-DPO) 將排名資訊灌輸到 LM 中，以幫助基於 LM 的推薦系統區分偏好的項目和負面項目，而不仅仅是專注於正向項目。具體來說，我們在使用者偏好資料中納入多個負面項目，並設計出專門針對基於 LM 的推薦系統的 DPO 損失的替代版本，並連接到 softmax 採樣策略。理論上，我們將 S-DPO 與負面採樣的 softmax 損失聯繫起來，並發現它具有挖掘困難負面項目的副作用，這確保了它在推薦任務中的卓越能力。根據經驗，在三個真實世界資料集上進行的廣泛實驗證明了 S-DPO 在有效建模使用者偏好方面的優越性，並進一步提升了推薦效能，同時減輕了 DPO 的資料可能性下降問題。我們的程式碼可在 https://github.com/chenyuxin1999/S-DPO 取得。
 
 ##### **Investigating potential causes of Sepsis with Bayesian network structure learning**
 2406.09207v1 by Bruno Petrungaro, Neville K. Kitson, Anthony C. Constantinou
@@ -1232,7 +1226,7 @@ GPU.
 摘要：基於自我監督學習 (SSL) 的語音模型廣泛用於全端語音處理。然而，已觀察到使用與內容相關任務的未標記語音來改進基於 SSL 的語音表示具有挑戰性且在計算上很昂貴。最近已嘗試使用具有成本效益的自我監督微調 (SSFT) 方法來解決此問題。繼續朝這個方向，提出了一個名為「LASER：透過比對自我監督表示進行學習」的具有成本效益的 SSFT 方法。LASER 基於具有時間正則化項的軟 DTW 對齊損失。使用 HuBERT 和 WavLM 模型進行實驗，並針對兩個與內容相關的任務（自動語音辨識 (ASR) 和音素辨識 (PR)）在 SUPERB 基準上進行評估。對於 HuBERT，ASR 和 PR 任務分別觀察到 3.7% 和 8.2% 的相對改進，而 WavLM 則觀察到 4.1% 和 11.7%，而僅在單一 GPU 上進行不到 3 小時的微調。
 
 ##### **Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**
-2406.09143v1 by Melvin Wong, Thiago Rios, Stefan Menzel, Yew Soon Ong
+2406.09143v2 by Melvin Wong, Thiago Rios, Stefan Menzel, Yew Soon Ong
 
 Engineering design optimization requires an efficient combination of a 3D
 shape representation, an optimization algorithm, and a design performance
@@ -1259,7 +1253,7 @@ novel designs with good optimization performance while providing ease of use in
 specifying design specifications and preferences via a natural language
 interface.
 
-摘要：工程設計最佳化需要有效結合 3D 形狀表示、最佳化演算法和設計效能評估方法，這通常在運算上很昂貴。我們提出一個提示式演化設計最佳化 (PEDO) 架構，情境化在一個車輛設計場景中，利用一個視覺語言模型來懲罰由生成模型合成的非實用汽車設計。我們架構的骨幹是一個演化策略，結合一個最佳化目標函數，它包含一個基於物理的求解器和一個用於在產生的汽車設計中提供實用或功能指導的視覺語言模型。在提示式演化搜尋中，最佳化器反覆產生一個文字提示的族群，這些提示會嵌入使用者對 3D 汽車設計的空氣動力效能和視覺偏好的規格。然後，除了計算流體力學模擬之外，預先訓練的視覺語言模型用於懲罰不實用的設計，從而促進演化演算法尋求更可行的設計。我們對汽車設計最佳化問題的調查顯示，在搜尋的早期階段產生了廣泛的潛在汽車設計，這表示初始族群中設計的多樣性良好，並且與不使用視覺語言模型的基準架構相比，產生實用設計的機率增加了 20% 以上。根據效能結果對設計進行視覺檢查，證明提示式演化是一種非常有前途的範例，可以用於尋找具有良好最佳化效能的新穎設計，同時透過自然語言介面提供易於指定設計規格和偏好的方式。
+摘要：<paragraph>工程設計最佳化需要結合 3D 形狀表示、最佳化演算法和設計效能評估方法，這些方法通常在運算上很耗費資源。我們提出一個情境化於車輛設計場景的提示演化設計最佳化 (PEDO) 架構，該架構利用視覺語言模型來懲罰生成模型合成的非實際汽車設計。我們的架構主幹是一個演化策略，結合一個包含基於物理求解器和視覺語言模型的最佳化目標函數，用於在生成的汽車設計中提供實用或功能指導。在提示演化搜尋中，最佳化器會反覆產生一組文字提示，其中包含使用者對 3D 汽車設計的空氣動力效能和視覺偏好的規格。然後，除了計算流體力學模擬外，預先訓練好的視覺語言模型用於懲罰非實際設計，並因此促使演化演算法尋找更多可行的設計。我們對汽車設計最佳化問題的調查顯示，在搜尋的早期階段產生了廣泛的潛在汽車設計，這表示初始族群中有良好的設計多樣性，並且與不使用視覺語言模型的基準架構相比，產生實用設計的機率增加了 20% 以上。根據效能結果對設計進行視覺檢查，證明提示演化是一種非常有前途的範例，可以用於尋找具有良好最佳化效能的新穎設計，同時透過自然語言介面輕鬆指定設計規格和偏好。</paragraph>
 
 ##### **Investigating the translation capabilities of Large Language Models trained on parallel data only**
 2406.09140v1 by Javier García Gilabert, Carlos Escolano, Aleix Sant Savall, Francesca De Luca Fornaciari, Audrey Mash, Xixian Liao, Maite Melero
@@ -1775,12 +1769,12 @@ family on a single NVIDIA A100 GPU.
 摘要：<paragraph>開發大型語言模型的典型流程涉及在大量資料上預先訓練通用基礎模型，然後針對特定任務資料進行微調以建立專門的專家。提供這些專家服務會帶來挑戰，因為將所有專家載入裝置並不實際，而且根據使用者要求在專家之間頻繁切換會產生大量的 I/O 成本，增加延遲和費用。先前的做法將專家權重分解為預先訓練的模型權重和殘差 delta 權重，然後對 delta 權重進行量化以減少模型大小。然而，這些方法通常會在極低的位寬產生顯著的量化誤差，並假設事先已知道使用者要求的適當模型，這並不實際。為了解決這些問題，我們引入了 ME-Switch，一種用於大型語言模型服務的記憶體高效專家切換架構。ME-Switch 使用混合精度量化，選擇性地將 delta 權重的非顯著輸入通道量化為極低的位元，同時保持顯著通道的完整性，顯著降低儲存需求，同時維持效能。此外，我們開發了一種路由方法，透過將模型選擇問題轉換為網域分類問題，有效地將使用者查詢引導至最合適的專家。廣泛的實驗顯示 ME-Switch 具有良好的記憶體效率和路由效能。例如，在提供 Mistral-7B 系列中的三個模型時，ME-Switch 將模型大小減少了 1.74 倍，同時在指令、數學推理和程式碼產生任務上維持幾乎無損的效能。此外，ME-Switch 可以有效地在單一的 NVIDIA A100 GPU 上提供 Mistral-7B 系列中的 16 個模型。</paragraph>
 
 ##### **Deep learning empowered sensor fusion to improve infant movement classification**
-2406.09014v1 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
+2406.09014v2 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
 
 There is a recent boom in the development of AI solutions to facilitate and
 enhance diagnostic procedures for established clinical tools. To assess the
 integrity of the developing nervous system, the Prechtl general movement
-assessment (GMA) is recognized for its clinical value in the diagnosis of
+assessment (GMA) is recognized for its clinical value in diagnosing
 neurological impairments in early infancy. GMA has been increasingly augmented
 through machine learning approaches intending to scale-up its application,
 circumvent costs in the training of human assessors and further standardize
@@ -1788,20 +1782,20 @@ classification of spontaneous motor patterns. Available deep learning tools,
 all of which are based on single sensor modalities, are however still
 considerably inferior to that of well-trained human assessors. These approaches
 are hardly comparable as all models are designed, trained and evaluated on
-proprietary/ silo-data sets. We propose a sensor fusion approach for assessing
-fidgety movements (FMs) comparing three different sensor modalities (pressure,
-inertial, and visual sensors). Various combinations and two sensor fusion
-approaches (late and early fusion) for infant movement classification were
-tested to evaluate whether a multi-sensor system outperforms single modality
-assessments. The performance of the three-sensor fusion (classification
-accuracy of 94.5\%) was significantly higher than that of any single modality
-evaluated, suggesting the sensor fusion approach is a promising avenue for
-automated classification of infant motor patterns. The development of a robust
-sensor fusion system may significantly enhance AI-based early recognition of
-neurofunctions, ultimately facilitating early implementation of automated
+proprietary/silo-data sets. With this study we propose a sensor fusion approach
+for assessing fidgety movements (FMs) comparing three different sensor
+modalities (pressure, inertial, and visual sensors). Various combinations and
+two sensor fusion approaches (late and early fusion) for infant movement
+classification were tested to evaluate whether a multi-sensor system
+outperforms single modality assessments. The performance of the three-sensor
+fusion (classification accuracy of 94.5\%) was significantly higher than that
+of any single modality evaluated, suggesting the sensor fusion approach is a
+promising avenue for automated classification of infant motor patterns. The
+development of a robust sensor fusion system may significantly enhance AI-based
+early recognition of neurofunctions, ultimately facilitating automated early
 detection of neurodevelopmental conditions.
 
-摘要：隨著人工智慧解決方案的蓬勃發展，用於促進和增強既有臨床工具的診斷程序。為了評估正在發展的神經系統的完整性，Prechtl 一般運動評估 (GMA) 因其在診斷早期嬰兒神經損傷的臨床價值而受到認可。GMA 已透過機器學習方法不斷擴充，旨在擴大其應用範圍，規避人類評估人員培訓成本，並進一步標準化自發性運動模式的分類。現有的深度學習工具，全部基於單一感測器模式，但仍遠不如訓練有素的人類評估人員。這些方法幾乎無法比較，因為所有模型都是在專有/孤立數據集上設計、訓練和評估的。我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後期融合和早期融合）以進行嬰兒運動分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的表現（分類準確度為 94.5%）顯著高於所評估的任何單一模式，這表明感測器融合方法是自動分類嬰兒運動模式的一個有前途的途徑。一個強大的感測器融合系統的開發可能會顯著增強基於人工智慧的早期神經功能識別，最終促進神經發育狀況的自動化檢測的早期實施。
+摘要：近來，促進並提升既有臨床工具的診斷程序的人工智慧解決方案發展蓬勃。為了評估發育中神經系統的完整性，Prechtl 全般動作評估 (GMA) 因其在診斷嬰兒早期神經損傷的臨床價值而受到肯定。GMA 已透過機器學習方法持續擴充，旨在擴大其應用範圍，規避人類評估人員培訓的成本，並進一步標準化自發性動作模式的分類。現有的深度學習工具，全部都基於單一感測器模式，但仍遠遜於訓練有素的人類評估人員。這些方法難以比較，因為所有模型都是在專有/孤立資料集上設計、訓練和評估的。透過這項研究，我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，並比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後融合和早融合），用於嬰兒動作分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的效能（分類準確度為 94.5%）顯著高於評估的任何單一模式，這表示感測器融合方法是自動化分類嬰兒動作模式的一個有前途的方法。健全的感測器融合系統的發展可能會顯著提升基於人工智慧的早期神經功能辨識，最終促進神經發展狀況的自動化早期偵測。
 
 ##### **Bayesian Statistical Modeling with Predictors from LLMs**
 2406.09012v1 by Michael Franke, Polina Tsvilodub, Fausto Carcassi
@@ -1829,7 +1823,7 @@ in the first place.
 摘要：最先进的大型语言模型 (LLM) 在各种基准任务中表现出色，并且越来越多地用作大型应用程序中的组件，其中基于 LLM 的预测用作人类判断或决策的代理。这引发了关于 LLM 衍生信息的人类相似性、与人类直觉的一致性，以及 LLM 是否可能被认为是（部分）人类认知或语言使用的解释性模型的问题。为了更深入地了解这些问题，我们在此从贝叶斯统计建模的角度研究了 LLM 对多项选择决策任务的预测的人类相似性。使用来自务实语言使用强制选择实验的人类数据，我们发现 LLM 无法在项目级别捕捉人类数据中的差异。我们提出了从 LLM 中推导总体条件级数据的完整分布式预测的不同方法，并发现某些（但并非全部）获得条件级预测的方法产生了与人类数据充分拟合。这些结果表明，对 LLM 性能的评估在很大程度上取决于方法论中看似细微的选择，并且 LLM 最多是在总体条件级预测人类行为，但它们最初并非设计用于或通常用于进行预测。
 
 ##### **Fredformer: Frequency Debiased Transformer for Time Series Forecasting**
-2406.09009v1 by Xihao Piao, Zheng Chen, Taichi Murayama, Yasuko Matsubara, Yasushi Sakurai
+2406.09009v2 by Xihao Piao, Zheng Chen, Taichi Murayama, Yasuko Matsubara, Yasushi Sakurai
 
 The Transformer model has shown leading performance in time series
 forecasting. Nevertheless, in some complex scenarios, it tends to learn
@@ -1849,7 +1843,7 @@ Fredformer with an attention matrix approximation, which achieves comparable
 performance but with much fewer parameters and lower computation costs. The
 code is available at: https://github.com/chenzRG/Fredformer
 
-摘要：Transformer 模型在時間序列預測中展現了領先的效能。然而，在一些複雜的場景中，它傾向於學習資料中的低頻率特徵，而忽略高頻率特徵，顯示出頻率偏差。此偏差會阻止模型準確擷取重要的高頻率資料特徵。在本文中，我們進行了經驗分析以了解此偏差，並發現頻率偏差是由於模型不均衡地關注能量較高的頻率特徵所致。根據我們的分析，我們制定了此偏差，並提出了 Fredformer，一個基於 Transformer 的架構，旨在透過在不同頻率頻段中平均學習特徵來減輕頻率偏差。此方法可以防止模型忽略對於準確預測很重要的較低振幅特徵。廣泛的實驗顯示了我們提出的方法的有效性，它可以在不同的真實世界時間序列資料集中優於其他基準。此外，我們引入了 Fredformer 的輕量級變體，具有注意力矩陣近似值，可實現相當的效能，但參數少得多且運算成本較低。程式碼可於以下網址取得：https://github.com/chenzRG/Fredformer
+摘要：Transformer 模型在時序預測方面展現出領先的效能。然而，在某些複雜場景中，它傾向於學習資料中的低頻特徵，而忽略高頻特徵，顯示出頻率偏差。此偏差會阻止模型準確擷取重要的「高頻資料特徵」。在本文中，我們進行了經驗分析，以了解此偏差，並發現頻率偏差源自模型不成比例地關注能量較高的頻率特徵。根據我們的分析，我們制定了此偏差，並提出了 Fredformer，一個基於 Transformer 的框架，旨在透過在不同頻率頻帶中平等地學習特徵，來減輕頻率偏差。此方法可防止模型忽略對於準確預測很重要的低振幅特徵。廣泛的實驗顯示了我們提出的方法的有效性，它可以在不同的實際時序資料集上優於其他基線。此外，我們引入了 Fredformer 的輕量級變體，具有注意力矩陣近似，可實現相當的效能，但參數更少，運算成本更低。程式碼可於以下網址取得：https://github.com/chenzRG/Fredformer
 
 ##### **LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models**
 2406.09008v1 by Xiaohao Yang, He Zhao, Dinh Phung, Wray Buntine, Lan Du
@@ -2086,7 +2080,7 @@ https://github.com/zhouying20/ai-text-detector-evaluation.
 摘要：<paragraph>隨著 ChatGPT 的推出，大型語言模型 (LLM) 吸引了全球的關注。在文章寫作領域，LLM 已廣泛使用，引發了與智慧財產權保護、個人隱私和學術誠信相關的疑慮。為了解決這些問題，AI 文字偵測技術應運而生，用以區分人類和機器產生的內容。然而，最近的研究指出，這些偵測系統通常缺乏穩健性，難以有效區分擾動文字。目前，對於實際應用中的偵測效能缺乏系統性的評估，且對擾動技術和偵測器穩健性的全面檢視也付之闕如。為了彌補這個差距，我們的工作模擬了非正式和專業寫作中的真實世界場景，探索了當前偵測器的開箱即用效能。此外，我們構建了 12 種黑盒文字擾動方法，以評估當前偵測模型在各種擾動粒度下的穩健性。進一步地，透過對抗式學習實驗，我們探討了擾動資料擴充對 AI 文字偵測器穩健性的影響。我們已在 https://github.com/zhouying20/ai-text-detector-evaluation/ 發布我們的程式碼和資料。</paragraph>
 
 ##### **AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**
-2406.08920v1 by Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiankang Deng, Xiatian Zhu
+2406.08920v2 by Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiankang Deng, Xiatian Zhu
 
 Novel view acoustic synthesis (NVAS) aims to render binaural audio at any
 target viewpoint, given a mono audio emitted by a sound source at a 3D scene.
@@ -2107,7 +2101,7 @@ for texture-less wall surfaces as they affect sound path diversion). Extensive
 experiments validate the superiority of our AV-GS over existing alternatives on
 the real-world RWAS and simulation-based SoundSpaces datasets.
 
-摘要：新穎視角聲學合成（NVAS）旨在針對 3D 場景中聲源發出的單聲道音訊，在任何目標視點呈現雙耳音訊。現有方法已提出基於 NeRF 的隱式模型，以利用視覺線索作為合成雙耳音訊的條件。然而，除了源自繁重的 NeRF 渲染的低效率外，這些方法在表徵整個場景環境（例如房間幾何形狀、材料屬性和聽眾與聲源之間的空間關係）的能力上都有限。為了解決這些問題，我們提出了新穎的音視覺高斯噴濺（AV-GS）模型。為了獲得對材料感知和幾何感知的音訊合成條件，我們學習了一個明確的基於點的場景表示，其中包含在局部初始化的高斯點上具有音訊引導參數，同時考慮了聽眾和聲源的空間關係。為了使視覺場景模型適應音訊，我們提出了一個點增密和剪枝策略，以最佳方式分佈高斯點，並在聲音傳播中按點貢獻（例如，紋理較少的牆面需要更多點，因為它們會影響聲音路徑轉移）。大量的實驗驗證了我們的 AV-GS 在真實世界的 RWAS 和基於模擬的 SoundSpaces 資料集上優於現有替代方案。
+摘要：新穎觀點聲學合成（NVAS）旨在呈現任何目標視點的雙耳音訊，並提供 3D 場景中聲源發出的單聲道音訊。現有方法已提出基於 NeRF 的隱式模型，以利用視覺線索作為合成雙耳音訊的條件。然而，除了源自繁重 NeRF 渲染的低效率之外，這些方法在表徵整個場景環境（例如房間幾何形狀、材料屬性和聽眾與聲源之間的空間關係）的能力上也有限。為了解決這些問題，我們提出了一個新穎的音視高斯潑點（AV-GS）模型。為了獲得對材料和幾何形狀感知的音訊合成條件，我們學習了一個明確的基於點的場景表示，其中包含局部初始化的高斯點上的音訊引導參數，並考慮了聽眾與聲源的空間關係。為了使視覺場景模型適應音訊，我們提出了一個點增密和剪枝策略，以最佳方式分佈高斯點，並在聲音傳播中按點貢獻（例如，紋理較少的牆面需要更多點，因為它們會影響聲音路徑轉移）。廣泛的實驗驗證了我們的 AV-GS 在真實世界 RWAS 和基於模擬的 SoundSpaces 資料集上優於現有替代方案。
 
 ##### **An Initial Investigation of Language Adaptation for TTS Systems under Low-resource Scenarios**
 2406.08911v1 by Cheng Gong, Erica Cooper, Xin Wang, Chunyu Qiang, Mengzhe Geng, Dan Wells, Longbiao Wang, Jianwu Dang, Marc Tessier, Aidan Pine, Korin Richmond, Junichi Yamagishi

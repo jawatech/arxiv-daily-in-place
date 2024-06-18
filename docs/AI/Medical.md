@@ -13,7 +13,7 @@
 |**2024-06-12**|**Global AI Governance in Healthcare: A Cross-Jurisdictional Regulatory Analysis**|Attrayee Chakraborty et.al.|[2406.08695v1](http://arxiv.org/abs/2406.08695v1)|null|
 |**2024-06-12**|**Advancing High Resolution Vision-Language Models in Biomedicine**|Zekai Chen et.al.|[2406.09454v1](http://arxiv.org/abs/2406.09454v1)|null|
 |**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425v1](http://arxiv.org/abs/2406.08425v1)|[link](https://github.com/ayushroy2001/awgunet)|
-|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v2](http://arxiv.org/abs/2406.08374v2)|null|
 |**2024-06-12**|**Making AI Intelligible: Philosophical Foundations**|Herman Cappelen et.al.|[2406.08134v1](http://arxiv.org/abs/2406.08134v1)|null|
 |**2024-06-12**|**Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks**|Peizhi Niu et.al.|[2406.07917v1](http://arxiv.org/abs/2406.07917v1)|null|
 |**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542v1](http://arxiv.org/abs/2406.07542v1)|[link](https://github.com/davidorp/taukadial)|
@@ -73,7 +73,7 @@
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|[link](https://github.com/benjamintowle/simsam)|
 |**2024-06-02**|**Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications**|David Restrepo et.al.|[2406.02601v1](http://arxiv.org/abs/2406.02601v1)|null|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
-|**2024-06-01**|**CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v1](http://arxiv.org/abs/2406.00314v1)|[link](https://github.com/sarthakharne/case)|
+|**2024-06-01**|**CASE: Efficient Curricular Data Pre-training for Building Assistive Psychology Expert Models**|Sarthak Harne et.al.|[2406.00314v2](http://arxiv.org/abs/2406.00314v2)|[link](https://github.com/sarthakharne/case)|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
 |**2024-05-31**|**DYNA: Disease-Specific Language Model for Variant Pathogenicity**|Huixin Zhan et.al.|[2406.00164v1](http://arxiv.org/abs/2406.00164v1)|null|
@@ -367,7 +367,7 @@ https://github.com/AyushRoy2001/AWGUNET.
 摘要：組織病理學影像中精確的細胞核分割對於癌症診斷至關重要。自動化此程序可為臨床專家提供有價值的支援，因為手動註解既耗時又容易發生人為錯誤。然而，由於細胞邊界不確定、染色複雜且結構多樣，自動化細胞核分割會產生挑戰。在本文中，我們提出了一種分割方法，將 U-Net 架構與 DenseNet-121 主幹結合，利用兩者的優勢來擷取全面的上下文和空間資訊。我們的模型引入了小波導向通道注意模組，以增強細胞邊界的描繪，以及一個可學習的加權全局注意模組，用於特定通道的注意。解碼器模組由上採樣區塊和卷積區塊組成，進一步優化了處理染色模式的分割。在兩個公開可用的組織病理學資料集（即 Monuseg 和 TNBC）上進行的實驗結果，突顯了我們提出的模型的優越性，證明了其在推進組織病理學影像分析和癌症診斷方面的潛力。程式碼可在以下位置取得：https://github.com/AyushRoy2001/AWGUNET。
 
 ##### **2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**
-2406.08374v1 by Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou
+2406.08374v2 by Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou
 
 Positron Emission Tomography (PET) is an important clinical imaging tool but
 inevitably introduces radiation hazards to patients and healthcare providers.
@@ -390,7 +390,7 @@ Our experimental results on human patient studies suggested that MADM can
 generate high-quality 3D translation images, outperforming previous CNN-based
 and Diffusion-based baseline methods.
 
-摘要：正子發射斷層掃描 (PET) 是一種重要的臨床影像工具，但不可避免地會對患者和醫療保健提供者造成輻射危害。降低示蹤劑注射劑量並消除電腦斷層掃描以進行衰減校正可以降低整體輻射劑量，但通常會導致 PET 產生高雜訊和偏差。因此，開發 3D 方法將非衰減校正低劑量 PET (NAC-LDPET) 轉換為衰減校正標準劑量 PET (AC-SDPET) 是很重要的。最近，擴散模型已成為一種新的最先進的深度學習方法，用於影像轉換影像，優於傳統的基於 CNN 的方法。然而，由於高運算成本和記憶體負擔，它在很大程度上僅限於 2D 應用程式。為了應對這些挑戰，我們開發了一種新穎的 2.5D 多視圖平均擴散模型 (MADM)，用於 3D 影像轉換影像，並應用於 NAC-LDPET 轉換為 AC-SDPET。具體來說，MADM 為軸向、冠狀和矢狀視圖採用了單獨的擴散模型，其輸出在每個採樣步驟中取平均值，以確保從多個視圖中進行 3D 生成品質。為了加速 3D 採樣過程，我們還提出了一種策略，將基於 CNN 的 3D 生成用作擴散模型的先驗。我們在人體患者研究中得到的實驗結果表明，MADM 可以生成高品質的 3D 轉換影像，優於先前的基於 CNN 和基於擴散的基線方法。
+摘要：正子發射斷層攝影 (PET) 是一種重要的臨床影像工具，但不可避免地會對患者和醫療保健提供者造成輻射危害。降低示蹤劑注射劑量並消除衰減校正的 CT 採集可以降低整體輻射劑量，但通常會導致 PET 雜訊和偏差過高。因此，需要開發 3D 方法，將非衰減校正低劑量 PET (NAC-LDPET) 轉換為衰減校正標準劑量 PET (AC-SDPET)。最近，擴散模型已成為一種新的最先進深度學習方法，用於影像到影像轉換，優於傳統的基於 CNN 的方法。然而，由於運算成本和記憶體負擔過高，它在很大程度上僅限於 2D 應用。為了應對這些挑戰，我們開發了一種新穎的 2.5D 多視圖平均擴散模型 (MADM)，用於 3D 影像到影像轉換，並應用於 NAC-LDPET 到 AC-SDPET 的轉換。具體來說，MADM 對軸向、冠狀和矢狀視圖採用了單獨的擴散模型，其輸出在每個採樣步驟中取平均值，以確保從多個視圖生成 3D 的品質。為了加速 3D 採樣過程，我們還提出了一種策略，使用基於 CNN 的 3D 生成作為擴散模型的先驗。我們在人體患者研究中進行的實驗結果表明，MADM 可以生成高品質的 3D 轉換影像，優於先前的基於 CNN 和基於擴散的基準方法。
 
 ##### **Making AI Intelligible: Philosophical Foundations**
 2406.08134v1 by Herman Cappelen, Josh Dever
@@ -1886,8 +1886,8 @@ improving patient outcomes.
 
 摘要：乳癌 (BC) 是影響全球女性最常見的惡性腫瘤之一，因此需要進步的診斷方法，以改善臨床結果。本文全面探討了可解釋人工智慧 (XAI) 技術在乳癌偵測和診斷中的應用。隨著人工智慧 (AI) 技術持續滲透醫療保健領域，特別是在腫瘤學中，透明且可解釋的模型需求變得勢在必行，以增強臨床決策制定和患者照護。此篇評論探討了各種 XAI 方法的整合，例如 SHAP、LIME、Grad-CAM 等，以及用於乳癌偵測和分類的機器學習和深度學習模型。透過探討乳癌資料集的模式，包括乳房攝影、超音波及其在 AI 中的處理，本文重點說明 XAI 如何能導致更準確的診斷和個人化治療計畫。它也探討了實施這些技術的挑戰，以及制定標準化評量指標以評估 XAI 在臨床環境中的有效性的重要性。透過詳細的分析和討論，本文旨在強調 XAI 在縮小複雜 AI 模型與實務醫療保健應用之間差距的潛力，進而促進醫療專業人員之間的信任與理解，並改善患者的結果。
 
-##### **CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models**
-2406.00314v1 by Sarthak Harne, Monjoy Narayan Choudhury, Madhav Rao, TK Srikanth, Seema Mehrotra, Apoorva Vashisht, Aarushi Basu, Manjit Sodhi
+##### **CASE: Efficient Curricular Data Pre-training for Building Assistive Psychology Expert Models**
+2406.00314v2 by Sarthak Harne, Monjoy Narayan Choudhury, Madhav Rao, TK Srikanth, Seema Mehrotra, Apoorva Vashisht, Aarushi Basu, Manjit Sodhi
 
 The limited availability of psychologists necessitates efficient
 identification of individuals requiring urgent mental healthcare. This study
@@ -1898,19 +1898,12 @@ professional attention. A crucial challenge in this domain is data privacy and
 scarcity. To address this, we propose utilizing readily available curricular
 texts used in institutes specializing in mental health for pre-training the NLP
 pipelines. This helps us mimic the training process of a psychologist. Our work
-presents two models: a discriminative BERT-based model called CASE-BERT that
-flags potential mental health disorders based on forum text, and a generative
-model called CASE-Gemma that extracts key features for a preliminary diagnosis.
-CASE-BERT demonstrates superior performance compared to existing methods,
+presents CASE-BERT that flags potential mental health disorders based on forum
+text. CASE-BERT demonstrates superior performance compared to existing methods,
 achieving an f1 score of 0.91 for Depression and 0.88 for Anxiety, two of the
-most commonly reported mental health disorders. CASE-Gemma can achieve a BERT
-Score of 0.849 on generating diagnoses based on forum text. The effectiveness
-of CASE-Gemma is evaluated through both human evaluation and qualitative
-methods, with the collaboration of clinical psychologists who provide us with a
-set of annotated data for fine-tuning and evaluation. Our code is available at
-https://github.com/sarthakharne/CASE
+most commonly reported mental health disorders. Our code is publicly available.
 
-摘要：由於心理學家數量有限，因此有必要有效找出需要緊急心理保健的個人。本研究探討使用自然語言處理 (NLP) 管線來分析線上心理健康論壇中用於諮詢的文字資料。透過分析論壇文章，這些管線可以標記可能需要立即專業協助的使用者。此領域中的關鍵挑戰是資料隱私和稀少性。為了解決此問題，我們建議利用心理健康專門機構中現成的課程文本，作為 NLP 管線預訓練。這有助於我們模擬心理學家的訓練過程。我們的研究提出了兩個模型：一個稱為 CASE-BERT 的判別式 BERT 模型，可根據論壇文字標記潛在的心理健康障礙；以及一個稱為 CASE-Gemma 的生成式模型，可萃取初步診斷的關鍵特徵。與現有方法相比，CASE-BERT 展現出優異的效能，在憂鬱症和焦慮症（兩種最常報告的心理健康障礙）的 f1 分數分別達到 0.91 和 0.88。CASE-Gemma 可以根據論壇文字產生診斷，並在 BERT 分數上達到 0.849。我們透過人為評估和質性方法，以及與臨床心理學家的合作（他們提供我們一組註解資料，用於微調和評估），來評估 CASE-Gemma 的有效性。我們的程式碼可在 https://github.com/sarthakharne/CASE 取得
+摘要：由於心理學家數量有限，因此有必要有效率地找出需要緊急心理保健的個人。本研究探討使用自然語言處理 (NLP) 管線分析線上心理健康論壇用於諮詢的文字資料。這些管線可透過分析論壇貼文，標記可能需要立即專業協助的使用者。在這個領域中，資料隱私和稀少性是一項重大的挑戰。為了解決這個問題，我們建議利用心理健康專業機構中現成的課程教材，對 NLP 管線進行預訓練。這有助於我們模擬心理學家的訓練過程。我們的作品展示了 CASE-BERT，它根據論壇文字標記潛在的心理健康障礙。與現有方法相比，CASE-BERT 展現出優異的效能，在憂鬱症方面達到 0.91 的 f1 分數，在焦慮症方面則達到 0.88，這兩種是最常被回報的心理健康障礙。我們的程式碼已公開。
 
 ##### **Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**
 2406.01624v2 by Alaa Nfissi, Wassim Bouachir, Nizar Bouguila, Brian Mishara

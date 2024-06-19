@@ -33,37 +33,37 @@
 |**2024-06-17**|**Measuring memorization in RLHF for code completion**|Aneesh Pappu et.al.|[2406.11715v1](http://arxiv.org/abs/2406.11715v1)|null|
 |**2024-06-17**|**Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging**|Priyanka Kargupta et.al.|[2406.11709v1](http://arxiv.org/abs/2406.11709v1)|null|
 |**2024-06-17**|**Prompts as Auto-Optimized Training Hyperparameters: Training Best-in-Class IR Models from Scratch with 10 Gold Labels**|Jasper Xian et.al.|[2406.11706v1](http://arxiv.org/abs/2406.11706v1)|null|
-|**2024-06-17**|**Nemotron-4 340B Technical Report**|Nvidia et.al.|[2406.11704v1](http://arxiv.org/abs/2406.11704v1)|null|
+|**2024-06-17**|**Nemotron-4 340B Technical Report**|Nvidia et.al.|[2406.11704v1](http://arxiv.org/abs/2406.11704v1)|[link](https://github.com/nvidia/nemo-aligner)|
 |**2024-06-17**|**Meta Reasoning for Large Language Models**|Peizhong Gao et.al.|[2406.11698v1](http://arxiv.org/abs/2406.11698v1)|null|
 |**2024-06-17**|**Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs**|Krista Opsahl-Ong et.al.|[2406.11695v1](http://arxiv.org/abs/2406.11695v1)|[link](https://github.com/stanfordnlp/dspy)|
 |**2024-06-17**|**Tokenization Falling Short: The Curse of Tokenization**|Yekun Chai et.al.|[2406.11687v1](http://arxiv.org/abs/2406.11687v1)|null|
 |**2024-06-17**|**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**|Jing Chen et.al.|[2406.11683v1](http://arxiv.org/abs/2406.11683v1)|null|
 |**2024-06-17**|**Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack**|Shangqing Tu et.al.|[2406.11682v1](http://arxiv.org/abs/2406.11682v1)|[link](https://github.com/thu-keg/knowledge-to-jailbreak)|
 |**2024-06-17**|**R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models**|Shangqing Tu et.al.|[2406.11681v1](http://arxiv.org/abs/2406.11681v1)|[link](https://github.com/thu-keg/r-eval)|
-|**2024-06-17**|**TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**|Yiqun Chen et.al.|[2406.11678v1](http://arxiv.org/abs/2406.11678v1)|null|
+|**2024-06-17**|**TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**|Yiqun Chen et.al.|[2406.11678v1](http://arxiv.org/abs/2406.11678v1)|[link](https://github.com/chenyiqun/TourRank)|
 |**2024-06-17**|**BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models**|Yibin Wang et.al.|[2406.11675v1](http://arxiv.org/abs/2406.11675v1)|null|
 |**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674v1](http://arxiv.org/abs/2406.11674v1)|null|
 |**2024-06-17**|**Benchmarking of LLM Detection: Comparing Two Competing Approaches**|Thorsten Pröhl et.al.|[2406.11670v1](http://arxiv.org/abs/2406.11670v1)|null|
-|**2024-06-17**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668v1](http://arxiv.org/abs/2406.11668v1)|null|
+|**2024-06-17**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668v1](http://arxiv.org/abs/2406.11668v1)|[link](https://github.com/Meirtz/BabyBLUE-llm)|
 |**2024-06-17**|**See It from My Perspective: Diagnosing the Western Cultural Bias of Large Vision-Language Models in Image Understanding**|Amith Ananthram et.al.|[2406.11665v1](http://arxiv.org/abs/2406.11665v1)|[link](https://github.com/amith-ananthram/see-it-from-my-perspective)|
 |**2024-06-17**|**Cultural Conditioning or Placebo? On the Effectiveness of Socio-Demographic Prompting**|Sagnik Mukherjee et.al.|[2406.11661v1](http://arxiv.org/abs/2406.11661v1)|null|
 |**2024-06-17**|**Can LLM be a Personalized Judge?**|Yijiang River Dong et.al.|[2406.11657v1](http://arxiv.org/abs/2406.11657v1)|[link](https://github.com/dong-river/personalized-judge)|
-|**2024-06-17**|**A Two-dimensional Zero-shot Dialogue State Tracking Evaluation Method using GPT-4**|Ming Gu et.al.|[2406.11651v1](http://arxiv.org/abs/2406.11651v1)|null|
+|**2024-06-17**|**A Two-dimensional Zero-shot Dialogue State Tracking Evaluation Method using GPT-4**|Ming Gu et.al.|[2406.11651v1](http://arxiv.org/abs/2406.11651v1)|[link](https://github.com/SLEEPWALKERG/LLM-DST-EVAL)|
 |**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641v1](http://arxiv.org/abs/2406.11641v1)|null|
-|**2024-06-17**|**Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions**|Noah Golowich et.al.|[2406.11640v1](http://arxiv.org/abs/2406.11640v1)|null|
+|**2024-06-17**|**Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions**|Noah Golowich et.al.|[2406.11640v2](http://arxiv.org/abs/2406.11640v2)|null|
 |**2024-06-17**|**MASAI: Modular Architecture for Software-engineering AI Agents**|Daman Arora et.al.|[2406.11638v1](http://arxiv.org/abs/2406.11638v1)|null|
 |**2024-06-17**|**The Base-Rate Effect on LLM Benchmark Performance: Disambiguating Test-Taking Strategies from Benchmark Performance**|Kyle Moore et.al.|[2406.11634v1](http://arxiv.org/abs/2406.11634v1)|null|
 |**2024-06-17**|**Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding for Neural Machine Translation**|Boxuan Lyu et.al.|[2406.11632v1](http://arxiv.org/abs/2406.11632v1)|null|
-|**2024-06-17**|**Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**|Mingyang Song et.al.|[2406.11629v1](http://arxiv.org/abs/2406.11629v1)|null|
+|**2024-06-17**|**Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**|Mingyang Song et.al.|[2406.11629v1](http://arxiv.org/abs/2406.11629v1)|[link](https://github.com/nick7nlp/SeeMoreJudgeBetter)|
 |**2024-06-17**|**Words in Motion: Representation Engineering for Motion Forecasting**|Omer Sahin Tas et.al.|[2406.11624v1](http://arxiv.org/abs/2406.11624v1)|[link](https://github.com/kit-mrt/future-motion)|
 |**2024-06-17**|**Building Knowledge-Guided Lexica to Model Cultural Variation**|Shreya Havaldar et.al.|[2406.11622v1](http://arxiv.org/abs/2406.11622v1)|null|
 |**2024-06-17**|**DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling**|Pala Tej Deep et.al.|[2406.11617v1](http://arxiv.org/abs/2406.11617v1)|[link](https://github.com/declare-lab/della)|
 |**2024-06-17**|**Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces**|Yihuai Hong et.al.|[2406.11614v1](http://arxiv.org/abs/2406.11614v1)|[link](https://github.com/yihuaihong/conceptvectors)|
-|**2024-06-17**|**Long Code Arena: a Set of Benchmarks for Long-Context Code Models**|Egor Bogomolov et.al.|[2406.11612v1](http://arxiv.org/abs/2406.11612v1)|null|
-|**2024-06-17**|**Understanding "Democratization" in NLP and ML Research**|Arjun Subramonian et.al.|[2406.11598v1](http://arxiv.org/abs/2406.11598v1)|null|
+|**2024-06-17**|**Long Code Arena: a Set of Benchmarks for Long-Context Code Models**|Egor Bogomolov et.al.|[2406.11612v1](http://arxiv.org/abs/2406.11612v1)|[link](https://github.com/jetbrains-research/lca-baselines)|
+|**2024-06-17**|**Understanding "Democratization" in NLP and ML Research**|Arjun Subramonian et.al.|[2406.11598v1](http://arxiv.org/abs/2406.11598v1)|[link](https://github.com/ArjunSubramonian/democratization-nlp)|
 |**2024-06-17**|**CoSQA+: Enhancing Code Search Dataset with Matching Code**|Jing Gong et.al.|[2406.11589v1](http://arxiv.org/abs/2406.11589v1)|[link](https://github.com/DeepSoftwareAnalytics/CoSQA_Plus)|
 |**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581v1](http://arxiv.org/abs/2406.11581v1)|null|
-|**2024-06-17**|**Error Span Annotation: A Balanced Approach for Human Evaluation of Machine Translation**|Tom Kocmi et.al.|[2406.11580v1](http://arxiv.org/abs/2406.11580v1)|null|
+|**2024-06-17**|**Error Span Annotation: A Balanced Approach for Human Evaluation of Machine Translation**|Tom Kocmi et.al.|[2406.11580v1](http://arxiv.org/abs/2406.11580v1)|[link](https://github.com/wmt-conference/ErrorSpanAnnotations)|
 |**2024-06-17**|**Mathematical Entities: Corpora and Benchmarks**|Jacob Collard et.al.|[2406.11577v1](http://arxiv.org/abs/2406.11577v1)|null|
 |**2024-06-17**|**Towards an End-to-End Framework for Invasive Brain Signal Decoding with Large Language Models**|Sheng Feng et.al.|[2406.11568v1](http://arxiv.org/abs/2406.11568v1)|[link](https://github.com/fsfrancis15/brainllm)|
 |**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567v1](http://arxiv.org/abs/2406.11567v1)|null|
@@ -72,16 +72,16 @@
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**|Chuyan Xiong et.al.|[2406.11548v1](http://arxiv.org/abs/2406.11548v1)|null|
 |**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|[link](https://github.com/braindatalab/gecobench)|
-|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546v1](http://arxiv.org/abs/2406.11546v1)|null|
+|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546v1](http://arxiv.org/abs/2406.11546v1)|[link](https://github.com/SpeechColab/GigaSpeech2)|
 |**2024-06-17**|**Do Parameters Reveal More than Loss for Membership Inference?**|Anshuman Suri et.al.|[2406.11544v1](http://arxiv.org/abs/2406.11544v1)|[link](https://github.com/iamgroot42/iha_hild)|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
-|**2024-06-17**|**Explainable Artificial Intelligence and Multicollinearity : A Mini Review of Current Approaches**|Ahmed M Salih et.al.|[2406.11524v1](http://arxiv.org/abs/2406.11524v1)|null|
+|**2024-06-17**|**Explainable Artificial Intelligence and Multicollinearity : A Mini Review of Current Approaches**|Ahmed M Salih et.al.|[2406.11524v1](http://arxiv.org/abs/2406.11524v1)|[link](https://github.com/christophM/paper_conditional_subgroups)|
 |**2024-06-17**|**FullCert: Deterministic End-to-End Certification for Training and Inference of Neural Networks**|Tobias Lorenz et.al.|[2406.11522v1](http://arxiv.org/abs/2406.11522v1)|null|
 |**2024-06-17**|**Revisiting Spurious Correlation in Domain Generalization**|Bin Qin et.al.|[2406.11517v1](http://arxiv.org/abs/2406.11517v1)|null|
 |**2024-06-17**|**Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs**|Yi Fang et.al.|[2406.11514v1](http://arxiv.org/abs/2406.11514v1)|null|
 |**2024-06-17**|**On the Feasibility of Fidelity$^-$ for Graph Pruning**|Yong-Min Shin et.al.|[2406.11504v1](http://arxiv.org/abs/2406.11504v1)|null|
 |**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503v1](http://arxiv.org/abs/2406.11503v1)|null|
-|**2024-06-17**|**Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**|Jiangmeng Li et.al.|[2406.11501v1](http://arxiv.org/abs/2406.11501v1)|null|
+|**2024-06-17**|**Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**|Jiangmeng Li et.al.|[2406.11501v2](http://arxiv.org/abs/2406.11501v2)|null|
 |**2024-06-17**|**CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG**|Boyi Deng et.al.|[2406.11497v1](http://arxiv.org/abs/2406.11497v1)|null|
 |**2024-06-17**|**Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency**|Vasiliki Kougia et.al.|[2406.11486v1](http://arxiv.org/abs/2406.11486v1)|null|
 |**2024-06-17**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481v1](http://arxiv.org/abs/2406.11481v1)|null|
@@ -101,7 +101,7 @@
 |**2024-06-17**|**Dredge Word, Social Media, and Webgraph Networks for Unreliable Website Classification and Identification**|Evan M. Williams et.al.|[2406.11423v1](http://arxiv.org/abs/2406.11423v1)|null|
 |**2024-06-17**|**BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pretraining of BabyLM**|Zhewen Shen et.al.|[2406.11418v1](http://arxiv.org/abs/2406.11418v1)|null|
 |**2024-06-17**|**Formally Certified Approximate Model Counting**|Yong Kiam Tan et.al.|[2406.11414v1](http://arxiv.org/abs/2406.11414v1)|null|
-|**2024-06-17**|**HARE: HumAn pRiors, a key to small language model Efficiency**|Lingyun Zhang et.al.|[2406.11410v1](http://arxiv.org/abs/2406.11410v1)|[link](https://github.com/liteai-team/hare)|
+|**2024-06-17**|**HARE: HumAn pRiors, a key to small language model Efficiency**|Lingyun Zhang et.al.|[2406.11410v2](http://arxiv.org/abs/2406.11410v2)|[link](https://github.com/liteai-team/hare)|
 
 #### Abstracts
 ##### **mDPO: Conditional Preference Optimization for Multimodal Large Language Models**
@@ -1168,7 +1168,7 @@ substantial improvements in both reducing missed detections and false alarms.
 摘要：基於影像的無人機偵測的常見方法經常依賴使用 YOLOv5 等通用物件偵測演算法。這些演算法雖然精於在均勻背景中辨識無人機，但在複雜、紋理豐富的環境中卻常常力不從心。在這種情況下，無人機能無縫融入背景，產生偽裝效果，對偵測品質造成負面影響。為了解決這個問題，我們引進一種稱為 YOLO-FEDER FusionNet 的創新深度學習架構。與傳統方法不同，YOLO-FEDER FusionNet 結合了通用物件偵測方法與偽裝物件偵測技術的專門優勢，以增強無人機偵測能力。對 YOLO-FEDER FusionNet 的全面評估顯示了所提議模型的效率，並證明在減少漏偵測和誤報方面都有顯著的改善。
 
 ##### **Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions**
-2406.11640v1 by Noah Golowich, Ankur Moitra
+2406.11640v2 by Noah Golowich, Ankur Moitra
 
 One of the most natural approaches to reinforcement learning (RL) with
 function approximation is value iteration, which inductively generates
@@ -1185,7 +1185,7 @@ remained open as to whether computationally efficient algorithms exist. In this
 paper we give the first polynomial-time algorithm for RL under linear Bellman
 completeness when the number of actions is any constant.
 
-摘要：在使用函數逼近進行強化學習 (RL) 時，最自然的其中一種方法是價值迭代，它透過解一系列回歸問題，以歸納方式產生對最佳價值函數的逼近。為了確保價值迭代的成功，通常假設貝爾曼完備性成立，這確保了這些回歸問題有明確的規範。我們研究在線 RL 模型中，在貝爾曼完備性下學習最佳策略的問題，並使用線性函數逼近。在線性設定中，雖然在貝爾曼完備性下已知統計上有效率的演算法（例如，Jiang 等人 (2017)；Zanette 等人 (2020)），但這些演算法都依賴於整體樂觀原則，這需要解一個非凸最佳化問題。特別是，計算上有效率的演算法是否存在，仍然是一個未解的問題。在本文中，我們給出了在線性貝爾曼完備性下 RL 的第一個多項式時間演算法，其中動作數量為任意常數。
+摘要：最自然強化學習 (RL) 的方法之一，具有功能近似值迭代，可透過解決一系列回歸問題，感應產生最佳價值函數的近似值。為確保值迭代的成功，通常假設貝爾曼完備性成立，這可確保這些回歸問題有明確的規範。我們研究在線 RL 模型中，在線性函數近似中學習最佳策略的問題，並具有貝爾曼完備性。在線性設置中，雖然在貝爾曼完備性下已知具有統計效率的演算法（例如，Jiang 等人 (2017)；Zanette 等人 (2020)），但這些演算法都依賴於全局樂觀主義原則，需要解決非凸最佳化問題。特別是，在計算上是否具有效率的演算法，仍是懸而未未決的問題。在本文中，我們給出了在線性貝爾曼完備性下 RL 的第一個多項式時間演算法，當動作數量為任何常數時。
 
 ##### **MASAI: Modular Architecture for Software-engineering AI Agents**
 2406.11638v1 by Daman Arora, Atharv Sonwane, Nalin Wadhwa, Abhav Mehrotra, Saiteja Utpala, Ramakrishna Bairi, Aditya Kanade, Nagarajan Natarajan
@@ -1860,7 +1860,7 @@ https://github.com/Lanyu0303/GeoGPT4V_Project
 然而，在通常需要視覺輔助工具才能更佳理解的幾何問題中，即使是最先進的多模態模型目前仍面臨有效使用影像資訊的挑戰。高品質資料對於提升多模態模型的幾何能力至關重要，但現有的開源資料集和相關工作，要不就是對模型學習而言過於困難，要不就是文本和影像之間存在錯位問題。為了克服這個問題，我們提出一個新穎的管道，利用 GPT-4 和 GPT-4V 來產生具有對齊文本和影像的相對基礎的幾何問題，促進模型學習。我們已經產生了一個包含 4.9K 個幾何問題的資料集，並將其與 19K 個開源資料結合，以形成我們的 GeoGPT4V 資料集。實驗結果表明，GeoGPT4V 資料集顯著提升了各種模型在 MathVista 和 MathVision 基準上的幾何效能。程式碼可在 https://github.com/Lanyu0303/GeoGPT4V_Project 取得
 
 ##### **Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**
-2406.11501v1 by Jiangmeng Li, Bin Qin, Qirui Ji, Yi Li, Wenwen Qiang, Jianwen Cao, Fanjiang Xu
+2406.11501v2 by Jiangmeng Li, Bin Qin, Qirui Ji, Yi Li, Wenwen Qiang, Jianwen Cao, Fanjiang Xu
 
 Leveraging the development of structural causal model (SCM), researchers can
 establish graphical models for exploring the causal mechanisms behind machine
@@ -1887,7 +1887,7 @@ demonstrate the generality of the teleporter theory to the practical
 application. Adhering to the proposed theory, we build a plug-and-play module,
 and the effectiveness of which are substantiated by experiments on benchmarks.
 
-摘要：<paragraph>藉由結構因果模型 (SCM) 的發展，研究人員可以建立圖形模型，以探索機器學習技術背後的因果機制。隨著機器學習應用程式的複雜性增加，單一世界介入主義因果分析遭遇了理論適應上的限制。因此，跨世界反事實方法擴展了我們對因果關係的理解，超越了觀察到的資料，能夠對替代情境進行假設性推理。然而，跨世界變數的共同參與，包含反事實變數和真實世界變數，對圖形模型的建構提出了挑戰。雙生網路是一個微妙的嘗試，建立共生關係，以彌合圖形建模和反事實引入之間的差距，儘管在概括方面仍有改進的空間。有鑑於此，我們展示了雙生網路在特定跨世界反事實情境中的理論分解。為此，我們提出了一個新穎的傳送器理論，以建立反事實的一般且簡單的圖形表示，這提供了確定傳送器變數以連接多個世界的準則。在理論應用中，我們確定引入所提出的傳送器理論可以直接從跨世界 SCM 中獲得反事實變數和真實世界變數之間的條件獨立性，而不需要複雜的代數推導。因此，我們可以進一步透過跨世界符號推導來識別反事實因果效應。我們展示了傳送器理論在實際應用中的普遍性。遵循所提出的理論，我們建立了一個即插即用的模組，其有效性已通過基準測試中的實驗得到證實。</paragraph>
+摘要：<paragraph>藉由結構因果模型 (SCM) 的發展，研究人員可以建立圖形模型，用以探索機器學習技術背後的因果機制。隨著機器學習應用複雜度的提升，單一世界介入主義因果分析遭遇了理論適應限制。因此，跨世界反事實方法將我們對因果關係的理解延伸至觀察資料之外，進而對替代情境進行假設性推理。然而，跨世界變數的共同參與，包含反事實變數與真實世界變數，對圖形模型的建構提出了挑戰。雙網路是一個巧妙的嘗試，建立了共生關係，用以彌合圖形建模與反事實引介之間的鴻溝，儘管在概化方面仍有改進空間。有鑑於此，我們展示了雙網路在特定跨世界反事實情境中的理論性缺陷。為此，我們提出了一種新穎的傳送理論，用以建立反事實的一般且簡單的圖形表示，這提供了判定傳送變數以連結多個世界的準則。在理論應用中，我們判定導入所提出的傳送理論，可以直接從跨世界 SCM 中取得反事實變數與真實世界變數之間的條件獨立性，而無需複雜的代數推導。因此，我們可以進一步透過跨世界符號推導來識別反事實因果效應。我們展示了傳送理論對實際應用的普遍性。遵循所提出的理論，我們建立了一個即插即用的模組，而其效能已透過基準測試的實驗獲得證實。</paragraph>
 
 ##### **CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG**
 2406.11497v1 by Boyi Deng, Wenjie Wang, Fengbin Zhu, Qifan Wang, Fuli Feng
@@ -2322,7 +2322,7 @@ certificates when given the same time and memory limits as the counter.
 我們提出了一個近似模型計數的第一個認證架構，其輸出近似的品質具有正式驗證的保證。我們的做法結合：(i) 在 Isabelle/HOL 證明輔助工具中演算法的 PAC 保證的靜態、一次性的正式證明；以及 (ii) ApproxMC 對外部 CNF-XOR 求解器呼叫的動態、每次執行驗證，使用證明證書。我們詳細說明了我們建立驗證這兩個部分之間嚴謹連接的通用做法，包括我們將形式化隨機演算法轉變成驗證證明檢查器的藍圖，以及我們為 ApproxMC 及其內部 CNF-XOR 求解步驟設計的證明證書。在實驗中，我們顯示證書產生為近似計數器實作增加很少的開銷，而且我們的證書檢查器能夠在與計數器給予相同時間和記憶體限制時，完全認證 $84.7\%$ 個具有產生證書的實例。
 
 ##### **HARE: HumAn pRiors, a key to small language model Efficiency**
-2406.11410v1 by Lingyun Zhang, Bin jin, Gaojian Ge, Lunhui Liu, Xuewen Shen, Mingyong Wu, Houqian Zhang, Yongneng Jiang, Shiqi Chen, Shi Pu
+2406.11410v2 by Lingyun Zhang, Bin jin, Gaojian Ge, Lunhui Liu, Xuewen Shen, Mingyong Wu, Houqian Zhang, Yongneng Jiang, Shiqi Chen, Shi Pu
 
 Human priors play a crucial role in efficiently utilizing data in deep
 learning. However, with the development of large language models (LLMs), there
@@ -2342,5 +2342,5 @@ validating the effectiveness of the proposed principle. Additionally, this
 provides new insights into efficient language model training in
 resource-constrained environments from the view of human priors.
 
-摘要：人類先驗在有效利用深度學習中的資料扮演著至關重要的角色。然而，隨著大型語言模型（LLM）的發展，越來越重視擴展模型規模和資料量，這常常降低了人類先驗在資料建構中的重要性。受到這些趨勢的影響，現有的小型語言模型（SLM）主要依賴網路爬取的大規模訓練資料，忽略了適當納入人類先驗。這種疏忽限制了語言模型在資源受限環境中的訓練效率。在本文中，我們提出了一個利用人類先驗進行資料建構的原則。此原則強調透過訓練一個簡潔的資料集來達成高性能 SLM，該資料集包含語義多樣性和資料品質一致性，同時避免基準資料外洩。遵循此原則，我們訓練了一個名為 HARE-1.1B 的 SLM。在大型基準資料集上的廣泛實驗證明，HARE-1.1B 相對於最先進的 SLM 表現良好，驗證了所提出原則的有效性。此外，這從人類先驗的角度提供了對資源受限環境中有效語言模型訓練的新見解。
+摘要：人類先驗知識在深度學習中有效利用資料扮演著至關重要的角色。然而，隨著大型語言模型 (LLM) 的發展，人們越來越重視擴展模型規模和資料量，這常常會降低人類先驗知識在資料建構中的重要性。在這些趨勢的影響下，現有的小型語言模型 (SLM) 主要依賴於網路爬取的大規模訓練資料，而忽略了適當地納入人類先驗知識。這種疏忽限制了語言模型在資源受限環境中的訓練效率。在本文中，我們提出了一個利用人類先驗知識進行資料建構的原則。此原則強調透過訓練一個簡潔的資料集來達成高性能 SLM，該資料集包含語意多樣性和資料品質一致性，同時避免基準資料外洩。遵循此原則，我們訓練了一個名為 HARE-1.1B 的 SLM。在大型基準資料集上的廣泛實驗證明，HARE-1.1B 優於最先進的 SLM，驗證了所提出原則的有效性。此外，這從人類先驗知識的角度為在資源受限環境中進行有效語言模型訓練提供了新的見解。
 

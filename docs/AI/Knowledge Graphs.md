@@ -2,6 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
+|**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
+|**2024-06-18**|**Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**|Gangwei Jiang et.al.|[2406.12227v1](http://arxiv.org/abs/2406.12227v1)|null|
+|**2024-06-17**|**DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**|Jiasheng Zhang et.al.|[2406.12072v1](http://arxiv.org/abs/2406.12072v1)|[link](https://github.com/zjs123/DTGB)|
+|**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|null|
+|**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|null|
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|[link](https://github.com/victor812-hub/entity_datasets)|
@@ -22,6 +28,7 @@
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
 |**2024-06-13**|**SememeLM: A Sememe Knowledge Enhanced Method for Long-tail Relation Representation**|Shuyi Li et.al.|[2406.10297v1](http://arxiv.org/abs/2406.10297v1)|null|
+|**2024-06-13**|**Hierarchical Compression of Text-Rich Graphs via Large Language Models**|Shichang Zhang et.al.|[2406.11884v1](http://arxiv.org/abs/2406.11884v1)|null|
 |**2024-06-13**|**ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions**|Xu Zhang et.al.|[2406.08842v1](http://arxiv.org/abs/2406.08842v1)|null|
 |**2024-06-12**|**Research Trends for the Interplay between Large Language Models and Knowledge Graphs**|Hanieh Khorashadizadeh et.al.|[2406.08223v1](http://arxiv.org/abs/2406.08223v1)|null|
 |**2024-06-12**|**SHACL2FOL: An FOL Toolkit for SHACL Decision Problems**|Paolo Pareti et.al.|[2406.08018v1](http://arxiv.org/abs/2406.08018v1)|[link](https://github.com/paolo7/shacl2fol)|
@@ -95,15 +102,160 @@
 |**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337v1](http://arxiv.org/abs/2405.17337v1)|null|
 |**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249v1](http://arxiv.org/abs/2405.17249v1)|[link](https://github.com/ionutiga/llms-for-kgc)|
 |**2024-05-27**|**EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**|Yinghao Zhu et.al.|[2406.00036v1](http://arxiv.org/abs/2406.00036v1)|null|
-|**2024-05-27**|**Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**|Xun Liang et.al.|[2405.16933v1](http://arxiv.org/abs/2405.16933v1)|[link](https://github.com/iaar-shanghai/pgrag)|
-|**2024-05-27**|**Entity Alignment with Noisy Annotations from Large Language Models**|Shengyuan Chen et.al.|[2405.16806v2](http://arxiv.org/abs/2405.16806v2)|null|
-|**2024-05-27**|**TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**|Zheng Zhang et.al.|[2405.16800v1](http://arxiv.org/abs/2405.16800v1)|null|
-|**2024-05-26**|**KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**|Pengcheng Jiang et.al.|[2405.16412v2](http://arxiv.org/abs/2405.16412v2)|[link](https://github.com/pat-jj/KG-FIT)|
-|**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405v1](http://arxiv.org/abs/2405.16405v1)|null|
-|**2024-05-25**|**COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**|Changle Qu et.al.|[2405.16089v1](http://arxiv.org/abs/2405.16089v1)|null|
-|**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v2](http://arxiv.org/abs/2405.15739v2)|[link](https://github.com/andresalgaba/llm_citation_patterns)|
 
 #### Abstracts
+##### **Bridging Local Details and Global Context in Text-Attributed Graphs**
+2406.12608v1 by Yaoke Wang, Yun Zhu, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang
+
+Representation learning on text-attributed graphs (TAGs) is vital for
+real-world applications, as they combine semantic textual and contextual
+structural information. Research in this field generally consist of two main
+perspectives: local-level encoding and global-level aggregating, respectively
+refer to textual node information unification (e.g., using Language Models) and
+structure-augmented modeling (e.g., using Graph Neural Networks). Most existing
+works focus on combining different information levels but overlook the
+interconnections, i.e., the contextual textual information among nodes, which
+provides semantic insights to bridge local and global levels. In this paper, we
+propose GraphBridge, a multi-granularity integration framework that bridges
+local and global perspectives by leveraging contextual textual information,
+enhancing fine-grained understanding of TAGs. Besides, to tackle scalability
+and efficiency challenges, we introduce a graphaware token reduction module.
+Extensive experiments across various models and datasets show that our method
+achieves state-of-theart performance, while our graph-aware token reduction
+module significantly enhances efficiency and solves scalability issues.
+
+摘要：文本属性图 (TAG) 上的表征学习对于实际应用至关重要，因为它们结合了语义文本和上下文结构信息。该领域的研究所涉及的两个主要观点：局部编码和全局聚合，分别指文本节点信息统一（例如，使用语言模型）和结构增强建模（例如，使用图神经网络）。大多数现有工作侧重于结合不同的信息级别，但忽略了相互联系，即节点之间的上下文文本信息，它提供了语义见解以桥接局部和全局级别。在本文中，我们提出了 GraphBridge，这是一个多粒度集成框架，它通过利用上下文文本信息来桥接局部和全局视角，增强了对 TAG 的细粒度理解。此外，为了解决可扩展性和效率挑战，我们引入了一个图感知令牌缩减模块。跨各种模型和数据集的广泛实验表明，我们的方法实现了最先进的性能，而我们的图感知令牌缩减模块显着提高了效率并解决了可扩展性问题。
+
+##### **LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**
+2406.12494v1 by Masafumi Enomoto, Kunihiro Takeoka, Kosuke Akimoto, Kiril Gashteovski, Masafumi Oyamada
+
+Open-Domain Multi-Document Summarization (ODMDS) is crucial for addressing
+diverse information needs, which aims to generate a summary as answer to user's
+query, synthesizing relevant content from multiple documents in a large
+collection. Existing approaches that first find relevant passages and then
+generate a summary using a language model are inadequate for ODMDS. This is
+because open-ended queries often require additional context for the retrieved
+passages to cover the topic comprehensively, making it challenging to retrieve
+all relevant passages initially. While iterative retrieval methods have been
+explored for multi-hop question answering (MQA), they are impractical for ODMDS
+due to high latency from repeated large language model (LLM) inference for
+reasoning. To address this issue, we propose LightPAL, a lightweight passage
+retrieval method for ODMDS that constructs a graph representing passage
+relationships using an LLM during indexing and employs random walk instead of
+iterative reasoning and retrieval at inference time. Experiments on ODMDS
+benchmarks show that LightPAL outperforms baseline retrievers in summary
+quality while being significantly more efficient than an iterative MQA
+approach.
+
+摘要：開放領域多文件摘要 (ODMDS) 對於解決不同的資訊需求至關重要，其目的是根據使用者的查詢產生摘要作為答案，綜合來自大型集合中多個文件的相關內容。現有的方法是先找到相關段落，然後使用語言模型產生摘要，對於 ODMDS 來說是不夠的。這是因為開放式查詢通常需要額外的內容，才能讓擷取的段落全面涵蓋主題，這使得一開始就擷取所有相關段落具有挑戰性。雖然已經探索了反覆擷取的方法用於多跳問題解答 (MQA)，但由於反覆進行大型語言模型 (LLM) 推論以進行推理，因此它們不適用於 ODMDS，因為這會導致高延遲。為了解決這個問題，我們提出了 LightPAL，這是一種針對 ODMDS 的輕量級段落擷取方法，它在索引時使用 LLM 建立表示段落關係的圖，並在推論時使用隨機遊走，而不是反覆推理和擷取。在 ODMDS 基準測試中的實驗顯示，LightPAL 在摘要品質上優於基線擷取器，同時比反覆 MQA 方法有效率得多。
+
+##### **Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**
+2406.12227v1 by Gangwei Jiang, Zhaoyi Li, Caigao Jiang, Siqiao Xue, Jun Zhou, Linqi Song, Defu Lian, Ying Wei
+
+Fine-tuning large language models (LLMs) can cause them to lose their general
+capabilities. However, the intrinsic mechanisms behind such forgetting remain
+unexplored. In this paper, we begin by examining this phenomenon by focusing on
+knowledge understanding and instruction following, with the latter identified
+as the main contributor to forgetting during fine-tuning. Consequently, we
+propose the Instruction Vector (IV) framework to capture model representations
+highly related to specific instruction-following capabilities, thereby making
+it possible to understand model-intrinsic forgetting. Through the analysis of
+IV dynamics pre and post-training, we suggest that fine-tuning mostly adds
+specialized reasoning patterns instead of erasing previous skills, which may
+appear as forgetting. Building on this insight, we develop IV-guided training,
+which aims to preserve original computation graph, thereby mitigating
+catastrophic forgetting. Empirical tests on three benchmarks confirm the
+efficacy of this new approach, supporting the relationship between IVs and
+forgetting. Our code will be made available soon.
+
+摘要：微调大型语言模型 (LLM) 可能会导致它们失去一般功能。然而，这种遗忘背后的内在机制仍未得到探索。在本文中，我们首先通过关注知识理解和指令遵循来检验这种现象，后者被认为是微调过程中遗忘的主要原因。因此，我们提出了指令向量 (IV) 框架来捕获与特定指令遵循能力高度相关的模型表示，从而可以理解模型内在的遗忘。通过对训练前后的 IV 动态分析，我们认为微调主要增加了专门的推理模式，而不是抹去之前的技能，这可能表现为遗忘。基于这一见解，我们开发了 IV 引导训练，其目标是保留原始计算图，从而减轻灾难性遗忘。在三个基准上的经验测试证实了这种新方法的有效性，支持了 IV 和遗忘之间的关系。我们的代码将很快提供。
+
+##### **DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**
+2406.12072v1 by Jiasheng Zhang, Jialin Chen, Menglin Yang, Aosong Feng, Shuang Liang, Jie Shao, Rex Ying
+
+Dynamic text-attributed graphs (DyTAGs) are prevalent in various real-world
+scenarios, where each node and edge are associated with text descriptions, and
+both the graph structure and text descriptions evolve over time. Despite their
+broad applicability, there is a notable scarcity of benchmark datasets tailored
+to DyTAGs, which hinders the potential advancement in many research fields. To
+address this gap, we introduce Dynamic Text-attributed Graph Benchmark (DTGB),
+a collection of large-scale, time-evolving graphs from diverse domains, with
+nodes and edges enriched by dynamically changing text attributes and
+categories. To facilitate the use of DTGB, we design standardized evaluation
+procedures based on four real-world use cases: future link prediction,
+destination node retrieval, edge classification, and textual relation
+generation. These tasks require models to understand both dynamic graph
+structures and natural language, highlighting the unique challenges posed by
+DyTAGs. Moreover, we conduct extensive benchmark experiments on DTGB,
+evaluating 7 popular dynamic graph learning algorithms and their variants of
+adapting to text attributes with LLM embeddings, along with 6 powerful large
+language models (LLMs). Our results show the limitations of existing models in
+handling DyTAGs. Our analysis also demonstrates the utility of DTGB in
+investigating the incorporation of structural and textual dynamics. The
+proposed DTGB fosters research on DyTAGs and their broad applications. It
+offers a comprehensive benchmark for evaluating and advancing models to handle
+the interplay between dynamic graph structures and natural language. The
+dataset and source code are available at https://github.com/zjs123/DTGB.
+
+摘要：<paragraph>動態文本屬性圖 (DyTAG) 在各種真實世界場景中普遍存在，其中每個節點和邊緣都與文本描述相關聯，並且圖形結構和文本描述會隨著時間演變。儘管它們具有廣泛的適用性，但專門針對 DyTAG 的基準數據集卻非常稀少，這阻礙了許多研究領域的潛在進步。為了解決這個差距，我們引入了動態文本屬性圖基準 (DTGB)，這是一個來自不同領域的大規模、隨時間演變的圖形集合，其中節點和邊緣通過動態變化的文本屬性和類別進行豐富。為了促進 DTGB 的使用，我們根據四個真實世界的用例設計了標準化的評估程序：未來鏈路預測、目標節點檢索、邊緣分類和文本關係生成。這些任務要求模型同時理解動態圖形結構和自然語言，強調了 DyTAG 帶來的獨特挑戰。此外，我們對 DTGB 進行了廣泛的基準實驗，評估了 7 種流行的動態圖形學習算法及其適應文本屬性與 LLM 嵌入的變體，以及 6 種強大的大型語言模型 (LLM)。我們的結果顯示了現有模型在處理 DyTAG 方面的局限性。我們的分析還證明了 DTGB 在研究結構和文本動態的整合方面的效用。提議的 DTGB 促進了對 DyTAG 及其廣泛應用的研究。它提供了一個綜合基準，用於評估和改進模型，以處理動態圖形結構和自然語言之間的相互作用。數據集和源代碼可在 https://github.com/zjs123/DTGB 獲得。</paragraph>
+
+##### **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
+2406.12052v1 by Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, Qiaoyu Tan
+
+Representation learning on text-attributed graphs (TAGs), where nodes are
+represented by textual descriptions, is crucial for textual and relational
+knowledge systems and recommendation systems. Currently, state-of-the-art
+embedding methods for TAGs primarily focus on fine-tuning language models
+(e.g., BERT) using structure-aware training signals. While effective, these
+methods are tailored for individual TAG and cannot generalize across various
+graph scenarios. Given the shared textual space, leveraging multiple TAGs for
+joint fine-tuning, aligning text and graph structure from different aspects,
+would be more beneficial. Motivated by this, we introduce a novel Unified Graph
+Language Model (UniGLM) framework, the first graph embedding model that
+generalizes well to both in-domain and cross-domain TAGs. Specifically, UniGLM
+is trained over multiple TAGs with different domains and scales using
+self-supervised contrastive learning. UniGLM includes an adaptive positive
+sample selection technique for identifying structurally similar nodes and a
+lazy contrastive module that is devised to accelerate training by minimizing
+repetitive encoding calculations. Extensive empirical results across 9
+benchmark TAGs demonstrate UniGLM's efficacy against leading embedding
+baselines in terms of generalization (various downstream tasks and backbones)
+and transfer learning (in and out of domain scenarios). The code is available
+at https://github.com/NYUSHCS/UniGLM.
+
+摘要：在文字属性图 (TAG) 上的表征学习，其中节点由文字描述表示，对于文字和关系知识系统以及推荐系统至关重要。目前，TAG 的最先进嵌入方法主要集中于使用结构感知训练信号微调语言模型（例如，BERT）。虽然有效，但这些方法是针对单个 TAG 量身定制的，并且无法概括到各种图场景。鉴于共享的文本空间，利用多个 TAG 进行联合微调，从不同方面调整文本和图结构，将更有益。受此启发，我们引入了一种新颖的统一图语言模型 (UniGLM) 框架，这是第一个在域内和跨域 TAG 中都能很好地概括的图嵌入模型。具体来说，UniGLM 使用自监督对比学习在具有不同域和规模的多个 TAG 上进行训练。UniGLM 包括一种自适应正样本选择技术，用于识别结构相似的节点，以及一个延迟对比模块，该模块旨在通过最小化重复编码计算来加速训练。跨 9 个基准 TAG 的广泛实证结果证明了 UniGLM 在泛化（各种下游任务和主干）和迁移学习（域内和域外场景）方面相对于领先嵌入基准的功效。代码可在 https://github.com/NYUSHCS/UniGLM 获得。
+
+##### **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**
+2406.11945v1 by Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan
+
+This work studies self-supervised graph learning for text-attributed graphs
+(TAGs) where nodes are represented by textual attributes. Unlike traditional
+graph contrastive methods that perturb the numerical feature space and alter
+the graph's topological structure, we aim to improve view generation through
+language supervision. This is driven by the prevalence of textual attributes in
+real applications, which complement graph structures with rich semantic
+information. However, this presents challenges because of two major reasons.
+First, text attributes often vary in length and quality, making it difficulty
+to perturb raw text descriptions without altering their original semantic
+meanings. Second, although text attributes complement graph structures, they
+are not inherently well-aligned. To bridge the gap, we introduce GAugLLM, a
+novel framework for augmenting TAGs. It leverages advanced large language
+models like Mistral to enhance self-supervised graph learning. Specifically, we
+introduce a mixture-of-prompt-expert technique to generate augmented node
+features. This approach adaptively maps multiple prompt experts, each of which
+modifies raw text attributes using prompt engineering, into numerical feature
+space. Additionally, we devise a collaborative edge modifier to leverage
+structural and textual commonalities, enhancing edge augmentation by examining
+or building connections between nodes. Empirical results across five benchmark
+datasets spanning various domains underscore our framework's ability to enhance
+the performance of leading contrastive methods as a plug-in tool. Notably, we
+observe that the augmented features and graph structure can also enhance the
+performance of standard generative methods, as well as popular graph neural
+networks. The open-sourced implementation of our GAugLLM is available at
+Github.
+
+摘要：<paragraph>本研究探討了文字屬性圖 (TAG) 的自我監督圖學習，其中節點由文字屬性表示。與擾動數值特徵空間和改變圖形拓撲結構的傳統圖形對比方法不同，我們旨在透過語言監督來改善視圖生成。這是因為文字屬性在實際應用中很普遍，它以豐富的語義資訊補充圖形結構。然而，這會帶來挑戰，原因有兩個。首先，文字屬性通常長度和品質不同，這使得在不改變原始語義意義的情況下擾動原始文字描述變得困難。其次，儘管文字屬性補充了圖形結構，但它們並非天生就很好地對齊。為了彌合差距，我們引入了 GAugLLM，這是一個用於擴充 TAG 的新框架。它利用了 Mistral 等先進的大型語言模型來增強自我監督圖形學習。具體來說，我們引入了一種混合提示專家的技術來生成擴充的節點特徵。這種方法自適應地將多個提示專家映射到數值特徵空間，每個提示專家都使用提示工程修改原始文字屬性。此外，我們設計了一個協作邊緣修改器來利用結構和文字的共性，通過檢查或建立節點之間的連接來增強邊緣擴充。跨越各種領域的五個基準資料集的經驗結果強調了我們的框架作為外掛工具增強領先對比方法效能的能力。值得注意的是，我們觀察到擴充的特徵和圖形結構也可以增強標準生成方法以及流行的圖形神經網路的效能。我們的 GAugLLM 的開源實現可以在 Github 上找到。</paragraph>
+
 ##### **Input Conditioned Graph Generation for Language Agents**
 2406.11555v1 by Lukas Vierling, Jie Fu, Kai Chen
 
@@ -586,6 +738,34 @@ representations subtle differences, including long-tail relations. Extensive
 experiments show that our approach outperforms some state-of-the-art methods.
 
 摘要：<paragraph>辨識兩個詞彙之間的關係是一項具有廣泛應用性的基本任務。與從文本中擷取關係不同，在沒有上下文的情況下辨識詞彙之間的關係很困難。特別是對於長尾關係，由於語意特徵不足，辨識難度更高。現有的基於語言模型 (LM) 的方法利用 LM 的豐富知識來增強關係的語意特徵。然而，它們會擷取不常見的關係，同時忽略頻率較低但有意義的關係，因為 LM 的知識嚴重依賴於訓練資料，而訓練資料通常代表常見的關係。另一方面，長尾關係在訓練資料中通常不常見。由於收集包含長尾關係的語料庫幾乎不可行，因此使用外部知識來豐富 LM 很有趣，但並不容易。在本文中，我們提出了一種語義特徵知識增強方法 (SememeLM) 來增強長尾關係的表示，其中語義特徵可以打破詞彙之間的上下文限制。首先，我們提出一個語義特徵關係圖，並提出一個圖形編碼方法。此外，由於外部知識庫可能包含大量無關的知識，因此會引入雜訊。我們提出了一個一致性對齊模組，它將引入的知識與 LM 對齊，減少雜訊並將知識整合到語言模型中。最後，我們對詞彙類比資料集進行了實驗，評估了區分關係表示細微差異的能力，包括長尾關係。大量的實驗表明，我們的方法優於一些最先進的方法。</paragraph>
+
+##### **Hierarchical Compression of Text-Rich Graphs via Large Language Models**
+2406.11884v1 by Shichang Zhang, Da Zheng, Jiani Zhang, Qi Zhu, Xiang song, Soji Adeshina, Christos Faloutsos, George Karypis, Yizhou Sun
+
+Text-rich graphs, prevalent in data mining contexts like e-commerce and
+academic graphs, consist of nodes with textual features linked by various
+relations. Traditional graph machine learning models, such as Graph Neural
+Networks (GNNs), excel in encoding the graph structural information, but have
+limited capability in handling rich text on graph nodes. Large Language Models
+(LLMs), noted for their superior text understanding abilities, offer a solution
+for processing the text in graphs but face integration challenges due to their
+limitation for encoding graph structures and their computational complexities
+when dealing with extensive text in large neighborhoods of interconnected
+nodes. This paper introduces ``Hierarchical Compression'' (HiCom), a novel
+method to align the capabilities of LLMs with the structure of text-rich
+graphs. HiCom processes text in a node's neighborhood in a structured manner by
+organizing the extensive textual information into a more manageable hierarchy
+and compressing node text step by step. Therefore, HiCom not only preserves the
+contextual richness of the text but also addresses the computational challenges
+of LLMs, which presents an advancement in integrating the text processing power
+of LLMs with the structural complexities of text-rich graphs. Empirical results
+show that HiCom can outperform both GNNs and LLM backbones for node
+classification on e-commerce and citation graphs. HiCom is especially effective
+for nodes from a dense region in a graph, where it achieves a 3.48% average
+performance improvement on five datasets while being more efficient than LLM
+backbones.
+
+摘要：<paragraph>在資料探勘情境中普遍存在的文字豐富圖形，例如電子商務和學術圖形，由具有各種關聯的文字特徵節點組成。傳統的圖形機器學習模型，例如圖形神經網路 (GNN)，擅長編碼圖形結構資訊，但在處理圖形節點上的豐富文字時能力有限。以其優異的文字理解能力而聞名的巨量語言模型 (LLM) 為處理圖形中的文字提供了解決方案，但由於其在編碼圖形結構方面的限制以及在處理相互連接節點的廣泛文字時面臨的計算複雜性，而面臨整合挑戰。本文介紹了「分層壓縮」(HiCom)，這是一種將 LLM 的能力與文字豐富圖形結構相結合的新方法。HiCom 以結構化的方式處理節點鄰域中的文字，方法是將廣泛的文字資訊組織成更易於管理的層級並逐步壓縮節點文字。因此，HiCom 不僅保留了文字的語境豐富性，還應對了 LLM 的計算挑戰，這代表了將 LLM 的文字處理能力與文字豐富圖形的結構複雜性相整合的進展。實證結果表明，在電子商務和引文圖形上的節點分類中，HiCom 可以優於 GNN 和 LLM 主幹。HiCom 對於圖形中密集區域的節點特別有效，在五個資料集上實現了平均效能提升 3.48%，同時比 LLM 主幹更有效率。</paragraph>
 
 ##### **ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions**
 2406.08842v1 by Xu Zhang, Xunjian Yin, Xiaojun Wan
@@ -2362,187 +2542,4 @@ in healthcare, bridging the gap with nuanced medical contexts crucial for
 informed clinical predictions.
 
 摘要：多模態電子健康紀錄（EHR）資料的整合顯著地提升了臨床預測能力。然而，目前利用臨床筆記和多變數時間序列 EHR 資料的模型，通常缺乏精確臨床任務所需的醫療背景。先前使用知識圖譜 (KG) 的方法主要專注於結構化知識萃取。為了解決這個問題，我們提出 EMERGE，一個以檢索增強生成 (RAG) 為主的架構，旨在增強多模態 EHR 預測模型。我們的做法是透過提示大型語言模型 (LLM) 從時間序列資料和臨床筆記中萃取實體，並將它們與專業 PrimeKG 比對，以確保一致性。除了三元關係之外，我們還包含實體的定義和描述，以提供更豐富的語意。萃取的知識接著用於產生與任務相關的患者健康狀態摘要。這些摘要利用具有交叉注意力的自適應多模態融合網路與其他模態融合。在 MIMIC-III 和 MIMIC-IV 資料集上進行的廣泛實驗，針對院內死亡率和 30 天再入院任務，證明了 EMERGE 框架與基準模型相比具有優越的效能。全面的消融研究和分析強調了每個設計模組的功效，以及該框架對資料稀疏性的穩健性。EMERGE 大幅提升了多模態 EHR 資料在醫療保健中的使用，彌補了對明智臨床預測至關重要的細微醫療背景的差距。
-
-##### **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning**
-2405.16933v1 by Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Shichao Song, Hanyu Wang, Jiawei Yang, Feiyu Xiong, Bo Tang, Chenyang Xi
-
-Retrieval-Augmented Generation (RAG) offers a cost-effective approach to
-injecting real-time knowledge into large language models (LLMs). Nevertheless,
-constructing and validating high-quality knowledge repositories require
-considerable effort. We propose a pre-retrieval framework named Pseudo-Graph
-Retrieval-Augmented Generation (PG-RAG), which conceptualizes LLMs as students
-by providing them with abundant raw reading materials and encouraging them to
-engage in autonomous reading to record factual information in their own words.
-The resulting concise, well-organized mental indices are interconnected through
-common topics or complementary facts to form a pseudo-graph database. During
-the retrieval phase, PG-RAG mimics the human behavior in flipping through
-notes, identifying fact paths and subsequently exploring the related contexts.
-Adhering to the principle of the path taken by many is the best, it integrates
-highly corroborated fact paths to provide a structured and refined sub-graph
-assisting LLMs. We validated PG-RAG on three specialized question-answering
-datasets. In single-document tasks, PG-RAG significantly outperformed the
-current best baseline, KGP-LLaMA, across all key evaluation metrics, with an
-average overall performance improvement of 11.6%. Specifically, its BLEU score
-increased by approximately 14.3%, and the QE-F1 metric improved by 23.7%. In
-multi-document scenarios, the average metrics of PG-RAG were at least 2.35%
-higher than the best baseline. Notably, the BLEU score and QE-F1 metric showed
-stable improvements of around 7.55% and 12.75%, respectively. Our code:
-https://github.com/IAAR-Shanghai/PGRAG.
-
-摘要：<paragraph>檢索增強生成（RAG）提供了一種具成本效益的方法，可以將即時知識注入大型語言模型（LLM）。儘管如此，建構和驗證高品質的知識儲存庫需要相當大的努力。我們提出了一個名為偽圖形檢索增強生成（PG-RAG）的預檢索架構，它將 LLM 概念化為學生，為他們提供豐富的原始閱讀材料，並鼓勵他們從事自主閱讀，用自己的話記錄事實資訊。由此產生的簡潔、組織良好的心智索引通過共同的主題或補充事實相互連接，形成一個偽圖形資料庫。在檢索階段，PG-RAG 模仿人類在翻閱筆記、識別事實路徑並隨後探索相關背景中的行為。遵循眾人走的路是最好的原則，它整合了高度證實的事實路徑，以提供一個結構化且精煉的子圖，協助 LLM。我們在三個專業問答資料集上驗證了 PG-RAG。在單一文件任務中，PG-RAG 在所有關鍵評估指標上都顯著優於目前的最佳基準 KGP-LLaMA，平均整體效能提升了 11.6%。具體來說，它的 BLEU 分數提高了大約 14.3%，QE-F1 指標提高了 23.7%。在多文件場景中，PG-RAG 的平均指標至少比最佳基準高 2.35%。值得注意的是，BLEU 分數和 QE-F1 指標分別顯示出約 7.55% 和 12.75% 的穩定提升。我們的程式碼：https://github.com/IAAR-Shanghai/PGRAG。</paragraph>
-
-##### **Entity Alignment with Noisy Annotations from Large Language Models**
-2405.16806v2 by Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang
-
-Entity alignment (EA) aims to merge two knowledge graphs (KGs) by identifying
-equivalent entity pairs. While existing methods heavily rely on human-generated
-labels, it is prohibitively expensive to incorporate cross-domain experts for
-annotation in real-world scenarios. The advent of Large Language Models (LLMs)
-presents new avenues for automating EA with annotations, inspired by their
-comprehensive capability to process semantic information. However, it is
-nontrivial to directly apply LLMs for EA since the annotation space in
-real-world KGs is large. LLMs could also generate noisy labels that may mislead
-the alignment. To this end, we propose a unified framework, LLM4EA, to
-effectively leverage LLMs for EA. Specifically, we design a novel active
-learning policy to significantly reduce the annotation space by prioritizing
-the most valuable entities based on the entire inter-KG and intra-KG structure.
-Moreover, we introduce an unsupervised label refiner to continuously enhance
-label accuracy through in-depth probabilistic reasoning. We iteratively
-optimize the policy based on the feedback from a base EA model. Extensive
-experiments demonstrate the advantages of LLM4EA on four benchmark datasets in
-terms of effectiveness, robustness, and efficiency. Codes are available via
-https://github.com/chensyCN/llm4ea_official.
-
-摘要：實體比對 (EA) 旨在透過識別等效的實體對來合併兩個知識圖譜 (KG)。雖然現有方法極度依賴人工產生的標籤，但在現實世界的場景中，要納入跨領域的專家進行註解是難以負擔的成本。大型語言模型 (LLM) 的出現為自動化 EA 提供了新的途徑，其靈感來自於 LLM 全面處理語義資訊的能力。然而，由於現實世界 KG 中的註解空間很大，因此直接應用 LLM 於 EA 並非易事。LLM 也有可能產生雜訊標籤，進而誤導比對。為了解決這個問題，我們提出了一個統一的架構 LLM4EA，以有效利用 LLM 進行 EA。具體來說，我們設計了一種新穎的主動學習政策，透過根據整個跨 KG 和內部 KG 結構，優先處理最有價值的實體，從而大幅減少註解空間。此外，我們引入了一個無監督標籤精煉器，以透過深入的機率推理持續提升標籤的準確性。我們根據基礎 EA 模型的回饋，反覆最佳化政策。廣泛的實驗證明了 LLM4EA 在四個基準資料集上的優勢，包括在效能、穩健性和效率方面。程式碼可透過 https://github.com/chensyCN/llm4ea_official 取得。
-
-##### **TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations**
-2405.16800v1 by Zheng Zhang, Yuntong Hu, Bo Pan, Chen Ling, Liang Zhao
-
-Text-Attributed Graphs (TAGs) enhance graph structures with natural language
-descriptions, enabling detailed representation of data and their relationships
-across a broad spectrum of real-world scenarios. Despite the potential for
-deeper insights, existing TAG representation learning primarily relies on
-supervised methods, necessitating extensive labeled data and limiting
-applicability across diverse contexts. This paper introduces a new
-self-supervised learning framework, Text-And-Graph Multi-View Alignment (TAGA),
-which overcomes these constraints by integrating TAGs' structural and semantic
-dimensions. TAGA constructs two complementary views: Text-of-Graph view, which
-organizes node texts into structured documents based on graph topology, and the
-Graph-of-Text view, which converts textual nodes and connections into graph
-data. By aligning representations from both views, TAGA captures joint textual
-and structural information. In addition, a novel structure-preserving random
-walk algorithm is proposed for efficient training on large-sized TAGs. Our
-framework demonstrates strong performance in zero-shot and few-shot scenarios
-across eight real-world datasets.
-
-摘要：文本属性图 (TAG) 使用自然语言描述增强图结构，能够详细表示数据及其在广泛的真实世界场景中的关系。尽管有更深入见解的潜力，但现有的 TAG 表示学习主要依赖于监督方法，需要大量的标记数据，并限制了在不同上下文中的适用性。本文介绍了一个新的自监督学习框架，文本和图多视图对齐 (TAGA)，通过整合 TAG 的结构和语义维度来克服这些限制。TAGA 构建了两个互补的视图：图文本视图，它根据图拓扑将节点文本组织成结构化文档；文本图视图，它将文本节点和连接转换为图数据。通过对齐来自两个视图的表示，TAGA 捕获了联合文本和结构信息。此外，提出了一种新颖的结构保持随机游走算法，用于对大型 TAG 进行高效训练。我们的框架在八个真实世界数据集的零样本和少样本场景中展示了强大的性能。
-
-##### **KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge**
-2405.16412v2 by Pengcheng Jiang, Lang Cao, Cao Xiao, Parminder Bhatia, Jimeng Sun, Jiawei Han
-
-Knowledge Graph Embedding (KGE) techniques are crucial in learning compact
-representations of entities and relations within a knowledge graph,
-facilitating efficient reasoning and knowledge discovery. While existing
-methods typically focus either on training KGE models solely based on graph
-structure or fine-tuning pre-trained language models with classification data
-in KG, KG-FIT leverages LLM-guided refinement to construct a semantically
-coherent hierarchical structure of entity clusters. By incorporating this
-hierarchical knowledge along with textual information during the fine-tuning
-process, KG-FIT effectively captures both global semantics from the LLM and
-local semantics from the KG. Extensive experiments on the benchmark datasets
-FB15K-237, YAGO3-10, and PrimeKG demonstrate the superiority of KG-FIT over
-state-of-the-art pre-trained language model-based methods, achieving
-improvements of 14.4%, 13.5%, and 11.9% in the Hits@10 metric for the link
-prediction task, respectively. Furthermore, KG-FIT yields substantial
-performance gains of 12.6%, 6.7%, and 17.7% compared to the structure-based
-base models upon which it is built. These results highlight the effectiveness
-of KG-FIT in incorporating open-world knowledge from LLMs to significantly
-enhance the expressiveness and informativeness of KG embeddings.
-
-摘要：知識圖嵌入 (KGE) 技術對於學習知識圖中實體和關係的緊湊表示至關重要，有助於高效推理和知識發現。雖然現有方法通常側重於僅基於圖形結構訓練 KGE 模型或使用 KG 中的分類數據微調預訓練語言模型，但 KG-FIT 利用 LLM 引導的優化來構建實體群集的語義一致分層結構。透過在微調過程中將此分層知識與文本資訊結合，KG-FIT 有效地擷取了 LLM 的全局語義和 KG 的局部語義。在基準資料集 FB15K-237、YAGO3-10 和 PrimeKG 上進行的廣泛實驗證明了 KG-FIT 優於最先進的基於預訓練語言模型的方法，在連結預測任務中，Hits@10 指標分別提升了 14.4%、13.5% 和 11.9%。此外，與其建立的基於結構的基礎模型相比，KG-FIT 產生了 12.6%、6.7% 和 17.7% 的顯著效能提升。這些結果突顯了 KG-FIT 在結合來自 LLM 的開放世界知識以顯著增強 KG 嵌入的表現力和資訊性方面的有效性。
-
-##### **Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**
-2405.16405v1 by Runlin Lei, Yuwei Hu, Yuchen Ren, Zhewei Wei
-
-Graph Neural Networks (GNNs) excel across various applications but remain
-vulnerable to adversarial attacks, particularly Graph Injection Attacks (GIAs),
-which inject malicious nodes into the original graph and pose realistic
-threats. Text-attributed graphs (TAGs), where nodes are associated with textual
-features, are crucial due to their prevalence in real-world applications and
-are commonly used to evaluate these vulnerabilities. However, existing research
-only focuses on embedding-level GIAs, which inject node embeddings rather than
-actual textual content, limiting their applicability and simplifying detection.
-In this paper, we pioneer the exploration of GIAs at the text level, presenting
-three novel attack designs that inject textual content into the graph. Through
-theoretical and empirical analysis, we demonstrate that text interpretability,
-a factor previously overlooked at the embedding level, plays a crucial role in
-attack strength. Among the designs we investigate, the Word-frequency-based
-Text-level GIA (WTGIA) is particularly notable for its balance between
-performance and interpretability. Despite the success of WTGIA, we discover
-that defenders can easily enhance their defenses with customized text embedding
-methods or large language model (LLM)--based predictors. These insights
-underscore the necessity for further research into the potential and practical
-significance of text-level GIAs.
-
-摘要：圖形神經網路 (GNN) 在各種應用中表現出色，但仍容易受到對抗性攻擊，特別是圖形注入攻擊 (GIA)，它會將惡意節點注入原始圖形並構成現實威脅。文字屬性圖形 (TAG) 由於在實際應用中很普遍，因此至關重要，並且通常用於評估這些漏洞。然而，現有的研究僅關注嵌入層級的 GIA，它注入節點嵌入而非實際文本內容，限制了它們的適用性並簡化了檢測。在本文中，我們率先探索文本層級的 GIA，提出了三種將文本內容注入圖形的創新攻擊設計。透過理論和實證分析，我們證明了文本可解釋性（在嵌入層級以前被忽略的因素）在攻擊強度中扮演了至關重要的角色。在我們調查的設計中，基於詞頻的文本層級 GIA (WTGIA) 特別以其效能和可解釋性之間的平衡而著稱。儘管 WTGIA 成功的，我們發現防禦者可以透過自訂文字嵌入方法或大型語言模型 (LLM) 為基礎的預測器輕鬆加強他們的防禦。這些見解強調進一步研究文本層級 GIA 的潛力和實際意義的必要性。
-
-##### **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**
-2405.16089v1 by Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
-
-Recently, the integration of external tools with Large Language Models (LLMs)
-has emerged as a promising approach to overcome the inherent constraints of
-their pre-training data. However, realworld applications often involve a
-diverse range of tools, making it infeasible to incorporate all tools directly
-into LLMs due to constraints on input length and response time. Therefore, to
-fully exploit the potential of tool-augmented LLMs, it is crucial to develop an
-effective tool retrieval system. Existing tool retrieval methods techniques
-mainly rely on semantic matching between user queries and tool descriptions,
-which often results in the selection of redundant tools. As a result, these
-methods fail to provide a complete set of diverse tools necessary for
-addressing the multifaceted problems encountered by LLMs. In this paper, we
-propose a novel modelagnostic COllaborative Learning-based Tool Retrieval
-approach, COLT, which captures not only the semantic similarities between user
-queries and tool descriptions but also takes into account the collaborative
-information of tools. Specifically, we first fine-tune the PLM-based retrieval
-models to capture the semantic relationships between queries and tools in the
-semantic learning stage. Subsequently, we construct three bipartite graphs
-among queries, scenes, and tools and introduce a dual-view graph collaborative
-learning framework to capture the intricate collaborative relationships among
-tools during the collaborative learning stage. Extensive experiments on both
-the open benchmark and the newly introduced ToolLens dataset show that COLT
-achieves superior performance. Notably, the performance of BERT-mini (11M) with
-our proposed model framework outperforms BERT-large (340M), which has 30 times
-more parameters. Additionally, we plan to publicly release the ToolLens dataset
-to support further research in tool retrieval.
-
-摘要：<paragraph>最近，外部工具与大型语言模型 (LLM) 的整合已成为克服其预训练数据固有约束的一种有前途的方法。然而，现实世界的应用程序通常涉及各种工具，由于输入长度和响应时间的限制，将所有工具直接整合到 LLM 中是不可行的。因此，为了充分利用工具增强型 LLM 的潜力，至关重要的是开发一个有效的工具检索系统。现有的工具检索方法技术主要依赖于用户查询和工具描述之间的语义匹配，这通常会导致选择冗余工具。因此，这些方法无法提供解决 LLM 遇到的多方面问题所需的完整且多样化的工具集。在本文中，我们提出了一种新颖的与模型无关的基于协作学习的工具检索方法 COLT，它不仅捕获了用户查询和工具描述之间的语义相似性，还考虑了工具的协作信息。具体来说，我们首先微调基于 PLM 的检索模型，以在语义学习阶段捕获查询和工具之间的语义关系。随后，我们在查询、场景和工具之间构建了三个二分图，并引入了一个双视图图协作学习框架，以在协作学习阶段捕获工具之间错综复杂的协作关系。在开放基准和新引入的 ToolLens 数据集上的大量实验表明，COLT 取得了卓越的性能。值得注意的是，我们提出的模型框架中 BERT-mini（11M）的性能优于 BERT-large（340M），而后者的参数多 30 倍。此外，我们计划公开发布 ToolLens 数据集，以支持工具检索的进一步研究。</paragraph>
-
-##### **Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**
-2405.15739v2 by Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
-
-Citation practices are crucial in shaping the structure of scientific
-knowledge, yet they are often influenced by contemporary norms and biases. The
-emergence of Large Language Models (LLMs) like GPT-4 introduces a new dynamic
-to these practices. Interestingly, the characteristics and potential biases of
-references recommended by LLMs that entirely rely on their parametric
-knowledge, and not on search or retrieval-augmented generation, remain
-unexplored. Here, we analyze these characteristics in an experiment using a
-dataset of 166 papers from AAAI, NeurIPS, ICML, and ICLR, published after
-GPT-4's knowledge cut-off date, encompassing 3,066 references in total. In our
-experiment, GPT-4 was tasked with suggesting scholarly references for the
-anonymized in-text citations within these papers. Our findings reveal a
-remarkable similarity between human and LLM citation patterns, but with a more
-pronounced high citation bias in GPT-4, which persists even after controlling
-for publication year, title length, number of authors, and venue. Additionally,
-we observe a large consistency between the characteristics of GPT-4's existing
-and non-existent generated references, indicating the model's internalization
-of citation patterns. By analyzing citation graphs, we show that the references
-recommended by GPT-4 are embedded in the relevant citation context, suggesting
-an even deeper conceptual internalization of the citation networks. While LLMs
-can aid in citation generation, they may also amplify existing biases and
-introduce new ones, potentially skewing scientific knowledge dissemination. Our
-results underscore the need for identifying the model's biases and for
-developing balanced methods to interact with LLMs in general.
-
-摘要：<paragraph>引證實務對於形塑科學知識的結構至關重要，然而往往會受到當代規範和偏見的影響。大型語言模型 (LLM) 如 GPT-4 的出現，為這些實務帶來了新的動態。有趣的是，完全依賴其參數化知識（而非搜尋或檢索增強的生成）的 LLM 所推薦的參考文獻，其特性和潛在偏見仍未被探討。在此，我們使用一個包含 166 篇論文的資料集進行實驗，分析這些特性，這些論文來自 AAAI、NeurIPS、ICML 和 ICLR，並於 GPT-4 知識截止日期後發表，總共涵蓋 3,066 篇參考文獻。在我們的實驗中，GPT-4 的任務是為這些論文中匿名的內文引文建議學術參考文獻。我們的研究結果顯示，人類和 LLM 的引證模式有顯著的相似性，但 GPT-4 的高引證偏見較為明顯，即使在控制了出版年份、標題長度、作者人數和發表地點後，這種偏見仍然存在。此外，我們觀察到 GPT-4 現有和不存在的生成參考文獻之間的一致性很高，這表示模型內化了引證模式。透過分析引證圖，我們發現 GPT-4 推薦的參考文獻嵌入在相關的引證脈絡中，這表示對引證網路有更深入的概念內化。雖然 LLM 可以協助生成引證，但它們也可能放大現有的偏見並引入新的偏見，進而可能扭曲科學知識的傳播。我們的研究結果強調了識別模型偏見和開發與 LLM 互動的平衡方法的需求。</paragraph>
 

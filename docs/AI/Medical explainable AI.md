@@ -23,6 +23,7 @@
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
 |**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
+|**2024-04-14**|**Ethical Framework for Responsible Foundational Models in Medical Imaging**|Abhijit Das et.al.|[2406.11868v1](http://arxiv.org/abs/2406.11868v1)|null|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
 |**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v3](http://arxiv.org/abs/2404.03892v3)|null|
@@ -101,7 +102,6 @@
 |**2022-11-08**|**Privacy Meets Explainability: A Comprehensive Impact Benchmark**|Saifullah Saifullah et.al.|[2211.04110v1](http://arxiv.org/abs/2211.04110v1)|null|
 |**2022-11-05**|**Predicting Treatment Adherence of Tuberculosis Patients at Scale**|Mihir Kulkarni et.al.|[2211.02943v2](http://arxiv.org/abs/2211.02943v2)|null|
 |**2022-11-02**|**Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**|Senthil Kumar Jagatheesaperumal et.al.|[2211.01036v2](http://arxiv.org/abs/2211.01036v2)|null|
-|**2022-10-24**|**Human-centered XAI for Burn Depth Characterization**|Maxwell J. Jacobson et.al.|[2210.13535v2](http://arxiv.org/abs/2210.13535v2)|null|
 
 #### Abstracts
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
@@ -612,6 +612,21 @@ applications more accessible and effective in healthcare, where annotated data
 is scarce.
 
 摘要：深度學習正劇烈地轉變醫學影像和放射學領域，能識別醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛註解資料集需求的限制。為了應對此挑戰，透過可解釋 AI 和反事實解釋的產生，探討了弱監督語意分割的能力。本研究的範圍是開發一種新穎的反事實內繪方法 (COIN)，它透過使用生成模型，將預測分類標籤從異常翻轉為正常。例如，如果分類器將輸入醫學影像 X 視為異常，表示存在病理，生成模型旨在內繪異常區域，從而逆轉分類器的原始預測標籤。此方法使我們能夠產生病理的精確分割，而不依賴於預先存在的分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的分割遮罩容易取得得多。該方法的有效性透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠超越了既定的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是一種很有前景的 CT 影像中腫瘤語意分割方法，並在使深度學習應用在註解資料稀缺的醫療保健中更易於取得和更有效方面邁進了一步。
+
+##### **Ethical Framework for Responsible Foundational Models in Medical Imaging**
+2406.11868v1 by Abhijit Das, Debesh Jha, Jasmer Sanjotra, Onkar Susladkar, Suramyaa Sarkar, Ashish Rauniyar, Nikhil Tomar, Vanshali Sharma, Ulas Bagci
+
+Foundational models (FMs) have tremendous potential to revolutionize medical
+imaging. However, their deployment in real-world clinical settings demands
+extensive ethical considerations. This paper aims to highlight the ethical
+concerns related to FMs and propose a framework to guide their responsible
+development and implementation within medicine. We meticulously examine ethical
+issues such as privacy of patient data, bias mitigation, algorithmic
+transparency, explainability and accountability. The proposed framework is
+designed to prioritize patient welfare, mitigate potential risks, and foster
+trust in AI-assisted healthcare.
+
+摘要：基礎模型 (FM) 具有徹底改變醫學影像的巨大潛力。然而，它們在現實世界臨床環境中的部署需要廣泛的倫理考量。本文旨在強調與 FM 相關的倫理問題，並提出一個框架來指導它們在醫學中的負責任開發和實施。我們仔細審查了倫理問題，例如患者數據隱私、偏差緩解、演算法透明度、可解釋性和問責制。所提出的框架旨在優先考慮患者福利、減輕潛在風險，並培養對 AI 輔助醫療保健的信任。
 
 ##### **Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**
 2404.07239v1 by Milad Yousefi, Shadi Farabi Maleki, Ali Jafarizadeh, Mahya Ahmadpour Youshanlui, Aida Jafari, Siamak Pedrammehr, Roohallah Alizadehsani, Ryszard Tadeusiewicz, Pawel Plawiak
@@ -2544,24 +2559,4 @@ compilation on the development of XAI-based frameworks tailored for the demands
 of future IoT use cases.
 
 摘要：可解釋人工智慧 (XAI) 透過提升終端使用者對機器信任度，轉變了人工智慧 (AI) 領域。隨著連網裝置數量持續增加，物聯網 (IoT) 市場需要讓終端使用者信賴。然而，現有文獻仍缺乏對於 XAI 用於物聯網的系統性且全面的調查工作。為了彌補這個不足之處，我們在這篇論文中探討 XAI 架構，重點在於其特性和對物聯網的支援。我們說明廣泛使用的 XAI 服務，用於物聯網應用，例如安全性強化、醫療物聯網 (IoMT)、工業物聯網 (IIoT) 和城市物聯網 (IoCT)。我們也建議在這些應用中，透過適當的範例在物聯網系統上實作 XAI 模型的選擇，並總結未來工作的關鍵推論。此外，我們提出邊緣 XAI 架構的尖端發展，以及對物聯網應用第六代 (6G) 通訊服務的支援，連同關鍵推論。簡而言之，這篇論文構成第一個針對 XAI 基礎架構發展的整體彙編，專門針對未來物聯網使用案例的需求。
-
-##### **Human-centered XAI for Burn Depth Characterization**
-2210.13535v2 by Maxwell J. Jacobson, Daniela Chanci Arrubla, Maria Romeo Tricas, Gayle Gordillo, Yexiang Xue, Chandan Sen, Juan Wachs
-
-Approximately 1.25 million people in the United States are treated each year
-for burn injuries. Precise burn injury classification is an important aspect of
-the medical AI field. In this work, we propose an explainable human-in-the-loop
-framework for improving burn ultrasound classification models. Our framework
-leverages an explanation system based on the LIME classification explainer to
-corroborate and integrate a burn expert's knowledge -- suggesting new features
-and ensuring the validity of the model. Using this framework, we discover that
-B-mode ultrasound classifiers can be enhanced by supplying textural features.
-More specifically, we confirm that texture features based on the Gray Level
-Co-occurance Matrix (GLCM) of ultrasound frames can increase the accuracy of
-transfer learned burn depth classifiers. We test our hypothesis on real data
-from porcine subjects. We show improvements in the accuracy of burn depth
-classification -- from ~88% to ~94% -- once modified according to our
-framework.
-
-摘要：美國每年約有 125 萬人接受燒傷治療。準確的燒傷分類是醫療 AI 領域的重要面向。在此研究中，我們提出一個可解釋的迴圈中的人類框架，用於改善燒傷超音波分類模型。我們的框架利用基於 LIME 分類解釋器的解釋系統，來驗證和整合燒傷專家的知識，建議新的特徵並確保模型的有效性。使用此框架，我們發現 B 型超音波分類器可透過提供紋理特徵來增強。更具體地說，我們確認基於超音波影像的灰階共生矩陣 (GLCM) 的紋理特徵，可以提高轉移學習的燒傷深度分類器的準確性。我們在豬隻受試者的真實資料上測試我們的假設。我們顯示出在根據我們的框架修改後，燒傷深度分類的準確性有所提升，從約 88% 提升至約 94%。
 

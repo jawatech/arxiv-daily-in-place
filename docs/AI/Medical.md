@@ -18,7 +18,7 @@
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
 |**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|[link](https://github.com/mhxu1998/flexcare)|
-|**2024-06-17**|**Formally Certified Approximate Model Counting**|Yong Kiam Tan et.al.|[2406.11414v1](http://arxiv.org/abs/2406.11414v1)|null|
+|**2024-06-17**|**Formally Certified Approximate Model Counting**|Yong Kiam Tan et.al.|[2406.11414v2](http://arxiv.org/abs/2406.11414v2)|null|
 |**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260v1](http://arxiv.org/abs/2406.11260v1)|null|
 |**2024-06-17**|**Scorecards for Synthetic Medical Data Evaluation and Reporting**|Ghada Zamzmi et.al.|[2406.11143v1](http://arxiv.org/abs/2406.11143v1)|null|
 |**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138v1](http://arxiv.org/abs/2406.11138v1)|null|
@@ -513,7 +513,7 @@ source code is available at https://github.com/mhxu1998/FlexCare.
 摘要：多模态电子健康记录（EHR）数据可以提供患者健康状况的全面评估，支持各种预测性医疗保健任务。最近，一些研究采用了医疗保健领域的多分任务学习方法，利用临床任务之间固有的相关性来同时预测多个结果。然而，现有方法需要样本为所有任务都拥有完整的标签，这对数据提出了很高的要求，并限制了模型的灵活性。同时，在具有多模态输入的多任务框架中，如何全面考虑模态之间和任务之间的信息差异仍然是一个具有挑战性的问题。为了解决这些问题，提出了一个统一的医疗保健预测模型，也称为\textbf{FlexCare}，以灵活地适应不完整的多模态输入，促进对多个医疗保健任务的适应。所提出的模型打破了并行多任务预测的传统范式，将其分解为一系列异步单任务预测。具体而言，提出了一种与任务无关的多模态信息提取模块，以捕获不同模态内和模态间模式的去相关表示。充分考虑不同模态和不同任务之间信息差异，我们提出了一个任务指导的分层多模态融合模块，将精炼的模态级表示集成到一个单独的患者级表示中。MIMIC-IV/MIMIC-CXR/MIMIC-NOTE 数据集中多个任务的实验结果证明了所提出方法的有效性。此外，进一步的分析强调了在医疗保健领域采用这种多任务策略的可行性和潜力。源代码可在 https://github.com/mhxu1998/FlexCare 获得。
 
 ##### **Formally Certified Approximate Model Counting**
-2406.11414v1 by Yong Kiam Tan, Jiong Yang, Mate Soos, Magnus O. Myreen, Kuldeep S. Meel
+2406.11414v2 by Yong Kiam Tan, Jiong Yang, Mate Soos, Magnus O. Myreen, Kuldeep S. Meel
 
 Approximate model counting is the task of approximating the number of
 solutions to an input Boolean formula. The state-of-the-art approximate model
@@ -538,8 +538,8 @@ overhead to an approximate counter implementation, and that our certificate
 checker is able to fully certify $84.7\%$ of instances with generated
 certificates when given the same time and memory limits as the counter.
 
-摘要：近似模型計數是近似輸入布林公式的解的數量的工作。聯集範式 (CNF) 中公式的最新近似模型計數器 ApproxMC 提供了一個可擴充的方法，用於取得模型計數，並具有可能近似正確 (PAC) 式的保證。儘管如此，ApproxMC 近似的有效性依賴於其隨機演算法的仔細理論分析，以及其高度最佳化實作的正確性，特別是後者與原生處理奇偶校驗 (XOR) 約束的增量 CNF 可滿足性求解器的有狀態互動。
-我們提出了一個近似模型計數的第一個認證架構，其輸出近似的品質具有正式驗證的保證。我們的做法結合：(i) 在 Isabelle/HOL 證明輔助工具中演算法的 PAC 保證的靜態、一次性的正式證明；以及 (ii) ApproxMC 對外部 CNF-XOR 求解器呼叫的動態、每次執行驗證，使用證明證書。我們詳細說明了我們建立驗證這兩個部分之間嚴謹連接的通用做法，包括我們將形式化隨機演算法轉變成驗證證明檢查器的藍圖，以及我們為 ApproxMC 及其內部 CNF-XOR 求解步驟設計的證明證書。在實驗中，我們顯示證書產生為近似計數器實作增加很少的開銷，而且我們的證書檢查器能夠在與計數器給予相同時間和記憶體限制時，完全認證 $84.7\%$ 個具有產生證書的實例。
+摘要：近似模型计数是近似输入布林公式的解的数量的任务。针对合取范式 (CNF) 中的公式的最新近似模型计数器 ApproxMC，提供了一种可扩展的方法来获取具有近似正确 (PAC) 风格保证的模型计数。然而，ApproxMC 的近似的有效性依赖于对其随机算法的仔细理论分析以及其高度优化的实现的正确性，特别是后者与能够原生处理奇偶校验 (XOR) 约束的增量 CNF 可满足性求解器的有状态交互。
+我们提出了第一个近似模型计数认证框架，对输出近似的质量提供形式验证的保证。我们的方法结合了：(i) 算法的 PAC 保证在 Isabelle/HOL 证明助手中的静态、一次性、形式证明；以及 (ii) 使用证明证书对 ApproxMC 对外部 CNF-XOR 求解器的调用进行动态、每次运行验证。我们详细介绍了我们建立验证这两部分之间严格联系的一般方法，包括我们用于将形式化的随机算法转换为经过验证的证明检查器的蓝图，以及我们为 ApproxMC 及其内部 CNF-XOR 求解步骤设计的证明证书。在实验中，我们表明证书生成几乎不会给近似计数器实现增加开销，并且我们的证书检查器能够在与计数器相同的时间和内存限制下完全验证 84.7% 的具有生成证书的实例。
 
 ##### **Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**
 2406.11260v1 by Sungwon Park, Sungwon Han, Meeyoung Cha

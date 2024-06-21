@@ -20,12 +20,12 @@
 |**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784v1](http://arxiv.org/abs/2406.12784v1)|null|
 |**2024-06-18**|**Composited-Nested-Learning with Data Augmentation for Nested Named Entity Recognition**|Xingming Liao et.al.|[2406.12779v1](http://arxiv.org/abs/2406.12779v1)|null|
 |**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775v1](http://arxiv.org/abs/2406.12775v1)|null|
-|**2024-06-18**|**Formatics & dairy industry coalition: AI trends and present challenges**|Silvia García-Méndez et.al.|[2406.12770v1](http://arxiv.org/abs/2406.12770v1)|null|
+|**2024-06-18**|**Informatics & dairy industry coalition: AI trends and present challenges**|Silvia García-Méndez et.al.|[2406.12770v2](http://arxiv.org/abs/2406.12770v2)|null|
 |**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769v1](http://arxiv.org/abs/2406.12769v1)|null|
 |**2024-06-18**|**Chumor 1.0: A Truly Funny and Challenging Chinese Humor Understanding Dataset from Ruo Zhi Ba**|Ruiqi He et.al.|[2406.12754v1](http://arxiv.org/abs/2406.12754v1)|null|
 |**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753v1](http://arxiv.org/abs/2406.12753v1)|[link](https://github.com/gair-nlp/olympicarena)|
 |**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747v1](http://arxiv.org/abs/2406.12747v1)|[link](https://github.com/WenjieDu/PyPOTS)|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v2](http://arxiv.org/abs/2406.12746v2)|null|
 |**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742v1](http://arxiv.org/abs/2406.12742v1)|[link](https://github.com/dtennant/mirb_eval)|
 |**2024-06-18**|**Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages**|Fabian David Schmidt et.al.|[2406.12739v1](http://arxiv.org/abs/2406.12739v1)|null|
 |**2024-06-18**|**Large Language Model as a Universal Clinical Multi-task Decoder**|Yujiang Wu et.al.|[2406.12738v1](http://arxiv.org/abs/2406.12738v1)|null|
@@ -51,7 +51,7 @@
 |**2024-06-18**|**Investigating the Role of Explainability and AI Literacy in User Compliance**|Niklas Kühl et.al.|[2406.12660v1](http://arxiv.org/abs/2406.12660v1)|null|
 |**2024-06-18**|**Benchmarks and Metrics for Evaluations of Code Generation: A Critical Review**|Debalina Ghosh Paul et.al.|[2406.12655v1](http://arxiv.org/abs/2406.12655v1)|null|
 |**2024-06-18**|**Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics**|Huan Xu et.al.|[2406.12651v1](http://arxiv.org/abs/2406.12651v1)|null|
-|**2024-06-18**|**Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**|Hengyi Wang et.al.|[2406.12649v1](http://arxiv.org/abs/2406.12649v1)|null|
+|**2024-06-18**|**Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**|Hengyi Wang et.al.|[2406.12649v2](http://arxiv.org/abs/2406.12649v2)|null|
 |**2024-06-18**|**An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation**|Qin Li et.al.|[2406.12646v1](http://arxiv.org/abs/2406.12646v1)|null|
 |**2024-06-18**|**Evaluating Transparency of Machine Generated Fact Checking Explanations**|Rui Xing et.al.|[2406.12645v1](http://arxiv.org/abs/2406.12645v1)|[link](https://github.com/ruixing76/transparent-fcexp)|
 |**2024-06-18**|**Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models**|Devichand Budagam et.al.|[2406.12644v1](http://arxiv.org/abs/2406.12644v1)|[link](https://github.com/devichand579/HPT)|
@@ -69,7 +69,7 @@
 |**2024-06-18**|**PromptDSI: Prompt-based Rehearsal-free Instance-wise Incremental Learning for Document Retrieval**|Tuan-Luc Huynh et.al.|[2406.12593v1](http://arxiv.org/abs/2406.12593v1)|null|
 |**2024-06-18**|**UIFV: Data Reconstruction Attack in Vertical Federated Learning**|Jirui Yang et.al.|[2406.12588v1](http://arxiv.org/abs/2406.12588v1)|null|
 |**2024-06-18**|**Breaking the Ceiling of the LLM Community by Treating Token Generation as a Classification for Ensembling**|Yao-Ching Yu et.al.|[2406.12585v1](http://arxiv.org/abs/2406.12585v1)|[link](https://github.com/yaoching0/gac)|
-|**2024-06-18**|**Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large Language Models**|Eldar Kurtic et.al.|[2406.12572v1](http://arxiv.org/abs/2406.12572v1)|[link](https://github.com/ist-daslab/mathador-lm)|
+|**2024-06-18**|**Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large Language Models**|Eldar Kurtic et.al.|[2406.12572v2](http://arxiv.org/abs/2406.12572v2)|[link](https://github.com/ist-daslab/mathador-lm)|
 |**2024-06-18**|**Applying Ensemble Methods to Model-Agnostic Machine-Generated Text Detection**|Ivan Ong et.al.|[2406.12570v1](http://arxiv.org/abs/2406.12570v1)|null|
 |**2024-06-18**|**RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.12566v1](http://arxiv.org/abs/2406.12566v1)|null|
 |**2024-06-18**|**Low-Resource Machine Translation through the Lens of Personalized Federated Learning**|Viktor Moskvoretskii et.al.|[2406.12564v1](http://arxiv.org/abs/2406.12564v1)|[link](https://github.com/vityavitalich/meritfed)|
@@ -557,8 +557,8 @@ reasoning in transformer-based LLMs.
 
 摘要：大型語言模型 (LLM) 能解決複雜的多步驟問題，但對於這些計算是如何在內部執行的，我們所知甚少。受此啟發，我們研究 LLM 如何回答多跳查詢，例如「Imagine 的表演者的配偶是」。這些查詢需要兩個資訊抽取步驟：一個潛在步驟，用於將第一跳（「Imagine 的表演者」）解析為橋接實體（約翰藍儂），另一個步驟，用於將第二跳（「約翰藍儂的配偶」）解析為目標實體（小野洋子）。了解潛在步驟如何在內部計算是了解整體計算的關鍵。透過仔細分析基於轉換器的 LLM 的內部計算，我們發現橋接實體是在模型的早期層解析的。然後，僅在這個解析之後，兩跳查詢才在後續層解析。由於第二跳在後續層開始，因此可能會出現這些層不再編碼正確預測答案所需知識的情況。受此啟發，我們提出了一種新穎的「反向修補」分析方法，藉此將後續層的隱藏表示修補回早期層。我們發現，在先前不正確的案例中，有高達 57% 的案例存在反向修補，這會導致正確產生答案，顯示後續層確實有時候缺乏所需的機能。總體而言，我們的各種方法和發現為進一步了解和改進基於轉換器的 LLM 中的潛在推理開闢了更多機會。
 
-##### **Formatics & dairy industry coalition: AI trends and present challenges**
-2406.12770v1 by Silvia García-Méndez, Francisco de Arriba-Pérez, María del Carmen Somoza-López
+##### **Informatics & dairy industry coalition: AI trends and present challenges**
+2406.12770v2 by Silvia García-Méndez, Francisco de Arriba-Pérez, María del Carmen Somoza-López
 
 Artificial Intelligence (AI) can potentially transform the industry,
 enhancing the production process and minimizing manual, repetitive tasks.
@@ -571,15 +571,15 @@ AI can be exploited, focusing on the dairy industry. The conclusions presented
 can help researchers apply novel approaches for cattle monitoring and farmers
 by proposing advanced technological solutions to their needs.
 
-摘要：人工智慧（AI）有潛力轉變產業，
-增強生產流程並將手動、重複性的任務降到最低。
-因此，高性能運算與強大數學模型之間的綜效，
-能應用在精密資料分析的程序中，例如機器學習。
-然而，在產生有價值的知識過程中，
-仍存在著有效、效率和彈性處理的挑戰。
-因此，本研究全面性地描述了產業挑戰，
-說明 AI 能如何被利用，並專注於乳製品產業。
-提出的結論能幫助研究人員應用創新的方法來監控牛隻，
+摘要：人工智慧 (AI) 具有潛力能轉型產業，
+提升生產程序並將手動、重複性任務降到最低。
+因此，高效能運算與強大數學模型之間的綜效，
+讓精密資料分析程序（如機器學習）得以應用。
+然而，在產生有價值的知識時，
+仍存在著有效、高效且彈性處理的挑戰。
+因此，這項研究全面描述了人工智慧可以被利用的產業挑戰，
+並專注於乳製品產業。
+提出的結論可以幫助研究人員運用新穎方法進行牛隻監控，
 並透過提出先進的技術解決方案來滿足農民的需求。
 
 ##### **Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**
@@ -676,7 +676,7 @@ are available at https://github.com/WenjieDu/AwesomeImputation.
 摘要：有效的插补是时间序列分析中至关重要的预处理步骤。尽管已经开发出许多用于时间序列插补的深度学习算法，但社区缺乏标准化且全面的基准平台来有效评估不同设置下的插补性能。此外，尽管许多深度学习预测算法已经展示出优异的性能，但其建模成果是否可以转移到时间序列插补任务中仍未得到探索。为了弥补这些差距，我们开发了 TSI-Bench，这是（据我们所知）第一个利用深度学习技术的全面时间序列插补基准套件。TSI-Bench 管道标准化了实验设置，以支持插补算法的公平评估，并识别出对模型性能产生影响的领域适当缺失率和模式的有意义的见解。此外，TSI-Bench 创新性地提供了一个系统范例，用于定制时间序列预测算法以用于插补目的。我们对 34,804 个实验、28 个算法和 8 个具有不同缺失情况的数据集进行的广泛研究表明，TSI-Bench 在不同的下游任务中是有效的，并且有可能为时间序列插补研究和分析解锁未来的方向。源代码和实验日志可在 https://github.com/WenjieDu/AwesomeImputation 中获得。
 
 ##### **Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**
-2406.12746v1 by Miaoyu Li, Haoxin Li, Zilin Du, Boyang Li
+2406.12746v2 by Miaoyu Li, Haoxin Li, Zilin Du, Boyang Li
 
 Knowledge-based Visual Qustion-answering (K-VQA) necessitates the use of
 background knowledge beyond what is depicted in the image. Current zero-shot
@@ -694,7 +694,7 @@ allowing the model to select the correct answer from all candidates. We conduct
 comprehensive experiments on the OK-VQA and A-OKVQA datasets, and our method
 significantly outperforms state-of-the-art LLM-based baselines on all datasets.
 
-摘要：基於知識的視覺問答（K-VQA）需要使用背景知識，而這些知識並非圖像中所描繪的。目前的零次學習 K-VQA 方法通常會將圖像轉換成單一類型的文字決策脈絡，並使用基於文字的模型根據該脈絡回答問題，這與 K-VQA 問題通常需要結合多種問答策略的事實相衝突。有鑑於此，我們提出了基於推理的答案脈絡策略組合（REACT），以實現多種問答策略的動態組合，包括答案候選產生（ACG）和基於推理的策略融合（RSF）。在 ACG 中，我們產生三個不同的決策脈絡，為每個問題提供不同的策略，從而產生三個答案候選。RSF 為每個候選從決策脈絡中產生自動且機械的推理，讓模型能夠從所有候選中選擇正確答案。我們對 OK-VQA 和 A-OKVQA 資料集進行了全面的實驗，我們的模型在所有資料集上都顯著優於最先進的基於 LLM 的基準。
+摘要：基於知識的視覺問答 (K-VQA) 需要使用背景知識，而這些知識超出了圖像中描繪的內容。當前的零次學習 K-VQA 方法通常會將圖像轉換為單一類型的文本決策脈絡，並使用基於文本的模型根據它來回答問題，這與 K-VQA 問題通常需要結合多種問答策略的事實相衝突。有鑑於此，我們提出基於理由的答案脈絡策略集成 (REACT)，以實現多個問答策略的動態集成，包括答案候選產生 (ACG) 和基於理由的策略融合 (RSF)。在 ACG 中，我們產生三個不同的決策脈絡，以提供每個問題的不同策略，從而產生三個答案候選。RSF 為每個候選從決策脈絡中產生自動且機械的理由，允許模型從所有候選中選擇正確答案。我們對 OK-VQA 和 A-OKVQA 數據集進行了全面的實驗，我們的模型在所有數據集上都顯著優於最先進的基於 LLM 的基準。
 
 ##### **Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**
 2406.12742v1 by Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales
@@ -1272,7 +1272,7 @@ non-invasive diagnostics and streamline medical workflows.
 摘要：超音波徹底改變了非侵入性診斷方法，大幅提升各種醫療領域的患者治療成果。儘管有這些進展，但將超音波技術與機器人系統整合以進行自動化掃描會產生挑戰，包括有限的指令理解和動態執行能力。為了應對這些挑戰，本文介紹了一種創新的超音波具身智慧系統，該系統將超音波機器人與大型語言模型 (LLM) 和特定領域的知識擴充結合在一起，增強超音波機器人的智慧和操作效率。我們的做法採用雙重策略：首先，將 LLM 與超音波機器人整合，透過全面理解超音波領域知識（包括 API 和操作手冊），將醫生的口頭指示轉換為精確的動作規劃；其次，加入動態執行機制，允許根據患者移動或程序錯誤即時調整掃描計畫。我們透過廣泛的實驗（包括消融研究和各種模型的比較）證明了我們系統的有效性，展示了根據口頭指令執行醫療程序的顯著進步。我們的研究結果表明，所提出的系統改善了超音波掃描的效率和品質，並為自主醫療掃描技術的進一步發展鋪路，有潛力轉型非侵入性診斷並簡化醫療工作流程。
 
 ##### **Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**
-2406.12649v1 by Hengyi Wang, Shiwei Tan, Hao Wang
+2406.12649v2 by Hengyi Wang, Shiwei Tan, Hao Wang
 
 Vision transformers (ViTs) have emerged as a significant area of focus,
 particularly for their capacity to be jointly trained with large language
@@ -1294,15 +1294,8 @@ thus completing the multi-level structure of PACE. Through extensive
 experiments on both synthetic and real-world datasets, we demonstrate that PACE
 surpasses state-of-the-art methods in terms of the defined desiderata.
 
-摘要：視覺Transformer (ViT) 已成為一個重要的關注領域，
-特別是它們與大型語言模型聯合訓練並作為強大的視覺基礎模型的能力。然而，
-可信的 ViT 解釋方法的開發落後了，特別是在 ViT 預測的後設解釋的背景下。現有的子影像
-選擇方法，例如特徵歸因和概念模型，在這方面做得並不好。本文提出了解釋 ViT 的五個理想條件
-——忠實性、穩定性、稀疏性、多層級結構和簡潔性——並證明了當前方法在全面滿足這些標準方面的不足。我們引入了一個變分貝氏解釋框架，
-稱為概率概念解釋器 (PACE)，它對 patch 嵌入的分布進行建模，以提供可信的後設概念解釋。
-我們的定性分析揭示了 patch 級別概念的分布，通過對 patch 嵌入和 ViT 預測的聯合分布進行建模，闡明了 ViT 的有效性。此外，這些 patch 級別
-解釋彌合了影像級別和資料集級別解釋之間的差距，從而完成了 PACE 的多層級結構。通過對合成和真實世界資料集進行廣泛的
-實驗，我們證明了 PACE 在定義的理想條件方面超越了最先進的方法。
+摘要：<paragraph>視覺轉換器（ViT）已成為一個重要的關注領域，
+特別是它們與大型語言模型聯合訓練的能力，以及作為穩健的視覺基礎模型的能力。然而，ViT 的可信解釋方法的開發卻落後了，特別是在 ViT 預測的事後解釋方面。現有的子影像選擇方法，例如特徵歸因和概念模型，在這方面做得並不好。本文提出了解釋 ViT 的五個條件——保真度、穩定性、稀疏性、多層級結構和簡潔性——並證明了當前方法在全面滿足這些標準方面的不足。我們引入了一個變分貝葉斯解釋框架，稱為概率概念解釋器 (PACE)，它對 patch embedding 的分佈進行建模，以提供可信的事後概念解釋。我們的定性分析揭示了 patch 級別概念的分佈，通過對 patch embedding 和 ViT 預測的聯合分佈進行建模，闡明了 ViT 的有效性。此外，這些 patch 級別的解釋彌合了影像級別和資料集級別解釋之間的差距，從而完成了 PACE 的多層級結構。通過對合成和真實世界資料集的廣泛實驗，我們證明了 PACE 在定義的條件方面超越了最先進的方法。</paragraph>
 
 ##### **An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation**
 2406.12646v1 by Qin Li, Yizhe Zhang, Yan Li, Jun Lyu, Meng Liu, Longyu Sun, Mengting Sun, Qirong Li, Wenyue Mao, Xinran Wu, Yajing Zhang, Yinghua Chu, Shuo Wang, Chengyan Wang
@@ -1698,7 +1691,7 @@ and the results showed better performance with lower latency across benchmarks.
 摘要：整合多個模型一直是推動現有效能極限的有效方法，並廣泛用於分類任務中，只需平均多個分類器的分類機率向量即可獲得更好的準確度。然而，在蓬勃發展的開源大型語言模型 (LLM) 社群中，整合方法很少見，而且通常僅限於整合 LLM 的全文輸出，例如使用排名器選擇最佳輸出，這導致無法充分利用代幣級別的機率資訊。在本文中，我們將 LLM 產生的每個代幣視為分類 (GaC) 以進行整合。此方法充分利用每個產生步驟中的機率資訊，並能更好地防止 LLM 產生導致錯誤累積的早期錯誤代幣。在實驗中，我們在幾個基準上整合了最先進的 LLM，包括考試、數學和推理，並觀察到我們的方法打破了現有社群效能上限。此外，我們觀察到答案中的大多數代幣都很簡單，不會影響最終答案的正確性。因此，我們也嘗試僅整合關鍵代幣，結果顯示在所有基準上效能更好，且延遲時間更低。
 
 ##### **Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large Language Models**
-2406.12572v1 by Eldar Kurtic, Amir Moeini, Dan Alistarh
+2406.12572v2 by Eldar Kurtic, Amir Moeini, Dan Alistarh
 
 We introduce Mathador-LM, a new benchmark for evaluating the mathematical
 reasoning on large language models (LLMs), combining ruleset interpretation,
@@ -1711,11 +1704,11 @@ level. Thus, our benchmark alleviates concerns about test-set leakage into
 training data, an issue that often undermines popular benchmarks. Additionally,
 we conduct a comprehensive evaluation of both open and closed-source
 state-of-the-art LLMs on Mathador-LM. Our findings reveal that contemporary
-models struggle with Mathador-LM, scoring significantly lower than average 5th
+models struggle with Mathador-LM, scoring significantly lower than average 3rd
 graders. This stands in stark contrast to their strong performance on popular
 mathematical reasoning benchmarks.
 
-摘要：我們介紹 Mathador-LM，這是一個用於評估大型語言模型 (LLM) 中數學推理的新基準，結合規則集解釋、規劃和問題解決。此基準靈感來自 Mathador 遊戲，目標是使用給定的一組基本數字進行基本算術運算，並遵循一組簡單的規則來達到目標數字。我們表明，在領先的 LLM 中，我們在動態產生基準實例時獲得穩定的平均效能，同時遵循目標難度等級。因此，我們的基準減輕了測試集洩漏到訓練資料的疑慮，這是一個經常破壞熱門基準的問題。此外，我們對 Mathador-LM 上的開放和閉源最新 LLM 進行了全面的評估。我們的發現表明，當代模型在 Mathador-LM 上表現不佳，得分顯著低於平均 5 年級學生。這與他們在熱門數學推理基準上的強勁表現形成鮮明對比。
+摘要：我們推出 Mathador-LM，這是一個新的基準，用於評估大型語言模型 (LLM) 的數學推理，結合規則集解釋、規劃和問題解決。此基準靈感來自 Mathador 遊戲，其目標是使用給定的一組基本數字進行基本算術運算，並遵循一組簡單的規則，以達到目標數字。我們表明，在領先的 LLM 中，我們在動態生成基準實例時獲得穩定的平均性能，並遵循目標難度級別。因此，我們的基準減輕了測試集洩漏到訓練數據的擔憂，這是一個經常破壞流行基準的問題。此外，我們對 Mathador-LM 上的開放和閉源最先進 LLM 進行了全面的評估。我們的發現表明，當代模型難以應對 Mathador-LM，得分顯著低於平均 3 年級學生。這與它們在流行的數學推理基準上的強勁表現形成鮮明對比。
 
 ##### **Applying Ensemble Methods to Model-Agnostic Machine-Generated Text Detection**
 2406.12570v1 by Ivan Ong, Boon King Quek

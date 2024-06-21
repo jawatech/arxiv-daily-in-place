@@ -5,7 +5,7 @@
 |**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
 |**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
 |**2024-06-18**|**Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**|Gangwei Jiang et.al.|[2406.12227v1](http://arxiv.org/abs/2406.12227v1)|null|
-|**2024-06-17**|**DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**|Jiasheng Zhang et.al.|[2406.12072v1](http://arxiv.org/abs/2406.12072v1)|[link](https://github.com/zjs123/DTGB)|
+|**2024-06-17**|**DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**|Jiasheng Zhang et.al.|[2406.12072v2](http://arxiv.org/abs/2406.12072v2)|[link](https://github.com/zjs123/DTGB)|
 |**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|null|
 |**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|null|
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
@@ -171,7 +171,7 @@ forgetting. Our code will be made available soon.
 摘要：微调大型语言模型 (LLM) 可能会导致它们失去一般功能。然而，这种遗忘背后的内在机制仍未得到探索。在本文中，我们首先通过关注知识理解和指令遵循来检验这种现象，后者被认为是微调过程中遗忘的主要原因。因此，我们提出了指令向量 (IV) 框架来捕获与特定指令遵循能力高度相关的模型表示，从而可以理解模型内在的遗忘。通过对训练前后的 IV 动态分析，我们认为微调主要增加了专门的推理模式，而不是抹去之前的技能，这可能表现为遗忘。基于这一见解，我们开发了 IV 引导训练，其目标是保留原始计算图，从而减轻灾难性遗忘。在三个基准上的经验测试证实了这种新方法的有效性，支持了 IV 和遗忘之间的关系。我们的代码将很快提供。
 
 ##### **DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**
-2406.12072v1 by Jiasheng Zhang, Jialin Chen, Menglin Yang, Aosong Feng, Shuang Liang, Jie Shao, Rex Ying
+2406.12072v2 by Jiasheng Zhang, Jialin Chen, Menglin Yang, Aosong Feng, Shuang Liang, Jie Shao, Rex Ying
 
 Dynamic text-attributed graphs (DyTAGs) are prevalent in various real-world
 scenarios, where each node and edge are associated with text descriptions, and
@@ -197,7 +197,7 @@ offers a comprehensive benchmark for evaluating and advancing models to handle
 the interplay between dynamic graph structures and natural language. The
 dataset and source code are available at https://github.com/zjs123/DTGB.
 
-摘要：<paragraph>動態文本屬性圖 (DyTAG) 在各種真實世界場景中普遍存在，其中每個節點和邊緣都與文本描述相關聯，並且圖形結構和文本描述會隨著時間演變。儘管它們具有廣泛的適用性，但專門針對 DyTAG 的基準數據集卻非常稀少，這阻礙了許多研究領域的潛在進步。為了解決這個差距，我們引入了動態文本屬性圖基準 (DTGB)，這是一個來自不同領域的大規模、隨時間演變的圖形集合，其中節點和邊緣通過動態變化的文本屬性和類別進行豐富。為了促進 DTGB 的使用，我們根據四個真實世界的用例設計了標準化的評估程序：未來鏈路預測、目標節點檢索、邊緣分類和文本關係生成。這些任務要求模型同時理解動態圖形結構和自然語言，強調了 DyTAG 帶來的獨特挑戰。此外，我們對 DTGB 進行了廣泛的基準實驗，評估了 7 種流行的動態圖形學習算法及其適應文本屬性與 LLM 嵌入的變體，以及 6 種強大的大型語言模型 (LLM)。我們的結果顯示了現有模型在處理 DyTAG 方面的局限性。我們的分析還證明了 DTGB 在研究結構和文本動態的整合方面的效用。提議的 DTGB 促進了對 DyTAG 及其廣泛應用的研究。它提供了一個綜合基準，用於評估和改進模型，以處理動態圖形結構和自然語言之間的相互作用。數據集和源代碼可在 https://github.com/zjs123/DTGB 獲得。</paragraph>
+摘要：<paragraph>動態文字屬性圖表 (DyTAGs) 普遍存在於各種真實世界的場景中，其中每個節點和邊緣都與文字描述相關聯，且圖表結構和文字描述會隨著時間演變。儘管其廣泛的適用性，但專門針對 DyTAGs 的基準資料集卻十分稀少，這阻礙了許多研究領域的潛在進展。為了解決這個差距，我們引入了動態文字屬性圖表基準 (DTGB)，它是一個來自不同領域的大型、時變圖表的集合，其節點和邊緣由動態變化的文字屬性和類別豐富化。為了便於使用 DTGB，我們根據四個真實世界的用例設計了標準化的評估程序：未來連結預測、目的地節點檢索、邊緣分類和文字關係生成。這些任務要求模型同時理解動態圖表結構和自然語言，突顯了 DyTAGs 帶來的獨特挑戰。此外，我們對 DTGB 進行了廣泛的基準實驗，評估了 7 種流行的動態圖表學習演算法及其使用 LLM 嵌入適應文字屬性的變體，以及 6 種強大的大型語言模型 (LLM)。我們的結果顯示了現有模型在處理 DyTAGs 方面的局限性。我們的分析也證明了 DTGB 在研究結構和文字動態的結合方面的效用。所提出的 DTGB 促進了對 DyTAGs 及其廣泛應用的研究。它為評估和推進模型以處理動態圖表結構和自然語言之間的交互作用提供了一個全面的基準。資料集和原始碼可在 https://github.com/zjs123/DTGB 取得。</paragraph>
 
 ##### **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
 2406.12052v1 by Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, Qiaoyu Tan

@@ -5,6 +5,7 @@
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
+|**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
@@ -101,7 +102,6 @@
 |**2022-11-27**|**Attribution-based XAI Methods in Computer Vision: A Review**|Kumar Abhishek et.al.|[2211.14736v1](http://arxiv.org/abs/2211.14736v1)|null|
 |**2022-11-08**|**Privacy Meets Explainability: A Comprehensive Impact Benchmark**|Saifullah Saifullah et.al.|[2211.04110v1](http://arxiv.org/abs/2211.04110v1)|null|
 |**2022-11-05**|**Predicting Treatment Adherence of Tuberculosis Patients at Scale**|Mihir Kulkarni et.al.|[2211.02943v2](http://arxiv.org/abs/2211.02943v2)|null|
-|**2022-11-02**|**Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**|Senthil Kumar Jagatheesaperumal et.al.|[2211.01036v2](http://arxiv.org/abs/2211.01036v2)|null|
 
 #### Abstracts
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
@@ -186,6 +186,27 @@ algorithm for potential medical checks is presented and the key idea of DUCG is
 extracted.
 
 摘要：<paragraph>醫療照護中需要 AI 輔助的臨床診斷。現有的深度學習模型缺乏可解釋性，並且主要專注於影像分析。最近開發的動態不確定因果關係圖 (DUCG) 方法是因果驅動的、可解釋的，並且在不同的應用場景中是不變的，沒有資料收集、標記、擬合、隱私、偏見、概化、高成本和高能耗的問題。通過臨床專家和 DUCG 技術人員之間的密切合作，構建了涵蓋 54 個主訴的 46 個 DUCG 模型。可以在沒有分流的情況下診斷出 1,000 多種疾病。在應用於實際世界之前，46 個 DUCG 模型已由第三方醫院回溯性驗證。驗證的診斷精度不低於 95%，其中包括罕見疾病在內的每種疾病的診斷精度不低於 80%。驗證後，46 個 DUCG 模型已在中國實際應用。已經執行了超過一百萬個真實診斷案例，僅發現 17 個不正確的診斷。由於 DUCG 的透明性，發現並糾正了導致不正確診斷的錯誤。頻繁應用 DUCG 的臨床醫生的診斷能力得到了顯著提高。在介紹了前面提出的 DUCG 方法論之後，提出了潛在健康檢查的推薦演算法，並提取了 DUCG 的關鍵思想。</paragraph>
+
+##### **Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**
+2406.12897v1 by Faseela Abdullakutty, Younes Akbari, Somaya Al-Maadeed, Ahmed Bouridane, Rifat Hamoudi
+
+It is imperative that breast cancer is detected precisely and timely to
+improve patient outcomes. Diagnostic methodologies have traditionally relied on
+unimodal approaches; however, medical data analytics is integrating diverse
+data sources beyond conventional imaging. Using multi-modal techniques,
+integrating both image and non-image data, marks a transformative advancement
+in breast cancer diagnosis. The purpose of this review is to explore the
+burgeoning field of multimodal techniques, particularly the fusion of
+histopathology images with non-image data. Further, Explainable AI (XAI) will
+be used to elucidate the decision-making processes of complex algorithms,
+emphasizing the necessity of explainability in diagnostic processes. This
+review utilizes multi-modal data and emphasizes explainability to enhance
+diagnostic accuracy, clinician confidence, and patient engagement, ultimately
+fostering more personalized treatment strategies for breast cancer, while also
+identifying research gaps in multi-modality and explainability, guiding future
+studies, and contributing to the strategic direction of the field.
+
+摘要：精確且及時地偵測乳癌對於改善患者預後至關重要。診斷方法傳統上依賴於單一模式方法；然而，醫療資料分析正在整合超越傳統影像的各種資料來源。使用整合影像和非影像資料的多模式技術，標誌著乳癌診斷的變革性進展。本篇綜述的目的是探討多模式技術的新興領域，特別是將組織病理學影像與非影像資料融合。此外，可解釋人工智慧 (XAI) 將用於闡明複雜演算法的決策過程，強調診斷過程中可解釋性的必要性。本綜述利用多模式資料並強調可解釋性，以提高診斷準確性、臨床醫師的信心和患者參與度，最終促進乳癌更個人化的治療策略，同時也找出多模式和可解釋性的研究差距，引導未來的研究，並為該領域的策略方向做出貢獻。
 
 ##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
 2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
@@ -2536,27 +2557,4 @@ partner of India's Central TB Division, we are working on multiple city and
 state-level pilots with the goal of pan-India deployment.
 
 摘要：肺結核（TB），一種傳染性細菌疾病，是造成死亡的重要原因，特別是在低收入國家，據估計在 2020 年全球通報了一千萬例新病例。雖然肺結核是可以治療的，但未遵循藥物治療計畫是造成發病率和死亡率的重要原因。因此，主動找出有中斷藥物治療計畫風險的患者，能採取矯正措施來減輕不良後果。利用極端未遵循治療計畫的代理衡量指標，以及來自印度四個邦近 700,000 名患者的資料集，我們制定並解決了機器學習 (ML) 問題，根據自訂的基於排名指標，提早預測未遵循治療計畫的情況。我們訓練機器學習模型並針對基準進行評估，在考量全國規模的未來部署後，達到了比基於規則的基準高出約 100%，比隨機分類器高出約 214% 的提升。我們在過程中處理了各種問題，包括資料品質、高基數分類資料、低目標流行率、分佈轉移、不同群組間的差異、演算法公平性，以及對穩健性和可解釋性的需求。我們的研究結果表明，非遵循治療計畫患者的風險分層是一種可行的、可大規模部署的機器學習解決方案。作為印度中央肺結核部門的官方人工智慧合作夥伴，我們正在與多個城市和邦級試點合作，目標是全印度部署。
-
-##### **Explainable AI over the Internet of Things (IoT): Overview, State-of-the-Art and Future Directions**
-2211.01036v2 by Senthil Kumar Jagatheesaperumal, Quoc-Viet Pham, Rukhsana Ruby, Zhaohui Yang, Chunmei Xu, Zhaoyang Zhang
-
-Explainable Artificial Intelligence (XAI) is transforming the field of
-Artificial Intelligence (AI) by enhancing the trust of end-users in machines.
-As the number of connected devices keeps on growing, the Internet of Things
-(IoT) market needs to be trustworthy for the end-users. However, existing
-literature still lacks a systematic and comprehensive survey work on the use of
-XAI for IoT. To bridge this lacking, in this paper, we address the XAI
-frameworks with a focus on their characteristics and support for IoT. We
-illustrate the widely-used XAI services for IoT applications, such as security
-enhancement, Internet of Medical Things (IoMT), Industrial IoT (IIoT), and
-Internet of City Things (IoCT). We also suggest the implementation choice of
-XAI models over IoT systems in these applications with appropriate examples and
-summarize the key inferences for future works. Moreover, we present the
-cutting-edge development in edge XAI structures and the support of
-sixth-generation (6G) communication services for IoT applications, along with
-key inferences. In a nutshell, this paper constitutes the first holistic
-compilation on the development of XAI-based frameworks tailored for the demands
-of future IoT use cases.
-
-摘要：可解釋人工智慧 (XAI) 透過提升終端使用者對機器信任度，轉變了人工智慧 (AI) 領域。隨著連網裝置數量持續增加，物聯網 (IoT) 市場需要讓終端使用者信賴。然而，現有文獻仍缺乏對於 XAI 用於物聯網的系統性且全面的調查工作。為了彌補這個不足之處，我們在這篇論文中探討 XAI 架構，重點在於其特性和對物聯網的支援。我們說明廣泛使用的 XAI 服務，用於物聯網應用，例如安全性強化、醫療物聯網 (IoMT)、工業物聯網 (IIoT) 和城市物聯網 (IoCT)。我們也建議在這些應用中，透過適當的範例在物聯網系統上實作 XAI 模型的選擇，並總結未來工作的關鍵推論。此外，我們提出邊緣 XAI 架構的尖端發展，以及對物聯網應用第六代 (6G) 通訊服務的支援，連同關鍵推論。簡而言之，這篇論文構成第一個針對 XAI 基礎架構發展的整體彙編，專門針對未來物聯網使用案例的需求。
 

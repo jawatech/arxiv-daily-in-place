@@ -17,11 +17,11 @@
 |**2024-06-19**|**Leveraging Large Language Models for Patient Engagement: The Power of Conversational AI in Digital Health**|Bo Wen et.al.|[2406.13659v1](http://arxiv.org/abs/2406.13659v1)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625v1](http://arxiv.org/abs/2406.13625v1)|null|
 |**2024-06-19**|**Optimizing Psychological Counseling with Instruction-Tuned Large Language Models**|Wenjie Li et.al.|[2406.13617v1](http://arxiv.org/abs/2406.13617v1)|null|
-|**2024-06-19**|**Certificates of Differential Privacy and Unlearning for Gradient-Based Training**|Matthew Wicker et.al.|[2406.13433v1](http://arxiv.org/abs/2406.13433v1)|null|
-|**2024-06-19**|**Explainable by-design Audio Segmentation through Non-Negative Matrix Factorization and Probing**|Martin Lebourdais et.al.|[2406.13385v1](http://arxiv.org/abs/2406.13385v1)|null|
+|**2024-06-19**|**Certificates of Differential Privacy and Unlearning for Gradient-Based Training**|Matthew Wicker et.al.|[2406.13433v1](http://arxiv.org/abs/2406.13433v1)|[link](https://github.com/psosnin/AbstractGradientTraining)|
+|**2024-06-19**|**Explainable by-design Audio Segmentation through Non-Negative Matrix Factorization and Probing**|Martin Lebourdais et.al.|[2406.13385v1](http://arxiv.org/abs/2406.13385v1)|[link](https://github.com/Lebourdais/3MAS)|
 |**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v1](http://arxiv.org/abs/2406.13173v1)|null|
 |**2024-06-19**|**Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model**|Haojun Jiang et.al.|[2406.13165v1](http://arxiv.org/abs/2406.13165v1)|null|
-|**2024-06-19**|**Oralytics Reinforcement Learning Algorithm**|Anna L. Trella et.al.|[2406.13127v1](http://arxiv.org/abs/2406.13127v1)|null|
+|**2024-06-19**|**Oralytics Reinforcement Learning Algorithm**|Anna L. Trella et.al.|[2406.13127v1](http://arxiv.org/abs/2406.13127v1)|[link](https://github.com/StatisticalReinforcementLearningLab/oralytics_algorithm_design)|
 |**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v1](http://arxiv.org/abs/2406.13106v1)|null|
 |**2024-06-18**|**Deriving Hematological Disease Classes Using Fuzzy Logic and Expert Knowledge: A Comprehensive Machine Learning Approach with CBC Parameters**|Salem Ameen et.al.|[2406.13015v1](http://arxiv.org/abs/2406.13015v1)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|[link](https://github.com/niko-k98/awesome-list-federated-learning-review)|
@@ -52,7 +52,7 @@
 |**2024-06-15**|**Applications of Generative AI in Healthcare: algorithmic, ethical, legal and societal considerations**|Onyekachukwu R. Okonji et.al.|[2406.10632v1](http://arxiv.org/abs/2406.10632v1)|null|
 |**2024-06-15**|**Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey**|Anil Bhujel et.al.|[2406.10628v1](http://arxiv.org/abs/2406.10628v1)|null|
 |**2024-06-15**|**Self Pre-training with Topology- and Spatiality-aware Masked Autoencoders for 3D Medical Image Segmentation**|Pengfei Gu et.al.|[2406.10519v1](http://arxiv.org/abs/2406.10519v1)|null|
-|**2024-06-14**|**A Benchmark for Maximum Cut: Towards Standardization of the Evaluation of Learned Heuristics for Combinatorial Optimization**|Ankur Nath et.al.|[2406.11897v1](http://arxiv.org/abs/2406.11897v1)|null|
+|**2024-06-14**|**A Benchmark for Maximum Cut: Towards Standardization of the Evaluation of Learned Heuristics for Combinatorial Optimization**|Ankur Nath et.al.|[2406.11897v1](http://arxiv.org/abs/2406.11897v1)|[link](https://github.com/ankurnath/maxcut-bench)|
 |**2024-06-14**|**Biomarker based Cancer Classification using an Ensemble with Pre-trained Models**|Chongmin Lee et.al.|[2406.10087v1](http://arxiv.org/abs/2406.10087v1)|null|
 |**2024-06-14**|**FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain**|Jin Liu et.al.|[2406.10040v1](http://arxiv.org/abs/2406.10040v1)|[link](https://github.com/jens5588/fzi-wim-nli4ct)|
 |**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923v1](http://arxiv.org/abs/2406.09923v1)|[link](https://github.com/clibench/clibench)|

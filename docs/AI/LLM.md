@@ -40,7 +40,7 @@
 |**2024-06-20**|**Towards Truthful Multilingual Large Language Models: Benchmarking and Alignment Strategies**|Weihao Liu et.al.|[2406.14434v1](http://arxiv.org/abs/2406.14434v1)|null|
 |**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429v1](http://arxiv.org/abs/2406.14429v1)|[link](https://github.com/simeonallmendinger/collafuse)|
 |**2024-06-20**|**SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages**|Gayane Ghazaryan et.al.|[2406.14425v1](http://arxiv.org/abs/2406.14425v1)|null|
-|**2024-06-20**|**FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving**|Xiaohan Lin et.al.|[2406.14408v1](http://arxiv.org/abs/2406.14408v1)|null|
+|**2024-06-20**|**FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving**|Xiaohan Lin et.al.|[2406.14408v2](http://arxiv.org/abs/2406.14408v2)|null|
 |**2024-06-20**|**Fair Streaming Feature Selection**|Zhangling Duan et.al.|[2406.14401v1](http://arxiv.org/abs/2406.14401v1)|null|
 |**2024-06-20**|**SEC-QA: A Systematic Evaluation Corpus for Financial QA**|Viet Dac Lai et.al.|[2406.14394v1](http://arxiv.org/abs/2406.14394v1)|null|
 |**2024-06-20**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393v1](http://arxiv.org/abs/2406.14393v1)|null|
@@ -63,7 +63,7 @@
 |**2024-06-20**|**Cross-level Requirement Traceability: A Novel Approach Integrating Bag-of-Words and Word Embedding for Enhanced Similarity Functionality**|Baher Mohammad et.al.|[2406.14310v1](http://arxiv.org/abs/2406.14310v1)|null|
 |**2024-06-20**|**QuST-LLM: Integrating Large Language Models for Comprehensive Spatial Transcriptomics Analysis**|Chao Hui Huang et.al.|[2406.14307v1](http://arxiv.org/abs/2406.14307v1)|null|
 |**2024-06-20**|**AI in Space for Scientific Missions: Strategies for Minimizing Neural-Network Model Upload**|Jonah Ekelund et.al.|[2406.14297v1](http://arxiv.org/abs/2406.14297v1)|null|
-|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294v1](http://arxiv.org/abs/2406.14294v1)|null|
+|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294v2](http://arxiv.org/abs/2406.14294v2)|null|
 |**2024-06-20**|**VAIYAKARANA : A Benchmark for Automatic Grammar Correction in Bangla**|Pramit Bhattacharyya et.al.|[2406.14284v1](http://arxiv.org/abs/2406.14284v1)|null|
 |**2024-06-20**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283v1](http://arxiv.org/abs/2406.14283v1)|null|
 |**2024-06-20**|**Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**|Junjie Wang et.al.|[2406.14282v1](http://arxiv.org/abs/2406.14282v1)|null|
@@ -77,7 +77,7 @@
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232v1](http://arxiv.org/abs/2406.14232v1)|null|
 |**2024-06-20**|**Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**|Han Jiang et.al.|[2406.14230v1](http://arxiv.org/abs/2406.14230v1)|null|
 |**2024-06-20**|**EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**|Siyu Yuan et.al.|[2406.14228v1](http://arxiv.org/abs/2406.14228v1)|null|
-|**2024-06-20**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214v1](http://arxiv.org/abs/2406.14214v1)|[link](https://github.com/cruiseresearchgroup/reveal-it)|
+|**2024-06-20**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214v2](http://arxiv.org/abs/2406.14214v2)|[link](https://github.com/cruiseresearchgroup/reveal-it)|
 |**2024-06-20**|**Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task**|Alsu Sagirova et.al.|[2406.14213v1](http://arxiv.org/abs/2406.14213v1)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208v1](http://arxiv.org/abs/2406.14208v1)|null|
 |**2024-06-20**|**On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning**|Franz Nowak et.al.|[2406.14197v1](http://arxiv.org/abs/2406.14197v1)|null|
@@ -97,7 +97,7 @@
 |**2024-06-20**|**MACAROON: Training Vision-Language Models To Be Your Engaged Partners**|Shujin Wu et.al.|[2406.14137v1](http://arxiv.org/abs/2406.14137v1)|null|
 |**2024-06-20**|**Enhancing Monotonic Modeling with Spatio-Temporal Adaptive Awareness in Diverse Marketing**|Bin Li et.al.|[2406.14132v1](http://arxiv.org/abs/2406.14132v1)|null|
 |**2024-06-20**|**Towards Event-oriented Long Video Understanding**|Yifan Du et.al.|[2406.14129v1](http://arxiv.org/abs/2406.14129v1)|[link](https://github.com/rucaibox/event-bench)|
-|**2024-06-20**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124v1](http://arxiv.org/abs/2406.14124v1)|null|
+|**2024-06-20**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124v2](http://arxiv.org/abs/2406.14124v2)|null|
 |**2024-06-20**|**EduQate: Generating Adaptive Curricula through RMABs in Education Settings**|Sidney Tio et.al.|[2406.14122v1](http://arxiv.org/abs/2406.14122v1)|null|
 |**2024-06-20**|**An Investigation of Prompt Variations for Zero-shot LLM-based Rankers**|Shuoqi Sun et.al.|[2406.14117v1](http://arxiv.org/abs/2406.14117v1)|[link](https://github.com/ielab/zeroshot-rankers-prompt-variations)|
 |**2024-06-20**|**Take the essence and discard the dross: A Rethinking on Data Selection for Fine-Tuning Large Language Models**|Ziche Liu et.al.|[2406.14115v1](http://arxiv.org/abs/2406.14115v1)|null|
@@ -979,7 +979,7 @@ and can be used to evaluate reasoning capabilities in low-resource language.
 摘要：問答 (QA) 資料集對於開發和評估大型語言模型 (LLM) 能力發揮了至關重要的作用。然而，由於收集和手動標註的成本和難度，此類資料集對於英語以外的語言來說非常稀少。這表示製作新穎模型和衡量低資源語言中多語言 LLM 的效能具有挑戰性。為了減輕這種情況，我們提出了 $\textbf{S}$yn$\textbf{DAR}$in，一種用於為低資源語言產生和驗證 QA 資料集的方法。我們利用平行內容探勘來取得英語和目標語言之間的「人工策展」段落。我們使用英語資料作為背景來「產生」合成的多重選擇 (MC) 問題-答案對，這些對會自動翻譯並進一步驗證品質。將這些對與其指定的非英語「人工策展」段落結合，即可形成最終的 QA 資料集。此方法允許維持內容品質、降低事實錯誤的可能性，並規避昂貴標註的需求。為了測試此方法，我們為亞美尼亞語建立了一個包含 $1.2$K 個範例的 QA 資料集。人工評估顯示，98% 的產生式英語資料在問題類型和主題中維持了品質和多樣性，而翻譯驗證管線可以濾除約 70% 品質不佳的資料。我們使用此資料集來評量最先進的 LLM，顯示出它們無法達到人類準確度，有些模型效能接近隨機機會。這顯示產生的資料集並非微不足道，而且可以用於評估低資源語言中的推理能力。
 
 ##### **FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving**
-2406.14408v1 by Xiaohan Lin, Qingxing Cao, Yinya Huang, Haiming Wang, Jianqiao Lu, Zhengying Liu, Linqi Song, Xiaodan Liang
+2406.14408v2 by Xiaohan Lin, Qingxing Cao, Yinya Huang, Haiming Wang, Jianqiao Lu, Zhengying Liu, Linqi Song, Xiaodan Liang
 
 Formal verification (FV) has witnessed growing significance with current
 emerging program synthesis by the evolving large language models (LLMs).
@@ -1003,8 +1003,8 @@ Llama3- 8B solves 17.39% (69 -> 81) more problems, and Mistral-7B 12% (75 ->
 84) more problems in SV-COMP. And the proportion of proof errors is reduced.
 Project page: https://fveler.github.io/.
 
-摘要：<paragraph>形式驗證 (FV) 已見證了當前大型語言模型 (LLM) 發展的程式合成日益重要。
-然而，目前的正式驗證主要依賴於符號驗證器或手工規則，導致廣泛且靈活驗證的限制。另一方面，用於自動定理證明，例如 Isabelle 的形式語言，作為另一種嚴格驗證，使用全面的規則和定理來維護。在本文中，我們提出 FVEL，一個與 LLM 互動的形式驗證環境。具體來說，FVEL 將給定的要驗證的代碼轉換為 Isabelle，然後通過使用 LLM 的神經自動定理證明進行驗證。結合的範例利用了 Isabelle 中嚴謹而豐富的公式化和組織規則，並且便於引入和調整尖端的 LLM。為了實現這個目標，我們提取了一個大規模的 FVELER3。FVELER 資料集包括以 Isabelle 制定的代碼依賴性和驗證過程，總共包含 758 個理論、29,125 個引理和 200,646 個證明步驟以及深入的依賴性。我們在 FVEL 環境中使用 FVELER 對 FVELER 進行基準測試，首先使用 FVELER 對 LLM 進行微調，然後在 Code2Inv 和 SV-COMP 上對它們進行評估。結果表明，使用 FVELER 微調的 FVEL Llama3-8B 解決了 17.39%（69 -> 81）更多問題，而 Mistral-7B 12%（75 -> 84）更多問題在 SV-COMP 中。並且證明錯誤的比例減少了。專案頁面：https://fveler.github.io/。</paragraph>
+摘要：<paragraph>形式化驗證 (FV) 隨著大型語言模型 (LLM) 不斷發展而見證了日益增長的顯著性。
+然而，目前的正式驗證主要依賴於符號驗證器或手工製作規則，這導致了廣泛且靈活驗證的限制。另一方面，用於自動定理證明（例如 Isabelle）的形式化語言作為另一種嚴格驗證，通過全面的規則和定理來維護。在本文中，我們提出了 FVEL，一個帶有 LLM 的互動式形式化驗證環境。具體來說，FVEL 將給定的待驗證程式碼轉換為 Isabelle，然後通過使用 LLM 進行神經自動定理證明來進行驗證。結合的範例利用了 Isabelle 中嚴謹且豐富的公式化和組織化規則，並且便於引入和調整尖端的 LLM。為了實現這一目標，我們提取了一個大型 FVELER3。FVELER 資料集包括用 Isabelle 制定的程式碼依賴關係和驗證過程，總共包含 758 個理論、29,125 個引理和 200,646 個證明步驟，並具有深入的依賴關係。我們通過首先使用 FVELER 微調 LLM，然後在 Code2Inv 和 SV-COMP 上對它們進行評估，在 FVEL 環境中對 FVELER 進行基準測試。結果表明，使用 FVELER 微調的 FVEL Llama3-8B 解決了 17.39%（69 -> 81）更多的問題，而 Mistral-7B 在 SV-COMP 中解決了 12%（75 -> 84）更多的問題。並且證明錯誤的比例減少了。專案頁面：https://fveler.github.io/。</paragraph>
 
 ##### **Fair Streaming Feature Selection**
 2406.14401v1 by Zhangling Duan, Tianci Li, Xingyu Wu, Zhaolong Ling, Jingye Yang, Zhaohong Jia
@@ -1520,7 +1520,7 @@ points.
 摘要：人工智慧 (AI) 有潛力透過將多項太空船決策委派給機載 AI，而非依賴地面控制和預先定義的程序，進而徹底改變太空探索。太空船上很可能會有一個搭載推理引擎的 AI/ML 處理單元。神經網路會預先安裝可透過上傳、遙控命令更新的參數，這些參數是透過地面訓練取得的。然而，衛星上行鏈路頻寬有限，傳輸可能很昂貴。此外，使用次佳神經網路執行的任務會錯失有價值的科學資料。較小的網路可以降低上行鏈路成本，同時增加下載的科學資料價值。在這項工作中，我們評估並討論使用降精度和極簡神經網路來縮短上傳時間。以 AI 使用案例為例，我們專注於 NASA 的磁層多尺度 (MMS) 任務。我們展示機載 AI 如何在行星磁層中用於分類資料，以選擇性地下傳較高價值的資料，或辨識感興趣區域以觸發爆發模式，以高頻率收集資料。我們使用簡單的篩選機制和演算法，展示如何在分類串流中偵測感興趣區域的開始和結束。為了提供分類，我們使用訓練至準確度 >94% 的已建立卷積神經網路 (CNN)。我們也展示如何將網路縮小為單一線性層，並訓練至與已建立 CNN 相同的準確度。藉此將模型的整體大小減少多達 98.9%。我們進一步展示如何透過使用低精度格式來表示網路參數，將每個網路縮小至其原始大小的 75%，而準確度變化不到 0.6 個百分點。
 
 ##### **DASB -- Discrete Audio and Speech Benchmark**
-2406.14294v1 by Pooneh Mousavi, Luca Della Libera, Jarod Duret, Artem Ploujnikov, Cem Subakan, Mirco Ravanelli
+2406.14294v2 by Pooneh Mousavi, Luca Della Libera, Jarod Duret, Artem Ploujnikov, Cem Subakan, Mirco Ravanelli
 
 Discrete audio tokens have recently gained considerable attention for their
 potential to connect audio and language processing, enabling the creation of
@@ -1540,7 +1540,7 @@ tasks. However, the performance gap between semantic tokens and standard
 continuous representations remains substantial, highlighting the need for
 further research in this field.
 
-摘要：離散音訊代碼最近獲得相當多的關注，因為它們有潛力連結音訊和語言處理，進而建立現代多模態大型語言模型。理想的音訊代碼必須有效保留音標和語義內容，以及語言外的資訊、說話者身分和其他細節。雖然最近已提出數種類型的音訊代碼，但由於現有研究中的評估設定不一致，因此找出各種任務的最佳代碼化器具有挑戰性。為了解決這個問題，我們發布了離散音訊和語音基準 (DASB)，這是一個全面的排行榜，用於評量各種離散音訊代碼，涵蓋廣泛的區分任務，包括語音辨識、說話者識別和驗證、情緒辨識、關鍵字點選和意圖分類，以及產生任務，例如語音增強、分離和文字轉語音。我們的結果顯示，平均來說，語義代碼在大部分區分和產生任務中都優於壓縮代碼。然而，語義代碼和標準連續表示之間的效能差距仍然很大，這凸顯了進一步研究此領域的必要性。
+摘要：離散音訊標記最近因其連接音訊和語言處理的潛力而受到廣泛關注，讓建立現代多模式大型語言模型成為可能。理想的音訊標記必須有效保留語音和語義內容，以及副語言資訊、說話者身分和其他細節。雖然最近已提出數種類型的音訊標記，但由於現有研究中評估設定不一致，因此找出各種任務的最佳標記器是一項挑戰。為了解決這個差距，我們發布了離散音訊和語音基準 (DASB)，這是一個全面的排行榜，用於評比各種區分性任務中的離散音訊標記，包括語音辨識、說話者辨識和驗證、情緒辨識、關鍵字定位和意圖分類，以及生成性任務，例如語音增強、分離和文字轉語音。我們的結果顯示，平均而言，語義標記在大部分區分性和生成性任務中都優於壓縮標記。然而，語義標記和標準連續表示之間的效能差距仍然很大，突顯了進一步研究此領域的必要性。
 
 ##### **VAIYAKARANA : A Benchmark for Automatic Grammar Correction in Bangla**
 2406.14284v1 by Pramit Bhattacharyya, Arnab Bhattacharya
@@ -1842,7 +1842,7 @@ capabilities of LLM-based agents.
 摘要：強大的大型語言模型 (LLM) 的興起，刺激了建立基於 LLM 的自主代理來解決複雜任務的新趨勢，尤其是多代理系統。儘管取得了顯著進展，我們注意到現有作品嚴重依賴於人類設計的框架，這極大地限制了代理系統的功能範圍和可擴展性。如何自動將專用代理擴展到多代理系統以提高任務解決能力仍然是一個重大的挑戰。在本文中，我們介紹了 EvoAgent，這是一種通過演算法自動將專家代理擴展到多代理系統的通用方法，從而提高了基於 LLM 的代理在解決任務中的有效性。具體來說，我們將現有的代理框架視為初始個體，然後應用一系列演化運算子（例如，突變、交叉、選擇等）來生成具有不同代理設定的多個代理。EvoAgent 可以推廣到任何基於 LLM 的代理框架，並且可以自動將現有的代理框架擴展到多代理系統，而無需任何額外的人工設計。跨各種任務的實驗結果表明，EvoAgent 可以自動生成多個專家代理，並顯著增強基於 LLM 的代理的任務解決能力。
 
 ##### **REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**
-2406.14214v1 by Shuang Ao, Simon Khan, Haris Aziz, Flora D. Salim
+2406.14214v2 by Shuang Ao, Simon Khan, Haris Aziz, Flora D. Salim
 
 Understanding the agent's learning process, particularly the factors that
 contribute to its success or failure post-training, is crucial for
@@ -1862,7 +1862,7 @@ the policy, providing a more clear and robust explanation of the agent's
 learning process. The experiments demonstrate that explanations derived from
 this framework can effectively help in the optimization of the
 
-摘要：了解代理的學習過程，特別是導致其在訓練後成功或失敗的因素，對於理解代理決策過程背後的原理至關重要。先前的研究方法透過建立結構性因果模型 (SCM) 或視覺化呈現價值函數的分布，來釐清學習過程。然而，這些方法有其限制，因為它們只能用於 2D 環境或具有簡單轉換動態的環境。在複雜的環境或任務中了解代理的學習過程更具挑戰性。在本文中，我們提出了 REVEAL-IT，這是一個用於解釋代理在複雜環境中學習過程的新框架。最初，我們將策略結構和代理在各種訓練任務中的學習過程視覺化。透過視覺化這些發現，我們可以了解特定訓練任務或階段如何影響代理在測試中的表現。接著，一個基於 GNN 的解釋器會學習強調策略中最重要的部分，提供更清晰且穩健的代理學習過程說明。實驗證明，從這個框架中衍生的說明可以有效地幫助最佳化
+摘要：了解代理的學習過程，尤其是促成其訓練後成功或失敗的因素，對於理解代理決策制定過程背後的原理至關重要。先前的研究方法通過建立結構因果模型 (SCM) 或視覺化表示價值函數的分布來釐清學習過程。然而，這些方法存在限制，因為它們僅在 2D 環境或具有簡單轉換動態的情況下運作。了解代理在複雜環境或任務中的學習過程更具挑戰性。在本文中，我們提出 REVEAL-IT，這是一個新的框架，用於解釋代理在複雜環境中的學習過程。最初，我們視覺化策略結構和代理的學習過程，以進行各種訓練任務。通過視覺化這些發現，我們可以了解特定的訓練任務或階段如何影響代理在測試中的表現。然後，基於 GNN 的解釋器學會突出策略中最重要的部分，對代理的學習過程提供更清晰且穩健的解釋。實驗表明，從這個框架中得出的解釋可以有效地幫助優化
 
 ##### **Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task**
 2406.14213v1 by Alsu Sagirova, Mikhail Burtsev
@@ -2280,7 +2280,7 @@ https://github.com/RUCAIBox/Event-Bench.
 https://github.com/RUCAIBox/Event-Bench 公開取得。
 
 ##### **Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**
-2406.14124v1 by Minsang Kim, Seungjun Baek
+2406.14124v2 by Minsang Kim, Seungjun Baek
 
 Compute-efficient training of large language models (LLMs) has become an
 important research problem. In this work, we consider data pruning as a method
@@ -2295,7 +2295,7 @@ information-based pruning can enhance the generalization capability of the
 model, improves upon language modeling and downstream tasks as compared to the
 model trained on the entire dataset.
 
-摘要：大型語言模型 (LLM) 的運算效率訓練已成為一項重要的研究問題。在本研究中，我們將資料修剪視為資料效率訓練 LLM 的一種方法，其中我們採用資料壓縮的觀點來看待資料修剪。我們認為樣本的資訊量，或其描述長度可達到的壓縮率，代表其樣本重要性。關鍵在於，資訊量較少的樣本很可能包含冗餘資訊，因此應優先予以修剪。我們利用訓練模型的對數似然函數作為衡量樣本資訊含量的替代方法。實驗揭露了一個令人驚訝的見解，即基於資訊的修剪可以增強模型的泛化能力，與在整個資料集上訓練的模型相比，它改善了語言建模和下游任務。
+摘要：大型語言模型 (LLM) 的計算效率訓練已成為一個重要的研究問題。在這項工作中，我們將資料修剪視為一種資料效率訓練 LLM 的方法，我們對資料修剪採取資料壓縮的觀點。我們認為樣本的資訊量，或其描述長度可達成的壓縮，代表其樣本重要性。關鍵在於，資訊量較少的樣本可能包含重複的資訊，因此應首先予以修剪。我們利用訓練模型的對數似然函數作為衡量樣本資訊含量的替代方法。實驗揭示了一個驚人的見解，即基於資訊的修剪可以增強模型的泛化能力，與在整個資料集上訓練的模型相比，它改進了語言建模和下游任務。
 
 ##### **EduQate: Generating Adaptive Curricula through RMABs in Education Settings**
 2406.14122v1 by Sidney Tio, Dexun Li, Pradeep Varakantham

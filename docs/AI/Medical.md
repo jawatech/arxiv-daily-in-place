@@ -22,7 +22,7 @@
 |**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v1](http://arxiv.org/abs/2406.13173v1)|null|
 |**2024-06-19**|**Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model**|Haojun Jiang et.al.|[2406.13165v1](http://arxiv.org/abs/2406.13165v1)|null|
 |**2024-06-19**|**Oralytics Reinforcement Learning Algorithm**|Anna L. Trella et.al.|[2406.13127v1](http://arxiv.org/abs/2406.13127v1)|[link](https://github.com/StatisticalReinforcementLearningLab/oralytics_algorithm_design)|
-|**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v1](http://arxiv.org/abs/2406.13106v1)|null|
+|**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v2](http://arxiv.org/abs/2406.13106v2)|null|
 |**2024-06-18**|**Deriving Hematological Disease Classes Using Fuzzy Logic and Expert Knowledge: A Comprehensive Machine Learning Approach with CBC Parameters**|Salem Ameen et.al.|[2406.13015v1](http://arxiv.org/abs/2406.13015v1)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|[link](https://github.com/niko-k98/awesome-list-federated-learning-review)|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
@@ -59,7 +59,7 @@
 |**2024-06-14**|**A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations**|Jinqiang Wang et.al.|[2406.10303v1](http://arxiv.org/abs/2406.10303v1)|null|
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
 |**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105v1](http://arxiv.org/abs/2406.09105v1)|[link](https://github.com/fdu-ins/ins-mmbench)|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v3](http://arxiv.org/abs/2406.09014v3)|null|
 |**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
 |**2024-06-13**|**Computer Vision Approaches for Automated Bee Counting Application**|Simon Bilik et.al.|[2406.08898v1](http://arxiv.org/abs/2406.08898v1)|null|
 |**2024-06-13**|**Automatically Labeling $200B Life-Saving Datasets: A Large Clinical Trial Outcome Benchmark**|Chufan Gao et.al.|[2406.10292v1](http://arxiv.org/abs/2406.10292v1)|null|
@@ -76,8 +76,8 @@
 |**2024-06-11**|**Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v1](http://arxiv.org/abs/2406.07114v1)|null|
 |**2024-06-11**|**Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets**|Chenxia Tang et.al.|[2406.07028v1](http://arxiv.org/abs/2406.07028v1)|null|
 |**2024-06-10**|**Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss**|Kiran Kokilepersaud et.al.|[2406.06848v1](http://arxiv.org/abs/2406.06848v1)|null|
-|**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835v1](http://arxiv.org/abs/2406.07835v1)|null|
-|**2024-06-10**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786v2](http://arxiv.org/abs/2406.06786v2)|null|
+|**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835v2](http://arxiv.org/abs/2406.07835v2)|null|
+|**2024-06-10**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786v2](http://arxiv.org/abs/2406.06786v2)|[link](https://github.com/kaen2891/bts)|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474v1](http://arxiv.org/abs/2406.06474v1)|null|
@@ -573,7 +573,7 @@ from fall 2023 to summer 2024.
 摘要：牙科疾病仍然是美國最常見的慢性疾病之一。雖然牙科疾病可透過健康的口腔自我保健行為（OSCB）預防，但這種基本行為並未持續實行。我們開發出 Oralytics，一種線上強化學習（RL）演算法，可最佳化個人化介入提示的傳遞，以改善 OSCB。在本文中，我們將全面概述演算法設計決策，這些決策是使用先前的資料、領域專業知識和模擬測試平台中的實驗所做出的。最終的 RL 演算法已部署在 Oralytics 臨床試驗中，該試驗於 2023 年秋季至 2024 年夏季進行。
 
 ##### **Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**
-2406.13106v1 by Ahmed Abdeen Hamed, Tamer E. Fandy, Xindong Wu
+2406.13106v2 by Ahmed Abdeen Hamed, Tamer E. Fandy
 
 The objective of this research is to introduce a network specialized in
 predicting drugs that can be repurposed by investigating real-world evidence
@@ -599,7 +599,7 @@ noteworthy that ChatGPT successfully accelerated the process of identifying
 drug mentions in clinical trials, though further investigations are required to
 determine the relationships among the drug mentions.
 
-摘要：本研究的目的是建立一個專門預測可透過調查真實世界證據來源（例如臨床試驗和生物醫學文獻）來重新利用的藥物的網路。具體來說，其目的是為複雜疾病（例如癌症、阿茲海默症）產生藥物組合療法。我們提出了一種多層網路醫學方法，由高度配置的 ChatGPT 提示工程系統提供支援，該系統會即時建構以萃取臨床試驗中的藥物提及。此外，我們還引入了一種新的演算法，將真實世界證據與特定疾病的訊號通路（例如 KEGG 資料庫）連結起來。如果發現藥物與訊號通路的某一種或多種蛋白質成分結合，這將有助於了解藥物的可再利用性。為了示範，我們為乳癌建立了架構，並發現，在 46 條乳癌訊號通路中，該架構識別出 38 條至少被兩種藥物涵蓋的通路。此證據表明將這些藥物結合起來的可能性。具體來說，涵蓋範圍最廣的訊號通路 ID hsa:2064 被 108 種藥物涵蓋，其中一些可以組合。相反地，訊號通路 ID hsa:1499 僅被兩種藥物涵蓋，這表示有很大的研究空缺。我們的網路醫學架構由 GenAI 提供支援，在識別具有高度特異性的藥物組合方面顯示出前景，了解作為目標的精確訊號通路和蛋白質。值得注意的是，儘管需要進一步的調查來確定藥物提及之間的關係，但 ChatGPT 成功地加速了在臨床試驗中識別藥物提及的過程。
+摘要：本研究的目標是介紹一個專門用於預測藥物，可透過研究實際證據來源（例如臨床試驗和生物醫學文獻）重新利用的網路。具體來說，其目標是為複雜疾病（例如癌症、阿茲海默症）產生藥物組合療法。我們提出一個多層網路醫學方法，由一個高度配置的 ChatGPT 提示工程系統強化，該系統在執行中建構，用於萃取臨床試驗中的藥物提及。此外，我們介紹一種新的演算法，將實際證據與疾病特定訊號傳遞路徑（例如 KEGG 資料庫）連結起來。如果發現藥物與訊號傳遞路徑的一個或多個蛋白質成分結合，這將有助於了解藥物的再利用性。為了示範，我們為乳癌實例化架構，發現出 46 條乳癌訊號傳遞路徑中，該架構識別出 38 條至少被兩種藥物涵蓋的路徑。此證據表明結合這些藥物的可能性。具體來說，涵蓋最廣的訊號傳遞路徑 ID hsa:2064，涵蓋了 108 種藥物，其中一些可以合併。相反地，訊號傳遞路徑 ID hsa:1499 僅涵蓋兩種藥物，這表示有重大差距需要進一步研究。我們的網路醫學架構由 GenAI 強化，在識別具有高度特異性的藥物組合方面顯示出前景，了解作為目標的精確訊號傳遞路徑和蛋白質。值得注意的是，ChatGPT 成功加速了識別臨床試驗中藥物提及的過程，儘管需要進一步調查以確定藥物提及之間的關係。
 
 ##### **Deriving Hematological Disease Classes Using Fuzzy Logic and Expert Knowledge: A Comprehensive Machine Learning Approach with CBC Parameters**
 2406.13015v1 by Salem Ameen, Ravivarman Balachandran, Theodoros Theodoridis
@@ -1501,7 +1501,7 @@ evaluation code are available at https://github.com/FDU-INS/INS-MMBench.
 摘要：大型视觉语言模型 (LVLMs) 已在图像识别和视觉推理等各种通用多模态应用程序中展示了出色的性能，并且在专门的领域中也显示出有希望的潜力。然而，LVLMs 在保险领域（以丰富的应用场景和大量多模态数据为特征）的应用潜力尚未得到有效探索。目前还没有对保险领域的模态任务进行系统的审查，也没有专门设计用来评估 LVLMs 在保险中的能力的基准。这种差距阻碍了 LVLMs 在保险领域的开发。在本文中，我们系统地审查和提炼了四种代表性保险类型的多模态任务：汽车保险、财产保险、健康保险和农业保险。我们提出了 INS-MMBench，这是第一个针对保险领域定制的综合 LVLMs 基准。INS-MMBench 包含总共 2.2K 个经过精心设计的单选题，涵盖 12 个元任务和 22 个基本任务。此外，我们评估了多种代表性 LVLMs，包括封闭源模型（如 GPT-4o）和开放源模型（如 BLIP-2）。此评估不仅验证了我们基准的有效性，还提供了当前 LVLMs 在保险领域各种多模态任务上的深入性能分析。我们希望 INS-MMBench 将促进 LVLMs 在保险领域的进一步应用，并激发跨学科发展。我们的数据集和评估代码可在 https://github.com/FDU-INS/INS-MMBench 获得。
 
 ##### **Deep learning empowered sensor fusion to improve infant movement classification**
-2406.09014v2 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
+2406.09014v3 by Tomas Kulvicius, Dajie Zhang, Luise Poustka, Sven Bölte, Lennart Jahn, Sarah Flügge, Marc Kraft, Markus Zweckstetter, Karin Nielsen-Saines, Florentin Wörgötter, Peter B Marschik
 
 There is a recent boom in the development of AI solutions to facilitate and
 enhance diagnostic procedures for established clinical tools. To assess the
@@ -1527,7 +1527,7 @@ development of a robust sensor fusion system may significantly enhance AI-based
 early recognition of neurofunctions, ultimately facilitating automated early
 detection of neurodevelopmental conditions.
 
-摘要：近來，促進並提升既有臨床工具的診斷程序的人工智慧解決方案發展蓬勃。為了評估發育中神經系統的完整性，Prechtl 全般動作評估 (GMA) 因其在診斷嬰兒早期神經損傷的臨床價值而受到肯定。GMA 已透過機器學習方法持續擴充，旨在擴大其應用範圍，規避人類評估人員培訓的成本，並進一步標準化自發性動作模式的分類。現有的深度學習工具，全部都基於單一感測器模式，但仍遠遜於訓練有素的人類評估人員。這些方法難以比較，因為所有模型都是在專有/孤立資料集上設計、訓練和評估的。透過這項研究，我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，並比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後融合和早融合），用於嬰兒動作分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的效能（分類準確度為 94.5%）顯著高於評估的任何單一模式，這表示感測器融合方法是自動化分類嬰兒動作模式的一個有前途的方法。健全的感測器融合系統的發展可能會顯著提升基於人工智慧的早期神經功能辨識，最終促進神經發展狀況的自動化早期偵測。
+摘要：近來，促進並改善既有臨床工具的診斷程序的人工智慧解決方案發展迅速。為了評估神經系統的完整性，Prechtl 全般運動評估 (GMA) 以其在診斷嬰兒早期神經損傷方面的臨床價值而獲得認可。GMA 已透過機器學習方法持續增強，旨在擴大其應用範圍，規避培訓人類評估員的成本，並進一步標準化自發性運動模式的分類。現有的深度學習工具，所有這些工具都基於單一感測器模式，然而仍遠遜於訓練有素的人類評估員。這些方法幾乎無法比較，因為所有模型都是在專有/孤島資料集上設計、訓練和評估的。透過這項研究，我們提出了一種感測器融合方法，用於評估坐立不安的動作 (FM)，比較三種不同的感測器模式（壓力、慣性和視覺感測器）。測試了各種組合和兩種感測器融合方法（後期融合和早期融合），用於嬰兒動作分類，以評估多感測器系統是否優於單一模式評估。三感測器融合的效能（分類準確度為 94.5%）顯著高於任何評估的單一模式，這表明感測器融合方法是自動分類嬰兒運動模式的有前景途徑。健全的感測器融合系統的開發可能會顯著增強基於人工智慧的早期神經功能識別，最終促進神經發育狀況的自動早期檢測。
 
 ##### **Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**
 2406.08930v1 by Qihan Hu, Daomiao Wang, Hong Wu, Jian Liu, Cuiwei Yang
@@ -1913,7 +1913,7 @@ that show performance improvements by as much as 7%.
 摘要：在這項工作中，我們提出了一種新穎的監督對比損失，它可以在表示學習過程中整合分類層級資訊。監督對比損失透過強制具有相同類別標籤（正樣本）的影像比具有不同類別標籤（負樣本）的影像更接近彼此來運作。這種方法的優點是它直接懲罰表示空間本身的結構。這使得在編碼語意概念方面具有更大的靈活性。然而，標準的監督對比損失僅根據下游任務（即類別標籤）來強制語意結構。實際上，類別標籤只是稱為分類法的一種不同語意關係層級中的其中一層。例如，類別標籤通常是動物的物種，但在不同的類別之間存在更高階的關係，例如所有有翅膀的動物都是「鳥類」。我們表明，透過在對比損失中使用加權懲罰來明確說明這些關係，我們可以優於監督對比損失。此外，我們展示了分類法概念的適應性，方法是將我們的損失整合到醫療和基於雜訊的設定中，這些設定顯示效能提升了 7%。
 
 ##### **SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**
-2406.07835v1 by David Wadden, Kejian Shi, Jacob Morrison, Aakanksha Naik, Shruti Singh, Nitzan Barzilay, Kyle Lo, Tom Hope, Luca Soldaini, Shannon Zejiang Shen, Doug Downey, Hannaneh Hajishirzi, Arman Cohan
+2406.07835v2 by David Wadden, Kejian Shi, Jacob Morrison, Aakanksha Naik, Shruti Singh, Nitzan Barzilay, Kyle Lo, Tom Hope, Luca Soldaini, Shannon Zejiang Shen, Doug Downey, Hannaneh Hajishirzi, Arman Cohan
 
 We present SciRIFF (Scientific Resource for Instruction-Following and
 Finetuning), a dataset of 137K instruction-following demonstrations for 54
@@ -1936,7 +1936,7 @@ researchers navigate the ever-growing body of scientific literature. We release
 our dataset, model checkpoints, and data processing and evaluation code to
 enable further research.
 
-摘要：<paragraph>我們提出 SciRIFF（科學資源，用於遵循說明和微調），這是一個包含 137K 遵循說明的示範資料集，涵蓋 54 項任務，涵蓋五項重要的科學文獻理解能力：資訊擷取、摘要、問答、聲明驗證和分類。SciRIFF 示範以其長的輸入內容、詳細的任務規格和複雜的結構化輸出而聞名。雖然特定領域（例如臨床醫學和化學）有遵循說明的資源，但 SciRIFF 是第一個專注於從各種科學領域的研究文獻中提取和綜合資訊的資料集。為了展示 SciRIFF 的效用，我們制定了一種樣本有效率的策略，透過在一般領域和 SciRIFF 示範的組合上執行額外的微調，來調整一般遵循說明的模型以適應科學。在九項已暫停的科學任務的評估中，我們的模型（稱為 SciTulu）在 7B 和 70B 規模分別比強大的 LLM 基準提高了 28.1% 和 6.5%，同時將一般遵循說明的效能維持在基準的 2% 以內。我們樂觀地認為 SciRIFF 將有助於開發和評估 LLM，以幫助研究人員瀏覽不斷增長的科學文獻。我們釋出我們的資料集、模型檢查點，以及資料處理和評估程式碼，以利進一步的研究。</paragraph>
+摘要：<paragraph>我們提出 SciRIFF（科學資源，用於遵循說明和微調），這是一個包含 137K 個遵循說明的範例資料集，涵蓋 54 項任務，涵蓋五項基本科學文獻理解能力：資訊萃取、摘要、問答、聲明驗證和分類。SciRIFF 範例以其長的輸入脈絡、詳細的任務規格和複雜的結構化輸出而著稱。雖然遵循說明的資源可在特定領域（例如臨床醫學和化學）中取得，但 SciRIFF 是第一個專注於從廣泛科學領域的研究文獻中萃取和綜合資訊的資料集。為了展示 SciRIFF 的效用，我們開發了一種樣本有效率的策略，以適應一般的遵循說明模型，用於科學，方法是在一般領域和 SciRIFF 範例的組合上執行額外的微調。在對九項已暫停的科學任務的評估中，我們的模型（稱為 SciTulu）在 7B 和 70B 規模分別比強大的 LLM 基準提高了 28.1% 和 6.5%，同時將一般的遵循說明效能維持在基準的 2% 以內。我們樂觀地認為，SciRIFF 將有助於促進 LLM 的開發和評估，以協助研究人員瀏覽不斷增長的科學文獻。我們釋出我們的資料集、模型檢查點，以及資料處理和評估程式碼，以利進一步的研究。</paragraph>
 
 ##### **BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**
 2406.06786v2 by June-Woo Kim, Miika Toikkanen, Yera Choi, Seoung-Eun Moon, Ho-Young Jung

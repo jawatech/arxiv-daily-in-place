@@ -25,7 +25,7 @@
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|[link](https://github.com/victor812-hub/entity_datasets)|
-|**2024-06-17**|**Move Beyond Triples: Contextual Knowledge Graph Representation and Reasoning**|Chengjin Xu et.al.|[2406.11160v1](http://arxiv.org/abs/2406.11160v1)|null|
+|**2024-06-17**|**Contextual Knowledge Graph**|Chengjin Xu et.al.|[2406.11160v2](http://arxiv.org/abs/2406.11160v2)|null|
 |**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v2](http://arxiv.org/abs/2406.11131v2)|[link](https://github.com/ysunbp/taxoglimpse)|
 |**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
@@ -643,8 +643,8 @@ generated LRL RE datasets.
 
 摘要：關係抽取 (RE) 是一種將非結構化文本轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。它在各種下游任務中扮演著重要的角色，突顯了它的重要性。除了基於神經網路和預先訓練語言模型的傳統 RE 方法外，大型語言模型 (LLM) 也被用於 RE 的研究領域中。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。為了解決這個問題，本文在三個區域（中亞、東南亞和中東）中的 10 種 LRL 中建構了低資源關係抽取資料集。語料庫是透過使用有效的多語言機器翻譯，來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行了一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
 
-##### **Move Beyond Triples: Contextual Knowledge Graph Representation and Reasoning**
-2406.11160v1 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
+##### **Contextual Knowledge Graph**
+2406.11160v2 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
 
 Knowledge Graphs (KGs) are foundational structures in many AI applications,
 representing entities and their interrelations through triples. However,
@@ -667,7 +667,7 @@ performance on KG completion (KGC) and KG question answering (KGQA) tasks,
 validating the effectiveness of incorporating contextual information on KG
 representation and reasoning.
 
-摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的背景資訊，例如時間動態和來源詳細資料，這些對於全面的知識表示和有效推理至關重要。相反地，**背景知識圖譜** (CKG) 透過整合時間有效性、地理位置和來源出處等額外資訊，來擴充傳統結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能夠提供更豐富的見解並支援更精密的推理流程。在這項工作中，我們首先討論基於三元組的 KG 的內在限制，並介紹背景 KG 的概念，強調它們在知識表示和推理上的優點。然後我們提出**KGR$^3$，一種背景豐富的 KG 推理範例**，它利用大型語言模型 (LLM) 來擷取候選實體和相關背景，根據擷取的資訊對它們進行排名，並推論是否已取得足夠的資訊來回答查詢。我們的實驗結果證明，KGR$^3$ 大幅提升了 KG 完成 (KGC) 和 KG 問題解答 (KGQA) 任務的效能，驗證了將背景資訊納入 KG 表示和推理的有效性。
+摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的背景資訊，例如時間動態和來源細節，這些資訊對於全面的知識表徵和有效的推理至關重要。相反地，**背景知識圖譜** (CKG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統的結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能提供更豐富的見解並支援更精密的推理過程。在這項工作中，我們首先討論基於三元組的 KG 的內在限制，並介紹背景 KG 的概念，強調它們在知識表徵和推理方面的優勢。然後，我們提出**KGR$^3$，一種背景豐富的 KG 推理範例**，它利用大型語言模型 (LLM) 來擷取候選實體和相關背景，根據擷取的資訊對它們進行排名，並推論是否已獲得足夠的資訊來回答查詢。我們的實驗結果證明，KGR$^3$ 大幅提升了 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務的效能，驗證了在 KG 表徵和推理中納入背景資訊的有效性。
 
 ##### **Are Large Language Models a Good Replacement of Taxonomies?**
 2406.11131v2 by Yushi Sun, Hao Xin, Kai Sun, Yifan Ethan Xu, Xiao Yang, Xin Luna Dong, Nan Tang, Lei Chen

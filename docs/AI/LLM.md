@@ -16,7 +16,7 @@
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810v1](http://arxiv.org/abs/2406.16810v1)|null|
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807v1](http://arxiv.org/abs/2406.16807v1)|null|
 |**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801v1](http://arxiv.org/abs/2406.16801v1)|[link](https://github.com/qurrent-ai/res-q)|
-|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v1](http://arxiv.org/abs/2406.16797v1)|[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)|
+|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v2](http://arxiv.org/abs/2406.16797v2)|[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)|
 |**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v1](http://arxiv.org/abs/2406.16793v1)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784v1](http://arxiv.org/abs/2406.16784v1)|null|
 |**2024-06-24**|**M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models**|Rishabh Maheshwary et.al.|[2406.16783v1](http://arxiv.org/abs/2406.16783v1)|null|
@@ -28,7 +28,7 @@
 |**2024-06-24**|**The GPT-WritingPrompts Dataset: A Comparative Analysis of Character Portrayal in Short Stories**|Xi Yu Huang et.al.|[2406.16767v1](http://arxiv.org/abs/2406.16767v1)|[link](https://github.com/kristinhuangg/gpt-writing-prompts)|
 |**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758v1](http://arxiv.org/abs/2406.16758v1)|null|
 |**2024-06-24**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
-|**2024-06-24**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751v1](http://arxiv.org/abs/2406.16751v1)|null|
+|**2024-06-24**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751v2](http://arxiv.org/abs/2406.16751v2)|null|
 |**2024-06-24**|**OCALM: Object-Centric Assessment with Language Models**|Timo Kaufmann et.al.|[2406.16748v1](http://arxiv.org/abs/2406.16748v1)|null|
 |**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747v1](http://arxiv.org/abs/2406.16747v1)|null|
 |**2024-06-24**|**The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources**|Shayne Longpre et.al.|[2406.16746v1](http://arxiv.org/abs/2406.16746v1)|null|
@@ -73,7 +73,7 @@
 |**2024-06-24**|**Carrot and Stick: Inducing Self-Motivation with Positive & Negative Feedback**|Jimin Sohn et.al.|[2406.16521v1](http://arxiv.org/abs/2406.16521v1)|null|
 |**2024-06-24**|**Large Vocabulary Size Improves Large Language Models**|Sho Takase et.al.|[2406.16508v1](http://arxiv.org/abs/2406.16508v1)|null|
 |**2024-06-24**|**UNICAD: A Unified Approach for Attack Detection, Noise Reduction and Novel Class Identification**|Alvaro Lopez Pellicer et.al.|[2406.16501v1](http://arxiv.org/abs/2406.16501v1)|null|
-|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495v1](http://arxiv.org/abs/2406.16495v1)|[link](https://github.com/LoserCheems/OTCE)|
+|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495v2](http://arxiv.org/abs/2406.16495v2)|[link](https://github.com/LoserCheems/OTCE)|
 |**2024-06-24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
 |**2024-06-24**|**eagerlearners at SemEval2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure**|Hoorieh Sabzevari et.al.|[2406.16490v1](http://arxiv.org/abs/2406.16490v1)|null|
 |**2024-06-24**|**Deepfake tweets automatic detection**|Adam Frej et.al.|[2406.16489v1](http://arxiv.org/abs/2406.16489v1)|null|
@@ -440,7 +440,7 @@ https://github.com/Qurrent-AI/RES-Q.
 摘要：大型語言模型 (LLM) 的指令遵循能力培養了一類基於 LLM 的系統，能夠處理複雜的任務，例如對大型程式碼儲存庫進行編輯。由於 LLM 行為在回應提示變更時的敏感性和不可預測性，因此需要強健的評估工具來推動這些系統的未來迭代。我們提出了 RES-Q，一個基於自然語言指令的基準，用於評估$\textbf{R}$epository $\textbf{E}$diting $\textbf{S}$ystems，其中包含 100 個源自真實 GitHub 提交的儲存庫編輯任務。給定編輯指令和程式碼儲存庫，RES-Q 評估 LLM 系統收集資訊和建構編輯的能力，以滿足指令設定的準則。我們認為，以這種方式評估 LLM 可以解決傳統基準的問題，並提供對模型能力更全面的評估。我們評估各種最先進的 LLM，作為建置在 Qurrent OS 上的儲存庫編輯系統中的語言代理，Qurrent OS 是我們的語言代理開發軟體。儘管它們在 HumanEval 上的 pass@1 效能差異為 1%，但我們發現 Claude Sonnet 3.5 在 RES-Q 上的 pass@1 效能比 GPT-4o 高出 12%，這表示 RES-Q 有能力區分模型能力，因為傳統基準接近飽和。我們進一步探討了代幣效率、與現有基準的效能關係，以及封閉和開放原始碼 LLM 之間的有趣差異。程式碼和資料集可在 https://github.com/Qurrent-AI/RES-Q 取得。
 
 ##### **Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**
-2406.16797v1 by Ashwinee Panda, Berivan Isik, Xiangyu Qi, Sanmi Koyejo, Tsachy Weissman, Prateek Mittal
+2406.16797v2 by Ashwinee Panda, Berivan Isik, Xiangyu Qi, Sanmi Koyejo, Tsachy Weissman, Prateek Mittal
 
 Existing methods for adapting large language models (LLMs) to new tasks are
 not suited to multi-task adaptation because they modify all the model weights
@@ -453,10 +453,11 @@ range of challenging tasks such as instruction following, reasoning, math, and
 summarization. LoTA obtains better performance than full fine-tuning and
 low-rank adaptation (LoRA), and maintains good performance even after training
 on other tasks -- thus, avoiding catastrophic forgetting. By extracting and
-fine-tuning over \emph{lottery tickets} (or \emph{sparse task vectors}), LoTA
-also enables model merging over highly dissimilar tasks.
+fine-tuning over lottery tickets (or sparse task vectors), LoTA also enables
+model merging over highly dissimilar tasks. Our code is made publicly available
+at https://github.com/kiddyboots216/lottery-ticket-adaptation.
 
-摘要：現有的適應大型語言模型 (LLM) 到新任務的方法並不適合多任務適應，因為它們會修改所有模型權重，從而造成任務之間的破壞性干擾。由此產生的影響，例如早期任務的災難性遺忘，使得難以同時在多個任務上獲得良好的表現。為了緩解這一點，我們提出了樂透適應 (LoTA)，這是一種稀疏適應方法，可以識別和優化模型的稀疏子網路。我們在廣泛的具有挑戰性的任務上評估了 LoTA，例如指令遵循、推理、數學和摘要。LoTA 獲得了比完全微調和低秩適應 (LoRA) 更好的性能，並且即使在訓練其他任務後也能保持良好的性能，從而避免了災難性遺忘。通過提取和微調「樂透券」（或「稀疏任務向量」），LoTA 也可以在高度不同的任務上合併模型。
+摘要：現有適應大型語言模型 (LLM) 到新任務的方法不適合於多任務適應，因為它們會修改所有模型權重，導致任務之間產生破壞性干擾。由此產生的影響（例如災難性地遺忘較早的任務）使得同時在多個任務上獲得良好效能變得具有挑戰性。為了減輕這種情況，我們提出樂透適應 (LoTA)，這是一種稀疏適應方法，僅識別和最佳化模型的稀疏子網路。我們在廣泛的具挑戰性任務上評估 LoTA，例如指令遵循、推理、數學和摘要。LoTA 獲得比完全微調和低秩適應 (LoRA) 更好的效能，即使在訓練其他任務後也能維持良好的效能，從而避免災難性遺忘。透過萃取和微調樂透券（或稀疏任務向量），LoTA 也能讓模型合併在高度相異的任務上。我們的程式碼已公開在 https://github.com/kiddyboots216/lottery-ticket-adaptation。
 
 ##### **Adam-mini: Use Fewer Learning Rates To Gain More**
 2406.16793v1 by Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun
@@ -704,7 +705,7 @@ method.
 摘要：當機器學習 (ML) 模型用於涉及人類的應用程式（例如，線上推薦、學校錄取、聘僱、借貸）時，模型本身可能會觸發其試圖預測的目標資料分佈的變化。執行預測 (PP) 是一個框架，在學習 ML 模型時，會明確考量此類模型依賴的分佈轉移。儘管已投入大量心力在 PP 中尋找執行穩定 (PS) 的解決方案，以確保系統穩健性，但其社會意涵較少被探討，而且不清楚 PS 解決方案是否符合公平性等社會規範。在本文中，我們著手檢視執行預測中 PS 解決方案的公平性屬性。我們首先說明 PS 解決方案可能會造成嚴重的兩極化效應和群組間損失差異。儘管現有文獻中常用的公平性機制有助於減輕不公平性，但它們可能在模型依賴的分佈轉移下失敗並破壞穩定性。因此，我們提出創新的公平性介入機制，可以在 PP 設定中同時達成穩定性和公平性。提供理論分析和實驗，以驗證所提出的方法。
 
 ##### **Towards Zero-Shot Text-To-Speech for Arabic Dialects**
-2406.16751v1 by Khai Duy Doan, Abdul Waheed, Muhammad Abdul-Mageed
+2406.16751v2 by Khai Duy Doan, Abdul Waheed, Muhammad Abdul-Mageed
 
 Zero-shot multi-speaker text-to-speech (ZS-TTS) systems have advanced for
 English, however, it still lags behind due to insufficient resources. We
@@ -721,7 +722,7 @@ and human evaluation results show convincing performance while capable of
 generating dialectal speech. Our study highlights significant potential for
 improvements in this emerging area of research in Arabic.
 
-摘要：零範例多說話者文字轉語音 (ZS-TTS) 系統已針對英語進步，但由於資源不足，它仍落後於英語。我們透過首先調整一個龐大的現有資料集來滿足語音合成的需求，來解決阿拉伯語的這個差距，阿拉伯語是超過 4.5 億母語人士的語言。此外，我們採用一組阿拉伯語方言識別模型來探索預先定義的方言標籤對改善多方言設定中的 ZS-TTS 模型的影響。隨後，我們微調 XTTS\footnote{https://docs.coqui.ai/en/latest/models/xtts.html}\footnote{https://medium.com/machine-learns/xtts-v2-new-version-of-the-open-source-text-to-speech-model-af73914db81f}\footnote{https://medium.com/@erogol/xtts-v1-techincal-notes-eb83ff05bdc} 模型，這是一個開源架構。然後，我們在一個包含 31 位未見說話者和一個內部方言資料集的資料集上評估我們的模型。我們的自動化和人工評估結果顯示令人信服的效能，同時能夠產生方言語音。我們的研究突顯了阿拉伯語這個新興研究領域的顯著改善潛力。
+摘要：零次學習多說話者文字轉語音（ZS-TTS）系統已針對英語進展，但由於資源不足，它仍落後。我們通過首先調整一個相當大的現有資料集以滿足語音合成的需求，來解決阿拉伯語（一種擁有超過 4.5 億母語人士的語言）的這個差距。此外，我們採用了一組阿拉伯方言識別模型，以探討預定義方言標籤對改善多方言環境中的 ZS-TTS 模型的影響。隨後，我們微調了 XTTS\footnote{https://docs.coqui.ai/en/latest/models/xtts.html}\footnote{https://medium.com/machine-learns/xtts-v2-new-version-of-the-open-source-text-to-speech-model-af73914db81f}\footnote{https://medium.com/@erogol/xtts-v1-techincal-notes-eb83ff05bdc}模型，這是一個開源架構。然後，我們在一個包含 31 個未見過說話者和一個內部方言資料集的資料集上評估我們的模型。我們的自動化和人工評估結果顯示出令人信服的表現，同時能夠產生方言語音。我們的研究強調了阿拉伯語這個新興研究領域的改進潛力。
 
 ##### **OCALM: Object-Centric Assessment with Language Models**
 2406.16748v1 by Timo Kaufmann, Jannis Blüml, Antonia Wüst, Quentin Delfosse, Kristian Kersting, Eyke Hüllermeier
@@ -1727,7 +1728,7 @@ traditional models.
 摘要：隨著深度神經網路 (DNN) 的使用變得普遍，它們對抗攻擊的脆弱性以及在處理未見類別時的限制，構成了重大的挑戰。最先進的技術提供離散的解決方案，旨在解決涵蓋特定對抗攻擊情境、分類或演化學習的個別問題。然而，現實世界的系統需要能夠偵測和從各種對抗攻擊中復原，而不會犧牲分類準確性，並靈活地在「未見」情境中採取行動。在本文中，UNICAD 被提出作為一個新的框架，它整合了各種技術以提供適應性解決方案。對於目標影像分類，UNICAD 使用具有去噪自動編碼器的原型和基於相似性的 DNN，達成準確的影像分類、偵測未見類別，並從對抗攻擊中復原。我們在 CIFAR-10 資料集上進行的實驗突顯了 UNICAD 在對抗緩解和未見類別分類方面的效能，優於傳統模型。
 
 ##### **OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**
-2406.16495v1 by Jingze Shi, Ting Xie, Bingheng Wu, Chunjun Zheng, Kai Wang
+2406.16495v2 by Jingze Shi, Ting Xie, Bingheng Wu, Chunjun Zheng, Kai Wang
 
 Recent research has shown that combining Mamba with Transformer architecture,
 which has selective state space and quadratic self-attention mechanism,
@@ -1742,10 +1743,10 @@ architecture with a more biomimetic idea: Observer-Thinker-Conceiver-Expresser
 (OTCE), which can compete with well-known medium-scale open-source language
 models on a small scale in language modeling tasks.
 
-摘要：最近的研究表明，将 Mamba 与 Transformer 架構結合，
-它具有選擇性的狀態空間和二次自注意力機制，
-在語言建模任務中優於單獨使用 Mamba 或 Transformer 架構。
-二次自注意力機制有效地緩解了選擇性狀態空間在處理序列中任何元素的長期依賴性方面的缺點。我們提出了一種位置資訊注入方法，將選擇性狀態空間模型與二次注意力連接起來，並使用具有跨共享域的混合專家將這兩個架構整合在一起，這樣我們就可以享受兩者的優點。我們設計了一個具有更多仿生學思想的新架構：觀察者-思考者-構思者-表達者 (OTCE)，它可以在小規模上與著名的中型開源語言模型在語言建模任務中競爭。
+摘要：最近的研究表明，将 Mamba 与 Transformer 架构相结合，
+它具有选择性状态空间和二次自注意力机制，
+在语言建模任务中优于单独使用 Mamba 或 Transformer 架构。
+二次自注意力机制有效地缓解了选择性状态空间在处理序列中任何元素的长期依赖关系方面的缺点。我们提出了一种位置信息注入方法，将选择性状态空间模型与二次注意力相连接，并将这两个架构与具有交叉共享域的混合专家相集成，这样我们就可以同时享受两者的优势。我们设计了一种具有更仿生思想的新架构：观察者-思考者-构思者-表达者 (OTCE)，它可以在语言建模任务中与众所周知的中等规模开源语言模型在小规模上竞争。
 
 ##### **Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach**
 2406.16494v1 by Chuang Zhao, Hongke Zhao, Ming He, Xiaomeng Li, Jianping Fan

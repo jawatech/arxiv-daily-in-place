@@ -5,7 +5,7 @@
 |**2024-06-24**|**The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources**|Shayne Longpre et.al.|[2406.16746v1](http://arxiv.org/abs/2406.16746v1)|null|
 |**2024-06-24**|**Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings**|Andrea Posada et.al.|[2406.16611v1](http://arxiv.org/abs/2406.16611v1)|[link](https://github.com/anpoc/language-models-in-medicine)|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455v1](http://arxiv.org/abs/2406.16455v1)|null|
-|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v1](http://arxiv.org/abs/2406.16252v1)|null|
+|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v2](http://arxiv.org/abs/2406.16252v2)|null|
 |**2024-06-23**|**Continuous Output Personality Detection Models via Mixed Strategy Training**|Rong Wang et.al.|[2406.16223v1](http://arxiv.org/abs/2406.16223v1)|null|
 |**2024-06-23**|**Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking**|Yuwei Zhang et.al.|[2406.16148v1](http://arxiv.org/abs/2406.16148v1)|[link](https://github.com/evelyn0414/opera)|
 |**2024-06-23**|**Predicting Individual Depression Symptoms from Acoustic Features During Speech**|Sebastian Rodriguez et.al.|[2406.16000v1](http://arxiv.org/abs/2406.16000v1)|null|
@@ -60,7 +60,7 @@
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v1](http://arxiv.org/abs/2406.12142v1)|null|
 |**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
-|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v2](http://arxiv.org/abs/2406.12036v2)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
 |**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|[link](https://github.com/mhxu1998/flexcare)|
@@ -85,7 +85,7 @@
 |**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923v1](http://arxiv.org/abs/2406.09923v1)|[link](https://github.com/clibench/clibench)|
 |**2024-06-14**|**RadEx: A Framework for Structured Information Extraction from Radiology Reports based on Large Language Models**|Daniel Reichenpfader et.al.|[2406.15465v1](http://arxiv.org/abs/2406.15465v1)|null|
 |**2024-06-14**|**A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations**|Jinqiang Wang et.al.|[2406.10303v1](http://arxiv.org/abs/2406.10303v1)|null|
-|**2024-06-14**|**Rapid and Accurate Diagnosis of Acute Aortic Syndrome using Non-contrast CT: A Large-scale, Retrospective, Multi-center and AI-based Study**|Yujian Hu et.al.|[2406.15222v1](http://arxiv.org/abs/2406.15222v1)|null|
+|**2024-06-14**|**Rapid and Accurate Diagnosis of Acute Aortic Syndrome using Non-contrast CT: A Large-scale, Retrospective, Multi-center and AI-based Study**|Yujian Hu et.al.|[2406.15222v2](http://arxiv.org/abs/2406.15222v2)|null|
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207v1](http://arxiv.org/abs/2406.09207v1)|null|
 |**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105v1](http://arxiv.org/abs/2406.09105v1)|[link](https://github.com/fdu-ins/ins-mmbench)|
 |**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v3](http://arxiv.org/abs/2406.09014v3)|null|
@@ -174,7 +174,7 @@ model.
 摘要：生成式 AI (GenAI) 模型在各种医疗任務中展示出非凡的能力。然而，由於這些模型是使用非常有限的人類監督的一般資料集進行訓練，因此它們可以學習尚未充分評估其安全性和有效性，也未經監管機構批准的醫療產品用途。鑑於 GenAI 可能接觸使用者的規模，未經審查的建議會構成公共健康風險。在這項工作中，我們提出了一種識別潛在有害產品建議的方法，並使用最近的多模態大型語言模型進行示範。
 
 ##### **Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**
-2406.16252v1 by Ajan Subramanian, Zhongqi Yang, Iman Azimi, Amir M. Rahmani
+2406.16252v2 by Ajan Subramanian, Zhongqi Yang, Iman Azimi, Amir M. Rahmani
 
 Health monitoring systems have revolutionized modern healthcare by enabling
 the continuous capture of physiological and behavioral data, essential for
@@ -201,7 +201,7 @@ yields significant improvements in all 4 criteria. Through our framework, we
 can elicit well-crafted, more thoughtful responses tailored to a specific
 patient.
 
-摘要：健康監控系統透過持續擷取生理和行為數據，徹底革新了現代醫療保健，這些數據對於預防措施和早期健康介入至關重要。雖然將這些數據與大型語言模型 (LLM) 整合，已展現出提供互動式健康建議的潛力，但檢索擴充生成 (RAG) 和微調等傳統方法，往往無法充分利用來自穿戴式裝置的複雜、多維度且與時間相關的數據。這些傳統方法通常會提供有限的可操作且個人化的健康見解，因為它們無法動態整合和詮釋不同的健康數據串流。為了解決這個問題，本文介紹了一個圖形擴充 LLM 架構，旨在大幅提升健康見解的個人化和清晰度。這個架構利用層級圖形結構，擷取患者之間和患者內部的關係，並透過從隨機森林模型衍生的動態特徵重要性分數，豐富 LLM 提示。透過一項睡眠分析案例研究，證明了這種方法的有效性，該研究涉及 20 名在 COVID-19 封城期間的大學生，突顯了我們的模型在有效產生可操作且個人化的健康見解方面的潛力。我們利用另一個 LLM 來評估見解的相關性、全面性、可操作性和個人化，滿足了有效處理和詮釋複雜健康數據的模型的關鍵需求。我們的研究結果顯示，使用我們的架構擴充提示，在所有 4 個標準中都有顯著的改善。透過我們的架構，我們可以引發精心設計、更周全的回應，針對特定患者量身打造。
+摘要：健康監控系統透過持續收集生理和行為資料，徹底改變了現代醫療保健，這些資料對於預防措施和早期健康干預至關重要。雖然將這些資料與大型語言模型 (LLM) 整合，已展現出提供互動式健康建議的潛力，但傳統方法（例如檢索擴充生成 (RAG) 和微調）通常無法充分利用穿戴式裝置中複雜、多面向且與時間相關的資料。這些傳統方法通常會提供有限的可行且個人化的健康見解，因為它們無法動態整合和詮釋不同的健康資料串流。為了解決這個問題，本文介紹了一個圖形擴充 LLM 架構，旨在大幅提升健康見解的個人化和清晰度。這個架構利用階層式圖形結構，擷取患者之間和患者內部的關係，並使用從 Random Forest 模型衍生的動態特徵重要性評分，豐富 LLM 提示。透過一項睡眠分析案例研究（在 COVID-19 封鎖期間針對 20 名大學生進行）證明了這個方法的有效性，突顯了我們的模型在有效產生可行且個人化的健康見解方面的潛力。我們利用另一個 LLM 評估見解的相關性、全面性、可行性和個人化，滿足了模型有效處理和詮釋複雜健康資料的關鍵需求。我們的研究結果顯示，使用我們的架構擴充提示，可以在所有 4 個標準中大幅改善。透過我們的架構，我們可以引發精心設計、更周全的回應，針對特定患者量身打造。
 
 ##### **Continuous Output Personality Detection Models via Mixed Strategy Training**
 2406.16223v1 by Rong Wang, Kun Sun
@@ -1517,30 +1517,29 @@ well-being.
 摘要：語言模型 (LM) 已被提議用於心理健康應用，在這些應用中，不良結果的風險升高意味著預測性表現可能不足以作為臨床實務中模型效用的試金石。可信賴實務的模型應在解釋和臨床判斷之間有對應關係，但沒有先前的研究探討過這些模型的注意力保真度及其對真實解釋的影響。我們介紹了一種評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉數據集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性與專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，為我們的評估提供了依據。我們揭示了有關 LM/LLM 的四個驚人結果：(1) 儘管具有類人的能力，GPT-3.5/4 仍落後於 RoBERTa 和 MedAlpaca，而微調的 LLM 在效能或解釋方面並未帶來任何顯著的進步。(2) 根據以信心為導向的損失函數重新檢查 LM 的預測，顯示效能大幅下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數心理健康專用 LM/LLM 忽視特定領域的知識，並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
 
 ##### **MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**
-2406.12036v1 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
+2406.12036v2 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
 
 As opposed to evaluating computation and logic-based reasoning, current
-bench2 marks for evaluating large language models (LLMs) in medicine are
+benchmarks for evaluating large language models (LLMs) in medicine are
 primarily focused on question-answering involving domain knowledge and
-descriptive rea4 soning. While such qualitative capabilities are vital to
-medical diagnosis, in real5 world scenarios, doctors frequently use clinical
-calculators that follow quantitative equations and rule-based reasoning
-paradigms for evidence-based decision support. To this end, we propose
-MedCalc-Bench, a first-of-its-kind dataset focused on evaluating the medical
-calculation capability of LLMs. MedCalc-Bench contains an evaluation set of
-over 1000 manually reviewed instances from 55 different medical calculation
-tasks. Each instance in MedCalc-Bench consists of a patient note, a question
-requesting to compute a specific medical value, a ground truth answer, and a
-step-by-step explanation showing how the answer is obtained. While our
-evaluation results show the potential of LLMs in this area, none of them are
-effective enough for clinical settings. Common issues include extracting the
-incorrect entities, not using the correct equation or rules for a calculation
-task, or incorrectly performing the arithmetic for the computation. We hope our
-study highlights the quantitative knowledge and reasoning gaps in LLMs within
-medical settings, encouraging future improvements of LLMs for various clinical
-calculation tasks.
+descriptive reasoning. While such qualitative capabilities are vital to medical
+diagnosis, in real-world scenarios, doctors frequently use clinical calculators
+that follow quantitative equations and rule-based reasoning paradigms for
+evidence-based decision support. To this end, we propose MedCalc-Bench, a
+first-of-its-kind dataset focused on evaluating the medical calculation
+capability of LLMs. MedCalc-Bench contains an evaluation set of over 1000
+manually reviewed instances from 55 different medical calculation tasks. Each
+instance in MedCalc-Bench consists of a patient note, a question requesting to
+compute a specific medical value, a ground truth answer, and a step-by-step
+explanation showing how the answer is obtained. While our evaluation results
+show the potential of LLMs in this area, none of them are effective enough for
+clinical settings. Common issues include extracting the incorrect entities, not
+using the correct equation or rules for a calculation task, or incorrectly
+performing the arithmetic for the computation. We hope our study highlights the
+quantitative knowledge and reasoning gaps in LLMs within medical settings,
+encouraging future improvements of LLMs for various clinical calculation tasks.
 
-摘要：與評估運算和基於邏輯的推理相反，目前用於評估大型語言模型 (LLM) 在醫學中的基準，主要集中在涉及領域知識和描述性推理的問答上。雖然這些定性能力對醫療診斷至關重要，但在實際情況中，醫生經常使用遵循定量方程式和基於規則的推理範式的臨床計算器，以進行循證決策支援。為此，我們提出了 MedCalc-Bench，這是一個首創的資料集，專注於評估 LLM 的醫療計算能力。MedCalc-Bench 包含一個評估集，其中包含來自 55 種不同醫療計算任務的 1000 多個人工審查實例。MedCalc-Bench 中的每個實例都包含一個患者備註、一個計算特定醫療數值的請求問題、一個基本事實答案，以及一個分步說明，說明如何獲得答案。雖然我們的評估結果顯示了 LLM 在這方面的潛力，但它們都不足以用於臨床環境。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或計算算術時執行不正確。我們希望我們的研究能強調 LLM 在醫療環境中的量化知識和推理差距，並鼓勵未來改進 LLM，以應付各種臨床計算任務。
+摘要：與評估運算和基於邏輯的推理相反，目前用於評估醫學領域大型語言模型 (LLM) 的基準主要集中於涉及領域知識和描述性推理的問答。雖然這些定性能力對於醫療診斷至關重要，但在現實情況中，醫生經常使用遵循定量方程式和基於規則的推理範例的臨床計算器，以進行循證決策支持。為此，我們提出 MedCalc-Bench，這是第一個專注於評估 LLM 醫療計算能力的同類數據集。MedCalc-Bench 包含一個評估集，其中包含來自 55 個不同醫療計算任務的 1000 多個手動審查實例。MedCalc-Bench 中的每個實例都包含一個患者備註、一個要求計算特定醫療值的提問、一個真實答案，以及一個逐步說明如何獲得答案的解釋。儘管我們的評估結果顯示了 LLM 在這個領域的潛力，但沒有任何一個 LLM 對臨床設置足夠有效。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或錯誤執行運算的算術。我們希望我們的研究能突顯 LLM 在醫療設置中存在的定量知識和推理差距，並鼓勵未來針對各種臨床計算任務改善 LLM。
 
 ##### **Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**
 2406.12035v1 by Rhythm Arora, Pooja Prajod, Matteo Lavit Nicora, Daniele Panzeri, Giovanni Tauro, Rocco Vertechy, Matteo Malosio, Elisabeth André, Patrick Gebhard
@@ -2140,7 +2139,7 @@ planning, and clinical assistants.
 摘要：大型語言模型 (LLM) 已在各種自然語言處理任務中展現出驚人的表現。最近，增強了特定領域知識的醫療 LLM 已在醫療諮詢和診斷方面展現出優異的能力。這些模型可以順利模擬醫病對話並提供專業的醫療建議。大多數醫療 LLM 都是透過持續訓練開源的一般 LLM 而開發的，與從頭訓練 LLM 相比，所需運算資源明顯較少。此外，與基於 API 的解決方案相比，這種方法提供了更好的病患隱私保護。這項調查系統性地探討如何根據一般 LLM 訓練醫療 LLM。它涵蓋：(a) 如何取得訓練語料庫並建構客製化的醫療訓練組，(b) 如何選擇適當的訓練範例，(c) 如何選擇合適的評量基準，以及 (d) 討論現有的挑戰和有前景的未來研究方向。這項調查可以為針對各種醫療應用（例如醫學教育、診斷規劃和臨床助理）的 LLM 開發提供指導。
 
 ##### **Rapid and Accurate Diagnosis of Acute Aortic Syndrome using Non-contrast CT: A Large-scale, Retrospective, Multi-center and AI-based Study**
-2406.15222v1 by Yujian Hu, Yilang Xiang, Yan-Jie Zhou, Yangyan He, Shifeng Yang, Xiaolong Du, Chunlan Den, Youyao Xu, Gaofeng Wang, Zhengyao Ding, Jingyong Huang, Wenjun Zhao, Xuejun Wu, Donglin Li, Qianqian Zhu, Zhenjiang Li, Chenyang Qiu, Ziheng Wu, Yunjun He, Chen Tian, Yihui Qiu, Zuodong Lin, Xiaolong Zhang, Yuan He, Zhenpeng Yuan, Xiaoxiang Zhou, Rong Fan, Ruihan Chen, Wenchao Guo, Jianpeng Zhang, Tony C. W. Mok, Zi Li, Le Lu, Dehai Lang, Xiaoqiang Li, Guofu Wang, Wei Lu, Zhengxing Huang, Minfeng Xu, Hongkun Zhang
+2406.15222v2 by Yujian Hu, Yilang Xiang, Yan-Jie Zhou, Yangyan He, Shifeng Yang, Xiaolong Du, Chunlan Den, Youyao Xu, Gaofeng Wang, Zhengyao Ding, Jingyong Huang, Wenjun Zhao, Xuejun Wu, Donglin Li, Qianqian Zhu, Zhenjiang Li, Chenyang Qiu, Ziheng Wu, Yunjun He, Chen Tian, Yihui Qiu, Zuodong Lin, Xiaolong Zhang, Yuan He, Zhenpeng Yuan, Xiaoxiang Zhou, Rong Fan, Ruihan Chen, Wenchao Guo, Jianpeng Zhang, Tony C. W. Mok, Zi Li, Le Lu, Dehai Lang, Xiaoqiang Li, Guofu Wang, Wei Lu, Zhengxing Huang, Minfeng Xu, Hongkun Zhang
 
 Chest pain symptoms are highly prevalent in emergency departments (EDs),
 where acute aortic syndrome (AAS) is a catastrophic cardiovascular emergency
@@ -2168,13 +2167,15 @@ time for patients with misguided initial suspicion from an average of 681.8
 (74-11,820) mins to 68.5 (23-195) mins. DeepAAS could effectively fill the gap
 in the current clinical workflow without requiring additional tests.
 
-摘要：胸痛症狀在急診部門 (ED) 中十分常見，
-急性主動脈症候群 (AAS) 是一種災難性的心血管急症，
-若未及時準確治療，死亡率極高。然而，目前急診部門的三檢分流做法，
-可能會導致近半數 AAS 患者最初被漏診或誤診為其他急性胸痛疾病。因此，
-這些 AAS 患者將接受臨床不準確或次佳的鑑別診斷。所幸的是，即使在這些次佳的協定下，
-幾乎所有這些患者在鑑別診斷的早期階段都接受了非對比 CT，涵蓋主動脈解剖結構。在本研究中，我們使用非對比 CT 開發了一種人工智慧模型 (DeepAAS)，
-對於識別 AAS 非常準確，並提供可解釋的結果，以協助臨床決策制定。在兩個主要階段評估了效能：多中心回溯性研究 (n = 20,750) 和在真實世界緊急情況中的探討 (n = 137,525)。在多中心群組中，DeepAAS 在受試者工作特性曲線下的平均面積達到 0.958 (95% CI 0.950-0.967)。在真實世界群組中，DeepAAS 檢測出 109 位最初懷疑錯誤的 AAS 患者，平均敏感度達到 92.6% (95% CI 76.2%-97.5%)，平均特異度達到 99.2% (95% CI 99.1%-99.3%)。我們的 AI 模型在鑑別診斷工作流程的所有適用早期階段對非對比 CT 表現良好，有效地將整體漏診和誤診率從 48.8% 降低到 4.8%，並將最初懷疑錯誤患者的診斷時間從平均 681.8 (74-11,820) 分鐘縮短到 68.5 (23-195) 分鐘。DeepAAS 可以有效填補目前臨床工作流程的空白，而無需額外的測試。
+摘要：<paragraph>胸痛症狀在急診部門 (ED) 中非常普遍，
+其中急性主動脈症候群 (AAS) 是一種災難性的心血管急症，
+死亡率很高，特別是在未及時進行準確治療的情況下。
+然而，急診部門目前的分類做法可能會導致
+大約一半的 AAS 患者最初被漏診
+或被誤診為其他急性胸痛疾病。隨後，
+這些 AAS 患者將接受臨床上不準確或次優的
+鑑別診斷。幸運的是，即使在這些次優的規範下，
+幾乎所有這些患者在鑑別診斷的早期階段都接受了非對比 CT 檢查主動脈解剖結構。在這項研究中，我們使用非對比 CT 開發了一種人工智慧模型 (DeepAAS)，它在識別 AAS 方面非常準確，並提供可解釋的結果以協助臨床決策。在兩個主要階段評估了性能：多中心回顧性研究 (n = 20,750) 和現實世界緊急情況探索 (n = 137,525)。在多中心隊列中，DeepAAS 在受試者操作特徵曲線下的平均面積達到 0.958（95% CI 0.950-0.967）。在現實世界隊列中，DeepAAS 檢測到 109 名最初懷疑被誤導的 AAS 患者，平均敏感性達到 92.6%（95% CI 76.2%-97.5%），平均特異性達到 99.2%（95% CI 99.1%-99.3%）。我們的 AI 模型在鑑別診斷工作流程的所有適用的早期階段的非對比 CT 上表現良好，有效地將整體漏診和誤診率從 48.8% 降低到 4.8%，並將最初懷疑被誤導的患者的診斷時間從平均 681.8（74-11,820）分鐘縮短到 68.5（23-195）分鐘。DeepAAS 可以有效填補當前臨床工作流程中的空白，而無需額外的測試。</paragraph>
 
 ##### **Investigating potential causes of Sepsis with Bayesian network structure learning**
 2406.09207v1 by Bruno Petrungaro, Neville K. Kitson, Anthony C. Constantinou

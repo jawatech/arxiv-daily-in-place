@@ -6,7 +6,7 @@
 |**2024-06-24**|**CLEAR: Can Language Models Really Understand Causal Graphs?**|Sirui Chen et.al.|[2406.16605v1](http://arxiv.org/abs/2406.16605v1)|[link](https://github.com/opencausalab/clear)|
 |**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|null|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
-|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v1](http://arxiv.org/abs/2406.16252v1)|null|
+|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v2](http://arxiv.org/abs/2406.16252v2)|null|
 |**2024-06-23**|**GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**|Qiming Wu et.al.|[2406.16176v1](http://arxiv.org/abs/2406.16176v1)|null|
 |**2024-06-23**|**Can LLM Graph Reasoning Generalize beyond Pattern Memorization?**|Yizhuo Zhang et.al.|[2406.15992v1](http://arxiv.org/abs/2406.15992v1)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v1](http://arxiv.org/abs/2406.15859v1)|null|
@@ -198,7 +198,7 @@ https://github.com/TruthAI-Lab/PCIG.
 摘要：文本到图像 (T2I) 生成模型的快速进步使得合成由文本描述引导的高质量图像成为可能。尽管取得了这些重大进展，但这些模型在生成与输入文本相矛盾的内容方面通常很敏感，这对它们的可靠性和实际部署提出了挑战。为了解决这个问题，我们引入了一个新颖的基于扩散的框架，以显着增强生成图像与其相应描述的一致性，解决视觉输出和文本输入之间的不一致性。我们的框架建立在对不一致现象的全面分析之上，根据它们在图像中的表现对它们进行分类。利用最先进的大型语言模块，我们首先提取对象并构建知识图谱来预测这些对象在潜在生成的图像中的位置。然后，我们将最先进的可控图像生成模型与视觉文本生成模块集成在一起，以生成与原始提示一致的图像，并由预测的对象位置引导。通过在高级多模态幻觉基准上进行广泛的实验，我们展示了我们的方法在准确生成图像方面的有效性，而不会与原始提示不一致。可以通过 https://github.com/TruthAI-Lab/PCIG 访问代码。
 
 ##### **Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**
-2406.16252v1 by Ajan Subramanian, Zhongqi Yang, Iman Azimi, Amir M. Rahmani
+2406.16252v2 by Ajan Subramanian, Zhongqi Yang, Iman Azimi, Amir M. Rahmani
 
 Health monitoring systems have revolutionized modern healthcare by enabling
 the continuous capture of physiological and behavioral data, essential for
@@ -225,7 +225,7 @@ yields significant improvements in all 4 criteria. Through our framework, we
 can elicit well-crafted, more thoughtful responses tailored to a specific
 patient.
 
-摘要：健康監控系統透過持續擷取生理和行為數據，徹底革新了現代醫療保健，這些數據對於預防措施和早期健康介入至關重要。雖然將這些數據與大型語言模型 (LLM) 整合，已展現出提供互動式健康建議的潛力，但檢索擴充生成 (RAG) 和微調等傳統方法，往往無法充分利用來自穿戴式裝置的複雜、多維度且與時間相關的數據。這些傳統方法通常會提供有限的可操作且個人化的健康見解，因為它們無法動態整合和詮釋不同的健康數據串流。為了解決這個問題，本文介紹了一個圖形擴充 LLM 架構，旨在大幅提升健康見解的個人化和清晰度。這個架構利用層級圖形結構，擷取患者之間和患者內部的關係，並透過從隨機森林模型衍生的動態特徵重要性分數，豐富 LLM 提示。透過一項睡眠分析案例研究，證明了這種方法的有效性，該研究涉及 20 名在 COVID-19 封城期間的大學生，突顯了我們的模型在有效產生可操作且個人化的健康見解方面的潛力。我們利用另一個 LLM 來評估見解的相關性、全面性、可操作性和個人化，滿足了有效處理和詮釋複雜健康數據的模型的關鍵需求。我們的研究結果顯示，使用我們的架構擴充提示，在所有 4 個標準中都有顯著的改善。透過我們的架構，我們可以引發精心設計、更周全的回應，針對特定患者量身打造。
+摘要：健康監控系統透過持續收集生理和行為資料，徹底改變了現代醫療保健，這些資料對於預防措施和早期健康干預至關重要。雖然將這些資料與大型語言模型 (LLM) 整合，已展現出提供互動式健康建議的潛力，但傳統方法（例如檢索擴充生成 (RAG) 和微調）通常無法充分利用穿戴式裝置中複雜、多面向且與時間相關的資料。這些傳統方法通常會提供有限的可行且個人化的健康見解，因為它們無法動態整合和詮釋不同的健康資料串流。為了解決這個問題，本文介紹了一個圖形擴充 LLM 架構，旨在大幅提升健康見解的個人化和清晰度。這個架構利用階層式圖形結構，擷取患者之間和患者內部的關係，並使用從 Random Forest 模型衍生的動態特徵重要性評分，豐富 LLM 提示。透過一項睡眠分析案例研究（在 COVID-19 封鎖期間針對 20 名大學生進行）證明了這個方法的有效性，突顯了我們的模型在有效產生可行且個人化的健康見解方面的潛力。我們利用另一個 LLM 評估見解的相關性、全面性、可行性和個人化，滿足了模型有效處理和詮釋複雜健康資料的關鍵需求。我們的研究結果顯示，使用我們的架構擴充提示，可以在所有 4 個標準中大幅改善。透過我們的架構，我們可以引發精心設計、更周全的回應，針對特定患者量身打造。
 
 ##### **GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**
 2406.16176v1 by Qiming Wu, Zichen Chen, Will Corcoran, Misha Sra, Ambuj K. Singh

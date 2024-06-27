@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25**|**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**|Zhehao Zhang et.al.|[2406.17271v1](http://arxiv.org/abs/2406.17271v1)|[link](https://github.com/salt-nlp/darg)|
+|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|null|
 |**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687v1](http://arxiv.org/abs/2406.16687v1)|null|
 |**2024-06-24**|**CLEAR: Can Language Models Really Understand Causal Graphs?**|Sirui Chen et.al.|[2406.16605v1](http://arxiv.org/abs/2406.16605v1)|[link](https://github.com/opencausalab/clear)|
 |**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|null|
@@ -10,6 +12,7 @@
 |**2024-06-23**|**GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**|Qiming Wu et.al.|[2406.16176v1](http://arxiv.org/abs/2406.16176v1)|null|
 |**2024-06-23**|**Can LLM Graph Reasoning Generalize beyond Pattern Memorization?**|Yizhuo Zhang et.al.|[2406.15992v1](http://arxiv.org/abs/2406.15992v1)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v1](http://arxiv.org/abs/2406.15859v1)|null|
+|**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
 |**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
 |**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214v1](http://arxiv.org/abs/2406.15214v1)|null|
@@ -42,7 +45,7 @@
 |**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|[link](https://github.com/nyushcs/gaugllm)|
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
-|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|[link](https://github.com/victor812-hub/entity_datasets)|
+|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v2](http://arxiv.org/abs/2406.11162v2)|[link](https://github.com/victor812-hub/entity_datasets)|
 |**2024-06-17**|**Contextual Knowledge Graph**|Chengjin Xu et.al.|[2406.11160v2](http://arxiv.org/abs/2406.11160v2)|null|
 |**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v2](http://arxiv.org/abs/2406.11131v2)|[link](https://github.com/ysunbp/taxoglimpse)|
 |**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
@@ -99,11 +102,55 @@
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
 |**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
 |**2024-06-04**|**ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**|Wei Shao et.al.|[2406.03404v1](http://arxiv.org/abs/2406.03404v1)|null|
-|**2024-06-03**|**Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**|Yixuan Mei et.al.|[2406.01566v1](http://arxiv.org/abs/2406.01566v1)|null|
-|**2024-06-03**|**Graph Neural Network Enhanced Retrieval for Question Answering of LLMs**|Zijian Li et.al.|[2406.06572v1](http://arxiv.org/abs/2406.06572v1)|null|
-|**2024-06-03**|**How to Understand Whole Software Repository?**|Yingwei Ma et.al.|[2406.01422v1](http://arxiv.org/abs/2406.01422v1)|null|
 
 #### Abstracts
+##### **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**
+2406.17271v1 by Zhehao Zhang, Jiaao Chen, Diyi Yang
+
+The current paradigm of evaluating Large Language Models (LLMs) through
+static benchmarks comes with significant limitations, such as vulnerability to
+data contamination and a lack of adaptability to the evolving capabilities of
+LLMs. Therefore, evaluation methods that can adapt and generate evaluation data
+with controlled complexity are urgently needed. In this work, we introduce
+Dynamic Evaluation of LLMs via Adaptive Reasoning Graph Evolvement (DARG) to
+dynamically extend current benchmarks with controlled complexity and diversity.
+Specifically, we first extract the reasoning graphs of data points in current
+benchmarks and then perturb the reasoning graphs to generate novel testing
+data. Such newly generated test samples can have different levels of complexity
+while maintaining linguistic diversity similar to the original benchmarks. We
+further use a code-augmented LLM to ensure the label correctness of newly
+generated data. We apply our DARG framework to diverse reasoning tasks in four
+domains with 15 state-of-the-art LLMs. Experimental results show that almost
+all LLMs experience a performance decrease with increased complexity and
+certain LLMs exhibit significant drops. Additionally, we find that LLMs exhibit
+more biases when being evaluated via the data generated by DARG with higher
+complexity levels. These observations provide useful insights into how to
+dynamically and adaptively evaluate LLMs. The code is available at
+https://github.com/SALT-NLP/DARG.
+
+摘要：目前透過靜態基準評估大型語言模型 (LLM) 的範例伴隨著顯著的限制，例如容易受到資料污染，以及缺乏適應 LLM 不斷演進的能力。因此，迫切需要能夠適應並產生具有受控複雜性的評估資料的評估方法。在這項工作中，我們透過自適應推理圖形演化 (DARG) 引入 LLM 的動態評估，以動態延伸目前具有受控複雜性和多樣性的基準。具體來說，我們首先擷取目前基準中資料點的推理圖形，然後擾動推理圖形以產生新的測試資料。這些新產生的測試樣本可以有不同的複雜性層級，同時維持與原始基準類似的語言多樣性。我們進一步使用程式碼增強的 LLM 來確保新產生資料的標籤正確性。我們將 DARG 架構套用於四個領域中的各種推理任務，並使用 15 個最先進的 LLM。實驗結果顯示，幾乎所有 LLM 在複雜性增加的情況下都會出現效能下降，而某些 LLM 則表現出顯著的下降。此外，我們發現 LLM 在透過 DARG 產生具有較高複雜性層級的資料進行評估時，會表現出更多偏差。這些觀察結果提供了有用的見解，說明如何動態且自適應地評估 LLM。程式碼可在 https://github.com/SALT-NLP/DARG 取得。
+
+##### **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**
+2406.17231v1 by Tong Zhou, Yubo Chen, Kang Liu, Jun Zhao
+
+Large language models have become integral to question-answering applications
+despite their propensity for generating hallucinations and factually inaccurate
+content. Querying knowledge graphs to reduce hallucinations in LLM meets the
+challenge of incomplete knowledge coverage in knowledge graphs. On the other
+hand, updating knowledge graphs by information extraction and knowledge graph
+completion faces the knowledge update misalignment issue. In this work, we
+introduce a collaborative augmentation framework, CogMG, leveraging knowledge
+graphs to address the limitations of LLMs in QA scenarios, explicitly targeting
+the problems of incomplete knowledge coverage and knowledge update
+misalignment. The LLMs identify and decompose required knowledge triples that
+are not present in the KG, enriching them and aligning updates with real-world
+demands. We demonstrate the efficacy of this approach through a supervised
+fine-tuned LLM within an agent framework, showing significant improvements in
+reducing hallucinations and enhancing factual accuracy in QA responses. Our
+code and video are publicly available.
+
+摘要：大型語言模型已成為問答應用程式中不可或缺的一部分，儘管它們傾向於產生幻覺和事實不正確的內容。查詢知識圖表以減少 LLM 中的幻覺會遇到知識圖表中知識覆蓋不完整的挑戰。另一方面，通過資訊萃取和知識圖表完成來更新知識圖表會面臨知識更新錯位問題。在這項工作中，我們引入了協作擴充架構 CogMG，利用知識圖表來解決 LLM 在 QA 場景中的限制，明確針對不完整的知識覆蓋和知識更新錯位問題。LLM 識別並分解 KG 中不存在的所需知識三元組，豐富它們並將更新與現實世界的需求保持一致。我們透過代理架構中監督微調的 LLM 展示了這種方法的功效，顯示出在減少幻覺和增強 QA 回應中的事實準確性方面有顯著的改進。我們的程式碼和影片公開提供。
+
 ##### **Link Prediction with Untrained Message Passing Layers**
 2406.16687v1 by Lisi Qarkaxhija, Anatol E. Wegner, Ingo Scholtes
 
@@ -305,6 +352,37 @@ its practical utility and potential to redefine recommendation practices
 through improved accuracy and user trust.
 
 摘要：推薦系統在分析使用者與項目之間的複雜關係，提升各種網路應用程式的使用者體驗方面至關重要。知識圖譜 (KG) 已廣泛用於提升推薦系統的效能。然而，KG 已知有雜訊且不完整，難以提供可靠的推薦結果說明。可解釋的推薦系統對於產品開發和後續決策制定至關重要。為了應對這些挑戰，我們引進一種創新的推薦系統，結合大型語言模型 (LLM) 和 KG，以增強推薦並提供可解釋的結果。具體來說，我們首先利用 LLM 的力量來擴充 KG 重建。LLM 理解並將使用者評論分解成新的三元組，並將其新增到 KG 中。透過這種方式，我們可以用表達使用者偏好的可解釋路徑來豐富 KG。為了增強對擴充 KG 的推薦，我們引進一個創新的子圖推理模組，該模組有效地衡量節點的重要性，並找出推薦的理由。最後，這些推理路徑會輸入到 LLM 中，以產生推薦結果的可解釋說明。我們的做法顯著提升了推薦系統的有效性和可解釋性，特別是在傳統方法失效的交叉銷售情況中。我們的做法的有效性已在四個開放的真實世界資料集上經過嚴格測試，我們的做法展示出比當代最先進技術高出平均 12% 的卓越效能。我們的模型在一家跨國工程和技術公司交叉銷售推薦系統中的應用進一步突顯了其實用性和透過提升準確度和使用者信任來重新定義推薦實務的潛力。
+
+##### **Large Language Models for Link Stealing Attacks Against Graph Neural Networks**
+2406.16963v1 by Faqian Guan, Tianqing Zhu, Hui Sun, Wanlei Zhou, Philip S. Yu
+
+Graph data contains rich node features and unique edge information, which
+have been applied across various domains, such as citation networks or
+recommendation systems. Graph Neural Networks (GNNs) are specialized for
+handling such data and have shown impressive performance in many applications.
+However, GNNs may contain of sensitive information and susceptible to privacy
+attacks. For example, link stealing is a type of attack in which attackers
+infer whether two nodes are linked or not. Previous link stealing attacks
+primarily relied on posterior probabilities from the target GNN model,
+neglecting the significance of node features. Additionally, variations in node
+classes across different datasets lead to different dimensions of posterior
+probabilities. The handling of these varying data dimensions posed a challenge
+in using a single model to effectively conduct link stealing attacks on
+different datasets. To address these challenges, we introduce Large Language
+Models (LLMs) to perform link stealing attacks on GNNs. LLMs can effectively
+integrate textual features and exhibit strong generalizability, enabling
+attacks to handle diverse data dimensions across various datasets. We design
+two distinct LLM prompts to effectively combine textual features and posterior
+probabilities of graph nodes. Through these designed prompts, we fine-tune the
+LLM to adapt to the link stealing attack task. Furthermore, we fine-tune the
+LLM using multiple datasets and enable the LLM to learn features from different
+datasets simultaneously. Experimental results show that our approach
+significantly enhances the performance of existing link stealing attack tasks
+in both white-box and black-box scenarios. Our method can execute link stealing
+attacks across different datasets using only a single model, making link
+stealing attacks more applicable to real-world scenarios.
+
+摘要：圖形數據包含豐富的節點特徵和獨特的邊緣資訊，已應用於各種領域，例如引文網路或推薦系統。圖形神經網路 (GNN) 專門用於處理此類數據，並在許多應用中展現出令人印象深刻的效能。然而，GNN 可能包含敏感資訊，且容易受到隱私攻擊。例如，連結竊取是一種攻擊，攻擊者推斷兩個節點是否連結。先前的連結竊取攻擊主要依賴於目標 GNN 模型的後驗機率，忽略節點特徵的重要性。此外，不同資料集中的節點類別變化導致後驗機率的不同維度。處理這些不同的資料維度在使用單一模型對不同資料集執行連結竊取攻擊時構成一項挑戰。為了應對這些挑戰，我們引入了大型語言模型 (LLM) 來對 GNN 執行連結竊取攻擊。LLM 可以有效整合文字特徵並展現強大的泛化能力，使攻擊能夠處理不同資料集中的不同資料維度。我們設計了兩個不同的 LLM 提示，以有效結合文字特徵和圖形節點的後驗機率。透過這些設計的提示，我們微調 LLM 以適應連結竊取攻擊任務。此外，我們使用多個資料集微調 LLM，並使 LLM 能夠同時從不同的資料集中學習特徵。實驗結果顯示，我們的做法顯著提升了現有連結竊取攻擊任務在白盒和黑盒場景中的效能。我們的模型僅使用單一模型就能跨不同資料集執行連結竊取攻擊，使連結竊取攻擊更適用於實際場景。
 
 ##### **Inferring Pluggable Types with Machine Learning**
 2406.15676v1 by Kazi Amanul Islam Siddiqui, Martin Kellogg
@@ -1079,7 +1157,7 @@ relationships.
 摘要：本文介紹了在黑客馬拉松中進行的實驗，重點在於使用大型語言模型 (LLM) 和知識圖譜聚類，從天文文本中提取實體和關係。這項研究展示了一種方法，可以消除在天文領域中各種語境中出現的實體歧義性。透過收集特定實體周圍的摘錄，並利用 GPT-4 語言模型，可以提取相關實體和關係。然後使用提取的資訊來建構知識圖譜，並使用 Leiden 演算法進行聚類。結果產生的 Leiden 社群用於識別未知摘錄與每個社群的關聯百分比，從而消除歧義性。該實驗展示了結合 LLM 和知識圖譜聚類技術在天文研究中進行資訊提取的潛力。結果突顯了該方法在識別和消除實體歧義性方面的有效性，以及根據實體之間的關係將實體分組到有意義的群集中。
 
 ##### **How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**
-2406.11162v1 by Dawulie Jinensibieke, Mieradilijiang Maimaiti, Wentao Xiao, Yuanhang Zheng, Xiangbo Wang
+2406.11162v2 by Dawulie Jinensibieke, Mieradilijiang Maimaiti, Wentao Xiao, Yuanhang Zheng, Xiaobo Wang
 
 Relation Extraction (RE) serves as a crucial technology for transforming
 unstructured text into structured information, especially within the framework
@@ -1098,7 +1176,7 @@ low-quality data from the translated datasets. Finally, we conduct an empirical
 study and validate the performance of several open-source LLMs on these
 generated LRL RE datasets.
 
-摘要：關係抽取 (RE) 是一種將非結構化文本轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。它在各種下游任務中扮演著重要的角色，突顯了它的重要性。除了基於神經網路和預先訓練語言模型的傳統 RE 方法外，大型語言模型 (LLM) 也被用於 RE 的研究領域中。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。為了解決這個問題，本文在三個區域（中亞、東南亞和中東）中的 10 種 LRL 中建構了低資源關係抽取資料集。語料庫是透過使用有效的多語言機器翻譯，來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行了一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
+摘要：關係抽取 (RE) 是一種將非結構化文字轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。其重要性在於它在各種下游任務中扮演著不可或缺的角色。除了基於神經網路和預訓練語言模型的傳統 RE 方法之外，大型語言模型 (LLM) 也被用於 RE 的研究領域。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統的 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。有鑑於此，本文在三個地區（中亞、東南亞和中東）的 10 種 LRL 中建構了低資源關係抽取資料集。這些語料庫是透過使用一種有效的多語言機器翻譯來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
 
 ##### **Contextual Knowledge Graph**
 2406.11160v2 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
@@ -2474,78 +2552,4 @@ data maintains a competitive performance compared to the model trained on the
 original data.
 
 摘要：時空資料在廣泛的邊緣裝置中很普遍，例如用於個人通訊和金融交易的裝置。最近的進展激發了將時空分析與大規模語言模型整合在一起的興趣。然而，時空資料通常包含敏感資訊，使其不適合開放的第三方存取。為了應對這個挑戰，我們提出一個基於 Graph-GAN 的模型，用於產生受隱私保護的時空資料。我們的做法將空間和時間注意力區塊納入判別器，以及將時空反摺積結構納入生成器。這些增強功能能夠在高斯噪聲下進行有效訓練，以實現差分隱私。在三個真實世界的時空資料集上進行的廣泛實驗驗證了我們模型的效能。我們的模型在維持資料效用的同時提供隱私保證。在我們產生的資料上訓練的預測模型，與在原始資料上訓練的模型相比，維持競爭力的效能。
-
-##### **Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**
-2406.01566v1 by Yixuan Mei, Yonghao Zhuang, Xupeng Miao, Juncheng Yang, Zhihao Jia, Rashmi Vinayak
-
-This paper introduces Helix, a distributed system for high-throughput,
-low-latency large language model (LLM) serving on heterogeneous GPU clusters. A
-key idea behind Helix is to formulate inference computation of LLMs over
-heterogeneous GPUs and network connections as a max-flow problem for a
-directed, weighted graph, whose nodes represent GPU instances and edges capture
-both GPU and network heterogeneity through their capacities. Helix then uses a
-mixed integer linear programming (MILP) algorithm to discover highly optimized
-strategies to serve LLMs. This approach allows Helix to jointly optimize model
-placement and request scheduling, two highly entangled tasks in heterogeneous
-LLM serving. Our evaluation on several heterogeneous cluster settings ranging
-from 24 to 42 GPU nodes shows that Helix improves serving throughput by up to
-2.7$\times$ and reduces prompting and decoding latency by up to 2.8$\times$ and
-1.3$\times$, respectively, compared to best existing approaches.
-
-摘要：本文介紹 Helix，這是一種用於異質 GPU 集群上提供高吞吐量、低延遲大型語言模型 (LLM) 服務的分布式系統。Helix 背後的一個關鍵概念是將 LLM 在異質 GPU 和網路連線上的推論計算表述為一個有向加權圖的最大流問題，其節點表示 GPU 實例，邊緣則透過其容量擷取 GPU 和網路異質性。接著，Helix 使用混合整數線性規劃 (MILP) 演算法找出高度最佳化的策略來提供 LLM 服務。這種方法讓 Helix 能夠同時最佳化模型配置和要求排程，這兩個在異質 LLM 服務中高度糾結的任務。我們在從 24 到 42 個 GPU 節點的幾個異質集群設定中進行評估，結果顯示 Helix 將服務吞吐量提升了多達 2.7 倍，並將提示和解碼延遲分別降低了多達 2.8 倍和 1.3 倍，與現有最佳方法相比。
-
-##### **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs**
-2406.06572v1 by Zijian Li, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang
-
-Retrieval augmented generation has revolutionized large language model (LLM)
-outputs by providing factual supports. Nevertheless, it struggles to capture
-all the necessary knowledge for complex reasoning questions. Existing retrieval
-methods typically divide reference documents into passages, treating them in
-isolation. These passages, however, are often interrelated, such as passages
-that are contiguous or share the same keywords. Therefore, recognizing the
-relatedness is crucial for enhancing the retrieval process. In this paper, we
-propose a novel retrieval method, called GNN-Ret, which leverages graph neural
-networks (GNNs) to enhance retrieval by considering the relatedness between
-passages. Specifically, we first construct a graph of passages by connecting
-passages that are structure-related and keyword-related. A graph neural network
-(GNN) is then leveraged to exploit the relationships between passages and
-improve the retrieval of supporting passages. Furthermore, we extend our method
-to handle multi-hop reasoning questions using a recurrent graph neural network
-(RGNN), named RGNN-Ret. At each step, RGNN-Ret integrates the graphs of
-passages from previous steps, thereby enhancing the retrieval of supporting
-passages. Extensive experiments on benchmark datasets demonstrate that GNN-Ret
-achieves higher accuracy for question answering with a single query of LLMs
-than strong baselines that require multiple queries, and RGNN-Ret further
-improves accuracy and achieves state-of-the-art performance, with up to 10.4%
-accuracy improvement on the 2WikiMQA dataset.
-
-摘要：<paragraph>檢索增強生成已透過提供事實支援，革新了大型語言模型 (LLM) 輸出。儘管如此，它仍難以擷取複雜推理問題所需的所有知識。現有的檢索方法通常將參考文件分成段落，並將它們孤立處理。然而，這些段落通常是相互關聯的，例如連續的段落或共用相同關鍵字的段落。因此，識別相關性對於增強檢索程序至關重要。在本文中，我們提出了一種名為 GNN-Ret 的新檢索方法，它利用圖神經網路 (GNN) 來增強檢索，方法是考慮段落之間的相關性。具體來說，我們首先透過連接結構相關和關鍵字相關的段落來建構段落的圖形。然後利用圖神經網路 (GNN) 來利用段落之間的關係，並改善支援段落的檢索。此外，我們擴充了我們的模型，以使用名為 RGNN-Ret 的遞迴圖神經網路來處理多跳推理問題。在每一步驟中，RGNN-Ret 都會整合前一步驟中段落的圖形，從而增強支援段落的檢索。在基準資料集上的廣泛實驗證明，GNN-Ret 在使用 LLM 的單一查詢來回答問題時，比需要多個查詢的強大基準線獲得更高的準確度，而 RGNN-Ret 進一步提高了準確度，並達到了最先進的效能，在 2WikiMQA 資料集上準確度提升了 10.4%。</paragraph>
-
-##### **How to Understand Whole Software Repository?**
-2406.01422v1 by Yingwei Ma, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li
-
-Recently, Large Language Model (LLM) based agents have advanced the
-significant development of Automatic Software Engineering (ASE). Although
-verified effectiveness, the designs of the existing methods mainly focus on the
-local information of codes, e.g., issues, classes, and functions, leading to
-limitations in capturing the global context and interdependencies within the
-software system. From the practical experiences of the human SE developers, we
-argue that an excellent understanding of the whole repository will be the
-critical path to ASE. However, understanding the whole repository raises
-various challenges, e.g., the extremely long code input, the noisy code
-information, the complex dependency relationships, etc. To this end, we develop
-a novel ASE method named RepoUnderstander by guiding agents to comprehensively
-understand the whole repositories. Specifically, we first condense the critical
-information of the whole repository into the repository knowledge graph in a
-top-to-down mode to decrease the complexity of repository. Subsequently, we
-empower the agents the ability of understanding whole repository by proposing a
-Monte Carlo tree search based repository exploration strategy. In addition, to
-better utilize the repository-level knowledge, we guide the agents to
-summarize, analyze, and plan. Then, they can manipulate the tools to
-dynamically acquire information and generate the patches to solve the
-real-world GitHub issues. Extensive experiments demonstrate the superiority and
-effectiveness of the proposed RepoUnderstander. It achieved 18.5\% relative
-improvement on the SWE-bench Lite benchmark compared to SWE-agent.
-
-摘要：<paragraph>最近，基于大型语言模型 (LLM) 的代理提升了自动软件工程 (ASE) 的重大发展。尽管经过验证有效，但现有方法的设计主要侧重于代码的局部信息，例如问题、类和函数，导致无法捕捉软件系统中的全局上下文和相互依赖关系。从人类 SE 开发人员的实际经验来看，我们认为对整个存储库的出色理解将成为 ASE 的关键路径。然而，理解整个存储库带来了各种挑战，例如极长的代码输入、嘈杂的代码信息、复杂的依赖关系等。为此，我们开发了一种名为 RepoUnderstander 的新 ASE 方法，该方法通过指导代理全面理解整个存储库。具体来说，我们首先从上到下模式将整个存储库的关键信息浓缩到存储库知识图中，以降低存储库的复杂性。随后，我们通过提出基于蒙特卡罗树搜索的存储库探索策略，赋予代理理解整个存储库的能力。此外，为了更好地利用存储库级别的知识，我们指导代理总结、分析和规划。然后，他们可以操作工具动态获取信息并生成补丁来解决现实世界的 GitHub 问题。大量的实验证明了所提出的 RepoUnderstander 的优越性和有效性。与 SWE-agent 相比，它在 SWE-bench Lite 基准上实现了 18.5% 的相对改进。</paragraph>
 

@@ -2,11 +2,13 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
+|**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v1](http://arxiv.org/abs/2406.16908v1)|null|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
@@ -100,10 +102,44 @@
 |**2022-12-17**|**Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**|Isil Guzey et.al.|[2212.08821v1](http://arxiv.org/abs/2212.08821v1)|null|
 |**2022-12-16**|**It is not "accuracy vs. explainability" -- we need both for trustworthy AI systems**|D. Petkovic et.al.|[2212.11136v2](http://arxiv.org/abs/2212.11136v2)|null|
 |**2022-12-02**|**SimpleMind adds thinking to deep neural networks**|Youngwon Choi et.al.|[2212.00951v1](http://arxiv.org/abs/2212.00951v1)|[link](https://gitlab.com/sm-ai-team/simplemind)|
-|**2022-11-27**|**Attribution-based XAI Methods in Computer Vision: A Review**|Kumar Abhishek et.al.|[2211.14736v1](http://arxiv.org/abs/2211.14736v1)|null|
-|**2022-11-08**|**Privacy Meets Explainability: A Comprehensive Impact Benchmark**|Saifullah Saifullah et.al.|[2211.04110v1](http://arxiv.org/abs/2211.04110v1)|null|
 
 #### Abstracts
+##### **Towards Compositional Interpretability for XAI**
+2406.17583v1 by Sean Tull, Robin Lorenz, Stephen Clark, Ilyas Khan, Bob Coecke
+
+Artificial intelligence (AI) is currently based largely on black-box machine
+learning models which lack interpretability. The field of eXplainable AI (XAI)
+strives to address this major concern, being critical in high-stakes areas such
+as the finance, legal and health sectors.
+  We present an approach to defining AI models and their interpretability based
+on category theory. For this we employ the notion of a compositional model,
+which sees a model in terms of formal string diagrams which capture its
+abstract structure together with its concrete implementation. This
+comprehensive view incorporates deterministic, probabilistic and quantum
+models. We compare a wide range of AI models as compositional models, including
+linear and rule-based models, (recurrent) neural networks, transformers, VAEs,
+and causal and DisCoCirc models.
+  Next we give a definition of interpretation of a model in terms of its
+compositional structure, demonstrating how to analyse the interpretability of a
+model, and using this to clarify common themes in XAI. We find that what makes
+the standard 'intrinsically interpretable' models so transparent is brought out
+most clearly diagrammatically. This leads us to the more general notion of
+compositionally-interpretable (CI) models, which additionally include, for
+instance, causal, conceptual space, and DisCoCirc models.
+  We next demonstrate the explainability benefits of CI models. Firstly, their
+compositional structure may allow the computation of other quantities of
+interest, and may facilitate inference from the model to the modelled
+phenomenon by matching its structure. Secondly, they allow for diagrammatic
+explanations for their behaviour, based on influence constraints, diagram
+surgery and rewrite explanations. Finally, we discuss many future directions
+for the approach, raising the question of how to learn such meaningfully
+structured models in practice.
+
+摘要：<paragraph>人工智慧（AI）目前在很大程度上依賴於缺乏可解釋性的黑盒機器學習模型。可解釋性人工智慧（XAI）領域致力於解決這個主要問題，這在金融、法律和健康等高風險領域至關重要。
+我們提出了一種基於範疇論定義 AI 模型及其可解釋性的方法。為此，我們採用組合模型的概念，它以形式弦圖的形式看待模型，這些弦圖捕獲了模型的抽象結構及其具體實現。這種綜合觀點包含了確定性、概率性和量子模型。我們將各種 AI 模型作為組合模型進行比較，包括線性和基於規則的模型、（遞迴）神經網路、Transformer、VAE，以及因果和 DisCoCirc 模型。
+接下來，我們根據模型的組合結構給出模型解釋的定義，展示如何分析模型的可解釋性，並使用它來澄清 XAI 中的常見主題。我們發現，讓標準的「內在可解釋」模型如此透明的原因在圖表中表現得最為清楚。這引導我們得出更一般的組合可解釋（CI）模型概念，它另外還包括因果、概念空間和 DisCoCirc 模型。
+接下來，我們展示了 CI 模型的可解釋性優勢。首先，它們的組合結構允許計算其他感興趣的量，並可能通過匹配模型的結構來促進從模型到被建模現象的推理。其次，它們允許對其行為進行圖解說明，這些說明基於影響約束、圖解手術和重寫說明。最後，我們討論了這種方法的許多未來方向，提出了如何在實踐中學習這種有意義的結構化模型的問題。</paragraph>
+
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
 2406.06728v1 by K M Tawsik Jawad, Anusha Verma, Fathi Amsaad
 
@@ -232,6 +268,30 @@ attention layers is insufficient to interpret the GAT model's behavior. Code is
 publicly available at https://github.com/jordan7186/GAtt/tree/main.
 
 摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
+
+##### **Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**
+2406.16908v1 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira Edussooriya
+
+The neonatal period is the most vulnerable time for the development of
+seizures. Seizures in the immature brain lead to detrimental consequences,
+therefore require early diagnosis. The gold-standard for neonatal seizure
+detection currently relies on continuous video-EEG monitoring; which involves
+recording multi-channel electroencephalogram (EEG) alongside real-time video
+monitoring within a neonatal intensive care unit (NICU). However, video-EEG
+monitoring technology requires clinical expertise and is often limited to
+technologically advanced and resourceful settings. Cost-effective new
+techniques could help the medical fraternity make an accurate diagnosis and
+advocate treatment without delay. In this work, a novel explainable deep
+learning model to automate the neonatal seizure detection process with a
+reduced EEG montage is proposed, which employs convolutional nets, graph
+attention layers, and fully connected layers. Beyond its ability to detect
+seizures in real-time with a reduced montage, this model offers the unique
+advantage of real-time interpretability. By evaluating the performance on the
+Zenodo dataset with 10-fold cross-validation, the presented model achieves an
+absolute improvement of 8.31% and 42.86% in area under curve (AUC) and recall,
+respectively.
+
+摘要：新生兒期是大腦發育最容易出現癲癇的時期。大腦尚未成熟時發生的癲癇會造成不良後果，因此需要提早診斷。目前新生兒癲癇檢測的黃金標準依賴於持續的視訊腦電圖 (EEG) 監控；其中包括在新生兒加護病房 (NICU) 內錄製多通道腦電圖 (EEG) 和進行即時視訊監控。然而，視訊腦電圖監控技術需要臨床專業知識，而且通常僅限於技術先進且資源豐富的環境。具成本效益的新技術可以幫助醫療界準確診斷並立即提倡治療。在這項工作中，提出了一個新穎的可解釋深度學習模型，以自動化新生兒癲癇檢測流程，並減少腦電圖裝置，採用卷積神經網路、圖注意力層和全連接層。除了能夠即時偵測癲癇發作並減少裝置外，此模型還提供了即時可解釋性的獨特優勢。透過評估 Zenodo 資料集的 10 倍交叉驗證效能，提出的模型在曲線下面積 (AUC) 和召回率分別達到 8.31% 和 42.86% 的絕對改善。
 
 ##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
 2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik
@@ -2506,50 +2566,4 @@ a Cognitive AI framework.
 
 摘要：深度神经網路 (DNN) 可偵測資料中的模式，並在許多電腦視覺應用中展現出多功能性與強大效能。
 然而，DNN 本身容易犯下違反簡單常識概念的明顯錯誤，且在使用明確知識來引導其搜尋與決策制定時有其限制。儘管整體 DNN 效能指標可能良好，但這些明顯的錯誤，加上缺乏可解釋性，已阻礙其廣泛採用於諸如醫學影像分析等關鍵任務。本文的目的是介紹 SimpleMind，一個專注於醫學影像理解的認知 AI 開源軟體框架。它允許建立一個知識庫，以直觀的人類可讀形式描述影像物件之間預期的特徵和關係。SimpleMind 框架透過以下方式為 DNN 帶來思考能力：(1) 提供基於知識庫對影像內容進行推理的方法，例如空間推論和條件推理，以檢查 DNN 輸出；(2) 以通用軟體代理的形式套用程序知識，將其串連在一起以完成影像前處理、DNN 預測和結果後處理；以及 (3) 對所有知識庫參數執行自動共同最佳化，以適應代理到特定問題。SimpleMind 能對多個偵測到的物件進行推理以確保一致性，並提供 DNN 輸出之間的交叉檢查。這種機器推理透過一個可解釋的模型和可解釋的決策，來提升 DNN 的可靠性和可信度。本文提供了範例應用，展示 SimpleMind 如何透過將深度神經網路嵌入認知 AI 框架中，來支援和改善深度神經網路。
-
-##### **Attribution-based XAI Methods in Computer Vision: A Review**
-2211.14736v1 by Kumar Abhishek, Deeksha Kamath
-
-The advancements in deep learning-based methods for visual perception tasks
-have seen astounding growth in the last decade, with widespread adoption in a
-plethora of application areas from autonomous driving to clinical decision
-support systems. Despite their impressive performance, these deep
-learning-based models remain fairly opaque in their decision-making process,
-making their deployment in human-critical tasks a risky endeavor. This in turn
-makes understanding the decisions made by these models crucial for their
-reliable deployment. Explainable AI (XAI) methods attempt to address this by
-offering explanations for such black-box deep learning methods. In this paper,
-we provide a comprehensive survey of attribution-based XAI methods in computer
-vision and review the existing literature for gradient-based,
-perturbation-based, and contrastive methods for XAI, and provide insights on
-the key challenges in developing and evaluating robust XAI methods.
-
-摘要：在過去十年中，基於深度學習方法的視覺感知任務取得了驚人的進展，並廣泛應用於從自動駕駛到臨床決策支援系統的眾多應用領域。儘管這些基於深度學習的模型效能令人印象深刻，但它們在決策過程中仍然相當不透明，這使得它們在人類關鍵任務中的部署成為一項冒險的事業。這反過來又使得理解這些模型做出的決策對於它們的可靠部署至關重要。可解釋 AI (XAI) 方法試圖通過為這種黑盒深度學習方法提供解釋來解決這個問題。在本文中，我們對電腦視覺中的基於歸因的 XAI 方法進行了全面的調查，並回顧了現有關於基於梯度、基於擾動和基於對比的 XAI 方法的文獻，並對開發和評估穩健的 XAI 方法的關鍵挑戰提供了見解。
-
-##### **Privacy Meets Explainability: A Comprehensive Impact Benchmark**
-2211.04110v1 by Saifullah Saifullah, Dominique Mercier, Adriano Lucieri, Andreas Dengel, Sheraz Ahmed
-
-Since the mid-10s, the era of Deep Learning (DL) has continued to this day,
-bringing forth new superlatives and innovations each year. Nevertheless, the
-speed with which these innovations translate into real applications lags behind
-this fast pace. Safety-critical applications, in particular, underlie strict
-regulatory and ethical requirements which need to be taken care of and are
-still active areas of debate. eXplainable AI (XAI) and privacy-preserving
-machine learning (PPML) are both crucial research fields, aiming at mitigating
-some of the drawbacks of prevailing data-hungry black-box models in DL. Despite
-brisk research activity in the respective fields, no attention has yet been
-paid to their interaction. This work is the first to investigate the impact of
-private learning techniques on generated explanations for DL-based models. In
-an extensive experimental analysis covering various image and time series
-datasets from multiple domains, as well as varying privacy techniques, XAI
-methods, and model architectures, the effects of private training on generated
-explanations are studied. The findings suggest non-negligible changes in
-explanations through the introduction of privacy. Apart from reporting
-individual effects of PPML on XAI, the paper gives clear recommendations for
-the choice of techniques in real applications. By unveiling the
-interdependencies of these pivotal technologies, this work is a first step
-towards overcoming the remaining hurdles for practically applicable AI in
-safety-critical domains.
-
-摘要：自 10 年代中期以來，深度學習 (DL) 的時代持續至今，每年都會帶來新的最優值和創新。儘管如此，這些創新轉化為實際應用程式的速度仍落後於這種快速步伐。特別是安全關鍵應用程式，其基礎是嚴格的法規和道德要求，需要妥善處理，並且仍然是爭論的領域。可解釋 AI (XAI) 和隱私保護機器學習 (PPML) 都是至關重要的研究領域，旨在減輕 DL 中流行的資料密集型黑盒模型的一些缺點。儘管在各自領域中進行了熱烈的研究活動，但尚未關注它們的互動。這項工作是第一個探討私有學習技術對基於 DL 的模型產生的解釋的影響。在涵蓋多個領域的各種影像和時間序列資料集以及不同的隱私技術、XAI 方法和模型架構的廣泛實驗分析中，研究了私有訓練對產生的解釋的影響。研究結果表明，透過引入隱私，解釋會產生不可忽視的變化。除了報告 PPML 對 XAI 的個別影響外，本文還對實際應用中技術的選擇提供了明確的建議。透過揭示這些關鍵技術的相互依賴性，這項工作是克服安全關鍵領域中實際可應用 AI 的剩餘障礙的第一步。
 

@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449v1](http://arxiv.org/abs/2406.18449v1)|null|
+|**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|null|
+|**2024-06-26**|**AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**|Yifan Yang et.al.|[2406.18060v1](http://arxiv.org/abs/2406.18060v1)|[link](https://github.com/yifanycc/adazeta)|
 |**2024-06-25**|**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**|Zhehao Zhang et.al.|[2406.17271v1](http://arxiv.org/abs/2406.17271v1)|[link](https://github.com/salt-nlp/darg)|
 |**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|null|
 |**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687v1](http://arxiv.org/abs/2406.16687v1)|null|
@@ -98,12 +102,92 @@
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
 |**2024-06-05**|**Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**|Yang Wu et.al.|[2406.03600v1](http://arxiv.org/abs/2406.03600v1)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
-|**2024-06-04**|**Exploring Effects of Hyperdimensional Vectors for Tsetlin Machines**|Vojtech Halenka et.al.|[2406.02648v1](http://arxiv.org/abs/2406.02648v1)|null|
-|**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110v1](http://arxiv.org/abs/2406.02110v1)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
-|**2024-06-04**|**ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**|Wei Shao et.al.|[2406.03404v1](http://arxiv.org/abs/2406.03404v1)|null|
 
 #### Abstracts
+##### **Cascading Large Language Models for Salient Event Graph Generation**
+2406.18449v1 by Xingwei Tan, Yuxiang Zhou, Gabriele Pergola, Yulan He
+
+Generating event graphs from long documents is challenging due to the
+inherent complexity of multiple tasks involved such as detecting events,
+identifying their relationships, and reconciling unstructured input with
+structured graphs. Recent studies typically consider all events with equal
+importance, failing to distinguish salient events crucial for understanding
+narratives. This paper presents CALLMSAE, a CAscading Large Language Model
+framework for SAlient Event graph generation, which leverages the capabilities
+of LLMs and eliminates the need for costly human annotations. We first identify
+salient events by prompting LLMs to generate summaries, from which salient
+events are identified. Next, we develop an iterative code refinement prompting
+strategy to generate event relation graphs, removing hallucinated relations and
+recovering missing edges. Fine-tuning contextualised graph generation models on
+the LLM-generated graphs outperforms the models trained on CAEVO-generated
+data. Experimental results on a human-annotated test set show that the proposed
+method generates salient and more accurate graphs, outperforming competitive
+baselines.
+
+摘要：由於涉及多項任務的內在複雜性，例如偵測事件、識別其關係，以及調和非結構化輸入與結構化圖表，因此從長篇文件產生事件圖表是一項挑戰。最近的研究通常將所有事件視為同等重要，未能區分對理解敘事至關重要的顯著事件。本文提出了 CALLMSAE，一個用於生成顯著事件圖表的層疊式大型語言模型框架，它利用了 LLM 的功能，並消除了對昂貴的人工標註的需求。我們首先透過提示 LLM 產生摘要來識別顯著事件，從中識別出顯著事件。接下來，我們開發了一種反覆的程式碼精煉提示策略來產生事件關係圖表，移除幻覺關係並恢復遺失的邊緣。在 LLM 生成的圖表上微調情境化圖表生成模型，其表現優於在 CAEVO 生成的資料上訓練的模型。在人工標註的測試集上的實驗結果顯示，所提出的方法產生了顯著且更準確的圖表，優於競爭性的基準。
+
+##### **Sanskrit Knowledge-based Systems: Annotation and Computational Tools**
+2406.18276v1 by Hrishikesh Terdalkar
+
+We address the challenges and opportunities in the development of knowledge
+systems for Sanskrit, with a focus on question answering. By proposing a
+framework for the automated construction of knowledge graphs, introducing
+annotation tools for ontology-driven and general-purpose tasks, and offering a
+diverse collection of web-interfaces, tools, and software libraries, we have
+made significant contributions to the field of computational Sanskrit. These
+contributions not only enhance the accessibility and accuracy of Sanskrit text
+analysis but also pave the way for further advancements in knowledge
+representation and language processing. Ultimately, this research contributes
+to the preservation, understanding, and utilization of the rich linguistic
+information embodied in Sanskrit texts.
+
+摘要：我們著手解決梵語知識系統開發中的挑戰和機會，重點在於問題解答。透過提出一個用於自動建構知識圖譜的架構，導入用於本體驅動和一般用途任務的註解工具，並提供多樣化的網路介面、工具和軟體函式庫，我們對計算梵語領域做出了重大貢獻。這些貢獻不僅增強了梵語文本分析的可存取性和準確性，也為知識表徵和語言處理的進一步進展鋪平了道路。最終，這項研究有助於保存、理解和利用梵語文本中蘊含的豐富語言資訊。
+
+##### **Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**
+2406.18085v1 by Ran Song, Shizhu He, Shengxiang Gao, Li Cai, Kang Liu, Zhengtao Yu, Jun Zhao
+
+Multilingual Knowledge Graph Completion (mKGC) aim at solving queries like
+(h, r, ?) in different languages by reasoning a tail entity t thus improving
+multilingual knowledge graphs. Previous studies leverage multilingual
+pretrained language models (PLMs) and the generative paradigm to achieve mKGC.
+Although multilingual pretrained language models contain extensive knowledge of
+different languages, its pretraining tasks cannot be directly aligned with the
+mKGC tasks. Moreover, the majority of KGs and PLMs currently available exhibit
+a pronounced English-centric bias. This makes it difficult for mKGC to achieve
+good results, particularly in the context of low-resource languages. To
+overcome previous problems, this paper introduces global and local knowledge
+constraints for mKGC. The former is used to constrain the reasoning of answer
+entities, while the latter is used to enhance the representation of query
+contexts. The proposed method makes the pretrained model better adapt to the
+mKGC task. Experimental results on public datasets demonstrate that our method
+outperforms the previous SOTA on Hits@1 and Hits@10 by an average of 12.32% and
+16.03%, which indicates that our proposed method has significant enhancement on
+mKGC.
+
+摘要：多語言知識圖譜完成 (mKGC) 旨在透過推理尾部實體 t 來解決不同語言中的查詢，例如 (h, r, ?)，進而改善多語言知識圖譜。先前的研究利用多語言預訓練語言模型 (PLM) 和生成範例來達成 mKGC。儘管多語言預訓練語言模型包含不同語言的廣泛知識，但其預訓練任務無法直接與 mKGC 任務對齊。此外，目前大多數的知識圖譜和 PLM 都展現出明顯的英語中心偏誤。這使得 mKGC 難以達成良好的結果，特別是在低資源語言的脈絡中。為了克服先前的問題，本文針對 mKGC 引入了全域與局部知識限制。前者用於限制答案實體的推理，而後者用於加強查詢脈絡的表示。所提出的方法使得預訓練模型能更好地適應 mKGC 任務。公開資料集上的實驗結果顯示，我們的模型在 Hits@1 和 Hits@10 上平均優於先前的 SOTA 12.32% 和 16.03%，這表示我們提出的方法顯著地增強了 mKGC。
+
+##### **AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**
+2406.18060v1 by Yifan Yang, Kai Zhen, Ershad Banijamal, Athanasios Mouchtaris, Zheng Zhang
+
+Fine-tuning large language models (LLMs) has achieved remarkable performance
+across various natural language processing tasks, yet it demands more and more
+memory as model sizes keep growing. To address this issue, the recently
+proposed Memory-efficient Zeroth-order (MeZO) methods attempt to fine-tune LLMs
+using only forward passes, thereby avoiding the need for a backpropagation
+graph. However, significant performance drops and a high risk of divergence
+have limited their widespread adoption. In this paper, we propose the Adaptive
+Zeroth-order Tensor-Train Adaption (AdaZeta) framework, specifically designed
+to improve the performance and convergence of the ZO methods. To enhance
+dimension-dependent ZO estimation accuracy, we introduce a fast-forward,
+low-parameter tensorized adapter. To tackle the frequently observed divergence
+issue in large-scale ZO fine-tuning tasks, we propose an adaptive query number
+schedule that guarantees convergence. Detailed theoretical analysis and
+extensive experimental results on Roberta-Large and Llama-2-7B models
+substantiate the efficacy of our AdaZeta framework in terms of accuracy, memory
+efficiency, and convergence speed.
+
+摘要：微调大型语言模型 (LLM) 在各种自然语言处理任务中取得了显著的性能，但随着模型规模的不断扩大，它对内存的需求也越来越大。为了解决这个问题，最近提出的内存高效零阶 (MeZO) 方法试图仅使用前向传递来微调 LLM，从而避免了对反向传播图的需求。然而，严重的性能下降和发散的高风险限制了它们的广泛采用。在本文中，我们提出了自适应零阶张量训练自适应 (AdaZeta) 框架，专门设计用于提高 ZO 方法的性能和收敛性。为了增强维度相关的 ZO 估计精度，我们引入了一个快速前向、低参数张量化适配器。为了解决在大规模 ZO 微调任务中经常观察到的发散问题，我们提出了一个自适应查询数量计划，以保证收敛性。对 Roberta-Large 和 Llama-2-7B 模型的详细理论分析和广泛的实验结果证明了我们的 AdaZeta 框架在准确性、内存效率和收敛速度方面的有效性。
+
 ##### **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**
 2406.17271v1 by Zhehao Zhang, Jiaao Chen, Diyi Yang
 
@@ -2450,106 +2534,4 @@ baseline approaches in explainable recommender systems. We open-source our
 model implementation at https://github.com/HKUDS/XRec.
 
 摘要：推薦系統透過提供符合使用者偏好的個人化推薦，協助使用者在資訊爆炸中輕鬆瀏覽。協同過濾 (CF) 是一種廣泛採用的方法，但儘管圖神經網路 (GNN) 和自監督學習 (SSL) 等進階技術已增強 CF 模型以提供更好的使用者表徵，但它們通常缺乏提供推薦項目解釋的能力。可解釋推薦旨在透過提供透明度和見解來解決這個差距，以了解推薦決策制定過程，進而增進使用者的理解。這項工作利用大型語言模型 (LLM) 的語言能力，來突破可解釋推薦系統的界限。我們引進一個名為 XRec 的與模型無關的架構，讓 LLM 能夠為推薦系統中的使用者行為提供全面的解釋。透過整合協同信號和設計一個輕量級協同適配器，此架構賦能 LLM 了解使用者與項目互動中的複雜模式，並更深入地了解使用者偏好。我們廣泛的實驗證明了 XRec 的有效性，展示了它產生全面且有意義的解釋的能力，在可解釋推薦系統中優於基準方法。我們在 https://github.com/HKUDS/XRec 開源我們的模型實作。
-
-##### **Exploring Effects of Hyperdimensional Vectors for Tsetlin Machines**
-2406.02648v1 by Vojtech Halenka, Ahmed K. Kadhim, Paul F. A. Clarke, Bimal Bhattarai, Rupsa Saha, Ole-Christoffer Granmo, Lei Jiao, Per-Arne Andersen
-
-Tsetlin machines (TMs) have been successful in several application domains,
-operating with high efficiency on Boolean representations of the input data.
-However, Booleanizing complex data structures such as sequences, graphs,
-images, signal spectra, chemical compounds, and natural language is not
-trivial. In this paper, we propose a hypervector (HV) based method for
-expressing arbitrarily large sets of concepts associated with any input data.
-Using a hyperdimensional space to build vectors drastically expands the
-capacity and flexibility of the TM. We demonstrate how images, chemical
-compounds, and natural language text are encoded according to the proposed
-method, and how the resulting HV-powered TM can achieve significantly higher
-accuracy and faster learning on well-known benchmarks. Our results open up a
-new research direction for TMs, namely how to expand and exploit the benefits
-of operating in hyperspace, including new booleanization strategies,
-optimization of TM inference and learning, as well as new TM applications.
-
-摘要：Tsetlin 機器 (TM) 已在多個應用領域中獲得成功，
-使用布林表示法對輸入數據進行高效運算。
-然而，布林化複雜的數據結構（例如序列、圖形、
-影像、訊號頻譜、化學化合物和自然語言）並非易事。
-在本文中，我們提出了一種基於超向量的 (HV) 方法，用於
-表達與任何輸入數據關聯的任意大型概念集。
-使用超維空間來建構向量大幅擴展了
-TM 的容量和靈活性。我們展示了影像、化學
-化合物和自然語言文字是如何根據所提出的
-方法進行編碼，以及由此產生的 HV 驅動 TM 如何在眾所周知的基準上實現顯著更高的
-準確度和更快的學習。我們的結果為 TM 開啟了一個新的研究方向，即如何擴展和利用在超空間中運作的優點，包括新的布林化策略、
-TM 推論和學習的最佳化，以及新的 TM 應用。
-
-##### **UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**
-2406.02110v1 by Zhuoyang Li, Liran Deng, Hui Liu, Qiaoqiao Liu, Junzhao Du
-
-OwnThink stands as the most extensive Chinese open-domain knowledge graph
-introduced in recent times. Despite prior attempts in question answering over
-OwnThink (OQA), existing studies have faced limitations in model representation
-capabilities, posing challenges in further enhancing overall accuracy in
-question answering. In this paper, we introduce UniOQA, a unified framework
-that integrates two complementary parallel workflows. Unlike conventional
-approaches, UniOQA harnesses large language models (LLMs) for precise question
-answering and incorporates a direct-answer-prediction process as a
-cost-effective complement. Initially, to bolster representation capacity, we
-fine-tune an LLM to translate questions into the Cypher query language (CQL),
-tackling issues associated with restricted semantic understanding and
-hallucinations. Subsequently, we introduce the Entity and Relation Replacement
-algorithm to ensure the executability of the generated CQL. Concurrently, to
-augment overall accuracy in question answering, we further adapt the
-Retrieval-Augmented Generation (RAG) process to the knowledge graph.
-Ultimately, we optimize answer accuracy through a dynamic decision algorithm.
-Experimental findings illustrate that UniOQA notably advances SpCQL Logical
-Accuracy to 21.2% and Execution Accuracy to 54.9%, achieving the new
-state-of-the-art results on this benchmark. Through ablation experiments, we
-delve into the superior representation capacity of UniOQA and quantify its
-performance breakthrough.
-
-摘要：OwnThink 是近來介紹的最廣泛的中文開放領域知識圖譜。儘管先前嘗試在 OwnThink（OQA）上進行問題解答，但現有研究在模型表示能力方面面臨限制，對進一步提高問題解答的整體準確性構成挑戰。在本文中，我們介紹了 UniOQA，這是一個統一的框架，它整合了兩個互補的並行工作流程。與傳統方法不同，UniOQA 利用大型語言模型 (LLM) 進行精準問題解答，並將直接答案預測過程作為一種具有成本效益的補充。最初，為了加強表示能力，我們微調 LLM 以將問題轉換為 Cypher 查詢語言 (CQL)，解決與受限語義理解和幻覺相關的問題。隨後，我們引入了實體和關係替換演算法，以確保生成的 CQL 的可執行性。同時，為了提高問題解答的整體準確性，我們進一步將檢索增強生成 (RAG) 過程適應到知識圖譜。最終，我們透過動態決策演算法最佳化答案準確性。實驗結果表明，UniOQA 將 SpCQL 邏輯準確度顯著提升至 21.2%，執行準確度提升至 54.9%，在這個基準上取得了新的最先進結果。透過消融實驗，我們深入探討 UniOQA 的優異表示能力，並量化其效能突破。
-
-##### **Multimodal Reasoning with Multimodal Knowledge Graph**
-2406.02030v2 by Junlin Lee, Yequan Wang, Jing Li, Min Zhang
-
-Multimodal reasoning with large language models (LLMs) often suffers from
-hallucinations and the presence of deficient or outdated knowledge within LLMs.
-Some approaches have sought to mitigate these issues by employing textual
-knowledge graphs, but their singular modality of knowledge limits comprehensive
-cross-modal understanding. In this paper, we propose the Multimodal Reasoning
-with Multimodal Knowledge Graph (MR-MKG) method, which leverages multimodal
-knowledge graphs (MMKGs) to learn rich and semantic knowledge across
-modalities, significantly enhancing the multimodal reasoning capabilities of
-LLMs. In particular, a relation graph attention network is utilized for
-encoding MMKGs and a cross-modal alignment module is designed for optimizing
-image-text alignment. A MMKG-grounded dataset is constructed to equip LLMs with
-initial expertise in multimodal reasoning through pretraining. Remarkably,
-MR-MKG achieves superior performance while training on only a small fraction of
-parameters, approximately 2.25% of the LLM's parameter size. Experimental
-results on multimodal question answering and multimodal analogy reasoning tasks
-demonstrate that our MR-MKG method outperforms previous state-of-the-art
-models.
-
-摘要：多模态推理与大型语言模型 (LLM) 经常会出现幻觉，并且 LLM 中存在知识缺陷或过时的问题。一些方法试图通过使用文本知识图谱来缓解这些问题，但它们单一的知识模式限制了全面的跨模态理解。在本文中，我们提出了多模态知识图谱 (MR-MKG) 方法的多模态推理，该方法利用多模态知识图谱 (MMKG) 来学习跨模态的丰富语义知识，从而显著增强 LLM 的多模态推理能力。特别是，关系图谱注意力网络用于编码 MMKG，并且跨模态对齐模块设计用于优化图像文本对齐。构建了一个基于 MMKG 的数据集，以通过预训练为 LLM 提供多模态推理的初始专业知识。值得注意的是，MR-MKG 在仅训练 LLM 参数规模的一小部分（约为 2.25%）时就实现了卓越的性能。多模态问题解答和多模态类比推理任务的实验结果表明，我们的 MR-MKG 方法优于以前最先进的模型。
-
-##### **ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**
-2406.03404v1 by Wei Shao, Rongyi Zhu, Cai Yang, Chandra Thapa, Muhammad Ejaz Ahmed, Seyit Camtepe, Rui Zhang, DuYong Kim, Hamid Menouar, Flora D. Salim
-
-Spatiotemporal data is prevalent in a wide range of edge devices, such as
-those used in personal communication and financial transactions. Recent
-advancements have sparked a growing interest in integrating spatiotemporal
-analysis with large-scale language models. However, spatiotemporal data often
-contains sensitive information, making it unsuitable for open third-party
-access. To address this challenge, we propose a Graph-GAN-based model for
-generating privacy-protected spatiotemporal data. Our approach incorporates
-spatial and temporal attention blocks in the discriminator and a spatiotemporal
-deconvolution structure in the generator. These enhancements enable efficient
-training under Gaussian noise to achieve differential privacy. Extensive
-experiments conducted on three real-world spatiotemporal datasets validate the
-efficacy of our model. Our method provides a privacy guarantee while
-maintaining the data utility. The prediction model trained on our generated
-data maintains a competitive performance compared to the model trained on the
-original data.
-
-摘要：時空資料在廣泛的邊緣裝置中很普遍，例如用於個人通訊和金融交易的裝置。最近的進展激發了將時空分析與大規模語言模型整合在一起的興趣。然而，時空資料通常包含敏感資訊，使其不適合開放的第三方存取。為了應對這個挑戰，我們提出一個基於 Graph-GAN 的模型，用於產生受隱私保護的時空資料。我們的做法將空間和時間注意力區塊納入判別器，以及將時空反摺積結構納入生成器。這些增強功能能夠在高斯噪聲下進行有效訓練，以實現差分隱私。在三個真實世界的時空資料集上進行的廣泛實驗驗證了我們模型的效能。我們的模型在維持資料效用的同時提供隱私保證。在我們產生的資料上訓練的預測模型，與在原始資料上訓練的模型相比，維持競爭力的效能。
 

@@ -20,14 +20,14 @@
 |**2024-06-26**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423v1](http://arxiv.org/abs/2406.18423v1)|null|
 |**2024-06-26**|**Mixture of Experts in a Mixture of RL settings**|Timon Willi et.al.|[2406.18420v1](http://arxiv.org/abs/2406.18420v1)|null|
 |**2024-06-26**|**IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons**|Dan Shi et.al.|[2406.18406v1](http://arxiv.org/abs/2406.18406v1)|null|
-|**2024-06-26**|**LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**|Anna Bavaresco et.al.|[2406.18403v1](http://arxiv.org/abs/2406.18403v1)|null|
+|**2024-06-26**|**LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**|Anna Bavaresco et.al.|[2406.18403v1](http://arxiv.org/abs/2406.18403v1)|[link](https://github.com/dmg-illc/JUDGE-BENCH)|
 |**2024-06-26**|**Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers**|Yibo Jiang et.al.|[2406.18400v1](http://arxiv.org/abs/2406.18400v1)|null|
 |**2024-06-26**|**AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors**|Hao Shi et.al.|[2406.18394v1](http://arxiv.org/abs/2406.18394v1)|null|
 |**2024-06-26**|**MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization**|Haolang Lu et.al.|[2406.18379v1](http://arxiv.org/abs/2406.18379v1)|null|
 |**2024-06-26**|**Dynamic Data Pruning for Automatic Speech Recognition**|Qiao Xiao et.al.|[2406.18373v1](http://arxiv.org/abs/2406.18373v1)|null|
 |**2024-06-26**|**Themis: Towards Flexible and Interpretable NLG Evaluation**|Xinyu Hu et.al.|[2406.18365v1](http://arxiv.org/abs/2406.18365v1)|null|
 |**2024-06-26**|**Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model**|Yiming Chen et.al.|[2406.18364v1](http://arxiv.org/abs/2406.18364v1)|null|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v2](http://arxiv.org/abs/2406.18361v2)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
 |**2024-06-26**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354v1](http://arxiv.org/abs/2406.18354v1)|null|
 |**2024-06-26**|**AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations**|Adam Dahlgren Lindström et.al.|[2406.18346v1](http://arxiv.org/abs/2406.18346v1)|null|
 |**2024-06-26**|**Grammar Assistance Using Syntactic Structures (GAUSS)**|Olga Zamaraeva et.al.|[2406.18340v1](http://arxiv.org/abs/2406.18340v1)|null|
@@ -39,13 +39,13 @@
 |**2024-06-26**|**S3: A Simple Strong Sample-effective Multimodal Dialog System**|Elisei Rykov et.al.|[2406.18305v1](http://arxiv.org/abs/2406.18305v1)|[link](https://github.com/s-nlp/s3)|
 |**2024-06-26**|**MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research**|Song Li et.al.|[2406.18301v1](http://arxiv.org/abs/2406.18301v1)|null|
 |**2024-06-26**|**FactFinders at CheckThat! 2024: Refining Check-worthy Statement Detection with LLMs through Data Pruning**|Yufeng Li et.al.|[2406.18297v1](http://arxiv.org/abs/2406.18297v1)|null|
-|**2024-06-26**|**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**|Lei Zhang et.al.|[2406.18294v1](http://arxiv.org/abs/2406.18294v1)|[link](https://github.com/hambaobao/hcp-coder)|
+|**2024-06-26**|**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**|Lei Zhang et.al.|[2406.18294v2](http://arxiv.org/abs/2406.18294v2)|[link](https://github.com/hambaobao/hcp-coder)|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
 |**2024-06-26**|**"Vorbeşti Româneşte?" A Recipe to Train Powerful Romanian LLMs with English Instructions**|Mihai Masala et.al.|[2406.18266v1](http://arxiv.org/abs/2406.18266v1)|null|
 |**2024-06-26**|**Detecting Machine-Generated Texts: Not Just "AI vs Humans" and Explainability is Complicated**|Jiazhou Ji et.al.|[2406.18259v1](http://arxiv.org/abs/2406.18259v1)|null|
 |**2024-06-26**|**LLaMIPa: An Incremental Discourse Parser**|Kate Thompson et.al.|[2406.18256v1](http://arxiv.org/abs/2406.18256v1)|null|
 |**2024-06-26**|**Improving the Consistency in Cross-Lingual Cross-Modal Retrieval with 1-to-K Contrastive Learning**|Zhijie Nie et.al.|[2406.18254v1](http://arxiv.org/abs/2406.18254v1)|null|
-|**2024-06-26**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245v1](http://arxiv.org/abs/2406.18245v1)|[link](https://github.com/oyarsa/event_extraction)|
+|**2024-06-26**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245v2](http://arxiv.org/abs/2406.18245v2)|[link](https://github.com/oyarsa/event_extraction)|
 |**2024-06-26**|**Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**|Simon Münker et.al.|[2406.18239v1](http://arxiv.org/abs/2406.18239v1)|null|
 |**2024-06-26**|**GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension**|Jiafeng Liang et.al.|[2406.18227v1](http://arxiv.org/abs/2406.18227v1)|null|
 |**2024-06-26**|**Enhancing Data Privacy in Large Language Models through Private Association Editing**|Davide Venditti et.al.|[2406.18221v1](http://arxiv.org/abs/2406.18221v1)|null|
@@ -53,17 +53,17 @@
 |**2024-06-26**|**A Closer Look into Mixture-of-Experts in Large Language Models**|Ka Man Lo et.al.|[2406.18219v1](http://arxiv.org/abs/2406.18219v1)|[link](https://github.com/kamanphoebe/look-into-moes)|
 |**2024-06-26**|**SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding**|Zhenglin Wang et.al.|[2406.18200v1](http://arxiv.org/abs/2406.18200v1)|null|
 |**2024-06-26**|**MammothModa: Multi-Modal Large Language Model**|Qi She et.al.|[2406.18193v1](http://arxiv.org/abs/2406.18193v1)|null|
-|**2024-06-26**|**Methodology of Adapting Large English Language Models for Specific Cultural Contexts**|Wenjing Zhang et.al.|[2406.18192v1](http://arxiv.org/abs/2406.18192v1)|null|
+|**2024-06-26**|**Methodology of Adapting Large English Language Models for Specific Cultural Contexts**|Wenjing Zhang et.al.|[2406.18192v2](http://arxiv.org/abs/2406.18192v2)|null|
 |**2024-06-26**|**Selective Prompting Tuning for Personalized Conversations with LLMs**|Qiushi Huang et.al.|[2406.18187v1](http://arxiv.org/abs/2406.18187v1)|[link](https://github.com/hqsiswiliam/SPT)|
-|**2024-06-26**|**Games of Knightian Uncertainty**|Spyridon Samothrakis et.al.|[2406.18178v1](http://arxiv.org/abs/2406.18178v1)|null|
+|**2024-06-26**|**Games of Knightian Uncertainty as AGI testbeds**|Spyridon Samothrakis et.al.|[2406.18178v2](http://arxiv.org/abs/2406.18178v2)|null|
 |**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175v1](http://arxiv.org/abs/2406.18175v1)|[link](https://github.com/larsdoorenbos/generate-spectra)|
-|**2024-06-26**|**UIO-LLMs: Unbiased Incremental Optimization for Long-Context LLMs**|Wenhao Li et.al.|[2406.18173v1](http://arxiv.org/abs/2406.18173v1)|null|
+|**2024-06-26**|**UIO-LLMs: Unbiased Incremental Optimization for Long-Context LLMs**|Wenhao Li et.al.|[2406.18173v1](http://arxiv.org/abs/2406.18173v1)|[link](https://github.com/wenhaoli-xmu/UIO-LLMs)|
 |**2024-06-26**|**NeBuLa: A discourse aware Minecraft Builder**|Akshay Chaturvedi et.al.|[2406.18164v1](http://arxiv.org/abs/2406.18164v1)|null|
 |**2024-06-26**|**Innovating for Tomorrow: The Convergence of SE and Green AI**|Luís Cruz et.al.|[2406.18142v1](http://arxiv.org/abs/2406.18142v1)|null|
 |**2024-06-26**|**LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2406.18139v1](http://arxiv.org/abs/2406.18139v1)|null|
 |**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135v1](http://arxiv.org/abs/2406.18135v1)|null|
 |**2024-06-26**|**Assessing "Implicit" Retrieval Robustness of Large Language Models**|Xiaoyu Shen et.al.|[2406.18134v1](http://arxiv.org/abs/2406.18134v1)|null|
-|**2024-06-26**|**ConvoCache: Smart Re-Use of Chatbot Responses**|Conor Atkins et.al.|[2406.18133v1](http://arxiv.org/abs/2406.18133v1)|null|
+|**2024-06-26**|**ConvoCache: Smart Re-Use of Chatbot Responses**|Conor Atkins et.al.|[2406.18133v1](http://arxiv.org/abs/2406.18133v1)|[link](https://github.com/RoshanStacker/ConvoCache)|
 |**2024-06-26**|**ResumeAtlas: Revisiting Resume Classification with Large-Scale Datasets and Large Language Models**|Ahmed Heakl et.al.|[2406.18125v1](http://arxiv.org/abs/2406.18125v1)|null|
 |**2024-06-26**|**Poisoned LangChain: Jailbreak LLMs by LangChain**|Ziqiu Wang et.al.|[2406.18122v1](http://arxiv.org/abs/2406.18122v1)|null|
 |**2024-06-26**|**ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs**|Ahmed Heakl et.al.|[2406.18120v1](http://arxiv.org/abs/2406.18120v1)|[link](https://github.com/ahmedheakl/arazn-llm)|
@@ -71,14 +71,14 @@
 |**2024-06-26**|**BADGE: BADminton report Generation and Evaluation with LLM**|Shang-Hsuan Chiang et.al.|[2406.18116v1](http://arxiv.org/abs/2406.18116v1)|[link](https://github.com/andychiangsh/badge)|
 |**2024-06-26**|**Open-vocabulary Mobile Manipulation in Unseen Dynamic Environments with 3D Semantic Maps**|Dicong Qiu et.al.|[2406.18115v1](http://arxiv.org/abs/2406.18115v1)|null|
 |**2024-06-26**|**Token-Weighted RNN-T for Learning from Flawed Data**|Gil Keren et.al.|[2406.18108v1](http://arxiv.org/abs/2406.18108v1)|null|
-|**2024-06-26**|**Shimo Lab at "Discharge Me!": Discharge Summarization by Prompt-Driven Concatenation of Electronic Health Record Sections**|Yunzhen He et.al.|[2406.18094v1](http://arxiv.org/abs/2406.18094v1)|null|
+|**2024-06-26**|**Shimo Lab at "Discharge Me!": Discharge Summarization by Prompt-Driven Concatenation of Electronic Health Record Sections**|Yunzhen He et.al.|[2406.18094v1](http://arxiv.org/abs/2406.18094v1)|[link](https://github.com/githubhyz/DischargeMe_BioNLP2024)|
 |**2024-06-26**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088v1](http://arxiv.org/abs/2406.18088v1)|null|
 |**2024-06-26**|**EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models**|Chun-Chieh Liao et.al.|[2406.18087v1](http://arxiv.org/abs/2406.18087v1)|null|
-|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|null|
+|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|[link](https://github.com/Maxpa1n/gcplm-kgc)|
 |**2024-06-26**|**Octo-planner: On-device Language Model for Planner-Action Agents**|Wei Chen et.al.|[2406.18082v1](http://arxiv.org/abs/2406.18082v1)|null|
 |**2024-06-26**|**Self-Training with Pseudo-Label Scorer for Aspect Sentiment Quad Prediction**|Yice Zhang et.al.|[2406.18078v1](http://arxiv.org/abs/2406.18078v1)|[link](https://github.com/hitsz-hlt/st-w-scorer-absa)|
-|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074v1](http://arxiv.org/abs/2406.18074v1)|null|
-|**2024-06-26**|**Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals**|Zengding Liu et.al.|[2406.18069v1](http://arxiv.org/abs/2406.18069v1)|null|
+|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074v1](http://arxiv.org/abs/2406.18074v1)|[link](https://github.com/tntek/dspnet)|
+|**2024-06-26**|**Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals**|Zengding Liu et.al.|[2406.18069v2](http://arxiv.org/abs/2406.18069v2)|null|
 |**2024-06-26**|**Exploring Energy-Based Models for Out-of-Distribution Detection in Dialect Identification**|Yaqian Hao et.al.|[2406.18067v1](http://arxiv.org/abs/2406.18067v1)|null|
 |**2024-06-26**|**Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need**|Yang Wang et.al.|[2406.18064v1](http://arxiv.org/abs/2406.18064v1)|null|
 |**2024-06-26**|**AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**|Yifan Yang et.al.|[2406.18060v1](http://arxiv.org/abs/2406.18060v1)|[link](https://github.com/yifanycc/adazeta)|
@@ -92,9 +92,9 @@
 |**2024-06-26**|**Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models**|Bohan Jiang et.al.|[2406.17992v1](http://arxiv.org/abs/2406.17992v1)|null|
 |**2024-06-26**|**Explicit Diversity Conditions for Effective Question Answer Generation with Large Language Models**|Vikas Yadav et.al.|[2406.17990v1](http://arxiv.org/abs/2406.17990v1)|null|
 |**2024-06-26**|**Multi-step Knowledge Retrieval and Inference over Unstructured Data**|Aditya Kalyanpur et.al.|[2406.17987v1](http://arxiv.org/abs/2406.17987v1)|null|
-|**2024-06-25**|**EDEN: Empathetic Dialogues for English learning**|Li Siyan et.al.|[2406.17982v1](http://arxiv.org/abs/2406.17982v1)|null|
+|**2024-06-25**|**EDEN: Empathetic Dialogues for English learning**|Li Siyan et.al.|[2406.17982v1](http://arxiv.org/abs/2406.17982v1)|[link](https://github.com/siyan-sylvia-li/EDEN)|
 |**2024-06-25**|**Inherent Challenges of Post-Hoc Membership Inference for Large Language Models**|Matthieu Meeus et.al.|[2406.17975v1](http://arxiv.org/abs/2406.17975v1)|null|
-|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974v1](http://arxiv.org/abs/2406.17974v1)|null|
+|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974v1](http://arxiv.org/abs/2406.17974v1)|[link](https://github.com/elviswxy/LVLM_fairness)|
 |**2024-06-25**|**LABOR-LLM: Language-Based Occupational Representations with Large Language Models**|Tianyu Du et.al.|[2406.17972v1](http://arxiv.org/abs/2406.17972v1)|null|
 |**2024-06-25**|**Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective**|Hanqi Yan et.al.|[2406.17969v1](http://arxiv.org/abs/2406.17969v1)|null|
 |**2024-06-25**|**Efficient Document Ranking with Learnable Late Interactions**|Ziwei Ji et.al.|[2406.17968v1](http://arxiv.org/abs/2406.17968v1)|null|
@@ -719,7 +719,7 @@ news summaries.
 摘要：隨著人工智慧的持續進步，自然語言處理技術已廣泛應用於各個領域。同時，中文新聞摘要的生成也面臨著諸多挑戰。首先，中文新聞語義複雜，資訊量龐大，從中文新聞中抽取關鍵資訊是一項艱鉅的挑戰。其次，新聞摘要應簡潔明瞭，著重於主要內容，避免冗餘。此外，中文語言的特殊性，如多義性、詞語切分等，也為中文新聞摘要的生成帶來挑戰。基於以上，本文研究了基於改進的 BERTSum-LSTM 模型的 LCSTS 資料集的資訊抽取方法。我們改進了 BERTSum-LSTM 模型，使其在生成中文新聞摘要方面有更好的表現。實驗結果表明，所提出的方法對新聞摘要的生成有良好的效果，對新聞摘要的構建具有重要的意義。
 
 ##### **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**
-2406.18361v1 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Fudan Zheng, Weijiang Yu
+2406.18361v2 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
 
 Diffusion models have demonstrated their effectiveness across various
 generative tasks. However, when applied to medical image segmentation, these
@@ -737,7 +737,7 @@ reverse step and sample, epitomizing the model's stability as implied by its
 name. The code is available at
 https://github.com/lin-tianyu/Stable-Diffusion-Seg
 
-摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到一些挑戰，包括顯著的資源和時間需求。它們還需要多步驟的反向處理和多個樣本來產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，它建立在穩定擴散 (SD) 之上。SDSeg 結合了一個直接的潛在估計策略，以促進單步反向處理，並利用潛在融合串接來消除對多個樣本的必要性。廣泛的實驗表明，SDSeg 在具有不同影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單一的反向步驟和樣本來產生穩定的預測，體現了模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 取得
+摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到一些挑戰，包括顯著的資源和時間需求。它們還需要一個多步驟的反向處理和多個樣本才能產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，建立在穩定擴散 (SD) 之上。SDSeg 結合了一個直接的潛在估計策略，以促進單步反向處理，並利用潛在融合串接來消除對多個樣本的需要。廣泛的實驗表明，SDSeg 在具有不同影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單獨的反向步驟和樣本生成穩定的預測，這體現了該模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 獲得
 
 ##### **Kolmogorov-Arnold Graph Neural Networks**
 2406.18354v1 by Gianluca De Carlo, Andrea Mastropietro, Aris Anagnostopoulos
@@ -996,7 +996,7 @@ task in the English language.
 摘要：社群媒體與網際網路的資訊快速傳播，對事實查核造成重大挑戰，包括識別事實查核人員應注意的值得查核的說法，亦即從大量的句子中過濾出需要事實查核的說法。這個挑戰強調了必須專注於確定說法的優先順序，特別是哪些說法值得進行事實查核。儘管近年來在這個領域已有進展，但大型語言模型（LLM）的應用，例如 GPT，直到最近才引起研究的注意。然而，許多開源 LLM 仍未被充分探索。因此，本研究探討了八種傑出的開源 LLM 的應用，並透過微調和提示工程來識別政治謄本中的值得查核的陳述。此外，我們提出了一種兩步驟資料修剪方法，用於自動識別高品質的訓練資料實例，以進行有效的學習。我們的方法的效率透過在 CheckThat! 2024 的值得查核性評估任務中，對英語語言資料集的評估來證明。此外，使用資料修剪進行的實驗證明，僅使用約 44% 的訓練資料即可達成競爭性的表現。我們的團隊在英語語言的值得查核性評估任務中排名第一。
 
 ##### **Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**
-2406.18294v1 by Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, Minzheng Wang, Longze Chen, Junhao Liu, Min Yang
+2406.18294v2 by Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, Minzheng Wang, Longze Chen, Junhao Liu, Min Yang
 
 Some recently developed code large language models (Code LLMs) have been
 pre-trained on repository-level code data (Repo-Code LLMs), enabling these
@@ -1020,7 +1020,7 @@ proposed method can significantly enhance completion accuracy while
 substantially reducing the length of input. Our code and data are available at
 https://github.com/Hambaobao/HCP-Coder.
 
-摘要：一些最近開發的程式碼大型語言模型 (Code LLM) 已在儲存庫層級程式碼資料 (Repo-Code LLM) 上進行預先訓練，讓這些模型能夠辨識儲存庫結構並利用跨檔案資訊進行程式碼完成。然而，在真實世界的開發情境中，單純串接整個程式碼儲存庫通常會超過這些 Repo-Code LLM 的內容視窗限制，導致效能大幅下降。在本研究中，我們對六個 Repo-Code LLM 進行了廣泛的初步實驗和分析。結果顯示，維護檔案的拓撲相依性並增加完成提示中的程式碼檔案內容，可以提升完成準確度；移除所有相依檔案中函式的特定實作並不會顯著降低完成的準確度。基於這些發現，我們提出了一種名為階層式內容移除 (HCP) 的策略，以建構具有高資訊程式碼內容的完成提示。HCP 在函式層級對程式碼儲存庫進行建模，維護程式碼檔案之間的拓撲相依性，同時移除大量的無關程式碼內容，大幅減少儲存庫層級程式碼完成的輸入長度。我們在六個 Repo-Code LLM 的實驗中應用 HCP 策略，結果證明我們提出的方法可以在大幅減少輸入長度的同時，顯著提升完成準確度。我們的程式碼和資料可在 https://github.com/Hambaobao/HCP-Coder 取得。
+摘要：一些最近開發的代碼大型語言模型 (Code LLM) 已預先訓練於儲存庫級別的代碼資料 (Repo-Code LLM) 上，讓這些模型能夠辨識儲存庫結構並利用跨檔案資訊來完成代碼。然而，在真實世界的開發情境中，單純串接整個代碼儲存庫通常會超過這些 Repo-Code LLM 的內容視窗限制，導致效能大幅下降。在本研究中，我們針對六個 Repo-Code LLM 進行了廣泛的初步實驗和分析。結果顯示，維護檔案的拓撲相依性並增加完成提示中的程式碼檔案內容可以提升完成準確度；移除所有相依檔案中函式的特定實作並不會顯著降低完成的準確度。根據這些發現，我們提出了一種名為階層式內容移除 (HCP) 的策略，以建構具有高資訊性程式碼內容的完成提示。HCP 在函式層級對程式碼儲存庫建模，維護程式碼檔案之間的拓撲相依性，同時移除大量的無關程式碼內容，大幅減少儲存庫級別程式碼完成的輸入長度。我們在六個 Repo-Code LLM 的實驗中套用 HCP 策略，而結果證明，我們提出的方法可以在大幅減少輸入長度的同時，顯著提升完成準確度。我們的程式碼和資料可在 https://github.com/Hambaobao/HCP-Coder 取得。
 
 ##### **Sanskrit Knowledge-based Systems: Annotation and Computational Tools**
 2406.18276v1 by Hrishikesh Terdalkar
@@ -1133,7 +1133,7 @@ achieving the new state-of-art.
 摘要：跨語言跨模態檢索 (CCR) 是網路搜尋中的一項重要任務，其目標是同時打破模態和語言之間的障礙，並透過單一模型在多語言場景中達成影像文字檢索。近年來，基於跨語言跨模態預訓練已取得顯著進展；特別是，基於大型資料對比學習的方法已大幅改善檢索任務。然而，這些方法直接遵循跨語言或跨模態領域中現有的預訓練方法，導致 CCR 中出現兩個不一致的問題：具有跨語言風格的方法會受到模態內部錯誤傳播的影響，導致整個資料集中各語言之間的召回率表現不一致。具有跨模態風格的方法會受到模態間最佳化方向偏差的影響，導致每個實例中各語言之間的排名不一致，這無法透過 Recall@K 反映出來。為了解決這些問題，我們提出一個簡單但有效的 1 對 K 對比學習方法，該方法一視同仁地對待每種語言，並消除了錯誤傳播和最佳化偏差。此外，我們提出一個新的評估指標，平均排名差異 (MRV)，以反映每個實例中各語言之間的排名不一致性。在四個 CCR 資料集上進行的廣泛實驗顯示，我們的模型透過較小規模的預訓練資料改善了召回率和 MRV，達到了新的技術水準。
 
 ##### **Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**
-2406.18245v1 by Italo Luis da Silva, Hanqi Yan, Lin Gui, Yulan He
+2406.18245v2 by Italo Luis da Silva, Hanqi Yan, Lin Gui, Yulan He
 
 The inherent ambiguity of cause and effect boundaries poses a challenge in
 evaluating causal event extraction tasks. Traditional metrics like Exact Match
@@ -1146,9 +1146,9 @@ on one dataset to another as a way to decrease the reliance on human-annotated
 data. In that vein, we also propose a weak-to-strong supervision method that
 uses a fraction of the annotated data to train an evaluation model while still
 achieving high performance in training an RL model. Our code is available at
-\url{https://github.com/oyarsa/event_extraction/tree/causal-event-extraction}.
+https://github.com/oyarsa/event_extraction/tree/causal-event-extraction.
 
-摘要：因果關係邊界的內在模糊性對評估因果事件抽取任務構成挑戰。傳統指標，例如完全匹配和 BertScore，無法充分反映模型效能，因此我們訓練評估模型以近似人類評估，並達成高度一致性。我們使用它們與抽取模型執行強化學習，以使其與人類偏好一致，並優先考慮語義理解。我們透過多個資料集成功地探索了我們的做法，包括將在一個資料集上訓練的評估員轉移到另一個資料集，作為減少對人工標註資料依賴的一種方式。在那個脈絡中，我們還提出了一種弱到強的監督方法，它使用一小部分標註資料來訓練評估模型，同時仍在訓練 RL 模型時達到高性能。我們的程式碼可在網址取得：\url{https://github.com/oyarsa/event_extraction/tree/causal-event-extraction}。
+摘要：因果關係邊界的內在模糊性在評估因果事件抽取任務時構成挑戰。傳統指標，例如 Exact Match 和 BertScore，無法充分反映模型效能，因此我們訓練評估模型以近似人類評估，並達成高度一致性。我們使用它們來執行強化學習與抽取模型，以將它們與人類偏好對齊，優先考慮語義理解。我們透過多個資料集成功地探索我們的做法，包括將在一個資料集上訓練的評估器轉移到另一個資料集，作為減少依賴人工標記資料的一種方式。在那個脈絡中，我們還提出了一個弱到強的監督方法，它使用一小部分標記資料來訓練評估模型，同時仍可在訓練 RL 模型時達成高效能。我們的程式碼可在 https://github.com/oyarsa/event_extraction/tree/causal-event-extraction 取得。
 
 ##### **Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**
 2406.18239v1 by Simon Münker, Kai Kugler, Achim Rettinger
@@ -1315,7 +1315,7 @@ real-world visual language benchmarks without bells and whistles.
 摘要：在本文中，我們介紹 MammothModa，另一個多模態大型語言模型 (MLLM)，旨在從基礎基準開始實現最先進的效能。我們專注於三個關鍵設計見解：(i) 整合視覺功能，同時維持複雜語言理解：除了視覺編碼器之外，我們將視覺注意力專家納入 LLM，以增強其視覺功能。(ii) 擴展內容視窗以獲得高解析度和長時程視覺特徵：我們探討視覺合併模組，以有效減少高解析度影像的代幣數，並納入影像位置 ID，以避免位置內插。(iii) 高品質雙語資料集：我們仔細策劃並過濾高品質雙語多模態資料集，以減少視覺幻覺。透過上述方法，我們建構出 MammothModa，它在主要的真實世界視覺語言基準中，始終優於最先進的模型，例如 LLaVA 系列，而且沒有花俏的技巧。
 
 ##### **Methodology of Adapting Large English Language Models for Specific Cultural Contexts**
-2406.18192v1 by Wenjing Zhang, Siqi Xiao, Xuejiao Lei, Ning Wang, Huazheng Zhang, Meijuan An, Bikun Yang, Zhaoxiang Liu, Kai Wang, Shiguo Lian
+2406.18192v2 by Wenjing Zhang, Siqi Xiao, Xuejiao Lei, Ning Wang, Huazheng Zhang, Meijuan An, Bikun Yang, Zhaoxiang Liu, Kai Wang, Shiguo Lian
 
 The rapid growth of large language models(LLMs) has emerged as a prominent
 trend in the field of artificial intelligence. However, current
@@ -1331,7 +1331,7 @@ that the adapted LLM significantly enhances its capabilities in domain-specific
 knowledge and adaptability to safety values, while maintaining its original
 expertise advantages.
 
-摘要：大型語言模型 (LLM) 的快速發展已成為人工智慧領域的顯著趨勢。然而，目前最先進的 LLM 主要基於英語。由於缺乏特定文化領域的知識，以及文化價值差異造成的誤解，當直接應用於特定文化領域的任務時，它們會遇到限制。為了應對這一挑戰，我們的論文提出了一種在特定文化背景下快速調整大型模型的方法，該方法利用基於特定文化知識和安全價值觀數據的指令調整。以中文為特定文化背景，並使用 LLaMA3-8B 作為實驗性的英語 LLM，評估結果表明，調整後的 LLM 大幅提升了其在特定領域知識和對安全價值觀的適應能力，同時保持其原有的專業優勢。
+摘要：大型語言模型 (LLM) 的快速發展已成為人工智慧領域的一股顯著趨勢。然而，目前最先進的 LLM 主要基於英文。由於在特定文化領域的知識不足，以及文化價值觀差異所造成的誤解，直接應用於特定文化領域的任務時會遇到限制。為了應對這一挑戰，我們的論文提出了一種針對特定文化背景的大型模型快速適應方法，該方法利用基於特定文化知識和安全價值觀數據的指令微調。以中文為特定文化背景，並利用 LLaMA3-8B 作為實驗性的英文 LLM，評估結果表明，適應後的 LLM 在特定領域的知識和對安全價值觀的適應性方面顯著提升了其能力，同時保持了其原有的專業優勢。
 
 ##### **Selective Prompting Tuning for Personalized Conversations with LLMs**
 2406.18187v1 by Qiushi Huang, Xubo Liu, Tom Ko, Bo Wu, Wenwu Wang, Yu Zhang, Lilian Tang
@@ -1360,8 +1360,8 @@ for further exploration.
 
 摘要：在對話式 AI 中，使用角色設定檔和情境理解來個人化對話至關重要。儘管大型語言模型 (LLM) 改善了回應的連貫性，但有效整合角色設定檔仍然是一個挑戰。在這項工作中，我們首先研究了兩種用於個人化 LLM 的常見方法：文字提示和直接微調。我們觀察到，文字提示通常難以產生與資料集中的基本事實相似的回應，而直接微調則傾向於產生重複或過於通用的回覆。為了緩解這些問題，我們提出了**選**擇性**提**示**調**校 (SPT)，它以選擇性的方式柔和地提示 LLM 進行個人化對話。具體來說，SPT 初始化一組軟提示，並使用可訓練的密集檢索器根據不同的輸入情境自適應地為 LLM 選擇合適的軟提示，其中提示檢索器會透過 LLM 的回饋進行動態更新。此外，我們提出了情境提示對比學習和提示融合學習，以鼓勵 SPT 提升個人化對話的多樣性。在 CONVAI2 資料集上的實驗證明，SPT 將回應多樣性顯著提升了 90%，同時也改善了其他重要的效能指標。這些結果突顯了 SPT 在促進引人入勝且個人化的對話產生方面的效力。SPT 模型程式碼 (https://github.com/hqsiswiliam/SPT) 已公開，供進一步探索。
 
-##### **Games of Knightian Uncertainty**
-2406.18178v1 by Spyridon Samothrakis, Dennis J. N. J. Soemers, Damian Machlanski
+##### **Games of Knightian Uncertainty as AGI testbeds**
+2406.18178v2 by Spyridon Samothrakis, Dennis J. N. J. Soemers, Damian Machlanski
 
 Arguably, for the latter part of the late 20th and early 21st centuries,
 games have been seen as the drosophila of AI. Games are a set of exciting
@@ -1378,7 +1378,7 @@ become again relevant to the AGI pathway, we need to be able to address
 able to adapt to rapid changes in game rules on the fly with no warning, no
 previous data, and no model access.
 
-摘要：可以說，在 20 世紀末和 21 世紀初的後半段，遊戲被視為 AI 的果蠅。遊戲是一組令人興奮的測試平台，其解決方案（在識別最佳玩家方面）將導致擁有某種形式的通用智能的機器，或至少幫助我們獲得對構建智能機器的見解。在圍棋、國際象棋和撲克等傳統棋盤遊戲以及 Atari 2600 收藏等電子遊戲中取得令人印象深刻的成功之後，很明顯情況並非如此。遊戲已經成功受到攻擊，但我們遠遠沒有達到 AGI 發展（或者，正如嚴厲的批評者所說，有用的 AI 發展！）。在這篇簡短的願景論文中，我們認為遊戲研究要再次與 AGI 路徑相關，我們需要能夠在遊戲的背景下解決「奈特不確定性」，即代理必須能夠在沒有警告、沒有先前數據和沒有模型訪問的情況下適應遊戲規則的快速變化。
+摘要：<paragraph>可以說，在 20 世紀後期和 21 世紀初期，遊戲被視為 AI 的果蠅。遊戲是一組令人興奮的測試平台，其解決方案（在識別最佳玩家方面）將導致機器具備某種形式的通用智能，或至少幫助我們獲得見解以構建智能機器。在圍棋、國際象棋和撲克等傳統棋盤遊戲以及 Atari 2600 系列等電子遊戲中取得令人印象深刻的成功之後，很明顯情況並非如此。遊戲已經成功受到攻擊，但我們遠遠沒有達到 AGI 發展（或者，正如更嚴厲的批評者所說，有用的 AI 發展！）。在這個簡短的願景文件中，我們認為，為了讓遊戲研究再次與 AGI 路徑相關，我們需要能夠在遊戲的背景下解決「奈特不確定性」，即代理需要能夠在沒有警告、沒有先前數據和沒有模型訪問的情況下，迅速適應遊戲規則的快速變化。</paragraph>
 
 ##### **Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**
 2406.18175v1 by Lars Doorenbos, Eva Sextl, Kevin Heng, Stefano Cavuoti, Massimo Brescia, Olena Torbaniuk, Giuseppe Longo, Raphael Sznitman, Pablo Márquez-Neila
@@ -1880,7 +1880,7 @@ superiority of DSPNet over previous state-of-the-art methods.
 摘要：少样本语义分割 (FSS) 旨在以每类仅一个标记训练样本的方式将预训练模型调整到新类。尽管基于原型的办法已取得重大成功，但现有模型仅限于对象明显不同且背景不太复杂的成像场景，例如自然图像。这使得此类模型不适用于同时不满足这两个条件的医学影像。为了解决这个问题，我们提出了一种新颖的细节自精炼原型网络 (DSPNet)，以构建高保真原型，更全面地表示对象前景和背景。具体来说，为了在保持捕获的细节语义的同时构建全局语义，我们通过使用聚类对多模态结构进行建模，然后以逐通道的方式融合每个结构，从而学习前景原型。考虑到背景在空间维度上通常没有明显的语义关系，我们在稀疏通道感知调节下整合特定于通道的结构信息。在三个极具挑战性的医学影像基准上进行的广泛实验表明，DSPNet 优于以前最先进的方法。
 
 ##### **Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals**
-2406.18069v1 by Zengding Liu, Chen Chen, Jiannong Cao, Minglei Pan, Jikui Liu, Nan Li, Fen Miao, Ye Li
+2406.18069v2 by Zengding Liu, Chen Chen, Jiannong Cao, Minglei Pan, Jikui Liu, Nan Li, Fen Miao, Ye Li
 
 Large language models (LLMs) have captured significant interest from both
 academia and industry due to their impressive performance across various
@@ -1894,18 +1894,18 @@ wearable biosignals. We extracted physiological features from electrocardiogram
 (ECG) and photoplethysmogram (PPG) signals and designed context-enhanced
 prompts by combining these features with BP domain knowledge and user
 information. Subsequently, we adapted LLMs to BP estimation tasks through
-instruction tuning. To evaluate the proposed approach, we conducted assessments
-of ten advanced LLMs using a comprehensive public dataset of wearable
-biosignals from 1,272 participants. The experimental results demonstrate that
-the optimally fine-tuned LLM significantly surpasses conventional task-specific
-baselines, achieving an estimation error of 0.00 $\pm$ 9.25 mmHg for systolic
-BP and 1.29 $\pm$ 6.37 mmHg for diastolic BP. Notably, the ablation studies
-highlight the benefits of our context enhancement strategy, leading to an 8.9%
-reduction in mean absolute error for systolic BP estimation. This paper
-pioneers the exploration of LLMs for cuffless BP measurement, providing a
-potential solution to enhance the accuracy of cuffless BP measurement.
+fine-tuning. To evaluate the proposed approach, we conducted assessments of ten
+advanced LLMs using a comprehensive public dataset of wearable biosignals from
+1,272 participants. The experimental results demonstrate that the optimally
+fine-tuned LLM significantly surpasses conventional task-specific baselines,
+achieving an estimation error of 0.00 $\pm$ 9.25 mmHg for systolic BP and 1.29
+$\pm$ 6.37 mmHg for diastolic BP. Notably, the ablation studies highlight the
+benefits of our context enhancement strategy, leading to an 8.9% reduction in
+mean absolute error for systolic BP estimation. This paper pioneers the
+exploration of LLMs for cuffless BP measurement, providing a potential solution
+to enhance the accuracy of cuffless BP measurement.
 
-摘要：大型語言模型 (LLM) 由於其在各種文本任務中的出色表現，引起了學術界和產業界的濃厚興趣。然而，LLM 分析生理時序數據的潛力仍然是一個新興的研究領域。特別是，在利用 LLM 分析可穿戴生物信號以實現無袖套血壓 (BP) 測量方面存在顯著差距，這對於心血管疾病的管理至關重要。本文提出了第一項工作，探討 LLM 基於可穿戴生物信號執行無袖套血壓估計的能力。我們從心電圖 (ECG) 和光電容積描記法 (PPG) 信號中提取生理特徵，並通過將這些特徵與血壓領域知識和用戶信息相結合來設計上下文增強提示。隨後，我們通過指令調整將 LLM 適應於血壓估計任務。為了評估所提出的方法，我們使用來自 1,272 名參與者的可穿戴生物信號的綜合公共數據集，對十個先進的 LLM 進行了評估。實驗結果表明，經過最佳微調的 LLM 明顯優於傳統的特定任務基準，收縮壓的估計誤差為 0.00 ± 9.25 mmHg，舒張壓的估計誤差為 1.29 ± 6.37 mmHg。值得注意的是，消融研究突出了我們上下文增強策略的好處，使收縮壓估計的平均絕對誤差降低了 8.9%。本文開創了探索 LLM 進行無袖套血壓測量的先河，為提高無袖套血壓測量的準確性提供了一個潛在的解決方案。
+摘要：大型語言模型 (LLM) 由於其在各種文本任務中的出色表現，引起了學術界和產業界的極大興趣。然而，LLM 分析生理時間序列數據的潛力仍然是一個新興的研究領域。特別是，在利用 LLM 分析可穿戴式生物信號以實現無袖帶血壓 (BP) 測量方面存在顯著差距，這對於心血管疾病的管理至關重要。本文提出了第一個探索 LLM 基於可穿戴式生物信號執行無袖帶血壓估計能力的工作。我們從心電圖 (ECG) 和光電容積描記圖 (PPG) 信號中提取生理特徵，並通過將這些特徵與血壓領域知識和用戶信息相結合來設計上下文增強提示。隨後，我們通過微調將 LLM 適應於血壓估計任務。為了評估所提出的方法，我們使用來自 1,272 名參與者的可穿戴式生物信號的綜合公共數據集對十個先進的 LLM 進行了評估。實驗結果表明，經過最佳微調的 LLM 明顯優於傳統的特定任務基準，收縮壓的估計誤差為 0.00 ± 9.25 mmHg，舒張壓的估計誤差為 1.29 ± 6.37 mmHg。值得注意的是，消融研究突出了我們上下文增強策略的好處，導致收縮壓估計的平均絕對誤差降低了 8.9%。本文開創了探索 LLM 進行無袖帶血壓測量的先河，為提高無袖帶血壓測量的準確性提供了一個潛在的解決方案。
 
 ##### **Exploring Energy-Based Models for Out-of-Distribution Detection in Dialect Identification**
 2406.18067v1 by Yaqian Hao, Chenguang Hu, Yingying Gao, Shilei Zhang, Junlan Feng

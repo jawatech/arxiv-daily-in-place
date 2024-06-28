@@ -2,23 +2,23 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v2](http://arxiv.org/abs/2406.18361v2)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
 |**2024-06-26**|**EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models**|Chun-Chieh Liao et.al.|[2406.18087v1](http://arxiv.org/abs/2406.18087v1)|null|
-|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074v1](http://arxiv.org/abs/2406.18074v1)|null|
+|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074v1](http://arxiv.org/abs/2406.18074v1)|[link](https://github.com/tntek/dspnet)|
 |**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049v1](http://arxiv.org/abs/2406.18049v1)|null|
 |**2024-06-26**|**Automated Clinical Data Extraction with Knowledge Conditioned LLMs**|Diya Li et.al.|[2406.18027v1](http://arxiv.org/abs/2406.18027v1)|null|
 |**2024-06-26**|**AutoOPE: Automated Off-Policy Estimator Selection**|Nicolò Felicioni et.al.|[2406.18022v1](http://arxiv.org/abs/2406.18022v1)|null|
 |**2024-06-26**|**Multi-step Knowledge Retrieval and Inference over Unstructured Data**|Aditya Kalyanpur et.al.|[2406.17987v1](http://arxiv.org/abs/2406.17987v1)|null|
 |**2024-06-25**|**Domain Adaptation of Echocardiography Segmentation Via Reinforcement Learning**|Arnaud Judge et.al.|[2406.17902v1](http://arxiv.org/abs/2406.17902v1)|null|
-|**2024-06-25**|**CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design**|Nafis Neehal et.al.|[2406.17888v1](http://arxiv.org/abs/2406.17888v1)|null|
-|**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640v1](http://arxiv.org/abs/2406.17640v1)|null|
+|**2024-06-25**|**CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design**|Nafis Neehal et.al.|[2406.17888v1](http://arxiv.org/abs/2406.17888v1)|[link](https://github.com/nafis-neehal/CTBench_LLM)|
+|**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640v1](http://arxiv.org/abs/2406.17640v1)|[link](https://github.com/z-sherkat/baytta)|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-25**|**On the consistency of hyper-parameter selection in value-based deep reinforcement learning**|Johan Obando-Ceron et.al.|[2406.17523v1](http://arxiv.org/abs/2406.17523v1)|null|
 |**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473v1](http://arxiv.org/abs/2406.17473v1)|null|
 |**2024-06-25**|**AI for the prediction of early stages of Alzheimer's disease from neuroimaging biomarkers -- A narrative review of a growing field**|Thorsten Rudroff et.al.|[2406.17822v1](http://arxiv.org/abs/2406.17822v1)|null|
 |**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235v1](http://arxiv.org/abs/2406.17235v1)|null|
 |**2024-06-24**|**Scalable Artificial Intelligence for Science: Perspectives, Methods and Exemplars**|Wesley Brewer et.al.|[2406.17812v1](http://arxiv.org/abs/2406.17812v1)|null|
-|**2024-06-24**|**PIC2O-Sim: A Physics-Inspired Causality-Aware Dynamic Convolutional Neural Operator for Ultra-Fast Photonic Device FDTD Simulation**|Pingchuan Ma et.al.|[2406.17810v1](http://arxiv.org/abs/2406.17810v1)|null|
+|**2024-06-24**|**PIC2O-Sim: A Physics-Inspired Causality-Aware Dynamic Convolutional Neural Operator for Ultra-Fast Photonic Device FDTD Simulation**|Pingchuan Ma et.al.|[2406.17810v1](http://arxiv.org/abs/2406.17810v1)|[link](https://github.com/ScopeX-ASU/PIC2O-Sim)|
 |**2024-06-24**|**The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources**|Shayne Longpre et.al.|[2406.16746v2](http://arxiv.org/abs/2406.16746v2)|null|
 |**2024-06-24**|**Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings**|Andrea Posada et.al.|[2406.16611v1](http://arxiv.org/abs/2406.16611v1)|[link](https://github.com/anpoc/language-models-in-medicine)|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455v1](http://arxiv.org/abs/2406.16455v1)|null|
@@ -38,7 +38,7 @@
 |**2024-06-21**|**This actually looks like that: Proto-BagNets for local and global interpretability-by-design**|Kerol Djoumessi et.al.|[2406.15168v2](http://arxiv.org/abs/2406.15168v2)|[link](https://github.com/kdjoumessi/proto-bagnets)|
 |**2024-06-21**|**FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays**|Ayush Roy et.al.|[2406.15117v1](http://arxiv.org/abs/2406.15117v1)|[link](https://github.com/ayushroy2001/fa-net)|
 |**2024-06-21**|**Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**|Lin Fan et.al.|[2406.15050v1](http://arxiv.org/abs/2406.15050v1)|null|
-|**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981v1](http://arxiv.org/abs/2406.14981v1)|null|
+|**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981v1](http://arxiv.org/abs/2406.14981v1)|[link](https://github.com/nikozoe/human_ai_collectives)|
 |**2024-06-21**|**Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2406.14953v1](http://arxiv.org/abs/2406.14953v1)|null|
 |**2024-06-21**|**Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI**|Karyna Isaieva et.al.|[2406.14925v1](http://arxiv.org/abs/2406.14925v1)|null|
 |**2024-06-21**|**AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics**|Jonas Dippel et.al.|[2406.14866v1](http://arxiv.org/abs/2406.14866v1)|null|
@@ -47,7 +47,7 @@
 |**2024-06-20**|**An updated overview of radiomics-based artificial intelligence (AI) methods in breast cancer screening and diagnosis**|Reza Elahi et.al.|[2406.14735v1](http://arxiv.org/abs/2406.14735v1)|null|
 |**2024-06-20**|**This Looks Better than That: Better Interpretable Models with ProtoPNeXt**|Frank Willard et.al.|[2406.14675v1](http://arxiv.org/abs/2406.14675v1)|null|
 |**2024-06-20**|**Computation-Efficient Semi-Supervised Learning for ECG-based Cardiovascular Diseases Detection**|Rushuang Zhou et.al.|[2406.14377v1](http://arxiv.org/abs/2406.14377v1)|null|
-|**2024-06-20**|**Automatic Labels are as Effective as Manual Labels in Biomedical Images Classification with Deep Learning**|Niccolò Marini et.al.|[2406.14351v1](http://arxiv.org/abs/2406.14351v1)|null|
+|**2024-06-20**|**Automatic Labels are as Effective as Manual Labels in Biomedical Images Classification with Deep Learning**|Niccolò Marini et.al.|[2406.14351v1](http://arxiv.org/abs/2406.14351v1)|[link](https://github.com/ilmaro8/wsi_analysis)|
 |**2024-06-20**|**Infusing clinical knowledge into tokenisers for language models**|Abul Hasan et.al.|[2406.14312v1](http://arxiv.org/abs/2406.14312v1)|null|
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232v1](http://arxiv.org/abs/2406.14232v1)|null|
 |**2024-06-20**|**A Data-Driven Guided Decoding Mechanism for Diagnostic Captioning**|Panagiotis Kaliosis et.al.|[2406.14164v1](http://arxiv.org/abs/2406.14164v1)|[link](https://github.com/nlpaueb/dmmcs)|
@@ -63,10 +63,10 @@
 |**2024-06-19**|**Optimizing Psychological Counseling with Instruction-Tuned Large Language Models**|Wenjie Li et.al.|[2406.13617v1](http://arxiv.org/abs/2406.13617v1)|null|
 |**2024-06-19**|**Certificates of Differential Privacy and Unlearning for Gradient-Based Training**|Matthew Wicker et.al.|[2406.13433v1](http://arxiv.org/abs/2406.13433v1)|[link](https://github.com/psosnin/AbstractGradientTraining)|
 |**2024-06-19**|**Explainable by-design Audio Segmentation through Non-Negative Matrix Factorization and Probing**|Martin Lebourdais et.al.|[2406.13385v1](http://arxiv.org/abs/2406.13385v1)|[link](https://github.com/Lebourdais/3MAS)|
-|**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v1](http://arxiv.org/abs/2406.13173v1)|null|
+|**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v1](http://arxiv.org/abs/2406.13173v1)|[link](https://github.com/mao1207/BioMed-VITAL)|
 |**2024-06-19**|**Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model**|Haojun Jiang et.al.|[2406.13165v1](http://arxiv.org/abs/2406.13165v1)|null|
 |**2024-06-19**|**Oralytics Reinforcement Learning Algorithm**|Anna L. Trella et.al.|[2406.13127v1](http://arxiv.org/abs/2406.13127v1)|[link](https://github.com/StatisticalReinforcementLearningLab/oralytics_algorithm_design)|
-|**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v2](http://arxiv.org/abs/2406.13106v2)|null|
+|**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v3](http://arxiv.org/abs/2406.13106v3)|null|
 |**2024-06-18**|**Deriving Hematological Disease Classes Using Fuzzy Logic and Expert Knowledge: A Comprehensive Machine Learning Approach with CBC Parameters**|Salem Ameen et.al.|[2406.13015v1](http://arxiv.org/abs/2406.13015v1)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|[link](https://github.com/niko-k98/awesome-list-federated-learning-review)|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
@@ -77,11 +77,11 @@
 |**2024-06-18**|**Retrieval-Augmented Generation for Generative Artificial Intelligence in Medicine**|Rui Yang et.al.|[2406.12449v1](http://arxiv.org/abs/2406.12449v1)|null|
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259v1](http://arxiv.org/abs/2406.12259v1)|null|
 |**2024-06-18**|**Enhancing Diagnostic Reliability of Foundation Model with Uncertainty Estimation in OCT Images**|Yuanyuan Peng et.al.|[2406.16942v1](http://arxiv.org/abs/2406.16942v1)|null|
-|**2024-06-18**|**Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**|Haowei Ni et.al.|[2406.12199v1](http://arxiv.org/abs/2406.12199v1)|null|
+|**2024-06-18**|**Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**|Haowei Ni et.al.|[2406.12199v2](http://arxiv.org/abs/2406.12199v2)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v1](http://arxiv.org/abs/2406.12142v1)|null|
 |**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
-|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v2](http://arxiv.org/abs/2406.12036v2)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v3](http://arxiv.org/abs/2406.12036v3)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
 |**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|[link](https://github.com/mhxu1998/flexcare)|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**
-2406.18361v1 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Fudan Zheng, Weijiang Yu
+2406.18361v2 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
 
 Diffusion models have demonstrated their effectiveness across various
 generative tasks. However, when applied to medical image segmentation, these
@@ -123,7 +123,7 @@ reverse step and sample, epitomizing the model's stability as implied by its
 name. The code is available at
 https://github.com/lin-tianyu/Stable-Diffusion-Seg
 
-摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到一些挑戰，包括顯著的資源和時間需求。它們還需要多步驟的反向處理和多個樣本來產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，它建立在穩定擴散 (SD) 之上。SDSeg 結合了一個直接的潛在估計策略，以促進單步反向處理，並利用潛在融合串接來消除對多個樣本的必要性。廣泛的實驗表明，SDSeg 在具有不同影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單一的反向步驟和樣本來產生穩定的預測，體現了模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 取得
+摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到一些挑戰，包括顯著的資源和時間需求。它們還需要一個多步驟的反向處理和多個樣本才能產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，建立在穩定擴散 (SD) 之上。SDSeg 結合了一個直接的潛在估計策略，以促進單步反向處理，並利用潛在融合串接來消除對多個樣本的需要。廣泛的實驗表明，SDSeg 在具有不同影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單獨的反向步驟和樣本生成穩定的預測，這體現了該模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 獲得
 
 ##### **EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models**
 2406.18087v1 by Chun-Chieh Liao, Wei-Ting Kuo, I-Hsuan Hu, Yen-Chen Shih, Jun-En Ding, Feng Liu, Fang-Ming Hung
@@ -1661,7 +1661,7 @@ from fall 2023 to summer 2024.
 摘要：牙科疾病仍然是美國最常見的慢性疾病之一。雖然牙科疾病可透過健康的口腔自我保健行為（OSCB）預防，但這種基本行為並未持續實行。我們開發出 Oralytics，一種線上強化學習（RL）演算法，可最佳化個人化介入提示的傳遞，以改善 OSCB。在本文中，我們將全面概述演算法設計決策，這些決策是使用先前的資料、領域專業知識和模擬測試平台中的實驗所做出的。最終的 RL 演算法已部署在 Oralytics 臨床試驗中，該試驗於 2023 年秋季至 2024 年夏季進行。
 
 ##### **Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**
-2406.13106v2 by Ahmed Abdeen Hamed, Tamer E. Fandy
+2406.13106v3 by Ahmed Abdeen Hamed, Tamer E. Fandy
 
 The objective of this research is to introduce a network specialized in
 predicting drugs that can be repurposed by investigating real-world evidence
@@ -1687,7 +1687,7 @@ noteworthy that ChatGPT successfully accelerated the process of identifying
 drug mentions in clinical trials, though further investigations are required to
 determine the relationships among the drug mentions.
 
-摘要：本研究的目標是介紹一個專門用於預測藥物，可透過研究實際證據來源（例如臨床試驗和生物醫學文獻）重新利用的網路。具體來說，其目標是為複雜疾病（例如癌症、阿茲海默症）產生藥物組合療法。我們提出一個多層網路醫學方法，由一個高度配置的 ChatGPT 提示工程系統強化，該系統在執行中建構，用於萃取臨床試驗中的藥物提及。此外，我們介紹一種新的演算法，將實際證據與疾病特定訊號傳遞路徑（例如 KEGG 資料庫）連結起來。如果發現藥物與訊號傳遞路徑的一個或多個蛋白質成分結合，這將有助於了解藥物的再利用性。為了示範，我們為乳癌實例化架構，發現出 46 條乳癌訊號傳遞路徑中，該架構識別出 38 條至少被兩種藥物涵蓋的路徑。此證據表明結合這些藥物的可能性。具體來說，涵蓋最廣的訊號傳遞路徑 ID hsa:2064，涵蓋了 108 種藥物，其中一些可以合併。相反地，訊號傳遞路徑 ID hsa:1499 僅涵蓋兩種藥物，這表示有重大差距需要進一步研究。我們的網路醫學架構由 GenAI 強化，在識別具有高度特異性的藥物組合方面顯示出前景，了解作為目標的精確訊號傳遞路徑和蛋白質。值得注意的是，ChatGPT 成功加速了識別臨床試驗中藥物提及的過程，儘管需要進一步調查以確定藥物提及之間的關係。
+摘要：本研究的目的是介紹一個專門用於預測藥物用途的網路，透過調查真實世界證據來源，例如臨床試驗和生物醫學文獻。具體來說，它旨在為複雜疾病（例如癌症、阿茲海默症）產生藥物組合療法。我們提出了一個多層網路醫學方法，由一個高度配置的 ChatGPT 提示工程系統提供支援，該系統會動態建構，以萃取臨床試驗中的藥物提及。此外，我們引入了一種新的演算法，將真實世界證據與特定疾病的訊號傳遞路徑（例如 KEGG 資料庫）連結起來。如果發現藥物與訊號傳遞路徑的一個或多個蛋白質成分結合，這將有助於了解藥物的再利用性。為了示範，我們為乳癌建立了架構，發現出 46 條乳癌訊號傳遞路徑中，該架構辨識出 38 條路徑至少包含兩種藥物。此證據顯示了結合這些藥物的潛力。具體來說，涵蓋範圍最廣的訊號傳遞路徑 ID hsa:2064，涵蓋了 108 種藥物，其中一些可以結合。相反地，訊號傳遞路徑 ID hsa:1499 僅涵蓋兩種藥物，這表示有很大的研究空白。我們的網路醫學架構由 GenAI 提供支援，在辨識具有高度特異性的藥物組合方面顯示出前景，了解作為目標的精確訊號傳遞路徑和蛋白質。值得注意的是，ChatGPT 成功地加速了在臨床試驗中辨識藥物提及的過程，儘管需要進一步的調查來確定藥物提及之間的關係。
 
 ##### **Deriving Hematological Disease Classes Using Fuzzy Logic and Expert Knowledge: A Comprehensive Machine Learning Approach with CBC Parameters**
 2406.13015v1 by Salem Ameen, Ravivarman Balachandran, Theodoros Theodoridis
@@ -1931,7 +1931,7 @@ anomalies detection in the real-world clinical open set environment.
 摘要：無法表達信心等級和偵測未見類別已限制了人工智慧在現實世界中的臨床實施。我們開發了一個具有不確定性估計 (FMUE) 的基礎模型，以在光學相干斷層掃描 (OCT) 上偵測 11 種視網膜疾病。在內部測試集中，FMUE 達到了比兩種最先進的演算法 RETFound 和 UIOS 更高的 F1 分數 96.76%，並通過閾值策略進一步提升至 98.44%。在從其他 OCT 設備獲得的外部測試集中，FMUE 在閾值處理前後分別達到了 88.75% 和 92.73% 的準確度。我們的模型優於兩位眼科醫生，具有更高的 F1 分數（95.17% 對比 61.93% 和 71.72%）。此外，我們的模型可以正確預測具有模稜兩可特徵、非目標類別疾病或低品質的樣本的高不確定性分數，以提示手動檢查並防止誤診。FMUE 為在現實世界臨床開放集環境中自動檢測視網膜異常提供了一種值得信賴的方法。
 
 ##### **Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**
-2406.12199v1 by Haowei Ni, Shuchen Meng, Xieming Geng, Panfeng Li, Zhuoying Li, Xupeng Chen, Xiaotong Wang, Shiyao Zhang
+2406.12199v2 by Haowei Ni, Shuchen Meng, Xieming Geng, Panfeng Li, Zhuoying Li, Xupeng Chen, Xiaotong Wang, Shiyao Zhang
 
 Cardiovascular disease (CVD) is a leading cause of death globally,
 necessitating precise forecasting models for monitoring vital signs like heart
@@ -1949,14 +1949,14 @@ extend these findings to larger, more diverse datasets and real-world clinical
 applications to further validate and optimize model performance.
 
 摘要：心血管疾病 (CVD) 是全球主要的死亡原因，
-需要精準的預測模型來監控心率、血壓和心電圖等生命徵象。傳統模型，例如 ARIMA 和 Prophet，
-受到手動參數調整需求和處理雜訊、稀疏和高度變異的醫療資料的挑戰所限制。本研究
-探討進階深度學習模型，包括 LSTM 和
-基於轉換器的架構，用於從
-MIT-BIH 資料庫預測心率時間序列。結果表明，深度學習模型，特別是
-PatchTST，在多項指標上顯著優於傳統模型，更有效地捕捉複雜模式和依賴關係。這項研究
-強調了深度學習在增強患者監控和
-CVD 管理方面的潛力，表明了顯著的臨床益處。未來的研究應將這些發現擴展到更大、更多樣化的資料集和真實世界的臨床
+需要精確的預測模型來監測生命徵象，例如心率、血壓和心電圖。傳統模型，例如 ARIMA 和 Prophet，
+受到手動參數調整需求和處理有雜訊、稀疏且變化極大的醫療數據的挑戰所限制。這項研究
+探討進階深度學習模型，包括 LSTM，以及基於轉換器的架構，用於從
+MIT-BIH 資料庫預測心率時間序列。結果證明深度學習模型，特別是
+PatchTST，在多項指標上明顯優於傳統模型，更有效地擷取複雜模式和依賴關係。這項研究
+強調深度學習在增強患者監測和
+CVD 管理的潛力，並提出實質性的臨床益處。未來的研究應
+將這些發現擴展到更大、更多樣化的資料集和真實世界的臨床
 應用，以進一步驗證和最佳化模型效能。
 
 ##### **Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**
@@ -2036,7 +2036,7 @@ well-being.
 摘要：語言模型 (LM) 已被提議用於心理健康應用，在這些應用中，不良結果的風險升高意味著預測性表現可能不足以作為臨床實務中模型效用的試金石。可信賴實務的模型應在解釋和臨床判斷之間有對應關係，但沒有先前的研究探討過這些模型的注意力保真度及其對真實解釋的影響。我們介紹了一種評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉數據集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性與專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，為我們的評估提供了依據。我們揭示了有關 LM/LLM 的四個驚人結果：(1) 儘管具有類人的能力，GPT-3.5/4 仍落後於 RoBERTa 和 MedAlpaca，而微調的 LLM 在效能或解釋方面並未帶來任何顯著的進步。(2) 根據以信心為導向的損失函數重新檢查 LM 的預測，顯示效能大幅下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數心理健康專用 LM/LLM 忽視特定領域的知識，並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
 
 ##### **MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**
-2406.12036v2 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
+2406.12036v3 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
 
 As opposed to evaluating computation and logic-based reasoning, current
 benchmarks for evaluating large language models (LLMs) in medicine are
@@ -2058,7 +2058,7 @@ performing the arithmetic for the computation. We hope our study highlights the
 quantitative knowledge and reasoning gaps in LLMs within medical settings,
 encouraging future improvements of LLMs for various clinical calculation tasks.
 
-摘要：與評估運算和基於邏輯的推理相反，目前用於評估醫學領域大型語言模型 (LLM) 的基準主要集中於涉及領域知識和描述性推理的問答。雖然這些定性能力對於醫療診斷至關重要，但在現實情況中，醫生經常使用遵循定量方程式和基於規則的推理範例的臨床計算器，以進行循證決策支持。為此，我們提出 MedCalc-Bench，這是第一個專注於評估 LLM 醫療計算能力的同類數據集。MedCalc-Bench 包含一個評估集，其中包含來自 55 個不同醫療計算任務的 1000 多個手動審查實例。MedCalc-Bench 中的每個實例都包含一個患者備註、一個要求計算特定醫療值的提問、一個真實答案，以及一個逐步說明如何獲得答案的解釋。儘管我們的評估結果顯示了 LLM 在這個領域的潛力，但沒有任何一個 LLM 對臨床設置足夠有效。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或錯誤執行運算的算術。我們希望我們的研究能突顯 LLM 在醫療設置中存在的定量知識和推理差距，並鼓勵未來針對各種臨床計算任務改善 LLM。
+摘要：與評估計算和基於邏輯的推理不同，目前用於評估醫學中大型語言模型 (LLM) 的基準主要集中在涉及領域知識和描述性推理的問答上。雖然此類定性能力對於醫療診斷至關重要，但在實際情況中，醫生經常使用遵循定量方程式和基於規則的推理範例的臨床計算器來進行基於證據的決策支持。為此，我們提出了 MedCalc-Bench，這是第一個專注於評估 LLM 醫學計算能力的同類數據集。MedCalc-Bench 包含一個評估集，其中包含來自 55 個不同醫學計算任務的 1000 多個手動審查的實例。MedCalc-Bench 中的每個實例都包含一個患者備註、一個請求計算特定醫學值的提問、一個基本事實答案以及一個逐步說明如何獲得答案的說明。雖然我們的評估結果顯示了 LLM 在此領域的潛力，但沒有任何一個 LLM 足夠有效地用於臨床環境。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或錯誤地執行計算的算術運算。我們希望我們的研究能突顯 LLM 在醫療環境中的定量知識和推理差距，並鼓勵未來改進 LLM 以應付各種臨床計算任務。
 
 ##### **Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**
 2406.12035v1 by Rhythm Arora, Pooja Prajod, Matteo Lavit Nicora, Daniele Panzeri, Giovanni Tauro, Rocco Vertechy, Matteo Malosio, Elisabeth André, Patrick Gebhard

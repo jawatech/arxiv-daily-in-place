@@ -12,8 +12,10 @@
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
+|**2024-05-29**|**Interdisciplinary Expertise to Advance Equitable Explainable AI**|Chloe R. Bennett et.al.|[2406.18563v1](http://arxiv.org/abs/2406.18563v1)|null|
 |**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
 |**2024-05-26**|**Exploring Nutritional Impact on Alzheimer's Mortality: An Explainable AI Approach**|Ziming Liu et.al.|[2405.17502v1](http://arxiv.org/abs/2405.17502v1)|null|
+|**2024-05-23**|**Decoding Decision Reasoning: A Counterfactual-Powered Model for Knowledge Discovery**|Yingying Fang et.al.|[2406.18552v1](http://arxiv.org/abs/2406.18552v1)|null|
 |**2024-05-21**|**The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**|Mohsen Jozani et.al.|[2405.13099v1](http://arxiv.org/abs/2405.13099v1)|null|
 |**2024-05-17**|**ChatGPT in Classrooms: Transforming Challenges into Opportunities in Education**|Harris Bin Munawar et.al.|[2405.10645v1](http://arxiv.org/abs/2405.10645v1)|null|
 |**2024-05-13**|**Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data**|Camelia Oprea et.al.|[2405.07590v1](http://arxiv.org/abs/2405.07590v1)|null|
@@ -100,8 +102,6 @@
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-05**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v3](http://arxiv.org/abs/2301.02080v3)|null|
 |**2022-12-17**|**Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**|Isil Guzey et.al.|[2212.08821v1](http://arxiv.org/abs/2212.08821v1)|null|
-|**2022-12-16**|**It is not "accuracy vs. explainability" -- we need both for trustworthy AI systems**|D. Petkovic et.al.|[2212.11136v2](http://arxiv.org/abs/2212.11136v2)|null|
-|**2022-12-02**|**SimpleMind adds thinking to deep neural networks**|Youngwon Choi et.al.|[2212.00951v1](http://arxiv.org/abs/2212.00951v1)|[link](https://gitlab.com/sm-ai-team/simplemind)|
 
 #### Abstracts
 ##### **Towards Compositional Interpretability for XAI**
@@ -372,6 +372,29 @@ and at what level of detail?
 
 摘要：可解释性通常对于人工智能 (AI) 的可接受实施至关重要。在医疗保健领域，这一点尤为重要，因为决策直接影响患者，并且对 AI 系统的信任至关重要。这种信任通常建立在 AI 提供的解释和诠释之上。尽管 AI 可解释性取得了重大进展，但仍然需要明确的指导方针，说明在医疗环境中何时以及在多大程度上需要解释。我们提出了一种新颖的分类系统，该系统具有四种不同的解释必要性类别，指导所需的解释级别：患者或样本（局部）级别、队列或数据集（全局）级别，或两个级别。我们引入了一个数学公式，该公式区分了这些类别，并为研究人员提供了一个实用框架，以确定医疗 AI 应用中所需的解释的必要性和深度。考虑了三个关键因素：评估协议的稳健性、专家观察的可变性以及应用程序的表示维数。从这个角度来看，我们解决了这个问题：AI 医疗应用何时需要解释，以及需要解释到何种程度？
 
+##### **Interdisciplinary Expertise to Advance Equitable Explainable AI**
+2406.18563v1 by Chloe R. Bennett, Heather Cole-Lewis, Stephanie Farquhar, Naama Haamel, Boris Babenko, Oran Lang, Mat Fleck, Ilana Traynis, Charles Lau, Ivor Horn, Courtney Lyles
+
+The field of artificial intelligence (AI) is rapidly influencing health and
+healthcare, but bias and poor performance persists for populations who face
+widespread structural oppression. Previous work has clearly outlined the need
+for more rigorous attention to data representativeness and model performance to
+advance equity and reduce bias. However, there is an opportunity to also
+improve the explainability of AI by leveraging best practices of social
+epidemiology and health equity to help us develop hypotheses for associations
+found. In this paper, we focus on explainable AI (XAI) and describe a framework
+for interdisciplinary expert panel review to discuss and critically assess AI
+model explanations from multiple perspectives and identify areas of bias and
+directions for future research. We emphasize the importance of the
+interdisciplinary expert panel to produce more accurate, equitable
+interpretations which are historically and contextually informed.
+Interdisciplinary panel discussions can help reduce bias, identify potential
+confounders, and identify opportunities for additional research where there are
+gaps in the literature. In turn, these insights can suggest opportunities for
+AI model improvement.
+
+摘要：人工智慧 (AI) 領域正快速影響著健康與醫療保健，但對於面臨廣泛結構性壓迫的人群來說，偏見和不良表現依然存在。先前的研究已清楚說明，需要更嚴格地注意資料代表性和模型效能，以促進公平性並減少偏見。然而，我們有機會透過運用社會流行病學和健康公平的最佳實務，來改善 AI 的可解釋性，以幫助我們針對發現的關聯性，發展假設。在本文中，我們專注於可解釋 AI (XAI)，並描述一個跨領域專家小組審查架構，以從多重觀點討論和批判性評估 AI 模型的解釋，並找出偏見領域和未來研究的方向。我們強調跨領域專家小組對於產生更準確、公平的詮釋至關重要，而這些詮釋是根據歷史和脈絡而來的。跨領域小組討論有助於減少偏見、找出潛在的混淆因素，並在文獻中有缺口時找出額外研究的機會。反過來，這些見解可以建議 AI 模型改進的機會。
+
 ##### **Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**
 2405.16424v1 by Min Hun Lee, Silvana Xin Yi Choo, Shamala D/O Thilarajah
 
@@ -410,6 +433,27 @@ impact of nutrition on AD and contributes to a deeper understanding of disease
 progression.
 
 摘要：本文使用機器學習 (ML) 和可解釋人工智慧 (XAI) 技術來探討營養狀況與阿茲海默症 (AD) 相關的死亡率之間的關係。採用第三次全國健康與營養檢查調查 (NHANES III) 資料庫進行分析。選擇隨機森林模型作為 XAI 分析的基礎模型，並使用 Shapley Additive Explanations (SHAP) 方法來評估特徵重要性。結果突顯了重要的營養因素，例如血清維生素 B12 和糖化血紅蛋白。該研究證明了隨機森林在預測 AD 死亡率方面相較於其他疾病的有效性。本研究提供了營養對 AD 的影響的見解，並有助於更深入地了解疾病的進展。
+
+##### **Decoding Decision Reasoning: A Counterfactual-Powered Model for Knowledge Discovery**
+2406.18552v1 by Yingying Fang, Zihao Jin, Xiaodan Xing, Simon Walsh, Guang Yang
+
+In medical imaging, particularly in early disease detection and prognosis
+tasks, discerning the rationale behind an AI model's predictions is crucial for
+evaluating the reliability of its decisions. Conventional explanation methods
+face challenges in identifying discernible decisive features in medical image
+classifications, where discriminative features are subtle or not immediately
+apparent. To bridge this gap, we propose an explainable model that is equipped
+with both decision reasoning and feature identification capabilities. Our
+approach not only detects influential image patterns but also uncovers the
+decisive features that drive the model's final predictions. By implementing our
+method, we can efficiently identify and visualise class-specific features
+leveraged by the data-driven model, providing insights into the decision-making
+processes of deep learning models. We validated our model in the demanding
+realm of medical prognosis task, demonstrating its efficacy and potential in
+enhancing the reliability of AI in healthcare and in discovering new knowledge
+in diseases where prognostic understanding is limited.
+
+摘要：在醫學影像中，特別是在早期疾病檢測和預後任務中，辨別 AI 模型預測背後的原理對於評估其決策的可靠性至關重要。傳統的解釋方法在識別醫學影像分類中可識別的決定性特徵時面臨挑戰，其中區別性特徵很微妙或並不明顯。為了彌合這一差距，我們提出了一個可解釋的模型，該模型具備決策推理和特徵識別能力。我們的做法不僅檢測有影響力的影像模式，還揭示了推動模型最終預測的決定性特徵。通過實施我們的模型，我們可以有效識別和視覺化由數據驅動模型利用的類特定特徵，從而深入了解深度學習模型的決策過程。我們在要求嚴格的醫學預後任務領域驗證了我們的模型，展示了其在提高 AI 在醫療保健中的可靠性和發現預後理解受限疾病的新知識方面的功效和潛力。
 
 ##### **The Role of Emotions in Informational Support Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach**
 2405.13099v1 by Mohsen Jozani, Jason A. Williams, Ahmed Aleroud, Sarbottam Bhagat
@@ -2507,63 +2551,4 @@ clinicians with actionable insights to support their autonomy for informed
 final decisions.
 
 摘要：儘管人工智慧 (AI) 的機器學習 (ML) 模型在醫學領域中表現優異，但它們並非沒有錯誤。讓臨床醫生能夠辨識不正確的模型建議，對於建立對醫療 AI 的信任至關重要。可解釋 AI (XAI) 旨在透過釐清 AI 推理來滿足此項需求，以支援最終使用者。最近針對生物醫學影像進行的幾項研究獲得了令人滿意的結果。然而，使用表格資料的模型解決方案還不足以滿足臨床醫生的需求。本文提出了一種方法，協助臨床醫生辨識使用表格資料訓練的 ML 模型的失敗。我們的方法建立在三個主要支柱上：利用臨床背景潛在空間分解特徵集、評估整體解釋的臨床關聯性，以及基於潛在空間相似性 (LSS) 的局部解釋。我們在 ML 基於感染所導致的早產兒發病率識別上展示了我們的這項方法。由於模型失敗而產生的死亡風險、終身殘疾和抗生素抗藥性，是此領域中一個公開的研究問題。我們的方法成功辨識出兩個模型的錯誤分類案例。我們的解決方案透過將局部解釋脈絡化，為臨床醫生提供可行的見解，以支援他們自主做出明智的最終決定。
-
-##### **It is not "accuracy vs. explainability" -- we need both for trustworthy AI systems**
-2212.11136v2 by D. Petkovic
-
-We are witnessing the emergence of an AI economy and society where AI
-technologies are increasingly impacting health care, business, transportation
-and many aspects of everyday life. Many successes have been reported where AI
-systems even surpassed the accuracy of human experts. However, AI systems may
-produce errors, can exhibit bias, may be sensitive to noise in the data, and
-often lack technical and judicial transparency resulting in reduction in trust
-and challenges in their adoption. These recent shortcomings and concerns have
-been documented in scientific but also in general press such as accidents with
-self driving cars, biases in healthcare, hiring and face recognition systems
-for people of color, seemingly correct medical decisions later found to be made
-due to wrong reasons etc. This resulted in emergence of many government and
-regulatory initiatives requiring trustworthy and ethical AI to provide accuracy
-and robustness, some form of explainability, human control and oversight,
-elimination of bias, judicial transparency and safety. The challenges in
-delivery of trustworthy AI systems motivated intense research on explainable AI
-systems (XAI). Aim of XAI is to provide human understandable information of how
-AI systems make their decisions. In this paper we first briefly summarize
-current XAI work and then challenge the recent arguments of accuracy vs.
-explainability for being mutually exclusive and being focused only on deep
-learning. We then present our recommendations for the use of XAI in full
-lifecycle of high stakes trustworthy AI systems delivery, e.g. development,
-validation and certification, and trustworthy production and maintenance.
-
-摘要：<paragraph>我們正見證著 AI 經濟與社會的崛起，其中 AI 技術正日益影響著醫療保健、商業、運輸以及日常生活中的許多方面。許多成功案例中，AI 系統甚至超越了人類專家的準確度。然而，AI 系統可能會產生錯誤，可能表現出偏見，可能對資料中的雜訊敏感，而且常常缺乏技術和司法透明度，導致信任度下降以及採用上的挑戰。這些最近的缺點和疑慮已在科學期刊和一般媒體中得到記錄，例如自動駕駛汽車事故、醫療保健中的偏見、有色人種的招聘和人臉識別系統、看似正確的醫療決策後來發現是出於錯誤的原因等等。這導致許多政府和監管倡議的出現，要求可信賴且合乎道德的 AI 提供準確性和穩健性、某種形式的可解釋性、人類控制和監督、消除偏見、司法透明度和安全性。提供可信賴 AI 系統的挑戰激勵了對可解釋 AI 系統 (XAI) 的深入研究。XAI 的目標是提供人類可以理解的資訊，說明 AI 系統如何做出決策。在本文中，我們首先簡要總結目前的 XAI 工作，然後挑戰準確性與可解釋性相互排斥且僅專注於深度學習的近期論點。然後，我們提出我們的建議，在高風險可信賴 AI 系統交付的完整生命週期中使用 XAI，例如開發、驗證和認證，以及可信賴的生產和維護。</paragraph>
-
-##### **SimpleMind adds thinking to deep neural networks**
-2212.00951v1 by Youngwon Choi, M. Wasil Wahi-Anwar, Matthew S. Brown
-
-Deep neural networks (DNNs) detect patterns in data and have shown
-versatility and strong performance in many computer vision applications.
-However, DNNs alone are susceptible to obvious mistakes that violate simple,
-common sense concepts and are limited in their ability to use explicit
-knowledge to guide their search and decision making. While overall DNN
-performance metrics may be good, these obvious errors, coupled with a lack of
-explainability, have prevented widespread adoption for crucial tasks such as
-medical image analysis. The purpose of this paper is to introduce SimpleMind,
-an open-source software framework for Cognitive AI focused on medical image
-understanding. It allows creation of a knowledge base that describes expected
-characteristics and relationships between image objects in an intuitive
-human-readable form. The SimpleMind framework brings thinking to DNNs by: (1)
-providing methods for reasoning with the knowledge base about image content,
-such as spatial inferencing and conditional reasoning to check DNN outputs; (2)
-applying process knowledge, in the form of general-purpose software agents,
-that are chained together to accomplish image preprocessing, DNN prediction,
-and result post-processing, and (3) performing automatic co-optimization of all
-knowledge base parameters to adapt agents to specific problems. SimpleMind
-enables reasoning on multiple detected objects to ensure consistency, providing
-cross checking between DNN outputs. This machine reasoning improves the
-reliability and trustworthiness of DNNs through an interpretable model and
-explainable decisions. Example applications are provided that demonstrate how
-SimpleMind supports and improves deep neural networks by embedding them within
-a Cognitive AI framework.
-
-摘要：深度神经網路 (DNN) 可偵測資料中的模式，並在許多電腦視覺應用中展現出多功能性與強大效能。
-然而，DNN 本身容易犯下違反簡單常識概念的明顯錯誤，且在使用明確知識來引導其搜尋與決策制定時有其限制。儘管整體 DNN 效能指標可能良好，但這些明顯的錯誤，加上缺乏可解釋性，已阻礙其廣泛採用於諸如醫學影像分析等關鍵任務。本文的目的是介紹 SimpleMind，一個專注於醫學影像理解的認知 AI 開源軟體框架。它允許建立一個知識庫，以直觀的人類可讀形式描述影像物件之間預期的特徵和關係。SimpleMind 框架透過以下方式為 DNN 帶來思考能力：(1) 提供基於知識庫對影像內容進行推理的方法，例如空間推論和條件推理，以檢查 DNN 輸出；(2) 以通用軟體代理的形式套用程序知識，將其串連在一起以完成影像前處理、DNN 預測和結果後處理；以及 (3) 對所有知識庫參數執行自動共同最佳化，以適應代理到特定問題。SimpleMind 能對多個偵測到的物件進行推理以確保一致性，並提供 DNN 輸出之間的交叉檢查。這種機器推理透過一個可解釋的模型和可解釋的決策，來提升 DNN 的可靠性和可信度。本文提供了範例應用，展示 SimpleMind 如何透過將深度神經網路嵌入認知 AI 框架中，來支援和改善深度神經網路。
 

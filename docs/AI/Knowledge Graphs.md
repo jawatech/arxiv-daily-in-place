@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
+|**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916v1](http://arxiv.org/abs/2406.18916v1)|null|
+|**2024-06-26**|**Fast Optimizer Benchmark**|Simon Blauth et.al.|[2406.18701v1](http://arxiv.org/abs/2406.18701v1)|[link](https://github.com/automl/fob)|
 |**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449v1](http://arxiv.org/abs/2406.18449v1)|null|
 |**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
 |**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|[link](https://github.com/Maxpa1n/gcplm-kgc)|
@@ -99,11 +102,79 @@
 |**2024-06-06**|**Are Large Language Models the New Interface for Data Pipelines?**|Sylvio Barbon Junior et.al.|[2406.06596v1](http://arxiv.org/abs/2406.06596v1)|null|
 |**2024-06-06**|**Efficient Knowledge Infusion via KG-LLM Alignment**|Zhouyu Jiang et.al.|[2406.03746v1](http://arxiv.org/abs/2406.03746v1)|null|
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730v1](http://arxiv.org/abs/2406.03730v1)|null|
-|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
-|**2024-06-05**|**Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**|Yang Wu et.al.|[2406.03600v1](http://arxiv.org/abs/2406.03600v1)|null|
-|**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|[link](https://github.com/hkuds/xrec)|
 
 #### Abstracts
+##### **Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**
+2406.19255v1 by Hao Fei, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua, Shuicheng Yan
+
+While pre-training large-scale video-language models (VLMs) has shown
+remarkable potential for various downstream video-language tasks, existing VLMs
+can still suffer from certain commonly seen limitations, e.g., coarse-grained
+cross-modal aligning , under-modeling of temporal dynamics, detached
+video-language view. In this work, we target enhancing VLMs with a fine-grained
+structural spatio-temporal alignment learning method (namely Finsta). First of
+all, we represent the input texts and videos with fine-grained scene graph (SG)
+structures, both of which are further unified into a holistic SG (HSG) for
+bridging two modalities. Then, an SG-based framework is built, where the
+textual SG (TSG) is encoded with a graph Transformer, while the video dynamic
+SG (DSG) and the HSG are modeled with a novel recurrent graph Transformer for
+spatial and temporal feature propagation. A spatial-temporal Gaussian
+differential graph Transformer is further devised to strengthen the sense of
+the changes in objects across spatial and temporal dimensions. Next, based on
+the fine-grained structural features of TSG and DSG, we perform object-centered
+spatial alignment and predicate-centered temporal alignment respectively,
+enhancing the video-language grounding in both the spatiality and temporality.
+We design our method as a plug&play system, which can be integrated into
+existing well-trained VLMs for further representation augmentation, without
+training from scratch or relying on SG annotations in downstream applications.
+On 6 representative VL modeling tasks over 12 datasets in both standard and
+long-form video scenarios, Finsta consistently improves the existing 13
+strong-performing VLMs persistently, and refreshes the current state-of-the-art
+end task performance significantly in both the fine-tuning and zero-shot
+settings.
+
+摘要：<paragraph>雖然預訓練大型視訊語言模型 (VLM) 已展現出對各種下游視訊語言任務的顯著潛力，但現有的 VLM 仍可能受到某些常見限制的影響，例如粗粒度的跨模態對齊、對時間動態的建模不足、分離的視訊語言檢視。在這項工作中，我們以具備細粒度結構化時空對齊學習方法 (即 Finsta) 的增強 VLM 為目標。首先，我們以細粒度的場景圖 (SG) 結構表示輸入文字和視訊，兩者進一步統一到一個整體 SG (HSG) 中，以橋接兩個模態。然後，建立一個基於 SG 的框架，其中文字 SG (TSG) 使用圖形 Transformer 編碼，而視訊動態 SG (DSG) 和 HSG 則使用新穎的遞迴圖形 Transformer 建模，以進行空間和時間特徵傳播。進一步設計了一個時空高斯差分圖形 Transformer，以增強物體在時空維度中變化的感覺。接下來，根據 TSG 和 DSG 的細粒度結構特徵，我們分別執行以物件為中心的空間對齊和以謂詞為中心的時序對齊，增強視訊語言在空間和時間上的基礎。我們將方法設計為一個即插即用的系統，可以整合到現有的訓練良好的 VLM 中，以進一步擴充表示，而無需從頭開始訓練或依賴下游應用程式中的 SG 標註。在 12 個資料集上的 6 個代表性 VL 建模任務中，無論是在標準視訊場景還是長格式視訊場景中，Finsta 都持續改善現有的 13 個效能強大的 VLM，並在微調和零次學習設定中顯著更新目前的最新技術最終任務效能。</paragraph>
+
+##### **TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**
+2406.18916v1 by Wen Zhang, Long Jin, Yushan Zhu, Jiaoyan Chen, Zhiwei Huang, Junjie Wang, Yin Hua, Lei Liang, Huajun Chen
+
+Natural language question answering (QA) over structured data sources such as
+tables and knowledge graphs (KGs) have been widely investigated, for example
+with Large Language Models (LLMs). The main solutions include question to
+formal query parsing and retrieval-based answer generation. However, current
+methods of the former often suffer from weak generalization, failing to dealing
+with multiple sources simultaneously, while the later is limited in
+trustfulness. In this paper, we propose UnifiedTQA, a trustful QA framework
+that can simultaneously support multiple types of structured data in a unified
+way. To this end, it adopts an LLM-friendly and unified knowledge
+representation method called Condition Graph (CG), and uses an LLM and
+demonstration-based two-level method for CG querying. For enhancement, it is
+also equipped with dynamic demonstration retrieval. We have evaluated
+UnifiedTQA with 5 benchmarks covering 3 types of structured data. It
+outperforms 2 existing unified structured data QA methods and in comparison
+with the baselines that are specific to a data type, it achieves
+state-of-the-art on 2 of them. Further more, we demonstrates potential of our
+method for more general QA tasks, QA over mixed structured data and QA across
+structured data.
+
+摘要：自然語言問答 (QA) 透過結構化資料來源（例如表格和知識圖譜 (KGs)）已廣泛研究，例如使用大型語言模型 (LLM)。主要解決方案包括問題轉換成形式化查詢解析和基於檢索的答案產生。然而，前者的現行方法通常會產生弱泛化，無法同時處理多個來源，而後者則受到可信度的限制。在本文中，我們提出 UnifiedTQA，一個可信賴的 QA 框架，能夠以統一的方式同時支援多種類型的結構化資料。為此，它採用了一種 LLM 友善且統一的知識表示方法，稱為條件圖 (CG)，並使用 LLM 和基於示範的二階方法進行 CG 查詢。為了加強，它還配備了動態示範檢索。我們已經使用涵蓋 3 種類型結構化資料的 5 個基準評估 UnifiedTQA。它優於 2 種現有的統一結構化資料 QA 方法，並且與特定於資料類型的基線相比，它在其中 2 個基準上達到了最先進的水平。此外，我們展示了我們的方法在更通用的 QA 任務、混合結構化資料的 QA 和跨結構化資料的 QA 中的潛力。
+
+##### **Fast Optimizer Benchmark**
+2406.18701v1 by Simon Blauth, Tobias Bürger, Zacharias Häringer, Jörg Franke, Frank Hutter
+
+In this paper, we present the Fast Optimizer Benchmark (FOB), a tool designed
+for evaluating deep learning optimizers during their development. The benchmark
+supports tasks from multiple domains such as computer vision, natural language
+processing, and graph learning. The focus is on convenient usage, featuring
+human-readable YAML configurations, SLURM integration, and plotting utilities.
+FOB can be used together with existing hyperparameter optimization (HPO) tools
+as it handles training and resuming of runs. The modular design enables
+integration into custom pipelines, using it simply as a collection of tasks. We
+showcase an optimizer comparison as a usage example of our tool. FOB can be
+found on GitHub: https://github.com/automl/FOB.
+
+摘要：在本文中，我們提出了快速優化器基準 (FOB)，這是一個用於在開發過程中評估深度學習優化器的工具。基準支持來自多個領域的任務，例如電腦視覺、自然語言處理和圖形學習。重點在於方便使用，具有人類可讀的 YAML 配置、SLURM 整合和繪圖程式。FOB 可以與現有的超參數優化 (HPO) 工具一起使用，因為它可以處理訓練和恢復運行。模組化設計能夠整合到自訂管線中，只需將其用作任務集合即可。我們展示了一個優化器比較作為我們工具的使用範例。FOB 可以從 GitHub 找到：https://github.com/automl/FOB。
+
 ##### **Cascading Large Language Models for Salient Event Graph Generation**
 2406.18449v1 by Xingwei Tan, Yuxiang Zhou, Gabriele Pergola, Yulan He
 
@@ -2455,83 +2526,4 @@ selection time. In addition, we demonstrate the efficacy of our approach in
 LLMs of larger sizes.
 
 摘要：情境學習 (ICL) 賦能大型語言模型 (LLM) 使用一系列訓練實例作為提示來處理新任務。由於產生提示需要從大量的實例中抽樣並註解它們（例如，在分類任務中新增標籤），現有方法已提出選擇一個未標記範例的子集進行註解，從而提升提示的品質並同時降低註解成本。然而，這些方法由於其複雜性，通常需要很長的時間來選擇實例，阻礙了它們的實用性。為了解決這個限制，我們提出一個基於圖形的選擇方法 FastGAS，旨在有效地識別高品質實例，同時將運算開銷降到最低。最初，我們根據實例相似性建構一個資料相似性圖形。接著，採用圖形分割演算法，將圖形分割成多個部分。在每個部分（即子圖）中，我們採用貪婪法來挑選最具代表性的節點。透過彙總來自不同部分的節點並註解對應的實例，我們識別出一組多元且具代表性的實例，用於 ICL。與先前的做法相比，我們的做法不僅在不同的任務上展現出優異的效能，而且還大幅減少了選擇時間。此外，我們展示了我們的做法在更大規模的 LLM 中的效能。
-
-##### **A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**
-2406.03712v1 by Lei Liu, Xiaoyan Yang, Junchi Lei, Xiaoyang Liu, Yue Shen, Zhiqiang Zhang, Peng Wei, Jinjie Gu, Zhixuan Chu, Zhan Qin, Kui Ren
-
-Large language models (LLMs), such as GPT series models, have received
-substantial attention due to their impressive capabilities for generating and
-understanding human-level language. More recently, LLMs have emerged as an
-innovative and powerful adjunct in the medical field, transforming traditional
-practices and heralding a new era of enhanced healthcare services. This survey
-provides a comprehensive overview of Medical Large Language Models (Med-LLMs),
-outlining their evolution from general to the medical-specific domain (i.e,
-Technology and Application), as well as their transformative impact on
-healthcare (e.g., Trustworthiness and Safety). Concretely, starting from the
-fundamental history and technology of LLMs, we first delve into the progressive
-adaptation and refinements of general LLM models in the medical domain,
-especially emphasizing the advanced algorithms that boost the LLMs' performance
-in handling complicated medical environments, including clinical reasoning,
-knowledge graph, retrieval-augmented generation, human alignment, and
-multi-modal learning. Secondly, we explore the extensive applications of
-Med-LLMs across domains such as clinical decision support, report generation,
-and medical education, illustrating their potential to streamline healthcare
-services and augment patient outcomes. Finally, recognizing the imperative and
-responsible innovation, we discuss the challenges of ensuring fairness,
-accountability, privacy, and robustness in Med-LLMs applications. Finally, we
-conduct a concise discussion for anticipating possible future trajectories of
-Med-LLMs, identifying avenues for the prudent expansion of Med-LLMs. By
-consolidating above-mentioned insights, this review seeks to provide a
-comprehensive investigation of the potential strengths and limitations of
-Med-LLMs for professionals and researchers, ensuring a responsible landscape in
-the healthcare setting.
-
-摘要：大型語言模型（LLM），例如 GPT 系列模型，由於其令人印象深刻的生成和理解人類語言的能力而備受關注。最近，LLM 已成為醫療領域的創新且強大的輔助工具，轉變了傳統做法，並預示著增強醫療保健服務的新時代。這項調查全面概述了醫療大型語言模型（Med-LLM），概述了它們從一般領域到醫療特定領域（即技術和應用）的演變，以及它們對醫療保健的變革性影響（例如，可信度和安全性）。具體來說，從 LLM 的基本歷史和技術開始，我們首先深入探討通用 LLM 模型在醫療領域的逐步適應和改進，特別強調了提升 LLM 在處理複雜醫療環境中的效能的先進演算法，包括臨床推理、知識圖譜、檢索增強生成、人類對齊和多模式學習。其次，我們探討了 Med-LLM 在臨床決策支援、報告生成和醫學教育等領域的廣泛應用，說明它們簡化醫療保健服務和改善患者預後的潛力。最後，認識到必要的和負責任的創新，我們討論了確保 Med-LLM 應用中的公平性、問責制、隱私和健全性的挑戰。最後，我們對預測 Med-LLM 的可能未來軌跡進行了簡潔的討論，找出 Med-LLM 審慎擴展的途徑。通過整合上述見解，本綜述旨在對 Med-LLM 的潛在優勢和局限性進行全面的調查，以確保醫療保健環境中的負責任的格局。
-
-##### **Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**
-2406.03600v1 by Yang Wu, Chenghao Wang, Ece Gumusel, Xiaozhong Liu
-
-The integration of generative Large Language Models (LLMs) into various
-applications, including the legal domain, has been accelerated by their
-expansive and versatile nature. However, when facing a legal case, users
-without a legal background often struggle to formulate professional queries and
-may inadvertently overlook critical legal factors when presenting their case
-narrative to LLMs. To address this issue, we propose the Diagnostic Legal Large
-Language Model (D3LM), which utilizes adaptive lawyer-like diagnostic questions
-to collect additional case information and then provides high-quality feedback.
-D3LM incorporates an innovative graph-based Positive-Unlabeled Reinforcement
-Learning (PURL) algorithm, enabling the generation of critical questions and
-enhancing user-LLM interactions. Moreover, an integrated LLM-based stopping
-criterion facilitates precise Court Views Generation (CVG). Our research also
-introduces a new English-language CVG dataset based on the US case law
-database, enriching the realm of LLM research and deployment with a vital
-dimension. D3LM surpasses classical LLMs by delivering outstanding performance
-and a remarkable user experience in the legal domain.
-
-摘要：生成式大型語言模型（LLM）整合到各種應用程式中，包括法律領域，其廣泛且多功能的特性加速了此一整合。然而，在面對法律案件時，沒有法律背景的使用者常常難以擬定專業的查詢，而且在向 LLM 提出他們的案件敘述時，可能會不經意地忽略關鍵的法律因素。為了解決這個問題，我們提出了診斷式法律大型語言模型（D3LM），它利用適應性的律師式診斷問題來收集額外的案件資訊，然後提供高品質的回饋。D3LM 整合了一個創新的基於圖形的正標籤未標籤強化學習（PURL）演算法，能夠產生關鍵問題並加強使用者與 LLM 的互動。此外，一個整合的基於 LLM 的停止準則促进了精確的法院觀點產生（CVG）。我們的研究還引入了新的英語 CVG 資料集，該資料集基於美國案例法資料庫，為 LLM 研究和部署領域增添了一個重要的面向。D3LM 超越了傳統的 LLM，在法律領域中提供了傑出的效能和卓越的使用者體驗。
-
-##### **XRec: Large Language Models for Explainable Recommendation**
-2406.02377v1 by Qiyao Ma, Xubin Ren, Chao Huang
-
-Recommender systems help users navigate information overload by providing
-personalized recommendations aligned with their preferences. Collaborative
-Filtering (CF) is a widely adopted approach, but while advanced techniques like
-graph neural networks (GNNs) and self-supervised learning (SSL) have enhanced
-CF models for better user representations, they often lack the ability to
-provide explanations for the recommended items. Explainable recommendations aim
-to address this gap by offering transparency and insights into the
-recommendation decision-making process, enhancing users' understanding. This
-work leverages the language capabilities of Large Language Models (LLMs) to
-push the boundaries of explainable recommender systems. We introduce a
-model-agnostic framework called XRec, which enables LLMs to provide
-comprehensive explanations for user behaviors in recommender systems. By
-integrating collaborative signals and designing a lightweight collaborative
-adaptor, the framework empowers LLMs to understand complex patterns in
-user-item interactions and gain a deeper understanding of user preferences. Our
-extensive experiments demonstrate the effectiveness of XRec, showcasing its
-ability to generate comprehensive and meaningful explanations that outperform
-baseline approaches in explainable recommender systems. We open-source our
-model implementation at https://github.com/HKUDS/XRec.
-
-摘要：推薦系統透過提供符合使用者偏好的個人化推薦，協助使用者在資訊爆炸中輕鬆瀏覽。協同過濾 (CF) 是一種廣泛採用的方法，但儘管圖神經網路 (GNN) 和自監督學習 (SSL) 等進階技術已增強 CF 模型以提供更好的使用者表徵，但它們通常缺乏提供推薦項目解釋的能力。可解釋推薦旨在透過提供透明度和見解來解決這個差距，以了解推薦決策制定過程，進而增進使用者的理解。這項工作利用大型語言模型 (LLM) 的語言能力，來突破可解釋推薦系統的界限。我們引進一個名為 XRec 的與模型無關的架構，讓 LLM 能夠為推薦系統中的使用者行為提供全面的解釋。透過整合協同信號和設計一個輕量級協同適配器，此架構賦能 LLM 了解使用者與項目互動中的複雜模式，並更深入地了解使用者偏好。我們廣泛的實驗證明了 XRec 的有效性，展示了它產生全面且有意義的解釋的能力，在可解釋推薦系統中優於基準方法。我們在 https://github.com/HKUDS/XRec 開源我們的模型實作。
 

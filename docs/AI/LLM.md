@@ -40,7 +40,7 @@
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150v1](http://arxiv.org/abs/2406.19150v1)|null|
 |**2024-06-27**|**BackMix: Mitigating Shortcut Learning in Echocardiography with Minimal Supervision**|Kit Mills Bransby et.al.|[2406.19148v1](http://arxiv.org/abs/2406.19148v1)|[link](https://github.com/kitbransby/backmix)|
 |**2024-06-27**|**Resolving Discrepancies in Compute-Optimal Scaling of Language Models**|Tomer Porian et.al.|[2406.19146v1](http://arxiv.org/abs/2406.19146v1)|[link](https://github.com/formll/resolving-scaling-law-discrepencies)|
-|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136v1](http://arxiv.org/abs/2406.19136v1)|null|
+|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136v1](http://arxiv.org/abs/2406.19136v1)|[link](https://github.com/xunyoyo/YZS-Model)|
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135v1](http://arxiv.org/abs/2406.19135v1)|[link](https://github.com/winddori2002/dex-tts)|
 |**2024-06-27**|**Towards Learning Abductive Reasoning using VSA Distributed Representations**|Giacomo Camposampiero et.al.|[2406.19121v1](http://arxiv.org/abs/2406.19121v1)|[link](https://github.com/ibm/abductive-rule-learner-with-context-awareness)|
 |**2024-06-27**|**CHEW: A Dataset of CHanging Events in Wikipedia**|Hsuvas Borkakoty et.al.|[2406.19116v1](http://arxiv.org/abs/2406.19116v1)|null|

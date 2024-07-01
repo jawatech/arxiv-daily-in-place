@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-30 20:21:32 Asia/Taipei
+ Automated deployment @ 2024-07-01 09:02:34 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -20,20 +20,20 @@
 |**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317v1](http://arxiv.org/abs/2406.19317v1)|null|
 |**2024-06-27**|**LiveBench: A Challenging, Contamination-Free LLM Benchmark**|Colin White et.al.|[2406.19314v1](http://arxiv.org/abs/2406.19314v1)|[link](https://github.com/livebench/livebench)|
 |**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292v1](http://arxiv.org/abs/2406.19292v1)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|null|
-|**2024-06-27**|**VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation**|Yixiao Song et.al.|[2406.19276v1](http://arxiv.org/abs/2406.19276v1)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
+|**2024-06-27**|**VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation**|Yixiao Song et.al.|[2406.19276v1](http://arxiv.org/abs/2406.19276v1)|[link](https://github.com/Yixiao-Song/VeriScore)|
 |**2024-06-27**|**AutoPureData: Automated Filtering of Web Data for LLM Fine-tuning**|Praneeth Vadlapati et.al.|[2406.19271v1](http://arxiv.org/abs/2406.19271v1)|[link](https://github.com/Pro-GenAI/AutoPureData)|
 |**2024-06-27**|**Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding**|Yue Fan et.al.|[2406.19263v1](http://arxiv.org/abs/2406.19263v1)|null|
 |**2024-06-27**|**AI Data Readiness Inspector (AIDRIN) for Quantitative Assessment of Data Readiness for AI**|Kaveen Hiniduma et.al.|[2406.19256v1](http://arxiv.org/abs/2406.19256v1)|null|
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
 |**2024-06-27**|**AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation**|Jia Fu et.al.|[2406.19251v1](http://arxiv.org/abs/2406.19251v1)|null|
 |**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243v1](http://arxiv.org/abs/2406.19243v1)|null|
-|**2024-06-27**|**Revealing Fine-Grained Values and Opinions in Large Language Models**|Dustin Wright et.al.|[2406.19238v1](http://arxiv.org/abs/2406.19238v1)|null|
-|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237v1](http://arxiv.org/abs/2406.19237v1)|null|
+|**2024-06-27**|**Revealing Fine-Grained Values and Opinions in Large Language Models**|Dustin Wright et.al.|[2406.19238v1](http://arxiv.org/abs/2406.19238v1)|[link](https://github.com/copenlu/llm-pct-tropes)|
+|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237v2](http://arxiv.org/abs/2406.19237v2)|null|
 |**2024-06-27**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236v1](http://arxiv.org/abs/2406.19236v1)|[link](https://github.com/lpercc/ha3d_simulator)|
 |**2024-06-27**|**Seeing Is Believing: Black-Box Membership Inference Attacks Against Retrieval Augmented Generation**|Yuying Li et.al.|[2406.19234v1](http://arxiv.org/abs/2406.19234v1)|null|
-|**2024-06-27**|**RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs**|Ekaterina Taktasheva et.al.|[2406.19232v1](http://arxiv.org/abs/2406.19232v1)|null|
-|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|null|
+|**2024-06-27**|**RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs**|Ekaterina Taktasheva et.al.|[2406.19232v2](http://arxiv.org/abs/2406.19232v2)|null|
+|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|[link](https://github.com/Lvchangze/snn)|
 |**2024-06-27**|**Tools Fail: Detecting Silent Errors in Faulty Tools**|Jimin Sun et.al.|[2406.19228v1](http://arxiv.org/abs/2406.19228v1)|null|
 |**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227v1](http://arxiv.org/abs/2406.19227v1)|null|
 |**2024-06-27**|**Simulating Classroom Education with LLM-Empowered Agents**|Zheyuan Zhang et.al.|[2406.19226v1](http://arxiv.org/abs/2406.19226v1)|null|
@@ -42,7 +42,7 @@
 |**2024-06-27**|**SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**|Zijun Yao et.al.|[2406.19215v1](http://arxiv.org/abs/2406.19215v1)|[link](https://github.com/thu-keg/seakr)|
 |**2024-06-27**|**BISeizuRe: BERT-Inspired Seizure Data Representation to Improve Epilepsy Monitoring**|Luca Benfenati et.al.|[2406.19189v1](http://arxiv.org/abs/2406.19189v1)|null|
 |**2024-06-27**|**Annotation Errors and NER: A Study with OntoNotes 5.0**|Gabriel Bernier-Colborne et.al.|[2406.19172v1](http://arxiv.org/abs/2406.19172v1)|null|
-|**2024-06-27**|**The Illusion of Competence: Evaluating the Effect of Explanations on Users' Mental Models of Visual Question Answering Systems**|Judith Sieker et.al.|[2406.19170v1](http://arxiv.org/abs/2406.19170v1)|null|
+|**2024-06-27**|**The Illusion of Competence: Evaluating the Effect of Explanations on Users' Mental Models of Visual Question Answering Systems**|Judith Sieker et.al.|[2406.19170v1](http://arxiv.org/abs/2406.19170v1)|[link](https://github.com/fawazsammani/nlxgpt)|
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150v1](http://arxiv.org/abs/2406.19150v1)|null|
 |**2024-06-27**|**BackMix: Mitigating Shortcut Learning in Echocardiography with Minimal Supervision**|Kit Mills Bransby et.al.|[2406.19148v1](http://arxiv.org/abs/2406.19148v1)|[link](https://github.com/kitbransby/backmix)|
 |**2024-06-27**|**Resolving Discrepancies in Compute-Optimal Scaling of Language Models**|Tomer Porian et.al.|[2406.19146v1](http://arxiv.org/abs/2406.19146v1)|[link](https://github.com/formll/resolving-scaling-law-discrepencies)|
@@ -50,11 +50,11 @@
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135v1](http://arxiv.org/abs/2406.19135v1)|[link](https://github.com/winddori2002/dex-tts)|
 |**2024-06-27**|**Towards Learning Abductive Reasoning using VSA Distributed Representations**|Giacomo Camposampiero et.al.|[2406.19121v1](http://arxiv.org/abs/2406.19121v1)|[link](https://github.com/ibm/abductive-rule-learner-with-context-awareness)|
 |**2024-06-27**|**CHEW: A Dataset of CHanging Events in Wikipedia**|Hsuvas Borkakoty et.al.|[2406.19116v1](http://arxiv.org/abs/2406.19116v1)|null|
-|**2024-06-27**|**Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction**|Blaise Agüera y Arcas et.al.|[2406.19108v1](http://arxiv.org/abs/2406.19108v1)|null|
+|**2024-06-27**|**Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction**|Blaise Agüera y Arcas et.al.|[2406.19108v1](http://arxiv.org/abs/2406.19108v1)|[link](https://github.com/paradigms-of-intelligence/cubff)|
 |**2024-06-27**|**Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs**|Lokesh Mishra et.al.|[2406.19102v1](http://arxiv.org/abs/2406.19102v1)|null|
 |**2024-06-27**|**Fairness and Bias in Multimodal AI: A Survey**|Tosin Adewumi et.al.|[2406.19097v1](http://arxiv.org/abs/2406.19097v1)|null|
 |**2024-06-27**|**Dimensions underlying the representational alignment of deep neural networks with humans**|Florian P. Mahner et.al.|[2406.19087v1](http://arxiv.org/abs/2406.19087v1)|[link](https://github.com/florianmahner/object-dimensions)|
-|**2024-06-27**|**AMBROSIA: A Benchmark for Parsing Ambiguous Questions into Database Queries**|Irina Saparina et.al.|[2406.19073v1](http://arxiv.org/abs/2406.19073v1)|null|
+|**2024-06-27**|**AMBROSIA: A Benchmark for Parsing Ambiguous Questions into Database Queries**|Irina Saparina et.al.|[2406.19073v1](http://arxiv.org/abs/2406.19073v1)|[link](https://github.com/saparina/ambrosia)|
 |**2024-06-27**|**EmPO: Theory-Driven Dataset Construction for Empathetic Response Generation through Preference Optimization**|Ondrej Sotolar et.al.|[2406.19071v1](http://arxiv.org/abs/2406.19071v1)|[link](https://github.com/ondrejsotolar/empo)|
 |**2024-06-27**|**STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis**|Wenbin Li et.al.|[2406.19065v1](http://arxiv.org/abs/2406.19065v1)|[link](https://github.com/lwbxc/stbench)|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
@@ -65,9 +65,9 @@
 |**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
 |**2024-06-27**|**FedMLP: Federated Multi-Label Medical Image Classification under Task Heterogeneity**|Zhaobin Sun et.al.|[2406.18995v1](http://arxiv.org/abs/2406.18995v1)|[link](https://github.com/szbonaldo/fedmlp)|
 |**2024-06-27**|**Semi-supervised Concept Bottleneck Models**|Lijie Hu et.al.|[2406.18992v1](http://arxiv.org/abs/2406.18992v1)|null|
-|**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977v1](http://arxiv.org/abs/2406.18977v1)|null|
+|**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977v1](http://arxiv.org/abs/2406.18977v1)|[link](https://github.com/liufanfanlff/robouniview)|
 |**2024-06-27**|**Applying LLMs for Rescoring N-best ASR Hypotheses of Casual Conversations: Effects of Domain Adaptation and Context Carry-over**|Atsunori Ogawa et.al.|[2406.18972v1](http://arxiv.org/abs/2406.18972v1)|null|
-|**2024-06-27**|**UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models**|Siyuan Wu et.al.|[2406.18966v1](http://arxiv.org/abs/2406.18966v1)|null|
+|**2024-06-27**|**UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models**|Siyuan Wu et.al.|[2406.18966v2](http://arxiv.org/abs/2406.18966v2)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944v1](http://arxiv.org/abs/2406.18944v1)|null|
 |**2024-06-27**|**Federated Graph Semantic and Structural Learning**|Wenke Huang et.al.|[2406.18937v1](http://arxiv.org/abs/2406.18937v1)|[link](https://github.com/guanchengwan/fgssl)|
 |**2024-06-27**|**The single-use restriction for register automata and transducers over infinite alphabets**|Rafał Stefański et.al.|[2406.18934v1](http://arxiv.org/abs/2406.18934v1)|null|
@@ -84,7 +84,7 @@
 |**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895v1](http://arxiv.org/abs/2406.18895v1)|null|
 |**2024-06-27**|**SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models**|Vipul Rathore et.al.|[2406.18880v1](http://arxiv.org/abs/2406.18880v1)|[link](https://github.com/dair-iitd/SSP)|
 |**2024-06-27**|**DeSTA: Enhancing Speech Language Models through Descriptive Speech-Text Alignment**|Ke-Han Lu et.al.|[2406.18871v1](http://arxiv.org/abs/2406.18871v1)|null|
-|**2024-06-27**|**Efficacy of Language Model Self-Play in Non-Zero-Sum Games**|Austen Liao et.al.|[2406.18872v1](http://arxiv.org/abs/2406.18872v1)|null|
+|**2024-06-27**|**Efficacy of Language Model Self-Play in Non-Zero-Sum Games**|Austen Liao et.al.|[2406.18872v1](http://arxiv.org/abs/2406.18872v1)|[link](https://github.com/nickatomlin/lm-selfplay)|
 |**2024-06-27**|**Two-Pronged Human Evaluation of ChatGPT Self-Correction in Radiology Report Simplification**|Ziyu Yang et.al.|[2406.18859v1](http://arxiv.org/abs/2406.18859v1)|[link](https://github.com/ziyu-yang/human-evaluation)|
 |**2024-06-27**|**FFN: a Fine-grained Chinese-English Financial Domain Parallel Corpus**|Yuxin Fu et.al.|[2406.18856v1](http://arxiv.org/abs/2406.18856v1)|null|
 |**2024-06-27**|**LICO: Large Language Models for In-Context Molecular Optimization**|Tung Nguyen et.al.|[2406.18851v1](http://arxiv.org/abs/2406.18851v1)|null|
@@ -107,7 +107,7 @@
 |**2024-06-26**|**Learn it or Leave it: Module Composition and Pruning for Continual Learning**|Mingyang Wang et.al.|[2406.18708v1](http://arxiv.org/abs/2406.18708v1)|null|
 |**2024-06-26**|**Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship**|Zachary R. Baker et.al.|[2406.18702v1](http://arxiv.org/abs/2406.18702v1)|null|
 |**2024-06-26**|**Fast Optimizer Benchmark**|Simon Blauth et.al.|[2406.18701v1](http://arxiv.org/abs/2406.18701v1)|[link](https://github.com/automl/fob)|
-|**2024-06-26**|**Sequence Graph Network for Online Debate Analysis**|Quan Mai et.al.|[2406.18696v1](http://arxiv.org/abs/2406.18696v1)|null|
+|**2024-06-26**|**Sequence Graph Network for Online Debate Analysis**|Quan Mai et.al.|[2406.18696v1](http://arxiv.org/abs/2406.18696v1)|[link](https://github.com/quanmai/SGA)|
 
 #### Abstracts
 ##### **Taming Data and Transformers for Audio Generation**
@@ -605,7 +605,7 @@ and prompts even with disparate stances.
 摘要：揭露大型語言模型 (LLM) 中的潛在價值觀和觀點有助於識別偏見並減輕潛在危害。最近，這已透過向 LLM 提出調查問題並量化它們對道德和政治敏感陳述的立場來實現。然而，LLM 產生的立場可能會根據提示方式而有很大不同，而且有很多方法可以為特定立場辯護或反對。在這項工作中，我們建議透過分析 6 個 LLM 使用 420 個提示變體產生的政治羅盤測試 (PCT) 的 62 個命題的 156k 個 LLM 回應的大型而穩健的資料集來解決這個問題。我們對它們產生的立場進行粗略分析，並對這些立場的純文字論證進行細緻分析。對於細緻分析，我們建議在回應中找出比喻：在不同的提示中重複出現且一致的語義相似片語，揭示給定 LLM 容易產生的文字模式。我們發現加入提示的人口特徵會顯著影響 PCT 的結果，反映出偏見，以及在引發封閉式與開放式領域回應時測試結果之間的差異。此外，透過比喻在純文字論證中的模式顯示，即使立場不同，類似的論證也會在模型和提示中重複產生。
 
 ##### **FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**
-2406.19237v1 by Shubhankar Singh, Purvi Chaurasia, Yerram Varun, Pranshu Pandya, Vatsal Gupta, Vivek Gupta, Dan Roth
+2406.19237v2 by Shubhankar Singh, Purvi Chaurasia, Yerram Varun, Pranshu Pandya, Vatsal Gupta, Vivek Gupta, Dan Roth
 
 Existing benchmarks for visual question answering lack in visual grounding
 and complexity, particularly in evaluating spatial reasoning skills. We
@@ -622,7 +622,7 @@ as a vital tool for advancing the field of multimodal modeling, providing a
 focused and challenging environment for enhancing model performance in visual
 and logical reasoning tasks.
 
-摘要：現有的視覺問答基準缺乏視覺基礎和複雜性，特別是在評估空間推理技能方面。我們引入了 FlowVQA，這是一個新基準，旨在評估視覺問答多模態語言模型在使用流程圖作為視覺背景進行推理的能力。FlowVQA 包含 2,272 個來自三個不同內容來源的經過仔細生成並由人工驗證的流程圖影像，以及 22,413 個不同的問答對，用於測試一系列推理任務，包括資訊定位、決策制定和邏輯推進。我們對一系列開源和專有多模態語言模型進行了徹底的基準評估，使用各種策略，然後分析方向偏差。結果強調了基準作為推進多模態建模領域的重要工具的潛力，為在視覺和邏輯推理任務中增強模型效能提供了專注且具有挑戰性的環境。
+摘要：現有的視覺問答基準在視覺基礎和複雜性方面有所欠缺，特別是在評估空間推理技能方面。我們引入了 FlowVQA，一個新的基準，旨在評估視覺問答多模態語言模型在以流程圖作為視覺內容進行推理的能力。FlowVQA 包含 2,272 個仔細生成並由人類驗證的流程圖影像，來自三個不同的內容來源，以及 22,413 個不同的問題解答配對，用於測試一系列推理任務，包括資訊定位、決策制定和邏輯進程。我們對一系列開源和專有多模態語言模型進行了徹底的基準評估，使用了各種策略，然後分析了方向偏差。結果強調了基準作為推進多模態建模領域的重要工具的潛力，為增強模型在視覺和邏輯推理任務中的效能提供了一個專注且具有挑戰性的環境。
 
 ##### **Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**
 2406.19236v1 by Minghan Li, Heng Li, Zhi-Qi Cheng, Yifei Dong, Yuxuan Zhou, Jun-Yan He, Qi Dai, Teruko Mitamura, Alexander G. Hauptmann
@@ -672,7 +672,7 @@ Experimental validation of our methods has achieved a ROC AUC of 82%.
 摘要：檢索增強生成（RAG）是一種先進技術，它透過從外部的非參數資料庫中檢索相關知識，來增強大型語言模型（LLM）。此方法旨在減輕常見的 LLM 問題，例如幻覺和過時的知識。儘管現有的研究已證明 RAG 系統存在安全性和隱私漏洞，使其容易受到越獄和提示注入等攻擊，但 RAG 系統外部資料庫的安全性在很大程度上仍未得到探索。在本文中，我們採用成員推論攻擊（MIA）來確定範例是否為 RAG 系統知識資料庫的一部分，僅使用黑盒 API 存取。我們的核心假設是，如果範例是成員，它將與 RAG 系統產生的文字有顯著的相似性。為了測試這一點，我們計算餘弦相似性和模型的困惑度，以建立成員分數，從而建立健全的特徵。然後，我們介紹兩種新穎的攻擊策略：基於閾值的攻擊和基於機器學習的攻擊，旨在準確識別成員。我們的方法的實驗驗證已達到 82% 的 ROC AUC。
 
 ##### **RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs**
-2406.19232v1 by Ekaterina Taktasheva, Maxim Bazhukov, Kirill Koncha, Alena Fenogenova, Ekaterina Artemova
+2406.19232v2 by Ekaterina Taktasheva, Maxim Bazhukov, Kirill Koncha, Alena Fenogenova, Ekaterina Artemova, Vladislav Mikhailov
 
 Minimal pairs are a well-established approach to evaluating the grammatical
 knowledge of language models. However, existing resources for minimal pairs
@@ -690,7 +690,7 @@ contrasts but fall behind humans on phenomena requiring understanding of
 structural relations, negation, transitivity, and tense. RuBLiMP, the codebase,
 and other materials are publicly available.
 
-摘要：最小對是評估語言模型語法知識的既定方法。然而，現有最小對的資源僅針對有限數量的語言，且缺乏語言特定語法現象的多樣性。本文介紹俄語語言最小對基準 (RuBLiMP)，其中包含 45k 對在語法性上有所不同且孤立了形態、句法或語義現象的句子。與現有的語言最小對基準相反，RuBLiMP 是透過對來自開放文字語料庫的自動標註句子套用語言擾動並仔細策展測試資料而建立的。我們描述資料收集協定，並展示在各種情境下評估 25 個語言模型的結果。我們發現廣泛使用的俄語語言模型對形態和一致性導向的對比很敏感，但在需要理解結構關係、否定、遞移性和時態的現象上卻落後於人類。RuBLiMP、程式碼庫和其他材料均公開提供。
+摘要：最小對是評估語言模型語法知識的既定方法。然而，現有的最小對資源僅針對有限的語言，且缺乏語言特定語法現象的多樣性。本文介紹了俄語語言最小對基準 (RuBLiMP)，其中包含 45k 對語法性不同的句子，並孤立了形態、句法或語義現象。與現有的語言最小對基準不同，RuBLiMP 是通過對來自開放文本語料庫的自動標註句子應用語言擾動並仔細策劃測試數據而創建的。我們描述了數據收集協議，並展示了在各種場景中評估 25 個語言模型的結果。我們發現，廣泛使用的俄語語言模型對形態和一致性導向的對比很敏感，但在需要理解結構關係、否定、及物性和時態的現象方面落後於人類。RuBLiMP、代碼庫和其他材料已公開。
 
 ##### **Spiking Convolutional Neural Networks for Text Classification**
 2406.19230v1 by Changze Lv, Jianhan Xu, Xiaoqing Zheng
@@ -1445,7 +1445,7 @@ cost of Llama2.
 摘要：大型語言模型 (LLM) 已成功應用於重新評分自動語音辨識 (ASR) 假設。然而，它們重新評分非正式對話的 ASR 假設的能力尚未得到充分探索。在本研究中，我們通過在 CHiME-7 遠程 ASR (DASR) 任務上使用 Llama2 執行 N 個最佳 ASR 假設重新評分來揭示它。Llama2 是最具代表性的 LLM 之一，而 CHiME-7 DASR 任務提供了多個參與者之間的非正式對話的資料集。我們在執行 N 個最佳重新評分時研究了 LLM 的領域適應和上下文延續的影響。實驗結果表明，即使沒有領域適應，Llama2 也優於標準大小的領域適應 Transformer-LM，特別是在使用長上下文時。領域適應縮短了 Llama2 達到其最佳性能所需的上下文長度，即它降低了 Llama2 的運算成本。
 
 ##### **UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models**
-2406.18966v1 by Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
+2406.18966v2 by Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
 
 Large Language Models (LLMs) such as GPT-4 and Llama3 have significantly
 impacted various fields by enabling high-quality synthetic data generation and
@@ -1469,7 +1469,7 @@ effectively supports dynamic and evolving benchmarking, and that data
 augmentation improves LLM capabilities in various domains, including
 agent-oriented abilities and reasoning skills.
 
-摘要：大型語言模型 (LLM)，例如 GPT-4 和 Llama3，透過讓高品質的合成資料生成成為可能，並降低對昂貴的人工生成資料集的依賴，對各個領域產生了重大影響。儘管如此，在現有的生成式架構中，在泛化、可控性、多樣性和真實性方面仍存在挑戰。為了應對這些挑戰，本文提出了 UniGen，一個由 LLM 驅動的綜合框架，旨在產生多樣化、準確且高度可控的資料集。UniGen 具有適應性，支援所有類型的文字資料集，並透過創新的機制增強生成式程序。為了增加資料多樣性，UniGen 結合了屬性引導生成模組和群組檢查功能。為了準確性，它採用基於程式碼的數學評估進行標籤驗證，並結合檢索增強生成技術進行事實驗證。該框架還允許使用者指定約束，讓資料生成程序能夠根據特定需求進行自訂。廣泛的實驗證明了 UniGen 所生成資料的優異品質，而 UniGen 中的每個模組都在這種增強中扮演關鍵角色。此外，UniGen 應用於兩個實際場景：LLM 基準測試和資料擴充。結果表明，UniGen 有效地支援動態且不斷演進的基準測試，而資料擴充則提升了 LLM 在各種領域的能力，包括以代理為導向的能力和推理技能。
+摘要：大型語言模型 (LLM)，例如 GPT-4 和 Llama3，透過啟用高品質的合成資料產生，並降低對昂貴的人類產生資料集的依賴，對各個領域產生重大影響。儘管如此，在現有的生成式架構中，在概括化、可控性、多樣性和真實性方面仍存在挑戰。為了應對這些挑戰，本文提出了 UniGen，一個由 LLM 驅動的綜合架構，旨在產生多樣化、準確且高度可控的資料集。UniGen 具有適應性，支援所有類型的文字資料集，並透過創新機制增強生成式程序。為了增加資料的多樣性，UniGen 結合了屬性引導生成模組和群組檢查功能。為了準確性，它採用基於程式碼的數學評估進行標籤驗證，並結合檢索增強的生成技術進行事實驗證。該架構還允許使用者指定的約束，讓資料產生程序能夠自訂以符合特定需求。廣泛的實驗證明了 UniGen 所產生資料的優異品質，而 UniGen 中的每個模組都在這項增強中扮演關鍵角色。此外，UniGen 應用於兩個實際情境：基準測試 LLM 和資料擴充。結果表明，UniGen 有效地支援動態和不斷演進的基準測試，而資料擴充則改善了 LLM 在各種領域的能力，包括以代理為導向的能力和推理技能。
 
 ##### **Investigating and Defending Shortcut Learning in Personalized Diffusion Models**
 2406.18944v1 by Yixin Liu, Ruoxi Chen, Lichao Sun
@@ -4924,10 +4924,10 @@ final decisions.
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
 |**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050v1](http://arxiv.org/abs/2406.19050v1)|null|
-|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|null|
+|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|[link](https://github.com/cmrxrecon/cmrxrecon2024)|
 |**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
 |**2024-06-27**|**FedMLP: Federated Multi-Label Medical Image Classification under Task Heterogeneity**|Zhaobin Sun et.al.|[2406.18995v1](http://arxiv.org/abs/2406.18995v1)|[link](https://github.com/szbonaldo/fedmlp)|
 |**2024-06-27**|**Alignment For Performance Improvement in Conversation Bots**|Raghav Garg et.al.|[2406.18954v1](http://arxiv.org/abs/2406.18954v1)|null|
@@ -5013,7 +5013,7 @@ final decisions.
 |**2024-06-18**|**Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**|Haowei Ni et.al.|[2406.12199v2](http://arxiv.org/abs/2406.12199v2)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v1](http://arxiv.org/abs/2406.12142v1)|null|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
+|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v3](http://arxiv.org/abs/2406.12058v3)|null|
 |**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v3](http://arxiv.org/abs/2406.12036v3)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
@@ -7187,7 +7187,7 @@ learning and model fairness analyses.
 摘要：機器學習模型在醫學影像分析中獲得了很高的整體準確度。然而，特定患者群體的效能差異對其臨床效用、安全性與公平性構成挑戰。這可能會影響已知的患者群體（例如基於性別、年齡或疾病亞型）以及先前未知和未標記的群體。此外，這種觀察到的效能差異的根本原因通常難以發現，阻礙了改善措施。在本文中，為了解決這些問題，我們利用切片發現方法 (SDM) 來識別可解釋的資料效能不佳的子集，並針對觀察到的效能差異原因制定假設。我們引入了一種新的 SDM，並在胸部 X 光片中肺炎和肺不張的分類案例研究中應用它。我們的研究證明了 SDM 在假設制定中的有效性，並對在廣泛使用的胸部 X 光片資料集和模型中男性和女性患者之間先前觀察到但無法解釋的效能差異提供了解釋。我們的研究結果表明，在分類任務中，透過胸腔引流管和 ECG 線路的存在，存在捷徑學習。這些捷徑特徵在患病率上的基於性別的差異似乎導致了觀察到的分類效能差距，這代表了捷徑學習和模型公平性分析之間先前未被重視的交互作用。
 
 ##### **WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**
-2406.12058v2 by Seyedali Mohammadi, Edward Raff, Jinendra Malekar, Vedant Palit, Francis Ferraro, Manas Gaur
+2406.12058v3 by Seyedali Mohammadi, Edward Raff, Jinendra Malekar, Vedant Palit, Francis Ferraro, Manas Gaur
 
 Language Models (LMs) are being proposed for mental health applications where
 the heightened risk of adverse outcomes means predictive performance may not be
@@ -7212,7 +7212,7 @@ explanations, causing these discrepancies. This study highlights the need for
 further research into their consistency and explanations in mental health and
 well-being.
 
-摘要：語言模型 (LM) 已被提議用於心理健康應用，在這些應用中，不良結果的風險升高意味著預測性表現可能不足以作為臨床實務中模型效用的試金石。可信賴實務的模型應在解釋和臨床判斷之間有對應關係，但沒有先前的研究探討過這些模型的注意力保真度及其對真實解釋的影響。我們介紹了一種評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉數據集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性與專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，為我們的評估提供了依據。我們揭示了有關 LM/LLM 的四個驚人結果：(1) 儘管具有類人的能力，GPT-3.5/4 仍落後於 RoBERTa 和 MedAlpaca，而微調的 LLM 在效能或解釋方面並未帶來任何顯著的進步。(2) 根據以信心為導向的損失函數重新檢查 LM 的預測，顯示效能大幅下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數心理健康專用 LM/LLM 忽視特定領域的知識，並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
+摘要：語言模型 (LM) 被提議用於心理健康應用程式，在其中，由於不良結果的風險升高，預測效能可能不足以作為臨床實務中模型效用的試金石。可信賴於實務的模型應在解釋和臨床判斷之間具有對應關係，但目前尚未有研究探討這些模型的注意力保真度及其對真實解釋的影響。我們引入了一個評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉資料集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性，以對抗專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，這為我們的評估提供了依據。我們揭露了關於 LM/LLM 的四個驚人結果：(1) 儘管 GPT-3.5/4 具有類人能力，但它落後於 RoBERTa 和 MedAlpaca，而微調後的 LLM 未能提供效能或解釋方面的任何顯著改進。(2) 根據以信心為導向的損失函數重新檢視 LM 的預測，揭示了一個顯著的效能下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數特定於心理健康的 LM/LLM 忽視特定領域的知識並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
 
 ##### **MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**
 2406.12036v3 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
@@ -7495,7 +7495,7 @@ effectiveness of our new approach.
 |**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021v1](http://arxiv.org/abs/2406.14021v1)|null|
 |**2024-06-19**|**A Pure Transformer Pretraining Framework on Text-attributed Graphs**|Yu Song et.al.|[2406.13873v1](http://arxiv.org/abs/2406.13873v1)|[link](https://github.com/songyyyy/gspt)|
 |**2024-06-19**|**Knowledge Graph-Enhanced Large Language Models via Path Selection**|Haochen Liu et.al.|[2406.13862v1](http://arxiv.org/abs/2406.13862v1)|[link](https://github.com/haochenliu2000/kelp)|
-|**2024-06-19**|**Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation**|Haochen Liu et.al.|[2406.15507v1](http://arxiv.org/abs/2406.15507v1)|null|
+|**2024-06-19**|**Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation**|Haochen Liu et.al.|[2406.15507v1](http://arxiv.org/abs/2406.15507v1)|[link](https://github.com/HaochenLiu2000/SAFER)|
 |**2024-06-19**|**Dr.E Bridges Graphs with Large Language Models through Words**|Zipeng Liu et.al.|[2406.15504v1](http://arxiv.org/abs/2406.15504v1)|null|
 |**2024-06-19**|**Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration**|Han-Cheng Yu et.al.|[2406.13578v1](http://arxiv.org/abs/2406.13578v1)|null|
 |**2024-06-19**|**LangTopo: Aligning Language Descriptions of Graphs with Tokenized Topological Modeling**|Zhong Guan et.al.|[2406.13250v1](http://arxiv.org/abs/2406.13250v1)|null|
@@ -7513,7 +7513,7 @@ effectiveness of our new approach.
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v2](http://arxiv.org/abs/2406.11162v2)|[link](https://github.com/victor812-hub/entity_datasets)|
-|**2024-06-17**|**Contextual Knowledge Graph**|Chengjin Xu et.al.|[2406.11160v2](http://arxiv.org/abs/2406.11160v2)|null|
+|**2024-06-17**|**Context Graph**|Chengjin Xu et.al.|[2406.11160v3](http://arxiv.org/abs/2406.11160v3)|null|
 |**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v2](http://arxiv.org/abs/2406.11131v2)|[link](https://github.com/ysunbp/taxoglimpse)|
 |**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
@@ -7526,7 +7526,7 @@ effectiveness of our new approach.
 |**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v1](http://arxiv.org/abs/2406.09953v1)|null|
 |**2024-06-14**|**TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**|Zhuofeng Li et.al.|[2406.10310v1](http://arxiv.org/abs/2406.10310v1)|null|
 |**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
-|**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v1](http://arxiv.org/abs/2406.09606v1)|null|
+|**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v2](http://arxiv.org/abs/2406.09606v2)|null|
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
 |**2024-06-13**|**SememeLM: A Sememe Knowledge Enhanced Method for Long-tail Relation Representation**|Shuyi Li et.al.|[2406.10297v1](http://arxiv.org/abs/2406.10297v1)|null|
@@ -7543,7 +7543,7 @@ effectiveness of our new approach.
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113v2](http://arxiv.org/abs/2406.07113v2)|null|
 |**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|[link](https://github.com/UKPLab/acl2024-DARA)|
 |**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034v1](http://arxiv.org/abs/2406.07034v1)|[link](https://github.com/kjh9503/caqr)|
-|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v2](http://arxiv.org/abs/2406.06777v2)|null|
+|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v3](http://arxiv.org/abs/2406.06777v3)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032v1](http://arxiv.org/abs/2406.06032v1)|null|
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
@@ -8793,31 +8793,30 @@ generated LRL RE datasets.
 
 摘要：關係抽取 (RE) 是一種將非結構化文字轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。其重要性在於它在各種下游任務中扮演著不可或缺的角色。除了基於神經網路和預訓練語言模型的傳統 RE 方法之外，大型語言模型 (LLM) 也被用於 RE 的研究領域。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統的 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。有鑑於此，本文在三個地區（中亞、東南亞和中東）的 10 種 LRL 中建構了低資源關係抽取資料集。這些語料庫是透過使用一種有效的多語言機器翻譯來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
 
-##### **Contextual Knowledge Graph**
-2406.11160v2 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
+##### **Context Graph**
+2406.11160v3 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
 
 Knowledge Graphs (KGs) are foundational structures in many AI applications,
 representing entities and their interrelations through triples. However,
 triple-based KGs lack the contextual information of relational knowledge, like
 temporal dynamics and provenance details, which are crucial for comprehensive
-knowledge representation and effective reasoning. Instead, \textbf{Contextual
-Knowledge Graphs} (CKGs) expand upon the conventional structure by
-incorporating additional information such as time validity, geographic
-location, and source provenance. This integration provides a more nuanced and
-accurate understanding of knowledge, enabling KGs to offer richer insights and
-support more sophisticated reasoning processes. In this work, we first discuss
-the inherent limitations of triple-based KGs and introduce the concept of
-contextual KGs, highlighting their advantages in knowledge representation and
-reasoning. We then present \textbf{KGR$^3$, a context-enriched KG reasoning
-paradigm} that leverages large language models (LLMs) to retrieve candidate
-entities and related contexts, rank them based on the retrieved information,
-and reason whether sufficient information has been obtained to answer a query.
-Our experimental results demonstrate that KGR$^3$ significantly improves
-performance on KG completion (KGC) and KG question answering (KGQA) tasks,
-validating the effectiveness of incorporating contextual information on KG
-representation and reasoning.
+knowledge representation and effective reasoning. Instead, \textbf{Context
+Graphs} (CGs) expand upon the conventional structure by incorporating
+additional information such as time validity, geographic location, and source
+provenance. This integration provides a more nuanced and accurate understanding
+of knowledge, enabling KGs to offer richer insights and support more
+sophisticated reasoning processes. In this work, we first discuss the inherent
+limitations of triple-based KGs and introduce the concept of CGs, highlighting
+their advantages in knowledge representation and reasoning. We then present a
+context graph reasoning \textbf{CGR$^3$} paradigm that leverages large language
+models (LLMs) to retrieve candidate entities and related contexts, rank them
+based on the retrieved information, and reason whether sufficient information
+has been obtained to answer a query. Our experimental results demonstrate that
+CGR$^3$ significantly improves performance on KG completion (KGC) and KG
+question answering (KGQA) tasks, validating the effectiveness of incorporating
+contextual information on KG representation and reasoning.
 
-摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的背景資訊，例如時間動態和來源細節，這些資訊對於全面的知識表徵和有效的推理至關重要。相反地，**背景知識圖譜** (CKG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統的結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能提供更豐富的見解並支援更精密的推理過程。在這項工作中，我們首先討論基於三元組的 KG 的內在限制，並介紹背景 KG 的概念，強調它們在知識表徵和推理方面的優勢。然後，我們提出**KGR$^3$，一種背景豐富的 KG 推理範例**，它利用大型語言模型 (LLM) 來擷取候選實體和相關背景，根據擷取的資訊對它們進行排名，並推論是否已獲得足夠的資訊來回答查詢。我們的實驗結果證明，KGR$^3$ 大幅提升了 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務的效能，驗證了在 KG 表徵和推理中納入背景資訊的有效性。
+摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組來表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的脈絡資訊，例如時間動態和來源細節，這些資訊對於全面的知識表示和有效推理至關重要。取而代之的是，**脈絡圖譜** (CG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能夠提供更豐富的見解，並支援更精密的推理過程。在這項工作中，我們首先討論了基於三元組的 KG 的內在限制，並介紹 CG 的概念，強調它們在知識表示和推理方面的優勢。接下來，我們提出一個脈絡圖譜推理**CGR$^3$**範例，它利用大型語言模型 (LLM) 來擷取候選實體和相關脈絡，根據擷取的資訊對它們進行排序，並推論是否已取得足夠的資訊來回答查詢。我們的實驗結果證明，CGR$^3$ 在 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務上顯著提升了效能，驗證了在 KG 表示和推理中納入脈絡資訊的有效性。
 
 ##### **Are Large Language Models a Good Replacement of Taxonomies?**
 2406.11131v2 by Yushi Sun, Hao Xin, Kai Sun, Yifan Ethan Xu, Xiao Yang, Xin Luna Dong, Nan Tang, Lei Chen
@@ -9105,7 +9104,7 @@ explainable CMs are beneficial and promising for molecular science research.
 摘要：人工智慧（AI）正在顯著地轉變科學研究。可解釋的 AI 方法，例如基於概念的模型（CM），對於推動新的科學發現很有希望，因為它們根據有意義的概念進行預測，並提供對預測過程的見解。然而，在分子科學中，可解釋的 CM 並不像圖神經網路（GNN）這樣的黑箱模型那麼常見，這主要是由於它們需要預定義的概念和每個實例的手動標籤，這需要領域知識並且可能需要大量人工。本文介紹了一個用於自動分子概念（AutoMolCo）生成和標籤的全新框架。AutoMolCo 利用大語言模型（LLM）中的知識自動生成預測分子概念並為每個分子標記它們。此類程序通過與 LLM 的反覆交互來重複，以優化概念，使基於優化概念的簡單線性模型在幾個基準上優於 GNN 和 LLM 的上下文學習。整個 AutoMolCo 框架是自動化的，在概念生成、標記或優化中都沒有任何人工知識輸入，從而超越了現有 CM 的限制，同時保持了它們的可解釋性並允許輕鬆干預。通過對 MoleculeNet 和高通量實驗（HTE）數據集進行系統的實驗，我們證明了 AutoMolCo 誘導的可解釋 CM 對分子科學研究是有益且有希望的。
 
 ##### **Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**
-2406.09606v1 by Zongyue Qin, Yunsheng Bai, Atefeh Sograbizadeh, Zijian Ding, Ziniu Hu, Yizhou Sun, Jason Cong
+2406.09606v2 by Zongyue Qin, Yunsheng Bai, Atefeh Sohrabizadeh, Zijian Ding, Ziniu Hu, Yizhou Sun, Jason Cong
 
 In recent years, domain-specific accelerators (DSAs) have gained popularity
 for applications such as deep learning and autonomous driving. To facilitate
@@ -9130,7 +9129,7 @@ average of $1.10\times$ and $1.26\times$ (up to $8.17\times$ and $13.31\times$)
 performance improvement in design space exploration (DSE) task compared to HARP
 and AutoDSE, respectively.
 
-摘要：<paragraph>近年來，特定領域加速器（DSA）在深度學習和自動駕駛等應用中越來越受歡迎。為了促進 DSA 設計，程式設計人員使用高階綜合（HLS）將以 C/C++ 編寫的高階描述編譯成低階硬體描述語言的設計，最終在電路中合成 DSA。然而，要建立高品質的 HLS 設計，仍然需要大量的領域知識，特別是在表示為「指令」的微架構決策中。因此，很希望藉助機器學習自動化這些決策，以預測 HLS 設計的品質，這需要更深入地了解包含原始程式碼和指令的程式。自然地，這些程式可以視為序列資料。此外，這些程式可以編譯並轉換成控制資料流程圖（CDFG）。但現有的作品不是無法同時利用這兩種方式，就是以淺層或粗略的方式將它們結合在一起。我們提出 ProgSG，這是一個允許以深入且細緻的方式在原始碼序列方式和圖形方式之間進行互動的模型。為了緩解標記設計的稀缺性，提出了一種基於編譯器資料流分析任務套件的預訓練方法。實驗結果顯示，ProgSG 將設計效能預測的 RMSE 降低了多達 22%，並識別出設計在設計空間探索（DSE）任務中平均效能提升 1.10 倍和 1.26 倍（最高 8.17 倍和 13.31 倍），分別與 HARP 和 AutoDSE 相比。</paragraph>
+摘要：<paragraph>近年来，特定领域加速器 (DSA) 在深度学习和自动驾驶等应用中获得了广泛应用。为了促进 DSA 设计，程序员使用高级综合 (HLS) 将用 C/C++ 编写的较高层次描述编译成采用低层次硬件描述语言的设计，最终在电路中综合 DSA。然而，创建高质量 HLS 设计仍然需要大量的领域知识，尤其是以“编译器指示”形式表达的微架构决策。因此，期望借助机器学习自动化此类决策，以预测 HLS 设计的质量，需要更深入地理解由原始代码和编译器指示组成的程序。自然而然地，这些程序可以被视为序列数据。此外，这些程序可以被编译并转换为控制数据流图 (CDFG)。但现有工作要么无法利用这两种方式，要么以浅显或粗略的方式将两者结合起来。我们提出了 ProgSG，这是一个允许以深入且细粒度的形式在源代码序列方式和图方式之间进行交互的模型。为了缓解标记设计稀缺的问题，提出了一种基于编译器数据流分析任务套件的预训练方法。实验结果表明，ProgSG 将设计性能预测的 RMSE 降低了高达 22%，并且在设计空间探索 (DSE) 任务中，与 HARP 和 AutoDSE 相比，分别以平均 1.10 倍和 1.26 倍（高达 8.17 倍和 13.31 倍）的性能改进识别设计。</paragraph>
 
 ##### **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**
 2406.09403v1 by Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna
@@ -9543,7 +9542,7 @@ https://github.com/kjh9503/caqr.
 摘要：多跳邏輯推理是自然語言處理中的關鍵任務，許多方法旨在回答一階邏輯 (FOL) 查詢。最近的幾何形狀（例如，盒子、圓錐）和機率（例如，貝塔分佈）方法有效地解決了複雜的 FOL 查詢。然而，這些方法的共同挑戰在於，為這些查詢確定準確的幾何界限或機率參數。挑戰出現的原因在於，現有方法依賴於其運算圖形中的線性順序運算，忽略了查詢的邏輯結構以及可以從查詢關係中收集到的關係誘導資訊，我們稱之為查詢的背景。為了解決這個問題，我們提出了一種與模型無關的方法，透過完全整合 FOL 查詢圖形的背景，來提升現有多跳邏輯推理方法的效能。我們的做法獨特地辨別了 (1) 查詢結構固有的結構背景，以及 (2) 查詢圖形中每個節點獨有的關係誘導背景，如對應的知識圖形中所描繪的。這種雙重背景範例有助於查詢圖形中的節點在多跳推理步驟中獲得精緻的內部表示。透過在兩個資料集上進行實驗，我們的模型持續增強三種多跳推理基礎模型，效能提升最高達 19.5%。我們的程式碼可在 https://github.com/kjh9503/caqr 取得。
 
 ##### **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-2406.06777v2 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
+2406.06777v3 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
 
 Recently, Large Language Models (LLMs) with their strong task-handling
 capabilities have shown remarkable advancements across a spectrum of fields,
@@ -9566,7 +9565,7 @@ trainable parameters while outperforming baselines on various downstream
 molecule-related tasks ranging from molecule-to-text translation to
 retrosynthesis, with and without fine-tuning the LLM.
 
-摘要：<paragraph>最近，具有强大任务处理能力的大型语言模型 (LLM) 在各个领域都取得了显着进步，超越了自然语言理解。然而，它们在化学领域的熟练程度仍然受到限制，尤其是在解决专业的分子相关任务方面。这一挑战归因于它们在仅使用常见文本表示（即 SMILES 字符串）理解分子方面的固有局限性。在这项研究中，我们寻求通过设计和为其配备一个多模态外部模块（即 MolX）来增强 LLM 理解分子的能力。特别是，我们利用特定编码器从 SMILES 字符串和 2D 分子图表示中提取细粒度特征以输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，还纳入了人类定义的分子指纹以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立一个对齐，整个模型（其中 LLM 被冻结）使用包括各种任务在内的一个通用策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在各种下游分子相关任务（包括分子到文本翻译到逆合成）中优于基线，无论是否对 LLM 进行微调。</paragraph>
+摘要：近期，大型语言模型 (LLM) 凭借其强大的任务处理能力，在超越自然语言理解的各个领域中展现出显著的进步。然而，它们在化学领域的熟练度仍然受到限制，尤其是在解决专业分子相关任务方面。这一挑战归因于它们固有的局限性，即仅使用常见的文本表示（即 SMILES 字符串）来理解分子。在本研究中，我们旨在通过设计和为 LLM 配备多模态外部模块（即 MolX）来增强其理解分子的能力。具体来说，我们利用特定编码器从 SMILES 字符串和二维分子图表示中提取细粒度特征，用于输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，我们还纳入了人类定义的分子指纹，以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立对齐，整个模型（其中 LLM 被冻结）使用包括各种任务的多功能策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在从分子到文本翻译到逆合成等各种下游分子相关任务上优于基线，无论是否对 LLM 进行微调。
 
 ##### **The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**
 2406.06032v1 by Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui

@@ -2,10 +2,10 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
 |**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050v1](http://arxiv.org/abs/2406.19050v1)|null|
-|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|null|
+|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|[link](https://github.com/cmrxrecon/cmrxrecon2024)|
 |**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
 |**2024-06-27**|**FedMLP: Federated Multi-Label Medical Image Classification under Task Heterogeneity**|Zhaobin Sun et.al.|[2406.18995v1](http://arxiv.org/abs/2406.18995v1)|[link](https://github.com/szbonaldo/fedmlp)|
 |**2024-06-27**|**Alignment For Performance Improvement in Conversation Bots**|Raghav Garg et.al.|[2406.18954v1](http://arxiv.org/abs/2406.18954v1)|null|
@@ -91,7 +91,7 @@
 |**2024-06-18**|**Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**|Haowei Ni et.al.|[2406.12199v2](http://arxiv.org/abs/2406.12199v2)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v1](http://arxiv.org/abs/2406.12142v1)|null|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
+|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v3](http://arxiv.org/abs/2406.12058v3)|null|
 |**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v3](http://arxiv.org/abs/2406.12036v3)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
@@ -2265,7 +2265,7 @@ learning and model fairness analyses.
 摘要：機器學習模型在醫學影像分析中獲得了很高的整體準確度。然而，特定患者群體的效能差異對其臨床效用、安全性與公平性構成挑戰。這可能會影響已知的患者群體（例如基於性別、年齡或疾病亞型）以及先前未知和未標記的群體。此外，這種觀察到的效能差異的根本原因通常難以發現，阻礙了改善措施。在本文中，為了解決這些問題，我們利用切片發現方法 (SDM) 來識別可解釋的資料效能不佳的子集，並針對觀察到的效能差異原因制定假設。我們引入了一種新的 SDM，並在胸部 X 光片中肺炎和肺不張的分類案例研究中應用它。我們的研究證明了 SDM 在假設制定中的有效性，並對在廣泛使用的胸部 X 光片資料集和模型中男性和女性患者之間先前觀察到但無法解釋的效能差異提供了解釋。我們的研究結果表明，在分類任務中，透過胸腔引流管和 ECG 線路的存在，存在捷徑學習。這些捷徑特徵在患病率上的基於性別的差異似乎導致了觀察到的分類效能差距，這代表了捷徑學習和模型公平性分析之間先前未被重視的交互作用。
 
 ##### **WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**
-2406.12058v2 by Seyedali Mohammadi, Edward Raff, Jinendra Malekar, Vedant Palit, Francis Ferraro, Manas Gaur
+2406.12058v3 by Seyedali Mohammadi, Edward Raff, Jinendra Malekar, Vedant Palit, Francis Ferraro, Manas Gaur
 
 Language Models (LMs) are being proposed for mental health applications where
 the heightened risk of adverse outcomes means predictive performance may not be
@@ -2290,7 +2290,7 @@ explanations, causing these discrepancies. This study highlights the need for
 further research into their consistency and explanations in mental health and
 well-being.
 
-摘要：語言模型 (LM) 已被提議用於心理健康應用，在這些應用中，不良結果的風險升高意味著預測性表現可能不足以作為臨床實務中模型效用的試金石。可信賴實務的模型應在解釋和臨床判斷之間有對應關係，但沒有先前的研究探討過這些模型的注意力保真度及其對真實解釋的影響。我們介紹了一種評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉數據集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性與專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，為我們的評估提供了依據。我們揭示了有關 LM/LLM 的四個驚人結果：(1) 儘管具有類人的能力，GPT-3.5/4 仍落後於 RoBERTa 和 MedAlpaca，而微調的 LLM 在效能或解釋方面並未帶來任何顯著的進步。(2) 根據以信心為導向的損失函數重新檢查 LM 的預測，顯示效能大幅下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數心理健康專用 LM/LLM 忽視特定領域的知識，並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
+摘要：語言模型 (LM) 被提議用於心理健康應用程式，在其中，由於不良結果的風險升高，預測效能可能不足以作為臨床實務中模型效用的試金石。可信賴於實務的模型應在解釋和臨床判斷之間具有對應關係，但目前尚未有研究探討這些模型的注意力保真度及其對真實解釋的影響。我們引入了一個評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉資料集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性，以對抗專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，這為我們的評估提供了依據。我們揭露了關於 LM/LLM 的四個驚人結果：(1) 儘管 GPT-3.5/4 具有類人能力，但它落後於 RoBERTa 和 MedAlpaca，而微調後的 LLM 未能提供效能或解釋方面的任何顯著改進。(2) 根據以信心為導向的損失函數重新檢視 LM 的預測，揭示了一個顯著的效能下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數特定於心理健康的 LM/LLM 忽視特定領域的知識並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
 
 ##### **MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**
 2406.12036v3 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu

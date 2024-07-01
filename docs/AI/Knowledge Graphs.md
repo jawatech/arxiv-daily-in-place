@@ -35,7 +35,7 @@
 |**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021v1](http://arxiv.org/abs/2406.14021v1)|null|
 |**2024-06-19**|**A Pure Transformer Pretraining Framework on Text-attributed Graphs**|Yu Song et.al.|[2406.13873v1](http://arxiv.org/abs/2406.13873v1)|[link](https://github.com/songyyyy/gspt)|
 |**2024-06-19**|**Knowledge Graph-Enhanced Large Language Models via Path Selection**|Haochen Liu et.al.|[2406.13862v1](http://arxiv.org/abs/2406.13862v1)|[link](https://github.com/haochenliu2000/kelp)|
-|**2024-06-19**|**Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation**|Haochen Liu et.al.|[2406.15507v1](http://arxiv.org/abs/2406.15507v1)|null|
+|**2024-06-19**|**Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation**|Haochen Liu et.al.|[2406.15507v1](http://arxiv.org/abs/2406.15507v1)|[link](https://github.com/HaochenLiu2000/SAFER)|
 |**2024-06-19**|**Dr.E Bridges Graphs with Large Language Models through Words**|Zipeng Liu et.al.|[2406.15504v1](http://arxiv.org/abs/2406.15504v1)|null|
 |**2024-06-19**|**Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration**|Han-Cheng Yu et.al.|[2406.13578v1](http://arxiv.org/abs/2406.13578v1)|null|
 |**2024-06-19**|**LangTopo: Aligning Language Descriptions of Graphs with Tokenized Topological Modeling**|Zhong Guan et.al.|[2406.13250v1](http://arxiv.org/abs/2406.13250v1)|null|
@@ -53,7 +53,7 @@
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v2](http://arxiv.org/abs/2406.11162v2)|[link](https://github.com/victor812-hub/entity_datasets)|
-|**2024-06-17**|**Contextual Knowledge Graph**|Chengjin Xu et.al.|[2406.11160v2](http://arxiv.org/abs/2406.11160v2)|null|
+|**2024-06-17**|**Context Graph**|Chengjin Xu et.al.|[2406.11160v3](http://arxiv.org/abs/2406.11160v3)|null|
 |**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v2](http://arxiv.org/abs/2406.11131v2)|[link](https://github.com/ysunbp/taxoglimpse)|
 |**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
@@ -66,7 +66,7 @@
 |**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v1](http://arxiv.org/abs/2406.09953v1)|null|
 |**2024-06-14**|**TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**|Zhuofeng Li et.al.|[2406.10310v1](http://arxiv.org/abs/2406.10310v1)|null|
 |**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
-|**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v1](http://arxiv.org/abs/2406.09606v1)|null|
+|**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v2](http://arxiv.org/abs/2406.09606v2)|null|
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
 |**2024-06-13**|**SememeLM: A Sememe Knowledge Enhanced Method for Long-tail Relation Representation**|Shuyi Li et.al.|[2406.10297v1](http://arxiv.org/abs/2406.10297v1)|null|
@@ -83,7 +83,7 @@
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113v2](http://arxiv.org/abs/2406.07113v2)|null|
 |**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|[link](https://github.com/UKPLab/acl2024-DARA)|
 |**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034v1](http://arxiv.org/abs/2406.07034v1)|[link](https://github.com/kjh9503/caqr)|
-|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v2](http://arxiv.org/abs/2406.06777v2)|null|
+|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v3](http://arxiv.org/abs/2406.06777v3)|null|
 |**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032v1](http://arxiv.org/abs/2406.06032v1)|null|
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
@@ -1333,31 +1333,30 @@ generated LRL RE datasets.
 
 摘要：關係抽取 (RE) 是一種將非結構化文字轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。其重要性在於它在各種下游任務中扮演著不可或缺的角色。除了基於神經網路和預訓練語言模型的傳統 RE 方法之外，大型語言模型 (LLM) 也被用於 RE 的研究領域。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統的 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。有鑑於此，本文在三個地區（中亞、東南亞和中東）的 10 種 LRL 中建構了低資源關係抽取資料集。這些語料庫是透過使用一種有效的多語言機器翻譯來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
 
-##### **Contextual Knowledge Graph**
-2406.11160v2 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
+##### **Context Graph**
+2406.11160v3 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
 
 Knowledge Graphs (KGs) are foundational structures in many AI applications,
 representing entities and their interrelations through triples. However,
 triple-based KGs lack the contextual information of relational knowledge, like
 temporal dynamics and provenance details, which are crucial for comprehensive
-knowledge representation and effective reasoning. Instead, \textbf{Contextual
-Knowledge Graphs} (CKGs) expand upon the conventional structure by
-incorporating additional information such as time validity, geographic
-location, and source provenance. This integration provides a more nuanced and
-accurate understanding of knowledge, enabling KGs to offer richer insights and
-support more sophisticated reasoning processes. In this work, we first discuss
-the inherent limitations of triple-based KGs and introduce the concept of
-contextual KGs, highlighting their advantages in knowledge representation and
-reasoning. We then present \textbf{KGR$^3$, a context-enriched KG reasoning
-paradigm} that leverages large language models (LLMs) to retrieve candidate
-entities and related contexts, rank them based on the retrieved information,
-and reason whether sufficient information has been obtained to answer a query.
-Our experimental results demonstrate that KGR$^3$ significantly improves
-performance on KG completion (KGC) and KG question answering (KGQA) tasks,
-validating the effectiveness of incorporating contextual information on KG
-representation and reasoning.
+knowledge representation and effective reasoning. Instead, \textbf{Context
+Graphs} (CGs) expand upon the conventional structure by incorporating
+additional information such as time validity, geographic location, and source
+provenance. This integration provides a more nuanced and accurate understanding
+of knowledge, enabling KGs to offer richer insights and support more
+sophisticated reasoning processes. In this work, we first discuss the inherent
+limitations of triple-based KGs and introduce the concept of CGs, highlighting
+their advantages in knowledge representation and reasoning. We then present a
+context graph reasoning \textbf{CGR$^3$} paradigm that leverages large language
+models (LLMs) to retrieve candidate entities and related contexts, rank them
+based on the retrieved information, and reason whether sufficient information
+has been obtained to answer a query. Our experimental results demonstrate that
+CGR$^3$ significantly improves performance on KG completion (KGC) and KG
+question answering (KGQA) tasks, validating the effectiveness of incorporating
+contextual information on KG representation and reasoning.
 
-摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的背景資訊，例如時間動態和來源細節，這些資訊對於全面的知識表徵和有效的推理至關重要。相反地，**背景知識圖譜** (CKG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統的結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能提供更豐富的見解並支援更精密的推理過程。在這項工作中，我們首先討論基於三元組的 KG 的內在限制，並介紹背景 KG 的概念，強調它們在知識表徵和推理方面的優勢。然後，我們提出**KGR$^3$，一種背景豐富的 KG 推理範例**，它利用大型語言模型 (LLM) 來擷取候選實體和相關背景，根據擷取的資訊對它們進行排名，並推論是否已獲得足夠的資訊來回答查詢。我們的實驗結果證明，KGR$^3$ 大幅提升了 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務的效能，驗證了在 KG 表徵和推理中納入背景資訊的有效性。
+摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組來表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的脈絡資訊，例如時間動態和來源細節，這些資訊對於全面的知識表示和有效推理至關重要。取而代之的是，**脈絡圖譜** (CG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能夠提供更豐富的見解，並支援更精密的推理過程。在這項工作中，我們首先討論了基於三元組的 KG 的內在限制，並介紹 CG 的概念，強調它們在知識表示和推理方面的優勢。接下來，我們提出一個脈絡圖譜推理**CGR$^3$**範例，它利用大型語言模型 (LLM) 來擷取候選實體和相關脈絡，根據擷取的資訊對它們進行排序，並推論是否已取得足夠的資訊來回答查詢。我們的實驗結果證明，CGR$^3$ 在 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務上顯著提升了效能，驗證了在 KG 表示和推理中納入脈絡資訊的有效性。
 
 ##### **Are Large Language Models a Good Replacement of Taxonomies?**
 2406.11131v2 by Yushi Sun, Hao Xin, Kai Sun, Yifan Ethan Xu, Xiao Yang, Xin Luna Dong, Nan Tang, Lei Chen
@@ -1645,7 +1644,7 @@ explainable CMs are beneficial and promising for molecular science research.
 摘要：人工智慧（AI）正在顯著地轉變科學研究。可解釋的 AI 方法，例如基於概念的模型（CM），對於推動新的科學發現很有希望，因為它們根據有意義的概念進行預測，並提供對預測過程的見解。然而，在分子科學中，可解釋的 CM 並不像圖神經網路（GNN）這樣的黑箱模型那麼常見，這主要是由於它們需要預定義的概念和每個實例的手動標籤，這需要領域知識並且可能需要大量人工。本文介紹了一個用於自動分子概念（AutoMolCo）生成和標籤的全新框架。AutoMolCo 利用大語言模型（LLM）中的知識自動生成預測分子概念並為每個分子標記它們。此類程序通過與 LLM 的反覆交互來重複，以優化概念，使基於優化概念的簡單線性模型在幾個基準上優於 GNN 和 LLM 的上下文學習。整個 AutoMolCo 框架是自動化的，在概念生成、標記或優化中都沒有任何人工知識輸入，從而超越了現有 CM 的限制，同時保持了它們的可解釋性並允許輕鬆干預。通過對 MoleculeNet 和高通量實驗（HTE）數據集進行系統的實驗，我們證明了 AutoMolCo 誘導的可解釋 CM 對分子科學研究是有益且有希望的。
 
 ##### **Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**
-2406.09606v1 by Zongyue Qin, Yunsheng Bai, Atefeh Sograbizadeh, Zijian Ding, Ziniu Hu, Yizhou Sun, Jason Cong
+2406.09606v2 by Zongyue Qin, Yunsheng Bai, Atefeh Sohrabizadeh, Zijian Ding, Ziniu Hu, Yizhou Sun, Jason Cong
 
 In recent years, domain-specific accelerators (DSAs) have gained popularity
 for applications such as deep learning and autonomous driving. To facilitate
@@ -1670,7 +1669,7 @@ average of $1.10\times$ and $1.26\times$ (up to $8.17\times$ and $13.31\times$)
 performance improvement in design space exploration (DSE) task compared to HARP
 and AutoDSE, respectively.
 
-摘要：<paragraph>近年來，特定領域加速器（DSA）在深度學習和自動駕駛等應用中越來越受歡迎。為了促進 DSA 設計，程式設計人員使用高階綜合（HLS）將以 C/C++ 編寫的高階描述編譯成低階硬體描述語言的設計，最終在電路中合成 DSA。然而，要建立高品質的 HLS 設計，仍然需要大量的領域知識，特別是在表示為「指令」的微架構決策中。因此，很希望藉助機器學習自動化這些決策，以預測 HLS 設計的品質，這需要更深入地了解包含原始程式碼和指令的程式。自然地，這些程式可以視為序列資料。此外，這些程式可以編譯並轉換成控制資料流程圖（CDFG）。但現有的作品不是無法同時利用這兩種方式，就是以淺層或粗略的方式將它們結合在一起。我們提出 ProgSG，這是一個允許以深入且細緻的方式在原始碼序列方式和圖形方式之間進行互動的模型。為了緩解標記設計的稀缺性，提出了一種基於編譯器資料流分析任務套件的預訓練方法。實驗結果顯示，ProgSG 將設計效能預測的 RMSE 降低了多達 22%，並識別出設計在設計空間探索（DSE）任務中平均效能提升 1.10 倍和 1.26 倍（最高 8.17 倍和 13.31 倍），分別與 HARP 和 AutoDSE 相比。</paragraph>
+摘要：<paragraph>近年来，特定领域加速器 (DSA) 在深度学习和自动驾驶等应用中获得了广泛应用。为了促进 DSA 设计，程序员使用高级综合 (HLS) 将用 C/C++ 编写的较高层次描述编译成采用低层次硬件描述语言的设计，最终在电路中综合 DSA。然而，创建高质量 HLS 设计仍然需要大量的领域知识，尤其是以“编译器指示”形式表达的微架构决策。因此，期望借助机器学习自动化此类决策，以预测 HLS 设计的质量，需要更深入地理解由原始代码和编译器指示组成的程序。自然而然地，这些程序可以被视为序列数据。此外，这些程序可以被编译并转换为控制数据流图 (CDFG)。但现有工作要么无法利用这两种方式，要么以浅显或粗略的方式将两者结合起来。我们提出了 ProgSG，这是一个允许以深入且细粒度的形式在源代码序列方式和图方式之间进行交互的模型。为了缓解标记设计稀缺的问题，提出了一种基于编译器数据流分析任务套件的预训练方法。实验结果表明，ProgSG 将设计性能预测的 RMSE 降低了高达 22%，并且在设计空间探索 (DSE) 任务中，与 HARP 和 AutoDSE 相比，分别以平均 1.10 倍和 1.26 倍（高达 8.17 倍和 13.31 倍）的性能改进识别设计。</paragraph>
 
 ##### **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**
 2406.09403v1 by Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna
@@ -2083,7 +2082,7 @@ https://github.com/kjh9503/caqr.
 摘要：多跳邏輯推理是自然語言處理中的關鍵任務，許多方法旨在回答一階邏輯 (FOL) 查詢。最近的幾何形狀（例如，盒子、圓錐）和機率（例如，貝塔分佈）方法有效地解決了複雜的 FOL 查詢。然而，這些方法的共同挑戰在於，為這些查詢確定準確的幾何界限或機率參數。挑戰出現的原因在於，現有方法依賴於其運算圖形中的線性順序運算，忽略了查詢的邏輯結構以及可以從查詢關係中收集到的關係誘導資訊，我們稱之為查詢的背景。為了解決這個問題，我們提出了一種與模型無關的方法，透過完全整合 FOL 查詢圖形的背景，來提升現有多跳邏輯推理方法的效能。我們的做法獨特地辨別了 (1) 查詢結構固有的結構背景，以及 (2) 查詢圖形中每個節點獨有的關係誘導背景，如對應的知識圖形中所描繪的。這種雙重背景範例有助於查詢圖形中的節點在多跳推理步驟中獲得精緻的內部表示。透過在兩個資料集上進行實驗，我們的模型持續增強三種多跳推理基礎模型，效能提升最高達 19.5%。我們的程式碼可在 https://github.com/kjh9503/caqr 取得。
 
 ##### **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-2406.06777v2 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
+2406.06777v3 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
 
 Recently, Large Language Models (LLMs) with their strong task-handling
 capabilities have shown remarkable advancements across a spectrum of fields,
@@ -2106,7 +2105,7 @@ trainable parameters while outperforming baselines on various downstream
 molecule-related tasks ranging from molecule-to-text translation to
 retrosynthesis, with and without fine-tuning the LLM.
 
-摘要：<paragraph>最近，具有强大任务处理能力的大型语言模型 (LLM) 在各个领域都取得了显着进步，超越了自然语言理解。然而，它们在化学领域的熟练程度仍然受到限制，尤其是在解决专业的分子相关任务方面。这一挑战归因于它们在仅使用常见文本表示（即 SMILES 字符串）理解分子方面的固有局限性。在这项研究中，我们寻求通过设计和为其配备一个多模态外部模块（即 MolX）来增强 LLM 理解分子的能力。特别是，我们利用特定编码器从 SMILES 字符串和 2D 分子图表示中提取细粒度特征以输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，还纳入了人类定义的分子指纹以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立一个对齐，整个模型（其中 LLM 被冻结）使用包括各种任务在内的一个通用策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在各种下游分子相关任务（包括分子到文本翻译到逆合成）中优于基线，无论是否对 LLM 进行微调。</paragraph>
+摘要：近期，大型语言模型 (LLM) 凭借其强大的任务处理能力，在超越自然语言理解的各个领域中展现出显著的进步。然而，它们在化学领域的熟练度仍然受到限制，尤其是在解决专业分子相关任务方面。这一挑战归因于它们固有的局限性，即仅使用常见的文本表示（即 SMILES 字符串）来理解分子。在本研究中，我们旨在通过设计和为 LLM 配备多模态外部模块（即 MolX）来增强其理解分子的能力。具体来说，我们利用特定编码器从 SMILES 字符串和二维分子图表示中提取细粒度特征，用于输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，我们还纳入了人类定义的分子指纹，以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立对齐，整个模型（其中 LLM 被冻结）使用包括各种任务的多功能策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在从分子到文本翻译到逆合成等各种下游分子相关任务上优于基线，无论是否对 LLM 进行微调。
 
 ##### **The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**
 2406.06032v1 by Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui

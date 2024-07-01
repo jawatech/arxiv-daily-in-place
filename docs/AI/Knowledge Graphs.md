@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967v1](http://arxiv.org/abs/2406.19967v1)|null|
+|**2024-06-27**|**Investigating How Large Language Models Leverage Internal Knowledge to Perform Complex Reasoning**|Miyoung Ko et.al.|[2406.19502v1](http://arxiv.org/abs/2406.19502v1)|[link](https://github.com/kaistai/knowledge-reasoning)|
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
 |**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916v1](http://arxiv.org/abs/2406.18916v1)|null|
 |**2024-06-26**|**Fast Optimizer Benchmark**|Simon Blauth et.al.|[2406.18701v1](http://arxiv.org/abs/2406.18701v1)|[link](https://github.com/automl/fob)|
@@ -100,10 +102,58 @@
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953v1](http://arxiv.org/abs/2406.03953v1)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v1](http://arxiv.org/abs/2406.03855v1)|null|
 |**2024-06-06**|**Are Large Language Models the New Interface for Data Pipelines?**|Sylvio Barbon Junior et.al.|[2406.06596v1](http://arxiv.org/abs/2406.06596v1)|null|
-|**2024-06-06**|**Efficient Knowledge Infusion via KG-LLM Alignment**|Zhouyu Jiang et.al.|[2406.03746v1](http://arxiv.org/abs/2406.03746v1)|null|
-|**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730v1](http://arxiv.org/abs/2406.03730v1)|null|
 
 #### Abstracts
+##### **Into the Unknown: Generating Geospatial Descriptions for New Environments**
+2406.19967v1 by Tzuf Paz-Argaman, John Palowitch, Sayali Kulkarni, Reut Tsarfaty, Jason Baldridge
+
+Similar to vision-and-language navigation (VLN) tasks that focus on bridging
+the gap between vision and language for embodied navigation, the new Rendezvous
+(RVS) task requires reasoning over allocentric spatial relationships
+(independent of the observer's viewpoint) using non-sequential navigation
+instructions and maps. However, performance substantially drops in new
+environments with no training data. Using opensource descriptions paired with
+coordinates (e.g., Wikipedia) provides training data but suffers from limited
+spatially-oriented text resulting in low geolocation resolution. We propose a
+large-scale augmentation method for generating high-quality synthetic data for
+new environments using readily available geospatial data. Our method constructs
+a grounded knowledge-graph, capturing entity relationships. Sampled entities
+and relations (`shop north of school') generate navigation instructions via (i)
+generating numerous templates using context-free grammar (CFG) to embed
+specific entities and relations; (ii) feeding the entities and relation into a
+large language model (LLM) for instruction generation. A comprehensive
+evaluation on RVS, showed that our approach improves the 100-meter accuracy by
+45.83% on unseen environments. Furthermore, we demonstrate that models trained
+with CFG-based augmentation achieve superior performance compared with those
+trained with LLM-based augmentation, both in unseen and seen environments.
+These findings suggest that the potential advantages of explicitly structuring
+spatial information for text-based geospatial reasoning in previously unknown,
+can unlock data-scarce scenarios.
+
+摘要：類似於專注於彌合具體導航中視覺與語言差距的視覺語言導航 (VLN) 任務，新的會面 (RVS) 任務需要使用非順序導航指令和地圖推理異中心空間關係（與觀察者的觀點無關）。然而，在沒有訓練資料的新環境中，效能會大幅下降。使用與座標配對的開源說明（例如，維基百科）提供了訓練資料，但由於空間導向文字有限，導致地理位置解析度低。我們提出了一種大規模擴充方法，使用現成的地理空間資料為新環境產生高品質的合成資料。我們的建構方法建立了一個基礎知識圖，擷取實體關係。取樣的實體和關係（「商店在學校北邊」）透過以下方式產生導航指令：(i) 使用無關乎語境的文法 (CFG) 產生許多範本來嵌入特定實體和關係；(ii) 將實體和關係輸入大型語言模型 (LLM) 以產生指令。在 RVS 上的全面評估顯示，我們的做法將未見過環境中的 100 公尺準確度提升了 45.83%。此外，我們證明使用基於 CFG 的擴充所訓練的模型，在未見過和見過環境中，都比使用基於 LLM 的擴充所訓練的模型獲得了更好的效能。這些發現表明，在以前未知的環境中，明確建構用於基於文字的地理空間推理的空間資訊的潛在優勢，可以解鎖資料稀少的場景。
+
+##### **Investigating How Large Language Models Leverage Internal Knowledge to Perform Complex Reasoning**
+2406.19502v1 by Miyoung Ko, Sue Hyun Park, Joonsuk Park, Minjoon Seo
+
+Despite significant advancements, there is a limited understanding of how
+large language models (LLMs) utilize knowledge for reasoning. To address this,
+we propose a method that deconstructs complex real-world questions into a
+graph, representing each question as a node with parent nodes of background
+knowledge needed to solve the question. We develop the DepthQA dataset,
+deconstructing questions into three depths: (i) recalling conceptual knowledge,
+(ii) applying procedural knowledge, and (iii) analyzing strategic knowledge.
+Based on a hierarchical graph, we quantify forward discrepancy, discrepancies
+in LLMs' performance on simpler sub-problems versus complex questions. We also
+measure backward discrepancy, where LLMs answer complex questions but struggle
+with simpler ones. Our analysis shows that smaller models have more
+discrepancies than larger models. Additionally, guiding models from simpler to
+complex questions through multi-turn interactions improves performance across
+model sizes, highlighting the importance of structured intermediate steps in
+knowledge reasoning. This work enhances our understanding of LLM reasoning and
+suggests ways to improve their problem-solving abilities.
+
+摘要：儘管有顯著的進展，但對於大型語言模型 (LLM) 如何利用知識進行推理的理解仍然有限。為了解決這個問題，我們提出了一種方法，將複雜的真實世界問題解構成一個圖形，將每個問題表示為一個節點，其中包含解決問題所需的背景知識的父節點。我們開發了 DepthQA 資料集，將問題解構成三個深度：(i) 回憶概念知識，(ii) 應用程序知識，以及 (iii) 分析策略知識。基於一個階層圖形，我們量化了正向差異，LLM 在較簡單的子問題和複雜問題上的效能差異。我們也測量了反向差異，其中 LLM 能回答複雜問題，但在較簡單的問題上卻有困難。我們的分析顯示，較小的模型比較大的模型有更多的差異。此外，透過多回合互動引導模型從較簡單到複雜的問題，可以改善所有模型規模的效能，突顯了結構化中間步驟在知識推理中的重要性。這項工作增進了我們對 LLM 推理的理解，並提出了改善其問題解決能力的方法。
+
 ##### **Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**
 2406.19255v1 by Hao Fei, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua, Shuicheng Yan
 
@@ -2481,48 +2531,4 @@ pipelines across a wide range of applications and domains integrating humans,
 computers, and knowledge.
 
 摘要：語言模型是一個術語，涵蓋各種旨在理解和產生人類溝通的模型。大型語言模型 (LLM) 因其以類似人類的流利度和連貫性處理文字的能力而備受關注，這使得它們對於廣泛的資料相關任務（以管道形式設計）極具價值。LLM 在自然語言理解和生成方面的能力，加上其可擴充性、多功能性和最先進的效能，可以在各種與 AI 相關的領域中啟用創新應用，包括可解釋人工智慧 (XAI)、自動機器學習 (AutoML) 和知識圖譜 (KG)。此外，我們相信這些模型可以提取有價值的見解，並大規模做出資料驅動的決策，這種做法通常稱為大數據分析 (BDA)。在本文中，我們提供了一些關於解鎖這些技術之間的協同作用的討論，這可以導致更強大且更智慧的 AI 解決方案，推動各種應用和領域的資料管道改進，整合人類、電腦和知識。
-
-##### **Efficient Knowledge Infusion via KG-LLM Alignment**
-2406.03746v1 by Zhouyu Jiang, Ling Zhong, Mengshu Sun, Jun Xu, Rui Sun, Hui Cai, Shuhan Luo, Zhiqiang Zhang
-
-To tackle the problem of domain-specific knowledge scarcity within large
-language models (LLMs), knowledge graph-retrievalaugmented method has been
-proven to be an effective and efficient technique for knowledge infusion.
-However, existing approaches face two primary challenges: knowledge mismatch
-between public available knowledge graphs and the specific domain of the task
-at hand, and poor information compliance of LLMs with knowledge graphs. In this
-paper, we leverage a small set of labeled samples and a large-scale corpus to
-efficiently construct domain-specific knowledge graphs by an LLM, addressing
-the issue of knowledge mismatch. Additionally, we propose a three-stage KG-LLM
-alignment strategyto enhance the LLM's capability to utilize information from
-knowledge graphs. We conduct experiments with a limited-sample setting on two
-biomedical question-answering datasets, and the results demonstrate that our
-approach outperforms existing baselines.
-
-摘要：針對大型語言模型 (LLM) 中特定領域知識稀缺的問題，知識圖譜擷取增強方法已被證明是一種有效且高效的知識注入技術。然而，現有方法面臨兩個主要挑戰：公開可用的知識圖譜與任務特定領域之間的知識不匹配，以及 LLM 與知識圖譜的資訊相容性不佳。在本文中，我們利用一組標記樣本和一個大規模語料庫，由 LLM 有效地建構特定領域的知識圖譜，解決知識不匹配的問題。此外，我們提出一個三階段的 KG-LLM 對齊策略，以增強 LLM 利用知識圖譜中資訊的能力。我們在兩個生物醫學問答資料集上進行有限樣本設定的實驗，結果表明我們的做法優於現有的基線。
-
-##### **FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**
-2406.03730v1 by Zihan Chen, Song Wang, Cong Shen, Jundong Li
-
-In-context learning (ICL) empowers large language models (LLMs) to tackle new
-tasks by using a series of training instances as prompts. Since generating the
-prompts needs to sample from a vast pool of instances and annotate them (e.g.,
-add labels in classification task), existing methods have proposed to select a
-subset of unlabeled examples for annotation, thus enhancing the quality of
-prompts and concurrently mitigating annotation costs. However, these methods
-often require a long time to select instances due to their complexity,
-hindering their practical viability. To address this limitation, we propose a
-graph-based selection method, FastGAS, designed to efficiently identify
-high-quality instances while minimizing computational overhead. Initially, we
-construct a data similarity graph based on instance similarities. Subsequently,
-employing a graph partitioning algorithm, we partition the graph into pieces.
-Within each piece (i.e., subgraph), we adopt a greedy approach to pick the most
-representative nodes. By aggregating nodes from diverse pieces and annotating
-the corresponding instances, we identify a set of diverse and representative
-instances for ICL. Compared to prior approaches, our method not only exhibits
-superior performance on different tasks but also significantly reduces
-selection time. In addition, we demonstrate the efficacy of our approach in
-LLMs of larger sizes.
-
-摘要：情境學習 (ICL) 賦能大型語言模型 (LLM) 使用一系列訓練實例作為提示來處理新任務。由於產生提示需要從大量的實例中抽樣並註解它們（例如，在分類任務中新增標籤），現有方法已提出選擇一個未標記範例的子集進行註解，從而提升提示的品質並同時降低註解成本。然而，這些方法由於其複雜性，通常需要很長的時間來選擇實例，阻礙了它們的實用性。為了解決這個限制，我們提出一個基於圖形的選擇方法 FastGAS，旨在有效地識別高品質實例，同時將運算開銷降到最低。最初，我們根據實例相似性建構一個資料相似性圖形。接著，採用圖形分割演算法，將圖形分割成多個部分。在每個部分（即子圖）中，我們採用貪婪法來挑選最具代表性的節點。透過彙總來自不同部分的節點並註解對應的實例，我們識別出一組多元且具代表性的實例，用於 ICL。與先前的做法相比，我們的做法不僅在不同的任務上展現出優異的效能，而且還大幅減少了選擇時間。此外，我們展示了我們的做法在更大規模的 LLM 中的效能。
 

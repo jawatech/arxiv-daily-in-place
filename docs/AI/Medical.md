@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041v1](http://arxiv.org/abs/2406.20041v1)|null|
+|**2024-06-28**|**Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**|Haojun Jiang et.al.|[2406.19756v1](http://arxiv.org/abs/2406.19756v1)|null|
+|**2024-06-28**|**ACES: Automatic Cohort Extraction System for Event-Stream Datasets**|Justin Xu et.al.|[2406.19653v1](http://arxiv.org/abs/2406.19653v1)|[link](https://github.com/justin13601/aces)|
+|**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
+|**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578v1](http://arxiv.org/abs/2406.19578v1)|null|
 |**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
 |**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050v1](http://arxiv.org/abs/2406.19050v1)|null|
@@ -97,13 +102,136 @@
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
 |**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|[link](https://github.com/mhxu1998/flexcare)|
 |**2024-06-17**|**Formally Certified Approximate Model Counting**|Yong Kiam Tan et.al.|[2406.11414v2](http://arxiv.org/abs/2406.11414v2)|null|
-|**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260v1](http://arxiv.org/abs/2406.11260v1)|null|
-|**2024-06-17**|**Scorecards for Synthetic Medical Data Evaluation and Reporting**|Ghada Zamzmi et.al.|[2406.11143v1](http://arxiv.org/abs/2406.11143v1)|null|
-|**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138v1](http://arxiv.org/abs/2406.11138v1)|null|
-|**2024-06-17**|**Towards Understanding Emotions for Engaged Mental Health Conversations**|Kellie Yu Hui Sim et.al.|[2406.11135v1](http://arxiv.org/abs/2406.11135v1)|null|
-|**2024-06-16**|**Boosting Medical Image Classification with Segmentation Foundation Model**|Pengfei Gu et.al.|[2406.11026v1](http://arxiv.org/abs/2406.11026v1)|null|
 
 #### Abstracts
+##### **BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**
+2406.20041v1 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+
+Autonomous agents driven by Large Language Models (LLMs) offer enormous
+potential for automation. Early proof of this technology can be found in
+various demonstrations of agents solving complex tasks, interacting with
+external systems to augment their knowledge, and triggering actions. In
+particular, workflows involving multiple agents solving complex tasks in a
+collaborative fashion exemplify their capacity to operate in less strict and
+less well-defined environments. Thus, a multi-agent approach has great
+potential for serving as a backbone in many industrial applications, ranging
+from complex knowledge retrieval systems to next generation robotic process
+automation. Given the reasoning abilities within the current generation of
+LLMs, complex processes require a multi-step approach that includes a plan of
+well-defined and modular tasks. Depending on the level of complexity, these
+tasks can be executed either by a single agent or a group of agents. In this
+work, we focus on designing a flexible agent engineering framework with careful
+attention to planning and execution, capable of handling complex use case
+applications across various domains. The proposed framework provides
+reliability in industrial applications and presents techniques to ensure a
+scalable, flexible, and collaborative workflow for multiple autonomous agents
+working together towards solving tasks.
+
+摘要：由大型語言模型 (LLM) 驅動的自主代理提供巨大的自動化潛力。此技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識，以及觸發動作的各種演示中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程，證明了它們在不太嚴格且定義較不完善的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多產業應用中的骨幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個由定義明確且模組化的任務組成的計畫。根據複雜程度，這些任務可以由單一代理或一群代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意規劃和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在產業應用中提供可靠性，並提出技術以確保多個自主代理一起工作以解決任務的可擴充性、靈活性，以及協作工作流程。
+
+##### **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**
+2406.19756v1 by Haojun Jiang, Meng Li, Zhenguo Sun, Ning Jia, Yu Sun, Shaqi Luo, Shiji Song, Gao Huang
+
+The complex structure of the heart leads to significant challenges in
+echocardiography, especially in acquisition cardiac ultrasound images.
+Successful echocardiography requires a thorough understanding of the structures
+on the two-dimensional plane and the spatial relationships between planes in
+three-dimensional space. In this paper, we innovatively propose a large-scale
+self-supervised pre-training method to acquire a cardiac structure-aware world
+model. The core innovation lies in constructing a self-supervised task that
+requires structural inference by predicting masked structures on a 2D plane and
+imagining another plane based on pose transformation in 3D space. To support
+large-scale pre-training, we collected over 1.36 million echocardiograms from
+ten standard views, along with their 3D spatial poses. In the downstream probe
+guidance task, we demonstrate that our pre-trained model consistently reduces
+guidance errors across the ten most common standard views on the test set with
+0.29 million samples from 74 routine clinical scans, indicating that
+structure-aware pre-training benefits the scanning.
+
+摘要：心脏复杂的结构导致超音波心动图检查面临重大挑战，特别是在获取心脏超音波影像时。成功的超音波心动图检查需要透彻了解二维平面上的结构以及三维空间中各平面之间的空间关系。在本文中，我们创新性地提出了一种大规模自我监督预训练方法，以获取心脏结构感知的世界模型。核心创新在于构建一项自我监督任务，该任务需要通过预测 2D 平面上的遮罩结构并在 3D 空间中基于姿态转换想象另一个平面来进行结构推理。为了支持大规模预训练，我们从十个标准视图中收集了超过 136 万个超音波心动图，以及它们的 3D 空间姿态。在下游探头引导任务中，我们证明了我们的预训练模型在测试集上持续减少了十个最常见标准视图的引导误差，其中包含来自 74 个常规临床扫描的 0.29 百万个样本，表明感知结构的预训练有利于扫描。
+
+##### **ACES: Automatic Cohort Extraction System for Event-Stream Datasets**
+2406.19653v1 by Justin Xu, Jack Gallifant, Alistair E. W. Johnson, Matthew B. A. McDermott
+
+Reproducibility remains a significant challenge in machine learning (ML) for
+healthcare. In this field, datasets, model pipelines, and even task/cohort
+definitions are often private, leading to a significant barrier in sharing,
+iterating, and understanding ML results on electronic health record (EHR)
+datasets. In this paper, we address a significant part of this problem by
+introducing the Automatic Cohort Extraction System for Event-Stream Datasets
+(ACES). This tool is designed to simultaneously simplify the development of
+task/cohorts for ML in healthcare and enable the reproduction of these cohorts,
+both at an exact level for single datasets and at a conceptual level across
+datasets. To accomplish this, ACES provides (1) a highly intuitive and
+expressive configuration language for defining both dataset-specific concepts
+and dataset-agnostic inclusion/exclusion criteria, and (2) a pipeline to
+automatically extract patient records that meet these defined criteria from
+real-world data. ACES can be automatically applied to any dataset in either the
+Medical Event Data Standard (MEDS) or EventStreamGPT (ESGPT) formats, or to
+*any* dataset for which the necessary task-specific predicates can be extracted
+in an event-stream form. ACES has the potential to significantly lower the
+barrier to entry for defining ML tasks, redefine the way researchers interact
+with EHR datasets, and significantly improve the state of reproducibility for
+ML studies in this modality. ACES is available at
+https://github.com/justin13601/aces.
+
+摘要：機器學習 (ML) 在醫療保健領域中，可複製性仍然是一項重大挑戰。在這個領域中，資料集、模型管線，甚至任務/群組定義通常都是私有的，這導致在電子健康紀錄 (EHR) 資料集上分享、重複和理解 ML 結果時產生重大的障礙。在本文中，我們透過導入事件串流資料集的自動群組萃取系統 (ACES) 來解決這個問題的其中一個重要部分。此工具旨在同時簡化醫療保健中 ML 的任務/群組開發，並讓這些群組得以複製，無論是在單一資料集的精確層級，還是在跨資料集的概念層級上。為達成此目的，ACES 提供了 (1) 一種高度直覺且具表現力的組態語言，用於定義資料集特定的概念和與資料集無關的包含/排除標準，以及 (2) 一個管線，用於自動從真實世界資料中萃取符合這些定義標準的病患記錄。ACES 可以自動套用至醫療事件資料標準 (MEDS) 或 EventStreamGPT (ESGPT) 格式中的任何資料集，或套用至 *任何* 可以以事件串流形式萃取必要的特定任務謂詞的資料集。ACES 有可能大幅降低定義 ML 任務的進入門檻，重新定義研究人員與 EHR 資料集互動的方式，並顯著改善此方式中 ML 研究的可複製性。ACES 可在 https://github.com/justin13601/aces 取得。
+
+##### **Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**
+2406.19611v1 by Huajun Zhou, Fengtao Zhou, Chenyu Zhao, Yingxue Xu, Luyang Luo, Hao Chen
+
+The essence of precision oncology lies in its commitment to tailor targeted
+treatments and care measures to each patient based on the individual
+characteristics of the tumor. The inherent heterogeneity of tumors necessitates
+gathering information from diverse data sources to provide valuable insights
+from various perspectives, fostering a holistic comprehension of the tumor.
+Over the past decade, multimodal data integration technology for precision
+oncology has made significant strides, showcasing remarkable progress in
+understanding the intricate details within heterogeneous data modalities. These
+strides have exhibited tremendous potential for improving clinical
+decision-making and model interpretation, contributing to the advancement of
+cancer care and treatment. Given the rapid progress that has been achieved, we
+provide a comprehensive overview of about 300 papers detailing cutting-edge
+multimodal data integration techniques in precision oncology. In addition, we
+conclude the primary clinical applications that have reaped significant
+benefits, including early assessment, diagnosis, prognosis, and biomarker
+discovery. Finally, derived from the findings of this survey, we present an
+in-depth analysis that explores the pivotal challenges and reveals essential
+pathways for future research in the field of multimodal data integration for
+precision oncology.
+
+摘要：精準腫瘤學的精髓在於針對每位患者量身打造標靶治療和照護措施，而根據腫瘤的個別特徵。腫瘤的內在異質性需要從不同的資料來源蒐集資訊，以提供來自不同觀點的寶貴見解，促進對腫瘤的整體理解。在過去十年中，精準腫瘤學的多模式資料整合技術已取得顯著進展，在了解異質性資料模式中的複雜細節方面展現出顯著的進展。這些進展已展現出極大的潛力，可改善臨床決策制定和模型詮釋，有助於癌症照護和治療的進步。鑑於已取得的快速進展，我們提供了約 300 篇論文的全面概述，詳細說明精準腫瘤學中尖端的模態資料整合技術。此外，我們總結了已獲得顯著好處的主要臨床應用，包括早期評估、診斷、預後和生物標記發現。最後，根據這項調查結果，我們提出了一項深入分析，探討了關鍵挑戰，並揭示了精準腫瘤學中多模式資料整合領域未來研究的重要途徑。
+
+##### **PathAlign: A vision-language model for whole slide images in histopathology**
+2406.19578v1 by Faruk Ahmed, Andrew Sellergren, Lin Yang, Shawn Xu, Boris Babenko, Abbi Ward, Niels Olson, Arash Mohtashamian, Yossi Matias, Greg S. Corrado, Quang Duong, Dale R. Webster, Shravya Shetty, Daniel Golden, Yun Liu, David F. Steiner, Ellery Wulczyn
+
+Microscopic interpretation of histopathology images underlies many important
+diagnostic and treatment decisions. While advances in vision-language modeling
+raise new opportunities for analysis of such images, the gigapixel-scale size
+of whole slide images (WSIs) introduces unique challenges. Additionally,
+pathology reports simultaneously highlight key findings from small regions
+while also aggregating interpretation across multiple slides, often making it
+difficult to create robust image-text pairs. As such, pathology reports remain
+a largely untapped source of supervision in computational pathology, with most
+efforts relying on region-of-interest annotations or self-supervision at the
+patch-level. In this work, we develop a vision-language model based on the
+BLIP-2 framework using WSIs paired with curated text from pathology reports.
+This enables applications utilizing a shared image-text embedding space, such
+as text or image retrieval for finding cases of interest, as well as
+integration of the WSI encoder with a frozen large language model (LLM) for
+WSI-based generative text capabilities such as report generation or
+AI-in-the-loop interactions. We utilize a de-identified dataset of over 350,000
+WSIs and diagnostic text pairs, spanning a wide range of diagnoses, procedure
+types, and tissue types. We present pathologist evaluation of text generation
+and text retrieval using WSI embeddings, as well as results for WSI
+classification and workflow prioritization (slide-level triaging).
+Model-generated text for WSIs was rated by pathologists as accurate, without
+clinically significant error or omission, for 78% of WSIs on average. This work
+demonstrates exciting potential capabilities for language-aligned WSI
+embeddings.
+
+摘要：顯微組織病理學影像的微觀詮釋是許多重要的診斷和治療決策的基礎。雖然視覺語言模型的進展為此類影像的分析帶來了新的契機，但全切片影像 (WSI) 的千兆像素等級大小帶來了獨特的挑戰。此外，病理報告同時強調了小區域的關鍵發現，同時也彙總了多個切片的詮釋，這通常使得建立穩健的影像文字對變得困難。因此，病理報告仍然是計算病理學中一個很大程度上未開發的監督來源，大多數工作依賴於感興趣區域註解或在貼片的層級上進行自我監督。在這項工作中，我們基於 BLIP-2 框架開發了一個視覺語言模型，使用與來自病理報告的策展文字配對的 WSI。這使得應用程式能夠使用共享的影像文字嵌入空間，例如文字或影像檢索來尋找感興趣的案例，以及將 WSI 編碼器與凍結的大語言模型 (LLM) 整合，用於 WSI 基於生成文字的能力，例如報告產生或 AI 循環互動。我們利用了一個包含超過 350,000 個 WSI 和診斷文字對的去識別化資料集，涵蓋了廣泛的診斷、程序類型和組織類型。我們展示了病理學家對使用 WSI 嵌入的文字產生和文字檢索的評估，以及 WSI 分類和工作流程優先順序（切片級別分類）的結果。病理學家評估了 WSI 的模型產生的文字，平均而言，78% 的 WSI 準確無臨床顯著錯誤或遺漏。這項工作展示了語言對齊 WSI 嵌入的令人興奮的潛在能力。
+
 ##### **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**
 2406.19280v1 by Junying Chen, Ruyi Ouyang, Anningzhe Gao, Shunian Chen, Guiming Hardy Chen, Xidong Wang, Ruifei Zhang, Zhenyang Cai, Ke Ji, Guangjun Yu, Xiang Wan, Benyou Wang
 
@@ -2428,111 +2556,4 @@ certificates when given the same time and memory limits as the counter.
 
 摘要：近似模型计数是近似输入布林公式的解的数量的任务。针对合取范式 (CNF) 中的公式的最新近似模型计数器 ApproxMC，提供了一种可扩展的方法来获取具有近似正确 (PAC) 风格保证的模型计数。然而，ApproxMC 的近似的有效性依赖于对其随机算法的仔细理论分析以及其高度优化的实现的正确性，特别是后者与能够原生处理奇偶校验 (XOR) 约束的增量 CNF 可满足性求解器的有状态交互。
 我们提出了第一个近似模型计数认证框架，对输出近似的质量提供形式验证的保证。我们的方法结合了：(i) 算法的 PAC 保证在 Isabelle/HOL 证明助手中的静态、一次性、形式证明；以及 (ii) 使用证明证书对 ApproxMC 对外部 CNF-XOR 求解器的调用进行动态、每次运行验证。我们详细介绍了我们建立验证这两部分之间严格联系的一般方法，包括我们用于将形式化的随机算法转换为经过验证的证明检查器的蓝图，以及我们为 ApproxMC 及其内部 CNF-XOR 求解步骤设计的证明证书。在实验中，我们表明证书生成几乎不会给近似计数器实现增加开销，并且我们的证书检查器能够在与计数器相同的时间和内存限制下完全验证 84.7% 的具有生成证书的实例。
-
-##### **Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**
-2406.11260v1 by Sungwon Park, Sungwon Han, Meeyoung Cha
-
-The spread of fake news negatively impacts individuals and is regarded as a
-significant social challenge that needs to be addressed. A number of
-algorithmic and insightful features have been identified for detecting fake
-news. However, with the recent LLMs and their advanced generation capabilities,
-many of the detectable features (e.g., style-conversion attacks) can be
-altered, making it more challenging to distinguish from real news. This study
-proposes adversarial style augmentation, AdStyle, to train a fake news detector
-that remains robust against various style-conversion attacks. Our model's key
-mechanism is the careful use of LLMs to automatically generate a diverse yet
-coherent range of style-conversion attack prompts. This improves the generation
-of prompts that are particularly difficult for the detector to handle.
-Experiments show that our augmentation strategy improves robustness and
-detection performance when tested on fake news benchmark datasets.
-
-摘要：假新聞的散布對個人造成負面影響，並被視為需要解決的重大社會挑戰。已經找出許多演算法和有見地的功能來偵測假新聞。然而，隨著近期大型語言模型 (LLM) 及其先進的產生能力，許多可偵測的功能（例如風格轉換攻擊）都可能被改變，使得與真實新聞的區別更具挑戰性。本研究提出對抗式風格擴充，AdStyle，來訓練一個對各種風格轉換攻擊保持穩健的假新聞偵測器。我們模型的關鍵機制是小心地使用 LLM 自動產生多樣且連貫的風格轉換攻擊提示範圍。這改善了提示的產生，特別是對於偵測器難以處理的提示。實驗顯示，當在假新聞基準資料集上進行測試時，我們的擴充策略改善了穩健性和偵測效能。
-
-##### **Scorecards for Synthetic Medical Data Evaluation and Reporting**
-2406.11143v1 by Ghada Zamzmi, Adarsh Subbaswamy, Elena Sizikova, Edward Margerrison, Jana Delfino, Aldo Badano
-
-The growing utilization of synthetic medical data (SMD) in training and
-testing AI-driven tools in healthcare necessitates a systematic framework for
-assessing SMD quality. The current lack of a standardized methodology to
-evaluate SMD, particularly in terms of its applicability in various medical
-scenarios, is a significant hindrance to its broader acceptance and utilization
-in healthcare applications. Here, we outline an evaluation framework designed
-to meet the unique requirements of medical applications, and introduce the
-concept of SMD scorecards, which can serve as comprehensive reports that
-accompany artificially generated datasets. This can help standardize evaluation
-and enable SMD developers to assess and further enhance the quality of SMDs by
-identifying areas in need of attention and ensuring that the synthetic data
-more accurately approximate patient data.
-
-摘要：隨著合成醫療資料 (SMD) 在訓練和測試醫療保健中的人工智慧驅動工具的利用率日益提高，需要一個系統性的架構來評估 SMD 的品質。目前缺乏標準化的評估 SMD 的方法，特別是在其於各種醫療場景中的適用性方面，這嚴重阻礙了其在醫療保健應用中的更廣泛接受和利用。在此，我們概述了一個評估架構，旨在滿足醫療應用的獨特需求，並引入了 SMD 記分卡的概念，它可以作為人工生成資料集的綜合報告。這有助於標準化評估，並使 SMD 開發人員能夠評估和進一步提高 SMD 的品質，方法是找出需要關注的領域，並確保合成資料更準確地近似於患者資料。
-
-##### **Diffusion Models in Low-Level Vision: A Survey**
-2406.11138v1 by Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li
-
-Deep generative models have garnered significant attention in low-level
-vision tasks due to their generative capabilities. Among them, diffusion
-model-based solutions, characterized by a forward diffusion process and a
-reverse denoising process, have emerged as widely acclaimed for their ability
-to produce samples of superior quality and diversity. This ensures the
-generation of visually compelling results with intricate texture information.
-Despite their remarkable success, a noticeable gap exists in a comprehensive
-survey that amalgamates these pioneering diffusion model-based works and
-organizes the corresponding threads. This paper proposes the comprehensive
-review of diffusion model-based techniques. We present three generic diffusion
-modeling frameworks and explore their correlations with other deep generative
-models, establishing the theoretical foundation. Following this, we introduce a
-multi-perspective categorization of diffusion models, considering both the
-underlying framework and the target task. Additionally, we summarize extended
-diffusion models applied in other tasks, including medical, remote sensing, and
-video scenarios. Moreover, we provide an overview of commonly used benchmarks
-and evaluation metrics. We conduct a thorough evaluation, encompassing both
-performance and efficiency, of diffusion model-based techniques in three
-prominent tasks. Finally, we elucidate the limitations of current diffusion
-models and propose seven intriguing directions for future research. This
-comprehensive examination aims to facilitate a profound understanding of the
-landscape surrounding denoising diffusion models in the context of low-level
-vision tasks. A curated list of diffusion model-based techniques in over 20
-low-level vision tasks can be found at
-https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision.
-
-摘要：深度生成模型在低层次视觉任务中获得了显著的关注，因为它们具有生成能力。其中，以正向扩散过程和反向去噪过程为特征的基于扩散模型的解决方案，因其生成更高质量和多样性样本的能力而备受赞誉。这确保了生成视觉上引人注目的结果，并具有复杂纹理信息。尽管取得了显著的成功，但在将这些开创性的基于扩散模型的工作汇集起来并组织相应的线程的综合调查中，仍然存在明显的差距。本文提出了基于扩散模型的技术的全面综述。我们提出了三个通用的扩散建模框架，并探讨了它们与其他深度生成模型的相关性，建立了理论基础。在此基础上，我们介绍了扩散模型的多视角分类，同时考虑了底层框架和目标任务。此外，我们总结了应用于其他任务的扩展扩散模型，包括医学、遥感和视频场景。此外，我们概述了常用的基准和评估指标。我们对基于扩散模型的技术在三个突出的任务中的性能和效率进行了彻底的评估。最后，我们阐明了当前扩散模型的局限性，并提出了七个未来研究的有趣方向。这次全面检查旨在促进对低层次视觉任务背景下去噪扩散模型周围环境的深入理解。可以在 https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision 找到超过 20 个低层次视觉任务中基于扩散模型的技术的精选列表。
-
-##### **Towards Understanding Emotions for Engaged Mental Health Conversations**
-2406.11135v1 by Kellie Yu Hui Sim, Kohleen Tijing Fortuno, Kenny Tsu Wei Choo
-
-Providing timely support and intervention is crucial in mental health
-settings. As the need to engage youth comfortable with texting increases,
-mental health providers are exploring and adopting text-based media such as
-chatbots, community-based forums, online therapies with licensed professionals,
-and helplines operated by trained responders. To support these text-based media
-for mental health--particularly for crisis care--we are developing a system to
-perform passive emotion-sensing using a combination of keystroke dynamics and
-sentiment analysis. Our early studies of this system posit that the analysis of
-short text messages and keyboard typing patterns can provide emotion
-information that may be used to support both clients and responders. We use our
-preliminary findings to discuss the way forward for applying AI to support
-mental health providers in providing better care.
-
-摘要：在心理健康環境中提供及時的支援和介入至關重要。隨著與青少年互動時，使用文字訊息的需求增加，心理健康服務提供者正在探索和採用基於文字訊息的媒體，例如聊天機器人、社群論壇、由持照專業人員提供的線上療法，以及由受過訓練的回應者營運的求助專線。為了支援這些用於心理健康的基於文字訊息的媒體——特別是危機照護——我們正在開發一個系統，使用按鍵動力學和情緒分析的組合來執行被動情緒感測。我們對這個系統的早期研究假設，對簡短文字訊息和鍵盤輸入模式的分析可以提供情緒資訊，可用於支援個案和回應者。我們使用我們的初步發現來討論將 AI 應用於支援心理健康服務提供者提供更好照護的未來方向。
-
-##### **Boosting Medical Image Classification with Segmentation Foundation Model**
-2406.11026v1 by Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, Nishchal Sapkota, Chaoli Wang, Danny Z. Chen
-
-The Segment Anything Model (SAM) exhibits impressive capabilities in
-zero-shot segmentation for natural images. Recently, SAM has gained a great
-deal of attention for its applications in medical image segmentation. However,
-to our best knowledge, no studies have shown how to harness the power of SAM
-for medical image classification. To fill this gap and make SAM a true
-``foundation model'' for medical image analysis, it is highly desirable to
-customize SAM specifically for medical image classification. In this paper, we
-introduce SAMAug-C, an innovative augmentation method based on SAM for
-augmenting classification datasets by generating variants of the original
-images. The augmented datasets can be used to train a deep learning
-classification model, thereby boosting the classification performance.
-Furthermore, we propose a novel framework that simultaneously processes raw and
-SAMAug-C augmented image input, capitalizing on the complementary information
-that is offered by both. Experiments on three public datasets validate the
-effectiveness of our new approach.
-
-摘要：任何區段模型 (SAM) 在自然影像的零發射區段中展現令人印象深刻的能力。最近，SAM 因其在醫學影像區段中的應用而備受關注。然而，據我們所知，沒有研究顯示如何利用 SAM 的力量進行醫學影像分類。為了填補這個空白，並讓 SAM 成為醫學影像分析的真正「基礎模型」，非常希望針對醫學影像分類客製化 SAM。在本文中，我們介紹 SAMAug-C，一種創新的擴充方法，基於 SAM，透過產生原始影像的變體來擴充分類資料集。擴充的資料集可用於訓練深度學習分類模型，從而提升分類效能。此外，我們提出一個新穎的架構，同時處理原始和 SAMAug-C 擴充影像輸入，利用兩者提供的互補資訊。在三個公開資料集上的實驗驗證了我們新方法的有效性。
 

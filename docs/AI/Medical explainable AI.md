@@ -53,7 +53,7 @@
 |**2023-11-21**|**Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**|Robert Gorwa et.al.|[2311.12573v2](http://arxiv.org/abs/2311.12573v2)|null|
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932v1](http://arxiv.org/abs/2311.11932v1)|null|
 |**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
-|**2023-11-03**|**Towards objective and systematic evaluation of bias in medical imaging AI**|Emma A. M. Stanley et.al.|[2311.02115v1](http://arxiv.org/abs/2311.02115v1)|[link](https://github.com/estanley16/simba)|
+|**2023-11-03**|**Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**|Emma A. M. Stanley et.al.|[2311.02115v2](http://arxiv.org/abs/2311.02115v2)|[link](https://github.com/estanley16/simba)|
 |**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|null|
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v2](http://arxiv.org/abs/2310.01828v2)|[link](https://github.com/geoaigroup/geoai-ecrs2023)|
 |**2023-09-26**|**Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**|Muhammad Aurangzeb Ahmad et.al.|[2311.01463v1](http://arxiv.org/abs/2311.01463v1)|null|
@@ -1382,8 +1382,8 @@ intuitive, language-based explanations of visual tasks.
 
 摘要：<paragraph>解釋性是深度學習中長期的挑戰，特別是在醫療保健等高風險領域。常見的解釋性方法會強調驅動 AI 模型決策的影像區域。然而，人類很大程度依賴語言來傳達不僅是「在哪裡」，還有「是什麼」的解釋。此外，大多數解釋性方法都專注於解釋個別 AI 預測，而不是描述 AI 模型一般使用的特徵。後者對於模型和資料集稽核特別有用，甚至可能在 AI 愈來愈用於新穎任務時產生知識。在此，我們提出一個使用視覺語言模型來辨識視覺分類任務的語言描述符的解釋性策略。透過利用影像和文字之間預先訓練的聯合嵌入空間，我們的做法將新的分類任務估計為一個線性文字組合，導致每個文字都有權重，表示它與基於視覺的分類器對齊。我們使用兩個醫學影像分類任務來評估我們的做法，我們發現產生的描述符在很大程度上與臨床知識一致，儘管缺乏特定領域的語言訓練。然而，我們的做法也發現了所用公開資料集中的「捷徑連線」的可能性。為了達到解釋性的功能性衡量，我們進行了一項試驗讀者研究，發現 AI 識別的文字能讓非專家人類在非平凡的層級執行專業的醫療任務。總之，我們的結果強調了使用多模式基礎模型來提供直觀的、基於語言的視覺任務解釋的潛力。</paragraph>
 
-##### **Towards objective and systematic evaluation of bias in medical imaging AI**
-2311.02115v1 by Emma A. M. Stanley, Raissa Souza, Anthony Winder, Vedant Gulve, Kimberly Amador, Matthias Wilms, Nils D. Forkert
+##### **Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**
+2311.02115v2 by Emma A. M. Stanley, Raissa Souza, Anthony Winder, Vedant Gulve, Kimberly Amador, Matthias Wilms, Nils D. Forkert
 
 Artificial intelligence (AI) models trained using medical images for clinical
 tasks often exhibit bias in the form of disparities in performance between
@@ -1410,7 +1410,7 @@ novel methodology to objectively study the impact of biases and mitigation
 strategies on deep learning pipelines, which can support the development of
 clinical AI that is robust and responsible.
 
-摘要：<paragraph>使用醫學影像訓練用於臨床任務的人工智慧 (AI) 模型，常會展現出效能差異的形式偏誤，這些差異存在於次群組之間。由於並非所有真實世界醫學影像資料中的偏誤來源都容易辨識，因此全面評估這些偏誤如何編碼在模型中，以及偏誤緩解方法在改善效能差異方面的能力是一項挑戰。在本文中，我們介紹一個新穎的分析架構，用於系統性且客觀地調查醫學影像中的偏誤對 AI 模型的影響。我們開發並測試了這個架構，用於執行受控的電腦模擬試驗，以評估醫學影像 AI 中的偏誤，並使用一個工具來產生已知疾病影響和偏誤來源的合成磁共振影像。可行性透過使用三個反事實偏誤情境來衡量模擬偏誤影響對卷積神經網路 (CNN) 分類器和三個偏誤緩解策略的效能。分析顯示，當 CNN 在合成資料集上訓練時，模擬偏誤會導致預期的次群組效能差異。此外，重新加權被視為此設定中最成功的偏誤緩解策略，我們展示了解釋性 AI 方法如何協助調查模型中偏誤的表現，方法是使用這個架構。開發公平的 AI 模型是一項重大的挑戰，因為在醫學影像資料集中有許多且通常未知的偏誤來源。在這項工作中，我們提出一個新穎的方法，用於客觀地研究偏誤和緩解策略對深度學習管線的影響，這可以支援健全且負責任的臨床 AI 的開發。</paragraph>
+摘要：<paragraph>使用醫療影像訓練的人工智慧 (AI) 模型，用於臨床任務時，常會在效能上展現出次群體之間的差異，形成偏見。由於並非所有真實世界醫療影像資料中的偏見來源都容易辨識，因此全面評估這些偏見是如何編碼到模型中，以及偏見緩解方法在改善效能差異方面的能力，是一項挑戰。在本文中，我們介紹了一個新穎的分析架構，用於系統化且客觀地調查醫療影像中的偏見對 AI 模型的影響。我們開發並測試了這個架構，以進行受控的電腦模擬試驗，使用一個工具來評估醫療影像 AI 中的偏見，該工具用於產生具有已知疾病影響和偏見來源的合成磁共振影像。可行性透過使用三個反事實偏見情境來衡量模擬偏見效應對卷積神經網路 (CNN) 分類器和三個偏見緩解策略的影響，並展示出來。分析顯示，當 CNN 在合成資料集上受訓時，模擬偏見會導致預期的次群體效能差異。此外，重新加權被認為是此設定中最成功的偏見緩解策略，我們展示了解釋性 AI 方法如何協助使用這個架構調查模型中偏見的表現。開發公平的 AI 模型是一項重大的挑戰，因為醫療影像資料集中可能存在許多且經常未知的偏見來源。在這項工作中，我們提出了一種新穎的方法，用於客觀地研究偏見和緩解策略對深度學習管線的影響，這可以支援健全且負責任的臨床 AI 的開發。</paragraph>
 
 ##### **Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**
 2310.19174v1 by Adam White, Margarita Saranti, Artur d'Avila Garcez, Thomas M. H. Hope, Cathy J. Price, Howard Bowman

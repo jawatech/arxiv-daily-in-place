@@ -14,7 +14,7 @@
 |**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053v1](http://arxiv.org/abs/2406.20053v1)|null|
 |**2024-06-28**|**Understanding and Mitigating Language Confusion in LLMs**|Kelly Marchisio et.al.|[2406.20052v1](http://arxiv.org/abs/2406.20052v1)|null|
 |**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044v1](http://arxiv.org/abs/2406.20044v1)|[link](https://github.com/yongchaohuang/eparvi)|
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041v1](http://arxiv.org/abs/2406.20041v1)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|null|
 |**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038v1](http://arxiv.org/abs/2406.20038v1)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030v1](http://arxiv.org/abs/2406.20030v1)|null|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015v1](http://arxiv.org/abs/2406.20015v1)|[link](https://github.com/toolbehonest/toolbehonest)|
@@ -23,7 +23,7 @@
 |**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995v1](http://arxiv.org/abs/2406.19995v1)|null|
 |**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967v1](http://arxiv.org/abs/2406.19967v1)|null|
 |**2024-06-28**|**Simulating Financial Market via Large Language Model based Agents**|Shen Gao et.al.|[2406.19966v1](http://arxiv.org/abs/2406.19966v1)|null|
-|**2024-06-28**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963v1](http://arxiv.org/abs/2406.19963v1)|null|
+|**2024-06-28**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963v2](http://arxiv.org/abs/2406.19963v2)|null|
 |**2024-06-28**|**BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5**|Zhehuai Chen et.al.|[2406.19954v1](http://arxiv.org/abs/2406.19954v1)|null|
 |**2024-06-28**|**Uncovering the hidden core-periphery structure in hyperbolic networks**|Imran Ansari et.al.|[2406.19953v1](http://arxiv.org/abs/2406.19953v1)|[link](https://github.com/imran10896/cp_structure_in_hyperbolic_networks)|
 |**2024-06-28**|**Mining Reasons For And Against Vaccination From Unstructured Data Using Nichesourcing and AI Data Augmentation**|Damián Ariel Furman et.al.|[2406.19951v1](http://arxiv.org/abs/2406.19951v1)|null|
@@ -56,7 +56,7 @@
 |**2024-06-28**|**MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment**|Jihao Liu et.al.|[2406.19736v1](http://arxiv.org/abs/2406.19736v1)|[link](https://github.com/jihaonew/mm-instruct)|
 |**2024-06-28**|**CUPID: Improving Battle Fairness and Position Satisfaction in Online MOBA Games with a Re-matchmaking System**|Ge Fan et.al.|[2406.19720v1](http://arxiv.org/abs/2406.19720v1)|null|
 |**2024-06-28**|**Uncertainty Quantification in Large Language Models Through Convex Hull Analysis**|Ferhat Ozgur Catak et.al.|[2406.19712v1](http://arxiv.org/abs/2406.19712v1)|null|
-|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708v1](http://arxiv.org/abs/2406.19708v1)|[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)|
+|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708v2](http://arxiv.org/abs/2406.19708v2)|[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)|
 |**2024-06-28**|**DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems**|Kexiong Yu et.al.|[2406.19705v1](http://arxiv.org/abs/2406.19705v1)|null|
 |**2024-06-28**|**Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation**|Niful Islam et.al.|[2406.19690v1](http://arxiv.org/abs/2406.19690v1)|null|
 |**2024-06-28**|**Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction**|Akash Awasthi et.al.|[2406.19686v1](http://arxiv.org/abs/2406.19686v1)|null|
@@ -66,7 +66,7 @@
 |**2024-06-28**|**CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion**|Xianzhi Zeng et.al.|[2406.19651v1](http://arxiv.org/abs/2406.19651v1)|[link](https://github.com/intellistream/candy)|
 |**2024-06-28**|**DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Incoherence Detection, Reasoning, and Rewriting**|Xuanming Zhang et.al.|[2406.19650v1](http://arxiv.org/abs/2406.19650v1)|null|
 |**2024-06-28**|**Designing and Evaluating Multi-Chatbot Interface for Human-AI Communication: Preliminary Findings from a Persuasion Task**|Sion Yoon et.al.|[2406.19648v1](http://arxiv.org/abs/2406.19648v1)|null|
-|**2024-06-28**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644v1](http://arxiv.org/abs/2406.19644v1)|null|
+|**2024-06-28**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644v2](http://arxiv.org/abs/2406.19644v2)|null|
 |**2024-06-28**|**Unlocking Varied Perspectives: A Persona-Based Multi-Agent Framework with Debate-Driven Text Planning for Argument Generation**|Zhe Hu et.al.|[2406.19643v1](http://arxiv.org/abs/2406.19643v1)|null|
 |**2024-06-28**|**IDT: Dual-Task Adversarial Attacks for Privacy Protection**|Pedro Faustini et.al.|[2406.19642v1](http://arxiv.org/abs/2406.19642v1)|null|
 |**2024-06-28**|**Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation**|Junsung Park et.al.|[2406.19638v1](http://arxiv.org/abs/2406.19638v1)|[link](https://github.com/engineerJPark/ORANDNet)|
@@ -377,8 +377,8 @@ modelling, and beyond.
 
 摘要：基於靜電學和牛頓力學原理，提出了一種新的基於粒子的抽樣和近似推論方法，並提供了理論依據、演算法設計和實驗驗證。此方法模擬了一個相互作用粒子系統 (IPS)，其中粒子（即自由移動的負電荷和與目標分佈成正比的空間固定正電荷）透過由泊松方程式描述的電場產生的吸引和排斥相互作用。IPS 會演化到一個穩態，其中負電荷的分佈符合目標分佈。這種受物理啟發的方法提供了確定性的、無梯度的抽樣和推論，在推論複雜密度、貝氏邏輯迴歸和動態系統識別的基準任務中，達到了與其他基於粒子和 MCMC 的方法相當的效能。提供了一個離散時間、離散空間的演算法設計，可以輕鬆擴展到連續時間和空間，用於貝氏推論、生成模型等概率機器學習場景中發生的更一般的推論問題。
 
-##### **BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**
-2406.20041v1 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+##### **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**
+2406.20041v2 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
 
 Autonomous agents driven by Large Language Models (LLMs) offer enormous
 potential for automation. Early proof of this technology can be found in
@@ -400,7 +400,7 @@ reliability in industrial applications and presents techniques to ensure a
 scalable, flexible, and collaborative workflow for multiple autonomous agents
 working together towards solving tasks.
 
-摘要：由大型語言模型 (LLM) 驅動的自主代理提供巨大的自動化潛力。此技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識，以及觸發動作的各種演示中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程，證明了它們在不太嚴格且定義較不完善的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多產業應用中的骨幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個由定義明確且模組化的任務組成的計畫。根據複雜程度，這些任務可以由單一代理或一群代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意規劃和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在產業應用中提供可靠性，並提出技術以確保多個自主代理一起工作以解決任務的可擴充性、靈活性，以及協作工作流程。
+摘要：由大型語言模型 (LLM) 驅動的自主代理提供了巨大的自動化潛力。這項技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識和觸發動作的各種示範中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程說明了它們在不太嚴格和定義不太明確的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多工業應用中的主幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個定義明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理或一組代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在工業應用中提供了可靠性，並提出了技術來確保多個自主代理共同努力解決任務的可擴充性、靈活性及協作工作流程。
 
 ##### **BioMNER: A Dataset for Biomedical Method Entity Recognition**
 2406.20038v1 by Chen Tang, Bohao Yang, Kun Zhao, Bo Lv, Chenghao Xiao, Frank Guerin, Chenghua Lin
@@ -586,7 +586,7 @@ provides a new paradigm for economic research.
 摘要：大多數經濟理論通常假設金融市場參與者是完全理性的個體，並使用數學模型來模擬金融市場中的人類行為。然而，人類行為通常並非完全理性，且難以使用數學模型準確預測。在本文中，我們提出基於代理的模擬金融市場 (ASFM)，它首先構建一個具有真實訂單匹配系統的模擬股票市場。然後，我們提出一個基於大型語言模型的代理作為股票交易者，其中包含個人資料、觀察和基於工具學習的動作模組。交易代理可以全面了解當前的市場動態和財務政策資訊，並根據其交易策略做出決策。在實驗中，我們首先驗證我們的 ASFM 的反應與兩個可控場景中的真實股票市場一致。此外，我們還在兩個流行的經濟學研究方向中進行了實驗，我們發現我們模型中得出的結論與經濟學研究中的初步發現一致。根據這些觀察，我們相信我們提出的 ASFM 為經濟研究提供了新的範例。
 
 ##### **Text2Robot: Evolutionary Robot Design from Text Descriptions**
-2406.19963v1 by Ryan P. Ringel, Zachary S. Charlick, Jiaxun Liu, Boxi Xia, Boyuan Chen
+2406.19963v2 by Ryan P. Ringel, Zachary S. Charlick, Jiaxun Liu, Boxi Xia, Boyuan Chen
 
 Robot design has traditionally been costly and labor-intensive. Despite
 advancements in automated processes, it remains challenging to navigate a vast
@@ -600,7 +600,7 @@ real-world electronics and manufacturability. Text2Robot enables rapid
 prototyping and opens new opportunities for robot design with generative
 models.
 
-摘要：機器人設計傳統上成本高昂且勞力密集。儘管自動化製程有進展，在生產可實際製造的機器人時，在廣大的設計空間中導航仍然具有挑戰性。我們引進 Text2Robot，一種將使用者文字規格和效能偏好轉換為物理四足機器人的框架。在幾分鐘內，Text2Robot 可以使用文字轉 3D 模型來提供各種形態的強大初始化。在一天之內，我們的幾何處理演算法和身體控制共同最佳化，透過明確考慮現實世界的電子產品和可製造性來產生一個會走路的機器人。Text2Robot 能夠快速製作原型，並透過生成模型為機器人設計開啟新的機會。
+摘要：機器人設計傳統上既昂貴又費力。儘管自動化製程有進展，在生產可實際製造的機器人的同時，要瀏覽廣大的設計空間仍然具有挑戰性。我們推出 Text2Robot，一個將使用者文字規格和效能偏好轉換為物理四足機器人的框架。Text2Robot 能在數分鐘內使用文字轉 3D 模型，提供多樣化形態的強大初始化。在一天內，我們的幾何處理演算法和身體控制共同最佳化，透過明確考慮實際電子產品和可製造性來產生一個會走路的機器人。Text2Robot 能快速建模，並透過生成模型為機器人設計開啟新的機會。
 
 ##### **BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5**
 2406.19954v1 by Zhehuai Chen, He Huang, Oleksii Hrinchuk, Krishna C. Puvvada, Nithin Rao Koluguri, Piotr Żelasko, Jagadeesh Balam, Boris Ginsburg
@@ -1353,7 +1353,7 @@ depends on the prompt complexity, the model, and the temperature setting.
 摘要：不確定量化方法在大型語言模型 (LLM) 中變得更加關鍵，特別是需要可靠輸出的高風險應用。然而，當應用於 LLM 生成的輸出的複雜且高維度性質時，傳統的不確定量化方法，例如機率模型和整體技術，會面臨挑戰。本研究提出了一種新的幾何方法，使用凸包分析進行不確定量化。所提出的方法利用回應嵌入的空間屬性來測量模型輸出的分散和變異性。提示被分為三種類型，即「容易」、「中等」和「混淆」，使用不同 LLM 在不同的溫度設定下產生多重回應。回應透過 BERT 模型轉換為高維度嵌入，然後使用主成分分析 (PCA) 投影到二維空間。基於密度的應用程式空間聚類與雜訊 (DBSCAN) 演算法被用於對嵌入進行聚類，並為每個選定的群集計算凸包。實驗結果表明，LLM 模型的不確定性取決於提示複雜性、模型和溫度設定。
 
 ##### **A Differentiable Approach to Multi-scale Brain Modeling**
-2406.19708v1 by Chaoming Wang, Muyang Lyu, Tianqiu Zhang, Sichao He, Si Wu
+2406.19708v2 by Chaoming Wang, Muyang Lyu, Tianqiu Zhang, Sichao He, Si Wu
 
 We present a multi-scale differentiable brain modeling workflow utilizing
 BrainPy, a unique differentiable brain simulator that combines accurate brain
@@ -1373,7 +1373,7 @@ differentiable multi-scale simulation approach offers a promising tool to
 bridge neuroscience data across electrophysiological, anatomical, and
 behavioral scales.
 
-摘要：我們提出一個多尺度可微分大腦建模工作流程，利用 BrainPy，一個獨特可微分大腦模擬器，結合準確的大腦模擬與強大的基於梯度的最佳化。我們跨不同的大腦尺度利用 BrainPy 的這種能力。在單一神經元層級，我們實作可微分神經元模型，並採用梯度方法來最佳化它們對電生理資料的擬合。在網路層級，我們整合連接組資料來建構生物受限的網路模型。最後，為了複製動物行為，我們使用基於梯度的學習規則在認知任務上訓練這些模型。實驗證明，我們的方法在擬合廣義漏電積分和發射以及 Hodgkin-Huxley 單一神經元模型方面達到了優異的效能和速度。此外，在工作記憶任務上訓練一個由激發性和抑制性尖峰神經元組成的生物資訊網路，成功複製了觀察到的神經活動和突觸權重分佈。總體而言，我們可微分多尺度模擬方法提供了一個有前途的工具，可以橋接電生理、解剖和行為尺度的神經科學資料。
+摘要：我們提出一個多尺度的可微分大腦建模工作流程，利用 BrainPy，一個獨特的可微分大腦模擬器，結合準確的大腦模擬與強大的基於梯度的最佳化。我們跨不同大腦尺度利用 BrainPy 的這項功能。在單一神經元層級，我們實作可微分神經元模型，並使用梯度方法來最佳化它們對電生理資料的擬合。在網路層級，我們納入連接組資料來建構受生物約束的網路模型。最後，為了複製動物行為，我們使用基於梯度的學習規則訓練這些模型，進行認知任務。實驗證明，我們的做法在擬合廣義漏電積分和發射以及霍奇金-赫胥黎單一神經元模型方面，達到了優異的效能和速度。此外，訓練一個由激發性和抑制性尖峰神經元組成的生物資訊網路，進行工作記憶任務，成功複製了觀察到的神經活動和突觸權重分佈。總體而言，我們可微分的多尺度模擬方法提供了一個有前途的工具，可以跨電生理、解剖和行為尺度橋接神經科學資料。
 
 ##### **DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems**
 2406.19705v1 by Kexiong Yu, Hang Zhao, Yuhang Huang, Renjiao Yi, Kai Xu, Chenyang Zhu
@@ -1596,7 +1596,7 @@ and limitations are addressed.
 摘要：語言模型，例如 ChatGPT，已重塑人機溝通的動態。然而，現有的研究主要集中在雙邊溝通上，在群組設定中人機溝通的動態方面仍有許多待探索之處。多個語言模型聊天機器人的出現，為學者們提供了一個絕佳的機會，可以更深入地了解人類與多個聊天機器人之間的互動。本研究探討了多聊天機器人溝通在特定說服環境中的影響：促進慈善捐款。我們開發了一個允許多聊天機器人溝通的線上環境，並進行了一個試驗實驗，利用兩個基於 GPT 的聊天機器人，即救助兒童會和聯合國兒童基金會的聊天機器人，來促進慈善捐款。在本研究中，我們展示了多聊天機器人介面的開發過程，並提出了試驗實驗的初步發現。我們提供了對質性和量化回饋的分析，並探討了限制。
 
 ##### **Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**
-2406.19644v1 by Zichao Shen, Tianchen Zhu, Qingyun Sun, Shiqi Gao, Jianxin Li
+2406.19644v2 by Zichao Shen, Tianchen Zhu, Qingyun Sun, Shiqi Gao, Jianxin Li
 
 Reinforcement learning (RL) faces challenges in evaluating policy
 trajectories within intricate game tasks due to the difficulty in designing
@@ -1618,7 +1618,7 @@ mitigates the reliance on specialized human knowledge and demonstrates the
 potential of LLMs to enhance RL's effectiveness in complex environments in the
 wild.
 
-摘要：強化學習 (RL) 在評估策略軌跡時，由於難以設計全面且精確的獎勵函數，因此在複雜的遊戲任務中面臨挑戰。這種固有的困難限制了 RL 在遊戲環境中更廣泛的應用，而遊戲環境的特點是具有多樣化的約束。基於偏好的強化學習 (PbRL) 提出了一個開創性的框架，該框架利用人類偏好作為關鍵的獎勵信號，從而規避了對細緻的獎勵工程的需求。然而，從人類專家那裡獲取偏好數據既昂貴又低效，尤其是在具有複雜約束的條件下。為了應對這一挑戰，我們提出了一個名為 LLM4PG 的 LLM 啟用的自動偏好生成框架，它利用大型語言模型 (LLM) 的能力來抽象軌跡、對偏好進行排名，並重建獎勵函數以優化條件策略。在具有複雜語言約束的任務上的實驗證明了我們 LLM 啟用的獎勵函數的有效性，加速了 RL 收斂，並克服了在原始獎勵結構下進度緩慢或缺失造成的停滯。這種方法減輕了對專業人類知識的依賴，並展示了 LLM 在增強 RL 在野外複雜環境中的有效性方面的潛力。
+摘要：強化學習 (RL) 在評估策略軌跡時，由於難以設計全面且精確的回饋函數，因此在複雜的遊戲任務中面臨挑戰。這種固有的困難限制了 RL 在具有不同限制的遊戲環境中更廣泛的應用。基於偏好的強化學習 (PbRL) 提出了一個開創性的框架，它利用人類偏好作為關鍵回饋訊號，從而迴避了對精細回饋工程的需求。然而，從人類專家那裡獲取偏好數據既昂貴又低效，尤其是在受複雜限制條件約束的情況下。為了應對這一挑戰，我們提出了一個名為 LLM4PG 的 LLM 啟用自動偏好生成框架，它利用大型語言模型 (LLM) 的功能來抽象軌跡、排列偏好，並重建回饋函數以最佳化條件策略。在具有複雜語言限制的任務上進行的實驗證明了我們 LLM 啟用回饋函數的有效性，加速了 RL 收斂，並克服了在原始回饋結構下進度緩慢或沒有進度造成的停滯。這種方法減輕了對專業人類知識的依賴，並展示了 LLM 在增強 RL 在野外複雜環境中的有效性方面的潛力。
 
 ##### **Unlocking Varied Perspectives: A Persona-Based Multi-Agent Framework with Debate-Driven Text Planning for Argument Generation**
 2406.19643v1 by Zhe Hu, Hou Pong Chan, Jing Li, Yu Yin

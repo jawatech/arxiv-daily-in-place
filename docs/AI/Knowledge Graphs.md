@@ -25,7 +25,7 @@
 |**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
 |**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214v1](http://arxiv.org/abs/2406.15214v1)|null|
-|**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v1](http://arxiv.org/abs/2406.14969v1)|null|
+|**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v2](http://arxiv.org/abs/2406.14969v2)|null|
 |**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745v2](http://arxiv.org/abs/2406.14745v2)|null|
 |**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703v1](http://arxiv.org/abs/2406.14703v1)|null|
 |**2024-06-20**|**TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models**|Jiarui Feng et.al.|[2406.14683v1](http://arxiv.org/abs/2406.14683v1)|[link](https://github.com/jiaruifeng/taglas)|
@@ -100,7 +100,7 @@
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-06**|**The CLRS-Text Algorithmic Reasoning Language Benchmark**|Larisa Markeeva et.al.|[2406.04229v1](http://arxiv.org/abs/2406.04229v1)|[link](https://github.com/google-deepmind/clrs)|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953v1](http://arxiv.org/abs/2406.03953v1)|null|
-|**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v1](http://arxiv.org/abs/2406.03855v1)|null|
+|**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v2](http://arxiv.org/abs/2406.03855v2)|null|
 |**2024-06-06**|**Are Large Language Models the New Interface for Data Pipelines?**|Sylvio Barbon Junior et.al.|[2406.06596v1](http://arxiv.org/abs/2406.06596v1)|null|
 
 #### Abstracts
@@ -657,7 +657,7 @@ productivity tool to improve the process of developing dialogue policies.
 摘要：對話政策在開發任務導向對話系統中扮演著至關重要的角色，然而它們的開發和維護具有挑戰性，且通常需要對話建模專家的大量工作。雖然在許多情況下，大量對話資料可用於手邊的工作，但人們缺乏一種有效的解決方案，無法從這些資料中提取對話政策。在本文中，我們透過首先說明大型語言模型 (LLM) 如何透過將對話轉換成由規範形式組成的統一中間表示，從資料集中提取對話政策，來說明如何解決這個差距。然後，我們提出了一種利用可控且可解釋的基於圖形的方法來產生對話政策的新方法。透過將對話中的規範形式組合成流網路，我們發現執行圖形遍歷演算法有助於提取對話流。這些流比透過提示 LLM 提取的流更能代表底層互動。我們的技術專注於讓對話設計師擁有更大的控制權，提供一種生產力工具來改善開發對話政策的過程。
 
 ##### **Uni-Mol2: Exploring Molecular Pretraining Model at Scale**
-2406.14969v1 by Xiaohong Ji, Wang Zhen, Zhifeng Gao, Hang Zheng, Linfeng Zhang, Guolin Ke, Weinan E
+2406.14969v2 by Xiaohong Ji, Zhen Wang, Zhifeng Gao, Hang Zheng, Linfeng Zhang, Guolin Ke, Weinan E
 
 In recent years, pretraining models have made significant advancements in the
 fields of natural language processing (NLP), computer vision (CV), and life
@@ -677,7 +677,7 @@ consistent improvement in the downstream tasks as the model size grows. The
 Uni-Mol2 with 1.1B parameters also outperforms existing methods, achieving an
 average 27% improvement on the QM9 and 14% on COMPAS-1D dataset.
 
-摘要：近年來，預訓練模型在自然語言處理 (NLP)、電腦視覺 (CV) 和生命科學領域取得了顯著進展。NLP 和 CV 的顯著進展主要由模型參數和資料大小的擴充所推動，這種現象現在被認為是規模化定律。然而，探索分子預訓練模型中規模化定律的研究仍然未被探索。在這項工作中，我們提出了 Uni-Mol2，一種創新的分子預訓練模型，它利用雙軌Transformer在原子層級、圖層級和幾何結構層級有效地整合特徵。除此之外，我們系統性地研究了分子預訓練模型中的規模化定律，描述了驗證損失與模型大小、資料集大小和計算資源之間的冪律相關性。因此，我們成功地將 Uni-Mol2 擴展到 11 億個參數，並通過對 8 億個構形進行預訓練，使其成為迄今為止最大的分子預訓練模型。大量的實驗表明，隨著模型大小的增長，下游任務的表現持續改善。擁有 11B 參數的 Uni-Mol2 也優於現有方法，在 QM9 上平均改善了 27%，在 COMPAS-1D 資料集上改善了 14%。
+摘要：近年来，预训练模型在自然语言处理 (NLP)、计算机视觉 (CV) 和生命科学领域取得了重大进展。NLP 和 CV 的重大进步主要由模型参数和数据量的扩展推动，这一现象现在被认为是缩放定律。然而，探索分子预训练模型中缩放定律的研究仍未得到探索。在这项工作中，我们提出了 Uni-Mol2，一种创新的分子预训练模型，它利用双轨转换器有效地整合原子级、图级和几何结构级的特征。除此之外，我们系统地研究了分子预训练模型中的缩放定律，描述了验证损失与模型大小、数据集大小和计算资源之间的幂律相关性。因此，我们成功地将 Uni-Mol2 扩展到 11 亿个参数，通过对 8 亿个构象进行预训练，使其成为迄今为止最大的分子预训练模型。大量的实验表明，随着模型大小的增长，下游任务持续得到改善。具有 1.1B 参数的 Uni-Mol2 也优于现有方法，在 QM9 上实现了平均 27% 的改进，在 COMPAS-1D 数据集上实现了 14% 的改进。
 
 ##### **Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**
 2406.14745v2 by Sefika Efeoglu, Adrian Paschke
@@ -2483,7 +2483,7 @@ task.
 摘要：利用語言模型為一個暗示性的仇恨文章產生解釋是一個活躍的研究領域。這個解釋的目的是要明確潛在的刻板印象並協助內容管理員。訓練通常結合前 k 個相關知識圖譜 (KG) 元組以提供世界知識並改善標準指標的效能。有趣的是，我們的研究提出矛盾的證據，說明 KG 元組的品質在產生暗示性解釋中所扮演的角色。因此，結合外部毒性訊號的較簡單模型優於融入 KG 的模型。與基於 KG 的設定相比，我們觀察到 SBIC (LatentHatred) 資料集有相近的效能，在 BLEU、ROUGE-L 和 BERTScore 中效能變化為 +0.44 (+0.49)、+1.83 (-1.56) 和 -4.59 (+0.77)。進一步的人類評估和錯誤分析顯示，我們提出的設定產生比零次學習 GPT-3.5 更精確的解釋，突顯出此任務的複雜本質。
 
 ##### **Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**
-2406.03855v1 by Eden Avnat, Michal Levy, Daniel Herstain, Elia Yanko, Daniel Ben Joya, Michal Tzuchman Katz, Dafna Eshel, Sahar Laros, Yael Dagan, Shahar Barami, Joseph Mermelstein, Shahar Ovadia, Noam Shomron, Varda Shalev, Raja-Elie E. Abdulnour
+2406.03855v2 by Eden Avnat, Michal Levy, Daniel Herstain, Elia Yanko, Daniel Ben Joya, Michal Tzuchman Katz, Dafna Eshel, Sahar Laros, Yael Dagan, Shahar Barami, Joseph Mermelstein, Shahar Ovadia, Noam Shomron, Varda Shalev, Raja-Elie E. Abdulnour
 
 Clinical problem-solving requires processing of semantic medical knowledge
 such as illness scripts and numerical medical knowledge of diagnostic tests for
@@ -2508,7 +2508,8 @@ QAs. However, both LLMs showed inter and intra gaps in different medical
 aspects and remained inferior to humans. Thus, their medical advice should be
 addressed carefully.
 
-摘要：<paragraph>臨床問題解決需要處理語義醫學知識，例如疾病腳本和用於循證決策的診斷測試的數值醫學知識。隨著大型語言模型 (LLM) 在語言基礎臨床實務的許多方面顯示出令人滿意的結果，它們產生非語言循證答案的能力在於臨床問題本質上受到標記化的限制。因此，我們評估了 LLM 在兩種問題類型上的表現：數值（相關發現）和語義（區分實體），同時檢查 LLM 在醫學方面的差異，並將其表現與人類進行比較。為了根據循證醫學 (EBM) 產生直接的多選題和答案 (QA)，我們使用了一個全面的醫學知識圖譜（包含來自 50,000 多篇同行評審文章的資料），並建立了「EBMQA」。EBMQA 包含 105,000 個標記有醫學和非醫學主題的 QA，並分類為數值或語義問題。我們使用超過 24,500 個 QA 在兩個最先進的 LLM：Chat-GPT4 和 Claude3-Opus 上對此資料集進行基準測試。我們評估了 LLM 在語義和數值問題類型以及根據次標籤主題的準確性。為了驗證，六位醫學專家接受了 100 個數值 EBMQA 問題的測試。我們發現這兩個 LLM 在語義 QA 上都比在數值 QA 上表現得更出色，而 Claude3 在數值 QA 上超越了 GPT4。然而，這兩個 LLM 在不同的醫學方面都表現出內部和外部的差距，並且仍然遜於人類。因此，它們的醫療建議應謹慎對待。</paragraph>
+摘要：<paragraph>臨床問題解決需要處理語義醫學知識
+例如疾病腳本和基於證據的決策制定之診斷測試的數值醫學知識。由於大型語言模型 (LLM) 在語言基礎臨床實務的許多方面展現出令人滿意的成果，它們產生非語言、基於證據的臨床問題解答的能力本質上受到標記化的限制。因此，我們評估了 LLM 在兩種問題類型上的表現：數值（相關發現）和語義（區分實體），同時檢視 LLM 在醫學方面的差異，並將其表現與人類進行比較。為了根據循證醫學 (EBM) 產生直接的多重選擇題和解答 (QA)，我們使用了一個全面的醫學知識圖譜（包含來自 50,000 多篇同行評審文章的資料），並建立了「EBMQA」。EBMQA 包含 105,000 個 QA，標記有醫學和非醫學主題，並分類為數值或語義問題。我們使用超過 24,500 個 QA 在兩個最先進的 LLM 上對此資料集進行基準測試：Chat-GPT4 和 Claude3-Opus。我們根據語義和數值問題類型以及次標記主題評估了 LLM 的準確性。為了驗證，六位醫學專家接受了 100 個數值 EBMQA 問題的測試。我們發現，這兩個 LLM 在語義 QA 中的表現都比在數值 QA 中的表現出色，而 Claude3 在數值 QA 中的表現優於 GPT4。然而，這兩個 LLM 在不同的醫學方面都顯示出內部和外部的差距，並且仍然遜於人類。因此，應謹慎對待他們的醫療建議。</paragraph>
 
 ##### **Are Large Language Models the New Interface for Data Pipelines?**
 2406.06596v1 by Sylvio Barbon Junior, Paolo Ceravolo, Sven Groppe, Mustafa Jarrar, Samira Maghool, Florence Sèdes, Soror Sahri, Maurice Van Keulen

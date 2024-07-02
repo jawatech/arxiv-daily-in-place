@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041v1](http://arxiv.org/abs/2406.20041v1)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|null|
 |**2024-06-28**|**Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**|Haojun Jiang et.al.|[2406.19756v1](http://arxiv.org/abs/2406.19756v1)|null|
 |**2024-06-28**|**ACES: Automatic Cohort Extraction System for Event-Stream Datasets**|Justin Xu et.al.|[2406.19653v1](http://arxiv.org/abs/2406.19653v1)|[link](https://github.com/justin13601/aces)|
 |**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
@@ -55,7 +55,7 @@
 |**2024-06-21**|**FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays**|Ayush Roy et.al.|[2406.15117v1](http://arxiv.org/abs/2406.15117v1)|[link](https://github.com/ayushroy2001/fa-net)|
 |**2024-06-21**|**Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**|Lin Fan et.al.|[2406.15050v1](http://arxiv.org/abs/2406.15050v1)|null|
 |**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981v1](http://arxiv.org/abs/2406.14981v1)|[link](https://github.com/nikozoe/human_ai_collectives)|
-|**2024-06-21**|**Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2406.14953v1](http://arxiv.org/abs/2406.14953v1)|null|
+|**2024-06-21**|**Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2406.14953v1](http://arxiv.org/abs/2406.14953v1)|[link](https://github.com/Ngk03/Dist-Loss)|
 |**2024-06-21**|**Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI**|Karyna Isaieva et.al.|[2406.14925v1](http://arxiv.org/abs/2406.14925v1)|null|
 |**2024-06-21**|**AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics**|Jonas Dippel et.al.|[2406.14866v1](http://arxiv.org/abs/2406.14866v1)|null|
 |**2024-06-20**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780v1](http://arxiv.org/abs/2406.14780v1)|null|
@@ -104,8 +104,8 @@
 |**2024-06-17**|**Formally Certified Approximate Model Counting**|Yong Kiam Tan et.al.|[2406.11414v2](http://arxiv.org/abs/2406.11414v2)|null|
 
 #### Abstracts
-##### **BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**
-2406.20041v1 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+##### **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**
+2406.20041v2 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
 
 Autonomous agents driven by Large Language Models (LLMs) offer enormous
 potential for automation. Early proof of this technology can be found in
@@ -127,7 +127,7 @@ reliability in industrial applications and presents techniques to ensure a
 scalable, flexible, and collaborative workflow for multiple autonomous agents
 working together towards solving tasks.
 
-摘要：由大型語言模型 (LLM) 驅動的自主代理提供巨大的自動化潛力。此技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識，以及觸發動作的各種演示中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程，證明了它們在不太嚴格且定義較不完善的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多產業應用中的骨幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個由定義明確且模組化的任務組成的計畫。根據複雜程度，這些任務可以由單一代理或一群代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意規劃和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在產業應用中提供可靠性，並提出技術以確保多個自主代理一起工作以解決任務的可擴充性、靈活性，以及協作工作流程。
+摘要：由大型語言模型 (LLM) 驅動的自主代理提供了巨大的自動化潛力。這項技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識和觸發動作的各種示範中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程說明了它們在不太嚴格和定義不太明確的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多工業應用中的主幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個定義明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理或一組代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在工業應用中提供了可靠性，並提出了技術來確保多個自主代理共同努力解決任務的可擴充性、靈活性及協作工作流程。
 
 ##### **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**
 2406.19756v1 by Haojun Jiang, Meng Li, Zhenguo Sun, Ning Jia, Yu Sun, Shaqi Luo, Shiji Song, Gao Huang

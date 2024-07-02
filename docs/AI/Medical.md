@@ -8,7 +8,7 @@
 |**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578v1](http://arxiv.org/abs/2406.19578v1)|null|
 |**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
-|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v2](http://arxiv.org/abs/2406.19057v2)|null|
 |**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050v1](http://arxiv.org/abs/2406.19050v1)|null|
 |**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|[link](https://github.com/cmrxrecon/cmrxrecon2024)|
 |**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
@@ -71,7 +71,7 @@
 |**2024-06-20**|**Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**|Kaishuai Xu et.al.|[2406.13934v1](http://arxiv.org/abs/2406.13934v1)|[link](https://github.com/kaishxu/emulation)|
 |**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890v1](http://arxiv.org/abs/2406.13890v1)|[link](https://github.com/weixiangyan/clinicallab)|
 |**2024-06-19**|**MAMA-MIA: A Large-Scale Multi-Center Breast Cancer DCE-MRI Benchmark Dataset with Expert Segmentations**|Lidia Garrucho et.al.|[2406.13844v1](http://arxiv.org/abs/2406.13844v1)|[link](https://github.com/lidiagarrucho/mama-mia)|
-|**2024-06-19**|**IoT-Based Preventive Mental Health Using Knowledge Graphs and Standards for Better Well-Being**|Amelie Gyrard et.al.|[2406.13791v1](http://arxiv.org/abs/2406.13791v1)|null|
+|**2024-06-19**|**IoT-Based Preventive Mental Health Using Knowledge Graphs and Standards for Better Well-Being**|Amelie Gyrard et.al.|[2406.13791v2](http://arxiv.org/abs/2406.13791v2)|null|
 |**2024-06-19**|**BEACON: Balancing Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes**|Vansh Nagpal et.al.|[2406.13714v1](http://arxiv.org/abs/2406.13714v1)|null|
 |**2024-06-19**|**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**|Long Bai et.al.|[2406.13705v1](http://arxiv.org/abs/2406.13705v1)|[link](https://github.com/longbai1006/endouic)|
 |**2024-06-19**|**Leveraging Large Language Models for Patient Engagement: The Power of Conversational AI in Digital Health**|Bo Wen et.al.|[2406.13659v1](http://arxiv.org/abs/2406.13659v1)|null|
@@ -79,7 +79,7 @@
 |**2024-06-19**|**Optimizing Psychological Counseling with Instruction-Tuned Large Language Models**|Wenjie Li et.al.|[2406.13617v1](http://arxiv.org/abs/2406.13617v1)|null|
 |**2024-06-19**|**Certificates of Differential Privacy and Unlearning for Gradient-Based Training**|Matthew Wicker et.al.|[2406.13433v1](http://arxiv.org/abs/2406.13433v1)|[link](https://github.com/psosnin/AbstractGradientTraining)|
 |**2024-06-19**|**Explainable by-design Audio Segmentation through Non-Negative Matrix Factorization and Probing**|Martin Lebourdais et.al.|[2406.13385v1](http://arxiv.org/abs/2406.13385v1)|[link](https://github.com/Lebourdais/3MAS)|
-|**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v1](http://arxiv.org/abs/2406.13173v1)|[link](https://github.com/mao1207/BioMed-VITAL)|
+|**2024-06-19**|**Biomedical Visual Instruction Tuning with Clinician Preference Alignment**|Hejie Cui et.al.|[2406.13173v2](http://arxiv.org/abs/2406.13173v2)|[link](https://github.com/mao1207/BioMed-VITAL)|
 |**2024-06-19**|**Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model**|Haojun Jiang et.al.|[2406.13165v1](http://arxiv.org/abs/2406.13165v1)|null|
 |**2024-06-19**|**Oralytics Reinforcement Learning Algorithm**|Anna L. Trella et.al.|[2406.13127v1](http://arxiv.org/abs/2406.13127v1)|[link](https://github.com/StatisticalReinforcementLearningLab/oralytics_algorithm_design)|
 |**2024-06-18**|**Accelerating Complex Disease Treatment through Network Medicine and GenAI: A Case Study on Drug Repurposing for Breast Cancer**|Ahmed Abdeen Hamed et.al.|[2406.13106v3](http://arxiv.org/abs/2406.13106v3)|null|
@@ -97,7 +97,7 @@
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v1](http://arxiv.org/abs/2406.12142v1)|null|
 |**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v3](http://arxiv.org/abs/2406.12058v3)|null|
-|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v3](http://arxiv.org/abs/2406.12036v3)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v4](http://arxiv.org/abs/2406.12036v4)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035v1](http://arxiv.org/abs/2406.12035v1)|null|
 |**2024-06-17**|**Improving Quality Control of Whole Slide Images by Explicit Artifact Augmentation**|Artur Jurgas et.al.|[2406.11538v1](http://arxiv.org/abs/2406.11538v1)|null|
 |**2024-06-17**|**FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction**|Muhao Xu et.al.|[2406.11928v1](http://arxiv.org/abs/2406.11928v1)|[link](https://github.com/mhxu1998/flexcare)|
@@ -256,33 +256,34 @@ superior performance in medical multimodal scenarios among open-source MLLMs.
 摘要：多模态大语言模型（MLLM）的快速发展，例如 GPT-4V，带来了重大的进步。然而，由于医疗视觉文本数据的数量和质量的限制，这些模型在医疗多模态能力方面仍然面临挑战，这源于数据隐私问题和高昂的标注成本。虽然开创性的方法利用 PubMed 的大规模、去标识化的医学图像文本对来解决这些限制，但由于固有的数据噪声，它们仍然存在不足。为了解决这个问题，我们从 PubMed 中优化了医学图像文本对，并以“非盲”的方式采用了 MLLM（GPT-4V）来对数据进行去噪和重新格式化，从而创建了包含 130 万个医学 VQA 样本的 PubMedVision 数据集。我们的验证表明：(1) PubMedVision 可以显著增强当前 MLLM 的医疗多模态能力，在包括 MMMU 健康与医学轨道在内的基准测试中显示出显著的改进；(2) 医学专家的手动检查和实证结果验证了我们数据集与其他数据构建方法相比的卓越数据质量。使用 PubMedVision，我们训练了一个 34B 医学 MLLM HuatuoGPT-Vision，它在开源 MLLM 中的医学多模态场景中表现出卓越的性能。
 
 ##### **Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**
-2406.19057v1 by Fuseini Mumuni, Alhassan Mumuni
+2406.19057v2 by Fuseini Mumuni, Alhassan Mumuni
 
 Grounding DINO and the Segment Anything Model (SAM) have achieved impressive
 performance in zero-shot object detection and image segmentation, respectively.
-Together, they have a great potential in revolutionizing zero-shot semantic
-segmentation or data annotation. Yet, in specialized domains like medical image
-segmentation, objects of interest (e.g., organs, tissues, and tumors) may not
-fall in existing class names. To address this problem, the referring expression
-comprehension (REC) ability of Grounding DINO is leveraged to detect arbitrary
-targets by their language descriptions. However, recent studies have
-highlighted severe limitation of the REC framework in this application setting
-owing to its tendency to make false positive predictions when the target is
-absent in the given image. And, while this bottleneck is central to the
-prospect of open-set semantic segmentation, it is still largely unknown how
-much improvement can be achieved by studying the prediction errors. To this
-end, we perform empirical studies on eight publicly available datasets and
-reveal that these errors consistently follow a predictable pattern and can,
-thus, be mitigated by a simple strategy. Specifically, we show that these false
-positive detections with appreciable confidence scores generally occupy large
-image areas and can usually be filtered by their relative sizes. More
-importantly, we expect these observations to inspire future research in
-improving REC-based detection and automated segmentation. Using this technique,
-we evaluate the performance of SAM on multiple datasets from various
-specialized domains and report significant improvement in segmentation
-performance and annotation time savings over manual approaches.
+Together, they have a great potential to revolutionize applications in
+zero-shot semantic segmentation or data annotation. Yet, in specialized domains
+like medical image segmentation, objects of interest (e.g., organs, tissues,
+and tumors) may not fall in existing class names. To address this problem, the
+referring expression comprehension (REC) ability of Grounding DINO is leveraged
+to detect arbitrary targets by their language descriptions. However, recent
+studies have highlighted severe limitation of the REC framework in this
+application setting owing to its tendency to make false positive predictions
+when the target is absent in the given image. And, while this bottleneck is
+central to the prospect of open-set semantic segmentation, it is still largely
+unknown how much improvement can be achieved by studying the prediction errors.
+To this end, we perform empirical studies on six publicly available datasets
+across different domains and reveal that these errors consistently follow a
+predictable pattern and can, thus, be mitigated by a simple strategy.
+Specifically, we show that false positive detections with appreciable
+confidence scores generally occupy large image areas and can usually be
+filtered by their relative sizes. More importantly, we expect these
+observations to inspire future research in improving REC-based detection and
+automated segmentation. Meanwhile, we evaluate the performance of SAM on
+multiple datasets from various specialized domains and report significant
+improvements in segmentation performance and annotation time savings over
+manual approaches.
 
-摘要：Grounding DINO 和 Segment Anything Model (SAM) 在零次物體偵測和影像分割中分別取得令人印象深刻的表現。它們共同擁有在零次語意分割或資料標註中掀起革命的巨大潛力。然而，在醫學影像分割等專業領域中，感興趣的物體（例如器官、組織和腫瘤）可能不在現有的類別名稱中。為了解決這個問題，利用 Grounding DINO 的指涉表達理解 (REC) 能力，透過語言描述來偵測任意目標。然而，最近的研究強調了 REC 架構在這個應用設定中的嚴重限制，因為當目標不存在於給定的影像中時，它傾向於做出假陽性預測。而且，雖然此瓶頸對於開放式語意分割的前景至關重要，但透過研究預測誤差能獲得多少改善仍是未知的。為此，我們對八個公開可用的資料集進行實證研究，並揭示這些誤差始終遵循可預測的模式，因此，可以透過一個簡單的策略來減輕。具體來說，我們表明這些具有可觀置信度的假陽性偵測通常佔據較大的影像區域，並且通常可以根據它們的相對大小來過濾。更重要的是，我們預期這些觀察結果將激勵未來在改善基於 REC 的偵測和自動分割的研究。使用此技術，我們評估了 SAM 在來自各種專業領域的多個資料集上的效能，並報告在分割效能和標註時間節省上相較於手動方法有顯著的改善。
+摘要：Grounding DINO 和 Segment Anything Model (SAM) 分別在零次學習目標偵測和影像分割方面取得令人印象深刻的表現。兩者結合起來，極有可能徹底改變零次學習語意分割或資料標註的應用。然而，在醫療影像分割等專業領域中，感興趣的物體（例如器官、組織和腫瘤）可能不在現有的類別名稱中。為了解決這個問題，Grounding DINO 的指稱表達理解 (REC) 能力被用於透過語言描述來偵測任意目標。然而，最近的研究強調了 REC 框架在這種應用設定中的嚴重限制，因為當目標不存在於給定的影像中時，它傾向於做出錯誤的正向預測。而且，儘管這個瓶頸對於開放式語意分割的前景至關重要，但透過研究預測誤差可以獲得多少改進仍然 weitgehend未知。為此，我們對六個不同領域的公開可用資料集進行實證研究，並揭示這些誤差始終遵循可預測的模式，因此可以透過一個簡單的策略來減輕。具體來說，我們表明具有可觀置信度分數的錯誤正向偵測通常佔據較大的影像區域，通常可以透過它們的相對大小來過濾。更重要的是，我們預期這些觀察結果將激勵未來在改進基於 REC 的偵測和自動分割方面的研究。同時，我們評估了 SAM 在來自各種專業領域的多個資料集上的效能，並報告了分割效能和標註時間相較於手動方法有顯著的改善。
 
 ##### **FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**
 2406.19050v1 by Alexander Herzog, Robbie Southam, Ioannis Mavromatis, Aftab Khan
@@ -1802,7 +1803,7 @@ treatment planning.
 摘要：乳腺癌磁共振成像 (MRI) 的現今研究，特別是與人工智慧 (AI) 相關的研究，由於缺乏專家分段而面臨挑戰。為了解決此問題，我們引入了 MAMA-MIA 資料集，其中包含 1506 例多中心動態對比增強 MRI 案例，以及原發腫瘤和非腫塊增強區域的專家分段。這些案例來自癌症影像檔案館 (TCIA) 中的四個公開可取得的集合。最初，我們訓練了一個深度學習模型來自動分段案例，產生初步分段，大幅減少了專家分段時間。16 位專家，平均擁有 9 年乳腺癌經驗，然後修正這些分段，產生最終的專家分段。此外，兩位放射科醫師對自動分段進行視覺檢查，以支援未來的品質控管研究。除了專家分段外，我們還提供了 49 個調和的人口統計和臨床變數，以及使用 DCE-MRI 全影像和專家分段訓練的著名 nnUNet 架構的預訓練權重。此資料集旨在加速深度學習模型的開發和基準測試，並促進乳腺癌診斷和治療計畫的創新。
 
 ##### **IoT-Based Preventive Mental Health Using Knowledge Graphs and Standards for Better Well-Being**
-2406.13791v1 by Amelie Gyrard, Seyedali Mohammadi, Manas Gaur, Antonio Kung
+2406.13791v2 by Amelie Gyrard, Seyedali Mohammadi, Manas Gaur, Antonio Kung
 
 Sustainable Development Goals (SDGs) give the UN a road map for development
 with Agenda 2030 as a target. SDG3 "Good Health and Well-Being" ensures healthy
@@ -1824,7 +1825,7 @@ Depression, and Mental Health). Furthermore, the KG is mapped to standards
 (e.g., ontologies) when possible. Standards from ETSI SmartM2M, ITU/WHO, ISO,
 W3C, NIST, and IEEE are relevant to mental health.
 
-摘要：永續發展目標（SDG）為聯合國提供了一個發展路線圖，目標為 2030 年議程。SDG3「良好健康與福祉」確保所有年齡層的健康生活並促進福祉。數位科技可以支援 SDG3。透過鼓勵更好的預防性保健，可以減少倦怠甚至憂鬱症。由於患者缺乏健康知識和關注自身健康的焦點，因此有必要在為時已晚之前幫助患者。積極心理學和正念等新趨勢在美國受到高度鼓勵。數位雙胞胎（DT）可以透過生理訊號（例如透過穿戴式裝置收集）協助持續監控情緒。數位雙胞胎促進監控並提供持續的健康見解，以透過更好的個人化改善生活品質和福祉。醫療保健 DT 的挑戰在於標準化資料格式、通訊協定和資料交換機制。為了達成這些資料整合和知識挑戰，我們設計了心理健康知識圖譜（本体和資料集）來提升心理健康。知識圖譜（KG）從 LOV4IoT 本体目錄（情緒、憂鬱症和心理健康）中分類的基於本体的心理健康專案中獲取知識。此外，KG 盡可能對應到標準（例如本体）。ETSI SmartM2M、ITU/WHO、ISO、W3C、NIST 和 IEEE 的標準與心理健康相關。
+摘要：永續發展目標 (SDG) 為聯合國提供了一份發展路線圖，目標是 2030 年議程。SDG3「健康與福祉」確保所有年齡層的健康生活並促進福祉。數位技術可以支援 SDG3。鼓勵更好的預防保健可以減少倦怠甚至憂鬱症。由於患者缺乏知識且不重視照顧自己的健康，因此有必要在為時已晚之前幫助患者。積極心理學和正念等新趨勢在美國受到高度鼓勵。數位分身 (DT) 可以透過生理訊號（例如透過穿戴式裝置收集）協助持續監控情緒。數位分身促進監控並提供持續的健康見解，以透過更好的個人化改善生活品質和福祉。醫療保健 DT 的挑戰是標準化資料格式、通訊協定和資料交換機制。為了克服這些資料整合和知識挑戰，我們設計了心理健康知識圖譜（本体和資料集）以促進心理健康。知識圖譜 (KG) 從 LOV4IoT 本体目錄（情緒、憂鬱症和心理健康）中分類的基於本体的心理健康專案中獲取知識。此外，KG 盡可能對應到標準（例如本体）。來自 ETSI SmartM2M、ITU/WHO、ISO、W3C、NIST 和 IEEE 的標準與心理健康相關。
 
 ##### **BEACON: Balancing Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes**
 2406.13714v1 by Vansh Nagpal, Siva Likitha Valluru, Kausik Lakkaraju, Biplav Srivastava
@@ -1982,7 +1983,7 @@ representations according to "good" properties.
 摘要：音訊區段化是許多語音技術的關鍵任務，其中大部分基於神經網路，通常被視為黑盒子，具有高階效能。然而，在許多領域中，其中包含健康或法醫學，不僅需要良好的效能，也需要對輸出決策進行說明。直接從潛在表徵中衍生的說明需要滿足「良好」的特性，例如資訊性、緊湊性或模組化，才能被解釋。在本文中，我們提出一個可解釋的音訊區段化模型，該模型基於非負矩陣分解 (NMF)，這是非負表徵設計的良好候選者。本文顯示我們的模型達到良好的區段化效能，並對從非負矩陣中提取的潛在表徵進行深入分析。所提出的方法為根據「良好」特性評估可解釋的表徵開啟新的觀點。
 
 ##### **Biomedical Visual Instruction Tuning with Clinician Preference Alignment**
-2406.13173v1 by Hejie Cui, Lingjun Mao, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
+2406.13173v2 by Hejie Cui, Lingjun Mao, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
 Recent advancements in multimodal foundation models have showcased impressive
 capabilities in understanding and reasoning with visual and textual
@@ -2004,7 +2005,7 @@ from our method demonstrates a significant improvement in open visual chat
 (18.5% relatively) and medical VQA (win rate up to 81.73%). Our
 instruction-following data and models are available at BioMed-VITAL.github.io.
 
-摘要：多模态基础模型的最新进展展示了令人印象深刻的能力，能够理解和推理视觉和文本信息。将这些针对一般用途训练的基础模型调整到生物医学等专业领域需要大规模的特定领域指导数据集。虽然现有工作已经探索了自动整理此类数据集，但结果数据集并未明确与领域专业知识保持一致。在这项工作中，我们提出了一个以数据为中心框架，即生物医学视觉指令调整与临床医生偏好对齐 (BioMed-VITAL)，它将临床医生偏好纳入生成和选择用于调整生物医学多模态基础模型的指令数据的两个阶段。首先，在生成阶段，我们使用一组由临床医生选择的演示提示 GPT-4V 生成器，以生成偏好对齐的数据候选。然后，在选择阶段，我们训练一个单独的选择模型，该模型明确地将临床医生和政策指导的模型偏好提炼成一个评级函数，以选择用于医学指令调整的高质量数据。结果表明，使用我们方法中的指令遵循数据调整的模型在开放式视觉聊天（相对提高 18.5%）和医学 VQA（获胜率高达 81.73%）方面表现出显着提升。我们的指令遵循数据和模型可在 BioMed-VITAL.github.io 获得。
+摘要：<paragraph>多模态基础模型的最新进展展示了令人印象深刻的能力，可以理解和推理视觉和文本信息。将这些针对一般用途训练的基础模型调整到生物医学等专门领域需要大规模的特定领域指令数据集。虽然现有工作已经探索了自动整理此类数据集，但结果数据集并未明确与领域专业知识保持一致。在这项工作中，我们提出了一个以数据为中心框架，即生物医学视觉指令调整与临床医生偏好对齐 (BioMed-VITAL)，它将临床医生偏好纳入生成和选择指令数据以调整生物医学多模态基础模型的两个阶段。首先，在生成阶段，我们使用一组由临床医生选择的演示来提示 GPT-4V 生成器，以生成偏好对齐的数据候选。然后，在选择阶段，我们训练一个单独的选择模型，该模型明确地将临床医生和政策指导的模型偏好提炼成一个评级函数，以选择高质量的数据进行医学指令调整。结果表明，使用我们方法中的指令遵循数据调整的模型在开放视觉聊天（相对 18.5%）和医学 VQA（获胜率高达 81.73%）方面表现出显着提高。我们的指令遵循数据和模型可在 BioMed-VITAL.github.io 获得。</paragraph>
 
 ##### **Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model**
 2406.13165v1 by Haojun Jiang, Zhenguo Sun, Ning Jia, Meng Li, Yu Sun, Shaqi Luo, Shiji Song, Gao Huang
@@ -2421,7 +2422,7 @@ well-being.
 摘要：語言模型 (LM) 被提議用於心理健康應用程式，在其中，由於不良結果的風險升高，預測效能可能不足以作為臨床實務中模型效用的試金石。可信賴於實務的模型應在解釋和臨床判斷之間具有對應關係，但目前尚未有研究探討這些模型的注意力保真度及其對真實解釋的影響。我們引入了一個評估設計，專注於 LM 在識別健康維度 (WD) 時的穩健性和可解釋性。我們專注於兩個心理健康和福祉資料集：(a) 基於多標籤分類的多 WD，以及 (b) WellXplain，用於評估注意力機制真實性，以對抗專家標記的解釋。這些標籤基於 Halbert Dunn 的健康理論，這為我們的評估提供了依據。我們揭露了關於 LM/LLM 的四個驚人結果：(1) 儘管 GPT-3.5/4 具有類人能力，但它落後於 RoBERTa 和 MedAlpaca，而微調後的 LLM 未能提供效能或解釋方面的任何顯著改進。(2) 根據以信心為導向的損失函數重新檢視 LM 的預測，揭示了一個顯著的效能下降。(3) 在所有 LM/LLM 中，注意力和解釋之間的一致性仍然很低，LLM 的得分慘不忍睹，僅為 0.0。(4) 大多數特定於心理健康的 LM/LLM 忽視特定領域的知識並低估解釋，導致這些差異。本研究強調需要進一步研究它們在心理健康和福祉方面的一致性和解釋。
 
 ##### **MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**
-2406.12036v3 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
+2406.12036v4 by Nikhil Khandekar, Qiao Jin, Guangzhi Xiong, Soren Dunn, Serina S Applebaum, Zain Anwar, Maame Sarfo-Gyamfi, Conrad W Safranek, Abid A Anwar, Andrew Zhang, Aidan Gilson, Maxwell B Singer, Amisha Dave, Andrew Taylor, Aidong Zhang, Qingyu Chen, Zhiyong Lu
 
 As opposed to evaluating computation and logic-based reasoning, current
 benchmarks for evaluating large language models (LLMs) in medicine are
@@ -2443,7 +2444,7 @@ performing the arithmetic for the computation. We hope our study highlights the
 quantitative knowledge and reasoning gaps in LLMs within medical settings,
 encouraging future improvements of LLMs for various clinical calculation tasks.
 
-摘要：與評估計算和基於邏輯的推理不同，目前用於評估醫學中大型語言模型 (LLM) 的基準主要集中在涉及領域知識和描述性推理的問答上。雖然此類定性能力對於醫療診斷至關重要，但在實際情況中，醫生經常使用遵循定量方程式和基於規則的推理範例的臨床計算器來進行基於證據的決策支持。為此，我們提出了 MedCalc-Bench，這是第一個專注於評估 LLM 醫學計算能力的同類數據集。MedCalc-Bench 包含一個評估集，其中包含來自 55 個不同醫學計算任務的 1000 多個手動審查的實例。MedCalc-Bench 中的每個實例都包含一個患者備註、一個請求計算特定醫學值的提問、一個基本事實答案以及一個逐步說明如何獲得答案的說明。雖然我們的評估結果顯示了 LLM 在此領域的潛力，但沒有任何一個 LLM 足夠有效地用於臨床環境。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或錯誤地執行計算的算術運算。我們希望我們的研究能突顯 LLM 在醫療環境中的定量知識和推理差距，並鼓勵未來改進 LLM 以應付各種臨床計算任務。
+摘要：與評估計算和邏輯推理不同，目前用於評估大型語言模型 (LLM) 在醫學上的基準主要集中於涉及領域知識和描述性推理的問答。雖然此類定性能力對於醫學診斷至關重要，但在現實情況中，醫生經常使用遵循定量方程式和基於規則的推理範例的臨床計算器，以進行基於證據的決策支援。為此，我們提出了 MedCalc-Bench，這是第一個專注於評估 LLM 醫療計算能力的同類型資料集。MedCalc-Bench 包含一個評估集，其中包含來自 55 個不同醫療計算任務的 1000 多個手動審閱的實例。MedCalc-Bench 中的每個實例都包含一個病歷、一個要求計算特定醫療值的提問、一個基本事實答案以及一個按部就班的說明，說明如何獲得答案。雖然我們的評估結果顯示了 LLM 在此領域的潛力，但沒有任何一種 LLM 足夠有效，可用於臨床環境。常見問題包括提取不正確的實體、未針對計算任務使用正確的方程式或規則，或不正確地執行計算的算術運算。我們希望我們的研究能突顯出 LLM 在醫療環境中的定量知識和推理差距，並鼓勵未來針對各種臨床計算任務改善 LLM。
 
 ##### **Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**
 2406.12035v1 by Rhythm Arora, Pooja Prajod, Matteo Lavit Nicora, Daniele Panzeri, Giovanni Tauro, Rocco Vertechy, Matteo Malosio, Elisabeth André, Patrick Gebhard

@@ -20,7 +20,7 @@
 |**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v2](http://arxiv.org/abs/2406.16252v2)|null|
 |**2024-06-23**|**GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**|Qiming Wu et.al.|[2406.16176v1](http://arxiv.org/abs/2406.16176v1)|null|
 |**2024-06-23**|**Can LLM Graph Reasoning Generalize beyond Pattern Memorization?**|Yizhuo Zhang et.al.|[2406.15992v1](http://arxiv.org/abs/2406.15992v1)|null|
-|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v1](http://arxiv.org/abs/2406.15859v1)|null|
+|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v2](http://arxiv.org/abs/2406.15859v2)|null|
 |**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
 |**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
@@ -65,7 +65,7 @@
 |**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492v1](http://arxiv.org/abs/2406.10492v1)|null|
 |**2024-06-15**|**Unlocking Large Language Model's Planning Capabilities with Maximum Diversity Fine-tuning**|Wenjun Li et.al.|[2406.10479v1](http://arxiv.org/abs/2406.10479v1)|null|
 |**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994v1](http://arxiv.org/abs/2406.09994v1)|null|
-|**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v1](http://arxiv.org/abs/2406.09953v1)|null|
+|**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v2](http://arxiv.org/abs/2406.09953v2)|null|
 |**2024-06-14**|**TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**|Zhuofeng Li et.al.|[2406.10310v1](http://arxiv.org/abs/2406.10310v1)|null|
 |**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
 |**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v2](http://arxiv.org/abs/2406.09606v2)|null|
@@ -528,7 +528,7 @@ pattern memorization remains an open research question.
 摘要：大型語言模型 (LLM) 對於具有隱式圖形結構的問題展現出巨大的潛力，而近期研究則透過專業指令調整來增強 LLM 的圖形推理能力。由此產生的「圖形 LLM」僅在分布內設定中進行評估，因此 LLM 是否學習到可概括的圖形推理技能，或僅僅記憶合成訓練資料中的模式，仍未獲得充分探討。為此，我們提出 NLGift 基準，這是一個 LLM 圖形推理概括評估套件：LLM 是否可以超越合成訓練資料中的語義、數值、結構推理模式，並提升在真實世界基於圖形的任務中的效用。透過兩個 LLM 在四個圖形推理任務中的廣泛實驗證明，儘管在簡單模式（語義、數值）上的概括令人滿意，但 LLM 難以在推理和真實世界模式中概括，對合成圖形調整對於具有基礎網路結構的真實世界任務的益處提出質疑。我們探討了三種策略來改善 LLM 圖形推理概括，我們發現，儘管訓練後對齊對真實世界任務最有希望，但賦能 LLM 圖形推理以超越模式記憶仍然是一個開放的研究問題。
 
 ##### **LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**
-2406.15859v1 by Guangsi Shi, Xiaofeng Deng, Linhao Luo, Lijuan Xia, Lei Bao, Bei Ye, Fei Du, Shirui Pan, Yuxiao Li
+2406.15859v2 by Guangsi Shi, Xiaofeng Deng, Linhao Luo, Lijuan Xia, Lei Bao, Bei Ye, Fei Du, Shirui Pan, Yuxiao Li
 
 Recommender systems are pivotal in enhancing user experiences across various
 web applications by analyzing the complicated relationships between users and
@@ -556,7 +556,7 @@ and technology company cross-selling recommendation system further underscores
 its practical utility and potential to redefine recommendation practices
 through improved accuracy and user trust.
 
-摘要：推薦系統在分析使用者與項目之間的複雜關係，提升各種網路應用程式的使用者體驗方面至關重要。知識圖譜 (KG) 已廣泛用於提升推薦系統的效能。然而，KG 已知有雜訊且不完整，難以提供可靠的推薦結果說明。可解釋的推薦系統對於產品開發和後續決策制定至關重要。為了應對這些挑戰，我們引進一種創新的推薦系統，結合大型語言模型 (LLM) 和 KG，以增強推薦並提供可解釋的結果。具體來說，我們首先利用 LLM 的力量來擴充 KG 重建。LLM 理解並將使用者評論分解成新的三元組，並將其新增到 KG 中。透過這種方式，我們可以用表達使用者偏好的可解釋路徑來豐富 KG。為了增強對擴充 KG 的推薦，我們引進一個創新的子圖推理模組，該模組有效地衡量節點的重要性，並找出推薦的理由。最後，這些推理路徑會輸入到 LLM 中，以產生推薦結果的可解釋說明。我們的做法顯著提升了推薦系統的有效性和可解釋性，特別是在傳統方法失效的交叉銷售情況中。我們的做法的有效性已在四個開放的真實世界資料集上經過嚴格測試，我們的做法展示出比當代最先進技術高出平均 12% 的卓越效能。我們的模型在一家跨國工程和技術公司交叉銷售推薦系統中的應用進一步突顯了其實用性和透過提升準確度和使用者信任來重新定義推薦實務的潛力。
+摘要：推薦系統在分析使用者與項目之間複雜的關係，提升各種網路應用程式的使用者體驗中扮演著關鍵角色。知識圖譜 (KG) 已被廣泛用於提升推薦系統的效能。然而，KG 眾所周知是有雜訊且不完整的，這使得難以提供可靠的推薦結果說明。一個可解釋的推薦系統對於產品開發和後續決策至關重要。為了應對這些挑戰，我們引入了一個新穎的推薦系統，它結合了大型語言模型 (LLM) 和 KG 來加強推薦並提供可解釋的結果。具體來說，我們首先利用 LLM 的力量來擴充 KG 重建。LLM 理解並將使用者評論分解成新的三元組，並將其新增到 KG 中。透過這種方式，我們可以用表達使用者偏好的可解釋路徑來豐富 KG。為了增強在擴充 KG 上的推薦，我們引入了一個新穎的子圖推理模組，它可以有效地衡量節點的重要性，並找出推薦的理由。最後，這些推理路徑被輸入到 LLM 中，以產生推薦結果的可解釋說明。我們的做法大幅提升了推薦系統的有效性和可解釋性，特別是在傳統方法失效的交叉銷售情境中。我們的做法的有效性已在四個開放的真實世界資料集上經過嚴格測試，我們的做法展示出比當代最先進技術更卓越的效能，平均提升了 12%。我們的模型在一家跨國工程和技術公司交叉銷售推薦系統中的應用進一步突顯了它的實用性，以及透過提升準確性和使用者信任來重新定義推薦實務的潛力。
 
 ##### **Large Language Models for Link Stealing Attacks Against Graph Neural Networks**
 2406.16963v1 by Faqian Guan, Tianqing Zhu, Hui Sun, Wanlei Zhou, Philip S. Yu
@@ -1617,7 +1617,7 @@ dataset, achieved through straightforward fine-tuning.
 摘要：在多模态任务领域，视觉问答（VQA）通过解决基于视觉内容的自然语言问题，扮演着至关重要的角色。基于知识的视觉问答（KBVQA）通过添加外部知识以及图像来回答问题，从而推进了这一概念。我们引入了一种用于 KBVQA 的方法，增强了现有的视觉语言 transformer 编码器解码器 (OFA) 模型。我们的主要贡献涉及通过使用动态三元组提取方法，整合从知识图谱中提取的相关外部知识来增强问题。我们提供来自知识图谱的灵活数量的三元组作为上下文，以满足回答问题的要求。我们经过知识丰富的模型在三个不同的 KBVQA 数据集上，在精确匹配分数方面展示了比最先进水平平均提高 4.75%。通过实验和分析，我们证明为每个问题提供可变三元组提高了语言模型的推理能力，这与提供固定数量的三元组形成对比。即使对于最近的大型语言模型，这一点也得到了说明。此外，我们通过展示模型在小型数据集上的 SOTA 击败性能，突出了模型的泛化能力，这是通过直接微调实现的。
 
 ##### **DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**
-2406.09953v1 by Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Lingyue Guo, Ping Luo, Yanfeng Lu
+2406.09953v2 by Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Lingyue Guo, Ping Luo, Yanfeng Lu
 
 Dual-arm robots offer enhanced versatility and efficiency over single-arm
 counterparts by enabling concurrent manipulation of multiple objects or
@@ -1638,7 +1638,7 @@ directly using LLM to generate plans, achieving nearly 50% higher efficiency
 compared to the single-arm task planning baseline and nearly double the success
 rate of the dual-arm task planning baseline.
 
-摘要：雙臂機器人透過同時操控多個物件或使用雙臂協同執行任務，提供比單臂機器人更高的靈活性與效率。然而，要有效協調雙臂以執行複雜且時間跨度長的任務，仍然是一項重大的挑戰。現有的任務規劃方法主要專注於單臂機器人，或依賴於預先定義的雙手操作，無法充分利用雙臂系統的能力。為了解決這個限制，我們引入了 DAG-Plan，一個專門為雙臂機器人量身打造的結構化任務規劃架構。DAG-Plan 利用大型語言模型 (LLM) 將複雜的任務分解成可操作的子任務，並將其表示為有向無環圖 (DAG) 中的節點。更重要的是，DAG-Plan 會根據即時的環境觀察動態地將這些子任務分配給適當的手臂，從而實現並行和自適應的執行。我們在新的雙臂廚房基準測試中評估了 DAG-Plan，其中包含 9 個順序任務、78 個子任務和 26 個物件。廣泛的實驗證明了 DAG-Plan 優於直接使用 LLM 來產生計畫，與單臂任務規劃基準線相比，效率提高了近 50%，而與雙臂任務規劃基準線相比，成功率幾乎提高了一倍。
+摘要：雙臂機器人透過同時處理多個物件或使用兩隻手臂協作執行任務，提供比單臂機器人更高的多功能性和效率。然而，要有效協調兩隻手臂執行複雜且時間跨度長的任務，仍然是一項重大的挑戰。現有的任務規劃方法主要專注於單臂機器人，或依賴於預先定義的雙手操作，無法充分利用雙臂系統的能力。為了解決這個限制，我們引入了 DAG-Plan，一個專為雙臂機器人量身打造的結構化任務規劃框架。DAG-Plan 利用大型語言模型 (LLM) 將複雜的任務分解成可操作的子任務，並將其表示為有向無環圖 (DAG) 中的節點。更重要的是，DAG-Plan 會根據即時的環境觀察結果，動態地將這些子任務分配給適當的手臂，從而實現並行和自適應的執行。我們在創新的雙臂廚房基準測試中評估了 DAG-Plan，該基準測試包含 9 個連續任務、78 個子任務和 26 個物件。大量的實驗證明了 DAG-Plan 優於直接使用 LLM 來產生計畫，與單臂任務規劃基準線相比，效率提高了近 50%，與雙臂任務規劃基準線相比，成功率幾乎提高了一倍。
 
 ##### **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**
 2406.10310v1 by Zhuofeng Li, Zixing Gou, Xiangnan Zhang, Zhongyuan Liu, Sirui Li, Yuntong Hu, Chen Ling, Zheng Zhang, Liang Zhao

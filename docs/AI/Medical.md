@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v3](http://arxiv.org/abs/2406.20041v3)|null|
 |**2024-06-28**|**Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**|Haojun Jiang et.al.|[2406.19756v1](http://arxiv.org/abs/2406.19756v1)|null|
 |**2024-06-28**|**ACES: Automatic Cohort Extraction System for Event-Stream Datasets**|Justin Xu et.al.|[2406.19653v1](http://arxiv.org/abs/2406.19653v1)|[link](https://github.com/justin13601/aces)|
 |**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
@@ -48,17 +48,17 @@
 |**2024-06-23**|**Evaluating the Effectiveness of the Foundational Models for Q&A Classification in Mental Health care**|Hassan Alhuzali et.al.|[2406.15966v1](http://arxiv.org/abs/2406.15966v1)|null|
 |**2024-06-22**|**SEDMamba: Enhancing Selective State Space Modelling with Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in Robot-Assisted Surgery**|Jialang Xu et.al.|[2406.15920v1](http://arxiv.org/abs/2406.15920v1)|null|
 |**2024-06-22**|**Real-time Speech Summarization for Medical Conversations**|Khai Le-Duc et.al.|[2406.15888v1](http://arxiv.org/abs/2406.15888v1)|[link](https://github.com/leduckhai/multimed)|
-|**2024-06-21**|**Automated radiotherapy treatment planning guided by GPT-4Vision**|Sheng Liu et.al.|[2406.15609v1](http://arxiv.org/abs/2406.15609v1)|null|
+|**2024-06-21**|**Automated radiotherapy treatment planning guided by GPT-4Vision**|Sheng Liu et.al.|[2406.15609v2](http://arxiv.org/abs/2406.15609v2)|null|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346v1](http://arxiv.org/abs/2406.15346v1)|[link](https://github.com/chengzhepiao/coldstartbglp)|
 |**2024-06-21**|**Exploring the Efficacy of Robotic Assistants with ChatGPT and Claude in Enhancing ADHD Therapy: Innovating Treatment Paradigms**|Santiago Berrezueta-Guzman et.al.|[2406.15198v1](http://arxiv.org/abs/2406.15198v1)|null|
 |**2024-06-21**|**This actually looks like that: Proto-BagNets for local and global interpretability-by-design**|Kerol Djoumessi et.al.|[2406.15168v2](http://arxiv.org/abs/2406.15168v2)|[link](https://github.com/kdjoumessi/proto-bagnets)|
 |**2024-06-21**|**FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays**|Ayush Roy et.al.|[2406.15117v1](http://arxiv.org/abs/2406.15117v1)|[link](https://github.com/ayushroy2001/fa-net)|
 |**2024-06-21**|**Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**|Lin Fan et.al.|[2406.15050v1](http://arxiv.org/abs/2406.15050v1)|null|
 |**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981v1](http://arxiv.org/abs/2406.14981v1)|[link](https://github.com/nikozoe/human_ai_collectives)|
-|**2024-06-21**|**Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2406.14953v1](http://arxiv.org/abs/2406.14953v1)|[link](https://github.com/Ngk03/Dist-Loss)|
+|**2024-06-21**|**Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2406.14953v2](http://arxiv.org/abs/2406.14953v2)|[link](https://github.com/Ngk03/Dist-Loss)|
 |**2024-06-21**|**Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI**|Karyna Isaieva et.al.|[2406.14925v1](http://arxiv.org/abs/2406.14925v1)|null|
 |**2024-06-21**|**AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics**|Jonas Dippel et.al.|[2406.14866v1](http://arxiv.org/abs/2406.14866v1)|null|
-|**2024-06-20**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780v1](http://arxiv.org/abs/2406.14780v1)|null|
+|**2024-06-20**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780v2](http://arxiv.org/abs/2406.14780v2)|null|
 |**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757v1](http://arxiv.org/abs/2406.14757v1)|null|
 |**2024-06-20**|**An updated overview of radiomics-based artificial intelligence (AI) methods in breast cancer screening and diagnosis**|Reza Elahi et.al.|[2406.14735v1](http://arxiv.org/abs/2406.14735v1)|null|
 |**2024-06-20**|**This Looks Better than That: Better Interpretable Models with ProtoPNeXt**|Frank Willard et.al.|[2406.14675v1](http://arxiv.org/abs/2406.14675v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**
-2406.20041v2 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+2406.20041v3 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
 
 Autonomous agents driven by Large Language Models (LLMs) offer enormous
 potential for automation. Early proof of this technology can be found in
@@ -127,7 +127,7 @@ reliability in industrial applications and presents techniques to ensure a
 scalable, flexible, and collaborative workflow for multiple autonomous agents
 working together towards solving tasks.
 
-摘要：由大型語言模型 (LLM) 驅動的自主代理提供了巨大的自動化潛力。這項技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識和觸發動作的各種示範中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程說明了它們在不太嚴格和定義不太明確的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多工業應用中的主幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個定義明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理或一組代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在工業應用中提供了可靠性，並提出了技術來確保多個自主代理共同努力解決任務的可擴充性、靈活性及協作工作流程。
+摘要：由大型語言模型 (LLM) 驅動的自主代理人提供了巨大的自動化潛力。此技術的早期證明可以在代理人解決複雜任務、與外部系統互動以擴充其知識，以及觸發動作的各種演示中找到。特別是，涉及多個代理人以協作方式解決複雜任務的工作流程，說明了它們在較不嚴格和定義較不完善的環境中運作的能力。因此，多代理人方法極有可能成為許多產業應用中的骨幹，範圍從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要多步驟的方法，其中包括明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理人或一群代理人執行。在這項工作中，我們專注於設計一個靈活的代理人工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在產業應用中提供了可靠性，並提出了技術，以確保多個自主代理人共同努力解決任務的可擴充性、靈活性，以及協作工作流程。
 
 ##### **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**
 2406.19756v1 by Haojun Jiang, Meng Li, Zhenguo Sun, Ning Jia, Yu Sun, Shaqi Luo, Shiji Song, Gao Huang
@@ -1231,7 +1231,7 @@ online: https://github.com/leduckhai/MultiMed
 摘要：在醫生和病人的對話中，識別與醫療相關的資訊至關重要，這提出了對話摘要的需求。在這項工作中，我們提出了第一個可部署的即時語音摘要系統，用於產業中的真實世界應用，它會在對話中的每 N 個語音發話後產生一個局部摘要，並在對話結束後產生一個全局摘要。我們的系統可以從商業角度提升使用者體驗，同時從技術角度降低運算成本。其次，我們提出了 VietMed-Sum，據我們所知，這是第一個針對醫療對話的語音摘要資料集。第三，我們是第一個利用 LLM 和人工標註者協作，為醫療對話摘要建立黃金標準和合成摘要。最後，我們提出了 VietMed-Sum 上最先進模型的基準結果。所有程式碼、資料（已翻譯成英文和越南語）和模型都可以在線上取得：https://github.com/leduckhai/MultiMed
 
 ##### **Automated radiotherapy treatment planning guided by GPT-4Vision**
-2406.15609v1 by Sheng Liu, Oscar Pastor-Serrano, Yizheng Chen, Matthew Gopaulchan, Weixing Liang, Mark Buyyounouski, Erqi Pollom, Quynh-Thu Le, Michael Gensheimer, Peng Dong, Yong Yang, James Zou, Lei Xing
+2406.15609v2 by Sheng Liu, Oscar Pastor-Serrano, Yizheng Chen, Matthew Gopaulchan, Weixing Liang, Mark Buyyounouski, Erqi Pollom, Quynh-Thu Le, Michael Gensheimer, Peng Dong, Yong Yang, James Zou, Lei Xing
 
 Radiotherapy treatment planning is a time-consuming and potentially
 subjective process that requires the iterative adjustment of model parameters
@@ -1256,7 +1256,7 @@ agent that mimics the behaviors of human planners in radiation oncology
 clinics, achieving remarkable results in automating the treatment planning
 process without the need for additional training.
 
-摘要：放射治療計畫是一個耗時且可能主觀的過程，需要反覆調整模型參數以平衡多重衝突的目標。大型基礎模型的最新進展為解決規劃和臨床決策中的挑戰提供了有希望的途徑。本研究介紹了 GPT-RadPlan，這是一個全自動化的治療計畫框架，利用了編碼在多模態大型語言模型（例如 OpenAI 的 GPT-4Vision (GPT-4V)）中的先前的放射腫瘤知識。GPT-RadPlan 意識到規劃協定作為背景，並扮演一位專家人類規劃者的角色，能夠指導治療計畫的過程。透過情境學習，我們將各種疾病部位的臨床協定納入提示中，讓 GPT-4V 獲取治療計畫領域的知識。產生的 GPT-RadPlan 代理透過 API 整合到我們內部的逆向治療計畫系統中。自動化規劃系統的效力透過多個前列腺和頭頸癌案例展示，我們將 GPT-RadPlan 的結果與臨床計畫進行比較。在所有案例中，GPT-RadPlan 都優於或符合臨床計畫，展現出優異的目標覆蓋率和器官在風險中的保護。GPT-RadPlan 持續滿足臨床協定中的劑量測量目標，代表了第一個多模態大型語言模型代理，它模擬了放射腫瘤診所中人類規劃者的行為，在無需額外訓練的情況下，在自動化治療計畫過程中取得了顯著的成果。
+摘要：放射治療計畫的制定是一個耗時且可能主觀的過程，需要反覆調整模型參數，以平衡多個相互衝突的目標。大型基礎模型的最新進展為了解決規劃和臨床決策中的挑戰提供了有希望的途徑。本研究介紹了 GPT-RadPlan，這是一個完全自動化的治療計畫架構，它利用了多模態大型語言模型（例如 OpenAI 的 GPT-4Vision (GPT-4V)）中編碼的先前的放射腫瘤知識。GPT-RadPlan 意識到規劃協定作為背景，並作為一名專家人類規劃師，能夠指導治療計畫過程。透過情境學習，我們將各種疾病部位的臨床協定納入提示，以使 GPT-4V 獲得治療計畫領域知識。由此產生的 GPT-RadPlan 代理透過 API 整合到我們內部的逆向治療計畫系統中。自動化計畫系統的功效透過多個前列腺和頭頸癌病例展示，我們將 GPT-RadPlan 的結果與臨床計畫進行比較。在所有情況下，GPT-RadPlan 都優於或符合臨床計畫，展現出優越的目標覆蓋率和器官在風險中保護。GPT-RadPlan 一致滿足臨床協定中的劑量測量目標，代表了第一個多模態大型語言模型代理，它模擬了放射腫瘤診所中人類規劃師的行為，在無需額外訓練的情況下實現了自動化治療計畫過程的顯著成果。
 
 ##### **Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**
 2406.15346v1 by Chengzhe Piao, Taiyu Zhu, Yu Wang, Stephanie E Baldeweg, Paul Taylor, Pantelis Georgiou, Jiahao Sun, Jun Wang, Kezhi Li
@@ -1416,7 +1416,7 @@ to improve accuracy in complex, open-ended domains like medical diagnostics.
 安全、品質和公平性。然而，LLM 會產生幻覺、缺乏常識，並且有偏見 - 這些缺點可能反映出 LLM 固有的限制，因此可能無法透過更精密的架構、更多資料或更多人類回饋來補救。因此，僅依賴 LLM 來做出複雜、高風險的決策是有問題的。在此，我們提出一個混合集體智慧系統，透過利用人類經驗和 LLM 處理的龐大資訊的互補優勢來降低這些風險。我們將方法應用於開放式醫療診斷，結合醫師做出的 40,762 個鑑別診斷，以及五個最先進的 LLM 在 2,133 個醫療案例中的診斷。我們證明，醫師和 LLM 的混合集體優於單一醫師和醫師集體，以及單一 LLM 和 LLM 整合。這個結果適用於各種醫療專科和專業經驗，並且可以歸因於人類和 LLM 的互補貢獻，導致不同類型的錯誤。我們的做法突顯了集體人類和機器智慧在改善醫療診斷等複雜、開放式領域中的準確性的潛力。
 
 ##### **Deep Imbalanced Regression to Estimate Vascular Age from PPG Data: a Novel Digital Biomarker for Cardiovascular Health**
-2406.14953v1 by Guangkun Nie, Qinghao Zhao, Gongzheng Tang, Jun Li, Shenda Hong
+2406.14953v2 by Guangkun Nie, Qinghao Zhao, Gongzheng Tang, Jun Li, Shenda Hong
 
 Photoplethysmography (PPG) is emerging as a crucial tool for monitoring human
 hemodynamics, with recent studies highlighting its potential in assessing
@@ -1438,7 +1438,7 @@ disease, and heart failure. Our results indicate that the predicted vascular
 age has significant potential to reflect an individual's cardiovascular health
 status. Our code will be available at https://github.com/Ngk03/AI-vascular-age.
 
-摘要：光電容積描記法 (PPG) 正逐漸成為監測人體血流動力學的一項重要工具，最近的研究強調其透過深度學習評估血管老化的潛力。然而，真實世界的年齡分佈通常不平衡，對深度學習模型構成重大挑戰。在本文中，我們引入一個新穎、簡單且有效的損失函數，稱為 Dist Loss，以解決深度不平衡迴歸任務。我們在龐大的英國生物銀行資料集 (n=502,389) 上訓練了一個一維卷積神經網路 (Net1D)，結合 Dist Loss 從 PPG 訊號估計血管年齡，並驗證其在表徵心血管健康的效能。該模型的效能經過 40% 的留出測試集驗證，獲得了最先進的結果，特別是在樣本量小的區域。此外，我們根據預測的血管年齡和實際年齡之間的差異將人群分為三個子群：小於 -10 歲、介於 -10 到 10 歲之間，以及大於 10 歲。我們分析了預測的血管年齡與後續長達 10 年的數個心血管事件之間的關係，包括死亡、冠心病和心衰竭。我們的結果表明，預測的血管年齡具有反映個人心血管健康狀況的顯著潛力。我們的程式碼將在 https://github.com/Ngk03/AI-vascular-age 提供。
+摘要：光電容積描記法 (PPG) 正成為監控人類血流動力學的關鍵工具，最近的研究強調了其通過深度學習評估血管老化的潛力。然而，現實世界的年齡分佈通常不平衡，對深度學習模型構成重大挑戰。在本文中，我們引入了一個新穎、簡單且有效的損失函數，稱為 Dist Loss，以解決深度不平衡迴歸任務。我們在廣泛的英國生物銀行數據集 (n=502,389) 上訓練了一個一維卷積神經網路 (Net1D)，結合 Dist Loss 從 PPG 信號估計血管年齡，並驗證其在表徵心血管健康方面的功效。該模型的性能在 40% 的留出測試集上得到驗證，取得了最先進的結果，特別是在樣本量小的區域。此外，我們根據預測血管年齡和實際年齡之間的差異將人群分為三組：小於 -10 歲、在 -10 歲到 10 歲之間以及大於 10 歲。我們分析了預測血管年齡與幾種心血管事件之間的關係，包括死亡、冠心病和心力衰竭，隨訪期長達 10 年。我們的結果表明，預測的血管年齡具有反映個人心血管健康狀況的巨大潛力。我們的代碼將在 https://github.com/Ngk03/AI-vascular-age 上提供。
 
 ##### **Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI**
 2406.14925v1 by Karyna Isaieva, Justine Leclère, Guillaume Paillart, Guillaume Drouot, Jacques Felblinger, Xavier Dubernard, Pierre-André Vuissoz
@@ -1496,7 +1496,7 @@ automation in routine diagnostics and beyond.
 摘要：儘管先前的研究已經證明 AI 在影像資料中診斷疾病的潛力，但臨床實務仍落後許多。這是部分原因在於 AI 模型需要大量範例進行訓練，而這些範例僅適用於常見疾病。然而，在臨床現實中，只有少數疾病是常見的，而大多數疾病較不常見（長尾分佈）。目前的 AI 模型會忽略或錯誤分類這些疾病。我們提出一個深度異常偵測方法，它只需要來自常見疾病的訓練資料，就能偵測所有較不常見的疾病。我們收集了兩個大型的胃腸道切片真實世界資料集，它們是此問題的典型範例。在此，最常見的十種發現約佔病例的 90%，而其餘 10% 則包含 56 種疾病實體，包括許多癌症。1700 萬張來自 5,423 個病例的組織學影像用於訓練和評估。我們的最佳效能模型在沒有針對這些疾病進行任何特定訓練的情況下，可靠地偵測到廣泛的罕見（「異常」）病理，其 AUROC 分別為 95.0%（胃）和 91.0%（結腸），並廣泛應用於掃描儀和醫院。依據設計，所提出的異常偵測預計可以偵測胃腸道切片診斷尾端的任何病理性改變，包括罕見的原發性或轉移性癌症。這項研究建立了第一個有效的 AI 異常偵測臨床應用，它可以在組織病理學中標記異常病例、促進病例優先順序、減少漏診並提升 AI 模型的整體安全性，從而推動 AI 在常規診斷及其他領域的採用和自動化。
 
 ##### **ACR: A Benchmark for Automatic Cohort Retrieval**
-2406.14780v1 by Dung Ngoc Thai, Victor Ardulov, Jose Ulises Mena, Simran Tiwari, Gleb Erofeev, Ramy Eskander, Karim Tarabishy, Ravi B Parikh, Wael Salloum
+2406.14780v2 by Dung Ngoc Thai, Victor Ardulov, Jose Ulises Mena, Simran Tiwari, Gleb Erofeev, Ramy Eskander, Karim Tarabishy, Ravi B Parikh, Wael Salloum
 
 Identifying patient cohorts is fundamental to numerous healthcare tasks,
 including clinical trial recruitment and retrospective studies. Current cohort
@@ -1514,7 +1514,7 @@ benchmark task, a query dataset, an EMR dataset, and an evaluation framework.
 Our findings underscore the necessity for efficient, high-quality ACR systems
 capable of longitudinal reasoning across extensive patient databases.
 
-摘要：識別患者群體是許多醫療保健任務的基礎，包括臨床試驗招募和回顧性研究。當前醫療保健組織中的群體檢索方法依賴於結構化數據的自動化查詢，並結合人工整理，這既耗時又費力，而且常常會產生低品質的結果。大型語言模型 (LLM) 和資訊檢索 (IR) 的最新進展為革新這些系統提供了有前景的途徑。主要的挑戰包括管理廣泛的資格標準，以及處理非結構化電子病歷 (EMR) 的縱向性質，同時確保解決方案在現實世界的應用中仍然具有成本效益。本文介紹了一項新任務，自動群體檢索 (ACR)，並評估了 LLM 和商業、特定領域的神經符號方法的效能。我們提供了一個基準任務、一個查詢資料集、一個 EMR 資料集和一個評估架構。我們的研究結果強調了對有效、高品質的 ACR 系統的必要性，這些系統能夠跨廣泛的患者資料庫進行縱向推理。
+摘要：識別患者群組是許多醫療保健任務的基礎，包括臨床試驗招募和回顧性研究。當前醫療保健組織中的群組檢索方法依賴於結構化資料的自動化查詢，並結合人工整理，這既耗時又費力，而且經常產生低品質的結果。大型語言模型 (LLM) 和資訊檢索 (IR) 的最新進展為革新這些系統提供了有希望的途徑。主要的挑戰包括管理廣泛的資格標準，以及處理非結構化電子病歷 (EMR) 的縱向性質，同時確保解決方案對實際應用具有成本效益。本文介紹了一項新任務，自動群組檢索 (ACR)，並評估了 LLM 和商業化、特定領域的神經符號方法的效能。我們提供基準任務、查詢資料集、EMR 資料集和評估架構。我們的發現強調了對有效、高品質的 ACR 系統的需求，這些系統能夠跨廣泛的患者資料庫進行縱向推理。
 
 ##### **A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**
 2406.14757v1 by Syed I. Munzir, Daniel B. Hier, Chelsea Oommen, Michael D. Carrithers

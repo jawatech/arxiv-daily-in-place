@@ -14,7 +14,7 @@
 |**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053v1](http://arxiv.org/abs/2406.20053v1)|null|
 |**2024-06-28**|**Understanding and Mitigating Language Confusion in LLMs**|Kelly Marchisio et.al.|[2406.20052v1](http://arxiv.org/abs/2406.20052v1)|null|
 |**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044v1](http://arxiv.org/abs/2406.20044v1)|[link](https://github.com/yongchaohuang/eparvi)|
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v3](http://arxiv.org/abs/2406.20041v3)|null|
 |**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038v1](http://arxiv.org/abs/2406.20038v1)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030v1](http://arxiv.org/abs/2406.20030v1)|null|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015v1](http://arxiv.org/abs/2406.20015v1)|[link](https://github.com/toolbehonest/toolbehonest)|
@@ -378,7 +378,7 @@ modelling, and beyond.
 摘要：基於靜電學和牛頓力學原理，提出了一種新的基於粒子的抽樣和近似推論方法，並提供了理論依據、演算法設計和實驗驗證。此方法模擬了一個相互作用粒子系統 (IPS)，其中粒子（即自由移動的負電荷和與目標分佈成正比的空間固定正電荷）透過由泊松方程式描述的電場產生的吸引和排斥相互作用。IPS 會演化到一個穩態，其中負電荷的分佈符合目標分佈。這種受物理啟發的方法提供了確定性的、無梯度的抽樣和推論，在推論複雜密度、貝氏邏輯迴歸和動態系統識別的基準任務中，達到了與其他基於粒子和 MCMC 的方法相當的效能。提供了一個離散時間、離散空間的演算法設計，可以輕鬆擴展到連續時間和空間，用於貝氏推論、生成模型等概率機器學習場景中發生的更一般的推論問題。
 
 ##### **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**
-2406.20041v2 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+2406.20041v3 by Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
 
 Autonomous agents driven by Large Language Models (LLMs) offer enormous
 potential for automation. Early proof of this technology can be found in
@@ -400,7 +400,7 @@ reliability in industrial applications and presents techniques to ensure a
 scalable, flexible, and collaborative workflow for multiple autonomous agents
 working together towards solving tasks.
 
-摘要：由大型語言模型 (LLM) 驅動的自主代理提供了巨大的自動化潛力。這項技術的早期證明可以在代理解決複雜任務、與外部系統互動以擴增其知識和觸發動作的各種示範中找到。特別是，涉及多個代理以協作方式解決複雜任務的工作流程說明了它們在不太嚴格和定義不太明確的環境中運作的能力。因此，多代理方法具有很大的潛力，可用作許多工業應用中的主幹，從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要一個多步驟的方法，其中包括一個定義明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理或一組代理執行。在這項工作中，我們專注於設計一個靈活的代理工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在工業應用中提供了可靠性，並提出了技術來確保多個自主代理共同努力解決任務的可擴充性、靈活性及協作工作流程。
+摘要：由大型語言模型 (LLM) 驅動的自主代理人提供了巨大的自動化潛力。此技術的早期證明可以在代理人解決複雜任務、與外部系統互動以擴充其知識，以及觸發動作的各種演示中找到。特別是，涉及多個代理人以協作方式解決複雜任務的工作流程，說明了它們在較不嚴格和定義較不完善的環境中運作的能力。因此，多代理人方法極有可能成為許多產業應用中的骨幹，範圍從複雜的知識檢索系統到下一代機器人流程自動化。鑑於當前一代 LLM 中的推理能力，複雜的流程需要多步驟的方法，其中包括明確且模組化的任務計畫。根據複雜程度，這些任務可以由單一代理人或一群代理人執行。在這項工作中，我們專注於設計一個靈活的代理人工程架構，仔細注意計畫和執行，能夠處理跨越各種領域的複雜用例應用。所提出的架構在產業應用中提供了可靠性，並提出了技術，以確保多個自主代理人共同努力解決任務的可擴充性、靈活性，以及協作工作流程。
 
 ##### **BioMNER: A Dataset for Biomedical Method Entity Recognition**
 2406.20038v1 by Chen Tang, Bohao Yang, Kun Zhao, Bo Lv, Chenghao Xiao, Frank Guerin, Chenghua Lin

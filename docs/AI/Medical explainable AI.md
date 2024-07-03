@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
@@ -101,9 +102,34 @@
 |**2023-01-17**|**Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**|Dangxing Chen et.al.|[2301.07060v1](http://arxiv.org/abs/2301.07060v1)|null|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-05**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v3](http://arxiv.org/abs/2301.02080v3)|null|
-|**2022-12-17**|**Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**|Isil Guzey et.al.|[2212.08821v1](http://arxiv.org/abs/2212.08821v1)|null|
 
 #### Abstracts
+##### **Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**
+2407.00167v1 by Sai Krishna Revanth Vuruma, Dezhi Wu, Saborny Sen Gupta, Lucas Aust, Valerie Lookingbill, Wyatt Bellamy, Yang Ren, Erin Kasson, Li-Shiun Chen, Patricia Cavazos-Rehg, Dian Hu, Ming Huang
+
+In recent years, the United States has witnessed a significant surge in the
+popularity of vaping or e-cigarette use, leading to a notable rise in cases of
+e-cigarette and vaping use-associated lung injury (EVALI) that caused
+hospitalizations and fatalities during the EVALI outbreak in 2019, highlighting
+the urgency to comprehend vaping behaviors and develop effective strategies for
+cessation. Due to the ubiquity of social media platforms, over 4.7 billion
+users worldwide use them for connectivity, communications, news, and
+entertainment with a significant portion of the discourse related to health,
+thereby establishing social media data as an invaluable organic data resource
+for public health research. In this study, we extracted a sample dataset from
+one vaping sub-community on Reddit to analyze users' quit-vaping intentions.
+Leveraging OpenAI's latest large language model GPT-4 for sentence-level quit
+vaping intention detection, this study compares the outcomes of this model
+against layman and clinical expert annotations. Using different prompting
+strategies such as zero-shot, one-shot, few-shot and chain-of-thought
+prompting, we developed 8 prompts with varying levels of detail to explain the
+task to GPT-4 and also evaluated the performance of the strategies against each
+other. These preliminary findings emphasize the potential of GPT-4 in social
+media data analysis, especially in identifying users' subtle intentions that
+may elude human detection.
+
+摘要：近年來，美國見證了電子煙或電子香菸使用率大幅激增，導致電子煙和電子煙使用相關肺損傷 (EVALI) 病例顯著增加，在 2019 年 EVALI 爆發期間造成住院和死亡，凸顯了理解電子煙行為和制定有效戒菸策略的迫切性。由於社群媒體平台的普及，全球超過 47 億使用者使用它們進行連結、溝通、新聞和娛樂，其中很大一部分與健康相關，因此將社群媒體資料建立為公共衛生研究中無價的有機資料資源。在本研究中，我們從 Reddit 上一個電子煙子社群中提取一個範例資料集，以分析使用者的戒電子煙意圖。利用 OpenAI 最新的大型語言模型 GPT-4 進行句子層級的戒電子煙意圖偵測，本研究比較了此模型的結果與外行人和臨床專家註解。使用不同的提示策略，例如零次學習、一次學習、少次學習和思考鏈提示，我們開發了 8 個提示，詳細程度不同，向 GPT-4 解釋任務，並評估這些策略彼此之間的效能。這些初步發現強調了 GPT-4 在社群媒體資料分析中的潛力，特別是在識別人類偵測可能無法察覺的使用者微妙意圖方面。
+
 ##### **Towards Compositional Interpretability for XAI**
 2406.17583v1 by Sean Tull, Robin Lorenz, Stephen Clark, Ilyas Khan, Bob Coecke
 
@@ -2526,29 +2552,4 @@ meaningful and useful way. Finally, we sketch a procedure to test whether
 semantic match has been achieved.
 
 摘要：最近通過認證的人工智慧（AI）醫療保健工具數量激增，讓採用此技術的辯論再度浮上檯面。其中一個辯論主題是可解釋人工智慧（XAI）及其讓 AI 裝置更透明且值得信賴的承諾。醫療 AI 領域中的一些積極發言者表達了對可解釋 AI 技術，尤其是特徵歸因方法的可靠性疑慮，質疑其在準則和標準中的使用和納入。儘管有合理的疑慮，我們主張對事後局部可解釋性方法的可行性提出批評，等於連同洗澡水一起把嬰兒倒掉，因為這是在對影像資料特有的問題進行概化。我們從將問題描述為解釋與人類理解之間缺乏語意匹配開始。為了瞭解何時可以可靠地使用特徵重要性，我們區分了低階和高階特徵的特徵重要性。我們主張，對於低階特徵具有明確語意的資料類型，例如電子健康記錄（EHR）等表格資料，可以獲得語意匹配，因此仍然可以在有意義且有用的方式中採用特徵歸因方法。最後，我們概述了一個程序，以測試是否已達成語意匹配。
-
-##### **Context-dependent Explainability and Contestability for Trustworthy Medical Artificial Intelligence: Misclassification Identification of Morbidity Recognition Models in Preterm Infants**
-2212.08821v1 by Isil Guzey, Ozlem Ucar, Nukhet Aladag Ciftdemir, Betul Acunas
-
-Although machine learning (ML) models of AI achieve high performances in
-medicine, they are not free of errors. Empowering clinicians to identify
-incorrect model recommendations is crucial for engendering trust in medical AI.
-Explainable AI (XAI) aims to address this requirement by clarifying AI
-reasoning to support the end users. Several studies on biomedical imaging
-achieved promising results recently. Nevertheless, solutions for models using
-tabular data are not sufficient to meet the requirements of clinicians yet.
-This paper proposes a methodology to support clinicians in identifying failures
-of ML models trained with tabular data. We built our methodology on three main
-pillars: decomposing the feature set by leveraging clinical context latent
-space, assessing the clinical association of global explanations, and Latent
-Space Similarity (LSS) based local explanations. We demonstrated our
-methodology on ML-based recognition of preterm infant morbidities caused by
-infection. The risk of mortality, lifelong disability, and antibiotic
-resistance due to model failures was an open research question in this domain.
-We achieved to identify misclassification cases of two models with our
-approach. By contextualizing local explanations, our solution provides
-clinicians with actionable insights to support their autonomy for informed
-final decisions.
-
-摘要：儘管人工智慧 (AI) 的機器學習 (ML) 模型在醫學領域中表現優異，但它們並非沒有錯誤。讓臨床醫生能夠辨識不正確的模型建議，對於建立對醫療 AI 的信任至關重要。可解釋 AI (XAI) 旨在透過釐清 AI 推理來滿足此項需求，以支援最終使用者。最近針對生物醫學影像進行的幾項研究獲得了令人滿意的結果。然而，使用表格資料的模型解決方案還不足以滿足臨床醫生的需求。本文提出了一種方法，協助臨床醫生辨識使用表格資料訓練的 ML 模型的失敗。我們的方法建立在三個主要支柱上：利用臨床背景潛在空間分解特徵集、評估整體解釋的臨床關聯性，以及基於潛在空間相似性 (LSS) 的局部解釋。我們在 ML 基於感染所導致的早產兒發病率識別上展示了我們的這項方法。由於模型失敗而產生的死亡風險、終身殘疾和抗生素抗藥性，是此領域中一個公開的研究問題。我們的方法成功辨識出兩個模型的錯誤分類案例。我們的解決方案透過將局部解釋脈絡化，為臨床醫生提供可行的見解，以支援他們自主做出明智的最終決定。
 

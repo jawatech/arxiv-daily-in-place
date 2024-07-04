@@ -10,7 +10,7 @@
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477v1](http://arxiv.org/abs/2407.02477v1)|null|
 |**2024-07-02**|**Free Energy in a Circumplex Model of Emotion**|Candice Pattisapu et.al.|[2407.02474v1](http://arxiv.org/abs/2407.02474v1)|null|
 |**2024-07-02**|**ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**|Chan Young Park et.al.|[2407.02472v1](http://arxiv.org/abs/2407.02472v1)|[link](https://github.com/stellali7/valueScope)|
-|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v1](http://arxiv.org/abs/2407.02466v1)|null|
+|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v2](http://arxiv.org/abs/2407.02466v2)|null|
 |**2024-07-02**|**Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**|Kheir Eddine Daouadi et.al.|[2407.02448v1](http://arxiv.org/abs/2407.02448v1)|null|
 |**2024-07-02**|**Predicting vs. Acting: A Trade-off Between World Modeling & Agent Modeling**|Margaret Li et.al.|[2407.02446v1](http://arxiv.org/abs/2407.02446v1)|null|
 |**2024-07-02**|**Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates**|Dorothea MacPhail et.al.|[2407.02432v1](http://arxiv.org/abs/2407.02432v1)|null|
@@ -39,7 +39,7 @@
 |**2024-07-02**|**Strategic Demand-Planning in Wireless Networks: Can Generative-AI Save Spectrum and Energy?**|Berk Çiloğlu et.al.|[2407.02292v1](http://arxiv.org/abs/2407.02292v1)|null|
 |**2024-07-02**|**Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2407.02286v1](http://arxiv.org/abs/2407.02286v1)|null|
 |**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284v1](http://arxiv.org/abs/2407.02284v1)|null|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v1](http://arxiv.org/abs/2407.02280v1)|[link](https://github.com/hustxyy/fedia)|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v2](http://arxiv.org/abs/2407.02280v2)|[link](https://github.com/hustxyy/fedia)|
 |**2024-07-02**|**Learning Paradigms and Modelling Methodologies for Digital Twins in Process Industry**|Michael Mayr et.al.|[2407.02275v1](http://arxiv.org/abs/2407.02275v1)|null|
 |**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273v1](http://arxiv.org/abs/2407.02273v1)|null|
 |**2024-07-02**|**Footprints of Data in a Classifier Model: The Privacy Issues and Their Mitigation through Data Obfuscation**|Payel Sadhukhan et.al.|[2407.02268v1](http://arxiv.org/abs/2407.02268v1)|null|
@@ -89,7 +89,7 @@
 |**2024-07-02**|**A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding**|Jinghui Lu et.al.|[2407.01976v1](http://arxiv.org/abs/2407.01976v1)|null|
 |**2024-07-02**|**MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation**|Zijie J. Wang et.al.|[2407.01972v1](http://arxiv.org/abs/2407.01972v1)|[link](https://github.com/poloclub/mememo)|
 |**2024-07-02**|**AdaCQR: Enhancing Query Reformulation for Conversational Search via Sparse and Dense Retrieval Alignment**|Yilong Lai et.al.|[2407.01965v1](http://arxiv.org/abs/2407.01965v1)|[link](https://github.com/init0xyz/AdaCQR)|
-|**2024-07-02**|**Enabling Discriminative Reasoning in Large Language Models for Legal Judgment Prediction**|Chenlong Deng et.al.|[2407.01964v1](http://arxiv.org/abs/2407.01964v1)|null|
+|**2024-07-02**|**Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**|Chenlong Deng et.al.|[2407.01964v2](http://arxiv.org/abs/2407.01964v2)|null|
 |**2024-07-02**|**S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models**|Parsa Kavehzadeh et.al.|[2407.01955v1](http://arxiv.org/abs/2407.01955v1)|null|
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953v1](http://arxiv.org/abs/2407.01953v1)|null|
 |**2024-07-02**|**LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance**|Wenhao Yu et.al.|[2407.01950v1](http://arxiv.org/abs/2407.01950v1)|null|
@@ -101,7 +101,7 @@
 |**2024-07-02**|**A Method to Facilitate Membership Inference Attacks in Deep Learning Models**|Zitao Chen et.al.|[2407.01919v1](http://arxiv.org/abs/2407.01919v1)|null|
 |**2024-07-02**|**Sequential Manipulation Against Rank Aggregation: Theory and Algorithm**|Ke Ma et.al.|[2407.01916v1](http://arxiv.org/abs/2407.01916v1)|null|
 |**2024-07-02**|**Investigating the Effects of Large-Scale Pseudo-Stereo Data and Different Speech Foundation Model on Dialogue Generative Spoken Language Model**|Yu-Kuan Fu et.al.|[2407.01911v1](http://arxiv.org/abs/2407.01911v1)|null|
-|**2024-07-02**|**MG-Verilog: Multi-grained Dataset Towards Enhanced LLM-assisted Verilog Generation**|Yongan Zhang et.al.|[2407.01910v1](http://arxiv.org/abs/2407.01910v1)|null|
+|**2024-07-02**|**MG-Verilog: Multi-grained Dataset Towards Enhanced LLM-assisted Verilog Generation**|Yongan Zhang et.al.|[2407.01910v2](http://arxiv.org/abs/2407.01910v2)|null|
 
 #### Abstracts
 ##### **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**
@@ -284,7 +284,7 @@ theory and application of social norm studies in digital spaces.
 摘要：本研究介紹 ValueScope，一個利用語言模型來量化網路社群中的社會規範與價值觀的架構，其基礎在於規範結構的社會科學觀點。我們使用 ValueScope 來解剖並分析 13 個 Reddit 社群中的語言和風格表達，這些社群分類在性別、政治、科學和金融之下。我們的分析提供了一個量化的基礎，顯示即使是密切相關的社群也展現出非常多樣的規範。這種多樣性支持了現有的理論，並為了解社群互動增加了新的面向——社群偏好。ValueScope 不僅描繪了社群間不同的社會規範，也有效地追蹤它們的演變和重大外部事件的影響，例如美國總統選舉和新次社群的出現。因此，這個架構突顯了社會規範在形塑網路互動中的關鍵角色，在數位空間中社會規範研究的理論和應用上都呈現出實質的進展。
 
 ##### **PWM: Policy Learning with Large World Models**
-2407.02466v1 by Ignat Georgiev, Varun Giridhar, Nicklas Hansen, Animesh Garg
+2407.02466v2 by Ignat Georgiev, Varun Giridhar, Nicklas Hansen, Animesh Garg
 
 Reinforcement Learning (RL) has achieved impressive results on complex tasks
 but struggles in multi-task settings with different embodiments. World models
@@ -297,9 +297,9 @@ gradient policy learning, PWM effectively solves tasks with up to 152 action
 dimensions and outperforms methods using ground-truth dynamics. Additionally,
 PWM scales to an 80-task setting, achieving up to 27% higher rewards than
 existing baselines without the need for expensive online planning.
-Visualizations and code available at https://policy-world-model.github.io
+Visualizations and code available at https://www.imgeorgiev.com/pwm
 
-摘要：強化學習 (RL) 在複雜任務上已取得令人印象深刻的成果，但對於具有不同具體實例的多任務設定則有困難。世界模型透過學習環境模擬來提供可擴充性，但它們通常依賴於低效率的無梯度最佳化方法。我們引入了大型世界模型 (PWM) 的策略學習，一種新穎的基於模型的 RL 演算法，它從大型多任務世界模型中學習連續控制策略。透過在離線資料上預先訓練世界模型，並將其用於一階梯度策略學習，PWM 有效地解決了具有高達 152 個動作維度的任務，並優於使用真實動態的方法。此外，PWM 可擴充到 80 個任務設定，比現有的基線高出 27% 的獎勵，而無需昂貴的線上規劃。視覺化和程式碼可於 https://policy-world-model.github.io 取得
+摘要：強化學習 (RL) 已在複雜任務中取得令人印象深刻的成果，但卻在具有不同具體實例的多任務設定中掙扎。世界模型透過學習環境模擬來提供可擴充性，但它們通常依賴於低效的無梯度最佳化方法。我們引入了大型世界模型 (PWM) 的策略學習，這是一種新穎的基於模型的 RL 演算法，可從大型多任務世界模型學習連續控制策略。透過在離線資料上預先訓練世界模型並將其用於一階梯度策略學習，PWM 有效地解決了具有多達 152 個動作維度的任務，並且優於使用真實動態的方法。此外，PWM 可擴充到 80 個任務設定，與現有基準相比，無需昂貴的線上規劃，即可獲得高達 27% 的額外獎勵。可於 https://www.imgeorgiev.com/pwm 取得視覺化和程式碼
 
 ##### **Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**
 2407.02448v1 by Kheir Eddine Daouadi, Yaakoub Boualleg, Kheir Eddine Haouaouchi
@@ -939,7 +939,7 @@ the impact of each subtask on the extracted network.
 摘要：Renard（從敘事文件中萃取關係）是一個 Python 函式庫，讓使用者定義自訂的自然語言處理 (NLP) 管線，從敘事文本中萃取角色網絡。與現有的少數工具相反，Renard 可以萃取動態網絡，以及更常見的靜態網絡。Renard 管線具有模組化：使用者可以選擇每項 NLP 子任務的實作，以萃取角色網絡。這讓使用者可以針對特定類型的文本專門化管線，並研究每個子任務對萃取網絡的影響。
 
 ##### **FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**
-2407.02280v1 by Yangyang Xiang, Nannan Wu, Li Yu, Xin Yang, Kwang-Ting Cheng, Zengqiang Yan
+2407.02280v2 by Yangyang Xiang, Nannan Wu, Li Yu, Xin Yang, Kwang-Ting Cheng, Zengqiang Yan
 
 Federated learning has emerged as a compelling paradigm for medical image
 segmentation, particularly in light of increasing privacy concerns. However,
@@ -950,16 +950,16 @@ practice: incomplete annotations. Such annotations can introduce incorrectly
 labeled pixels, potentially undermining the performance of neural networks in
 supervised learning. To tackle this issue, we introduce a novel solution, named
 FedIA. Our insight is to conceptualize incomplete annotations as noisy data
-(\textit{i.e.}, low-quality data), with a focus on mitigating their adverse
-effects. We begin by evaluating the completeness of annotations at the client
-level using a designed indicator. Subsequently, we enhance the influence of
-clients with more comprehensive annotations and implement corrections for
-incomplete ones, thereby ensuring that models are trained on accurate data. Our
-method's effectiveness is validated through its superior performance on two
-extensively used medical image segmentation datasets, outperforming existing
-solutions. The code is available at https://github.com/HUSTxyy/FedIA.
+(i.e., low-quality data), with a focus on mitigating their adverse effects. We
+begin by evaluating the completeness of annotations at the client level using a
+designed indicator. Subsequently, we enhance the influence of clients with more
+comprehensive annotations and implement corrections for incomplete ones,
+thereby ensuring that models are trained on accurate data. Our method's
+effectiveness is validated through its superior performance on two extensively
+used medical image segmentation datasets, outperforming existing solutions. The
+code is available at https://github.com/HUSTxyy/FedIA.
 
-摘要：联邦学习已成为医学影像分割的一个引人注目的范例，尤其是在隐私问题日益严重的背景下。然而，现有的大部分研究都依赖于相对严格的假设，即跨客户端注释的一致性和完整性。与此相反，本文重点介绍了医学实践中普遍存在的挑战：不完整注释。此类注释可能会引入错误标记的像素，从而可能损害神经网络在监督学习中的性能。为了解决这个问题，我们引入了一种名为 FedIA 的新颖解决方案。我们的见解是将不完整注释概念化为噪声数据（即低质量数据），重点在于减轻其不利影响。我们首先使用设计的指示符评估客户端级别的注释的完整性。随后，我们增强了具有更全面注释的客户端的影响力，并对不完整的注释实施了更正，从而确保模型在准确的数据上进行训练。我们的方法的有效性通过其在两个广泛使用的医学影像分割数据集上的卓越性能得到验证，优于现有的解决方案。代码可在 https://github.com/HUSTxyy/FedIA 获得。
+摘要：联邦学习已成为医学图像分割中一种引人注目的范例，尤其是在隐私问题日益受到关注的情况下。然而，现有的大多数研究都依赖于关于跨客户端注释一致性和完整性的相对严格的假设。与此相反，本文重点介绍了医学实践中普遍存在的挑战：不完整的注释。此类注释可能会引入错误标记的像素，从而可能损害神经网络在监督学习中的性能。为了解决这个问题，我们引入了一种名为 FedIA 的新颖解决方案。我们的见解是将不完整的注释概念化为噪声数据（即低质量数据），重点在于减轻其不利影响。我们首先使用设计的指标评估客户端级别的注释完整性。随后，我们增强了具有更全面注释的客户端的影响力，并对不完整的注释实施了更正，从而确保模型在准确的数据上进行训练。我们方法的有效性通过其在两个广泛使用的医学图像分割数据集上的卓越性能得到验证，优于现有的解决方案。代码可在 https://github.com/HUSTxyy/FedIA 获得。
 
 ##### **Learning Paradigms and Modelling Methodologies for Digital Twins in Process Industry**
 2407.02275v1 by Michael Mayr, Georgios C. Chasparis, Josef Küng
@@ -2121,8 +2121,8 @@ conversational query reformulation.
 
 摘要：對話式查詢改寫 (CQR) 在解決對話式搜尋的挑戰方面已取得顯著進展，特別是那些源自潛在使用者意圖和對歷史脈絡需求的挑戰。最近的研究旨在透過對齊提升 CQR 的效能。然而，它們是針對一個特定的檢索系統所設計，這可能會導致不佳的概括化。為了克服這個限制，我們提出了一個新的架構 AdaCQR。透過將改寫模型與基於術語和基於語意的檢索系統對齊，AdaCQR 透過雙階段訓練策略，增強了資訊查詢在不同檢索環境中的概括性。我們還開發了兩種有效的方法，用於獲取優異的標籤和多樣化的輸入候選，提升了這個架構的效率和穩健性。在 TopiOCQA 和 QReCC 資料集上的實驗評估顯示，AdaCQR 明顯優於現有方法，在對話式查詢改寫中提供了量化和質化的改進。
 
-##### **Enabling Discriminative Reasoning in Large Language Models for Legal Judgment Prediction**
-2407.01964v1 by Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou
+##### **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**
+2407.01964v2 by Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou
 
 Legal judgment prediction is essential for enhancing judicial efficiency. In
 this work, we identify that existing large language models (LLMs) underperform
@@ -2138,7 +2138,7 @@ widely-used datasets demonstrate the superior performance of our framework in
 legal judgment prediction, particularly when dealing with complex and confusing
 charges.
 
-摘要：法律判決預測對於提升司法效率至關重要。在本文中，我們發現現有的大型語言模型 (LLM) 在此領域表現不佳，原因在於難以理解案件的複雜性以及區分類似的指控。為了讓 LLM 適應有效的法律判決預測，我們引入了受人類司法推理啟發的詢問-區分-預測 (ADAPT) 推理框架。ADAPT 涉及分解案件事實、區分潛在指控以及預測最終判決。我們進一步透過微調多任務合成軌跡來增強 LLM，以提升在 ADAPT 框架下的法律判決預測準確度和效率。在兩個廣泛使用的資料集上進行的廣泛實驗證明了我們框架在法律判決預測中的卓越效能，特別是在處理複雜且令人困惑的指控時。
+摘要：法律判決預測對於提升司法效率至關重要。在這項工作中，我們發現現有的大型語言模型 (LLM) 在這個領域表現不佳，原因在於難以理解案件複雜性以及區分類似的指控。為了讓 LLM 適應有效的法律判決預測，我們引入了受人類司法推理啟發的詢問-區分-預測 (ADAPT) 推理架構。ADAPT 涉及分解案件事實、區分潛在指控以及預測最終判決。我們進一步透過微調多任務合成軌跡來增強 LLM，以在我們的 ADAPT 架構下提高法律判決預測的準確性和效率。在兩個廣泛使用的資料集上進行的廣泛實驗證明了我們的架構在法律判決預測中的優異效能，特別是在處理複雜且令人困惑的指控時。
 
 ##### **S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models**
 2407.01955v1 by Parsa Kavehzadeh, Mohammadreza Pourreza, Mojtaba Valipour, Tinashu Zhu, Haoli Bai, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh
@@ -2395,7 +2395,7 @@ dialogue generation.
 摘要：最近在口語對話模型的努力旨在合成口語對話，而無需直接轉錄，從而保留語音中固有的豐富非文字資訊。然而，當講者同時說話時，這種方法面臨挑戰，需要立體聲對話資料，並在不同的頻道上錄製講者，這是一個非常稀缺的資源。為了解決這個問題，我們開發了一個創新的管道，能夠將單聲道對話資料轉換為偽立體聲資料。這將我們的訓練資料集從僅有的 2,000 小時擴展到令人印象深刻的 17,600 小時，顯著豐富了可用訓練範例的多樣性和品質。納入這個偽立體聲資料已被證明可以有效改善口語對話語言模型的效能。此外，我們探討了將不同語音基礎模型的離散單元用於口語對話生成。
 
 ##### **MG-Verilog: Multi-grained Dataset Towards Enhanced LLM-assisted Verilog Generation**
-2407.01910v1 by Yongan Zhang, Zhongzhi Yu, Yonggan Fu, Cheng Wan, Yingyan, Lin
+2407.01910v2 by Yongan Zhang, Zhongzhi Yu, Yonggan Fu, Cheng Wan, Yingyan Celine Lin
 
 Large Language Models (LLMs) have recently shown promise in streamlining
 hardware design processes by encapsulating vast amounts of domain-specific
@@ -2420,5 +2420,5 @@ leverage the diverse levels of detail provided by the dataset. Extensive
 experiments demonstrate that the proposed dataset and fine-tuning scheme
 consistently improve the performance of LLMs in hardware design tasks.
 
-摘要：<paragraph>大型語言模型 (LLM) 最近在簡化硬體設計流程方面展現了希望，它們封裝了大量特定領域的資料。此外，它們允許使用者透過自然語言指令與設計流程互動，進而讓開發人員更容易存取硬體設計。然而，要在硬體設計中有效利用 LLM，需要在推理（例如透過情境學習）、微調或預訓練期間提供特定領域的資料。不幸的是，現有的公開硬體資料集通常在大小、複雜度或細節上受到限制，這會阻礙 LLM 在硬體設計任務中的效果。為了解決此問題，我們首先提出了一組建立高品質硬體資料集的標準，這些資料集可以有效提升 LLM 輔助的硬體設計。根據這些標準，我們提出了一個多粒度 Verilog (MG-Verilog) 資料集，其中包含各種細節層級的說明和對應的程式碼範例。為了讓更廣泛的硬體設計社群受益，我們開發了一個開放原始碼基礎架構，讓使用者可以輕鬆存取、整合和延伸資料集以滿足特定專案需求。此外，為了充分發揮 MG-Verilog 資料集的潛力（其複雜度和細節程度不一），我們引入了一種平衡的微調架構。這個架構作為一個獨特的用例，用於利用資料集提供的不同細節層級。廣泛的實驗證明，所提出的資料集和微調架構持續提升了 LLM 在硬體設計任務中的效能。</paragraph>
+摘要：大型語言模型 (LLM) 最近已展現出簡化硬體設計流程的潛力，方法是封裝大量特定於領域的資料。此外，它們允許使用者透過自然語言指令與設計流程互動，進而讓硬體設計更易於開發人員使用。然而，在硬體設計中有效利用 LLM 需要在推論（例如，透過情境學習）、微調或預訓練期間提供特定於領域的資料。不幸的是，現有的公開硬體資料集在大小、複雜度或細節方面通常有限，這會阻礙 LLM 在硬體設計任務中的效能。為了解決這個問題，我們首先提出了一組建立高品質硬體資料集的準則，這些資料集可以有效地增強 LLM 輔助的硬體設計。根據這些準則，我們提出了一個多粒度 Verilog (MG-Verilog) 資料集，其中包含各種詳細程度的描述和對應的程式碼範例。為了讓更廣泛的硬體設計社群受惠，我們開發了一個開放原始碼基礎架構，以利於輕鬆存取、整合和擴充資料集，以滿足特定專案需求。此外，為了充分發揮複雜度和細節度不同的 MG-Verilog 資料集的潛力，我們引入了平衡的微調方案。此方案作為一個獨特的用例，用於利用資料集提供的不同詳細程度。廣泛的實驗證明，所提出的資料集和微調方案可以持續改善 LLM 在硬體設計任務中的效能。
 

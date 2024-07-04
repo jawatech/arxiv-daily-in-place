@@ -5,7 +5,7 @@
 |**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483v1](http://arxiv.org/abs/2407.02483v1)|null|
 |**2024-07-02**|**CALICO: Confident Active Learning with Integrated Calibration**|Lorenzo S. Querol et.al.|[2407.02335v1](http://arxiv.org/abs/2407.02335v1)|null|
 |**2024-07-02**|**A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling**|Minghao Zhou et.al.|[2407.02283v1](http://arxiv.org/abs/2407.02283v1)|[link](https://github.com/zmhhmz/resfu)|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v1](http://arxiv.org/abs/2407.02280v1)|[link](https://github.com/hustxyy/fedia)|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v2](http://arxiv.org/abs/2407.02280v2)|[link](https://github.com/hustxyy/fedia)|
 |**2024-07-02**|**Generative Monoculture in Large Language Models**|Fan Wu et.al.|[2407.02209v1](http://arxiv.org/abs/2407.02209v1)|null|
 |**2024-07-02**|**Abstract Dialectical Frameworks are Boolean Networks (full version)**|Jesse Heyninck et.al.|[2407.02055v1](http://arxiv.org/abs/2407.02055v1)|null|
 |**2024-07-02**|**A Method to Facilitate Membership Inference Attacks in Deep Learning Models**|Zitao Chen et.al.|[2407.01919v1](http://arxiv.org/abs/2407.01919v1)|null|
@@ -183,7 +183,7 @@ superior generality and ease of deployment.
 摘要：特徵上採樣是目前幾乎所有用於影像分割任務的網路結構中不可或缺的基本要素。最近，有人提出了一種基於相似度的特徵上採樣管道，它利用高解析度特徵作為指引，根據其局部相似度幫助上採樣低解析度深度特徵。儘管取得了有希望的效能，但此管道有特定的限制：1）HR 查詢和 LR 關鍵特徵未對齊；2）查詢鍵特徵之間的相似度是根據固定的內積形式計算的；3）鄰居選擇是粗略地對 LR 特徵進行操作，導致馬賽克偽影。這些缺點使得沿著此管道的現有方法主要適用於具有迭代特徵作為指引的分層網路架構，並且它們不容易擴充套件到更廣泛的結構，特別是對於直接的高比率上採樣。針對這些問題，我們仔細優化了每一個方法論設計。具體來說，我們首先提出了從語義感知和細節感知的角度進行明確可控的查詢鍵特徵對齊，然後構建一個參數化的配對中心差分卷積塊，以靈活地計算對齊良好的查詢鍵特徵之間的相似度。此外，我們在 HR 特徵上開發了一個細粒度的鄰居選擇策略，它對於減輕馬賽克偽影既簡單又有效。根據這些仔細的設計，我們系統地構建了一個名為 ReSFU 的更新的基於相似度的特徵上採樣框架。大量的實驗證實，我們提出的 ReSFU 精細地適用於各種類型的架構，採用直接的高比率上採樣方式，並且在不同的分割應用中始終如一地取得令人滿意的效能，展現出優越的通用性和易於部署性。
 
 ##### **FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**
-2407.02280v1 by Yangyang Xiang, Nannan Wu, Li Yu, Xin Yang, Kwang-Ting Cheng, Zengqiang Yan
+2407.02280v2 by Yangyang Xiang, Nannan Wu, Li Yu, Xin Yang, Kwang-Ting Cheng, Zengqiang Yan
 
 Federated learning has emerged as a compelling paradigm for medical image
 segmentation, particularly in light of increasing privacy concerns. However,
@@ -194,16 +194,16 @@ practice: incomplete annotations. Such annotations can introduce incorrectly
 labeled pixels, potentially undermining the performance of neural networks in
 supervised learning. To tackle this issue, we introduce a novel solution, named
 FedIA. Our insight is to conceptualize incomplete annotations as noisy data
-(\textit{i.e.}, low-quality data), with a focus on mitigating their adverse
-effects. We begin by evaluating the completeness of annotations at the client
-level using a designed indicator. Subsequently, we enhance the influence of
-clients with more comprehensive annotations and implement corrections for
-incomplete ones, thereby ensuring that models are trained on accurate data. Our
-method's effectiveness is validated through its superior performance on two
-extensively used medical image segmentation datasets, outperforming existing
-solutions. The code is available at https://github.com/HUSTxyy/FedIA.
+(i.e., low-quality data), with a focus on mitigating their adverse effects. We
+begin by evaluating the completeness of annotations at the client level using a
+designed indicator. Subsequently, we enhance the influence of clients with more
+comprehensive annotations and implement corrections for incomplete ones,
+thereby ensuring that models are trained on accurate data. Our method's
+effectiveness is validated through its superior performance on two extensively
+used medical image segmentation datasets, outperforming existing solutions. The
+code is available at https://github.com/HUSTxyy/FedIA.
 
-摘要：联邦学习已成为医学影像分割的一个引人注目的范例，尤其是在隐私问题日益严重的背景下。然而，现有的大部分研究都依赖于相对严格的假设，即跨客户端注释的一致性和完整性。与此相反，本文重点介绍了医学实践中普遍存在的挑战：不完整注释。此类注释可能会引入错误标记的像素，从而可能损害神经网络在监督学习中的性能。为了解决这个问题，我们引入了一种名为 FedIA 的新颖解决方案。我们的见解是将不完整注释概念化为噪声数据（即低质量数据），重点在于减轻其不利影响。我们首先使用设计的指示符评估客户端级别的注释的完整性。随后，我们增强了具有更全面注释的客户端的影响力，并对不完整的注释实施了更正，从而确保模型在准确的数据上进行训练。我们的方法的有效性通过其在两个广泛使用的医学影像分割数据集上的卓越性能得到验证，优于现有的解决方案。代码可在 https://github.com/HUSTxyy/FedIA 获得。
+摘要：联邦学习已成为医学图像分割中一种引人注目的范例，尤其是在隐私问题日益受到关注的情况下。然而，现有的大多数研究都依赖于关于跨客户端注释一致性和完整性的相对严格的假设。与此相反，本文重点介绍了医学实践中普遍存在的挑战：不完整的注释。此类注释可能会引入错误标记的像素，从而可能损害神经网络在监督学习中的性能。为了解决这个问题，我们引入了一种名为 FedIA 的新颖解决方案。我们的见解是将不完整的注释概念化为噪声数据（即低质量数据），重点在于减轻其不利影响。我们首先使用设计的指标评估客户端级别的注释完整性。随后，我们增强了具有更全面注释的客户端的影响力，并对不完整的注释实施了更正，从而确保模型在准确的数据上进行训练。我们方法的有效性通过其在两个广泛使用的医学图像分割数据集上的卓越性能得到验证，优于现有的解决方案。代码可在 https://github.com/HUSTxyy/FedIA 获得。
 
 ##### **Generative Monoculture in Large Language Models**
 2407.02209v1 by Fan Wu, Emily Black, Varun Chandrasekaran

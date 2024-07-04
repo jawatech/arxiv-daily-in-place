@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
+|**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
+|**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
+|**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v1](http://arxiv.org/abs/2407.02659v1)|null|
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
 |**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511v1](http://arxiv.org/abs/2407.01511v1)|[link](https://github.com/camel-ai/crab)|
@@ -10,6 +15,7 @@
 |**2024-07-01**|**SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**|Lingyue Fu et.al.|[2407.01245v1](http://arxiv.org/abs/2407.01245v1)|null|
 |**2024-07-01**|**Revisiting Random Walks for Learning on Graphs**|Jinwoo Kim et.al.|[2407.01214v1](http://arxiv.org/abs/2407.01214v1)|[link](https://github.com/jw9730/random-walk)|
 |**2024-07-01**|**LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation**|Longchao Da et.al.|[2407.00994v1](http://arxiv.org/abs/2407.00994v1)|null|
+|**2024-06-30**|**Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**|Romy Fieblinger et.al.|[2407.02528v1](http://arxiv.org/abs/2407.02528v1)|null|
 |**2024-06-30**|**Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**|Yifei Zhang et.al.|[2407.00653v1](http://arxiv.org/abs/2407.00653v1)|null|
 |**2024-06-29**|**BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science**|Xinna Lin et.al.|[2407.00466v1](http://arxiv.org/abs/2407.00466v1)|null|
 |**2024-06-29**|**GraphArena: Benchmarking Large Language Models on Graph Computational Problems**|Jianheng Tang et.al.|[2407.00379v1](http://arxiv.org/abs/2407.00379v1)|[link](https://github.com/squareroot3/grapharena)|
@@ -96,14 +102,117 @@
 |**2024-06-11**|**Mining Frequent Structures in Conceptual Models**|Mattia Fumagalli et.al.|[2406.07129v1](http://arxiv.org/abs/2406.07129v1)|[link](https://github.com/unibz-core/cm-mining_experimentdata)|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113v2](http://arxiv.org/abs/2406.07113v2)|null|
 |**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|[link](https://github.com/UKPLab/acl2024-DARA)|
-|**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034v1](http://arxiv.org/abs/2406.07034v1)|[link](https://github.com/kjh9503/caqr)|
-|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v3](http://arxiv.org/abs/2406.06777v3)|null|
-|**2024-06-10**|**The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**|Ryosuke Takahashi et.al.|[2406.06032v1](http://arxiv.org/abs/2406.06032v1)|null|
-|**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
-|**2024-06-08**|**Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**|Sai Munikoti et.al.|[2406.05496v1](http://arxiv.org/abs/2406.05496v1)|null|
-|**2024-06-07**|**TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**|Mustafa Ocal et.al.|[2406.05265v1](http://arxiv.org/abs/2406.05265v1)|null|
 
 #### Abstracts
+##### **BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**
+2407.03314v1 by Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng
+
+This paper presents Bag-of-Concept Graph (BACON) to gift models with limited
+linguistic abilities to taste the privilege of Vision Language Models (VLMs)
+and boost downstream tasks such as detection, visual question answering (VQA),
+and image generation. Since the visual scenes in physical worlds are structured
+with complex relations between objects, BACON breaks down annotations into
+basic minimum elements and presents them in a graph structure. Element-wise
+style enables easy understanding, and structural composition liberates
+difficult locating. Careful prompt design births the BACON captions with the
+help of public-available VLMs and segmentation methods. In this way, we gather
+a dataset with 100K annotated images, which endow VLMs with remarkable
+capabilities, such as accurately generating BACON, transforming prompts into
+BACON format, envisioning scenarios in the style of BACONr, and dynamically
+modifying elements within BACON through interactive dialogue and more. Wide
+representative experiments, including detection, VQA, and image generation
+tasks, tell BACON as a lifeline to achieve previous out-of-reach tasks or excel
+in their current cutting-edge solutions.
+
+摘要：本文提出 Bag-of-Concept Graph (BACON)，赋予语言能力有限的模型品尝视觉语言模型 (VLM) 的特权，并提升下游任务，例如检测、视觉问答 (VQA) 和图像生成。由于物理世界中的视觉场景是由对象之间的复杂关系构建而成的，因此 BACON 将注释分解为基本的最小元素，并以图形结构呈现它们。基于元素的风格便于理解，结构化组合解放了困难的定位。在公共可用 VLM 和分割方法的帮助下，精心设计的提示生成了 BACON 标题。通过这种方式，我们收集了一个包含 100K 张注释图像的数据集，该数据集赋予 VLM 显著的能力，例如准确生成 BACON、将提示转换为 BACON 格式、以 BACONr 的风格设想场景，以及通过交互式对话动态修改 BACON 中的元素等等。广泛的代表性实验，包括检测、VQA 和图像生成任务，表明 BACON 作为一条生命线，可以实现以前无法实现的任务，或在当前的尖端解决方案中表现出色。
+
+##### **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**
+2407.02936v1 by Zike Yuan, Ming Liu, Hui Wang, Bing Qin
+
+Evaluating the graph comprehension and reasoning abilities of Large Language
+Models (LLMs) is challenging and often incomplete. Existing benchmarks focus
+primarily on pure graph understanding, lacking a comprehensive evaluation
+across all graph types and detailed capability definitions. This paper presents
+GraCoRe, a benchmark for systematically assessing LLMs' graph comprehension and
+reasoning. GraCoRe uses a three-tier hierarchical taxonomy to categorize and
+test models on pure graph and heterogeneous graphs, subdividing capabilities
+into 10 distinct areas tested through 19 tasks. Our benchmark includes 11
+datasets with 5,140 graphs of varying complexity. We evaluated three
+closed-source and seven open-source LLMs, conducting thorough analyses from
+both ability and task perspectives. Key findings reveal that semantic
+enrichment enhances reasoning performance, node ordering impacts task success,
+and the ability to process longer texts does not necessarily improve graph
+comprehension or reasoning. GraCoRe is open-sourced at
+https://github.com/ZIKEYUAN/GraCoRe
+
+摘要：評估大型語言模型 (LLM) 的圖形理解和推理能力具有挑戰性，且通常不完整。現有的基準主要著重於純粹的圖形理解，缺乏對所有圖形類型和詳細功能定義的全面評估。本文提出了 GraCoRe，一個用於系統評估 LLM 的圖形理解和推理的基準。GraCoRe 使用三層階層分類法對模型進行分類和測試，將功能細分為 10 個不同的領域，並通過 19 個任務進行測試。我們的基準包含 11 個數據集，其中包含 5,140 個不同複雜度的圖形。我們評估了三個閉源和七個開源 LLM，從能力和任務角度進行了徹底的分析。主要發現表明語義豐富化增強了推理性能，節點排序影響任務成功，而處理較長文本的能力並不一定能改善圖形理解或推理。GraCoRe 在 https://github.com/ZIKEYUAN/GraCoRe 開源
+
+##### **Croppable Knowledge Graph Embedding**
+2407.02779v1 by Yushan Zhu, Wen Zhang, Zhiqiang Liu, Mingyang Chen, Lei Liang, Huajun Chen
+
+Knowledge Graph Embedding (KGE) is a common method for Knowledge Graphs (KGs)
+to serve various artificial intelligence tasks. The suitable dimensions of the
+embeddings depend on the storage and computing conditions of the specific
+application scenarios. Once a new dimension is required, a new KGE model needs
+to be trained from scratch, which greatly increases the training cost and
+limits the efficiency and flexibility of KGE in serving various scenarios. In
+this work, we propose a novel KGE training framework MED, through which we
+could train once to get a croppable KGE model applicable to multiple scenarios
+with different dimensional requirements, sub-models of the required dimensions
+can be cropped out of it and used directly without any additional training. In
+MED, we propose a mutual learning mechanism to improve the low-dimensional
+sub-models performance and make the high-dimensional sub-models retain the
+capacity that low-dimensional sub-models have, an evolutionary improvement
+mechanism to promote the high-dimensional sub-models to master the knowledge
+that the low-dimensional sub-models can not learn, and a dynamic loss weight to
+balance the multiple losses adaptively. Experiments on 3 KGE models over 4
+standard KG completion datasets, 3 real application scenarios over a real-world
+large-scale KG, and the experiments of extending MED to the language model BERT
+show the effectiveness, high efficiency, and flexible extensibility of MED.
+
+摘要：知識圖嵌入 (KGE) 是知識圖 (KG) 用於服務各種人工智慧任務的常見方法。嵌入的適當維度取決於特定應用場景的儲存和運算條件。一旦需要新的維度，就需要從頭訓練新的 KGE 模型，這大大增加了訓練成本，並限制了 KGE 在服務各種場景中的效率和靈活性。在這項工作中，我們提出了一種新穎的 KGE 訓練框架 MED，通過它，我們可以訓練一次以獲得適用於具有不同維度需求的多個場景的可裁剪 KGE 模型，可以從中裁剪出所需維度的子模型並直接使用，而無需任何額外訓練。在 MED 中，我們提出了一種相互學習機制，以提高低維子模型的效能，並使高維子模型保留低維子模型具有的能力，一種進化改進機制，以促進高維子模型掌握低維子模型無法學習的知識，以及一種動態損失權重，以自適應地平衡多重損失。在 4 個標準 KG 完成資料集上的 3 個 KGE 模型、一個真實世界大規模 KG 上的 3 個實際應用場景以及將 MED 擴展到語言模型 BERT 的實驗中，展示了 MED 的有效性、高效率和靈活的可擴充性。
+
+##### **Reasoning in Large Language Models: A Geometric Perspective**
+2407.02678v1 by Romain Cosentino, Sarath Shekkizhar
+
+The advancement of large language models (LLMs) for real-world applications
+hinges critically on enhancing their reasoning capabilities. In this work, we
+explore the reasoning abilities of large language models (LLMs) through their
+geometrical understanding. We establish a connection between the expressive
+power of LLMs and the density of their self-attention graphs. Our analysis
+demonstrates that the density of these graphs defines the intrinsic dimension
+of the inputs to the MLP blocks. We demonstrate through theoretical analysis
+and toy examples that a higher intrinsic dimension implies a greater expressive
+capacity of the LLM. We further provide empirical evidence linking this
+geometric framework to recent advancements in methods aimed at enhancing the
+reasoning capabilities of LLMs.
+
+摘要：大型語言模型 (LLM) 在實際應用中的進展，關鍵在於提升其推理能力。在這項工作中，我們透過大型語言模型 (LLM) 的幾何理解，探討其推理能力。我們建立了 LLM 的表達能力與其自注意力圖密度之間的關聯。我們的分析證明，這些圖的密度定義了 MLP 塊輸入的內在維度。我們透過理論分析和玩具範例證明，較高的內在維度意味著 LLM 具有更大的表達能力。我們進一步提供經驗證據，將這個幾何框架連結到最近在旨在增強 LLM 推理能力的方法中取得的進展。
+
+##### **Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**
+2407.02659v1 by Devam Mondal, Carlo Lipizzi
+
+In light of recent plagiarism allegations Brough by publishers, newspapers,
+and other creators of copyrighted corpora against large language model (LLM)
+developers, we propose a novel system, a variant of a plagiarism detection
+system, that assesses whether a knowledge source has been used in the training
+or fine-tuning of a large language model. Unlike current methods, we utilize an
+approach that uses Resource Description Framework (RDF) triples to create
+knowledge graphs from both a source document and a LLM continuation of that
+document. These graphs are then analyzed with respect to content using cosine
+similarity and with respect to structure using a normalized version of graph
+edit distance that shows the degree of isomorphism. Unlike traditional systems
+that focus on content matching and keyword identification between a source and
+target corpus, our approach enables a broader evaluation of similarity and thus
+a more accurate comparison of the similarity between a source document and LLM
+continuation by focusing on relationships between ideas and their organization
+with regards to others. Additionally, our approach does not require access to
+LLM metrics like perplexity that may be unavailable in closed large language
+modeling "black-box" systems, as well as the training corpus. A prototype of
+our system will be found on a hyperlinked GitHub repository.
+
+摘要：鉴于出版商、报纸和其他受版权保护语料库的创造者最近对大型语言模型 (LLM) 开发者提出的剽窃指控，我们提出了一种新颖的系统，该系统是剽窃检测系统的一个变体，它评估知识源是否已用于大型语言模型的训练或微调。与当前方法不同，我们利用一种使用资源描述框架 (RDF) 三元组的方法从源文档和该文档的 LLM 延续中创建知识图谱。然后使用余弦相似性分析这些图谱的内容，并使用图编辑距离的标准化版本分析结构，该版本显示同构度。与专注于源语料库和目标语料库之间的内容匹配和关键词识别的传统系统不同，我们的方法能够对相似性进行更广泛的评估，从而更准确地比较源文档和 LLM 延续之间的相似性，方法是关注思想之间的关系以及它们与其他思想的关系。此外，我们的方法不需要访问 LLM 指标，例如困惑度，这些指标在封闭的大型语言建模“黑匣子”系统以及训练语料库中可能不可用。我们系统的原型将在超链接的 GitHub 存储库中找到。
+
 ##### **Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**
 2407.02352v1 by Pritish Sahu, Karan Sikka, Ajay Divakaran
 
@@ -284,6 +393,29 @@ extensive empirical experiments and demonstrated the superiority of our
 proposed solutions.
 
 摘要：大型語言模型（LLM）在各個領域的複雜任務中展示了卓越的能力，從基本的問答（QA）中衍生出來，它們現在被用作決策助理或不熟悉內容的解釋器。然而，由於特定領域語料庫中的數據稀疏性或模型的幻覺問題，它們並非總是正確的。鑑於此，我們應該多相信 LLM 的回應？本文提出了一種新的方法來評估捕捉方向不穩定性的不確定性，通過推理概率構建一個有向圖，並且我們創新地進行了隨機遊走拉普拉斯算子，給定構建的有向圖的不對稱屬性，然後通過拉普拉斯過程導出的特徵值來聚合不確定性。我們還提供了一種將現有工作的語義不確定性與我們提出的層相結合的方法。此外，本文識別了原始響應集中模糊的問題，並提出了一種擴充方法來減輕這種問題，我們進行了廣泛的實證實驗，並證明了我們提出的解決方案的優越性。
+
+##### **Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**
+2407.02528v1 by Romy Fieblinger, Md Tanvirul Alam, Nidhi Rastogi
+
+Cyber threats are constantly evolving. Extracting actionable insights from
+unstructured Cyber Threat Intelligence (CTI) data is essential to guide
+cybersecurity decisions. Increasingly, organizations like Microsoft, Trend
+Micro, and CrowdStrike are using generative AI to facilitate CTI extraction.
+This paper addresses the challenge of automating the extraction of actionable
+CTI using advancements in Large Language Models (LLMs) and Knowledge Graphs
+(KGs). We explore the application of state-of-the-art open-source LLMs,
+including the Llama 2 series, Mistral 7B Instruct, and Zephyr for extracting
+meaningful triples from CTI texts. Our methodology evaluates techniques such as
+prompt engineering, the guidance framework, and fine-tuning to optimize
+information extraction and structuring. The extracted data is then utilized to
+construct a KG, offering a structured and queryable representation of threat
+intelligence. Experimental results demonstrate the effectiveness of our
+approach in extracting relevant information, with guidance and fine-tuning
+showing superior performance over prompt engineering. However, while our
+methods prove effective in small-scale tests, applying LLMs to large-scale data
+for KG construction and Link Prediction presents ongoing challenges.
+
+摘要：網路威脅不斷演變。從非結構化的網路威脅情報 (CTI) 資料中萃取可採取行動的見解，對於引導網路安全決策至關重要。越來越多組織，例如 Microsoft、趨勢科技和 CrowdStrike，使用生成式 AI 來促進 CTI 萃取。本文探討了使用大型語言模型 (LLM) 和知識圖譜 (KG) 的進展，自動萃取可採取行動的 CTI 的挑戰。我們探討了最先進的開源 LLM 的應用，包括 Llama 2 系列、Mistral 7B Instruct 和 Zephyr，以從 CTI 文字中萃取有意義的三元組。我們的做法評估了提示工程、指導架構和微調等技術，以最佳化資訊萃取和結構化。然後，將萃取的資料用於建構 KG，提供威脅情報的結構化且可查詢的表示。實驗結果證明了我們方法在萃取相關資訊方面的有效性，指導和微調顯示出優於提示工程的效能。然而，雖然我們的做法在小規模測試中證明有效，但將 LLM 應用於大規模資料以進行 KG 建構和連結預測，仍存在持續的挑戰。
 
 ##### **Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**
 2407.00653v1 by Yifei Zhang, Xintao Wang, Jiaqing Liang, Sirui Xia, Lida Chen, Yanghua Xiao
@@ -2386,151 +2518,4 @@ performance comparable to state-of-the-art enumerating-and-ranking-based
 methods for KGQA.
 
 摘要：回答知識圖表（KGQA）上的問題是各種現實生活應用中運作良好的自主語言代理的關鍵。為了改善大型語言模型（LLM）在 KGQA 中驅動的語言代理的神經符號推理能力，我們提出了分解對齊推理代理（DARA）框架。DARA 通過雙重機制有效地將問題解析為正式查詢：高級別迭代任務分解和低級別任務基礎。重要的是，DARA 可以使用少量的高品質推理軌跡進行有效訓練。我們的實驗結果表明，在 LLM（例如 Llama-2-7B、Mistral）上微調的 DARA 在零次評估的不同基準上優於基於上下文中學習的代理（使用 GPT-4）和替代微調代理，這使得此類模型更易於應用於現實生活中。我們還表明，DARA 獲得了與 KGQA 的最先進列舉和排名方法相當的性能。
-
-##### **Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**
-2406.07034v1 by Jeonghoon Kim, Heesoo Jung, Hyeju Jang, Hogun Park
-
-Multi-hop logical reasoning on knowledge graphs is a pivotal task in natural
-language processing, with numerous approaches aiming to answer First-Order
-Logic (FOL) queries. Recent geometry (e.g., box, cone) and probability (e.g.,
-beta distribution)-based methodologies have effectively addressed complex FOL
-queries. However, a common challenge across these methods lies in determining
-accurate geometric bounds or probability parameters for these queries. The
-challenge arises because existing methods rely on linear sequential operations
-within their computation graphs, overlooking the logical structure of the query
-and the relation-induced information that can be gleaned from the relations of
-the query, which we call the context of the query. To address the problem, we
-propose a model-agnostic methodology that enhances the effectiveness of
-existing multi-hop logical reasoning approaches by fully integrating the
-context of the FOL query graph. Our approach distinctively discerns (1) the
-structural context inherent to the query structure and (2) the relation-induced
-context unique to each node in the query graph as delineated in the
-corresponding knowledge graph. This dual-context paradigm helps nodes within a
-query graph attain refined internal representations throughout the multi-hop
-reasoning steps. Through experiments on two datasets, our method consistently
-enhances the three multi-hop reasoning foundation models, achieving performance
-improvements of up to 19.5%. Our code is available at
-https://github.com/kjh9503/caqr.
-
-摘要：多跳邏輯推理是自然語言處理中的關鍵任務，許多方法旨在回答一階邏輯 (FOL) 查詢。最近的幾何形狀（例如，盒子、圓錐）和機率（例如，貝塔分佈）方法有效地解決了複雜的 FOL 查詢。然而，這些方法的共同挑戰在於，為這些查詢確定準確的幾何界限或機率參數。挑戰出現的原因在於，現有方法依賴於其運算圖形中的線性順序運算，忽略了查詢的邏輯結構以及可以從查詢關係中收集到的關係誘導資訊，我們稱之為查詢的背景。為了解決這個問題，我們提出了一種與模型無關的方法，透過完全整合 FOL 查詢圖形的背景，來提升現有多跳邏輯推理方法的效能。我們的做法獨特地辨別了 (1) 查詢結構固有的結構背景，以及 (2) 查詢圖形中每個節點獨有的關係誘導背景，如對應的知識圖形中所描繪的。這種雙重背景範例有助於查詢圖形中的節點在多跳推理步驟中獲得精緻的內部表示。透過在兩個資料集上進行實驗，我們的模型持續增強三種多跳推理基礎模型，效能提升最高達 19.5%。我們的程式碼可在 https://github.com/kjh9503/caqr 取得。
-
-##### **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-2406.06777v3 by Khiem Le, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla
-
-Recently, Large Language Models (LLMs) with their strong task-handling
-capabilities have shown remarkable advancements across a spectrum of fields,
-moving beyond natural language understanding. However, their proficiency within
-the chemistry domain remains restricted, especially in solving professional
-molecule-related tasks. This challenge is attributed to their inherent
-limitations in comprehending molecules using only common textual
-representations, i.e., SMILES strings. In this study, we seek to enhance the
-ability of LLMs to comprehend molecules by designing and equipping them with a
-multi-modal external module, namely MolX. In particular, instead of directly
-using a SMILES string to represent a molecule, we utilize specific encoders to
-extract fine-grained features from both SMILES string and 2D molecular graph
-representations for feeding into an LLM. Moreover, a human-defined molecular
-fingerprint is incorporated to leverage its embedded domain knowledge. Then, to
-establish an alignment between MolX and the LLM's textual input space, the
-whole model in which the LLM is frozen, is pre-trained with a versatile
-strategy including a diverse set of tasks. Extensive experimental evaluations
-demonstrate that our proposed method only introduces a small number of
-trainable parameters while outperforming baselines on various downstream
-molecule-related tasks ranging from molecule-to-text translation to
-retrosynthesis, with and without fine-tuning the LLM.
-
-摘要：近期，大型语言模型 (LLM) 凭借其强大的任务处理能力，在超越自然语言理解的各个领域中展现出显著的进步。然而，它们在化学领域的熟练度仍然受到限制，尤其是在解决专业分子相关任务方面。这一挑战归因于它们固有的局限性，即仅使用常见的文本表示（即 SMILES 字符串）来理解分子。在本研究中，我们旨在通过设计和为 LLM 配备多模态外部模块（即 MolX）来增强其理解分子的能力。具体来说，我们利用特定编码器从 SMILES 字符串和二维分子图表示中提取细粒度特征，用于输入 LLM，而不是直接使用 SMILES 字符串来表示分子。此外，我们还纳入了人类定义的分子指纹，以利用其嵌入的领域知识。然后，为了在 MolX 和 LLM 的文本输入空间之间建立对齐，整个模型（其中 LLM 被冻结）使用包括各种任务的多功能策略进行预训练。广泛的实验评估表明，我们提出的方法仅引入了少量可训练参数，同时在从分子到文本翻译到逆合成等各种下游分子相关任务上优于基线，无论是否对 LLM 进行微调。
-
-##### **The Curse of Popularity: Popular Entities have Catastrophic Side Effects when Deleting Knowledge from Language Models**
-2406.06032v1 by Ryosuke Takahashi, Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, Kentaro Inui
-
-Language models (LMs) encode world knowledge in their internal parameters
-through training. However, LMs may learn personal and confidential information
-from the training data, leading to privacy concerns such as data leakage.
-Therefore, research on knowledge deletion from LMs is essential. This study
-focuses on the knowledge stored in LMs and analyzes the relationship between
-the side effects of knowledge deletion and the entities related to the
-knowledge. Our findings reveal that deleting knowledge related to popular
-entities can have catastrophic side effects. Furthermore, this research is the
-first to analyze knowledge deletion in models trained on synthetic knowledge
-graphs, indicating a new direction for controlled experiments.
-
-摘要：語言模型 (LM) 透過訓練將世界知識編碼在其內部參數中。然而，LM 可能會從訓練資料中學習到個人和機密資訊，導致資料外洩等隱私問題。因此，研究從 LM 中刪除知識至關重要。本研究著重於儲存在 LM 中的知識，並分析知識刪除的副作用與與知識相關的實體之間的關係。我們的研究結果揭示，刪除與熱門實體相關的知識可能會造成災難性的副作用。此外，本研究首次分析在合成知識圖譜上訓練的模型中的知識刪除，指出受控實驗的新方向。
-
-##### **HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**
-2406.06027v1 by Pranoy Panda, Ankush Agarwal, Chaitanya Devaguptapu, Manohar Kaul, Prathosh A P
-
-Given unstructured text, Large Language Models (LLMs) are adept at answering
-simple (single-hop) questions. However, as the complexity of the questions
-increase, the performance of LLMs degrade. We believe this is due to the
-overhead associated with understanding the complex question followed by
-filtering and aggregating unstructured information in the raw text. Recent
-methods try to reduce this burden by integrating structured knowledge triples
-into the raw text, aiming to provide a structured overview that simplifies
-information processing. However, this simplistic approach is query-agnostic and
-the extracted facts are ambiguous as they lack context. To address these
-drawbacks and to enable LLMs to answer complex (multi-hop) questions with ease,
-we propose to use a knowledge graph (KG) that is context-aware and is distilled
-to contain query-relevant information. The use of our compressed distilled KG
-as input to the LLM results in our method utilizing up to $67\%$ fewer tokens
-to represent the query relevant information present in the supporting
-documents, compared to the state-of-the-art (SoTA) method. Our experiments show
-consistent improvements over the SoTA across several metrics (EM, F1,
-BERTScore, and Human Eval) on two popular benchmark datasets (HotpotQA and
-MuSiQue).
-
-摘要：給定非結構化文本，大型語言模型 (LLM) 擅長回答簡單（單跳）問題。然而，隨著問題的複雜性增加，LLM 的效能會下降。我們相信這是因為理解複雜問題所伴隨的開銷，接著在原始文本中過濾和彙總非結構化資訊。最近的方法嘗試透過將結構化知識三元組整合到原始文本中來減輕這個負擔，目的是提供一個簡化資訊處理的結構化概觀。然而，這種簡化的方式與查詢無關，而且提取的事實模稜兩可，因為它們缺乏背景。為了解決這些缺點，並使 LLM 能夠輕鬆回答複雜（多跳）問題，我們建議使用一個與背景相關且經過提煉以包含與查詢相關資訊的知識圖譜 (KG)。將我們壓縮提煉的 KG 用作 LLM 的輸入，使得我們的模型使用比最先進 (SoTA) 方法減少多達 $67\%$ 的標記來表示支援文件中的與查詢相關的資訊。我們的實驗顯示，在兩個流行的基準資料集（HotpotQA 和 MuSiQue）上，我們的模型在多項指標（EM、F1、BERTScore 和人工評估）中都比 SoTA 有顯著的改善。
-
-##### **Generalist Multimodal AI: A Review of Architectures, Challenges and Opportunities**
-2406.05496v1 by Sai Munikoti, Ian Stewart, Sameera Horawalavithana, Henry Kvinge, Tegan Emerson, Sandra E Thompson, Karl Pazdernik
-
-Multimodal models are expected to be a critical component to future advances
-in artificial intelligence. This field is starting to grow rapidly with a surge
-of new design elements motivated by the success of foundation models in natural
-language processing (NLP) and vision. It is widely hoped that further extending
-the foundation models to multiple modalities (e.g., text, image, video, sensor,
-time series, graph, etc.) will ultimately lead to generalist multimodal models,
-i.e. one model across different data modalities and tasks. However, there is
-little research that systematically analyzes recent multimodal models
-(particularly the ones that work beyond text and vision) with respect to the
-underling architecture proposed. Therefore, this work provides a fresh
-perspective on generalist multimodal models (GMMs) via a novel architecture and
-training configuration specific taxonomy. This includes factors such as
-Unifiability, Modularity, and Adaptability that are pertinent and essential to
-the wide adoption and application of GMMs. The review further highlights key
-challenges and prospects for the field and guide the researchers into the new
-advancements.
-
-摘要：多模态模型预计将成为人工智能未来发展的关键组成部分。随着自然语言处理 (NLP) 和视觉领域的底层模型取得成功，这一领域开始迅速发展，并涌现出大量受其启发的新设计元素。人们普遍希望，将底层模型进一步扩展到多种模态（例如，文本、图像、视频、传感器、时间序列、图形等）最终将产生通用多模态模型，即一个跨不同数据模态和任务的模型。然而，很少有研究系统地分析最近的多模态模型（特别是那些在文本和视觉之外工作的模型）与其提出的底层架构之间的关系。因此，这项工作通过一种新颖的架构和训练配置特定分类法，为通用多模态模型 (GMM) 提供了一个新的视角。这包括统一性、模块化和适应性等因素，这些因素与 GMM 的广泛采用和应用密切相关且至关重要。该综述进一步强调了该领域的关键挑战和前景，并指导研究人员了解新的进展。
-
-##### **TLEX: An Efficient Method for Extracting Exact Timelines from TimeML Temporal Graphs**
-2406.05265v1 by Mustafa Ocal, Ning Xie, Mark Finlayson
-
-A timeline provides a total ordering of events and times, and is useful for a
-number of natural language understanding tasks. However, qualitative temporal
-graphs that can be derived directly from text -- such as TimeML annotations --
-usually explicitly reveal only partial orderings of events and times. In this
-work, we apply prior work on solving point algebra problems to the task of
-extracting timelines from TimeML annotated texts, and develop an exact,
-end-to-end solution which we call TLEX (TimeLine EXtraction). TLEX transforms
-TimeML annotations into a collection of timelines arranged in a
-trunk-and-branch structure. Like what has been done in prior work, TLEX checks
-the consistency of the temporal graph and solves it; however, it adds two novel
-functionalities. First, it identifies specific relations involved in an
-inconsistency (which could then be manually corrected) and, second, TLEX
-performs a novel identification of sections of the timelines that have
-indeterminate order, information critical for downstream tasks such as aligning
-events from different timelines. We provide detailed descriptions and analysis
-of the algorithmic components in TLEX, and conduct experimental evaluations by
-applying TLEX to 385 TimeML annotated texts from four corpora. We show that 123
-of the texts are inconsistent, 181 of them have more than one ``real world'' or
-main timeline, and there are 2,541 indeterminate sections across all four
-corpora. A sampling evaluation showed that TLEX is 98--100% accurate with 95%
-confidence along five dimensions: the ordering of time-points, the number of
-main timelines, the placement of time-points on main versus subordinate
-timelines, the connecting point of branch timelines, and the location of the
-indeterminate sections. We provide a reference implementation of TLEX, the
-extracted timelines for all texts, and the manual corrections of the
-inconsistent texts.
-
-摘要：時間軸提供事件和時間的總體順序，並可用於許多自然語言理解任務。然而，可直接從文本中衍生的定性時間圖表（例如 TimeML 標註）通常只明確揭示事件和時間的部分順序。在這項工作中，我們將先前解決點代數問題的工作應用於從 TimeML 標註文本中提取時間軸的任務，並開發了一個精確的端到端解決方案，我們稱之為 TLEX（時間線提取）。TLEX 將 TimeML 標註轉換為一系列時間軸，並以主幹結構排列。與先前的工作一樣，TLEX 檢查時間圖表的自洽性並解決它；然而，它增加了兩個新穎的功能。首先，它識別出不一致中涉及的具體關係（然後可以手動更正），其次，TLEX 對具有不確定順序的時間軸部分進行了新的識別，這些信息對於下游任務（例如對齊來自不同時間軸的事件）至關重要。我們提供了 TLEX 中演算法組成的詳細描述和分析，並通過將 TLEX 應用於來自四個語料庫的 385 個 TimeML 標註文本進行實驗評估。我們表明 123 個文本是不一致的，其中 181 個有多個「真實世界」或主時間軸，並且在所有四個語料庫中共有 2,541 個不確定部分。抽樣評估表明，TLEX 在五個維度上具有 98-100% 的準確度，置信度為 95%：時間點的順序、主時間軸的數量、時間點在主時間軸與從屬時間軸上的位置、分支時間軸的連接點以及不確定部分的位置。我們提供了 TLEX 的參考實現、所有文本的提取時間軸以及不一致文本的手動更正。
 

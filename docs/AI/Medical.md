@@ -49,7 +49,7 @@
 |**2024-06-28**|**ACES: Automatic Cohort Extraction System for Event-Stream Datasets**|Justin Xu et.al.|[2406.19653v1](http://arxiv.org/abs/2406.19653v1)|[link](https://github.com/justin13601/aces)|
 |**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578v1](http://arxiv.org/abs/2406.19578v1)|null|
-|**2024-06-27**|**Automated Web-Based Malaria Detection System with Machine Learning and Deep Learning Techniques**|Abraham G Taye et.al.|[2407.00120v1](http://arxiv.org/abs/2407.00120v1)|null|
+|**2024-06-27**|**Automated Web-Based Malaria Detection System with Machine Learning and Deep Learning Techniques**|Abraham G Taye et.al.|[2407.00120v1](http://arxiv.org/abs/2407.00120v1)|[link](https://github.com/abrahamgenetu/Automated_Malaria_Detection_System)|
 |**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[link](https://github.com/freedomintelligence/huatuogpt-vision)|
 |**2024-06-27**|**Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges**|Mahmoud Ibrahim et.al.|[2407.00116v2](http://arxiv.org/abs/2407.00116v2)|null|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v2](http://arxiv.org/abs/2406.19057v2)|null|

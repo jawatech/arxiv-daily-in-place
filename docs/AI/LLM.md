@@ -11,7 +11,7 @@
 |**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297v1](http://arxiv.org/abs/2407.03297v1)|null|
 |**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282v1](http://arxiv.org/abs/2407.03282v1)|null|
 |**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253v1](http://arxiv.org/abs/2407.03253v1)|null|
-|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v1](http://arxiv.org/abs/2407.03236v1)|[link](https://github.com/abjadai/catt)|
+|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v2](http://arxiv.org/abs/2407.03236v2)|[link](https://github.com/abjadai/catt)|
 |**2024-07-03**|**Self-Evaluation as a Defense Against Adversarial Attacks on LLMs**|Hannah Brown et.al.|[2407.03234v1](http://arxiv.org/abs/2407.03234v1)|null|
 |**2024-07-03**|**Single Character Perturbations Break LLM Alignment**|Leon Lin et.al.|[2407.03232v1](http://arxiv.org/abs/2407.03232v1)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227v1](http://arxiv.org/abs/2407.03227v1)|null|
@@ -100,7 +100,7 @@
 |**2024-07-03**|**MLKD-BERT: Multi-level Knowledge Distillation for Pre-trained Language Models**|Ying Zhang et.al.|[2407.02775v1](http://arxiv.org/abs/2407.02775v1)|null|
 |**2024-07-03**|**Automatic gradient descent with generalized Newton's method**|Zhiqi Bu et.al.|[2407.02772v1](http://arxiv.org/abs/2407.02772v1)|null|
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
-|**2024-07-03**|**Emotion and Intent Joint Understanding in Multimodal Conversation: A Benchmarking Dataset**|Rui Liu et.al.|[2407.02751v1](http://arxiv.org/abs/2407.02751v1)|[link](https://github.com/mc-eiu/mc-eiu)|
+|**2024-07-03**|**Emotion and Intent Joint Understanding in Multimodal Conversation: A Benchmarking Dataset**|Rui Liu et.al.|[2407.02751v2](http://arxiv.org/abs/2407.02751v2)|[link](https://github.com/mc-eiu/mc-eiu)|
 |**2024-07-03**|**Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data**|Younghun Lee et.al.|[2407.02750v1](http://arxiv.org/abs/2407.02750v1)|null|
 
 #### Abstracts
@@ -315,7 +315,7 @@ language models.
 摘要：如今，从推文中进行主题分类引起了相当大的研究关注。由于这些研究工作，已经提出了不同的分类系统。然而，由于标记数据量有限，它们面临着因性能指标低而带来的重大挑战。我们提出了句子转换器微调 (STF)，这是一种主题检测系统，它利用预训练的句子转换器模型和微调来准确地对推文中的主题进行分类。此外，进行了广泛的参数敏感性分析，以微调用于主题分类任务的 STF 参数，以实现最佳性能结果。在两个基准数据集上的实验表明：(1) 提出的 STF 可有效用于对推文主题进行分类，并且优于最新的最先进方法；(2) 提出的 STF 不需要大量标记推文就能实现良好的准确性，这是许多最先进方法的限制。我们的主要贡献是通过应用预训练的句子转换器语言模型在推文主题分类中取得了有希望的结果。
 
 ##### **CATT: Character-based Arabic Tashkeel Transformer**
-2407.03236v1 by Faris Alasmary, Orjuwan Zaafarani, Ahmad Ghannam
+2407.03236v2 by Faris Alasmary, Orjuwan Zaafarani, Ahmad Ghannam
 
 Tashkeel, or Arabic Text Diacritization (ATD), greatly enhances the
 comprehension of Arabic text by removing ambiguity and minimizing the risk of
@@ -334,7 +334,7 @@ model outperforms GPT-4-turbo on CATT dataset by a relative DER of 9.36\%. We
 open-source our CATT models and benchmark dataset for the research
 community\footnote{https://github.com/abjadai/catt}.
 
-摘要：塔什基爾，或阿拉伯語文本附加符號 (ATD)，透過消除歧義並將其缺失造成的誤解風險降至最低，大幅提升阿拉伯語文本的理解度。它在改善阿拉伯語文本處理方面發揮至關重要的作用，特別是在文字轉語音和機器翻譯等應用中。本文介紹一種訓練 ATD 模型的新方法。首先，我們微調了兩個Transformer，僅編碼器和編碼器-解碼器，這些Transformer是從預訓練的基於字元的 BERT 初始化的。然後，我們應用 Noisy-Student 方法來提升最佳模型的效能。我們使用兩個手動標記基準資料集：WikiNews 和我們的 CATT 資料集，對我們的模型與 11 個商業和開放原始碼模型進行評估。我們的研究結果顯示，我們的頂尖模型在 WikiNews 和 CATT 上分別以 30.83% 和 35.21% 的相對附加符號錯誤率 (DER) 超越所有評估模型，在 ATD 中達到最先進的技術。此外，我們顯示我們的模型在 CATT 資料集上以 9.36% 的相對 DER 優於 GPT-4-turbo。我們開放原始碼我們的 CATT 模型和基準資料集，供研究社群使用\footnote{https://github.com/abjadai/catt}。
+摘要：<paragraph>塔什基爾，或阿拉伯語文本標音（ATD），透過消除歧義並將其遺漏造成的誤解風險降至最低，大幅提升了阿拉伯語文本的理解。它在改善阿拉伯語文本處理方面發揮了至關重要的作用，特別是在文字轉語音和機器翻譯等應用中。本文介紹了一種訓練 ATD 模型的新方法。首先，我們微調了兩個Transformer，僅編碼器和編碼器-解碼器，它們是由預先訓練好的基於字元的 BERT 初始化的。然後，我們應用 Noisy-Student 方法來提升最佳模型的性能。我們使用兩個手動標記基準數據集：WikiNews 和我們的 CATT 數據集，對我們的模型與 11 個商業和開源模型進行了評估。我們的研究結果表明，我們的頂級模型在 WikiNews 和 CATT 上分別以 30.83% 和 35.21% 的相對變音符號錯誤率 (DER) 超越了所有評估模型，在 ATD 中實現了最先進的技術。此外，我們展示了我們的模型在 CATT 數據集上以 9.36% 的相對 DER 超越了 GPT-4-turbo。我們為研究社群開源了我們的 CATT 模型和基準數據集\footnote{https://github.com/abjadai/catt}。</paragraph>
 
 ##### **Self-Evaluation as a Defense Against Adversarial Attacks on LLMs**
 2407.03234v1 by Hannah Brown, Leon Lin, Kenji Kawaguchi, Michael Shieh
@@ -2367,7 +2367,7 @@ in addressing deep GNN degradation.
 摘要：圖形神經網路 (GNN) 的主要概念是透過傳遞和彙總來編碼圖形結構資訊，發展迅速。它在多種類型圖形的表徵學習中取得極佳的表現，例如同質圖形、異質圖形，以及知識圖形等更複雜的圖形。然而，單純堆疊 GNN 層級可能無法提升模型效能，甚至可能造成負面影響。對於深度 GNN 中效能下降的現象，我們提出一個新的觀點。與過度平滑或過度壓縮的普遍解釋不同，我們認為這個問題源於訊息傳遞過程中低品質節點表徵的干擾。我們提出一個簡單且通用的方法 SF-GNN 來解決這個問題。在 SF-GNN 中，我們為每個節點定義兩個表徵，一個是表示節點本身特徵的節點表徵，另一個是專門用於將訊息傳遞至鄰近節點的訊息表徵。一個自我過濾模組會評估節點表徵的品質，並根據這個品質評估決定是否將其整合到訊息傳遞中。在同質和異質圖形的節點分類任務，以及知識圖形中的連結預測任務上的實驗證明，我們的這個方法可以應用於各種 GNN 模型，並且在解決深度 GNN 退化問題上優於現有的最佳基準方法。
 
 ##### **Emotion and Intent Joint Understanding in Multimodal Conversation: A Benchmarking Dataset**
-2407.02751v1 by Rui Liu, Haolin Zuo, Zheng Lian, Xiaofen Xing, Björn W. Schuller, Haizhou Li
+2407.02751v2 by Rui Liu, Haolin Zuo, Zheng Lian, Xiaofen Xing, Björn W. Schuller, Haizhou Li
 
 Emotion and Intent Joint Understanding in Multimodal Conversation (MC-EIU)
 aims to decode the semantic information manifested in a multimodal
@@ -2388,8 +2388,8 @@ demonstrate the effectiveness of the proposed EI$^2$ method on the MC-EIU
 dataset. The dataset and codes will be made available at:
 https://github.com/MC-EIU/MC-EIU.
 
-摘要：多模态对话中的情感和意图联合理解（MC-EIU）
-旨在解码多模态对话历史中体现的语义信息，同时推断当前话语中的情感和意图。MC-EIU 是许多人机界面的使能技术。然而，在注释、模态、语言多样性和可访问性方面缺乏可用的数据集。在这项工作中，我们提出了一个 MC-EIU 数据集，其中包含 7 个情感类别、9 个意图类别、3 个模态，即文本、声学和视觉内容，以及两种语言，即英语和普通话。此外，它是完全开源的，可以免费访问。据我们所知，MC-EIU 是第一个针对多模态对话的情感和意图联合理解的全面且丰富的语料库。随着数据集的发布，我们还开发了一个情感和意图交互 (EI$^2$) 网络作为参考系统，通过对多模态对话中情感和意图之间的深度相关性进行建模。通过对比实验和消融研究，我们在 MC-EIU 数据集上展示了所提出的 EI$^2$ 方法的有效性。数据集和代码将在以下位置提供：
+摘要：多模態對話中的情緒與意圖聯合理解（MC-EIU）
+旨在解碼在多模態對話歷史中體現的語義資訊，同時推斷當前話語的情緒和意圖。MC-EIU 是許多人機介面的使能技術。然而，在標註、模態、語言多樣性和可及性方面缺乏可用的資料集。在這項工作中，我們提出一個 MC-EIU 資料集，其中包含 7 個情緒類別、9 個意圖類別、3 個模態，即文本、音訊和視覺內容，以及兩種語言，即英語和普通話。此外，它是完全開源且免費存取的。據我們所知，MC-EIU 是第一個針對多模態對話的情緒和意圖聯合理解的全面且豐富的資料集。隨著資料集的發布，我們還開發了一個情緒與意圖互動 (EI$^2$) 網路，作為參考系統，透過模擬多模態對話中情緒與意圖之間的深層關聯。透過比較實驗和消融研究，我們證明了所提出的 EI$^2$ 方法在 MC-EIU 資料集上的有效性。資料集和程式碼將在以下位置提供：
 https://github.com/MC-EIU/MC-EIU。
 
 ##### **Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data**

@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
+|**2024-06-11**|**Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v2](http://arxiv.org/abs/2406.07114v2)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
@@ -65,7 +66,7 @@
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
-|**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v1](http://arxiv.org/abs/2309.12325v1)|null|
+|**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v2](http://arxiv.org/abs/2309.12325v2)|null|
 |**2023-08-10**|**Explainable AI applications in the Medical Domain: a systematic review**|Nicoletta Prentzas et.al.|[2308.05411v1](http://arxiv.org/abs/2308.05411v1)|null|
 |**2023-08-01**|**Exploring the Role of Explainability in AI-Assisted Embryo Selection**|Lucia Urcelay et.al.|[2308.02534v1](http://arxiv.org/abs/2308.02534v1)|null|
 |**2023-07-26**|**A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**|Timo Speith et.al.|[2307.14246v1](http://arxiv.org/abs/2307.14246v1)|null|
@@ -101,7 +102,6 @@
 |**2023-01-18**|**Exemplars and Counterexemplars Explanations for Image Classifiers, Targeting Skin Lesion Labeling**|Carlo Metta et.al.|[2302.03033v1](http://arxiv.org/abs/2302.03033v1)|null|
 |**2023-01-17**|**Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**|Dangxing Chen et.al.|[2301.07060v1](http://arxiv.org/abs/2301.07060v1)|null|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
-|**2023-01-05**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v3](http://arxiv.org/abs/2301.02080v3)|null|
 
 #### Abstracts
 ##### **Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**
@@ -165,6 +165,27 @@ structured models in practice.
 我們提出了一種基於範疇論定義 AI 模型及其可解釋性的方法。為此，我們採用組合模型的概念，它以形式弦圖的形式看待模型，這些弦圖捕獲了模型的抽象結構及其具體實現。這種綜合觀點包含了確定性、概率性和量子模型。我們將各種 AI 模型作為組合模型進行比較，包括線性和基於規則的模型、（遞迴）神經網路、Transformer、VAE，以及因果和 DisCoCirc 模型。
 接下來，我們根據模型的組合結構給出模型解釋的定義，展示如何分析模型的可解釋性，並使用它來澄清 XAI 中的常見主題。我們發現，讓標準的「內在可解釋」模型如此透明的原因在圖表中表現得最為清楚。這引導我們得出更一般的組合可解釋（CI）模型概念，它另外還包括因果、概念空間和 DisCoCirc 模型。
 接下來，我們展示了 CI 模型的可解釋性優勢。首先，它們的組合結構允許計算其他感興趣的量，並可能通過匹配模型的結構來促進從模型到被建模現象的推理。其次，它們允許對其行為進行圖解說明，這些說明基於影響約束、圖解手術和重寫說明。最後，我們討論了這種方法的許多未來方向，提出了如何在實踐中學習這種有意義的結構化模型的問題。</paragraph>
+
+##### **Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**
+2406.07114v2 by Fatemeh Ebrahimzadeh, Ramin Safa
+
+The concept of Metaverse has attracted a lot of attention in various fields
+and one of its important applications is health and treatment. The Metaverse
+has enormous potential to transform healthcare by changing patient care,
+medical education, and the way teaching/learning and research are done. The
+purpose of this research is to provide an introduction to the basic concepts
+and fundamental technologies of the Metaverse. This paper examines the pros and
+cons of the Metaverse in healthcare context and analyzes its potential from the
+technology and AI perspective. In particular, the role of machine learning
+methods is discussed; We will explain how machine learning algorithms can be
+applied to the Metaverse generated data to gain better insights in healthcare
+applications. Additionally, we examine the future visions of the Metaverse in
+health delivery, by examining emerging technologies such as blockchain and also
+addressing privacy concerns. The findings of this study contribute to a deeper
+understanding of the applications of Metaverse in healthcare and its potential
+to revolutionize the delivery of medical services.
+
+摘要：元宇宙的概念在各個領域都備受關注，其重要應用之一便是醫療保健。元宇宙有巨大的潛力透過改變病患照護、醫學教育，以及教學/學習和研究的方式來轉型醫療保健。本研究的目的是提供元宇宙基本概念和基礎技術的介紹。本文探討了元宇宙在醫療保健背景下的優缺點，並從技術和 AI 的角度分析其潛力。特別是，討論了機器學習方法的角色；我們將說明如何將機器學習演算法應用於元宇宙產生的資料，以獲得醫療保健應用方面的更佳見解。此外，我們透過探討區塊鏈等新興技術，並解決隱私問題，來探討元宇宙在醫療保健方面的未來願景。本研究的發現有助於更深入地了解元宇宙在醫療保健中的應用，以及其在醫療服務提供方面發揮革命性變革的潛力。
 
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
 2406.06728v1 by K M Tawsik Jawad, Anusha Verma, Fathi Amsaad
@@ -1687,7 +1708,7 @@ essential for success.
 摘要：最近在醫療保健中的人工智慧應用進展顯示出令人難以置信的承諾，在診斷和疾病預後方面超越人類表現。然而，隨著人工智能模型的日益複雜，人們對其不透明性、潛在偏差和對可解釋性的需求感到擔憂。為了確保人工智能系統的信任和可靠性，尤其是在臨床風險預測模型中，可解釋性變得至關重要。可解釋性通常被稱為人工智能系統提供其決策邏輯或決策本身對人類利益相關者的強有力解釋的能力。在臨床風險預測中，可解釋性的其他方面，如公平性、偏見、信任和透明度，也代表了超越可解釋性的重要概念。在本次審查中，我們探討了這些概念之間的關係，因為它們經常一起或互換使用。本審查還討論了為臨床風險預測開發可解釋模型的最新進展，強調了在臨床實踐中對多種常見模式進行定量和臨床評估和驗證的重要性。它強調了外部驗證和多樣化可解釋性方法相結合的必要性，以增強信任和公平性。採用嚴格的測試，例如使用具有已知生成因素的合成數據集，可以進一步提高可解釋性方法的可靠性。開放獲取和代碼共享資源對於透明度和可重複性至關重要，從而促進可解釋研究的增長和可信度。儘管存在挑戰，但從臨床醫生到開發人員，採用端到端的可解釋性方法對於臨床風險預測的成功至關重要。
 
 ##### **FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**
-2309.12325v1 by Karim Lekadir, Aasa Feragen, Abdul Joseph Fofanah, Alejandro F Frangi, Alena Buyx, Anais Emelie, Andrea Lara, Antonio R Porras, An-Wen Chan, Arcadi Navarro, Ben Glocker, Benard O Botwe, Bishesh Khanal, Brigit Beger, Carol C Wu, Celia Cintas, Curtis P Langlotz, Daniel Rueckert, Deogratias Mzurikwao, Dimitrios I Fotiadis, Doszhan Zhussupov, Enzo Ferrante, Erik Meijering, Eva Weicken, Fabio A González, Folkert W Asselbergs, Fred Prior, Gabriel P Krestin, Gary Collins, Geletaw S Tegenaw, Georgios Kaissis, Gianluca Misuraca, Gianna Tsakou, Girish Dwivedi, Haridimos Kondylakis, Harsha Jayakody, Henry C Woodruf, Hugo JWL Aerts, Ian Walsh, Ioanna Chouvarda, Irène Buvat, Islem Rekik, James Duncan, Jayashree Kalpathy-Cramer, Jihad Zahir, Jinah Park, John Mongan, Judy W Gichoya, Julia A Schnabel, Kaisar Kushibar, Katrine Riklund, Kensaku Mori, Kostas Marias, Lameck M Amugongo, Lauren A Fromont, Lena Maier-Hein, Leonor Cerdá Alberich, Leticia Rittner, Lighton Phiri, Linda Marrakchi-Kacem, Lluís Donoso-Bach, Luis Martí-Bonmatí, M Jorge Cardoso, Maciej Bobowicz, Mahsa Shabani, Manolis Tsiknakis, Maria A Zuluaga, Maria Bielikova, Marie-Christine Fritzsche, Marius George Linguraru, Markus Wenzel, Marleen De Bruijne, Martin G Tolsgaard, Marzyeh Ghassemi, Md Ashrafuzzaman, Melanie Goisauf, Mohammad Yaqub, Mohammed Ammar, Mónica Cano Abadía, Mukhtar M E Mahmoud, Mustafa Elattar, Nicola Rieke, Nikolaos Papanikolaou, Noussair Lazrak, Oliver Díaz, Olivier Salvado, Oriol Pujol, Ousmane Sall, Pamela Guevara, Peter Gordebeke, Philippe Lambin, Pieta Brown, Purang Abolmaesumi, Qi Dou, Qinghua Lu, Richard Osuala, Rose Nakasi, S Kevin Zhou, Sandy Napel, Sara Colantonio, Shadi Albarqouni, Smriti Joshi, Stacy Carter, Stefan Klein, Steffen E Petersen, Susanna Aussó, Suyash Awate, Tammy Riklin Raviv, Tessa Cook, Tinashe E M Mutsvangwa, Wendy A Rogers, Wiro J Niessen, Xènia Puig-Bosch, Yi Zeng, Yunusa G Mohammed, Yves Saint James Aquino, Zohaib Salahuddin, Martijn P A Starmans
+2309.12325v2 by Karim Lekadir, Aasa Feragen, Abdul Joseph Fofanah, Alejandro F Frangi, Alena Buyx, Anais Emelie, Andrea Lara, Antonio R Porras, An-Wen Chan, Arcadi Navarro, Ben Glocker, Benard O Botwe, Bishesh Khanal, Brigit Beger, Carol C Wu, Celia Cintas, Curtis P Langlotz, Daniel Rueckert, Deogratias Mzurikwao, Dimitrios I Fotiadis, Doszhan Zhussupov, Enzo Ferrante, Erik Meijering, Eva Weicken, Fabio A González, Folkert W Asselbergs, Fred Prior, Gabriel P Krestin, Gary Collins, Geletaw S Tegenaw, Georgios Kaissis, Gianluca Misuraca, Gianna Tsakou, Girish Dwivedi, Haridimos Kondylakis, Harsha Jayakody, Henry C Woodruf, Hugo JWL Aerts, Ian Walsh, Ioanna Chouvarda, Irène Buvat, Islem Rekik, James Duncan, Jayashree Kalpathy-Cramer, Jihad Zahir, Jinah Park, John Mongan, Judy W Gichoya, Julia A Schnabel, Kaisar Kushibar, Katrine Riklund, Kensaku Mori, Kostas Marias, Lameck M Amugongo, Lauren A Fromont, Lena Maier-Hein, Leonor Cerdá Alberich, Leticia Rittner, Lighton Phiri, Linda Marrakchi-Kacem, Lluís Donoso-Bach, Luis Martí-Bonmatí, M Jorge Cardoso, Maciej Bobowicz, Mahsa Shabani, Manolis Tsiknakis, Maria A Zuluaga, Maria Bielikova, Marie-Christine Fritzsche, Marius George Linguraru, Markus Wenzel, Marleen De Bruijne, Martin G Tolsgaard, Marzyeh Ghassemi, Md Ashrafuzzaman, Melanie Goisauf, Mohammad Yaqub, Mohammed Ammar, Mónica Cano Abadía, Mukhtar M E Mahmoud, Mustafa Elattar, Nicola Rieke, Nikolaos Papanikolaou, Noussair Lazrak, Oliver Díaz, Olivier Salvado, Oriol Pujol, Ousmane Sall, Pamela Guevara, Peter Gordebeke, Philippe Lambin, Pieta Brown, Purang Abolmaesumi, Qi Dou, Qinghua Lu, Richard Osuala, Rose Nakasi, S Kevin Zhou, Sandy Napel, Sara Colantonio, Shadi Albarqouni, Smriti Joshi, Stacy Carter, Stefan Klein, Steffen E Petersen, Susanna Aussó, Suyash Awate, Tammy Riklin Raviv, Tessa Cook, Tinashe E M Mutsvangwa, Wendy A Rogers, Wiro J Niessen, Xènia Puig-Bosch, Yi Zeng, Yunusa G Mohammed, Yves Saint James Aquino, Zohaib Salahuddin, Martijn P A Starmans
 
 Despite major advances in artificial intelligence (AI) for medicine and
 healthcare, the deployment and adoption of AI technologies remain limited in
@@ -1715,7 +1736,7 @@ trusted, deployed and adopted in real-world practice. Researchers are
 encouraged to take the recommendations into account in proof-of-concept stages
 to facilitate future translation towards clinical practice of medical AI.
 
-摘要：儘管在醫學和醫療保健方面的人工智慧 (AI) 有重大進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對與醫療 AI 相關的技術、臨床、倫理和法律風險提出了疑慮。為了增加實際世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和當局的信任和接受。本研究將 FUTURE-AI 指南描述為指導醫療保健中可信賴 AI 工具開發和部署的第一個國際共識框架。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家/地區的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟通過一個反覆運算的過程定義了可信賴 AI 的指導原則和最佳實務，包括深入的文獻回顧、修改後的德爾菲調查和線上共識會議。FUTURE-AI 框架是基於醫療保健中可信賴 AI 的 6 項指導原則建立的，即公平性、普遍性、可追溯性、可用性、健壯性和可解釋性。通過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋了醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，它提供了一個結構化的方法來構建可信賴、部署和採用於現實世界實務中的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮建議，以促進未來將醫療 AI 轉化為臨床實務。
+摘要：儘管在醫學和保健方面的人工智慧 (AI) 有重大進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對與醫療 AI 相關的技術、臨床、道德和法律風險提出了疑慮。為了增加現實世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和主管機關的信任和接受。本文將 FUTURE-AI 指南描述為指導醫療保健中值得信賴的 AI 工具開發和部署的第一個國際共識架構。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家/地區的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟通過一個反覆運算的流程定義了值得信賴的 AI 的指導原則和最佳實務，包括深入的文獻回顧、修正的德爾菲調查和線上共識會議。FUTURE-AI 架構建立在醫療保健中值得信賴的 AI 的 6 個指導原則之上，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。通過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，提供了一個結構化的方法來建構將在現實世界實務中受到信任、部署和採用的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮建議，以促進醫療 AI 未來向臨床實務的轉化。
 
 ##### **Explainable AI applications in the Medical Domain: a systematic review**
 2308.05411v1 by Nicoletta Prentzas, Antonis Kakas, Constantinos S. Pattichis
@@ -2528,28 +2549,4 @@ recognition task as well as on three tasks from the legal domain show the
 effectiveness of our approach to rationale extraction.
 
 摘要：<paragraph>在安全關鍵應用程式中，例如法律或醫療領域，解釋 AI 模型的預測至關重要。一種預測的解釋形式是萃取依據，亦即某個實例中導致模型對該實例做出預測的子集合特徵。例如，子詞組「他偷了手機」可能是「偷竊」預測的萃取依據。先前關於產生萃取依據的研究通常採用二階段模型：一個選擇器選擇最重要的特徵（即依據），接著是一個預測器，它根據所選的特徵獨家做出預測。這些研究的一個缺點是，學習選擇特徵的主要訊號來自將預測器給出的答案與真實答案進行比較。在這項研究中，我們建議透過資訊校正方法從預測器中擷取更多資訊。更精確地說，我們聯合訓練兩個模型：一個是典型的類神經網路模型，它以準確但黑箱的方式解決手邊的任務，另一個是選擇器預測器模型，它另外為其預測產生依據。第一個模型用作第二個模型的指南。我們使用對抗技術校正兩個模型萃取的資訊，使它們之間的差異成為遺漏或過度選擇的特徵的指標。此外，對於自然語言任務，我們提出一個基於語言模型的正規化器，以鼓勵萃取流暢的依據。情緒分析任務、仇恨言論辨識任務以及法律領域三個任務的實驗結果顯示，我們在依據萃取方面的做法十分有效。</paragraph>
-
-##### **Semantic match: Debugging feature attribution methods in XAI for healthcare**
-2301.02080v3 by Giovanni Cinà, Tabea E. Röber, Rob Goedhart, Ş. İlker Birbil
-
-The recent spike in certified Artificial Intelligence (AI) tools for
-healthcare has renewed the debate around adoption of this technology. One
-thread of such debate concerns Explainable AI (XAI) and its promise to render
-AI devices more transparent and trustworthy. A few voices active in the medical
-AI space have expressed concerns on the reliability of Explainable AI
-techniques and especially feature attribution methods, questioning their use
-and inclusion in guidelines and standards. Despite valid concerns, we argue
-that existing criticism on the viability of post-hoc local explainability
-methods throws away the baby with the bathwater by generalizing a problem that
-is specific to image data. We begin by characterizing the problem as a lack of
-semantic match between explanations and human understanding. To understand when
-feature importance can be used reliably, we introduce a distinction between
-feature importance of low- and high-level features. We argue that for data
-types where low-level features come endowed with a clear semantics, such as
-tabular data like Electronic Health Records (EHRs), semantic match can be
-obtained, and thus feature attribution methods can still be employed in a
-meaningful and useful way. Finally, we sketch a procedure to test whether
-semantic match has been achieved.
-
-摘要：最近通過認證的人工智慧（AI）醫療保健工具數量激增，讓採用此技術的辯論再度浮上檯面。其中一個辯論主題是可解釋人工智慧（XAI）及其讓 AI 裝置更透明且值得信賴的承諾。醫療 AI 領域中的一些積極發言者表達了對可解釋 AI 技術，尤其是特徵歸因方法的可靠性疑慮，質疑其在準則和標準中的使用和納入。儘管有合理的疑慮，我們主張對事後局部可解釋性方法的可行性提出批評，等於連同洗澡水一起把嬰兒倒掉，因為這是在對影像資料特有的問題進行概化。我們從將問題描述為解釋與人類理解之間缺乏語意匹配開始。為了瞭解何時可以可靠地使用特徵重要性，我們區分了低階和高階特徵的特徵重要性。我們主張，對於低階特徵具有明確語意的資料類型，例如電子健康記錄（EHR）等表格資料，可以獲得語意匹配，因此仍然可以在有意義且有用的方式中採用特徵歸因方法。最後，我們概述了一個程序，以測試是否已達成語意匹配。
 

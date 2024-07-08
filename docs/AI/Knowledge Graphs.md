@@ -2,11 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485v1](http://arxiv.org/abs/2407.04485v1)|null|
+|**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363v1](http://arxiv.org/abs/2407.04363v1)|[link](https://github.com/airi-institute/arigraph)|
+|**2024-07-04**|**Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**|Peiran Yao et.al.|[2407.04067v1](http://arxiv.org/abs/2407.04067v1)|null|
+|**2024-07-04**|**Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**|Lei Yu et.al.|[2407.03779v1](http://arxiv.org/abs/2407.03779v1)|null|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
 |**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
 |**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
 |**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v1](http://arxiv.org/abs/2407.02659v1)|null|
+|**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380v1](http://arxiv.org/abs/2407.03380v1)|null|
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
 |**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511v1](http://arxiv.org/abs/2407.01511v1)|[link](https://github.com/camel-ai/crab)|
@@ -41,7 +46,7 @@
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v2](http://arxiv.org/abs/2406.15859v2)|null|
 |**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
 |**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
-|**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
+|**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v2](http://arxiv.org/abs/2406.15294v2)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
 |**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214v1](http://arxiv.org/abs/2406.15214v1)|null|
 |**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v2](http://arxiv.org/abs/2406.14969v2)|null|
 |**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745v2](http://arxiv.org/abs/2406.14745v2)|null|
@@ -97,13 +102,109 @@
 |**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727v1](http://arxiv.org/abs/2406.07727v1)|null|
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
 |**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v2](http://arxiv.org/abs/2406.07494v2)|null|
-|**2024-06-11**|**Large Language Models for Constrained-Based Causal Discovery**|Kai-Hendrik Cohrs et.al.|[2406.07378v1](http://arxiv.org/abs/2406.07378v1)|[link](https://github.com/ipl-uv/causal_gpt)|
-|**2024-06-11**|**Scaling Large-Language-Model-based Multi-Agent Collaboration**|Chen Qian et.al.|[2406.07155v1](http://arxiv.org/abs/2406.07155v1)|[link](https://github.com/openbmb/chatdev)|
-|**2024-06-11**|**Mining Frequent Structures in Conceptual Models**|Mattia Fumagalli et.al.|[2406.07129v1](http://arxiv.org/abs/2406.07129v1)|[link](https://github.com/unibz-core/cm-mining_experimentdata)|
-|**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113v2](http://arxiv.org/abs/2406.07113v2)|null|
-|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080v1](http://arxiv.org/abs/2406.07080v1)|[link](https://github.com/UKPLab/acl2024-DARA)|
 
 #### Abstracts
+##### **Leveraging Graph Structures to Detect Hallucinations in Large Language Models**
+2407.04485v1 by Noa Nonkes, Sergei Agaronian, Evangelos Kanoulas, Roxana Petcu
+
+Large language models are extensively applied across a wide range of tasks,
+such as customer support, content creation, educational tutoring, and providing
+financial guidance. However, a well-known drawback is their predisposition to
+generate hallucinations. This damages the trustworthiness of the information
+these models provide, impacting decision-making and user confidence. We propose
+a method to detect hallucinations by looking at the structure of the latent
+space and finding associations within hallucinated and non-hallucinated
+generations. We create a graph structure that connects generations that lie
+closely in the embedding space. Moreover, we employ a Graph Attention Network
+which utilizes message passing to aggregate information from neighboring nodes
+and assigns varying degrees of importance to each neighbor based on their
+relevance. Our findings show that 1) there exists a structure in the latent
+space that differentiates between hallucinated and non-hallucinated
+generations, 2) Graph Attention Networks can learn this structure and
+generalize it to unseen generations, and 3) the robustness of our method is
+enhanced when incorporating contrastive learning. When evaluated against
+evidence-based benchmarks, our model performs similarly without access to
+search-based methods.
+
+摘要：大型語言模型廣泛應用於各種任務中，例如客戶支援、內容創作、教育輔導和提供財務指導。然而，一個眾所周知的缺點是它們傾向於產生幻覺。這損害了這些模型所提供資訊的可信度，影響了決策制定和使用者信心。我們提出了一種透過觀察潛在空間的結構並找出幻覺和非幻覺生成中的關聯來偵測幻覺的方法。我們建立了一個圖形結構，連接在嵌入空間中緊密相連的生成。此外，我們採用了一個圖形注意力網路，它利用訊息傳遞來彙總來自相鄰節點的資訊，並根據每個相鄰節點的相關性為其指定不同程度的重要性。我們的研究結果顯示，1) 潛在空間中存在一個結構，可以區分幻覺和非幻覺生成，2) 圖形注意力網路可以學習這個結構並將其概括到未見的生成中，以及 3) 當納入對比學習時，我們方法的穩健性會得到增強。當根據基於證據的基準進行評估時，我們的模型在無法取得基於搜尋的方法的情況下，表現得類似。
+
+##### **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**
+2407.04363v1 by Petr Anokhin, Nikita Semenov, Artyom Sorokin, Dmitry Evseev, Mikhail Burtsev, Evgeny Burnaev
+
+Advancements in generative AI have broadened the potential applications of
+Large Language Models (LLMs) in the development of autonomous agents. Achieving
+true autonomy requires accumulating and updating knowledge gained from
+interactions with the environment and effectively utilizing it. Current
+LLM-based approaches leverage past experiences using a full history of
+observations, summarization or retrieval augmentation. However, these
+unstructured memory representations do not facilitate the reasoning and
+planning essential for complex decision-making. In our study, we introduce
+AriGraph, a novel method wherein the agent constructs a memory graph that
+integrates semantic and episodic memories while exploring the environment. This
+graph structure facilitates efficient associative retrieval of interconnected
+concepts, relevant to the agent's current state and goals, thus serving as an
+effective environmental model that enhances the agent's exploratory and
+planning capabilities. We demonstrate that our Ariadne LLM agent, equipped with
+this proposed memory architecture augmented with planning and decision-making,
+effectively handles complex tasks on a zero-shot basis in the TextWorld
+environment. Our approach markedly outperforms established methods such as
+full-history, summarization, and Retrieval-Augmented Generation in various
+tasks, including the cooking challenge from the First TextWorld Problems
+competition and novel tasks like house cleaning and puzzle Treasure Hunting.
+
+摘要：生成式 AI 的進步擴展了大型語言模型 (LLM) 在自主代理開發中的潛在應用。實現真正的自主性需要累積和更新從與環境互動中獲得的知識，並有效利用它。當前的基於 LLM 的方法利用過去的經驗，使用完整的觀察、摘要或檢索擴充。然而，這些非結構化的記憶表徵並不能促進複雜決策制定中必不可少的推理和規劃。在我們的研究中，我們介紹了 AriGraph，這是一種新方法，其中代理構建了一個記憶圖，該圖在探索環境時整合了語義和情節記憶。這種圖形結構促進了相互聯繫的概念的有效關聯性檢索，與代理的當前狀態和目標相關，從而作為一個有效的環境模型，增強了代理的探索和規劃能力。我們展示了我們的 Ariadne LLM 代理，配備了這種提議的記憶架構，並增強了規劃和決策制定，有效地處理了 TextWorld 環境中零次學習的複雜任務。我們的做法顯著優於已建立的方法，例如完整歷史、摘要和檢索增強生成，在各種任務中，包括來自第一個 TextWorld 問題競賽的烹飪挑戰和房屋清潔和拼圖尋寶等新任務。
+
+##### **Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**
+2407.04067v1 by Peiran Yao, Kostyantyn Guzhva, Denilson Barbosa
+
+Symbolic sentence meaning representations, such as AMR (Abstract Meaning
+Representation) provide expressive and structured semantic graphs that act as
+intermediates that simplify downstream NLP tasks. However, the
+instruction-following capability of large language models (LLMs) offers a
+shortcut to effectively solve NLP tasks, questioning the utility of semantic
+graphs. Meanwhile, recent work has also shown the difficulty of using meaning
+representations merely as a helpful auxiliary for LLMs. We revisit the position
+of semantic graphs in syntactic simplification, the task of simplifying
+sentence structures while preserving their meaning, which requires semantic
+understanding, and evaluate it on a new complex and natural dataset. The
+AMR-based method that we propose, AMRS$^3$, demonstrates that state-of-the-art
+meaning representations can lead to easy-to-implement simplification methods
+with competitive performance and unique advantages in cost, interpretability,
+and generalization. With AMRS$^3$ as an anchor, we discover that syntactic
+simplification is a task where semantic graphs are helpful in LLM prompting. We
+propose AMRCoC prompting that guides LLMs to emulate graph algorithms for
+explicit symbolic reasoning on AMR graphs, and show its potential for improving
+LLM on semantic-centered tasks like syntactic simplification.
+
+摘要：符號句子意義表徵，例如 AMR（抽象意義表徵），提供表達性和結構化的語義圖表，作為簡化下游 NLP 任務的中介。然而，大型語言模型 (LLM) 的指令遵循能力提供了一個捷徑來有效解決 NLP 任務，質疑語義圖表的效用。同時，最近的研究也表明僅將意義表徵用作 LLM 的輔助工具的難度。我們重新審視語義圖表在語法簡化中的位置，語法簡化的任務是在保留句子結構的同時簡化句子結構，這需要語義理解，並在一個新的複雜且自然的數據集上對其進行評估。我們提出的基於 AMR 的方法 AMRS$^3$ 證明了最先進的意義表徵可以導致易於實現的簡化方法，在成本、可解釋性和泛化方面具有競爭優勢和獨特優勢。以 AMRS$^3$ 為錨點，我們發現語法簡化是一項語義圖表有助於 LLM 提示的任務。我們提出 AMRCoC 提示，指導 LLM 模擬圖形演算法，對 AMR 圖形進行明確的符號推理，並展示其在改進 LLM 在以語義為中心的任務（如語法簡化）方面的潛力。
+
+##### **Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**
+2407.03779v1 by Lei Yu, Jingcheng Niu, Zining Zhu, Gerald Penn
+
+In this paper, we introduce a comprehensive reformulation of the task known
+as Circuit Discovery, along with DiscoGP, a novel and effective algorithm based
+on differentiable masking for discovering circuits. Circuit discovery is the
+task of interpreting the computational mechanisms of language models (LMs) by
+dissecting their functions and capabilities into sparse subnetworks (circuits).
+We identified two major limitations in existing circuit discovery efforts: (1)
+a dichotomy between weight-based and connection-edge-based approaches forces
+researchers to choose between pruning connections or weights, thereby limiting
+the scope of mechanistic interpretation of LMs; (2) algorithms based on
+activation patching tend to identify circuits that are neither functionally
+faithful nor complete. The performance of these identified circuits is
+substantially reduced, often resulting in near-random performance in isolation.
+Furthermore, the complement of the circuit -- i.e., the original LM with the
+identified circuit removed -- still retains adequate performance, indicating
+that essential components of a complete circuits are missed by existing
+methods.
+  DiscoGP successfully addresses the two aforementioned issues and demonstrates
+state-of-the-art faithfulness, completeness, and sparsity. The effectiveness of
+the algorithm and its novel structure open up new avenues of gathering new
+insights into the internal workings of generative AI.
+
+摘要：<paragraph>在本文中，我們介紹了對稱為電路發現任務的全面重新表述，以及 DiscoGP，一種基於可微遮罩的發現電路的新穎且有效的演算法。電路發現是透過將其功能和能力解剖成稀疏子網路（電路）來詮釋語言模型（LM）的運算機制的任務。我們在現有的電路發現工作中發現了兩個主要的限制：（1）基於權重和基於連接邊緣的方法之間的二分法迫使研究人員在修剪連接或權重之間進行選擇，從而限制了 LM 機制詮釋的範圍；（2）基於啟用修補的演算法傾向於識別在功能上既不忠實也不完整的電路。這些已識別電路的效能大幅降低，通常導致孤立的近乎隨機效能。此外，電路的補數——即移除已識別電路的原始 LM——仍保留了足夠的效能，這表示現有方法錯失了完整電路的基本組成部分。
+DiscoGP 成功地解決了上述兩個問題，並展示了最先進的忠實度、完整性和稀疏性。該演算法的有效性和其新穎的結構為深入瞭解生成式 AI 的內部運作開闢了新的途徑。</paragraph>
+
 ##### **BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**
 2407.03314v1 by Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng
 
@@ -212,6 +313,25 @@ modeling "black-box" systems, as well as the training corpus. A prototype of
 our system will be found on a hyperlinked GitHub repository.
 
 摘要：鉴于出版商、报纸和其他受版权保护语料库的创造者最近对大型语言模型 (LLM) 开发者提出的剽窃指控，我们提出了一种新颖的系统，该系统是剽窃检测系统的一个变体，它评估知识源是否已用于大型语言模型的训练或微调。与当前方法不同，我们利用一种使用资源描述框架 (RDF) 三元组的方法从源文档和该文档的 LLM 延续中创建知识图谱。然后使用余弦相似性分析这些图谱的内容，并使用图编辑距离的标准化版本分析结构，该版本显示同构度。与专注于源语料库和目标语料库之间的内容匹配和关键词识别的传统系统不同，我们的方法能够对相似性进行更广泛的评估，从而更准确地比较源文档和 LLM 延续之间的相似性，方法是关注思想之间的关系以及它们与其他思想的关系。此外，我们的方法不需要访问 LLM 指标，例如困惑度，这些指标在封闭的大型语言建模“黑匣子”系统以及训练语料库中可能不可用。我们系统的原型将在超链接的 GitHub 存储库中找到。
+
+##### **Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**
+2407.03380v1 by Srivathsan Badrinarayanan, Chakradhar Guntuboina, Parisa Mollaei, Amir Barati Farimani
+
+Peptides are essential in biological processes and therapeutics. In this
+study, we introduce Multi-Peptide, an innovative approach that combines
+transformer-based language models with Graph Neural Networks (GNNs) to predict
+peptide properties. We combine PeptideBERT, a transformer model tailored for
+peptide property prediction, with a GNN encoder to capture both sequence-based
+and structural features. By employing Contrastive Language-Image Pre-training
+(CLIP), Multi-Peptide aligns embeddings from both modalities into a shared
+latent space, thereby enhancing the model's predictive accuracy. Evaluations on
+hemolysis and nonfouling datasets demonstrate Multi-Peptide's robustness,
+achieving state-of-the-art 86.185% accuracy in hemolysis prediction. This study
+highlights the potential of multimodal learning in bioinformatics, paving the
+way for accurate and reliable predictions in peptide-based research and
+applications.
+
+摘要：肽在生物過程和治療中至關重要。在此研究中，我們介紹了多肽，這是一種創新的方法，結合了基於轉換器的語言模型和圖神經網絡 (GNN) 來預測肽的性質。我們結合了專門用於肽性質預測的轉換器模型 PeptideBERT 和 GNN 編碼器，以捕獲基於序列和結構的特徵。通過採用對比語言圖像預訓練 (CLIP)，多肽將來自兩種模態的嵌入對齊到一個共享的潛在空間中，從而增強模型的預測準確度。對溶血和抗污數據集的評估證明了多肽的穩健性，在溶血預測中實現了最先進的 86.185% 準確率。本研究強調了生物信息學中多模態學習的潛力，為基於肽的研究和應用中的準確且可靠的預測鋪平了道路。
 
 ##### **Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**
 2407.02352v1 by Pritish Sahu, Karan Sikka, Ajay Divakaran
@@ -1027,7 +1147,7 @@ deteriorated due to overfitting around 22k classes.
 摘要：可插拔类型系统允许程序员扩展编程语言的类型系统，以执行程序员定义的语义属性。可插拔类型系统难以部署在遗留代码库中，因为它们要求程序员手动编写类型注释。本文研究如何使用机器学习自动推断类型限定符。我们提出了一种新颖的表示形式 NaP-AST，它对类型限定符的有效推断编码了最小的数据流提示。我们评估了用于推断类型限定符的几种模型架构，包括图转换器网络、图卷积网络和大语言模型。我们通过将这些模型应用于 NullAway 可插拔类型检查器的先前评估中的 12 个开源程序，进一步验证了这些模型，除了一个未注释的项目外，降低了所有项目的警告。我们发现 GTN 表现最佳，召回率为 0.89，精确率为 0.6。此外，我们进行了一项研究，以估计训练模型良好性能所需的 Java 类数量。对于我们的可行性研究，性能提高了约 16k 个类，并且由于在 22k 个类左右过度拟合而恶化。
 
 ##### **NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**
-2406.15294v1 by Tim Schopf, Florian Matthes
+2406.15294v2 by Tim Schopf, Florian Matthes
 
 Scientific literature searches are often exploratory, whereby users are not
 yet familiar with a particular field or concept but are interested in learning
@@ -1047,7 +1167,8 @@ between different fields, understanding unfamiliar concepts in NLP, and finding
 relevant research literature. Demo, video, and code are available at:
 https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp.
 
-摘要：科學文獻搜尋通常帶有探索性質，使用者可能尚未熟悉特定領域或概念，但有興趣進一步了解。然而，現有的科學文獻搜尋系統通常針對基於關鍵字的查詢搜尋進行調整，限制了探索的可能性。我們提出 NLP-KG，這是一個功能豐富的系統，旨在支援在不熟悉的自然語言處理 (NLP) 領域探索研究文獻。除了語義搜尋外，NLP-KG 使用者可以輕鬆找到提供特定領域快速入門的調查論文。此外，研究領域階層圖表使用戶能夠熟悉一個領域及其相關領域。最後，聊天介面使用戶可以詢問有關 NLP 中不熟悉概念或特定文章的問題，並取得植基於從科學出版品中擷取的知識的答案。我們的系統為使用者提供全面的探索可能性，支援他們調查不同領域之間的關係，了解 NLP 中不熟悉概念，並找到相關的研究文獻。示範、影片和程式碼可於下列網址取得：https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp。
+摘要：科學文獻的搜尋通常是探索性的，使用者可能還不熟悉某個特定領域或概念，但有興趣進一步了解它。然而，現有的科學文獻搜尋系統通常專門針對基於關鍵字的查詢搜尋，限制了探索的可能性。我們提出 NLP-KG，這是一個功能豐富的系統，旨在支援在不熟悉的自然語言處理 (NLP) 領域中探索研究文獻。除了語意搜尋之外，NLP-KG 使用者可以輕鬆找到提供對感興趣領域的快速介紹的綜述論文。此外，研究領域階層圖讓使用者能夠熟悉一個領域及其相關領域。最後，聊天介面允許使用者詢問有關不熟悉的概念或 NLP 中特定文章的問題，並獲得從科學出版物中擷取的知識為基礎的答案。我們的系統為使用者提供全面的探索可能性，協助他們調查不同領域之間的關係，理解 NLP 中不熟悉的概念，並找到相關的研究文獻。示範、影片和程式碼可在以下網址取得：
+https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp。
 
 ##### **Unsupervised Extraction of Dialogue Policies from Conversations**
 2406.15214v1 by Makesh Narsimhan Sreedhar, Traian Rebedea, Christopher Parisien
@@ -2396,126 +2517,4 @@ potential shift in relevance and difficulty, our described challenge taxonomy
 remains relevant.
 
 摘要：<paragraph>抽象式對話摘要是將對話濃縮成具有資訊性且簡潔的摘要。儘管已針對此主題進行審查，但仍缺乏詳細說明對話摘要挑戰、統一對任務的不同理解，以及將建議的技術、資料集和評估指標與挑戰相符的全面性研究。本文透過系統性地檢閱 2019 年至 2024 年間發表的 1262 篇獨特研究論文，依賴語義學者和 DBLP 資料庫，總結了基於 Transformer 的英語對話抽象式摘要的研究。我們涵蓋對話摘要中出現的主要挑戰（即語言、結構、理解、說話者、顯著性和真實性），並將它們連結到對應的技術，例如基於圖形的方法、額外的訓練任務和規劃策略，這些策略通常過度依賴於基於 BART 的編碼器-解碼器模型。我們發現，雖然語言等一些挑戰在很大程度上取得了進展，這主要是由於訓練方法，但其他挑戰，例如理解、真實性和顯著性，仍然很困難，並具有重大的研究機會。我們探討了通常如何評估這些方法，涵蓋了對話子領域（例如會議、醫療）的資料集，既定的自動化指標和用於評估分數和註解者一致性的評估方法。我們觀察到，只有少數資料集跨越所有子領域。ROUGE 指標使用最頻繁，而人類評估通常在沒有足夠的註解者內部一致性和註解指南的詳細資訊下進行報告。此外，我們討論了近期探索的大語言模型的可能影響，並得出結論，儘管相關性和難度可能發生轉變，但我們所描述的挑戰分類法仍然相關。</paragraph>
-
-##### **Large Language Models for Constrained-Based Causal Discovery**
-2406.07378v1 by Kai-Hendrik Cohrs, Gherardo Varando, Emiliano Diaz, Vasileios Sitokonstantinou, Gustau Camps-Valls
-
-Causality is essential for understanding complex systems, such as the
-economy, the brain, and the climate. Constructing causal graphs often relies on
-either data-driven or expert-driven approaches, both fraught with challenges.
-The former methods, like the celebrated PC algorithm, face issues with data
-requirements and assumptions of causal sufficiency, while the latter demand
-substantial time and domain knowledge. This work explores the capabilities of
-Large Language Models (LLMs) as an alternative to domain experts for causal
-graph generation. We frame conditional independence queries as prompts to LLMs
-and employ the PC algorithm with the answers. The performance of the LLM-based
-conditional independence oracle on systems with known causal graphs shows a
-high degree of variability. We improve the performance through a proposed
-statistical-inspired voting schema that allows some control over false-positive
-and false-negative rates. Inspecting the chain-of-thought argumentation, we
-find causal reasoning to justify its answer to a probabilistic query. We show
-evidence that knowledge-based CIT could eventually become a complementary tool
-for data-driven causal discovery.
-
-摘要：因果關係對於理解複雜的系統至關重要，例如經濟、大腦和氣候。建構因果圖表通常依賴於資料驅動或專家驅動的方法，這兩種方法都充滿了挑戰。前者方法，例如著名的 PC 演算法，面臨資料需求和因果充足性的假設問題，而後者則需要大量的時間和領域知識。這項工作探討了大型語言模型 (LLM) 作為因果圖生成領域專家的替代方案的能力。我們將條件獨立查詢設定為 LLM 的提示，並使用 PC 演算法搭配答案。基於 LLM 的條件獨立神諭在具有已知因果圖表的系統上的效能顯示出高度的變異性。我們透過提議的統計啟發式投票架構來改善效能，該架構允許對假陽性和假陰性率進行一些控制。檢查思考鏈論證，我們發現因果推理可以證明其對機率查詢的回答。我們顯示基於知識的 CIT 最終可能成為資料驅動因果發現的補充工具的證據。
-
-##### **Scaling Large-Language-Model-based Multi-Agent Collaboration**
-2406.07155v1 by Chen Qian, Zihao Xie, Yifei Wang, Wei Liu, Yufan Dang, Zhuoyun Du, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun
-
-Pioneering advancements in large language model-powered agents have
-underscored the design pattern of multi-agent collaboration, demonstrating that
-collective intelligence can surpass the capabilities of each individual.
-Inspired by the neural scaling law, which posits that increasing neurons leads
-to emergent abilities, this study investigates whether a similar principle
-applies to increasing agents in multi-agent collaboration. Technically, we
-propose multi-agent collaboration networks (MacNet), which utilize directed
-acyclic graphs to organize agents and streamline their interactive reasoning
-via topological ordering, with solutions derived from their dialogues.
-Extensive experiments show that MacNet consistently outperforms baseline
-models, enabling effective agent collaboration across various network
-topologies and supporting cooperation among more than a thousand agents.
-Notably, we observed a small-world collaboration phenomenon, where topologies
-resembling small-world properties achieved superior performance. Additionally,
-we identified a collaborative scaling law, indicating that normalized solution
-quality follows a logistic growth pattern as scaling agents, with collaborative
-emergence occurring much earlier than previously observed instances of neural
-emergence. The code and data will be available at
-https://github.com/OpenBMB/ChatDev.
-
-摘要：<paragraph>大型语言模型驱动的代理的开创性进步强调了多代理协作的设计模式，证明了集体智能可以超越每个个体的能力。受神经网络扩展定律的启发，该定律认为增加神经元会导致能力的涌现，本研究调查了类似的原理是否适用于增加多代理协作中的代理。在技术上，我们提出了多代理协作网络（MacNet），它利用有向无环图来组织代理并通过拓扑排序简化它们的交互推理，解决方案来自它们的对话。广泛的实验表明，MacNet 始终优于基线模型，能够在各种网络拓扑中实现有效的代理协作，并支持一千多个代理之间的合作。值得注意的是，我们观察到了一种小世界协作现象，其中类似于小世界属性的拓扑结构取得了卓越的性能。此外，我们确定了一个协作扩展定律，表明归一化解决方案质量遵循逻辑增长模式作为扩展代理，协作涌现比先前观察到的神经涌现实例发生得更早。代码和数据将可在 https://github.com/OpenBMB/ChatDev 获得。</paragraph>
-
-##### **Mining Frequent Structures in Conceptual Models**
-2406.07129v1 by Mattia Fumagalli, Tiago Prince Sales, Pedro Paulo F. Barcelos, Giovanni Micale, Vadim Zaytsev, Diego Calvanese, Giancarlo Guizzardi
-
-The problem of using structured methods to represent knowledge is well-known
-in conceptual modeling and has been studied for many years. It has been proven
-that adopting modeling patterns represents an effective structural method.
-Patterns are, indeed, generalizable recurrent structures that can be exploited
-as solutions to design problems. They aid in understanding and improving the
-process of creating models. The undeniable value of using patterns in
-conceptual modeling was demonstrated in several experimental studies. However,
-discovering patterns in conceptual models is widely recognized as a highly
-complex task and a systematic solution to pattern identification is currently
-lacking. In this paper, we propose a general approach to the problem of
-discovering frequent structures, as they occur in conceptual modeling
-languages. As proof of concept for our scientific contribution, we provide an
-implementation of the approach, by focusing on UML class diagrams, in
-particular OntoUML models. This implementation comprises an exploratory tool,
-which, through the combination of a frequent subgraph mining algorithm and
-graph manipulation techniques, can process multiple conceptual models and
-discover recurrent structures according to multiple criteria. The primary
-objective is to offer a support facility for language engineers. This can be
-employed to leverage both good and bad modeling practices, to evolve and
-maintain the conceptual modeling language, and to promote the reuse of encoded
-experience in designing better models with the given language.
-
-摘要：結構化方法用於表示知識的問題在概念建模中是眾所周知的，並且已經研究多年。已經證明採用建模模式代表一種有效的結構化方法。模式確實是可概括的遞迴結構，可以作為設計問題的解決方案加以利用。它們有助於理解和改進建立模型的過程。在多項實驗研究中證明了在概念建模中使用模式的不可否認價值。然而，發現概念模型中的模式被廣泛認為是一項高度複雜的任務，而且目前缺乏模式識別的系統性解決方案。在本文中，我們提出了一種發現頻繁結構問題的一般方法，因為它們出現在概念建模語言中。作為我們科學貢獻的概念驗證，我們提供了一種方法的實現，重點關注 UML 類別圖，特別是 OntoUML 模型。此實現包含一個探索工具，該工具通過結合頻繁子圖挖掘演算法和圖形處理技術，可以處理多個概念模型，並根據多個標準發現遞迴結構。主要目標是為語言工程師提供支援工具。這可以用來利用好的和壞的建模實務，來演進和維護概念建模語言，並促進在設計更好的模型時對編碼經驗的再利用。
-
-##### **Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**
-2406.07113v2 by Sergey Linok, Tatiana Zemskova, Svetlana Ladanova, Roman Titkov, Dmitry Yudin
-
-Locating objects referred to in natural language poses a significant
-challenge for autonomous agents. Existing CLIP-based open-vocabulary methods
-successfully perform 3D object retrieval with simple (bare) queries but cannot
-cope with ambiguous descriptions that demand an understanding of object
-relations. To tackle this problem, we propose a modular approach called BBQ
-(Beyond Bare Queries), which constructs 3D scene spatial graph representation
-with metric edges and utilizes a large language model as a human-to-agent
-interface through our deductive scene reasoning algorithm. BBQ employs robust
-DINO-powered associations to form 3D objects, an advanced raycasting algorithm
-to project them to 2D, and a vision-language model to describe them as graph
-nodes. On Replica and ScanNet datasets, we show that the designed method
-accurately constructs 3D object-centric maps. We have demonstrated that their
-quality takes a leading place for open-vocabulary 3D semantic segmentation
-against other zero-shot methods. Also, we show that leveraging spatial
-relations is especially effective for scenes containing multiple entities of
-the same semantic class. On Sr3D and Nr3D benchmarks, our deductive approach
-demonstrates a significant improvement, enabling retrieving objects by complex
-queries compared to other state-of-the-art methods. Considering our design
-solutions, we achieved a processing speed approximately x3 times faster than
-the closest analog. This promising performance enables our approach for usage
-in applied intelligent robotics projects. We make the code publicly available
-at linukc.github.io/bbq/.
-
-摘要：<paragraph>對於自主代理而言，定位自然語言中所指涉的物件會帶來重大的挑戰。現有的基於 CLIP 的開放式詞彙方法可以成功地使用簡單（裸）查詢來執行 3D 物件擷取，但無法應對需要理解物件關係的模稜兩可的描述。為了解決這個問題，我們提出了一個名為 BBQ（超越裸查詢）的模組化方法，該方法構建了具有度量邊緣的 3D 場景空間圖形表示，並透過我們演繹場景推理演算法將大型語言模型用作人到代理介面。BBQ 使用強大的 DINO 驅動關聯來形成 3D 物件，一種進階的光線投射演算法將它們投影到 2D，以及一個視覺語言模型將它們描述為圖形節點。在 Replica 和 ScanNet 資料集上，我們展示了所設計的方法可以準確地建構 3D 物件為中心的對應。我們已經證明，它們的品質在開放式詞彙 3D 語意分割中領先於其他零次學習方法。此外，我們展示了利用空間關係對於包含多個具有相同語意類別的實體的場景特別有效。在 Sr3D 和 Nr3D 基準上，我們的演繹方法展示了顯著的改進，與其他最先進的方法相比，能夠透過複雜的查詢來擷取物件。考量我們的設計解決方案，我們達到了比最接近的類比快約 3 倍的處理速度。這種有前途的效能使我們的做法能夠用於應用智慧機器人專案中。我們在 linukc.github.io/bbq/ 公開程式碼。</paragraph>
-
-##### **DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**
-2406.07080v1 by Haishuo Fang, Xiaodan Zhu, Iryna Gurevych
-
-Answering Questions over Knowledge Graphs (KGQA) is key to well-functioning
-autonomous language agents in various real-life applications. To improve the
-neural-symbolic reasoning capabilities of language agents powered by Large
-Language Models (LLMs) in KGQA, we propose the DecompositionAlignment-Reasoning
-Agent (DARA) framework. DARA effectively parses questions into formal queries
-through a dual mechanism: high-level iterative task decomposition and low-level
-task grounding. Importantly, DARA can be efficiently trained with a small
-number of high-quality reasoning trajectories. Our experimental results
-demonstrate that DARA fine-tuned on LLMs (e.g. Llama-2-7B, Mistral) outperforms
-both in-context learning-based agents with GPT-4 and alternative fine-tuned
-agents, across different benchmarks in zero-shot evaluation, making such models
-more accessible for real-life applications. We also show that DARA attains
-performance comparable to state-of-the-art enumerating-and-ranking-based
-methods for KGQA.
-
-摘要：回答知識圖表（KGQA）上的問題是各種現實生活應用中運作良好的自主語言代理的關鍵。為了改善大型語言模型（LLM）在 KGQA 中驅動的語言代理的神經符號推理能力，我們提出了分解對齊推理代理（DARA）框架。DARA 通過雙重機制有效地將問題解析為正式查詢：高級別迭代任務分解和低級別任務基礎。重要的是，DARA 可以使用少量的高品質推理軌跡進行有效訓練。我們的實驗結果表明，在 LLM（例如 Llama-2-7B、Mistral）上微調的 DARA 在零次評估的不同基準上優於基於上下文中學習的代理（使用 GPT-4）和替代微調代理，這使得此類模型更易於應用於現實生活中。我們還表明，DARA 獲得了與 KGQA 的最先進列舉和排名方法相當的性能。
 

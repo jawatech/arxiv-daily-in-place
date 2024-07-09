@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-11**|**Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v2](http://arxiv.org/abs/2406.07114v2)|null|
@@ -24,7 +25,6 @@
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v3](http://arxiv.org/abs/2405.06270v3)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
-|**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v2](http://arxiv.org/abs/2404.17977v2)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
@@ -66,7 +66,7 @@
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
-|**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v2](http://arxiv.org/abs/2309.12325v2)|null|
+|**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v3](http://arxiv.org/abs/2309.12325v3)|null|
 |**2023-08-10**|**Explainable AI applications in the Medical Domain: a systematic review**|Nicoletta Prentzas et.al.|[2308.05411v1](http://arxiv.org/abs/2308.05411v1)|null|
 |**2023-08-01**|**Exploring the Role of Explainability in AI-Assisted Embryo Selection**|Lucia Urcelay et.al.|[2308.02534v1](http://arxiv.org/abs/2308.02534v1)|null|
 |**2023-07-26**|**A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**|Timo Speith et.al.|[2307.14246v1](http://arxiv.org/abs/2307.14246v1)|null|
@@ -104,6 +104,35 @@
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 
 #### Abstracts
+##### **Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**
+2407.05440v1 by P. N. Karthikayan, Yoga Sri Varshan V, Hitesh Gupta Kattamuri, Umarani Jayaraman
+
+This paper presents dilated Residual Network (ResNet) models for disease
+classification from retinal fundus images. Dilated convolution filters are used
+to replace normal convolution filters in the higher layers of the ResNet model
+(dilated ResNet) in order to improve the receptive field compared to the normal
+ResNet model for disease classification. This study introduces
+computer-assisted diagnostic tools that employ deep learning, enhanced with
+explainable AI techniques. These techniques aim to make the tool's
+decision-making process transparent, thereby enabling medical professionals to
+understand and trust the AI's diagnostic decision. They are particularly
+relevant in today's healthcare landscape, where there is a growing demand for
+transparency in AI applications to ensure their reliability and ethical use.
+The dilated ResNet is used as a replacement for the normal ResNet to enhance
+the classification accuracy of retinal eye diseases and reduce the required
+computing time. The dataset used in this work is the Ocular Disease Intelligent
+Recognition (ODIR) dataset which is a structured ophthalmic database with eight
+classes covering most of the common retinal eye diseases. The evaluation
+metrics used in this work include precision, recall, accuracy, and F1 score. In
+this work, a comparative study has been made between normal ResNet models and
+dilated ResNet models on five variants namely ResNet-18, ResNet-34, ResNet-50,
+ResNet-101, and ResNet-152. The dilated ResNet model shows promising results as
+compared to normal ResNet with an average F1 score of 0.71, 0.70, 0.69, 0.67,
+and 0.70 respectively for the above respective variants in ODIR multiclass
+disease classification.
+
+摘要：<paragraph>本文提出了用于视网膜眼底图像疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善与用于疾病分类的正常 ResNet 模型相比的感受野。本研究介绍了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医疗专业人员能够理解和信任 AI 的诊断决策。它们在当今医疗保健领域尤为重要，因为对 AI 应用程序的透明度需求不断增长，以确保其可靠性和道德使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼病的分类准确性并减少所需的计算时间。本工作中使用的数据集是 Ocular Disease Intelligent Recognition (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 分数。在这项工作中，对正常 ResNet 模型和扩张 ResNet 模型在五个变体（即 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152）之间进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 分数分别为 0.71、0.70、0.69、0.67 和 0.70。</paragraph>
+
 ##### **Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**
 2407.00167v1 by Sai Krishna Revanth Vuruma, Dezhi Wu, Saborny Sen Gupta, Lucas Aust, Valerie Lookingbill, Wyatt Bellamy, Yang Ren, Erin Kasson, Li-Shiun Chen, Patricia Cavazos-Rehg, Dian Hu, Ming Huang
 
@@ -634,27 +663,6 @@ analysis methods in risk prediction, improving interpretability for clinical
 decision making and enhancing AI system trustworthiness.
 
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
-
-##### **Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification**
-2404.17977v2 by Himanshu Pandey, Akhil Amod, Shivang
-
-Prior Authorization delivers safe, appropriate, and cost-effective care that
-is medically justified with evidence-based guidelines. However, the process
-often requires labor-intensive manual comparisons between patient medical
-records and clinical guidelines, that is both repetitive and time-consuming.
-Recent developments in Large Language Models (LLMs) have shown potential in
-addressing complex medical NLP tasks with minimal supervision. This paper
-explores the application of Multi-Agent System (MAS) that utilize specialized
-LLM agents to automate Prior Authorization task by breaking them down into
-simpler and manageable sub-tasks. Our study systematically investigates the
-effects of various prompting strategies on these agents and benchmarks the
-performance of different LLMs. We demonstrate that GPT-4 achieves an accuracy
-of 86.2% in predicting checklist item-level judgments with evidence, and 95.6%
-in determining overall checklist judgment. Additionally, we explore how these
-agents can contribute to explainability of steps taken in the process, thereby
-enhancing trust and transparency in the system.
-
-摘要：事前授權提供安全、適當且具有成本效益的照護，並以循證指南在醫學上合理化。然而，此程序通常需要在病患病歷和臨床指南之間進行費時且重複的人工比對。大型語言模型 (LLM) 的最新發展已展現出以最少監督處理複雜醫療自然語言處理任務的潛力。本文探討多重代理系統 (MAS) 的應用，它利用專業的 LLM 代理人透過將事前授權任務分解成更簡單且可管理的子任務來自動化。我們的研究系統性地探討各種提示策略對這些代理人的影響，並比較不同 LLM 的效能。我們證明 GPT-4 在預測具有證據的核對項目層級判斷方面達到 86.2% 的準確度，在決定整體核對判斷方面達到 95.6%。此外，我們探討這些代理人如何有助於說明過程中採取的步驟，進而提升系統中的信任和透明度。
 
 ##### **Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**
 2405.02334v1 by Francesco Prinzi, Carmelo Militello, Calogero Zarcaro, Tommaso Vincenzo Bartolotta, Salvatore Gaglio, Salvatore Vitabile
@@ -1713,7 +1721,7 @@ essential for success.
 摘要：最近在醫療保健中的人工智慧應用進展顯示出令人難以置信的承諾，在診斷和疾病預後方面超越人類表現。然而，隨著人工智能模型的日益複雜，人們對其不透明性、潛在偏差和對可解釋性的需求感到擔憂。為了確保人工智能系統的信任和可靠性，尤其是在臨床風險預測模型中，可解釋性變得至關重要。可解釋性通常被稱為人工智能系統提供其決策邏輯或決策本身對人類利益相關者的強有力解釋的能力。在臨床風險預測中，可解釋性的其他方面，如公平性、偏見、信任和透明度，也代表了超越可解釋性的重要概念。在本次審查中，我們探討了這些概念之間的關係，因為它們經常一起或互換使用。本審查還討論了為臨床風險預測開發可解釋模型的最新進展，強調了在臨床實踐中對多種常見模式進行定量和臨床評估和驗證的重要性。它強調了外部驗證和多樣化可解釋性方法相結合的必要性，以增強信任和公平性。採用嚴格的測試，例如使用具有已知生成因素的合成數據集，可以進一步提高可解釋性方法的可靠性。開放獲取和代碼共享資源對於透明度和可重複性至關重要，從而促進可解釋研究的增長和可信度。儘管存在挑戰，但從臨床醫生到開發人員，採用端到端的可解釋性方法對於臨床風險預測的成功至關重要。
 
 ##### **FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**
-2309.12325v2 by Karim Lekadir, Aasa Feragen, Abdul Joseph Fofanah, Alejandro F Frangi, Alena Buyx, Anais Emelie, Andrea Lara, Antonio R Porras, An-Wen Chan, Arcadi Navarro, Ben Glocker, Benard O Botwe, Bishesh Khanal, Brigit Beger, Carol C Wu, Celia Cintas, Curtis P Langlotz, Daniel Rueckert, Deogratias Mzurikwao, Dimitrios I Fotiadis, Doszhan Zhussupov, Enzo Ferrante, Erik Meijering, Eva Weicken, Fabio A González, Folkert W Asselbergs, Fred Prior, Gabriel P Krestin, Gary Collins, Geletaw S Tegenaw, Georgios Kaissis, Gianluca Misuraca, Gianna Tsakou, Girish Dwivedi, Haridimos Kondylakis, Harsha Jayakody, Henry C Woodruf, Hugo JWL Aerts, Ian Walsh, Ioanna Chouvarda, Irène Buvat, Islem Rekik, James Duncan, Jayashree Kalpathy-Cramer, Jihad Zahir, Jinah Park, John Mongan, Judy W Gichoya, Julia A Schnabel, Kaisar Kushibar, Katrine Riklund, Kensaku Mori, Kostas Marias, Lameck M Amugongo, Lauren A Fromont, Lena Maier-Hein, Leonor Cerdá Alberich, Leticia Rittner, Lighton Phiri, Linda Marrakchi-Kacem, Lluís Donoso-Bach, Luis Martí-Bonmatí, M Jorge Cardoso, Maciej Bobowicz, Mahsa Shabani, Manolis Tsiknakis, Maria A Zuluaga, Maria Bielikova, Marie-Christine Fritzsche, Marius George Linguraru, Markus Wenzel, Marleen De Bruijne, Martin G Tolsgaard, Marzyeh Ghassemi, Md Ashrafuzzaman, Melanie Goisauf, Mohammad Yaqub, Mohammed Ammar, Mónica Cano Abadía, Mukhtar M E Mahmoud, Mustafa Elattar, Nicola Rieke, Nikolaos Papanikolaou, Noussair Lazrak, Oliver Díaz, Olivier Salvado, Oriol Pujol, Ousmane Sall, Pamela Guevara, Peter Gordebeke, Philippe Lambin, Pieta Brown, Purang Abolmaesumi, Qi Dou, Qinghua Lu, Richard Osuala, Rose Nakasi, S Kevin Zhou, Sandy Napel, Sara Colantonio, Shadi Albarqouni, Smriti Joshi, Stacy Carter, Stefan Klein, Steffen E Petersen, Susanna Aussó, Suyash Awate, Tammy Riklin Raviv, Tessa Cook, Tinashe E M Mutsvangwa, Wendy A Rogers, Wiro J Niessen, Xènia Puig-Bosch, Yi Zeng, Yunusa G Mohammed, Yves Saint James Aquino, Zohaib Salahuddin, Martijn P A Starmans
+2309.12325v3 by Karim Lekadir, Aasa Feragen, Abdul Joseph Fofanah, Alejandro F Frangi, Alena Buyx, Anais Emelie, Andrea Lara, Antonio R Porras, An-Wen Chan, Arcadi Navarro, Ben Glocker, Benard O Botwe, Bishesh Khanal, Brigit Beger, Carol C Wu, Celia Cintas, Curtis P Langlotz, Daniel Rueckert, Deogratias Mzurikwao, Dimitrios I Fotiadis, Doszhan Zhussupov, Enzo Ferrante, Erik Meijering, Eva Weicken, Fabio A González, Folkert W Asselbergs, Fred Prior, Gabriel P Krestin, Gary Collins, Geletaw S Tegenaw, Georgios Kaissis, Gianluca Misuraca, Gianna Tsakou, Girish Dwivedi, Haridimos Kondylakis, Harsha Jayakody, Henry C Woodruf, Horst Joachim Mayer, Hugo JWL Aerts, Ian Walsh, Ioanna Chouvarda, Irène Buvat, Isabell Tributsch, Islem Rekik, James Duncan, Jayashree Kalpathy-Cramer, Jihad Zahir, Jinah Park, John Mongan, Judy W Gichoya, Julia A Schnabel, Kaisar Kushibar, Katrine Riklund, Kensaku Mori, Kostas Marias, Lameck M Amugongo, Lauren A Fromont, Lena Maier-Hein, Leonor Cerdá Alberich, Leticia Rittner, Lighton Phiri, Linda Marrakchi-Kacem, Lluís Donoso-Bach, Luis Martí-Bonmatí, M Jorge Cardoso, Maciej Bobowicz, Mahsa Shabani, Manolis Tsiknakis, Maria A Zuluaga, Maria Bielikova, Marie-Christine Fritzsche, Marina Camacho, Marius George Linguraru, Markus Wenzel, Marleen De Bruijne, Martin G Tolsgaard, Marzyeh Ghassemi, Md Ashrafuzzaman, Melanie Goisauf, Mohammad Yaqub, Mónica Cano Abadía, Mukhtar M E Mahmoud, Mustafa Elattar, Nicola Rieke, Nikolaos Papanikolaou, Noussair Lazrak, Oliver Díaz, Olivier Salvado, Oriol Pujol, Ousmane Sall, Pamela Guevara, Peter Gordebeke, Philippe Lambin, Pieta Brown, Purang Abolmaesumi, Qi Dou, Qinghua Lu, Richard Osuala, Rose Nakasi, S Kevin Zhou, Sandy Napel, Sara Colantonio, Shadi Albarqouni, Smriti Joshi, Stacy Carter, Stefan Klein, Steffen E Petersen, Susanna Aussó, Suyash Awate, Tammy Riklin Raviv, Tessa Cook, Tinashe E M Mutsvangwa, Wendy A Rogers, Wiro J Niessen, Xènia Puig-Bosch, Yi Zeng, Yunusa G Mohammed, Yves Saint James Aquino, Zohaib Salahuddin, Martijn P A Starmans
 
 Despite major advances in artificial intelligence (AI) for medicine and
 healthcare, the deployment and adoption of AI technologies remain limited in
@@ -1741,7 +1749,7 @@ trusted, deployed and adopted in real-world practice. Researchers are
 encouraged to take the recommendations into account in proof-of-concept stages
 to facilitate future translation towards clinical practice of medical AI.
 
-摘要：儘管在醫學和保健方面的人工智慧 (AI) 有重大進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對與醫療 AI 相關的技術、臨床、道德和法律風險提出了疑慮。為了增加現實世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和主管機關的信任和接受。本文將 FUTURE-AI 指南描述為指導醫療保健中值得信賴的 AI 工具開發和部署的第一個國際共識架構。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家/地區的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟通過一個反覆運算的流程定義了值得信賴的 AI 的指導原則和最佳實務，包括深入的文獻回顧、修正的德爾菲調查和線上共識會議。FUTURE-AI 架構建立在醫療保健中值得信賴的 AI 的 6 個指導原則之上，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。通過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，提供了一個結構化的方法來建構將在現實世界實務中受到信任、部署和採用的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮建議，以促進醫療 AI 未來向臨床實務的轉化。
+摘要：儘管在醫學和醫療保健方面的人工智慧 (AI) 有重大的進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對於與醫療 AI 相關的技術、臨床、倫理和法律風險提出了疑慮。為了增加現實世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和當局的信任和接受。這項工作將 FUTURE-AI 指南描述為指導醫療保健中可信賴 AI 工具開發和部署的第一個國際共識架構。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟通過一個反覆運算的過程定義了可信賴 AI 的指導原則和最佳實務，包括深入的文獻回顧、修改後的德爾菲調查和線上共識會議。FUTURE-AI 架構是基於醫療保健中可信賴 AI 的 6 項指導原則建立的，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。通過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋了醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，提供了一個結構化的方法，用於建構將在現實世界實務中受到信任、部署和採用的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮這些建議，以促進未來將醫療 AI 轉化為臨床實務。
 
 ##### **Explainable AI applications in the Medical Domain: a systematic review**
 2308.05411v1 by Nicoletta Prentzas, Antonis Kakas, Constantinos S. Pattichis

@@ -24,7 +24,7 @@
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v3](http://arxiv.org/abs/2405.06270v3)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
-|**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v1](http://arxiv.org/abs/2404.17977v1)|null|
+|**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977v2](http://arxiv.org/abs/2404.17977v2)|null|
 |**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
@@ -635,21 +635,26 @@ decision making and enhancing AI system trustworthiness.
 
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
 
-##### **Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**
-2404.17977v1 by Himanshu Pandey, Akhil Amod, Shivang
+##### **Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification**
+2404.17977v2 by Himanshu Pandey, Akhil Amod, Shivang
 
-This paper explores the application of Swarm-Structured Multi-Agent Systems
-(MAS) to establish medical necessity, a process that involves a systematic
-review of patient-specific medical structured and unstructured data against
-clinical guidelines. We addressed this complex task by decomposing it into
-smaller, more manageable sub-tasks. Each sub-task is handled by a specialized
-AI agent. We conduct a systematic study of the impact of various prompting
-strategies on these agents and benchmark different Large Language Models (LLMs)
-to determine their accuracy in completing these tasks. Additionally, we
-investigate how these agents can provide explainability, thereby enhancing
-trust and transparency within the system.
+Prior Authorization delivers safe, appropriate, and cost-effective care that
+is medically justified with evidence-based guidelines. However, the process
+often requires labor-intensive manual comparisons between patient medical
+records and clinical guidelines, that is both repetitive and time-consuming.
+Recent developments in Large Language Models (LLMs) have shown potential in
+addressing complex medical NLP tasks with minimal supervision. This paper
+explores the application of Multi-Agent System (MAS) that utilize specialized
+LLM agents to automate Prior Authorization task by breaking them down into
+simpler and manageable sub-tasks. Our study systematically investigates the
+effects of various prompting strategies on these agents and benchmarks the
+performance of different LLMs. We demonstrate that GPT-4 achieves an accuracy
+of 86.2% in predicting checklist item-level judgments with evidence, and 95.6%
+in determining overall checklist judgment. Additionally, we explore how these
+agents can contribute to explainability of steps taken in the process, thereby
+enhancing trust and transparency in the system.
 
-摘要：本文探討了應用群體結構多主體系統 (MAS) 來建立醫療必要性，這是一個涉及系統性審查患者特定醫療結構化和非結構化資料對照臨床指引的過程。我們透過將此複雜任務分解成較小且更易於管理的子任務來處理。每個子任務都由一個專門的 AI 主體處理。我們對各種提示策略對這些主體的影響進行系統性研究，並對不同的大型語言模型 (LLM) 進行基準測試，以確定它們在完成這些任務時的準確性。此外，我們研究這些主體如何提供可解釋性，從而增強系統內的信任和透明度。
+摘要：事前授權提供安全、適當且具有成本效益的照護，並以循證指南在醫學上合理化。然而，此程序通常需要在病患病歷和臨床指南之間進行費時且重複的人工比對。大型語言模型 (LLM) 的最新發展已展現出以最少監督處理複雜醫療自然語言處理任務的潛力。本文探討多重代理系統 (MAS) 的應用，它利用專業的 LLM 代理人透過將事前授權任務分解成更簡單且可管理的子任務來自動化。我們的研究系統性地探討各種提示策略對這些代理人的影響，並比較不同 LLM 的效能。我們證明 GPT-4 在預測具有證據的核對項目層級判斷方面達到 86.2% 的準確度，在決定整體核對判斷方面達到 95.6%。此外，我們探討這些代理人如何有助於說明過程中採取的步驟，進而提升系統中的信任和透明度。
 
 ##### **Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**
 2405.02334v1 by Francesco Prinzi, Carmelo Militello, Calogero Zarcaro, Tommaso Vincenzo Bartolotta, Salvatore Gaglio, Salvatore Vitabile

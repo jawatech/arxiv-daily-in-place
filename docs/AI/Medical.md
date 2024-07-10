@@ -23,7 +23,7 @@
 |**2024-07-05**|**Variational and Explanatory Neural Networks for Encoding Cancer Profiles and Predicting Drug Responses**|Tianshu Feng et.al.|[2407.04486v1](http://arxiv.org/abs/2407.04486v1)|null|
 |**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449v1](http://arxiv.org/abs/2407.04449v1)|[link](https://github.com/nyuad-cai/cxr-ehr-msn)|
 |**2024-07-04**|**Query-Guided Self-Supervised Summarization of Nursing Notes**|Ya Gao et.al.|[2407.04125v1](http://arxiv.org/abs/2407.04125v1)|null|
-|**2024-07-04**|**MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis**|Asma Alkhaldi et.al.|[2407.04106v1](http://arxiv.org/abs/2407.04106v1)|null|
+|**2024-07-04**|**MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis**|Asma Alkhaldi et.al.|[2407.04106v1](http://arxiv.org/abs/2407.04106v1)|[link](https://github.com/vision-cair/minigpt-med)|
 |**2024-07-04**|**Unsupervised Analysis of Alzheimer's Disease Signatures using 3D Deformable Autoencoders**|Mehmet Yigit Avci et.al.|[2407.03863v1](http://arxiv.org/abs/2407.03863v1)|[link](https://github.com/ci-ber/morphade)|
 |**2024-07-04**|**Integrating Randomness in Large Language Models: A Linear Congruential Generator Approach for Generating Clinically Relevant Content**|Andrew Bouras et.al.|[2407.03582v1](http://arxiv.org/abs/2407.03582v1)|[link](https://github.com/andrewbouras/randomnesspaper)|
 |**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|[link](https://github.com/minipuding/fastmrt)|
@@ -88,7 +88,7 @@
 |**2024-06-27**|**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**|Mingyang Zhao et.al.|[2406.18817v1](http://arxiv.org/abs/2406.18817v1)|[link](https://github.com/zikai1/cvpr24_pointsetreg)|
 |**2024-06-26**|**WavRx: a Disease-Agnostic, Generalizable, and Privacy-Preserving Speech Health Diagnostic Model**|Yi Zhu et.al.|[2406.18731v1](http://arxiv.org/abs/2406.18731v1)|[link](https://github.com/zhu00121/wavrx)|
 |**2024-06-26**|**Petal-X: Human-Centered Visual Explanations to Improve Cardiovascular Risk Communication**|Diego Rojo et.al.|[2406.18690v1](http://arxiv.org/abs/2406.18690v1)|null|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v2](http://arxiv.org/abs/2406.18361v2)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v3](http://arxiv.org/abs/2406.18361v3)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
 |**2024-06-26**|**Automatic Prediction of Amyotrophic Lateral Sclerosis Progression using Longitudinal Speech Transformer**|Liming Wang et.al.|[2406.18625v1](http://arxiv.org/abs/2406.18625v1)|null|
 |**2024-06-26**|**EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models**|Chun-Chieh Liao et.al.|[2406.18087v1](http://arxiv.org/abs/2406.18087v1)|null|
 |**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074v1](http://arxiv.org/abs/2406.18074v1)|[link](https://github.com/tntek/dspnet)|
@@ -2236,7 +2236,7 @@ next-generation artificial intelligence risk assessment models.
 摘要：心血管疾病 (CVD) 是全球主要的死亡原因，在大多数情况下可以通过行为干预来预防。因此，通过改变危险因子来有效沟通 CVD 风险和预测的风险降低在降低个人层面的 CVD 风险中起着至关重要的作用。然而，尽管有兴趣通过改进的预测模型（例如 SCORE2）来优化风险估计，但在临床实践中呈现这些风险估计的指南在过去几年中基本上保持不变，图形评分图表 (GSC) 仍然是流行的系统之一。这项工作描述了 Petal-X 的设计和实现，Petal-X 是一种新工具，通过解释不同因素对 CVD 风险的贡献并促进假设分析来支持临床医生和患者的共同决策。Petal-X 依赖于一种新颖的可视化工具——花瓣产品图，以及 SCORE2 的定制全局替代模型，其保真度与临床实践中使用的 GSC 相当。我们在一个受控实验中评估了 Petal-X 与 GSC 的对比，实验对象为 88 名医学生，除一人外，所有学生都有慢性病患者的经验。结果表明，Petal-X 在关键任务中优于 GSC，例如比较可改变危险因子对患者 10 年 CVD 风险的贡献，而不会显着降低感知的透明度、信任度或使用意愿。我们的研究提供了一种创新的方法来可视化和解释临床实践中的风险，由于其与模型无关的性质，可以继续支持下一代人工智能风险评估模型。
 
 ##### **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**
-2406.18361v2 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
+2406.18361v3 by Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
 
 Diffusion models have demonstrated their effectiveness across various
 generative tasks. However, when applied to medical image segmentation, these
@@ -2254,7 +2254,7 @@ reverse step and sample, epitomizing the model's stability as implied by its
 name. The code is available at
 https://github.com/lin-tianyu/Stable-Diffusion-Seg
 
-摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到一些挑戰，包括顯著的資源和時間需求。它們還需要一個多步驟的反向處理和多個樣本才能產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，建立在穩定擴散 (SD) 之上。SDSeg 結合了一個直接的潛在估計策略，以促進單步反向處理，並利用潛在融合串接來消除對多個樣本的需要。廣泛的實驗表明，SDSeg 在具有不同影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單獨的反向步驟和樣本生成穩定的預測，這體現了該模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 獲得
+摘要：擴散模型已證明其在各種生成任務中的有效性。然而，當應用於醫學影像分割時，這些模型會遇到幾個挑戰，包括顯著的資源和時間需求。它們還需要多步驟反向過程和多個樣本才能產生可靠的預測。為了應對這些挑戰，我們引入了第一個潛在擴散分割模型，名為 SDSeg，建立在穩定擴散 (SD) 之上。SDSeg 結合了一個簡單的潛在估計策略，以促進單步反向過程，並利用潛在融合串接來消除對多個樣本的必要性。大量的實驗表明，SDSeg 在具有多種影像模式的五個基準資料集上超越了現有的最先進方法。值得注意的是，SDSeg 能夠通過單獨的反向步驟和樣本生成穩定的預測，體現了模型的穩定性，正如其名稱所暗示的那樣。程式碼可在 https://github.com/lin-tianyu/Stable-Diffusion-Seg 取得
 
 ##### **Automatic Prediction of Amyotrophic Lateral Sclerosis Progression using Longitudinal Speech Transformer**
 2406.18625v1 by Liming Wang, Yuan Gong, Nauman Dawalatabad, Marco Vilela, Katerina Placek, Brian Tracey, Yishu Gong, Alan Premasiri, Fernando Vieira, James Glass

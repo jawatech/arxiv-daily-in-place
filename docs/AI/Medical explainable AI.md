@@ -2,7 +2,9 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
+|**2024-07-01**|**The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**|Ximing Wen et.al.|[2407.06206v1](http://arxiv.org/abs/2407.06206v1)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-11**|**Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v2](http://arxiv.org/abs/2406.07114v2)|null|
@@ -100,10 +102,35 @@
 |**2023-02-01**|**SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis**|Roxana Daneshjou et.al.|[2302.00785v1](http://arxiv.org/abs/2302.00785v1)|null|
 |**2023-01-19**|**Decision-Focused Evaluation: Analyzing Performance of Deployed Restless Multi-Arm Bandits**|Paritosh Verma et.al.|[2301.07835v1](http://arxiv.org/abs/2301.07835v1)|null|
 |**2023-01-18**|**Exemplars and Counterexemplars Explanations for Image Classifiers, Targeting Skin Lesion Labeling**|Carlo Metta et.al.|[2302.03033v1](http://arxiv.org/abs/2302.03033v1)|null|
-|**2023-01-17**|**Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**|Dangxing Chen et.al.|[2301.07060v1](http://arxiv.org/abs/2301.07060v1)|null|
-|**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 
 #### Abstracts
+##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
+2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier
+
+The support of artificial intelligence (AI) based decision-making is a key
+element in future 6G networks, where the concept of native AI will be
+introduced. Moreover, AI is widely employed in different critical applications
+such as autonomous driving and medical diagnosis. In such applications, using
+AI as black-box models is risky and challenging. Hence, it is crucial to
+understand and trust the decisions taken by these models. Tackling this issue
+can be achieved by developing explainable AI (XAI) schemes that aim to explain
+the logic behind the black-box model behavior, and thus, ensure its efficient
+and safe deployment. Recently, we proposed a novel perturbation-based XAI-CHEST
+framework that is oriented toward channel estimation in wireless
+communications. The core idea of the XAI-CHEST framework is to identify the
+relevant model inputs by inducing high noise on the irrelevant ones. This
+manuscript provides the detailed theoretical foundations of the XAI-CHEST
+framework. In particular, we derive the analytical expressions of the XAI-CHEST
+loss functions and the noise threshold fine-tuning optimization problem. Hence
+the designed XAI-CHEST delivers a smart input feature selection methodology
+that can further improve the overall performance while optimizing the
+architecture of the employed model. Simulation results show that the XAI-CHEST
+framework provides valid interpretations, where it offers an improved bit error
+rate performance while reducing the required computational complexity in
+comparison to the classical DL-based channel estimation.
+
+摘要：人工智能 (AI) 支持的決策制定是未來 6G 網路中的關鍵元素，其中將引入原生 AI 的概念。此外，AI 廣泛用於不同的關鍵應用中，例如自動駕駛和醫療診斷。在這些應用中，使用 AI 作為黑盒模型是有風險且具有挑戰性的。因此，理解和信任這些模型做出的決策至關重要。解決此問題的方法是開發可解釋 AI (XAI) 架構，旨在解釋黑盒模型行為背後的邏輯，從而確保其有效且安全的部署。最近，我們提出了一個新的基於擾動的 XAI-CHEST 框架，該框架面向無線通信中的信道估計。XAI-CHEST 框架的核心思想是通過在無關輸入上引入高噪聲來識別相關模型輸入。這份手稿提供了 XAI-CHEST 框架的詳細理論基礎。特別是，我們推導了 XAI-CHEST 損失函數和噪聲閾值微調優化問題的解析表達式。因此，設計的 XAI-CHEST 提供了一種智能輸入特徵選擇方法，可以在優化所用模型的架構的同時進一步提高整體性能。模擬結果表明，XAI-CHEST 框架提供了有效的解釋，在降低所需的計算複雜度的同時，提供了改進的比特錯誤率性能，而這與基於傳統 DL 的信道估計相比。
+
 ##### **Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**
 2407.05440v1 by P. N. Karthikayan, Yoga Sri Varshan V, Hitesh Gupta Kattamuri, Umarani Jayaraman
 
@@ -132,6 +159,28 @@ and 0.70 respectively for the above respective variants in ODIR multiclass
 disease classification.
 
 摘要：<paragraph>本文提出了用于视网膜眼底图像疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善与用于疾病分类的正常 ResNet 模型相比的感受野。本研究介绍了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医疗专业人员能够理解和信任 AI 的诊断决策。它们在当今医疗保健领域尤为重要，因为对 AI 应用程序的透明度需求不断增长，以确保其可靠性和道德使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼病的分类准确性并减少所需的计算时间。本工作中使用的数据集是 Ocular Disease Intelligent Recognition (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 分数。在这项工作中，对正常 ResNet 模型和扩张 ResNet 模型在五个变体（即 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152）之间进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 分数分别为 0.71、0.70、0.69、0.67 和 0.70。</paragraph>
+
+##### **The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**
+2407.06206v1 by Ximing Wen, Rosina O. Weber, Anik Sen, Darryl Hannan, Steven C. Nesbit, Vincent Chan, Alberto Goffi, Michael Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Christopher J. MacLellan
+
+Point-of-Care Ultrasound (POCUS) is the practice of clinicians conducting and
+interpreting ultrasound scans right at the patient's bedside. However, the
+expertise needed to interpret these images is considerable and may not always
+be present in emergency situations. This reality makes algorithms such as
+machine learning classifiers extremely valuable to augment human decisions.
+POCUS devices are becoming available at a reasonable cost in the size of a
+mobile phone. The challenge of turning POCUS devices into life-saving tools is
+that interpretation of ultrasound images requires specialist training and
+experience. Unfortunately, the difficulty to obtain positive training images
+represents an important obstacle to building efficient and accurate
+classifiers. Hence, the problem we try to investigate is how to explore
+strategies to increase accuracy of classifiers trained with scarce data. We
+hypothesize that training with a few data instances may not suffice for
+classifiers to generalize causing them to overfit. Our approach uses an
+Explainable AI-Augmented approach to help the algorithm learn more from less
+and potentially help the classifier better generalize.
+
+摘要：床邊超音波 (POCUS) 是臨床醫師在患者床邊進行和解讀超音波掃描的實務。然而，解讀這些影像所需的專業知識相當可觀，而且在緊急情況下可能並非隨時具備。這種現實情況使得機器學習分類器等演算法對於加強人類決策變得極為有價值。POCUS 裝置正以合理成本推出，尺寸為手機大小。將 POCUS 裝置轉變為救生工具的挑戰在於，解讀超音波影像需要專門訓練和經驗。不幸的是，取得正向訓練影像的困難度代表著建置有效率且準確的分類器的一大障礙。因此，我們嘗試探討的問題是如何探索策略，以提高使用稀疏資料訓練的分類器的準確度。我們假設使用少數資料實例進行訓練可能不足以讓分類器概括，導致它們過度擬合。我們的做法使用可解釋 AI 增強方法，以協助演算法從較少的資料中學習更多，並潛在協助分類器更好地概括。
 
 ##### **Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**
 2407.00167v1 by Sai Krishna Revanth Vuruma, Dezhi Wu, Saborny Sen Gupta, Lucas Aust, Valerie Lookingbill, Wyatt Bellamy, Yang Ren, Erin Kasson, Li-Shiun Chen, Patricia Cavazos-Rehg, Dian Hu, Ming Huang
@@ -2505,61 +2554,4 @@ system. The exemplars are generated via an adversarial autoencoder. We
 illustrate the behavior of the system on representative examples.
 
 摘要：可解釋 AI 是在開發機制，讓決策系統與人類之間能互動，並讓前者的決策變得可以理解。這在敏感的脈絡中特別重要，例如在醫療領域。我們提出一個使用案例研究，用於皮膚病變診斷，說明如何讓執業醫師了解最先進的深度神經網路分類器在決策上的解釋，該分類器經過訓練，可以從範例中描述皮膚病變。我們的架構包含一個訓練過的分類器，解釋模組會在該分類器上運作。後者能夠為分類診斷提供執業醫師範例和反例，因此讓醫師可以與自動診斷系統互動。範例是透過對抗式自動編碼器產生的。我們說明系統在代表性範例上的行為。
-
-##### **Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**
-2301.07060v1 by Dangxing Chen, Luyao Zhang
-
-Algorithm fairness in the application of artificial intelligence (AI) is
-essential for a better society. As the foundational axiom of social mechanisms,
-fairness consists of multiple facets. Although the machine learning (ML)
-community has focused on intersectionality as a matter of statistical parity,
-especially in discrimination issues, an emerging body of literature addresses
-another facet -- monotonicity. Based on domain expertise, monotonicity plays a
-vital role in numerous fairness-related areas, where violations could misguide
-human decisions and lead to disastrous consequences. In this paper, we first
-systematically evaluate the significance of applying monotonic neural additive
-models (MNAMs), which use a fairness-aware ML algorithm to enforce both
-individual and pairwise monotonicity principles, for the fairness of AI ethics
-and society. We have found, through a hybrid method of theoretical reasoning,
-simulation, and extensive empirical analysis, that considering monotonicity
-axioms is essential in all areas of fairness, including criminology, education,
-health care, and finance. Our research contributes to the interdisciplinary
-research at the interface of AI ethics, explainable AI (XAI), and
-human-computer interactions (HCIs). By evidencing the catastrophic consequences
-if monotonicity is not met, we address the significance of monotonicity
-requirements in AI applications. Furthermore, we demonstrate that MNAMs are an
-effective fairness-aware ML approach by imposing monotonicity restrictions
-integrating human intelligence.
-
-摘要：在人工智能 (AI) 的應用中，演算法公平性對於建立一個更美好的社會至關重要。公平性作為社會機制的基礎公理，包含多個面向。儘管機器學習 (ML) 社群已將焦點放在交叉性作為統計同質性的問題上，特別是在歧視問題中，但新興的文獻探討了另一個面向——單調性。根據領域專家，單調性在許多與公平性相關的領域中扮演著至關重要的角色，違反單調性可能會誤導人類決策，並導致災難性的後果。在本文中，我們首先系統性地評估應用單調神經加法模型 (MNAM) 的重要性，這些模型使用公平感知 ML 演算法來強制執行個別和成對單調性原則，以確保 AI 倫理和社會的公平性。我們透過理論推理、模擬和廣泛的實證分析的混合方法發現，在所有公平領域（包括犯罪學、教育、醫療保健和金融）中，考量單調性公理至關重要。我們的研究有助於 AI 倫理、可解釋 AI (XAI) 和人機互動 (HCI) 介面中的跨領域研究。透過證明不符合單調性的災難性後果，我們探討了單調性需求在 AI 應用中的重要性。此外，我們證明 MNAM 是一種有效的公平感知 ML 方法，透過施加單調性限制來整合人類智慧。
-
-##### **Rationalizing Predictions by Adversarial Information Calibration**
-2301.06009v1 by Lei Sha, Oana-Maria Camburu, Thomas Lukasiewicz
-
-Explaining the predictions of AI models is paramount in safety-critical
-applications, such as in legal or medical domains. One form of explanation for
-a prediction is an extractive rationale, i.e., a subset of features of an
-instance that lead the model to give its prediction on that instance. For
-example, the subphrase ``he stole the mobile phone'' can be an extractive
-rationale for the prediction of ``Theft''. Previous works on generating
-extractive rationales usually employ a two-phase model: a selector that selects
-the most important features (i.e., the rationale) followed by a predictor that
-makes the prediction based exclusively on the selected features. One
-disadvantage of these works is that the main signal for learning to select
-features comes from the comparison of the answers given by the predictor to the
-ground-truth answers. In this work, we propose to squeeze more information from
-the predictor via an information calibration method. More precisely, we train
-two models jointly: one is a typical neural model that solves the task at hand
-in an accurate but black-box manner, and the other is a selector-predictor
-model that additionally produces a rationale for its prediction. The first
-model is used as a guide for the second model. We use an adversarial technique
-to calibrate the information extracted by the two models such that the
-difference between them is an indicator of the missed or over-selected
-features. In addition, for natural language tasks, we propose a
-language-model-based regularizer to encourage the extraction of fluent
-rationales. Experimental results on a sentiment analysis task, a hate speech
-recognition task as well as on three tasks from the legal domain show the
-effectiveness of our approach to rationale extraction.
-
-摘要：<paragraph>在安全關鍵應用程式中，例如法律或醫療領域，解釋 AI 模型的預測至關重要。一種預測的解釋形式是萃取依據，亦即某個實例中導致模型對該實例做出預測的子集合特徵。例如，子詞組「他偷了手機」可能是「偷竊」預測的萃取依據。先前關於產生萃取依據的研究通常採用二階段模型：一個選擇器選擇最重要的特徵（即依據），接著是一個預測器，它根據所選的特徵獨家做出預測。這些研究的一個缺點是，學習選擇特徵的主要訊號來自將預測器給出的答案與真實答案進行比較。在這項研究中，我們建議透過資訊校正方法從預測器中擷取更多資訊。更精確地說，我們聯合訓練兩個模型：一個是典型的類神經網路模型，它以準確但黑箱的方式解決手邊的任務，另一個是選擇器預測器模型，它另外為其預測產生依據。第一個模型用作第二個模型的指南。我們使用對抗技術校正兩個模型萃取的資訊，使它們之間的差異成為遺漏或過度選擇的特徵的指標。此外，對於自然語言任務，我們提出一個基於語言模型的正規化器，以鼓勵萃取流暢的依據。情緒分析任務、仇恨言論辨識任務以及法律領域三個任務的實驗結果顯示，我們在依據萃取方面的做法十分有效。</paragraph>
 

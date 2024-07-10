@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
+|**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723v1](http://arxiv.org/abs/2407.06723v1)|null|
+|**2024-07-09**|**Combining Knowledge Graphs and Large Language Models**|Amanda Kau et.al.|[2407.06564v1](http://arxiv.org/abs/2407.06564v1)|null|
 |**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041v1](http://arxiv.org/abs/2407.06041v1)|[link](https://github.com/dice-group/MST5)|
 |**2024-07-08**|**Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**|Aaron Lohner et.al.|[2407.05910v1](http://arxiv.org/abs/2407.05910v1)|null|
 |**2024-07-08**|**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**|Jiaqi Chen et.al.|[2407.05890v1](http://arxiv.org/abs/2407.05890v1)|null|
@@ -99,11 +102,80 @@
 |**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
 |**2024-06-13**|**Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**|Zongyue Qin et.al.|[2406.09606v2](http://arxiv.org/abs/2406.09606v2)|null|
 |**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403v1](http://arxiv.org/abs/2406.09403v1)|null|
-|**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
-|**2024-06-13**|**SememeLM: A Sememe Knowledge Enhanced Method for Long-tail Relation Representation**|Shuyi Li et.al.|[2406.10297v1](http://arxiv.org/abs/2406.10297v1)|null|
-|**2024-06-13**|**Hierarchical Compression of Text-Rich Graphs via Large Language Models**|Shichang Zhang et.al.|[2406.11884v1](http://arxiv.org/abs/2406.11884v1)|null|
 
 #### Abstracts
+##### **Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**
+2407.07038v1 by Ruiran Su, Janet B. Pierrehumbert
+
+This work introduces the ClimateSent-GAT Model, an innovative method that
+integrates Graph Attention Networks (GATs) with techniques from natural
+language processing to accurately identify and predict disagreements within
+Reddit comment-reply pairs. Our model classifies disagreements into three
+categories: agree, disagree, and neutral. Leveraging the inherent graph
+structure of Reddit comment-reply pairs, the model significantly outperforms
+existing benchmarks by capturing complex interaction patterns and sentiment
+dynamics. This research advances graph-based NLP methodologies and provides
+actionable insights for policymakers and educators in climate science
+communication.
+
+摘要：本研究介紹 ClimateSent-GAT 模型，這是一種創新的方法，它將圖注意力網路 (GAT) 與自然語言處理技術整合，以準確識別並預測 Reddit 留言回覆對中的分歧。我們的模型將分歧分為三類：同意、不同意和中立。透過利用 Reddit 留言回覆對的內在圖形結構，此模型能大幅超越現有基準，捕捉複雜的互動模式和情緒動態。這項研究推動了基於圖形的 NLP 方法，並為氣候科學溝通中的政策制定者和教育工作者提供可行的見解。
+
+##### **Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**
+2407.06723v1 by Yu-Guan Hsieh, Cheng-Yu Hsieh, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
+
+Humans describe complex scenes with compositionality, using simple text
+descriptions enriched with links and relationships. While vision-language
+research has aimed to develop models with compositional understanding
+capabilities, this is not reflected yet in existing datasets which, for the
+most part, still use plain text to describe images. In this work, we propose a
+new annotation strategy, graph-based captioning (GBC) that describes an image
+using a labelled graph structure, with nodes of various types. The nodes in GBC
+are created using, in a first stage, object detection and dense captioning
+tools nested recursively to uncover and describe entity nodes, further linked
+together in a second stage by highlighting, using new types of nodes,
+compositions and relations among entities. Since all GBC nodes hold plain text
+descriptions, GBC retains the flexibility found in natural language, but can
+also encode hierarchical information in its edges. We demonstrate that GBC can
+be produced automatically, using off-the-shelf multimodal LLMs and
+open-vocabulary detection models, by building a new dataset, GBC10M, gathering
+GBC annotations for about 10M images of the CC12M dataset. We use GBC10M to
+showcase the wealth of node captions uncovered by GBC, as measured with CLIP
+training. We show that using GBC nodes' annotations -- notably those stored in
+composition and relation nodes -- results in significant performance boost on
+downstream models when compared to other dataset formats. To further explore
+the opportunities provided by GBC, we also propose a new attention mechanism
+that can leverage the entire GBC graph, with encouraging experimental results
+that show the extra benefits of incorporating the graph structure. Our datasets
+are released at \url{https://huggingface.co/graph-based-captions}.
+
+摘要：<paragraph>人類使用簡單的文字描述，豐富的連結和關係，來描述複雜的場景。雖然視覺語言的研究旨在開發具有組合理解能力的模型，但現有的數據集尚未反映這一點，這些數據集在很大程度上仍使用純文本來描述圖像。在這項工作中，我們提出了一種新的註釋策略，基於圖表的標題 (GBC)，它使用標籤圖表結構來描述圖像，其中包含各種類型的節點。GBC 中的節點是使用物體檢測和密集標題工具在第一階段創建的，以遞迴嵌套的方式發現和描述實體節點，並在第二階段使用新類型的節點突出顯示，從而將它們進一步連結在一起，實體之間的組合和關係。由於所有 GBC 節點都包含純文本描述，因此 GBC 保留了自然語言中的靈活性，但也可以在其邊緣編碼分層信息。我們證明了 GBC 可以使用現成的多模態 LLM 和開放詞彙檢測模型自動生成，通過構建一個新的數據集 GBC10M，收集了大約 10M CC12M 數據集圖像的 GBC 註釋。我們使用 GBC10M 來展示 GBC 發現的豐富節點標題，並使用 CLIP 訓練進行測量。我們表明，與其他數據集格式相比，使用 GBC 節點的註釋——特別是存儲在組合和關係節點中的註釋——會顯著提升下游模型的性能。為了進一步探索 GBC 提供的機會，我們還提出了一種新的注意機制，它可以利用整個 GBC 圖表，並通過鼓勵性的實驗結果展示了結合圖表結構的額外好處。我們的數據集發布在 \url{https://huggingface.co/graph-based-captions}。</paragraph>
+
+##### **Combining Knowledge Graphs and Large Language Models**
+2407.06564v1 by Amanda Kau, Xuzeng He, Aishwarya Nambissan, Aland Astudillo, Hui Yin, Amir Aryani
+
+In recent years, Natural Language Processing (NLP) has played a significant
+role in various Artificial Intelligence (AI) applications such as chatbots,
+text generation, and language translation. The emergence of large language
+models (LLMs) has greatly improved the performance of these applications,
+showing astonishing results in language understanding and generation. However,
+they still show some disadvantages, such as hallucinations and lack of
+domain-specific knowledge, that affect their performance in real-world tasks.
+These issues can be effectively mitigated by incorporating knowledge graphs
+(KGs), which organise information in structured formats that capture
+relationships between entities in a versatile and interpretable fashion.
+Likewise, the construction and validation of KGs present challenges that LLMs
+can help resolve. The complementary relationship between LLMs and KGs has led
+to a trend that combines these technologies to achieve trustworthy results.
+This work collected 28 papers outlining methods for KG-powered LLMs, LLM-based
+KGs, and LLM-KG hybrid approaches. We systematically analysed and compared
+these approaches to provide a comprehensive overview highlighting key trends,
+innovative techniques, and common challenges. This synthesis will benefit
+researchers new to the field and those seeking to deepen their understanding of
+how KGs and LLMs can be effectively combined to enhance AI applications
+capabilities.
+
+摘要：近年来，自然语言处理 (NLP) 在各种人工智能 (AI) 应用中发挥了重要作用，例如聊天机器人、文本生成和语言翻译。大语言模型 (LLM) 的出现极大地提高了这些应用程序的性能，在语言理解和生成方面显示出惊人的结果。然而，它们仍然表现出一些缺点，例如幻觉和缺乏特定领域的知识，这些缺点会影响它们在现实世界中的任务中的表现。通过纳入知识图谱 (KG) 可以有效地减轻这些问题，知识图谱以结构化格式组织信息，以多功能且可解释的方式捕获实体之间的关系。同样，KG 的构建和验证提出了 LLM 可以帮助解决的挑战。LLM 和 KG 之间的互补关系导致了一种将这些技术相结合以实现可信结果的趋势。这项工作收集了 28 篇概述了 KG 驱动的 LLM、基于 LLM 的 KG 和 LLM-KG 混合方法的方法的论文。我们系统地分析和比较了这些方法，以提供一个全面的概述，重点介绍关键趋势、创新技术和共同挑战。这种综合将使该领域的新研究人员和那些寻求加深对如何有效地将 KG 和 LLM 相结合以增强 AI 应用能力的理解的人受益。
+
 ##### **MST5 -- Multilingual Question Answering over Knowledge Graphs**
 2407.06041v1 by Nikit Srivastava, Mengshi Ma, Daniel Vollmers, Hamada Zahera, Diego Moussallem, Axel-Cyrille Ngonga Ngomo
 
@@ -2430,81 +2502,4 @@ reasoning (83.9%), and visual correspondence (80.8%). All codes and data are in
 https://visualsketchpad.github.io/.
 
 摘要：<paragraph>人類利用繪畫來促進推理：我們在解決幾何問題時會畫輔助線；在研究地圖時會標記和畫圈；我們使用草圖來擴展我們的想法並減輕我們容量有限的工作記憶。然而，目前的模態語言模型 (LM) 中缺少此類動作。目前的思考鏈和工具使用範例僅將文字用作中間推理步驟。在這項工作中，我們介紹了 Sketchpad，一個框架，它為多模態 LM 提供了一個視覺草圖本和可以在草圖本上繪畫的工具。LM 根據它繪製的視覺工件進行規劃和推理。不同於以前使用文字轉圖像模型使 LM 能夠繪畫的先前工作，Sketchpad 使 LM 能夠使用線條、方塊、標記等進行繪畫，這更接近於人類的素描，並且更好地促進了推理。Sketchpad 也可以在素描過程中使用專家視覺模型（例如，使用物件偵測模型繪製邊界框，使用分割模型繪製遮罩），以進一步增強視覺感知和推理。我們使用廣泛的數學任務（包括幾何、函數、圖形和西洋棋）和複雜的視覺推理任務進行了實驗。Sketchpad 大幅提升了所有任務在沒有素描的情況下強大的基礎模型的效能，在數學任務上平均提升 12.7%，在視覺任務上提升 8.6%。配備 Sketchpad 的 GPT-4o 在所有任務上都創下了新的技術水準，包括 V*Bench (80.3%)、BLINK 空間推理 (83.9%) 和視覺對應 (80.8%)。所有程式碼和資料都可以在 https://visualsketchpad.github.io/ 中找到。</paragraph>
-
-##### **Transformers meet Neural Algorithmic Reasoners**
-2406.09308v1 by Wilfried Bounsi, Borja Ibarz, Andrew Dudzik, Jessica B. Hamrick, Larisa Markeeva, Alex Vitvitskyi, Razvan Pascanu, Petar Veličković
-
-Transformers have revolutionized machine learning with their simple yet
-effective architecture. Pre-training Transformers on massive text datasets from
-the Internet has led to unmatched generalization for natural language
-understanding (NLU) tasks. However, such language models remain fragile when
-tasked with algorithmic forms of reasoning, where computations must be precise
-and robust. To address this limitation, we propose a novel approach that
-combines the Transformer's language understanding with the robustness of graph
-neural network (GNN)-based neural algorithmic reasoners (NARs). Such NARs
-proved effective as generic solvers for algorithmic tasks, when specified in
-graph form. To make their embeddings accessible to a Transformer, we propose a
-hybrid architecture with a two-phase training procedure, allowing the tokens in
-the language model to cross-attend to the node embeddings from the NAR. We
-evaluate our resulting TransNAR model on CLRS-Text, the text-based version of
-the CLRS-30 benchmark, and demonstrate significant gains over Transformer-only
-models for algorithmic reasoning, both in and out of distribution.
-
-摘要：Transformer 憑藉其簡單但有效的架構，徹底改變了機器學習。在網際網路上的大量文字資料集上對 Transformer 進行預訓練，已為自然語言理解 (NLU) 任務帶來了無與倫比的泛化。然而，在需要演算法形式推理的任務中，此類語言模型仍然脆弱，因為計算必須精確且穩健。為了解決這個限制，我們提出了一種新方法，結合了 Transformer 的語言理解與圖形神經網路 (GNN) 為基礎的神經演算法推理器 (NAR) 的穩健性。此類 NAR 被證明在以圖形形式指定時，可作為演算法任務的通用解算器。為了讓 Transformer 可以存取其嵌入，我們提出了具有兩階段訓練程序的混合架構，讓語言模型中的符號可以交叉關注 NAR 中的節點嵌入。我們在 CLRS-Text（CLRS-30 基準的文字版本）上評估我們得到的 TransNAR 模型，並證明了在演算法推理中，無論是在分佈內或分佈外，都比僅使用 Transformer 的模型有顯著的進步。
-
-##### **SememeLM: A Sememe Knowledge Enhanced Method for Long-tail Relation Representation**
-2406.10297v1 by Shuyi Li, Shaojuan Wu, Xiaowang Zhang, Zhiyong Feng
-
-Recognizing relations between two words is a fundamental task with the broad
-applications. Different from extracting relations from text, it is difficult to
-identify relations among words without their contexts. Especially for long-tail
-relations, it becomes more difficult due to inadequate semantic features.
-Existing approaches based on language models (LMs) utilize rich knowledge of
-LMs to enhance the semantic features of relations. However, they capture
-uncommon relations while overlooking less frequent but meaningful ones since
-knowledge of LMs seriously relies on trained data where often represents common
-relations. On the other hand, long-tail relations are often uncommon in
-training data. It is interesting but not trivial to use external knowledge to
-enrich LMs due to collecting corpus containing long-tail relationships is
-hardly feasible. In this paper, we propose a sememe knowledge enhanced method
-(SememeLM) to enhance the representation of long-tail relations, in which
-sememes can break the contextual constraints between wors. Firstly, we present
-a sememe relation graph and propose a graph encoding method. Moreover, since
-external knowledge base possibly consisting of massive irrelevant knowledge,
-the noise is introduced. We propose a consistency alignment module, which
-aligns the introduced knowledge with LMs, reduces the noise and integrates the
-knowledge into the language model. Finally, we conducted experiments on word
-analogy datasets, which evaluates the ability to distinguish relation
-representations subtle differences, including long-tail relations. Extensive
-experiments show that our approach outperforms some state-of-the-art methods.
-
-摘要：<paragraph>辨識兩個詞彙之間的關係是一項具有廣泛應用性的基本任務。與從文本中擷取關係不同，在沒有上下文的情況下辨識詞彙之間的關係很困難。特別是對於長尾關係，由於語意特徵不足，辨識難度更高。現有的基於語言模型 (LM) 的方法利用 LM 的豐富知識來增強關係的語意特徵。然而，它們會擷取不常見的關係，同時忽略頻率較低但有意義的關係，因為 LM 的知識嚴重依賴於訓練資料，而訓練資料通常代表常見的關係。另一方面，長尾關係在訓練資料中通常不常見。由於收集包含長尾關係的語料庫幾乎不可行，因此使用外部知識來豐富 LM 很有趣，但並不容易。在本文中，我們提出了一種語義特徵知識增強方法 (SememeLM) 來增強長尾關係的表示，其中語義特徵可以打破詞彙之間的上下文限制。首先，我們提出一個語義特徵關係圖，並提出一個圖形編碼方法。此外，由於外部知識庫可能包含大量無關的知識，因此會引入雜訊。我們提出了一個一致性對齊模組，它將引入的知識與 LM 對齊，減少雜訊並將知識整合到語言模型中。最後，我們對詞彙類比資料集進行了實驗，評估了區分關係表示細微差異的能力，包括長尾關係。大量的實驗表明，我們的方法優於一些最先進的方法。</paragraph>
-
-##### **Hierarchical Compression of Text-Rich Graphs via Large Language Models**
-2406.11884v1 by Shichang Zhang, Da Zheng, Jiani Zhang, Qi Zhu, Xiang song, Soji Adeshina, Christos Faloutsos, George Karypis, Yizhou Sun
-
-Text-rich graphs, prevalent in data mining contexts like e-commerce and
-academic graphs, consist of nodes with textual features linked by various
-relations. Traditional graph machine learning models, such as Graph Neural
-Networks (GNNs), excel in encoding the graph structural information, but have
-limited capability in handling rich text on graph nodes. Large Language Models
-(LLMs), noted for their superior text understanding abilities, offer a solution
-for processing the text in graphs but face integration challenges due to their
-limitation for encoding graph structures and their computational complexities
-when dealing with extensive text in large neighborhoods of interconnected
-nodes. This paper introduces ``Hierarchical Compression'' (HiCom), a novel
-method to align the capabilities of LLMs with the structure of text-rich
-graphs. HiCom processes text in a node's neighborhood in a structured manner by
-organizing the extensive textual information into a more manageable hierarchy
-and compressing node text step by step. Therefore, HiCom not only preserves the
-contextual richness of the text but also addresses the computational challenges
-of LLMs, which presents an advancement in integrating the text processing power
-of LLMs with the structural complexities of text-rich graphs. Empirical results
-show that HiCom can outperform both GNNs and LLM backbones for node
-classification on e-commerce and citation graphs. HiCom is especially effective
-for nodes from a dense region in a graph, where it achieves a 3.48% average
-performance improvement on five datasets while being more efficient than LLM
-backbones.
-
-摘要：<paragraph>在資料探勘情境中普遍存在的文字豐富圖形，例如電子商務和學術圖形，由具有各種關聯的文字特徵節點組成。傳統的圖形機器學習模型，例如圖形神經網路 (GNN)，擅長編碼圖形結構資訊，但在處理圖形節點上的豐富文字時能力有限。以其優異的文字理解能力而聞名的巨量語言模型 (LLM) 為處理圖形中的文字提供了解決方案，但由於其在編碼圖形結構方面的限制以及在處理相互連接節點的廣泛文字時面臨的計算複雜性，而面臨整合挑戰。本文介紹了「分層壓縮」(HiCom)，這是一種將 LLM 的能力與文字豐富圖形結構相結合的新方法。HiCom 以結構化的方式處理節點鄰域中的文字，方法是將廣泛的文字資訊組織成更易於管理的層級並逐步壓縮節點文字。因此，HiCom 不僅保留了文字的語境豐富性，還應對了 LLM 的計算挑戰，這代表了將 LLM 的文字處理能力與文字豐富圖形的結構複雜性相整合的進展。實證結果表明，在電子商務和引文圖形上的節點分類中，HiCom 可以優於 GNN 和 LLM 主幹。HiCom 對於圖形中密集區域的節點特別有效，在五個資料集上實現了平均效能提升 3.48%，同時比 LLM 主幹更有效率。</paragraph>
 

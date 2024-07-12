@@ -87,7 +87,7 @@
 |**2024-06-29**|**ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees**|Zhiyuan Wang et.al.|[2407.00499v1](http://arxiv.org/abs/2407.00499v1)|null|
 |**2024-06-29**|**MH-pFLGB: Model Heterogeneous personalized Federated Learning via Global Bypass for Medical Image Analysis**|Luyuan Xie et.al.|[2407.00474v1](http://arxiv.org/abs/2407.00474v1)|null|
 |**2024-06-29**|**pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation**|Luyuan Xie et.al.|[2407.00462v1](http://arxiv.org/abs/2407.00462v1)|null|
-|**2024-06-29**|**Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP**|Omer Goldman et.al.|[2407.00402v1](http://arxiv.org/abs/2407.00402v1)|null|
+|**2024-06-29**|**Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP**|Omer Goldman et.al.|[2407.00402v2](http://arxiv.org/abs/2407.00402v2)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-28**|**Predicting Elevated Risk of Hospitalization Following Emergency Department Discharges**|Dat Hong et.al.|[2407.00147v1](http://arxiv.org/abs/2407.00147v1)|null|
 |**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v3](http://arxiv.org/abs/2406.20041v3)|null|
@@ -2211,7 +2211,7 @@ methods.
 摘要：在醫學影像分割中，個人化跨資料孤島的聯邦學習 (FL) 逐漸盛行，用於利用醫療保健環境中的各種資料來克服資料稀少和隱私問題。然而，現有方法經常會出現客戶端偏移，導致效能不一致且訓練延遲。我們提出一個新的架構，透過功能增強 (pFLFE) 進行個人化聯邦學習，旨在減輕這些挑戰。pFLFE 包含兩個主要階段：功能增強和監督式學習。第一個階段改善前景和背景功能之間的差異，而第二個階段使用這些增強的功能從分割遮罩中學習。我們還設計了一個備用訓練方法，即使在通訊資源有限的情況下，也不影響分割品質，只需要較少的通訊回合。透過在三個醫學分割任務中進行實驗，我們證明 pFLFE 優於最先進的方法。
 
 ##### **Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP**
-2407.00402v1 by Omer Goldman, Alon Jacovi, Aviv Slobodkin, Aviya Maimon, Ido Dagan, Reut Tsarfaty
+2407.00402v2 by Omer Goldman, Alon Jacovi, Aviv Slobodkin, Aviya Maimon, Ido Dagan, Reut Tsarfaty
 
 Improvements in language models' capabilities have pushed their applications
 towards longer contexts, making long-context evaluation and development an
@@ -2236,7 +2236,7 @@ research in this area. We call for a careful design of tasks and benchmarks
 with distinctly long context, taking into account the characteristics that make
 it qualitatively different from shorter context.
 
-摘要：語言模型能力的提升已將其應用推向更長的脈絡，使得長脈絡評估和開發成為一個活躍的研究領域。然而，許多不同的用例被歸類在「長脈絡」這個總稱之下，僅由模型輸入的總長度定義，包括例如大海撈針任務、書籍摘要和資訊彙整。鑑於其難易度不同，我們在這篇立場文件中主張，將不同的任務混為一談是不具生產力的。作為一個社群，我們需要更精確的詞彙來理解是什麼讓長脈絡任務類似或不同。我們提議根據使它們在較長脈絡中更困難的屬性來解構長脈絡的分類。我們提出兩個正交的難度軸：(I) 擴散：在脈絡中找到必要資訊有多困難？(II) 範圍：有多少必要的資訊需要找到？我們調查了關於長脈絡的文獻，為此分類提供作為有意義描述符的依據，並根據它來定位文獻。我們得出結論，最困難且最有趣的設定，其必要資訊非常長且高度分散在輸入中，嚴重地未被探索。透過使用描述性詞彙和討論長脈絡中困難的相關屬性，我們可以在這個領域實施更明智的研究。我們呼籲仔細設計具有明顯長脈絡的任務和基準，考量使其在質上不同於較短脈絡的特性。
+摘要：語言模型能力的進步已將其應用推向更長的脈絡，使得長脈絡評估和開發成為一個活躍的研究領域。然而，許多不同的用例被歸類在「長脈絡」這個總稱之下，僅以模型輸入的總長度定義，包括例如大海撈針任務、書籍摘要和資訊彙整。鑑於它們的難度差異，我們在這篇立場文件中主張，將不同任務混為一談是沒有建設性的。作為一個社群，我們需要更精確的詞彙來理解是什麼讓長脈絡任務相似或不同。我們提議根據讓它們在較長脈絡中更困難的特性來解開長脈絡的分類法。我們提出兩個正交的難度軸：(I) 擴散：在脈絡中找到必要資訊有多困難？(II) 範圍：有多少必要的資訊需要找到？我們調查了關於長脈絡的文獻，為這個分類法作為一個有意義的描述符提供依據，並根據它來定位文獻。我們得出結論，最困難且最有趣的設定，其必要資訊在輸入中非常長且高度分散，嚴重地未被探索。透過使用描述性詞彙並討論長脈絡中困難的相關特性，我們可以在這個領域實施更明智的研究。我們呼籲仔細設計具有明顯長脈絡的任務和基準，並考量讓它在質量上不同於較短脈絡的特性。
 
 ##### **Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**
 2407.00167v1 by Sai Krishna Revanth Vuruma, Dezhi Wu, Saborny Sen Gupta, Lucas Aust, Valerie Lookingbill, Wyatt Bellamy, Yang Ren, Erin Kasson, Li-Shiun Chen, Patricia Cavazos-Rehg, Dian Hu, Ming Huang

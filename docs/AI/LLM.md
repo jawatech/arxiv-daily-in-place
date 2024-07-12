@@ -6,22 +6,22 @@
 |**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[link](https://github.com/socialfoundations/training-on-the-test-task)|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880v1](http://arxiv.org/abs/2407.07880v1)|[link](https://github.com/junkangwu/dr_dpo)|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v1](http://arxiv.org/abs/2407.07874v1)|null|
+|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v2](http://arxiv.org/abs/2407.07874v2)|null|
 |**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858v1](http://arxiv.org/abs/2407.07858v1)|null|
 |**2024-07-10**|**Uncovering Layer-Dependent Activation Sparsity Patterns in ReLU Transformers**|Cody Wild et.al.|[2407.07848v1](http://arxiv.org/abs/2407.07848v1)|null|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840v1](http://arxiv.org/abs/2407.07840v1)|null|
 |**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835v1](http://arxiv.org/abs/2407.07835v1)|[link](https://github.com/tourlics/robus_dataset)|
 |**2024-07-10**|**Transformer Alignment in Large Language Models**|Murdock Aubry et.al.|[2407.07810v1](http://arxiv.org/abs/2407.07810v1)|null|
 |**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802v1](http://arxiv.org/abs/2407.07802v1)|[link](https://github.com/rosa-paper/rosa)|
-|**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801v1](http://arxiv.org/abs/2407.07801v1)|null|
+|**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801v2](http://arxiv.org/abs/2407.07801v2)|null|
 |**2024-07-10**|**Attribute or Abstain: Large Language Models as Long Document Assistants**|Jan Buchmann et.al.|[2407.07799v1](http://arxiv.org/abs/2407.07799v1)|[link](https://github.com/ukplab/arxiv2024-attribute-or-abstain)|
-|**2024-07-10**|**Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**|Oguzhan Topsakal et.al.|[2407.07796v1](http://arxiv.org/abs/2407.07796v1)|[link](https://github.com/research-outcome/llm-game-benchmark)|
+|**2024-07-10**|**Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**|Oguzhan Topsakal et.al.|[2407.07796v2](http://arxiv.org/abs/2407.07796v2)|[link](https://github.com/research-outcome/llm-game-benchmark)|
 |**2024-07-10**|**Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities**|Tianjie Ju et.al.|[2407.07791v1](http://arxiv.org/abs/2407.07791v1)|null|
 |**2024-07-10**|**WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment**|Jiefu Ou et.al.|[2407.07778v1](http://arxiv.org/abs/2407.07778v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v1](http://arxiv.org/abs/2407.07775v1)|null|
 |**2024-07-10**|**Learning Spatial-Semantic Features for Robust Video Object Segmentation**|Xin Li et.al.|[2407.07760v1](http://arxiv.org/abs/2407.07760v1)|null|
 |**2024-07-10**|**Fine-Tuning Large Language Models with User-Level Differential Privacy**|Zachary Charles et.al.|[2407.07737v1](http://arxiv.org/abs/2407.07737v1)|null|
-|**2024-07-10**|**SaMoye: Zero-shot Singing Voice Conversion Based on Feature Disentanglement and Synthesis**|Zihao Wang et.al.|[2407.07728v1](http://arxiv.org/abs/2407.07728v1)|null|
+|**2024-07-10**|**SaMoye: Zero-shot Singing Voice Conversion Based on Feature Disentanglement and Synthesis**|Zihao Wang et.al.|[2407.07728v2](http://arxiv.org/abs/2407.07728v2)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726v1](http://arxiv.org/abs/2407.07726v1)|null|
 |**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[2407.07684v1](http://arxiv.org/abs/2407.07684v1)|null|
 |**2024-07-10**|**The Language of Weather: Social Media Reactions to Weather Accounting for Climatic and Linguistic Baselines**|James C. Young et.al.|[2407.07683v1](http://arxiv.org/abs/2407.07683v1)|null|
@@ -29,15 +29,15 @@
 |**2024-07-10**|**How to Leverage Predictive Uncertainty Estimates for Reducing Catastrophic Forgetting in Online Continual Learning**|Giuseppe Serra et.al.|[2407.07668v1](http://arxiv.org/abs/2407.07668v1)|null|
 |**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
 |**2024-07-10**|**A Coding-Theoretic Analysis of Hyperspherical Prototypical Learning Geometry**|Martin Lindström et.al.|[2407.07664v1](http://arxiv.org/abs/2407.07664v1)|[link](https://github.com/martinlindstrom/coding_theoretic_hpl)|
-|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638v1](http://arxiv.org/abs/2407.07638v1)|null|
+|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638v2](http://arxiv.org/abs/2407.07638v2)|null|
 |**2024-07-10**|**A Review of the Challenges with Massive Web-mined Corpora Used in Large Language Models Pre-Training**|Michał Perełkiewicz et.al.|[2407.07630v1](http://arxiv.org/abs/2407.07630v1)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
 |**2024-07-10**|**The Computational Learning of Construction Grammars: State of the Art and Prospective Roadmap**|Jonas Doumen et.al.|[2407.07606v1](http://arxiv.org/abs/2407.07606v1)|null|
-|**2024-07-10**|**Early Explorations of Lightweight Models for Wound Segmentation on Mobile Devices**|Vanessa Borst et.al.|[2407.07605v1](http://arxiv.org/abs/2407.07605v1)|null|
+|**2024-07-10**|**Early Explorations of Lightweight Models for Wound Segmentation on Mobile Devices**|Vanessa Borst et.al.|[2407.07605v2](http://arxiv.org/abs/2407.07605v2)|null|
 |**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604v1](http://arxiv.org/abs/2407.07604v1)|[link](https://github.com/banksylel/h-fcbformer)|
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577v1](http://arxiv.org/abs/2407.07577v1)|[link](https://github.com/jiyt17/ida-vlm)|
 |**2024-07-10**|**HebDB: a Weakly Supervised Dataset for Hebrew Speech Processing**|Arnon Turetzky et.al.|[2407.07566v1](http://arxiv.org/abs/2407.07566v1)|null|
-|**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v1](http://arxiv.org/abs/2407.07565v1)|null|
+|**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v2](http://arxiv.org/abs/2407.07565v2)|null|
 |**2024-07-10**|**FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes**|Rajat Kumar Jenamani et.al.|[2407.07561v1](http://arxiv.org/abs/2407.07561v1)|null|
 |**2024-07-10**|**Arabic Automatic Story Generation with Large Language Models**|Ahmed Oumar El-Shangiti et.al.|[2407.07551v1](http://arxiv.org/abs/2407.07551v1)|null|
 |**2024-07-10**|**Disentangling Masked Autoencoders for Unsupervised Domain Generalization**|An Zhang et.al.|[2407.07544v1](http://arxiv.org/abs/2407.07544v1)|[link](https://github.com/rookiehb/dismae)|
@@ -51,7 +51,7 @@
 |**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
 |**2024-07-10**|**Rigorous Probabilistic Guarantees for Robust Counterfactual Explanations**|Luca Marzari et.al.|[2407.07482v1](http://arxiv.org/abs/2407.07482v1)|[link](https://github.com/lmarza/apas)|
 |**2024-07-10**|**Rectifier: Code Translation with Corrector via LLMs**|Xin Yin et.al.|[2407.07472v1](http://arxiv.org/abs/2407.07472v1)|[link](https://github.com/vinci-grape/rectifier)|
-|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v1](http://arxiv.org/abs/2407.07457v1)|[link](https://github.com/nineabyss/glbench)|
+|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-10**|**Secondary Structure-Guided Novel Protein Sequence Generation with Latent Graph Diffusion**|Yutong Hu et.al.|[2407.07443v1](http://arxiv.org/abs/2407.07443v1)|[link](https://github.com/riacd/cpdiffusion-ss)|
 |**2024-07-10**|**Controllable Navigation Instruction Generation with Chain of Thought Prompting**|Xianghao Kong et.al.|[2407.07433v1](http://arxiv.org/abs/2407.07433v1)|[link](https://github.com/refkxh/c-instructor)|
 |**2024-07-10**|**Out-of-distribution generalisation in spoken language understanding**|Dejan Porjazovski et.al.|[2407.07425v1](http://arxiv.org/abs/2407.07425v1)|null|
@@ -67,7 +67,7 @@
 |**2024-07-10**|**Interpretable Differential Diagnosis with Dual-Inference Large Language Models**|Shuang Zhou et.al.|[2407.07330v1](http://arxiv.org/abs/2407.07330v1)|null|
 |**2024-07-10**|**Probability of Differentiation Reveals Brittleness of Homogeneity Bias in Large Language Models**|Messi H. J. Lee et.al.|[2407.07329v1](http://arxiv.org/abs/2407.07329v1)|null|
 |**2024-07-10**|**Fuse, Reason and Verify: Geometry Problem Solving with Parsed Clauses from Diagram**|Ming-Liang Zhang et.al.|[2407.07327v1](http://arxiv.org/abs/2407.07327v1)|null|
-|**2024-07-10**|**HiLight: Technical Report on the Motern AI Video Language Model**|Zhiting Wang et.al.|[2407.07325v1](http://arxiv.org/abs/2407.07325v1)|null|
+|**2024-07-10**|**HiLight: Technical Report on the Motern AI Video Language Model**|Zhiting Wang et.al.|[2407.07325v2](http://arxiv.org/abs/2407.07325v2)|null|
 |**2024-07-10**|**RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension**|Hung Phan et.al.|[2407.07321v1](http://arxiv.org/abs/2407.07321v1)|null|
 |**2024-07-10**|**ESM+: Modern Insights into Perspective on Text-to-SQL Evaluation in the Age of Large Language Models**|Benjamin Ascoli et.al.|[2407.07313v1](http://arxiv.org/abs/2407.07313v1)|null|
 |**2024-07-10**|**ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting**|Luoxiao Yang et.al.|[2407.07311v1](http://arxiv.org/abs/2407.07311v1)|[link](https://github.com/ikeyang/vitime)|
@@ -192,24 +192,29 @@ keypoints, or motion-planners.
 摘要：影像產生擴散模型已經經過微調以解鎖新的能力，例如影像編輯和新視圖合成。我們能用類似的方式解鎖影像產生模型用於視動控制嗎？我們提出 GENIMA，一種行為複製代理，它微調 Stable Diffusion 以在 RGB 影像上「繪製關節動作」作為目標。這些影像會輸入到控制器中，控制器會將視覺目標對應到一系列關節位置。我們在 25 個 RLBench 和 9 個真實世界的操作任務中研究 GENIMA。我們發現，透過將動作提升到影像空間，網際網路預訓練擴散模型可以產生策略，其表現優於最先進的視動控制方法，尤其是在場景擾動的穩健性以及對新物體的泛化方面。我們的模型即使缺乏深度、關鍵點或動作規劃器等先驗知識，也能與 3D 代理競爭。
 
 ##### **Toto: Time Series Optimized Transformer for Observability**
-2407.07874v1 by Ben Cohen, Emaad Khwaja, Kan Wang, Charles Masson, Elise Ramé, Youssef Doubli, Othmane Abou-Amal
+2407.07874v2 by Ben Cohen, Emaad Khwaja, Kan Wang, Charles Masson, Elise Ramé, Youssef Doubli, Othmane Abou-Amal
 
 This technical report describes the Time Series Optimized Transformer for
 Observability (Toto), a new state of the art foundation model for time series
 forecasting developed by Datadog. In addition to advancing the state of the art
 on generalized time series benchmarks in domains such as electricity and
 weather, this model is the first general-purpose time series forecasting
-foundation model to be specifically tuned for observability metrics. Toto was
-trained on a dataset of one trillion time series data points, the largest among
-all currently published time series foundation models. Alongside publicly
-available time series datasets, 75% of the data used to train Toto consists of
-fully anonymous numerical metric data points from the Datadog platform. In our
-experiments, Toto outperforms existing time series foundation models on
-observability data. It does this while also excelling at general-purpose
+foundation model to be specifically tuned for observability metrics.
+  Toto was trained on a dataset of one trillion time series data points, the
+largest among all currently published time series foundation models. Alongside
+publicly available time series datasets, 75% of the data used to train Toto
+consists of fully anonymous numerical metric data points from the Datadog
+platform.
+  In our experiments, Toto outperforms existing time series foundation models
+on observability data. It does this while also excelling at general-purpose
 forecasting tasks, achieving state-of-the-art zero-shot performance on multiple
 open benchmark datasets.
 
-摘要：這份技術報告描述了時間序列最佳化轉換器 (Toto) 對於可觀察性，這是一個由 Datadog 開發的全新時間序列預測基礎模型。除了在電力和天氣等領域推進廣義時間序列基準的進度外，這個模型也是第一個針對可觀察性指標特別調整的通用時間序列預測基礎模型。Toto 是根據一兆個時間序列資料點的資料集訓練的，是目前所有已發布時間序列基礎模型中最大的。除了公開可用時間序列資料集外，用來訓練 Toto 的資料有 75% 來自 Datadog 平台完全匿名的數值指標資料點。在我們的實驗中，Toto 在可觀察性資料上優於現有的時間序列基礎模型。它在執行此操作的同時，也能在通用預測任務中表現出色，在多個開放基準資料集上實現最先進的零次學習效能。
+摘要：這份技術報告描述了觀測時間序列最佳化Transformer (Toto)，這是一個由 Datadog 開發的新型時間序列預測基礎模型。除了提升電力和天氣等領域的廣泛時間序列基準的技術水準外，這個模型也是第一個專門針對可觀察性指標調整的通用時間序列預測基礎模型。
+
+Toto 是以一個擁有 1 兆筆時間序列資料點的資料集訓練而成的，在目前已發布的所有時間序列基礎模型中規模最大。除了公開的時間序列資料集，用於訓練 Toto 的資料有 75% 來自 Datadog 平台的完全匿名數值指標資料點。
+
+在我們的實驗中，Toto 在可觀察性資料上勝過現有的時間序列基礎模型。它在執行此操作的同時，也在通用預測任務中表現出色，在多個開放基準資料集上達成最先進的零次學習效能。
 
 ##### **FACTS About Building Retrieval Augmented Generation-based Chatbots**
 2407.07858v1 by Rama Akkiraju, Anbang Xu, Deepak Bora, Tan Yu, Lu An, Vishal Seth, Aaditya Shukla, Pritam Gundecha, Hridhay Mehta, Ashwin Jha, Prithvi Raj, Abhinav Balasubramanian, Murali Maram, Guru Muthusamy, Shivakesh Reddy Annepally, Sidney Knowles, Min Du, Nick Burnett, Sean Javiya, Ashok Marannan, Mamta Kumari, Surbhi Jha, Ethan Dereszenski, Anupam Chakraborty, Subhash Ranjan, Amina Terfai, Anoop Surya, Tracey Mercer, Vinodh Kumar Thanigachalam, Tamar Bar, Sanjana Krishnan, Samy Kilaru, Jasmine Jaksic, Nave Algarici, Jacob Liberman, Joey Conway, Sonu Nayyar, Justin Boitano
@@ -373,23 +378,23 @@ code is available at https://github.com/rosa-paper/rosa
 參數高效微調 (PEFT) 方法提供了一種使用較少記憶體將大型模型適應於下游任務的方法。然而，現有的方法，例如適配器、提示調整或低秩適應 (LoRA)，會在推理時引入延遲開銷，或與完全微調相比，達到次佳的下游效能。在這項工作中，我們提出隨機子空間適應 (ROSA)，一種方法，它在顯著的幅度上優於先前的 PEFT 方法，同時在推理時維持零延遲開銷。與先前的 PEFT 方法不同，ROSA 能夠適應任意大維度的子空間，更好地近似完全微調。我們在理論上和實驗上證明，這使得 ROSA 在不消耗額外執行時間記憶體的情況下，比 LoRA 更具表現力。由於 PEFT 方法在自然語言處理領域特別有用，在該領域模型在規模上運作，使得完全微調非常昂貴，我們在兩種常見的 NLP 場景中評估 ROSA：自然語言生成 (NLG) 和自然語言理解 (NLU)，分別使用 GPT-2 和 RoBERTa。我們表明，在幾乎每個 GLUE 任務中，ROSA 都以顯著的幅度優於 LoRA，同時也在 NLG 任務中優於 LoRA。我們的程式碼可在 https://github.com/rosa-paper/rosa 取得
 
 ##### **AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**
-2407.07801v1 by Jongsuk Kim, Jiwon Shin, Junmo Kim
+2407.07801v2 by Jongsuk Kim, Jiwon Shin, Junmo Kim
 
 In recent years, advancements in representation learning and language models
 have propelled Automated Captioning (AC) to new heights, enabling the
 generation of human-level descriptions. Leveraging these advancements, we
-propose \textbf{AVCap}, an \textbf{A}udio-\textbf{V}isual \textbf{Cap}tioning
-framework, a simple yet powerful baseline approach applicable to audio-visual
-captioning. AVCap utilizes audio-visual features as text tokens, which has many
-advantages not only in performance but also in the extensibility and
-scalability of the model. AVCap is designed around three pivotal dimensions:
-the exploration of optimal audio-visual encoder architectures, the adaptation
-of pre-trained models according to the characteristics of generated text, and
-the investigation into the efficacy of modality fusion in captioning. Our
-method outperforms existing audio-visual captioning methods across all metrics
-and the code is available on https://github.com/JongSuk1/AVCap
+propose AVCap, an Audio-Visual Captioning framework, a simple yet powerful
+baseline approach applicable to audio-visual captioning. AVCap utilizes
+audio-visual features as text tokens, which has many advantages not only in
+performance but also in the extensibility and scalability of the model. AVCap
+is designed around three pivotal dimensions: the exploration of optimal
+audio-visual encoder architectures, the adaptation of pre-trained models
+according to the characteristics of generated text, and the investigation into
+the efficacy of modality fusion in captioning. Our method outperforms existing
+audio-visual captioning methods across all metrics and the code is available on
+https://github.com/JongSuk1/AVCap
 
-摘要：近年来，表征学习和语言模型的进步已将自动字幕 (AC) 推向新高度，能够生成人类等级的描述。利用这些进步，我们提出了一个简单但强大的基线方法 \textbf{AVCap}，一个适用于音频视觉字幕的\textbf{A}udio-\textbf{V}isual \textbf{Cap}tioning 框架。AVCap 将音频视觉特征用作文本标记，这不仅在性能上具有许多优势，而且在模型的可扩展性和可扩展性方面也具有优势。AVCap 的设计围绕三个关键维度：探索最优的音频视觉编码器架构、根据生成文本的特征调整预训练模型，以及调查模态融合在字幕中的功效。我们的方法在所有指标上都优于现有的音频视觉字幕方法，并且代码可在 https://github.com/JongSuk1/AVCap 上获取
+摘要：近年來，表示學習和語言模型的進展已將自動字幕 (AC) 推升至新的高度，實現了人類等級描述的產生。利用這些進展，我們提出 AVCap，一個音訊視覺字幕框架，一個適用於音訊視覺字幕的簡單但強大的基線方法。AVCap 利用音訊視覺特徵作為文字符號，這不僅在效能方面，而且在模型的可擴充性和可擴充性方面都有許多優點。AVCap 的設計圍繞三個關鍵面向：最佳音訊視覺編碼器架構的探索、根據產生文字的特徵調整預先訓練的模型，以及調查字幕中模態融合的效能。我們的模型在所有指標上都優於現有的音訊視覺字幕方法，且程式碼可於 https://github.com/JongSuk1/AVCap 取得
 
 ##### **Attribute or Abstain: Large Language Models as Long Document Assistants**
 2407.07799v1 by Jan Buchmann, Xiao Liu, Iryna Gurevych
@@ -414,10 +419,10 @@ claims. We release code and data for further investigation.
 摘要：大型語言模型可以幫助人類處理長篇文件，但它們會出現幻覺。標示出處可以增加對大型語言模型回應的信任：大型語言模型提供了支持其回應的證據，這增強了可驗證性。現有的歸因方法僅在 RAG 設定中進行評估，其中初始檢索會混淆大型語言模型的效能。這與不需要檢索但可能有所幫助的長篇文件設定有根本上的不同。因此，缺少針對長篇文件的特定歸因評估。為了填補這個空白，我們提出了 LAB，這是一個包含 6 項不同長篇文件任務的基準，並在 4 個不同規模的大型語言模型上嘗試不同的歸因方法，包括提示式和微調。我們發現引文，即一步完成回應產生和證據提取，通常表現最佳。我們探討了「迷失在中間」現象是否存在於歸因中，但沒有發現。我們還發現，在回應簡單的資料集上，證據品質可以預測回應品質，但對於複雜的回應則不然，因為模型難以提供複雜說法的證據。我們釋出程式碼和資料以供進一步探討。
 
 ##### **Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**
-2407.07796v1 by Oguzhan Topsakal, Colby Jacob Edell, Jackson Bailey Harper
+2407.07796v2 by Oguzhan Topsakal, Colby Jacob Edell, Jackson Bailey Harper
 
 We introduce a novel and extensible benchmark for large language models
-(LLMs) through grid-based games such as Tic-Tac-Toe, Connect-Four, and Gomoku.
+(LLMs) through grid-based games such as Tic-Tac-Toe, Connect Four, and Gomoku.
 The open-source game simulation code, available on GitHub, allows LLMs to
 compete and generates detailed data files in JSON, CSV, TXT, and PNG formats
 for leaderboard rankings and further analysis. We present the results of games
@@ -439,7 +444,8 @@ decision-making scenarios, illuminating their strategic thinking abilities and
 offering directions for further inquiry into the limits of LLMs within
 game-based frameworks.
 
-摘要：<paragraph>我們透過井字遊戲、四連線和五子棋等格線遊戲，為大型語言模型 (LLM) 引入了一個新穎且可擴展的基準。可以在 GitHub 上取得的開放原始碼遊戲模擬程式碼，允許 LLM 競爭並產生 JSON、CSV、TXT 和 PNG 格式的詳細資料檔，以進行排行榜排名和進一步分析。我們展示了包括 Anthropic 的 Claude 3.5 Sonnet 和 Claude 3 Sonnet、Google 的 Gemini 1.5 Pro 和 Gemini 1.5 Flash、OpenAI 的 GPT-4 Turbo 和 GPT-4o，以及 Meta 的 Llama3-70B 等領先 LLM 之間的遊戲結果。我們也鼓勵提交其他 LLM 的結果。總計我們模擬了 2,310 場比賽（7 個 LLM 和一個隨機玩家之間的每對 5 場賽事），橫跨三種類型的遊戲，使用三種不同的提示類型：清單、插圖和圖像。結果揭示了 LLM 在不同遊戲和提示類型中的效能有顯著差異，分析涵蓋了獲勝和取消資格率、錯失機會分析和無效移動分析。排行榜和結果矩陣資料的詳細資訊可在 GitHub 上取得開放存取資料。這項研究增進了我們對 LLM 在未經特別訓練的遊戲中進行遊戲的能力的了解，有助於評估它們的規則理解和策略思考。在通往人工通用智慧 (AGI) 的道路上，這項研究為未來探索它們在複雜決策情境中的效用奠定了基礎，闡明了它們的策略思考能力，並為進一步探討 LLM 在基於遊戲的架構中的限制提供了方向。</paragraph>
+摘要：<paragraph>我們透過格線遊戲，例如井字遊戲、四連線和五子棋，為大型語言模型 (LLM) 引入一個新穎且可擴充的基準。
+開放原始碼的遊戲模擬程式碼，可在 GitHub 上取得，允許 LLM 競爭並產生 JSON、CSV、TXT 和 PNG 格式的詳細資料檔案，以供排行榜排名和進一步分析。我們展示了領先 LLM 之間的遊戲結果，包括 Anthropic 的 Claude 3.5 Sonnet 和 Claude 3 Sonnet、Google 的 Gemini 1.5 Pro 和 Gemini 1.5 Flash、OpenAI 的 GPT-4 Turbo 和 GPT-4o，以及 Meta 的 Llama3-70B。我們也鼓勵提交其他 LLM 的結果。總計，我們模擬了 2,310 場比賽（7 個 LLM 和一位隨機玩家之間的 5 場比賽），使用三種不同類型的遊戲和三種不同的提示類型：清單、插圖和影像。結果顯示，不同遊戲和提示類型之間的 LLM 效能存在顯著差異，分析涵蓋獲勝率和取消資格率、錯失機會分析和無效移動分析。排行榜和結果矩陣資料的詳細資訊以開放取用的資料形式在 GitHub 上提供。這項研究增進了我們對 LLM 在未針對其進行特定訓練的遊戲中進行遊戲的能力的了解，有助於評估其規則理解和策略思考。在通往人工通用智慧 (AGI) 的道路上，這項研究為未來探索其在複雜決策情境中的效用奠定了基礎，闡明了其策略思考能力，並為進一步探究 LLM 在基於遊戲的架構中的限制提供了方向。</paragraph>
 
 ##### **Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities**
 2407.07791v1 by Tianjie Ju, Yiting Wang, Xinbei Ma, Pengzhou Cheng, Haodong Zhao, Yulong Wang, Lifeng Liu, Jian Xie, Zhuosheng Zhang, Gongshen Liu
@@ -578,7 +584,7 @@ and datasets with hundreds of thousands of users.
 摘要：我們探討了用使用者層級差分隱私 (DP) 訓練大型語言模型 (LLM) 的實用且可擴充的演算法，以證明保護每個使用者貢獻的所有範例。我們研究了 DP-SGD 的兩個變體：(1) 範例層級抽樣 (ELS) 和每個範例梯度裁剪，以及 (2) 使用者層級抽樣 (ULS) 和每個使用者梯度裁剪。我們推導了一個新穎的使用者層級 DP 會計員，允許我們計算出 ELS 的可證明嚴格隱私保證。使用這個方法，我們顯示 ELS 可以在特定設定中優於 ULS，而當每個使用者都有多樣化的範例集合時，ULS 通常會產生更好的結果。我們透過在固定運算預算下的合成平均估計和 LLM 微調任務中進行實驗來驗證我們的發現。我們發現 ULS 在 (1) 需要強隱私保證或 (2) 運算預算很大的設定中顯著較好。值得注意的是，我們專注於 LLM 相容的訓練演算法，使我們能夠擴充到具有數億個參數和數十萬使用者的資料集的模型。
 
 ##### **SaMoye: Zero-shot Singing Voice Conversion Based on Feature Disentanglement and Synthesis**
-2407.07728v1 by Zihao Wang, Le Ma, Yan Liu, Kejun Zhang
+2407.07728v2 by Zihao Wang, Le Ma, Yan Liu, Kejun Zhang
 
 Singing voice conversion (SVC) aims to convert a singer's voice in a given
 music piece to another singer while keeping the original content. We propose an
@@ -592,7 +598,7 @@ the target singer. We also establish an unparalleled large-scale dataset to
 guarantee zero-shot performance. The dataset consists of 1500k pure singing
 vocal clips containing at least 10,000 singers.
 
-摘要：歌唱聲音轉換 (SVC) 旨在將給定音樂作品中歌手的聲音轉換為另一位歌手的聲音，同時保留原始內容。我們提出一個端到端的基於特徵解糾纏的模型，我們將其命名為 SaMoye，以實現零次學習多對多歌唱聲音轉換。SaMoye 將歌唱聲音的特徵解糾纏為內容特徵、音色特徵和音高特徵。使用基於 GPT 的模型增強內容特徵，以與歌詞的音素進行交叉預測。SaMoye 可以通過用目標歌手的音色特徵替換音色特徵來生成具有轉換聲音的音樂。我們還建立了一個無與倫比的大規模數據集，以保證零次學習的表現。該數據集包含 1500k 個純歌唱人聲片段，其中包含至少 10,000 名歌手。
+摘要：歌唱聲音轉換 (SVC) 旨在將給定音樂片段中的歌手聲音轉換為另一位歌手，同時保留原始內容。我們提出了一個端到端的特徵解糾纏模型，我們將其命名為 SaMoye，以實現零次學習多對多歌唱聲音轉換。SaMoye 將歌唱聲音的特徵解糾纏為內容特徵、音色特徵和音高特徵。內容特徵使用基於 GPT 的模型進行增強，以對歌詞音素執行交叉預測。SaMoye 可以通過用目標歌手的音色特徵替換音色特徵來生成轉換聲音的音樂。我們還建立了一個無與倫比的大規模數據集，以保證零次學習性能。該數據集包含 1500k 個純歌唱聲樂片段，包含至少 10,000 名歌手。
 
 ##### **PaliGemma: A versatile 3B VLM for transfer**
 2407.07726v1 by Lucas Beyer, Andreas Steiner, André Susano Pinto, Alexander Kolesnikov, Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael Tschannen, Emanuele Bugliarello, Thomas Unterthiner, Daniel Keysers, Skanda Koppula, Fangyu Liu, Adam Grycner, Alexey Gritsenko, Neil Houlsby, Manoj Kumar, Keran Rong, Julian Eisenschlos, Rishabh Kabra, Matthias Bauer, Matko Bošnjak, Xi Chen, Matthias Minderer, Paul Voigtlaender, Ioana Bica, Ivana Balazevic, Joan Puigcerver, Pinelopi Papalampidi, Olivier Henaff, Xi Xiong, Radu Soricut, Jeremiah Harmsen, Xiaohua Zhai
@@ -743,7 +749,7 @@ converse bounds, showing that our proposed methods are near-optimal.
 表明我們提出的方法接近最佳。
 
 ##### **Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**
-2407.07638v1 by Zhifang Zhang, Beibei Li
+2407.07638v2 by Zhifang Zhang, Beibei Li
 
 Vision-language models (VLMs) can learn high-quality representations from a
 large-scale training dataset of image-text pairs. Prompt learning is a popular
@@ -765,7 +771,7 @@ training objectives for learning with candidate labels to further improve their
 performance. Extensive experiments demonstrate the effectiveness of our
 proposed framework.
 
-摘要：視覺語言模型 (VLM) 可以從圖像-文字對的大型訓練資料集學習到高品質的表示。提示學習是一種流行的方法，用於微調 VLM 以適應下游任務。儘管有令人滿意的效能，但提示學習的一大限制是對標籤資料的需求。在現實世界的場景中，我們可能只能獲得候選標籤（其中包含真實標籤），而不是由於資料隱私或敏感性問題而獲得真實標籤。在本文中，我們提供了第一個關於對 VLM 使用候選標籤進行提示學習的研究。我們透過實證證明，提示學習在處理候選標籤方面比其他微調方法更有優勢。儘管如此，當標籤歧義性增加時，其效能會下降。為了提高其穩健性，我們提出了一個簡單但有效的架構，該架構更好地利用了 VLM 的先驗知識，以指導使用候選標籤的學習過程。具體來說，我們的架構通過將模型輸出與可學習提示和手工提示共同預測的混合類別後驗機率對齊，來消除候選標籤的歧義。此外，我們的架構可以配備各種現成的訓練目標，以使用候選標籤進行學習，以進一步提高其效能。廣泛的實驗證明了我們提出的架構的有效性。
+摘要：視覺語言模型 (VLM) 能從大型影像文字配對訓練資料集中學習到高品質的表徵。提示學習是一種流行的方法，用於微調 VLM 以適應下游任務。儘管有令人滿意的表現，但提示學習的一大限制是對標記資料的需求。在實際場景中，我們可能只能取得候選標籤（其中包含真實標籤），而不是由於資料隱私或敏感性問題而取得真實標籤。在本文中，我們提供了第一個關於使用候選標籤進行 VLM 提示學習的研究。我們憑經驗證明，對於處理候選標籤而言，提示學習比其他微調方法更有優勢。儘管如此，當標籤模糊性增加時，其效能會下降。為了提高其穩健性，我們提出了一個簡單但有效的架構，它能更好地利用 VLM 的先驗知識來指導使用候選標籤的學習過程。具體來說，我們的架構透過將模型輸出與可學習提示和手工提示共同預測的混合類別後驗機率對齊，來消除候選標籤的歧義。此外，我們的架構可以配備各種現成的訓練目標，以使用候選標籤進行學習，以進一步提高其效能。廣泛的實驗證明了我們提出的架構的有效性。
 
 ##### **A Review of the Challenges with Massive Web-mined Corpora Used in Large Language Models Pre-Training**
 2407.07630v1 by Michał Perełkiewicz, Rafał Poświata
@@ -831,7 +837,7 @@ construction grammars.
 摘要：本文档记录并检视了有关建构语法学习的计算模型的最新技术。它汇集了先前关于形式-意义配对的计算学习工作，该工作迄今已在几个不同的研究领域中得到研究。本文的目标有三方面。首先，它旨在综合迄今为止提出的各种方法以及获得的结果。其次，它旨在找出已成功解决的挑战部分，并揭示需要进一步研究的部分。最后，它旨在提供一个路线图，该路线图可以帮助促进和简化未来在基于使用的大规模建构语法的计算学习上的研究工作。
 
 ##### **Early Explorations of Lightweight Models for Wound Segmentation on Mobile Devices**
-2407.07605v1 by Vanessa Borst, Timo Dittus, Konstantin Müller, Samuel Kounev
+2407.07605v2 by Vanessa Borst, Timo Dittus, Konstantin Müller, Samuel Kounev
 
 The aging population poses numerous challenges to healthcare, including the
 increase in chronic wounds in the elderly. The current approach to wound
@@ -851,7 +857,7 @@ from wound-coloured objects. While our study highlights the potential of
 transformer models for mobile wound segmentation, future work should aim to
 further improve the mask contours.
 
-摘要：人口老化對醫療保健構成許多挑戰，包括老年人慢性傷口的增加。治療師目前根據照片文件進行傷口評估的方法是主觀的，這突顯了從智慧型手機照片進行電腦輔助傷口識別的需求。這提供了客觀且方便的治療監控，同時患者隨時可以在家使用。然而，儘管進行了行動影像分割的研究，但缺乏對行動傷口分割的關注。為了解決這個差距，我們對三種輕量級架構進行初步研究，以調查它們是否適合基於智慧型手機的傷口分割。使用公開資料集和 UNet 作為基線，我們的結果很有希望，ENet 和 TopFormer，以及較大的 UNeXt 變體，都顯示出與 UNet 相當的效能。此外，我們將這些模型部署到智慧型手機應用程式中，以進行即時分割的視覺評估，結果證明 TopFormer 在區分傷口和傷口顏色物體方面很有效。雖然我們的研究突顯了Transformer模型在行動傷口分割方面的潛力，但未來的研究應該旨在進一步改善遮罩輪廓。
+摘要：人口老齡化對醫療保健構成許多挑戰，包括老年人慢性傷口增加。治療師根據照片文件進行傷口評估的現有方法是主觀的，這凸顯了從智慧型手機照片進行電腦輔助傷口識別的需求。這提供了客觀且便利的治療監控，同時患者隨時都可以在家使用。然而，儘管有行動影像分割的研究，但缺乏對行動傷口分割的關注。為了解決這個差距，我們對三種輕量級架構進行初步研究，以調查它們是否適合用於基於智慧型手機的傷口分割。使用公開資料集和 UNet 作為基準，我們的結果很有希望，ENet 和 TopFormer 以及較大的 UNeXt 變體都顯示出與 UNet 相當的效能。此外，我們將模型部署到智慧型手機應用程式中，以進行即時分割的視覺評估，結果證明了 TopFormer 在區分傷口和傷口顏色物體方面的有效性。雖然我們的研究突顯了Transformer模型在行動傷口分割方面的潛力，但未來的研究應旨在進一步改善遮罩輪廓。
 
 ##### **H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**
 2407.07604v1 by Ryan Banks, Bernat Rovira-Lastra, Jordi Martinez-Gomis, Akhilanand Chaurasia, Yunpeng Li
@@ -921,18 +927,18 @@ publicly available under https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/.
 摘要：我們提出 HebDB，一個希伯來語口語處理的弱監督資料集。HebDB 提供大約 2500 小時的希伯來語自然且自發的語音錄音，包含各種講者和主題。我們提供原始錄音以及經過預處理、弱監督和過濾的版本。HebDB 的目標是進一步增強希伯來語口語處理工具的研究和開發。因此，我們另外提供了兩個自動語音辨識 (ASR) 的基準系統：(i) 自我監督模型；(ii) 完全監督模型。我們展示了這兩種方法在 HebDB 上最佳化的效能，並將它們與目前的多分語言 ASR 替代方案進行比較。結果表明，所提出的方法在考慮類似模型大小的情況下，比評估的基準線獲得更好的結果。資料集、程式碼和模型可在 https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/ 下公開取得。
 
 ##### **On Leakage of Code Generation Evaluation Datasets**
-2407.07565v1 by Alexandre Matton, Tom Sherborne, Dennis Aumiller, Elena Tommasone, Milad Alizadeh, Jingyi He, Raymond Ma, Maxime Voisin, Ellen Gilsenan-McMahon, Matthias Gallé
+2407.07565v2 by Alexandre Matton, Tom Sherborne, Dennis Aumiller, Elena Tommasone, Milad Alizadeh, Jingyi He, Raymond Ma, Maxime Voisin, Ellen Gilsenan-McMahon, Matthias Gallé
 
 In this paper we consider contamination by code generation test sets, in
 particular in their use in modern large language models. We discuss three
 possible sources of such contamination and show findings supporting each of
 them: (i) direct data leakage, (ii) indirect data leakage through the use of
 synthetic data and (iii) overfitting to evaluation sets during model selection.
-  Key to our findings is a new dataset of 161 prompts with their associated
+Key to our findings is a new dataset of 161 prompts with their associated
 python solutions, dataset which is released at
 https://huggingface.co/datasets/CohereForAI/lbpp .
 
-摘要：在本文中，我们考虑了代码生成测试集中存在的污染，特别是它们在现代大型语言模型中的使用。我们讨论了此类污染的三个可能来源，并展示了支持每个来源的发现：(i) 直接数据泄露，(ii) 通过使用合成数据进行间接数据泄露，以及 (iii) 在模型选择期间过度拟合评估集。我们的发现的关键是一个包含 161 个提示及其关联的 python 解决方案的新数据集，该数据集在 https://huggingface.co/datasets/CohereForAI/lbpp 中发布。
+摘要：在本文中，我們考慮了由程式碼生成測試集造成的污染，特別是在它們在現代大型語言模型中的使用。我們討論了這種污染的三個可能來源，並展示了支持每個來源的發現：(i) 直接資料外洩，(ii) 通過使用合成資料進行間接資料外洩，以及 (iii) 在模型選擇期間過度擬合評估集。我們的發現的關鍵是一個新的資料集，其中包含 161 個提示及其關聯的 Python 程式碼，該資料集已在 https://huggingface.co/datasets/CohereForAI/lbpp 發布。
 
 ##### **FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes**
 2407.07561v1 by Rajat Kumar Jenamani, Priya Sundaresan, Maram Sakr, Tapomayukh Bhattacharjee, Dorsa Sadigh
@@ -1234,7 +1240,7 @@ cross experiments also demonstrate the robustness of our method.
 摘要：隨著軟體和社會的演進，軟體遷移正獲得越來越多的關注。早期研究主要依賴於人工翻譯規則在兩種語言之間進行翻譯，翻譯過程容易出錯且耗時。近年來，研究人員已開始探索在程式碼翻譯中使用預先訓練的大語言模型 (LLM)。然而，程式碼翻譯是一項複雜的任務，LLM 在程式碼翻譯過程中會產生錯誤，它們在執行程式碼翻譯任務時都會產生特定類型的錯誤，包括 (1) 編譯錯誤、(2) 執行時期錯誤、(3) 功能錯誤和 (4) 非終止執行。我們發現這些錯誤的根本原因非常相似 (例如，無法匯入套件、迴圈邊界錯誤、運算子錯誤等等)。在本文中，我們提出了一種通用校正器，即 Rectifier，它是一個用於修復翻譯錯誤的微型且通用的模型。它從現有 LLM 產生的錯誤中學習，並且可以廣泛應用於修正任何 LLM 產生的錯誤。在 C++、Java 和 Python 之間的翻譯任務上的實驗結果表明，我們的模型具有有效的修復能力，並且交叉實驗也證明了我們方法的穩健性。
 
 ##### **GLBench: A Comprehensive Benchmark for Graph with Large Language Models**
-2407.07457v1 by Yuhan Li, Peisong Wang, Xiao Zhu, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
+2407.07457v2 by Yuhan Li, Peisong Wang, Xiao Zhu, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
 The emergence of large language models (LLMs) has revolutionized the way we
 interact with graphs, leading to a new paradigm called GraphLLM. Despite the
@@ -1256,7 +1262,7 @@ proposed simple baseline can even outperform several models tailored for
 zero-shot scenarios. The data and code of the benchmark can be found at
 https://github.com/NineAbyss/GLBench.
 
-摘要：大型語言模型 (LLM) 的出現徹底改變了我們與圖表互動的方式，並導致了稱為 GraphLLM 的新範例。儘管近年來 GraphLLM 方法快速發展，但由於缺乏具有一致實驗協定的基準，因此該領域的進展和理解仍不明確。為了彌補這一差距，我們引入了 GLBench，這是第一個用於評估 GraphLLM 方法在監督式和零次學習場景中的綜合基準。GLBench 提供了對不同類別的 GraphLLM 方法進行公平而徹底的評估，以及圖神經網路等傳統基準。通過對具有資料處理和拆分策略一致的真實世界資料集進行廣泛實驗，我們發現了幾個關鍵發現。首先，GraphLLM 方法在監督式設定中優於傳統基準，其中 LLM 作為增強器顯示出最穩健的效能。然而，使用 LLM 作為預測器效果較差，且經常導致無法控制的輸出問題。我們還注意到，對於目前的 GraphLLM 方法來說，並不存在明確的縮放定律。此外，結構和語義對於有效的零次學習轉移至關重要，而我們提出的簡單基準甚至可以優於為零次學習場景量身打造的幾個模型。基準的資料和程式碼可以在 https://github.com/NineAbyss/GLBench 中找到。
+摘要：大型語言模型 (LLM) 的出現徹底改變了我們與圖表互動的方式，進而產生一種稱為 GraphLLM 的新典範。儘管近年來 GraphLLM 方法快速發展，但由於缺乏具有一致實驗協定的基準，因此該領域的進展和理解仍不明確。為了彌補這個差距，我們引入了 GLBench，這是第一個用於評估 GraphLLM 方法在監督式和零次學習場景中的綜合基準。GLBench 提供對不同類別的 GraphLLM 方法進行公平且徹底的評估，以及傳統基準，例如圖神經網路。透過對一組真實世界資料集進行廣泛實驗，並採用一致的資料處理和分割策略，我們發現了幾個關鍵發現。首先，GraphLLM 方法在監督式設定中優於傳統基準，其中 LLM 作為增強器顯示出最穩健的效能。然而，使用 LLM 作為預測器較不有效，而且經常導致無法控制的輸出問題。我們還注意到，對於目前的 GraphLLM 方法並不存在明確的縮放定律。此外，結構和語義對於有效的零次學習傳輸至關重要，而我們提出的簡單基準甚至可以優於針對零次學習場景量身打造的幾個模型。基準的資料和程式碼可以在 https://github.com/NineAbyss/GLBench 中找到。
 
 ##### **Secondary Structure-Guided Novel Protein Sequence Generation with Latent Graph Diffusion**
 2407.07443v1 by Yutong Hu, Yang Tan, Andi Han, Lirong Zheng, Liang Hong, Bingxin Zhou
@@ -1614,7 +1620,7 @@ all justified effective.
 摘要：<paragraph>几何問題求解 (GPS) 需要具備多模態理解、多跳推理和定理知識應用能力。在本文中，我們提出了平面幾何問題求解 (PGPS) 的神經符號模型，名為 PGPSNet-v2，它包含三個關鍵步驟：模態融合、推理過程和知識驗證。在模態融合中，我們利用文本子句表達幾何圖形的細粒度結構和語義內容，並通過結構語義預訓練有效地將圖形與文本問題融合。對於推理，我們設計了一個可解釋的求解程式來描述幾何推理過程，並採用自限解碼器自迴歸生成求解程式。為了減少求解錯誤，提出了一個多級定理驗證器來消除不符合幾何原理的求解方案，從而減輕神經模型的幻覺。我們還構建了一個名為 PGPS9K 的大型幾何問題數據集，其中包含文本子句、求解程式和涉及的知識元組的細粒度註解。在數據集 Geometry3K 和 PGPS9K 上進行的廣泛實驗表明，我們的 PGPSNet 求解器在 GPS 性能方面優於現有的符號和神經求解器，同時保持良好的可解釋性和可靠性，並且求解器組件（融合、推理、驗證）都被證明是有效的。</paragraph>
 
 ##### **HiLight: Technical Report on the Motern AI Video Language Model**
-2407.07325v1 by Zhiting Wang, Qiangong Zhou, Kangjie Yang, Zongyang Liu. Xin Mao
+2407.07325v2 by Zhiting Wang, Qiangong Zhou, Kangjie Yang, Zongyang Liu, Xin Mao
 
 This technical report presents the implementation of a state-of-the-art video
 encoder for video-text modal alignment and a video conversation framework
@@ -1624,7 +1630,7 @@ efficient way to interact with users. Our goal is to address the task of video
 comprehension in the context of billiards. The report includes a discussion of
 the concepts and the final solution developed during the task's implementation.
 
-摘要：本技術報告展示了最先進的影片編碼器實作，用於影片文字模式對齊和稱為 HiLight 的影片對話架構，其特點是具有雙視覺塔。這項工作分為兩個主要部分：1.影片和文字模式對齊；2.與使用者互動的便利且有效率的方法。我們的目標是解決在撞球背景下影片理解的任務。報告包括在任務實作期間發展的概念和最終解決方案的討論。
+摘要：本技術報告介紹了一個最先進的影片編碼器的實作，用於影片文字模態對齊，以及一個名為 HiLight 的影片對話架構，其特色是具有雙重視覺塔。這項工作分為兩個主要部分：1.影片與文字模態對齊；2.與使用者互動的便利且有效率的方式。我們的目標是解決在撞球背景下影片理解的任務。報告包含在任務實作期間發展的概念和最終解決方案的討論。
 
 ##### **RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension**
 2407.07321v1 by Hung Phan, Anurag Acharya, Sarthak Chaturvedi, Shivam Sharma, Mike Parker, Dan Nally, Ali Jannesari, Karl Pazdernik, Mahantesh Halappanavar, Sai Munikoti, Sameera Horawalavithana

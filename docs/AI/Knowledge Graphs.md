@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
+|**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v1](http://arxiv.org/abs/2407.07775v1)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
 |**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
@@ -99,11 +102,86 @@
 |**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710v1](http://arxiv.org/abs/2406.10710v1)|null|
 |**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492v1](http://arxiv.org/abs/2406.10492v1)|null|
 |**2024-06-15**|**Unlocking Large Language Model's Planning Capabilities with Maximum Diversity Fine-tuning**|Wenjun Li et.al.|[2406.10479v1](http://arxiv.org/abs/2406.10479v1)|null|
-|**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994v1](http://arxiv.org/abs/2406.09994v1)|null|
-|**2024-06-14**|**DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**|Zeyu Gao et.al.|[2406.09953v2](http://arxiv.org/abs/2406.09953v2)|null|
-|**2024-06-14**|**TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**|Zhuofeng Li et.al.|[2406.10310v1](http://arxiv.org/abs/2406.10310v1)|null|
 
 #### Abstracts
+##### **Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**
+2407.08694v1 by Zhiqiang Xie, Yujia Zheng, Lizi Ottens, Kun Zhang, Christos Kozyrakis, Jonathan Mace
+
+Runtime failure and performance degradation is commonplace in modern cloud
+systems. For cloud providers, automatically determining the root cause of
+incidents is paramount to ensuring high reliability and availability as prompt
+fault localization can enable faster diagnosis and triage for timely
+resolution. A compelling solution explored in recent work is causal reasoning
+using causal graphs to capture relationships between varied cloud system
+performance metrics. To be effective, however, systems developers must
+correctly define the causal graph of their system, which is a time-consuming,
+brittle, and challenging task that increases in difficulty for large and
+dynamic systems and requires domain expertise. Alternatively, automated
+data-driven approaches have limited efficacy for cloud systems due to the
+inherent rarity of incidents. In this work, we present Atlas, a novel approach
+to automatically synthesizing causal graphs for cloud systems. Atlas leverages
+large language models (LLMs) to generate causal graphs using system
+documentation, telemetry, and deployment feedback. Atlas is complementary to
+data-driven causal discovery techniques, and we further enhance Atlas with a
+data-driven validation step. We evaluate Atlas across a range of fault
+localization scenarios and demonstrate that Atlas is capable of generating
+causal graphs in a scalable and generalizable manner, with performance that far
+surpasses that of data-driven algorithms and is commensurate to the
+ground-truth baseline.
+
+摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
+
+##### **Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**
+2407.08516v1 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
+
+This article explores the convergence of connectionist and symbolic
+artificial intelligence (AI), from historical debates to contemporary
+advancements. Traditionally considered distinct paradigms, connectionist AI
+focuses on neural networks, while symbolic AI emphasizes symbolic
+representation and logic. Recent advancements in large language models (LLMs),
+exemplified by ChatGPT and GPT-4, highlight the potential of connectionist
+architectures in handling human language as a form of symbols. The study argues
+that LLM-empowered Autonomous Agents (LAAs) embody this paradigm convergence.
+By utilizing LLMs for text-based knowledge modeling and representation, LAAs
+integrate neuro-symbolic AI principles, showcasing enhanced reasoning and
+decision-making capabilities. Comparing LAAs with Knowledge Graphs within the
+neuro-symbolic AI theme highlights the unique strengths of LAAs in mimicking
+human-like reasoning processes, scaling effectively with large datasets, and
+leveraging in-context samples without explicit re-training. The research
+underscores promising avenues in neuro-vector-symbolic integration,
+instructional encoding, and implicit reasoning, aimed at further enhancing LAA
+capabilities. By exploring the progression of neuro-symbolic AI and proposing
+future research trajectories, this work advances the understanding and
+development of AI technologies.
+
+摘要：這篇文章探討了連接主義與符號人工智慧 (AI) 的匯流，從歷史辯論到當代進展。傳統上被認為是不同的典範，連接主義 AI 專注於神經網路，而符號 AI 則強調符號表徵與邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連接主義架構在將人類語言視為符號形式處理的潛力。該研究論證，由 LLM 賦能的自主代理 (LAA) 體現了這種典範的匯流。透過利用 LLM 進行基於文字的知識建模與表徵，LAA 整合了神經符號 AI 原則，展示增強的推理和決策能力。在神經符號 AI 主題中將 LAA 與知識圖譜進行比較，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及在沒有明確重新訓練的情況下利用情境範例中的獨特優勢。該研究強調了神經向量符號整合、指令編碼和隱式推理中具有前景的途徑，旨在進一步增強 LAA 的能力。透過探討神經符號 AI 的進展並提出未來的研究軌跡，這項研究推動了對 AI 技術的理解和發展。
+
+##### **A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**
+2407.07966v1 by Arastoo Zibaeirad, Farnoosh Koleini, Shengping Bi, Tao Hou, Tao Wang
+
+In this study, we conduct a comprehensive review of smart grid security,
+exploring system architectures, attack methodologies, defense strategies, and
+future research opportunities. We provide an in-depth analysis of various
+attack vectors, focusing on new attack surfaces introduced by advanced
+components in smart grids. The review particularly includes an extensive
+analysis of coordinated attacks that incorporate multiple attack strategies and
+exploit vulnerabilities across various smart grid components to increase their
+adverse impact, demonstrating the complexity and potential severity of these
+threats. Following this, we examine innovative detection and mitigation
+strategies, including game theory, graph theory, blockchain, and machine
+learning, discussing their advancements in counteracting evolving threats and
+associated research challenges. In particular, our review covers a thorough
+examination of widely used machine learning-based mitigation strategies,
+analyzing their applications and research challenges spanning across
+supervised, unsupervised, semi-supervised, ensemble, and reinforcement
+learning. Further, we outline future research directions and explore new
+techniques and concerns. We first discuss the research opportunities for
+existing and emerging strategies, and then explore the potential role of new
+techniques, such as large language models (LLMs), and the emerging threat of
+adversarial machine learning in the future of smart grid security.
+
+摘要：在這項研究中，我們對智慧電網安全性進行全面檢視，探討系統架構、攻擊方法、防禦策略和未來的研究機會。我們深入分析各種攻擊媒介，專注於智慧電網中先進組件所引入的新攻擊面。本檢視特別包含對協調攻擊的廣泛分析，其中包含多種攻擊策略並利用各種智慧電網組件中的漏洞來增加其負面影響，展示這些威脅的複雜性和潛在嚴重性。在此之後，我們探討創新的偵測和緩解策略，包括博弈論、圖論、區塊鏈和機器學習，討論它們在對抗不斷演變的威脅和相關研究挑戰方面的進展。特別是，我們的檢視涵蓋對廣泛使用的基於機器學習的緩解策略的徹底檢驗，分析它們在監督式、非監督式、半監督式、整體式和強化學習中的應用和研究挑戰。此外，我們概述未來的研究方向並探討新技術和問題。我們首先討論現有和新興策略的研究機會，然後探討新技術的潛在作用，例如大型語言模型 (LLM)，以及對抗式機器學習在智慧電網安全未來的威脅。
+
 ##### **Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**
 2407.07775v1 by Hao-Tien Lewis Chiang, Zhuo Xu, Zipeng Fu, Mithun George Jacob, Tingnan Zhang, Tsang-Wei Edward Lee, Wenhao Yu, Connor Schenck, David Rendleman, Dhruv Shah, Fei Xia, Jasmine Hsu, Jonathan Hoech, Pete Florence, Sean Kirmani, Sumeet Singh, Vikas Sindhwani, Carolina Parada, Chelsea Finn, Peng Xu, Sergey Levine, Jie Tan
 
@@ -2428,79 +2506,4 @@ outperforms existing baselines at various scales across multiple benchmark
 domains.
 
 摘要：大型語言模型 (LLM) 已展現出令人印象深刻的任務解決能力，這是透過提示技術或系統設計來達成。然而，對於 LLM 在規劃任務中的能力，已產生疑慮，因為它們經常難以產生有效的計畫。本文探討微調對 LLM 規劃能力的影響。我們的研究結果顯示，LLM 可以透過大量的微調（數千個具體範例）在規劃中獲得良好的表現。然而，微調與顯著的經濟和運算成本相關。為了應對此挑戰，我們提出最大多樣性微調 (MDFT) 策略，以提升規劃領域微調的樣本效率。具體來說，我們稱為 MDFT-g 的演算法，以圖形表示對規劃任務實例進行編碼，並在向量空間中選擇一個樣本子集，以最大化資料多樣性。我們實證證明，MDFT-g 在多個基準領域的不同規模中，始終優於現有的基準。
-
-##### **Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**
-2406.09994v1 by Manas Jhalani, Annervaz K M, Pushpak Bhattacharyya
-
-In the realm of multimodal tasks, Visual Question Answering (VQA) plays a
-crucial role by addressing natural language questions grounded in visual
-content. Knowledge-Based Visual Question Answering (KBVQA) advances this
-concept by adding external knowledge along with images to respond to questions.
-We introduce an approach for KBVQA, augmenting the existing vision-language
-transformer encoder-decoder (OFA) model. Our main contribution involves
-enhancing questions by incorporating relevant external knowledge extracted from
-knowledge graphs, using a dynamic triple extraction method. We supply a
-flexible number of triples from the knowledge graph as context, tailored to
-meet the requirements for answering the question. Our model, enriched with
-knowledge, demonstrates an average improvement of 4.75\% in Exact Match Score
-over the state-of-the-art on three different KBVQA datasets. Through
-experiments and analysis, we demonstrate that furnishing variable triples for
-each question improves the reasoning capabilities of the language model in
-contrast to supplying a fixed number of triples. This is illustrated even for
-recent large language models. Additionally, we highlight the model's
-generalization capability by showcasing its SOTA-beating performance on a small
-dataset, achieved through straightforward fine-tuning.
-
-摘要：在多模态任务领域，视觉问答（VQA）通过解决基于视觉内容的自然语言问题，扮演着至关重要的角色。基于知识的视觉问答（KBVQA）通过添加外部知识以及图像来回答问题，从而推进了这一概念。我们引入了一种用于 KBVQA 的方法，增强了现有的视觉语言 transformer 编码器解码器 (OFA) 模型。我们的主要贡献涉及通过使用动态三元组提取方法，整合从知识图谱中提取的相关外部知识来增强问题。我们提供来自知识图谱的灵活数量的三元组作为上下文，以满足回答问题的要求。我们经过知识丰富的模型在三个不同的 KBVQA 数据集上，在精确匹配分数方面展示了比最先进水平平均提高 4.75%。通过实验和分析，我们证明为每个问题提供可变三元组提高了语言模型的推理能力，这与提供固定数量的三元组形成对比。即使对于最近的大型语言模型，这一点也得到了说明。此外，我们通过展示模型在小型数据集上的 SOTA 击败性能，突出了模型的泛化能力，这是通过直接微调实现的。
-
-##### **DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning**
-2406.09953v2 by Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Lingyue Guo, Ping Luo, Yanfeng Lu
-
-Dual-arm robots offer enhanced versatility and efficiency over single-arm
-counterparts by enabling concurrent manipulation of multiple objects or
-cooperative execution of tasks using both arms. However, effectively
-coordinating the two arms for complex long-horizon tasks remains a significant
-challenge. Existing task planning methods predominantly focus on single-arm
-robots or rely on predefined bimanual operations, failing to fully leverage the
-capabilities of dual-arm systems. To address this limitation, we introduce
-DAG-Plan, a structured task planning framework tailored for dual-arm robots.
-DAG-Plan harnesses large language models (LLMs) to decompose intricate tasks
-into actionable sub-tasks represented as nodes within a directed acyclic graph
-(DAG). Critically, DAG-Plan dynamically assigns these sub-tasks to the
-appropriate arm based on real-time environmental observations, enabling
-parallel and adaptive execution. We evaluate DAG-Plan on the novel Dual-Arm
-Kitchen Benchmark, comprising 9 sequential tasks with 78 sub-tasks and 26
-objects. Extensive experiments demonstrate the superiority of DAG-Plan over
-directly using LLM to generate plans, achieving nearly 50% higher efficiency
-compared to the single-arm task planning baseline and nearly double the success
-rate of the dual-arm task planning baseline.
-
-摘要：雙臂機器人透過同時處理多個物件或使用兩隻手臂協作執行任務，提供比單臂機器人更高的多功能性和效率。然而，要有效協調兩隻手臂執行複雜且時間跨度長的任務，仍然是一項重大的挑戰。現有的任務規劃方法主要專注於單臂機器人，或依賴於預先定義的雙手操作，無法充分利用雙臂系統的能力。為了解決這個限制，我們引入了 DAG-Plan，一個專為雙臂機器人量身打造的結構化任務規劃框架。DAG-Plan 利用大型語言模型 (LLM) 將複雜的任務分解成可操作的子任務，並將其表示為有向無環圖 (DAG) 中的節點。更重要的是，DAG-Plan 會根據即時的環境觀察結果，動態地將這些子任務分配給適當的手臂，從而實現並行和自適應的執行。我們在創新的雙臂廚房基準測試中評估了 DAG-Plan，該基準測試包含 9 個連續任務、78 個子任務和 26 個物件。大量的實驗證明了 DAG-Plan 優於直接使用 LLM 來產生計畫，與單臂任務規劃基準線相比，效率提高了近 50%，與雙臂任務規劃基準線相比，成功率幾乎提高了一倍。
-
-##### **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs**
-2406.10310v1 by Zhuofeng Li, Zixing Gou, Xiangnan Zhang, Zhongyuan Liu, Sirui Li, Yuntong Hu, Chen Ling, Zheng Zhang, Liang Zhao
-
-Text-Attributed Graphs (TAGs) augment graph structures with natural language
-descriptions, facilitating detailed depictions of data and their
-interconnections across various real-world settings. However, existing TAG
-datasets predominantly feature textual information only at the nodes, with
-edges typically represented by mere binary or categorical attributes. This lack
-of rich textual edge annotations significantly limits the exploration of
-contextual relationships between entities, hindering deeper insights into
-graph-structured data. To address this gap, we introduce Textual-Edge Graphs
-Datasets and Benchmark (TEG-DB), a comprehensive and diverse collection of
-benchmark textual-edge datasets featuring rich textual descriptions on nodes
-and edges. The TEG-DB datasets are large-scale and encompass a wide range of
-domains, from citation networks to social networks. In addition, we conduct
-extensive benchmark experiments on TEG-DB to assess the extent to which current
-techniques, including pre-trained language models, graph neural networks, and
-their combinations, can utilize textual node and edge information. Our goal is
-to elicit advancements in textual-edge graph research, specifically in
-developing methodologies that exploit rich textual node and edge descriptions
-to enhance graph analysis and provide deeper insights into complex real-world
-networks. The entire TEG-DB project is publicly accessible as an open-source
-repository on Github, accessible at
-https://github.com/Zhuofeng-Li/TEG-Benchmark.
-
-摘要：文字標註圖（TAG）以自然語言描述擴充圖形結構，協助詳細描繪資料及其在各種真實世界設定中的相互連結。然而，現有的 TAG 資料集主要僅在節點中呈現文字資訊，邊緣通常僅以二進位或分類屬性表示。這種缺乏豐富的文字邊緣註解，會大幅限制探索實體間的脈絡關係，阻礙深入了解圖形結構資料。為了解決此差距，我們引進文字邊緣圖形資料集與基準（TEG-DB），這是一個全面且多樣化的基準文字邊緣資料集集合，在節點和邊緣上具有豐富的文字描述。TEG-DB 資料集規模龐大，涵蓋從引文網路到社交網路的廣泛領域。此外，我們在 TEG-DB 上進行廣泛的基準實驗，以評估目前技術（包括預先訓練的語言模型、圖形神經網路及其組合）在何種程度上能利用文字節點和邊緣資訊。我們的目標是引發文字邊緣圖形研究的進展，特別是在開發利用豐富文字節點和邊緣描述來增強圖形分析並提供對複雜真實世界網路更深入見解的方法論。整個 TEG-DB 專案以開源儲存庫的形式公開於 Github，可於 https://github.com/Zhuofeng-Li/TEG-Benchmark 取得。
 

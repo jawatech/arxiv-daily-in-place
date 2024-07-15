@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|null|
+|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
+|**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
+|**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
 |**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
@@ -98,12 +102,113 @@
 |**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|[link](https://github.com/ykzhang721/COG)|
 |**2024-06-16**|**KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**|Aihua Pei et.al.|[2406.10802v1](http://arxiv.org/abs/2406.10802v1)|[link](https://github.com/aika-wsd/KGPA)|
-|**2024-06-15**|**A Comprehensive Survey of Foundation Models in Medicine**|Wasif Khan et.al.|[2406.10729v1](http://arxiv.org/abs/2406.10729v1)|null|
-|**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710v1](http://arxiv.org/abs/2406.10710v1)|null|
-|**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492v1](http://arxiv.org/abs/2406.10492v1)|null|
-|**2024-06-15**|**Unlocking Large Language Model's Planning Capabilities with Maximum Diversity Fine-tuning**|Wenjun Li et.al.|[2406.10479v1](http://arxiv.org/abs/2406.10479v1)|null|
 
 #### Abstracts
+##### **Human-like Episodic Memory for Infinite Context LLMs**
+2407.09450v1 by Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang
+
+Large language models (LLMs) have shown remarkable capabilities, but still
+struggle with processing extensive contexts, limiting their ability to maintain
+coherence and accuracy over long sequences. In contrast, the human brain excels
+at organising and retrieving episodic experiences across vast temporal scales,
+spanning a lifetime. In this work, we introduce EM-LLM, a novel approach that
+integrates key aspects of human episodic memory and event cognition into LLMs,
+enabling them to effectively handle practically infinite context lengths while
+maintaining computational efficiency. EM-LLM organises sequences of tokens into
+coherent episodic events using a combination of Bayesian surprise and
+graph-theoretic boundary refinement in an on-line fashion. When needed, these
+events are retrieved through a two-stage memory process, combining
+similarity-based and temporally contiguous retrieval for efficient and
+human-like access to relevant information. Experiments on the LongBench dataset
+demonstrate EM-LLM's superior performance, outperforming the state-of-the-art
+InfLLM model with an overall relative improvement of 4.3% across various tasks,
+including a 33% improvement on the PassageRetrieval task. Furthermore, our
+analysis reveals strong correlations between EM-LLM's event segmentation and
+human-perceived events, suggesting a bridge between this artificial system and
+its biological counterpart. This work not only advances LLM capabilities in
+processing extended contexts but also provides a computational framework for
+exploring human memory mechanisms, opening new avenues for interdisciplinary
+research in AI and cognitive science.
+
+摘要：大型語言模型 (LLM) 已展現出非凡的能力，但仍難以處理廣泛的脈絡，這限制了它們在長序列中維持連貫性和準確性的能力。相較之下，人腦擅長在廣大的時間尺度上組織和提取情節體驗，跨越一生。在這項工作中，我們引入了 EM-LLM，這是一種新穎的方法，它將人類情節記憶和事件認知的關鍵面向整合到 LLM 中，讓它們能夠有效地處理實際上無限的脈絡長度，同時維持運算效率。EM-LLM 使用貝氏驚喜和圖論邊界精煉的組合，以線上方式將序列標記組織成連貫的情節事件。在需要時，這些事件會透過兩階段的記憶過程來提取，結合基於相似性和時間連續性的提取，以有效且類似人類的方式存取相關資訊。在 LongBench 資料集上的實驗證明了 EM-LLM 的卓越效能，在各種任務中優於最先進的 InfLLM 模型，在 PassageRetrieval 任務中改進了 33%。此外，我們的分析揭示了 EM-LLM 的事件分割與人類感知事件之間的強相關性，顯示了這個人工系統與其生物對應物之間的橋樑。這項工作不僅提升了 LLM 在處理延伸脈絡方面的能力，也提供了一個運算架構來探索人類記憶機制，為 AI 和認知科學的跨領域研究開啟了新的途徑。
+
+##### **The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**
+2407.09441v1 by Matteo Belenchia, Flavio Corradini, Michela Quadrini, Michele Loreti
+
+Graph neural networks form a class of deep learning architectures
+specifically designed to work with graph-structured data. As such, they share
+the inherent limitations and problems of deep learning, especially regarding
+the issues of explainability and trustworthiness. We propose $\mu\mathcal{G}$,
+an original domain-specific language for the specification of graph neural
+networks that aims to overcome these issues. The language's syntax is
+introduced, and its meaning is rigorously defined by a denotational semantics.
+An equivalent characterization in the form of an operational semantics is also
+provided and, together with a type system, is used to prove the type soundness
+of $\mu\mathcal{G}$. We show how $\mu\mathcal{G}$ programs can be represented
+in a more user-friendly graphical visualization, and provide examples of its
+generality by showing how it can be used to define some of the most popular
+graph neural network models, or to develop any custom graph processing
+application.
+
+摘要：圖形神經網路形成一類深度學習架構，特別設計用於處理圖形結構化的資料。因此，它們具有深度學習固有的限制和問題，特別是在可解釋性和可信賴性問題上。我們提出 $\mu\mathcal{G}$，一種用於指定圖形神經網路的原創領域特定語言，旨在克服這些問題。引入了語言的語法，並透過指示語義嚴格定義其含義。還提供了運算語義形式的等效特徵描述，並與類型系統一起用於證明 $\mu\mathcal{G}$ 的類型健全性。我們展示了如何將 $\mu\mathcal{G}$ 程式表示為更友善的圖形視覺化，並透過展示如何使用它定義一些最流行的圖形神經網路模型或開發任何自訂圖形處理應用程式，來提供其通用性的範例。
+
+##### **Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**
+2407.08983v1 by David N. Palacio, Daniel Rodriguez-Cardenas, Alejandro Velasco, Dipin Khati, Kevin Moran, Denys Poshyvanyk
+
+Trustworthiness and interpretability are inextricably linked concepts for
+LLMs. The more interpretable an LLM is, the more trustworthy it becomes.
+However, current techniques for interpreting LLMs when applied to code-related
+tasks largely focus on accuracy measurements, measures of how models react to
+change, or individual task performance instead of the fine-grained explanations
+needed at prediction time for greater interpretability, and hence trust. To
+improve upon this status quo, this paper introduces ASTrust, an
+interpretability method for LLMs of code that generates explanations grounded
+in the relationship between model confidence and syntactic structures of
+programming languages. ASTrust explains generated code in the context of syntax
+categories based on Abstract Syntax Trees and aids practitioners in
+understanding model predictions at both local (individual code snippets) and
+global (larger datasets of code) levels. By distributing and assigning model
+confidence scores to well-known syntactic structures that exist within ASTs,
+our approach moves beyond prior techniques that perform token-level confidence
+mapping by offering a view of model confidence that directly aligns with
+programming language concepts with which developers are familiar. To put
+ASTrust into practice, we developed an automated visualization that illustrates
+the aggregated model confidence scores superimposed on sequence, heat-map, and
+graph-based visuals of syntactic structures from ASTs. We examine both the
+practical benefit that ASTrust can provide through a data science study on 12
+popular LLMs on a curated set of GitHub repos and the usefulness of ASTrust
+through a human study.
+
+摘要：可信度和可解釋性是 LLM 中密不可分的概念。LLM 的可解釋性越高，它的可信度就越高。然而，當應用於與程式碼相關的任務時，目前解釋 LLM 的技術主要集中在準確性測量、模型對變化的反應測量或個別任務表現，而不是在預測時間所需的細粒度解釋，從而提高可解釋性和因此提高信任度。為了改善這種現狀，本文介紹了 ASTrust，這是一種用於程式碼 LLM 的可解釋性方法，它會根據模型信心與程式語言的語法結構之間的關係產生解釋。ASTrust 在基於抽象語法樹的語法類別的上下文中解釋產生的程式碼，並幫助實務人員在局部（個別程式碼片段）和全域（較大的程式碼資料集）層級了解模型預測。透過將模型信心分數分配和指定給 AST 中存在的眾所周知的語法結構，我們的做法超越了先前的技術，這些技術透過提供與開發人員熟悉的程式語言概念直接對齊的模型信心視圖來執行令牌級別的信心對應。為了實踐 ASTrust，我們開發了一個自動化視覺化工具，它說明了疊加在 AST 語法結構的序列、熱圖和基於圖形的視覺效果上的聚合模型信心分數。我們檢查了 ASTrust 可以透過對 12 個流行的 LLM 在一組精選的 GitHub 儲存庫上進行資料科學研究提供的實際好處，以及透過人體研究提供的 ASTrust 的有用性。
+
+##### **Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**
+2407.08959v1 by Ke Ji, Peng Wang, Wenjun Ke, Guozheng Li, Jiajun Liu, Jingsheng Gao, Ziyu Shang
+
+Recently, various pre-trained language models (PLMs) have been proposed to
+prove their impressive performances on a wide range of few-shot tasks. However,
+limited by the unstructured prior knowledge in PLMs, it is difficult to
+maintain consistent performance on complex structured scenarios, such as
+hierarchical text classification (HTC), especially when the downstream data is
+extremely scarce. The main challenge is how to transfer the unstructured
+semantic space in PLMs to the downstream domain hierarchy. Unlike previous work
+on HTC which directly performs multi-label classification or uses graph neural
+network (GNN) to inject label hierarchy, in this work, we study the HTC problem
+under a few-shot setting to adapt knowledge in PLMs from an unstructured manner
+to the downstream hierarchy. Technically, we design a simple yet effective
+method named Hierarchical Iterative Conditional Random Field (HierICRF) to
+search the most domain-challenging directions and exquisitely crafts
+domain-hierarchy adaptation as a hierarchical iterative language modeling
+problem, and then it encourages the model to make hierarchical consistency
+self-correction during the inference, thereby achieving knowledge transfer with
+hierarchical consistency preservation. We perform HierICRF on various
+architectures, and extensive experiments on two popular HTC datasets
+demonstrate that prompt with HierICRF significantly boosts the few-shot HTC
+performance with an average Micro-F1 by 28.80% to 1.50% and Macro-F1 by 36.29%
+to 1.5% over the previous state-of-the-art (SOTA) baselines under few-shot
+settings, while remaining SOTA hierarchical consistency performance.
+
+摘要：<paragraph>最近，已经提出了多种预训练语言模型 (PLM)，以证明它们在广泛的少量样本任务上具有令人印象深刻的性能。然而，由于 PLM 中非结构化的先验知识受到限制，因此难以在复杂结构化场景（例如层次文本分类 (HTC)）中保持一致的性能，尤其是在下游数据极其稀少的情况下。主要的挑战是如何将 PLM 中非结构化的语义空间转移到下游域层次结构。与以前直接执行多标签分类或使用图神经网络 (GNN) 注入标签层次结构的 HTC 工作不同，在这项工作中，我们在少量样本设置下研究 HTC 问题，以将 PLM 中的知识从非结构化方式适应到下游层次结构。从技术上讲，我们设计了一种简单而有效的方法，称为层次迭代条件随机场 (HierICRF)，以搜索最具领域挑战性的方向，并精细地将领域层次结构适应作为分层迭代语言建模问题，然后它鼓励模型在推理期间进行层次一致性自我校正，从而实现具有层次一致性保留的知识转移。我们在各种架构上执行 HierICRF，在两个流行的 HTC 数据集上的大量实验表明，使用 HierICRF 的提示显着提高了少量样本 HTC 性能，平均 Micro-F1 从 28.80% 提高到 1.50%，Macro-F1 从 36.29% 提高到 1.5% 在少量样本设置下超过了以前最先进 (SOTA) 基准，同时保持 SOTA 层次一致性性能。</paragraph>
+
 ##### **Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**
 2407.08694v1 by Zhiqiang Xie, Yujia Zheng, Lizi Ottens, Kun Zhang, Christos Kozyrakis, Jonathan Mace
 
@@ -2404,105 +2509,4 @@ GPT-3.5-turbo, and the robustness of large language models is influenced by the
 professional domains in which they operate.
 
 摘要：現有的用於評估大型語言模型 (LLM) 穩健性的框架過於依賴特定基準，這會增加成本，而且由於資料集的限制，無法評估 LLM 在專業領域的效能。本文提出了一個框架，利用知識圖譜 (KG) 系統性地評估 LLM 在對抗攻擊場景下的穩健性。我們的框架從知識圖譜的三元組中產生原始提示，並透過投毒建立對抗提示，透過這些對抗攻擊的結果來評估 LLM 的穩健性。我們系統性地評估了此框架及其模組的有效性。實驗顯示，ChatGPT 家族的對抗穩健性排名為 GPT-4-turbo > GPT-4o > GPT-3.5-turbo，而且大型語言模型的穩健性會受到其運作的專業領域影響。
-
-##### **A Comprehensive Survey of Foundation Models in Medicine**
-2406.10729v1 by Wasif Khan, Seowung Leem, Kyle B. See, Joshua K. Wong, Shaoting Zhang, Ruogu Fang
-
-Foundation models (FMs) are large-scale deep-learning models trained on
-extensive datasets using self-supervised techniques. These models serve as a
-base for various downstream tasks, including healthcare. FMs have been adopted
-with great success across various domains within healthcare, including natural
-language processing (NLP), computer vision, graph learning, biology, and omics.
-Existing healthcare-based surveys have not yet included all of these domains.
-Therefore, this survey provides a comprehensive overview of FMs in healthcare.
-We focus on the history, learning strategies, flagship models, applications,
-and challenges of FMs. We explore how FMs such as the BERT and GPT families are
-reshaping various healthcare domains, including clinical large language models,
-medical image analysis, and omics data. Furthermore, we provide a detailed
-taxonomy of healthcare applications facilitated by FMs, such as clinical NLP,
-medical computer vision, graph learning, and other biology-related tasks.
-Despite the promising opportunities FMs provide, they also have several
-associated challenges, which are explained in detail. We also outline potential
-future directions to provide researchers and practitioners with insights into
-the potential and limitations of FMs in healthcare to advance their deployment
-and mitigate associated risks.
-
-摘要：基礎模型 (FM) 是使用自我監督技術在廣泛數據集上訓練的大規模深度學習模型。這些模型作為各種下游任務的基礎，包括醫療保健。FM 已在醫療保健的各種領域中被廣泛採用，包括自然語言處理 (NLP)、電腦視覺、圖形學習、生物學和組學。現有的基於醫療保健的調查尚未涵蓋所有這些領域。因此，本調查提供了 FM 在醫療保健中的全面概述。我們專注於 FM 的歷史、學習策略、旗艦模型、應用和挑戰。我們探討了 BERT 和 GPT 家族等 FM 如何重塑各種醫療保健領域，包括臨床大型語言模型、醫學影像分析和組學數據。此外，我們提供了由 FM 促進的醫療保健應用詳細分類法，例如臨床 NLP、醫學電腦視覺、圖形學習和其他與生物相關的任務。儘管 FM 提供了有希望的機會，但它們也面臨著一些相關的挑戰，這些挑戰在文中都有詳細說明。我們還概述了潛在的未來方向，為研究人員和從業者提供有關 FM 在醫療保健中的潛力和局限性的見解，以推進其部署並減輕相關風險。
-
-##### **SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**
-2406.10710v1 by Ziije Zhong, Linqing Zhong, Zhaoze Sun, Qingyun Jin, Zengchang Qin, Xiaofan Zhang
-
-Integrating Large Language Models (LLMs) with existing Knowledge Graph (KG)
-databases presents a promising avenue for enhancing LLMs' efficacy and
-mitigating their "hallucinations". Given that most KGs reside in graph
-databases accessible solely through specialized query languages (e.g., Cypher),
-there exists a critical need to bridge the divide between LLMs and KG databases
-by automating the translation of natural language into Cypher queries (commonly
-termed the "Text2Cypher" task). Prior efforts tried to bolster LLMs'
-proficiency in Cypher generation through Supervised Fine-Tuning. However, these
-explorations are hindered by the lack of annotated datasets of Query-Cypher
-pairs, resulting from the labor-intensive and domain-specific nature of
-annotating such datasets. In this study, we propose SyntheT2C, a methodology
-for constructing a synthetic Query-Cypher pair dataset, comprising two distinct
-pipelines: (1) LLM-based prompting and (2) template-filling. SyntheT2C
-facilitates the generation of extensive Query-Cypher pairs with values sampled
-from an underlying Neo4j graph database. Subsequently, SyntheT2C is applied to
-two medical databases, culminating in the creation of a synthetic dataset,
-MedT2C. Comprehensive experiments demonstrate that the MedT2C dataset
-effectively enhances the performance of backbone LLMs on the Text2Cypher task.
-Both the SyntheT2C codebase and the MedT2C dataset will be released soon.
-
-摘要：<paragraph>將大型語言模型 (LLM) 與現有的知識圖譜 (KG) 資料庫整合，提供了一個提升 LLM 效能並減輕其「幻覺」的途徑。由於大多數 KG 都存在於僅能透過專用查詢語言（例如 Cypher）存取的圖形資料庫中，因此迫切需要自動化將自然語言轉換為 Cypher 查詢，以彌合 LLM 與 KG 資料庫之間的鴻溝（通常稱為「Text2Cypher」任務）。先前的努力嘗試透過監督微調來提升 LLM 在 Cypher 生成方面的能力。然而，這些探索受到缺乏查詢-Cypher 配對的註解資料集的阻礙，這是因為此類資料集的註解需要大量人力且具有特定領域的性質。在本研究中，我們提出了 SyntheT2C，這是一種用於建構合成查詢-Cypher 配對資料集的方法，包含兩個不同的管道：(1) 基於 LLM 的提示和 (2) 範本填寫。SyntheT2C 促進了大量查詢-Cypher 配對的產生，其值取樣自基礎的 Neo4j 圖形資料庫。隨後，將 SyntheT2C 應用於兩個醫療資料庫，最終建立了一個合成資料集 MedT2C。全面的實驗證明，MedT2C 資料集有效提升了主幹 LLM 在 Text2Cypher 任務上的效能。SyntheT2C 程式碼庫和 MedT2C 資料集都將很快釋出。</paragraph>
-
-##### **Large Language Models as Event Forecasters**
-2406.10492v1 by Libo Zhang, Yue Ning
-
-Key elements of human events are extracted as quadruples that consist of
-subject, relation, object, and timestamp. This representation can be extended
-to a quintuple by adding a fifth element: a textual summary that briefly
-describes the event. These quadruples or quintuples, when organized within a
-specific domain, form a temporal knowledge graph (TKG). Current learning
-frameworks focus on a few TKG-related tasks, such as predicting an object given
-a subject and a relation or forecasting the occurrences of multiple types of
-events (i.e., relation) in the next time window. They typically rely on complex
-structural and sequential models like graph neural networks (GNNs) and
-recurrent neural networks (RNNs) to update intermediate embeddings. However,
-these methods often neglect the contextual information inherent in each
-quintuple, which can be effectively captured through concise textual
-descriptions. In this paper, we investigate how large language models (LLMs)
-can streamline the design of TKG learning frameworks while maintaining
-competitive accuracy in prediction and forecasting tasks. We develop multiple
-prompt templates to frame the object prediction (OP) task as a standard
-question-answering (QA) task, suitable for instruction fine-tuning with an
-encoder-decoder generative LLM. For multi-event forecasting (MEF), we design
-simple yet effective prompt templates for each TKG quintuple. This novel
-approach removes the need for GNNs and RNNs, instead utilizing an encoder-only
-LLM to generate fixed intermediate embeddings, which are subsequently processed
-by a prediction head with a self-attention mechanism to forecast potential
-future relations. Extensive experiments on multiple real-world datasets using
-various evaluation metrics validate the effectiveness and robustness of our
-approach.
-
-摘要：<paragraph>人類事件的主要元素被萃取為由主詞、關係、受詞和時間戳組成的四元組。此表示法可透過新增第五個元素來延伸為五元組：簡要描述事件的文字摘要。這些四元組或五元組在特定領域中組織時，會形成時序知識圖譜 (TKG)。目前的學習架構專注於一些與 TKG 相關的任務，例如在給定主詞和關係的情況下預測受詞，或預測下一個時間視窗中多種類型事件（即關係）的發生。它們通常依賴於複雜的結構和序列模型，例如圖形神經網路 (GNN) 和遞迴神經網路 (RNN)，來更新中間嵌入。然而，這些方法經常忽略每個五元組中固有的脈絡資訊，而這些資訊可透過簡潔的文字描述有效擷取。在本文中，我們探討大型語言模型 (LLM) 如何簡化 TKG 學習架構的設計，同時在預測和預測任務中維持具競爭力的準確度。我們開發多個提示範本，將物件預測 (OP) 任務設定為標準問答 (QA) 任務，適用於使用編碼器-解碼器生成式 LLM 進行指令微調。對於多事件預測 (MEF)，我們為每個 TKG 五元組設計簡單但有效的提示範本。這種新穎的方法消除了對 GNN 和 RNN 的需求，而是利用僅編碼器 LLM 來產生固定的中間嵌入，然後由具有自注意力機制的預測頭處理這些嵌入，以預測潛在的未來關係。使用各種評估指標對多個真實世界資料集進行的廣泛實驗驗證了我們方法的有效性和穩健性。</paragraph>
-
-##### **Unlocking Large Language Model's Planning Capabilities with Maximum Diversity Fine-tuning**
-2406.10479v1 by Wenjun Li, Changyu Chen, Pradeep Varakantham
-
-Large language models (LLMs) have demonstrated impressive task-solving
-capabilities, achieved through either prompting techniques or system designs.
-However, concerns have arisen regarding their proficiency in planning tasks, as
-they often struggle to generate valid plans. This paper investigates the impact
-of fine-tuning on LLMs' planning capabilities. Our findings indicate that LLMs
-can achieve good performance in planning through substantial (thousands of
-specific examples) fine-tuning. However, fine-tuning is associated with
-significant economic and computational costs. To address this challenge, we
-propose the Maximum Diversity Fine-Tuning (MDFT) strategy to improve the sample
-efficiency of fine-tuning in the planning domain. Specifically, our algorithm,
-referred to as MDFT-g, encodes the planning task instances with their graph
-representations and selects a subset of samples in the vector space that
-maximizes data diversity. We empirically demonstrate that MDFT-g consistently
-outperforms existing baselines at various scales across multiple benchmark
-domains.
-
-摘要：大型語言模型 (LLM) 已展現出令人印象深刻的任務解決能力，這是透過提示技術或系統設計來達成。然而，對於 LLM 在規劃任務中的能力，已產生疑慮，因為它們經常難以產生有效的計畫。本文探討微調對 LLM 規劃能力的影響。我們的研究結果顯示，LLM 可以透過大量的微調（數千個具體範例）在規劃中獲得良好的表現。然而，微調與顯著的經濟和運算成本相關。為了應對此挑戰，我們提出最大多樣性微調 (MDFT) 策略，以提升規劃領域微調的樣本效率。具體來說，我們稱為 MDFT-g 的演算法，以圖形表示對規劃任務實例進行編碼，並在向量空間中選擇一個樣本子集，以最大化資料多樣性。我們實證證明，MDFT-g 在多個基準領域的不同規模中，始終優於現有的基準。
 

@@ -5,7 +5,7 @@
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
 |**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
-|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v1](http://arxiv.org/abs/2407.07775v1)|null|
+|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
 |**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
@@ -183,7 +183,7 @@ adversarial machine learning in the future of smart grid security.
 摘要：在這項研究中，我們對智慧電網安全性進行全面檢視，探討系統架構、攻擊方法、防禦策略和未來的研究機會。我們深入分析各種攻擊媒介，專注於智慧電網中先進組件所引入的新攻擊面。本檢視特別包含對協調攻擊的廣泛分析，其中包含多種攻擊策略並利用各種智慧電網組件中的漏洞來增加其負面影響，展示這些威脅的複雜性和潛在嚴重性。在此之後，我們探討創新的偵測和緩解策略，包括博弈論、圖論、區塊鏈和機器學習，討論它們在對抗不斷演變的威脅和相關研究挑戰方面的進展。特別是，我們的檢視涵蓋對廣泛使用的基於機器學習的緩解策略的徹底檢驗，分析它們在監督式、非監督式、半監督式、整體式和強化學習中的應用和研究挑戰。此外，我們概述未來的研究方向並探討新技術和問題。我們首先討論現有和新興策略的研究機會，然後探討新技術的潛在作用，例如大型語言模型 (LLM)，以及對抗式機器學習在智慧電網安全未來的威脅。
 
 ##### **Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**
-2407.07775v1 by Hao-Tien Lewis Chiang, Zhuo Xu, Zipeng Fu, Mithun George Jacob, Tingnan Zhang, Tsang-Wei Edward Lee, Wenhao Yu, Connor Schenck, David Rendleman, Dhruv Shah, Fei Xia, Jasmine Hsu, Jonathan Hoech, Pete Florence, Sean Kirmani, Sumeet Singh, Vikas Sindhwani, Carolina Parada, Chelsea Finn, Peng Xu, Sergey Levine, Jie Tan
+2407.07775v2 by Hao-Tien Lewis Chiang, Zhuo Xu, Zipeng Fu, Mithun George Jacob, Tingnan Zhang, Tsang-Wei Edward Lee, Wenhao Yu, Connor Schenck, David Rendleman, Dhruv Shah, Fei Xia, Jasmine Hsu, Jonathan Hoech, Pete Florence, Sean Kirmani, Sumeet Singh, Vikas Sindhwani, Carolina Parada, Chelsea Finn, Peng Xu, Sergey Levine, Jie Tan
 
 An elusive goal in navigation research is to build an intelligent agent that
 can understand multimodal instructions including natural language and image,
@@ -205,11 +205,10 @@ goal frame and an offline constructed topological graph to generate robot
 actions at every timestep. We evaluated Mobility VLA in a 836m^2 real world
 environment and show that Mobility VLA has a high end-to-end success rates on
 previously unsolved multimodal instructions such as "Where should I return
-this?" while holding a plastic bin.
+this?" while holding a plastic bin. A video demonstrating Mobility VLA can be
+found here: https://youtu.be/-Tof__Q8_5s
 
-摘要：<paragraph>導航研究中一個難以捉摸的目標是建立一個智慧代理，它
-可以理解包含自然語言和影像的多模態指令，並執行有用的導航。為了達成這個目標，我們研究了一個廣泛有用的導航任務類別，我們稱之為示範導覽的多模態指令導航 (MINT)，其中環境先驗是透過先前錄製的示範影片提供的。視覺語言模型 (VLM) 的最新進展在實現這個目標方面展現了一條有希望的道路，因為它展示了感知和推理多模態輸入的能力。
-然而，VLM 通常被訓練來預測文字輸出，而如何最佳地將它們用於導航是一個開放的研究問題。為了解決 MINT，我們提出了 Mobility VLA，這是一種分層的視覺-語言-動作 (VLA) 導航政策，它結合了長語境 VLM 的環境理解和常識推理能力，以及基於拓撲圖的強健低階導航政策。高階政策包含一個長語境 VLM，它將示範導覽影片和多模態使用者指令作為輸入，以在導覽影片中找到目標畫面。接下來，低階政策使用目標畫面和離線建構的拓撲圖在每個時間步產生機器人動作。我們在一個 836 平方公尺的真實世界環境中評估了 Mobility VLA，並顯示 Mobility VLA 在以前無法解決的多模態指令（例如「我應該把這個塑膠箱歸還到哪裡？」並拿著一個塑膠箱）上具有很高的端到端成功率。</paragraph>
+摘要：<paragraph>導航研究中一個難以捉摸的目標，是建立一個智能代理，它可以理解包括自然語言和影像的多模態指令，並執行有用的導航。為了達成此目標，我們研究了一類廣泛有用的導航任務，我們稱之為示範導覽的多模態指令導航 (MINT)，其中環境先驗是透過先前錄製的示範影片提供的。視覺語言模型 (VLM) 的近期進展，展示了一條實現此目標的有前景路徑，因為它展示了感知和推理多模態輸入的能力。然而，VLM 通常訓練用於預測文字輸出，而如何最佳利用它們進行導航，則是一個開放的研究問題。為了解決 MINT，我們提出了 Mobility VLA，這是一種分層的視覺-語言-動作 (VLA) 導航政策，它結合了長語境 VLM 的環境理解和常識推理能力，以及基於拓撲圖的強健低階導航政策。高階政策包含一個長語境 VLM，它採用示範導覽影片和多模態使用者指令作為輸入，以在導覽影片中找到目標幀。接下來，低階政策使用目標幀和離線建構的拓撲圖，在每個時間步產生機器人動作。我們在 836 平方公尺的真實世界環境中評估了 Mobility VLA，並展示了 Mobility VLA 在先前未解決的多模態指令（例如「我應該把這個塑膠箱歸還到哪裡？」）上具有很高的端到端成功率，同時拿著一個塑膠箱。展示 Mobility VLA 的影片可以在這裡找到：https://youtu.be/-Tof__Q8_5s</paragraph>
 
 ##### **Teaching Transformers Causal Reasoning through Axiomatic Training**
 2407.07612v1 by Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma

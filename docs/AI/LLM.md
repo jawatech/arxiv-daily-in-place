@@ -30,7 +30,7 @@
 |**2024-07-11**|**Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility**|Yuchen Xia et.al.|[2407.08550v1](http://arxiv.org/abs/2407.08550v1)|null|
 |**2024-07-11**|**Emergent Visual-Semantic Hierarchies in Image-Text Representations**|Morris Alper et.al.|[2407.08521v1](http://arxiv.org/abs/2407.08521v1)|null|
 |**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
-|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515v1](http://arxiv.org/abs/2407.08515v1)|null|
+|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515v2](http://arxiv.org/abs/2407.08515v2)|null|
 |**2024-07-11**|**Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Mode**|Yuxing Tian et.al.|[2407.08500v1](http://arxiv.org/abs/2407.08500v1)|null|
 |**2024-07-11**|**Investigating LLMs as Voting Assistants via Contextual Augmentation: A Case Study on the European Parliament Elections 2024**|Ilias Chalkidis et.al.|[2407.08495v1](http://arxiv.org/abs/2407.08495v1)|null|
 |**2024-07-11**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488v1](http://arxiv.org/abs/2407.08488v1)|null|
@@ -58,7 +58,7 @@
 |**2024-07-11**|**DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception**|Xiaotong Li et.al.|[2407.08303v1](http://arxiv.org/abs/2407.08303v1)|[link](https://github.com/baaivision/densefusion)|
 |**2024-07-11**|**Impact Measures for Gradual Argumentation Semantics**|Caren Al Anaissy et.al.|[2407.08302v1](http://arxiv.org/abs/2407.08302v1)|null|
 |**2024-07-11**|**Continually Learn to Map Visual Concepts to Large Language Models in Resource-constrained Environments**|Clea Rebillard et.al.|[2407.08279v1](http://arxiv.org/abs/2407.08279v1)|null|
-|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273v1](http://arxiv.org/abs/2407.08273v1)|null|
+|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273v2](http://arxiv.org/abs/2407.08273v2)|null|
 |**2024-07-11**|**SciQu: Accelerating Materials Properties Prediction with Automated Literature Mining for Self-Driving Laboratories**|Anand Babu et.al.|[2407.08270v1](http://arxiv.org/abs/2407.08270v1)|[link](https://github.com/abnano/sciqu)|
 |**2024-07-11**|**LLMs' morphological analyses of complex FST-generated Finnish words**|Anssi Moisio et.al.|[2407.08269v1](http://arxiv.org/abs/2407.08269v1)|[link](https://github.com/aalto-speech/llm-morph-tests)|
 |**2024-07-11**|**Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear**|Seonwhee Jin et.al.|[2407.08257v1](http://arxiv.org/abs/2407.08257v1)|[link](https://github.com/seonwhee-genome/rvernet)|
@@ -89,10 +89,10 @@
 |**2024-07-11**|**How Well Can a Long Sequence Model Model Long Sequences? Comparing Architechtural Inductive Biases on Long-Context Abilities**|Jerry Huang et.al.|[2407.08112v1](http://arxiv.org/abs/2407.08112v1)|null|
 |**2024-07-11**|**Urban Waterlogging Detection: A Challenging Benchmark and Large-Small Model Co-Adapter**|Suqi Song et.al.|[2407.08109v1](http://arxiv.org/abs/2407.08109v1)|[link](https://github.com/zhang-chenxu/lsm-adapter)|
 |**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108v1](http://arxiv.org/abs/2407.08108v1)|null|
-|**2024-07-11**|**Federated Learning and AI Regulation in the European Union: Who is liable? An Interdisciplinary Analysis**|Herbert Woisetschläger et.al.|[2407.08105v1](http://arxiv.org/abs/2407.08105v1)|null|
-|**2024-07-11**|**Automata-based constraints for language model decoding**|Terry Koo et.al.|[2407.08103v1](http://arxiv.org/abs/2407.08103v1)|null|
+|**2024-07-11**|**Federated Learning and AI Regulation in the European Union: Who is Responsible? -- An Interdisciplinary Analysis**|Herbert Woisetschläger et.al.|[2407.08105v2](http://arxiv.org/abs/2407.08105v2)|null|
+|**2024-07-11**|**Automata-based constraints for language model decoding**|Terry Koo et.al.|[2407.08103v2](http://arxiv.org/abs/2407.08103v2)|null|
 |**2024-07-11**|**How does Burrows' Delta work on medieval Chinese poetic texts?**|Boris Orekhov et.al.|[2407.08099v1](http://arxiv.org/abs/2407.08099v1)|null|
-|**2024-07-10**|**Virtual Agents for Alcohol Use Counseling: Exploring LLM-Powered Motivational Interviewing**|Ian Steenstra et.al.|[2407.08095v1](http://arxiv.org/abs/2407.08095v1)|null|
+|**2024-07-10**|**Virtual Agents for Alcohol Use Counseling: Exploring LLM-Powered Motivational Interviewing**|Ian Steenstra et.al.|[2407.08095v1](http://arxiv.org/abs/2407.08095v1)|[link](https://github.com/IanSteenstra/llm-alcohol-counselor)|
 |**2024-07-10**|**MemWarp: Discontinuity-Preserving Cardiac Registration with Memorized Anatomical Filters**|Hang Zhang et.al.|[2407.08093v1](http://arxiv.org/abs/2407.08093v1)|null|
 |**2024-07-10**|**NDST: Neural Driving Style Transfer for Human-Like Vision-Based Autonomous Driving**|Donghyun Kim et.al.|[2407.08073v1](http://arxiv.org/abs/2407.08073v1)|null|
 |**2024-07-10**|**On LLM Wizards: Identifying Large Language Models' Behaviors for Wizard of Oz Experiments**|Jingchao Fang et.al.|[2407.08067v1](http://arxiv.org/abs/2407.08067v1)|null|
@@ -790,7 +790,7 @@ development of AI technologies.
 摘要：這篇文章探討了連接主義與符號人工智慧 (AI) 的匯流，從歷史辯論到當代進展。傳統上被認為是不同的典範，連接主義 AI 專注於神經網路，而符號 AI 則強調符號表徵與邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連接主義架構在將人類語言視為符號形式處理的潛力。該研究論證，由 LLM 賦能的自主代理 (LAA) 體現了這種典範的匯流。透過利用 LLM 進行基於文字的知識建模與表徵，LAA 整合了神經符號 AI 原則，展示增強的推理和決策能力。在神經符號 AI 主題中將 LAA 與知識圖譜進行比較，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及在沒有明確重新訓練的情況下利用情境範例中的獨特優勢。該研究強調了神經向量符號整合、指令編碼和隱式推理中具有前景的途徑，旨在進一步增強 LAA 的能力。透過探討神經符號 AI 的進展並提出未來的研究軌跡，這項研究推動了對 AI 技術的理解和發展。
 
 ##### **15M Multimodal Facial Image-Text Dataset**
-2407.08515v1 by Dawei Dai, YuTang Li, YingGe Liu, Mingming Jia, Zhang YuanHui, Guoyin Wang
+2407.08515v2 by Dawei Dai, YuTang Li, YingGe Liu, Mingming Jia, Zhang YuanHui, Guoyin Wang
 
 Currently, image-text-driven multi-modal deep learning models have
 demonstrated their outstanding potential in many fields. In practice, tasks
@@ -813,7 +813,7 @@ field of face-related tasks through the availability of the proposed
 FaceCaption-15M dataset. All data, codes, and models are publicly available.
 https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M
 
-摘要：<paragraph>目前，图像文本驱动的多模态深度学习模型已在众多领域展示了其卓越的潜力。在实践中，以面部图像为中心的任务具有广泛的应用前景。本文提出了\textbf{FaceCaption-15M}，这是一个大规模、多样化且高质量的面部图像数据集，并附有其自然语言描述（面部图像到文本）。此数据集旨在促进对以面部为中心的任务的研究。FaceCaption-15M 包含超过 1500 万对面部图像及其对应面部特征的自然语言描述，使其成为迄今为止最大的面部图像标题数据集。我们对图像质量、文本自然性、文本复杂性和文本图像相关性进行了全面分析，以证明 FaceCaption-15M 的优越性。为了验证 FaceCaption-15M 的有效性，我们首先训练了一个面部语言图像预训练模型 (FLIP，类似于 CLIP)，以在特征空间中将面部图像与其对应的标题对齐。随后，使用图像和文本编码器并仅微调线性层，我们基于 FLIP 的模型在两项具有挑战性的以面部为中心的任务上取得了最先进的结果。目的是通过提供建议的 FaceCaption-15M 数据集来促进面部相关任务领域的研究。所有数据、代码和模型均公开可用。https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M</paragraph>
+摘要：目前，图像文本驱动的多模态深度学习模型已在许多领域展现出其卓越的潜力。在实践中，围绕面部图像的任务具有广泛的应用前景。本文提出了 FaceCaption-15M，这是一个包含面部图像及其自然语言描述（面部图像到文本）的大规模、多样化且高质量的数据集。此数据集旨在促进对以面部为中心的任务的研究。FaceCaption-15M 包含超过 1500 万对面部图像及其对应面部特征的自然语言描述，使其成为迄今为止最大的面部图像标题数据集。我们对图像质量、文本自然度、文本复杂度和文本图像相关性进行了全面分析，以证明 FaceCaption-15M 的优越性。为了验证 FaceCaption-15M 的有效性，我们首先训练了一个面部语言图像预训练模型（FLIP，类似于 CLIP），以在特征空间中将面部图像与其对应的标题对齐。随后，使用图像和文本编码器，并且只微调线性层，我们基于 FLIP 的模型在两个具有挑战性的以面部为中心的任务上取得了最先进的结果。目的是通过提供所提出的 FaceCaption-15M 数据集来促进面部相关任务领域的研究。所有数据、代码和模型都是公开的。https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M
 
 ##### **Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Mode**
 2407.08500v1 by Yuxing Tian, Yiyan Qi, Aiwen Jiang, Qi Huang, Jian Guo
@@ -1455,7 +1455,7 @@ devices.
 摘要：從非獨立同分布資料串流中持續學習是深度學習的一項公開挑戰，尤其是在資源受限的環境中工作時，例如嵌入式裝置。透過監督式學習持續更新的視覺模型通常容易過度擬合、災難性遺忘和有偏差的表示。另一方面，大型語言模型包含了關於多個概念及其關係的知識，這可以促進更強大、更豐富且更一致的學習過程。這項工作提出了持續視覺對應 (CVM)，一種方法是持續將視覺表示基礎於從固定語言模型中提取的知識空間。具體來說，CVM 持續訓練一個小型且高效的視覺模型，將其表示對應到由固定大型語言模型建立的概念空間中。由於其較小的特性，當由於運算或資料限制而無法直接調整大型視覺預訓練模型時，可以使用 CVM。CVM 在五個基準上克服了最先進的持續學習方法，並為解決持續學習中的概化能力提供了一個有前途的途徑，即使在運算受限的裝置上也是如此。
 
 ##### **RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**
-2407.08273v1 by Zhenhe Wu, Zhongqiu Li, Jie Zhang, Mengxiang Li, Yu Zhao, Ruiyu Fang, Zhongjiang He, Xuelong Li, Zhoujun Li, Shuangyong Song
+2407.08273v2 by Zhenhe Wu, Zhongqiu Li, Jie Zhang, Mengxiang Li, Yu Zhao, Ruiyu Fang, Zhongjiang He, Xuelong Li, Zhoujun Li, Shuangyong Song
 
 Large language models (LLMs) with in-context learning have significantly
 improved the performance of text-to-SQL task. Previous works generally focus on
@@ -1470,7 +1470,7 @@ learning. Experiment results demonstrate that our model achieves better
 performance than several competitive baselines on public datasets BIRD and
 Spider.
 
-摘要：具備情境學習的大型語言模型 (LLM) 已大幅提升文字轉 SQL 任務的效能。先前的研究通常專注於使用獨特的 SQL 產生提示來提升 LLM 的推理能力。然而，它們大多難以處理具有大量表格和欄位的龐大資料庫，且通常忽略預處理資料庫和擷取有價值資訊以進行更有效率的提示工程。基於上述分析，我們提出 RB-SQL，一個新穎的基於檢索的 LLM 架構，用於情境提示工程，它包含三個模組，用於檢索簡潔的表格和欄位作為架構，以及針對情境學習的目標範例。實驗結果顯示，我們的模型在公開資料集 BIRD 和 Spider 上的表現優於數個競爭基線。
+摘要：大型語言模型 (LLM) 具備情境學習能力，大幅提升文字轉 SQL 任務的效能。先前的研究通常專注於使用獨家的 SQL 產生提示，以提升 LLM 的推理能力。然而，這些方法大多難以處理包含大量表格和欄位的龐大資料庫，而且通常忽略預處理資料庫和萃取有價值資訊以進行更有效率的提示工程的重要性。根據上述分析，我們提出 RB-SQL，一種新穎的基於檢索的 LLM 架構，用於情境提示工程，它包含三個模組，用於檢索簡潔的表格和欄位作為架構，以及用於情境學習的目標範例。實驗結果顯示，我們的模型在 BIRD 和 Spider 公共資料集上，表現優於多種有競爭力的基線。
 
 ##### **SciQu: Accelerating Materials Properties Prediction with Automated Literature Mining for Self-Driving Laboratories**
 2407.08270v1 by Anand Babu
@@ -2147,8 +2147,8 @@ at
 本文提出一個重要的觀察，如果能擷取使用者與商品的互動記錄來豐富使用者和商品的嵌入，那麼互動記錄就可以在不降低模型準確性的情況下進行壓縮。因此，這項協作感知資料壓縮 (CADC) 工作採取兩步驟的方式來進行訓練資料集壓縮。在第一步中，我們使用使用者與商品互動矩陣的矩陣分解，為使用者和商品建立一個新穎的嵌入表示。一旦使用者和商品的嵌入通過互動記錄資訊得到豐富，此方法就會對訓練資料集套用均勻隨機抽樣，以大幅減少訓練資料集大小，同時將模型準確度下降降到最低。CADC 的原始程式碼可在
 \href{https://anonymous.4open.science/r/DSS-RM-8C1D/README.md}{https://anonymous.4open.science/r/DSS-RM-8C1D/README.md} 取得。
 
-##### **Federated Learning and AI Regulation in the European Union: Who is liable? An Interdisciplinary Analysis**
-2407.08105v1 by Herbert Woisetschläger, Simon Mertel, Christoph Krönke, Ruben Mayer, Hans-Arno Jacobsen
+##### **Federated Learning and AI Regulation in the European Union: Who is Responsible? -- An Interdisciplinary Analysis**
+2407.08105v2 by Herbert Woisetschläger, Simon Mertel, Christoph Krönke, Ruben Mayer, Hans-Arno Jacobsen
 
 The European Union Artificial Intelligence Act mandates clear stakeholder
 responsibilities in developing and deploying machine learning applications to
@@ -2162,10 +2162,10 @@ shifting responsibilities to the server operator, and points out open technical
 challenges that we must solve to improve FL's practical applicability under the
 EU AI Act.
 
-摘要：歐盟人工智慧法規要求在開發和部署機器學習應用程式時明確利害關係人的責任，以避免巨額罰款，並優先考量私密且安全的資料處理，且資料必須保留在原始位置。聯邦學習 (FL) 能夠在資料孤島之間訓練生成式 AI 模型，僅分享模型參數，同時提升資料安全性。由於 FL 是一種協作式學習範例，因此客戶端和伺服器在 FL 管道中自然會共同承擔法律責任。我們的研究有助於釐清雙方的角色，說明將責任轉移給伺服器操作員的策略，並指出在歐盟 AI 法規下改善 FL 實際適用性的開放式技術挑戰，我們必須解決這些挑戰。
+摘要：歐盟人工智慧法規要求在開發和部署機器學習應用程式時明確利害關係人的責任，以避免巨額罰款，並優先考量私密且安全的資料處理，同時讓資料保留在原始位置。聯邦學習 (FL) 能讓生成式 AI 模型跨資料孤島進行訓練，只分享模型參數，同時提升資料安全性。由於 FL 是一種合作學習模式，客戶端和伺服器在 FL 管道中自然會共同承擔法律責任。我們的研究有助於釐清雙方的角色，說明將責任轉移給伺服器操作員的策略，並指出我們必須解決的開放式技術挑戰，才能改善 FL 在歐盟 AI 法規下的實際適用性。
 
 ##### **Automata-based constraints for language model decoding**
-2407.08103v1 by Terry Koo, Frederick Liu, Luheng He
+2407.08103v2 by Terry Koo, Frederick Liu, Luheng He
 
 LMs are often expected to generate strings in some formal language; for
 example, structured data, API calls, or code snippets. Although LMs can be
@@ -2187,7 +2187,7 @@ per-token decoding logits and lowers into simple calculations that are
 independent of LM size, making it both efficient and easy to apply to almost
 any LM architecture.
 
-摘要：語言模型通常會被期待產生一些形式語言的字串；例如結構化資料、API 呼叫或程式碼片段。雖然語言模型可以調整以改善它們對形式語法的遵循，這並不保證相容性，特別是對於適合大規模部署的小型語言模型。此外，調整需要大量的資源，這使得它對於不常見或特定於任務的格式來說不切實際。為了防止下游的解析錯誤，我們理想上會限制語言模型只產生有效的輸出，但這會因為通常模稜兩可且與形式文法不一致的標記化而變得非常複雜。我們透過應用自動機理論來解決這些問題，為正則語言導出一個有效的閉合形式解，正則語言是形式語言的一大類別，有許多實際應用，包括 API 呼叫或受架構引導的 JSON 和 YAML。我們還會討論用於應對高分支係數問題的務實擴充。最後，我們將我們的技術擴充到確定上下文無關語言，它同樣承認一個有效的閉合形式解。儘管具有靈活性與代表能力，我們的做法只需要存取每個標記的解碼 logit，並降低為與語言模型大小無關的簡單計算，這使得它既有效率又容易應用於幾乎任何語言模型架構。
+摘要：語言模型通常預期會在某些形式語言中產生字串；例如，結構化資料、API 呼叫或程式碼片段。儘管語言模型可以調整以改善其對形式語法的遵循，但這並不能保證相符性，特別是對於適合於大規模部署的小型語言模型。此外，調整需要大量的資源，這使得它對於不常見或特定於任務的格式不切實際。為了防止下游分析錯誤，我們理想上會限制語言模型只產生有效的輸出，但這會因為標記化而變得極為複雜，標記化通常既模稜兩可又不符合形式語法。我們透過應用自動機理論來解決這些問題，為正規語言導出一個有效的閉合形式解，正規語言是形式語言的一種廣泛類別，有許多實際應用，包括 API 呼叫或由架構引導的 JSON 和 YAML。我們也討論了應對高分支因子問題的務實擴充。最後，我們將我們的技術擴充到確定性無上下文語言，它同樣承認有效的閉合形式解。儘管有其靈活性和代表性，但我們的方法只需要存取每個標記的解碼 logit，並降低為與語言模型大小無關的簡單計算，這使得它既有效率又容易應用於幾乎任何語言模型架構。
 
 ##### **How does Burrows' Delta work on medieval Chinese poetic texts?**
 2407.08099v1 by Boris Orekhov

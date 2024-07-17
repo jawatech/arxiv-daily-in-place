@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
+|**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v1](http://arxiv.org/abs/2407.11393v1)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
 |**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v1](http://arxiv.org/abs/2407.10805v1)|null|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
@@ -100,10 +102,65 @@
 |**2024-06-18**|**Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**|Gangwei Jiang et.al.|[2406.12227v2](http://arxiv.org/abs/2406.12227v2)|null|
 |**2024-06-17**|**DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**|Jiasheng Zhang et.al.|[2406.12072v2](http://arxiv.org/abs/2406.12072v2)|[link](https://github.com/zjs123/DTGB)|
 |**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|[link](https://github.com/nyushcs/uniglm)|
-|**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|[link](https://github.com/nyushcs/gaugllm)|
-|**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
 
 #### Abstracts
+##### **A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**
+2407.11638v1 by He Chang, Chenchen Ye, Zhulin Tao, Jie Wu, Zhengmao Yang, Yunshan Ma, Xianglin Huang, Tat-Seng Chua
+
+Recently, Large Language Models (LLMs) have demonstrated great potential in
+various data mining tasks, such as knowledge question answering, mathematical
+reasoning, and commonsense reasoning. However, the reasoning capability of LLMs
+on temporal event forecasting has been under-explored. To systematically
+investigate their abilities in temporal event forecasting, we conduct a
+comprehensive evaluation of LLM-based methods for temporal event forecasting.
+Due to the lack of a high-quality dataset that involves both graph and textual
+data, we first construct a benchmark dataset, named MidEast-TE-mini. Based on
+this dataset, we design a series of baseline methods, characterized by various
+input formats and retrieval augmented generation(RAG) modules. From extensive
+experiments, we find that directly integrating raw texts into the input of LLMs
+does not enhance zero-shot extrapolation performance. In contrast,
+incorporating raw texts in specific complex events and fine-tuning LLMs
+significantly improves performance. Moreover, enhanced with retrieval modules,
+LLM can effectively capture temporal relational patterns hidden in historical
+events. Meanwhile, issues such as popularity bias and the long-tail problem
+still persist in LLMs, particularly in the RAG-based method. These findings not
+only deepen our understanding of LLM-based event forecasting methods but also
+highlight several promising research directions.We consider that this
+comprehensive evaluation, along with the identified research opportunities,
+will significantly contribute to future research on temporal event forecasting
+through LLMs.
+
+摘要：近期，大型语言模型 (LLM) 在各种资料探勘任务中展现出极大的潜力，例如知识问答、数学推理和常识推理。然而，LLM 在时间事件预测方面的推理能力尚未被充分探索。为了系统性地调查其在时间事件预测方面的能力，我们对基于 LLM 的时间事件预测方法进行了全面的评估。由于缺乏同时包含图表和文本资料的高品质数据集，我们首先构建了一个名为 MidEast-TE-mini 的基准数据集。基于此数据集，我们设计了一系列基线方法，其特点是各种输入格式和检索增强生成 (RAG) 模块。从广泛的实验中，我们发现直接将原始文本整合到 LLM 的输入中并不会增强零次学习外推性能。相比之下，在特定复杂事件中纳入原始文本并微调 LLM 会显著提高性能。此外，通过检索模块的增强，LLM 可以有效地捕捉隐藏在历史事件中的时间关系模式。同时，诸如流行度偏差和长尾问题等问题仍然存在于 LLM 中，尤其是在基于 RAG 的方法中。这些发现不仅加深了我们对基于 LLM 的事件预测方法的理解，还突出了几个有前景的研究方向。我们认为，这项全面的评估，连同已确定的研究机会，将极大地促进通过 LLM 进行时间事件预测的未来研究。
+
+##### **CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**
+2407.11393v1 by Kalliopi Basioti, Mohamed A. Abdelsalam, Federico Fancellu, Vladimir Pavlovic, Afsaneh Fazly
+
+Controllable Image Captioning (CIC) aims at generating natural language
+descriptions for an image, conditioned on information provided by end users,
+e.g., regions, entities or events of interest. However, available
+image--language datasets mainly contain captions that describe the entirety of
+an image, making them ineffective for training CIC models that can potentially
+attend to any subset of regions or relationships. To tackle this challenge, we
+propose a novel, fully automatic method to sample additional focused and
+visually grounded captions using a unified structured semantic representation
+built on top of the existing set of captions associated with an image. We
+leverage Abstract Meaning Representation (AMR), a cross-lingual graph-based
+semantic formalism, to encode all possible spatio-semantic relations between
+entities, beyond the typical spatial-relations-only focus of current methods.
+We use this Structured Semantic Augmentation (SSA) framework to augment
+existing image--caption datasets with the grounded controlled captions,
+increasing their spatial and semantic diversity and focal coverage. We then
+develop a new model, CIC-BART-SSA, specifically tailored for the CIC task, that
+sources its control signals from SSA-diversified datasets. We empirically show
+that, compared to SOTA CIC models, CIC-BART-SSA generates captions that are
+superior in diversity and text quality, are competitive in controllability,
+and, importantly, minimize the gap between broad and highly focused controlled
+captioning performance by efficiently generalizing to the challenging highly
+focused scenarios. Code is available at
+https://github.com/SamsungLabs/CIC-BART-SSA.
+
+摘要：可控图像字幕（CIC）旨在为图像生成自然语言描述，条件是根据最终用户提供的信息，例如感兴趣的区域、实体或事件。然而，可用的图像语言数据集主要包含描述图像整体的字幕，这使得它们无法有效训练 CIC 模型，而 CIC 模型有可能关注任何区域或关系子集。为了应对这一挑战，我们提出了一种新颖的、全自动的方法来使用基于现有与图像关联的字幕集构建的统一结构化语义表示来采样附加的、集中的和视觉接地的字幕。我们利用跨语言图形式语义形式主义——抽象意义表示（AMR）来对实体之间的所有可能的时空语义关系进行编码，而不仅仅是当前方法通常只关注的空间关系。我们使用这种结构化语义增强（SSA）框架来使用接地控制字幕增强现有的图像字幕数据集，从而增加其空间和语义多样性以及焦点覆盖范围。然后，我们开发了一个新模型 CIC-BART-SSA，该模型专门针对 CIC 任务定制，它从 SSA 多元化数据集获取其控制信号。我们通过实验证明，与 SOTA CIC 模型相比，CIC-BART-SSA 生成的字幕在多样性和文本质量方面更胜一筹，在可控性方面具有竞争力，而且重要的是，它最大程度地缩小了广泛和高度集中的受控字幕性能之间的差距，从而有效地推广到极具挑战性的高度集中的场景。代码可在 https://github.com/SamsungLabs/CIC-BART-SSA 获得。
+
 ##### **Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**
 2407.10805v1 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
 
@@ -2454,60 +2511,4 @@ and transfer learning (in and out of domain scenarios). The code is available
 at https://github.com/NYUSHCS/UniGLM.
 
 摘要：在文字属性图 (TAG) 上的表征学习，其中节点由文字描述表示，对于文字和关系知识系统以及推荐系统至关重要。目前，TAG 的最先进嵌入方法主要集中于使用结构感知训练信号微调语言模型（例如，BERT）。虽然有效，但这些方法是针对单个 TAG 量身定制的，并且无法概括到各种图场景。鉴于共享的文本空间，利用多个 TAG 进行联合微调，从不同方面调整文本和图结构，将更有益。受此启发，我们引入了一种新颖的统一图语言模型 (UniGLM) 框架，这是第一个在域内和跨域 TAG 中都能很好地概括的图嵌入模型。具体来说，UniGLM 使用自监督对比学习在具有不同域和规模的多个 TAG 上进行训练。UniGLM 包括一种自适应正样本选择技术，用于识别结构相似的节点，以及一个延迟对比模块，该模块旨在通过最小化重复编码计算来加速训练。跨 9 个基准 TAG 的广泛实证结果证明了 UniGLM 在泛化（各种下游任务和主干）和迁移学习（域内和域外场景）方面相对于领先嵌入基准的功效。代码可在 https://github.com/NYUSHCS/UniGLM 获得。
-
-##### **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**
-2406.11945v1 by Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan
-
-This work studies self-supervised graph learning for text-attributed graphs
-(TAGs) where nodes are represented by textual attributes. Unlike traditional
-graph contrastive methods that perturb the numerical feature space and alter
-the graph's topological structure, we aim to improve view generation through
-language supervision. This is driven by the prevalence of textual attributes in
-real applications, which complement graph structures with rich semantic
-information. However, this presents challenges because of two major reasons.
-First, text attributes often vary in length and quality, making it difficulty
-to perturb raw text descriptions without altering their original semantic
-meanings. Second, although text attributes complement graph structures, they
-are not inherently well-aligned. To bridge the gap, we introduce GAugLLM, a
-novel framework for augmenting TAGs. It leverages advanced large language
-models like Mistral to enhance self-supervised graph learning. Specifically, we
-introduce a mixture-of-prompt-expert technique to generate augmented node
-features. This approach adaptively maps multiple prompt experts, each of which
-modifies raw text attributes using prompt engineering, into numerical feature
-space. Additionally, we devise a collaborative edge modifier to leverage
-structural and textual commonalities, enhancing edge augmentation by examining
-or building connections between nodes. Empirical results across five benchmark
-datasets spanning various domains underscore our framework's ability to enhance
-the performance of leading contrastive methods as a plug-in tool. Notably, we
-observe that the augmented features and graph structure can also enhance the
-performance of standard generative methods, as well as popular graph neural
-networks. The open-sourced implementation of our GAugLLM is available at
-Github.
-
-摘要：<paragraph>本研究探討了文字屬性圖 (TAG) 的自我監督圖學習，其中節點由文字屬性表示。與擾動數值特徵空間和改變圖形拓撲結構的傳統圖形對比方法不同，我們旨在透過語言監督來改善視圖生成。這是因為文字屬性在實際應用中很普遍，它以豐富的語義資訊補充圖形結構。然而，這會帶來挑戰，原因有兩個。首先，文字屬性通常長度和品質不同，這使得在不改變原始語義意義的情況下擾動原始文字描述變得困難。其次，儘管文字屬性補充了圖形結構，但它們並非天生就很好地對齊。為了彌合差距，我們引入了 GAugLLM，這是一個用於擴充 TAG 的新框架。它利用了 Mistral 等先進的大型語言模型來增強自我監督圖形學習。具體來說，我們引入了一種混合提示專家的技術來生成擴充的節點特徵。這種方法自適應地將多個提示專家映射到數值特徵空間，每個提示專家都使用提示工程修改原始文字屬性。此外，我們設計了一個協作邊緣修改器來利用結構和文字的共性，通過檢查或建立節點之間的連接來增強邊緣擴充。跨越各種領域的五個基準資料集的經驗結果強調了我們的框架作為外掛工具增強領先對比方法效能的能力。值得注意的是，我們觀察到擴充的特徵和圖形結構也可以增強標準生成方法以及流行的圖形神經網路的效能。我們的 GAugLLM 的開源實現可以在 Github 上找到。</paragraph>
-
-##### **Input Conditioned Graph Generation for Language Agents**
-2406.11555v1 by Lukas Vierling, Jie Fu, Kai Chen
-
-Recent progress in Large Language Models (LLMs) and language agents has
-demonstrated significant promise for various future applications across
-multiple disciplines. While traditional approaches to language agents often
-rely on fixed, handcrafted designs, our research aims to develop both learnable
-and dynamic agents. Our method uses an existing framework that abstracts
-language agents as graphs. Within this graph framework, we aim to learn a model
-that can generate edges for every given input to the language agent. This
-allows us to generate edges that represent the flow of communication within the
-graph based on the given input, thereby adjusting the internal communication of
-a language agent. We learn to generate these edges using a pretrained LLM that
-is fine-tuned with reinforcement learning. This LLM can be fine-tuned on
-several datasets simultaneously, and we hypothesize that the model learns to
-adapt to these different domains during training, achieving good overall
-performance when encountering data from different domains during deployment. We
-demonstrate that our approach surpasses the previous static approach by nearly
-6% accuracy on a combined dataset of MMLU and CMMLU, and by more than 10% when
-trained with a sparsity-inducing loss. It also performs superior in additional
-experiments conducted with the MMLU and Mini Crossword Puzzles datasets. The
-code is available at https://github.com/lukasVierling/DynamicGPTSwarm.
-
-摘要：大型语言模型 (LLM) 和语言代理最近的进展已展示出对跨多个学科的各种未来应用的重大前景。虽然传统的语言代理方法通常依赖于固定的手工设计，但我们的研究旨在开发可学习和动态的代理。我们的方法使用了一个现有的框架，将语言代理抽象为图。在这个图框架内，我们旨在学习一个模型，该模型可以为语言代理的每个给定输入生成边。这使我们能够生成代表图中基于给定输入的通信流的边，从而调整语言代理的内部通信。我们学习使用经过强化学习微调的预训练 LLM 来生成这些边。该 LLM 可以同时在多个数据集上进行微调，我们假设该模型在训练期间学习适应这些不同的域，在部署期间遇到来自不同域的数据时实现良好的整体性能。我们证明，我们的方法在 MMLU 和 CMMLU 的组合数据集上比先前的静态方法高出近 6% 的准确度，并且在使用稀疏性诱导损失进行训练时高出 10% 以上。它还在使用 MMLU 和迷你填字游戏数据集进行的其他实验中表现出色。代码可在 https://github.com/lukasVierling/DynamicGPTSwarm 获得。
 

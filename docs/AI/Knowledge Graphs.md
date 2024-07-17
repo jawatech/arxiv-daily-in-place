@@ -2,12 +2,19 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v1](http://arxiv.org/abs/2407.10805v1)|null|
+|**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
+|**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
+|**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
+|**2024-07-14**|**AutoGRAMS: Autonomous Graphical Agent Modeling Software**|Ben Krause et.al.|[2407.10049v1](http://arxiv.org/abs/2407.10049v1)|[link](https://github.com/autograms/autograms)|
+|**2024-07-13**|**FarFetched: Entity-centric Reasoning and Claim Validation for the Greek Language based on Textually Represented Environments**|Dimitris Papadopoulos et.al.|[2407.09888v1](http://arxiv.org/abs/2407.09888v1)|null|
+|**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709v1](http://arxiv.org/abs/2407.09709v1)|[link](https://github.com/jiaruifeng/gofa)|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|null|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
 |**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
-|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v2](http://arxiv.org/abs/2407.08516v2)|null|
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
@@ -95,15 +102,160 @@
 |**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|[link](https://github.com/nyushcs/uniglm)|
 |**2024-06-17**|**GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models**|Yi Fang et.al.|[2406.11945v1](http://arxiv.org/abs/2406.11945v1)|[link](https://github.com/nyushcs/gaugllm)|
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|[link](https://github.com/lukasvierling/dynamicgptswarm)|
-|**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
-|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v2](http://arxiv.org/abs/2406.11162v2)|[link](https://github.com/victor812-hub/entity_datasets)|
-|**2024-06-17**|**Context Graph**|Chengjin Xu et.al.|[2406.11160v3](http://arxiv.org/abs/2406.11160v3)|null|
-|**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v2](http://arxiv.org/abs/2406.11131v2)|[link](https://github.com/ysunbp/taxoglimpse)|
-|**2024-06-16**|**DocNet: Semantic Structure in Inductive Bias Detection Models**|Jessica Zhu et.al.|[2406.10965v1](http://arxiv.org/abs/2406.10965v1)|[link](https://github.com/nlpresearchanon/DocNet)|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|[link](https://github.com/ykzhang721/COG)|
-|**2024-06-16**|**KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**|Aihua Pei et.al.|[2406.10802v1](http://arxiv.org/abs/2406.10802v1)|[link](https://github.com/aika-wsd/KGPA)|
 
 #### Abstracts
+##### **Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**
+2407.10805v1 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
+
+Retrieval-augmented generation (RAG) has significantly advanced large
+language models (LLMs) by enabling dynamic information retrieval to mitigate
+knowledge gaps and hallucinations in generated content. However, these systems
+often falter with complex reasoning and consistency across diverse queries. In
+this work, we present Think-on-Graph 2.0, an enhanced RAG framework that aligns
+questions with the knowledge graph and uses it as a navigational tool, which
+deepens and refines the RAG paradigm for information collection and
+integration. The KG-guided navigation fosters deep and long-range associations
+to uphold logical consistency and optimize the scope of retrieval for precision
+and interoperability. In conjunction, factual consistency can be better ensured
+through semantic similarity guided by precise directives. ToG${2.0}$ not only
+improves the accuracy and reliability of LLMs' responses but also demonstrates
+the potential of hybrid structured knowledge systems to significantly advance
+LLM reasoning, aligning it closer to human-like performance. We conducted
+extensive experiments on four public datasets to demonstrate the advantages of
+our method compared to the baseline.
+
+摘要：檢索增強生成（RAG）透過啟用動態資訊檢索來減輕生成內容中的知識差距和幻覺，大幅提升大型語言模型（LLM）。然而，這些系統在複雜推理和跨不同查詢的一致性方面常常表現不佳。在這項工作中，我們提出了 Think-on-Graph 2.0，一個增強的 RAG 框架，它將問題與知識圖譜對齊，並將其用作導航工具，這加深並改進了 RAG 典範，用於資訊收集和整合。受知識圖譜引導的導航促進了深層且長程的關聯，以維持邏輯一致性並最佳化檢索範圍，以提高精確度和互操作性。同時，事實一致性可以透過由精確指示引導的語意相似性獲得更好的確保。ToG${2.0}$ 不僅提升了 LLM 回應的準確性和可靠性，也展示了混合結構化知識系統的潛力，可以大幅提升 LLM 推理，使其更接近人類般的表現。我們在四個公開資料集上進行了廣泛的實驗，以展示我們的方法相較於基線的優勢。
+
+##### **Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**
+2407.10794v1 by Rui Yang, Boming Yang, Sixun Ouyang, Tianwei She, Aosong Feng, Yuang Jiang, Freddy Lecue, Jinghui Lu, Irene Li
+
+Knowledge graphs (KGs) are crucial in the field of artificial intelligence
+and are widely applied in downstream tasks, such as enhancing Question
+Answering (QA) systems. The construction of KGs typically requires significant
+effort from domain experts. Recently, Large Language Models (LLMs) have been
+used for knowledge graph construction (KGC), however, most existing approaches
+focus on a local perspective, extracting knowledge triplets from individual
+sentences or documents. In this work, we introduce Graphusion, a zero-shot KGC
+framework from free text. The core fusion module provides a global view of
+triplets, incorporating entity merging, conflict resolution, and novel triplet
+discovery. We showcase how Graphusion could be applied to the natural language
+processing (NLP) domain and validate it in the educational scenario.
+Specifically, we introduce TutorQA, a new expert-verified benchmark for graph
+reasoning and QA, comprising six tasks and a total of 1,200 QA pairs. Our
+evaluation demonstrates that Graphusion surpasses supervised baselines by up to
+10% in accuracy on link prediction. Additionally, it achieves average scores of
+2.92 and 2.37 out of 3 in human evaluations for concept entity extraction and
+relation recognition, respectively.
+
+摘要：<paragraph>知識圖譜 (KG) 在人工智慧領域至關重要，並廣泛應用於下游任務，例如增強問答 (QA) 系統。知識圖譜的建構通常需要領域專家的大量工作。最近，大型語言模型 (LLM) 已被用於知識圖譜建構 (KGC)，然而，現有方法大多關注局部觀點，從個別句子或文件中提取知識三元組。在這項工作中，我們介紹了 Graphusion，一個從自由文本中進行零次學習的 KGC 框架。核心融合模組提供三元組的全局觀點，包含實體合併、衝突解決和新三元組發現。我們展示了如何將 Graphusion 應用於自然語言處理 (NLP) 領域，並在教育場景中驗證它。具體來說，我們介紹了 TutorQA，一個新的由專家驗證的圖譜推理和問答基準，包含六項任務和總計 1,200 個問答對。我們的評估表明，Graphusion 在連結預測的準確度上比監督式基準高出 10%。此外，在概念實體提取和關係識別的人類評估中，它分別獲得了 3 分中的 2.92 分和 2.37 分。</paragraph>
+
+##### **GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**
+2407.10793v1 by Hannah Sansford, Nicholas Richardson, Hermina Petric Maretic, Juba Nait Saada
+
+Methods to evaluate Large Language Model (LLM) responses and detect
+inconsistencies, also known as hallucinations, with respect to the provided
+knowledge, are becoming increasingly important for LLM applications. Current
+metrics fall short in their ability to provide explainable decisions,
+systematically check all pieces of information in the response, and are often
+too computationally expensive to be used in practice. We present GraphEval: a
+hallucination evaluation framework based on representing information in
+Knowledge Graph (KG) structures. Our method identifies the specific triples in
+the KG that are prone to hallucinations and hence provides more insight into
+where in the response a hallucination has occurred, if at all, than previous
+methods. Furthermore, using our approach in conjunction with state-of-the-art
+natural language inference (NLI) models leads to an improvement in balanced
+accuracy on various hallucination benchmarks, compared to using the raw NLI
+models. Lastly, we explore the use of GraphEval for hallucination correction by
+leveraging the structure of the KG, a method we name GraphCorrect, and
+demonstrate that the majority of hallucinations can indeed be rectified.
+
+摘要：大型語言模型 (LLM) 回應評估方法和不一致性偵測（又稱為幻覺），相對於所提供的知識，對於 LLM 應用正變得越來越重要。目前的指標無法提供可解釋的決策、系統性地檢查回應中的所有資訊，而且在實務上使用時，通常過於耗費運算資源。我們提出 GraphEval：一個基於知識圖 (KG) 結構來表示資訊的幻覺評估架構。我們的技術識別出容易出現幻覺的 KG 中特定三元組，因此比以往的方法更深入地了解回應中幻覺發生在哪裡（如果有的話）。此外，將我們的方法與最先進的自然語言推論 (NLI) 模型結合使用，與使用原始 NLI 模型相比，可以在各種幻覺基準上提高平衡準確度。最後，我們探索使用 GraphEval 來進行幻覺修正，方法是利用 KG 的結構，我們將此方法命名為 GraphCorrect，並證明大多數幻覺確實可以得到糾正。
+
+##### **Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**
+2407.10743v1 by W. J. Meijer, A. C. Kemmeren, E. H. J. Riemens, J. E. Fransman, M. van Bekkum, G. J. Burghouts, J. D. van Mil
+
+This paper addresses the challenge of scaling Large Multimodal Models (LMMs)
+to expansive 3D environments. Solving this open problem is especially relevant
+for robot deployment in many first-responder scenarios, such as
+search-and-rescue missions that cover vast spaces. The use of LMMs in these
+settings is currently hampered by the strict context windows that limit the
+LMM's input size. We therefore introduce a novel approach that utilizes a
+datagraph structure, which allows the LMM to iteratively query smaller sections
+of a large environment. Using the datagraph in conjunction with graph traversal
+algorithms, we can prioritize the most relevant locations to the query, thereby
+improving the scalability of 3D scene language tasks. We illustrate the
+datagraph using 3D scenes, but these can be easily substituted by other dense
+modalities that represent the environment, such as pointclouds or Gaussian
+splats. We demonstrate the potential to use the datagraph for two 3D scene
+language task use cases, in a search-and-rescue mission example.
+
+摘要：本文討論了將大型多模態模型 (LMM) 擴展到廣闊 3D 環境的挑戰。解決這個開放性問題對於機器人在許多第一反應人員場景中的部署特別相關，例如涵蓋廣闊空間的搜救任務。這些設定中使用 LMM 目前受到嚴格的上下文視窗限制，這限制了 LMM 的輸入大小。因此，我們引入了一種新穎的方法，該方法利用資料圖結構，允許 LMM 迭代查詢大型環境的較小部分。透過將資料圖與圖形遍歷演算法結合使用，我們可以優先考慮與查詢最相關的位置，從而提高 3D 場景語言任務的可擴充性。我們使用 3D 場景說明資料圖，但這些場景可以輕鬆地由其他表示環境的密集模式取代，例如點雲或高斯點。我們展示了在搜救任務範例中使用資料圖進行兩個 3D 場景語言任務用例的潛力。
+
+##### **AutoGRAMS: Autonomous Graphical Agent Modeling Software**
+2407.10049v1 by Ben Krause, Lucia Chen, Emmanuel Kahembwe
+
+We introduce the AutoGRAMS framework for programming multi-step interactions
+with language models. AutoGRAMS represents AI agents as a graph, where each
+node can execute either a language modeling instruction or traditional code.
+Likewise, transitions in the graph can be governed by either language modeling
+decisions or traditional branch logic. AutoGRAMS supports using variables as
+memory and allows nodes to call other AutoGRAMS graphs as functions. We show
+how AutoGRAMS can be used to design highly sophisticated agents, including
+self-referential agents that can modify their own graph. AutoGRAMS's
+graph-centric approach aids interpretability, controllability, and safety
+during the design, development, and deployment of AI agents. We provide our
+framework as open source at https://github.com/autograms/autograms .
+
+摘要：我們介紹 AutoGRAMS 框架，用於編寫與語言模型的多步驟互動。AutoGRAMS 將 AI 代理表示為一個圖形，其中每個節點可以執行語言建模指令或傳統代碼。同樣地，圖形中的轉換可以由語言建模決策或傳統分支邏輯控制。AutoGRAMS 支援使用變數作為記憶體，並允許節點呼叫其他 AutoGRAMS 圖形作為函式。我們展示如何使用 AutoGRAMS 設計高度複雜的代理，包括可以修改自身圖形的自參照代理。AutoGRAMS 以圖形為中心的方法有助於在 AI 代理的設計、開發和部署過程中提高可解釋性、可控性和安全性。我們在 https://github.com/autograms/autograms 提供我們的框架作為開源。
+
+##### **FarFetched: Entity-centric Reasoning and Claim Validation for the Greek Language based on Textually Represented Environments**
+2407.09888v1 by Dimitris Papadopoulos, Katerina Metropoulou, Nikolaos Matsatsinis, Nikolaos Papadakis
+
+Our collective attention span is shortened by the flood of online
+information. With \textit{FarFetched}, we address the need for automated claim
+validation based on the aggregated evidence derived from multiple online news
+sources. We introduce an entity-centric reasoning framework in which latent
+connections between events, actions, or statements are revealed via entity
+mentions and represented in a graph database. Using entity linking and semantic
+similarity, we offer a way for collecting and combining information from
+diverse sources in order to generate evidence relevant to the user's claim.
+Then, we leverage textual entailment recognition to quantitatively determine
+whether this assertion is credible, based on the created evidence. Our approach
+tries to fill the gap in automated claim validation for less-resourced
+languages and is showcased on the Greek language, complemented by the training
+of relevant semantic textual similarity (STS) and natural language inference
+(NLI) models that are evaluated on translated versions of common benchmarks.
+
+摘要：網路資訊的洪流縮短了我們的集體注意力時間。透過 \textit{FarFetched}，我們解決了根據從多個線上新聞來源彙總的證據進行自動化聲明驗證的需求。我們引入了一個以實體為中心的推理框架，其中事件、動作或陳述之間的潛在關聯透過實體提及被揭露，並在圖形資料庫中表示。使用實體連結和語義相似性，我們提供一種方式來收集和組合來自不同來源的資訊，以產生與使用者聲明相關的證據。然後，我們利用文本蘊涵識別來根據建立的證據量化確定此斷言是否可信。我們的做法試圖填補資源較少的語言的自動化聲明驗證方面的空白，並在希臘語中展示，輔以對相關語義文本相似性 (STS) 和自然語言推論 (NLI) 模型的訓練，這些模型在常見基準的翻譯版本上進行評估。
+
+##### **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**
+2407.09709v1 by Lecheng Kong, Jiarui Feng, Hao Liu, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang
+
+Foundation models, such as Large Language Models (LLMs) or Large Vision
+Models (LVMs), have emerged as one of the most powerful tools in the respective
+fields. However, unlike text and image data, graph data do not have a
+definitive structure, posing great challenges to developing a Graph Foundation
+Model (GFM). For example, current attempts at designing general graph models
+either transform graph data into a language format for LLM-based prediction or
+still train a GNN model with LLM as an assistant. The former can handle
+unlimited tasks, while the latter captures graph structure much better -- yet,
+no existing work can achieve both simultaneously. In this paper, we identify
+three key desirable properties of a GFM: self-supervised pretraining, fluidity
+in tasks, and graph awareness. To account for these properties, we extend the
+conventional language modeling to the graph domain and propose a novel
+generative graph language model GOFA to solve the problem. The model
+interleaves randomly initialized GNN layers into a frozen pre-trained LLM so
+that the semantic and structural modeling abilities are organically combined.
+GOFA is pre-trained on newly proposed graph-level next-word prediction,
+question-answering, and structural tasks to obtain the above GFM properties.
+The pre-trained model is further fine-tuned on downstream tasks to obtain
+task-solving ability. The fine-tuned model is evaluated on various downstream
+tasks, demonstrating a strong ability to solve structural and contextual
+problems in zero-shot scenarios. The code is available at
+https://github.com/JiaruiFeng/GOFA.
+
+摘要：基礎模型，例如大型語言模型 (LLM) 或大型視覺模型 (LVM)，已成為各自領域中最有力的工具之一。然而，與文本和影像資料不同，圖形資料沒有明確的結構，對開發圖形基礎模型 (GFM) 構成極大的挑戰。例如，目前設計通用圖形模型的嘗試，不是將圖形資料轉換為語言格式以供基於 LLM 的預測，就是訓練 GNN 模型，並以 LLM 作為輔助。前者可以處理無限的任務，而後者可以更好地擷取圖形結構，但現有的工作無法同時達成這兩者。在本文中，我們找出 GFM 的三個關鍵理想特性：自我監督預訓練、任務流暢度和圖形感知。為了考量這些特性，我們將傳統的語言建模擴充到圖形領域，並提出一個新穎的生成式圖形語言模型 GOFA 來解決問題。此模型將隨機初始化的 GNN 層交錯插入凍結的預訓練 LLM 中，以便語意和結構建模能力有機結合。GOFA 採用新提出的圖形層級下一個字預測、問答和結構任務進行預訓練，以取得上述 GFM 特性。預訓練模型進一步在下游任務上進行微調，以取得解決任務的能力。微調模型在各種下游任務上進行評估，證明了在零次學習場景中解決結構和上下文問題的強大能力。程式碼可在 https://github.com/JiaruiFeng/GOFA 取得。
+
 ##### **Human-like Episodic Memory for Infinite Context LLMs**
 2407.09450v1 by Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang
 
@@ -237,7 +389,7 @@ ground-truth baseline.
 摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
 
 ##### **Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**
-2407.08516v1 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
+2407.08516v2 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
 
 This article explores the convergence of connectionist and symbolic
 artificial intelligence (AI), from historical debates to contemporary
@@ -259,7 +411,7 @@ capabilities. By exploring the progression of neuro-symbolic AI and proposing
 future research trajectories, this work advances the understanding and
 development of AI technologies.
 
-摘要：這篇文章探討了連接主義與符號人工智慧 (AI) 的匯流，從歷史辯論到當代進展。傳統上被認為是不同的典範，連接主義 AI 專注於神經網路，而符號 AI 則強調符號表徵與邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連接主義架構在將人類語言視為符號形式處理的潛力。該研究論證，由 LLM 賦能的自主代理 (LAA) 體現了這種典範的匯流。透過利用 LLM 進行基於文字的知識建模與表徵，LAA 整合了神經符號 AI 原則，展示增強的推理和決策能力。在神經符號 AI 主題中將 LAA 與知識圖譜進行比較，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及在沒有明確重新訓練的情況下利用情境範例中的獨特優勢。該研究強調了神經向量符號整合、指令編碼和隱式推理中具有前景的途徑，旨在進一步增強 LAA 的能力。透過探討神經符號 AI 的進展並提出未來的研究軌跡，這項研究推動了對 AI 技術的理解和發展。
+摘要：本文探討了連線主義與符號人工智慧（AI）的融合，從歷史辯論到當代進展。連線主義 AI 傳統上被視為不同的範式，專注於神經網路，而符號 AI 則強調符號表徵與邏輯。大型語言模型（LLM）的最新進展，例如 ChatGPT 和 GPT-4，突顯了連線主義架構在將人類語言視為符號形式處理方面的潛力。研究認為，由 LLM 賦能的自主代理（LAA）體現了這種範式融合。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原則，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突出了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而無需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和隱式推理中前景看好的途徑，旨在進一步增強 LAA 能力。透過探索神經符號 AI 的進展並提出未來的研究軌跡，這項工作推動了 AI 技術的理解和發展。
 
 ##### **A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**
 2407.07966v1 by Arastoo Zibaeirad, Farnoosh Koleini, Shengping Bi, Tao Hou, Tao Wang
@@ -2358,155 +2510,4 @@ experiments conducted with the MMLU and Mini Crossword Puzzles datasets. The
 code is available at https://github.com/lukasVierling/DynamicGPTSwarm.
 
 摘要：大型语言模型 (LLM) 和语言代理最近的进展已展示出对跨多个学科的各种未来应用的重大前景。虽然传统的语言代理方法通常依赖于固定的手工设计，但我们的研究旨在开发可学习和动态的代理。我们的方法使用了一个现有的框架，将语言代理抽象为图。在这个图框架内，我们旨在学习一个模型，该模型可以为语言代理的每个给定输入生成边。这使我们能够生成代表图中基于给定输入的通信流的边，从而调整语言代理的内部通信。我们学习使用经过强化学习微调的预训练 LLM 来生成这些边。该 LLM 可以同时在多个数据集上进行微调，我们假设该模型在训练期间学习适应这些不同的域，在部署期间遇到来自不同域的数据时实现良好的整体性能。我们证明，我们的方法在 MMLU 和 CMMLU 的组合数据集上比先前的静态方法高出近 6% 的准确度，并且在使用稀疏性诱导损失进行训练时高出 10% 以上。它还在使用 MMLU 和迷你填字游戏数据集进行的其他实验中表现出色。代码可在 https://github.com/lukasVierling/DynamicGPTSwarm 获得。
-
-##### **Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**
-2406.11400v1 by Golnaz Shapurian
-
-This paper presents an experiment conducted during a hackathon, focusing on
-using large language models (LLMs) and knowledge graph clustering to extract
-entities and relationships from astronomical text. The study demonstrates an
-approach to disambiguate entities that can appear in various contexts within
-the astronomical domain. By collecting excerpts around specific entities and
-leveraging the GPT-4 language model, relevant entities and relationships are
-extracted. The extracted information is then used to construct a knowledge
-graph, which is clustered using the Leiden algorithm. The resulting Leiden
-communities are utilized to identify the percentage of association of unknown
-excerpts to each community, thereby enabling disambiguation. The experiment
-showcases the potential of combining LLMs and knowledge graph clustering
-techniques for information extraction in astronomical research. The results
-highlight the effectiveness of the approach in identifying and disambiguating
-entities, as well as grouping them into meaningful clusters based on their
-relationships.
-
-摘要：本文介紹了在黑客馬拉松中進行的實驗，重點在於使用大型語言模型 (LLM) 和知識圖譜聚類，從天文文本中提取實體和關係。這項研究展示了一種方法，可以消除在天文領域中各種語境中出現的實體歧義性。透過收集特定實體周圍的摘錄，並利用 GPT-4 語言模型，可以提取相關實體和關係。然後使用提取的資訊來建構知識圖譜，並使用 Leiden 演算法進行聚類。結果產生的 Leiden 社群用於識別未知摘錄與每個社群的關聯百分比，從而消除歧義性。該實驗展示了結合 LLM 和知識圖譜聚類技術在天文研究中進行資訊提取的潛力。結果突顯了該方法在識別和消除實體歧義性方面的有效性，以及根據實體之間的關係將實體分組到有意義的群集中。
-
-##### **How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**
-2406.11162v2 by Dawulie Jinensibieke, Mieradilijiang Maimaiti, Wentao Xiao, Yuanhang Zheng, Xiaobo Wang
-
-Relation Extraction (RE) serves as a crucial technology for transforming
-unstructured text into structured information, especially within the framework
-of Knowledge Graph development. Its importance is emphasized by its essential
-role in various downstream tasks. Besides the conventional RE methods which are
-based on neural networks and pre-trained language models, large language models
-(LLMs) are also utilized in the research field of RE. However, on low-resource
-languages (LRLs), both conventional RE methods and LLM-based methods perform
-poorly on RE due to the data scarcity issues. To this end, this paper
-constructs low-resource relation extraction datasets in 10 LRLs in three
-regions (Central Asia, Southeast Asia and Middle East). The corpora are
-constructed by translating the original publicly available English RE datasets
-(NYT10, FewRel and CrossRE) using an effective multilingual machine
-translation. Then, we use the language perplexity (PPL) to filter out the
-low-quality data from the translated datasets. Finally, we conduct an empirical
-study and validate the performance of several open-source LLMs on these
-generated LRL RE datasets.
-
-摘要：關係抽取 (RE) 是一種將非結構化文字轉換為結構化資訊的關鍵技術，特別是在知識圖譜開發的架構中。其重要性在於它在各種下游任務中扮演著不可或缺的角色。除了基於神經網路和預訓練語言模型的傳統 RE 方法之外，大型語言模型 (LLM) 也被用於 RE 的研究領域。然而，在低資源語言 (LRL) 中，由於資料稀少的問題，傳統的 RE 方法和基於 LLM 的方法在 RE 上的表現都很差。有鑑於此，本文在三個地區（中亞、東南亞和中東）的 10 種 LRL 中建構了低資源關係抽取資料集。這些語料庫是透過使用一種有效的多語言機器翻譯來翻譯原始公開的英文 RE 資料集（NYT10、FewRel 和 CrossRE）而建構的。然後，我們使用語言困惑度 (PPL) 從翻譯後的資料集中篩選出低品質的資料。最後，我們進行一項實證研究，並驗證了幾個開源 LLM 在這些生成的 LRL RE 資料集上的效能。
-
-##### **Context Graph**
-2406.11160v3 by Chengjin Xu, Muzhi Li, Cehao Yang, Xuhui Jiang, Lumingyuan Tang, Yiyan Qi, Jian Guo
-
-Knowledge Graphs (KGs) are foundational structures in many AI applications,
-representing entities and their interrelations through triples. However,
-triple-based KGs lack the contextual information of relational knowledge, like
-temporal dynamics and provenance details, which are crucial for comprehensive
-knowledge representation and effective reasoning. Instead, \textbf{Context
-Graphs} (CGs) expand upon the conventional structure by incorporating
-additional information such as time validity, geographic location, and source
-provenance. This integration provides a more nuanced and accurate understanding
-of knowledge, enabling KGs to offer richer insights and support more
-sophisticated reasoning processes. In this work, we first discuss the inherent
-limitations of triple-based KGs and introduce the concept of CGs, highlighting
-their advantages in knowledge representation and reasoning. We then present a
-context graph reasoning \textbf{CGR$^3$} paradigm that leverages large language
-models (LLMs) to retrieve candidate entities and related contexts, rank them
-based on the retrieved information, and reason whether sufficient information
-has been obtained to answer a query. Our experimental results demonstrate that
-CGR$^3$ significantly improves performance on KG completion (KGC) and KG
-question answering (KGQA) tasks, validating the effectiveness of incorporating
-contextual information on KG representation and reasoning.
-
-摘要：知識圖譜 (KG) 是許多 AI 應用中的基礎結構，透過三元組來表示實體及其相互關係。然而，基於三元組的 KG 缺乏關係知識的脈絡資訊，例如時間動態和來源細節，這些資訊對於全面的知識表示和有效推理至關重要。取而代之的是，**脈絡圖譜** (CG) 透過納入時間有效性、地理位置和來源出處等額外資訊，擴展了傳統結構。這種整合提供了對知識更細緻且準確的理解，使 KG 能夠提供更豐富的見解，並支援更精密的推理過程。在這項工作中，我們首先討論了基於三元組的 KG 的內在限制，並介紹 CG 的概念，強調它們在知識表示和推理方面的優勢。接下來，我們提出一個脈絡圖譜推理**CGR$^3$**範例，它利用大型語言模型 (LLM) 來擷取候選實體和相關脈絡，根據擷取的資訊對它們進行排序，並推論是否已取得足夠的資訊來回答查詢。我們的實驗結果證明，CGR$^3$ 在 KG 完成 (KGC) 和 KG 問答 (KGQA) 任務上顯著提升了效能，驗證了在 KG 表示和推理中納入脈絡資訊的有效性。
-
-##### **Are Large Language Models a Good Replacement of Taxonomies?**
-2406.11131v2 by Yushi Sun, Hao Xin, Kai Sun, Yifan Ethan Xu, Xiao Yang, Xin Luna Dong, Nan Tang, Lei Chen
-
-Large language models (LLMs) demonstrate an impressive ability to internalize
-knowledge and answer natural language questions. Although previous studies
-validate that LLMs perform well on general knowledge while presenting poor
-performance on long-tail nuanced knowledge, the community is still doubtful
-about whether the traditional knowledge graphs should be replaced by LLMs. In
-this paper, we ask if the schema of knowledge graph (i.e., taxonomy) is made
-obsolete by LLMs. Intuitively, LLMs should perform well on common taxonomies
-and at taxonomy levels that are common to people. Unfortunately, there lacks a
-comprehensive benchmark that evaluates the LLMs over a wide range of taxonomies
-from common to specialized domains and at levels from root to leaf so that we
-can draw a confident conclusion. To narrow the research gap, we constructed a
-novel taxonomy hierarchical structure discovery benchmark named TaxoGlimpse to
-evaluate the performance of LLMs over taxonomies. TaxoGlimpse covers ten
-representative taxonomies from common to specialized domains with in-depth
-experiments of different levels of entities in this taxonomy from root to leaf.
-Our comprehensive experiments of eighteen state-of-the-art LLMs under three
-prompting settings validate that LLMs can still not well capture the knowledge
-of specialized taxonomies and leaf-level entities.
-
-摘要：大型語言模型 (LLM) 展示了將知識內化並回答自然語言問題的驚人能力。儘管先前的研究驗證了 LLM 在一般知識上表現良好，但在長尾細微知識上表現不佳，但社群仍然懷疑傳統知識圖譜是否應被 LLM 取代。在本文中，我們探討知識圖譜的架構 (即分類法) 是否被 LLM 取代。直觀上，LLM 應在常見分類法和對人們來說常見的分類法層級中表現良好。不幸的是，缺乏一個綜合基準來評估 LLM 在從一般到專業領域的廣泛分類法以及從根到葉的層級，以便我們可以得出確信的結論。為了縮小研究差距，我們構建了一個名為 TaxoGlimpse 的新分類法層級結構發現基準，以評估 LLM 在分類法上的表現。TaxoGlimpse 涵蓋了從一般到專業領域的十個代表性分類法，並對該分類法中從根到葉的不同層級實體進行深入實驗。我們對 18 個最先進的 LLM 在三種提示設定下的綜合實驗驗證了 LLM 仍然無法很好地掌握專業分類法和葉級實體的知識。
-
-##### **DocNet: Semantic Structure in Inductive Bias Detection Models**
-2406.10965v1 by Jessica Zhu, Iain Cruickshank, Michel Cukier
-
-News will have biases so long as people have opinions. However, as social
-media becomes the primary entry point for news and partisan gaps increase, it
-is increasingly important for informed citizens to be able to identify bias.
-People will be able to take action to avoid polarizing echo chambers if they
-know how the news they are consuming is biased. In this paper, we explore an
-often overlooked aspect of bias detection in documents: the semantic structure
-of news articles. We present DocNet, a novel, inductive, and low-resource
-document embedding and bias detection model that outperforms large language
-models. We also demonstrate that the semantic structure of news articles from
-opposing partisan sides, as represented in document-level graph embeddings,
-have significant similarities. These results can be used to advance bias
-detection in low-resource environments. Our code and data are made available at
-https://github.com/nlpresearchanon.
-
-摘要：新聞會存在偏見，只要人們有意見。然而，由於社群媒體成為新聞的主要入口，且黨派差距擴大，對於有知識的公民來說，能夠辨識偏見變得愈來愈重要。如果人們知道他們所接收的新聞如何偏頗，他們就能採取行動來避免兩極化的同溫層。在本文中，我們探討文件偏見偵測中經常被忽略的一面：新聞文章的語意結構。我們提出 DocNet，一個新穎、歸納且低資源的文件嵌入和偏見偵測模型，其表現優於大型語言模型。我們也證明，來自對立黨派陣營的新聞文章的語意結構，如文件層級圖嵌入中所呈現的，具有顯著的相似性。這些結果可用於推進低資源環境中的偏見偵測。我們的程式碼和資料可在 https://github.com/nlpresearchanon 取得。
-
-##### **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**
-2406.10902v1 by Yikai Zhang, Qianyu He, Xintao Wang, Siyu Yuan, Jiaqing Liang, Yanghua Xiao
-
-Multi-Modal Knowledge Graphs (MMKGs) have proven valuable for various
-downstream tasks. However, scaling them up is challenging because building
-large-scale MMKGs often introduces mismatched images (i.e., noise). Most
-entities in KGs belong to the long tail, meaning there are few images of them
-available online. This scarcity makes it difficult to determine whether a found
-image matches the entity. To address this, we draw on the Triangle of Reference
-Theory and suggest enhancing vision-language models with concept guidance.
-Specifically, we introduce COG, a two-stage framework with COncept-Guided
-vision-language models. The framework comprises a Concept Integration module,
-which effectively identifies image-text pairs of long-tailed entities, and an
-Evidence Fusion module, which offers explainability and enables human
-verification. To demonstrate the effectiveness of COG, we create a dataset of
-25k image-text pairs of long-tailed entities. Our comprehensive experiments
-show that COG not only improves the accuracy of recognizing long-tailed
-image-text pairs compared to baselines but also offers flexibility and
-explainability.
-
-摘要：多模态知识图谱 (MMKG) 已被证明对各种下游任务很有价值。然而，扩展它们具有挑战性，因为构建大规模 MMKG 经常会引入不匹配的图像（即噪声）。知识图谱中的大多数实体都属于长尾，这意味着网上很少有它们的图像。这种稀缺性使得难以确定找到的图像是否与实体匹配。为了解决这个问题，我们借鉴了三角参照理论，并建议用概念指导来增强视觉语言模型。具体来说，我们引入了 COG，这是一个带有概念指导视觉语言模型的两阶段框架。该框架包含一个概念集成模块，该模块有效地识别长尾实体的图像文本对，以及一个证据融合模块，该模块提供可解释性并支持人工验证。为了证明 COG 的有效性，我们创建了一个由 25k 个长尾实体的图像文本对组成的数据集。我们的综合实验表明，与基线相比，COG 不仅提高了识别长尾图像文本对的准确性，还提供了灵活性和可解释性。
-
-##### **KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**
-2406.10802v1 by Aihua Pei, Zehua Yang, Shunan Zhu, Ruoxi Cheng, Ju Jia, Lina Wang
-
-Existing frameworks for assessing robustness of large language models (LLMs)
-overly depend on specific benchmarks, increasing costs and failing to evaluate
-performance of LLMs in professional domains due to dataset limitations. This
-paper proposes a framework that systematically evaluates the robustness of LLMs
-under adversarial attack scenarios by leveraging knowledge graphs (KGs). Our
-framework generates original prompts from the triplets of knowledge graphs and
-creates adversarial prompts by poisoning, assessing the robustness of LLMs
-through the results of these adversarial attacks. We systematically evaluate
-the effectiveness of this framework and its modules. Experiments show that
-adversarial robustness of the ChatGPT family ranks as GPT-4-turbo > GPT-4o >
-GPT-3.5-turbo, and the robustness of large language models is influenced by the
-professional domains in which they operate.
-
-摘要：現有的用於評估大型語言模型 (LLM) 穩健性的框架過於依賴特定基準，這會增加成本，而且由於資料集的限制，無法評估 LLM 在專業領域的效能。本文提出了一個框架，利用知識圖譜 (KG) 系統性地評估 LLM 在對抗攻擊場景下的穩健性。我們的框架從知識圖譜的三元組中產生原始提示，並透過投毒建立對抗提示，透過這些對抗攻擊的結果來評估 LLM 的穩健性。我們系統性地評估了此框架及其模組的有效性。實驗顯示，ChatGPT 家族的對抗穩健性排名為 GPT-4-turbo > GPT-4o > GPT-3.5-turbo，而且大型語言模型的穩健性會受到其運作的專業領域影響。
 

@@ -5,7 +5,7 @@
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852v1](http://arxiv.org/abs/2407.11852v1)|[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)|
 |**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827v1](http://arxiv.org/abs/2407.11827v1)|null|
 |**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v1](http://arxiv.org/abs/2407.11790v1)|null|
-|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v1](http://arxiv.org/abs/2407.11686v1)|null|
+|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v2](http://arxiv.org/abs/2407.11686v2)|null|
 |**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
 |**2024-07-16**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
@@ -61,7 +61,7 @@
 |**2024-07-10**|**Causal Discovery in Semi-Stationary Time Series**|Shanyun Gao et.al.|[2407.07291v1](http://arxiv.org/abs/2407.07291v1)|[link](https://github.com/causalml-lab/pcmci-omega)|
 |**2024-07-10**|**Causal Discovery-Driven Change Point Detection in Time Series**|Shanyun Gao et.al.|[2407.07290v1](http://arxiv.org/abs/2407.07290v1)|null|
 |**2024-07-09**|**Lifestyle-Informed Personalized Blood Biomarker Prediction via Novel Representation Learning**|A. Ali Heydari et.al.|[2407.07277v1](http://arxiv.org/abs/2407.07277v1)|null|
-|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v1](http://arxiv.org/abs/2407.07042v1)|null|
+|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v1](http://arxiv.org/abs/2407.07042v1)|[link](https://github.com/levayz/protosam)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972v1](http://arxiv.org/abs/2407.06972v1)|null|
 |**2024-07-09**|**TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**|Jacob Thrasher et.al.|[2407.06852v1](http://arxiv.org/abs/2407.06852v1)|[link](https://github.com/jacob-thrasher/te-ssl)|
@@ -178,7 +178,7 @@ perspectives.
 摘要：由於異質圖神經網路 (HGNN) 具有卓越的異質圖形數據表示能力，因此已廣泛應用於許多重要的真實世界領域，例如推薦系統和醫療分析。在實際應用之前，通過廣泛的訓練來識別針對特定任務調整的最佳 HGNN 模型參數是一個耗時且昂貴的過程。為了提高 HGNN 訓練的效率，必須描述和分析訓練過程中的執行語義和模式，以識別效能瓶頸。在本研究中，我們對兩個主流的 HGNN 訓練場景（包括單 GPU 和多 GPU 分散式訓練）進行深入的量化和分析。根據描述結果，我們揭示了不同 HGNN 訓練場景中的效能瓶頸及其根本原因，並從軟體和硬體的角度提供了最佳化指南。
 
 ##### **CCoE: A Compact LLM with Collaboration of Experts**
-2407.11686v1 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
+2407.11686v2 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
 
 In the domain of Large Language Model (LLM), LLMs demonstrate significant
 capabilities in natural language understanding and generation. With the growing
@@ -199,7 +199,7 @@ Medical. The results indicate that our CCoE framework can easily and
 efficiently boost nearly 10%-20% performance on original base model in
 different domains but using less resources on training, as well as inference.
 
-摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著 LLM 在各種領域應用需求的增加，如何有效訓練和建構一個在不同領域擁有專業知識但訓練成本低的模型，是一個研究問題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種利用不同領域專家 LLM 的集體方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 透過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計透過 CoE（專家協作）層組裝多個專家 LLM。每個 CoE 層可能有一個或多個專家 LLM。專家 LLM 具有不同數量的層，並且已針對不同的領域任務接受過良好的訓練。每個專家都經過微調，以便能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆有效地在不同領域的原始基礎模型上提升近 10%-20% 的效能，但在訓練和推論上使用的資源較少。
+摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著在各個領域應用 LLM 的需求日益增加，如何有效訓練和建立一個在不同領域中具備專業知識，但訓練成本卻很低的模型，成為一個研究課題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種共同利用不同領域專家 LLM 的方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組合多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務進行了很好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆、有效地提升不同領域中原始基礎模型近 10%-20% 的效能，但訓練和推理使用的資源更少。
 
 ##### **CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**
 2407.11652v1 by Sunny Gupta, Amit Sethi

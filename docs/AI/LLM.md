@@ -37,7 +37,7 @@
 |**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745v1](http://arxiv.org/abs/2407.11745v1)|null|
 |**2024-07-16**|**How Are LLMs Mitigating Stereotyping Harms? Learning from Search Engine Studies**|Alina Leidinger et.al.|[2407.11733v1](http://arxiv.org/abs/2407.11733v1)|null|
 |**2024-07-16**|**NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks**|Alberto Pirillo et.al.|[2407.11698v1](http://arxiv.org/abs/2407.11698v1)|null|
-|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v1](http://arxiv.org/abs/2407.11686v1)|null|
+|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v2](http://arxiv.org/abs/2407.11686v2)|null|
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681v1](http://arxiv.org/abs/2407.11681v1)|null|
 |**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation**|Yanis Lalou et.al.|[2407.11676v1](http://arxiv.org/abs/2407.11676v1)|[link](https://github.com/scikit-adaptation/skada-bench)|
 |**2024-07-16**|**ECoh: Turn-level Coherence Evaluation for Multilingual Dialogues**|John Mendonça et.al.|[2407.11660v1](http://arxiv.org/abs/2407.11660v1)|null|
@@ -52,7 +52,7 @@
 |**2024-07-16**|**Enhancing TinyML Security: Study of Adversarial Attack Transferability**|Parin Shah et.al.|[2407.11599v1](http://arxiv.org/abs/2407.11599v1)|null|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591v1](http://arxiv.org/abs/2407.11591v1)|null|
-|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585v1](http://arxiv.org/abs/2407.11585v1)|null|
+|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585v2](http://arxiv.org/abs/2407.11585v2)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573v1](http://arxiv.org/abs/2407.11573v1)|null|
 |**2024-07-16**|**TGIF: Text-Guided Inpainting Forgery Dataset**|Hannes Mareen et.al.|[2407.11566v1](http://arxiv.org/abs/2407.11566v1)|[link](https://github.com/idlabmedia/tgif-dataset)|
 |**2024-07-16**|**Self-Guided Generation of Minority Samples Using Diffusion Models**|Soobin Um et.al.|[2407.11555v1](http://arxiv.org/abs/2407.11555v1)|[link](https://github.com/soobin-um/sg-minority)|
@@ -68,7 +68,7 @@
 |**2024-07-16**|**MMSD-Net: Towards Multi-modal Stuttering Detection**|Liangyu Nie et.al.|[2407.11492v1](http://arxiv.org/abs/2407.11492v1)|null|
 |**2024-07-16**|**A Meta-Learning Approach for Multi-Objective Reinforcement Learning in Sustainable Home Environments**|Junlin Lu et.al.|[2407.11489v1](http://arxiv.org/abs/2407.11489v1)|null|
 |**2024-07-16**|**Scientific QA System with Verifiable Answers**|Adela Ljajić et.al.|[2407.11485v1](http://arxiv.org/abs/2407.11485v1)|null|
-|**2024-07-16**|**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**|Nuo Chen et.al.|[2407.11484v1](http://arxiv.org/abs/2407.11484v1)|[link](https://github.com/nuochenpku/awesome-role-play-papers)|
+|**2024-07-16**|**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**|Nuo Chen et.al.|[2407.11484v2](http://arxiv.org/abs/2407.11484v2)|[link](https://github.com/nuochenpku/awesome-role-play-papers)|
 |**2024-07-16**|**Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG**|Jiarong Chen et.al.|[2407.11481v1](http://arxiv.org/abs/2407.11481v1)|[link](https://github.com/chenjiar3/mcma)|
 |**2024-07-16**|**AIGC for Industrial Time Series: From Deep Generative Models to Large Generative Models**|Lei Ren et.al.|[2407.11480v1](http://arxiv.org/abs/2407.11480v1)|null|
 |**2024-07-16**|**XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More**|Xiaochuan Gou et.al.|[2407.11477v1](http://arxiv.org/abs/2407.11477v1)|null|
@@ -88,7 +88,7 @@
 |**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|[link](https://github.com/kaist-cvml-lab/DreamCatalyst)|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v1](http://arxiv.org/abs/2407.11393v1)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
 |**2024-07-16**|**InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains**|Yinzhu Quan et.al.|[2407.11384v1](http://arxiv.org/abs/2407.11384v1)|null|
-|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382v1](http://arxiv.org/abs/2407.11382v1)|null|
+|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382v2](http://arxiv.org/abs/2407.11382v2)|null|
 |**2024-07-16**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373v1](http://arxiv.org/abs/2407.11373v1)|null|
 |**2024-07-16**|**Estimating Agreement by Chance for Sequence Annotation**|Diya Li et.al.|[2407.11371v1](http://arxiv.org/abs/2407.11371v1)|null|
 |**2024-07-16**|**A Pilot Study of GSLM-based Simulation of Foreign Accentuation Only Using Native Speech Corpora**|Kentaro Onda et.al.|[2407.11370v1](http://arxiv.org/abs/2407.11370v1)|null|
@@ -99,7 +99,7 @@
 |**2024-07-16**|**Large Vision-Language Models as Emotion Recognizers in Context Awareness**|Yuxuan Lei et.al.|[2407.11300v1](http://arxiv.org/abs/2407.11300v1)|null|
 |**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288v1](http://arxiv.org/abs/2407.11288v1)|null|
 |**2024-07-15**|**CLAMS: A System for Zero-Shot Model Selection for Clustering**|Prabhant Singh et.al.|[2407.11286v1](http://arxiv.org/abs/2407.11286v1)|null|
-|**2024-07-15**|**Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models**|Qingcheng Zeng et.al.|[2407.11282v1](http://arxiv.org/abs/2407.11282v1)|[link](https://github.com/qcznlp/uncertainty_attack)|
+|**2024-07-15**|**Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models**|Qingcheng Zeng et.al.|[2407.11282v2](http://arxiv.org/abs/2407.11282v2)|[link](https://github.com/qcznlp/uncertainty_attack)|
 |**2024-07-15**|**Quality Scalable Quantization Methodology for Deep Learning on Edge**|Salman Abdul Khaliq et.al.|[2407.11260v1](http://arxiv.org/abs/2407.11260v1)|null|
 |**2024-07-15**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245v1](http://arxiv.org/abs/2407.11245v1)|[link](https://github.com/cpark88/syncrec)|
 
@@ -912,7 +912,7 @@ LES.
 摘要：<paragraph>量化在解决深度神经网络 (DNN) 不断增加的计算和存储需求方面变得愈发关键。通过减少用于表示权重和激活的位数（通常从 32 位浮点数减少到 16 位或 8 位整数），量化可以减少 DNN 模型的存储空间、能耗和执行时间。但是，传统的量化方法通常专注于 DNN 的推理，而训练过程仍然依赖于浮点运算。迄今为止，文献中只有一项工作解决了多层感知器 (MLP) 架构的仅整数训练。这项工作介绍了 NITRO-D，这是一个用于训练任意深度仅整数卷积神经网络 (CNN) 的新框架，该框架在训练和推理中完全在仅整数域中运行。NITRO-D 是文献中第一个能够在不引入量化方案的情况下训练仅整数 CNN 的框架。具体来说，NITRO-D 引入了一种新颖的架构，集成了多个整数局部损失块，其中包括提出的 NITRO 缩放层和 NITRO-ReLU 激活函数。此外，它还引入了一种新颖的仅整数学习算法，该算法源自局部误差信号 (LES)，并利用 IntegerSGD（一种专门设计为在仅整数上下文中运行的优化器）。NITRO-D 在一个开源 Python 库中实现。广泛的实验评估证明了它在几个最先进的图像识别数据集上的有效性。结果显示，仅整数 MLP 架构的性能从 2.47% 到 5.96% 明显提高，超过了最先进的解决方案，并且能够训练仅整数 CNN 架构，与浮点 LES 相比，精度下降幅度从 -0.15% 到 -4.22%。</paragraph>
 
 ##### **CCoE: A Compact LLM with Collaboration of Experts**
-2407.11686v1 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
+2407.11686v2 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
 
 In the domain of Large Language Model (LLM), LLMs demonstrate significant
 capabilities in natural language understanding and generation. With the growing
@@ -933,7 +933,7 @@ Medical. The results indicate that our CCoE framework can easily and
 efficiently boost nearly 10%-20% performance on original base model in
 different domains but using less resources on training, as well as inference.
 
-摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著 LLM 在各種領域應用需求的增加，如何有效訓練和建構一個在不同領域擁有專業知識但訓練成本低的模型，是一個研究問題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種利用不同領域專家 LLM 的集體方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 透過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計透過 CoE（專家協作）層組裝多個專家 LLM。每個 CoE 層可能有一個或多個專家 LLM。專家 LLM 具有不同數量的層，並且已針對不同的領域任務接受過良好的訓練。每個專家都經過微調，以便能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆有效地在不同領域的原始基礎模型上提升近 10%-20% 的效能，但在訓練和推論上使用的資源較少。
+摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著在各個領域應用 LLM 的需求日益增加，如何有效訓練和建立一個在不同領域中具備專業知識，但訓練成本卻很低的模型，成為一個研究課題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種共同利用不同領域專家 LLM 的方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組合多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務進行了很好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆、有效地提升不同領域中原始基礎模型近 10%-20% 的效能，但訓練和推理使用的資源更少。
 
 ##### **MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**
 2407.11681v1 by Hongrong Cheng, Miao Zhang, Javen Qinfeng Shi
@@ -1279,7 +1279,7 @@ the in-context learning setting, regardless of their parameter scale.
 摘要：儘管使用大型語言模型 (LLM) 在抽象摘要任務中取得進展，但缺乏研究評估其輕鬆適應不同領域的能力。我們評估了各種 LLM 在摘要任務中對不同領域的領域適應能力，包括微調和情境學習設定。我們還提出了 AdaptEval，這是第一個領域適應評估套件。AdaptEval 包含一個領域基準和一組指標，以利於分析領域適應。我們的結果表明，無論 LLM 的參數規模如何，它們在情境學習設定中都表現出相當的效能。
 
 ##### **QVD: Post-training Quantization for Video Diffusion Models**
-2407.11585v1 by Shilong Tian, Hong Chen, Chengtao Lv, Yu Liu, Jinyang Guo, Xianglong Liu, Shengxi Li, Hao Yang, Tao Xie
+2407.11585v2 by Shilong Tian, Hong Chen, Chengtao Lv, Yu Liu, Jinyang Guo, Xianglong Liu, Shengxi Li, Hao Yang, Tao Xie
 
 Recently, video diffusion models (VDMs) have garnered significant attention
 due to their notable advancements in generating coherent and realistic video
@@ -1304,7 +1304,7 @@ bit-width settings demonstrate the effectiveness of our QVD in terms of diverse
 metrics. In particular, we achieve near-lossless performance degradation on
 W8A8, outperforming the current methods by 205.12 in FVD.
 
-摘要：<paragraph>近期，视频扩散模型 (VDM) 因其在生成连贯且逼真的视频内容方面取得的显著进步而备受关注。然而，同时处理多帧特征，加上模型规模庞大，导致延迟高、内存消耗大，阻碍了其更广泛的应用。训练后量化 (PTQ) 是一种有效的技术，可减少内存占用并提高计算效率。与图像扩散不同，我们观察到集成到所有帧特征中的时间特征表现出明显的偏态。此外，我们研究了视频扩散模型激活中的显着通道间差异和不对称性，导致各个通道的量化级别覆盖率低，增加了量化的难度。为了解决这些问题，我们引入了第一个针对视频扩散模型量身定制的 PTQ 策略，称为 QVD。具体来说，我们提出了针对时间特征设计的高时间可分辨性量化 (HTDQ) 方法，它保留了量化特征的高可分辨性，为所有视频帧提供了精确的时间指导。此外，我们提出了分散通道范围集成 (SCRI) 方法，旨在提高各个通道的量化级别覆盖率。在各种模型、数据集和位宽设置下的实验验证证明了我们的 QVD 在各种指标方面的有效性。特别是，我们在 W8A8 上实现了接近无损的性能下降，在 FVD 中比当前方法高出 205.12。</paragraph>
+摘要：<paragraph>近期，影片扩散模型 (VDM) 因其在生成连贯且逼真的影片内容方面取得显著进展而备受关注。然而，同时处理多个帧特征，加上模型规模庞大，导致延迟高且内存消耗大，阻碍了其更广泛的应用。训练后量化 (PTQ) 是一种有效的技术，可减少内存占用并提高计算效率。与图像扩散不同，我们观察到整合到所有帧特征中的时间特征表现出明显的偏度。此外，我们调查了影片扩散模型激活中的显著的通道间差异和不对称性，导致各个通道的量化级别覆盖率低，增加了量化的难度。为了解决这些问题，我们引入了第一个专为影片扩散模型量身定制的 PTQ 策略，称为 QVD。具体来说，我们提出了针对时间特征设计的高时间可辨别性量化 (HTDQ) 方法，它保留了量化特征的高可辨别性，为所有影片帧提供精确的时间指导。此外，我们提出了分散通道范围整合 (SCRI) 方法，旨在提高各个通道的量化级别覆盖率。跨越各种模型、数据集和位宽设置的实验验证证明了我们的 QVD 在各种指标方面的有效性。特别是，我们在 W8A8 上实现了接近无损的性能下降，在 FVD 中比当前方法高出 205.12。</paragraph>
 
 ##### **Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**
 2407.11573v1 by Naif Alkhunaizi, Faris Almalik, Rouqaiah Al-Refai, Muzammal Naseer, Karthik Nandakumar
@@ -1715,7 +1715,7 @@ unacceptable.
 摘要：在本文中，我們介紹了 VerifAI 計畫，這是一個開創性的開放原始碼科學問答系統，旨在提供不僅有參考依據，而且經過自動審查和驗證的答案。該系統的組成部分為：(1) 一個資訊檢索系統，結合語意和詞彙搜尋技術，用於科學論文(PubMed)；(2) 一個檢索增強生成 (RAG) 模組，使用微調生成模型 (Mistral 7B) 和檢索的文章，透過引述文章生成主張；(3) 一個驗證引擎，基於微調的 DeBERTa 和 XLM-RoBERTa 模型，使用 SciFACT 資料集進行自然語言推論任務。驗證引擎交叉比對產生的主張和主張衍生的文章，驗證在產生主張時是否出現任何幻覺。透過利用資訊檢索和 RAG 模組，Verif.ai 擅長從大量的科學來源產生事實資訊。同時，驗證引擎嚴格地對此輸出進行雙重檢查，確保其準確性和可靠性。這個雙階段流程在獲取和確認事實資訊中發揮關鍵作用，大幅提升資訊環境。我們的做法可以大幅提升科學家的生產力，同時促進在科學領域應用生成語言模型的信任，在該領域中幻覺和錯誤資訊是不可接受的。
 
 ##### **The Oscars of AI Theater: A Survey on Role-Playing with Language Models**
-2407.11484v1 by Nuo Chen, Y. Wang, Yang Deng, Jia Li
+2407.11484v2 by Nuo Chen, Yang Deng, Jia Li
 
 This survey explores the burgeoning field of role-playing with language
 models, focusing on their development from early persona-based models to
@@ -1734,7 +1734,7 @@ methodologies and identifying potential areas for improvement. Related
 resources and papers are available at
 https://github.com/nuochenpku/Awesome-Role-Play-Papers.
 
-摘要：這項調查探討了角色扮演在語言模型中蓬勃發展的領域，重點在於它們從早期基於角色的模型發展到由大型語言模型 (LLM) 促進的高階角色驅動模擬。角色扮演任務最初由於模型能力有限而僅限於簡單的角色一致性，現在已擴展到涵蓋複雜的角色描繪，包括角色一致性、行為一致性和整體吸引力。我們提供了這些系統設計中關鍵組成的全面分類，包括資料、模型和對齊、代理架構和評估。這項調查不僅概述了當前的研究方法和挑戰，例如管理動態個人檔案和實現高階角色一致性，還建議了改進角色扮演應用深度和真實性的未來研究途徑。目標是透過提供當前方法的結構化概觀和找出潛在的改進領域，來引導未來的研究。相關資源和論文可在 https://github.com/nuochenpku/Awesome-Role-Play-Papers 取得。
+摘要：本調查探討了角色扮演與語言模型的新興領域，重點關注其從早期基於角色的模型發展到由大型語言模型 (LLM) 促成的進階角色驅動模擬。角色扮演任務最初僅限於簡單的角色一致性，因為模型功能有限，現在已擴展到包含角色一致性、行為對齊和整體吸引力的複雜角色描繪。我們提供了這些系統設計中關鍵組成的全面分類，包括資料、模型和對齊、代理架構和評估。本調查不僅概述了當前的方法和挑戰，例如管理動態個人檔案和實現高階角色一致性，還提出了改進角色扮演應用深度和真實性的未來研究途徑。目標是透過提供當前方法的結構化概觀和找出潛在的改進領域，來引導未來的研究。相關資源和論文可於 https://github.com/nuochenpku/Awesome-Role-Play-Papers 取得。
 
 ##### **Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG**
 2407.11481v1 by Jiarong Chen, Wanqing Wu, Tong Liu, Shenda Hong
@@ -2228,7 +2228,7 @@ efficiency of our model in SCM.
 摘要：供應鏈管理 (SCM) 包含協調貨物、資訊和資金在各種實體之間的流動，以有效率地交付產品。在現今易變、不確定、複雜且模糊 (VUCA) 的世界中，有效的庫存管理至關重要。先前的研究已證明啟發式方法和強化學習應用在庫存管理中的優越性。然而，將大型語言模型 (LLM) 作為多主體系統中用於庫存管理的自主代理人的應用仍未被充分探討。本研究提出了一種使用 LLM 來管理多主體庫存系統的新方法。我們的模型 InvAgent 透過運用其零次學習能力，增強了復原力並提升了整個供應鏈網路的效率。我們的貢獻包括利用 LLM 進行零次學習，以在沒有事先訓練的情況下啟用適應性和明智的決策制定，透過思考鏈 (CoT) 提供顯著的可解釋性和清晰度，並展示對不同需求情境的動態適應能力，同時將成本降至最低並避免缺貨。在不同情境中的廣泛評估突顯了我們的模型在 SCM 中的效率。
 
 ##### **Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**
-2407.11382v1 by Jianhao Li, Tianyu Sun, Zhongdao Wang, Enze Xie, Bailan Feng, Hongbo Zhang, Ze Yuan, Ke Xu, Jiaheng Liu, Ping Luo
+2407.11382v2 by Jianhao Li, Tianyu Sun, Zhongdao Wang, Enze Xie, Bailan Feng, Hongbo Zhang, Ze Yuan, Ke Xu, Jiaheng Liu, Ping Luo
 
 This paper proposes an algorithm for automatically labeling 3D objects from
 2D point or box prompts, especially focusing on applications in autonomous
@@ -2252,7 +2252,7 @@ those trained with actual ground-truth annotations. Furthermore, the SLF
 auto-labeler shows promising results in detailed shape predictions, providing a
 potential alternative for the occupancy annotation of dynamic objects.
 
-摘要：<paragraph>本文提出了一種演算法，用於自動標記 3D 物件，從 2D 點或方框提示，特別著重於自動駕駛的應用。與先前的技術不同，我們的自動標籤器預測的是 3D 形狀，而不是邊界框，並且不需要在特定資料集上進行訓練。我們提出了一個分段、提升和擬合 (SLF) 典範來達成此目標。首先，我們使用 Segment Anything Model (SAM) 從提示中分段出高品質的實例遮罩，並將剩下的問題轉換為從給定的 2D 遮罩預測 3D 形狀。由於此問題本質上不適定，因此它是一個重大的挑戰，因為多個 3D 形狀可以投影到一個相同的遮罩中。為了解決這個問題，我們將 2D 遮罩提升到 3D 形式，並使用梯度下降來調整它們的姿勢和形狀，直到投影符合遮罩，並且表面符合周圍的 LiDAR 點。值得注意的是，由於我們沒有在特定資料集上進行訓練，因此 SLF 自動標籤器不會過度擬合訓練集中有偏差的註解模式，就像其他方法一樣。因此，跨不同資料集的泛化能力得到了提升。在 KITTI 資料集上的實驗結果表明，SLF 自動標籤器產生了高品質的邊界框註解，在 IoU 為 0.5 時的 AP 達到了近 90%。使用產生的偽標籤訓練的偵測器表現得幾乎和使用實際基本事實註解訓練的偵測器一樣好。此外，SLF 自動標籤器在詳細形狀預測中顯示出有希望的結果，為動態物體的佔用註解提供了一個潛在的替代方案。</paragraph>
+摘要：<paragraph>這篇論文提出了一種演算法，用於自動標記 3D 物件，從 2D 點或方框提示，特別著重於自動駕駛的應用。與先前的技術不同，我們的自動標籤器預測 3D 形狀，而不是邊界方框，並且不需要針對特定資料集進行訓練。我們提出了一個分段、提升和擬合 (SLF) 的範例來達成這個目標。首先，我們使用 Segment Anything Model (SAM) 從提示中分段出高品質的實例遮罩，並將剩下的問題轉換為從給定的 2D 遮罩預測 3D 形狀。由於這個問題的性質不佳，因此它提出了重大的挑戰，因為多個 3D 形狀可以投影到一個相同的遮罩。為了解決這個問題，我們接著將 2D 遮罩提升到 3D 形式，並使用梯度下降來調整它們的姿勢和形狀，直到投影符合遮罩，並且表面符合周圍的 LiDAR 點。值得注意的是，由於我們沒有針對特定資料集進行訓練，因此 SLF 自動標籤器不會過度擬合訓練集中有偏差的註解模式，就像其他方法一樣。因此，跨不同資料集的泛化能力得到改善。在 KITTI 資料集上的實驗結果證明，SLF 自動標籤器產生了高品質的邊界方框註解，達到了將近 90% 的 AP@0.5 IoU。使用產生的偽標籤訓練的偵測器執行得幾乎和使用實際基本事實註解訓練的那些一樣好。此外，SLF 自動標籤器在詳細形狀預測中顯示出有希望的結果，為動態物體的佔用註解提供了潛在的替代方案。</paragraph>
 
 ##### **Reliable Reasoning Beyond Natural Language**
 2407.11373v1 by Nasim Borazjanizadeh, Steven T. Piantadosi
@@ -2481,7 +2481,7 @@ solving clustering applications.
 摘要：我們提出一個自動機器學習系統，它透過利用最佳傳輸基礎的資料集相似性，在分群問題上進行模型選擇。我們的目標是建立一個全面的自動機器學習管道，以解決分群問題，並提供建議，以選擇最合適的演算法，從而開啟一個超越傳統監督式學習設定的自動機器學習新領域。我們將我們的結果與多個分群基準進行比較，並發現它優於所有基準，因此證明了基於相似性的自動化模型選擇對於解決分群應用程式的效用。
 
 ##### **Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models**
-2407.11282v1 by Qingcheng Zeng, Mingyu Jin, Qinkai Yu, Zhenting Wang, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
+2407.11282v2 by Qingcheng Zeng, Mingyu Jin, Qinkai Yu, Zhenting Wang, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
 
 Large Language Models (LLMs) are employed across various high-stakes domains,
 where the reliability of their outputs is crucial. One commonly used method to
@@ -2504,25 +2504,7 @@ significant threat to the reliability of LLMs and underscores the need for
 future defenses against such attacks. The code is available at
 https://github.com/qcznlp/uncertainty_attack.
 
-摘要：大型語言模型 (LLM) 被用於各種高風險領域，
-其中其輸出的可靠性至關重要。一種常用的方法來
-評估 LLM 回應的可靠性是不確定性估計，它
-衡量其答案正確的可能性。雖然許多研究專注於
-提高 LLM 不確定性估計的準確性，但我們的研究
-調查了不確定性估計的脆弱性並探討了潛在的
-攻擊。我們證明攻擊者可以在 LLM 中嵌入後門，後門
-在輸入中被特定觸發器激活時，會操縱模型的
-不確定性，而不會影響最終輸出。具體來說，提出的
-後門攻擊方法可以改變 LLM 的輸出概率分佈，
-導致概率分佈收斂到攻擊者預定義的
-分佈，同時確保 top-1 預測保持不變。我們的
-實驗結果表明，這種攻擊有效地破壞了
-模型在多選題中的自我評估可靠性。例如，
-我們在四個模型中採用了三種不同的觸發
-策略，達到了 100% 的攻擊成功率 (ASR)。此外，我們研究了這種操縱
-是否適用於不同的提示和領域。這項工作突出了
-對 LLM 可靠性的重大威脅，並強調了對此類攻擊進行未來防禦的必要性。代碼可在
-https://github.com/qcznlp/uncertainty_attack 獲得。
+摘要：大型語言模型 (LLM) 被用於各種高風險領域中，其中其輸出的可靠性至關重要。一種常用的方法來評估 LLM 回應的可靠性是不確定性估計，它衡量其答案正確的可能性。儘管許多研究專注於提高 LLM 不確定性估計的準確性，但我們的研究調查了不確定性估計的脆弱性並探索了潛在的攻擊。我們證明，攻擊者可以在 LLM 中嵌入後門，當輸入中的特定觸發器激活時，它會在不影響最終輸出的情況下操縱模型的不確定性。具體來說，所提出的後門攻擊方法可以改變 LLM 的輸出概率分佈，導致概率分佈朝著攻擊者預先定義的分佈收斂，同時確保 top-1 預測保持不變。我們的實驗結果表明，這種攻擊有效地破壞了模型在多選題中的自我評估可靠性。例如，我們在四個模型中的三種不同的觸發策略中實現了 100 的攻擊成功率 (ASR)。此外，我們研究了這種操縱是否在不同的提示和領域中得到推廣。這項工作強調了對 LLM 可靠性的重大威脅，並強調了未來需要對此類攻擊進行防禦。代碼可在 https://github.com/qcznlp/uncertainty_attack 中找到。
 
 ##### **Quality Scalable Quantization Methodology for Deep Learning on Edge**
 2407.11260v1 by Salman Abdul Khaliq, Rehan Hafiz

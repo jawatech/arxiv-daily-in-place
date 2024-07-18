@@ -2,8 +2,13 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
+|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v1](http://arxiv.org/abs/2407.12703v1)|null|
+|**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
+|**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
-|**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v1](http://arxiv.org/abs/2407.11393v1)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
+|**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v1](http://arxiv.org/abs/2407.12068v1)|null|
+|**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
 |**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v1](http://arxiv.org/abs/2407.10805v1)|null|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
@@ -97,13 +102,99 @@
 |**2024-06-19**|**PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**|He Cao et.al.|[2406.13193v1](http://arxiv.org/abs/2406.13193v1)|[link](https://github.com/idea-xl/presto)|
 |**2024-06-19**|**QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism**|Bo Wang et.al.|[2406.13167v1](http://arxiv.org/abs/2406.13167v1)|null|
 |**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
-|**2024-06-18**|**MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**|Yuyan Liu et.al.|[2406.12950v1](http://arxiv.org/abs/2406.12950v1)|[link](https://github.com/nyushcs/moleculargpt)|
-|**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
-|**2024-06-18**|**Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**|Gangwei Jiang et.al.|[2406.12227v2](http://arxiv.org/abs/2406.12227v2)|null|
-|**2024-06-17**|**DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**|Jiasheng Zhang et.al.|[2406.12072v2](http://arxiv.org/abs/2406.12072v2)|[link](https://github.com/zjs123/DTGB)|
-|**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052v1](http://arxiv.org/abs/2406.12052v1)|[link](https://github.com/nyushcs/uniglm)|
 
 #### Abstracts
+##### **Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**
+2407.12725v1 by Ben Yao, Yazhou Zhang, Qiuchi Li, Jing Qin
+
+Elaborating a series of intermediate reasoning steps significantly improves
+the ability of large language models (LLMs) to solve complex problems, as such
+steps would evoke LLMs to think sequentially. However, human sarcasm
+understanding is often considered an intuitive and holistic cognitive process,
+in which various linguistic, contextual, and emotional cues are integrated to
+form a comprehensive understanding of the speaker's true intention, which is
+argued not be limited to a step-by-step reasoning process. To verify this
+argument, we introduce a new prompting framework called SarcasmCue, which
+contains four prompting strategies, $viz.$ chain of contradiction (CoC), graph
+of cues (GoC), bagging of cues (BoC) and tensor of cues (ToC), which elicits
+LLMs to detect human sarcasm by considering sequential and non-sequential
+prompting methods. Through a comprehensive empirical comparison on four
+benchmarking datasets, we show that the proposed four prompting methods
+outperforms standard IO prompting, CoT and ToT with a considerable margin, and
+non-sequential prompting generally outperforms sequential prompting.
+
+摘要：通過闡述一系列中間推理步驟，大幅提升大型語言模型 (LLM) 解決複雜問題的能力，因為這些步驟會促使 LLM 按順序思考。然而，人類的諷刺理解通常被認為是一種直覺且全面的認知過程，其中各種語言、語境和情緒線索整合在一起，以全面了解說話者的真實意圖，這被認為不僅限於循序漸進的推理過程。為了驗證這個論點，我們引入了一個新的提示框架，稱為 SarcasmCue，其中包含四種提示策略，即矛盾鏈 (CoC)、線索圖 (GoC)、線索袋 (BoC) 和線索張量 (ToC)，它引發 LLM 通過考慮順序和非順序提示方法來檢測人類的諷刺。通過對四個基準數據集進行全面的實證比較，我們表明所提出的四種提示方法以相當大的幅度優於標準 IO 提示、CoT 和 ToT，並且非順序提示通常優於順序提示。
+
+##### **Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**
+2407.12703v1 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
+
+Fine-tuning pre-trained language models (PLMs) has recently shown a potential
+to improve knowledge graph completion (KGC). However, most PLM-based methods
+encode only textual information, neglecting various topological structures of
+knowledge graphs (KGs). In this paper, we empirically validate the significant
+relations between the structural properties of KGs and the performance of the
+PLM-based methods. To leverage the structural knowledge, we propose a
+Subgraph-Aware Training framework for KGC (SATKGC) that combines (i)
+subgraph-aware mini-batching to encourage hard negative sampling, and (ii) a
+new contrastive learning method to focus more on harder entities and harder
+negative triples in terms of the structural properties. To the best of our
+knowledge, this is the first study to comprehensively incorporate the
+structural inductive bias of the subgraphs into fine-tuning PLMs. Extensive
+experiments on four KGC benchmarks demonstrate the superiority of SATKGC. Our
+code is available.
+
+摘要：微调预训练语言模型 (PLM) 最近显示出改善知识图谱完成 (KGC) 的潜力。然而，大多数基于 PLM 的方法仅对文本信息进行编码，而忽略了知识图谱 (KG) 的各种拓扑结构。在本文中，我们凭经验验证了知识图谱的结构属性与基于 PLM 的方法的性能之间的重要关系。为了利用结构知识，我们提出了一个用于 KGC 的子图感知训练框架 (SATKGC)，它结合了 (i) 子图感知的小批量处理以鼓励困难的负采样，以及 (ii) 一种新的对比学习方法，在结构属性方面更多地关注更困难的实体和更困难的负三元组。据我们所知，这是第一项将子图的结构归纳偏差全面纳入 PLM 微调的研究。在四个 KGC 基准上的广泛实验证明了 SATKGC 的优越性。我们的代码可用。
+
+##### **Abstraction Alignment: Comparing Model and Human Conceptual Relationships**
+2407.12543v1 by Angie Boggust, Hyemin Bang, Hendrik Strobelt, Arvind Satyanarayan
+
+Abstraction -- the process of generalizing specific examples into broad
+reusable patterns -- is central to how people efficiently process and store
+information and apply their knowledge to new data. Promisingly, research has
+shown that ML models learn representations that span levels of abstraction,
+from specific concepts like "bolo tie" and "car tire" to more general concepts
+like "CEO" and "model". However, existing techniques analyze these
+representations in isolation, treating learned concepts as independent
+artifacts rather than an interconnected web of abstraction. As a result,
+although we can identify the concepts a model uses to produce its output, it is
+difficult to assess if it has learned a human-aligned abstraction of the
+concepts that will generalize to new data. To address this gap, we introduce
+abstraction alignment, a methodology to measure the agreement between a model's
+learned abstraction and the expected human abstraction. We quantify abstraction
+alignment by comparing model outputs against a human abstraction graph, such as
+linguistic relationships or medical disease hierarchies. In evaluation tasks
+interpreting image models, benchmarking language models, and analyzing medical
+datasets, abstraction alignment provides a deeper understanding of model
+behavior and dataset content, differentiating errors based on their agreement
+with human knowledge, expanding the verbosity of current model quality metrics,
+and revealing ways to improve existing human abstractions.
+
+摘要：抽象化——將特定範例概括為廣泛可重複使用的模式的過程——是人們有效處理和儲存資訊，並將其知識應用於新資料的核心。有希望的是，研究顯示 ML 模型學習跨越抽象層級的表徵，從「細領帶」和「汽車輪胎」等具體概念到「執行長」和「模型」等更一般的概念。然而，現有的技術孤立地分析這些表徵，將學習到的概念視為獨立的產物，而不是抽象的相互連結網路。因此，儘管我們可以識別模型用來產生其輸出的概念，但很難評估它是否學習到概念的人類對齊抽象，這些概念將概括到新的資料。為了解決這個差距，我們引入了抽象對齊，一種衡量模型學習的抽象與預期的抽象之間一致性的方法。我們透過將模型輸出與人類抽象圖形（例如語言關係或醫療疾病層級結構）進行比較來量化抽象對齊。在解釋影像模型、基準語言模型和分析醫療資料集的評估任務中，抽象對齊提供了對模型行為和資料集內容更深入的理解，根據與人類知識的一致性區分錯誤，擴展當前模型品質指標的詳細程度，並揭示改善現有人類抽象的方法。
+
+##### **Struct-X: Enhancing Large Language Models Reasoning with Structured Data**
+2407.12522v1 by Xiaoyu Tan, Haoyu Wang, Xihe Qiu, Yuan Cheng, Yinghui Xu, Wei Chu, Yuan Qi
+
+Structured data, rich in logical and relational information, has the
+potential to enhance the reasoning abilities of large language models (LLMs).
+Still, its integration poses a challenge due to the risk of overwhelming LLMs
+with excessive tokens and irrelevant context information. To address this, we
+propose Struct-X, a novel framework that operates through five key phases:
+``read-model-fill-reflect-reason'' efficiently enabling LLMs to utilize
+structured data. It begins by encoding structured data into a topological space
+using graph embeddings, followed by filling in missing entity information with
+knowledge retrieval modules, and filtering out irrelevant tokens via a
+self-supervised module. The final phase involves constructing a topological
+network with selected tokens to further reduce the total token length for more
+effective LLM inference. Additionally, Struct-X includes an Auxiliary Module
+trained to generate prompts, aiding LLMs in analyzing structured data.
+Extensive experiments on benchmarks, including the knowledge graph
+question-answer task and the long document reading comprehension task, show
+that Struct-X notably improves LLM reasoning, demonstrating the effectiveness
+of structured data augmentation in improving LLM inference with complex input
+context.
+
+摘要：結構化資料富含邏輯和關係資訊，有潛力增強大型語言模型 (LLM) 的推理能力。儘管如此，由於過多符號和無關脈絡資訊可能會讓 LLM 不堪負荷，因此整合此類資料構成了一項挑戰。為了解決此問題，我們提出 Struct-X，這是一個透過五個關鍵階段運作的新穎架構：``讀取-建模-填補-反思-推理''，有效地讓 LLM 能夠利用結構化資料。它首先使用圖形嵌入將結構化資料編碼到拓撲空間中，接著利用知識擷取模組填補遺失的實體資訊，並透過自我監督模組篩選出無關符號。最後一個階段涉及建構一個拓撲網路，其中包含選定的符號，以進一步減少總符號長度，以便更有效地進行 LLM 推論。此外，Struct-X 還包括一個輔助模組，經過訓練可以產生提示，協助 LLM 分析結構化資料。在基準上的大量實驗，包括知識圖譜問答任務和長篇文件閱讀理解任務，顯示 Struct-X 明顯改善了 LLM 推理，證明了結構化資料擴充在改善 LLM 推論時的有效性，特別是在輸入脈絡複雜的情況下。
+
 ##### **A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**
 2407.11638v1 by He Chang, Chenchen Ye, Zhulin Tao, Jie Wu, Zhengmao Yang, Yunshan Ma, Xianglin Huang, Tat-Seng Chua
 
@@ -132,13 +223,35 @@ through LLMs.
 
 摘要：近期，大型语言模型 (LLM) 在各种资料探勘任务中展现出极大的潜力，例如知识问答、数学推理和常识推理。然而，LLM 在时间事件预测方面的推理能力尚未被充分探索。为了系统性地调查其在时间事件预测方面的能力，我们对基于 LLM 的时间事件预测方法进行了全面的评估。由于缺乏同时包含图表和文本资料的高品质数据集，我们首先构建了一个名为 MidEast-TE-mini 的基准数据集。基于此数据集，我们设计了一系列基线方法，其特点是各种输入格式和检索增强生成 (RAG) 模块。从广泛的实验中，我们发现直接将原始文本整合到 LLM 的输入中并不会增强零次学习外推性能。相比之下，在特定复杂事件中纳入原始文本并微调 LLM 会显著提高性能。此外，通过检索模块的增强，LLM 可以有效地捕捉隐藏在历史事件中的时间关系模式。同时，诸如流行度偏差和长尾问题等问题仍然存在于 LLM 中，尤其是在基于 RAG 的方法中。这些发现不仅加深了我们对基于 LLM 的事件预测方法的理解，还突出了几个有前景的研究方向。我们认为，这项全面的评估，连同已确定的研究机会，将极大地促进通过 LLM 进行时间事件预测的未来研究。
 
+##### **Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**
+2407.12068v1 by Kai Guo, Zewen Liu, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang
+
+Large Language Models (LLMs) have demonstrated remarkable performance across
+various natural language processing tasks. Recently, several LLMs-based
+pipelines have been developed to enhance learning on graphs with text
+attributes, showcasing promising performance. However, graphs are well-known to
+be susceptible to adversarial attacks and it remains unclear whether LLMs
+exhibit robustness in learning on graphs. To address this gap, our work aims to
+explore the potential of LLMs in the context of adversarial attacks on graphs.
+Specifically, we investigate the robustness against graph structural and
+textual perturbations in terms of two dimensions: LLMs-as-Enhancers and
+LLMs-as-Predictors. Through extensive experiments, we find that, compared to
+shallow models, both LLMs-as-Enhancers and LLMs-as-Predictors offer superior
+robustness against structural and textual attacks.Based on these findings, we
+carried out additional analyses to investigate the underlying causes.
+Furthermore, we have made our benchmark library openly available to facilitate
+quick and fair evaluations, and to encourage ongoing innovative research in
+this field.
+
+摘要：大型語言模型 (LLM) 在各種自然語言處理任務中展現了卓越的效能。最近，已經開發了多個基於 LLM 的管道，以增強圖形上具有文字屬性的學習，展示出有前景的效能。然而，眾所周知，圖形容易受到對抗性攻擊，而 LLM 在圖形學習中是否表現出穩健性仍不清楚。為了解決這個差距，我們的研究旨在探索 LLM 在圖形對抗攻擊中的潛力。具體來說，我們研究了在 LLM 作為增強器和 LLM 作為預測器的兩個面向中，針對圖形結構和文字擾動的穩健性。透過廣泛的實驗，我們發現，與淺層模型相比，作為增強器的 LLM 和作為預測器的 LLM 都對結構和文字攻擊提供了優異的穩健性。基於這些發現，我們進行了額外的分析來探討其根本原因。此外，我們已經公開了我們的基準庫，以利於快速且公平的評估，並鼓勵在這個領域進行持續的創新研究。
+
 ##### **CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**
-2407.11393v1 by Kalliopi Basioti, Mohamed A. Abdelsalam, Federico Fancellu, Vladimir Pavlovic, Afsaneh Fazly
+2407.11393v2 by Kalliopi Basioti, Mohamed A. Abdelsalam, Federico Fancellu, Vladimir Pavlovic, Afsaneh Fazly
 
 Controllable Image Captioning (CIC) aims at generating natural language
 descriptions for an image, conditioned on information provided by end users,
 e.g., regions, entities or events of interest. However, available
-image--language datasets mainly contain captions that describe the entirety of
+image-language datasets mainly contain captions that describe the entirety of
 an image, making them ineffective for training CIC models that can potentially
 attend to any subset of regions or relationships. To tackle this challenge, we
 propose a novel, fully automatic method to sample additional focused and
@@ -148,7 +261,7 @@ leverage Abstract Meaning Representation (AMR), a cross-lingual graph-based
 semantic formalism, to encode all possible spatio-semantic relations between
 entities, beyond the typical spatial-relations-only focus of current methods.
 We use this Structured Semantic Augmentation (SSA) framework to augment
-existing image--caption datasets with the grounded controlled captions,
+existing image-caption datasets with the grounded controlled captions,
 increasing their spatial and semantic diversity and focal coverage. We then
 develop a new model, CIC-BART-SSA, specifically tailored for the CIC task, that
 sources its control signals from SSA-diversified datasets. We empirically show
@@ -159,7 +272,7 @@ captioning performance by efficiently generalizing to the challenging highly
 focused scenarios. Code is available at
 https://github.com/SamsungLabs/CIC-BART-SSA.
 
-摘要：可控图像字幕（CIC）旨在为图像生成自然语言描述，条件是根据最终用户提供的信息，例如感兴趣的区域、实体或事件。然而，可用的图像语言数据集主要包含描述图像整体的字幕，这使得它们无法有效训练 CIC 模型，而 CIC 模型有可能关注任何区域或关系子集。为了应对这一挑战，我们提出了一种新颖的、全自动的方法来使用基于现有与图像关联的字幕集构建的统一结构化语义表示来采样附加的、集中的和视觉接地的字幕。我们利用跨语言图形式语义形式主义——抽象意义表示（AMR）来对实体之间的所有可能的时空语义关系进行编码，而不仅仅是当前方法通常只关注的空间关系。我们使用这种结构化语义增强（SSA）框架来使用接地控制字幕增强现有的图像字幕数据集，从而增加其空间和语义多样性以及焦点覆盖范围。然后，我们开发了一个新模型 CIC-BART-SSA，该模型专门针对 CIC 任务定制，它从 SSA 多元化数据集获取其控制信号。我们通过实验证明，与 SOTA CIC 模型相比，CIC-BART-SSA 生成的字幕在多样性和文本质量方面更胜一筹，在可控性方面具有竞争力，而且重要的是，它最大程度地缩小了广泛和高度集中的受控字幕性能之间的差距，从而有效地推广到极具挑战性的高度集中的场景。代码可在 https://github.com/SamsungLabs/CIC-BART-SSA 获得。
+摘要：可控图像标注 (CIC) 旨在生成自然语言描述以描述图像，条件是根据最终用户提供的资讯，例如区域、实体或感兴趣的事件。然而，现有的图像语言数据集主要包含描述整个图像的标注，使其无法有效训练 CIC 模型，而这些模型有可能关注任何区域或关系的子集。为了应对这一挑战，我们提出了一种新颖的、全自动的方法，使用建立在与图像关联的现有标注集之上的统一结构化语义表示来抽样其他聚焦且视觉接地的标注。我们利用跨语言图式语义形式化抽象意义表示 (AMR) 来编码实体之间所有可能的空间语义关系，而不仅仅是当前方法中仅关注的空间关系。我们使用这种结构化语义增强 (SSA) 框架来增强现有的图像标注数据集，使其接地且可控的标注，增加它们的空间和语义多样性以及焦点覆盖范围。然后，我们开发了一个新模型 CIC-BART-SSA，专门针对 CIC 任务量身定制，其控制信号来自 SSA 多样化的数据集。我们凭经验表明，与 SOTA CIC 模型相比，CIC-BART-SSA 生成的标注在多样性和文本质量方面更胜一筹，在可控性方面具有竞争力，而且重要的是，通过有效地推广到具有挑战性的高度聚焦场景，最大限度地缩小了广泛和高度聚焦的受控标注性能之间的差距。代码可从 https://github.com/SamsungLabs/CIC-BART-SSA 获得。
 
 ##### **Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**
 2407.10805v1 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
@@ -2388,127 +2501,4 @@ achieves state-of-theart performance, while our graph-aware token reduction
 module significantly enhances efficiency and solves scalability issues.
 
 摘要：文本属性图 (TAG) 上的表征学习对于实际应用至关重要，因为它们结合了语义文本和上下文结构信息。该领域的研究所涉及的两个主要观点：局部编码和全局聚合，分别指文本节点信息统一（例如，使用语言模型）和结构增强建模（例如，使用图神经网络）。大多数现有工作侧重于结合不同的信息级别，但忽略了相互联系，即节点之间的上下文文本信息，它提供了语义见解以桥接局部和全局级别。在本文中，我们提出了 GraphBridge，这是一个多粒度集成框架，它通过利用上下文文本信息来桥接局部和全局视角，增强了对 TAG 的细粒度理解。此外，为了解决可扩展性和效率挑战，我们引入了一个图感知令牌缩减模块。跨各种模型和数据集的广泛实验表明，我们的方法实现了最先进的性能，而我们的图感知令牌缩减模块显着提高了效率并解决了可扩展性问题。
-
-##### **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
-2406.12950v1 by Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, Qiaoyu Tan
-
-Molecular property prediction (MPP) is a fundamental and crucial task in drug
-discovery. However, prior methods are limited by the requirement for a large
-number of labeled molecules and their restricted ability to generalize for
-unseen and new tasks, both of which are essential for real-world applications.
-To address these challenges, we present MolecularGPT for few-shot MPP. From a
-perspective on instruction tuning, we fine-tune large language models (LLMs)
-based on curated molecular instructions spanning over 1000 property prediction
-tasks. This enables building a versatile and specialized LLM that can be
-adapted to novel MPP tasks without any fine-tuning through zero- and few-shot
-in-context learning (ICL). MolecularGPT exhibits competitive in-context
-reasoning capabilities across 10 downstream evaluation datasets, setting new
-benchmarks for few-shot molecular prediction tasks. More importantly, with just
-two-shot examples, MolecularGPT can outperform standard supervised graph neural
-network methods on 4 out of 7 datasets. It also excels state-of-the-art LLM
-baselines by up to 16.6% increase on classification accuracy and decrease of
-199.17 on regression metrics (e.g., RMSE) under zero-shot. This study
-demonstrates the potential of LLMs as effective few-shot molecular property
-predictors. The code is available at https://github.com/NYUSHCS/MolecularGPT.
-
-摘要：分子特性預測 (MPP) 是藥物發現中的一項基本且至關重要的任務。然而，先前的研究方法受到大量標記分子需求和概化到未見和新任務的能力受限的限制，這兩者對於實際應用都是必不可少的。為了應對這些挑戰，我們提出用於少樣本 MPP 的 MolecularGPT。從指令微調的角度來看，我們根據涵蓋 1000 多項特性預測任務的策劃分子指令微調大型語言模型 (LLM)。這使得構建一個多功能且專業的 LLM 成為可能，該 LLM 可以通過零樣本和少樣本情境學習 (ICL) 適應新的 MPP 任務，而無需任何微調。MolecularGPT 在 10 個下游評估資料集上展示了具有競爭力的情境推理能力，為少樣本分子預測任務設定了新的基準。更重要的是，僅使用兩樣本範例，MolecularGPT 就可以在 7 個資料集中的 4 個資料集上優於標準監督圖神經網路方法。它還在零樣本下，通過分類準確度提高了 16.6% 和回歸指標（例如 RMSE）減少了 199.17，從而優於最先進的 LLM 基準。這項研究證明了 LLM 作為有效少樣本分子特性預測器的潛力。程式碼可在 https://github.com/NYUSHCS/MolecularGPT 獲得。
-
-##### **LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**
-2406.12494v1 by Masafumi Enomoto, Kunihiro Takeoka, Kosuke Akimoto, Kiril Gashteovski, Masafumi Oyamada
-
-Open-Domain Multi-Document Summarization (ODMDS) is crucial for addressing
-diverse information needs, which aims to generate a summary as answer to user's
-query, synthesizing relevant content from multiple documents in a large
-collection. Existing approaches that first find relevant passages and then
-generate a summary using a language model are inadequate for ODMDS. This is
-because open-ended queries often require additional context for the retrieved
-passages to cover the topic comprehensively, making it challenging to retrieve
-all relevant passages initially. While iterative retrieval methods have been
-explored for multi-hop question answering (MQA), they are impractical for ODMDS
-due to high latency from repeated large language model (LLM) inference for
-reasoning. To address this issue, we propose LightPAL, a lightweight passage
-retrieval method for ODMDS that constructs a graph representing passage
-relationships using an LLM during indexing and employs random walk instead of
-iterative reasoning and retrieval at inference time. Experiments on ODMDS
-benchmarks show that LightPAL outperforms baseline retrievers in summary
-quality while being significantly more efficient than an iterative MQA
-approach.
-
-摘要：開放領域多文件摘要 (ODMDS) 對於解決不同的資訊需求至關重要，其目的是根據使用者的查詢產生摘要作為答案，綜合來自大型集合中多個文件的相關內容。現有的方法是先找到相關段落，然後使用語言模型產生摘要，對於 ODMDS 來說是不夠的。這是因為開放式查詢通常需要額外的內容，才能讓擷取的段落全面涵蓋主題，這使得一開始就擷取所有相關段落具有挑戰性。雖然已經探索了反覆擷取的方法用於多跳問題解答 (MQA)，但由於反覆進行大型語言模型 (LLM) 推論以進行推理，因此它們不適用於 ODMDS，因為這會導致高延遲。為了解決這個問題，我們提出了 LightPAL，這是一種針對 ODMDS 的輕量級段落擷取方法，它在索引時使用 LLM 建立表示段落關係的圖，並在推論時使用隨機遊走，而不是反覆推理和擷取。在 ODMDS 基準測試中的實驗顯示，LightPAL 在摘要品質上優於基線擷取器，同時比反覆 MQA 方法有效率得多。
-
-##### **Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**
-2406.12227v2 by Gangwei Jiang, Caigao Jiang, Zhaoyi Li, Siqiao Xue, Jun Zhou, Linqi Song, Defu Lian, Ying Wei
-
-Fine-tuning large language models (LLMs) can cause them to lose their general
-capabilities. However, the intrinsic mechanisms behind such forgetting remain
-unexplored. In this paper, we begin by examining this phenomenon by focusing on
-knowledge understanding and instruction following, with the latter identified
-as the main contributor to forgetting during fine-tuning. Consequently, we
-propose the Instruction Vector (IV) framework to capture model representations
-highly related to specific instruction-following capabilities, thereby making
-it possible to understand model-intrinsic forgetting. Through the analysis of
-IV dynamics pre and post-training, we suggest that fine-tuning mostly adds
-specialized reasoning patterns instead of erasing previous skills, which may
-appear as forgetting. Building on this insight, we develop IV-guided training,
-which aims to preserve original computation graph, thereby mitigating
-catastrophic forgetting. Empirical tests on three benchmarks confirm the
-efficacy of this new approach, supporting the relationship between IVs and
-forgetting. Our code will be made available soon.
-
-摘要：微调大型语言模型 (LLM) 可能导致它们丧失一般能力。然而，这种遗忘背后的内在机制仍未得到探索。在本文中，我们首先通过关注知识理解和指令遵循来检验这种现象，其中后者被认为是微调过程中遗忘的主要原因。因此，我们提出了指令向量 (IV) 框架来捕获与特定指令遵循能力高度相关的模型表示，从而可以理解模型内在的遗忘。通过对训练前后的 IV 动态进行分析，我们认为微调主要添加了专门的推理模式，而不是抹除先前的技能，这可能表现为遗忘。基于这一见解，我们开发了 IV 指导训练，其目标是保留原始计算图，从而减轻灾难性遗忘。在三个基准上的经验测试证实了这种新方法的有效性，支持了 IV 和遗忘之间的关系。我们的代码将很快提供。
-
-##### **DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs**
-2406.12072v2 by Jiasheng Zhang, Jialin Chen, Menglin Yang, Aosong Feng, Shuang Liang, Jie Shao, Rex Ying
-
-Dynamic text-attributed graphs (DyTAGs) are prevalent in various real-world
-scenarios, where each node and edge are associated with text descriptions, and
-both the graph structure and text descriptions evolve over time. Despite their
-broad applicability, there is a notable scarcity of benchmark datasets tailored
-to DyTAGs, which hinders the potential advancement in many research fields. To
-address this gap, we introduce Dynamic Text-attributed Graph Benchmark (DTGB),
-a collection of large-scale, time-evolving graphs from diverse domains, with
-nodes and edges enriched by dynamically changing text attributes and
-categories. To facilitate the use of DTGB, we design standardized evaluation
-procedures based on four real-world use cases: future link prediction,
-destination node retrieval, edge classification, and textual relation
-generation. These tasks require models to understand both dynamic graph
-structures and natural language, highlighting the unique challenges posed by
-DyTAGs. Moreover, we conduct extensive benchmark experiments on DTGB,
-evaluating 7 popular dynamic graph learning algorithms and their variants of
-adapting to text attributes with LLM embeddings, along with 6 powerful large
-language models (LLMs). Our results show the limitations of existing models in
-handling DyTAGs. Our analysis also demonstrates the utility of DTGB in
-investigating the incorporation of structural and textual dynamics. The
-proposed DTGB fosters research on DyTAGs and their broad applications. It
-offers a comprehensive benchmark for evaluating and advancing models to handle
-the interplay between dynamic graph structures and natural language. The
-dataset and source code are available at https://github.com/zjs123/DTGB.
-
-摘要：<paragraph>動態文字屬性圖表 (DyTAGs) 普遍存在於各種真實世界的場景中，其中每個節點和邊緣都與文字描述相關聯，且圖表結構和文字描述會隨著時間演變。儘管其廣泛的適用性，但專門針對 DyTAGs 的基準資料集卻十分稀少，這阻礙了許多研究領域的潛在進展。為了解決這個差距，我們引入了動態文字屬性圖表基準 (DTGB)，它是一個來自不同領域的大型、時變圖表的集合，其節點和邊緣由動態變化的文字屬性和類別豐富化。為了便於使用 DTGB，我們根據四個真實世界的用例設計了標準化的評估程序：未來連結預測、目的地節點檢索、邊緣分類和文字關係生成。這些任務要求模型同時理解動態圖表結構和自然語言，突顯了 DyTAGs 帶來的獨特挑戰。此外，我們對 DTGB 進行了廣泛的基準實驗，評估了 7 種流行的動態圖表學習演算法及其使用 LLM 嵌入適應文字屬性的變體，以及 6 種強大的大型語言模型 (LLM)。我們的結果顯示了現有模型在處理 DyTAGs 方面的局限性。我們的分析也證明了 DTGB 在研究結構和文字動態的結合方面的效用。所提出的 DTGB 促進了對 DyTAGs 及其廣泛應用的研究。它為評估和推進模型以處理動態圖表結構和自然語言之間的交互作用提供了一個全面的基準。資料集和原始碼可在 https://github.com/zjs123/DTGB 取得。</paragraph>
-
-##### **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**
-2406.12052v1 by Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, Qiaoyu Tan
-
-Representation learning on text-attributed graphs (TAGs), where nodes are
-represented by textual descriptions, is crucial for textual and relational
-knowledge systems and recommendation systems. Currently, state-of-the-art
-embedding methods for TAGs primarily focus on fine-tuning language models
-(e.g., BERT) using structure-aware training signals. While effective, these
-methods are tailored for individual TAG and cannot generalize across various
-graph scenarios. Given the shared textual space, leveraging multiple TAGs for
-joint fine-tuning, aligning text and graph structure from different aspects,
-would be more beneficial. Motivated by this, we introduce a novel Unified Graph
-Language Model (UniGLM) framework, the first graph embedding model that
-generalizes well to both in-domain and cross-domain TAGs. Specifically, UniGLM
-is trained over multiple TAGs with different domains and scales using
-self-supervised contrastive learning. UniGLM includes an adaptive positive
-sample selection technique for identifying structurally similar nodes and a
-lazy contrastive module that is devised to accelerate training by minimizing
-repetitive encoding calculations. Extensive empirical results across 9
-benchmark TAGs demonstrate UniGLM's efficacy against leading embedding
-baselines in terms of generalization (various downstream tasks and backbones)
-and transfer learning (in and out of domain scenarios). The code is available
-at https://github.com/NYUSHCS/UniGLM.
-
-摘要：在文字属性图 (TAG) 上的表征学习，其中节点由文字描述表示，对于文字和关系知识系统以及推荐系统至关重要。目前，TAG 的最先进嵌入方法主要集中于使用结构感知训练信号微调语言模型（例如，BERT）。虽然有效，但这些方法是针对单个 TAG 量身定制的，并且无法概括到各种图场景。鉴于共享的文本空间，利用多个 TAG 进行联合微调，从不同方面调整文本和图结构，将更有益。受此启发，我们引入了一种新颖的统一图语言模型 (UniGLM) 框架，这是第一个在域内和跨域 TAG 中都能很好地概括的图嵌入模型。具体来说，UniGLM 使用自监督对比学习在具有不同域和规模的多个 TAG 上进行训练。UniGLM 包括一种自适应正样本选择技术，用于识别结构相似的节点，以及一个延迟对比模块，该模块旨在通过最小化重复编码计算来加速训练。跨 9 个基准 TAG 的广泛实证结果证明了 UniGLM 在泛化（各种下游任务和主干）和迁移学习（域内和域外场景）方面相对于领先嵌入基准的功效。代码可在 https://github.com/NYUSHCS/UniGLM 获得。
 

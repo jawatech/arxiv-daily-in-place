@@ -2,9 +2,16 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-18**|**Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**|Longchao Da et.al.|[2407.13689v1](http://arxiv.org/abs/2407.13689v1)|null|
+|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|null|
+|**2024-07-18**|**End-To-End Clinical Trial Matching with Large Language Models**|Dyke Ferber et.al.|[2407.13463v1](http://arxiv.org/abs/2407.13463v1)|null|
+|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301v1](http://arxiv.org/abs/2407.13301v1)|null|
+|**2024-07-18**|**NODER: Image Sequence Regression Based on Neural Ordinary Differential Equations**|Hao Bai et.al.|[2407.13241v1](http://arxiv.org/abs/2407.13241v1)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669v1](http://arxiv.org/abs/2407.12669v1)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
+|**2024-07-17**|**Maintenance Strategies for Sewer Pipes with Multi-State Degradation and Deep Reinforcement Learning**|Lisandro A. Jimenez-Roa et.al.|[2407.12894v1](http://arxiv.org/abs/2407.12894v1)|null|
 |**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468v2](http://arxiv.org/abs/2407.12468v2)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357v1](http://arxiv.org/abs/2407.12357v1)|null|
 |**2024-07-16**|**GPT-4V Cannot Generate Radiology Reports Yet**|Yuyang Jiang et.al.|[2407.12176v1](http://arxiv.org/abs/2407.12176v1)|[link](https://github.com/yuyangj0/gpt-4v-evaluation-radiology-report)|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
@@ -95,15 +102,122 @@
 |**2024-07-06**|**RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models**|Peng Xia et.al.|[2407.05131v1](http://arxiv.org/abs/2407.05131v1)|[link](https://github.com/richard-peng-xia/rule)|
 |**2024-07-06**|**Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal**|Xiao Siyao et.al.|[2407.05087v1](http://arxiv.org/abs/2407.05087v1)|null|
 |**2024-07-05**|**Brain Age Estimation with a Greedy Dual-Stream Model for Limited Datasets**|Iman Kianian et.al.|[2407.04808v1](http://arxiv.org/abs/2407.04808v1)|[link](https://github.com/iman2693/gdsm)|
-|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629v1](http://arxiv.org/abs/2407.04629v1)|null|
-|**2024-07-05**|**Variational and Explanatory Neural Networks for Encoding Cancer Profiles and Predicting Drug Responses**|Tianshu Feng et.al.|[2407.04486v1](http://arxiv.org/abs/2407.04486v1)|null|
-|**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449v1](http://arxiv.org/abs/2407.04449v1)|[link](https://github.com/nyuad-cai/cxr-ehr-msn)|
-|**2024-07-04**|**Query-Guided Self-Supervised Summarization of Nursing Notes**|Ya Gao et.al.|[2407.04125v1](http://arxiv.org/abs/2407.04125v1)|null|
-|**2024-07-04**|**MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis**|Asma Alkhaldi et.al.|[2407.04106v1](http://arxiv.org/abs/2407.04106v1)|[link](https://github.com/vision-cair/minigpt-med)|
-|**2024-07-04**|**Mechanisms for Data Sharing in Collaborative Causal Inference (Extended Version)**|Björn Filter et.al.|[2407.11032v1](http://arxiv.org/abs/2407.11032v1)|null|
-|**2024-07-04**|**Unsupervised Analysis of Alzheimer's Disease Signatures using 3D Deformable Autoencoders**|Mehmet Yigit Avci et.al.|[2407.03863v1](http://arxiv.org/abs/2407.03863v1)|[link](https://github.com/ci-ber/morphade)|
 
 #### Abstracts
+##### **Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**
+2407.13689v1 by Longchao Da, Rohan Chhibba, Rushabh Jaiswal, Ariane Middel, Hua Wei
+
+Heatwaves pose significant health risks, particularly due to prolonged
+exposure to high summer temperatures. Vulnerable groups, especially pedestrians
+and cyclists on sun-exposed sidewalks, motivate the development of a route
+planning method that incorporates somatosensory temperature effects through
+shade ratio consideration. This paper is the first to introduce a pipeline that
+utilizes segmentation foundation models to extract shaded areas from
+high-resolution satellite images. These areas are then integrated into a
+multi-layered road map, enabling users to customize routes based on a balance
+between distance and shade exposure, thereby enhancing comfort and health
+during outdoor activities. Specifically, we construct a graph-based
+representation of the road map, where links indicate connectivity and are
+updated with shade ratio data for dynamic route planning. This system is
+already implemented online, with a video demonstration, and will be
+specifically adapted to assist travelers during the 2024 Olympic Games in
+Paris.
+
+摘要：熱浪造成顯著的健康風險，特別是長時間暴露在夏季的高溫下。容易受傷害的族群，尤其是行走在陽光直射人行道上的行人和自行車騎士，促成了規劃路線方法的發展，其中納入了透過遮陽率考量來產生的體感溫度影響。本文首次介紹一個利用分割基礎模型從高解析度衛星影像中擷取陰影區域的管線。這些區域接著整合到多層道路地圖中，使用戶能夠根據距離和遮陽曝曬之間的平衡來自訂路線，進而提升戶外活動時的舒適度和健康。具體來說，我們建構了一個以圖形為基礎的道路地圖表徵，其中連結表示連通性，並透過遮陽率資料更新以進行動態路線規劃。此系統已線上實作，並附有影片示範，且將特別調整以協助旅客參加 2024 年巴黎奧運。
+
+##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
+2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
+
+This study aims to explore the implementation of Natural Language Processing
+(NLP) and machine learning (ML) techniques to automate the coding of medical
+letters with visualised explainability and light-weighted local computer
+settings. Currently in clinical settings, coding is a manual process that
+involves assigning codes to each condition, procedure, and medication in a
+patient's paperwork (e.g., 56265001 heart disease using SNOMED CT code). There
+are preliminary research on automatic coding in this field using
+state-of-the-art ML models; however, due to the complexity and size of the
+models, the real-world deployment is not achieved. To further facilitate the
+possibility of automatic coding practice, we explore some solutions in a local
+computer setting; in addition, we explore the function of explainability for
+transparency of AI models. We used the publicly available MIMIC-III database
+and the HAN/HLAN network models for ICD code prediction purposes. We also
+experimented with the mapping between ICD and SNOMED CT knowledge bases. In our
+experiments, the models provided useful information for 97.98\% of codes. The
+result of this investigation can shed some light on implementing automatic
+clinical coding in practice, such as in hospital settings, on the local
+computers used by clinicians , project page
+\url{https://github.com/Glenj01/Medical-Coding}.
+
+摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
+
+##### **End-To-End Clinical Trial Matching with Large Language Models**
+2407.13463v1 by Dyke Ferber, Lars Hilgers, Isabella C. Wiest, Marie-Elisabeth Leßmann, Jan Clusmann, Peter Neidlinger, Jiefu Zhu, Georg Wölflein, Jacqueline Lammert, Maximilian Tschochohei, Heiko Böhme, Dirk Jäger, Mihaela Aldea, Daniel Truhn, Christiane Höper, Jakob Nikolas Kather
+
+Matching cancer patients to clinical trials is essential for advancing
+treatment and patient care. However, the inconsistent format of medical free
+text documents and complex trial eligibility criteria make this process
+extremely challenging and time-consuming for physicians. We investigated
+whether the entire trial matching process - from identifying relevant trials
+among 105,600 oncology-related clinical trials on clinicaltrials.gov to
+generating criterion-level eligibility matches - could be automated using Large
+Language Models (LLMs). Using GPT-4o and a set of 51 synthetic Electronic
+Health Records (EHRs), we demonstrate that our approach identifies relevant
+candidate trials in 93.3% of cases and achieves a preliminary accuracy of 88.0%
+when matching patient-level information at the criterion level against a
+baseline defined by human experts. Utilizing LLM feedback reveals that 39.3%
+criteria that were initially considered incorrect are either ambiguous or
+inaccurately annotated, leading to a total model accuracy of 92.7% after
+refining our human baseline. In summary, we present an end-to-end pipeline for
+clinical trial matching using LLMs, demonstrating high precision in screening
+and matching trials to individual patients, even outperforming the performance
+of qualified medical doctors. Our fully end-to-end pipeline can operate
+autonomously or with human supervision and is not restricted to oncology,
+offering a scalable solution for enhancing patient-trial matching in real-world
+settings.
+
+摘要：配對癌症患者與臨床試驗對於推進治療和患者照護至關重要。然而，醫療自由文本文件格式不一致以及複雜的試驗資格標準，使得這個過程對醫師來說極具挑戰性且耗時。我們調查了整個試驗配對過程——從在 clinicaltrials.gov 上 105,600 個與腫瘤學相關的臨床試驗中找出相關試驗，到產生標準層級資格配對——是否可以使用大型語言模型 (LLM) 自動化。我們使用 GPT-4o 和一套 51 個合成的電子健康紀錄 (EHR)，證明我們的做法在 93.3% 的案例中找出相關候選試驗，並且在針對人類專家定義的基準，比對標準層級的患者層級資訊時，達到 88.0% 的初步準確度。利用 LLM 回饋顯示，最初被認為不正確的 39.3% 標準，不是模稜兩可就是註解不準確，在我們改善人類基準後，導致模型總準確度為 92.7%。總之，我們提出一個使用 LLM 的臨床試驗配對端到端管線，證明在篩選和比對試驗到個別患者時具有高精準度，甚至優於合格醫生的表現。我們完全的端到端管線可以自主運作或在人類監督下運作，且不限於腫瘤學，提供一個可擴充的解決方案，用於提升現實世界中的患者試驗配對。
+
+##### **CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**
+2407.13301v1 by Junying Chen, Chi Gui, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang
+
+The field of medical diagnosis has undergone a significant transformation
+with the advent of large language models (LLMs), yet the challenges of
+interpretability within these models remain largely unaddressed. This study
+introduces Chain-of-Diagnosis (CoD) to enhance the interpretability of
+LLM-based medical diagnostics. CoD transforms the diagnostic process into a
+diagnostic chain that mirrors a physician's thought process, providing a
+transparent reasoning pathway. Additionally, CoD outputs the disease confidence
+distribution to ensure transparency in decision-making. This interpretability
+makes model diagnostics controllable and aids in identifying critical symptoms
+for inquiry through the entropy reduction of confidences. With CoD, we
+developed DiagnosisGPT, capable of diagnosing 9604 diseases. Experimental
+results demonstrate that DiagnosisGPT outperforms other LLMs on diagnostic
+benchmarks. Moreover, DiagnosisGPT provides interpretability while ensuring
+controllability in diagnostic rigor.
+
+摘要：隨著大型語言模型 (LLM) 的出現，醫療診斷領域經歷了一場重大轉型，但這些模型的可解釋性挑戰在很大程度上仍未得到解決。本研究引入了診斷鏈 (CoD) 來增強基於 LLM 的醫療診斷的可解釋性。CoD 將診斷過程轉換為一個診斷鏈，反映了醫生的思考過程，提供了一條透明的推理路徑。此外，CoD 輸出了疾病置信度分佈，以確保決策透明度。這種可解釋性使模型診斷可控，並有助於通過置信度的熵減來識別需要詢問的關鍵症狀。使用 CoD，我們開發了 DiagnosisGPT，它能夠診斷 9604 種疾病。實驗結果表明，DiagnosisGPT 在診斷基準上優於其他 LLM。此外，DiagnosisGPT 在確保診斷嚴謹性可控性的同時提供了可解釋性。
+
+##### **NODER: Image Sequence Regression Based on Neural Ordinary Differential Equations**
+2407.13241v1 by Hao Bai, Yi Hong
+
+Regression on medical image sequences can capture temporal image pattern
+changes and predict images at missing or future time points. However, existing
+geodesic regression methods limit their regression performance by a strong
+underlying assumption of linear dynamics, while diffusion-based methods have
+high computational costs and lack constraints to preserve image topology. In
+this paper, we propose an optimization-based new framework called NODER, which
+leverages neural ordinary differential equations to capture complex underlying
+dynamics and reduces its high computational cost of handling high-dimensional
+image volumes by introducing the latent space. We compare our NODER with two
+recent regression methods, and the experimental results on ADNI and ACDC
+datasets demonstrate that our method achieves the state-of-the-art performance
+in 3D image regression. Our model needs only a couple of images in a sequence
+for prediction, which is practical, especially for clinical situations where
+extremely limited image time series are available for analysis. Our source code
+is available at https://github.com/ZedKing12138/NODER-pytorch.
+
+摘要：回歸醫療影像序列可以捕捉時間影像模式變化，並預測遺失或未來時間點的影像。然而，現有的測地線迴歸方法限制其迴歸效能，因為其強烈依賴線性動態的基本假設，而基於擴散的方法則具有很高的運算成本，而且缺乏保留影像拓撲的約束。在本文中，我們提出一個稱為 NODER 的基於最佳化的全新架構，它利用神經常微分方程式來捕捉複雜的底層動態，並透過引入潛在空間來降低處理高維度影像體積的高運算成本。我們將 NODER 與兩種最近的迴歸方法進行比較，在 ADNI 和 ACDC 資料集上的實驗結果證明，我們的模型在 3D 影像迴歸中取得了最先進的效能。我們的模型只需要序列中幾個影像即可進行預測，這很實用，特別是在臨床情況下，極其有限的影像時間序列可供分析。我們的原始程式碼可在 https://github.com/ZedKing12138/NODER-pytorch 取得。
+
 ##### **Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**
 2407.12669v1 by Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir
 
@@ -155,6 +269,30 @@ and revealing ways to improve existing human abstractions.
 
 摘要：抽象化——將特定範例概括為廣泛可重複使用的模式的過程——是人們有效處理和儲存資訊，並將其知識應用於新資料的核心。有希望的是，研究顯示 ML 模型學習跨越抽象層級的表徵，從「細領帶」和「汽車輪胎」等具體概念到「執行長」和「模型」等更一般的概念。然而，現有的技術孤立地分析這些表徵，將學習到的概念視為獨立的產物，而不是抽象的相互連結網路。因此，儘管我們可以識別模型用來產生其輸出的概念，但很難評估它是否學習到概念的人類對齊抽象，這些概念將概括到新的資料。為了解決這個差距，我們引入了抽象對齊，一種衡量模型學習的抽象與預期的抽象之間一致性的方法。我們透過將模型輸出與人類抽象圖形（例如語言關係或醫療疾病層級結構）進行比較來量化抽象對齊。在解釋影像模型、基準語言模型和分析醫療資料集的評估任務中，抽象對齊提供了對模型行為和資料集內容更深入的理解，根據與人類知識的一致性區分錯誤，擴展當前模型品質指標的詳細程度，並揭示改善現有人類抽象的方法。
 
+##### **Maintenance Strategies for Sewer Pipes with Multi-State Degradation and Deep Reinforcement Learning**
+2407.12894v1 by Lisandro A. Jimenez-Roa, Thiago D. Simão, Zaharah Bukhsh, Tiedo Tinga, Hajo Molegraaf, Nils Jansen, Marielle Stoelinga
+
+Large-scale infrastructure systems are crucial for societal welfare, and
+their effective management requires strategic forecasting and intervention
+methods that account for various complexities. Our study addresses two
+challenges within the Prognostics and Health Management (PHM) framework applied
+to sewer assets: modeling pipe degradation across severity levels and
+developing effective maintenance policies. We employ Multi-State Degradation
+Models (MSDM) to represent the stochastic degradation process in sewer pipes
+and use Deep Reinforcement Learning (DRL) to devise maintenance strategies. A
+case study of a Dutch sewer network exemplifies our methodology. Our findings
+demonstrate the model's effectiveness in generating intelligent, cost-saving
+maintenance strategies that surpass heuristics. It adapts its management
+strategy based on the pipe's age, opting for a passive approach for newer pipes
+and transitioning to active strategies for older ones to prevent failures and
+reduce costs. This research highlights DRL's potential in optimizing
+maintenance policies. Future research will aim improve the model by
+incorporating partial observability, exploring various reinforcement learning
+algorithms, and extending this methodology to comprehensive infrastructure
+management.
+
+摘要：大型基礎設施系統對社會福利至關重要，有效管理這些系統需要策略性預測和干預方法，並考量各種複雜性。我們的研究針對應用於下水道資產的預測和健康管理 (PHM) 框架中的兩個挑戰：對不同嚴重程度的管道劣化進行建模，並制定有效的維護政策。我們採用多狀態劣化模型 (MSDM) 來表示下水道管道中的隨機劣化過程，並使用深度強化學習 (DRL) 來設計維護策略。荷蘭下水道網路的案例研究說明了我們的做法。我們的研究結果證明了該模型在產生超越啟發法的智慧型節省成本維護策略方面的有效性。它根據管道的年齡調整其管理策略，選擇較新的管道採用被動方式，並轉變為較舊管道的積極策略，以防止故障並降低成本。這項研究強調了 DRL 在最佳化維護政策方面的潛力。未來的研究將旨在透過納入部分可觀察性、探索各種強化學習演算法，並將此方法擴展到全面的基礎設施管理，來改善模型。
+
 ##### **Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**
 2407.12468v2 by Marcos Fernández-Pichel, Juan C. Pichel, David E. Losada
 
@@ -177,6 +315,32 @@ hand, LLMs are quite sensitive to the input prompts, and we also found out that
 RAG leads to highly effective information seeking methods.
 
 摘要：搜尋引擎傳統上一直作為尋找資訊的主要工具。然而，新的大型語言模型 (LLM) 近期已在多項任務中展現出卓越的能力，特別是其被採用為問題解答系統正變得越來越普遍。預計未來基於 LLM 的對話系統和傳統網路引擎將持續共存，以各種方式支援最終使用者。但需要更多科學研究來探討這兩種系統在促進準確資訊搜尋方面的效能。在這項研究中，我們專注於它們在回答健康問題方面的優點。我們進行了一項廣泛的研究，比較了不同的網路搜尋引擎、LLM 和檢索增強 (RAG) 方法。我們的研究揭示了有趣的結論。例如，我們觀察到，隨著我們在排名清單中向下瀏覽，可能會回答健康問題的網頁品質並不會下降。然而，根據我們的評估，網路引擎在尋找健康問題的正確答案方面不如 LLM 準確。另一方面，LLM 對輸入提示非常敏感，我們還發現 RAG 導致高度有效的資訊搜尋方法。
+
+##### **Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**
+2407.12888v1 by Alexander R. Pelletier, Joseph Ramirez, Irsyad Adam, Simha Sankar, Yu Yan, Ding Wang, Dylan Steinecke, Wei Wang, Peipei Ping
+
+The vast amount of biomedical information available today presents a
+significant challenge for investigators seeking to digest, process, and
+understand these findings effectively. Large Language Models (LLMs) have
+emerged as powerful tools to navigate this complex and challenging data
+landscape. However, LLMs may lead to hallucinatory responses, making Retrieval
+Augmented Generation (RAG) crucial for achieving accurate information. In this
+protocol, we present RUGGED (Retrieval Under Graph-Guided Explainable disease
+Distinction), a comprehensive workflow designed to support investigators with
+knowledge integration and hypothesis generation, identifying validated paths
+forward. Relevant biomedical information from publications and knowledge bases
+are reviewed, integrated, and extracted via text-mining association analysis
+and explainable graph prediction models on disease nodes, forecasting potential
+links among drugs and diseases. These analyses, along with biomedical texts,
+are integrated into a framework that facilitates user-directed mechanism
+elucidation as well as hypothesis exploration through RAG-enabled LLMs. A
+clinical use-case demonstrates RUGGED's ability to evaluate and recommend
+therapeutics for Arrhythmogenic Cardiomyopathy (ACM) and Dilated Cardiomyopathy
+(DCM), analyzing prescribed drugs for molecular interactions and unexplored
+uses. The platform minimizes LLM hallucinations, offers actionable insights,
+and improves the investigation of novel therapeutics.
+
+摘要：<paragraph>現今大量的生物醫學資訊對試圖有效消化、處理和理解這些發現的研究人員構成重大挑戰。大型語言模型 (LLM) 已成為在這個複雜且具挑戰性的資料環境中導航的強大工具。然而，LLM 可能會導致幻覺反應，這使得檢索擴增生成 (RAG) 對於獲得準確資訊至關重要。在這個協定中，我們提出 RUGGED（圖形導引可解釋疾病區分的檢索），這是一個全面的工作流程，旨在支援研究人員進行知識整合和假設產生，找出經過驗證的進展路徑。來自出版物和知識庫的相關生物醫學資訊會透過文本探勘關聯分析和疾病節點的可解釋圖形預測模型進行檢閱、整合和萃取，預測藥物和疾病之間的潛在關聯。這些分析連同生物醫學文本會整合到一個架構中，該架構促進使用者導向的機制闡明，以及透過 RAG 啟用的 LLM 進行假設探討。一個臨床使用案例展示了 RUGGED 評估和推薦用於心律失常性心肌病變 (ACM) 和擴張型心肌病變 (DCM) 的治療方法的能力，分析處方藥物的分子交互作用和未探索的用途。這個平台將 LLM 幻覺降到最低，提供可操作的見解，並改善新治療方法的研究。</paragraph>
 
 ##### **Evaluating graph-based explanations for AI-based recommender systems**
 2407.12357v1 by Simon Delarue, Astrid Bertrand, Tiphaine Viard
@@ -2474,162 +2638,4 @@ methods. The code for the GDSM model is available at
 https://github.com/iman2693/GDSM.
 
 摘要：大腦年齡估計涉及從大腦影像預測個體的生物年齡，這對老化過程和神經退化性疾病的進展提供了寶貴的見解。對醫學影像分析進行大規模的數據集處理是一項具有挑戰性且耗時的任務。現有的方法大多依賴於大型數據集，而這些數據集難以獲得且昂貴。這些方法還需要複雜的、資源密集型的模型，這些模型具有大量的參數，需要大量的處理能力。因此，迫切需要開發創新的方法，這些方法可以在有限的數據集和高效利用計算資源的情況下實現穩健的性能。本文提出了一種稱為 GDSM（貪婪雙流模型）的新型基於切片的雙流方法，用於大腦年齡估計。這種方法解決了對大型數據集需求和計算資源密集性的限制。所提出的方法結合了大腦的局部和全局方面，從而精確關注具體的目標區域。該方法採用四個主幹根據局部和全局特徵預測年齡，並輔以一個最終模型進行年齡校正。我們的模型在僅包含 289 個受試者的 IBID 測試集中展示了 3.25 年的平均絕對誤差 (MAE)。為了證明我們的模型對任何小型數據集的穩健性，我們使用 IXI 數據集分析了所提出的方法，並在 IXI 的測試集中實現了 4.18 年的 MAE。通過利用雙流和貪婪策略，這種方法實現了高效和穩健的性能，使其與其他最先進的方法相當。GDSM 模型的代碼可在 https://github.com/iman2693/GDSM 上獲得。
-
-##### **Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**
-2407.04629v1 by Reza Averly, Xia Ning
-
-Clinical named entity recognition (NER) aims to retrieve important entities
-within clinical narratives. Recent works have demonstrated that large language
-models (LLMs) can achieve strong performance in this task. While previous works
-focus on proprietary LLMs, we investigate how open NER LLMs, trained
-specifically for entity recognition, perform in clinical NER. In this paper, we
-aim to improve them through a novel framework, entity decomposition with
-filtering, or EDF. Our key idea is to decompose the entity recognition task
-into several retrievals of sub-entity types. We also introduce a filtering
-mechanism to remove incorrect entities. Our experimental results demonstrate
-the efficacy of our framework across all metrics, models, datasets, and entity
-types. Our analysis reveals that entity decomposition can recognize previously
-missed entities with substantial improvement. We further provide a
-comprehensive evaluation of our framework and an in-depth error analysis to
-pave future works.
-
-摘要：臨床命名實體識別 (NER) 旨在擷取臨床敘述中的重要實體。最近的研究表明，大型語言模型 (LLM) 可以在此任務中實現強大的效能。雖然先前的研究專注於專有的 LLM，但我們探討了專門針對實體識別訓練的開放式 NER LLM 在臨床 NER 中的表現。在本文中，我們旨在透過一個新穎的架構來改善它們，即帶有過濾的實體分解，或 EDF。我們的關鍵想法是將實體識別任務分解為多個子實體類型的擷取。我們還引入了一個過濾機制來移除不正確的實體。我們的實驗結果證明了我們架構在所有指標、模型、資料集和實體類型中的效能。我們的分析顯示，實體分解可以識別先前遺漏的實體，並有顯著的改善。我們進一步提供了我們架構的全面評估和深入的錯誤分析，為未來的研究鋪路。
-
-##### **Variational and Explanatory Neural Networks for Encoding Cancer Profiles and Predicting Drug Responses**
-2407.04486v1 by Tianshu Feng, Rohan Gnanaolivu, Abolfazl Safikhani, Yuanhang Liu, Jun Jiang, Nicholas Chia, Alexander Partin, Priyanka Vasanthakumari, Yitan Zhu, Chen Wang
-
-Human cancers present a significant public health challenge and require the
-discovery of novel drugs through translational research. Transcriptomics
-profiling data that describes molecular activities in tumors and cancer cell
-lines are widely utilized for predicting anti-cancer drug responses. However,
-existing AI models face challenges due to noise in transcriptomics data and
-lack of biological interpretability. To overcome these limitations, we
-introduce VETE (Variational and Explanatory Transcriptomics Encoder), a novel
-neural network framework that incorporates a variational component to mitigate
-noise effects and integrates traceable gene ontology into the neural network
-architecture for encoding cancer transcriptomics data. Key innovations include
-a local interpretability-guided method for identifying ontology paths, a
-visualization tool to elucidate biological mechanisms of drug responses, and
-the application of centralized large scale hyperparameter optimization. VETE
-demonstrated robust accuracy in cancer cell line classification and drug
-response prediction. Additionally, it provided traceable biological
-explanations for both tasks and offers insights into the mechanisms underlying
-its predictions. VETE bridges the gap between AI-driven predictions and
-biologically meaningful insights in cancer research, which represents a
-promising advancement in the field.
-
-摘要：人類癌症對公共衛生構成重大挑戰，需要透過轉譯研究發現新藥物。描述腫瘤和癌細胞株分子活動的轉錄組學分析資料廣泛用於預測抗癌藥物反應。然而，現有的 AI 模型因轉錄組學資料中的雜訊和缺乏生物學可解釋性而面臨挑戰。為了克服這些限制，我們引入了 VETE（變異和解釋性轉錄組學編碼器），這是一種新穎的神經網路架構，它結合了變異組成以減輕雜訊效應，並將可追蹤的基因本體整合到神經網路架構中以編碼癌症轉錄組學資料。關鍵創新包括一種局部可解釋性引導方法，用於識別本體路徑，一種用於闡明藥物反應的生物機制的視覺化工具，以及集中式大規模超參數最佳化的應用。VETE 在癌細胞株分類和藥物反應預測方面表現出穩健的準確性。此外，它為這兩個任務提供了可追蹤的生物學解釋，並提供了對其預測背後機制的見解。VETE 彌合了 AI 驅動預測與癌症研究中具有生物學意義的見解之間的差距，這代表了該領域的一項有前途的進展。
-
-##### **Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**
-2407.04449v1 by Saeed Shurrab, Alejandro Guerra-Manzanares, Farah E. Shamout
-
-Self-supervised learning methods for medical images primarily rely on the
-imaging modality during pretraining. While such approaches deliver promising
-results, they do not leverage associated patient or scan information collected
-within Electronic Health Records (EHR). Here, we propose to incorporate EHR
-data during self-supervised pretraining with a Masked Siamese Network (MSN) to
-enhance the quality of chest X-ray representations. We investigate three types
-of EHR data, including demographic, scan metadata, and inpatient stay
-information. We evaluate our approach on three publicly available chest X-ray
-datasets, MIMIC-CXR, CheXpert, and NIH-14, using two vision transformer (ViT)
-backbones, specifically ViT-Tiny and ViT-Small. In assessing the quality of the
-representations via linear evaluation, our proposed method demonstrates
-significant improvement compared to vanilla MSN and state-of-the-art
-self-supervised learning baselines. Our work highlights the potential of
-EHR-enhanced self-supervised pre-training for medical imaging. The code is
-publicly available at: https://github.com/nyuad-cai/CXR-EHR-MSN
-
-摘要：用於醫學影像的自監督式學習方法主要依賴於預訓練期間的影像模式。雖然此類方法提供了有前景的結果，但它們並未利用電子健康記錄 (EHR) 中收集的相關患者或掃描資訊。在此，我們建議在使用蒙面連體網路 (MSN) 進行自監督預訓練期間納入 EHR 資料，以提升胸部 X 光片表徵的品質。我們探討三種類型的 EHR 資料，包括人口統計資料、掃描元資料和住院期間資訊。我們在三個公開的胸部 X 光片資料集（MIMIC-CXR、CheXpert 和 NIH-14）上評估我們的做法，使用兩個視覺轉換器 (ViT) 主幹，特別是 ViT-Tiny 和 ViT-Small。在透過線性評估來評量表徵的品質時，我們提出的方法與傳統 MSN 和最先進的自監督式學習基準相比，表現出顯著的進步。我們的研究重點說明了 EHR 增強的自監督預訓練在醫學影像方面的潛力。此程式碼可於以下網址公開取得：https://github.com/nyuad-cai/CXR-EHR-MSN
-
-##### **Query-Guided Self-Supervised Summarization of Nursing Notes**
-2407.04125v1 by Ya Gao, Hans Moen, Saila Koivusalo, Miika Koskinen, Pekka Marttinen
-
-Nursing notes, an important component of Electronic Health Records (EHRs),
-keep track of the progression of a patient's health status during a care
-episode. Distilling the key information in nursing notes through text
-summarization techniques can improve clinicians' efficiency in understanding
-patients' conditions when reviewing nursing notes. However, existing
-abstractive summarization methods in the clinical setting have often overlooked
-nursing notes and require the creation of reference summaries for supervision
-signals, which is time-consuming. In this work, we introduce QGSumm, a
-query-guided self-supervised domain adaptation framework for nursing note
-summarization. Using patient-related clinical queries as guidance, our approach
-generates high-quality, patient-centered summaries without relying on reference
-summaries for training. Through automatic and manual evaluation by an expert
-clinician, we demonstrate the strengths of our approach compared to the
-state-of-the-art Large Language Models (LLMs) in both zero-shot and few-shot
-settings. Ultimately, our approach provides a new perspective on conditional
-text summarization, tailored to the specific interests of clinical personnel.
-
-摘要：護理記錄是電子健康紀錄 (EHR) 的重要組成部分，
-在照護過程中追蹤病患的健康狀態進展。利用文字摘要技術提煉護理記錄中的關鍵資訊，可以提升臨床醫師在檢視護理記錄時了解病患狀況的效率。然而，現有的臨床摘要方法常常忽略護理記錄，且需要建立參考摘要作為監督訊號，這非常耗時。在這項工作中，我們提出 QGSumm，一個用於護理記錄摘要的查詢引導式自我監督領域適應架構。我們的做法使用與病患相關的臨床查詢作為指引，在訓練中不依賴參考摘要，就能產生高品質、以病患為中心的摘要。透過專家臨床醫師的自動和手動評估，我們展示了我們的方法與最先進的大語言模型 (LLM) 相比在零次學習和少次學習設定中的優勢。最終，我們的做法為條件式文字摘要提供了新的觀點，專門針對臨床人員的特定興趣量身打造。
-
-##### **MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis**
-2407.04106v1 by Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deyao Zhu, Ahmed Alsinan, Mohamed Elhoseiny
-
-Recent advancements in artificial intelligence (AI) have precipitated
-significant breakthroughs in healthcare, particularly in refining diagnostic
-procedures. However, previous studies have often been constrained to limited
-functionalities. This study introduces MiniGPT-Med, a vision-language model
-derived from large-scale language models and tailored for medical applications.
-MiniGPT-Med demonstrates remarkable versatility across various imaging
-modalities, including X-rays, CT scans, and MRIs, enhancing its utility. The
-model is capable of performing tasks such as medical report generation, visual
-question answering (VQA), and disease identification within medical imagery.
-Its integrated processing of both image and textual clinical data markedly
-improves diagnostic accuracy. Our empirical assessments confirm MiniGPT-Med's
-superior performance in disease grounding, medical report generation, and VQA
-benchmarks, representing a significant step towards reducing the gap in
-assisting radiology practice. Furthermore, it achieves state-of-the-art
-performance on medical report generation, higher than the previous best model
-by 19\% accuracy. MiniGPT-Med promises to become a general interface for
-radiology diagnoses, enhancing diagnostic efficiency across a wide range of
-medical imaging applications.
-
-摘要：隨著人工智慧 (AI) 的最新進展，醫療保健領域出現了顯著的突破，特別是在改善診斷程序方面。然而，先前的研究通常僅限於有限的功能。這項研究引入了 MiniGPT-Med，這是一種源自大規模語言模型且專為醫療應用而設計的視覺語言模型。MiniGPT-Med 在各種影像模式中展現出非凡的多功能性，包括 X 光、電腦斷層掃描和 MRI，進而增強其效用。該模型能夠執行諸如醫療報告生成、視覺問答 (VQA) 和醫療影像中的疾病識別等任務。它將影像和文字臨床資料整合處理，顯著提高了診斷準確性。我們的實證評估證實了 MiniGPT-Med 在疾病基礎、醫療報告生成和 VQA 基準上的優異表現，這代表了縮小協助放射診斷實務差距的重要一步。此外，它在醫療報告生成方面達到了最先進的表現，比先前的最佳模型高出 19% 的準確度。MiniGPT-Med 有望成為放射診斷的通用介面，進而提升各種醫療影像應用中的診斷效率。
-
-##### **Mechanisms for Data Sharing in Collaborative Causal Inference (Extended Version)**
-2407.11032v1 by Björn Filter, Ralf Möller, Özgür Lütfü Özçep
-
-Collaborative causal inference (CCI) is a federated learning method for
-pooling data from multiple, often self-interested, parties, to achieve a common
-learning goal over causal structures, e.g. estimation and optimization of
-treatment variables in a medical setting. Since obtaining data can be costly
-for the participants and sharing unique data poses the risk of losing
-competitive advantages, motivating the participation of all parties through
-equitable rewards and incentives is necessary. This paper devises an evaluation
-scheme to measure the value of each party's data contribution to the common
-learning task, tailored to causal inference's statistical demands, by comparing
-completed partially directed acyclic graphs (CPDAGs) inferred from
-observational data contributed by the participants. The Data Valuation Scheme
-thus obtained can then be used to introduce mechanisms that incentivize the
-agents to contribute data. It can be leveraged to reward agents fairly,
-according to the quality of their data, or to maximize all agents' data
-contributions.
-
-摘要：協作因果推論 (CCI) 是一種聯邦學習方法，用於彙整來自多個通常是自利方數據，以達成因果結構的共同學習目標，例如在醫療環境中估計和最佳化治療變數。由於取得數據對參與者來說可能是昂貴的，而分享獨特數據會造成失去競爭優勢的風險，因此透過公平的獎勵和誘因來激勵所有方的參與是必要的。本文設計了一個評估方案，用於衡量每個方數據貢獻對共同學習任務的價值，針對因果推論的統計需求進行調整，方法是比較參與者貢獻的觀察數據推論出的已完成部分導向無環圖 (CPDAG)。因此，取得的數據估值方案可進一步用於引入機制，以激勵代理人貢獻數據。它可被用於根據數據品質公平獎勵代理人，或最大化所有代理人的數據貢獻。
-
-##### **Unsupervised Analysis of Alzheimer's Disease Signatures using 3D Deformable Autoencoders**
-2407.03863v1 by Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, Cosmin I. Bercea
-
-With the increasing incidence of neurodegenerative diseases such as
-Alzheimer's Disease (AD), there is a need for further research that enhances
-detection and monitoring of the diseases. We present MORPHADE (Morphological
-Autoencoders for Alzheimer's Disease Detection), a novel unsupervised learning
-approach which uses deformations to allow the analysis of 3D T1-weighted brain
-images. To the best of our knowledge, this is the first use of deformations
-with deep unsupervised learning to not only detect, but also localize and
-assess the severity of structural changes in the brain due to AD. We obtain
-markedly higher anomaly scores in clinically important areas of the brain in
-subjects with AD compared to healthy controls, showcasing that our method is
-able to effectively locate AD-related atrophy. We additionally observe a visual
-correlation between the severity of atrophy highlighted in our anomaly maps and
-medial temporal lobe atrophy scores evaluated by a clinical expert. Finally,
-our method achieves an AUROC of 0.80 in detecting AD, out-performing several
-supervised and unsupervised baselines. We believe our framework shows promise
-as a tool towards improved understanding, monitoring and detection of AD. To
-support further research and application, we have made our code publicly
-available at github.com/ci-ber/MORPHADE.
-
-摘要：隨著神經退行性疾病（例如阿茲海默症）的發生率增加，需要進一步的研究來加強對這些疾病的偵測和監控。我們提出 MORPHADE（阿茲海默症偵測的形態自動編碼器），這是一種新穎的無監督學習方法，它使用變形來分析 3D T1 加權腦部影像。據我們所知，這是首次將變形與深度無監督學習結合使用，不僅可以偵測，還可以定位和評估阿茲海默症導致的腦部結構變化嚴重程度。我們在阿茲海默症受試者的腦部臨床上重要區域獲得顯著更高的異常分數，與健康對照組相比，顯示我們的模型能夠有效定位與阿茲海默症相關的萎縮。此外，我們觀察到異常圖中突出的萎縮嚴重程度與臨床專家評估的內側顳葉萎縮分數之間存在視覺相關性。最後，我們的模型在偵測阿茲海默症方面達到了 0.80 的 AUROC，優於多個監督式和無監督式基準。我們相信我們的架構顯示出有望成為改善阿茲海默症理解、監控和偵測的工具。為了支持進一步的研究和應用，我們已在 github.com/ci-ber/MORPHADE 公開我們的程式碼。
 

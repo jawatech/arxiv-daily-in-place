@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
 |**2024-07-01**|**The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**|Ximing Wen et.al.|[2407.06206v1](http://arxiv.org/abs/2407.06206v1)|null|
@@ -101,9 +102,33 @@
 |**2023-02-06**|**LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease Assessment from Fundus Images**|Nooshin Yousefzadeh et.al.|[2302.03008v2](http://arxiv.org/abs/2302.03008v2)|null|
 |**2023-02-02**|**Diagrammatization: Rationalizing with diagrammatic AI explanations for abductive-deductive reasoning on hypotheses**|Brian Y. Lim et.al.|[2302.01241v2](http://arxiv.org/abs/2302.01241v2)|null|
 |**2023-02-02**|**LesionAid: Vision Transformers-based Skin Lesion Generation and Classification**|Ghanta Sai Krishna et.al.|[2302.01104v1](http://arxiv.org/abs/2302.01104v1)|null|
-|**2023-02-01**|**SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis**|Roxana Daneshjou et.al.|[2302.00785v1](http://arxiv.org/abs/2302.00785v1)|null|
 
 #### Abstracts
+##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
+2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
+
+This study aims to explore the implementation of Natural Language Processing
+(NLP) and machine learning (ML) techniques to automate the coding of medical
+letters with visualised explainability and light-weighted local computer
+settings. Currently in clinical settings, coding is a manual process that
+involves assigning codes to each condition, procedure, and medication in a
+patient's paperwork (e.g., 56265001 heart disease using SNOMED CT code). There
+are preliminary research on automatic coding in this field using
+state-of-the-art ML models; however, due to the complexity and size of the
+models, the real-world deployment is not achieved. To further facilitate the
+possibility of automatic coding practice, we explore some solutions in a local
+computer setting; in addition, we explore the function of explainability for
+transparency of AI models. We used the publicly available MIMIC-III database
+and the HAN/HLAN network models for ICD code prediction purposes. We also
+experimented with the mapping between ICD and SNOMED CT knowledge bases. In our
+experiments, the models provided useful information for 97.98\% of codes. The
+result of this investigation can shed some light on implementing automatic
+clinical coding in practice, such as in hospital settings, on the local
+computers used by clinicians , project page
+\url{https://github.com/Glenj01/Medical-Coding}.
+
+摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
+
 ##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
 2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier
 
@@ -2527,35 +2552,4 @@ determine the cause of the skin lesion. The whole framework is compared with
 the existing frameworks for skin lesion detection.
 
 摘要：皮膚癌是人類最普遍的癌症類型之一。它的識別主要依賴視覺，從臨床篩檢開始，接著是皮膚鏡檢查、組織學評估，以及檢體收集。深度卷積神經網路 (CNN) 可針對分類的細粒度物件執行高度區隔且潛在通用的任務。本研究提出一個新穎的多類別預測架構，它以 ViT 和 ViTGAN 為基礎對皮膚病灶進行分類。基於視覺轉換器的 GAN（生成對抗網路）用於解決類別不平衡問題。此架構包含四個主要階段：ViTGAN、影像處理和可解釋 AI。第一階段包括產生合成影像，以平衡資料集中的所有類別。第二階段包括應用不同的資料擴充技術和形態運算，以增加資料大小。第三和第四階段涉及開發適用於邊緣運算系統的 ViT 模型，該模型可以識別圖案，並對影像中用戶皮膚可見的皮膚病灶進行分類。在第三階段，在使用 ViT 將病灶分類到所需的類別後，我們將使用可解釋 AI (XAI)，它會產生更具可解釋性的結果（使用啟用圖等），同時確保高預測準確度。皮膚疾病的即時影像可以用行動應用程式的相機由醫生或患者擷取，以執行早期檢查並確定皮膚病灶的原因。整個架構與現有的皮膚病灶偵測架構進行比較。
-
-##### **SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis**
-2302.00785v1 by Roxana Daneshjou, Mert Yuksekgonul, Zhuo Ran Cai, Roberto Novoa, James Zou
-
-For the deployment of artificial intelligence (AI) in high-risk settings,
-such as healthcare, methods that provide interpretability/explainability or
-allow fine-grained error analysis are critical. Many recent methods for
-interpretability/explainability and fine-grained error analysis use concepts,
-which are meta-labels that are semantically meaningful to humans. However,
-there are only a few datasets that include concept-level meta-labels and most
-of these meta-labels are relevant for natural images that do not require domain
-expertise. Densely annotated datasets in medicine focused on meta-labels that
-are relevant to a single disease such as melanoma. In dermatology, skin disease
-is described using an established clinical lexicon that allows clinicians to
-describe physical exam findings to one another. To provide a medical dataset
-densely annotated by domain experts with annotations useful across multiple
-disease processes, we developed SkinCon: a skin disease dataset densely
-annotated by dermatologists. SkinCon includes 3230 images from the Fitzpatrick
-17k dataset densely annotated with 48 clinical concepts, 22 of which have at
-least 50 images representing the concept. The concepts used were chosen by two
-dermatologists considering the clinical descriptor terms used to describe skin
-lesions. Examples include "plaque", "scale", and "erosion". The same concepts
-were also used to label 656 skin disease images from the Diverse Dermatology
-Images dataset, providing an additional external dataset with diverse skin tone
-representations. We review the potential applications for the SkinCon dataset,
-such as probing models, concept-based explanations, and concept bottlenecks.
-Furthermore, we use SkinCon to demonstrate two of these use cases: debugging
-mistakes of an existing dermatology AI model with concepts and developing
-interpretable models with post-hoc concept bottleneck models.
-
-摘要：<paragraph>在高風險環境中部署人工智慧 (AI)（例如醫療保健），提供可解釋性/可說明性的方法或允許精細錯誤分析非常重要。許多近期用於可解釋性/可說明性和精細錯誤分析的方法都使用概念，這些概念是對人類具有語義意義的元標籤。然而，只有少數資料集包含概念層級的元標籤，而且這些元標籤大多與不需要領域專業知識的自然影像相關。專注於單一疾病（例如黑色素瘤）的元標籤的醫學密集標記資料集。在皮膚科中，皮膚疾病的描述使用既定的臨床詞彙，讓臨床醫生可以彼此描述身體檢查結果。為了提供由領域專家密集標記的醫學資料集，其中包含可跨多種疾病過程使用的標記，我們開發了 SkinCon：由皮膚科醫師密集標記的皮膚疾病資料集。SkinCon 包含來自 Fitzpatrick 17k 資料集的 3230 張影像，密集標記了 48 個臨床概念，其中 22 個概念至少有 50 張影像代表該概念。所使用的概念是由兩位皮膚科醫師在考量用於描述皮膚病變的臨床描述詞彙後選出的。範例包括「斑塊」、「鱗屑」和「糜爛」。相同的概念也用於標記來自 Diverse Dermatology Images 資料集的 656 張皮膚疾病影像，提供具有多樣膚色表示的額外外部資料集。我們檢視 SkinCon 資料集的潛在應用，例如探測模型、基於概念的說明和概念瓶頸。此外，我們使用 SkinCon 來展示這兩個使用案例：使用概念除錯現有皮膚科 AI 模型的錯誤，以及使用事後概念瓶頸模型開發可解釋的模型。</paragraph>
 

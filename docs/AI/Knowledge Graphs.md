@@ -2,10 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v1](http://arxiv.org/abs/2407.12703v1)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v1](http://arxiv.org/abs/2407.12068v1)|null|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
@@ -25,6 +27,7 @@
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
+|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|null|
 |**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
 |**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723v1](http://arxiv.org/abs/2407.06723v1)|null|
@@ -40,6 +43,7 @@
 |**2024-07-04**|**Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**|Peiran Yao et.al.|[2407.04067v1](http://arxiv.org/abs/2407.04067v1)|[link](https://github.com/U-Alberta/AMRS3)|
 |**2024-07-04**|**Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**|Lei Yu et.al.|[2407.03779v1](http://arxiv.org/abs/2407.03779v1)|null|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**Knowledge-based Consistency Testing of Large Language Models**|Sai Sathiesh Rajan et.al.|[2407.12830v1](http://arxiv.org/abs/2407.12830v1)|null|
 |**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
 |**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
@@ -98,12 +102,29 @@
 |**2024-06-19**|**Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration**|Han-Cheng Yu et.al.|[2406.13578v1](http://arxiv.org/abs/2406.13578v1)|null|
 |**2024-06-19**|**LangTopo: Aligning Language Descriptions of Graphs with Tokenized Topological Modeling**|Zhong Guan et.al.|[2406.13250v1](http://arxiv.org/abs/2406.13250v1)|null|
 |**2024-06-19**|**Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235v1](http://arxiv.org/abs/2406.13235v1)|null|
-|**2024-06-19**|**Bridging Law and Data: Augmenting Reasoning via a Semi-Structured Dataset with IRAC methodology**|Xiaoxi Kang et.al.|[2406.13217v1](http://arxiv.org/abs/2406.13217v1)|null|
-|**2024-06-19**|**PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**|He Cao et.al.|[2406.13193v1](http://arxiv.org/abs/2406.13193v1)|[link](https://github.com/idea-xl/presto)|
-|**2024-06-19**|**QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism**|Bo Wang et.al.|[2406.13167v1](http://arxiv.org/abs/2406.13167v1)|null|
-|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
 
 #### Abstracts
+##### **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
+2407.13699v1 by Shaina Raza, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, Amirmohammad Kazemeini
+
+Recommender Systems (RS) play an integral role in enhancing user experiences
+by providing personalized item suggestions. This survey reviews the progress in
+RS inclusively from 2017 to 2024, effectively connecting theoretical advances
+with practical applications. We explore the development from traditional RS
+techniques like content-based and collaborative filtering to advanced methods
+involving deep learning, graph-based models, reinforcement learning, and large
+language models. We also discuss specialized systems such as context-aware,
+review-based, and fairness-aware RS. The primary goal of this survey is to
+bridge theory with practice. It addresses challenges across various sectors,
+including e-commerce, healthcare, and finance, emphasizing the need for
+scalable, real-time, and trustworthy solutions. Through this survey, we promote
+stronger partnerships between academic research and industry practices. The
+insights offered by this survey aim to guide industry professionals in
+optimizing RS deployment and to inspire future research directions, especially
+in addressing emerging technological and societal trends
+
+摘要：推薦系統 (RS) 在提升使用者體驗中扮演著不可或缺的角色，透過提供個人化的商品建議。這項調查回顧了 RS 在 2017 年到 2024 年間的進展，有效地將理論進展與實際應用連結起來。我們探討了從傳統的 RS 技術，例如基於內容和協同過濾，到涉及深度學習、基於圖形的模型、強化學習和大語言模型等先進方法的發展。我們也討論了專門的系統，例如情境感知、基於評論和公平感知的 RS。這項調查的主要目標是將理論與實務結合起來。它解決了各個領域的挑戰，包括電子商務、醫療保健和金融，強調了對可擴充、即時和可信賴的解決方案的需求。透過這項調查，我們促進了學術研究和產業實務之間更強大的夥伴關係。這項調查提供的見解旨在引導產業專業人士優化 RS 部署，並激勵未來的研究方向，特別是在解決新興的技術和社會趨勢方面。
+
 ##### **Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**
 2407.12725v1 by Ben Yao, Yazhou Zhang, Qiuchi Li, Jing Qin
 
@@ -194,6 +215,32 @@ of structured data augmentation in improving LLM inference with complex input
 context.
 
 摘要：結構化資料富含邏輯和關係資訊，有潛力增強大型語言模型 (LLM) 的推理能力。儘管如此，由於過多符號和無關脈絡資訊可能會讓 LLM 不堪負荷，因此整合此類資料構成了一項挑戰。為了解決此問題，我們提出 Struct-X，這是一個透過五個關鍵階段運作的新穎架構：``讀取-建模-填補-反思-推理''，有效地讓 LLM 能夠利用結構化資料。它首先使用圖形嵌入將結構化資料編碼到拓撲空間中，接著利用知識擷取模組填補遺失的實體資訊，並透過自我監督模組篩選出無關符號。最後一個階段涉及建構一個拓撲網路，其中包含選定的符號，以進一步減少總符號長度，以便更有效地進行 LLM 推論。此外，Struct-X 還包括一個輔助模組，經過訓練可以產生提示，協助 LLM 分析結構化資料。在基準上的大量實驗，包括知識圖譜問答任務和長篇文件閱讀理解任務，顯示 Struct-X 明顯改善了 LLM 推理，證明了結構化資料擴充在改善 LLM 推論時的有效性，特別是在輸入脈絡複雜的情況下。
+
+##### **Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**
+2407.12888v1 by Alexander R. Pelletier, Joseph Ramirez, Irsyad Adam, Simha Sankar, Yu Yan, Ding Wang, Dylan Steinecke, Wei Wang, Peipei Ping
+
+The vast amount of biomedical information available today presents a
+significant challenge for investigators seeking to digest, process, and
+understand these findings effectively. Large Language Models (LLMs) have
+emerged as powerful tools to navigate this complex and challenging data
+landscape. However, LLMs may lead to hallucinatory responses, making Retrieval
+Augmented Generation (RAG) crucial for achieving accurate information. In this
+protocol, we present RUGGED (Retrieval Under Graph-Guided Explainable disease
+Distinction), a comprehensive workflow designed to support investigators with
+knowledge integration and hypothesis generation, identifying validated paths
+forward. Relevant biomedical information from publications and knowledge bases
+are reviewed, integrated, and extracted via text-mining association analysis
+and explainable graph prediction models on disease nodes, forecasting potential
+links among drugs and diseases. These analyses, along with biomedical texts,
+are integrated into a framework that facilitates user-directed mechanism
+elucidation as well as hypothesis exploration through RAG-enabled LLMs. A
+clinical use-case demonstrates RUGGED's ability to evaluate and recommend
+therapeutics for Arrhythmogenic Cardiomyopathy (ACM) and Dilated Cardiomyopathy
+(DCM), analyzing prescribed drugs for molecular interactions and unexplored
+uses. The platform minimizes LLM hallucinations, offers actionable insights,
+and improves the investigation of novel therapeutics.
+
+摘要：<paragraph>現今大量的生物醫學資訊對試圖有效消化、處理和理解這些發現的研究人員構成重大挑戰。大型語言模型 (LLM) 已成為在這個複雜且具挑戰性的資料環境中導航的強大工具。然而，LLM 可能會導致幻覺反應，這使得檢索擴增生成 (RAG) 對於獲得準確資訊至關重要。在這個協定中，我們提出 RUGGED（圖形導引可解釋疾病區分的檢索），這是一個全面的工作流程，旨在支援研究人員進行知識整合和假設產生，找出經過驗證的進展路徑。來自出版物和知識庫的相關生物醫學資訊會透過文本探勘關聯分析和疾病節點的可解釋圖形預測模型進行檢閱、整合和萃取，預測藥物和疾病之間的潛在關聯。這些分析連同生物醫學文本會整合到一個架構中，該架構促進使用者導向的機制闡明，以及透過 RAG 啟用的 LLM 進行假設探討。一個臨床使用案例展示了 RUGGED 評估和推薦用於心律失常性心肌病變 (ACM) 和擴張型心肌病變 (DCM) 的治療方法的能力，分析處方藥物的分子交互作用和未探索的用途。這個平台將 LLM 幻覺降到最低，提供可操作的見解，並改善新治療方法的研究。</paragraph>
 
 ##### **A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**
 2407.11638v1 by He Chang, Chenchen Ye, Zhulin Tao, Jie Wu, Zhengmao Yang, Yunshan Ma, Xianglin Huang, Tat-Seng Chua
@@ -665,6 +712,24 @@ generated.
 
 摘要：<paragraph>對於基於文字的人工智慧系統與真實世界互動來說，因果推理是一項必要的技能。由於介入資料的產生成本很高，我們研究一位代理人從被動資料中學習因果推理的程度。具體來說，我們考慮一個公理訓練設置，其中一位代理人從因果公理（或規則）的多個示範中學習，而不是將公理作為歸納偏誤或從資料值中推斷出來。一個關鍵問題是代理人是否會學會從公理示範推廣到新的場景。例如，如果一個Transformer模型在小圖表上因果傳遞性公理的示範中接受訓練，它是否會推廣到在大圖表上應用傳遞性公理？我們的結果基於一個新穎的公理訓練方案，表明這樣的概括是可能的。我們考慮推論一個變數是否導致另一個變數的任務，給定一個因果圖結構。我們發現一個 6700 萬個參數的Transformer模型，在線性因果鏈（以及一些雜訊變化）上訓練時，可以很好地概括到新類型的圖形，包括更長的因果鏈、順序相反的因果鏈和具有分支的圖形；即使它沒有針對此類設置進行明確訓練。我們的模型表現與許多較大的語言模型（例如 GPT-4、Gemini Pro 和 Phi-3）相當（甚至更好）。總體而言，我們的公理訓練框架提供了一個從被動資料中學習因果推理的新範例，只要可以產生足夠的示範，就可以用於學習任意公理。</paragraph>
 
+##### **STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**
+2407.12860v1 by Aaron Zolnai-Lucas, Jack Boylan, Chris Hokamp, Parsa Ghaffari
+
+We present Simplified Text-Attributed Graph Embeddings (STAGE), a
+straightforward yet effective method for enhancing node features in Graph
+Neural Network (GNN) models that encode Text-Attributed Graphs (TAGs). Our
+approach leverages Large-Language Models (LLMs) to generate embeddings for
+textual attributes. STAGE achieves competitive results on various node
+classification benchmarks while also maintaining a simplicity in implementation
+relative to current state-of-the-art (SoTA) techniques. We show that utilizing
+pre-trained LLMs as embedding generators provides robust features for ensemble
+GNN training, enabling pipelines that are simpler than current SoTA approaches
+which require multiple expensive training and prompting stages. We also
+implement diffusion-pattern GNNs in an effort to make this pipeline scalable to
+graphs beyond academic benchmarks.
+
+摘要：我們提出了簡化文字屬性圖嵌入 (STAGE)，這是一種直接但有效的方法，用於增強圖神經網路 (GNN) 模型中的節點特徵，這些模型會編碼文字屬性圖 (TAG)。我們的做法利用大型語言模型 (LLM) 來為文字屬性產生嵌入。STAGE 在各種節點分類基準上取得了有競爭力的結果，同時在實作上也維持了簡潔性，相較於目前的技術水準 (SoTA)。我們展示了使用預訓練的 LLM 作為嵌入產生器，可為整體 GNN 訓練提供強健的特徵，進而建構比目前 SoTA 做法更簡單的管道，而後者需要多個昂貴的訓練和提示階段。我們也實作了擴散模式 GNN，以期讓這個管道能擴充到學術基準之外的圖形。
+
 ##### **GLBench: A Comprehensive Benchmark for Graph with Large Language Models**
 2407.07457v2 by Yuhan Li, Peisong Wang, Xiao Zhu, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
@@ -1031,6 +1096,25 @@ tasks, tell BACON as a lifeline to achieve previous out-of-reach tasks or excel
 in their current cutting-edge solutions.
 
 摘要：本文提出 Bag-of-Concept Graph (BACON)，赋予语言能力有限的模型品尝视觉语言模型 (VLM) 的特权，并提升下游任务，例如检测、视觉问答 (VQA) 和图像生成。由于物理世界中的视觉场景是由对象之间的复杂关系构建而成的，因此 BACON 将注释分解为基本的最小元素，并以图形结构呈现它们。基于元素的风格便于理解，结构化组合解放了困难的定位。在公共可用 VLM 和分割方法的帮助下，精心设计的提示生成了 BACON 标题。通过这种方式，我们收集了一个包含 100K 张注释图像的数据集，该数据集赋予 VLM 显著的能力，例如准确生成 BACON、将提示转换为 BACON 格式、以 BACONr 的风格设想场景，以及通过交互式对话动态修改 BACON 中的元素等等。广泛的代表性实验，包括检测、VQA 和图像生成任务，表明 BACON 作为一条生命线，可以实现以前无法实现的任务，或在当前的尖端解决方案中表现出色。
+
+##### **Knowledge-based Consistency Testing of Large Language Models**
+2407.12830v1 by Sai Sathiesh Rajan, Ezekiel Soremekun, Sudipta Chattopadhyay
+
+In this work, we systematically expose and measure the inconsistency and
+knowledge gaps of Large Language Models (LLMs). Specifically, we propose an
+automated testing framework (called KONTEST) which leverages a knowledge graph
+to construct test cases. KONTEST probes and measures the inconsistencies in the
+LLM's knowledge of the world via a combination of semantically-equivalent
+queries and test oracles (metamorphic or ontological oracle). KONTEST further
+mitigates knowledge gaps via a weighted LLM model ensemble. Using four
+state-of-the-art LLMs (Falcon, Gemini, GPT3.5, and Llama2), we show that
+KONTEST generates 19.2% error inducing inputs (1917 errors from 9983 test
+inputs). It also reveals a 16.5% knowledge gap across all tested LLMs.
+KONTEST's mitigation method reduces LLM knowledge gap by 32.48%. Our ablation
+study further shows that GPT3.5 is not suitable for knowledge-based consistency
+testing because it is only 60%-68% effective in knowledge construction.
+
+摘要：在這項工作中，我們系統性地揭露並衡量大型語言模型 (LLM) 的不一致性和知識差距。具體來說，我們提出了一個自動化測試框架 (稱為 KONTEST)，它利用知識圖譜來建構測試案例。KONTEST 通過語義等效查詢和測試預言 (變形或本體論預言) 的組合來探測和衡量 LLM 對世界知識的不一致性。KONTEST 進一步通過加權 LLM 模型集成來緩解知識差距。使用四種最先進的 LLM（Falcon、Gemini、GPT3.5 和 Llama2），我們表明 KONTEST 生成了 19.2% 的錯誤誘發輸入（9983 個測試輸入中的 1917 個錯誤）。它還揭示了所有測試的 LLM 中有 16.5% 的知識差距。KONTEST 的緩解方法將 LLM 知識差距減少了 32.48%。我們的消融研究進一步表明，GPT3.5 不適合用於基於知識的一致性測試，因為它在知識建構中只有 60%-68% 的有效性。
 
 ##### **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**
 2407.02936v1 by Zike Yuan, Ming Liu, Hui Wang, Bing Qin
@@ -2418,87 +2502,4 @@ GAL-Rec significantly enhances the comprehension of collaborative semantics,
 and improves recommendation performance.
 
 摘要：大型語言模型（LLM）在推薦系統領域中越來越突出。現有研究通常利用情境學習或在特定任務數據上進行監督微調，以將 LLM 調整為建議。然而，語言處理任務和推薦任務之間語義空間的實質性偏差構成了不可忽視的挑戰。具體來說，現有的建模範例在缺乏協作信息的充分捕獲能力的情況下，難以捕捉社群群組內的行為模式，導致 LLM 無法在推薦場景中辨識隱含的互動語義。為了解決這個問題，我們考慮增強語言模型驅動推薦模型對結構化數據的學習能力，特別是通過利用富含協作語義的交互圖。我們提出了一個圖感知語言模型驅動推薦學習（GAL-Rec）。GAL-Rec 通過模仿圖神經網路（GNN）聚合多跳信息的意圖來增強對使用者項目協作語義的理解，從而充分利用 LLM 的實質性學習能力來獨立處理推薦系統中的複雜圖。在三個真實世界數據集上進行的充分實驗結果表明，GAL-Rec 大大增強了對協作語義的理解，並改善了推薦性能。
-
-##### **Bridging Law and Data: Augmenting Reasoning via a Semi-Structured Dataset with IRAC methodology**
-2406.13217v1 by Xiaoxi Kang, Lizhen Qu, Lay-Ki Soon, Zhuang Li, Adnan Trakic
-
-The effectiveness of Large Language Models (LLMs) in legal reasoning is often
-limited due to the unique legal terminologies and the necessity for highly
-specialized knowledge. These limitations highlight the need for high-quality
-data tailored for complex legal reasoning tasks. This paper introduces
-LEGALSEMI, a benchmark specifically curated for legal scenario analysis.
-LEGALSEMI comprises 54 legal scenarios, each rigorously annotated by legal
-experts, based on the comprehensive IRAC (Issue, Rule, Application, Conclusion)
-framework. In addition, LEGALSEMI is accompanied by a structured knowledge
-graph (SKG). A series of experiments were conducted to assess the usefulness of
-LEGALSEMI for IRAC analysis. The experimental results demonstrate the
-effectiveness of incorporating the SKG for issue identification, rule
-retrieval, application and conclusion generation using four different LLMs.
-LEGALSEMI will be publicly available upon acceptance of this paper.
-
-摘要：大型語言模型 (LLM) 在法律推理中的有效性通常受到獨特的法律術語和高度專業知識的必要性的限制。這些限制突顯了針對複雜法律推理任務量身打造的高品質資料的需求。本文介紹 LEGALSEMI，這是一個專門為法律情境分析策劃的基準。LEGALSEMI 包含 54 個法律情境，每個情境都經過法律專家根據全面的 IRAC（問題、規則、應用、結論）架構嚴格註解。此外，LEGALSEMI 還附帶一個結構化的知識圖譜 (SKG)。進行了一系列實驗來評估 LEGALSEMI 對 IRAC 分析的有用性。實驗結果證明了將 SKG 納入問題識別、規則檢索、應用和結論生成中的有效性，使用了四種不同的 LLM。LEGALSEMI 將在本文獲接受後公開。
-
-##### **PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**
-2406.13193v1 by He Cao, Yanjun Shao, Zhiyuan Liu, Zijing Liu, Xiangru Tang, Yuan Yao, Yu Li
-
-Multimodal Large Language Models (MLLMs) have seen growing adoption across
-various scientific disciplines. These advancements encourage the investigation
-of molecule-text modeling within synthetic chemistry, a field dedicated to
-designing and conducting chemical reactions to synthesize new compounds with
-desired properties and applications. Current approaches, however, often neglect
-the critical role of multiple molecule graph interaction in understanding
-chemical reactions, leading to suboptimal performance in synthetic chemistry
-tasks. This study introduces PRESTO(Progressive Pretraining Enhances Synthetic
-Chemistry Outcomes), a new framework that bridges the molecule-text modality
-gap by integrating a comprehensive benchmark of pretraining strategies and
-dataset configurations. It progressively improves multimodal LLMs through
-cross-modal alignment and multi-graph understanding. Our extensive experiments
-demonstrate that PRESTO offers competitive results in downstream synthetic
-chemistry tasks. The code can be found at https://github.com/IDEA-XL/PRESTO.
-
-摘要：多模态大型语言模型（MLLM）在各个科学学科中逐渐被采用。这些进步促进了合成化学中分子文本建模的研究，合成化学致力于设计和进行化学反应以合成具有所需性质和应用的新化合物。然而，当前的方法通常忽略了多个分子图相互作用在理解化学反应中的关键作用，导致在合成化学任务中的性能不佳。本研究介绍了 PRESTO（渐进式预训练增强合成化学成果），这是一个新的框架，通过整合预训练策略和数据集配置的综合基准来弥合理分子文本模态差距。它通过跨模态对齐和多图理解逐步改进多模态 LLM。我们的广泛实验表明，PRESTO 在下游合成化学任务中提供了有竞争力的结果。代码可在 https://github.com/IDEA-XL/PRESTO 中找到。
-
-##### **QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism**
-2406.13167v1 by Bo Wang, Heyan Huang, Yixin Cao, Jiahao Ying, Wei Tang, Chong Feng
-
-While large language models (LLMs) have made notable advancements in natural
-language processing, they continue to struggle with processing extensive text.
-Memory mechanism offers a flexible solution for managing long contexts,
-utilizing techniques such as compression, summarization, and structuring to
-facilitate nuanced and efficient handling of large volumes of text. However,
-existing techniques face challenges with static knowledge integration, leading
-to insufficient adaptation to task-specific needs and missing
-multi-segmentation relationships, which hinders the dynamic reorganization and
-logical combination of relevant segments during the response process. To
-address these issues, we introduce a novel strategy, Question then Reflection
-Memory Mechanism (QRMeM), incorporating a dual-structured memory pool. This
-pool synergizes static textual content with structured graph guidance,
-fostering a reflective trial-and-error approach for navigating and identifying
-relevant segments. Our evaluation across multiple-choice questions (MCQ) and
-multi-document question answering (Multi-doc QA) benchmarks showcases QRMeM
-enhanced performance compared to existing approaches.
-
-摘要：儘管大型語言模型 (LLM) 在自然語言處理方面取得顯著進展，但它們在處理大量文字時仍面臨困難。記憶機制提供了一個靈活的解決方案，用於管理長篇脈絡，利用壓縮、摘要和結構化等技術，以促進對大量文字的細緻且有效率的處理。然而，現有技術在靜態知識整合方面面臨挑戰，導致無法充分適應特定任務的需求，且缺少多重分段關係，這阻礙了回應過程中相關區段的動態重組和邏輯組合。為了解決這些問題，我們引入了一種新策略，即問答反思記憶機制 (QRMeM)，並結合了雙結構化記憶池。此記憶池將靜態文本內容與結構化圖形指導結合起來，促進了一種反思性的試錯方法，用於導航和識別相關區段。我們在多選題 (MCQ) 和多文件問答 (Multi-doc QA) 基準上的評估顯示，與現有方法相比，QRMeM 增強了效能。
-
-##### **Bridging Local Details and Global Context in Text-Attributed Graphs**
-2406.12608v1 by Yaoke Wang, Yun Zhu, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang
-
-Representation learning on text-attributed graphs (TAGs) is vital for
-real-world applications, as they combine semantic textual and contextual
-structural information. Research in this field generally consist of two main
-perspectives: local-level encoding and global-level aggregating, respectively
-refer to textual node information unification (e.g., using Language Models) and
-structure-augmented modeling (e.g., using Graph Neural Networks). Most existing
-works focus on combining different information levels but overlook the
-interconnections, i.e., the contextual textual information among nodes, which
-provides semantic insights to bridge local and global levels. In this paper, we
-propose GraphBridge, a multi-granularity integration framework that bridges
-local and global perspectives by leveraging contextual textual information,
-enhancing fine-grained understanding of TAGs. Besides, to tackle scalability
-and efficiency challenges, we introduce a graphaware token reduction module.
-Extensive experiments across various models and datasets show that our method
-achieves state-of-theart performance, while our graph-aware token reduction
-module significantly enhances efficiency and solves scalability issues.
-
-摘要：文本属性图 (TAG) 上的表征学习对于实际应用至关重要，因为它们结合了语义文本和上下文结构信息。该领域的研究所涉及的两个主要观点：局部编码和全局聚合，分别指文本节点信息统一（例如，使用语言模型）和结构增强建模（例如，使用图神经网络）。大多数现有工作侧重于结合不同的信息级别，但忽略了相互联系，即节点之间的上下文文本信息，它提供了语义见解以桥接局部和全局级别。在本文中，我们提出了 GraphBridge，这是一个多粒度集成框架，它通过利用上下文文本信息来桥接局部和全局视角，增强了对 TAG 的细粒度理解。此外，为了解决可扩展性和效率挑战，我们引入了一个图感知令牌缩减模块。跨各种模型和数据集的广泛实验表明，我们的方法实现了最先进的性能，而我们的图感知令牌缩减模块显着提高了效率并解决了可扩展性问题。
 

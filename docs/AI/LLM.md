@@ -13,7 +13,7 @@
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724v1](http://arxiv.org/abs/2407.12724v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v1](http://arxiv.org/abs/2407.12703v1)|null|
-|**2024-07-17**|**TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds**|Elona Dupont et.al.|[2407.12702v1](http://arxiv.org/abs/2407.12702v1)|null|
+|**2024-07-17**|**TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds**|Elona Dupont et.al.|[2407.12702v2](http://arxiv.org/abs/2407.12702v2)|null|
 |**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671v1](http://arxiv.org/abs/2407.12671v1)|[link](https://github.com/manoskary/graphmuse)|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669v1](http://arxiv.org/abs/2407.12669v1)|null|
 |**2024-07-17**|**Patch-Level Training for Large Language Models**|Chenze Shao et.al.|[2407.12665v1](http://arxiv.org/abs/2407.12665v1)|[link](https://github.com/shaochenze/patchtrain)|
@@ -23,9 +23,9 @@
 |**2024-07-17**|**Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?**|Aman Sinha et.al.|[2407.12626v1](http://arxiv.org/abs/2407.12626v1)|null|
 |**2024-07-17**|**Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences**|Claudio Pinhanez et.al.|[2407.12620v1](http://arxiv.org/abs/2407.12620v1)|null|
 |**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
-|**2024-07-17**|**AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism**|William Brannon et.al.|[2407.12613v1](http://arxiv.org/abs/2407.12613v1)|null|
+|**2024-07-17**|**AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism**|William Brannon et.al.|[2407.12613v1](http://arxiv.org/abs/2407.12613v1)|[link](https://github.com/mit-ccc/AudienceView-demo)|
 |**2024-07-17**|**Instance-wise Uncertainty for Class Imbalance in Semantic Segmentation**|Luís Almeida et.al.|[2407.12609v1](http://arxiv.org/abs/2407.12609v1)|null|
-|**2024-07-17**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588v1](http://arxiv.org/abs/2407.12588v1)|[link](https://github.com/layer6ai-labs/ssl-robustness)|
+|**2024-07-17**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588v2](http://arxiv.org/abs/2407.12588v2)|[link](https://github.com/layer6ai-labs/ssl-robustness)|
 |**2024-07-17**|**Towards Understanding Unsafe Video Generation**|Yan Pang et.al.|[2407.12581v1](http://arxiv.org/abs/2407.12581v1)|[link](https://github.com/py85252876/uvd)|
 |**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580v1](http://arxiv.org/abs/2407.12580v1)|[link](https://github.com/kongds/e5-v)|
 |**2024-07-17**|**The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation**|Yi Yao et.al.|[2407.12579v1](http://arxiv.org/abs/2407.12579v1)|null|
@@ -38,25 +38,25 @@
 |**2024-07-17**|**On Initializing Transformers with Pre-trained Embeddings**|Ha Young Kim et.al.|[2407.12514v1](http://arxiv.org/abs/2407.12514v1)|null|
 |**2024-07-17**|**$\textit{GeoHard}$: Towards Measuring Class-wise Hardness through Modelling Class Semantics**|Fengyu Cai et.al.|[2407.12512v1](http://arxiv.org/abs/2407.12512v1)|null|
 |**2024-07-17**|**MERLIN: Multimodal Embedding Refinement via LLM-based Iterative Navigation for Text-Video Retrieval-Rerank Pipeline**|Donghoon Han et.al.|[2407.12508v1](http://arxiv.org/abs/2407.12508v1)|null|
-|**2024-07-17**|**Case2Code: Learning Inductive Reasoning with Synthetic Data**|Yunfan Shao et.al.|[2407.12504v1](http://arxiv.org/abs/2407.12504v1)|null|
+|**2024-07-17**|**Case2Code: Learning Inductive Reasoning with Synthetic Data**|Yunfan Shao et.al.|[2407.12504v1](http://arxiv.org/abs/2407.12504v1)|[link](https://github.com/choosewhatulike/case2code)|
 |**2024-07-17**|**Automate or Assist? The Role of Computational Models in Identifying Gendered Discourse in US Capital Trial Transcripts**|Andrea W Wen-Yi et.al.|[2407.12500v1](http://arxiv.org/abs/2407.12500v1)|null|
 |**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498v1](http://arxiv.org/abs/2407.12498v1)|null|
 |**2024-07-17**|**Test-Time Adaptation with State-Space Models**|Mona Schirmer et.al.|[2407.12492v1](http://arxiv.org/abs/2407.12492v1)|null|
 |**2024-07-17**|**Pretraining Data and Tokenizer for Indic LLM**|Rahul Kumar et.al.|[2407.12481v1](http://arxiv.org/abs/2407.12481v1)|null|
-|**2024-07-17**|**A Novel Dependency Framework for Enhancing Discourse Data Analysis**|Kun Sun et.al.|[2407.12473v1](http://arxiv.org/abs/2407.12473v1)|null|
+|**2024-07-17**|**A Novel Dependency Framework for Enhancing Discourse Data Analysis**|Kun Sun et.al.|[2407.12473v1](http://arxiv.org/abs/2407.12473v1)|[link](https://github.com/fivehills/discourse-corpora-resources)|
 |**2024-07-17**|**Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter**|Wentao Xu et.al.|[2407.12471v1](http://arxiv.org/abs/2407.12471v1)|null|
 |**2024-07-17**|**Continual Learning for Temporal-Sensitive Question Answering**|Wanqi Yang et.al.|[2407.12470v1](http://arxiv.org/abs/2407.12470v1)|null|
-|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Fernández-Pichel Marcos et.al.|[2407.12468v1](http://arxiv.org/abs/2407.12468v1)|null|
+|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468v2](http://arxiv.org/abs/2407.12468v2)|null|
 |**2024-07-17**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui et.al.|[2407.12451v1](http://arxiv.org/abs/2407.12451v1)|null|
 |**2024-07-17**|**Close the Sim2real Gap via Physically-based Structured Light Synthetic Data Simulation**|Kaixin Bai et.al.|[2407.12449v1](http://arxiv.org/abs/2407.12449v1)|null|
 |**2024-07-17**|**Sharif-STR at SemEval-2024 Task 1: Transformer as a Regression Model for Fine-Grained Scoring of Textual Semantic Relations**|Seyedeh Fatemeh Ebrahimi et.al.|[2407.12426v1](http://arxiv.org/abs/2407.12426v1)|[link](https://github.com/sharif-slpl/sharif-str)|
 |**2024-07-17**|**Navigating the Noisy Crowd: Finding Key Information for Claim Verification**|Haisong Gong et.al.|[2407.12425v1](http://arxiv.org/abs/2407.12425v1)|null|
 |**2024-07-17**|**StuGPTViz: A Visual Analytics Approach to Understand Student-ChatGPT Interactions**|Zixin Chen et.al.|[2407.12423v1](http://arxiv.org/abs/2407.12423v1)|null|
-|**2024-07-17**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421v1](http://arxiv.org/abs/2407.12421v1)|null|
+|**2024-07-17**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421v1](http://arxiv.org/abs/2407.12421v1)|[link](https://github.com/yamizi/safepowergraph)|
 |**2024-07-17**|**Proximity-based Self-Federated Learning**|Davide Domini et.al.|[2407.12410v1](http://arxiv.org/abs/2407.12410v1)|null|
 |**2024-07-17**|**TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish**|Arda Yüksel et.al.|[2407.12402v1](http://arxiv.org/abs/2407.12402v1)|null|
 |**2024-07-17**|**Mamba-PTQ: Outlier Channels in Recurrent Large Language Models**|Alessandro Pierro et.al.|[2407.12397v1](http://arxiv.org/abs/2407.12397v1)|null|
-|**2024-07-17**|**PersLLM: A Personified Training Approach for Large Language Models**|Zheni Zeng et.al.|[2407.12393v1](http://arxiv.org/abs/2407.12393v1)|[link](https://github.com/ellenzzn/persllm)|
+|**2024-07-17**|**PersLLM: A Personified Training Approach for Large Language Models**|Zheni Zeng et.al.|[2407.12393v2](http://arxiv.org/abs/2407.12393v2)|[link](https://github.com/ellenzzn/persllm)|
 |**2024-07-17**|**LLM Inference Serving: Survey of Recent Advances and Opportunities**|Baolin Li et.al.|[2407.12391v1](http://arxiv.org/abs/2407.12391v1)|null|
 |**2024-07-17**|**Morphosyntactic Analysis for CHILDES**|Houjun Liu et.al.|[2407.12389v1](http://arxiv.org/abs/2407.12389v1)|null|
 |**2024-07-17**|**Deep Learning-based Sentiment Analysis of Olympics Tweets**|Indranil Bandyopadhyay et.al.|[2407.12376v1](http://arxiv.org/abs/2407.12376v1)|null|
@@ -70,15 +70,15 @@
 |**2024-07-17**|**M2DS: Multilingual Dataset for Multi-document Summarisation**|Kushan Hewapathirana et.al.|[2407.12336v1](http://arxiv.org/abs/2407.12336v1)|null|
 |**2024-07-17**|**I2AM: Interpreting Image-to-Image Latent Diffusion Models via Attribution Maps**|Junseo Park et.al.|[2407.12331v1](http://arxiv.org/abs/2407.12331v1)|null|
 |**2024-07-17**|**Uncertainty Calibration with Energy Based Instance-wise Scaling in the Wild Dataset**|Mijoo Kim et.al.|[2407.12330v1](http://arxiv.org/abs/2407.12330v1)|[link](https://github.com/mijoo308/energy-calibration)|
-|**2024-07-17**|**Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models**|Ayush Kaushal et.al.|[2407.12327v1](http://arxiv.org/abs/2407.12327v1)|null|
+|**2024-07-17**|**Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models**|Ayush Kaushal et.al.|[2407.12327v1](http://arxiv.org/abs/2407.12327v1)|[link](https://github.com/nolanoorg/spectrasuite)|
 |**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315v1](http://arxiv.org/abs/2407.12315v1)|null|
 |**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309v1](http://arxiv.org/abs/2407.12309v1)|null|
 |**2024-07-17**|**Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection**|Youheng Sun et.al.|[2407.12292v1](http://arxiv.org/abs/2407.12292v1)|[link](https://github.com/vl-group/gaker)|
 |**2024-07-17**|**Chip Placement with Diffusion**|Vint Lee et.al.|[2407.12282v1](http://arxiv.org/abs/2407.12282v1)|null|
-|**2024-07-17**|**Turning Generative Models Degenerate: The Power of Data Poisoning Attacks**|Shuli Jiang et.al.|[2407.12281v1](http://arxiv.org/abs/2407.12281v1)|null|
+|**2024-07-17**|**Turning Generative Models Degenerate: The Power of Data Poisoning Attacks**|Shuli Jiang et.al.|[2407.12281v2](http://arxiv.org/abs/2407.12281v2)|null|
 |**2024-07-17**|**Multimodal Reranking for Knowledge-Intensive Visual Question Answering**|Haoyang Wen et.al.|[2407.12277v1](http://arxiv.org/abs/2407.12277v1)|null|
 |**2024-07-17**|**In-Context Probing Approximates Influence Function for Data Valuation**|Cathy Jiao et.al.|[2407.12259v1](http://arxiv.org/abs/2407.12259v1)|null|
-|**2024-07-17**|**Lacuna Language Learning: Leveraging RNNs for Ranked Text Completion in Digitized Coptic Manuscripts**|Lauren Levine et.al.|[2407.12247v1](http://arxiv.org/abs/2407.12247v1)|null|
+|**2024-07-17**|**Lacuna Language Learning: Leveraging RNNs for Ranked Text Completion in Digitized Coptic Manuscripts**|Lauren Levine et.al.|[2407.12247v1](http://arxiv.org/abs/2407.12247v1)|[link](https://github.com/lauren-lizzy-levine/coptic_char_generator)|
 |**2024-07-17**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223v1](http://arxiv.org/abs/2407.12223v1)|null|
 |**2024-07-17**|**Questionable practices in machine learning**|Gavin Leech et.al.|[2407.12220v1](http://arxiv.org/abs/2407.12220v1)|null|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206v1](http://arxiv.org/abs/2407.12206v1)|null|
@@ -91,17 +91,17 @@
 |**2024-07-16**|**Building AI Agents for Autonomous Clouds: Challenges and Design Principles**|Manish Shetty et.al.|[2407.12165v1](http://arxiv.org/abs/2407.12165v1)|null|
 |**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164v1](http://arxiv.org/abs/2407.12164v1)|null|
 |**2024-07-16**|**Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent**|Karolis Jucys et.al.|[2407.12161v1](http://arxiv.org/abs/2407.12161v1)|null|
-|**2024-07-16**|**Predicting Emotion Intensity in Polish Political Texts: Comparing Supervised Models and Large Language Models in a Resource-Poor Language**|Hubert Plisiecki et.al.|[2407.12141v1](http://arxiv.org/abs/2407.12141v1)|null|
+|**2024-07-16**|**Predicting Emotion Intensity in Polish Political Texts: Comparing Supervised Models and Large Language Models in a Resource-Poor Language**|Hubert Plisiecki et.al.|[2407.12141v1](http://arxiv.org/abs/2407.12141v1)|[link](https://github.com/hplisiecki/Predicting-Emotion-Intensity-in-Polish-Political-Texts)|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
 |**2024-07-16**|**A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113v1](http://arxiv.org/abs/2407.12113v1)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108v1](http://arxiv.org/abs/2407.12108v1)|null|
-|**2024-07-16**|**Better RAG using Relevant Information Gain**|Marc Pickett et.al.|[2407.12101v1](http://arxiv.org/abs/2407.12101v1)|null|
+|**2024-07-16**|**Better RAG using Relevant Information Gain**|Marc Pickett et.al.|[2407.12101v1](http://arxiv.org/abs/2407.12101v1)|[link](https://github.com/EmergenceAI/dartboard)|
 |**2024-07-16**|**Identifying Speakers in Dialogue Transcripts: A Text-based Approach Using Pretrained Language Models**|Minh Nguyen et.al.|[2407.12094v1](http://arxiv.org/abs/2407.12094v1)|null|
 |**2024-07-16**|**GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill and Extreme KV-Cache Compression**|Daniel Goldstein et.al.|[2407.12077v1](http://arxiv.org/abs/2407.12077v1)|[link](https://github.com/SmerkyG/GoldFinch-paper)|
 |**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969v1](http://arxiv.org/abs/2407.11969v1)|[link](https://github.com/tml-epfl/llm-past-tense)|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|null|
 |**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963v1](http://arxiv.org/abs/2407.11963v1)|[link](https://github.com/open-compass/opencompass)|
-|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|null|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
 
 #### Abstracts
 ##### **OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides**
@@ -379,7 +379,7 @@ code is available.
 摘要：微调预训练语言模型 (PLM) 最近显示出改善知识图谱完成 (KGC) 的潜力。然而，大多数基于 PLM 的方法仅对文本信息进行编码，而忽略了知识图谱 (KG) 的各种拓扑结构。在本文中，我们凭经验验证了知识图谱的结构属性与基于 PLM 的方法的性能之间的重要关系。为了利用结构知识，我们提出了一个用于 KGC 的子图感知训练框架 (SATKGC)，它结合了 (i) 子图感知的小批量处理以鼓励困难的负采样，以及 (ii) 一种新的对比学习方法，在结构属性方面更多地关注更困难的实体和更困难的负三元组。据我们所知，这是第一项将子图的结构归纳偏差全面纳入 PLM 微调的研究。在四个 KGC 基准上的广泛实验证明了 SATKGC 的优越性。我们的代码可用。
 
 ##### **TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds**
-2407.12702v1 by Elona Dupont, Kseniya Cherenkova, Dimitrios Mallis, Gleb Gusev, Anis Kacem, Djamila Aouada
+2407.12702v2 by Elona Dupont, Kseniya Cherenkova, Dimitrios Mallis, Gleb Gusev, Anis Kacem, Djamila Aouada
 
 3D reverse engineering, in which a CAD model is inferred given a 3D scan of a
 physical object, is a research direction that offers many promising practical
@@ -392,7 +392,7 @@ that TransCAD achieves state-of-the-art results. The result analysis is
 supported with a proposed metric for CAD sequence, the mean Average Precision
 of CAD Sequence, that addresses the limitations of existing metrics.
 
-摘要：3D 逆向工程，在給定物理物體 3D 掃描後推斷出 CAD 模型，是一個提供許多有前途的實際應用研究方向。本文提出 TransCAD，一種端到端的基於Transformer的架構，從點雲預測 CAD 順序。TransCAD 透過使用分層學習策略來利用 CAD 順序的結構。迴圈精煉器也被引入用於回歸草圖基元參數。在 DeepCAD 和 Fusion360 資料集上的嚴謹實驗表明 TransCAD 達到了最先進的結果。結果分析得到了一個針對 CAD 順序的提議指標的支持，即 CAD 順序的平均平均精確度，它解決了現有指標的限制。
+摘要：3D 逆向工程，其中根據 3D 掃描的物理對象推斷 CAD 模型，是一個提供許多有前途的實際應用研究方向。本文提出了 TransCAD，這是一種端到端的基於轉換器的架構，可以從點雲預測 CAD 順序。TransCAD 利用 CAD 順序的結構，使用分層學習策略。還引入了一個迴圈精煉器來回歸草圖基本參數。對 DeepCAD 和 Fusion360 數據集的嚴格實驗表明，TransCAD 達到了最先進的結果。結果分析得到了 CAD 順序的建議量度支持，即 CAD 順序的平均平均精度，它解決了現有量度的局限性。
 
 ##### **GraphMuse: A Library for Symbolic Music Graph Processing**
 2407.12671v1 by Emmanouil Karystinaios, Gerhard Widmer
@@ -636,7 +636,7 @@ applications.
 摘要：語意分割是一項基本的電腦視覺任務，有大量的應用。最先進的方法越來越依賴深度學習模型，已知這些模型會錯誤地估計不確定性，並且對預測過於自信，尤其是在訓練期間未見過的資料中。由於固有的類別不平衡，這在語意分割中特別成問題。流行的不確定性量化方法與任務無關，並且無法在不確定性估計中利用空間像素相關性，這對於此任務至關重要。在這項工作中，提出了一種專門為語意分割設計的新穎訓練方法。訓練樣本由一個整體計算出的實例不確定性遮罩加權。與僅使用類別比例的倒數或根本不使用類別權重相比，這被證明可以提高少數類別的性能、提升模型的泛化能力和對領域轉移的魯棒性。此方法解決了語意分割中類別不平衡和不確定性估計的挑戰，有可能在各種應用中增強模型的性能和可靠性。
 
 ##### **Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**
-2407.12588v1 by Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George Stein, Jiapeng Wu, Jesse C. Cresswell, Franziska Boenisch, Adam Dziedzic
+2407.12588v2 by Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George Stein, Jiapeng Wu, Jesse C. Cresswell, Franziska Boenisch, Adam Dziedzic
 
 Large-scale vision models have become integral in many applications due to
 their unprecedented performance and versatility across downstream tasks.
@@ -650,12 +650,11 @@ downstream task output level. In both cases, current state-of-the-art
 adversarial fine-tuning techniques tested only for classification significantly
 degrade clean and robust performance on other tasks. Since the purpose of a
 foundation model is to cater to multiple applications at once, our findings
-reveal the need to enhance encoder robustness more broadly. %We discuss
-potential strategies for more robust foundation vision models across diverse
-downstream tasks. Our code is available at
-$\href{https://github.com/layer6ai-labs/ssl-robustness}{github.com/layer6ai-labs/ssl-robustness}$.
+reveal the need to enhance encoder robustness more broadly. Our code is
+available at ${github.com/layer6ai-labs/ssl-robustness}$.
 
-摘要：大型視覺模型由於其在下游任務中前所未有的效能和多功能性，已成為許多應用程式中不可或缺的一部分。然而，這些基礎模型的穩健性主要探討的是單一任務，即影像分類。其他常見視覺任務的脆弱性，例如語意分割和深度估計，在很大程度上仍然未知。我們提出了一個全面的經驗評估，針對跨多個下游任務的自監督視覺編碼器的對抗性穩健性。我們的攻擊在編碼器嵌入空間和下游任務輸出層級中執行。在這兩種情況下，目前最先進的對抗性微調技術僅針對分類進行測試，會顯著降低其他任務的乾淨且穩健的效能。由於基礎模型的目的是同時滿足多個應用程式，我們的研究結果揭示了更廣泛地提升編碼器穩健性的必要性。我們討論了針對各種下游任務更穩健的基礎視覺模型的潛在策略。我們的程式碼可在 $\href{https://github.com/layer6ai-labs/ssl-robustness}{github.com/layer6ai-labs/ssl-robustness}$ 取得。
+摘要：大型視覺模型由於其在下游任務中前所未有的效能和多功能性，已成為許多應用程式中不可或缺的一部分。
+然而，這些基礎模型的穩健性主要探討的是單一任務，即影像分類。其他常見視覺任務的脆弱性，例如語意分割和深度估計，在很大程度上仍然未知。我們提出了一個全面的實證評估，評估自我監督視覺編碼器在多個下游任務中的對抗性穩健性。我們的攻擊在編碼器嵌入空間和下游任務輸出層面進行。在這兩種情況下，目前最先進的對抗性微調技術僅針對分類進行測試，會顯著降低其他任務的乾淨且穩健的效能。由於基礎模型的目的是同時滿足多種應用程式，我們的研究結果揭示了更廣泛地增強編碼器穩健性的必要性。我們的程式碼可以在 ${github.com/layer6ai-labs/ssl-robustness}$ 取得。
 
 ##### **Towards Understanding Unsafe Video Generation**
 2407.12581v1 by Yan Pang, Aiping Xiong, Yang Zhang, Tianhao Wang
@@ -1127,7 +1126,7 @@ performance.
 摘要：在本研究中，我们探讨了一个新兴的研究领域，即针对时间敏感问题解答 (CLTSQA) 的持续学习。以往的研究主要集中在时间敏感问题解答 (TSQA) 上，往往忽略了未来事件的不可预测性。在实际应用中，至关重要的是，模型能够随着时间的推移不断获取知识，而不是依赖于静态的、完整的数据集。我们的论文研究了使模型能够适应不断变化的信息环境的策略，从而解决了 CLTSQA 中固有的挑战。为了支持我们的研究，我们首先创建了一个新颖的数据集，将其分为五个子集，专门针对持续学习的不同阶段而设计。然后，我们提出了一个用于 CLTSQA 的训练框架，该框架集成了时间记忆重放和时间对比学习。我们的实验结果突出了两个重要的见解：首先，CLTSQA 任务给现有模型带来了独特的挑战。其次，我们提出的框架有效地解决了这些挑战，从而提高了性能。
 
 ##### **Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**
-2407.12468v1 by Fernández-Pichel Marcos, Pichel Juan C., Losada David E
+2407.12468v2 by Marcos Fernández-Pichel, Juan C. Pichel, David E. Losada
 
 Search engines have traditionally served as primary tools for information
 seeking. However, the new Large Language Models (LLMs) have recently
@@ -1147,7 +1146,7 @@ accurate than LLMs in finding correct answers to health questions. On the other
 hand, LLMs are quite sensitive to the input prompts, and we also found out that
 RAG leads to highly effective information seeking methods.
 
-摘要：搜索引擎一直作為尋求資訊的主要工具。然而，新的大型語言模型 (LLM) 最近在多項任務中展現了非凡的能力，特別是它們作為問答系統的採用正變得越來越普遍。預計基於 LLM 的對話系統和傳統網路引擎將繼續在未來共存，以各種方式支援最終使用者。但需要對這兩種系統在促進準確資訊尋求方面的有效性進行更多科學研究。在這項研究中，我們專注於它們在回答健康問題方面的優點。我們進行了一項廣泛的研究，比較了不同的網路搜尋引擎、LLM 和檢索增強 (RAG) 方法。我們的研究揭示了有趣的結論。例如，我們觀察到，隨著我們在排名列表中向下瀏覽，潛在回應健康問題的網頁品質並不會下降。然而，根據我們的評估，網路引擎在尋找正確的健康問題答案方面不如 LLM 準確。另一方面，LLM 對輸入提示相當敏感，我們還發現 RAG 導致高度有效的資訊尋求方法。
+摘要：搜尋引擎傳統上一直作為尋找資訊的主要工具。然而，新的大型語言模型 (LLM) 近期已在多項任務中展現出卓越的能力，特別是其被採用為問題解答系統正變得越來越普遍。預計未來基於 LLM 的對話系統和傳統網路引擎將持續共存，以各種方式支援最終使用者。但需要更多科學研究來探討這兩種系統在促進準確資訊搜尋方面的效能。在這項研究中，我們專注於它們在回答健康問題方面的優點。我們進行了一項廣泛的研究，比較了不同的網路搜尋引擎、LLM 和檢索增強 (RAG) 方法。我們的研究揭示了有趣的結論。例如，我們觀察到，隨著我們在排名清單中向下瀏覽，可能會回答健康問題的網頁品質並不會下降。然而，根據我們的評估，網路引擎在尋找健康問題的正確答案方面不如 LLM 準確。另一方面，LLM 對輸入提示非常敏感，我們還發現 RAG 導致高度有效的資訊搜尋方法。
 
 ##### **Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**
 2407.12451v1 by Haoyang Gui, Thales Bertaglia, Catalina Goanta, Sybe de Vries, Gerasimos Spanakis
@@ -1368,7 +1367,7 @@ activation outliers and suggest first steps for outlier-aware quantization.
 在這項初步工作中，我們專注於遞迴 LLM 的訓練後量化，並展示 Mamba 模型展現出與基於注意力的 LLM 中觀察到的異常通道相同的模式。我們展示了量化 SSM 的難度是由於激活異常值造成的，這與在基於Transformer的 LLM 中觀察到的情況類似。我們報告了 Mamba 訓練後量化的基準結果，這些結果沒有考慮激活異常值，並建議了異常感知量化的第一步。
 
 ##### **PersLLM: A Personified Training Approach for Large Language Models**
-2407.12393v1 by Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhiyuan Liu, Maosong Sun
+2407.12393v2 by Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhiyuan Liu, Maosong Sun
 
 Large language models exhibit aspects of human-level intelligence that
 catalyze their application as human-like agents in domains such as social
@@ -1396,7 +1395,7 @@ cooperation. Additionally, human-agent interaction evaluations indicate that
 our personified models significantly enhance interactive experiences,
 underscoring the practical implications of our research.
 
-摘要：大型語言模型展現出人類程度的智慧層面，催化它們在社交模擬、人機互動和協作多重代理系統等領域中作為類人代理的應用。然而，缺乏鮮明的個性，例如表現出討好行為、意見不一致和統一的回應模式，降低了 LLM 在實際應用中的效用。為了解決這個問題，在 LLM 中發展人格特質成為了解鎖其潛在能力的關鍵研究領域。使 LLM 人格化的現有方法通常涉及策略，例如採用風格化的訓練資料進行指令調整或使用提示工程來模擬不同的人格。這些方法僅捕捉到表面的語言風格，而不是人格的核心，因此不穩定。在本研究中，我們提出了 PersLLM，將人格的心理學基礎原則：社會實踐、一致性和動態發展整合到一個全面的訓練方法中。我們將人格特質直接納入模型參數中，增強模型對歸納的抵抗力、促進一致性並支持人格的動態演化。單一代理評估驗證了我們方法的優越性，因為與其他方法相比，它產生的回應更符合參考人格。多重代理溝通的案例研究突出了它在增強單一代理內意見一致性以及在對話情境中促進多重代理之間的協作創造力方面的優點，這可能有利於人類模擬和多重代理合作。此外，人機互動評估表明，我們的人格化模型顯著增強了互動體驗，強調了我們研究的實際意義。
+摘要：大型語言模型表現出人類智慧的方面，這促進了它們在社交模擬、人機互動和協作多主體系統等領域中作為類人主體的應用。然而，缺乏鮮明的個性，例如表現出討好的行為、不一致的觀點和統一的反應模式，降低了 LLM 在實際應用中的效用。針對此問題， LLM 中個性特質的發展成為解鎖其潛在潛力的關鍵研究領域。使 LLM 個性化的現有方法通常涉及策略，例如採用程式化的訓練資料進行指令調整或使用提示工程來模擬不同的個性。這些方法只捕捉到表面的語言風格，而不是個性的核心，因此不穩定。在這項研究中，我們提出 PersLLM，將以心理學為基礎的個性原則：社會實踐、一致性和動態發展整合到一個全面的訓練方法中。我們將個性特質直接納入模型參數中，增強模型對誘導的抵抗力，促進一致性，並支持個性的動態演化。單一主體評估驗證了我們方法的優越性，因為它產生的反應與參考個性相比，更符合其他方法。多主體溝通的案例研究突出了其在增強個體主體內觀點一致性以及在對話情境中培養多個主體之間的合作創造力方面的優點，這可能有利於人類模擬和多主體合作。此外，人機互動評估表明，我們的人格化模型顯著增強了互動體驗，強調了我們研究的實際意義。
 
 ##### **LLM Inference Serving: Survey of Recent Advances and Opportunities**
 2407.12391v1 by Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari
@@ -1811,7 +1810,7 @@ state-of-the-art methods.
 摘要：巨集配置是数字电路设计中至关重要的一步，它定义了称为巨集的大量组件在二维芯片上的物理位置。配置期间获得的物理布局决定了芯片的关键性能指标，例如功耗、面积和性能。现有的基于学习的方法通常会因依赖于强化学习而表现不佳，强化学习速度慢，并且会将配置视为顺序过程，从而限制了代理的灵活性。相反，我们使用强大的扩散模型来同时放置所有组件。为了使此类模型能够大规模训练，我们提出了去噪模型的新型架构，以及生成大型合成数据集以进行预训练的算法。我们凭经验表明，我们的模型可以解决配置任务，并且与最先进的方法相比，在配置基准上实现了有竞争力的性能。
 
 ##### **Turning Generative Models Degenerate: The Power of Data Poisoning Attacks**
-2407.12281v1 by Shuli Jiang, Swanand Ravindra Kadhe, Yi Zhou, Farhan Ahmed, Ling Cai, Nathalie Baracaldo
+2407.12281v2 by Shuli Jiang, Swanand Ravindra Kadhe, Yi Zhou, Farhan Ahmed, Ling Cai, Nathalie Baracaldo
 
 The increasing use of large language models (LLMs) trained by third parties
 raises significant security concerns. In particular, malicious actors can
@@ -1832,7 +1831,7 @@ tasks during fine-tuning via PEFT across a wide range of triggers and attack
 settings. We hope our findings will aid the AI security community in developing
 effective defenses against such threats.
 
-摘要：大型語言模型 (LLM) 的使用增加，由第三方培訓，引起了重要的安全問題。特別是，惡意行為者可以透過投毒攻擊導入後門，以產生不良的輸出。雖然這種攻擊已在影像領域和分類任務中廣泛研究，但對於自然語言生成 (NLG) 任務仍未充分探討。為了解決這個差距，我們針對透過前綴調整來鎖定 LLM 微調階段的各種投毒技術進行調查，一種參數有效微調 (PEFT) 方法。我們評估它們在兩個生成任務中的有效性：文字摘要和文字完成；並且我們也引進新的指標來量化這種 NLG 投毒攻擊的成功和隱密性。透過我們的實驗，我們發現前綴調整超參數和觸發器設計是影響攻擊成功和隱密性的最重要因素。此外，我們證明現有的流行防禦措施對我們的投毒攻擊無效。我們的研究提出了第一個系統化的方法來理解在透過 PEFT 微調期間鎖定 NLG 任務的投毒攻擊，涵蓋廣泛的觸發器和攻擊設定。我們希望我們的發現將有助於 AI 安全社群開發對抗此類威脅的有效防禦措施。
+摘要：大型語言模型 (LLM) 的使用日益增加，由第三方培訓，引發了重大的安全問題。特別是，惡意行為者可以透過投毒攻擊來引入後門，以產生不良的輸出。雖然此類攻擊已在影像領域和分類任務中廣泛研究，但對於自然語言生成 (NLG) 任務仍未充分探討。為了解決這個差距，我們針對透過前綴調整來鎖定 LLM 微調階段的不同投毒技術進行調查，前綴調整是一種參數高效微調 (PEFT) 方法。我們評估它們在兩個生成任務中的有效性：文字摘要和文字完成功能；我們也引進新的指標來量化此類 NLG 投毒攻擊的成功和隱密性。透過我們的實驗，我們發現前綴調整的超參數和觸發器設計是影響攻擊成功和隱密性的最重要因素。此外，我們證明現有的流行防禦措施對我們的投毒攻擊無效。我們的研究提出了第一個系統化方法來了解在透過 PEFT 微調期間鎖定 NLG 任務的投毒攻擊，涵蓋廣泛的觸發器和攻擊設定。我們希望我們的發現將有助於 AI 安全社群針對此類威脅開發有效的防禦措施。
 
 ##### **Multimodal Reranking for Knowledge-Intensive Visual Question Answering**
 2407.12277v1 by Haoyang Wen, Honglei Zhuang, Hamed Zamani, Alexander Hauptmann, Michael Bendersky
@@ -2434,7 +2433,7 @@ https://github.com/open-compass/opencompass.
 摘要：<paragraph>在評估大型語言模型 (LLM) 的長語境能力時，從原始長篇文件中辨識與使用者查詢相關的內容是任何 LLM 根據長文回答問題的必要先決條件。我們提出 NeedleBench，一個由一系列難度逐漸增加的任務組成的架構，用於評估雙語長語境能力，涵蓋多個長度區間（4k、8k、32k、128k、200k、1000k，以及更多）和不同的深度範圍，允許在不同的文字深度區域策略性地插入關鍵資料點，以嚴格測試模型在不同語境中的檢索和推理能力。我們使用 NeedleBench 架構來評估領先的開源模型在辨識與問題相關的關鍵資訊，以及將該資訊應用於雙語長文中推理的能力。此外，我們提出祖先追蹤挑戰 (ATC)，模擬在現實世界長語境任務中可能存在的邏輯推理挑戰的複雜性，提供一個簡單的方法來評估 LLM 在處理複雜長語境情況時的表現。我們的結果表明，目前的 LLM 在實際長語境應用中仍有很大的改進空間，因為它們難以應付現實世界長語境任務中可能存在的邏輯推理挑戰的複雜性。所有程式碼和資源都可以在 OpenCompass 取得：https://github.com/open-compass/opencompass。</paragraph>
 
 ##### **Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**
-2407.11962v1 by Jaehyeok Kim, Dongyoon Wee, Dan Xu
+2407.11962v2 by Jaehyeok Kim, Dongyoon Wee, Dan Xu
 
 This paper introduces Motion-oriented Compositional Neural Radiance Fields
 (MoCo-NeRF), a framework designed to perform free-viewpoint rendering of
@@ -2461,5 +2460,5 @@ clearly demonstrating state-of-the-art performance in both single- and
 multi-subject settings. The code and model will be made publicly available at
 the project page: https://stevejaehyeok.github.io/publications/moco-nerf.
 
-摘要：<paragraph>本文介绍了面向运动的合成神经辐射场 (MoCo-NeRF)，这是一个旨在通过新颖的非刚性运动建模方法执行单眼人类视频的自由视点渲染的框架。在动态着装的人类的背景下，复杂的布料动态会产生非刚性运动，这些运动本质上不同于骨骼关节，并且对渲染质量至关重要。传统方法将非刚性运动建模为空间 (3D) 偏差以及骨骼变换。然而，由于其学习复杂度高且没有直接监督，因此要达到最佳质量既耗时又具有挑战性。为了解决这个问题，我们提出了一种新颖的方法，将非刚性运动建模为辐射残差场，以受益于渲染中更直接的颜色监督，并将刚性辐射场用作先验来降低学习过程的复杂性。我们的方法利用单一的多分辨率哈希编码 (MHE) 来同时从刚性骨骼运动中学习规范的 T 姿势表示，以及用于非刚性运动的辐射残差场。此外，为了进一步提高训练效率和可用性，我们扩展了 MoCo-NeRF 以支持在单个框架内同时训练多个主体，这要归功于我们用于建模非刚性运动的有效设计。除了多个局部 MHE 之外，这种可扩展性是通过集成全局 MHE 和可学习的身份代码实现的。我们在 ZJU-MoCap 和 MonoCap 上展示了广泛的结果，清楚地展示了在单主体和多主体设置中都达到最先进的性能。代码和模型将在项目页面公开：https://stevejaehyeok.github.io/publications/moco-nerf。</paragraph>
+摘要：<paragraph>本文介紹了運動導向組合神經輻照場 (MoCo-NeRF)，一個旨在透過新穎的非剛性運動建模方法，執行單眼人類影片的自由視點渲染的框架。在動態穿著人類的背景下，複雜的布料動力會產生非剛性運動，與骨架關節本質上不同，對渲染品質至關重要。傳統方法將非剛性運動建模為空間 (3D) 偏差，以及骨架轉換。然而，由於其學習複雜度高，且沒有直接監督，因此要達到最佳品質既耗時又具挑戰性。為了解決這個問題，我們提出了一種創新的方法，將非剛性運動建模為輻照殘差場，以受益於渲染中更直接的色彩監督，並利用剛性輻照場作為先驗，以降低學習過程的複雜性。我們的做法利用單一的多解析度雜湊編碼 (MHE)，以同時從剛性骨架運動中學習標準的 T 姿勢表示，以及非剛性運動的輻照殘差場。此外，為了進一步提高訓練效率和可用性，我們將 MoCo-NeRF 擴展為支援在單一框架內同時訓練多個主體，這要歸功於我們用於建模非剛性運動的有效設計。這種可擴充性是透過整合一個整體 MHE 和可學習的身分碼，以及多個局部 MHE 來實現的。我們在 ZJU-MoCap 和 MonoCap 上展示了廣泛的結果，清楚地證明了在單主體和多主體設定中，我們都達到了最先進的效能。程式碼和模型將在專案頁面公開：https://stevejaehyeok.github.io/publications/moco-nerf。</paragraph>
 

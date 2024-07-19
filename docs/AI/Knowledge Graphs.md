@@ -14,7 +14,7 @@
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
 |**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
 |**2024-07-14**|**AutoGRAMS: Autonomous Graphical Agent Modeling Software**|Ben Krause et.al.|[2407.10049v1](http://arxiv.org/abs/2407.10049v1)|[link](https://github.com/autograms/autograms)|
-|**2024-07-13**|**FarFetched: Entity-centric Reasoning and Claim Validation for the Greek Language based on Textually Represented Environments**|Dimitris Papadopoulos et.al.|[2407.09888v1](http://arxiv.org/abs/2407.09888v1)|null|
+|**2024-07-13**|**FarFetched: Entity-centric Reasoning and Claim Validation for the Greek Language based on Textually Represented Environments**|Dimitris Papadopoulos et.al.|[2407.09888v1](http://arxiv.org/abs/2407.09888v1)|[link](https://github.com/lighteternal/farfetched_nlp)|
 |**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709v1](http://arxiv.org/abs/2407.09709v1)|[link](https://github.com/jiaruifeng/gofa)|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|null|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|

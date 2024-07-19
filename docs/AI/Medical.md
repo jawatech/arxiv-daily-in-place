@@ -4,13 +4,13 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669v1](http://arxiv.org/abs/2407.12669v1)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
-|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Fernández-Pichel Marcos et.al.|[2407.12468v1](http://arxiv.org/abs/2407.12468v1)|null|
+|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468v2](http://arxiv.org/abs/2407.12468v2)|null|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357v1](http://arxiv.org/abs/2407.12357v1)|null|
 |**2024-07-16**|**GPT-4V Cannot Generate Radiology Reports Yet**|Yuyang Jiang et.al.|[2407.12176v1](http://arxiv.org/abs/2407.12176v1)|[link](https://github.com/yuyangj0/gpt-4v-evaluation-radiology-report)|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852v1](http://arxiv.org/abs/2407.11852v1)|[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)|
 |**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827v1](http://arxiv.org/abs/2407.11827v1)|null|
-|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v1](http://arxiv.org/abs/2407.11790v1)|null|
+|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v2](http://arxiv.org/abs/2407.11790v2)|null|
 |**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v2](http://arxiv.org/abs/2407.11686v2)|null|
 |**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
 |**2024-07-16**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
@@ -41,7 +41,7 @@
 |**2024-07-12**|**FD-SOS: Vision-Language Open-Set Detectors for Bone Fenestration and Dehiscence Detection from Intraoral Images**|Marawan Elbatel et.al.|[2407.09088v1](http://arxiv.org/abs/2407.09088v1)|null|
 |**2024-07-12**|**Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media**|Chen Chen et.al.|[2407.09019v1](http://arxiv.org/abs/2407.09019v1)|null|
 |**2024-07-12**|**Application of Artificial Intelligence in Supporting Healthcare Professionals and Caregivers in Treatment of Autistic Children**|Hossein Mohammadi Rouzbahani et.al.|[2407.08902v1](http://arxiv.org/abs/2407.08902v1)|null|
-|**2024-07-11**|**SALT: Introducing a Framework for Hierarchical Segmentations in Medical Imaging using Softmax for Arbitrary Label Trees**|Sven Koitka et.al.|[2407.08878v1](http://arxiv.org/abs/2407.08878v1)|null|
+|**2024-07-11**|**SALT: Introducing a Framework for Hierarchical Segmentations in Medical Imaging using Softmax for Arbitrary Label Trees**|Sven Koitka et.al.|[2407.08878v1](http://arxiv.org/abs/2407.08878v1)|[link](https://github.com/umessen/salt)|
 |**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822v1](http://arxiv.org/abs/2407.08822v1)|[link](https://github.com/m1k2zoo/fedmedicl)|
 |**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813v1](http://arxiv.org/abs/2407.08813v1)|[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
@@ -67,7 +67,7 @@
 |**2024-07-10**|**Causal Discovery in Semi-Stationary Time Series**|Shanyun Gao et.al.|[2407.07291v1](http://arxiv.org/abs/2407.07291v1)|[link](https://github.com/causalml-lab/pcmci-omega)|
 |**2024-07-10**|**Causal Discovery-Driven Change Point Detection in Time Series**|Shanyun Gao et.al.|[2407.07290v1](http://arxiv.org/abs/2407.07290v1)|null|
 |**2024-07-09**|**Lifestyle-Informed Personalized Blood Biomarker Prediction via Novel Representation Learning**|A. Ali Heydari et.al.|[2407.07277v1](http://arxiv.org/abs/2407.07277v1)|null|
-|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v1](http://arxiv.org/abs/2407.07042v1)|[link](https://github.com/levayz/protosam)|
+|**2024-07-09**|**ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v2](http://arxiv.org/abs/2407.07042v2)|[link](https://github.com/levayz/protosam)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972v1](http://arxiv.org/abs/2407.06972v1)|null|
 |**2024-07-09**|**TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**|Jacob Thrasher et.al.|[2407.06852v1](http://arxiv.org/abs/2407.06852v1)|[link](https://github.com/jacob-thrasher/te-ssl)|
@@ -156,7 +156,7 @@ and revealing ways to improve existing human abstractions.
 摘要：抽象化——將特定範例概括為廣泛可重複使用的模式的過程——是人們有效處理和儲存資訊，並將其知識應用於新資料的核心。有希望的是，研究顯示 ML 模型學習跨越抽象層級的表徵，從「細領帶」和「汽車輪胎」等具體概念到「執行長」和「模型」等更一般的概念。然而，現有的技術孤立地分析這些表徵，將學習到的概念視為獨立的產物，而不是抽象的相互連結網路。因此，儘管我們可以識別模型用來產生其輸出的概念，但很難評估它是否學習到概念的人類對齊抽象，這些概念將概括到新的資料。為了解決這個差距，我們引入了抽象對齊，一種衡量模型學習的抽象與預期的抽象之間一致性的方法。我們透過將模型輸出與人類抽象圖形（例如語言關係或醫療疾病層級結構）進行比較來量化抽象對齊。在解釋影像模型、基準語言模型和分析醫療資料集的評估任務中，抽象對齊提供了對模型行為和資料集內容更深入的理解，根據與人類知識的一致性區分錯誤，擴展當前模型品質指標的詳細程度，並揭示改善現有人類抽象的方法。
 
 ##### **Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**
-2407.12468v1 by Fernández-Pichel Marcos, Pichel Juan C., Losada David E
+2407.12468v2 by Marcos Fernández-Pichel, Juan C. Pichel, David E. Losada
 
 Search engines have traditionally served as primary tools for information
 seeking. However, the new Large Language Models (LLMs) have recently
@@ -176,7 +176,7 @@ accurate than LLMs in finding correct answers to health questions. On the other
 hand, LLMs are quite sensitive to the input prompts, and we also found out that
 RAG leads to highly effective information seeking methods.
 
-摘要：搜索引擎一直作為尋求資訊的主要工具。然而，新的大型語言模型 (LLM) 最近在多項任務中展現了非凡的能力，特別是它們作為問答系統的採用正變得越來越普遍。預計基於 LLM 的對話系統和傳統網路引擎將繼續在未來共存，以各種方式支援最終使用者。但需要對這兩種系統在促進準確資訊尋求方面的有效性進行更多科學研究。在這項研究中，我們專注於它們在回答健康問題方面的優點。我們進行了一項廣泛的研究，比較了不同的網路搜尋引擎、LLM 和檢索增強 (RAG) 方法。我們的研究揭示了有趣的結論。例如，我們觀察到，隨著我們在排名列表中向下瀏覽，潛在回應健康問題的網頁品質並不會下降。然而，根據我們的評估，網路引擎在尋找正確的健康問題答案方面不如 LLM 準確。另一方面，LLM 對輸入提示相當敏感，我們還發現 RAG 導致高度有效的資訊尋求方法。
+摘要：搜尋引擎傳統上一直作為尋找資訊的主要工具。然而，新的大型語言模型 (LLM) 近期已在多項任務中展現出卓越的能力，特別是其被採用為問題解答系統正變得越來越普遍。預計未來基於 LLM 的對話系統和傳統網路引擎將持續共存，以各種方式支援最終使用者。但需要更多科學研究來探討這兩種系統在促進準確資訊搜尋方面的效能。在這項研究中，我們專注於它們在回答健康問題方面的優點。我們進行了一項廣泛的研究，比較了不同的網路搜尋引擎、LLM 和檢索增強 (RAG) 方法。我們的研究揭示了有趣的結論。例如，我們觀察到，隨著我們在排名清單中向下瀏覽，可能會回答健康問題的網頁品質並不會下降。然而，根據我們的評估，網路引擎在尋找健康問題的正確答案方面不如 LLM 準確。另一方面，LLM 對輸入提示非常敏感，我們還發現 RAG 導致高度有效的資訊搜尋方法。
 
 ##### **Evaluating graph-based explanations for AI-based recommender systems**
 2407.12357v1 by Simon Delarue, Astrid Bertrand, Tiphaine Viard
@@ -320,7 +320,7 @@ advancing state-of-the-art interpretable propaganda technique detection.
 摘要：<paragraph>儘管使用機器學習來偵測宣傳技巧在文本中已獲得相當的關注，但大多數方法都專注於具有不透明內部運作的「黑盒子」解決方案。可解釋的方法提供了解決方案，然而，它們依賴於仔細的特徵工程和昂貴的專家註釋資料。此外，宣傳性文本的特定語言特徵通常是修辭學家或語言學家的關注焦點，並且沒有標記有此類特徵的資料集適合機器學習。本研究將出現在與說服語言相關的文獻中識別出的 22 個修辭和語言特徵編纂成法典，目的是為標記有宣傳技巧的現有資料集。為了幫助人類專家使用這些特徵註釋自然語言句子，專門設計了網路應用程式 RhetAnn，以最大程度地減少原本相當大的心智負擔。最後，使用一小組註釋資料微調了生成式大型語言模型 (LLM) GPT-3.5，以註釋剩餘資料，同時針對財務成本和分類準確度進行最佳化。本研究展示了將少數人類註釋範例與 GPT 結合如何成為以傳統僅依賴人類專家的註釋成本的一小部分來擴展註釋程序的有效策略。在撰寫本文時，結果與當時表現最佳的模型 GPT-4 相當，成本卻低了 10 倍。我們的貢獻是一組特徵、它們的屬性、定義和範例，採用機器可讀格式，以及 RhetAnn 的程式碼和 GPT 提示和微調程序，用於推進最先進的可解釋宣傳技巧偵測。</paragraph>
 
 ##### **Characterizing and Understanding HGNN Training on GPUs**
-2407.11790v1 by Dengke Han, Mingyu Yan, Xiaochun Ye, Dongrui Fan, Ninghui Sun
+2407.11790v2 by Dengke Han, Mingyu Yan, Xiaochun Ye, Dongrui Fan, Ninghui Sun
 
 Owing to their remarkable representation capabilities for heterogeneous graph
 data, Heterogeneous Graph Neural Networks (HGNNs) have been widely adopted in
@@ -337,7 +337,7 @@ performance bottlenecks and their underlying causes in different HGNN training
 scenarios and provide optimization guidelines from both software and hardware
 perspectives.
 
-摘要：由於異質圖神經網路 (HGNN) 具有卓越的異質圖形數據表示能力，因此已廣泛應用於許多重要的真實世界領域，例如推薦系統和醫療分析。在實際應用之前，通過廣泛的訓練來識別針對特定任務調整的最佳 HGNN 模型參數是一個耗時且昂貴的過程。為了提高 HGNN 訓練的效率，必須描述和分析訓練過程中的執行語義和模式，以識別效能瓶頸。在本研究中，我們對兩個主流的 HGNN 訓練場景（包括單 GPU 和多 GPU 分散式訓練）進行深入的量化和分析。根據描述結果，我們揭示了不同 HGNN 訓練場景中的效能瓶頸及其根本原因，並從軟體和硬體的角度提供了最佳化指南。
+摘要：由於異質圖形神經網路 (HGNN) 對異質圖形資料有卓越的表示能力，因此已廣泛用於許多重要的真實世界領域，例如推薦系統和醫療分析。在實際應用之前，透過廣泛的訓練來找出針對特定任務量身打造的最佳 HGNN 模型參數，是一個耗時且昂貴的過程。為了提高 HGNN 訓練的效率，必須對訓練過程中執行語義和模式進行特徵化和分析，以找出效能瓶頸。在本研究中，我們對兩個主流 HGNN 訓練場景進行深入的量化和分析，包括單一 GPU 和多 GPU 分散式訓練。根據特徵化結果，我們揭露了不同 HGNN 訓練場景中的效能瓶頸及其根本原因，並從軟體和硬體角度提供最佳化準則。
 
 ##### **CCoE: A Compact LLM with Collaboration of Experts**
 2407.11686v2 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
@@ -1756,8 +1756,8 @@ interventions, and ultimately, a shift towards personalized healthcare.
 
 摘要：血液生物標記是醫療保健提供者用於診斷、監測和治療各種疾病的重要工具。目前的參考值和建議範圍通常依賴於人群統計數據，而這些數據可能無法充分說明由生活方式和基因等因素驅動的個體間變異的影響。在這項工作中，我們引入了一個新的框架來預測未來的血液生物標記值，並通過從生活方式數據（身體活動和睡眠）和血液生物標記中學習到的表徵來定義個性化參考。我們提出的方法學習了一個基於相似性的嵌入空間，該空間捕捉了生物標記和生活方式因素之間的複雜關係。使用英國生物銀行（257K 參與者），我們的結果表明，我們深度學習的嵌入優於傳統和當前最先進的表徵學習技術，可以預測臨床診斷。使用擁有後續訪視的 6440 名參與者的英國生物銀行子集，我們驗證了在血液生物標記模型中直接包含這些嵌入和生活方式因素可以改善從單次實驗室訪問中預測未來實驗室值。這種個性化建模方法為開發更準確的風險分層工具和定制預防保健策略提供了基礎。在臨床環境中，這轉化為早期疾病檢測、更及時的干預，最終轉向個性化醫療保健的潛力。
 
-##### **ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**
-2407.07042v1 by Lev Ayzenberg, Raja Giryes, Hayit Greenspan
+##### **ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models**
+2407.07042v2 by Lev Ayzenberg, Raja Giryes, Hayit Greenspan
 
 This work introduces a new framework, ProtoSAM, for one-shot medical image
 segmentation. It combines the use of prototypical networks, known for few-shot
@@ -1768,9 +1768,11 @@ initial mask, prompts are extracted, such as points and bounding boxes, which
 are then input into the Segment Anything Model (SAM). State-of-the-art results
 are shown on several medical image datasets and demonstrate automated
 segmentation capabilities using a single image example (one shot) with no need
-for fine-tuning of the foundation model.
+for fine-tuning of the foundation model. Our code is available at:
+https://github.com/levayz/ProtoSAM
 
-摘要：本研究提出一個新的架構，ProtoSAM，用於一次性醫學影像分割。它結合了原型網路的使用，以進行少次分割，以及 SAM - 一個自然影像基礎模型。所提出的方法使用 ALPnet 原型網路建立一個初始的粗略分割遮罩，並使用 DINOv2 編碼器進行擴充。在提取初始遮罩後，會提取提示，例如點和邊界框，然後將其輸入到 Segment Anything Model (SAM) 中。在多個醫學影像資料集上顯示了最先進的結果，並展示了使用單一影像範例（一次性）的自動分割功能，無需微調基礎模型。
+摘要：本研究提出一個新的架構，ProtoSAM，用於一次性的醫療影像分割。它結合了原型網路的使用，以進行少次分割，以及 SAM - 一個自然影像基礎模型。所提出的方法使用 ALPnet 原型網路建立一個初始的粗略分割遮罩，並使用 DINOv2 編碼器進行擴充。在提取初始遮罩後，會提取提示，例如點和邊界框，然後輸入到 Segment Anything Model (SAM)。在多個醫療影像資料集上顯示了最先進的結果，並展示了使用單一影像範例（一次）進行自動化分割的能力，而無需對基礎模型進行微調。我們的程式碼可在以下位置取得：
+https://github.com/levayz/ProtoSAM
 
 ##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
 2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier

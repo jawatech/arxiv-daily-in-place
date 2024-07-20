@@ -90,7 +90,7 @@
 |**2024-07-18**|**Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach**|Zhouyu Jiang et.al.|[2407.13101v1](http://arxiv.org/abs/2407.13101v1)|null|
 |**2024-07-18**|**AlcLaM: Arabic Dialectal Language Model**|Murtadha Ahmed et.al.|[2407.13097v1](http://arxiv.org/abs/2407.13097v1)|[link](https://github.com/amurtadha/alclam)|
 |**2024-07-18**|**MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking**|Ting-Chih Chen et.al.|[2407.13089v1](http://arxiv.org/abs/2407.13089v1)|null|
-|**2024-07-18**|**Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**|Sangyoun Lee et.al.|[2407.13078v1](http://arxiv.org/abs/2407.13078v1)|null|
+|**2024-07-18**|**Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**|Sangyoun Lee et.al.|[2407.13078v1](http://arxiv.org/abs/2407.13078v1)|[link](https://github.com/lsy0882/RDFA-S6)|
 |**2024-07-18**|**Dynamic Sentiment Analysis with Local Large Language Models using Majority Voting: A Study on Factors Affecting Restaurant Evaluation**|Junichiro Niimi et.al.|[2407.13069v1](http://arxiv.org/abs/2407.13069v1)|null|
 |**2024-07-17**|**Establishing Knowledge Preference in Language Models**|Sizhe Zhou et.al.|[2407.13048v1](http://arxiv.org/abs/2407.13048v1)|null|
 |**2024-07-17**|**Turkish Delights: a Dataset on Turkish Euphemisms**|Hasan Can Biyik et.al.|[2407.13040v1](http://arxiv.org/abs/2407.13040v1)|[link](https://github.com/hasancanbiyik/turkish_pets)|

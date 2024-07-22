@@ -2,8 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326v1](http://arxiv.org/abs/2407.14326v1)|null|
+|**2024-07-19**|**Fair Overlap Number of Balls (Fair-ONB): A Data-Morphology-based Undersampling Method for Bias Reduction**|José Daniel Pascual-Triana et.al.|[2407.14210v1](http://arxiv.org/abs/2407.14210v1)|null|
+|**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076v1](http://arxiv.org/abs/2407.14076v1)|null|
+|**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030v1](http://arxiv.org/abs/2407.14030v1)|null|
+|**2024-07-18**|**DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**|Xiaoya Tang et.al.|[2407.13920v1](http://arxiv.org/abs/2407.13920v1)|null|
+|**2024-07-18**|**Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset**|Yi Sheng et.al.|[2407.13896v1](http://arxiv.org/abs/2407.13896v1)|null|
 |**2024-07-18**|**Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**|Longchao Da et.al.|[2407.13689v1](http://arxiv.org/abs/2407.13689v1)|null|
-|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|null|
+|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
+|**2024-07-18**|**A review of handcrafted and deep radiomics in neurological diseases: transitioning from oncology to clinical neuroimaging**|Elizaveta Lavrova et.al.|[2407.13813v1](http://arxiv.org/abs/2407.13813v1)|null|
 |**2024-07-18**|**End-To-End Clinical Trial Matching with Large Language Models**|Dyke Ferber et.al.|[2407.13463v1](http://arxiv.org/abs/2407.13463v1)|null|
 |**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301v1](http://arxiv.org/abs/2407.13301v1)|null|
 |**2024-07-18**|**NODER: Image Sequence Regression Based on Neural Ordinary Differential Equations**|Hao Bai et.al.|[2407.13241v1](http://arxiv.org/abs/2407.13241v1)|null|
@@ -95,15 +102,158 @@
 |**2024-07-08**|**RadiomicsFill-Mammo: Synthetic Mammogram Mass Manipulation with Radiomics Features**|Inye Na et.al.|[2407.05683v1](http://arxiv.org/abs/2407.05683v1)|[link](https://github.com/nainye/radiomicsfill)|
 |**2024-07-08**|**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering**|Pingyi Chen et.al.|[2407.05603v1](http://arxiv.org/abs/2407.05603v1)|[link](https://github.com/cpystan/wsi-vqa)|
 |**2024-07-07**|**Accelerating MRI Uncertainty Estimation with Mask-based Bayesian Neural Network**|Zehuan Zhang et.al.|[2407.05521v1](http://arxiv.org/abs/2407.05521v1)|null|
-|**2024-07-07**|**A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions**|Fei Wang et.al.|[2407.05458v1](http://arxiv.org/abs/2407.05458v1)|null|
-|**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
-|**2024-07-07**|**FM-OSD: Foundation Model-Enabled One-Shot Detection of Anatomical Landmarks**|Juzheng Miao et.al.|[2407.05412v1](http://arxiv.org/abs/2407.05412v1)|[link](https://github.com/juzhengmiao/fm-osd)|
-|**2024-07-06**|**BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records**|Weimin Lyu et.al.|[2407.05213v1](http://arxiv.org/abs/2407.05213v1)|null|
-|**2024-07-06**|**RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models**|Peng Xia et.al.|[2407.05131v1](http://arxiv.org/abs/2407.05131v1)|[link](https://github.com/richard-peng-xia/rule)|
-|**2024-07-06**|**Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal**|Xiao Siyao et.al.|[2407.05087v1](http://arxiv.org/abs/2407.05087v1)|null|
-|**2024-07-05**|**Brain Age Estimation with a Greedy Dual-Stream Model for Limited Datasets**|Iman Kianian et.al.|[2407.04808v1](http://arxiv.org/abs/2407.04808v1)|[link](https://github.com/iman2693/gdsm)|
 
 #### Abstracts
+##### **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**
+2407.14326v1 by Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi
+
+Mammography is crucial for breast cancer surveillance and early diagnosis.
+However, analyzing mammography images is a demanding task for radiologists, who
+often review hundreds of mammograms daily, leading to overdiagnosis and
+overtreatment. Computer-Aided Diagnosis (CAD) systems have been developed to
+assist in this process, but their capabilities, particularly in lesion
+segmentation, remained limited. With the contemporary advances in deep learning
+their performance may be improved. Recently, vision-language diffusion models
+emerged, demonstrating outstanding performance in image generation and
+transferability to various downstream tasks. We aim to harness their
+capabilities for breast lesion segmentation in a panoptic setting, which
+encompasses both semantic and instance-level predictions. Specifically, we
+propose leveraging pretrained features from a Stable Diffusion model as inputs
+to a state-of-the-art panoptic segmentation architecture, resulting in accurate
+delineation of individual breast lesions. To bridge the gap between natural and
+medical imaging domains, we incorporated a mammography-specific MAM-E diffusion
+model and BiomedCLIP image and text encoders into this framework. We evaluated
+our approach on two recently published mammography datasets, CDD-CESM and
+VinDr-Mammo. For the instance segmentation task, we noted 40.25 AP0.1 and 46.82
+AP0.05, as well as 25.44 PQ0.1 and 26.92 PQ0.05. For the semantic segmentation
+task, we achieved Dice scores of 38.86 and 40.92, respectively.
+
+摘要：乳房攝影對於乳癌監控和早期診斷至關重要。
+然而，分析乳房攝影影像對放射科醫師來說是一項艱鉅的任務，他們
+每天經常檢閱數百張乳房攝影影像，導致過度診斷和
+過度治療。電腦輔助診斷 (CAD) 系統已開發出來以
+協助此流程，但其功能，特別是在病灶
+分割方面，仍然有限。隨著深度學習的當代進展
+其性能可能會得到改善。最近，視覺語言擴散模型
+出現，在影像生成和
+可轉移到各種下游任務中展現出傑出的性能。我們旨在利用其
+功能在全景設置中進行乳房病灶分割，其中
+包含語義和實例級別預測。具體來說，我們
+建議利用預先訓練的 Stable Diffusion 模型中的特徵作為輸入
+到最先進的全景分割架構，從而精確地描繪個別乳房病灶。為了彌合自然和
+醫學影像領域之間的差距，我們將乳房攝影專用的 MAM-E 擴散
+模型和 BiomedCLIP 影像和文字編碼器納入這個架構中。我們評估
+我們的方法在兩個最近發布的乳房攝影資料集 CDD-CESM 和
+VinDr-Mammo。對於實例分割任務，我們注意到 40.25 AP0.1 和 46.82
+AP0.05，以及 25.44 PQ0.1 和 26.92 PQ0.05。對於語義分割
+任務，我們分別達到了 38.86 和 40.92 的 Dice 分數。
+
+##### **Fair Overlap Number of Balls (Fair-ONB): A Data-Morphology-based Undersampling Method for Bias Reduction**
+2407.14210v1 by José Daniel Pascual-Triana, Alberto Fernández, Paulo Novais, Francisco Herrera
+
+Given the magnitude of data generation currently, both in quantity and speed,
+the use of machine learning is increasingly important. When data include
+protected features that might give rise to discrimination, special care must be
+taken. Data quality is critical in these cases, as biases in training data can
+be reflected in classification models. This has devastating consequences and
+fails to comply with current regulations. Data-Centric Artificial Intelligence
+proposes dataset modifications to improve its quality. Instance selection via
+undersampling can foster balanced learning of classes and protected feature
+values in the classifier. When such undersampling is done close to the decision
+boundary, the effect on the classifier would be bolstered. This work proposes
+Fair Overlap Number of Balls (Fair-ONB), an undersampling method that harnesses
+the data morphology of the different data groups (obtained from the combination
+of classes and protected feature values) to perform guided undersampling in the
+areas where they overlap. It employs attributes of the ball coverage of the
+groups, such as the radius, number of covered instances and density, to select
+the most suitable areas for undersampling and reduce bias. Results show that
+the Fair-ONB method reduces bias with low impact on the classifier's predictive
+performance.
+
+摘要：<paragraph>鉴于当前数据生成的规模，无论是在数量还是速度上，机器学习的使用变得越来越重要。当数据包含可能导致歧视的受保护特征时，必须特别小心。在这些情况下，数据质量至关重要，因为训练数据中的偏差可能会反映在分类模型中。这会产生毁灭性的后果，并且不符合当前法规。以数据为中心的 AI 提出了数据集修改以提高其质量。通过欠采样进行实例选择可以促进分类器中类和受保护特征值的平衡学习。当此类欠采样接近决策边界时，对分类器的影响将得到加强。这项工作提出了公平重叠球数 (Fair-ONB)，这是一种欠采样方法，利用不同数据组（从类和受保护特征值的组合中获得）的数据形态，在它们重叠的区域执行引导欠采样。它采用球覆盖的属性，例如半径、覆盖实例数和密度，以选择最适合欠采样的区域并减少偏差。结果表明，Fair-ONB 方法减少了偏差，对分类器的预测性能影响很小。</paragraph>
+
+##### **Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**
+2407.14076v1 by Tobias Kerner
+
+There are many cases where LLMs are used for specific tasks in a single
+domain. These usually require less general, but more domain-specific knowledge.
+Highly capable, general-purpose state-of-the-art language models like GPT-4 or
+Claude-3-opus can often be used for such tasks, but they are very large and
+cannot be run locally, even if they were not proprietary. This can be a problem
+when working with sensitive data. This paper focuses on domain-specific and
+mixed-domain pretraining as potentially more efficient methods than general
+pretraining for specialized language models. We will take a look at work
+related to domain-specific pretraining, specifically in the medical area, and
+compare benchmark results of specialized language models to general-purpose
+language models.
+
+摘要：在許多情況下，LLM 被用於單一領域中的特定任務。這些任務通常需要較少的通用知識，但需要更多特定領域的知識。功能強大、用途廣泛的最新語言模型，例如 GPT-4 或 Claude-3-opus，通常可用於此類任務，但它們非常龐大，即使不是專有軟體，也無法在本地執行。在處理敏感資料時，這可能會造成問題。本文重點探討特定領域和混合領域的預訓練，作為比一般預訓練更有效率的專業語言模型潛在方法。我們將探討與特定領域預訓練相關的工作，特別是在醫療領域，並比較專業語言模型與通用語言模型的基準測試結果。
+
+##### **HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**
+2407.14030v1 by Prerana Sanjay Kulkarni, Muskaan Jain, Disha Sheshanarayana, Srinivasan Parthiban
+
+Despite advancements in drug development strategies, 90% of clinical trials
+fail. This suggests overlooked aspects in target validation and drug
+optimization. In order to address this, we introduce HeCiX-KG,
+Hetionet-Clinicaltrials neXus Knowledge Graph, a novel fusion of data from
+ClinicalTrials.gov and Hetionet in a single knowledge graph. HeCiX-KG combines
+data on previously conducted clinical trials from ClinicalTrials.gov, and
+domain expertise on diseases and genes from Hetionet. This offers a thorough
+resource for clinical researchers. Further, we introduce HeCiX, a system that
+uses LangChain to integrate HeCiX-KG with GPT-4, and increase its usability.
+HeCiX shows high performance during evaluation against a range of clinically
+relevant issues, proving this model to be promising for enhancing the
+effectiveness of clinical research. Thus, this approach provides a more
+holistic view of clinical trials and existing biological data.
+
+摘要：儘管藥物開發策略有進展，90% 的臨床試驗都失敗了。這表示在目標驗證和藥物最佳化方面有被忽略的層面。為了解決這個問題，我們引進了 HeCiX-KG，Hetionet-Clinicaltrials neXus 知識圖譜，這是一個將 ClinicalTrials.gov 和 Hetionet 的資料融合在單一知識圖譜中的新穎融合。HeCiX-KG 結合了來自 ClinicalTrials.gov 的先前執行臨床試驗資料，以及來自 Hetionet 的疾病和基因領域專業知識。這為臨床研究人員提供了豐富的資源。此外，我們引進了 HeCiX，一個使用 LangChain 將 HeCiX-KG 與 GPT-4 整合，並提高其可用性的系統。HeCiX 在針對一系列臨床相關問題的評估中表現出高性能，證明了這個模型有望提高臨床研究的有效性。因此，這種方法提供了對臨床試驗和現有生物資料更全面的看法。
+
+##### **DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**
+2407.13920v1 by Xiaoya Tang, Bodong Zhang, Beatrice S. Knudsen, Tolga Tasdizen
+
+We here propose a novel hierarchical transformer model that adeptly
+integrates the feature extraction capabilities of Convolutional Neural Networks
+(CNNs) with the advanced representational potential of Vision Transformers
+(ViTs). Addressing the lack of inductive biases and dependence on extensive
+training datasets in ViTs, our model employs a CNN backbone to generate
+hierarchical visual representations. These representations are then adapted for
+transformer input through an innovative patch tokenization. We also introduce a
+'scale attention' mechanism that captures cross-scale dependencies,
+complementing patch attention to enhance spatial understanding and preserve
+global perception. Our approach significantly outperforms baseline models on
+small and medium-sized medical datasets, demonstrating its efficiency and
+generalizability. The components are designed as plug-and-play for different
+CNN architectures and can be adapted for multiple applications. The code is
+available at https://github.com/xiaoyatang/DuoFormer.git.
+
+摘要：我們在此提出一個新穎的分層Transformer模型，它巧妙地整合了卷積神經網路 (CNN) 的特徵擷取能力，以及視覺Transformer (ViT) 的先進表示潛力。針對 ViT 中缺乏歸納偏誤和依賴於廣泛訓練資料集的問題，我們的模型採用 CNN 主幹來產生分層視覺表示。這些表示接著透過創新的區塊標記化，調整為Transformer輸入。我們也引入「尺度注意力」機制，它捕捉跨尺度依賴性，補充區塊注意力以增強空間理解並保留全局感知。我們的做法在小型和中型的醫學資料集上，明顯優於基線模型，證明了它的效率和可概化性。這些組件被設計成即插即用，適用於不同的 CNN 架構，並且可以調整為多種應用程式。程式碼可在 https://github.com/xiaoyatang/DuoFormer.git 取得。
+
+##### **Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset**
+2407.13896v1 by Yi Sheng, Junhuan Yang, Jinyang Li, James Alaina, Xiaowei Xu, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang
+
+As Artificial Intelligence (AI) increasingly integrates into our daily lives,
+fairness has emerged as a critical concern, particularly in medical AI, where
+datasets often reflect inherent biases due to social factors like the
+underrepresentation of marginalized communities and socioeconomic barriers to
+data collection. Traditional approaches to mitigating these biases have focused
+on data augmentation and the development of fairness-aware training algorithms.
+However, this paper argues that the architecture of neural networks, a core
+component of Machine Learning (ML), plays a crucial role in ensuring fairness.
+We demonstrate that addressing fairness effectively requires a holistic
+approach that simultaneously considers data, algorithms, and architecture.
+Utilizing Automated ML (AutoML) technology, specifically Neural Architecture
+Search (NAS), we introduce a novel framework, BiaslessNAS, designed to achieve
+fair outcomes in analyzing skin lesion datasets. BiaslessNAS incorporates
+fairness considerations at every stage of the NAS process, leading to the
+identification of neural networks that are not only more accurate but also
+significantly fairer. Our experiments show that BiaslessNAS achieves a 2.55%
+increase in accuracy and a 65.50% improvement in fairness compared to
+traditional NAS methods, underscoring the importance of integrating fairness
+into neural network architecture for better outcomes in medical AI
+applications.
+
+摘要：隨著人工智慧（AI）日益融入我們的日常生活，公平性已成為一項至關重要的考量，特別是在醫療 AI 領域，其中由於社會因素（例如邊緣化社群的代表性不足和資料收集的社會經濟障礙），資料集往往反映出固有的偏見。減輕這些偏見的傳統方法著重於資料擴充和開發注重公平性的訓練演算法。然而，本文論證神經網路的架構（機器學習（ML）的核心組成部分）在確保公平性方面發揮著至關重要的作用。我們證明，有效解決公平性問題需要一種全面的方法，該方法同時考慮資料、演算法和架構。利用自動化 ML（AutoML）技術，特別是神經架構搜尋（NAS），我們引入了一個新穎的框架 BiaslessNAS，旨在分析皮膚病變資料集時獲得公平的結果。BiaslessNAS 在 NAS 程序的每個階段都納入了公平性考量，從而識別出不僅更準確，而且也顯著更公平的神經網路。我們的實驗表明，與傳統的 NAS 方法相比，BiaslessNAS 的準確度提高了 2.55%，公平性提高了 65.50%，這凸顯了將公平性整合到神經網路架構中對於改善醫療 AI 應用中的結果的重要性。
+
 ##### **Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**
 2407.13689v1 by Longchao Da, Rohan Chhibba, Rushabh Jaiswal, Ariane Middel, Hua Wei
 
@@ -149,6 +299,30 @@ computers used by clinicians , project page
 \url{https://github.com/Glenj01/Medical-Coding}.
 
 摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
+
+##### **A review of handcrafted and deep radiomics in neurological diseases: transitioning from oncology to clinical neuroimaging**
+2407.13813v1 by Elizaveta Lavrova, Henry C. Woodruff, Hamza Khan, Eric Salmon, Philippe Lambin, Christophe Phillips
+
+Medical imaging technologies have undergone extensive development, enabling
+non-invasive visualization of clinical information. The traditional review of
+medical images by clinicians remains subjective, time-consuming, and prone to
+human error. With the recent availability of medical imaging data,
+quantification have become important goals in the field. Radiomics, a
+methodology aimed at extracting quantitative information from imaging data, has
+emerged as a promising approach to uncover hidden biological information and
+support decision-making in clinical practice. This paper presents a review of
+the radiomic pipeline from the clinical neuroimaging perspective, providing a
+detailed overview of each step with practical advice. It discusses the
+application of handcrafted and deep radiomics in neuroimaging, stratified by
+neurological diagnosis. Although radiomics shows great potential for increasing
+diagnostic precision and improving treatment quality in neurology, several
+limitations hinder its clinical implementation. Addressing these challenges
+requires collaborative efforts, advancements in image harmonization methods,
+and the establishment of reproducible and standardized pipelines with
+transparent reporting. By overcoming these obstacles, radiomics can
+significantly impact clinical neurology and enhance patient care.
+
+摘要：醫學影像技術已歷經廣泛發展，能以非侵入性方式視覺化臨床資訊。臨床醫師傳統上對醫學影像的檢視仍主觀、耗時，且容易發生人為錯誤。隨著醫學影像資料近期變得容易取得，量化已成為該領域的重要目標。放射特徵組學是一種旨在從影像資料中萃取量化資訊的方法，已成為一種有望揭露隱藏生物資訊並支援臨床實務決策制定的方法。本文回顧了放射特徵組學管線在臨床神經影像的觀點，並提供各步驟的詳細概觀和實用建議。本文討論了人工製作和深度放射特徵組學在神經影像中的應用，並依神經診斷分層。儘管放射特徵組學在提高神經科診斷精準度和改善治療品質方面顯示出極大的潛力，但仍有若干限制阻礙其臨床應用。要解決這些挑戰，需要合作努力、影像調和方法的進展，以及建立具有透明報告的可複製且標準化的管線。透過克服這些障礙，放射特徵組學將能顯著影響臨床神經科並提升病患照護。
 
 ##### **End-To-End Clinical Trial Matching with Large Language Models**
 2407.13463v1 by Dyke Ferber, Lars Hilgers, Isabella C. Wiest, Marie-Elisabeth Leßmann, Jan Clusmann, Peter Neidlinger, Jiefu Zhu, Georg Wölflein, Jacqueline Lammert, Maximilian Tschochohei, Heiko Böhme, Dirk Jäger, Mihaela Aldea, Daniel Truhn, Christiane Höper, Jakob Nikolas Kather
@@ -2465,177 +2639,4 @@ times speedup on an Xilinx VU13P FPGA compared to GPU and CPU implementations
 with reduced power consumption.
 
 摘要：精準可靠的磁振造影 (MRI) 分析對於適應性放射治療特別重要，這是一種近期醫療進展，能夠改善癌症診斷和治療。最近的研究顯示，深度神經網路 (DNN) 的 IVIM-NET 能在 MRI 分析中達到高準確度，顯示深度學習有潛力增強醫療保健中的診斷能力。然而，IVIM-NET 沒有提供在醫療保健中進行可靠且值得信賴的預測所需的校準不確定性資訊。此外，IVIM-NET 昂貴的運算和記憶體需求降低了硬體效能，阻礙了在實際場景中的廣泛採用。為了解決這些挑戰，本文提出了一種演算法與硬體共同最佳化的流程，以進行高性能且可靠的 MRI 分析。在演算法層級，引入了轉換設計流程，將 IVIM-NET 轉換為基於遮罩的貝氏神經網路 (BayesNN)，促進可靠且有效的非確定性估計。在硬體層級，我們提出了一種基於 FPGA 的加速器，具備多項硬體最佳化，例如遮罩零跳過和運算重新排序。實驗結果證明，我們的共同設計方法可以滿足 MRI 分析的不確定性需求，同時在 Xilinx VU13P FPGA 上實現比 GPU 和 CPU 實作快上 7.5 倍和 32.5 倍的速度，且功耗降低。
-
-##### **A Survey of Models for Cognitive Diagnosis: New Developments and Future Directions**
-2407.05458v1 by Fei Wang, Weibo Gao, Qi Liu, Jiatong Li, Guanhao Zhao, Zheng Zhang, Zhenya Huang, Mengxiao Zhu, Shijin Wang, Wei Tong, Enhong Chen
-
-Cognitive diagnosis has been developed for decades as an effective
-measurement tool to evaluate human cognitive status such as ability level and
-knowledge mastery. It has been applied to a wide range of fields including
-education, sport, psychological diagnosis, etc. By providing better awareness
-of cognitive status, it can serve as the basis for personalized services such
-as well-designed medical treatment, teaching strategy and vocational training.
-This paper aims to provide a survey of current models for cognitive diagnosis,
-with more attention on new developments using machine learning-based methods.
-By comparing the model structures, parameter estimation algorithms, model
-evaluation methods and applications, we provide a relatively comprehensive
-review of the recent trends in cognitive diagnosis models. Further, we discuss
-future directions that are worthy of exploration. In addition, we release two
-Python libraries: EduData for easy access to some relevant public datasets we
-have collected, and EduCDM that implements popular CDMs to facilitate both
-applications and research purposes.
-
-摘要：認知診斷已發展數十年，作為評估人類認知狀態（例如能力水平和知識掌握）的有效測量工具。它已被應用於廣泛的領域，包括教育、體育、心理診斷等。透過提供對認知狀態的更好認識，它可以作為個人化服務的基礎，例如精心設計的醫療治療、教學策略和職業訓練。本文旨在提供認知診斷當前模型的綜述，並更關注使用基於機器學習的方法的新發展。透過比較模型結構、參數估計演算法、模型評估方法和應用，我們對認知診斷模型的最新趨勢提供了相對全面的回顧。此外，我們討論了值得探索的未來方向。此外，我們發布了兩個 Python 程式庫：EduData，用於輕鬆存取我們收集的一些相關公開資料集，以及 EduCDM，用於實作熱門的 CDM，以促進應用和研究目的。
-
-##### **Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**
-2407.05440v1 by P. N. Karthikayan, Yoga Sri Varshan V, Hitesh Gupta Kattamuri, Umarani Jayaraman
-
-This paper presents dilated Residual Network (ResNet) models for disease
-classification from retinal fundus images. Dilated convolution filters are used
-to replace normal convolution filters in the higher layers of the ResNet model
-(dilated ResNet) in order to improve the receptive field compared to the normal
-ResNet model for disease classification. This study introduces
-computer-assisted diagnostic tools that employ deep learning, enhanced with
-explainable AI techniques. These techniques aim to make the tool's
-decision-making process transparent, thereby enabling medical professionals to
-understand and trust the AI's diagnostic decision. They are particularly
-relevant in today's healthcare landscape, where there is a growing demand for
-transparency in AI applications to ensure their reliability and ethical use.
-The dilated ResNet is used as a replacement for the normal ResNet to enhance
-the classification accuracy of retinal eye diseases and reduce the required
-computing time. The dataset used in this work is the Ocular Disease Intelligent
-Recognition (ODIR) dataset which is a structured ophthalmic database with eight
-classes covering most of the common retinal eye diseases. The evaluation
-metrics used in this work include precision, recall, accuracy, and F1 score. In
-this work, a comparative study has been made between normal ResNet models and
-dilated ResNet models on five variants namely ResNet-18, ResNet-34, ResNet-50,
-ResNet-101, and ResNet-152. The dilated ResNet model shows promising results as
-compared to normal ResNet with an average F1 score of 0.71, 0.70, 0.69, 0.67,
-and 0.70 respectively for the above respective variants in ODIR multiclass
-disease classification.
-
-摘要：<paragraph>本文提出了用于视网膜眼底图像疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善与用于疾病分类的正常 ResNet 模型相比的感受野。本研究介绍了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医疗专业人员能够理解和信任 AI 的诊断决策。它们在当今医疗保健领域尤为重要，因为对 AI 应用程序的透明度需求不断增长，以确保其可靠性和道德使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼病的分类准确性并减少所需的计算时间。本工作中使用的数据集是 Ocular Disease Intelligent Recognition (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 分数。在这项工作中，对正常 ResNet 模型和扩张 ResNet 模型在五个变体（即 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152）之间进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 分数分别为 0.71、0.70、0.69、0.67 和 0.70。</paragraph>
-
-##### **FM-OSD: Foundation Model-Enabled One-Shot Detection of Anatomical Landmarks**
-2407.05412v1 by Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li, Pheng-Ann Heng
-
-One-shot detection of anatomical landmarks is gaining significant attention
-for its efficiency in using minimal labeled data to produce promising results.
-However, the success of current methods heavily relies on the employment of
-extensive unlabeled data to pre-train an effective feature extractor, which
-limits their applicability in scenarios where a substantial amount of unlabeled
-data is unavailable. In this paper, we propose the first foundation
-model-enabled one-shot landmark detection (FM-OSD) framework for accurate
-landmark detection in medical images by utilizing solely a single template
-image without any additional unlabeled data. Specifically, we use the frozen
-image encoder of visual foundation models as the feature extractor, and
-introduce dual-branch global and local feature decoders to increase the
-resolution of extracted features in a coarse to fine manner. The introduced
-feature decoders are efficiently trained with a distance-aware similarity
-learning loss to incorporate domain knowledge from the single template image.
-Moreover, a novel bidirectional matching strategy is developed to improve both
-robustness and accuracy of landmark detection in the case of scattered
-similarity map obtained by foundation models. We validate our method on two
-public anatomical landmark detection datasets. By using solely a single
-template image, our method demonstrates significant superiority over strong
-state-of-the-art one-shot landmark detection methods.
-
-摘要：解剖標誌的一發偵測因其使用最少標籤資料產生有前景結果的效率而獲得顯著關注。然而，目前方法的成功極度依賴運用廣泛的未標籤資料來預先訓練一個有效特徵萃取器，這限制了其在大量未標籤資料不可用的情況下的適用性。在本文中，我們提出第一個基礎模型啟用的單發標誌偵測 (FM-OSD) 架構，藉由僅僅利用單一範本影像而無任何其他未標籤資料，在醫學影像中進行精確標誌偵測。具體來說，我們使用視覺基礎模型的凍結影像編碼器作為特徵萃取器，並引入雙分支全局和局部特徵解碼器，以粗到細的方式增加萃取特徵的分辨率。引入的特徵解碼器利用距離感知相似性學習損失函數進行有效訓練，以納入單一範本影像的領域知識。此外，開發了一種新穎的雙向匹配策略，以提高基礎模型取得的散佈相似性圖在標誌偵測中的穩健性和準確性。我們在兩個公開的解剖標誌偵測資料集驗證我們的模型。我們的模型僅使用單一範本影像，證明其優於現有技術中強大的單發標誌偵測方法。
-
-##### **BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records**
-2407.05213v1 by Weimin Lyu, Zexin Bi, Fusheng Wang, Chao Chen
-
-The advent of clinical language models integrated into electronic health
-records (EHR) for clinical decision support has marked a significant
-advancement, leveraging the depth of clinical notes for improved
-decision-making. Despite their success, the potential vulnerabilities of these
-models remain largely unexplored. This paper delves into the realm of backdoor
-attacks on clinical language models, introducing an innovative attention-based
-backdoor attack method, BadCLM (Bad Clinical Language Models). This technique
-clandestinely embeds a backdoor within the models, causing them to produce
-incorrect predictions when a pre-defined trigger is present in inputs, while
-functioning accurately otherwise. We demonstrate the efficacy of BadCLM through
-an in-hospital mortality prediction task with MIMIC III dataset, showcasing its
-potential to compromise model integrity. Our findings illuminate a significant
-security risk in clinical decision support systems and pave the way for future
-endeavors in fortifying clinical language models against such vulnerabilities.
-
-摘要：臨床語言模型整合到電子健康紀錄 (EHR) 中以進行臨床決策支援，標誌著一項重大的進展，利用臨床筆記的深度來改善決策制定。儘管這些模型取得了成功，但它們的潛在漏洞在很大程度上仍未得到探索。本文深入探討了針對臨床語言模型的後門攻擊領域，介紹了一種創新的基於注意力的後門攻擊方法 BadCLM（不良臨床語言模型）。這種技術秘密地在模型中嵌入了一個後門，導致它們在輸入中存在預定義觸發器時產生不正確的預測，而其他情況下則準確運作。我們通過使用 MIMIC III 資料集進行院內死亡率預測任務來證明 BadCLM 的效力，展示了其損害模型完整性的潛力。我們的發現揭示了臨床決策支援系統中的一個重大安全風險，並為未來加強臨床語言模型以應對此類漏洞的努力鋪平了道路。
-
-##### **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models**
-2407.05131v1 by Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao
-
-The recent emergence of Medical Large Vision Language Models (Med-LVLMs) has
-enhanced medical diagnosis. However, current Med-LVLMs frequently encounter
-factual issues, often generating responses that do not align with established
-medical facts. Retrieval-Augmented Generation (RAG), which utilizes external
-knowledge, can improve the factual accuracy of these models but introduces two
-major challenges. First, limited retrieved contexts might not cover all
-necessary information, while excessive retrieval can introduce irrelevant and
-inaccurate references, interfering with the model's generation. Second, in
-cases where the model originally responds correctly, applying RAG can lead to
-an over-reliance on retrieved contexts, resulting in incorrect answers. To
-address these issues, we propose RULE, which consists of two components. First,
-we introduce a provably effective strategy for controlling factuality risk
-through the calibrated selection of the number of retrieved contexts. Second,
-based on samples where over-reliance on retrieved contexts led to errors, we
-curate a preference dataset to fine-tune the model, balancing its dependence on
-inherent knowledge and retrieved contexts for generation. We demonstrate the
-effectiveness of RULE on three medical VQA datasets, achieving an average
-improvement of 20.8% in factual accuracy. We publicly release our benchmark and
-code in https://github.com/richard-peng-xia/RULE.
-
-摘要：最近出現的醫療大型語言模型 (Med-LVLMs) 提升了醫療診斷。然而，目前的 Med-LVLMs 經常遇到事實問題，通常會產生與已確立的醫療事實不符的回應。利用外部知識的檢索增強生成 (RAG) 可以改善這些模型的事實準確性，但引入了兩個主要挑戰。首先，有限的檢索內容可能無法涵蓋所有必要的資訊，而過度的檢索可能會引入不相關和不準確的參考，干擾模型的生成。其次，在模型原本正確回應的情況下，應用 RAG 可能會過度依賴檢索到的內容，導致不正確的答案。為了解決這些問題，我們提出了 RULE，它包含兩個組成部分。首先，我們引入了一種可證明有效的策略，透過校準檢索到的內容數量來控制事實風險。其次，根據過度依賴檢索到的內容導致錯誤的範例，我們策劃了一個偏好資料集來微調模型，平衡其在生成時對內在知識和檢索到的內容的依賴性。我們在三個醫療 VQA 資料集上展示了 RULE 的有效性，在事實準確性方面平均提升了 20.8%。我們在 https://github.com/richard-peng-xia/RULE 中公開發布我們的基準和程式碼。
-
-##### **Linear Attention Based Deep Nonlocal Means Filtering for Multiplicative Noise Removal**
-2407.05087v1 by Xiao Siyao, Huang Libing, Zhang Shunsheng
-
-Multiplicative noise widely exists in radar images, medical images and other
-important fields' images. Compared to normal noises, multiplicative noise has a
-generally stronger effect on the visual expression of images. Aiming at the
-denoising problem of multiplicative noise, we linearize the nonlocal means
-algorithm with deep learning and propose a linear attention mechanism based
-deep nonlocal means filtering (LDNLM). Starting from the traditional nonlocal
-means filtering, we employ deep channel convolution neural networks to extract
-the information of the neighborhood matrix and obtain representation vectors of
-every pixel. Then we replace the similarity calculation and weighted averaging
-processes with the inner operations of the attention mechanism. To reduce the
-computational overhead, through the formula of similarity calculation and
-weighted averaging, we derive a nonlocal filter with linear complexity.
-Experiments on both simulated and real multiplicative noise demonstrate that
-the LDNLM is more competitive compared with the state-of-the-art methods.
-Additionally, we prove that the LDNLM possesses interpretability close to
-traditional NLM.
-
-摘要：乘性雜訊廣泛存在於雷達影像、醫學影像等重要領域的影像中。相較於一般雜訊，乘性雜訊對影像的視覺表現具有普遍更強的影響。針對乘性雜訊的去雜訊問題，我們以深度學習線性化非局部均值演算法，並提出基於線性注意力機制的深度非局部均值濾波（LDNLM）。從傳統非局部均值濾波出發，我們採用深度通道卷積神經網路提取鄰域矩陣的資訊，並取得每個畫素的表示向量。接著，我們以注意力機制的內部運算取代相似度計算與加權平均的程序。為了降低運算負擔，我們透過相似度計算與加權平均的公式，推導出具有線性複雜度的非局部濾波器。在模擬與真實乘性雜訊上的實驗均證實，LDNLM 與目前最先進的方法相比更具競爭力。此外，我們證明 LDNLM 具備接近傳統 NLM 的可解釋性。
-
-##### **Brain Age Estimation with a Greedy Dual-Stream Model for Limited Datasets**
-2407.04808v1 by Iman Kianian, Hedieh Sajedi
-
-Brain age estimation involves predicting the biological age of individuals
-from their brain images, which offers valuable insights into the aging process
-and the progression of neurodegenerative diseases. Conducting large-scale
-datasets for medical image analysis is a challenging and time-consuming task.
-Existing approaches mostly depend on large datasets, which are hard to come by
-and expensive. These approaches also require sophisticated, resource-intensive
-models with a large number of parameters, necessitating a considerable amount
-of processing power. As a result, there is a vital need to develop innovative
-methods that can achieve robust performance with limited datasets and efficient
-use of computational resources. This paper proposes a novel slice-based
-dual-stream method called GDSM (Greedy Dual-Stream Model) for brain age
-estimation. This method addresses the limitations of large dataset requirements
-and computational resource intensiveness. The proposed method incorporates
-local and global aspects of the brain, thereby refining the focus on specific
-target regions. The approach employs four backbones to predict ages based on
-local and global features, complemented by a final model for age correction.
-Our method demonstrates a Mean Absolute Error (MAE) of 3.25 years on the test
-set of IBID, which only contains 289 subjects. To demonstrate the robustness of
-our approach for any small dataset, we analyzed the proposed method with the
-IXI dataset and achieved an MAE of 4.18 years on the test set of IXI. By
-leveraging dual-stream and greedy strategies, this approach achieves efficiency
-and robust performance, making it comparable with other state-of-the-art
-methods. The code for the GDSM model is available at
-https://github.com/iman2693/GDSM.
-
-摘要：大腦年齡估計涉及從大腦影像預測個體的生物年齡，這對老化過程和神經退化性疾病的進展提供了寶貴的見解。對醫學影像分析進行大規模的數據集處理是一項具有挑戰性且耗時的任務。現有的方法大多依賴於大型數據集，而這些數據集難以獲得且昂貴。這些方法還需要複雜的、資源密集型的模型，這些模型具有大量的參數，需要大量的處理能力。因此，迫切需要開發創新的方法，這些方法可以在有限的數據集和高效利用計算資源的情況下實現穩健的性能。本文提出了一種稱為 GDSM（貪婪雙流模型）的新型基於切片的雙流方法，用於大腦年齡估計。這種方法解決了對大型數據集需求和計算資源密集性的限制。所提出的方法結合了大腦的局部和全局方面，從而精確關注具體的目標區域。該方法採用四個主幹根據局部和全局特徵預測年齡，並輔以一個最終模型進行年齡校正。我們的模型在僅包含 289 個受試者的 IBID 測試集中展示了 3.25 年的平均絕對誤差 (MAE)。為了證明我們的模型對任何小型數據集的穩健性，我們使用 IXI 數據集分析了所提出的方法，並在 IXI 的測試集中實現了 4.18 年的 MAE。通過利用雙流和貪婪策略，這種方法實現了高效和穩健的性能，使其與其他最先進的方法相當。GDSM 模型的代碼可在 https://github.com/iman2693/GDSM 上獲得。
 

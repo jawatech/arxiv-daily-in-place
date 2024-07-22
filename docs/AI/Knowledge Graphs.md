@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
+|**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v2](http://arxiv.org/abs/2407.12703v2)|null|
@@ -100,10 +102,55 @@
 |**2024-06-19**|**Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation**|Haochen Liu et.al.|[2406.15507v1](http://arxiv.org/abs/2406.15507v1)|[link](https://github.com/HaochenLiu2000/SAFER)|
 |**2024-06-19**|**Dr.E Bridges Graphs with Large Language Models through Words**|Zipeng Liu et.al.|[2406.15504v1](http://arxiv.org/abs/2406.15504v1)|null|
 |**2024-06-19**|**Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph Integration**|Han-Cheng Yu et.al.|[2406.13578v1](http://arxiv.org/abs/2406.13578v1)|null|
-|**2024-06-19**|**LangTopo: Aligning Language Descriptions of Graphs with Tokenized Topological Modeling**|Zhong Guan et.al.|[2406.13250v1](http://arxiv.org/abs/2406.13250v1)|null|
-|**2024-06-19**|**Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235v1](http://arxiv.org/abs/2406.13235v1)|null|
 
 #### Abstracts
+##### **Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**
+2407.14224v1 by Suvajit Patra, Arkadip Maitra, Megha Tiwari, K. Kumaran, Swathy Prabhu, Swami Punyeshwarananda, Soumitra Samanta
+
+Automatic Sign Language (SL) recognition is an important task in the computer
+vision community. To build a robust SL recognition system, we need a
+considerable amount of data which is lacking particularly in Indian sign
+language (ISL). In this paper, we propose a large-scale isolated ISL dataset
+and a novel SL recognition model based on skeleton graph structure. The dataset
+covers 2,002 daily used common words in the deaf community recorded by 20 (10
+male and 10 female) deaf adult signers (contains 40033 videos). We propose a SL
+recognition model namely Hierarchical Windowed Graph Attention Network (HWGAT)
+by utilizing the human upper body skeleton graph structure. The HWGAT tries to
+capture distinctive motions by giving attention to different body parts induced
+by the human skeleton graph structure. The utility of the proposed dataset and
+the usefulness of our model are evaluated through extensive experiments. We
+pre-trained the proposed model on the proposed dataset and fine-tuned it across
+different sign language datasets further boosting the performance of 1.10,
+0.46, 0.78, and 6.84 percentage points on INCLUDE, LSA64, AUTSL and WLASL
+respectively compared to the existing state-of-the-art skeleton-based models.
+
+摘要：自動手語 (SL) 識別是電腦視覺社群中的重要任務。要建立強健的 SL 識別系統，我們需要大量的資料，而這在印度手語 (ISL) 中特別缺乏。在本文中，我們提出一個大規模的孤立 ISL 資料集，以及一個基於骨架圖結構的新型 SL 識別模型。該資料集涵蓋 2,002 個聾啞社群中常用的日常單字，由 20 位 (10 男 10 女) 聾啞成人手語者錄製（包含 40033 部影片）。我們提出一個 SL 識別模型，即分層視窗圖注意力網路 (HWGAT)，利用人體上半身骨架圖結構。HWGAT 嘗試透過關注由人體骨架圖結構誘導的不同身體部位來捕捉獨特的動作。透過廣泛的實驗評估所提出的資料集的效用和我們模型的有用性。我們在所提出的資料集上預訓練所提出的模型，並在不同的手語資料集上微調它，進一步提升了 INCLUDE、LSA64、AUTSL 和 WLASL 上 1.10、0.46、0.78 和 6.84 個百分點的效能，分別與現有的最先進的基於骨架的模型相比。
+
+##### **Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**
+2407.13989v1 by Quan Li, Tianxiang Zhao, Lingwei Chen, Junjie Xu, Suhang Wang
+
+Graphs have emerged as critical data structures for content analysis in
+various domains, such as social network analysis, bioinformatics, and
+recommendation systems. Node classification, a fundamental task in this
+context, is typically tackled using graph neural networks (GNNs).
+Unfortunately, conventional GNNs still face challenges in scenarios with few
+labeled nodes, despite the prevalence of few-shot node classification tasks in
+real-world applications. To address this challenge, various approaches have
+been proposed, including graph meta-learning, transfer learning, and methods
+based on Large Language Models (LLMs). However, traditional meta-learning and
+transfer learning methods often require prior knowledge from base classes or
+fail to exploit the potential advantages of unlabeled nodes. Meanwhile,
+LLM-based methods may overlook the zero-shot capabilities of LLMs and rely
+heavily on the quality of generated contexts. In this paper, we propose a novel
+approach that integrates LLMs and GNNs, leveraging the zero-shot inference and
+reasoning capabilities of LLMs and employing a Graph-LLM-based active learning
+paradigm to enhance GNNs' performance. Extensive experiments demonstrate the
+effectiveness of our model in improving node classification accuracy with
+considerably limited labeled data, surpassing state-of-the-art baselines by
+significant margins.
+
+摘要：圖表已成為各種領域中內容分析的關鍵數據結構，例如社交網路分析、生物資訊學和推薦系統。節點分類是此脈絡中的基本任務，通常使用圖形神經網路 (GNN) 來處理。不幸的是，儘管現實世界應用中普遍存在少樣本節點分類任務，但傳統的 GNN 在標記節點很少的情況下仍面臨挑戰。為了應對這一挑戰，已提出各種方法，包括圖形元學習、遷移學習和基於大型語言模型 (LLM) 的方法。然而，傳統的元學習和遷移學習方法通常需要來自基礎類別的先驗知識，或者無法利用未標記節點的潛在優勢。同時，基於 LLM 的方法可能會忽視 LLM 的零樣本能力，並且過度依賴生成語境的品質。在本文中，我們提出了一種新的方法，它整合了 LLM 和 GNN，利用 LLM 的零樣本推論和推理能力，並採用基於 Graph-LLM 的主動學習範例來增強 GNN 的效能。廣泛的實驗證明了我們的模型在改進節點分類準確度方面的有效性，標記數據相當有限，顯著超越了最先進的基準。
+
 ##### **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
 2407.13699v1 by Shaina Raza, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, Amirmohammad Kazemeini
 
@@ -2450,56 +2497,4 @@ best-performing model advances the F1@3 score from 14.80 to 16.47 in MCQ
 dataset and from 15.92 to 16.50 in Sciq dataset.
 
 摘要：在本文中，我们處理多選題的干擾器生成 (DG) 任務。我們的研究引入了兩個關鍵設計。首先，我們提出「檢索增強預訓練」，其中包含優化語言模型預訓練，使其與 DG 的下游任務更緊密地對齊。其次，我們探討知識圖表的整合，以增強 DG 的效能。透過基準資料集的實驗，我們證明我們的模型明顯優於最先進的結果。我們效能最佳的模型將 MCQ 資料集中的 F1@3 分數從 14.80 提升到 16.47，在 Sciq 資料集中從 15.92 提升到 16.50。
-
-##### **LangTopo: Aligning Language Descriptions of Graphs with Tokenized Topological Modeling**
-2406.13250v1 by Zhong Guan, Hongke Zhao, Likang Wu, Ming He, Jianpin Fan
-
-Recently, large language models (LLMs) have been widely researched in the
-field of graph machine learning due to their outstanding abilities in language
-comprehension and learning. However, the significant gap between natural
-language tasks and topological structure modeling poses a nonnegligible
-challenge. Specifically, since natural language descriptions are not sufficient
-for LLMs to understand and process graph-structured data, fine-tuned LLMs
-perform even worse than some traditional GNN models on graph tasks, lacking
-inherent modeling capabilities for graph structures. Existing research overly
-emphasizes LLMs' understanding of semantic information captured by external
-models, while inadequately exploring graph topological structure modeling,
-thereby overlooking the genuine capabilities that LLMs lack. Consequently, in
-this paper, we introduce a new framework, LangTopo, which aligns graph
-structure modeling with natural language understanding at the token level.
-LangTopo quantifies the graph structure modeling capabilities of GNNs and LLMs
-by constructing a codebook for the graph modality and performs consistency
-maximization. This process aligns the text description of LLM with the
-topological modeling of GNN, allowing LLM to learn the ability of GNN to
-capture graph structures, enabling LLM to handle graph-structured data
-independently. We demonstrate the effectiveness of our proposed method on
-multiple datasets.
-
-摘要：<paragraph>最近，大语言模型 (LLM) 由于其在语言理解和学习方面的出色能力而在图机器学习领域受到广泛研究。然而，自然语言任务和拓扑结构建模之间的巨大差距构成了不可忽视的挑战。具体来说，由于自然语言描述不足以让 LLM 理解和处理图结构化数据，因此经过微调的 LLM 在图任务上的表现甚至比一些传统的 GNN 模型还要差，缺乏对图结构的固有建模能力。现有研究过分强调 LLM 对外部模型捕获的语义信息的理解，而对图拓扑结构建模的探索不足，从而忽视了 LLM 所缺乏的真正能力。因此，在本文中，我们引入了一个新的框架 LangTopo，它在标记级别将图结构建模与自然语言理解相结合。LangTopo 通过为图模态构建码本并执行一致性最大化来量化 GNN 和 LLM 的图结构建模能力。此过程将 LLM 的文本描述与 GNN 的拓扑建模相结合，使 LLM 能够学习 GNN 捕获图结构的能力，从而使 LLM 能够独立处理图结构化数据。我们在多个数据集上展示了我们提出的方法的有效性。</paragraph>
-
-##### **Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**
-2406.13235v1 by Zhong Guan, Likang Wu, Hongke Zhao, Ming He, Jianpin Fan
-
-Large Language Models (LLMs) are increasingly prominent in the recommendation
-systems domain. Existing studies usually utilize in-context learning or
-supervised fine-tuning on task-specific data to align LLMs into
-recommendations. However, the substantial bias in semantic spaces between
-language processing tasks and recommendation tasks poses a nonnegligible
-challenge. Specifically, without the adequate capturing ability of
-collaborative information, existing modeling paradigms struggle to capture
-behavior patterns within community groups, leading to LLMs' ineffectiveness in
-discerning implicit interaction semantic in recommendation scenarios. To
-address this, we consider enhancing the learning capability of language
-model-driven recommendation models for structured data, specifically by
-utilizing interaction graphs rich in collaborative semantics. We propose a
-Graph-Aware Learning for Language Model-Driven Recommendations (GAL-Rec).
-GAL-Rec enhances the understanding of user-item collaborative semantics by
-imitating the intent of Graph Neural Networks (GNNs) to aggregate multi-hop
-information, thereby fully exploiting the substantial learning capacity of LLMs
-to independently address the complex graphs in the recommendation system.
-Sufficient experimental results on three real-world datasets demonstrate that
-GAL-Rec significantly enhances the comprehension of collaborative semantics,
-and improves recommendation performance.
-
-摘要：大型語言模型（LLM）在推薦系統領域中越來越突出。現有研究通常利用情境學習或在特定任務數據上進行監督微調，以將 LLM 調整為建議。然而，語言處理任務和推薦任務之間語義空間的實質性偏差構成了不可忽視的挑戰。具體來說，現有的建模範例在缺乏協作信息的充分捕獲能力的情況下，難以捕捉社群群組內的行為模式，導致 LLM 無法在推薦場景中辨識隱含的互動語義。為了解決這個問題，我們考慮增強語言模型驅動推薦模型對結構化數據的學習能力，特別是通過利用富含協作語義的交互圖。我們提出了一個圖感知語言模型驅動推薦學習（GAL-Rec）。GAL-Rec 通過模仿圖神經網路（GNN）聚合多跳信息的意圖來增強對使用者項目協作語義的理解，從而充分利用 LLM 的實質性學習能力來獨立處理推薦系統中的複雜圖。在三個真實世界數據集上進行的充分實驗結果表明，GAL-Rec 大大增強了對協作語義的理解，並改善了推薦性能。
 

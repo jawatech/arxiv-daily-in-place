@@ -75,7 +75,7 @@
 |**2024-07-18**|**Transformer-based Single-Cell Language Model: A Survey**|Wei Lan et.al.|[2407.13205v1](http://arxiv.org/abs/2407.13205v1)|null|
 |**2024-07-18**|**Adaptive Foundation Models for Online Decisions: HyperAgent with Fast Incremental Uncertainty Estimation**|Yingru Li et.al.|[2407.13195v1](http://arxiv.org/abs/2407.13195v1)|null|
 |**2024-07-18**|**Robust Multivariate Time Series Forecasting against Intra- and Inter-Series Transitional Shift**|Hui He et.al.|[2407.13194v1](http://arxiv.org/abs/2407.13194v1)|null|
-|**2024-07-18**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193v1](http://arxiv.org/abs/2407.13193v1)|null|
+|**2024-07-18**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193v2](http://arxiv.org/abs/2407.13193v2)|null|
 |**2024-07-18**|**SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq**|Xiaoyu Li et.al.|[2407.13182v1](http://arxiv.org/abs/2407.13182v1)|null|
 |**2024-07-18**|**Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement**|Eashan Adhikarla et.al.|[2407.13170v1](http://arxiv.org/abs/2407.13170v1)|null|
 |**2024-07-18**|**SciCode: A Research Coding Benchmark Curated by Scientists**|Minyang Tian et.al.|[2407.13168v1](http://arxiv.org/abs/2407.13168v1)|null|
@@ -1794,7 +1794,7 @@ forecasting.
 摘要：真實世界多變量時間序列 (MTS) 資料的非平穩特性為預測模型帶來了時間變異時間序列分佈的重大挑戰，稱為分佈轉移。現有關於分佈轉移的研究大多採用自適應正規化技術來減輕時間平均值和協方差轉移，或採用時間變異模型來捕捉時間轉移。儘管改善了模型泛化，但這些基於正規化的方法通常假設輸出和輸入之間的時間不變轉換，但忽略了特定的序列內/序列間相關性，而時間變異模型則忽略了分佈轉移的內在原因。這限制了模型表達能力和對 MTS 預測分佈轉移的解釋能力。為了緩解這種困境，我們提出了一個統一的機率圖形模型來聯合捕捉序列內/序列間相關性並對時間變異過渡分佈進行建模，並實例化一個名為 JointPGM 的神經框架，用於非平穩 MTS 預測。具體來說，JointPGM 首先採用多個傅立葉基函數來學習動態時間因子，並設計了兩個不同的學習器：序列內學習器和序列間學習器。序列內學習器通過利用時間門有效地捕捉時間動態，而序列間學習器通過多跳傳播明確地對空間動態進行建模，並結合了 Gumbel-softmax 採樣。這兩種序列動態隨後融合成一個潛在變數，該變數被反向用於推論時間因子、產生最終預測並執行重建。我們通過在六個高度非平穩 MTS 資料集上進行廣泛的實驗驗證了 JointPGM 的有效性和效率，達到了 MTS 預測的最新預測性能。
 
 ##### **Retrieval-Augmented Generation for Natural Language Processing: A Survey**
-2407.13193v1 by Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan, Lianming Huang, Xue Liu, Tei-Wei Kuo, Nan Guan, Chun Jason Xue
+2407.13193v2 by Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan, Lianming Huang, Xue Liu, Tei-Wei Kuo, Nan Guan, Chun Jason Xue
 
 Large language models (LLMs) have demonstrated great success in various
 fields, benefiting from their huge amount of parameters that store knowledge.
@@ -1810,7 +1810,14 @@ introduce the application of RAG in representative natural language processing
 tasks and industrial scenarios. Finally, this paper discusses the future
 directions and challenges of RAG for promoting its development.
 
-摘要：大型語言模型 (LLM) 在各種領域都展現出巨大的成功，受益於儲存知識的龐大參數。然而，LLM 仍然存在幾個關鍵問題，例如幻覺問題、知識更新問題和缺乏特定領域的專業知識。檢索增強生成 (RAG) 的出現，利用外部知識資料庫來擴充 LLM，彌補了 LLM 的這些缺點。本文回顧了 RAG 的所有重要技術，特別是在檢索器和檢索融合方面。此外，還提供了教學程式碼，用於實作 RAG 中的代表性技術。本文進一步討論了 RAG 訓練，包括使用/不使用資料庫更新的 RAG。然後，我們介紹了 RAG 在代表性自然語言處理任務和產業場景中的應用。最後，本文討論了 RAG 未來發展的方向和挑戰，以促進其發展。
+摘要：大型語言模型 (LLM) 在各個領域都展現出極佳的成果，受益於其儲存知識的龐大參數量。
+然而，LLM 仍有幾個關鍵問題，例如幻覺問題、知識更新問題，以及缺乏特定領域的專業知識。
+檢索增強生成 (RAG) 的出現，它利用外部知識庫來擴充 LLM，彌補了 LLM 的這些缺點。
+本文回顧了 RAG 的所有重要技術，特別是在檢索器和檢索融合中。
+此外，還提供了教學程式碼，用於在 RAG 中實作代表性技術。
+本文進一步討論了 RAG 訓練，包括有/無資料庫更新的 RAG。
+然後，我們介紹了 RAG 在代表性自然語言處理任務和產業場景中的應用。
+最後，本文討論了 RAG 未來發展的方向和挑戰，以促進其發展。
 
 ##### **SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq**
 2407.13182v1 by Xiaoyu Li, Fangfang Zhu, Wenwen Min

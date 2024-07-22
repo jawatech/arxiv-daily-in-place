@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
-|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v1](http://arxiv.org/abs/2407.12703v1)|null|
+|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v2](http://arxiv.org/abs/2407.12703v2)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
@@ -147,7 +147,7 @@ non-sequential prompting generally outperforms sequential prompting.
 摘要：通過闡述一系列中間推理步驟，大幅提升大型語言模型 (LLM) 解決複雜問題的能力，因為這些步驟會促使 LLM 按順序思考。然而，人類的諷刺理解通常被認為是一種直覺且全面的認知過程，其中各種語言、語境和情緒線索整合在一起，以全面了解說話者的真實意圖，這被認為不僅限於循序漸進的推理過程。為了驗證這個論點，我們引入了一個新的提示框架，稱為 SarcasmCue，其中包含四種提示策略，即矛盾鏈 (CoC)、線索圖 (GoC)、線索袋 (BoC) 和線索張量 (ToC)，它引發 LLM 通過考慮順序和非順序提示方法來檢測人類的諷刺。通過對四個基準數據集進行全面的實證比較，我們表明所提出的四種提示方法以相當大的幅度優於標準 IO 提示、CoT 和 ToT，並且非順序提示通常優於順序提示。
 
 ##### **Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**
-2407.12703v1 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
+2407.12703v2 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
 
 Fine-tuning pre-trained language models (PLMs) has recently shown a potential
 to improve knowledge graph completion (KGC). However, most PLM-based methods
@@ -164,7 +164,7 @@ structural inductive bias of the subgraphs into fine-tuning PLMs. Extensive
 experiments on four KGC benchmarks demonstrate the superiority of SATKGC. Our
 code is available.
 
-摘要：微调预训练语言模型 (PLM) 最近显示出改善知识图谱完成 (KGC) 的潜力。然而，大多数基于 PLM 的方法仅对文本信息进行编码，而忽略了知识图谱 (KG) 的各种拓扑结构。在本文中，我们凭经验验证了知识图谱的结构属性与基于 PLM 的方法的性能之间的重要关系。为了利用结构知识，我们提出了一个用于 KGC 的子图感知训练框架 (SATKGC)，它结合了 (i) 子图感知的小批量处理以鼓励困难的负采样，以及 (ii) 一种新的对比学习方法，在结构属性方面更多地关注更困难的实体和更困难的负三元组。据我们所知，这是第一项将子图的结构归纳偏差全面纳入 PLM 微调的研究。在四个 KGC 基准上的广泛实验证明了 SATKGC 的优越性。我们的代码可用。
+摘要：微调预先训练的语言模型 (PLM) 最近显示出改善知识图谱完成 (KGC) 的潜力。然而，大多数基于 PLM 的方法只编码文本信息，而忽略了知识图谱 (KG) 的各种拓扑结构。在本文中，我们通过实证验证了 KG 的结构属性与基于 PLM 的方法的性能之间的重要关系。为了利用结构知识，我们提出了一个用于 KGC 的子图感知训练框架 (SATKGC)，它结合了 (i) 子图感知的小批量处理以鼓励困难的负采样，以及 (ii) 一种新的对比学习方法，以在结构属性方面更多地关注更困难的实体和更困难的负三元组。据我们所知，这是第一项将子图的结构归纳偏差全面纳入微调 PLM 的研究。在四个 KGC 基准上的广泛实验证明了 SATKGC 的优越性。我们的代码可用。
 
 ##### **Abstraction Alignment: Comparing Model and Human Conceptual Relationships**
 2407.12543v1 by Angie Boggust, Hyemin Bang, Hendrik Strobelt, Arvind Satyanarayan

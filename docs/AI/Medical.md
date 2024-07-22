@@ -36,11 +36,11 @@
 |**2024-07-15**|**Static and multivariate-temporal attentive fusion transformer for readmission risk prediction**|Zhe Sun et.al.|[2407.11096v1](http://arxiv.org/abs/2407.11096v1)|null|
 |**2024-07-14**|**Evolved Developmental Artificial Neural Networks for Multitasking with Advanced Activity Dependence**|Yintong Zhang et.al.|[2407.10359v1](http://arxiv.org/abs/2407.10359v1)|null|
 |**2024-07-14**|**Learning Unlabeled Clients Divergence via Anchor Model Aggregation for Federated Semi-supervised Learning**|Marawan Elbatel et.al.|[2407.10327v1](http://arxiv.org/abs/2407.10327v1)|null|
-|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086v1](http://arxiv.org/abs/2407.10086v1)|null|
+|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086v2](http://arxiv.org/abs/2407.10086v2)|null|
 |**2024-07-13**|**Document-level Clinical Entity and Relation Extraction via Knowledge Base-Guided Generation**|Kriti Bhattarai et.al.|[2407.10021v1](http://arxiv.org/abs/2407.10021v1)|null|
 |**2024-07-13**|**Causality extraction from medical text using Large Language Models (LLMs)**|Seethalakshmi Gopalakrishnan et.al.|[2407.10020v1](http://arxiv.org/abs/2407.10020v1)|null|
 |**2024-07-13**|**Pay Less On Clinical Images: Asymmetric Multi-Modal Fusion Method For Efficient Multi-Label Skin Lesion Classification**|Peng Tang et.al.|[2407.09999v1](http://arxiv.org/abs/2407.09999v1)|null|
-|**2024-07-13**|**Evaluating the Impact of Different Quantum Kernels on the Classification Performance of Support Vector Machine Algorithm: A Medical Dataset Application**|Emine Akpinar et.al.|[2407.09930v1](http://arxiv.org/abs/2407.09930v1)|null|
+|**2024-07-13**|**Evaluating the Impact of Different Quantum Kernels on the Classification Performance of Support Vector Machine Algorithm: A Medical Dataset Application**|Emine Akpinar et.al.|[2407.09930v2](http://arxiv.org/abs/2407.09930v2)|null|
 |**2024-07-13**|**Enhancing Semantic Segmentation with Adaptive Focal Loss: A Novel Approach**|Md Rakibul Islam et.al.|[2407.09828v1](http://arxiv.org/abs/2407.09828v1)|null|
 |**2024-07-12**|**Towards Personalised Patient Risk Prediction Using Temporal Hospital Data Trajectories**|Thea Barnes et.al.|[2407.09373v1](http://arxiv.org/abs/2407.09373v1)|null|
 |**2024-07-12**|**Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings**|Saad Ahmed Sazan et.al.|[2407.09187v1](http://arxiv.org/abs/2407.09187v1)|null|
@@ -50,7 +50,7 @@
 |**2024-07-12**|**Application of Artificial Intelligence in Supporting Healthcare Professionals and Caregivers in Treatment of Autistic Children**|Hossein Mohammadi Rouzbahani et.al.|[2407.08902v1](http://arxiv.org/abs/2407.08902v1)|null|
 |**2024-07-11**|**SALT: Introducing a Framework for Hierarchical Segmentations in Medical Imaging using Softmax for Arbitrary Label Trees**|Sven Koitka et.al.|[2407.08878v1](http://arxiv.org/abs/2407.08878v1)|[link](https://github.com/umessen/salt)|
 |**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822v1](http://arxiv.org/abs/2407.08822v1)|[link](https://github.com/m1k2zoo/fedmedicl)|
-|**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813v1](http://arxiv.org/abs/2407.08813v1)|[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)|
+|**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813v2](http://arxiv.org/abs/2407.08813v2)|[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
 |**2024-07-11**|**Establishing Rigorous and Cost-effective Clinical Trials for Artificial Intelligence Models**|Wanling Gao et.al.|[2407.08554v1](http://arxiv.org/abs/2407.08554v1)|[link](https://github.com/benchcouncil/vc-medai)|
 |**2024-07-11**|**How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation**|Linglong Qian et.al.|[2407.08442v1](http://arxiv.org/abs/2407.08442v1)|null|
@@ -956,7 +956,7 @@ https://github.com/xmed-lab/SemiAnAgg.
 摘要：聯邦半監督學習 (FedSemi) 指的是在保護資料隱私的同時，可能存在具有完全標籤資料的客戶端、具有部分標籤的客戶端，甚至完全沒有標籤的客戶端的情況。然而，由於未定義的異質類別分佈和錯誤的偽標籤，客戶端漂移帶來了挑戰。現有的 FedSemi 方法通常無法彙總來自未標籤客戶端的模型，因為它們本質上不可靠，因此忽略了其異質資料分佈中的獨特資訊，導致次佳結果。在本文中，我們透過 SemiAnAgg（一種新穎的半監督錨定式聯邦聚合）啟用未標籤客戶端聚合。SemiAnAgg 透過錨定模型學習未標籤客戶端貢獻，有效利用其資訊價值。我們的關鍵構想是，透過將本地客戶端資料提供給相同的全球模型和相同一致初始化的錨定模型（即隨機模型），我們可以相應地衡量每個未標籤客戶端的重要性。廣泛的實驗證明 SemiAnAgg 在四個廣泛使用的 FedSemi 基準上獲得了新的最先進結果，帶來了顯著的效能提升：與先前的最先進技術相比，CIFAR-100 的準確度提高了 9%，醫療資料集 ISIC-18 的召回率提高了 7.6%。程式碼可在 https://github.com/xmed-lab/SemiAnAgg 取得。
 
 ##### **Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**
-2407.10086v1 by Omid Rohanian, Mohammadmahdi Nouriborji, Olena Seminog, Rodrigo Furst, Thomas Mendy, Shanthi Levanita, Zaharat Kadri-Alab, Nusrat Jabin, Daniela Toale, Georgina Humphreys, Emilia Antonio, Adrian Bucher, Alice Norton, David A. Clifton
+2407.10086v2 by Omid Rohanian, Mohammadmahdi Nouriborji, Olena Seminog, Rodrigo Furst, Thomas Mendy, Shanthi Levanita, Zaharat Kadri-Alabi, Nusrat Jabin, Daniela Toale, Georgina Humphreys, Emilia Antonio, Adrian Bucher, Alice Norton, David A. Clifton
 
 This paper introduces the Pandemic PACT Advanced Categorisation Engine
 (PPACE) along with its associated dataset. PPACE is a fine-tuned model
@@ -978,7 +978,7 @@ release of PPACE and its associated dataset offers valuable resources for
 researchers in multilabel biomedical document classification and supports
 advancements in aligning biomedical research with key global health priorities.
 
-摘要：本文介紹了疫情 PACT 進階分類引擎 (PPACE) 及其相關資料集。PPACE 是一個經過微調的模型，開發用於根據 WHO 認可的研究優先順序自動分類獲得資助的生物醫學專案的研究摘要。這項任務對於監控研究趨勢和找出全球健康準備和應變的差距至關重要。我們的做法建立在人工標註的專案上，這些專案從預先定義的清單中分配一個或多個類別。然後使用大型語言模型來產生「依據」，說明這些標註背後的推理。這些擴增資料包含專家標註和依據，隨後用於微調一個較小、更有效率的模型。PPACE 是作為疫情 PACT 專案的一部分開發的，該專案旨在追蹤和分析各種具有爆發潛力的疾病的研究資金和臨床證據，並支持研究資助者、政策制定者和獨立研究人員做出明智的決策。我們介紹並釋出訓練好的模型和用於訓練的基於指令的資料集。我們的評估顯示，PPACE 的表現顯著優於其基線。PPACE 及其相關資料集的釋出為多標籤生物醫學文件分類的研究人員提供了寶貴的資源，並支持將生物醫學研究與全球健康關鍵優先順序相符的進展。
+摘要：本文介紹了流行病 PACT 高級分類引擎 (PPACE) 及其相關的資料集。PPACE 是一個微調模型，用於根據 WHO 對齊的研究優先事項自動分類獲得資助的生物醫學專案研究摘要。這項任務對於監控研究趨勢和找出全球衛生準備和應變的缺口至關重要。我們的做法建立在人工標註的專案上，這些專案從預先定義的清單中分配一個或多個類別。然後使用大型語言模型產生「依據」來解釋這些標註背後的推理。此擴充資料包含專家標註和依據，隨後用於微調較小、更有效率的模型。PPACE 作為流行病 PACT 專案的一部分而開發，旨在追蹤和分析各種具有爆發潛力的疾病的研究資金和臨床證據，透過研究資金提供者、政策制定者和獨立研究人員的明智決策制定提供支援。我們介紹並釋出了受訓模型和用於其訓練的基於說明的資料集。我們的評估顯示 PPACE 明顯優於其基準。PPACE 及其相關資料集的釋出為多標籤生物醫學文件分類的研究人員提供了寶貴的資源，並支援將生物醫學研究與關鍵全球衛生優先事項對齊的進展。
 
 ##### **Document-level Clinical Entity and Relation Extraction via Knowledge Base-Guided Generation**
 2407.10021v1 by Kriti Bhattarai, Inez Y. Oh, Zachary B. Abrams, Albert M. Lai
@@ -1049,7 +1049,7 @@ superiority over existing methods We will make our code publicly available.
 摘要：現有的多模式方法主要專注於透過先進的融合模組來增強多標籤皮膚病變分類效能，往往忽略了相關參數的增加。在臨床環境中，臨床上和皮膚鏡影像都會被擷取用於診斷；然而，皮膚鏡影像展現出更重要的視覺特徵，用於多標籤皮膚病變分類。受此觀察結果啟發，我們在本文中介紹一種新穎的不對稱多模式融合方法，用於有效的多標籤皮膚病變分類。我們的融合方法包含兩個創新的方案。首先，我們驗證了我們的不對稱融合結構的有效性。它採用一個輕量且簡單的網路用於臨床影像，以及一個較重且複雜的網路用於皮膚鏡影像，與使用兩個相同的網路用於兩種模式的對稱融合結構相比，這會節省大量的參數。其次，與先前使用相互注意力模組用於影像模式之間互動的方法相反，我們提出了一個不對稱注意力模組。這個模組僅利用臨床影像資訊來增強皮膚鏡影像特徵，將臨床影像視為我們流程中的補充資訊。我們在七點核對清單資料集上進行了廣泛的實驗。結果證明了我們提出的方法對網路和 Transformer 結構的普遍性，展示了它優於現有方法的優越性。我們將公開我們的程式碼。
 
 ##### **Evaluating the Impact of Different Quantum Kernels on the Classification Performance of Support Vector Machine Algorithm: A Medical Dataset Application**
-2407.09930v1 by Emine Akpinar, Sardar M. N. Islam, Murat Oduncuoglu
+2407.09930v2 by Emine Akpinar, Sardar M. N. Islam, Murat Oduncuoglu
 
 The support vector machine algorithm with a quantum kernel estimator
 (QSVM-Kernel), as a leading example of a quantum machine learning technique,
@@ -1077,7 +1077,7 @@ of feature mapping techniques on medical data classification outcomes using the
 QSVM-Kernel algorithm, and (2) it also guides undertaking research for improved
 QSVM classification performance.
 
-摘要：<paragraph>以量子核估計器為主的量子機器學習技術，支援向量機演算法（QSVM-Kernel），已經有顯著的進展。儘管如此，它與傳統資料的整合，呈現了獨特的挑戰。雖然量子電腦主要與量子狀態中的資料互動，但使用特徵對應技術將傳統資料嵌入量子狀態，對於利用量子演算法至關重要。儘管特徵對應的重要性獲得認可，但它對資料分類結果的具體影響，在很大程度上仍未被探討。本研究透過全面評估各種特徵對應方法對分類結果的影響，以醫療資料分析為案例研究，來解決這個差距。在本研究中，QSVM-Kernel 方法被應用於兩個不同且公開的醫療資料集中的分類問題，即威斯康辛乳癌（原始）和癌症基因組圖譜（TCGA）神經膠質瘤資料集。在 QSVM-Kernel 演算法中，使用了從 9 個不同的量子特徵對應中獲得的量子核矩陣。因此，這些量子特徵對應對 QSVM-Kernel 演算法分類結果的影響，在分類器效能和總執行時間方面都得到了檢驗。結果，在威斯康辛乳癌（原始）和 TCGA 神經膠質瘤資料集中，當 Rx 和 Ry 旋轉閘分別用作 QSVM-Kernel 演算法中的特徵對應時，在分類效能和總執行時間方面都達到了最佳分類效能。本研究的貢獻在於：（1）它強調了特徵對應技術對使用 QSVM-Kernel 演算法的醫療資料分類結果的顯著影響，並且（2）它也指導進行研究以改善 QSVM 分類效能。</paragraph>
+摘要：<paragraph>作為量子機器學習技術的領先範例，具有量子核估計器的支持向量機演算法 (QSVM-Kernel) 已經歷重大的進展。儘管如此，它與經典資料的整合提出了獨特的挑戰。雖然量子電腦主要與量子狀態中的資料互動，但使用特徵對應技術將經典資料嵌入量子狀態對於利用量子演算法至關重要。儘管特徵對應的重要性獲得認可，但其對資料分類結果的具體影響仍未得到充分探討。本研究透過全面評估各種特徵對應方法對分類結果的影響來解決這個差距，並將醫學資料分析作為案例研究。在本研究中，QSVM-Kernel 方法被應用於兩個不同且公開可用的醫學資料集中的分類問題，即威斯康辛乳癌 (原始) 和癌症基因組圖譜 (TCGA) 神經膠質瘤資料集。在 QSVM-Kernel 演算法中，使用了從 9 個不同的量子特徵對應中獲得的量子核矩陣。因此，這些量子特徵對應對 QSVM-Kernel 演算法分類結果的影響在分類器效能和總執行時間方面都得到了檢驗。結果，在威斯康辛乳癌 (原始) 和 TCGA 神經膠質瘤資料集中，當 Rx 和 Ry 旋轉閘分別用作 QSVM-Kernel 演算法中的特徵對應時，在分類效能和總執行時間方面都達到了最佳的分類效能。本研究的貢獻在於：(1) 它強調了特徵對應技術對使用 QSVM-Kernel 演算法的醫學資料分類結果的重大影響，以及 (2) 它也指導進行研究以改善 QSVM 分類效能。</paragraph>
 
 ##### **Enhancing Semantic Segmentation with Adaptive Focal Loss: A Novel Approach**
 2407.09828v1 by Md Rakibul Islam, Riad Hassan, Abdullah Nazib, Kien Nguyen, Clinton Fookes, Md Zahidul Islam
@@ -1323,7 +1323,7 @@ in real-world medical settings.
 摘要：為了讓醫學影像 AI 模型在臨床上產生影響，它們必須具備泛化性。然而，此目標受到 (i) 分佈轉移的不同類型（例如時間、人口統計和標籤轉移）以及 (ii) 侷限於單一醫療機構內資料集的多樣性所阻礙。儘管這些限制激發了對聯合學習的興趣，但目前的評估基準無法同時評估不同的轉移。然而，在實際的醫療保健環境中，多種類型的轉移同時存在，但它們對醫學影像效能的影響仍未得到研究。為了解決這個問題，我們引入了 FedMedICL，一個統一的架構和基準，以全面評估聯合醫學影像挑戰，同時捕捉標籤、人口統計和時間分佈轉移。我們在六個不同的醫學影像資料集（總計 550 個 GPU 小時）上全面評估了幾種流行的方法。此外，我們使用 FedMedICL 模擬了 COVID-19 在醫院間的傳播，並評估方法是否能適應疾病盛行率的流行病變化。我們發現，一個簡單的批次平衡技術在 FedMedICL 實驗中超越了先進的方法的平均效能。此發現質疑了先前狹隘基準在現實世界醫療環境中結果的適用性。
 
 ##### **FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**
-2407.08813v1 by Yu Tian, Congcong Wen, Min Shi, Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, Yan Luo, Yi Fang, Mengyu Wang
+2407.08813v2 by Yu Tian, Congcong Wen, Min Shi, Muhammad Muneeb Afzal, Hao Huang, Muhammad Osama Khan, Yan Luo, Yi Fang, Mengyu Wang
 
 Addressing fairness in artificial intelligence (AI), particularly in medical
 AI, is crucial for ensuring equitable healthcare outcomes. Recent efforts to
@@ -1350,7 +1350,7 @@ and DG) with respect to different demographics, which outperforms existing
 methods on both segmentation and classification. The code and data can be
 accessed at https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k.
 
-摘要：<paragraph>在人工智慧（AI），特別是醫療 AI 中解決公平性對於確保公平的醫療保健結果至關重要。最近提升公平性的努力引入了新的方法和醫療 AI 中的資料集。然而，在網域轉移的設定下公平性的議題幾乎未經探討，而診所通常仰賴不同的影像技術（例如，不同的視網膜影像方式）進行病患診斷。本文提出 FairDomain，一項關於網域轉移下演算法公平性的先驅系統性研究，使用最先進的網域適應（DA）和概化（DG）演算法，同時針對醫療分割和分類任務，以了解偏見如何在不同網域間轉移。我們也介紹了一個新穎的即插即用公平身分注意力（FIA）模組，它適用於各種 DA 和 DG 演算法，透過使用自我注意力根據人口屬性調整特徵重要性來提升公平性。此外，我們策劃了第一個公平性為重點的資料集，其中包含針對相同病患群體的兩種配對影像方式，用於醫療分割和分類任務，以嚴謹評估網域轉移情境中的公平性。排除來源網域和目標網域之間人口分佈變異的混淆影響，將能更清楚地量化網域轉移模型的效能。我們廣泛的評估顯示，所提出的 FIA 大幅提升了考量公平性的模型效能，涵蓋所有網域轉移設定（例如，DA 和 DG）以及不同人口統計資料，在分割和分類方面都優於現有方法。程式碼和資料可於 https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k 取得。</paragraph>
+摘要：<paragraph>在人工智慧（AI）中，特別是在醫療 AI 中，解決公平性對於確保公平的醫療保健結果至關重要。最近為提高公平性所做的努力，在醫療 AI 中引入了新的方法和數據集。然而，在領域轉移的設定下，公平性問題幾乎未被探討，而診所依賴不同的影像技術（例如，不同的視網膜影像方式）來進行患者診斷是很常見的。本文提出了 FairDomain，這是一項關於領域轉移下演算法公平性的開創性系統性研究，採用最先進的領域適應（DA）和概化（DG）演算法，用於醫療分割和分類任務，以了解偏差如何在不同領域之間轉移。我們還引入了一個新穎的即插即用公平身分注意力（FIA）模組，它適用於各種 DA 和 DG 演算法，透過使用自我注意力根據人口屬性調整特徵重要性來改善公平性。此外，我們策劃了第一個以公平性為重點的數據集，其中包含針對相同患者群體的兩種配對影像方式，用於醫療分割和分類任務，以嚴格評估領域轉移情境中的公平性。排除來源和目標領域之間人口分佈差異的混淆影響，將允許更清楚地量化領域轉移模型的效能。我們廣泛的評估顯示，所提出的 FIA 大幅提升了模型效能，在所有領域轉移設定（即 DA 和 DG）中，針對不同人口統計資料都考慮了公平性，在分割和分類方面都優於現有方法。程式碼和資料可於 https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k 取得。</paragraph>
 
 ##### **Uncertainty Estimation of Large Language Models in Medical Question Answering**
 2407.08662v1 by Jiaxin Wu, Yizhou Yu, Hong-Yu Zhou

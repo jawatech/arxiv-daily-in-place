@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375v1](http://arxiv.org/abs/2407.16375v1)|[link](https://github.com/haddocking/deeprank-gnn-esm)|
+|**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
+|**2024-07-23**|**Graph-Structured Speculative Decoding**|Zhuocheng Gong et.al.|[2407.16207v1](http://arxiv.org/abs/2407.16207v1)|null|
+|**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127v1](http://arxiv.org/abs/2407.16127v1)|[link](https://github.com/nju-websoft/dift)|
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v1](http://arxiv.org/abs/2407.15588v1)|[link](https://github.com/eralign/eralign)|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
 |**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
@@ -98,12 +102,99 @@
 |**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703v1](http://arxiv.org/abs/2406.14703v1)|null|
 |**2024-06-20**|**TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models**|Jiarui Feng et.al.|[2406.14683v1](http://arxiv.org/abs/2406.14683v1)|[link](https://github.com/jiaruifeng/taglas)|
 |**2024-06-20**|**HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation**|Jin Wang et.al.|[2406.14655v1](http://arxiv.org/abs/2406.14655v1)|null|
-|**2024-06-20**|**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**|Shilong Li et.al.|[2406.14550v1](http://arxiv.org/abs/2406.14550v1)|null|
-|**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326v1](http://arxiv.org/abs/2406.14326v1)|null|
-|**2024-06-20**|**Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**|Junjie Wang et.al.|[2406.14282v1](http://arxiv.org/abs/2406.14282v1)|[link](https://github.com/zjukg/lpkg)|
-|**2024-06-20**|**ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation**|Zhiyu Mei et.al.|[2406.14088v1](http://arxiv.org/abs/2406.14088v1)|[link](https://github.com/openpsi-project/realhf)|
 
 #### Abstracts
+##### **Ranking protein-protein models with large language models and graph neural networks**
+2407.16375v1 by Xiaotong Xu, Alexandre M. J. J. Bonvin
+
+Protein-protein interactions (PPIs) are associated with various diseases,
+including cancer, infections, and neurodegenerative disorders. Obtaining
+three-dimensional structural information on these PPIs serves as a foundation
+to interfere with those or to guide drug design. Various strategies can be
+followed to model those complexes, all typically resulting in a large number of
+models. A challenging step in this process is the identification of good models
+(near-native PPI conformations) from the large pool of generated models. To
+address this challenge, we previously developed DeepRank-GNN-esm, a graph-based
+deep learning algorithm for ranking modelled PPI structures harnessing the
+power of protein language models. Here, we detail the use of our software with
+examples. DeepRank-GNN-esm is freely available at
+https://github.com/haddocking/DeepRank-GNN-esm
+
+摘要：蛋白-蛋白交互作用 (PPI) 與各種疾病相關，包括癌症、感染和神經退化性疾病。取得這些 PPI 的三維結構資訊，作為干擾它們或引導藥物設計的基礎。可以遵循各種策略來建模這些複合體，所有這些策略通常會產生大量的模型。此過程中的挑戰性步驟，是從大量產生的模型中找出好的模型（接近原生 PPI 構象）。為了應對這個挑戰，我們之前開發了 DeepRank-GNN-esm，這是一種基於圖形的深度學習演算法，用於對建模的 PPI 結構進行排名，利用蛋白質語言模型的力量。在這裡，我們詳細說明了我們軟體的使用範例。DeepRank-GNN-esm 可在 https://github.com/haddocking/DeepRank-GNN-esm 免費取得
+
+##### **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**
+2407.16329v1 by Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo
+
+Acute stroke demands prompt diagnosis and treatment to achieve optimal
+patient outcomes. However, the intricate and irregular nature of clinical data
+associated with acute stroke, particularly blood pressure (BP) measurements,
+presents substantial obstacles to effective visual analytics and
+decision-making. Through a year-long collaboration with experienced
+neurologists, we developed PhenoFlow, a visual analytics system that leverages
+the collaboration between human and Large Language Models (LLMs) to analyze the
+extensive and complex data of acute ischemic stroke patients. PhenoFlow
+pioneers an innovative workflow, where the LLM serves as a data wrangler while
+neurologists explore and supervise the output using visualizations and natural
+language interactions. This approach enables neurologists to focus more on
+decision-making with reduced cognitive load. To protect sensitive patient
+information, PhenoFlow only utilizes metadata to make inferences and synthesize
+executable codes, without accessing raw patient data. This ensures that the
+results are both reproducible and interpretable while maintaining patient
+privacy. The system incorporates a slice-and-wrap design that employs temporal
+folding to create an overlaid circular visualization. Combined with a linear
+bar graph, this design aids in exploring meaningful patterns within irregularly
+measured BP data. Through case studies, PhenoFlow has demonstrated its
+capability to support iterative analysis of extensive clinical datasets,
+reducing cognitive load and enabling neurologists to make well-informed
+decisions. Grounded in long-term collaboration with domain experts, our
+research demonstrates the potential of utilizing LLMs to tackle current
+challenges in data-driven clinical decision-making for acute ischemic stroke
+patients.
+
+摘要：<paragraph>急性中風需要迅速診斷和治療，才能達到最佳的病人治療結果。然而，與急性中風相關的臨床資料複雜且不規則，特別是血壓 (BP) 測量，對有效的視覺分析和決策制定構成重大障礙。透過與經驗豐富的神經科醫師長達一年的合作，我們開發了 PhenoFlow，這是一個視覺分析系統，利用人與大型語言模型 (LLM) 之間的協作來分析急性缺血性中風患者的廣泛且複雜資料。PhenoFlow 開創了一種創新的工作流程，其中 LLM 擔任資料整理員，而神經科醫師則使用視覺化和自然語言互動來探索和監督輸出。這種方法使神經科醫師能夠更專注於決策制定，同時降低認知負擔。為了保護敏感的病人資訊，PhenoFlow 僅利用元資料進行推論並合成可執行程式碼，而不會存取原始病人資料。這確保了結果既可重現又可解釋，同時維護病人的隱私。該系統採用分段和包裝設計，採用時間摺疊來建立疊加的圓形視覺化。結合線性長條圖，此設計有助於探索不規則測量血壓資料中的有意義模式。透過案例研究，PhenoFlow 已證明其支援對廣泛臨床資料集進行反覆分析的能力，降低認知負擔並使神經科醫師能夠做出明智的決策。我們的研究以與領域專家長期合作為基礎，證明了利用 LLM 來應對當前急性缺血性中風患者資料驅動臨床決策制定挑戰的潛力。</paragraph>
+
+##### **Graph-Structured Speculative Decoding**
+2407.16207v1 by Zhuocheng Gong, Jiahao Liu, Ziyue Wang, Pengfei Wu, Jingang Wang, Xunliang Cai, Dongyan Zhao, Rui Yan
+
+Speculative decoding has emerged as a promising technique to accelerate the
+inference of Large Language Models (LLMs) by employing a small language model
+to draft a hypothesis sequence, which is then validated by the LLM. The
+effectiveness of this approach heavily relies on the balance between
+performance and efficiency of the draft model. In our research, we focus on
+enhancing the proportion of draft tokens that are accepted to the final output
+by generating multiple hypotheses instead of just one. This allows the LLM more
+options to choose from and select the longest sequence that meets its
+standards. Our analysis reveals that hypotheses produced by the draft model
+share many common token sequences, suggesting a potential for optimizing
+computation. Leveraging this observation, we introduce an innovative approach
+utilizing a directed acyclic graph (DAG) to manage the drafted hypotheses. This
+structure enables us to efficiently predict and merge recurring token
+sequences, vastly reducing the computational demands of the draft model. We
+term this approach Graph-structured Speculative Decoding (GSD). We apply GSD
+across a range of LLMs, including a 70-billion parameter LLaMA-2 model, and
+observe a remarkable speedup of 1.73$\times$ to 1.96$\times$, significantly
+surpassing standard speculative decoding.
+
+摘要：<paragraph>推測性解碼已成為一種有前途的技術，可通過使用小型語言模型起草假設序列，然後由大型語言模型 (LLM) 驗證該序列，從而加速大型語言模型 (LLM) 的推理。此方法的有效性在很大程度上取決於草稿模型的性能和效率之間的平衡。在我們的研究中，我們專注於通過生成多個假設而不是只生成一個假設來提高被接受為最終輸出的草稿令牌的比例。這允許 LLM 從中選擇更多選項，並選擇符合其標準的最長序列。我們的分析表明，草稿模型產生的假設共享許多公共令牌序列，這表明優化計算的可能性。利用這一觀察結果，我們引入了一種創新的方法，利用有向無環圖 (DAG) 來管理已編制的假設。這種結構使我們能夠有效地預測和合併重複的令牌序列，從而大大降低了草稿模型的計算需求。我們將這種方法稱為圖結構推測性解碼 (GSD)。我們將 GSD 應用於一系列 LLM，包括一個 700 億參數的 LLaMA-2 模型，並觀察到顯著的加速，從 1.73 倍到 1.96 倍，顯著超過標準推測性解碼。</paragraph>
+
+##### **Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**
+2407.16127v1 by Yang Liu, Xiaobin Tian, Zequn Sun, Wei Hu
+
+Traditional knowledge graph (KG) completion models learn embeddings to
+predict missing facts. Recent works attempt to complete KGs in a
+text-generation manner with large language models (LLMs). However, they need to
+ground the output of LLMs to KG entities, which inevitably brings errors. In
+this paper, we present a finetuning framework, DIFT, aiming to unleash the KG
+completion ability of LLMs and avoid grounding errors. Given an incomplete
+fact, DIFT employs a lightweight model to obtain candidate entities and
+finetunes an LLM with discrimination instructions to select the correct one
+from the given candidates. To improve performance while reducing instruction
+data, DIFT uses a truncated sampling method to select useful facts for
+finetuning and injects KG embeddings into the LLM. Extensive experiments on
+benchmark datasets demonstrate the effectiveness of our proposed framework.
+
+摘要：傳統知識圖譜（KG）完成功能模型學習嵌入，以預測遺失的事實。最近的工作嘗試以大型語言模型（LLM）以文字生成的方式完成 KG。然而，他們需要將 LLM 的輸出基礎建立在 KG 實體上，這不可避免地會帶來錯誤。在本文中，我們提出了一個微調框架 DIFT，旨在釋放 LLM 的 KG 完成功能，並避免基礎錯誤。給定一個不完整的事實，DIFT 使用一個輕量級模型來獲得候選實體，並微調一個 LLM，並使用辨別指令從給定的候選項中選擇正確的實體。為了在減少指令數據的同時提升效能，DIFT 使用一個截斷抽樣方法來選擇有用的事實以進行微調，並將 KG 嵌入注入到 LLM 中。在基準資料集上的廣泛實驗證明了我們提出的框架的有效性。
+
 ##### **Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**
 2407.15588v1 by Soojin Yoon, Sungho Ko, Tongyoung Kim, SeongKu Kang, Jinyoung Yeo, Dongha Lee
 
@@ -2412,93 +2503,4 @@ demonstrating high autonomy from free-text commands in unstructured scenes.
 Videos and website: hy-motion.github.io/
 
 摘要：<paragraph>讓機器人能夠在不同環境中自主執行混合動作，對於材料搬運、家務和工作協助等長期任務可能是有益的。這需要廣泛利用內在運動能力，從豐富的環境資訊中提取可負擔性，以及規劃物理互動行為。儘管最近的進展已證明令人印象深刻的人形全身控制能力，但它們仍難以實現新任務的多功能性和適應性。在這項工作中，我們提出 HYPERmotion，一個基於不同場景中的任務來學習、選擇和規劃行為的框架。我們結合強化學習與全身最佳化，為 38 個動作關節產生動作，並建立一個動作庫來儲存學習到的技能。我們將大型語言模型 (LLM) 的規劃和推理功能應用於複雜的運動操縱任務，構建一個階層式任務圖，其中包含一系列基本行為，以橋接低階執行與高階規劃。透過利用蒸餾空間幾何和 2D 觀測與視覺語言模型 (VLM) 的互動，將知識基礎化為機器人形態選擇器，以在單臂或雙臂、腿部或輪式運動中選擇適當的動作。模擬和現實世界的實驗表明，學習到的動作可以有效適應新任務，證明了在非結構化場景中從自由文字指令中獲得高度自主性。影片和網站：hy-motion.github.io/</paragraph>
-
-##### **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**
-2406.14550v1 by Shilong Li, Yancheng He, Hangyu Guo, Xingyuan Bu, Ge Bai, Jie Liu, Jiaheng Liu, Xingwei Qu, Yangguang Li, Wanli Ouyang, Wenbo Su, Bo Zheng
-
-Long-context capabilities are essential for large language models (LLMs) to
-tackle complex and long-input tasks. Despite numerous efforts made to optimize
-LLMs for long contexts, challenges persist in robustly processing long inputs.
-In this paper, we introduce GraphReader, a graph-based agent system designed to
-handle long texts by structuring them into a graph and employing an agent to
-explore this graph autonomously. Upon receiving a question, the agent first
-undertakes a step-by-step analysis and devises a rational plan. It then invokes
-a set of predefined functions to read node content and neighbors, facilitating
-a coarse-to-fine exploration of the graph. Throughout the exploration, the
-agent continuously records new insights and reflects on current circumstances
-to optimize the process until it has gathered sufficient information to
-generate an answer. Experimental results on the LV-Eval dataset reveal that
-GraphReader, using a 4k context window, consistently outperforms GPT-4-128k
-across context lengths from 16k to 256k by a large margin. Additionally, our
-approach demonstrates superior performance on four challenging single-hop and
-multi-hop benchmarks.
-
-摘要：長語境能力對於大型語言模型 (LLM) 來說至關重要，可應對複雜且輸入長度較長的任務。儘管已針對 LLM 進行許多最佳化工作以應對長語境，但強健地處理長輸入仍存在挑戰。在本文中，我們介紹 GraphReader，一個基於圖表的代理系統，旨在透過將長文本結構化成一個圖表，並使用代理程式自主探索此圖表，來處理長文本。在收到問題後，代理程式首先進行逐步分析，並擬定一個合理計畫。然後，它會呼叫一組預定義的函式來讀取節點內容和鄰近節點，促進對圖表的粗略到精細探索。在整個探索過程中，代理程式會持續記錄新的見解，並反思當前情況，以最佳化處理程序，直到收集到足夠的資訊來產生答案。在 LV-Eval 資料集上的實驗結果顯示，GraphReader 使用 4k 語境視窗，在 16k 到 256k 的語境長度中，始終大幅優於 GPT-4-128k。此外，我們的做法在四個具有挑戰性的單跳和多跳基準測試中展現出卓越的效能。
-
-##### **medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**
-2406.14326v1 by Mingyi Jia, Junwen Duan, Yan Song, Jianxin Wang
-
-Electronic Medical Records (EMRs), while integral to modern healthcare,
-present challenges for clinical reasoning and diagnosis due to their complexity
-and information redundancy. To address this, we proposed medIKAL (Integrating
-Knowledge Graphs as Assistants of LLMs), a framework that combines Large
-Language Models (LLMs) with knowledge graphs (KGs) to enhance diagnostic
-capabilities. medIKAL assigns weighted importance to entities in medical
-records based on their type, enabling precise localization of candidate
-diseases within KGs. It innovatively employs a residual network-like approach,
-allowing initial diagnosis by the LLM to be merged into KG search results.
-Through a path-based reranking algorithm and a fill-in-the-blank style prompt
-template, it further refined the diagnostic process. We validated medIKAL's
-effectiveness through extensive experiments on a newly introduced open-sourced
-Chinese EMR dataset, demonstrating its potential to improve clinical diagnosis
-in real-world settings.
-
-摘要：電子病歷 (EMR) 雖然是現代醫療保健不可或缺的一部分，但由於其複雜性和資訊冗餘，對臨床推理和診斷提出了挑戰。為了解決這個問題，我們提出了 medIKAL（將知識圖譜整合為 LLM 的助理），一個將大型語言模型 (LLM) 與知識圖譜 (KG) 結合的框架，以增強診斷能力。medIKAL 根據醫療記錄中實體的類型為其分配加權重要性，從而能夠精確定位 KG 中的候選疾病。它創新地採用了類似殘差網路的方法，允許 LLM 的初步診斷與 KG 搜尋結果合併。透過基於路徑的重新排序演算法和填空式提示範本，進一步優化了診斷過程。我們透過對新推出的開源中文 EMR 資料集進行廣泛的實驗，驗證了 medIKAL 的有效性，證明了其在現實世界中改善臨床診斷的潛力。
-
-##### **Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**
-2406.14282v1 by Junjie Wang, Mingyang Chen, Binbin Hu, Dan Yang, Ziqi Liu, Yue Shen, Peng Wei, Zhiqiang Zhang, Jinjie Gu, Jun Zhou, Jeff Z. Pan, Wen Zhang, Huajun Chen
-
-Improving the performance of large language models (LLMs) in complex
-question-answering (QA) scenarios has always been a research focal point.
-Recent studies have attempted to enhance LLMs' performance by combining
-step-wise planning with external retrieval. While effective for advanced models
-like GPT-3.5, smaller LLMs face challenges in decomposing complex questions,
-necessitating supervised fine-tuning. Previous work has relied on manual
-annotation and knowledge distillation from teacher LLMs, which are
-time-consuming and not accurate enough. In this paper, we introduce a novel
-framework for enhancing LLMs' planning capabilities by using planning data
-derived from knowledge graphs (KGs). LLMs fine-tuned with this data have
-improved planning capabilities, better equipping them to handle complex QA
-tasks that involve retrieval. Evaluations on multiple datasets, including our
-newly proposed benchmark, highlight the effectiveness of our framework and the
-benefits of KG-derived planning data.
-
-摘要：<paragraph>改善大型語言模型 (LLM) 在複雜問答 (QA) 情境中的效能一直是研究重點。最近的研究嘗試透過結合逐步規劃與外部擷取來增強 LLM 的效能。雖然對於 GPT-3.5 等進階模型來說很有效，但較小的 LLM 在分解複雜問題時會面臨挑戰，因此需要監督微調。先前的研究仰賴人工標註和教師 LLM 的知識萃取，這耗時且不夠精確。在本文中，我們介紹一個創新的架構，透過使用從知識圖譜 (KG) 中衍生的規劃資料來增強 LLM 的規劃能力。使用此資料微調的 LLM 改善了規劃能力，讓它們更能處理涉及擷取的複雜 QA 任務。在多個資料集（包括我們新提出的基準）上的評估突顯了我們架構的有效性，以及 KG 衍生規劃資料的好處。</paragraph>
-
-##### **ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation**
-2406.14088v1 by Zhiyu Mei, Wei Fu, Kaiwei Li, Guangju Wang, Huanchen Zhang, Yi Wu
-
-Reinforcement Learning from Human Feedback (RLHF) stands as a pivotal
-technique in empowering large language model (LLM) applications. Since RLHF
-involves diverse computational workloads and intricate dependencies among
-multiple LLMs, directly adopting parallelization techniques from supervised
-training can result in sub-optimal performance. To overcome this limitation, we
-propose a novel approach named parameter ReaLlocation, which dynamically
-redistributes LLM parameters in the cluster and adapts parallelization
-strategies during training. Building upon this idea, we introduce ReaLHF, a
-pioneering system capable of automatically discovering and running efficient
-execution plans for RLHF training given the desired algorithmic and hardware
-configurations. ReaLHF formulates the execution plan for RLHF as an augmented
-dataflow graph. Based on this formulation, ReaLHF employs a tailored search
-algorithm with a lightweight cost estimator to discover an efficient execution
-plan. Subsequently, the runtime engine deploys the selected plan by effectively
-parallelizing computations and redistributing parameters. We evaluate ReaLHF on
-the LLaMA-2 models with up to $4\times70$ billion parameters and 128 GPUs. The
-experiment results showcase ReaLHF's substantial speedups of $2.0-10.6\times$
-compared to baselines. Furthermore, the execution plans generated by ReaLHF
-exhibit an average of $26\%$ performance improvement over heuristic approaches
-based on Megatron-LM. The source code of ReaLHF is publicly available at
-https://github.com/openpsi-project/ReaLHF .
-
-摘要：強化學習來自人類回饋 (RLHF) 是一種關鍵技術，用於賦能大型語言模型 (LLM) 應用程式。由於 RLHF 涉及多種運算工作負載和多個 LLM 之間的複雜依賴關係，直接採用監督式訓練的平行化技術可能會導致次佳效能。為了克服這個限制，我們提出了一種名為參數重新配置的新方法，它會動態重新分配叢集中的 LLM 參數，並在訓練期間調整平行化策略。在此概念的基礎上，我們引入了 ReaLHF，這是一個開創性的系統，能夠自動發現並執行 RLHF 訓練的高效執行計畫，並考量所需的演算法和硬體組態。ReaLHF 將 RLHF 的執行計畫制定為一個擴增資料流圖。基於此制定，ReaLHF 採用量身打造的搜尋演算法，搭配輕量級成本估計器，以發現高效的執行計畫。隨後，執行時間引擎透過有效平行化運算和重新分配參數，來部署所選的計畫。我們在 LLaMA-2 模型上評估 ReaLHF，該模型最多有 $4\times70$0 億個參數和 128 個 GPU。實驗結果顯示，與基準相比，ReaLHF 的速度提升了 $2.0-10.6\times$。此外，ReaLHF 生成的執行計畫比基於 Megatron-LM 的啟發式方法，平均效能提升了 $26\%$。ReaLHF 的原始程式碼公開於 https://github.com/openpsi-project/ReaLHF。
 

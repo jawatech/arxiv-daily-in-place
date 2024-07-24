@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
+|**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
+|**2024-07-23**|**Virtue Ethics For Ethically Tunable Robotic Assistants**|Rajitha Ramanayake et.al.|[2407.16361v1](http://arxiv.org/abs/2407.16361v1)|null|
+|**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
+|**2024-07-22**|**Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**|Nina Deliu et.al.|[2407.16062v1](http://arxiv.org/abs/2407.16062v1)|null|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719v1](http://arxiv.org/abs/2407.15719v1)|[link](https://github.com/tinysqua/gfe-mamba)|
 |**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v1](http://arxiv.org/abs/2407.15526v1)|null|
 |**2024-07-22**|**A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**|Yingxue Xu et.al.|[2407.15362v1](http://arxiv.org/abs/2407.15362v1)|null|
@@ -46,6 +51,7 @@
 |**2024-07-16**|**Cross-Phase Mutual Learning Framework for Pulmonary Embolism Identification on Non-Contrast CT Scans**|Bizhe Bai et.al.|[2407.11529v1](http://arxiv.org/abs/2407.11529v1)|null|
 |**2024-07-16**|**Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG**|Jiarong Chen et.al.|[2407.11481v1](http://arxiv.org/abs/2407.11481v1)|[link](https://github.com/chenjiar3/mcma)|
 |**2024-07-16**|**TM-PATHVQA:90000+ Textless Multilingual Questions for Medical Visual Question Answering**|Tonmoy Rajkhowa et.al.|[2407.11383v1](http://arxiv.org/abs/2407.11383v1)|null|
+|**2024-07-16**|**Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations: A Comparative Analysis**|Qiuhong Wei et.al.|[2407.15862v1](http://arxiv.org/abs/2407.15862v1)|null|
 |**2024-07-15**|**Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**|Leonardo Crespi et.al.|[2407.10888v1](http://arxiv.org/abs/2407.10888v1)|null|
 |**2024-07-15**|**Towards Enhanced Classification of Abnormal Lung sound in Multi-breath: A Light Weight Multi-label and Multi-head Attention Classification Method**|Yi-Wei Chua et.al.|[2407.10828v1](http://arxiv.org/abs/2407.10828v1)|null|
 |**2024-07-15**|**Classification of Heart Sounds Using Multi-Branch Deep Convolutional Network and LSTM-CNN**|Seyed Amir Latifi et.al.|[2407.10689v1](http://arxiv.org/abs/2407.10689v1)|null|
@@ -96,14 +102,140 @@
 |**2024-07-09**|**ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v2](http://arxiv.org/abs/2407.07042v2)|[link](https://github.com/levayz/protosam)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972v1](http://arxiv.org/abs/2407.06972v1)|null|
-|**2024-07-09**|**TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**|Jacob Thrasher et.al.|[2407.06852v1](http://arxiv.org/abs/2407.06852v1)|[link](https://github.com/jacob-thrasher/te-ssl)|
-|**2024-07-09**|**VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction**|Thanh-Dat Nguyen et.al.|[2407.06826v1](http://arxiv.org/abs/2407.06826v1)|null|
-|**2024-07-09**|**iASiS: Towards Heterogeneous Big Data Analysis for Personalized Medicine**|Anastasia Krithara et.al.|[2407.06748v1](http://arxiv.org/abs/2407.06748v1)|null|
-|**2024-07-09**|**Generative AI for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations**|Rachael Fleurence et.al.|[2407.11054v1](http://arxiv.org/abs/2407.11054v1)|null|
-|**2024-07-09**|**TCKIN: A Novel Integrated Network Model for Predicting Mortality Risk in Sepsis Patients**|Fanglin Dong et.al.|[2407.06560v1](http://arxiv.org/abs/2407.06560v1)|null|
-|**2024-07-08**|**AI-driven multi-omics integration for multi-scale predictive modeling of causal genotype-environment-phenotype relationships**|You Wu et.al.|[2407.06405v1](http://arxiv.org/abs/2407.06405v1)|null|
 
 #### Abstracts
+##### **Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**
+2407.16608v1 by Daniela L. Ramos, Hector J. Hortua
+
+Colorectal polyps are generally benign alterations that, if not identified
+promptly and managed successfully, can progress to cancer and cause
+affectations on the colon mucosa, known as adenocarcinoma. Today advances in
+Deep Learning have demonstrated the ability to achieve significant performance
+in image classification and detection in medical diagnosis applications.
+Nevertheless, these models are prone to overfitting, and making decisions based
+only on point estimations may provide incorrect predictions. Thus, to obtain a
+more informed decision, we must consider point estimations along with their
+reliable uncertainty quantification. In this paper, we built different Bayesian
+neural network approaches based on the flexibility of posterior distribution to
+develop semantic segmentation of colorectal polyp images. We found that these
+models not only provide state-of-the-art performance on the segmentation of
+this medical dataset but also, yield accurate uncertainty estimates. We applied
+multiplicative normalized flows(MNF) and reparameterization trick on the UNET,
+FPN, and LINKNET architectures tested with multiple backbones in deterministic
+and Bayesian versions. We report that the FPN + EfficientnetB7 architecture
+with MNF is the most promising option given its IOU of 0.94 and Expected
+Calibration Error (ECE) of 0.004, combined with its superiority in identifying
+difficult-to-detect colorectal polyps, which is effective in clinical areas
+where early detection prevents the development of colon cancer.
+
+摘要：大腸息肉通常是良性病變，如果不及時發現並成功處理，可能會演變成癌症並導致大腸粘膜受累，即腺癌。如今，深度學習的進展已證明有能力在醫療診斷應用中實現圖像分類和檢測的顯著性能。儘管如此，這些模型容易過度擬合，並且僅基於點估計做出決策可能會提供不正確的預測。因此，為了獲得更明智的決策，我們必須考慮點估計及其可靠的不確定性量化。在本文中，我們基於後驗分佈的靈活性構建了不同的貝葉斯神經網絡方法，以開發大腸息肉圖像的語義分割。我們發現這些模型不僅在這個醫療數據集的分割上提供了最先進的性能，而且還產生了準確的不確定性估計。我們在確定性和貝葉斯版本中使用多個主幹測試的 UNET、FPN 和 LINKNET 架構上應用乘法歸一化流 (MNF) 和重新參數化技巧。我們報告說，具有 MNF 的 FPN + EfficientnetB7 架構是最有希望的選擇，因為它的 IOU 為 0.94，預期的校準誤差 (ECE) 為 0.004，並且在識別難以檢測的大腸息肉方面具有優越性，這在早期檢測可以防止結腸癌發展的臨床領域是有效的。
+
+##### **A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**
+2407.16593v1 by Giorgos Lysandrou, Roma English Owen, Vanja Popovic, Grant Le Brun, Aryo Pradipta Gema, Beatrice Alex, Elizabeth A. L. Fairley
+
+There exists an invisible barrier between healthcare professionals'
+perception of a patient's clinical experience and the reality. This barrier may
+be induced by the environment that hinders patients from sharing their
+experiences openly with healthcare professionals. As patients are observed to
+discuss and exchange knowledge more candidly on social media, valuable insights
+can be leveraged from these platforms. However, the abundance of non-patient
+posts on social media necessitates filtering out such irrelevant content to
+distinguish the genuine voices of patients, a task we refer to as patient voice
+classification. In this study, we analyse the importance of linguistic
+characteristics in accurately classifying patient voices. Our findings
+underscore the essential role of linguistic and statistical text similarity
+analysis in identifying common patterns among patient groups. These results
+allude to even starker differences in the way patients express themselves at a
+disease level and across various therapeutic domains. Additionally, we
+fine-tuned a pre-trained Language Model on the combined datasets with similar
+linguistic patterns, resulting in a highly accurate automatic patient voice
+classification. Being the pioneering study on the topic, our focus on
+extracting authentic patient experiences from social media stands as a crucial
+step towards advancing healthcare standards and fostering a patient-centric
+approach.
+
+摘要：醫療保健專業人員對於患者臨床經驗的認知與實際情況之間存在著一道無形的障礙。此障礙可能是由環境所造成，阻礙患者與醫療保健專業人員公開分享他們的經驗。由於觀察到患者在社群媒體上更坦率地討論和交換知識，因此可以從這些平台獲得有價值的見解。然而，社群媒體上充斥著非患者貼文，因此有必要過濾掉這些不相關的內容，以區分患者的真實聲音，我們將此任務稱為患者聲音分類。在本研究中，我們分析了語言特徵在準確分類患者聲音中的重要性。我們的研究結果強調了語言和統計文字相似性分析在識別患者群組之間共同模式中的重要角色。這些結果暗示了患者在疾病層級和各種治療領域中表達自己的方式存在著更明顯的差異。此外，我們根據具有類似語言模式的合併資料集微調了預先訓練好的語言模型，進而產生高度準確的自動患者聲音分類。作為這項主題的開創性研究，我們專注於從社群媒體中提取真實的患者經驗，這是邁向提升醫療保健標準和培養以患者為中心的途徑的關鍵一步。
+
+##### **Virtue Ethics For Ethically Tunable Robotic Assistants**
+2407.16361v1 by Rajitha Ramanayake, Vivek Nallur
+
+The common consensus is that robots designed to work alongside or serve
+humans must adhere to the ethical standards of their operational environment.
+To achieve this, several methods based on established ethical theories have
+been suggested. Nonetheless, numerous empirical studies show that the ethical
+requirements of the real world are very diverse and can change rapidly from
+region to region. This eliminates the idea of a universal robot that can fit
+into any ethical context. However, creating customised robots for each
+deployment, using existing techniques is challenging. This paper presents a way
+to overcome this challenge by introducing a virtue ethics inspired
+computational method that enables character-based tuning of robots to
+accommodate the specific ethical needs of an environment. Using a simulated
+elder-care environment, we illustrate how tuning can be used to change the
+behaviour of a robot that interacts with an elderly resident in an
+ambient-assisted environment. Further, we assess the robot's responses by
+consulting ethicists to identify potential shortcomings.
+
+摘要：一般共識是，設計用於與人類並肩工作或服務人類的機器人必須遵守其運作環境的道德標準。為達成此目的，已提出幾種基於既定倫理理論的方法。儘管如此，許多實證研究顯示，現實世界的道德要求非常多元，且可能因地區而異而快速改變。這消除了通用機器人的概念，而通用機器人可以融入任何道德脈絡。然而，使用現有技術為每個部署建立客製化機器人具有挑戰性。本文提出了一種克服此挑戰的方法，方法是引入一種美德倫理啟發的運算方法，使機器人能夠基於特質進行調整，以適應環境的特定道德需求。使用模擬的長者照護環境，我們說明如何使用調整來改變機器人在環境輔助環境中與年長住民互動的行為。此外，我們諮詢倫理學家來評估機器人的反應，以找出潛在的缺點。
+
+##### **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**
+2407.16329v1 by Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo
+
+Acute stroke demands prompt diagnosis and treatment to achieve optimal
+patient outcomes. However, the intricate and irregular nature of clinical data
+associated with acute stroke, particularly blood pressure (BP) measurements,
+presents substantial obstacles to effective visual analytics and
+decision-making. Through a year-long collaboration with experienced
+neurologists, we developed PhenoFlow, a visual analytics system that leverages
+the collaboration between human and Large Language Models (LLMs) to analyze the
+extensive and complex data of acute ischemic stroke patients. PhenoFlow
+pioneers an innovative workflow, where the LLM serves as a data wrangler while
+neurologists explore and supervise the output using visualizations and natural
+language interactions. This approach enables neurologists to focus more on
+decision-making with reduced cognitive load. To protect sensitive patient
+information, PhenoFlow only utilizes metadata to make inferences and synthesize
+executable codes, without accessing raw patient data. This ensures that the
+results are both reproducible and interpretable while maintaining patient
+privacy. The system incorporates a slice-and-wrap design that employs temporal
+folding to create an overlaid circular visualization. Combined with a linear
+bar graph, this design aids in exploring meaningful patterns within irregularly
+measured BP data. Through case studies, PhenoFlow has demonstrated its
+capability to support iterative analysis of extensive clinical datasets,
+reducing cognitive load and enabling neurologists to make well-informed
+decisions. Grounded in long-term collaboration with domain experts, our
+research demonstrates the potential of utilizing LLMs to tackle current
+challenges in data-driven clinical decision-making for acute ischemic stroke
+patients.
+
+摘要：<paragraph>急性中風需要迅速診斷和治療，才能達到最佳的病人治療結果。然而，與急性中風相關的臨床資料複雜且不規則，特別是血壓 (BP) 測量，對有效的視覺分析和決策制定構成重大障礙。透過與經驗豐富的神經科醫師長達一年的合作，我們開發了 PhenoFlow，這是一個視覺分析系統，利用人與大型語言模型 (LLM) 之間的協作來分析急性缺血性中風患者的廣泛且複雜資料。PhenoFlow 開創了一種創新的工作流程，其中 LLM 擔任資料整理員，而神經科醫師則使用視覺化和自然語言互動來探索和監督輸出。這種方法使神經科醫師能夠更專注於決策制定，同時降低認知負擔。為了保護敏感的病人資訊，PhenoFlow 僅利用元資料進行推論並合成可執行程式碼，而不會存取原始病人資料。這確保了結果既可重現又可解釋，同時維護病人的隱私。該系統採用分段和包裝設計，採用時間摺疊來建立疊加的圓形視覺化。結合線性長條圖，此設計有助於探索不規則測量血壓資料中的有意義模式。透過案例研究，PhenoFlow 已證明其支援對廣泛臨床資料集進行反覆分析的能力，降低認知負擔並使神經科醫師能夠做出明智的決策。我們的研究以與領域專家長期合作為基礎，證明了利用 LLM 來應對當前急性缺血性中風患者資料驅動臨床決策制定挑戰的潛力。</paragraph>
+
+##### **Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**
+2407.16062v1 by Nina Deliu, Bibhas Chakraborty
+
+Precision health, increasingly supported by digital technologies, is a domain
+of research that broadens the paradigm of precision medicine, advancing
+everyday healthcare. This vision goes hand in hand with the groundbreaking
+advent of artificial intelligence (AI), which is reshaping the way we diagnose,
+treat, and monitor both clinical subjects and the general population. AI tools
+powered by machine learning have shown considerable improvements in a variety
+of healthcare domains. In particular, reinforcement learning (RL) holds great
+promise for sequential and dynamic problems such as dynamic treatment regimes
+and just-in-time adaptive interventions in digital health. In this work, we
+discuss the opportunity offered by AI, more specifically RL, to current trends
+in healthcare, providing a methodological survey of RL methods in the context
+of precision and digital health. Focusing on the area of adaptive
+interventions, we expand the methodological survey with illustrative case
+studies that used RL in real practice.
+  This invited article has undergone anonymous review and is intended as a book
+chapter for the volume "Frontiers of Statistics and Data Science" edited by
+Subhashis Ghoshal and Anindya Roy for the International Indian Statistical
+Association Series on Statistics and Data Science, published by Springer. It
+covers the material from a short course titled "Artificial Intelligence in
+Precision and Digital Health" taught by the author Bibhas Chakraborty at the
+IISA 2022 Conference, December 26-30 2022, at the Indian Institute of Science,
+Bengaluru.
+
+摘要：<paragraph>精準健康在數位科技的支撐下日益普及，是擴展精準醫療典範的研究領域，促進日常保健。這個願景與人工智慧 (AI) 的突破性進展息息相關，它正在重塑我們診斷、治療和監控臨床受試者和一般民眾的方式。由機器學習支援的 AI 工具已在各種醫療保健領域展現顯著的進步。特別是，強化學習 (RL) 對序貫和動態問題（例如動態治療方案和即時適應性干預）極具發展前景。在這項工作中，我們探討 AI（更具體地說，RL）為當前醫療保健趨勢帶來的契機，並提供 RL 方法在精準和數位健康領域的方法論調查。我們專注於適應性干預領域，並透過在實際應用中使用 RL 的說明性案例研究擴展方法論調查。這篇受邀文章已經過匿名審查，並作為 Subhashis Ghoshal 和 Anindya Roy 編輯的「統計學與資料科學前沿」一書的章節，由 Springer 出版的國際印度統計協會統計學與資料科學系列叢書發行。它涵蓋了由作者 Bibhas Chakraborty 在印度統計協會 2022 年會議（2022 年 12 月 26 日至 30 日，於印度科學院 Bengaluru 舉行）教授的「精準與數位健康中的人工智慧」短期課程的教材。</paragraph>
+
 ##### **GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**
 2407.15719v1 by Zhaojie Fang, Shenghao Zhu, Yifei Chen, Binfeng Zou, Fan Jia, Linwei Qiu, Chang Liu, Yiyu Huang, Xiang Feng, Feiwei Qin, Changmiao Wang, Yeru Wang, Jin Fan, Changbiao Chu, Wan-Zhen Wu, Hu Zhao
 
@@ -1249,6 +1381,37 @@ audio. Finally, this work benchmarks and compares TMPathVQA systems implemented
 using various combinations of acoustic and visual features.
 
 摘要：在醫療保健和醫療診斷中，視覺問答（VQA）可能成為關鍵工具，在分析複雜的醫療影像對於準確診斷至關重要的場景中。目前的基於文字的 VQA 系統限制了它們在執行任務時免持互動和可及性至關重要的場景中的效用。基於語音的 VQA 系統可能提供更好的互動方式，可以在執行任務的同時存取資訊。為此，本研究透過導入無文字多語言病理 VQA（TMPathVQA）資料集，擴充了 PathVQA 資料集，包含英語、德語和法語的口說問題，實作了一個基於語音的 VQA 系統。此資料集包含 98,397 個多語言的口說問題和答案，基於 5,004 個病理影像以及 70 小時的音訊。最後，本研究使用各種音訊和視覺特徵的組合來實作 TMPathVQA 系統，並進行基準測試和比較。
+
+##### **Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations: A Comparative Analysis**
+2407.15862v1 by Qiuhong Wei, Ying Cui, Mengwei Ding, Yanqin Wang, Lingling Xiang, Zhengxiong Yao, Ceran Chen, Ying Long, Zhezhen Jin, Ximing Xu
+
+Large language models (LLMs) have demonstrated potential applications in
+medicine, yet data privacy and computational burden limit their deployment in
+healthcare institutions. Open-source and lightweight versions of LLMs emerge as
+potential solutions, but their performance, particularly in pediatric settings
+remains underexplored. In this cross-sectional study, 250 patient consultation
+questions were randomly selected from a public online medical forum, with 10
+questions from each of 25 pediatric departments, spanning from December 1,
+2022, to October 30, 2023. Two lightweight open-source LLMs, ChatGLM3-6B and
+Vicuna-7B, along with a larger-scale model, Vicuna-13B, and the widely-used
+proprietary ChatGPT-3.5, independently answered these questions in Chinese
+between November 1, 2023, and November 7, 2023. To assess reproducibility, each
+inquiry was replicated once. We found that ChatGLM3-6B demonstrated higher
+accuracy and completeness than Vicuna-13B and Vicuna-7B (P < .001), but all
+were outperformed by ChatGPT-3.5. ChatGPT-3.5 received the highest ratings in
+accuracy (65.2%) compared to ChatGLM3-6B (41.2%), Vicuna-13B (11.2%), and
+Vicuna-7B (4.4%). Similarly, in completeness, ChatGPT-3.5 led (78.4%), followed
+by ChatGLM3-6B (76.0%), Vicuna-13B (34.8%), and Vicuna-7B (22.0%) in highest
+ratings. ChatGLM3-6B matched ChatGPT-3.5 in readability, both outperforming
+Vicuna models (P < .001). In terms of empathy, ChatGPT-3.5 outperformed the
+lightweight LLMs (P < .001). In safety, all models performed comparably well (P
+> .05), with over 98.4% of responses being rated as safe. Repetition of
+inquiries confirmed these findings. In conclusion, Lightweight LLMs demonstrate
+promising application in pediatric healthcare. However, the observed gap
+between lightweight and large-scale proprietary LLMs underscores the need for
+continued development efforts.
+
+摘要：大型語言模型 (LLM) 已展現出在醫療保健領域的潛在應用，但資料隱私和運算負擔限制了它們在醫療保健機構中的部署。開放原始碼和輕量級版本的 LLM 成為潛在的解決方案，但它們的效能，特別是在兒科領域的效能，仍未被充分探討。在這項橫斷面研究中，從一個公開的線上醫療論壇中隨機選取了 250 個患者諮詢問題，每個兒科部門各 10 個問題，時間跨度從 2022 年 12 月 1 日到 2023 年 10 月 30 日。兩個輕量級的開放原始碼 LLM，ChatGLM3-6B 和 Vicuna-7B，以及一個更大規模的模型 Vicuna-13B，還有廣泛使用的專有 ChatGPT-3.5，在 2023 年 11 月 1 日到 2023 年 11 月 7 日期間獨立用中文回答了這些問題。為了評估可複製性，每個查詢都複製了一次。我們發現 ChatGLM3-6B 的準確性和完整性高於 Vicuna-13B 和 Vicuna-7B (P < .001)，但所有這些都低於 ChatGPT-3.5。ChatGPT-3.5 在準確性方面獲得了最高評分 (65.2%)，而 ChatGLM3-6B (41.2%)、Vicuna-13B (11.2%) 和 Vicuna-7B (4.4%) 的評分較低。同樣地，在完整性方面，ChatGPT-3.5 領先 (78.4%)，其次是 ChatGLM3-6B (76.0%)、Vicuna-13B (34.8%) 和 Vicuna-7B (22.0%) 的評分最高。ChatGLM3-6B 在可讀性方面與 ChatGPT-3.5 相匹配，兩者都優於 Vicuna 模型 (P < .001)。在同理心方面，ChatGPT-3.5 優於輕量級 LLM (P < .001)。在安全性方面，所有模型的表現都相當好 (P > .05)，超過 98.4% 的回應被評為安全。查詢的重複確認了這些發現。結論是，輕量級 LLM 展示了在兒科醫療保健中的應用前景。然而，在輕量級和大型專有 LLM 之間觀察到的差距強調了持續開發工作的重要性。
 
 ##### **Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**
 2407.10888v1 by Leonardo Crespi, Samuele Camnasio, Damiano Dei, Nicola Lambri, Pietro Mancosu, Marta Scorsetti, Daniele Loiacono
@@ -2506,166 +2669,4 @@ could be of interest to all GLAMs (galleries, libraries, archives, and
 museums).
 
 摘要：<paragraph>為回應 Jagiello 大學的數個文化遺產倡議，我們與 Jagiello 圖書館 (JL) 合作開發一個新的數位化工作流程。此解決方案基於易於存取的技術解決方案，包括：作為元資料擷取介面的 Microsoft 365 雲端與 MS Excel 檔案、用於驗證的 Office Script，以及用於儲存的 MS Sharepoint，它允許領域專家（語言學家、歷史學家、哲學家、圖書館員、檔案管理員、策展人等）擷取元資料，而無須具備資訊系統方面的經驗。最終目標是建立一個知識圖譜，用以描述所分析的館藏，並連結至一般知識庫，以及其他文化遺產館藏，因此我們非常重視元資料的高準確性，以及與外部來源的適當連結。此工作流程已在 DiHeLib 專案中兩個試點計畫中進行評估，該專案專注於數位化所謂的「柏林館藏」，以及與國際訪客進行的兩個工作坊，這讓我們得以改善工作流程，並確認其正確性，以及對 JL 的可用性。由於所提出的工作流程不會干擾既有系統或關於數位化和基本元資料蒐集的領域指南（例如，檔案類型、影像品質、使用 Dublin Core/MARC-21），而是擴充這些系統，以支援以前無法進行的豐富元資料蒐集，因此我們相信它可能會引起所有 GLAM（畫廊、圖書館、檔案館和博物館）的興趣。</paragraph>
-
-##### **TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**
-2407.06852v1 by Jacob Thrasher, Alina Devkota, Ahmed Tafti, Binod Bhattarai, Prashnna Gyawali
-
-Alzheimer's Dementia (AD) represents one of the most pressing challenges in
-the field of neurodegenerative disorders, with its progression analysis being
-crucial for understanding disease dynamics and developing targeted
-interventions. Recent advancements in deep learning and various representation
-learning strategies, including self-supervised learning (SSL), have shown
-significant promise in enhancing medical image analysis, providing innovative
-ways to extract meaningful patterns from complex data. Notably, the computer
-vision literature has demonstrated that incorporating supervisory signals into
-SSL can further augment model performance by guiding the learning process with
-additional relevant information. However, the application of such supervisory
-signals in the context of disease progression analysis remains largely
-unexplored. This gap is particularly pronounced given the inherent challenges
-of incorporating both event and time-to-event information into the learning
-paradigm. Addressing this, we propose a novel framework, Time and Even-aware
-SSL (TE-SSL), which integrates time-to-event and event data as supervisory
-signals to refine the learning process. Our comparative analysis with existing
-SSL-based methods in the downstream task of survival analysis shows superior
-performance across standard metrics.
-
-摘要：阿茲海默症失智症 (AD) 是神經退化性疾病領域中最迫切的挑戰之一，其進程分析對於了解疾病動態和開發目標性干預措施至關重要。深度學習和各種表示學習策略（包括自監督學習 (SSL)）的最新進展，已在增強醫學影像分析方面展現顯著前景，提供從複雜資料中提取有意義模式的創新方法。值得注意的是，電腦視覺文獻已證明將監督訊號納入 SSL 可以透過提供額外相關資訊來指導學習過程，進一步增強模型效能。然而，此類監督訊號在疾病進程分析中的應用仍未得到充分探討。由於將事件和事件時間資訊納入學習範例的固有挑戰，此差距特別明顯。針對此問題，我們提出一個創新的架構，時間和事件感知 SSL (TE-SSL)，它整合事件時間和事件資料作為監督訊號，以優化學習過程。我們在生存分析的下游任務中，對其與現有基於 SSL 的方法進行比較分析，顯示其在標準指標上的效能優異。
-
-##### **VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction**
-2407.06826v1 by Thanh-Dat Nguyen, Tung Do-Viet, Hung Nguyen-Duy, Tuan-Hai Luu, Hung Le, Bach Le, Patanamon, Thongtanunam
-
-Businesses need to query visually rich documents (VRDs) like receipts,
-medical records, and insurance forms to make decisions. Existing techniques for
-extracting entities from VRDs struggle with new layouts or require extensive
-pre-training data. We introduce VRDSynth, a program synthesis method to
-automatically extract entity relations from multilingual VRDs without
-pre-training data. To capture the complexity of VRD domain, we design a
-domain-specific language (DSL) to capture spatial and textual relations to
-describe the synthesized programs. Along with this, we also derive a new
-synthesis algorithm utilizing frequent spatial relations, search space pruning,
-and a combination of positive, negative, and exclusive programs to improve
-coverage.
-  We evaluate VRDSynth on the FUNSD and XFUND benchmarks for semantic entity
-linking, consisting of 1,592 forms in 8 languages. VRDSynth outperforms
-state-of-the-art pre-trained models (LayoutXLM, InfoXLMBase, and
-XLMRobertaBase) in 5, 6, and 7 out of 8 languages, respectively, improving the
-F1 score by 42% over LayoutXLM in English. To test the extensibility of the
-model, we further improve VRDSynth with automated table recognition, creating
-VRDSynth(Table), and compare it with extended versions of the pre-trained
-models, InfoXLM(Large) and XLMRoberta(Large). VRDSynth(Table) outperforms these
-baselines in 4 out of 8 languages and in average F1 score. VRDSynth also
-significantly reduces memory footprint (1M and 380MB vs. 1.48GB and 3GB for
-LayoutXLM) while maintaining similar time efficiency.
-
-摘要：<paragraph>企業需要查詢視覺豐富的文件 (VRD)，例如收據、醫療記錄和保險單據，才能做出決策。現有的技術用於從 VRD 中提取實體，會遇到新的版面問題，或者需要大量的預訓練數據。我們介紹 VRDSynth，這是一種程式合成方法，可以在沒有預訓練數據的情況下自動從多語言 VRD 中提取實體關係。為了捕捉 VRD 領域的複雜性，我們設計了一個特定領域語言 (DSL)，用於捕捉空間和文字關係，以描述合成的程式。除此之外，我們還推導出一個新的合成演算法，利用頻繁的空間關係、搜尋空間剪枝，以及正、負和排他程式的組合，以改善涵蓋範圍。
-我們在 FUNSD 和 XFUND 基準上評估 VRDSynth，用於語義實體連結，包含 8 種語言的 1,592 個表單。VRDSynth 在 8 種語言中的 5、6 和 7 種語言中優於最先進的預訓練模型 (LayoutXLM、InfoXLMBase 和 XLMRobertaBase)，分別將英文中的 F1 分數提高了 42%，高於 LayoutXLM。為了測試模型的可擴充性，我們進一步改進 VRDSynth，採用自動化表格識別，建立 VRDSynth(Table)，並將其與預訓練模型 InfoXLM(Large) 和 XLMRoberta(Large) 的延伸版本進行比較。VRDSynth(Table) 在 8 種語言中的 4 種語言和平均 F1 分數中優於這些基準。VRDSynth 還顯著減少了記憶體使用量 (1M 和 380MB，而 LayoutXLM 為 1.48GB 和 3GB)，同時維持類似的時間效率。</paragraph>
-
-##### **iASiS: Towards Heterogeneous Big Data Analysis for Personalized Medicine**
-2407.06748v1 by Anastasia Krithara, Fotis Aisopos, Vassiliki Rentoumi, Anastasios Nentidis, Konstantinos Bougatiotis, Maria-Esther Vidal, Ernestina Menasalvas, Alejandro Rodriguez-Gonzalez, Eleftherios G. Samaras, Peter Garrard, Maria Torrente, Mariano Provencio Pulla, Nikos Dimakopoulos, Rui Mauricio, Jordi Rambla De Argila, Gian Gaetano Tartaglia, George Paliouras
-
-The vision of IASIS project is to turn the wave of big biomedical data
-heading our way into actionable knowledge for decision makers. This is achieved
-by integrating data from disparate sources, including genomics, electronic
-health records and bibliography, and applying advanced analytics methods to
-discover useful patterns. The goal is to turn large amounts of available data
-into actionable information to authorities for planning public health
-activities and policies. The integration and analysis of these heterogeneous
-sources of information will enable the best decisions to be made, allowing for
-diagnosis and treatment to be personalised to each individual. The project
-offers a common representation schema for the heterogeneous data sources. The
-iASiS infrastructure is able to convert clinical notes into usable data,
-combine them with genomic data, related bibliography, image data and more, and
-create a global knowledge base. This facilitates the use of intelligent methods
-in order to discover useful patterns across different resources. Using semantic
-integration of data gives the opportunity to generate information that is rich,
-auditable and reliable. This information can be used to provide better care,
-reduce errors and create more confidence in sharing data, thus providing more
-insights and opportunities. Data resources for two different disease categories
-are explored within the iASiS use cases, dementia and lung cancer.
-
-摘要：IASIS 項目的願景是將朝我們而來的龐大生物醫學數據浪潮轉變為決策者的可行知識。這是透過整合來自不同來源的數據（包括基因組學、電子健康記錄和書目），並應用先進的分析方法來發現有用的模式來實現的。目標是將大量可用數據轉化為可行的資訊，供當局規劃公共衛生活動和政策。整合和分析這些異質的資訊來源將使最佳決策得以制定，並允許對每個人的診斷和治療進行個人化。該專案為異質數據來源提供了一個共同的表示架構。iASiS 基礎設施能夠將臨床筆記轉換為可用數據，將其與基因組數據、相關書目、影像數據等結合起來，並建立一個全球知識庫。這有助於使用智慧方法來發現不同資源之間的有用模式。使用數據的語義整合提供了產生豐富、可稽核且可靠資訊的機會。這些資訊可用於提供更好的照護、減少錯誤，並對資料共享建立更多信心，從而提供更多見解和機會。在 iASiS 的使用案例中，探討了兩種不同疾病類別的數據資源，即失智症和肺癌。
-
-##### **Generative AI for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations**
-2407.11054v1 by Rachael Fleurence, Jiang Bian, Xiaoyan Wang, Hua Xu, Dalia Dawoud, Tala Fakhouri, Mitch Higashi, Jagpreet Chhatwal
-
-This review introduces the transformative potential of generative Artificial
-Intelligence (AI) and foundation models, including large language models
-(LLMs), for health technology assessment (HTA). We explore their applications
-in four critical areas, evidence synthesis, evidence generation, clinical
-trials and economic modeling: (1) Evidence synthesis: Generative AI has the
-potential to assist in automating literature reviews and meta-analyses by
-proposing search terms, screening abstracts, and extracting data with notable
-accuracy; (2) Evidence generation: These models can potentially facilitate
-automating the process and analyze the increasingly available large collections
-of real-world data (RWD), including unstructured clinical notes and imaging,
-enhancing the speed and quality of real-world evidence (RWE) generation; (3)
-Clinical trials: Generative AI can be used to optimize trial design, improve
-patient matching, and manage trial data more efficiently; and (4) Economic
-modeling: Generative AI can also aid in the development of health economic
-models, from conceptualization to validation, thus streamlining the overall HTA
-process. Despite their promise, these technologies, while rapidly improving,
-are still nascent and continued careful evaluation in their applications to HTA
-is required. To ensure their responsible use and implementation, both
-developers and users of research incorporating these tools, should familiarize
-themselves with their current limitations, including the issues related to
-scientific validity, risk of bias, and consider equity and ethical
-implications. We also surveyed the current policy landscape and provide
-suggestions for HTA agencies on responsibly integrating generative AI into
-their workflows, emphasizing the importance of human oversight and the
-fast-evolving nature of these tools.
-
-摘要：本篇評論介紹了生成式人工智慧 (AI) 和基礎模型，包括大型語言模型 (LLM)，在健康技術評估 (HTA) 中的轉化潛力。我們探討了它們在四個關鍵領域的應用，證據綜合、證據生成、臨床試驗和經濟建模：(1) 證據綜合：生成式 AI 有潛力協助自動化文獻回顧和統合分析，方法是提出搜尋詞彙、篩選摘要和提取資料，準確度顯著；(2) 證據生成：這些模型有潛力促進自動化流程，並分析日益可得的大量真實世界資料 (RWD) 集合，包括非結構化臨床筆記和影像，提升真實世界證據 (RWE) 生成的速度和品質；(3) 臨床試驗：生成式 AI 可用於最佳化試驗設計、改善患者配對，並更有效率地管理試驗資料；(4) 經濟建模：生成式 AI 也可以協助開發健康經濟模型，從概念化到驗證，進而簡化整體 HTA 流程。儘管這些技術前景看好，且進步神速，但仍處於萌芽階段，需要持續小心評估它們在 HTA 中的應用。為了確保負責任地使用和實施這些技術，這些工具的研究開發人員和使用者都應該熟悉它們目前的限制，包括與科學效度、偏差風險相關的問題，並考慮公平性和倫理意涵。我們也調查了目前的政策現況，並針對 HTA 機構提供建議，說明如何負責任地將生成式 AI 整合到工作流程中，強調人工監督和這些工具快速演變的本質。
-
-##### **TCKIN: A Novel Integrated Network Model for Predicting Mortality Risk in Sepsis Patients**
-2407.06560v1 by Fanglin Dong
-
-Sepsis poses a major global health threat, accounting for millions of deaths
-annually and significant economic costs. Accurate predictions of mortality risk
-in sepsis patients facilitate the efficient allocation of medical resources,
-thereby enhancing patient survival and quality of life. Through precise risk
-assessments, healthcare facilities can effectively distribute intensive care
-beds, medical equipment, and staff, ensuring high-risk patients receive timely
-and appropriate care. Early identification and intervention significantly
-decrease mortality rates and improve patient outcomes. Current methods
-typically utilize only one type of data--either constant, temporal, or ICD
-codes. This study introduces the Time-Constant KAN Integrated Network(TCKIN),
-an innovative model that enhances the accuracy of sepsis mortality risk
-predictions by integrating both temporal and constant data from electronic
-health records and ICD codes. Validated against the MIMIC-III and MIMIC-IV
-datasets, TCKIN surpasses existing machine learning and deep learning methods
-in accuracy, sensitivity, and specificity. Notably, TCKIN achieved AUCs of
-87.76% and 88.07%, demonstrating superior capability in identifying high-risk
-patients. Additionally, TCKIN effectively combats the prevalent issue of data
-imbalance in clinical settings, improving the detection of patients at elevated
-risk of mortality and facilitating timely interventions. These results confirm
-the model's effectiveness and its potential to transform patient management and
-treatment optimization in clinical practice. With this advanced risk assessment
-tool, healthcare providers can devise more tailored treatment plans, optimize
-resource utilization, and ultimately enhance survival rates and quality of life
-for sepsis patients.
-
-摘要：<paragraph>敗血症構成全球主要的健康威脅，每年造成數百萬人死亡，並帶來龐大的經濟成本。準確預測敗血症患者的死亡風險，有助於有效分配醫療資源，從而提升患者存活率和生活品質。透過精確的風險評估，醫療機構可以有效分配加護病房病床、醫療設備和人員，確保高風險患者能及時獲得適當的照護。早期發現和介入可以顯著降低死亡率，並改善患者預後。目前的方法通常僅使用一種類型的資料，例如常數、時間或 ICD 編碼。本研究引入了時間常數 KAN 整合網路 (TCKIN)，這是一個創新的模型，透過整合電子健康紀錄和 ICD 編碼中的時間和常數資料，來提升敗血症死亡風險預測的準確性。在 MIMIC-III 和 MIMIC-IV 資料集驗證下，TCKIN 在準確性、敏感性和特異性方面都超越了現有的機器學習和深度學習方法。值得注意的是，TCKIN 達到了 87.76% 和 88.07% 的 AUC，顯示出優異的識別高風險患者能力。此外，TCKIN 有效地解決了臨床環境中普遍存在的資料不平衡問題，改善了對死亡風險較高的患者的檢測，並促進及時介入。這些結果證實了該模型的有效性，以及其在臨床實務中轉化患者管理和優化治療的潛力。有了這個進階的風險評估工具，醫療保健提供者可以制定更客製化的治療計畫，最佳化資源利用，並最終提升敗血症患者的存活率和生活品質。</paragraph>
-
-##### **AI-driven multi-omics integration for multi-scale predictive modeling of causal genotype-environment-phenotype relationships**
-2407.06405v1 by You Wu, Lei Xie
-
-Despite the wealth of single-cell multi-omics data, it remains challenging to
-predict the consequences of novel genetic and chemical perturbations in the
-human body. It requires knowledge of molecular interactions at all biological
-levels, encompassing disease models and humans. Current machine learning
-methods primarily establish statistical correlations between genotypes and
-phenotypes but struggle to identify physiologically significant causal factors,
-limiting their predictive power. Key challenges in predictive modeling include
-scarcity of labeled data, generalization across different domains, and
-disentangling causation from correlation. In light of recent advances in
-multi-omics data integration, we propose a new artificial intelligence
-(AI)-powered biology-inspired multi-scale modeling framework to tackle these
-issues. This framework will integrate multi-omics data across biological
-levels, organism hierarchies, and species to predict causal
-genotype-environment-phenotype relationships under various conditions. AI
-models inspired by biology may identify novel molecular targets, biomarkers,
-pharmaceutical agents, and personalized medicines for presently unmet medical
-needs.
-
-摘要：儘管有豐富的單細胞多組學資料，但預測人體中新的遺傳和化學擾動的後果仍然具有挑戰性。這需要了解所有生物層級的分子交互作用，包括疾病模型和人類。目前的機器學習方法主要建立基因型和表型之間的統計相關性，但難以識別生理上重要的因果因素，從而限制了其預測能力。預測建模中的主要挑戰包括標記資料的稀缺性、跨不同領域的概化，以及將因果關係從相關性中解開。鑑於多組學資料整合的最新進展，我們提出了一個新的由人工智慧 (AI) 驅動的、受生物啟發的多尺度建模框架來解決這些問題。此框架將整合跨生物層級、生物體層級和物種的多組學資料，以預測在各種條件下的因果基因型-環境-表型關係。受生物啟發的 AI 模型可能會識別出新的分子靶標、生物標記、藥物和個性化藥物，以滿足目前尚未滿足的醫療需求。
 

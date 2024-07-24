@@ -14,7 +14,7 @@
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
-|**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v1](http://arxiv.org/abs/2406.16908v1)|null|
+|**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v2](http://arxiv.org/abs/2406.16908v2)|null|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
@@ -420,7 +420,7 @@ publicly available at https://github.com/jordan7186/GAtt/tree/main.
 摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
 
 ##### **Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**
-2406.16908v1 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira Edussooriya
+2406.16908v2 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira U. S. Edussooriya
 
 The neonatal period is the most vulnerable time for the development of
 seizures. Seizures in the immature brain lead to detrimental consequences,
@@ -441,7 +441,7 @@ Zenodo dataset with 10-fold cross-validation, the presented model achieves an
 absolute improvement of 8.31% and 42.86% in area under curve (AUC) and recall,
 respectively.
 
-摘要：新生兒期是大腦發育最容易出現癲癇的時期。大腦尚未成熟時發生的癲癇會造成不良後果，因此需要提早診斷。目前新生兒癲癇檢測的黃金標準依賴於持續的視訊腦電圖 (EEG) 監控；其中包括在新生兒加護病房 (NICU) 內錄製多通道腦電圖 (EEG) 和進行即時視訊監控。然而，視訊腦電圖監控技術需要臨床專業知識，而且通常僅限於技術先進且資源豐富的環境。具成本效益的新技術可以幫助醫療界準確診斷並立即提倡治療。在這項工作中，提出了一個新穎的可解釋深度學習模型，以自動化新生兒癲癇檢測流程，並減少腦電圖裝置，採用卷積神經網路、圖注意力層和全連接層。除了能夠即時偵測癲癇發作並減少裝置外，此模型還提供了即時可解釋性的獨特優勢。透過評估 Zenodo 資料集的 10 倍交叉驗證效能，提出的模型在曲線下面積 (AUC) 和召回率分別達到 8.31% 和 42.86% 的絕對改善。
+摘要：新生兒時期是大腦發育最脆弱的時期，會導致癲癇發作。癲癇發作會對未成熟的大腦造成不良後果，因此需要早期診斷。目前新生兒癲癇檢測的黃金標準依賴於連續視訊腦電圖監測；這包括在新生兒加護病房 (NICU) 內記錄多通道腦電圖 (EEG) 和即時視訊監測。然而，視訊腦電圖監測技術需要臨床專業知識，而且通常僅限於技術先進且資源豐富的環境。具有成本效益的新技術可以幫助醫療界做出準確的診斷，並立即提倡治療。在這項工作中，提出了一個新穎可解釋的深度學習模型，以自動化新生兒癲癇檢測過程，並減少腦電圖裝置，該模型採用卷積網路、圖注意力層和全連接層。除了能夠即時偵測減少裝置的癲癇發作外，此模型還提供即時可解釋性的獨特優勢。透過評估 Zenodo 資料集上的效能，並進行 10 倍交叉驗證，所提出的模型在曲線下面積 (AUC) 和召回率分別達到 8.31% 和 42.86% 的絕對改善。
 
 ##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
 2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik

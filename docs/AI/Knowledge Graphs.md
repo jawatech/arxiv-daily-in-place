@@ -4,14 +4,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v1](http://arxiv.org/abs/2407.15588v1)|[link](https://github.com/eralign/eralign)|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
-|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v1](http://arxiv.org/abs/2407.15351v1)|null|
+|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
 |**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141v1](http://arxiv.org/abs/2407.15141v1)|null|
 |**2024-07-20**|**On the Design and Analysis of LLM-Based Algorithms**|Yanxi Chen et.al.|[2407.14788v1](http://arxiv.org/abs/2407.14788v1)|[link](https://github.com/modelscope/agentscope)|
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
-|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v2](http://arxiv.org/abs/2407.12703v2)|null|
+|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
@@ -61,8 +61,8 @@
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
 |**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511v1](http://arxiv.org/abs/2407.01511v1)|[link](https://github.com/camel-ai/crab)|
 |**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409v1](http://arxiv.org/abs/2407.01409v1)|null|
-|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)|
-|**2024-07-01**|**SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**|Lingyue Fu et.al.|[2407.01245v1](http://arxiv.org/abs/2407.01245v1)|null|
+|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v2](http://arxiv.org/abs/2407.01406v2)|[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)|
+|**2024-07-01**|**SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**|Lingyue Fu et.al.|[2407.01245v2](http://arxiv.org/abs/2407.01245v2)|null|
 |**2024-07-01**|**Revisiting Random Walks for Learning on Graphs**|Jinwoo Kim et.al.|[2407.01214v1](http://arxiv.org/abs/2407.01214v1)|[link](https://github.com/jw9730/random-walk)|
 |**2024-07-01**|**LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation**|Longchao Da et.al.|[2407.00994v2](http://arxiv.org/abs/2407.00994v2)|null|
 |**2024-06-30**|**Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**|Romy Fieblinger et.al.|[2407.02528v1](http://arxiv.org/abs/2407.02528v1)|null|
@@ -156,7 +156,7 @@ these datasets with +18.98% ~ +35.98% improvements.
 摘要：文本属性图 (TAG) 是一种重要的真实世界图结构化数据，其中每个节点都与原始文本相关联。对于 TAG，传统的少数镜头节点分类方法直接对预处理的节点特征进行训练，而不考虑原始文本。性能在很大程度上取决于特征预处理方法的选择。在本文中，我们提出了 P2TAG，这是一个专为 TAG 上的少数镜头节点分类设计的框架，具有图预训练和提示。P2TAG 首先使用自我监督损失对 TAG 上的语言模型 (LM) 和图神经网络 (GNN) 进行预训练。为了充分利用语言模型的能力，我们为我们的框架调整了掩码语言建模目标。然后使用预训练模型进行少数镜头节点分类，采用混合提示方法，同时考虑文本和图信息。我们对六个真实世界的 TAG 进行了实验，包括论文引用网络和产品共同购买网络。实验结果表明，我们提出的框架在这些数据集上优于现有的图少数镜头学习方法，改进了 +18.98% ~ +35.98%。
 
 ##### **LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**
-2407.15351v1 by Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei
+2407.15351v2 by Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei
 
 Recent studies seek to provide Graph Neural Network (GNN) interpretability
 via multiple unsupervised learning models. Due to the scarcity of datasets,
@@ -171,7 +171,7 @@ as a Bayesian inference to improve the performance of existing algorithms; 2.
 We are the first to discuss the learning bias issues in the GNN explanation
 problem.
 
-摘要：最近的研究旨在通过多种无监督学习模型提供图神经网络 (GNN) 可解释性。由于数据集的稀缺性，当前方法很容易受到学习偏差的影响。为了解决这个问题，我们将大语言模型 (LLM) 作为知识嵌入到 GNN 解释网络中，以避免学习偏差问题。我们注入 LLM 作为贝叶斯推理 (BI) 模块来减轻学习偏差。BI 模块的有效性已在理论上和实验上得到证明。我们在合成数据集和真实世界数据集上进行实验。我们工作的创新之处在于两部分：1. 我们提供了 LLM 作为贝叶斯推理以提高现有算法性能的可能性的新观点；2. 我们是第一个讨论 GNN 解释问题中的学习偏差问题的人。
+摘要：近期研究試圖透過多種非監督式學習模型來提供圖神經網路 (GNN) 的可解釋性。由於資料集的稀少，目前的演算法容易受到學習偏差的影響。為了解決這個問題，我們將大型語言模型 (LLM) 作為知識嵌入到 GNN 解釋網路中，以避免學習偏差的問題。我們將 LLM 作為貝氏推論 (BI) 模組注入，以減輕學習偏差。BI 模組的效能已在理論上和實驗上得到證實。我們在合成和真實世界資料集上進行實驗。我們工作的創新之處在於兩部分：1. 我們提供 LLM 作為貝氏推論以改善現有演算法效能的可能性之新觀點；2. 我們率先討論 GNN 解釋問題中的學習偏差問題。
 
 ##### **Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**
 2407.15141v1 by Yu Zhang, Ruijie Yu, Kaipeng Zeng, Ding Li, Feng Zhu, Xiaokang Yang, Yaohui Jin, Yanyan Xu
@@ -311,7 +311,7 @@ non-sequential prompting generally outperforms sequential prompting.
 摘要：通過闡述一系列中間推理步驟，大幅提升大型語言模型 (LLM) 解決複雜問題的能力，因為這些步驟會促使 LLM 按順序思考。然而，人類的諷刺理解通常被認為是一種直覺且全面的認知過程，其中各種語言、語境和情緒線索整合在一起，以全面了解說話者的真實意圖，這被認為不僅限於循序漸進的推理過程。為了驗證這個論點，我們引入了一個新的提示框架，稱為 SarcasmCue，其中包含四種提示策略，即矛盾鏈 (CoC)、線索圖 (GoC)、線索袋 (BoC) 和線索張量 (ToC)，它引發 LLM 通過考慮順序和非順序提示方法來檢測人類的諷刺。通過對四個基準數據集進行全面的實證比較，我們表明所提出的四種提示方法以相當大的幅度優於標準 IO 提示、CoT 和 ToT，並且非順序提示通常優於順序提示。
 
 ##### **Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**
-2407.12703v2 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
+2407.12703v3 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
 
 Fine-tuning pre-trained language models (PLMs) has recently shown a potential
 to improve knowledge graph completion (KGC). However, most PLM-based methods
@@ -328,7 +328,7 @@ structural inductive bias of the subgraphs into fine-tuning PLMs. Extensive
 experiments on four KGC benchmarks demonstrate the superiority of SATKGC. Our
 code is available.
 
-摘要：微调预先训练的语言模型 (PLM) 最近显示出改善知识图谱完成 (KGC) 的潜力。然而，大多数基于 PLM 的方法只编码文本信息，而忽略了知识图谱 (KG) 的各种拓扑结构。在本文中，我们通过实证验证了 KG 的结构属性与基于 PLM 的方法的性能之间的重要关系。为了利用结构知识，我们提出了一个用于 KGC 的子图感知训练框架 (SATKGC)，它结合了 (i) 子图感知的小批量处理以鼓励困难的负采样，以及 (ii) 一种新的对比学习方法，以在结构属性方面更多地关注更困难的实体和更困难的负三元组。据我们所知，这是第一项将子图的结构归纳偏差全面纳入微调 PLM 的研究。在四个 KGC 基准上的广泛实验证明了 SATKGC 的优越性。我们的代码可用。
+摘要：微調預訓練語言模型 (PLM) 近來顯示出改善知識圖譜完成功能 (KGC) 的潛力。然而，大多數基於 PLM 的方法僅編碼文字資訊，忽略了知識圖譜 (KG) 的各種拓撲結構。在本文中，我們透過經驗驗證了 KG 的結構屬性與基於 PLM 的方法效能之間的重要關係。為了利用結構知識，我們提出了一個用於 KGC 的子圖感知訓練架構 (SATKGC)，它結合了：(i) 子圖感知小批次處理以鼓勵困難負面抽樣，以及 (ii) 一種新的對比學習方法，在結構屬性方面更專注於更困難的實體和更困難的負三元組。據我們所知，這是第一個將子圖的結構歸納偏誤全面納入 PLM 微調的研究。在四個 KGC 基準上的廣泛實驗證明了 SATKGC 的優越性。我們的程式碼現已公開。
 
 ##### **Abstraction Alignment: Comparing Model and Human Conceptual Relationships**
 2407.12543v1 by Angie Boggust, Hyemin Bang, Hendrik Strobelt, Arvind Satyanarayan
@@ -1499,7 +1499,7 @@ configurations.
 摘要：大型語言模型為知識圖譜（KGQA）的創新問答提供了機會。然而，它們並非天生就設計用於查詢生成。為了彌補這一差距，已提出依賴於微調或特定架構的解決方案，取得了良好的結果，但域外分佈泛化能力有限。在本研究中，我們引入了一種稱為動態小樣本學習（DFSL）的新方法。DFSL 集成了語境學習和語義相似性的效率，並為 KGQA 提供了一個普遍適用的解決方案，具有最先進的性能。我們對多個基準資料集和架構配置進行了廣泛的評估。
 
 ##### **Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**
-2407.01406v1 by Daniil Gurgurov, Mareike Hartmann, Simon Ostermann
+2407.01406v2 by Daniil Gurgurov, Mareike Hartmann, Simon Ostermann
 
 This paper explores the integration of graph knowledge from linguistic
 ontologies into multilingual Large Language Models (LLMs) using adapters to
@@ -1521,10 +1521,10 @@ tasks, we assess how structured graph knowledge affects the performance of
 multilingual LLMs for LRLs in SA and NER, providing insights into the potential
 benefits of adapting language models for low-resource scenarios.
 
-摘要：這篇論文探討了使用適配器將語言本體論中的圖形知識整合到多語言大型語言模型 (LLM) 中，以改善低資源語言 (LRL) 在情緒分析 (SA) 和命名實體辨識 (NER) 中的效能。建立在成功的參數有效微調技術上，例如 K-ADAPTER 和 MAD-X，我們提出了一種類似的方法，用於將來自多語言圖形、透過語言關係將各種語言中的概念彼此連接的知識整合到 LRL 的多語言 LLM 中。具體來說，我們專注於八種 LRL——馬爾他語、保加利亞語、印尼語、尼泊爾語、爪哇語、維吾爾語、藏語和僧伽羅語——並使用針對從 ConceptNet 的語言特定部分中萃取的資料進行微調的語言特定適配器，旨在讓知識在知識圖形涵蓋的語言之間轉移。我們比較了各種微調目標，包括標準的遮罩語言模型 (MLM)、帶有全詞遮罩的 MLM 和帶有目標遮罩的 MLM，以分析它們在學習和整合萃取的圖形資料方面的有效性。透過對語言特定任務的經驗評估，我們評估了結構化的圖形知識如何影響多語言 LLM 在 SA 和 NER 中的效能，並深入了解了為低資源場景調整語言模型的潛在好處。
+摘要：這篇論文探討了使用適配器將來自語言學本體的圖形知識整合到多語言大型語言模型 (LLM) 中，以提升低資源語言 (LRL) 在情緒分析 (SA) 和命名實體識別 (NER) 中的效能。我們建立在成功的參數有效微調技術上，例如 K-ADAPTER 和 MAD-X，我們提出了一個類似的做法，將來自多語言圖形、透過語言關係將各種語言中的概念相互連接的知識，納入 LRL 的多語言 LLM 中。具體來說，我們專注於八種 LRL——馬爾他語、保加利亞語、印尼語、尼泊爾語、爪哇語、維吾爾語、藏語和僧伽羅語——並使用在從 ConceptNet 的語言特定部分中提取的資料上微調的語言特定適配器，旨在讓知識轉移到知識圖形涵蓋的語言中。我們比較了各種微調目標，包括標準的遮罩語言模型 (MLM)、具有全詞遮罩的 MLM，以及具有目標遮罩的 MLM，以分析它們在學習和整合提取的圖形資料中的有效性。透過對語言特定任務的實證評估，我們評估結構化圖形知識如何影響多語言 LLM 在 LRL 中的 SA 和 NER 效能，並深入了解為低資源場景調整語言模型的潛在好處。
 
 ##### **SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**
-2407.01245v1 by Lingyue Fu, Hao Guan, Kounianhua Du, Jianghao Lin, Wei Xia, Weinan Zhang, Ruiming Tang, Yasheng Wang, Yong Yu
+2407.01245v2 by Lingyue Fu, Hao Guan, Kounianhua Du, Jianghao Lin, Wei Xia, Weinan Zhang, Ruiming Tang, Yasheng Wang, Yong Yu
 
 Knowledge Tracing (KT) aims to determine whether students will respond
 correctly to the next question, which is a crucial task in intelligent tutoring
@@ -1548,7 +1548,7 @@ performance among 12 existing transductive KT models. Additionally, we explore
 the performance of SINKT on the inductive KT task and provide insights into
 various modules.
 
-摘要：知識追蹤 (KT) 旨在判斷學生是否會正確回答下一個問題，這在智慧型教學系統 (ITS) 中是一項至關重要的任務。在教育 KT 場景中，基於轉導 ID 的方法通常會面臨嚴重的資料稀疏性和冷啟動問題，其中個別學生與問題之間的互動很稀少，而且新的問題和概念會持續出現在資料庫中。此外，現有的 KT 模型僅隱含地考慮概念和問題之間的關聯性，缺乏對概念和問題異質圖中更複雜關係的直接建模。在本文中，我們提出了一個具有大型語言模型的結構感知歸納知識追蹤模型 (稱為 SINKT)，該模型首次引入了大型語言模型 (LLM) 並實現了歸納知識追蹤。首先，SINKT 利用 LLM 來引入概念之間的結構關係，並為概念和問題構建一個異質圖。其次，透過使用 LLM 編碼概念和問題，SINKT 納入了語義資訊以協助預測。最後，SINKT 透過與學生的知識狀態和問題表示進行互動來預測學生對目標問題的回應。在四個真實世界資料集上的實驗表明，SINKT 在 12 個現有轉導 KT 模型中達到了最先進的效能。此外，我們探討了 SINKT 在歸納 KT 任務中的效能，並深入了解各種模組。
+摘要：知識追蹤 (KT) 的目的是確定學生是否能正確回答下一個問題，這在智慧型教學系統 (ITS) 中是一項至關重要的任務。在教育 KT 場景中，基於 ID 的轉導方法經常面臨嚴重的資料稀疏性和冷啟動問題，其中個別學生和問題之間的互動很稀疏，而且新的問題和概念會持續出現在資料庫中。此外，現有的 KT 模型只會隱含地考慮概念和問題之間的關聯性，缺乏對概念和問題異質圖中更複雜關係的直接建模。在本文中，我們提出了一個具有大型語言模型的結構感知歸納知識追蹤模型（稱為 SINKT），它首次引入了大型語言模型（LLM），並實現了歸納知識追蹤。首先，SINKT 利用 LLM 引入概念之間的結構關係，並為概念和問題構建了一個異質圖。其次，透過使用 LLM 編碼概念和問題，SINKT 結合了語義資訊，以協助預測。最後，SINKT 透過與學生的知識狀態和問題表徵進行互動，預測學生對目標問題的回應。在四個真實世界資料集上的實驗表明，SINKT 在 12 個現有的轉導 KT 模型中取得了最先進的效能。此外，我們探討了 SINKT 在歸納 KT 任務上的效能，並提供了對各種模組的見解。
 
 ##### **Revisiting Random Walks for Learning on Graphs**
 2407.01214v1 by Jinwoo Kim, Olga Zaghen, Ayhan Suleymanzade, Youngmin Ryou, Seunghoon Hong

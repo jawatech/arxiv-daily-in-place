@@ -68,7 +68,7 @@
 |**2024-07-22**|**Decoding BACnet Packets: A Large Language Model Approach for Packet Interpretation**|Rashi Sharma et.al.|[2407.15428v1](http://arxiv.org/abs/2407.15428v1)|null|
 |**2024-07-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al.|[2407.15427v1](http://arxiv.org/abs/2407.15427v1)|null|
 |**2024-07-22**|**Empirical Capacity Model for Self-Attention Neural Networks**|Aki Härmä et.al.|[2407.15425v1](http://arxiv.org/abs/2407.15425v1)|null|
-|**2024-07-22**|**Integrating IP Broadcasting with Audio Tags- Workflow and Challenges**|Rhys Burchett-Vass et.al.|[2407.15423v1](http://arxiv.org/abs/2407.15423v1)|null|
+|**2024-07-22**|**Integrating IP Broadcasting with Audio Tags: Workflow and Challenges**|Rhys Burchett-Vass et.al.|[2407.15423v2](http://arxiv.org/abs/2407.15423v2)|null|
 |**2024-07-22**|**Planning behavior in a recurrent neural network that plays Sokoban**|Adrià Garriga-Alonso et.al.|[2407.15421v1](http://arxiv.org/abs/2407.15421v1)|[link](https://github.com/alignmentresearch/train-learned-planner)|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|[link](https://github.com/openaudiolab/llast)|
 |**2024-07-22**|**Knowledge Mechanisms in Large Language Models: A Survey and Perspective**|Mengru Wang et.al.|[2407.15017v1](http://arxiv.org/abs/2407.15017v1)|null|
@@ -86,7 +86,7 @@
 |**2024-07-22**|**X-Recon: Learning-based Patient-specific High-Resolution CT Reconstruction from Orthogonal X-Ray Images**|Yunpeng Wang et.al.|[2407.15356v1](http://arxiv.org/abs/2407.15356v1)|[link](https://github.com/wangyunpengbio/x-recon)|
 |**2024-07-22**|**Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA**|Yuan Pu et.al.|[2407.15353v1](http://arxiv.org/abs/2407.15353v1)|null|
 |**2024-07-22**|**MAVEN-Fact: A Large-scale Event Factuality Detection Dataset**|Chunyang Li et.al.|[2407.15352v1](http://arxiv.org/abs/2407.15352v1)|[link](https://github.com/lcy2723/maven-fact)|
-|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v1](http://arxiv.org/abs/2407.15351v1)|null|
+|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
 |**2024-07-22**|**Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models**|Wenbin An et.al.|[2407.15346v1](http://arxiv.org/abs/2407.15346v1)|null|
 |**2024-07-22**|**Improving Minimum Bayes Risk Decoding with Multi-Prompt**|David Heineman et.al.|[2407.15343v1](http://arxiv.org/abs/2407.15343v1)|null|
 |**2024-07-22**|**ZZU-NLP at SIGHAN-2024 dimABSA Task: Aspect-Based Sentiment Analysis with Coarse-to-Fine In-context Learning**|Senbin Zhu et.al.|[2407.15341v1](http://arxiv.org/abs/2407.15341v1)|null|
@@ -1701,8 +1701,8 @@ target memorization capability of the task can be defined.
 
 摘要：大型預先訓練的自我注意力神經網路，或Transformer，最近在各種任務上都非常成功。模型在特定任務上的效能取決於其記憶和概括訓練資料的能力。理論上，可能有數十億個參數的大型Transformer模型具有巨大的記憶內容容量。然而，目前用於最佳化的演算法未達到理論容量，而且容量也高度依賴於內容。在本文中，我們專注於使用常見訓練演算法和合成訓練資料取得的這些模型的記憶容量。根據結果，我們為通用Transformer衍生出一個經驗容量模型 (ECM)。在可以定義任務的目標記憶能力的情況下，ECM 可用於設計具有最佳參數數量的特定任務Transformer模型。
 
-##### **Integrating IP Broadcasting with Audio Tags- Workflow and Challenges**
-2407.15423v1 by Rhys Burchett-Vass, Arshdeep Singh, Gabriel Bibbó, Mark D. Plumbley
+##### **Integrating IP Broadcasting with Audio Tags: Workflow and Challenges**
+2407.15423v2 by Rhys Burchett-Vass, Arshdeep Singh, Gabriel Bibbó, Mark D. Plumbley
 
 The broadcasting industry is increasingly adopting IP techniques,
 revolutionising both live and pre-recorded content production, from news
@@ -1722,7 +1722,8 @@ sizes, from small productions to large corporations. Challenges surrounding
 latency of the selected audio tagging model and its effect on the usefulness of
 the end product are discussed.
 
-摘要：廣播產業越來越廣泛地採用 IP 技術，從新聞收集到現場音樂活動，徹底革新現場和預錄內容製作。IP 廣播允許以容易設定的方式傳輸音訊和視訊訊號，與現代網路技術相符。這種轉變為 IP 工作流程帶來更大的彈性，不只在訊號路由方面，還能整合使用標準網路開發技術的工具。其中一種可能的工具就是現場音訊標籤，在內容製作中有多種用途。這些用途包括從自動化隱藏式字幕到辨識場景中的不必要音效事件。在本文中，我們將說明將音訊標籤模型容器化的過程，容器化成一個微服務，這是一個小型分離的程式碼模組，可以整合到許多不同的網路設定中。目標是開發一個模組化、容易取得且彈性的工具，能夠無縫部署到各種規模的廣播工作流程中，從小型製作到大型公司。本文也將討論所選音訊標籤模型的延遲問題及其對最終產品實用性的影響。
+摘要：廣播產業正逐漸採用 IP 技術，
+從新聞採集到現場音樂活動，徹底革新現場和預先錄製的內容製作。IP 廣播允許以輕鬆設定的方式傳輸音訊和視訊訊號，符合現代網路技術。這種轉向 IP 工作流程的改變允許更大的靈活性，不僅在路由訊號上，而且還能整合使用標準網路開發技術的工具。一種可能的工具可以包括使用現場音訊標記，這在內容製作中有多種用途。這些用途包括從自動化隱藏式字幕到識別場景中的不必要聲音事件。在本文中，我們描述了將音訊標記模型容器化的過程，變成一個微服務，一個可以整合到多種不同網路設定中的小型分離程式碼模組。目標是開發一個模組化、易於存取且靈活的工具，能夠無縫部署到各種規模的廣播工作流程中，從小型製作到大型企業。討論了與所選音訊標記模型的延遲及其對最終產品實用性的影響相關的挑戰。
 
 ##### **Planning behavior in a recurrent neural network that plays Sokoban**
 2407.15421v1 by Adrià Garriga-Alonso, Mohammad Taufeeque, Adam Gleave
@@ -2133,7 +2134,7 @@ hallucination in LLMs. Our dataset and codes can be obtained from
 摘要：事件真實性偵測 (EFD) 任務是判斷文字事件的真實性，亦即將事件分類為事實、可能性或不可能，這對於忠實理解和利用事件知識至關重要。然而，由於缺乏高品質的大規模資料，事件真實性偵測在事件理解研究中並未獲得充分探索，這限制了 EFD 社群的發展。為了解決這些問題並提供忠實的事件理解，我們引入了 MAVEN-Fact，這是一個基於 MAVEN 資料集的大規模高品質 EFD 資料集。MAVEN-Fact 包含 112,276 個事件的真實性註解，使其成為最大的 EFD 資料集。廣泛的實驗表明，MAVEN-Fact 對傳統微調模型和大型語言模型 (LLM) 來說都是具有挑戰性的。由於 MAVEN 中事件論元和關係的全面註解，MAVEN-Fact 也支援一些進一步的分析，我們發現採用事件論元和關係有助於微調模型的事件真實性偵測，但對 LLM 沒有幫助。此外，我們初步研究了事件真實性偵測的一個應用案例，發現它有助於減輕 LLM 中與事件相關的幻覺。我們的資料集和程式碼可從 \url{https://github.com/lcy2723/MAVEN-FACT} 取得
 
 ##### **LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**
-2407.15351v1 by Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei
+2407.15351v2 by Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei
 
 Recent studies seek to provide Graph Neural Network (GNN) interpretability
 via multiple unsupervised learning models. Due to the scarcity of datasets,
@@ -2148,7 +2149,7 @@ as a Bayesian inference to improve the performance of existing algorithms; 2.
 We are the first to discuss the learning bias issues in the GNN explanation
 problem.
 
-摘要：最近的研究旨在通过多种无监督学习模型提供图神经网络 (GNN) 可解释性。由于数据集的稀缺性，当前方法很容易受到学习偏差的影响。为了解决这个问题，我们将大语言模型 (LLM) 作为知识嵌入到 GNN 解释网络中，以避免学习偏差问题。我们注入 LLM 作为贝叶斯推理 (BI) 模块来减轻学习偏差。BI 模块的有效性已在理论上和实验上得到证明。我们在合成数据集和真实世界数据集上进行实验。我们工作的创新之处在于两部分：1. 我们提供了 LLM 作为贝叶斯推理以提高现有算法性能的可能性的新观点；2. 我们是第一个讨论 GNN 解释问题中的学习偏差问题的人。
+摘要：近期研究試圖透過多種非監督式學習模型來提供圖神經網路 (GNN) 的可解釋性。由於資料集的稀少，目前的演算法容易受到學習偏差的影響。為了解決這個問題，我們將大型語言模型 (LLM) 作為知識嵌入到 GNN 解釋網路中，以避免學習偏差的問題。我們將 LLM 作為貝氏推論 (BI) 模組注入，以減輕學習偏差。BI 模組的效能已在理論上和實驗上得到證實。我們在合成和真實世界資料集上進行實驗。我們工作的創新之處在於兩部分：1. 我們提供 LLM 作為貝氏推論以改善現有演算法效能的可能性之新觀點；2. 我們率先討論 GNN 解釋問題中的學習偏差問題。
 
 ##### **Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models**
 2407.15346v1 by Wenbin An, Feng Tian, Jiahao Nie, Wenkai Shi, Haonan Lin, Yan Chen, QianYing Wang, Yaqiang Wu, Guang Dai, Ping Chen

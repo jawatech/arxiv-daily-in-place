@@ -21,12 +21,12 @@
 |**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
 |**2024-07-23**|**TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**|Eunseop Yoon et.al.|[2407.16574v1](http://arxiv.org/abs/2407.16574v1)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565v1](http://arxiv.org/abs/2407.16565v1)|null|
-|**2024-07-23**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564v1](http://arxiv.org/abs/2407.16564v1)|[link](https://github.com/fundwotsai2001/ap-adapter)|
+|**2024-07-23**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564v2](http://arxiv.org/abs/2407.16564v2)|[link](https://github.com/fundwotsai2001/ap-adapter)|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v1](http://arxiv.org/abs/2407.16557v1)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537v1](http://arxiv.org/abs/2407.16537v1)|null|
 |**2024-07-23**|**HAPFI: History-Aware Planning based on Fused Information**|Sujin Jeon et.al.|[2407.16533v1](http://arxiv.org/abs/2407.16533v1)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521v1](http://arxiv.org/abs/2407.16521v1)|null|
+|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521v2](http://arxiv.org/abs/2407.16521v2)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516v1](http://arxiv.org/abs/2407.16516v1)|null|
 |**2024-07-23**|**Is 3D Convolution with 5D Tensors Really Necessary for Video Analysis?**|Habib Hajimolahoseini et.al.|[2407.16514v1](http://arxiv.org/abs/2407.16514v1)|null|
 |**2024-07-23**|**Articulation Work and Tinkering for Fairness in Machine Learning**|Miriam Fahimi et.al.|[2407.16496v1](http://arxiv.org/abs/2407.16496v1)|null|
@@ -43,11 +43,11 @@
 |**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370v1](http://arxiv.org/abs/2407.16370v1)|null|
 |**2024-07-23**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357v1](http://arxiv.org/abs/2407.16357v1)|null|
 |**2024-07-23**|**FACTTRACK: Time-Aware World State Tracking in Story Outlines**|Zhiheng Lyu et.al.|[2407.16347v1](http://arxiv.org/abs/2407.16347v1)|null|
-|**2024-07-23**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344v1](http://arxiv.org/abs/2407.16344v1)|[link](https://github.com/wenbohuang1002/soap)|
+|**2024-07-23**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344v2](http://arxiv.org/abs/2407.16344v2)|[link](https://github.com/wenbohuang1002/soap)|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318v1](http://arxiv.org/abs/2407.16318v1)|[link](https://github.com/dynamofl/primeguard)|
 |**2024-07-23**|**Quantum Computing for Climate Resilience and Sustainability Challenges**|Kin Tung Michael Ho et.al.|[2407.16296v1](http://arxiv.org/abs/2407.16296v1)|null|
-|**2024-07-23**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292v1](http://arxiv.org/abs/2407.16292v1)|null|
+|**2024-07-23**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292v2](http://arxiv.org/abs/2407.16292v2)|null|
 |**2024-07-23**|**Federated Learning for Face Recognition via Intra-subject Self-supervised Learning**|Hansol Kim et.al.|[2407.16289v1](http://arxiv.org/abs/2407.16289v1)|null|
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286v1](http://arxiv.org/abs/2407.16286v1)|[link](https://github.com/shoaibahmed/llm_depth_pruning)|
 |**2024-07-23**|**Efficient Detection of Commutative Factors in Factor Graphs**|Malte Luttermann et.al.|[2407.16280v1](http://arxiv.org/abs/2407.16280v1)|[link](https://github.com/StatisticalRelationalAI/DECOR)|
@@ -66,7 +66,7 @@
 |**2024-07-23**|**MCTS Based Dispatch of Autonomous Vehicles under Operational Constraints for Continuous Transportation**|Milan Tomy et.al.|[2407.16200v1](http://arxiv.org/abs/2407.16200v1)|null|
 |**2024-07-23**|**INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model**|Yiwei Ma et.al.|[2407.16198v1](http://arxiv.org/abs/2407.16198v1)|[link](https://github.com/weihuanglin/inf-llava)|
 |**2024-07-23**|**How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval**|Fengran Mo et.al.|[2407.16192v1](http://arxiv.org/abs/2407.16192v1)|null|
-|**2024-07-23**|**Artificial Agency and Large Language Models**|Maud Van Lier et.al.|[2407.16190v1](http://arxiv.org/abs/2407.16190v1)|null|
+|**2024-07-23**|**Artificial Agency and Large Language Models**|Maud van Lier et.al.|[2407.16190v2](http://arxiv.org/abs/2407.16190v2)|null|
 |**2024-07-23**|**Structural Optimization Ambiguity and Simplicity Bias in Unsupervised Neural Grammar Induction**|Jinwook Park et.al.|[2407.16181v1](http://arxiv.org/abs/2407.16181v1)|null|
 |**2024-07-23**|**Pixel Embedding: Fully Quantized Convolutional Neural Network with Differentiable Lookup Table**|Hiroyuki Tokunaga et.al.|[2407.16174v1](http://arxiv.org/abs/2407.16174v1)|null|
 |**2024-07-23**|**Learning Trimodal Relation for AVQA with Missing Modality**|Kyu Ri Park et.al.|[2407.16171v1](http://arxiv.org/abs/2407.16171v1)|[link](https://github.com/visualaikhu/missing-avqa)|
@@ -96,7 +96,7 @@
 |**2024-07-22**|**Multimodal Input Aids a Bayesian Model of Phonetic Learning**|Sophia Zhi et.al.|[2407.15992v1](http://arxiv.org/abs/2407.15992v1)|null|
 |**2024-07-22**|**AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models**|Florian Felice et.al.|[2407.15987v1](http://arxiv.org/abs/2407.15987v1)|null|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975v1](http://arxiv.org/abs/2407.15975v1)|null|
-|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847v1](http://arxiv.org/abs/2407.15847v1)|null|
+|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847v2](http://arxiv.org/abs/2407.15847v2)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845v1](http://arxiv.org/abs/2407.15845v1)|null|
 |**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843v1](http://arxiv.org/abs/2407.15843v1)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
@@ -546,7 +546,7 @@ of external knowledge base for medical paraphrase generation in French.
 摘要：大型語言模型（LLM）最近對一般民眾的可用性激增，可能會導致無法追蹤這些模型用於與醫療相關的建議。透過 LLM 模型產生的語言有兩個主要問題：首先，它們容易產生幻覺，因此，對於任何醫療目的，它們都需要科學和事實依據；其次，由於 LLM 龐大的模型規模，對運算資源造成極大的挑戰。在這項工作中，我們介紹了 pRAGe，一個用於檢索擴充產生和使用小型語言模型（SLM）評估醫療釋義產生的管道。我們研究了 SLM 的有效性以及外部知識庫對法語醫療釋義產生的影響。
 
 ##### **Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**
-2407.16564v1 by Fang-Duo Tsai, Shih-Lun Wu, Haven Kim, Bo-Yu Chen, Hao-Chung Cheng, Yi-Hsuan Yang
+2407.16564v2 by Fang-Duo Tsai, Shih-Lun Wu, Haven Kim, Bo-Yu Chen, Hao-Chung Cheng, Yi-Hsuan Yang
 
 Text-to-music models allow users to generate nearly realistic musical audio
 with textual commands. However, editing music audios remains challenging due to
@@ -564,7 +564,7 @@ transfer, and accompaniment generation. Additionally, we demonstrate its
 effectiveness on out-of-domain audios containing unseen instruments during
 training.
 
-摘要：文字轉音樂模型允許使用者使用文字指令產生近乎真實的音樂音訊。然而，編輯音樂音訊仍然具有挑戰性，因為在音訊上進行細微的變更與維持簡單的使用者介面之間存在衝突的期望。為了應對這個挑戰，我們提出音訊提示適配器（或 AP-Adapter），這是預先訓練好的文字轉音樂模型的輕量級附加功能。我們利用 AudioMAE 從輸入音訊中萃取特徵，並建構基於注意力的適配器，將這些特徵輸入到基於擴散的文字轉音樂模型 AudioLDM2 的內部層級。AP-Adapter 擁有 22M 個可訓練參數，讓使用者能夠利用原始音訊和簡短文字作為輸入，同時運用音樂的全局（例如，類型和音色）和局部（例如，旋律）面向。透過客觀和主觀研究，我們在三個任務上評估 AP-Adapter：音色轉移、類型轉移和伴奏產生。此外，我們展示了它在訓練期間包含未見樂器的領域外音訊上的有效性。
+摘要：文字轉音樂模型讓使用者能用文字指令產生近乎真實的音樂音訊。然而，編輯音樂音訊仍然具有挑戰性，因為在維持簡單使用者介面的同時，還要對音訊進行細微調整。為了應對這個挑戰，我們提出了音訊提示適配器（或 AP-Adapter），一個適用於預訓練文字轉音樂模型的輕量級附加功能。我們利用 AudioMAE 從輸入音訊中萃取特徵，並建構基於注意力的適配器，將這些特徵輸入到基於擴散的文字轉音樂模型 AudioLDM2 的內部層級。AP-Adapter 有 22M 個可訓練參數，讓使用者能利用原始音訊和簡短文字作為輸入，運用音樂的全局（例如類型和音色）和局部（例如旋律）面向。透過客觀和主觀研究，我們在三個任務上評估 AP-Adapter：音色轉移、類型轉移和伴奏產生。此外，我們展示了它在訓練期間包含未見樂器的領域外音訊上的有效性。
 
 ##### **Patched RTC: evaluating LLMs for diverse software development tasks**
 2407.16557v1 by Asankhaya Sharma
@@ -655,28 +655,27 @@ characterize our approach.
 摘要：視覺語言模型 (VLM) 在視覺問答和影像標題說明中展現令人印象深刻的能力，扮演視覺與語言模型之間的關鍵連結。然而，現有的開放原始碼 VLM 嚴重依賴預先訓練且凍結的視覺編碼器 (例如 CLIP)。儘管 CLIP 在各種領域中展現穩健性，但仍會出現不可忽略的影像理解錯誤。這些錯誤會傳播到 VLM 回應中，導致次佳效能。在我們的研究中，我們提出一個有效且穩健的方法，用於更新 VLM 中的視覺編碼器。我們的做法選擇性且局部地更新編碼器，讓先前發生錯誤的資料大幅提升效能，同時維持整體的穩健性。此外，我們在持續少次學習更新期間，展現我們方法的有效性。理論基礎、通用性和運算效率是我們方法的特徵。
 
 ##### **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**
-2407.16521v1 by Yizhou Chi, Lingjun Mao, Zineng Tang
+2407.16521v2 by Yizhou Chi, Lingjun Mao, Zineng Tang
 
 Strategic social deduction games serve as valuable testbeds for evaluating
 the understanding and inference skills of language models, offering crucial
 insights into social science, artificial intelligence, and strategic gaming.
 This paper focuses on creating proxies of human behavior in simulated
-environments, with \textit{Among Us} utilized as a tool for studying simulated
-human behavior.
-  The study introduces a text-based game environment, named AmongAgent, that
-mirrors the dynamics of \textit{Among Us}. Players act as crew members aboard a
-spaceship, tasked with identifying impostors who are sabotaging the ship and
-eliminating the crew. Within this environment, the behavior of simulated
-language agents is analyzed. The experiments involve diverse game sequences
-featuring different configurations of Crewmates and Impostor personality
-archetypes. Our work demonstrates that state-of-the-art large language models
-(LLMs) can effectively grasp the game rules and make decisions based on the
-current context. This work aims to promote further exploration of LLMs in
-goal-oriented games with incomplete information and complex action spaces, as
-these settings offer valuable opportunities to assess language model
+environments, with Among Us utilized as a tool for studying simulated human
+behavior. The study introduces a text-based game environment, named
+AmongAgents, that mirrors the dynamics of Among Us. Players act as crew members
+aboard a spaceship, tasked with identifying impostors who are sabotaging the
+ship and eliminating the crew. Within this environment, the behavior of
+simulated language agents is analyzed. The experiments involve diverse game
+sequences featuring different configurations of Crewmates and Impostor
+personality archetypes. Our work demonstrates that state-of-the-art large
+language models (LLMs) can effectively grasp the game rules and make decisions
+based on the current context. This work aims to promote further exploration of
+LLMs in goal-oriented games with incomplete information and complex action
+spaces, as these settings offer valuable opportunities to assess language model
 performance in socially driven scenarios.
 
-摘要：策略性社交推理遊戲可作為評估語言模型理解和推理技能的寶貴測試平台，提供對社會科學、人工智慧和策略遊戲的重要見解。本文重點在於在模擬環境中建立人類行為的代理，並以《Among Us》作為研究模擬人類行為的工具。本研究引入一個名為 AmongAgent 的文字遊戲環境，它反映了《Among Us》的動態。玩家扮演太空船上的船員，任務是找出破壞船隻並消滅船員的冒名頂替者。在這個環境中，分析模擬語言代理的行為。實驗涉及不同的遊戲序列，其中包含船員和冒名頂替者人格原型的不同配置。我們的研究表明，最先進的大型語言模型 (LLM) 可以有效掌握遊戲規則，並根據當前背景做出決策。這項工作旨在促進進一步探索 LLM 在具有不完整資訊和複雜動作空間的目標導向遊戲中的應用，因為這些設定提供了在社會驅動情境中評估語言模型效能的寶貴機會。
+摘要：策略性社交推理遊戲可作為評估語言模型理解和推理技能的寶貴測試平台，提供對社會科學、人工智慧和策略遊戲的重要見解。本文重點在於在模擬環境中建立人類行為代理，並利用 Among Us 作為研究模擬人類行為的工具。本研究引入了基於文字的遊戲環境，稱為 AmongAgents，它反映了 Among Us 的動態。玩家在太空船上扮演船員，負責找出破壞船隻並殺害船員的冒名頂替者。在這個環境中，分析了模擬語言代理的行為。實驗涉及不同的遊戲序列，其中包含船員和冒名頂替者人格原型不同的配置。我們的研究表明，最先進的大語言模型 (LLM) 可以有效掌握遊戲規則，並根據當前背景做出決策。這項工作旨在促進進一步探索 LLM 在具有不完整資訊和複雜動作空間的目標導向遊戲中的應用，因為這些設定提供了有價值的機會來評估語言模型在社會驅動場景中的表現。
 
 ##### **Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**
 2407.16516v1 by Julian Schelb, Roberto Ulloa, Andreas Spitz
@@ -1044,7 +1043,7 @@ baseline.
 摘要：随着语言模型输出中事实矛盾的准确检测和纠正变得越来越重要，执行此操作极具挑战性。我们提出了一种新方法 FACTTRACK，用于跟踪原子事实并解决事实矛盾。至关重要的是，FACTTRACK 还为每个事实维护时间感知的有效性间隔，从而允许随着时间的推移而发生变化。在高层次上，FACTTRACK 由一个四步管道组成，用于为每个新事件更新世界状态数据结构：(1) 将事件分解为方向原子事实；(2) 使用世界状态确定每个原子事实的有效性间隔；(3) 检测与世界状态中现有事实的矛盾；最后 (4) 将新事实添加到世界状态并更新现有的原子事实。当我们将 FACTTRACK 应用于结构化故事大纲中的矛盾检测时，我们发现使用 LLaMA2-7B-Chat 的 FACTTRACK 明显优于使用 LLaMA2-7B-Chat 的公平基线，并且实现了与 GPT4 基线相当的性能。此外，在使用 GPT4 时，FACTTRACK 明显优于 GPT4 基线。
 
 ##### **SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**
-2407.16344v1 by Wenbo Huang, Jinghui Zhang, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
+2407.16344v2 by Wenbo Huang, Jinghui Zhang, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
 
 High frame-rate (HFR) videos of action recognition improve fine-grained
 expression while reducing the spatio-temporal relation and motion information
@@ -1069,7 +1068,7 @@ and HMDB51. Extensive empirical evaluations underscore the competitiveness,
 pluggability, generalization, and robustness of SOAP. The code is released at
 https://github.com/wenbohuang1002/SOAP.
 
-摘要：高帧率 (HFR) 动作识别影片改善了细微表情，同时降低了时空关系和动作信息密度。因此，传统数据驱动训练持续需要大量的影片样本。然而，在实际场景中，样本并不总是足够，促进了少样本动作识别 (FSAR) 研究。我们观察到，最近的大多数 FSAR 工作在空间特征提取后通过时间对齐建立影片样本的时空关系，切分样本内的空间和时间特征。它们还通过相邻帧之间的狭窄视角捕捉动作信息，而不考虑密度，导致动作信息捕捉不足。因此，我们在本文中提出了一种用于 FSAR 的新型即插即用架构，称为时空帧元组增强器 (SOAP)。我们使用这种架构设计的模型称为 SOAP-Net。它考虑了不同特征通道之间的临时连接和特征的时空关系，而不是简单的特征提取。它还使用包含比相邻帧更多动作信息的多个帧的帧元组捕获全面的动作信息。进一步组合不同帧数的帧元组提供了更广阔的视角。SOAP-Net 在 SthSthV2、Kinetics、UCF101 和 HMDB51 等知名基准测试中取得了新的最先进性能。广泛的实证评估突出了 SOAP 的竞争力、可插拔性、泛化性和鲁棒性。代码已在 https://github.com/wenbohuang1002/SOAP 发布。
+摘要：高帧率 (HFR) 动作识别视频改善了精细的表达，同时减少了时空关系和运动信息密度。因此，传统数据驱动的训练持续需要大量的视频样本。然而，在现实世界场景中，样本并不总是足够，促进了少样本动作识别 (FSAR) 研究。我们观察到，最近的大多数 FSAR 工作在空间特征提取后通过时间对齐构建视频样本的时空关系，将样本内的空间和时间特征分开。它们还通过相邻帧之间的窄视角捕获运动信息，而不考虑密度，导致运动信息捕获不足。因此，我们在本文中提出了一个用于 FSAR 的新颖即插即用架构，称为时空帧元组增强器 (SOAP)。我们使用这种架构设计的模型称为 SOAP-Net。它考虑了不同特征通道之间的临时连接和特征的时空关系，而不是简单的特征提取。还捕获了全面的运动信息，使用包含比相邻帧更多运动信息的多个帧的帧元组。进一步组合不同帧数的帧元组提供了更广阔的视角。SOAP-Net 在 SthSthV2、Kinetics、UCF101 和 HMDB51 等知名基准测试中实现了新的最先进性能。广泛的经验评估强调了 SOAP 的竞争力、可插拔性、通用性和鲁棒性。代码已在 https://github.com/wenbohuang1002/SOAP 发布。
 
 ##### **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**
 2407.16329v1 by Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo
@@ -1161,7 +1160,7 @@ resilience and sustainable development.
 摘要：氣候變遷影響日益升高，加上永續發展與自然資源管理需求日增，使得創新的科技解決方案勢在必行。量子運算 (QC) 已成為一項充滿希望的工具，有潛力革新這些關鍵領域。本篇評論探討量子機器學習和最佳化技術在氣候變遷預測和加強永續發展中的應用。傳統的計算方法通常無法處理氣候模型和自然資源管理的規模和複雜性。然而，量子技術的進步在計算效率和問題解決能力方面提供了顯著的提升。透過綜合最新的研究和發展，本文重點說明 QC 和量子機器學習如何最佳化多基礎架構系統以邁向氣候中立。本文也評估了當前量子演算法和硬體在實際應用中的效能，並提出實際案例，例如厭氧消化中的廢棄物轉能、洪水預測中的災害預防，以及碳捕捉的新材料開發。整合這些量子技術有望推動氣候復原力和永續發展的重大進展。
 
 ##### **Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**
-2407.16292v1 by Maciej Wodziński, Marcin Rządeczka, Anastazja Szuła, Marta Sokół, Marcin Moskalewicz
+2407.16292v2 by Maciej Wodziński, Marcin Rządeczka, Anastazja Szuła, Marta Sokół, Marcin Moskalewicz
 
 Avoiding systemic discrimination requires investigating AI models' potential
 to propagate stereotypes resulting from the inherent biases of training
@@ -1186,7 +1185,21 @@ cognitive architecture regarding the discrepancy between background and
 reflective knowledge, as justified by our previous research on autism-related
 stereotypes in humans.
 
-摘要：避免系統性歧視需要調查 AI 模型潛在的風險，以宣傳由訓練資料集的內在偏差所產生的刻板印象。我們的研究調查了文字轉圖像模型如何無意間延續了關於自閉症的非理性信念。研究協定包括根據 53 個提示產生圖像，旨在視覺化具體物體和與自閉症相關的抽象概念，涉及四個模型：DALL-E、Stable Diffusion、SDXL 和 Midjourney (N=249)。結果的專家評估是透過一個包含 10 個演繹碼的架構進行，代表常見的刻板印象，這些刻板印象受到社群挑戰，質疑其存在和空間強度，在序數尺度上量化，並受制於評分者間信度和效應量統計分析。這些模型經常使用有爭議的主題和符號，但分佈不均，然而，在膚色、性別和年齡方面具有驚人的同質性，自閉症患者被描繪成從事單獨活動、與物體而非人互動，並表現出刻板的情緒表達，例如蒼白、憤怒或悲傷。其次，我們觀察到關於自閉症圖像的表徵麻木不仁，儘管有針對性的提示旨在證偽上述結果。此外，DALL-E 明確否認了延續刻板印象。我們將此解釋為 ANN 反映了人類認知架構，涉及背景和反思知識之間的差異，正如我們之前對人類自閉症相關刻板印象的研究所證明的。
+摘要：避免系統性歧視需要調查 AI 模型潛在的
+傳播刻板印象，這源於訓練
+資料集的內在偏見。我們的研究調查了文字轉圖像模型如何無意中
+持續對自閉症抱持不理性的信念。研究協定
+涉及根據 53 個提示生成圖像，旨在視覺化具體
+物件和與自閉症相關的抽象概念，橫跨四個模型：DALL-E、
+Stable Diffusion、SDXL 和 Midjourney（N=249）。專家對結果的評估
+透過 10 個演繹代碼的架構執行，代表社群質疑其存在和空間
+強度的一般刻板印象，在序數尺度上量化並受限於評分者間信度和
+效應量的統計分析。這些模型經常使用有爭議的主題和符號，但分佈不均，然而，在膚色、性別和年齡方面具有驚人的同質性，自閉症患者被描繪成從事單獨活動，與
+物件而非人互動，並表現出蒼白、憤怒或悲傷等刻板的情緒表現。其次，我們觀察到儘管方向提示旨在
+證偽上述結果，但自閉症圖像的表徵仍然不敏感。此外，DALL-E 明確否認
+持續的刻板印象。我們將此解釋為 ANN 反映人類
+認知架構，關於背景和反思知識之間的差異，正如我們之前關於人類自閉症相關
+刻板印象的研究所證明的。
 
 ##### **Federated Learning for Face Recognition via Intra-subject Self-supervised Learning**
 2407.16289v1 by Hansol Kim, Hoyeol Choi, Youngjun Kwak
@@ -1639,7 +1652,7 @@ provided.
 摘要：個人化對話式資訊檢索 (CIR) 結合對話式和個人化元素，透過基於使用者背景的多輪互動來滿足各種使用者的複雜資訊需求。其關鍵承諾是個人化文字知識庫 (PTKB) 能提升 CIR 的效果，因為檢索結果可以更貼近使用者的背景。然而，PTKB 存在雜訊：PTKB 中的每一則知識並不都與手邊的特定查詢相關。在本文中，我們探討並測試多種從 PTKB 中選取知識並使用它來重新表述查詢的方法，方法是使用大型語言模型 (LLM)。實驗結果顯示，PTKB 獨自使用時可能無法總是提升搜尋結果，但當提供高品質的引導時，LLM 能協助產生更適當的個人化查詢。
 
 ##### **Artificial Agency and Large Language Models**
-2407.16190v1 by Maud Van Lier, Gorka Muñoz-Gil
+2407.16190v2 by Maud van Lier, Gorka Muñoz-Gil
 
 The arrival of Large Language Models (LLMs) has stirred up philosophical
 debates about the possibility of realizing agency in an artificial manner. In
@@ -1657,7 +1670,7 @@ argues that a combination of the agent architecture presented in Park et al.
 end the paper by reflecting on the obstacles one might face in building such an
 artificial agent and by presenting possible directions for future research.
 
-摘要：大型語言模型 (LLM) 的出現激起了關於以人工方式實現能動性的可能性之哲學辯論。在這項工作中，我們透過提出一個理論模型來為辯論做出貢獻，該模型可用作人工代理的閾值概念。該模型將代理定義為其行為和目標始終受到由代理的可存取歷史、其適應性曲目及其外部環境組成的動態因素框架影響的系統。反過來，這個框架又受到代理採取的行動和它形成的目標的影響。我們在模型的幫助下表明，最先進的 LLM 還不是代理，但其中有一些元素暗示了一種前進的方式。本文認為，將 Park 等人提出的代理架構與 Boiko 等人中的 Coscientist 等模組結合使用，有可能以人工方式實現能動性。(2023) 可能是一種以人工方式實現能動性的方法。我們透過反思在構建這種人工代理時可能面臨的障礙，並提出未來研究的可能方向，來結束本文。
+摘要：大型語言模型 (LLM) 的出現引發了關於以人工方式實現代理的可能性之哲學辯論。在這項研究中，我們透過提出一個理論模型來為這場辯論做出貢獻，該模型可用作人工代理的門檻概念。該模型將代理定義為其動作和目標始終受到一個動態因素框架影響的系統，該框架由代理的可存取歷史、其適應性曲目和其外部環境組成。反過來，這個框架會受到代理採取的行動和形成的目標的影響。我們在模型的幫助下表明，最先進的 LLM 尚未成為代理，但其中有一些元素暗示著前進的方向。本文認為，將 Park 等人提出的代理架構與 Boiko 等人提出的 Coscientist 等模組結合使用，有可能以人工方式實現代理。(2023)。我們透過思考在建構這種人工代理時可能遇到的障礙，並提出未來研究的可能方向，來結束本文。
 
 ##### **Structural Optimization Ambiguity and Simplicity Bias in Unsupervised Neural Grammar Induction**
 2407.16181v1 by Jinwook Park, Kangil Kim
@@ -2357,7 +2370,7 @@ multilingual, fine-grained headline hallucination detection.
 摘要：隨著預訓練語言模型的進步，自動新聞標題生成的熱門程度大幅飆升。然而，這些模型常常會出現「幻覺」問題，也就是產生的標題並未獲得其原始文章的充分支持。解決此問題的努力主要集中在英語上，使用過於簡化的分類架構，忽視了細微的幻覺類型。在本研究中，我們引入了第一個多語言、細粒度的新聞標題幻覺偵測資料集，其中包含 5 種語言的 11,000 多個成對資料，每個資料都由專家加上詳細的幻覺類型註解。我們在兩種設定下對此資料集進行了廣泛的實驗。首先，我們實作了幾種監督式微調方法作為準備性解決方案，並展示了此資料集的挑戰和效用。其次，我們測試了各種大型語言模型的語境學習能力，並提出了兩種新技術，即語言依賴式示範選擇和粗到細提示，以提升少次學習幻覺偵測效能，以範例 F1 指標來衡量。我們釋出此資料集以促進多語言、細粒度標題幻覺偵測的後續研究。
 
 ##### **LLMmap: Fingerprinting For Large Language Models**
-2407.15847v1 by Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese
+2407.15847v2 by Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese
 
 We introduce LLMmap, a first-generation fingerprinting attack targeted at
 LLM-integrated applications. LLMmap employs an active fingerprinting approach,
@@ -2369,7 +2382,7 @@ layers, allowing it to identify LLMs operating under various system prompts,
 stochastic sampling hyperparameters, and even complex generation frameworks
 such as RAG or Chain-of-Thought.
 
-摘要：我們介紹 LLMmap，這是一種針對整合 LLM 的應用程式所進行的第一代指紋攻擊。LLMmap 採用主動式指紋辨識方法，將精心設計的查詢傳送至應用程式，並分析回應以識別所使用的特定 LLM 模型。透過僅 8 次互動，LLMmap 便能以超過 95% 的準確度準確識別 LLM。更重要的是，LLMmap 被設計為能夠在不同的應用程式層面中保持穩健性，這使其能夠識別在各種系統提示、隨機抽樣超參數，甚至是複雜生成架構（例如 RAG 或 Chain-of-Thought）下運作的 LLM。
+摘要：我們介紹 LLMmap，一種針對整合 LLM 應用程式的第一代指紋攻擊。LLMmap 採用主動指紋辨識方法，向應用程式發送精心設計的查詢，並分析回應以識別使用的特定 LLM 模型。LLMmap 只需 8 次互動，就能以超過 95% 的準確率準確識別 LLM。更重要的是，LLMmap 被設計為在不同的應用程式層面上具有強健性，使其能夠識別在各種系統提示、隨機抽樣超參數，甚至複雜的生成框架（例如 RAG 或思考鏈）下運作的 LLM。
 
 ##### **Reconstructing Training Data From Real World Models Trained with Transfer Learning**
 2407.15845v1 by Yakir Oz, Gilad Yehudai, Gal Vardi, Itai Antebi, Michal Irani, Niv Haim

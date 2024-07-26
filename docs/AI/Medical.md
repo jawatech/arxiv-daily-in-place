@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
+|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|null|
+|**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v1](http://arxiv.org/abs/2407.17879v1)|null|
+|**2024-07-25**|**EEG-SSM: Leveraging State-Space Model for Dementia Detection**|Xuan-The Tran et.al.|[2407.17801v1](http://arxiv.org/abs/2407.17801v1)|null|
+|**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
+|**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734v1](http://arxiv.org/abs/2407.17734v1)|[link](https://github.com/jlinekai/clover)|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
 |**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v1](http://arxiv.org/abs/2407.17164v1)|null|
@@ -96,14 +102,159 @@
 |**2024-07-11**|**Synthetic Electroretinogram Signal Generation Using Conditional Generative Adversarial Network for Enhancing Classification of Autism Spectrum Disorder**|Mikhail Kulyabin et.al.|[2407.08166v1](http://arxiv.org/abs/2407.08166v1)|null|
 |**2024-07-11**|**Highway Networks for Improved Surface Reconstruction: The Role of Residuals and Weight Updates**|A. Noorizadegan et.al.|[2407.08134v1](http://arxiv.org/abs/2407.08134v1)|[link](https://github.com/cmmai/resnet_for_pinn)|
 |**2024-07-10**|**Machine Learning for ALSFRS-R Score Prediction: Making Sense of the Sensor Data**|Ritesh Mehta et.al.|[2407.08003v1](http://arxiv.org/abs/2407.08003v1)|null|
-|**2024-07-10**|**The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing**|Alice Qian Zhang et.al.|[2407.07786v1](http://arxiv.org/abs/2407.07786v1)|null|
-|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
-|**2024-07-10**|**Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**|Chuanpu Li et.al.|[2407.07660v1](http://arxiv.org/abs/2407.07660v1)|null|
-|**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604v1](http://arxiv.org/abs/2407.07604v1)|[link](https://github.com/banksylel/h-fcbformer)|
-|**2024-07-10**|**FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes**|Rajat Kumar Jenamani et.al.|[2407.07561v1](http://arxiv.org/abs/2407.07561v1)|null|
-|**2024-07-10**|**Arabic Automatic Story Generation with Large Language Models**|Ahmed Oumar El-Shangiti et.al.|[2407.07551v1](http://arxiv.org/abs/2407.07551v1)|[link](https://github.com/ubc-nlp/arastories)|
 
 #### Abstracts
+##### **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**
+2407.18125v1 by Roberto Di Via, Francesca Odone, Vito Paolo Pastore
+
+In the last few years, deep neural networks have been extensively applied in
+the medical domain for different tasks, ranging from image classification and
+segmentation to landmark detection. However, the application of these
+technologies in the medical domain is often hindered by data scarcity, both in
+terms of available annotations and images. This study introduces a new
+self-supervised pre-training protocol based on diffusion models for landmark
+detection in x-ray images. Our results show that the proposed self-supervised
+framework can provide accurate landmark detection with a minimal number of
+available annotated training images (up to 50), outperforming ImageNet
+supervised pre-training and state-of-the-art self-supervised pre-trainings for
+three popular x-ray benchmark datasets. To our knowledge, this is the first
+exploration of diffusion models for self-supervised learning in landmark
+detection, which may offer a valuable pre-training approach in few-shot
+regimes, for mitigating data scarcity.
+
+摘要：在過去幾年中，深度神經網路已廣泛應用於醫療領域的不同任務，從影像分類和分割到地標偵測。然而，這些技術在醫療領域的應用常常受到資料稀少的阻礙，無論是在可用的註解或影像方面。本研究介紹了一個新的自監督預訓練協定，它是基於擴散模型，用於 X 光影像中的地標偵測。我們的結果顯示，所提出的自監督架構可以在最少數量的可用註解訓練影像（最多 50 個）下提供準確的地標偵測，優於 ImageNet 監督式預訓練以及三個熱門 X 光基準資料集的最新自監督式預訓練。據我們所知，這是首次探討擴散模型用於地標偵測中的自監督式學習，它可能在小樣本訓練模式中提供有價值的預訓練方法，以減輕資料稀少的問題。
+
+##### **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**
+2407.18105v1 by Jack Breen, Katie Allen, Kieran Zucker, Nicolas M. Orsi, Nishant Ravikumar
+
+Computer vision models are increasingly capable of classifying ovarian
+epithelial cancer subtypes, but they differ from pathologists by processing
+small tissue patches at a single resolution. Multi-resolution graph models
+leverage the spatial relationships of patches at multiple magnifications,
+learning the context for each patch. In this study, we conduct the most
+thorough validation of a graph model for ovarian cancer subtyping to date.
+Seven models were tuned and trained using five-fold cross-validation on a set
+of 1864 whole slide images (WSIs) from 434 patients treated at Leeds Teaching
+Hospitals NHS Trust. The cross-validation models were ensembled and evaluated
+using a balanced hold-out test set of 100 WSIs from 30 patients, and an
+external validation set of 80 WSIs from 80 patients in the Transcanadian Study.
+The best-performing model, a graph model using 10x+20x magnification data, gave
+balanced accuracies of 73%, 88%, and 99% in cross-validation, hold-out testing,
+and external validation, respectively. However, this only exceeded the
+performance of attention-based multiple instance learning in external
+validation, with a 93% balanced accuracy. Graph models benefitted greatly from
+using the UNI foundation model rather than an ImageNet-pretrained ResNet50 for
+feature extraction, with this having a much greater effect on performance than
+changing the subsequent classification approach. The accuracy of the combined
+foundation model and multi-resolution graph network offers a step towards the
+clinical applicability of these models, with a new highest-reported performance
+for this task, though further validations are still required to ensure the
+robustness and usability of the models.
+
+摘要：電腦視覺模型越來越能夠分類卵巢上皮癌的亞型，但它們與病理學家不同，它們以單一解析度處理小組織貼片。多解析度圖形模型利用多個放大倍率下貼片的空間關係，學習每個貼片的背景。在這項研究中，我們對圖形模型進行了迄今為止最徹底的卵巢癌亞型驗證。使用 434 名在利茲教學醫院 NHS 信託基金接受治療的患者的 1864 張全幻燈片影像 (WSI) 進行五倍交叉驗證，調整並訓練了七個模型。將交叉驗證模型集成並使用來自 30 名患者的 100 張 WSI 的平衡留出測試集和來自 Transcanadian 研究中 80 名患者的 80 張 WSI 的外部驗證集進行評估。表現最佳的模型，一個使用 10 倍+20 倍放大倍率資料的圖形模型，在交叉驗證、留出測試和外部驗證中分別給出 73%、88% 和 99% 的平衡準確度。然而，這僅超過了外部驗證中基於注意力的多實例學習的表現，平衡準確度為 93%。圖形模型從使用 UNI 基礎模型而不是 ImageNet 預訓練的 ResNet50 進行特徵提取中受益匪淺，與改變後續分類方法相比，這對效能有更大的影響。結合基礎模型和多解析度圖形網路的準確度為這些模型的臨床應用邁出了一步，對於這項任務來說，這是新的最高報告表現，儘管仍需要進一步的驗證來確保模型的穩健性和可用性。
+
+##### **HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**
+2407.17879v1 by Qingyu Guo, Jiayong Wan, Songqiang Xu, Meng Li, Yuan Wang
+
+Vision Transformer (ViT) acceleration with field programmable gate array
+(FPGA) is promising but challenging. Existing FPGA-based ViT accelerators
+mainly rely on temporal architectures, which process different operators by
+reusing the same hardware blocks and suffer from extensive memory access
+overhead. Pipelined architectures, either coarse-grained or fine-grained,
+unroll the ViT computation spatially for memory access efficiency. However,
+they usually suffer from significant hardware resource constraints and pipeline
+bubbles induced by the global computation dependency of ViT. In this paper, we
+introduce HG-PIPE, a pipelined FPGA accelerator for high-throughput and
+low-latency ViT processing. HG-PIPE features a hybrid-grained pipeline
+architecture to reduce on-chip buffer cost and couples the computation dataflow
+and parallelism design to eliminate the pipeline bubbles. HG-PIPE further
+introduces careful approximations to implement both linear and non-linear
+operators with abundant Lookup Tables (LUTs), thus alleviating resource
+constraints. On a ZCU102 FPGA, HG-PIPE achieves 2.78 times better throughput
+and 2.52 times better resource efficiency than the prior-art accelerators,
+e.g., AutoViTAcc. With a VCK190 FPGA, HG-PIPE realizes end-to-end ViT
+acceleration on a single device and achieves 7118 images/s, which is 2.81 times
+faster than a V100 GPU.
+
+摘要：視覺轉換器 (ViT) 與現場可編程閘陣列 (FPGA) 的加速很有前景，但也充滿挑戰。現有的基於 FPGA 的 ViT 加速器主要依賴於暫態架構，它透過重複使用相同的硬體區塊來處理不同的運算子，並承受大量的記憶體存取開銷。管線架構（無論是粗粒度或細粒度）在空間上展開 ViT 計算以提高記憶體存取效率。然而，它們通常會受到顯著的硬體資源限制和由 ViT 的全局計算依賴性所引發的管線氣泡。在本文中，我們介紹了 HG-PIPE，這是一種用於高通量和低延遲 ViT 處理的管線式 FPGA 加速器。HG-PIPE 採用混合粒度管線架構來降低晶片緩衝成本，並結合計算資料流和並行設計以消除管線氣泡。HG-PIPE 進一步引入了仔細的近似值，以使用豐富的查找表 (LUT) 來實作線性和非線性運算子，從而減輕資源限制。在 ZCU102 FPGA 上，HG-PIPE 的吞吐量比先進的加速器（例如 AutoViTAcc）高出 2.78 倍，資源效率高出 2.52 倍。使用 VCK190 FPGA，HG-PIPE 在單一裝置上實現端到端的 ViT 加速，並達到每秒 7118 張影像，比 V100 GPU 快 2.81 倍。
+
+##### **EEG-SSM: Leveraging State-Space Model for Dementia Detection**
+2407.17801v1 by Xuan-The Tran, Linh Le, Quoc Toan Nguyen, Thomas Do, Chin-Teng Lin
+
+State-space models (SSMs) have garnered attention for effectively processing
+long data sequences, reducing the need to segment time series into shorter
+intervals for model training and inference. Traditionally, SSMs capture only
+the temporal dynamics of time series data, omitting the equally critical
+spectral features. This study introduces EEG-SSM, a novel state-space
+model-based approach for dementia classification using EEG data. Our model
+features two primary innovations: EEG-SSM temporal and EEG-SSM spectral
+components. The temporal component is designed to efficiently process EEG
+sequences of varying lengths, while the spectral component enhances the model
+by integrating frequency-domain information from EEG signals. The synergy of
+these components allows EEG-SSM to adeptly manage the complexities of
+multivariate EEG data, significantly improving accuracy and stability across
+different temporal resolutions. Demonstrating a remarkable 91.0 percent
+accuracy in classifying Healthy Control (HC), Frontotemporal Dementia (FTD),
+and Alzheimer's Disease (AD) groups, EEG-SSM outperforms existing models on the
+same dataset. The development of EEG-SSM represents an improvement in the use
+of state-space models for screening dementia, offering more precise and
+cost-effective tools for clinical neuroscience.
+
+摘要：狀態空間模型 (SSM) 因有效處理長資料序列而備受關注，減少將時間序列區隔成較短區間以進行模型訓練和推論的需要。傳統上，SSM 只擷取時間序列資料的時間動態，省略同樣重要的頻譜特徵。本研究提出 EEG-SSM，一種新的基於狀態空間模型的方法，用於使用 EEG 資料進行失智症分類。我們的模型具有兩項主要的創新：EEG-SSM 時間和 EEG-SSM 頻譜組成部分。時間組成部分旨在有效率地處理長度不同的 EEG 序列，而頻譜組成部分透過整合 EEG 訊號的頻域資訊來增強模型。這些組成部分的協同作用讓 EEG-SSM 能靈活地管理多變量 EEG 資料的複雜性，大幅改善不同時間解析度下的準確性和穩定性。EEG-SSM 在分類健康對照組 (HC)、額顳葉型失智症 (FTD) 和阿茲海默症 (AD) 組別時展現出驚人的 91.0% 準確度，在相同的資料集上優於現有模型。EEG-SSM 的開發代表了使用狀態空間模型進行失智症篩檢的進步，為臨床神經科學提供更精確且更具成本效益的工具。
+
+##### **Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**
+2407.17762v1 by Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Prarththanan Sothyrajah, Thanveer Ahamed, Dinuka Wijesundara
+
+Rapid development of disease detection models using computer vision is
+crucial in responding to medical emergencies, such as epidemics or bioterrorism
+events. Traditional data collection methods are often too slow in these
+scenarios, requiring innovative approaches for quick, reliable model generation
+from minimal data. Our study introduces a novel approach by constructing a
+comprehensive computer vision model to detect Mpox lesions using only synthetic
+data. Initially, these models generated a diverse set of synthetic images
+representing Mpox lesions on various body parts (face, back, chest, leg, neck,
+arm) across different skin tones as defined by the Fitzpatrick scale (fair,
+brown, dark skin). Subsequently, we trained and tested a vision model with this
+synthetic dataset to evaluate the diffusion models' efficacy in producing
+high-quality training data and its impact on the vision model's medical image
+recognition performance. The results were promising; the vision model achieved
+a 97% accuracy rate, with 96% precision and recall for Mpox cases, and
+similarly high metrics for normal and other skin disorder cases, demonstrating
+its ability to correctly identify true positives and minimize false positives.
+The model achieved an F1-Score of 96% for Mpox cases and 98% for normal and
+other skin disorders, reflecting a balanced precision-recall relationship, thus
+ensuring reliability and robustness in its predictions. Our proposed
+SynthVision methodology indicates the potential to develop accurate computer
+vision models with minimal data input for future medical emergencies.
+
+摘要：<paragraph>利用電腦視覺快速開發疾病檢測模型對於因應醫療緊急事件（例如流行病或生物恐怖主義事件）至關重要。傳統的資料收集方法在這些情況下通常太慢，需要創新的方法才能從最少資料中快速、可靠地產生模型。我們的研究介紹了一種新穎的方法，透過建構一個全面的電腦視覺模型，僅使用合成資料來檢測猴痘病灶。最初，這些模型產生了一組多樣化的合成影像，代表了不同膚色（根據 Fitzpatrick 量表定義為白皙、棕色、深色皮膚）上不同身體部位（臉部、背部、胸部、腿部、頸部、手臂）的猴痘病灶。隨後，我們使用這個合成資料集訓練和測試一個視覺模型，以評估擴散模型產生高品質訓練資料的效能，以及其對視覺模型醫學影像辨識效能的影響。結果令人滿意；視覺模型達到了 97% 的準確率，猴痘病例的準確度和召回率為 96%，正常和其它皮膚疾病病例的指標也同樣高，證明了它正確辨識真陽性並將假陽性降至最低的能力。該模型在猴痘病例中達到了 96% 的 F1 分數，在正常和其它皮膚疾病中達到了 98%，反映出平衡的準確度召回率關係，從而確保其預測的可靠性和穩健性。我們提出的 SynthVision 方法表明，有可能為未來的醫療緊急事件開發出準確的電腦視覺模型，且資料輸入量最少。</paragraph>
+
+##### **Cost-effective Instruction Learning for Pathology Vision and Language Analysis**
+2407.17734v1 by Kaitao Chen, Mianxin Liu, Fang Yan, Lei Ma, Xiaoming Shi, Lilong Wang, Xiaosong Wang, Lifeng Zhu, Zhe Wang, Mu Zhou, Shaoting Zhang
+
+The advent of vision-language models fosters the interactive conversations
+between AI-enabled models and humans. Yet applying these models into clinics
+must deal with daunting challenges around large-scale training data, financial,
+and computational resources. Here we propose a cost-effective instruction
+learning framework for conversational pathology named as CLOVER. CLOVER only
+trains a lightweight module and uses instruction tuning while freezing the
+parameters of the large language model. Instead of using costly GPT-4, we
+propose well-designed prompts on GPT-3.5 for building generation-based
+instructions, emphasizing the utility of pathological knowledge derived from
+the Internet source. To augment the use of instructions, we construct a
+high-quality set of template-based instructions in the context of digital
+pathology. From two benchmark datasets, our findings reveal the strength of
+hybrid-form instructions in the visual question-answer in pathology. Extensive
+results show the cost-effectiveness of CLOVER in answering both open-ended and
+closed-ended questions, where CLOVER outperforms strong baselines that possess
+37 times more training parameters and use instruction data generated from
+GPT-4. Through the instruction tuning, CLOVER exhibits robustness of few-shot
+learning in the external clinical dataset. These findings demonstrate that
+cost-effective modeling of CLOVER could accelerate the adoption of rapid
+conversational applications in the landscape of digital pathology.
+
+摘要：視覺語言模型的出現促進了 AI 啟用模型與人類之間的互動對話。然而，將這些模型應用於臨床必須應對大規模訓練數據、財務和計算資源等嚴峻挑戰。在此，我們提出了一個名為 CLOVER 的經濟高效的會話病理學指令學習架構。CLOVER 僅訓練一個輕量級模組，並在凍結大型語言模型參數的同時使用指令微調。我們沒有使用昂貴的 GPT-4，而是針對 GPT-3.5 提出設計良好的提示，以建立基於生成的指令，強調從網際網路來源衍生的病理知識的效用。為了擴展指令的使用，我們在數位病理學的背景下構建了一組高品質的基於範本的指令。從兩個基準資料集，我們的研究結果揭示了混合形式指令在病理學視覺問答中的優勢。廣泛的結果顯示了 CLOVER 在回答開放式和封閉式問題方面的經濟效益，其中 CLOVER 優於擁有多 37 倍訓練參數並使用從 GPT-4 生成的指令資料的強大基準。透過指令微調，CLOVER 在外部臨床資料集中展現了小樣本學習的穩健性。這些發現證明了 CLOVER 的經濟高效建模可以加速在數位病理領域採用快速對話式應用程式。
+
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
 2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
@@ -2551,136 +2702,4 @@ yielded marginally better predictive accuracy, the ElasticNet model provides a
 robust framework for understanding feature contributions.
 
 摘要：肌萎縮性脊髓側索硬化症 (ALS) 的特徵為快速進展的神經退化性疾病，在醫療介入和治療領域中，患者的治療選擇有限。此疾病展示出多樣化的發病模式和進展軌跡，強調早期偵測功能衰退至關重要，以制定客製化的照護策略和及時的治療介入。本研究由 iDPP@CLEF 2024 挑戰帶頭，專注於利用透過應用程式取得的感測器衍生資料。這些資料用於建構各種機器學習模型，特別設計用於預測 ALS 功能評分量表修訂版 (ALSFRS-R) 分數的進展，並利用主辦單位提供的資料集。在我們的分析中，評估了多種預測模型，以確定它們在處理 ALS 感測器資料方面的效能。感測器資料的時間面向使用統計方法進行壓縮和合併，從而增強收集資訊在預測建模目標方面的可解釋性和適用性。表現最佳的模型是樸素基準和 ElasticNet 回歸。樸素模型達到了平均絕對誤差 (MAE) 為 0.20 和均方根誤差 (RMSE) 為 0.49，略勝於 ElasticNet 模型，後者的 MAE 為 0.22，RMSE 為 0.50。我們的比較分析表明，雖然樸素方法產生的預測準確度略高，但 ElasticNet 模型提供了一個穩健的架構，用於瞭解特徵貢獻。
-
-##### **The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing**
-2407.07786v1 by Alice Qian Zhang, Ryland Shaw, Jacy Reese Anthis, Ashlee Milton, Emily Tseng, Jina Suh, Lama Ahmad, Ram Shankar Siva Kumar, Julian Posada, Benjamin Shestakofsky, Sarah T. Roberts, Mary L. Gray
-
-Rapid progress in general-purpose AI has sparked significant interest in "red
-teaming," a practice of adversarial testing originating in military and
-cybersecurity applications. AI red teaming raises many questions about the
-human factor, such as how red teamers are selected, biases and blindspots in
-how tests are conducted, and harmful content's psychological effects on red
-teamers. A growing body of HCI and CSCW literature examines related
-practices-including data labeling, content moderation, and algorithmic
-auditing. However, few, if any, have investigated red teaming itself. This
-workshop seeks to consider the conceptual and empirical challenges associated
-with this practice, often rendered opaque by non-disclosure agreements. Future
-studies may explore topics ranging from fairness to mental health and other
-areas of potential harm. We aim to facilitate a community of researchers and
-practitioners who can begin to meet these challenges with creativity,
-innovation, and thoughtful reflection.
-
-摘要：一般用途 AI 的快速進展引發了對「紅隊」的濃厚興趣，紅隊是一種源自軍事和網路安全應用中的對抗性測試實務。AI 紅隊對人類因素提出了許多問題，例如紅隊成員如何選拔、測試執行方式中的偏見和盲點，以及有害內容對紅隊成員的心理影響。越來越多的人機互動和 CSCW 文獻探討了相關實務，包括資料標記、內容審核和演算法稽核。然而，鮮少有人探討紅隊本身。本工作坊旨在探討與此實務相關的概念和經驗挑戰，這些挑戰通常因保密協議而變得模糊不清。未來的研究可能會探討從公平性到心理健康和其他潛在危害領域的主題。我們的目標是促進研究人員和實務工作者的社群，他們可以開始運用創意、創新和深思熟慮的反思來應對這些挑戰。
-
-##### **A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**
-2407.07666v1 by Ting Fang Tan, Kabilan Elangovan, Jasmine Ong, Nigam Shah, Joseph Sung, Tien Yin Wong, Lan Xue, Nan Liu, Haibo Wang, Chang Fu Kuo, Simon Chesterman, Zee Kin Yeong, Daniel SW Ting
-
-A comprehensive qualitative evaluation framework for large language models
-(LLM) in healthcare that expands beyond traditional accuracy and quantitative
-metrics needed. We propose 5 key aspects for evaluation of LLMs: Safety,
-Consensus, Objectivity, Reproducibility and Explainability (S.C.O.R.E.). We
-suggest that S.C.O.R.E. may form the basis for an evaluation framework for
-future LLM-based models that are safe, reliable, trustworthy, and ethical for
-healthcare and clinical applications.
-
-摘要：一個全面的定性評估架構，適用於醫療保健領域的大型語言模型 (LLM)，其範圍超越傳統的準確度和定量指標。我們提出用於評估 LLM 的 5 個關鍵面向：安全性、共識、客觀性、可複製性和可解釋性 (S.C.O.R.E.)。我們建議 S.C.O.R.E. 可以作為評估架構的基礎，適用於未來的基於 LLM 的模型，這些模型對於醫療保健和臨床應用來說是安全、可靠、值得信賴且合乎道德的。
-
-##### **Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**
-2407.07660v1 by Chuanpu Li, Zeli Chen, Yiwen Zhang, Liming Zhong, Wei Yang
-
-Medical image synthesis remains challenging due to misalignment noise during
-training. Existing methods have attempted to address this challenge by
-incorporating a registration-guided module. However, these methods tend to
-overlook the task-specific constraints on the synthetic and registration
-modules, which may cause the synthetic module to still generate spatially
-aligned images with misaligned target images during training, regardless of the
-registration module's function. Therefore, this paper proposes
-registration-guided consistency and incorporates disentanglement learning for
-medical image synthesis. The proposed registration-guided consistency
-architecture fosters task-specificity within the synthetic and registration
-modules by applying identical deformation fields before and after synthesis,
-while enforcing output consistency through an alignment loss. Moreover, the
-synthetic module is designed to possess the capability of disentangling
-anatomical structures and specific styles across various modalities. An anatomy
-consistency loss is introduced to further compel the synthetic module to
-preserve geometrical integrity within latent spaces. Experiments conducted on
-both an in-house abdominal CECT-CT dataset and a publicly available pelvic
-MR-CT dataset have demonstrated the superiority of the proposed method.
-
-摘要：由於訓練期間的錯位雜訊，醫學影像合成仍然具有挑戰性。現有方法已嘗試透過納入註冊導引模組來解決此挑戰。然而，這些方法往往忽略合成與註冊模組的特定任務約束，這可能會導致合成模組在訓練期間仍產生與錯位目標影像空間對齊的影像，而與註冊模組的功能無關。因此，本文提出註冊導引一致性，並結合解糾纏學習用於醫學影像合成。所提出的註冊導引一致性架構透過在合成前後應用相同的變形場，並透過對齊損失來強制執行輸出一致性，來促進合成與註冊模組中的任務特異性。此外，合成模組被設計為具備在各種模態中解開解剖結構和特定樣式的能力。引入了解剖一致性損失，以進一步強制合成模組在潛在空間中保留幾何完整性。在內部腹部 CECT-CT 資料集和公開可用的骨盆 MR-CT 資料集上進行的實驗已證明了所提出方法的優越性。
-
-##### **H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**
-2407.07604v1 by Ryan Banks, Bernat Rovira-Lastra, Jordi Martinez-Gomis, Akhilanand Chaurasia, Yunpeng Li
-
-Occlusal contacts are the locations at which the occluding surfaces of the
-maxilla and the mandible posterior teeth meet. Occlusal contact detection is a
-vital tool for restoring the loss of masticatory function and is a mandatory
-assessment in the field of dentistry, with particular importance in
-prosthodontics and restorative dentistry. The most common method for occlusal
-contact detection is articulating paper. However, this method can indicate
-significant medically false positive and medically false negative contact
-areas, leaving the identification of true occlusal indications to clinicians.
-To address this, we propose a multiclass Vision Transformer and Fully
-Convolutional Network ensemble semantic segmentation model with a combination
-hierarchical loss function, which we name as Hierarchical Fully Convolutional
-Branch Transformer (H-FCBFormer). We also propose a method of generating
-medically true positive semantic segmentation masks derived from expert
-annotated articulating paper masks and gold standard masks. The proposed model
-outperforms other machine learning methods evaluated at detecting medically
-true positive contacts and performs better than dentists in terms of accurately
-identifying object-wise occlusal contact areas while taking significantly less
-time to identify them. Code is available at
-https://github.com/Banksylel/H-FCBFormer.
-
-摘要：咬合接觸是上顎和下顎後牙咬合面相遇的位置。咬合接觸偵測是恢復咀嚼功能喪失的必要工具，也是牙科領域中的一項強制性評估，特別是在贋復牙科和修復牙科中具有重要意義。最常見的咬合接觸偵測方法是使用咬合紙。然而，此方法可能會顯示出顯著的醫學假陽性和醫學假陰性接觸區域，讓臨床醫師難以找出真正的咬合跡象。為了解決這個問題，我們提出一個多類別的 Vision Transformer 和全卷積網路集合語意分割模型，並結合分層損失函數，我們將其命名為分層全卷積分支轉換器 (H-FCBFormer)。我們還提出了一種生成醫學真陽性語意分割遮罩的方法，該方法源自專家註解的咬合紙遮罩和金標準遮罩。所提出的模型在偵測醫學真陽性接觸方面優於其他機器學習方法，並且在準確識別物件式咬合接觸區域方面優於牙醫師，同時識別所需時間卻顯著減少。程式碼可在 https://github.com/Banksylel/H-FCBFormer 取得。
-
-##### **FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes**
-2407.07561v1 by Rajat Kumar Jenamani, Priya Sundaresan, Maram Sakr, Tapomayukh Bhattacharjee, Dorsa Sadigh
-
-Robot-assisted feeding has the potential to improve the quality of life for
-individuals with mobility limitations who are unable to feed themselves
-independently. However, there exists a large gap between the homogeneous,
-curated plates existing feeding systems can handle, and truly in-the-wild
-meals. Feeding realistic plates is immensely challenging due to the sheer range
-of food items that a robot may encounter, each requiring specialized
-manipulation strategies which must be sequenced over a long horizon to feed an
-entire meal. An assistive feeding system should not only be able to sequence
-different strategies efficiently in order to feed an entire meal, but also be
-mindful of user preferences given the personalized nature of the task. We
-address this with FLAIR, a system for long-horizon feeding which leverages the
-commonsense and few-shot reasoning capabilities of foundation models, along
-with a library of parameterized skills, to plan and execute user-preferred and
-efficient bite sequences. In real-world evaluations across 6 realistic plates,
-we find that FLAIR can effectively tap into a varied library of skills for
-efficient food pickup, while adhering to the diverse preferences of 42
-participants without mobility limitations as evaluated in a user study. We
-demonstrate the seamless integration of FLAIR with existing bite transfer
-methods [19, 28], and deploy it across 2 institutions and 3 robots,
-illustrating its adaptability. Finally, we illustrate the real-world efficacy
-of our system by successfully feeding a care recipient with severe mobility
-limitations. Supplementary materials and videos can be found at:
-https://emprise.cs.cornell.edu/flair .
-
-摘要：機器人輔助進食有潛力改善行動不便、無法自行進食的個人生活品質。然而，現有的進食系統所能處理的均質、精選餐盤與實際的餐點之間存在著很大的差距。進食實際的餐點極具挑戰性，因為機器人可能遇到的食物種類繁多，每種食物都需要特定的操作策略，而這些策略必須在一個長期的範圍內進行排序，才能進食一整餐。一個輔助進食系統不僅應該能夠有效地對不同的策略進行排序，以便進食一整餐，還應該在任務的個性化性質下，考量使用者的偏好。我們透過 FLAIR 來解決這個問題，FLAIR 是針對長時程進食的系統，它利用基礎模型的常識和少量推理能力，以及一個參數化技能庫，來規劃和執行使用者偏好且有效的進食順序。在 6 個實際餐盤的真實世界評估中，我們發現 FLAIR 可以有效地利用各種技能庫進行有效的食物取用，同時遵守 42 位行動不便參與者的不同偏好，這是在使用者研究中評估的。我們展示了 FLAIR 與現有進食轉移方法 [19, 28] 的無縫整合，並在 2 個機構和 3 個機器人中部署它，說明了它的適應性。最後，我們透過成功餵食一位行動不便的受照護者來說明我們系統在真實世界中的功效。補充材料和影片可以在這裡找到：https://emprise.cs.cornell.edu/flair。
-
-##### **Arabic Automatic Story Generation with Large Language Models**
-2407.07551v1 by Ahmed Oumar El-Shangiti, Fakhraddin Alwajih, Muhammad Abdul-Mageed
-
-Large language models (LLMs) have recently emerged as a powerful tool for a
-wide range of language generation tasks. Nevertheless, this progress has been
-slower in Arabic. In this work, we focus on the task of generating stories from
-LLMs. For our training, we use stories acquired through machine translation
-(MT) as well as GPT-4. For the MT data, we develop a careful pipeline that
-ensures we acquire high-quality stories. For our GPT-41 data, we introduce
-crafted prompts that allow us to generate data well-suited to the Arabic
-context in both Modern Standard Arabic (MSA) and two Arabic dialects (Egyptian
-and Moroccan). For example, we generate stories tailored to various Arab
-countries on a wide host of topics. Our manual evaluation shows that our model
-fine-tuned on these training datasets can generate coherent stories that adhere
-to our instructions. We also conduct an extensive automatic and human
-evaluation comparing our models against state-of-the-art proprietary and
-open-source models. Our datasets and models will be made publicly available at
-https: //github.com/UBC-NLP/arastories.
-
-摘要：大型語言模型（LLM）最近已成為各種語言生成任務的強大工具。儘管如此，這項進展在阿拉伯語中較為緩慢。在這項工作中，我們專注於從 LLM 生成故事的任務。對於我們的訓練，我們使用通過機器翻譯（MT）以及 GPT-4 獲得的故事。對於 MT 資料，我們開發了一個仔細的管道，以確保我們獲得高品質的故事。對於我們的 GPT-41 資料，我們引入了精心製作的提示，使我們能夠生成非常適合阿拉伯語環境的資料，包括現代標準阿拉伯語（MSA）和兩種阿拉伯語方言（埃及語和摩洛哥語）。例如，我們生成針對各種阿拉伯國家的故事，主題廣泛。我們的評估顯示，我們針對這些訓練資料集進行微調的模型可以生成符合我們指示的連貫故事。我們還進行了廣泛的自動和人工評估，將我們的模型與最先進的專有和開放原始碼模型進行比較。我們的資料集和模型將在 https: //github.com/UBC-NLP/arastories 公開。
 

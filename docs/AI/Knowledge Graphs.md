@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
+|**2024-07-24**|**MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**|Arya Bulusu et.al.|[2407.17544v1](http://arxiv.org/abs/2407.17544v1)|null|
 |**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375v1](http://arxiv.org/abs/2407.16375v1)|[link](https://github.com/haddocking/deeprank-gnn-esm)|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
 |**2024-07-23**|**Graph-Structured Speculative Decoding**|Zhuocheng Gong et.al.|[2407.16207v1](http://arxiv.org/abs/2407.16207v1)|null|
@@ -100,10 +102,50 @@
 |**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v2](http://arxiv.org/abs/2406.14969v2)|null|
 |**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745v2](http://arxiv.org/abs/2406.14745v2)|null|
 |**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703v1](http://arxiv.org/abs/2406.14703v1)|null|
-|**2024-06-20**|**TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models**|Jiarui Feng et.al.|[2406.14683v1](http://arxiv.org/abs/2406.14683v1)|[link](https://github.com/jiaruifeng/taglas)|
-|**2024-06-20**|**HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation**|Jin Wang et.al.|[2406.14655v1](http://arxiv.org/abs/2406.14655v1)|null|
 
 #### Abstracts
+##### **Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**
+2407.18181v1 by Sindhura Kommu, Yizhi Wang, Yue Wang, Xuan Wang
+
+Inferring gene regulatory networks (GRNs) from single-cell RNA sequencing
+(scRNA-seq) data is a complex challenge that requires capturing the intricate
+relationships between genes and their regulatory interactions. In this study,
+we tackle this challenge by leveraging the single-cell BERT-based pre-trained
+transformer model (scBERT), trained on extensive unlabeled scRNA-seq data, to
+augment structured biological knowledge from existing GRNs. We introduce a
+novel joint graph learning approach that combines the rich contextual
+representations learned by pre-trained single-cell language models with the
+structured knowledge encoded in GRNs using graph neural networks (GNNs). By
+integrating these two modalities, our approach effectively reasons over boththe
+gene expression level constraints provided by the scRNA-seq data and the
+structured biological knowledge inherent in GRNs. We evaluate our method on
+human cell benchmark datasets from the BEELINE study with cell type-specific
+ground truth networks. The results demonstrate superior performance over
+current state-of-the-art baselines, offering a deeper understanding of cellular
+regulatory mechanisms.
+
+摘要：從單細胞 RNA 定序 (scRNA-seq) 資料推論基因調控網路 (GRN) 是一項複雜的挑戰，需要掌握基因與其調控交互作用之間的複雜關係。在此研究中，我們透過利用在廣泛的未標記 scRNA-seq 資料上訓練的單細胞 BERT 基於預訓練轉換器模型 (scBERT)，來克服此挑戰，以擴充現有 GRN 中的結構化生物知識。我們引入一種新穎的聯合圖形學習方法，它結合了預訓練單細胞語言模型所學習到的豐富脈絡表徵，以及使用圖形神經網路 (GNN) 對 GRN 中編碼的結構化知識。透過整合這兩種方式，我們的做法有效地對 scRNA-seq 資料提供的基因表現層級約束和 GRN 中固有的結構化生物知識進行推理。我們使用 BEELINE 研究中的人類細胞基準資料集，以及細胞類型特定的基本事實網路，來評估我們的方法。結果證明其效能優於目前最先進的基準，提供了對細胞調控機制的更深入理解。
+
+##### **MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**
+2407.17544v1 by Arya Bulusu, Brandon Man, Ashish Jagmohan, Aditya Vempaty, Jennifer Mari-Wyka, Deepak Akkil
+
+There has been significant recent interest in harnessing LLMs to control
+software systems through multi-step reasoning, planning and tool-usage. While
+some promising results have been obtained, application to specific domains
+raises several general issues including the control of specialized domain
+tools, the lack of existing datasets for training and evaluation, and the
+non-triviality of automated system evaluation and improvement. In this paper,
+we present a case-study where we examine these issues in the context of a
+specific domain. Specifically, we present an automated math visualizer and
+solver system for mathematical pedagogy. The system orchestrates mathematical
+solvers and math graphing tools to produce accurate visualizations from simple
+natural language commands. We describe the creation of specialized data-sets,
+and also develop an auto-evaluator to easily evaluate the outputs of our system
+by comparing them to ground-truth expressions. We have open sourced the
+data-sets and code for the proposed system.
+
+摘要：最近，人们对利用大型语言模型 (LLM) 来通过多步骤推理、规划和工具使用来控制软件系统产生了极大的兴趣。虽然已经取得了一些有希望的结果，但应用于特定领域会引发几个普遍性问题，包括对专业领域工具的控制、缺乏用于训练和评估的现有数据集，以及自动化系统评估和改进的非平凡性。在本文中，我们提出了一个案例研究，其中我们研究了特定领域背景下的这些问题。具体来说，我们展示了一个用于数学教育的自动化数学可视化器和求解器系统。该系统协调数学求解器和数学绘图工具，以根据简单的自然语言命令生成准确的可视化效果。我们描述了专门数据集的创建，还开发了一个自动评估器，通过将我们的系统输出与真实表达式进行比较，轻松评估其输出。我们已经开源了所提议系统的代码和数据集。
+
 ##### **Ranking protein-protein models with large language models and graph neural networks**
 2407.16375v1 by Xiaotong Xu, Alexandre M. J. J. Bonvin
 
@@ -2441,66 +2483,4 @@ effectiveness in eliciting certain traits, such as high psychopathy or low
 conscientiousness, suggesting the need for further research in this direction.
 
 摘要：在傳統心理學中，人格的概念是透過可觀察的行為來定義的，現在已擴展到大型語言模型 (LLM)，以更了解其行為。這引發了一個問題：LLM 是否像人類一樣表現出獨特且一致的人格特質？現有的自我評量人格測驗雖然適用，但缺乏精確人格測量所需的效度和信度。為了解決這個問題，我們引入了 TRAIT，這是一個由 8K 個多重選擇題組成的全新工具，旨在評估 LLM 的人格，並具備效度和信度。TRAIT 建構於經過心理測量驗證的人類問卷，大五人格量表 (BFI) 和簡短黑暗三元組 (SD-3)，並增強了 ATOMIC10X 知識圖譜，以便在各種實際場景中測試人格。TRAIT 克服了使用自我評量測量 LLM 人格時的信度和效度問題，在三項指標（拒絕率、提示敏感度和選項順序敏感度）中顯示出最高分。它揭示了 LLM 人格的重要見解：1) LLM 表現出獨特且一致的人格，這深受其訓練資料（即用於對齊調整的資料）影響，以及 2) 目前的提示技術在引發某些特質（例如高精神病質或低盡責性）方面效果有限，這表示需要進一步研究這個方向。
-
-##### **TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models**
-2406.14683v1 by Jiarui Feng, Hao Liu, Lecheng Kong, Yixin Chen, Muhan Zhang
-
-In this report, we present TAGLAS, an atlas of text-attributed graph (TAG)
-datasets and benchmarks. TAGs are graphs with node and edge features
-represented in text, which have recently gained wide applicability in training
-graph-language or graph foundation models. In TAGLAS, we collect and integrate
-more than 23 TAG datasets with domains ranging from citation graphs to molecule
-graphs and tasks from node classification to graph question-answering. Unlike
-previous graph datasets and benchmarks, all datasets in TAGLAS have a unified
-node and edge text feature format, which allows a graph model to be
-simultaneously trained and evaluated on multiple datasets from various domains.
-Further, we provide a standardized, efficient, and simplified way to load all
-datasets and tasks. We also provide useful utils like text-to-embedding
-conversion, and graph-to-text conversion, which can facilitate different
-evaluation scenarios. Finally, we also provide standard and easy-to-use
-evaluation utils. The project is open-sourced at
-https://github.com/JiaruiFeng/TAGLAS and is still under construction. Please
-expect more datasets/features in the future.
-
-摘要：<paragraph>在本文中，我们提出了 TAGLAS，一个文本属性图 (TAG)
-数据集和基准的图集。TAG 是具有以文本表示的节点和边特征的图，最近在训练
-图语言或图基础模型中获得了广泛的应用。在 TAGLAS 中，我们收集并整合
-了 23 个以上的 TAG 数据集，其领域从引文图到分子
-图和任务，从节点分类到图问答。与
-以前的图数据集和基准不同，TAGLAS 中的所有数据集都具有统一的
-节点和边文本特征格式，这允许图模型在来自不同领域的多个数据集上同时训练和评估。
-此外，我们提供了一种标准化、高效且简化的方式来加载所有
-数据集和任务。我们还提供有用的实用程序，如文本到嵌入
-转换，以及图到文本转换，这可以促进不同的
-评估场景。最后，我们还提供标准且易于使用的
-评估实用程序。该项目在
-https://github.com/JiaruiFeng/TAGLAS 开源，并且仍在建设中。请
-期待未来有更多的数据集/功能。</paragraph>
-
-##### **HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation**
-2406.14655v1 by Jin Wang, Rui Dai, Weijie Wang, Luca Rossini, Francesco Ruscelli, Nikos Tsagarakis
-
-Enabling robots to autonomously perform hybrid motions in diverse
-environments can be beneficial for long-horizon tasks such as material
-handling, household chores, and work assistance. This requires extensive
-exploitation of intrinsic motion capabilities, extraction of affordances from
-rich environmental information, and planning of physical interaction behaviors.
-Despite recent progress has demonstrated impressive humanoid whole-body control
-abilities, they struggle to achieve versatility and adaptability for new tasks.
-In this work, we propose HYPERmotion, a framework that learns, selects and
-plans behaviors based on tasks in different scenarios. We combine reinforcement
-learning with whole-body optimization to generate motion for 38 actuated joints
-and create a motion library to store the learned skills. We apply the planning
-and reasoning features of the large language models (LLMs) to complex
-loco-manipulation tasks, constructing a hierarchical task graph that comprises
-a series of primitive behaviors to bridge lower-level execution with
-higher-level planning. By leveraging the interaction of distilled spatial
-geometry and 2D observation with a visual language model (VLM) to ground
-knowledge into a robotic morphology selector to choose appropriate actions in
-single- or dual-arm, legged or wheeled locomotion. Experiments in simulation
-and real-world show that learned motions can efficiently adapt to new tasks,
-demonstrating high autonomy from free-text commands in unstructured scenes.
-Videos and website: hy-motion.github.io/
-
-摘要：<paragraph>讓機器人能夠在不同環境中自主執行混合動作，對於材料搬運、家務和工作協助等長期任務可能是有益的。這需要廣泛利用內在運動能力，從豐富的環境資訊中提取可負擔性，以及規劃物理互動行為。儘管最近的進展已證明令人印象深刻的人形全身控制能力，但它們仍難以實現新任務的多功能性和適應性。在這項工作中，我們提出 HYPERmotion，一個基於不同場景中的任務來學習、選擇和規劃行為的框架。我們結合強化學習與全身最佳化，為 38 個動作關節產生動作，並建立一個動作庫來儲存學習到的技能。我們將大型語言模型 (LLM) 的規劃和推理功能應用於複雜的運動操縱任務，構建一個階層式任務圖，其中包含一系列基本行為，以橋接低階執行與高階規劃。透過利用蒸餾空間幾何和 2D 觀測與視覺語言模型 (VLM) 的互動，將知識基礎化為機器人形態選擇器，以在單臂或雙臂、腿部或輪式運動中選擇適當的動作。模擬和現實世界的實驗表明，學習到的動作可以有效適應新任務，證明了在非結構化場景中從自由文字指令中獲得高度自主性。影片和網站：hy-motion.github.io/</paragraph>
 

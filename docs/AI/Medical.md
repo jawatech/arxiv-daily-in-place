@@ -2,13 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
 |**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v1](http://arxiv.org/abs/2407.17164v1)|null|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126v1](http://arxiv.org/abs/2407.17126v1)|null|
 |**2024-07-24**|**SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**|Changchang Yin et.al.|[2407.16999v1](http://arxiv.org/abs/2407.16999v1)|[link](https://github.com/yinchangchang/sepsislab)|
-|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|null|
-|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|null|
+|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
+|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
 |**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804v1](http://arxiv.org/abs/2407.16804v1)|null|
 |**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
 |**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
@@ -44,15 +44,15 @@
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Maintenance Strategies for Sewer Pipes with Multi-State Degradation and Deep Reinforcement Learning**|Lisandro A. Jimenez-Roa et.al.|[2407.12894v1](http://arxiv.org/abs/2407.12894v1)|null|
 |**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468v2](http://arxiv.org/abs/2407.12468v2)|null|
-|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357v1](http://arxiv.org/abs/2407.12357v1)|null|
 |**2024-07-16**|**GPT-4V Cannot Generate Radiology Reports Yet**|Yuyang Jiang et.al.|[2407.12176v1](http://arxiv.org/abs/2407.12176v1)|[link](https://github.com/yuyangj0/gpt-4v-evaluation-radiology-report)|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852v1](http://arxiv.org/abs/2407.11852v1)|[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)|
 |**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827v1](http://arxiv.org/abs/2407.11827v1)|null|
 |**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v2](http://arxiv.org/abs/2407.11790v2)|null|
-|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v2](http://arxiv.org/abs/2407.11686v2)|null|
-|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
+|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v3](http://arxiv.org/abs/2407.11686v3)|null|
+|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v2](http://arxiv.org/abs/2407.11652v2)|null|
 |**2024-07-16**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573v1](http://arxiv.org/abs/2407.11573v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v1 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
+2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
 Dementia, a debilitating neurological condition affecting millions worldwide,
 presents significant diagnostic challenges. In this work, we introduce a novel
@@ -127,7 +127,7 @@ decision-making process and the importance of our methodology. This research
 offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
-摘要：失智症是一種影響全世界數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項研究中，我們介紹了一種創新的方法，用於對失智和未失智的老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用一種獨特的技術，選擇性地處理 MRI 切片，重點關注最相關的大腦區域並排除信息量較少的區域。這種方法由一個基於置信度的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策制定準確性，利用它們的集體優勢。在開放式影像研究系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超越了現有的方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋的人工智慧 (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策制定過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
 ##### **Improving ICD coding using Chapter based Named Entities and Attentional Models**
 2407.17230v1 by Abhijith R. Beeravolu, Mirjam Jonkman, Sami Azam, Friso De Boer
@@ -1387,7 +1387,7 @@ perspectives.
 摘要：由於異質圖形神經網路 (HGNN) 對異質圖形資料有卓越的表示能力，因此已廣泛用於許多重要的真實世界領域，例如推薦系統和醫療分析。在實際應用之前，透過廣泛的訓練來找出針對特定任務量身打造的最佳 HGNN 模型參數，是一個耗時且昂貴的過程。為了提高 HGNN 訓練的效率，必須對訓練過程中執行語義和模式進行特徵化和分析，以找出效能瓶頸。在本研究中，我們對兩個主流 HGNN 訓練場景進行深入的量化和分析，包括單一 GPU 和多 GPU 分散式訓練。根據特徵化結果，我們揭露了不同 HGNN 訓練場景中的效能瓶頸及其根本原因，並從軟體和硬體角度提供最佳化準則。
 
 ##### **CCoE: A Compact LLM with Collaboration of Experts**
-2407.11686v2 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
+2407.11686v3 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
 
 In the domain of Large Language Model (LLM), LLMs demonstrate significant
 capabilities in natural language understanding and generation. With the growing
@@ -1408,10 +1408,10 @@ Medical. The results indicate that our CCoE framework can easily and
 efficiently boost nearly 10%-20% performance on original base model in
 different domains but using less resources on training, as well as inference.
 
-摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著在各個領域應用 LLM 的需求日益增加，如何有效訓練和建立一個在不同領域中具備專業知識，但訓練成本卻很低的模型，成為一個研究課題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種共同利用不同領域專家 LLM 的方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組合多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務進行了很好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆、有效地提升不同領域中原始基礎模型近 10%-20% 的效能，但訓練和推理使用的資源更少。
+摘要：在大語言模型（LLM）領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著 LLM 在各種領域應用的需求日益增長，如何有效訓練和建立一個在不同領域具有專業知識但訓練成本低的模型，是一個研究問題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供了一種利用不同領域專家 LLM 的集合方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源提出很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組裝多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務接受過良好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆有效地提升不同領域中原始基礎模型的性能近 10%-20%，但訓練和推理使用的資源更少。
 
 ##### **CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**
-2407.11652v1 by Sunny Gupta, Amit Sethi
+2407.11652v2 by Sunny Gupta, Amit Sethi
 
 Federated Learning (FL) offers a privacy-preserving approach to train models
 on decentralized data. Its potential in healthcare is significant, but
@@ -1431,7 +1431,7 @@ develop a server model. Our results demonstrate that CCVA-FL outperforms
 Vanilla Federated Averaging by effectively addressing data distribution
 differences across clients without compromising privacy.
 
-摘要：联邦学习 (FL) 提供了一种在分散式数据上训练模型的隐私保护方法。它在医疗保健中的潜力很大，但由于医疗图像数据中存在跨客户端差异，因此带来了挑战，而有限的注释加剧了这一问题。本文介绍了跨客户端差异自适应联邦学习 (CCVA-FL) 来解决这些问题。CCVA-FL 旨在通过将图像转换为公共特征空间来最小化跨客户端差异。它涉及从每个客户端注释图像子集的专家注释，然后选择数据复杂性最低的客户端作为目标。然后使用基于目标客户端注释图像的可扩展扩散模型与 Transformer (DiT) 生成合成医学图像。这些合成图像捕捉了多样性并代表了原始数据，与其他客户端共享。然后，每个客户端使用图像到图像翻译将其本地图像转换为目标图像空间。翻译后的图像随后在联邦学习设置中用于开发服务器模型。我们的结果表明，CCVA-FL 通过有效解决跨客户端的数据分布差异在不损害隐私的情况下优于香草联邦平均。
+摘要：聯邦學習 (FL) 提供一種保護隱私的方法，可以在分散式數據上訓練模型。其在醫療保健中的潛力很大，但由於醫療影像數據中的跨客戶差異，加上註釋有限，因此產生了挑戰。本文介紹跨客戶差異自適應聯邦學習 (CCVA-FL) 來解決這些問題。CCVA-FL 旨在透過將影像轉換到一個共同特徵空間來最小化跨客戶差異。它涉及從每個客戶端中的一個影像子集進行專家註釋，然後選擇數據複雜性最低的客戶端作為目標。然後使用基於目標客戶端註釋影像的可擴充擴散模型與 Transformer (DiT) 來產生合成醫療影像。這些合成影像擷取多樣性並代表原始數據，並與其他客戶端共享。然後，每個客戶端使用影像到影像翻譯，將其本地影像轉換到目標影像空間。翻譯後的影像隨後用於聯邦學習設定，以開發伺服器模型。我們的結果證明，CCVA-FL 透過有效解決客戶端之間的數據分佈差異，在不損害隱私的情況下，優於香草聯邦平均。
 
 ##### **Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**
 2407.11612v1 by Chaya Ben Yehuda, Ran Gilad-Bachrach, Yarin Udi

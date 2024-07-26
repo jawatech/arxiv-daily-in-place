@@ -2,7 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
@@ -36,7 +36,7 @@
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
-|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v2](http://arxiv.org/abs/2404.12832v2)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
 |**2024-04-15**|**Hybrid Intelligence for Digital Humanities**|Victor de Boer et.al.|[2406.15374v1](http://arxiv.org/abs/2406.15374v1)|null|
 |**2024-04-14**|**Ethical Framework for Responsible Foundational Models in Medical Imaging**|Abhijit Das et.al.|[2406.11868v1](http://arxiv.org/abs/2406.11868v1)|null|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v1 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
+2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
 Dementia, a debilitating neurological condition affecting millions worldwide,
 presents significant diagnostic challenges. In this work, we introduce a novel
@@ -127,7 +127,7 @@ decision-making process and the importance of our methodology. This research
 offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
-摘要：失智症是一種影響全世界數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項研究中，我們介紹了一種創新的方法，用於對失智和未失智的老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用一種獨特的技術，選擇性地處理 MRI 切片，重點關注最相關的大腦區域並排除信息量較少的區域。這種方法由一個基於置信度的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策制定準確性，利用它們的集體優勢。在開放式影像研究系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超越了現有的方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋的人工智慧 (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策制定過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
 ##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
 2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
@@ -944,7 +944,7 @@ model presented the most promising results, achieving an overall accuracy of
 摘要：現今，憂鬱症是一個重要的議題。根據世界衛生組織 (WHO) 的資料，在 2023 年，超過 2.8 億人正在與憂鬱症搏鬥。這是一個龐大的數字；如果不認真看待，這些數字將會快速增加。大約有 48.9 億人是社群媒體使用者。人們在 Twitter、Facebook、Reddit、Instagram 等平台上表達自己的感受和情緒。這些平台包含有價值的資訊，可用於研究目的。已經在各種社群媒體平台上進行了大量的研究。然而，這些努力仍存在某些限制。特別是，先前的研究僅專注於偵測推文中的憂鬱症和憂鬱症的強度。此外，資料集標籤中存在不準確的情況。在這項研究工作中，使用基於詞彙標籤的 Twitter 資料庫中的推文預測了五種類型的憂鬱症（雙極型、重度、精神病型、非典型和產後）。可解釋的 AI 用於透過強調代表憂鬱症類型的推文部分來提供推理。從 Transformers（BERT）中提取的雙向編碼器表示用於特徵提取和訓練。機器學習和深度學習方法用於訓練模型。BERT 模型呈現出最有希望的結果，達到 0.96 的整體準確度。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
-2404.12832v1 by Dmytro Shvetsov, Joonas Ariva, Marharyta Domnich, Raul Vicente, Dmytro Fishman
+2404.12832v2 by Dmytro Shvetsov, Joonas Ariva, Marharyta Domnich, Raul Vicente, Dmytro Fishman
 
 Deep learning is dramatically transforming the field of medical imaging and
 radiology, enabling the identification of pathologies in medical images,
@@ -972,7 +972,7 @@ of tumors in CT images, and presents a step forward in making deep learning
 applications more accessible and effective in healthcare, where annotated data
 is scarce.
 
-摘要：深度學習正劇烈地轉變醫學影像和放射學領域，能識別醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛註解資料集需求的限制。為了應對此挑戰，透過可解釋 AI 和反事實解釋的產生，探討了弱監督語意分割的能力。本研究的範圍是開發一種新穎的反事實內繪方法 (COIN)，它透過使用生成模型，將預測分類標籤從異常翻轉為正常。例如，如果分類器將輸入醫學影像 X 視為異常，表示存在病理，生成模型旨在內繪異常區域，從而逆轉分類器的原始預測標籤。此方法使我們能夠產生病理的精確分割，而不依賴於預先存在的分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的分割遮罩容易取得得多。該方法的有效性透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠超越了既定的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是一種很有前景的 CT 影像中腫瘤語意分割方法，並在使深度學習應用在註解資料稀缺的醫療保健中更易於取得和更有效方面邁進了一步。
+摘要：深度学习正大幅轉變醫學影像和放射線學領域，能辨識醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛註解資料集需求的限制。為了應對此挑戰，透過可解釋 AI 和反事實解釋的產生，探索弱監督語意分割的能力。本研究的範圍是開發一種新的反事實內插方法 (COIN)，該方法使用生成模型將預測的分類標籤從異常翻轉為正常。例如，如果分類器將輸入的醫學影像 X 視為異常，表示存在病理，則生成模型旨在內插異常區域，從而逆轉分類器的原始預測標籤。此方法使我們能夠產生病理的精確分割，而無需依賴於預先存在的分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的分割遮罩容易取得。該方法的有效性透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠超過已建立的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是一種很有前途的 CT 影像中腫瘤語意分割方法，並在醫療保健中讓深度學習應用更易於取得和更有效率邁進一步，其中註解資料很稀少。
 
 ##### **Hybrid Intelligence for Digital Humanities**
 2406.15374v1 by Victor de Boer, Lise Stork

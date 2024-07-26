@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-25 20:35:00 Asia/Taipei
+ Automated deployment @ 2024-07-26 08:57:54 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -24,7 +24,7 @@
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
-|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v1](http://arxiv.org/abs/2407.12068v1)|null|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
@@ -44,7 +44,7 @@
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
-|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|null|
+|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|[link](https://github.com/aaronzo/STAGE)|
 |**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
 |**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723v1](http://arxiv.org/abs/2407.06723v1)|null|
@@ -2514,13 +2514,13 @@ Videos and website: hy-motion.github.io/
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
 |**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v1](http://arxiv.org/abs/2407.17164v1)|null|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126v1](http://arxiv.org/abs/2407.17126v1)|null|
 |**2024-07-24**|**SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**|Changchang Yin et.al.|[2407.16999v1](http://arxiv.org/abs/2407.16999v1)|[link](https://github.com/yinchangchang/sepsislab)|
-|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|null|
-|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|null|
+|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
+|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
 |**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804v1](http://arxiv.org/abs/2407.16804v1)|null|
 |**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
 |**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
@@ -2556,15 +2556,15 @@ Videos and website: hy-motion.github.io/
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
 |**2024-07-17**|**Maintenance Strategies for Sewer Pipes with Multi-State Degradation and Deep Reinforcement Learning**|Lisandro A. Jimenez-Roa et.al.|[2407.12894v1](http://arxiv.org/abs/2407.12894v1)|null|
 |**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468v2](http://arxiv.org/abs/2407.12468v2)|null|
-|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357v1](http://arxiv.org/abs/2407.12357v1)|null|
 |**2024-07-16**|**GPT-4V Cannot Generate Radiology Reports Yet**|Yuyang Jiang et.al.|[2407.12176v1](http://arxiv.org/abs/2407.12176v1)|[link](https://github.com/yuyangj0/gpt-4v-evaluation-radiology-report)|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852v1](http://arxiv.org/abs/2407.11852v1)|[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)|
 |**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827v1](http://arxiv.org/abs/2407.11827v1)|null|
 |**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v2](http://arxiv.org/abs/2407.11790v2)|null|
-|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v2](http://arxiv.org/abs/2407.11686v2)|null|
-|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
+|**2024-07-16**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686v3](http://arxiv.org/abs/2407.11686v3)|null|
+|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v2](http://arxiv.org/abs/2407.11652v2)|null|
 |**2024-07-16**|**Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**|Chaya Ben Yehuda et.al.|[2407.11612v1](http://arxiv.org/abs/2407.11612v1)|null|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573v1](http://arxiv.org/abs/2407.11573v1)|null|
@@ -2617,7 +2617,7 @@ Videos and website: hy-motion.github.io/
 
 #### Abstracts
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v1 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
+2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
 Dementia, a debilitating neurological condition affecting millions worldwide,
 presents significant diagnostic challenges. In this work, we introduce a novel
@@ -2639,7 +2639,7 @@ decision-making process and the importance of our methodology. This research
 offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
-摘要：失智症是一種影響全世界數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項研究中，我們介紹了一種創新的方法，用於對失智和未失智的老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用一種獨特的技術，選擇性地處理 MRI 切片，重點關注最相關的大腦區域並排除信息量較少的區域。這種方法由一個基於置信度的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策制定準確性，利用它們的集體優勢。在開放式影像研究系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超越了現有的方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋的人工智慧 (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策制定過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
 ##### **Improving ICD coding using Chapter based Named Entities and Attentional Models**
 2407.17230v1 by Abhijith R. Beeravolu, Mirjam Jonkman, Sami Azam, Friso De Boer
@@ -3899,7 +3899,7 @@ perspectives.
 摘要：由於異質圖形神經網路 (HGNN) 對異質圖形資料有卓越的表示能力，因此已廣泛用於許多重要的真實世界領域，例如推薦系統和醫療分析。在實際應用之前，透過廣泛的訓練來找出針對特定任務量身打造的最佳 HGNN 模型參數，是一個耗時且昂貴的過程。為了提高 HGNN 訓練的效率，必須對訓練過程中執行語義和模式進行特徵化和分析，以找出效能瓶頸。在本研究中，我們對兩個主流 HGNN 訓練場景進行深入的量化和分析，包括單一 GPU 和多 GPU 分散式訓練。根據特徵化結果，我們揭露了不同 HGNN 訓練場景中的效能瓶頸及其根本原因，並從軟體和硬體角度提供最佳化準則。
 
 ##### **CCoE: A Compact LLM with Collaboration of Experts**
-2407.11686v2 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
+2407.11686v3 by Shaomang Huang, Jianfeng Pan, Hanzhong Zheng
 
 In the domain of Large Language Model (LLM), LLMs demonstrate significant
 capabilities in natural language understanding and generation. With the growing
@@ -3920,10 +3920,10 @@ Medical. The results indicate that our CCoE framework can easily and
 efficiently boost nearly 10%-20% performance on original base model in
 different domains but using less resources on training, as well as inference.
 
-摘要：在大語言模型 (LLM) 領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著在各個領域應用 LLM 的需求日益增加，如何有效訓練和建立一個在不同領域中具備專業知識，但訓練成本卻很低的模型，成為一個研究課題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供一種共同利用不同領域專家 LLM 的方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源有很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組合多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務進行了很好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆、有效地提升不同領域中原始基礎模型近 10%-20% 的效能，但訓練和推理使用的資源更少。
+摘要：在大語言模型（LLM）領域中，LLM 在自然語言理解和生成方面展現出顯著的能力。隨著 LLM 在各種領域應用的需求日益增長，如何有效訓練和建立一個在不同領域具有專業知識但訓練成本低的模型，是一個研究問題。我們提出 CCoE 架構，一個將多個強大的領域專家輕鬆結合在一起以融合成一個大型 LLM 的框架，提供了一種利用不同領域專家 LLM 的集合方式。此外，訓練多個專家 LLM 的大型協作需要對訓練來源提出很高的要求。CCoE 通過隔離其他專家並分別訓練每個專家來繞過這個問題。CCoE 的設計通過 CoE（專家協作）層組裝多個專家 LLM。每個 CoE 層可以有一個或多個專家 LLM。專家 LLM 具有不同的層數，並且已經針對不同的領域任務接受過良好的訓練。每個專家都經過微調，能夠達到與 SOTA 領域 LLM 相當的結果。我們從程式碼、數學、法律、文字轉 SQL 和醫學領域的 5 位專家開始。結果表明，我們的 CCoE 框架可以輕鬆有效地提升不同領域中原始基礎模型的性能近 10%-20%，但訓練和推理使用的資源更少。
 
 ##### **CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**
-2407.11652v1 by Sunny Gupta, Amit Sethi
+2407.11652v2 by Sunny Gupta, Amit Sethi
 
 Federated Learning (FL) offers a privacy-preserving approach to train models
 on decentralized data. Its potential in healthcare is significant, but
@@ -3943,7 +3943,7 @@ develop a server model. Our results demonstrate that CCVA-FL outperforms
 Vanilla Federated Averaging by effectively addressing data distribution
 differences across clients without compromising privacy.
 
-摘要：联邦学习 (FL) 提供了一种在分散式数据上训练模型的隐私保护方法。它在医疗保健中的潜力很大，但由于医疗图像数据中存在跨客户端差异，因此带来了挑战，而有限的注释加剧了这一问题。本文介绍了跨客户端差异自适应联邦学习 (CCVA-FL) 来解决这些问题。CCVA-FL 旨在通过将图像转换为公共特征空间来最小化跨客户端差异。它涉及从每个客户端注释图像子集的专家注释，然后选择数据复杂性最低的客户端作为目标。然后使用基于目标客户端注释图像的可扩展扩散模型与 Transformer (DiT) 生成合成医学图像。这些合成图像捕捉了多样性并代表了原始数据，与其他客户端共享。然后，每个客户端使用图像到图像翻译将其本地图像转换为目标图像空间。翻译后的图像随后在联邦学习设置中用于开发服务器模型。我们的结果表明，CCVA-FL 通过有效解决跨客户端的数据分布差异在不损害隐私的情况下优于香草联邦平均。
+摘要：聯邦學習 (FL) 提供一種保護隱私的方法，可以在分散式數據上訓練模型。其在醫療保健中的潛力很大，但由於醫療影像數據中的跨客戶差異，加上註釋有限，因此產生了挑戰。本文介紹跨客戶差異自適應聯邦學習 (CCVA-FL) 來解決這些問題。CCVA-FL 旨在透過將影像轉換到一個共同特徵空間來最小化跨客戶差異。它涉及從每個客戶端中的一個影像子集進行專家註釋，然後選擇數據複雜性最低的客戶端作為目標。然後使用基於目標客戶端註釋影像的可擴充擴散模型與 Transformer (DiT) 來產生合成醫療影像。這些合成影像擷取多樣性並代表原始數據，並與其他客戶端共享。然後，每個客戶端使用影像到影像翻譯，將其本地影像轉換到目標影像空間。翻譯後的影像隨後用於聯邦學習設定，以開發伺服器模型。我們的結果證明，CCVA-FL 透過有效解決客戶端之間的數據分佈差異，在不損害隱私的情況下，優於香草聯邦平均。
 
 ##### **Improving Engagement and Efficacy of mHealth Micro-Interventions for Stress Coping: an In-The-Wild Study**
 2407.11612v1 by Chaya Ben Yehuda, Ran Gilad-Bachrach, Yarin Udi
@@ -5200,7 +5200,7 @@ https: //github.com/UBC-NLP/arastories.
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
@@ -5234,7 +5234,7 @@ https: //github.com/UBC-NLP/arastories.
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
-|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v2](http://arxiv.org/abs/2404.12832v2)|[link](https://github.com/dmytro-shvetsov/counterfactual-search)|
 |**2024-04-15**|**Hybrid Intelligence for Digital Humanities**|Victor de Boer et.al.|[2406.15374v1](http://arxiv.org/abs/2406.15374v1)|null|
 |**2024-04-14**|**Ethical Framework for Responsible Foundational Models in Medical Imaging**|Abhijit Das et.al.|[2406.11868v1](http://arxiv.org/abs/2406.11868v1)|null|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
@@ -5303,7 +5303,7 @@ https: //github.com/UBC-NLP/arastories.
 
 #### Abstracts
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v1 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
+2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
 Dementia, a debilitating neurological condition affecting millions worldwide,
 presents significant diagnostic challenges. In this work, we introduce a novel
@@ -5325,7 +5325,7 @@ decision-making process and the importance of our methodology. This research
 offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
-摘要：失智症是一種影響全世界數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項研究中，我們介紹了一種創新的方法，用於對失智和未失智的老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用一種獨特的技術，選擇性地處理 MRI 切片，重點關注最相關的大腦區域並排除信息量較少的區域。這種方法由一個基於置信度的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策制定準確性，利用它們的集體優勢。在開放式影像研究系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超越了現有的方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋的人工智慧 (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策制定過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
 ##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
 2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
@@ -6142,7 +6142,7 @@ model presented the most promising results, achieving an overall accuracy of
 摘要：現今，憂鬱症是一個重要的議題。根據世界衛生組織 (WHO) 的資料，在 2023 年，超過 2.8 億人正在與憂鬱症搏鬥。這是一個龐大的數字；如果不認真看待，這些數字將會快速增加。大約有 48.9 億人是社群媒體使用者。人們在 Twitter、Facebook、Reddit、Instagram 等平台上表達自己的感受和情緒。這些平台包含有價值的資訊，可用於研究目的。已經在各種社群媒體平台上進行了大量的研究。然而，這些努力仍存在某些限制。特別是，先前的研究僅專注於偵測推文中的憂鬱症和憂鬱症的強度。此外，資料集標籤中存在不準確的情況。在這項研究工作中，使用基於詞彙標籤的 Twitter 資料庫中的推文預測了五種類型的憂鬱症（雙極型、重度、精神病型、非典型和產後）。可解釋的 AI 用於透過強調代表憂鬱症類型的推文部分來提供推理。從 Transformers（BERT）中提取的雙向編碼器表示用於特徵提取和訓練。機器學習和深度學習方法用於訓練模型。BERT 模型呈現出最有希望的結果，達到 0.96 的整體準確度。
 
 ##### **COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**
-2404.12832v1 by Dmytro Shvetsov, Joonas Ariva, Marharyta Domnich, Raul Vicente, Dmytro Fishman
+2404.12832v2 by Dmytro Shvetsov, Joonas Ariva, Marharyta Domnich, Raul Vicente, Dmytro Fishman
 
 Deep learning is dramatically transforming the field of medical imaging and
 radiology, enabling the identification of pathologies in medical images,
@@ -6170,7 +6170,7 @@ of tumors in CT images, and presents a step forward in making deep learning
 applications more accessible and effective in healthcare, where annotated data
 is scarce.
 
-摘要：深度學習正劇烈地轉變醫學影像和放射學領域，能識別醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛註解資料集需求的限制。為了應對此挑戰，透過可解釋 AI 和反事實解釋的產生，探討了弱監督語意分割的能力。本研究的範圍是開發一種新穎的反事實內繪方法 (COIN)，它透過使用生成模型，將預測分類標籤從異常翻轉為正常。例如，如果分類器將輸入醫學影像 X 視為異常，表示存在病理，生成模型旨在內繪異常區域，從而逆轉分類器的原始預測標籤。此方法使我們能夠產生病理的精確分割，而不依賴於預先存在的分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的分割遮罩容易取得得多。該方法的有效性透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠超越了既定的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是一種很有前景的 CT 影像中腫瘤語意分割方法，並在使深度學習應用在註解資料稀缺的醫療保健中更易於取得和更有效方面邁進了一步。
+摘要：深度学习正大幅轉變醫學影像和放射線學領域，能辨識醫學影像中的病理，包括電腦斷層掃描 (CT) 和 X 光掃描。然而，深度學習模型的效能，特別是在分割任務中，常常受到廣泛註解資料集需求的限制。為了應對此挑戰，透過可解釋 AI 和反事實解釋的產生，探索弱監督語意分割的能力。本研究的範圍是開發一種新的反事實內插方法 (COIN)，該方法使用生成模型將預測的分類標籤從異常翻轉為正常。例如，如果分類器將輸入的醫學影像 X 視為異常，表示存在病理，則生成模型旨在內插異常區域，從而逆轉分類器的原始預測標籤。此方法使我們能夠產生病理的精確分割，而無需依賴於預先存在的分割遮罩。至關重要的是，利用影像層級標籤，這比建立詳細的分割遮罩容易取得。該方法的有效性透過分割合成目標和從愛沙尼亞塔爾圖大學醫院取得的 CT 影像中的實際腎臟腫瘤來證明。研究結果表明，COIN 遠遠超過已建立的歸因方法，例如 RISE、ScoreCAM 和 LayerCAM，以及 Singla 等人提出的另一種反事實解釋方法。此證據表明，COIN 是一種很有前途的 CT 影像中腫瘤語意分割方法，並在醫療保健中讓深度學習應用更易於取得和更有效率邁進一步，其中註解資料很稀少。
 
 ##### **Hybrid Intelligence for Digital Humanities**
 2406.15374v1 by Victor de Boer, Lise Stork
@@ -7761,12 +7761,12 @@ continuum.
 |**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468v1](http://arxiv.org/abs/2407.17468v1)|null|
 |**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467v1](http://arxiv.org/abs/2407.17467v1)|null|
 |**2024-07-24**|**Why Machines Can't Be Moral: Turing's Halting Problem and the Moral Limits of Artificial Intelligence**|Massimo Passamonti et.al.|[2407.16890v1](http://arxiv.org/abs/2407.16890v1)|null|
-|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447v1](http://arxiv.org/abs/2407.17447v1)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447v1](http://arxiv.org/abs/2407.17447v1)|[link](https://github.com/Confirm-Solutions/flrt)|
 |**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412v1](http://arxiv.org/abs/2407.17412v1)|null|
 |**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406v1](http://arxiv.org/abs/2407.17406v1)|[link](https://github.com/zhaoyd1/dep_transformer_grammars)|
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404v1](http://arxiv.org/abs/2407.17404v1)|null|
-|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|null|
+|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|[link](https://github.com/erg0dic/gnn-sg)|
 |**2024-07-24**|**CovScore: Evaluation of Multi-Document Abstractive Title Set Generation**|Itamar Trainin et.al.|[2407.17390v1](http://arxiv.org/abs/2407.17390v1)|null|
 |**2024-07-24**|**PERSONA: A Reproducible Testbed for Pluralistic Alignment**|Louis Castricato et.al.|[2407.17387v1](http://arxiv.org/abs/2407.17387v1)|null|
 |**2024-07-24**|**A Comprehensive Approach to Misspelling Correction with BERT and Levenshtein Distance**|Amirreza Naziri et.al.|[2407.17383v1](http://arxiv.org/abs/2407.17383v1)|null|
@@ -7774,7 +7774,7 @@ continuum.
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349v1](http://arxiv.org/abs/2407.17349v1)|null|
 |**2024-07-24**|**Label Alignment and Reassignment with Generalist Large Language Model for Enhanced Cross-Domain Named Entity Recognition**|Ke Bao et.al.|[2407.17344v1](http://arxiv.org/abs/2407.17344v1)|null|
 |**2024-07-24**|**Preliminary study on artificial intelligence methods for cybersecurity threat detection in computer networks based on raw data packets**|Aleksander Ogonowski et.al.|[2407.17339v1](http://arxiv.org/abs/2407.17339v1)|null|
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**|Leo Yu-Ho Lo et.al.|[2407.17291v1](http://arxiv.org/abs/2407.17291v1)|null|
 |**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
 |**2024-07-24**|**LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover**|Zijian Wu et.al.|[2407.17227v1](http://arxiv.org/abs/2407.17227v1)|null|
@@ -7789,7 +7789,7 @@ continuum.
 |**2024-07-24**|**XMeCap: Meme Caption Generation with Sub-Image Adaptability**|Yuyan Chen et.al.|[2407.17152v1](http://arxiv.org/abs/2407.17152v1)|null|
 |**2024-07-24**|**SimCT: A Simple Consistency Test Protocol in LLMs Development Lifecycle**|Fufangchen Zhao et.al.|[2407.17150v1](http://arxiv.org/abs/2407.17150v1)|null|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126v1](http://arxiv.org/abs/2407.17126v1)|null|
-|**2024-07-24**|**Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?**|Anastasiia Sedova et.al.|[2407.17125v1](http://arxiv.org/abs/2407.17125v1)|null|
+|**2024-07-24**|**Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?**|Anastasiia Sedova et.al.|[2407.17125v2](http://arxiv.org/abs/2407.17125v2)|null|
 |**2024-07-24**|**Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective**|Jingren Liu et.al.|[2407.17120v1](http://arxiv.org/abs/2407.17120v1)|null|
 |**2024-07-24**|**EverAdapt: Continuous Adaptation for Dynamic Machine Fault Diagnosis Environments**|Edward et.al.|[2407.17117v1](http://arxiv.org/abs/2407.17117v1)|null|
 |**2024-07-24**|**Neural Dueling Bandits**|Arun Verma et.al.|[2407.17112v1](http://arxiv.org/abs/2407.17112v1)|null|
@@ -7797,13 +7797,13 @@ continuum.
 |**2024-07-24**|**Towards Robust Knowledge Tracing Models via k-Sparse Attention**|Shuyan Huang et.al.|[2407.17097v1](http://arxiv.org/abs/2407.17097v1)|[link](https://github.com/pykt-team/pykt-toolkit)|
 |**2024-07-24**|**OVR: A Dataset for Open Vocabulary Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2407.17085v1](http://arxiv.org/abs/2407.17085v1)|null|
 |**2024-07-24**|**When Text and Images Don't Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection**|Adam Goodge et.al.|[2407.17083v1](http://arxiv.org/abs/2407.17083v1)|null|
-|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v1](http://arxiv.org/abs/2407.17075v1)|null|
+|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v2](http://arxiv.org/abs/2407.17075v2)|null|
 |**2024-07-24**|**Curriculum Negative Mining For Temporal Networks**|Ziyue Chen et.al.|[2407.17070v1](http://arxiv.org/abs/2407.17070v1)|[link](https://github.com/zziyue83/curnm)|
 |**2024-07-24**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060v1](http://arxiv.org/abs/2407.17060v1)|null|
 |**2024-07-24**|**Time Series Missing Imputation with Multivariate Radial Basis Function Neural Network**|Chanyoung Jung et.al.|[2407.17040v1](http://arxiv.org/abs/2407.17040v1)|null|
 |**2024-07-24**|**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**|Jian Xu et.al.|[2407.17033v1](http://arxiv.org/abs/2407.17033v1)|null|
 |**2024-07-24**|**From Internal Conflict to Contextual Adaptation of Language Models**|Sara Vera Marjanović et.al.|[2407.17023v1](http://arxiv.org/abs/2407.17023v1)|null|
-|**2024-07-24**|**Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education**|Seungyoon Kim et.al.|[2407.17022v1](http://arxiv.org/abs/2407.17022v1)|null|
+|**2024-07-24**|**Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education**|Seungyoon Kim et.al.|[2407.17022v1](http://arxiv.org/abs/2407.17022v1)|[link](https://github.com/seungyoon1/llm-as-a-judge-human-eval)|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011v1](http://arxiv.org/abs/2407.17011v1)|null|
 |**2024-07-24**|**SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**|Changchang Yin et.al.|[2407.16999v1](http://arxiv.org/abs/2407.16999v1)|[link](https://github.com/yinchangchang/sepsislab)|
 |**2024-07-24**|**Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective**|Yujian Liu et.al.|[2407.16997v1](http://arxiv.org/abs/2407.16997v1)|[link](https://github.com/ucsb-nlp-chang/causal_unlearn)|
@@ -7812,13 +7812,13 @@ continuum.
 |**2024-07-24**|**Case-Enhanced Vision Transformer: Improving Explanations of Image Similarity with a ViT-based Similarity Metric**|Ziwei Zhao et.al.|[2407.16981v1](http://arxiv.org/abs/2407.16981v1)|null|
 |**2024-07-24**|**Towards Aligning Language Models with Textual Feedback**|Saüc Abadal Lloret et.al.|[2407.16970v1](http://arxiv.org/abs/2407.16970v1)|[link](https://github.com/sauc-abadal/alt)|
 |**2024-07-24**|**Stochastic Variance-Reduced Iterative Hard Thresholding in Graph Sparsity Optimization**|Derek Fox et.al.|[2407.16968v1](http://arxiv.org/abs/2407.16968v1)|[link](https://github.com/derek-fox/graph-scsg-iht)|
-|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|null|
-|**2024-07-24**|**Cheems: Wonderful Matrices More Efficient and More Effective Architecture**|Jingze Shi et.al.|[2407.16958v1](http://arxiv.org/abs/2407.16958v1)|null|
+|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
+|**2024-07-24**|**Cheems: Wonderful Matrices More Efficient and More Effective Architecture**|Jingze Shi et.al.|[2407.16958v2](http://arxiv.org/abs/2407.16958v2)|null|
 |**2024-07-24**|**Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation**|Huimin Lu et.al.|[2407.16951v1](http://arxiv.org/abs/2407.16951v1)|null|
 |**2024-07-24**|**Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model**|Jaewoong Choi et.al.|[2407.16939v1](http://arxiv.org/abs/2407.16939v1)|null|
 |**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938v1](http://arxiv.org/abs/2407.16938v1)|[link](https://github.com/jesse-merhi/CNN-TRAJGAN)|
 |**2024-07-24**|**ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering**|Xiuying Chen et.al.|[2407.16931v1](http://arxiv.org/abs/2407.16931v1)|null|
-|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|null|
+|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|[link](https://github.com/ybseo-academy/TAALM)|
 |**2024-07-23**|**Generation Constraint Scaling Can Mitigate Hallucination**|Georgios Kollias et.al.|[2407.16908v1](http://arxiv.org/abs/2407.16908v1)|null|
 |**2024-07-23**|**$\textit{BenchIE}^{FL}$ : A Manually Re-Annotated Fact-Based Open Information Extraction Benchmark**|Fabrice Lamarche et.al.|[2407.16860v1](http://arxiv.org/abs/2407.16860v1)|null|
 |**2024-07-23**|**Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments**|Pai Zhu et.al.|[2407.16840v1](http://arxiv.org/abs/2407.16840v1)|null|
@@ -7827,14 +7827,14 @@ continuum.
 |**2024-07-23**|**Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach**|Zhuowan Li et.al.|[2407.16833v1](http://arxiv.org/abs/2407.16833v1)|null|
 |**2024-07-23**|**Networks of Networks: Complexity Class Principles Applied to Compound AI Systems Design**|Jared Quincy Davis et.al.|[2407.16831v1](http://arxiv.org/abs/2407.16831v1)|null|
 |**2024-07-23**|**Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems**|Timo Wilm et.al.|[2407.16828v1](http://arxiv.org/abs/2407.16828v1)|[link](https://github.com/otto-de/multitron)|
-|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|null|
+|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
 |**2024-07-23**|**In Search for Architectures and Loss Functions in Multi-Objective Reinforcement Learning**|Mikhail Terekhov et.al.|[2407.16807v1](http://arxiv.org/abs/2407.16807v1)|null|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|
 |**2024-07-23**|**Distribution-Aware Robust Learning from Long-Tailed Data with Noisy Labels**|Jae Soon Baik et.al.|[2407.16802v1](http://arxiv.org/abs/2407.16802v1)|[link](https://github.com/jaesoonbaik1213/dasc)|
 |**2024-07-23**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789v1](http://arxiv.org/abs/2407.16789v1)|[link](https://github.com/benjaminrwilson/range-view-3d-detection)|
 |**2024-07-23**|**VisMin: Visual Minimal-Change Understanding**|Rabiul Awal et.al.|[2407.16772v1](http://arxiv.org/abs/2407.16772v1)|null|
 |**2024-07-23**|**Infinite Ends from Finite Samples: Open-Ended Goal Inference as Top-Down Bayesian Filtering of Bottom-Up Proposals**|Tan Zhi-Xuan et.al.|[2407.16770v1](http://arxiv.org/abs/2407.16770v1)|null|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695v1](http://arxiv.org/abs/2407.16695v1)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695v1](http://arxiv.org/abs/2407.16695v1)|[link](https://github.com/ink-usc/lifelong-icl)|
 |**2024-07-23**|**Explanation Regularisation through the Lens of Attributions**|Pedro Ferreira et.al.|[2407.16693v1](http://arxiv.org/abs/2407.16693v1)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686v1](http://arxiv.org/abs/2407.16686v1)|null|
 |**2024-07-23**|**OpenDevin: An Open Platform for AI Software Developers as Generalist Agents**|Xingyao Wang et.al.|[2407.16741v1](http://arxiv.org/abs/2407.16741v1)|[link](https://github.com/opendevin/opendevin)|
@@ -7848,10 +7848,10 @@ continuum.
 |**2024-07-23**|**Semantic Change Characterization with LLMs using Rhetorics**|Jader Martins Camboim de Sá et.al.|[2407.16624v1](http://arxiv.org/abs/2407.16624v1)|null|
 |**2024-07-23**|**Theoretical Analysis of Privacy Leakage in Trustworthy Federated Learning: A Perspective from Linear Algebra and Optimization Theory**|Xiaojin Zhang et.al.|[2407.16735v1](http://arxiv.org/abs/2407.16735v1)|null|
 |**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|null|
-|**2024-07-23**|**No-brainer: Morphological Computation driven Adaptive Behavior in Soft Robots**|Alican Mertan et.al.|[2407.16613v1](http://arxiv.org/abs/2407.16613v1)|null|
+|**2024-07-23**|**No-brainer: Morphological Computation driven Adaptive Behavior in Soft Robots**|Alican Mertan et.al.|[2407.16613v1](http://arxiv.org/abs/2407.16613v1)|[link](https://github.com/mertan-a/no-brainer)|
 |**2024-07-23**|**Local vs Global continual learning**|Giulia Lanzillotta et.al.|[2407.16611v1](http://arxiv.org/abs/2407.16611v1)|null|
 |**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
-|**2024-07-23**|**Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**|Jonathan Hayase et.al.|[2407.16607v1](http://arxiv.org/abs/2407.16607v1)|null|
+|**2024-07-23**|**Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**|Jonathan Hayase et.al.|[2407.16607v2](http://arxiv.org/abs/2407.16607v2)|null|
 |**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604v1](http://arxiv.org/abs/2407.16604v1)|null|
 |**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594v1](http://arxiv.org/abs/2407.16594v1)|null|
 |**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
@@ -8282,7 +8282,7 @@ providing a comprehensive foundation for our research.
 在本文中，我們探討了能夠直接從網路流量中的原始封包資料即時偵測攻擊的深度學習方法。我們提出了一種新穎的方法，其中封包堆疊到視窗中並分別識別，並使用適合電腦視覺模型處理的 2D 影像表示。我們的研究利用 CIC IDS-2017 資料集，其中包含良性流量和普遍的真實世界攻擊，為我們的研究提供了全面的基礎。
 
 ##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v1 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
+2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
 
 Dementia, a debilitating neurological condition affecting millions worldwide,
 presents significant diagnostic challenges. In this work, we introduce a novel
@@ -8304,7 +8304,7 @@ decision-making process and the importance of our methodology. This research
 offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
-摘要：失智症是一種影響全世界數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項研究中，我們介紹了一種創新的方法，用於對失智和未失智的老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用一種獨特的技術，選擇性地處理 MRI 切片，重點關注最相關的大腦區域並排除信息量較少的區域。這種方法由一個基於置信度的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策制定準確性，利用它們的集體優勢。在開放式影像研究系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超越了現有的方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋的人工智慧 (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策制定過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
 ##### **How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**
 2407.17291v1 by Leo Yu-Ho Lo, Huamin Qu
@@ -8629,7 +8629,7 @@ significantly reduced time and cost.
 摘要：從非結構化的醫療筆記中萃取健康的社會決定因素 (SDoH) 仰賴大量的人工標註，而這些標註通常是針對特定任務，這會阻礙可重複使用性並限制分享。在這項研究中，我們引入了 SDoH-GPT，一種簡單且有效的方法，它利用對比範例和簡潔的指示來萃取 SDoH，而不需要仰賴大量的醫療標註或昂貴的人工介入。它分別在時間和成本上達到了十倍和二十倍的降低，並且與人類標註者的優異一致性，由 Cohen's kappa 測量高達 0.92。SDoH-GPT 和 XGBoost 的創新結合利用了兩者的優點，確保了高準確度和運算效率，同時始終維持 0.90+ 的 AUROC 分數。在三個不同的資料集上進行測試已經確認了它的穩健性和準確性。這項研究突顯了利用 LLM 來革新醫療筆記分類的潛力，展示了它們在顯著減少時間和成本的情況下實現高度準確分類的能力。
 
 ##### **Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?**
-2407.17125v1 by Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank
+2407.17125v2 by Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank
 
 One of the major aspects contributing to the striking performance of large
 language models (LLMs) is the vast amount of factual knowledge accumulated
@@ -8647,7 +8647,7 @@ knowledge without being able to utilize it, significant biases for preferred
 readings, as well as self inconsistencies. Our study highlights the importance
 of handling entity ambiguity in future for more trustworthy LLMs
 
-摘要：大型語言模型 (LLM) 驚人表現的主要因素之一，是在預訓練期間累積的龐大知識。然而，許多 LLM 都有自我矛盾的問題，這讓人質疑它們的信賴度和可靠性。在本文中，我們專注於實體類型歧義，並分析當前最先進的 LLM，以了解它們在歧義實體提示下應用事實知識的熟練度和一致性。為此，我們提出了一個評估協議，將知識的了解與應用區分開來，並在 49 個實體上測試最先進的 LLM。我們的實驗表明，LLM 在含糊的提示下表現不佳，僅達到 80% 的準確度。我們的結果進一步證明了 LLM 行為中的系統性差異，以及它們無法一致應用資訊，這表明這些模型可以展示知識，但無法利用它，對偏好的解讀有顯著的偏見，以及自我矛盾。我們的研究強調了在未來處理實體歧義以獲得更值得信賴的 LLM 的重要性
+摘要：大型語言模型 (LLM) 表現傑出的主要原因之一，是預訓練期間累積了大量的知識。然而，許多 LLM 都有自我矛盾的問題，這讓人質疑其可信度和可靠性。在本文中，我們專注於實體類型歧義，並分析目前最先進的 LLM，了解其在歧義實體提示下應用知識的熟練度和一致性。為此，我們提出一個評估協定，將知識與應用知識區分開來，並在 49 個實體上測試最先進的 LLM。我們的實驗顯示，LLM 在含糊的提示下表現不佳，僅達到 80% 的準確度。我們的結果進一步證明了 LLM 行為中的系統性差異，以及它們無法一致應用資訊，這表明模型可以表現出知識，但無法利用它，對首選讀數有顯著的偏見，以及自我矛盾。我們的研究強調了在未來處理實體歧義對於更值得信賴的 LLM 的重要性
 
 ##### **Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective**
 2407.17120v1 by Jingren Liu, Zhong Ji, YunLong Yu, Jiale Cao, Yanwei Pang, Jungong Han, Xuelong Li
@@ -8823,7 +8823,7 @@ limited.
 摘要：對比語言影像預訓練 (CLIP) 透過影像與文字輸入嵌入的對齊，在各種下游任務中取得顯著的效能，並對異常偵測極具前景。然而，我們的實證實驗顯示，文字輸入的嵌入意外地緊密地聚集在一起，遠離影像嵌入，這與模型的對比訓練目標（對齊影像文字輸入對）相違背。我們顯示這個現象會引發「相似性偏差」，其中假負面和假正面錯誤會發生，原因是影像與正常標籤文字嵌入之間的相似性偏差。為了解決這個偏差，我們提出一個新方法，稱為 BLISS，透過使用輔助的外部文字輸入集，直接說明這個相似性偏差。BLISS 很簡單，不需要關於異常行為的強歸納偏差，也不需要昂貴的訓練過程，而且在基準影像資料集上明顯優於基線方法，即使在正常資料的存取極為有限的情況下也是如此。
 
 ##### **SAFETY-J: Evaluating Safety with Critique**
-2407.17075v1 by Yixiu Liu, Yuxiang Zheng, Shijie Xia, Yuan Guo, Jiajun Li, Yi Tu, Chaoling Song, Pengfei Liu
+2407.17075v2 by Yixiu Liu, Yuxiang Zheng, Shijie Xia, Yuan Guo, Jiajun Li, Yi Tu, Chaoling Song, Pengfei Liu
 
 The deployment of Large Language Models (LLMs) in content generation raises
 significant safety concerns, particularly regarding the transparency and
@@ -8841,10 +8841,10 @@ technique to dynamically refine safety assessments based on meta-evaluations
 and critiques. Our evaluations demonstrate that SAFETY-J provides more nuanced
 and accurate safety evaluations, thereby enhancing both critique quality and
 predictive reliability in complex content scenarios. To facilitate further
-research and application, we will open-source SAFETY-J's training protocols,
-datasets, and code.
+research and application, we open-source SAFETY-J's training protocols,
+datasets, and code at \url{https://github.com/GAIR-NLP/Safety-J}.
 
-摘要：大型語言模型 (LLM) 在內容生成中的部署引發了重大的安全問題，特別是在內容評估的透明度和可解釋性方面。目前的方法主要集中在二元安全分類上，缺乏詳細的批評機制，限制了它們在模型改進和使用者信任方面的效用。為了解決這些限制，我們引入了 SAFETY-J，這是一個基於批判判斷的英語和中文雙語生成安全評估器。SAFETY-J 利用一個強大的訓練資料集，其中包括多樣化的對話和增強的查詢回應對，以全面評估各種場景中的安全性。我們建立了一個自動化元評估基準，可以客觀地評估批評的品質，並將人為干預降至最低，促進可擴展和持續的改進。此外，SAFETY-J 採用了一種迭代偏好學習技術，根據元評估和批評動態地改進安全評估。我們的評估表明，SAFETY-J 提供了更加細緻且準確的安全評估，從而提高了複雜內容場景中的批評品質和預測可靠性。為了促進進一步的研究和應用，我們將開放 SAFETY-J 的訓練協定、資料集和程式碼。
+摘要：大型語言模型 (LLM) 在內容生成中的部署引發了重大的安全問題，特別是關於內容評估的透明度和可解釋性。目前的方法主要集中在二元安全分類上，缺乏詳細的批評機制，限制了它們在模型改進和使用者信任方面的效用。為了解決這些限制，我們引入了 SAFETY-J，這是一個基於批評判斷的英語和中文雙語生成安全評估器。SAFETY-J 使用了一個強大的訓練資料集，其中包括多樣化的對話和增強的查詢回應對，以全面評估各種場景中的安全性。我們建立了一個自動化的元評估基準，可以客觀地評估批評的品質，並將人為干預降至最低，促進可擴展和持續的改進。此外，SAFETY-J 採用了一種迭代偏好學習技術，根據元評估和批評動態優化安全評估。我們的評估表明，SAFETY-J 提供了更細緻且準確的安全評估，從而提高了複雜內容場景中的批評品質和預測可靠性。為了促進進一步的研究和應用，我們開放了 SAFETY-J 的訓練協議、資料集和程式碼，網址為 \url{https://github.com/GAIR-NLP/Safety-J}。
 
 ##### **Curriculum Negative Mining For Temporal Networks**
 2407.17070v1 by Ziyue Chen, Tongya Zheng, Mingli Song
@@ -9190,7 +9190,7 @@ management.
 摘要：本研究探討在不確定性下中風的診斷和治療的挑戰，這是考量到中風狀況（例如動脈瘤、動靜脈畸形 (AVM) 和阻塞）的快速進展和嚴重後果而出現的關鍵問題。目前的診斷方法（包括數位減影血管攝影 (DSA)）由於成本高昂和侵入性而面臨限制。為了克服這些挑戰，我們提出了一種使用部分可觀察馬可夫決策過程 (POMDP) 架構的新穎方法。我們的模型整合了先進的診斷工具和治療方法，以及一個決策演算法，該演算法考量了中風診斷中固有的不確定性。我們的做法結合了來自電腦斷層掃描、Siriraj 評分和 DSA 報告的雜訊觀測值，以告知後續的治療選項。我們利用線上求解器 DESPOT，它採用樹狀搜尋方法和粒子濾波器，模擬潛在的未來情境並指導我們的策略。結果表明，我們的 POMDP 架構平衡了診斷和治療目標，在透過 DSA 等侵入性程序精確識別中風的需求與需要更具成本效益的策略（例如住院或居家觀察）的醫療資源限制之間取得平衡，僅依賴模擬推出且不施加任何先驗知識。我們的研究透過提出一個系統性架構，最佳化整合中風的診斷和治療過程並考量各種不確定性，從而改善中風管理的照護和結果，做出了重大貢獻。
 
 ##### **Cheems: Wonderful Matrices More Efficient and More Effective Architecture**
-2407.16958v1 by Jingze Shi, Lu He, Yuhan Wang, Tianyu He, Bingheng Wu, Mingkun Hou
+2407.16958v2 by Jingze Shi, Lu He, Yuhan Wang, Tianyu He, Bingheng Wu, Mingkun Hou
 
 Recent studies have shown that, relative position encoding performs well in
 selective state space model scanning algorithms, and the architecture that
@@ -9204,7 +9204,7 @@ wonderful in different algorithms, which allows us to establish a new hybrid
 sparse architecture: Cheems. Compared with other hybrid architectures, it is
 more efficient and more effective in language modeling tasks.
 
-摘要：最近的研究表明，相对位置编码在选择性状态空间模型扫描算法中表现良好，而平衡 SSM 和注意力的架构增强了算法的效率和有效性，而专家混合的稀疏激活减少了训练成本。我研究了在结构化状态空间双重算法中使用不同位置编码的有效性，以及更有效的 SSD-Attn 内部和外部函数混合方法，并设计了一种更有效的跨域专家混合。我发现同一个矩阵在不同的算法中非常奇妙，这让我们能够建立一个新的混合稀疏架构：Cheems。与其他混合架构相比，它在语言建模任务中更有效率、更有效。
+摘要：最近的研究表明，相对位置编码在选择性状态空间模型扫描算法中表现良好，而平衡 SSM 和注意力的架构提高了算法的效率和有效性，而专家混合的稀疏激活降低了训练成本。我研究了在结构化状态空间对偶算法中使用不同位置编码的有效性，以及更有效的 SSD-Attn 内部和外部功能混合方法，并设计了一种更有效的跨域专家混合。我发现同一个矩阵在不同的算法中非常精彩，这使我们能够建立一个新的混合稀疏架构：Cheems。与其他混合架构相比，它在语言建模任务中更有效率、更有效。
 
 ##### **Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation**
 2407.16951v1 by Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata
@@ -10081,9 +10081,9 @@ where early detection prevents the development of colon cancer.
 摘要：大腸息肉通常是良性病變，如果不及時發現並成功處理，可能會演變成癌症並導致大腸粘膜受累，即腺癌。如今，深度學習的進展已證明有能力在醫療診斷應用中實現圖像分類和檢測的顯著性能。儘管如此，這些模型容易過度擬合，並且僅基於點估計做出決策可能會提供不正確的預測。因此，為了獲得更明智的決策，我們必須考慮點估計及其可靠的不確定性量化。在本文中，我們基於後驗分佈的靈活性構建了不同的貝葉斯神經網絡方法，以開發大腸息肉圖像的語義分割。我們發現這些模型不僅在這個醫療數據集的分割上提供了最先進的性能，而且還產生了準確的不確定性估計。我們在確定性和貝葉斯版本中使用多個主幹測試的 UNET、FPN 和 LINKNET 架構上應用乘法歸一化流 (MNF) 和重新參數化技巧。我們報告說，具有 MNF 的 FPN + EfficientnetB7 架構是最有希望的選擇，因為它的 IOU 為 0.94，預期的校準誤差 (ECE) 為 0.004，並且在識別難以檢測的大腸息肉方面具有優越性，這在早期檢測可以防止結腸癌發展的臨床領域是有效的。
 
 ##### **Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**
-2407.16607v1 by Jonathan Hayase, Alisa Liu, Yejin Choi, Sewoong Oh, Noah A. Smith
+2407.16607v2 by Jonathan Hayase, Alisa Liu, Yejin Choi, Sewoong Oh, Noah A. Smith
 
-The pretraining data of today's strongest language models is opaque. In
+The pretraining data of today's strongest language models is opaque; in
 particular, little is known about the proportions of various domains or
 languages represented. In this work, we tackle a task which we call data
 mixture inference, which aims to uncover the distributional make-up of training
@@ -10097,7 +10097,7 @@ Given a tokenizer's merge list along with data samples for each category of
 interest, we formulate a linear program that solves for the proportion of each
 category in the tokenizer's training set. Importantly, to the extent to which
 tokenizer training data is representative of the pretraining data, we
-indirectly learn about the pretraining data. In controlled experiments, we show
+indirectly learn about pretraining data. In controlled experiments, we show
 that our attack recovers mixture ratios with high precision for tokenizers
 trained on known mixtures of natural languages, programming languages, and data
 sources. We then apply our approach to off-the-shelf tokenizers released with
@@ -10109,7 +10109,7 @@ Claude's tokenizers are trained on predominantly code (~60%). We hope our work
 sheds light on current design practices for pretraining data, and inspires
 continued research into data mixture inference for LMs.
 
-摘要：<paragraph>當前最強大的語言模型的預訓練數據是模糊不清的。特別是，對於各種領域或語言所占比例的了解甚少。在這項工作中，我們處理了一項稱為數據混合推論的任務，旨在揭示訓練數據的分布式組成。我們引入了一種新穎的攻擊方法，該方法基於一個以前被忽視的信息來源——字節對編碼 (BPE) 分詞器，它被絕大多數現代語言模型使用。我們的關鍵見解是，BPE 分詞器學習到的合併規則的有序列表自然地揭示了其訓練數據中詞頻的信息：第一次合併是最常見的字節對，第二次合併是最常見的對，依此類推。給定分詞器的合併列表以及每個感興趣類別的數據樣本，我們制定了一個線性規劃，用於求解分詞器訓練集中每個類別的比例。重要的是，在分詞器訓練數據代表預訓練數據的範圍內，我們間接了解了預訓練數據。在受控實驗中，我們表明我們的攻擊以高精度恢復了在已知自然語言、編程語言和數據源混合物上訓練的分詞器的混合比例。然後，我們將我們的做法應用於最近發布的開箱即用分詞器與 LMs。我們確認了關於這些模型的許多公開披露的信息，還做出了幾個新的推論：GPT-4o 的分詞器比其前輩更加多語言，在 39% 的非英語數據上進行訓練；Llama3 主要為多語言（48%）使用擴展了 GPT-3.5 的分詞器；GPT-3.5 和 Claude 的分詞器主要在代碼（~60%）上進行訓練。我們希望我們的工作能為預訓練數據的當前設計實務提供啟示，並激勵繼續研究 LMs 的數據混合推論。</paragraph>
+摘要：當今最強大的語言模型的預訓練資料是不透明的；特別是，對於各種領域或語言的比例知之甚少。在這項工作中，我們處理一項我們稱之為資料混合推論的任務，其目的是揭示訓練資料的分布式組成。我們引入了一種基於先前被忽視的資訊來源的新攻擊——位元組對編碼 (BPE) 代幣器，它被絕大多數現代語言模型所使用。我們的關鍵見解是，BPE 代幣器所學習的合併規則的有序清單自然地揭示了其訓練資料中代幣頻率的資訊：第一次合併是最常見的位元組對，第二次合併是最常見的對，依此類推。給定一個代幣器的合併清單以及每個感興趣類別的資料範例，我們制定了一個線性程式，用於解決代幣器訓練集中每個類別的比例。重要的是，在代幣器訓練資料代表預訓練資料的程度下，我們間接了解了預訓練資料。在受控實驗中，我們展示了我們的攻擊以高精度恢復了在已知自然語言、程式語言和資料來源混合物上訓練的代幣器的混合比率。然後，我們將我們的做法應用於與近期 LM 一起發布的現成代幣器。我們確認了關於這些模型的大量公開資訊，並做出了幾個新的推論：GPT-4o 的代幣器比其前身更具多語言性，在 39% 的非英語資料上進行訓練；Llama3 主要為多語言 (48%) 使用而擴充了 GPT-3.5 的代幣器；GPT-3.5 和 Claude 的代幣器主要在程式碼 (~60%) 上進行訓練。我們希望我們的努力能為預訓練資料的當前設計實務提供啟發，並激勵持續研究 LM 的資料混合推論。
 
 ##### **Shared Imagination: LLMs Hallucinate Alike**
 2407.16604v1 by Yilun Zhou, Caiming Xiong, Silvio Savarese, Chien-Sheng Wu

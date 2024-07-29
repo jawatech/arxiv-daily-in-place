@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v1](http://arxiv.org/abs/2407.18752v1)|[link](https://github.com/littleflow3r/kg-structure-as-prompt)|
+|**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607v1](http://arxiv.org/abs/2407.18607v1)|null|
+|**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479v1](http://arxiv.org/abs/2407.18479v1)|null|
 |**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
 |**2024-07-24**|**MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**|Arya Bulusu et.al.|[2407.17544v1](http://arxiv.org/abs/2407.17544v1)|[link](https://github.com/emergenceai/mathviz-e)|
 |**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375v1](http://arxiv.org/abs/2407.16375v1)|[link](https://github.com/haddocking/deeprank-gnn-esm)|
@@ -13,6 +16,7 @@
 |**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
 |**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141v1](http://arxiv.org/abs/2407.15141v1)|null|
 |**2024-07-20**|**On the Design and Analysis of LLM-Based Algorithms**|Yanxi Chen et.al.|[2407.14788v1](http://arxiv.org/abs/2407.14788v1)|[link](https://github.com/modelscope/agentscope)|
+|**2024-07-19**|**LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits**|Chen-Chia Chang et.al.|[2407.18269v1](http://arxiv.org/abs/2407.18269v1)|null|
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
@@ -98,12 +102,85 @@
 |**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
 |**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v2](http://arxiv.org/abs/2406.15294v2)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
-|**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214v1](http://arxiv.org/abs/2406.15214v1)|null|
-|**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v2](http://arxiv.org/abs/2406.14969v2)|null|
-|**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745v2](http://arxiv.org/abs/2406.14745v2)|null|
-|**2024-06-20**|**Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**|Seungbeen Lee et.al.|[2406.14703v1](http://arxiv.org/abs/2406.14703v1)|null|
 
 #### Abstracts
+##### **Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**
+2407.18752v1 by Yuni Susanti, Michael Färber
+
+Causal discovery aims to estimate causal structures among variables based on
+observational data. Large Language Models (LLMs) offer a fresh perspective to
+tackle the causal discovery problem by reasoning on the metadata associated
+with variables rather than their actual data values, an approach referred to as
+knowledge-based causal discovery. In this paper, we investigate the
+capabilities of Small Language Models (SLMs, defined as LLMs with fewer than 1
+billion parameters) with prompt-based learning for knowledge-based causal
+discovery. Specifically, we present KG Structure as Prompt, a novel approach
+for integrating structural information from a knowledge graph, such as common
+neighbor nodes and metapaths, into prompt-based learning to enhance the
+capabilities of SLMs. Experimental results on three types of biomedical and
+open-domain datasets under few-shot settings demonstrate the effectiveness of
+our approach, surpassing most baselines and even conventional fine-tuning
+approaches trained on full datasets. Our findings further highlight the strong
+capabilities of SLMs: in combination with knowledge graphs and prompt-based
+learning, SLMs demonstrate the potential to surpass LLMs with larger number of
+parameters. Our code and datasets are available on GitHub.
+
+摘要：因果發現旨在根據觀測資料估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新觀點，透過推理與變數相關的元資料，而非其實際資料值，來解決因果發現問題，這種方法稱為基於知識的因果發現。在本文中，我們探討小型語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並使用基於提示的學習進行基於知識的因果發現。具體來說，我們提出 KG 結構作為提示，這是一種新穎的方法，可以將來自知識圖表的結構化資訊（例如，共同鄰居節點和元路徑）整合到基於提示的學習中，以增強 SLM 的能力。在少次嘗試的設定下，針對三種類型的生物醫學和開放領域資料集的實驗結果證明了我們方法的有效性，超越了大多數基線，甚至超越了針對完整資料集訓練的傳統微調方法。我們的發現進一步突顯了 SLM 的強大功能：SLM 結合知識圖表和基於提示的學習，證明了超越參數數量較多的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上取得。
+
+##### **Using GPT-4 to guide causal machine learning**
+2407.18607v1 by Anthony C. Constantinou, Neville K. Kitson, Alessio Zanga
+
+Since its introduction to the public, ChatGPT has had an unprecedented
+impact. While some experts praised AI advancements and highlighted their
+potential risks, others have been critical about the accuracy and usefulness of
+Large Language Models (LLMs). In this paper, we are interested in the ability
+of LLMs to identify causal relationships. We focus on the well-established
+GPT-4 (Turbo) and evaluate its performance under the most restrictive
+conditions, by isolating its ability to infer causal relationships based solely
+on the variable labels without being given any context, demonstrating the
+minimum level of effectiveness one can expect when it is provided with
+label-only information. We show that questionnaire participants judge the GPT-4
+graphs as the most accurate in the evaluated categories, closely followed by
+knowledge graphs constructed by domain experts, with causal Machine Learning
+(ML) far behind. We use these results to highlight the important limitation of
+causal ML, which often produces causal graphs that violate common sense,
+affecting trust in them. However, we show that pairing GPT-4 with causal ML
+overcomes this limitation, resulting in graphical structures learnt from real
+data that align more closely with those identified by domain experts, compared
+to structures learnt by causal ML alone. Overall, our findings suggest that
+despite GPT-4 not being explicitly designed to reason causally, it can still be
+a valuable tool for causal representation, as it improves the causal discovery
+process of causal ML algorithms that are designed to do just that.
+
+摘要：自 ChatGPT 向公众发布以来，它产生了前所未有的影响。虽然一些专家赞扬了 AI 的进步并强调了其潜在风险，但其他人一直批评大型语言模型 (LLM) 的准确性和有用性。在本文中，我们对 LLM 识别因果关系的能力感兴趣。我们专注于成熟的 GPT-4（Turbo），并在最严格的条件下评估其性能，通过孤立其仅根据变量标签推断因果关系的能力，而不提供任何上下文，展示了当仅提供标签信息时人们可以预期的最低有效性水平。我们表明，问卷参与者认为 GPT-4 图形在评估类别中是最准确的，紧随其后的是由领域专家构建的知识图谱，因果机器学习 (ML) 远远落后。我们使用这些结果来强调因果 ML 的重要局限性，它经常产生违背常识的因果图，影响人们对它们的信任。然而，我们表明将 GPT-4 与因果 ML 配对可以克服这一限制，从而产生从真实数据中学到的图形结构，与领域专家识别的结构相比，更紧密地与之对齐，而不是仅由因果 ML 学到的结构。总体而言，我们的研究结果表明，尽管 GPT-4 并未明确设计为因果推理，但它仍然可以成为因果表示的宝贵工具，因为它改进了旨在执行此操作的因果 ML 算法的因果发现过程。
+
+##### **Multi-turn Response Selection with Commonsense-enhanced Language Models**
+2407.18479v1 by Yuandong Wang, Xuhui Ren, Tong Chen, Yuxiao Dong, Nguyen Quoc Viet Hung, Jie Tang
+
+As a branch of advanced artificial intelligence, dialogue systems are
+prospering. Multi-turn response selection is a general research problem in
+dialogue systems. With the assistance of background information and pre-trained
+language models, the performance of state-of-the-art methods on this problem
+gains impressive improvement. However, existing studies neglect the importance
+of external commonsense knowledge. Hence, we design a Siamese network where a
+pre-trained Language model merges with a Graph neural network (SinLG). SinLG
+takes advantage of Pre-trained Language Models (PLMs) to catch the word
+correlations in the context and response candidates and utilizes a Graph Neural
+Network (GNN) to reason helpful common sense from an external knowledge graph.
+The GNN aims to assist the PLM in fine-tuning, and arousing its related
+memories to attain better performance. Specifically, we first extract related
+concepts as nodes from an external knowledge graph to construct a subgraph with
+the context response pair as a super node for each sample. Next, we learn two
+representations for the context response pair via both the PLM and GNN. A
+similarity loss between the two representations is utilized to transfer the
+commonsense knowledge from the GNN to the PLM. Then only the PLM is used to
+infer online so that efficiency can be guaranteed. Finally, we conduct
+extensive experiments on two variants of the PERSONA-CHAT dataset, which proves
+that our solution can not only improve the performance of the PLM but also
+achieve an efficient inference.
+
+摘要：作為高級人工智慧的一個分支，對話系統正蓬勃發展。多輪回應用戶回應選擇是對話系統中一個通用的研究問題。在背景資訊和預先訓練的語言模型的協助下，最先進的方法在此問題上的表現獲致令人印象深刻的進步。然而，現有的研究忽略了外部常識知識的重要性。因此，我們設計了一個暹羅網路，其中一個預先訓練的語言模型與一個圖神經網路（SinLG）合併。SinLG 利用預先訓練的語言模型（PLM）來捕捉語境和回應候選中的詞彙關聯，並利用圖神經網路（GNN）從外部知識圖譜推理有用的常識。GNN 旨在協助 PLM 進行微調，並喚醒其相關記憶以獲得更好的表現。具體來說，我們首先從外部知識圖譜中提取相關概念作為節點，以構建一個子圖，其中語境回應對作為每個範例的超級節點。接下來，我們透過 PLM 和 GNN 為語境回應對學習兩個表示。兩個表示之間的相似性損失用於將常識知識從 GNN 轉移到 PLM。然後僅使用 PLM 來進行線上推論，以便保證效率。最後，我們對 PERSONA-CHAT 資料集的兩個變體進行了廣泛的實驗，這證明我們的解決方案不僅可以提高 PLM 的效能，還能實現高效的推論。
+
 ##### **Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**
 2407.18181v1 by Sindhura Kommu, Yizhi Wang, Yue Wang, Xuan Wang
 
@@ -353,6 +430,33 @@ algorithms, we release our source code at
 https://github.com/modelscope/agentscope/tree/main/examples/paper_llm_based_algorithm.
 
 摘要：<paragraph>我們對基於 LLM 的演算法的設計和分析展開正式調查，即包含一個或多個大型語言模型 (LLM) 作為子常式呼叫的演算法，並極度依賴 LLM 的功能。儘管基於 LLM 的演算法，從帶提示工程的基本 LLM 呼叫到複雜的 LLM 驅動的代理系統和複合式 AI 系統，已取得顯著的實證成功，但其設計和最佳化大多依賴試驗法和錯誤，這在很大程度上是因為缺乏對這些演算法的正式和分析研究。為了填補這個空白，我們從識別基於 LLM 的演算法的計算圖表示、任務分解的設計原則，以及一些關鍵抽象化開始，然後促進我們對基於 LLM 的演算法的準確性和效率進行正式分析，儘管 LLM 本身具有黑盒特性。我們進一步考慮並行分解作為案例研究，為此模式的四個具體範例提供廣泛的分析和實證研究。我們提出的架構有望推進基於 LLM 的演算法，方法是揭示奇怪的實證現象背後的原因、指導超參數的選擇、預測演算法的實證效能，並激發新的演算法設計。為了促進對基於 LLM 的演算法的進一步研究，我們在 https://github.com/modelscope/agentscope/tree/main/examples/paper_llm_based_algorithm/ 發布我們的原始碼。</paragraph>
+
+##### **LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits**
+2407.18269v1 by Chen-Chia Chang, Yikang Shan, Shaoze Fan, Jing Li, Shun Zhang, Ningyuan Cao, Yiran Chen, Xin Zhang
+
+In the realm of electronic and electrical engineering, automation of analog
+circuit is increasingly vital given the complexity and customized requirements
+of modern applications. However, existing methods only develop search-based
+algorithms that require many simulation iterations to design a custom circuit
+topology, which is usually a time-consuming process. To this end, we introduce
+LaMAGIC, a pioneering language model-based topology generation model that
+leverages supervised finetuning for automated analog circuit design. LaMAGIC
+can efficiently generate an optimized circuit design from the custom
+specification in a single pass. Our approach involves a meticulous development
+and analysis of various input and output formulations for circuit. These
+formulations can ensure canonical representations of circuits and align with
+the autoregressive nature of LMs to effectively addressing the challenges of
+representing analog circuits as graphs. The experimental results show that
+LaMAGIC achieves a success rate of up to 96\% under a strict tolerance of 0.01.
+We also examine the scalability and adaptability of LaMAGIC, specifically
+testing its performance on more complex circuits. Our findings reveal the
+enhanced effectiveness of our adjacency matrix-based circuit formulation with
+floating-point input, suggesting its suitability for handling intricate circuit
+designs. This research not only demonstrates the potential of language models
+in graph generation, but also builds a foundational framework for future
+explorations in automated analog circuit design.
+
+摘要：在電子和電氣工程領域中，自動化類比電路越來越重要，因為現代應用程式具有複雜且客製化的需求。然而，現有的方法僅開發基於搜尋的演算法，需要許多模擬反覆運算才能設計客製化電路拓撲，這通常是一個耗時的過程。為此，我們引入了 LaMAGIC，一個基於先驅語言模型的拓撲生成模型，它利用監督微調進行自動化類比電路設計。LaMAGIC 可以有效率地從客製化規格中生成最佳化的電路設計，只需一次通過。我們的做法包括仔細開發和分析電路的各種輸入和輸出公式。這些公式可以確保電路的標準表示，並與 LM 的自迴歸性質保持一致，以有效解決將類比電路表示為圖形的挑戰。實驗結果顯示，LaMAGIC 在 0.01 的嚴格容差下實現了高達 96% 的成功率。我們還檢查了 LaMAGIC 的可擴充性和適應性，特別是測試了它在更複雜電路上的效能。我們的研究結果揭示了我們基於鄰接矩陣的電路公式與浮點輸入的增強效能，表明它適用於處理複雜的電路設計。這項研究不僅展示了語言模型在圖形生成中的潛力，也為未來在自動化類比電路設計中的探索建立了基礎框架。
 
 ##### **Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**
 2407.14224v1 by Suvajit Patra, Arkadip Maitra, Megha Tiwari, K. Kumaran, Swathy Prabhu, Swami Punyeshwarananda, Soumitra Samanta
@@ -2384,103 +2488,4 @@ https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp.
 
 摘要：科學文獻的搜尋通常是探索性的，使用者可能還不熟悉某個特定領域或概念，但有興趣進一步了解它。然而，現有的科學文獻搜尋系統通常專門針對基於關鍵字的查詢搜尋，限制了探索的可能性。我們提出 NLP-KG，這是一個功能豐富的系統，旨在支援在不熟悉的自然語言處理 (NLP) 領域中探索研究文獻。除了語意搜尋之外，NLP-KG 使用者可以輕鬆找到提供對感興趣領域的快速介紹的綜述論文。此外，研究領域階層圖讓使用者能夠熟悉一個領域及其相關領域。最後，聊天介面允許使用者詢問有關不熟悉的概念或 NLP 中特定文章的問題，並獲得從科學出版物中擷取的知識為基礎的答案。我們的系統為使用者提供全面的探索可能性，協助他們調查不同領域之間的關係，理解 NLP 中不熟悉的概念，並找到相關的研究文獻。示範、影片和程式碼可在以下網址取得：
 https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp。
-
-##### **Unsupervised Extraction of Dialogue Policies from Conversations**
-2406.15214v1 by Makesh Narsimhan Sreedhar, Traian Rebedea, Christopher Parisien
-
-Dialogue policies play a crucial role in developing task-oriented dialogue
-systems, yet their development and maintenance are challenging and typically
-require substantial effort from experts in dialogue modeling. While in many
-situations, large amounts of conversational data are available for the task at
-hand, people lack an effective solution able to extract dialogue policies from
-this data. In this paper, we address this gap by first illustrating how Large
-Language Models (LLMs) can be instrumental in extracting dialogue policies from
-datasets, through the conversion of conversations into a unified intermediate
-representation consisting of canonical forms. We then propose a novel method
-for generating dialogue policies utilizing a controllable and interpretable
-graph-based methodology. By combining canonical forms across conversations into
-a flow network, we find that running graph traversal algorithms helps in
-extracting dialogue flows. These flows are a better representation of the
-underlying interactions than flows extracted by prompting LLMs. Our technique
-focuses on giving conversation designers greater control, offering a
-productivity tool to improve the process of developing dialogue policies.
-
-摘要：對話政策在開發任務導向對話系統中扮演著至關重要的角色，然而它們的開發和維護具有挑戰性，且通常需要對話建模專家的大量工作。雖然在許多情況下，大量對話資料可用於手邊的工作，但人們缺乏一種有效的解決方案，無法從這些資料中提取對話政策。在本文中，我們透過首先說明大型語言模型 (LLM) 如何透過將對話轉換成由規範形式組成的統一中間表示，從資料集中提取對話政策，來說明如何解決這個差距。然後，我們提出了一種利用可控且可解釋的基於圖形的方法來產生對話政策的新方法。透過將對話中的規範形式組合成流網路，我們發現執行圖形遍歷演算法有助於提取對話流。這些流比透過提示 LLM 提取的流更能代表底層互動。我們的技術專注於讓對話設計師擁有更大的控制權，提供一種生產力工具來改善開發對話政策的過程。
-
-##### **Uni-Mol2: Exploring Molecular Pretraining Model at Scale**
-2406.14969v2 by Xiaohong Ji, Zhen Wang, Zhifeng Gao, Hang Zheng, Linfeng Zhang, Guolin Ke, Weinan E
-
-In recent years, pretraining models have made significant advancements in the
-fields of natural language processing (NLP), computer vision (CV), and life
-sciences. The significant advancements in NLP and CV are predominantly driven
-by the expansion of model parameters and data size, a phenomenon now recognized
-as the scaling laws. However, research exploring scaling law in molecular
-pretraining models remains unexplored. In this work, we present Uni-Mol2 , an
-innovative molecular pretraining model that leverages a two-track transformer
-to effectively integrate features at the atomic level, graph level, and
-geometry structure level. Along with this, we systematically investigate the
-scaling law within molecular pretraining models, characterizing the power-law
-correlations between validation loss and model size, dataset size, and
-computational resources. Consequently, we successfully scale Uni-Mol2 to 1.1
-billion parameters through pretraining on 800 million conformations, making it
-the largest molecular pretraining model to date. Extensive experiments show
-consistent improvement in the downstream tasks as the model size grows. The
-Uni-Mol2 with 1.1B parameters also outperforms existing methods, achieving an
-average 27% improvement on the QM9 and 14% on COMPAS-1D dataset.
-
-摘要：近年来，预训练模型在自然语言处理 (NLP)、计算机视觉 (CV) 和生命科学领域取得了重大进展。NLP 和 CV 的重大进步主要由模型参数和数据量的扩展推动，这一现象现在被认为是缩放定律。然而，探索分子预训练模型中缩放定律的研究仍未得到探索。在这项工作中，我们提出了 Uni-Mol2，一种创新的分子预训练模型，它利用双轨转换器有效地整合原子级、图级和几何结构级的特征。除此之外，我们系统地研究了分子预训练模型中的缩放定律，描述了验证损失与模型大小、数据集大小和计算资源之间的幂律相关性。因此，我们成功地将 Uni-Mol2 扩展到 11 亿个参数，通过对 8 亿个构象进行预训练，使其成为迄今为止最大的分子预训练模型。大量的实验表明，随着模型大小的增长，下游任务持续得到改善。具有 1.1B 参数的 Uni-Mol2 也优于现有方法，在 QM9 上实现了平均 27% 的改进，在 COMPAS-1D 数据集上实现了 14% 的改进。
-
-##### **Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**
-2406.14745v2 by Sefika Efeoglu, Adrian Paschke
-
-Information Extraction (IE) is crucial for converting unstructured data into
-structured formats like Knowledge Graphs (KGs). A key task within IE is
-Relation Extraction (RE), which identifies relationships between entities in
-text. Various RE methods exist, including supervised, unsupervised, weakly
-supervised, and rule-based approaches. Recent studies leveraging pre-trained
-language models (PLMs) have shown significant success in this area. In the
-current era dominated by Large Language Models (LLMs), fine-tuning these models
-can overcome limitations associated with zero-shot LLM prompting-based RE
-methods, especially regarding domain adaptation challenges and identifying
-implicit relations between entities in sentences. These implicit relations,
-which cannot be easily extracted from a sentence's dependency tree, require
-logical inference for accurate identification. This work explores the
-performance of fine-tuned LLMs and their integration into the Retrieval
-Augmented-based (RAG) RE approach to address the challenges of identifying
-implicit relations at the sentence level, particularly when LLMs act as
-generators within the RAG framework. Empirical evaluations on the TACRED,
-TACRED-Revisited (TACREV), Re-TACRED, and SemEVAL datasets show significant
-performance improvements with fine-tuned LLMs, including Llama2-7B, Mistral-7B,
-and T5 (Large). Notably, our approach achieves substantial gains on SemEVAL,
-where implicit relations are common, surpassing previous results on this
-dataset. Additionally, our method outperforms previous works on TACRED, TACREV,
-and Re-TACRED, demonstrating exceptional performance across diverse evaluation
-scenarios.
-
-摘要：資訊萃取（IE）對於將非結構化資料轉換成知識圖譜（KG）等結構化格式至關重要。IE 中的一項關鍵任務是關係萃取（RE），用於識別文字中實體之間的關係。RE 方法多種多樣，包括監督式、非監督式、弱監督式和基於規則的方法。最近利用預訓練語言模型（PLM）的研究已在此領域展現顯著成果。在大型語言模型（LLM）主導的當前時代，微調這些模型可以克服與零次學習 LLM 提示式 RE 方法相關的限制，特別是在領域適應挑戰和識別句子中實體之間的隱含關係方面。這些隱含關係無法輕易從句子的依賴樹中萃取，需要邏輯推論才能準確識別。這項工作探討了微調後的 LLM 的效能，以及它們整合到檢索增強式（RAG）RE 方法中以解決在句子層級識別隱含關係的挑戰，特別是在 LLM 在 RAG 框架中充當生成器的時後。在 TACRED、TACRED-Revisited（TACREV）、Re-TACRED 和 SemEVAL 資料集上的經驗評估顯示，微調後的 LLM，包括 Llama2-7B、Mistral-7B 和 T5（大型），大幅提升了效能。值得注意的是，我們的做法在 SemEVAL 上取得了顯著的進展，因為隱含關係很常見，超越了這個資料集上的先前結果。此外，我們的做法在 TACRED、TACREV 和 Re-TACRED 上優於先前的工作，證明了在不同的評估場景中表現出色的效能。
-
-##### **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**
-2406.14703v1 by Seungbeen Lee, Seungwon Lim, Seungju Han, Giyeong Oh, Hyungjoo Chae, Jiwan Chung, Minju Kim, Beong-woo Kwak, Yeonsoo Lee, Dongha Lee, Jinyoung Yeo, Youngjae Yu
-
-The idea of personality in descriptive psychology, traditionally defined
-through observable behavior, has now been extended to Large Language Models
-(LLMs) to better understand their behavior. This raises a question: do LLMs
-exhibit distinct and consistent personality traits, similar to humans? Existing
-self-assessment personality tests, while applicable, lack the necessary
-validity and reliability for precise personality measurements. To address this,
-we introduce TRAIT, a new tool consisting of 8K multi-choice questions designed
-to assess the personality of LLMs with validity and reliability. TRAIT is built
-on the psychometrically validated human questionnaire, Big Five Inventory (BFI)
-and Short Dark Triad (SD-3), enhanced with the ATOMIC10X knowledge graph for
-testing personality in a variety of real scenarios. TRAIT overcomes the
-reliability and validity issues when measuring personality of LLM with
-self-assessment, showing the highest scores across three metrics: refusal rate,
-prompt sensitivity, and option order sensitivity. It reveals notable insights
-into personality of LLM: 1) LLMs exhibit distinct and consistent personality,
-which is highly influenced by their training data (i.e., data used for
-alignment tuning), and 2) current prompting techniques have limited
-effectiveness in eliciting certain traits, such as high psychopathy or low
-conscientiousness, suggesting the need for further research in this direction.
-
-摘要：在傳統心理學中，人格的概念是透過可觀察的行為來定義的，現在已擴展到大型語言模型 (LLM)，以更了解其行為。這引發了一個問題：LLM 是否像人類一樣表現出獨特且一致的人格特質？現有的自我評量人格測驗雖然適用，但缺乏精確人格測量所需的效度和信度。為了解決這個問題，我們引入了 TRAIT，這是一個由 8K 個多重選擇題組成的全新工具，旨在評估 LLM 的人格，並具備效度和信度。TRAIT 建構於經過心理測量驗證的人類問卷，大五人格量表 (BFI) 和簡短黑暗三元組 (SD-3)，並增強了 ATOMIC10X 知識圖譜，以便在各種實際場景中測試人格。TRAIT 克服了使用自我評量測量 LLM 人格時的信度和效度問題，在三項指標（拒絕率、提示敏感度和選項順序敏感度）中顯示出最高分。它揭示了 LLM 人格的重要見解：1) LLM 表現出獨特且一致的人格，這深受其訓練資料（即用於對齊調整的資料）影響，以及 2) 目前的提示技術在引發某些特質（例如高精神病質或低盡責性）方面效果有限，這表示需要進一步研究這個方向。
 

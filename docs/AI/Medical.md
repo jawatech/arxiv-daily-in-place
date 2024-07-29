@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525v1](http://arxiv.org/abs/2407.18525v1)|[link](https://github.com/yhzhu99/ehr-llm-benchmark)|
+|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v1](http://arxiv.org/abs/2407.18483v1)|[link](https://github.com/sperfu/eyedoc)|
+|**2024-07-25**|**HDL-GPT: High-Quality HDL is All You Need**|Bhuvnesh Kumar et.al.|[2407.18423v1](http://arxiv.org/abs/2407.18423v1)|null|
+|**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
+|**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v1](http://arxiv.org/abs/2407.18343v1)|null|
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
 |**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|[link](https://github.com/scjjb/MultiscalePathGraph)|
 |**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v1](http://arxiv.org/abs/2407.17879v1)|null|
@@ -97,13 +102,137 @@
 |**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410v1](http://arxiv.org/abs/2407.08410v1)|[link](https://github.com/robbieholland/specialistvlms)|
 |**2024-07-11**|**Unveiling Disparities in Maternity Care: A Topic Modelling Approach to Analysing Maternity Incident Investigation Reports**|Georgina Cosma et.al.|[2407.08328v1](http://arxiv.org/abs/2407.08328v1)|null|
 |**2024-07-11**|**Predicting Heart Failure with Attention Learning Techniques Utilizing Cardiovascular Data**|Ershadul Haque et.al.|[2407.08289v1](http://arxiv.org/abs/2407.08289v1)|null|
-|**2024-07-11**|**Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**|Tianyi Zhang et.al.|[2407.08240v1](http://arxiv.org/abs/2407.08240v1)|null|
-|**2024-07-11**|**DALL-M: Context-Aware Clinical Data Augmentation with LLMs**|Chihcheng Hsieh et.al.|[2407.08227v1](http://arxiv.org/abs/2407.08227v1)|[link](https://github.com/chihchenghsieh/dall-m)|
-|**2024-07-11**|**Synthetic Electroretinogram Signal Generation Using Conditional Generative Adversarial Network for Enhancing Classification of Autism Spectrum Disorder**|Mikhail Kulyabin et.al.|[2407.08166v1](http://arxiv.org/abs/2407.08166v1)|null|
-|**2024-07-11**|**Highway Networks for Improved Surface Reconstruction: The Role of Residuals and Weight Updates**|A. Noorizadegan et.al.|[2407.08134v1](http://arxiv.org/abs/2407.08134v1)|[link](https://github.com/cmmai/resnet_for_pinn)|
-|**2024-07-10**|**Machine Learning for ALSFRS-R Score Prediction: Making Sense of the Sensor Data**|Ritesh Mehta et.al.|[2407.08003v1](http://arxiv.org/abs/2407.08003v1)|null|
 
 #### Abstracts
+##### **Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**
+2407.18525v1 by Yinghao Zhu, Junyi Gao, Zixiang Wang, Weibin Liao, Xiaochen Zheng, Lifang Liang, Yasha Wang, Chengwei Pan, Ewen M. Harrison, Liantao Ma
+
+The use of Large Language Models (LLMs) in medicine is growing, but their
+ability to handle both structured Electronic Health Record (EHR) data and
+unstructured clinical notes is not well-studied. This study benchmarks various
+models, including GPT-based LLMs, BERT-based models, and traditional clinical
+predictive models, for non-generative medical tasks utilizing renowned
+datasets. We assessed 14 language models (9 GPT-based and 5 BERT-based) and 7
+traditional predictive models using the MIMIC dataset (ICU patient records) and
+the TJH dataset (early COVID-19 EHR data), focusing on tasks such as mortality
+and readmission prediction, disease hierarchy reconstruction, and biomedical
+sentence matching, comparing both zero-shot and finetuned performance. Results
+indicated that LLMs exhibited robust zero-shot predictive capabilities on
+structured EHR data when using well-designed prompting strategies, frequently
+surpassing traditional models. However, for unstructured medical texts, LLMs
+did not outperform finetuned BERT models, which excelled in both supervised and
+unsupervised tasks. Consequently, while LLMs are effective for zero-shot
+learning on structured data, finetuned BERT models are more suitable for
+unstructured texts, underscoring the importance of selecting models based on
+specific task requirements and data characteristics to optimize the application
+of NLP technology in healthcare.
+
+摘要：大型語言模型 (LLM) 在醫學中的應用日益廣泛，但它們同時處理結構化電子病歷 (EHR) 資料和非結構化臨床註記的能力尚未得到充分研究。本研究針對各種模型進行基準測試，包括基於 GPT 的 LLM、基於 BERT 的模型，以及傳統的臨床預測模型，用於利用著名資料集的非生成性醫療任務。我們使用 MIMIC 資料集（ICU 病人記錄）和 TJH 資料集（早期 COVID-19 EHR 資料）評估了 14 個語言模型（9 個基於 GPT，5 個基於 BERT）和 7 個傳統預測模型，重點關注死亡率和再入院預測、疾病層級重建和生物醫學句子配對等任務，並比較了零次學習和微調後的效能。結果表明，LLM 在使用設計良好的提示策略時，對結構化 EHR 資料展現出強大的零次學習預測能力，經常超越傳統模型。然而，對於非結構化的醫療文本，LLM 的表現不如微調後的 BERT 模型，後者在監督式和非監督式任務中都表現出色。因此，儘管 LLM 對於結構化資料的零次學習很有用，但微調後的 BERT 模型更適合非結構化文本，這強調了根據特定任務需求和資料特性選擇模型以優化醫療保健中 NLP 技術應用之重要性。
+
+##### **A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**
+2407.18483v1 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
+
+Ophthalmology consultations are crucial for diagnosing, treating, and
+preventing eye diseases. However, the growing demand for consultations exceeds
+the availability of ophthalmologists. By leveraging large pre-trained language
+models, we can design effective dialogues for specific scenarios, aiding in
+consultations. Traditional fine-tuning strategies for question-answering tasks
+are impractical due to increasing model size and often ignoring patient-doctor
+role function during consultations. In this paper, we propose EyeDoctor, an
+ophthalmic medical questioning large language model that enhances accuracy
+through doctor-patient role perception guided and an augmented knowledge base
+with external disease information. Experimental results show EyeDoctor achieves
+higher question-answering precision in ophthalmology consultations. Notably,
+EyeDoctor demonstrated a 7.25% improvement in Rouge-1 scores and a 10.16%
+improvement in F1 scores on multi-round datasets compared to second best model
+ChatGPT, highlighting the importance of doctor-patient role differentiation and
+dynamic knowledge base expansion for intelligent medical consultations. EyeDoc
+also serves as a free available web based service and souce code is available
+at https://github.com/sperfu/EyeDoc.
+
+摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，諮詢需求不斷增加，超過眼科醫師所能提供的服務。透過利用大型預先訓練語言模型，我們可以針對特定場景設計有效的對話，協助諮詢。由於模型尺寸越來越大，且在諮詢過程中常常忽略患者與醫師的角色功能，因此傳統針對問答任務的微調策略並不切實際。在本文中，我們提出 EyeDoctor，一種眼科醫療問答大型語言模型，透過引導醫師與患者的角色認知以及擴充外部疾病資訊的知識庫來提升準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答精準度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上，Rouge-1 分數提升了 7.25%，F1 分數提升了 10.16%，突顯了醫師與患者角色區分以及動態知識庫擴充對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
+
+##### **HDL-GPT: High-Quality HDL is All You Need**
+2407.18423v1 by Bhuvnesh Kumar, Saurav Nanda, Ganapathy Parthasarathy, Pawan Patil, Austin Tsai, Parivesh Choudhary
+
+This paper presents Hardware Description Language Generative Pre-trained
+Transformers (HDL-GPT), a novel approach that leverages the vast repository of
+open-source High Definition Language (HDL) codes to train superior quality
+large code models. The core premise of this paper is the hypothesis that
+high-quality HDL is all you need to create models with exceptional performance
+and broad zero-shot generalization abilities. The paper elucidates the methods
+employed for the curation and augmentation of large corpora from open-source
+HDL code, transforming highly variable quality data into high-quality data
+through careful prompting and context maintenance. We demonstrate that the
+careful selection, filtering, and augmentation of data across HDLs can yield
+powerful models that surpass current state-of-the-art models. We also explore
+the impact of different fine-tuning methods on the quality of results. We
+describe experimental results across a range of fine-tuned SOTA LLMs,
+substantiating our claims. We demonstrate improvements of 50% to 200% over SOTA
+HDL models on current benchmarks in tasks ranging from HDL circuit
+explanations, code generation, formal and simulation testbench creation,
+triaging bugs, and fixing them. HDL-GPT opens new avenues for the development
+of advanced model training techniques for circuit design tasks.
+
+摘要：本文提出硬體描述語言生成式預訓練轉換器 (HDL-GPT)，這是一種新方法，利用大量開源高定義語言 (HDL) 程式碼來訓練優質的大型程式碼模型。本文的核心前提是高品質的 HDL 是建立具有卓越效能和廣泛零次學習概化能力模型的唯一要素。本文闡明了從開源 HDL 程式碼策展和擴充大型語料庫所使用的方法，透過仔細提示和脈絡維護，將品質高度變異的資料轉換成高品質資料。我們證明了仔細選擇、篩選和擴充 HDL 中的資料可以產生強大的模型，超越現有的最先進模型。我們也探討了不同微調方法對結果品質的影響。我們描述了針對一系列微調過的 SOTA LLM 的實驗結果，以證實我們的說法。我們證明了在從 HDL 電路說明、程式碼產生、正式和模擬測試平台建立、分類錯誤到修正錯誤等任務的現有基準中，HDL-GPT 比 SOTA HDL 模型進步了 50% 至 200%。HDL-GPT 為電路設計任務的進階模型訓練技術開發開啟了新途徑。
+
+##### **SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**
+2407.18387v1 by Sai Puppala, Ismail Hossain, Md Jahangir Alam, Sajedul Talukder, Zahidur Talukder, Syed Bahauddin
+
+Federated Learning (FL) has emerged as a transformative approach for enabling
+distributed machine learning while preserving user privacy, yet it faces
+challenges like communication inefficiencies and reliance on centralized
+infrastructures, leading to increased latency and costs. This paper presents a
+novel FL methodology that overcomes these limitations by eliminating the
+dependency on edge servers, employing a server-assisted Proximity Evaluation
+for dynamic cluster formation based on data similarity, performance indices,
+and geographical proximity. Our integrated approach enhances operational
+efficiency and scalability through a Hybrid Decentralized Aggregation Protocol,
+which merges local model training with peer-to-peer weight exchange and a
+centralized final aggregation managed by a dynamically elected driver node,
+significantly curtailing global communication overhead. Additionally, the
+methodology includes Decentralized Driver Selection, Check-pointing to reduce
+network traffic, and a Health Status Verification Mechanism for system
+robustness. Validated using the breast cancer dataset, our architecture not
+only demonstrates a nearly tenfold reduction in communication overhead but also
+shows remarkable improvements in reducing training latency and energy
+consumption while maintaining high learning performance, offering a scalable,
+efficient, and privacy-preserving solution for the future of federated learning
+ecosystems.
+
+摘要：聯邦學習 (FL) 已成為一種變革性方法，用於在保護使用者隱私的同時啟用分散式機器學習，但它面臨著諸如通訊效率低和依賴於集中式基礎設施等挑戰，導致延遲和成本增加。本文提出了一種新穎的 FL 方法，通過消除對邊緣伺服器的依賴，採用伺服器輔助的接近度評估來根據資料相似性、效能指標和地理接近度進行動態叢集形成，從而克服了這些限制。我們的整合方法透過混合式分散式聚合協定來增強運作效率和可擴充性，該協定將本地模型訓練與點對點權重交換以及由動態選出的驅動程式節點管理的集中式最終聚合合併在一起，大幅減少了整體通訊開銷。此外，該方法包括分散式驅動程式選擇、檢查點以減少網路流量，以及用於系統穩健性的健康狀態驗證機制。我們的架構使用乳癌資料集進行驗證，不僅證明通訊開銷減少了近十倍，而且還顯示出在降低訓練延遲和能源消耗的同時，學習效能仍保持很高的顯著改進，為聯邦學習生態系統的未來提供了一個可擴充性、高效且保護隱私的解決方案。
+
+##### **Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**
+2407.18343v1 by Alessandro De Carlo, Enea Parimbelli, Nicola Melillo, Giovanna Nicora
+
+Explainable Artificial Intelligence (XAI) is central to the debate on
+integrating Artificial Intelligence (AI) and Machine Learning (ML) algorithms
+into clinical practice. High-performing AI/ML models, such as ensemble learners
+and deep neural networks, often lack interpretability, hampering clinicians'
+trust in their predictions. To address this, XAI techniques are being developed
+to describe AI/ML predictions in human-understandable terms. One promising
+direction is the adaptation of sensitivity analysis (SA) and global sensitivity
+analysis (GSA), which inherently rank model inputs by their impact on
+predictions. Here, we introduce a novel delta-XAI method that provides local
+explanations of ML model predictions by extending the delta index, a GSA
+metric. The delta-XAI index assesses the impact of each feature's value on the
+predicted output for individual instances in both regression and classification
+problems. We formalize the delta-XAI index and provide code for its
+implementation. The delta-XAI method was evaluated on simulated scenarios using
+linear regression models, with Shapley values serving as a benchmark. Results
+showed that the delta-XAI index is generally consistent with Shapley values,
+with notable discrepancies in models with highly impactful or extreme feature
+values. The delta-XAI index demonstrated higher sensitivity in detecting
+dominant features and handling extreme feature values. Qualitatively, the
+delta-XAI provides intuitive explanations by leveraging probability density
+functions, making feature rankings clearer and more explainable for
+practitioners. Overall, the delta-XAI method appears promising for robustly
+obtaining local explanations of ML model predictions. Further investigations in
+real-world clinical settings will be conducted to evaluate its impact on
+AI-assisted clinical workflows.
+
+摘要：可解釋人工智慧 (XAI) 是整合人工智慧 (AI) 和機器學習 (ML) 演算法進入臨床實務的辯論核心。高性能的 AI/ML 模型，例如整合學習器和深度神經網路，通常缺乏可解釋性，阻礙臨床醫師對其預測的信任。為了解決此問題，XAI 技術正在開發中，用人類可理解的術語描述 AI/ML 預測。一個有希望的方向是採用敏感度分析 (SA) 和全局敏感度分析 (GSA)，它們本質上按模型輸入對預測的影響對其進行排序。在此，我們介紹了一種新的 delta-XAI 方法，它通過擴展 GSA 指標 delta 指數，提供了 ML 模型預測的局部解釋。delta-XAI 指數評估了每個特徵值對迴歸和分類問題中個別實例的預測輸出之影響。我們將 delta-XAI 指數形式化並提供其實作程式碼。delta-XAI 方法使用線性迴歸模型在模擬場景中進行評估，其中 Shapley 值作為基準。結果表明，delta-XAI 指數通常與 Shapley 值一致，在具有高度影響力或極端特徵值的模型中存在顯著差異。delta-XAI 指數在檢測主要特徵和處理極端特徵值方面表現出更高的敏感性。定性地說，delta-XAI 透過利用機率密度函數提供直觀的解釋，使特徵排名更清晰、更易於從業人員理解。總體而言，delta-XAI 方法對於穩健地獲得 ML 模型預測的局部解釋似乎很有希望。將在真實世界的臨床環境中進行進一步調查，以評估其對 AI 輔助臨床工作流程的影響。
+
 ##### **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**
 2407.18125v1 by Roberto Di Via, Francesca Odone, Vito Paolo Pastore
 
@@ -2567,139 +2696,4 @@ attention learning-based approach performs very efficiently in predicting heart
 failure compared to the existing state-of-the-art such as LSTM approach.
 
 摘要：心血管疾病 (CVD) 包含一組影響心臟和血管的疾病，包括冠狀動脈疾病、心衰竭、中風和高血壓等疾病。在心血管疾病中，心衰竭是全球患者死亡的主要原因之一，也是長期痛苦的來源。預測是對治療和干預以最大程度減少心衰竭極有價值的風險因素之一。在這項工作中，提出了一種基於注意力學習的心衰竭預測方法，該方法基於 EHR（電子健康記錄）心血管數據，例如射血分數和血清肌酐。此外，應用具有各種學習率方法的不同優化器對所提出的方法進行微調。血清肌酐和射血分數是預測患者心衰竭的兩個最重要的特徵。計算結果表明，學習率為 0.001 的 RMSProp 優化器基於血清肌酐具有更好的預測。另一方面，學習率為 0.01 的 SGD 優化器與射血分數特徵相結合，表現出最佳性能。總體而言，與 LSTM 方法等現有技術相比，所提出的基於注意力學習的方法在預測心衰竭方面表現得非常有效。
-
-##### **Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**
-2407.08240v1 by Tianyi Zhang, Songyan Teng, Hong Jia, Simon D'Alfonso
-
-As mental health issues for young adults present a pressing public health
-concern, daily digital mood monitoring for early detection has become an
-important prospect. An active research area, digital phenotyping, involves
-collecting and analysing data from personal digital devices such as smartphones
-(usage and sensors) and wearables to infer behaviours and mental health. Whilst
-this data is standardly analysed using statistical and machine learning
-approaches, the emergence of large language models (LLMs) offers a new approach
-to make sense of smartphone sensing data. Despite their effectiveness across
-various domains, LLMs remain relatively unexplored in digital mental health,
-particularly in integrating mobile sensor data. Our study aims to bridge this
-gap by employing LLMs to predict affect outcomes based on smartphone sensing
-data from university students. We demonstrate the efficacy of zero-shot and
-few-shot embedding LLMs in inferring general wellbeing. Our findings reveal
-that LLMs can make promising predictions of affect measures using solely
-smartphone sensing data. This research sheds light on the potential of LLMs for
-affective state prediction, emphasizing the intricate link between smartphone
-behavioral patterns and affective states. To our knowledge, this is the first
-work to leverage LLMs for affective state prediction and digital phenotyping
-tasks.
-
-摘要：隨著年輕人的心理健康問題成為迫切的公共衛生問題，每日數位情緒監控已成為早期偵測的重要前景。數位表型化是一個積極的研究領域，涉及收集和分析來自個人數位裝置（例如智慧型手機（使用和感測器）和可穿戴裝置）的資料，以推論行為和心理健康。雖然這些資料通常使用統計和機器學習方法進行分析，但大型語言模型 (LLM) 的出現提供了一種新的方法來理解智慧型手機感測資料。儘管 LLM 在各種領域都非常有效，但其在數位心理健康領域仍相對未被探索，特別是在整合行動感測器資料方面。我們的研究旨在透過使用 LLM 來根據大學生的智慧型手機感測資料預測影響結果，以彌合這一差距。我們展示了零次學習和少次學習嵌入式 LLM 在推論一般幸福感方面的效能。我們的研究結果顯示，LLM 可以僅使用智慧型手機感測資料對影響測量進行有希望的預測。本研究揭示了 LLM 在情感狀態預測方面的潛力，強調了智慧型手機行為模式和情感狀態之間的複雜聯繫。據我們所知，這是第一個利用 LLM 進行情感狀態預測和數位表型化任務的研究。
-
-##### **DALL-M: Context-Aware Clinical Data Augmentation with LLMs**
-2407.08227v1 by Chihcheng Hsieh, Catarina Moreira, Isabel Blanco Nobre, Sandra Costa Sousa, Chun Ouyang, Margot Brereton, Joaquim Jorge, Jacinto C. Nascimento
-
-X-ray images are vital in medical diagnostics, but their effectiveness is
-limited without clinical context. Radiologists often find chest X-rays
-insufficient for diagnosing underlying diseases, necessitating comprehensive
-clinical features and data integration. We present a novel technique to enhance
-the clinical context through augmentation techniques with clinical tabular
-data, thereby improving its applicability and reliability in AI medical
-diagnostics. To address this, we introduce a pioneering approach to clinical
-data augmentation that employs large language models (LLMs) to generate patient
-contextual synthetic data. This methodology is crucial for training more robust
-deep learning models in healthcare. It preserves the integrity of real patient
-data while enriching the dataset with contextually relevant synthetic features,
-significantly enhancing model performance. DALL-M uses a three-phase feature
-generation process: (i) clinical context storage, (ii) expert query generation,
-and (iii) context-aware feature augmentation. DALL-M generates new, clinically
-relevant features by synthesizing chest X-ray images and reports. Applied to
-799 cases using nine features from the MIMIC-IV dataset, it created an
-augmented set of 91 features. This is the first work to generate contextual
-values for existing and new features based on patients' X-ray reports, gender,
-and age and to produce new contextual knowledge during data augmentation.
-Empirical validation with machine learning models, including Decision Trees,
-Random Forests, XGBoost, and TabNET, showed significant performance
-improvements. Incorporating augmented features increased the F1 score by 16.5%
-and Precision and Recall by approximately 25%. DALL-M addresses a critical gap
-in clinical data augmentation, offering a robust framework for generating
-contextually enriched datasets.
-
-摘要：<paragraph>X 光影像在医学诊断中至关重要，但如果没有临床背景，其有效性会受到限制。放射科医生经常发现胸部 X 光影像不足以诊断潜在疾病，因此需要全面的临床特征和数据整合。我们提出了一种新技术，通过使用临床表格数据进行增强技术来增强临床背景，从而提高其在 AI 医学诊断中的适用性和可靠性。为了解决这个问题，我们引入了一种开创性的临床数据增强方法，该方法采用大型语言模型 (LLM) 来生成患者背景合成数据。这种方法对于在医疗保健领域训练更强大的深度学习模型至关重要。它保留了真实患者数据的完整性，同时使用与上下文相关的合成特征丰富了数据集，从而显著提高了模型性能。DALL-M 使用了一个三阶段特征生成过程：(i) 临床背景存储，(ii) 专家查询生成，(iii) 上下文感知特征增强。DALL-M 通过合成胸部 X 光影像和报告来生成新的、与临床相关的特征。将其应用于 MIMIC-IV 数据集中的 799 个案例，使用九个特征，它创建了一个包含 91 个特征的增强集合。这是第一项基于患者的 X 光报告、性别和年龄为现有和新特征生成上下文值的著作，并在数据增强期间产生新的上下文知识。使用包括决策树、随机森林、XGBoost 和 TabNET 在内的机器学习模型进行的经验验证显示出显著的性能改进。合并增强功能将 F1 分数提高了 16.5%，并将精确度和召回率提高了大约 25%。DALL-M 解决了一个临床数据增强中的关键空白，提供了一个用于生成上下文丰富的数据集的稳健框架。</paragraph>
-
-##### **Synthetic Electroretinogram Signal Generation Using Conditional Generative Adversarial Network for Enhancing Classification of Autism Spectrum Disorder**
-2407.08166v1 by Mikhail Kulyabin, Paul A. Constable, Aleksei Zhdanov, Irene O. Lee, David H. Skuse, Dorothy A. Thompson, Andreas Maier
-
-The electroretinogram (ERG) is a clinical test that records the retina's
-electrical response to light. The ERG is a promising way to study different
-neurodevelopmental and neurodegenerative disorders, including autism spectrum
-disorder (ASD) - a neurodevelopmental condition that impacts language,
-communication, and reciprocal social interactions. However, in heterogeneous
-populations, such as ASD, where the ability to collect large datasets is
-limited, the application of artificial intelligence (AI) is complicated.
-Synthetic ERG signals generated from real ERG recordings carry similar
-information as natural ERGs and, therefore, could be used as an extension for
-natural data to increase datasets so that AI applications can be fully
-utilized. As proof of principle, this study presents a Generative Adversarial
-Network capable of generating synthetic ERG signals of children with ASD and
-typically developing control individuals. We applied a Time Series Transformer
-and Visual Transformer with Continuous Wavelet Transform to enhance
-classification results on the extended synthetic signals dataset. This approach
-may support classification models in related psychiatric conditions where the
-ERG may help classify disorders.
-
-摘要：視網膜電圖 (ERG) 是一種臨床測試，用於記錄視網膜對光的電氣反應。ERG 是一種很有前途的研究不同神經發育和神經退化性疾病的方法，包括自閉症譜系障礙 (ASD) - 一種影響語言、溝通和社交互動的神經發育狀況。然而，在異質人群中，例如 ASD，收集大型數據集的能力有限，人工智能 (AI) 的應用很複雜。從真實 ERG 記錄中產生的合成 ERG 信號攜帶與自然 ERG 相似的信息，因此可用作自然數據的擴展，以增加數據集，以便 AI 應用程序可以得到充分利用。作為原理證明，本研究提出了一個生成對抗網路，能夠產生自閉症兒童和正常發育對照個人的合成 ERG 信號。我們應用時序轉換器和具有連續小波轉換的視覺轉換器來增強擴展合成信號數據集上的分類結果。這種方法可以支持相關精神疾病的分類模型，在這些疾病中，ERG 可能有助於對疾病進行分類。
-
-##### **Highway Networks for Improved Surface Reconstruction: The Role of Residuals and Weight Updates**
-2407.08134v1 by A. Noorizadegan, Y. C. Hon, D. L. Young, C. S. Chen
-
-Surface reconstruction from point clouds is a fundamental challenge in
-computer graphics and medical imaging. In this paper, we explore the
-application of advanced neural network architectures for the accurate and
-efficient reconstruction of surfaces from data points. We introduce a novel
-variant of the Highway network (Hw) called Square-Highway (SqrHw) within the
-context of multilayer perceptrons and investigate its performance alongside
-plain neural networks and a simplified Hw in various numerical examples. These
-examples include the reconstruction of simple and complex surfaces, such as
-spheres, human hands, and intricate models like the Stanford Bunny. We analyze
-the impact of factors such as the number of hidden layers, interior and
-exterior points, and data distribution on surface reconstruction quality. Our
-results show that the proposed SqrHw architecture outperforms other neural
-network configurations, achieving faster convergence and higher-quality surface
-reconstructions. Additionally, we demonstrate the SqrHw's ability to predict
-surfaces over missing data, a valuable feature for challenging applications
-like medical imaging. Furthermore, our study delves into further details,
-demonstrating that the proposed method based on highway networks yields more
-stable weight norms and backpropagation gradients compared to the Plain Network
-architecture. This research not only advances the field of computer graphics
-but also holds utility for other purposes such as function interpolation and
-physics-informed neural networks, which integrate multilayer perceptrons into
-their algorithms.
-
-摘要：從點雲進行曲面重建是電腦圖學和醫學影像中的一項基本挑戰。在本文中，我們探討了先進神經網路架構在從資料點精確且有效重建曲面中的應用。我們在多層感知器的架構中，引入了高速公路網路（Hw）的一種新變體，稱為 Square-Highway（SqrHw），並在各種數值範例中探討其效能，以及與一般神經網路和簡化的 Hw 的效能。這些範例包括重建簡單和複雜的曲面，例如球體、人手和像 Stanford Bunny 那樣複雜的模型。我們分析了隱藏層數、內部和外部點以及資料分佈等因素對曲面重建品質的影響。我們的結果顯示，所提出的 SqrHw 架構優於其他神經網路組態，能達成更快的收斂速度和更高品質的曲面重建。此外，我們展示了 SqrHw 能夠預測遺失資料上的曲面，這對於像醫學影像那樣具有挑戰性的應用來說，是一個有價值的功能。此外，我們的研究深入探討了更多細節，證明了基於高速公路網路的所提出方法，與一般網路架構相比，產生了更穩定的權重範數和反向傳播梯度。這項研究不僅推動了電腦圖學領域，也對其他用途有幫助，例如函數內插和物理資訊神經網路，將多層感知器整合到其演算法中。
-
-##### **Machine Learning for ALSFRS-R Score Prediction: Making Sense of the Sensor Data**
-2407.08003v1 by Ritesh Mehta, Aleksandar Pramov, Shashank Verma
-
-Amyotrophic Lateral Sclerosis (ALS) is characterized as a rapidly progressive
-neurodegenerative disease that presents individuals with limited treatment
-options in the realm of medical interventions and therapies. The disease
-showcases a diverse range of onset patterns and progression trajectories,
-emphasizing the critical importance of early detection of functional decline to
-enable tailored care strategies and timely therapeutic interventions. The
-present investigation, spearheaded by the iDPP@CLEF 2024 challenge, focuses on
-utilizing sensor-derived data obtained through an app. This data is used to
-construct various machine learning models specifically designed to forecast the
-advancement of the ALS Functional Rating Scale-Revised (ALSFRS-R) score,
-leveraging the dataset provided by the organizers. In our analysis, multiple
-predictive models were evaluated to determine their efficacy in handling ALS
-sensor data. The temporal aspect of the sensor data was compressed and
-amalgamated using statistical methods, thereby augmenting the interpretability
-and applicability of the gathered information for predictive modeling
-objectives. The models that demonstrated optimal performance were a naive
-baseline and ElasticNet regression. The naive model achieved a Mean Absolute
-Error (MAE) of 0.20 and a Root Mean Square Error (RMSE) of 0.49, slightly
-outperforming the ElasticNet model, which recorded an MAE of 0.22 and an RMSE
-of 0.50. Our comparative analysis suggests that while the naive approach
-yielded marginally better predictive accuracy, the ElasticNet model provides a
-robust framework for understanding feature contributions.
-
-摘要：肌萎縮性脊髓側索硬化症 (ALS) 的特徵為快速進展的神經退化性疾病，在醫療介入和治療領域中，患者的治療選擇有限。此疾病展示出多樣化的發病模式和進展軌跡，強調早期偵測功能衰退至關重要，以制定客製化的照護策略和及時的治療介入。本研究由 iDPP@CLEF 2024 挑戰帶頭，專注於利用透過應用程式取得的感測器衍生資料。這些資料用於建構各種機器學習模型，特別設計用於預測 ALS 功能評分量表修訂版 (ALSFRS-R) 分數的進展，並利用主辦單位提供的資料集。在我們的分析中，評估了多種預測模型，以確定它們在處理 ALS 感測器資料方面的效能。感測器資料的時間面向使用統計方法進行壓縮和合併，從而增強收集資訊在預測建模目標方面的可解釋性和適用性。表現最佳的模型是樸素基準和 ElasticNet 回歸。樸素模型達到了平均絕對誤差 (MAE) 為 0.20 和均方根誤差 (RMSE) 為 0.49，略勝於 ElasticNet 模型，後者的 MAE 為 0.22，RMSE 為 0.50。我們的比較分析表明，雖然樸素方法產生的預測準確度略高，但 ElasticNet 模型提供了一個穩健的架構，用於瞭解特徵貢獻。
 

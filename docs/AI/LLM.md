@@ -4,19 +4,19 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-25**|**Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning**|Tianduo Wang et.al.|[2407.18248v1](http://arxiv.org/abs/2407.18248v1)|[link](https://github.com/tianduowang/dpo-st)|
 |**2024-07-25**|**LoRA-Pro: Are Low-Rank Adapters Properly Optimized?**|Zhengbo Wang et.al.|[2407.18242v1](http://arxiv.org/abs/2407.18242v1)|[link](https://github.com/mrflogs/LoRA-Pro)|
-|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219v1](http://arxiv.org/abs/2407.18219v1)|null|
-|**2024-07-25**|**Exploring Scaling Trends in LLM Robustness**|Nikolhaus Howe et.al.|[2407.18213v1](http://arxiv.org/abs/2407.18213v1)|null|
+|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219v2](http://arxiv.org/abs/2407.18219v2)|null|
+|**2024-07-25**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213v2](http://arxiv.org/abs/2407.18213v2)|null|
 |**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202v1](http://arxiv.org/abs/2407.18202v1)|null|
 |**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
 |**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175v1](http://arxiv.org/abs/2407.18175v1)|null|
 |**2024-07-25**|**The FIGNEWS Shared Task on News Media Narratives**|Wajdi Zaghouani et.al.|[2407.18147v1](http://arxiv.org/abs/2407.18147v1)|null|
 |**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145v1](http://arxiv.org/abs/2407.18145v1)|null|
-|**2024-07-25**|**Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic**|Fakhraddin Alwajih et.al.|[2407.18129v1](http://arxiv.org/abs/2407.18129v1)|null|
+|**2024-07-25**|**Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic**|Fakhraddin Alwajih et.al.|[2407.18129v2](http://arxiv.org/abs/2407.18129v2)|null|
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
-|**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|null|
-|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|null|
+|**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|[link](https://github.com/clcl-geneva/blm-snfdisentangling)|
+|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|[link](https://github.com/scjjb/MultiscalePathGraph)|
 |**2024-07-25**|**Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review**|Adel ElZemity et.al.|[2407.18096v1](http://arxiv.org/abs/2407.18096v1)|null|
-|**2024-07-25**|**PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization**|Christopher Clarke et.al.|[2407.18078v1](http://arxiv.org/abs/2407.18078v1)|null|
+|**2024-07-25**|**PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization**|Christopher Clarke et.al.|[2407.18078v1](http://arxiv.org/abs/2407.18078v1)|[link](https://github.com/ChrisIsKing/Parameter-Efficient-Personalization)|
 |**2024-07-25**|**Difficulty Estimation and Simplification of French Text Using LLMs**|Henri Jamet et.al.|[2407.18061v1](http://arxiv.org/abs/2407.18061v1)|null|
 |**2024-07-25**|**Peak-Controlled Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2407.18039v1](http://arxiv.org/abs/2407.18039v1)|null|
 |**2024-07-25**|**RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models**|Haoyu Chen et.al.|[2407.18035v1](http://arxiv.org/abs/2407.18035v1)|null|
@@ -32,7 +32,7 @@
 |**2024-07-25**|**Real Time American Sign Language Detection Using Yolo-v9**|Amna Imran et.al.|[2407.17950v1](http://arxiv.org/abs/2407.17950v1)|null|
 |**2024-07-25**|**Positive Text Reframing under Multi-strategy Optimization**|Shutong Jia et.al.|[2407.17940v1](http://arxiv.org/abs/2407.17940v1)|null|
 |**2024-07-25**|**Comparison of different Artificial Neural Networks for Bitcoin price forecasting**|Silas Baumann et.al.|[2407.17930v1](http://arxiv.org/abs/2407.17930v1)|null|
-|**2024-07-25**|**Invariance of deep image quality metrics to affine transformations**|Nuria Alabau-Bosque et.al.|[2407.17927v1](http://arxiv.org/abs/2407.17927v1)|null|
+|**2024-07-25**|**Invariance of deep image quality metrics to affine transformations**|Nuria Alabau-Bosque et.al.|[2407.17927v1](http://arxiv.org/abs/2407.17927v1)|[link](https://github.com/Rietta5/InvarianceTestIQA)|
 |**2024-07-25**|**The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models**|Zihui Wu et.al.|[2407.17915v1](http://arxiv.org/abs/2407.17915v1)|[link](https://github.com/wooozihui/jailbreakfunction)|
 |**2024-07-25**|**Modelling Multimodal Integration in Human Concept Processing with Vision-and-Language Models**|Anna Bavaresco et.al.|[2407.17914v1](http://arxiv.org/abs/2407.17914v1)|null|
 |**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911v1](http://arxiv.org/abs/2407.17911v1)|null|
@@ -44,10 +44,10 @@
 |**2024-07-25**|**Improving Domain-Specific ASR with LLM-Generated Contextual Descriptions**|Jiwon Suh et.al.|[2407.17874v1](http://arxiv.org/abs/2407.17874v1)|null|
 |**2024-07-25**|**Is the Digital Forensics and Incident Response Pipeline Ready for Text-Based Threats in LLM Era?**|Avanti Bhandarkar et.al.|[2407.17870v1](http://arxiv.org/abs/2407.17870v1)|null|
 |**2024-07-25**|**Financial Statement Analysis with Large Language Models**|Alex Kim et.al.|[2407.17866v1](http://arxiv.org/abs/2407.17866v1)|null|
-|**2024-07-25**|**factgenie: A Framework for Span-based Evaluation of Generated Texts**|Zdeněk Kasner et.al.|[2407.17863v1](http://arxiv.org/abs/2407.17863v1)|null|
-|**2024-07-25**|**Exploring Description-Augmented Dataless Intent Classification**|Ruoyu Hu et.al.|[2407.17862v1](http://arxiv.org/abs/2407.17862v1)|null|
+|**2024-07-25**|**factgenie: A Framework for Span-based Evaluation of Generated Texts**|Zdeněk Kasner et.al.|[2407.17863v1](http://arxiv.org/abs/2407.17863v1)|[link](https://github.com/kasnerz/factgenie)|
+|**2024-07-25**|**Exploring Description-Augmented Dataless Intent Classification**|Ruoyu Hu et.al.|[2407.17862v1](http://arxiv.org/abs/2407.17862v1)|[link](https://github.com/ruoyunlp/dataless-intent-classification)|
 |**2024-07-25**|**Shapley Value-based Contrastive Alignment for Multimodal Information Extraction**|Wen Luo et.al.|[2407.17854v1](http://arxiv.org/abs/2407.17854v1)|null|
-|**2024-07-25**|**Scaling A Simple Approach to Zero-Shot Speech Recognition**|Jinming Zhao et.al.|[2407.17852v1](http://arxiv.org/abs/2407.17852v1)|null|
+|**2024-07-25**|**Scaling A Simple Approach to Zero-Shot Speech Recognition**|Jinming Zhao et.al.|[2407.17852v1](http://arxiv.org/abs/2407.17852v1)|[link](https://github.com/facebookresearch/fairseq)|
 |**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844v1](http://arxiv.org/abs/2407.17844v1)|null|
 |**2024-07-25**|**DragText: Rethinking Text Embedding in Point-based Image Editing**|Gayoon Choi et.al.|[2407.17843v1](http://arxiv.org/abs/2407.17843v1)|null|
 |**2024-07-25**|**On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study**|Lujia Zhang et.al.|[2407.17842v1](http://arxiv.org/abs/2407.17842v1)|null|
@@ -59,7 +59,7 @@
 |**2024-07-25**|**Enhancing Model Performance: Another Approach to Vision-Language Instruction Tuning**|Vedanshu et.al.|[2407.17813v1](http://arxiv.org/abs/2407.17813v1)|null|
 |**2024-07-25**|**EEG-SSM: Leveraging State-Space Model for Dementia Detection**|Xuan-The Tran et.al.|[2407.17801v1](http://arxiv.org/abs/2407.17801v1)|null|
 |**2024-07-25**|**A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models**|Haonan Zheng et.al.|[2407.17797v1](http://arxiv.org/abs/2407.17797v1)|null|
-|**2024-07-25**|**Investigating learning-independent abstract reasoning in artificial neural networks**|Tomer Barak et.al.|[2407.17791v1](http://arxiv.org/abs/2407.17791v1)|null|
+|**2024-07-25**|**Investigating learning-independent abstract reasoning in artificial neural networks**|Tomer Barak et.al.|[2407.17791v1](http://arxiv.org/abs/2407.17791v1)|[link](https://github.com/tomer-barak/learning-independent_abstract_reasoning)|
 |**2024-07-25**|**Very Large-Scale Multi-Agent Simulation in AgentScope**|Xuchen Pan et.al.|[2407.17789v1](http://arxiv.org/abs/2407.17789v1)|[link](https://github.com/modelscope/agentscope)|
 |**2024-07-25**|**Advancing Multi-Modal Sensing Through Expandable Modality Alignment**|Shenghong Dai et.al.|[2407.17777v1](http://arxiv.org/abs/2407.17777v1)|null|
 |**2024-07-25**|**KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models**|Eunice Yiu et.al.|[2407.17773v1](http://arxiv.org/abs/2407.17773v1)|[link](https://github.com/ey242/kiva)|
@@ -72,7 +72,7 @@
 |**2024-07-25**|**Are Large Language Models Possible to Conduct Cognitive Behavioral Therapy?**|Hao Shen et.al.|[2407.17730v1](http://arxiv.org/abs/2407.17730v1)|null|
 |**2024-07-25**|**Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition with Text Description of the Environment**|Seong-Gyun Leem et.al.|[2407.17716v1](http://arxiv.org/abs/2407.17716v1)|null|
 |**2024-07-25**|**Enhancing Agent Learning through World Dynamics Modeling**|Zhiyuan Sun et.al.|[2407.17695v1](http://arxiv.org/abs/2407.17695v1)|null|
-|**2024-07-25**|**Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification**|Lynnette Hui Xian Ng et.al.|[2407.17688v1](http://arxiv.org/abs/2407.17688v1)|null|
+|**2024-07-25**|**Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification**|Lynnette Hui Xian Ng et.al.|[2407.17688v2](http://arxiv.org/abs/2407.17688v2)|null|
 |**2024-07-25**|**Transformers on Markov Data: Constant Depth Suffices**|Nived Rajaraman et.al.|[2407.17686v1](http://arxiv.org/abs/2407.17686v1)|null|
 |**2024-07-25**|**Efficient LLM Training and Serving with Heterogeneous Context Sharding among Attention Heads**|Xihui Lin et.al.|[2407.17678v1](http://arxiv.org/abs/2407.17678v1)|null|
 |**2024-07-24**|**CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery**|Thomas Manzini et.al.|[2407.17673v1](http://arxiv.org/abs/2407.17673v1)|null|
@@ -98,8 +98,8 @@
 |**2024-07-24**|**CovScore: Evaluation of Multi-Document Abstractive Title Set Generation**|Itamar Trainin et.al.|[2407.17390v1](http://arxiv.org/abs/2407.17390v1)|null|
 |**2024-07-24**|**PERSONA: A Reproducible Testbed for Pluralistic Alignment**|Louis Castricato et.al.|[2407.17387v1](http://arxiv.org/abs/2407.17387v1)|null|
 |**2024-07-24**|**A Comprehensive Approach to Misspelling Correction with BERT and Levenshtein Distance**|Amirreza Naziri et.al.|[2407.17383v1](http://arxiv.org/abs/2407.17383v1)|null|
-|**2024-07-24**|**MMRA: A Benchmark for Multi-granularity Multi-image Relational Association**|Siwei Wu et.al.|[2407.17379v1](http://arxiv.org/abs/2407.17379v1)|null|
-|**2024-07-24**|**MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**|Arya Bulusu et.al.|[2407.17544v1](http://arxiv.org/abs/2407.17544v1)|null|
+|**2024-07-24**|**MMRA: A Benchmark for Multi-granularity Multi-image Relational Association**|Siwei Wu et.al.|[2407.17379v1](http://arxiv.org/abs/2407.17379v1)|[link](https://github.com/wusiwei0410/mmra)|
+|**2024-07-24**|**MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**|Arya Bulusu et.al.|[2407.17544v1](http://arxiv.org/abs/2407.17544v1)|[link](https://github.com/emergenceai/mathviz-e)|
 |**2024-07-24**|**Dataset Distribution Impacts Model Fairness: Single vs. Multi-Task Learning**|Ralf Raumanns et.al.|[2407.17543v1](http://arxiv.org/abs/2407.17543v1)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349v1](http://arxiv.org/abs/2407.17349v1)|null|
 
@@ -152,7 +152,7 @@ processing tasks validate the effectiveness of our method.
 摘要：低秩適應（LoRA）已成為一種重要的方法，可透過將原始矩陣重新參數化為兩個低秩矩陣的乘積，對參數有效率的微調基礎模型。儘管 LoRA 具有效率，但與完整微調相比，其效能通常較差。在本文中，我們提出 LoRA-Pro 來彌合此效能差距。首先，我們深入探討 LoRA 和完整微調中的最佳化程序。我們揭示，儘管 LoRA 採用低秩近似，但它忽略了完整微調的最佳化程序。為了解決這個問題，我們引入了一個名為「等效梯度」的新概念。這個虛擬梯度使重新參數化矩陣上的最佳化程序等同於 LoRA，可用来量化 LoRA 和完整微調之間的差異。等效梯度來自矩陣 A 和 B 的梯度。為了縮小效能差距，我們的做法是在最佳化程序中最小化等效梯度和從完整微調中獲得的梯度之間的差異。透過解決這個目標，我們推導出更新矩陣 A 和 B 的最佳閉式解。我們的做法約束了最佳化程序，縮小了 LoRA 和完整微調之間的效能差距。自然語言處理任務上的大量實驗驗證了我們方法的有效性。
 
 ##### **Recursive Introspection: Teaching Language Model Agents How to Self-Improve**
-2407.18219v1 by Yuxiao Qu, Tianjun Zhang, Naman Garg, Aviral Kumar
+2407.18219v2 by Yuxiao Qu, Tianjun Zhang, Naman Garg, Aviral Kumar
 
 A central piece in enabling intelligent agentic behavior in foundation models
 is to make them capable of introspecting upon their behavior, reasoning, and
@@ -180,10 +180,10 @@ meaningful improvements to responses to arrive at the correct solution for
 challenging prompts, without disrupting one-turn abilities as a result of
 expressing more complex distributions.
 
-摘要：<paragraph>在基礎模型中啟用智慧代理行為的核心部分是讓它們能夠內省自己的行為、推理，並在有更多運算或互動時更正自己的錯誤。即使是最強大的專有大型語言模型 (LLM) 也無法完全展現連續循序漸進地改善其回應的能力，即使在明確告知它們犯錯的情況下也是如此。在本文中，我們開發了 RISE：遞迴內省，一種微調 LLM 的方法來引入這種能力，儘管先前的研究假設無法獲得這種能力。我們的做法規定了一種反覆微調程序，該程序嘗試教導模型如何在執行先前不成功的嘗試來解決困難的測試時間問題後改變其回應，並可選擇額外提供環境回饋。RISE 將單輪提示的微調視為解決多輪馬可夫決策過程 (MDP) 的問題，其中初始狀態是提示。受到在線模仿學習和強化學習原則的啟發，我們提出了多輪數據收集和訓練策略，以賦予 LLM 在後續迭代中遞迴檢測和糾正其先前錯誤的能力。我們的實驗表明，RISE 能讓 Llama2、Llama3 和 Mistral 模型在數學推理任務中隨著更多輪次而自我提升，在給定相同推理時間運算的情況下，表現優於多種單輪策略。我們還發現 RISE 具有良好的擴展性，通常能隨著模型功能更強大而獲得更大的好處。我們的分析表明，RISE 對回應進行了有意義的改進，以針對具有挑戰性的提示得出正確的解決方案，而不會因為表達更複雜的分布而破壞單輪能力。</paragraph>
+摘要：<paragraph>在基礎模型中啟用智能代理行為的核心部分是讓它們能夠內省自己的行為、推理，並在有更多運算或互動可用時糾正它們的錯誤。即使是最強大的專有大型語言模型 (LLM) 也不太會表現出連續改進其回應的能力，即使在明確告訴它們它們犯了錯誤的情況下也是如此。在本文中，我們開發了 RISE：遞迴內省，一種微調 LLM 以引入此功能的方法，儘管先前的工作假設可能無法獲得此功能。我們的做法規定了一個反覆微調程序，該程序試圖教導模型如何在執行先前不成功的嘗試以解決困難的測試時間問題後更改其響應，並可選擇額外提供環境回饋。RISE 將單輪提示的微調設定為解決多輪馬可夫決策過程 (MDP)，其中初始狀態是提示。受在線模仿學習和強化學習原理的啟發，我們提出了多輪數據收集和訓練策略，以便賦予 LLM 在後續迭代中遞歸檢測和糾正其先前錯誤的能力。我們的實驗表明，RISE 使 Llama2、Llama3 和 Mistral 模型能夠在數學推理任務中通過更多輪次來改進自身，在給定相同推理時間計算的情況下，優於多種單輪策略。我們還發現 RISE 具有良好的擴展性，通常通過更強大的模型獲得更大的好處。我們的分析表明，RISE 對響應進行了有意義的改進，以獲得對具有挑戰性提示的正確解決方案，而不會因為表達更複雜的分布而破壞單輪能力。</paragraph>
 
 ##### **Exploring Scaling Trends in LLM Robustness**
-2407.18213v1 by Nikolhaus Howe, Michał Zajac, Ian McKenzie, Oskar Hollinsworth, Tom Tseng, Pierre-Luc Bacon, Adam Gleave
+2407.18213v2 by Nikolaus Howe, Michał Zajac, Ian McKenzie, Oskar Hollinsworth, Tom Tseng, Pierre-Luc Bacon, Adam Gleave
 
 Language model capabilities predictably improve from scaling a model's size
 and training data. Motivated by this, increasingly large language models have
@@ -196,7 +196,7 @@ scale? We study this question empirically, finding that larger models respond
 substantially better to adversarial training, but there is little to no benefit
 from model scale in the absence of explicit defenses.
 
-摘要：語言模型能力可預測地從擴展模型大小和訓練資料中獲得提升。受此激勵，越來越大的語言模型已經過訓練，產生了一系列令人印象深刻的能力。然而，這些模型容易受到對抗性提示的影響，例如劫持模型以執行不需要的行為的「越獄」，造成重大誤用風險。先前的研究表明，電腦視覺模型會隨著模型和資料的擴展而變得更強大，這引發了一個問題：語言模型的強健性是否也隨著規模的擴展而提升？我們對此問題進行實證研究，發現較大的模型對對抗性訓練的反應大幅改善，但在沒有明確防禦措施的情況下，模型規模幾乎沒有好處。
+摘要：語言模型的能力可預測地從擴展模型大小和訓練資料中獲得改善。受此啟發，已經訓練出越來越大的語言模型，產生了一系列令人印象深刻的能力。然而，這些模型容易受到對抗性提示的影響，例如劫持模型以執行不需要的行為的「越獄」，對誤用構成重大風險。先前的研究表明，電腦視覺模型隨著模型和資料的擴展而變得更強大，這引發了一個問題：語言模型的穩健性是否也隨著規模而提高？我們以經驗研究這個問題，發現較大的模型對對抗性訓練的反應顯著更好，但在沒有明確防禦措施的情況下，模型規模幾乎沒有好處。
 
 ##### **Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**
 2407.18202v1 by Samuel Yen-Chi Chen
@@ -329,7 +329,7 @@ http://topics.cs.uni-freiburg.de.
 http://topics.cs.uni-freiburg.de。
 
 ##### **Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic**
-2407.18129v1 by Fakhraddin Alwajih, Gagan Bhatia, Muhammad Abdul-Mageed
+2407.18129v2 by Fakhraddin Alwajih, Gagan Bhatia, Muhammad Abdul-Mageed
 
 Recent advancements have significantly enhanced the capabilities of
 Multimodal Large Language Models (MLLMs) in generating and understanding
@@ -348,7 +348,7 @@ responses. Beyond its robust performance in multimodal interaction tasks,
 Dallah has the potential to pave the way for further development of
 dialect-aware Arabic MLLMs.
 
-摘要：最近的進展顯著提升了多模態大型語言模型 (MLLM) 在產生和理解影像轉文字內容的能力。儘管有這些成功，進展主要僅限於英語，因為其他語言缺乏高品質的多模態資源。此限制阻礙了在阿拉伯語等語言中開發競爭模型。為了改善此情況，我們引進了一款有效率的阿拉伯語多模態助理，稱為 Dallah，它利用基於 LLaMA-2 的進階語言模型來促進多模態互動。Dallah 在阿拉伯語 MLLM 中展現了最先進的效能。透過微調六種阿拉伯語方言，Dallah 展示了它處理複雜方言互動的能力，結合了文字和視覺元素。此模型在兩個基準測試中表現出色：一個評估它在現代標準阿拉伯語 (MSA) 上的效能，另一個專門設計來評估方言回應。除了在多模態互動任務中表現強勁外，Dallah 有可能為進一步開發具方言感知能力的阿拉伯語 MLLM 鋪路。
+摘要：最近的進展顯著增強了多模態大型語言模型 (MLLM) 在產生和理解圖像到文字內容方面的能力。儘管取得了這些成功，但由於其他語言中缺乏高品質的多模態資源，進展主要僅限於英語。這種限制阻礙了在阿拉伯語等語言中開發競爭模型。為了緩解這種情況，我們引入了一個高效的阿拉伯語多模態助理，名為 Dallah，它利用基於 LLaMA-2 的先進語言模型來促進多模態互動。Dallah 在阿拉伯語 MLLM 中展示了最先進的性能。通過微調六種阿拉伯語方言，Dallah 展示了其處理複雜方言互動的能力，包括文本和視覺元素。該模型在兩個基準測試中表現出色：一個評估其在現代標準阿拉伯語 (MSA) 上的性能，另一個專門設計用於評估方言回應。除了在多模態互動任務中表現出色外，Dallah 還有可能為進一步開發具有方言意識的阿拉伯語 MLLM 鋪平道路。
 
 ##### **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**
 2407.18125v1 by Roberto Di Via, Francesca Odone, Vito Paolo Pastore
@@ -1788,7 +1788,7 @@ comparable to human players in the Crafter environment.
 摘要：儘管大型語言模型 (LLM) 已在語言理解和互動決策制定等任務中得到越來越廣泛的部署，但它們令人印象深刻的表現很大程度上歸功於內嵌在其中的全面且深入的領域知識。然而，這種知識的程度在不同的領域中可能有所不同。現有方法通常假設 LLM 已具備對其環境的全面且深入的了解，忽視了它們對實際世界動態理解中的潛在差距。為了解決這個差距，我們引入了探索、驗證和演化 (DiVE)，這是一個框架，它從少數示範中探索世界動態，驗證這些動態的正確性，並演化出新的、先進的動態，這些動態專門針對當前情況。透過廣泛的評估，我們分析了每個組成部分對效能的影響，並將 DiVE 自動產生的動態與人工標註的世界動態進行比較。我們的結果表明，由 DiVE 指導的 LLM 可以做出更好的決策，在 Crafter 環境中獲得與人類玩家相當的獎勵。
 
 ##### **Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification**
-2407.17688v1 by Lynnette Hui Xian Ng, Iain Cruickshank, Roy Ka-Wei Lee
+2407.17688v2 by Lynnette Hui Xian Ng, Iain Cruickshank, Roy Ka-Wei Lee
 
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 executing tasks based on natural language queries. However, these models,
@@ -1807,8 +1807,10 @@ schemes showing statistically similar performances across different stance
 classification datasets. Lastly, we observe that when there is greater
 ambiguity in the target the statement is directed towards, LLMs have poorer
 stance classification accuracy.
+  Code & Dataset: http://doi.org/10.5281/zenodo.12938478
 
-摘要：大型語言模型 (LLM) 在執行基於自然語言查詢的任務時展現出非凡的能力。然而，這些在策展資料集上訓練的模型本質上會體現各種偏見，從種族到國家和性別偏見。這些偏見是否會影響 LLM 在某些任務中的表現仍不確定。在這項研究中，我們探討了 LLM 在立場分類任務中的政治偏見，特別是檢視這些模型是否表現出更準確分類政治立場的傾向。我們利用三個資料集、七個 LLM 和四種不同的提示方案，分析了 LLM 在政治導向陳述和目標上的表現。我們的研究結果揭示了 LLM 在各種政治導向立場分類任務中的表現存在統計上顯著的差異。此外，我們觀察到這種差異主要表現在資料集層級，模型和提示方案在不同的立場分類資料集中表現出統計上相似的表現。最後，我們觀察到，當陳述所針對的目標存在較大的歧義時，LLM 的立場分類準確度較差。
+摘要：大型語言模型 (LLM) 在執行基於自然語言查詢的任務方面展示了非凡的能力。然而，這些模型在經過整理的資料集上訓練，從種族到國家和性別偏見，它們本質上包含了各種偏見。這些偏見是否會影響 LLM 對特定任務的執行，仍然不確定。在本研究中，我們探討了立場分類任務中 LLM 的政治偏見，特別是檢視這些模型是否表現出更準確分類政治立場的趨勢。利用三個資料集、七個 LLM 和四種不同的提示方案，我們分析了 LLM 在政治導向陳述和目標上的表現。我們的研究結果揭示了 LLM 在各種政治導向立場分類任務中的表現存在統計上顯著的差異。此外，我們觀察到這種差異主要表現在資料集層級，而模型和提示方案在不同的立場分類資料集上表現出統計上相似的表現。最後，我們觀察到，當陳述所針對的目標存在更大的歧義時，LLM 的立場分類準確度較差。
+程式碼和資料集：http://doi.org/10.5281/zenodo.12938478
 
 ##### **Transformers on Markov Data: Constant Depth Suffices**
 2407.17686v1 by Nived Rajaraman, Marco Bondaschi, Kannan Ramchandran, Michael Gastpar, Ashok Vardhan Makkuva

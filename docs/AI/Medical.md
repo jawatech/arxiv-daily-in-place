@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
-|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|null|
+|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|[link](https://github.com/scjjb/MultiscalePathGraph)|
 |**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v1](http://arxiv.org/abs/2407.17879v1)|null|
 |**2024-07-25**|**EEG-SSM: Leveraging State-Space Model for Dementia Detection**|Xuan-The Tran et.al.|[2407.17801v1](http://arxiv.org/abs/2407.17801v1)|null|
 |**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
@@ -29,7 +29,7 @@
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042v1](http://arxiv.org/abs/2407.15042v1)|null|
 |**2024-07-20**|**Preictal Period Optimization for Deep Learning-Based Epileptic Seizure Prediction**|Petros Koutsouvelis et.al.|[2407.14876v1](http://arxiv.org/abs/2407.14876v1)|null|
 |**2024-07-20**|**PASSION: Towards Effective Incomplete Multi-Modal Medical Image Segmentation with Imbalanced Missing Rates**|Junjie Shi et.al.|[2407.14796v1](http://arxiv.org/abs/2407.14796v1)|[link](https://github.com/jun-jie-shi/passion)|
-|**2024-07-19**|**Improving Representation of High-frequency Components for Medical Foundation Models**|Yuetan Chu et.al.|[2407.14651v1](http://arxiv.org/abs/2407.14651v1)|null|
+|**2024-07-19**|**Improving Representation of High-frequency Components for Medical Foundation Models**|Yuetan Chu et.al.|[2407.14651v2](http://arxiv.org/abs/2407.14651v2)|[link](https://github.com/Arturia-Pendragon-Iris/Frepa)|
 |**2024-07-19**|**CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models**|Rikhiya Ghosh et.al.|[2407.14640v1](http://arxiv.org/abs/2407.14640v1)|null|
 |**2024-07-19**|**Two new feature selection methods based on learn-heuristic techniques for breast cancer prediction: A comprehensive analysis**|Kamyab Karimi et.al.|[2407.14631v1](http://arxiv.org/abs/2407.14631v1)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326v1](http://arxiv.org/abs/2407.14326v1)|null|
@@ -53,7 +53,7 @@
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 |**2024-07-17**|**Evaluating graph-based explanations for AI-based recommender systems**|Simon Delarue et.al.|[2407.12357v1](http://arxiv.org/abs/2407.12357v1)|null|
 |**2024-07-16**|**GPT-4V Cannot Generate Radiology Reports Yet**|Yuyang Jiang et.al.|[2407.12176v1](http://arxiv.org/abs/2407.12176v1)|[link](https://github.com/yuyangj0/gpt-4v-evaluation-radiology-report)|
-|**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v1](http://arxiv.org/abs/2407.12126v1)|null|
+|**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126v2](http://arxiv.org/abs/2407.12126v2)|null|
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852v1](http://arxiv.org/abs/2407.11852v1)|[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)|
 |**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827v1](http://arxiv.org/abs/2407.11827v1)|null|
 |**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v2](http://arxiv.org/abs/2407.11790v2)|null|
@@ -828,7 +828,7 @@ is available at https://github.com/Jun-Jie-Shi/PASSION.
 摘要：不完整的多模態影像分割是醫學影像中的一項基本任務，用於在只有部分模態可用時精進部署效率。然而，在模型訓練期間可見完整模態資料的常見做法並不切實際，因為在臨床場景中，模態可能會有不平衡的遺漏率。在本文中，我們首次制定了這樣一個具有挑戰性的設定，並提出了不平衡遺漏率下不完整多模態醫學影像分割的偏好感知自蒸餾 (PASSION)。具體來說，我們首先建構像素級和語義級自蒸餾，以平衡每個模態的最佳化目標。然後，我們定義相對偏好來評估訓練期間每個模態的主導地位，並根據此設計任務級和梯度級正則化，以平衡不同模態的收斂率。在兩個公開的多模態資料集上的實驗結果證明了 PASSION 優於現有模態平衡方法。更重要的是，PASSION 被驗證為即插即用模組，可在不同的主幹中持續提升效能。程式碼可在 https://github.com/Jun-Jie-Shi/PASSION 取得。
 
 ##### **Improving Representation of High-frequency Components for Medical Foundation Models**
-2407.14651v1 by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Xin Gao
+2407.14651v2 by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Xin Gao
 
 Foundation models have recently attracted significant attention for their
 impressive generalizability across diverse downstream tasks. However, these
@@ -857,7 +857,7 @@ superior high-frequency representations and preservation in the embeddings,
 underscoring its potential for developing more generalized and universal
 medical image foundation models.
 
-摘要：基礎模型最近因其在各種下游任務中令人印象深刻的泛化能力而備受關注。然而，這些模型在表示高頻率組成和細粒度細節方面表現出很大的限制。在許多醫學影像任務中，由於涉及固有的複雜解剖結構、次視覺特徵和複雜的邊界，因此準確表示此類信息至關重要。因此，流行基礎模型的有限表示可能會導致這些任務的性能顯著下降甚至失敗。為了應對這些挑戰，我們提出了一種新穎的預訓練策略，稱為頻率先進表示自編碼器（Frepa）。通過高頻屏蔽和低頻擾動與對抗性學習相結合，Frepa 鼓勵編碼器有效地表示和保留圖像嵌入中的高頻組成。此外，我們引入了一種創新的直方圖均衡圖像屏蔽策略，將掩蔽自編碼器方法從 ViT 擴展到其他架構，例如 Swin Transformer 和卷積網路。我們在九種醫療模式下開發了 Frepa，並在 2D 圖像和 3D 體積數據的 32 個下游任務上對其進行了驗證。在不進行微調的情況下，Frepa 可以優於其他自監督預訓練方法，在某些情況下甚至優於任務特定訓練模型。對於涉及細粒度細節的任務，這種改進尤其顯著，例如視網膜血管分割的 DSC 增加高達 +15%，肺結節檢測的 IoU 增加 +7%。進一步的實驗定量地表明，Frepa 能夠在嵌入中實現優越的高頻表示和保留，這凸顯了其開發更通用和通用的醫學影像基礎模型的潛力。
+摘要：<paragraph>基礎模型最近因其在各種下游任務中令人印象深刻的泛化能力而備受關注。然而，這些模型已證明在表示高頻率組成和細粒度細節方面表現出很大的局限性。在許多醫學影像任務中，由於涉及固有的複雜解剖結構、次視覺特徵和複雜邊界，因此準確表示此類信息至關重要。因此，流行基礎模型的有限表示可能會導致這些任務的顯著性能下降甚至失敗。為了應對這些挑戰，我們提出了一種名為頻率先進表示自動編碼器 (Frepa) 的新穎預訓練策略。通過高頻掩蔽和低頻擾動與對抗學習相結合，Frepa 鼓勵編碼器有效表示和保留圖像嵌入中的高頻組成。此外，我們引入了一種創新的直方圖均衡圖像掩蔽策略，將掩蔽自動編碼器方法從 ViT 擴展到其他架構，例如 Swin Transformer 和卷積網路。我們在九種醫學模式下開發了 Frepa，並在 32 個下游任務中對其進行了驗證，包括 2D 圖像和 3D 體積數據。在不進行微調的情況下，Frepa 可以優於其他自我監督預訓練方法，並且在某些情況下，甚至超過了特定任務訓練的模型。這種改進對於涉及細粒度細節的任務尤其顯著，例如在視網膜血管分割中將 DSC 提高了 15%，在肺結節檢測中將 IoU 提高了 7%。進一步的實驗定量地表明，Frepa 能夠在嵌入中實現優越的高頻表示和保留，這突顯了其開發更通用和通用的醫學影像基礎模型的潛力。</paragraph>
 
 ##### **CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models**
 2407.14640v1 by Rikhiya Ghosh, Oladimeji Farri, Hans-Martin von Stockhausen, Martin Schmitt, George Marica Vasile
@@ -1431,7 +1431,7 @@ on the viability of using GPT-4V in a radiology workflow.
 摘要：GPT-4V 所謂強大的多模態能力引起了人們對使用它來自動化放射報告編寫的興趣，但卻缺乏徹底的評估。在這項工作中，我們對 GPT-4V 在兩個胸部 X 光報告數據集：MIMIC-CXR 和 IU X-Ray 上生成放射報告進行了系統評估。我們嘗試通過不同的提示策略直接使用 GPT-4V 生成報告，並發現它在詞彙指標和臨床療效指標上都表現得很糟糕。為了了解低性能，我們將任務分解為兩個步驟：1) 從圖像預測醫療狀況標籤的醫學影像推理步驟；以及 2) 從（真實）條件生成報告的報告合成步驟。我們表明，GPT-4V 在圖像推理中的表現始終低於不同的提示。事實上，模型預測標籤的分布保持不變，無論圖像上存在哪些真實條件，這表明該模型沒有有意義地解釋胸部 X 光。即使在報告合成中給出真實條件，其生成的報告也不如微調後的 LLaMA-2 正確和自然。總之，我們的發現對在放射工作流程中使用 GPT-4V 的可行性提出了質疑。
 
 ##### **LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**
-2407.12126v1 by Bunyamin Keles, Murat Gunay, Serdar I. Caglar
+2407.12126v2 by Bunyamin Keles, Murat Gunay, Serdar I. Caglar
 
 Machine translation is indispensable in healthcare for enabling the global
 dissemination of medical knowledge across languages. However, complex medical
@@ -1460,9 +1460,9 @@ neural translation models and the LLMs-in-the-loop methodology to advance the
 field through improved data generation, evaluation, agent, and modeling
 techniques.
 
-摘要：<paragraph>機器翻譯在醫療保健中不可或缺，因為它能跨語言傳播全球醫療知識。然而，複雜的醫學術語對達成適當的翻譯品質和準確性構成獨特的挑戰。本研究介紹一種新穎的「迴圈中的 LLM」方法，用於開發專門針對醫學文本最佳化的監督式神經機器翻譯模型。雖然大型語言模型 (LLM) 已展現強大的能力，但本研究顯示，針對高品質領域內 (大多為合成) 資料訓練的小型特殊化模型，甚至可以超越規模更大的 LLM。
-  從科學文章、合成產生的臨床文件和醫學文本編譯了六種語言的客製化平行語料庫。我們的迴圈中 LLM 方法採用合成資料產生、嚴謹評估和代理協調來提升效能。我們使用 MarianMT 基礎模型開發小型醫學翻譯模型。我們引入新的醫學翻譯測試資料集，用於標準化此領域的評估。在這個測試集中使用 BLEU、METEOR、ROUGE 和 BERT 分數進行評估，我們的 MarianMT 基礎模型優於 Google Translate、DeepL 和 GPT-4-Turbo。
-  結果證明，我們的迴圈中 LLM 方法結合針對特定領域進行微調的高品質資料，使特殊化模型能超越通用和一些較大的系統。這項研究是專家小型模型系列的一部分，為未來的醫療保健相關 AI 發展鋪路，包括去識別化和生物醫學實體萃取模型。我們的研究強調了客製化神經翻譯模型和迴圈中 LLM 方法的潛力，透過改善資料產生、評估、代理和建模技術，推進這個領域的發展。</paragraph>
+摘要：<paragraph>機器翻譯在醫療保健中不可或缺，因為它能讓醫療知識跨語言在全球傳播。然而，複雜的醫療術語對達成適當的翻譯品質和精確度提出了獨特挑戰。本研究介紹了一種新穎的「迴圈中的大型語言模型」方法，用於開發專門針對醫療文本進行最佳化的監督式神經機器翻譯模型。儘管大型語言模型 (LLM) 已展現強大的能力，但本研究顯示，根據高品質領域內 (大多為合成) 資料訓練的小型專門模型，其表現甚至能超越規模龐大的 LLM。
+  從科學文章、合成產生的臨床文件和醫療文本中編譯了六種語言的客製化平行語料庫。我們的迴圈中 LLM 方法採用合成資料產生、嚴格評估和代理程式編排來提升效能。我們使用 MarianMT 基礎模型開發了小型醫療翻譯模型。我們引進新的醫療翻譯測試資料集，以標準化此領域的評估。使用此測試集上的 BLEU、METEOR、ROUGE 和 BERT 分數進行評估，我們的 MarianMT 基礎模型表現優於 Google Translate、DeepL 和 GPT-4-Turbo。
+  結果顯示，我們的迴圈中 LLM 方法結合微調高品質特定領域資料，能讓專門模型的表現優於一般用途和一些規模較大的系統。本研究是專家小型模型廣泛系列的一部分，為未來的醫療保健相關 AI 發展鋪路，包括去識別化和生物醫學實體萃取模型。我們的研究強調了客製化神經翻譯模型和迴圈中 LLM 方法的潛力，它們能透過改善資料產生、評估、代理程式和建模技術，讓這個領域進步。</paragraph>
 
 ##### **Schema Matching with Large Language Models: an Experimental Study**
 2407.11852v1 by Marcel Parciak, Brecht Vandevoort, Frank Neven, Liesbet M. Peeters, Stijn Vansummeren

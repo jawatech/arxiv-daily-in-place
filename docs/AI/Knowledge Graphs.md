@@ -2,7 +2,13 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v1](http://arxiv.org/abs/2407.18752v1)|[link](https://github.com/littleflow3r/kg-structure-as-prompt)|
+|**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183v1](http://arxiv.org/abs/2407.20183v1)|[link](https://github.com/internlm/mindsearch)|
+|**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157v1](http://arxiv.org/abs/2407.20157v1)|[link](https://github.com/rllm-project/rllm)|
+|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643v1](http://arxiv.org/abs/2407.19643v1)|[link](https://github.com/iamryanshengwang/prometheus-chatbot)|
+|**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
+|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
+|**2024-07-26**|**GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**|Yuchen Shen et.al.|[2407.19039v1](http://arxiv.org/abs/2407.19039v1)|null|
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v2](http://arxiv.org/abs/2407.18752v2)|[link](https://github.com/littleflow3r/kg-structure-as-prompt)|
 |**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607v1](http://arxiv.org/abs/2407.18607v1)|null|
 |**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479v1](http://arxiv.org/abs/2407.18479v1)|null|
 |**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
@@ -20,6 +26,7 @@
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
+|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v1](http://arxiv.org/abs/2407.18961v1)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
@@ -95,17 +102,142 @@
 |**2024-06-24**|**CLEAR: Can Language Models Really Understand Causal Graphs?**|Sirui Chen et.al.|[2406.16605v1](http://arxiv.org/abs/2406.16605v1)|[link](https://github.com/opencausalab/clear)|
 |**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|[link](https://github.com/MatNLP/KEHRL)|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
-|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252v2](http://arxiv.org/abs/2406.16252v2)|null|
-|**2024-06-23**|**GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**|Qiming Wu et.al.|[2406.16176v1](http://arxiv.org/abs/2406.16176v1)|null|
-|**2024-06-23**|**Can LLM Graph Reasoning Generalize beyond Pattern Memorization?**|Yizhuo Zhang et.al.|[2406.15992v1](http://arxiv.org/abs/2406.15992v1)|[link](https://github.com/matthewyzhang/nlgift)|
-|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859v2](http://arxiv.org/abs/2406.15859v2)|null|
-|**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963v1](http://arxiv.org/abs/2406.16963v1)|null|
-|**2024-06-21**|**Inferring Pluggable Types with Machine Learning**|Kazi Amanul Islam Siddiqui et.al.|[2406.15676v1](http://arxiv.org/abs/2406.15676v1)|null|
-|**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v2](http://arxiv.org/abs/2406.15294v2)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
 
 #### Abstracts
+##### **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**
+2407.20183v1 by Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
+
+Information seeking and integration is a complex cognitive task that consumes
+enormous time and effort. Inspired by the remarkable progress of Large Language
+Models, recent works attempt to solve this task by combining LLMs and search
+engines. However, these methods still obtain unsatisfying performance due to
+three challenges: (1) complex requests often cannot be accurately and
+completely retrieved by the search engine once (2) corresponding information to
+be integrated is spread over multiple web pages along with massive noise, and
+(3) a large number of web pages with long contents may quickly exceed the
+maximum context length of LLMs. Inspired by the cognitive process when humans
+solve these problems, we introduce MindSearch to mimic the human minds in web
+information seeking and integration, which can be instantiated by a simple yet
+effective LLM-based multi-agent framework. The WebPlanner models the human mind
+of multi-step information seeking as a dynamic graph construction process: it
+decomposes the user query into atomic sub-questions as nodes in the graph and
+progressively extends the graph based on the search result from WebSearcher.
+Tasked with each sub-question, WebSearcher performs hierarchical information
+retrieval with search engines and collects valuable information for WebPlanner.
+The multi-agent design of MindSearch enables the whole framework to seek and
+integrate information parallelly from larger-scale (e.g., more than 300) web
+pages in 3 minutes, which is worth 3 hours of human effort. MindSearch
+demonstrates significant improvement in the response quality in terms of depth
+and breadth, on both close-set and open-set QA problems. Besides, responses
+from MindSearch based on InternLM2.5-7B are preferable by humans to ChatGPT-Web
+and Perplexity.ai applications, which implies that MindSearch can already
+deliver a competitive solution to the proprietary AI search engine.
+
+摘要：資訊搜尋與整合是一項複雜的認知任務，會耗費大量時間與精力。在大型語言模型顯著進展的啟發下，近期研究嘗試結合大型語言模型與搜尋引擎來解決此任務。然而，這些方法仍因三項挑戰而無法獲得令人滿意的效能：(1) 複雜的查詢通常無法由搜尋引擎一次準確且完整地擷取，(2) 要整合的對應資訊散布在多個網頁中且伴隨著大量雜訊，以及 (3) 大量內容過長的網頁可能會快速超過大型語言模型的最大脈絡長度。在人類解決這些問題的認知過程中獲得靈感，我們引入了 MindSearch 來模擬人類心智在網頁資訊搜尋與整合中的行為，這可以用一個簡單但有效的基於大型語言模型的多代理架構來實例化。WebPlanner 以動態圖形建構過程來建模人類心智的多步驟資訊搜尋：它將使用者查詢分解成圖形中的節點，作為原子化子問題，並根據 WebSearcher 的搜尋結果逐步延伸圖形。WebSearcher 以每個子問題為任務，執行搜尋引擎的分層式資訊擷取，並為 WebPlanner 收集有價值的資訊。MindSearch 的多代理設計讓整個架構可以在 3 分鐘內平行地從更大規模（例如超過 300 個）的網頁中搜尋並整合資訊，這相當於 3 小時的人力。MindSearch 在深度和廣度方面都顯著提升了回應品質，無論是在封閉式或開放式問答問題上。此外，人類更偏好基於 InternLM2.5-7B 的 MindSearch 回應，勝過 ChatGPT-Web 和 Perplexity.ai 應用程式，這表示 MindSearch 已經可以為專有 AI 搜尋引擎提供有競爭力的解決方案。
+
+##### **rLLM: Relational Table Learning with LLMs**
+2407.20157v1 by Weichen Li, Xiaotong Huang, Jianwu Zheng, Zheng Wang, Chaokun Wang, Li Pan, Jianhua Li
+
+We introduce rLLM (relationLLM), a PyTorch library designed for Relational
+Table Learning (RTL) with Large Language Models (LLMs). The core idea is to
+decompose state-of-the-art Graph Neural Networks, LLMs, and Table Neural
+Networks into standardized modules, to enable the fast construction of novel
+RTL-type models in a simple "combine, align, and co-train" manner. To
+illustrate the usage of rLLM, we introduce a simple RTL method named
+\textbf{BRIDGE}. Additionally, we present three novel relational tabular
+datasets (TML1M, TLF2K, and TACM12K) by enhancing classic datasets. We hope
+rLLM can serve as a useful and easy-to-use development framework for
+RTL-related tasks. Our code is available at:
+https://github.com/rllm-project/rllm.
+
+摘要：我們引入了 rLLM (relationLLM)，一個專為大型語言模型 (LLM) 的關係表學習 (RTL) 所設計的 PyTorch 函式庫。核心概念是將最先進的圖形神經網路、LLM 和表神經網路分解為標準化模組，以便以簡單的「組合、對齊和共同訓練」方式快速建構新型 RTL 類型模型。為了說明 rLLM 的用法，我們引入了名為 \textbf{BRIDGE} 的簡單 RTL 方法。此外，我們透過強化經典資料集來呈現三個新穎的關係表格資料集 (TML1M、TLF2K 和 TACM12K)。我們希望 rLLM 能夠作為 RTL 相關任務有用的且易於使用的開發架構。我們的程式碼可在以下網址取得：
+https://github.com/rllm-project/rllm。
+
+##### **Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**
+2407.19643v1 by Yunsheng Wang, Songhao Chen, Kevin Jin
+
+Knowledge graphs (KGs) are essential in applications such as network
+alignment, question-answering, and recommender systems (RSs) since they offer
+structured relational data that facilitate the inference of indirect
+relationships. However, the development of KG-based RSs capable of processing
+user inputs in natural language faces significant challenges. Firstly, natural
+language processing units must effectively handle the ambiguity and variability
+in human language to interpret user intents accurately. Secondly, the system
+must precisely identify and link entities, like product names, to their
+corresponding nodes in KGs. To overcome these challenges, supported by Lenovo,
+we developed a novel chatbot called "Prometheus," which integrates a KG with a
+large language model (LLM), specifically designed for recommending computer
+components. This chatbot can accurately decode user requests and deliver
+personalized recommendations derived from KGs, ensuring precise comprehension
+and response to their computer setup needs.
+
+摘要：知識圖譜 (KG) 在網路比對、問答和推薦系統 (RS) 等應用中至關重要，因為它們提供結構化的關係資料，有助於推斷間接關係。然而，開發能夠處理自然語言使用者輸入的基於 KG 的 RS 會面臨重大挑戰。首先，自然語言處理單元必須有效處理人類語言中的歧義和變異性，以準確解讀使用者意圖。其次，系統必須精確識別和連結實體，例如產品名稱，到 KG 中對應的節點。為了克服這些挑戰，在聯想的支援下，我們開發了一個名為「普羅米修斯」的新聊天機器人，它將 KG 與大型語言模型 (LLM) 整合在一起，專門用於推薦電腦組件。這個聊天機器人可以準確解碼使用者的要求，並提供從 KG 中衍生的個人化推薦，確保準確理解和回應他們對電腦設定的需求。
+
+##### **TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**
+2407.19616v1 by Selma Wanna, Ryan Barron, Nick Solovyev, Maksim E. Eren, Manish Bhattarai, Kim Rasmussen, Boian S. Alexandrov
+
+Topic modeling is a technique for organizing and extracting themes from large
+collections of unstructured text. Non-negative matrix factorization (NMF) is a
+common unsupervised approach that decomposes a term frequency-inverse document
+frequency (TF-IDF) matrix to uncover latent topics and segment the dataset
+accordingly. While useful for highlighting patterns and clustering documents,
+NMF does not provide explicit topic labels, necessitating subject matter
+experts (SMEs) to assign labels manually. We present a methodology for
+automating topic labeling in documents clustered via NMF with automatic model
+determination (NMFk). By leveraging the output of NMFk and employing prompt
+engineering, we utilize large language models (LLMs) to generate accurate topic
+labels. Our case study on over 34,000 scientific abstracts on Knowledge Graphs
+demonstrates the effectiveness of our method in enhancing knowledge management
+and document organization.
+
+摘要：主題建模是一種從大量非結構化文本中組織和提取主題的技術。非負矩陣分解 (NMF) 是一種常見的無監督方法，它將詞頻-逆文件頻率 (TF-IDF) 矩陣分解為潛在主題，並據此對數據集進行分段。儘管 NMF 可用於強調模式和群組文件，但它不提供明確的主題標籤，這需要主題專家 (SME) 手動分配標籤。我們提出了一種方法，用於自動標記通過 NMF 進行群組的文件，並自動確定模型 (NMFk)。通過利用 NMFk 的輸出並採用提示工程，我們利用大型語言模型 (LLM) 來生成準確的主題標籤。我們對超過 34,000 篇關於知識圖譜的科學摘要進行的案例研究證明了我們的方法在增強知識管理和文件組織方面的有效性。
+
+##### **Semantic Communication Enhanced by Knowledge Graph Representation Learning**
+2407.19338v1 by Nour Hello, Paolo Di Lorenzo, Emilio Calvanese Strinati
+
+This paper investigates the advantages of representing and processing
+semantic knowledge extracted into graphs within the emerging paradigm of
+semantic communications. The proposed approach leverages semantic and pragmatic
+aspects, incorporating recent advances on large language models (LLMs) to
+achieve compact representations of knowledge to be processed and exchanged
+between intelligent agents. This is accomplished by using the cascade of LLMs
+and graph neural networks (GNNs) as semantic encoders, where information to be
+shared is selected to be meaningful at the receiver. The embedding vectors
+produced by the proposed semantic encoder represent information in the form of
+triplets: nodes (semantic concepts entities), edges(relations between
+concepts), nodes. Thus, semantic information is associated with the
+representation of relationships among elements in the space of semantic concept
+abstractions. In this paper, we investigate the potential of achieving high
+compression rates in communication by incorporating relations that link
+elements within graph embeddings. We propose sending semantic symbols solely
+equivalent to node embeddings through the wireless channel and inferring the
+complete knowledge graph at the receiver. Numerical simulations illustrate the
+effectiveness of leveraging knowledge graphs to semantically compress and
+transmit information.
+
+摘要：本文研究了在语义通信的新兴范例中将提取到图中的语义知识表示和处理的优势。所提出的方法利用语义和语用方面，结合了大语言模型 (LLM) 的最新进展，以实现要处理和在智能代理之间交换的知识的紧凑表示。这是通过使用 LLM 和图神经网络 (GNN) 的级联作为语义编码器来完成的，其中要共享的信息被选择为对接收者有意义。由所提出的语义编码器产生的嵌入向量以三元组的形式表示信息：节点（语义概念实体）、边（概念之间的关系）、节点。因此，语义信息与语义概念抽象空间中元素之间关系的表示相关联。在本文中，我们研究了通过合并将图嵌入中的元素联系起来的关联来实现高压缩率的潜力。我们建议仅通过无线信道发送语义符号，这些符号完全等效于节点嵌入，并在接收器处推断出完整的知识图。数值模拟说明了利用知识图语义压缩和传输信息的有效性。
+
+##### **GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**
+2407.19039v1 by Yuchen Shen, Barnabás Póczos
+
+With the increasing attention to molecular machine learning, various
+innovations have been made in designing better models or proposing more
+comprehensive benchmarks. However, less is studied on the data preprocessing
+schedule for molecular graphs, where a different view of the molecular graph
+could potentially boost the model's performance. Inspired by the Byte-Pair
+Encoding (BPE) algorithm, a subword tokenization method popularly adopted in
+Natural Language Processing, we propose GraphBPE, which tokenizes a molecular
+graph into different substructures and acts as a preprocessing schedule
+independent of the model architectures. Our experiments on 3 graph-level
+classification and 3 graph-level regression datasets show that data
+preprocessing could boost the performance of models for molecular graphs, and
+GraphBPE is effective for small classification datasets and it performs on par
+with other tokenization methods across different model architectures.
+
+摘要：隨著分子機器學習受到的關注度越來越高，在設計更好的模型或提出更全面的基準方面已經有了各種創新。然而，對於分子圖的數據預處理計畫研究較少，在該計畫中，分子圖的不同視圖可能會提升模型的效能。受到在自然語言處理中廣泛採用的子詞彙標記化方法 Byte-Pair 編碼 (BPE) 演算法的啟發，我們提出了 GraphBPE，它將分子圖標記化為不同的子結構，並作為與模型架構無關的預處理計畫。我們在 3 個圖形層級分類和 3 個圖形層級回歸資料集上的實驗顯示，資料預處理可以提升分子圖模型的效能，而 GraphBPE 對於小型分類資料集有效，並且在不同的模型架構中與其他標記化方法表現相當。
+
 ##### **Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**
-2407.18752v1 by Yuni Susanti, Michael Färber
+2407.18752v2 by Yuni Susanti, Michael Färber
 
 Causal discovery aims to estimate causal structures among variables based on
 observational data. Large Language Models (LLMs) offer a fresh perspective to
@@ -125,7 +257,7 @@ capabilities of SLMs: in combination with knowledge graphs and prompt-based
 learning, SLMs demonstrate the potential to surpass LLMs with larger number of
 parameters. Our code and datasets are available on GitHub.
 
-摘要：因果發現旨在根據觀測資料估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新觀點，透過推理與變數相關的元資料，而非其實際資料值，來解決因果發現問題，這種方法稱為基於知識的因果發現。在本文中，我們探討小型語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並使用基於提示的學習進行基於知識的因果發現。具體來說，我們提出 KG 結構作為提示，這是一種新穎的方法，可以將來自知識圖表的結構化資訊（例如，共同鄰居節點和元路徑）整合到基於提示的學習中，以增強 SLM 的能力。在少次嘗試的設定下，針對三種類型的生物醫學和開放領域資料集的實驗結果證明了我們方法的有效性，超越了大多數基線，甚至超越了針對完整資料集訓練的傳統微調方法。我們的發現進一步突顯了 SLM 的強大功能：SLM 結合知識圖表和基於提示的學習，證明了超越參數數量較多的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上取得。
+摘要：因果發現旨在根據觀測資料估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新的觀點，通過對與變數相關的元資料進行推理，而不是它們的實際資料值來解決因果發現問題，這種方法稱為基於知識的因果發現。在本文中，我們研究了小語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並使用基於提示的學習進行基於知識的因果發現。具體來說，我們提出了 KG Structure as Prompt，這是一種新穎的方法，它將來自知識圖譜的結構資訊（例如共同鄰居節點和元路徑）整合到基於提示的學習中，以增強 SLM 的能力。在少樣本設定下，在三種類型的生物醫學和開放領域資料集上的實驗結果證明了我們方法的有效性，它優於大多數基準，甚至優於在完整資料集上訓練的傳統微調方法。我們的發現進一步突出了 SLM 的強大功能：結合知識圖譜和基於提示的學習，SLM 展示了超越具有更多參數的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上找到。
 
 ##### **Using GPT-4 to guide causal machine learning**
 2407.18607v1 by Anthony C. Constantinou, Neville K. Kitson, Alessio Zanga
@@ -525,6 +657,36 @@ optimizing RS deployment and to inspire future research directions, especially
 in addressing emerging technological and societal trends
 
 摘要：推薦系統 (RS) 在提升使用者體驗中扮演著不可或缺的角色，透過提供個人化的商品建議。這項調查回顧了 RS 在 2017 年到 2024 年間的進展，有效地將理論進展與實際應用連結起來。我們探討了從傳統的 RS 技術，例如基於內容和協同過濾，到涉及深度學習、基於圖形的模型、強化學習和大語言模型等先進方法的發展。我們也討論了專門的系統，例如情境感知、基於評論和公平感知的 RS。這項調查的主要目標是將理論與實務結合起來。它解決了各個領域的挑戰，包括電子商務、醫療保健和金融，強調了對可擴充、即時和可信賴的解決方案的需求。透過這項調查，我們促進了學術研究和產業實務之間更強大的夥伴關係。這項調查提供的見解旨在引導產業專業人士優化 RS 部署，並激勵未來的研究方向，特別是在解決新興的技術和社會趨勢方面。
+
+##### **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**
+2407.18961v1 by Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang, Dian Ang Yap, Yizhe zhang, Karsten Ahnert, Vik Kamath, Mathias Berglund, Dominic Walsh, Tobias Gindele, Juergen Wiest, Zhengfeng Lai, Xiaoming Wang, Jiulong Shan, Meng Cao, Ruoming Pang, Zirui Wang
+
+Recent advances in large language models (LLMs) have increased the demand for
+comprehensive benchmarks to evaluate their capabilities as human-like agents.
+Existing benchmarks, while useful, often focus on specific application
+scenarios, emphasizing task completion but failing to dissect the underlying
+skills that drive these outcomes. This lack of granularity makes it difficult
+to deeply discern where failures stem from. Additionally, setting up these
+environments requires considerable effort, and issues of unreliability and
+reproducibility sometimes arise, especially in interactive tasks. To address
+these limitations, we introduce the Massive Multitask Agent Understanding
+(MMAU) benchmark, featuring comprehensive offline tasks that eliminate the need
+for complex environment setups. It evaluates models across five domains,
+including \textcolor{teal}{Tool-use}, \textcolor{teal}{Directed Acyclic Graph
+(DAG) QA}, \textcolor{teal}{Data Science and Machine Learning coding},
+\textcolor{teal}{Contest-level programming} and \textcolor{teal}{Mathematics},
+and covers five essential capabilities: \textcolor{orange}{Understanding},
+\textcolor{orange}{Reasoning}, \textcolor{orange}{Planning},
+\textcolor{orange}{Problem-solving}, and \textcolor{orange}{Self-correction}.
+With a total of 20 meticulously designed tasks encompassing over 3K distinct
+prompts, MMAU provides a comprehensive framework for evaluating the strengths
+and limitations of LLM agents. By testing 18 representative models on MMAU, we
+provide deep and insightful analyses. Ultimately, MMAU not only sheds light on
+the capabilities and limitations of LLM agents but also enhances the
+interpretability of their performance. Datasets and evaluation scripts of MMAU
+are released at \url{https://github.com/apple/axlearn/docs/research/mmau}.
+
+摘要：<paragraph>大型語言模型 (LLM) 的最新進展增加了對綜合基準的需求，以評估它們作為類人代理的能力。現有的基準雖然有用，但通常專注於具體的應用場景，強調任務完成，但未能剖析驅動這些結果的底層技能。這種缺乏粒度性使得難以深入辨別失敗的根源。此外，建立這些環境需要大量的精力，而且有時會出現不可靠性和可重複性的問題，特別是在互動任務中。為了解決這些限制，我們引入了大規模多任務代理理解 (MMAU) 基準，它具有全面的離線任務，消除了對複雜環境設置的需求。它跨五個領域評估模型，包括\textcolor{teal}{工具使用}、\textcolor{teal}{有向無環圖 (DAG) 問答}、\textcolor{teal}{數據科學和機器學習編碼}、\textcolor{teal}{競賽級編程}和\textcolor{teal}{數學}，並涵蓋五項基本能力：\textcolor{orange}{理解}、\textcolor{orange}{推理}、\textcolor{orange}{規劃}、\textcolor{orange}{問題解決}和\textcolor{orange}{自我糾正}。MMAU 總共包含 20 項精心設計的任務，涵蓋超過 3K 個不同的提示，為評估 LLM 代理的優勢和局限性提供了一個全面的框架。通過在 MMAU 上測試 18 個代表性模型，我們提供了深入且有見地的分析。最終，MMAU 不僅闡明了 LLM 代理的能力和局限性，還增強了它們性能的可解釋性。MMAU 的數據集和評估腳本發布在 \url{https://github.com/apple/axlearn/docs/research/mmau}。</paragraph>
 
 ##### **Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**
 2407.12725v1 by Ben Yao, Yazhou Zhang, Qiuchi Li, Jing Qin
@@ -2302,190 +2464,4 @@ with the original prompt. The code can be accessed via
 https://github.com/TruthAI-Lab/PCIG.
 
 摘要：文本到图像 (T2I) 生成模型的快速进步使得合成由文本描述引导的高质量图像成为可能。尽管取得了这些重大进展，但这些模型在生成与输入文本相矛盾的内容方面通常很敏感，这对它们的可靠性和实际部署提出了挑战。为了解决这个问题，我们引入了一个新颖的基于扩散的框架，以显着增强生成图像与其相应描述的一致性，解决视觉输出和文本输入之间的不一致性。我们的框架建立在对不一致现象的全面分析之上，根据它们在图像中的表现对它们进行分类。利用最先进的大型语言模块，我们首先提取对象并构建知识图谱来预测这些对象在潜在生成的图像中的位置。然后，我们将最先进的可控图像生成模型与视觉文本生成模块集成在一起，以生成与原始提示一致的图像，并由预测的对象位置引导。通过在高级多模态幻觉基准上进行广泛的实验，我们展示了我们的方法在准确生成图像方面的有效性，而不会与原始提示不一致。可以通过 https://github.com/TruthAI-Lab/PCIG 访问代码。
-
-##### **Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**
-2406.16252v2 by Ajan Subramanian, Zhongqi Yang, Iman Azimi, Amir M. Rahmani
-
-Health monitoring systems have revolutionized modern healthcare by enabling
-the continuous capture of physiological and behavioral data, essential for
-preventive measures and early health intervention. While integrating this data
-with Large Language Models (LLMs) has shown promise in delivering interactive
-health advice, traditional methods like Retrieval-Augmented Generation (RAG)
-and fine-tuning often fail to fully utilize the complex, multi-dimensional, and
-temporally relevant data from wearable devices. These conventional approaches
-typically provide limited actionable and personalized health insights due to
-their inadequate capacity to dynamically integrate and interpret diverse health
-data streams. In response, this paper introduces a graph-augmented LLM
-framework designed to significantly enhance the personalization and clarity of
-health insights. Utilizing a hierarchical graph structure, the framework
-captures inter and intra-patient relationships, enriching LLM prompts with
-dynamic feature importance scores derived from a Random Forest Model. The
-effectiveness of this approach is demonstrated through a sleep analysis case
-study involving 20 college students during the COVID-19 lockdown, highlighting
-the potential of our model to generate actionable and personalized health
-insights efficiently. We leverage another LLM to evaluate the insights for
-relevance, comprehensiveness, actionability, and personalization, addressing
-the critical need for models that process and interpret complex health data
-effectively. Our findings show that augmenting prompts with our framework
-yields significant improvements in all 4 criteria. Through our framework, we
-can elicit well-crafted, more thoughtful responses tailored to a specific
-patient.
-
-摘要：健康監控系統透過持續收集生理和行為資料，徹底改變了現代醫療保健，這些資料對於預防措施和早期健康干預至關重要。雖然將這些資料與大型語言模型 (LLM) 整合，已展現出提供互動式健康建議的潛力，但傳統方法（例如檢索擴充生成 (RAG) 和微調）通常無法充分利用穿戴式裝置中複雜、多面向且與時間相關的資料。這些傳統方法通常會提供有限的可行且個人化的健康見解，因為它們無法動態整合和詮釋不同的健康資料串流。為了解決這個問題，本文介紹了一個圖形擴充 LLM 架構，旨在大幅提升健康見解的個人化和清晰度。這個架構利用階層式圖形結構，擷取患者之間和患者內部的關係，並使用從 Random Forest 模型衍生的動態特徵重要性評分，豐富 LLM 提示。透過一項睡眠分析案例研究（在 COVID-19 封鎖期間針對 20 名大學生進行）證明了這個方法的有效性，突顯了我們的模型在有效產生可行且個人化的健康見解方面的潛力。我們利用另一個 LLM 評估見解的相關性、全面性、可行性和個人化，滿足了模型有效處理和詮釋複雜健康資料的關鍵需求。我們的研究結果顯示，使用我們的架構擴充提示，可以在所有 4 個標準中大幅改善。透過我們的架構，我們可以引發精心設計、更周全的回應，針對特定患者量身打造。
-
-##### **GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets**
-2406.16176v1 by Qiming Wu, Zichen Chen, Will Corcoran, Misha Sra, Ambuj K. Singh
-
-Large language models (LLMs) have achieved remarkable success in natural
-language processing (NLP), demonstrating significant capabilities in processing
-and understanding text data. However, recent studies have identified
-limitations in LLMs' ability to reason about graph-structured data. To address
-this gap, we introduce GraphEval2000, the first comprehensive graph dataset,
-comprising 40 graph data structure problems along with 2000 test cases.
-Additionally, we introduce an evaluation framework based on GraphEval2000,
-designed to assess the graph reasoning abilities of LLMs through coding
-challenges. Our dataset categorizes test cases into four primary and four
-sub-categories, ensuring a comprehensive evaluation. We evaluate eight popular
-LLMs on GraphEval2000, revealing that LLMs exhibit a better understanding of
-directed graphs compared to undirected ones. While private LLMs consistently
-outperform open-source models, the performance gap is narrowing. Furthermore,
-to improve the usability of our evaluation framework, we propose Structured
-Symbolic Decomposition (SSD), an instruction-based method designed to enhance
-LLM performance on GraphEval2000. Results show that SSD improves the
-performance of GPT-3.5, GPT-4, and GPT-4o on complex graph problems, with an
-increase of 11.11\%, 33.37\%, and 33.37\%, respectively.
-
-摘要：大型語言模型 (LLM) 在自然語言處理 (NLP) 中取得了顯著的成功，在處理和理解文本數據方面表現出顯著的能力。然而，最近的研究發現 LLM 在推理圖形結構數據的能力方面存在局限性。為了解決這個差距，我們引入了 GraphEval2000，第一個全面的圖形數據集，包含 40 個圖形數據結構問題以及 2000 個測試用例。此外，我們還引入了基於 GraphEval2000 的評估框架，旨在通過編碼挑戰評估 LLM 的圖形推理能力。我們的數據集將測試用例分為四個主要類別和四個子類別，確保進行全面的評估。我們在 GraphEval2000 上評估了八個流行的 LLM，結果表明，與無向圖相比，LLM 對有向圖的理解更好。雖然私有 LLM 持續優於開源模型，但性能差距正在縮小。此外，為了提高我們評估框架的可用性，我們提出了結構化符號分解 (SSD)，一種基於指令的方法，旨在增強 LLM 在 GraphEval2000 上的性能。結果表明，SSD 分別提高了 GPT-3.5、GPT-4 和 GPT-4o 在複雜圖形問題上的性能，分別增加了 11.11%、33.37% 和 33.37%。
-
-##### **Can LLM Graph Reasoning Generalize beyond Pattern Memorization?**
-2406.15992v1 by Yizhuo Zhang, Heng Wang, Shangbin Feng, Zhaoxuan Tan, Xiaochuang Han, Tianxing He, Yulia Tsvetkov
-
-Large language models (LLMs) demonstrate great potential for problems with
-implicit graphical structures, while recent works seek to enhance the graph
-reasoning capabilities of LLMs through specialized instruction tuning. The
-resulting 'graph LLMs' are evaluated with in-distribution settings only, thus
-it remains underexplored whether LLMs are learning generalizable graph
-reasoning skills or merely memorizing patterns in the synthetic training data.
-To this end, we propose the NLGift benchmark, an evaluation suite of LLM graph
-reasoning generalization: whether LLMs could go beyond semantic, numeric,
-structural, reasoning patterns in the synthetic training data and improve
-utility on real-world graph-based tasks. Extensive experiments with two LLMs
-across four graph reasoning tasks demonstrate that while generalization on
-simple patterns (semantic, numeric) is somewhat satisfactory, LLMs struggle to
-generalize across reasoning and real-world patterns, casting doubt on the
-benefit of synthetic graph tuning for real-world tasks with underlying network
-structures. We explore three strategies to improve LLM graph reasoning
-generalization, and we find that while post-training alignment is most
-promising for real-world tasks, empowering LLM graph reasoning to go beyond
-pattern memorization remains an open research question.
-
-摘要：大型語言模型 (LLM) 對於具有隱式圖形結構的問題展現出巨大的潛力，而近期研究則透過專業指令調整來增強 LLM 的圖形推理能力。由此產生的「圖形 LLM」僅在分布內設定中進行評估，因此 LLM 是否學習到可概括的圖形推理技能，或僅僅記憶合成訓練資料中的模式，仍未獲得充分探討。為此，我們提出 NLGift 基準，這是一個 LLM 圖形推理概括評估套件：LLM 是否可以超越合成訓練資料中的語義、數值、結構推理模式，並提升在真實世界基於圖形的任務中的效用。透過兩個 LLM 在四個圖形推理任務中的廣泛實驗證明，儘管在簡單模式（語義、數值）上的概括令人滿意，但 LLM 難以在推理和真實世界模式中概括，對合成圖形調整對於具有基礎網路結構的真實世界任務的益處提出質疑。我們探討了三種策略來改善 LLM 圖形推理概括，我們發現，儘管訓練後對齊對真實世界任務最有希望，但賦能 LLM 圖形推理以超越模式記憶仍然是一個開放的研究問題。
-
-##### **LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**
-2406.15859v2 by Guangsi Shi, Xiaofeng Deng, Linhao Luo, Lijuan Xia, Lei Bao, Bei Ye, Fei Du, Shirui Pan, Yuxiao Li
-
-Recommender systems are pivotal in enhancing user experiences across various
-web applications by analyzing the complicated relationships between users and
-items. Knowledge graphs(KGs) have been widely used to enhance the performance
-of recommender systems. However, KGs are known to be noisy and incomplete,
-which are hard to provide reliable explanations for recommendation results. An
-explainable recommender system is crucial for the product development and
-subsequent decision-making. To address these challenges, we introduce a novel
-recommender that synergies Large Language Models (LLMs) and KGs to enhance the
-recommendation and provide interpretable results. Specifically, we first
-harness the power of LLMs to augment KG reconstruction. LLMs comprehend and
-decompose user reviews into new triples that are added into KG. In this way, we
-can enrich KGs with explainable paths that express user preferences. To enhance
-the recommendation on augmented KGs, we introduce a novel subgraph reasoning
-module that effectively measures the importance of nodes and discovers
-reasoning for recommendation. Finally, these reasoning paths are fed into the
-LLMs to generate interpretable explanations of the recommendation results. Our
-approach significantly enhances both the effectiveness and interpretability of
-recommender systems, especially in cross-selling scenarios where traditional
-methods falter. The effectiveness of our approach has been rigorously tested on
-four open real-world datasets, with our methods demonstrating a superior
-performance over contemporary state-of-the-art techniques by an average
-improvement of 12%. The application of our model in a multinational engineering
-and technology company cross-selling recommendation system further underscores
-its practical utility and potential to redefine recommendation practices
-through improved accuracy and user trust.
-
-摘要：推薦系統在分析使用者與項目之間複雜的關係，提升各種網路應用程式的使用者體驗中扮演著關鍵角色。知識圖譜 (KG) 已被廣泛用於提升推薦系統的效能。然而，KG 眾所周知是有雜訊且不完整的，這使得難以提供可靠的推薦結果說明。一個可解釋的推薦系統對於產品開發和後續決策至關重要。為了應對這些挑戰，我們引入了一個新穎的推薦系統，它結合了大型語言模型 (LLM) 和 KG 來加強推薦並提供可解釋的結果。具體來說，我們首先利用 LLM 的力量來擴充 KG 重建。LLM 理解並將使用者評論分解成新的三元組，並將其新增到 KG 中。透過這種方式，我們可以用表達使用者偏好的可解釋路徑來豐富 KG。為了增強在擴充 KG 上的推薦，我們引入了一個新穎的子圖推理模組，它可以有效地衡量節點的重要性，並找出推薦的理由。最後，這些推理路徑被輸入到 LLM 中，以產生推薦結果的可解釋說明。我們的做法大幅提升了推薦系統的有效性和可解釋性，特別是在傳統方法失效的交叉銷售情境中。我們的做法的有效性已在四個開放的真實世界資料集上經過嚴格測試，我們的做法展示出比當代最先進技術更卓越的效能，平均提升了 12%。我們的模型在一家跨國工程和技術公司交叉銷售推薦系統中的應用進一步突顯了它的實用性，以及透過提升準確性和使用者信任來重新定義推薦實務的潛力。
-
-##### **Large Language Models for Link Stealing Attacks Against Graph Neural Networks**
-2406.16963v1 by Faqian Guan, Tianqing Zhu, Hui Sun, Wanlei Zhou, Philip S. Yu
-
-Graph data contains rich node features and unique edge information, which
-have been applied across various domains, such as citation networks or
-recommendation systems. Graph Neural Networks (GNNs) are specialized for
-handling such data and have shown impressive performance in many applications.
-However, GNNs may contain of sensitive information and susceptible to privacy
-attacks. For example, link stealing is a type of attack in which attackers
-infer whether two nodes are linked or not. Previous link stealing attacks
-primarily relied on posterior probabilities from the target GNN model,
-neglecting the significance of node features. Additionally, variations in node
-classes across different datasets lead to different dimensions of posterior
-probabilities. The handling of these varying data dimensions posed a challenge
-in using a single model to effectively conduct link stealing attacks on
-different datasets. To address these challenges, we introduce Large Language
-Models (LLMs) to perform link stealing attacks on GNNs. LLMs can effectively
-integrate textual features and exhibit strong generalizability, enabling
-attacks to handle diverse data dimensions across various datasets. We design
-two distinct LLM prompts to effectively combine textual features and posterior
-probabilities of graph nodes. Through these designed prompts, we fine-tune the
-LLM to adapt to the link stealing attack task. Furthermore, we fine-tune the
-LLM using multiple datasets and enable the LLM to learn features from different
-datasets simultaneously. Experimental results show that our approach
-significantly enhances the performance of existing link stealing attack tasks
-in both white-box and black-box scenarios. Our method can execute link stealing
-attacks across different datasets using only a single model, making link
-stealing attacks more applicable to real-world scenarios.
-
-摘要：圖形數據包含豐富的節點特徵和獨特的邊緣資訊，已應用於各種領域，例如引文網路或推薦系統。圖形神經網路 (GNN) 專門用於處理此類數據，並在許多應用中展現出令人印象深刻的效能。然而，GNN 可能包含敏感資訊，且容易受到隱私攻擊。例如，連結竊取是一種攻擊，攻擊者推斷兩個節點是否連結。先前的連結竊取攻擊主要依賴於目標 GNN 模型的後驗機率，忽略節點特徵的重要性。此外，不同資料集中的節點類別變化導致後驗機率的不同維度。處理這些不同的資料維度在使用單一模型對不同資料集執行連結竊取攻擊時構成一項挑戰。為了應對這些挑戰，我們引入了大型語言模型 (LLM) 來對 GNN 執行連結竊取攻擊。LLM 可以有效整合文字特徵並展現強大的泛化能力，使攻擊能夠處理不同資料集中的不同資料維度。我們設計了兩個不同的 LLM 提示，以有效結合文字特徵和圖形節點的後驗機率。透過這些設計的提示，我們微調 LLM 以適應連結竊取攻擊任務。此外，我們使用多個資料集微調 LLM，並使 LLM 能夠同時從不同的資料集中學習特徵。實驗結果顯示，我們的做法顯著提升了現有連結竊取攻擊任務在白盒和黑盒場景中的效能。我們的模型僅使用單一模型就能跨不同資料集執行連結竊取攻擊，使連結竊取攻擊更適用於實際場景。
-
-##### **Inferring Pluggable Types with Machine Learning**
-2406.15676v1 by Kazi Amanul Islam Siddiqui, Martin Kellogg
-
-Pluggable type systems allow programmers to extend the type system of a
-programming language to enforce semantic properties defined by the programmer.
-Pluggable type systems are difficult to deploy in legacy codebases because they
-require programmers to write type annotations manually. This paper investigates
-how to use machine learning to infer type qualifiers automatically. We propose
-a novel representation, NaP-AST, that encodes minimal dataflow hints for the
-effective inference of type qualifiers. We evaluate several model architectures
-for inferring type qualifiers, including Graph Transformer Network, Graph
-Convolutional Network and Large Language Model. We further validated these
-models by applying them to 12 open-source programs from a prior evaluation of
-the NullAway pluggable typechecker, lowering warnings in all but one
-unannotated project. We discovered that GTN shows the best performance, with a
-recall of .89 and precision of 0.6. Furthermore, we conduct a study to estimate
-the number of Java classes needed for good performance of the trained model.
-For our feasibility study, performance improved around 16k classes, and
-deteriorated due to overfitting around 22k classes.
-
-摘要：可插拔类型系统允许程序员扩展编程语言的类型系统，以执行程序员定义的语义属性。可插拔类型系统难以部署在遗留代码库中，因为它们要求程序员手动编写类型注释。本文研究如何使用机器学习自动推断类型限定符。我们提出了一种新颖的表示形式 NaP-AST，它对类型限定符的有效推断编码了最小的数据流提示。我们评估了用于推断类型限定符的几种模型架构，包括图转换器网络、图卷积网络和大语言模型。我们通过将这些模型应用于 NullAway 可插拔类型检查器的先前评估中的 12 个开源程序，进一步验证了这些模型，除了一个未注释的项目外，降低了所有项目的警告。我们发现 GTN 表现最佳，召回率为 0.89，精确率为 0.6。此外，我们进行了一项研究，以估计训练模型良好性能所需的 Java 类数量。对于我们的可行性研究，性能提高了约 16k 个类，并且由于在 22k 个类左右过度拟合而恶化。
-
-##### **NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**
-2406.15294v2 by Tim Schopf, Florian Matthes
-
-Scientific literature searches are often exploratory, whereby users are not
-yet familiar with a particular field or concept but are interested in learning
-more about it. However, existing systems for scientific literature search are
-typically tailored to keyword-based lookup searches, limiting the possibilities
-for exploration. We propose NLP-KG, a feature-rich system designed to support
-the exploration of research literature in unfamiliar natural language
-processing (NLP) fields. In addition to a semantic search, NLP-KG allows users
-to easily find survey papers that provide a quick introduction to a field of
-interest. Further, a Fields of Study hierarchy graph enables users to
-familiarize themselves with a field and its related areas. Finally, a chat
-interface allows users to ask questions about unfamiliar concepts or specific
-articles in NLP and obtain answers grounded in knowledge retrieved from
-scientific publications. Our system provides users with comprehensive
-exploration possibilities, supporting them in investigating the relationships
-between different fields, understanding unfamiliar concepts in NLP, and finding
-relevant research literature. Demo, video, and code are available at:
-https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp.
-
-摘要：科學文獻的搜尋通常是探索性的，使用者可能還不熟悉某個特定領域或概念，但有興趣進一步了解它。然而，現有的科學文獻搜尋系統通常專門針對基於關鍵字的查詢搜尋，限制了探索的可能性。我們提出 NLP-KG，這是一個功能豐富的系統，旨在支援在不熟悉的自然語言處理 (NLP) 領域中探索研究文獻。除了語意搜尋之外，NLP-KG 使用者可以輕鬆找到提供對感興趣領域的快速介紹的綜述論文。此外，研究領域階層圖讓使用者能夠熟悉一個領域及其相關領域。最後，聊天介面允許使用者詢問有關不熟悉的概念或 NLP 中特定文章的問題，並獲得從科學出版物中擷取的知識為基礎的答案。我們的系統為使用者提供全面的探索可能性，協助他們調查不同領域之間的關係，理解 NLP 中不熟悉的概念，並找到相關的研究文獻。示範、影片和程式碼可在以下網址取得：
-https://github.com/NLP-Knowledge-Graph/NLP-KG-WebApp。
 

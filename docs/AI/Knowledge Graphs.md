@@ -26,7 +26,7 @@
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
-|**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v1](http://arxiv.org/abs/2407.12068v1)|null|
+|**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v2](http://arxiv.org/abs/2407.12068v2)|null|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
 |**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v1](http://arxiv.org/abs/2407.10805v1)|null|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
@@ -672,7 +672,7 @@ through LLMs.
 摘要：近期，大型语言模型 (LLM) 在各种资料探勘任务中展现出极大的潜力，例如知识问答、数学推理和常识推理。然而，LLM 在时间事件预测方面的推理能力尚未被充分探索。为了系统性地调查其在时间事件预测方面的能力，我们对基于 LLM 的时间事件预测方法进行了全面的评估。由于缺乏同时包含图表和文本资料的高品质数据集，我们首先构建了一个名为 MidEast-TE-mini 的基准数据集。基于此数据集，我们设计了一系列基线方法，其特点是各种输入格式和检索增强生成 (RAG) 模块。从广泛的实验中，我们发现直接将原始文本整合到 LLM 的输入中并不会增强零次学习外推性能。相比之下，在特定复杂事件中纳入原始文本并微调 LLM 会显著提高性能。此外，通过检索模块的增强，LLM 可以有效地捕捉隐藏在历史事件中的时间关系模式。同时，诸如流行度偏差和长尾问题等问题仍然存在于 LLM 中，尤其是在基于 RAG 的方法中。这些发现不仅加深了我们对基于 LLM 的事件预测方法的理解，还突出了几个有前景的研究方向。我们认为，这项全面的评估，连同已确定的研究机会，将极大地促进通过 LLM 进行时间事件预测的未来研究。
 
 ##### **Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**
-2407.12068v1 by Kai Guo, Zewen Liu, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang
+2407.12068v2 by Kai Guo, Zewen Liu, Zhikai Chen, Hongzhi Wen, Wei Jin, Jiliang Tang, Yi Chang
 
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various natural language processing tasks. Recently, several LLMs-based
@@ -691,7 +691,7 @@ Furthermore, we have made our benchmark library openly available to facilitate
 quick and fair evaluations, and to encourage ongoing innovative research in
 this field.
 
-摘要：大型語言模型 (LLM) 在各種自然語言處理任務中展現了卓越的效能。最近，已經開發了多個基於 LLM 的管道，以增強圖形上具有文字屬性的學習，展示出有前景的效能。然而，眾所周知，圖形容易受到對抗性攻擊，而 LLM 在圖形學習中是否表現出穩健性仍不清楚。為了解決這個差距，我們的研究旨在探索 LLM 在圖形對抗攻擊中的潛力。具體來說，我們研究了在 LLM 作為增強器和 LLM 作為預測器的兩個面向中，針對圖形結構和文字擾動的穩健性。透過廣泛的實驗，我們發現，與淺層模型相比，作為增強器的 LLM 和作為預測器的 LLM 都對結構和文字攻擊提供了優異的穩健性。基於這些發現，我們進行了額外的分析來探討其根本原因。此外，我們已經公開了我們的基準庫，以利於快速且公平的評估，並鼓勵在這個領域進行持續的創新研究。
+摘要：大型語言模型 (LLM) 在各種自然語言處理任務中都展現出卓越的效能。最近，已開發出多個基於 LLM 的管道，以增強具有文字屬性的圖形學習，展現出令人滿意的效能。然而，圖形容易受到對抗性攻擊，而 LLM 在圖形學習中是否展現出穩健性仍不清楚。為了解決這個差距，我們的研究旨在探討 LLM 在圖形對抗性攻擊中的潛力。具體來說，我們針對兩個面向探討其對圖形結構和文字擾動的穩健性：LLM 作為增強器和 LLM 作為預測器。透過廣泛的實驗，我們發現，與淺層模型相比，LLM 作為增強器和 LLM 作為預測器在結構性和文字攻擊中都提供優異的穩健性。根據這些發現，我們進行了額外的分析來探討其根本原因。此外，我們已公開我們的基準庫，以利快速且公平的評估，並鼓勵持續進行這方面的創新研究。
 
 ##### **CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**
 2407.11393v2 by Kalliopi Basioti, Mohamed A. Abdelsalam, Federico Fancellu, Vladimir Pavlovic, Afsaneh Fazly

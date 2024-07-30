@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525v1](http://arxiv.org/abs/2407.18525v1)|[link](https://github.com/yhzhu99/ehr-llm-benchmark)|
-|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v1](http://arxiv.org/abs/2407.18483v1)|[link](https://github.com/sperfu/eyedoc)|
+|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v2](http://arxiv.org/abs/2407.18483v2)|[link](https://github.com/sperfu/eyedoc)|
 |**2024-07-25**|**HDL-GPT: High-Quality HDL is All You Need**|Bhuvnesh Kumar et.al.|[2407.18423v1](http://arxiv.org/abs/2407.18423v1)|null|
 |**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v1](http://arxiv.org/abs/2407.18343v1)|null|
@@ -15,7 +15,7 @@
 |**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734v1](http://arxiv.org/abs/2407.17734v1)|[link](https://github.com/jlinekai/clover)|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
-|**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v1](http://arxiv.org/abs/2407.17164v1)|null|
+|**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v2](http://arxiv.org/abs/2407.17164v2)|null|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126v1](http://arxiv.org/abs/2407.17126v1)|null|
 |**2024-07-24**|**SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**|Changchang Yin et.al.|[2407.16999v1](http://arxiv.org/abs/2407.16999v1)|[link](https://github.com/yinchangchang/sepsislab)|
 |**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
@@ -25,7 +25,7 @@
 |**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
 |**2024-07-23**|**Virtue Ethics For Ethically Tunable Robotic Assistants**|Rajitha Ramanayake et.al.|[2407.16361v1](http://arxiv.org/abs/2407.16361v1)|null|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
-|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v1](http://arxiv.org/abs/2407.16715v1)|null|
+|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
 |**2024-07-22**|**Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**|Nina Deliu et.al.|[2407.16062v1](http://arxiv.org/abs/2407.16062v1)|null|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719v1](http://arxiv.org/abs/2407.15719v1)|[link](https://github.com/tinysqua/gfe-mamba)|
 |**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v1](http://arxiv.org/abs/2407.15526v1)|null|
@@ -39,7 +39,7 @@
 |**2024-07-19**|**Two new feature selection methods based on learn-heuristic techniques for breast cancer prediction: A comprehensive analysis**|Kamyab Karimi et.al.|[2407.14631v1](http://arxiv.org/abs/2407.14631v1)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326v1](http://arxiv.org/abs/2407.14326v1)|null|
 |**2024-07-19**|**Fair Overlap Number of Balls (Fair-ONB): A Data-Morphology-based Undersampling Method for Bias Reduction**|José Daniel Pascual-Triana et.al.|[2407.14210v1](http://arxiv.org/abs/2407.14210v1)|null|
-|**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076v1](http://arxiv.org/abs/2407.14076v1)|null|
+|**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076v2](http://arxiv.org/abs/2407.14076v2)|null|
 |**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030v1](http://arxiv.org/abs/2407.14030v1)|null|
 |**2024-07-18**|**DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**|Xiaoya Tang et.al.|[2407.13920v1](http://arxiv.org/abs/2407.13920v1)|null|
 |**2024-07-18**|**Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset**|Yi Sheng et.al.|[2407.13896v1](http://arxiv.org/abs/2407.13896v1)|null|
@@ -97,7 +97,7 @@
 |**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822v1](http://arxiv.org/abs/2407.08822v1)|[link](https://github.com/m1k2zoo/fedmedicl)|
 |**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813v2](http://arxiv.org/abs/2407.08813v2)|[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
-|**2024-07-11**|**Establishing Rigorous and Cost-effective Clinical Trials for Artificial Intelligence Models**|Wanling Gao et.al.|[2407.08554v1](http://arxiv.org/abs/2407.08554v1)|[link](https://github.com/benchcouncil/vc-medai)|
+|**2024-07-11**|**Establishing Rigorous and Cost-effective Clinical Trials for Artificial Intelligence Models**|Wanling Gao et.al.|[2407.08554v2](http://arxiv.org/abs/2407.08554v2)|[link](https://github.com/benchcouncil/vc-medai)|
 |**2024-07-11**|**How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation**|Linglong Qian et.al.|[2407.08442v1](http://arxiv.org/abs/2407.08442v1)|null|
 |**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410v1](http://arxiv.org/abs/2407.08410v1)|[link](https://github.com/robbieholland/specialistvlms)|
 |**2024-07-11**|**Unveiling Disparities in Maternity Care: A Topic Modelling Approach to Analysing Maternity Incident Investigation Reports**|Georgina Cosma et.al.|[2407.08328v1](http://arxiv.org/abs/2407.08328v1)|null|
@@ -130,7 +130,7 @@ of NLP technology in healthcare.
 摘要：大型語言模型 (LLM) 在醫學中的應用日益廣泛，但它們同時處理結構化電子病歷 (EHR) 資料和非結構化臨床註記的能力尚未得到充分研究。本研究針對各種模型進行基準測試，包括基於 GPT 的 LLM、基於 BERT 的模型，以及傳統的臨床預測模型，用於利用著名資料集的非生成性醫療任務。我們使用 MIMIC 資料集（ICU 病人記錄）和 TJH 資料集（早期 COVID-19 EHR 資料）評估了 14 個語言模型（9 個基於 GPT，5 個基於 BERT）和 7 個傳統預測模型，重點關注死亡率和再入院預測、疾病層級重建和生物醫學句子配對等任務，並比較了零次學習和微調後的效能。結果表明，LLM 在使用設計良好的提示策略時，對結構化 EHR 資料展現出強大的零次學習預測能力，經常超越傳統模型。然而，對於非結構化的醫療文本，LLM 的表現不如微調後的 BERT 模型，後者在監督式和非監督式任務中都表現出色。因此，儘管 LLM 對於結構化資料的零次學習很有用，但微調後的 BERT 模型更適合非結構化文本，這強調了根據特定任務需求和資料特性選擇模型以優化醫療保健中 NLP 技術應用之重要性。
 
 ##### **A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**
-2407.18483v1 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
+2407.18483v2 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
 
 Ophthalmology consultations are crucial for diagnosing, treating, and
 preventing eye diseases. However, the growing demand for consultations exceeds
@@ -150,7 +150,7 @@ dynamic knowledge base expansion for intelligent medical consultations. EyeDoc
 also serves as a free available web based service and souce code is available
 at https://github.com/sperfu/EyeDoc.
 
-摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，諮詢需求不斷增加，超過眼科醫師所能提供的服務。透過利用大型預先訓練語言模型，我們可以針對特定場景設計有效的對話，協助諮詢。由於模型尺寸越來越大，且在諮詢過程中常常忽略患者與醫師的角色功能，因此傳統針對問答任務的微調策略並不切實際。在本文中，我們提出 EyeDoctor，一種眼科醫療問答大型語言模型，透過引導醫師與患者的角色認知以及擴充外部疾病資訊的知識庫來提升準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答精準度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上，Rouge-1 分數提升了 7.25%，F1 分數提升了 10.16%，突顯了醫師與患者角色區分以及動態知識庫擴充對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
+摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，對諮詢服務的需求不斷增長，卻超過了眼科醫生的可提供數量。透過利用大型預先訓練的語言模型，我們可以為特定場景設計出有效的對話，協助諮詢服務。傳統的微調策略對於問答任務來說並不切實際，因為模型的規模越來越大，而且在諮詢過程中通常會忽略患者和醫生的角色功能。在本文中，我們提出了 EyeDoctor，這是一個眼科醫療問答大型語言模型，它透過醫生和患者角色認知引導和一個具備外部疾病資訊的擴增知識庫來提高準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答準確度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上 Rouge-1 分數提高了 7.25%，F1 分數提高了 10.16%，這凸顯了醫生和患者角色區分以及動態知識庫擴展對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
 
 ##### **HDL-GPT: High-Quality HDL is All You Need**
 2407.18423v1 by Bhuvnesh Kumar, Saurav Nanda, Ganapathy Parthasarathy, Pawan Patil, Austin Tsai, Parivesh Choudhary
@@ -434,7 +434,7 @@ coding.
 摘要：自然語言處理 (NLP) 的最新進展已導致各種領域的自動化。然而，臨床 NLP 通常依賴於基準資料集，這些資料集可能無法準確反映真實世界的場景。自動 ICD 編碼是一項重要的 NLP 任務，通常使用過時且不平衡的資料集，例如 MIMIC-III，由於許多假陽性，現有方法產生的微平均 F1 分數介於 0.4 和 0.7 之間。我們的研究引入了一種增強的 ICD 編碼方法，通過使用基於章節的命名實體和注意力模型來提高 F1 分數。此方法將出院摘要分類為 ICD-9 章節，並使用章節特定資料開發注意力模型，消除了考慮外部資料以進行代碼識別的需要。對於分類，我們使用 Chapter-IV 來消除偏差並影響關鍵實體和權重，而無需神經網路，從而建立準確的閾值並提供人類驗證的可解釋性。在驗證之後，我們使用帶有注意力和多頭注意架構的雙向門控遞迴單元 (GRU) 和 Transformer，為 Chapter-IV 中的三個頻繁和三個非頻繁代碼開發注意力模型。這些模型的平均微 F1 分數為 0.79 和 0.81，表明 ICD 編碼的效能有了顯著的提升。
 
 ##### **Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**
-2407.17164v1 by Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu, Wei Chu
+2407.17164v2 by Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu, Wei Chu
 
 Integrating deep neural networks with the Hawkes process has significantly
 improved predictive capabilities in finance, health informatics, and
@@ -458,7 +458,7 @@ first study to successfully address both event and time label noise in deep
 Hawkes process models, offering a promising solution for medical applications,
 specifically in diagnosing OSAHS.
 
-摘要：將深度神經網路與霍克斯過程整合，大幅提升了金融、健康資訊學和資訊科技的預測能力。然而，這些模型在現實世界中經常面臨挑戰，特別是因為標籤雜訊過大。這個問題在醫療領域特別令人擔憂，因為標籤雜訊可能來自電子病歷的更新延誤或誤診，導致預測風險增加。我們的研究表明，深度霍克斯過程模型在處理標籤雜訊時表現出較低的穩健性，特別是在標籤雜訊同時影響事件類型和時間點時。為了應對這些挑戰，我們首先研究標籤雜訊對近似強度函數的影響，並提出了一個新的框架，即穩健深度霍克斯過程 (RDHP)，以克服標籤雜訊對霍克斯模型強度函數的影響，同時考慮事件及其發生。我們使用多個具有合成雜訊的開源基準測試 RDHP，並對現實世界中具有內在標籤雜訊的阻塞性睡眠呼吸中止低通氣綜合症 (OSAHS) 進行案例研究。結果表明，即使在存在與事件及其時間點相關的雜訊的情況下，RDHP 仍能有效執行分類和回歸任務。據我們所知，這是第一個成功解決深度霍克斯過程模型中事件和時間標籤雜訊的研究，為醫療應用（特別是診斷 OSAHS）提供了一個有前景的解決方案。
+摘要：將深度神經網路與霍克斯過程整合，已顯著提升金融、健康資訊學和資訊科技的預測能力。儘管如此，這些模型在現實世界中經常面臨挑戰，特別是因為標籤雜訊很大。這個問題在醫學領域中特別令人擔憂，因為標籤雜訊可能來自電子病歷的延遲更新或誤診，導致預測風險增加。我們的研究表明，處理標籤雜訊時，深度霍克斯過程模型的穩健性會降低，特別是當它影響事件類型和時間點時。為了應對這些挑戰，我們首先研究標籤雜訊對近似強度函數的影響，並提出一個新的架構，即穩健深度霍克斯過程 (RDHP)，以克服標籤雜訊對霍克斯模型強度函數的影響，同時考慮事件及其發生。我們使用多個帶有合成雜訊的開源基準測試 RDHP，並在現實世界中對阻塞性睡眠呼吸中止低通氣症候群 (OSAHS) 進行案例研究，其中存在固有的標籤雜訊。結果表明，即使在與事件及其時間點相關的雜訊存在的情況下，RDHP 仍能有效執行分類和回歸任務。據我們所知，這是第一個成功解決深度霍克斯過程模型中事件和時間標籤雜訊的研究，為醫療應用（特別是在診斷 OSAHS 時）提供了一個有希望的解決方案。
 
 ##### **SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**
 2407.17126v1 by Bernardo Consoli, Xizhi Wu, Song Wang, Xinyu Zhao, Yanshan Wang, Justin Rousseau, Tom Hartvigsen, Li Shen, Huanmei Wu, Yifan Peng, Qi Long, Tianlong Chen, Ying Ding
@@ -697,7 +697,7 @@ patients.
 摘要：<paragraph>急性中風需要迅速診斷和治療，才能達到最佳的病人治療結果。然而，與急性中風相關的臨床資料複雜且不規則，特別是血壓 (BP) 測量，對有效的視覺分析和決策制定構成重大障礙。透過與經驗豐富的神經科醫師長達一年的合作，我們開發了 PhenoFlow，這是一個視覺分析系統，利用人與大型語言模型 (LLM) 之間的協作來分析急性缺血性中風患者的廣泛且複雜資料。PhenoFlow 開創了一種創新的工作流程，其中 LLM 擔任資料整理員，而神經科醫師則使用視覺化和自然語言互動來探索和監督輸出。這種方法使神經科醫師能夠更專注於決策制定，同時降低認知負擔。為了保護敏感的病人資訊，PhenoFlow 僅利用元資料進行推論並合成可執行程式碼，而不會存取原始病人資料。這確保了結果既可重現又可解釋，同時維護病人的隱私。該系統採用分段和包裝設計，採用時間摺疊來建立疊加的圓形視覺化。結合線性長條圖，此設計有助於探索不規則測量血壓資料中的有意義模式。透過案例研究，PhenoFlow 已證明其支援對廣泛臨床資料集進行反覆分析的能力，降低認知負擔並使神經科醫師能夠做出明智的決策。我們的研究以與領域專家長期合作為基礎，證明了利用 LLM 來應對當前急性缺血性中風患者資料驅動臨床決策制定挑戰的潛力。</paragraph>
 
 ##### **Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**
-2407.16715v1 by Yufeng Li, Wenchao Zhao, Bo Dang, Xu Yan, Weimin Wang, Min Gao, Mingxuan Xiao
+2407.16715v2 by Yufeng Li, Wenchao Zhao, Bo Dang, Xu Yan, Weimin Wang, Min Gao, Mingxuan Xiao
 
 In clinical treatment, identifying potential adverse reactions of drugs can
 help assist doctors in making medication decisions. In response to the problems
@@ -722,7 +722,7 @@ reported in the literature. The obtained prediction model has good prediction
 accuracy and stability, and can provide an effective reference for later safe
 medication guidance.
 
-摘要：在臨床治療中，識別藥物的潛在不良反應有助於協助醫生做出用藥決策。針對以往研究中特徵高維稀疏、需要為每種藥物的不同不良反應建構獨立預測模型、且預測準確率低的問題，本文開發基於知識圖譜嵌入與深度學習的不良藥物反應預測模型，可預測實驗結果。涵蓋不良藥物反應的統一預測。知識圖譜嵌入技術能融合藥物間的關聯資訊，緩解特徵矩陣高維稀疏的缺點，而深度學習的強大訓練能力能提升模型預測準確率。本文建構基於藥物特徵資料的不良藥物反應知識圖譜；透過分析知識圖譜在不同嵌入策略下的嵌入效果，選取最佳嵌入策略獲得樣本向量；再建構卷積神經網路模型預測不良反應。結果顯示，在 DistMult 嵌入模型與 400 維嵌入策略下，卷積神經網路模型有最佳預測效果；重複實驗的平均準確率、F_1 值、召回率與曲線下面積均優於文獻所報導的方法。所獲得的預測模型具備良好的預測準確率與穩定性，可為後續安全用藥指導提供有效的參考依據。
+摘要：在临床治疗中，识别药物潜在的不良反应可以帮助医生做出用药决策。针对以往研究中特征高维且稀疏、需要为每种药物不良反应构建独立的预测模型、预测准确率低等问题，本文提出了一种基于知识图谱嵌入和深度学习的不良药物反应预测模型，可以预测实验结果。覆盖不良药物反应的统一预测。知识图谱嵌入技术可以融合药物之间的关联信息，缓解特征矩阵中高维稀疏的不足，深度学习高效的训练能力可以提升模型的预测准确率。本文基于药物特征数据构建不良药物反应知识图谱；通过分析知识图谱在不同嵌入策略下的嵌入效果，选取最优的嵌入策略得到样本向量；然后构建卷积神经网络模型预测不良反应。结果表明，在DistMult嵌入模型和400维度的嵌入策略下，卷积神经网络模型的预测效果最佳；重复实验的平均准确率、F_1值、召回率和曲线下面积均优于文献报道的方法。所获得的预测模型具有良好的预测准确率和稳定性，可以为后期的安全用药指导提供有效的参考。
 
 ##### **Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**
 2407.16062v1 by Nina Deliu, Bibhas Chakraborty
@@ -1112,7 +1112,7 @@ performance.
 摘要：<paragraph>鉴于当前数据生成的规模，无论是在数量还是速度上，机器学习的使用变得越来越重要。当数据包含可能导致歧视的受保护特征时，必须特别小心。在这些情况下，数据质量至关重要，因为训练数据中的偏差可能会反映在分类模型中。这会产生毁灭性的后果，并且不符合当前法规。以数据为中心的 AI 提出了数据集修改以提高其质量。通过欠采样进行实例选择可以促进分类器中类和受保护特征值的平衡学习。当此类欠采样接近决策边界时，对分类器的影响将得到加强。这项工作提出了公平重叠球数 (Fair-ONB)，这是一种欠采样方法，利用不同数据组（从类和受保护特征值的组合中获得）的数据形态，在它们重叠的区域执行引导欠采样。它采用球覆盖的属性，例如半径、覆盖实例数和密度，以选择最适合欠采样的区域并减少偏差。结果表明，Fair-ONB 方法减少了偏差，对分类器的预测性能影响很小。</paragraph>
 
 ##### **Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**
-2407.14076v1 by Tobias Kerner
+2407.14076v2 by Tobias Kerner
 
 There are many cases where LLMs are used for specific tasks in a single
 domain. These usually require less general, but more domain-specific knowledge.
@@ -1126,7 +1126,7 @@ related to domain-specific pretraining, specifically in the medical area, and
 compare benchmark results of specialized language models to general-purpose
 language models.
 
-摘要：在許多情況下，LLM 被用於單一領域中的特定任務。這些任務通常需要較少的通用知識，但需要更多特定領域的知識。功能強大、用途廣泛的最新語言模型，例如 GPT-4 或 Claude-3-opus，通常可用於此類任務，但它們非常龐大，即使不是專有軟體，也無法在本地執行。在處理敏感資料時，這可能會造成問題。本文重點探討特定領域和混合領域的預訓練，作為比一般預訓練更有效率的專業語言模型潛在方法。我們將探討與特定領域預訓練相關的工作，特別是在醫療領域，並比較專業語言模型與通用語言模型的基準測試結果。
+摘要：在許多情況下，LLM 用於單一領域中的特定任務。這些任務通常需要較少的通用知識，但需要更多特定領域的知識。功能強大、通用且最先進的語言模型，例如 GPT-4 或 Claude-3-opus，通常可用於此類任務，但它們非常龐大，即使不是專有軟體，也無法在本地執行。在處理敏感資料時，這可能會成為一個問題。本文重點探討領域特定和混合領域預訓練，作為比一般預訓練更有效率的專業語言模型潛在方法。我們將探討與領域特定預訓練相關的工作，特別是在醫療領域，並比較專業語言模型和通用語言模型的基準測試結果。
 
 ##### **HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**
 2407.14030v1 by Prerana Sanjay Kulkarni, Muskaan Jain, Disha Sheshanarayana, Srinivasan Parthiban
@@ -2574,7 +2574,7 @@ increases.
 摘要：大型語言模型 (LLM) 在醫療保健領域的自然語言生成方面顯示出前景，但存在虛構事實不正確資訊的風險。部署 LLM 來回答醫療問題需要可靠的不確定性估計 (UE) 方法來偵測虛構。在這項工作中，我們使用不同模型大小對熱門 UE 方法進行基準測試，針對醫療問題回答資料集。我們的結果顯示，目前的作法在這方面通常表現不佳，突顯了 UE 在醫療應用中的挑戰。我們還觀察到，較大的模型往往會產生更好的結果，這表明模型大小與 UE 的可靠性之間存在相關性。為了應對這些挑戰，我們提出了兩階段驗證，一種無機率的不確定性估計方法。首先，LLM 會在其初始答案旁邊產生逐步說明，然後制定驗證問題來檢查說明中的事實聲明。然後，模型回答這些問題兩次：第一次獨立回答，然後參考說明。兩組答案之間的不一致性衡量原始回應中的不確定性。我們使用 Llama 2 Chat 模型在三個生物醫學問題回答資料集上評估我們的作法，並將其與基準基準方法進行比較。結果顯示，我們的兩階段驗證方法在各種資料集和模型大小中實現了最佳的整體準確性和穩定性，並且其效能隨著模型大小的增加而擴展。
 
 ##### **Establishing Rigorous and Cost-effective Clinical Trials for Artificial Intelligence Models**
-2407.08554v1 by Wanling Gao, Yunyou Huang, Dandan Cui, Zhuoming Yu, Wenjing Liu, Xiaoshuang Liang, Jiahui Zhao, Jiyue Xie, Hao Li, Li Ma, Ning Ye, Yumiao Kang, Dingfeng Luo, Peng Pan, Wei Huang, Zhongmou Liu, Jizhong Hu, Gangyuan Zhao, Chongrong Jiang, Fan Huang, Tianyi Wei, Suqin Tang, Bingjie Xia, Zhifei Zhang, Jianfeng Zhan
+2407.08554v2 by Wanling Gao, Yunyou Huang, Dandan Cui, Zhuoming Yu, Wenjing Liu, Xiaoshuang Liang, Jiahui Zhao, Jiyue Xie, Hao Li, Li Ma, Ning Ye, Yumiao Kang, Dingfeng Luo, Peng Pan, Wei Huang, Zhongmou Liu, Jizhong Hu, Gangyuan Zhao, Chongrong Jiang, Fan Huang, Tianyi Wei, Suqin Tang, Bingjie Xia, Zhifei Zhang, Jianfeng Zhan
 
 A profound gap persists between artificial intelligence (AI) and clinical
 practice in medicine, primarily due to the lack of rigorous and cost-effective
@@ -2587,18 +2587,18 @@ emphasize the critical necessity for rigorous and cost-effective evaluation
 methodologies for AI models in clinical practice, featuring
 patient/clinician-centered (dual-centered) AI randomized controlled trials
 (DC-AI RCTs) and virtual clinician-based in-silico trials (VC-MedAI) as an
-effective proxy for DC-AI RCTs. Leveraging 7500 diagnosis records from
-two-phase inaugural DC-AI RCTs across 14 medical centers with 125 clinicians,
-our results demonstrate the necessity of DC-AI RCTs and the effectiveness of
-VC-MedAI. Notably, VC-MedAI performs comparably to human clinicians,
-replicating insights and conclusions from prospective DC-AI RCTs. We envision
-DC-AI RCTs and VC-MedAI as pivotal advancements, presenting innovative and
-transformative evaluation methodologies for AI models in clinical practice,
-offering a preclinical-like setting mirroring conventional medicine, and
-reshaping development paradigms in a cost-effective and fast-iterative manner.
-Chinese Clinical Trial Registration: ChiCTR2400086816.
+effective proxy for DC-AI RCTs. Leveraging 7500 diagnosis records from two-step
+inaugural DC-AI RCTs across 14 medical centers with 125 clinicians, our results
+demonstrate the necessity of DC-AI RCTs and the effectiveness of VC-MedAI.
+Notably, VC-MedAI performs comparably to human clinicians, replicating insights
+and conclusions from prospective DC-AI RCTs. We envision DC-AI RCTs and
+VC-MedAI as pivotal advancements, presenting innovative and transformative
+evaluation methodologies for AI models in clinical practice, offering a
+preclinical-like setting mirroring conventional medicine, and reshaping
+development paradigms in a cost-effective and fast-iterative manner. Chinese
+Clinical Trial Registration: ChiCTR2400086816.
 
-摘要：<paragraph>人工智慧（AI）與臨床醫療實務之間存在著巨大的鴻溝，其主要原因在於缺乏嚴謹且具成本效益的評估方法。最先進且符合實務的 AI 模型評估僅限於針對醫學資料集進行的實驗室研究，或僅有患者為中心的對照組的直接臨床試驗。此外，臨床醫師在與 AI 合作中所扮演的關鍵角色，對於決定其對臨床實務的影響至關重要，卻經常被忽視。我們首度強調在臨床實務中採用嚴謹且具成本效益的 AI 模型評估方法至關重要，其特色在於以患者／臨床醫師為中心的（雙中心）AI 隨機對照試驗（DC-AI RCT）和虛擬臨床醫師為基礎的電腦模擬試驗（VC-MedAI），做為 DC-AI RCT 的有效替代方案。利用來自 14 個醫療中心、125 位臨床醫師的兩階段首次 DC-AI RCT 中的 7500 筆診斷紀錄，我們的結果證明了 DC-AI RCT 的必要性與 VC-MedAI 的有效性。值得注意的是，VC-MedAI 的表現與人類臨床醫師相當，複製了前瞻性 DC-AI RCT 的見解和結論。我們將 DC-AI RCT 和 VC-MedAI 視為關鍵的進展，它們提出了創新且具有變革性的 AI 模型評估方法，在臨床實務中提供類似於臨床前設定的環境，反映傳統醫學，並以具成本效益且快速反覆運算的方式重新塑造開發模式。中國臨床試驗註冊：ChiCTR2400086816。</paragraph>
+摘要：<paragraph>人工智慧（AI）與臨床醫療實務之間存在著巨大的鴻溝，這主要是由於缺乏嚴謹且具成本效益的評估方法。最先進且最實用的 AI 模型評估僅限於醫療資料集的實驗室研究或直接臨床試驗，而沒有或僅有以患者為中心的對照組。此外，臨床醫師在與 AI 合作中所扮演的關鍵角色，對於確定其對臨床實務的影響至關重要，但這點常常被忽略。我們首次強調在臨床實務中對 AI 模型進行嚴謹且具成本效益的評估方法至關重要，其特點是採用以患者／臨床醫師為中心的（雙中心）AI 隨機對照試驗（DC-AI RCT）和虛擬臨床醫師為基礎的電腦模擬試驗（VC-MedAI），作為 DC-AI RCT 的有效替代方案。利用來自 14 個醫療中心、125 位臨床醫師的兩階段首次 DC-AI RCT 中的 7500 筆診斷紀錄，我們的結果證明了 DC-AI RCT 的必要性以及 VC-MedAI 的有效性。值得注意的是，VC-MedAI 的表現與人類臨床醫師相當，複製了前瞻性 DC-AI RCT 的見解和結論。我們將 DC-AI RCT 和 VC-MedAI 視為關鍵進展，它們為臨床實務中的 AI 模型提供了創新且具有變革性的評估方法，提供了一個類似於傳統醫學的臨床前設定，並以具有成本效益且快速迭代的方式重塑開發範例。中國臨床試驗註冊：ChiCTR2400086816。</paragraph>
 
 ##### **How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation**
 2407.08442v1 by Linglong Qian, Tao Wang, Jun Wang, Hugh Logan Ellis, Robin Mitra, Richard Dobson, Zina Ibrahim

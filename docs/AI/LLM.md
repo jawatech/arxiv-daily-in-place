@@ -52,7 +52,7 @@
 |**2024-07-26**|**Non-Overlapping Placement of Macro Cells based on Reinforcement Learning in Chip Design**|Tao Yu et.al.|[2407.18499v1](http://arxiv.org/abs/2407.18499v1)|null|
 |**2024-07-26**|**A Reliable Common-Sense Reasoning Socialbot Built Using LLMs and Goal-Directed ASP**|Yankai Zeng et.al.|[2407.18498v1](http://arxiv.org/abs/2407.18498v1)|null|
 |**2024-07-26**|**Towards More Accurate Prediction of Human Empathy and Emotion in Text and Multi-turn Conversations by Combining Advanced NLP, Transformers-based Networks, and Linguistic Methodologies**|Manisha Singh et.al.|[2407.18496v1](http://arxiv.org/abs/2407.18496v1)|null|
-|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v1](http://arxiv.org/abs/2407.18483v1)|[link](https://github.com/sperfu/eyedoc)|
+|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v2](http://arxiv.org/abs/2407.18483v2)|[link](https://github.com/sperfu/eyedoc)|
 |**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479v1](http://arxiv.org/abs/2407.18479v1)|null|
 |**2024-07-26**|**Constructing the CORD-19 Vaccine Dataset**|Manisha Singh et.al.|[2407.18471v1](http://arxiv.org/abs/2407.18471v1)|null|
 |**2024-07-26**|**Diffusion-Driven Semantic Communication for Generative Models with Bandwidth Constraints**|Lei Guo et.al.|[2407.18468v1](http://arxiv.org/abs/2407.18468v1)|null|
@@ -65,7 +65,7 @@
 |**2024-07-25**|**HDL-GPT: High-Quality HDL is All You Need**|Bhuvnesh Kumar et.al.|[2407.18423v1](http://arxiv.org/abs/2407.18423v1)|null|
 |**2024-07-25**|**Self-Directed Synthetic Dialogues and Revisions Technical Report**|Nathan Lambert et.al.|[2407.18421v1](http://arxiv.org/abs/2407.18421v1)|null|
 |**2024-07-25**|**The Art of Refusal: A Survey of Abstention in Large Language Models**|Bingbing Wen et.al.|[2407.18418v1](http://arxiv.org/abs/2407.18418v1)|null|
-|**2024-07-25**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416v1](http://arxiv.org/abs/2407.18416v1)|null|
+|**2024-07-25**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416v2](http://arxiv.org/abs/2407.18416v2)|null|
 |**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414v1](http://arxiv.org/abs/2407.18414v1)|null|
 |**2024-07-25**|**Simulation of Neural Responses to Classical Music Using Organoid Intelligence Methods**|Daniel Szelogowski et.al.|[2407.18413v1](http://arxiv.org/abs/2407.18413v1)|[link](https://github.com/danielathome19/Pianoid-EEG-NN)|
 |**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
@@ -100,7 +100,7 @@
 |**2024-07-25**|**Learning mental states estimation through self-observation: a developmental synergy between intentions and beliefs representations in a deep-learning model of Theory of Mind**|Francesca Bianco et.al.|[2407.18022v1](http://arxiv.org/abs/2407.18022v1)|null|
 |**2024-07-25**|**Quadratic Advantage with Quantum Randomized Smoothing Applied to Time-Series Analysis**|Nicola Franco et.al.|[2407.18021v1](http://arxiv.org/abs/2407.18021v1)|null|
 |**2024-07-25**|**GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy**|Jan Batzner et.al.|[2407.18008v1](http://arxiv.org/abs/2407.18008v1)|null|
-|**2024-07-25**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Shi Luohe et.al.|[2407.18003v1](http://arxiv.org/abs/2407.18003v1)|null|
+|**2024-07-25**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Luohe Shi et.al.|[2407.18003v2](http://arxiv.org/abs/2407.18003v2)|null|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997v1](http://arxiv.org/abs/2407.17997v1)|null|
 
 #### Abstracts
@@ -1297,7 +1297,7 @@ emotion intensity in dyadic text conversations are predicted.
 摘要：根據 WASSA 2022 年同理心檢測和情緒分類的共享任務，我們預測論文中顯示的同理關懷和個人痛苦程度。在這個專案的第一階段，我們使用句子層級的詞嵌入作為特徵，實作了前饋神經網路。我們實驗了四種不同的詞嵌入模型，以產生輸入到神經網路。後續階段建立在前一項工作之上，我們實作了三種類型的修正。第一個修正著重於模型架構和訓練方法的增強。第二個修正著重於使用分層資料抽樣來處理類別不平衡。第三個修正著重於利用詞彙資源，我們運用四種不同的資源來豐富與資料集相關的特徵。在這個專案的最後階段，我們使用模型的整體來建立主要任務的最終端對端系統，以修正主要任務的效能。此外，作為最後階段的一部分，這些方法已被調整到 WASSA 2023 年同理心情緒和互動中的人格檢測的共享任務，其中預測了二元文字對話中的同理關懷、情緒極性和情緒強度。
 
 ##### **A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**
-2407.18483v1 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
+2407.18483v2 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
 
 Ophthalmology consultations are crucial for diagnosing, treating, and
 preventing eye diseases. However, the growing demand for consultations exceeds
@@ -1317,7 +1317,7 @@ dynamic knowledge base expansion for intelligent medical consultations. EyeDoc
 also serves as a free available web based service and souce code is available
 at https://github.com/sperfu/EyeDoc.
 
-摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，諮詢需求不斷增加，超過眼科醫師所能提供的服務。透過利用大型預先訓練語言模型，我們可以針對特定場景設計有效的對話，協助諮詢。由於模型尺寸越來越大，且在諮詢過程中常常忽略患者與醫師的角色功能，因此傳統針對問答任務的微調策略並不切實際。在本文中，我們提出 EyeDoctor，一種眼科醫療問答大型語言模型，透過引導醫師與患者的角色認知以及擴充外部疾病資訊的知識庫來提升準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答精準度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上，Rouge-1 分數提升了 7.25%，F1 分數提升了 10.16%，突顯了醫師與患者角色區分以及動態知識庫擴充對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
+摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，對諮詢服務的需求不斷增長，卻超過了眼科醫生的可提供數量。透過利用大型預先訓練的語言模型，我們可以為特定場景設計出有效的對話，協助諮詢服務。傳統的微調策略對於問答任務來說並不切實際，因為模型的規模越來越大，而且在諮詢過程中通常會忽略患者和醫生的角色功能。在本文中，我們提出了 EyeDoctor，這是一個眼科醫療問答大型語言模型，它透過醫生和患者角色認知引導和一個具備外部疾病資訊的擴增知識庫來提高準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答準確度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上 Rouge-1 分數提高了 7.25%，F1 分數提高了 10.16%，這凸顯了醫生和患者角色區分以及動態知識庫擴展對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
 
 ##### **Multi-turn Response Selection with Commonsense-enhanced Language Models**
 2407.18479v1 by Yuandong Wang, Xuhui Ren, Tong Chen, Yuxiao Dong, Nguyen Quoc Viet Hung, Jie Tang
@@ -1601,7 +1601,7 @@ and impact of abstention methodologies in AI systems.
 和影響。
 
 ##### **PersonaGym: Evaluating Persona Agents and LLMs**
-2407.18416v1 by Vinay Samuel, Henry Peng Zou, Yue Zhou, Shreyas Chaudhari, Ashwin Kalyan, Tanmay Rajpurohit, Ameet Deshpande, Karthik Narasimhan, Vishvak Murahari
+2407.18416v2 by Vinay Samuel, Henry Peng Zou, Yue Zhou, Shreyas Chaudhari, Ashwin Kalyan, Tanmay Rajpurohit, Ameet Deshpande, Karthik Narasimhan, Vishvak Murahari
 
 Persona agents, which are LLM agents that act according to an assigned
 persona, have demonstrated impressive contextual response capabilities across
@@ -1624,7 +1624,7 @@ size and complexity do not necessarily imply enhanced persona agent
 capabilities thereby highlighting the pressing need for algorithmic and
 architectural invention towards faithful and performant persona agents.
 
-摘要：角色代理（Persona agents），是根据指定角色行事的大语言模型（LLM）代理，已在各种应用中展示出令人印象深刻的上下文响应能力。这些角色代理为教育、医疗保健和娱乐等不同领域提供了显著的增强，模型开发人员可以将代理响应与不同的用户需求相匹配，从而拓宽代理应用的范围。然而，由于评估角色代理在与每个角色代理相关的各种环境中的自由形式交互中坚持角色的复杂性，评估角色代理性能是一项极具挑战性的任务。我们引入了 PersonaGym，这是第一个用于评估角色代理的动态评估框架，以及 PersonaScore，这是第一个基于决策理论的自动化人类对齐指标，用于对角色代理进行全面的大规模评估。我们使用包含 200 个角色和 10,000 个问题的基准对 6 个开放和闭源 LLM 进行了评估，揭示了在最先进的模型中推进角色代理能力的重大机会。例如，尽管 Claude 3.5 Sonnet 是一个更高级的模型，但其 PersonaScore 相对 GPT 3.5 只有 2.97% 的相对改进。重要的是，我们发现模型大小和复杂性的增加并不一定意味着角色代理能力的增强，从而突显了对算法和架构发明以实现忠实且高效的角色代理的迫切需求。
+摘要：擬人代理，是依據指定擬人而行動的 LLM 代理，已在各種應用中展現出令人印象深刻的脈絡回應能力。這些擬人代理在教育、醫療保健和娛樂等不同領域提供顯著的增強功能，模型開發人員可以在其中將代理回應與不同的使用者需求對齊，從而擴大代理應用範圍。然而，由於在與每個擬人代理相關的各種環境中評估擬人代理的複雜性，評估擬人代理效能是一項極具挑戰性的任務。我們引入了 PersonaGym，這是第一個用於評估擬人代理的動態評估架構，以及 PersonaScore，這是第一個基於決策理論的自動化人類對齊指標，用於對擬人代理進行全面的大規模評估。我們使用包含 200 個擬人角色和 10,000 個問題的基準，對 6 個開放和閉源的 LLM 進行評估，結果顯示擬人代理能力在最先進的模型中具有顯著的進步機會。例如，儘管 Claude 3.5 Sonnet 是一個更先進的模型，但其 PersonaScore 相對於 GPT 3.5 僅有 2.97% 的相對提升。重要的是，我們發現模型大小和複雜性的增加並不一定意味著擬人代理能力的提升，從而突顯了對演算法和架構發明以實現忠實且高效能的擬人代理的迫切需求。
 
 ##### **Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**
 2407.18414v1 by Xiaohang Tang, Afonso Marques, Parameswaran Kamalaruban, Ilija Bogunovic
@@ -2454,7 +2454,7 @@ LLM 愈來愈形塑我們的數位資訊生態系統，審查以
 我們根據投票建議應用程式 Wahl-o-Mat 開發基準資料集 GermanPartiesQA，涵蓋 2021 年至 2023 年之間的 10 次州選舉和 1 次全國選舉。在我們的研究中，我們發現所有受檢 LLM 都傾向於左綠。然後，我們進行提示實驗，我們使用基準和德國國會議員的社會人口資料來評估 LLM 回應的變化。為了區分阿諛奉承和可操縱性，我們使用「我是 [政治人物 X]，...」和「你是 [政治人物 X]，...」提示。與我們的預期相反，我們沒有觀察到提示「我是」和「你是」之間的顯著差異。雖然我們的研究結果強調 LLM 回應可以用政治人物來進行意識形態操縱，但它們表明，觀察到的 LLM 輸出變化可以更適切地描述為對特定脈絡的個人化，而不是阿諛奉承。
 
 ##### **Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**
-2407.18003v1 by Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai
+2407.18003v2 by Luohe Shi, Hongyi Zhang, Yao Yao, Zuchao Li, Hai Zhao
 
 Large Language Models (LLMs), epitomized by ChatGPT' s release in late 2022,
 have revolutionized various industries with their advanced language
@@ -2473,16 +2473,7 @@ large language models, from both efficiency and capability perspectives. Our
 review thus sheds light on the evolving landscape of LLM optimization, offering
 insights into future advancements in this dynamic field.
 
-摘要：大型語言模型 (LLM)，以 2022 年底發布的 ChatGPT 為代表，
-以其先進的語言理解力徹底改變了各個產業。然而，其效率受到 Transformer
-架構在處理長文字時所遭遇的困難所挑戰。KV 快取已成為解決此問題的關鍵解決方案，將 token
-產生的時間複雜度從二次轉換為線性，儘管 GPU 記憶體開銷會隨著對話長度成比例地增加。隨著 LLM 社群
-和學術界的發展，已提出各種 KV 快取壓縮方法。在此
-回顧中，我們剖析了 KV 快取的各種特性，並闡述了目前用於最佳化 LLM 的 KV 快取空間使用率的各種
-方法。這些
-方法涵蓋了預訓練階段、部署階段和推論階段，我們總結了這些方法之間的共性和差異。
-此外，我們列出了一些用於評估大型語言模型長文字能力的指標，從效率和能力的角度來看。因此，我們的
-回顧闡明了 LLM 最佳化的演變趨勢，提供了對此動態領域未來進展的見解。
+摘要：大型語言模型（LLM），以 2022 年底發布的 ChatGPT 為代表，透過其先進的語言理解能力，對各個產業帶來革命性的影響。然而，其效率卻受到 Transformer 架構在處理長文時所面臨的挑戰。KV 快取已成為解決此問題的關鍵方案，它將 Token 生成的時間複雜度從二次方轉換為線性，儘管 GPU 記憶體會隨著對話長度而增加。隨著 LLM 社群和學術界的發展，已提出各種 KV 快取壓縮方法。在本篇評論中，我們剖析 KV 快取的各種特性，並詳細說明目前用於最佳化 LLM 的 KV 快取空間使用的各種方法。這些方法涵蓋預訓練階段、部署階段和推理階段，我們將總結這些方法之間的共性與差異。此外，我們列出一些用於評估大型語言模型長文能力的指標，從效率和能力的角度來看。因此，我們的評論闡明了 LLM 最佳化領域的演變趨勢，並提供對這個動態領域未來進展的見解。
 
 ##### **On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**
 2407.17997v1 by Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter

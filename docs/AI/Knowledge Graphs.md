@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**Be aware of overfitting by hyperparameter optimization!**|Igor V. Tetko et.al.|[2407.20786v1](http://arxiv.org/abs/2407.20786v1)|null|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|null|
+|**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564v1](http://arxiv.org/abs/2407.20564v1)|null|
+|**2024-07-30**|**Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language**|Hossein Rajaby Faghihi et.al.|[2407.20513v1](http://arxiv.org/abs/2407.20513v1)|null|
+|**2024-07-29**|**What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**|Navapat Nananukul et.al.|[2407.20382v1](http://arxiv.org/abs/2407.20382v1)|null|
 |**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183v1](http://arxiv.org/abs/2407.20183v1)|[link](https://github.com/internlm/mindsearch)|
 |**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157v1](http://arxiv.org/abs/2407.20157v1)|[link](https://github.com/rllm-project/rllm)|
 |**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643v1](http://arxiv.org/abs/2407.19643v1)|[link](https://github.com/iamryanshengwang/prometheus-chatbot)|
@@ -26,7 +31,7 @@
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
-|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v2](http://arxiv.org/abs/2407.18961v2)|null|
+|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v2](http://arxiv.org/abs/2407.18961v2)|[link](https://github.com/apple/axlearn)|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
@@ -97,13 +102,134 @@
 |**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|[link](https://github.com/Maxpa1n/gcplm-kgc)|
 |**2024-06-26**|**AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**|Yifan Yang et.al.|[2406.18060v1](http://arxiv.org/abs/2406.18060v1)|[link](https://github.com/yifanycc/adazeta)|
 |**2024-06-25**|**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**|Zhehao Zhang et.al.|[2406.17271v1](http://arxiv.org/abs/2406.17271v1)|[link](https://github.com/salt-nlp/darg)|
-|**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231v1](http://arxiv.org/abs/2406.17231v1)|[link](https://github.com/tongzhou21/CogMG)|
-|**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687v1](http://arxiv.org/abs/2406.16687v1)|null|
-|**2024-06-24**|**CLEAR: Can Language Models Really Understand Causal Graphs?**|Sirui Chen et.al.|[2406.16605v1](http://arxiv.org/abs/2406.16605v1)|[link](https://github.com/opencausalab/clear)|
-|**2024-06-24**|**KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**|Dongyang Li et.al.|[2406.16374v1](http://arxiv.org/abs/2406.16374v1)|[link](https://github.com/MatNLP/KEHRL)|
-|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
 
 #### Abstracts
+##### **Be aware of overfitting by hyperparameter optimization!**
+2407.20786v1 by Igor V. Tetko, Ruud van Deursen, Guillaume Godin
+
+Hyperparameter optimization is very frequently employed in machine learning.
+However, an optimization of a large space of parameters could result in
+overfitting of models. In recent studies on solubility prediction the authors
+collected seven thermodynamic and kinetic solubility datasets from different
+data sources. They used state-of-the-art graph-based methods and compared
+models developed for each dataset using different data cleaning protocols and
+hyperparameter optimization. In our study we showed that hyperparameter
+optimization did not always result in better models, possibly due to
+overfitting when using the same statistical measures. Similar results could be
+calculated using pre-set hyperparameters, reducing the computational effort by
+around 10,000 times. We also extended the previous analysis by adding a
+representation learning method based on Natural Language Processing of smiles
+called Transformer CNN. We show that across all analyzed sets using exactly the
+same protocol, Transformer CNN provided better results than graph-based methods
+for 26 out of 28 pairwise comparisons by using only a tiny fraction of time as
+compared to other methods. Last but not least we stressed the importance of
+comparing calculation results using exactly the same statistical measures.
+
+摘要：機器學習中非常頻繁地使用超參數最佳化。
+然而，對大參數空間進行最佳化可能會導致模型過擬合。在最近對溶解度預測的研究中，作者從不同的數據源收集了七個熱力學和動力學溶解度數據集。他們使用了最先進的基於圖形的方法，並比較了使用不同的數據清洗協議和超參數最佳化為每個數據集開發的模型。在我們的研究中，我們表明超參數最佳化並非總是會產生更好的模型，這可能是由於在使用相同的統計測量時發生過擬合。可以使用預設的超參數計算類似的結果，從而將計算工作量減少約 10,000 倍。我們還通過添加基於笑容的自然語言處理的表示學習方法（稱為 Transformer CNN）來擴展先前的分析。我們表明，在使用完全相同的協議對所有分析的集合進行分析時，Transformer CNN 在 28 個成對比較中有 26 個比較比基於圖形的方法提供了更好的結果，而與其他方法相比，所用的時間只是很小的一部分。最後但並非最不重要的是，我們強調了使用完全相同的統計測量來比較計算結果的重要性。
+
+##### **Harvesting Textual and Structured Data from the HAL Publication Repository**
+2407.20595v1 by Francis Kulumba, Wissam Antoun, Guillaume Vimont, Laurent Romary
+
+HAL (Hyper Articles en Ligne) is the French national publication repository,
+used by most higher education and research organizations for their open science
+policy. As a digital library, it is a rich repository of scholarly documents,
+but its potential for advanced research has been underutilized. We present
+HALvest, a unique dataset that bridges the gap between citation networks and
+the full text of papers submitted on HAL. We craft our dataset by filtering HAL
+for scholarly publications, resulting in approximately 700,000 documents,
+spanning 34 languages across 13 identified domains, suitable for language model
+training, and yielding approximately 16.5 billion tokens (with 8 billion in
+French and 7 billion in English, the most represented languages). We transform
+the metadata of each paper into a citation network, producing a directed
+heterogeneous graph. This graph includes uniquely identified authors on HAL, as
+well as all open submitted papers, and their citations. We provide a baseline
+for authorship attribution using the dataset, implement a range of
+state-of-the-art models in graph representation learning for link prediction,
+and discuss the usefulness of our generated knowledge graph structure.
+
+摘要：HAL（線上超連結文章）是法國國家出版物資料庫，
+大多數高等教育和研究組織都使用它來制定開放科學
+政策。作為一個數位圖書館，它是一個豐富的學術文件資料庫，
+但它在進階研究的潛力尚未被充分利用。我們提出
+HALvest，一個獨特的資料集，它彌補了引文網路和
+在 HAL 上提交的論文全文之間的差距。我們透過篩選 HAL
+中的學術出版品來建立我們的資料集，最後得到約 70 萬份文件，
+涵蓋 13 個已識別領域的 34 種語言，適合語言模型
+訓練，並產生約 165 億個詞彙（其中法文有 80 億個，
+英文有 70 億個，是最具代表性的語言）。我們將
+每篇論文的元資料轉換成引文網路，產生一個有向
+異質圖形。此圖形包含在 HAL 上唯一識別的作者，以及
+所有公開提交的論文及其引文。我們提供一個基準
+使用資料集進行作者歸屬，實作一系列
+最先進的圖形表示學習模型進行連結預測，
+並討論我們產生的知識圖形結構的實用性。
+
+##### **CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**
+2407.20564v1 by Tianshi Zheng, Jiaxin Bai, Yicheng Wang, Tianqing Fang, Yue Guo, Yauwai Yim, Yangqiu Song
+
+While large language models (LLMs) have demonstrated impressive capabilities
+across various natural language processing tasks by acquiring rich factual
+knowledge from their broad training data, their ability to synthesize and
+logically reason with this knowledge in complex ways remains underexplored. In
+this work, we present a systematic evaluation of state-of-the-art LLMs' complex
+logical reasoning abilities through a novel benchmark of automatically
+generated complex reasoning questions over general domain and biomedical
+knowledge graphs. Our extensive experiments, employing diverse in-context
+learning techniques, reveal that LLMs excel at reasoning over general world
+knowledge but face significant challenges with specialized domain-specific
+knowledge. We find that prompting with explicit Chain-of-Thought demonstrations
+can substantially improve LLM performance on complex logical reasoning tasks
+with diverse logical operations. Interestingly, our controlled evaluations
+uncover an asymmetry where LLMs display proficiency at set union operations,
+but struggle considerably with set intersections - a key building block of
+logical reasoning. To foster further work, we will publicly release our
+evaluation benchmark and code.
+
+摘要：儘管大型語言模型 (LLM) 已展現出令人印象深刻的能力，可透過從廣泛的訓練資料中獲取豐富的事實知識，執行各種自然語言處理任務，但它們綜合運用並以複雜的方式運用此知識進行邏輯推理的能力仍有待進一步探討。在這項工作中，我們透過一個自動生成的一般領域和生物醫學知識圖表複雜推理問題的新基準，對最先進的 LLM 複雜邏輯推理能力進行系統性評估。我們的廣泛實驗採用多樣化的情境學習技術，揭示出 LLM 擅長對一般世界知識進行推理，但在處理特定領域的專業知識時則面臨重大挑戰。我們發現，使用明確的思考鏈條示範進行提示，可以大幅改善 LLM 在具有多樣化邏輯運算的複雜邏輯推理任務中的表現。有趣的是，我們的受控評估揭露了一個不對稱性，其中 LLM 展現出在集合聯集運算方面的熟練度，但在集合交集方面卻顯得相當吃力，而集合交集正是邏輯推理的關鍵組成部分。為了促進後續研究，我們將公開發布我們的評估基準和程式碼。
+
+##### **Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language**
+2407.20513v1 by Hossein Rajaby Faghihi, Aliakbar Nafar, Andrzej Uszok, Hamid Karimian, Parisa Kordjamshidi
+
+This paper presents a conversational pipeline for crafting domain knowledge
+for complex neuro-symbolic models through natural language prompts. It
+leverages large language models to generate declarative programs in the
+DomiKnowS framework. The programs in this framework express concepts and their
+relationships as a graph in addition to logical constraints between them. The
+graph, later, can be connected to trainable neural models according to those
+specifications. Our proposed pipeline utilizes techniques like dynamic
+in-context demonstration retrieval, model refinement based on feedback from a
+symbolic parser, visualization, and user interaction to generate the tasks'
+structure and formal knowledge representation. This approach empowers domain
+experts, even those not well-versed in ML/AI, to formally declare their
+knowledge to be incorporated in customized neural models in the DomiKnowS
+framework.
+
+摘要：本文提出了一個對話式管道，透過自然語言提示，為複雜的神經符號模型建立領域知識。它利用大型語言模型在 DomiKnowS 框架中產生宣告式程式。此框架中的程式會將概念及其關係表示為圖形，並在它們之間加上邏輯約束。之後，可以根據這些規格將圖形連接到可訓練的神經模型。我們提出的管道利用動態情境中示範檢索、基於符號解析器回饋的模型精煉、視覺化和使用者互動等技術，以產生任務結構和形式知識表示。這種方法讓領域專家，即使是不熟悉機器學習／人工智慧的人，也能正式宣告他們的知識，並將其納入 DomiKnowS 框架中的自訂神經模型。
+
+##### **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**
+2407.20382v1 by Navapat Nananukul, Wichayaporn Wongkamjan
+
+Role-playing games (RPGs) provide players with a rich, interactive world to
+explore. Dialogue serves as the primary means of communication between
+developers and players, manifesting in various forms such as guides, NPC
+interactions, and storytelling. While most games rely on written scripts to
+define the main story and character personalities, player immersion can be
+significantly enhanced through casual interactions between characters. With the
+advent of large language models (LLMs), we introduce a dialogue filler
+framework that utilizes LLMs enhanced by knowledge graphs to generate dynamic
+and contextually appropriate character interactions. We test this framework
+within the environments of Final Fantasy VII Remake and Pokemon, providing
+qualitative and quantitative evidence that demonstrates GPT-4's capability to
+act with defined personalities and generate dialogue. However, some flaws
+remain, such as GPT-4 being overly positive or more subtle personalities, such
+as maturity, tend to be of lower quality compared to more overt traits like
+timidity. This study aims to assist developers in crafting more nuanced filler
+dialogues, thereby enriching player immersion and enhancing the overall RPG
+experience.
+
+摘要：角色扮演遊戲 (RPG) 為玩家提供一個豐富且互動的世界供其探索。對話作為開發者與玩家之間的主要溝通方式，以指南、NPC 互動和說故事等各種形式呈現。雖然大多數遊戲依賴於書面腳本來定義主線故事和角色個性，但透過角色之間的閒聊互動，可以大幅提升玩家的沉浸感。隨著大型語言模型 (LLM) 的出現，我們引入了一個對話填充框架，利用由知識圖譜增強的 LLM 來產生動態且符合情境的對話互動。我們在 Final Fantasy VII Remake 和寶可夢的環境中測試了這個框架，提供了定性和定量的證據，證明了 GPT-4 具備以定義好的個性行動並產生對話的能力。然而，仍存在一些缺陷，例如 GPT-4 過於正面，或者較為細微的個性，例如成熟度，往往品質低於較明顯的特質，例如膽怯。本研究旨在協助開發者打造更細緻的填充對話，從而豐富玩家的沉浸感並提升整體 RPG 體驗。
+
 ##### **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**
 2407.20183v1 by Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
 
@@ -2348,118 +2474,4 @@ dynamically and adaptively evaluate LLMs. The code is available at
 https://github.com/SALT-NLP/DARG.
 
 摘要：目前透過靜態基準評估大型語言模型 (LLM) 的範例伴隨著顯著的限制，例如容易受到資料污染，以及缺乏適應 LLM 不斷演進的能力。因此，迫切需要能夠適應並產生具有受控複雜性的評估資料的評估方法。在這項工作中，我們透過自適應推理圖形演化 (DARG) 引入 LLM 的動態評估，以動態延伸目前具有受控複雜性和多樣性的基準。具體來說，我們首先擷取目前基準中資料點的推理圖形，然後擾動推理圖形以產生新的測試資料。這些新產生的測試樣本可以有不同的複雜性層級，同時維持與原始基準類似的語言多樣性。我們進一步使用程式碼增強的 LLM 來確保新產生資料的標籤正確性。我們將 DARG 架構套用於四個領域中的各種推理任務，並使用 15 個最先進的 LLM。實驗結果顯示，幾乎所有 LLM 在複雜性增加的情況下都會出現效能下降，而某些 LLM 則表現出顯著的下降。此外，我們發現 LLM 在透過 DARG 產生具有較高複雜性層級的資料進行評估時，會表現出更多偏差。這些觀察結果提供了有用的見解，說明如何動態且自適應地評估 LLM。程式碼可在 https://github.com/SALT-NLP/DARG 取得。
-
-##### **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**
-2406.17231v1 by Tong Zhou, Yubo Chen, Kang Liu, Jun Zhao
-
-Large language models have become integral to question-answering applications
-despite their propensity for generating hallucinations and factually inaccurate
-content. Querying knowledge graphs to reduce hallucinations in LLM meets the
-challenge of incomplete knowledge coverage in knowledge graphs. On the other
-hand, updating knowledge graphs by information extraction and knowledge graph
-completion faces the knowledge update misalignment issue. In this work, we
-introduce a collaborative augmentation framework, CogMG, leveraging knowledge
-graphs to address the limitations of LLMs in QA scenarios, explicitly targeting
-the problems of incomplete knowledge coverage and knowledge update
-misalignment. The LLMs identify and decompose required knowledge triples that
-are not present in the KG, enriching them and aligning updates with real-world
-demands. We demonstrate the efficacy of this approach through a supervised
-fine-tuned LLM within an agent framework, showing significant improvements in
-reducing hallucinations and enhancing factual accuracy in QA responses. Our
-code and video are publicly available.
-
-摘要：大型語言模型已成為問答應用程式中不可或缺的一部分，儘管它們傾向於產生幻覺和事實不正確的內容。查詢知識圖表以減少 LLM 中的幻覺會遇到知識圖表中知識覆蓋不完整的挑戰。另一方面，通過資訊萃取和知識圖表完成來更新知識圖表會面臨知識更新錯位問題。在這項工作中，我們引入了協作擴充架構 CogMG，利用知識圖表來解決 LLM 在 QA 場景中的限制，明確針對不完整的知識覆蓋和知識更新錯位問題。LLM 識別並分解 KG 中不存在的所需知識三元組，豐富它們並將更新與現實世界的需求保持一致。我們透過代理架構中監督微調的 LLM 展示了這種方法的功效，顯示出在減少幻覺和增強 QA 回應中的事實準確性方面有顯著的改進。我們的程式碼和影片公開提供。
-
-##### **Link Prediction with Untrained Message Passing Layers**
-2406.16687v1 by Lisi Qarkaxhija, Anatol E. Wegner, Ingo Scholtes
-
-Message passing neural networks (MPNNs) operate on graphs by exchanging
-information between neigbouring nodes. MPNNs have been successfully applied to
-various node-, edge-, and graph-level tasks in areas like molecular science,
-computer vision, natural language processing, and combinatorial optimization.
-However, most MPNNs require training on large amounts of labeled data, which
-can be costly and time-consuming. In this work, we explore the use of various
-untrained message passing layers in graph neural networks, i.e. variants of
-popular message passing architecture where we remove all trainable parameters
-that are used to transform node features in the message passing step. Focusing
-on link prediction, we find that untrained message passing layers can lead to
-competitive and even superior performance compared to fully trained MPNNs,
-especially in the presence of high-dimensional features. We provide a
-theoretical analysis of untrained message passing by relating the inner
-products of features implicitly produced by untrained message passing layers to
-path-based topological node similarity measures. As such, untrained message
-passing architectures can be viewed as a highly efficient and interpretable
-approach to link prediction.
-
-摘要：訊息傳遞神經網路 (MPNN) 透過交換鄰近節點之間的資訊來處理圖形。MPNN 已成功應用於各種節點、邊緣和圖形層級的任務，例如分子科學、電腦視覺、自然語言處理和組合最佳化。然而，大多數 MPNN 需要大量標籤資料才能進行訓練，這可能會很昂貴且耗時。在這項工作中，我們探討了在圖形神經網路中使用各種未訓練的訊息傳遞層，也就是說，我們移除了所有用於在訊息傳遞步驟中轉換節點特徵的可訓練參數，這是熱門訊息傳遞架構的變體。專注於連結預測，我們發現未訓練的訊息傳遞層可以產生具有競爭力，甚至優於完全訓練的 MPNN 的效能，尤其是在存在高維特徵的情況下。我們透過將未訓練的訊息傳遞層隱含產生的特徵的內積與基於路徑的拓撲節點相似度測量關聯，提供未訓練訊息傳遞的理論分析。因此，未訓練的訊息傳遞架構可以視為一種高度有效且可解釋的連結預測方法。
-
-##### **CLEAR: Can Language Models Really Understand Causal Graphs?**
-2406.16605v1 by Sirui Chen, Mengying Xu, Kun Wang, Xingyu Zeng, Rui Zhao, Shengjie Zhao, Chaochao Lu
-
-Causal reasoning is a cornerstone of how humans interpret the world. To model
-and reason about causality, causal graphs offer a concise yet effective
-solution. Given the impressive advancements in language models, a crucial
-question arises: can they really understand causal graphs? To this end, we
-pioneer an investigation into language models' understanding of causal graphs.
-Specifically, we develop a framework to define causal graph understanding, by
-assessing language models' behaviors through four practical criteria derived
-from diverse disciplines (e.g., philosophy and psychology). We then develop
-CLEAR, a novel benchmark that defines three complexity levels and encompasses
-20 causal graph-based tasks across these levels. Finally, based on our
-framework and benchmark, we conduct extensive experiments on six leading
-language models and summarize five empirical findings. Our results indicate
-that while language models demonstrate a preliminary understanding of causal
-graphs, significant potential for improvement remains. Our project website is
-at https://github.com/OpenCausaLab/CLEAR.
-
-摘要：因果推理是人類詮釋世界的基石。為了對因果關係建模和推理，因果圖提供了一個簡潔而有效的解決方案。鑑於語言模型的驚人進步，一個關鍵問題出現了：它們真的能理解因果圖嗎？為此，我們率先對語言模型對因果圖的理解進行了調查。具體來說，我們開發了一個框架來定義因果圖理解，通過從不同學科（例如哲學和心理學）衍生的四個實用標準來評估語言模型的行為。然後，我們開發了 CLEAR，一個新的基準，它定義了三個複雜性級別，並涵蓋了這些級別中的 20 個基於因果圖的任務。最後，基於我們的框架和基準，我們對六個領先的語言模型進行了廣泛的實驗，並總結了五項實證發現。我們的結果表明，儘管語言模型展示了對因果圖的初步理解，但仍有很大的改進潛力。我們的項目網站位於 https://github.com/OpenCausaLab/CLEAR。
-
-##### **KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning**
-2406.16374v1 by Dongyang Li, Taolin Zhang, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue
-
-Knowledge-enhanced pre-trained language models (KEPLMs) leverage relation
-triples from knowledge graphs (KGs) and integrate these external data sources
-into language models via self-supervised learning. Previous works treat
-knowledge enhancement as two independent operations, i.e., knowledge injection
-and knowledge integration. In this paper, we propose to learn
-Knowledge-Enhanced language representations with Hierarchical Reinforcement
-Learning (KEHRL), which jointly addresses the problems of detecting positions
-for knowledge injection and integrating external knowledge into the model in
-order to avoid injecting inaccurate or irrelevant knowledge. Specifically, a
-high-level reinforcement learning (RL) agent utilizes both internal and prior
-knowledge to iteratively detect essential positions in texts for knowledge
-injection, which filters out less meaningful entities to avoid diverting the
-knowledge learning direction. Once the entity positions are selected, a
-relevant triple filtration module is triggered to perform low-level RL to
-dynamically refine the triples associated with polysemic entities through
-binary-valued actions. Experiments validate KEHRL's effectiveness in probing
-factual knowledge and enhancing the model's performance on various natural
-language understanding tasks.
-
-摘要：知識增強預訓練語言模型 (KEPLM) 利用知識圖譜 (KG) 中的關聯三元組，並透過自我監督式學習將這些外部資料來源整合到語言模型中。先前的研究將知識增強視為兩個獨立的操作，即知識注入和知識整合。在本文中，我們建議使用分層強化學習 (KEHRL) 學習知識增強語言表徵，這共同解決了偵測知識注入位置和將外部知識整合到模型中的問題，以避免注入不準確或不相關的知識。具體來說，高階強化學習 (RL) 代理使用內部和先驗知識，反覆偵測文字中知識注入的重要位置，這會過濾掉較不重要的實體，以避免轉移知識學習方向。一旦選定實體位置，就會觸發相關的三元組過濾模組，透過二進制動作動態精煉與多義實體相關的三元組。實驗驗證了 KEHRL 在探查事實知識和增強模型在各種自然語言理解任務上的效能。
-
-##### **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**
-2406.16333v1 by Yichen Sun, Zhixuan Chu, Zhan Qin, Kui Ren
-
-The rapid advancement of Text-to-Image(T2I) generative models has enabled the
-synthesis of high-quality images guided by textual descriptions. Despite this
-significant progress, these models are often susceptible in generating contents
-that contradict the input text, which poses a challenge to their reliability
-and practical deployment. To address this problem, we introduce a novel
-diffusion-based framework to significantly enhance the alignment of generated
-images with their corresponding descriptions, addressing the inconsistency
-between visual output and textual input. Our framework is built upon a
-comprehensive analysis of inconsistency phenomena, categorizing them based on
-their manifestation in the image. Leveraging a state-of-the-art large language
-module, we first extract objects and construct a knowledge graph to predict the
-locations of these objects in potentially generated images. We then integrate a
-state-of-the-art controllable image generation model with a visual text
-generation module to generate an image that is consistent with the original
-prompt, guided by the predicted object locations. Through extensive experiments
-on an advanced multimodal hallucination benchmark, we demonstrate the efficacy
-of our approach in accurately generating the images without the inconsistency
-with the original prompt. The code can be accessed via
-https://github.com/TruthAI-Lab/PCIG.
-
-摘要：文本到图像 (T2I) 生成模型的快速进步使得合成由文本描述引导的高质量图像成为可能。尽管取得了这些重大进展，但这些模型在生成与输入文本相矛盾的内容方面通常很敏感，这对它们的可靠性和实际部署提出了挑战。为了解决这个问题，我们引入了一个新颖的基于扩散的框架，以显着增强生成图像与其相应描述的一致性，解决视觉输出和文本输入之间的不一致性。我们的框架建立在对不一致现象的全面分析之上，根据它们在图像中的表现对它们进行分类。利用最先进的大型语言模块，我们首先提取对象并构建知识图谱来预测这些对象在潜在生成的图像中的位置。然后，我们将最先进的可控图像生成模型与视觉文本生成模块集成在一起，以生成与原始提示一致的图像，并由预测的对象位置引导。通过在高级多模态幻觉基准上进行广泛的实验，我们展示了我们的方法在准确生成图像方面的有效性，而不会与原始提示不一致。可以通过 https://github.com/TruthAI-Lab/PCIG 访问代码。
 

@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
@@ -101,9 +102,38 @@
 |**2023-03-22**|**Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**|Frederik Pahde et.al.|[2303.12641v2](http://arxiv.org/abs/2303.12641v2)|[link](https://github.com/maxdreyer/reveal2revise)|
 |**2023-03-11**|**Explainable AI for Time Series via Virtual Inspection Layers**|Johanna Vielhaben et.al.|[2303.06365v1](http://arxiv.org/abs/2303.06365v1)|null|
 |**2023-03-08**|**Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**|Truong Thanh Hung Nguyen et.al.|[2303.04731v1](http://arxiv.org/abs/2303.04731v1)|[link](https://github.com/hungntt/xai_thyroid)|
-|**2023-03-06**|**Cybersecurity of AI medical devices: risks, legislation, and challenges**|Elisabetta Biasin et.al.|[2303.03140v1](http://arxiv.org/abs/2303.03140v1)|null|
 
 #### Abstracts
+##### **MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**
+2407.20284v1 by Shyam Dongre, Ritesh Chandra, Sonali Agarwal
+
+In modern healthcare, addressing the complexities of accurate disease
+prediction and personalized recommendations is both crucial and challenging.
+This research introduces MLtoGAI, which integrates Semantic Web technology with
+Machine Learning (ML) to enhance disease prediction and offer user-friendly
+explanations through ChatGPT. The system comprises three key components: a
+reusable disease ontology that incorporates detailed knowledge about various
+diseases, a diagnostic classification model that uses patient symptoms to
+detect specific diseases accurately, and the integration of Semantic Web Rule
+Language (SWRL) with ontology and ChatGPT to generate clear, personalized
+health advice. This approach significantly improves prediction accuracy and
+ensures results that are easy to understand, addressing the complexity of
+diseases and diverse symptoms. The MLtoGAI system demonstrates substantial
+advancements in accuracy and user satisfaction, contributing to developing more
+intelligent and accessible healthcare solutions. This innovative approach
+combines the strengths of ML algorithms with the ability to provide
+transparent, human-understandable explanations through ChatGPT, achieving
+significant improvements in prediction accuracy and user comprehension. By
+leveraging semantic technology and explainable AI, the system enhances the
+accuracy of disease prediction and ensures that the recommendations are
+relevant and easily understood by individual patients. Our research highlights
+the potential of integrating advanced technologies to overcome existing
+challenges in medical diagnostics, paving the way for future developments in
+intelligent healthcare systems. Additionally, the system is validated using 200
+synthetic patient data records, ensuring robust performance and reliability.
+
+摘要：在現代醫療保健中，解決準確疾病預測和個性化建議的複雜性既至關重要又具有挑戰性。本研究引入了 MLtoGAI，它將語義網路技術與機器學習 (ML) 相結合，以增強疾病預測並透過 ChatGPT 提供使用者友善的說明。該系統包含三個關鍵組成部分：一個可重複使用的疾病本体，其中包含有關各種疾病的詳細知識；一個診斷分類模型，它使用患者症狀來準確檢測特定疾病；以及語義網路規則語言 (SWRL) 與本体和 ChatGPT 的整合，以產生清晰、個性化的健康建議。這種方法顯著提高了預測準確性，並確保了易於理解的結果，解決了疾病和不同症狀的複雜性。MLtoGAI 系統展示了準確性和使用者滿意度的實質性進步，有助於開發更智慧且更易於取得的醫療保健解決方案。這種創新的方法結合了 ML 演算法的優點，以及透過 ChatGPT 提供透明且人類可以理解的說明的能力，在預測準確性和使用者理解方面取得了顯著的進步。透過利用語義技術和可解釋的 AI，該系統提高了疾病預測的準確性，並確保了建議與個別患者相關且易於理解。我們的研究強調了整合先進技術以克服醫療診斷中現有挑戰的潛力，為智慧醫療保健系統的未來發展鋪路。此外，該系統使用 200 個合成患者資料記錄進行驗證，確保了穩健的效能和可靠性。
+
 ##### **Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**
 2407.18343v2 by Alessandro De Carlo, Enea Parimbelli, Nicola Melillo, Giovanna Nicora
 
@@ -2532,35 +2562,4 @@ Finally, we survey to assess doctors' and patients' trust in XAI explanations
 of the model's decisions on thyroid nodule images.
 
 摘要：解釋深度學習模型預測結果的能力對最終使用者而言是一項重要功能，可利用人工智慧 (AI) 的力量進行醫療決策流程，這通常被認為是不透明且難以理解的。在本文中，我們運用最先進的可解釋人工智慧 (XAI) 方法來解釋黑盒 AI 模型在甲狀腺結節診斷應用中的預測結果。我們提出新的基於統計的 XAI 方法，即核密度估計和密度圖，來解釋未檢測到結節的情況。XAI 方法的效能會在定性和定量比較下被視為改善資料品質和模型效能的回饋。最後，我們進行調查以評估醫師和患者對 XAI 對模型在甲狀腺結節影像中決策的解釋的信任度。
-
-##### **Cybersecurity of AI medical devices: risks, legislation, and challenges**
-2303.03140v1 by Elisabetta Biasin, Erik Kamenjasevic, Kaspar Rosager Ludvigsen
-
-Medical devices and artificial intelligence systems rapidly transform
-healthcare provisions. At the same time, due to their nature, AI in or as
-medical devices might get exposed to cyberattacks, leading to patient safety
-and security risks. This book chapter is divided into three parts. The first
-part starts by setting the scene where we explain the role of cybersecurity in
-healthcare. Then, we briefly define what we refer to when we talk about AI that
-is considered a medical device by itself or supports one. To illustrate the
-risks such medical devices pose, we provide three examples: the poisoning of
-datasets, social engineering, and data or source code extraction. In the second
-part, the paper provides an overview of the European Union's regulatory
-framework relevant for ensuring the cybersecurity of AI as or in medical
-devices (MDR, NIS Directive, Cybersecurity Act, GDPR, the AI Act proposal and
-the NIS 2 Directive proposal). Finally, the third part of the paper examines
-possible challenges stemming from the EU regulatory framework. In particular,
-we look toward the challenges deriving from the two legislative proposals and
-their interaction with the existing legislation concerning AI medical devices'
-cybersecurity. They are structured as answers to the following questions: (1)
-how will the AI Act interact with the MDR regarding the cybersecurity and
-safety requirements?; (2) how should we interpret incident notification
-requirements from the NIS 2 Directive proposal and MDR?; and (3) what are the
-consequences of the evolving term of critical infrastructures?
-  [This is a draft chapter. The final version will be available in Research
-Handbook on Health, AI and the Law edited by Barry Solaiman & I. Glenn Cohen,
-forthcoming 2023, Edward Elgar Publishing Ltd]
-
-摘要：醫療設備和人工智慧系統快速轉化醫療保健的提供方式。同時，由於其本質，醫療設備中或作為醫療設備的人工智慧可能會遭受網路攻擊，進而導致患者安全和安全風險。本章節分為三部分。第一部分從設定場景開始，說明網路安全在醫療保健中的角色。然後，我們簡要定義我們在談論被視為醫療設備本身或支援醫療設備的人工智慧時所指涉的內容。為了說明此類醫療設備帶來的風險，我們提供了三個範例：資料集中毒、社會工程和資料或原始碼萃取。在第二部分，本文概述了歐盟的監管架構，與確保醫療設備中或作為醫療設備的人工智慧的網路安全相關（醫療器材法規、網路與資訊安全指令、網路安全法、一般資料保護規範、人工智慧法提案和網路與資訊安全 2 指令提案）。最後，本文的第三部分探討源自歐盟監管架構的潛在挑戰。特別是，我們展望源自這兩項立法提案的挑戰，以及它們與現有關於人工智慧醫療設備網路安全的立法之間的互動。它們被架構為以下問題的解答：(1) 人工智慧法將如何與醫療器材法規互動，就網路安全和安全要求而言？(2) 我們應如何解讀網路與資訊安全 2 指令提案和醫療器材法規的事件通知要求？(3) 關鍵基礎設施演進的術語會帶來什麼後果？
-[這是草稿章節。最終版本將刊載於 Barry Solaiman 和 I. Glenn Cohen 編輯的《健康、人工智慧與法律研究手冊》中，2023 年出版，Edward Elgar Publishing Ltd]
 

@@ -2,6 +2,10 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011v1](http://arxiv.org/abs/2407.21011v1)|[link](https://github.com/xypb/cleft)|
+|**2024-07-30**|**Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing**|Eugenio Lomurno et.al.|[2407.20830v1](http://arxiv.org/abs/2407.20830v1)|null|
+|**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739v1](http://arxiv.org/abs/2407.20739v1)|null|
+|**2024-07-29**|**Dense Self-Supervised Learning for Medical Image Segmentation**|Maxime Seince et.al.|[2407.20395v1](http://arxiv.org/abs/2407.20395v1)|null|
 |**2024-07-29**|**Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**|Ruochen Li et.al.|[2407.20108v1](http://arxiv.org/abs/2407.20108v1)|null|
 |**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938v1](http://arxiv.org/abs/2407.19938v1)|[link](https://github.com/benolmbrt/wcp_miccai)|
 |**2024-07-29**|**Yucca: A Deep Learning Framework For Medical Image Analysis**|Sebastian Nørgaard Llambias et.al.|[2407.19888v1](http://arxiv.org/abs/2407.19888v1)|[link](https://github.com/sllambias/yucca)|
@@ -19,6 +23,7 @@
 |**2024-07-27**|**Channel Boosted CNN-Transformer-based Multi-Level and Multi-Scale Nuclei Segmentation**|Zunaira Rauf et.al.|[2407.19186v1](http://arxiv.org/abs/2407.19186v1)|null|
 |**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118v1](http://arxiv.org/abs/2407.19118v1)|null|
 |**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094v1](http://arxiv.org/abs/2407.19094v1)|null|
+|**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525v1](http://arxiv.org/abs/2407.18525v1)|[link](https://github.com/yhzhu99/ehr-llm-benchmark)|
 |**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v3](http://arxiv.org/abs/2407.18483v3)|[link](https://github.com/sperfu/eyedoc)|
 |**2024-07-26**|**Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**|Nianjun Zhou et.al.|[2407.18992v1](http://arxiv.org/abs/2407.18992v1)|null|
@@ -89,6 +94,7 @@
 |**2024-07-16**|**Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise**|Qimin Yang et.al.|[2407.11536v1](http://arxiv.org/abs/2407.11536v1)|null|
 |**2024-07-16**|**Cross-Phase Mutual Learning Framework for Pulmonary Embolism Identification on Non-Contrast CT Scans**|Bizhe Bai et.al.|[2407.11529v1](http://arxiv.org/abs/2407.11529v1)|null|
 |**2024-07-16**|**Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG**|Jiarong Chen et.al.|[2407.11481v1](http://arxiv.org/abs/2407.11481v1)|[link](https://github.com/chenjiar3/mcma)|
+|**2024-07-16**|**NudgeRank: Digital Algorithmic Nudging for Personalized Health**|Jodi Chiam et.al.|[2407.20241v1](http://arxiv.org/abs/2407.20241v1)|null|
 |**2024-07-16**|**TM-PATHVQA:90000+ Textless Multilingual Questions for Medical Visual Question Answering**|Tonmoy Rajkhowa et.al.|[2407.11383v1](http://arxiv.org/abs/2407.11383v1)|null|
 |**2024-07-16**|**Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations: A Comparative Analysis**|Qiuhong Wei et.al.|[2407.15862v1](http://arxiv.org/abs/2407.15862v1)|null|
 |**2024-07-15**|**Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**|Leonardo Crespi et.al.|[2407.10888v1](http://arxiv.org/abs/2407.10888v1)|null|
@@ -96,14 +102,111 @@
 |**2024-07-15**|**Classification of Heart Sounds Using Multi-Branch Deep Convolutional Network and LSTM-CNN**|Seyed Amir Latifi et.al.|[2407.10689v1](http://arxiv.org/abs/2407.10689v1)|null|
 |**2024-07-15**|**Spatio-temporal neural distance fields for conditional generative modeling of the heart**|Kristine Sørensen et.al.|[2407.10663v1](http://arxiv.org/abs/2407.10663v1)|[link](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model)|
 |**2024-07-15**|**TCM-FTP: Fine-Tuning Large Language Models for Herbal Prescription Prediction**|Xingzhi Zhou et.al.|[2407.10510v1](http://arxiv.org/abs/2407.10510v1)|null|
-|**2024-07-15**|**A Multi-Stage Framework for 3D Individual Tooth Segmentation in Dental CBCT**|Chunshi Wang et.al.|[2407.10433v1](http://arxiv.org/abs/2407.10433v1)|null|
-|**2024-07-15**|**Static and multivariate-temporal attentive fusion transformer for readmission risk prediction**|Zhe Sun et.al.|[2407.11096v1](http://arxiv.org/abs/2407.11096v1)|null|
-|**2024-07-14**|**Evolved Developmental Artificial Neural Networks for Multitasking with Advanced Activity Dependence**|Yintong Zhang et.al.|[2407.10359v1](http://arxiv.org/abs/2407.10359v1)|null|
-|**2024-07-14**|**Learning Unlabeled Clients Divergence via Anchor Model Aggregation for Federated Semi-supervised Learning**|Marawan Elbatel et.al.|[2407.10327v1](http://arxiv.org/abs/2407.10327v1)|null|
-|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086v2](http://arxiv.org/abs/2407.10086v2)|null|
-|**2024-07-13**|**Document-level Clinical Entity and Relation Extraction via Knowledge Base-Guided Generation**|Kriti Bhattarai et.al.|[2407.10021v1](http://arxiv.org/abs/2407.10021v1)|null|
 
 #### Abstracts
+##### **CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**
+2407.21011v1 by Yuexi Du, Brian Chang, Nicha C. Dvornek
+
+Recent advancements in Contrastive Language-Image Pre-training (CLIP) have
+demonstrated notable success in self-supervised representation learning across
+various tasks. However, the existing CLIP-like approaches often demand
+extensive GPU resources and prolonged training times due to the considerable
+size of the model and dataset, making them poor for medical applications, in
+which large datasets are not always common. Meanwhile, the language model
+prompts are mainly manually derived from labels tied to images, potentially
+overlooking the richness of information within training samples. We introduce a
+novel language-image Contrastive Learning method with an Efficient large
+language model and prompt Fine-Tuning (CLEFT) that harnesses the strengths of
+the extensive pre-trained language and visual models. Furthermore, we present
+an efficient strategy for learning context-based prompts that mitigates the gap
+between informative clinical diagnostic data and simple class labels. Our
+method demonstrates state-of-the-art performance on multiple chest X-ray and
+mammography datasets compared with various baselines. The proposed parameter
+efficient framework can reduce the total trainable model size by 39% and reduce
+the trainable language model to only 4% compared with the current BERT encoder.
+
+摘要：對比語言影像預訓練 (CLIP) 的最新進展已展現出在各項任務中以自我監督表徵學習獲得顯著成功的成果。然而，現有的 CLIP 類似方法通常需要大量的 GPU 資源和漫長的訓練時間，因為模型和資料集的規模龐大，這使得它們不適合醫療應用，因為醫療應用中並不總是會有大型資料集。同時，語言模型提示主要來自與影像相關的標籤，而手動衍生，這可能會忽略訓練樣本中豐富的資訊。我們提出一個新穎的語言影像對比學習方法，其中包含一個高效的大語言模型和提示微調 (CLEFT)，它利用了廣泛預訓練的語言和視覺模型的優勢。此外，我們提出一個學習基於脈絡提示的有效策略，以縮小資訊豐富的臨床診斷資料和簡單類別標籤之間的差距。與各種基準相比，我們的模型在多個胸部 X 光和乳房攝影資料集上展現出最先進的效能。所提出的參數有效架構可以將總體可訓練模型大小減少 39%，並將可訓練語言模型減少到僅 4%，與目前的 BERT 編碼器相比。
+
+##### **Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing**
+2407.20830v1 by Eugenio Lomurno, Matteo Matteucci
+
+Federated learning has emerged as a paradigm for collaborative learning,
+enabling the development of robust models without the need to centralise
+sensitive data. However, conventional federated learning techniques have
+privacy and security vulnerabilities due to the exposure of models, parameters
+or updates, which can be exploited as an attack surface. This paper presents
+Federated Knowledge Recycling (FedKR), a cross-silo federated learning approach
+that uses locally generated synthetic data to facilitate collaboration between
+institutions. FedKR combines advanced data generation techniques with a dynamic
+aggregation process to provide greater security against privacy attacks than
+existing methods, significantly reducing the attack surface. Experimental
+results on generic and medical datasets show that FedKR achieves competitive
+performance, with an average improvement in accuracy of 4.24% compared to
+training models from local data, demonstrating particular effectiveness in data
+scarcity scenarios.
+
+摘要：聯邦學習已成為協作學習的典範，
+無需集中敏感資料即可開發穩健模型。然而，由於模型、參數
+或更新的公開，傳統的聯邦學習技術具有隱私和安全漏洞，可用作攻擊面。本文提出
+聯邦知識再利用 (FedKR)，一種跨孤島的聯邦學習方法
+使用本地生成的合成資料來促進
+機構之間的合作。FedKR 將先進的資料生成技術與動態
+聚合過程相結合，以提供比
+現有方法更能抵禦隱私攻擊的安全保障，大幅縮小攻擊面。實驗
+結果顯示，在一般和醫療資料集上，FedKR 達到競爭力
+表現，與訓練模型相比，準確率平均提升 4.24%
+來自本地資料，在資料稀缺的情況下展現出特別的有效性。
+
+##### **Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**
+2407.20739v1 by Michael Kölle, Karola Schneider, Sabrina Egger, Felix Topp, Thomy Phan, Philipp Altmann, Jonas Nüßlein, Claudia Linnhoff-Popien
+
+In recent years, Multi-Agent Reinforcement Learning (MARL) has found
+application in numerous areas of science and industry, such as autonomous
+driving, telecommunications, and global health. Nevertheless, MARL suffers
+from, for instance, an exponential growth of dimensions. Inherent properties of
+quantum mechanics help to overcome these limitations, e.g., by significantly
+reducing the number of trainable parameters. Previous studies have developed an
+approach that uses gradient-free quantum Reinforcement Learning and
+evolutionary optimization for variational quantum circuits (VQCs) to reduce the
+trainable parameters and avoid barren plateaus as well as vanishing gradients.
+This leads to a significantly better performance of VQCs compared to classical
+neural networks with a similar number of trainable parameters and a reduction
+in the number of parameters by more than 97 \% compared to similarly good
+neural networks. We extend an approach of K\"olle et al. by proposing a
+Gate-Based, a Layer-Based, and a Prototype-Based concept to mutate and
+recombine VQCs. Our results show the best performance for mutation-only
+strategies and the Gate-Based approach. In particular, we observe a
+significantly better score, higher total and own collected coins, as well as a
+superior own coin rate for the best agent when evaluated in the Coin Game
+environment.
+
+摘要：近年來，多智能體強化學習 (MARL) 已在科學和產業的許多領域中找到應用，例如自動駕駛、電信和全球健康。儘管如此，MARL 還是會受到例如維度指數成長等問題的影響。量子力學的內在特性有助於克服這些限制，例如，透過大幅減少可訓練參數的數量。先前的研究已開發出一種方法，該方法使用無梯度的量子強化學習和變分量子電路 (VQC) 的演化最佳化，以減少可訓練參數並避免貧瘠高原和梯度消失。與具有類似可訓練參數數量的傳統神經網路相比，這會讓 VQC 的效能顯著提升，而且與同樣優良的神經網路相比，參數數量減少了超過 97%。我們擴充了 K\"olle 等人的方法，提出一個基於閘、基於層和基於原型的概念來變異和重組 VQC。我們的結果顯示，僅變異策略和基於閘的方法具有最佳效能。特別是，我們觀察到在 Coin Game 環境中進行評估時，最佳智能體的得分顯著提升、總計和自己收集的金幣數量較高，以及自己的金幣比率較高。
+
+##### **Dense Self-Supervised Learning for Medical Image Segmentation**
+2407.20395v1 by Maxime Seince, Loic Le Folgoc, Luiz Augusto Facury de Souza, Elsa Angelini
+
+Deep learning has revolutionized medical image segmentation, but it relies
+heavily on high-quality annotations. The time, cost and expertise required to
+label images at the pixel-level for each new task has slowed down widespread
+adoption of the paradigm. We propose Pix2Rep, a self-supervised learning (SSL)
+approach for few-shot segmentation, that reduces the manual annotation burden
+by learning powerful pixel-level representations directly from unlabeled
+images. Pix2Rep is a novel pixel-level loss and pre-training paradigm for
+contrastive SSL on whole images. It is applied to generic encoder-decoder deep
+learning backbones (e.g., U-Net). Whereas most SSL methods enforce invariance
+of the learned image-level representations under intensity and spatial image
+augmentations, Pix2Rep enforces equivariance of the pixel-level
+representations. We demonstrate the framework on a task of cardiac MRI
+segmentation. Results show improved performance compared to existing semi- and
+self-supervised approaches; and a 5-fold reduction in the annotation burden for
+equivalent performance versus a fully supervised U-Net baseline. This includes
+a 30% (resp. 31%) DICE improvement for one-shot segmentation under
+linear-probing (resp. fine-tuning). Finally, we also integrate the novel
+Pix2Rep concept with the Barlow Twins non-contrastive SSL, which leads to even
+better segmentation performance.
+
+摘要：深度學習徹底改變了醫學影像分割，但它極度依賴於高品質的註解。為每個新任務標記像素層級的影像所需的時間、成本和專業知識，已減緩了範例的廣泛採用。我們提出 Pix2Rep，一種針對少次分割的自監督式學習 (SSL) 方法，可透過直接從未標記的影像中學習強大的像素層級表示，來減輕手動註解負擔。Pix2Rep 是一種針對完整影像對比式 SSL 的新穎像素層級損失和預訓練範例。它被應用於通用編碼器-解碼器深度學習主幹 (例如 U-Net)。大多數 SSL 方法強制學習的影像層級表示在強度和空間影像擴充下具有不變性，而 Pix2Rep 則強制像素層級表示具有等變性。我們在心臟 MRI 分割任務中展示了這個架構。結果顯示與現有的半監督式和自監督式方法相比，效能有所提升；且在與完全監督式 U-Net 基準具有相同效能的情況下，註解負擔減少了 5 倍。這包括在線性探測 (resp. 微調) 下，單次分割的 DICE 提升了 30% (resp. 31%)。最後，我們也將新穎的 Pix2Rep 概念與 Barlow Twins 非對比式 SSL 整合，這導致了更好的分割效能。
+
 ##### **Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**
 2407.20108v1 by Ruochen Li, Jiazhen Pan, Youxiang Zhu, Juncheng Ni, Daniel Rueckert
 
@@ -538,6 +641,36 @@ past year, and should strongly be considered as a backbone for robotics
 problems going forward.
 
 摘要：<paragraph>我們推出 Wonderful Team，這是一個多代理視覺 LLM (VLLM) 架構，用於解決零次學習模式下的機器人問題。零次學習是指，對於一個新環境，我們向 VLLM 提供機器人環境的圖像和任務描述，並讓 VLLM 輸出機器人完成任務所需的動作序列。機器人領域中 VLLM 的先前研究主要集中在管道某一部分進行微調的設定上，例如針對機器人資料微調 LLM 或訓練一個單獨的視覺編碼器以進行感知和動作產生。令人驚訝的是，由於 VLLM 能力的最新進展，對於許多任務來說，這種微調可能不再必要。在這項工作中，我們展示了透過仔細的工程設計，我們可以提示一個單一的現成 VLLM 來處理機器人任務的所有方面，從高層級規劃到低層級位置提取和動作執行。Wonderful Team 建立在多代理 LLM 的最新進展上，以在代理層級中分配任務，使其具有自我修正能力，並能有效地分配和解決長遠任務。在 VIMABench 和真實機器人環境中進行的廣泛實驗證明了系統處理各種機器人任務的能力，包括操作、視覺目標達成和視覺推理，所有這些都是在零次學習模式下進行的。這些結果強調了一個重點：視覺語言模型在過去一年中進步迅速，並且應強烈考慮作為機器人問題未來的基礎。</paragraph>
+
+##### **MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**
+2407.20284v1 by Shyam Dongre, Ritesh Chandra, Sonali Agarwal
+
+In modern healthcare, addressing the complexities of accurate disease
+prediction and personalized recommendations is both crucial and challenging.
+This research introduces MLtoGAI, which integrates Semantic Web technology with
+Machine Learning (ML) to enhance disease prediction and offer user-friendly
+explanations through ChatGPT. The system comprises three key components: a
+reusable disease ontology that incorporates detailed knowledge about various
+diseases, a diagnostic classification model that uses patient symptoms to
+detect specific diseases accurately, and the integration of Semantic Web Rule
+Language (SWRL) with ontology and ChatGPT to generate clear, personalized
+health advice. This approach significantly improves prediction accuracy and
+ensures results that are easy to understand, addressing the complexity of
+diseases and diverse symptoms. The MLtoGAI system demonstrates substantial
+advancements in accuracy and user satisfaction, contributing to developing more
+intelligent and accessible healthcare solutions. This innovative approach
+combines the strengths of ML algorithms with the ability to provide
+transparent, human-understandable explanations through ChatGPT, achieving
+significant improvements in prediction accuracy and user comprehension. By
+leveraging semantic technology and explainable AI, the system enhances the
+accuracy of disease prediction and ensures that the recommendations are
+relevant and easily understood by individual patients. Our research highlights
+the potential of integrating advanced technologies to overcome existing
+challenges in medical diagnostics, paving the way for future developments in
+intelligent healthcare systems. Additionally, the system is validated using 200
+synthetic patient data records, ensuring robust performance and reliability.
+
+摘要：在現代醫療保健中，解決準確疾病預測和個性化建議的複雜性既至關重要又具有挑戰性。本研究引入了 MLtoGAI，它將語義網路技術與機器學習 (ML) 相結合，以增強疾病預測並透過 ChatGPT 提供使用者友善的說明。該系統包含三個關鍵組成部分：一個可重複使用的疾病本体，其中包含有關各種疾病的詳細知識；一個診斷分類模型，它使用患者症狀來準確檢測特定疾病；以及語義網路規則語言 (SWRL) 與本体和 ChatGPT 的整合，以產生清晰、個性化的健康建議。這種方法顯著提高了預測準確性，並確保了易於理解的結果，解決了疾病和不同症狀的複雜性。MLtoGAI 系統展示了準確性和使用者滿意度的實質性進步，有助於開發更智慧且更易於取得的醫療保健解決方案。這種創新的方法結合了 ML 演算法的優點，以及透過 ChatGPT 提供透明且人類可以理解的說明的能力，在預測準確性和使用者理解方面取得了顯著的進步。透過利用語義技術和可解釋的 AI，該系統提高了疾病預測的準確性，並確保了建議與個別患者相關且易於理解。我們的研究強調了整合先進技術以克服醫療診斷中現有挑戰的潛力，為智慧醫療保健系統的未來發展鋪路。此外，該系統使用 200 個合成患者資料記錄進行驗證，確保了穩健的效能和可靠性。
 
 ##### **Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**
 2407.18525v1 by Yinghao Zhu, Junyi Gao, Zixiang Wang, Weibin Liao, Xiaochen Zheng, Lifang Liang, Yasha Wang, Chengwei Pan, Ewen M. Harrison, Liantao Ma
@@ -2357,6 +2490,26 @@ publicly available at \url{https://github.com/CHENJIAR3/MCMA}.
 
 摘要：<paragraph>在表現出高盛行率和死亡率的心血管疾病 (CVD) 的情況下，心電圖 (ECG) 是一種醫生常用的標準診斷工具，在臨床實務中通常使用 12 導程組態。然而，放置在表面的 10 個電極會造成許多不便和不適，而快速進步的可穿戴式裝置採用減少導程或單導程 ECG 來降低不適，作為長期監測的解決方案。由於單導程 ECG 是 12 導程 ECG 的子集，它提供的健康資訊不足，在真實世界的醫療保健應用中扮演著次標準的角色。因此，有必要利用訊號產生技術來縮小其臨床重要性差距，方法是從真實的單導程 ECG 重建 12 導程 ECG。具體來說，本研究提出了一個多通道遮罩自動編碼器 (MCMA) 來達成此目標。在實驗結果中，生成的訊號與真實訊號之間的可視化結果可以證明所提出架構的有效性。同時，本研究引入了稱為 ECGGenEval 的綜合評估基準，涵蓋訊號層級、特徵層級和診斷層級評估，提供 12 導程 ECG 訊號和生成模型的整體評估。此外，定量的實驗結果如下，在訊號層級評估中，均方誤差為 0.0178 和 0.0658，相關係數為 0.7698 和 0.7237，在診斷層級評估中，兩個生成的 12 導程 ECG 的平均 F1 分數為 0.8319 和 0.7824，達到了最先進的效能。開放原始碼可以在 \url{https://github.com/CHENJIAR3/MCMA} 公開取得。</paragraph>
 
+##### **NudgeRank: Digital Algorithmic Nudging for Personalized Health**
+2407.20241v1 by Jodi Chiam, Aloysius Lim, Ankur Teredesai
+
+In this paper we describe NudgeRank, an innovative digital algorithmic
+nudging system designed to foster positive health behaviors on a
+population-wide scale. Utilizing a novel combination of Graph Neural Networks
+augmented with an extensible Knowledge Graph, this Recommender System is
+operational in production, delivering personalized and context-aware nudges to
+over 1.1 million care recipients daily. This enterprise deployment marks one of
+the largest AI-driven health behavior change initiatives, accommodating diverse
+health conditions and wearable devices. Rigorous evaluation reveals
+statistically significant improvements in health outcomes, including a 6.17%
+increase in daily steps and 7.61% more exercise minutes. Moreover, user
+engagement and program enrollment surged, with a 13.1% open rate compared to
+baseline systems' 4%. Demonstrating scalability and reliability, NudgeRank
+operates efficiently on commodity compute resources while maintaining
+automation and observability standards essential for production systems.
+
+摘要：在本文中，我們描述了 NudgeRank，一種創新的數位演算法推動系統，旨在促進全人口規模的正面健康行為。此推薦系統利用圖神經網路與可擴充知識圖譜的新穎組合，在生產環境中運作，每天向超過 110 萬名照護受領者提供個人化且與情境相關的推動。此企業部署標誌著最大規模的 AI 驅動健康行為改變計畫之一，適用於各種健康狀況和可穿戴裝置。嚴格的評估揭示了健康成果有顯著的統計改善，包括每日步數增加 6.17%，以及運動時間增加 7.61%。此外，使用者參與度和計畫註冊率激增，開啟率為 13.1%，相較於基準系統的 4%。NudgeRank 展示了可擴充性和可靠性，在商品計算資源上有效運作，同時維持對生產系統至關重要的自動化和可觀察性標準。
+
 ##### **TM-PATHVQA:90000+ Textless Multilingual Questions for Medical Visual Question Answering**
 2407.11383v1 by Tonmoy Rajkhowa, Amartya Roy Chowdhury, Sankalp Nagaonkar, Achyut Mani Tripathi
 
@@ -2532,148 +2685,4 @@ this work illustrates the importance of fine-tuning for TCM prescription
 prediction, and we have proposed an effective way to do that.
 
 摘要：中醫依賴特定中草藥組合來治療症狀和徵兆，這項做法已有數千年的歷史。預測中醫處方是一個引人入勝的技術挑戰，具有實際意義。然而，由於缺乏高品質的臨床數據集以及症狀與中草藥之間的複雜關係，這項任務面臨限制。為了解決這些問題，我們引入了 DigestDS，一個包含消化系統疾病經驗豐富專家實際病歷的新數據集。我們還提出了一種方法，TCM-FTP（中醫微調預訓練），通過在 DigestDS 上進行監督微調來利用預訓練的大語言模型 (LLM)。此外，我們使用低秩適應技術來提高計算效率。TCM-FTP 還通過置換處方中的中草藥來納入數據擴充，利用它們與順序無關的特性。令人印象深刻的是，TCM-FTP 達到了 0.8031 的 F1 分數，顯著超越了以前的方法。此外，它在劑量預測中表現出顯著的準確性，實現了 0.0604 的歸一化均方誤差。相比之下，未經微調的 LLM 表現不佳。儘管 LLM 已在廣泛的任務中展現出能力，但這項工作說明了微調對於中醫處方預測的重要性，而且我們提出了一個有效的方法來做到這一點。
-
-##### **A Multi-Stage Framework for 3D Individual Tooth Segmentation in Dental CBCT**
-2407.10433v1 by Chunshi Wang, Bin Zhao, Shuxue Ding
-
-Cone beam computed tomography (CBCT) is a common way of diagnosing dental
-related diseases. Accurate segmentation of 3D tooth is of importance for the
-treatment. Although deep learning based methods have achieved convincing
-results in medical image processing, they need a large of annotated data for
-network training, making it very time-consuming in data collection and
-annotation. Besides, domain shift widely existing in the distribution of data
-acquired by different devices impacts severely the model generalization. To
-resolve the problem, we propose a multi-stage framework for 3D tooth
-segmentation in dental CBCT, which achieves the third place in the
-"Semi-supervised Teeth Segmentation" 3D (STS-3D) challenge. The experiments on
-validation set compared with other semi-supervised segmentation methods further
-indicate the validity of our approach.
-
-摘要：錐狀光束電腦斷層掃描 (CBCT) 是一種常見的牙科相關疾病診斷方式。3D 牙齒的精確分割對於治療至關重要。儘管基於深度學習的方法在醫學影像處理中已取得令人信服的成果，但它們需要大量的註解資料進行網路訓練，這使得資料收集和註解非常耗時。此外，在不同裝置取得的資料分佈中廣泛存在的領域轉移會嚴重影響模型的泛化能力。為了解決這個問題，我們提出了一個多階段架構，用於牙科 CBCT 中的 3D 牙齒分割，在「半監督牙齒分割」3D (STS-3D) 挑戰中獲得第三名。與其他半監督分割方法相比，在驗證集上的實驗進一步證明了我們方法的有效性。
-
-##### **Static and multivariate-temporal attentive fusion transformer for readmission risk prediction**
-2407.11096v1 by Zhe Sun, Runzhi Li, Jing Wang, Gang Chen, Siyu Yan, Lihong Ma
-
-Background: Accurate short-term readmission prediction of ICU patients is
-significant in improving the efficiency of resource assignment by assisting
-physicians in making discharge decisions. Clinically, both individual static
-static and multivariate temporal data collected from ICU monitors play critical
-roles in short-term readmission prediction. Informative static and multivariate
-temporal feature representation capturing and fusion present challenges for
-accurate readmission prediction. Methods:We propose a novel static and
-multivariate-temporal attentive fusion transformer (SMTAFormer) to predict
-short-term readmission of ICU patients by fully leveraging the potential of
-demographic and dynamic temporal data. In SMTAFormer, we first apply an MLP
-network and a temporal transformer network to learn useful static and temporal
-feature representations, respectively. Then, the well-designed static and
-multivariate temporal feature fusion module is applied to fuse static and
-temporal feature representations by modeling intra-correlation among
-multivariate temporal features and constructing inter-correlation between
-static and multivariate temporal features. Results: We construct a readmission
-risk assessment (RRA) dataset based on the MIMIC-III dataset. The extensive
-experiments show that SMTAFormer outperforms advanced methods, in which the
-accuracy of our proposed method is up to 86.6%, and the area under the receiver
-operating characteristic curve (AUC) is up to 0.717. Conclusion: Our proposed
-SMTAFormer can efficiently capture and fuse static and multivariate temporal
-feature representations. The results show that SMTAFormer significantly
-improves the short-term readmission prediction performance of ICU patients
-through comparisons to strong baselines.
-
-摘要：<paragraph>背景：精準短期重返預測重症加護病房（ICU）病人對於提升資源分配效率至關重要，能協助醫師做出出院決策。臨床上，從 ICU 監測器收集到的個別靜態資料和多變量時間資料在短期重返預測中扮演關鍵角色。擷取和融合有意義的靜態和多變量時間特徵表徵對於精準重返預測構成挑戰。方法：我們提出一個新穎的靜態和多變量時間注意力融合Transformer（SMTAFormer），藉由充分利用人口統計和動態時間資料的潛力，來預測 ICU 病人的短期重返。在 SMTAFormer 中，我們首先應用一個 MLP 網路和一個時間Transformer網路，分別學習有用的靜態和時間特徵表徵。然後，應用精心設計的靜態和多變量時間特徵融合模組，藉由建模多變量時間特徵之間的內部相關性，以及建構靜態和多變量時間特徵之間的相互關聯性，來融合靜態和時間特徵表徵。結果：我們根據 MIMIC-III 資料集建構一個重返風險評估（RRA）資料集。廣泛的實驗顯示，SMTAFormer 優於進階方法，其中我們提出的方法的準確度高達 86.6%，而受試者工作特性曲線（AUC）下的面積高達 0.717。結論：我們提出的 SMTAFormer 能有效擷取和融合靜態和多變量時間特徵表徵。結果顯示，SMTAFormer 藉由與強大的基線比較，顯著提升 ICU 病人的短期重返預測效能。</paragraph>
-
-##### **Evolved Developmental Artificial Neural Networks for Multitasking with Advanced Activity Dependence**
-2407.10359v1 by Yintong Zhang, Jason A. Yoder
-
-Recently, Cartesian Genetic Programming has been used to evolve developmental
-programs to guide the formation of artificial neural networks (ANNs). This
-approach has demonstrated success in enabling ANNs to perform multiple tasks
-while avoiding catastrophic forgetting. One unique aspect of this approach is
-the use of separate developmental programs evolved to regulate the development
-of separate soma and dendrite units. An opportunity afforded by this approach
-is the ability to incorporate Activity Dependence (AD) into the model such that
-environmental feedback can help to regulate the behavior of each type of unit.
-Previous work has shown a limited version of AD (influencing neural bias) to
-provide marginal improvements over non-AD ANNs. In this work, we present
-promising results from new extensions to AD. Specifically, we demonstrate a
-more significant improvement via AD on new neural parameters including health
-and position, as well as a combination of all of these along with bias. We
-report on the implications of this work and suggest several promising
-directions for future work.
-
-摘要：最近，笛卡尔遗传规划已被用于进化发育程序，以指导人工神经网络 (ANN) 的形成。这种方法已证明能够让 ANN 执行多项任务，同时避免灾难性遗忘。这种方法的一个独特方面是使用单独的发展程序来调节单独的躯体和树突单元的发展。这种方法提供了一个机会，即能够将活动依赖性 (AD) 纳入模型，以便环境反馈可以帮助调节每种类型的单元的行为。以前的工作已经展示了 AD 的一个有限版本（影响神经偏置），以提供对非 AD ANN 的边际改进。在这项工作中，我们展示了 AD 新扩展的令人鼓舞的结果。具体来说，我们通过 AD 在新的神经参数（包括健康和位置）以及所有这些参数与偏置的组合上展示了更显着的改进。我们报告了这项工作的影响，并为未来的工作提出了几个有希望的方向。
-
-##### **Learning Unlabeled Clients Divergence via Anchor Model Aggregation for Federated Semi-supervised Learning**
-2407.10327v1 by Marawan Elbatel, Hualiang Wang, Jixiang Chen, Hao Wang, Xiaomeng Li
-
-Federated semi-supervised learning (FedSemi) refers to scenarios where there
-may be clients with fully labeled data, clients with partially labeled, and
-even fully unlabeled clients while preserving data privacy. However, challenges
-arise from client drift due to undefined heterogeneous class distributions and
-erroneous pseudo-labels. Existing FedSemi methods typically fail to aggregate
-models from unlabeled clients due to their inherent unreliability, thus
-overlooking unique information from their heterogeneous data distribution,
-leading to sub-optimal results. In this paper, we enable unlabeled client
-aggregation through SemiAnAgg, a novel Semi-supervised Anchor-Based federated
-Aggregation. SemiAnAgg learns unlabeled client contributions via an anchor
-model, effectively harnessing their informative value. Our key idea is that by
-feeding local client data to the same global model and the same consistently
-initialized anchor model (i.e., random model), we can measure the importance of
-each unlabeled client accordingly. Extensive experiments demonstrate that
-SemiAnAgg achieves new state-of-the-art results on four widely used FedSemi
-benchmarks, leading to substantial performance improvements: a 9% increase in
-accuracy on CIFAR-100 and a 7.6% improvement in recall on the medical dataset
-ISIC-18, compared with prior state-of-the-art. Code is available at:
-https://github.com/xmed-lab/SemiAnAgg.
-
-摘要：聯邦半監督學習 (FedSemi) 指的是在保護資料隱私的同時，可能存在具有完全標籤資料的客戶端、具有部分標籤的客戶端，甚至完全沒有標籤的客戶端的情況。然而，由於未定義的異質類別分佈和錯誤的偽標籤，客戶端漂移帶來了挑戰。現有的 FedSemi 方法通常無法彙總來自未標籤客戶端的模型，因為它們本質上不可靠，因此忽略了其異質資料分佈中的獨特資訊，導致次佳結果。在本文中，我們透過 SemiAnAgg（一種新穎的半監督錨定式聯邦聚合）啟用未標籤客戶端聚合。SemiAnAgg 透過錨定模型學習未標籤客戶端貢獻，有效利用其資訊價值。我們的關鍵構想是，透過將本地客戶端資料提供給相同的全球模型和相同一致初始化的錨定模型（即隨機模型），我們可以相應地衡量每個未標籤客戶端的重要性。廣泛的實驗證明 SemiAnAgg 在四個廣泛使用的 FedSemi 基準上獲得了新的最先進結果，帶來了顯著的效能提升：與先前的最先進技術相比，CIFAR-100 的準確度提高了 9%，醫療資料集 ISIC-18 的召回率提高了 7.6%。程式碼可在 https://github.com/xmed-lab/SemiAnAgg 取得。
-
-##### **Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**
-2407.10086v2 by Omid Rohanian, Mohammadmahdi Nouriborji, Olena Seminog, Rodrigo Furst, Thomas Mendy, Shanthi Levanita, Zaharat Kadri-Alabi, Nusrat Jabin, Daniela Toale, Georgina Humphreys, Emilia Antonio, Adrian Bucher, Alice Norton, David A. Clifton
-
-This paper introduces the Pandemic PACT Advanced Categorisation Engine
-(PPACE) along with its associated dataset. PPACE is a fine-tuned model
-developed to automatically classify research abstracts from funded biomedical
-projects according to WHO-aligned research priorities. This task is crucial for
-monitoring research trends and identifying gaps in global health preparedness
-and response. Our approach builds on human-annotated projects, which are
-allocated one or more categories from a predefined list. A large language model
-is then used to generate `rationales' explaining the reasoning behind these
-annotations. This augmented data, comprising expert annotations and rationales,
-is subsequently used to fine-tune a smaller, more efficient model. Developed as
-part of the Pandemic PACT project, which aims to track and analyse research
-funding and clinical evidence for a wide range of diseases with outbreak
-potential, PPACE supports informed decision-making by research funders,
-policymakers, and independent researchers. We introduce and release both the
-trained model and the instruction-based dataset used for its training. Our
-evaluation shows that PPACE significantly outperforms its baselines. The
-release of PPACE and its associated dataset offers valuable resources for
-researchers in multilabel biomedical document classification and supports
-advancements in aligning biomedical research with key global health priorities.
-
-摘要：本文介紹了流行病 PACT 高級分類引擎 (PPACE) 及其相關的資料集。PPACE 是一個微調模型，用於根據 WHO 對齊的研究優先事項自動分類獲得資助的生物醫學專案研究摘要。這項任務對於監控研究趨勢和找出全球衛生準備和應變的缺口至關重要。我們的做法建立在人工標註的專案上，這些專案從預先定義的清單中分配一個或多個類別。然後使用大型語言模型產生「依據」來解釋這些標註背後的推理。此擴充資料包含專家標註和依據，隨後用於微調較小、更有效率的模型。PPACE 作為流行病 PACT 專案的一部分而開發，旨在追蹤和分析各種具有爆發潛力的疾病的研究資金和臨床證據，透過研究資金提供者、政策制定者和獨立研究人員的明智決策制定提供支援。我們介紹並釋出了受訓模型和用於其訓練的基於說明的資料集。我們的評估顯示 PPACE 明顯優於其基準。PPACE 及其相關資料集的釋出為多標籤生物醫學文件分類的研究人員提供了寶貴的資源，並支援將生物醫學研究與關鍵全球衛生優先事項對齊的進展。
-
-##### **Document-level Clinical Entity and Relation Extraction via Knowledge Base-Guided Generation**
-2407.10021v1 by Kriti Bhattarai, Inez Y. Oh, Zachary B. Abrams, Albert M. Lai
-
-Generative pre-trained transformer (GPT) models have shown promise in
-clinical entity and relation extraction tasks because of their precise
-extraction and contextual understanding capability. In this work, we further
-leverage the Unified Medical Language System (UMLS) knowledge base to
-accurately identify medical concepts and improve clinical entity and relation
-extraction at the document level. Our framework selects UMLS concepts relevant
-to the text and combines them with prompts to guide language models in
-extracting entities. Our experiments demonstrate that this initial concept
-mapping and the inclusion of these mapped concepts in the prompts improves
-extraction results compared to few-shot extraction tasks on generic language
-models that do not leverage UMLS. Further, our results show that this approach
-is more effective than the standard Retrieval Augmented Generation (RAG)
-technique, where retrieved data is compared with prompt embeddings to generate
-results. Overall, we find that integrating UMLS concepts with GPT models
-significantly improves entity and relation identification, outperforming the
-baseline and RAG models. By combining the precise concept mapping capability of
-knowledge-based approaches like UMLS with the contextual understanding
-capability of GPT, our method highlights the potential of these approaches in
-specialized domains like healthcare.
-
-摘要：生成式预训练转换器 (GPT) 模型在临床实体和关系抽取任务中展现出潜力，因为它们具有精确抽取和上下文理解能力。在这项工作中，我们进一步利用统一医学语言系统 (UMLS) 知识库来准确识别医学概念，并在文档级别改进临床实体和关系抽取。我们的框架选择与文本相关的 UMLS 概念，并将它们与提示相结合，以指导语言模型抽取实体。我们的实验表明，与不利用 UMLS 的通用语言模型上的少量抽取任务相比，这种初始概念映射和在提示中包含这些映射概念改进了抽取结果。此外，我们的结果表明，这种方法比标准的检索增强生成 (RAG) 技术更有效，其中检索到的数据与提示嵌入进行比较以生成结果。总体而言，我们发现将 UMLS 概念与 GPT 模型集成可以显著改善实体和关系识别，优于基线和 RAG 模型。通过将 UMLS 等基于知识的方法的精确概念映射能力与 GPT 的上下文理解能力相结合，我们的方法突出了这些方法在医疗保健等专业领域的潜力。
 

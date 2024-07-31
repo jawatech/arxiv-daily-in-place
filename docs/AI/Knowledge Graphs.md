@@ -8,7 +8,7 @@
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
 |**2024-07-26**|**GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**|Yuchen Shen et.al.|[2407.19039v1](http://arxiv.org/abs/2407.19039v1)|null|
-|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v2](http://arxiv.org/abs/2407.18752v2)|[link](https://github.com/littleflow3r/kg-structure-as-prompt)|
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v3](http://arxiv.org/abs/2407.18752v3)|[link](https://github.com/littleflow3r/kg-structure-as-prompt)|
 |**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607v1](http://arxiv.org/abs/2407.18607v1)|null|
 |**2024-07-26**|**Multi-turn Response Selection with Commonsense-enhanced Language Models**|Yuandong Wang et.al.|[2407.18479v1](http://arxiv.org/abs/2407.18479v1)|null|
 |**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
@@ -26,7 +26,7 @@
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
-|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v1](http://arxiv.org/abs/2407.18961v1)|null|
+|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v2](http://arxiv.org/abs/2407.18961v2)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 |**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
 |**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
@@ -237,7 +237,7 @@ with other tokenization methods across different model architectures.
 摘要：隨著分子機器學習受到的關注度越來越高，在設計更好的模型或提出更全面的基準方面已經有了各種創新。然而，對於分子圖的數據預處理計畫研究較少，在該計畫中，分子圖的不同視圖可能會提升模型的效能。受到在自然語言處理中廣泛採用的子詞彙標記化方法 Byte-Pair 編碼 (BPE) 演算法的啟發，我們提出了 GraphBPE，它將分子圖標記化為不同的子結構，並作為與模型架構無關的預處理計畫。我們在 3 個圖形層級分類和 3 個圖形層級回歸資料集上的實驗顯示，資料預處理可以提升分子圖模型的效能，而 GraphBPE 對於小型分類資料集有效，並且在不同的模型架構中與其他標記化方法表現相當。
 
 ##### **Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**
-2407.18752v2 by Yuni Susanti, Michael Färber
+2407.18752v3 by Yuni Susanti, Michael Färber
 
 Causal discovery aims to estimate causal structures among variables based on
 observational data. Large Language Models (LLMs) offer a fresh perspective to
@@ -257,7 +257,7 @@ capabilities of SLMs: in combination with knowledge graphs and prompt-based
 learning, SLMs demonstrate the potential to surpass LLMs with larger number of
 parameters. Our code and datasets are available on GitHub.
 
-摘要：因果發現旨在根據觀測資料估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新的觀點，通過對與變數相關的元資料進行推理，而不是它們的實際資料值來解決因果發現問題，這種方法稱為基於知識的因果發現。在本文中，我們研究了小語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並使用基於提示的學習進行基於知識的因果發現。具體來說，我們提出了 KG Structure as Prompt，這是一種新穎的方法，它將來自知識圖譜的結構資訊（例如共同鄰居節點和元路徑）整合到基於提示的學習中，以增強 SLM 的能力。在少樣本設定下，在三種類型的生物醫學和開放領域資料集上的實驗結果證明了我們方法的有效性，它優於大多數基準，甚至優於在完整資料集上訓練的傳統微調方法。我們的發現進一步突出了 SLM 的強大功能：結合知識圖譜和基於提示的學習，SLM 展示了超越具有更多參數的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上找到。
+摘要：因果發現旨在根據觀測數據估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新的觀點來解決因果發現問題，方法是推論與變數相關的元數據，而不是它們的實際數據值，這種方法稱為基於知識的因果發現。在本文中，我們探討了小語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並採用基於提示的學習進行基於知識的因果發現。具體來說，我們提出了 KG Structure as Prompt，這是一種新穎的方法，用於將來自知識圖譜的結構資訊，例如共同鄰居節點和元路徑，整合到基於提示的學習中，以增強 SLM 的能力。在少次嘗試設定下，針對三種類型的生物醫學和開放領域資料集的實驗結果證明了我們方法的有效性，超越了大多數基準，甚至超越了在完整資料集上訓練的傳統微調方法。我們的發現進一步突出了 SLM 的強大功能：結合知識圖譜和基於提示的學習，SLM 展示了超越具有更多參數的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上取得。
 
 ##### **Using GPT-4 to guide causal machine learning**
 2407.18607v1 by Anthony C. Constantinou, Neville K. Kitson, Alessio Zanga
@@ -659,7 +659,7 @@ in addressing emerging technological and societal trends
 摘要：推薦系統 (RS) 在提升使用者體驗中扮演著不可或缺的角色，透過提供個人化的商品建議。這項調查回顧了 RS 在 2017 年到 2024 年間的進展，有效地將理論進展與實際應用連結起來。我們探討了從傳統的 RS 技術，例如基於內容和協同過濾，到涉及深度學習、基於圖形的模型、強化學習和大語言模型等先進方法的發展。我們也討論了專門的系統，例如情境感知、基於評論和公平感知的 RS。這項調查的主要目標是將理論與實務結合起來。它解決了各個領域的挑戰，包括電子商務、醫療保健和金融，強調了對可擴充、即時和可信賴的解決方案的需求。透過這項調查，我們促進了學術研究和產業實務之間更強大的夥伴關係。這項調查提供的見解旨在引導產業專業人士優化 RS 部署，並激勵未來的研究方向，特別是在解決新興的技術和社會趨勢方面。
 
 ##### **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**
-2407.18961v1 by Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang, Dian Ang Yap, Yizhe zhang, Karsten Ahnert, Vik Kamath, Mathias Berglund, Dominic Walsh, Tobias Gindele, Juergen Wiest, Zhengfeng Lai, Xiaoming Wang, Jiulong Shan, Meng Cao, Ruoming Pang, Zirui Wang
+2407.18961v2 by Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang, Dian Ang Yap, Yizhe zhang, Karsten Ahnert, Vik Kamath, Mathias Berglund, Dominic Walsh, Tobias Gindele, Juergen Wiest, Zhengfeng Lai, Xiaoming Wang, Jiulong Shan, Meng Cao, Ruoming Pang, Zirui Wang
 
 Recent advances in large language models (LLMs) have increased the demand for
 comprehensive benchmarks to evaluate their capabilities as human-like agents.
@@ -672,21 +672,19 @@ reproducibility sometimes arise, especially in interactive tasks. To address
 these limitations, we introduce the Massive Multitask Agent Understanding
 (MMAU) benchmark, featuring comprehensive offline tasks that eliminate the need
 for complex environment setups. It evaluates models across five domains,
-including \textcolor{teal}{Tool-use}, \textcolor{teal}{Directed Acyclic Graph
-(DAG) QA}, \textcolor{teal}{Data Science and Machine Learning coding},
-\textcolor{teal}{Contest-level programming} and \textcolor{teal}{Mathematics},
-and covers five essential capabilities: \textcolor{orange}{Understanding},
-\textcolor{orange}{Reasoning}, \textcolor{orange}{Planning},
-\textcolor{orange}{Problem-solving}, and \textcolor{orange}{Self-correction}.
-With a total of 20 meticulously designed tasks encompassing over 3K distinct
-prompts, MMAU provides a comprehensive framework for evaluating the strengths
-and limitations of LLM agents. By testing 18 representative models on MMAU, we
-provide deep and insightful analyses. Ultimately, MMAU not only sheds light on
-the capabilities and limitations of LLM agents but also enhances the
-interpretability of their performance. Datasets and evaluation scripts of MMAU
-are released at \url{https://github.com/apple/axlearn/docs/research/mmau}.
+including Tool-use, Directed Acyclic Graph (DAG) QA, Data Science and Machine
+Learning coding, Contest-level programming and Mathematics, and covers five
+essential capabilities: Understanding, Reasoning, Planning, Problem-solving,
+and Self-correction. With a total of 20 meticulously designed tasks
+encompassing over 3K distinct prompts, MMAU provides a comprehensive framework
+for evaluating the strengths and limitations of LLM agents. By testing 18
+representative models on MMAU, we provide deep and insightful analyses.
+Ultimately, MMAU not only sheds light on the capabilities and limitations of
+LLM agents but also enhances the interpretability of their performance.
+Datasets and evaluation scripts of MMAU are released at
+https://github.com/apple/axlearn/tree/main/docs/research/mmau.
 
-摘要：<paragraph>大型語言模型 (LLM) 的最新進展增加了對綜合基準的需求，以評估它們作為類人代理的能力。現有的基準雖然有用，但通常專注於具體的應用場景，強調任務完成，但未能剖析驅動這些結果的底層技能。這種缺乏粒度性使得難以深入辨別失敗的根源。此外，建立這些環境需要大量的精力，而且有時會出現不可靠性和可重複性的問題，特別是在互動任務中。為了解決這些限制，我們引入了大規模多任務代理理解 (MMAU) 基準，它具有全面的離線任務，消除了對複雜環境設置的需求。它跨五個領域評估模型，包括\textcolor{teal}{工具使用}、\textcolor{teal}{有向無環圖 (DAG) 問答}、\textcolor{teal}{數據科學和機器學習編碼}、\textcolor{teal}{競賽級編程}和\textcolor{teal}{數學}，並涵蓋五項基本能力：\textcolor{orange}{理解}、\textcolor{orange}{推理}、\textcolor{orange}{規劃}、\textcolor{orange}{問題解決}和\textcolor{orange}{自我糾正}。MMAU 總共包含 20 項精心設計的任務，涵蓋超過 3K 個不同的提示，為評估 LLM 代理的優勢和局限性提供了一個全面的框架。通過在 MMAU 上測試 18 個代表性模型，我們提供了深入且有見地的分析。最終，MMAU 不僅闡明了 LLM 代理的能力和局限性，還增強了它們性能的可解釋性。MMAU 的數據集和評估腳本發布在 \url{https://github.com/apple/axlearn/docs/research/mmau}。</paragraph>
+摘要：大型語言模型 (LLM) 的最新進展增加了對全面基準測試的需求，以評估其作為類人代理的能力。現有的基準測試雖然有用，但通常專注於具體的應用場景，強調任務完成，但未能剖析驅動這些結果的底層技能。這種缺乏粒度使得難以深入辨別失敗的根源。此外，設置這些環境需要大量的精力，有時會出現不可靠性和可重複性的問題，特別是在互動任務中。為了解決這些限制，我們引入了大規模多任務代理理解 (MMAU) 基準測試，它具有全面的離線任務，消除了對複雜環境設置的需求。它跨越五個領域評估模型，包括工具使用、有向無環圖 (DAG) 問答、數據科學和機器學習編碼、競賽級編程和數學，並涵蓋五項基本能力：理解、推理、規劃、問題解決和自我糾正。MMAU 總共包含 20 項精心設計的任務，涵蓋超過 3K 個不同的提示，為評估 LLM 代理的優勢和局限性提供了一個全面的框架。通過在 MMAU 上測試 18 個代表性模型，我們提供了深入而有見地的分析。最終，MMAU 不僅闡明了 LLM 代理的能力和局限性，還增強了其性能的可解釋性。MMAU 的數據集和評估腳本已發布在 https://github.com/apple/axlearn/tree/main/docs/research/mmau。
 
 ##### **Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**
 2407.12725v1 by Ben Yao, Yazhou Zhang, Qiuchi Li, Jing Qin

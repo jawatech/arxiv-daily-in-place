@@ -5,7 +5,7 @@
 |**2024-07-29**|**Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**|Ruochen Li et.al.|[2407.20108v1](http://arxiv.org/abs/2407.20108v1)|null|
 |**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938v1](http://arxiv.org/abs/2407.19938v1)|[link](https://github.com/benolmbrt/wcp_miccai)|
 |**2024-07-29**|**Yucca: A Deep Learning Framework For Medical Image Analysis**|Sebastian Nørgaard Llambias et.al.|[2407.19888v1](http://arxiv.org/abs/2407.19888v1)|[link](https://github.com/sllambias/yucca)|
-|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705v1](http://arxiv.org/abs/2407.19705v1)|null|
+|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705v2](http://arxiv.org/abs/2407.19705v2)|[link](https://github.com/cas-siat-xinhai/collectivesft)|
 |**2024-07-29**|**Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**|Minxiao Chen et.al.|[2407.19668v1](http://arxiv.org/abs/2407.19668v1)|[link](https://github.com/faceless0124/mghstn)|
 |**2024-07-28**|**Overcoming Uncertain Incompleteness for Robust Multimodal Sequential Diagnosis Prediction via Knowledge Distillation and Random Data Erasing**|Heejoon Koo et.al.|[2407.19540v1](http://arxiv.org/abs/2407.19540v1)|null|
 |**2024-07-28**|**Nudging Consent and the New Opt Out System to the Processing of Health Data in England**|Janos Meszaros et.al.|[2407.19447v1](http://arxiv.org/abs/2407.19447v1)|null|
@@ -20,7 +20,7 @@
 |**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118v1](http://arxiv.org/abs/2407.19118v1)|null|
 |**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094v1](http://arxiv.org/abs/2407.19094v1)|null|
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525v1](http://arxiv.org/abs/2407.18525v1)|[link](https://github.com/yhzhu99/ehr-llm-benchmark)|
-|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v2](http://arxiv.org/abs/2407.18483v2)|[link](https://github.com/sperfu/eyedoc)|
+|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v3](http://arxiv.org/abs/2407.18483v3)|[link](https://github.com/sperfu/eyedoc)|
 |**2024-07-26**|**Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**|Nianjun Zhou et.al.|[2407.18992v1](http://arxiv.org/abs/2407.18992v1)|null|
 |**2024-07-25**|**HDL-GPT: High-Quality HDL is All You Need**|Bhuvnesh Kumar et.al.|[2407.18423v1](http://arxiv.org/abs/2407.18423v1)|null|
 |**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
@@ -47,7 +47,7 @@
 |**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
 |**2024-07-22**|**Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**|Nina Deliu et.al.|[2407.16062v1](http://arxiv.org/abs/2407.16062v1)|null|
 |**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719v1](http://arxiv.org/abs/2407.15719v1)|[link](https://github.com/tinysqua/gfe-mamba)|
-|**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v1](http://arxiv.org/abs/2407.15526v1)|null|
+|**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v2](http://arxiv.org/abs/2407.15526v2)|null|
 |**2024-07-22**|**A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**|Yingxue Xu et.al.|[2407.15362v1](http://arxiv.org/abs/2407.15362v1)|null|
 |**2024-07-21**|**Genetic Algorithm to Optimize Design of Micro-Surgical Scissors**|Fatemeh Norouziani et.al.|[2407.15243v1](http://arxiv.org/abs/2407.15243v1)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042v1](http://arxiv.org/abs/2407.15042v1)|null|
@@ -171,7 +171,7 @@ community contributions to advance its capabilities and impact.
 摘要：使用深度學習框架進行的醫學影像分析已經通過自動化複雜任務推動了醫療保健的進步，但許多現有框架缺乏靈活性、模組化和使用者友善性。為了應對這些挑戰，我們引入了 Yucca，一個開放原始碼的 AI 框架，可於 https://github.com/Sllambias/yucca 取得，專門為醫學影像應用設計，並建立在 PyTorch 和 PyTorch Lightning 之上。Yucca 具有三層架構：功能、模組和管線，提供全面且可自訂的解決方案。在各種任務中進行評估，例如腦微出血偵測、白質高訊號分割和海馬分割，Yucca 達到了最先進的結果，證明了它的穩健性和多功能性。Yucca 提供了一個強大、靈活且使用者友善的醫學影像分析平台，歡迎社群貢獻以提升其能力和影響力。
 
 ##### **CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**
-2407.19705v1 by Jingwei Zhu, Minghuan Tan, Min Yang, Ruixue Li, Hamid Alinejad-Rokny
+2407.19705v2 by Jingwei Zhu, Minghuan Tan, Min Yang, Ruixue Li, Hamid Alinejad-Rokny
 
 The rapid progress in Large Language Models (LLMs) has prompted the creation
 of numerous benchmarks to evaluate their capabilities.This study focuses on the
@@ -181,14 +181,15 @@ performance.Remarkably, We successfully trained a smaller base model to achieve
 scores comparable to larger models, indicating that a diverse and
 well-distributed dataset can optimize performance regardless of model size.This
 study suggests that even smaller models may reach high performance levels with
-carefully curated and varied datasets.By integrating a wide range of
+carefully curated and varied datasets. By integrating a wide range of
 instructional content, our approach addresses potential issues such as data
 quality inconsistencies. Our results imply that a broader spectrum of training
 data may enhance a model's ability to generalize and perform effectively across
 different medical scenarios, highlighting the importance of dataset quality and
-diversity in fine-tuning processes.
+diversity in fine-tuning processes. We open-source the model for future
+research at https://github.com/CAS-SIAT-XinHai/CollectiveSFT
 
-摘要：大型語言模型 (LLM) 的快速進展促成了許多基準的建立，以評估其能力。本研究專注於中文綜合醫療基準 (CMB)，展示了監督微調 (SFT) 中的資料集多樣性和分佈如何增強 LLM 效能。值得注意的是，我們成功訓練了一個較小的基礎模型，以達到與較大模型相當的分數，這表明一個多樣化且分佈良好的資料集可以最佳化效能，而不管模型大小。本研究表明，即使是較小的模型，只要使用經過仔細策劃且多樣化的資料集，也能達到高性能水準。透過整合廣泛的教學內容，我們的做法解決了資料品質不一致等潛在問題。我們的結果表明，更廣泛的訓練資料範圍可能會增強模型在不同醫療場景中概化和有效執行的能力，突顯了資料集品質和多樣性在微調過程中的重要性。
+摘要：大型語言模型 (LLM) 的快速進展促成了許多基準的建立，以評估它們的能力。本研究專注於中文綜合醫療基準 (CMB)，展示了監督微調 (SFT) 中的資料集多樣性和分佈如何增強 LLM 效能。值得注意的是，我們成功地訓練了一個較小的基礎模型，以達到與較大型模型相當的分數，這表明一個多樣化且分佈良好的資料集可以最佳化效能，而與模型大小無關。本研究表明，即使是較小的模型，只要使用經過仔細策劃且多樣化的資料集，也能達到高水準的效能。透過整合廣泛的教學內容，我們的做法解決了資料品質不一致等潛在問題。我們的結果表明，更廣泛的訓練資料範圍可能會增強模型在不同醫療場景中概括和有效執行的能力，突顯了資料集品質和多樣性在微調過程中扮演的重要角色。我們在 https://github.com/CAS-SIAT-XinHai/CollectiveSFT 開源此模型以供將來研究。
 
 ##### **Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**
 2407.19668v1 by Minxiao Chen, Haitao Yuan, Nan Jiang, Zhifeng Bao, Shangguang Wang
@@ -564,7 +565,7 @@ of NLP technology in healthcare.
 摘要：大型語言模型 (LLM) 在醫學中的應用日益廣泛，但它們同時處理結構化電子病歷 (EHR) 資料和非結構化臨床註記的能力尚未得到充分研究。本研究針對各種模型進行基準測試，包括基於 GPT 的 LLM、基於 BERT 的模型，以及傳統的臨床預測模型，用於利用著名資料集的非生成性醫療任務。我們使用 MIMIC 資料集（ICU 病人記錄）和 TJH 資料集（早期 COVID-19 EHR 資料）評估了 14 個語言模型（9 個基於 GPT，5 個基於 BERT）和 7 個傳統預測模型，重點關注死亡率和再入院預測、疾病層級重建和生物醫學句子配對等任務，並比較了零次學習和微調後的效能。結果表明，LLM 在使用設計良好的提示策略時，對結構化 EHR 資料展現出強大的零次學習預測能力，經常超越傳統模型。然而，對於非結構化的醫療文本，LLM 的表現不如微調後的 BERT 模型，後者在監督式和非監督式任務中都表現出色。因此，儘管 LLM 對於結構化資料的零次學習很有用，但微調後的 BERT 模型更適合非結構化文本，這強調了根據特定任務需求和資料特性選擇模型以優化醫療保健中 NLP 技術應用之重要性。
 
 ##### **A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**
-2407.18483v2 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
+2407.18483v3 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
 
 Ophthalmology consultations are crucial for diagnosing, treating, and
 preventing eye diseases. However, the growing demand for consultations exceeds
@@ -584,7 +585,7 @@ dynamic knowledge base expansion for intelligent medical consultations. EyeDoc
 also serves as a free available web based service and souce code is available
 at https://github.com/sperfu/EyeDoc.
 
-摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，對諮詢服務的需求不斷增長，卻超過了眼科醫生的可提供數量。透過利用大型預先訓練的語言模型，我們可以為特定場景設計出有效的對話，協助諮詢服務。傳統的微調策略對於問答任務來說並不切實際，因為模型的規模越來越大，而且在諮詢過程中通常會忽略患者和醫生的角色功能。在本文中，我們提出了 EyeDoctor，這是一個眼科醫療問答大型語言模型，它透過醫生和患者角色認知引導和一個具備外部疾病資訊的擴增知識庫來提高準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答準確度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上 Rouge-1 分數提高了 7.25%，F1 分數提高了 10.16%，這凸顯了醫生和患者角色區分以及動態知識庫擴展對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可於 https://github.com/sperfu/EyeDoc 取得。
+摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，對諮詢服務的需求與日俱增，卻超過了眼科醫生的供給。透過利用大型預訓練語言模型，我們可以為特定情境設計有效的對話，協助諮詢。傳統針對問答任務的微調策略由於模型尺寸的增加以及在諮詢過程中常常忽略患者與醫師的角色功能，因此不切實際。在本文中，我們提出 EyeDoctor，一種眼科醫療問答大型語言模型，透過由醫師與患者的角色感知所引導，以及一個包含外部疾病資訊的擴充知識庫來增強準確度。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答精準度。值得注意的是，與排名第二的模型 ChatGPT 相比，EyeDoctor 在多輪資料集上，Rouge-1 分數提升了 7.25%，F1 分數提升了 10.16%，突顯了醫師與患者角色區分以及動態知識庫擴充對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可以在 https://github.com/sperfu/EyeDoc 獲得。
 
 ##### **Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**
 2407.18992v1 by Nianjun Zhou, Dhaval Patel, Shuxin Lin, Fearghal O'Donncha
@@ -1273,7 +1274,7 @@ AD 的發展和惡化。先前的研究顯示，精確的
 最先進的方法。我們的原始程式碼和 ADNI 資料集處理程式碼可於 https://github.com/Tinysqua/GFE-Mamba 取得。
 
 ##### **Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**
-2407.15526v1 by Eugenio Lomurno, Matteo Matteucci
+2407.15526v2 by Eugenio Lomurno, Matteo Matteucci
 
 Generative artificial intelligence has transformed the generation of
 synthetic data, providing innovative solutions to challenges like data scarcity
@@ -1294,8 +1295,7 @@ on real data in some cases. Furthermore, the resulting models show almost
 complete immunity to Membership Inference Attacks, manifesting privacy
 properties missing in models trained with conventional techniques.
 
-摘要：生成式人工智慧已經轉變了合成資料的生成，提供了創新的解決方案來應對資料稀少和隱私等挑戰，這在醫學等領域特別重要。
-然而，有效使用這些合成資料來訓練高性能模型仍然是一個重大的挑戰。本文通過引入知識循環 (KR) 來解決這個問題，這是一個旨在優化合成資料的生成和使用以訓練下游分類器的管道。這個管道的核心是生成式知識蒸餾 (GKD)，這是一種提出的技術，它通過合成資料集再生和軟標籤機制顯著提高了提供給分類器的資訊的品質和有用性。KR 管道已經在各種資料集上進行了測試，重點是六個高度異質的醫學影像資料集，範圍從視網膜影像到器官掃描。結果顯示，在真實資料和合成資料上訓練的模型之間的效能差距顯著縮小，在某些情況下，基於合成資料的模型優於在真實資料上訓練的模型。此外，產生的模型顯示出對成員推論攻擊幾乎完全免疫，表現出傳統技術訓練的模型中缺少的隱私屬性。
+摘要：生成式人工智慧已經轉變了合成資料的生成，為資料稀少和隱私等挑戰提供了創新的解決方案，這些挑戰在醫學等領域特別關鍵。然而，有效使用這種合成資料來訓練高性能模型仍然是一個重大的挑戰。本文通過引入知識回收 (KR) 來解決此問題，這是一個旨在優化合成資料的生成和使用以訓練下游分類器的管道。此管道的核心是生成式知識蒸餾 (GKD)，這項提議的技術通過合成資料集再生和軟標籤機制，顯著改善了提供給分類器的資訊品質和有用性。KR 管道已針對各種資料集進行測試，重點是六個高度異質的醫學影像資料集，範圍從視網膜影像到器官掃描。結果顯示，在真實資料和合成資料上訓練的模型之間的效能差距顯著縮小，在某些情況下，基於合成資料的模型優於在真實資料上訓練的模型。此外，生成的模型對成員身分推論攻擊幾乎完全免疫，表現出傳統技術訓練的模型所缺少的隱私特性。
 
 ##### **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**
 2407.15362v1 by Yingxue Xu, Yihui Wang, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen

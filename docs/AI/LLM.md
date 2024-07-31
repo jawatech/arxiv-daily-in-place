@@ -18,13 +18,13 @@
 |**2024-07-29**|**Quantum Machine Learning Architecture Search via Deep Reinforcement Learning**|Xin Dai et.al.|[2407.20147v1](http://arxiv.org/abs/2407.20147v1)|null|
 |**2024-07-29**|**ByteCheckpoint: A Unified Checkpointing System for LLM Development**|Borui Wan et.al.|[2407.20143v1](http://arxiv.org/abs/2407.20143v1)|null|
 |**2024-07-29**|**To accept or not to accept? An IRT-TOE Framework to Understand Educators' Resistance to Generative AI in Higher Education**|Jan-Erik Kalmus et.al.|[2407.20130v1](http://arxiv.org/abs/2407.20130v1)|null|
-|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v1](http://arxiv.org/abs/2407.20124v1)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v2](http://arxiv.org/abs/2407.20124v2)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
 |**2024-07-29**|**EXIT: An EXplicit Interest Transfer Framework for Cross-Domain Recommendation**|Lei Huang et.al.|[2407.20121v1](http://arxiv.org/abs/2407.20121v1)|null|
-|**2024-07-29**|**Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**|Chen-Lu Ding et.al.|[2407.20119v1](http://arxiv.org/abs/2407.20119v1)|null|
+|**2024-07-29**|**Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**|Chen-Lu Ding et.al.|[2407.20119v2](http://arxiv.org/abs/2407.20119v2)|null|
 |**2024-07-29**|**FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**|Mikel Williams-Lekuona et.al.|[2407.20114v1](http://arxiv.org/abs/2407.20114v1)|null|
 |**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109v1](http://arxiv.org/abs/2407.20109v1)|null|
 |**2024-07-29**|**Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**|Ruochen Li et.al.|[2407.20108v1](http://arxiv.org/abs/2407.20108v1)|null|
-|**2024-07-29**|**F-KANs: Federated Kolmogorov-Arnold Networks**|Engin Zeydan et.al.|[2407.20100v1](http://arxiv.org/abs/2407.20100v1)|[link](https://github.com/ezeydan/F-KANs)|
+|**2024-07-29**|**F-KANs: Federated Kolmogorov-Arnold Networks**|Engin Zeydan et.al.|[2407.20100v2](http://arxiv.org/abs/2407.20100v2)|[link](https://github.com/ezeydan/F-KANs)|
 |**2024-07-29**|**An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation**|Cheng Yang et.al.|[2407.20083v1](http://arxiv.org/abs/2407.20083v1)|null|
 |**2024-07-29**|**Investigating the Impact of Semi-Supervised Methods with Data Augmentation on Offensive Language Detection in Romanian Language**|Elena Beatrice Nicola et.al.|[2407.20076v1](http://arxiv.org/abs/2407.20076v1)|null|
 |**2024-07-29**|**xAI-Drop: Don't Use What You Cannot Explain**|Vincenzo Marco De Luca et.al.|[2407.20067v1](http://arxiv.org/abs/2407.20067v1)|null|
@@ -75,7 +75,7 @@
 |**2024-07-29**|**Do Text-to-Vis Benchmarks Test Real Use of Visualisations?**|Hy Nguyen et.al.|[2407.19726v1](http://arxiv.org/abs/2407.19726v1)|null|
 |**2024-07-29**|**Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training**|Zixuan Chen et.al.|[2407.19721v1](http://arxiv.org/abs/2407.19721v1)|null|
 |**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714v1](http://arxiv.org/abs/2407.19714v1)|null|
-|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705v1](http://arxiv.org/abs/2407.19705v1)|null|
+|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705v2](http://arxiv.org/abs/2407.19705v2)|[link](https://github.com/cas-siat-xinhai/collectivesft)|
 |**2024-07-29**|**Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting**|Shiyu Wang et.al.|[2407.19697v1](http://arxiv.org/abs/2407.19697v1)|null|
 |**2024-07-29**|**Efficiently and Effectively: A Two-stage Approach to Balance Plaintext and Encrypted Text for Traffic Classification**|Wei Peng et.al.|[2407.19687v1](http://arxiv.org/abs/2407.19687v1)|null|
 |**2024-07-29**|**Revisiting the robustness of post-hoc interpretability methods**|Jiawen Wei et.al.|[2407.19683v1](http://arxiv.org/abs/2407.19683v1)|null|
@@ -96,7 +96,7 @@
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
 |**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610v1](http://arxiv.org/abs/2407.19610v1)|[link](https://github.com/padas-lab-de/multi-language-dataset-creator)|
 |**2024-07-28**|**You shall know a piece by the company it keeps. Chess plays as a data for word2vec models**|Boris Orekhov et.al.|[2407.19600v1](http://arxiv.org/abs/2407.19600v1)|null|
-|**2024-07-28**|**Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**|Tianhao Wu et.al.|[2407.19594v1](http://arxiv.org/abs/2407.19594v1)|null|
+|**2024-07-28**|**Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**|Tianhao Wu et.al.|[2407.19594v2](http://arxiv.org/abs/2407.19594v2)|null|
 |**2024-07-28**|**Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics**|Jiasun Li et.al.|[2407.19586v1](http://arxiv.org/abs/2407.19586v1)|null|
 |**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo et.al.|[2407.19584v1](http://arxiv.org/abs/2407.19584v1)|null|
 |**2024-07-28**|**Memory-efficient Training of LLMs with Larger Mini-batches**|Dang Nguyen et.al.|[2407.19580v1](http://arxiv.org/abs/2407.19580v1)|null|
@@ -496,7 +496,7 @@ to GenAI adoption in the higher education domain.
 摘要：自從 Chat Generative Pre-Trained Transformer (ChatGPT) 公開發布以來，關於將生成式人工智慧 (GenAI) 整合到教育中的潛在優點和挑戰，已經出現廣泛的討論。在資訊系統領域中，技術採用研究對於了解影響特定技術採用率的不同因素至關重要。經過數十年提煉和驗證的理論架構，可用作指導工具，用以闡明與技術採用相關的個人和組織動態、障礙和認知。然而，儘管已經提出多種模型，但它們通常優先闡明促進接受的因素，甚於阻礙接受的因素，通常側重於學生的觀點，並在實證證據方面留下有關教育者觀點的空白。鑑於教育者在高等教育中扮演著舉足輕重的角色，本研究旨在開發一個理論模型，以實證預測阻礙教育者在其課堂中採用 GenAI 的障礙。承認缺乏量身打造以找出此類障礙的理論模型，我們的做法以創新抗拒理論 (IRT) 架構為基礎，並結合技術-組織-環境 (TOE) 架構中的構念進行擴充。此模型轉變為採用量化方法的測量工具，並輔以質化方法以豐富分析，並揭露與高等教育領域中採用 GenAI 相關的疑慮。
 
 ##### **AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**
-2407.20124v1 by Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C. S. Lui
+2407.20124v2 by Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C. S. Lui
 
 The rapid evolution of multimedia and computer vision technologies requires
 adaptive visual model deployment strategies to effectively handle diverse tasks
@@ -515,7 +515,7 @@ advancements provide a scalable and effective solution for visual tasks
 inherent to multimedia systems, such as object detection, classification, and
 counting. Empirically, AxiomVision achieves a 25.7\% improvement in accuracy.
 
-摘要：多媒體和電腦視覺技術的快速演進需要自適應視覺模型部署策略，才能有效處理各種任務和變動的環境。本研究介紹了 AxiomVision，這是一個新穎的架構，它可以透過利用邊緣運算來動態選擇在各種情況下影片分析最有效的視覺模型，從而保證準確度。AxiomVision 利用分層邊緣雲架構，可以部署從輕量級到複雜 DNN 的廣泛視覺模型，這些模型可以根據具體情況進行調整，同時考慮相機來源的影響。此外，AxiomVision 提供了三項核心創新：(1) 利用持續在線學習的動態視覺模型選擇機制，(2) 有效考慮相機視角影響的有效在線方法，以及 (3) 加速模型選擇過程的拓撲驅動分組方法。透過嚴謹的理論保證，這些進展為多媒體系統固有的視覺任務（例如物件偵測、分類和計數）提供了一個可擴充且有效的解決方案。根據經驗，AxiomVision 在準確度方面獲得了 25.7% 的提升。
+摘要：多媒體和電腦視覺技術的快速演進需要自適應視覺模型部署策略，才能有效處理各種任務和變動的環境。這項工作介紹了 AxiomVision，一個新穎的架構，它能透過利用邊緣運算來動態選擇在各種場景下最有效的視覺模型，從而保證準確性。利用分層邊緣雲架構，AxiomVision 能部署廣泛的視覺模型，從輕量級到複雜的 DNN，這些模型可以根據特定場景進行調整，同時考慮相機來源的影響。此外，AxiomVision 提供了三項核心創新：(1) 利用持續在線學習的動態視覺模型選擇機制，(2) 有效考慮相機視角影響的有效在線方法，以及 (3) 加速模型選擇過程的拓撲驅動分組方法。透過嚴謹的理論保證，這些進展為多媒體系統固有的視覺任務（例如物體偵測、分類和計數）提供了可擴充且有效的解決方案。根據經驗，AxiomVision 在準確度上獲得了 25.7% 的提升。
 
 ##### **EXIT: An EXplicit Interest Transfer Framework for Cross-Domain Recommendation**
 2407.20121v1 by Lei Huang, Weitao Li, Chenrui Zhang, Jinpeng Wang, Xianchun Yi, Sheng Chen
@@ -545,7 +545,7 @@ App, serving the main traffic.
 摘要：跨域推薦在工業應用中引起了極大的興趣，例如美團，它通過知識轉移服務於多個業務領域，並滿足了用戶的多樣化興趣。然而，現有方法通常遵循隱式建模範例，該範例融合了源域和目標域的知識，並設計複雜的網路結構，以在域之間共享學習的嵌入或模式，以提高推薦準確度。由於興趣信號的傳遞不受監督，因此這些隱式範例通常難以應對由於不同域之間的服務功能和呈現形式的差異而產生的負面傳遞。在本文中，我們提出了一個簡單有效的 EXplicit Interest Transfer 框架，名為 EXIT，以應對所述挑戰。具體來說，我們提出了一種新穎的標籤組合方法，使模型能夠通過監督學習直接學習有益的源域興趣，同時排除不適當的興趣信號。此外，我們引入了一個場景選擇器網路，以在細粒度場景下對興趣傳遞強度進行建模。在工業生產資料集上進行的離線實驗和線上 A/B 測試驗證了我們提出的框架的優越性和有效性。EXIT 可以在沒有複雜網路結構或訓練過程的情況下輕鬆部署在工業推薦系統中。EXIT 已成功部署在美團 App 的線上首頁推薦系統中，服務於主要流量。
 
 ##### **Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**
-2407.20119v1 by Chen-Lu Ding, Jiancan Wu, Wei Lin, Shiyang Shen, Xiang Wang, Yancheng Yuan
+2407.20119v2 by Chen-Lu Ding, Jiancan Wu, Wei Lin, Shiyang Shen, Xiang Wang, Yancheng Yuan
 
 We introduce a novel self-supervised deep clustering approach tailored for
 unstructured data without requiring prior knowledge of the number of clusters,
@@ -565,7 +565,7 @@ other popular clustering models. Notably, ASRC even outperforms methods that
 rely on prior knowledge of the number of clusters, highlighting its
 effectiveness in addressing the challenges of clustering unstructured data.
 
-摘要：我們引入一種新穎的自監督深度聚類方法，專門針對非結構化數據，而無需事先了解群集數，稱為自適應自監督穩健聚類 (ASRC)。特別是，ASRC 自適應地學習圖形結構和邊權重，以擷取局部和全局結構資訊。所獲得的圖形使我們能夠透過增強的圖形自動編碼器與對比學習技術，學習群集友善的特徵表示。它進一步利用穩健連續聚類 (RCC) 自適應獲得的聚類結果，為負面抽樣產生原型，進一步有助於促進正對之間的一致性，並擴大正負樣本之間的差距。ASRC 將 RCC 套用到學習到的特徵表示及其一致的圖形結構和邊權重，以獲得最終的聚類結果。在七個基準資料集上進行的廣泛實驗證明了 ASRC 的功效，證明其效能優於其他流行的聚類模型。值得注意的是，ASRC 甚至優於依賴於群集數事前知識的方法，突顯了其在解決非結構化數據聚類挑戰方面的有效性。
+摘要：我們提出了一種新穎的自監督深度聚類方法，專門針對非結構化資料，無需事先了解群集數量，稱為自適應自監督穩健聚類 (ASRC)。具體來說，ASRC 自適應地學習圖形結構和邊緣權重，以擷取局部和全局結構資訊。所獲得的圖形使我們能夠透過增強的圖形自動編碼器與對比學習技術，學習對聚類友善的特徵表示。它進一步利用穩健連續聚類 (RCC) 自適應獲得的聚類結果，為負面抽樣產生原型，這可以進一步促進正對之間的一致性，並擴大正負樣本之間的差距。ASRC 將 RCC 套用於學習的特徵表示及其一致的圖形結構和邊緣權重，以獲得最終的聚類結果。在七個基準資料集上進行的廣泛實驗證明了 ASRC 的功效，證明了它優於其他流行的聚類模型。值得注意的是，ASRC 甚至優於依賴於群集數量先驗知識的方法，突顯了它在解決非結構化資料聚類挑戰方面的有效性。
 
 ##### **FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**
 2407.20114v1 by Mikel Williams-Lekuona, Georgina Cosma
@@ -645,7 +645,7 @@ pursue end-to-end, automated diagnosis with reduced human intervention.
 摘要：心臟磁振造影 (CMR) 是診斷心血管疾病的黃金標準。臨床診斷主要依賴於醫學數位影像和通訊 (DICOM) 影像的幅度，而忽略了可能提供額外診斷好處的關鍵相位資訊。相較之下，k 空間是複數值且包含幅度和相位資訊，但人類無法直接感知。在這項工作中，我們提出 KMAE，一種特別設計用於直接處理 k 空間資料的 Transformer 基礎模型，消除了轉換到影像領域的傳統中介步驟。KMAE 可以處理關鍵的心臟疾病分類、相關表型回歸和心臟形態分割任務。我們利用此模型探討 k 空間基礎診斷在心臟 MRI 中的潛力。值得注意的是，與影像領域方法（例如遮罩式自動編碼器 (MAE)）相比，此模型達到了競爭性的分類和回歸效能，並以 0.884 的心肌骰子分數提供了令人滿意的分割效能。最後但並非最不重要的一點是，即使在 k 空間不足採樣 8* 時，我們的模型也能展現穩健的效能和一致的結果。我們鼓勵核磁共振社群探索 k 空間的未開發潛力，並追求減少人為干預的端到端自動化診斷。
 
 ##### **F-KANs: Federated Kolmogorov-Arnold Networks**
-2407.20100v1 by Engin Zeydan, Cristian J. Vaca-Rubio, Luis Blanco, Roberto Pereira, Marius Caus, Abdullah Aydeger
+2407.20100v2 by Engin Zeydan, Cristian J. Vaca-Rubio, Luis Blanco, Roberto Pereira, Marius Caus, Abdullah Aydeger
 
 In this paper, we present an innovative federated learning (FL) approach that
 utilizes Kolmogorov-Arnold Networks (KANs) for classification tasks. By
@@ -658,7 +658,7 @@ MLP model in terms of accuracy, precision, recall, F1 score and stability, and
 achieves better performance, paving the way for more efficient and
 privacy-preserving predictive analytics.
 
-摘要：在本文中，我們提出了一種創新的聯邦學習 (FL) 方法，它利用 Kolmogorov-Arnold 網路 (KAN) 進行分類任務。通過在聯邦框架中利用 KAN 的自適應激活能力，我們旨在提高分類能力，同時保護隱私。本研究評估了聯邦 KAN (F-KAN) 與傳統多層感知器 (MLP) 在分類任務上的性能。結果表明，F-KAN 模型在準確性、精確度、召回率、F1 分數和穩定性方面明顯優於聯邦 MLP 模型，並實現了更好的性能，為更有效率和保護隱私的預測分析鋪平了道路。
+摘要：在本文中，我們提出了一種創新的聯合學習 (FL) 方法，它利用 Kolmogorov-Arnold 網路 (KAN) 進行分類任務。透過在聯合架構中利用 KAN 的自適應激活能力，我們旨在改善分類能力，同時保護隱私。本研究評估了聯合 KAN (F-KAN) 在分類任務上的效能，並與傳統多層感知器 (MLP) 進行比較。結果顯示，F-KAN 模型在準確度、精確度、召回率、F1 分數和穩定性方面顯著優於聯合 MLP 模型，並取得更好的效能，為更有效率且能保護隱私的預測分析鋪路。
 
 ##### **An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation**
 2407.20083v1 by Cheng Yang, Guoping Huang, Mo Yu, Zhirui Zhang, Siheng Li, Mingming Yang, Shuming Shi, Yujiu Yang, Lemao Liu
@@ -1780,7 +1780,7 @@ blocks.
 摘要：手術場景理解是實現智能且具備情境感知系統的一項關鍵技術組成部分，此類系統能轉換手術介入的各個面向。在本文中，我們專注於語意分割任務，提出一個簡單卻有效的模態多重（RGB 和深度）訓練架構，稱為 SurgDepth，並在所有適用於此任務的公開可用資料集上展示最先進 (SOTA) 的結果。與先前的做法不同，先前的做法不是微調在自然影像上訓練的 SOTA 分割模型，就是使用僅預先訓練 RGB 的主幹編碼 RGB 或 RGB-D 資訊，而 SurgDepth 建構在視覺Transformer (ViT) 之上，旨在透過一個簡單的融合機制編碼 RGB 和深度資訊。我們在包括 EndoVis2022、AutoLapro、LapI2I 和 EndoVis2017 在內的基準資料集上進行廣泛的實驗，以驗證 SurgDepth 的功效。具體而言，SurgDepth 在 EndoVis 2022 SAR-RARP50 挑戰中達成 0.86 的 SOTA IoU，且使用由 ConvNeXt 區塊組成的淺層且計算效率高的解碼器，其效能至少比目前最佳方法高出 4%。
 
 ##### **CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**
-2407.19705v1 by Jingwei Zhu, Minghuan Tan, Min Yang, Ruixue Li, Hamid Alinejad-Rokny
+2407.19705v2 by Jingwei Zhu, Minghuan Tan, Min Yang, Ruixue Li, Hamid Alinejad-Rokny
 
 The rapid progress in Large Language Models (LLMs) has prompted the creation
 of numerous benchmarks to evaluate their capabilities.This study focuses on the
@@ -1790,14 +1790,15 @@ performance.Remarkably, We successfully trained a smaller base model to achieve
 scores comparable to larger models, indicating that a diverse and
 well-distributed dataset can optimize performance regardless of model size.This
 study suggests that even smaller models may reach high performance levels with
-carefully curated and varied datasets.By integrating a wide range of
+carefully curated and varied datasets. By integrating a wide range of
 instructional content, our approach addresses potential issues such as data
 quality inconsistencies. Our results imply that a broader spectrum of training
 data may enhance a model's ability to generalize and perform effectively across
 different medical scenarios, highlighting the importance of dataset quality and
-diversity in fine-tuning processes.
+diversity in fine-tuning processes. We open-source the model for future
+research at https://github.com/CAS-SIAT-XinHai/CollectiveSFT
 
-摘要：大型語言模型 (LLM) 的快速進展促成了許多基準的建立，以評估其能力。本研究專注於中文綜合醫療基準 (CMB)，展示了監督微調 (SFT) 中的資料集多樣性和分佈如何增強 LLM 效能。值得注意的是，我們成功訓練了一個較小的基礎模型，以達到與較大模型相當的分數，這表明一個多樣化且分佈良好的資料集可以最佳化效能，而不管模型大小。本研究表明，即使是較小的模型，只要使用經過仔細策劃且多樣化的資料集，也能達到高性能水準。透過整合廣泛的教學內容，我們的做法解決了資料品質不一致等潛在問題。我們的結果表明，更廣泛的訓練資料範圍可能會增強模型在不同醫療場景中概化和有效執行的能力，突顯了資料集品質和多樣性在微調過程中的重要性。
+摘要：大型語言模型 (LLM) 的快速進展促成了許多基準的建立，以評估它們的能力。本研究專注於中文綜合醫療基準 (CMB)，展示了監督微調 (SFT) 中的資料集多樣性和分佈如何增強 LLM 效能。值得注意的是，我們成功地訓練了一個較小的基礎模型，以達到與較大型模型相當的分數，這表明一個多樣化且分佈良好的資料集可以最佳化效能，而與模型大小無關。本研究表明，即使是較小的模型，只要使用經過仔細策劃且多樣化的資料集，也能達到高水準的效能。透過整合廣泛的教學內容，我們的做法解決了資料品質不一致等潛在問題。我們的結果表明，更廣泛的訓練資料範圍可能會增強模型在不同醫療場景中概括和有效執行的能力，突顯了資料集品質和多樣性在微調過程中扮演的重要角色。我們在 https://github.com/CAS-SIAT-XinHai/CollectiveSFT 開源此模型以供將來研究。
 
 ##### **Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting**
 2407.19697v1 by Shiyu Wang, Zhixuan Chu, Yinbo Sun, Yu Liu, Yuliang Guo, Yang Chen, Huiyang Jian, Lintao Ma, Xingyu Lu, Jun Zhou
@@ -2270,7 +2271,7 @@ necessarily lead to a win.
 在本文中，我展示了詞嵌入（word2vec）如何應用於國際象棋棋譜文本，而不是自然語言文本。我不認為國際象棋數據的這種表示方式可以被有效地使用。這些向量模型不太可能幫助引擎或人類選擇最佳走法。但從純學術的角度來看，很明顯，這種信息表示方法捕捉到了遊戲本身非常重要的東西，這並不一定會導致勝利。
 
 ##### **Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**
-2407.19594v1 by Tianhao Wu, Weizhe Yuan, Olga Golovneva, Jing Xu, Yuandong Tian, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar
+2407.19594v2 by Tianhao Wu, Weizhe Yuan, Olga Golovneva, Jing Xu, Yuandong Tian, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar
 
 Large Language Models (LLMs) are rapidly surpassing human knowledge in many
 domains. While improving these models traditionally relies on costly human
@@ -2287,7 +2288,7 @@ Llama-3-8B-Instruct from 22.9% to 39.4% on AlpacaEval 2, and 20.6% to 29.1% on
 Arena-Hard. These results strongly suggest the potential for self-improving
 models without human supervision.
 
-摘要：大型語言模型 (LLM) 在許多領域迅速超越人類知識。雖然改善這些模型傳統上依賴於昂貴的人類數據，但最近的自我獎勵機制 (Yuan et al., 2024) 顯示，LLM 可以透過判斷自己的回應，而不是依賴人類標籤員來改進。然而，現有方法主要集中在改進模型回應，而不是判斷能力，導致在反覆訓練期間快速飽和。為了解決這個問題，我們在自我改進過程中引入了新穎的元獎勵步驟，模型在其中判斷自己的判斷，並使用該回饋來改進其判斷技能。令人驚訝的是，這種無監督方法改善了模型判斷和遵循指令的能力，正如 Llama-3-8B-Instruct 在 AlpacaEval 2 上的獲勝率從 22.9% 提高到 39.4%，在 Arena-Hard 上從 20.6% 提高到 29.1% 所示範的那樣。這些結果強烈表明了自我改進模型在沒有人類監督下的潛力。
+摘要：大型語言模型 (LLM) 在許多領域中迅速超越人類的知識。雖然改善這些模型傳統上依賴於昂貴的人類數據，但最近的自我獎勵機制 (Yuan 等人，2024 年) 表明 LLM 可以通過判斷自己的反應而不是依賴於人類標籤員來進行改進。然而，現有方法主要集中於改進模型響應，而不是判斷能力，從而導致在反覆訓練期間快速飽和。為了解決這個問題，我們在自我改進過程中引入了一個新穎的元獎勵步驟，模型在其中判斷自己的判斷，並使用該回饋來改善其判斷技能。令人驚訝的是，這種無監督的方法提高了模型判斷的能力{\em 和}遵循指令的能力，正如 Llama-3-8B-Instruct 在 AlpacaEval 2 上的獲勝率從 22.9% 提高到 39.4%，在 Arena-Hard 上從 20.6% 提高到 29.1% 所證明的那樣。這些結果強烈表明了在沒有人類監督的情況下自我改進模型的潛力。
 
 ##### **Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics**
 2407.19586v1 by Jiasun Li

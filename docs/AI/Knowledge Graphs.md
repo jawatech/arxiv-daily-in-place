@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708v1](http://arxiv.org/abs/2407.21708v1)|null|
+|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v1](http://arxiv.org/abs/2407.21483v1)|null|
+|**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
+|**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358v1](http://arxiv.org/abs/2407.21358v1)|null|
+|**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293v1](http://arxiv.org/abs/2407.21293v1)|null|
 |**2024-07-30**|**Be aware of overfitting by hyperparameter optimization!**|Igor V. Tetko et.al.|[2407.20786v1](http://arxiv.org/abs/2407.20786v1)|null|
 |**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|[link](https://github.com/Madjakul/HALvesting-Geometric)|
 |**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564v1](http://arxiv.org/abs/2407.20564v1)|null|
@@ -21,6 +26,7 @@
 |**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375v1](http://arxiv.org/abs/2407.16375v1)|[link](https://github.com/haddocking/deeprank-gnn-esm)|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
 |**2024-07-23**|**Graph-Structured Speculative Decoding**|Zhuocheng Gong et.al.|[2407.16207v1](http://arxiv.org/abs/2407.16207v1)|null|
+|**2024-07-23**|**Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval**|Yannick Assogba et.al.|[2407.21049v1](http://arxiv.org/abs/2407.21049v1)|null|
 |**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127v1](http://arxiv.org/abs/2407.16127v1)|[link](https://github.com/nju-websoft/dift)|
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v1](http://arxiv.org/abs/2407.15588v1)|[link](https://github.com/eralign/eralign)|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
@@ -96,14 +102,122 @@
 |**2024-06-27**|**Investigating How Large Language Models Leverage Internal Knowledge to Perform Complex Reasoning**|Miyoung Ko et.al.|[2406.19502v1](http://arxiv.org/abs/2406.19502v1)|[link](https://github.com/kaistai/knowledge-reasoning)|
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
 |**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916v1](http://arxiv.org/abs/2406.18916v1)|null|
-|**2024-06-26**|**Fast Optimizer Benchmark**|Simon Blauth et.al.|[2406.18701v1](http://arxiv.org/abs/2406.18701v1)|[link](https://github.com/automl/fob)|
-|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449v1](http://arxiv.org/abs/2406.18449v1)|[link](https://github.com/xingwei-warwick/callmsae)|
-|**2024-06-26**|**Sanskrit Knowledge-based Systems: Annotation and Computational Tools**|Hrishikesh Terdalkar et.al.|[2406.18276v1](http://arxiv.org/abs/2406.18276v1)|null|
-|**2024-06-26**|**Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**|Ran Song et.al.|[2406.18085v1](http://arxiv.org/abs/2406.18085v1)|[link](https://github.com/Maxpa1n/gcplm-kgc)|
-|**2024-06-26**|**AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**|Yifan Yang et.al.|[2406.18060v1](http://arxiv.org/abs/2406.18060v1)|[link](https://github.com/yifanycc/adazeta)|
-|**2024-06-25**|**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**|Zhehao Zhang et.al.|[2406.17271v1](http://arxiv.org/abs/2406.17271v1)|[link](https://github.com/salt-nlp/darg)|
 
 #### Abstracts
+##### **CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**
+2407.21708v1 by Stefan Langer, Fabian Neuhaus, Andreas Nürnberger
+
+Ontologies are formal representations of knowledge in specific domains that
+provide a structured framework for organizing and understanding complex
+information. Creating ontologies, however, is a complex and time-consuming
+endeavor. ChEBI is a well-known ontology in the field of chemistry, which
+provides a comprehensive resource for defining chemical entities and their
+properties. However, it covers only a small fraction of the rapidly growing
+knowledge in chemistry and does not provide references to the scientific
+literature. To address this, we propose a methodology that involves augmenting
+existing annotated text corpora with knowledge from Chebi and fine-tuning a
+large language model (LLM) to recognize chemical entities and their roles in
+scientific text. Our experiments demonstrate the effectiveness of our approach.
+By combining ontological knowledge and the language understanding capabilities
+of LLMs, we achieve high precision and recall rates in identifying both the
+chemical entities and roles in scientific literature. Furthermore, we extract
+them from a set of 8,000 ChemRxiv articles, and apply a second LLM to create a
+knowledge graph (KG) of chemical entities and roles (CEAR), which provides
+complementary information to ChEBI, and can help to extend it.
+
+摘要：本体是特定領域中知識的形式化表示，它提供了一個結構化的框架，用於組織和理解複雜的資訊。然而，建立本体是一項複雜且耗時的努力。ChEBI 是化學領域中一個著名的本体，它提供了一個全面的資源，用於定義化學實體及其屬性。然而，它僅涵蓋了化學領域快速增長的知識中的一小部分，並且沒有提供科學文獻的參考。為了解決這個問題，我們提出了一種方法，它涉及使用來自 Chebi 的知識擴充現有的註釋文本語料庫，並微調大型語言模型 (LLM)，以識別化學實體及其在科學文本中的作用。我們的實驗證明了我們方法的有效性。透過結合本体知識和 LLM 的語言理解能力，我們在識別科學文獻中的化學實體和作用方面達到了很高的準確度和召回率。此外，我們從一組 8,000 篇 ChemRxiv 文章中提取它們，並應用第二個 LLM 來建立一個化學實體和作用 (CEAR) 的知識圖譜 (KG)，它提供補充 ChEBI 的資訊，並有助於擴充它。
+
+##### **eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**
+2407.21483v1 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
+
+Over the past few years, we have seen the emergence of large knowledge graphs
+combining information from multiple sources. Sometimes, this information is
+provided in the form of assertions about other assertions, defining contexts
+where assertions are valid. A recent extension to RDF which admits statements
+over statements, called RDF-star, is in revision to become a W3C standard.
+However, there is no proposal for a semantics of these RDF-star statements nor
+a built-in facility to operate over them. In this paper, we propose a query
+language for epistemic RDF-star metadata based on a four-valued logic, called
+eSPARQL. Our proposed query language extends SPARQL-star, the query language
+for RDF-star, with a new type of FROM clause to facilitate operating with
+multiple and sometimes conflicting beliefs. We show that the proposed query
+language can express four use case queries, including the following features:
+(i) querying the belief of an individual, (ii) the aggregating of beliefs,
+(iii) querying who is conflicting with somebody, and (iv) beliefs about beliefs
+(i.e., nesting of beliefs).
+
+摘要：<paragraph>在過去幾年中，我們已經看到大型知識圖譜的出現，它結合了來自多個來源的資訊。有時候，這些資訊會以對其他斷言的斷言形式提供，定義斷言有效的脈絡。最近對 RDF 的擴充，它允許對斷言進行陳述，稱為 RDF 星號，正在進行修訂以成為 W3C 標準。然而，對於這些 RDF 星號陳述的語義或對它們進行運算的內建功能，並沒有任何提案。在本文中，我們提出了一種基於四值邏輯的認知 RDF 星號元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF 星號的查詢語言 SPARQL 星號，新增了一種類型的 FROM 子句，以利於使用多重且有時相互衝突的信念進行運算。我們展示了所提出的查詢語言可以表達四種使用案例查詢，包括以下功能：(i) 查詢個人的信念，(ii) 信念的匯總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。</paragraph>
+
+##### **Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**
+2407.21452v1 by Haodong Hong, Sen Wang, Zi Huang, Qi Wu, Jiajun Liu
+
+Real-world navigation often involves dealing with unexpected obstructions
+such as closed doors, moved objects, and unpredictable entities. However,
+mainstream Vision-and-Language Navigation (VLN) tasks typically assume
+instructions perfectly align with the fixed and predefined navigation graphs
+without any obstructions. This assumption overlooks potential discrepancies in
+actual navigation graphs and given instructions, which can cause major failures
+for both indoor and outdoor agents. To address this issue, we integrate diverse
+obstructions into the R2R dataset by modifying both the navigation graphs and
+visual observations, introducing an innovative dataset and task, R2R with
+UNexpected Obstructions (R2R-UNO). R2R-UNO contains various types and numbers
+of path obstructions to generate instruction-reality mismatches for VLN
+research. Experiments on R2R-UNO reveal that state-of-the-art VLN methods
+inevitably encounter significant challenges when facing such mismatches,
+indicating that they rigidly follow instructions rather than navigate
+adaptively. Therefore, we propose a novel method called ObVLN (Obstructed VLN),
+which includes a curriculum training strategy and virtual graph construction to
+help agents effectively adapt to obstructed environments. Empirical results
+show that ObVLN not only maintains robust performance in unobstructed scenarios
+but also achieves a substantial performance advantage with unexpected
+obstructions.
+
+摘要：现实世界的导航通常涉及处理意外的障碍，例如关着的门、移动的物体和不可预测的实体。然而，主流的视觉和语言导航 (VLN) 任务通常假设指令与固定的和预定义的导航图完全一致，没有任何障碍。这种假设忽略了实际导航图和给定指令中潜在的差异，这可能会导致室内和室外代理出现重大故障。为了解决这个问题，我们通过修改导航图和视觉观察，将各种障碍整合到 R2R 数据集中，引入了创新数据集和任务，即带有意外障碍的 R2R (R2R-UNO)。R2R-UNO 包含各种类型和数量的路径障碍，以生成 VLN 研究的指令-现实不匹配。在 R2R-UNO 上的实验表明，最先进的 VLN 方法在面对此类不匹配时不可避免地会遇到重大挑战，这表明它们严格遵循指令，而不是自适应地导航。因此，我们提出了一种称为 ObVLN（受阻 VLN）的新方法，其中包括课程训练策略和虚拟图构建，以帮助代理有效地适应受阻环境。经验结果表明，ObVLN 不仅在无障碍场景中保持了稳健的性能，而且在意外障碍中也获得了实质性的性能优势。
+
+##### **Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**
+2407.21358v1 by Elan Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, Rahul Gupta, Kai-Wei Chang, Aram Galstyan
+
+Knowledge graphs (KGs) complement Large Language Models (LLMs) by providing
+reliable, structured, domain-specific, and up-to-date external knowledge.
+However, KGs and LLMs are often developed separately and must be integrated
+after training. We introduce Tree-of-Traversals, a novel zero-shot reasoning
+algorithm that enables augmentation of black-box LLMs with one or more KGs. The
+algorithm equips a LLM with actions for interfacing a KG and enables the LLM to
+perform tree search over possible thoughts and actions to find high confidence
+reasoning paths. We evaluate on two popular benchmark datasets. Our results
+show that Tree-of-Traversals significantly improves performance on question
+answering and KG question answering tasks. Code is available at
+\url{https://github.com/amazon-science/tree-of-traversals}
+
+摘要：知識圖譜 (KG) 透過提供可靠、結構化、特定於領域且最新的外部知識，來補充大型語言模型 (LLM)。
+然而，KG 和 LLM 通常是分開開發，並且必須在訓練後整合。我們介紹了 Tree-of-Traversals，一種新穎的零次推理演算法，它能讓黑盒 LLM 使用一個或多個 KG。該演算法為 LLM 提供與 KG 介面的動作，並讓 LLM 能在可能的思考和動作上執行樹狀搜尋，以找出高度信心的推理路徑。我們在兩個熱門的基準資料集上進行評估。我們的結果顯示，Tree-of-Traversals 大幅提升了問題解答和 KG 問題解答任務的效能。程式碼可在 \url{https://github.com/amazon-science/tree-of-traversals} 取得
+
+##### **SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**
+2407.21293v1 by Peiru Zheng, Yun Zhao, Zhan Gong, Hong Zhu, Shaohua Wu
+
+Many fields could benefit from the rapid development of the large language
+models (LLMs). The end-to-end autonomous driving (e2eAD) is one of the
+typically fields facing new opportunities as the LLMs have supported more and
+more modalities. Here, by utilizing vision-language model (VLM), we proposed an
+e2eAD method called SimpleLLM4AD. In our method, the e2eAD task are divided
+into four stages, which are perception, prediction, planning, and behavior.
+Each stage consists of several visual question answering (VQA) pairs and VQA
+pairs interconnect with each other constructing a graph called Graph VQA
+(GVQA). By reasoning each VQA pair in the GVQA through VLM stage by stage, our
+method could achieve e2e driving with language. In our method, vision
+transformers (ViT) models are employed to process nuScenes visual data, while
+VLM are utilized to interpret and reason about the information extracted from
+the visual inputs. In the perception stage, the system identifies and
+classifies objects from the driving environment. The prediction stage involves
+forecasting the potential movements of these objects. The planning stage
+utilizes the gathered information to develop a driving strategy, ensuring the
+safety and efficiency of the autonomous vehicle. Finally, the behavior stage
+translates the planned actions into executable commands for the vehicle. Our
+experiments demonstrate that SimpleLLM4AD achieves competitive performance in
+complex driving scenarios.
+
+摘要：大型語言模型 (LLM) 的快速發展可能使許多領域受益。端到端自動駕駛 (e2eAD) 是典型領域之一，因為 LLM 支援越來越多的模式，因此面臨新的機會。在此，透過利用視覺語言模型 (VLM)，我們提出了一個稱為 SimpleLLM4AD 的 e2eAD 方法。在我們的模型中，e2eAD 任務分為四個階段，分別是感知、預測、規劃和行為。每個階段包含多個視覺問答 (VQA) 配對，且 VQA 配對相互連接，構建一個稱為圖形 VQA (GVQA) 的圖形。透過 VLM 分階段推理 GVQA 中的每個 VQA 配對，我們的模型可以透過語言實現端到端駕駛。在我們的模型中，採用視覺Transformer (ViT) 模型來處理 nuScenes 視覺資料，同時利用 VLM 來詮釋和推理從視覺輸入中提取的資訊。在感知階段，系統識別和分類駕駛環境中的物件。預測階段涉及預測這些物件的潛在移動。規劃階段利用收集的資訊來制定駕駛策略，確保自動駕駛汽車的安全性和效率。最後，行為階段將規劃的動作轉換為車輛可執行的命令。我們的實驗證明，SimpleLLM4AD 在複雜的駕駛場景中實現了競爭力。
+
 ##### **Be aware of overfitting by hyperparameter optimization!**
 2407.20786v1 by Igor V. Tetko, Ruud van Deursen, Guillaume Godin
 
@@ -553,6 +667,26 @@ observe a remarkable speedup of 1.73$\times$ to 1.96$\times$, significantly
 surpassing standard speculative decoding.
 
 摘要：<paragraph>推測性解碼已成為一種有前途的技術，可通過使用小型語言模型起草假設序列，然後由大型語言模型 (LLM) 驗證該序列，從而加速大型語言模型 (LLM) 的推理。此方法的有效性在很大程度上取決於草稿模型的性能和效率之間的平衡。在我們的研究中，我們專注於通過生成多個假設而不是只生成一個假設來提高被接受為最終輸出的草稿令牌的比例。這允許 LLM 從中選擇更多選項，並選擇符合其標準的最長序列。我們的分析表明，草稿模型產生的假設共享許多公共令牌序列，這表明優化計算的可能性。利用這一觀察結果，我們引入了一種創新的方法，利用有向無環圖 (DAG) 來管理已編制的假設。這種結構使我們能夠有效地預測和合併重複的令牌序列，從而大大降低了草稿模型的計算需求。我們將這種方法稱為圖結構推測性解碼 (GSD)。我們將 GSD 應用於一系列 LLM，包括一個 700 億參數的 LLaMA-2 模型，並觀察到顯著的加速，從 1.73 倍到 1.96 倍，顯著超過標準推測性解碼。</paragraph>
+
+##### **Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval**
+2407.21049v1 by Yannick Assogba, Donghao Ren
+
+As language models support larger and larger context sizes, evaluating their
+ability to make effective use of that context becomes increasingly important.
+We analyze the ability of several code generation models to handle long range
+dependencies using a suite of multi-step key retrieval tasks in context windows
+up to 8k tokens in length. The tasks progressively increase in difficulty and
+allow more nuanced evaluation of model capabilities than tests like the popular
+needle-in-the-haystack test. We find that performance degrades significantly
+(up to 2x) when a function references another function that is defined later in
+the prompt. We also observe that models that use sliding window attention
+mechanisms have difficulty handling references further than the size of a
+single window. We perform simple prompt modifications using call graph
+information to improve multi-step retrieval performance up to 3x. Our analysis
+highlights different facets of long-context performance and is suggestive of
+prompt construction strategies for code completion tools
+
+摘要：隨著語言模型支援的內容大小越來越大，評估其有效利用該內容的能力變得越來越重要。我們分析了幾個程式碼生成模型處理長距離依賴關係的能力，使用一組多步驟關鍵檢索任務，在長達 8k 令牌的內容視窗中。任務逐漸增加難度，並允許對模型功能進行比流行的針頭乾草堆測試更細緻的評估。我們發現，當函式參照稍後在提示中定義的另一個函式時，效能會顯著下降（最多 2 倍）。我們還觀察到，使用滑動視窗注意機制的模型難以處理超出單一視窗大小的參照。我們使用呼叫圖形資訊執行簡單的提示修改，以將多步驟檢索效能提升至 3 倍。我們的分析突顯了長內容效能的不同面向，並暗示了程式碼完成工具的提示建構策略
 
 ##### **Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**
 2407.16127v1 by Yang Liu, Xiaobin Tian, Zequn Sun, Wei Hu
@@ -2348,130 +2482,4 @@ method for more general QA tasks, QA over mixed structured data and QA across
 structured data.
 
 摘要：自然語言問答 (QA) 透過結構化資料來源（例如表格和知識圖譜 (KGs)）已廣泛研究，例如使用大型語言模型 (LLM)。主要解決方案包括問題轉換成形式化查詢解析和基於檢索的答案產生。然而，前者的現行方法通常會產生弱泛化，無法同時處理多個來源，而後者則受到可信度的限制。在本文中，我們提出 UnifiedTQA，一個可信賴的 QA 框架，能夠以統一的方式同時支援多種類型的結構化資料。為此，它採用了一種 LLM 友善且統一的知識表示方法，稱為條件圖 (CG)，並使用 LLM 和基於示範的二階方法進行 CG 查詢。為了加強，它還配備了動態示範檢索。我們已經使用涵蓋 3 種類型結構化資料的 5 個基準評估 UnifiedTQA。它優於 2 種現有的統一結構化資料 QA 方法，並且與特定於資料類型的基線相比，它在其中 2 個基準上達到了最先進的水平。此外，我們展示了我們的方法在更通用的 QA 任務、混合結構化資料的 QA 和跨結構化資料的 QA 中的潛力。
-
-##### **Fast Optimizer Benchmark**
-2406.18701v1 by Simon Blauth, Tobias Bürger, Zacharias Häringer, Jörg Franke, Frank Hutter
-
-In this paper, we present the Fast Optimizer Benchmark (FOB), a tool designed
-for evaluating deep learning optimizers during their development. The benchmark
-supports tasks from multiple domains such as computer vision, natural language
-processing, and graph learning. The focus is on convenient usage, featuring
-human-readable YAML configurations, SLURM integration, and plotting utilities.
-FOB can be used together with existing hyperparameter optimization (HPO) tools
-as it handles training and resuming of runs. The modular design enables
-integration into custom pipelines, using it simply as a collection of tasks. We
-showcase an optimizer comparison as a usage example of our tool. FOB can be
-found on GitHub: https://github.com/automl/FOB.
-
-摘要：在本文中，我們提出了快速優化器基準 (FOB)，這是一個用於在開發過程中評估深度學習優化器的工具。基準支持來自多個領域的任務，例如電腦視覺、自然語言處理和圖形學習。重點在於方便使用，具有人類可讀的 YAML 配置、SLURM 整合和繪圖程式。FOB 可以與現有的超參數優化 (HPO) 工具一起使用，因為它可以處理訓練和恢復運行。模組化設計能夠整合到自訂管線中，只需將其用作任務集合即可。我們展示了一個優化器比較作為我們工具的使用範例。FOB 可以從 GitHub 找到：https://github.com/automl/FOB。
-
-##### **Cascading Large Language Models for Salient Event Graph Generation**
-2406.18449v1 by Xingwei Tan, Yuxiang Zhou, Gabriele Pergola, Yulan He
-
-Generating event graphs from long documents is challenging due to the
-inherent complexity of multiple tasks involved such as detecting events,
-identifying their relationships, and reconciling unstructured input with
-structured graphs. Recent studies typically consider all events with equal
-importance, failing to distinguish salient events crucial for understanding
-narratives. This paper presents CALLMSAE, a CAscading Large Language Model
-framework for SAlient Event graph generation, which leverages the capabilities
-of LLMs and eliminates the need for costly human annotations. We first identify
-salient events by prompting LLMs to generate summaries, from which salient
-events are identified. Next, we develop an iterative code refinement prompting
-strategy to generate event relation graphs, removing hallucinated relations and
-recovering missing edges. Fine-tuning contextualised graph generation models on
-the LLM-generated graphs outperforms the models trained on CAEVO-generated
-data. Experimental results on a human-annotated test set show that the proposed
-method generates salient and more accurate graphs, outperforming competitive
-baselines.
-
-摘要：由於涉及多項任務的內在複雜性，例如偵測事件、識別其關係，以及調和非結構化輸入與結構化圖表，因此從長篇文件產生事件圖表是一項挑戰。最近的研究通常將所有事件視為同等重要，未能區分對理解敘事至關重要的顯著事件。本文提出了 CALLMSAE，一個用於生成顯著事件圖表的層疊式大型語言模型框架，它利用了 LLM 的功能，並消除了對昂貴的人工標註的需求。我們首先透過提示 LLM 產生摘要來識別顯著事件，從中識別出顯著事件。接下來，我們開發了一種反覆的程式碼精煉提示策略來產生事件關係圖表，移除幻覺關係並恢復遺失的邊緣。在 LLM 生成的圖表上微調情境化圖表生成模型，其表現優於在 CAEVO 生成的資料上訓練的模型。在人工標註的測試集上的實驗結果顯示，所提出的方法產生了顯著且更準確的圖表，優於競爭性的基準。
-
-##### **Sanskrit Knowledge-based Systems: Annotation and Computational Tools**
-2406.18276v1 by Hrishikesh Terdalkar
-
-We address the challenges and opportunities in the development of knowledge
-systems for Sanskrit, with a focus on question answering. By proposing a
-framework for the automated construction of knowledge graphs, introducing
-annotation tools for ontology-driven and general-purpose tasks, and offering a
-diverse collection of web-interfaces, tools, and software libraries, we have
-made significant contributions to the field of computational Sanskrit. These
-contributions not only enhance the accessibility and accuracy of Sanskrit text
-analysis but also pave the way for further advancements in knowledge
-representation and language processing. Ultimately, this research contributes
-to the preservation, understanding, and utilization of the rich linguistic
-information embodied in Sanskrit texts.
-
-摘要：我們著手解決梵語知識系統開發中的挑戰和機會，重點在於問題解答。透過提出一個用於自動建構知識圖譜的架構，導入用於本體驅動和一般用途任務的註解工具，並提供多樣化的網路介面、工具和軟體函式庫，我們對計算梵語領域做出了重大貢獻。這些貢獻不僅增強了梵語文本分析的可存取性和準確性，也為知識表徵和語言處理的進一步進展鋪平了道路。最終，這項研究有助於保存、理解和利用梵語文本中蘊含的豐富語言資訊。
-
-##### **Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints**
-2406.18085v1 by Ran Song, Shizhu He, Shengxiang Gao, Li Cai, Kang Liu, Zhengtao Yu, Jun Zhao
-
-Multilingual Knowledge Graph Completion (mKGC) aim at solving queries like
-(h, r, ?) in different languages by reasoning a tail entity t thus improving
-multilingual knowledge graphs. Previous studies leverage multilingual
-pretrained language models (PLMs) and the generative paradigm to achieve mKGC.
-Although multilingual pretrained language models contain extensive knowledge of
-different languages, its pretraining tasks cannot be directly aligned with the
-mKGC tasks. Moreover, the majority of KGs and PLMs currently available exhibit
-a pronounced English-centric bias. This makes it difficult for mKGC to achieve
-good results, particularly in the context of low-resource languages. To
-overcome previous problems, this paper introduces global and local knowledge
-constraints for mKGC. The former is used to constrain the reasoning of answer
-entities, while the latter is used to enhance the representation of query
-contexts. The proposed method makes the pretrained model better adapt to the
-mKGC task. Experimental results on public datasets demonstrate that our method
-outperforms the previous SOTA on Hits@1 and Hits@10 by an average of 12.32% and
-16.03%, which indicates that our proposed method has significant enhancement on
-mKGC.
-
-摘要：多語言知識圖譜完成 (mKGC) 旨在透過推理尾部實體 t 來解決不同語言中的查詢，例如 (h, r, ?)，進而改善多語言知識圖譜。先前的研究利用多語言預訓練語言模型 (PLM) 和生成範例來達成 mKGC。儘管多語言預訓練語言模型包含不同語言的廣泛知識，但其預訓練任務無法直接與 mKGC 任務對齊。此外，目前大多數的知識圖譜和 PLM 都展現出明顯的英語中心偏誤。這使得 mKGC 難以達成良好的結果，特別是在低資源語言的脈絡中。為了克服先前的問題，本文針對 mKGC 引入了全域與局部知識限制。前者用於限制答案實體的推理，而後者用於加強查詢脈絡的表示。所提出的方法使得預訓練模型能更好地適應 mKGC 任務。公開資料集上的實驗結果顯示，我們的模型在 Hits@1 和 Hits@10 上平均優於先前的 SOTA 12.32% 和 16.03%，這表示我們提出的方法顯著地增強了 mKGC。
-
-##### **AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning**
-2406.18060v1 by Yifan Yang, Kai Zhen, Ershad Banijamal, Athanasios Mouchtaris, Zheng Zhang
-
-Fine-tuning large language models (LLMs) has achieved remarkable performance
-across various natural language processing tasks, yet it demands more and more
-memory as model sizes keep growing. To address this issue, the recently
-proposed Memory-efficient Zeroth-order (MeZO) methods attempt to fine-tune LLMs
-using only forward passes, thereby avoiding the need for a backpropagation
-graph. However, significant performance drops and a high risk of divergence
-have limited their widespread adoption. In this paper, we propose the Adaptive
-Zeroth-order Tensor-Train Adaption (AdaZeta) framework, specifically designed
-to improve the performance and convergence of the ZO methods. To enhance
-dimension-dependent ZO estimation accuracy, we introduce a fast-forward,
-low-parameter tensorized adapter. To tackle the frequently observed divergence
-issue in large-scale ZO fine-tuning tasks, we propose an adaptive query number
-schedule that guarantees convergence. Detailed theoretical analysis and
-extensive experimental results on Roberta-Large and Llama-2-7B models
-substantiate the efficacy of our AdaZeta framework in terms of accuracy, memory
-efficiency, and convergence speed.
-
-摘要：微调大型语言模型 (LLM) 在各种自然语言处理任务中取得了显著的性能，但随着模型规模的不断扩大，它对内存的需求也越来越大。为了解决这个问题，最近提出的内存高效零阶 (MeZO) 方法试图仅使用前向传递来微调 LLM，从而避免了对反向传播图的需求。然而，严重的性能下降和发散的高风险限制了它们的广泛采用。在本文中，我们提出了自适应零阶张量训练自适应 (AdaZeta) 框架，专门设计用于提高 ZO 方法的性能和收敛性。为了增强维度相关的 ZO 估计精度，我们引入了一个快速前向、低参数张量化适配器。为了解决在大规模 ZO 微调任务中经常观察到的发散问题，我们提出了一个自适应查询数量计划，以保证收敛性。对 Roberta-Large 和 Llama-2-7B 模型的详细理论分析和广泛的实验结果证明了我们的 AdaZeta 框架在准确性、内存效率和收敛速度方面的有效性。
-
-##### **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph**
-2406.17271v1 by Zhehao Zhang, Jiaao Chen, Diyi Yang
-
-The current paradigm of evaluating Large Language Models (LLMs) through
-static benchmarks comes with significant limitations, such as vulnerability to
-data contamination and a lack of adaptability to the evolving capabilities of
-LLMs. Therefore, evaluation methods that can adapt and generate evaluation data
-with controlled complexity are urgently needed. In this work, we introduce
-Dynamic Evaluation of LLMs via Adaptive Reasoning Graph Evolvement (DARG) to
-dynamically extend current benchmarks with controlled complexity and diversity.
-Specifically, we first extract the reasoning graphs of data points in current
-benchmarks and then perturb the reasoning graphs to generate novel testing
-data. Such newly generated test samples can have different levels of complexity
-while maintaining linguistic diversity similar to the original benchmarks. We
-further use a code-augmented LLM to ensure the label correctness of newly
-generated data. We apply our DARG framework to diverse reasoning tasks in four
-domains with 15 state-of-the-art LLMs. Experimental results show that almost
-all LLMs experience a performance decrease with increased complexity and
-certain LLMs exhibit significant drops. Additionally, we find that LLMs exhibit
-more biases when being evaluated via the data generated by DARG with higher
-complexity levels. These observations provide useful insights into how to
-dynamically and adaptively evaluate LLMs. The code is available at
-https://github.com/SALT-NLP/DARG.
-
-摘要：目前透過靜態基準評估大型語言模型 (LLM) 的範例伴隨著顯著的限制，例如容易受到資料污染，以及缺乏適應 LLM 不斷演進的能力。因此，迫切需要能夠適應並產生具有受控複雜性的評估資料的評估方法。在這項工作中，我們透過自適應推理圖形演化 (DARG) 引入 LLM 的動態評估，以動態延伸目前具有受控複雜性和多樣性的基準。具體來說，我們首先擷取目前基準中資料點的推理圖形，然後擾動推理圖形以產生新的測試資料。這些新產生的測試樣本可以有不同的複雜性層級，同時維持與原始基準類似的語言多樣性。我們進一步使用程式碼增強的 LLM 來確保新產生資料的標籤正確性。我們將 DARG 架構套用於四個領域中的各種推理任務，並使用 15 個最先進的 LLM。實驗結果顯示，幾乎所有 LLM 在複雜性增加的情況下都會出現效能下降，而某些 LLM 則表現出顯著的下降。此外，我們發現 LLM 在透過 DARG 產生具有較高複雜性層級的資料進行評估時，會表現出更多偏差。這些觀察結果提供了有用的見解，說明如何動態且自適應地評估 LLM。程式碼可在 https://github.com/SALT-NLP/DARG 取得。
 

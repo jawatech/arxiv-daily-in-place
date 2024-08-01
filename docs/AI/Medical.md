@@ -25,7 +25,7 @@
 |**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094v1](http://arxiv.org/abs/2407.19094v1)|null|
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525v1](http://arxiv.org/abs/2407.18525v1)|[link](https://github.com/yhzhu99/ehr-llm-benchmark)|
-|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v3](http://arxiv.org/abs/2407.18483v3)|[link](https://github.com/sperfu/eyedoc)|
+|**2024-07-26**|**A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**|Laiyi Fu et.al.|[2407.18483v4](http://arxiv.org/abs/2407.18483v4)|[link](https://github.com/sperfu/eyedoc)|
 |**2024-07-26**|**Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**|Nianjun Zhou et.al.|[2407.18992v1](http://arxiv.org/abs/2407.18992v1)|null|
 |**2024-07-25**|**HDL-GPT: High-Quality HDL is All You Need**|Bhuvnesh Kumar et.al.|[2407.18423v1](http://arxiv.org/abs/2407.18423v1)|null|
 |**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
@@ -698,7 +698,7 @@ of NLP technology in healthcare.
 摘要：大型語言模型 (LLM) 在醫學中的應用日益廣泛，但它們同時處理結構化電子病歷 (EHR) 資料和非結構化臨床註記的能力尚未得到充分研究。本研究針對各種模型進行基準測試，包括基於 GPT 的 LLM、基於 BERT 的模型，以及傳統的臨床預測模型，用於利用著名資料集的非生成性醫療任務。我們使用 MIMIC 資料集（ICU 病人記錄）和 TJH 資料集（早期 COVID-19 EHR 資料）評估了 14 個語言模型（9 個基於 GPT，5 個基於 BERT）和 7 個傳統預測模型，重點關注死亡率和再入院預測、疾病層級重建和生物醫學句子配對等任務，並比較了零次學習和微調後的效能。結果表明，LLM 在使用設計良好的提示策略時，對結構化 EHR 資料展現出強大的零次學習預測能力，經常超越傳統模型。然而，對於非結構化的醫療文本，LLM 的表現不如微調後的 BERT 模型，後者在監督式和非監督式任務中都表現出色。因此，儘管 LLM 對於結構化資料的零次學習很有用，但微調後的 BERT 模型更適合非結構化文本，這強調了根據特定任務需求和資料特性選擇模型以優化醫療保健中 NLP 技術應用之重要性。
 
 ##### **A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation**
-2407.18483v3 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
+2407.18483v4 by Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song
 
 Ophthalmology consultations are crucial for diagnosing, treating, and
 preventing eye diseases. However, the growing demand for consultations exceeds
@@ -718,7 +718,7 @@ dynamic knowledge base expansion for intelligent medical consultations. EyeDoc
 also serves as a free available web based service and souce code is available
 at https://github.com/sperfu/EyeDoc.
 
-摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，對諮詢服務的需求與日俱增，卻超過了眼科醫生的供給。透過利用大型預訓練語言模型，我們可以為特定情境設計有效的對話，協助諮詢。傳統針對問答任務的微調策略由於模型尺寸的增加以及在諮詢過程中常常忽略患者與醫師的角色功能，因此不切實際。在本文中，我們提出 EyeDoctor，一種眼科醫療問答大型語言模型，透過由醫師與患者的角色感知所引導，以及一個包含外部疾病資訊的擴充知識庫來增強準確度。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答精準度。值得注意的是，與排名第二的模型 ChatGPT 相比，EyeDoctor 在多輪資料集上，Rouge-1 分數提升了 7.25%，F1 分數提升了 10.16%，突顯了醫師與患者角色區分以及動態知識庫擴充對於智慧醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，其原始碼可以在 https://github.com/sperfu/EyeDoc 獲得。
+摘要：眼科諮詢對於診斷、治療和預防眼疾至關重要。然而，諮詢需求的增加超過了眼科醫生的供應。透過利用大型預訓練語言模型，我們可以為特定場景設計有效的對話，協助諮詢。傳統的微調策略對於問答任務來說是不切實際的，因為模型大小的增加，而且在諮詢期間常常忽略患者和醫生的角色功能。在本文中，我們提出 EyeDoctor，這是一個眼科醫療問答大型語言模型，透過醫生和患者角色感知指導和一個擴充的外部疾病資訊知識庫來增強準確性。實驗結果顯示，EyeDoctor 在眼科諮詢中達到了更高的問答準確度。值得注意的是，與第二好的模型 ChatGPT 相比，EyeDoctor 在多輪數據集上 Rouge-1 分數提高了 7.25%，F1 分數提高了 10.16%，這突顯了醫生和患者角色區分和動態知識庫擴充對於智能醫療諮詢的重要性。EyeDoc 也作為一個免費的網路服務，原始碼可以在 https://github.com/sperfu/EyeDoc 取得。
 
 ##### **Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**
 2407.18992v1 by Nianjun Zhou, Dhaval Patel, Shuxin Lin, Fearghal O'Donncha

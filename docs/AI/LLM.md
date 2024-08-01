@@ -7,7 +7,7 @@
 |**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009v1](http://arxiv.org/abs/2407.21009v1)|null|
 |**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004v1](http://arxiv.org/abs/2407.21004v1)|null|
 |**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001v1](http://arxiv.org/abs/2407.21001v1)|null|
-|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v1](http://arxiv.org/abs/2407.20999v1)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v2](http://arxiv.org/abs/2407.20999v2)|null|
 |**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990v1](http://arxiv.org/abs/2407.20990v1)|null|
 |**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970v1](http://arxiv.org/abs/2407.20970v1)|null|
 |**2024-07-30**|**An Effective Dynamic Gradient Calibration Method for Continual Learning**|Weichen Lin et.al.|[2407.20956v1](http://arxiv.org/abs/2407.20956v1)|null|
@@ -48,7 +48,7 @@
 |**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635v1](http://arxiv.org/abs/2407.20635v1)|null|
 |**2024-07-30**|**Decoding Linguistic Representations of Human Brain**|Yu Wang et.al.|[2407.20622v1](http://arxiv.org/abs/2407.20622v1)|null|
 |**2024-07-30**|**Questionnaires for Everyone: Streamlining Cross-Cultural Questionnaire Adaptation with GPT-Based Translation Quality Evaluation**|Otso Haavisto et.al.|[2407.20608v1](http://arxiv.org/abs/2407.20608v1)|null|
-|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|null|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|[link](https://github.com/Madjakul/HALvesting-Geometric)|
 |**2024-07-30**|**Enhancing Agricultural Machinery Management through Advanced LLM Integration**|Emily Johnson et.al.|[2407.20588v1](http://arxiv.org/abs/2407.20588v1)|null|
 |**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584v1](http://arxiv.org/abs/2407.20584v1)|null|
 |**2024-07-30**|**Image-based Detection of Segment Misalignment in Multi-mirror Satellites using Transfer Learning**|C. Tanner Fredieu et.al.|[2407.20582v1](http://arxiv.org/abs/2407.20582v1)|null|
@@ -58,7 +58,7 @@
 |**2024-07-30**|**Pyramid Coder: Hierarchical Code Generator for Compositional Visual Question Answering**|Ruoyue Shen et.al.|[2407.20563v1](http://arxiv.org/abs/2407.20563v1)|null|
 |**2024-07-30**|**CELLM: An Efficient Communication in Large Language Models Training for Federated Learning**|Raja Vavekanand et.al.|[2407.20557v1](http://arxiv.org/abs/2407.20557v1)|null|
 |**2024-07-30**|**Survey of Design Paradigms for Social Robots**|Rita Frieske et.al.|[2407.20556v1](http://arxiv.org/abs/2407.20556v1)|null|
-|**2024-07-30**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan et.al.|[2407.20524v1](http://arxiv.org/abs/2407.20524v1)|null|
+|**2024-07-30**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan et.al.|[2407.20524v2](http://arxiv.org/abs/2407.20524v2)|null|
 |**2024-07-30**|**DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis**|Yue Pan et.al.|[2407.20519v1](http://arxiv.org/abs/2407.20519v1)|null|
 |**2024-07-30**|**High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE**|Zhiceng Shi et.al.|[2407.20518v1](http://arxiv.org/abs/2407.20518v1)|[link](https://github.com/wenwenmin/histosge)|
 |**2024-07-30**|**Machine Unlearning in Generative AI: A Survey**|Zheyuan Liu et.al.|[2407.20516v1](http://arxiv.org/abs/2407.20516v1)|[link](https://github.com/franciscoliu/genai-mu-reading)|
@@ -67,7 +67,7 @@
 |**2024-07-30**|**Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge**|Yupei Yang et.al.|[2407.20506v1](http://arxiv.org/abs/2407.20506v1)|[link](https://github.com/cmach508/causalexploration)|
 |**2024-07-30**|**A federated large language model for long-term time series forecasting**|Raed Abdel-Sater et.al.|[2407.20503v1](http://arxiv.org/abs/2407.20503v1)|null|
 |**2024-07-30**|**Toward Efficient Permutation for Hierarchical N:M Sparsity on GPUs**|Seungmin Yu et.al.|[2407.20496v1](http://arxiv.org/abs/2407.20496v1)|null|
-|**2024-07-30**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun Rae Jo et.al.|[2407.20485v1](http://arxiv.org/abs/2407.20485v1)|null|
+|**2024-07-30**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun-rae Jo et.al.|[2407.20485v2](http://arxiv.org/abs/2407.20485v2)|null|
 |**2024-07-29**|**CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models**|Junda Wu et.al.|[2407.20454v1](http://arxiv.org/abs/2407.20454v1)|null|
 |**2024-07-29**|**Domain Adaptable Prescriptive AI Agent for Enterprise**|Piero Orderique et.al.|[2407.20447v1](http://arxiv.org/abs/2407.20447v1)|null|
 |**2024-07-29**|**Futga: Towards Fine-grained Music Understanding through Temporally-enhanced Generative Augmentation**|Junda Wu et.al.|[2407.20445v1](http://arxiv.org/abs/2407.20445v1)|null|
@@ -81,7 +81,7 @@
 |**2024-07-29**|**BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues**|Sara Sarto et.al.|[2407.20341v1](http://arxiv.org/abs/2407.20341v1)|[link](https://github.com/aimagelab/bridge-score)|
 |**2024-07-29**|**Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities**|Lorenzo Baraldi et.al.|[2407.20337v1](http://arxiv.org/abs/2407.20337v1)|[link](https://github.com/aimagelab/code)|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|null|
-|**2024-07-29**|**Can Editing LLMs Inject Harm?**|Canyu Chen et.al.|[2407.20224v1](http://arxiv.org/abs/2407.20224v1)|null|
+|**2024-07-29**|**Can Editing LLMs Inject Harm?**|Canyu Chen et.al.|[2407.20224v2](http://arxiv.org/abs/2407.20224v2)|null|
 |**2024-07-29**|**Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**|Tian Ye et.al.|[2407.20311v1](http://arxiv.org/abs/2407.20311v1)|null|
 |**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214v1](http://arxiv.org/abs/2407.20214v1)|null|
 |**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207v1](http://arxiv.org/abs/2407.20207v1)|null|
@@ -152,7 +152,7 @@ mammography datasets compared with various baselines. The proposed parameter
 efficient framework can reduce the total trainable model size by 39% and reduce
 the trainable language model to only 4% compared with the current BERT encoder.
 
-摘要：對比語言影像預訓練 (CLIP) 的近期進展已在各種任務中展現出在自我監督表徵學習上的顯著成功。然而，現有的 CLIP 類似方法通常需要大量的 GPU 資源和長時間的訓練，這是因為模型和資料集的大小相當可觀，這使得它們不適合醫療應用，因為大型資料集並不總是常見的。同時，語言模型提示主要是從與影像相關的標籤手動衍生而來，這可能會忽略訓練樣本中豐富的資訊。我們引入一種新穎的語言影像對比學習方法，其中包含一個高效的大語言模型和提示微調 (CLEFT)，它利用了廣泛預訓練的語言和視覺模型的優勢。此外，我們提出了一個用於學習基於脈絡的提示的有效策略，該策略可縮小資訊豐富的臨床診斷資料和簡單類別標籤之間的差距。與各種基準相比，我們的模型在多個胸部 X 光和乳房攝影資料集上展示了最先進的效能。所提出的參數有效架構可以將總可訓練模型大小減少 39%，並將可訓練語言模型減少到僅 4%，與目前的 BERT 編碼器相比。
+摘要：對比語言影像預訓練 (CLIP) 的最新進展已展現出在各項任務中以自我監督表徵學習獲得顯著成功的成果。然而，現有的 CLIP 類似方法通常需要大量的 GPU 資源和漫長的訓練時間，因為模型和資料集的規模龐大，這使得它們不適合醫療應用，因為醫療應用中並不總是會有大型資料集。同時，語言模型提示主要來自與影像相關的標籤，而手動衍生，這可能會忽略訓練樣本中豐富的資訊。我們提出一個新穎的語言影像對比學習方法，其中包含一個高效的大語言模型和提示微調 (CLEFT)，它利用了廣泛預訓練的語言和視覺模型的優勢。此外，我們提出一個學習基於脈絡提示的有效策略，以縮小資訊豐富的臨床診斷資料和簡單類別標籤之間的差距。與各種基準相比，我們的模型在多個胸部 X 光和乳房攝影資料集上展現出最先進的效能。所提出的參數有效架構可以將總體可訓練模型大小減少 39%，並將可訓練語言模型減少到僅 4%，與目前的 BERT 編碼器相比。
 
 ##### **AI-Assisted Generation of Difficult Math Questions**
 2407.21009v1 by Vedant Shah, Dingli Yu, Kaifeng Lyu, Simon Park, Nan Rosemary Ke, Michael Mozer, Yoshua Bengio, Sanjeev Arora, Anirudh Goyal
@@ -241,12 +241,12 @@ about 13.2% when confronted with gender-activity binding bias.
 的應用中，我們經常會遇到複雜的情況，其中有不同性別的人從事不同的活動。我們表明，在這種情況下，VLM 傾向於將具有預期性別的個人（根據模型中根深蒂固的性別刻板印象或其他形式的樣本選擇偏差）識別為活動的執行者。我們將這種將活動與其實際執行者的性別聯繫起來的偏差稱為性別活動綁定 (GAB) 偏差，並分析此偏差如何在 VLM 中內化。為了評估此偏差，我們引入了 GAB 資料集，其中包含約 5500 張 AI 生成的影像，這些影像代表了各種活動，解決了某些情境中缺乏真實世界影像的問題。為了進行廣泛的品質控管，我們對生成的影像進行了多樣性、品質和真實性的評估。我們在這個資料集上測試了 12 個著名的預訓練 VLM，在文字轉影像和影像轉文字檢索的背景下，以衡量此偏差對其預測的影響。此外，我們還進行了補充實驗，以量化 VLM 文字編碼器中的偏差，並評估 VLM 識別活動的能力。我們的實驗表明，當面對性別活動綁定偏差時，VLM 的平均效能下降約 13.2%。
 
 ##### **MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**
-2407.20999v1 by Yupeng Chen, Senmiao Wang, Zhihang Lin, Zeyu Qin, Yushun Zhang, Tian Ding, Ruoyu Sun
+2407.20999v2 by Yupeng Chen, Senmiao Wang, Zhihang Lin, Zeyu Qin, Yushun Zhang, Tian Ding, Ruoyu Sun
 
 Recently, large language models (LLMs) have demonstrated remarkable
 capabilities in a wide range of tasks. Typically, an LLM is pre-trained on
 large corpora and subsequently fine-tuned on task-specific datasets. However,
-during finetuning, LLMs may forget the knowledge acquired in the pretraining
+during fine-tuning, LLMs may forget the knowledge acquired in the pre-training
 stage, leading to a decline in general capabilities. To address this issue, we
 propose a new fine-tuning algorithm termed Momentum-Filtered Optimizer (MoFO).
 The key idea of MoFO is to iteratively select and update the model parameters
@@ -263,7 +263,7 @@ through rigorous convergence analysis and extensive experiments, demonstrating
 its superiority over existing methods in mitigating forgetting and enhancing
 fine-tuning performance.
 
-摘要：最近，大型语言模型 (LLM) 已在广泛的任务中展示出非凡的能力。通常，LLM 在大型语料库上进行预训练，然后在特定于任务的数据集上进行微调。然而，在微调过程中，LLM 可能会忘记在预训练阶段获得的知识，从而导致一般能力下降。为了解决这个问题，我们提出了一种新的微调算法，称为动量滤波优化器 (MoFO)。MoFO 的关键思想是迭代选择和更新具有最大动量幅度的模型参数。与全参数训练相比，MoFO 在保持参数更接近预训练模型的同时实现了类似的微调性能，从而减轻了知识遗忘。与大多数现有的缓解遗忘的方法不同，MoFO 结合了以下两个优点。首先，MoFO 不需要访问预训练数据。这使得 MoFO 特别适用于预训练数据不可用的微调场景，例如微调仅限于检查点的开源 LLM。其次，MoFO 不会改变原始损失函数。这可以避免损害模型在微调任务上的性能。我们通过严格的收敛分析和广泛的实验验证了 MoFO，证明了其在减轻遗忘和增强微调性能方面优于现有方法。
+摘要：最近，大型语言模型 (LLM) 在广泛的任务中展示了非凡的能力。通常，LLM 在大型语料库上进行预训练，然后针对特定任务的数据集进行微调。然而，在微调期间，LLM 可能会忘记在预训练阶段获得的知识，从而导致一般能力下降。为了解决这个问题，我们提出了一种新的微调算法，称为动量过滤优化器 (MoFO)。MoFO 的关键思想是迭代选择和更新具有最大动量幅度的模型参数。与全参数训练相比，MoFO 实现了类似的微调性能，同时使参数更接近预训练模型，从而减轻了知识遗忘。与大多数现有的缓解遗忘的方法不同，MoFO 结合了以下两个优点。首先，MoFO 不需要访问预训练数据。这使得 MoFO 特别适用于预训练数据不可用的微调场景，例如微调仅限检查点的开源 LLM。其次，MoFO 不会改变原始损失函数。这可以避免损害模型在微调任务上的性能。我们通过严格的收敛分析和广泛的实验验证了 MoFO，证明了它在减轻遗忘和增强微调性能方面优于现有方法。
 
 ##### **From Feature Importance to Natural Language Explanations Using LLMs with RAG**
 2407.20990v1 by Sule Tekkesinoglu, Lars Kunze
@@ -1430,7 +1430,7 @@ between robots and humans.
 摘要：由於社交機器人在醫療保健、教育和娛樂等領域的情緒適應功能，對它們的需求也隨之增加。這些機器人利用多模態溝通，結合語音、面部表情和手勢來增強使用者參與度和情緒支持。對社交機器人設計範例的理解受到系統複雜性和根據特定任務調整系統的必要性的阻礙。本文提供了對社交機器人設計範例的結構化回顧，將它們分類為認知架構、角色設計模型、語言模型、溝通流程、活動系統模型和整合設計模型。通過根據這些範例分析社交機器人設計和應用方面的文章，我們突出了當前方法的優點和改進領域。我們進一步提出了我們的原始整合設計模型，該模型結合了社交機器人設計中最重要的方面。我們的做法顯示了整合操作、溝通和情緒層面的重要性，以創造機器人和人類之間更具適應性和同理心的互動。
 
 ##### **Contrastive Feedback Mechanism for Simultaneous Speech Translation**
-2407.20524v1 by Haotian Tan, Sakriani Sakti
+2407.20524v2 by Haotian Tan, Sakriani Sakti
 
 Recent advances in simultaneous speech translation (SST) focus on the
 decision policies that enable the use of offline-trained ST models for
@@ -1446,7 +1446,7 @@ behaviors from these predictions through a contrastive objective. The
 experiments on 3 state-of-the-art decision policies across 8 languages in the
 MuST-C v1.0 dataset show that CFM effectively improves the performance of SST.
 
-摘要：近來在同時語音翻譯 (SST) 的發展重點在於，讓離線訓練的 ST 模型能夠同時進行推論的決策政策。這些決策政策不僅控制 SST 中品質與延遲的取捨，也透過延後翻譯以獲得更多脈絡或透過穩定的假說偵測來捨棄這些預測，以減輕不穩定預測對翻譯品質的影響。然而，這些政策常常忽略利用不穩定預測的潛在好處。我們為 SST 提出對比回饋機制 (CFM)，這是一種新穎的方法，利用這些不穩定預測作為回饋來提升翻譯品質。CFM 透過對比目標引導系統消除這些預測中不需要的模型行為。在 MuST-C v1.0 資料集中的 8 種語言中，對 3 種最先進的決策政策進行的實驗顯示，CFM 有效提升了 SST 的效能。
+摘要：最近在同聲傳譯（SST）的進展著重於決策政策，讓離線訓練的 ST 模型能用於同聲推論。這些決策政策不僅控制 SST 中的品質延遲權衡，還能透過延遲翻譯以取得更多內容或透過穩定假說偵測來捨棄這些預測，來減輕不穩定預測對翻譯品質的影響。然而，這些政策常常忽略了利用不穩定預測的潛在優點。我們在 SST 中引進對比回饋機制（CFM），這是一種新方法，利用這些不穩定預測作為回饋，來提升翻譯品質。CFM 引導系統透過對比目標，從這些預測中消除不需要的模型行為。在 MuST-C v1.0 資料集中，針對 8 種語言的 3 種最先進的決策政策進行的實驗顯示，CFM 有效提升 SST 的效能。
 
 ##### **DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis**
 2407.20519v1 by Yue Pan, Qile Liu, Qing Liu, Li Zhang, Gan Huang, Xin Chen, Fali Li, Peng Xu, Zhen Liang
@@ -1641,7 +1641,7 @@ sparse networks.
 摘要：N:M 稀疏剪枝是一种压缩深度神经网络的强大技术，利用了 NVIDIA 的稀疏张量核技术。这种方法得益于对稀疏索引的硬件支持，从而能够采用细粒度的稀疏性来保持模型准确性，同时最大程度地减少通常与不规则数据访问相关的开销。虽然由于依赖于硬件而限制在固定的稀疏性级别，但 N:M 稀疏性可以与更粗糙的稀疏性技术相结合，以实现不同的压缩比。最初，列向量稀疏性应用于稠密模型，然后在保留的列向量上应用行 N:M 稀疏性。我们将这种多级方法称为分层 N:M (HiNM) 稀疏性。与早期的单级稀疏性技术类似，HiNM 稀疏性需要一种有效的通道置换策略，以最大化压缩网络的准确性。然而，它通过要求重新排列输入和输出通道引入了进一步的复杂性，解决了诸如置换序列、HiNM 稀疏感知置换以及跨层保持通道顺序的一致性等挑战。在本文中，我们介绍了一种专门为 HiNM 稀疏性设计的通道置换方法，称为陀螺置换。该方法旨在利用 HiNM 剪枝的独特特性，在每个置换阶段纳入战略策略，包括通道采样、聚类和分配，以规避局部极小值。此外，我们还开发了一个 GPU 内核，该内核在 HiNM 稀疏网络执行期间促进了独立层置换。我们在各种 DNN 模型上进行的广泛实验评估表明，我们的陀螺置换显著提高了 HiNM 稀疏网络的准确性，使其能够达到与非结构化稀疏网络相当的性能水平。
 
 ##### **A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**
-2407.20485v1 by Hyun Rae Jo, Dong Kun Shin
+2407.20485v2 by Hyun-rae Jo, Dongkun Shin
 
 Recently, large language models (LLM) based on transformers are facing memory
 bottleneck issues due to KV cache, especially in long sequence handling.
@@ -1663,8 +1663,8 @@ effectively select important tokens. We have verified the accuracy improvement
 through A2SF in the OPT and LLaMA models and A2SF improves the accuracy of
 LLaMA 2 by up to 7.8% and 5.1% on 1-shot and 0-shot.
 
-摘要：最近，基于 Transformer 的大型语言模型 (LLM) 在长序列处理中，因 KV 缓存而面临内存瓶颈问题。
-先前的研究提出了 KV 缓存压缩技术，该技术基于累积注意力分数识别不重要的标记，并从 KV 缓存中删除其项目，因为只有少数标记在注意力操作中发挥重要作用。然而，我们观察到现有的累积注意力分数不适用于 Transformer 解码器结构。在解码器模型中，由于遮蔽效应，注意力分数累积的次数会根据标记出现顺序而有所不同，从而导致标记之间的比较不均匀。为了解决这个问题，我们提出了带有遗忘因子的累积注意力分数 (A2SF) 技术，该技术在注意力分数累积过程中引入了遗忘因子。A2SF 通过反复将遗忘因子乘以注意力分数，对旧标记产生的过去注意力分数施加惩罚。因此，较旧的标记会受到更大的惩罚，从而在不同年龄的标记之间提供公平性。通过在标记之间进行公平比较，我们可以更有效地选择重要的标记。我们通过 A2SF 在 OPT 和 LLaMA 模型中验证了准确性的提高，A2SF 将 LLaMA 2 在 1 次和 0 次中的准确性分别提高了 7.8% 和 5.1%。
+摘要：<paragraph>最近，基於 Transformer 的大型語言模型 (LLM) 因 KV 快取而面臨記憶體瓶頸問題，尤其是在處理長序列時。
+先前的研究提出了 KV 快取壓縮技術，該技術根據累積注意力分數識別不重要的符號，並從 KV 快取中移除其項目，並指出只有少數符號在注意力操作中扮演重要角色。然而，我們觀察到現有的累積注意力分數並不適合 Transformer 解碼器結構。在解碼器模型中，由於遮罩效應，注意力分數累積的次數會根據符號出現的順序而有所不同，導致符號之間的比較不均勻。為了解決這個問題，我們提出了帶有遺忘因子的累積注意力分數 (A2SF) 技術，該技術在注意力分數累積過程中引入了遺忘因子。A2SF 對由舊符號產生的過去注意力分數施加懲罰，方法是隨著時間的推移，反覆將遺忘因子乘以注意力分數。因此，較舊的符號會收到較大的懲罰，從而為不同年齡的符號提供公平性。透過符號之間的公平比較，我們可以更有效地選擇重要的符號。我們已經在 OPT 和 LLaMA 模型中驗證了 A2SF 的準確性改進，而 A2SF 將 LLaMA 2 在 1-shot 和 0-shot 上的準確性分別提高了 7.8% 和 5.1%。</paragraph>
 
 ##### **CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models**
 2407.20454v1 by Junda Wu, Xintong Li, Tong Yu, Yu Wang, Xiang Chen, Jiuxiang Gu, Lina Yao, Jingbo Shang, Julian McAuley
@@ -1972,7 +1972,7 @@ public at https://github.com/fabvio/SANE.
 摘要：<paragraph>基於文字的編輯擴散模型在使用者的輸入指示不明確時，會展現有限的效能。為了解決這個問題，我們提出 $\textit{Specify ANd Edit}$ (SANE)，一個零次推論管線，適用於基於擴散的編輯系統。我們使用大型語言模型 (LLM) 將輸入指令分解成特定指令，也就是針對輸入影像套用良好定義的介入措施，以滿足使用者的要求。我們受益於 LLM 衍生的指令以及原始指令，這要歸功於專門為此任務設計的新穎去噪引導策略。我們使用三個基準和兩個資料集進行的實驗，證明了 SANE 在所有設定中的優點。此外，我們的管線改善了編輯模型的可解釋性，並提升了輸出多樣性。我們也證明了我們的做法可以應用於任何編輯，無論是否含糊不清。我們的程式碼已公開於 https://github.com/fabvio/SANE。</paragraph>
 
 ##### **Can Editing LLMs Inject Harm?**
-2407.20224v1 by Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu
+2407.20224v2 by Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu
 
 Knowledge editing techniques have been increasingly adopted to efficiently
 correct the false or outdated knowledge in Large Language Models (LLMs), due to
@@ -1988,16 +1988,16 @@ misinformation injection. Then, we find that editing attacks can inject both
 types of misinformation into LLMs, and the effectiveness is particularly high
 for commonsense misinformation injection. For the risk of bias injection, we
 discover that not only can biased sentences be injected into LLMs with high
-effectiveness, but also one single biased sentence injection can cause a high
-bias increase in general outputs of LLMs, which are even highly irrelevant to
-the injected sentence, indicating a catastrophic impact on the overall fairness
-of LLMs. Then, we further illustrate the high stealthiness of editing attacks,
+effectiveness, but also one single biased sentence injection can cause a bias
+increase in general outputs of LLMs, which are even highly irrelevant to the
+injected sentence, indicating a catastrophic impact on the overall fairness of
+LLMs. Then, we further illustrate the high stealthiness of editing attacks,
 measured by their impact on the general knowledge and reasoning capacities of
 LLMs, and show the hardness of defending editing attacks with empirical
 evidence. Our discoveries demonstrate the emerging misuse risks of knowledge
 editing techniques on compromising the safety alignment of LLMs.
 
-摘要：<paragraph>由於從頭開始重新訓練的成本很高，知識編輯技術已被廣泛採用，以有效修正大型語言模型 (LLM) 中錯誤或過時的知識。與此同時，一個關鍵但未充分探討的問題是：知識編輯是否可用於向 LLM 注入危害？在本文中，我們提議將知識編輯重新表述為 LLM 的一種新型安全威脅，即編輯攻擊，並使用新構建的資料集 EditAttack 進行系統性調查。具體來說，我們專注於編輯攻擊的兩個典型安全風險，包括錯誤訊息注入和偏差注入。對於錯誤訊息注入的風險，我們首先將其分類為常識錯誤訊息注入和長尾錯誤訊息注入。然後，我們發現編輯攻擊可以將這兩種錯誤訊息注入 LLM，且常識錯誤訊息注入的有效性特別高。對於偏差注入的風險，我們發現不僅可以將有偏差的句子以高效率注入 LLM，而且單一有偏差的句子注入會導致 LLM 整體輸出出現高偏差，甚至與注入的句子高度無關，這表示對 LLM 整體公平性的影響是災難性的。然後，我們進一步說明編輯攻擊的高度隱密性，透過其對 LLM 的一般知識和推理能力的影響來衡量，並透過經驗證據顯示防禦編輯攻擊的難度。我們的發現證明了知識編輯技術在危害 LLM 的安全比對方面出現的新興誤用風險。</paragraph>
+摘要：<paragraph>知識編輯技術已被廣泛採用，以有效更正大型語言模型 (LLM) 中錯誤或過時的知識，因為從頭開始重新訓練的成本很高。同時，一個關鍵但尚未充分探討的問題是：知識編輯是否可用於向 LLM 注入危害？在本文中，我們建議將知識編輯重新表述為 LLM 的一種新型安全威脅，即編輯攻擊，並使用新構建的資料集 EditAttack 進行系統調查。具體來說，我們專注於編輯攻擊的兩個典型安全風險，包括錯誤訊息注入和偏差注入。對於錯誤訊息注入的風險，我們首先將其分類為常識錯誤訊息注入和長尾錯誤訊息注入。然後，我們發現編輯攻擊可以將這兩種錯誤訊息注入 LLM，並且對於常識錯誤訊息注入，其有效性特別高。對於偏差注入的風險，我們發現不僅可以將有偏差的句子以高效率注入 LLM，而且一個有偏差的句子注入也會導致 LLM 的一般輸出出現偏差增加，這些輸出甚至與注入的句子高度無關，這表明對 LLM 的整體公平性產生了災難性的影響。然後，我們進一步說明了編輯攻擊的高度隱蔽性，其衡量標準是它們對 LLM 的一般知識和推理能力的影響，並展示了用實證證據防禦編輯攻擊的難度。我們的發現證明了知識編輯技術在損害 LLM 的安全對齊方面的濫用風險正在浮現。</paragraph>
 
 ##### **Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**
 2407.20311v1 by Tian Ye, Zicheng Xu, Yuanzhi Li, Zeyuan Allen-Zhu

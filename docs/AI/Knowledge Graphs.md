@@ -3,13 +3,13 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-30**|**Be aware of overfitting by hyperparameter optimization!**|Igor V. Tetko et.al.|[2407.20786v1](http://arxiv.org/abs/2407.20786v1)|null|
-|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|null|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|[link](https://github.com/Madjakul/HALvesting-Geometric)|
 |**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564v1](http://arxiv.org/abs/2407.20564v1)|null|
 |**2024-07-30**|**Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language**|Hossein Rajaby Faghihi et.al.|[2407.20513v1](http://arxiv.org/abs/2407.20513v1)|null|
 |**2024-07-29**|**What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**|Navapat Nananukul et.al.|[2407.20382v1](http://arxiv.org/abs/2407.20382v1)|null|
 |**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183v1](http://arxiv.org/abs/2407.20183v1)|[link](https://github.com/internlm/mindsearch)|
 |**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157v1](http://arxiv.org/abs/2407.20157v1)|[link](https://github.com/rllm-project/rllm)|
-|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643v1](http://arxiv.org/abs/2407.19643v1)|[link](https://github.com/iamryanshengwang/prometheus-chatbot)|
+|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643v2](http://arxiv.org/abs/2407.19643v2)|[link](https://github.com/iamryanshengwang/prometheus-chatbot)|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
 |**2024-07-26**|**GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**|Yuchen Shen et.al.|[2407.19039v1](http://arxiv.org/abs/2407.19039v1)|null|
@@ -280,7 +280,7 @@ https://github.com/rllm-project/rllm.
 https://github.com/rllm-project/rllm。
 
 ##### **Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**
-2407.19643v1 by Yunsheng Wang, Songhao Chen, Kevin Jin
+2407.19643v2 by Yunsheng Wang, Songhao Chen, Kevin Jin
 
 Knowledge graphs (KGs) are essential in applications such as network
 alignment, question-answering, and recommender systems (RSs) since they offer
@@ -297,7 +297,7 @@ components. This chatbot can accurately decode user requests and deliver
 personalized recommendations derived from KGs, ensuring precise comprehension
 and response to their computer setup needs.
 
-摘要：知識圖譜 (KG) 在網路比對、問答和推薦系統 (RS) 等應用中至關重要，因為它們提供結構化的關係資料，有助於推斷間接關係。然而，開發能夠處理自然語言使用者輸入的基於 KG 的 RS 會面臨重大挑戰。首先，自然語言處理單元必須有效處理人類語言中的歧義和變異性，以準確解讀使用者意圖。其次，系統必須精確識別和連結實體，例如產品名稱，到 KG 中對應的節點。為了克服這些挑戰，在聯想的支援下，我們開發了一個名為「普羅米修斯」的新聊天機器人，它將 KG 與大型語言模型 (LLM) 整合在一起，專門用於推薦電腦組件。這個聊天機器人可以準確解碼使用者的要求，並提供從 KG 中衍生的個人化推薦，確保準確理解和回應他們對電腦設定的需求。
+摘要：知識圖譜 (KG) 在網路比對、問答和推薦系統 (RS) 等應用中至關重要，因為它們提供結構化的關係資料，有助於推斷間接關係。然而，開發能夠處理自然語言使用者輸入的基於 KG 的 RS 面臨著重大的挑戰。首先，自然語言處理單元必須有效處理人類語言中的模糊性和變異性，才能準確地解釋使用者意圖。其次，系統必須準確識別和連結實體（例如產品名稱）到 KG 中對應的節點。為了克服這些挑戰，在聯想的支援下，我們開發了一款名為「普羅米修斯」的新聊天機器人，它將 KG 與大型語言模型 (LLM) 整合在一起，專門用於推薦電腦組件。此聊天機器人可以準確地解碼使用者要求，並提供從 KG 中衍生的個人化推薦，確保精確理解和回應其電腦設定需求。
 
 ##### **TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**
 2407.19616v1 by Selma Wanna, Ryan Barron, Nick Solovyev, Maksim E. Eren, Manish Bhattarai, Kim Rasmussen, Boian S. Alexandrov

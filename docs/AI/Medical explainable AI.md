@@ -44,6 +44,7 @@
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
 |**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v3](http://arxiv.org/abs/2404.03892v3)|null|
+|**2024-03-30**|**Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**|Xingrui Gu et.al.|[2404.00320v2](http://arxiv.org/abs/2404.00320v2)|null|
 |**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873v1](http://arxiv.org/abs/2403.17873v1)|null|
 |**2024-03-26**|**Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**|Han Yuan et.al.|[2403.18871v1](http://arxiv.org/abs/2403.18871v1)|[link](https://github.com/han-yuan-med/template-explanation)|
 |**2024-03-03**|**Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**|Séamus Lankford et.al.|[2403.01580v1](http://arxiv.org/abs/2403.01580v1)|null|
@@ -101,7 +102,6 @@
 |**2023-04-04**|**A Brief Review of Explainable Artificial Intelligence in Healthcare**|Zahra Sadeghi et.al.|[2304.01543v1](http://arxiv.org/abs/2304.01543v1)|null|
 |**2023-03-22**|**Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**|Frederik Pahde et.al.|[2303.12641v2](http://arxiv.org/abs/2303.12641v2)|[link](https://github.com/maxdreyer/reveal2revise)|
 |**2023-03-11**|**Explainable AI for Time Series via Virtual Inspection Layers**|Johanna Vielhaben et.al.|[2303.06365v1](http://arxiv.org/abs/2303.06365v1)|null|
-|**2023-03-08**|**Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**|Truong Thanh Hung Nguyen et.al.|[2303.04731v1](http://arxiv.org/abs/2303.04731v1)|[link](https://github.com/hungntt/xai_thyroid)|
 
 #### Abstracts
 ##### **MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**
@@ -1154,6 +1154,30 @@ to combine multimodal data and improve AI explanations to meet the needs of
 clinical practice.
 
 摘要：深度學習 (DL) 用於從乳房攝影術影像診斷乳癌的模型通常以「黑盒子」方式運作，這使得醫療保健專業人員難以信任和理解其決策過程。本研究提出一個整合架構，結合卷積神經網路 (CNN) 和可解釋人工智慧 (XAI)，以使用 CBIS-DDSM 資料集增強乳癌的診斷。方法包含一個精細的資料前處理管線和進階資料擴充技術，以對抗資料集限制，並採用預先訓練的網路（例如 VGG-16、Inception-V3 和 ResNet）進行遷移學習。我們研究的重點是評估 XAI 在解釋模型預測中的有效性，重點利用豪斯多夫測度量化評估 AI 生成的解釋和專家註解之間的一致性。這種方法對於 XAI 在促進 AI 輔助診斷中的可信度和倫理公平性至關重要。我們研究的發現說明了 CNN 和 XAI 在推進乳癌診斷方法中的有效協作，從而促進了先進 AI 技術在臨床環境中的更順暢整合。透過增強 AI 驅動決策的可解釋性，這項工作為 AI 系統和醫療從業人員之間的改善協作奠定了基礎，最終豐富了患者照護。此外，我們研究的影響遠遠超出了目前的技術。它鼓勵進一步研究如何結合多模式資料並改善 AI 解釋，以滿足臨床實務的需求。
+
+##### **Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**
+2404.00320v2 by Xingrui Gu, Zhixuan Wang, Irisa Jin, Zekun Wu
+
+This research presents a novel multimodal data fusion methodology for pain
+behavior recognition, integrating statistical correlation analysis with
+human-centered insights. Our approach introduces two key innovations: 1)
+integrating data-driven statistical relevance weights into the fusion strategy
+to effectively utilize complementary information from heterogeneous modalities,
+and 2) incorporating human-centric movement characteristics into multimodal
+representation learning for detailed modeling of pain behaviors. Validated
+across various deep learning architectures, our method demonstrates superior
+performance and broad applicability. We propose a customizable framework that
+aligns each modality with a suitable classifier based on statistical
+significance, advancing personalized and effective multimodal fusion.
+Furthermore, our methodology provides explainable analysis of multimodal data,
+contributing to interpretable and explainable AI in healthcare. By highlighting
+the importance of data diversity and modality-specific representations, we
+enhance traditional fusion techniques and set new standards for recognizing
+complex pain behaviors. Our findings have significant implications for
+promoting patient-centered healthcare interventions and supporting explainable
+clinical decision-making.
+
+摘要：本研究提出了一種創新的多模態數據融合方法，用於疼痛行為識別，將統計相關分析與以人為中心的見解相結合。我們的做法引入了兩項關鍵創新：1) 將數據驅動的統計相關權重整合到融合策略中，以有效利用來自異質模態的補充信息，以及 2) 將以人為中心的運動特徵納入多模態表示學習中，以詳細建模疼痛行為。我們的模型在各種深度學習架構中得到驗證，展示了卓越的性能和廣泛的適用性。我們提出了一個可自定義的框架，根據統計顯著性將每個模態與合適的分類器對齊，推進個性化和有效的多模態融合。此外，我們的模型提供對多模態數據的可解釋分析，有助於醫療保健中的可解釋和可解釋 AI。通過強調數據多樣性和模態特定表示的重要性，我們增強了傳統的融合技術，並為識別複雜的疼痛行為設定了新的標準。我們的發現對促進以患者為中心的醫療保健干預和支持可解釋的臨床決策制定具有重要意義。
 
 ##### **Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**
 2403.17873v1 by Andrea Ferrario, Alberto Termine, Alessandro Facchini
@@ -2544,22 +2568,4 @@ models trained in different domains (e.g., time vs. frequency domain) or helps
 to discover how models act on spurious correlations in the data.
 
 摘要：可解釋人工智慧 (XAI) 領域在近年來取得長足進步，但進展主要是在電腦視覺和自然語言處理方面。對於輸入通常無法解釋的時間序列，只有有限的研究可供使用 XAI。在這項工作中，我們提出了一個虛擬檢查層，它將時間序列轉換為可解釋的表示，並允許通過層級相關性傳播 (LRP) 等局部 XAI 方法將相關性歸因傳播到此表示。藉此，我們將一系列 XAI 方法的適用性擴展到輸入僅在轉換後才能解釋的領域（例如語音）。在此，我們專注於傅立葉轉換，它主要應用於時間序列和 LRP 的解釋，並將我們的稱之為 DFT-LRP。我們展示了 DFT-LRP 在各種時間序列分類設定（例如音訊和電子健康紀錄）中的效用。我們展示了 DFT-LRP 如何揭示在不同領域（例如時間與頻率域）訓練的模型的分類策略差異，或有助於發現模型如何處理資料中的虛假關聯。
-
-##### **Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**
-2303.04731v1 by Truong Thanh Hung Nguyen, Van Binh Truong, Vo Thanh Khang Nguyen, Quoc Hung Cao, Quoc Khanh Nguyen
-
-The ability to explain the prediction of deep learning models to end-users is
-an important feature to leverage the power of artificial intelligence (AI) for
-the medical decision-making process, which is usually considered
-non-transparent and challenging to comprehend. In this paper, we apply
-state-of-the-art eXplainable artificial intelligence (XAI) methods to explain
-the prediction of the black-box AI models in the thyroid nodule diagnosis
-application. We propose new statistic-based XAI methods, namely Kernel Density
-Estimation and Density map, to explain the case of no nodule detected. XAI
-methods' performances are considered under a qualitative and quantitative
-comparison as feedback to improve the data quality and the model performance.
-Finally, we survey to assess doctors' and patients' trust in XAI explanations
-of the model's decisions on thyroid nodule images.
-
-摘要：解釋深度學習模型預測結果的能力對最終使用者而言是一項重要功能，可利用人工智慧 (AI) 的力量進行醫療決策流程，這通常被認為是不透明且難以理解的。在本文中，我們運用最先進的可解釋人工智慧 (XAI) 方法來解釋黑盒 AI 模型在甲狀腺結節診斷應用中的預測結果。我們提出新的基於統計的 XAI 方法，即核密度估計和密度圖，來解釋未檢測到結節的情況。XAI 方法的效能會在定性和定量比較下被視為改善資料品質和模型效能的回饋。最後，我們進行調查以評估醫師和患者對 XAI 對模型在甲狀腺結節影像中決策的解釋的信任度。
 

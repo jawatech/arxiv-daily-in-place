@@ -3,12 +3,12 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708v1](http://arxiv.org/abs/2407.21708v1)|null|
-|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v1](http://arxiv.org/abs/2407.21483v1)|null|
+|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v2](http://arxiv.org/abs/2407.21483v2)|null|
 |**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358v1](http://arxiv.org/abs/2407.21358v1)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293v1](http://arxiv.org/abs/2407.21293v1)|null|
 |**2024-07-30**|**Be aware of overfitting by hyperparameter optimization!**|Igor V. Tetko et.al.|[2407.20786v1](http://arxiv.org/abs/2407.20786v1)|null|
-|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|[link](https://github.com/Madjakul/HALvesting-Geometric)|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|null|
 |**2024-07-30**|**CLR-Fact: Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge**|Tianshi Zheng et.al.|[2407.20564v1](http://arxiv.org/abs/2407.20564v1)|null|
 |**2024-07-30**|**Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language**|Hossein Rajaby Faghihi et.al.|[2407.20513v1](http://arxiv.org/abs/2407.20513v1)|null|
 |**2024-07-29**|**What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models**|Navapat Nananukul et.al.|[2407.20382v1](http://arxiv.org/abs/2407.20382v1)|null|
@@ -58,7 +58,7 @@
 |**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
-|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v2](http://arxiv.org/abs/2407.08516v2)|null|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v3](http://arxiv.org/abs/2407.08516v3)|null|
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
@@ -128,7 +128,7 @@ complementary information to ChEBI, and can help to extend it.
 摘要：本体是特定領域中知識的形式化表示，它提供了一個結構化的框架，用於組織和理解複雜的資訊。然而，建立本体是一項複雜且耗時的努力。ChEBI 是化學領域中一個著名的本体，它提供了一個全面的資源，用於定義化學實體及其屬性。然而，它僅涵蓋了化學領域快速增長的知識中的一小部分，並且沒有提供科學文獻的參考。為了解決這個問題，我們提出了一種方法，它涉及使用來自 Chebi 的知識擴充現有的註釋文本語料庫，並微調大型語言模型 (LLM)，以識別化學實體及其在科學文本中的作用。我們的實驗證明了我們方法的有效性。透過結合本体知識和 LLM 的語言理解能力，我們在識別科學文獻中的化學實體和作用方面達到了很高的準確度和召回率。此外，我們從一組 8,000 篇 ChemRxiv 文章中提取它們，並應用第二個 LLM 來建立一個化學實體和作用 (CEAR) 的知識圖譜 (KG)，它提供補充 ChEBI 的資訊，並有助於擴充它。
 
 ##### **eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**
-2407.21483v1 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
+2407.21483v2 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
 
 Over the past few years, we have seen the emergence of large knowledge graphs
 combining information from multiple sources. Sometimes, this information is
@@ -146,7 +146,7 @@ language can express four use case queries, including the following features:
 (iii) querying who is conflicting with somebody, and (iv) beliefs about beliefs
 (i.e., nesting of beliefs).
 
-摘要：<paragraph>在過去幾年中，我們已經看到大型知識圖譜的出現，它結合了來自多個來源的資訊。有時候，這些資訊會以對其他斷言的斷言形式提供，定義斷言有效的脈絡。最近對 RDF 的擴充，它允許對斷言進行陳述，稱為 RDF 星號，正在進行修訂以成為 W3C 標準。然而，對於這些 RDF 星號陳述的語義或對它們進行運算的內建功能，並沒有任何提案。在本文中，我們提出了一種基於四值邏輯的認知 RDF 星號元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF 星號的查詢語言 SPARQL 星號，新增了一種類型的 FROM 子句，以利於使用多重且有時相互衝突的信念進行運算。我們展示了所提出的查詢語言可以表達四種使用案例查詢，包括以下功能：(i) 查詢個人的信念，(ii) 信念的匯總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。</paragraph>
+摘要：在過去幾年，我們已經看到大型知識圖譜的出現，結合來自多個來源的資訊。有時，此資訊以對其他斷言的斷言形式提供，定義斷言有效的脈絡。RDF 的最新擴充允許對斷言進行陳述，稱為 RDF-star，目前正在修訂為 W3C 標準。然而，沒有針對這些 RDF-star 陳述的語義提出建議，也沒有內建的運作工具。在本文中，我們提出一個基於四值邏輯的知識 RDF-star 元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF-star 的查詢語言 SPARQL-star，並使用新的 FROM 子句類型來促進運作，包括多重且有時衝突的信念。我們展示了所提出的查詢語言可以表達四個用例查詢，包括下列功能：(i) 查詢個人的信念，(ii) 信念的彙總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。
 
 ##### **Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**
 2407.21452v1 by Haodong Hong, Sen Wang, Zi Huang, Qi Wu, Jiajun Liu
@@ -1427,7 +1427,7 @@ ground-truth baseline.
 摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
 
 ##### **Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**
-2407.08516v2 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
+2407.08516v3 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
 
 This article explores the convergence of connectionist and symbolic
 artificial intelligence (AI), from historical debates to contemporary
@@ -1449,7 +1449,7 @@ capabilities. By exploring the progression of neuro-symbolic AI and proposing
 future research trajectories, this work advances the understanding and
 development of AI technologies.
 
-摘要：本文探討了連線主義與符號人工智慧（AI）的融合，從歷史辯論到當代進展。連線主義 AI 傳統上被視為不同的範式，專注於神經網路，而符號 AI 則強調符號表徵與邏輯。大型語言模型（LLM）的最新進展，例如 ChatGPT 和 GPT-4，突顯了連線主義架構在將人類語言視為符號形式處理方面的潛力。研究認為，由 LLM 賦能的自主代理（LAA）體現了這種範式融合。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原則，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突出了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而無需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和隱式推理中前景看好的途徑，旨在進一步增強 LAA 能力。透過探索神經符號 AI 的進展並提出未來的研究軌跡，這項工作推動了 AI 技術的理解和發展。
+摘要：本文探討了連線主義與符號人工智慧 (AI) 的融合，從歷史辯論到當代進展。連線主義 AI 傳統上被視為不同的範例，專注於神經網路，而符號 AI 則強調符號表徵和邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連線主義架構在將人類語言視為符號形式處理方面的潛力。研究認為，由 LLM 賦能的自主代理 (LAA) 體現了這種範例融合。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原則，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而無需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和隱式推理中前景看好的途徑，旨在進一步增強 LAA 的能力。透過探討神經符號 AI 的進展並提出未來的研究方向，這項工作推進了對 AI 技術的理解和發展。
 
 ##### **A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**
 2407.07966v1 by Arastoo Zibaeirad, Farnoosh Koleini, Shengping Bi, Tao Hou, Tao Wang

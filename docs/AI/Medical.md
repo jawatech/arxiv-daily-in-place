@@ -49,7 +49,7 @@
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
 |**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|[link](https://github.com/scjjb/MultiscalePathGraph)|
-|**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v1](http://arxiv.org/abs/2407.17879v1)|null|
+|**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v2](http://arxiv.org/abs/2407.17879v2)|null|
 |**2024-07-25**|**EEG-SSM: Leveraging State-Space Model for Dementia Detection**|Xuan-The Tran et.al.|[2407.17801v1](http://arxiv.org/abs/2407.17801v1)|null|
 |**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
 |**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734v1](http://arxiv.org/abs/2407.17734v1)|[link](https://github.com/jlinekai/clover)|
@@ -1291,7 +1291,7 @@ robustness and usability of the models.
 摘要：電腦視覺模型越來越能夠分類卵巢上皮癌的亞型，但它們與病理學家不同，它們以單一解析度處理小組織貼片。多解析度圖形模型利用多個放大倍率下貼片的空間關係，學習每個貼片的背景。在這項研究中，我們對圖形模型進行了迄今為止最徹底的卵巢癌亞型驗證。使用 434 名在利茲教學醫院 NHS 信託基金接受治療的患者的 1864 張全幻燈片影像 (WSI) 進行五倍交叉驗證，調整並訓練了七個模型。將交叉驗證模型集成並使用來自 30 名患者的 100 張 WSI 的平衡留出測試集和來自 Transcanadian 研究中 80 名患者的 80 張 WSI 的外部驗證集進行評估。表現最佳的模型，一個使用 10 倍+20 倍放大倍率資料的圖形模型，在交叉驗證、留出測試和外部驗證中分別給出 73%、88% 和 99% 的平衡準確度。然而，這僅超過了外部驗證中基於注意力的多實例學習的表現，平衡準確度為 93%。圖形模型從使用 UNI 基礎模型而不是 ImageNet 預訓練的 ResNet50 進行特徵提取中受益匪淺，與改變後續分類方法相比，這對效能有更大的影響。結合基礎模型和多解析度圖形網路的準確度為這些模型的臨床應用邁出了一步，對於這項任務來說，這是新的最高報告表現，儘管仍需要進一步的驗證來確保模型的穩健性和可用性。
 
 ##### **HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**
-2407.17879v1 by Qingyu Guo, Jiayong Wan, Songqiang Xu, Meng Li, Yuan Wang
+2407.17879v2 by Qingyu Guo, Jiayong Wan, Songqiang Xu, Meng Li, Yuan Wang
 
 Vision Transformer (ViT) acceleration with field programmable gate array
 (FPGA) is promising but challenging. Existing FPGA-based ViT accelerators
@@ -1313,7 +1313,7 @@ e.g., AutoViTAcc. With a VCK190 FPGA, HG-PIPE realizes end-to-end ViT
 acceleration on a single device and achieves 7118 images/s, which is 2.81 times
 faster than a V100 GPU.
 
-摘要：視覺轉換器 (ViT) 與現場可編程閘陣列 (FPGA) 的加速很有前景，但也充滿挑戰。現有的基於 FPGA 的 ViT 加速器主要依賴於暫態架構，它透過重複使用相同的硬體區塊來處理不同的運算子，並承受大量的記憶體存取開銷。管線架構（無論是粗粒度或細粒度）在空間上展開 ViT 計算以提高記憶體存取效率。然而，它們通常會受到顯著的硬體資源限制和由 ViT 的全局計算依賴性所引發的管線氣泡。在本文中，我們介紹了 HG-PIPE，這是一種用於高通量和低延遲 ViT 處理的管線式 FPGA 加速器。HG-PIPE 採用混合粒度管線架構來降低晶片緩衝成本，並結合計算資料流和並行設計以消除管線氣泡。HG-PIPE 進一步引入了仔細的近似值，以使用豐富的查找表 (LUT) 來實作線性和非線性運算子，從而減輕資源限制。在 ZCU102 FPGA 上，HG-PIPE 的吞吐量比先進的加速器（例如 AutoViTAcc）高出 2.78 倍，資源效率高出 2.52 倍。使用 VCK190 FPGA，HG-PIPE 在單一裝置上實現端到端的 ViT 加速，並達到每秒 7118 張影像，比 V100 GPU 快 2.81 倍。
+摘要：視覺變換器 (ViT) 加速與現場可編程閘陣列 (FPGA) 充滿前景，但具有挑戰性。現有的基於 FPGA 的 ViT 加速器主要依賴於時間架構，它透過重複使用相同的硬體區塊來處理不同的運算子，並承受大量的記憶體存取負擔。無論是粗粒度或細粒度，流水線架構都會在空間上展開 ViT 計算以提高記憶體存取效率。然而，它們通常會受到顯著的硬體資源限制和由 ViT 的全局計算依賴性所引發的流水線氣泡影響。在本文中，我們介紹 HG-PIPE，一種用於高通量和低延遲 ViT 處理的流水線 FPGA 加速器。HG-PIPE 採用混合粒度流水線架構以降低晶片緩衝成本，並結合計算資料流程和並行設計以消除流水線氣泡。HG-PIPE 進一步引入仔細的近似值，以使用豐富的查閱表 (LUT) 實作線性和非線性運算子，從而減輕資源限制。在 ZCU102 FPGA 上，HG-PIPE 的處理量比現有加速器（例如 AutoViTAcc）高出 2.78 倍，資源效率高出 2.52 倍。使用 VCK190 FPGA，HG-PIPE 在單一裝置上實現端到端的 ViT 加速，並實現每秒 7118 張影像，比 V100 GPU 快 2.81 倍。
 
 ##### **EEG-SSM: Leveraging State-Space Model for Dementia Detection**
 2407.17801v1 by Xuan-The Tran, Linh Le, Quoc Toan Nguyen, Thomas Do, Chin-Teng Lin

@@ -11,7 +11,7 @@
 |**2024-07-31**|**ShieldGemma: Generative AI Content Moderation Based on Gemma**|Wenjun Zeng et.al.|[2407.21772v1](http://arxiv.org/abs/2407.21772v1)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770v1](http://arxiv.org/abs/2407.21770v1)|null|
 |**2024-07-31**|**HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection**|Junwei He et.al.|[2407.21742v1](http://arxiv.org/abs/2407.21742v1)|null|
-|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740v1](http://arxiv.org/abs/2407.21740v1)|null|
+|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740v2](http://arxiv.org/abs/2407.21740v2)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|null|
 |**2024-07-31**|**Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos**|Joseph Geo Benjamin et.al.|[2407.21738v1](http://arxiv.org/abs/2407.21738v1)|null|
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721v1](http://arxiv.org/abs/2407.21721v1)|null|
@@ -24,7 +24,7 @@
 |**2024-07-31**|**Universal Approximation Theory: Foundations for Parallelism in Neural Networks**|Wei Wang et.al.|[2407.21670v1](http://arxiv.org/abs/2407.21670v1)|null|
 |**2024-07-31**|**Synth-Empathy: Towards High-Quality Synthetic Empathy Data**|Hao Liang et.al.|[2407.21669v1](http://arxiv.org/abs/2407.21669v1)|null|
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666v1](http://arxiv.org/abs/2407.21666v1)|null|
-|**2024-07-31**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659v1](http://arxiv.org/abs/2407.21659v1)|null|
+|**2024-07-31**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659v2](http://arxiv.org/abs/2407.21659v2)|null|
 |**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652v1](http://arxiv.org/abs/2407.21652v1)|null|
 |**2024-07-31**|**Human interaction classifier for LLM based chatbot**|Diego Martín et.al.|[2407.21647v1](http://arxiv.org/abs/2407.21647v1)|null|
 |**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
@@ -48,10 +48,10 @@
 |**2024-07-31**|**Interpreting and learning voice commands with a Large Language Model for a robot system**|Stanislau Stankevich et.al.|[2407.21512v1](http://arxiv.org/abs/2407.21512v1)|null|
 |**2024-07-31**|**FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication**|Yuna Yan et.al.|[2407.21507v1](http://arxiv.org/abs/2407.21507v1)|null|
 |**2024-07-31**|**MaskUno: Switch-Split Block For Enhancing Instance Segmentation**|Jawad Haidar et.al.|[2407.21498v1](http://arxiv.org/abs/2407.21498v1)|null|
-|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
+|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v2](http://arxiv.org/abs/2407.21491v2)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490v1](http://arxiv.org/abs/2407.21490v1)|null|
 |**2024-07-31**|**Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends**|Giuliano Martinelli et.al.|[2407.21489v1](http://arxiv.org/abs/2407.21489v1)|null|
-|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v1](http://arxiv.org/abs/2407.21483v1)|null|
+|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v2](http://arxiv.org/abs/2407.21483v2)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475v1](http://arxiv.org/abs/2407.21475v1)|null|
 |**2024-07-31**|**An Invertible State Space for Process Trees**|Gero Kolhof et.al.|[2407.21468v1](http://arxiv.org/abs/2407.21468v1)|null|
@@ -60,7 +60,7 @@
 |**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453v1](http://arxiv.org/abs/2407.21453v1)|null|
 |**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
 |**2024-07-31**|**Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency**|Taiji Li et.al.|[2407.21443v1](http://arxiv.org/abs/2407.21443v1)|null|
-|**2024-07-31**|**QuestGen: Effectiveness of Question Generation Methods for Fact-Checking Applications**|Rivik Setty et.al.|[2407.21441v1](http://arxiv.org/abs/2407.21441v1)|null|
+|**2024-07-31**|**QuestGen: Effectiveness of Question Generation Methods for Fact-Checking Applications**|Ritvik Setty et.al.|[2407.21441v2](http://arxiv.org/abs/2407.21441v2)|null|
 |**2024-07-31**|**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**|Zhanpeng Chen et.al.|[2407.21439v1](http://arxiv.org/abs/2407.21439v1)|null|
 |**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428v1](http://arxiv.org/abs/2407.21428v1)|null|
 |**2024-07-31**|**Cost-Effective Hallucination Detection for LLMs**|Simon Valentin et.al.|[2407.21424v1](http://arxiv.org/abs/2407.21424v1)|null|
@@ -78,7 +78,7 @@
 |**2024-07-31**|**Performance of Recent Large Language Models for a Low-Resourced Language**|Ravindu Jayakody et.al.|[2407.21330v1](http://arxiv.org/abs/2407.21330v1)|null|
 |**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320v1](http://arxiv.org/abs/2407.21320v1)|null|
 |**2024-07-31**|**Big Cooperative Learning**|Yulai Cong et.al.|[2407.21319v1](http://arxiv.org/abs/2407.21319v1)|null|
-|**2024-07-31**|**Beyond Silent Letters: Amplifying LLMs in Emotion Recognition with Vocal Nuances**|Zehui Wu et.al.|[2407.21315v1](http://arxiv.org/abs/2407.21315v1)|null|
+|**2024-07-31**|**Beyond Silent Letters: Amplifying LLMs in Emotion Recognition with Vocal Nuances**|Zehui Wu et.al.|[2407.21315v2](http://arxiv.org/abs/2407.21315v2)|null|
 |**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311v1](http://arxiv.org/abs/2407.21311v1)|null|
 |**2024-07-31**|**Implementing Streaming algorithm and k-means clusters to RAG**|Haoyu Kang et.al.|[2407.21300v1](http://arxiv.org/abs/2407.21300v1)|null|
 |**2024-07-31**|**Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models**|Kaustav Bhattacharjee et.al.|[2407.21299v1](http://arxiv.org/abs/2407.21299v1)|null|
@@ -318,7 +318,7 @@ detection models across all 8 real datasets.
 摘要：隨著深度圖形學習的進步，圖形資料的分布外 (OOD) 偵測已成為一項關鍵挑戰。雖然輔助資料集在增強影像和文字資料的 OOD 偵測方面已獲得廣泛研究，但此類方法尚未探索圖形資料。與歐幾里得資料不同，圖形資料展現出更大的多樣性，但對擾動的魯棒性較低，使離群值的整合複雜化。為了應對這些挑戰，我們提出引入\textbf{H}ybrid\textbf{E}xternal and \textbf{I}nternal \textbf{G}raph \textbf{O}utlier \textbf{E}xposure (HGOE) 以提升圖形 OOD 偵測效能。我們的架構涉及使用來自不同領域的真實外部圖形資料，並在 ID 子群中合成內部離群值，以解決 ID 類別中 OOD 樣本的魯棒性差和存在性問題。此外，我們開發了一種邊界感知 OE 損失，可適應性地將權重分配給離群值，最大化高品質 OOD 樣本的使用，同時最小化低品質樣本的影響。我們提出的 HGOE 架構與模型無關，旨在提升現有圖形 OOD 偵測模型的效能。實驗結果證明，我們的 HGOE 架構可以顯著提升現有 OOD 偵測模型在所有 8 個真實資料集中的效能。
 
 ##### **Contrastive Factor Analysis**
-2407.21740v1 by Zhibin Duan, Tiansheng Wen, Yifei Wang, Chen Zhu, Bo Chen, Mingyuan Zhou
+2407.21740v2 by Zhibin Duan, Tiansheng Wen, Yifei Wang, Chen Zhu, Bo Chen, Mingyuan Zhou
 
 Factor analysis, often regarded as a Bayesian variant of matrix
 factorization, offers superior capabilities in capturing uncertainty, modeling
@@ -341,7 +341,7 @@ the proposed contrastive (non-negative) factor analysis methodology across
 multiple key properties, including expressiveness, robustness,
 interpretability, and accurate uncertainty estimation.
 
-摘要：因子分析通常被視為矩陣分解的貝氏變體，在捕捉不確定性、建模複雜依賴關係和確保穩健性方面提供卓越的能力。隨著深度學習時代的到來，由於其表達能力有限，因子分析受到的關注越來越少。相反，對比學習已成為一種強有力的技術，在無監督表示學習中展現出顯著的功效。雖然這兩種方法是不同的範例，但最近的理論分析揭示了對比學習和矩陣分解之間的數學等價性，為結合對比學習的因子分析提供了潛在可能性。受對比學習、矩陣分解和因子分析之間的相互聯繫的啟發，本文介紹了一個新穎的對比因子分析框架，旨在利用因子分析在對比學習領域內的優勢屬性。為了進一步利用非負因子分析的可解釋性屬性（它可以學習解開的表示），對比因子分析被擴展到非負版本。最後，廣泛的實驗驗證展示了所提出的對比（非負）因子分析方法在多個關鍵屬性（包括表達性、穩健性、可解釋性和準確的不確定性估計）上的有效性。
+摘要：因子分析通常被视为矩阵分解的贝叶斯变体，在捕获不确定性、建模复杂依赖关系和确保稳健性方面具有卓越的能力。随着深度学习时代的到来，因子分析由于其表达能力有限而受到越来越少的关注。相反，对比学习已经成为一种有效的技术，在无监督表征学习中显示出功效。虽然这两种方法是不同的范式，但最近的理论分析揭示了对比学习和矩阵分解之间的数学等价性，为因子分析结合对比学习提供了潜在的可能性。受对比学习、矩阵分解和因子分析的相互联系的启发，本文介绍了一种新颖的对比因子分析框架，旨在利用因子分析在对比学习领域中的优势特性。为了进一步利用非负因子分析的可解释性，它可以学习解耦表征，将对比因子分析扩展到非负版本。最后，广泛的实验验证展示了所提出的对比（非负）因子分析方法在多个关键属性（包括表达性、鲁棒性、可解释性和准确的不确定性估计）上的有效性。
 
 ##### **A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**
 2407.21739v1 by Mothilal Asokan, Joseph Geo Benjamin, Mohammad Yaqub, Karthik Nandakumar
@@ -642,7 +642,7 @@ improved crop management.
 摘要：及早偵測乾旱壓力，對於在乾旱影響變得不可逆轉之前採取適時措施以減少作物損失至關重要。非侵入式影像技術可捕捉到對乾旱壓力產生的細微表型和生理變化，而這些影像資料可作為機器學習方法識別乾旱壓力的寶貴資源。雖然卷積神經網路 (CNN) 被廣泛使用，但視覺Transformer (ViT) 在捕捉長程依賴關係和複雜空間關係方面提供了有前景的替代方案，從而增強了對乾旱壓力的細微指標的偵測。我們提出了一個可解釋的深度學習管道，它利用 ViT 的功能來偵測馬鈴薯作物中的乾旱壓力，並使用航拍影像。我們應用兩種不同的方法：ViT 和支援向量機 (SVM) 的協同組合，其中 ViT 從航拍影像中萃取複雜的空間特徵，而 SVM 將作物分類為受壓或健康，以及使用 ViT 內的專用分類層的端到端方法來直接偵測乾旱壓力。我們的關鍵發現透過視覺化注意力圖來解釋 ViT 模型的決策過程。這些圖突顯了 ViT 模型關注的航拍影像中的特定空間特徵，作為乾旱壓力的特徵。我們的發現表明，所提出的方法不僅在乾旱壓力識別中實現了高準確度，而且還闡明了與乾旱壓力相關的各種細微植物特徵。這為乾旱壓力監控提供了一個強大且可解釋的解決方案，讓農民可以做出明智的決策，以改善作物管理。
 
 ##### **Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**
-2407.21659v1 by Yue Xu, Xiuyuan Qi, Zhan Qin, Wenjie Wang
+2407.21659v2 by Yue Xu, Xiuyuan Qi, Zhan Qin, Wenjie Wang
 
 Vision Language Models (VLMs) extend the capacity of LLMs to comprehensively
 understand vision information, achieving remarkable performance in many
@@ -668,9 +668,7 @@ computation cost. Extensive experimental results demonstrate the effectiveness
 and efficiency of $\textit{CIDER}$, as well as its transferability to both
 white-box and black-box VLMs.
 
-摘要：<paragraph>視覺語言模型 (VLM) 擴展了 LLM 的能力，以全面了解視覺資訊，在許多以視覺為中心的任務中取得顯著的表現。儘管如此，最近的研究表明，這些模型容易受到越獄攻擊，這是一種剝削技術，其中惡意使用者可以打破目標模型的安全對齊，並產生具有誤導性和有害性的答案。這種潛在威脅是由於 LLM 本身的漏洞和視覺輸入所帶來的更大攻擊範圍所造成的。為了增強 VLM 對抗越獄攻擊的安全性，研究人員開發了各種防禦技術。然而，這些方法需要修改模型的內部結構或在推理階段需要大量的計算資源。多模態資訊是一把雙面刃。雖然它增加了攻擊的風險，但它也提供了可以增強防護的額外資料。受到此啟發，我們提出$\underline{\textbf{C}}$ross-modality
-$\underline{\textbf{I}}$nformation
-$\underline{\textbf{DE}}$tecto$\underline{\textbf{R}}$ ($\textit{CIDER}$)，一個即插即用的越獄檢測器，旨在識別惡意擾動的影像輸入，利用有害查詢和對抗影像之間的跨模態相似性。這個簡單但有效的跨模態資訊檢測器 $\textit{CIDER}$ 獨立於目標 VLM，並且需要較少的運算成本。大量的實驗結果證明了 $\textit{CIDER}$ 的有效性和效率，以及它對白盒和黑盒 VLM 的可移植性。</paragraph>
+摘要：<paragraph>視覺語言模型 (VLM) 擴展了 LLM 全面理解視覺資訊的能力，在許多以視覺為中心的任务中取得顯著的表現。儘管如此，最近的研究顯示，這些模型容易受到越獄攻擊，這是一種剝削技術，惡意使用者可以破壞目標模型的安全對齊，並產生具有誤導性和危害性的答案。這種潛在威脅是由 LLM 的固有漏洞和視覺輸入引入的更大攻擊範圍所造成的。為了增強 VLM 對抗越獄攻擊的安全性，研究人員開發了各種防禦技術。然而，這些方法需要修改模型的內部結構，或在推理階段需要大量的計算資源。多模態資訊是一把雙面刃。雖然它增加了攻擊風險，但它也提供了可以增強防護措施的額外資料。受此啟發，我們提出跨模態資訊偵測器 ($\textit{CIDER}$)，這是一個即插即用的越獄偵測器，旨在識別惡意擾動的影像輸入，利用有害查詢和對抗性影像之間的跨模態相似性。這個簡單但有效的跨模態資訊偵測器 $\textit{CIDER}$ 獨立於目標 VLM，並且需要較少的計算成本。廣泛的實驗結果證明了 $\textit{CIDER}$ 的有效性和效率，以及它對白盒和黑盒 VLM 的可移植性。</paragraph>
 
 ##### **Spatial Transformer Network YOLO Model for Agricultural Object Detection**
 2407.21652v1 by Yash Zambre, Ekdev Rajkitkul, Akshatha Mohan, Joshua Peeples
@@ -1174,7 +1172,7 @@ typ
 摘要：實例分割是影像分割的進階形式，除了傳統分割之外，還需要識別場景中重複物體的個別實例。Mask R-CNN 是實例分割最常見的架構，而對此架構的改進包括從邊界框優化、加入語意或主幹增強等步驟。在迄今為止提出的所有變體中，當模型嘗試同步學習多個類別時，競爭核心的問題（每個類別都旨在最大化其自身準確度）仍然存在。在本文中，我們提出透過將遮罩預測替換為處理精緻 ROI、對其分類並將其分配給專門遮罩預測器的開關分割區塊來減輕此問題。我們將此方法命名為 MaskUno，並在來自文獻的各種模型上對其進行測試，然後使用基準 COCO 資料集對其進行多個類別的訓練。在 80 個類別上進行訓練時，高性能 DetectoRS 的平均準確度 (mAP) 觀察到增加了 2.03%。無論類別數量和
 
 ##### **Generative Expressive Conversational Speech Synthesis**
-2407.21491v1 by Rui Liu, Yifan Hu, Ren Yi, Yin Xiang, Haizhou Li
+2407.21491v2 by Rui Liu, Yifan Hu, Yi Ren, Xiang Yin, Haizhou Li
 
 Conversational Speech Synthesis (CSS) aims to express a target utterance with
 the proper speaking style in a user-agent conversation setting. Existing CSS
@@ -1201,7 +1199,7 @@ other state-of-the-art CSS systems significantly in terms of naturalness and
 expressiveness. The Code, Dataset, and Pre-trained Model are available at:
 https://github.com/AI-S2-Lab/GPT-Talker.
 
-摘要：對話式語音合成 (CSS) 旨在在使用者代理對話設定中，以適當的說話風格表達目標語句。現有的 CSS 方法採用有效的多模式脈絡建模技術，以達成同理理解與表達。然而，他們經常需要設計複雜的網路架構，並仔細優化其中的模組。此外，由於包含腳本錄製風格的小規模資料集的限制，他們經常無法模擬真實自然的對話風格。為了解決上述問題，我們提出了一個新穎的生成表達式 CSS 系統，稱為 GPT-Talker。我們將多輪對話歷程的多模式資訊轉換為離散的符號序列，並將它們無縫整合，以形成一個全面的使用者代理對話脈絡。利用 GPT 的強大功能，我們預測了回應的符號序列，其中包括代理的語意和風格知識。在那之後，表達式的對話式語音由對話豐富的 VITS 合成，以向使用者提供回饋。此外，我們提出了一個名為 NCSSD 的大型自然 CSS 資料集，其中包括以即興風格自然錄製的對話式語音，以及從電視節目中擷取的對話。它包含中文和英文，總時長為 236 小時。我們對 NCSSD 的可靠性和我們 GPT-Talker 的有效性進行了全面的實驗。主觀和客觀評估均證明，我們的模型在自然性和表現力方面明顯優於其他最先進的 CSS 系統。程式碼、資料集和預訓練模型可在以下網址取得：https://github.com/AI-S2-Lab/GPT-Talker。
+摘要：對話式語音合成 (CSS) 旨在以適當的說話風格在使用者代理對話設定中表達目標話語。現有的 CSS 方法採用有效的多模式語境建模技術來達成同理理解和表達。然而，他們經常需要設計複雜的網路架構並精心最佳化其中的模組。此外，由於包含腳本記錄風格的小規模資料集的限制，他們經常無法模擬真實自然的對話風格。為了解決上述問題，我們提出了一個創新的生成式表達性 CSS 系統，稱為 GPT-Talker。我們將多輪對話歷史的多模式資訊轉換為離散的符號序列，並將它們無縫整合以形成全面的使用者代理對話語境。利用 GPT 的功能，我們預測回應的符號序列，其中包含語義和風格知識，以供代理使用。在那之後，由對話豐富的 VITS 合成富有表現力的對話式語音，以向使用者提供回饋。此外，我們提出了一個稱為 NCSSD 的大型自然 CSS 資料集，其中包含以即興風格自然記錄的對話式語音和從電視節目中擷取的對話。它包含中文和英文，總時長為 236 小時。我們對 NCSSD 的可靠性和我們 GPT-Talker 的有效性進行了全面的實驗。主觀和客觀評估都證明，我們的模型在自然性和表現力方面顯著優於其他最先進的 CSS 系統。程式碼、資料集和預先訓練的模型可在以下位置取得：https://github.com/AI-S2-Lab/GPT-Talker。
 
 ##### **Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**
 2407.21490v1 by Junxuan Yu, Rusi Chen, Yongsong Zhou, Yanlin Chen, Yaofei Duan, Yuhao Huang, Han Zhou, Tan Tao, Xin Yang, Dong Ni
@@ -1253,7 +1251,7 @@ research purposes at https://github.com/SapienzaNLP/maverick-coref.
 摘要：大型自回归生成模型已成为在多项自然语言处理任务中实现最高性能的基石。然而，追求卓越成果的冲动有时会导致在没有详尽实验的情况下过早替换精心设计的特定任务方法。共指消解任务也不例外；所有最近的最新解决方案都采用大型生成自回归模型，其性能优于基于编码器的判别系统。在这项工作中，我们通过引入 Maverick 来挑战这一最新趋势，Maverick 是一款精心设计但简单的管道，它可以在学术预算的限制内运行最先进的共指消解系统，其性能优于多达 130 亿参数的模型，而参数却少至 5 亿。Maverick 在 CoNLL-2012 基准测试中实现了最先进的性能，训练时使用的内存资源最多为 0.006 倍，并且与之前的最先进系统相比，推理速度提高了 170 倍。我们通过一系列不同的实验广泛验证了 Maverick 框架的鲁棒性，报告了在数据稀缺、长文档和域外设置中对先前系统的改进。我们在 https://github.com/SapienzaNLP/maverick-coref 上发布我们的代码和模型以用于研究目的。
 
 ##### **eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**
-2407.21483v1 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
+2407.21483v2 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
 
 Over the past few years, we have seen the emergence of large knowledge graphs
 combining information from multiple sources. Sometimes, this information is
@@ -1271,7 +1269,7 @@ language can express four use case queries, including the following features:
 (iii) querying who is conflicting with somebody, and (iv) beliefs about beliefs
 (i.e., nesting of beliefs).
 
-摘要：<paragraph>在過去幾年中，我們已經看到大型知識圖譜的出現，它結合了來自多個來源的資訊。有時候，這些資訊會以對其他斷言的斷言形式提供，定義斷言有效的脈絡。最近對 RDF 的擴充，它允許對斷言進行陳述，稱為 RDF 星號，正在進行修訂以成為 W3C 標準。然而，對於這些 RDF 星號陳述的語義或對它們進行運算的內建功能，並沒有任何提案。在本文中，我們提出了一種基於四值邏輯的認知 RDF 星號元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF 星號的查詢語言 SPARQL 星號，新增了一種類型的 FROM 子句，以利於使用多重且有時相互衝突的信念進行運算。我們展示了所提出的查詢語言可以表達四種使用案例查詢，包括以下功能：(i) 查詢個人的信念，(ii) 信念的匯總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。</paragraph>
+摘要：在過去幾年，我們已經看到大型知識圖譜的出現，結合來自多個來源的資訊。有時，此資訊以對其他斷言的斷言形式提供，定義斷言有效的脈絡。RDF 的最新擴充允許對斷言進行陳述，稱為 RDF-star，目前正在修訂為 W3C 標準。然而，沒有針對這些 RDF-star 陳述的語義提出建議，也沒有內建的運作工具。在本文中，我們提出一個基於四值邏輯的知識 RDF-star 元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF-star 的查詢語言 SPARQL-star，並使用新的 FROM 子句類型來促進運作，包括多重且有時衝突的信念。我們展示了所提出的查詢語言可以表達四個用例查詢，包括下列功能：(i) 查詢個人的信念，(ii) 信念的彙總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。
 
 ##### **On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**
 2407.21476v1 by Nick Rossenbach, Ralf Schlüter, Sakriani Sakti
@@ -1469,7 +1467,7 @@ SliSum works and impacts of hyperparameters in SliSum on performance.
 摘要：儘管大型語言模型 (LLM) 已在各種任務中展現出令人印象深刻的效能，但它們仍飽受稱為幻覺的虛假不一致問題所苦。例如，LLM 有時會產生與原始文章不同的內容，且偏好擷取出現在內容開頭和結尾的資訊，特別是在長篇文件摘要中。受到這些發現的啟發，我們建議透過促使 LLM 更公平且忠實地處理整篇文章，來改善其在摘要中的真實性。我們提出了一種新的摘要產生策略，稱為 SliSum，它利用滑動視窗和自我一致性的概念。具體來說，SliSum 將原始文章分成重疊的視窗，並利用 LLM 為視窗中的內容產生局部摘要。最後，SliSum 使用群集和多數決演算法彙總所有局部摘要，以產生更忠實的整篇文章摘要。廣泛的實驗證明，SliSum 在簡短和長篇文字摘要中，顯著提升了 LLaMA-2、Claude-2 和 GPT-3.5 等不同 LLM 的真實性，同時維持其流暢度和資訊量，且無需額外的微調和資源。我們進一步進行定性和定量研究，以探討 SliSum 的運作原理，以及 SliSum 中的超參數對效能的影響。
 
 ##### **QuestGen: Effectiveness of Question Generation Methods for Fact-Checking Applications**
-2407.21441v1 by Rivik Setty, Vinay Setty
+2407.21441v2 by Ritvik Setty, Vinay Setty
 
 Verifying fact-checking claims poses a significant challenge, even for
 humans. Recent approaches have demonstrated that decomposing claims into
@@ -1484,7 +1482,7 @@ fact-checking than that obtained from human-written questions. We also perform
 manual evaluation of the decomposed questions to assess the quality of the
 questions generated.
 
-摘要：驗證查核聲明即使對人類來說也是一項重大挑戰。最近的方法已經證明，將聲明分解成相關問題以收集證據，可以提高查核流程的效率。在本文中，我們提供了經驗證據，證明這種問題分解可以有效自動化。我們證明了較小的生成模型，針對問題生成任務進行微調，使用來自各種資料集的資料擴充，比大型語言模型的表現高出 8%。令人驚訝的是，在某些情況下，使用機器產生的問題所取得的證據被證明比從人類撰寫的問題中取得的證據對查核更有效。我們還對分解的問題進行手動評估，以評估所產生問題的品質。
+摘要：驗證查核事實的聲明，即使對人類來說，也是一項重大的挑戰。最近的方法已證明，將聲明分解成相關問題以收集證據，可以提高查核事實程序的效率。在本文中，我們提供了經驗證據，說明這種問題分解可以有效自動化。我們證明了較小的生成模型，針對問題生成任務進行微調，使用來自各種資料集的資料擴充，比大型語言模型的表現高出 8%。令人驚訝的是，在某些情況下，使用機器產生的問題所檢索到的證據，被證明比從人工撰寫的問題中獲得的證據，對查核事實更有效。我們也對分解的問題進行手動評估，以評估所產生問題的品質。
 
 ##### **MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**
 2407.21439v1 by Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo
@@ -1875,7 +1873,7 @@ model with versatile data sampling capabilities. Code is available at
 此外，它也支撐著近期由基礎模型推動的人工智慧 (AI) 的革命性進展。具體而言，我們揭示了基礎模型的訓練可以被解釋為一種大型合作學習（簡稱大學習）的形式，其中大量的學習個體/任務「合作」從資料預測的不同觀點來接近資料的獨特本質，利用一個通用模型。因此，所提出的「大學習」在一個一致的架構中統一了基礎模型的大部分訓練目標，同時揭露了其背後的假設。我們設計了客製化的模擬來展示大學習的原理，並根據此原理，為基礎模型的成功提供學習觀點的合理化，並產生有趣的副產品。此外，我們揭示了大學習是升級傳統機器學習範例的新面向，對於賦予相關應用程式新的活力非常有價值；作為一個說明性的範例，我們提出了 BigLearn-GAN，這是一個新穎的對抗式訓練基礎模型，具備多功能的資料取樣能力。程式碼可在 \texttt{https://github.com/YulaiCong/BigCooperativeLearning} 取得。
 
 ##### **Beyond Silent Letters: Amplifying LLMs in Emotion Recognition with Vocal Nuances**
-2407.21315v1 by Zehui Wu, Ziwei Gong, Lin Ai, Pengyuan Shi, Kaan Donbekci, Julia Hirschberg
+2407.21315v2 by Zehui Wu, Ziwei Gong, Lin Ai, Pengyuan Shi, Kaan Donbekci, Julia Hirschberg
 
 This paper introduces a novel approach to emotion detection in speech using
 Large Language Models (LLMs). We address the limitation of LLMs in processing
@@ -1893,7 +1891,7 @@ enhancing emotion detection capabilities of LLMs and underscore the importance
 of audio quality in speech-based emotion recognition tasks. We'll release the
 source code on Github.
 
-摘要：本文介紹了一種使用大型語言模型 (LLM) 進行語音情緒偵測的新方法。我們透過將語音特徵轉換為自然語言描述，來解決 LLM 在處理音訊輸入時的限制。我們的做法將這些描述整合到文字提示中，讓 LLM 能夠在不修改架構的情況下執行多模態情緒分析。我們在兩個資料集上評估了我們的做法：IEMOCAP 和 MELD，結果顯示情緒辨識準確度有顯著提升，特別是對於高品質的音訊資料。我們的實驗顯示，加入語音描述後，IEMOCAP 的加權 F1 分數提高了 2 個百分點（從 70.111% 到 72.596%）。我們也比較了各種 LLM 架構，並探討了不同特徵表示的有效性。我們的研究結果突顯了這種方法在提升 LLM 情緒偵測能力的潛力，並強調了音訊品質在基於語音的情緒辨識任務中的重要性。我們將在 Github 上釋出原始碼。
+摘要：本文提出了一個新穎的方法，使用大型語言模型 (LLM) 進行語音的情緒偵測。我們透過將語音特徵轉換為自然語言描述，來解決 LLM 在處理音訊輸入時的限制。我們的技術將這些描述整合到文字提示中，讓 LLM 能夠在不修改架構的情況下執行多模態的情緒分析。我們在兩個資料集：IEMOCAP 和 MELD 上評估我們的技術，顯示出在情緒辨識準確度上大幅提升，特別是對於高品質的音訊資料。我們的實驗顯示，加入語音描述讓 IEMOCAP 上的加權 F1 分數提升了 2 個百分點（從 70.111% 到 72.596%）。我們也比較了各種 LLM 架構，並探索了不同特徵表徵的有效性。我們的發現突顯了這種技術在提升 LLM 情緒偵測能力的潛力，並強調了音訊品質在基於語音的情緒辨識任務中的重要性。我們將在 Github 上釋出原始碼。
 
 ##### **EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**
 2407.21311v1 by Ali Abedi, Q. M. Jonathan Wu, Ning Zhang, Farhad Pourpanah

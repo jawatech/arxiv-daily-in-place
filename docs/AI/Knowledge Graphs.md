@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**|Guillermo Villar-Rodríguez et.al.|[2408.00633v1](http://arxiv.org/abs/2408.00633v1)|null|
+|**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
+|**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708v1](http://arxiv.org/abs/2407.21708v1)|null|
 |**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v2](http://arxiv.org/abs/2407.21483v2)|null|
 |**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
@@ -99,11 +102,91 @@
 |**2024-06-29**|**GraphArena: Benchmarking Large Language Models on Graph Computational Problems**|Jianheng Tang et.al.|[2407.00379v1](http://arxiv.org/abs/2407.00379v1)|[link](https://github.com/squareroot3/grapharena)|
 |**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326v1](http://arxiv.org/abs/2407.00326v1)|null|
 |**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967v1](http://arxiv.org/abs/2406.19967v1)|null|
-|**2024-06-27**|**Investigating How Large Language Models Leverage Internal Knowledge to Perform Complex Reasoning**|Miyoung Ko et.al.|[2406.19502v1](http://arxiv.org/abs/2406.19502v1)|[link](https://github.com/kaistai/knowledge-reasoning)|
-|**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
-|**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916v1](http://arxiv.org/abs/2406.18916v1)|null|
 
 #### Abstracts
+##### **DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**
+2408.00633v1 by Guillermo Villar-Rodríguez, Álvaro Huertas-García, Alejandro Martín, Javier Huertas-Tato, David Camacho
+
+Introduction: This article introduces DisTrack, a methodology and a tool
+developed for tracking and analyzing misinformation within Online Social
+Networks (OSNs). DisTrack is designed to combat the spread of misinformation
+through a combination of Natural Language Processing (NLP) Social Network
+Analysis (SNA) and graph visualization. The primary goal is to detect
+misinformation, track its propagation, identify its sources, and assess the
+influence of various actors within the network.
+  Methods: DisTrack's architecture incorporates a variety of methodologies
+including keyword search, semantic similarity assessments, and graph generation
+techniques. These methods collectively facilitate the monitoring of
+misinformation, the categorization of content based on alignment with known
+false claims, and the visualization of dissemination cascades through detailed
+graphs. The tool is tailored to capture and analyze the dynamic nature of
+misinformation spread in digital environments.
+  Results: The effectiveness of DisTrack is demonstrated through three case
+studies focused on different themes: discredit/hate speech, anti-vaccine
+misinformation, and false narratives about the Russia-Ukraine conflict. These
+studies show DisTrack's capabilities in distinguishing posts that propagate
+falsehoods from those that counteract them, and tracing the evolution of
+misinformation from its inception.
+  Conclusions: The research confirms that DisTrack is a valuable tool in the
+field of misinformation analysis. It effectively distinguishes between
+different types of misinformation and traces their development over time. By
+providing a comprehensive approach to understanding and combating
+misinformation in digital spaces, DisTrack proves to be an essential asset for
+researchers and practitioners working to mitigate the impact of false
+information in online social environments.
+
+摘要：<paragraph>引言：本文介紹 DisTrack，這是一種方法和工具，用於追蹤和分析線上社交網路（OSN）中的錯誤資訊。DisTrack 的設計目的是透過結合自然語言處理（NLP）、社交網路分析（SNA）和圖形視覺化來對抗錯誤資訊的散布。主要目標是偵測錯誤資訊、追蹤其傳播、找出其來源，並評估網路中各個參與者的影響力。
+方法：DisTrack 的架構結合了多種方法，包括關鍵字搜尋、語意相似性評估和圖形產生技術。這些方法共同促進了錯誤資訊的監控、基於與已知虛假說法的比對來分類內容，以及透過詳細圖形視覺化傳播層疊。此工具經過量身打造，用於擷取和分析數位環境中錯誤資訊散布的動態特性。
+結果：DisTrack 的效能透過三個案例研究獲得驗證，這些研究專注於不同的主題：貶低/仇恨言論、反疫苗錯誤資訊，以及關於俄羅斯-烏克蘭衝突的虛假敘述。這些研究顯示出 DisTrack 在區分傳播虛假資訊和反制虛假資訊的貼文，以及追蹤錯誤資訊從其開端演變的過程中所具備的能力。
+結論：研究證實 DisTrack 是錯誤資訊分析領域中一個有價值的工具。它有效區分了不同類型的錯誤資訊，並追蹤其隨著時間推移的發展。透過提供一種全面的方法來理解和對抗數位空間中的錯誤資訊，DisTrack 證明了自己是協助研究人員和實務工作者減輕線上社交環境中虛假資訊影響力的重要資產。</paragraph>
+
+##### **On the Limitations and Prospects of Machine Unlearning for Generative AI**
+2408.00376v1 by Shiji Zhou, Lianzhe Wang, Jiangnan Ye, Yongliang Wu, Heng Chang
+
+Generative AI (GenAI), which aims to synthesize realistic and diverse data
+samples from latent variables or other data modalities, has achieved remarkable
+results in various domains, such as natural language, images, audio, and
+graphs. However, they also pose challenges and risks to data privacy, security,
+and ethics. Machine unlearning is the process of removing or weakening the
+influence of specific data samples or features from a trained model, without
+affecting its performance on other data or tasks. While machine unlearning has
+shown significant efficacy in traditional machine learning tasks, it is still
+unclear if it could help GenAI become safer and aligned with human desire. To
+this end, this position paper provides an in-depth discussion of the machine
+unlearning approaches for GenAI. Firstly, we formulate the problem of machine
+unlearning tasks on GenAI and introduce the background. Subsequently, we
+systematically examine the limitations of machine unlearning on GenAI models by
+focusing on the two representative branches: LLMs and image generative
+(diffusion) models. Finally, we provide our prospects mainly from three
+aspects: benchmark, evaluation metrics, and utility-unlearning trade-off, and
+conscientiously advocate for the future development of this field.
+
+摘要：生成式 AI (GenAI) 旨在從潛在變數或其他資料模式中合成逼真且多樣化的資料範例，已在自然語言、影像、音訊和圖形等各種領域中取得顯著成果。然而，它們也對資料隱私、安全性與道德構成挑戰和風險。機器遺忘是移除或減弱特定資料範例或特徵對已訓練模型的影響，同時不影響其在其他資料或任務上的效能。雖然機器遺忘已在傳統機器學習任務中展現顯著的功效，但仍不清楚它是否能協助 GenAI 變得更安全且符合人類的期望。為此，本立場文件深入探討了 GenAI 的機器遺忘方法。首先，我們制定 GenAI 上機器遺忘任務的問題，並介紹背景。接著，我們有系統地檢視機器遺忘在 GenAI 模型上的限制，重點放在兩個代表性的分支：LLM 和影像生成（擴散）模型。最後，我們主要從基準、評估指標和效用遺忘權衡三個面向提供我們的展望，並審慎倡議該領域的未來發展。
+
+##### **Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**
+2408.00290v1 by Bin Cheng, Jiaxuan Lu
+
+With the advent of the era of foundation models, pre-training and fine-tuning
+have become common paradigms. Recently, parameter-efficient fine-tuning has
+garnered widespread attention due to its better balance between the number of
+learnable parameters and performance. However, some current parameter-efficient
+fine-tuning methods only model a single modality and lack the utilization of
+structural knowledge in downstream tasks. To address this issue, this paper
+proposes a multi-modal parameter-efficient fine-tuning method based on graph
+networks. Each image is fed into a multi-modal large language model (MLLM) to
+generate a text description. The image and its corresponding text description
+are then processed by a frozen image encoder and text encoder to generate image
+features and text features, respectively. A graph is constructed based on the
+similarity of the multi-modal feature nodes, and knowledge and relationships
+relevant to these features are extracted from each node. Additionally, Elastic
+Weight Consolidation (EWC) regularization is incorporated into the loss
+function to mitigate the problem of forgetting during task learning. The
+proposed model achieves test accuracies on the OxfordPets, Flowers102, and
+Food101 datasets that improve by 4.45%, 2.92%, and 0.23%, respectively. The
+code is available at https://github.com/yunche0/GA-Net/tree/master.
+
+摘要：隨著基礎模型時代的到來，預訓練和微調已成為常見的範例。最近，由於參數有效微調在可學習參數數量和效能之間取得更好的平衡，因此備受關注。然而，一些目前的參數有效微調方法僅建模單一模態，且缺乏在下游任務中利用結構知識。為了解決此問題，本文提出了一種基於圖形網路的多模態參數有效微調方法。每個影像都會輸入到多模態大型語言模型 (MLLM) 中，以產生文字描述。然後，影像及其對應的文字描述會由凍結的影像編碼器和文字編碼器處理，分別產生影像特徵和文字特徵。根據多模態特徵節點的相似性建構一個圖形，並從每個節點中萃取出與這些特徵相關的知識和關係。此外，彈性權重整合 (EWC) 正則化會納入損失函數中，以減輕在任務學習期間遺忘的問題。所提出的模型在 OxfordPets、Flowers102 和 Food101 資料集上達成的測試準確度分別提升了 4.45%、2.92% 和 0.23%。程式碼可在 https://github.com/yunche0/GA-Net/tree/master 取得。
+
 ##### **CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**
 2407.21708v1 by Stefan Langer, Fabian Neuhaus, Andreas Nürnberger
 
@@ -2405,81 +2488,4 @@ spatial information for text-based geospatial reasoning in previously unknown,
 can unlock data-scarce scenarios.
 
 摘要：類似於專注於彌合具體導航中視覺與語言差距的視覺語言導航 (VLN) 任務，新的會面 (RVS) 任務需要使用非順序導航指令和地圖推理異中心空間關係（與觀察者的觀點無關）。然而，在沒有訓練資料的新環境中，效能會大幅下降。使用與座標配對的開源說明（例如，維基百科）提供了訓練資料，但由於空間導向文字有限，導致地理位置解析度低。我們提出了一種大規模擴充方法，使用現成的地理空間資料為新環境產生高品質的合成資料。我們的建構方法建立了一個基礎知識圖，擷取實體關係。取樣的實體和關係（「商店在學校北邊」）透過以下方式產生導航指令：(i) 使用無關乎語境的文法 (CFG) 產生許多範本來嵌入特定實體和關係；(ii) 將實體和關係輸入大型語言模型 (LLM) 以產生指令。在 RVS 上的全面評估顯示，我們的做法將未見過環境中的 100 公尺準確度提升了 45.83%。此外，我們證明使用基於 CFG 的擴充所訓練的模型，在未見過和見過環境中，都比使用基於 LLM 的擴充所訓練的模型獲得了更好的效能。這些發現表明，在以前未知的環境中，明確建構用於基於文字的地理空間推理的空間資訊的潛在優勢，可以解鎖資料稀少的場景。
-
-##### **Investigating How Large Language Models Leverage Internal Knowledge to Perform Complex Reasoning**
-2406.19502v1 by Miyoung Ko, Sue Hyun Park, Joonsuk Park, Minjoon Seo
-
-Despite significant advancements, there is a limited understanding of how
-large language models (LLMs) utilize knowledge for reasoning. To address this,
-we propose a method that deconstructs complex real-world questions into a
-graph, representing each question as a node with parent nodes of background
-knowledge needed to solve the question. We develop the DepthQA dataset,
-deconstructing questions into three depths: (i) recalling conceptual knowledge,
-(ii) applying procedural knowledge, and (iii) analyzing strategic knowledge.
-Based on a hierarchical graph, we quantify forward discrepancy, discrepancies
-in LLMs' performance on simpler sub-problems versus complex questions. We also
-measure backward discrepancy, where LLMs answer complex questions but struggle
-with simpler ones. Our analysis shows that smaller models have more
-discrepancies than larger models. Additionally, guiding models from simpler to
-complex questions through multi-turn interactions improves performance across
-model sizes, highlighting the importance of structured intermediate steps in
-knowledge reasoning. This work enhances our understanding of LLM reasoning and
-suggests ways to improve their problem-solving abilities.
-
-摘要：儘管有顯著的進展，但對於大型語言模型 (LLM) 如何利用知識進行推理的理解仍然有限。為了解決這個問題，我們提出了一種方法，將複雜的真實世界問題解構成一個圖形，將每個問題表示為一個節點，其中包含解決問題所需的背景知識的父節點。我們開發了 DepthQA 資料集，將問題解構成三個深度：(i) 回憶概念知識，(ii) 應用程序知識，以及 (iii) 分析策略知識。基於一個階層圖形，我們量化了正向差異，LLM 在較簡單的子問題和複雜問題上的效能差異。我們也測量了反向差異，其中 LLM 能回答複雜問題，但在較簡單的問題上卻有困難。我們的分析顯示，較小的模型比較大的模型有更多的差異。此外，透過多回合互動引導模型從較簡單到複雜的問題，可以改善所有模型規模的效能，突顯了結構化中間步驟在知識推理中的重要性。這項工作增進了我們對 LLM 推理的理解，並提出了改善其問題解決能力的方法。
-
-##### **Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**
-2406.19255v1 by Hao Fei, Shengqiong Wu, Meishan Zhang, Min Zhang, Tat-Seng Chua, Shuicheng Yan
-
-While pre-training large-scale video-language models (VLMs) has shown
-remarkable potential for various downstream video-language tasks, existing VLMs
-can still suffer from certain commonly seen limitations, e.g., coarse-grained
-cross-modal aligning , under-modeling of temporal dynamics, detached
-video-language view. In this work, we target enhancing VLMs with a fine-grained
-structural spatio-temporal alignment learning method (namely Finsta). First of
-all, we represent the input texts and videos with fine-grained scene graph (SG)
-structures, both of which are further unified into a holistic SG (HSG) for
-bridging two modalities. Then, an SG-based framework is built, where the
-textual SG (TSG) is encoded with a graph Transformer, while the video dynamic
-SG (DSG) and the HSG are modeled with a novel recurrent graph Transformer for
-spatial and temporal feature propagation. A spatial-temporal Gaussian
-differential graph Transformer is further devised to strengthen the sense of
-the changes in objects across spatial and temporal dimensions. Next, based on
-the fine-grained structural features of TSG and DSG, we perform object-centered
-spatial alignment and predicate-centered temporal alignment respectively,
-enhancing the video-language grounding in both the spatiality and temporality.
-We design our method as a plug&play system, which can be integrated into
-existing well-trained VLMs for further representation augmentation, without
-training from scratch or relying on SG annotations in downstream applications.
-On 6 representative VL modeling tasks over 12 datasets in both standard and
-long-form video scenarios, Finsta consistently improves the existing 13
-strong-performing VLMs persistently, and refreshes the current state-of-the-art
-end task performance significantly in both the fine-tuning and zero-shot
-settings.
-
-摘要：<paragraph>雖然預訓練大型視訊語言模型 (VLM) 已展現出對各種下游視訊語言任務的顯著潛力，但現有的 VLM 仍可能受到某些常見限制的影響，例如粗粒度的跨模態對齊、對時間動態的建模不足、分離的視訊語言檢視。在這項工作中，我們以具備細粒度結構化時空對齊學習方法 (即 Finsta) 的增強 VLM 為目標。首先，我們以細粒度的場景圖 (SG) 結構表示輸入文字和視訊，兩者進一步統一到一個整體 SG (HSG) 中，以橋接兩個模態。然後，建立一個基於 SG 的框架，其中文字 SG (TSG) 使用圖形 Transformer 編碼，而視訊動態 SG (DSG) 和 HSG 則使用新穎的遞迴圖形 Transformer 建模，以進行空間和時間特徵傳播。進一步設計了一個時空高斯差分圖形 Transformer，以增強物體在時空維度中變化的感覺。接下來，根據 TSG 和 DSG 的細粒度結構特徵，我們分別執行以物件為中心的空間對齊和以謂詞為中心的時序對齊，增強視訊語言在空間和時間上的基礎。我們將方法設計為一個即插即用的系統，可以整合到現有的訓練良好的 VLM 中，以進一步擴充表示，而無需從頭開始訓練或依賴下游應用程式中的 SG 標註。在 12 個資料集上的 6 個代表性 VL 建模任務中，無論是在標準視訊場景還是長格式視訊場景中，Finsta 都持續改善現有的 13 個效能強大的 VLM，並在微調和零次學習設定中顯著更新目前的最新技術最終任務效能。</paragraph>
-
-##### **TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**
-2406.18916v1 by Wen Zhang, Long Jin, Yushan Zhu, Jiaoyan Chen, Zhiwei Huang, Junjie Wang, Yin Hua, Lei Liang, Huajun Chen
-
-Natural language question answering (QA) over structured data sources such as
-tables and knowledge graphs (KGs) have been widely investigated, for example
-with Large Language Models (LLMs). The main solutions include question to
-formal query parsing and retrieval-based answer generation. However, current
-methods of the former often suffer from weak generalization, failing to dealing
-with multiple sources simultaneously, while the later is limited in
-trustfulness. In this paper, we propose UnifiedTQA, a trustful QA framework
-that can simultaneously support multiple types of structured data in a unified
-way. To this end, it adopts an LLM-friendly and unified knowledge
-representation method called Condition Graph (CG), and uses an LLM and
-demonstration-based two-level method for CG querying. For enhancement, it is
-also equipped with dynamic demonstration retrieval. We have evaluated
-UnifiedTQA with 5 benchmarks covering 3 types of structured data. It
-outperforms 2 existing unified structured data QA methods and in comparison
-with the baselines that are specific to a data type, it achieves
-state-of-the-art on 2 of them. Further more, we demonstrates potential of our
-method for more general QA tasks, QA over mixed structured data and QA across
-structured data.
-
-摘要：自然語言問答 (QA) 透過結構化資料來源（例如表格和知識圖譜 (KGs)）已廣泛研究，例如使用大型語言模型 (LLM)。主要解決方案包括問題轉換成形式化查詢解析和基於檢索的答案產生。然而，前者的現行方法通常會產生弱泛化，無法同時處理多個來源，而後者則受到可信度的限制。在本文中，我們提出 UnifiedTQA，一個可信賴的 QA 框架，能夠以統一的方式同時支援多種類型的結構化資料。為此，它採用了一種 LLM 友善且統一的知識表示方法，稱為條件圖 (CG)，並使用 LLM 和基於示範的二階方法進行 CG 查詢。為了加強，它還配備了動態示範檢索。我們已經使用涵蓋 3 種類型結構化資料的 5 個基準評估 UnifiedTQA。它優於 2 種現有的統一結構化資料 QA 方法，並且與特定於資料類型的基線相比，它在其中 2 個基準上達到了最先進的水平。此外，我們展示了我們的方法在更通用的 QA 任務、混合結構化資料的 QA 和跨結構化資料的 QA 中的潛力。
 

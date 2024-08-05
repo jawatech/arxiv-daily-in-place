@@ -16,12 +16,12 @@
 |**2024-08-01**|**Investigating Brain Connectivity and Regional Statistics from EEG for early stage Parkinson's Classification**|Amarpal Sahota et.al.|[2408.00711v1](http://arxiv.org/abs/2408.00711v1)|null|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
 |**2024-08-01**|**Future of Artificial Intelligence in Agile Software Development**|Mariyam Mahboob et.al.|[2408.00703v1](http://arxiv.org/abs/2408.00703v1)|null|
-|**2024-08-01**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690v1](http://arxiv.org/abs/2408.00690v1)|null|
+|**2024-08-01**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690v2](http://arxiv.org/abs/2408.00690v2)|null|
 |**2024-08-01**|**Can Developers Prompt? A Controlled Experiment for Code Documentation Generation**|Hans-Alexander Kruse et.al.|[2408.00686v1](http://arxiv.org/abs/2408.00686v1)|null|
 |**2024-08-01**|**Assessing the Variety of a Concept Space Using an Unbiased Estimate of Rao's Quadratic Index**|Anubhab Majumder et.al.|[2408.00684v1](http://arxiv.org/abs/2408.00684v1)|null|
 |**2024-08-01**|**Learning in Multi-Objective Public Goods Games with Non-Linear Utilities**|Nicole Orzan et.al.|[2408.00682v1](http://arxiv.org/abs/2408.00682v1)|null|
 |**2024-08-01**|**Leveraging Entailment Judgements in Cross-Lingual Summarisation**|Huajian Zhang et.al.|[2408.00675v1](http://arxiv.org/abs/2408.00675v1)|null|
-|**2024-08-01**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655v1](http://arxiv.org/abs/2408.00655v1)|null|
+|**2024-08-01**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655v2](http://arxiv.org/abs/2408.00655v2)|null|
 |**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640v1](http://arxiv.org/abs/2408.00640v1)|null|
 |**2024-08-01**|**DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**|Guillermo Villar-Rodríguez et.al.|[2408.00633v1](http://arxiv.org/abs/2408.00633v1)|null|
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
@@ -52,7 +52,7 @@
 |**2024-08-01**|**In-Context Example Selection via Similarity Search Improves Low-Resource Machine Translation**|Armel Zebaze et.al.|[2408.00397v1](http://arxiv.org/abs/2408.00397v1)|null|
 |**2024-08-01**|**Enhancing Whole Slide Pathology Foundation Models through Stain Normalization**|Juseung Yun et.al.|[2408.00380v1](http://arxiv.org/abs/2408.00380v1)|null|
 |**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
-|**2024-08-01**|**Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving**|Xi Chen et.al.|[2408.00374v1](http://arxiv.org/abs/2408.00374v1)|null|
+|**2024-08-01**|**Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving**|Xi Chen et.al.|[2408.00374v2](http://arxiv.org/abs/2408.00374v2)|null|
 |**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370v1](http://arxiv.org/abs/2408.00370v1)|null|
 |**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365v1](http://arxiv.org/abs/2408.00365v1)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
@@ -87,7 +87,7 @@
 |**2024-07-31**|**Distributionally Robust Optimization as a Scalable Framework to Characterize Extreme Value Distributions**|Patrick Kuiper et.al.|[2408.00131v1](http://arxiv.org/abs/2408.00131v1)|null|
 |**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123v1](http://arxiv.org/abs/2408.00123v1)|null|
 |**2024-07-31**|**A Course Shared Task on Evaluating LLM Output for Clinical Questions**|Yufang Hou et.al.|[2408.00122v1](http://arxiv.org/abs/2408.00122v1)|null|
-|**2024-07-31**|**Gemma 2: Improving Open Language Models at a Practical Size**|Gemma Team et.al.|[2408.00118v1](http://arxiv.org/abs/2408.00118v1)|null|
+|**2024-07-31**|**Gemma 2: Improving Open Language Models at a Practical Size**|Gemma Team et.al.|[2408.00118v2](http://arxiv.org/abs/2408.00118v2)|null|
 |**2024-07-31**|**Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs**|Kewei Cheng et.al.|[2408.00114v1](http://arxiv.org/abs/2408.00114v1)|null|
 |**2024-07-31**|**Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models**|Adam Karvonen et.al.|[2408.00113v1](http://arxiv.org/abs/2408.00113v1)|null|
 |**2024-07-31**|**Preference-Based Abstract Argumentation for Case-Based Reasoning (with-Appendix)**|Adam Gould et.al.|[2408.00108v1](http://arxiv.org/abs/2408.00108v1)|null|
@@ -436,7 +436,7 @@ become increasingly favored in the industry in recent years.
 摘要：人工智慧的出現具有可帶來優勢，可望用於轉換軟體專案開發的樣貌。軟體流程架構包含持續需要常規人類互動的活動，導致可能產生錯誤和不確定性。人工智慧能協助軟體開發經理、軟體測試人員和其他團隊成員，透過利用大型語言模型 (LLM)、生成式人工智慧模型和人工智慧代理程式來執行常規工作、風險分析和預測、策略建議和支援決策制定。人工智慧有潛力提升效率和降低專案管理團隊遭遇的風險，同時提升專案成功率。此外，人工智慧還能為利害關係人分解複雜的概念和開發流程，以做出明智的決策。在本文中，我們提出一個方法，其中人工智慧工具和技術可望用於賦予敏捷軟體專案最大的協助，這些專案近年來在產業中越來越受到青睞。
 
 ##### **Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**
-2408.00690v1 by Trapoom Ukarapol, Zhicheng Lee, Amy Xin
+2408.00690v2 by Trapoom Ukarapol, Zhicheng Lee, Amy Xin
 
 While Large Language Models show remarkable performance in natural language
 understanding, their resource-intensive nature makes them less accessible. In
@@ -447,11 +447,11 @@ improvement of their text embeddings. We select three language models, MiniCPM,
 Phi-2, and Gemma, to conduct contrastive fine-tuning on the NLI dataset. Our
 results demonstrate that this fine-tuning method enhances the quality of text
 embeddings for all three models across various benchmarks, with MiniCPM showing
-the most significant improvements of an average 56.33\% performance gain. The
+the most significant improvements of an average 56.33% performance gain. The
 contrastive fine-tuning code is publicly available at
 https://github.com/trapoom555/Language-Model-STS-CFT.
 
-摘要：雖然大型語言模型在自然語言理解方面展現出卓越的效能，但其資源密集的本質使其較難以取得。相較之下，像 MiniCPM 等較小的語言模型提供了更永續的可擴充性，但通常在沒有特殊最佳化的情況下表現不佳。在本文中，我們探討了透過改善其文字嵌入來增強較小語言模型的方法。我們選取了三個語言模型，MiniCPM、Phi-2 和 Gemma，在 NLI 資料集上進行對比微調。我們的結果證明，這種微調方法提升了所有三個模型在各種基準上的文字嵌入品質，其中 MiniCPM 顯示出最顯著的改進，平均效能提升了 56.33%。對比微調程式碼已公開在 https://github.com/trapoom555/Language-Model-STS-CFT。
+摘要：儘管大型語言模型在自然語言理解方面表現出色，但其資源密集的特性使其不易取得。相反地，較小的語言模型（例如 MiniCPM）提供了更永續的可擴充性，但通常在沒有專業最佳化的情況下表現不佳。在本文中，我們探討透過改善其文字嵌入來增強較小的語言模型。我們選擇了三個語言模型（MiniCPM、Phi-2 和 Gemma）在 NLI 資料集上進行對比微調。我們的結果證明，這種微調方法提升了所有三個模型在各種基準上的文字嵌入品質，其中 MiniCPM 顯示最顯著的進步，平均效能提升了 56.33%。對比微調程式碼已公開於 https://github.com/trapoom555/Language-Model-STS-CFT。
 
 ##### **Can Developers Prompt? A Controlled Experiment for Code Documentation Generation**
 2408.00686v1 by Hans-Alexander Kruse, Tim Puhlfürß, Walid Maalej
@@ -541,30 +541,31 @@ more faithful summaries while maintaining comparable or better informativess.
 摘要：合成建立的跨語言摘要 (CLS) 資料集容易包含文件摘要對，其中參考摘要對應文件不忠實，因為它包含文件不支援的內容（即幻覺內容）。這種低資料品質會誤導模型學習，並掩蓋評估結果。已經提出用於單語言摘要的自動方法來評估幻覺並改善訓練，主要用於英文。對於 CLS，我們建議使用現成的跨語言自然語言推論 (X-NLI) 來評估參考和模型產生的摘要的忠實度。然後，我們研究了訓練方法，這些方法了解訓練資料中的忠實度問題，並提出了一種使用不似然損失來教導模型有關不忠實摘要序列的方法。我們的結果表明，訓練 CLS 模型是可能的，這些模型會產生更忠實的摘要，同時保持可比性或更好的資訊性。
 
 ##### **SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**
-2408.00655v1 by Hongjun An, Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li
+2408.00655v2 by Hongjun An, Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li
 
-Contemporary large language models (LLMs) predominantly utilize a next-token
+Contemporary large language models (LLMs) primarily rely on next-token
 prediction method for inference, which significantly impedes their processing
 speed. In this paper, we introduce a novel inference methodology termed
 next-sentence prediction, aimed at enhancing the inference efficiency of LLMs.
-We present SentenceVAE, a tiny model consisting of an encoder and a decoder.
-The encoder effectively condenses the information within a sentence into a
-singular token, while the decoder reconstructs this compressed data back into
-its original sentential form. By integrating SentenceVAE into the input and
-output layers of LLMs, we develop Sentence-level LLMs (SLLMs) that employ a
-sentence-by-sentence inference approach, markedly accelerating inference
-speeds. SentenceVAE also maintains the integrity of the original semantic
-content by segmenting the text into sentences, thereby preserving accuracy
-while boosting inference speeds. Compared to traditional LLMs, SLLMs process
-fewer tokens over equivalent context lengths, significantly reducing memory
-demands for Self-Attention computations and facilitating the handling of longer
-contexts. Our experimental findings reveal that this method can increase
-inference speeds by 204~365%, reduce perplexity (PPL) to 46~75% of its original
-metric, and decrease memory overhead by 86~91% for the same context length. The
-advantages of this approach are further amplified with increases in model
-parameters.
+We present Sentence Variational Autoencoder (SentenceVAE), a tiny model
+consisting of a Sentence Encoder and a Sentence Decoder. The encoder
+effectively condenses the information within a sentence into a singular token,
+while the decoder reconstructs this compressed data back into its original
+sentential form. By integrating SentenceVAE into the input and output layers of
+LLMs, we develop Sentence-level LLMs (SLLMs) that employ a sentence-by-sentence
+inference approach, markedly accelerating inference speeds. SentenceVAE also
+maintains the integrity of the original semantic content by segmenting the text
+into sentences, thereby improving accuracy while boosting inference speeds.
+Compared to published LLMs, SLLMs process fewer tokens over equivalent context
+lengths, significantly reducing memory demands for self-attention computations
+and facilitating the handling of longer contexts. Our experimental findings
+reveal that this method can accelerate inference speeds by 204~365%, reduce
+perplexity (PPL) to 46~75% of its original metric, and decrease memory overhead
+by 86~91% for the same context length, compared to the token-by-token method.
+Moreover, the benefits of this approach become even more pronounced as model
+parameters increase.
 
-摘要：當代大型語言模型 (LLM) 主要利用下一個代碼預測方法進行推論，這顯著地阻礙了它們的處理速度。在本文中，我們介紹了一種新的推論方法，稱為下一個句子預測，旨在提高 LLM 的推論效率。我們提出了 SentenceVAE，這是一個由編碼器和解碼器組成的小模型。編碼器有效地將句子中的資訊壓縮成一個單一代碼，而解碼器將這些壓縮資料解構回其原始的句子形式。透過將 SentenceVAE 整合到 LLM 的輸入和輸出層，我們開發了句子層級 LLM (SLLM)，它採用逐句推論方法，顯著地加速了推論速度。SentenceVAE 也透過將文字分段成句子來維護原始語義內容的完整性，從而提升推論速度的同時也維持準確性。與傳統的 LLM 相比，SLLM 處理較少代碼，但具有等效的內容長度，大幅減少自注意力計算的記憶體需求，並促進處理較長的內容。我們的實驗結果顯示，這種方法可以將推論速度提升 204~365%，將困惑度 (PPL) 降低到其原始指標的 46~75%，並在相同的內容長度下將記憶體開銷減少 86~91%。隨著模型參數的增加，這種方法的優勢進一步擴大。
+摘要：<paragraph>當代大型語言模型 (LLM) 主要依賴於下一個符號預測方法進行推論，這顯著地阻礙了它們的處理速度。在本文中，我們介紹了一種新的推論方法，稱為下一個句子預測，旨在提高 LLM 的推論效率。我們提出了句子變異自動編碼器 (SentenceVAE)，這是一個由句子編碼器和句子解碼器組成的小模型。編碼器有效地將句子中的資訊壓縮成單一符號，而解碼器將這些壓縮的資料重建回其原始的句子形式。透過將 SentenceVAE 整合到 LLM 的輸入和輸出層，我們開發了句子層級 LLM (SLLM)，它採用逐句推論方法，顯著地加速了推論速度。SentenceVAE 也透過將文字分段為句子來維護原始語義內容的完整性，從而提高準確度的同時提升推論速度。與已發表的 LLM 相比，SLLM 在等效的內容長度上處理較少的符號，大幅減少了自注意力運算的記憶體需求，並促進了對較長內容的處理。我們的實驗結果顯示，與逐個符號的方法相比，此方法可以將推論速度加快 204~365%，將困惑度 (PPL) 降低到其原始指標的 46~75%，並將在相同內容長度下的記憶體開銷減少 86~91%。此外，隨著模型參數的增加，這種方法的優點變得更加明顯。</paragraph>
 
 ##### **AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**
 2408.00640v1 by Asbjørn Munk, Jakob Ambsdorf, Sebastian Llambias, Mads Nielsen
@@ -1320,7 +1321,7 @@ conscientiously advocate for the future development of this field.
 摘要：生成式 AI (GenAI) 旨在從潛在變數或其他資料模式中合成逼真且多樣化的資料範例，已在自然語言、影像、音訊和圖形等各種領域中取得顯著成果。然而，它們也對資料隱私、安全性與道德構成挑戰和風險。機器遺忘是移除或減弱特定資料範例或特徵對已訓練模型的影響，同時不影響其在其他資料或任務上的效能。雖然機器遺忘已在傳統機器學習任務中展現顯著的功效，但仍不清楚它是否能協助 GenAI 變得更安全且符合人類的期望。為此，本立場文件深入探討了 GenAI 的機器遺忘方法。首先，我們制定 GenAI 上機器遺忘任務的問題，並介紹背景。接著，我們有系統地檢視機器遺忘在 GenAI 模型上的限制，重點放在兩個代表性的分支：LLM 和影像生成（擴散）模型。最後，我們主要從基準、評估指標和效用遺忘權衡三個面向提供我們的展望，並審慎倡議該領域的未來發展。
 
 ##### **Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving**
-2408.00374v1 by Xi Chen, Rahul Bhadani, Larry Head
+2408.00374v2 by Xi Chen, Rahul Bhadani, Larry Head
 
 Current research on trajectory prediction primarily relies on data collected
 by onboard sensors of an ego vehicle. With the rapid advancement in connected
@@ -1341,7 +1342,7 @@ superior performance in terms of Final Displacement Error (FDE) and Miss Rate
 (MR) using a single GPU. The code is publicly available at:
 \url{https://github.com/xichennn/V2I_trajectory_prediction}.
 
-摘要：目前關於軌跡預測的研究主要依賴於自我車輛上搭載感測器所收集的資料。隨著車聯網技術的快速發展，例如車對車 (V2V) 和車對基礎設施 (V2I) 通訊，來自備用視角的寶貴資訊可透過無線網路存取。整合來自備用視角的資訊有潛力克服與單一視角相關的固有限制，例如遮擋和受限視野。在這項工作中，我們引進 V2INet，這是一個新穎的軌跡預測架構，旨在透過擴充現有的單一視角模型來建構多視角資料。與先前的做法不同，先前的做法是手動融合多視角資料或將其制定為一個獨立的訓練階段，我們的模型支援端對端的訓練，提升了彈性和效能。此外，預測的多模態軌跡由事後共形預測模組校正，以取得有效且精確的信心區域。我們使用真實世界的 V2I 資料集 V2X-Seq 評估了整個架構。我們的結果證明，使用單一 GPU 時，在最終位移誤差 (FDE) 和遺漏率 (MR) 方面表現出優異的效能。程式碼已公開於：\url{https://github.com/xichennn/V2I_trajectory_prediction}。
+摘要：當前的軌跡預測研究主要依賴於自我車輛車載感測器收集的資料。隨著連線技術的快速進步，例如車對車 (V2V) 和車對基礎設施 (V2I) 通訊，來自備用視角的寶貴資訊可透過無線網路取得。整合來自備用視角的資訊有潛力克服與單一視角相關的固有限制，例如遮擋和受限視野。在這項工作中，我們介紹 V2INet，一個新穎的軌跡預測架構，旨在透過擴充現有的單一視角模型，來建模多視角資料。與先前的做法不同，在先前的做法中，多視角資料是手動融合或制定為一個獨立的訓練階段，我們的模型支援端到端的訓練，增強了靈活性與效能。此外，預測的多模態軌跡會由事後共形預測模組校正，以取得有效且有信心的區域。我們使用真實世界的 V2I 資料集 V2X-Seq 評估整個架構。我們的結果證明，使用單一 GPU 在最終位移誤差 (FDE) 和遺漏率 (MR) 方面具有優異的效能。程式碼公開於：\url{https://github.com/xichennn/V2I_trajectory_prediction}。
 
 ##### **DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**
 2408.00370v1 by Fan Zhang, Naye Ji, Fuxing Gao, Bozuo Zhao, Jingmei Wu, Yanbing Jiang, Hui Du, Zhenqing Ye, Jiayang Zhu, WeiFan Zhong, Leyao Yan, Xiaomeng Ma
@@ -2146,7 +2147,7 @@ designing course assignments.
 摘要：這篇論文介紹了一個我們在2023/2024年於達姆施塔特工業大學語言技術基礎（FoLT）課程中組織的共享任務，重點在於評估大型語言模型（LLM）在產生對健康相關臨床問題的有害答案時的輸出。我們描述了任務設計考量，並報告了我們從學生那裡收到的回饋。我們預期這項任務和本文中報告的發現與教授自然語言處理（NLP）並設計課程作業的講師相關。
 
 ##### **Gemma 2: Improving Open Language Models at a Practical Size**
-2408.00118v1 by Gemma Team, Morgane Riviere, Shreya Pathak, Pier Giuseppe Sessa, Cassidy Hardin, Surya Bhupatiraju, Léonard Hussenot, Thomas Mesnard, Bobak Shahriari, Alexandre Ramé, Johan Ferret, Peter Liu, Pouya Tafti, Abe Friesen, Michelle Casbon, Sabela Ramos, Ravin Kumar, Charline Le Lan, Sammy Jerome, Anton Tsitsulin, Nino Vieillard, Piotr Stanczyk, Sertan Girgin, Nikola Momchev, Matt Hoffman, Shantanu Thakoor, Jean-Bastien Grill, Behnam Neyshabur, Alanna Walton, Aliaksei Severyn, Alicia Parrish, Aliya Ahmad, Allen Hutchison, Alvin Abdagic, Amanda Carl, Amy Shen, Andy Brock, Andy Coenen, Anthony Laforge, Antonia Paterson, Ben Bastian, Bilal Piot, Bo Wu, Brandon Royal, Charlie Chen, Chintu Kumar, Chris Perry, Chris Welty, Christopher A. Choquette-Choo, Danila Sinopalnikov, David Weinberger, Dimple Vijaykumar, Dominika Rogozińska, Dustin Herbison, Elisa Bandy, Emma Wang, Eric Noland, Erica Moreira, Evan Senter, Evgenii Eltyshev, Francesco Visin, Gabriel Rasskin, Gary Wei, Glenn Cameron, Gus Martins, Hadi Hashemi, Hanna Klimczak-Plucińska, Harleen Batra, Harsh Dhand, Ivan Nardini, Jacinda Mein, Jack Zhou, James Svensson, Jeff Stanway, Jetha Chan, Jin Zhou, Joana Carrasqueira, Joana Iljazi, Jocelyn Becker, Joe Fernandez, Joost van Amersfoort, Josh Gordon, Josh Lipschultz, Josh Newlan, Ju-yeong Ji, Kareem Mohamed, Kartikeya Badola, Kat Black, Katie Millican, Keelin McDonell, Kelvin Nguyen, Kiranbir Sodhia, Kish Greene, Lars Lowe Sjoesund, Lauren Usui, Laurent Sifre, Lena Heuermann, Leticia Lago, Lilly McNealus, Livio Baldini Soares, Logan Kilpatrick, Lucas Dixon, Luciano Martins, Machel Reid, Manvinder Singh, Mark Iverson, Martin Görner, Mat Velloso, Mateo Wirth, Matt Davidow, Matt Miller, Matthew Rahtz, Matthew Watson, Meg Risdal, Mehran Kazemi, Michael Moynihan, Ming Zhang, Minsuk Kahng, Minwoo Park, Mofi Rahman, Mohit Khatwani, Natalie Dao, Nenshad Bardoliwalla, Nesh Devanathan, Neta Dumai, Nilay Chauhan, Oscar Wahltinez, Pankil Botarda, Parker Barnes, Paul Barham, Paul Michel, Pengchong Jin, Petko Georgiev, Phil Culliton, Pradeep Kuppala, Ramona Comanescu, Ramona Merhej, Reena Jana, Reza Ardeshir Rokni, Rishabh Agarwal, Ryan Mullins, Samaneh Saadat, Sara Mc Carthy, Sarah Perrin, Sébastien Arnold, Sebastian Krause, Shengyang Dai, Shruti Garg, Shruti Sheth, Sue Ronstrom, Susan Chan, Timothy Jordan, Ting Yu, Tom Eccles, Tom Hennigan, Tomas Kocisky, Tulsee Doshi, Vihan Jain, Vikas Yadav, Vilobh Meshram, Vishal Dharmadhikari, Warren Barkley, Wei Wei, Wenming Ye, Woohyun Han, Woosuk Kwon, Xiang Xu, Zhe Shen, Zhitao Gong, Zichuan Wei, Victor Cotruta, Phoebe Kirk, Anand Rao, Minh Giang, Ludovic Peran, Tris Warkentin, Eli Collins, Joelle Barral, Zoubin Ghahramani, Raia Hadsell, D. Sculley, Jeanine Banks, Anca Dragan, Slav Petrov, Oriol Vinyals, Jeff Dean, Demis Hassabis, Koray Kavukcuoglu, Clement Farabet, Elena Buchatskaya, Sebastian Borgeaud, Noah Fiedel, Armand Joulin, Kathleen Kenealy, Robert Dadashi, Alek Andreev
+2408.00118v2 by Gemma Team, Morgane Riviere, Shreya Pathak, Pier Giuseppe Sessa, Cassidy Hardin, Surya Bhupatiraju, Léonard Hussenot, Thomas Mesnard, Bobak Shahriari, Alexandre Ramé, Johan Ferret, Peter Liu, Pouya Tafti, Abe Friesen, Michelle Casbon, Sabela Ramos, Ravin Kumar, Charline Le Lan, Sammy Jerome, Anton Tsitsulin, Nino Vieillard, Piotr Stanczyk, Sertan Girgin, Nikola Momchev, Matt Hoffman, Shantanu Thakoor, Jean-Bastien Grill, Behnam Neyshabur, Olivier Bachem, Alanna Walton, Aliaksei Severyn, Alicia Parrish, Aliya Ahmad, Allen Hutchison, Alvin Abdagic, Amanda Carl, Amy Shen, Andy Brock, Andy Coenen, Anthony Laforge, Antonia Paterson, Ben Bastian, Bilal Piot, Bo Wu, Brandon Royal, Charlie Chen, Chintu Kumar, Chris Perry, Chris Welty, Christopher A. Choquette-Choo, Danila Sinopalnikov, David Weinberger, Dimple Vijaykumar, Dominika Rogozińska, Dustin Herbison, Elisa Bandy, Emma Wang, Eric Noland, Erica Moreira, Evan Senter, Evgenii Eltyshev, Francesco Visin, Gabriel Rasskin, Gary Wei, Glenn Cameron, Gus Martins, Hadi Hashemi, Hanna Klimczak-Plucińska, Harleen Batra, Harsh Dhand, Ivan Nardini, Jacinda Mein, Jack Zhou, James Svensson, Jeff Stanway, Jetha Chan, Jin Peng Zhou, Joana Carrasqueira, Joana Iljazi, Jocelyn Becker, Joe Fernandez, Joost van Amersfoort, Josh Gordon, Josh Lipschultz, Josh Newlan, Ju-yeong Ji, Kareem Mohamed, Kartikeya Badola, Kat Black, Katie Millican, Keelin McDonell, Kelvin Nguyen, Kiranbir Sodhia, Kish Greene, Lars Lowe Sjoesund, Lauren Usui, Laurent Sifre, Lena Heuermann, Leticia Lago, Lilly McNealus, Livio Baldini Soares, Logan Kilpatrick, Lucas Dixon, Luciano Martins, Machel Reid, Manvinder Singh, Mark Iverson, Martin Görner, Mat Velloso, Mateo Wirth, Matt Davidow, Matt Miller, Matthew Rahtz, Matthew Watson, Meg Risdal, Mehran Kazemi, Michael Moynihan, Ming Zhang, Minsuk Kahng, Minwoo Park, Mofi Rahman, Mohit Khatwani, Natalie Dao, Nenshad Bardoliwalla, Nesh Devanathan, Neta Dumai, Nilay Chauhan, Oscar Wahltinez, Pankil Botarda, Parker Barnes, Paul Barham, Paul Michel, Pengchong Jin, Petko Georgiev, Phil Culliton, Pradeep Kuppala, Ramona Comanescu, Ramona Merhej, Reena Jana, Reza Ardeshir Rokni, Rishabh Agarwal, Ryan Mullins, Samaneh Saadat, Sara Mc Carthy, Sarah Perrin, Sébastien M. R. Arnold, Sebastian Krause, Shengyang Dai, Shruti Garg, Shruti Sheth, Sue Ronstrom, Susan Chan, Timothy Jordan, Ting Yu, Tom Eccles, Tom Hennigan, Tomas Kocisky, Tulsee Doshi, Vihan Jain, Vikas Yadav, Vilobh Meshram, Vishal Dharmadhikari, Warren Barkley, Wei Wei, Wenming Ye, Woohyun Han, Woosuk Kwon, Xiang Xu, Zhe Shen, Zhitao Gong, Zichuan Wei, Victor Cotruta, Phoebe Kirk, Anand Rao, Minh Giang, Ludovic Peran, Tris Warkentin, Eli Collins, Joelle Barral, Zoubin Ghahramani, Raia Hadsell, D. Sculley, Jeanine Banks, Anca Dragan, Slav Petrov, Oriol Vinyals, Jeff Dean, Demis Hassabis, Koray Kavukcuoglu, Clement Farabet, Elena Buchatskaya, Sebastian Borgeaud, Noah Fiedel, Armand Joulin, Kathleen Kenealy, Robert Dadashi, Alek Andreev
 
 In this work, we introduce Gemma 2, a new addition to the Gemma family of
 lightweight, state-of-the-art open models, ranging in scale from 2 billion to
@@ -2159,7 +2160,7 @@ resulting models deliver the best performance for their size, and even offer
 competitive alternatives to models that are 2-3 times bigger. We release all
 our models to the community.
 
-摘要：在本文中，我們介紹了 Gemma 2，它是 Gemma 系列輕量級、最先進的開放模型的新成員，規模從 20 億到 270 億個參數不等。在此新版本中，我們對 Transformer 架構應用了一些已知的技術修改，例如交錯局部全局注意力（Beltagy 等人，2020a）和組查詢注意力（Ainslie 等人，2023）。我們還使用知識蒸餾（Hinton 等人，2015）而不是下一個令牌預測來訓練 2B 和 9B 模型。由此產生的模型提供了與其規模相符的最佳性能，甚至提供了比大 2-3 倍的模型更有競爭力的替代方案。我們將所有模型發布給社區。
+摘要：在這項工作中，我們介紹了 Gemma 2，它是 Gemma 家族中的一項新成員，屬於輕量級、最先進的開放模型，規模從 20 億到 270 億個參數不等。在此新版本中，我們對 Transformer 架構套用多項已知的技術修改，例如交錯使用局部和全局注意力（Beltagy 等人，2020a）和群組查詢注意力（Ainslie 等人，2023）。我們還使用知識萃取（Hinton 等人，2015）而非下一個代幣預測來訓練 2B 和 9B 模型。所產生的模型提供了最佳效能，甚至提供了比大 2-3 倍的模型更有競爭力的替代方案。我們將所有模型發布給社群。
 
 ##### **Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs**
 2408.00114v1 by Kewei Cheng, Jingfeng Yang, Haoming Jiang, Zhengyang Wang, Binxuan Huang, Ruirui Li, Shiyang Li, Zheng Li, Yifan Gao, Xian Li, Bing Yin, Yizhou Sun

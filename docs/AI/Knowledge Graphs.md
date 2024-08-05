@@ -86,7 +86,7 @@
 |**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
 |**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
-|**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v1](http://arxiv.org/abs/2407.02659v1)|null|
+|**2024-07-02**|**LLMs Plagiarize: Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v2](http://arxiv.org/abs/2407.02659v2)|null|
 |**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380v1](http://arxiv.org/abs/2407.03380v1)|[link](https://github.com/srivathsanb14/multipeptide)|
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
@@ -2112,29 +2112,32 @@ reasoning capabilities of LLMs.
 
 摘要：大型語言模型 (LLM) 在實際應用中的進展，關鍵在於提升其推理能力。在這項工作中，我們透過大型語言模型 (LLM) 的幾何理解，探討其推理能力。我們建立了 LLM 的表達能力與其自注意力圖密度之間的關聯。我們的分析證明，這些圖的密度定義了 MLP 塊輸入的內在維度。我們透過理論分析和玩具範例證明，較高的內在維度意味著 LLM 具有更大的表達能力。我們進一步提供經驗證據，將這個幾何框架連結到最近在旨在增強 LLM 推理能力的方法中取得的進展。
 
-##### **Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**
-2407.02659v1 by Devam Mondal, Carlo Lipizzi
+##### **LLMs Plagiarize: Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**
+2407.02659v2 by Devam Mondal, Carlo Lipizzi
 
-In light of recent plagiarism allegations Brough by publishers, newspapers,
-and other creators of copyrighted corpora against large language model (LLM)
-developers, we propose a novel system, a variant of a plagiarism detection
-system, that assesses whether a knowledge source has been used in the training
-or fine-tuning of a large language model. Unlike current methods, we utilize an
+In light of recent legal allegations brought by publishers, newspapers, and
+other creators of copyrighted corpora against large language model developers
+who use their copyrighted materials for training or fine-tuning purposes, we
+propose a novel system, a variant of a plagiarism detection system, that
+assesses whether a knowledge source has been used in the training or
+fine-tuning of a large language model. Unlike current methods, we utilize an
 approach that uses Resource Description Framework (RDF) triples to create
-knowledge graphs from both a source document and a LLM continuation of that
+knowledge graphs from both a source document and an LLM continuation of that
 document. These graphs are then analyzed with respect to content using cosine
 similarity and with respect to structure using a normalized version of graph
-edit distance that shows the degree of isomorphism. Unlike traditional systems
-that focus on content matching and keyword identification between a source and
-target corpus, our approach enables a broader evaluation of similarity and thus
-a more accurate comparison of the similarity between a source document and LLM
+edit distance that shows the degree of isomorphism. Unlike traditional
+plagiarism systems that focus on content matching and keyword identification
+between a source and a target corpus, our approach enables a broader and more
+accurate evaluation of similarity between a source document and LLM
 continuation by focusing on relationships between ideas and their organization
 with regards to others. Additionally, our approach does not require access to
 LLM metrics like perplexity that may be unavailable in closed large language
-modeling "black-box" systems, as well as the training corpus. A prototype of
-our system will be found on a hyperlinked GitHub repository.
+model "black-box" systems, as well as the training corpus. We thus assess
+whether an LLM has "plagiarized" a corpus in its continuation through
+similarity measures. A prototype of our system will be found on a hyperlinked
+GitHub repository.
 
-摘要：鉴于出版商、报纸和其他受版权保护语料库的创造者最近对大型语言模型 (LLM) 开发者提出的剽窃指控，我们提出了一种新颖的系统，该系统是剽窃检测系统的一个变体，它评估知识源是否已用于大型语言模型的训练或微调。与当前方法不同，我们利用一种使用资源描述框架 (RDF) 三元组的方法从源文档和该文档的 LLM 延续中创建知识图谱。然后使用余弦相似性分析这些图谱的内容，并使用图编辑距离的标准化版本分析结构，该版本显示同构度。与专注于源语料库和目标语料库之间的内容匹配和关键词识别的传统系统不同，我们的方法能够对相似性进行更广泛的评估，从而更准确地比较源文档和 LLM 延续之间的相似性，方法是关注思想之间的关系以及它们与其他思想的关系。此外，我们的方法不需要访问 LLM 指标，例如困惑度，这些指标在封闭的大型语言建模“黑匣子”系统以及训练语料库中可能不可用。我们系统的原型将在超链接的 GitHub 存储库中找到。
+摘要：鉴于出版商、报纸和其他受版权保护语料库的创作者针对使用其受版权保护资料进行训练或微调的大型语言模型开发者提出的近期法律指控，我们提出了一种新颖的系统，即抄袭检测系统的一个变体，该系统评估知识来源是否已用于大型语言模型的训练或微调。与当前方法不同，我们使用一种方法，该方法利用资源描述框架 (RDF) 三元组从源文档和该文档的 LLM 续篇创建知识图谱。然后使用余弦相似性分析这些图谱的内容，并使用图编辑距离的标准化版本分析其结构，该版本显示同构的程度。与专注于源语料库和目标语料库之间的内容匹配和关键词识别的传统抄袭系统不同，我们的方法通过关注思想之间的关系及其与其他思想的组织方式，对源文档和 LLM 续篇之间的相似性进行更广泛、更准确的评估。此外，我们的方法不需要访问 LLM 指标，例如在封闭的大型语言模型“黑匣子”系统以及训练语料库中可能无法获得的困惑度。因此，我们通过相似性度量评估 LLM 是否在其续篇中“抄袭”了语料库。我们系统的原型将可以在超链接的 GitHub 存储库中找到。
 
 ##### **Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**
 2407.03380v1 by Srivathsan Badrinarayanan, Chakradhar Guntuboina, Parisa Mollaei, Amir Barati Farimani

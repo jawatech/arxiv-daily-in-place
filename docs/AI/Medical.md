@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02**|**High-Throughput Phenotyping of Clinical Text Using Large Language Models**|Daniel B. Hier et.al.|[2408.01214v1](http://arxiv.org/abs/2408.01214v1)|null|
+|**2024-08-02**|**Optimizing Variational Quantum Circuits Using Metaheuristic Strategies in Reinforcement Learning**|Michael Kölle et.al.|[2408.01187v1](http://arxiv.org/abs/2408.01187v1)|null|
+|**2024-08-02**|**Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding**|Danbinaerin Han et.al.|[2408.01096v1](http://arxiv.org/abs/2408.01096v1)|null|
+|**2024-08-01**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v1](http://arxiv.org/abs/2408.00938v1)|null|
+|**2024-08-01**|**Parkinson's Disease Detection from Resting State EEG using Multi-Head Graph Structure Learning with Gradient Weighted Graph Attention Explanations**|Christopher Neves et.al.|[2408.00906v1](http://arxiv.org/abs/2408.00906v1)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v1](http://arxiv.org/abs/2408.00860v1)|null|
 |**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|null|
@@ -96,14 +102,148 @@
 |**2024-07-19**|**Fair Overlap Number of Balls (Fair-ONB): A Data-Morphology-based Undersampling Method for Bias Reduction**|José Daniel Pascual-Triana et.al.|[2407.14210v1](http://arxiv.org/abs/2407.14210v1)|null|
 |**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076v2](http://arxiv.org/abs/2407.14076v2)|null|
 |**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030v1](http://arxiv.org/abs/2407.14030v1)|null|
-|**2024-07-18**|**DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**|Xiaoya Tang et.al.|[2407.13920v1](http://arxiv.org/abs/2407.13920v1)|null|
-|**2024-07-18**|**Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset**|Yi Sheng et.al.|[2407.13896v1](http://arxiv.org/abs/2407.13896v1)|null|
-|**2024-07-18**|**APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy**|Yi Sheng et.al.|[2407.14564v1](http://arxiv.org/abs/2407.14564v1)|null|
-|**2024-07-18**|**Addressing Imbalance for Class Incremental Learning in Medical Image Classification**|Xuze Hao et.al.|[2407.13768v1](http://arxiv.org/abs/2407.13768v1)|null|
-|**2024-07-18**|**Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**|Longchao Da et.al.|[2407.13689v1](http://arxiv.org/abs/2407.13689v1)|null|
-|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 
 #### Abstracts
+##### **High-Throughput Phenotyping of Clinical Text Using Large Language Models**
+2408.01214v1 by Daniel B. Hier, S. Ilyas Munzir, Anne Stahlfeld, Tayo Obafemi-Ajayi, Michael D. Carrithers
+
+High-throughput phenotyping automates the mapping of patient signs to
+standardized ontology concepts and is essential for precision medicine. This
+study evaluates the automation of phenotyping of clinical summaries from the
+Online Mendelian Inheritance in Man (OMIM) database using large language
+models. Due to their rich phenotype data, these summaries can be surrogates for
+physician notes. We conduct a performance comparison of GPT-4 and
+GPT-3.5-Turbo. Our results indicate that GPT-4 surpasses GPT-3.5-Turbo in
+identifying, categorizing, and normalizing signs, achieving concordance with
+manual annotators comparable to inter-rater agreement. Despite some limitations
+in sign normalization, the extensive pre-training of GPT-4 results in high
+performance and generalizability across several phenotyping tasks while
+obviating the need for manually annotated training data. Large language models
+are expected to be the dominant method for automating high-throughput
+phenotyping of clinical text.
+
+摘要：高通量表型自動化將患者症狀對應到標準化本体概念，對於精準醫療至關重要。本研究評估使用大型語言模型自動化來自人類孟德爾遺傳線上（OMIM）資料庫的臨床摘要表型。由於其豐富的表型資料，這些摘要可以作為醫師備忘錄的替代品。我們對 GPT-4 和 GPT-3.5-Turbo 進行效能比較。我們的結果顯示，GPT-4 在識別、分類和標準化症狀方面優於 GPT-3.5-Turbo，與手動註解者的符合度可媲美評分者間的一致性。儘管在症狀標準化方面有一些限制，但 GPT-4 的廣泛預訓練在多項表型任務中仍能帶來高效能和概括性，同時無需手動註解的訓練資料。大型語言模型預計將成為自動化臨床文字高通量表型的主要方法。
+
+##### **Optimizing Variational Quantum Circuits Using Metaheuristic Strategies in Reinforcement Learning**
+2408.01187v1 by Michael Kölle, Daniel Seidl, Maximilian Zorn, Philipp Altmann, Jonas Stein, Thomas Gabor
+
+Quantum Reinforcement Learning (QRL) offers potential advantages over
+classical Reinforcement Learning, such as compact state space representation
+and faster convergence in certain scenarios. However, practical benefits
+require further validation. QRL faces challenges like flat solution landscapes,
+where traditional gradient-based methods are inefficient, necessitating the use
+of gradient-free algorithms. This work explores the integration of
+metaheuristic algorithms -- Particle Swarm Optimization, Ant Colony
+Optimization, Tabu Search, Genetic Algorithm, Simulated Annealing, and Harmony
+Search -- into QRL. These algorithms provide flexibility and efficiency in
+parameter optimization. Evaluations in $5\times5$ MiniGrid Reinforcement
+Learning environments show that, all algorithms yield near-optimal results,
+with Simulated Annealing and Particle Swarm Optimization performing best. In
+the Cart Pole environment, Simulated Annealing, Genetic Algorithms, and
+Particle Swarm Optimization achieve optimal results, while the others perform
+slightly better than random action selection. These findings demonstrate the
+potential of Particle Swarm Optimization and Simulated Annealing for efficient
+QRL learning, emphasizing the need for careful algorithm selection and
+adaptation.
+
+摘要：量子強化學習 (QRL) 比傳統強化學習具有潛在優勢，例如緊湊的狀態空間表示和在某些情況下更快的收斂速度。然而，實際好處需要進一步驗證。QRL 面臨平坦的解決方案環境等挑戰，傳統的基於梯度的算法效率低下，因此需要使用無梯度算法。這項工作探討了元啟發式演算法（粒子群最佳化、蟻群最佳化、禁忌搜尋、遺傳演算法、模擬退火和和諧搜尋）整合到 QRL 中。這些演算法在參數最佳化中提供了靈活性與效率。在 $5\times5$ MiniGrid 強化學習環境中的評估顯示，所有演算法都產生近乎最佳的結果，其中模擬退火和粒子群最佳化表現最佳。在桿鈴環境中，模擬退火、遺傳演算法和粒子群最佳化實現最佳結果，而其他演算法的效能略優於隨機動作選擇。這些發現證明了粒子群最佳化和模擬退火在有效率的 QRL 學習中的潛力，強調了仔細選擇和調整演算法的必要性。
+
+##### **Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding**
+2408.01096v1 by Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, Dasaem Jeong
+
+We introduce a project that revives a piece of 15th-century Korean court
+music, Chihwapyeong and Chwipunghyeong, composed upon the poem Songs of the
+Dragon Flying to Heaven. One of the earliest examples of Jeongganbo, a Korean
+musical notation system, the remaining version only consists of a rudimentary
+melody. Our research team, commissioned by the National Gugak (Korean
+Traditional Music) Center, aimed to transform this old melody into a
+performable arrangement for a six-part ensemble. Using Jeongganbo data acquired
+through bespoke optical music recognition, we trained a BERT-like masked
+language model and an encoder-decoder transformer model. We also propose an
+encoding scheme that strictly follows the structure of Jeongganbo and denotes
+note durations as positions. The resulting machine-transformed version of
+Chihwapyeong and Chwipunghyeong were evaluated by experts and performed by the
+Court Music Orchestra of National Gugak Center. Our work demonstrates that
+generative models can successfully be applied to traditional music with limited
+training data if combined with careful design.
+
+摘要：我們介紹了一個復原 15 世紀韓國宮廷音樂的專案，即《飛龍歌》的《雉和拍》和《吹風詠》。這是韓國音樂記譜法「正干譜」最早的範例之一，現存版本僅包含基本的旋律。我們的研究團隊受國家國樂中心委託，旨在將這首古老的旋律轉化為六人合奏的表演編排。我們使用透過客製化光學音樂辨識取得的正干譜資料，訓練了一個類似 BERT 的遮蔽語言模型和一個編碼器-解碼器轉換器模型。我們還提出了一種編碼方案，它嚴格遵循正干譜的結構，並將音符時值標示為位置。由機器轉換後的《雉和拍》和《吹風詠》由專家評估，並由國家國樂中心的宮廷音樂樂團演奏。我們的研究證明，如果將生成模型與謹慎的設計結合，即使訓練資料有限，也能成功應用於傳統音樂。
+
+##### **CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**
+2408.00938v1 by Caiwen Jiang, Xiaodan Xing, Zaixin Ou, Mianxin Liu, Walsh Simon, Guang Yang, Dinggang Shen
+
+The progression of Idiopathic Pulmonary Fibrosis (IPF) significantly
+correlates with higher patient mortality rates. Early detection of IPF
+progression is critical for initiating timely treatment, which can effectively
+slow down the advancement of the disease. However, the current clinical
+criteria define disease progression requiring two CT scans with a one-year
+interval, presenting a dilemma: a disease progression is identified only after
+the disease has already progressed. To this end, in this paper, we develop a
+novel diffusion model to accurately predict the progression of IPF by
+generating patient's follow-up CT scan from the initial CT scan. Specifically,
+from the clinical prior knowledge, we tailor improvements to the traditional
+diffusion model and propose a Clinically-Informed Residual Diffusion model,
+called CIResDiff. The key innovations of CIResDiff include 1) performing the
+target region pre-registration to align the lung regions of two CT scans at
+different time points for reducing the generation difficulty, 2) adopting the
+residual diffusion instead of traditional diffusion to enable the model focus
+more on differences (i.e., lesions) between the two CT scans rather than the
+largely identical anatomical content, and 3) designing the clinically-informed
+process based on CLIP technology to integrate lung function information which
+is highly relevant to diagnosis into the reverse process for assisting
+generation. Extensive experiments on clinical data demonstrate that our
+approach can outperform state-of-the-art methods and effectively predict the
+progression of IPF.
+
+摘要：特發性肺纖維化 (IPF) 的進程與較高的患者死亡率顯著相關。早期發現 IPF 進程對於及時開始治療至關重要，這可以有效減緩疾病的進展。然而，當前的臨床標準定義疾病進程需要兩次 CT 掃描，間隔一年，這提出了兩難：只有在疾病已經進展後才能識別出疾病進程。為此，在本文中，我們開發了一種新穎的擴散模型，通過從初始 CT 掃描生成患者的後續 CT 掃描，準確預測 IPF 的進程。具體來說，從臨床先驗知識中，我們調整了傳統擴散模型，並提出了稱為 CIResDiff 的臨床信息殘差擴散模型。CIResDiff 的關鍵創新包括 1) 執行目標區域預註冊，以對齊不同時間點的兩次 CT 掃描的肺部區域，以降低生成難度，2) 採用殘差擴散而不是傳統擴散，以使模型更多地關注兩次 CT 掃描之間的差異（即病灶）而不是在很大程度上相同的解剖內容，以及 3) 設計基於 CLIP 技術的臨床信息流程，以將與診斷高度相關的肺功能信息整合到反向過程中以協助生成。臨床數據的大量實驗表明，我們的做法可以優於最先進的方法，並有效預測 IPF 的進程。
+
+##### **Parkinson's Disease Detection from Resting State EEG using Multi-Head Graph Structure Learning with Gradient Weighted Graph Attention Explanations**
+2408.00906v1 by Christopher Neves, Yong Zeng, Yiming Xiao
+
+Parkinson's disease (PD) is a debilitating neurodegenerative disease that has
+severe impacts on an individual's quality of life. Compared with structural and
+functional MRI-based biomarkers for the disease, electroencephalography (EEG)
+can provide more accessible alternatives for clinical insights. While deep
+learning (DL) techniques have provided excellent outcomes, many techniques fail
+to model spatial information and dynamic brain connectivity, and face
+challenges in robust feature learning, limited data sizes, and poor
+explainability. To address these issues, we proposed a novel graph neural
+network (GNN) technique for explainable PD detection using resting state EEG.
+Specifically, we employ structured global convolutions with contrastive
+learning to better model complex features with limited data, a novel multi-head
+graph structure learner to capture the non-Euclidean structure of EEG data, and
+a head-wise gradient-weighted graph attention explainer to offer neural
+connectivity insights. We developed and evaluated our method using the UC San
+Diego Parkinson's disease EEG dataset, and achieved 69.40% detection accuracy
+in subject-wise leave-one-out cross-validation while generating intuitive
+explanations for the learnt graph topology.
+
+摘要：帕金森氏症（PD）是一种衰弱性神经退行性疾病，对个人的生活质量有严重影响。与用于该疾病的结构性和功能性 MRI 生物标记物相比，脑电图 (EEG) 可以提供更易于获取的临床见解替代方案。虽然深度学习 (DL) 技术提供了卓越的结果，但许多技术未能对空间信息和动态大脑连接进行建模，并且在稳健特征学习、有限的数据大小和较差的可解释性方面面临挑战。为了解决这些问题，我们提出了一种新颖的图神经网络 (GNN) 技术，用于使用静息状态脑电图进行可解释的 PD 检测。具体而言，我们采用具有对比学习的结构化全局卷积来更好地对具有有限数据的复杂特征进行建模，采用新颖的多头图结构学习器来捕获脑电图数据的非欧几里得结构，以及采用头权重梯度图注意解释器来提供神经连接见解。我们使用加州大学圣地亚哥分校帕金森氏症脑电图数据集开发并评估了我们的方法，并在按受试者留一法交叉验证中实现了 69.40% 的检测准确率，同时为学习到的图拓扑生成直观的解释。
+
+##### **UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**
+2408.00860v1 by Ziwen Guo, Zi Fang, Zhuang Fu
+
+Three-dimensional ultrasound imaging is a critical technology widely used in
+medical diagnostics. However, traditional 3D ultrasound imaging methods have
+limitations such as fixed resolution, low storage efficiency, and insufficient
+contextual connectivity, leading to poor performance in handling complex
+artifacts and reflection characteristics. Recently, techniques based on NeRF
+(Neural Radiance Fields) have made significant progress in view synthesis and
+3D reconstruction, but there remains a research gap in high-quality ultrasound
+imaging. To address these issues, we propose a new model, UlRe-NeRF, which
+combines implicit neural networks and explicit ultrasound volume rendering into
+an ultrasound neural rendering architecture. This model incorporates reflection
+direction parameterization and harmonic encoding, using a directional MLP
+module to generate view-dependent high-frequency reflection intensity
+estimates, and a spatial MLP module to produce the medium's physical property
+parameters. These parameters are used in the volume rendering process to
+accurately reproduce the propagation and reflection behavior of ultrasound
+waves in the medium. Experimental results demonstrate that the UlRe-NeRF model
+significantly enhances the realism and accuracy of high-fidelity ultrasound
+image reconstruction, especially in handling complex medium structures.
+
+摘要：三維超音波影像技術是一項廣泛用於醫療診斷的重要技術。然而，傳統的 3D 超音波影像方法有解析度固定、儲存效率低、上下文關聯性不足等限制，導致在處理複雜的偽影和反射特性時效能不佳。最近，基於 NeRF（神經輻照場）的技術在視圖合成和 3D 重建方面取得了重大進展，但在高品質超音波影像方面仍存在研究空白。為了解決這些問題，我們提出了一個新的模型 UlRe-NeRF，它將隱式神經網路和顯式超音波體積渲染結合到一個超音波神經渲染架構中。此模型結合了反射方向參數化和諧波編碼，使用方向性 MLP 模組來產生視圖依賴的高頻反射強度估計，並使用空間 MLP 模組來產生介質的物理屬性參數。這些參數用於體積渲染過程中，以準確重現超音波在介質中的傳播和反射行為。實驗結果表明，UlRe-NeRF 模型顯著增強了高保真超音波影像重建的真實性和準確性，特別是在處理複雜介質結構時。
+
 ##### **Segment anything model 2: an application to 2D and 3D medical images**
 2408.00756v1 by Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski
 
@@ -2506,146 +2646,4 @@ effectiveness of clinical research. Thus, this approach provides a more
 holistic view of clinical trials and existing biological data.
 
 摘要：儘管藥物開發策略有進展，90% 的臨床試驗都失敗了。這表示在目標驗證和藥物最佳化方面有被忽略的層面。為了解決這個問題，我們引進了 HeCiX-KG，Hetionet-Clinicaltrials neXus 知識圖譜，這是一個將 ClinicalTrials.gov 和 Hetionet 的資料融合在單一知識圖譜中的新穎融合。HeCiX-KG 結合了來自 ClinicalTrials.gov 的先前執行臨床試驗資料，以及來自 Hetionet 的疾病和基因領域專業知識。這為臨床研究人員提供了豐富的資源。此外，我們引進了 HeCiX，一個使用 LangChain 將 HeCiX-KG 與 GPT-4 整合，並提高其可用性的系統。HeCiX 在針對一系列臨床相關問題的評估中表現出高性能，證明了這個模型有望提高臨床研究的有效性。因此，這種方法提供了對臨床試驗和現有生物資料更全面的看法。
-
-##### **DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**
-2407.13920v1 by Xiaoya Tang, Bodong Zhang, Beatrice S. Knudsen, Tolga Tasdizen
-
-We here propose a novel hierarchical transformer model that adeptly
-integrates the feature extraction capabilities of Convolutional Neural Networks
-(CNNs) with the advanced representational potential of Vision Transformers
-(ViTs). Addressing the lack of inductive biases and dependence on extensive
-training datasets in ViTs, our model employs a CNN backbone to generate
-hierarchical visual representations. These representations are then adapted for
-transformer input through an innovative patch tokenization. We also introduce a
-'scale attention' mechanism that captures cross-scale dependencies,
-complementing patch attention to enhance spatial understanding and preserve
-global perception. Our approach significantly outperforms baseline models on
-small and medium-sized medical datasets, demonstrating its efficiency and
-generalizability. The components are designed as plug-and-play for different
-CNN architectures and can be adapted for multiple applications. The code is
-available at https://github.com/xiaoyatang/DuoFormer.git.
-
-摘要：我們在此提出一個新穎的分層Transformer模型，它巧妙地整合了卷積神經網路 (CNN) 的特徵擷取能力，以及視覺Transformer (ViT) 的先進表示潛力。針對 ViT 中缺乏歸納偏誤和依賴於廣泛訓練資料集的問題，我們的模型採用 CNN 主幹來產生分層視覺表示。這些表示接著透過創新的區塊標記化，調整為Transformer輸入。我們也引入「尺度注意力」機制，它捕捉跨尺度依賴性，補充區塊注意力以增強空間理解並保留全局感知。我們的做法在小型和中型的醫學資料集上，明顯優於基線模型，證明了它的效率和可概化性。這些組件被設計成即插即用，適用於不同的 CNN 架構，並且可以調整為多種應用程式。程式碼可在 https://github.com/xiaoyatang/DuoFormer.git 取得。
-
-##### **Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset**
-2407.13896v1 by Yi Sheng, Junhuan Yang, Jinyang Li, James Alaina, Xiaowei Xu, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang
-
-As Artificial Intelligence (AI) increasingly integrates into our daily lives,
-fairness has emerged as a critical concern, particularly in medical AI, where
-datasets often reflect inherent biases due to social factors like the
-underrepresentation of marginalized communities and socioeconomic barriers to
-data collection. Traditional approaches to mitigating these biases have focused
-on data augmentation and the development of fairness-aware training algorithms.
-However, this paper argues that the architecture of neural networks, a core
-component of Machine Learning (ML), plays a crucial role in ensuring fairness.
-We demonstrate that addressing fairness effectively requires a holistic
-approach that simultaneously considers data, algorithms, and architecture.
-Utilizing Automated ML (AutoML) technology, specifically Neural Architecture
-Search (NAS), we introduce a novel framework, BiaslessNAS, designed to achieve
-fair outcomes in analyzing skin lesion datasets. BiaslessNAS incorporates
-fairness considerations at every stage of the NAS process, leading to the
-identification of neural networks that are not only more accurate but also
-significantly fairer. Our experiments show that BiaslessNAS achieves a 2.55%
-increase in accuracy and a 65.50% improvement in fairness compared to
-traditional NAS methods, underscoring the importance of integrating fairness
-into neural network architecture for better outcomes in medical AI
-applications.
-
-摘要：隨著人工智慧（AI）日益融入我們的日常生活，公平性已成為一項至關重要的考量，特別是在醫療 AI 領域，其中由於社會因素（例如邊緣化社群的代表性不足和資料收集的社會經濟障礙），資料集往往反映出固有的偏見。減輕這些偏見的傳統方法著重於資料擴充和開發注重公平性的訓練演算法。然而，本文論證神經網路的架構（機器學習（ML）的核心組成部分）在確保公平性方面發揮著至關重要的作用。我們證明，有效解決公平性問題需要一種全面的方法，該方法同時考慮資料、演算法和架構。利用自動化 ML（AutoML）技術，特別是神經架構搜尋（NAS），我們引入了一個新穎的框架 BiaslessNAS，旨在分析皮膚病變資料集時獲得公平的結果。BiaslessNAS 在 NAS 程序的每個階段都納入了公平性考量，從而識別出不僅更準確，而且也顯著更公平的神經網路。我們的實驗表明，與傳統的 NAS 方法相比，BiaslessNAS 的準確度提高了 2.55%，公平性提高了 65.50%，這凸顯了將公平性整合到神經網路架構中對於改善醫療 AI 應用中的結果的重要性。
-
-##### **APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy**
-2407.14564v1 by Yi Sheng, Hanchen Wang, Yipei Liu, Junhuan Yang, Weiwen Jiang, Youzuo Lin, Lei Yang
-
-Ultrasound computed tomography (USCT) is a promising technique that achieves
-superior medical imaging reconstruction resolution by fully leveraging waveform
-information, outperforming conventional ultrasound methods. Despite its
-advantages, high-quality USCT reconstruction relies on extensive data
-acquisition by a large number of transducers, leading to increased costs,
-computational demands, extended patient scanning times, and manufacturing
-complexities. To mitigate these issues, we propose a new USCT method called
-APS-USCT, which facilitates imaging with sparse data, substantially reducing
-dependence on high-cost dense data acquisition. Our APS-USCT method consists of
-two primary components: APS-wave and APS-FWI. The APS-wave component, an
-encoder-decoder system, preprocesses the waveform data, converting sparse data
-into dense waveforms to augment sample density prior to reconstruction. The
-APS-FWI component, utilizing the InversionNet, directly reconstructs the speed
-of sound (SOS) from the ultrasound waveform data. We further improve the
-model's performance by incorporating Squeeze-and-Excitation (SE) Blocks and
-source encoding techniques. Testing our method on a breast cancer dataset
-yielded promising results. It demonstrated outstanding performance with an
-average Structural Similarity Index (SSIM) of 0.8431. Notably, over 82% of
-samples achieved an SSIM above 0.8, with nearly 61% exceeding 0.85,
-highlighting the significant potential of our approach in improving USCT image
-reconstruction by efficiently utilizing sparse data.
-
-摘要：超音波電腦斷層攝影 (USCT) 是一種很有前景的技術，它能透過充分利用波形資訊，達成優異的醫學影像重建解析度，表現優於傳統超音波方法。儘管有其優點，高品質的 USCT 重建依賴於大量換能器廣泛的資料擷取，導致成本增加、運算需求、病患掃描時間延長，以及製造複雜度。為了減輕這些問題，我們提出了一種名為 APS-USCT 的新型 USCT 方法，它促進使用稀疏資料進行影像處理，大幅降低對高成本密集資料擷取的依賴。我們的 APS-USCT 方法包含兩個主要組成部分：APS-wave 和 APS-FWI。APS-wave 組件是一個編碼器解碼器系統，它預先處理波形資料，將稀疏資料轉換為密集波形，以在重建之前增加取樣密度。APS-FWI 組件利用 InversionNet，直接從超音波波形資料重建音速 (SOS)。我們進一步透過結合 Squeeze-and-Excitation (SE) 區塊和原始編碼技術來提升模型效能。在乳癌資料集上測試我們的這個方法，得到了有前景的結果。它展現了傑出的效能，結構相似性指標 (SSIM) 平均為 0.8431。值得注意的是，超過 82% 的樣本達成 SSIM 高於 0.8，近 61% 超過 0.85，突顯了我們的方法在透過有效利用稀疏資料來改善 USCT 影像重建方面的顯著潛力。
-
-##### **Addressing Imbalance for Class Incremental Learning in Medical Image Classification**
-2407.13768v1 by Xuze Hao, Wenqian Ni, Xuhao Jiang, Weimin Tan, Bo Yan
-
-Deep convolutional neural networks have made significant breakthroughs in
-medical image classification, under the assumption that training samples from
-all classes are simultaneously available. However, in real-world medical
-scenarios, there's a common need to continuously learn about new diseases,
-leading to the emerging field of class incremental learning (CIL) in the
-medical domain. Typically, CIL suffers from catastrophic forgetting when
-trained on new classes. This phenomenon is mainly caused by the imbalance
-between old and new classes, and it becomes even more challenging with
-imbalanced medical datasets. In this work, we introduce two simple yet
-effective plug-in methods to mitigate the adverse effects of the imbalance.
-First, we propose a CIL-balanced classification loss to mitigate the classifier
-bias toward majority classes via logit adjustment. Second, we propose a
-distribution margin loss that not only alleviates the inter-class overlap in
-embedding space but also enforces the intra-class compactness. We evaluate the
-effectiveness of our method with extensive experiments on three benchmark
-datasets (CCH5000, HAM10000, and EyePACS). The results demonstrate that our
-approach outperforms state-of-the-art methods.
-
-摘要：深度卷積神經網路在醫學影像分類方面取得了重大突破，假設所有類別的訓練樣本都能同時取得。然而，在現實世界的醫療場景中，通常需要持續學習新的疾病，導致醫療領域中類別增量學習 (CIL) 的新興領域。通常，CIL 在訓練新類別時會遭受災難性遺忘。這種現象主要是由於舊類別和新類別之間的不平衡造成的，而在不平衡的醫療資料集上，這會變得更具挑戰性。在這項工作中，我們介紹了兩種簡單但有效的外掛方法來減輕不平衡的負面影響。首先，我們提出一個 CIL 平衡分類損失，透過 logit 調整來減輕分類器對多數類別的偏見。其次，我們提出一個分佈邊際損失，它不僅可以減輕嵌入空間中的類間重疊，還可以加強類內緊密性。我們在三個基準資料集（CCH5000、HAM10000 和 EyePACS）上進行了廣泛的實驗，評估了我們方法的有效性。結果表明，我們的做法優於最先進的方法。
-
-##### **Shaded Route Planning Using Active Segmentation and Identification of Satellite Images**
-2407.13689v1 by Longchao Da, Rohan Chhibba, Rushabh Jaiswal, Ariane Middel, Hua Wei
-
-Heatwaves pose significant health risks, particularly due to prolonged
-exposure to high summer temperatures. Vulnerable groups, especially pedestrians
-and cyclists on sun-exposed sidewalks, motivate the development of a route
-planning method that incorporates somatosensory temperature effects through
-shade ratio consideration. This paper is the first to introduce a pipeline that
-utilizes segmentation foundation models to extract shaded areas from
-high-resolution satellite images. These areas are then integrated into a
-multi-layered road map, enabling users to customize routes based on a balance
-between distance and shade exposure, thereby enhancing comfort and health
-during outdoor activities. Specifically, we construct a graph-based
-representation of the road map, where links indicate connectivity and are
-updated with shade ratio data for dynamic route planning. This system is
-already implemented online, with a video demonstration, and will be
-specifically adapted to assist travelers during the 2024 Olympic Games in
-Paris.
-
-摘要：熱浪造成顯著的健康風險，特別是長時間暴露在夏季的高溫下。容易受傷害的族群，尤其是行走在陽光直射人行道上的行人和自行車騎士，促成了規劃路線方法的發展，其中納入了透過遮陽率考量來產生的體感溫度影響。本文首次介紹一個利用分割基礎模型從高解析度衛星影像中擷取陰影區域的管線。這些區域接著整合到多層道路地圖中，使用戶能夠根據距離和遮陽曝曬之間的平衡來自訂路線，進而提升戶外活動時的舒適度和健康。具體來說，我們建構了一個以圖形為基礎的道路地圖表徵，其中連結表示連通性，並透過遮陽率資料更新以進行動態路線規劃。此系統已線上實作，並附有影片示範，且將特別調整以協助旅客參加 2024 年巴黎奧運。
-
-##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
-2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
-
-This study aims to explore the implementation of Natural Language Processing
-(NLP) and machine learning (ML) techniques to automate the coding of medical
-letters with visualised explainability and light-weighted local computer
-settings. Currently in clinical settings, coding is a manual process that
-involves assigning codes to each condition, procedure, and medication in a
-patient's paperwork (e.g., 56265001 heart disease using SNOMED CT code). There
-are preliminary research on automatic coding in this field using
-state-of-the-art ML models; however, due to the complexity and size of the
-models, the real-world deployment is not achieved. To further facilitate the
-possibility of automatic coding practice, we explore some solutions in a local
-computer setting; in addition, we explore the function of explainability for
-transparency of AI models. We used the publicly available MIMIC-III database
-and the HAN/HLAN network models for ICD code prediction purposes. We also
-experimented with the mapping between ICD and SNOMED CT knowledge bases. In our
-experiments, the models provided useful information for 97.98\% of codes. The
-result of this investigation can shed some light on implementing automatic
-clinical coding in practice, such as in hospital settings, on the local
-computers used by clinicians , project page
-\url{https://github.com/Glenj01/Medical-Coding}.
-
-摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
 

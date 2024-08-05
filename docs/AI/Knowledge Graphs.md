@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
+|**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v1](http://arxiv.org/abs/2408.01088v1)|null|
+|**2024-08-02**|**Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**|Fei Yang et.al.|[2408.00966v1](http://arxiv.org/abs/2408.00966v1)|null|
 |**2024-08-01**|**DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**|Guillermo Villar-Rodríguez et.al.|[2408.00633v1](http://arxiv.org/abs/2408.00633v1)|null|
 |**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
 |**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|null|
@@ -99,11 +102,70 @@
 |**2024-06-30**|**Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**|Romy Fieblinger et.al.|[2407.02528v1](http://arxiv.org/abs/2407.02528v1)|null|
 |**2024-06-30**|**Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**|Yifei Zhang et.al.|[2407.00653v1](http://arxiv.org/abs/2407.00653v1)|null|
 |**2024-06-29**|**BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science**|Xinna Lin et.al.|[2407.00466v1](http://arxiv.org/abs/2407.00466v1)|[link](https://github.com/westlake-autolab/biokgbench.github.io)|
-|**2024-06-29**|**GraphArena: Benchmarking Large Language Models on Graph Computational Problems**|Jianheng Tang et.al.|[2407.00379v1](http://arxiv.org/abs/2407.00379v1)|[link](https://github.com/squareroot3/grapharena)|
-|**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326v1](http://arxiv.org/abs/2407.00326v1)|null|
-|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967v1](http://arxiv.org/abs/2406.19967v1)|null|
 
 #### Abstracts
+##### **DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**
+2408.01154v1 by Zhichun Wang, Xuan Chen
+
+Entity Alignment (EA) aims to match equivalent entities in different
+Knowledge Graphs (KGs), which is essential for knowledge fusion and
+integration. Recently, embedding-based EA has attracted significant attention
+and many approaches have been proposed. Early approaches primarily focus on
+learning entity embeddings from the structural features of KGs, defined by
+relation triples. Later methods incorporated entities' names and attributes as
+auxiliary information to enhance embeddings for EA. However, these approaches
+often used different techniques to encode structural and attribute information,
+limiting their interaction and mutual enhancement. In this work, we propose a
+dense entity retrieval framework for EA, leveraging language models to
+uniformly encode various features of entities and facilitate nearest entity
+search across KGs. Alignment candidates are first generated through entity
+retrieval, which are subsequently reranked to determine the final alignments.
+We conduct comprehensive experiments on both cross-lingual and monolingual EA
+datasets, demonstrating that our approach achieves state-of-the-art performance
+compared to existing EA methods.
+
+摘要：實體對齊 (EA) 旨在比對不同知識圖譜 (KG) 中的等效實體，這對於知識融合和整合非常重要。最近，基於嵌入的 EA 已引起相當大的關注，並且已提出許多方法。早期的方法主要專注於從 KG 的結構特徵中學習實體嵌入，這些特徵由關係三元組定義。後續的方法將實體的名稱和屬性作為輔助資訊，以增強 EA 的嵌入。然而，這些方法通常使用不同的技術來編碼結構和屬性資訊，限制了它們的互動和相互增強。在這項工作中，我們提出了一個密集實體擷取架構，用於 EA，利用語言模型來統一編碼實體的各種特徵，並促進跨 KG 的最近實體搜尋。對齊候選者首先透過實體擷取產生，然後重新排序以確定最終對齊。我們對跨語言和單語言 EA 資料集進行了全面的實驗，證明與現有的 EA 方法相比，我們的做法達到了最先進的效能。
+
+##### **Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**
+2408.01088v1 by Phillip Schneider, Nektarios Machner, Kristiina Jokinen, Florian Matthes
+
+Knowledge models are fundamental to dialogue systems for enabling
+conversational interactions, which require handling domain-specific knowledge.
+Ensuring effective communication in information-providing conversations entails
+aligning user understanding with the knowledge available to the system.
+However, dialogue systems often face challenges arising from semantic
+inconsistencies in how information is expressed in natural language compared to
+how it is represented within the system's internal knowledge. To address this
+problem, we study the potential of large language models for conversational
+grounding, a mechanism to bridge information gaps by establishing shared
+knowledge between dialogue participants. Our approach involves annotating human
+conversations across five knowledge domains to create a new dialogue corpus
+called BridgeKG. Through a series of experiments on this dataset, we
+empirically evaluate the capabilities of large language models in classifying
+grounding acts and identifying grounded information items within a knowledge
+graph structure. Our findings offer insights into how these models use
+in-context learning for conversational grounding tasks and common prediction
+errors, which we illustrate with examples from challenging dialogues. We
+discuss how the models handle knowledge graphs as a semantic layer between
+unstructured dialogue utterances and structured information items.
+
+摘要：知識模型是對話系統的基本要素，用於啟用對話互動，這需要處理特定領域的知識。確保在提供資訊的對話中進行有效的溝通，需要將使用者的理解與系統可用的知識結合起來。然而，對話系統經常面臨語意不一致的挑戰，在自然語言中表達資訊的方式與在系統內部知識中表示資訊的方式不同。為了解決這個問題，我們研究大型語言模型在對話基礎中的潛力，這是一種透過在對話參與者之間建立共享知識來彌合資訊差距的機制。我們的做法包括註解五個知識領域中的人類對話，以建立一個新的對話語料庫，稱為 BridgeKG。透過對此資料集進行一系列實驗，我們實證評估大型語言模型在分類基礎行為和識別知識圖結構中的基礎資訊項目的能力。我們的發現提供了關於這些模型如何使用情境學習來進行對話基礎任務和常見預測錯誤的見解，我們用具有挑戰性的對話範例來說明。我們討論模型如何將知識圖形視為非結構化對話語句和結構化資訊項目之間的語意層。
+
+##### **Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**
+2408.00966v1 by Fei Yang
+
+We propose a new graph-based framework to reveal relationships among
+motivations, emotions and actions explicitly given natural language texts. A
+directed acyclic graph is designed to describe human's nature. Nurture beliefs
+are incorporated to connect outside events and the human's nature graph. No
+annotation resources are required due to the power of large language models.
+Amazon Fine Foods Reviews dataset is used as corpus and food-related
+motivations are focused. Totally 92,990 relationship graphs are generated, of
+which 63% make logical sense. We make further analysis to investigate error
+types for optimization direction in future research.
+
+摘要：我們提出一個新的基於圖形的架構，用於揭示在自然語言文本中明確給出的動機、情緒和動作之間的關係。有向無環圖被設計用於描述人類的本性。培養信念被納入其中，用於連接外部事件和人類的本性圖。由於大型語言模型的強大功能，不需要註解資源。亞馬遜美食評論數據集被用作語料庫，並且重點關注與食物相關的動機。總共生成了 92,990 個關係圖，其中 63% 具有邏輯意義。我們進一步分析以調查錯誤類型，以便為未來的研究提供優化方向。
+
 ##### **DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**
 2408.00633v1 by Guillermo Villar-Rodríguez, Álvaro Huertas-García, Alejandro Martín, Javier Huertas-Tato, David Camacho
 
@@ -2421,74 +2483,4 @@ https://github.com/westlake-autolab/BioKGBench.
 兩個基本任務收集了兩千多個資料，以及 225 個高品質註解資料，以作為代理任務。令人驚訝的是，我們發現最先進的代理，無論是日常情境還是生物醫學，在我們的
 基準上都表現不佳或表現較差。然後，我們引入了一個簡單但有效的基準，稱為 BKGAgent。在廣泛使用的熱門知識圖表上，我們發現超過 90 個事實錯誤，這些錯誤為代理提供了發現情境，並證明了我們方法的有效性。程式碼和資料可在
 https://github.com/westlake-autolab/BioKGBench 取得。</paragraph>
-
-##### **GraphArena: Benchmarking Large Language Models on Graph Computational Problems**
-2407.00379v1 by Jianheng Tang, Qifan Zhang, Yuhan Li, Jia Li
-
-The "arms race" of Large Language Models (LLMs) demands novel, challenging,
-and diverse benchmarks to faithfully examine their progresses. We introduce
-GraphArena, a benchmarking tool designed to evaluate LLMs on graph
-computational problems using million-scale real-world graphs from diverse
-scenarios such as knowledge graphs, social networks, and molecular structures.
-GraphArena offers a suite of 10 computational tasks, encompassing four
-polynomial-time (e.g., Shortest Distance) and six NP-complete challenges (e.g.,
-Travelling Salesman Problem). It features a rigorous evaluation framework that
-classifies LLM outputs as correct, suboptimal (feasible but not optimal), or
-hallucinatory (properly formatted but infeasible). Evaluation of 10 leading
-LLMs, including GPT-4o and LLaMA3-70B-Instruct, reveals that even
-top-performing models struggle with larger, more complex graph problems and
-exhibit hallucination issues. Despite the application of strategies such as
-chain-of-thought prompting, these issues remain unresolved. GraphArena
-contributes a valuable supplement to the existing LLM benchmarks and is
-open-sourced at https://github.com/squareRoot3/GraphArena.
-
-摘要：大型語言模型 (LLM) 的「軍備競賽」需要新穎、具挑戰性且多樣化的基準來忠實檢驗其進度。我們推出 GraphArena，這是一個基準工具，旨在使用來自知識圖譜、社交網路和分子結構等多樣化情境的數百萬個真實世界圖形，針對圖形計算問題評估 LLM。GraphArena 提供一系列 10 個計算任務，包含四個多項式時間（例如，最短距離）和六個 NP 完全挑戰（例如，旅行推銷員問題）。它具有一個嚴謹的評估架構，將 LLM 輸出分類為正確、次佳（可行但非最佳）或幻覺（格式正確但不可行）。對包括 GPT-4o 和 LLaMA3-70B-Instruct 在內的 10 個領先 LLM 的評估顯示，即使是效能最佳的模型在處理更大、更複雜的圖形問題時仍會遇到困難，並出現幻覺問題。儘管應用了一系列策略，例如思考鏈提示，這些問題仍未解決。GraphArena 為現有的 LLM 基準提供了有價值的補充，並在 https://github.com/squareRoot3/GraphArena 開源。
-
-##### **Teola: Towards End-to-End Optimization of LLM-based Applications**
-2407.00326v1 by Xin Tan, Yimin Jiang, Yitao Yang, Hong Xu
-
-Large language model (LLM)-based applications consist of both LLM and non-LLM
-components, each contributing to the end-to-end latency. Despite great efforts
-to optimize LLM inference, end-to-end workflow optimization has been
-overlooked. Existing frameworks employ coarse-grained orchestration with task
-modules, which confines optimizations to within each module and yields
-suboptimal scheduling decisions. We propose fine-grained end-to-end
-orchestration, which utilizes task primitives as the basic units and represents
-each query's workflow as a primitive-level dataflow graph. This explicitly
-exposes a much larger design space, enables optimizations in parallelization
-and pipelining across primitives of different modules, and enhances scheduling
-to improve application-level performance. We build Teola, a novel orchestration
-framework for LLM-based applications that implements this scheme. Comprehensive
-experiments show that Teola can achieve up to 2.09x speedup over existing
-systems across various popular LLM applications.
-
-摘要：大型語言模型 (LLM) 應用程式由 LLM 和非 LLM 元件組成，每個元件都會影響端對端延遲。儘管已針對最佳化 LLM 推論做出許多努力，但端對端工作流程最佳化卻遭到忽略。現有架構採用粗略的編排與任務模組，將最佳化限制在每個模組內，並產生次佳的排程決策。我們提出細緻的端對端編排，它使用任務原語作為基本單位，並將每個查詢的工作流程表示為原語層級資料流圖。這明確地揭露了更大的設計空間，在不同模組的原語之間啟用平行化和管線最佳化，並加強排程以改善應用程式層級效能。我們建構 Teola，一個實作此架構的 LLM 應用程式創新編排架構。全面的實驗顯示，Teola 能在各種熱門 LLM 應用程式中，比現有系統快上 2.09 倍。
-
-##### **Into the Unknown: Generating Geospatial Descriptions for New Environments**
-2406.19967v1 by Tzuf Paz-Argaman, John Palowitch, Sayali Kulkarni, Reut Tsarfaty, Jason Baldridge
-
-Similar to vision-and-language navigation (VLN) tasks that focus on bridging
-the gap between vision and language for embodied navigation, the new Rendezvous
-(RVS) task requires reasoning over allocentric spatial relationships
-(independent of the observer's viewpoint) using non-sequential navigation
-instructions and maps. However, performance substantially drops in new
-environments with no training data. Using opensource descriptions paired with
-coordinates (e.g., Wikipedia) provides training data but suffers from limited
-spatially-oriented text resulting in low geolocation resolution. We propose a
-large-scale augmentation method for generating high-quality synthetic data for
-new environments using readily available geospatial data. Our method constructs
-a grounded knowledge-graph, capturing entity relationships. Sampled entities
-and relations (`shop north of school') generate navigation instructions via (i)
-generating numerous templates using context-free grammar (CFG) to embed
-specific entities and relations; (ii) feeding the entities and relation into a
-large language model (LLM) for instruction generation. A comprehensive
-evaluation on RVS, showed that our approach improves the 100-meter accuracy by
-45.83% on unseen environments. Furthermore, we demonstrate that models trained
-with CFG-based augmentation achieve superior performance compared with those
-trained with LLM-based augmentation, both in unseen and seen environments.
-These findings suggest that the potential advantages of explicitly structuring
-spatial information for text-based geospatial reasoning in previously unknown,
-can unlock data-scarce scenarios.
-
-摘要：類似於專注於彌合具體導航中視覺與語言差距的視覺語言導航 (VLN) 任務，新的會面 (RVS) 任務需要使用非順序導航指令和地圖推理異中心空間關係（與觀察者的觀點無關）。然而，在沒有訓練資料的新環境中，效能會大幅下降。使用與座標配對的開源說明（例如，維基百科）提供了訓練資料，但由於空間導向文字有限，導致地理位置解析度低。我們提出了一種大規模擴充方法，使用現成的地理空間資料為新環境產生高品質的合成資料。我們的建構方法建立了一個基礎知識圖，擷取實體關係。取樣的實體和關係（「商店在學校北邊」）透過以下方式產生導航指令：(i) 使用無關乎語境的文法 (CFG) 產生許多範本來嵌入特定實體和關係；(ii) 將實體和關係輸入大型語言模型 (LLM) 以產生指令。在 RVS 上的全面評估顯示，我們的做法將未見過環境中的 100 公尺準確度提升了 45.83%。此外，我們證明使用基於 CFG 的擴充所訓練的模型，在未見過和見過環境中，都比使用基於 LLM 的擴充所訓練的模型獲得了更好的效能。這些發現表明，在以前未知的環境中，明確建構用於基於文字的地理空間推理的空間資訊的潛在優勢，可以解鎖資料稀少的場景。
 

@@ -6,6 +6,7 @@
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
+|**2024-07-18**|**Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**|Simha Sankar Baradwaj et.al.|[2408.01431v1](http://arxiv.org/abs/2408.01431v1)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
 |**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v1](http://arxiv.org/abs/2407.15851v1)|null|
@@ -101,7 +102,6 @@
 |**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
 |**2023-04-04**|**A Brief Review of Explainable Artificial Intelligence in Healthcare**|Zahra Sadeghi et.al.|[2304.01543v1](http://arxiv.org/abs/2304.01543v1)|null|
 |**2023-03-22**|**Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**|Frederik Pahde et.al.|[2303.12641v2](http://arxiv.org/abs/2303.12641v2)|[link](https://github.com/maxdreyer/reveal2revise)|
-|**2023-03-11**|**Explainable AI for Time Series via Virtual Inspection Layers**|Johanna Vielhaben et.al.|[2303.06365v1](http://arxiv.org/abs/2303.06365v1)|null|
 
 #### Abstracts
 ##### **MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**
@@ -214,6 +214,36 @@ computers used by clinicians , project page
 \url{https://github.com/Glenj01/Medical-Coding}.
 
 摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
+
+##### **Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**
+2408.01431v1 by Simha Sankar Baradwaj, Destiny Gilliland, Jack Rincon, Henning Hermjakob, Yu Yan, Irsyad Adam, Gwyneth Lemaster, Dean Wang, Karol Watson, Alex Bui, Wei Wang, Peipei Ping
+
+Foundational Models (FMs) are emerging as the cornerstone of the biomedical
+AI ecosystem due to their ability to represent and contextualize multimodal
+biomedical data. These capabilities allow FMs to be adapted for various tasks,
+including biomedical reasoning, hypothesis generation, and clinical
+decision-making. This review paper examines the foundational components of an
+ethical and trustworthy AI (ETAI) biomedical ecosystem centered on FMs,
+highlighting key challenges and solutions. The ETAI biomedical ecosystem is
+defined by seven key components which collectively integrate FMs into clinical
+settings: Data Lifecycle Management, Data Processing, Model Development, Model
+Evaluation, Clinical Translation, AI Governance and Regulation, and Stakeholder
+Engagement. While the potential of biomedical AI is immense, it requires
+heightened ethical vigilance and responsibility. For instance, biases can arise
+from data, algorithms, and user interactions, necessitating techniques to
+assess and mitigate bias prior to, during, and after model development.
+Moreover, interpretability, explainability, and accountability are key to
+ensuring the trustworthiness of AI systems, while workflow transparency in
+training, testing, and evaluation is crucial for reproducibility. Safeguarding
+patient privacy and security involves addressing challenges in data access,
+cloud data privacy, patient re-identification, membership inference attacks,
+and data memorization. Additionally, AI governance and regulation are essential
+for ethical AI use in biomedicine, guided by global standards. Furthermore,
+stakeholder engagement is essential at every stage of the AI pipeline and
+lifecycle for clinical translation. By adhering to these principles, we can
+harness the transformative potential of AI and develop an ETAI ecosystem.
+
+摘要：基礎模型 (FM) 由於能表示和語境化多模態生物醫學數據的能力，而成為生物醫學 AI 生態系統的基石。這些能力讓 FM 能適應各種任務，包括生物醫學推理、假設產生和臨床決策制定。這篇評論論文探討了以 FM 為中心的道德和可信賴 AI (ETAI) 生物醫學生態系統的基本組成部分，重點說明了關鍵挑戰和解決方案。ETAI 生物醫學生態系統由七個關鍵組成部分定義，這些組成部分共同將 FM 整合到臨床環境中：資料生命週期管理、資料處理、模型開發、模型評估、臨床轉譯、AI 治理和法規，以及利害關係人參與。儘管生物醫學 AI 的潛力巨大，但它需要高度的道德警覺性和責任感。例如，偏見可能來自資料、演算法和使用者互動，因此需要在模型開發之前、期間和之後評估和減輕偏見的技術。此外，可解釋性、可說明性和問責制是確保 AI 系統可信賴性的關鍵，而訓練、測試和評估中的工作流程透明度對於可複製性至關重要。保障病患隱私和安全涉及解決資料存取、雲端資料隱私、病患再識別、成員推論攻擊和資料記憶化等挑戰。此外，AI 治理和法規對於在生物醫學中使用道德 AI 至關重要，並以全球標準為指導。此外，利害關係人參與在 AI 管線和臨床轉譯的生命週期中每個階段都至關重要。透過遵守這些原則，我們可以利用 AI 的轉型潛力，並開發一個 ETAI 生態系統。
 
 ##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
 2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier
@@ -2546,26 +2576,4 @@ to mitigate different biases. Code is available on
 https://github.com/maxdreyer/Reveal2Revise.
 
 摘要：最先进的机器学习模型通常会学习训练数据中嵌入的虚假关联。这在将这些模型部署于高风险决策时会带来风险，例如在皮肤癌检测等医学应用中。为了解决这个问题，我们提出了 Reveal to Revise (R2R)，一个涵盖整个可解释人工智能 (XAI) 生命周期的框架，使从业者能够以最少的人工交互迭代识别、缓解和（重新）评估虚假模型行为。在第一步 (1) 中，R2R 通过找出归因中的异常值或通过检查模型学习的潜在概念来揭示模型的弱点。其次 (2)，检测负责的伪像并在输入数据中进行空间定位，然后利用它来 (3) 修改模型行为。具体来说，我们应用 RRR、CDEP 和 ClArC 的方法来进行模型校正，并 (4)（重新）评估模型的性能和对伪像的剩余敏感性。使用两个用于黑色素瘤检测和骨龄估计的医学基准数据集，我们将我们的 R2R 框架应用于 VGG、ResNet 和 EfficientNet 架构，从而揭示和纠正了真实数据集固有的伪像，以及受控设置中的合成变体。完成 XAI 生命周期，我们演示了多个 R2R 迭代以减轻不同的偏差。代码可在 https://github.com/maxdreyer/Reveal2Revise 上找到。
-
-##### **Explainable AI for Time Series via Virtual Inspection Layers**
-2303.06365v1 by Johanna Vielhaben, Sebastian Lapuschkin, Grégoire Montavon, Wojciech Samek
-
-The field of eXplainable Artificial Intelligence (XAI) has greatly advanced
-in recent years, but progress has mainly been made in computer vision and
-natural language processing. For time series, where the input is often not
-interpretable, only limited research on XAI is available. In this work, we put
-forward a virtual inspection layer, that transforms the time series to an
-interpretable representation and allows to propagate relevance attributions to
-this representation via local XAI methods like layer-wise relevance propagation
-(LRP). In this way, we extend the applicability of a family of XAI methods to
-domains (e.g. speech) where the input is only interpretable after a
-transformation. Here, we focus on the Fourier transformation which is
-prominently applied in the interpretation of time series and LRP and refer to
-our method as DFT-LRP. We demonstrate the usefulness of DFT-LRP in various time
-series classification settings like audio and electronic health records. We
-showcase how DFT-LRP reveals differences in the classification strategies of
-models trained in different domains (e.g., time vs. frequency domain) or helps
-to discover how models act on spurious correlations in the data.
-
-摘要：可解釋人工智慧 (XAI) 領域在近年來取得長足進步，但進展主要是在電腦視覺和自然語言處理方面。對於輸入通常無法解釋的時間序列，只有有限的研究可供使用 XAI。在這項工作中，我們提出了一個虛擬檢查層，它將時間序列轉換為可解釋的表示，並允許通過層級相關性傳播 (LRP) 等局部 XAI 方法將相關性歸因傳播到此表示。藉此，我們將一系列 XAI 方法的適用性擴展到輸入僅在轉換後才能解釋的領域（例如語音）。在此，我們專注於傅立葉轉換，它主要應用於時間序列和 LRP 的解釋，並將我們的稱之為 DFT-LRP。我們展示了 DFT-LRP 在各種時間序列分類設定（例如音訊和電子健康紀錄）中的效用。我們展示了 DFT-LRP 如何揭示在不同領域（例如時間與頻率域）訓練的模型的分類策略差異，或有助於發現模型如何處理資料中的虛假關聯。
 

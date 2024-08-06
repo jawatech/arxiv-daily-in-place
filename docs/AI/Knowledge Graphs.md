@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
+|**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
+|**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-03**|**Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**|Antonio De Santis et.al.|[2408.01700v1](http://arxiv.org/abs/2408.01700v1)|null|
 |**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
 |**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v1](http://arxiv.org/abs/2408.01088v1)|null|
 |**2024-08-02**|**Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**|Fei Yang et.al.|[2408.00966v1](http://arxiv.org/abs/2408.00966v1)|null|
@@ -52,7 +57,7 @@
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v2](http://arxiv.org/abs/2407.12068v2)|null|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
-|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v1](http://arxiv.org/abs/2407.10805v1)|null|
+|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v2](http://arxiv.org/abs/2407.10805v2)|null|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
 |**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
@@ -97,13 +102,114 @@
 |**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409v1](http://arxiv.org/abs/2407.01409v1)|null|
 |**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v2](http://arxiv.org/abs/2407.01406v2)|[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)|
 |**2024-07-01**|**SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**|Lingyue Fu et.al.|[2407.01245v2](http://arxiv.org/abs/2407.01245v2)|null|
-|**2024-07-01**|**Revisiting Random Walks for Learning on Graphs**|Jinwoo Kim et.al.|[2407.01214v1](http://arxiv.org/abs/2407.01214v1)|[link](https://github.com/jw9730/random-walk)|
-|**2024-07-01**|**LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation**|Longchao Da et.al.|[2407.00994v2](http://arxiv.org/abs/2407.00994v2)|null|
-|**2024-06-30**|**Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**|Romy Fieblinger et.al.|[2407.02528v1](http://arxiv.org/abs/2407.02528v1)|null|
-|**2024-06-30**|**Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**|Yifei Zhang et.al.|[2407.00653v1](http://arxiv.org/abs/2407.00653v1)|null|
-|**2024-06-29**|**BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science**|Xinna Lin et.al.|[2407.00466v1](http://arxiv.org/abs/2407.00466v1)|[link](https://github.com/westlake-autolab/biokgbench.github.io)|
 
 #### Abstracts
+##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
+2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
+
+Knowledge graphs (KGs) have been successfully applied to the analysis of
+complex scientific and technological domains, with automatic KG generation
+methods typically building upon relation extraction models capturing
+fine-grained relations between domain entities in text. While these relations
+are fully applicable across scientific areas, existing models are trained on
+few domain-specific datasets such as SciERC and do not perform well on new
+target domains. In this paper, we experiment with leveraging in-context
+learning capabilities of Large Language Models to perform schema-constrained
+data annotation, collecting in-domain training instances for a
+Transformer-based relation extraction model deployed on titles and abstracts of
+research papers in the Architecture, Construction, Engineering and Operations
+(AECO) domain. By assessing the performance gain with respect to a baseline
+Deep Learning architecture trained on off-domain data, we show that by using a
+few-shot learning strategy with structured prompts and only minimal expert
+annotation the presented approach can potentially support domain adaptation of
+a science KG generation model.
+
+摘要：知識圖譜 (KG) 已成功應用於分析複雜的科學技術領域，自動 KG 生成方法通常建構於關係萃取模型上，捕捉文本中領域實體之間的細粒度關係。雖然這些關係完全適用於各科學領域，但現有模型是用 SciERC 等少數特定領域的資料集訓練，而且在新目標領域的表現不佳。在本論文中，我們嘗試利用大型語言模型的脈絡學習能力，執行受架構約束的資料標註，收集領域內訓練實例，用於部署在建築、營造、工程和營運 (AECO) 領域研究論文標題和摘要的基於 Transformer 的關係萃取模型。透過評估相對於在領域外資料上訓練的基準深度學習架構的效能提升，我們展示透過使用帶有結構化提示的少量學習策略，以及僅最少的專家標註，所提出的方法有可能支援科學 KG 生成模型的領域適應。
+
+##### **Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**
+2408.02337v1 by Albert Sawczyn, Katsiaryna Viarenich, Konrad Wojtasik, Aleksandra Domogała, Marcin Oleksy, Maciej Piasecki, Tomasz Kajdanowicz
+
+Advancements in AI and natural language processing have revolutionized
+machine-human language interactions, with question answering (QA) systems
+playing a pivotal role. The knowledge base question answering (KBQA) task,
+utilizing structured knowledge graphs (KG), allows for handling extensive
+knowledge-intensive questions. However, a significant gap exists in KBQA
+datasets, especially for low-resource languages. Many existing construction
+pipelines for these datasets are outdated and inefficient in human labor, and
+modern assisting tools like Large Language Models (LLM) are not utilized to
+reduce the workload. To address this, we have designed and implemented a
+modern, semi-automated approach for creating datasets, encompassing tasks such
+as KBQA, Machine Reading Comprehension (MRC), and Information Retrieval (IR),
+tailored explicitly for low-resource environments. We executed this pipeline
+and introduced the PUGG dataset, the first Polish KBQA dataset, and novel
+datasets for MRC and IR. Additionally, we provide a comprehensive
+implementation, insightful findings, detailed statistics, and evaluation of
+baseline models.
+
+摘要：人工智能和自然語言處理的進展徹底改變了機器與人類的語言互動，其中問答 (QA) 系統扮演了關鍵角色。知識庫問答 (KBQA) 任務利用結構化的知識圖譜 (KG)，可以處理大量的知識密集型問題。然而，KBQA 資料集存在著顯著的差距，特別是對於低資源語言。許多現有的這些資料集建構管道已經過時且在人力上效率低下，而像大型語言模型 (LLM) 這樣的現代輔助工具並未被用於減少工作負載。為了解決這個問題，我們設計並實作了一種現代的半自動化方法來建立資料集，涵蓋了專門針對低資源環境量身打造的任務，例如 KBQA、機器閱讀理解 (MRC) 和資訊檢索 (IR)。我們執行了這個管道並引入了 PUGG 資料集，這是第一個波蘭 KBQA 資料集，以及 MRC 和 IR 的新穎資料集。此外，我們提供了全面的實作、有見地的發現、詳細的統計資料和基準模型的評估。
+
+##### **MedSyn: LLM-based Synthetic Medical Text Generation Framework**
+2408.02056v1 by Gleb Kumichev, Pavel Blinov, Yulia Kuzkina, Vasily Goncharov, Galina Zubkova, Nikolai Zenovkin, Aleksei Goncharov, Andrey Savchenko
+
+Generating synthetic text addresses the challenge of data availability in
+privacy-sensitive domains such as healthcare. This study explores the
+applicability of synthetic data in real-world medical settings. We introduce
+MedSyn, a novel medical text generation framework that integrates large
+language models with a Medical Knowledge Graph (MKG). We use MKG to sample
+prior medical information for the prompt and generate synthetic clinical notes
+with GPT-4 and fine-tuned LLaMA models. We assess the benefit of synthetic data
+through application in the ICD code prediction task. Our research indicates
+that synthetic data can increase the classification accuracy of vital and
+challenging codes by up to 17.8% compared to settings without synthetic data.
+Furthermore, to provide new data for further research in the healthcare domain,
+we present the largest open-source synthetic dataset of clinical notes for the
+Russian language, comprising over 41k samples covering 219 ICD-10 codes.
+
+摘要：合成文本的生成解决了隐私敏感领域（如医疗保健）中数据可用性的挑战。本研究探讨了合成数据在实际医疗环境中的适用性。我们引入了 MedSyn，这是一个新颖的医学文本生成框架，它将大型语言模型与医学知识图谱 (MKG) 相结合。我们使用 MKG 为提示采样先验医学信息，并使用 GPT-4 和微调的 LLaMA 模型生成合成临床注释。我们通过在 ICD 代码预测任务中的应用评估了合成数据的优势。我们的研究表明，与没有合成数据的设置相比，合成数据可以将重要且具有挑战性的代码的分类准确性提高多达 17.8%。此外，为了为医疗保健领域的进一步研究提供新数据，我们展示了最大的开放源代码合成数据集，其中包含超过 41k 个涵盖 219 个 ICD-10 代码的临床注释。
+
+##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
+2408.01933v1 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
+
+Large language models (LLMs) have recently showcased remarkable capabilities,
+spanning a wide range of tasks and applications, including those in the medical
+domain. Models like GPT-4 excel in medical question answering but may face
+challenges in the lack of interpretability when handling complex tasks in real
+clinical settings. We thus introduce the diagnostic reasoning dataset for
+clinical notes (DiReCT), aiming at evaluating the reasoning ability and
+interpretability of LLMs compared to human doctors. It contains 521 clinical
+notes, each meticulously annotated by physicians, detailing the diagnostic
+reasoning process from observations in a clinical note to the final diagnosis.
+Additionally, a diagnostic knowledge graph is provided to offer essential
+knowledge for reasoning, which may not be covered in the training data of
+existing LLMs. Evaluations of leading LLMs on DiReCT bring out a significant
+gap between their reasoning ability and that of human doctors, highlighting the
+critical need for models that can reason effectively in real-world clinical
+scenarios.
+
+摘要：大型語言模型 (LLM) 近期展示出非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記的診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 521 個臨床筆記，每個筆記都經過醫師仔細註解，詳細說明了從臨床筆記中的觀察到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的必要知識，這些知識可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生之間存在顯著差距，強調了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
+
+##### **Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**
+2408.01700v1 by Antonio De Santis, Marco Balduini, Federico De Santis, Andrea Proia, Arsenio Leo, Marco Brambilla, Emanuele Della Valle
+
+Aerospace manufacturing companies, such as Thales Alenia Space, design,
+develop, integrate, verify, and validate products characterized by high
+complexity and low volume. They carefully document all phases for each product
+but analyses across products are challenging due to the heterogeneity and
+unstructured nature of the data in documents. In this paper, we propose a
+hybrid methodology that leverages Knowledge Graphs (KGs) in conjunction with
+Large Language Models (LLMs) to extract and validate data contained in these
+documents. We consider a case study focused on test data related to electronic
+boards for satellites. To do so, we extend the Semantic Sensor Network
+ontology. We store the metadata of the reports in a KG, while the actual test
+results are stored in parquet accessible via a Virtual Knowledge Graph. The
+validation process is managed using an LLM-based approach. We also conduct a
+benchmarking study to evaluate the performance of state-of-the-art LLMs in
+executing this task. Finally, we analyze the costs and benefits of automating
+preexisting processes of manual data extraction and validation for subsequent
+cross-report analyses.
+
+摘要：航太製造公司，例如泰雷茲阿萊尼亞太空公司，設計、開發、整合、驗證和驗證以高複雜度和低體積為特徵的產品。他們仔細記錄每個產品的所有階段，但由於文件中資料的異質性和非結構化性質，導致跨產品的分析具有挑戰性。在本文中，我們提出了一種混合方法，利用知識圖譜 (KG) 結合大型語言模型 (LLM)，來擷取和驗證這些文件中包含的資料。我們考慮了一個案例研究，重點在於衛星電子電路板的測試資料。為此，我們擴充了語義感測器網路本体。我們將報告的元資料儲存在 KG 中，而實際測試結果儲存在可透過虛擬知識圖譜存取的 Parquet 中。驗證過程使用基於 LLM 的方法管理。我們還進行基準研究，以評估最先進的 LLM 在執行此任務時的效能。最後，我們分析了自動化現有手動資料擷取和驗證程序的成本和好處，以進行後續的跨報告分析。
+
 ##### **DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**
 2408.01154v1 by Zhichun Wang, Xuan Chen
 
@@ -1288,7 +1394,7 @@ https://github.com/SamsungLabs/CIC-BART-SSA.
 摘要：可控图像标注 (CIC) 旨在生成自然语言描述以描述图像，条件是根据最终用户提供的资讯，例如区域、实体或感兴趣的事件。然而，现有的图像语言数据集主要包含描述整个图像的标注，使其无法有效训练 CIC 模型，而这些模型有可能关注任何区域或关系的子集。为了应对这一挑战，我们提出了一种新颖的、全自动的方法，使用建立在与图像关联的现有标注集之上的统一结构化语义表示来抽样其他聚焦且视觉接地的标注。我们利用跨语言图式语义形式化抽象意义表示 (AMR) 来编码实体之间所有可能的空间语义关系，而不仅仅是当前方法中仅关注的空间关系。我们使用这种结构化语义增强 (SSA) 框架来增强现有的图像标注数据集，使其接地且可控的标注，增加它们的空间和语义多样性以及焦点覆盖范围。然后，我们开发了一个新模型 CIC-BART-SSA，专门针对 CIC 任务量身定制，其控制信号来自 SSA 多样化的数据集。我们凭经验表明，与 SOTA CIC 模型相比，CIC-BART-SSA 生成的标注在多样性和文本质量方面更胜一筹，在可控性方面具有竞争力，而且重要的是，通过有效地推广到具有挑战性的高度聚焦场景，最大限度地缩小了广泛和高度聚焦的受控标注性能之间的差距。代码可从 https://github.com/SamsungLabs/CIC-BART-SSA 获得。
 
 ##### **Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**
-2407.10805v1 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
+2407.10805v2 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
 
 Retrieval-augmented generation (RAG) has significantly advanced large
 language models (LLMs) by enabling dynamic information retrieval to mitigate
@@ -1307,7 +1413,7 @@ LLM reasoning, aligning it closer to human-like performance. We conducted
 extensive experiments on four public datasets to demonstrate the advantages of
 our method compared to the baseline.
 
-摘要：檢索增強生成（RAG）透過啟用動態資訊檢索來減輕生成內容中的知識差距和幻覺，大幅提升大型語言模型（LLM）。然而，這些系統在複雜推理和跨不同查詢的一致性方面常常表現不佳。在這項工作中，我們提出了 Think-on-Graph 2.0，一個增強的 RAG 框架，它將問題與知識圖譜對齊，並將其用作導航工具，這加深並改進了 RAG 典範，用於資訊收集和整合。受知識圖譜引導的導航促進了深層且長程的關聯，以維持邏輯一致性並最佳化檢索範圍，以提高精確度和互操作性。同時，事實一致性可以透過由精確指示引導的語意相似性獲得更好的確保。ToG${2.0}$ 不僅提升了 LLM 回應的準確性和可靠性，也展示了混合結構化知識系統的潛力，可以大幅提升 LLM 推理，使其更接近人類般的表現。我們在四個公開資料集上進行了廣泛的實驗，以展示我們的方法相較於基線的優勢。
+摘要：檢索增強生成（RAG）透過啟用動態資訊檢索來緩解生成內容中的知識差距和幻覺，從而顯著進步了大型語言模型（LLM）。然而，這些系統在複雜推理和跨不同查詢的一致性方面常常會出錯。在這項工作中，我們提出了 Think-on-Graph 2.0，一種增強的 RAG 框架，它將問題與知識圖譜對齊並將其用作導航工具，這加深並改進了用於資訊收集和整合的 RAG 典範。受知識圖譜引導的導航促進了深入且長距離的關聯，以維持邏輯一致性並最佳化檢索範圍以提高精確度和互操作性。結合起來，事實一致性可以透過由精確指示引導的語義相似性得到更好的確保。ToG${2.0}$ 不僅提升了 LLM 回應的準確性和可靠性，還展示了混合結構化知識系統在顯著推進 LLM 推理方面的潛力，使之更接近人類般的表現。我們在四個公共數據集上進行了廣泛的實驗，以展示我們的方法與基線相比的優勢。
 
 ##### **Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**
 2407.10794v1 by Rui Yang, Boming Yang, Sixun Ouyang, Tianwei She, Aosong Feng, Yuang Jiang, Freddy Lecue, Jinghui Lu, Irene Li
@@ -2354,133 +2460,4 @@ the performance of SINKT on the inductive KT task and provide insights into
 various modules.
 
 摘要：知識追蹤 (KT) 的目的是確定學生是否能正確回答下一個問題，這在智慧型教學系統 (ITS) 中是一項至關重要的任務。在教育 KT 場景中，基於 ID 的轉導方法經常面臨嚴重的資料稀疏性和冷啟動問題，其中個別學生和問題之間的互動很稀疏，而且新的問題和概念會持續出現在資料庫中。此外，現有的 KT 模型只會隱含地考慮概念和問題之間的關聯性，缺乏對概念和問題異質圖中更複雜關係的直接建模。在本文中，我們提出了一個具有大型語言模型的結構感知歸納知識追蹤模型（稱為 SINKT），它首次引入了大型語言模型（LLM），並實現了歸納知識追蹤。首先，SINKT 利用 LLM 引入概念之間的結構關係，並為概念和問題構建了一個異質圖。其次，透過使用 LLM 編碼概念和問題，SINKT 結合了語義資訊，以協助預測。最後，SINKT 透過與學生的知識狀態和問題表徵進行互動，預測學生對目標問題的回應。在四個真實世界資料集上的實驗表明，SINKT 在 12 個現有的轉導 KT 模型中取得了最先進的效能。此外，我們探討了 SINKT 在歸納 KT 任務上的效能，並提供了對各種模組的見解。
-
-##### **Revisiting Random Walks for Learning on Graphs**
-2407.01214v1 by Jinwoo Kim, Olga Zaghen, Ayhan Suleymanzade, Youngmin Ryou, Seunghoon Hong
-
-We revisit a simple idea for machine learning on graphs, where a random walk
-on a graph produces a machine-readable record, and this record is processed by
-a deep neural network to directly make vertex-level or graph-level predictions.
-We refer to these stochastic machines as random walk neural networks, and show
-that we can design them to be isomorphism invariant while capable of universal
-approximation of graph functions in probability. A useful finding is that
-almost any kind of record of random walk guarantees probabilistic invariance as
-long as the vertices are anonymized. This enables us to record random walks in
-plain text and adopt a language model to read these text records to solve graph
-tasks. We further establish a parallelism to message passing neural networks
-using tools from Markov chain theory, and show that over-smoothing in message
-passing is alleviated by construction in random walk neural networks, while
-over-squashing manifests as probabilistic under-reaching. We show that random
-walk neural networks based on pre-trained language models can solve several
-hard problems on graphs, such as separating strongly regular graphs where the
-3-WL test fails, counting substructures, and transductive classification on
-arXiv citation network without training. Code is available at
-https://github.com/jw9730/random-walk.
-
-摘要：<paragraph>我們重新審視圖形機器學習的一個簡單想法，其中圖形上的隨機遊走會產生機器可讀的記錄，而這個記錄會由深度神經網路處理，以直接進行頂點層級或圖形層級的預測。我們將這些隨機機器稱為隨機遊走神經網路，並展示我們可以將它們設計成同構不變，同時具備機率中圖形函數的通用近似能力。一個有用的發現是，只要頂點是匿名的，幾乎任何類型的隨機遊走記錄都可以保證機率不變性。這使我們能夠以純文字記錄隨機遊走，並採用語言模型來讀取這些文字記錄，以解決圖形任務。我們進一步建立了一個與訊息傳遞神經網路的平行性，使用馬可夫鏈理論的工具，並展示訊息傳遞中的過度平滑會因隨機遊走神經網路中的構造而得到緩解，而過度壓縮則表現為機率性不足。我們展示了基於預先訓練語言模型的隨機遊走神經網路可以解決圖形上的幾個困難問題，例如分離 3-WL 測試失敗的強正則圖形、計算子結構，以及在 arXiv 引文網路中進行轉導分類，而無需訓練。程式碼可在 https://github.com/jw9730/random-walk 取得。</paragraph>
-
-##### **LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation**
-2407.00994v2 by Longchao Da, Tiejin Chen, Lu Cheng, Hua Wei
-
-The Large language models (LLMs) have showcased superior capabilities in
-sophisticated tasks across various domains, stemming from basic question-answer
-(QA), they are nowadays used as decision assistants or explainers for
-unfamiliar content. However, they are not always correct due to the data
-sparsity in specific domain corpus, or the model's hallucination problems.
-Given this, how much should we trust the responses from LLMs? This paper
-presents a novel way to evaluate the uncertainty that captures the directional
-instability, by constructing a directional graph from entailment probabilities,
-and we innovatively conduct Random Walk Laplacian given the asymmetric property
-of a constructed directed graph, then the uncertainty is aggregated by the
-derived eigenvalues from the Laplacian process. We also provide a way to
-incorporate the existing work's semantics uncertainty with our proposed layer.
-Besides, this paper identifies the vagueness issues in the raw response set and
-proposes an augmentation approach to mitigate such a problem, we conducted
-extensive empirical experiments and demonstrated the superiority of our
-proposed solutions.
-
-摘要：大型語言模型 (LLM) 在各個領域的複雜任務中展現出卓越的能力，從基本的問答 (QA) 開始，它們現在被用作決策助理或不熟悉內容的說明者。然而，它們並不總是正確的，因為特定領域語料庫中的數據稀疏，或模型的幻覺問題。有鑑於此，我們應該多相信 LLM 的回應？本文提出了一種新的方法來評估捕捉方向不穩定性的不確定性，通過從蘊涵概率構造一個有向圖，並且我們創新地進行隨機遊走拉普拉斯算子，給定一個構造的有向圖的不對稱屬性，然後不確定性由拉普拉斯過程中的導出特徵值聚合。我們還提供了一種將現有工作的語義不確定性與我們提出的層結合起來的方法。此外，本文識別了原始回應集中模糊的問題，並提出了一種擴充方法來減輕這種問題，我們進行了廣泛的實證實驗，並展示了我們提出的解決方案的優越性。
-
-##### **Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**
-2407.02528v1 by Romy Fieblinger, Md Tanvirul Alam, Nidhi Rastogi
-
-Cyber threats are constantly evolving. Extracting actionable insights from
-unstructured Cyber Threat Intelligence (CTI) data is essential to guide
-cybersecurity decisions. Increasingly, organizations like Microsoft, Trend
-Micro, and CrowdStrike are using generative AI to facilitate CTI extraction.
-This paper addresses the challenge of automating the extraction of actionable
-CTI using advancements in Large Language Models (LLMs) and Knowledge Graphs
-(KGs). We explore the application of state-of-the-art open-source LLMs,
-including the Llama 2 series, Mistral 7B Instruct, and Zephyr for extracting
-meaningful triples from CTI texts. Our methodology evaluates techniques such as
-prompt engineering, the guidance framework, and fine-tuning to optimize
-information extraction and structuring. The extracted data is then utilized to
-construct a KG, offering a structured and queryable representation of threat
-intelligence. Experimental results demonstrate the effectiveness of our
-approach in extracting relevant information, with guidance and fine-tuning
-showing superior performance over prompt engineering. However, while our
-methods prove effective in small-scale tests, applying LLMs to large-scale data
-for KG construction and Link Prediction presents ongoing challenges.
-
-摘要：網路威脅不斷演變。從非結構化的網路威脅情報 (CTI) 資料中萃取可採取行動的見解，對於引導網路安全決策至關重要。越來越多組織，例如 Microsoft、趨勢科技和 CrowdStrike，使用生成式 AI 來促進 CTI 萃取。本文探討了使用大型語言模型 (LLM) 和知識圖譜 (KG) 的進展，自動萃取可採取行動的 CTI 的挑戰。我們探討了最先進的開源 LLM 的應用，包括 Llama 2 系列、Mistral 7B Instruct 和 Zephyr，以從 CTI 文字中萃取有意義的三元組。我們的做法評估了提示工程、指導架構和微調等技術，以最佳化資訊萃取和結構化。然後，將萃取的資料用於建構 KG，提供威脅情報的結構化且可查詢的表示。實驗結果證明了我們方法在萃取相關資訊方面的有效性，指導和微調顯示出優於提示工程的效能。然而，雖然我們的做法在小規模測試中證明有效，但將 LLM 應用於大規模資料以進行 KG 建構和連結預測，仍存在持續的挑戰。
-
-##### **Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**
-2407.00653v1 by Yifei Zhang, Xintao Wang, Jiaqing Liang, Sirui Xia, Lida Chen, Yanghua Xiao
-
-Large Language Models (LLMs) have exhibited impressive proficiency in various
-natural language processing (NLP) tasks, which involve increasingly complex
-reasoning. Knowledge reasoning, a primary type of reasoning, aims at deriving
-new knowledge from existing one.While it has been widely studied in the context
-of knowledge graphs (KGs), knowledge reasoning in LLMs remains underexplored.
-In this paper, we introduce Chain-of-Knowledge, a comprehensive framework for
-knowledge reasoning, including methodologies for both dataset construction and
-model learning. For dataset construction, we create KnowReason via rule mining
-on KGs. For model learning, we observe rule overfitting induced by naive
-training. Hence, we enhance CoK with a trial-and-error mechanism that simulates
-the human process of internal knowledge exploration. We conduct extensive
-experiments with KnowReason. Our results show the effectiveness of CoK in
-refining LLMs in not only knowledge reasoning, but also general reasoning
-benchmarkms.
-
-摘要：大型語言模型 (LLM) 在各種自然語言處理 (NLP) 任務中展現出驚人的能力，這些任務涉及越來越複雜的推理。知識推理作為推理的主要類型，旨在從既有知識中推導出新知識。儘管知識推理已在知識圖譜 (KG) 的背景下得到廣泛研究，但 LLM 中的知識推理仍處於探索階段。在本文中，我們介紹了知識推理的綜合框架知識鏈，其中包括用於資料集構建和模型學習的方法。對於資料集構建，我們透過在 KG 中進行規則挖掘來建立 KnowReason。對於模型學習，我們觀察到由天真訓練引發的規則過度擬合。因此，我們使用模擬人類內部知識探索過程的試錯機制來增強 CoK。我們對 KnowReason 進行了廣泛的實驗。我們的結果顯示 CoK 在精煉 LLM 不僅在知識推理方面，還包括一般推理基準方面都非常有效。
-
-##### **BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science**
-2407.00466v1 by Xinna Lin, Siqi Ma, Junjie Shan, Xiaojing Zhang, Shell Xu Hu, Tiannan Guo, Stan Z. Li, Kaicheng Yu
-
-Pursuing artificial intelligence for biomedical science, a.k.a. AI Scientist,
-draws increasing attention, where one common approach is to build a copilot
-agent driven by Large Language Models (LLMs). However, to evaluate such
-systems, people either rely on direct Question-Answering (QA) to the LLM
-itself, or in a biomedical experimental manner. How to precisely benchmark
-biomedical agents from an AI Scientist perspective remains largely unexplored.
-To this end, we draw inspiration from one most important abilities of
-scientists, understanding the literature, and introduce BioKGBench. In contrast
-to traditional evaluation benchmark that only focuses on factual QA, where the
-LLMs are known to have hallucination issues, we first disentangle
-"Understanding Literature" into two atomic abilities, i) "Understanding" the
-unstructured text from research papers by performing scientific claim
-verification, and ii) Ability to interact with structured Knowledge-Graph
-Question-Answering (KGQA) as a form of "Literature" grounding. We then
-formulate a novel agent task, dubbed KGCheck, using KGQA and domain-based
-Retrieval-Augmented Generation (RAG) to identify the factual errors of existing
-large-scale knowledge graph databases. We collect over two thousand data for
-two atomic tasks and 225 high-quality annotated data for the agent task.
-Surprisingly, we discover that state-of-the-art agents, both daily scenarios
-and biomedical ones, have either failed or inferior performance on our
-benchmark. We then introduce a simple yet effective baseline, dubbed BKGAgent.
-On the widely used popular knowledge graph, we discover over 90 factual errors
-which provide scenarios for agents to make discoveries and demonstrate the
-effectiveness of our approach. The code and data are available at
-https://github.com/westlake-autolab/BioKGBench.
-
-摘要：<paragraph>追求生物醫學科學的人工智慧，又稱 AI 科學家，
-越來越受到關注，其中一種常見的方法是建立由大型語言模型 (LLM) 驅動的副駕駛代理。然而，要評估此類
-系統，人們要么依賴 LLM 本身的直接問答 (QA)，要么依賴生物醫學實驗方式。如何從 AI 科學家的角度精確評量
-生物醫學代理在很大程度上仍未探索。
-為此，我們從科學家最重要的能力之一，即理解文獻中汲取靈感，並介紹 BioKGBench。與僅關注事實 QA 的傳統評量基準不同，已知 LLM 在事實 QA 中存在幻覺問題，我們首先將
-「理解文獻」分解為兩種基本能力，i) 透過執行科學主張驗證來「理解」研究論文中的非結構化文字，以及 ii) 以「文獻」為基礎，與結構化的知識圖表問答 (KGQA) 互動的能力。然後
-我們使用 KGQA 和基於網域的檢索擴充產生 (RAG) 制定了一項新穎的代理任務，稱為 KGCheck，以識別現有大型知識圖表資料庫的事實錯誤。我們為
-兩個基本任務收集了兩千多個資料，以及 225 個高品質註解資料，以作為代理任務。令人驚訝的是，我們發現最先進的代理，無論是日常情境還是生物醫學，在我們的
-基準上都表現不佳或表現較差。然後，我們引入了一個簡單但有效的基準，稱為 BKGAgent。在廣泛使用的熱門知識圖表上，我們發現超過 90 個事實錯誤，這些錯誤為代理提供了發現情境，並證明了我們方法的有效性。程式碼和資料可在
-https://github.com/westlake-autolab/BioKGBench 取得。</paragraph>
 

@@ -17,7 +17,7 @@
 |**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347v1](http://arxiv.org/abs/2408.00347v1)|null|
 |**2024-07-31**|**S-SYNTH: Knowledge-Based, Synthetic Generation of Skin Images**|Andrea Kim et.al.|[2408.00191v1](http://arxiv.org/abs/2408.00191v1)|null|
 |**2024-07-31**|**A Taxonomy of Stereotype Content in Large Language Models**|Gandalf Nicolas et.al.|[2408.00162v1](http://arxiv.org/abs/2408.00162v1)|null|
-|**2024-07-31**|**Preference-Based Abstract Argumentation for Case-Based Reasoning (with-Appendix)**|Adam Gould et.al.|[2408.00108v1](http://arxiv.org/abs/2408.00108v1)|null|
+|**2024-07-31**|**Preference-Based Abstract Argumentation for Case-Based Reasoning (with Appendix)**|Adam Gould et.al.|[2408.00108v2](http://arxiv.org/abs/2408.00108v2)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|null|
 |**2024-07-31**|**Synthetic Simplicity: Unveiling Bias in Medical Data Augmentation**|Krishan Agyakari Raja Babu et.al.|[2407.21674v1](http://arxiv.org/abs/2407.21674v1)|null|
 |**2024-07-31**|**Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**|Hermione Warr et.al.|[2407.21638v1](http://arxiv.org/abs/2407.21638v1)|null|
@@ -462,8 +462,8 @@ unidentified harms from reliance in low-dimensional views of bias in LLMs.
 
 摘要：本研究針對當代大型語言模型 (LLM) 中的刻板印象內容進行分類。我們提示 ChatGPT 3.5、Llama 3 和 Mixtral 8x7B 這三種強大且廣泛使用的 LLM，了解與 87 個社會類別（例如性別、種族、職業）相關的特徵。我們識別出 14 個刻板印象面向（例如道德、能力、健康、信仰、情緒），約佔 LLM 刻板印象關聯的 90%。溫暖和能力面向是最頻繁的內容，但所有其他面向都很普遍。LLM 中的刻板印象比人類更正面，但不同類別和面向之間存在顯著差異。最後，分類法預測了 LLM 對社會類別的內部評估（例如類別的正面/負面呈現方式），支持了使用多維分類法來表徵 LLM 刻板印象的相關性。我們的研究結果表明，高維度的人類刻板印象反映在 LLM 中，並且必須在 AI 稽核和消除偏見中加以考慮，以將依賴 LLM 中偏見的低維度觀點造成的未識別危害降到最低。
 
-##### **Preference-Based Abstract Argumentation for Case-Based Reasoning (with-Appendix)**
-2408.00108v1 by Adam Gould, Guilherme Paulino-Passos, Seema Dadhania, Matthew Williams, Francesca Toni
+##### **Preference-Based Abstract Argumentation for Case-Based Reasoning (with Appendix)**
+2408.00108v2 by Adam Gould, Guilherme Paulino-Passos, Seema Dadhania, Matthew Williams, Francesca Toni
 
 In the pursuit of enhancing the efficacy and flexibility of interpretable,
 data-driven classification models, this work introduces a novel incorporation
@@ -480,7 +480,7 @@ sourced from a clinical trial evaluating differing assessment methods of
 patients with a primary brain tumour. We show empirically that our approach
 outperforms other interpretable machine learning models on this dataset.
 
-摘要：為了提升可解釋、資料驅動分類模型的效能與靈活性，本研究提出了一種將使用者定義的偏好結合抽象論證與案例基礎推理 (CBR) 的新穎整合方式。具體來說，我們引入了偏好基礎抽象論證，用於案例基礎推理 (我們稱之為 AA-CBR-P)，允許使用者定義多種方法來比較案例，並透過設定順序來指定他們對這些比較方法的偏好。我們證明了此模型在進行預測時會固有地遵循這些偏好，並說明先前用於案例基礎推理的抽象論證不足以表達對論證組成部分的偏好。接著，我們展示如何將此方法應用於一個真實世界的醫療資料集，該資料集來自一項臨床試驗，評估了對原發性腦瘤患者的不同評估方法。我們透過實證證明，我們的做法在這個資料集上優於其他可解釋機器學習模型。
+摘要：為了提升可解釋、資料驅動分類模型的效能和靈活性，此研究引入了使用者自訂偏好與抽象論證和案例基礎推理 (CBR) 的新結合。具體來說，我們引入了案例基礎推理的偏好基礎抽象論證 (我們稱之為 AA-CBR-P)，允許使用者定義多種方法來比較案例，並透過排序來指定他們對這些比較方法的偏好。我們證明了此模型在進行預測時會自然遵循這些偏好，並顯示先前案例基礎推理的抽象論證方法不足以表達對論證組成的偏好。然後，我們展示了如何將此方法應用於實際的醫療資料集，該資料集來自評估原發性腦腫瘤患者不同評估方法的臨床試驗。我們經驗性地證明，我們的做法在這個資料集上優於其他可解釋的機器學習模型。
 
 ##### **A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**
 2407.21739v1 by Mothilal Asokan, Joseph Geo Benjamin, Mohammad Yaqub, Karthik Nandakumar

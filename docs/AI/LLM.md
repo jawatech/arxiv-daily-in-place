@@ -60,7 +60,7 @@
 |**2024-08-02**|**A Safe Exploration Strategy for Model-free Task Adaptation in Safety-constrained Grid Environments**|Erfan Entezami et.al.|[2408.00997v1](http://arxiv.org/abs/2408.00997v1)|null|
 |**2024-08-02**|**IncidentNet: Traffic Incident Detection, Localization and Severity Estimation with Sparse Sensing**|Sai Shashank Peddiraju et.al.|[2408.00996v1](http://arxiv.org/abs/2408.00996v1)|null|
 |**2024-08-02**|**ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models**|Hojae Han et.al.|[2408.00994v1](http://arxiv.org/abs/2408.00994v1)|null|
-|**2024-08-02**|**Fairness in Large Language Models in Three Hour**|Thang Doan Viet et.al.|[2408.00992v1](http://arxiv.org/abs/2408.00992v1)|null|
+|**2024-08-02**|**Fairness in Large Language Models in Three Hour**|Thang Doan Viet et.al.|[2408.00992v2](http://arxiv.org/abs/2408.00992v2)|null|
 |**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989v1](http://arxiv.org/abs/2408.00989v1)|null|
 |**2024-08-02**|**A SAT-based approach to rigorous verification of Bayesian networks**|Ignacy Stępka et.al.|[2408.00986v1](http://arxiv.org/abs/2408.00986v1)|null|
 |**2024-08-02**|**Cross-domain Named Entity Recognition via Graph Matching**|Junhao Zheng et.al.|[2408.00981v1](http://arxiv.org/abs/2408.00981v1)|null|
@@ -1494,7 +1494,7 @@ benchmark are both publicly accessible.
 摘要：本文旨在擴展大型語言模型 (LLM) 的程式碼生成能力，以自動管理從給定的文字描述中得出的全面軟體需求。此類需求包括功能性（即達成輸入的預期行為）和非功能性（例如時間/空間效能、穩健性、可維護性）需求。然而，文字描述可能會冗長地表達需求，甚至可能省略其中一些需求。我們引進 ARCHCODE，一個創新的架構，它利用情境學習來組織在描述中觀察到的需求，並從中推斷未表達的需求。ARCHCODE 從給定的描述中產生需求，調整它們以產生程式碼片段和測試案例。每個測試案例都針對其中一個需求量身打造，允許根據程式碼片段執行結果是否符合需求來對程式碼片段進行排名。公開基準測試顯示，ARCHCODE 增強了滿足功能性需求的能力，大幅提升了 Pass@k 分數。此外，我們引進 HumanEval-NFR，這是第一個評估 LLM 在程式碼生成中的非功能性需求，證明了 ARCHCODE 優於基準方法。ARCHCODE 的實作和 HumanEval-NFR 基準測試都公開提供。
 
 ##### **Fairness in Large Language Models in Three Hour**
-2408.00992v1 by Thang Doan Viet, Zichong Wang, Minh Nhat Nguyen, Wenbin Zhang
+2408.00992v2 by Thang Doan Viet, Zichong Wang, Minh Nhat Nguyen, Wenbin Zhang
 
 Large Language Models (LLMs) have demonstrated remarkable success across
 various domains but often lack fairness considerations, potentially leading to
@@ -1510,7 +1510,7 @@ toolkits and datasets, are compiled, and current research challenges and open
 questions in the field are discussed. The repository is available at
 \url{https://github.com/LavinWong/Fairness-in-Large-Language-Models}.
 
-摘要：大型語言模型 (LLM) 已在各種領域展現出顯著的成功，但往往缺乏公平性的考量，可能導致對弱勢群體產生歧視性的結果。與傳統機器學習中的公平性不同，LLM 中的公平性涉及獨特的背景、分類法和實踐技巧。本教學課程系統性地概述了關於公平 LLM 的文獻中的最新進展，從實際案例研究開始介紹 LLM，然後分析其中的偏差原因。接著探討 LLM 中公平性的概念，總結評估偏差的策略和促進公平性的演算法。此外，編制了評估 LLM 中偏差的資源，包括工具包和資料集，並討論了該領域目前的研究挑戰和開放性問題。資源庫可在\url{https://github.com/LavinWong/Fairness-in-Large-Language-Models}取得。
+摘要：大型語言模型 (LLM) 已在各種領域展示出顯著的成功，但通常缺乏公平性考量，可能會導致對邊緣群體產生歧視性結果。與傳統機器學習中的公平性不同，LLM 中的公平性涉及獨特的背景、分類法和實現技術。本教程系統性地概述了與公平 LLM 有關的文獻中的最新進展，從實際案例研究開始介紹 LLM，然後分析其中的偏差原因。接著探討 LLM 中公平性的概念，總結評估偏差的策略和旨在促進公平性的演算法。此外，編制了用於評估 LLM 中偏差的資源，包括工具包和資料集，並討論了該領域當前的研究挑戰和開放性問題。儲存庫可在\url{https://github.com/LavinWong/Fairness-in-Large-Language-Models}取得。
 
 ##### **On the Resilience of Multi-Agent Systems with Malicious Agents**
 2408.00989v1 by Jen-tse Huang, Jiaxu Zhou, Tailin Jin, Xuhui Zhou, Zixi Chen, Wenxuan Wang, Youliang Yuan, Maarten Sap, Michael R. Lyu

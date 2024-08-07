@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
-|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|null|
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|null|
 |**2024-08-03**|**Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**|Jinwen Tang et.al.|[2408.01614v1](http://arxiv.org/abs/2408.01614v1)|null|
@@ -15,7 +15,7 @@
 |**2024-08-01**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v2](http://arxiv.org/abs/2408.00938v2)|null|
 |**2024-08-01**|**Parkinson's Disease Detection from Resting State EEG using Multi-Head Graph Structure Learning with Gradient Weighted Graph Attention Explanations**|Christopher Neves et.al.|[2408.00906v1](http://arxiv.org/abs/2408.00906v1)|null|
 |**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
-|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
+|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v2](http://arxiv.org/abs/2408.00756v2)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|null|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
@@ -161,7 +161,7 @@ respectively.
 摘要：<paragraph>穿戴式系統提供持續的健康監測，並可及早偵測潛在的健康問題。然而，穿戴式系統的生命週期面臨幾個挑戰。首先，新穿戴式裝置的有效模型訓練需要從各種受試者收集的大量標籤資料，且資料必須直接由穿戴式裝置收集。其次，後續的模型更新需要進一步的大量標籤資料才能重新訓練。最後，穿戴式裝置上頻繁的模型更新會縮短長期資料監測的電池續航力。為了應對這些挑戰，我們在本文中提出 MetaWearS，這是一種元學習方法，可減少所需的初始資料收集量。此外，我們的方法結合了一個原型更新機制，透過修改類別原型而非重新訓練整個模型來簡化更新過程。我們在兩個案例研究中探討 MetaWearS 的效能，分別是癲癇發作偵測和心房顫動偵測。我們展示了透過微調僅少數樣本，我們分別在癲癇發作偵測和心房顫動偵測中達到 70% 和 82% 的 AUC。與傳統方法相比，我們提出的方法表現更好，AUC 最高可達 45%。此外，僅使用 16 分鐘的額外標籤資料更新模型，即可將 AUC 提高多達 5.3%。最後，MetaWearS 分別將癲癇發作和心房顫動偵測的模型更新能耗降低了 456 倍和 418 倍。</paragraph>
 
 ##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
-2408.01933v1 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
+2408.01933v2 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
 
 Large language models (LLMs) have recently showcased remarkable capabilities,
 spanning a wide range of tasks and applications, including those in the medical
@@ -169,7 +169,7 @@ domain. Models like GPT-4 excel in medical question answering but may face
 challenges in the lack of interpretability when handling complex tasks in real
 clinical settings. We thus introduce the diagnostic reasoning dataset for
 clinical notes (DiReCT), aiming at evaluating the reasoning ability and
-interpretability of LLMs compared to human doctors. It contains 521 clinical
+interpretability of LLMs compared to human doctors. It contains 511 clinical
 notes, each meticulously annotated by physicians, detailing the diagnostic
 reasoning process from observations in a clinical note to the final diagnosis.
 Additionally, a diagnostic knowledge graph is provided to offer essential
@@ -179,7 +179,7 @@ gap between their reasoning ability and that of human doctors, highlighting the
 critical need for models that can reason effectively in real-world clinical
 scenarios.
 
-摘要：大型語言模型 (LLM) 近期展示出非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記的診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 521 個臨床筆記，每個筆記都經過醫師仔細註解，詳細說明了從臨床筆記中的觀察到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的必要知識，這些知識可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生之間存在顯著差距，強調了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
+摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
 
 ##### **MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**
 2408.01869v1 by Jihye Choi, Nils Palumbo, Prasad Chalasani, Matthew M. Engelhard, Somesh Jha, Anivarya Kumar, David Page
@@ -415,28 +415,28 @@ image reconstruction, especially in handling complex medium structures.
 摘要：三維超音波影像是一項廣泛用於醫療診斷的重要技術。然而，傳統的 3D 超音波影像方法有解析度固定、儲存效率低、脈絡連接性不足等限制，導致在處理複雜的偽影和反射特性時效能不佳。最近，基於 NeRF（神經輻照場）的技術在視圖合成和 3D 重建方面取得重大進展，但高品質超音波影像仍存在研究空白。為了解決這些問題，我們提出了一種新的模型 UlRe-NeRF，它將隱式神經網路和明確的超音波體積渲染結合到超音波神經渲染架構中。此模型結合了反射方向參數化和諧波編碼，使用方向性 MLP 模組來產生視角依賴的高頻率反射強度估計，並使用空間 MLP 模組來產生介質的物理屬性參數。這些參數用於體積渲染過程中，以準確重現超音波在介質中的傳播和反射行為。實驗結果證明，UlRe-NeRF 模型顯著提升了高保真超音波影像重建的真實性和準確性，特別是在處理複雜介質結構時。
 
 ##### **Segment anything model 2: an application to 2D and 3D medical images**
-2408.00756v1 by Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski
+2408.00756v2 by Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski
 
 Segment Anything Model (SAM) has gained significant attention because of its
-ability to segment a variety of objects in images given a prompt. The recently
+ability to segment varous objects in images given a prompt. The recently
 developed SAM 2 has extended this ability to video inputs. This opens an
 opportunity to apply SAM to 3D images, one of the fundamental tasks in the
-medical imaging field. In this paper, we provide an extensive evaluation of SAM
-2's ability to segment both 2D and 3D medical images. We collect 18 medical
-imaging datasets, including common 3D modalities such as computed tomography
-(CT), magnetic resonance imaging (MRI), and positron emission tomography (PET)
-as well as 2D modalities such as X-ray and ultrasound. We consider two
-evaluation pipelines of SAM 2: (1) multi-frame 3D segmentation, where prompts
-are provided to one or multiple slice(s) selected from the volume, and (2)
+medical imaging field. In this paper, we extensively evaluate SAM 2's ability
+to segment both 2D and 3D medical images by first collecting 18 medical imaging
+datasets, including common 3D modalities such as computed tomography (CT),
+magnetic resonance imaging (MRI), and positron emission tomography (PET) as
+well as 2D modalities such as X-ray and ultrasound. Two evaluation pipelines of
+SAM 2 are considered: (1) multi-frame 3D segmentation, where prompts are
+provided to one or multiple slice(s) selected from the volume, and (2)
 single-frame 2D segmentation, where prompts are provided to each slice. The
 former is only applicable to 3D modalities, while the latter applies to both 2D
-and 3D modalities. We learn that SAM 2 exhibits similar performance as SAM
-under single-frame 2D segmentation, and has variable performance under
+and 3D modalities. Our results show that SAM 2 exhibits similar performance as
+SAM under single-frame 2D segmentation, and has variable performance under
 multi-frame 3D segmentation depending on the choices of slices to annotate, the
 direction of the propagation, the predictions utilized during the propagation,
 etc.
 
-摘要：分段任何模型 (SAM) 因其在給定提示的情況下分段圖像中各種物體的能力而備受關注。最近開發的 SAM 2 已將此能力擴展到影片輸入。這開啟了一個將 SAM 應用於 3D 影像的機會，這是醫學影像領域的基礎任務之一。在本文中，我們對 SAM 2 分段 2D 和 3D 醫學影像的能力進行了廣泛評估。我們收集了 18 個醫學影像資料集，包括常見的 3D 方式，例如電腦斷層掃描 (CT)、磁振造影 (MRI) 和正子發射斷層掃描 (PET)，以及 2D 方式，例如 X 光和超音波。我們考慮了 SAM 2 的兩個評估管道：(1) 多幀 3D 分段，其中提示提供給從體積中選取的一個或多個切片，以及 (2) 單幀 2D 分段，其中提示提供給每個切片。前者僅適用於 3D 方式，而後者適用於 2D 和 3D 方式。我們了解到，在單幀 2D 分段下，SAM 2 表現出與 SAM 相似的效能，而在多幀 3D 分段下則表現出不同的效能，具體取決於標記切片的選擇、傳播方向、傳播期間使用的預測等。
+摘要：分段任何模型 (SAM) 因其根據提示分段圖像中的不同物件的能力而受到廣泛關注。最近開發的 SAM 2 已將此能力擴展到影片輸入。這為將 SAM 應用於 3D 影像開啟了機會，這是醫學影像領域的基本任務之一。在本文中，我們廣泛評估了 SAM 2 分段 2D 和 3D 醫學影像的能力，首先收集了 18 個醫學影像資料集，包括常見的 3D 模式，例如電腦斷層掃描 (CT)、磁振造影 (MRI) 和正子發射斷層掃描 (PET)，以及 2D 模式，例如 X 射線和超音波。考慮了 SAM 2 的兩個評估管道：(1) 多幀 3D 分段，其中提示提供給從體積中選擇的一個或多個切片，以及 (2) 單幀 2D 分段，其中提示提供給每個切片。前者僅適用於 3D 模式，而後者適用於 2D 和 3D 模式。我們的結果表明，SAM 2 在單幀 2D 分段下的表現與 SAM 類似，並且在多幀 3D 分段下的表現會根據要標註的切片選擇、傳播方向、傳播期間使用的預測等而有所不同。
 
 ##### **Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**
 2408.00749v1 by Venkat Margapuri, Prapti Thapaliya, Trevor Rife

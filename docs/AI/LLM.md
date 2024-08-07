@@ -28,7 +28,7 @@
 |**2024-08-05**|**Infusing Emotions into Task-oriented Dialogue Systems: Understanding, Management, and Generation**|Shutong Feng et.al.|[2408.02417v1](http://arxiv.org/abs/2408.02417v1)|null|
 |**2024-08-05**|**Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models**|Zi Liang et.al.|[2408.02416v1](http://arxiv.org/abs/2408.02416v1)|null|
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408v1](http://arxiv.org/abs/2408.02408v1)|null|
-|**2024-08-05**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402v1](http://arxiv.org/abs/2408.02402v1)|null|
+|**2024-08-05**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402v2](http://arxiv.org/abs/2408.02402v2)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
 |**2024-08-05**|**Operationalizing Contextual Integrity in Privacy-Conscious Assistants**|Sahra Ghalebikesabi et.al.|[2408.02373v1](http://arxiv.org/abs/2408.02373v1)|null|
 |**2024-08-05**|**Dialogue Ontology Relation Extraction via Constrained Chain-of-Thought Decoding**|Renato Vukovic et.al.|[2408.02361v1](http://arxiv.org/abs/2408.02361v1)|null|
@@ -67,7 +67,7 @@
 |**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
 |**2024-08-04**|**Effective Demonstration Annotation for In-Context Learning via Language Model-Based Determinantal Point Process**|Peng Wang et.al.|[2408.02103v1](http://arxiv.org/abs/2408.02103v1)|null|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088v1](http://arxiv.org/abs/2408.02088v1)|null|
-|**2024-08-04**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085v1](http://arxiv.org/abs/2408.02085v1)|null|
+|**2024-08-04**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085v2](http://arxiv.org/abs/2408.02085v2)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
 |**2024-08-04**|**Fine-tuning multilingual language models in Twitter/X sentiment analysis: a study on Eastern-European V4 languages**|Tomáš Filip et.al.|[2408.02044v1](http://arxiv.org/abs/2408.02044v1)|null|
 |**2024-08-04**|**Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models**|Fushuo Huo et.al.|[2408.02032v1](http://arxiv.org/abs/2408.02032v1)|null|
@@ -90,7 +90,7 @@
 |**2024-08-04**|**Why Perturbing Symbolic Music is Necessary: Fitting the Distribution of Never-used Notes through a Joint Probabilistic Diffusion Model**|Shipei Liu et.al.|[2408.01950v1](http://arxiv.org/abs/2408.01950v1)|null|
 |**2024-08-04**|**Visual Grounding for Object-Level Generalization in Reinforcement Learning**|Haobin Jiang et.al.|[2408.01942v1](http://arxiv.org/abs/2408.01942v1)|null|
 |**2024-08-04**|**Defining and Evaluating Decision and Composite Risk in Language Models Applied to Natural Language Inference**|Ke Shen et.al.|[2408.01935v1](http://arxiv.org/abs/2408.01935v1)|null|
-|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-04**|**A Semi-supervised Multi-channel Graph Convolutional Network for Query Classification in E-commerce**|Chunyuan Yuan et.al.|[2408.01928v1](http://arxiv.org/abs/2408.01928v1)|null|
 |**2024-08-04**|**MAO: A Framework for Process Model Generation with Multi-Agent Orchestration**|Leilei Lin et.al.|[2408.01916v1](http://arxiv.org/abs/2408.01916v1)|null|
 |**2024-08-04**|**Re-ENACT: Reinforcement Learning for Emotional Speech Generation using Actor-Critic Strategy**|Ravi Shankar et.al.|[2408.01892v1](http://arxiv.org/abs/2408.01892v1)|null|
@@ -739,7 +739,7 @@ conditions.
 摘要：在 GNSS 拒絕的環境中進行跨視圖地理定位旨在通過將無人機視圖影像與來自大型圖庫的正確地理標記衛星視圖影像進行匹配來確定未知位置。最近的研究表明，在特定天氣條件下學習判別影像表徵可以顯著提高性能。然而，極端天氣條件的頻繁出現阻礙了進展。本文介紹了 MCGF，一個多天氣跨視圖地理定位框架，旨在動態適應未知天氣條件。MCGF 在影像修復和地理定位之間建立了聯合優化，使用去噪擴散模型。對於影像修復，MCGF 結合了一個共享編碼器和一個輕量級修復模組，以幫助主幹消除特定天氣資訊。對於地理定位，MCGF 使用 EVA-02 作為特徵提取的主幹，使用交叉熵損失進行訓練，使用餘弦距離進行測試。在 University160k-WX 上進行的大量實驗表明，MCGF 在不同的天氣條件下實現了地理定位的競爭結果。
 
 ##### **Enhancing AI-based Generation of Software Exploits with Contextual Information**
-2408.02402v1 by Pietro Liguori, Cristina Improta, Roberto Natella, Bojan Cukic, Domenico Cotroneo
+2408.02402v2 by Pietro Liguori, Cristina Improta, Roberto Natella, Bojan Cukic, Domenico Cotroneo
 
 This practical experience report explores Neural Machine Translation (NMT)
 models' capability to generate offensive security code from natural language
@@ -759,20 +759,17 @@ code. This study paves the way for future research on optimizing context use in
 AI-driven code generation, particularly for applications requiring a high
 degree of technical precision such as the generation of offensive code.
 
-摘要：這份實務經驗報告探討神經機器翻譯 (NMT)
-模型從自然語言 (NL) 說明產生攻擊性安全程式碼的能力，並強調脈絡理解的重要性
+摘要：這份實務經驗報告探討了神經機器翻譯 (NMT)
+模型從自然語言 (NL) 描述產生攻擊性安全程式碼的能力，強調了脈絡理解的重要性
 及其對模型效能的影響。我們的研究採用包含
-實際 shellcode 的資料集來評估各種情境中的模型，包括
-遺失資訊、必要的脈絡和不必要的脈絡。
-這些實驗旨在評估模型對不完整
-說明的韌性、利用脈絡以提高準確度的熟練程度，以及辨別不相關資訊的能力。研究結果顯示
-脈絡資料的引入顯著改善效能。
-然而，額外脈絡的好處在某個點之後會遞減，
-表示模型訓練有脈絡資訊的最佳層級。
-此外，這些模型展現出過濾不必要脈絡的能力，
-在產生攻擊性安全
-程式碼時維持高準確度。這項研究為未來在 AI 驅動程式碼產生中最佳化脈絡使用鋪路，
-特別是對於需要高度技術精準度的應用，例如產生攻擊性程式碼。
+真實 shellcode 的資料集，以評估模型在各種場景中的表現，包括
+遺漏資訊、必要的脈絡和不必要的脈絡。這些
+實驗旨在評估模型對不完整描述的韌性、它們在利用脈絡以提高準確度方面的熟練程度，
+以及它們辨別不相關資訊的能力。研究結果顯示
+脈絡資料的引入顯著提升了效能。然而，額外脈絡的好處在某個點之後會遞減，
+指出模型訓練有最佳脈絡資訊量。此外，這些模型展現了過濾不必要脈絡的能力，
+在產生攻擊性安全程式碼時維持高準確度。這項研究為未來在 AI 驅動程式碼產生中最佳化脈絡使用鋪路，特別是對於需要高
+技術精準度的應用，例如產生攻擊性程式碼。
 
 ##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
 2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
@@ -1669,7 +1666,7 @@ environments.
 摘要：在自動駕駛中，準確的 3D 物體偵測至關重要，但由於遮擋、物體比例變化和複雜的城市環境，這項任務也極具挑戰性。本文介紹了 RCBEV-KAN 演算法，這是一種先驅方法，旨在透過融合來自相機、LiDAR 和毫米波雷達的多模態感測器資料來增強 3D 物體偵測。我們創新的基於鳥瞰圖 (BEV) 的方法利用 Transformer 架構，透過無縫整合不同的資料來源、改善空間關係處理和最佳化運算流程，大幅提升偵測精準度和效率。實驗結果顯示，RCBEV-KAN 模型在大部分偵測類別中展現出優異的效能，達到了更高的平均距離 AP（0.389 對比 0.316，提升了 23%）、更好的 ND 分數（0.484 對比 0.415，提升了 17%）和更快的評估時間（71.28 秒，快了 8%）。這些結果表明，RCBEV-KAN 更準確、更可靠且更有效率，使其成為動態且具挑戰性的自動駕駛環境的理想選擇。
 
 ##### **Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**
-2408.02085v1 by Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun
+2408.02085v2 by Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun
 
 Instruction tuning plays a critical role in aligning large language models
 (LLMs) with human preference. Despite the vast amount of open instruction
@@ -1691,7 +1688,7 @@ summarize the open challenges and propose the promosing avenues for future
 studies. All related contents are available at
 https://github.com/yuleiqin/fantastic-data-engineering.
 
-摘要：指令微调在将大型语言模型（LLM）与人类偏好保持一致方面发挥着至关重要的作用。尽管有大量的开放式指令数据集，但天真地训练 LLM 来处理所有现有指令可能既不理想也不切实际。为了找出最有益的数据点，自然语言处理 (NLP) 和深度学习领域提出了数据评估和选择方法。然而，在指令微调的背景下，对于可以使用哪种数据评估指标以及如何将它们集成到选择机制中，仍然存在知识空白。为了弥补这一空白，我们对现有数据评估和选择文献进行了全面回顾，特别是针对 LLM 的指令微调。我们将所有适用的方法系统地分类为基于质量、基于多样性和基于重要性的方法，其中构建了一个统一的、细粒度的分类法。对于每个类别，我们详细阐述了代表性方法，以描述相关研究的概况。此外，我们根据其官方报告的结果对最新方法进行了比较，以深入讨论其局限性。最后，我们总结了开放性挑战，并提出了未来研究的有希望的途径。所有相关内容均可在 https://github.com/yuleiqin/fantastic-data-engineering 获得。
+摘要：指示微调在让大型语言模型 (LLM) 与人类偏好保持一致方面发挥着至关重要的作用。尽管有大量开放的指令数据集，但对 LLM 进行朴素训练，涵盖所有现有指令可能不是最优的，也不切实际。为了精确定位最有利的数据点，自然语言处理 (NLP) 和深度学习领域提出了数据评估和选择方法。然而，在指令微调的背景下，对于可以使用哪种数据评估指标以及如何将它们集成到选择机制中，仍然存在知识空白。为了弥补这一空白，我们对现有数据评估和选择文献进行了全面回顾，特别是针对 LLM 的指令微调。我们将所有适用的方法系统地分类为基于质量、基于多样性和基于重要性的方法，并构建了一个统一的、细粒度的分类法。对于每个类别，我们详细阐述了代表性方法，以描述相关研究的概况。此外，我们根据最新方法的官方报告结果对其进行了比较，以深入讨论其局限性。最后，我们总结了未解决的挑战，并提出了未来研究的有希望的途径。所有相关内容均可在 https://github.com/yuleiqin/fantastic-data-engineering 中获得。
 
 ##### **MedSyn: LLM-based Synthetic Medical Text Generation Framework**
 2408.02056v1 by Gleb Kumichev, Pavel Blinov, Yulia Kuzkina, Vasily Goncharov, Galina Zubkova, Nikolai Zenovkin, Aleksei Goncharov, Andrey Savchenko
@@ -2233,7 +2230,7 @@ and skip 19.8% of high-risk tasks, which would have been answered incorrectly.
 摘要：儘管大型語言模型 (LLM) 例如 ChatGPT 擁有令人印象深刻的表現，但已知會造成重要的風險。其中一組風險源自於模型在推論中出現的錯誤信心，無論是過度自信或過度不自信。前者已被廣泛研究，後者則否，導致在了解模型基於錯誤信心的全面風險時出現不對稱。在本文中，我們透過定義兩種風險（決策風險和複合風險）來解決這個不對稱，並提出一個實驗架構，包括一個二層推論架構和適當的指標，用於衡量判別式和生成式 LLM 中的這兩種風險。第一層依賴於一個決策規則，用於決定底層語言模型是否應棄權推論。第二層（如果模型不棄權則適用）是模型的推論。使用開源的基於集合的 RoBERTa 模型和 ChatGPT，在四個自然語言常識推理資料集上進行的詳細實驗，證明了評估架構的實用性。例如，我們的結果顯示，我們的架構可以讓 LLM 自信地回應額外的 20.1% 的低風險推論任務，而其他方法可能會將其錯誤分類為高風險，並略過 19.8% 的高風險任務，而這些任務可能會被回答錯誤。
 
 ##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
-2408.01933v1 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
+2408.01933v2 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
 
 Large language models (LLMs) have recently showcased remarkable capabilities,
 spanning a wide range of tasks and applications, including those in the medical
@@ -2241,7 +2238,7 @@ domain. Models like GPT-4 excel in medical question answering but may face
 challenges in the lack of interpretability when handling complex tasks in real
 clinical settings. We thus introduce the diagnostic reasoning dataset for
 clinical notes (DiReCT), aiming at evaluating the reasoning ability and
-interpretability of LLMs compared to human doctors. It contains 521 clinical
+interpretability of LLMs compared to human doctors. It contains 511 clinical
 notes, each meticulously annotated by physicians, detailing the diagnostic
 reasoning process from observations in a clinical note to the final diagnosis.
 Additionally, a diagnostic knowledge graph is provided to offer essential
@@ -2251,7 +2248,7 @@ gap between their reasoning ability and that of human doctors, highlighting the
 critical need for models that can reason effectively in real-world clinical
 scenarios.
 
-摘要：大型語言模型 (LLM) 近期展示出非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記的診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 521 個臨床筆記，每個筆記都經過醫師仔細註解，詳細說明了從臨床筆記中的觀察到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的必要知識，這些知識可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生之間存在顯著差距，強調了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
+摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
 
 ##### **A Semi-supervised Multi-channel Graph Convolutional Network for Query Classification in E-commerce**
 2408.01928v1 by Chunyuan Yuan, Ming Pang, Zheng Fang, Xue Jiang, Changping Peng, Zhangang Lin

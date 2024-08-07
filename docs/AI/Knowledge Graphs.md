@@ -5,7 +5,7 @@
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
 |**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
-|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**|Antonio De Santis et.al.|[2408.01700v1](http://arxiv.org/abs/2408.01700v1)|null|
 |**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
 |**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v1](http://arxiv.org/abs/2408.01088v1)|null|
@@ -14,7 +14,7 @@
 |**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
 |**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708v1](http://arxiv.org/abs/2407.21708v1)|null|
-|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483v2](http://arxiv.org/abs/2407.21483v2)|null|
+|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xinyi Pan et.al.|[2407.21483v3](http://arxiv.org/abs/2407.21483v3)|null|
 |**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358v1](http://arxiv.org/abs/2407.21358v1)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293v1](http://arxiv.org/abs/2407.21293v1)|null|
@@ -57,7 +57,7 @@
 |**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068v2](http://arxiv.org/abs/2407.12068v2)|null|
 |**2024-07-16**|**CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation**|Kalliopi Basioti et.al.|[2407.11393v2](http://arxiv.org/abs/2407.11393v2)|[link](https://github.com/SamsungLabs/CIC-BART-SSA)|
-|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v2](http://arxiv.org/abs/2407.10805v2)|null|
+|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805v3](http://arxiv.org/abs/2407.10805v3)|null|
 |**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|[link](https://github.com/irenezihuili/cgprompt)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
 |**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
@@ -168,7 +168,7 @@ Russian language, comprising over 41k samples covering 219 ICD-10 codes.
 摘要：合成文本的生成解决了隐私敏感领域（如医疗保健）中数据可用性的挑战。本研究探讨了合成数据在实际医疗环境中的适用性。我们引入了 MedSyn，这是一个新颖的医学文本生成框架，它将大型语言模型与医学知识图谱 (MKG) 相结合。我们使用 MKG 为提示采样先验医学信息，并使用 GPT-4 和微调的 LLaMA 模型生成合成临床注释。我们通过在 ICD 代码预测任务中的应用评估了合成数据的优势。我们的研究表明，与没有合成数据的设置相比，合成数据可以将重要且具有挑战性的代码的分类准确性提高多达 17.8%。此外，为了为医疗保健领域的进一步研究提供新数据，我们展示了最大的开放源代码合成数据集，其中包含超过 41k 个涵盖 219 个 ICD-10 代码的临床注释。
 
 ##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
-2408.01933v1 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
+2408.01933v2 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
 
 Large language models (LLMs) have recently showcased remarkable capabilities,
 spanning a wide range of tasks and applications, including those in the medical
@@ -176,7 +176,7 @@ domain. Models like GPT-4 excel in medical question answering but may face
 challenges in the lack of interpretability when handling complex tasks in real
 clinical settings. We thus introduce the diagnostic reasoning dataset for
 clinical notes (DiReCT), aiming at evaluating the reasoning ability and
-interpretability of LLMs compared to human doctors. It contains 521 clinical
+interpretability of LLMs compared to human doctors. It contains 511 clinical
 notes, each meticulously annotated by physicians, detailing the diagnostic
 reasoning process from observations in a clinical note to the final diagnosis.
 Additionally, a diagnostic knowledge graph is provided to offer essential
@@ -186,7 +186,7 @@ gap between their reasoning ability and that of human doctors, highlighting the
 critical need for models that can reason effectively in real-world clinical
 scenarios.
 
-摘要：大型語言模型 (LLM) 近期展示出非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記的診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 521 個臨床筆記，每個筆記都經過醫師仔細註解，詳細說明了從臨床筆記中的觀察到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的必要知識，這些知識可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生之間存在顯著差距，強調了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
+摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
 
 ##### **Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**
 2408.01700v1 by Antonio De Santis, Marco Balduini, Federico De Santis, Andrea Proia, Arsenio Leo, Marco Brambilla, Emanuele Della Valle
@@ -379,7 +379,7 @@ complementary information to ChEBI, and can help to extend it.
 摘要：本体是特定領域中知識的形式化表示，它提供了一個結構化的框架，用於組織和理解複雜的資訊。然而，建立本体是一項複雜且耗時的努力。ChEBI 是化學領域中一個著名的本体，它提供了一個全面的資源，用於定義化學實體及其屬性。然而，它僅涵蓋了化學領域快速增長的知識中的一小部分，並且沒有提供科學文獻的參考。為了解決這個問題，我們提出了一種方法，它涉及使用來自 Chebi 的知識擴充現有的註釋文本語料庫，並微調大型語言模型 (LLM)，以識別化學實體及其在科學文本中的作用。我們的實驗證明了我們方法的有效性。透過結合本体知識和 LLM 的語言理解能力，我們在識別科學文獻中的化學實體和作用方面達到了很高的準確度和召回率。此外，我們從一組 8,000 篇 ChemRxiv 文章中提取它們，並應用第二個 LLM 來建立一個化學實體和作用 (CEAR) 的知識圖譜 (KG)，它提供補充 ChEBI 的資訊，並有助於擴充它。
 
 ##### **eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**
-2407.21483v2 by Xiny Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
+2407.21483v3 by Xinyi Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
 
 Over the past few years, we have seen the emergence of large knowledge graphs
 combining information from multiple sources. Sometimes, this information is
@@ -397,7 +397,7 @@ language can express four use case queries, including the following features:
 (iii) querying who is conflicting with somebody, and (iv) beliefs about beliefs
 (i.e., nesting of beliefs).
 
-摘要：在過去幾年，我們已經看到大型知識圖譜的出現，結合來自多個來源的資訊。有時，此資訊以對其他斷言的斷言形式提供，定義斷言有效的脈絡。RDF 的最新擴充允許對斷言進行陳述，稱為 RDF-star，目前正在修訂為 W3C 標準。然而，沒有針對這些 RDF-star 陳述的語義提出建議，也沒有內建的運作工具。在本文中，我們提出一個基於四值邏輯的知識 RDF-star 元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF-star 的查詢語言 SPARQL-star，並使用新的 FROM 子句類型來促進運作，包括多重且有時衝突的信念。我們展示了所提出的查詢語言可以表達四個用例查詢，包括下列功能：(i) 查詢個人的信念，(ii) 信念的彙總，(iii) 查詢誰與某人衝突，以及 (iv) 關於信念的信念（即信念的巢狀）。
+摘要：在過去幾年，我們見證了大型知識圖譜的出現，結合來自多個來源的資訊。有時，這些資訊會以對其他斷言的斷言形式提供，定義斷言有效的脈絡。最近對 RDF 的擴充，允許對陳述進行陳述，稱為 RDF-star，正在修訂為 W3C 標準。然而，目前沒有針對這些 RDF-star 陳述的語意建議，也沒有內建的運作功能。在本文中，我們提出了一種基於四值邏輯的知識 RDF-star 元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF-star 的查詢語言 SPARQL-star，新增一種 FROM 子句類型，以利於使用多重且有時相互衝突的信念進行運作。我們展示了所提出的查詢語言可以表達四種使用案例查詢，包括以下功能：(i) 查詢個人的信念，(ii) 彙總信念，(iii) 查詢與某人衝突的是誰，以及 (iv) 關於信念的信念（即信念的巢狀）。
 
 ##### **Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**
 2407.21452v1 by Haodong Hong, Sen Wang, Zi Huang, Qi Wu, Jiajun Liu
@@ -1394,7 +1394,7 @@ https://github.com/SamsungLabs/CIC-BART-SSA.
 摘要：可控图像标注 (CIC) 旨在生成自然语言描述以描述图像，条件是根据最终用户提供的资讯，例如区域、实体或感兴趣的事件。然而，现有的图像语言数据集主要包含描述整个图像的标注，使其无法有效训练 CIC 模型，而这些模型有可能关注任何区域或关系的子集。为了应对这一挑战，我们提出了一种新颖的、全自动的方法，使用建立在与图像关联的现有标注集之上的统一结构化语义表示来抽样其他聚焦且视觉接地的标注。我们利用跨语言图式语义形式化抽象意义表示 (AMR) 来编码实体之间所有可能的空间语义关系，而不仅仅是当前方法中仅关注的空间关系。我们使用这种结构化语义增强 (SSA) 框架来增强现有的图像标注数据集，使其接地且可控的标注，增加它们的空间和语义多样性以及焦点覆盖范围。然后，我们开发了一个新模型 CIC-BART-SSA，专门针对 CIC 任务量身定制，其控制信号来自 SSA 多样化的数据集。我们凭经验表明，与 SOTA CIC 模型相比，CIC-BART-SSA 生成的标注在多样性和文本质量方面更胜一筹，在可控性方面具有竞争力，而且重要的是，通过有效地推广到具有挑战性的高度聚焦场景，最大限度地缩小了广泛和高度聚焦的受控标注性能之间的差距。代码可从 https://github.com/SamsungLabs/CIC-BART-SSA 获得。
 
 ##### **Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**
-2407.10805v2 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
+2407.10805v3 by Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Jian Guo
 
 Retrieval-augmented generation (RAG) has significantly advanced large
 language models (LLMs) by enabling dynamic information retrieval to mitigate
@@ -1413,7 +1413,7 @@ LLM reasoning, aligning it closer to human-like performance. We conducted
 extensive experiments on four public datasets to demonstrate the advantages of
 our method compared to the baseline.
 
-摘要：檢索增強生成（RAG）透過啟用動態資訊檢索來緩解生成內容中的知識差距和幻覺，從而顯著進步了大型語言模型（LLM）。然而，這些系統在複雜推理和跨不同查詢的一致性方面常常會出錯。在這項工作中，我們提出了 Think-on-Graph 2.0，一種增強的 RAG 框架，它將問題與知識圖譜對齊並將其用作導航工具，這加深並改進了用於資訊收集和整合的 RAG 典範。受知識圖譜引導的導航促進了深入且長距離的關聯，以維持邏輯一致性並最佳化檢索範圍以提高精確度和互操作性。結合起來，事實一致性可以透過由精確指示引導的語義相似性得到更好的確保。ToG${2.0}$ 不僅提升了 LLM 回應的準確性和可靠性，還展示了混合結構化知識系統在顯著推進 LLM 推理方面的潛力，使之更接近人類般的表現。我們在四個公共數據集上進行了廣泛的實驗，以展示我們的方法與基線相比的優勢。
+摘要：檢索增強生成 (RAG) 已大幅提升大型語言模型 (LLM)，藉由啟用動態資訊檢索來減輕產生內容中的知識差距和幻覺。然而，這些系統在複雜推理和不同查詢間的一致性方面經常會出錯。在本文中，我們提出 Think-on-Graph 2.0，一個增強的 RAG 架構，它會將問題與知識圖譜對齊，並將其用作導航工具，這會加深和改善 RAG 典範以進行資訊收集和整合。KG 引導的導航促進深度且長程關聯，以維持邏輯一致性，並最佳化檢索範圍以提升精準度和互操作性。結合使用，事實一致性可透過由精確指示引導的語義相似性獲得更好的確保。ToG${2.0}$ 不僅提升 LLM 回應的準確度和可靠度，也證明混合結構化知識系統有潛力大幅提升 LLM 推理，使其更接近人類般的表現。我們在四個公開資料集上進行廣泛的實驗，以證明我們的方法優於基線。
 
 ##### **Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**
 2407.10794v1 by Rui Yang, Boming Yang, Sixun Ouyang, Tianwei She, Aosong Feng, Yuang Jiang, Freddy Lecue, Jinghui Lu, Irene Li

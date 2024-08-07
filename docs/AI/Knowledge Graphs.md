@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
+|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|null|
+|**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
 |**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
@@ -99,11 +102,83 @@
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
 |**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511v1](http://arxiv.org/abs/2407.01511v1)|[link](https://github.com/camel-ai/crab)|
-|**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409v1](http://arxiv.org/abs/2407.01409v1)|null|
-|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v2](http://arxiv.org/abs/2407.01406v2)|[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)|
-|**2024-07-01**|**SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**|Lingyue Fu et.al.|[2407.01245v2](http://arxiv.org/abs/2407.01245v2)|null|
 
 #### Abstracts
+##### **Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**
+2408.03079v1 by Jinglong Gao, Chen Lu, Xiao Ding, Zhongyang Li, Ting Liu, Bing Qin
+
+Event Causality Extraction (ECE) aims at extracting causal event pairs from
+texts. Despite ChatGPT's recent success, fine-tuning small models remains the
+best approach for the ECE task. However, existing fine-tuning based ECE methods
+cannot address all three key challenges in ECE simultaneously: 1) Complex
+Causality Extraction, where multiple causal-effect pairs occur within a single
+sentence; 2) Subtask~ Interaction, which involves modeling the mutual
+dependence between the two subtasks of ECE, i.e., extracting events and
+identifying the causal relationship between extracted events; and 3) Knowledge
+Fusion, which requires effectively fusing the knowledge in two modalities,
+i.e., the expressive pretrained language models and the structured knowledge
+graphs. In this paper, we propose a unified ECE framework (UniCE to address all
+three issues in ECE simultaneously. Specifically, we design a subtask
+interaction mechanism to enable mutual interaction between the two ECE
+subtasks. Besides, we design a knowledge fusion mechanism to fuse knowledge in
+the two modalities. Furthermore, we employ separate decoders for each subtask
+to facilitate complex causality extraction. Experiments on three benchmark
+datasets demonstrate that our method achieves state-of-the-art performance and
+outperforms ChatGPT with a margin of at least 30% F1-score. More importantly,
+our model can also be used to effectively improve the ECE performance of
+ChatGPT via in-context learning.
+
+摘要：事件因果關係萃取 (ECE) 的目標是從文本中萃取出因果事件對。儘管 ChatGPT 最近獲得成功，微調小型模型仍是 ECE 任務的最佳方法。然而，現有的基於微調的 ECE 方法無法同時解決 ECE 中的三個主要挑戰：1) 複雜因果關係萃取，其中多個因果關係對出現在單一句子中；2) 子任務互動，這涉及對 ECE 的兩個子任務（即萃取事件和識別萃取事件之間的因果關係）之間的相互依賴性進行建模；3) 知識融合，這需要有效地融合兩種模式中的知識，即表達式的預訓練語言模型和結構化的知識圖譜。在本文中，我們提出一個統一的 ECE 框架 (UniCE)，以同時解決 ECE 中的所有三個問題。具體來說，我們設計了一個子任務互動機制，以實現兩個 ECE 子任務之間的相互互動。此外，我們設計了一個知識融合機制來融合兩種模式中的知識。此外，我們針對每個子任務採用單獨的解碼器，以促進複雜因果關係的萃取。在三個基準資料集上的實驗表明，我們的方法達到了最先進的效能，並且以至少 30% 的 F1 分數優於 ChatGPT。更重要的是，我們的模型也可以透過情境學習有效地提升 ChatGPT 的 ECE 效能。
+
+##### **Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**
+2408.03010v1 by Daniel Steinigen, Roman Teucher, Timm Heine Ruland, Max Rudat, Nicolas Flores-Herr, Peter Fischer, Nikola Milosevic, Christopher Schymura, Angelo Ziletti
+
+Recent advancements in Large Language Models (LLMs) have showcased their
+proficiency in answering natural language queries. However, their effectiveness
+is hindered by limited domain-specific knowledge, raising concerns about the
+reliability of their responses. We introduce a hybrid system that augments LLMs
+with domain-specific knowledge graphs (KGs), thereby aiming to enhance factual
+correctness using a KG-based retrieval approach. We focus on a medical KG to
+demonstrate our methodology, which includes (1) pre-processing, (2) Cypher
+query generation, (3) Cypher query processing, (4) KG retrieval, and (5)
+LLM-enhanced response generation. We evaluate our system on a curated dataset
+of 69 samples, achieving a precision of 78\% in retrieving correct KG nodes.
+Our findings indicate that the hybrid system surpasses a standalone LLM in
+accuracy and completeness, as verified by an LLM-as-a-Judge evaluation method.
+This positions the system as a promising tool for applications that demand
+factual correctness and completeness, such as target identification -- a
+critical process in pinpointing biological entities for disease treatment or
+crop enhancement. Moreover, its intuitive search interface and ability to
+provide accurate responses within seconds make it well-suited for
+time-sensitive, precision-focused research contexts. We publish the source code
+together with the dataset and the prompt templates used.
+
+摘要：大型語言模型 (LLM) 的最新進展展示了它們在回答自然語言查詢方面的能力。然而，它們的有效性受到特定領域知識有限的阻礙，這引起了對其回應可靠性的擔憂。我們引入了一個混合系統，該系統使用特定領域的知識圖譜 (KG) 來擴充 LLM，從而旨在使用基於 KG 的檢索方法來增強事實正確性。我們專注於一個醫學 KG 來演示我們的 methodology，其中包括 (1) 預處理，(2) Cypher 查詢生成，(3) Cypher 查詢處理，(4) KG 檢索，以及 (5) LLM 增強的回應生成。我們在一個由 69 個樣本組成的精選數據集上評估我們的系統，在檢索正確的 KG 節點時達到了 78% 的精度。我們的研究結果表明，混合系統在準確性和完整性方面都超過了單獨的 LLM，這通過 LLM 作為評審評估方法得到驗證。這將系統定位為對應用程式來說一個有前途的工具，這些應用程式需要事實正確性和完整性，例如目標識別——在疾病治療或作物改良中精確定位生物實體的關鍵過程。此外，其直觀的搜尋介面和在數秒內提供準確回應的能力使其非常適合時間敏感、注重精確度的研究情境。我們將原始碼與數據集和使用的提示範本一起發布。
+
+##### **Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**
+2408.02907v1 by Tiezheng Guo, Chen Wang, Yanyi Liu, Jiawei Tang, Pan Li, Sai Xu, Qingwen Yang, Xianlin Gao, Zhi Li, Yingyou Wen
+
+Retrieving external knowledge and prompting large language models with
+relevant information is an effective paradigm to enhance the performance of
+question-answering tasks. Previous research typically handles paragraphs from
+external documents in isolation, resulting in a lack of context and ambiguous
+references, particularly in multi-document and complex tasks. To overcome these
+challenges, we propose a new retrieval framework IIER, that leverages
+Inter-chunk Interactions to Enhance Retrieval. This framework captures the
+internal connections between document chunks by considering three types of
+interactions: structural, keyword, and semantic. We then construct a unified
+Chunk-Interaction Graph to represent all external documents comprehensively.
+Additionally, we design a graph-based evidence chain retriever that utilizes
+previous paths and chunk interactions to guide the retrieval process. It
+identifies multiple seed nodes based on the target question and iteratively
+searches for relevant chunks to gather supporting evidence. This retrieval
+process refines the context and reasoning chain, aiding the large language
+model in reasoning and answer generation. Extensive experiments demonstrate
+that IIER outperforms strong baselines across four datasets, highlighting its
+effectiveness in improving retrieval and reasoning capabilities.
+
+摘要：取得外部知識並提示大型語言模型提供相關資訊，是提升問答任務效能的有效典範。先前的研究通常孤立地處理外部文件中的段落，導致缺乏脈絡和模稜兩可的參考，特別是在多文件和複雜的任務中。為了克服這些挑戰，我們提出一個新的檢索架構 IIER，利用區塊間互動來增強檢索。這個架構透過考量三種類型的互動來擷取文件區塊之間的內部連結：結構、關鍵字和語意。然後，我們建構一個統一的區塊互動圖，以全面表示所有外部文件。此外，我們設計一個基於圖形的證據鏈檢索器，利用先前的路徑和區塊互動來引導檢索程序。它根據目標問題識別多個種子節點，並反覆搜尋相關區塊以收集佐證證據。這個檢索程序精煉了脈絡和推理鏈，協助大型語言模型進行推理和答案產生。廣泛的實驗證明，IIER 在四個資料集上優於強大的基準，突顯其在改善檢索和推理能力方面的效能。
+
 ##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
 2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
 
@@ -2392,72 +2467,4 @@ best completion ratio of 35.26%. All framework code, agent code, and task
 datasets are publicly available at https://github.com/camel-ai/crab.
 
 摘要：自主代理的開發越來越依賴多模態語言模型 (MLM)，以在具有 GUI 環境（例如網站、桌上型電腦或手機）的自然語言中執行任務。現有的互動環境中 MLM 代理的基準受到以下限制：它們專注於單一環境、缺乏詳細且通用的評估方法，以及建構任務和評估器的複雜性。為了克服這些限制，我們引入了 Crab，這是第一個代理基準架構，旨在支援跨環境任務，並結合了基於圖形的細粒度評估方法和任務與評估器建構的有效機制。我們的架構支援多種裝置，並且可以輕鬆地擴充到任何具有 Python 介面的環境。利用 Crab，我們開發了一個跨平台的 Crab Benchmark-v0，其中包含電腦桌上型電腦和手機環境中的 100 個任務。我們使用不同的單一和多代理系統配置，在這個基準上評估了四種先進的 MLM。實驗結果表明，具有 GPT-4o 的單一代理實現了 35.26% 的最佳完成率。所有架構程式碼、代理程式碼和任務資料集都公開於 https://github.com/camel-ai/crab。
-
-##### **Dynamic Few-Shot Learning for Knowledge Graph Question Answering**
-2407.01409v1 by Jacopo D'Abramo, Andrea Zugarini, Paolo Torroni
-
-Large language models present opportunities for innovative Question Answering
-over Knowledge Graphs (KGQA). However, they are not inherently designed for
-query generation. To bridge this gap, solutions have been proposed that rely on
-fine-tuning or ad-hoc architectures, achieving good results but limited
-out-of-domain distribution generalization. In this study, we introduce a novel
-approach called Dynamic Few-Shot Learning (DFSL). DFSL integrates the
-efficiency of in-context learning and semantic similarity and provides a
-generally applicable solution for KGQA with state-of-the-art performance. We
-run an extensive evaluation across multiple benchmark datasets and architecture
-configurations.
-
-摘要：大型語言模型為知識圖譜（KGQA）的創新問答提供了機會。然而，它們並非天生就設計用於查詢生成。為了彌補這一差距，已提出依賴於微調或特定架構的解決方案，取得了良好的結果，但域外分佈泛化能力有限。在本研究中，我們引入了一種稱為動態小樣本學習（DFSL）的新方法。DFSL 集成了語境學習和語義相似性的效率，並為 KGQA 提供了一個普遍適用的解決方案，具有最先進的性能。我們對多個基準資料集和架構配置進行了廣泛的評估。
-
-##### **Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**
-2407.01406v2 by Daniil Gurgurov, Mareike Hartmann, Simon Ostermann
-
-This paper explores the integration of graph knowledge from linguistic
-ontologies into multilingual Large Language Models (LLMs) using adapters to
-improve performance for low-resource languages (LRLs) in sentiment analysis
-(SA) and named entity recognition (NER). Building upon successful
-parameter-efficient fine-tuning techniques, such as K-ADAPTER and MAD-X, we
-propose a similar approach for incorporating knowledge from multilingual
-graphs, connecting concepts in various languages with each other through
-linguistic relationships, into multilingual LLMs for LRLs. Specifically, we
-focus on eight LRLs -- Maltese, Bulgarian, Indonesian, Nepali, Javanese,
-Uyghur, Tibetan, and Sinhala -- and employ language-specific adapters
-fine-tuned on data extracted from the language-specific section of ConceptNet,
-aiming to enable knowledge transfer across the languages covered by the
-knowledge graph. We compare various fine-tuning objectives, including standard
-Masked Language Modeling (MLM), MLM with full-word masking, and MLM with
-targeted masking, to analyse their effectiveness in learning and integrating
-the extracted graph data. Through empirical evaluation on language-specific
-tasks, we assess how structured graph knowledge affects the performance of
-multilingual LLMs for LRLs in SA and NER, providing insights into the potential
-benefits of adapting language models for low-resource scenarios.
-
-摘要：這篇論文探討了使用適配器將來自語言學本體的圖形知識整合到多語言大型語言模型 (LLM) 中，以提升低資源語言 (LRL) 在情緒分析 (SA) 和命名實體識別 (NER) 中的效能。我們建立在成功的參數有效微調技術上，例如 K-ADAPTER 和 MAD-X，我們提出了一個類似的做法，將來自多語言圖形、透過語言關係將各種語言中的概念相互連接的知識，納入 LRL 的多語言 LLM 中。具體來說，我們專注於八種 LRL——馬爾他語、保加利亞語、印尼語、尼泊爾語、爪哇語、維吾爾語、藏語和僧伽羅語——並使用在從 ConceptNet 的語言特定部分中提取的資料上微調的語言特定適配器，旨在讓知識轉移到知識圖形涵蓋的語言中。我們比較了各種微調目標，包括標準的遮罩語言模型 (MLM)、具有全詞遮罩的 MLM，以及具有目標遮罩的 MLM，以分析它們在學習和整合提取的圖形資料中的有效性。透過對語言特定任務的實證評估，我們評估結構化圖形知識如何影響多語言 LLM 在 LRL 中的 SA 和 NER 效能，並深入了解為低資源場景調整語言模型的潛在好處。
-
-##### **SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model**
-2407.01245v2 by Lingyue Fu, Hao Guan, Kounianhua Du, Jianghao Lin, Wei Xia, Weinan Zhang, Ruiming Tang, Yasheng Wang, Yong Yu
-
-Knowledge Tracing (KT) aims to determine whether students will respond
-correctly to the next question, which is a crucial task in intelligent tutoring
-systems (ITS). In educational KT scenarios, transductive ID-based methods often
-face severe data sparsity and cold start problems, where interactions between
-individual students and questions are sparse, and new questions and concepts
-consistently arrive in the database. In addition, existing KT models only
-implicitly consider the correlation between concepts and questions, lacking
-direct modeling of the more complex relationships in the heterogeneous graph of
-concepts and questions. In this paper, we propose a Structure-aware Inductive
-Knowledge Tracing model with large language model (dubbed SINKT), which, for
-the first time, introduces large language models (LLMs) and realizes inductive
-knowledge tracing. Firstly, SINKT utilizes LLMs to introduce structural
-relationships between concepts and constructs a heterogeneous graph for
-concepts and questions. Secondly, by encoding concepts and questions with LLMs,
-SINKT incorporates semantic information to aid prediction. Finally, SINKT
-predicts the student's response to the target question by interacting with the
-student's knowledge state and the question representation. Experiments on four
-real-world datasets demonstrate that SINKT achieves state-of-the-art
-performance among 12 existing transductive KT models. Additionally, we explore
-the performance of SINKT on the inductive KT task and provide insights into
-various modules.
-
-摘要：知識追蹤 (KT) 的目的是確定學生是否能正確回答下一個問題，這在智慧型教學系統 (ITS) 中是一項至關重要的任務。在教育 KT 場景中，基於 ID 的轉導方法經常面臨嚴重的資料稀疏性和冷啟動問題，其中個別學生和問題之間的互動很稀疏，而且新的問題和概念會持續出現在資料庫中。此外，現有的 KT 模型只會隱含地考慮概念和問題之間的關聯性，缺乏對概念和問題異質圖中更複雜關係的直接建模。在本文中，我們提出了一個具有大型語言模型的結構感知歸納知識追蹤模型（稱為 SINKT），它首次引入了大型語言模型（LLM），並實現了歸納知識追蹤。首先，SINKT 利用 LLM 引入概念之間的結構關係，並為概念和問題構建了一個異質圖。其次，透過使用 LLM 編碼概念和問題，SINKT 結合了語義資訊，以協助預測。最後，SINKT 透過與學生的知識狀態和問題表徵進行互動，預測學生對目標問題的回應。在四個真實世界資料集上的實驗表明，SINKT 在 12 個現有的轉導 KT 模型中取得了最先進的效能。此外，我們探討了 SINKT 在歸納 KT 任務上的效能，並提供了對各種模組的見解。
 

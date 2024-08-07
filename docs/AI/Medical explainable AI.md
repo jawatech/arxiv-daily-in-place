@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
+|**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
@@ -100,10 +102,67 @@
 |**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
 |**2023-05-05**|**Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**|Goda Klumbyte et.al.|[2305.03376v1](http://arxiv.org/abs/2305.03376v1)|null|
 |**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
-|**2023-04-04**|**A Brief Review of Explainable Artificial Intelligence in Healthcare**|Zahra Sadeghi et.al.|[2304.01543v1](http://arxiv.org/abs/2304.01543v1)|null|
-|**2023-03-22**|**Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**|Frederik Pahde et.al.|[2303.12641v2](http://arxiv.org/abs/2303.12641v2)|[link](https://github.com/maxdreyer/reveal2revise)|
 
 #### Abstracts
+##### **Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**
+2408.02709v1 by Chi Him Ng
+
+This study analyzes hybrid AI systems' design patterns and their
+effectiveness in clinical decision-making using the boxology framework. It
+categorizes and copares various architectures combining machine learning and
+rule-based reasoning to provide insights into their structural foundations and
+healthcare applications. Addressing two main questions, how to categorize these
+systems againts established design patterns and how to extract insights through
+comparative analysis, the study uses design patterns from software engineering
+to understand and optimize healthcare AI systems. Boxology helps identify
+commonalities and create reusable solutions, enhancing these systems'
+scalability, reliability, and performance. Five primary architectures are
+examined: REML, MLRB, RBML, RMLT, and PERML. Each has unique strengths and
+weaknesses, highlighting the need for tailored approaches in clinical tasks.
+REML excels in high-accuracy prediction for datasets with limited data; MLRB in
+handling large datasets and complex data integration; RBML in explainability
+and trustworthiness; RMLT in managing high-dimensional data; and PERML, though
+limited in analysis, shows promise in urgent care scenarios. The study
+introduces four new patterns, creates five abstract categorization patterns,
+and refines those five further to specific systems. These contributions enhance
+Boxlogy's taxonomical organization and offer novel approaches to integrating
+expert knowledge with machine learning. Boxology's structured, modular apporach
+offers significant advantages in developing and analyzing hybrid AI systems,
+revealing commonalities, and promoting reusable solutions. In conclusion, this
+study underscores hybrid AI systems' crucial role in advancing healthcare and
+Boxology's potential to drive further innovation in AI integration, ultimately
+improving clinical decision support and patient outcomes.
+
+摘要：本研究使用盒子學框架分析混合人工智慧系統的設計模式及其在臨床決策中的有效性。它分類並比較結合機器學習和基於規則的推理的各種架構，以深入了解其結構基礎和醫療保健應用。針對兩個主要問題，如何根據既定的設計模式對這些系統進行分類，以及如何通過比較分析提取見解，本研究使用軟體工程中的設計模式來了解和優化醫療保健人工智慧系統。盒子學有助於識別共性並建立可重複使用的解決方案，從而增強這些系統的可擴充性、可靠性和效能。檢查了五種主要的架構：REML、MLRB、RBML、RMLT 和 PERML。每種架構都有獨特的優缺點，強調了在臨床任務中需要量身打造的方法。REML 在資料有限的資料集中表現出高精度的預測；MLRB 在處理大型資料集和複雜資料整合方面表現出色；RBML 在可解釋性和可信度方面表現出色；RMLT 在管理高維資料方面表現出色；而 PERML 儘管在分析方面有限，但在緊急照護場景中表現出潛力。本研究引入了四種新模式，建立了五種抽象分類模式，並進一步將這五種模式細化為具體的系統。這些貢獻增強了盒子學的分類組織，並提供了將專家知識與機器學習整合的新方法。盒子學的結構化、模組化方法在開發和分析混合人工智慧系統、揭示共性以及推廣可重複使用的解決方案方面具有顯著優勢。總之，本研究強調了混合人工智慧系統在推進醫療保健中的關鍵作用，以及盒子學在推動人工智慧整合進一步創新方面的潛力，最終改善臨床決策支援和患者的治療成果。
+
+##### **Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**
+2408.02706v1 by Masoud Muhammed Hassan
+
+Because of its strong predictive skills, deep learning has emerged as an
+essential tool in many industries, including healthcare. Traditional deep
+learning models, on the other hand, frequently lack interpretability and omit
+to take prediction uncertainty into account two crucial components of clinical
+decision making. In order to produce explainable and uncertainty aware
+predictions, this study presents a novel framework called Bayesian Kolmogorov
+Arnold Networks (BKANs), which combines the expressive capacity of Kolmogorov
+Arnold Networks with Bayesian inference. We employ BKANs on two medical
+datasets, which are widely used benchmarks for assessing machine learning
+models in medical diagnostics: the Pima Indians Diabetes dataset and the
+Cleveland Heart Disease dataset. Our method provides useful insights into
+prediction confidence and decision boundaries and outperforms traditional deep
+learning models in terms of prediction accuracy. Moreover, BKANs' capacity to
+represent aleatoric and epistemic uncertainty guarantees doctors receive more
+solid and trustworthy decision support. Our Bayesian strategy improves the
+interpretability of the model and considerably minimises overfitting, which is
+important for tiny and imbalanced medical datasets, according to experimental
+results. We present possible expansions to further use BKANs in more
+complicated multimodal datasets and address the significance of these
+discoveries for future research in building reliable AI systems for healthcare.
+This work paves the way for a new paradigm in deep learning model deployment in
+vital sectors where transparency and reliability are crucial.
+
+摘要：由於其強大的預測能力，深度學習已成為許多產業中不可或缺的工具，包括醫療保健。然而，傳統的深度學習模型通常缺乏可解釋性，並且忽略了將預測不確定性納入考量，而這兩個因素是臨床決策制定的關鍵組成部分。為了產生可解釋且具有不確定性意識的預測，本研究提出了一個名為貝氏柯爾莫哥洛夫阿諾德網路 (BKAN) 的新架構，它結合了柯爾莫哥洛夫阿諾德網路的表達能力與貝氏推論。我們在兩個醫學資料集上使用 BKAN，這些資料集是評估機器學習模型在醫學診斷中的廣泛使用基準：皮馬印第安人糖尿病資料集和克里夫蘭心臟病資料集。我們的模型提供了對預測信心和決策邊界的有益見解，並且在預測準確度方面優於傳統的深度學習模型。此外，BKAN 表現隨機和認識不確定性的能力，可確保醫生獲得更可靠且值得信賴的決策支援。根據實驗結果，我們的貝氏策略提高了模型的可解釋性，並大幅減少了過度擬合，這對於小型且不平衡的醫學資料集非常重要。我們提出了可能的擴充功能，以進一步將 BKAN 用於更複雜的多模式資料集，並探討這些發現對於未來建立可靠的醫療保健 AI 系統研究的重要性。這項工作為深度學習模型部署在透明度和可靠性至關重要的重要領域中開啟了一個新的典範。
+
 ##### **MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**
 2407.20284v1 by Shyam Dongre, Ritesh Chandra, Sonali Agarwal
 
@@ -2525,55 +2584,4 @@ evaluation metrics and practical considerations for VMHAs beyond the current
 literature to build trust between VMHAs and patients in active communications.
 
 摘要：虛擬心理健康助理 (VMHA) 持續進步，以支援每年有 6000 萬人次初級保健就診和 600 萬人次急診室 (ER) 就診的超負荷全球醫療保健系統。這些系統是由臨床心理學家、精神科醫師和人工智慧 (AI) 研究人員為認知行為療法 (CBT) 所建構。目前，VMHA 的角色是透過資訊提供情緒支持，較少著重於與患者發展反思性的對話。需要更全面、安全且可解釋的方法來建構負責任的 VMHA，以提出後續問題或提供充分的回應。這項調查提供了對心理健康中現有對話代理的系統性批判性回顧，接著深入探討了 VMHA 在脈絡知識、資料集和其在臨床決策支援中新興角色的改進。我們也提供了新的方向，以透過可解釋性、安全性與整體可信度來豐富 VMHA 的使用者體驗。最後，我們提供了評量指標和 VMHA 的實務考量，超越目前的文獻，在 VMHA 與患者的積極溝通中建立信任。
-
-##### **A Brief Review of Explainable Artificial Intelligence in Healthcare**
-2304.01543v1 by Zahra Sadeghi, Roohallah Alizadehsani, Mehmet Akif Cifci, Samina Kausar, Rizwan Rehman, Priyakshi Mahanta, Pranjal Kumar Bora, Ammar Almasri, Rami S. Alkhawaldeh, Sadiq Hussain, Bilal Alatas, Afshin Shoeibi, Hossein Moosaei, Milan Hladik, Saeid Nahavandi, Panos M. Pardalos
-
-XAI refers to the techniques and methods for building AI applications which
-assist end users to interpret output and predictions of AI models. Black box AI
-applications in high-stakes decision-making situations, such as medical domain
-have increased the demand for transparency and explainability since wrong
-predictions may have severe consequences. Model explainability and
-interpretability are vital successful deployment of AI models in healthcare
-practices. AI applications' underlying reasoning needs to be transparent to
-clinicians in order to gain their trust. This paper presents a systematic
-review of XAI aspects and challenges in the healthcare domain. The primary
-goals of this study are to review various XAI methods, their challenges, and
-related machine learning models in healthcare. The methods are discussed under
-six categories: Features-oriented methods, global methods, concept models,
-surrogate models, local pixel-based methods, and human-centric methods. Most
-importantly, the paper explores XAI role in healthcare problems to clarify its
-necessity in safety-critical applications. The paper intends to establish a
-comprehensive understanding of XAI-related applications in the healthcare field
-by reviewing the related experimental results. To facilitate future research
-for filling research gaps, the importance of XAI models from different
-viewpoints and their limitations are investigated.
-
-摘要：XAI 指的是用於建構 AI 應用程式的技術和方法，這些應用程式可協助最終使用者詮釋 AI 模型的輸出和預測。在高風險決策情境中，例如醫療領域，黑箱 AI 應用程式增加了透明度和可解釋性的需求，因為錯誤的預測可能會造成嚴重的後果。模型可解釋性和可詮釋性對於在醫療實務中成功部署 AI 模型至關重要。AI 應用程式的基本推理需要對臨床醫生透明，才能獲得他們的信任。本文提供了醫療領域中 XAI 面向和挑戰的系統性回顧。本研究的主要目標是回顧各種 XAI 方法、其挑戰，以及相關的醫療保健機器學習模型。這些方法分為六類討論：面向特徵的方法、整體方法、概念模型、代理模型、局部基於像素的方法，以及以人為中心的方法。最重要的是，本文探討了 XAI 在醫療保健問題中的角色，以釐清其在安全關鍵應用中的必要性。本文旨在透過回顧相關的實驗結果，建立對醫療保健領域中 XAI 相關應用程式的全面了解。為了促進未來研究填補研究差距，本文探討了 XAI 模型從不同觀點來看的重要性及其限制。
-
-##### **Reveal to Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models**
-2303.12641v2 by Frederik Pahde, Maximilian Dreyer, Wojciech Samek, Sebastian Lapuschkin
-
-State-of-the-art machine learning models often learn spurious correlations
-embedded in the training data. This poses risks when deploying these models for
-high-stake decision-making, such as in medical applications like skin cancer
-detection. To tackle this problem, we propose Reveal to Revise (R2R), a
-framework entailing the entire eXplainable Artificial Intelligence (XAI) life
-cycle, enabling practitioners to iteratively identify, mitigate, and
-(re-)evaluate spurious model behavior with a minimal amount of human
-interaction. In the first step (1), R2R reveals model weaknesses by finding
-outliers in attributions or through inspection of latent concepts learned by
-the model. Secondly (2), the responsible artifacts are detected and spatially
-localized in the input data, which is then leveraged to (3) revise the model
-behavior. Concretely, we apply the methods of RRR, CDEP and ClArC for model
-correction, and (4) (re-)evaluate the model's performance and remaining
-sensitivity towards the artifact. Using two medical benchmark datasets for
-Melanoma detection and bone age estimation, we apply our R2R framework to VGG,
-ResNet and EfficientNet architectures and thereby reveal and correct real
-dataset-intrinsic artifacts, as well as synthetic variants in a controlled
-setting. Completing the XAI life cycle, we demonstrate multiple R2R iterations
-to mitigate different biases. Code is available on
-https://github.com/maxdreyer/Reveal2Revise.
-
-摘要：最先进的机器学习模型通常会学习训练数据中嵌入的虚假关联。这在将这些模型部署于高风险决策时会带来风险，例如在皮肤癌检测等医学应用中。为了解决这个问题，我们提出了 Reveal to Revise (R2R)，一个涵盖整个可解释人工智能 (XAI) 生命周期的框架，使从业者能够以最少的人工交互迭代识别、缓解和（重新）评估虚假模型行为。在第一步 (1) 中，R2R 通过找出归因中的异常值或通过检查模型学习的潜在概念来揭示模型的弱点。其次 (2)，检测负责的伪像并在输入数据中进行空间定位，然后利用它来 (3) 修改模型行为。具体来说，我们应用 RRR、CDEP 和 ClArC 的方法来进行模型校正，并 (4)（重新）评估模型的性能和对伪像的剩余敏感性。使用两个用于黑色素瘤检测和骨龄估计的医学基准数据集，我们将我们的 R2R 框架应用于 VGG、ResNet 和 EfficientNet 架构，从而揭示和纠正了真实数据集固有的伪像，以及受控设置中的合成变体。完成 XAI 生命周期，我们演示了多个 R2R 迭代以减轻不同的偏差。代码可在 https://github.com/maxdreyer/Reveal2Revise 上找到。
 

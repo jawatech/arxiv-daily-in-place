@@ -2,6 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
+|**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
+|**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|null|
+|**2024-08-05**|**Multistain Pretraining for Slide Representation Learning in Pathology**|Guillaume Jaume et.al.|[2408.02859v1](http://arxiv.org/abs/2408.02859v1)|null|
+|**2024-08-05**|**A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**|Zheng Han et.al.|[2408.02713v1](http://arxiv.org/abs/2408.02713v1)|null|
+|**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
+|**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
@@ -28,12 +35,14 @@
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|null|
 |**2024-07-31**|**Synthetic Simplicity: Unveiling Bias in Medical Data Augmentation**|Krishan Agyakari Raja Babu et.al.|[2407.21674v1](http://arxiv.org/abs/2407.21674v1)|null|
 |**2024-07-31**|**Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**|Hermione Warr et.al.|[2407.21638v1](http://arxiv.org/abs/2407.21638v1)|null|
+|**2024-07-31**|**Optimizing Disease Prediction with Artificial Intelligence Driven Feature Selection and Attention Networks**|D. Dhinakaran et.al.|[2408.03151v1](http://arxiv.org/abs/2408.03151v1)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580v1](http://arxiv.org/abs/2407.21580v1)|null|
 |**2024-07-31**|**Expanding the Medical Decathlon dataset: segmentation of colon and colorectal cancer from computed tomography images**|I. M. Chernenkiy et.al.|[2407.21516v1](http://arxiv.org/abs/2407.21516v1)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490v1](http://arxiv.org/abs/2407.21490v1)|null|
 |**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467v1](http://arxiv.org/abs/2407.21467v1)|null|
 |**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368v1](http://arxiv.org/abs/2407.21368v1)|null|
 |**2024-07-31**|**MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework**|Adrian Celaya et.al.|[2407.21343v1](http://arxiv.org/abs/2407.21343v1)|null|
+|**2024-07-31**|**Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era**|Mohsen Amoei et.al.|[2408.02677v1](http://arxiv.org/abs/2408.02677v1)|null|
 |**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284v1](http://arxiv.org/abs/2407.21284v1)|null|
 |**2024-07-31**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|
 |**2024-07-31**|**FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations**|Rujia Shen et.al.|[2407.21275v1](http://arxiv.org/abs/2407.21275v1)|null|
@@ -93,17 +102,191 @@
 |**2024-07-23**|**Virtue Ethics For Ethically Tunable Robotic Assistants**|Rajitha Ramanayake et.al.|[2407.16361v1](http://arxiv.org/abs/2407.16361v1)|null|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
 |**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
-|**2024-07-23**|**MiranDa: Mimicking the Learning Processes of Human Doctors to Achieve Causal Inference for Medication Recommendation**|Ziheng Wang et.al.|[2408.01445v1](http://arxiv.org/abs/2408.01445v1)|null|
-|**2024-07-22**|**Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**|Nina Deliu et.al.|[2407.16062v1](http://arxiv.org/abs/2407.16062v1)|null|
-|**2024-07-22**|**GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**|Zhaojie Fang et.al.|[2407.15719v1](http://arxiv.org/abs/2407.15719v1)|[link](https://github.com/tinysqua/gfe-mamba)|
-|**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v2](http://arxiv.org/abs/2407.15526v2)|null|
-|**2024-07-22**|**A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**|Yingxue Xu et.al.|[2407.15362v2](http://arxiv.org/abs/2407.15362v2)|null|
-|**2024-07-21**|**They Look Like Each Other: Case-based Reasoning for Explainable Depression Detection on Twitter using Large Language Models**|Mohammad Saeid Mahdavinejad et.al.|[2407.21041v1](http://arxiv.org/abs/2407.21041v1)|null|
-|**2024-07-21**|**Genetic Algorithm to Optimize Design of Micro-Surgical Scissors**|Fatemeh Norouziani et.al.|[2407.15243v1](http://arxiv.org/abs/2407.15243v1)|null|
-|**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042v1](http://arxiv.org/abs/2407.15042v1)|null|
-|**2024-07-20**|**Mapping Patient Trajectories: Understanding and Visualizing Sepsis Prognostic Pathways from Patients Clinical Narratives**|Sudeshna Jana et.al.|[2407.21039v1](http://arxiv.org/abs/2407.21039v1)|null|
 
 #### Abstracts
+##### **Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**
+2408.03208v1 by Jialang Xu, Jiacheng Wang, Lequan Yu, Danail Stoyanov, Yueming Jin, Evangelos B. Mazomenos
+
+Personalized federated learning (PFL) for surgical instrument segmentation
+(SIS) is a promising approach. It enables multiple clinical sites to
+collaboratively train a series of models in privacy, with each model tailored
+to the individual distribution of each site. Existing PFL methods rarely
+consider the personalization of multi-headed self-attention, and do not account
+for appearance diversity and instrument shape similarity, both inherent in
+surgical scenes. We thus propose PFedSIS, a novel PFL method with visual trait
+priors for SIS, incorporating global-personalized disentanglement (GPD),
+appearance-regulation personalized enhancement (APE), and shape-similarity
+global enhancement (SGE), to boost SIS performance in each site. GPD represents
+the first attempt at head-wise assignment for multi-headed self-attention
+personalization. To preserve the unique appearance representation of each site
+and gradually leverage the inter-site difference, APE introduces appearance
+regulation and provides customized layer-wise aggregation solutions via
+hypernetworks for each site's personalized parameters. The mutual shape
+information of instruments is maintained and shared via SGE, which enhances the
+cross-style shape consistency on the image level and computes the
+shape-similarity contribution of each site on the prediction level for updating
+the global parameters. PFedSIS outperforms state-of-the-art methods with +1.51%
+Dice, +2.11% IoU, -2.79 ASSD, -15.55 HD95 performance gains. The corresponding
+code and models will be released at https://github.com/wzjialang/PFedSIS.
+
+摘要：<paragraph>針對手術器械分割（SIS）的個人化聯邦學習（PFL）是一種有前景的方法。它讓多個臨床地點能夠在隱私的條件下共同訓練一系列模型，每個模型都根據每個地點的個別分佈進行調整。現有的 PFL 方法很少考慮多頭自我注意力的個人化，而且沒有考慮外觀的多樣性和器械形狀的相似性，這兩者都存在於手術場景中。因此，我們提出了 PFedSIS，這是一種具有視覺特徵先驗的 SIS 的新型 PFL 方法，它結合了全局個性化解糾纏（GPD）、外觀調節個性化增強（APE）和形狀相似性全局增強（SGE），以提升每個地點的 SIS 效能。GPD 代表了針對多頭自我注意力個性化進行頭部分配的首次嘗試。為了保留每個地點的獨特外觀表示並逐漸利用地點間的差異，APE 引入了外觀調節，並透過超網路為每個地點的個性化參數提供自訂的逐層聚合解決方案。器械的相互形狀資訊透過 SGE 進行維護和共享，這增強了影像層級上的跨風格形狀一致性，並計算每個地點在預測層級上的形狀相似性貢獻，以更新全局參數。PFedSIS 在骰子系數上優於現有最先進的方法，分別提升了 +1.51%、IoU 提升了 +2.11%、ASSD 降低了 -2.79、HD95 效能提升了 -15.55。對應的程式碼和模型將在 https://github.com/wzjialang/PFedSIS 上發布。</paragraph>
+
+##### **VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**
+2408.02888v1 by Ju-Hyeon Nam, Seo-Hyung Park, Su Jung Kim, Sang-Chul Lee
+
+An electrocardiogram (ECG) captures the heart's electrical signal to assess
+various heart conditions. In practice, ECG data is stored as either digitized
+signals or printed images. Despite the emergence of numerous deep learning
+models for digitized signals, many hospitals prefer image storage due to cost
+considerations. Recognizing the unavailability of raw ECG signals in many
+clinical settings, we propose VizECGNet, which uses only printed ECG graphics
+to determine the prognosis of multiple cardiovascular diseases. During
+training, cross-modal attention modules (CMAM) are used to integrate
+information from two modalities - image and signal, while self-modality
+attention modules (SMAM) capture inherent long-range dependencies in ECG data
+of each modality. Additionally, we utilize knowledge distillation to improve
+the similarity between two distinct predictions from each modality stream. This
+innovative multi-modal deep learning architecture enables the utilization of
+only ECG images during inference. VizECGNet with image input achieves higher
+performance in precision, recall, and F1-Score compared to signal-based ECG
+classification models, with improvements of 3.50%, 8.21%, and 7.38%,
+respectively.
+
+摘要：心電圖 (ECG) 可擷取心臟的電氣訊號，用於評估各種心臟疾病。實際上，心電圖資料儲存在數位化訊號或列印影像中。儘管已出現許多針對數位化訊號的深度學習模型，但許多醫院基於成本考量，仍偏好影像儲存。鑑於許多臨床環境中缺乏原始心電圖訊號，我們提出 VizECGNet，它僅使用列印的心電圖圖形來判斷多種心血管疾病的預後。在訓練期間，跨模態注意力模組 (CMAM) 用於整合來自兩種模態（影像和訊號）的資訊，而自我模態注意力模組 (SMAM) 則擷取每個模態中心電圖資料中固有的長程依賴性。此外，我們利用知識萃取來改善每個模態串流中兩個不同預測之間的相似性。這種創新的多模態深度學習架構，可以在推論期間僅使用心電圖影像。與基於訊號的心電圖分類模型相比，輸入影像的 VizECGNet 在精準度、召回率和 F1 分數方面獲得更高的效能，分別提升了 3.50%、8.21% 和 7.38%。
+
+##### **VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**
+2408.02865v1 by Zihan Li, Diping Song, Zefeng Yang, Deming Wang, Fei Li, Xiulan Zhang, Paul E. Kinahan, Yu Qiao
+
+The need for improved diagnostic methods in ophthalmology is acute,
+especially in the less developed regions with limited access to specialists and
+advanced equipment. Therefore, we introduce VisionUnite, a novel
+vision-language foundation model for ophthalmology enhanced with clinical
+knowledge. VisionUnite has been pretrained on an extensive dataset comprising
+1.24 million image-text pairs, and further refined using our proposed MMFundus
+dataset, which includes 296,379 high-quality fundus image-text pairs and
+889,137 simulated doctor-patient dialogue instances. Our experiments indicate
+that VisionUnite outperforms existing generative foundation models such as
+GPT-4V and Gemini Pro. It also demonstrates diagnostic capabilities comparable
+to junior ophthalmologists. VisionUnite performs well in various clinical
+scenarios including open-ended multi-disease diagnosis, clinical explanation,
+and patient interaction, making it a highly versatile tool for initial
+ophthalmic disease screening. VisionUnite can also serve as an educational aid
+for junior ophthalmologists, accelerating their acquisition of knowledge
+regarding both common and rare ophthalmic conditions. VisionUnite represents a
+significant advancement in ophthalmology, with broad implications for
+diagnostics, medical education, and understanding of disease mechanisms.
+
+摘要：眼科診斷方法改良的必要性十分迫切，特別是在較不發達地區，那裡專科醫師和先進設備取得不易。因此，我們引進 VisionUnite，一種新穎的視覺語言基礎模型，並以臨床知識強化眼科。VisionUnite 已在包含 124 萬張影像文字對的大型資料集上進行預訓練，並透過我們建議的 MMFundus 資料集進一步優化，其中包含 296,379 張高品質眼底影像文字對和 889,137 個模擬的醫師病患對話實例。我們的實驗指出 VisionUnite 優於現有的生成式基礎模型，例如 GPT-4V 和 Gemini Pro。它也展現出與初階眼科醫師相當的診斷能力。VisionUnite 在各種臨床情境中表現良好，包括開放式多疾病診斷、臨床說明和病患互動，使其成為初步眼科疾病篩檢的高度多功能工具。VisionUnite 也可用作初階眼科醫師的教育輔助工具，加速他們對於常見和罕見眼科疾病知識的習得。VisionUnite 代表了眼科的重大進展，對診斷、醫學教育和疾病機轉的理解具有廣泛的影響。
+
+##### **Multistain Pretraining for Slide Representation Learning in Pathology**
+2408.02859v1 by Guillaume Jaume, Anurag Vaidya, Andrew Zhang, Andrew H. Song, Richard J. Chen, Sharifa Sahai, Dandan Mo, Emilio Madrigal, Long Phi Le, Faisal Mahmood
+
+Developing self-supervised learning (SSL) models that can learn universal and
+transferable representations of H&E gigapixel whole-slide images (WSIs) is
+becoming increasingly valuable in computational pathology. These models hold
+the potential to advance critical tasks such as few-shot classification, slide
+retrieval, and patient stratification. Existing approaches for slide
+representation learning extend the principles of SSL from small images (e.g.,
+224 x 224 patches) to entire slides, usually by aligning two different
+augmentations (or views) of the slide. Yet the resulting representation remains
+constrained by the limited clinical and biological diversity of the views.
+Instead, we postulate that slides stained with multiple markers, such as
+immunohistochemistry, can be used as different views to form a rich
+task-agnostic training signal. To this end, we introduce Madeleine, a
+multimodal pretraining strategy for slide representation learning. Madeleine is
+trained with a dual global-local cross-stain alignment objective on large
+cohorts of breast cancer samples (N=4,211 WSIs across five stains) and kidney
+transplant samples (N=12,070 WSIs across four stains). We demonstrate the
+quality of slide representations learned by Madeleine on various downstream
+evaluations, ranging from morphological and molecular classification to
+prognostic prediction, comprising 21 tasks using 7,299 WSIs from multiple
+medical centers. Code is available at https://github.com/mahmoodlab/MADELEINE.
+
+摘要：開發自監督學習 (SSL) 模型，可以學習 H&E 吉像素全切片影像 (WSI) 的通用且可轉移表示，在計算病理學中正變得越來越有價值。這些模型有潛力推進關鍵任務，例如少次分類、切片檢索和患者分層。現有的切片表示學習方法將 SSL 的原理從小影像（例如 224 x 224 補丁）延伸到整個切片，通常透過對齊切片的兩個不同擴增（或視圖）。然而，生成的表示仍受到視圖有限的臨床和生物多樣性的限制。相反，我們假設使用多種標記染色的切片，例如免疫組織化學染色，可以用作不同的視圖來形成豐富的與任務無關的訓練訊號。為此，我們介紹 Madeleine，一種用於切片表示學習的多模式預訓練策略。Madeleine 使用雙重全局-局部跨染色對齊目標在大量乳癌樣本（N=4,211 個橫跨五種染色的 WSI）和腎臟移植樣本（N=12,070 個橫跨四種染色的 WSI）上進行訓練。我們在各種下游評估中展示了 Madeleine 學習的切片表示的品質，從形態和分子分類到預後預測，包括使用來自多個醫療中心的 7,299 個 WSI 的 21 項任務。程式碼可在 https://github.com/mahmoodlab/MADELEINE 取得。
+
+##### **A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**
+2408.02713v1 by Zheng Han, Qi Dou
+
+Augmented Reality (AR) holds the potential to revolutionize surgical
+procedures by allowing surgeons to visualize critical structures within the
+patient's body. This is achieved through superimposing preoperative organ
+models onto the actual anatomy. Challenges arise from dynamic deformations of
+organs during surgery, making preoperative models inadequate for faithfully
+representing intraoperative anatomy. To enable reliable navigation in augmented
+surgery, modeling of intraoperative deformation to obtain an accurate alignment
+of the preoperative organ model with the intraoperative anatomy is
+indispensable. Despite the existence of various methods proposed to model
+intraoperative organ deformation, there are still few literature reviews that
+systematically categorize and summarize these approaches. This review aims to
+fill this gap by providing a comprehensive and technical-oriented overview of
+modeling methods for intraoperative organ deformation in augmented reality in
+surgery. Through a systematic search and screening process, 112 closely
+relevant papers were included in this review. By presenting the current status
+of organ deformation modeling methods and their clinical applications, this
+review seeks to enhance the understanding of organ deformation modeling in
+AR-guided surgery, and discuss the potential topics for future advancements.
+
+摘要：擴增實境 (AR) 具有透過讓外科醫生可視化患者體內關鍵結構來革新外科手術程序的潛力。這是透過將術前器官模型疊加到實際解剖結構上來實現的。手術過程中器官的動態變形帶來了挑戰，這使得術前模型不足以忠實地呈現術中解剖結構。為了在擴增手術中實現可靠的導航，對術中變形進行建模以獲得術前器官模型與術中解剖結構的準確對齊是不可或缺的。儘管存在各種用於建模術中器官變形的方法，但系統地對這些方法進行分類和總結的文獻回顧仍然很少。本綜述旨在通過提供對擴增實境手術中術中器官變形的建模方法的全面且技術導向的概述來填補這一空白。通過系統的搜尋和篩選過程，本綜述納入了 112 篇密切相關的論文。通過呈現器官變形建模方法的現狀及其臨床應用，本綜述旨在加深對 AR 引導手術中器官變形建模的理解，並探討未來進展的潛在主題。
+
+##### **Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**
+2408.02709v1 by Chi Him Ng
+
+This study analyzes hybrid AI systems' design patterns and their
+effectiveness in clinical decision-making using the boxology framework. It
+categorizes and copares various architectures combining machine learning and
+rule-based reasoning to provide insights into their structural foundations and
+healthcare applications. Addressing two main questions, how to categorize these
+systems againts established design patterns and how to extract insights through
+comparative analysis, the study uses design patterns from software engineering
+to understand and optimize healthcare AI systems. Boxology helps identify
+commonalities and create reusable solutions, enhancing these systems'
+scalability, reliability, and performance. Five primary architectures are
+examined: REML, MLRB, RBML, RMLT, and PERML. Each has unique strengths and
+weaknesses, highlighting the need for tailored approaches in clinical tasks.
+REML excels in high-accuracy prediction for datasets with limited data; MLRB in
+handling large datasets and complex data integration; RBML in explainability
+and trustworthiness; RMLT in managing high-dimensional data; and PERML, though
+limited in analysis, shows promise in urgent care scenarios. The study
+introduces four new patterns, creates five abstract categorization patterns,
+and refines those five further to specific systems. These contributions enhance
+Boxlogy's taxonomical organization and offer novel approaches to integrating
+expert knowledge with machine learning. Boxology's structured, modular apporach
+offers significant advantages in developing and analyzing hybrid AI systems,
+revealing commonalities, and promoting reusable solutions. In conclusion, this
+study underscores hybrid AI systems' crucial role in advancing healthcare and
+Boxology's potential to drive further innovation in AI integration, ultimately
+improving clinical decision support and patient outcomes.
+
+摘要：本研究使用盒子學框架分析混合人工智慧系統的設計模式及其在臨床決策中的有效性。它分類並比較結合機器學習和基於規則的推理的各種架構，以深入了解其結構基礎和醫療保健應用。針對兩個主要問題，如何根據既定的設計模式對這些系統進行分類，以及如何通過比較分析提取見解，本研究使用軟體工程中的設計模式來了解和優化醫療保健人工智慧系統。盒子學有助於識別共性並建立可重複使用的解決方案，從而增強這些系統的可擴充性、可靠性和效能。檢查了五種主要的架構：REML、MLRB、RBML、RMLT 和 PERML。每種架構都有獨特的優缺點，強調了在臨床任務中需要量身打造的方法。REML 在資料有限的資料集中表現出高精度的預測；MLRB 在處理大型資料集和複雜資料整合方面表現出色；RBML 在可解釋性和可信度方面表現出色；RMLT 在管理高維資料方面表現出色；而 PERML 儘管在分析方面有限，但在緊急照護場景中表現出潛力。本研究引入了四種新模式，建立了五種抽象分類模式，並進一步將這五種模式細化為具體的系統。這些貢獻增強了盒子學的分類組織，並提供了將專家知識與機器學習整合的新方法。盒子學的結構化、模組化方法在開發和分析混合人工智慧系統、揭示共性以及推廣可重複使用的解決方案方面具有顯著優勢。總之，本研究強調了混合人工智慧系統在推進醫療保健中的關鍵作用，以及盒子學在推動人工智慧整合進一步創新方面的潛力，最終改善臨床決策支援和患者的治療成果。
+
+##### **Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**
+2408.02706v1 by Masoud Muhammed Hassan
+
+Because of its strong predictive skills, deep learning has emerged as an
+essential tool in many industries, including healthcare. Traditional deep
+learning models, on the other hand, frequently lack interpretability and omit
+to take prediction uncertainty into account two crucial components of clinical
+decision making. In order to produce explainable and uncertainty aware
+predictions, this study presents a novel framework called Bayesian Kolmogorov
+Arnold Networks (BKANs), which combines the expressive capacity of Kolmogorov
+Arnold Networks with Bayesian inference. We employ BKANs on two medical
+datasets, which are widely used benchmarks for assessing machine learning
+models in medical diagnostics: the Pima Indians Diabetes dataset and the
+Cleveland Heart Disease dataset. Our method provides useful insights into
+prediction confidence and decision boundaries and outperforms traditional deep
+learning models in terms of prediction accuracy. Moreover, BKANs' capacity to
+represent aleatoric and epistemic uncertainty guarantees doctors receive more
+solid and trustworthy decision support. Our Bayesian strategy improves the
+interpretability of the model and considerably minimises overfitting, which is
+important for tiny and imbalanced medical datasets, according to experimental
+results. We present possible expansions to further use BKANs in more
+complicated multimodal datasets and address the significance of these
+discoveries for future research in building reliable AI systems for healthcare.
+This work paves the way for a new paradigm in deep learning model deployment in
+vital sectors where transparency and reliability are crucial.
+
+摘要：由於其強大的預測能力，深度學習已成為許多產業中不可或缺的工具，包括醫療保健。然而，傳統的深度學習模型通常缺乏可解釋性，並且忽略了將預測不確定性納入考量，而這兩個因素是臨床決策制定的關鍵組成部分。為了產生可解釋且具有不確定性意識的預測，本研究提出了一個名為貝氏柯爾莫哥洛夫阿諾德網路 (BKAN) 的新架構，它結合了柯爾莫哥洛夫阿諾德網路的表達能力與貝氏推論。我們在兩個醫學資料集上使用 BKAN，這些資料集是評估機器學習模型在醫學診斷中的廣泛使用基準：皮馬印第安人糖尿病資料集和克里夫蘭心臟病資料集。我們的模型提供了對預測信心和決策邊界的有益見解，並且在預測準確度方面優於傳統的深度學習模型。此外，BKAN 表現隨機和認識不確定性的能力，可確保醫生獲得更可靠且值得信賴的決策支援。根據實驗結果，我們的貝氏策略提高了模型的可解釋性，並大幅減少了過度擬合，這對於小型且不平衡的醫學資料集非常重要。我們提出了可能的擴充功能，以進一步將 BKAN 用於更複雜的多模式資料集，並探討這些發現對於未來建立可靠的醫療保健 AI 系統研究的重要性。這項工作為深度學習模型部署在透明度和可靠性至關重要的重要領域中開啟了一個新的典範。
+
 ##### **Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**
 2408.02349v1 by Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
 
@@ -729,6 +912,36 @@ confidence of the AC labels further improves the audit's effectiveness.
 
 摘要：醫療影像判讀的自動化可以減輕診斷工作流程中的瓶頸，並且由於自然語言處理的進步，在近年來特別受到重視。在透過 AI 自動生成放射線報告方面已經取得了長足的進展，然而確保生成報告的臨床準確性是一項重大的挑戰，阻礙了此類方法在臨床實務中的部署。在這項工作中，我們提出了一個品質控制架構，用於評估 AI 生成的放射線報告的可靠性，並使用模組化輔助稽核元件 (AC) 針對診斷重要性的語義進行評估。在 MIMIC-CXR 資料集上評估我們的管道，我們的發現顯示，以疾病分類器的形式納入 AC 可以啟用稽核，以識別更可靠的報告，與未經篩選的生成報告相比，會產生更高的 F1 分數。此外，進一步利用 AC 標籤的信心可以提高稽核的有效性。
 
+##### **Optimizing Disease Prediction with Artificial Intelligence Driven Feature Selection and Attention Networks**
+2408.03151v1 by D. Dhinakaran, S. Edwin Raja, M. Thiyagarajan, J. Jeno Jasmine, P. Raghavan
+
+The rapid integration of machine learning methodologies in healthcare has
+ignited innovative strategies for disease prediction, particularly with the
+vast repositories of Electronic Health Records (EHR) data. This article delves
+into the realm of multi-disease prediction, presenting a comprehensive study
+that introduces a pioneering ensemble feature selection model. This model,
+designed to optimize learning systems, combines statistical, deep, and
+optimally selected features through the innovative Stabilized Energy Valley
+Optimization with Enhanced Bounds (SEV-EB) algorithm. The objective is to
+achieve unparalleled accuracy and stability in predicting various disorders.
+This work proposes an advanced ensemble model that synergistically integrates
+statistical, deep, and optimally selected features. This combination aims to
+enhance the predictive power of the model by capturing diverse aspects of the
+health data. At the heart of the proposed model lies the SEV-EB algorithm, a
+novel approach to optimal feature selection. The algorithm introduces enhanced
+bounds and stabilization techniques, contributing to the robustness and
+accuracy of the overall prediction model. To further elevate the predictive
+capabilities, an HSC-AttentionNet is introduced. This network architecture
+combines deep temporal convolution capabilities with LSTM, allowing the model
+to capture both short-term patterns and long-term dependencies in health data.
+Rigorous evaluations showcase the remarkable performance of the proposed model.
+Achieving a 95% accuracy and 94% F1-score in predicting various disorders, the
+model surpasses traditional methods, signifying a significant advancement in
+disease prediction accuracy. The implications of this research extend beyond
+the confines of academia.
+
+摘要：<paragraph>機器學習方法在醫療保健領域的快速整合，點燃了疾病預測的創新策略，特別是電子健康記錄 (EHR) 資料的龐大儲存庫。本文深入探討多疾病預測的領域，提出了一項全面的研究，介紹了一個開創性的集成特徵選擇模型。這個模型旨在優化學習系統，結合統計、深度和最佳選擇的特徵，透過創新的穩定能量谷優化與增強邊界 (SEV-EB) 演算法。目標是在預測各種疾病時達到無與倫比的準確性和穩定性。這項研究提出了一個先進的集成模型，協同整合統計、深度和最佳選擇的特徵。這種組合旨在透過擷取健康資料的不同面向，來增強模型的預測能力。所提出的模型核心在於 SEV-EB 演算法，一種最佳特徵選擇的新方法。該演算法引入了增強的邊界和穩定技術，有助於整體預測模型的穩健性和準確性。為了進一步提升預測能力，引入了 HSC-AttentionNet。這個網路架構結合了深度時間卷積功能與 LSTM，使模型能夠擷取健康資料中的短期模式和長期依賴性。嚴謹的評估展示了所提出模型的卓越效能。在預測各種疾病時達到 95% 的準確度和 94% 的 F1 分數，該模型超越了傳統方法，標誌著疾病預測準確性的重大進展。這項研究的意義超越了學術界。</paragraph>
+
 ##### **Voxel Scene Graph for Intracranial Hemorrhage**
 2407.21580v1 by Antoine P. Sanner, Nils F. Grauhan, Marc A. Brockmann, Ahmed E. Othman, Anirban Mukhopadhyay
 
@@ -872,6 +1085,26 @@ scalability across multiple GPUs, showcasing its potential as a powerful tool
 for future medical imaging research and development.
 
 摘要：醫學影像分割是一個高度活躍的研究領域，深度學習方法在多個基準測試中取得了最先進的成果。然而，缺乏標準化的訓練、測試和評估新方法的工具，使得方法的比較變得困難。為了解決這個問題，我們引入了醫學影像分割工具包 (MIST)，一個簡單、模組化和端對端的醫學影像分割框架，旨在促進基於深度學習的醫學影像分割方法的一致訓練、測試和評估。MIST 標準化了數據分析、預處理和評估管道，容納多種架構和損失函數。這種標準化確保了不同方法之間可重現且公平的比較。我們詳細說明了 MIST 的數據格式要求、管道和輔助功能，並使用 BraTS 成人神經膠質瘤治療後挑戰數據集展示了它的功效。我們的結果突顯了 MIST 產生準確分割遮罩的能力以及它跨多個 GPU 的可擴展性，展示了它作為未來醫學影像研究和開發的有力工具的潛力。
+
+##### **Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era**
+2408.02677v1 by Mohsen Amoei, Dan Poenaru
+
+This study proposes a novel, integrative framework for patient-centered data
+science in the digital health era. We developed a multidimensional model that
+combines traditional clinical data with patient-reported outcomes, social
+determinants of health, and multi-omic data to create comprehensive digital
+patient representations. Our framework employs a multi-agent artificial
+intelligence approach, utilizing various machine learning techniques including
+large language models, to analyze complex, longitudinal datasets. The model
+aims to optimize multiple patient outcomes simultaneously while addressing
+biases and ensuring generalizability. We demonstrate how this framework can be
+implemented to create a learning healthcare system that continuously refines
+strategies for optimal patient care. This approach has the potential to
+significantly improve the translation of digital health innovations into
+real-world clinical benefits, addressing current limitations in AI-driven
+healthcare models.
+
+摘要：本研究提出了一個創新的、整合性的架構，用於數位健康時代的以患者為中心的資料科學。我們開發了一個多面向模型，結合傳統的臨床資料、患者回報的結果、健康的社會決定因素和多組學資料，以建立全面的數位患者表徵。我們的架構採用多主體人工智慧方法，利用各種機器學習技術，包括大型語言模型，來分析複雜的縱向資料集。該模型旨在同時最佳化多個患者結果，同時解決偏差並確保可概化性。我們展示了如何實作此架構，以建立一個持續優化最佳患者照護策略的學習型醫療保健系統。此方法有可能顯著改善數位健康創新的轉譯，使其成為真實世界的臨床效益，解決 AI 驅動的醫療保健模型中的當前限制。
 
 ##### **Robust Box Prompt based SAM for Medical Image Segmentation**
 2407.21284v1 by Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong, Dong Ni
@@ -2371,250 +2604,4 @@ accuracy and stability, and can provide an effective reference for later safe
 medication guidance.
 
 摘要：在临床治疗中，识别药物潜在的不良反应可以帮助医生做出用药决策。针对以往研究中特征高维且稀疏、需要为每种药物不良反应构建独立的预测模型、预测准确率低等问题，本文提出了一种基于知识图谱嵌入和深度学习的不良药物反应预测模型，可以预测实验结果。覆盖不良药物反应的统一预测。知识图谱嵌入技术可以融合药物之间的关联信息，缓解特征矩阵中高维稀疏的不足，深度学习高效的训练能力可以提升模型的预测准确率。本文基于药物特征数据构建不良药物反应知识图谱；通过分析知识图谱在不同嵌入策略下的嵌入效果，选取最优的嵌入策略得到样本向量；然后构建卷积神经网络模型预测不良反应。结果表明，在DistMult嵌入模型和400维度的嵌入策略下，卷积神经网络模型的预测效果最佳；重复实验的平均准确率、F_1值、召回率和曲线下面积均优于文献报道的方法。所获得的预测模型具有良好的预测准确率和稳定性，可以为后期的安全用药指导提供有效的参考。
-
-##### **MiranDa: Mimicking the Learning Processes of Human Doctors to Achieve Causal Inference for Medication Recommendation**
-2408.01445v1 by Ziheng Wang, Xinhe Li, Haruki Momma, Ryoichi Nagatomi
-
-To enhance therapeutic outcomes from a pharmacological perspective, we
-propose MiranDa, designed for medication recommendation, which is the first
-actionable model capable of providing the estimated length of stay in hospitals
-(ELOS) as counterfactual outcomes that guide clinical practice and model
-training. In detail, MiranDa emulates the educational trajectory of doctors
-through two gradient-scaling phases shifted by ELOS: an Evidence-based Training
-Phase that utilizes supervised learning and a Therapeutic Optimization Phase
-grounds in reinforcement learning within the gradient space, explores optimal
-medications by perturbations from ELOS. Evaluation of the Medical Information
-Mart for Intensive Care III dataset and IV dataset, showcased the superior
-results of our model across five metrics, particularly in reducing the ELOS.
-Surprisingly, our model provides structural attributes of medication
-combinations proved in hyperbolic space and advocated "procedure-specific"
-medication combinations. These findings posit that MiranDa enhanced medication
-efficacy. Notably, our paradigm can be applied to nearly all medical tasks and
-those with information to evaluate predicted outcomes. The source code of the
-MiranDa model is available at https://github.com/azusakou/MiranDa.
-
-摘要：為了從藥理學的角度增強治療結果，我們提出了 MiranDa，設計用於藥物推薦，這是第一個可行的模型，能夠提供醫院的預計住院時間 (ELOS) 作為反事實結果，指導臨床實務和模型訓練。詳細來說，MiranDa 模擬醫生的教育軌跡，透過兩個由 ELOS 轉移的梯度縮放階段：一個利用監督式學習的證據基礎訓練階段，以及一個在梯度空間內以強化學習為基礎的治療最佳化階段，探索 ELOS 的擾動以找出最佳藥物。對重症照護 III 資料集和 IV 資料集的醫療資訊市場評估，展示了我們的模型在五項指標中的優異結果，特別是在縮短 ELOS 方面。令人驚訝的是，我們的模型提供了在雙曲空間中證明過的藥物組合結構屬性，並倡導「特定於程序」的藥物組合。這些發現假設 MiranDa 增強了藥物療效。值得注意的是，我們的範例可以應用於幾乎所有醫療任務，以及那些有資訊來評估預測結果的任務。MiranDa 模型的原始碼可在 https://github.com/azusakou/MiranDa 取得。
-
-##### **Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**
-2407.16062v1 by Nina Deliu, Bibhas Chakraborty
-
-Precision health, increasingly supported by digital technologies, is a domain
-of research that broadens the paradigm of precision medicine, advancing
-everyday healthcare. This vision goes hand in hand with the groundbreaking
-advent of artificial intelligence (AI), which is reshaping the way we diagnose,
-treat, and monitor both clinical subjects and the general population. AI tools
-powered by machine learning have shown considerable improvements in a variety
-of healthcare domains. In particular, reinforcement learning (RL) holds great
-promise for sequential and dynamic problems such as dynamic treatment regimes
-and just-in-time adaptive interventions in digital health. In this work, we
-discuss the opportunity offered by AI, more specifically RL, to current trends
-in healthcare, providing a methodological survey of RL methods in the context
-of precision and digital health. Focusing on the area of adaptive
-interventions, we expand the methodological survey with illustrative case
-studies that used RL in real practice.
-  This invited article has undergone anonymous review and is intended as a book
-chapter for the volume "Frontiers of Statistics and Data Science" edited by
-Subhashis Ghoshal and Anindya Roy for the International Indian Statistical
-Association Series on Statistics and Data Science, published by Springer. It
-covers the material from a short course titled "Artificial Intelligence in
-Precision and Digital Health" taught by the author Bibhas Chakraborty at the
-IISA 2022 Conference, December 26-30 2022, at the Indian Institute of Science,
-Bengaluru.
-
-摘要：<paragraph>精準健康在數位科技的支撐下日益普及，是擴展精準醫療典範的研究領域，促進日常保健。這個願景與人工智慧 (AI) 的突破性進展息息相關，它正在重塑我們診斷、治療和監控臨床受試者和一般民眾的方式。由機器學習支援的 AI 工具已在各種醫療保健領域展現顯著的進步。特別是，強化學習 (RL) 對序貫和動態問題（例如動態治療方案和即時適應性干預）極具發展前景。在這項工作中，我們探討 AI（更具體地說，RL）為當前醫療保健趨勢帶來的契機，並提供 RL 方法在精準和數位健康領域的方法論調查。我們專注於適應性干預領域，並透過在實際應用中使用 RL 的說明性案例研究擴展方法論調查。這篇受邀文章已經過匿名審查，並作為 Subhashis Ghoshal 和 Anindya Roy 編輯的「統計學與資料科學前沿」一書的章節，由 Springer 出版的國際印度統計協會統計學與資料科學系列叢書發行。它涵蓋了由作者 Bibhas Chakraborty 在印度統計協會 2022 年會議（2022 年 12 月 26 日至 30 日，於印度科學院 Bengaluru 舉行）教授的「精準與數位健康中的人工智慧」短期課程的教材。</paragraph>
-
-##### **GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**
-2407.15719v1 by Zhaojie Fang, Shenghao Zhu, Yifei Chen, Binfeng Zou, Fan Jia, Linwei Qiu, Chang Liu, Yiyu Huang, Xiang Feng, Feiwei Qin, Changmiao Wang, Yeru Wang, Jin Fan, Changbiao Chu, Wan-Zhen Wu, Hu Zhao
-
-Alzheimer's Disease (AD) is an irreversible neurodegenerative disorder that
-often progresses from Mild Cognitive Impairment (MCI), leading to memory loss
-and significantly impacting patients' lives. Clinical trials indicate that
-early targeted interventions for MCI patients can potentially slow or halt the
-development and progression of AD. Previous research has shown that accurate
-medical classification requires the inclusion of extensive multimodal data,
-such as assessment scales and various neuroimaging techniques like Magnetic
-Resonance Imaging (MRI) and Positron Emission Tomography (PET). However,
-consistently tracking the diagnosis of the same individual over time and
-simultaneously collecting multimodal data poses significant challenges. To
-address this issue, we introduce GFE-Mamba, a classifier based on Generative
-Feature Extraction (GFE). This classifier effectively integrates data from
-assessment scales, MRI, and PET, enabling deeper multimodal fusion. It
-efficiently extracts both long and short sequence information and incorporates
-additional information beyond the pixel space. This approach not only improves
-classification accuracy but also enhances the interpretability and stability of
-the model. We constructed datasets of over 3000 samples based on the
-Alzheimer's Disease Neuroimaging Initiative (ADNI) for a two-step training
-process. Our experimental results demonstrate that the GFE-Mamba model is
-effective in predicting the conversion from MCI to AD and outperforms several
-state-of-the-art methods. Our source code and ADNI dataset processing code are
-available at https://github.com/Tinysqua/GFE-Mamba.
-
-摘要：阿茲海默症 (AD) 是一種不可逆的神經退化性疾病，
-通常會從輕度認知障礙 (MCI) 惡化，導致記憶力減退
-並對病患的生活產生重大影響。臨床試驗顯示，
-針對 MCI 病患的早期目標性干預措施，有可能減緩或停止
-AD 的發展和惡化。先前的研究顯示，精確的
-醫療分類需要納入廣泛的多模式數據，
-例如評估量表和各種神經影像技術，如磁振造影 (MRI) 和正子斷層掃描 (PET)。然而，
-持續追蹤同一位個體的診斷結果，並同時收集多模式數據，會造成重大的挑戰。為了
-解決這個問題，我們引入了 GFE-Mamba，一種基於生成特徵萃取 (GFE) 的分類器。此分類器有效整合來自
-評估量表、MRI 和 PET 的數據，實現更深入的多模式融合。它
-有效率地萃取出長序列和短序列資訊，並納入像素空間以外的額外資訊。這種方法不僅提升了
-分類準確度，也增強了模型的可解釋性和穩定性。我們根據
-阿茲海默症神經影像倡議組織 (ADNI) 建立了超過 3000 個樣本的資料集，用於兩階段訓練
-過程。我們的實驗結果證明，GFE-Mamba 模型在預測從 MCI 轉變為 AD 上是有效的，並且優於多種
-最先進的方法。我們的原始程式碼和 ADNI 資料集處理程式碼可於 https://github.com/Tinysqua/GFE-Mamba 取得。
-
-##### **Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**
-2407.15526v2 by Eugenio Lomurno, Matteo Matteucci
-
-Generative artificial intelligence has transformed the generation of
-synthetic data, providing innovative solutions to challenges like data scarcity
-and privacy, which are particularly critical in fields such as medicine.
-However, the effective use of this synthetic data to train high-performance
-models remains a significant challenge. This paper addresses this issue by
-introducing Knowledge Recycling (KR), a pipeline designed to optimise the
-generation and use of synthetic data for training downstream classifiers. At
-the heart of this pipeline is Generative Knowledge Distillation (GKD), the
-proposed technique that significantly improves the quality and usefulness of
-the information provided to classifiers through a synthetic dataset
-regeneration and soft labelling mechanism. The KR pipeline has been tested on a
-variety of datasets, with a focus on six highly heterogeneous medical image
-datasets, ranging from retinal images to organ scans. The results show a
-significant reduction in the performance gap between models trained on real and
-synthetic data, with models based on synthetic data outperforming those trained
-on real data in some cases. Furthermore, the resulting models show almost
-complete immunity to Membership Inference Attacks, manifesting privacy
-properties missing in models trained with conventional techniques.
-
-摘要：生成式人工智慧已經轉變了合成資料的生成，為資料稀少和隱私等挑戰提供了創新的解決方案，這些挑戰在醫學等領域特別關鍵。然而，有效使用這種合成資料來訓練高性能模型仍然是一個重大的挑戰。本文通過引入知識回收 (KR) 來解決此問題，這是一個旨在優化合成資料的生成和使用以訓練下游分類器的管道。此管道的核心是生成式知識蒸餾 (GKD)，這項提議的技術通過合成資料集再生和軟標籤機制，顯著改善了提供給分類器的資訊品質和有用性。KR 管道已針對各種資料集進行測試，重點是六個高度異質的醫學影像資料集，範圍從視網膜影像到器官掃描。結果顯示，在真實資料和合成資料上訓練的模型之間的效能差距顯著縮小，在某些情況下，基於合成資料的模型優於在真實資料上訓練的模型。此外，生成的模型對成員身分推論攻擊幾乎完全免疫，表現出傳統技術訓練的模型所缺少的隱私特性。
-
-##### **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**
-2407.15362v2 by Yingxue Xu, Yihui Wang, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen
-
-Remarkable strides in computational pathology have been made in the
-task-agnostic foundation model that advances the performance of a wide array of
-downstream clinical tasks. Despite the promising performance, there are still
-several challenges. First, prior works have resorted to either vision-only or
-vision-captions data, disregarding invaluable pathology reports and gene
-expression profiles which respectively offer distinct knowledge for versatile
-clinical applications. Second, the current progress in pathology FMs
-predominantly concentrates on the patch level, where the restricted context of
-patch-level pretraining fails to capture whole-slide patterns. Here we curated
-the largest multimodal dataset consisting of H\&E diagnostic whole slide images
-and their associated pathology reports and RNA-Seq data, resulting in 26,169
-slide-level modality pairs from 10,275 patients across 32 cancer types. To
-leverage these data for CPath, we propose a novel whole-slide pretraining
-paradigm which injects multimodal knowledge at the whole-slide context into the
-pathology FM, called Multimodal Self-TAught PRetraining (mSTAR). The proposed
-paradigm revolutionizes the workflow of pretraining for CPath, which enables
-the pathology FM to acquire the whole-slide context. To our knowledge, this is
-the first attempt to incorporate multimodal knowledge at the slide level for
-enhancing pathology FMs, expanding the modelling context from unimodal to
-multimodal knowledge and from patch-level to slide-level. To systematically
-evaluate the capabilities of mSTAR, extensive experiments including slide-level
-unimodal and multimodal applications, are conducted across 7 diverse types of
-tasks on 43 subtasks, resulting in the largest spectrum of downstream tasks.
-The average performance in various slide-level applications consistently
-demonstrates significant performance enhancements for mSTAR compared to SOTA
-FMs.
-
-摘要：計算病理學的顯著進展已應用於任務不可知基礎模型，提升了廣泛下游臨床任務的效能。儘管效能表現良好，仍有數項挑戰。首先，先前的研究僅採用純影像或影像標題資料，忽略了寶貴的病理報告和基因表現譜，而這些報告和譜別提供了不同的知識，可應用於多功能的臨床應用。其次，病理 FM 目前進展主要集中在區塊層級，而區塊層級預訓練的受限脈絡無法擷取全切片模式。在此，我們策劃了最大的多模態資料集，包含 H&E 診斷全切片影像及其相關病理報告和 RNA-Seq 資料，共計 10,275 名患者來自 32 種癌症類型的 26,169 個切片層級模態對。為了將這些資料應用於 CPath，我們提出了一個創新的全切片預訓練範例，將全切片脈絡中的多模態知識注入病理 FM，稱為多模態自我教學預訓練 (mSTAR)。所提出的範例徹底改變了 CPath 的預訓練工作流程，讓病理 FM 能夠獲取全切片脈絡。據我們所知，這是首次嘗試在切片層級納入多模態知識以增強病理 FM，將建模脈絡從單模態知識擴展到多模態知識，並從區塊層級擴展到切片層級。為了系統性地評估 mSTAR 的能力，我們在 43 個子任務中針對 7 種不同類型的任務進行了廣泛的實驗，包括切片層級的單模態和多模態應用，產生了最大的下游任務範圍。在各種切片層級應用中的平均效能持續顯示 mSTAR 與 SOTA FM 相比有顯著的效能提升。
-
-##### **They Look Like Each Other: Case-based Reasoning for Explainable Depression Detection on Twitter using Large Language Models**
-2407.21041v1 by Mohammad Saeid Mahdavinejad, Peyman Adibi, Amirhassan Monadjemi, Pascal Hitzler
-
-Depression is a common mental health issue that requires prompt diagnosis and
-treatment. Despite the promise of social media data for depression detection,
-the opacity of employed deep learning models hinders interpretability and
-raises bias concerns. We address this challenge by introducing ProtoDep, a
-novel, explainable framework for Twitter-based depression detection. ProtoDep
-leverages prototype learning and the generative power of Large Language Models
-to provide transparent explanations at three levels: (i) symptom-level
-explanations for each tweet and user, (ii) case-based explanations comparing
-the user to similar individuals, and (iii) transparent decision-making through
-classification weights. Evaluated on five benchmark datasets, ProtoDep achieves
-near state-of-the-art performance while learning meaningful prototypes. This
-multi-faceted approach offers significant potential to enhance the reliability
-and transparency of depression detection on social media, ultimately aiding
-mental health professionals in delivering more informed care.
-
-摘要：憂鬱症是一種常見的精神健康問題，需要及時診斷和治療。儘管社群媒體資料有望用於憂鬱症偵測，但所採用的深度學習模型的不透明性阻礙了解，並引發偏見疑慮。我們透過引入 ProtoDep 來解決這個挑戰，這是一個新穎且可解釋的架構，用於基於 Twitter 的憂鬱症偵測。ProtoDep 利用原型學習和大型語言模型的生成能力，在三個層級提供透明的解釋：(i) 對每則推文和使用者的症狀層級解釋，(ii) 將使用者與類似個體進行比較的情境式解釋，以及 (iii) 透過分類權重進行透明的決策制定。在五個基準資料集上進行評估，ProtoDep 在學習有意義的原型時，達到了接近最先進的效能。這種多面向的方法提供了顯著的潛力，以增強社群媒體上憂鬱症偵測的可靠性和透明度，最終協助心理健康專業人員提供更明智的照護。
-
-##### **Genetic Algorithm to Optimize Design of Micro-Surgical Scissors**
-2407.15243v1 by Fatemeh Norouziani, Veerash Palanichamy, Shivam Gupta, Onaizah Onaizah
-
-Microrobotics is an attractive area of research as small-scale robots have
-the potential to improve the precision and dexterity offered by minimally
-invasive surgeries. One example of such a tool is a pair of micro-surgical
-scissors that was developed for cutting of tumors or cancerous tissues present
-deep inside the body such as in the brain. This task is often deemed difficult
-or impossible with conventional robotic tools due to their size and dexterity.
-The scissors are designed with two magnets placed a specific distance apart to
-maximize deflection and generate cutting forces. However, remote actuation and
-size requirements of the micro-surgical scissors limits the force that can be
-generated to puncture the tissue. To address the limitation of small output
-forces, we use an evolutionary algorithm to further optimize the performance of
-the scissors. In this study, the design of the previously developed untethered
-micro-surgical scissors has been modified and their performance is enhanced by
-determining the optimal position of the magnets as well as the direction of
-each magnetic moment. The developed algorithm is successfully applied to a
-4-magnet configuration which results in increased net torque. This improvement
-in net torque is directly translated into higher cutting forces. The new
-configuration generates a cutting force of 58 mN from 80 generations of the
-evolutionary algorithm which is a 1.65 times improvement from the original
-design. Furthermore, the developed algorithm has the advantage that it can be
-deployed with minor modifications to other microrobotic tools and systems,
-opening up new possibilities for various medical procedures and applications.
-
-摘要：微型機器人是一個有吸引力的研究領域，因為小型機器人具有提高微創手術的精確度和靈活性。此類工具的一個範例是一對微型手術剪刀，其開發用於切除深藏於體內（例如大腦）的腫瘤或癌組織。由於傳統機器人工具的尺寸和靈活性，此任務通常被認為困難或不可能。此剪刀的設計採用兩個磁鐵，它們之間的距離設定為特定值，以最大化偏轉並產生切削力。然而，微型手術剪刀的遠程致動和尺寸要求限制了可產生的穿刺組織力。為了解決小輸出力的限制，我們使用演化演算法進一步最佳化剪刀的效能。在本研究中，先前開發的無繫繩微型手術剪刀的設計已修改，並且透過確定磁鐵的最佳位置以及每個磁矩的方向來提升其效能。已將開發的演算法成功應用於 4 磁鐵組態，這會導致淨扭力增加。淨扭力的此項改善直接轉化為更高的切削力。新的組態從演化演算法的 80 個世代產生 58 mN 的切削力，這是相較於原始設計改善了 1.65 倍。此外，已開發的演算法具有可透過輕微修改部署至其他微型機器人工具和系統的優點，為各種醫療程序和應用開啟了新的可能性。
-
-##### **MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**
-2407.15042v1 by Navyansh Mahla, Annie D'souza, Shubh Gupta, Bhavik Kanekar, Kshitij Sharad Jadhav
-
-The application of large-scale models in medical image segmentation demands
-substantial quantities of meticulously annotated data curated by experts along
-with high computational resources, both of which are challenges in
-resource-poor settings. In this study, we present the Medical Segment Anything
-Model with Galore MedSAGa where we adopt the Segment Anything Model (SAM) to
-achieve memory-efficient, few-shot medical image segmentation by applying
-Gradient Low-Rank Projection GaLore to the parameters of the image encoder of
-SAM. Meanwhile, the weights of the prompt encoder and mask decoder undergo full
-parameter fine-tuning using standard optimizers. We further assess MedSAGa's
-few-shot learning capabilities, reporting on its memory efficiency and
-segmentation performance across multiple standard medical image segmentation
-datasets. We compare it with several baseline models, including LoRA fine-tuned
-SAM (SAMed) and DAE-Former. Experiments across multiple datasets and these
-baseline models with different number of images for fine tuning demonstrated
-that the GPU memory consumption of MedSAGa is significantly less than that of
-the baseline models, achieving an average memory efficiency of 66% more than
-current state-of-the-art (SOTA) models for medical image segmentation. The
-combination of substantially lower memory requirements and comparable to SOTA
-results in few-shot learning for medical image segmentation positions MedSAGa
-as an optimal solution for deployment in resource-constrained settings.
-
-摘要：大型模型在醫學影像分割中的應用需要大量由專家精心註解的資料，以及大量的計算資源，這兩者在資源貧乏的環境中都是挑戰。在本研究中，我們提出了具有豐富醫學影像分割的醫學分割任何模型 (MedSAGa)，其中我們採用分割任何模型 (SAM) 來通過將梯度低秩投影 GaLore 應用於 SAM 的影像編碼器參數來實現記憶體效率高的少量醫學影像分割。同時，提示編碼器和遮罩解碼器的權重使用標準最佳化器進行完整的參數微調。我們進一步評估了 MedSAGa 的少量學習能力，報告了其在多個標準醫學影像分割資料集中的記憶體效率和分割效能。我們將其與幾個基準模型進行比較，包括微調 SAM (SAMed) 的 LoRA 和 DAE-Former。跨多個資料集和這些基準模型的實驗，使用不同數量的影像進行微調，證明 MedSAGa 的 GPU 記憶體消耗明顯低於基準模型，比目前最先進 (SOTA) 的醫學影像分割模型平均記憶體效率高出 66%。在少量學習中，大幅降低記憶體需求與 SOTA 相當的結果，使得 MedSAGa 成為在資源受限環境中部署的最佳解決方案。
-
-##### **Mapping Patient Trajectories: Understanding and Visualizing Sepsis Prognostic Pathways from Patients Clinical Narratives**
-2407.21039v1 by Sudeshna Jana, Tirthankar Dasgupta, Lipika Dey
-
-In recent years, healthcare professionals are increasingly emphasizing on
-personalized and evidence-based patient care through the exploration of
-prognostic pathways. To study this, structured clinical variables from
-Electronic Health Records (EHRs) data have traditionally been employed by many
-researchers. Presently, Natural Language Processing models have received great
-attention in clinical research which expanded the possibilities of using
-clinical narratives. In this paper, we propose a systematic methodology for
-developing sepsis prognostic pathways derived from clinical notes, focusing on
-diverse patient subgroups identified by exploring comorbidities associated with
-sepsis and generating explanations of these subgroups using SHAP. The extracted
-prognostic pathways of these subgroups provide valuable insights into the
-dynamic trajectories of sepsis severity over time. Visualizing these pathways
-sheds light on the likelihood and direction of disease progression across
-various contexts and reveals patterns and pivotal factors or biomarkers
-influencing the transition between sepsis stages, whether toward deterioration
-or improvement. This empowers healthcare providers to implement more
-personalized and effective healthcare strategies for individual patients.
-
-摘要：近年來，醫療保健專業人士越來越重視透過探索預後途徑來提供個人化且基於證據的患者照護。為研究此議題，許多研究人員傳統上採用電子健康紀錄 (EHR) 資料中的結構化臨床變數。目前，自然語言處理模型在臨床研究中備受重視，擴大了使用臨床敘述的可能性。在本文中，我們提出一個系統化的方法，用於開發從臨床筆記中衍生的敗血症預後途徑，重點在於探索與敗血症相關的併發症所識別出的不同患者子群，並使用 SHAP 產生這些子群的說明。這些子群中萃取出的預後途徑提供了有價值的見解，了解敗血症嚴重程度隨著時間推移的動態軌跡。視覺化這些途徑有助於了解疾病進展在各種情境下的可能性和方向，並揭示影響敗血症階段轉變的模式和關鍵因素或生物標記，無論是惡化或改善。這使醫療保健提供者能夠為個別患者實施更個人化且有效的醫療保健策略。
 

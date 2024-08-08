@@ -2,7 +2,14 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Inter-Series Transformer: Attending to Products in Time Series Forecasting**|Rares Cristian et.al.|[2408.03872v1](http://arxiv.org/abs/2408.03872v1)|null|
+|**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|null|
+|**2024-08-07**|**Improving the quality of Persian clinical text with a novel spelling correction system**|Seyed Mohammad Sadegh Dashti et.al.|[2408.03622v1](http://arxiv.org/abs/2408.03622v1)|null|
+|**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|null|
+|**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405v1](http://arxiv.org/abs/2408.03405v1)|[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)|
+|**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
+|**2024-08-06**|**The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**|Vanessa Clairoux-Trepanier et.al.|[2408.03354v1](http://arxiv.org/abs/2408.03354v1)|null|
 |**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
 |**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|null|
 |**2024-08-05**|**Multistain Pretraining for Slide Representation Learning in Pathology**|Guillaume Jaume et.al.|[2408.02859v1](http://arxiv.org/abs/2408.02859v1)|null|
@@ -95,15 +102,170 @@
 |**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
 |**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
 |**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804v1](http://arxiv.org/abs/2407.16804v1)|null|
-|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
-|**2024-07-23**|**A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**|Giorgos Lysandrou et.al.|[2407.16593v1](http://arxiv.org/abs/2407.16593v1)|null|
-|**2024-07-23**|**Prompt Injection Attacks on Large Language Models in Oncology**|Jan Clusmann et.al.|[2407.18981v1](http://arxiv.org/abs/2407.18981v1)|null|
-|**2024-07-23**|**Knowledge Models for Cancer Clinical Practice Guidelines : Construction, Management and Usage in Question Answering**|Pralaypati Ta et.al.|[2407.21053v1](http://arxiv.org/abs/2407.21053v1)|null|
-|**2024-07-23**|**Virtue Ethics For Ethically Tunable Robotic Assistants**|Rajitha Ramanayake et.al.|[2407.16361v1](http://arxiv.org/abs/2407.16361v1)|null|
-|**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329v1](http://arxiv.org/abs/2407.16329v1)|null|
-|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715v2](http://arxiv.org/abs/2407.16715v2)|null|
 
 #### Abstracts
+##### **Inter-Series Transformer: Attending to Products in Time Series Forecasting**
+2408.03872v1 by Rares Cristian, Pavithra Harsha, Clemente Ocejo, Georgia Perakis, Brian Quanz, Ioannis Spantidakis, Hamza Zerhouni
+
+Time series forecasting is an important task in many fields ranging from
+supply chain management to weather forecasting. Recently, Transformer neural
+network architectures have shown promising results in forecasting on common
+time series benchmark datasets. However, application to supply chain demand
+forecasting, which can have challenging characteristics such as sparsity and
+cross-series effects, has been limited.
+  In this work, we explore the application of Transformer-based models to
+supply chain demand forecasting. In particular, we develop a new
+Transformer-based forecasting approach using a shared, multi-task per-time
+series network with an initial component applying attention across time series,
+to capture interactions and help address sparsity. We provide a case study
+applying our approach to successfully improve demand prediction for a medical
+device manufacturing company. To further validate our approach, we also apply
+it to public demand forecasting datasets as well and demonstrate competitive to
+superior performance compared to a variety of baseline and state-of-the-art
+forecast methods across the private and public datasets.
+
+摘要：時間序列預測在許多領域中都是一項重要的任務，從供應鏈管理到天氣預測都有涉及。最近，Transformer 神經網路架構在常見時間序列基準資料集的預測中展現了令人滿意的成果。然而，應用於供應鏈需求預測的範疇受到限制，因為供應鏈需求預測可能具有稀疏性和跨系列效應等具挑戰性的特徵。
+  在這項工作中，我們探討了將基於 Transformer 的模型應用於供應鏈需求預測。特別是，我們開發了一種新的基於 Transformer 的預測方法，使用一個共用的、每個時間序列的多任務網路，並在初始元件中套用跨時間序列的注意力，以擷取互動並協助解決稀疏性問題。我們提供了一個案例研究，應用我們的做法成功改善了一家醫療器材製造公司的需求預測。為了進一步驗證我們的做法，我們也將其應用於公開的需求預測資料集，並證明與各種基線和最先進的預測方法相比，在私有和公開資料集中的表現具有競爭力或優於這些方法。
+
+##### **HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**
+2408.03648v1 by Juho Jung, Chaewon Kang, Jeewoo Yoon, Seungbae Kim, Jinyoung Han
+
+The utilization of automated depression detection significantly enhances
+early intervention for individuals experiencing depression. Despite numerous
+proposals on automated depression detection using recorded clinical interview
+videos, limited attention has been paid to considering the hierarchical
+structure of the interview questions. In clinical interviews for diagnosing
+depression, clinicians use a structured questionnaire that includes routine
+baseline questions and follow-up questions to assess the interviewee's
+condition. This paper introduces HiQuE (Hierarchical Question Embedding
+network), a novel depression detection framework that leverages the
+hierarchical relationship between primary and follow-up questions in clinical
+interviews. HiQuE can effectively capture the importance of each question in
+diagnosing depression by learning mutual information across multiple
+modalities. We conduct extensive experiments on the widely-used clinical
+interview data, DAIC-WOZ, where our model outperforms other state-of-the-art
+multimodal depression detection models and emotion recognition models,
+showcasing its clinical utility in depression detection.
+
+摘要：自動憂鬱症偵測的利用顯著提升了憂鬱症患者的早期介入。儘管有許多使用錄製臨床訪談影片的自動憂鬱症偵測提案，但對於考量訪談問題的階層結構這方面卻鮮少關注。在用於診斷憂鬱症的臨床訪談中，臨床醫師會使用包含例行基準問題和追蹤問題的結構化問卷來評估受訪者的狀況。本文介紹了 HiQuE（階層式問題嵌入網路），這是一種新穎的憂鬱症偵測架構，它利用了臨床訪談中主要問題和追蹤問題之間的階層關係。HiQuE 能夠透過學習多種方式之間的互惠資訊，有效地擷取每個問題在憂鬱症診斷中的重要性。我們在廣泛使用的臨床訪談資料 DAIC-WOZ 上進行了廣泛的實驗，我們的模型優於其他最先進的多模態憂鬱症偵測模型和情緒辨識模型，展示了其在憂鬱症偵測中的臨床效用。
+
+##### **Improving the quality of Persian clinical text with a novel spelling correction system**
+2408.03622v1 by Seyed Mohammad Sadegh Dashti, Seyedeh Fatemeh Dashti
+
+Background: The accuracy of spelling in Electronic Health Records (EHRs) is a
+critical factor for efficient clinical care, research, and ensuring patient
+safety. The Persian language, with its abundant vocabulary and complex
+characteristics, poses unique challenges for real-word error correction. This
+research aimed to develop an innovative approach for detecting and correcting
+spelling errors in Persian clinical text.
+  Methods: Our strategy employs a state-of-the-art pre-trained model that has
+been meticulously fine-tuned specifically for the task of spelling correction
+in the Persian clinical domain. This model is complemented by an innovative
+orthographic similarity matching algorithm, PERTO, which uses visual similarity
+of characters for ranking correction candidates.
+  Results: The evaluation of our approach demonstrated its robustness and
+precision in detecting and rectifying word errors in Persian clinical text. In
+terms of non-word error correction, our model achieved an F1-Score of 90.0%
+when the PERTO algorithm was employed. For real-word error detection, our model
+demonstrated its highest performance, achieving an F1-Score of 90.6%.
+Furthermore, the model reached its highest F1-Score of 91.5% for real-word
+error correction when the PERTO algorithm was employed.
+  Conclusions: Despite certain limitations, our method represents a substantial
+advancement in the field of spelling error detection and correction for Persian
+clinical text. By effectively addressing the unique challenges posed by the
+Persian language, our approach paves the way for more accurate and efficient
+clinical documentation, contributing to improved patient care and safety.
+Future research could explore its use in other areas of the Persian medical
+domain, enhancing its impact and utility.
+
+摘要：背景：電子病歷 (EHR) 中拼寫的準確性是有效臨床照護、研究和確保患者安全性的關鍵因素。波斯語擁有豐富的詞彙和複雜的特徵，對真實世界的錯誤更正提出了獨特的挑戰。本研究旨在開發一種創新的方法來偵測和更正波斯語臨床文本中的拼寫錯誤。
+方法：我們的策略採用了最先進的預訓練模型，該模型經過精心微調，專門用於波斯語臨床領域中的拼寫更正任務。此模型由創新的正字法相似性匹配演算法 PERTO 補充，該演算法使用字元的視覺相似性來對更正候選項進行排名。
+結果：對我們方法的評估證明了其在偵測和糾正波斯語臨床文本中的文字錯誤方面的穩健性和準確性。在非文字錯誤更正方面，當使用 PERTO 演算法時，我們的模型實現了 90.0% 的 F1 分數。對於真實世界的錯誤偵測，我們的模型展示了其最高的效能，實現了 90.6% 的 F1 分數。此外，當使用 PERTO 演算法時，該模型達到了其最高的 F1 分數 91.5%，用於真實世界的錯誤更正。
+結論：儘管存在某些限制，但我們的模型代表了波斯語臨床文本拼寫錯誤偵測和更正領域的重大進展。透過有效解決波斯語所帶來的獨特挑戰，我們的做法為更準確和有效的臨床文件鋪路，有助於改善患者照護和安全性。未來的研究可以探討其在波斯語醫學領域其他領域的應用，以增強其影響力和實用性。
+
+##### **Identifying treatment response subgroups in observational time-to-event data**
+2408.03463v1 by Vincent Jeanselme, Chang Ho Yoon, Fabian Falck, Brian Tom, Jessica Barrett
+
+Identifying patient subgroups with different treatment responses is an
+important task to inform medical recommendations, guidelines, and the design of
+future clinical trials. Existing approaches for subgroup analysis primarily
+focus on Randomised Controlled Trials (RCTs), in which treatment assignment is
+randomised. Furthermore, the patient cohort of an RCT is often constrained by
+cost, and is not representative of the heterogeneity of patients likely to
+receive treatment in real-world clinical practice. Therefore, when applied to
+observational studies, such approaches suffer from significant statistical
+biases because of the non-randomisation of treatment. Our work introduces a
+novel, outcome-guided method for identifying treatment response subgroups in
+observational studies. Our approach assigns each patient to a subgroup
+associated with two time-to-event distributions: one under treatment and one
+under control regime. It hence positions itself in between individualised and
+average treatment effect estimation. The assumptions of our model result in a
+simple correction of the statistical bias from treatment non-randomisation
+through inverse propensity weighting. In experiments, our approach
+significantly outperforms the current state-of-the-art method for
+outcome-guided subgroup analysis in both randomised and observational treatment
+regimes.
+
+摘要：識別具有不同治療反應的患者子群是為醫療建議、指南和未來臨床試驗的設計提供資訊的一項重要任務。現有的子群分析方法主要集中於隨機對照試驗 (RCT)，其中治療分配是隨機的。此外，RCT 的患者群體通常受到成本的限制，且無法代表在現實世界臨床實務中可能接受治療的患者異質性。因此，當應用於觀察性研究時，此類方法會因治療的非隨機化而產生顯著的統計偏差。我們的研究引入了一種新的、結果導向的方法，用於識別觀察性研究中的治療反應子群。我們的做法是將每個患者分配到一個子群，該子群與兩個事件發生時間分配相關：一個在治療下，另一個在對照機制下。因此，它介於個別化和平均治療效果估計之間。我們模型的假設導致通過逆向傾向加權對來自治療非隨機化的統計偏差進行簡單校正。在實驗中，我們的做法在隨機和觀察性治療機制中都顯著優於當前最先進的結果導向子群分析方法。
+
+##### **Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**
+2408.03405v1 by Lucia Gordon, Esther Rolf, Milind Tambe
+
+Stochastic multi-agent multi-armed bandits typically assume that the rewards
+from each arm follow a fixed distribution, regardless of which agent pulls the
+arm. However, in many real-world settings, rewards can depend on the
+sensitivity of each agent to their environment. In medical screening, disease
+detection rates can vary by test type; in preference matching, rewards can
+depend on user preferences; and in environmental sensing, observation quality
+can vary across sensors. Since past work does not specify how to allocate
+agents of heterogeneous but known sensitivity of these types in a stochastic
+bandit setting, we introduce a UCB-style algorithm, Min-Width, which aggregates
+information from diverse agents. In doing so, we address the joint challenges
+of (i) aggregating the rewards, which follow different distributions for each
+agent-arm pair, and (ii) coordinating the assignments of agents to arms.
+Min-Width facilitates efficient collaboration among heterogeneous agents,
+exploiting the known structure in the agents' reward functions to weight their
+rewards accordingly. We analyze the regret of Min-Width and conduct
+pseudo-synthetic and fully synthetic experiments to study the performance of
+different levels of information sharing. Our results confirm that the gains to
+modeling agent heterogeneity tend to be greater when the sensitivities are more
+varied across agents, while combining more information does not always improve
+performance.
+
+摘要：隨機多智能體多臂賭徒通常假設每個手臂的回報遵循固定分佈，無論哪個智能體拉動手臂。然而，在許多真實世界設定中，回報可能取決於每個智能體對其環境的敏感度。在醫學篩檢中，疾病檢測率會因測試類型而異；在偏好匹配中，回報可能取決於使用者偏好；在環境感測中，觀察品質可能因感測器而異。由於過去的工作未說明如何配置這些類型異質但已知敏感度的智能體在隨機賭徒設定中，我們引入一種 UCB 風格演算法，Min-Width，它會彙總來自不同智能體的資訊。在這樣做的過程中，我們解決了 (i) 彙總回報的共同挑戰，這些回報遵循每個智能體手臂配對的不同分佈，以及 (ii) 協調將智能體指定給手臂。Min-Width 促進異質智能體之間的有效協作，利用智能體回報函數中的已知結構來適當地加權其回報。我們分析 Min-Width 的遺憾，並進行偽合成和完全合成實驗來研究不同層級資訊共享的效能。我們的結果證實，當敏感度在不同智能體間差異較大時，對智能體異質性建模的收益往往較高，而結合更多資訊並不總是會改善效能。
+
+##### **MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**
+2408.03358v1 by Wenqi Zhu, Yinghua Fu, Ze Wang
+
+Alzheimer's Disease (AD) is a currently incurable neurodegeneartive disease.
+Accurately detecting AD, especially in the early stage, represents a high
+research priority. AD is characterized by progressive cognitive impairments
+that are related to alterations in brain functional connectivity (FC). Based on
+this association, many studies have been published over the decades using FC
+and machine learning to differentiate AD from healthy aging. The most recent
+development in this detection method highlights the use of graph neural network
+(GNN) as the brain functionality analysis. In this paper, we proposed a stack
+of spatio-temporal feature extraction and graph generation based AD
+classification model using resting state fMRI. The proposed multi-level
+generated connectome (MLC) based graph convolutional network (GCN) (MLC-GCN)
+contains a multi-graph generation block and a GCN prediction block. The
+multi-graph generation block consists of a hierarchy of spatio-temporal feature
+extraction layers for extracting spatio-temporal rsfMRI features at different
+depths and building the corresponding connectomes. The GCN prediction block
+takes the learned multi-level connectomes to build and optimize GCNs at each
+level and concatenates the learned graphical features as the final predicting
+features for AD classification. Through independent cohort validations, MLC-GCN
+shows better performance for differentiating MCI, AD, and normal aging than
+state-of-art GCN and rsfMRI based AD classifiers. The proposed MLC-GCN also
+showed high explainability in terms of learning clinically reasonable
+connectome node and connectivity features from two independent datasets. While
+we only tested MLC-GCN on AD, the basic rsfMRI-based multi-level learned GCN
+based outcome prediction strategy is valid for other diseases or clinical
+outcomes.
+
+摘要：阿茲海默症 (AD) 是一種目前無法治癒的神經退化性疾病。
+準確地偵測 AD，特別是在早期階段，代表一項高度的研究優先事項。AD 的特徵是會逐漸認知功能受損，這與腦部功能連接性 (FC) 的改變有關。基於這種關聯，在過去的數十年中，許多研究已使用 FC 和機器學習來區分 AD 和健康老化。這種偵測方法的最新發展，突顯了使用圖神經網路 (GNN) 作為腦部功能分析。在本文中，我們提出了一個堆疊的時空特徵萃取和圖形生成，基於 AD 分類模型，使用靜止狀態 fMRI。所提出的多層級生成連接組 (MLC) 基於圖形卷積網路 (GCN) (MLC-GCN) 包含一個多圖形生成區塊和一個 GCN 預測區塊。多圖形生成區塊包含一個時空特徵萃取層的階層，用於萃取不同深度下的時空 rsfMRI 特徵，並建立對應的連接組。GCN 預測區塊採用已學習的多層級連接組，在每個層級建立並最佳化 GCN，並將已學習的圖形特徵串聯成用於 AD 分類的最終預測特徵。透過獨立的群組驗證，MLC-GCN 在區分 MCI、AD 和正常老化方面，表現優於最先進的 GCN 和基於 rsfMRI 的 AD 分類器。所提出的 MLC-GCN 也在從兩個獨立的資料集中學習臨床上合理的連接組節點和連接特徵方面，表現出高度的可解釋性。雖然我們只在 AD 上測試 MLC-GCN，但基本的基於 rsfMRI 的多層級學習 GCN 基於結果預測策略，對其他疾病或臨床結果有效。
+
 ##### **Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**
 2408.03208v1 by Jialang Xu, Jiacheng Wang, Lequan Yu, Danail Stoyanov, Yueming Jin, Evangelos B. Mazomenos
 
@@ -130,6 +292,29 @@ Dice, +2.11% IoU, -2.79 ASSD, -15.55 HD95 performance gains. The corresponding
 code and models will be released at https://github.com/wzjialang/PFedSIS.
 
 摘要：<paragraph>針對手術器械分割（SIS）的個人化聯邦學習（PFL）是一種有前景的方法。它讓多個臨床地點能夠在隱私的條件下共同訓練一系列模型，每個模型都根據每個地點的個別分佈進行調整。現有的 PFL 方法很少考慮多頭自我注意力的個人化，而且沒有考慮外觀的多樣性和器械形狀的相似性，這兩者都存在於手術場景中。因此，我們提出了 PFedSIS，這是一種具有視覺特徵先驗的 SIS 的新型 PFL 方法，它結合了全局個性化解糾纏（GPD）、外觀調節個性化增強（APE）和形狀相似性全局增強（SGE），以提升每個地點的 SIS 效能。GPD 代表了針對多頭自我注意力個性化進行頭部分配的首次嘗試。為了保留每個地點的獨特外觀表示並逐漸利用地點間的差異，APE 引入了外觀調節，並透過超網路為每個地點的個性化參數提供自訂的逐層聚合解決方案。器械的相互形狀資訊透過 SGE 進行維護和共享，這增強了影像層級上的跨風格形狀一致性，並計算每個地點在預測層級上的形狀相似性貢獻，以更新全局參數。PFedSIS 在骰子系數上優於現有最先進的方法，分別提升了 +1.51%、IoU 提升了 +2.11%、ASSD 降低了 -2.79、HD95 效能提升了 -15.55。對應的程式碼和模型將在 https://github.com/wzjialang/PFedSIS 上發布。</paragraph>
+
+##### **The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**
+2408.03354v1 by Vanessa Clairoux-Trepanier, Isa-May Beauchamp, Estelle Ruellan, Masarah Paquet-Clouston, Serge-Olivier Paquette, Eric Clay
+
+Large language models (LLMs) can be used to analyze cyber threat intelligence
+(CTI) data from cybercrime forums, which contain extensive information and key
+discussions about emerging cyber threats. However, to date, the level of
+accuracy and efficiency of LLMs for such critical tasks has yet to be
+thoroughly evaluated. Hence, this study assesses the accuracy of an LLM system
+built on the OpenAI GPT-3.5-turbo model [7] to extract CTI information. To do
+so, a random sample of 500 daily conversations from three cybercrime forums,
+XSS, Exploit.in, and RAMP, was extracted, and the LLM system was instructed to
+summarize the conversations and code 10 key CTI variables, such as whether a
+large organization and/or a critical infrastructure is being targeted. Then,
+two coders reviewed each conversation and evaluated whether the information
+extracted by the LLM was accurate. The LLM system performed strikingly well,
+with an average accuracy score of 98%. Various ways to enhance the model were
+uncovered, such as the need to help the LLM distinguish between stories and
+past events, as well as being careful with verb tenses in prompts.
+Nevertheless, the results of this study highlight the efficiency and relevance
+of using LLMs for cyber threat intelligence.
+
+摘要：大型語言模型 (LLM) 可用於分析網路犯罪論壇中的網路威脅情報 (CTI) 資料，這些資料包含大量資訊和關於新興網路威脅的重要討論。然而，到目前為止，LLM 在此類關鍵任務中的準確性和效率尚未得到徹底評估。因此，本研究評估了建立在 OpenAI GPT-3.5-turbo 模型 [7] 上的 LLM 系統提取 CTI 資訊的準確性。為此，從三個網路犯罪論壇 XSS、Exploit.in 和 RAMP 中隨機抽取了 500 個每日對話的樣本，並指示 LLM 系統總結對話並編碼 10 個關鍵 CTI 變數，例如是否針對大型組織和/或關鍵基礎設施。然後，兩位編碼人員檢閱了每個對話，並評估 LLM 提取的資訊是否準確。LLM 系統表現出色，平均準確率為 98%。發現了增強模型的各種方法，例如需要幫助 LLM 區分故事和過去事件，以及在提示中小心動詞時態。儘管如此，本研究的結果強調了使用 LLM 進行網路威脅情報的效率和相關性。
 
 ##### **VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**
 2408.02888v1 by Ju-Hyeon Nam, Seo-Hyung Park, Su Jung Kim, Sang-Chul Lee
@@ -2425,183 +2610,4 @@ potential and limitations of multimodal ML in mental health, guiding future
 research and development in this evolving domain.
 
 摘要：機器學習（ML）在偵測、診斷和治療心理健康疾病中的應用正越來越受到重視。傳統上，研究著重於單一模式，例如臨床筆記中的文字、語音樣本中的音訊或互動模式的影片。最近，結合多模式資訊的多模態 ML 已展現出顯著的潛力，可提供對人類行為模式的新見解，並識別心理健康症狀和風險因子。儘管具有潛力，心理健康中的多模態 ML 仍是一個新興領域，在實際應用可以有效開發之前，面臨數項複雜挑戰。本調查提供了心理健康中資料可用性和當前最先進的多模態 ML 應用之全面概觀。它討論了必須解決的關鍵挑戰，以推動該領域的進步。本調查的見解旨在加深對多模態 ML 在心理健康中的潛力和限制的理解，引導這個不斷演變領域未來的研究和發展。
-
-##### **Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**
-2407.16608v1 by Daniela L. Ramos, Hector J. Hortua
-
-Colorectal polyps are generally benign alterations that, if not identified
-promptly and managed successfully, can progress to cancer and cause
-affectations on the colon mucosa, known as adenocarcinoma. Today advances in
-Deep Learning have demonstrated the ability to achieve significant performance
-in image classification and detection in medical diagnosis applications.
-Nevertheless, these models are prone to overfitting, and making decisions based
-only on point estimations may provide incorrect predictions. Thus, to obtain a
-more informed decision, we must consider point estimations along with their
-reliable uncertainty quantification. In this paper, we built different Bayesian
-neural network approaches based on the flexibility of posterior distribution to
-develop semantic segmentation of colorectal polyp images. We found that these
-models not only provide state-of-the-art performance on the segmentation of
-this medical dataset but also, yield accurate uncertainty estimates. We applied
-multiplicative normalized flows(MNF) and reparameterization trick on the UNET,
-FPN, and LINKNET architectures tested with multiple backbones in deterministic
-and Bayesian versions. We report that the FPN + EfficientnetB7 architecture
-with MNF is the most promising option given its IOU of 0.94 and Expected
-Calibration Error (ECE) of 0.004, combined with its superiority in identifying
-difficult-to-detect colorectal polyps, which is effective in clinical areas
-where early detection prevents the development of colon cancer.
-
-摘要：大腸息肉通常是良性病變，如果不及時發現並成功處理，可能會演變成癌症並導致大腸粘膜受累，即腺癌。如今，深度學習的進展已證明有能力在醫療診斷應用中實現圖像分類和檢測的顯著性能。儘管如此，這些模型容易過度擬合，並且僅基於點估計做出決策可能會提供不正確的預測。因此，為了獲得更明智的決策，我們必須考慮點估計及其可靠的不確定性量化。在本文中，我們基於後驗分佈的靈活性構建了不同的貝葉斯神經網絡方法，以開發大腸息肉圖像的語義分割。我們發現這些模型不僅在這個醫療數據集的分割上提供了最先進的性能，而且還產生了準確的不確定性估計。我們在確定性和貝葉斯版本中使用多個主幹測試的 UNET、FPN 和 LINKNET 架構上應用乘法歸一化流 (MNF) 和重新參數化技巧。我們報告說，具有 MNF 的 FPN + EfficientnetB7 架構是最有希望的選擇，因為它的 IOU 為 0.94，預期的校準誤差 (ECE) 為 0.004，並且在識別難以檢測的大腸息肉方面具有優越性，這在早期檢測可以防止結腸癌發展的臨床領域是有效的。
-
-##### **A Comparative Study on Patient Language across Therapeutic Domains for Effective Patient Voice Classification in Online Health Discussions**
-2407.16593v1 by Giorgos Lysandrou, Roma English Owen, Vanja Popovic, Grant Le Brun, Aryo Pradipta Gema, Beatrice Alex, Elizabeth A. L. Fairley
-
-There exists an invisible barrier between healthcare professionals'
-perception of a patient's clinical experience and the reality. This barrier may
-be induced by the environment that hinders patients from sharing their
-experiences openly with healthcare professionals. As patients are observed to
-discuss and exchange knowledge more candidly on social media, valuable insights
-can be leveraged from these platforms. However, the abundance of non-patient
-posts on social media necessitates filtering out such irrelevant content to
-distinguish the genuine voices of patients, a task we refer to as patient voice
-classification. In this study, we analyse the importance of linguistic
-characteristics in accurately classifying patient voices. Our findings
-underscore the essential role of linguistic and statistical text similarity
-analysis in identifying common patterns among patient groups. These results
-allude to even starker differences in the way patients express themselves at a
-disease level and across various therapeutic domains. Additionally, we
-fine-tuned a pre-trained Language Model on the combined datasets with similar
-linguistic patterns, resulting in a highly accurate automatic patient voice
-classification. Being the pioneering study on the topic, our focus on
-extracting authentic patient experiences from social media stands as a crucial
-step towards advancing healthcare standards and fostering a patient-centric
-approach.
-
-摘要：醫療保健專業人員對於患者臨床經驗的認知與實際情況之間存在著一道無形的障礙。此障礙可能是由環境所造成，阻礙患者與醫療保健專業人員公開分享他們的經驗。由於觀察到患者在社群媒體上更坦率地討論和交換知識，因此可以從這些平台獲得有價值的見解。然而，社群媒體上充斥著非患者貼文，因此有必要過濾掉這些不相關的內容，以區分患者的真實聲音，我們將此任務稱為患者聲音分類。在本研究中，我們分析了語言特徵在準確分類患者聲音中的重要性。我們的研究結果強調了語言和統計文字相似性分析在識別患者群組之間共同模式中的重要角色。這些結果暗示了患者在疾病層級和各種治療領域中表達自己的方式存在著更明顯的差異。此外，我們根據具有類似語言模式的合併資料集微調了預先訓練好的語言模型，進而產生高度準確的自動患者聲音分類。作為這項主題的開創性研究，我們專注於從社群媒體中提取真實的患者經驗，這是邁向提升醫療保健標準和培養以患者為中心的途徑的關鍵一步。
-
-##### **Prompt Injection Attacks on Large Language Models in Oncology**
-2407.18981v1 by Jan Clusmann, Dyke Ferber, Isabella C. Wiest, Carolin V. Schneider, Titus J. Brinker, Sebastian Foersch, Daniel Truhn, Jakob N. Kather
-
-Vision-language artificial intelligence models (VLMs) possess medical
-knowledge and can be employed in healthcare in numerous ways, including as
-image interpreters, virtual scribes, and general decision support systems.
-However, here, we demonstrate that current VLMs applied to medical tasks
-exhibit a fundamental security flaw: they can be attacked by prompt injection
-attacks, which can be used to output harmful information just by interacting
-with the VLM, without any access to its parameters. We performed a quantitative
-study to evaluate the vulnerabilities to these attacks in four state of the art
-VLMs which have been proposed to be of utility in healthcare: Claude 3 Opus,
-Claude 3.5 Sonnet, Reka Core, and GPT-4o. Using a set of N=297 attacks, we show
-that all of these models are susceptible. Specifically, we show that embedding
-sub-visual prompts in medical imaging data can cause the model to provide
-harmful output, and that these prompts are non-obvious to human observers.
-Thus, our study demonstrates a key vulnerability in medical VLMs which should
-be mitigated before widespread clinical adoption.
-
-摘要：視覺語言人工智能模型（VLM）具備醫療知識，可用於醫療保健的許多方面，包括影像解讀、虛擬書寫員和一般決策支援系統。不過，我們在此證明應用於醫療任務的現行 VLM 有一個根本性的安全漏洞：它們會受到提示注入攻擊，而這種攻擊只要與 VLM 互動，就能用於輸出有害資訊，而無須存取其參數。我們執行了一項量化研究，以評估四個最先進的 VLM 對這些攻擊的脆弱性，這些 VLM 已被提議用於醫療保健：Claude 3 Opus、Claude 3.5 Sonnet、Reka Core 和 GPT-4o。我們使用一組 N=297 攻擊，顯示所有這些模型都容易受到攻擊。具體來說，我們顯示在醫學影像資料中嵌入次視覺提示，會導致模型提供有害輸出，而且這些提示對人類觀察者來說並不顯而易見。因此，我們的研究證明了醫療 VLM 中的一個關鍵漏洞，在廣泛臨床採用之前應加以緩解。
-
-##### **Knowledge Models for Cancer Clinical Practice Guidelines : Construction, Management and Usage in Question Answering**
-2407.21053v1 by Pralaypati Ta, Bhumika Gupta, Arihant Jain, Sneha Sree C, Keerthi Ram, Mohanasankar Sivaprakasam
-
-An automated knowledge modeling algorithm for Cancer Clinical Practice
-Guidelines (CPGs) extracts the knowledge contained in the CPG documents and
-transforms it into a programmatically interactable, easy-to-update structured
-model with minimal human intervention. The existing automated algorithms have
-minimal scope and cannot handle the varying complexity of the knowledge content
-in the CPGs for different cancer types. This work proposes an improved
-automated knowledge modeling algorithm to create knowledge models from the
-National Comprehensive Cancer Network (NCCN) CPGs in Oncology for different
-cancer types. The proposed algorithm has been evaluated with NCCN CPGs for four
-different cancer types. We also proposed an algorithm to compare the knowledge
-models for different versions of a guideline to discover the specific changes
-introduced in the treatment protocol of a new version. We created a
-question-answering (Q&A) framework with the guideline knowledge models as the
-augmented knowledge base to study our ability to query the knowledge models. We
-compiled a set of 32 question-answer pairs derived from two reliable data
-sources for the treatment of Non-Small Cell Lung Cancer (NSCLC) to evaluate the
-Q&A framework. The framework was evaluated against the question-answer pairs
-from one data source, and it can generate the answers with 54.5% accuracy from
-the treatment algorithm and 81.8% accuracy from the discussion part of the NCCN
-NSCLC guideline knowledge model.
-
-摘要：一種用於癌症臨床實務指南 (CPG) 的自動化知識建模演算法，會從 CPG 文件中萃取知識，並將其轉換成一個可程式化互動、易於更新的結構化模型，且只需極少的人為介入。現有的自動化演算法範圍很小，無法處理不同癌症類型 CPG 中知識內容的複雜性變化。本研究提出了一種改良的自動化知識建模演算法，以從國家綜合癌症網路 (NCCN) 腫瘤學 CPG 中建立不同癌症類型的知識模型。已使用四種不同癌症類型的 NCCN CPG 評估所提出的演算法。我們也提出了一種演算法，用於比較指南不同版本的知識模型，以找出新版本治療協定中導入的特定變更。我們建立了一個問答 (Q&A) 架構，其中指南知識模型作為擴充的知識庫，以研究我們查詢知識模型的能力。我們編譯了一組 32 個問題解答對，這些對應關係來自兩個可靠的資料來源，用於治療非小細胞肺癌 (NSCLC)，以評估 Q&A 架構。該架構根據來自一個資料來源的問題解答對進行評估，它可以從治療演算法產生 54.5% 精確度的答案，並從 NCCN NSCLC 指南知識模型的討論部分產生 81.8% 精確度的答案。
-
-##### **Virtue Ethics For Ethically Tunable Robotic Assistants**
-2407.16361v1 by Rajitha Ramanayake, Vivek Nallur
-
-The common consensus is that robots designed to work alongside or serve
-humans must adhere to the ethical standards of their operational environment.
-To achieve this, several methods based on established ethical theories have
-been suggested. Nonetheless, numerous empirical studies show that the ethical
-requirements of the real world are very diverse and can change rapidly from
-region to region. This eliminates the idea of a universal robot that can fit
-into any ethical context. However, creating customised robots for each
-deployment, using existing techniques is challenging. This paper presents a way
-to overcome this challenge by introducing a virtue ethics inspired
-computational method that enables character-based tuning of robots to
-accommodate the specific ethical needs of an environment. Using a simulated
-elder-care environment, we illustrate how tuning can be used to change the
-behaviour of a robot that interacts with an elderly resident in an
-ambient-assisted environment. Further, we assess the robot's responses by
-consulting ethicists to identify potential shortcomings.
-
-摘要：一般共識是，設計用於與人類並肩工作或服務人類的機器人必須遵守其運作環境的道德標準。為達成此目的，已提出幾種基於既定倫理理論的方法。儘管如此，許多實證研究顯示，現實世界的道德要求非常多元，且可能因地區而異而快速改變。這消除了通用機器人的概念，而通用機器人可以融入任何道德脈絡。然而，使用現有技術為每個部署建立客製化機器人具有挑戰性。本文提出了一種克服此挑戰的方法，方法是引入一種美德倫理啟發的運算方法，使機器人能夠基於特質進行調整，以適應環境的特定道德需求。使用模擬的長者照護環境，我們說明如何使用調整來改變機器人在環境輔助環境中與年長住民互動的行為。此外，我們諮詢倫理學家來評估機器人的反應，以找出潛在的缺點。
-
-##### **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**
-2407.16329v1 by Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo
-
-Acute stroke demands prompt diagnosis and treatment to achieve optimal
-patient outcomes. However, the intricate and irregular nature of clinical data
-associated with acute stroke, particularly blood pressure (BP) measurements,
-presents substantial obstacles to effective visual analytics and
-decision-making. Through a year-long collaboration with experienced
-neurologists, we developed PhenoFlow, a visual analytics system that leverages
-the collaboration between human and Large Language Models (LLMs) to analyze the
-extensive and complex data of acute ischemic stroke patients. PhenoFlow
-pioneers an innovative workflow, where the LLM serves as a data wrangler while
-neurologists explore and supervise the output using visualizations and natural
-language interactions. This approach enables neurologists to focus more on
-decision-making with reduced cognitive load. To protect sensitive patient
-information, PhenoFlow only utilizes metadata to make inferences and synthesize
-executable codes, without accessing raw patient data. This ensures that the
-results are both reproducible and interpretable while maintaining patient
-privacy. The system incorporates a slice-and-wrap design that employs temporal
-folding to create an overlaid circular visualization. Combined with a linear
-bar graph, this design aids in exploring meaningful patterns within irregularly
-measured BP data. Through case studies, PhenoFlow has demonstrated its
-capability to support iterative analysis of extensive clinical datasets,
-reducing cognitive load and enabling neurologists to make well-informed
-decisions. Grounded in long-term collaboration with domain experts, our
-research demonstrates the potential of utilizing LLMs to tackle current
-challenges in data-driven clinical decision-making for acute ischemic stroke
-patients.
-
-摘要：<paragraph>急性中風需要迅速診斷和治療，才能達到最佳的病人治療結果。然而，與急性中風相關的臨床資料複雜且不規則，特別是血壓 (BP) 測量，對有效的視覺分析和決策制定構成重大障礙。透過與經驗豐富的神經科醫師長達一年的合作，我們開發了 PhenoFlow，這是一個視覺分析系統，利用人與大型語言模型 (LLM) 之間的協作來分析急性缺血性中風患者的廣泛且複雜資料。PhenoFlow 開創了一種創新的工作流程，其中 LLM 擔任資料整理員，而神經科醫師則使用視覺化和自然語言互動來探索和監督輸出。這種方法使神經科醫師能夠更專注於決策制定，同時降低認知負擔。為了保護敏感的病人資訊，PhenoFlow 僅利用元資料進行推論並合成可執行程式碼，而不會存取原始病人資料。這確保了結果既可重現又可解釋，同時維護病人的隱私。該系統採用分段和包裝設計，採用時間摺疊來建立疊加的圓形視覺化。結合線性長條圖，此設計有助於探索不規則測量血壓資料中的有意義模式。透過案例研究，PhenoFlow 已證明其支援對廣泛臨床資料集進行反覆分析的能力，降低認知負擔並使神經科醫師能夠做出明智的決策。我們的研究以與領域專家長期合作為基礎，證明了利用 LLM 來應對當前急性缺血性中風患者資料驅動臨床決策制定挑戰的潛力。</paragraph>
-
-##### **Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**
-2407.16715v2 by Yufeng Li, Wenchao Zhao, Bo Dang, Xu Yan, Weimin Wang, Min Gao, Mingxuan Xiao
-
-In clinical treatment, identifying potential adverse reactions of drugs can
-help assist doctors in making medication decisions. In response to the problems
-in previous studies that features are high-dimensional and sparse, independent
-prediction models need to be constructed for each adverse reaction of drugs,
-and the prediction accuracy is low, this paper develops an adverse drug
-reaction prediction model based on knowledge graph embedding and deep learning,
-which can predict experimental results. Unified prediction of adverse drug
-reactions covered. Knowledge graph embedding technology can fuse the associated
-information between drugs and alleviate the shortcomings of high-dimensional
-sparsity in feature matrices, and the efficient training capabilities of deep
-learning can improve the prediction accuracy of the model. This article builds
-an adverse drug reaction knowledge graph based on drug feature data; by
-analyzing the embedding effect of the knowledge graph under different embedding
-strategies, the best embedding strategy is selected to obtain sample vectors;
-and then a convolutional neural network model is constructed to predict adverse
-reactions. The results show that under the DistMult embedding model and
-400-dimensional embedding strategy, the convolutional neural network model has
-the best prediction effect; the average accuracy, F_1 score, recall rate and
-area under the curve of repeated experiments are better than the methods
-reported in the literature. The obtained prediction model has good prediction
-accuracy and stability, and can provide an effective reference for later safe
-medication guidance.
-
-摘要：在临床治疗中，识别药物潜在的不良反应可以帮助医生做出用药决策。针对以往研究中特征高维且稀疏、需要为每种药物不良反应构建独立的预测模型、预测准确率低等问题，本文提出了一种基于知识图谱嵌入和深度学习的不良药物反应预测模型，可以预测实验结果。覆盖不良药物反应的统一预测。知识图谱嵌入技术可以融合药物之间的关联信息，缓解特征矩阵中高维稀疏的不足，深度学习高效的训练能力可以提升模型的预测准确率。本文基于药物特征数据构建不良药物反应知识图谱；通过分析知识图谱在不同嵌入策略下的嵌入效果，选取最优的嵌入策略得到样本向量；然后构建卷积神经网络模型预测不良反应。结果表明，在DistMult嵌入模型和400维度的嵌入策略下，卷积神经网络模型的预测效果最佳；重复实验的平均准确率、F_1值、召回率和曲线下面积均优于文献报道的方法。所获得的预测模型具有良好的预测准确率和稳定性，可以为后期的安全用药指导提供有效的参考。
 

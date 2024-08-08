@@ -7,6 +7,7 @@
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
+|**2024-07-21**|**Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**|Naseem Khan et.al.|[2408.03335v1](http://arxiv.org/abs/2408.03335v1)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 |**2024-07-18**|**Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**|Simha Sankar Baradwaj et.al.|[2408.01431v1](http://arxiv.org/abs/2408.01431v1)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
@@ -101,7 +102,6 @@
 |**2023-05-18**|**What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**|Junwei Kuang et.al.|[2305.13127v2](http://arxiv.org/abs/2305.13127v2)|null|
 |**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
 |**2023-05-05**|**Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**|Goda Klumbyte et.al.|[2305.03376v1](http://arxiv.org/abs/2305.03376v1)|null|
-|**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
 
 #### Abstracts
 ##### **Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**
@@ -248,6 +248,33 @@ offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
 摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
+
+##### **Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**
+2408.03335v1 by Naseem Khan, Kashif Ahmad, Aref Al Tamimi, Mohammed M. Alani, Amine Bermak, Issa Khalil
+
+Industry 5.0, which focuses on human and Artificial Intelligence (AI)
+collaboration for performing different tasks in manufacturing, involves a
+higher number of robots, Internet of Things (IoTs) devices and
+interconnections, Augmented/Virtual Reality (AR), and other smart devices. The
+huge involvement of these devices and interconnection in various critical
+areas, such as economy, health, education and defense systems, poses several
+types of potential security flaws. AI itself has been proven a very effective
+and powerful tool in different areas of cybersecurity, such as intrusion
+detection, malware detection, and phishing detection, among others. Just as in
+many application areas, cybersecurity professionals were reluctant to accept
+black-box ML solutions for cybersecurity applications. This reluctance pushed
+forward the adoption of eXplainable Artificial Intelligence (XAI) as a tool
+that helps explain how decisions are made in ML-based systems. In this survey,
+we present a comprehensive study of different XAI-based intrusion detection
+systems for industry 5.0, and we also examine the impact of explainability and
+interpretability on Cybersecurity practices through the lens of Adversarial
+XIDS (Adv-XIDS) approaches. Furthermore, we analyze the possible opportunities
+and challenges in XAI cybersecurity systems for industry 5.0 that elicit future
+research toward XAI-based solutions to be adopted by high-stakes industry 5.0
+applications. We believe this rigorous analysis will establish a foundational
+framework for subsequent research endeavors within the specified domain.
+
+摘要：工業 5.0 著重於人類與人工智慧 (AI) 合作執行製造中的不同任務，涉及更多機器人、物聯網 (IoT) 裝置和互連、擴增/虛擬實境 (AR) 和其他智慧裝置。這些裝置和互連在經濟、醫療保健、教育和國防系統等各種關鍵領域的廣泛參與，引發了多種類型的潛在安全漏洞。AI 本身已被證明是網路安全不同領域中非常有效且強大的工具，例如入侵偵測、惡意軟體偵測和網路釣魚偵測等。就像在許多應用領域一樣，網路安全專業人員不願意接受黑盒 ML 解決方案來應用於網路安全。這種不願意促使可解釋人工智慧 (XAI) 作為一種工具被採用，有助於說明在基於 ML 的系統中如何做出決策。在這項調查中，我們對工業 5.0 的不同基於 XAI 的入侵偵測系統進行了全面的研究，並且我們也透過對抗式 XIDS (Adv-XIDS) 方法的觀點來探討可解釋性和可詮釋性對網路安全實務的影響。此外，我們分析了工業 5.0 的 XAI 網路安全系統中可能存在的機會和挑戰，引發了未來針對 XAI 基礎解決方案的研究，以供高風險的工業 5.0 應用採用。我們相信這項嚴謹的分析將為指定領域內的後續研究工作建立基礎架構。
 
 ##### **A Comparative Study on Automatic Coding of Medical Letters with Explainability**
 2407.13638v1 by Jamie Glen, Lifeng Han, Paul Rayson, Goran Nenadic
@@ -2562,26 +2589,4 @@ a systemic perspective of AI and include dimensions of AI that pertain to
 invisible labour.
 
 摘要：當代通過 AI 的自動化需要大量的幕後人力，這通常既不可見且薪資過低。由於不可見的勞動，包括標籤和維護工作，是當代 AI 系統的組成部分，因此讓使用者了解其角色仍然很重要。我們建議這可以透過可解釋的 AI（XAI）設計來完成，特別是女性主義交叉的 XAI。我們提出源自女性主義交叉研究的製圖方法，以提出 AI 的系統觀點，並納入與不可見勞動相關的 AI 維度。
-
-##### **Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**
-2304.13191v1 by Surjodeep Sarkar, Manas Gaur, L. Chen, Muskan Garg, Biplav Srivastava, Bhaktee Dongaonkar
-
-Virtual Mental Health Assistants (VMHAs) are seeing continual advancements to
-support the overburdened global healthcare system that gets 60 million primary
-care visits, and 6 million Emergency Room (ER) visits annually. These systems
-are built by clinical psychologists, psychiatrists, and Artificial Intelligence
-(AI) researchers for Cognitive Behavioral Therapy (CBT). At present, the role
-of VMHAs is to provide emotional support through information, focusing less on
-developing a reflective conversation with the patient. A more comprehensive,
-safe and explainable approach is required to build responsible VMHAs to ask
-follow-up questions or provide a well-informed response. This survey offers a
-systematic critical review of the existing conversational agents in mental
-health, followed by new insights into the improvements of VMHAs with contextual
-knowledge, datasets, and their emerging role in clinical decision support. We
-also provide new directions toward enriching the user experience of VMHAs with
-explainability, safety, and wholesome trustworthiness. Finally, we provide
-evaluation metrics and practical considerations for VMHAs beyond the current
-literature to build trust between VMHAs and patients in active communications.
-
-摘要：虛擬心理健康助理 (VMHA) 持續進步，以支援每年有 6000 萬人次初級保健就診和 600 萬人次急診室 (ER) 就診的超負荷全球醫療保健系統。這些系統是由臨床心理學家、精神科醫師和人工智慧 (AI) 研究人員為認知行為療法 (CBT) 所建構。目前，VMHA 的角色是透過資訊提供情緒支持，較少著重於與患者發展反思性的對話。需要更全面、安全且可解釋的方法來建構負責任的 VMHA，以提出後續問題或提供充分的回應。這項調查提供了對心理健康中現有對話代理的系統性批判性回顧，接著深入探討了 VMHA 在脈絡知識、資料集和其在臨床決策支援中新興角色的改進。我們也提供了新的方向，以透過可解釋性、安全性與整體可信度來豐富 VMHA 的使用者體驗。最後，我們提供了評量指標和 VMHA 的實務考量，超越目前的文獻，在 VMHA 與患者的積極溝通中建立信任。
 

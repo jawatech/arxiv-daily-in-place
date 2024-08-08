@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[link](https://github.com/modelscope/modelscope-agent)|
+|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v1](http://arxiv.org/abs/2408.03630v1)|null|
+|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
+|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v1](http://arxiv.org/abs/2408.03528v1)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|null|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
@@ -43,6 +47,7 @@
 |**2024-07-23**|**Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval**|Yannick Assogba et.al.|[2407.21049v1](http://arxiv.org/abs/2407.21049v1)|null|
 |**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127v1](http://arxiv.org/abs/2407.16127v1)|[link](https://github.com/nju-websoft/dift)|
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v1](http://arxiv.org/abs/2407.15588v1)|[link](https://github.com/eralign/eralign)|
+|**2024-07-22**|**The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface**|Johannes Zimmermann et.al.|[2408.03339v1](http://arxiv.org/abs/2408.03339v1)|null|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
 |**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
 |**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141v1](http://arxiv.org/abs/2407.15141v1)|null|
@@ -97,13 +102,116 @@
 |**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
 |**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
 |**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
-|**2024-07-02**|**LLMs Plagiarize: Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v2](http://arxiv.org/abs/2407.02659v2)|null|
-|**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380v1](http://arxiv.org/abs/2407.03380v1)|[link](https://github.com/srivathsanb14/multipeptide)|
-|**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
-|**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992v1](http://arxiv.org/abs/2407.01992v1)|null|
-|**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511v1](http://arxiv.org/abs/2407.01511v1)|[link](https://github.com/camel-ai/crab)|
 
 #### Abstracts
+##### **CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**
+2408.03910v1 by Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Wenmeng Zhou, Fei Wang, Michael Shieh
+
+Large Language Models (LLMs) excel in stand-alone code tasks like HumanEval
+and MBPP, but struggle with handling entire code repositories. This challenge
+has prompted research on enhancing LLM-codebase interaction at a repository
+scale. Current solutions rely on similarity-based retrieval or manual tools and
+APIs, each with notable drawbacks. Similarity-based retrieval often has low
+recall in complex tasks, while manual tools and APIs are typically
+task-specific and require expert knowledge, reducing their generalizability
+across diverse code tasks and real-world applications. To mitigate these
+limitations, we introduce \framework, a system that integrates LLM agents with
+graph database interfaces extracted from code repositories. By leveraging the
+structural properties of graph databases and the flexibility of the graph query
+language, \framework enables the LLM agent to construct and execute queries,
+allowing for precise, code structure-aware context retrieval and code
+navigation. We assess \framework using three benchmarks: CrossCodeEval,
+SWE-bench, and EvoCodeBench. Additionally, we develop five real-world coding
+applications. With a unified graph database schema, \framework demonstrates
+competitive performance and potential in both academic and real-world
+environments, showcasing its versatility and efficacy in software engineering.
+Our application demo:
+https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent.
+
+摘要：大型語言模型 (LLM) 在獨立程式碼任務中表現出色，例如 HumanEval 和 MBPP，但處理整個程式碼儲存庫時卻遇到困難。這個挑戰促使研究人員加強 LLM 與程式碼庫的互動，並以儲存庫為規模。目前的解決方案依賴於基於相似性的擷取或手動工具和 API，每種方法都有顯著的缺點。基於相似性的擷取在複雜任務中通常召回率低，而手動工具和 API 通常是特定於任務的，需要專家知識，這會降低它們在不同程式碼任務和實際應用中的概括性。為了減輕這些限制，我們引入了 \framework，一個將 LLM 代理與從程式碼儲存庫中提取的圖形資料庫介面整合的系統。透過利用圖形資料庫的結構特性和圖形查詢語言的靈活性，\framework 使 LLM 代理能夠建構和執行查詢，允許精確、有程式碼結構意識的內容擷取和程式碼導覽。我們使用三個基準來評估 \framework：CrossCodeEval、SWE-bench 和 EvoCodeBench。此外，我們開發了五個實際的程式碼應用程式。有了統一的圖形資料庫架構，\framework 在學術和實際環境中都展現出競爭力的效能和潛力，展示了它在軟體工程中的多功能性和有效性。我們的應用程式示範：https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent。
+
+##### **PAGED: A Benchmark for Procedural Graphs Extraction from Documents**
+2408.03630v1 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
+
+Automatic extraction of procedural graphs from documents creates a low-cost
+way for users to easily understand a complex procedure by skimming visual
+graphs. Despite the progress in recent studies, it remains unanswered: whether
+the existing studies have well solved this task (Q1) and whether the emerging
+large language models (LLMs) can bring new opportunities to this task (Q2). To
+this end, we propose a new benchmark PAGED, equipped with a large high-quality
+dataset and standard evaluations. It investigates five state-of-the-art
+baselines, revealing that they fail to extract optimal procedural graphs well
+because of their heavy reliance on hand-written rules and limited available
+data. We further involve three advanced LLMs in PAGED and enhance them with a
+novel self-refine strategy. The results point out the advantages of LLMs in
+identifying textual elements and their gaps in building logical structures. We
+hope PAGED can serve as a major landmark for automatic procedural graph
+extraction and the investigations in PAGED can offer insights into the research
+on logic reasoning among non-sequential elements.
+
+摘要：透過文件自動萃取程序圖表，創造低成本的方式，讓使用者透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究有所進展，但仍有未解的問題：現有研究是否已妥善解決此任務 (Q1)，以及新興的大型語言模型 (LLM) 能否為此任務帶來新契機 (Q2)。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評估。它調查了五個最先進的基準，揭示它們無法有效萃取最佳程序圖表，因為它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過創新的自我精進策略強化它們。結果指出 LLM 在識別文字元素方面的優勢，以及它們在建立邏輯結構方面的不足。我們希望 PAGED 能作為自動程序圖表萃取的主要里程碑，且 PAGED 中的調查能為非順序元素之間的邏輯推理研究提供見解。
+
+##### **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**
+2408.03615v1 by Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie
+
+Building a general-purpose agent is a long-standing vision in the field of
+artificial intelligence. Existing agents have made remarkable progress in many
+domains, yet they still struggle to complete long-horizon tasks in an open
+world. We attribute this to the lack of necessary world knowledge and
+multimodal experience that can guide agents through a variety of long-horizon
+tasks. In this paper, we propose a Hybrid Multimodal Memory module to address
+the above challenges. It 1) transforms knowledge into Hierarchical Directed
+Knowledge Graph that allows agents to explicitly represent and learn world
+knowledge, and 2) summarises historical information into Abstracted Multimodal
+Experience Pool that provide agents with rich references for in-context
+learning. On top of the Hybrid Multimodal Memory module, a multimodal agent,
+Optimus-1, is constructed with dedicated Knowledge-guided Planner and
+Experience-Driven Reflector, contributing to a better planning and reflection
+in the face of long-horizon tasks in Minecraft. Extensive experimental results
+show that Optimus-1 significantly outperforms all existing agents on
+challenging long-horizon task benchmarks, and exhibits near human-level
+performance on many tasks. In addition, we introduce various Multimodal Large
+Language Models (MLLMs) as the backbone of Optimus-1. Experimental results show
+that Optimus-1 exhibits strong generalization with the help of the Hybrid
+Multimodal Memory module, outperforming the GPT-4V baseline on many tasks.
+
+摘要：打造一個通用代理是人工智慧領域長久以來的願景。現有的代理在許多領域都有顯著的進步，但它們仍難以在開放世界中完成長時程任務。我們將此歸因於缺乏必要的知識和多模態經驗，這些知識和經驗可以引導代理完成各種長時程任務。在本文中，我們提出一個混合多模態記憶體模組來解決上述挑戰。它 1) 將知識轉換為階層式導向知識圖，讓代理能夠明確地表示和學習世界知識，以及 2) 將歷史資訊摘要成抽象的多模態經驗池，為代理提供豐富的參考，以便進行情境學習。在混合多模態記憶體模組之上，建構了一個多模態代理，Optimus-1，它具備專用的知識導向規劃器和經驗驅動的反射器，有助於在 Minecraft 中面對長時程任務時進行更好的規劃和反思。廣泛的實驗結果顯示，Optimus-1 在具有挑戰性的長時程任務基準上顯著優於所有現有代理，並且在許多任務上展現出接近人類的效能。此外，我們引入各種多模態大型語言模型 (MLLM) 作為 Optimus-1 的骨幹。實驗結果顯示，Optimus-1 在混合多模態記憶體模組的幫助下展現出強大的泛化能力，在許多任務上優於 GPT-4V 基準。
+
+##### **Exploring the extent of similarities in software failures across industries using LLMs**
+2408.03528v1 by Martin Detloff
+
+The rapid evolution of software development necessitates enhanced safety
+measures. Extracting information about software failures from companies is
+becoming increasingly more available through news articles.
+  This research utilizes the Failure Analysis Investigation with LLMs (FAIL)
+model to extract industry-specific information. Although the FAIL model's
+database is rich in information, it could benefit from further categorization
+and industry-specific insights to further assist software engineers.
+  In previous work news articles were collected from reputable sources and
+categorized by incidents inside a database. Prompt engineering and Large
+Language Models (LLMs) were then applied to extract relevant information
+regarding the software failure. This research extends these methods by
+categorizing articles into specific domains and types of software failures. The
+results are visually represented through graphs.
+  The analysis shows that throughout the database some software failures occur
+significantly more often in specific industries. This categorization provides a
+valuable resource for software engineers and companies to identify and address
+common failures.
+  This research highlights the synergy between software engineering and Large
+Language Models (LLMs) to automate and enhance the analysis of software
+failures. By transforming data from the database into an industry specific
+model, we provide a valuable resource that can be used to identify common
+vulnerabilities, predict potential risks, and implement proactive measures for
+preventing software failures. Leveraging the power of the current FAIL database
+and data visualization, we aim to provide an avenue for safer and more secure
+software in the future.
+
+摘要：<paragraph>軟體開發的快速演進需要增強的安全措施。從新聞文章中擷取關於軟體故障的資訊變得越來越容易取得。
+本研究利用故障分析調查與 LLM（FAIL）模型來擷取特定產業的資訊。雖然 FAIL 模型的資料庫資訊豐富，但可以從進一步的分類和特定產業的見解中受益，以進一步協助軟體工程師。
+在先前的研究中，新聞文章從信譽良好的來源收集，並在資料庫中按事件分類。然後應用提示工程和大型語言模型 (LLM) 來擷取與軟體故障相關的資訊。本研究透過將文章分類到特定領域和軟體故障類型來擴充這些方法。結果透過圖形視覺化呈現。
+分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著更高。此分類為軟體工程師和公司提供有價值的資源，以識別和解決常見故障。
+本研究強調軟體工程和大型語言模型 (LLM) 之間的綜效，以自動化和增強軟體故障分析。透過將資料庫中的資料轉換成特定產業的模型，我們提供有價值的資源，可用於識別常見漏洞、預測潛在風險，並實施預防軟體故障的積極措施。利用現有 FAIL 資料庫和資料視覺化的優勢，我們旨在為未來提供更安全且更穩定的軟體途徑。</paragraph>
+
 ##### **Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**
 2408.03079v1 by Jinglong Gao, Chen Lu, Xiao Ding, Zhongyang Li, Ting Liu, Bing Qin
 
@@ -1060,6 +1168,38 @@ contributing significantly to knowledge-oriented applications.
 
 摘要：跨語言實體對齊 (EA) 能夠整合不同語言中的多個知識圖譜 (KG)，讓使用者能無縫地存取多元且全面的知識。現有方法大多是有監督的，在取得標記實體對時面臨挑戰。為了解決這個問題，最近的研究已轉向自監督和無監督的架構。儘管這些方法很有效，但它們有以下限制：(1) 它們主要關注實體特徵，忽略關係的語義資訊，(2) 它們假設來源圖譜和目標圖譜之間同構，導致雜訊和對齊準確度降低，(3) 它們容易受到文字特徵中的雜訊影響，特別是在遇到不一致的翻譯或詞彙外問題 (OOV) 時。
 在本文中，我們提出 ERAlign，一個無監督且穩健的跨語言 EA 架構，它使用關係和實體的語義文字特徵，同時執行實體層級和關係層級對齊。它的精煉程序透過根據鄰接三元組匹配融合實體層級和關係層級對齊，反覆增強結果。額外的驗證程序將實體的鄰接三元組視為線性化文字進行檢查。這個嚴格評估對齊結果的「對齊和驗證」管線，即使在存在實體的雜訊文字特徵時也能達成近乎完美的對齊。我們廣泛的實驗證明，\proposed 的穩健性和普遍適用性提升了 EA 任務的準確度和有效性，對知識導向應用程式有顯著的貢獻。
+
+##### **The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface**
+2408.03339v1 by Johannes Zimmermann, Dariusz Wiktorek, Thomas Meusburger, Miquel Monge-Dalmau, Antonio Fabregat, Alexander Jarasch, Günter Schmidt, Jorge S. Reis-Filho, T. Ian Simpson
+
+As the number of scientific publications and preprints is growing
+exponentially, several attempts have been made to navigate this complex and
+increasingly detailed landscape. These have almost exclusively taken
+unsupervised approaches that fail to incorporate domain knowledge and lack the
+structural organisation required for intuitive interactive human exploration
+and discovery. Especially in highly interdisciplinary fields, a deep
+understanding of the connectedness of research works across topics is essential
+for generating insights. We have developed a unique approach to data navigation
+that leans on geographical visualisation and uses hierarchically structured
+domain knowledge to enable end-users to explore knowledge spaces grounded in
+their desired domains of interest. This can take advantage of existing
+ontologies, proprietary intelligence schemata, or be directly derived from the
+underlying data through hierarchical topic modelling. Our approach uses natural
+language processing techniques to extract named entities from the underlying
+data and normalise them against relevant domain references and navigational
+structures. The knowledge is integrated by first calculating similarities
+between entities based on their shared extracted feature space and then by
+alignment to the navigational structures. The result is a knowledge graph that
+allows for full text and semantic graph query and structured topic driven
+navigation. This allows end-users to identify entities relevant to their needs
+and access extensive graph analytics. The user interface facilitates graphical
+interaction with the underlying knowledge graph and mimics a cartographic map
+to maximise ease of use and widen adoption. We demonstrate an exemplar project
+using our generalisable and scalable infrastructure for an academic biomedical
+literature corpus that is grounded against hundreds of different named domain
+entities.
+
+摘要：<paragraph>隨著科學出版物和預印本數量呈指數增長，已經進行了多項嘗試來探索這個複雜且日益詳細的領域。這些嘗試幾乎完全採用了無法納入領域知識且缺乏直觀互動式人類探索和發現所需的結構性組織的無監督方法。特別是在高度跨學科的領域中，深入了解跨主題的研究工作的連通性對於產生見解至關重要。我們開發了一種獨特的方法來進行資料導航，該方法依賴於地理視覺化，並使用分層結構的領域知識，使用戶能夠探索建立在他們感興趣的目標領域中的知識空間。這可以利用現有的本体、專有智慧模式，或直接從基礎資料中透過分層主題建模衍生出來。我們的做法使用自然語言處理技術從基礎資料中提取命名實體，並根據相關的領域參考和導航結構對它們進行標準化。知識的整合首先透過根據共享的提取特徵空間計算實體之間的相似性，然後透過與導航結構的對齊來進行。結果是一個知識圖，允許進行全文和語義圖查詢以及結構化主題驅動導航。這使用戶能夠識別與其需求相關的實體，並存取廣泛的圖形分析。使用者介面促進了與基礎知識圖形的圖形互動，並模擬製圖地圖以最大限度地提高易用性和擴大採用率。我們展示了一個範例專案，使用我們針對數百個不同的命名領域實體建立的通用且可擴充的基礎架構，用於學術生物醫學文獻語料庫。</paragraph>
 
 ##### **Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**
 2407.15431v1 by Huanjing Zhao, Beining Yang, Yukuo Cen, Junyu Ren, Chenhui Zhang, Yuxiao Dong, Evgeny Kharlamov, Shu Zhao, Jie Tang
@@ -2354,117 +2494,4 @@ geometric framework to recent advancements in methods aimed at enhancing the
 reasoning capabilities of LLMs.
 
 摘要：大型語言模型 (LLM) 在實際應用中的進展，關鍵在於提升其推理能力。在這項工作中，我們透過大型語言模型 (LLM) 的幾何理解，探討其推理能力。我們建立了 LLM 的表達能力與其自注意力圖密度之間的關聯。我們的分析證明，這些圖的密度定義了 MLP 塊輸入的內在維度。我們透過理論分析和玩具範例證明，較高的內在維度意味著 LLM 具有更大的表達能力。我們進一步提供經驗證據，將這個幾何框架連結到最近在旨在增強 LLM 推理能力的方法中取得的進展。
-
-##### **LLMs Plagiarize: Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**
-2407.02659v2 by Devam Mondal, Carlo Lipizzi
-
-In light of recent legal allegations brought by publishers, newspapers, and
-other creators of copyrighted corpora against large language model developers
-who use their copyrighted materials for training or fine-tuning purposes, we
-propose a novel system, a variant of a plagiarism detection system, that
-assesses whether a knowledge source has been used in the training or
-fine-tuning of a large language model. Unlike current methods, we utilize an
-approach that uses Resource Description Framework (RDF) triples to create
-knowledge graphs from both a source document and an LLM continuation of that
-document. These graphs are then analyzed with respect to content using cosine
-similarity and with respect to structure using a normalized version of graph
-edit distance that shows the degree of isomorphism. Unlike traditional
-plagiarism systems that focus on content matching and keyword identification
-between a source and a target corpus, our approach enables a broader and more
-accurate evaluation of similarity between a source document and LLM
-continuation by focusing on relationships between ideas and their organization
-with regards to others. Additionally, our approach does not require access to
-LLM metrics like perplexity that may be unavailable in closed large language
-model "black-box" systems, as well as the training corpus. We thus assess
-whether an LLM has "plagiarized" a corpus in its continuation through
-similarity measures. A prototype of our system will be found on a hyperlinked
-GitHub repository.
-
-摘要：鉴于出版商、报纸和其他受版权保护语料库的创作者针对使用其受版权保护资料进行训练或微调的大型语言模型开发者提出的近期法律指控，我们提出了一种新颖的系统，即抄袭检测系统的一个变体，该系统评估知识来源是否已用于大型语言模型的训练或微调。与当前方法不同，我们使用一种方法，该方法利用资源描述框架 (RDF) 三元组从源文档和该文档的 LLM 续篇创建知识图谱。然后使用余弦相似性分析这些图谱的内容，并使用图编辑距离的标准化版本分析其结构，该版本显示同构的程度。与专注于源语料库和目标语料库之间的内容匹配和关键词识别的传统抄袭系统不同，我们的方法通过关注思想之间的关系及其与其他思想的组织方式，对源文档和 LLM 续篇之间的相似性进行更广泛、更准确的评估。此外，我们的方法不需要访问 LLM 指标，例如在封闭的大型语言模型“黑匣子”系统以及训练语料库中可能无法获得的困惑度。因此，我们通过相似性度量评估 LLM 是否在其续篇中“抄袭”了语料库。我们系统的原型将可以在超链接的 GitHub 存储库中找到。
-
-##### **Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**
-2407.03380v1 by Srivathsan Badrinarayanan, Chakradhar Guntuboina, Parisa Mollaei, Amir Barati Farimani
-
-Peptides are essential in biological processes and therapeutics. In this
-study, we introduce Multi-Peptide, an innovative approach that combines
-transformer-based language models with Graph Neural Networks (GNNs) to predict
-peptide properties. We combine PeptideBERT, a transformer model tailored for
-peptide property prediction, with a GNN encoder to capture both sequence-based
-and structural features. By employing Contrastive Language-Image Pre-training
-(CLIP), Multi-Peptide aligns embeddings from both modalities into a shared
-latent space, thereby enhancing the model's predictive accuracy. Evaluations on
-hemolysis and nonfouling datasets demonstrate Multi-Peptide's robustness,
-achieving state-of-the-art 86.185% accuracy in hemolysis prediction. This study
-highlights the potential of multimodal learning in bioinformatics, paving the
-way for accurate and reliable predictions in peptide-based research and
-applications.
-
-摘要：肽在生物過程和治療中至關重要。在此研究中，我們介紹了多肽，這是一種創新的方法，結合了基於轉換器的語言模型和圖神經網絡 (GNN) 來預測肽的性質。我們結合了專門用於肽性質預測的轉換器模型 PeptideBERT 和 GNN 編碼器，以捕獲基於序列和結構的特徵。通過採用對比語言圖像預訓練 (CLIP)，多肽將來自兩種模態的嵌入對齊到一個共享的潛在空間中，從而增強模型的預測準確度。對溶血和抗污數據集的評估證明了多肽的穩健性，在溶血預測中實現了最先進的 86.185% 準確率。本研究強調了生物信息學中多模態學習的潛力，為基於肽的研究和應用中的準確且可靠的預測鋪平了道路。
-
-##### **Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**
-2407.02352v1 by Pritish Sahu, Karan Sikka, Ajay Divakaran
-
-Large Visual Language Models (LVLMs) struggle with hallucinations in visual
-instruction following task(s), limiting their trustworthiness and real-world
-applicability. We propose Pelican -- a novel framework designed to detect and
-mitigate hallucinations through claim verification. Pelican first decomposes
-the visual claim into a chain of sub-claims based on first-order predicates.
-These sub-claims consist of (predicate, question) pairs and can be
-conceptualized as nodes of a computational graph. We then use
-Program-of-Thought prompting to generate Python code for answering these
-questions through flexible composition of external tools. Pelican improves over
-prior work by introducing (1) intermediate variables for precise grounding of
-object instances, and (2) shared computation for answering the sub-question to
-enable adaptive corrections and inconsistency identification. We finally use
-reasoning abilities of LLM to verify the correctness of the the claim by
-considering the consistency and confidence of the (question, answer) pairs from
-each sub-claim. Our experiments reveal a drop in hallucination rate by
-$\sim$8%-32% across various baseline LVLMs and a 27% drop compared to
-approaches proposed for hallucination mitigation on MMHal-Bench. Results on two
-other benchmarks further corroborate our results.
-
-摘要：大型视觉语言模型 (LVLMs) 在视觉指令遵循任务中会产生幻觉，这限制了它们的可靠性和现实世界的适用性。我们提出了 Pelican——一种旨在通过声明验证来检测和减轻幻觉的新型框架。Pelican 首先根据一阶谓词将视觉声明分解成一个子声明链。这些子声明由 (谓词、问题) 对组成，可以被概念化为计算图的节点。然后，我们使用思想计划提示来生成 Python 代码，通过外部工具的灵活组合来回答这些问题。Pelican 通过引入 (1) 用于对象实例精确接地的中间变量，以及 (2) 用于回答子问题以实现自适应校正和不一致性识别的共享计算，改进了之前的工作。我们最终使用 LLM 的推理能力，通过考虑每个子声明的 (问题、答案) 对的一致性和置信度来验证声明的正确性。我们的实验表明，在各种基线 LVLMs 中，幻觉率下降了约 8%-32%，与 MMHal-Bench 上提出的幻觉缓解方法相比，下降了 27%。在另外两个基准上的结果进一步证实了我们的结果。
-
-##### **Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**
-2407.01992v1 by Nishant Balepur, Rachel Rudinger
-
-Recent work shows that large language models (LLMs) can answer
-multiple-choice questions using only the choices, but does this mean that MCQA
-leaderboard rankings of LLMs are largely influenced by abilities in
-choices-only settings? To answer this, we use a contrast set that probes if
-LLMs over-rely on choices-only shortcuts in MCQA. While previous works build
-contrast sets via expensive human annotations or model-generated data which can
-be biased, we employ graph mining to extract contrast sets from existing MCQA
-datasets. We use our method on UnifiedQA, a group of six commonsense reasoning
-datasets with high choices-only accuracy, to build an 820-question contrast
-set. After validating our contrast set, we test 12 LLMs, finding that these
-models do not exhibit reliance on choice-only shortcuts when given both the
-question and choices. Thus, despite the susceptibility~of MCQA to high
-choices-only accuracy, we argue that LLMs are not obtaining high ranks on MCQA
-leaderboards just due to their ability to exploit choices-only shortcuts.
-
-摘要：最近的研究表明，大型语言模型 (LLM) 仅使用选项就能回答多项选择题，但这是否表示多项选择问答 (MCQA) 排行榜上的 LLM 主要受限于仅选项设置中的能力？为了回答这个问题，我们使用对比集来探查 LLM 在 MCQA 中是否过度依赖仅选项捷径。虽然先前的研究通过昂贵的人工注释或可能存在偏差的模型生成数据来构建对比集，但我们采用图挖掘从现有 MCQA 数据集中提取对比集。我们使用我们的方法在 UnifiedQA 上，这是一个由六个具有高仅选项准确率的常识推理数据集组成的组，构建了一个 820 题的对比集。在验证我们的对比集后，我们测试了 12 个 LLM，发现当同时给出问题和选项时，这些模型不会表现出对仅选项捷径的依赖。因此，尽管 MCQA 容易受到高仅选项准确率的影响，但我们认为 LLM 在 MCQA 排行榜上获得高排名并非仅仅因为它们利用仅选项捷径的能力。
-
-##### **CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**
-2407.01511v1 by Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Bochen Qian, Philip Torr, Bernard Ghanem, Guohao Li
-
-The development of autonomous agents increasingly relies on Multimodal
-Language Models (MLMs) to perform tasks described in natural language with GUI
-environments, such as websites, desktop computers, or mobile phones. Existing
-benchmarks for MLM agents in interactive environments are limited by their
-focus on a single environment, lack of detailed and generalized evaluation
-methods, and the complexities of constructing tasks and evaluators. To overcome
-these limitations, we introduce Crab, the first agent benchmark framework
-designed to support cross-environment tasks, incorporating a graph-based
-fine-grained evaluation method and an efficient mechanism for task and
-evaluator construction. Our framework supports multiple devices and can be
-easily extended to any environment with a Python interface. Leveraging Crab, we
-developed a cross-platform Crab Benchmark-v0 comprising 100 tasks in computer
-desktop and mobile phone environments. We evaluated four advanced MLMs using
-different single and multi-agent system configurations on this benchmark. The
-experimental results demonstrate that the single agent with GPT-4o achieves the
-best completion ratio of 35.26%. All framework code, agent code, and task
-datasets are publicly available at https://github.com/camel-ai/crab.
-
-摘要：自主代理的開發越來越依賴多模態語言模型 (MLM)，以在具有 GUI 環境（例如網站、桌上型電腦或手機）的自然語言中執行任務。現有的互動環境中 MLM 代理的基準受到以下限制：它們專注於單一環境、缺乏詳細且通用的評估方法，以及建構任務和評估器的複雜性。為了克服這些限制，我們引入了 Crab，這是第一個代理基準架構，旨在支援跨環境任務，並結合了基於圖形的細粒度評估方法和任務與評估器建構的有效機制。我們的架構支援多種裝置，並且可以輕鬆地擴充到任何具有 Python 介面的環境。利用 Crab，我們開發了一個跨平台的 Crab Benchmark-v0，其中包含電腦桌上型電腦和手機環境中的 100 個任務。我們使用不同的單一和多代理系統配置，在這個基準上評估了四種先進的 MLM。實驗結果表明，具有 GPT-4o 的單一代理實現了 35.26% 的最佳完成率。所有架構程式碼、代理程式碼和任務資料集都公開於 https://github.com/camel-ai/crab。
 

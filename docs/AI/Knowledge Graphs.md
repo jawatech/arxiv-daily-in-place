@@ -72,7 +72,7 @@
 |**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
-|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v3](http://arxiv.org/abs/2407.08516v3)|null|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v4](http://arxiv.org/abs/2407.08516v4)|null|
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
@@ -1753,7 +1753,7 @@ ground-truth baseline.
 摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
 
 ##### **Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**
-2407.08516v3 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
+2407.08516v4 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
 
 This article explores the convergence of connectionist and symbolic
 artificial intelligence (AI), from historical debates to contemporary
@@ -1775,7 +1775,7 @@ capabilities. By exploring the progression of neuro-symbolic AI and proposing
 future research trajectories, this work advances the understanding and
 development of AI technologies.
 
-摘要：本文探討了連線主義與符號人工智慧 (AI) 的融合，從歷史辯論到當代進展。連線主義 AI 傳統上被視為不同的範例，專注於神經網路，而符號 AI 則強調符號表徵和邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連線主義架構在將人類語言視為符號形式處理方面的潛力。研究認為，由 LLM 賦能的自主代理 (LAA) 體現了這種範例融合。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原則，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而無需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和隱式推理中前景看好的途徑，旨在進一步增強 LAA 的能力。透過探討神經符號 AI 的進展並提出未來的研究方向，這項工作推進了對 AI 技術的理解和發展。
+摘要：本文探討了連接主義和符號人工智慧（AI）的匯流，從歷史辯論到當代進展。傳統上被認為是不同的範式，連接主義 AI 專注於神經網路，而符號 AI 則強調符號表徵和邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連接主義架構在處理人類語言作為符號形式方面的潛力。研究認為，由 LLM 賦能的自主代理（LAA）體現了這種範式收斂。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原理，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而不需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和內隱推理中前景看好的途徑，旨在進一步增強 LAA 的能力。透過探索神經符號 AI 的進展並提出未來的研究軌跡，這項工作促進了對 AI 技術的理解和發展。
 
 ##### **A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**
 2407.07966v1 by Arastoo Zibaeirad, Farnoosh Koleini, Shengping Bi, Tao Hou, Tao Wang

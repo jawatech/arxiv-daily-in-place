@@ -9,24 +9,24 @@
 |**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297v1](http://arxiv.org/abs/2408.03297v1)|null|
 |**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292v1](http://arxiv.org/abs/2408.03292v1)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290v1](http://arxiv.org/abs/2408.03290v1)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v1](http://arxiv.org/abs/2408.03281v1)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v2](http://arxiv.org/abs/2408.03281v2)|[link](https://github.com/c-box/structeval)|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274v1](http://arxiv.org/abs/2408.03274v1)|null|
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256v1](http://arxiv.org/abs/2408.03256v1)|null|
 |**2024-08-06**|**Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons**|Yifei Wang et.al.|[2408.03247v1](http://arxiv.org/abs/2408.03247v1)|null|
-|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246v1](http://arxiv.org/abs/2408.03246v1)|null|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246v1](http://arxiv.org/abs/2408.03246v1)|[link](https://github.com/lavi-lab/longcontextreasoner)|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
 |**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202v1](http://arxiv.org/abs/2408.03202v1)|null|
-|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200v1](http://arxiv.org/abs/2408.03200v1)|null|
+|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200v2](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172v1](http://arxiv.org/abs/2408.03172v1)|null|
 |**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168v1](http://arxiv.org/abs/2408.03168v1)|null|
-|**2024-08-06**|**Dilated Convolution with Learnable Spacings makes visual models more aligned with humans: a Grad-CAM study**|Rabih Chamas et.al.|[2408.03164v1](http://arxiv.org/abs/2408.03164v1)|null|
+|**2024-08-06**|**Dilated Convolution with Learnable Spacings makes visual models more aligned with humans: a Grad-CAM study**|Rabih Chamas et.al.|[2408.03164v1](http://arxiv.org/abs/2408.03164v1)|[link](https://github.com/rabihchamas/dcls-gradcam-eval)|
 |**2024-08-06**|**Conditioning LLMs with Emotion in Neural Machine Translation**|Charles Brazier et.al.|[2408.03150v1](http://arxiv.org/abs/2408.03150v1)|null|
 |**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149v1](http://arxiv.org/abs/2408.03149v1)|null|
 |**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130v1](http://arxiv.org/abs/2408.03130v1)|null|
 |**2024-08-06**|**Lisbon Computational Linguists at SemEval-2024 Task 2: Using A Mistral 7B Model and Data Augmentation**|Artur Guimarães et.al.|[2408.03127v1](http://arxiv.org/abs/2408.03127v1)|null|
-|**2024-08-06**|**COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**|Rajvee Sheth et.al.|[2408.03125v1](http://arxiv.org/abs/2408.03125v1)|null|
+|**2024-08-06**|**COMMENTATOR: A Code-mixed Multilingual Text Annotation Framework**|Rajvee Sheth et.al.|[2408.03125v1](http://arxiv.org/abs/2408.03125v1)|[link](https://github.com/lingo-iitgn/commentator)|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119v1](http://arxiv.org/abs/2408.03119v1)|null|
-|**2024-08-06**|**Topic Modeling with Fine-tuning LLMs and Bag of Sentences**|Johannes Schneider et.al.|[2408.03099v1](http://arxiv.org/abs/2408.03099v1)|null|
+|**2024-08-06**|**Topic Modeling with Fine-tuning LLMs and Bag of Sentences**|Johannes Schneider et.al.|[2408.03099v1](http://arxiv.org/abs/2408.03099v1)|[link](https://github.com/johntailor/ft-topic)|
 |**2024-08-06**|**500xCompressor: Generalized Prompt Compression for Large Language Models**|Zongqian Li et.al.|[2408.03094v1](http://arxiv.org/abs/2408.03094v1)|null|
 |**2024-08-06**|**Learning Provably Robust Policies in Uncertain Parametric Environments**|Yannik Schnitzer et.al.|[2408.03093v1](http://arxiv.org/abs/2408.03093v1)|null|
 |**2024-08-06**|**Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**|Le Yu et.al.|[2408.03092v1](http://arxiv.org/abs/2408.03092v1)|null|
@@ -42,7 +42,7 @@
 |**2024-08-06**|**LLMs as Probabilistic Minimally Adequate Teachers for DFA Learning**|Lekai Chen et.al.|[2408.02999v1](http://arxiv.org/abs/2408.02999v1)|null|
 |**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978v1](http://arxiv.org/abs/2408.02978v1)|null|
 |**2024-08-06**|**Empathy Level Alignment via Reinforcement Learning for Empathetic Response Generation**|Hui Ma et.al.|[2408.02976v1](http://arxiv.org/abs/2408.02976v1)|null|
-|**2024-08-06**|**EC-Guide: A Comprehensive E-Commerce Guide for Instruction Tuning and Quantization**|Zhaopeng Feng et.al.|[2408.02970v1](http://arxiv.org/abs/2408.02970v1)|null|
+|**2024-08-06**|**EC-Guide: A Comprehensive E-Commerce Guide for Instruction Tuning and Quantization**|Zhaopeng Feng et.al.|[2408.02970v1](http://arxiv.org/abs/2408.02970v1)|[link](https://github.com/fzp0424/ec-guide-kddup-2024)|
 |**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964v1](http://arxiv.org/abs/2408.02964v1)|null|
 |**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
 |**2024-08-06**|**Are Female Carpenters like Blue Bananas? A Corpus Investigation of Occupation Gender Typicality**|Da Ju et.al.|[2408.02948v1](http://arxiv.org/abs/2408.02948v1)|null|
@@ -56,7 +56,7 @@
 |**2024-08-06**|**KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance**|Jingxian Lu et.al.|[2408.02912v1](http://arxiv.org/abs/2408.02912v1)|null|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
 |**2024-08-06**|**Enabling Intelligent Traffic Systems: A Deep Learning Method for Accurate Arabic License Plate Recognition**|M. A. Sayedelahl et.al.|[2408.02904v1](http://arxiv.org/abs/2408.02904v1)|null|
-|**2024-08-06**|**Lighthouse: A User-Friendly Library for Reproducible Video Moment Retrieval and Highlight Detection**|Taichi Nishimura et.al.|[2408.02901v1](http://arxiv.org/abs/2408.02901v1)|null|
+|**2024-08-06**|**Lighthouse: A User-Friendly Library for Reproducible Video Moment Retrieval and Highlight Detection**|Taichi Nishimura et.al.|[2408.02901v1](http://arxiv.org/abs/2408.02901v1)|[link](https://github.com/line/lighthouse)|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899v1](http://arxiv.org/abs/2408.02899v1)|null|
 |**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897v1](http://arxiv.org/abs/2408.02897v1)|null|
 |**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
@@ -84,7 +84,7 @@
 |**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545v1](http://arxiv.org/abs/2408.02545v1)|null|
 |**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544v1](http://arxiv.org/abs/2408.02544v1)|null|
 |**2024-08-05**|**OneLove beyond the field -- A few-shot pipeline for topic and sentiment analysis during the FIFA World Cup in Qatar**|Christoph Rauchegger et.al.|[2408.02520v1](http://arxiv.org/abs/2408.02520v1)|null|
-|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503v1](http://arxiv.org/abs/2408.02503v1)|null|
+|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503v1](http://arxiv.org/abs/2408.02503v1)|[link](https://github.com/lzw-lzw/unifiedmllm)|
 |**2024-08-05**|**MDM: Advancing Multi-Domain Distribution Matching for Automatic Modulation Recognition Dataset Synthesis**|Dongwei Xu et.al.|[2408.02714v1](http://arxiv.org/abs/2408.02714v1)|null|
 |**2024-08-05**|**A First Look at License Compliance Capability of LLMs in Code Generation**|Weiwei Xu et.al.|[2408.02487v1](http://arxiv.org/abs/2408.02487v1)|null|
 |**2024-08-05**|**A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**|Zheng Han et.al.|[2408.02713v1](http://arxiv.org/abs/2408.02713v1)|null|
@@ -274,7 +274,7 @@ each layer of each model.
 摘要：隨著大型預訓練模型中參數數量的增加，LoRA 作為一種參數高效的微調 (PEFT) 方法被廣泛用於不增加推理開銷。LoRA 方法假設微調期間的權重變化可以用低秩矩陣近似。然而，秩值需要手動驗證以匹配不同的下游任務，並且它們無法適應模型中不同層的不同重要性。在這項工作中，我們首先使用 SVD 分析不同層的性能與其秩之間的關係。基於此，我們設計了基於奇異值的自適應低秩適應 (SARA)，它通過對預訓練權重執行 SVD 來自適應地找到初始化期間的秩。此外，我們探索了混合 SARA (Mo-SARA)，它通過僅微調由路由器控制的奇異值的多個並行集來顯著減少參數數量。在各種複雜任務上的大量實驗證明了我們方法的簡潔性和參數效率。它們可以有效且自適應地找到每個模型每一層最合適的秩。
 
 ##### **StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**
-2408.03281v1 by Boxi Cao, Mengjie Ren, Hongyu Lin, Xianpei Han, Feng Zhang, Junfeng Zhan, Le Sun
+2408.03281v2 by Boxi Cao, Mengjie Ren, Hongyu Lin, Xianpei Han, Feng Zhang, Junfeng Zhan, Le Sun
 
 Evaluation is the baton for the development of large language models. Current
 evaluations typically employ a single-item assessment paradigm for each atomic
@@ -291,7 +291,7 @@ biases, thereby providing more reliable and consistent conclusions regarding
 model capabilities. Our framework also sheds light on the design of future
 principled and trustworthy LLM evaluation protocols.
 
-摘要：評估是大型語言模型發展的推進器。目前的評估通常對每個原子測試目標採用單一項目評估範例，這難以辨別模型是否真正具備所需的技能，或者只是記住/猜測特定問題的答案。為此，我們提出一個新的評估框架，稱為 StructEval。從原子測試目標開始，StructEval 透過在多個認知層面和關鍵概念中進行結構化評估，來深入且廣泛地進行評估，因此為 LLM 提供全面、穩健且一致的評估。在三個廣泛使用的基準測試上的實驗證明，StructEval 可作為抵抗資料污染風險和減少潛在偏差干擾的可靠工具，從而對模型能力提供更可靠且一致的結論。我們的框架也為未來基於原則且值得信賴的 LLM 評估協定的設計提供了啟示。
+摘要：評估是大語言模型發展的指標。目前的評估通常對每個原子測試目標採用單一項目評估範例，這很難辨別模型是否真正具備所需的技能，或僅僅是記憶/猜測特定問題的答案。為此，我們提出一個稱為 StructEval 的新評估架構。從一個原子測試目標開始，StructEval 透過在多個認知層面和關鍵概念中進行結構化評估來加深和擴展評估，因此為 LLM 提供全面、穩健且一致的評估。在三個廣泛使用的基準測試上的實驗表明，StructEval 可作為抵抗資料污染風險和減少潛在偏差干擾的可靠工具，從而對模型能力提供更可靠且一致的結論。我們的架構也為未來基於原則且值得信賴的 LLM 評估協定的設計提供了啟示。
 
 ##### **Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**
 2408.03274v1 by Angie Boggust, Venkatesh Sivaraman, Yannick Assogba, Donghao Ren, Dominik Moritz, Fred Hohman
@@ -432,7 +432,7 @@ Besides, our method does not introduce any extra parameters.
 摘要：多標籤文字分類 (MLTC) 是一項實用卻具有挑戰性的任務，涉及將多個非獨佔標籤指派給每個文件。先前的研究主要專注於擷取標籤關聯性，藉由引入特殊標籤架構、設計特定模型結構或新增輔助任務來協助標籤預測。最近，k 最近鄰 ($k$NN) 架構透過擷取標籤樣本作為參考，在嵌入空間中挖掘標籤共現資訊，展現了前景。然而，兩個關鍵偏差，即嵌入對齊偏差和信心估計偏差，經常被忽略，對預測效能產生負面影響。在本文中，我們介紹了用於 MLTC 的去偏差最近鄰 (DENN) 架構，特別設計用於減輕這些偏差。為了處理嵌入對齊偏差，我們提出了一種去偏差對比學習策略，增強鄰居在標籤共現上的一致性。對於信心估計偏差，我們提出了一種去偏差信心估計策略，改善了來自 $k$NN 和歸納二元分類的預測的適應性組合。在四個公開基準資料集（即 AAPD、RCV1-V2、Amazon-531 和 EUR-LEX57K）上進行的廣泛實驗展示了我們提出的方法的有效性。此外，我們的方法沒有引入任何額外參數。
 
 ##### **Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**
-2408.03200v1 by Kunkun Hao, Yonggang Luo, Wen Cui, Yuqiao Bai, Jucheng Yang, Songyang Yan, Yuxi Pan, Zijiang Yang
+2408.03200v2 by Kunkun Hao, Yonggang Luo, Wen Cui, Yuqiao Bai, Jucheng Yang, Songyang Yan, Yuxi Pan, Zijiang Yang
 
 Evaluating the decision-making system is indispensable in developing
 autonomous vehicles, while realistic and challenging safety-critical test
@@ -460,7 +460,7 @@ can generate realistic safety-critical test scenarios covering both naturalness
 and adversariality, which can be a cornerstone for the development of
 autonomous vehicles.
 
-摘要：<paragraph>評估決策系統在開發自動駕駛車輛中不可或缺，而現實且具挑戰性的安全關鍵測試場景扮演著至關重要的角色。取得這些場景並非易事，這要歸因於現實世界資料集中的長尾分佈、稀疏性和稀有性。為了解決這個問題，在本文中，我們引入了一個使用自然對抗場景生成解決方案，該解決方案利用自然的人類駕駛先驗和強化學習技術。透過這樣做，我們可以取得既多樣又逼真的大規模測試場景。具體來說，我們建立了一個模擬環境來模仿自然的交通互動場景。在這個環境的指導下，我們實作了一個兩階段程序。第一階段納入了傳統的基於規則的模型，例如 IDM（智慧駕駛員模型）和 MOBIL（最小化因車道變換導致的整體煞車）模型，以粗略且離散的方式擷取和校準來自現實世界資料集的主要控制參數。接下來，我們利用 GAIL（生成對抗學習）來連續表示駕駛員行為。衍生的 GAIL 可進一步用於設計一個基於 PPO（近端策略最佳化）的動作-評論網路架構，以微調獎勵函數，然後最佳化我們的自然對抗場景生成解決方案。我們在 NGSIM 資料集中進行了廣泛的實驗，其中包括 3,000 輛車輛的軌跡。我們測量了重要的交通參數，並與基準模型進行比較，例如碰撞率、加速度、轉向和換車道次數。我們的研究結果證明，所提出的模型可以生成涵蓋自然性和對抗性的現實安全關鍵測試場景，這可以成為自動駕駛車輛開發的基石。</paragraph>
+摘要：在開發自動駕駛車輛時，評估決策系統是不可或缺的，而逼真且具有挑戰性的安全關鍵測試情境扮演著至關重要的角色。要取得這些情境並非易事，這是因為在現實世界的資料集中存在長尾分布、稀疏性和稀有性。為了解決這個問題，我們在本文中介紹了一種使用自然對抗情境生成解決方案，該解決方案採用自然的人類駕駛先驗和強化學習技術。透過這樣做，我們可以取得既多樣化又逼真的大規模測試情境。具體來說，我們建立了一個模擬環境，模擬了自然的交通互動情境。在這個環境的指導下，我們實施了一個兩階段程序。第一階段納入了傳統的基於規則的模型，例如 IDM（智慧駕駛模型）和 MOBIL（最小化換車道造成的整體煞車）模型，以粗略且離散的方式擷取和校準來自現實世界資料集的主要控制參數。接下來，我們利用 GAIL（生成對抗模仿學習）來持續表示駕駛行為。衍生的 GAIL 可進一步用於設計一個基於 PPO（近端策略最佳化）的動作-評論網路架構，以微調獎勵函數，然後最佳化我們的自然對抗情境生成解決方案。我們在 NGSIM 資料集中進行了廣泛的實驗，其中包括 3,000 輛車輛的軌跡。與基準模型相比，我們測量了重要的交通參數，例如碰撞率、加速度、轉向和換車道次數。我們的研究結果表明，所提出的模型可以生成涵蓋自然性和對抗性的逼真安全關鍵測試情境，這可能是開發自動駕駛車輛的基石。
 
 ##### **Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**
 2408.03172v1 by Pranita Deshmukh, Nikita Kulkarni, Sanhita Kulkarni, Kareena Manghani, Raviraj Joshi

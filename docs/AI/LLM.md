@@ -30,13 +30,13 @@
 |**2024-08-07**|**Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**|Zizhang Chen et.al.|[2408.03732v1](http://arxiv.org/abs/2408.03732v1)|null|
 |**2024-08-07**|**Local Topology Measures of Contextual Language Model Latent Spaces With Applications to Dialogue Term Extraction**|Benjamin Matthias Ruppik et.al.|[2408.03706v1](http://arxiv.org/abs/2408.03706v1)|null|
 |**2024-08-07**|**A Blockchain-based Reliable Federated Meta-learning for Metaverse: A Dual Game Framework**|Emna Baccour et.al.|[2408.03694v1](http://arxiv.org/abs/2408.03694v1)|null|
-|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675v1](http://arxiv.org/abs/2408.03675v1)|[link](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)|
+|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675v2](http://arxiv.org/abs/2408.03675v2)|[link](https://github.com/PaddlePaddle/Research)|
 |**2024-08-07**|**mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**|Ahmed Abdou et.al.|[2408.03652v1](http://arxiv.org/abs/2408.03652v1)|null|
 |**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|null|
-|**2024-08-07**|**CARE: A Clue-guided Assistant for CSRs to Read User Manuals**|Weihong Du et.al.|[2408.03633v1](http://arxiv.org/abs/2408.03633v1)|null|
+|**2024-08-07**|**CARE: A Clue-guided Assistant for CSRs to Read User Manuals**|Weihong Du et.al.|[2408.03633v2](http://arxiv.org/abs/2408.03633v2)|null|
 |**2024-08-07**|**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**|Zebin Yao et.al.|[2408.03632v1](http://arxiv.org/abs/2408.03632v1)|null|
 |**2024-08-07**|**Large Language Models for Base Station Siting: Intelligent Deployment based on Prompt or Agent**|Yanhu Wang et.al.|[2408.03631v1](http://arxiv.org/abs/2408.03631v1)|null|
-|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v1](http://arxiv.org/abs/2408.03630v1)|null|
+|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|null|
 |**2024-08-07**|**Improving the quality of Persian clinical text with a novel spelling correction system**|Seyed Mohammad Sadegh Dashti et.al.|[2408.03622v1](http://arxiv.org/abs/2408.03622v1)|null|
 |**2024-08-07**|**A Logical Fallacy-Informed Framework for Argument Generation**|Luca Mouchel et.al.|[2408.03618v1](http://arxiv.org/abs/2408.03618v1)|null|
 |**2024-08-07**|**Is Child-Directed Speech Effective Training Data for Language Models?**|Steven Y. Feng et.al.|[2408.03617v1](http://arxiv.org/abs/2408.03617v1)|null|
@@ -52,9 +52,9 @@
 |**2024-08-07**|**MPC-Minimized Secure LLM Inference**|Deevashwer Rathee et.al.|[2408.03561v1](http://arxiv.org/abs/2408.03561v1)|null|
 |**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554v1](http://arxiv.org/abs/2408.03554v1)|null|
 |**2024-08-07**|**Unlocking the Non-Native Language Context Limitation: Native Language Prompting Facilitates Knowledge Elicitation**|Baixuan Li et.al.|[2408.03544v1](http://arxiv.org/abs/2408.03544v1)|[link](https://github.com/anonynlp/natlan)|
-|**2024-08-07**|**EXAONE 3.0 7.8B Instruction Tuned Language Model**|LG AI Research et.al.|[2408.03541v1](http://arxiv.org/abs/2408.03541v1)|null|
+|**2024-08-07**|**EXAONE 3.0 7.8B Instruction Tuned Language Model**|LG AI Research et.al.|[2408.03541v2](http://arxiv.org/abs/2408.03541v2)|null|
 |**2024-08-07**|**Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation**|Jiachen Zhu et.al.|[2408.03533v1](http://arxiv.org/abs/2408.03533v1)|null|
-|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v1](http://arxiv.org/abs/2408.03528v1)|null|
+|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-07**|**EgyBERT: A Large Language Model Pretrained on Egyptian Dialect Corpora**|Faisal Qarah et.al.|[2408.03524v1](http://arxiv.org/abs/2408.03524v1)|null|
 |**2024-08-07**|**RepoMasterEval: Evaluating Code Completion via Real-World Repositories**|Qinyun Wu et.al.|[2408.03519v1](http://arxiv.org/abs/2408.03519v1)|null|
 |**2024-08-07**|**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**|Wenxiao Zhang et.al.|[2408.03515v1](http://arxiv.org/abs/2408.03515v1)|null|
@@ -742,7 +742,7 @@ users.
 摘要：元宇宙被设想为基于化身的虚拟交互的下一个数字前沿，涉及高性能模型。在这个动态环境中，用户的任务经常发生变化，需要快速模型个性化，尽管数据有限。这种演变消耗了大量资源，需要大量数据。为了解决这个问题，元学习作为元宇宙用户的宝贵工具出现，其中联邦元学习 (FML) 由于其自适应能力而提供了更多定制的解决方案。然而，元宇宙的特点是用户异构性，数据结构多样，任务各异，样本量不均，这可能会因统计差异而破坏全局训练结果。鉴于此，迫切需要建立考虑这些差异的智能联盟。本文介绍了一个双重博弈论框架，用于元宇宙服务，其中涉及元学习者作为工人来管理 FML。基于声誉指标、用户相似性和激励措施，构建了一个基于区块链的合作联盟形成博弈。我们还引入了一个基于用户历史贡献和对当前任务的潜在贡献的新声誉系统，利用过去和新任务之间的相关性。最后，提出了一个基于 Stackelberg 博弈的激励机制，以吸引可靠的工人参与元学习，最大限度地降低用户的能源成本，增加收益，提高 FML 效能，并提高元宇宙效用。结果表明，我们的双重博弈框架优于尽力而为、随机和非均匀聚类方案——将训练性能提高了 10%，将完成时间缩短了 30%，将元宇宙效用提高了 25%，并且比非区块链系统提高了 5% 的训练效率，有效地对抗了行为不端的用户。
 
 ##### **NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**
-2408.03675v1 by Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu
+2408.03675v2 by Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu
 
 Large Language Models (LLMs) have ignited an innovative surge of AI
 applications, marking a new era of exciting possibilities equipped with
@@ -760,10 +760,10 @@ RANDOM EVICTION, aiming to alleviate the issue of attention bias and enhance
 the robustness in maintaining pivotal tokens for long-context modeling tasks.
 Notably, our method significantly improves the performance on short- and
 long-text tasks by 80% and 76% respectively, reducing KV Cache by up to 50%
-with over 95% performance maintenance. The code is available at https:
-//github.com/PaddlePaddle/Research/ tree/master/NLP/ACL2024-NACL.
+with over 95% performance maintenance. The code is available at
+https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL.
 
-摘要：大型语言模型 (LLM) 引發了 AI 應用創新熱潮，標誌著一個令人興奮的新時代，具備擴展的上下文視窗。然而，託管這些模型的成本過高，這主要是因為 KV 快取涉及長上下文建模，消耗大量記憶體。儘管有幾項提議從 KV 快取中驅逐不必要的代幣，但它們大多依賴於累積注意力分數的偏差局部統計，並使用令人信服的指標報告效能，例如對不充分的短文字評估中的困惑度。在本文中，我們提出 NACL，一個用於長上下文 KV 快取驅逐的通用框架，在編碼階段的單一操作中實現更優化、更有效的驅逐。由於 NACL 的效率，我們在 PROXY TOKENS EVICTION 中結合了更準確的注意力分數統計，以及 RANDOM EVICTION 的多元隨機驅逐策略，旨在減輕注意力偏差的問題，並增強在維護關鍵代幣以進行長上下文建模任務時的穩健性。值得注意的是，我們的模型分別將短文本和長文本任務的效能顯著提升了 80% 和 76%，將 KV 快取減少了 50%，同時效能維持率超過 95%。程式碼可在 https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL 取得。
+摘要：大型語言模型 (LLM) 已經點燃了 AI 應用創新的浪潮，標誌著一個新的時代，這個時代充滿了令人興奮的可能性，並配備了擴展的上下文窗口。然而，託管這些模型的成本過高，這主要是因為 KV 快取涉及長上下文建模，會消耗大量記憶體。儘管有幾項工作建議從 KV 快取中驅逐不必要的權杖，但它們大多依賴於累積注意力分數的偏頗局部統計資料，並使用令人信服的指標（例如在不充分的短文本評估中使用困惑度）來報告效能。在本文中，我們提出 NACL，這是一個用於長上下文 KV 快取驅逐的通用框架，可以在編碼階段的單一操作中實現更佳且更有效的驅逐。由於 NACL 的效率，我們將更準確的注意力分數統計資料與 RANDOM EVICTION 的多樣化隨機驅逐策略結合在 PROXY TOKENS EVICTION 中，旨在減輕注意力偏差的問題，並增強在維護長上下文建模任務的關鍵權杖時的穩健性。值得注意的是，我們的模型分別將短文本和長文本任務的效能顯著提升了 80% 和 76%，將 KV 快取減少了 50%，同時效能維持在 95% 以上。程式碼可以在 https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL 中取得。
 
 ##### **mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**
 2408.03652v1 by Ahmed Abdou, Tasneem Mohsen
@@ -808,7 +808,7 @@ showcasing its clinical utility in depression detection.
 摘要：自動憂鬱症偵測的利用顯著提升了憂鬱症患者的早期介入。儘管有許多使用錄製臨床訪談影片的自動憂鬱症偵測提案，但對於考量訪談問題的階層結構這方面卻鮮少關注。在用於診斷憂鬱症的臨床訪談中，臨床醫師會使用包含例行基準問題和追蹤問題的結構化問卷來評估受訪者的狀況。本文介紹了 HiQuE（階層式問題嵌入網路），這是一種新穎的憂鬱症偵測架構，它利用了臨床訪談中主要問題和追蹤問題之間的階層關係。HiQuE 能夠透過學習多種方式之間的互惠資訊，有效地擷取每個問題在憂鬱症診斷中的重要性。我們在廣泛使用的臨床訪談資料 DAIC-WOZ 上進行了廣泛的實驗，我們的模型優於其他最先進的多模態憂鬱症偵測模型和情緒辨識模型，展示了其在憂鬱症偵測中的臨床效用。
 
 ##### **CARE: A Clue-guided Assistant for CSRs to Read User Manuals**
-2408.03633v1 by Weihong Du, Jia Liu, Zujie Wen, Dingnan Jin, Hongru Liang, Wenqiang Lei
+2408.03633v2 by Weihong Du, Jia Liu, Zujie Wen, Dingnan Jin, Hongru Liang, Wenqiang Lei
 
 It is time-saving to build a reading assistant for customer service
 representations (CSRs) when reading user manuals, especially information-rich
@@ -826,7 +826,7 @@ demonstrates the superiority of CARE to reduce CSRs' reading burden and keep
 high service quality, in particular with >35% decrease in time spent and
 keeping a >0.75 ICC score.
 
-摘要：為客服代表（CSR）建立閱讀助理，在閱讀使用者手冊時可以節省時間，特別是資訊豐富的手冊。目前的解決方案並不適合線上客服的場景，因為它們沒有關注使用者的問題和可能的回應。因此，我們提議為 CSR 開發一個節省時間且仔細的閱讀助理，稱為 CARE。它可以幫助 CSR 透過明確的線索鏈，快速從使用者手冊中找到適當的回應。具體來說，每個線索鏈都是透過推論使用者手冊而形成的，從與使用者問題對齊的問題線索開始，並以可能的回應結束。為了克服監督式資料的不足，我們採用了自監督策略進行模型學習。離線實驗顯示，CARE 可以有效地從使用者手冊中自動推論出準確的回應。線上實驗進一步證明了 CARE 在減輕 CSR 閱讀負擔和維持高服務品質方面的優越性，特別是將花費的時間減少了 >35%，並保持 >0.75 的 ICC 分數。
+摘要：建構一個閱讀助理，協助客服代表 (CSR) 閱讀使用者手冊，特別是資訊豐富的手冊，可以節省時間。目前的解決方案由於缺乏對使用者問題和可能回應的關注，因此不太適合線上客服場景。因此，我們提議開發一個節省時間且仔細的閱讀助理，名為 CARE，它可以透過明確的線索鏈幫助客服代表快速從使用者手冊中找到適當的回應。具體來說，每個線索鏈都是透過推論使用者手冊形成的，從與使用者問題一致的問題線索開始，並在可能的回應中結束。為了克服監督式資料的不足，我們採用自監督策略進行模型學習。離線實驗表明，CARE 可以從使用者手冊中自動推論出準確的回應。線上實驗進一步證明了 CARE 在減輕客服代表的閱讀負擔和保持高服務品質方面的優越性，特別是將花費時間減少 >35%，並保持 >0.75 ICC 分數。
 
 ##### **Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**
 2408.03632v1 by Zebin Yao, Fangxiang Feng, Ruifan Li, Xiaojie Wang
@@ -883,7 +883,7 @@ optimization and reducing trivial manual participation.
 摘要：傳統基地台選址（BSS）方法過度依賴路測和使用者回饋，這很費力，且需要在通訊、網路和最佳化方面具備豐富的專業知識。隨著大型語言模型（LLM）及其相關技術的進展，特別是在提示工程和代理工程領域，網路最佳化將見證一場革命性的方法。此方法需要策略性地使用精心製作的提示，將人類經驗和知識注入這些複雜的 LLM，並部署自主代理作為通訊橋梁，使用自然語言將基於機器語言的 LLM 與人類使用者無縫連接。這種整合代表了人工智慧（AI）作為服務和 AI 的未來典範，讓 AI 更輕鬆。作為初步探索，本研究首先開發了一個新穎的 LLM 強化 BSS 最佳化架構，並啟發式地提出了四種不同的潛在實作：基於提示最佳化 LLM（PoL）的策略、人機協作 LLM（HiLL）、LLM 強化自主 BSS 代理（LaBa）和協作式多個 LLM 基礎自主 BSS 代理（CLaBa）。透過對真實世界資料的評估，實驗證明提示輔助 LLM 和基於 LLM 的代理可以產生更高效率、更具成本效益且更可靠的網路部署，顯著提升 BSS 最佳化的效率，並減少瑣碎的人工參與。
 
 ##### **PAGED: A Benchmark for Procedural Graphs Extraction from Documents**
-2408.03630v1 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
+2408.03630v2 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
 
 Automatic extraction of procedural graphs from documents creates a low-cost
 way for users to easily understand a complex procedure by skimming visual
@@ -901,7 +901,7 @@ hope PAGED can serve as a major landmark for automatic procedural graph
 extraction and the investigations in PAGED can offer insights into the research
 on logic reasoning among non-sequential elements.
 
-摘要：透過文件自動萃取程序圖表，創造低成本的方式，讓使用者透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究有所進展，但仍有未解的問題：現有研究是否已妥善解決此任務 (Q1)，以及新興的大型語言模型 (LLM) 能否為此任務帶來新契機 (Q2)。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評估。它調查了五個最先進的基準，揭示它們無法有效萃取最佳程序圖表，因為它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過創新的自我精進策略強化它們。結果指出 LLM 在識別文字元素方面的優勢，以及它們在建立邏輯結構方面的不足。我們希望 PAGED 能作為自動程序圖表萃取的主要里程碑，且 PAGED 中的調查能為非順序元素之間的邏輯推理研究提供見解。
+摘要：自動從文件中萃取程序圖表是一種低成本的方式，讓使用者能透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究已有所進展，但仍有待解答的問題：現有的研究是否已妥善解決此任務（Q1），以及新興的大語言模型（LLM）是否能為此任務帶來新的契機（Q2）。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評量。它探討了五個最先進的基線，揭示了它們無法良好地萃取最佳程序圖表，原因在於它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過新穎的自精進策略加以強化。結果指出 LLM 在識別文本元素方面的優勢，以及它們在建立邏輯結構方面的差距。我們希望 PAGED 能成為自動程序圖表萃取的主要里程碑，而 PAGED 中的探討能為非順序元素間的邏輯推理研究提供見解。
 
 ##### **Improving the quality of Persian clinical text with a novel spelling correction system**
 2408.03622v1 by Seyed Mohammad Sadegh Dashti, Seyedeh Fatemeh Dashti
@@ -1290,7 +1290,7 @@ https://github.com/AnonyNLP/NatLan.
 摘要：多語言大型語言模型 (MLLM) 難以回答以非主要語言提出的問題，即使它們已經從其主要語言語料庫中獲得相關知識。相比之下，人類多語言使用者可以透過調用從母語文本中獲得的相對豐富知識來克服這個問題，透過正向母語轉移 (PNLT) 實現。受到此啟發，我們將 MLLM 的主要語言類比為人類多語言使用者的母語，並提出母語提示 (NatLan) 來模擬人類多語言使用者中觀察到的 PNLT。它明確為 MLLM 建立母語脈絡，以利於在問答過程中引出豐富的母語知識，打破非母語脈絡對知識有效應用造成的限制。透過採用多 MLLM 協作，NatLan 減少了每個 MLLM 在模擬 PNLT 時的工作量，並改善了語義轉移。在 C-Eval 基準測試中，NatLan 在五個 MLLM 中提供了高達 10.1% 的平均準確度提升，以及難度子集高達 5.0% 的提升，超越所有頂尖相關方法。我們的程式碼可於 https://github.com/AnonyNLP/NatLan 取得。
 
 ##### **EXAONE 3.0 7.8B Instruction Tuned Language Model**
-2408.03541v1 by LG AI Research, Soyoung An, Kyunghoon Bae, Eunbi Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Yeonjung Hong, Junwon Hwang, Hyojin Jeon, Gerrard Jeongwon Jo, Hyunjik Jo, Jiyeon Jung, Yountae Jung, Euisoon Kim, Hyosang Kim, Joonkee Kim, Seonghwan Kim, Soyeon Kim, Sunkyoung Kim, Yireun Kim, Youchul Kim, Edward Hwayoung Lee, Haeju Lee, Honglak Lee, Jinsik Lee, Kyungmin Lee, Moontae Lee, Seungjun Lee, Woohyung Lim, Sangha Park, Sooyoun Park, Yongmin Park, Boseong Seo, Sihoon Yang, Heuiyeen Yeen, Kyungjae Yoo, Hyeongu Yun
+2408.03541v2 by LG AI Research, :, Soyoung An, Kyunghoon Bae, Eunbi Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Yeonjung Hong, Junwon Hwang, Hyojin Jeon, Gerrard Jeongwon Jo, Hyunjik Jo, Jiyeon Jung, Yountae Jung, Euisoon Kim, Hyosang Kim, Joonkee Kim, Seonghwan Kim, Soyeon Kim, Sunkyoung Kim, Yireun Kim, Youchul Kim, Edward Hwayoung Lee, Haeju Lee, Honglak Lee, Jinsik Lee, Kyungmin Lee, Moontae Lee, Seungjun Lee, Woohyung Lim, Sangha Park, Sooyoun Park, Yongmin Park, Boseong Seo, Sihoon Yang, Heuiyeen Yeen, Kyungjae Yoo, Hyeongu Yun
 
 We introduce EXAONE 3.0 instruction-tuned language model, the first open
 model in the family of Large Language Models (LLMs) developed by LG AI
@@ -1306,7 +1306,7 @@ bilingual proficiency, we hope that EXAONE keeps contributing to advancements
 in Expert AI. Our EXAONE 3.0 instruction-tuned model is available at
 https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct
 
-摘要：我們推出 EXAONE 3.0 指令調整語言模型，這是 LG AI 研究開發的大型語言模型 (LLM) 家族中第一個開放模型。在不同的模型大小中，我們公開發布 7.8B 指令調整模型，以促進開放研究和創新。透過在各種公開和內部基準上的廣泛評估，EXAONE 3.0 展示了與其他類似規模的最新開放模型相比，具有高度競爭力的真實世界效能和指令遵循能力。我們的比較分析顯示，EXAONE 3.0 特別擅長韓語，同時在一般任務和複雜推理中取得令人信服的表現。憑藉其強大的真實世界效能和雙語能力，我們希望 EXAONE 持續為專家 AI 的進步做出貢獻。我們的 EXAONE 3.0 指令調整模型可在 https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct 取得
+摘要：我們推出 EXAONE 3.0 指令調整語言模型，是 LG AI 研究開發的大型語言模型 (LLM) 家族中的第一個開放模型。在不同的模型規模中，我們公開發布 7.8B 指令調整模型，以促進開放研究和創新。透過對廣泛的公開和內部基準進行廣泛的評估，EXAONE 3.0 展現了高度競爭的真實世界效能，並具備與其他類似規模的最新開放模型相抗衡的指令遵循能力。我們的比較分析顯示，EXAONE 3.0 特別擅長韓語，同時在一般任務和複雜推理中都能達到令人信服的效能。憑藉其強大的真實世界效能和雙語能力，我們希望 EXAONE 能持續為專家 AI 的進步做出貢獻。我們的 EXAONE 3.0 指令調整模型可在 https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct 取得
 
 ##### **Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation**
 2408.03533v1 by Jiachen Zhu, Jianghao Lin, Xinyi Dai, Bo Chen, Rong Shan, Jieming Zhu, Ruiming Tang, Yong Yu, Weinan Zhang
@@ -1340,7 +1340,7 @@ RecLoRA compared to existing baseline models.
 摘要：我們主要關注大型語言模型 (LLM) 在推薦領域的應用，這是一個近期積極探索的領域，並對有效提升推薦系統的邏輯推理能力和開放世界知識構成重大挑戰。目前的普遍做法主要圍繞著透過自訂輸入範本或在預測層對齊語意和推薦空間的表徵，將推薦模型中的個人化資訊注入 LLM。然而，它們面臨三項重大的限制：(1) LoRA 主要用作現有作品中的核心元件，但個人化並未在 LoRA 參數中建立完善，因為每個使用者共用的 LoRA 矩陣可能無法滿足不同使用者的特性，導致效能不佳。(2) 儘管終身個人化行為序列是個人化的理想選擇，但它們的使用會引發效能和效率問題，因為 LLM 需要增加訓練和推論時間以延伸文字長度。(3) 現有方法由於訓練效率限制，無法擴充到大型資料集。因此，LLM 僅看到資料集的一小部分（例如，不到 10%），而不是整個資料集，這限制了它們接觸完整訓練空間的機會。為了解決這些問題，我們提出 RecLoRA。此模型包含一個個人化 LoRA 模組，為不同的使用者維護獨立的 LoRA，以及一個長短期型態擷取器，為不同的型態擷取不同的歷史長度，在增加極少時間成本的同時大幅提升效能。此外，我們設計了一個少對多學習策略，使用傳統的推薦模型作為透鏡，將小型訓練空間放大到完整空間。在公開資料集上的廣泛實驗證明了我們的 RecLoRA 與現有的基準模型相比的效能。
 
 ##### **Exploring the extent of similarities in software failures across industries using LLMs**
-2408.03528v1 by Martin Detloff
+2408.03528v2 by Martin Detloff
 
 The rapid evolution of software development necessitates enhanced safety
 measures. Extracting information about software failures from companies is
@@ -1368,11 +1368,11 @@ preventing software failures. Leveraging the power of the current FAIL database
 and data visualization, we aim to provide an avenue for safer and more secure
 software in the future.
 
-摘要：<paragraph>軟體開發的快速演進需要增強的安全措施。從新聞文章中擷取關於軟體故障的資訊變得越來越容易取得。
-本研究利用故障分析調查與 LLM（FAIL）模型來擷取特定產業的資訊。雖然 FAIL 模型的資料庫資訊豐富，但可以從進一步的分類和特定產業的見解中受益，以進一步協助軟體工程師。
-在先前的研究中，新聞文章從信譽良好的來源收集，並在資料庫中按事件分類。然後應用提示工程和大型語言模型 (LLM) 來擷取與軟體故障相關的資訊。本研究透過將文章分類到特定領域和軟體故障類型來擴充這些方法。結果透過圖形視覺化呈現。
-分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著更高。此分類為軟體工程師和公司提供有價值的資源，以識別和解決常見故障。
-本研究強調軟體工程和大型語言模型 (LLM) 之間的綜效，以自動化和增強軟體故障分析。透過將資料庫中的資料轉換成特定產業的模型，我們提供有價值的資源，可用於識別常見漏洞、預測潛在風險，並實施預防軟體故障的積極措施。利用現有 FAIL 資料庫和資料視覺化的優勢，我們旨在為未來提供更安全且更穩定的軟體途徑。</paragraph>
+摘要：<paragraph>軟體開發快速演進，迫切需要增強安全措施。從公司新聞文章中萃取軟體故障資訊正變得越來越容易。
+此研究利用大型語言模型（LLM）故障分析調查（FAIL）模型萃取產業特定資訊。儘管 FAIL 模型的資料庫資訊豐富，但若能進一步分類並提供產業特定見解，將有助於軟體工程師。
+在先前的研究中，我們從信譽良好的來源收集新聞文章，並將其分類為資料庫中的事件。接著應用提示工程和大型語言模型（LLM）萃取與軟體故障相關的資訊。此研究透過將文章分類到特定領域和軟體故障類型，延伸了這些方法。結果透過圖表視覺化呈現。
+分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著較高。此分類為軟體工程師和公司提供了寶貴的資源，可識別並解決常見故障。
+此研究強調了軟體工程與大型語言模型（LLM）之間的綜效作用，可自動化並增強軟體故障分析。透過將資料庫中的資料轉換為產業特定模型，我們提供了一項寶貴的資源，可用於識別常見漏洞、預測潛在風險，並實施主動措施來預防軟體故障。我們利用現有 FAIL 資料庫和資料視覺化的優勢，旨在為未來提供更安全且穩定的軟體。</paragraph>
 
 ##### **EgyBERT: A Large Language Model Pretrained on Egyptian Dialect Corpora**
 2408.03524v1 by Faisal Qarah

@@ -3,9 +3,9 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[link](https://github.com/modelscope/modelscope-agent)|
-|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v1](http://arxiv.org/abs/2408.03630v1)|null|
+|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|null|
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
-|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v1](http://arxiv.org/abs/2408.03528v1)|null|
+|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|null|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
@@ -131,7 +131,7 @@ https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent
 摘要：大型語言模型 (LLM) 在獨立程式碼任務中表現出色，例如 HumanEval 和 MBPP，但處理整個程式碼儲存庫時卻遇到困難。這個挑戰促使研究人員加強 LLM 與程式碼庫的互動，並以儲存庫為規模。目前的解決方案依賴於基於相似性的擷取或手動工具和 API，每種方法都有顯著的缺點。基於相似性的擷取在複雜任務中通常召回率低，而手動工具和 API 通常是特定於任務的，需要專家知識，這會降低它們在不同程式碼任務和實際應用中的概括性。為了減輕這些限制，我們引入了 \framework，一個將 LLM 代理與從程式碼儲存庫中提取的圖形資料庫介面整合的系統。透過利用圖形資料庫的結構特性和圖形查詢語言的靈活性，\framework 使 LLM 代理能夠建構和執行查詢，允許精確、有程式碼結構意識的內容擷取和程式碼導覽。我們使用三個基準來評估 \framework：CrossCodeEval、SWE-bench 和 EvoCodeBench。此外，我們開發了五個實際的程式碼應用程式。有了統一的圖形資料庫架構，\framework 在學術和實際環境中都展現出競爭力的效能和潛力，展示了它在軟體工程中的多功能性和有效性。我們的應用程式示範：https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent。
 
 ##### **PAGED: A Benchmark for Procedural Graphs Extraction from Documents**
-2408.03630v1 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
+2408.03630v2 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
 
 Automatic extraction of procedural graphs from documents creates a low-cost
 way for users to easily understand a complex procedure by skimming visual
@@ -149,7 +149,7 @@ hope PAGED can serve as a major landmark for automatic procedural graph
 extraction and the investigations in PAGED can offer insights into the research
 on logic reasoning among non-sequential elements.
 
-摘要：透過文件自動萃取程序圖表，創造低成本的方式，讓使用者透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究有所進展，但仍有未解的問題：現有研究是否已妥善解決此任務 (Q1)，以及新興的大型語言模型 (LLM) 能否為此任務帶來新契機 (Q2)。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評估。它調查了五個最先進的基準，揭示它們無法有效萃取最佳程序圖表，因為它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過創新的自我精進策略強化它們。結果指出 LLM 在識別文字元素方面的優勢，以及它們在建立邏輯結構方面的不足。我們希望 PAGED 能作為自動程序圖表萃取的主要里程碑，且 PAGED 中的調查能為非順序元素之間的邏輯推理研究提供見解。
+摘要：自動從文件中萃取程序圖表是一種低成本的方式，讓使用者能透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究已有所進展，但仍有待解答的問題：現有的研究是否已妥善解決此任務（Q1），以及新興的大語言模型（LLM）是否能為此任務帶來新的契機（Q2）。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評量。它探討了五個最先進的基線，揭示了它們無法良好地萃取最佳程序圖表，原因在於它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過新穎的自精進策略加以強化。結果指出 LLM 在識別文本元素方面的優勢，以及它們在建立邏輯結構方面的差距。我們希望 PAGED 能成為自動程序圖表萃取的主要里程碑，而 PAGED 中的探討能為非順序元素間的邏輯推理研究提供見解。
 
 ##### **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**
 2408.03615v1 by Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie
@@ -178,7 +178,7 @@ Multimodal Memory module, outperforming the GPT-4V baseline on many tasks.
 摘要：打造一個通用代理是人工智慧領域長久以來的願景。現有的代理在許多領域都有顯著的進步，但它們仍難以在開放世界中完成長時程任務。我們將此歸因於缺乏必要的知識和多模態經驗，這些知識和經驗可以引導代理完成各種長時程任務。在本文中，我們提出一個混合多模態記憶體模組來解決上述挑戰。它 1) 將知識轉換為階層式導向知識圖，讓代理能夠明確地表示和學習世界知識，以及 2) 將歷史資訊摘要成抽象的多模態經驗池，為代理提供豐富的參考，以便進行情境學習。在混合多模態記憶體模組之上，建構了一個多模態代理，Optimus-1，它具備專用的知識導向規劃器和經驗驅動的反射器，有助於在 Minecraft 中面對長時程任務時進行更好的規劃和反思。廣泛的實驗結果顯示，Optimus-1 在具有挑戰性的長時程任務基準上顯著優於所有現有代理，並且在許多任務上展現出接近人類的效能。此外，我們引入各種多模態大型語言模型 (MLLM) 作為 Optimus-1 的骨幹。實驗結果顯示，Optimus-1 在混合多模態記憶體模組的幫助下展現出強大的泛化能力，在許多任務上優於 GPT-4V 基準。
 
 ##### **Exploring the extent of similarities in software failures across industries using LLMs**
-2408.03528v1 by Martin Detloff
+2408.03528v2 by Martin Detloff
 
 The rapid evolution of software development necessitates enhanced safety
 measures. Extracting information about software failures from companies is
@@ -206,11 +206,11 @@ preventing software failures. Leveraging the power of the current FAIL database
 and data visualization, we aim to provide an avenue for safer and more secure
 software in the future.
 
-摘要：<paragraph>軟體開發的快速演進需要增強的安全措施。從新聞文章中擷取關於軟體故障的資訊變得越來越容易取得。
-本研究利用故障分析調查與 LLM（FAIL）模型來擷取特定產業的資訊。雖然 FAIL 模型的資料庫資訊豐富，但可以從進一步的分類和特定產業的見解中受益，以進一步協助軟體工程師。
-在先前的研究中，新聞文章從信譽良好的來源收集，並在資料庫中按事件分類。然後應用提示工程和大型語言模型 (LLM) 來擷取與軟體故障相關的資訊。本研究透過將文章分類到特定領域和軟體故障類型來擴充這些方法。結果透過圖形視覺化呈現。
-分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著更高。此分類為軟體工程師和公司提供有價值的資源，以識別和解決常見故障。
-本研究強調軟體工程和大型語言模型 (LLM) 之間的綜效，以自動化和增強軟體故障分析。透過將資料庫中的資料轉換成特定產業的模型，我們提供有價值的資源，可用於識別常見漏洞、預測潛在風險，並實施預防軟體故障的積極措施。利用現有 FAIL 資料庫和資料視覺化的優勢，我們旨在為未來提供更安全且更穩定的軟體途徑。</paragraph>
+摘要：<paragraph>軟體開發快速演進，迫切需要增強安全措施。從公司新聞文章中萃取軟體故障資訊正變得越來越容易。
+此研究利用大型語言模型（LLM）故障分析調查（FAIL）模型萃取產業特定資訊。儘管 FAIL 模型的資料庫資訊豐富，但若能進一步分類並提供產業特定見解，將有助於軟體工程師。
+在先前的研究中，我們從信譽良好的來源收集新聞文章，並將其分類為資料庫中的事件。接著應用提示工程和大型語言模型（LLM）萃取與軟體故障相關的資訊。此研究透過將文章分類到特定領域和軟體故障類型，延伸了這些方法。結果透過圖表視覺化呈現。
+分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著較高。此分類為軟體工程師和公司提供了寶貴的資源，可識別並解決常見故障。
+此研究強調了軟體工程與大型語言模型（LLM）之間的綜效作用，可自動化並增強軟體故障分析。透過將資料庫中的資料轉換為產業特定模型，我們提供了一項寶貴的資源，可用於識別常見漏洞、預測潛在風險，並實施主動措施來預防軟體故障。我們利用現有 FAIL 資料庫和資料視覺化的優勢，旨在為未來提供更安全且穩定的軟體。</paragraph>
 
 ##### **Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**
 2408.03079v1 by Jinglong Gao, Chen Lu, Xiao Ding, Zhongyang Li, Ting Liu, Bing Qin

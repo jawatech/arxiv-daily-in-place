@@ -9,7 +9,7 @@
 |**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405v1](http://arxiv.org/abs/2408.03405v1)|[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)|
 |**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
-|**2024-08-06**|**The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**|Vanessa Clairoux-Trepanier et.al.|[2408.03354v1](http://arxiv.org/abs/2408.03354v1)|null|
+|**2024-08-06**|**The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**|Vanessa Clairoux-Trepanier et.al.|[2408.03354v2](http://arxiv.org/abs/2408.03354v2)|null|
 |**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
 |**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|null|
 |**2024-08-05**|**Multistain Pretraining for Slide Representation Learning in Pathology**|Guillaume Jaume et.al.|[2408.02859v1](http://arxiv.org/abs/2408.02859v1)|null|
@@ -294,7 +294,7 @@ code and models will be released at https://github.com/wzjialang/PFedSIS.
 摘要：<paragraph>針對手術器械分割（SIS）的個人化聯邦學習（PFL）是一種有前景的方法。它讓多個臨床地點能夠在隱私的條件下共同訓練一系列模型，每個模型都根據每個地點的個別分佈進行調整。現有的 PFL 方法很少考慮多頭自我注意力的個人化，而且沒有考慮外觀的多樣性和器械形狀的相似性，這兩者都存在於手術場景中。因此，我們提出了 PFedSIS，這是一種具有視覺特徵先驗的 SIS 的新型 PFL 方法，它結合了全局個性化解糾纏（GPD）、外觀調節個性化增強（APE）和形狀相似性全局增強（SGE），以提升每個地點的 SIS 效能。GPD 代表了針對多頭自我注意力個性化進行頭部分配的首次嘗試。為了保留每個地點的獨特外觀表示並逐漸利用地點間的差異，APE 引入了外觀調節，並透過超網路為每個地點的個性化參數提供自訂的逐層聚合解決方案。器械的相互形狀資訊透過 SGE 進行維護和共享，這增強了影像層級上的跨風格形狀一致性，並計算每個地點在預測層級上的形狀相似性貢獻，以更新全局參數。PFedSIS 在骰子系數上優於現有最先進的方法，分別提升了 +1.51%、IoU 提升了 +2.11%、ASSD 降低了 -2.79、HD95 效能提升了 -15.55。對應的程式碼和模型將在 https://github.com/wzjialang/PFedSIS 上發布。</paragraph>
 
 ##### **The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**
-2408.03354v1 by Vanessa Clairoux-Trepanier, Isa-May Beauchamp, Estelle Ruellan, Masarah Paquet-Clouston, Serge-Olivier Paquette, Eric Clay
+2408.03354v2 by Vanessa Clairoux-Trepanier, Isa-May Beauchamp, Estelle Ruellan, Masarah Paquet-Clouston, Serge-Olivier Paquette, Eric Clay
 
 Large language models (LLMs) can be used to analyze cyber threat intelligence
 (CTI) data from cybercrime forums, which contain extensive information and key
@@ -303,7 +303,7 @@ accuracy and efficiency of LLMs for such critical tasks has yet to be
 thoroughly evaluated. Hence, this study assesses the accuracy of an LLM system
 built on the OpenAI GPT-3.5-turbo model [7] to extract CTI information. To do
 so, a random sample of 500 daily conversations from three cybercrime forums,
-XSS, Exploit.in, and RAMP, was extracted, and the LLM system was instructed to
+XSS, Exploit_in, and RAMP, was extracted, and the LLM system was instructed to
 summarize the conversations and code 10 key CTI variables, such as whether a
 large organization and/or a critical infrastructure is being targeted. Then,
 two coders reviewed each conversation and evaluated whether the information
@@ -314,7 +314,7 @@ past events, as well as being careful with verb tenses in prompts.
 Nevertheless, the results of this study highlight the efficiency and relevance
 of using LLMs for cyber threat intelligence.
 
-摘要：大型語言模型 (LLM) 可用於分析網路犯罪論壇中的網路威脅情報 (CTI) 資料，這些資料包含大量資訊和關於新興網路威脅的重要討論。然而，到目前為止，LLM 在此類關鍵任務中的準確性和效率尚未得到徹底評估。因此，本研究評估了建立在 OpenAI GPT-3.5-turbo 模型 [7] 上的 LLM 系統提取 CTI 資訊的準確性。為此，從三個網路犯罪論壇 XSS、Exploit.in 和 RAMP 中隨機抽取了 500 個每日對話的樣本，並指示 LLM 系統總結對話並編碼 10 個關鍵 CTI 變數，例如是否針對大型組織和/或關鍵基礎設施。然後，兩位編碼人員檢閱了每個對話，並評估 LLM 提取的資訊是否準確。LLM 系統表現出色，平均準確率為 98%。發現了增強模型的各種方法，例如需要幫助 LLM 區分故事和過去事件，以及在提示中小心動詞時態。儘管如此，本研究的結果強調了使用 LLM 進行網路威脅情報的效率和相關性。
+摘要：大型語言模型 (LLM) 可用於分析網路犯罪論壇中的網路威脅情報 (CTI) 資料，其中包含有關新興網路威脅的豐富資訊和關鍵討論。然而，到目前為止，LLM 對此類關鍵任務的準確性和效率尚未得到徹底評估。因此，本研究評估了建立在 OpenAI GPT-3.5-turbo 模型 [7] 上的 LLM 系統提取 CTI 資訊的準確性。為此，從三個網路犯罪論壇 XSS、Exploit_in 和 RAMP 中隨機抽取了 500 個每日對話，並指示 LLM 系統總結對話並編碼 10 個關鍵 CTI 變數，例如是否針對大型組織和/或關鍵基礎設施。然後，兩個編碼器檢閱每個對話並評估 LLM 提取的資訊是否準確。LLM 系統表現出色，平均準確度分數為 98%。發現了增強模型的各種方法，例如需要幫助 LLM 區分故事和過去事件，以及在提示中小心使用時態。儘管如此，本研究的結果突顯了使用 LLM 進行網路威脅情報的效率和相關性。
 
 ##### **VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**
 2408.02888v1 by Ju-Hyeon Nam, Seo-Hyung Park, Su Jung Kim, Sang-Chul Lee

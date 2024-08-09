@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
+|**2024-08-08**|**MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**|Haoxuan Li et.al.|[2408.04388v1](http://arxiv.org/abs/2408.04388v1)|[link](https://github.com/luminosityx/mm-forecast)|
+|**2024-08-08**|**Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**|Hsuan-Lei Shao et.al.|[2408.04382v1](http://arxiv.org/abs/2408.04382v1)|null|
+|**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|null|
+|**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[link](https://github.com/modelscope/modelscope-agent)|
 |**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|null|
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
@@ -97,13 +102,136 @@
 |**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363v1](http://arxiv.org/abs/2407.04363v1)|[link](https://github.com/airi-institute/arigraph)|
 |**2024-07-04**|**Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**|Peiran Yao et.al.|[2407.04067v1](http://arxiv.org/abs/2407.04067v1)|[link](https://github.com/U-Alberta/AMRS3)|
 |**2024-07-04**|**Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**|Lei Yu et.al.|[2407.03779v1](http://arxiv.org/abs/2407.03779v1)|null|
-|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
-|**2024-07-03**|**Knowledge-based Consistency Testing of Large Language Models**|Sai Sathiesh Rajan et.al.|[2407.12830v1](http://arxiv.org/abs/2407.12830v1)|null|
-|**2024-07-03**|**GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**|Zike Yuan et.al.|[2407.02936v1](http://arxiv.org/abs/2407.02936v1)|[link](https://github.com/zikeyuan/gracore)|
-|**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
-|**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678v1](http://arxiv.org/abs/2407.02678v1)|null|
 
 #### Abstracts
+##### **DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**
+2408.04400v1 by Xin Sun, Liang Wang, Qiang Liu, Shu Wu, Zilei Wang, Liang Wang
+
+This paper addresses the challenge of out-of-distribution (OOD)
+generalization in graph machine learning, a field rapidly advancing yet
+grappling with the discrepancy between source and target data distributions.
+Traditional graph learning algorithms, based on the assumption of uniform
+distribution between training and test data, falter in real-world scenarios
+where this assumption fails, resulting in suboptimal performance. A principal
+factor contributing to this suboptimal performance is the inherent simplicity
+bias of neural networks trained through Stochastic Gradient Descent (SGD),
+which prefer simpler features over more complex yet equally or more predictive
+ones. This bias leads to a reliance on spurious correlations, adversely
+affecting OOD performance in various tasks such as image recognition, natural
+language understanding, and graph classification. Current methodologies,
+including subgraph-mixup and information bottleneck approaches, have achieved
+partial success but struggle to overcome simplicity bias, often reinforcing
+spurious correlations. To tackle this, we propose DIVE, training a collection
+of models to focus on all label-predictive subgraphs by encouraging the models
+to foster divergence on the subgraph mask, which circumvents the limitation of
+a model solely focusing on the subgraph corresponding to simple structural
+patterns. Specifically, we employs a regularizer to punish overlap in extracted
+subgraphs across models, thereby encouraging different models to concentrate on
+distinct structural patterns. Model selection for robust OOD performance is
+achieved through validation accuracy. Tested across four datasets from GOOD
+benchmark and one dataset from DrugOOD benchmark, our approach demonstrates
+significant improvement over existing methods, effectively addressing the
+simplicity bias and enhancing generalization in graph machine learning.
+
+摘要：<paragraph>這篇論文探討了圖形機器學習中非分佈 (OOD) 概化的挑戰，這是一個快速發展的領域，但卻在應對來源和目標資料分佈之間的差異上遇到困難。傳統的圖形學習演算法基於訓練資料和測試資料之間均勻分佈的假設，但在這個假設失效的實際情況中會出現問題，導致次佳效能。造成這種次佳效能的主要因素是透過隨機梯度下降 (SGD) 訓練的神經網路固有的簡化偏差，它偏好較簡單的特徵，而非更複雜但預測能力相同或更高的特徵。這種偏差會導致依賴虛假相關性，對各種任務（例如影像辨識、自然語言理解和圖形分類）的 OOD 效能產生負面影響。目前的技術方法，包括子圖混合和資訊瓶頸方法，已取得部分成功，但仍難以克服簡化偏差，而且常常會強化虛假相關性。為了解決這個問題，我們提出了 DIVE，訓練一組模型以關注所有標籤預測子圖，方法是鼓勵模型在子圖遮罩上促進差異，這避開了模型僅關注對應於簡單結構模式的子圖的限制。具體來說，我們採用一個正規化器來懲罰模型之間提取的子圖中的重疊，從而鼓勵不同的模型專注於不同的結構模式。透過驗證準確度，可以選擇模型以獲得穩健的 OOD 效能。我們的做法在 GOOD 基準中的四個資料集和 DrugOOD 基準中的其中一個資料集上進行了測試，結果顯示出比現有方法有顯著的進步，有效地解決了簡化偏差，並增強了圖形機器學習中的概化能力。</paragraph>
+
+##### **MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**
+2408.04388v1 by Haoxuan Li, Zhengmao Yang, Yunshan Ma, Yi Bin, Yang Yang, Tat-Seng Chua
+
+We study an emerging and intriguing problem of multimodal temporal event
+forecasting with large language models. Compared to using text or graph
+modalities, the investigation of utilizing images for temporal event
+forecasting has not been fully explored, especially in the era of large
+language models (LLMs). To bridge this gap, we are particularly interested in
+two key questions of: 1) why images will help in temporal event forecasting,
+and 2) how to integrate images into the LLM-based forecasting framework. To
+answer these research questions, we propose to identify two essential functions
+that images play in the scenario of temporal event forecasting, i.e.,
+highlighting and complementary. Then, we develop a novel framework, named
+MM-Forecast. It employs an Image Function Identification module to recognize
+these functions as verbal descriptions using multimodal large language models
+(MLLMs), and subsequently incorporates these function descriptions into
+LLM-based forecasting models. To evaluate our approach, we construct a new
+multimodal dataset, MidEast-TE-mm, by extending an existing event dataset
+MidEast-TE-mini with images. Empirical studies demonstrate that our MM-Forecast
+can correctly identify the image functions, and further more, incorporating
+these verbal function descriptions significantly improves the forecasting
+performance. The dataset, code, and prompts are available at
+https://github.com/LuminosityX/MM-Forecast.
+
+摘要：我們研究多模態時間事件預測中一個新興且有趣的語言模型問題。相較於使用文字或圖表模態，利用影像進行時間事件預測的研究尚未被充分探索，特別是在大型語言模型 (LLM) 的時代。為了填補這個空白，我們特別感興趣的兩個關鍵問題是：1) 為什麼影像有助於時間事件預測，以及 2) 如何將影像整合到基於 LLM 的預測框架中。為了回答這些研究問題，我們提議找出影像在時間事件預測場景中扮演的兩個基本功能，即突顯和補充。然後，我們開發一個名為 MM-Forecast 的新框架。它使用影像功能識別模組，使用多模態大型語言模型 (MLLM) 將這些功能識別為文字描述，並隨後將這些功能描述納入基於 LLM 的預測模型中。為了評估我們的方法，我們通過使用影像擴充現有的事件資料集 MidEast-TE-mini，建構了一個新的多模態資料集 MidEast-TE-mm。實證研究表明，我們的 MM-Forecast 可以正確識別影像功能，此外，納入這些文字功能描述可以顯著改善預測效能。資料集、程式碼和提示可在 https://github.com/LuminosityX/MM-Forecast 取得。
+
+##### **Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**
+2408.04382v1 by Hsuan-Lei Shao
+
+In court practice, legal professionals rely on their training to provide
+opinions that resolve cases, one of the most crucial aspects being the ability
+to identify similar judgments from previous courts efficiently. However,
+finding a similar case is challenging and often depends on experience, legal
+domain knowledge, and extensive labor hours, making veteran lawyers or judges
+indispensable. This research aims to automate the analysis of judgment text
+similarity. We utilized a judgment dataset labeled as the "golden standard" by
+experts, which includes human-verified features that can be converted into an
+"expert similarity score." We then constructed a knowledge graph based on
+"case-article" relationships, ranking each case using natural language
+processing to derive a "Node2vec similarity score." By evaluating these two
+similarity scores, we identified their discrepancies and relationships. The
+results can significantly reduce the labor hours required for legal searches
+and recommendations, with potential applications extending to various fields of
+information retrieval.
+
+摘要：在法庭實務中，法律專業人士依賴其培訓提供意見以解決案件，其中最關鍵的方面之一是有效識別先前法院的類似判決的能力。然而，找出類似案件具有挑戰性，且通常取決於經驗、法律領域知識和大量的勞動時間，這使得資深律師或法官不可或缺。本研究旨在自動化判決文本相似性的分析。我們利用專家標記為「黃金標準」的判決資料集，其中包括可轉換為「專家相似性評分」的人工驗證特徵。然後，我們根據「案例-條文」關係建構知識圖譜，使用自然語言處理對每個案例進行排名，以得出「Node2vec 相似性評分」。透過評估這兩個相似性評分，我們找出其差異和關係。結果可以大幅減少法律搜尋和建議所需的勞動時間，潛在應用範圍擴及資訊檢索的各個領域。
+
+##### **wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**
+2408.04174v1 by Khai Le-Duc, Quy-Anh Dang, Tan-Hanh Pham, Truong-Son Hy
+
+Knowledge graphs (KGs) enhance the performance of large language models
+(LLMs) and search engines by providing structured, interconnected data that
+improves reasoning and context-awareness. However, KGs only focus on text data,
+thereby neglecting other modalities such as speech. In this work, we introduce
+wav2graph, the first framework for supervised learning knowledge graph from
+speech data. Our pipeline are straightforward: (1) constructing a KG based on
+transcribed spoken utterances and a named entity database, (2) converting KG
+into embedding vectors, and (3) training graph neural networks (GNNs) for node
+classification and link prediction tasks. Through extensive experiments
+conducted in inductive and transductive learning contexts using
+state-of-the-art GNN models, we provide baseline results and error analysis for
+node classification and link prediction tasks on human transcripts and
+automatic speech recognition (ASR) transcripts, including evaluations using
+both encoder-based and decoder-based node embeddings, as well as monolingual
+and multilingual acoustic pre-trained models. All related code, data, and
+models are published online.
+
+摘要：知識圖譜 (KG) 透過提供結構化、相互連結的資料，進而改善大型語言模型 (LLM) 和搜尋引擎的效能，提升推理和脈絡感知。然而，KG 只關注文字資料，因此忽略了其他形式，例如語音。在這項工作中，我們介紹 wav2graph，這是第一個從語音資料中監督學習知識圖譜的架構。我們的流程很直接：(1) 根據轉錄的口語表達和命名實體資料庫建構 KG，(2) 將 KG 轉換為嵌入向量，以及 (3) 訓練圖形神經網路 (GNN) 以進行節點分類和連結預測任務。透過使用最先進的 GNN 模型在歸納和轉導學習的環境中進行廣泛的實驗，我們提供節點分類和連結預測任務的基準結果和錯誤分析，其中包括使用編碼器為基礎和解碼器為基礎的節點嵌入，以及單語和多語音學預訓練模型的評估。所有相關程式碼、資料和模型皆已在線上發布。
+
+##### **ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**
+2408.04102v1 by William Y. Zhu, Keren Ye, Junjie Ke, Jiahui Yu, Leonidas Guibas, Peyman Milanfar, Feng Yang
+
+Recognizing and disentangling visual attributes from objects is a foundation
+to many computer vision applications. While large vision language
+representations like CLIP had largely resolved the task of zero-shot object
+recognition, zero-shot visual attribute recognition remains a challenge because
+CLIP's contrastively-learned vision-language representation cannot effectively
+capture object-attribute dependencies. In this paper, we target this weakness
+and propose a sentence generation-based retrieval formulation for attribute
+recognition that is novel in 1) explicitly modeling a to-be-measured and
+retrieved object-attribute relation as a conditional probability graph, which
+converts the recognition problem into a dependency-sensitive language-modeling
+problem, and 2) applying a large pretrained Vision-Language Model (VLM) on this
+reformulation and naturally distilling its knowledge of image-object-attribute
+relations to use towards attribute recognition. Specifically, for each
+attribute to be recognized on an image, we measure the visual-conditioned
+probability of generating a short sentence encoding the attribute's relation to
+objects on the image. Unlike contrastive retrieval, which measures likelihood
+by globally aligning elements of the sentence to the image, generative
+retrieval is sensitive to the order and dependency of objects and attributes in
+the sentence. We demonstrate through experiments that generative retrieval
+consistently outperforms contrastive retrieval on two visual reasoning
+datasets, Visual Attribute in the Wild (VAW), and our newly-proposed Visual
+Genome Attribute Ranking (VGARank).
+
+摘要：辨識和區分物件的視覺屬性，是許多電腦視覺應用程式的基礎。雖然像 CLIP 這樣的大型視覺語言表徵，已在很大程度上解決了零次學習物件辨識的任務，但零次學習視覺屬性辨識仍然是一個挑戰，因為 CLIP 對比學習的視覺語言表徵，無法有效擷取物件屬性依賴性。在本文中，我們針對此弱點，並提出一個基於句子生成的檢索公式，用於屬性辨識，其新穎之處在於：1) 明確地將待測量和檢索的物件屬性關係建模為條件機率圖，這將辨識問題轉換為依賴敏感的語言模型問題；2) 在此重新公式化上應用大型預訓練的視覺語言模型 (VLM)，並自然地萃取其對影像物件屬性關係的知識，用於屬性辨識。具體來說，對於要在影像上辨識的每個屬性，我們測量在影像上編碼屬性與物件關係的簡短句子的視覺條件機率。與對比檢索不同，對比檢索是透過將句子的元素整體比對到影像來測量可能性，生成檢索則對句子中物件和屬性的順序和依賴性很敏感。我們透過實驗證明，生成檢索在兩個視覺推理資料集，野外視覺屬性 (VAW) 和我們新提出的視覺基因組屬性排名 (VGARank) 上，始終優於對比檢索。
+
 ##### **CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**
 2408.03910v1 by Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Wenmeng Zhou, Fei Wang, Michael Shieh
 
@@ -2390,108 +2518,4 @@ insights into the internal workings of generative AI.
 
 摘要：<paragraph>在本文中，我們介紹了對稱為電路發現任務的全面重新表述，以及 DiscoGP，一種基於可微遮罩的發現電路的新穎且有效的演算法。電路發現是透過將其功能和能力解剖成稀疏子網路（電路）來詮釋語言模型（LM）的運算機制的任務。我們在現有的電路發現工作中發現了兩個主要的限制：（1）基於權重和基於連接邊緣的方法之間的二分法迫使研究人員在修剪連接或權重之間進行選擇，從而限制了 LM 機制詮釋的範圍；（2）基於啟用修補的演算法傾向於識別在功能上既不忠實也不完整的電路。這些已識別電路的效能大幅降低，通常導致孤立的近乎隨機效能。此外，電路的補數——即移除已識別電路的原始 LM——仍保留了足夠的效能，這表示現有方法錯失了完整電路的基本組成部分。
 DiscoGP 成功地解決了上述兩個問題，並展示了最先進的忠實度、完整性和稀疏性。該演算法的有效性和其新穎的結構為深入瞭解生成式 AI 的內部運作開闢了新的途徑。</paragraph>
-
-##### **BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**
-2407.03314v1 by Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng
-
-This paper presents Bag-of-Concept Graph (BACON) to gift models with limited
-linguistic abilities to taste the privilege of Vision Language Models (VLMs)
-and boost downstream tasks such as detection, visual question answering (VQA),
-and image generation. Since the visual scenes in physical worlds are structured
-with complex relations between objects, BACON breaks down annotations into
-basic minimum elements and presents them in a graph structure. Element-wise
-style enables easy understanding, and structural composition liberates
-difficult locating. Careful prompt design births the BACON captions with the
-help of public-available VLMs and segmentation methods. In this way, we gather
-a dataset with 100K annotated images, which endow VLMs with remarkable
-capabilities, such as accurately generating BACON, transforming prompts into
-BACON format, envisioning scenarios in the style of BACONr, and dynamically
-modifying elements within BACON through interactive dialogue and more. Wide
-representative experiments, including detection, VQA, and image generation
-tasks, tell BACON as a lifeline to achieve previous out-of-reach tasks or excel
-in their current cutting-edge solutions.
-
-摘要：本文提出 Bag-of-Concept Graph (BACON)，赋予语言能力有限的模型品尝视觉语言模型 (VLM) 的特权，并提升下游任务，例如检测、视觉问答 (VQA) 和图像生成。由于物理世界中的视觉场景是由对象之间的复杂关系构建而成的，因此 BACON 将注释分解为基本的最小元素，并以图形结构呈现它们。基于元素的风格便于理解，结构化组合解放了困难的定位。在公共可用 VLM 和分割方法的帮助下，精心设计的提示生成了 BACON 标题。通过这种方式，我们收集了一个包含 100K 张注释图像的数据集，该数据集赋予 VLM 显著的能力，例如准确生成 BACON、将提示转换为 BACON 格式、以 BACONr 的风格设想场景，以及通过交互式对话动态修改 BACON 中的元素等等。广泛的代表性实验，包括检测、VQA 和图像生成任务，表明 BACON 作为一条生命线，可以实现以前无法实现的任务，或在当前的尖端解决方案中表现出色。
-
-##### **Knowledge-based Consistency Testing of Large Language Models**
-2407.12830v1 by Sai Sathiesh Rajan, Ezekiel Soremekun, Sudipta Chattopadhyay
-
-In this work, we systematically expose and measure the inconsistency and
-knowledge gaps of Large Language Models (LLMs). Specifically, we propose an
-automated testing framework (called KONTEST) which leverages a knowledge graph
-to construct test cases. KONTEST probes and measures the inconsistencies in the
-LLM's knowledge of the world via a combination of semantically-equivalent
-queries and test oracles (metamorphic or ontological oracle). KONTEST further
-mitigates knowledge gaps via a weighted LLM model ensemble. Using four
-state-of-the-art LLMs (Falcon, Gemini, GPT3.5, and Llama2), we show that
-KONTEST generates 19.2% error inducing inputs (1917 errors from 9983 test
-inputs). It also reveals a 16.5% knowledge gap across all tested LLMs.
-KONTEST's mitigation method reduces LLM knowledge gap by 32.48%. Our ablation
-study further shows that GPT3.5 is not suitable for knowledge-based consistency
-testing because it is only 60%-68% effective in knowledge construction.
-
-摘要：在這項工作中，我們系統性地揭露並衡量大型語言模型 (LLM) 的不一致性和知識差距。具體來說，我們提出了一個自動化測試框架 (稱為 KONTEST)，它利用知識圖譜來建構測試案例。KONTEST 通過語義等效查詢和測試預言 (變形或本體論預言) 的組合來探測和衡量 LLM 對世界知識的不一致性。KONTEST 進一步通過加權 LLM 模型集成來緩解知識差距。使用四種最先進的 LLM（Falcon、Gemini、GPT3.5 和 Llama2），我們表明 KONTEST 生成了 19.2% 的錯誤誘發輸入（9983 個測試輸入中的 1917 個錯誤）。它還揭示了所有測試的 LLM 中有 16.5% 的知識差距。KONTEST 的緩解方法將 LLM 知識差距減少了 32.48%。我們的消融研究進一步表明，GPT3.5 不適合用於基於知識的一致性測試，因為它在知識建構中只有 60%-68% 的有效性。
-
-##### **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models**
-2407.02936v1 by Zike Yuan, Ming Liu, Hui Wang, Bing Qin
-
-Evaluating the graph comprehension and reasoning abilities of Large Language
-Models (LLMs) is challenging and often incomplete. Existing benchmarks focus
-primarily on pure graph understanding, lacking a comprehensive evaluation
-across all graph types and detailed capability definitions. This paper presents
-GraCoRe, a benchmark for systematically assessing LLMs' graph comprehension and
-reasoning. GraCoRe uses a three-tier hierarchical taxonomy to categorize and
-test models on pure graph and heterogeneous graphs, subdividing capabilities
-into 10 distinct areas tested through 19 tasks. Our benchmark includes 11
-datasets with 5,140 graphs of varying complexity. We evaluated three
-closed-source and seven open-source LLMs, conducting thorough analyses from
-both ability and task perspectives. Key findings reveal that semantic
-enrichment enhances reasoning performance, node ordering impacts task success,
-and the ability to process longer texts does not necessarily improve graph
-comprehension or reasoning. GraCoRe is open-sourced at
-https://github.com/ZIKEYUAN/GraCoRe
-
-摘要：評估大型語言模型 (LLM) 的圖形理解和推理能力具有挑戰性，且通常不完整。現有的基準主要著重於純粹的圖形理解，缺乏對所有圖形類型和詳細功能定義的全面評估。本文提出了 GraCoRe，一個用於系統評估 LLM 的圖形理解和推理的基準。GraCoRe 使用三層階層分類法對模型進行分類和測試，將功能細分為 10 個不同的領域，並通過 19 個任務進行測試。我們的基準包含 11 個數據集，其中包含 5,140 個不同複雜度的圖形。我們評估了三個閉源和七個開源 LLM，從能力和任務角度進行了徹底的分析。主要發現表明語義豐富化增強了推理性能，節點排序影響任務成功，而處理較長文本的能力並不一定能改善圖形理解或推理。GraCoRe 在 https://github.com/ZIKEYUAN/GraCoRe 開源
-
-##### **Croppable Knowledge Graph Embedding**
-2407.02779v1 by Yushan Zhu, Wen Zhang, Zhiqiang Liu, Mingyang Chen, Lei Liang, Huajun Chen
-
-Knowledge Graph Embedding (KGE) is a common method for Knowledge Graphs (KGs)
-to serve various artificial intelligence tasks. The suitable dimensions of the
-embeddings depend on the storage and computing conditions of the specific
-application scenarios. Once a new dimension is required, a new KGE model needs
-to be trained from scratch, which greatly increases the training cost and
-limits the efficiency and flexibility of KGE in serving various scenarios. In
-this work, we propose a novel KGE training framework MED, through which we
-could train once to get a croppable KGE model applicable to multiple scenarios
-with different dimensional requirements, sub-models of the required dimensions
-can be cropped out of it and used directly without any additional training. In
-MED, we propose a mutual learning mechanism to improve the low-dimensional
-sub-models performance and make the high-dimensional sub-models retain the
-capacity that low-dimensional sub-models have, an evolutionary improvement
-mechanism to promote the high-dimensional sub-models to master the knowledge
-that the low-dimensional sub-models can not learn, and a dynamic loss weight to
-balance the multiple losses adaptively. Experiments on 3 KGE models over 4
-standard KG completion datasets, 3 real application scenarios over a real-world
-large-scale KG, and the experiments of extending MED to the language model BERT
-show the effectiveness, high efficiency, and flexible extensibility of MED.
-
-摘要：知識圖嵌入 (KGE) 是知識圖 (KG) 用於服務各種人工智慧任務的常見方法。嵌入的適當維度取決於特定應用場景的儲存和運算條件。一旦需要新的維度，就需要從頭訓練新的 KGE 模型，這大大增加了訓練成本，並限制了 KGE 在服務各種場景中的效率和靈活性。在這項工作中，我們提出了一種新穎的 KGE 訓練框架 MED，通過它，我們可以訓練一次以獲得適用於具有不同維度需求的多個場景的可裁剪 KGE 模型，可以從中裁剪出所需維度的子模型並直接使用，而無需任何額外訓練。在 MED 中，我們提出了一種相互學習機制，以提高低維子模型的效能，並使高維子模型保留低維子模型具有的能力，一種進化改進機制，以促進高維子模型掌握低維子模型無法學習的知識，以及一種動態損失權重，以自適應地平衡多重損失。在 4 個標準 KG 完成資料集上的 3 個 KGE 模型、一個真實世界大規模 KG 上的 3 個實際應用場景以及將 MED 擴展到語言模型 BERT 的實驗中，展示了 MED 的有效性、高效率和靈活的可擴充性。
-
-##### **Reasoning in Large Language Models: A Geometric Perspective**
-2407.02678v1 by Romain Cosentino, Sarath Shekkizhar
-
-The advancement of large language models (LLMs) for real-world applications
-hinges critically on enhancing their reasoning capabilities. In this work, we
-explore the reasoning abilities of large language models (LLMs) through their
-geometrical understanding. We establish a connection between the expressive
-power of LLMs and the density of their self-attention graphs. Our analysis
-demonstrates that the density of these graphs defines the intrinsic dimension
-of the inputs to the MLP blocks. We demonstrate through theoretical analysis
-and toy examples that a higher intrinsic dimension implies a greater expressive
-capacity of the LLM. We further provide empirical evidence linking this
-geometric framework to recent advancements in methods aimed at enhancing the
-reasoning capabilities of LLMs.
-
-摘要：大型語言模型 (LLM) 在實際應用中的進展，關鍵在於提升其推理能力。在這項工作中，我們透過大型語言模型 (LLM) 的幾何理解，探討其推理能力。我們建立了 LLM 的表達能力與其自注意力圖密度之間的關聯。我們的分析證明，這些圖的密度定義了 MLP 塊輸入的內在維度。我們透過理論分析和玩具範例證明，較高的內在維度意味著 LLM 具有更大的表達能力。我們進一步提供經驗證據，將這個幾何框架連結到最近在旨在增強 LLM 推理能力的方法中取得的進展。
 

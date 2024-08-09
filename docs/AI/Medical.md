@@ -2,6 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**|Vandan Gorade et.al.|[2408.04491v1](http://arxiv.org/abs/2408.04491v1)|null|
+|**2024-08-08**|**Non-maximizing policies that fulfill multi-criterion aspirations in expectation**|Simon Dima et.al.|[2408.04385v1](http://arxiv.org/abs/2408.04385v1)|null|
+|**2024-08-08**|**AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**|Mugheez Asif et.al.|[2408.04281v1](http://arxiv.org/abs/2408.04281v1)|null|
+|**2024-08-08**|**The Data Addition Dilemma**|Judy Hanwen Shen et.al.|[2408.04154v1](http://arxiv.org/abs/2408.04154v1)|[link](https://github.com/the-chen-lab/data-addition-dilemma)|
+|**2024-08-08**|**Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering**|Haoran Yu et.al.|[2408.04138v1](http://arxiv.org/abs/2408.04138v1)|null|
+|**2024-08-07**|**Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology**|Panagiotis Fytas et.al.|[2408.04121v1](http://arxiv.org/abs/2408.04121v1)|null|
+|**2024-08-07**|**Multimodal Gender Fairness in Depression Prediction: Insights on Data from the USA & China**|Joseph Cameron et.al.|[2408.04026v1](http://arxiv.org/abs/2408.04026v1)|null|
 |**2024-08-07**|**Inter-Series Transformer: Attending to Products in Time Series Forecasting**|Rares Cristian et.al.|[2408.03872v1](http://arxiv.org/abs/2408.03872v1)|null|
 |**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|null|
 |**2024-08-07**|**Improving the quality of Persian clinical text with a novel spelling correction system**|Seyed Mohammad Sadegh Dashti et.al.|[2408.03622v1](http://arxiv.org/abs/2408.03622v1)|null|
@@ -11,7 +18,7 @@
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
 |**2024-08-06**|**The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**|Vanessa Clairoux-Trepanier et.al.|[2408.03354v2](http://arxiv.org/abs/2408.03354v2)|null|
 |**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
-|**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|null|
+|**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|[link](https://github.com/HUANGLIZI/VisionUnite)|
 |**2024-08-05**|**Multistain Pretraining for Slide Representation Learning in Pathology**|Guillaume Jaume et.al.|[2408.02859v1](http://arxiv.org/abs/2408.02859v1)|null|
 |**2024-08-05**|**A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**|Zheng Han et.al.|[2408.02713v1](http://arxiv.org/abs/2408.02713v1)|null|
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
@@ -95,15 +102,172 @@
 |**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
 |**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734v1](http://arxiv.org/abs/2407.17734v1)|[link](https://github.com/jlinekai/clover)|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
-|**2024-07-24**|**Improving ICD coding using Chapter based Named Entities and Attentional Models**|Abhijith R. Beeravolu et.al.|[2407.17230v1](http://arxiv.org/abs/2407.17230v1)|null|
-|**2024-07-24**|**Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**|Xiaoyu Tan et.al.|[2407.17164v2](http://arxiv.org/abs/2407.17164v2)|null|
-|**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126v1](http://arxiv.org/abs/2407.17126v1)|null|
-|**2024-07-24**|**SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**|Changchang Yin et.al.|[2407.16999v1](http://arxiv.org/abs/2407.16999v1)|[link](https://github.com/yinchangchang/sepsislab)|
-|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962v1](http://arxiv.org/abs/2407.16962v1)|[link](https://github.com/inteligensi/dsapomdps.jl)|
-|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
-|**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804v1](http://arxiv.org/abs/2407.16804v1)|null|
 
 #### Abstracts
+##### **Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**
+2408.04491v1 by Vandan Gorade, Onkar Susladkar, Gorkem Durak, Elif Keles, Ertugrul Aktas, Timurhan Cebeci, Alpay Medetalibeyoglu, Daniela Ladner, Debesh Jha, Ulas Bagci
+
+Liver cirrhosis, a leading cause of global mortality, requires precise
+segmentation of ROIs for effective disease monitoring and treatment planning.
+Existing segmentation models often fail to capture complex feature interactions
+and generalize across diverse datasets. To address these limitations, we
+propose a novel synergistic theory that leverages complementary latent spaces
+for enhanced feature interaction modeling. Our proposed architecture,
+nnSynergyNet3D integrates continuous and discrete latent spaces for 3D volumes
+and features auto-configured training. This approach captures both fine-grained
+and coarse features, enabling effective modeling of intricate feature
+interactions. We empirically validated nnSynergyNet3D on a private dataset of
+628 high-resolution T1 abdominal MRI scans from 339 patients. Our model
+outperformed the baseline nnUNet3D by approximately 2%. Additionally, zero-shot
+testing on healthy liver CT scans from the public LiTS dataset demonstrated
+superior cross-modal generalization capabilities. These results highlight the
+potential of synergistic latent space models to improve segmentation accuracy
+and robustness, thereby enhancing clinical workflows by ensuring consistency
+across CT and MRI modalities.
+
+摘要：肝硬化是全球死亡的主要原因，需要对 ROI 进行精确分割，以进行有效的疾病监测和治疗计划。现有的分割模型通常无法捕捉复杂的特征交互，并在不同的数据集上进行泛化。为了解决这些限制，我们提出了一种新颖的协同理论，该理论利用互补的潜在空间来增强特征交互建模。我们提出的架构 nnSynergyNet3D 集成了连续和离散的潜在空间，用于 3D 体积，并具有自动配置的训练。这种方法捕捉到了细粒度和粗粒度特征，从而能够有效地对复杂的特征交互进行建模。我们根据 339 名患者的 628 个高分辨率 T1 腹部 MRI 扫描的私有数据集对 nnSynergyNet3D 进行了实证验证。我们的模型比基线 nnUNet3D 的性能提高了大约 2%。此外，在来自公共 LiTS 数据集的健康肝脏 CT 扫描上进行零样本测试证明了其卓越的跨模态泛化能力。这些结果突出了协同潜在空间模型在提高分割精度和鲁棒性方面的潜力，从而通过确保 CT 和 MRI 模态的一致性来增强临床工作流程。
+
+##### **Non-maximizing policies that fulfill multi-criterion aspirations in expectation**
+2408.04385v1 by Simon Dima, Simon Fischer, Jobst Heitzig, Joss Oliver
+
+In dynamic programming and reinforcement learning, the policy for the
+sequential decision making of an agent in a stochastic environment is usually
+determined by expressing the goal as a scalar reward function and seeking a
+policy that maximizes the expected total reward. However, many goals that
+humans care about naturally concern multiple aspects of the world, and it may
+not be obvious how to condense those into a single reward function.
+Furthermore, maximization suffers from specification gaming, where the obtained
+policy achieves a high expected total reward in an unintended way, often taking
+extreme or nonsensical actions.
+  Here we consider finite acyclic Markov Decision Processes with multiple
+distinct evaluation metrics, which do not necessarily represent quantities that
+the user wants to be maximized. We assume the task of the agent is to ensure
+that the vector of expected totals of the evaluation metrics falls into some
+given convex set, called the aspiration set. Our algorithm guarantees that this
+task is fulfilled by using simplices to approximate feasibility sets and
+propagate aspirations forward while ensuring they remain feasible. It has
+complexity linear in the number of possible state-action-successor triples and
+polynomial in the number of evaluation metrics. Moreover, the explicitly
+non-maximizing nature of the chosen policy and goals yields additional degrees
+of freedom, which can be used to apply heuristic safety criteria to the choice
+of actions. We discuss several such safety criteria that aim to steer the agent
+towards more conservative behavior.
+
+摘要：在動態規劃和強化學習中，代理人在隨機環境中進行順序決策的策略通常通過將目標表達為標量獎勵函數並尋求最大化預期總獎勵的策略來確定。然而，人類關心的許多目標自然涉及世界的多個方面，並且可能並不清楚如何將這些目標濃縮成單一的獎勵函數。此外，最大化會受到規範博弈的影響，其中獲得的策略以意外的方式實現了很高的預期總獎勵，通常採取極端或荒謬的行動。
+在這裡，我們考慮具有多個不同評估指標的有限無環馬可夫決策過程，這些指標不一定表示用戶希望最大化的數量。我們假設代理人的任務是確保評估指標預期總量的向量落入某個給定的凸集，稱為願望集。我們的演算法保證通過使用單形來逼近可行集並在確保可行性的同時向前傳播願望來完成此任務。它的複雜度與可能的狀態-動作-後繼三元組的數量呈線性關係，與評估指標的數量呈多項式關係。此外，所選策略和目標的顯式非最大化性質產生了額外的自由度，可用於將啟發式安全準則應用於動作的選擇。我們討論了幾個這樣的安全準則，旨在引導代理人採取更保守的行為。
+
+##### **AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**
+2408.04281v1 by Mugheez Asif, Abdul Manan, Abdul Moiz ur Rehman, Mamoona Naveed Asghar, Muhammad Umair
+
+In today's contemporary digital landscape, chatbots have become indispensable
+tools across various sectors, streamlining customer service, providing personal
+assistance, automating routine tasks, and offering health advice. However,
+their potential remains underexplored in the realm of network security,
+particularly for intrusion detection. To bridge this gap, we propose an
+architecture chatbot specifically designed to enhance security within edge
+networks specifically for intrusion detection. Leveraging advanced machine
+learning algorithms, this chatbot will monitor network traffic to identify and
+mitigate potential intrusions. By securing the network environment using an
+edge network managed by a Raspberry Pi module and ensuring ethical user consent
+promoting transparency and trust, this innovative solution aims to safeguard
+sensitive data and maintain a secure workplace, thereby addressing the growing
+need for robust network security measures in the digital age.
+
+摘要：在當今的現代數位環境中，聊天機器人已成為各個產業不可或缺的工具，簡化客戶服務、提供個人協助、自動化例行工作並提供健康建議。然而，它們在網路安全領域的潛力仍未得到充分探索，特別是在入侵偵測方面。為了彌補這個差距，我們提出了一種專門設計用於增強邊緣網路內部安全性的架構聊天機器人，特別是用於入侵偵測。透過利用先進的機器學習演算法，此聊天機器人將監控網路流量以識別和減輕潛在入侵。透過使用由 Raspberry Pi 模組管理的邊緣網路來保護網路環境，並確保合乎道德的使用者同意以促進透明度和信任，這個創新的解決方案旨在保護敏感資料並維護一個安全的工作場所，從而滿足數位時代對強大網路安全措施日益增長的需求。
+
+##### **The Data Addition Dilemma**
+2408.04154v1 by Judy Hanwen Shen, Inioluwa Deborah Raji, Irene Y. Chen
+
+In many machine learning for healthcare tasks, standard datasets are
+constructed by amassing data across many, often fundamentally dissimilar,
+sources. But when does adding more data help, and when does it hinder progress
+on desired model outcomes in real-world settings? We identify this situation as
+the \textit{Data Addition Dilemma}, demonstrating that adding training data in
+this multi-source scaling context can at times result in reduced overall
+accuracy, uncertain fairness outcomes, and reduced worst-subgroup performance.
+We find that this possibly arises from an empirically observed trade-off
+between model performance improvements due to data scaling and model
+deterioration from distribution shift. We thus establish baseline strategies
+for navigating this dilemma, introducing distribution shift heuristics to guide
+decision-making on which data sources to add in data scaling, in order to yield
+the expected model performance improvements. We conclude with a discussion of
+the required considerations for data collection and suggestions for studying
+data composition and scale in the age of increasingly larger models.
+
+摘要：在許多醫療保健任務的機器學習中，標準資料集是透過收集來自許多通常根本不同的來源的資料而建構的。但是，何時新增更多資料有幫助，而何時會阻礙在現實世界設定中達成預期的模型成果？我們將此情況認定為「資料新增困境」，證明在此多來源擴充的背景下新增訓練資料，有時可能會導致整體準確度降低、不確定的公平性結果，以及最差子群體效能降低。我們發現這可能是由於資料擴充導致的模型效能提升與分配轉移導致的模型劣化之間的經驗性權衡所致。因此，我們建立了應對此困境的基本策略，引入了分配轉移啟發法，以指導有關在資料擴充中新增哪些資料來源的決策制定，以產生預期的模型效能提升。我們最後討論了資料收集所需的考量因素，並建議研究資料組成和規模在模型規模日益擴大的時代。
+
+##### **Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering**
+2408.04138v1 by Haoran Yu, Chang Yu, Zihan Wang, Dongxian Zou, Hao Qin
+
+In recent years, the application of Large Language Models (LLMs) in
+healthcare has shown significant promise in improving the accessibility and
+dissemination of medical knowledge. This paper presents a detailed study of
+various LLMs trained on the MedQuAD medical question-answering dataset, with a
+focus on identifying the most effective model for providing accurate medical
+information. Among the models tested, the Sentence-t5 combined with Mistral 7B
+demonstrated superior performance, achieving a precision score of 0.762. This
+model's enhanced capabilities are attributed to its advanced pretraining
+techniques, robust architecture, and effective prompt construction
+methodologies. By leveraging these strengths, the Sentence-t5 + Mistral 7B
+model excels in understanding and generating precise medical answers. Our
+findings highlight the potential of integrating sophisticated LLMs in medical
+contexts to facilitate efficient and accurate medical knowledge retrieval, thus
+significantly enhancing patient education and support.
+
+摘要：近年來，大型語言模型 (LLM) 在醫療保健中的應用已展現出顯著的希望，可改善醫療知識的可及性和傳播。本文針對在 MedQuAD 醫療問答資料集上訓練的各種 LLM 進行詳細研究，重點在於找出提供準確醫療資訊最有效的模型。在測試的模型中，Sentence-t5 結合 Mistral 7B 表現優異，達到 0.762 的精準度分數。此模型的增強功能歸功於其先進的預訓練技術、強大的架構和有效的提示建構方法。Sentence-t5 + Mistral 7B 模型藉由運用這些優勢，在理解和產生精確的醫療答案方面表現出色。我們的研究結果突顯了將複雜的 LLM 整合到醫療背景中的潛力，以促進有效率且準確的醫療知識擷取，進而顯著提升病患教育和支持。
+
+##### **Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology**
+2408.04121v1 by Panagiotis Fytas, Anna Breger, Ian Selby, Simon Baker, Shahab Shahipasand, Anna Korhonen
+
+Developing imaging models capable of detecting pathologies from chest X-rays
+can be cost and time-prohibitive for large datasets as it requires supervision
+to attain state-of-the-art performance. Instead, labels extracted from
+radiology reports may serve as distant supervision since these are routinely
+generated as part of clinical practice. Despite their widespread use, current
+rule-based methods for label extraction rely on extensive rule sets that are
+limited in their robustness to syntactic variability. To alleviate these
+limitations, we introduce RadPert, a rule-based system that integrates an
+uncertainty-aware information schema with a streamlined set of rules, enhancing
+performance. Additionally, we have developed RadPrompt, a multi-turn prompting
+strategy that leverages RadPert to bolster the zero-shot predictive
+capabilities of large language models, achieving a statistically significant
+improvement in weighted average F1 score over GPT-4 Turbo. Most notably,
+RadPrompt surpasses both its underlying models, showcasing the synergistic
+potential of LLMs with rule-based models. We have evaluated our methods on two
+English Corpora: the MIMIC-CXR gold-standard test set and a gold-standard
+dataset collected from the Cambridge University Hospitals.
+
+摘要：開發出能夠從胸部 X 光檢測病理的影像模型，對於大型資料集來說，在成本和時間上都可能是禁止的，因為它需要監督才能達到最先進的效能。相反地，從放射科報告中提取的標籤可以用作遠端監督，因為這些標籤通常作為臨床實務的一部分而產生。儘管廣泛使用，但目前用於標籤提取的基於規則的方法依賴於廣泛的規則集，其對語法變異的健壯性有限。為了減輕這些限制，我們引入了 RadPert，這是一個基於規則的系統，它將一個不確定性感知資訊架構與一組簡化的規則整合在一起，從而增強了效能。此外，我們還開發了 RadPrompt，這是一個多輪提示策略，它利用 RadPert 來加強大型語言模型的零次學習預測能力，在加權平均 F1 分數上實現了相對於 GPT-4 Turbo 的統計顯著改進。最值得注意的是，RadPrompt 超越了其基礎模型，展示了基於規則的模型與 LLM 的協同潛力。我們已在兩個英文語料庫上評估了我們的方法：MIMIC-CXR 黃金標準測試集和從劍橋大學醫院收集的黃金標準資料集。
+
+##### **Multimodal Gender Fairness in Depression Prediction: Insights on Data from the USA & China**
+2408.04026v1 by Joseph Cameron, Jiaee Cheong, Micol Spitale, Hatice Gunes
+
+Social agents and robots are increasingly being used in wellbeing settings.
+However, a key challenge is that these agents and robots typically rely on
+machine learning (ML) algorithms to detect and analyse an individual's mental
+wellbeing. The problem of bias and fairness in ML algorithms is becoming an
+increasingly greater source of concern. In concurrence, existing literature has
+also indicated that mental health conditions can manifest differently across
+genders and cultures. We hypothesise that the representation of features
+(acoustic, textual, and visual) and their inter-modal relations would vary
+among subjects from different cultures and genders, thus impacting the
+performance and fairness of various ML models. We present the very first
+evaluation of multimodal gender fairness in depression manifestation by
+undertaking a study on two different datasets from the USA and China. We
+undertake thorough statistical and ML experimentation and repeat the
+experiments for several different algorithms to ensure that the results are not
+algorithm-dependent. Our findings indicate that though there are differences
+between both datasets, it is not conclusive whether this is due to the
+difference in depression manifestation as hypothesised or other external
+factors such as differences in data collection methodology. Our findings
+further motivate a call for a more consistent and culturally aware data
+collection process in order to address the problem of ML bias in depression
+detection and to promote the development of fairer agents and robots for
+wellbeing.
+
+摘要：社群代理人和機器人在幸福感設定中正越來越廣泛地被使用。
+然而，一個關鍵的挑戰是這些代理人和機器人通常依賴機器學習 (ML) 演算法來偵測和分析個人心理健康。ML 演算法中的偏差和公平性問題正成為越來越大的關注來源。同時，現有文獻也指出心理健康狀況會在不同性別和文化中以不同的方式顯現。我們假設特徵（聲音、文字和視覺）的呈現及其跨模態關係會因不同文化和性別的受試者而異，從而影響各種 ML 模型的效能和公平性。我們透過對來自美國和中國的兩個不同資料集進行研究，提出首次對憂鬱症表現的多模態性別公平性評估。我們進行徹底的統計和 ML 實驗，並針對多種不同的演算法重複實驗，以確保結果不依賴於演算法。我們的研究結果表明，儘管兩個資料集之間存在差異，但無法確定這是否是由於假設的憂鬱症表現差異或其他外部因素（例如資料收集方法的差異）所造成。我們的研究結果進一步呼籲採用更一致且具有文化意識的資料收集程序，以解決憂鬱症偵測中的 ML 偏差問題，並促進開發更公平的代理人和機器人，以提升幸福感。
+
 ##### **Inter-Series Transformer: Attending to Products in Time Series Forecasting**
 2408.03872v1 by Rares Cristian, Pavithra Harsha, Clemente Ocejo, Georgia Perakis, Brian Quanz, Ioannis Spantidakis, Hamza Zerhouni
 
@@ -2427,187 +2591,4 @@ offers a significant advancement in dementia diagnosis, providing a highly
 accurate and efficient tool for clinical applications.
 
 摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
-
-##### **Improving ICD coding using Chapter based Named Entities and Attentional Models**
-2407.17230v1 by Abhijith R. Beeravolu, Mirjam Jonkman, Sami Azam, Friso De Boer
-
-Recent advancements in natural language processing (NLP) have led to
-automation in various domains. However, clinical NLP often relies on benchmark
-datasets that may not reflect real-world scenarios accurately. Automatic ICD
-coding, a vital NLP task, typically uses outdated and imbalanced datasets like
-MIMIC-III, with existing methods yielding micro-averaged F1 scores between 0.4
-and 0.7 due to many false positives. Our research introduces an enhanced
-approach to ICD coding that improves F1 scores by using chapter-based named
-entities and attentional models. This method categorizes discharge summaries
-into ICD-9 Chapters and develops attentional models with chapter-specific data,
-eliminating the need to consider external data for code identification. For
-categorization, we use Chapter-IV to de-bias and influence key entities and
-weights without neural networks, creating accurate thresholds and providing
-interpretability for human validation. Post-validation, we develop attentional
-models for three frequent and three non-frequent codes from Chapter-IV using
-Bidirectional-Gated Recurrent Units (GRUs) with Attention and Transformer with
-Multi-head Attention architectures. The average Micro-F1 scores of 0.79 and
-0.81 from these models demonstrate significant performance improvements in ICD
-coding.
-
-摘要：自然語言處理 (NLP) 的最新進展已導致各種領域的自動化。然而，臨床 NLP 通常依賴於基準資料集，這些資料集可能無法準確反映真實世界的場景。自動 ICD 編碼是一項重要的 NLP 任務，通常使用過時且不平衡的資料集，例如 MIMIC-III，由於許多假陽性，現有方法產生的微平均 F1 分數介於 0.4 和 0.7 之間。我們的研究引入了一種增強的 ICD 編碼方法，通過使用基於章節的命名實體和注意力模型來提高 F1 分數。此方法將出院摘要分類為 ICD-9 章節，並使用章節特定資料開發注意力模型，消除了考慮外部資料以進行代碼識別的需要。對於分類，我們使用 Chapter-IV 來消除偏差並影響關鍵實體和權重，而無需神經網路，從而建立準確的閾值並提供人類驗證的可解釋性。在驗證之後，我們使用帶有注意力和多頭注意架構的雙向門控遞迴單元 (GRU) 和 Transformer，為 Chapter-IV 中的三個頻繁和三個非頻繁代碼開發注意力模型。這些模型的平均微 F1 分數為 0.79 和 0.81，表明 ICD 編碼的效能有了顯著的提升。
-
-##### **Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence**
-2407.17164v2 by Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu, Wei Chu
-
-Integrating deep neural networks with the Hawkes process has significantly
-improved predictive capabilities in finance, health informatics, and
-information technology. Nevertheless, these models often face challenges in
-real-world settings, particularly due to substantial label noise. This issue is
-of significant concern in the medical field, where label noise can arise from
-delayed updates in electronic medical records or misdiagnoses, leading to
-increased prediction risks. Our research indicates that deep Hawkes process
-models exhibit reduced robustness when dealing with label noise, particularly
-when it affects both event types and timing. To address these challenges, we
-first investigate the influence of label noise in approximated intensity
-functions and present a novel framework, the Robust Deep Hawkes Process (RDHP),
-to overcome the impact of label noise on the intensity function of Hawkes
-models, considering both the events and their occurrences. We tested RDHP using
-multiple open-source benchmarks with synthetic noise and conducted a case study
-on obstructive sleep apnea-hypopnea syndrome (OSAHS) in a real-world setting
-with inherent label noise. The results demonstrate that RDHP can effectively
-perform classification and regression tasks, even in the presence of noise
-related to events and their timing. To the best of our knowledge, this is the
-first study to successfully address both event and time label noise in deep
-Hawkes process models, offering a promising solution for medical applications,
-specifically in diagnosing OSAHS.
-
-摘要：將深度神經網路與霍克斯過程整合，已顯著提升金融、健康資訊學和資訊科技的預測能力。儘管如此，這些模型在現實世界中經常面臨挑戰，特別是因為標籤雜訊很大。這個問題在醫學領域中特別令人擔憂，因為標籤雜訊可能來自電子病歷的延遲更新或誤診，導致預測風險增加。我們的研究表明，處理標籤雜訊時，深度霍克斯過程模型的穩健性會降低，特別是當它影響事件類型和時間點時。為了應對這些挑戰，我們首先研究標籤雜訊對近似強度函數的影響，並提出一個新的架構，即穩健深度霍克斯過程 (RDHP)，以克服標籤雜訊對霍克斯模型強度函數的影響，同時考慮事件及其發生。我們使用多個帶有合成雜訊的開源基準測試 RDHP，並在現實世界中對阻塞性睡眠呼吸中止低通氣症候群 (OSAHS) 進行案例研究，其中存在固有的標籤雜訊。結果表明，即使在與事件及其時間點相關的雜訊存在的情況下，RDHP 仍能有效執行分類和回歸任務。據我們所知，這是第一個成功解決深度霍克斯過程模型中事件和時間標籤雜訊的研究，為醫療應用（特別是在診斷 OSAHS 時）提供了一個有希望的解決方案。
-
-##### **SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**
-2407.17126v1 by Bernardo Consoli, Xizhi Wu, Song Wang, Xinyu Zhao, Yanshan Wang, Justin Rousseau, Tom Hartvigsen, Li Shen, Huanmei Wu, Yifan Peng, Qi Long, Tianlong Chen, Ying Ding
-
-Extracting social determinants of health (SDoH) from unstructured medical
-notes depends heavily on labor-intensive annotations, which are typically
-task-specific, hampering reusability and limiting sharing. In this study we
-introduced SDoH-GPT, a simple and effective few-shot Large Language Model (LLM)
-method leveraging contrastive examples and concise instructions to extract SDoH
-without relying on extensive medical annotations or costly human intervention.
-It achieved tenfold and twentyfold reductions in time and cost respectively,
-and superior consistency with human annotators measured by Cohen's kappa of up
-to 0.92. The innovative combination of SDoH-GPT and XGBoost leverages the
-strengths of both, ensuring high accuracy and computational efficiency while
-consistently maintaining 0.90+ AUROC scores. Testing across three distinct
-datasets has confirmed its robustness and accuracy. This study highlights the
-potential of leveraging LLMs to revolutionize medical note classification,
-demonstrating their capability to achieve highly accurate classifications with
-significantly reduced time and cost.
-
-摘要：從非結構化的醫療筆記中萃取健康的社會決定因素 (SDoH) 仰賴大量的人工標註，而這些標註通常是針對特定任務，這會阻礙可重複使用性並限制分享。在這項研究中，我們引入了 SDoH-GPT，一種簡單且有效的方法，它利用對比範例和簡潔的指示來萃取 SDoH，而不需要仰賴大量的醫療標註或昂貴的人工介入。它分別在時間和成本上達到了十倍和二十倍的降低，並且與人類標註者的優異一致性，由 Cohen's kappa 測量高達 0.92。SDoH-GPT 和 XGBoost 的創新結合利用了兩者的優點，確保了高準確度和運算效率，同時始終維持 0.90+ 的 AUROC 分數。在三個不同的資料集上進行測試已經確認了它的穩健性和準確性。這項研究突顯了利用 LLM 來革新醫療筆記分類的潛力，展示了它們在顯著減少時間和成本的情況下實現高度準確分類的能力。
-
-##### **SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**
-2407.16999v1 by Changchang Yin, Pin-Yu Chen, Bingsheng Yao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
-
-Sepsis is the leading cause of in-hospital mortality in the USA. Early sepsis
-onset prediction and diagnosis could significantly improve the survival of
-sepsis patients. Existing predictive models are usually trained on high-quality
-data with few missing information, while missing values widely exist in
-real-world clinical scenarios (especially in the first hours of admissions to
-the hospital), which causes a significant decrease in accuracy and an increase
-in uncertainty for the predictive models. The common method to handle missing
-values is imputation, which replaces the unavailable variables with estimates
-from the observed data. The uncertainty of imputation results can be propagated
-to the sepsis prediction outputs, which have not been studied in existing works
-on either sepsis prediction or uncertainty quantification. In this study, we
-first define such propagated uncertainty as the variance of prediction output
-and then introduce uncertainty propagation methods to quantify the propagated
-uncertainty. Moreover, for the potential high-risk patients with low confidence
-due to limited observations, we propose a robust active sensing algorithm to
-increase confidence by actively recommending clinicians to observe the most
-informative variables. We validate the proposed models in both publicly
-available data (i.e., MIMIC-III and AmsterdamUMCdb) and proprietary data in The
-Ohio State University Wexner Medical Center (OSUWMC). The experimental results
-show that the propagated uncertainty is dominant at the beginning of admissions
-to hospitals and the proposed algorithm outperforms state-of-the-art active
-sensing methods. Finally, we implement a SepsisLab system for early sepsis
-prediction and active sensing based on our pre-trained models. Clinicians and
-potential sepsis patients can benefit from the system in early prediction and
-diagnosis of sepsis.
-
-摘要：敗血症是美國醫院中死亡的主要原因。敗血症的早期發作預測和診斷可以顯著提高敗血症患者的存活率。現有的預測模型通常在資料品質高且遺失資訊較少的情況下進行訓練，而遺失值在實際臨床情境中普遍存在（尤其是在入院的前幾個小時），這會導致預測模型的準確度顯著下降，並增加不確定性。處理遺失值的常見方法是內插，它使用從觀測資料中估計的數值取代不可用的變數。內插結果的不確定性可能會傳播到敗血症預測輸出，這在現有的敗血症預測或不確定性量化研究中尚未被探討。在這項研究中，我們首先將這種傳播的不確定性定義為預測輸出的變異，然後引入不確定性傳播方法來量化傳播的不確定性。此外，對於由於觀察有限而導致信心較低的潛在高風險患者，我們提出了一種強大的主動感測演算法，透過主動建議臨床醫生觀察最有資訊性的變數來增加信心。我們在公開資料（例如 MIMIC-III 和 AmsterdamUMCdb）和俄亥俄州立大學韋克斯納醫學中心 (OSUWMC) 的專有資料中驗證了所提出的模型。實驗結果表明，傳播的不確定性在入院初期佔主導地位，而所提出的演算法優於最先進的主動感測方法。最後，我們根據預先訓練的模型實作了一個敗血症實驗室系統，用於早期敗血症預測和主動感測。臨床醫生和潛在的敗血症患者可以在敗血症的早期預測和診斷中受益於該系統。
-
-##### **Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**
-2407.16962v1 by Nur Ahmad Khatim, Ahmad Azmul Asmar Irfan, Amaliya Mata'ul Hayah, Mansur M. Arief
-
-This study addresses the challenge of stroke diagnosis and treatment under
-uncertainty, a critical issue given the rapid progression and severe
-consequences of stroke conditions such as aneurysms, arteriovenous
-malformations (AVM), and occlusions. Current diagnostic methods, including
-Digital Subtraction Angiography (DSA), face limitations due to high costs and
-its invasive nature. To overcome these challenges, we propose a novel approach
-using a Partially Observable Markov Decision Process (POMDP) framework. Our
-model integrates advanced diagnostic tools and treatment approaches with a
-decision-making algorithm that accounts for the inherent uncertainties in
-stroke diagnosis. Our approach combines noisy observations from CT scans,
-Siriraj scores, and DSA reports to inform the subsequent treatment options. We
-utilize the online solver DESPOT, which employs tree-search methods and
-particle filters, to simulate potential future scenarios and guide our
-strategies. The results indicate that our POMDP framework balances diagnostic
-and treatment objectives, striking a tradeoff between the need for precise
-stroke identification via invasive procedures like DSA and the constraints of
-limited healthcare resources that necessitate more cost-effective strategies,
-such as in-hospital or at-home observation, by relying only relying on
-simulation rollouts and not imposing any prior knowledge. Our study offers a
-significant contribution by presenting a systematic framework that optimally
-integrates diagnostic and treatment processes for stroke and accounting for
-various uncertainties, thereby improving care and outcomes in stroke
-management.
-
-摘要：本研究探討在不確定性下中風的診斷和治療的挑戰，這是考量到中風狀況（例如動脈瘤、動靜脈畸形 (AVM) 和阻塞）的快速進展和嚴重後果而出現的關鍵問題。目前的診斷方法（包括數位減影血管攝影 (DSA)）由於成本高昂和侵入性而面臨限制。為了克服這些挑戰，我們提出了一種使用部分可觀察馬可夫決策過程 (POMDP) 架構的新穎方法。我們的模型整合了先進的診斷工具和治療方法，以及一個決策演算法，該演算法考量了中風診斷中固有的不確定性。我們的做法結合了來自電腦斷層掃描、Siriraj 評分和 DSA 報告的雜訊觀測值，以告知後續的治療選項。我們利用線上求解器 DESPOT，它採用樹狀搜尋方法和粒子濾波器，模擬潛在的未來情境並指導我們的策略。結果表明，我們的 POMDP 架構平衡了診斷和治療目標，在透過 DSA 等侵入性程序精確識別中風的需求與需要更具成本效益的策略（例如住院或居家觀察）的醫療資源限制之間取得平衡，僅依賴模擬推出且不施加任何先驗知識。我們的研究透過提出一個系統性架構，最佳化整合中風的診斷和治療過程並考量各種不確定性，從而改善中風管理的照護和結果，做出了重大貢獻。
-
-##### **AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**
-2407.16822v1 by Yuheng Wang, Tianze Yu, Jiayue Cai, Sunil Kalia, Harvey Lui, Z. Jane Wang, Tim K. Lee
-
-The 7-point checklist (7PCL) is widely used in dermoscopy to identify
-malignant melanoma lesions needing urgent medical attention. It assigns point
-values to seven attributes: major attributes are worth two points each, and
-minor ones are worth one point each. A total score of three or higher prompts
-further evaluation, often including a biopsy. However, a significant limitation
-of current methods is the uniform weighting of attributes, which leads to
-imprecision and neglects their interconnections. Previous deep learning studies
-have treated the prediction of each attribute with the same importance as
-predicting melanoma, which fails to recognize the clinical significance of the
-attributes for melanoma. To address these limitations, we introduce a novel
-diagnostic method that integrates two innovative elements: a Clinical
-Knowledge-Based Topological Graph (CKTG) and a Gradient Diagnostic Strategy
-with Data-Driven Weighting Standards (GD-DDW). The CKTG integrates 7PCL
-attributes with diagnostic information, revealing both internal and external
-associations. By employing adaptive receptive domains and weighted edges, we
-establish connections among melanoma's relevant features. Concurrently, GD-DDW
-emulates dermatologists' diagnostic processes, who first observe the visual
-characteristics associated with melanoma and then make predictions. Our model
-uses two imaging modalities for the same lesion, ensuring comprehensive feature
-acquisition. Our method shows outstanding performance in predicting malignant
-melanoma and its features, achieving an average AUC value of 85%. This was
-validated on the EDRA dataset, the largest publicly available dataset for the
-7-point checklist algorithm. Specifically, the integrated weighting system can
-provide clinicians with valuable data-driven benchmarks for their evaluations.
-
-摘要：7 點檢查表 (7PCL) 廣泛用於皮膚鏡檢查，以識別需要緊急醫療照護的惡性黑色素瘤病灶。它為七個屬性分配分數：主要屬性各值兩分，次要屬性各值一分。總分為三或以上表示需要進一步評估，通常包括活檢。然而，目前方法的一個重大限制是屬性的統一加權，導致不精確且忽略它們之間的相互關聯。先前的深度學習研究將每個屬性的預測視為與預測黑色素瘤同等重要，這未能認識到屬性對黑色素瘤的臨床意義。為了解決這些限制，我們引入一種新的診斷方法，結合了兩個創新元素：基於臨床知識的拓撲圖 (CKTG) 和具有數據驅動加權標準的梯度診斷策略 (GD-DDW)。CKTG 將 7PCL 屬性與診斷信息整合在一起，揭示了內部和外部關聯。通過採用自適應感受域和加權邊緣，我們建立了黑色素瘤相關特徵之間的聯繫。同時，GD-DDW 模仿皮膚科醫生的診斷過程，他們首先觀察與黑色素瘤相關的視覺特徵，然後做出預測。我們的模型對同一個病灶使用兩種成像方式，確保全面獲取特徵。我們的這種方法在預測惡性黑色素瘤及其特徵方面表現出色，平均 AUC 值達到 85%。這已在 EDRA 數據集上得到驗證，該數據集是 7 點檢查表算法最大的公開可用數據集。具體來說，集成的加權系統可以為臨床醫生提供有價值的數據驅動基準，供他們評估。
-
-##### **Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**
-2407.16804v1 by Zahraa Al Sahili, Ioannis Patras, Matthew Purver
-
-The application of machine learning (ML) in detecting, diagnosing, and
-treating mental health disorders is garnering increasing attention.
-Traditionally, research has focused on single modalities, such as text from
-clinical notes, audio from speech samples, or video of interaction patterns.
-Recently, multimodal ML, which combines information from multiple modalities,
-has demonstrated significant promise in offering novel insights into human
-behavior patterns and recognizing mental health symptoms and risk factors.
-Despite its potential, multimodal ML in mental health remains an emerging
-field, facing several complex challenges before practical applications can be
-effectively developed. This survey provides a comprehensive overview of the
-data availability and current state-of-the-art multimodal ML applications for
-mental health. It discusses key challenges that must be addressed to advance
-the field. The insights from this survey aim to deepen the understanding of the
-potential and limitations of multimodal ML in mental health, guiding future
-research and development in this evolving domain.
-
-摘要：機器學習（ML）在偵測、診斷和治療心理健康疾病中的應用正越來越受到重視。傳統上，研究著重於單一模式，例如臨床筆記中的文字、語音樣本中的音訊或互動模式的影片。最近，結合多模式資訊的多模態 ML 已展現出顯著的潛力，可提供對人類行為模式的新見解，並識別心理健康症狀和風險因子。儘管具有潛力，心理健康中的多模態 ML 仍是一個新興領域，在實際應用可以有效開發之前，面臨數項複雜挑戰。本調查提供了心理健康中資料可用性和當前最先進的多模態 ML 應用之全面概觀。它討論了必須解決的關鍵挑戰，以推動該領域的進步。本調查的見解旨在加深對多模態 ML 在心理健康中的潛力和限制的理解，引導這個不斷演變領域未來的研究和發展。
 

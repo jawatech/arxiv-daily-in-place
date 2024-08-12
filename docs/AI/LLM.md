@@ -8,7 +8,7 @@
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614v1](http://arxiv.org/abs/2408.04614v1)|null|
 |**2024-08-08**|**Code-switching in text and speech reveals information-theoretic audience design**|Debasmita Bhattacharya et.al.|[2408.04596v1](http://arxiv.org/abs/2408.04596v1)|null|
-|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v1](http://arxiv.org/abs/2408.04594v1)|[link](https://github.com/modelscope/data-juicer)|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v2](http://arxiv.org/abs/2408.04594v2)|[link](https://github.com/modelscope/data-juicer)|
 |**2024-08-08**|**HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts**|Hongjun Wang et.al.|[2408.04591v1](http://arxiv.org/abs/2408.04591v1)|null|
 |**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585v1](http://arxiv.org/abs/2408.04585v1)|null|
 |**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|
@@ -77,7 +77,7 @@
 |**2024-08-07**|**Patchview: LLM-Powered Worldbuilding with Generative Dust and Magnet Visualization**|John Joon Young Chung et.al.|[2408.04112v1](http://arxiv.org/abs/2408.04112v1)|null|
 |**2024-08-07**|**Hardware-Assisted Virtualization of Neural Processing Units for Cloud Platforms**|Yuqi Xue et.al.|[2408.04104v1](http://arxiv.org/abs/2408.04104v1)|null|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
-|**2024-08-07**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093v1](http://arxiv.org/abs/2408.04093v1)|null|
+|**2024-08-07**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093v2](http://arxiv.org/abs/2408.04093v2)|[link](https://github.com/zyphra/tree_attention)|
 |**2024-08-07**|**AEye: A Visualization Tool for Image Datasets**|Florian Grötschla et.al.|[2408.04072v1](http://arxiv.org/abs/2408.04072v1)|[link](https://github.com/eth-disco/aeye)|
 |**2024-08-07**|**Digital Avatars: Framework Development and Their Evaluation**|Timothy Rupprecht et.al.|[2408.04068v1](http://arxiv.org/abs/2408.04068v1)|null|
 |**2024-08-07**|**PowerPM: Foundation Model for Power Systems**|Shihao Tu et.al.|[2408.04057v1](http://arxiv.org/abs/2408.04057v1)|null|
@@ -99,7 +99,7 @@
 |**2024-08-07**|**Why transformers are obviously good models of language**|Felix Hill et.al.|[2408.03855v1](http://arxiv.org/abs/2408.03855v1)|null|
 |**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849v1](http://arxiv.org/abs/2408.03849v1)|null|
 |**2024-08-07**|**MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models**|Yuchen Dong et.al.|[2408.03841v1](http://arxiv.org/abs/2408.03841v1)|null|
-|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837v1](http://arxiv.org/abs/2408.03837v1)|[link](https://github.com/walledai/walledeval)|
+|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837v2](http://arxiv.org/abs/2408.03837v2)|[link](https://github.com/walledai/walledeval)|
 |**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834v1](http://arxiv.org/abs/2408.03834v1)|null|
 |**2024-08-07**|**Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps**|Forough Mehralian et.al.|[2408.03827v1](http://arxiv.org/abs/2408.03827v1)|null|
 
@@ -251,7 +251,7 @@ and speech.
 摘要：在這項工作中，我們使用語言模型來探討影響代碼轉換的因素。代碼轉換發生在說話者在一個語言變體（主要語言）和另一個（次要語言）之間交替時，並且在多語言環境中廣泛觀察到。最近的研究表明，代碼轉換通常與主要語言中資訊負載高的區域相關，但目前尚不清楚高主要語言負載是否僅使次要語言在代碼轉換點更容易產生（說話者驅動的代碼轉換），或是否代碼轉換進一步由說話者用於傳達聽眾需要更多注意的需要（受眾驅動的代碼轉換）。在本文中，我們使用雙語中英語線上論壇文章和自發中英語語音的轉錄，以複製先前的發現，即高主要語言（中文）資訊負載與轉換到次要語言（英語）相關。然後，我們證明英語產出的資訊負載甚至高於意義等價的中文選項，因此這些選項並不容易產生，提供了在代碼轉換中受眾驅動影響的證據，不僅在社會語言層面，也在寫作和語音中，在溝通管道層面。
 
 ##### **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**
-2408.04594v1 by Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen
+2408.04594v2 by Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen
 
 High-performance Multimodal Large Language Models (MLLMs) rely heavily on
 data quality. This study introduces a novel dataset named Img-Diff, designed to
@@ -264,20 +264,20 @@ highlight object replacements. Our methodology includes a Difference Area
 Generator for object differences identifying, followed by a Difference Captions
 Generator for detailed difference descriptions. The result is a relatively
 small but high-quality dataset of "object replacement" samples. We use the the
-proposed dataset to fine-tune state-of-the-art (SOTA) MLLMs such as MGM-7B,
+proposed dataset to finetune state-of-the-art (SOTA) MLLMs such as MGM-7B,
 yielding comprehensive improvements of performance scores over SOTA models that
 trained with larger-scale datasets, in numerous image difference and Visual
 Question Answering tasks. For instance, our trained models notably surpass the
 SOTA models GPT-4V and Gemini on the MMVP benchmark. Besides, we investigate
 alternative methods for generating image difference data through "object
-removal" and conduct thorough evaluation to confirm the dataset's diversity,
-quality, and robustness, presenting several insights on synthesis of such
+removal" and conduct a thorough evaluation to confirm the dataset's diversity,
+quality, and robustness, presenting several insights on the synthesis of such a
 contrastive dataset. To encourage further research and advance the field of
 multimodal data synthesis and enhancement of MLLMs' fundamental capabilities
 for image understanding, we release our codes and dataset at
 https://github.com/modelscope/data-juicer/tree/ImgDiff.
 
-摘要：高性能多模态大型语言模型 (MLLM) 严重依赖数据质量。本研究引入了一个名为 Img-Diff 的新数据集，旨在通过利用对比学习和图像差异描述的见解来增强 MLLM 中的细粒度图像识别。通过分析相似图像之间的对象差异，我们挑战模型识别匹配和不同的组件。我们利用 Stable-Diffusion-XL 模型和先进的图像编辑技术创建了一对相似图像，突出显示对象替换。我们的方法包括用于识别对象差异的差异区域生成器，然后是用于详细差异描述的差异描述生成器。结果是一个相对较小但高质量的“对象替换”样本数据集。我们使用所提出的数据集对最先进 (SOTA) MLLM（例如 MGM-7B）进行微调，在众多图像差异和视觉问答任务中，与使用更大规模数据集训练的 SOTA 模型相比，性能得分得到了全面提高。例如，我们训练的模型在 MMVP 基准上明显超越了 SOTA 模型 GPT-4V 和 Gemini。此外，我们研究了通过“对象移除”生成图像差异数据的替代方法，并进行了彻底的评估以确认数据集的多样性、质量和鲁棒性，提出了对这种对比数据集合成的若干见解。为了鼓励进一步的研究和推进多模态数据合成和增强 MLLM 对图像理解的基本能力的领域，我们在 https://github.com/modelscope/data-juicer/tree/ImgDiff 上发布了我们的代码和数据集。
+摘要：高性能多模态大型语言模型 (MLLM) 严重依赖数据质量。本研究引入了一个名为 Img-Diff 的新数据集，旨在通过利用对比学习和图像差异描述中的见解来增强 MLLM 中的细粒度图像识别。通过分析类似图像之间的对象差异，我们挑战模型识别匹配和不同的组件。我们利用 Stable-Diffusion-XL 模型和高级图像编辑技术来创建成对的相似图像，以突出对象替换。我们的方法包括一个用于识别对象差异的差异区域生成器，然后是一个用于详细差异描述的差异描述生成器。结果是一个相对较小但高质量的“对象替换”样本数据集。我们使用所提出的数据集对最先进 (SOTA) MLLM（例如 MGM-7B）进行微调，在众多图像差异和视觉问答任务中产生比使用更大规模数据集训练的 SOTA 模型更全面的性能得分改进。例如，我们训练的模型在 MMVP 基准上明显超过了 SOTA 模型 GPT-4V 和 Gemini。此外，我们研究了通过“对象移除”生成图像差异数据的替代方法，并进行了彻底的评估以确认数据集的多样性、质量和鲁棒性，并提出了对这种对比数据集合成的若干见解。为了鼓励进一步的研究和推进多模态数据合成和增强 MLLM 的图像理解基本能力的领域，我们在 https://github.com/modelscope/data-juicer/tree/ImgDiff 上发布了我们的代码和数据集。
 
 ##### **HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts**
 2408.04591v1 by Hongjun Wang, Sagar Vaze, Kai Han
@@ -1865,7 +1865,7 @@ Genome Attribute Ranking (VGARank).
 摘要：辨識和區分物件的視覺屬性，是許多電腦視覺應用程式的基礎。雖然像 CLIP 這樣的大型視覺語言表徵，已在很大程度上解決了零次學習物件辨識的任務，但零次學習視覺屬性辨識仍然是一個挑戰，因為 CLIP 對比學習的視覺語言表徵，無法有效擷取物件屬性依賴性。在本文中，我們針對此弱點，並提出一個基於句子生成的檢索公式，用於屬性辨識，其新穎之處在於：1) 明確地將待測量和檢索的物件屬性關係建模為條件機率圖，這將辨識問題轉換為依賴敏感的語言模型問題；2) 在此重新公式化上應用大型預訓練的視覺語言模型 (VLM)，並自然地萃取其對影像物件屬性關係的知識，用於屬性辨識。具體來說，對於要在影像上辨識的每個屬性，我們測量在影像上編碼屬性與物件關係的簡短句子的視覺條件機率。與對比檢索不同，對比檢索是透過將句子的元素整體比對到影像來測量可能性，生成檢索則對句子中物件和屬性的順序和依賴性很敏感。我們透過實驗證明，生成檢索在兩個視覺推理資料集，野外視覺屬性 (VAW) 和我們新提出的視覺基因組屬性排名 (VGARank) 上，始終優於對比檢索。
 
 ##### **Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**
-2408.04093v1 by Vasudev Shyam, Jonathan Pilault, Emily Shepperd, Quentin Anthony, Beren Millidge
+2408.04093v2 by Vasudev Shyam, Jonathan Pilault, Emily Shepperd, Quentin Anthony, Beren Millidge
 
 Self-attention is the core mathematical operation of modern transformer
 architectures and is also a significant computational bottleneck due to its
@@ -1873,21 +1873,16 @@ quadratic complexity in the sequence length. In this work, we derive the scalar
 energy function whose gradient computes the self-attention block, thus
 elucidating the theoretical underpinnings of self-attention, providing a
 Bayesian interpretation of the operation and linking it closely with
-energy-based models such as Hopfield Networks. Moreover, due to this
-formulation, we discover that we can use efficient and optimized
-automatic-differentiation techniques to derive a highly efficient Tree
-Attention algorithm to compute the gradient of the energy and hence
-self-attention. Our formulation reveals that the reduction across the sequence
-axis can be efficiently computed in parallel through a tree reduction. Our
-algorithm, for parallelizing attention computation across multiple GPUs,
-enables cross-device decoding to be performed asymptotically faster (up to 8x
-faster) than alternative approaches such as Ring Attention, while also
-requiring significantly less communication volume and incurring 2x less peak
-memory. Our code is publicly available here:
-\url{https://github.com/Zyphra/tree_attention}
+energy-based models such as Hopfield Networks. Our formulation reveals that the
+reduction across the sequence axis can be efficiently computed in parallel
+through a tree reduction. Our algorithm, for parallelizing attention
+computation across multiple GPUs enables cross-device decoding to be performed
+asymptotically faster (up to 8x faster in our experiments) than alternative
+approaches such as Ring Attention, while also requiring significantly less
+communication volume and incurring 2x less peak memory. Our code is publicly
+available here: \url{https://github.com/Zyphra/tree_attention}.
 
-摘要：自我注意力是現代Transformer架構的核心數學運算，而且由於其在序列長度中的二次複雜性，它也是一個重要的計算瓶頸。在這項工作中，我們推導出標量能量函數，其梯度計算自我注意力區塊，從而闡明自我注意力的理論基礎，提供該運算的貝葉斯詮釋，並將其與基於能量的模型（例如霍普菲爾德網路）緊密連結。此外，由於這個公式，我們發現我們可以使用高效且最佳化的自動微分技術來推導一個高效的樹注意力演算法，以計算能量的梯度，從而自我注意。我們的公式揭示了序列軸上的約簡可以透過樹約簡有效地並行計算。我們的演算法，用於在多個 GPU 上並行化注意力計算，使跨裝置解碼能夠比替代方法（例如環形注意力）執行得更快（快 8 倍），同時也需要顯著減少通訊量，並減少 2 倍的峰值記憶體。我們的程式碼在此公開：
-\url{https://github.com/Zyphra/tree_attention}
+摘要：自注意力是現代Transformer架構的核心數學運算，並且由於其在序列長度上的二次複雜度，也是重要的計算瓶頸。在這項工作中，我們推導出梯度計算自注意力區塊的標量能量函數，從而闡明自注意力的理論基礎，提供該運算的貝氏解釋，並將其與基於能量的模型（例如 Hopfield 網路）緊密聯繫起來。我們的公式揭示了序列軸上的約簡可以通過樹約簡有效地並行計算。我們的演算法，用於在多個 GPU 上並行化注意力計算，使跨裝置解碼能夠比 Ring Attention 等替代方法執行漸近更快（在我們的實驗中快 8 倍），同時也需要顯著更少的通信量，並產生 2 倍更少的峰值記憶體。我們的程式碼在此公開：\url{https://github.com/Zyphra/tree_attention}。
 
 ##### **AEye: A Visualization Tool for Image Datasets**
 2408.04072v1 by Florian Grötschla, Luca A. Lanzendörfer, Marco Calzavara, Roger Wattenhofer
@@ -2384,7 +2379,7 @@ to enhance the capabilities and productivity of LLM systems in SOTG.
 摘要：大型語言模型的應用有助於促進自動化軟體操作和工具生成 (SOTG)，進而提升軟體生產力，這反映了人類演化的早期階段，當時創造和使用工具的能力加速了文明的進步。這些複雜的任務需要 AI 持續總結和改進。目前的許多研究常常忽略將即時任務經驗轉換為系統記憶，以及區分現有知識對未來參考價值的重要性。本文透過將外部記憶模型演變成記憶迴圈網路，以實現及時記憶和經驗參考，來解決這些問題。我們也透過知識精準分段來強化 RAG 機制，以根據價值區分來利用記憶，並據此設計用於 SOTG 的 MaxMind 模型。為了展示我們的做法，我們開發了 MaxMind4Sheet，這是一個與 MaxMind 理念一致的電子試算表處理系統。與 SheetCopilot 進行的比較實驗已證明，任務記憶的累積和再利用會持續提升任務成功率，在此實作範例中，每回合的提升率約為 3%-6%。請注意，隨著記憶的持續增加，這種累積提升可能會很可觀。納入記憶再利用也能提升系統的任務執行效率，最高可達 25%，而且它能透過記憶轉移來解決 LLM 在處理專業任務時所面臨的重新訓練問題。這些都顯示出 MaxMind 在提升 LLM 系統在 SOTG 中的能力和生產力方面具有顯著的潛力。
 
 ##### **WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**
-2408.03837v1 by Prannaya Gupta, Le Qi Yau, Hao Han Low, I-Shiang Lee, Hugo Maximus Lim, Yu Xin Teoh, Jia Hng Koh, Dar Win Liew, Rishabh Bhardwaj, Rajat Bhardwaj, Soujanya Poria
+2408.03837v2 by Prannaya Gupta, Le Qi Yau, Hao Han Low, I-Shiang Lee, Hugo Maximus Lim, Yu Xin Teoh, Jia Hng Koh, Dar Win Liew, Rishabh Bhardwaj, Rajat Bhardwaj, Soujanya Poria
 
 WalledEval is a comprehensive AI safety testing toolkit designed to evaluate
 large language models (LLMs). It accommodates a diverse range of models,
@@ -2396,9 +2391,9 @@ mutations such as future tense and paraphrasing. Additionally, WalledEval
 introduces WalledGuard, a new, small and performant content moderation tool,
 and SGXSTest, a benchmark for assessing exaggerated safety in cultural
 contexts. We make WalledEval publicly available at
-https://github.com/walledai/walledevalA.
+https://github.com/walledai/walledeval
 
-摘要：WalledEval 是一個全面的 AI 安全測試工具包，旨在評估大型語言模型 (LLM)。它容納了各種模型，包括開放權重和基於 API 的模型，並具有超過 35 個安全基準，涵蓋多語言安全、誇張安全和提示注入等領域。該框架支援 LLM 和評審基準測試，並整合自訂變異器，以針對各種文字樣式變異（例如未來式和同義改寫）測試安全性。此外，WalledEval 引入了 WalledGuard，這是一個新的、小巧且高效的內容審核工具，以及 SGXSTest，一個用於評估文化背景中誇大安全性的基準。我們在 https://github.com/walledai/walledevalA 上公開 WalledEval。
+摘要：WalledEval 是一款全面的 AI 安全測試工具包，旨在評估大型語言模型 (LLM)。它適用於各種模型，包括開放權重和基於 API 的模型，並具有超過 35 個安全基準，涵蓋多語言安全、誇大安全和提示注入等領域。該框架同時支援 LLM 和評審基準測試，並整合自訂變異器，以針對各種文本樣式變異（例如未來式和同義改寫）測試安全性。此外，WalledEval 還引入了 WalledGuard，這是一款全新、小巧且效能良好的內容審核工具，以及 SGXSTest，一個用於評估文化背景中誇大安全的基準。我們在 https://github.com/walledai/walledeval 上公開 WalledEval
 
 ##### **Target Prompting for Information Extraction with Vision Language Model**
 2408.03834v1 by Dipankar Medhi

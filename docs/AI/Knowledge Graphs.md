@@ -2,25 +2,29 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v1](http://arxiv.org/abs/2408.05141v1)|null|
+|**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
 |**2024-08-08**|**MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**|Haoxuan Li et.al.|[2408.04388v1](http://arxiv.org/abs/2408.04388v1)|[link](https://github.com/luminosityx/mm-forecast)|
 |**2024-08-08**|**Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**|Hsuan-Lei Shao et.al.|[2408.04382v1](http://arxiv.org/abs/2408.04382v1)|null|
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|null|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
-|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[link](https://github.com/modelscope/modelscope-agent)|
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v2](http://arxiv.org/abs/2408.03910v2)|[link](https://github.com/modelscope/modelscope-agent)|
 |**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|null|
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
 |**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|null|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
+|**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
 |**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
+|**2024-08-03**|**PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models**|Alexey Tikhonov et.al.|[2408.04648v1](http://arxiv.org/abs/2408.04648v1)|[link](https://github.com/altsoph/plugh)|
 |**2024-08-03**|**Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**|Antonio De Santis et.al.|[2408.01700v1](http://arxiv.org/abs/2408.01700v1)|null|
 |**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
-|**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v1](http://arxiv.org/abs/2408.01088v1)|null|
+|**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v2](http://arxiv.org/abs/2408.01088v2)|null|
 |**2024-08-02**|**Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**|Fei Yang et.al.|[2408.00966v1](http://arxiv.org/abs/2408.00966v1)|null|
 |**2024-08-01**|**DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**|Guillermo Villar-Rodríguez et.al.|[2408.00633v1](http://arxiv.org/abs/2408.00633v1)|null|
 |**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
@@ -98,12 +102,55 @@
 |**2024-07-08**|**KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions**|Yanxu Zhu et.al.|[2407.05868v1](http://arxiv.org/abs/2407.05868v1)|[link](https://github.com/yanxuzhu/kg-fpq)|
 |**2024-07-07**|**Language Models Encode Collaborative Signals in Recommendation**|Leheng Sheng et.al.|[2407.05441v1](http://arxiv.org/abs/2407.05441v1)|[link](https://github.com/lehengthu/alpharec)|
 |**2024-07-07**|**LTLBench: Towards Benchmarks for Evaluating Temporal Logic Reasoning in Large Language Models**|Weizhi Tang et.al.|[2407.05434v1](http://arxiv.org/abs/2407.05434v1)|[link](https://github.com/rutatang/ltlbench)|
-|**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485v1](http://arxiv.org/abs/2407.04485v1)|[link](https://github.com/noanonkes/Hallucination-Detection-in-LLMs)|
-|**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363v1](http://arxiv.org/abs/2407.04363v1)|[link](https://github.com/airi-institute/arigraph)|
-|**2024-07-04**|**Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**|Peiran Yao et.al.|[2407.04067v1](http://arxiv.org/abs/2407.04067v1)|[link](https://github.com/U-Alberta/AMRS3)|
-|**2024-07-04**|**Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**|Lei Yu et.al.|[2407.03779v1](http://arxiv.org/abs/2407.03779v1)|null|
 
 #### Abstracts
+##### **A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**
+2408.05141v1 by Ye Yuan, Chengwu Liu, Jingyang Yuan, Gongbo Sun, Siqi Li, Ming Zhang
+
+Retrieval-augmented generation (RAG) is a framework enabling large language
+models (LLMs) to enhance their accuracy and reduce hallucinations by
+integrating external knowledge bases. In this paper, we introduce a hybrid RAG
+system enhanced through a comprehensive suite of optimizations that
+significantly improve retrieval quality, augment reasoning capabilities, and
+refine numerical computation ability. We refined the text chunks and tables in
+web pages, added attribute predictors to reduce hallucinations, conducted LLM
+Knowledge Extractor and Knowledge Graph Extractor, and finally built a
+reasoning strategy with all the references. We evaluated our system on the CRAG
+dataset through the Meta CRAG KDD Cup 2024 Competition. Both the local and
+online evaluations demonstrate that our system significantly enhances complex
+reasoning capabilities. In local evaluations, we have significantly improved
+accuracy and reduced error rates compared to the baseline model, achieving a
+notable increase in scores. In the meanwhile, we have attained outstanding
+results in online assessments, demonstrating the performance and generalization
+capabilities of the proposed system. The source code for our system is released
+in \url{https://gitlab.aicrowd.com/shizueyy/crag-new}.
+
+摘要：檢索增強生成 (RAG) 是一個架構，使大型語言模型 (LLM) 能夠透過整合外部知識庫來增強其準確性並減少幻覺。在本文中，我們介紹了一個混合 RAG 系統，透過全面的最佳化套件進行增強，可顯著提升檢索品質、增強推理能力，並改善數值計算能力。我們改進了網頁中的文字區塊和表格，加入屬性預測器以減少幻覺，執行 LLM 知識萃取器和知識圖表萃取器，最後建構了一個包含所有參考的推理策略。我們透過 Meta CRAG KDD Cup 2024 競賽在 CRAG 資料集上評估我們的系統。在地端和線上評估都證明我們的系統顯著增強了複雜推理能力。在地端評估中，我們與基準模型相比，顯著提升了準確性並降低了錯誤率，達到了顯著的分數提升。同時，我們在線上評估中取得了傑出的成果，證明了所提出的系統的效能和泛化能力。我們系統的原始碼已發布在 \url{https://gitlab.aicrowd.com/shizueyy/crag-new}。
+
+##### **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
+2408.04948v1 by Bhaskarjit Sarmah, Benika Hall, Rohan Rao, Sunil Patel, Stefano Pasquali, Dhagash Mehta
+
+Extraction and interpretation of intricate information from unstructured text
+data arising in financial applications, such as earnings call transcripts,
+present substantial challenges to large language models (LLMs) even using the
+current best practices to use Retrieval Augmented Generation (RAG) (referred to
+as VectorRAG techniques which utilize vector databases for information
+retrieval) due to challenges such as domain specific terminology and complex
+formats of the documents. We introduce a novel approach based on a combination,
+called HybridRAG, of the Knowledge Graphs (KGs) based RAG techniques (called
+GraphRAG) and VectorRAG techniques to enhance question-answer (Q&A) systems for
+information extraction from financial documents that is shown to be capable of
+generating accurate and contextually relevant answers. Using experiments on a
+set of financial earning call transcripts documents which come in the form of
+Q&A format, and hence provide a natural set of pairs of ground-truth Q&As, we
+show that HybridRAG which retrieves context from both vector database and KG
+outperforms both traditional VectorRAG and GraphRAG individually when evaluated
+at both the retrieval and generation stages in terms of retrieval accuracy and
+answer generation. The proposed technique has applications beyond the financial
+domain
+
+摘要：從非結構化文本資料中擷取和詮釋複雜資訊，例如財務應用中產生的收益電話會議記錄，即使使用當前使用檢索擴充生成 (RAG) 的最佳實務（稱為 VectorRAG 技術，它使用向量資料庫來進行資訊檢索），由於領域特定術語和文件格式複雜等挑戰，對大型語言模型 (LLM) 而言仍構成重大挑戰。我們提出一個基於稱為 HybridRAG 的組合的新方法，其結合了基於知識圖譜 (KG) 的 RAG 技術（稱為 GraphRAG）和 VectorRAG 技術，以增強財務文件資訊擷取的問答 (Q&A) 系統，證明它能夠產生準確且與脈絡相關的答案。使用一組以問答格式呈現的財務收益電話會議記錄文件進行實驗，因此提供了自然的一組真實問答對，我們表明 HybridRAG 從向量資料庫和 KG 中擷取脈絡，在檢索和生成階段的檢索準確度和答案生成方面，都優於傳統的 VectorRAG 和 GraphRAG。所提出的技術具有超出財務領域的應用
+
 ##### **DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**
 2408.04400v1 by Xin Sun, Liang Wang, Qiang Liu, Shu Wu, Zilei Wang, Liang Wang
 
@@ -233,7 +280,7 @@ Genome Attribute Ranking (VGARank).
 摘要：辨識和區分物件的視覺屬性，是許多電腦視覺應用程式的基礎。雖然像 CLIP 這樣的大型視覺語言表徵，已在很大程度上解決了零次學習物件辨識的任務，但零次學習視覺屬性辨識仍然是一個挑戰，因為 CLIP 對比學習的視覺語言表徵，無法有效擷取物件屬性依賴性。在本文中，我們針對此弱點，並提出一個基於句子生成的檢索公式，用於屬性辨識，其新穎之處在於：1) 明確地將待測量和檢索的物件屬性關係建模為條件機率圖，這將辨識問題轉換為依賴敏感的語言模型問題；2) 在此重新公式化上應用大型預訓練的視覺語言模型 (VLM)，並自然地萃取其對影像物件屬性關係的知識，用於屬性辨識。具體來說，對於要在影像上辨識的每個屬性，我們測量在影像上編碼屬性與物件關係的簡短句子的視覺條件機率。與對比檢索不同，對比檢索是透過將句子的元素整體比對到影像來測量可能性，生成檢索則對句子中物件和屬性的順序和依賴性很敏感。我們透過實驗證明，生成檢索在兩個視覺推理資料集，野外視覺屬性 (VAW) 和我們新提出的視覺基因組屬性排名 (VGARank) 上，始終優於對比檢索。
 
 ##### **CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**
-2408.03910v1 by Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Wenmeng Zhou, Fei Wang, Michael Shieh
+2408.03910v2 by Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Fei Wang, Michael Shieh, Wenmeng Zhou
 
 Large Language Models (LLMs) excel in stand-alone code tasks like HumanEval
 and MBPP, but struggle with handling entire code repositories. This challenge
@@ -243,20 +290,20 @@ APIs, each with notable drawbacks. Similarity-based retrieval often has low
 recall in complex tasks, while manual tools and APIs are typically
 task-specific and require expert knowledge, reducing their generalizability
 across diverse code tasks and real-world applications. To mitigate these
-limitations, we introduce \framework, a system that integrates LLM agents with
+limitations, we introduce CodexGraph, a system that integrates LLM agents with
 graph database interfaces extracted from code repositories. By leveraging the
 structural properties of graph databases and the flexibility of the graph query
-language, \framework enables the LLM agent to construct and execute queries,
+language, CodexGraph enables the LLM agent to construct and execute queries,
 allowing for precise, code structure-aware context retrieval and code
-navigation. We assess \framework using three benchmarks: CrossCodeEval,
+navigation. We assess CodexGraph using three benchmarks: CrossCodeEval,
 SWE-bench, and EvoCodeBench. Additionally, we develop five real-world coding
-applications. With a unified graph database schema, \framework demonstrates
+applications. With a unified graph database schema, CodexGraph demonstrates
 competitive performance and potential in both academic and real-world
 environments, showcasing its versatility and efficacy in software engineering.
 Our application demo:
 https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent.
 
-摘要：大型語言模型 (LLM) 在獨立程式碼任務中表現出色，例如 HumanEval 和 MBPP，但處理整個程式碼儲存庫時卻遇到困難。這個挑戰促使研究人員加強 LLM 與程式碼庫的互動，並以儲存庫為規模。目前的解決方案依賴於基於相似性的擷取或手動工具和 API，每種方法都有顯著的缺點。基於相似性的擷取在複雜任務中通常召回率低，而手動工具和 API 通常是特定於任務的，需要專家知識，這會降低它們在不同程式碼任務和實際應用中的概括性。為了減輕這些限制，我們引入了 \framework，一個將 LLM 代理與從程式碼儲存庫中提取的圖形資料庫介面整合的系統。透過利用圖形資料庫的結構特性和圖形查詢語言的靈活性，\framework 使 LLM 代理能夠建構和執行查詢，允許精確、有程式碼結構意識的內容擷取和程式碼導覽。我們使用三個基準來評估 \framework：CrossCodeEval、SWE-bench 和 EvoCodeBench。此外，我們開發了五個實際的程式碼應用程式。有了統一的圖形資料庫架構，\framework 在學術和實際環境中都展現出競爭力的效能和潛力，展示了它在軟體工程中的多功能性和有效性。我們的應用程式示範：https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent。
+摘要：大型语言模型 (LLM) 在独立代码任务中表现出色，例如 HumanEval 和 MBPP，但在处理整个代码存储库时却遇到了困难。这个挑战促进了对在存储库规模上增强 LLM 代码库交互的研究。当前的解决方案依赖于基于相似性的检索或手动工具和 API，每种解决方案都有明显的缺点。基于相似性的检索在复杂任务中通常召回率较低，而手动工具和 API 通常是特定于任务的，并且需要专业知识，从而降低了它们在不同代码任务和实际应用中的泛化性。为了减轻这些限制，我们引入了 CodexGraph，这是一个将 LLM 代理与从代码存储库中提取的图形数据库界面集成的系统。通过利用图形数据库的结构属性和图形查询语言的灵活性，CodexGraph 使 LLM 代理能够构建和执行查询，从而实现精确的、代码结构感知的上下文检索和代码导航。我们使用三个基准对 CodexGraph 进行了评估：CrossCodeEval、SWE-bench 和 EvoCodeBench。此外，我们还开发了五个实际的编码应用程序。通过统一的图形数据库模式，CodexGraph 在学术和现实世界环境中都展示了竞争性能和潜力，展示了其在软件工程中的多功能性和有效性。我们的应用程序演示：https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent。
 
 ##### **PAGED: A Benchmark for Procedural Graphs Extraction from Documents**
 2408.03630v2 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
@@ -415,6 +462,30 @@ effectiveness in improving retrieval and reasoning capabilities.
 
 摘要：取得外部知識並提示大型語言模型提供相關資訊，是提升問答任務效能的有效典範。先前的研究通常孤立地處理外部文件中的段落，導致缺乏脈絡和模稜兩可的參考，特別是在多文件和複雜的任務中。為了克服這些挑戰，我們提出一個新的檢索架構 IIER，利用區塊間互動來增強檢索。這個架構透過考量三種類型的互動來擷取文件區塊之間的內部連結：結構、關鍵字和語意。然後，我們建構一個統一的區塊互動圖，以全面表示所有外部文件。此外，我們設計一個基於圖形的證據鏈檢索器，利用先前的路徑和區塊互動來引導檢索程序。它根據目標問題識別多個種子節點，並反覆搜尋相關區塊以收集佐證證據。這個檢索程序精煉了脈絡和推理鏈，協助大型語言模型進行推理和答案產生。廣泛的實驗證明，IIER 在四個資料集上優於強大的基準，突顯其在改善檢索和推理能力方面的效能。
 
+##### **MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**
+2408.04661v1 by Ali Riza Durmaz, Akhil Thomas, Lokesh Mishra, Rachana Niranjan Murthy, Thomas Straub
+
+While large language models learn sound statistical representations of the
+language and information therein, ontologies are symbolic knowledge
+representations that can complement the former ideally. Research at this
+critical intersection relies on datasets that intertwine ontologies and text
+corpora to enable training and comprehensive benchmarking of neurosymbolic
+models. We present the MaterioMiner dataset and the linked materials mechanics
+ontology where ontological concepts from the mechanics of materials domain are
+associated with textual entities within the literature corpus. Another
+distinctive feature of the dataset is its eminently fine-granular annotation.
+Specifically, 179 distinct classes are manually annotated by three raters
+within four publications, amounting to a total of 2191 entities that were
+annotated and curated. Conceptual work is presented for the symbolic
+representation of causal composition-process-microstructure-property
+relationships. We explore the annotation consistency between the three raters
+and perform fine-tuning of pre-trained models to showcase the feasibility of
+named-entity recognition model training. Reusing the dataset can foster
+training and benchmarking of materials language models, automated ontology
+construction, and knowledge graph generation from textual data.
+
+摘要：<paragraph>大型语言模型学习语言和其中信息的健全统计表示，本体是符号知识表示，理想情况下可以补充前者。在这个关键交叉点上的研究依赖于将本体和文本语料库交织在一起的数据集，以实现神经符号模型的训练和全面基准测试。我们展示了 MaterioMiner 数据集和链接的材料力学本体，其中材料力学领域的本体概念与文献语料库中的文本实体相关联。该数据集的另一个显着特征是其极其细粒度的注释。具体来说，179 个不同的类别由三个评级员在四篇出版物中手动注释，总共注释和整理了 2191 个实体。提出了因果成分-过程-微观结构-性质关系的符号表示的概念性工作。我们探讨了三个评级员之间的注释一致性，并对预训练模型进行微调，以展示命名实体识别模型训练的可行性。重复使用该数据集可以促进材料语言模型的训练和基准测试、自动本体构建以及基于文本数据的知识图谱生成。</paragraph>
+
 ##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
 2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
 
@@ -499,6 +570,23 @@ scenarios.
 
 摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
 
+##### **PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models**
+2408.04648v1 by Alexey Tikhonov
+
+We present PLUGH (https://www.urbandictionary.com/define.php?term=plugh), a
+modern benchmark that currently consists of 5 tasks, each with 125 input texts
+extracted from 48 different games and representing 61 different
+(non-isomorphic) spatial graphs to assess the abilities of Large Language
+Models (LLMs) for spatial understanding and reasoning. Our evaluation of
+API-based and open-sourced LLMs shows that while some commercial LLMs exhibit
+strong reasoning abilities, open-sourced competitors can demonstrate almost the
+same level of quality; however, all models still have significant room for
+improvement. We identify typical reasons for LLM failures and discuss possible
+ways to deal with them. Datasets and evaluation code are released
+(https://github.com/altsoph/PLUGH).
+
+摘要：我們提出 PLUGH (https://www.urbandictionary.com/define.php?term=plugh)，一個現代基準，目前包含 5 項任務，每個任務有 125 個輸入文字，這些文字從 48 個不同的遊戲中擷取，並代表 61 個不同的（非同構）空間圖形，用於評估大型語言模型 (LLM) 的空間理解和推理能力。我們對基於 API 和開源的 LLM 進行評估，結果顯示，儘管一些商業 LLM 展現出強大的推理能力，但開源的競爭者可以展現幾乎相同等級的品質；然而，所有模型仍有顯著的進步空間。我們找出 LLM 失敗的典型原因，並討論應對這些原因的可能方法。資料集和評估程式碼已釋出（https://github.com/altsoph/PLUGH）。
+
 ##### **Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**
 2408.01700v1 by Antonio De Santis, Marco Balduini, Federico De Santis, Andrea Proia, Arsenio Leo, Marco Brambilla, Emanuele Della Valle
 
@@ -544,7 +632,7 @@ compared to existing EA methods.
 摘要：實體對齊 (EA) 旨在比對不同知識圖譜 (KG) 中的等效實體，這對於知識融合和整合非常重要。最近，基於嵌入的 EA 已引起相當大的關注，並且已提出許多方法。早期的方法主要專注於從 KG 的結構特徵中學習實體嵌入，這些特徵由關係三元組定義。後續的方法將實體的名稱和屬性作為輔助資訊，以增強 EA 的嵌入。然而，這些方法通常使用不同的技術來編碼結構和屬性資訊，限制了它們的互動和相互增強。在這項工作中，我們提出了一個密集實體擷取架構，用於 EA，利用語言模型來統一編碼實體的各種特徵，並促進跨 KG 的最近實體搜尋。對齊候選者首先透過實體擷取產生，然後重新排序以確定最終對齊。我們對跨語言和單語言 EA 資料集進行了全面的實驗，證明與現有的 EA 方法相比，我們的做法達到了最先進的效能。
 
 ##### **Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**
-2408.01088v1 by Phillip Schneider, Nektarios Machner, Kristiina Jokinen, Florian Matthes
+2408.01088v2 by Phillip Schneider, Nektarios Machner, Kristiina Jokinen, Florian Matthes
 
 Knowledge models are fundamental to dialogue systems for enabling
 conversational interactions, which require handling domain-specific knowledge.
@@ -566,7 +654,7 @@ errors, which we illustrate with examples from challenging dialogues. We
 discuss how the models handle knowledge graphs as a semantic layer between
 unstructured dialogue utterances and structured information items.
 
-摘要：知識模型是對話系統的基本要素，用於啟用對話互動，這需要處理特定領域的知識。確保在提供資訊的對話中進行有效的溝通，需要將使用者的理解與系統可用的知識結合起來。然而，對話系統經常面臨語意不一致的挑戰，在自然語言中表達資訊的方式與在系統內部知識中表示資訊的方式不同。為了解決這個問題，我們研究大型語言模型在對話基礎中的潛力，這是一種透過在對話參與者之間建立共享知識來彌合資訊差距的機制。我們的做法包括註解五個知識領域中的人類對話，以建立一個新的對話語料庫，稱為 BridgeKG。透過對此資料集進行一系列實驗，我們實證評估大型語言模型在分類基礎行為和識別知識圖結構中的基礎資訊項目的能力。我們的發現提供了關於這些模型如何使用情境學習來進行對話基礎任務和常見預測錯誤的見解，我們用具有挑戰性的對話範例來說明。我們討論模型如何將知識圖形視為非結構化對話語句和結構化資訊項目之間的語意層。
+摘要：知識模型對於對話系統至關重要，可進行對話互動，需要處理特定領域的知識。確保在提供資訊的對話中進行有效的溝通，需要將使用者的理解與系統中可用的知識對齊。然而，對話系統經常會面臨語意不一致的挑戰，在於自然語言中表達資訊的方式與系統內部知識的表示方式不同。為了解決這個問題，我們研究大型語言模型在對話基礎中的潛力，這是一種透過建立對話參與者之間的共用知識來彌補資訊差距的機制。我們的做法涉及標註五個知識領域中的人類對話，以建立一個名為 BridgeKG 的新對話語料庫。透過對此資料集進行一系列的實驗，我們實證評估大型語言模型在分類基礎行為和識別知識圖結構中已接地的資訊項目的能力。我們的發現提供了見解，說明這些模型如何使用情境學習進行對話基礎任務和常見的預測錯誤，我們用具有挑戰性的對話範例來說明。我們討論模型如何將知識圖表視為非結構化對話話語和結構化資訊項目之間的語意層。
 
 ##### **Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**
 2408.00966v1 by Fei Yang
@@ -2417,105 +2505,4 @@ providing a valuable tool for future TR evaluations.
 
 摘要：時間推理 (TR) 是人工智慧的一項關鍵組成部分，
 涵蓋了對時間資訊和事件之間關係的理解和處理。為了發現和研究大型語言模型 (LLM) 中的 TR 能力，已透過各種方式建構各種資料集，用於評估 TR 能力的各個面向。我們的工作提出了一種新穎的方法，用於設計和開發一個建構資料集的管道，以評估 LLM 的 TR 能力，方法是利用隨機有向圖生成、LTL 公式和 NuSMV 模型檢查器。根據這個管道，我們還建構了一個資料集作為基準，即 LTLBench，其中包含 2,000 個 TR 挑戰，並用它評估了六個 LLM。此外，我們還進行了額外的實驗，以發現增加事件數量和公式運算子對 TR 問題複雜性和 LLM 效能的影響。我們已經證明，儘管 LLM 在處理 TR 挑戰方面表現出一些希望，但它們仍然難以處理複雜的 TR。我們預期這項工作可以提供對 LLM 中 TR 能力的見解，同時也為未來的 TR 評估提供一個有價值的工具。
-
-##### **Leveraging Graph Structures to Detect Hallucinations in Large Language Models**
-2407.04485v1 by Noa Nonkes, Sergei Agaronian, Evangelos Kanoulas, Roxana Petcu
-
-Large language models are extensively applied across a wide range of tasks,
-such as customer support, content creation, educational tutoring, and providing
-financial guidance. However, a well-known drawback is their predisposition to
-generate hallucinations. This damages the trustworthiness of the information
-these models provide, impacting decision-making and user confidence. We propose
-a method to detect hallucinations by looking at the structure of the latent
-space and finding associations within hallucinated and non-hallucinated
-generations. We create a graph structure that connects generations that lie
-closely in the embedding space. Moreover, we employ a Graph Attention Network
-which utilizes message passing to aggregate information from neighboring nodes
-and assigns varying degrees of importance to each neighbor based on their
-relevance. Our findings show that 1) there exists a structure in the latent
-space that differentiates between hallucinated and non-hallucinated
-generations, 2) Graph Attention Networks can learn this structure and
-generalize it to unseen generations, and 3) the robustness of our method is
-enhanced when incorporating contrastive learning. When evaluated against
-evidence-based benchmarks, our model performs similarly without access to
-search-based methods.
-
-摘要：大型語言模型廣泛應用於各種任務中，例如客戶支援、內容創作、教育輔導和提供財務指導。然而，一個眾所周知的缺點是它們傾向於產生幻覺。這損害了這些模型所提供資訊的可信度，影響了決策制定和使用者信心。我們提出了一種透過觀察潛在空間的結構並找出幻覺和非幻覺生成中的關聯來偵測幻覺的方法。我們建立了一個圖形結構，連接在嵌入空間中緊密相連的生成。此外，我們採用了一個圖形注意力網路，它利用訊息傳遞來彙總來自相鄰節點的資訊，並根據每個相鄰節點的相關性為其指定不同程度的重要性。我們的研究結果顯示，1) 潛在空間中存在一個結構，可以區分幻覺和非幻覺生成，2) 圖形注意力網路可以學習這個結構並將其概括到未見的生成中，以及 3) 當納入對比學習時，我們方法的穩健性會得到增強。當根據基於證據的基準進行評估時，我們的模型在無法取得基於搜尋的方法的情況下，表現得類似。
-
-##### **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**
-2407.04363v1 by Petr Anokhin, Nikita Semenov, Artyom Sorokin, Dmitry Evseev, Mikhail Burtsev, Evgeny Burnaev
-
-Advancements in generative AI have broadened the potential applications of
-Large Language Models (LLMs) in the development of autonomous agents. Achieving
-true autonomy requires accumulating and updating knowledge gained from
-interactions with the environment and effectively utilizing it. Current
-LLM-based approaches leverage past experiences using a full history of
-observations, summarization or retrieval augmentation. However, these
-unstructured memory representations do not facilitate the reasoning and
-planning essential for complex decision-making. In our study, we introduce
-AriGraph, a novel method wherein the agent constructs a memory graph that
-integrates semantic and episodic memories while exploring the environment. This
-graph structure facilitates efficient associative retrieval of interconnected
-concepts, relevant to the agent's current state and goals, thus serving as an
-effective environmental model that enhances the agent's exploratory and
-planning capabilities. We demonstrate that our Ariadne LLM agent, equipped with
-this proposed memory architecture augmented with planning and decision-making,
-effectively handles complex tasks on a zero-shot basis in the TextWorld
-environment. Our approach markedly outperforms established methods such as
-full-history, summarization, and Retrieval-Augmented Generation in various
-tasks, including the cooking challenge from the First TextWorld Problems
-competition and novel tasks like house cleaning and puzzle Treasure Hunting.
-
-摘要：生成式 AI 的進步擴展了大型語言模型 (LLM) 在自主代理開發中的潛在應用。實現真正的自主性需要累積和更新從與環境互動中獲得的知識，並有效利用它。當前的基於 LLM 的方法利用過去的經驗，使用完整的觀察、摘要或檢索擴充。然而，這些非結構化的記憶表徵並不能促進複雜決策制定中必不可少的推理和規劃。在我們的研究中，我們介紹了 AriGraph，這是一種新方法，其中代理構建了一個記憶圖，該圖在探索環境時整合了語義和情節記憶。這種圖形結構促進了相互聯繫的概念的有效關聯性檢索，與代理的當前狀態和目標相關，從而作為一個有效的環境模型，增強了代理的探索和規劃能力。我們展示了我們的 Ariadne LLM 代理，配備了這種提議的記憶架構，並增強了規劃和決策制定，有效地處理了 TextWorld 環境中零次學習的複雜任務。我們的做法顯著優於已建立的方法，例如完整歷史、摘要和檢索增強生成，在各種任務中，包括來自第一個 TextWorld 問題競賽的烹飪挑戰和房屋清潔和拼圖尋寶等新任務。
-
-##### **Semantic Graphs for Syntactic Simplification: A Revisit from the Age of LLM**
-2407.04067v1 by Peiran Yao, Kostyantyn Guzhva, Denilson Barbosa
-
-Symbolic sentence meaning representations, such as AMR (Abstract Meaning
-Representation) provide expressive and structured semantic graphs that act as
-intermediates that simplify downstream NLP tasks. However, the
-instruction-following capability of large language models (LLMs) offers a
-shortcut to effectively solve NLP tasks, questioning the utility of semantic
-graphs. Meanwhile, recent work has also shown the difficulty of using meaning
-representations merely as a helpful auxiliary for LLMs. We revisit the position
-of semantic graphs in syntactic simplification, the task of simplifying
-sentence structures while preserving their meaning, which requires semantic
-understanding, and evaluate it on a new complex and natural dataset. The
-AMR-based method that we propose, AMRS$^3$, demonstrates that state-of-the-art
-meaning representations can lead to easy-to-implement simplification methods
-with competitive performance and unique advantages in cost, interpretability,
-and generalization. With AMRS$^3$ as an anchor, we discover that syntactic
-simplification is a task where semantic graphs are helpful in LLM prompting. We
-propose AMRCoC prompting that guides LLMs to emulate graph algorithms for
-explicit symbolic reasoning on AMR graphs, and show its potential for improving
-LLM on semantic-centered tasks like syntactic simplification.
-
-摘要：符號句子意義表徵，例如 AMR（抽象意義表徵），提供表達性和結構化的語義圖表，作為簡化下游 NLP 任務的中介。然而，大型語言模型 (LLM) 的指令遵循能力提供了一個捷徑來有效解決 NLP 任務，質疑語義圖表的效用。同時，最近的研究也表明僅將意義表徵用作 LLM 的輔助工具的難度。我們重新審視語義圖表在語法簡化中的位置，語法簡化的任務是在保留句子結構的同時簡化句子結構，這需要語義理解，並在一個新的複雜且自然的數據集上對其進行評估。我們提出的基於 AMR 的方法 AMRS$^3$ 證明了最先進的意義表徵可以導致易於實現的簡化方法，在成本、可解釋性和泛化方面具有競爭優勢和獨特優勢。以 AMRS$^3$ 為錨點，我們發現語法簡化是一項語義圖表有助於 LLM 提示的任務。我們提出 AMRCoC 提示，指導 LLM 模擬圖形演算法，對 AMR 圖形進行明確的符號推理，並展示其在改進 LLM 在以語義為中心的任務（如語法簡化）方面的潛力。
-
-##### **Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning**
-2407.03779v1 by Lei Yu, Jingcheng Niu, Zining Zhu, Gerald Penn
-
-In this paper, we introduce a comprehensive reformulation of the task known
-as Circuit Discovery, along with DiscoGP, a novel and effective algorithm based
-on differentiable masking for discovering circuits. Circuit discovery is the
-task of interpreting the computational mechanisms of language models (LMs) by
-dissecting their functions and capabilities into sparse subnetworks (circuits).
-We identified two major limitations in existing circuit discovery efforts: (1)
-a dichotomy between weight-based and connection-edge-based approaches forces
-researchers to choose between pruning connections or weights, thereby limiting
-the scope of mechanistic interpretation of LMs; (2) algorithms based on
-activation patching tend to identify circuits that are neither functionally
-faithful nor complete. The performance of these identified circuits is
-substantially reduced, often resulting in near-random performance in isolation.
-Furthermore, the complement of the circuit -- i.e., the original LM with the
-identified circuit removed -- still retains adequate performance, indicating
-that essential components of a complete circuits are missed by existing
-methods.
-  DiscoGP successfully addresses the two aforementioned issues and demonstrates
-state-of-the-art faithfulness, completeness, and sparsity. The effectiveness of
-the algorithm and its novel structure open up new avenues of gathering new
-insights into the internal workings of generative AI.
-
-摘要：<paragraph>在本文中，我們介紹了對稱為電路發現任務的全面重新表述，以及 DiscoGP，一種基於可微遮罩的發現電路的新穎且有效的演算法。電路發現是透過將其功能和能力解剖成稀疏子網路（電路）來詮釋語言模型（LM）的運算機制的任務。我們在現有的電路發現工作中發現了兩個主要的限制：（1）基於權重和基於連接邊緣的方法之間的二分法迫使研究人員在修剪連接或權重之間進行選擇，從而限制了 LM 機制詮釋的範圍；（2）基於啟用修補的演算法傾向於識別在功能上既不忠實也不完整的電路。這些已識別電路的效能大幅降低，通常導致孤立的近乎隨機效能。此外，電路的補數——即移除已識別電路的原始 LM——仍保留了足夠的效能，這表示現有方法錯失了完整電路的基本組成部分。
-DiscoGP 成功地解決了上述兩個問題，並展示了最先進的忠實度、完整性和稀疏性。該演算法的有效性和其新穎的結構為深入瞭解生成式 AI 的內部運作開闢了新的途徑。</paragraph>
 

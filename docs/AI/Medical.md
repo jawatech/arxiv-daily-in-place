@@ -2,9 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-09**|**Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**|Shouyue Liu et.al.|[2408.05117v1](http://arxiv.org/abs/2408.05117v1)|null|
+|**2024-08-09**|**RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**|Sangjoon Park et.al.|[2408.05074v1](http://arxiv.org/abs/2408.05074v1)|null|
+|**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949v1](http://arxiv.org/abs/2408.04949v1)|[link](https://github.com/gianlucarloni/crocodile)|
+|**2024-08-09**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910v2](http://arxiv.org/abs/2408.04910v2)|[link](https://github.com/TheOpenSI/cognitive_AI_experiments)|
+|**2024-08-09**|**Ensemble BERT: A student social network text sentiment classification model based on ensemble learning and BERT architecture**|Kai Jiang et.al.|[2408.04849v1](http://arxiv.org/abs/2408.04849v1)|null|
 |**2024-08-08**|**Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**|Vandan Gorade et.al.|[2408.04491v1](http://arxiv.org/abs/2408.04491v1)|null|
 |**2024-08-08**|**Non-maximizing policies that fulfill multi-criterion aspirations in expectation**|Simon Dima et.al.|[2408.04385v1](http://arxiv.org/abs/2408.04385v1)|null|
 |**2024-08-08**|**AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**|Mugheez Asif et.al.|[2408.04281v1](http://arxiv.org/abs/2408.04281v1)|null|
+|**2024-08-08**|**Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications**|Philipp Zagar et.al.|[2408.04680v1](http://arxiv.org/abs/2408.04680v1)|null|
 |**2024-08-08**|**The Data Addition Dilemma**|Judy Hanwen Shen et.al.|[2408.04154v1](http://arxiv.org/abs/2408.04154v1)|[link](https://github.com/the-chen-lab/data-addition-dilemma)|
 |**2024-08-08**|**Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering**|Haoran Yu et.al.|[2408.04138v1](http://arxiv.org/abs/2408.04138v1)|null|
 |**2024-08-07**|**Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology**|Panagiotis Fytas et.al.|[2408.04121v1](http://arxiv.org/abs/2408.04121v1)|null|
@@ -27,6 +33,7 @@
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|[link](https://github.com/jihyechoi77/malade)|
+|**2024-08-03**|**Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**|Jung In Park et.al.|[2408.04650v1](http://arxiv.org/abs/2408.04650v1)|null|
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|null|
 |**2024-08-03**|**Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**|Jinwen Tang et.al.|[2408.01614v1](http://arxiv.org/abs/2408.01614v1)|null|
 |**2024-08-02**|**Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference**|Hengrui Cai et.al.|[2408.01582v1](http://arxiv.org/abs/2408.01582v1)|null|
@@ -95,15 +102,124 @@
 |**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387v1](http://arxiv.org/abs/2407.18387v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
-|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|[link](https://github.com/scjjb/MultiscalePathGraph)|
-|**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v2](http://arxiv.org/abs/2407.17879v2)|null|
-|**2024-07-25**|**EEG-SSM: Leveraging State-Space Model for Dementia Detection**|Xuan-The Tran et.al.|[2407.17801v1](http://arxiv.org/abs/2407.17801v1)|null|
-|**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588v1](http://arxiv.org/abs/2408.00588v1)|null|
-|**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
-|**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734v1](http://arxiv.org/abs/2407.17734v1)|[link](https://github.com/jlinekai/clover)|
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 
 #### Abstracts
+##### **Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**
+2408.05117v1 by Shouyue Liu, Jinkui Hao, Yonghuai Liu, Huazhu Fu, Xinyu Guo, Shuting Zhang, Yitian Zhao
+
+Early detection of dementia, such as Alzheimer's disease (AD) or mild
+cognitive impairment (MCI), is essential to enable timely intervention and
+potential treatment. Accurate detection of AD/MCI is challenging due to the
+high complexity, cost, and often invasive nature of current diagnostic
+techniques, which limit their suitability for large-scale population screening.
+Given the shared embryological origins and physiological characteristics of the
+retina and brain, retinal imaging is emerging as a potentially rapid and
+cost-effective alternative for the identification of individuals with or at
+high risk of AD. In this paper, we present a novel PolarNet+ that uses retinal
+optical coherence tomography angiography (OCTA) to discriminate early-onset AD
+(EOAD) and MCI subjects from controls. Our method first maps OCTA images from
+Cartesian coordinates to polar coordinates, allowing approximate sub-region
+calculation to implement the clinician-friendly early treatment of diabetic
+retinopathy study (ETDRS) grid analysis. We then introduce a multi-view module
+to serialize and analyze the images along three dimensions for comprehensive,
+clinically useful information extraction. Finally, we abstract the sequence
+embedding into a graph, transforming the detection task into a general graph
+classification problem. A regional relationship module is applied after the
+multi-view module to excavate the relationship between the sub-regions. Such
+regional relationship analyses validate known eye-brain links and reveal new
+discriminative patterns.
+
+摘要：早期偵測失智症，例如阿茲海默症 (AD) 或輕度認知障礙 (MCI)，對於及時介入和潛在治療至關重要。由於目前診斷技術的複雜性高、成本高，且常常具有侵入性，因此準確偵測 AD/MCI 極具挑戰性，這也限制了其用於大規模人群篩檢的適用性。考量到視網膜和腦部具有相同的胚胎起源和生理特性，視網膜影像正逐漸成為一種潛在的快速且具成本效益的替代方案，用於找出罹患 AD 或具有高風險的個人。在本文中，我們提出了一種創新的 PolarNet+，它使用視網膜光學相干斷層血管造影 (OCTA) 來區分早發性 AD (EOAD) 和 MCI 受試者與對照組。我們的做法首先將 OCTA 影像從笛卡爾坐標轉換為極坐標，讓近似子區域計算得以實作，進而執行對臨床醫師友善的糖尿病視網膜病變早期治療研究 (ETDRS) 格線分析。接著，我們引入一個多視圖模組，用於串列化並沿著三個向度分析影像，以進行全面的、臨床上有用的資訊萃取。最後，我們將序列嵌入抽象化為一個圖形，將偵測任務轉換為一個通用的圖形分類問題。在多視圖模組後應用區域關係模組，以探討子區域之間的關係。此類區域關係分析驗證了已知的視網膜與腦部關聯，並揭示了新的判別模式。
+
+##### **RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**
+2408.05074v1 by Sangjoon Park, Chan Woo Wee, Seo Hee Choi, Kyung Hwan Kim, Jee Suk Chang, Hong In Yoon, Ik Jae Lee, Yong Bae Kim, Jaeho Cho, Ki Chang Keum, Chang Geol Lee, Hwa Kyung Byun, Woong Sub Koom
+
+Accurate patient selection is critical in radiotherapy (RT) to prevent
+ineffective treatments. Traditional survival prediction models, relying on
+structured data, often lack precision. This study explores the potential of
+large language models (LLMs) to structure unstructured electronic health record
+(EHR) data, thereby improving survival prediction accuracy through
+comprehensive clinical information integration. Data from 34,276 patients
+treated with RT at Yonsei Cancer Center between 2013 and 2023 were analyzed,
+encompassing both structured and unstructured data. An open-source LLM was used
+to structure the unstructured EHR data via single-shot learning, with its
+performance compared against a domain-specific medical LLM and a smaller
+variant. Survival prediction models were developed using statistical, machine
+learning, and deep learning approaches, incorporating both structured and
+LLM-structured data. Clinical experts evaluated the accuracy of the
+LLM-structured data. The open-source LLM achieved 87.5% accuracy in structuring
+unstructured EHR data without additional training, significantly outperforming
+the domain-specific medical LLM, which reached only 35.8% accuracy. Larger LLMs
+were more effective, particularly in extracting clinically relevant features
+like general condition and disease extent, which closely correlated with
+patient survival. Incorporating LLM-structured clinical features into survival
+prediction models significantly improved accuracy, with the C-index of deep
+learning models increasing from 0.737 to 0.820. These models also became more
+interpretable by emphasizing clinically significant factors. This study shows
+that general-domain LLMs, even without specific medical training, can
+effectively structure large-scale unstructured EHR data, substantially
+enhancing the accuracy and interpretability of clinical predictive models.
+
+摘要：<paragraph>在放射治療中，準確的患者選擇至關重要，以防止無效的治療。傳統的存活預測模型依賴於結構化資料，通常缺乏精確度。本研究探討了大型語言模型 (LLM) 結構化非結構化電子健康記錄 (EHR) 資料的潛力，從而通過全面的臨床資訊整合來提高存活預測準確度。分析了 2013 年至 2023 年間在延世癌症中心接受放射治療的 34,276 名患者的資料，包括結構化和非結構化資料。使用開源 LLM 通過單次學習來結構化非結構化 EHR 資料，並將其效能與特定領域的醫療 LLM 和較小的變體進行比較。存活預測模型是使用統計、機器學習和深度學習方法開發的，結合了結構化和 LLM 結構化的資料。臨床專家評估了 LLM 結構化資料的準確性。開源 LLM 在不進行額外訓練的情況下，結構化非結構化 EHR 資料的準確度達到 87.5%，顯著優於特定領域的醫療 LLM，後者的準確度僅達到 35.8%。較大的 LLM 更有效，特別是在提取臨床相關特徵方面，例如一般狀況和疾病程度，這與患者存活率密切相關。將 LLM 結構化的臨床特徵納入存活預測模型顯著提高了準確性，深度學習模型的 C 指數從 0.737 提高到 0.820。這些模型也變得更具可解釋性，因為它們強調了臨床上重要的因素。本研究表明，即使沒有具體的醫療訓練，通用領域的 LLM 也可以有效地結構化大規模的非結構化 EHR 資料，從而顯著提高臨床預測模型的準確性和可解釋性。</paragraph>
+
+##### **CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**
+2408.04949v1 by Gianluca Carloni, Sotirios A Tsaftaris, Sara Colantonio
+
+Due to domain shift, deep learning image classifiers perform poorly when
+applied to a domain different from the training one. For instance, a classifier
+trained on chest X-ray (CXR) images from one hospital may not generalize to
+images from another hospital due to variations in scanner settings or patient
+characteristics. In this paper, we introduce our CROCODILE framework, showing
+how tools from causality can foster a model's robustness to domain shift via
+feature disentanglement, contrastive learning losses, and the injection of
+prior knowledge. This way, the model relies less on spurious correlations,
+learns the mechanism bringing from images to prediction better, and outperforms
+baselines on out-of-distribution (OOD) data. We apply our method to multi-label
+lung disease classification from CXRs, utilizing over 750000 images from four
+datasets. Our bias-mitigation method improves domain generalization and
+fairness, broadening the applicability and reliability of deep learning models
+for a safer medical image analysis. Find our code at:
+https://github.com/gianlucarloni/crocodile.
+
+摘要：由於領域轉換，深度學習圖像分類器在應用於與訓練不同的領域時表現不佳。例如，針對一家醫院的胸部 X 光（CXR）影像訓練的分類器，由於掃描儀設定或患者特徵的差異，可能無法概化到另一家醫院的影像。在本文中，我們介紹我們的 CROCODILE 框架，展示因果工具如何透過特徵解糾纏、對比學習損失和注入先驗知識來促進模型對領域轉換的穩健性。這樣一來，模型較不依賴虛假相關性，能更好地學習從影像到預測的機制，並在分佈外（OOD）資料上優於基線。我們將我們的模型應用於 CXR 的多標籤肺部疾病分類，利用來自四個資料集的超過 750,000 張影像。我們的偏差緩解方法改善了領域概化和公平性，擴大了深度學習模型在更安全醫學影像分析中的適用性和可靠性。在以下網址找到我們的程式碼：https://github.com/gianlucarloni/crocodile。
+
+##### **Unleashing Artificial Cognition: Integrating Multiple AI Systems**
+2408.04910v2 by Muntasir Adnan, Buddhi Gamage, Zhiwei Xu, Damith Herath, Carlos C. N. Kuhn
+
+In this study, we present an innovative fusion of language models and query
+analysis techniques to unlock cognition in artificial intelligence. Our system
+seamlessly integrates a Chess engine with a language model, enabling it to
+predict moves and provide strategic explanations. Leveraging a vector database
+through retrievable answer generation, our OpenSI AI system elucidates its
+decision-making process, bridging the gap between raw computation and
+human-like understanding. Our choice of Chess as the demonstration environment
+underscores the versatility of our approach. Beyond Chess, our system holds
+promise for diverse applications, from medical diagnostics to financial
+forecasting.
+
+摘要：在這項研究中，我們提出語言模型和查詢分析技術的創新融合，以解鎖人工智慧中的認知。我們的系統將西洋棋引擎與語言模型無縫整合，使其能夠預測棋步並提供策略性說明。透過可檢索答案生成的向量資料庫，我們的 OpenSI AI 系統闡明其決策過程，彌合了原始運算與類人理解之間的差距。我們選擇西洋棋作為示範環境，突顯了我們方法的多樣性。除了西洋棋之外，我們的系統有望應用於各種領域，從醫療診斷到財務預測。
+
+##### **Ensemble BERT: A student social network text sentiment classification model based on ensemble learning and BERT architecture**
+2408.04849v1 by Kai Jiang, Honghao Yang, Yuexian Wang, Qianru Chen, Yiming Luo
+
+The mental health assessment of middle school students has always been one of
+the focuses in the field of education. This paper introduces a new ensemble
+learning network based on BERT, employing the concept of enhancing model
+performance by integrating multiple classifiers. We trained a range of
+BERT-based learners, which combined using the majority voting method. We
+collect social network text data of middle school students through China's
+Weibo and apply the method to the task of classifying emotional tendencies in
+middle school students' social network texts. Experimental results suggest that
+the ensemble learning network has a better performance than the base model and
+the performance of the ensemble learning model, consisting of three
+single-layer BERT models, is barely the same as a three-layer BERT model but
+requires 11.58% more training time. Therefore, in terms of balancing prediction
+effect and efficiency, the deeper BERT network should be preferred for
+training. However, for interpretability, network ensembles can provide
+acceptable solutions.
+
+摘要：中學生心理健康評估一直是教育領域的關注重點之一。本文介紹了一個基於 BERT 的新集成學習網路，採用整合多個分類器的概念來提升模型效能。我們訓練了一系列基於 BERT 的學習器，並使用多數決投票法進行組合。我們透過中國微博收集中學生的社群網路文字資料，並將此方法應用於分類中學生社群網路文字的情緒傾向的任務中。實驗結果表明，集成學習網路的效能優於基礎模型，且由三個單層 BERT 模型組成的集成學習模型的效能與三層 BERT 模型幾乎相同，但訓練時間卻多了 11.58%。因此，在平衡預測效果和效率方面，應優先考慮較深的 BERT 網路進行訓練。然而，對於可解釋性而言，網路集成可以提供可接受的解決方案。
+
 ##### **Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**
 2408.04491v1 by Vandan Gorade, Onkar Susladkar, Gorkem Durak, Elif Keles, Ertugrul Aktas, Timurhan Cebeci, Alpay Medetalibeyoglu, Daniela Ladner, Debesh Jha, Ulas Bagci
 
@@ -174,6 +290,29 @@ sensitive data and maintain a secure workplace, thereby addressing the growing
 need for robust network security measures in the digital age.
 
 摘要：在當今的現代數位環境中，聊天機器人已成為各個產業不可或缺的工具，簡化客戶服務、提供個人協助、自動化例行工作並提供健康建議。然而，它們在網路安全領域的潛力仍未得到充分探索，特別是在入侵偵測方面。為了彌補這個差距，我們提出了一種專門設計用於增強邊緣網路內部安全性的架構聊天機器人，特別是用於入侵偵測。透過利用先進的機器學習演算法，此聊天機器人將監控網路流量以識別和減輕潛在入侵。透過使用由 Raspberry Pi 模組管理的邊緣網路來保護網路環境，並確保合乎道德的使用者同意以促進透明度和信任，這個創新的解決方案旨在保護敏感資料並維護一個安全的工作場所，從而滿足數位時代對強大網路安全措施日益增長的需求。
+
+##### **Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications**
+2408.04680v1 by Philipp Zagar, Vishnu Ravi, Lauren Aalami, Stephan Krusche, Oliver Aalami, Paul Schmiedmayer
+
+The ability of large language models (LLMs) to transform, interpret, and
+comprehend vast quantities of heterogeneous data presents a significant
+opportunity to enhance data-driven care delivery. However, the sensitive nature
+of protected health information (PHI) raises valid concerns about data privacy
+and trust in remote LLM platforms. In addition, the cost associated with
+cloud-based artificial intelligence (AI) services continues to impede
+widespread adoption. To address these challenges, we propose a shift in the LLM
+execution environment from opaque, centralized cloud providers to a
+decentralized and dynamic fog computing architecture. By executing open-weight
+LLMs in more trusted environments, such as the user's edge device or a fog
+layer within a local network, we aim to mitigate the privacy, trust, and
+financial challenges associated with cloud-based LLMs. We further present
+SpeziLLM, an open-source framework designed to facilitate rapid and seamless
+leveraging of different LLM execution layers and lowering barriers to LLM
+integration in digital health applications. We demonstrate SpeziLLM's broad
+applicability across six digital health applications, showcasing its
+versatility in various healthcare settings.
+
+摘要：大型語言模型（LLM）轉換、詮釋和理解大量異質資料的能力，為提升資料驅動的照護提供顯著的契機。然而，受保護健康資訊（PHI）的敏感性質引發了對資料隱私和對遠端 LLM 平台信任的正當疑慮。此外，與雲端人工智慧（AI）服務相關的成本持續阻礙廣泛採用。為了解決這些挑戰，我們建議將 LLM 執行環境從不透明的集中式雲端供應商轉移到分散式動態霧運算架構。透過在更受信任的環境中執行開放權重的 LLM，例如使用者的邊緣裝置或區域網路內的霧層，我們旨在減輕與雲端 LLM 相關的隱私、信任和財務挑戰。我們進一步提出 SpeziLLM，一個開放原始碼架構，旨在促進快速且無縫地利用不同的 LLM 執行層，並降低 LLM 整合在數位健康應用程式的障礙。我們展示了 SpeziLLM 在六個數位健康應用程式中的廣泛適用性，展示了其在各種醫療保健環境中的多功能性。
 
 ##### **The Data Addition Dilemma**
 2408.04154v1 by Judy Hanwen Shen, Inioluwa Deborah Raji, Irene Y. Chen
@@ -741,6 +880,38 @@ implementation leverages the Langroid multi-agent LLM framework and can be
 found at https://github.com/jihyechoi77/malade.
 
 摘要：在大语言模型 (LLM) 时代，鉴于其卓越的文本理解和生成能力，出现了一个前所未有的机会，可以开发基于 LLM 的新方法，用于可信的医学知识综合、提取和摘要。本文重点关注药物警戒 (PhV) 的问题，其重要性和挑战在于从各种文本来源（如医学文献、临床笔记和药物标签）中识别不良药物事件 (ADE)。不幸的是，这项任务受到多种因素的阻碍，包括药物和结果术语的变化，以及 ADE 描述通常埋没在大量叙述性文本中。我们展示了 MALADE，这是第一个有效的协作多智能体系统，由 LLM 提供支持，并使用检索增强生成来从药物标签数据中提取 ADE。此技术涉及使用从文本资源中提取的相关信息来扩充对 LLM 的查询，并指示 LLM 编写与扩充数据一致的响应。MALADE 是一种通用的 LLM 不可知架构，其独特功能包括：(1) 利用各种外部来源，例如医学文献、药物标签和 FDA 工具（例如 OpenFDA 药物信息 API），(2) 以结构化格式提取药物-结果关联以及关联强度，以及 (3) 为已建立的关联提供解释。MALADE 使用 GPT-4 Turbo 或 GPT-4o 以及 FDA 药物标签数据实例化，并通过针对 ADE 的 OMOP 基本事实表，以 0.90 的 ROC 曲线下面积证明了其有效性。我们的实现利用了 Langroid 多智能体 LLM 框架，可以在 https://github.com/jihyechoi77/malade 中找到。
+
+##### **Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**
+2408.04650v1 by Jung In Park, Mahyar Abbasian, Iman Azimi, Dawn Bounds, Angela Jun, Jaesu Han, Robert McCarron, Jessica Borelli, Jia Li, Mona Mahmoudi, Carmen Wiedenhoeft, Amir Rahmani
+
+Objective: This study aims to develop and validate an evaluation framework to
+ensure the safety and reliability of mental health chatbots, which are
+increasingly popular due to their accessibility, human-like interactions, and
+context-aware support. Materials and Methods: We created an evaluation
+framework with 100 benchmark questions and ideal responses, and five guideline
+questions for chatbot responses. This framework, validated by mental health
+experts, was tested on a GPT-3.5-turbo-based chatbot. Automated evaluation
+methods explored included large language model (LLM)-based scoring, an agentic
+approach using real-time data, and embedding models to compare chatbot
+responses against ground truth standards. Results: The results highlight the
+importance of guidelines and ground truth for improving LLM evaluation
+accuracy. The agentic method, dynamically accessing reliable information,
+demonstrated the best alignment with human assessments. Adherence to a
+standardized, expert-validated framework significantly enhanced chatbot
+response safety and reliability. Discussion: Our findings emphasize the need
+for comprehensive, expert-tailored safety evaluation metrics for mental health
+chatbots. While LLMs have significant potential, careful implementation is
+necessary to mitigate risks. The superior performance of the agentic approach
+underscores the importance of real-time data access in enhancing chatbot
+reliability. Conclusion: The study validated an evaluation framework for mental
+health chatbots, proving its effectiveness in improving safety and reliability.
+Future work should extend evaluations to accuracy, bias, empathy, and privacy
+to ensure holistic assessment and responsible integration into healthcare.
+Standardized evaluations will build trust among users and professionals,
+facilitating broader adoption and improved mental health support through
+technology.
+
+摘要：<paragraph>目標：本研究旨在開發和驗證一個評估架構，以確保心理健康聊天機器人的安全性與可靠性，由於其可及性、擬人化的互動以及情境感知支援，這些聊天機器人正變得越來越受歡迎。材料與方法：我們建立了一個評估架構，其中包含 100 個基準問題和理想回應，以及針對聊天機器人回應的五個指南問題。這個架構經過心理健康專家驗證，並在一個基於 GPT-3.5-turbo 的聊天機器人上進行測試。探討的自動評估方法包括基於大型語言模型 (LLM) 的評分、使用即時資料的能動方法，以及將聊天機器人回應與基本事實標準進行比較的嵌入式模型。結果：結果強調了準則和基本事實對於提升 LLM 評估準確性的重要性。能動方法動態地存取可靠資訊，證明與人類評估最為一致。遵循標準化且經過專家驗證的架構，顯著提升了聊天機器人回應的安全性與可靠性。討論：我們的研究結果強調了針對心理健康聊天機器人制定全面且專家量身打造的安全評估指標的必要性。儘管 LLM 具有顯著的潛力，但仍需要謹慎實施以降低風險。能動方法的優異表現突顯了即時資料存取對於提升聊天機器人可靠性的重要性。結論：本研究驗證了一個針對心理健康聊天機器人的評估架構，證明其在提升安全性與可靠性方面的有效性。未來的研究應將評估擴展至準確性、偏見、同理心和隱私，以確保全面的評估，並負責任地整合至醫療保健中。標準化的評估將建立使用者和專業人士之間的信任，促進更廣泛的採用，並透過科技改善心理健康支援。</paragraph>
 
 ##### **ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**
 2408.01827v1 by Mridula Vijendran, Frederick W. B. Li, Jingjing Deng, Hubert P. H. Shum
@@ -2410,185 +2581,4 @@ detection, which may offer a valuable pre-training approach in few-shot
 regimes, for mitigating data scarcity.
 
 摘要：在過去幾年中，深度神經網路已廣泛應用於醫療領域的不同任務，從影像分類和分割到地標偵測。然而，這些技術在醫療領域的應用常常受到資料稀少的阻礙，無論是在可用的註解或影像方面。本研究介紹了一個新的自監督預訓練協定，它是基於擴散模型，用於 X 光影像中的地標偵測。我們的結果顯示，所提出的自監督架構可以在最少數量的可用註解訓練影像（最多 50 個）下提供準確的地標偵測，優於 ImageNet 監督式預訓練以及三個熱門 X 光基準資料集的最新自監督式預訓練。據我們所知，這是首次探討擴散模型用於地標偵測中的自監督式學習，它可能在小樣本訓練模式中提供有價值的預訓練方法，以減輕資料稀少的問題。
-
-##### **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**
-2407.18105v1 by Jack Breen, Katie Allen, Kieran Zucker, Nicolas M. Orsi, Nishant Ravikumar
-
-Computer vision models are increasingly capable of classifying ovarian
-epithelial cancer subtypes, but they differ from pathologists by processing
-small tissue patches at a single resolution. Multi-resolution graph models
-leverage the spatial relationships of patches at multiple magnifications,
-learning the context for each patch. In this study, we conduct the most
-thorough validation of a graph model for ovarian cancer subtyping to date.
-Seven models were tuned and trained using five-fold cross-validation on a set
-of 1864 whole slide images (WSIs) from 434 patients treated at Leeds Teaching
-Hospitals NHS Trust. The cross-validation models were ensembled and evaluated
-using a balanced hold-out test set of 100 WSIs from 30 patients, and an
-external validation set of 80 WSIs from 80 patients in the Transcanadian Study.
-The best-performing model, a graph model using 10x+20x magnification data, gave
-balanced accuracies of 73%, 88%, and 99% in cross-validation, hold-out testing,
-and external validation, respectively. However, this only exceeded the
-performance of attention-based multiple instance learning in external
-validation, with a 93% balanced accuracy. Graph models benefitted greatly from
-using the UNI foundation model rather than an ImageNet-pretrained ResNet50 for
-feature extraction, with this having a much greater effect on performance than
-changing the subsequent classification approach. The accuracy of the combined
-foundation model and multi-resolution graph network offers a step towards the
-clinical applicability of these models, with a new highest-reported performance
-for this task, though further validations are still required to ensure the
-robustness and usability of the models.
-
-摘要：電腦視覺模型越來越能夠分類卵巢上皮癌的亞型，但它們與病理學家不同，它們以單一解析度處理小組織貼片。多解析度圖形模型利用多個放大倍率下貼片的空間關係，學習每個貼片的背景。在這項研究中，我們對圖形模型進行了迄今為止最徹底的卵巢癌亞型驗證。使用 434 名在利茲教學醫院 NHS 信託基金接受治療的患者的 1864 張全幻燈片影像 (WSI) 進行五倍交叉驗證，調整並訓練了七個模型。將交叉驗證模型集成並使用來自 30 名患者的 100 張 WSI 的平衡留出測試集和來自 Transcanadian 研究中 80 名患者的 80 張 WSI 的外部驗證集進行評估。表現最佳的模型，一個使用 10 倍+20 倍放大倍率資料的圖形模型，在交叉驗證、留出測試和外部驗證中分別給出 73%、88% 和 99% 的平衡準確度。然而，這僅超過了外部驗證中基於注意力的多實例學習的表現，平衡準確度為 93%。圖形模型從使用 UNI 基礎模型而不是 ImageNet 預訓練的 ResNet50 進行特徵提取中受益匪淺，與改變後續分類方法相比，這對效能有更大的影響。結合基礎模型和多解析度圖形網路的準確度為這些模型的臨床應用邁出了一步，對於這項任務來說，這是新的最高報告表現，儘管仍需要進一步的驗證來確保模型的穩健性和可用性。
-
-##### **HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**
-2407.17879v2 by Qingyu Guo, Jiayong Wan, Songqiang Xu, Meng Li, Yuan Wang
-
-Vision Transformer (ViT) acceleration with field programmable gate array
-(FPGA) is promising but challenging. Existing FPGA-based ViT accelerators
-mainly rely on temporal architectures, which process different operators by
-reusing the same hardware blocks and suffer from extensive memory access
-overhead. Pipelined architectures, either coarse-grained or fine-grained,
-unroll the ViT computation spatially for memory access efficiency. However,
-they usually suffer from significant hardware resource constraints and pipeline
-bubbles induced by the global computation dependency of ViT. In this paper, we
-introduce HG-PIPE, a pipelined FPGA accelerator for high-throughput and
-low-latency ViT processing. HG-PIPE features a hybrid-grained pipeline
-architecture to reduce on-chip buffer cost and couples the computation dataflow
-and parallelism design to eliminate the pipeline bubbles. HG-PIPE further
-introduces careful approximations to implement both linear and non-linear
-operators with abundant Lookup Tables (LUTs), thus alleviating resource
-constraints. On a ZCU102 FPGA, HG-PIPE achieves 2.78 times better throughput
-and 2.52 times better resource efficiency than the prior-art accelerators,
-e.g., AutoViTAcc. With a VCK190 FPGA, HG-PIPE realizes end-to-end ViT
-acceleration on a single device and achieves 7118 images/s, which is 2.81 times
-faster than a V100 GPU.
-
-摘要：視覺變換器 (ViT) 加速與現場可編程閘陣列 (FPGA) 充滿前景，但具有挑戰性。現有的基於 FPGA 的 ViT 加速器主要依賴於時間架構，它透過重複使用相同的硬體區塊來處理不同的運算子，並承受大量的記憶體存取負擔。無論是粗粒度或細粒度，流水線架構都會在空間上展開 ViT 計算以提高記憶體存取效率。然而，它們通常會受到顯著的硬體資源限制和由 ViT 的全局計算依賴性所引發的流水線氣泡影響。在本文中，我們介紹 HG-PIPE，一種用於高通量和低延遲 ViT 處理的流水線 FPGA 加速器。HG-PIPE 採用混合粒度流水線架構以降低晶片緩衝成本，並結合計算資料流程和並行設計以消除流水線氣泡。HG-PIPE 進一步引入仔細的近似值，以使用豐富的查閱表 (LUT) 實作線性和非線性運算子，從而減輕資源限制。在 ZCU102 FPGA 上，HG-PIPE 的處理量比現有加速器（例如 AutoViTAcc）高出 2.78 倍，資源效率高出 2.52 倍。使用 VCK190 FPGA，HG-PIPE 在單一裝置上實現端到端的 ViT 加速，並實現每秒 7118 張影像，比 V100 GPU 快 2.81 倍。
-
-##### **EEG-SSM: Leveraging State-Space Model for Dementia Detection**
-2407.17801v1 by Xuan-The Tran, Linh Le, Quoc Toan Nguyen, Thomas Do, Chin-Teng Lin
-
-State-space models (SSMs) have garnered attention for effectively processing
-long data sequences, reducing the need to segment time series into shorter
-intervals for model training and inference. Traditionally, SSMs capture only
-the temporal dynamics of time series data, omitting the equally critical
-spectral features. This study introduces EEG-SSM, a novel state-space
-model-based approach for dementia classification using EEG data. Our model
-features two primary innovations: EEG-SSM temporal and EEG-SSM spectral
-components. The temporal component is designed to efficiently process EEG
-sequences of varying lengths, while the spectral component enhances the model
-by integrating frequency-domain information from EEG signals. The synergy of
-these components allows EEG-SSM to adeptly manage the complexities of
-multivariate EEG data, significantly improving accuracy and stability across
-different temporal resolutions. Demonstrating a remarkable 91.0 percent
-accuracy in classifying Healthy Control (HC), Frontotemporal Dementia (FTD),
-and Alzheimer's Disease (AD) groups, EEG-SSM outperforms existing models on the
-same dataset. The development of EEG-SSM represents an improvement in the use
-of state-space models for screening dementia, offering more precise and
-cost-effective tools for clinical neuroscience.
-
-摘要：狀態空間模型 (SSM) 因有效處理長資料序列而備受關注，減少將時間序列區隔成較短區間以進行模型訓練和推論的需要。傳統上，SSM 只擷取時間序列資料的時間動態，省略同樣重要的頻譜特徵。本研究提出 EEG-SSM，一種新的基於狀態空間模型的方法，用於使用 EEG 資料進行失智症分類。我們的模型具有兩項主要的創新：EEG-SSM 時間和 EEG-SSM 頻譜組成部分。時間組成部分旨在有效率地處理長度不同的 EEG 序列，而頻譜組成部分透過整合 EEG 訊號的頻域資訊來增強模型。這些組成部分的協同作用讓 EEG-SSM 能靈活地管理多變量 EEG 資料的複雜性，大幅改善不同時間解析度下的準確性和穩定性。EEG-SSM 在分類健康對照組 (HC)、額顳葉型失智症 (FTD) 和阿茲海默症 (AD) 組別時展現出驚人的 91.0% 準確度，在相同的資料集上優於現有模型。EEG-SSM 的開發代表了使用狀態空間模型進行失智症篩檢的進步，為臨床神經科學提供更精確且更具成本效益的工具。
-
-##### **Closing the gap between open-source and commercial large language models for medical evidence summarization**
-2408.00588v1 by Gongbo Zhang, Qiao Jin, Yiliang Zhou, Song Wang, Betina R. Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas Campion, Zhiyong Lu, Chunhua Weng, Yifan Peng
-
-Large language models (LLMs) hold great promise in summarizing medical
-evidence. Most recent studies focus on the application of proprietary LLMs.
-Using proprietary LLMs introduces multiple risk factors, including a lack of
-transparency and vendor dependency. While open-source LLMs allow better
-transparency and customization, their performance falls short compared to
-proprietary ones. In this study, we investigated to what extent fine-tuning
-open-source LLMs can further improve their performance in summarizing medical
-evidence. Utilizing a benchmark dataset, MedReview, consisting of 8,161 pairs
-of systematic reviews and summaries, we fine-tuned three broadly-used,
-open-sourced LLMs, namely PRIMERA, LongT5, and Llama-2. Overall, the fine-tuned
-LLMs obtained an increase of 9.89 in ROUGE-L (95% confidence interval:
-8.94-10.81), 13.21 in METEOR score (95% confidence interval: 12.05-14.37), and
-15.82 in CHRF score (95% confidence interval: 13.89-16.44). The performance of
-fine-tuned LongT5 is close to GPT-3.5 with zero-shot settings. Furthermore,
-smaller fine-tuned models sometimes even demonstrated superior performance
-compared to larger zero-shot models. The above trends of improvement were also
-manifested in both human and GPT4-simulated evaluations. Our results can be
-applied to guide model selection for tasks demanding particular domain
-knowledge, such as medical evidence summarization.
-
-摘要：大型语言模型 (LLM) 在总结医学证据方面具有很大的前景。最近的研究主要集中在专有 LLM 的应用上。使用专有 LLM 会引入多个风险因素，包括缺乏透明度和供应商依赖性。虽然开源 LLM 允许更好的透明度和定制，但它们的性能与专有 LLM 相比还有所不足。在这项研究中，我们调查了微调开源 LLM 在多大程度上可以进一步提高其在总结医学证据方面的性能。利用基准数据集 MedReview，其中包含 8,161 对系统评价和摘要，我们微调了三个广泛使用的开源 LLM，即 PRIMERA、LongT5 和 Llama-2。总体而言，经过微调的 LLM 在 ROUGE-L 中增加了 9.89（95% 置信区间：8.94-10.81），在 METEOR 分数中增加了 13.21（95% 置信区间：12.05-14.37），在 CHRF 分数中增加了 15.82（95% 置信区间：13.89-16.44）。经过微调的 LongT5 的性能接近于零镜头设置下的 GPT-3.5。此外，较小的微调模型有时甚至表现出优于较大的零镜头模型的性能。上述改进趋势也体现在人类和 GPT4 模拟评估中。我们的结果可用于指导模型选择，以完成需要特定领域知识的任务，例如医学证据总结。
-
-##### **Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**
-2407.17762v1 by Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Prarththanan Sothyrajah, Thanveer Ahamed, Dinuka Wijesundara
-
-Rapid development of disease detection models using computer vision is
-crucial in responding to medical emergencies, such as epidemics or bioterrorism
-events. Traditional data collection methods are often too slow in these
-scenarios, requiring innovative approaches for quick, reliable model generation
-from minimal data. Our study introduces a novel approach by constructing a
-comprehensive computer vision model to detect Mpox lesions using only synthetic
-data. Initially, these models generated a diverse set of synthetic images
-representing Mpox lesions on various body parts (face, back, chest, leg, neck,
-arm) across different skin tones as defined by the Fitzpatrick scale (fair,
-brown, dark skin). Subsequently, we trained and tested a vision model with this
-synthetic dataset to evaluate the diffusion models' efficacy in producing
-high-quality training data and its impact on the vision model's medical image
-recognition performance. The results were promising; the vision model achieved
-a 97% accuracy rate, with 96% precision and recall for Mpox cases, and
-similarly high metrics for normal and other skin disorder cases, demonstrating
-its ability to correctly identify true positives and minimize false positives.
-The model achieved an F1-Score of 96% for Mpox cases and 98% for normal and
-other skin disorders, reflecting a balanced precision-recall relationship, thus
-ensuring reliability and robustness in its predictions. Our proposed
-SynthVision methodology indicates the potential to develop accurate computer
-vision models with minimal data input for future medical emergencies.
-
-摘要：<paragraph>利用電腦視覺快速開發疾病檢測模型對於因應醫療緊急事件（例如流行病或生物恐怖主義事件）至關重要。傳統的資料收集方法在這些情況下通常太慢，需要創新的方法才能從最少資料中快速、可靠地產生模型。我們的研究介紹了一種新穎的方法，透過建構一個全面的電腦視覺模型，僅使用合成資料來檢測猴痘病灶。最初，這些模型產生了一組多樣化的合成影像，代表了不同膚色（根據 Fitzpatrick 量表定義為白皙、棕色、深色皮膚）上不同身體部位（臉部、背部、胸部、腿部、頸部、手臂）的猴痘病灶。隨後，我們使用這個合成資料集訓練和測試一個視覺模型，以評估擴散模型產生高品質訓練資料的效能，以及其對視覺模型醫學影像辨識效能的影響。結果令人滿意；視覺模型達到了 97% 的準確率，猴痘病例的準確度和召回率為 96%，正常和其它皮膚疾病病例的指標也同樣高，證明了它正確辨識真陽性並將假陽性降至最低的能力。該模型在猴痘病例中達到了 96% 的 F1 分數，在正常和其它皮膚疾病中達到了 98%，反映出平衡的準確度召回率關係，從而確保其預測的可靠性和穩健性。我們提出的 SynthVision 方法表明，有可能為未來的醫療緊急事件開發出準確的電腦視覺模型，且資料輸入量最少。</paragraph>
-
-##### **Cost-effective Instruction Learning for Pathology Vision and Language Analysis**
-2407.17734v1 by Kaitao Chen, Mianxin Liu, Fang Yan, Lei Ma, Xiaoming Shi, Lilong Wang, Xiaosong Wang, Lifeng Zhu, Zhe Wang, Mu Zhou, Shaoting Zhang
-
-The advent of vision-language models fosters the interactive conversations
-between AI-enabled models and humans. Yet applying these models into clinics
-must deal with daunting challenges around large-scale training data, financial,
-and computational resources. Here we propose a cost-effective instruction
-learning framework for conversational pathology named as CLOVER. CLOVER only
-trains a lightweight module and uses instruction tuning while freezing the
-parameters of the large language model. Instead of using costly GPT-4, we
-propose well-designed prompts on GPT-3.5 for building generation-based
-instructions, emphasizing the utility of pathological knowledge derived from
-the Internet source. To augment the use of instructions, we construct a
-high-quality set of template-based instructions in the context of digital
-pathology. From two benchmark datasets, our findings reveal the strength of
-hybrid-form instructions in the visual question-answer in pathology. Extensive
-results show the cost-effectiveness of CLOVER in answering both open-ended and
-closed-ended questions, where CLOVER outperforms strong baselines that possess
-37 times more training parameters and use instruction data generated from
-GPT-4. Through the instruction tuning, CLOVER exhibits robustness of few-shot
-learning in the external clinical dataset. These findings demonstrate that
-cost-effective modeling of CLOVER could accelerate the adoption of rapid
-conversational applications in the landscape of digital pathology.
-
-摘要：視覺語言模型的出現促進了 AI 啟用模型與人類之間的互動對話。然而，將這些模型應用於臨床必須應對大規模訓練數據、財務和計算資源等嚴峻挑戰。在此，我們提出了一個名為 CLOVER 的經濟高效的會話病理學指令學習架構。CLOVER 僅訓練一個輕量級模組，並在凍結大型語言模型參數的同時使用指令微調。我們沒有使用昂貴的 GPT-4，而是針對 GPT-3.5 提出設計良好的提示，以建立基於生成的指令，強調從網際網路來源衍生的病理知識的效用。為了擴展指令的使用，我們在數位病理學的背景下構建了一組高品質的基於範本的指令。從兩個基準資料集，我們的研究結果揭示了混合形式指令在病理學視覺問答中的優勢。廣泛的結果顯示了 CLOVER 在回答開放式和封閉式問題方面的經濟效益，其中 CLOVER 優於擁有多 37 倍訓練參數並使用從 GPT-4 生成的指令資料的強大基準。透過指令微調，CLOVER 在外部臨床資料集中展現了小樣本學習的穩健性。這些發現證明了 CLOVER 的經濟高效建模可以加速在數位病理領域採用快速對話式應用程式。
-
-##### **Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**
-2407.17324v2 by Nikolaos Ntampakis, Konstantinos Diamantaras, Ioanna Chouvarda, Vasileios Argyriou, Panagiotis Sarigianndis
-
-Dementia, a debilitating neurological condition affecting millions worldwide,
-presents significant diagnostic challenges. In this work, we introduce a novel
-methodology for the classification of demented and non-demented elderly
-patients using 3D brain Magnetic Resonance Imaging (MRI) scans. Our approach
-features a unique technique for selectively processing MRI slices, focusing on
-the most relevant brain regions and excluding less informative sections. This
-methodology is complemented by a confidence-based classification committee
-composed of three custom deep learning models: Dem3D ResNet, Dem3D CNN, and
-Dem3D EfficientNet. These models work synergistically to enhance
-decision-making accuracy, leveraging their collective strengths. Tested on the
-Open Access Series of Imaging Studies(OASIS) dataset, our method achieved an
-impressive accuracy of 94.12%, surpassing existing methodologies. Furthermore,
-validation on the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset
-confirmed the robustness and generalizability of our approach. The use of
-explainable AI (XAI) techniques and comprehensive ablation studies further
-substantiate the effectiveness of our techniques, providing insights into the
-decision-making process and the importance of our methodology. This research
-offers a significant advancement in dementia diagnosis, providing a highly
-accurate and efficient tool for clinical applications.
-
-摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 

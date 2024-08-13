@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**|Joshua Morriss et.al.|[2408.05239v1](http://arxiv.org/abs/2408.05239v1)|null|
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
@@ -101,9 +102,40 @@
 |**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v2](http://arxiv.org/abs/2305.14389v2)|null|
 |**2023-05-18**|**What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**|Junwei Kuang et.al.|[2305.13127v2](http://arxiv.org/abs/2305.13127v2)|null|
 |**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
-|**2023-05-05**|**Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**|Goda Klumbyte et.al.|[2305.03376v1](http://arxiv.org/abs/2305.03376v1)|null|
 
 #### Abstracts
+##### **The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**
+2408.05239v1 by Joshua Morriss, Tod Brindle, Jessica Bah Rösman, Daniel Reibsamen, Andreas Enz
+
+Systematic literature reviews are the highest quality of evidence in
+research. However, the review process is hindered by significant resource and
+data constraints. The Literature Review Network (LRN) is the first of its kind
+explainable AI platform adhering to PRISMA 2020 standards, designed to automate
+the entire literature review process. LRN was evaluated in the domain of
+surgical glove practices using 3 search strings developed by experts to query
+PubMed. A non-expert trained all LRN models. Performance was benchmarked
+against an expert manual review. Explainability and performance metrics
+assessed LRN's ability to replicate the experts' review. Concordance was
+measured with the Jaccard index and confusion matrices. Researchers were
+blinded to the other's results until study completion. Overlapping studies were
+integrated into an LRN-generated systematic review. LRN models demonstrated
+superior classification accuracy without expert training, achieving 84.78% and
+85.71% accuracy. The highest performance model achieved high interrater
+reliability (k = 0.4953) and explainability metrics, linking 'reduce',
+'accident', and 'sharp' with 'double-gloving'. Another LRN model covered 91.51%
+of the relevant literature despite diverging from the non-expert's judgments (k
+= 0.2174), with the terms 'latex', 'double' (gloves), and 'indication'. LRN
+outperformed the manual review (19,920 minutes over 11 months), reducing the
+entire process to 288.6 minutes over 5 days. This study demonstrates that
+explainable AI does not require expert training to successfully conduct
+PRISMA-compliant systematic literature reviews like an expert. LRN summarized
+the results of surgical glove studies and identified themes that were nearly
+identical to the clinical researchers' findings. Explainable AI can accurately
+expedite our understanding of clinical practices, potentially revolutionizing
+healthcare research.
+
+摘要：系統性文獻回顧是研究中證據品質最高的。然而，回顧過程受到顯著資源和資料限制的阻礙。文獻回顧網路 (LRN) 是第一個遵循 PRISMA 2020 標準的可解釋 AI 平台，旨在自動化整個文獻回顧過程。LRN 在外科手套實務領域中進行評估，使用專家開發的 3 個搜尋字串來查詢 PubMed。非專家訓練所有 LRN 模型。效能以專家手動回顧作為基準。可解釋性和效能指標評估 LRN 複製專家回顧的能力。一致性以 Jaccard 指數和混淆矩陣測量。研究人員在研究完成前對彼此的結果保密。重疊的研究整合到 LRN 生成的系統性回顧中。LRN 模型在沒有專家訓練的情況下展現出優異的分類準確率，達到 84.78% 和 85.71% 的準確率。效能最高的模型達到了高評分者間信賴度 (k = 0.4953) 和可解釋性指標，將「減少」、「意外」和「銳利」與「雙重戴手套」連結在一起。另一個 LRN 模型涵蓋了 91.51% 的相關文獻，儘管與非專家的判斷不同 (k = 0.2174)，但包含了「乳膠」、「雙重」（手套）和「適應症」等詞彙。LRN 優於手動回顧（11 個月超過 19,920 分鐘），將整個過程縮短為 5 天超過 288.6 分鐘。這項研究顯示，可解釋的 AI 不需要專家訓練即可成功進行專家等級的 PRISMA 相容系統性文獻回顧。LRN 總結了外科手套研究的結果，並找出與臨床研究人員發現幾乎相同的主题。可解釋的 AI 可以準確地加快我們對臨床實務的理解，有潛力革新醫療保健研究。
+
 ##### **Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**
 2408.02709v1 by Chi Him Ng
 
@@ -2574,19 +2606,4 @@ for responsible AI development and contributes to understanding clinician
 behavior and EHR note writing in healthcare.
 
 摘要：電子健康紀錄 (EHR) 作為預想中由人工智慧 (AI) 推動的醫療保健轉型的重要資料來源。然而，反映在 EHR 備註中的臨床偏見可能導致 AI 模型繼承並擴大這些偏見，進而造成健康差異。本研究探討 EHR 備註中汙名化語言 (SL) 對使用基於 Transformer 的深度學習模型和可解釋 AI (XAI) 技術預測死亡率的影響。我們的研究結果表明，由臨床醫生撰寫的 SL 會對 AI 效能產生不利影響，特別是對黑人患者而言，突顯 SL 是 AI 模型開發中種族差異的來源。為了探索一種運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路探討 SL 產生的模式，並找出核心臨床醫生對 AI 模型中的種族差異有較大的影響。我們發現，移除由核心臨床醫生撰寫的 SL 是比消除資料集中所有 SL 更有效率的偏見減少策略。本研究提供可行的見解，用於負責任的 AI 開發，並有助於了解臨床醫生行為和醫療保健中的 EHR 備註撰寫。
-
-##### **Explaining the ghosts: Feminist intersectional XAI and cartography as methods to account for invisible labour**
-2305.03376v1 by Goda Klumbyte, Hannah Piehl, Claude Draude
-
-Contemporary automation through AI entails a substantial amount of
-behind-the-scenes human labour, which is often both invisibilised and
-underpaid. Since invisible labour, including labelling and maintenance work, is
-an integral part of contemporary AI systems, it remains important to sensitise
-users to its role. We suggest that this could be done through explainable AI
-(XAI) design, particularly feminist intersectional XAI. We propose the method
-of cartography, which stems from feminist intersectional research, to draw out
-a systemic perspective of AI and include dimensions of AI that pertain to
-invisible labour.
-
-摘要：當代通過 AI 的自動化需要大量的幕後人力，這通常既不可見且薪資過低。由於不可見的勞動，包括標籤和維護工作，是當代 AI 系統的組成部分，因此讓使用者了解其角色仍然很重要。我們建議這可以透過可解釋的 AI（XAI）設計來完成，特別是女性主義交叉的 XAI。我們提出源自女性主義交叉研究的製圖方法，以提出 AI 的系統觀點，並納入與不可見勞動相關的 AI 維度。
 

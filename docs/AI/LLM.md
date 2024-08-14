@@ -12,13 +12,13 @@
 |**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292v1](http://arxiv.org/abs/2408.06292v1)|[link](https://github.com/sakanaai/ai-scientist)|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|null|
 |**2024-08-12**|**MovieSum: An Abstractive Summarization Dataset for Movie Screenplays**|Rohit Saxena et.al.|[2408.06281v1](http://arxiv.org/abs/2408.06281v1)|[link](https://github.com/saxenarohit/moviesum)|
-|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276v1](http://arxiv.org/abs/2408.06276v1)|null|
-|**2024-08-12**|**FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**|Haoran Sun et.al.|[2408.06273v1](http://arxiv.org/abs/2408.06273v1)|null|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276v2](http://arxiv.org/abs/2408.06276v2)|null|
+|**2024-08-12**|**FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**|Haoran Sun et.al.|[2408.06273v2](http://arxiv.org/abs/2408.06273v2)|null|
 |**2024-08-12**|**Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment**|Karel D'Oosterlinck et.al.|[2408.06266v1](http://arxiv.org/abs/2408.06266v1)|null|
 |**2024-08-12**|**Audio Enhancement for Computer Audition -- An Iterative Training Paradigm Using Sample Importance**|Manuel Milling et.al.|[2408.06264v1](http://arxiv.org/abs/2408.06264v1)|null|
 |**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261v1](http://arxiv.org/abs/2408.06261v1)|null|
 |**2024-08-12**|**Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning**|Yingjin Song et.al.|[2408.06259v1](http://arxiv.org/abs/2408.06259v1)|null|
-|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v1](http://arxiv.org/abs/2408.06240v1)|null|
+|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v2](http://arxiv.org/abs/2408.06240v2)|null|
 |**2024-08-12**|**FLEURS-R: A Restored Multilingual Speech Corpus for Generation Tasks**|Min Ma et.al.|[2408.06227v1](http://arxiv.org/abs/2408.06227v1)|null|
 |**2024-08-12**|**A Large-Scale Study of Model Integration in ML-Enabled Software Systems**|Yorick Sens et.al.|[2408.06226v1](http://arxiv.org/abs/2408.06226v1)|null|
 |**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223v1](http://arxiv.org/abs/2408.06223v1)|null|
@@ -47,7 +47,7 @@
 |**2024-08-12**|**Markov Senior -- Learning Markov Junior Grammars to Generate User-specified Content**|Mehmet Kayra Oğuz et.al.|[2408.05959v1](http://arxiv.org/abs/2408.05959v1)|[link](https://github.com/adockhorn/markovsenior)|
 |**2024-08-12**|**ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**|Ronak Pradeep et.al.|[2408.05948v1](http://arxiv.org/abs/2408.05948v1)|null|
 |**2024-08-12**|**Multimodal Large Language Models for Phishing Webpage Detection and Identification**|Jehyun Lee et.al.|[2408.05941v1](http://arxiv.org/abs/2408.05941v1)|[link](https://github.com/jehleekr/multimodal_llm_phishing_detection)|
-|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environmen**|Eunsoo Im et.al.|[2408.05940v1](http://arxiv.org/abs/2408.05940v1)|null|
+|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**|Eunsoo Im et.al.|[2408.05940v2](http://arxiv.org/abs/2408.05940v2)|null|
 |**2024-08-12**|**Optimizing RAG Techniques for Automotive Industry PDF Chatbots: A Case Study with Locally Deployed Ollama Models**|Fei Liu et.al.|[2408.05933v1](http://arxiv.org/abs/2408.05933v1)|null|
 |**2024-08-12**|**BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation**|Hee Suk Yoon et.al.|[2408.05926v1](http://arxiv.org/abs/2408.05926v1)|[link](https://github.com/hee-suk-yoon/bi-mdrg)|
 |**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924v1](http://arxiv.org/abs/2408.05924v1)|null|
@@ -55,7 +55,7 @@
 |**2024-08-12**|**Inverse design of Non-parameterized Ventilated Acoustic Resonator via Variational Autoencoder with Acoustic Response-encoded Latent Space**|Min Woo Cho et.al.|[2408.05917v1](http://arxiv.org/abs/2408.05917v1)|null|
 |**2024-08-12**|**A New Pipeline For Generating Instruction Dataset via RAG and Self Fine-Tuning**|Chih-Wei Song et.al.|[2408.05911v1](http://arxiv.org/abs/2408.05911v1)|null|
 |**2024-08-12**|**AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising**|Peinan Zhang et.al.|[2408.05906v1](http://arxiv.org/abs/2408.05906v1)|[link](https://github.com/cyberagentailab/adtec)|
-|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v1](http://arxiv.org/abs/2408.05905v1)|null|
+|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v2](http://arxiv.org/abs/2408.05905v2)|null|
 |**2024-08-12**|**Quantum Gradient Class Activation Map for Model Interpretability**|Hsin-Yi Lin et.al.|[2408.05899v1](http://arxiv.org/abs/2408.05899v1)|null|
 |**2024-08-12**|**GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models**|Zixuan Wu et.al.|[2408.05894v1](http://arxiv.org/abs/2408.05894v1)|null|
 |**2024-08-12**|**Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection**|Mobina Mansoori et.al.|[2408.05892v1](http://arxiv.org/abs/2408.05892v1)|[link](https://github.com/sajjad-sh33/polyp-sam-2)|
@@ -94,7 +94,7 @@
 |**2024-08-11**|**Training an NLP Scholar at a Small Liberal Arts College: A Backwards Designed Course Proposal**|Grusha Prasad et.al.|[2408.05664v1](http://arxiv.org/abs/2408.05664v1)|null|
 |**2024-08-10**|**WiDe-analysis: Enabling One-click Content Moderation Analysis on Wikipedia's Articles for Deletion**|Hsuvas Borkakoty et.al.|[2408.05655v1](http://arxiv.org/abs/2408.05655v1)|null|
 |**2024-08-10**|**Eigen Attention: Attention in Low-Rank Space for KV Cache Compression**|Utkarsh Saxena et.al.|[2408.05646v1](http://arxiv.org/abs/2408.05646v1)|null|
-|**2024-08-10**|**Federated Smoothing Proximal Gradient for Quantile Regression with Non-Convex Penalties**|Reza Mirzaeifard et.al.|[2408.05640v1](http://arxiv.org/abs/2408.05640v1)|null|
+|**2024-08-10**|**Federated Smoothing Proximal Gradient for Quantile Regression with Non-Convex Penalties**|Reza Mirzaeifard et.al.|[2408.05640v2](http://arxiv.org/abs/2408.05640v2)|null|
 |**2024-08-10**|**Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**|Jacob K Christopher et.al.|[2408.05636v1](http://arxiv.org/abs/2408.05636v1)|null|
 |**2024-08-10**|**Forecasting Day-Ahead Electricity Prices in the Integrated Single Electricity Market: Addressing Volatility with Comparative Machine Learning Methods**|Ben Harkin et.al.|[2408.05628v1](http://arxiv.org/abs/2408.05628v1)|null|
 |**2024-08-10**|**UrFound: Towards Universal Retinal Foundation Models via Knowledge-Guided Masked Modeling**|Kai Yu et.al.|[2408.05618v1](http://arxiv.org/abs/2408.05618v1)|[link](https://github.com/yukkai/urfound)|
@@ -338,7 +338,7 @@ applied to summarization on our dataset to provide a detailed baseline.
 摘要：電影劇本摘要具有挑戰性，因為它需要了解長的輸入背景和電影獨有的各種元素。大型語言模型在文件摘要中顯示出顯著的進步，但它們通常難以處理長的輸入背景。此外，儘管電視轉錄在最近的研究中受到關注，但電影劇本摘要仍未得到充分探討。為了激發這方面的研究，我們提出了新的資料集 MovieSum，用於電影劇本的抽象摘要。此資料集包含 2200 部電影劇本及其維基百科情節摘要。我們手動格式化電影劇本以表示其結構元素。與現有資料集相比，MovieSum 具有幾個顯著特徵：(1) 它包括電影劇本，其長度超過電視劇集的腳本。(2) 它比以前的電影劇本資料集大兩倍。(3) 它提供帶有 IMDb ID 的元資料，以方便存取其他外部知識。我們還展示了最近發布的大型語言模型應用於我們資料集上的摘要結果，以提供詳細的基準。
 
 ##### **Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**
-2408.06276v1 by Jieyong Kim, Hyunseo Kim, Hyunjin Cho, SeongKu Kang, Buru Chang, Jinyoung Yeo, Dongha Lee
+2408.06276v2 by Jieyong Kim, Hyunseo Kim, Hyunjin Cho, SeongKu Kang, Buru Chang, Jinyoung Yeo, Dongha Lee
 
 Recent advancements in Large Language Models (LLMs) have demonstrated
 exceptional performance across a wide range of tasks, generating significant
@@ -361,10 +361,10 @@ show that EXP3RT outperforms existing methods on both rating prediction and
 candidate item reranking for top-k recommendation, while significantly
 enhancing the explainability of recommendation systems.
 
-摘要：大型語言模型 (LLM) 的近期進展已證明在廣泛任務中具有非凡的表現，對其在推薦系統中的應用產生極大的興趣。然而，現有方法並未充分利用 LLM 的潛力，通常受到輸入資訊有限或無法充分利用其先進推理能力的限制。為了解決這些限制，我們引入了 EXP3RT，這是一個基於 LLM 的新穎推薦器，旨在利用使用者和商品評論中包含的豐富偏好資訊。EXP3RT 基本上透過從教師 LLM 中進行知識蒸餾來微調，以按順序執行三項關鍵任務：EXP3RT 首先從原始評論中提取和封裝必要的客觀偏好，根據特定標準彙總和總結這些偏好，以建立使用者和商品檔案。然後，它會考慮使用者/商品檔案和商品說明中的主觀和客觀資訊，產生詳細的逐步推理，接著是預測評分，也就是說，推理增強評分預測。來自 EXP3RT 的這種個人化偏好推理增強了評分預測的準確性，也為推薦提供了忠實且合理的解釋。大量的實驗表明，EXP3RT 在評分預測和候選商品重新排序以進行前 k 名推薦方面都優於現有方法，同時顯著增強了推薦系統的可解釋性。
+摘要：大型語言模型 (LLM) 最近的進展已展現出在各種任務上的卓越表現，並對其在推薦系統中的應用產生極大的興趣。然而，現有方法並未充分發揮 LLM 的潛力，通常受到輸入資訊有限或未能充分利用其先進推理能力的限制。為了解決這些限制，我們引入了 EXP3RT，一種新穎的基於 LLM 的推薦器，旨在利用使用者和商品評論中包含的豐富偏好資訊。EXP3RT 基本上透過從教師 LLM 中進行蒸餾來微調，以便按順序執行三項關鍵任務：EXP3RT 首先從原始評論中提取並封裝必要的個人主觀偏好，根據特定標準彙總並總結它們以建立使用者和商品檔案。然後，它會考慮使用者/商品檔案和商品說明中的主觀和客觀資訊，產生詳細的逐步推理，然後進行預測評分，即增強推理的評分預測。EXP3RT 的這種個人化偏好推理增強了評分預測的準確性，也為推薦提供了忠實且合理的解釋。大量的實驗表明，EXP3RT 在評分預測和候選項目重新排序方面都優於現有方法，同時顯著提高了推薦系統的可解釋性。
 
 ##### **FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**
-2408.06273v1 by Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Dui, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong
+2408.06273v2 by Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong
 
 Large language models (LLMs) have demonstrated prowess in a wide range of
 tasks. However, many LLMs exhibit significant performance discrepancies between
@@ -387,7 +387,7 @@ languages. To promote further research into multilingual LLMs and their working
 mechanisms, we release both the base and instruction-tuned FuxiTranyu models
 together with 58 pretraining checkpoints at HuggingFace and Github.
 
-摘要：大型語言模型 (LLM) 已在廣泛的任務中展現出其能力。然而，許多 LLM 在高資源和低資源語言之間表現出顯著的差異。為了緩解此挑戰，我們提出 FuxiTranyu，這是一個開源的多語言 LLM，旨在滿足研究社群對平衡且高性能多語言功能的需求。FuxiTranyu-8B 是具備 80 億個參數的基本模型，從一個精心平衡的多語言資料儲存庫進行訓練，其中包含涵蓋 43 種自然語言和 16 種程式語言的 6000 億個代幣。除了基本模型外，我們還開發了兩個指令微調模型：FuxiTranyu-8B-SFT，在一個多樣化的多語言指令資料集上進行微調，以及 FuxiTranyu-8B-DPO，在一個偏好資料集上進一步使用 DPO 進行微調以增強對齊能力。在廣泛的多語言基準上進行的廣泛實驗證明了 FuxiTranyu 相對於現有的多語言 LLM（例如 BLOOM-7B、PolyLM-13B、Llama-2-Chat-7B 和 Mistral-7B-Instruct）的競爭力。在神經元和表示層級的詮釋性分析表明，FuxiTranyu 能夠跨不同語言學習一致的多語言表示。為了促進對多語言 LLM 及其工作機制的進一步研究，我們在 HuggingFace 和 Github 上釋出基本和指令微調的 FuxiTranyu 模型，以及 58 個預訓練檢查點。
+摘要：大型語言模型 (LLM) 已在各種任務中展現其優異的表現。然而，許多 LLM 在高資源語言和低資源語言之間表現出顯著的差異。為了緩解此挑戰，我們提出 FuxiTranyu，這是一個開源的多語言 LLM，旨在滿足研究社群對於平衡且高性能的多語言功能的需求。FuxiTranyu-8B，一個擁有 80 億個參數的基本模型，從一個精心平衡的多語言資料庫中從頭訓練，其中包含 6000 億個符號，涵蓋 43 種自然語言和 16 種程式語言。除了基本模型之外，我們還開發了兩個指令調整模型：FuxiTranyu-8B-SFT，在一個多元的多語言指令資料集上進行微調，以及 FuxiTranyu-8B-DPO，在一個偏好資料集上進一步使用 DPO 進行調整，以增強對齊能力。在各種多語言基準上的廣泛實驗證明了 FuxiTranyu 相對於現有的多語言 LLM（例如 BLOOM-7B、PolyLM-13B、Llama-2-Chat-7B 和 Mistral-7B-Instruct）具有競爭力。在神經元和表徵層級的詮釋性分析表明，FuxiTranyu 能夠學習跨不同語言的一致多語言表徵。為了促進對多語言 LLM 及其工作機制的進一步研究，我們在 HuggingFace 和 Github 上同時釋出基本和指令調整的 FuxiTranyu 模型，以及 58 個預訓練檢查點。
 
 ##### **Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment**
 2408.06266v1 by Karel D'Oosterlinck, Winnie Xu, Chris Develder, Thomas Demeester, Amanpreet Singh, Christopher Potts, Douwe Kiela, Shikib Mehri
@@ -469,9 +469,9 @@ generated by our framework are diverse, coherent, informative, and interesting.
 摘要：視覺敘事系統從影像序列產生多句式故事。在此任務中，擷取上下文資訊和彌合理視覺變化帶來額外的挑戰。我們提出一個簡單但有效的架構，利用預訓練基礎模型的概化能力，僅訓練一個輕量級的視覺語言對應網路來連接模態，同時納入上下文以增強連貫性。我們引入一個多模態對比目標，它也改善了視覺相關性和故事的資訊性。在自動指標和人工評估中，廣泛的實驗結果證明，我們的架構產生的故事多樣、連貫、資訊豐富且有趣。
 
 ##### **Decentralized Intelligence Health Network (DIHN)**
-2408.06240v1 by Abraham Nash
+2408.06240v2 by Abraham Nash
 
-Decentralized Intelligence Health Network (DIHN) is a theoretical framework
+Decentralized Health Intelligence Network (DHIN) is a theoretical framework
 addressing significant challenges of health data sovereignty and AI utilization
 in healthcare caused by data fragmentation across providers and institutions.
 It establishes a sovereign architecture for healthcare provision as a
@@ -497,7 +497,10 @@ model that adapts to individual needs, complements existing systems, and
 redefines universal coverage. It highlights the potential to transform
 healthcare data management and AI utilization while empowering patients.
 
-摘要：分散式智能健康網路 (DIHN) 是一個理論架構，用於解決醫療保健中因資料分散在各個供應商和機構而造成的健康資料主權和 AI 使用的重大挑戰。它建立了一個主權架構作為醫療保健提供的先決條件，以建立一個主權健康網路，然後透過克服取得多樣化醫療資料來源的障礙，促進有效的 AI 使用。這個全面的架構利用：1) 自主權身分架構，加上個人健康紀錄 (PHR) 作為健康資料主權的先決條件；2) 一個可擴充的聯邦學習 (FL) 協定，實作於一個公共區塊鏈上，用於醫療保健中的分散式 AI 訓練，其中健康資料仍保留在參與者手中，只有模型參數更新會被分享；以及 3) 一個可擴充的、無需信任的獎勵機制，用於激勵參與並確保公平的獎勵分配。這個架構確保沒有任何實體可以阻止或控制參與者提供的健康資料訓練的存取，或決定財務利益，因為這些流程是在一個公共區塊鏈上運作，具有不可變更的紀錄，且沒有第三方。它支援醫療保健中的有效 AI 訓練，讓患者可以掌控自己的健康資料，從中獲取財務利益，並為一個分散式、可擴充的生態系統做出貢獻，該生態系統利用集體 AI 來開發有益的醫療保健演算法。患者會收到獎勵到他們的數位錢包中，作為選擇加入 FL 協定的誘因，並有一個長期藍圖來資助分散式的保險解決方案。這種方法引進了一個新穎的、自我資助的醫療保健模式，可以適應個別需求，補充現有的系統，並重新定義全民健保。它突顯了轉型醫療保健資料管理和 AI 使用的潛力，同時賦予患者權力。
+摘要：<paragraph>分散式健康情報網路 (DHIN) 是個理論架構，
+用於解決醫療保健中因資料在各供應商和機構間分散所造成的健康資料主權和 AI 使用的重大挑戰。
+它為醫療保健提供建立一個主權架構，作為一個主權健康網路的前提，然後透過克服取得多元醫療資料來源的障礙來促進有效的 AI 使用。
+這個全面的架構利用：1) 自主權身分架構，結合個人健康記錄 (PHR) 作為健康資料主權的前提；2) 一個可擴充的聯盟式學習 (FL) 協定，實作於一個公共區塊鏈上，用於醫療保健中的分散式 AI 訓練，其中健康資料仍屬於參與者，且僅共享模型參數更新；3) 一個可擴充的、無信任的獎勵機制，用於激勵參與並確保公平的獎勵分配。這個架構確保沒有任何實體可以阻止或控制參與者提供的健康資料的訓練存取，或決定財務利益，因為這些流程在一個具有不可變記錄且沒有第三方的公共區塊鏈上運作。它支援醫療保健中的有效 AI 訓練，讓患者可以保有對其健康資料的控制權，從中獲取財務利益，並貢獻到一個分散式、可擴充的生態系統，該生態系統利用集體 AI 開發有益的醫療保健演算法。患者會收到獎勵到他們的數位錢包中，作為選擇加入 FL 協定的誘因，並有一個長期路線圖來資助分散式保險解決方案。這種方法引入了一個新穎的、自我資助的醫療保健模式，可以適應個別需求、補充現有系統，並重新定義全民覆蓋。它強調了轉型醫療保健資料管理和 AI 使用的潛力，同時賦能患者。</paragraph>
 
 ##### **FLEURS-R: A Restored Multilingual Speech Corpus for Generation Tasks**
 2408.06227v1 by Min Ma, Yuma Koizumi, Shigeki Karita, Heiga Zen, Jason Riesa, Haruko Ishikawa, Michiel Bacchiani
@@ -1161,8 +1164,8 @@ robustness against two known adversarial attacks.
 摘要：<paragraph>為了解決偵測網路釣魚網頁的難題，研究人員已開發出許多解決方案，特別是那些基於機器學習 (ML) 演算法的解決方案。在這些解決方案中，基於品牌的網路釣魚偵測使用電腦視覺模型來偵測給定的網頁是否模仿知名品牌，已受到廣泛關注。然而，此類模型的維護成本高且困難，因為它們需要使用定期且持續收集的標記資料集進行重新訓練。此外，它們還需要維護一個良好的知名網站參考清單和相關元資料，才能發揮良好的效能。
 在這項工作中，我們採取步驟來研究大型語言模型 (LLM) 的效能，特別是多模態 LLM，在偵測網路釣魚網頁方面的效能。由於 LLM 是在大型資料語料庫上進行預訓練，因此我們旨在利用它們對網頁不同面向（例如標誌、主題、網站小圖示等）的理解，來識別給定網頁的品牌，並將識別出的品牌與 URL 中的網域名稱進行比較，以偵測網路釣魚攻擊。我們提出一個在兩個階段都使用 LLM 的兩階段系統：第一階段專注於品牌識別，而第二階段則驗證網域名稱。我們對新收集的資料集進行全面評估。我們的實驗顯示，基於 LLM 的系統在高準確度下達到了很高的偵測率；重要的是，它還為決策提供了可解釋的證據。我們的系統也比現有的基於品牌的網路釣魚偵測系統執行得更好，同時證明了對兩種已知的對抗性攻擊具有穩健性。</paragraph>
 
-##### **Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environmen**
-2408.05940v1 by Eunsoo Im, Changhyun Jee, Jung Kwon Lee
+##### **Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**
+2408.05940v2 by Eunsoo Im, Changhyun Jee, Jung Kwon Lee
 
 Person detection and tracking (PDT) has seen significant advancements with 2D
 camera-based systems in the autonomous vehicle field, leading to widespread
@@ -1176,10 +1179,9 @@ post-processing, data association, motion modeling, and lifecycle management.
 Building upon these insights, we introduce SpbTrack, a robust person tracker
 designed for diverse environments. Our method achieves superior performance on
 noisy datasets and state-of-the-art results on KITTI Dataset benchmarks and
-custom office indoor dataset among LiDAR-based trackers. Project page at
-anonymous.
+custom office indoor dataset among LiDAR-based trackers.
 
-摘要：人員偵測與追蹤 (PDT) 在使用 2D 相機為基礎的系統下，於自動駕駛領域中獲得顯著的進展，進而廣泛採用這些演算法。然而，日益增長的隱私問題最近已成為一個主要議題，促使轉向以 LiDAR 為基礎的 PDT 作為可行的替代方案。在這個領域中，「追蹤透過偵測」(TBD) 已成為一種顯著的方法。儘管其有效性，以 LiDAR 為基礎的 PDT 尚未達到與相機為基礎的 PDT 相同的效能等級。本文探討了以 LiDAR 為基礎的 PDT 架構之主要組成，包括偵測後處理、資料關聯、動作建模和生命週期管理。建立在這些見解之上，我們引進 SpbTrack，一個專為多元環境所設計的強健人員追蹤器。我們的技術在有雜訊的資料集上達到卓越的效能，並在 LiDAR 為基礎的追蹤器中，於 KITTI 資料集基準和自訂辦公室室內資料集上獲得最先進的結果。專案頁面在匿名。
+摘要：行人偵測與追蹤 (PDT) 已在自駕車領域中，透過 2D 攝影機為基礎的系統取得顯著的進展，並廣泛採用這些演算法。然而，日益增長的隱私問題最近已成為一個主要議題，促使轉向以 LiDAR 為基礎的 PDT 作為可行的替代方案。在這個領域中，「追蹤偵測」(TBD) 已成為一個顯著的方法。儘管其有效性，但以 LiDAR 為基礎的 PDT 尚未達到與以攝影機為基礎的 PDT 相同的效能。本文探討以 LiDAR 為基礎的 PDT 架構之關鍵組成，包括偵測後處理、資料關聯、動作建模和生命週期管理。根據這些見解，我們引進 SpbTrack，一個強健的行人追蹤器，專為多樣化的環境而設計。我們的技術在有雜訊的資料集上達成卓越的效能，並在 LiDAR 為基礎的追蹤器中，於 KITTI 資料集基準和自訂辦公室室內資料集上達成最先進的結果。
 
 ##### **Optimizing RAG Techniques for Automotive Industry PDF Chatbots: A Case Study with Locally Deployed Ollama Models**
 2408.05933v1 by Fei Liu, Zejun Kang, Xing Han
@@ -1361,7 +1363,7 @@ significant room for improvement in such area.
 摘要：隨著自然語言生成技術自動建立的廣告文字越來越流暢，在現實環境中驗證這些素材的品質變得極為重要。我們提出 AdTEC，這是第一個從實務廣告操作觀點評估廣告文字多面向品質的公開基準。我們的貢獻包括：(i) 定義評估廣告文字品質的五項任務，並根據廣告代理商的實際操作經驗建立資料集，這些經驗通常只限內部使用。(ii) 驗證現有預先訓練語言模型 (PLM) 和人類評估者在資料集上的表現。(iii) 分析基準的特徵並提出挑戰。結果顯示，儘管 PLM 已在數項任務中達到實務使用等級，人類在特定領域仍表現得較好，這表示在這些領域仍有顯著的改進空間。
 
 ##### **Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**
-2408.05905v1 by Peng Wu, Xuerong Zhou, Guansong Pang, Zhiwei Yang, Qingsen Yan, Peng Wang, Yanning Zhang
+2408.05905v2 by Peng Wu, Xuerong Zhou, Guansong Pang, Zhiwei Yang, Qingsen Yan, Peng Wang, Yanning Zhang
 
 Current weakly supervised video anomaly detection (WSVAD) task aims to
 achieve frame-level anomalous event detection with only coarse video-level
@@ -1386,7 +1388,7 @@ spatio-temporal annotations or auxiliary object detection/tracking, our method
 achieves state-of-the-art performance on three public benchmarks for the WSVADL
 task.
 
-摘要：當前的弱監督影片異常偵測 (WSVAD) 任務旨在僅使用粗略的影片級註解來達成影格級異常事件偵測。現有研究通常包含從全解析度影片影格中萃取全域特徵，並訓練影格級分類器以在時間維度中偵測異常。然而，大多數異常事件往往發生在局部空間區域，而非整個影片影格，這表示現有的基於影格級特徵的研究可能會被主要的背景資訊誤導，且缺乏對偵測到的異常的詮釋。為了解決這個困境，本文介紹了一種稱為 STPrompt 的新方法，該方法學習時空提示嵌入，以進行基於預先訓練的視覺語言模型 (VLM) 的弱監督影片異常偵測與定位 (WSVADL)。我們提出的方法採用雙串流網路結構，其中一個串流專注於時間維度，另一個則主要專注於空間維度。透過利用預先訓練的 VLM 中學習到的知識，並將原始影片中的自然動作先驗納入考量，我們的模型學習與影片的時空區域（例如個別影格的區塊）對齊的提示嵌入，以識別異常的特定局部區域，從而能精確偵測影片異常，同時減輕背景資訊的影響。在不依賴詳細的時空註解或輔助物件偵測/追蹤的情況下，我們的模型在 WSVADL 任務的三個公開基準上達到了最先進的效能。
+摘要：當前的弱監督影片異常偵測 (WSVAD) 任務旨在僅使用粗略的影片層級註解來達成影格層級異常事件偵測。現有的作品通常涉及從全解析度影片影格中萃取全域特徵，並訓練影格層級分類器來偵測時間維度中的異常。然而，大多數異常事件往往發生在局部空間區域，而非整個影片影格，這表示現有的基於影格層級特徵的作品可能會受到主要的背景資訊誤導，且缺乏對偵測到的異常進行詮釋。為了解決這個困境，本文介紹一種稱為 STPrompt 的新方法，它會學習時空提示嵌入，以進行基於預訓練視覺語言模型 (VLM) 的弱監督影片異常偵測與定位 (WSVADL)。我們提出的方法採用雙串流網路結構，其中一個串流專注於時間維度，而另一個主要專注於空間維度。透過利用預訓練 VLM 中學習到的知識，並將原始影片中的自然動作先驗納入，我們的模型會學習與影片的時空區域（例如，個別影格的區塊）對齊的提示嵌入，以識別異常的特定區域，進而進行精確的影片異常偵測，同時減輕背景資訊的影響。在不依賴詳細的時空註解或輔助物件偵測/追蹤的情況下，我們的模型在三個 WSVADL 任務的公開基準上達到了最先進的效能。
 
 ##### **Quantum Gradient Class Activation Map for Model Interpretability**
 2408.05899v1 by Hsin-Yi Lin, Huan-Hsin Tseng, Samuel Yen-Chi Chen, Shinjae Yoo
@@ -2253,7 +2255,7 @@ in performance.
 摘要：大型語言模型 (LLM) 由於其令人印象深刻的推理能力，代表了自然語言處理領域的突破性進展。最近，人們相當有興趣增加這些模型的上下文長度，以增強其對複雜任務的適用性。然而，在較長的上下文長度和較大的批次大小下，儲存注意力鍵和值的快取記憶體 (KV) 成為推論期間記憶體使用量的新瓶頸。為了解決這個問題，我們提出了特徵值注意力，它在低秩空間中執行注意力操作，從而減少了 KV 快取記憶體的開銷。我們提出的方法與現有的 KV 快取壓縮技術正交，並且可以與它們協同使用。通過對 OPT、MPT 和 Llama 模型系列進行廣泛的實驗，我們證明特徵值注意力可使 KV 快取大小減少多達 40%，注意力操作延遲減少多達 60%，而效能下降幅度很小。
 
 ##### **Federated Smoothing Proximal Gradient for Quantile Regression with Non-Convex Penalties**
-2408.05640v1 by Reza Mirzaeifard, Diyako Ghaderyan, Stefan Werner
+2408.05640v2 by Reza Mirzaeifard, Diyako Ghaderyan, Stefan Werner
 
 Distributed sensors in the internet-of-things (IoT) generate vast amounts of
 sparse data. Analyzing this high-dimensional data and identifying relevant
@@ -2278,7 +2280,7 @@ Comprehensive simulations validate the robust theoretical foundations of the
 proposed algorithm and demonstrate improved estimation precision and reliable
 convergence.
 
-摘要：<paragraph>物聯網 (IoT) 中的分布式感測器會產生大量的稀疏資料。分析這些高維度資料並找出相關預測因子會帶來重大挑戰，特別是在出於資料完整性、通訊頻寬和隱私等原因，必須將資料保留在收集資料的裝置上時。本文介紹一種聯邦分位數迴歸演算法來解決這些挑戰。分位數迴歸提供比平均數迴歸模型更全面的變數關係檢視。然而，傳統方法在處理非凸稀疏懲罰和損失函數的內在非平滑性時會遇到困難。為此，我們提出一個聯邦平滑近端梯度 (FSPG) 演算法，將平滑機制與近端梯度架構整合在一起，從而提高精確度和運算速度。此整合巧妙地處理裝置網路上的最佳化，每個裝置都持有本地資料樣本，使其在聯邦學習場景中特別有效。FSPG 演算法透過維持或降低目標函數的值，確保在每次反覆運算中穩步進展和可靠收斂。透過利用非凸懲罰，例如極小極大值凹罰 (MCP) 和平滑裁切絕對偏差 (SCAD)，所提出的方法可以在稀疏模型中找出並保留關鍵預測因子。全面的模擬驗證了所提出演算法穩健的理論基礎，並展示出改善的估計精確度和可靠收斂。</paragraph>
+摘要：物联网 (IoT) 中的分布式传感器会产生大量稀疏数据。分析这些高维数据并识别相关预测变量会带来重大挑战，尤其是在出于数据完整性、通信带宽和隐私等原因，数据更适合保留在收集数据的设备上时。本文介绍了一种联邦分位数回归算法来应对这些挑战。分位数回归比均值回归模型提供了变量之间关系的更全面视图。然而，在处理非凸稀疏惩罚和损失函数的固有非光滑性时，传统方法会遇到困难。为此，我们提出了一种联邦平滑近端梯度 (FSPG) 算法，该算法将平滑机制与近端梯度框架相集成，从而提高了精度和计算速度。这种集成巧妙地处理了网络中设备上的优化，每个设备都持有本地数据样本，使其在联邦学习场景中特别有效。FSPG 算法通过维持或降低目标函数的值，确保在每次迭代中取得稳定的进展和可靠的收敛。通过利用非凸惩罚，例如极小极凹惩罚 (MCP) 和平滑截断绝对偏差 (SCAD)，所提出的方法可以在稀疏模型中识别和保留关键预测变量。综合仿真验证了所提出算法的稳健理论基础，并展示了改进的估计精度和可靠的收敛。
 
 ##### **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**
 2408.05636v1 by Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto

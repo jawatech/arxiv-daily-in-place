@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|null|
-|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v1](http://arxiv.org/abs/2408.06240v1)|null|
+|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v2](http://arxiv.org/abs/2408.06240v2)|null|
 |**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163v1](http://arxiv.org/abs/2408.06163v1)|null|
 |**2024-08-12**|**Med42-v2: A Suite of Clinical LLMs**|Clément Christophe et.al.|[2408.06142v1](http://arxiv.org/abs/2408.06142v1)|null|
 |**2024-08-11**|**Real-Time Drowsiness Detection Using Eye Aspect Ratio and Facial Landmark Detection**|Varun Shiva Krishna Rupani et.al.|[2408.05836v1](http://arxiv.org/abs/2408.05836v1)|null|
@@ -124,9 +124,9 @@ metric compared to the baselines and has comparable diversity scores with GPT4.
 摘要：醫療對話系統 (MDS) 可增強病患與醫師的溝通、改善醫療保健的可近性，並降低成本。然而，取得適當的資料來訓練這些系統會造成重大的挑戰。隱私問題會妨礙真實對話的使用，因此需要合成替代方案。從公開可取得的臨床筆記生成合成對話提供了這個問題一個有前景的解決方案，在保護隱私的同時提供真實的資料。我們的 SynDial 方法使用單一 LLM 透過零次提示和回饋迴路，反覆生成和改善高品質的合成對話。回饋包含相似性和抽取性的加權評分。反覆的程序可確保對話符合預先定義的閾值，並因回饋迴路而達成優異的抽取性。此外，評估顯示生成的對話在事實性指標上優於基準，且與 GPT4 具有相當的多樣性評分。
 
 ##### **Decentralized Intelligence Health Network (DIHN)**
-2408.06240v1 by Abraham Nash
+2408.06240v2 by Abraham Nash
 
-Decentralized Intelligence Health Network (DIHN) is a theoretical framework
+Decentralized Health Intelligence Network (DHIN) is a theoretical framework
 addressing significant challenges of health data sovereignty and AI utilization
 in healthcare caused by data fragmentation across providers and institutions.
 It establishes a sovereign architecture for healthcare provision as a
@@ -152,7 +152,10 @@ model that adapts to individual needs, complements existing systems, and
 redefines universal coverage. It highlights the potential to transform
 healthcare data management and AI utilization while empowering patients.
 
-摘要：分散式智能健康網路 (DIHN) 是一個理論架構，用於解決醫療保健中因資料分散在各個供應商和機構而造成的健康資料主權和 AI 使用的重大挑戰。它建立了一個主權架構作為醫療保健提供的先決條件，以建立一個主權健康網路，然後透過克服取得多樣化醫療資料來源的障礙，促進有效的 AI 使用。這個全面的架構利用：1) 自主權身分架構，加上個人健康紀錄 (PHR) 作為健康資料主權的先決條件；2) 一個可擴充的聯邦學習 (FL) 協定，實作於一個公共區塊鏈上，用於醫療保健中的分散式 AI 訓練，其中健康資料仍保留在參與者手中，只有模型參數更新會被分享；以及 3) 一個可擴充的、無需信任的獎勵機制，用於激勵參與並確保公平的獎勵分配。這個架構確保沒有任何實體可以阻止或控制參與者提供的健康資料訓練的存取，或決定財務利益，因為這些流程是在一個公共區塊鏈上運作，具有不可變更的紀錄，且沒有第三方。它支援醫療保健中的有效 AI 訓練，讓患者可以掌控自己的健康資料，從中獲取財務利益，並為一個分散式、可擴充的生態系統做出貢獻，該生態系統利用集體 AI 來開發有益的醫療保健演算法。患者會收到獎勵到他們的數位錢包中，作為選擇加入 FL 協定的誘因，並有一個長期藍圖來資助分散式的保險解決方案。這種方法引進了一個新穎的、自我資助的醫療保健模式，可以適應個別需求，補充現有的系統，並重新定義全民健保。它突顯了轉型醫療保健資料管理和 AI 使用的潛力，同時賦予患者權力。
+摘要：<paragraph>分散式健康情報網路 (DHIN) 是個理論架構，
+用於解決醫療保健中因資料在各供應商和機構間分散所造成的健康資料主權和 AI 使用的重大挑戰。
+它為醫療保健提供建立一個主權架構，作為一個主權健康網路的前提，然後透過克服取得多元醫療資料來源的障礙來促進有效的 AI 使用。
+這個全面的架構利用：1) 自主權身分架構，結合個人健康記錄 (PHR) 作為健康資料主權的前提；2) 一個可擴充的聯盟式學習 (FL) 協定，實作於一個公共區塊鏈上，用於醫療保健中的分散式 AI 訓練，其中健康資料仍屬於參與者，且僅共享模型參數更新；3) 一個可擴充的、無信任的獎勵機制，用於激勵參與並確保公平的獎勵分配。這個架構確保沒有任何實體可以阻止或控制參與者提供的健康資料的訓練存取，或決定財務利益，因為這些流程在一個具有不可變記錄且沒有第三方的公共區塊鏈上運作。它支援醫療保健中的有效 AI 訓練，讓患者可以保有對其健康資料的控制權，從中獲取財務利益，並貢獻到一個分散式、可擴充的生態系統，該生態系統利用集體 AI 開發有益的醫療保健演算法。患者會收到獎勵到他們的數位錢包中，作為選擇加入 FL 協定的誘因，並有一個長期路線圖來資助分散式保險解決方案。這種方法引入了一個新穎的、自我資助的醫療保健模式，可以適應個別需求、補充現有系統，並重新定義全民覆蓋。它強調了轉型醫療保健資料管理和 AI 使用的潛力，同時賦能患者。</paragraph>
 
 ##### **ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**
 2408.06163v1 by Qiaoxin Li, Dong Liang, Yinsheng Li

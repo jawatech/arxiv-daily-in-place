@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v1](http://arxiv.org/abs/2408.07611v1)|null|
+|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|null|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
 |**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849v1](http://arxiv.org/abs/2408.06849v1)|[link](https://github.com/kairong-han/causal_agent)|
 |**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787v1](http://arxiv.org/abs/2408.06787v1)|null|
@@ -15,10 +17,12 @@
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404v1](http://arxiv.org/abs/2408.05404v1)|null|
 |**2024-08-09**|**SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**|Zhi-Qi Cheng et.al.|[2408.05357v1](http://arxiv.org/abs/2408.05357v1)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v1](http://arxiv.org/abs/2408.05141v1)|null|
+|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v1](http://arxiv.org/abs/2408.07091v1)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
 |**2024-08-08**|**MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**|Haoxuan Li et.al.|[2408.04388v1](http://arxiv.org/abs/2408.04388v1)|[link](https://github.com/luminosityx/mm-forecast)|
 |**2024-08-08**|**Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**|Hsuan-Lei Shao et.al.|[2408.04382v1](http://arxiv.org/abs/2408.04382v1)|null|
+|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v1](http://arxiv.org/abs/2408.07084v1)|null|
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|[link](https://github.com/leduckhai/wav2graph)|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v2](http://arxiv.org/abs/2408.03910v2)|[link](https://github.com/modelscope/modelscope-agent)|
@@ -98,12 +102,53 @@
 |**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
 |**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
-|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v4](http://arxiv.org/abs/2407.08516v4)|null|
-|**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
-|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
-|**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
 
 #### Abstracts
+##### **WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**
+2408.07611v1 by Weijian Xie, Xuefeng Liang, Yuhui Liu, Kaihua Ni, Hong Cheng, Zetian Hu
+
+Large Language Models (LLMs) have greatly contributed to the development of
+adaptive intelligent agents and are positioned as an important way to achieve
+Artificial General Intelligence (AGI). However, LLMs are prone to produce
+factually incorrect information and often produce "phantom" content that
+undermines their reliability, which poses a serious challenge for their
+deployment in real-world scenarios. Enhancing LLMs by combining external
+databases and information retrieval mechanisms is an effective path. To address
+the above challenges, we propose a new approach called WeKnow-RAG, which
+integrates Web search and Knowledge Graphs into a "Retrieval-Augmented
+Generation (RAG)" system. First, the accuracy and reliability of LLM responses
+are improved by combining the structured representation of Knowledge Graphs
+with the flexibility of dense vector retrieval. WeKnow-RAG then utilizes
+domain-specific knowledge graphs to satisfy a variety of queries and domains,
+thereby improving performance on factual information and complex reasoning
+tasks by employing multi-stage web page retrieval techniques using both sparse
+and dense retrieval methods. Our approach effectively balances the efficiency
+and accuracy of information retrieval, thus improving the overall retrieval
+process. Finally, we also integrate a self-assessment mechanism for the LLM to
+evaluate the trustworthiness of the answers it generates. Our approach proves
+its outstanding effectiveness in a wide range of offline experiments and online
+submissions.
+
+摘要：大型語言模型 (LLM) 對於自適應智慧代理的發展有很大的貢獻，並且被定位為實現人工通用智慧 (AGI) 的重要途徑。然而，LLM 容易產生事實上不正確的資訊，並且經常產生「幻影」內容，這會破壞它們的可靠性，對它們在現實世界場景中的部署構成嚴峻的挑戰。透過結合外部資料庫和資訊檢索機制來增強 LLM 是一條有效的路徑。為了應對上述挑戰，我們提出了一種稱為 WeKnow-RAG 的新方法，它將網路搜尋和知識圖譜整合到「檢索增強產生 (RAG)」系統中。首先，透過結合知識圖譜的結構化表示和密集向量檢索的靈活性，提高了 LLM 回應的準確性和可靠性。WeKnow-RAG 接著利用特定領域的知識圖譜來滿足各種查詢和領域，從而透過使用稀疏和密集檢索方法的多階段網頁檢索技術，改善事實資訊和複雜推理任務的效能。我們的做法有效地平衡了資訊檢索的效率和準確性，從而改善了整體檢索流程。最後，我們也為 LLM 整合了一個自我評估機制，以評估它所產生答案的可信度。我們的做法在廣泛的離線實驗和線上提交中證明了其傑出的有效性。
+
+##### **Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**
+2408.07453v1 by Tobias A. Opsahl
+
+Despite recent success in natural language processing (NLP), fact
+verification still remains a difficult task. Due to misinformation spreading
+increasingly fast, attention has been directed towards automatically verifying
+the correctness of claims. In the domain of NLP, this is usually done by
+training supervised machine learning models to verify claims by utilizing
+evidence from trustworthy corpora. We present efficient methods for verifying
+claims on a dataset where the evidence is in the form of structured knowledge
+graphs. We use the FactKG dataset, which is constructed from the DBpedia
+knowledge graph extracted from Wikipedia. By simplifying the evidence retrieval
+process, from fine-tuned language models to simple logical retrievals, we are
+able to construct models that both require less computational resources and
+achieve better test-set accuracy.
+
+摘要：儘管在自然語言處理 (NLP) 中獲得近期成功，事實驗證仍然是一項艱難的任務。由於錯誤資訊傳播得越來越快，注意力已轉向自動驗證聲明的正確性。在 NLP 領域中，這通常透過訓練監督式機器學習模型來完成，這些模型利用來自可信賴語料庫的證據來驗證聲明。我們提出有效的方法來驗證資料集中的聲明，其中證據是以結構化知識圖表的形式呈現。我們使用 FactKG 資料集，它是由從維基百科中萃取的 DBpedia 知識圖表所建構。透過簡化證據擷取流程，從微調語言模型到簡單的邏輯擷取，我們能夠建構既需要較少計算資源，又能達到較佳測試集準確度的模型。
+
 ##### **LLMs can Schedule**
 2408.06993v1 by Henrik Abgaryan, Ararat Harutyunyan, Tristan Cazenave
 
@@ -427,6 +472,36 @@ in \url{https://gitlab.aicrowd.com/shizueyy/crag-new}.
 
 摘要：檢索增強生成 (RAG) 是一個架構，使大型語言模型 (LLM) 能夠透過整合外部知識庫來增強其準確性並減少幻覺。在本文中，我們介紹了一個混合 RAG 系統，透過全面的最佳化套件進行增強，可顯著提升檢索品質、增強推理能力，並改善數值計算能力。我們改進了網頁中的文字區塊和表格，加入屬性預測器以減少幻覺，執行 LLM 知識萃取器和知識圖表萃取器，最後建構了一個包含所有參考的推理策略。我們透過 Meta CRAG KDD Cup 2024 競賽在 CRAG 資料集上評估我們的系統。在地端和線上評估都證明我們的系統顯著增強了複雜推理能力。在地端評估中，我們與基準模型相比，顯著提升了準確性並降低了錯誤率，達到了顯著的分數提升。同時，我們在線上評估中取得了傑出的成果，證明了所提出的系統的效能和泛化能力。我們系統的原始碼已發布在 \url{https://gitlab.aicrowd.com/shizueyy/crag-new}。
 
+##### **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**
+2408.07091v1 by Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song
+
+Textual graphs are ubiquitous in real-world applications, featuring rich text
+information with complex relationships, which enables advanced research across
+various fields. Textual graph representation learning aims to generate
+low-dimensional feature embeddings from textual graphs that can improve the
+performance of downstream tasks. A high-quality feature embedding should
+effectively capture both the structural and the textual information in a
+textual graph. However, most textual graph dataset benchmarks rely on word2vec
+techniques to generate feature embeddings, which inherently limits their
+capabilities. Recent works on textual graph representation learning can be
+categorized into two folds: supervised and unsupervised methods. Supervised
+methods finetune a language model on labeled nodes, which have limited
+capabilities when labeled data is scarce. Unsupervised methods, on the other
+hand, extract feature embeddings by developing complex training pipelines. To
+address these limitations, we propose a novel unified unsupervised learning
+autoencoder framework, named Node Level Graph AutoEncoder (NodeGAE). We employ
+language models as the backbone of the autoencoder, with pretraining on text
+reconstruction. Additionally, we add an auxiliary loss term to make the feature
+embeddings aware of the local graph structure. Our method maintains simplicity
+in the training process and demonstrates generalizability across diverse
+textual graphs and downstream tasks. We evaluate our method on two core graph
+representation learning downstream tasks: node classification and link
+prediction. Comprehensive experiments demonstrate that our approach
+substantially enhances the performance of diverse graph neural networks (GNNs)
+across multiple textual graph datasets.
+
+摘要：<paragraph>文本圖表在現實世界的應用中無處不在，具有豐富的文本資訊與複雜的關係，這使得各種領域的高階研究成為可能。文本圖表表示學習旨在從文本圖表中產生低維特徵嵌入，這可以提升下游任務的執行效能。高品質的特徵嵌入應有效擷取文本圖表中的結構化和文本資訊。然而，大多數的文本圖表資料集基準依賴 word2vec 技術來產生特徵嵌入，這會限制其能力。最近關於文本圖表表示學習的研究可分為兩類：監督式和非監督式方法。監督式方法對標籤節點微調語言模型，當標籤資料稀少時，其能力有限。另一方面，非監督式方法透過開發複雜的訓練管線來萃取特徵嵌入。為了解決這些限制，我們提出一個新穎的統一非監督式學習自動編碼器架構，稱為節點層級圖形自動編碼器 (NodeGAE)。我們採用語言模型作為自動編碼器的骨幹，並對文字重建進行預訓練。此外，我們加入一個輔助損失項，讓特徵嵌入察覺到局部圖形結構。我們的模型在訓練過程中保持簡潔，並展示了在不同文本圖表和下游任務中的泛化能力。我們在兩個核心圖形表示學習下游任務中評估了我們的模型：節點分類和連結預測。全面的實驗證明，我們的模型大幅提升了各種圖形神經網路 (GNN) 在多個文本圖表資料集中的執行效能。</paragraph>
+
 ##### **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
 2408.04948v1 by Bhaskarjit Sarmah, Benika Hall, Rohan Rao, Sunil Patel, Stefano Pasquali, Dhagash Mehta
 
@@ -528,6 +603,24 @@ and recommendations, with potential applications extending to various fields of
 information retrieval.
 
 摘要：在法庭實務中，法律專業人士依賴其培訓提供意見以解決案件，其中最關鍵的方面之一是有效識別先前法院的類似判決的能力。然而，找出類似案件具有挑戰性，且通常取決於經驗、法律領域知識和大量的勞動時間，這使得資深律師或法官不可或缺。本研究旨在自動化判決文本相似性的分析。我們利用專家標記為「黃金標準」的判決資料集，其中包括可轉換為「專家相似性評分」的人工驗證特徵。然後，我們根據「案例-條文」關係建構知識圖譜，使用自然語言處理對每個案例進行排名，以得出「Node2vec 相似性評分」。透過評估這兩個相似性評分，我們找出其差異和關係。結果可以大幅減少法律搜尋和建議所需的勞動時間，潛在應用範圍擴及資訊檢索的各個領域。
+
+##### **Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**
+2408.07084v1 by Wangying Yang, Zhizhong Wu, Zitao Zheng, Bo Zhang, Shi Bo, Yuanfang Yang
+
+This study introduces a pioneering Dynamic Hypergraph Networks (DHCE) model
+designed to predict future medical diagnoses from electronic health records
+with enhanced accuracy. The DHCE model innovates by identifying and
+differentiating acute and chronic diseases within a patient's visit history,
+constructing dynamic hypergraphs that capture the complex, high-order
+interactions between diseases. It surpasses traditional recurrent neural
+networks and graph neural networks by effectively integrating clinical event
+data, reflected through medical language model-assisted encoding, into a robust
+patient representation. Through extensive experiments on two benchmark
+datasets, MIMIC-III and MIMIC-IV, the DHCE model exhibits superior performance,
+significantly outpacing established baseline models in the precision of
+sequential diagnosis prediction.
+
+摘要：本研究介紹了一種創新的動態超圖網路 (DHCE) 模型，旨在從電子病歷中預測未來的醫療診斷，並提高準確度。DHCE 模型透過識別和區分患者就診記錄中的急性病和慢性病，建構動態超圖來捕捉疾病之間複雜的高階互動，進而進行創新。它超越了傳統的遞迴神經網路和圖神經網路，有效地將臨床事件資料整合到強健的患者表徵中，並透過醫療語言模型輔助編碼來反映。透過在兩個基準資料集 MIMIC-III 和 MIMIC-IV 上進行廣泛的實驗，DHCE 模型展現出優異的效能，在序貫診斷預測的精準度上顯著地超越既定的基準模型。
 
 ##### **wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**
 2408.04174v1 by Khai Le-Duc, Quy-Anh Dang, Tan-Hanh Pham, Truong-Son Hy
@@ -2407,111 +2500,4 @@ surpasses that of data-driven algorithms and is commensurate to the
 ground-truth baseline.
 
 摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
-
-##### **Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**
-2407.08516v4 by Haoyi Xiong, Zhiyuan Wang, Xuhong Li, Jiang Bian, Zeke Xie, Shahid Mumtaz, Laura E. Barnes
-
-This article explores the convergence of connectionist and symbolic
-artificial intelligence (AI), from historical debates to contemporary
-advancements. Traditionally considered distinct paradigms, connectionist AI
-focuses on neural networks, while symbolic AI emphasizes symbolic
-representation and logic. Recent advancements in large language models (LLMs),
-exemplified by ChatGPT and GPT-4, highlight the potential of connectionist
-architectures in handling human language as a form of symbols. The study argues
-that LLM-empowered Autonomous Agents (LAAs) embody this paradigm convergence.
-By utilizing LLMs for text-based knowledge modeling and representation, LAAs
-integrate neuro-symbolic AI principles, showcasing enhanced reasoning and
-decision-making capabilities. Comparing LAAs with Knowledge Graphs within the
-neuro-symbolic AI theme highlights the unique strengths of LAAs in mimicking
-human-like reasoning processes, scaling effectively with large datasets, and
-leveraging in-context samples without explicit re-training. The research
-underscores promising avenues in neuro-vector-symbolic integration,
-instructional encoding, and implicit reasoning, aimed at further enhancing LAA
-capabilities. By exploring the progression of neuro-symbolic AI and proposing
-future research trajectories, this work advances the understanding and
-development of AI technologies.
-
-摘要：本文探討了連接主義和符號人工智慧（AI）的匯流，從歷史辯論到當代進展。傳統上被認為是不同的範式，連接主義 AI 專注於神經網路，而符號 AI 則強調符號表徵和邏輯。大型語言模型 (LLM) 的最新進展，以 ChatGPT 和 GPT-4 為例，突顯了連接主義架構在處理人類語言作為符號形式方面的潛力。研究認為，由 LLM 賦能的自主代理（LAA）體現了這種範式收斂。透過利用 LLM 進行基於文字的知識建模和表徵，LAA 整合了神經符號 AI 原理，展示了增強的推理和決策能力。在神經符號 AI 主題中比較 LAA 與知識圖譜，突顯了 LAA 在模擬類人推理過程、有效擴充大型資料集以及利用情境範例而不需明確重新訓練方面的獨特優勢。研究強調了神經向量符號整合、指令編碼和內隱推理中前景看好的途徑，旨在進一步增強 LAA 的能力。透過探索神經符號 AI 的進展並提出未來的研究軌跡，這項工作促進了對 AI 技術的理解和發展。
-
-##### **A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**
-2407.07966v1 by Arastoo Zibaeirad, Farnoosh Koleini, Shengping Bi, Tao Hou, Tao Wang
-
-In this study, we conduct a comprehensive review of smart grid security,
-exploring system architectures, attack methodologies, defense strategies, and
-future research opportunities. We provide an in-depth analysis of various
-attack vectors, focusing on new attack surfaces introduced by advanced
-components in smart grids. The review particularly includes an extensive
-analysis of coordinated attacks that incorporate multiple attack strategies and
-exploit vulnerabilities across various smart grid components to increase their
-adverse impact, demonstrating the complexity and potential severity of these
-threats. Following this, we examine innovative detection and mitigation
-strategies, including game theory, graph theory, blockchain, and machine
-learning, discussing their advancements in counteracting evolving threats and
-associated research challenges. In particular, our review covers a thorough
-examination of widely used machine learning-based mitigation strategies,
-analyzing their applications and research challenges spanning across
-supervised, unsupervised, semi-supervised, ensemble, and reinforcement
-learning. Further, we outline future research directions and explore new
-techniques and concerns. We first discuss the research opportunities for
-existing and emerging strategies, and then explore the potential role of new
-techniques, such as large language models (LLMs), and the emerging threat of
-adversarial machine learning in the future of smart grid security.
-
-摘要：在這項研究中，我們對智慧電網安全性進行全面檢視，探討系統架構、攻擊方法、防禦策略和未來的研究機會。我們深入分析各種攻擊媒介，專注於智慧電網中先進組件所引入的新攻擊面。本檢視特別包含對協調攻擊的廣泛分析，其中包含多種攻擊策略並利用各種智慧電網組件中的漏洞來增加其負面影響，展示這些威脅的複雜性和潛在嚴重性。在此之後，我們探討創新的偵測和緩解策略，包括博弈論、圖論、區塊鏈和機器學習，討論它們在對抗不斷演變的威脅和相關研究挑戰方面的進展。特別是，我們的檢視涵蓋對廣泛使用的基於機器學習的緩解策略的徹底檢驗，分析它們在監督式、非監督式、半監督式、整體式和強化學習中的應用和研究挑戰。此外，我們概述未來的研究方向並探討新技術和問題。我們首先討論現有和新興策略的研究機會，然後探討新技術的潛在作用，例如大型語言模型 (LLM)，以及對抗式機器學習在智慧電網安全未來的威脅。
-
-##### **Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**
-2407.07775v2 by Hao-Tien Lewis Chiang, Zhuo Xu, Zipeng Fu, Mithun George Jacob, Tingnan Zhang, Tsang-Wei Edward Lee, Wenhao Yu, Connor Schenck, David Rendleman, Dhruv Shah, Fei Xia, Jasmine Hsu, Jonathan Hoech, Pete Florence, Sean Kirmani, Sumeet Singh, Vikas Sindhwani, Carolina Parada, Chelsea Finn, Peng Xu, Sergey Levine, Jie Tan
-
-An elusive goal in navigation research is to build an intelligent agent that
-can understand multimodal instructions including natural language and image,
-and perform useful navigation. To achieve this, we study a widely useful
-category of navigation tasks we call Multimodal Instruction Navigation with
-demonstration Tours (MINT), in which the environment prior is provided through
-a previously recorded demonstration video. Recent advances in Vision Language
-Models (VLMs) have shown a promising path in achieving this goal as it
-demonstrates capabilities in perceiving and reasoning about multimodal inputs.
-However, VLMs are typically trained to predict textual output and it is an open
-research question about how to best utilize them in navigation. To solve MINT,
-we present Mobility VLA, a hierarchical Vision-Language-Action (VLA) navigation
-policy that combines the environment understanding and common sense reasoning
-power of long-context VLMs and a robust low-level navigation policy based on
-topological graphs. The high-level policy consists of a long-context VLM that
-takes the demonstration tour video and the multimodal user instruction as input
-to find the goal frame in the tour video. Next, a low-level policy uses the
-goal frame and an offline constructed topological graph to generate robot
-actions at every timestep. We evaluated Mobility VLA in a 836m^2 real world
-environment and show that Mobility VLA has a high end-to-end success rates on
-previously unsolved multimodal instructions such as "Where should I return
-this?" while holding a plastic bin. A video demonstrating Mobility VLA can be
-found here: https://youtu.be/-Tof__Q8_5s
-
-摘要：<paragraph>導航研究中一個難以捉摸的目標，是建立一個智能代理，它可以理解包括自然語言和影像的多模態指令，並執行有用的導航。為了達成此目標，我們研究了一類廣泛有用的導航任務，我們稱之為示範導覽的多模態指令導航 (MINT)，其中環境先驗是透過先前錄製的示範影片提供的。視覺語言模型 (VLM) 的近期進展，展示了一條實現此目標的有前景路徑，因為它展示了感知和推理多模態輸入的能力。然而，VLM 通常訓練用於預測文字輸出，而如何最佳利用它們進行導航，則是一個開放的研究問題。為了解決 MINT，我們提出了 Mobility VLA，這是一種分層的視覺-語言-動作 (VLA) 導航政策，它結合了長語境 VLM 的環境理解和常識推理能力，以及基於拓撲圖的強健低階導航政策。高階政策包含一個長語境 VLM，它採用示範導覽影片和多模態使用者指令作為輸入，以在導覽影片中找到目標幀。接下來，低階政策使用目標幀和離線建構的拓撲圖，在每個時間步產生機器人動作。我們在 836 平方公尺的真實世界環境中評估了 Mobility VLA，並展示了 Mobility VLA 在先前未解決的多模態指令（例如「我應該把這個塑膠箱歸還到哪裡？」）上具有很高的端到端成功率，同時拿著一個塑膠箱。展示 Mobility VLA 的影片可以在這裡找到：https://youtu.be/-Tof__Q8_5s</paragraph>
-
-##### **Teaching Transformers Causal Reasoning through Axiomatic Training**
-2407.07612v1 by Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma
-
-For text-based AI systems to interact in the real world, causal reasoning is
-an essential skill. Since interventional data is costly to generate, we study
-to what extent an agent can learn causal reasoning from passive data.
-Specifically, we consider an axiomatic training setup where an agent learns
-from multiple demonstrations of a causal axiom (or rule), rather than
-incorporating the axiom as an inductive bias or inferring it from data values.
-A key question is whether the agent would learn to generalize from the axiom
-demonstrations to new scenarios. For example, if a transformer model is trained
-on demonstrations of the causal transitivity axiom over small graphs, would it
-generalize to applying the transitivity axiom over large graphs? Our results,
-based on a novel axiomatic training scheme, indicate that such generalization
-is possible. We consider the task of inferring whether a variable causes
-another variable, given a causal graph structure. We find that a 67 million
-parameter transformer model, when trained on linear causal chains (along with
-some noisy variations) can generalize well to new kinds of graphs, including
-longer causal chains, causal chains with reversed order, and graphs with
-branching; even when it is not explicitly trained for such settings. Our model
-performs at par (or even better) than many larger language models such as
-GPT-4, Gemini Pro, and Phi-3. Overall, our axiomatic training framework
-provides a new paradigm of learning causal reasoning from passive data that can
-be used to learn arbitrary axioms, as long as sufficient demonstrations can be
-generated.
-
-摘要：<paragraph>對於基於文字的人工智慧系統與真實世界互動來說，因果推理是一項必要的技能。由於介入資料的產生成本很高，我們研究一位代理人從被動資料中學習因果推理的程度。具體來說，我們考慮一個公理訓練設置，其中一位代理人從因果公理（或規則）的多個示範中學習，而不是將公理作為歸納偏誤或從資料值中推斷出來。一個關鍵問題是代理人是否會學會從公理示範推廣到新的場景。例如，如果一個Transformer模型在小圖表上因果傳遞性公理的示範中接受訓練，它是否會推廣到在大圖表上應用傳遞性公理？我們的結果基於一個新穎的公理訓練方案，表明這樣的概括是可能的。我們考慮推論一個變數是否導致另一個變數的任務，給定一個因果圖結構。我們發現一個 6700 萬個參數的Transformer模型，在線性因果鏈（以及一些雜訊變化）上訓練時，可以很好地概括到新類型的圖形，包括更長的因果鏈、順序相反的因果鏈和具有分支的圖形；即使它沒有針對此類設置進行明確訓練。我們的模型表現與許多較大的語言模型（例如 GPT-4、Gemini Pro 和 Phi-3）相當（甚至更好）。總體而言，我們的公理訓練框架提供了一個從被動資料中學習因果推理的新範例，只要可以產生足夠的示範，就可以用於學習任意公理。</paragraph>
 

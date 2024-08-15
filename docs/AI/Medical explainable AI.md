@@ -11,7 +11,6 @@
 |**2024-07-24**|**Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition**|Michele Fiori et.al.|[2408.06352v1](http://arxiv.org/abs/2408.06352v1)|null|
 |**2024-07-21**|**Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**|Naseem Khan et.al.|[2408.03335v1](http://arxiv.org/abs/2408.03335v1)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
-|**2024-07-18**|**Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**|Simha Sankar Baradwaj et.al.|[2408.01431v2](http://arxiv.org/abs/2408.01431v2)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
 |**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v1](http://arxiv.org/abs/2407.15851v1)|null|
@@ -102,6 +101,7 @@
 |**2023-05-26**|**A Novel real-time arrhythmia detection model using YOLOv8**|Guang Jun Nicholas Ang et.al.|[2305.16727v3](http://arxiv.org/abs/2305.16727v3)|null|
 |**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v2](http://arxiv.org/abs/2305.14389v2)|null|
 |**2023-05-18**|**What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**|Junwei Kuang et.al.|[2305.13127v2](http://arxiv.org/abs/2305.13127v2)|null|
+|**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
 
 #### Abstracts
 ##### **The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**
@@ -352,32 +352,6 @@ computers used by clinicians , project page
 \url{https://github.com/Glenj01/Medical-Coding}.
 
 摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
-
-##### **Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**
-2408.01431v2 by Simha Sankar Baradwaj, Destiny Gilliland, Jack Rincon, Henning Hermjakob, Yu Yan, Irsyad Adam, Gwyneth Lemaster, Dean Wang, Karol Watson, Alex Bui, Wei Wang, Peipei Ping
-
-Foundational Models (FMs) are gaining increasing attention in the biomedical
-AI ecosystem due to their ability to represent and contextualize multimodal
-biomedical data. These capabilities make FMs a valuable tool for a variety of
-tasks, including biomedical reasoning, hypothesis generation, and interpreting
-complex imaging data. In this review paper, we address the unique challenges
-associated with establishing an ethical and trustworthy biomedical AI
-ecosystem, with a particular focus on the development of FMs and their
-downstream applications. We explore strategies that can be implemented
-throughout the biomedical AI pipeline to effectively tackle these challenges,
-ensuring that these FMs are translated responsibly into clinical and
-translational settings. Additionally, we emphasize the importance of key
-stewardship and co-design principles that not only ensure robust regulation but
-also guarantee that the interests of all stakeholders, especially those
-involved in or affected by these clinical and translational applications are
-adequately represented. We aim to empower the biomedical AI community to
-harness these models responsibly and effectively. As we navigate this exciting
-frontier, our collective commitment to ethical stewardship, co-design, and
-responsible translation will be instrumental in ensuring that the evolution of
-FMs truly enhances patient care and medical decision making, ultimately leading
-to a more equitable and trustworthy biomedical AI ecosystem.
-
-摘要：基礎模型 (FM) 因其表示和語境化多模態生物醫學數據的能力而在生物醫學 AI 生態系統中獲得越來越多的關注。這些能力使 FM 成為各種任務的有價值工具，包括生物醫學推理、假設生成和解釋複雜的影像數據。在這篇評論論文中，我們探討了與建立一個合乎道德且值得信賴的生物醫學 AI 生態系統相關的獨特挑戰，特別關注 FM 的開發及其下游應用。我們探討了可以在整個生物醫學 AI 管線中實施的策略，以有效應對這些挑戰，確保這些 FM 能負責任地轉化為臨床和轉化場景。此外，我們強調關鍵管理和共同設計原則的重要性，這些原則不僅確保穩健的法規，還保證所有利害關係人的利益，特別是參與或受這些臨床和轉化應用影響的利害關係人的利益得到充分代表。我們的目標是讓生物醫學 AI 社群負責任且有效地利用這些模型。隨著我們探索這個令人興奮的領域，我們對道德管理、共同設計和負責任轉化的共同承諾將有助於確保 FM 的演進真正提升患者照護和醫療決策，最終導致一個更公平且值得信賴的生物醫學 AI 生態系統。
 
 ##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
 2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier
@@ -2599,4 +2573,27 @@ implemented in social media platforms to provide personalized online resources
 for detected depressed patients.
 
 摘要：憂鬱症是最普遍且嚴重的精神疾病，會造成嚴重的財務和社會後果。憂鬱症的偵測對於早期介入以減輕這些後果至關重要。如此重大的決定本質上需要可解釋性。儘管一些憂鬱症偵測研究嘗試根據重要性分數或注意力權重來解釋這個決定，但這些解釋與基於憂鬱症狀的臨床憂鬱症診斷標準不一致。為了填補這個缺口，我們遵循計算設計科學範例來開發一個新穎的多尺度時間原型網路 (MSTPNet)。MSTPNet 創新地偵測並解釋憂鬱症狀以及它們持續多久。使用大規模資料集進行的廣泛實證分析顯示，MSTPNet 以 0.851 的 F1 分數優於最先進的憂鬱症偵測方法。此結果還揭示了調查方法中未注意到的新症狀，例如分享對不同生活的欽佩。我們進一步進行使用者研究，以證明其在可解釋性方面優於基準。本研究以一個新穎的可解釋深度學習模型為憂鬱症偵測在社群媒體中的 IS 文獻做出貢獻。在實務上，我們提出的方法可以實作在社群媒體平台中，以提供個人化的線上資源給被偵測出憂鬱症的患者。
+
+##### **Echoes of Biases: How Stigmatizing Language Affects AI Performance**
+2305.10201v4 by Yizhi Liu, Weiguang Wang, Guodong Gordon Gao, Ritu Agarwal
+
+Electronic health records (EHRs) serve as an essential data source for the
+envisioned artificial intelligence (AI)-driven transformation in healthcare.
+However, clinician biases reflected in EHR notes can lead to AI models
+inheriting and amplifying these biases, perpetuating health disparities. This
+study investigates the impact of stigmatizing language (SL) in EHR notes on
+mortality prediction using a Transformer-based deep learning model and
+explainable AI (XAI) techniques. Our findings demonstrate that SL written by
+clinicians adversely affects AI performance, particularly so for black
+patients, highlighting SL as a source of racial disparity in AI model
+development. To explore an operationally efficient way to mitigate SL's impact,
+we investigate patterns in the generation of SL through a clinicians'
+collaborative network, identifying central clinicians as having a stronger
+impact on racial disparity in the AI model. We find that removing SL written by
+central clinicians is a more efficient bias reduction strategy than eliminating
+all SL in the entire corpus of data. This study provides actionable insights
+for responsible AI development and contributes to understanding clinician
+behavior and EHR note writing in healthcare.
+
+摘要：電子健康紀錄 (EHR) 作為預想中由人工智慧 (AI) 推動的醫療保健轉型的重要資料來源。然而，反映在 EHR 備註中的臨床偏見可能導致 AI 模型繼承並擴大這些偏見，進而造成健康差異。本研究探討 EHR 備註中汙名化語言 (SL) 對使用基於 Transformer 的深度學習模型和可解釋 AI (XAI) 技術預測死亡率的影響。我們的研究結果表明，由臨床醫生撰寫的 SL 會對 AI 效能產生不利影響，特別是對黑人患者而言，突顯 SL 是 AI 模型開發中種族差異的來源。為了探索一種運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路探討 SL 產生的模式，並找出核心臨床醫生對 AI 模型中的種族差異有較大的影響。我們發現，移除由核心臨床醫生撰寫的 SL 是比消除資料集中所有 SL 更有效率的偏見減少策略。本研究提供可行的見解，用於負責任的 AI 開發，並有助於了解臨床醫生行為和醫療保健中的 EHR 備註撰寫。
 

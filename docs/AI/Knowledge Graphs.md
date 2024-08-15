@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
+|**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849v1](http://arxiv.org/abs/2408.06849v1)|[link](https://github.com/kairong-han/causal_agent)|
+|**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787v1](http://arxiv.org/abs/2408.06787v1)|null|
+|**2024-08-13**|**Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
 |**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316v1](http://arxiv.org/abs/2408.06316v1)|null|
 |**2024-08-12**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
 |**2024-08-12**|**ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**|Ronak Pradeep et.al.|[2408.05948v1](http://arxiv.org/abs/2408.05948v1)|null|
@@ -22,7 +26,7 @@
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
 |**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
-|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|null|
+|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|[link](https://github.com/chrschy/fact-finder)|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
 |**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
@@ -98,12 +102,113 @@
 |**2024-07-10**|**A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities**|Arastoo Zibaeirad et.al.|[2407.07966v1](http://arxiv.org/abs/2407.07966v1)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775v2](http://arxiv.org/abs/2407.07775v2)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
-|**2024-07-10**|**STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**|Aaron Zolnai-Lucas et.al.|[2407.12860v1](http://arxiv.org/abs/2407.12860v1)|[link](https://github.com/aaronzo/STAGE)|
-|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
-|**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
-|**2024-07-09**|**Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**|Yu-Guan Hsieh et.al.|[2407.06723v1](http://arxiv.org/abs/2407.06723v1)|null|
 
 #### Abstracts
+##### **LLMs can Schedule**
+2408.06993v1 by Henrik Abgaryan, Ararat Harutyunyan, Tristan Cazenave
+
+The job shop scheduling problem (JSSP) remains a significant hurdle in
+optimizing production processes. This challenge involves efficiently allocating
+jobs to a limited number of machines while minimizing factors like total
+processing time or job delays. While recent advancements in artificial
+intelligence have yielded promising solutions, such as reinforcement learning
+and graph neural networks, this paper explores the potential of Large Language
+Models (LLMs) for JSSP. We introduce the very first supervised 120k dataset
+specifically designed to train LLMs for JSSP. Surprisingly, our findings
+demonstrate that LLM-based scheduling can achieve performance comparable to
+other neural approaches. Furthermore, we propose a sampling method that
+enhances the effectiveness of LLMs in tackling JSSP.
+
+摘要：作業車間排程問題 (JSSP) 仍然是最佳化生產流程中的一大障礙。這項挑戰涉及將作業有效分配到數量有限的機器，同時將總處理時間或作業延遲等因素降至最低。儘管人工智慧的最新進展已產生有希望的解決方案，例如強化學習和圖形神經網路，但本文探討了大型語言模型 (LLM) 在 JSSP 中的潛力。我們引入了第一個監督式 120k 資料集，專門用於訓練 JSSP 的 LLM。令人驚訝的是，我們的研究結果表明，基於 LLM 的排程可以達到與其他神經方法相當的效能。此外，我們提出了一種抽樣方法，可增強 LLM 在處理 JSSP 中的有效性。
+
+##### **Causal Agent based on Large Language Model**
+2408.06849v1 by Kairong Han, Kun Kuang, Ziyu Zhao, Junjian Ye, Fei Wu
+
+Large language models (LLMs) have achieved significant success across various
+domains. However, the inherent complexity of causal problems and causal theory
+poses challenges in accurately describing them in natural language, making it
+difficult for LLMs to comprehend and use them effectively. Causal methods are
+not easily conveyed through natural language, which hinders LLMs' ability to
+apply them accurately. Additionally, causal datasets are typically tabular,
+while LLMs excel in handling natural language data, creating a structural
+mismatch that impedes effective reasoning with tabular data. This lack of
+causal reasoning capability limits the development of LLMs. To address these
+challenges, we have equipped the LLM with causal tools within an agent
+framework, named the Causal Agent, enabling it to tackle causal problems. The
+causal agent comprises tools, memory, and reasoning modules. In the tools
+module, the causal agent applies causal methods to align tabular data with
+natural language. In the reasoning module, the causal agent employs the ReAct
+framework to perform reasoning through multiple iterations with the tools. In
+the memory module, the causal agent maintains a dictionary instance where the
+keys are unique names and the values are causal graphs. To verify the causal
+ability of the causal agent, we established a benchmark consisting of four
+levels of causal problems: variable level, edge level, causal graph level, and
+causal effect level. We generated a test dataset of 1.3K using ChatGPT-3.5 for
+these four levels of issues and tested the causal agent on the datasets. Our
+methodology demonstrates remarkable efficacy on the four-level causal problems,
+with accuracy rates all above 80%. For further insights and implementation
+details, our code is accessible via the GitHub repository
+https://github.com/Kairong-Han/Causal_Agent.
+
+摘要：大型語言模型 (LLM) 已在各個領域取得重大成功。然而，因果問題和因果理論的內在複雜性，在自然語言中準確描述它們時構成挑戰，這使得 LLM 難以理解並有效使用它們。因果方法不易透過自然語言傳達，這阻礙了 LLM 準確應用它們的能力。此外，因果資料集通常是表格化的，而 LLM 擅長處理自然語言資料，這造成了結構上的不匹配，阻礙了對表格資料進行有效的推理。這種缺乏因果推理能力限制了 LLM 的發展。為了應對這些挑戰，我們在一個代理框架中為 LLM 配備了因果工具，稱為因果代理，使它能夠解決因果問題。因果代理包含工具、記憶體和推理模組。在工具模組中，因果代理應用因果方法將表格資料與自然語言對齊。在推理模組中，因果代理採用 ReAct 框架，透過與工具進行多次反覆運算來執行推理。在記憶體模組中，因果代理維護一個字典實例，其中鍵是唯一名稱，而值是因果圖。為了驗證因果代理的因果能力，我們建立了一個基準，其中包含四個層級的因果問題：變數層級、邊層級、因果圖層級和因果效應層級。我們使用 ChatGPT-3.5 為這四個層級的問題產生了 1.3K 的測試資料集，並在資料集上測試了因果代理。我們的這套方法在四個層級的因果問題上展現了顯著的功效，準確率都高於 80%。有關進一步的見解和實作細節，我們的程式碼可透過 GitHub 儲存庫 https://github.com/Kairong-Han/Causal_Agent 取得。
+
+##### **Unlock the Power of Frozen LLMs in Knowledge Graph Completion**
+2408.06787v1 by Bo Xue, Yi Xu, Yunchong Song, Yiming Pang, Yuyang Ren, Jiaxin Ding, Luoyi Fu, Xinbing Wang
+
+Classical knowledge graph completion (KGC) methods rely solely on structural
+information, struggling with the inherent sparsity of knowledge graphs (KGs).
+Large Language Models (LLMs) learn extensive knowledge from large corpora with
+powerful context modeling, which is ideal for mitigating the limitations of
+previous methods. Directly fine-tuning LLMs offers great capability but comes
+at the cost of huge time and memory consumption, while utilizing frozen LLMs
+yields suboptimal results. In this work, we aim to leverage LLMs for KGC
+effectively and efficiently. We capture the context-aware hidden states of
+knowledge triples by employing prompts to stimulate the intermediate layers of
+LLMs. We then train a data-efficient classifier on these hidden states to
+harness the inherent capabilities of frozen LLMs in KGC. We also generate
+entity descriptions with subgraph sampling on KGs, reducing the ambiguity of
+triplets and enriching the knowledge representation. Extensive experiments on
+standard benchmarks showcase the efficiency and effectiveness of our approach.
+We outperform classical KGC methods on most datasets and match the performance
+of fine-tuned LLMs. Additionally, compared to fine-tuned LLMs, we boost GPU
+memory efficiency by \textbf{$188\times$} and speed up training+inference by
+\textbf{$13.48\times$}.
+
+摘要：傳統知識圖譜完成 (KGC) 方法僅依賴結構化資訊，難以應對知識圖譜 (KG) 內在的稀疏性。大型語言模型 (LLM) 從大型語料庫中學習廣泛的知識，並具備強大的情境建模能力，這對於緩解先前方法的限制非常理想。直接微調 LLM 可提供強大的能力，但代價是耗費大量時間和記憶體，而利用凍結的 LLM 則會產生次佳結果。在這項工作中，我們旨在有效且高效地利用 LLM 來進行 KGC。我們透過使用提示來刺激 LLM 的中間層，捕捉到知識三元組的情境感知隱藏狀態。然後，我們在這些隱藏狀態上訓練一個資料有效率的分類器，以利用凍結 LLM 在 KGC 中的內在能力。我們還透過在 KG 上進行子圖抽樣來產生實體描述，減少三元組的模糊性並豐富知識表示。標準基準上的廣泛實驗展示了我們方法的效率和有效性。我們在多數資料集上優於傳統的 KGC 方法，並與微調後的 LLM 達到相同的效能。此外，與微調後的 LLM 相比，我們將 GPU 記憶體效率提升了 **$188\times$**，並將訓練 + 推論速度提升了 **$13.48\times$**。
+
+##### **Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**
+2408.06717v1 by Jialiang Wang, Shimin Di, Hanmo Liu, Zhili Wang, Jiachuan Wang, Lei Chen, Xiaofang Zhou
+
+Graph Neural Networks (GNNs), like other neural networks, have shown
+remarkable success but are hampered by the complexity of their architecture
+designs, which heavily depend on specific data and tasks. Traditionally,
+designing proper architectures involves trial and error, which requires
+intensive manual effort to optimize various components. To reduce human
+workload, researchers try to develop automated algorithms to design GNNs.
+However, both experts and automated algorithms suffer from two major issues in
+designing GNNs: 1) the substantial computational resources expended in
+repeatedly trying candidate GNN architectures until a feasible design is
+achieved, and 2) the intricate and prolonged processes required for humans or
+algorithms to accumulate knowledge of the interrelationship between graphs,
+GNNs, and performance.
+  To further enhance the automation of GNN architecture design, we propose a
+computation-friendly way to empower Large Language Models (LLMs) with
+specialized knowledge in designing GNNs, thereby drastically shortening the
+computational overhead and development cycle of designing GNN architectures.
+Our framework begins by establishing a knowledge retrieval pipeline that
+comprehends the intercorrelations between graphs, GNNs, and performance. This
+pipeline converts past model design experiences into structured knowledge for
+LLM reference, allowing it to quickly suggest initial model proposals.
+Subsequently, we introduce a knowledge-driven search strategy that emulates the
+exploration-exploitation process of human experts, enabling quick refinement of
+initial proposals within a promising scope. Extensive experiments demonstrate
+that our framework can efficiently deliver promising (e.g., Top-5.77%) initial
+model proposals for unseen datasets within seconds and without any prior
+training and achieve outstanding search performance in a few iterations.
+
+摘要：圖形神經網路 (GNN) 與其他神經網路一樣，已展現出顯著的成功，但其架構設計的複雜性卻阻礙了進一步的發展，而這種複雜性在很大程度上取決於具體的資料和任務。傳統上，設計適當的架構需要反覆嘗試，這需要大量的人工工作才能最佳化各種元件。為了減少人力的負擔，研究人員嘗試開發自動化演算法來設計 GNN。然而，專家和自動化演算法在設計 GNN 時都會遇到兩個主要問題：1) 在反覆嘗試候選 GNN 架構以達成可行的設計之前，會耗費大量的運算資源，以及 2) 人類或演算法需要花費大量複雜而漫長的程序才能累積有關圖形、GNN 和效能之間相互關係的知識。
+為了進一步提升 GNN 架構設計的自動化，我們提出了一種運算友善的方式，讓大型語言模型 (LLM) 具備設計 GNN 的專業知識，從而大幅縮短設計 GNN 架構的運算負擔和開發週期。我們的架構首先建立一個知識擷取管道，了解圖形、GNN 和效能之間的相互關聯性。這個管道將過去的模型設計經驗轉換成結構化的知識，供 LLM 參考，讓 LLM 能夠快速提出初步的模型建議。隨後，我們引入一種知識驅動的搜尋策略，模擬人類專家的探索與開發程序，讓 LLM 能在有希望的範圍內快速改善初步建議。廣泛的實驗證明，我們的架構可以在幾秒鐘內有效地針對未見過的資料集提供有希望的 (例如，前 5.77%) 初步模型建議，而且無需任何先前的訓練，並在幾次反覆運算中就能達成傑出的搜尋效能。
+
 ##### **Body Transformer: Leveraging Robot Embodiment for Policy Learning**
 2408.06316v1 by Carmelo Sferrazza, Dun-Ming Huang, Fangchen Liu, Jongmin Lee, Pieter Abbeel
 
@@ -2409,93 +2514,4 @@ be used to learn arbitrary axioms, as long as sufficient demonstrations can be
 generated.
 
 摘要：<paragraph>對於基於文字的人工智慧系統與真實世界互動來說，因果推理是一項必要的技能。由於介入資料的產生成本很高，我們研究一位代理人從被動資料中學習因果推理的程度。具體來說，我們考慮一個公理訓練設置，其中一位代理人從因果公理（或規則）的多個示範中學習，而不是將公理作為歸納偏誤或從資料值中推斷出來。一個關鍵問題是代理人是否會學會從公理示範推廣到新的場景。例如，如果一個Transformer模型在小圖表上因果傳遞性公理的示範中接受訓練，它是否會推廣到在大圖表上應用傳遞性公理？我們的結果基於一個新穎的公理訓練方案，表明這樣的概括是可能的。我們考慮推論一個變數是否導致另一個變數的任務，給定一個因果圖結構。我們發現一個 6700 萬個參數的Transformer模型，在線性因果鏈（以及一些雜訊變化）上訓練時，可以很好地概括到新類型的圖形，包括更長的因果鏈、順序相反的因果鏈和具有分支的圖形；即使它沒有針對此類設置進行明確訓練。我們的模型表現與許多較大的語言模型（例如 GPT-4、Gemini Pro 和 Phi-3）相當（甚至更好）。總體而言，我們的公理訓練框架提供了一個從被動資料中學習因果推理的新範例，只要可以產生足夠的示範，就可以用於學習任意公理。</paragraph>
-
-##### **STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs**
-2407.12860v1 by Aaron Zolnai-Lucas, Jack Boylan, Chris Hokamp, Parsa Ghaffari
-
-We present Simplified Text-Attributed Graph Embeddings (STAGE), a
-straightforward yet effective method for enhancing node features in Graph
-Neural Network (GNN) models that encode Text-Attributed Graphs (TAGs). Our
-approach leverages Large-Language Models (LLMs) to generate embeddings for
-textual attributes. STAGE achieves competitive results on various node
-classification benchmarks while also maintaining a simplicity in implementation
-relative to current state-of-the-art (SoTA) techniques. We show that utilizing
-pre-trained LLMs as embedding generators provides robust features for ensemble
-GNN training, enabling pipelines that are simpler than current SoTA approaches
-which require multiple expensive training and prompting stages. We also
-implement diffusion-pattern GNNs in an effort to make this pipeline scalable to
-graphs beyond academic benchmarks.
-
-摘要：我們提出了簡化文字屬性圖嵌入 (STAGE)，這是一種直接但有效的方法，用於增強圖神經網路 (GNN) 模型中的節點特徵，這些模型會編碼文字屬性圖 (TAG)。我們的做法利用大型語言模型 (LLM) 來為文字屬性產生嵌入。STAGE 在各種節點分類基準上取得了有競爭力的結果，同時在實作上也維持了簡潔性，相較於目前的技術水準 (SoTA)。我們展示了使用預訓練的 LLM 作為嵌入產生器，可為整體 GNN 訓練提供強健的特徵，進而建構比目前 SoTA 做法更簡單的管道，而後者需要多個昂貴的訓練和提示階段。我們也實作了擴散模式 GNN，以期讓這個管道能擴充到學術基準之外的圖形。
-
-##### **GLBench: A Comprehensive Benchmark for Graph with Large Language Models**
-2407.07457v2 by Yuhan Li, Peisong Wang, Xiao Zhu, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
-
-The emergence of large language models (LLMs) has revolutionized the way we
-interact with graphs, leading to a new paradigm called GraphLLM. Despite the
-rapid development of GraphLLM methods in recent years, the progress and
-understanding of this field remain unclear due to the lack of a benchmark with
-consistent experimental protocols. To bridge this gap, we introduce GLBench,
-the first comprehensive benchmark for evaluating GraphLLM methods in both
-supervised and zero-shot scenarios. GLBench provides a fair and thorough
-evaluation of different categories of GraphLLM methods, along with traditional
-baselines such as graph neural networks. Through extensive experiments on a
-collection of real-world datasets with consistent data processing and splitting
-strategies, we have uncovered several key findings. Firstly, GraphLLM methods
-outperform traditional baselines in supervised settings, with LLM-as-enhancers
-showing the most robust performance. However, using LLMs as predictors is less
-effective and often leads to uncontrollable output issues. We also notice that
-no clear scaling laws exist for current GraphLLM methods. In addition, both
-structures and semantics are crucial for effective zero-shot transfer, and our
-proposed simple baseline can even outperform several models tailored for
-zero-shot scenarios. The data and code of the benchmark can be found at
-https://github.com/NineAbyss/GLBench.
-
-摘要：大型語言模型 (LLM) 的出現徹底改變了我們與圖表互動的方式，進而產生一種稱為 GraphLLM 的新典範。儘管近年來 GraphLLM 方法快速發展，但由於缺乏具有一致實驗協定的基準，因此該領域的進展和理解仍不明確。為了彌補這個差距，我們引入了 GLBench，這是第一個用於評估 GraphLLM 方法在監督式和零次學習場景中的綜合基準。GLBench 提供對不同類別的 GraphLLM 方法進行公平且徹底的評估，以及傳統基準，例如圖神經網路。透過對一組真實世界資料集進行廣泛實驗，並採用一致的資料處理和分割策略，我們發現了幾個關鍵發現。首先，GraphLLM 方法在監督式設定中優於傳統基準，其中 LLM 作為增強器顯示出最穩健的效能。然而，使用 LLM 作為預測器較不有效，而且經常導致無法控制的輸出問題。我們還注意到，對於目前的 GraphLLM 方法並不存在明確的縮放定律。此外，結構和語義對於有效的零次學習傳輸至關重要，而我們提出的簡單基準甚至可以優於針對零次學習場景量身打造的幾個模型。基準的資料和程式碼可以在 https://github.com/NineAbyss/GLBench 中找到。
-
-##### **Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**
-2407.07038v1 by Ruiran Su, Janet B. Pierrehumbert
-
-This work introduces the ClimateSent-GAT Model, an innovative method that
-integrates Graph Attention Networks (GATs) with techniques from natural
-language processing to accurately identify and predict disagreements within
-Reddit comment-reply pairs. Our model classifies disagreements into three
-categories: agree, disagree, and neutral. Leveraging the inherent graph
-structure of Reddit comment-reply pairs, the model significantly outperforms
-existing benchmarks by capturing complex interaction patterns and sentiment
-dynamics. This research advances graph-based NLP methodologies and provides
-actionable insights for policymakers and educators in climate science
-communication.
-
-摘要：本研究介紹 ClimateSent-GAT 模型，這是一種創新的方法，它將圖注意力網路 (GAT) 與自然語言處理技術整合，以準確識別並預測 Reddit 留言回覆對中的分歧。我們的模型將分歧分為三類：同意、不同意和中立。透過利用 Reddit 留言回覆對的內在圖形結構，此模型能大幅超越現有基準，捕捉複雜的互動模式和情緒動態。這項研究推動了基於圖形的 NLP 方法，並為氣候科學溝通中的政策制定者和教育工作者提供可行的見解。
-
-##### **Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions**
-2407.06723v1 by Yu-Guan Hsieh, Cheng-Yu Hsieh, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
-
-Humans describe complex scenes with compositionality, using simple text
-descriptions enriched with links and relationships. While vision-language
-research has aimed to develop models with compositional understanding
-capabilities, this is not reflected yet in existing datasets which, for the
-most part, still use plain text to describe images. In this work, we propose a
-new annotation strategy, graph-based captioning (GBC) that describes an image
-using a labelled graph structure, with nodes of various types. The nodes in GBC
-are created using, in a first stage, object detection and dense captioning
-tools nested recursively to uncover and describe entity nodes, further linked
-together in a second stage by highlighting, using new types of nodes,
-compositions and relations among entities. Since all GBC nodes hold plain text
-descriptions, GBC retains the flexibility found in natural language, but can
-also encode hierarchical information in its edges. We demonstrate that GBC can
-be produced automatically, using off-the-shelf multimodal LLMs and
-open-vocabulary detection models, by building a new dataset, GBC10M, gathering
-GBC annotations for about 10M images of the CC12M dataset. We use GBC10M to
-showcase the wealth of node captions uncovered by GBC, as measured with CLIP
-training. We show that using GBC nodes' annotations -- notably those stored in
-composition and relation nodes -- results in significant performance boost on
-downstream models when compared to other dataset formats. To further explore
-the opportunities provided by GBC, we also propose a new attention mechanism
-that can leverage the entire GBC graph, with encouraging experimental results
-that show the extra benefits of incorporating the graph structure. Our datasets
-are released at \url{https://huggingface.co/graph-based-captions}.
-
-摘要：<paragraph>人類使用簡單的文字描述，豐富的連結和關係，來描述複雜的場景。雖然視覺語言的研究旨在開發具有組合理解能力的模型，但現有的數據集尚未反映這一點，這些數據集在很大程度上仍使用純文本來描述圖像。在這項工作中，我們提出了一種新的註釋策略，基於圖表的標題 (GBC)，它使用標籤圖表結構來描述圖像，其中包含各種類型的節點。GBC 中的節點是使用物體檢測和密集標題工具在第一階段創建的，以遞迴嵌套的方式發現和描述實體節點，並在第二階段使用新類型的節點突出顯示，從而將它們進一步連結在一起，實體之間的組合和關係。由於所有 GBC 節點都包含純文本描述，因此 GBC 保留了自然語言中的靈活性，但也可以在其邊緣編碼分層信息。我們證明了 GBC 可以使用現成的多模態 LLM 和開放詞彙檢測模型自動生成，通過構建一個新的數據集 GBC10M，收集了大約 10M CC12M 數據集圖像的 GBC 註釋。我們使用 GBC10M 來展示 GBC 發現的豐富節點標題，並使用 CLIP 訓練進行測量。我們表明，與其他數據集格式相比，使用 GBC 節點的註釋——特別是存儲在組合和關係節點中的註釋——會顯著提升下游模型的性能。為了進一步探索 GBC 提供的機會，我們還提出了一種新的注意機制，它可以利用整個 GBC 圖表，並通過鼓勵性的實驗結果展示了結合圖表結構的額外好處。我們的數據集發布在 \url{https://huggingface.co/graph-based-captions}。</paragraph>
 

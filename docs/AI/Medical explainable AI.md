@@ -8,9 +8,10 @@
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284v1](http://arxiv.org/abs/2407.20284v1)|null|
 |**2024-07-25**|**Introducing δ-XAI: a novel sensitivity-based method for local AI explanations**|Alessandro De Carlo et.al.|[2407.18343v2](http://arxiv.org/abs/2407.18343v2)|null|
 |**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
+|**2024-07-24**|**Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition**|Michele Fiori et.al.|[2408.06352v1](http://arxiv.org/abs/2408.06352v1)|null|
 |**2024-07-21**|**Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**|Naseem Khan et.al.|[2408.03335v1](http://arxiv.org/abs/2408.03335v1)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
-|**2024-07-18**|**Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**|Simha Sankar Baradwaj et.al.|[2408.01431v1](http://arxiv.org/abs/2408.01431v1)|null|
+|**2024-07-18**|**Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**|Simha Sankar Baradwaj et.al.|[2408.01431v2](http://arxiv.org/abs/2408.01431v2)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
 |**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v1](http://arxiv.org/abs/2407.15851v1)|null|
@@ -23,7 +24,7 @@
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
 |**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
-|**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v2](http://arxiv.org/abs/2406.16908v2)|[link](https://github.com/dinuka-1999/braineocare)|
+|**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v3](http://arxiv.org/abs/2406.16908v3)|[link](https://github.com/dinuka-1999/braineocare)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
 |**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
@@ -101,7 +102,6 @@
 |**2023-05-26**|**A Novel real-time arrhythmia detection model using YOLOv8**|Guang Jun Nicholas Ang et.al.|[2305.16727v3](http://arxiv.org/abs/2305.16727v3)|null|
 |**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v2](http://arxiv.org/abs/2305.14389v2)|null|
 |**2023-05-18**|**What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**|Junwei Kuang et.al.|[2305.13127v2](http://arxiv.org/abs/2305.13127v2)|null|
-|**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
 
 #### Abstracts
 ##### **The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**
@@ -281,6 +281,26 @@ accurate and efficient tool for clinical applications.
 
 摘要：失智症是一種影響全球數百萬人的衰弱性神經疾病，在診斷上具有重大挑戰。在這項工作中，我們提出了一種新的方法，用於對失智和非失智老年患者進行分類，使用 3D 大腦磁振造影 (MRI) 掃描。我們的做法採用了一種獨特技術，用於選擇性處理 MRI 切片，重點關注最相關的大腦區域，並排除信息量較少的部分。這種方法由一個基於信心的分類委員會補充，該委員會由三個自定義深度學習模型組成：Dem3D ResNet、Dem3D CNN 和 Dem3D EfficientNet。這些模型協同工作以增強決策的準確性，利用它們的集體優勢。在影像研究開放存取系列 (OASIS) 資料集上進行測試，我們的模型達到了 94.12% 的驚人準確度，超過了現有方法。此外，在阿茲海默症神經影像倡議 (ADNI) 資料集上的驗證證實了我們方法的穩健性和普遍性。可解釋 AI (XAI) 技術和全面的消融研究進一步證實了我們技術的有效性，提供了對決策過程和我們方法重要性的見解。這項研究為失智症診斷提供了重大進展，為臨床應用提供了一個高度準確且高效的工具。
 
+##### **Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition**
+2408.06352v1 by Michele Fiori, Gabriele Civitarese, Claudio Bettini
+
+Recognizing daily activities with unobtrusive sensors in smart environments
+enables various healthcare applications. Monitoring how subjects perform
+activities at home and their changes over time can reveal early symptoms of
+health issues, such as cognitive decline. Most approaches in this field use
+deep learning models, which are often seen as black boxes mapping sensor data
+to activities. However, non-expert users like clinicians need to trust and
+understand these models' outputs. Thus, eXplainable AI (XAI) methods for Human
+Activity Recognition have emerged to provide intuitive natural language
+explanations from these models. Different XAI methods generate different
+explanations, and their effectiveness is typically evaluated through user
+surveys, that are often challenging in terms of costs and fairness. This paper
+proposes an automatic evaluation method using Large Language Models (LLMs) to
+identify, in a pool of candidates, the best XAI approach for non-expert users.
+Our preliminary results suggest that LLM evaluation aligns with user surveys.
+
+摘要：藉由智慧環境中不引人注目的感測器辨識日常活動，能啟用各種醫療保健應用。監控受試者在家中如何執行活動，以及其隨著時間的變化，可以揭示健康問題的早期症狀，例如認知能力下降。此領域中的大多數方法都使用深度學習模型，這些模型通常被視為將感測器資料對應至活動的黑盒子。然而，非專家使用者（例如臨床醫師）需要信任並了解這些模型的輸出。因此，人類活動辨識的可解釋 AI (XAI) 方法應運而生，以提供來自這些模型的直覺自然語言說明。不同的 XAI 方法會產生不同的說明，而其有效性通常透過使用者調查來評估，這在成本和公平性方面通常具有挑戰性。本文提出使用大型語言模型 (LLM) 的自動評估方法，以在候選者中找出最適合非專家使用者的 XAI 方法。我們的初步結果表明，LLM 評估與使用者調查一致。
+
 ##### **Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**
 2408.03335v1 by Naseem Khan, Kashif Ahmad, Aref Al Tamimi, Mohammed M. Alani, Amine Bermak, Issa Khalil
 
@@ -334,34 +354,30 @@ computers used by clinicians , project page
 摘要：本研究旨在探討將自然語言處理 (NLP) 和機器學習 (ML) 技術實作於醫療信函編碼自動化，並具備視覺化說明能力和輕量化的本地電腦設定。目前在臨床環境中，編碼是一種手動流程，涉及為病患文件中的每項病症、程序和藥物指派代碼 (例如，使用 SNOMED CT 代碼 56265001 表示心臟病)。此領域有使用最新 ML 模型進行自動編碼的初步研究；然而，由於模型的複雜性和大小，並未實現實際部署。為了進一步促進自動編碼實務的可能性，我們在本地電腦設定中探討了一些解決方案；此外，我們探討了說明功能在 AI 模型透明度中的功能。我們使用公開的 MIMIC-III 資料庫和 HAN/HLAN 網路模型進行 ICD 代碼預測。我們還試驗了 ICD 和 SNOMED CT 知識庫之間的對應。在我們的實驗中，這些模型提供了 97.98% 代碼的有用資訊。這項調查結果可以為實務中的自動臨床編碼實作提供一些見解，例如在醫院環境中，由臨床醫生使用的本地電腦，專案頁面 \url{https://github.com/Glenj01/Medical-Coding}。
 
 ##### **Building an Ethical and Trustworthy Biomedical AI Ecosystem for the Translational and Clinical Integration of Foundational Models**
-2408.01431v1 by Simha Sankar Baradwaj, Destiny Gilliland, Jack Rincon, Henning Hermjakob, Yu Yan, Irsyad Adam, Gwyneth Lemaster, Dean Wang, Karol Watson, Alex Bui, Wei Wang, Peipei Ping
+2408.01431v2 by Simha Sankar Baradwaj, Destiny Gilliland, Jack Rincon, Henning Hermjakob, Yu Yan, Irsyad Adam, Gwyneth Lemaster, Dean Wang, Karol Watson, Alex Bui, Wei Wang, Peipei Ping
 
-Foundational Models (FMs) are emerging as the cornerstone of the biomedical
+Foundational Models (FMs) are gaining increasing attention in the biomedical
 AI ecosystem due to their ability to represent and contextualize multimodal
-biomedical data. These capabilities allow FMs to be adapted for various tasks,
-including biomedical reasoning, hypothesis generation, and clinical
-decision-making. This review paper examines the foundational components of an
-ethical and trustworthy AI (ETAI) biomedical ecosystem centered on FMs,
-highlighting key challenges and solutions. The ETAI biomedical ecosystem is
-defined by seven key components which collectively integrate FMs into clinical
-settings: Data Lifecycle Management, Data Processing, Model Development, Model
-Evaluation, Clinical Translation, AI Governance and Regulation, and Stakeholder
-Engagement. While the potential of biomedical AI is immense, it requires
-heightened ethical vigilance and responsibility. For instance, biases can arise
-from data, algorithms, and user interactions, necessitating techniques to
-assess and mitigate bias prior to, during, and after model development.
-Moreover, interpretability, explainability, and accountability are key to
-ensuring the trustworthiness of AI systems, while workflow transparency in
-training, testing, and evaluation is crucial for reproducibility. Safeguarding
-patient privacy and security involves addressing challenges in data access,
-cloud data privacy, patient re-identification, membership inference attacks,
-and data memorization. Additionally, AI governance and regulation are essential
-for ethical AI use in biomedicine, guided by global standards. Furthermore,
-stakeholder engagement is essential at every stage of the AI pipeline and
-lifecycle for clinical translation. By adhering to these principles, we can
-harness the transformative potential of AI and develop an ETAI ecosystem.
+biomedical data. These capabilities make FMs a valuable tool for a variety of
+tasks, including biomedical reasoning, hypothesis generation, and interpreting
+complex imaging data. In this review paper, we address the unique challenges
+associated with establishing an ethical and trustworthy biomedical AI
+ecosystem, with a particular focus on the development of FMs and their
+downstream applications. We explore strategies that can be implemented
+throughout the biomedical AI pipeline to effectively tackle these challenges,
+ensuring that these FMs are translated responsibly into clinical and
+translational settings. Additionally, we emphasize the importance of key
+stewardship and co-design principles that not only ensure robust regulation but
+also guarantee that the interests of all stakeholders, especially those
+involved in or affected by these clinical and translational applications are
+adequately represented. We aim to empower the biomedical AI community to
+harness these models responsibly and effectively. As we navigate this exciting
+frontier, our collective commitment to ethical stewardship, co-design, and
+responsible translation will be instrumental in ensuring that the evolution of
+FMs truly enhances patient care and medical decision making, ultimately leading
+to a more equitable and trustworthy biomedical AI ecosystem.
 
-摘要：基礎模型 (FM) 由於能表示和語境化多模態生物醫學數據的能力，而成為生物醫學 AI 生態系統的基石。這些能力讓 FM 能適應各種任務，包括生物醫學推理、假設產生和臨床決策制定。這篇評論論文探討了以 FM 為中心的道德和可信賴 AI (ETAI) 生物醫學生態系統的基本組成部分，重點說明了關鍵挑戰和解決方案。ETAI 生物醫學生態系統由七個關鍵組成部分定義，這些組成部分共同將 FM 整合到臨床環境中：資料生命週期管理、資料處理、模型開發、模型評估、臨床轉譯、AI 治理和法規，以及利害關係人參與。儘管生物醫學 AI 的潛力巨大，但它需要高度的道德警覺性和責任感。例如，偏見可能來自資料、演算法和使用者互動，因此需要在模型開發之前、期間和之後評估和減輕偏見的技術。此外，可解釋性、可說明性和問責制是確保 AI 系統可信賴性的關鍵，而訓練、測試和評估中的工作流程透明度對於可複製性至關重要。保障病患隱私和安全涉及解決資料存取、雲端資料隱私、病患再識別、成員推論攻擊和資料記憶化等挑戰。此外，AI 治理和法規對於在生物醫學中使用道德 AI 至關重要，並以全球標準為指導。此外，利害關係人參與在 AI 管線和臨床轉譯的生命週期中每個階段都至關重要。透過遵守這些原則，我們可以利用 AI 的轉型潛力，並開發一個 ETAI 生態系統。
+摘要：基礎模型 (FM) 因其表示和語境化多模態生物醫學數據的能力而在生物醫學 AI 生態系統中獲得越來越多的關注。這些能力使 FM 成為各種任務的有價值工具，包括生物醫學推理、假設生成和解釋複雜的影像數據。在這篇評論論文中，我們探討了與建立一個合乎道德且值得信賴的生物醫學 AI 生態系統相關的獨特挑戰，特別關注 FM 的開發及其下游應用。我們探討了可以在整個生物醫學 AI 管線中實施的策略，以有效應對這些挑戰，確保這些 FM 能負責任地轉化為臨床和轉化場景。此外，我們強調關鍵管理和共同設計原則的重要性，這些原則不僅確保穩健的法規，還保證所有利害關係人的利益，特別是參與或受這些臨床和轉化應用影響的利害關係人的利益得到充分代表。我們的目標是讓生物醫學 AI 社群負責任且有效地利用這些模型。隨著我們探索這個令人興奮的領域，我們對道德管理、共同設計和負責任轉化的共同承諾將有助於確保 FM 的演進真正提升患者照護和醫療決策，最終導致一個更公平且值得信賴的生物醫學 AI 生態系統。
 
 ##### **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**
 2407.07009v1 by Abdul Karim Gizzini, Yahia Medjahdi, Ali J. Ghandour, Laurent Clavier
@@ -680,7 +696,7 @@ publicly available at https://github.com/jordan7186/GAtt/tree/main.
 摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
 
 ##### **Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**
-2406.16908v2 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira U. S. Edussooriya
+2406.16908v3 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira U. S. Edussooriya
 
 The neonatal period is the most vulnerable time for the development of
 seizures. Seizures in the immature brain lead to detrimental consequences,
@@ -701,7 +717,7 @@ Zenodo dataset with 10-fold cross-validation, the presented model achieves an
 absolute improvement of 8.31% and 42.86% in area under curve (AUC) and recall,
 respectively.
 
-摘要：新生兒時期是大腦發育最脆弱的時期，會導致癲癇發作。癲癇發作會對未成熟的大腦造成不良後果，因此需要早期診斷。目前新生兒癲癇檢測的黃金標準依賴於連續視訊腦電圖監測；這包括在新生兒加護病房 (NICU) 內記錄多通道腦電圖 (EEG) 和即時視訊監測。然而，視訊腦電圖監測技術需要臨床專業知識，而且通常僅限於技術先進且資源豐富的環境。具有成本效益的新技術可以幫助醫療界做出準確的診斷，並立即提倡治療。在這項工作中，提出了一個新穎可解釋的深度學習模型，以自動化新生兒癲癇檢測過程，並減少腦電圖裝置，該模型採用卷積網路、圖注意力層和全連接層。除了能夠即時偵測減少裝置的癲癇發作外，此模型還提供即時可解釋性的獨特優勢。透過評估 Zenodo 資料集上的效能，並進行 10 倍交叉驗證，所提出的模型在曲線下面積 (AUC) 和召回率分別達到 8.31% 和 42.86% 的絕對改善。
+摘要：新生兒期是大腦發育最脆弱的時期，容易出現癲癇發作。大腦發育不成熟時出現癲癇發作會造成不良後果，因此需要及早診斷。目前新生兒癲癇發作的黃金標準依賴於連續的視訊腦電圖 (EEG) 監測；其中包括在新生兒加護病房 (NICU) 內同時進行多頻道腦電圖 (EEG) 記錄和即時視訊監控。然而，視訊腦電圖監控技術需要臨床專業知識，而且通常僅限於技術先進且資源豐富的環境。具成本效益的新技術可以幫助醫療界準確診斷並立即提倡治療。在這項工作中，提出了一個新穎的可解釋深度學習模型，以自動化新生兒癲癇發作偵測過程，並採用減少的腦電圖裝置，其中採用了卷積神經網路、圖形注意力層和全連接層。除了能夠使用減少的裝置即時偵測癲癇發作外，此模型還提供了即時可解釋性的獨特優勢。透過在 Zenodo 資料集上使用 10 倍交叉驗證評估效能，所提出的模型在曲線下面積 (AUC) 和召回率方面分別達到了 8.31% 和 42.86% 的絕對改善。
 
 ##### **Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**
 2406.00532v1 by Samita Bai, Sidra Nasir, Rizwan Ahmed Khan, Sheeraz Arif, Alexandre Meyer, Hubert Konik
@@ -2583,27 +2599,4 @@ implemented in social media platforms to provide personalized online resources
 for detected depressed patients.
 
 摘要：憂鬱症是最普遍且嚴重的精神疾病，會造成嚴重的財務和社會後果。憂鬱症的偵測對於早期介入以減輕這些後果至關重要。如此重大的決定本質上需要可解釋性。儘管一些憂鬱症偵測研究嘗試根據重要性分數或注意力權重來解釋這個決定，但這些解釋與基於憂鬱症狀的臨床憂鬱症診斷標準不一致。為了填補這個缺口，我們遵循計算設計科學範例來開發一個新穎的多尺度時間原型網路 (MSTPNet)。MSTPNet 創新地偵測並解釋憂鬱症狀以及它們持續多久。使用大規模資料集進行的廣泛實證分析顯示，MSTPNet 以 0.851 的 F1 分數優於最先進的憂鬱症偵測方法。此結果還揭示了調查方法中未注意到的新症狀，例如分享對不同生活的欽佩。我們進一步進行使用者研究，以證明其在可解釋性方面優於基準。本研究以一個新穎的可解釋深度學習模型為憂鬱症偵測在社群媒體中的 IS 文獻做出貢獻。在實務上，我們提出的方法可以實作在社群媒體平台中，以提供個人化的線上資源給被偵測出憂鬱症的患者。
-
-##### **Echoes of Biases: How Stigmatizing Language Affects AI Performance**
-2305.10201v4 by Yizhi Liu, Weiguang Wang, Guodong Gordon Gao, Ritu Agarwal
-
-Electronic health records (EHRs) serve as an essential data source for the
-envisioned artificial intelligence (AI)-driven transformation in healthcare.
-However, clinician biases reflected in EHR notes can lead to AI models
-inheriting and amplifying these biases, perpetuating health disparities. This
-study investigates the impact of stigmatizing language (SL) in EHR notes on
-mortality prediction using a Transformer-based deep learning model and
-explainable AI (XAI) techniques. Our findings demonstrate that SL written by
-clinicians adversely affects AI performance, particularly so for black
-patients, highlighting SL as a source of racial disparity in AI model
-development. To explore an operationally efficient way to mitigate SL's impact,
-we investigate patterns in the generation of SL through a clinicians'
-collaborative network, identifying central clinicians as having a stronger
-impact on racial disparity in the AI model. We find that removing SL written by
-central clinicians is a more efficient bias reduction strategy than eliminating
-all SL in the entire corpus of data. This study provides actionable insights
-for responsible AI development and contributes to understanding clinician
-behavior and EHR note writing in healthcare.
-
-摘要：電子健康紀錄 (EHR) 作為預想中由人工智慧 (AI) 推動的醫療保健轉型的重要資料來源。然而，反映在 EHR 備註中的臨床偏見可能導致 AI 模型繼承並擴大這些偏見，進而造成健康差異。本研究探討 EHR 備註中汙名化語言 (SL) 對使用基於 Transformer 的深度學習模型和可解釋 AI (XAI) 技術預測死亡率的影響。我們的研究結果表明，由臨床醫生撰寫的 SL 會對 AI 效能產生不利影響，特別是對黑人患者而言，突顯 SL 是 AI 模型開發中種族差異的來源。為了探索一種運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路探討 SL 產生的模式，並找出核心臨床醫生對 AI 模型中的種族差異有較大的影響。我們發現，移除由核心臨床醫生撰寫的 SL 是比消除資料集中所有 SL 更有效率的偏見減少策略。本研究提供可行的見解，用於負責任的 AI 開發，並有助於了解臨床醫生行為和醫療保健中的 EHR 備註撰寫。
 

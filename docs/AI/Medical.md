@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264v1](http://arxiv.org/abs/2408.08264v1)|[link](https://github.com/desreslab/invaert4cardio)|
+|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
+|**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058v1](http://arxiv.org/abs/2408.08058v1)|null|
+|**2024-08-15**|**Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx**|Ana Fernández del Río et.al.|[2408.08024v1](http://arxiv.org/abs/2408.08024v1)|null|
+|**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981v1](http://arxiv.org/abs/2408.07981v1)|null|
+|**2024-08-14**|**Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**|Musa Taib et.al.|[2408.07845v1](http://arxiv.org/abs/2408.07845v1)|null|
 |**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|null|
 |**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|null|
 |**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|null|
@@ -96,14 +102,163 @@
 |**2024-07-31**|**Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net**|Rohini Banerjee et.al.|[2407.21273v1](http://arxiv.org/abs/2407.21273v1)|null|
 |**2024-07-30**|**Domain Shift Analysis in Chest Radiographs Classification in a Veterans Healthcare Administration Population**|Mayanka Chandrashekar et.al.|[2407.21149v1](http://arxiv.org/abs/2407.21149v1)|null|
 |**2024-07-30**|**Zero Shot Health Trajectory Prediction Using Transformer**|Pawel Renc et.al.|[2407.21124v1](http://arxiv.org/abs/2407.21124v1)|null|
-|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011v1](http://arxiv.org/abs/2407.21011v1)|[link](https://github.com/xypb/cleft)|
-|**2024-07-30**|**Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing**|Eugenio Lomurno et.al.|[2407.20830v1](http://arxiv.org/abs/2407.20830v1)|null|
-|**2024-07-30**|**Interpretable Pre-Trained Transformers for Heart Time-Series Data**|Harry J. Davies et.al.|[2407.20775v2](http://arxiv.org/abs/2407.20775v2)|[link](https://github.com/harryjdavies/heartgpt)|
-|**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739v1](http://arxiv.org/abs/2407.20739v1)|null|
-|**2024-07-29**|**Dense Self-Supervised Learning for Medical Image Segmentation**|Maxime Seince et.al.|[2407.20395v1](http://arxiv.org/abs/2407.20395v1)|null|
-|**2024-07-29**|**Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**|Ruochen Li et.al.|[2407.20108v1](http://arxiv.org/abs/2407.20108v1)|null|
 
 #### Abstracts
+##### **InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**
+2408.08264v1 by Guoxiang Grayson Tong, Carlos A. Sing Long, Daniele E. Schiavazzi
+
+Estimation of cardiovascular model parameters from electronic health records
+(EHR) poses a significant challenge primarily due to lack of identifiability.
+Structural non-identifiability arises when a manifold in the space of
+parameters is mapped to a common output, while practical non-identifiability
+can result due to limited data, model misspecification, or noise corruption. To
+address the resulting ill-posed inverse problem, optimization-based or Bayesian
+inference approaches typically use regularization, thereby limiting the
+possibility of discovering multiple solutions. In this study, we use inVAErt
+networks, a neural network-based, data-driven framework for enhanced digital
+twin analysis of stiff dynamical systems. We demonstrate the flexibility and
+effectiveness of inVAErt networks in the context of physiological inversion of
+a six-compartment lumped parameter hemodynamic model from synthetic data to
+real data with missing components.
+
+摘要：從電子健康紀錄 (EHR) 估計心血管模型參數主要由於缺乏可識別性而構成重大挑戰。
+當參數空間中的流形對應到共同輸出時，會產生結構性不可識別性，而由於資料有限、模型錯誤規範或雜訊破壞，可能會導致實際不可識別性。為了解決由此產生的不適定反問題，基於最佳化的貝氏推論方法通常使用正則化，從而限制發現多重解的可能性。在本研究中，我們使用 inVAErt 網路，這是一種基於神經網路、資料驅動的架構，用於增強僵硬動態系統的數位雙胞胎分析。我們展示了 inVAErt 網路在生理反演中的靈活性與有效性，從合成資料到缺少組成的真實資料，反演六隔間集總參數血流動力模型。
+
+##### **Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**
+2408.08182v1 by Qiushuo Cheng, Catherine Morgan, Arindam Sikdar, Alessandro Masullo, Alan Whone, Majid Mirmehdi
+
+People with Parkinson's Disease (PD) often experience progressively worsening
+gait, including changes in how they turn around, as the disease progresses.
+Existing clinical rating tools are not capable of capturing hour-by-hour
+variations of PD symptoms, as they are confined to brief assessments within
+clinic settings. Measuring real-world gait turning angles continuously and
+passively is a component step towards using gait characteristics as sensitive
+indicators of disease progression in PD. This paper presents a deep
+learning-based approach to automatically quantify turning angles by extracting
+3D skeletons from videos and calculating the rotation of hip and knee joints.
+We utilise state-of-the-art human pose estimation models, Fastpose and Strided
+Transformer, on a total of 1386 turning video clips from 24 subjects (12 people
+with PD and 12 healthy control volunteers), trimmed from a PD dataset of
+unscripted free-living videos in a home-like setting (Turn-REMAP). We also
+curate a turning video dataset, Turn-H3.6M, from the public Human3.6M human
+pose benchmark with 3D ground truth, to further validate our method. Previous
+gait research has primarily taken place in clinics or laboratories evaluating
+scripted gait outcomes, but this work focuses on real-world settings where
+complexities exist, such as baggy clothing and poor lighting. Due to
+difficulties in obtaining accurate ground truth data in a free-living setting,
+we quantise the angle into the nearest bin $45^\circ$ based on the manual
+labelling of expert clinicians. Our method achieves a turning calculation
+accuracy of 41.6%, a Mean Absolute Error (MAE) of 34.7{\deg}, and a weighted
+precision WPrec of 68.3% for Turn-REMAP. This is the first work to explore the
+use of single monocular camera data to quantify turns by PD patients in a home
+setting.
+
+摘要：帕金森氏症 (PD) 患者经常会随着疾病的进展而出现步态逐渐恶化的现象，包括转身方式的变化。现有的临床评定工具无法捕捉到 PD 症状逐小时的变化，因为它们仅限于在临床环境中进行短暂的评估。连续被动地测量现实世界中的步态转弯角度是将步态特征用作 PD 疾病进展的敏感指标的组成部分。本文提出了一种基于深度学习的方法，通过从视频中提取 3D 骨架并计算髋关节和膝关节的旋转，自动量化转弯角度。我们对来自 24 个受试者（12 名 PD 患者和 12 名健康对照志愿者）的总共 1386 个转弯视频剪辑使用了最先进的人体姿势估计模型 Fastpose 和 Strided Transformer，这些剪辑是从家庭环境中无脚本自由生活视频的 PD 数据集（Turn-REMAP）中截取的。我们还从具有 3D 真实的公共 Human3.6M 人体姿势基准中整理了一个转弯视频数据集 Turn-H3.6M，以进一步验证我们的方法。以往的步态研究主要在评估脚本化步态结果的诊所或实验室中进行，但这项工作重点关注存在复杂性的现实世界环境，例如宽松的衣服和光线不足。由于在自由生活环境中难以获得准确的真实数据，我们根据专家临床医生的手动标记，将角度量化为最接近的箱 $45^\circ$。我们的方法对 Turn-REMAP 的转弯计算准确度达到 41.6%，平均绝对误差 (MAE) 为 34.7{\deg}，加权精度 WPrec 为 68.3%。这是首次探索使用单目单眼相机数据来量化 PD 患者在家中转弯情况的工作。
+
+##### **Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**
+2408.08058v1 by Stefano Woerner, Christian F. Baumgartner
+
+Data scarcity is a major limiting factor for applying modern machine learning
+techniques to clinical tasks. Although sufficient data exists for some
+well-studied medical tasks, there remains a long tail of clinically relevant
+tasks with poor data availability. Recently, numerous foundation models have
+demonstrated high suitability for few-shot learning (FSL) and zero-shot
+learning (ZSL), potentially making them more accessible to practitioners.
+However, it remains unclear which foundation model performs best on FSL medical
+image analysis tasks and what the optimal methods are for learning from limited
+data. We conducted a comprehensive benchmark study of ZSL and FSL using 16
+pretrained foundation models on 19 diverse medical imaging datasets. Our
+results indicate that BiomedCLIP, a model pretrained exclusively on medical
+data, performs best on average for very small training set sizes, while very
+large CLIP models pretrained on LAION-2B perform best with slightly more
+training samples. However, simply fine-tuning a ResNet-18 pretrained on
+ImageNet performs similarly with more than five training examples per class.
+Our findings also highlight the need for further research on foundation models
+specifically tailored for medical applications and the collection of more
+datasets to train these models.
+
+摘要：資料稀少是將現代機器學習技術應用於臨床任務的主要限制因素。儘管對於一些研究完善的醫療任務而言存在足夠的資料，但仍有許多臨床相關任務的資料可用性不佳。最近，許多基礎模型已展現出非常適合小樣本學習 (FSL) 和零樣本學習 (ZSL)，這有可能讓從業人員更容易使用這些模型。然而，目前仍不清楚哪個基礎模型在 FSL 醫學影像分析任務中的表現最佳，以及從有限資料中學習的最佳方法為何。我們針對 16 個預訓練基礎模型在 19 個不同的醫學影像資料集上執行了一項全面的 ZSL 和 FSL 基準研究。我們的結果顯示，一個專門針對醫療資料進行預訓練的模型 BiomedCLIP 在非常小的訓練集大小下表現最佳，而針對 LAION-2B 進行預訓練的非常大型 CLIP 模型在訓練樣本稍多的情況下表現最佳。然而，針對 ImageNet 進行預訓練的 ResNet-18 只要每類別有超過五個訓練範例，其微調表現就類似。我們的發現也凸顯了進一步針對醫療應用量身打造基礎模型以及收集更多資料集來訓練這些模型的研究需求。
+
+##### **Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx**
+2408.08024v1 by Ana Fernández del Río, Michael Brennan Leong, Paulo Saraiva, Ivan Nazarov, Aditya Rastogi, Moiz Hassan, Dexian Tang, África Periáñez
+
+This paper introduces a reinforcement learning (RL) platform that enhances
+end-to-end user journeys in healthcare digital tools through personalization.
+We explore a case study with SwipeRx, the most popular all-in-one app for
+pharmacists in Southeast Asia, demonstrating how the platform can be used to
+personalize and adapt user experiences. Our RL framework is tested through a
+series of experiments with product recommendations tailored to each pharmacy
+based on real-time information on their purchasing history and in-app
+engagement, showing a significant increase in basket size. By integrating
+adaptive interventions into existing mobile health solutions and enriching user
+journeys, our platform offers a scalable solution to improve pharmaceutical
+supply chain management, health worker capacity building, and clinical decision
+and patient care, ultimately contributing to better healthcare outcomes.
+
+摘要：本論文介紹一個強化學習 (RL) 平台，透過個人化來提升醫療保健數位工具中的使用者旅程。我們探討了一個案例研究，對象是東南亞最受歡迎的藥劑師全方位應用程式 SwipeRx，展示如何使用該平台來個人化和調整使用者體驗。我們的 RL 框架透過一系列實驗進行測試，這些實驗根據每個藥局的購買歷程和應用程式互動的即時資訊，提供量身打造的產品推薦，顯示購物籃大小大幅增加。透過將適應性介入整合到現有的行動健康解決方案，並豐富使用者旅程，我們的平台提供了一個可擴充的解決方案來改善製藥供應鏈管理、醫療人員能力建構、臨床決策和患者照護，最終有助於改善醫療保健成果。
+
+##### **LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**
+2408.07981v1 by Jiajie Li, Garrett Skinner, Gene Yang, Brian R Quaranto, Steven D Schwaitzberg, Peter C W Kim, Jinjun Xiong
+
+Multimodal large language models (LLMs) have achieved notable success across
+various domains, while research in the medical field has largely focused on
+unimodal images. Meanwhile, current general-domain multimodal models for videos
+still lack the capabilities to understand and engage in conversations about
+surgical videos. One major contributing factor is the absence of datasets in
+the surgical field. In this paper, we create a new dataset, Surg-QA, consisting
+of 102,000 surgical video-instruction pairs, the largest of its kind so far. To
+build such a dataset, we propose a novel two-stage question-answer generation
+pipeline with LLM to learn surgical knowledge in a structured manner from the
+publicly available surgical lecture videos. The pipeline breaks down the
+generation process into two stages to significantly reduce the task complexity,
+allowing us to use a more affordable, locally deployed open-source LLM than the
+premium paid LLM services. It also mitigates the risk of LLM hallucinations
+during question-answer generation, thereby enhancing the overall quality of the
+generated data. We further train LLaVA-Surg, a novel vision-language
+conversational assistant capable of answering open-ended questions about
+surgical videos, on this Surg-QA dataset, and conduct comprehensive evaluations
+on zero-shot surgical video question-answering tasks. We show that LLaVA-Surg
+significantly outperforms all previous general-domain models, demonstrating
+exceptional multimodal conversational skills in answering open-ended questions
+about surgical videos. We will release our code, model, and the
+instruction-tuning dataset.
+
+摘要：多模態大型語言模型 (LLM) 在各個領域都取得了顯著的成功，而醫學領域的研究則主要集中在單模態影像上。同時，目前的影片通用領域多模態模型仍缺乏理解和參與外科影片對話的能力。主要的影響因素之一是外科領域中缺乏資料集。在本文中，我們建立了一個新的資料集 Surg-QA，其中包含 102,000 個外科影片教學配對，是目前同類資料集中規模最大的。為了建立這樣的資料集，我們提出了一個新穎的兩階段問答產生管道，使用 LLM 以結構化的方式從公開的外科教學影片中學習外科知識。該管道將產生過程分為兩個階段，以顯著降低任務複雜性，使我們能夠使用比付費 LLM 服務更實惠的本地部署開源 LLM。它還減輕了問答產生過程中 LLM 產生幻覺的風險，從而提高了產生資料的整體品質。我們進一步訓練 LLaVA-Surg，這是一個新穎的視覺語言對話助理，能夠回答有關外科影片的開放式問題，並在 Surg-QA 資料集上進行全面的零次學習外科影片問答任務評估。我們展示了 LLaVA-Surg 明顯優於所有先前的通用領域模型，證明了在回答有關外科影片的開放式問題時具有卓越的多模態對話技能。我們將發布我們的程式碼、模型和教學調整資料集。
+
+##### **Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**
+2408.07845v1 by Musa Taib, Jiajun Wu, Steve Drew, Geoffrey G. Messier
+
+The top priority of a Housing and Homelessness System of Care (HHSC) is to
+connect people experiencing homelessness to supportive housing. An HHSC
+typically consists of many agencies serving the same population. Information
+technology platforms differ in type and quality between agencies, so their data
+are usually isolated from one agency to another. Larger agencies may have
+sufficient data to train and test artificial intelligence (AI) tools but
+smaller agencies typically do not. To address this gap, we introduce a
+Federated Learning (FL) approach enabling all agencies to train a predictive
+model collaboratively without sharing their sensitive data. We demonstrate how
+FL can be used within an HHSC to provide all agencies equitable access to
+quality AI and further assist human decision-makers in the allocation of
+resources within HHSC. This is achieved while preserving the privacy of the
+people within the data by not sharing identifying information between agencies
+without their consent. Our experimental results using real-world HHSC data from
+Calgary, Alberta, demonstrate that our FL approach offers comparable
+performance with the idealized scenario of training the predictive model with
+data fully shared and linked between agencies.
+
+摘要：住房和無家可歸者照護系統 (HHSC) 的首要任務是
+將無家可歸者與支持性住房連結起來。HHSC
+通常由許多服務於相同族群的機構組成。資訊
+技術平台在各個機構之間的類型和品質不同，因此他們的資料
+通常彼此孤立。較大型的機構可能擁有足夠的資料來訓練和測試人工智慧 (AI) 工具，但
+較小型機構通常沒有。為了解決這個差距，我們引入了一種
+聯合式學習 (FL) 方法，讓所有機構都能夠在不分享其敏感資料的情況下共同訓練一個預測
+模型。我們展示了 FL 如何在 HHSC 中使用，以提供所有機構公平取得
+優質 AI 的機會，並進一步協助人類決策者在 HHSC 內部分配
+資源。這是在不經機構同意的情況下，不分享識別資訊的情況下，保護資料中人們的隱私來實現的。我們使用來自
+加拿大艾伯塔省卡加利的真實世界 HHSC 資料進行實驗結果顯示，我們的 FL 方法提供與在機構之間完全分享和連結資料的理想預測模型訓練情境相當的
+效能。
+
 ##### **Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**
 2408.07673v2 by Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells
 
@@ -2456,162 +2611,4 @@ data sources. Our work demonstrates a pathway toward accelerated AI development
 and deployment in healthcare.
 
 摘要：整合現代機器學習與臨床決策制定對於減輕醫療保健日益增加的成本和複雜性具有很大的前景。我們引入了健康結果模擬的增強式Transformer（ETHOS），這是一種Transformer深度學習架構的新穎應用，用於分析高維、異質且情節性的健康數據。ETHOS 使用患者健康時間軸 (PHT) 進行訓練，PHT 是健康事件的詳細、標記化記錄，用於預測未來的健康軌跡，並利用零次學習方法。ETHOS 代表了醫療保健分析基礎模型開發的重大進展，消除了對標記數據和模型微調的需求。它模擬各種治療途徑並考慮患者特定因素的能力，使 ETHOS 成為優化照護和解決醫療保健提供中偏差的工具。未來的發展將擴展 ETHOS 的功能，以納入更廣泛的數據類型和數據來源。我們的研究展示了一條加速醫療保健中 AI 開發和部署的途徑。
-
-##### **CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**
-2407.21011v1 by Yuexi Du, Brian Chang, Nicha C. Dvornek
-
-Recent advancements in Contrastive Language-Image Pre-training (CLIP) have
-demonstrated notable success in self-supervised representation learning across
-various tasks. However, the existing CLIP-like approaches often demand
-extensive GPU resources and prolonged training times due to the considerable
-size of the model and dataset, making them poor for medical applications, in
-which large datasets are not always common. Meanwhile, the language model
-prompts are mainly manually derived from labels tied to images, potentially
-overlooking the richness of information within training samples. We introduce a
-novel language-image Contrastive Learning method with an Efficient large
-language model and prompt Fine-Tuning (CLEFT) that harnesses the strengths of
-the extensive pre-trained language and visual models. Furthermore, we present
-an efficient strategy for learning context-based prompts that mitigates the gap
-between informative clinical diagnostic data and simple class labels. Our
-method demonstrates state-of-the-art performance on multiple chest X-ray and
-mammography datasets compared with various baselines. The proposed parameter
-efficient framework can reduce the total trainable model size by 39% and reduce
-the trainable language model to only 4% compared with the current BERT encoder.
-
-摘要：對比語言影像預訓練 (CLIP) 的最新進展已展現出在各項任務中以自我監督表徵學習獲得顯著成功的成果。然而，現有的 CLIP 類似方法通常需要大量的 GPU 資源和漫長的訓練時間，因為模型和資料集的規模龐大，這使得它們不適合醫療應用，因為醫療應用中並不總是會有大型資料集。同時，語言模型提示主要來自與影像相關的標籤，而手動衍生，這可能會忽略訓練樣本中豐富的資訊。我們提出一個新穎的語言影像對比學習方法，其中包含一個高效的大語言模型和提示微調 (CLEFT)，它利用了廣泛預訓練的語言和視覺模型的優勢。此外，我們提出一個學習基於脈絡提示的有效策略，以縮小資訊豐富的臨床診斷資料和簡單類別標籤之間的差距。與各種基準相比，我們的模型在多個胸部 X 光和乳房攝影資料集上展現出最先進的效能。所提出的參數有效架構可以將總體可訓練模型大小減少 39%，並將可訓練語言模型減少到僅 4%，與目前的 BERT 編碼器相比。
-
-##### **Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing**
-2407.20830v1 by Eugenio Lomurno, Matteo Matteucci
-
-Federated learning has emerged as a paradigm for collaborative learning,
-enabling the development of robust models without the need to centralise
-sensitive data. However, conventional federated learning techniques have
-privacy and security vulnerabilities due to the exposure of models, parameters
-or updates, which can be exploited as an attack surface. This paper presents
-Federated Knowledge Recycling (FedKR), a cross-silo federated learning approach
-that uses locally generated synthetic data to facilitate collaboration between
-institutions. FedKR combines advanced data generation techniques with a dynamic
-aggregation process to provide greater security against privacy attacks than
-existing methods, significantly reducing the attack surface. Experimental
-results on generic and medical datasets show that FedKR achieves competitive
-performance, with an average improvement in accuracy of 4.24% compared to
-training models from local data, demonstrating particular effectiveness in data
-scarcity scenarios.
-
-摘要：聯邦學習已成為協作學習的典範，
-無需集中敏感資料即可開發穩健模型。然而，由於模型、參數
-或更新的公開，傳統的聯邦學習技術具有隱私和安全漏洞，可用作攻擊面。本文提出
-聯邦知識再利用 (FedKR)，一種跨孤島的聯邦學習方法
-使用本地生成的合成資料來促進
-機構之間的合作。FedKR 將先進的資料生成技術與動態
-聚合過程相結合，以提供比
-現有方法更能抵禦隱私攻擊的安全保障，大幅縮小攻擊面。實驗
-結果顯示，在一般和醫療資料集上，FedKR 達到競爭力
-表現，與訓練模型相比，準確率平均提升 4.24%
-來自本地資料，在資料稀缺的情況下展現出特別的有效性。
-
-##### **Interpretable Pre-Trained Transformers for Heart Time-Series Data**
-2407.20775v2 by Harry J. Davies, James Monsen, Danilo P. Mandic
-
-Decoder-only transformers are the backbone of the popular generative
-pre-trained transformer (GPT) series of large language models. In this work, we
-employ this framework to the analysis of clinical heart time-series data, to
-create two pre-trained general purpose cardiac models, termed PPG-PT and
-ECG-PT. We place a special emphasis on making both such pre-trained models
-fully interpretable. This is achieved firstly through aggregate attention maps
-which show that, in order to make predictions, the model focuses on similar
-points in previous cardiac cycles and gradually broadens its attention in
-deeper layers. Next, we show that tokens with the same value, which occur at
-different distinct points in the electrocardiography (ECG) and
-photoplethysmography (PPG) cycle, form separate clusters in high dimensional
-space. The clusters form according to phase, as the tokens propagate through
-the transformer blocks. Finally, we highlight that individual attention heads
-respond to specific physiologically relevent features, such as the dicrotic
-notch in PPG and the P-wave in ECG. It is also demonstrated that these
-pre-trained models are straightforward to fine-tune for tasks such as
-classification of atrial fibrillation (AF), and beat detection in
-photoplethysmography. For the example of AF, the fine-tuning took 11 minutes of
-computer time, and achieved the respective leave-one-subject-out AUCs of 0.99
-and 0.93 for ECG and PPG within the MIMIC Perform AF dataset. In addition, the
-fine-tuned beat detector achieved a state-of-the-art F1 score of 98%, as well
-as uniquely providing a beat confidence level which acts as a signal quality
-estimator. Importantly, the fine-tuned models for AF screening are also fully
-explainable, with attention shifting to regions in the context that are
-strongly indicative of atrial fibrillation.
-
-摘要：<paragraph>僅解碼器Transformer是大型語言模型熱門生成式預訓練Transformer (GPT) 系列的核心。在這項工作中，我們將此架構應用於臨床心臟時間序列資料分析，以建立兩個預訓練通用心臟模型，稱為 PPG-PT 和 ECG-PT。我們特別強調讓這兩個預訓練模型完全可解釋。這首先是透過總體注意圖實現的，它顯示模型為了做出預測，會專注於先前心臟週期中的類似點，並在更深層的層級逐漸擴大其注意範圍。接下來，我們顯示在心電圖 (ECG) 和光電容積描記法 (PPG) 週期中於不同特定點出現的具有相同值的代幣，會在高維空間中形成獨立的群集。群集會根據相位形成，因為代幣會透過Transformer區塊傳播。最後，我們強調個別注意權重會對特定的生理相關特徵做出回應，例如 PPG 中的二尖缺口和 ECG 中的 P 波。也已證實這些預訓練模型很容易針對任務進行微調，例如心房顫動 (AF) 分類和光電容積描記法中的節拍偵測。以 AF 為例，微調耗時 11 分鐘的電腦時間，並在 MIMIC Perform AF 資料集中分別達成 ECG 和 PPG 的留一法 AUC 為 0.99 和 0.93。此外，微調節拍偵測器達到了 98% 的最新 F1 分數，並獨特地提供了一個節拍信心等級，作為訊號品質估計器。重要的是，針對 AF 篩檢進行微調的模型也完全可解釋，注意力會轉移到文中強烈指示心房顫動的區域。</paragraph>
-
-##### **Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**
-2407.20739v1 by Michael Kölle, Karola Schneider, Sabrina Egger, Felix Topp, Thomy Phan, Philipp Altmann, Jonas Nüßlein, Claudia Linnhoff-Popien
-
-In recent years, Multi-Agent Reinforcement Learning (MARL) has found
-application in numerous areas of science and industry, such as autonomous
-driving, telecommunications, and global health. Nevertheless, MARL suffers
-from, for instance, an exponential growth of dimensions. Inherent properties of
-quantum mechanics help to overcome these limitations, e.g., by significantly
-reducing the number of trainable parameters. Previous studies have developed an
-approach that uses gradient-free quantum Reinforcement Learning and
-evolutionary optimization for variational quantum circuits (VQCs) to reduce the
-trainable parameters and avoid barren plateaus as well as vanishing gradients.
-This leads to a significantly better performance of VQCs compared to classical
-neural networks with a similar number of trainable parameters and a reduction
-in the number of parameters by more than 97 \% compared to similarly good
-neural networks. We extend an approach of K\"olle et al. by proposing a
-Gate-Based, a Layer-Based, and a Prototype-Based concept to mutate and
-recombine VQCs. Our results show the best performance for mutation-only
-strategies and the Gate-Based approach. In particular, we observe a
-significantly better score, higher total and own collected coins, as well as a
-superior own coin rate for the best agent when evaluated in the Coin Game
-environment.
-
-摘要：近年來，多智能體強化學習 (MARL) 已在科學和產業的許多領域中找到應用，例如自動駕駛、電信和全球健康。儘管如此，MARL 還是會受到例如維度指數成長等問題的影響。量子力學的內在特性有助於克服這些限制，例如，透過大幅減少可訓練參數的數量。先前的研究已開發出一種方法，該方法使用無梯度的量子強化學習和變分量子電路 (VQC) 的演化最佳化，以減少可訓練參數並避免貧瘠高原和梯度消失。與具有類似可訓練參數數量的傳統神經網路相比，這會讓 VQC 的效能顯著提升，而且與同樣優良的神經網路相比，參數數量減少了超過 97%。我們擴充了 K\"olle 等人的方法，提出一個基於閘、基於層和基於原型的概念來變異和重組 VQC。我們的結果顯示，僅變異策略和基於閘的方法具有最佳效能。特別是，我們觀察到在 Coin Game 環境中進行評估時，最佳智能體的得分顯著提升、總計和自己收集的金幣數量較高，以及自己的金幣比率較高。
-
-##### **Dense Self-Supervised Learning for Medical Image Segmentation**
-2407.20395v1 by Maxime Seince, Loic Le Folgoc, Luiz Augusto Facury de Souza, Elsa Angelini
-
-Deep learning has revolutionized medical image segmentation, but it relies
-heavily on high-quality annotations. The time, cost and expertise required to
-label images at the pixel-level for each new task has slowed down widespread
-adoption of the paradigm. We propose Pix2Rep, a self-supervised learning (SSL)
-approach for few-shot segmentation, that reduces the manual annotation burden
-by learning powerful pixel-level representations directly from unlabeled
-images. Pix2Rep is a novel pixel-level loss and pre-training paradigm for
-contrastive SSL on whole images. It is applied to generic encoder-decoder deep
-learning backbones (e.g., U-Net). Whereas most SSL methods enforce invariance
-of the learned image-level representations under intensity and spatial image
-augmentations, Pix2Rep enforces equivariance of the pixel-level
-representations. We demonstrate the framework on a task of cardiac MRI
-segmentation. Results show improved performance compared to existing semi- and
-self-supervised approaches; and a 5-fold reduction in the annotation burden for
-equivalent performance versus a fully supervised U-Net baseline. This includes
-a 30% (resp. 31%) DICE improvement for one-shot segmentation under
-linear-probing (resp. fine-tuning). Finally, we also integrate the novel
-Pix2Rep concept with the Barlow Twins non-contrastive SSL, which leads to even
-better segmentation performance.
-
-摘要：深度學習徹底改變了醫學影像分割，但它極度依賴於高品質的註解。為每個新任務標記像素層級的影像所需的時間、成本和專業知識，已減緩了範例的廣泛採用。我們提出 Pix2Rep，一種針對少次分割的自監督式學習 (SSL) 方法，可透過直接從未標記的影像中學習強大的像素層級表示，來減輕手動註解負擔。Pix2Rep 是一種針對完整影像對比式 SSL 的新穎像素層級損失和預訓練範例。它被應用於通用編碼器-解碼器深度學習主幹 (例如 U-Net)。大多數 SSL 方法強制學習的影像層級表示在強度和空間影像擴充下具有不變性，而 Pix2Rep 則強制像素層級表示具有等變性。我們在心臟 MRI 分割任務中展示了這個架構。結果顯示與現有的半監督式和自監督式方法相比，效能有所提升；且在與完全監督式 U-Net 基準具有相同效能的情況下，註解負擔減少了 5 倍。這包括在線性探測 (resp. 微調) 下，單次分割的 DICE 提升了 30% (resp. 31%)。最後，我們也將新穎的 Pix2Rep 概念與 Barlow Twins 非對比式 SSL 整合，這導致了更好的分割效能。
-
-##### **Classification, Regression and Segmentation directly from k-Space in Cardiac MRI**
-2407.20108v1 by Ruochen Li, Jiazhen Pan, Youxiang Zhu, Juncheng Ni, Daniel Rueckert
-
-Cardiac Magnetic Resonance Imaging (CMR) is the gold standard for diagnosing
-cardiovascular diseases. Clinical diagnoses predominantly rely on
-magnitude-only Digital Imaging and Communications in Medicine (DICOM) images,
-omitting crucial phase information that might provide additional diagnostic
-benefits. In contrast, k-space is complex-valued and encompasses both magnitude
-and phase information, while humans cannot directly perceive. In this work, we
-propose KMAE, a Transformer-based model specifically designed to process
-k-space data directly, eliminating conventional intermediary conversion steps
-to the image domain. KMAE can handle critical cardiac disease classification,
-relevant phenotype regression, and cardiac morphology segmentation tasks. We
-utilize this model to investigate the potential of k-space-based diagnosis in
-cardiac MRI. Notably, this model achieves competitive classification and
-regression performance compared to image-domain methods e.g. Masked
-Autoencoders (MAEs) and delivers satisfactory segmentation performance with a
-myocardium dice score of 0.884. Last but not least, our model exhibits robust
-performance with consistent results even when the k-space is 8* undersampled.
-We encourage the MR community to explore the untapped potential of k-space and
-pursue end-to-end, automated diagnosis with reduced human intervention.
-
-摘要：心臟磁振造影 (CMR) 是診斷心血管疾病的黃金標準。臨床診斷主要依賴於醫學數位影像和通訊 (DICOM) 影像的幅度，而忽略了可能提供額外診斷好處的關鍵相位資訊。相較之下，k 空間是複數值且包含幅度和相位資訊，但人類無法直接感知。在這項工作中，我們提出 KMAE，一種特別設計用於直接處理 k 空間資料的 Transformer 基礎模型，消除了轉換到影像領域的傳統中介步驟。KMAE 可以處理關鍵的心臟疾病分類、相關表型回歸和心臟形態分割任務。我們利用此模型探討 k 空間基礎診斷在心臟 MRI 中的潛力。值得注意的是，與影像領域方法（例如遮罩式自動編碼器 (MAE)）相比，此模型達到了競爭性的分類和回歸效能，並以 0.884 的心肌骰子分數提供了令人滿意的分割效能。最後但並非最不重要的一點是，即使在 k 空間不足採樣 8* 時，我們的模型也能展現穩健的效能和一致的結果。我們鼓勵核磁共振社群探索 k 空間的未開發潛力，並追求減少人為干預的端到端自動化診斷。
 

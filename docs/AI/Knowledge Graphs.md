@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
+|**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v1](http://arxiv.org/abs/2408.07611v1)|null|
 |**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|null|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
@@ -33,6 +35,7 @@
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|[link](https://github.com/chrschy/fact-finder)|
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
 |**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
+|**2024-08-05**|**Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**|Sara AlMahri et.al.|[2408.07705v1](http://arxiv.org/abs/2408.07705v1)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
 |**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
@@ -99,11 +102,50 @@
 |**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709v1](http://arxiv.org/abs/2407.09709v1)|[link](https://github.com/jiaruifeng/gofa)|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|null|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
-|**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983v1](http://arxiv.org/abs/2407.08983v1)|null|
-|**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
-|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|null|
 
 #### Abstracts
+##### **Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**
+2408.07852v1 by Jiri Hron, Laura Culp, Gamaleldin Elsayed, Rosanne Liu, Ben Adlam, Maxwell Bileschi, Bernd Bohnet, JD Co-Reyes, Noah Fiedel, C. Daniel Freeman, Izzeddin Gur, Kathleen Kenealy, Jaehoon Lee, Peter J. Liu, Gaurav Mishra, Igor Mordatch, Azade Nova, Roman Novak, Aaron Parisi, Jeffrey Pennington, Alex Rizkowsky, Isabelle Simpson, Hanie Sedghi, Jascha Sohl-dickstein, Kevin Swersky, Sharad Vikram, Tris Warkentin, Lechao Xiao, Kelvin Xu, Jasper Snoek, Simon Kornblith
+
+While many capabilities of language models (LMs) improve with increased
+training budget, the influence of scale on hallucinations is not yet fully
+understood. Hallucinations come in many forms, and there is no universally
+accepted definition. We thus focus on studying only those hallucinations where
+a correct answer appears verbatim in the training set. To fully control the
+training data content, we construct a knowledge graph (KG)-based dataset, and
+use it to train a set of increasingly large LMs. We find that for a fixed
+dataset, larger and longer-trained LMs hallucinate less. However, hallucinating
+on $\leq5$% of the training data requires an order of magnitude larger model,
+and thus an order of magnitude more compute, than Hoffmann et al. (2022)
+reported was optimal. Given this costliness, we study how hallucination
+detectors depend on scale. While we see detector size improves performance on
+fixed LM's outputs, we find an inverse relationship between the scale of the LM
+and the detectability of its hallucinations.
+
+摘要：雖然語言模型 (LM) 的許多能力會隨著訓練預算的增加而有所提升，但規模對幻覺的影響尚未完全了解。幻覺有許多形式，且沒有普遍接受的定義。因此，我們只專注於研究訓練集中出現正確答案的幻覺。為了完全控制訓練資料內容，我們建構了一個基於知識圖譜 (KG) 的資料集，並使用它來訓練一組越來越大的 LM。我們發現對於固定的資料集，規模較大且訓練時間較長的 LM 產生的幻覺較少。然而，在 $\leq5$% 的訓練資料上產生幻覺需要規模大一個數量級的模型，因此比 Hoffmann 等人 (2022) 所報告的最佳規模多一個數量級的運算成本。考量到這種成本，我們研究幻覺偵測器如何取決於規模。雖然我們看到偵測器規模會提升對固定 LM 輸出的效能，但我們發現 LM 的規模與其幻覺的可偵測性之間存在反比關係。
+
+##### **ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**
+2408.07840v1 by Xuanqing Yu, Wangtao Sun, Jingwei Li, Kang Liu, Chengbao Liu, Jie Tan
+
+In the realm of event prediction, temporal knowledge graph forecasting (TKGF)
+stands as a pivotal technique. Previous approaches face the challenges of not
+utilizing experience during testing and relying on a single short-term history,
+which limits adaptation to evolving data. In this paper, we introduce the
+Online Neural-Symbolic Event Prediction (ONSEP) framework, which innovates by
+integrating dynamic causal rule mining (DCRM) and dual history augmented
+generation (DHAG). DCRM dynamically constructs causal rules from real-time
+data, allowing for swift adaptation to new causal relationships. In parallel,
+DHAG merges short-term and long-term historical contexts, leveraging a
+bi-branch approach to enrich event prediction. Our framework demonstrates
+notable performance enhancements across diverse datasets, with significant
+Hit@k (k=1,3,10) improvements, showcasing its ability to augment large language
+models (LLMs) for event prediction without necessitating extensive retraining.
+The ONSEP framework not only advances the field of TKGF but also underscores
+the potential of neural-symbolic approaches in adapting to dynamic data
+environments.
+
+摘要：在事件預測領域中，時序知識圖譜預測 (TKGF) 是一個關鍵技術。先前的做法面臨在測試期間不利用經驗以及依賴單一短期歷史的挑戰，這限制了對演化資料的適應性。在本文中，我們介紹了線上神經符號事件預測 (ONSEP) 架構，它透過整合動態因果規則挖掘 (DCRM) 和雙重歷史擴充生成 (DHAG) 來創新。DCRM 從即時資料中動態建構因果規則，允許快速適應新的因果關係。同時，DHAG 合併短期和長期歷史脈絡，利用雙分支方法來豐富事件預測。我們的架構在各種資料集上展示出顯著的效能提升，Hit@k (k=1,3,10) 有顯著的改善，展示了它在無需廣泛重新訓練的情況下擴充大型語言模型 (LLM) 以進行事件預測的能力。ONSEP 架構不僅推動了 TKGF 領域，也強調了神經符號方法在適應動態資料環境中的潛力。
+
 ##### **WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**
 2408.07611v1 by Weijian Xie, Xuefeng Liang, Yuhui Liu, Kaihua Ni, Hong Cheng, Zetian Hu
 
@@ -878,6 +920,33 @@ training and benchmarking of materials language models, automated ontology
 construction, and knowledge graph generation from textual data.
 
 摘要：<paragraph>大型语言模型学习语言和其中信息的健全统计表示，本体是符号知识表示，理想情况下可以补充前者。在这个关键交叉点上的研究依赖于将本体和文本语料库交织在一起的数据集，以实现神经符号模型的训练和全面基准测试。我们展示了 MaterioMiner 数据集和链接的材料力学本体，其中材料力学领域的本体概念与文献语料库中的文本实体相关联。该数据集的另一个显着特征是其极其细粒度的注释。具体来说，179 个不同的类别由三个评级员在四篇出版物中手动注释，总共注释和整理了 2191 个实体。提出了因果成分-过程-微观结构-性质关系的符号表示的概念性工作。我们探讨了三个评级员之间的注释一致性，并对预训练模型进行微调，以展示命名实体识别模型训练的可行性。重复使用该数据集可以促进材料语言模型的训练和基准测试、自动本体构建以及基于文本数据的知识图谱生成。</paragraph>
+
+##### **Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**
+2408.07705v1 by Sara AlMahri, Liming Xu, Alexandra Brintrup
+
+In today's globalized economy, comprehensive supply chain visibility is
+crucial for effective risk management. Achieving visibility remains a
+significant challenge due to limited information sharing among supply chain
+partners. This paper presents a novel framework leveraging Knowledge Graphs
+(KGs) and Large Language Models (LLMs) to enhance supply chain visibility
+without relying on direct stakeholder information sharing. Our zero-shot,
+LLM-driven approach automates the extraction of supply chain information from
+diverse public sources and constructs KGs to capture complex interdependencies
+between supply chain entities. We employ zero-shot prompting for Named Entity
+Recognition (NER) and Relation Extraction (RE) tasks, eliminating the need for
+extensive domain-specific training. We validate the framework with a case study
+on electric vehicle supply chains, focusing on tracking critical minerals for
+battery manufacturing. Results show significant improvements in supply chain
+mapping, extending visibility beyond tier-2 suppliers. The framework reveals
+critical dependencies and alternative sourcing options, enhancing risk
+management and strategic planning. With high accuracy in NER and RE tasks, it
+provides an effective tool for understanding complex, multi-tiered supply
+networks. This research offers a scalable, flexible method for constructing
+domain-specific supply chain KGs, addressing longstanding challenges in
+visibility and paving the way for advancements in digital supply chain
+surveillance.
+
+摘要：<paragraph>在當今全球化的經濟中，全面的供應鏈可見性對於有效的風險管理至關重要。由於供應鏈合作夥伴之間的資訊共享有限，因此實現可見性仍然是一項重大的挑戰。本文提出了利用知識圖譜 (KG) 和大型語言模型 (LLM) 的新框架，以增強供應鏈可見性，而無需依賴直接的利益相關者資訊共享。我們零次學習、LLM 驅動的方法自動化了從各種公開來源中提取供應鏈資訊的過程，並構建 KG 以捕捉供應鏈實體之間的複雜相互依賴性。我們採用零次學習提示進行命名實體識別 (NER) 和關係提取 (RE) 任務，消除了對廣泛的特定領域訓練的需求。我們使用電動車供應鏈的案例研究驗證了該框架，重點關注追蹤電池製造的關鍵礦物。結果顯示供應鏈對應顯著改善，可見性擴展到二階供應商以外。該框架揭示了關鍵依賴性和替代採購選項，增強了風險管理和策略規劃。由於 NER 和 RE 任務具有很高的準確性，因此它提供了一個有效的工具，用於了解複雜的多層供應網路。本研究提供了一種可擴充、靈活的方法來構建特定領域的供應鏈 KG，解決了可見性的長期挑戰，並為數位供應鏈監控的進步鋪平了道路。</paragraph>
 
 ##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
 2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
@@ -2416,88 +2485,4 @@ graph neural network models, or to develop any custom graph processing
 application.
 
 摘要：圖形神經網路形成一類深度學習架構，特別設計用於處理圖形結構化的資料。因此，它們具有深度學習固有的限制和問題，特別是在可解釋性和可信賴性問題上。我們提出 $\mu\mathcal{G}$，一種用於指定圖形神經網路的原創領域特定語言，旨在克服這些問題。引入了語言的語法，並透過指示語義嚴格定義其含義。還提供了運算語義形式的等效特徵描述，並與類型系統一起用於證明 $\mu\mathcal{G}$ 的類型健全性。我們展示了如何將 $\mu\mathcal{G}$ 程式表示為更友善的圖形視覺化，並透過展示如何使用它定義一些最流行的圖形神經網路模型或開發任何自訂圖形處理應用程式，來提供其通用性的範例。
-
-##### **Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**
-2407.08983v1 by David N. Palacio, Daniel Rodriguez-Cardenas, Alejandro Velasco, Dipin Khati, Kevin Moran, Denys Poshyvanyk
-
-Trustworthiness and interpretability are inextricably linked concepts for
-LLMs. The more interpretable an LLM is, the more trustworthy it becomes.
-However, current techniques for interpreting LLMs when applied to code-related
-tasks largely focus on accuracy measurements, measures of how models react to
-change, or individual task performance instead of the fine-grained explanations
-needed at prediction time for greater interpretability, and hence trust. To
-improve upon this status quo, this paper introduces ASTrust, an
-interpretability method for LLMs of code that generates explanations grounded
-in the relationship between model confidence and syntactic structures of
-programming languages. ASTrust explains generated code in the context of syntax
-categories based on Abstract Syntax Trees and aids practitioners in
-understanding model predictions at both local (individual code snippets) and
-global (larger datasets of code) levels. By distributing and assigning model
-confidence scores to well-known syntactic structures that exist within ASTs,
-our approach moves beyond prior techniques that perform token-level confidence
-mapping by offering a view of model confidence that directly aligns with
-programming language concepts with which developers are familiar. To put
-ASTrust into practice, we developed an automated visualization that illustrates
-the aggregated model confidence scores superimposed on sequence, heat-map, and
-graph-based visuals of syntactic structures from ASTs. We examine both the
-practical benefit that ASTrust can provide through a data science study on 12
-popular LLMs on a curated set of GitHub repos and the usefulness of ASTrust
-through a human study.
-
-摘要：可信度和可解釋性是 LLM 中密不可分的概念。LLM 的可解釋性越高，它的可信度就越高。然而，當應用於與程式碼相關的任務時，目前解釋 LLM 的技術主要集中在準確性測量、模型對變化的反應測量或個別任務表現，而不是在預測時間所需的細粒度解釋，從而提高可解釋性和因此提高信任度。為了改善這種現狀，本文介紹了 ASTrust，這是一種用於程式碼 LLM 的可解釋性方法，它會根據模型信心與程式語言的語法結構之間的關係產生解釋。ASTrust 在基於抽象語法樹的語法類別的上下文中解釋產生的程式碼，並幫助實務人員在局部（個別程式碼片段）和全域（較大的程式碼資料集）層級了解模型預測。透過將模型信心分數分配和指定給 AST 中存在的眾所周知的語法結構，我們的做法超越了先前的技術，這些技術透過提供與開發人員熟悉的程式語言概念直接對齊的模型信心視圖來執行令牌級別的信心對應。為了實踐 ASTrust，我們開發了一個自動化視覺化工具，它說明了疊加在 AST 語法結構的序列、熱圖和基於圖形的視覺效果上的聚合模型信心分數。我們檢查了 ASTrust 可以透過對 12 個流行的 LLM 在一組精選的 GitHub 儲存庫上進行資料科學研究提供的實際好處，以及透過人體研究提供的 ASTrust 的有用性。
-
-##### **Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**
-2407.08959v1 by Ke Ji, Peng Wang, Wenjun Ke, Guozheng Li, Jiajun Liu, Jingsheng Gao, Ziyu Shang
-
-Recently, various pre-trained language models (PLMs) have been proposed to
-prove their impressive performances on a wide range of few-shot tasks. However,
-limited by the unstructured prior knowledge in PLMs, it is difficult to
-maintain consistent performance on complex structured scenarios, such as
-hierarchical text classification (HTC), especially when the downstream data is
-extremely scarce. The main challenge is how to transfer the unstructured
-semantic space in PLMs to the downstream domain hierarchy. Unlike previous work
-on HTC which directly performs multi-label classification or uses graph neural
-network (GNN) to inject label hierarchy, in this work, we study the HTC problem
-under a few-shot setting to adapt knowledge in PLMs from an unstructured manner
-to the downstream hierarchy. Technically, we design a simple yet effective
-method named Hierarchical Iterative Conditional Random Field (HierICRF) to
-search the most domain-challenging directions and exquisitely crafts
-domain-hierarchy adaptation as a hierarchical iterative language modeling
-problem, and then it encourages the model to make hierarchical consistency
-self-correction during the inference, thereby achieving knowledge transfer with
-hierarchical consistency preservation. We perform HierICRF on various
-architectures, and extensive experiments on two popular HTC datasets
-demonstrate that prompt with HierICRF significantly boosts the few-shot HTC
-performance with an average Micro-F1 by 28.80% to 1.50% and Macro-F1 by 36.29%
-to 1.5% over the previous state-of-the-art (SOTA) baselines under few-shot
-settings, while remaining SOTA hierarchical consistency performance.
-
-摘要：<paragraph>最近，已经提出了多种预训练语言模型 (PLM)，以证明它们在广泛的少量样本任务上具有令人印象深刻的性能。然而，由于 PLM 中非结构化的先验知识受到限制，因此难以在复杂结构化场景（例如层次文本分类 (HTC)）中保持一致的性能，尤其是在下游数据极其稀少的情况下。主要的挑战是如何将 PLM 中非结构化的语义空间转移到下游域层次结构。与以前直接执行多标签分类或使用图神经网络 (GNN) 注入标签层次结构的 HTC 工作不同，在这项工作中，我们在少量样本设置下研究 HTC 问题，以将 PLM 中的知识从非结构化方式适应到下游层次结构。从技术上讲，我们设计了一种简单而有效的方法，称为层次迭代条件随机场 (HierICRF)，以搜索最具领域挑战性的方向，并精细地将领域层次结构适应作为分层迭代语言建模问题，然后它鼓励模型在推理期间进行层次一致性自我校正，从而实现具有层次一致性保留的知识转移。我们在各种架构上执行 HierICRF，在两个流行的 HTC 数据集上的大量实验表明，使用 HierICRF 的提示显着提高了少量样本 HTC 性能，平均 Micro-F1 从 28.80% 提高到 1.50%，Macro-F1 从 36.29% 提高到 1.5% 在少量样本设置下超过了以前最先进 (SOTA) 基准，同时保持 SOTA 层次一致性性能。</paragraph>
-
-##### **Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**
-2407.08694v1 by Zhiqiang Xie, Yujia Zheng, Lizi Ottens, Kun Zhang, Christos Kozyrakis, Jonathan Mace
-
-Runtime failure and performance degradation is commonplace in modern cloud
-systems. For cloud providers, automatically determining the root cause of
-incidents is paramount to ensuring high reliability and availability as prompt
-fault localization can enable faster diagnosis and triage for timely
-resolution. A compelling solution explored in recent work is causal reasoning
-using causal graphs to capture relationships between varied cloud system
-performance metrics. To be effective, however, systems developers must
-correctly define the causal graph of their system, which is a time-consuming,
-brittle, and challenging task that increases in difficulty for large and
-dynamic systems and requires domain expertise. Alternatively, automated
-data-driven approaches have limited efficacy for cloud systems due to the
-inherent rarity of incidents. In this work, we present Atlas, a novel approach
-to automatically synthesizing causal graphs for cloud systems. Atlas leverages
-large language models (LLMs) to generate causal graphs using system
-documentation, telemetry, and deployment feedback. Atlas is complementary to
-data-driven causal discovery techniques, and we further enhance Atlas with a
-data-driven validation step. We evaluate Atlas across a range of fault
-localization scenarios and demonstrate that Atlas is capable of generating
-causal graphs in a scalable and generalizable manner, with performance that far
-surpasses that of data-driven algorithms and is commensurate to the
-ground-truth baseline.
-
-摘要：在現代雲端系統中，執行時期故障和效能降低是司空見慣的事。對於雲端供應商而言，自動找出事件的根本原因對於確保高可靠性和可用性至關重要，因為及時的故障定位可以讓診斷和分類更快速，以利於及時解決問題。最近的工作中探討了一個引人注目的解決方案，即使用因果圖來擷取各種雲端系統效能指標之間關係的因果推理。然而，系統開發人員必須正確定義其系統的因果圖才能發揮效用，而這項任務耗時、脆弱且具有挑戰性，對於大型且動態的系統而言難度更高，而且需要領域專家知識。或者，由於事件的固有稀少性，自動化資料驅動方法對於雲端系統的效力有限。在這項工作中，我們提出 Atlas，一種自動合成雲端系統因果圖的新方法。Atlas 利用大型語言模型 (LLM) 使用系統文件、遙測和部署回饋來產生因果圖。Atlas 是資料驅動因果發現技術的補充，我們進一步使用資料驅動驗證步驟來增強 Atlas。我們在各種故障定位情境中評估 Atlas，並證明 Atlas 能夠以可擴充且可概化的方式產生因果圖，其效能遠遠超過資料驅動演算法，並且與真實基線相當。
 

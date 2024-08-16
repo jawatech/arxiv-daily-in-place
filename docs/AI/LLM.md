@@ -5,10 +5,10 @@
 |**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702v1](http://arxiv.org/abs/2408.07702v1)|null|
 |**2024-08-14**|**Quantifying over Optimum Answer Sets**|Giuseppe Mazzotta et.al.|[2408.07697v1](http://arxiv.org/abs/2408.07697v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
-|**2024-08-14**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v1](http://arxiv.org/abs/2408.07680v1)|[link](https://github.com/dsb-ifi/spit)|
+|**2024-08-14**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v2](http://arxiv.org/abs/2408.07680v2)|[link](https://github.com/dsb-ifi/spit)|
 |**2024-08-14**|**Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**|Ivory Yang et.al.|[2408.07676v1](http://arxiv.org/abs/2408.07676v1)|null|
-|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v1](http://arxiv.org/abs/2408.07673v1)|null|
-|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v1](http://arxiv.org/abs/2408.07666v1)|[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|null|
+|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v2](http://arxiv.org/abs/2408.07666v2)|[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665v1](http://arxiv.org/abs/2408.07665v1)|null|
 |**2024-08-14**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663v1](http://arxiv.org/abs/2408.07663v1)|[link](https://github.com/gigabaozi/aed)|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642v1](http://arxiv.org/abs/2408.07642v1)|null|
@@ -21,7 +21,7 @@
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547v1](http://arxiv.org/abs/2408.07547v1)|[link](https://github.com/sh-lee-prml/periodwave)|
 |**2024-08-14**|**Planning with OWL-DL Ontologies (Extended Version)**|Tobias John et.al.|[2408.07544v1](http://arxiv.org/abs/2408.07544v1)|null|
-|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543v1](http://arxiv.org/abs/2408.07543v1)|null|
+|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543v2](http://arxiv.org/abs/2408.07543v2)|null|
 |**2024-08-14**|**New Curriculum, New Chance -- Retrieval Augmented Generation for Lesson Planning in Ugandan Secondary Schools. Prototype Quality Evaluation**|Simon Kloker et.al.|[2408.07542v1](http://arxiv.org/abs/2408.07542v1)|null|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
 |**2024-08-14**|**Cross-aware Early Fusion with Stage-divided Vision and Language Transformer Encoders for Referring Image Segmentation**|Yubin Cho et.al.|[2408.07539v1](http://arxiv.org/abs/2408.07539v1)|null|
@@ -33,13 +33,13 @@
 |**2024-08-14**|**A Study on Bias Detection and Classification in Natural Language Processing**|Ana Sofia Evans et.al.|[2408.07479v1](http://arxiv.org/abs/2408.07479v1)|null|
 |**2024-08-14**|**Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**|Yuxin Jiang et.al.|[2408.07471v1](http://arxiv.org/abs/2408.07471v1)|null|
 |**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465v1](http://arxiv.org/abs/2408.07465v1)|null|
-|**2024-08-14**|**Problem Solving Through Human-AI Preference-Based Cooperation**|Subhabrata Dutta et.al.|[2408.07461v1](http://arxiv.org/abs/2408.07461v1)|null|
+|**2024-08-14**|**Problem Solving Through Human-AI Preference-Based Cooperation**|Subhabrata Dutta et.al.|[2408.07461v2](http://arxiv.org/abs/2408.07461v2)|null|
 |**2024-08-14**|**From Brazilian Portuguese to European Portuguese**|João Sanches et.al.|[2408.07457v1](http://arxiv.org/abs/2408.07457v1)|null|
 |**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
 |**2024-08-14**|**Achieving Data Efficient Neural Networks with Hybrid Concept-based Models**|Tobias A. Opsahl et.al.|[2408.07438v1](http://arxiv.org/abs/2408.07438v1)|[link](https://github.com/tobias-opsahl/hybrid-concept-based-models)|
 |**2024-08-14**|**Real-world validation of safe reinforcement learning, model predictive control and decision tree-based home energy management systems**|Julian Ruddick et.al.|[2408.07435v1](http://arxiv.org/abs/2408.07435v1)|null|
-|**2024-08-14**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433v1](http://arxiv.org/abs/2408.07433v1)|null|
+|**2024-08-14**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433v2](http://arxiv.org/abs/2408.07433v2)|null|
 |**2024-08-14**|**Exploring Retrieval Augmented Generation in Arabic**|Samhaa R. El-Beltagy et.al.|[2408.07425v1](http://arxiv.org/abs/2408.07425v1)|null|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422v1](http://arxiv.org/abs/2408.07422v1)|null|
 |**2024-08-14**|**The Restaurant Meal Delivery Problem with Ghost Kitchens**|Gal Neria et.al.|[2408.07417v1](http://arxiv.org/abs/2408.07417v1)|null|
@@ -49,7 +49,7 @@
 |**2024-08-14**|**A Quantum-Inspired Analysis of Human Disambiguation Processes**|Daphne Wang et.al.|[2408.07402v1](http://arxiv.org/abs/2408.07402v1)|null|
 |**2024-08-14**|**DataVisT5: A Pre-trained Language Model for Jointly Understanding Text and Data Visualization**|Zhuoyue Wan et.al.|[2408.07401v1](http://arxiv.org/abs/2408.07401v1)|null|
 |**2024-08-14**|**Sum-Product-Set Networks**|Milan Papež et.al.|[2408.07394v1](http://arxiv.org/abs/2408.07394v1)|[link](https://github.com/aicenter/sumproductset.jl)|
-|**2024-08-14**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377v1](http://arxiv.org/abs/2408.07377v1)|null|
+|**2024-08-14**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377v2](http://arxiv.org/abs/2408.07377v2)|null|
 |**2024-08-14**|**Only One Relation Possible? Modeling the Ambiguity in Event Temporal Relation Extraction**|Yutong Hu et.al.|[2408.07353v1](http://arxiv.org/abs/2408.07353v1)|null|
 |**2024-08-14**|**RTAT: A Robust Two-stage Association Tracker for Multi-Object Tracking**|Song Guo et.al.|[2408.07344v1](http://arxiv.org/abs/2408.07344v1)|null|
 |**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
@@ -89,7 +89,7 @@
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
 |**2024-08-13**|**Neural Speech and Audio Coding**|Minje Kim et.al.|[2408.06954v1](http://arxiv.org/abs/2408.06954v1)|null|
 |**2024-08-13**|**The advantages of context specific language models: the case of the Erasmian Language Model**|João Gonçalves et.al.|[2408.06931v1](http://arxiv.org/abs/2408.06931v1)|null|
-|**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v1](http://arxiv.org/abs/2408.06930v1)|null|
+|**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v2](http://arxiv.org/abs/2408.06930v2)|[link](https://github.com/umcu/echolabeler)|
 |**2024-08-13**|**Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas**|Louis Kwok et.al.|[2408.06929v1](http://arxiv.org/abs/2408.06929v1)|null|
 |**2024-08-13**|**Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**|Tao Zheng et.al.|[2408.06911v1](http://arxiv.org/abs/2408.06911v1)|null|
 |**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906v1](http://arxiv.org/abs/2408.06906v1)|null|
@@ -172,7 +172,7 @@ state-of-the-art methods on 7 public datasets in four MAC downstream tasks.
 摘要：在通往人工通用智能 (AGI) 的道路上，理解人类的情感对于增强机器的认知能力至关重要。为了实现更感性的的人机交互，人类语音视频中的多模态情感计算 (MAC) 吸引了越来越多的关注。然而，以前的方法主要致力于设计多模态融合算法，存在两个问题：由不同的预处理操作导致的语义不平衡以及与多模态基本事实相比，不同模态中包含的不一致情感内容导致的语义不匹配。此外，手动特征提取器的使用使得它们无法为多个 MAC 下游任务构建端到端管道。为了解决上述挑战，我们提出了一种名为 SemanticMAC 的新颖端到端框架，用于计算人类语音视频的多模态语义中心情感。我们首先在多模态数据预处理中采用预训练的 Transformer 模型，并设计情感感知器模块来捕获单模态情感信息。此外，我们提出了一种语义中心方法，通过门控特征交互、多任务伪标签生成以及样本内/样本间对比学习这三种方式来统一多模态表示学习。最后，SemanticMAC 在语义中心标签的指导下有效地学习特定和共享语义表示。广泛的实验结果表明，我们的方法在四个 MAC 下游任务的 7 个公共数据集上超越了最先进的方法。
 
 ##### **A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**
-2408.07680v1 by Marius Aasan, Odd Kolbjørnsen, Anne Schistad Solberg, Adín Ramirez Rivera
+2408.07680v2 by Marius Aasan, Odd Kolbjørnsen, Anne Schistad Solberg, Adín Ramirez Rivera
 
 Vision Transformer (ViT) architectures traditionally employ a grid-based
 approach to tokenization independent of the semantic content of an image. We
@@ -188,7 +188,7 @@ performance in classification tasks. Our approach provides a modular
 tokenization framework commensurable with standard architectures, extending the
 space of ViTs to a larger class of semantically-rich models.
 
-摘要：視覺轉換器 (ViT) 架構傳統上採用基於網格的方法進行標記化，與影像的語義內容無關。我們提出一個模組化的超像素標記化策略，它將標記化和特徵萃取分開；這與當代方法不同，後者將這些視為一個未區分的整體。使用線上內容感知標記化和尺度與形狀不變的位置嵌入，我們執行實驗和消融，將我們的做法與基於區塊的標記化和隨機分割作為基準進行對比。我們顯示，我們的做法顯著提升了歸因的忠實度，在零次學習非監督密集預測任務中提供了像素級的粒度，同時在分類任務中維持了預測效能。我們的做法提供了一個模組化的標記化架構，與標準架構相稱，將 ViT 的空間延伸到更廣泛的語義豐富模型類別。
+摘要：視覺轉換器 (ViT) 架構傳統上採用基於網格的方法進行標記化，而與影像的語義內容無關。我們提出一個模組化的超像素標記化策略，它解耦了標記化和特徵萃取；與將這些視為一個未區分的整體的當代方法不同。使用線上內容感知標記化和尺度及形狀不變的位置嵌入，我們執行實驗和消融，將我們的方法與基於修補程式的標記化和隨機分割作為基準進行對比。我們展示了我們的方法顯著提升了歸因的保真度，在零次學習無監督密集預測任務中提供了像素級粒度，同時在分類任務中維持預測效能。我們的方法提供了一個模組化的標記化架構，與標準架構相稱，將 ViT 的空間擴展到一類更大的語義豐富模型。
 
 ##### **Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**
 2408.07676v1 by Ivory Yang, Xiaobo Guo, Sean Xie, Soroush Vosoughi
@@ -207,7 +207,7 @@ example-based learning.
 摘要：本研究提出了一個全面、長期的專案，以探討各種提示技術在檢測對話式心理操縱中的有效性。我們在二元心理操縱檢測任務中實作了零次學習和少次學習設定下的思想鏈提示，並建立在使用零次學習和少次學習提示進行的既有工作之上。我們的首要目標是解碼為何某些提示技術表現出優異的效能，以便為檢測心理操縱量身打造一個新穎的架構。初步發現表明，如果進階提示技術未透過基於範例的學習進行訓練，則可能不適合更複雜的模型。
 
 ##### **Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**
-2408.07673v1 by Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells
+2408.07673v2 by Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells
 
 A grid search, at the cost of training and testing a large number of models,
 is an effective way to optimize the prediction performance of deep learning
@@ -226,19 +226,19 @@ hyperparameters. Our results show that grid search can greatly improve model
 prediction. The grid searches we conducted improved the risk prediction of
 5-year, 10-year, and 15-year breast cancer metastasis by 18.6%, 16.3%, and
 17.3% respectively, over the average performance of all corresponding models we
-trained. We not only demonstrate best model performance but also characterize
-grid searches from various aspects such as their capabilities of discovering
-decent models and the unit grid search time. The three-stage mechanism worked
-effectively. It made our low-budget grid searches feasible and manageable, and
-in the meantime helped improve model prediction performance. Our SHAP analyses
-identified both clinical risk factors important for the prediction of future
-risk of breast cancer metastasis, and DFNN-model hyperparameters important to
-the prediction of performance scores.
+trained using the RGS strategy. We not only demonstrate best model performance
+but also characterize grid searches from various aspects such as their
+capabilities of discovering decent models and the unit grid search time. The
+three-stage mechanism worked effectively. It made our low-budget grid searches
+feasible and manageable, and in the meantime helped improve model prediction
+performance. Our SHAP analyses identified both clinical risk factors important
+for the prediction of future risk of breast cancer metastasis, and DFNN-model
+hyperparameters important to the prediction of performance scores.
 
-摘要：<paragraph>網格搜尋以訓練和測試大量模型為代價，是最佳化深度學習模型預測效能的有效方式。網格搜尋面臨的一項挑戰任務是時間管理。沒有良好的時間管理機制，網格搜尋很容易被設定為一項任務，而且在我們有生之年都無法完成。在本研究中，我們介紹了一種啟發式的三階段機制，用於管理低預算網格搜尋的執行時間，以及用於改善模型預測效能的最佳點網格搜尋 (SSGS) 和隨機網格搜尋 (RGS) 策略，以預測 5 年、10 年和 15 年的乳癌轉移風險。我們開發了深度前饋神經網路 (DFNN) 模型，並透過網格搜尋對它們進行最佳化。我們透過應用三階段機制和 SSGS 和 RGS 策略進行八次循環的網格搜尋。我們進行了各種 SHAP 分析，包括解釋 DFNN 模型超參數重要性的獨特分析。我們的結果顯示，網格搜尋可以大幅改善模型預測。我們進行的網格搜尋分別將 5 年、10 年和 15 年乳癌轉移的風險預測改善了 18.6%、16.3% 和 17.3%，高於我們訓練的所有對應模型的平均效能。我們不僅展示了最佳模型效能，還從各種面向描述網格搜尋，例如它們發現適當模型的能力和單位網格搜尋時間。三階段機制運作良好。它使我們的低預算網格搜尋可行且易於管理，同時也有助於改善模型預測效能。我們的 SHAP 分析識別出對於預測未來乳癌轉移風險很重要的臨床風險因子，以及對於預測效能評分很重要的 DFNN 模型超參數。</paragraph>
+摘要：<paragraph>網格搜尋以訓練和測試大量模型為代價，是一種優化深度學習模型預測效能的有效方法。網格搜尋中一項具有挑戰性的任務是時間管理。沒有良好的時間管理機制，網格搜尋很容易被設定為一項在我們有生之年都無法完成的任務。在本研究中，我們介紹了一種啟發式三階段機制，用於管理低預算網格搜尋的執行時間，以及用於改善模型預測效能的最佳點網格搜尋 (SSGS) 和隨機網格搜尋 (RGS) 策略，以預測乳癌轉移的 5 年、10 年和 15 年風險。我們開發了深度前饋神經網路 (DFNN) 模型，並透過網格搜尋對它們進行優化。我們透過應用三階段機制和 SSGS 和 RGS 策略進行了八個週期的網格搜尋。我們進行了各種 SHAP 分析，包括解釋 DFNN 模型超參數重要性的獨特分析。我們的結果顯示網格搜尋可以大幅改善模型預測。我們進行的網格搜尋分別將 5 年、10 年和 15 年乳癌轉移的風險預測改善了 18.6%、16.3% 和 17.3%，優於我們使用 RGS 策略訓練的所有對應模型的平均效能。我們不僅展示了最佳模型效能，還從各種面向描述網格搜尋，例如它們發現良好模型的能力和單元網格搜尋時間。三階段機制有效運作。它使我們的低預算網格搜尋可行且易於管理，同時也有助於改善模型預測效能。我們的 SHAP 分析確定了對預測未來乳癌轉移風險很重要的臨床風險因子，以及對預測效能評分很重要的 DFNN 模型超參數。</paragraph>
 
 ##### **Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**
-2408.07666v1 by Enneng Yang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao
+2408.07666v2 by Enneng Yang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao
 
 Model merging is an efficient empowerment technique in the machine learning
 community that does not require the collection of raw training data and does
@@ -258,7 +258,7 @@ future research directions. A comprehensive list of papers about model merging
 is available at
 \url{https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications}.
 
-摘要：模型合併是機器學習社群中一種有效能的賦能技術，不需要收集原始訓練資料，也不需要昂貴的運算。由於模型合併在各種領域變得越來越普遍，因此全面了解現有的模型合併技術至關重要。然而，在對這些技術進行系統且徹底的回顧方面，文獻中存在著顯著的差距。本調查全面概述了模型合併方法與理論、它們在各個領域和環境中的應用，以及未來的研究方向。具體來說，我們首先提出了一種新的分類方法，對現有的模型合併方法進行了詳盡的討論。其次，我們討論了模型合併技術在大語言模型、多模態大語言模型和 10 多個機器學習子領域中的應用，包括持續學習、多任務學習、小樣本學習等。最後，我們重點介紹了模型合併的剩餘挑戰，並討論了未來的研究方向。可以在以下網址找到一份關於模型合併的論文清單：\url{https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications}。
+摘要：模型合併是一種機器學習社群中有效能的賦能技術，不需要收集原始訓練資料，也不需要昂貴的計算。由於模型合併在各個領域日益盛行，因此全面了解現有的模型合併技術至關重要。然而，在對這些技術進行系統化且徹底的回顧方面，文獻中存在著顯著的空白。本調查提供了模型合併方法和理論的全面概述、它們在各種領域和設定中的應用，以及未來的研究方向。具體來說，我們首先提出了一種新的分類方法，對現有的模型合併方法進行了詳盡的討論。其次，我們討論了模型合併技術在大語言模型、多模態大語言模型和 10 多個機器學習子領域中的應用，包括持續學習、多任務學習、少量學習等。最後，我們強調了模型合併的剩餘挑戰，並討論了未來的研究方向。關於模型合併的論文清單可在以下網址取得：\url{https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications}。
 
 ##### **Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**
 2408.07665v1 by Yi-Cheng Lin, Wei-Chih Chen, Hung-yi Lee
@@ -544,7 +544,7 @@ performance.
 摘要：<paragraph>我們引入了基於本體的規劃，其中規劃問題與本體相結合。我們的形式主義不同於現有的形式主義，因為我們專注於描述規劃問題和本體的形式主義的強分離，它們僅通過介面鬆散耦合。此外，我們提出了一個黑盒演算法，它支援 OWL DL 的完整表達能力。這超出了將自動規劃與本體相結合的現有方法所能做到的，它僅支援有限的描述邏輯，例如 DL-Lite 和 Horn 描述邏輯。我們的演算法主要依賴於將基於本體的規劃規範重寫為 PDDL，以便現有的規劃系統可以用於解決它們。該演算法依賴於證明，這允許一種通用的方法，該方法獨立於本體語言的表達能力。但是，需要實作專門的最佳化來計算證明，以實現有效的重寫程序。我們在來自多個領域的基準集上評估了我們的實作。評估表明，我們的程序在實務上可行，而且調整推理程序對效能有顯著影響。</paragraph>
 
 ##### **MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**
-2408.07543v1 by Minxuan Zhou, Hao Liang, Tianpeng Li, Zhiyu Wu, Mingan Lin, Linzhuang Sun, Yaqi Zhou, Yan Zhang, Xiaoqin Huang, Yicong Chen, Yujing Qiao, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou
+2408.07543v2 by Minxuan Zhou, Hao Liang, Tianpeng Li, Zhiyu Wu, Mingan Lin, Linzhuang Sun, Yaqi Zhou, Yan Zhang, Xiaoqin Huang, Yicong Chen, Yujing Qiao, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou
 
 With the development of Multimodal Large Language Models (MLLMs), the
 evaluation of multimodal models in the context of mathematical problems has
@@ -562,7 +562,7 @@ is challenging even for the most sophisticated models. By analyzing the
 evaluation results, we identify the limitations of MLLMs, offering valuable
 insights for enhancing model performance.
 
-摘要：隨著多模態大型語言模型 (MLLM) 的發展，在數學問題背景下評估多模態模型已成為一個有價值的研究領域。多模態視覺文本數學推理作為評估 MLLM 的理解力和複雜的多步驟量化推理能力的重要指標。然而，先前的多模態數學基準尚未充分整合視覺和文本資訊。為了解決這個差距，我們提出了 MathScape，一個新的基準，強調理解和應用綜合的視覺和文本資訊。MathScape 被設計用於評估基於照片的數學問題情境，透過分類階層方法評估 MLLM 的理論理解和應用能力。我們對 11 個先進的 MLLM 進行了多維度的評估，發現我們的基準即使對於最精密的模型來說也是具有挑戰性的。透過分析評估結果，我們找出 MLLM 的限制，為增強模型效能提供了寶貴的見解。
+摘要：隨著多模態大型語言模型 (MLLM) 的發展，在數學問題背景下對多模態模型的評估已成為一個有價值的研究領域。多模態視覺文本數學推理作為評估 MLLM 的理解力和複雜的多步驟量化推理能力的重要指標。然而，先前的多模態數學基準並未充分整合視覺和文本資訊。為了解決這個差距，我們提出了 MathScape，一個新的基準，強調理解和應用視覺和文本資訊的結合。MathScape 被設計用來評估基於照片的數學問題場景，透過一個分類的階層式方法評估 MLLM 的理論理解和應用能力。我們對 11 個先進的 MLLM 進行多維評估，揭示我們的基準即使對於最精密的模型來說也是具有挑戰性的。透過分析評估結果，我們找出 MLLM 的限制，為提升模型效能提供有價值的見解。
 
 ##### **New Curriculum, New Chance -- Retrieval Augmented Generation for Lesson Planning in Ugandan Secondary Schools. Prototype Quality Evaluation**
 2408.07542v1 by Simon Kloker, Herbertson Bukoli, Twaha Kateete
@@ -825,7 +825,7 @@ conventional heuristic methods for ordering examples.
 摘要：提示最佳化對於提升大型語言模型 (LLM) 在各種自然語言處理 (NLP) 任務中的效能至關重要，特別是在少樣本學習的情境中，訓練範例直接整合到提示中。儘管對於使用少樣本範例最佳化提示的興趣日益濃厚，現有的提示最佳化方法往往需要大量資源或執行不佳。在這項工作中，我們提出帶有情節記憶的提示 (POEM)，這是一種新穎的提示最佳化技術，簡單、有效，並展現出強大的泛化能力。我們將提示最佳化視為一個強化學習 (RL) 挑戰，使用情節記憶來封存輸入資料的組合、少樣本範例的排列組合，以及在訓練期間觀察到的獎勵。在測試階段，我們透過從情節記憶中前 k 個最相似的訓練範例中選擇產生最高總獎勵的序列，來最佳化每個測試查詢的範例序列。我們的結果顯示，POEM 在各種文字分類任務中，表現優於 TEMPERA 和 RLPrompt 等近期技術，勝出幅度超過 5.3%。此外，我們的做法很適合更廣泛的語言理解任務，始終優於用於排序範例的傳統啟發式方法。
 
 ##### **Problem Solving Through Human-AI Preference-Based Cooperation**
-2408.07461v1 by Subhabrata Dutta, Timo Kaufmann, Goran Glavaš, Ivan Habernal, Kristian Kersting, Frauke Kreuter, Mira Mezini, Iryna Gurevych, Eyke Hüllermeier, Hinrich Schuetze
+2408.07461v2 by Subhabrata Dutta, Timo Kaufmann, Goran Glavaš, Ivan Habernal, Kristian Kersting, Frauke Kreuter, Mira Mezini, Iryna Gurevych, Eyke Hüllermeier, Hinrich Schuetze
 
 While there is a widespread belief that artificial general intelligence (AGI)
 -- or even superhuman AI -- is imminent, complex problems in expert domains are
@@ -840,17 +840,15 @@ formalize HAI-Co2 and discuss the difficult open research problems that it
 faces. Finally, we present a case study of HAI-Co2 and demonstrate its efficacy
 compared to monolithic generative AI models.
 
-摘要：儘管普遍相信人工通用智慧（AGI）
--- 甚至是超人類 AI -- 即將到來，但專家領域中的複雜問題
-遠遠沒有解決。我們認為此類問題需要人類與 AI 合作，而
-生成式 AI 的現有技術狀態無法扮演
-可靠合作夥伴的角色，原因在於存在許多缺點，包括
-無法追蹤複雜的解決方案產出（例如軟體
-程式）、對多樣化人類偏好表達的支援有限，以及在互動設定中
-無法適應人類偏好。為了應對這些
-挑戰，我們提出 HAI-Co2，一個新穎的人類與 AI 共同建構架構。我們
-將 HAI-Co2 形式化，並討論其面臨的困難開放式研究問題。最後，我們
-提出 HAI-Co2 的案例研究，並展示其與單一生成式 AI 模型相比的效能。
+摘要：儘管普遍相信人工通用智慧 (AGI)
+-- 甚至是超人類人工智慧 -- 即將出現，專家領域中的複雜問題
+仍遠未解決。我們認為此類問題需要人類與人工智慧合作，
+而生成式人工智慧的現有技術狀態無法扮演可靠夥伴的角色，
+原因在於它有許多缺點，包括無法追蹤複雜的解決方案人工製品（例如，軟體
+程式）、對多功能人類偏好表達的支持有限，以及在互動設定中無法適應人類偏好。
+為了應對這些挑戰，我們提出 HAI-Co2，這是一種新穎的人類與人工智慧共建架構。我們
+將 HAI-Co2 正式化，並討論它面臨的困難開放式研究問題。最後，我們提出 HAI-Co2 的案例研究，
+並展示它與單一生成式人工智慧模型相比的功效。
 
 ##### **From Brazilian Portuguese to European Portuguese**
 2408.07457v1 by João Sanches, Rui Ribeiro, Luísa Coheur
@@ -961,7 +959,7 @@ learning.
 摘要：<paragraph>最近在基於機器學習的能源管理方法中取得進展，特別是具有安全層（OptLayerPolicy）的強化學習和產生決策樹控制策略（TreeC）的元啟發式演算法，已展現出前景。然而，它們的有效性僅在電腦模擬中得到證明。本文介紹了這些方法的現實世界驗證，並與模型預測控制和基於簡單規則的控制基準進行比較。這些實驗是在 4 個住宅複製品的電氣裝置上進行的，它們都配備自己的電池、光電和動態負載系統，模擬不可控電氣負載和可控電動車充電器。結果顯示，簡單規則、TreeC 和基於模型預測控制的方法達到了相似的成本，差異僅為 0.6%。基於強化學習的方法仍處於訓練階段，獲得的成本比其他方法高出 25.5%。其他模擬顯示，透過使用更具代表性的 TreeC 訓練資料集，以及解決模型預測控制實作中因依賴各種來源的準確資料而產生的錯誤，可以進一步降低成本。OptLayerPolicy 安全層允許在現實世界中安全地線上訓練強化學習代理，前提是提供準確的約束函數公式。所提出的安全層方法仍然容易出錯，儘管如此，發現它對所有研究的方法都有利。TreeC 方法需要建立一個用於訓練的現實模擬，表現出最安全的運作效能，與強化學習的 593.9 Wh 相比，僅超過電網限制 27.1 Wh。</paragraph>
 
 ##### **MagicFace: Training-free Universal-Style Human Image Customized Synthesis**
-2408.07433v1 by Yibin Wang, Weizhong Zhang, Cheng Jin
+2408.07433v2 by Yibin Wang, Weizhong Zhang, Cheng Jin
 
 Existing human image personalized generation methods often require tedious
 training: either fine-tuning with a few images or retraining on large-scale
@@ -989,7 +987,7 @@ superiority in both human-centric subject-to-image synthesis and multi-concept
 human image customization. Our approach also can be applied to texture
 transformation, further enhancing its versatility and applicability.
 
-摘要：現有人像個人化生成方法通常需要繁瑣的訓練：使用少數影像微調或對大型資料集重新訓練。在這種情況下，這些方法容易過度擬合，而且在個人化不同風格的個體時會遇到困難。此外，這些基於訓練的方法在多概念人像客製化方面也有困難。為此，我們提出 MagicFace，這是一種通用風格人像個人化合成的第一個方法，它能以無訓練的方式對任何風格的人類進行單一/多概念客製化。MagicFace 介紹了一個粗到細的生成管線，包括兩個順序階段：語義場景建構和概念特徵注入。這通過我們的參考感知自注意力 (RSA) 和區域群組混合注意力 (RBA) 機制實現。特別是在第一階段，RSA 使潛在影像能夠同時從參考概念查詢特徵，提取粗粒度的整體語義理解，以利於初始語義佈局的建立。在第二階段，我們採用基於注意力的語義分割方法，以在每個步驟精確指出潛在影像中所有概念的生成區域。在此之後，RBA 將潛在影像的像素分為語義群組，每個群組從其參考概念查詢細粒度特徵，這確保了精確的屬性對齊和特徵注入。在整個兩階段過程中，採用權重遮罩策略以確保模型更專注於參考概念。廣泛的實驗證明了我們在以人為中心的對象到影像合成和多概念人像客製化方面的優越性。我們的做法也可以應用於紋理轉換，進一步增強其多功能性和適用性。
+摘要：現有的個人化生成人像方法通常需要繁瑣的訓練：使用少量影像微調或在大型資料集上重新訓練。在這種情況下，這些方法容易過度擬合，並且在為不同風格的個人進行個人化時遇到困難。此外，這些基於訓練的方法在多概念人像客製化方面也面臨挑戰。為此，我們提出 MagicFace，這是第一個通用風格個人化人像合成方法，能夠以無訓練的方式為任何風格的人類進行單一/多概念客製化。MagicFace 介紹了一個由粗到精的生成管道，包含兩個順序階段：語義場景建構和概念特徵注入。這是通過我們的參考感知自注意力 (RSA) 和區域群組混合注意力 (RBA) 機制實現的。具體來說，在第一階段，RSA 使潛在影像能夠同時從參考概念中查詢特徵，提取粗略的整體語義理解，以促進初始語義佈局建立。在第二階段，我們採用基於注意力的語義分割方法，在每一步準確找出潛在影像中所有概念的生成區域。在此之後，RBA 將潛在影像的像素分為語義群組，每個群組從其參考概念中查詢細粒度的特徵，這確保了精確的屬性對齊和特徵注入。在整個兩個階段的過程中，採用權重遮罩策略來確保模型更專注於參考概念。大量的實驗證明了我們在以人為中心的影像合成和多概念人像客製化方面的優越性。我們的方法也可以應用於紋理轉換，進一步增強其多功能性和適用性。
 
 ##### **Exploring Retrieval Augmented Generation in Arabic**
 2408.07425v1 by Samhaa R. El-Beltagy, Mohamed A. Abdallah
@@ -1198,7 +1196,7 @@ neural networks.
 體現於 XML 和 JSON 等熱門資料格式。然而，許多最近的產生式（機率）模型利用神經網路學習非導向循環圖形上的機率分布。這種假設會帶來各種運算挑戰，更重要的是，神經網路中的非線性存在不允許可計算的機率推論。我們透過提出和-積-集網路來解決這些問題，這是一種機率電路從非結構張量資料到樹狀結構圖形資料的延伸。為此，我們使用隨機有限集合來反映圖形中變數節點和邊緣的數量，並允許精確且有效的推論。我們證明我們的可計算模型執行效能與各種基於神經網路的難以計算模型相當。
 
 ##### **Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**
-2408.07377v1 by Peter Romero, Stephen Fitz, Teruo Nakatsuma
+2408.07377v2 by Peter Romero, Stephen Fitz, Teruo Nakatsuma
 
 Previous research on emergence in large language models shows these display
 apparent human-like abilities and psychological latent traits. However, results
@@ -1216,7 +1214,7 @@ foundation models, and are increasingly integrated in human life. We
 subsequently discuss the shortcomings of modern psychometrics, abstract it, and
 provide a framework for its species-neutral, substrate-free formulation.
 
-摘要：先前的研究顯示，大型語言模型中的出現現象展現出明顯的人類能力和心理潛在特質。然而，這些潛在特質的表達和強度在結果上部分矛盾，但對於在自戀、精神病態和馬基維利主義的黑暗三元組中得分高的令人擔憂的傾向達成共識，加上出軌的記錄，需要對這些模型的安全進行更嚴謹的研究。我們為最先進的語言模型提供了九種語言的相同人格問卷，並對高斯混合模型進行貝氏分析，發現了根深蒂固的問題的證據。我們的結果表明，語言間和語言內的不穩定性，這表明當前的語言模型沒有發展出一致的核心人格。這可能導致基於這些基礎模型的人工智慧系統出現不安全的行為，並且越來越融入人類生活。我們隨後討論了現代心理測量的缺點，對其進行抽象，並為其物種中立、基質無關的表述提供了一個框架。
+摘要：先前針對大型語言模型中出現的研究顯示，這些模型展現出與人類相似的能力和心理潛在特質。然而，這些潛在特質的表現和程度部分矛盾，但都同意在自戀、精神病態和馬基維利主義的黑暗三合會中得分高的令人擔憂的傾向，這與出軌的記錄一起，需要對這些模型的安全進行更嚴謹的研究。我們為一個最先進的語言模型提供了九種語言的相同人格問卷，並對高斯混合模型進行貝氏分析，發現更深層次問題的證據。我們的結果表明，語言間和語言內的兩種不穩定性，這表明當前的語言模型無法發展出一致的核心人格。這可能導致基於這些基礎模型的人工智慧系統出現不安全的行為，並且越來越融入人類的生活。我們隨後討論了現代心理測量的缺點，對其進行抽象，並提供了一個物種中立、無基質配方的框架。
 
 ##### **Only One Relation Possible? Modeling the Ambiguity in Event Temporal Relation Extraction**
 2408.07353v1 by Yutong Hu, Quzhe Huang, Yansong Feng
@@ -2177,14 +2175,14 @@ alternative for resource constrained, privacy sensitive use cases.
 摘要：目前提升語言模型效能的趨勢似乎是基於參數數量擴充（例如，最先進的 GPT4 模型大約有 1.7 兆個參數）或輸入模型的訓練資料量。然而，這會帶來龐大的運算資源和能源成本，影響 AI 解決方案的可持續性，以及與隱私和濫用相關的風險。在本文中，我們提出伊拉斯謨語言模型 (ELM)，這是一個針對特定脈絡的小型 9 億參數模型，由鹿特丹伊拉斯謨大學預先訓練和微調。我們展示該模型如何在教室環境中適當地撰寫論文，以及如何在屬於其脈絡的科目中取得卓越的表現。這對許多機構和組織具有影響，表明特定脈絡的語言模型可能是資源受限、注重隱私的使用案例的可行替代方案。
 
 ##### **Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**
-2408.06930v1 by Bauke Arends, Melle Vessies, Dirk van Osch, Arco Teske, Pim van der Harst, René van Es, Bram van Es
+2408.06930v2 by Bauke Arends, Melle Vessies, Dirk van Osch, Arco Teske, Pim van der Harst, René van Es, Bram van Es
 
 Clinical machine learning research and AI driven clinical decision support
 models rely on clinically accurate labels. Manually extracting these labels
 with the help of clinical specialists is often time-consuming and expensive.
 This study tests the feasibility of automatic span- and document-level
-diagnosis extraction from unstructured Dutch echocardiogram reports.
-  We included 115,692 unstructured echocardiogram reports from the UMCU a large
+diagnosis extraction from unstructured Dutch echocardiogram reports. We
+included 115,692 unstructured echocardiogram reports from the UMCU a large
 university hospital in the Netherlands. A randomly selected subset was manually
 annotated for the occurrence and severity of eleven commonly described cardiac
 characteristics. We developed and tested several automatic labelling techniques
@@ -2192,21 +2190,32 @@ at both span and document levels, using weighted and macro F1-score, precision,
 and recall for performance evaluation. We compared the performance of span
 labelling against document labelling methods, which included both direct
 document classifiers and indirect document classifiers that rely on span
-classification results.
-  The SpanCategorizer and MedRoBERTa.nl models outperformed all other span and
-document classifiers, respectively. The weighted F1-score varied between
-characteristics, ranging from 0.60 to 0.93 in SpanCategorizer and 0.96 to 0.98
-in MedRoBERTa.nl. Direct document classification was superior to indirect
-document classification using span classifiers. SetFit achieved competitive
-document classification performance using only 10\% of the training data.
-Utilizing a reduced label set yielded near-perfect document classification
-results.
-  We recommend using our published SpanCategorizer and MedRoBERTa.nl models for
-span- and document-level diagnosis extraction from Dutch echocardiography
-reports. For settings with limited training data, SetFit may be a promising
-alternative for document classification.
+classification results. The SpanCategorizer and MedRoBERTa$.$nl models
+outperformed all other span and document classifiers, respectively. The
+weighted F1-score varied between characteristics, ranging from 0.60 to 0.93 in
+SpanCategorizer and 0.96 to 0.98 in MedRoBERTa$.$nl. Direct document
+classification was superior to indirect document classification using span
+classifiers. SetFit achieved competitive document classification performance
+using only 10% of the training data. Utilizing a reduced label set yielded
+near-perfect document classification results. We recommend using our published
+SpanCategorizer and MedRoBERTa$.$nl models for span- and document-level
+diagnosis extraction from Dutch echocardiography reports. For settings with
+limited training data, SetFit may be a promising alternative for document
+classification.
 
-摘要：<paragraph>臨床機器學習研究和 AI 驅動的臨床決策支援模型依賴於臨床精確標籤。在臨床專家的協助下手動提取這些標籤通常既耗時又昂貴。本研究測試了從非結構化荷蘭超音波心動圖報告中自動提取跨度和文件級別診斷的可行性。我們納入了來自荷蘭一家大型大學醫院 UMCU 的 115,692 份非結構化超音波心動圖報告。手動註解了一個隨機選取的子集，以了解十一種常見描述的心臟特徵的發生和嚴重程度。我們開發並測試了跨度和文件級別的幾種自動標籤技術，使用加權和巨集 F1 分數、精確度和召回率進行效能評估。我們比較了跨度標籤相對於文件標籤方法的效能，其中包括直接文件分類器和依賴於跨度分類結果的間接文件分類器。SpanCategorizer 和 MedRoBERTa.nl 模型分別優於所有其他跨度和文件分類器。加權 F1 分數因特徵而異，在 SpanCategorizer 中介於 0.60 到 0.93，在 MedRoBERTa.nl 中介於 0.96 到 0.98。使用跨度分類器的間接文件分類不如直接文件分類。SetFit 僅使用 10% 的訓練資料就達到了有競爭力的文件分類效能。利用減少的標籤組產生了近乎完美的文件分類結果。我們建議使用我們發布的 SpanCategorizer 和 MedRoBERTa.nl 模型從荷蘭超音波心動圖報告中提取跨度和文件級別診斷。對於訓練資料有限的設定，SetFit 可能是一種有前途的文件分類替代方案。</paragraph>
+摘要：<paragraph>臨床機器學習研究和人工智慧驅動的臨床決策支援
+模型依賴於臨床準確的標籤。在臨床專家的協助下，手動提取這些標籤通常既耗時又昂貴。
+本研究測試了從非結構化荷蘭超音波心動圖報告中自動提取跨度和文件級別診斷的可行性。我們
+納入了來自荷蘭一家大型大學醫院 UMCU 的 115,692 份非結構化超音波心動圖報告。隨機選擇的子集經過手動註解，以了解十一種常見描述的心臟
+特徵的發生和嚴重程度。我們開發並測試了跨度和文件級別的幾種自動標籤技術，使用加權和巨集 F1 分數、精確度，
+以及召回率進行效能評估。我們比較了跨度
+標籤與文件標籤方法的效能，其中包括直接
+文件分類器和依賴於跨度
+分類結果的間接文件分類器。SpanCategorizer 和 MedRoBERTa$.$nl 模型
+分別優於所有其他跨度和文件分類器。
+加權 F1 分數因特徵而異，SpanCategorizer 中的範圍從 0.60 到 0.93，MedRoBERTa$.$nl 中的範圍從 0.96 到 0.98。使用跨度
+分類器的間接文件分類不如直接文件分類。SetFit 僅使用 10% 的訓練資料就達到了具有競爭力的文件分類效能。利用減少的標籤集產生了近乎完美的文件分類結果。我們建議使用我們發布的 SpanCategorizer 和 MedRoBERTa$.$nl 模型從荷蘭超音波心動圖報告中提取跨度和文件級別診斷。對於訓練資料有限的設定，SetFit 可能是一種有前途的文件
+分類替代方案。</paragraph>
 
 ##### **Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas**
 2408.06929v1 by Louis Kwok, Michal Bravansky, Lewis D. Griffin

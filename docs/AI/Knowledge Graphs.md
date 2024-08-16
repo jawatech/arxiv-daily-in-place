@@ -71,7 +71,7 @@
 |**2024-07-23**|**Graph-Structured Speculative Decoding**|Zhuocheng Gong et.al.|[2407.16207v1](http://arxiv.org/abs/2407.16207v1)|null|
 |**2024-07-23**|**Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval**|Yannick Assogba et.al.|[2407.21049v1](http://arxiv.org/abs/2407.21049v1)|null|
 |**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127v1](http://arxiv.org/abs/2407.16127v1)|[link](https://github.com/nju-websoft/dift)|
-|**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v1](http://arxiv.org/abs/2407.15588v1)|[link](https://github.com/eralign/eralign)|
+|**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Neighbor Triple Matching with Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588v2](http://arxiv.org/abs/2407.15588v2)|[link](https://github.com/eralign/eralign)|
 |**2024-07-22**|**The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface**|Johannes Zimmermann et.al.|[2408.03339v1](http://arxiv.org/abs/2408.03339v1)|null|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
 |**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
@@ -1749,34 +1749,34 @@ benchmark datasets demonstrate the effectiveness of our proposed framework.
 
 摘要：傳統知識圖譜（KG）完成功能模型學習嵌入，以預測遺失的事實。最近的工作嘗試以大型語言模型（LLM）以文字生成的方式完成 KG。然而，他們需要將 LLM 的輸出基礎建立在 KG 實體上，這不可避免地會帶來錯誤。在本文中，我們提出了一個微調框架 DIFT，旨在釋放 LLM 的 KG 完成功能，並避免基礎錯誤。給定一個不完整的事實，DIFT 使用一個輕量級模型來獲得候選實體，並微調一個 LLM，並使用辨別指令從給定的候選項中選擇正確的實體。為了在減少指令數據的同時提升效能，DIFT 使用一個截斷抽樣方法來選擇有用的事實以進行微調，並將 KG 嵌入注入到 LLM 中。在基準資料集上的廣泛實驗證明了我們提出的框架的有效性。
 
-##### **Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**
-2407.15588v1 by Soojin Yoon, Sungho Ko, Tongyoung Kim, SeongKu Kang, Jinyoung Yeo, Dongha Lee
+##### **Unsupervised Robust Cross-Lingual Entity Alignment via Neighbor Triple Matching with Entity and Relation Texts**
+2407.15588v2 by Soojin Yoon, Sungho Ko, Tongyoung Kim, SeongKu Kang, Jinyoung Yeo, Dongha Lee
 
 Cross-lingual entity alignment (EA) enables the integration of multiple
 knowledge graphs (KGs) across different languages, providing users with
-seamless access to diverse and comprehensive knowledge.Existing methods, mostly
-supervised, face challenges in obtaining labeled entity pairs. To address this,
-recent studies have shifted towards a self-supervised and unsupervised
-frameworks. Despite their effectiveness, these approaches have limitations: (1)
-they mainly focus on entity features, neglecting the semantic information of
-relations, (2) they assume isomorphism between source and target graphs,
-leading to noise and reduced alignment accuracy, and (3) they are susceptible
-to noise in the textual features, especially when encountering inconsistent
-translations or Out-Of-Vocabulary (OOV) problems.
-  In this paper, we propose ERAlign, an unsupervised and robust cross-lingual
-EA framework that jointly performs Entity-level and Relation-level Alignment
-using semantic textual features of relations and entities. Its refinement
-process iteratively enhances results by fusing entity-level and relation-level
-alignments based on neighbor triple matching. The additional verification
-process examines the entities' neighbor triples as the linearized text. This
-\textit{Align-and-Verify} pipeline that rigorously assesses alignment results,
-achieving near-perfect alignment even in the presence of noisy textual features
-of entities. Our extensive experiments demonstrate that robustness and general
-applicability of \proposed improved the accuracy and effectiveness of EA tasks,
+seamless access to diverse and comprehensive knowledge. Existing methods,
+mostly supervised, face challenges in obtaining labeled entity pairs. To
+address this, recent studies have shifted towards self-supervised and
+unsupervised frameworks. Despite their effectiveness, these approaches have
+limitations: (1) Relation passing: mainly focusing on the entity while
+neglecting the semantic information of relations, (2) Isomorphic assumption:
+assuming isomorphism between source and target graphs, which leads to noise and
+reduced alignment accuracy, and (3) Noise vulnerability: susceptible to noise
+in the textual features, especially when encountering inconsistent translations
+or Out-Of-Vocabulary (OOV) problems. In this paper, we propose ERAlign, an
+unsupervised and robust cross-lingual EA pipeline that jointly performs
+Entity-level and Relation-level Alignment by neighbor triple matching strategy
+using semantic textual features of relations and entities. Its refinement step
+iteratively enhances results by fusing entity-level and relation-level
+alignments based on neighbor triple matching. The additional verification step
+examines the entities' neighbor triples as the linearized text. This
+Align-then-Verify pipeline rigorously assesses alignment results, achieving
+near-perfect alignment even in the presence of noisy textual features of
+entities. Our extensive experiments demonstrate that the robustness and general
+applicability of ERAlign improved the accuracy and effectiveness of EA tasks,
 contributing significantly to knowledge-oriented applications.
 
-摘要：跨語言實體對齊 (EA) 能夠整合不同語言中的多個知識圖譜 (KG)，讓使用者能無縫地存取多元且全面的知識。現有方法大多是有監督的，在取得標記實體對時面臨挑戰。為了解決這個問題，最近的研究已轉向自監督和無監督的架構。儘管這些方法很有效，但它們有以下限制：(1) 它們主要關注實體特徵，忽略關係的語義資訊，(2) 它們假設來源圖譜和目標圖譜之間同構，導致雜訊和對齊準確度降低，(3) 它們容易受到文字特徵中的雜訊影響，特別是在遇到不一致的翻譯或詞彙外問題 (OOV) 時。
-在本文中，我們提出 ERAlign，一個無監督且穩健的跨語言 EA 架構，它使用關係和實體的語義文字特徵，同時執行實體層級和關係層級對齊。它的精煉程序透過根據鄰接三元組匹配融合實體層級和關係層級對齊，反覆增強結果。額外的驗證程序將實體的鄰接三元組視為線性化文字進行檢查。這個嚴格評估對齊結果的「對齊和驗證」管線，即使在存在實體的雜訊文字特徵時也能達成近乎完美的對齊。我們廣泛的實驗證明，\proposed 的穩健性和普遍適用性提升了 EA 任務的準確度和有效性，對知識導向應用程式有顯著的貢獻。
+摘要：跨語言實體對齊 (EA) 允許整合不同語言的多個知識圖譜 (KG)，為使用者提供無縫存取多元且全面的知識。現有的方法大多是監督式的，在取得標記實體對時面臨挑戰。為了解決這個問題，最近的研究已轉向自監督式和非監督式架構。儘管這些方法有效，但仍有以下限制：(1) 關係傳遞：主要關注實體，而忽略關係的語義資訊，(2) 同構假設：假設來源圖譜和目標圖譜之間存在同構性，這會導致雜訊和降低對齊準確度，以及 (3) 雜訊脆弱性：容易受到文字特徵中的雜訊影響，特別是在遇到不一致的翻譯或詞彙外 (OOV) 問題時。在本文中，我們提出 ERAlign，一個非監督式且強健的跨語言 EA 管線，它透過使用關係和實體的語義文字特徵，結合實體層級和關係層級對齊，以鄰近三元組配對策略共同執行。它的精緻化步驟透過基於鄰近三元組配對融合實體層級和關係層級對齊，反覆增強結果。額外的驗證步驟將實體的鄰近三元組視為線性化文字進行檢查。這個對齊再驗證管線嚴格評估對齊結果，即使在實體的文字特徵有雜訊的情況下，也能達成近乎完美的對齊。我們廣泛的實驗證明，ERAlign 的強健性和一般適用性提升了 EA 任務的準確度和有效性，為知識導向的應用程式做出顯著貢獻。
 
 ##### **The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface**
 2408.03339v1 by Johannes Zimmermann, Dariusz Wiktorek, Thomas Meusburger, Miquel Monge-Dalmau, Antonio Fabregat, Alexander Jarasch, Günter Schmidt, Jorge S. Reis-Filho, T. Ian Simpson

@@ -2,10 +2,10 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v1](http://arxiv.org/abs/2408.07673v1)|null|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|null|
 |**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|null|
 |**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|null|
-|**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576v1](http://arxiv.org/abs/2408.07576v1)|[link](https://github.com/hyunwoo137/metaseg)|
+|**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576v2](http://arxiv.org/abs/2408.07576v2)|[link](https://github.com/hyunwoo137/metaseg)|
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v1](http://arxiv.org/abs/2408.07531v1)|null|
 |**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
@@ -13,7 +13,7 @@
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
 |**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|null|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037v1](http://arxiv.org/abs/2408.07037v1)|null|
-|**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v1](http://arxiv.org/abs/2408.06930v1)|null|
+|**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v2](http://arxiv.org/abs/2408.06930v2)|[link](https://github.com/umcu/echolabeler)|
 |**2024-08-13**|**BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning**|Yuyang Xue et.al.|[2408.06890v1](http://arxiv.org/abs/2408.06890v1)|null|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|null|
 |**2024-08-12**|**Decentralized Health Intelligence Network (DHIN)**|Abraham Nash et.al.|[2408.06240v3](http://arxiv.org/abs/2408.06240v3)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**
-2408.07673v1 by Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells
+2408.07673v2 by Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells
 
 A grid search, at the cost of training and testing a large number of models,
 is an effective way to optimize the prediction performance of deep learning
@@ -124,16 +124,16 @@ hyperparameters. Our results show that grid search can greatly improve model
 prediction. The grid searches we conducted improved the risk prediction of
 5-year, 10-year, and 15-year breast cancer metastasis by 18.6%, 16.3%, and
 17.3% respectively, over the average performance of all corresponding models we
-trained. We not only demonstrate best model performance but also characterize
-grid searches from various aspects such as their capabilities of discovering
-decent models and the unit grid search time. The three-stage mechanism worked
-effectively. It made our low-budget grid searches feasible and manageable, and
-in the meantime helped improve model prediction performance. Our SHAP analyses
-identified both clinical risk factors important for the prediction of future
-risk of breast cancer metastasis, and DFNN-model hyperparameters important to
-the prediction of performance scores.
+trained using the RGS strategy. We not only demonstrate best model performance
+but also characterize grid searches from various aspects such as their
+capabilities of discovering decent models and the unit grid search time. The
+three-stage mechanism worked effectively. It made our low-budget grid searches
+feasible and manageable, and in the meantime helped improve model prediction
+performance. Our SHAP analyses identified both clinical risk factors important
+for the prediction of future risk of breast cancer metastasis, and DFNN-model
+hyperparameters important to the prediction of performance scores.
 
-摘要：<paragraph>網格搜尋以訓練和測試大量模型為代價，是最佳化深度學習模型預測效能的有效方式。網格搜尋面臨的一項挑戰任務是時間管理。沒有良好的時間管理機制，網格搜尋很容易被設定為一項任務，而且在我們有生之年都無法完成。在本研究中，我們介紹了一種啟發式的三階段機制，用於管理低預算網格搜尋的執行時間，以及用於改善模型預測效能的最佳點網格搜尋 (SSGS) 和隨機網格搜尋 (RGS) 策略，以預測 5 年、10 年和 15 年的乳癌轉移風險。我們開發了深度前饋神經網路 (DFNN) 模型，並透過網格搜尋對它們進行最佳化。我們透過應用三階段機制和 SSGS 和 RGS 策略進行八次循環的網格搜尋。我們進行了各種 SHAP 分析，包括解釋 DFNN 模型超參數重要性的獨特分析。我們的結果顯示，網格搜尋可以大幅改善模型預測。我們進行的網格搜尋分別將 5 年、10 年和 15 年乳癌轉移的風險預測改善了 18.6%、16.3% 和 17.3%，高於我們訓練的所有對應模型的平均效能。我們不僅展示了最佳模型效能，還從各種面向描述網格搜尋，例如它們發現適當模型的能力和單位網格搜尋時間。三階段機制運作良好。它使我們的低預算網格搜尋可行且易於管理，同時也有助於改善模型預測效能。我們的 SHAP 分析識別出對於預測未來乳癌轉移風險很重要的臨床風險因子，以及對於預測效能評分很重要的 DFNN 模型超參數。</paragraph>
+摘要：<paragraph>網格搜尋以訓練和測試大量模型為代價，是一種優化深度學習模型預測效能的有效方法。網格搜尋中一項具有挑戰性的任務是時間管理。沒有良好的時間管理機制，網格搜尋很容易被設定為一項在我們有生之年都無法完成的任務。在本研究中，我們介紹了一種啟發式三階段機制，用於管理低預算網格搜尋的執行時間，以及用於改善模型預測效能的最佳點網格搜尋 (SSGS) 和隨機網格搜尋 (RGS) 策略，以預測乳癌轉移的 5 年、10 年和 15 年風險。我們開發了深度前饋神經網路 (DFNN) 模型，並透過網格搜尋對它們進行優化。我們透過應用三階段機制和 SSGS 和 RGS 策略進行了八個週期的網格搜尋。我們進行了各種 SHAP 分析，包括解釋 DFNN 模型超參數重要性的獨特分析。我們的結果顯示網格搜尋可以大幅改善模型預測。我們進行的網格搜尋分別將 5 年、10 年和 15 年乳癌轉移的風險預測改善了 18.6%、16.3% 和 17.3%，優於我們使用 RGS 策略訓練的所有對應模型的平均效能。我們不僅展示了最佳模型效能，還從各種面向描述網格搜尋，例如它們發現良好模型的能力和單元網格搜尋時間。三階段機制有效運作。它使我們的低預算網格搜尋可行且易於管理，同時也有助於改善模型預測效能。我們的 SHAP 分析確定了對預測未來乳癌轉移風險很重要的臨床風險因子，以及對預測效能評分很重要的 DFNN 模型超參數。</paragraph>
 
 ##### **Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**
 2408.07647v1 by Ana Fernández del Río, Michael Brennan Leong, Paulo Saraiva, Ivan Nazarov, Aditya Rastogi, Moiz Hassan, Dexian Tang, África Periáñez
@@ -173,7 +173,7 @@ capabilities and community health.
 摘要：透過提供基於證據的臨床決策支援，數位工具和電子健康記錄可以徹底改變病患管理，特別是在資源貧乏、醫護人員較少且經常需要更多訓練的環境中。當這些工具與 AI 整合時，它們可以提供個人化支援和適應性介入措施，有效地連結社區衛生工作者 (CHW) 和醫療保健機構。CHARM（社區健康存取與資源管理）應用程式是一款專為 CHW 設計的 AI 原生行動應用程式。CHARM 由 Causal Foundry (CF) 和 mothers2mothers (m2m) 透過聯合夥伴關係共同開發，透過簡化個案管理、加強學習和改善溝通，賦予 CHW（主要是當地婦女）權力。本文詳述 CHARM 的開發、整合和即將推出的基於強化學習的適應性介入措施，所有這些都旨在加強醫護人員的參與度、效率和病患的治療結果，從而提升 CHW 的能力和社區健康。
 
 ##### **MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**
-2408.07576v1 by Beoungwoo Kang, Seunghun Moon, Yubin Cho, Hyunwoo Yu, Suk-Ju Kang
+2408.07576v2 by Beoungwoo Kang, Seunghun Moon, Yubin Cho, Hyunwoo Yu, Suk-Ju Kang
 
 Beyond the Transformer, it is important to explore how to exploit the
 capacity of the MetaFormer, an architecture that is fundamental to the
@@ -197,9 +197,9 @@ the query and key into the one dimension. In this way, our proposed MetaSeg
 outperforms the previous state-of-the-art methods with more efficient
 computational costs on popular semantic segmentation and a medical image
 segmentation benchmark, including ADE20K, Cityscapes, COCO-stuff, and Synapse.
-The code is available at \url{https://github.com/hyunwoo137/MetaSeg}.
+The code is available at https://github.com/hyunwoo137/MetaSeg.
 
-摘要：除了 Transformer 之外，探索如何利用 MetaFormer 的容量非常重要，MetaFormer 是 Transformer 性能提升的基础架构。先前的研究仅将其用于主干网络。与先前的研究不同，我们在语义分割任务中更广泛地探索了 Metaformer 架构的容量。我们提出了一个强大的语义分割网络 MetaSeg，它利用了从主干到解码器的 Metaformer 架构。我们的 MetaSeg 表明，MetaFormer 架构在为解码器和主干捕获有用上下文方面发挥了重要作用。此外，最近的分割方法表明，使用基于 CNN 的主干来提取空间信息和使用解码器来提取全局信息比使用基于 Transformer 的主干和基于 CNN 的解码器更有效。这促使我们采用使用 MetaFormer 块的基于 CNN 的主干并设计我们基于 MetaFormer 的解码器，该解码器包含一个新颖的自注意力模块来捕获全局上下文。为了同时考虑全局上下文提取和语义分割的自注意力的计算效率，我们提出了通道缩减注意力 (CRA) 模块，该模块将查询和键的通道维度缩减为一个维度。通过这种方式，我们提出的 MetaSeg 在流行的语义分割和医学图像分割基准（包括 ADE20K、Cityscapes、COCO-stuff 和 Synapse）上以更高的计算成本超越了以前最先进的方法。代码可在 \url{https://github.com/hyunwoo137/MetaSeg} 获得。
+摘要：<paragraph>除了 Transformer 之外，探索如何利用 MetaFormer 的容量非常重要，MetaFormer 是一种对 Transformer 性能改进至关重要的架构。以往的研究仅将其用于主干网络。与以往的研究不同，我们在语义分割任务中更广泛地探索了 Metaformer 架构的容量。我们提出了一个强大的语义分割网络 MetaSeg，它利用了从主干到解码器的 Metaformer 架构。我们的 MetaSeg 表明，MetaFormer 架构在为解码器和主干捕获有用上下文方面发挥了重要作用。此外，最近的分割方法表明，使用基于 CNN 的主干提取空间信息和使用解码器提取全局信息比使用基于 Transformer 的主干和基于 CNN 的解码器更有效。这促使我们采用使用 MetaFormer 块的基于 CNN 的主干，并设计了基于 MetaFormer 的解码器，该解码器包含一个新颖的自注意力模块来捕获全局上下文。为了同时考虑全局上下文提取和语义分割的自注意力的计算效率，我们提出了一种通道缩减注意力 (CRA) 模块，它将查询和键的通道维度缩减为一个维度。通过这种方式，我们提出的 MetaSeg 在流行的语义分割和医学图像分割基准（包括 ADE20K、Cityscapes、COCO-stuff 和 Synapse）上以更有效的计算成本优于以往的最新方法。代码可在 https://github.com/hyunwoo137/MetaSeg 获得。</paragraph>
 
 ##### **Multi-task Heterogeneous Graph Learning on Electronic Health Records**
 2408.07569v1 by Tsai Hor Chan, Guosheng Yin, Kyongtae Bae, Lequan Yu
@@ -384,14 +384,14 @@ the medical and research communities.
 摘要：病理診斷仍然是識別腫瘤的明確標準。多模態大型模型的興起簡化了將影像分析與文字描述整合的過程。儘管有此進展，但訓練和部署這些複雜的多模態模型相關的龐大成本，以及缺乏高品質的訓練資料集，導致尖端技術與其在臨床環境中的應用之間產生了顯著的差距。我們已細心編制了一個包含約 45,000 個案例的資料集，涵蓋 6 項不同的任務，包括器官組織分類、產生病理報告描述，以及回答與病理相關的問題。我們使用這個資料集微調了多模態大型模型，特別是 LLaVA、Qwen-VL、InternLM，以增強基於指令的效能。我們對基礎模型和微調模型在特定資料集上執行影像標題和分類任務的能力進行了定性評估。評估結果表明，微調模型在回答典型病理問題方面表現出熟練度。我們希望透過公開我們的模型和資料集，它們能對醫療和研究社群有價值。
 
 ##### **Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**
-2408.06930v1 by Bauke Arends, Melle Vessies, Dirk van Osch, Arco Teske, Pim van der Harst, René van Es, Bram van Es
+2408.06930v2 by Bauke Arends, Melle Vessies, Dirk van Osch, Arco Teske, Pim van der Harst, René van Es, Bram van Es
 
 Clinical machine learning research and AI driven clinical decision support
 models rely on clinically accurate labels. Manually extracting these labels
 with the help of clinical specialists is often time-consuming and expensive.
 This study tests the feasibility of automatic span- and document-level
-diagnosis extraction from unstructured Dutch echocardiogram reports.
-  We included 115,692 unstructured echocardiogram reports from the UMCU a large
+diagnosis extraction from unstructured Dutch echocardiogram reports. We
+included 115,692 unstructured echocardiogram reports from the UMCU a large
 university hospital in the Netherlands. A randomly selected subset was manually
 annotated for the occurrence and severity of eleven commonly described cardiac
 characteristics. We developed and tested several automatic labelling techniques
@@ -399,21 +399,32 @@ at both span and document levels, using weighted and macro F1-score, precision,
 and recall for performance evaluation. We compared the performance of span
 labelling against document labelling methods, which included both direct
 document classifiers and indirect document classifiers that rely on span
-classification results.
-  The SpanCategorizer and MedRoBERTa.nl models outperformed all other span and
-document classifiers, respectively. The weighted F1-score varied between
-characteristics, ranging from 0.60 to 0.93 in SpanCategorizer and 0.96 to 0.98
-in MedRoBERTa.nl. Direct document classification was superior to indirect
-document classification using span classifiers. SetFit achieved competitive
-document classification performance using only 10\% of the training data.
-Utilizing a reduced label set yielded near-perfect document classification
-results.
-  We recommend using our published SpanCategorizer and MedRoBERTa.nl models for
-span- and document-level diagnosis extraction from Dutch echocardiography
-reports. For settings with limited training data, SetFit may be a promising
-alternative for document classification.
+classification results. The SpanCategorizer and MedRoBERTa$.$nl models
+outperformed all other span and document classifiers, respectively. The
+weighted F1-score varied between characteristics, ranging from 0.60 to 0.93 in
+SpanCategorizer and 0.96 to 0.98 in MedRoBERTa$.$nl. Direct document
+classification was superior to indirect document classification using span
+classifiers. SetFit achieved competitive document classification performance
+using only 10% of the training data. Utilizing a reduced label set yielded
+near-perfect document classification results. We recommend using our published
+SpanCategorizer and MedRoBERTa$.$nl models for span- and document-level
+diagnosis extraction from Dutch echocardiography reports. For settings with
+limited training data, SetFit may be a promising alternative for document
+classification.
 
-摘要：<paragraph>臨床機器學習研究和 AI 驅動的臨床決策支援模型依賴於臨床精確標籤。在臨床專家的協助下手動提取這些標籤通常既耗時又昂貴。本研究測試了從非結構化荷蘭超音波心動圖報告中自動提取跨度和文件級別診斷的可行性。我們納入了來自荷蘭一家大型大學醫院 UMCU 的 115,692 份非結構化超音波心動圖報告。手動註解了一個隨機選取的子集，以了解十一種常見描述的心臟特徵的發生和嚴重程度。我們開發並測試了跨度和文件級別的幾種自動標籤技術，使用加權和巨集 F1 分數、精確度和召回率進行效能評估。我們比較了跨度標籤相對於文件標籤方法的效能，其中包括直接文件分類器和依賴於跨度分類結果的間接文件分類器。SpanCategorizer 和 MedRoBERTa.nl 模型分別優於所有其他跨度和文件分類器。加權 F1 分數因特徵而異，在 SpanCategorizer 中介於 0.60 到 0.93，在 MedRoBERTa.nl 中介於 0.96 到 0.98。使用跨度分類器的間接文件分類不如直接文件分類。SetFit 僅使用 10% 的訓練資料就達到了有競爭力的文件分類效能。利用減少的標籤組產生了近乎完美的文件分類結果。我們建議使用我們發布的 SpanCategorizer 和 MedRoBERTa.nl 模型從荷蘭超音波心動圖報告中提取跨度和文件級別診斷。對於訓練資料有限的設定，SetFit 可能是一種有前途的文件分類替代方案。</paragraph>
+摘要：<paragraph>臨床機器學習研究和人工智慧驅動的臨床決策支援
+模型依賴於臨床準確的標籤。在臨床專家的協助下，手動提取這些標籤通常既耗時又昂貴。
+本研究測試了從非結構化荷蘭超音波心動圖報告中自動提取跨度和文件級別診斷的可行性。我們
+納入了來自荷蘭一家大型大學醫院 UMCU 的 115,692 份非結構化超音波心動圖報告。隨機選擇的子集經過手動註解，以了解十一種常見描述的心臟
+特徵的發生和嚴重程度。我們開發並測試了跨度和文件級別的幾種自動標籤技術，使用加權和巨集 F1 分數、精確度，
+以及召回率進行效能評估。我們比較了跨度
+標籤與文件標籤方法的效能，其中包括直接
+文件分類器和依賴於跨度
+分類結果的間接文件分類器。SpanCategorizer 和 MedRoBERTa$.$nl 模型
+分別優於所有其他跨度和文件分類器。
+加權 F1 分數因特徵而異，SpanCategorizer 中的範圍從 0.60 到 0.93，MedRoBERTa$.$nl 中的範圍從 0.96 到 0.98。使用跨度
+分類器的間接文件分類不如直接文件分類。SetFit 僅使用 10% 的訓練資料就達到了具有競爭力的文件分類效能。利用減少的標籤集產生了近乎完美的文件分類結果。我們建議使用我們發布的 SpanCategorizer 和 MedRoBERTa$.$nl 模型從荷蘭超音波心動圖報告中提取跨度和文件級別診斷。對於訓練資料有限的設定，SetFit 可能是一種有前途的文件
+分類替代方案。</paragraph>
 
 ##### **BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning**
 2408.06890v1 by Yuyang Xue, Junyu Yan, Raman Dutt, Fasih Haider, Jingshuai Liu, Steven McDonagh, Sotirios A. Tsaftaris

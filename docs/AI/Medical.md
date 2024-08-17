@@ -15,9 +15,9 @@
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v1](http://arxiv.org/abs/2408.07531v1)|null|
 |**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
-|**2024-08-14**|**The Complexity of Manipulation of k-Coalitional Games on Graphs**|Hodaya Barr et.al.|[2408.07368v1](http://arxiv.org/abs/2408.07368v1)|null|
+|**2024-08-14**|**The Complexity of Manipulation of k-Coalitional Games on Graphs**|Hodaya Barr et.al.|[2408.07368v1](http://arxiv.org/abs/2408.07368v1)|[link](https://github.com/hodayaBen/The-Complexity-of-Manipulation-of-k-Coalitional-Games-on-Graphs)|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
-|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|null|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|[link](https://github.com/darthreca/crop-field-segmentation-ukan)|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037v1](http://arxiv.org/abs/2408.07037v1)|null|
 |**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v2](http://arxiv.org/abs/2408.06930v2)|[link](https://github.com/umcu/echolabeler)|
 |**2024-08-13**|**BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning**|Yuyang Xue et.al.|[2408.06890v1](http://arxiv.org/abs/2408.06890v1)|null|
@@ -47,9 +47,9 @@
 |**2024-08-07**|**Multimodal Gender Fairness in Depression Prediction: Insights on Data from the USA & China**|Joseph Cameron et.al.|[2408.04026v1](http://arxiv.org/abs/2408.04026v1)|null|
 |**2024-08-07**|**Inter-Series Transformer: Attending to Products in Time Series Forecasting**|Rares Cristian et.al.|[2408.03872v1](http://arxiv.org/abs/2408.03872v1)|null|
 |**2024-08-07**|**Anatomical Foundation Models for Brain MRIs**|Carlo Alberto Barbano et.al.|[2408.07079v1](http://arxiv.org/abs/2408.07079v1)|null|
-|**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|null|
+|**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|[link](https://github.com/JuHo-Jung/HiQuE)|
 |**2024-08-07**|**Improving the quality of Persian clinical text with a novel spelling correction system**|Seyed Mohammad Sadegh Dashti et.al.|[2408.03622v1](http://arxiv.org/abs/2408.03622v1)|null|
-|**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|null|
+|**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|[link](https://github.com/Jeanselme/CausalNeuralSurvivalClustering)|
 |**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405v1](http://arxiv.org/abs/2408.03405v1)|[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)|
 |**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
@@ -66,7 +66,7 @@
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|[link](https://github.com/jihyechoi77/malade)|
 |**2024-08-03**|**Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**|Jung In Park et.al.|[2408.04650v1](http://arxiv.org/abs/2408.04650v1)|null|
-|**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|null|
+|**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|[link](https://github.com/41enthusiast/ST-SACLF-ver1.1)|
 |**2024-08-03**|**Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**|Jinwen Tang et.al.|[2408.01614v1](http://arxiv.org/abs/2408.01614v1)|null|
 |**2024-08-02**|**Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference**|Hengrui Cai et.al.|[2408.01582v1](http://arxiv.org/abs/2408.01582v1)|null|
 |**2024-08-02**|**High-Throughput Phenotyping of Clinical Text Using Large Language Models**|Daniel B. Hier et.al.|[2408.01214v1](http://arxiv.org/abs/2408.01214v1)|null|
@@ -82,7 +82,7 @@
 |**2024-08-01**|**HBot: A Chatbot for Healthcare Applications in Traditional Chinese Medicine Based on Human Body 3D Visualization**|Bolin Zhang et.al.|[2408.00481v1](http://arxiv.org/abs/2408.00481v1)|null|
 |**2024-08-01**|**Securing the Diagnosis of Medical Imaging: An In-depth Analysis of AI-Resistant Attacks**|Angona Biswas et.al.|[2408.00348v1](http://arxiv.org/abs/2408.00348v1)|null|
 |**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347v1](http://arxiv.org/abs/2408.00347v1)|null|
-|**2024-07-31**|**S-SYNTH: Knowledge-Based, Synthetic Generation of Skin Images**|Andrea Kim et.al.|[2408.00191v1](http://arxiv.org/abs/2408.00191v1)|null|
+|**2024-07-31**|**S-SYNTH: Knowledge-Based, Synthetic Generation of Skin Images**|Andrea Kim et.al.|[2408.00191v1](http://arxiv.org/abs/2408.00191v1)|[link](https://github.com/DIDSR/ssynth-release)|
 |**2024-07-31**|**A Taxonomy of Stereotype Content in Large Language Models**|Gandalf Nicolas et.al.|[2408.00162v1](http://arxiv.org/abs/2408.00162v1)|null|
 |**2024-07-31**|**Preference-Based Abstract Argumentation for Case-Based Reasoning (with Appendix)**|Adam Gould et.al.|[2408.00108v2](http://arxiv.org/abs/2408.00108v2)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|null|
@@ -94,7 +94,7 @@
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490v1](http://arxiv.org/abs/2407.21490v1)|null|
 |**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467v1](http://arxiv.org/abs/2407.21467v1)|null|
 |**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368v1](http://arxiv.org/abs/2407.21368v1)|null|
-|**2024-07-31**|**MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework**|Adrian Celaya et.al.|[2407.21343v1](http://arxiv.org/abs/2407.21343v1)|null|
+|**2024-07-31**|**MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework**|Adrian Celaya et.al.|[2407.21343v1](http://arxiv.org/abs/2407.21343v1)|[link](https://github.com/mist-medical/MIST)|
 |**2024-07-31**|**Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era**|Mohsen Amoei et.al.|[2408.02677v1](http://arxiv.org/abs/2408.02677v1)|null|
 |**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284v1](http://arxiv.org/abs/2407.21284v1)|null|
 |**2024-07-31**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281v1](http://arxiv.org/abs/2407.21281v1)|null|

@@ -22,7 +22,7 @@
 |**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
 |**2024-08-15**|**Towards flexible perception with visual memory**|Robert Geirhos et.al.|[2408.08172v1](http://arxiv.org/abs/2408.08172v1)|null|
 |**2024-08-15**|**General-purpose Clothes Manipulation with Semantic Keypoints**|Yuhong Deng et.al.|[2408.08160v1](http://arxiv.org/abs/2408.08160v1)|null|
-|**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152v1](http://arxiv.org/abs/2408.08152v1)|null|
+|**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152v1](http://arxiv.org/abs/2408.08152v1)|[link](https://github.com/deepseek-ai/deepseek-prover-v1.5)|
 |**2024-08-15**|**Winning Snake: Design Choices in Multi-Shot ASP**|Elisa Böhl et.al.|[2408.08150v1](http://arxiv.org/abs/2408.08150v1)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147v1](http://arxiv.org/abs/2408.08147v1)|null|
 |**2024-08-15**|**KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**|Kaiqi Zhang et.al.|[2408.08146v1](http://arxiv.org/abs/2408.08146v1)|null|
@@ -44,7 +44,7 @@
 |**2024-08-15**|**DIVE: Towards Descriptive and Diverse Visual Commonsense Generation**|Jun-Hyung Park et.al.|[2408.08021v1](http://arxiv.org/abs/2408.08021v1)|[link](https://github.com/park-ing-lot/dive)|
 |**2024-08-15**|**Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization**|Sang-Hoon Lee et.al.|[2408.08019v1](http://arxiv.org/abs/2408.08019v1)|[link](https://github.com/sh-lee-prml/periodwave)|
 |**2024-08-15**|**Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices**|Shengyuan Ye et.al.|[2408.08015v1](http://arxiv.org/abs/2408.08015v1)|null|
-|**2024-08-15**|**Leveraging Web-Crawled Data for High-Quality Fine-Tuning**|Jing Zhou et.al.|[2408.08003v1](http://arxiv.org/abs/2408.08003v1)|null|
+|**2024-08-15**|**Leveraging Web-Crawled Data for High-Quality Fine-Tuning**|Jing Zhou et.al.|[2408.08003v1](http://arxiv.org/abs/2408.08003v1)|[link](https://github.com/zhouj8553/Web_to_SFT)|
 |**2024-08-15**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2408.07990v1](http://arxiv.org/abs/2408.07990v1)|[link](https://github.com/fanqiwan/fuseai)|
 |**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989v1](http://arxiv.org/abs/2408.07989v1)|[link](https://github.com/lilidamowang/iiu)|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|[link](https://github.com/thiqah/arablegaleval)|
@@ -64,12 +64,12 @@
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910v1](http://arxiv.org/abs/2408.07910v1)|null|
 |**2024-08-15**|**Assessing Language Models' Worldview for Fiction Generation**|Aisha Khatun et.al.|[2408.07904v1](http://arxiv.org/abs/2408.07904v1)|[link](https://github.com/tanny411/llm-reliability-and-consistency-evaluation)|
 |**2024-08-15**|**Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis**|Bingyu Li et.al.|[2408.07891v1](http://arxiv.org/abs/2408.07891v1)|[link](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis)|
-|**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888v1](http://arxiv.org/abs/2408.07888v1)|null|
+|**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888v1](http://arxiv.org/abs/2408.07888v1)|[link](https://github.com/Oxford-AI-for-Society/human-learning-strategies)|
 |**2024-08-15**|**Instruct Large Language Models to Generate Scientific Literature Survey Step by Step**|Yuxuan Lai et.al.|[2408.07884v1](http://arxiv.org/abs/2408.07884v1)|null|
 |**2024-08-15**|**Words Matter: Reducing Stigma in Online Conversations about Substance Use with Large Language Models**|Layla Bouzoubaa et.al.|[2408.07873v1](http://arxiv.org/abs/2408.07873v1)|null|
-|**2024-08-14**|**CON-FOLD -- Explainable Machine Learning with Confidence**|Lachlan McGinness et.al.|[2408.07854v1](http://arxiv.org/abs/2408.07854v1)|null|
+|**2024-08-14**|**CON-FOLD -- Explainable Machine Learning with Confidence**|Lachlan McGinness et.al.|[2408.07854v1](http://arxiv.org/abs/2408.07854v1)|[link](https://github.com/lachlanmcg123/confold)|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
-|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851v1](http://arxiv.org/abs/2408.07851v1)|null|
+|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851v1](http://arxiv.org/abs/2408.07851v1)|[link](https://github.com/spaghettiSystems/serval)|
 |**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846v1](http://arxiv.org/abs/2408.07846v1)|null|
 |**2024-08-14**|**Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**|Musa Taib et.al.|[2408.07845v1](http://arxiv.org/abs/2408.07845v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
@@ -82,14 +82,14 @@
 |**2024-08-14**|**Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**|Ivory Yang et.al.|[2408.07676v1](http://arxiv.org/abs/2408.07676v1)|null|
 |**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|null|
 |**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v2](http://arxiv.org/abs/2408.07666v2)|[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)|
-|**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665v1](http://arxiv.org/abs/2408.07665v1)|null|
+|**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665v1](http://arxiv.org/abs/2408.07665v1)|[link](https://github.com/dlion168/spoken_stereoset)|
 |**2024-08-14**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663v1](http://arxiv.org/abs/2408.07663v1)|[link](https://github.com/gigabaozi/aed)|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642v1](http://arxiv.org/abs/2408.07642v1)|null|
 |**2024-08-14**|**Hierarchical Working Memory and a New Magic Number**|Weishun Zhong et.al.|[2408.07637v1](http://arxiv.org/abs/2408.07637v1)|null|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636v1](http://arxiv.org/abs/2408.07636v1)|null|
 |**2024-08-14**|**Battery GraphNets : Relational Learning for Lithium-ion Batteries(LiBs) Life Estimation**|Sakhinana Sagar Srinivas et.al.|[2408.07624v1](http://arxiv.org/abs/2408.07624v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v1](http://arxiv.org/abs/2408.07611v1)|null|
-|**2024-08-14**|**Assessing the Role of Lexical Semantics in Cross-lingual Transfer through Controlled Manipulations**|Roy Ilani et.al.|[2408.07599v1](http://arxiv.org/abs/2408.07599v1)|null|
+|**2024-08-14**|**Assessing the Role of Lexical Semantics in Cross-lingual Transfer through Controlled Manipulations**|Roy Ilani et.al.|[2408.07599v1](http://arxiv.org/abs/2408.07599v1)|[link](https://github.com/roy54x/Lexical_semantics_in_cross-lingual_transfer)|
 |**2024-08-14**|**Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey**|Hamza Kheddar et.al.|[2408.07583v1](http://arxiv.org/abs/2408.07583v1)|null|
 |**2024-08-14**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726v1](http://arxiv.org/abs/2408.07726v1)|[link](https://github.com/nikita6187/transportplanningdataset)|
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
@@ -1667,7 +1667,7 @@ of our method.
 摘要：摘要。自動生成科學文獻調查是一項有價值的任務，可以顯著提高研究效率。然而，文獻調查中資訊的多樣性和複雜性對生成模型構成重大挑戰。在本文中，我們設計了一系列提示，以系統性地利用大型語言模型 (LLM)，通過逐步方法創建全面的文獻調查。具體來說，我們設計提示以引導 LLM 按順序生成標題、摘要、分層標題和文獻調查的主要內容。我們認為，這種設計能夠從高層次的角度生成標題。在內容生成過程中，這種設計有效利用相關資訊，同時通過限制 LLM 查詢中輸入和輸出內容的長度來最小化成本。我們使用 Qwen-long 的實作在 NLPCC 2024 科學文獻調查生成評估任務中獲得第三名，總分僅比第二名團隊低 0.03%。此外，我們的軟標題召回率為 95.84%，在提交的論文中排名第二。由於提示設計高效且 Qwen-long API 成本低，我們的的方法將生成每個文獻調查的費用降低到 0.1 元人民幣，提高了我們的方法的實用價值。
 
 ##### **Words Matter: Reducing Stigma in Online Conversations about Substance Use with Large Language Models**
-2408.07873v1 by Layla Bouzoubaa, Elham Aghakhani, Shadi Rezapour
+2408.07873v1 by Layla Bouzoubaa, Elham Aghakhani, Rezvaneh Rezapour
 
 Stigma is a barrier to treatment for individuals struggling with substance
 use disorders (SUD), which leads to significantly lower treatment engagement

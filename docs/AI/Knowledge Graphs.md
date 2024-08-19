@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782v1](http://arxiv.org/abs/2408.08782v1)|null|
+|**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
+|**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535v1](http://arxiv.org/abs/2408.08535v1)|null|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v1](http://arxiv.org/abs/2408.07611v1)|null|
@@ -99,11 +102,81 @@
 |**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
 |**2024-07-14**|**AutoGRAMS: Autonomous Graphical Agent Modeling Software**|Ben Krause et.al.|[2407.10049v1](http://arxiv.org/abs/2407.10049v1)|[link](https://github.com/autograms/autograms)|
 |**2024-07-13**|**FarFetched: Entity-centric Reasoning and Claim Validation for the Greek Language based on Textually Represented Environments**|Dimitris Papadopoulos et.al.|[2407.09888v1](http://arxiv.org/abs/2407.09888v1)|[link](https://github.com/lighteternal/farfetched_nlp)|
-|**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709v1](http://arxiv.org/abs/2407.09709v1)|[link](https://github.com/jiaruifeng/gofa)|
-|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|null|
-|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
 
 #### Abstracts
+##### **EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**
+2408.08782v1 by Chenwei Wan, Matthieu Labeau, Chloé Clavel
+
+Designing emotionally intelligent conversational systems to provide comfort
+and advice to people experiencing distress is a compelling area of research.
+Previous efforts have focused on developing modular dialogue systems that treat
+socio-emotional strategy prediction as an auxiliary task and generate
+strategy-conditioned responses with customized decoders. Recently, with
+advancements in large language models (LLMs), end-to-end dialogue agents
+without explicit socio-emotional strategy prediction steps have become
+prevalent. However, despite their excellence in language generation, recent
+studies show that LLMs' inherent preference bias towards certain
+socio-emotional strategies hinders the delivery of high-quality emotional
+support. To address this challenge, we propose decoupling strategy prediction
+from language generation, and introduce a novel dialogue strategy predictor,
+EmoDynamiX, which models the discourse dynamics between user emotions and
+system strategies using a heterogeneous graph. Additionally, we make use of the
+Emotion Recognition in Conversations (ERC) task and design a flexible
+mixed-emotion module to capture fine-grained emotional states of the user.
+Experimental results on two ESC datasets show EmoDynamiX outperforms previous
+state-of-the-art methods with a significant margin.
+
+摘要：設計情緒智能對話系統以提供安慰和建議給經歷痛苦的人是一個引人入勝的研究領域。
+先前的努力集中於開發模組化對話系統，將社會情緒策略預測視為輔助任務，並使用自訂解碼器產生策略條件化的回應。最近，隨著大型語言模型 (LLM) 的進步，沒有明確社會情緒策略預測步驟的端到端對話代理已變得普遍。然而，儘管它們在語言生成方面表現出色，但最近的研究表明，LLM 對某些社會情緒策略的固有偏好會阻礙提供高品質的情緒支持。為了應對這一挑戰，我們建議將策略預測與語言生成解耦，並引入一種新穎的對話策略預測器 EmoDynamiX，它使用異質圖形對使用者情緒和系統策略之間的話語動態進行建模。此外，我們利用對話中的情緒辨識 (ERC) 任務並設計了一個靈活的混合情緒模組來捕捉使用者的細緻情緒狀態。在兩個 ESC 資料集上的實驗結果顯示，EmoDynamiX 以顯著的幅度優於先前的最新方法。
+
+##### **Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**
+2408.08685v1 by Zhongjian Zhang, Xiao Wang, Huichi Zhou, Yue Yu, Mengmei Zhang, Cheng Yang, Chuan Shi
+
+Graph neural networks (GNNs) are vulnerable to adversarial perturbations,
+especially for topology attacks, and many methods that improve the robustness
+of GNNs have received considerable attention. Recently, we have witnessed the
+significant success of large language models (LLMs), leading many to explore
+the great potential of LLMs on GNNs. However, they mainly focus on improving
+the performance of GNNs by utilizing LLMs to enhance the node features.
+Therefore, we ask: Will the robustness of GNNs also be enhanced with the
+powerful understanding and inference capabilities of LLMs? By presenting the
+empirical results, we find that despite that LLMs can improve the robustness of
+GNNs, there is still an average decrease of 23.1% in accuracy, implying that
+the GNNs remain extremely vulnerable against topology attack. Therefore,
+another question is how to extend the capabilities of LLMs on graph adversarial
+robustness. In this paper, we propose an LLM-based robust graph structure
+inference framework, LLM4RGNN, which distills the inference capabilities of
+GPT-4 into a local LLM for identifying malicious edges and an LM-based edge
+predictor for finding missing important edges, so as to recover a robust graph
+structure. Extensive experiments demonstrate that LLM4RGNN consistently
+improves the robustness across various GNNs. Even in some cases where the
+perturbation ratio increases to 40%, the accuracy of GNNs is still better than
+that on the clean graph.
+
+摘要：圖形神經網路 (GNN) 容易受到對抗性擾動的影響，
+特別是拓撲攻擊，許多改善 GNN 魯棒性的方法都備受關注。最近，我們見證了大型語言模型 (LLM) 的顯著成功，導致許多人探索 LLM 在 GNN 上的巨大潛力。然而，他們主要專注於利用 LLM 增強節點特徵來改善 GNN 的效能。
+因此，我們問：LLM 強大的理解和推理能力是否也會增強 GNN 的魯棒性？透過呈現實證結果，我們發現儘管 LLM 可以改善 GNN 的魯棒性，但準確度仍平均下降 23.1%，這表示 GNN 仍然極容易受到拓撲攻擊。因此，另一個問題是如何擴展 LLM 在圖形對抗魯棒性上的能力。在本文中，我們提出一個基於 LLM 的魯棒圖形結構推理框架 LLM4RGNN，它將 GPT-4 的推理能力提煉成一個用於識別惡意邊緣的本地 LLM，以及一個用於尋找遺失重要邊緣的基於 LM 的邊緣預測器，以便恢復一個魯棒的圖形結構。廣泛的實驗證明，LLM4RGNN 持續改善各種 GNN 的魯棒性。即使在某些擾動率增加到 40% 的情況下，GNN 的準確度仍然優於乾淨圖形。
+
+##### **CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**
+2408.08535v1 by Rong-Ching Chang, Jiawei Zhang
+
+Despite advancements in Large Language Models (LLMs) and Retrieval-Augmented
+Generation (RAG) systems, their effectiveness is often hindered by a lack of
+integration with entity relationships and community structures, limiting their
+ability to provide contextually rich and accurate information retrieval for
+fact-checking. We introduce CommunityKG-RAG (Community Knowledge
+Graph-Retrieval Augmented Generation), a novel zero-shot framework that
+integrates community structures within Knowledge Graphs (KGs) with RAG systems
+to enhance the fact-checking process. Capable of adapting to new domains and
+queries without additional training, CommunityKG-RAG utilizes the multi-hop
+nature of community structures within KGs to significantly improve the accuracy
+and relevance of information retrieval. Our experimental results demonstrate
+that CommunityKG-RAG outperforms traditional methods, representing a
+significant advancement in fact-checking by offering a robust, scalable, and
+efficient solution.
+
+摘要：儘管大型語言模型 (LLM) 和檢索增強生成 (RAG) 系統有進步，但它們的有效性經常受到缺乏與實體關係和社群結構整合的阻礙，限制了它們提供脈絡豐富且準確的資訊檢索以進行事實查核的能力。我們介紹 CommunityKG-RAG（社群知識圖譜檢索增強生成），這是一個新穎的零次學習架構，它將知識圖譜 (KG) 內的社群結構與 RAG 系統整合，以增強事實查核流程。CommunityKG-RAG 無需額外訓練就能適應新的領域和查詢，它利用 KG 內社群結構的多跳特性，大幅提升資訊檢索的準確性和相關性。我們的實驗結果證明 CommunityKG-RAG 優於傳統方法，代表著事實查核的重大進步，提供了一個強健、可擴充且有效率的解決方案。
+
 ##### **Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**
 2408.07852v1 by Jiri Hron, Laura Culp, Gamaleldin Elsayed, Rosanne Liu, Ben Adlam, Maxwell Bileschi, Bernd Bohnet, JD Co-Reyes, Noah Fiedel, C. Daniel Freeman, Izzeddin Gur, Kathleen Kenealy, Jaehoon Lee, Peter J. Liu, Gaurav Mishra, Igor Mordatch, Azade Nova, Roman Novak, Aaron Parisi, Jeffrey Pennington, Alex Rizkowsky, Isabelle Simpson, Hanie Sedghi, Jascha Sohl-dickstein, Kevin Swersky, Sharad Vikram, Tris Warkentin, Lechao Xiao, Kelvin Xu, Jasper Snoek, Simon Kornblith
 
@@ -2409,80 +2482,4 @@ of relevant semantic textual similarity (STS) and natural language inference
 (NLI) models that are evaluated on translated versions of common benchmarks.
 
 摘要：網路資訊的洪流縮短了我們的集體注意力時間。透過 \textit{FarFetched}，我們解決了根據從多個線上新聞來源彙總的證據進行自動化聲明驗證的需求。我們引入了一個以實體為中心的推理框架，其中事件、動作或陳述之間的潛在關聯透過實體提及被揭露，並在圖形資料庫中表示。使用實體連結和語義相似性，我們提供一種方式來收集和組合來自不同來源的資訊，以產生與使用者聲明相關的證據。然後，我們利用文本蘊涵識別來根據建立的證據量化確定此斷言是否可信。我們的做法試圖填補資源較少的語言的自動化聲明驗證方面的空白，並在希臘語中展示，輔以對相關語義文本相似性 (STS) 和自然語言推論 (NLI) 模型的訓練，這些模型在常見基準的翻譯版本上進行評估。
-
-##### **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**
-2407.09709v1 by Lecheng Kong, Jiarui Feng, Hao Liu, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang
-
-Foundation models, such as Large Language Models (LLMs) or Large Vision
-Models (LVMs), have emerged as one of the most powerful tools in the respective
-fields. However, unlike text and image data, graph data do not have a
-definitive structure, posing great challenges to developing a Graph Foundation
-Model (GFM). For example, current attempts at designing general graph models
-either transform graph data into a language format for LLM-based prediction or
-still train a GNN model with LLM as an assistant. The former can handle
-unlimited tasks, while the latter captures graph structure much better -- yet,
-no existing work can achieve both simultaneously. In this paper, we identify
-three key desirable properties of a GFM: self-supervised pretraining, fluidity
-in tasks, and graph awareness. To account for these properties, we extend the
-conventional language modeling to the graph domain and propose a novel
-generative graph language model GOFA to solve the problem. The model
-interleaves randomly initialized GNN layers into a frozen pre-trained LLM so
-that the semantic and structural modeling abilities are organically combined.
-GOFA is pre-trained on newly proposed graph-level next-word prediction,
-question-answering, and structural tasks to obtain the above GFM properties.
-The pre-trained model is further fine-tuned on downstream tasks to obtain
-task-solving ability. The fine-tuned model is evaluated on various downstream
-tasks, demonstrating a strong ability to solve structural and contextual
-problems in zero-shot scenarios. The code is available at
-https://github.com/JiaruiFeng/GOFA.
-
-摘要：基礎模型，例如大型語言模型 (LLM) 或大型視覺模型 (LVM)，已成為各自領域中最有力的工具之一。然而，與文本和影像資料不同，圖形資料沒有明確的結構，對開發圖形基礎模型 (GFM) 構成極大的挑戰。例如，目前設計通用圖形模型的嘗試，不是將圖形資料轉換為語言格式以供基於 LLM 的預測，就是訓練 GNN 模型，並以 LLM 作為輔助。前者可以處理無限的任務，而後者可以更好地擷取圖形結構，但現有的工作無法同時達成這兩者。在本文中，我們找出 GFM 的三個關鍵理想特性：自我監督預訓練、任務流暢度和圖形感知。為了考量這些特性，我們將傳統的語言建模擴充到圖形領域，並提出一個新穎的生成式圖形語言模型 GOFA 來解決問題。此模型將隨機初始化的 GNN 層交錯插入凍結的預訓練 LLM 中，以便語意和結構建模能力有機結合。GOFA 採用新提出的圖形層級下一個字預測、問答和結構任務進行預訓練，以取得上述 GFM 特性。預訓練模型進一步在下游任務上進行微調，以取得解決任務的能力。微調模型在各種下游任務上進行評估，證明了在零次學習場景中解決結構和上下文問題的強大能力。程式碼可在 https://github.com/JiaruiFeng/GOFA 取得。
-
-##### **Human-like Episodic Memory for Infinite Context LLMs**
-2407.09450v1 by Zafeirios Fountas, Martin A Benfeghoul, Adnan Oomerjee, Fenia Christopoulou, Gerasimos Lampouras, Haitham Bou-Ammar, Jun Wang
-
-Large language models (LLMs) have shown remarkable capabilities, but still
-struggle with processing extensive contexts, limiting their ability to maintain
-coherence and accuracy over long sequences. In contrast, the human brain excels
-at organising and retrieving episodic experiences across vast temporal scales,
-spanning a lifetime. In this work, we introduce EM-LLM, a novel approach that
-integrates key aspects of human episodic memory and event cognition into LLMs,
-enabling them to effectively handle practically infinite context lengths while
-maintaining computational efficiency. EM-LLM organises sequences of tokens into
-coherent episodic events using a combination of Bayesian surprise and
-graph-theoretic boundary refinement in an on-line fashion. When needed, these
-events are retrieved through a two-stage memory process, combining
-similarity-based and temporally contiguous retrieval for efficient and
-human-like access to relevant information. Experiments on the LongBench dataset
-demonstrate EM-LLM's superior performance, outperforming the state-of-the-art
-InfLLM model with an overall relative improvement of 4.3% across various tasks,
-including a 33% improvement on the PassageRetrieval task. Furthermore, our
-analysis reveals strong correlations between EM-LLM's event segmentation and
-human-perceived events, suggesting a bridge between this artificial system and
-its biological counterpart. This work not only advances LLM capabilities in
-processing extended contexts but also provides a computational framework for
-exploring human memory mechanisms, opening new avenues for interdisciplinary
-research in AI and cognitive science.
-
-摘要：大型語言模型 (LLM) 已展現出非凡的能力，但仍難以處理廣泛的脈絡，這限制了它們在長序列中維持連貫性和準確性的能力。相較之下，人腦擅長在廣大的時間尺度上組織和提取情節體驗，跨越一生。在這項工作中，我們引入了 EM-LLM，這是一種新穎的方法，它將人類情節記憶和事件認知的關鍵面向整合到 LLM 中，讓它們能夠有效地處理實際上無限的脈絡長度，同時維持運算效率。EM-LLM 使用貝氏驚喜和圖論邊界精煉的組合，以線上方式將序列標記組織成連貫的情節事件。在需要時，這些事件會透過兩階段的記憶過程來提取，結合基於相似性和時間連續性的提取，以有效且類似人類的方式存取相關資訊。在 LongBench 資料集上的實驗證明了 EM-LLM 的卓越效能，在各種任務中優於最先進的 InfLLM 模型，在 PassageRetrieval 任務中改進了 33%。此外，我們的分析揭示了 EM-LLM 的事件分割與人類感知事件之間的強相關性，顯示了這個人工系統與其生物對應物之間的橋樑。這項工作不僅提升了 LLM 在處理延伸脈絡方面的能力，也提供了一個運算架構來探索人類記憶機制，為 AI 和認知科學的跨領域研究開啟了新的途徑。
-
-##### **The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**
-2407.09441v1 by Matteo Belenchia, Flavio Corradini, Michela Quadrini, Michele Loreti
-
-Graph neural networks form a class of deep learning architectures
-specifically designed to work with graph-structured data. As such, they share
-the inherent limitations and problems of deep learning, especially regarding
-the issues of explainability and trustworthiness. We propose $\mu\mathcal{G}$,
-an original domain-specific language for the specification of graph neural
-networks that aims to overcome these issues. The language's syntax is
-introduced, and its meaning is rigorously defined by a denotational semantics.
-An equivalent characterization in the form of an operational semantics is also
-provided and, together with a type system, is used to prove the type soundness
-of $\mu\mathcal{G}$. We show how $\mu\mathcal{G}$ programs can be represented
-in a more user-friendly graphical visualization, and provide examples of its
-generality by showing how it can be used to define some of the most popular
-graph neural network models, or to develop any custom graph processing
-application.
-
-摘要：圖形神經網路形成一類深度學習架構，特別設計用於處理圖形結構化的資料。因此，它們具有深度學習固有的限制和問題，特別是在可解釋性和可信賴性問題上。我們提出 $\mu\mathcal{G}$，一種用於指定圖形神經網路的原創領域特定語言，旨在克服這些問題。引入了語言的語法，並透過指示語義嚴格定義其含義。還提供了運算語義形式的等效特徵描述，並與類型系統一起用於證明 $\mu\mathcal{G}$ 的類型健全性。我們展示了如何將 $\mu\mathcal{G}$ 程式表示為更友善的圖形視覺化，並透過展示如何使用它定義一些最流行的圖形神經網路模型或開發任何自訂圖形處理應用程式，來提供其通用性的範例。
 

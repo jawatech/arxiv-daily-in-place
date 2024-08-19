@@ -16,7 +16,7 @@
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216v1](http://arxiv.org/abs/2408.08216v1)|null|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215v1](http://arxiv.org/abs/2408.08215v1)|null|
 |**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214v1](http://arxiv.org/abs/2408.08214v1)|[link](https://github.com/oscardilley/federated-fairness)|
-|**2024-08-15**|**Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v1](http://arxiv.org/abs/2408.08212v1)|null|
+|**2024-08-15**|**Covert Bias: The Severity of Social Views' Unalignment in Language Models Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v2](http://arxiv.org/abs/2408.08212v2)|null|
 |**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208v1](http://arxiv.org/abs/2408.08208v1)|null|
 |**2024-08-15**|**Scaling Up Natural Language Understanding for Multi-Robots Through the Lens of Hierarchy**|Shaojun Xu et.al.|[2408.08188v1](http://arxiv.org/abs/2408.08188v1)|null|
 |**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
@@ -59,7 +59,7 @@
 |**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947v1](http://arxiv.org/abs/2408.07947v1)|null|
 |**2024-08-15**|**Solving a Rubik's Cube Using its Local Graph Structure**|Shunyu Yao et.al.|[2408.07945v1](http://arxiv.org/abs/2408.07945v1)|null|
 |**2024-08-15**|**Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning**|Haofeng Liu et.al.|[2408.07931v1](http://arxiv.org/abs/2408.07931v1)|null|
-|**2024-08-15**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930v1](http://arxiv.org/abs/2408.07930v1)|null|
+|**2024-08-15**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930v2](http://arxiv.org/abs/2408.07930v2)|null|
 |**2024-08-15**|**CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Improving Temporal Knowledge Graph Extrapolation Reasoning**|Jinze Sun et.al.|[2408.07911v1](http://arxiv.org/abs/2408.07911v1)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910v1](http://arxiv.org/abs/2408.07910v1)|null|
 |**2024-08-15**|**Assessing Language Models' Worldview for Fiction Generation**|Aisha Khatun et.al.|[2408.07904v1](http://arxiv.org/abs/2408.07904v1)|[link](https://github.com/tanny411/llm-reliability-and-consistency-evaluation)|
@@ -70,7 +70,7 @@
 |**2024-08-14**|**CON-FOLD -- Explainable Machine Learning with Confidence**|Lachlan McGinness et.al.|[2408.07854v1](http://arxiv.org/abs/2408.07854v1)|[link](https://github.com/lachlanmcg123/confold)|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851v1](http://arxiv.org/abs/2408.07851v1)|[link](https://github.com/spaghettiSystems/serval)|
-|**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846v1](http://arxiv.org/abs/2408.07846v1)|null|
+|**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846v2](http://arxiv.org/abs/2408.07846v2)|null|
 |**2024-08-14**|**Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**|Musa Taib et.al.|[2408.07845v1](http://arxiv.org/abs/2408.07845v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**An Efficient and Explanatory Image and Text Clustering System with Multimodal Autoencoder Architecture**|Tiancheng Shi et.al.|[2408.07791v1](http://arxiv.org/abs/2408.07791v1)|null|
@@ -435,12 +435,12 @@ https://github.com/oscardilley/federated-fairness.
 透過在本地訓練模型並彙總更新，聯盟可以共同學習，同時繞過集中式資料收集。FL 在醫療保健、金融和個人運算中越來越受歡迎。然而，它繼承了傳統機器學習的公平性挑戰，並引入了新的挑戰，這些挑戰源於資料品質、客戶端參與、通訊限制、彙總方法和基礎硬體的差異。公平性仍然是 FL 中一個尚未解決的問題，而社群已發現缺乏簡潔的定義和衡量公平性的指標；為了解決這個問題，我們提出聯邦公平性分析，一種用於衡量公平性的方法。我們對公平性的定義包含四個概念，並有新穎的對應指標。它們被症狀性地定義，並利用源自 XAI、合作博弈論和網路工程的技術。我們測試了一系列實驗設定，改變了 FL 方法、機器學習任務和資料設定。結果表明，統計異質性和客戶端參與會影響公平性，而重視公平性的方法，例如 Ditto 和 q-FedAvg，則會略微改善公平性與效能的權衡。透過使用我們的技術，FL 從業人員可以發掘以前無法獲得的對其系統公平性的見解，在不同的細化層級中，以解決 FL 中的公平性挑戰。我們已在以下位置開放原始碼：
 https://github.com/oscardilley/federated-fairness。</paragraph>
 
-##### **Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion**
-2408.08212v1 by Abeer Aldayel, Areej Alokaili, Rehab Alahmadi
+##### **Covert Bias: The Severity of Social Views' Unalignment in Language Models Towards Implicit and Explicit Opinion**
+2408.08212v2 by Abeer Aldayel, Areej Alokaili, Rehab Alahmadi
 
 While various approaches have recently been studied for bias identification,
 little is known about how implicit language that does not explicitly convey a
-viewpoint affects bias amplification in large language models.To examine the
+viewpoint affects bias amplification in large language models. To examine the
 severity of bias toward a view, we evaluated the performance of two downstream
 tasks where the implicit and explicit knowledge of social groups were used.
 First, we present a stress test evaluation by using a biased model in edge
@@ -455,9 +455,9 @@ responses of the unaligned models suggest a need for further refinement of
 decisiveness by incorporating uncertainty markers to enhance their reliability,
 especially on socially nuanced topics with high subjectivity.
 
-摘要：儘管最近已針對偏差辨識研究出各種方法，
-但對於未明確傳達觀點的隱含語言如何影響大型語言模型中的偏差放大，目前所知甚少。為檢視觀點偏差的嚴重性，我們評估了兩個下游任務的效能，其中使用了社會群體的隱含和明確知識。
-首先，我們使用有偏差模型在過度偏差情境的邊緣案例中，提出壓力測試評估。然後，我們評估 LLM 在與相互衝突的觀點一致時，如何對隱含和明確意見在語言上進行校準。我們的研究結果揭示了 LLM 在辨識隱含和明確意見方面的效能差異，通常傾向於對反對立場的明確意見產生偏差。此外，與未對齊（零次學習）基礎模型相比，偏差對齊模型使用不確定性詞彙產生更謹慎的回應。未對齊模型的直接、魯莽回應表明需要進一步改進決斷力，方法是加入不確定性標記以增強其可靠性，特別是在主觀性高的社會細微差別主題上。
+摘要：儘管最近已研究各種偏見識別方法，
+但對於不顯式傳達觀點的隱含語言如何影響大型語言模型中的偏見放大，我們所知甚少。為了檢視觀點偏見的嚴重性，我們評估了下游兩個任務的表現，其中使用了社會群體的隱含和顯式知識。
+首先，我們透過在過度偏見情境中使用偏見模型，提出壓力測試評估。然後，我們評估 LLM 在與衝突觀點一致時，如何對隱含和顯式意見進行語言校準。我們的研究結果揭示了 LLM 在識別隱含和顯式意見方面的表現差異，通常傾向於對反對立場的顯式意見產生偏見。此外，與未對齊（零次學習）基礎模型相比，偏見對齊模型使用不確定性詞彙產生更謹慎的回應。未對齊模型的直接、魯莽回應表明需要進一步完善決斷力，方法是納入不確定性標記以提高其可靠性，特別是在具有高度主觀性的社會細微差別主題上。
 
 ##### **LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**
 2408.08208v1 by Bohao Wang, Feng Liu, Jiawei Chen, Yudi Wu, Xingyu Lou, Jun Wang, Yan Feng, Chun Chen, Can Wang
@@ -1478,7 +1478,7 @@ in resource-constrained environments a feasible reality.
 摘要：手術影片分割是電腦輔助手術中的一項重要任務，對於提升手術品質和患者預後至關重要。最近，Segment Anything Model 2 (SAM2) 框架在影像和影片分割方面展現出卓越的進步。然而，SAM2 在處理高解析度影像和手術影片中複雜且長程的時間動態時，由於運算需求高，因此在效率方面有所掙扎。為了應對這些挑戰，我們引入了手術 SAM 2 (SurgSAM-2)，這是一個進階模型，結合 SAM2 與高效度影像剔除 (EFP) 機制，以促進即時手術影片分割。EFP 機制透過選擇性地僅保留資訊量最高的影像，動態管理記憶體庫，在維持高分割精確度的同時，減少記憶體使用量和運算成本。我們廣泛的實驗證明，與原始 SAM2 相比，SurgSAM-2 在效率和分割精確度方面都有顯著的提升。值得注意的是，SurgSAM-2 的 FPS 比 SAM2 高出 3 倍，同時在使用低解析度資料進行微調後，也提供了最先進的效能。這些進展確立了 SurgSAM-2 作為手術影片分析的領先模型，使在資源受限的環境中進行即時手術影片分割成為可行的現實。
 
 ##### **MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**
-2408.07930v1 by Wenxuan Xie, Gaochen Wu, Bowen Zhou
+2408.07930v2 by Wenxuan Xie, Gaochen Wu, Bowen Zhou
 
 Recent In-Context Learning based methods have achieved remarkable success in
 Text-to-SQL task. However, there is still a large gap between the performance
@@ -1495,11 +1495,11 @@ iterative generating module which includes a Sub-SQL Generator and Sub-SQL
 Refiner, introducing external oversight for each step of generation. Through a
 series of ablation studies, the effectiveness of each agent in our framework
 has been demonstrated. When evaluated on the BIRD benchmark with GPT-4, MAG-SQL
-achieves an execution accuracy of 61.08\%, compared to the baseline accuracy of
-46.35\% for vanilla GPT-4 and the baseline accuracy of 57.56\% for MAC-SQL.
+achieves an execution accuracy of 61.08%, compared to the baseline accuracy of
+46.35% for vanilla GPT-4 and the baseline accuracy of 57.56% for MAC-SQL.
 Besides, our approach makes similar progress on Spider.
 
-摘要：<paragraph>最近基於語境學習的方法已在文字轉 SQL 任務中取得顯著的成功。然而，這些模型的效能與人類在具有複雜資料庫架構和困難問題（例如 BIRD）的資料集上的效能之間仍有很大的差距。此外，現有工作在使用問題分解方法反覆解決問題時，忽略了對中間步驟的監督，並且這些工作中使用的架構連結方法非常基本。為了解決這些問題，我們提出了 MAG-SQL，這是一種具有軟架構連結和反覆子 SQL 精煉的多代理生成方法。在我們的框架中，使用具有表格摘要的基於實體的方法來選擇資料庫中的欄位，並引入一種新穎的目標條件分解方法來分解那些複雜的問題。此外，我們建立了一個反覆生成模組，其中包括一個子 SQL 產生器和子 SQL 精煉器，為生成的每一步引入外部監督。通過一系列消融研究，證明了我們框架中每個代理的有效性。在使用 GPT-4 對 BIRD 基準進行評估時，與純粹 GPT-4 的基準準確度 46.35% 和 MAC-SQL 的基準準確度 57.56% 相比，MAG-SQL 達到了 61.08% 的執行準確度。此外，我們的做法在 Spider 上取得了類似的進展。</paragraph>
+摘要：最近基于情境学习的方法在文本到 SQL 任务中取得了显著的成功。然而，在具有复杂数据库架构和困难问题（例如 BIRD）的数据集上，这些模型的性能与人类的性能之间仍然存在很大差距。此外，现有工作在使用问题分解方法迭代解决问题时忽视了对中间步骤的监督，并且这些工作中使用的模式链接方法非常基础。为了解决这些问题，我们提出了 MAG-SQL，这是一种具有软模式链接和迭代子 SQL 精炼的多代理生成方法。在我们的框架中，使用带有表摘要的基于实体的方法来选择数据库中的列，并引入了一种新颖的目标条件分解方法来分解那些复杂的问题。此外，我们构建了一个迭代生成模块，其中包括一个子 SQL 生成器和子 SQL 精炼器，为生成的每个步骤引入了外部监督。通过一系列消融研究，证明了我们框架中每个代理的有效性。在使用 GPT-4 对 BIRD 基准进行评估时，MAG-SQL 的执行准确率达到 61.08%，而香草 GPT-4 的基线准确率为 46.35%，MAC-SQL 的基线准确率为 57.56%。此外，我们的方法在 Spider 上取得了类似的进展。
 
 ##### **CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Improving Temporal Knowledge Graph Extrapolation Reasoning**
 2408.07911v1 by Jinze Sun, Yongpan Sheng, Lirong He
@@ -1752,7 +1752,7 @@ direction.
 摘要：語音情緒辨識 (SER) 已隨著強大的自我監督式學習 (SSL) 模型的出現，取得顯著進展。然而，這些模型在不同語言和情緒表達上的概化能力，仍然是一項挑戰。我們提出一個大規模基準，以評估最先進 SER 模型在領域內和領域外設定中，的穩健性和適應性。我們的基準包含一套多元的多語言資料集，專注於評估對新資料的概化能力，較不常用的語料庫。我們採用邏輯調整來考量不同的類別分佈，並建立一個單一的資料集叢集，進行系統評估。令人驚訝的是，我們發現主要設計用於自動語音辨識的 Whisper 模型，在跨語言 SER 中表現優於專屬的 SSL 模型。我們的結果突顯了對更穩健和更具概化能力的 SER 模型的需求，而我們的基準作為一個有價值的資源，推動了未來在這個方向的研究。
 
 ##### **A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**
-2408.07846v1 by Andrea Lops, Fedelucio Narducci, Azzurra Ragone, Michelantonio Trizio, Claudio Bartolini
+2408.07846v2 by Andrea Lops, Fedelucio Narducci, Azzurra Ragone, Michelantonio Trizio, Claudio Bartolini
 
 Unit tests represent the most basic level of testing within the software
 testing lifecycle and are crucial to ensuring software correctness. Designing
@@ -1771,15 +1771,15 @@ tests executed and reduces overall efficiency. To address these gaps, we have
 developed an approach for generating and evaluating more real-life complexity
 test suites. Our approach focuses on class-level test code generation and
 automates the entire process from test generation to test assessment. In this
-work, we present \textsc{AgoneTest}: an automated system for generating test
-suites for Java projects and a comprehensive and principled methodology for
-evaluating the generated test suites. Starting from a state-of-the-art dataset
-(i.e., \textsc{Methods2Test}), we built a new dataset for comparing
-human-written tests with those generated by LLMs. Our key contributions include
-a scalable automated software system, a new dataset, and a detailed methodology
-for evaluating test quality.
+work, we present AgoneTest: an automated system for generating test suites for
+Java projects and a comprehensive and principled methodology for evaluating the
+generated test suites. Starting from a state-of-the-art dataset (i.e.,
+Methods2Test), we built a new dataset for comparing human-written tests with
+those generated by LLMs. Our key contributions include a scalable automated
+software system, a new dataset, and a detailed methodology for evaluating test
+quality.
 
-摘要：單元測試代表軟體測試生命週期中測試的最基本層級，對於確保軟體正確性至關重要。設計和建立單元測試是一項成本高昂且勞力密集的程序，非常適合自動化。最近，大型語言模型 (LLM) 已應用於軟體開發的各個方面，包括單元測試產生。儘管有幾項實證研究評估 LLM 在測試程式碼產生中的能力，但它們主要著重於簡單的場景，例如針對個別方法產生單元測試。這些評估通常涉及獨立且小規模的測試單元，提供 LLM 在真實軟體開發場景中效能的有限視野。此外，先前的研究並未以適合實際應用程式規模的方式來探討問題。產生的單元測試通常透過手動整合到原始專案中來評估，這個程序限制了執行測試的數量，並降低了整體效率。為了解決這些差距，我們已開發出一種方法來產生和評估更真實複雜性的測試套件。我們的做法著重於類別層級的測試程式碼產生，並自動化從測試產生到測試評估的整個程序。在這項工作中，我們提出 \textsc{AgoneTest}：一個用於為 Java 專案產生測試套件的自動化系統，以及一個用於評估產生測試套件的全面且有原則的方法。從最先進的資料集 (即 \textsc{Methods2Test}) 開始，我們建立了一個新的資料集，用於比較人為編寫的測試與 LLM 產生的測試。我們的關鍵貢獻包括一個可擴充的自動化軟體系統、一個新的資料集，以及一個用於評估測試品質的詳細方法。
+摘要：單元測試代表軟體測試生命週期內最基本的測試層級，對於確保軟體正確性至關重要。設計和建立單元測試是一個成本高且勞力密集的程序，非常適合自動化。最近，大型語言模型 (LLM) 已應用於軟體開發的各個方面，包括單元測試產生。儘管有幾項評估 LLM 在測試程式碼產生中能力的實證研究，但它們主要關注於簡單的場景，例如為個別方法產生單元測試。這些評估通常涉及獨立且小規模的測試單元，提供 LLM 在實際軟體開發場景中的效能的有限視角。此外，先前的研究並未以適合於實際應用程式的規模來探討問題。產生的單元測試通常透過手動整合到原始專案中來評估，這個程序限制了執行的測試數量並降低了整體效率。為了解決這些差距，我們已開發出產生和評估更多實際複雜性測試套件的方法。我們的做法專注於類別層級測試程式碼產生，並自動化從測試產生到測試評估的整個流程。在這項工作中，我們提出 AgoneTest：一個用於為 Java 專案產生測試套件的自動化系統，以及一個用於評估產生測試套件的全面且有原則的方法。從最先進的資料集 (即 Methods2Test) 開始，我們建立了一個新的資料集，用於比較人類編寫的測試與 LLM 產生的測試。我們的關鍵貢獻包括一個可擴充的自動化軟體系統、一個新的資料集，以及一個用於評估測試品質的詳細方法。
 
 ##### **Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**
 2408.07845v1 by Musa Taib, Jiajun Wu, Steve Drew, Geoffrey G. Messier

@@ -30,7 +30,7 @@
 |**2024-08-11**|**A Novel Momentum-Based Deep Learning Techniques for Medical Image Classification and Segmentation**|Koushik Biswas et.al.|[2408.05692v1](http://arxiv.org/abs/2408.05692v1)|null|
 |**2024-08-10**|**Mitigating Metropolitan Carbon Emissions with Dynamic Eco-driving at Scale**|Vindula Jayawardana et.al.|[2408.05609v1](http://arxiv.org/abs/2408.05609v1)|null|
 |**2024-08-09**|**Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**|Shouyue Liu et.al.|[2408.05117v1](http://arxiv.org/abs/2408.05117v1)|null|
-|**2024-08-09**|**RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**|Sangjoon Park et.al.|[2408.05074v1](http://arxiv.org/abs/2408.05074v1)|null|
+|**2024-08-09**|**RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**|Sangjoon Park et.al.|[2408.05074v2](http://arxiv.org/abs/2408.05074v2)|null|
 |**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949v1](http://arxiv.org/abs/2408.04949v1)|[link](https://github.com/gianlucarloni/crocodile)|
 |**2024-08-09**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910v3](http://arxiv.org/abs/2408.04910v3)|[link](https://github.com/TheOpenSI/cognitive_AI_experiments)|
 |**2024-08-09**|**Ensemble BERT: A student social network text sentiment classification model based on ensemble learning and BERT architecture**|Kai Jiang et.al.|[2408.04849v1](http://arxiv.org/abs/2408.04849v1)|null|
@@ -52,7 +52,7 @@
 |**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|[link](https://github.com/Jeanselme/CausalNeuralSurvivalClustering)|
 |**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405v1](http://arxiv.org/abs/2408.03405v1)|[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)|
 |**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
-|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v2](http://arxiv.org/abs/2408.03208v2)|null|
 |**2024-08-06**|**The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**|Vanessa Clairoux-Trepanier et.al.|[2408.03354v2](http://arxiv.org/abs/2408.03354v2)|null|
 |**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888v1](http://arxiv.org/abs/2408.02888v1)|null|
 |**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865v1](http://arxiv.org/abs/2408.02865v1)|[link](https://github.com/HUANGLIZI/VisionUnite)|
@@ -61,7 +61,7 @@
 |**2024-08-05**|**A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**|Zheng Han et.al.|[2408.02713v1](http://arxiv.org/abs/2408.02713v1)|null|
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
-|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
+|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v2](http://arxiv.org/abs/2408.02349v2)|null|
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|[link](https://github.com/jihyechoi77/malade)|
@@ -838,7 +838,7 @@ discriminative patterns.
 摘要：早期偵測失智症，例如阿茲海默症 (AD) 或輕度認知障礙 (MCI)，對於及時介入和潛在治療至關重要。由於目前診斷技術的複雜性高、成本高，且常常具有侵入性，因此準確偵測 AD/MCI 極具挑戰性，這也限制了其用於大規模人群篩檢的適用性。考量到視網膜和腦部具有相同的胚胎起源和生理特性，視網膜影像正逐漸成為一種潛在的快速且具成本效益的替代方案，用於找出罹患 AD 或具有高風險的個人。在本文中，我們提出了一種創新的 PolarNet+，它使用視網膜光學相干斷層血管造影 (OCTA) 來區分早發性 AD (EOAD) 和 MCI 受試者與對照組。我們的做法首先將 OCTA 影像從笛卡爾坐標轉換為極坐標，讓近似子區域計算得以實作，進而執行對臨床醫師友善的糖尿病視網膜病變早期治療研究 (ETDRS) 格線分析。接著，我們引入一個多視圖模組，用於串列化並沿著三個向度分析影像，以進行全面的、臨床上有用的資訊萃取。最後，我們將序列嵌入抽象化為一個圖形，將偵測任務轉換為一個通用的圖形分類問題。在多視圖模組後應用區域關係模組，以探討子區域之間的關係。此類區域關係分析驗證了已知的視網膜與腦部關聯，並揭示了新的判別模式。
 
 ##### **RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**
-2408.05074v1 by Sangjoon Park, Chan Woo Wee, Seo Hee Choi, Kyung Hwan Kim, Jee Suk Chang, Hong In Yoon, Ik Jae Lee, Yong Bae Kim, Jaeho Cho, Ki Chang Keum, Chang Geol Lee, Hwa Kyung Byun, Woong Sub Koom
+2408.05074v2 by Sangjoon Park, Chan Woo Wee, Seo Hee Choi, Kyung Hwan Kim, Jee Suk Chang, Hong In Yoon, Ik Jae Lee, Yong Bae Kim, Jaeho Cho, Ki Chang Keum, Chang Geol Lee, Hwa Kyung Byun, Woong Sub Koom
 
 Accurate patient selection is critical in radiotherapy (RT) to prevent
 ineffective treatments. Traditional survival prediction models, relying on
@@ -866,7 +866,7 @@ that general-domain LLMs, even without specific medical training, can
 effectively structure large-scale unstructured EHR data, substantially
 enhancing the accuracy and interpretability of clinical predictive models.
 
-摘要：<paragraph>在放射治療中，準確的患者選擇至關重要，以防止無效的治療。傳統的存活預測模型依賴於結構化資料，通常缺乏精確度。本研究探討了大型語言模型 (LLM) 結構化非結構化電子健康記錄 (EHR) 資料的潛力，從而通過全面的臨床資訊整合來提高存活預測準確度。分析了 2013 年至 2023 年間在延世癌症中心接受放射治療的 34,276 名患者的資料，包括結構化和非結構化資料。使用開源 LLM 通過單次學習來結構化非結構化 EHR 資料，並將其效能與特定領域的醫療 LLM 和較小的變體進行比較。存活預測模型是使用統計、機器學習和深度學習方法開發的，結合了結構化和 LLM 結構化的資料。臨床專家評估了 LLM 結構化資料的準確性。開源 LLM 在不進行額外訓練的情況下，結構化非結構化 EHR 資料的準確度達到 87.5%，顯著優於特定領域的醫療 LLM，後者的準確度僅達到 35.8%。較大的 LLM 更有效，特別是在提取臨床相關特徵方面，例如一般狀況和疾病程度，這與患者存活率密切相關。將 LLM 結構化的臨床特徵納入存活預測模型顯著提高了準確性，深度學習模型的 C 指數從 0.737 提高到 0.820。這些模型也變得更具可解釋性，因為它們強調了臨床上重要的因素。本研究表明，即使沒有具體的醫療訓練，通用領域的 LLM 也可以有效地結構化大規模的非結構化 EHR 資料，從而顯著提高臨床預測模型的準確性和可解釋性。</paragraph>
+摘要：<paragraph>在放射治療 (RT) 中，準確的患者選擇至關重要，以防止無效的治療。傳統的存活預測模型依賴於結構化數據，往往缺乏精確性。本研究探討了大型語言模型 (LLM) 將非結構化電子健康記錄 (EHR) 數據結構化的潛力，從而通過全面的臨床信息整合來提高存活預測的準確性。對 2013 年至 2023 年間在延世癌症中心接受 RT 治療的 34,276 名患者的數據進行了分析，包括結構化和非結構化數據。使用開源 LLM 通過單次學習來構造非結構化 EHR 數據，並將其性能與特定領域的醫療 LLM 和較小的變體進行了比較。存活預測模型是使用統計、機器學習和深度學習方法開發的，結合了結構化和 LLM 結構化的數據。臨床專家評估了 LLM 結構化數據的準確性。開源 LLM 在沒有額外訓練的情況下，在結構化非結構化 EHR 數據方面達到了 87.5% 的準確度，顯著優於特定領域的醫療 LLM，後者的準確度僅為 35.8%。更大的 LLM 更有效，特別是在提取臨床相關特徵方面，如一般狀況和疾病程度，這與患者存活率密切相關。將 LLM 結構化的臨床特徵納入存活預測模型顯著提高了準確性，深度學習模型的 C 指數從 0.737 增加到 0.820。這些模型也變得更具可解釋性，因為它們強調了臨床上重要的因素。本研究表明，即使沒有具體的醫學訓練，通用領域的 LLM 也可以有效地構造大規模的非結構化 EHR 數據，從而顯著提高臨床預測模型的準確性和可解釋性。</paragraph>
 
 ##### **CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**
 2408.04949v1 by Gianluca Carloni, Sotirios A Tsaftaris, Sara Colantonio
@@ -1373,7 +1373,7 @@ outcomes.
 準確地偵測 AD，特別是在早期階段，代表一項高度的研究優先事項。AD 的特徵是會逐漸認知功能受損，這與腦部功能連接性 (FC) 的改變有關。基於這種關聯，在過去的數十年中，許多研究已使用 FC 和機器學習來區分 AD 和健康老化。這種偵測方法的最新發展，突顯了使用圖神經網路 (GNN) 作為腦部功能分析。在本文中，我們提出了一個堆疊的時空特徵萃取和圖形生成，基於 AD 分類模型，使用靜止狀態 fMRI。所提出的多層級生成連接組 (MLC) 基於圖形卷積網路 (GCN) (MLC-GCN) 包含一個多圖形生成區塊和一個 GCN 預測區塊。多圖形生成區塊包含一個時空特徵萃取層的階層，用於萃取不同深度下的時空 rsfMRI 特徵，並建立對應的連接組。GCN 預測區塊採用已學習的多層級連接組，在每個層級建立並最佳化 GCN，並將已學習的圖形特徵串聯成用於 AD 分類的最終預測特徵。透過獨立的群組驗證，MLC-GCN 在區分 MCI、AD 和正常老化方面，表現優於最先進的 GCN 和基於 rsfMRI 的 AD 分類器。所提出的 MLC-GCN 也在從兩個獨立的資料集中學習臨床上合理的連接組節點和連接特徵方面，表現出高度的可解釋性。雖然我們只在 AD 上測試 MLC-GCN，但基本的基於 rsfMRI 的多層級學習 GCN 基於結果預測策略，對其他疾病或臨床結果有效。
 
 ##### **Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**
-2408.03208v1 by Jialang Xu, Jiacheng Wang, Lequan Yu, Danail Stoyanov, Yueming Jin, Evangelos B. Mazomenos
+2408.03208v2 by Jialang Xu, Jiacheng Wang, Lequan Yu, Danail Stoyanov, Yueming Jin, Evangelos B. Mazomenos
 
 Personalized federated learning (PFL) for surgical instrument segmentation
 (SIS) is a promising approach. It enables multiple clinical sites to
@@ -1397,7 +1397,7 @@ the global parameters. PFedSIS outperforms state-of-the-art methods with +1.51%
 Dice, +2.11% IoU, -2.79 ASSD, -15.55 HD95 performance gains. The corresponding
 code and models will be released at https://github.com/wzjialang/PFedSIS.
 
-摘要：<paragraph>針對手術器械分割（SIS）的個人化聯邦學習（PFL）是一種有前景的方法。它讓多個臨床地點能夠在隱私的條件下共同訓練一系列模型，每個模型都根據每個地點的個別分佈進行調整。現有的 PFL 方法很少考慮多頭自我注意力的個人化，而且沒有考慮外觀的多樣性和器械形狀的相似性，這兩者都存在於手術場景中。因此，我們提出了 PFedSIS，這是一種具有視覺特徵先驗的 SIS 的新型 PFL 方法，它結合了全局個性化解糾纏（GPD）、外觀調節個性化增強（APE）和形狀相似性全局增強（SGE），以提升每個地點的 SIS 效能。GPD 代表了針對多頭自我注意力個性化進行頭部分配的首次嘗試。為了保留每個地點的獨特外觀表示並逐漸利用地點間的差異，APE 引入了外觀調節，並透過超網路為每個地點的個性化參數提供自訂的逐層聚合解決方案。器械的相互形狀資訊透過 SGE 進行維護和共享，這增強了影像層級上的跨風格形狀一致性，並計算每個地點在預測層級上的形狀相似性貢獻，以更新全局參數。PFedSIS 在骰子系數上優於現有最先進的方法，分別提升了 +1.51%、IoU 提升了 +2.11%、ASSD 降低了 -2.79、HD95 效能提升了 -15.55。對應的程式碼和模型將在 https://github.com/wzjialang/PFedSIS 上發布。</paragraph>
+摘要：個人化聯邦學習 (PFL) 對於手術器械分割 (SIS) 來說是一種有前景的方法。它能讓多個臨床地點在隱私中共同訓練一系列模型，每個模型都根據每個地點的個別分佈進行調整。現有的 PFL 方法很少考慮多頭自注意力的個人化，而且沒有考慮外觀多樣性和器械形狀相似性，這兩個特徵都存在於手術場景中。因此，我們提出了 PFedSIS，這是一種具有視覺特徵先驗的 SIS 新型 PFL 方法，它結合了全局個人化解糾纏 (GPD)、外觀調節個性化增強 (APE) 和形狀相似性全局增強 (SGE)，以提升每個地點的 SIS 效能。GPD 代表了多頭自注意力個人化中頭部分配的首次嘗試。為了保留每個地點的獨特外觀表示並逐漸利用地點間的差異，APE 引入了外觀調節，並通過超網路為每個地點的個性化參數提供客製化的分層聚合解決方案。器械的相互形狀資訊會透過 SGE 進行維護和共享，這會增強影像層級上的跨樣式形狀一致性，並計算每個地點在預測層級上的形狀相似性貢獻，以更新全局參數。PFedSIS 在骰子係數上優於現有技術 +1.51%，IoU 上優於現有技術 +2.11%，ASSD 上優於現有技術 -2.79，HD95 效能增益上優於現有技術 -15.55。對應的程式碼和模型將在 https://github.com/wzjialang/PFedSIS 發布。
 
 ##### **The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums**
 2408.03354v2 by Vanessa Clairoux-Trepanier, Isa-May Beauchamp, Estelle Ruellan, Masarah Paquet-Clouston, Serge-Olivier Paquette, Eric Clay
@@ -1611,7 +1611,7 @@ vital sectors where transparency and reliability are crucial.
 摘要：由於其強大的預測能力，深度學習已成為許多產業中不可或缺的工具，包括醫療保健。然而，傳統的深度學習模型通常缺乏可解釋性，並且忽略了將預測不確定性納入考量，而這兩個因素是臨床決策制定的關鍵組成部分。為了產生可解釋且具有不確定性意識的預測，本研究提出了一個名為貝氏柯爾莫哥洛夫阿諾德網路 (BKAN) 的新架構，它結合了柯爾莫哥洛夫阿諾德網路的表達能力與貝氏推論。我們在兩個醫學資料集上使用 BKAN，這些資料集是評估機器學習模型在醫學診斷中的廣泛使用基準：皮馬印第安人糖尿病資料集和克里夫蘭心臟病資料集。我們的模型提供了對預測信心和決策邊界的有益見解，並且在預測準確度方面優於傳統的深度學習模型。此外，BKAN 表現隨機和認識不確定性的能力，可確保醫生獲得更可靠且值得信賴的決策支援。根據實驗結果，我們的貝氏策略提高了模型的可解釋性，並大幅減少了過度擬合，這對於小型且不平衡的醫學資料集非常重要。我們提出了可能的擴充功能，以進一步將 BKAN 用於更複雜的多模式資料集，並探討這些發現對於未來建立可靠的醫療保健 AI 系統研究的重要性。這項工作為深度學習模型部署在透明度和可靠性至關重要的重要領域中開啟了一個新的典範。
 
 ##### **Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**
-2408.02349v1 by Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
+2408.02349v2 by Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
 
 Osteoarthritis (OA) is the most common musculoskeletal disease, which has no
 cure. Knee OA (KOA) is one of the highest causes of disability worldwide, and
@@ -1637,7 +1637,7 @@ multi-modal Deep Learning, and requires no human input at inference time.
 Throughout an exhaustive experimental evaluation, we show that using RL can
 provide a higher monetary benefit when compared to state-of-the-art baselines.
 
-摘要：骨關節炎 (OA) 是一種最常見的肌肉骨骼疾病，目前尚無藥可醫。膝關節骨關節炎 (KOA) 是全球殘疾的首要原因之一，並使全球社會損失數十億美元。多年來，預測 KOA 的進展一直是社會關注的重點，因為它可以透過更有效的臨床試驗推進治療的發展，並透過更有效率的醫療保健利用來改善患者的預後。然而，現有的 KOA 預測方法主要都是靜態的，也就是說，僅考慮單一時間點的數據來預測未來多年的進展，而且是膝蓋層面的，也就是說，僅考慮單一關節的進展。由於這些原因和其他相關原因，這些方法無法提供足夠的預測效能，以致於無法節省成本並改善患者的預後。定期從所有患者身上收集廣泛的數據可以解決這個問題，但這會受到人口層級的高成本所限制。在這項工作中，我們建議超越 OA 中的靜態預測模型，並提出一個創新的主動感測 (AS) 方法，旨在動態追蹤患者，目標是最大化具有資訊性的數據擷取次數，同時在一段時間內將其總成本降至最低。我們的做法是基於強化學習 (RL)，並利用專門為人類身體多個部位的疾病進展的 AS 所設計的新型回饋函數。我們的做法是端到端的，依賴於多模態深度學習，並且在推論時間不需要人工輸入。在詳盡的實驗評估中，我們表明與最先進的基準相比，使用 RL 可以提供更高的金錢效益。
+摘要：骨關節炎 (OA) 是最常見的肌肉骨骼疾病，目前無法根治。膝關節骨關節炎 (KOA) 是全球殘疾的主要原因之一，對全球社會造成數十億美元的損失。多年來，預測 KOA 的進程一直是人們關注的重點，因為它可以通過更有效的臨床試驗推進治療的發展，並通過更有效地利用醫療保健來改善患者的預後。然而，現有的預測 KOA 的方法主要是靜態的，即考慮單一時刻的數據來預測多年後的進程，並且是膝關節層面的，即只考慮單個關節的進程。由於這些及相關原因，這些方法無法提供足夠的預測性能，從而無法節省成本並改善患者的預後。定期從所有患者那裡收集大量數據可以解決這個問題，但受限於人口層面的高成本。在這項工作中，我們提出超越 OA 中的靜態預測模型，並提出了一種新穎的主動感測 (AS) 方法，旨在動態追蹤患者，以最大化信息數據採集的數量，同時在一段時間內最小化其總成本。我們的做法基於強化學習 (RL)，並利用專門為多於一個人體部位的疾病進程的 AS 設計的新型獎勵函數。我們的模型是端到端的，依賴於多模式深度學習，並且在推理時不需要人工輸入。在詳盡的實驗評估中，我們表明與最先進的基準相比，使用 RL 可以提供更高的經濟效益。
 
 ##### **MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**
 2408.01988v1 by Alireza Amirshahi, Maedeh H. Toosi, Siamak Mohammadi, Stefano Albini, Pasquale Davide Schiavone, Giovanni Ansaloni, Amir Aminifar, David Atienza

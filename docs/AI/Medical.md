@@ -10,12 +10,12 @@
 |**2024-08-19**|**New spectral imaging biomarkers for sepsis and mortality in intensive care**|Silvia Seidlitz et.al.|[2408.09873v1](http://arxiv.org/abs/2408.09873v1)|null|
 |**2024-08-19**|**Enhanced Cascade Prostate Cancer Classifier in mp-MRI Utilizing Recall Feedback Adaptive Loss and Prior Knowledge-Based Feature Extraction**|Kun Luo et.al.|[2408.09746v1](http://arxiv.org/abs/2408.09746v1)|null|
 |**2024-08-19**|**R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**|Xiao Wang et.al.|[2408.09743v1](http://arxiv.org/abs/2408.09743v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
-|**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v1](http://arxiv.org/abs/2408.09715v1)|null|
+|**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v2](http://arxiv.org/abs/2408.09715v2)|null|
 |**2024-08-18**|**PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**|Dawei Dai et.al.|[2408.09530v1](http://arxiv.org/abs/2408.09530v1)|[link](https://github.com/ddw2aigroup2cqupt/pa-llava)|
 |**2024-08-18**|**MedMAP: Promoting Incomplete Multi-modal Brain Tumor Segmentation with Alignment**|Tianyi Liu et.al.|[2408.09465v1](http://arxiv.org/abs/2408.09465v1)|null|
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432v1](http://arxiv.org/abs/2408.09432v1)|null|
 |**2024-08-18**|**$\mathbb{BEHR}$NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410v1](http://arxiv.org/abs/2408.09410v1)|[link](https://github.com/chenzrg/behrmecom)|
-|**2024-08-18**|**Panorama Tomosynthesis from Head CBCT with Simulated Projection Geometry**|Anusree P. S. et.al.|[2408.09358v1](http://arxiv.org/abs/2408.09358v1)|null|
+|**2024-08-18**|**Panorama Tomosynthesis from Head CBCT with Simulated Projection Geometry**|Anusree P. S. et.al.|[2408.09358v2](http://arxiv.org/abs/2408.09358v2)|null|
 |**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227v1](http://arxiv.org/abs/2408.09227v1)|null|
 |**2024-08-17**|**AI Managed Emergency Documentation with a Pretrained Model**|David Menzies et.al.|[2408.09193v1](http://arxiv.org/abs/2408.09193v1)|null|
 |**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
@@ -285,7 +285,7 @@ will be released on \url{https://github.com/Event-AHU/Medical_Image_Analysis}.
 摘要：受到大型語言模型 (LLM) 巨大成功的啟發，現有的 X 光醫學報告生成方法嘗試利用大型模型來達成更好的效能。他們通常採用 Transformer 來擷取特定 X 光影像的視覺特徵，然後將其輸入 LLM 以進行文字生成。如何擷取更有效的資訊以供 LLM 使用，協助他們改善最終結果，是一個亟需解決的迫切問題。此外，視覺 Transformer 模型的使用也帶來了很高的運算複雜度。為了解決這些問題，本文提出了一個新穎的脈絡導引式高效 X 光醫學報告生成架構。具體來說，我們引入 Mamba 作為具有線性複雜度的視覺主幹，且獲得的效能與強大的 Transformer 模型相當。更重要的是，我們在訓練階段從訓練集中執行脈絡檢索，以取得每個小批次中的樣本，利用正相關和負相關樣本來增強特徵表徵和判別式學習。隨後，我們將視覺符號、脈絡資訊和提示陳述輸入 LLM，以生成高品質的醫學報告。在三個 X 光報告生成資料集（即 IU-Xray、MIMIC-CXR、CheXpert Plus）上進行的廣泛實驗，充分驗證了我們提出的模型的有效性。這項工作的原始碼將在 \url{https://github.com/Event-AHU/Medical_Image_Analysis} 上發布。
 
 ##### **HYDEN: Hyperbolic Density Representations for Medical Images and Reports**
-2408.09715v1 by Zhi Qiao, Linbin Han, Xiantong Zhen, Jia-Hong Gao, Zhen Qian
+2408.09715v2 by Zhi Qiao, Linbin Han, Xiantong Zhen, Jia-Hong Gao, Zhen Qian
 
 In light of the inherent entailment relations between images and text,
 hyperbolic point vector embeddings, leveraging the hierarchical modeling
@@ -304,7 +304,7 @@ distributions. Experimental results demonstrate the interpretability of our
 approach and its superior performance compared to the baseline methods across
 various zero-shot tasks and different datasets.
 
-摘要：鑑於影像與文字之間內在的蘊涵關係，雙曲點向量嵌入運用雙曲空間的分層建模優勢，已被用於視覺語意表徵學習。然而，點向量嵌入方法無法解決語意不確定性的問題，其中影像可能有多重詮釋，而文字可能指涉不同的影像，這種現象在醫學領域特別普遍。因此，我們提出 \textbf{HYDEN}，一種新的雙曲密度嵌入，基於影像文字表徵學習方法，專門針對特定醫學領域資料量身打造。此方法整合了文字感知局部特徵與影像的全局特徵，透過使用雙曲偽高斯分佈，將影像文字特徵對應到雙曲空間中的密度特徵。採用封裝損失函數來建模影像文字密度分佈之間的部分排序關係。實驗結果證明了我們方法的可詮釋性，以及在各種零次學習任務和不同資料集上，它優於基線方法的效能。
+摘要：鉴于图像和文本之间固有的蕴涵关系，利用双曲空间的分层建模优势，双曲点向量嵌入已被用于视觉语义表示学习。然而，点向量嵌入方法未能解决语义不确定性问题，其中一个图像可能有多种解释，而文本可能指代不同的图像，这种现象在医学领域尤为普遍。因此，我们提出了\textbf{HYDEN}，这是一种新颖的基于双曲密度嵌入的图像-文本表示学习方法，专为特定医学领域数据量身定制。此方法将文本感知局部特征与图像中的全局特征相结合，通过使用双曲伪高斯分布将图像-文本特征映射到双曲空间中的密度特征。封装损失函数用于对图像-文本密度分布之间的偏序关系进行建模。实验结果证明了我们方法的可解释性，并且在各种零样本任务和不同数据集上，其性能优于基线方法。
 
 ##### **PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**
 2408.09530v1 by Dawei Dai, Yuanhui Zhang, Long Xu, Qianlan Yang, Xiaojing Shen, Shuyin Xia, Guoyin Wang
@@ -415,7 +415,7 @@ large margin. The source code is available at
 \url{https://github.com/chenzRG/BEHRMecom} 取得</paragraph>
 
 ##### **Panorama Tomosynthesis from Head CBCT with Simulated Projection Geometry**
-2408.09358v1 by Anusree P. S., Bikram Keshari Parida, Seong Yong Moon, Wonsang You
+2408.09358v2 by Anusree P. S., Bikram Keshari Parida, Seong Yong Moon, Wonsang You
 
 Cone Beam Computed Tomography (CBCT) and Panoramic X-rays are the most
 commonly used imaging modalities in dental health care. CBCT can produce
@@ -434,7 +434,7 @@ even for patients with missing or nonexistent teeth and in the presence of
 severe metal implants. Our results demonstrate that this method can generate
 high-quality panoramic images irrespective of the CBCT scanner geometry.
 
-摘要：錐狀光束電腦斷層掃描 (CBCT) 和全景 X 光是牙科保健中最常用的影像模式。CBCT 可產生患者頭部的三維影像，為臨床醫師提供更好的診斷能力，而全景 X 光則可以在單一影像中擷取整個顏面部區域。如果 CBCT 已可用，合成全景 X 光是有益的，因此可以避免立即進行額外的掃描和額外的輻射曝露。現有方法著重於描繪近似的牙弓並沿著此牙弓建立正交投影。然而，對於此類牙弓提取並無黃金標準，而此選擇可能會影響合成 X 光的品質。為避免此類問題，我們提出一個從多樣化的頭部 CBCT 合成全景 X 光的新方法，採用模擬投影幾何和動態旋轉中心。我們的這項方法有效地從 CBCT 合成了全景影像，即使對於缺牙或沒有牙齒的患者，以及存在嚴重金屬植入物的情況也一樣。我們的結果證明，此方法可以產生高品質的全景影像，而與 CBCT 掃描儀幾何無關。
+摘要：錐狀光束電腦斷層掃描 (CBCT) 和全景 X 射線是牙科保健中最常用的影像模式。CBCT 可以產生患者頭部的三維影像，提供給臨床醫師更好的診斷能力，而全景 X 射線則可以在單一影像中擷取整個上顎顏面部區域。如果 CBCT 已經可用，合成全景 X 射線會很有幫助，從而避免立即進行額外的掃描和額外的輻射曝露。現有方法專注於描繪近似的牙弓並沿著此牙弓建立正交投影。然而，沒有黃金標準可用於此類牙弓萃取，而此選擇會影響合成 X 射線的品質。為了避免此類問題，我們提出從多樣的頭部 CBCT 合成全景 X 射線的新方法，採用模擬投影幾何和動態旋轉中心。我們的這種方法有效地從 CBCT 合成了全景影像，即使對於缺牙或無牙的患者以及在有嚴重金屬植入物的情況下也是如此。我們的結果顯示，此方法可以產生高品質的全景影像，而與 CBCT 掃描機幾何無關。
 
 ##### **FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**
 2408.09227v1 by Jiaqi Wang, Xiaochen Wang, Lingjuan Lyu, Jinghui Chen, Fenglong Ma

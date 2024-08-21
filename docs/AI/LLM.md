@@ -19,7 +19,7 @@
 |**2024-08-19**|**Geometry Informed Tokenization of Molecules for Language Model Generation**|Xiner Li et.al.|[2408.10120v1](http://arxiv.org/abs/2408.10120v1)|null|
 |**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119v1](http://arxiv.org/abs/2408.10119v1)|null|
 |**2024-08-19**|**GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization**|Ran Liu et.al.|[2408.10115v1](http://arxiv.org/abs/2408.10115v1)|[link](https://github.com/oswald1997/glimmer)|
-|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111v1](http://arxiv.org/abs/2408.10111v1)|null|
+|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111v2](http://arxiv.org/abs/2408.10111v2)|null|
 |**2024-08-19**|**Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments**|Heeyoung Lee et.al.|[2408.10107v1](http://arxiv.org/abs/2408.10107v1)|[link](https://github.com/hy18284/mixdiff)|
 |**2024-08-19**|**Convert and Speak: Zero-shot Accent Conversion with Minimum Supervision**|Zhijun Jia et.al.|[2408.10096v1](http://arxiv.org/abs/2408.10096v1)|null|
 |**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086v1](http://arxiv.org/abs/2408.10086v1)|null|
@@ -57,7 +57,7 @@
 |**2024-08-19**|**Minor DPO reject penalty to increase training robustness**|Shiming Xie et.al.|[2408.09834v1](http://arxiv.org/abs/2408.09834v1)|null|
 |**2024-08-19**|**CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models**|Linhao Yu et.al.|[2408.09819v1](http://arxiv.org/abs/2408.09819v1)|null|
 |**2024-08-19**|**Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased Learning to Rank**|Lulu Yu et.al.|[2408.09817v1](http://arxiv.org/abs/2408.09817v1)|null|
-|**2024-08-19**|**World Models Increase Autonomy in Reinforcement Learning**|Zhao Yang et.al.|[2408.09807v1](http://arxiv.org/abs/2408.09807v1)|null|
+|**2024-08-19**|**World Models Increase Autonomy in Reinforcement Learning**|Zhao Yang et.al.|[2408.09807v2](http://arxiv.org/abs/2408.09807v2)|null|
 |**2024-08-19**|**AutoML-guided Fusion of Entity and LLM-based representations**|Boshko Koloski et.al.|[2408.09794v1](http://arxiv.org/abs/2408.09794v1)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787v1](http://arxiv.org/abs/2408.09787v1)|[link](https://github.com/hitsz-tmg/anim-director)|
 |**2024-08-19**|**GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making**|Arsham Gholamzadeh Khoee et.al.|[2408.09785v1](http://arxiv.org/abs/2408.09785v1)|null|
@@ -73,18 +73,18 @@
 |**2024-08-19**|**Mutually-Aware Feature Learning for Few-Shot Object Counting**|Yerim Jeon et.al.|[2408.09734v1](http://arxiv.org/abs/2408.09734v1)|null|
 |**2024-08-19**|**Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**|Jiandong Jin et.al.|[2408.09720v1](http://arxiv.org/abs/2408.09720v1)|[link](https://github.com/event-ahu/openpar)|
 |**2024-08-19**|**SEMDR: A Semantic-Aware Dual Encoder Model for Legal Judgment Prediction with Legal Clue Tracing**|Pengjie Liu et.al.|[2408.09717v1](http://arxiv.org/abs/2408.09717v1)|null|
-|**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v1](http://arxiv.org/abs/2408.09715v1)|null|
+|**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v2](http://arxiv.org/abs/2408.09715v2)|null|
 |**2024-08-19**|**Partial-Multivariate Model for Forecasting**|Jaehoon Lee et.al.|[2408.09703v1](http://arxiv.org/abs/2408.09703v1)|null|
 |**2024-08-19**|**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**|Ruofan Liang et.al.|[2408.09702v1](http://arxiv.org/abs/2408.09702v1)|null|
 |**2024-08-19**|**Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer**|Mingda Li et.al.|[2408.09701v1](http://arxiv.org/abs/2408.09701v1)|null|
-|**2024-08-19**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698v1](http://arxiv.org/abs/2408.09698v1)|null|
+|**2024-08-19**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698v2](http://arxiv.org/abs/2408.09698v2)|null|
 |**2024-08-19**|**LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting**|Yisong Fu et.al.|[2408.09695v1](http://arxiv.org/abs/2408.09695v1)|null|
 |**2024-08-19**|**Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**|Jiaqing Liu et.al.|[2408.09688v1](http://arxiv.org/abs/2408.09688v1)|null|
 |**2024-08-19**|**Simulating Field Experiments with Large Language Models**|Yaoyu Chen et.al.|[2408.09682v1](http://arxiv.org/abs/2408.09682v1)|null|
-|**2024-08-19**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680v1](http://arxiv.org/abs/2408.09680v1)|null|
+|**2024-08-19**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680v2](http://arxiv.org/abs/2408.09680v2)|null|
 |**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675v1](http://arxiv.org/abs/2408.09675v1)|[link](https://github.com/huawei-noah/SMARTS)|
 |**2024-08-19**|**BLADE: Benchmarking Language Model Agents for Data-Driven Science**|Ken Gu et.al.|[2408.09667v1](http://arxiv.org/abs/2408.09667v1)|null|
-|**2024-08-19**|**A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks**|Rachel M. Harrison et.al.|[2408.09656v1](http://arxiv.org/abs/2408.09656v1)|null|
+|**2024-08-19**|**A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks**|Rachel M. Harrison et.al.|[2408.09656v2](http://arxiv.org/abs/2408.09656v2)|null|
 |**2024-08-19**|**Data-driven Conditional Instrumental Variables for Debiasing Recommender Systems**|Zhirong Huang et.al.|[2408.09651v1](http://arxiv.org/abs/2408.09651v1)|null|
 |**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650v1](http://arxiv.org/abs/2408.09650v1)|[link](https://github.com/eashanadhikarla/expomamba)|
 |**2024-08-19**|**Deep Learning-based Machine Condition Diagnosis using Short-time Fourier Transformation Variants**|Eduardo Jr Piedad et.al.|[2408.09649v1](http://arxiv.org/abs/2408.09649v1)|null|
@@ -93,7 +93,7 @@
 |**2024-08-19**|**Acquiring Bidirectionality via Large and Small Language Models**|Takumi Goto et.al.|[2408.09640v1](http://arxiv.org/abs/2408.09640v1)|null|
 |**2024-08-19**|**How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments**|Yusuke Ide et.al.|[2408.09639v1](http://arxiv.org/abs/2408.09639v1)|null|
 |**2024-08-19**|**Meta-Learning on Augmented Gene Expression Profiles for Enhanced Lung Cancer Detection**|Arya Hadizadeh Moghaddam et.al.|[2408.09635v1](http://arxiv.org/abs/2408.09635v1)|[link](https://github.com/aryahm1375/metagene)|
-|**2024-08-19**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632v1](http://arxiv.org/abs/2408.09632v1)|null|
+|**2024-08-19**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632v2](http://arxiv.org/abs/2408.09632v2)|null|
 |**2024-08-19**|**A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification**|Claudio M. V. de Andrade et.al.|[2408.09629v1](http://arxiv.org/abs/2408.09629v1)|null|
 |**2024-08-19**|**On the Foundations of Conflict-Driven Solving for Hybrid MKNF Knowledge Bases**|Riley Kinahan et.al.|[2408.09626v1](http://arxiv.org/abs/2408.09626v1)|null|
 |**2024-08-19**|**Refining Packing and Shuffling Strategies for Enhanced Performance in Generative Language Models**|Yanbing Chen et.al.|[2408.09621v1](http://arxiv.org/abs/2408.09621v1)|null|
@@ -506,16 +506,16 @@ https://github.com/Oswald1997/GLIMMER.
 摘要：预训练语言模型在多文件摘要任务中被越来越多地使用。然而，这些模型需要大规模语料库进行预训练，并且依赖于领域。其他非神经无监督摘要方法主要依赖于关键句子提取，这可能导致信息丢失。为了应对这些挑战，我们提出了一种轻量级但有效的无监督方法，称为 GLIMMER：一种基于图和词汇特征的无监督多文档摘要方法。它首先从源文档构建一个句子图，然后通过从原始文本中挖掘低级特征自动识别语义簇，从而提高簇内相关性和生成句子的流畅性。最后，它将簇总结为自然句子。在 Multi-News、Multi-XScience 和 DUC-2004 上进行的实验表明，我们的方法优于现有的无监督方法。此外，在零样本设置下，它在 ROUGE 得分方面超越了最先进的预训练多文档摘要模型（例如 PEGASUS 和 PRIMERA）。此外，人类评估表明，GLIMMER 生成的摘要获得了很高的可读性和信息性得分。我们的代码可在 https://github.com/Oswald1997/GLIMMER 获得。
 
 ##### **PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**
-2408.10111v1 by Yuanjian Xu, Anxian Liu, Jianing Hao, Zhenzhuo Li, Shichang Meng, Guang Zhang
+2408.10111v2 by Yuanjian Xu, Anxian Liu, Jianing Hao, Zhenzhuo Li, Shichang Meng, Guang Zhang
 
 Financial time series modeling is crucial for understanding and predicting
 market behaviors but faces challenges such as non-linearity, non-stationarity,
 and high noise levels. Traditional models struggle to capture complex patterns
 due to these issues, compounded by limitations in computational resources and
 model capacity. Inspired by the success of large language models in NLP, we
-introduce \textbf{PLUTUS}, a \textbf{P}re-trained \textbf{L}arge
-\textbf{U}nified \textbf{T}ransformer-based model that \textbf{U}nveils
-regularities in financial time \textbf{S}eries. PLUTUS uses an invertible
+introduce $\textbf{PLUTUS}$, a $\textbf{P}$re-trained $\textbf{L}$arge
+$\textbf{U}$nified $\textbf{T}$ransformer-based model that $\textbf{U}$nveils
+regularities in financial time $\textbf{S}$eries. PLUTUS uses an invertible
 embedding module with contrastive learning and autoencoder techniques to create
 an approximate one-to-one mapping between raw data and patch embeddings.
 TimeFormer, an attention based architecture, forms the core of PLUTUS,
@@ -529,7 +529,7 @@ various tasks, demonstrating strong transferability and establishing a robust
 foundational model for finance. Our research provides technical guidance for
 pre-training financial time series data, setting a new standard in the field.
 
-摘要：<paragraph>金融時間序列建模對於理解和預測市場行為至關重要，但面臨非線性、非平穩性和高噪音等挑戰。由於這些問題以及計算資源和模型容量的限制，傳統模型難以捕捉複雜模式。受大型語言模型在 NLP 中成功的啟發，我們引入了 PLUTUS，一個預訓練大型統一 Transformer 模型，揭示了金融時間序列中的規律性。PLUTUS 使用具有對比學習和自動編碼技術的可逆嵌入模組，在原始資料和修補嵌入之間建立近似的一對一對應。基於注意力的架構 TimeFormer 構成了 PLUTUS 的核心，有效地對高噪音時間序列進行建模。我們結合了一種新穎的注意力機制，以捕捉變數和時間維度上的特徵。PLUTUS 在一個前所未有的 1000 億個觀測值的資料集上進行預訓練，旨在在嘈雜的金融環境中發揮作用。據我們所知，PLUTUS 是第一個開放原始碼、大規模、預訓練的金融時間序列模型，具有超過 10 億個參數。它在各種任務中實現了最先進的效能，展示了強大的可轉移性，並為金融建立了一個強大的基礎模型。我們的研究為預訓練金融時間序列資料提供了技術指導，為該領域設定了新標準。</paragraph>
+摘要：<paragraph>財務時間序列建模對於理解和預測市場行為至關重要，但面臨非線性、非平穩和高雜訊等級等挑戰。由於這些問題，傳統模型難以捕捉複雜模式，並受到計算資源和模型容量的限制。受大型語言模型在 NLP 中成功的啟發，我們引入了 $\textbf{PLUTUS}$，一個 $\textbf{P}$re-trained $\textbf{L}$arge $\textbf{U}$nified $\textbf{T}$ransformer-based 模型，它 $\textbf{U}$nveils 財務時間 $\textbf{S}$eries 中的規律性。PLUTUS 使用可逆嵌入模組，結合對比學習和自動編碼器技術，在原始資料和貼片嵌入之間建立近似的一對一對應。TimeFormer 是一個基於注意力的架構，構成 PLUTUS 的核心，有效地對高雜訊時間序列進行建模。我們納入了一種新穎的注意力機制，以捕捉變數和時間維度中的特徵。PLUTUS 在一個前所未有的 1000 億個觀測值的資料集上進行預訓練，旨在在嘈雜的金融環境中蓬勃發展。據我們所知，PLUTUS 是第一個開源、大規模、預訓練的財務時間序列模型，擁有超過 10 億個參數。它在各種任務中實現了最先進的效能，展示了強大的可轉移性，並為金融建立了一個強大的基礎模型。我們的研究為預訓練財務時間序列資料提供了技術指導，為該領域樹立了新的標準。</paragraph>
 
 ##### **Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments**
 2408.10107v1 by Heeyoung Lee, Hoyoon Byun, Changdae Oh, JinYeong Bak, Kyungwoo Song
@@ -1397,7 +1397,7 @@ experiments and analysis confirm the effectiveness of our approach.
 摘要：無偏學習排名 (ULTR) 旨在利用有偏的隱式使用者回饋 (例如點擊) 來最佳化無偏的排名模型。現有 ULTR 方法的有效性主要已在合成資料集上得到驗證。然而，它們在真實世界點擊資料上的效能仍不明確。最近，百度發佈了一個大型公開可用的資料集，其中包含其網路搜尋記錄。隨後，NTCIR-17 ULTRE-2 任務發佈了一個從中提取的子集資料集。我們針對此子集執行常用或有效的 ULTR 方法的實驗，以確定它們是否維持其有效性。在本文中，我們提出一個具有清單式知識傳遞的脈絡雙重學習演算法 (CDLA-LD)，以同時處理位置偏誤和脈絡偏誤。我們利用清單式輸入排名模型，以取得包含局部脈絡資訊的重建特徵向量，並運用雙重學習演算法 (DLA) 方法來聯合訓練此排名模型和一個傾向模型，以處理位置偏誤。由於此排名模型會學習訓練集文件清單內的互動資訊，為了增強排名模型的概化能力，我們另外訓練一個點式輸入排名模型，以清單式方式學習清單式輸入排名模型在清單式相關性判斷的能力。廣泛的實驗和分析證實了我們方法的有效性。
 
 ##### **World Models Increase Autonomy in Reinforcement Learning**
-2408.09807v1 by Zhao Yang, Thomas M. Moerland, Mike Preuss, Edward S. Hu
+2408.09807v2 by Zhao Yang, Thomas M. Moerland, Mike Preuss, Aske Plaat, Edward S. Hu
 
 Reinforcement learning (RL) is an appealing paradigm for training intelligent
 agents, enabling policy acquisition from the agent's own autonomously acquired
@@ -1417,8 +1417,7 @@ require supervision. Our findings suggest model-based methods hold significant
 promise for reducing human effort in RL. Website:
 https://sites.google.com/view/morefree
 
-摘要：強化學習 (RL) 是一種訓練智慧型代理的誘人範例，它能從代理本身自主獲得的經驗中獲取政策。然而，RL 的訓練過程遠非自動化，需要大量人力來重設代理和環境。為了應對具有挑戰性的免重設設定，我們首先展示了基於模型 (MB) 的 RL 方法在這種設定中的優越性，表明 MBRL 的直接適應可以優於所有先前的最先進方法，同時需要較少的監督。然後，我們找出此直接擴充固有的限制，並提出一個稱為基於模型的免重設 (MoReFree) 代理的解決方案，進一步增強效能。MoReFree 採用探索和政策學習這兩個關鍵機制，透過優先處理與任務相關的狀態來處理免重設任務。它在各種免重設任務中展現出優異的資料效率，無需存取環境回饋或示範，同時顯著優於需要監督的特權基線。我們的發現表明，基於模型的方法在減少 RL 中的人力方面具有顯著的潛力。網站：
-https://sites.google.com/view/morefree
+摘要：強化學習 (RL) 是訓練智慧型代理程式的一個誘人範例，它能讓代理程式從自己自主取得的經驗中獲取策略。然而，RL 的訓練過程遠非自動化，需要大量人力來重設代理程式和環境。為了應對具有挑戰性的無重設設定，我們首先展示了基於模型 (MB) 的 RL 方法在這種設定中的優越性，證明 MBRL 的直接改編可以優於所有先前的最先進方法，同時需要較少的監督。然後，我們找出此直接延伸固有的限制，並提出一個稱為基於模型的無重設 (MoReFree) 代理程式的解決方案，進一步提升效能。MoReFree 採用探索和策略學習這兩個關鍵機制，藉由優先處理與任務相關的狀態來處理無重設任務。它在各種無重設任務中展現出優異的資料效率，無需存取環境回饋或示範，同時顯著優於需要監督的特權基準。我們的發現表明，基於模型的方法對於減少 RL 中的人力具有顯著的潛力。網站：https://sites.google.com/view/morefree
 
 ##### **AutoML-guided Fusion of Entity and LLM-based representations**
 2408.09794v1 by Boshko Koloski, Senja Pollak, Roberto Navigli, Blaž Škrlj
@@ -1805,7 +1804,7 @@ codes will be released via GitHub.
 摘要：法律判決預測 (LJP) 旨在根據犯罪事實描述形成法律判決。然而，研究人員難以對搶劫和盜竊等令人困惑的刑事案件進行分類，這需要 LJP 模型區分類似犯罪之間的細微差別。現有方法通常設計手工特徵以獲取必要的語義法律線索，以做出更準確的法律判決預測。在本文中，我們提出了一個語義感知雙編碼器模型 (SEMDR)，它設計了一種新穎的法律線索追蹤機制，以在犯罪事實和工具之間進行細粒度的語義推理。我們的法律線索追蹤機制建立在三個推理層級之上：1) 詞彙追蹤，旨在從犯罪描述中提取犯罪事實；2) 句子表示學習，對比訓練語言模型以更好地表示令人困惑的犯罪事實；3) 多事實推理，構建一個原因圖，在事實節點之間傳播語義線索，以捕捉犯罪事實之間的細微差別。我們的法律線索追蹤機制幫助 SEMDR 在 CAIL2018 資料集上實現了最先進的技術，並展示了其在少鏡頭場景中的進步。我們的實驗表明，SEMDR 具有學習更統一和區別的犯罪事實表示的強大能力，這有助於對令人困惑的刑事案件做出更準確的預測，並在做出判決時減少模型的不確定性。所有代碼都將通過 GitHub 發布。
 
 ##### **HYDEN: Hyperbolic Density Representations for Medical Images and Reports**
-2408.09715v1 by Zhi Qiao, Linbin Han, Xiantong Zhen, Jia-Hong Gao, Zhen Qian
+2408.09715v2 by Zhi Qiao, Linbin Han, Xiantong Zhen, Jia-Hong Gao, Zhen Qian
 
 In light of the inherent entailment relations between images and text,
 hyperbolic point vector embeddings, leveraging the hierarchical modeling
@@ -1824,7 +1823,7 @@ distributions. Experimental results demonstrate the interpretability of our
 approach and its superior performance compared to the baseline methods across
 various zero-shot tasks and different datasets.
 
-摘要：鑑於影像與文字之間內在的蘊涵關係，雙曲點向量嵌入運用雙曲空間的分層建模優勢，已被用於視覺語意表徵學習。然而，點向量嵌入方法無法解決語意不確定性的問題，其中影像可能有多重詮釋，而文字可能指涉不同的影像，這種現象在醫學領域特別普遍。因此，我們提出 \textbf{HYDEN}，一種新的雙曲密度嵌入，基於影像文字表徵學習方法，專門針對特定醫學領域資料量身打造。此方法整合了文字感知局部特徵與影像的全局特徵，透過使用雙曲偽高斯分佈，將影像文字特徵對應到雙曲空間中的密度特徵。採用封裝損失函數來建模影像文字密度分佈之間的部分排序關係。實驗結果證明了我們方法的可詮釋性，以及在各種零次學習任務和不同資料集上，它優於基線方法的效能。
+摘要：鉴于图像和文本之间固有的蕴涵关系，利用双曲空间的分层建模优势，双曲点向量嵌入已被用于视觉语义表示学习。然而，点向量嵌入方法未能解决语义不确定性问题，其中一个图像可能有多种解释，而文本可能指代不同的图像，这种现象在医学领域尤为普遍。因此，我们提出了\textbf{HYDEN}，这是一种新颖的基于双曲密度嵌入的图像-文本表示学习方法，专为特定医学领域数据量身定制。此方法将文本感知局部特征与图像中的全局特征相结合，通过使用双曲伪高斯分布将图像-文本特征映射到双曲空间中的密度特征。封装损失函数用于对图像-文本密度分布之间的偏序关系进行建模。实验结果证明了我们方法的可解释性，并且在各种零样本任务和不同数据集上，其性能优于基线方法。
 
 ##### **Partial-Multivariate Model for Forecasting**
 2408.09703v1 by Jaehoon Lee, Hankook Lee, Sungik Choi, Sungjun Cho, Moontae Lee
@@ -1892,7 +1891,7 @@ in programming.
 摘要：大型語言模型 (LLM) 用於程式碼產生已獲得大量關注，但其偏見和非英語提示的限制對全球包容性提出了挑戰。本文探討了多語言提示式程式碼產生的複雜性。我們對 LLM（包括 CodeLLaMa 和 CodeGemma）的評估顯示，非英語提示的程式碼品質存在顯著差異；我們還展示了提示翻譯、自舉資料擴充和微調等簡單方法的不足。為了解決這個問題，我們提出了一種使用神經投影技術的零次方跨語言方法，整合了一個跨語言編碼器（如 artetxe2019massively 的 LASER）將其多語言嵌入對應到 LLM 的標記空間。此方法僅需要使用英語資料進行訓練，並能有效擴充到其他語言。在經過翻譯和品質檢查的 MBPP 資料集上的結果顯示出程式碼品質有顯著提升。這項研究透過賦予 LLM 多語言能力來支援程式設計中多樣的語言範圍，促進了一個更具包容性的程式碼產生環境。
 
 ##### **Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**
-2408.09698v1 by Yuyang Ye, Zhi Zheng, Yishan Shen, Tianshu Wang, Hengruo Zhang, Peijun Zhu, Runlong Yu, Kai Zhang, Hui Xiong
+2408.09698v2 by Yuyang Ye, Zhi Zheng, Yishan Shen, Tianshu Wang, Hengruo Zhang, Peijun Zhu, Runlong Yu, Kai Zhang, Hui Xiong
 
 Recent advances in Large Language Models (LLMs) have demonstrated significant
 potential in the field of Recommendation Systems (RSs). Most existing studies
@@ -1906,7 +1905,7 @@ information. Moreover, although Multimodal Large Language Models (MLLMs)
 capable of processing multi-modal inputs have emerged, how to equip MLLMs with
 multi-modal recommendation capabilities remains largely unexplored. To this
 end, in this paper, we propose the Multimodal Large Language Model-enhanced
-Sequential Multimodal Recommendation (MLLM-MSR) model. To capture the dynamic
+Multimodaln Sequential Recommendation (MLLM-MSR) model. To capture the dynamic
 user preference, we design a two-stage user preference summarization method.
 Specifically, we first utilize an MLLM-based item-summarizer to extract image
 feature given an item and convert the image into text. Then, we employ a
@@ -1918,7 +1917,7 @@ techniques. Extensive evaluations across various datasets validate the
 effectiveness of MLLM-MSR, showcasing its superior ability to capture and adapt
 to the evolving dynamics of user preferences.
 
-摘要：<paragraph>大型語言模型 (LLM) 的最新進展已在推薦系統 (RS) 領域展現出巨大的潛力。大多數現有研究都專注於將使用者行為記錄轉換為文字提示，並利用提示調整等技術來讓 LLM 能執行推薦任務。同時，研究興趣最近已轉向多模態推薦系統，此系統使用模態融合技術整合來自影像、文字和其他來源的資料。這為現有 LLM 為基礎的推薦範例帶來了新的挑戰，此範例僅依賴文字模態資訊。此外，儘管已出現能夠處理多模態輸入的多模態大型語言模型 (MLLM)，但如何讓 MLLM 具備多模態推薦能力在很大程度上仍未探索。為此，我們在本文中提出多模態大型語言模型增強的序列多模態推薦 (MLLM-MSR) 模型。為了捕捉動態使用者偏好，我們設計了一個兩階段使用者偏好摘要方法。具體來說，我們首先利用 MLLM 為基礎的項目摘要器來萃取給定項目的影像特徵，並將影像轉換為文字。然後，我們採用遞迴使用者偏好摘要產生範例來捕捉基於 LLM 為基礎的使用者摘要器之使用者偏好的動態變化。最後，為了讓 MLLM 能執行多模態推薦任務，我們建議使用監督微調 (SFT) 技術微調基於 MLLM 的推薦器。跨各種資料集的廣泛評估驗證了 MLLM-MSR 的有效性，展示了其捕捉和適應使用者偏好演變動態的優異能力。</paragraph>
+摘要：<paragraph>大型語言模型 (LLM) 的最新進展已證明在推薦系統 (RS) 領域具有顯著的潛力。現有的大部分研究都專注於將使用者行為記錄轉換為文字提示，並利用提示調整等技術，讓 LLM 能執行推薦任務。同時，最近的研究興趣已轉向多模態推薦系統，該系統使用模態融合技術整合來自影像、文字和其他來源的資料。這為現有的基於 LLM 的推薦範例帶來了新的挑戰，而該範例僅依賴文字模態資訊。此外，儘管已經出現能夠處理多模態輸入的多模態大型語言模型 (MLLM)，但如何讓 MLLM 具備多模態推薦功能在很大程度上仍未開發。為此，我們在本文中提出了多模態大型語言模型增強的多模態序列推薦 (MLLM-MSR) 模型。為了捕捉動態使用者偏好，我們設計了一個兩階段使用者偏好摘要方法。具體來說，我們首先利用基於 MLLM 的項目摘要器，根據項目提取影像特徵，並將影像轉換為文字。然後，我們採用遞迴使用者偏好摘要生成範例，根據基於 LLM 的使用者摘要器捕捉使用者偏好的動態變化。最後，為了讓 MLLM 能執行多模態推薦任務，我們建議使用監督微調 (SFT) 技術微調基於 MLLM 的推薦器。跨各種資料集的廣泛評估驗證了 MLLM-MSR 的有效性，展示了其捕捉和適應使用者偏好演變動態的卓越能力。</paragraph>
 
 ##### **LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting**
 2408.09695v1 by Yisong Fu, Fei Wang, Zezhi Shao, Chengqing Yu, Yujie Li, Zhao Chen, Zhulin An, Yongjun Xu
@@ -2003,7 +2002,7 @@ experimental toolkit.
 摘要：<paragraph>現有的大型語言模型 (LLM) 可以透過前所未有的內容產生和推理能力模擬人類的回應。然而，目前尚不清楚是否以及如何利用 LLM 來模擬實地實驗。在本文中，我們提出並評估兩種提示策略：觀察者模式，允許對主要結論進行直接預測，以及參與者模式，模擬參與者的回應分佈。使用這種方法，我們檢視了 15 篇在 INFORMS 和 MISQ 發表且被廣泛引用的實地實驗論文，發現模擬實驗結果與特定情境中的實際結果之間存在令人鼓舞的一致性。我們進一步找出 LLM 表現不佳的主題，包括性別差異和與社會規範相關的研究。此外，本文提出的自動化和標準化工作流程讓大規模篩選更多包含實地實驗的論文成為可能。本文開創了利用大型語言模型 (LLM) 模擬實地實驗的方法，對先前僅專注於實驗室環境的研究進行了重大延伸。透過引入兩種新穎的提示策略（觀察者模式和參與者模式），我們展示了 LLM 在複雜的實地設定中預測結果和複製參與者回應的能力。我們的研究結果表明，在特定情境中與實際實驗結果有令人滿意的吻合度，在觀察者模式中達到 66% 的刺激準確度。這項研究擴大了 LLM 的潛在應用範圍，並說明了其在協助研究人員進行昂貴的實地實驗之前提供協助的效用。此外，它也闡明了 LLM 在用於模擬實地實驗時的界限，作為研究人員在考慮將 LLM 整合到其實驗工具包中時的一個警示。</paragraph>
 
 ##### **MambaLoc: Efficient Camera Localisation via State Space Model**
-2408.09680v1 by Jialu Wang, Kaichen Zhou, Andrew Markham, Niki Trigoni
+2408.09680v2 by Jialu Wang, Kaichen Zhou, Andrew Markham, Niki Trigoni
 
 Location information is pivotal for the automation and intelligence of
 terminal devices and edge-cloud IoT systems, such as autonomous vehicles and
@@ -2024,9 +2023,10 @@ minimal layers. Consequently, the GIS enables effective global information
 capture while significantly accelerating convergence. Our extensive
 experimental validation using public indoor and outdoor datasets first
 demonstrates our model's effectiveness, followed by evidence of its versatility
-with various existing localization models.
+with various existing localization models. Our code and models are publicly
+available to support further research and development in this area.
 
-摘要：位置資訊對於自動化和智慧型終端裝置和邊緣雲端物聯網系統（例如自動駕駛車輛和擴增實境）至關重要。然而，由於訓練成本高昂，且需要密集收集資料，因此在不同的物聯網應用中實現可靠的定位仍然是一項挑戰。為了解決這些問題，我們創新地將選擇性狀態空間 (SSM) 模型應用於視覺定位，並推出一個名為 MambaLoc 的新模型。所提出的模型透過利用 SSM 模型在高效特徵提取、快速運算和記憶體最佳化方面的優勢，展現出卓越的訓練效率，並且由於其參數稀疏性，進一步確保在稀疏資料環境中的穩健性。此外，我們提出了全球資訊選擇器 (GIS)，它利用選擇性 SSM 來隱式實現非局部神經網路的有效全域特徵提取功能。此設計利用 SSM 模型的運算效率，以及非局部神經網路在最少層數下擷取長程依賴性的能力。因此，GIS 能夠有效擷取全域資訊，同時大幅加速收斂。我們使用公開的室內和室外資料集進行廣泛的實驗驗證，首先證明了我們模型的有效性，接著提出其與各種現有定位模型的通用性證明。
+摘要：位置資訊對於自動化與智慧型終端裝置和邊緣雲端物聯網系統至關重要，例如自駕車和擴增實境。然而，由於顯著的訓練成本和密集收集資料的必要性，在不同的物聯網應用中實現可靠的定位仍然具有挑戰性。為了解決這些問題，我們創新地將選擇性狀態空間 (SSM) 模型應用於視覺定位，並引入了一個名為 MambaLoc 的新模型。所提出的模型透過利用 SSM 模型在有效特徵萃取、快速運算和記憶體最佳化方面的優勢，展現出卓越的訓練效率，並且由於其參數稀疏性，進一步確保在稀疏資料環境中的穩健性。此外，我們提出了全球資訊選擇器 (GIS)，它利用選擇性 SSM 來隱式實現非局部神經網路的有效全局特徵萃取能力。此設計利用 SSM 模型的運算效率，以及非局部神經網路在最少層數中擷取長程依賴關係的能力。因此，GIS 能夠有效擷取全局資訊，同時顯著加速收斂。我們使用公開的室內和室外資料集進行廣泛的實驗驗證，首先證明了我們模型的有效性，接著證明了它與各種現有定位模型的多功能性。我們的程式碼和模型公開提供，以支持此領域進一步的研究和開發。
 
 ##### **Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**
 2408.09675v1 by Ruiqi Zhang, Jing Hou, Florian Walter, Shangding Gu, Jiayi Guan, Florian Röhrbein, Yali Du, Panpan Cai, Guang Chen, Alois Knoll
@@ -2080,7 +2080,7 @@ analysis approaches.
 摘要：資料驅動的科學發現需要反覆整合科學領域知識、統計專業知識和資料語義理解，才能做出細微的分析決策，例如，要考慮哪些變數、轉換和統計模型。具備規劃、記憶和程式碼執行能力的 LM 基礎代理具有支援資料驅動科學的潛力。然而，由於有多種有效方法、部分正確的步驟和表達相同決策的不同方式，在這種開放式任務上評估代理具有挑戰性。為了應對這些挑戰，我們提出了 BLADE，一個自動評估代理對開放式研究問題的多方面方法的基準。BLADE 包含 12 個資料集和從現有科學文獻中提取的研究問題，其中基本事實由專家資料科學家和研究人員的獨立分析收集。為了自動評估代理回應，我們開發了對應的計算方法，以將分析的不同表示與此基本事實相匹配。儘管語言模型擁有大量的世界知識，但我們的評估表明，它們通常僅限於基本分析。然而，能夠與基礎資料互動的代理展示出其分析決策制定中改進的，但仍然不是最佳的多樣性。我們的研究能夠評估資料驅動科學的代理，並為研究人員提供對代理分析方法的更深入見解。
 
 ##### **A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks**
-2408.09656v1 by Rachel M. Harrison
+2408.09656v2 by Rachel M. Harrison
 
 Random Number Generation Tasks (RNGTs) are used in psychology for examining
 how humans generate sequences devoid of predictable patterns. By adapting an
@@ -2095,7 +2095,7 @@ deepen our understanding of how LLMs can more closely mimic human random
 generation behaviors, while also broadening their applications in cognitive and
 behavioral science research.
 
-摘要：隨機數字產生任務 (RNGT) 用於心理學中，用於檢驗人類如何產生沒有可預測模式的序列。透過將現有的 RNGT 調整到與 LLM 相容的環境，這項初步研究測試了 ChatGPT-3.5，一個訓練於人類產生文字的大語言模型 (LLM)，在產生隨機數字序列時是否展現出類人的認知偏誤。初步發現顯示，與人類相比，ChatGPT-3.5 更有效地避免重複和順序模式，重複頻率和相鄰數字頻率明顯較低。持續研究不同的模型、參數和提示方法，將加深我們對 LLM 如何更接近人類隨機產生行為的理解，同時也擴展它們在認知和行為科學研究中的應用。
+摘要：隨機數字產生任務 (RNGT) 用於心理學中，用於檢查人類如何產生沒有可預測模式的序列。通過將現有的 RNGT 適應到與 LLM 相容的環境中，這項初步研究測試了 ChatGPT-3.5，一個訓練於人類生成文本的大語言模型 (LLM)，在產生隨機數字序列時是否表現出類似人類的認知偏誤。初步結果表明，與人類相比，ChatGPT-3.5 更有效地避免了重複和順序模式，重複頻率和相鄰數字頻率明顯較低。持續研究不同的模型、參數和提示方法將加深我們對 LLM 如何更接近模擬人類隨機產生行為的理解，同時擴展它們在認知和行為科學研究中的應用。
 
 ##### **Data-driven Conditional Instrumental Variables for Debiasing Recommender Systems**
 2408.09651v1 by Zhirong Huang, Shichao Zhang, Debo Cheng, Jiuyong Li, Lin Liu, Guangquan Lu
@@ -2277,7 +2277,7 @@ meta-learning.
 摘要：透過 DNA 微陣列取得的基因表現特徵，已證明能成功提供癌症偵測分類器的關鍵資訊。然而，這些資料集中樣本數目有限，對採用深度神經網路等複雜方法進行精密的分析構成挑戰。為了解決這個「小資料」困境，元學習已被引入作為一種解決方案，透過使用類似的資料集來增強機器學習模型的最佳化，從而促進更快速地適應目標資料集，而無需足夠的樣本。在本研究中，我們提出一個基於元學習的方法，從基因表現特徵預測肺癌。我們將這個架構應用於既定的深度學習方法，並採用四個不同的資料集進行元學習任務，其中一個作為目標資料集，其餘作為來源資料集。我們的方法針對傳統和深度學習方法進行評估，結果顯示元學習在擴增來源資料上的表現優於在單一資料集上訓練的基準。此外，我們進行元學習和遷移學習方法之間的比較分析，以強調所提出的方法在解決與樣本大小有限相關的挑戰方面的效率。最後，我們納入可解釋性研究，以說明元學習所做決策的獨特性。
 
 ##### **MoDeGPT: Modular Decomposition for Large Language Model Compression**
-2408.09632v1 by Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu
+2408.09632v2 by Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu
 
 Large Language Models (LLMs) have reshaped the landscape of artificial
 intelligence by demonstrating exceptional performance across various tasks.
@@ -2300,7 +2300,7 @@ and OPT models, MoDeGPT maintains 90-95% zero-shot performance with 25-30%
 compression rates. Moreover, the compression can be done on a single GPU within
 a few hours and increases the inference throughput by up to 46%.
 
-摘要：大型語言模型 (LLM) 透過展現各種任務的卓越效能，重塑了人工智慧的版圖。然而，龐大的運算需求使得它們難以部署在資源有限的裝置上。最近，使用低秩矩陣技術的壓縮方法已展現潛力，但這些方法通常會導致準確度下降或在參數和推論延遲中引入顯著的負擔。本文介紹了模組化分解 (MoDeGPT)，這是一個新穎的結構化壓縮架構，不需要恢復微調，同時解決了上述缺點。MoDeGPT 將 Transformer 區塊分割成由矩陣對組成的模組，並透過重建模組級別的輸出，來降低隱藏維度。MoDeGPT 是基於一個理論架構開發的，該架構利用了三種完善的矩陣分解演算法——Nystr\"om 近似、CR 分解和 SVD——並將它們應用於我們重新定義的 Transformer 模組。我們的全面實驗顯示，MoDeGPT 在沒有反向傳播的情況下，與依賴於梯度資訊的先前結構化壓縮方法相匹配或超越它們，並在壓縮 13B 模型時節省了 98% 的運算成本。在 \textsc{Llama}-2/3 和 OPT 模型上，MoDeGPT 在 25-30% 的壓縮率下維持了 90-95% 的零次學習效能。此外，壓縮可以在單個 GPU 上在數小時內完成，並將推論吞吐量提高了 46%。
+摘要：大型語言模型 (LLM) 透過在各種任務中展現絕佳的效能，重塑了人工智慧的樣貌。然而，龐大的運算需求讓它們在資源受限的裝置上部署時面臨挑戰。近來，採用低秩矩陣技術的壓縮方法展現了前景，但這些方法通常會導致準確度降低，或在參數和推論延遲方面造成顯著的負擔。這篇論文介紹了模組化分解 (MoDeGPT)，這是一個創新的結構化壓縮架構，不需要恢復微調，同時解決了上述缺點。MoDeGPT 將 Transformer 區塊分割成包含矩陣對的模組，並透過重建模組層級的輸出，減少隱藏維度。MoDeGPT 是根據一個理論架構開發的，該架構利用了三種完善的矩陣分解演算法——Nystr\"om 近似、CR 分解和 SVD——並將它們應用於我們重新定義的 Transformer 模組。我們的綜合實驗顯示，MoDeGPT 在沒有反向傳播的情況下，比得上或超越了依賴梯度資訊的先前結構化壓縮方法，並在壓縮 13B 模型時節省了 98% 的運算成本。在 \textsc{Llama}-2/3 和 OPT 模型上，MoDeGPT 在零次學習的效能上維持在 90-95%，壓縮率為 25-30%。此外，壓縮可以在單一 GPU 上於數小時內完成，並將推論處理量提升多達 46%。
 
 ##### **A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification**
 2408.09629v1 by Claudio M. V. de Andrade, Washington Cunha, Davi Reis, Adriana Silvina Pagano, Leonardo Rocha, Marcos André Gonçalves

@@ -2,11 +2,15 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819v1](http://arxiv.org/abs/2408.10819v1)|null|
+|**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
+|**2024-08-19**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v1](http://arxiv.org/abs/2408.10362v1)|null|
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124v1](http://arxiv.org/abs/2408.10124v1)|[link](https://github.com/zhangtia16/molgraph-lardo)|
 |**2024-08-19**|**Geometry Informed Tokenization of Molecules for Language Model Generation**|Xiner Li et.al.|[2408.10120v1](http://arxiv.org/abs/2408.10120v1)|null|
 |**2024-08-19**|**GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization**|Ran Liu et.al.|[2408.10115v1](http://arxiv.org/abs/2408.10115v1)|[link](https://github.com/oswald1997/glimmer)|
 |**2024-08-19**|**SEMDR: A Semantic-Aware Dual Encoder Model for Legal Judgment Prediction with Legal Clue Tracing**|Pengjie Liu et.al.|[2408.09717v1](http://arxiv.org/abs/2408.09717v1)|null|
 |**2024-08-18**|**Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path**|Xinnan Dai et.al.|[2408.09529v1](http://arxiv.org/abs/2408.09529v1)|null|
+|**2024-08-18**|**Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models**|Kening Zheng et.al.|[2408.09429v1](http://arxiv.org/abs/2408.09429v1)|null|
 |**2024-08-16**|**ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**|Debashis Gupta et.al.|[2408.08972v1](http://arxiv.org/abs/2408.08972v1)|null|
 |**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782v1](http://arxiv.org/abs/2408.08782v1)|[link](https://github.com/cw-wan/EmoDynamiX-v2)|
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
@@ -98,12 +102,78 @@
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
 |**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v3](http://arxiv.org/abs/2407.18961v3)|[link](https://github.com/apple/axlearn)|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
-|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703v3](http://arxiv.org/abs/2407.12703v3)|null|
-|**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543v1](http://arxiv.org/abs/2407.12543v1)|[link](https://github.com/mitvis/abstraction-alignment)|
-|**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522v1](http://arxiv.org/abs/2407.12522v1)|null|
-|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888v1](http://arxiv.org/abs/2407.12888v1)|[link](https://github.com/pinglab-utils/rugged)|
 
 #### Abstracts
+##### **Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**
+2408.10819v1 by Rui Yang, Jiahao Zhu, Jianping Man, Li Fang, Yi Zhou
+
+Knowledge graph completion (KGC) aims to identify missing triples in a
+knowledge graph (KG). This is typically achieved through tasks such as link
+prediction and instance completion. However, these methods often focus on
+either static knowledge graphs (SKGs) or temporal knowledge graphs (TKGs),
+addressing only within-scope triples. This paper introduces a new generative
+completion framework called Generative Subgraph-based KGC (GS-KGC). GS-KGC
+employs a question-answering format to directly generate target entities,
+addressing the challenge of questions having multiple possible answers. We
+propose a strategy that extracts subgraphs centered on entities and
+relationships within the KG, from which negative samples and neighborhood
+information are separately obtained to address the one-to-many problem. Our
+method generates negative samples using known facts to facilitate the discovery
+of new information. Furthermore, we collect and refine neighborhood path data
+of known entities, providing contextual information to enhance reasoning in
+large language models (LLMs). Our experiments evaluated the proposed method on
+four SKGs and two TKGs, achieving state-of-the-art Hits@1 metrics on five
+datasets. Analysis of the results shows that GS-KGC can discover new triples
+within existing KGs and generate new facts beyond the closed KG, effectively
+bridging the gap between closed-world and open-world KGC.
+
+摘要：知識圖譜補全 (KGC) 的目標是識別知識圖譜 (KG) 中遺失的三元組。這通常透過連結預測和實例補全等任務達成。然而，這些方法通常專注於靜態知識圖譜 (SKG) 或時序知識圖譜 (TKG)，僅處理範圍內的三元組。本文介紹一個名為生成子圖為基礎的 KGC (GS-KGC) 的新生成補全架構。GS-KGC 使用問答格式直接生成目標實體，以解決問題有多個可能答案的挑戰。我們提出一個策略，從知識圖譜中以實體和關係為中心的子圖，從中分別取得負面樣本和鄰域資訊，以解決一對多問題。我們的模型使用已知事實生成負面樣本，以利發現新資訊。此外，我們收集並精煉已知實體的鄰域路徑資料，提供背景資訊以增強大型語言模型 (LLM) 中的推理。我們的實驗在四個 SKG 和兩個 TKG 上評估所提出的方法，在五個資料集上達成最先進的 Hits@1 指標。結果分析顯示，GS-KGC 能夠在現有的 KG 中發現新的三元組，並生成封閉 KG 以外的新事實，有效地縮小封閉世界和開放世界 KGC 之間的差距。
+
+##### **Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**
+2408.10592v1 by Litian Huang, Xinguo Yu, Feng Xiong, Bin He, Shengbing Tang, Jiawen Fu
+
+Solving Algebra Problems with Geometry Diagrams (APGDs) is still a
+challenging problem because diagram processing is not studied as intensively as
+language processing. To work against this challenge, this paper proposes a
+hologram reasoning scheme and develops a high-performance method for solving
+APGDs by using this scheme. To reach this goal, it first defines a hologram,
+being a kind of graph, and proposes a hologram generator to convert a given
+APGD into a hologram, which represents the entire information of APGD and the
+relations for solving the problem can be acquired from it by a uniform way.
+Then HGR, a hologram reasoning method employs a pool of prepared graph models
+to derive algebraic equations, which is consistent with the geometric theorems.
+This method is able to be updated by adding new graph models into the pool.
+Lastly, it employs deep reinforcement learning to enhance the efficiency of
+model selection from the pool. The entire HGR not only ensures high solution
+accuracy with fewer reasoning steps but also significantly enhances the
+interpretability of the solution process by providing descriptions of all
+reasoning steps. Experimental results demonstrate the effectiveness of HGR in
+improving both accuracy and interpretability in solving APGDs.
+
+摘要：利用幾何圖形圖（APGD）解決代數問題仍然是一個具有挑戰性的問題，因為圖形處理的研究不如語言處理那麼深入。為了應對這一挑戰，本文提出了一種全息推理方案，並開發了一種使用該方案解決 APGD 的高性能方法。為了達到這個目標，它首先定義了一個全息圖，作為一種圖形，並提出了一個全息圖生成器，將給定的 APGD 轉換為一個全息圖，它表示 APGD 的全部信息，並且可以通過統一的方式從中獲取解決問題的關係。然後，HGR，一種全息推理方法，採用一組準備好的圖形模型來推導代數方程式，這與幾何定理是一致的。這種方法可以通過向池中添加新的圖形模型來更新。最後，它採用深度強化學習來提高從池中選擇模型的效率。整個 HGR 不僅確保了較少的推理步驟即可獲得較高的求解精度，而且還通過提供所有推理步驟的描述來顯著增強了解決過程的可解釋性。實驗結果證明了 HGR 在提高求解 APGD 的準確性和可解釋性方面的有效性。
+
+##### **Query languages for neural networks**
+2408.10362v1 by Martin Grohe, Christoph Standke, Juno Steegmans, Jan Van den Bussche
+
+We lay the foundations for a database-inspired approach to interpreting and
+understanding neural network models by querying them using declarative
+languages. Towards this end we study different query languages, based on
+first-order logic, that mainly differ in their access to the neural network
+model. First-order logic over the reals naturally yields a language which views
+the network as a black box; only the input--output function defined by the
+network can be queried. This is essentially the approach of constraint query
+languages. On the other hand, a white-box language can be obtained by viewing
+the network as a weighted graph, and extending first-order logic with summation
+over weight terms. The latter approach is essentially an abstraction of SQL. In
+general, the two approaches are incomparable in expressive power, as we will
+show. Under natural circumstances, however, the white-box approach can subsume
+the black-box approach; this is our main result. We prove the result concretely
+for linear constraint queries over real functions definable by feedforward
+neural networks with a fixed number of hidden layers and piecewise linear
+activation functions.
+
+摘要：我们奠定了受数据库启发的基础，通过使用声明式语言查询神经网络模型来解释和理解神经网络模型。为此，我们研究了不同的查询语言，基于一阶逻辑，它们主要在访问神经网络模型方面有所不同。实数上的一阶逻辑自然产生了一种将网络视为黑盒的语言；只有网络定义的输入输出函数可以被查询。这本质上是约束查询语言的方法。另一方面，可以通过将网络视为加权图来获得白盒语言，并用权重项上的求和扩展一阶逻辑。后者方法本质上是 SQL 的抽象。一般来说，这两种方法在表达能力上是不可比的，正如我们将展示的那样。然而，在自然情况下，白盒方法可以包含黑盒方法；这是我们的主要结果。我们具体证明了具有固定数量的隐藏层和分段线性激活函数的前馈神经网络可定义的实函数上的线性约束查询的结果。
+
 ##### **Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**
 2408.10124v1 by Tianyu Zhang, Yuxiang Ren, Chengbin Hou, Hairong Lv, Xuegong Zhang
 
@@ -216,6 +286,34 @@ real-world investigation on knowledge graphs and make consistent observations
 with our findings. The codes and datasets are available.
 
 摘要：大型語言模型 (LLM) 在各種推理任務中已取得巨大的成功。在這項工作中，我們專注於 LLM 的圖形推理能力。儘管理論研究證明 LLM 有能力處理圖形推理任務，但經驗評估顯示出許多失敗。為了加深我們對這種差異的理解，我們重新探討 LLM 在三個基本圖形任務上的能力：圖形描述翻譯、圖形連通性和最短路徑問題。我們的研究結果表明，LLM 可能無法通過文本描述理解圖形結構，並且在所有這三個基本任務中表現出不同的性能。同時，我們對知識圖譜進行了現實世界的調查，並對我們的發現進行了一致的觀察。代碼和數據集可用。
+
+##### **Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models**
+2408.09429v1 by Kening Zheng, Junkai Chen, Yibo Yan, Xin Zou, Xuming Hu
+
+Hallucination issues persistently plagued current multimodal large language
+models (MLLMs). While existing research primarily focuses on object-level or
+attribute-level hallucinations, sidelining the more sophisticated relation
+hallucinations that necessitate advanced reasoning abilities from MLLMs.
+Besides, recent benchmarks regarding relation hallucinations lack in-depth
+evaluation and effective mitigation. Moreover, their datasets are typically
+derived from a systematic annotation process, which could introduce inherent
+biases due to the predefined process. To handle the aforementioned challenges,
+we introduce Reefknot, a comprehensive benchmark specifically targeting
+relation hallucinations, consisting of over 20,000 samples derived from
+real-world scenarios. Specifically, we first provide a systematic definition of
+relation hallucinations, integrating perspectives from perceptive and cognitive
+domains. Furthermore, we construct the relation-based corpus utilizing the
+representative scene graph dataset Visual Genome (VG), from which semantic
+triplets follow real-world distributions. Our comparative evaluation across
+three distinct tasks revealed a substantial shortcoming in the capabilities of
+current MLLMs to mitigate relation hallucinations. Finally, we advance a novel
+confidence-based mitigation strategy tailored to tackle the relation
+hallucinations problem. Across three datasets, including Reefknot, we observed
+an average reduction of 9.75% in the hallucination rate. We believe our paper
+sheds valuable insights into achieving trustworthy multimodal intelligence. Our
+dataset and code will be released upon paper acceptance.
+
+摘要：幻覺問題持續困擾著當前的多模態大型語言模型 (MLLM)。雖然現有研究主要關注物件層級或屬性層級的幻覺，但卻忽視了需要 MLLM 具備進階推理能力的更複雜關係幻覺。此外，關於關係幻覺的最新基準缺乏深入評估和有效的緩解措施。而且，他們的資料集通常來自系統化的註釋過程，這可能會因為預先定義的過程而引入固有的偏差。為了應對上述挑戰，我們引入了 Reefknot，這是一個專門針對關係幻覺的綜合基準，包含超過 20,000 個來自真實世界場景的範例。具體來說，我們首先提供關係幻覺的系統性定義，整合來自知覺和認知領域的觀點。此外，我們利用具有代表性的場景圖形資料集 Visual Genome (VG) 建構基於關係的語料庫，語義三元組遵循真實世界的分佈。我們在三個不同的任務中進行比較評估，揭示了當前 MLLM 在減輕關係幻覺方面的能力存在重大缺陷。最後，我們提出了一種新的基於信心的緩解策略，專門用於解決關係幻覺問題。在包括 Reefknot 在內的三個資料集中，我們觀察到幻覺率平均降低了 9.75%。我們相信我們的論文對實現值得信賴的多模態智慧提供了寶貴的見解。我們的資料集和程式碼將在論文被接受後發布。
 
 ##### **ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**
 2408.08972v1 by Debashis Gupta, Aditi Golder, Luis Fernendez, Miles Silman, Greg Lersen, Fan Yang, Bob Plemmons, Sarra Alqahtani, Paul Victor Pauca
@@ -2394,100 +2492,4 @@ outperforms standard IO prompting, CoT and ToT with a considerable margin, and
 non-sequential prompting generally outperforms sequential prompting.
 
 摘要：通過闡述一系列中間推理步驟，大幅提升大型語言模型 (LLM) 解決複雜問題的能力，因為這些步驟會促使 LLM 按順序思考。然而，人類的諷刺理解通常被認為是一種直覺且全面的認知過程，其中各種語言、語境和情緒線索整合在一起，以全面了解說話者的真實意圖，這被認為不僅限於循序漸進的推理過程。為了驗證這個論點，我們引入了一個新的提示框架，稱為 SarcasmCue，其中包含四種提示策略，即矛盾鏈 (CoC)、線索圖 (GoC)、線索袋 (BoC) 和線索張量 (ToC)，它引發 LLM 通過考慮順序和非順序提示方法來檢測人類的諷刺。通過對四個基準數據集進行全面的實證比較，我們表明所提出的四種提示方法以相當大的幅度優於標準 IO 提示、CoT 和 ToT，並且非順序提示通常優於順序提示。
-
-##### **Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**
-2407.12703v3 by Youmin Ko, Hyemin Yang, Taeuk Kim, Hyunjoon Kim
-
-Fine-tuning pre-trained language models (PLMs) has recently shown a potential
-to improve knowledge graph completion (KGC). However, most PLM-based methods
-encode only textual information, neglecting various topological structures of
-knowledge graphs (KGs). In this paper, we empirically validate the significant
-relations between the structural properties of KGs and the performance of the
-PLM-based methods. To leverage the structural knowledge, we propose a
-Subgraph-Aware Training framework for KGC (SATKGC) that combines (i)
-subgraph-aware mini-batching to encourage hard negative sampling, and (ii) a
-new contrastive learning method to focus more on harder entities and harder
-negative triples in terms of the structural properties. To the best of our
-knowledge, this is the first study to comprehensively incorporate the
-structural inductive bias of the subgraphs into fine-tuning PLMs. Extensive
-experiments on four KGC benchmarks demonstrate the superiority of SATKGC. Our
-code is available.
-
-摘要：微調預訓練語言模型 (PLM) 近來顯示出改善知識圖譜完成功能 (KGC) 的潛力。然而，大多數基於 PLM 的方法僅編碼文字資訊，忽略了知識圖譜 (KG) 的各種拓撲結構。在本文中，我們透過經驗驗證了 KG 的結構屬性與基於 PLM 的方法效能之間的重要關係。為了利用結構知識，我們提出了一個用於 KGC 的子圖感知訓練架構 (SATKGC)，它結合了：(i) 子圖感知小批次處理以鼓勵困難負面抽樣，以及 (ii) 一種新的對比學習方法，在結構屬性方面更專注於更困難的實體和更困難的負三元組。據我們所知，這是第一個將子圖的結構歸納偏誤全面納入 PLM 微調的研究。在四個 KGC 基準上的廣泛實驗證明了 SATKGC 的優越性。我們的程式碼現已公開。
-
-##### **Abstraction Alignment: Comparing Model and Human Conceptual Relationships**
-2407.12543v1 by Angie Boggust, Hyemin Bang, Hendrik Strobelt, Arvind Satyanarayan
-
-Abstraction -- the process of generalizing specific examples into broad
-reusable patterns -- is central to how people efficiently process and store
-information and apply their knowledge to new data. Promisingly, research has
-shown that ML models learn representations that span levels of abstraction,
-from specific concepts like "bolo tie" and "car tire" to more general concepts
-like "CEO" and "model". However, existing techniques analyze these
-representations in isolation, treating learned concepts as independent
-artifacts rather than an interconnected web of abstraction. As a result,
-although we can identify the concepts a model uses to produce its output, it is
-difficult to assess if it has learned a human-aligned abstraction of the
-concepts that will generalize to new data. To address this gap, we introduce
-abstraction alignment, a methodology to measure the agreement between a model's
-learned abstraction and the expected human abstraction. We quantify abstraction
-alignment by comparing model outputs against a human abstraction graph, such as
-linguistic relationships or medical disease hierarchies. In evaluation tasks
-interpreting image models, benchmarking language models, and analyzing medical
-datasets, abstraction alignment provides a deeper understanding of model
-behavior and dataset content, differentiating errors based on their agreement
-with human knowledge, expanding the verbosity of current model quality metrics,
-and revealing ways to improve existing human abstractions.
-
-摘要：抽象化——將特定範例概括為廣泛可重複使用的模式的過程——是人們有效處理和儲存資訊，並將其知識應用於新資料的核心。有希望的是，研究顯示 ML 模型學習跨越抽象層級的表徵，從「細領帶」和「汽車輪胎」等具體概念到「執行長」和「模型」等更一般的概念。然而，現有的技術孤立地分析這些表徵，將學習到的概念視為獨立的產物，而不是抽象的相互連結網路。因此，儘管我們可以識別模型用來產生其輸出的概念，但很難評估它是否學習到概念的人類對齊抽象，這些概念將概括到新的資料。為了解決這個差距，我們引入了抽象對齊，一種衡量模型學習的抽象與預期的抽象之間一致性的方法。我們透過將模型輸出與人類抽象圖形（例如語言關係或醫療疾病層級結構）進行比較來量化抽象對齊。在解釋影像模型、基準語言模型和分析醫療資料集的評估任務中，抽象對齊提供了對模型行為和資料集內容更深入的理解，根據與人類知識的一致性區分錯誤，擴展當前模型品質指標的詳細程度，並揭示改善現有人類抽象的方法。
-
-##### **Struct-X: Enhancing Large Language Models Reasoning with Structured Data**
-2407.12522v1 by Xiaoyu Tan, Haoyu Wang, Xihe Qiu, Yuan Cheng, Yinghui Xu, Wei Chu, Yuan Qi
-
-Structured data, rich in logical and relational information, has the
-potential to enhance the reasoning abilities of large language models (LLMs).
-Still, its integration poses a challenge due to the risk of overwhelming LLMs
-with excessive tokens and irrelevant context information. To address this, we
-propose Struct-X, a novel framework that operates through five key phases:
-``read-model-fill-reflect-reason'' efficiently enabling LLMs to utilize
-structured data. It begins by encoding structured data into a topological space
-using graph embeddings, followed by filling in missing entity information with
-knowledge retrieval modules, and filtering out irrelevant tokens via a
-self-supervised module. The final phase involves constructing a topological
-network with selected tokens to further reduce the total token length for more
-effective LLM inference. Additionally, Struct-X includes an Auxiliary Module
-trained to generate prompts, aiding LLMs in analyzing structured data.
-Extensive experiments on benchmarks, including the knowledge graph
-question-answer task and the long document reading comprehension task, show
-that Struct-X notably improves LLM reasoning, demonstrating the effectiveness
-of structured data augmentation in improving LLM inference with complex input
-context.
-
-摘要：結構化資料富含邏輯和關係資訊，有潛力增強大型語言模型 (LLM) 的推理能力。儘管如此，由於過多符號和無關脈絡資訊可能會讓 LLM 不堪負荷，因此整合此類資料構成了一項挑戰。為了解決此問題，我們提出 Struct-X，這是一個透過五個關鍵階段運作的新穎架構：``讀取-建模-填補-反思-推理''，有效地讓 LLM 能夠利用結構化資料。它首先使用圖形嵌入將結構化資料編碼到拓撲空間中，接著利用知識擷取模組填補遺失的實體資訊，並透過自我監督模組篩選出無關符號。最後一個階段涉及建構一個拓撲網路，其中包含選定的符號，以進一步減少總符號長度，以便更有效地進行 LLM 推論。此外，Struct-X 還包括一個輔助模組，經過訓練可以產生提示，協助 LLM 分析結構化資料。在基準上的大量實驗，包括知識圖譜問答任務和長篇文件閱讀理解任務，顯示 Struct-X 明顯改善了 LLM 推理，證明了結構化資料擴充在改善 LLM 推論時的有效性，特別是在輸入脈絡複雜的情況下。
-
-##### **Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**
-2407.12888v1 by Alexander R. Pelletier, Joseph Ramirez, Irsyad Adam, Simha Sankar, Yu Yan, Ding Wang, Dylan Steinecke, Wei Wang, Peipei Ping
-
-The vast amount of biomedical information available today presents a
-significant challenge for investigators seeking to digest, process, and
-understand these findings effectively. Large Language Models (LLMs) have
-emerged as powerful tools to navigate this complex and challenging data
-landscape. However, LLMs may lead to hallucinatory responses, making Retrieval
-Augmented Generation (RAG) crucial for achieving accurate information. In this
-protocol, we present RUGGED (Retrieval Under Graph-Guided Explainable disease
-Distinction), a comprehensive workflow designed to support investigators with
-knowledge integration and hypothesis generation, identifying validated paths
-forward. Relevant biomedical information from publications and knowledge bases
-are reviewed, integrated, and extracted via text-mining association analysis
-and explainable graph prediction models on disease nodes, forecasting potential
-links among drugs and diseases. These analyses, along with biomedical texts,
-are integrated into a framework that facilitates user-directed mechanism
-elucidation as well as hypothesis exploration through RAG-enabled LLMs. A
-clinical use-case demonstrates RUGGED's ability to evaluate and recommend
-therapeutics for Arrhythmogenic Cardiomyopathy (ACM) and Dilated Cardiomyopathy
-(DCM), analyzing prescribed drugs for molecular interactions and unexplored
-uses. The platform minimizes LLM hallucinations, offers actionable insights,
-and improves the investigation of novel therapeutics.
-
-摘要：<paragraph>現今大量的生物醫學資訊對試圖有效消化、處理和理解這些發現的研究人員構成重大挑戰。大型語言模型 (LLM) 已成為在這個複雜且具挑戰性的資料環境中導航的強大工具。然而，LLM 可能會導致幻覺反應，這使得檢索擴增生成 (RAG) 對於獲得準確資訊至關重要。在這個協定中，我們提出 RUGGED（圖形導引可解釋疾病區分的檢索），這是一個全面的工作流程，旨在支援研究人員進行知識整合和假設產生，找出經過驗證的進展路徑。來自出版物和知識庫的相關生物醫學資訊會透過文本探勘關聯分析和疾病節點的可解釋圖形預測模型進行檢閱、整合和萃取，預測藥物和疾病之間的潛在關聯。這些分析連同生物醫學文本會整合到一個架構中，該架構促進使用者導向的機制闡明，以及透過 RAG 啟用的 LLM 進行假設探討。一個臨床使用案例展示了 RUGGED 評估和推薦用於心律失常性心肌病變 (ACM) 和擴張型心肌病變 (DCM) 的治療方法的能力，分析處方藥物的分子交互作用和未探索的用途。這個平台將 LLM 幻覺降到最低，提供可操作的見解，並改善新治療方法的研究。</paragraph>
 

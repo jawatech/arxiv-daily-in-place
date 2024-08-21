@@ -2,6 +2,8 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**|Yihao Hou et.al.|[2408.10715v1](http://arxiv.org/abs/2408.10715v1)|null|
+|**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532v1](http://arxiv.org/abs/2408.10532v1)|null|
 |**2024-08-19**|**Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**|Elaine Kong et.al.|[2408.10108v1](http://arxiv.org/abs/2408.10108v1)|null|
 |**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075v1](http://arxiv.org/abs/2408.10075v1)|null|
 |**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039v1](http://arxiv.org/abs/2408.10039v1)|null|
@@ -16,7 +18,9 @@
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432v1](http://arxiv.org/abs/2408.09432v1)|null|
 |**2024-08-18**|**$\mathbb{BEHR}$NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410v1](http://arxiv.org/abs/2408.09410v1)|[link](https://github.com/chenzrg/behrmecom)|
 |**2024-08-18**|**Panorama Tomosynthesis from Head CBCT with Simulated Projection Geometry**|Anusree P. S. et.al.|[2408.09358v2](http://arxiv.org/abs/2408.09358v2)|null|
+|**2024-08-17**|**FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models**|Xiaochen Wang et.al.|[2408.10276v1](http://arxiv.org/abs/2408.10276v1)|null|
 |**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227v1](http://arxiv.org/abs/2408.09227v1)|null|
+|**2024-08-17**|**FedKBP: Federated dose prediction framework for knowledge-based planning in radiation therapy**|Jingyun Chen et.al.|[2408.10275v1](http://arxiv.org/abs/2408.10275v1)|null|
 |**2024-08-17**|**AI Managed Emergency Documentation with a Pretrained Model**|David Menzies et.al.|[2408.09193v1](http://arxiv.org/abs/2408.09193v1)|null|
 |**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
 |**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106v1](http://arxiv.org/abs/2408.09106v1)|null|
@@ -45,6 +49,7 @@
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v1](http://arxiv.org/abs/2408.07531v1)|null|
 |**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
 |**2024-08-14**|**The Complexity of Manipulation of k-Coalitional Games on Graphs**|Hodaya Barr et.al.|[2408.07368v1](http://arxiv.org/abs/2408.07368v1)|[link](https://github.com/hodayaBen/The-Complexity-of-Manipulation-of-k-Coalitional-Games-on-Graphs)|
+|**2024-08-13**|**Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**|Arya Hadizadeh Moghaddam et.al.|[2408.10259v1](http://arxiv.org/abs/2408.10259v1)|null|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
 |**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|[link](https://github.com/darthreca/crop-field-segmentation-ukan)|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037v1](http://arxiv.org/abs/2408.07037v1)|null|
@@ -91,19 +96,63 @@
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v2](http://arxiv.org/abs/2408.02349v2)|null|
+|**2024-08-05**|**A Conceptual Framework for Ethical Evaluation of Machine Learning Systems**|Neha R. Gupta et.al.|[2408.10239v1](http://arxiv.org/abs/2408.10239v1)|null|
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
 |**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|[link](https://github.com/jihyechoi77/malade)|
 |**2024-08-03**|**U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation**|Xin Wang et.al.|[2408.08881v1](http://arxiv.org/abs/2408.08881v1)|null|
 |**2024-08-03**|**Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**|Jung In Park et.al.|[2408.04650v1](http://arxiv.org/abs/2408.04650v1)|null|
-|**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|[link](https://github.com/41enthusiast/ST-SACLF-ver1.1)|
-|**2024-08-03**|**Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**|Jinwen Tang et.al.|[2408.01614v1](http://arxiv.org/abs/2408.01614v1)|null|
-|**2024-08-02**|**Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference**|Hengrui Cai et.al.|[2408.01582v1](http://arxiv.org/abs/2408.01582v1)|null|
-|**2024-08-02**|**High-Throughput Phenotyping of Clinical Text Using Large Language Models**|Daniel B. Hier et.al.|[2408.01214v1](http://arxiv.org/abs/2408.01214v1)|null|
-|**2024-08-02**|**Optimizing Variational Quantum Circuits Using Metaheuristic Strategies in Reinforcement Learning**|Michael Kölle et.al.|[2408.01187v1](http://arxiv.org/abs/2408.01187v1)|null|
-|**2024-08-02**|**Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding**|Danbinaerin Han et.al.|[2408.01096v1](http://arxiv.org/abs/2408.01096v1)|null|
 
 #### Abstracts
+##### **Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**
+2408.10715v1 by Yihao Hou, Christoph Bert, Ahmed Gomaa, Godehard Lahmer, Daniel Hoefler, Thomas Weissmann, Raphaela Voigt, Philipp Schubert, Charlotte Schmitter, Alina Depardon, Sabine Semrau, Andreas Maier, Rainer Fietkau, Yixing Huang, Florian Putz
+
+Generating physician letters is a time-consuming task in daily clinical
+practice. This study investigates local fine-tuning of large language models
+(LLMs), specifically LLaMA models, for physician letter generation in a
+privacy-preserving manner within the field of radiation oncology. Our findings
+demonstrate that base LLaMA models, without fine-tuning, are inadequate for
+effectively generating physician letters. The QLoRA algorithm provides an
+efficient method for local intra-institutional fine-tuning of LLMs with limited
+computational resources (i.e., a single 48 GB GPU workstation within the
+hospital). The fine-tuned LLM successfully learns radiation oncology-specific
+information and generates physician letters in an institution-specific style.
+ROUGE scores of the generated summary reports highlight the superiority of the
+8B LLaMA-3 model over the 13B LLaMA-2 model. Further multidimensional physician
+evaluations of 10 cases reveal that, although the fine-tuned LLaMA-3 model has
+limited capacity to generate content beyond the provided input data, it
+successfully generates salutations, diagnoses and treatment histories,
+recommendations for further treatment, and planned schedules. Overall, clinical
+benefit was rated highly by the clinical experts (average score of 3.44 on a
+4-point scale). With careful physician review and correction, automated
+LLM-based physician letter generation has significant practical value.
+
+摘要：<paragraph>在日常臨床實務中，生成醫師信函是一項耗時的任務。本研究探討大型語言模型 (LLM) 的局部微調，特別是 LLaMA 模型，在放射腫瘤學領域中以隱私保護的方式生成醫師信函。我們的研究結果表明，基礎 LLaMA 模型在沒有微調的情況下，不足以有效生成醫師信函。QLoRA 演算法提供了一種有效的方法，可以在有限的運算資源（即醫院內單一 48 GB GPU 工作站）下，進行 LLM 的局部院內微調。微調後的 LLM 成功學習了放射腫瘤學的特定資訊，並以特定於機構的風格生成醫師信函。生成的摘要報告的 ROUGE 分數突顯了 8B LLaMA-3 模型優於 13B LLaMA-2 模型。進一步的多維醫師評估顯示，儘管微調後的 LLaMA-3 模型生成超出提供輸入資料的內容的能力有限，但它成功地生成了問候語、診斷和治療病史、進一步治療建議和計畫行程。整體而言，臨床專家對臨床效益的評分很高（在 4 分制中平均得分為 3.44）。透過仔細的醫師審查和更正，基於 LLM 的自動化醫師信函生成具有顯著的實用價值。</paragraph>
+
+##### **NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**
+2408.10532v1 by Michelle Han, Junyao Chen
+
+With diet and nutrition apps reaching 1.4 billion users in 2022 [1], it's no
+surprise that health apps like MyFitnessPal, Noom, and Calorie Counter, are
+surging in popularity. However, one major setback [2] of nearly all nutrition
+applications is that users must enter food data manually, which is
+time-consuming and tedious. Thus, there has been an increasing demand for
+applications that can accurately identify food items, analyze their nutritional
+content, and offer dietary recommendations in real-time. This paper introduces
+a comprehensive system that combines advanced computer vision techniques with
+nutrition analysis, implemented in a versatile mobile and web application. The
+system is divided into three key components: 1) food detection using the YOLOv8
+model, 2) nutrient analysis via the Edamam Nutrition Analysis API, and 3)
+personalized meal recommendations using the Edamam Meal Planning and Recipe
+Search APIs. Designed for both mobile and web platforms, the application
+ensures fast processing times with an intuitive user interface, with features
+such as data visualizations using Chart.js, a login system, and personalized
+settings for dietary preferences, allergies, and cuisine choices. Preliminary
+results showcase the system's effectiveness, making it a valuable tool for
+users to make informed dietary decisions.
+
+摘要：隨著飲食和營養應用程式在 2022 年達到 14 億使用者 [1]，MyFitnessPal、Noom 和 Calorie Counter 等健康應用程式大幅竄紅也就不足為奇了。然而，幾乎所有營養應用程式的一個主要缺點 [2] 是使用者必須手動輸入食物資料，這既耗時又乏味。因此，對於能夠準確辨識食物品項、分析其營養成分，並即時提供飲食建議的應用程式需求日益增加。本文介紹了一個全面的系統，結合了先進的電腦視覺技術與營養分析，並實作於一個多功能的手機和網路應用程式中。這個系統分為三個關鍵組成部分：1) 使用 YOLOv8 模型進行食物偵測，2) 透過 Edamam 營養分析 API 進行營養分析，以及 3) 使用 Edamam 餐點規劃和食譜搜尋 API 提供個人化餐點建議。此應用程式專為手機和網路平台設計，具備直覺的使用者介面，並提供快速處理時間，其功能包括使用 Chart.js 的資料視覺化、登入系統，以及針對飲食偏好、過敏原和料理選擇的個人化設定。初步結果證明了此系統的有效性，使其成為使用者做出明智飲食決策的寶貴工具。
+
 ##### **Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**
 2408.10108v1 by Elaine Kong, Kuo-Ting, Huang, Aakash Gautam
 
@@ -436,6 +485,28 @@ high-quality panoramic images irrespective of the CBCT scanner geometry.
 
 摘要：錐狀光束電腦斷層掃描 (CBCT) 和全景 X 射線是牙科保健中最常用的影像模式。CBCT 可以產生患者頭部的三維影像，提供給臨床醫師更好的診斷能力，而全景 X 射線則可以在單一影像中擷取整個上顎顏面部區域。如果 CBCT 已經可用，合成全景 X 射線會很有幫助，從而避免立即進行額外的掃描和額外的輻射曝露。現有方法專注於描繪近似的牙弓並沿著此牙弓建立正交投影。然而，沒有黃金標準可用於此類牙弓萃取，而此選擇會影響合成 X 射線的品質。為了避免此類問題，我們提出從多樣的頭部 CBCT 合成全景 X 射線的新方法，採用模擬投影幾何和動態旋轉中心。我們的這種方法有效地從 CBCT 合成了全景影像，即使對於缺牙或無牙的患者以及在有嚴重金屬植入物的情況下也是如此。我們的結果顯示，此方法可以產生高品質的全景影像，而與 CBCT 掃描機幾何無關。
 
+##### **FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models**
+2408.10276v1 by Xiaochen Wang, Jiaqi Wang, Houping Xiao, Jinghui Chen, Fenglong Ma
+
+Foundation models have demonstrated remarkable capabilities in handling
+diverse modalities and tasks, outperforming conventional artificial
+intelligence (AI) approaches that are highly task-specific and
+modality-reliant. In the medical domain, however, the development of
+comprehensive foundation models is constrained by limited access to diverse
+modalities and stringent privacy regulations. To address these constraints,
+this study introduces a novel knowledge injection approach, FedKIM, designed to
+scale the medical foundation model within a federated learning framework.
+FedKIM leverages lightweight local models to extract healthcare knowledge from
+private data and integrates this knowledge into a centralized foundation model
+using a designed adaptive Multitask Multimodal Mixture Of Experts (M3OE)
+module. This method not only preserves privacy but also enhances the model's
+ability to handle complex medical tasks involving multiple modalities. Our
+extensive experiments across twelve tasks in seven modalities demonstrate the
+effectiveness of FedKIM in various settings, highlighting its potential to
+scale medical foundation models without direct access to sensitive data.
+
+摘要：基礎模型已展現出處理各種模式和任務的卓越能力，表現優於高度任務特定且依賴模式的傳統人工智慧 (AI) 方法。然而，在醫療領域，全面基礎模型的開發受到取得各種模式的有限管道和嚴格的隱私法規所限制。為了解決這些限制，本研究提出了一種新穎的知識注入方法 FedKIM，旨在擴展聯邦學習架構中的醫療基礎模型。FedKIM 利用輕量級的局部模型從私人資料中提取醫療保健知識，並使用設計的適應性多任務多模態專家混合 (M3OE) 模組將此知識整合到一個集中式基礎模型中。此方法不僅保護隱私，還能增強模型處理涉及多種模式的複雜醫療任務的能力。我們在七種模式的十二項任務中進行的廣泛實驗證明了 FedKIM 在各種設定中的有效性，突顯了其在不直接存取敏感資料的情況下擴展醫療基礎模型的潛力。
+
 ##### **FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**
 2408.09227v1 by Jiaqi Wang, Xiaochen Wang, Lingjuan Lyu, Jinghui Chen, Fenglong Ma
 
@@ -462,6 +533,36 @@ exposure, thereby setting a new benchmark in the application of foundation
 models within the healthcare sector.
 
 摘要：這項研究介紹了聯邦式醫療知識注入 (FEDMEKI) 平台，這是一個新的基準，旨在解決在隱私限制下將醫療知識整合到基礎模型中的獨特挑戰。透過利用跨資料孤島的聯邦式學習方法，FEDMEKI 規避了與集中式資料收集相關的問題，而這在健康法規下通常是被禁止的，例如美國的健康保險可攜性和責任法 (HIPAA)。該平台經過精心設計，可處理多站點、多模式和多任務的醫療資料，其中包括 7 種醫療模式，包括影像、訊號、文字、實驗室檢驗結果、生命徵象、輸入變數和輸出變數。用於驗證 FEDMEKI 的精選資料集涵蓋了 8 項醫療任務，包括 6 項分類任務 (肺部混濁偵測、COVID-19 偵測、心電圖 (ECG) 異常偵測、死亡率預測、敗血症預測和擴大縱膈腔偵測) 和 2 項生成任務 (醫療視覺問題解答 (MedVQA) 和 ECG 雜訊澄清)。這個全面的資料集被分割在多個用戶端，以促進在 16 種基準方法下進行分散式訓練流程。FEDMEKI 不僅保護資料隱私，還透過允許醫療基礎模型從更廣泛的醫療知識中學習，而無需直接接觸資料，進而增強其能力，從而為基礎模型在醫療保健領域的應用設定了一個新的基準。
+
+##### **FedKBP: Federated dose prediction framework for knowledge-based planning in radiation therapy**
+2408.10275v1 by Jingyun Chen, Martin King, Yading Yuan
+
+Dose prediction plays a key role in knowledge-based planning (KBP) by
+automatically generating patient-specific dose distribution. Recent advances in
+deep learning-based dose prediction methods necessitates collaboration among
+data contributors for improved performance. Federated learning (FL) has emerged
+as a solution, enabling medical centers to jointly train deep-learning models
+without compromising patient data privacy. We developed the FedKBP framework to
+evaluate the performances of centralized, federated, and individual (i.e.
+separated) training of dose prediction model on the 340 plans from OpenKBP
+dataset. To simulate FL and individual training, we divided the data into 8
+training sites. To evaluate the effect of inter-site data variation on model
+training, we implemented two types of case distributions: 1) Independent and
+identically distributed (IID), where the training and validating cases were
+evenly divided among the 8 sites, and 2) non-IID, where some sites have more
+cases than others. The results show FL consistently outperforms individual
+training on both model optimization speed and out-of-sample testing scores,
+highlighting the advantage of FL over individual training. Under IID data
+division, FL shows comparable performance to centralized training, underscoring
+FL as a promising alternative to traditional pooled-data training. Under
+non-IID division, larger sites outperformed smaller sites by up to 19% on
+testing scores, confirming the need of collaboration among data owners to
+achieve better prediction accuracy. Meanwhile, non-IID FL showed reduced
+performance as compared to IID FL, posing the need for more sophisticated FL
+method beyond mere model averaging to handle data variation among participating
+sites.
+
+摘要：劑量預測在知識型規劃 (KBP) 中扮演著關鍵角色，透過自動產生特定於病患的劑量分佈。深度學習為基礎的劑量預測方法的最新進展，需要資料貢獻者之間的合作才能提升效能。聯邦學習 (FL) 已成為一種解決方案，讓醫療中心能夠共同訓練深度學習模型，同時不損害病患資料隱私。我們開發了 FedKBP 架構，以評估集中式、聯邦式和個別 (即分開) 訓練劑量預測模型在 OpenKBP 資料集的 340 個計畫上的效能。為了模擬 FL 和個別訓練，我們將資料分為 8 個訓練地點。為了評估場址間資料差異對模型訓練的影響，我們實作了兩種案例分佈：1) 獨立同分布 (IID)，其中訓練和驗證案例均平均分佈在 8 個場址，以及 2) 非 IID，其中某些場址的案例多於其他場址。結果顯示 FL 在模型最佳化速度和樣本外測試分數上皆持續優於個別訓練，突顯了 FL 相較於個別訓練的優勢。在 IID 資料區分下，FL 顯示出與集中式訓練相當的效能，強調 FL 是傳統匯集資料訓練的潛在替代方案。在非 IID 區分下，較大型場址在測試分數上比較小型場址高出 19%，確認了資料擁有者之間需要合作才能達成更好的預測準確度。同時，與 IID FL 相比，非 IID FL 顯示出降低的效能，這表示需要更精密的 FL 方法，而不仅仅是模型平均，才能處理參與場址之間的資料差異。
 
 ##### **AI Managed Emergency Documentation with a Pretrained Model**
 2408.09193v1 by David Menzies, Sean Kirwan, Ahmad Albarqawi
@@ -1194,6 +1295,33 @@ we examine the frequency of socially-aware manipulation and the running time of
 our algorithms via simulation results.
 
 摘要：在許多情況下，會有一位組織者希望將一組代理劃分為 $k$ 個聯盟，並關心每個聯盟內的友誼。具體而言，組織者可能希望最大化功利主義社會福利、最大化平等主義社會福利，或僅保證每個代理在其聯盟內至少有一位朋友。然而，在許多情況下，組織者並不熟悉友誼關係，他需要從代理中獲取這些關係。在這種情況下，一個具有操縱性的代理可能會虛假報告友誼關係，以增加他的效用。在本文中，我們分析了在圖形上發現這種 $k$-聯盟遊戲中操縱行為的複雜性。我們還引入了一種類型的操縱，即社會意識操縱，其中操縱者希望在不降低社會福利的情況下增加他的效用。然後，我們研究了在我們的環境中發現社會意識操縱的複雜性。最後，我們通過模擬結果檢查了社會意識操縱的頻率和我們演算法的執行時間。
+
+##### **Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**
+2408.10259v1 by Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Mei Liu, Zijun Yao
+
+Recent advancements in sequential modeling applied to Electronic Health
+Records (EHR) have greatly influenced prescription recommender systems. While
+the recent literature on drug recommendation has shown promising performance,
+the study of discovering a diversity of coexisting temporal relationships at
+the level of medical codes over consecutive visits remains less explored. The
+goal of this study can be motivated from two perspectives. First, there is a
+need to develop a sophisticated sequential model capable of disentangling the
+complex relationships across sequential visits. Second, it is crucial to
+establish multiple and diverse health profiles for the same patient to ensure a
+comprehensive consideration of different medical intents in drug
+recommendation. To achieve this goal, we introduce Attentive Recommendation
+with Contrasted Intents (ARCI), a multi-level transformer-based method designed
+to capture the different but coexisting temporal paths across a shared sequence
+of visits. Specifically, we propose a novel intent-aware method with
+contrastive learning, that links specialized medical intents of the patients to
+the transformer heads for extracting distinct temporal paths associated with
+different health profiles. We conducted experiments on two real-world datasets
+for the prescription recommendation task using both ranking and classification
+metrics. Our results demonstrate that ARCI has outperformed the
+state-of-the-art prescription recommendation methods and is capable of
+providing interpretable insights for healthcare practitioners.
+
+摘要：最近將序列建模應用於電子健康紀錄 (EHR) 的進展極大地影響了處方推薦系統。雖然最近關於藥物推薦的文獻顯示出令人滿意的效能，但對於在連續就診中發現共存時間關係的多樣性研究仍較少探討。本研究的目標可以從兩個角度來激勵。首先，需要開發一個複雜的序列模型，能夠解開連續就診中的複雜關係。其次，對於同一位患者建立多個且多樣化的健康檔案至關重要，以確保在藥物推薦中全面考量不同的醫療意圖。為了達成此目標，我們引入了帶有對比意圖的專注推薦 (ARCI)，這是一種基於多層次Transformer的方法，旨在擷取共享就診順序中不同但共存的時間路徑。具體來說，我們提出了一種新的意圖感知方法，採用對比學習，將患者的特殊醫療意圖與Transformer頭端連結，以擷取與不同健康檔案相關的不同時間路徑。我們在兩個真實世界的資料集上進行了處方推薦任務的實驗，同時使用排名和分類指標。我們的結果證明 ARCI 優於最先進的處方推薦方法，並且能夠為醫療保健從業人員提供可解釋的見解。
 
 ##### **Model Counting in the Wild**
 2408.07059v1 by Arijit Shaw, Kuldeep S. Meel
@@ -2367,6 +2495,32 @@ provide a higher monetary benefit when compared to state-of-the-art baselines.
 
 摘要：骨關節炎 (OA) 是最常見的肌肉骨骼疾病，目前無法根治。膝關節骨關節炎 (KOA) 是全球殘疾的主要原因之一，對全球社會造成數十億美元的損失。多年來，預測 KOA 的進程一直是人們關注的重點，因為它可以通過更有效的臨床試驗推進治療的發展，並通過更有效地利用醫療保健來改善患者的預後。然而，現有的預測 KOA 的方法主要是靜態的，即考慮單一時刻的數據來預測多年後的進程，並且是膝關節層面的，即只考慮單個關節的進程。由於這些及相關原因，這些方法無法提供足夠的預測性能，從而無法節省成本並改善患者的預後。定期從所有患者那裡收集大量數據可以解決這個問題，但受限於人口層面的高成本。在這項工作中，我們提出超越 OA 中的靜態預測模型，並提出了一種新穎的主動感測 (AS) 方法，旨在動態追蹤患者，以最大化信息數據採集的數量，同時在一段時間內最小化其總成本。我們的做法基於強化學習 (RL)，並利用專門為多於一個人體部位的疾病進程的 AS 設計的新型獎勵函數。我們的模型是端到端的，依賴於多模式深度學習，並且在推理時不需要人工輸入。在詳盡的實驗評估中，我們表明與最先進的基準相比，使用 RL 可以提供更高的經濟效益。
 
+##### **A Conceptual Framework for Ethical Evaluation of Machine Learning Systems**
+2408.10239v1 by Neha R. Gupta, Jessica Hullman, Hari Subramonyam
+
+Research in Responsible AI has developed a range of principles and practices
+to ensure that machine learning systems are used in a manner that is ethical
+and aligned with human values. However, a critical yet often neglected aspect
+of ethical ML is the ethical implications that appear when designing
+evaluations of ML systems. For instance, teams may have to balance a trade-off
+between highly informative tests to ensure downstream product safety, with
+potential fairness harms inherent to the implemented testing procedures. We
+conceptualize ethics-related concerns in standard ML evaluation techniques.
+Specifically, we present a utility framework, characterizing the key trade-off
+in ethical evaluation as balancing information gain against potential ethical
+harms. The framework is then a tool for characterizing challenges teams face,
+and systematically disentangling competing considerations that teams seek to
+balance. Differentiating between different types of issues encountered in
+evaluation allows us to highlight best practices from analogous domains, such
+as clinical trials and automotive crash testing, which navigate these issues in
+ways that can offer inspiration to improve evaluation processes in ML. Our
+analysis underscores the critical need for development teams to deliberately
+assess and manage ethical complexities that arise during the evaluation of ML
+systems, and for the industry to move towards designing institutional policies
+to support ethical evaluations.
+
+摘要：在負責任的人工智慧的研究中，已經發展出一系列的原則和實務，以確保機器學習系統的使用方式符合道德，且與人類價值觀一致。然而，一個重要的但經常被忽略的道德 ML 面向，是出現在設計 ML 系統評估時的道德意涵。例如，團隊可能必須在確保下游產品安全的極具參考價值的測試，與實施測試程序中潛在的公平性危害之間取得平衡。我們將標準 ML 評估技術中的道德相關疑慮概念化。具體來說，我們提出一個效用架構，將道德評估中的關鍵取捨描述為在資訊獲益與潛在道德危害之間取得平衡。然後，這個架構將成為描述團隊面臨的挑戰的工具，並系統性地解開團隊尋求平衡的相互競爭的考量。區分評估中遇到的不同類型的問題，讓我們能夠從類似的領域（例如臨床試驗和汽車碰撞測試）中找出最佳實務，這些領域以提供靈感的方式來解決這些問題，以改善 ML 中的評估程序。我們的分析強調了開發團隊在 ML 系統評估期間審慎評估和管理道德複雜性的關鍵需求，以及產業朝向設計制度政策以支援道德評估的趨勢。
+
 ##### **MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**
 2408.01988v1 by Alireza Amirshahi, Maedeh H. Toosi, Siamak Mohammadi, Stefano Albini, Pasquale Davide Schiavone, Giovanni Ansaloni, Amir Aminifar, David Atienza
 
@@ -2492,133 +2646,4 @@ facilitating broader adoption and improved mental health support through
 technology.
 
 摘要：<paragraph>目標：本研究旨在開發和驗證一個評估架構，以確保心理健康聊天機器人的安全性與可靠性，由於其可及性、擬人化的互動以及情境感知支援，這些聊天機器人正變得越來越受歡迎。材料與方法：我們建立了一個評估架構，其中包含 100 個基準問題和理想回應，以及針對聊天機器人回應的五個指南問題。這個架構經過心理健康專家驗證，並在一個基於 GPT-3.5-turbo 的聊天機器人上進行測試。探討的自動評估方法包括基於大型語言模型 (LLM) 的評分、使用即時資料的能動方法，以及將聊天機器人回應與基本事實標準進行比較的嵌入式模型。結果：結果強調了準則和基本事實對於提升 LLM 評估準確性的重要性。能動方法動態地存取可靠資訊，證明與人類評估最為一致。遵循標準化且經過專家驗證的架構，顯著提升了聊天機器人回應的安全性與可靠性。討論：我們的研究結果強調了針對心理健康聊天機器人制定全面且專家量身打造的安全評估指標的必要性。儘管 LLM 具有顯著的潛力，但仍需要謹慎實施以降低風險。能動方法的優異表現突顯了即時資料存取對於提升聊天機器人可靠性的重要性。結論：本研究驗證了一個針對心理健康聊天機器人的評估架構，證明其在提升安全性與可靠性方面的有效性。未來的研究應將評估擴展至準確性、偏見、同理心和隱私，以確保全面的評估，並負責任地整合至醫療保健中。標準化的評估將建立使用者和專業人士之間的信任，促進更廣泛的採用，並透過科技改善心理健康支援。</paragraph>
-
-##### **ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**
-2408.01827v1 by Mridula Vijendran, Frederick W. B. Li, Jingjing Deng, Hubert P. H. Shum
-
-Painting classification plays a vital role in organizing, finding, and
-suggesting artwork for digital and classic art galleries. Existing methods
-struggle with adapting knowledge from the real world to artistic images during
-training, leading to poor performance when dealing with different datasets. Our
-innovation lies in addressing these challenges through a two-step process.
-First, we generate more data using Style Transfer with Adaptive Instance
-Normalization (AdaIN), bridging the gap between diverse styles. Then, our
-classifier gains a boost with feature-map adaptive spatial attention modules,
-improving its understanding of artistic details. Moreover, we tackle the
-problem of imbalanced class representation by dynamically adjusting augmented
-samples. Through a dual-stage process involving careful hyperparameter search
-and model fine-tuning, we achieve an impressive 87.24\% accuracy using the
-ResNet-50 backbone over 40 training epochs. Our study explores quantitative
-analyses that compare different pretrained backbones, investigates model
-optimization through ablation studies, and examines how varying augmentation
-levels affect model performance. Complementing this, our qualitative
-experiments offer valuable insights into the model's decision-making process
-using spatial attention and its ability to differentiate between easy and
-challenging samples based on confidence ranking.
-
-摘要：繪畫分類在組織、尋找和建議數位和經典藝廊的藝術品中扮演重要的角色。現有的方法在訓練時難以將現實世界的知識適應到藝術圖像中，導致在處理不同資料集時效能不佳。我們的創新在於透過兩步驟的程序來解決這些挑戰。首先，我們使用具有自適應實例正規化 (AdaIN) 的風格轉移來產生更多資料，彌合了不同風格之間的差距。接著，我們的分類器透過具備特徵圖自適應空間注意力模組而獲得提升，進而改善其對藝術細節的理解。此外，我們透過動態調整擴充樣本來解決類別表示不平衡的問題。透過一個涉及仔細的超參數搜尋和模型微調的雙階段程序，我們使用 ResNet-50 主幹在超過 40 個訓練時期達到了令人印象深刻的 87.24% 準確度。我們的研究探討了比較不同預訓練主幹的定量分析，透過消融研究來探討模型最佳化，並檢視不同的擴充層級如何影響模型效能。作為補充，我們的定性實驗透過空間注意力提供了有價值的見解，了解模型的決策制定程序，以及它根據信心排名來區分容易和困難樣本的能力。
-
-##### **Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**
-2408.01614v1 by Jinwen Tang, Yi Shang
-
-This study introduces 'Psycho Analyst', a custom GPT model based on OpenAI's
-GPT-4, optimized for pre-screening mental health disorders. Enhanced with
-DSM-5, PHQ-8, detailed data descriptions, and extensive training data, the
-model adeptly decodes nuanced linguistic indicators of mental health disorders.
-It utilizes a dual-task framework that includes binary classification and a
-three-stage PHQ-8 score computation involving initial assessment, detailed
-breakdown, and independent assessment, showcasing refined analytic
-capabilities. Validation with the DAIC-WOZ dataset reveals F1 and Macro-F1
-scores of 0.929 and 0.949, respectively, along with the lowest MAE and RMSE of
-2.89 and 3.69 in PHQ-8 scoring. These results highlight the model's precision
-and transformative potential in enhancing public mental health support,
-improving accessibility, cost-effectiveness, and serving as a second opinion
-for professionals.
-
-摘要：本研究推出了「心理分析師」，一個基於 OpenAI 的 GPT-4 的自訂 GPT 模型，針對心理健康障礙的預篩選而最佳化。此模型經過 DSM-5、PHQ-8、詳細資料描述和廣泛訓練資料的強化，能熟練地解碼心理健康障礙的細微語言指標。它採用一個雙任務架構，包括二元分類和一個三階段 PHQ-8 分數計算，涉及初步評估、詳細細分和獨立評估，展示了精緻的分析能力。使用 DAIC-WOZ 資料集進行驗證，F1 和巨集 F1 分數分別為 0.929 和 0.949，PHQ-8 評分中的 MAE 和 RMSE 最低，分別為 2.89 和 3.69。這些結果突顯了此模型在提升公眾心理健康支持、改善可及性、成本效益，以及作為專業人士的第二意見方面的精準度和變革潛力。
-
-##### **Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference**
-2408.01582v1 by Hengrui Cai, Huaqing Jin, Lexin Li
-
-Estimating treatment effects from observational data is of central interest
-across numerous application domains. Individual treatment effect offers the
-most granular measure of treatment effect on an individual level, and is the
-most useful to facilitate personalized care. However, its estimation and
-inference remain underdeveloped due to several challenges. In this article, we
-propose a novel conformal diffusion model-based approach that addresses those
-intricate challenges. We integrate the highly flexible diffusion modeling, the
-model-free statistical inference paradigm of conformal inference, along with
-propensity score and covariate local approximation that tackle distributional
-shifts. We unbiasedly estimate the distributions of potential outcomes for
-individual treatment effect, construct an informative confidence interval, and
-establish rigorous theoretical guarantees. We demonstrate the competitive
-performance of the proposed method over existing solutions through extensive
-numerical studies.
-
-摘要：從觀察資料中估計治療效果在許多應用領域中都非常重要。個別治療效果提供了個人層級最細緻的治療效果衡量，且最有助於促進個人化照護。然而，由於有許多挑戰，其估計和推論仍處於發展不足的狀態。在本文中，我們提出了創新的共形擴散模型為基礎的方法，來因應這些複雜的挑戰。我們整合了高度彈性的擴散模型、共形推論的無模型統計推論範例，以及處理分佈轉移的傾向得分和協變數局部近似。我們無偏估計個別治療效果的潛在結果分佈，建構有意義的信心區間，並建立嚴謹的理論保證。我們透過廣泛的數值研究，展示了所提出方法相較於現有解決方案的競爭力。
-
-##### **High-Throughput Phenotyping of Clinical Text Using Large Language Models**
-2408.01214v1 by Daniel B. Hier, S. Ilyas Munzir, Anne Stahlfeld, Tayo Obafemi-Ajayi, Michael D. Carrithers
-
-High-throughput phenotyping automates the mapping of patient signs to
-standardized ontology concepts and is essential for precision medicine. This
-study evaluates the automation of phenotyping of clinical summaries from the
-Online Mendelian Inheritance in Man (OMIM) database using large language
-models. Due to their rich phenotype data, these summaries can be surrogates for
-physician notes. We conduct a performance comparison of GPT-4 and
-GPT-3.5-Turbo. Our results indicate that GPT-4 surpasses GPT-3.5-Turbo in
-identifying, categorizing, and normalizing signs, achieving concordance with
-manual annotators comparable to inter-rater agreement. Despite some limitations
-in sign normalization, the extensive pre-training of GPT-4 results in high
-performance and generalizability across several phenotyping tasks while
-obviating the need for manually annotated training data. Large language models
-are expected to be the dominant method for automating high-throughput
-phenotyping of clinical text.
-
-摘要：高通量表型自動化將患者症狀對應到標準化本体概念，對於精準醫療至關重要。本研究評估使用大型語言模型自動化來自人類孟德爾遺傳線上（OMIM）資料庫的臨床摘要表型。由於其豐富的表型資料，這些摘要可以作為醫師備忘錄的替代品。我們對 GPT-4 和 GPT-3.5-Turbo 進行效能比較。我們的結果顯示，GPT-4 在識別、分類和標準化症狀方面優於 GPT-3.5-Turbo，與手動註解者的符合度可媲美評分者間的一致性。儘管在症狀標準化方面有一些限制，但 GPT-4 的廣泛預訓練在多項表型任務中仍能帶來高效能和概括性，同時無需手動註解的訓練資料。大型語言模型預計將成為自動化臨床文字高通量表型的主要方法。
-
-##### **Optimizing Variational Quantum Circuits Using Metaheuristic Strategies in Reinforcement Learning**
-2408.01187v1 by Michael Kölle, Daniel Seidl, Maximilian Zorn, Philipp Altmann, Jonas Stein, Thomas Gabor
-
-Quantum Reinforcement Learning (QRL) offers potential advantages over
-classical Reinforcement Learning, such as compact state space representation
-and faster convergence in certain scenarios. However, practical benefits
-require further validation. QRL faces challenges like flat solution landscapes,
-where traditional gradient-based methods are inefficient, necessitating the use
-of gradient-free algorithms. This work explores the integration of
-metaheuristic algorithms -- Particle Swarm Optimization, Ant Colony
-Optimization, Tabu Search, Genetic Algorithm, Simulated Annealing, and Harmony
-Search -- into QRL. These algorithms provide flexibility and efficiency in
-parameter optimization. Evaluations in $5\times5$ MiniGrid Reinforcement
-Learning environments show that, all algorithms yield near-optimal results,
-with Simulated Annealing and Particle Swarm Optimization performing best. In
-the Cart Pole environment, Simulated Annealing, Genetic Algorithms, and
-Particle Swarm Optimization achieve optimal results, while the others perform
-slightly better than random action selection. These findings demonstrate the
-potential of Particle Swarm Optimization and Simulated Annealing for efficient
-QRL learning, emphasizing the need for careful algorithm selection and
-adaptation.
-
-摘要：量子強化學習 (QRL) 比傳統強化學習具有潛在優勢，例如緊湊的狀態空間表示和在某些情況下更快的收斂速度。然而，實際好處需要進一步驗證。QRL 面臨平坦的解決方案環境等挑戰，傳統的基於梯度的算法效率低下，因此需要使用無梯度算法。這項工作探討了元啟發式演算法（粒子群最佳化、蟻群最佳化、禁忌搜尋、遺傳演算法、模擬退火和和諧搜尋）整合到 QRL 中。這些演算法在參數最佳化中提供了靈活性與效率。在 $5\times5$ MiniGrid 強化學習環境中的評估顯示，所有演算法都產生近乎最佳的結果，其中模擬退火和粒子群最佳化表現最佳。在桿鈴環境中，模擬退火、遺傳演算法和粒子群最佳化實現最佳結果，而其他演算法的效能略優於隨機動作選擇。這些發現證明了粒子群最佳化和模擬退火在有效率的 QRL 學習中的潛力，強調了仔細選擇和調整演算法的必要性。
-
-##### **Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding**
-2408.01096v1 by Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, Dasaem Jeong
-
-We introduce a project that revives a piece of 15th-century Korean court
-music, Chihwapyeong and Chwipunghyeong, composed upon the poem Songs of the
-Dragon Flying to Heaven. One of the earliest examples of Jeongganbo, a Korean
-musical notation system, the remaining version only consists of a rudimentary
-melody. Our research team, commissioned by the National Gugak (Korean
-Traditional Music) Center, aimed to transform this old melody into a
-performable arrangement for a six-part ensemble. Using Jeongganbo data acquired
-through bespoke optical music recognition, we trained a BERT-like masked
-language model and an encoder-decoder transformer model. We also propose an
-encoding scheme that strictly follows the structure of Jeongganbo and denotes
-note durations as positions. The resulting machine-transformed version of
-Chihwapyeong and Chwipunghyeong were evaluated by experts and performed by the
-Court Music Orchestra of National Gugak Center. Our work demonstrates that
-generative models can successfully be applied to traditional music with limited
-training data if combined with careful design.
-
-摘要：我們介紹了一個復原 15 世紀韓國宮廷音樂的專案，即《飛龍歌》的《雉和拍》和《吹風詠》。這是韓國音樂記譜法「正干譜」最早的範例之一，現存版本僅包含基本的旋律。我們的研究團隊受國家國樂中心委託，旨在將這首古老的旋律轉化為六人合奏的表演編排。我們使用透過客製化光學音樂辨識取得的正干譜資料，訓練了一個類似 BERT 的遮蔽語言模型和一個編碼器-解碼器轉換器模型。我們還提出了一種編碼方案，它嚴格遵循正干譜的結構，並將音符時值標示為位置。由機器轉換後的《雉和拍》和《吹風詠》由專家評估，並由國家國樂中心的宮廷音樂樂團演奏。我們的研究證明，如果將生成模型與謹慎的設計結合，即使訓練資料有限，也能成功應用於傳統音樂。
 

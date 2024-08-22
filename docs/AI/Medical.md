@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735v1](http://arxiv.org/abs/2408.11735v1)|null|
+|**2024-08-21**|**BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports**|Yuxuan Chen et.al.|[2408.11334v1](http://arxiv.org/abs/2408.11334v1)|null|
+|**2024-08-21**|**Probabilistic Medical Predictions of Large Language Models**|Bowen Gu et.al.|[2408.11316v1](http://arxiv.org/abs/2408.11316v1)|null|
+|**2024-08-21**|**Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks**|Yining Hua et.al.|[2408.11288v1](http://arxiv.org/abs/2408.11288v1)|null|
+|**2024-08-21**|**BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation**|Haotian Peng et.al.|[2408.11281v1](http://arxiv.org/abs/2408.11281v1)|[link](https://github.com/hatton613/bearllm)|
 |**2024-08-20**|**Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**|Yihao Hou et.al.|[2408.10715v1](http://arxiv.org/abs/2408.10715v1)|null|
 |**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532v1](http://arxiv.org/abs/2408.10532v1)|null|
 |**2024-08-19**|**Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**|Elaine Kong et.al.|[2408.10108v1](http://arxiv.org/abs/2408.10108v1)|null|
@@ -97,13 +102,127 @@
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v2](http://arxiv.org/abs/2408.02349v2)|null|
 |**2024-08-05**|**A Conceptual Framework for Ethical Evaluation of Machine Learning Systems**|Neha R. Gupta et.al.|[2408.10239v1](http://arxiv.org/abs/2408.10239v1)|null|
-|**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
-|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
-|**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|[link](https://github.com/jihyechoi77/malade)|
-|**2024-08-03**|**U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation**|Xin Wang et.al.|[2408.08881v1](http://arxiv.org/abs/2408.08881v1)|null|
-|**2024-08-03**|**Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**|Jung In Park et.al.|[2408.04650v1](http://arxiv.org/abs/2408.04650v1)|null|
 
 #### Abstracts
+##### **Clinical Insights: A Comprehensive Review of Language Models in Medicine**
+2408.11735v1 by Nikita Neveditsin, Pawan Lingras, Vijay Mago
+
+This paper provides a detailed examination of the advancements and
+applications of large language models in the healthcare sector, with a
+particular emphasis on clinical applications. The study traces the evolution of
+LLMs from their foundational technologies to the latest developments in
+domain-specific models and multimodal integration. It explores the technical
+progression from encoder-based models requiring fine-tuning to sophisticated
+approaches that integrate textual, visual, and auditory data, thereby
+facilitating comprehensive AI solutions in healthcare. The paper discusses both
+the opportunities these technologies present for enhancing clinical efficiency
+and the challenges they pose in terms of ethics, data privacy, and
+implementation. Additionally, it critically evaluates the deployment strategies
+of LLMs, emphasizing the necessity of open-source models to ensure data privacy
+and adaptability within healthcare environments. Future research directions are
+proposed, focusing on empirical studies to evaluate the real-world efficacy of
+LLMs in healthcare and the development of open datasets for further research.
+This review aims to provide a comprehensive resource for both newcomers and
+multidisciplinary researchers interested in the intersection of AI and
+healthcare.
+
+摘要：這篇論文詳細探討了大型語言模型在醫療保健領域的進展和應用，特別強調臨床應用。這項研究追溯了 LLM 從其基礎技術到特定領域模型和多模態整合的最新發展。它探討了從需要微調的編碼器模型到整合文本、視覺和聽覺數據的先進方法的技術進步，從而促進了醫療保健中的全面 AI 解決方案。這篇論文討論了這些技術在提高臨床效率方面帶來的機遇，以及它們在道德、數據隱私和實施方面帶來的挑戰。此外，它批判性地評估了 LLM 的部署策略，強調了開源模型對於確保醫療保健環境中的數據隱私和適應性的必要性。提出了未來的研究方向，重點是實證研究，以評估 LLM 在醫療保健中的實際功效和開發開放式數據集以進行進一步的研究。這篇綜述旨在為對 AI 和醫療保健的交叉點感興趣的新手和多學科研究人員提供全面的資源。
+
+##### **BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports**
+2408.11334v1 by Yuxuan Chen, Haoyan Yang, Hengkai Pan, Fardeen Siddiqui, Antonio Verdone, Qingyang Zhang, Sumit Chopra, Chen Zhao, Yiqiu Shen
+
+Breast ultrasound is essential for detecting and diagnosing abnormalities,
+with radiology reports summarizing key findings like lesion characteristics and
+malignancy assessments. Extracting this critical information is challenging due
+to the unstructured nature of these reports, with varied linguistic styles and
+inconsistent formatting. While proprietary LLMs like GPT-4 are effective, they
+are costly and raise privacy concerns when handling protected health
+information. This study presents a pipeline for developing an in-house LLM to
+extract clinical information from radiology reports. We first use GPT-4 to
+create a small labeled dataset, then fine-tune a Llama3-8B model on it.
+Evaluated on clinician-annotated reports, our model achieves an average F1
+score of 84.6%, which is on par with GPT-4. Our findings demonstrate the
+feasibility of developing an in-house LLM that not only matches GPT-4's
+performance but also offers cost reductions and enhanced data privacy.
+
+摘要：乳房超音波對於偵測和診斷異常至關重要，
+放射科報告會總結關鍵發現，例如病灶特徵和惡性評估。由於這些報告的非結構化性質、語言風格多變且格式不一致，因此提取這些關鍵資訊具有挑戰性。雖然像 GPT-4 這樣的專有 LLM 很有效，但它們在處理受保護的健康資訊時成本高昂且會引起隱私問題。這項研究提出了一個開發內部 LLM 的管道，以從放射科報告中提取臨床資訊。我們首先使用 GPT-4 建立一個小型標籤資料集，然後對 Llama3-8B 模型進行微調。根據臨床醫師註解的報告進行評估，我們的模型達到平均 F1 分數為 84.6%，這與 GPT-4 相當。我們的研究結果證明了開發內部 LLM 的可行性，它不僅能與 GPT-4 的效能相匹配，還能降低成本並增強資料隱私。
+
+##### **Probabilistic Medical Predictions of Large Language Models**
+2408.11316v1 by Bowen Gu, Rishi J. Desai, Kueiyu Joshua Lin, Jie Yang
+
+Large Language Models (LLMs) have demonstrated significant potential in
+clinical applications through prompt engineering, which enables the generation
+of flexible and diverse clinical predictions. However, they pose challenges in
+producing prediction probabilities, which are essential for transparency and
+allowing clinicians to apply flexible probability thresholds in
+decision-making. While explicit prompt instructions can lead LLMs to provide
+prediction probability numbers through text generation, LLMs' limitations in
+numerical reasoning raise concerns about the reliability of these
+text-generated probabilities. To assess this reliability, we compared explicit
+probabilities derived from text generation to implicit probabilities calculated
+based on the likelihood of predicting the correct label token. Experimenting
+with six advanced open-source LLMs across five medical datasets, we found that
+the performance of explicit probabilities was consistently lower than implicit
+probabilities with respect to discrimination, precision, and recall. Moreover,
+these differences were enlarged on small LLMs and imbalanced datasets,
+emphasizing the need for cautious interpretation and applications, as well as
+further research into robust probability estimation methods for LLMs in
+clinical contexts.
+
+摘要：大型語言模型 (LLM) 透過提示工程展示了在臨床應用上的顯著潛力，這使得產生靈活多樣的臨床預測成為可能。然而，它們在產生預測機率上遇到了挑戰，而這對於透明度和允許臨床醫師在決策中套用靈活的機率閾值至關重要。儘管明確的提示說明可以引導 LLM 透過文字產生提供預測機率數字，但 LLM 在數字推理上的限制引發了對於這些文字產生的機率可靠性的疑慮。為了評估這種可靠性，我們將從文字產生中衍生的明確機率與根據預測正確標記符號的可能性計算的隱含機率進行比較。我們使用六種先進的開源 LLM 針對五個醫療資料集進行實驗，發現明確機率的表現始終低於隱含機率，無論是在判別、精準度和召回率方面皆是如此。此外，這些差異在小型 LLM 和不平衡資料集上被放大了，這強調了謹慎解讀和應用以及進一步研究 LLM 在臨床情境中穩健機率估計方法的必要性。
+
+##### **Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks**
+2408.11288v1 by Yining Hua, Hongbin Na, Zehan Li, Fenglin Liu, Xiao Fang, David Clifton, John Torous
+
+Large language models (LLMs) are emerging as promising tools for mental
+health care, offering scalable support through their ability to generate
+human-like responses. However, the effectiveness of these models in clinical
+settings remains unclear. This scoping review aimed to assess the current
+generative applications of LLMs in mental health care, focusing on studies
+where these models were tested with human participants in real-world scenarios.
+A systematic search across APA PsycNet, Scopus, PubMed, and Web of Science
+identified 726 unique articles, of which 17 met the inclusion criteria. These
+studies encompassed applications such as clinical assistance, counseling,
+therapy, and emotional support. However, the evaluation methods were often
+non-standardized, with most studies relying on ad hoc scales that limit
+comparability and robustness. Privacy, safety, and fairness were also
+frequently underexplored. Moreover, reliance on proprietary models, such as
+OpenAI's GPT series, raises concerns about transparency and reproducibility.
+While LLMs show potential in expanding mental health care access, especially in
+underserved areas, the current evidence does not fully support their use as
+standalone interventions. More rigorous, standardized evaluations and ethical
+oversight are needed to ensure these tools can be safely and effectively
+integrated into clinical practice.
+
+摘要：大型語言模型 (LLM) 正作為心理保健的工具浮現，透過產生類人的回應提供可擴充的支持。然而，這些模型在臨床環境中的有效性仍不明確。本範圍探討旨在評估 LLM 在心理保健中的現有生成應用，重點在於在真實世界情境中以人類參與者測試這些模型的研究。系統性搜尋 APA PsycNet、Scopus、PubMed 和 Web of Science 找出 726 篇獨特文章，其中 17 篇符合納入標準。這些研究涵蓋臨床協助、諮詢、治療和情緒支持等應用。然而，評估方法通常未標準化，大多數研究依賴於限制可比較性和穩健性的臨時量表。隱私、安全和公平性也經常未充分探討。此外，依賴於專有模型（例如 OpenAI 的 GPT 系列）會引發對透明度和可複製性的疑慮。雖然 LLM 在擴展心理保健服務方面展現潛力，特別是在服務不足的地區，但目前的證據並不完全支持將其用作獨立干預措施。需要更嚴謹、標準化的評估和倫理監督，以確保這些工具能安全且有效地整合到臨床實務中。
+
+##### **BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation**
+2408.11281v1 by Haotian Peng, Jiawei Liu, Jinsong Du, Jie Gao, Wei Wang
+
+We propose a bearing health management framework leveraging large language
+models (BearLLM), a novel multimodal model that unifies multiple
+bearing-related tasks by processing user prompts and vibration signals.
+Specifically, we introduce a prior knowledge-enhanced unified vibration signal
+representation to handle various working conditions across multiple datasets.
+This involves adaptively sampling the vibration signals based on the sampling
+rate of the sensor, incorporating the frequency domain to unify input
+dimensions, and using a fault-free reference signal as an auxiliary input. To
+extract features from vibration signals, we first train a fault classification
+network, then convert and align the extracted features into word embedding, and
+finally concatenate these with text embedding as input to an LLM. To evaluate
+the performance of the proposed method, we constructed the first large-scale
+multimodal bearing health management (MBHM) dataset, including paired vibration
+signals and textual descriptions. With our unified vibration signal
+representation, BearLLM using one set of pre-trained weights achieves
+state-of-the-art performance on nine publicly available fault diagnosis
+benchmarks, outperforming specific methods designed for individual datasets. We
+provide a dataset, our model, and code to inspire future research on building
+more capable industrial multimodal models
+(https://github.com/hatton613/BearLLM).
+
+摘要：我們提出一個軸承健康管理架構，利用大型語言模型 (BearLLM)，這是一個新穎的多模態模型，它透過處理使用者提示和振動訊號，統一多個與軸承相關的任務。具體來說，我們引入一個先驗知識增強的統一振動訊號表示，以處理多個資料集中的各種工作條件。這包含根據感測器的取樣率自適應取樣振動訊號、結合頻率域以統一輸入維度，以及使用無故障參考訊號作為輔助輸入。為了從振動訊號中提取特徵，我們首先訓練一個故障分類網路，然後將提取的特徵轉換並對齊到字詞嵌入中，最後將這些特徵與文字嵌入串接作為 LLM 的輸入。為了評估所提出方法的效能，我們建構了第一個大型多模態軸承健康管理 (MBHM) 資料集，其中包括配對的振動訊號和文字描述。透過我們的統一振動訊號表示，使用一組預訓練權重的 BearLLM 在九個公開可用的故障診斷基準測試中達成最先進的效能，優於專門為個別資料集設計的特定方法。我們提供一個資料集、我們的模型和程式碼，以激勵未來在建構更強大的產業多模態模型方面的研究 (https://github.com/hatton613/BearLLM)。
+
 ##### **Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**
 2408.10715v1 by Yihao Hou, Christoph Bert, Ahmed Gomaa, Godehard Lahmer, Daniel Hoefler, Thomas Weissmann, Raphaela Voigt, Philipp Schubert, Charlotte Schmitter, Alina Depardon, Sabine Semrau, Andreas Maier, Rainer Fietkau, Yixing Huang, Florian Putz
 
@@ -2520,130 +2639,4 @@ systems, and for the industry to move towards designing institutional policies
 to support ethical evaluations.
 
 摘要：在負責任的人工智慧的研究中，已經發展出一系列的原則和實務，以確保機器學習系統的使用方式符合道德，且與人類價值觀一致。然而，一個重要的但經常被忽略的道德 ML 面向，是出現在設計 ML 系統評估時的道德意涵。例如，團隊可能必須在確保下游產品安全的極具參考價值的測試，與實施測試程序中潛在的公平性危害之間取得平衡。我們將標準 ML 評估技術中的道德相關疑慮概念化。具體來說，我們提出一個效用架構，將道德評估中的關鍵取捨描述為在資訊獲益與潛在道德危害之間取得平衡。然後，這個架構將成為描述團隊面臨的挑戰的工具，並系統性地解開團隊尋求平衡的相互競爭的考量。區分評估中遇到的不同類型的問題，讓我們能夠從類似的領域（例如臨床試驗和汽車碰撞測試）中找出最佳實務，這些領域以提供靈感的方式來解決這些問題，以改善 ML 中的評估程序。我們的分析強調了開發團隊在 ML 系統評估期間審慎評估和管理道德複雜性的關鍵需求，以及產業朝向設計制度政策以支援道德評估的趨勢。
-
-##### **MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**
-2408.01988v1 by Alireza Amirshahi, Maedeh H. Toosi, Siamak Mohammadi, Stefano Albini, Pasquale Davide Schiavone, Giovanni Ansaloni, Amir Aminifar, David Atienza
-
-Wearable systems provide continuous health monitoring and can lead to early
-detection of potential health issues. However, the lifecycle of wearable
-systems faces several challenges. First, effective model training for new
-wearable devices requires substantial labeled data from various subjects
-collected directly by the wearable. Second, subsequent model updates require
-further extensive labeled data for retraining. Finally, frequent model updating
-on the wearable device can decrease the battery life in long-term data
-monitoring. Addressing these challenges, in this paper, we propose MetaWearS, a
-meta-learning method to reduce the amount of initial data collection required.
-Moreover, our approach incorporates a prototypical updating mechanism,
-simplifying the update process by modifying the class prototype rather than
-retraining the entire model. We explore the performance of MetaWearS in two
-case studies, namely, the detection of epileptic seizures and the detection of
-atrial fibrillation. We show that by fine-tuning with just a few samples, we
-achieve 70% and 82% AUC for the detection of epileptic seizures and the
-detection of atrial fibrillation, respectively. Compared to a conventional
-approach, our proposed method performs better with up to 45% AUC. Furthermore,
-updating the model with only 16 minutes of additional labeled data increases
-the AUC by up to 5.3%. Finally, MetaWearS reduces the energy consumption for
-model updates by 456x and 418x for epileptic seizure and AF detection,
-respectively.
-
-摘要：<paragraph>穿戴式系統提供持續的健康監測，並可及早偵測潛在的健康問題。然而，穿戴式系統的生命週期面臨幾個挑戰。首先，新穿戴式裝置的有效模型訓練需要從各種受試者收集的大量標籤資料，且資料必須直接由穿戴式裝置收集。其次，後續的模型更新需要進一步的大量標籤資料才能重新訓練。最後，穿戴式裝置上頻繁的模型更新會縮短長期資料監測的電池續航力。為了應對這些挑戰，我們在本文中提出 MetaWearS，這是一種元學習方法，可減少所需的初始資料收集量。此外，我們的方法結合了一個原型更新機制，透過修改類別原型而非重新訓練整個模型來簡化更新過程。我們在兩個案例研究中探討 MetaWearS 的效能，分別是癲癇發作偵測和心房顫動偵測。我們展示了透過微調僅少數樣本，我們分別在癲癇發作偵測和心房顫動偵測中達到 70% 和 82% 的 AUC。與傳統方法相比，我們提出的方法表現更好，AUC 最高可達 45%。此外，僅使用 16 分鐘的額外標籤資料更新模型，即可將 AUC 提高多達 5.3%。最後，MetaWearS 分別將癲癇發作和心房顫動偵測的模型更新能耗降低了 456 倍和 418 倍。</paragraph>
-
-##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
-2408.01933v2 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
-
-Large language models (LLMs) have recently showcased remarkable capabilities,
-spanning a wide range of tasks and applications, including those in the medical
-domain. Models like GPT-4 excel in medical question answering but may face
-challenges in the lack of interpretability when handling complex tasks in real
-clinical settings. We thus introduce the diagnostic reasoning dataset for
-clinical notes (DiReCT), aiming at evaluating the reasoning ability and
-interpretability of LLMs compared to human doctors. It contains 511 clinical
-notes, each meticulously annotated by physicians, detailing the diagnostic
-reasoning process from observations in a clinical note to the final diagnosis.
-Additionally, a diagnostic knowledge graph is provided to offer essential
-knowledge for reasoning, which may not be covered in the training data of
-existing LLMs. Evaluations of leading LLMs on DiReCT bring out a significant
-gap between their reasoning ability and that of human doctors, highlighting the
-critical need for models that can reason effectively in real-world clinical
-scenarios.
-
-摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
-
-##### **MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**
-2408.01869v1 by Jihye Choi, Nils Palumbo, Prasad Chalasani, Matthew M. Engelhard, Somesh Jha, Anivarya Kumar, David Page
-
-In the era of Large Language Models (LLMs), given their remarkable text
-understanding and generation abilities, there is an unprecedented opportunity
-to develop new, LLM-based methods for trustworthy medical knowledge synthesis,
-extraction and summarization. This paper focuses on the problem of
-Pharmacovigilance (PhV), where the significance and challenges lie in
-identifying Adverse Drug Events (ADEs) from diverse text sources, such as
-medical literature, clinical notes, and drug labels. Unfortunately, this task
-is hindered by factors including variations in the terminologies of drugs and
-outcomes, and ADE descriptions often being buried in large amounts of narrative
-text. We present MALADE, the first effective collaborative multi-agent system
-powered by LLM with Retrieval Augmented Generation for ADE extraction from drug
-label data. This technique involves augmenting a query to an LLM with relevant
-information extracted from text resources, and instructing the LLM to compose a
-response consistent with the augmented data. MALADE is a general LLM-agnostic
-architecture, and its unique capabilities are: (1) leveraging a variety of
-external sources, such as medical literature, drug labels, and FDA tools (e.g.,
-OpenFDA drug information API), (2) extracting drug-outcome association in a
-structured format along with the strength of the association, and (3) providing
-explanations for established associations. Instantiated with GPT-4 Turbo or
-GPT-4o, and FDA drug label data, MALADE demonstrates its efficacy with an Area
-Under ROC Curve of 0.90 against the OMOP Ground Truth table of ADEs. Our
-implementation leverages the Langroid multi-agent LLM framework and can be
-found at https://github.com/jihyechoi77/malade.
-
-摘要：在大语言模型 (LLM) 时代，鉴于其卓越的文本理解和生成能力，出现了一个前所未有的机会，可以开发基于 LLM 的新方法，用于可信的医学知识综合、提取和摘要。本文重点关注药物警戒 (PhV) 的问题，其重要性和挑战在于从各种文本来源（如医学文献、临床笔记和药物标签）中识别不良药物事件 (ADE)。不幸的是，这项任务受到多种因素的阻碍，包括药物和结果术语的变化，以及 ADE 描述通常埋没在大量叙述性文本中。我们展示了 MALADE，这是第一个有效的协作多智能体系统，由 LLM 提供支持，并使用检索增强生成来从药物标签数据中提取 ADE。此技术涉及使用从文本资源中提取的相关信息来扩充对 LLM 的查询，并指示 LLM 编写与扩充数据一致的响应。MALADE 是一种通用的 LLM 不可知架构，其独特功能包括：(1) 利用各种外部来源，例如医学文献、药物标签和 FDA 工具（例如 OpenFDA 药物信息 API），(2) 以结构化格式提取药物-结果关联以及关联强度，以及 (3) 为已建立的关联提供解释。MALADE 使用 GPT-4 Turbo 或 GPT-4o 以及 FDA 药物标签数据实例化，并通过针对 ADE 的 OMOP 基本事实表，以 0.90 的 ROC 曲线下面积证明了其有效性。我们的实现利用了 Langroid 多智能体 LLM 框架，可以在 https://github.com/jihyechoi77/malade 中找到。
-
-##### **U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation**
-2408.08881v1 by Xin Wang, Xiaoyu Liu, Peng Huang, Pu Huang, Shu Hu, Hongtu Zhu
-
-Medical Image Foundation Models have proven to be powerful tools for mask
-prediction across various datasets. However, accurately assessing the
-uncertainty of their predictions remains a significant challenge. To address
-this, we propose a new model, U-MedSAM, which integrates the MedSAM model with
-an uncertainty-aware loss function and the Sharpness-Aware Minimization
-(SharpMin) optimizer. The uncertainty-aware loss function automatically
-combines region-based, distribution-based, and pixel-based loss designs to
-enhance segmentation accuracy and robustness. SharpMin improves generalization
-by finding flat minima in the loss landscape, thereby reducing overfitting. Our
-method was evaluated in the CVPR24 MedSAM on Laptop challenge, where U-MedSAM
-demonstrated promising performance.
-
-摘要：醫學影像基礎模型已被證明是各種資料集中的遮罩預測強大工具。然而，準確評估其預測的不確定性仍然是一項重大挑戰。為了解決這個問題，我們提出了一個新模型 U-MedSAM，它將 MedSAM 模型與不確定性感知損失函數和銳利度感知最小化（SharpMin）最佳化器整合在一起。不確定性感知損失函數自動結合基於區域、基於分布和基於像素的損失設計，以增強分割精度和穩健性。SharpMin 通過在損失景觀中尋找平坦的最小值來改善泛化，從而減少過度擬合。我們的模型在 CVPR24 MedSAM on Laptop 挑戰中得到評估，其中 U-MedSAM 展示了有希望的效能。
-
-##### **Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**
-2408.04650v1 by Jung In Park, Mahyar Abbasian, Iman Azimi, Dawn Bounds, Angela Jun, Jaesu Han, Robert McCarron, Jessica Borelli, Jia Li, Mona Mahmoudi, Carmen Wiedenhoeft, Amir Rahmani
-
-Objective: This study aims to develop and validate an evaluation framework to
-ensure the safety and reliability of mental health chatbots, which are
-increasingly popular due to their accessibility, human-like interactions, and
-context-aware support. Materials and Methods: We created an evaluation
-framework with 100 benchmark questions and ideal responses, and five guideline
-questions for chatbot responses. This framework, validated by mental health
-experts, was tested on a GPT-3.5-turbo-based chatbot. Automated evaluation
-methods explored included large language model (LLM)-based scoring, an agentic
-approach using real-time data, and embedding models to compare chatbot
-responses against ground truth standards. Results: The results highlight the
-importance of guidelines and ground truth for improving LLM evaluation
-accuracy. The agentic method, dynamically accessing reliable information,
-demonstrated the best alignment with human assessments. Adherence to a
-standardized, expert-validated framework significantly enhanced chatbot
-response safety and reliability. Discussion: Our findings emphasize the need
-for comprehensive, expert-tailored safety evaluation metrics for mental health
-chatbots. While LLMs have significant potential, careful implementation is
-necessary to mitigate risks. The superior performance of the agentic approach
-underscores the importance of real-time data access in enhancing chatbot
-reliability. Conclusion: The study validated an evaluation framework for mental
-health chatbots, proving its effectiveness in improving safety and reliability.
-Future work should extend evaluations to accuracy, bias, empathy, and privacy
-to ensure holistic assessment and responsible integration into healthcare.
-Standardized evaluations will build trust among users and professionals,
-facilitating broader adoption and improved mental health support through
-technology.
-
-摘要：<paragraph>目標：本研究旨在開發和驗證一個評估架構，以確保心理健康聊天機器人的安全性與可靠性，由於其可及性、擬人化的互動以及情境感知支援，這些聊天機器人正變得越來越受歡迎。材料與方法：我們建立了一個評估架構，其中包含 100 個基準問題和理想回應，以及針對聊天機器人回應的五個指南問題。這個架構經過心理健康專家驗證，並在一個基於 GPT-3.5-turbo 的聊天機器人上進行測試。探討的自動評估方法包括基於大型語言模型 (LLM) 的評分、使用即時資料的能動方法，以及將聊天機器人回應與基本事實標準進行比較的嵌入式模型。結果：結果強調了準則和基本事實對於提升 LLM 評估準確性的重要性。能動方法動態地存取可靠資訊，證明與人類評估最為一致。遵循標準化且經過專家驗證的架構，顯著提升了聊天機器人回應的安全性與可靠性。討論：我們的研究結果強調了針對心理健康聊天機器人制定全面且專家量身打造的安全評估指標的必要性。儘管 LLM 具有顯著的潛力，但仍需要謹慎實施以降低風險。能動方法的優異表現突顯了即時資料存取對於提升聊天機器人可靠性的重要性。結論：本研究驗證了一個針對心理健康聊天機器人的評估架構，證明其在提升安全性與可靠性方面的有效性。未來的研究應將評估擴展至準確性、偏見、同理心和隱私，以確保全面的評估，並負責任地整合至醫療保健中。標準化的評估將建立使用者和專業人士之間的信任，促進更廣泛的採用，並透過科技改善心理健康支援。</paragraph>
 

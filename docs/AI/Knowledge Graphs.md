@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
+|**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182v1](http://arxiv.org/abs/2408.11182v1)|null|
+|**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133v1](http://arxiv.org/abs/2408.11133v1)|null|
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819v1](http://arxiv.org/abs/2408.10819v1)|null|
 |**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
 |**2024-08-19**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v2](http://arxiv.org/abs/2408.10362v2)|null|
@@ -99,11 +102,74 @@
 |**2024-07-19**|**LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits**|Chen-Chia Chang et.al.|[2407.18269v1](http://arxiv.org/abs/2407.18269v1)|null|
 |**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
-|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699v1](http://arxiv.org/abs/2407.13699v1)|null|
-|**2024-07-18**|**MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**|Guoli Yin et.al.|[2407.18961v3](http://arxiv.org/abs/2407.18961v3)|[link](https://github.com/apple/axlearn)|
-|**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725v1](http://arxiv.org/abs/2407.12725v1)|null|
 
 #### Abstracts
+##### **Enabling Small Models for Zero-Shot Classification through Model Label Learning**
+2408.11449v1 by Jia Zhang, Zhi Zhou, Lan-Zhe Guo, Yu-Feng Li
+
+Vision-language models (VLMs) like CLIP have demonstrated impressive
+zero-shot ability in image classification tasks by aligning text and images but
+suffer inferior performance compared with task-specific expert models. On the
+contrary, expert models excel in their specialized domains but lack zero-shot
+ability for new tasks. How to obtain both the high performance of expert models
+and zero-shot ability is an important research direction. In this paper, we
+attempt to demonstrate that by constructing a model hub and aligning models
+with their functionalities using model labels, new tasks can be solved in a
+zero-shot manner by effectively selecting and reusing models in the hub. We
+introduce a novel paradigm, Model Label Learning (MLL), which bridges the gap
+between models and their functionalities through a Semantic Directed Acyclic
+Graph (SDAG) and leverages an algorithm, Classification Head Combination
+Optimization (CHCO), to select capable models for new tasks. Compared with the
+foundation model paradigm, it is less costly and more scalable, i.e., the
+zero-shot ability grows with the sizes of the model hub. Experiments on seven
+real-world datasets validate the effectiveness and efficiency of MLL,
+demonstrating that expert models can be effectively reused for zero-shot tasks.
+Our code will be released publicly.
+
+摘要：視覺語言模型（VLM），例如 CLIP，已在影像分類任務中展現令人印象深刻的零次學習能力，方法是對齊文字和影像，但與特定任務的專家模型相比，其效能較差。相反地，專家模型在其專業領域中表現出色，但對於新任務缺乏零次學習能力。如何同時獲得專家模型的高效能和零次學習能力，是一個重要的研究方向。在本文中，我們嘗試透過建立模型中心，並使用模型標籤將模型與其功能對齊，證明可以透過有效選擇和重複使用中心中的模型，以零次學習的方式解決新任務。我們提出了一種新的範例，即模型標籤學習（MLL），它透過語義導向非循環圖（SDAG）彌合模型及其功能之間的差距，並利用一種演算法，即分類頭組合最佳化（CHCO），為新任務選擇有能力的模型。與基礎模型範例相比，它的成本較低且更具可擴充性，也就是說，零次學習能力會隨著模型中心規模的擴大而增長。在七個真實世界資料集上的實驗驗證了 MLL 的有效性和效率，證明了專家模型可以有效地重複用於零次學習任務。我們的程式碼將公開發布。
+
+##### **Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**
+2408.11182v1 by Zhilong Wang, Haizhou Wang, Nanqing Luo, Lan Zhang, Xiaoyan Sun, Yebo Cao, Peng Liu
+
+Jailbreak attacks on Language Model Models (LLMs) entail crafting prompts
+aimed at exploiting the models to generate malicious content. This paper
+proposes a new type of jailbreak attacks which shift the attention of the LLM
+by inserting a prohibited query into a carrier article. The proposed attack
+leverage the knowledge graph and a composer LLM to automatically generating a
+carrier article that is similar to the topic of the prohibited query but does
+not violate LLM's safeguards. By inserting the malicious query to the carrier
+article, the assembled attack payload can successfully jailbreak LLM. To
+evaluate the effectiveness of our method, we leverage 4 popular categories of
+``harmful behaviors'' adopted by related researches to attack 6 popular LLMs.
+Our experiment results show that the proposed attacking method can successfully
+jailbreak all the target LLMs which high success rate, except for Claude-3.
+
+摘要：語言模型模型（LLM）的越獄攻擊涉及製作提示，旨在利用模型來產生惡意內容。本文提出了一種新型的越獄攻擊，它通過在載體文章中插入禁止查詢來轉移 LLM 的注意力。提議的攻擊利用知識圖譜和作曲家 LLM 自動生成與禁止查詢的主題相似但不會違反 LLM 保障措施的載體文章。通過將惡意查詢插入載體文章中，組裝的攻擊有效載荷可以成功越獄 LLM。為了評估我們方法的有效性，我們利用相關研究採用的 4 類流行的「有害行為」來攻擊 6 個流行的 LLM。我們的實驗結果表明，所提出的攻擊方法可以成功越獄所有目標 LLM，成功率很高，除了 Claude-3。
+
+##### **Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**
+2408.11133v1 by Thomas Hoang, Quynh Anh Nguyen, Long Nguyen
+
+Countless disasters have resulted from climate change, causing severe damage
+to infrastructure and the economy. These disasters have significant societal
+impacts, necessitating mental health services for the millions affected. To
+prepare for and respond effectively to such events, it is important to
+understand people's emotions and the life incidents they experience before and
+after a disaster strikes. In this case study, we collected a dataset of
+approximately 400,000 public tweets related to the storm. Using a BERT-based
+model, we predicted the emotions associated with each tweet. To efficiently
+identify these topics, we utilized the Latent Dirichlet Allocation (LDA)
+technique for topic modeling, which allowed us to bypass manual content
+analysis and extract meaningful patterns from the data. However, rather than
+stopping at topic identification like previous methods \cite{math11244910}, we
+further refined our analysis by integrating Graph Neural Networks (GNN) and
+Large Language Models (LLM). The GNN was employed to generate embeddings and
+construct a similarity graph of the tweets, which was then used to optimize
+clustering. Subsequently, we used an LLM to automatically generate descriptive
+names for each event cluster, offering critical insights for disaster
+preparedness and response strategies.
+
+摘要：無數的災難是由於氣候變遷所造成的，對基礎建設和經濟造成嚴重的損害。這些災難對社會造成重大的影響，需要為數百萬受災民眾提供心理健康服務。為了有效地為此類事件做好準備並作出回應，了解人們的情緒以及他們在災難發生前後所經歷的生活事件非常重要。在本案例研究中，我們收集了一個包含約 400,000 則與風暴相關的公開推文的資料集。使用基於 BERT 的模型，我們預測了與每則推文相關的情緒。為了有效率地找出這些主題，我們利用了潛在狄利克雷配置 (LDA) 技術進行主題建模，這讓我們能夠繞過手動內容分析，從資料中萃取出有意義的模式。然而，我們並未像先前的研究方法 \cite{math11244910} 那樣僅止於主題辨識，而是進一步整合圖神經網路 (GNN) 和大型語言模型 (LLM) 來優化我們的分析。GNN 被用於產生嵌入和建構推文的相似性圖，然後用於最佳化分群。隨後，我們使用 LLM 為每個事件群集自動產生描述性名稱，為災害防範和應變策略提供重要的見解。
+
 ##### **Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**
 2408.10819v1 by Rui Yang, Jiahao Zhu, Jianping Man, Li Fang, Yi Zhou
 
@@ -2422,74 +2488,4 @@ considerably limited labeled data, surpassing state-of-the-art baselines by
 significant margins.
 
 摘要：圖表已成為各種領域中內容分析的關鍵數據結構，例如社交網路分析、生物資訊學和推薦系統。節點分類是此脈絡中的基本任務，通常使用圖形神經網路 (GNN) 來處理。不幸的是，儘管現實世界應用中普遍存在少樣本節點分類任務，但傳統的 GNN 在標記節點很少的情況下仍面臨挑戰。為了應對這一挑戰，已提出各種方法，包括圖形元學習、遷移學習和基於大型語言模型 (LLM) 的方法。然而，傳統的元學習和遷移學習方法通常需要來自基礎類別的先驗知識，或者無法利用未標記節點的潛在優勢。同時，基於 LLM 的方法可能會忽視 LLM 的零樣本能力，並且過度依賴生成語境的品質。在本文中，我們提出了一種新的方法，它整合了 LLM 和 GNN，利用 LLM 的零樣本推論和推理能力，並採用基於 Graph-LLM 的主動學習範例來增強 GNN 的效能。廣泛的實驗證明了我們的模型在改進節點分類準確度方面的有效性，標記數據相當有限，顯著超越了最先進的基準。
-
-##### **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
-2407.13699v1 by Shaina Raza, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, Amirmohammad Kazemeini
-
-Recommender Systems (RS) play an integral role in enhancing user experiences
-by providing personalized item suggestions. This survey reviews the progress in
-RS inclusively from 2017 to 2024, effectively connecting theoretical advances
-with practical applications. We explore the development from traditional RS
-techniques like content-based and collaborative filtering to advanced methods
-involving deep learning, graph-based models, reinforcement learning, and large
-language models. We also discuss specialized systems such as context-aware,
-review-based, and fairness-aware RS. The primary goal of this survey is to
-bridge theory with practice. It addresses challenges across various sectors,
-including e-commerce, healthcare, and finance, emphasizing the need for
-scalable, real-time, and trustworthy solutions. Through this survey, we promote
-stronger partnerships between academic research and industry practices. The
-insights offered by this survey aim to guide industry professionals in
-optimizing RS deployment and to inspire future research directions, especially
-in addressing emerging technological and societal trends
-
-摘要：推薦系統 (RS) 在提升使用者體驗中扮演著不可或缺的角色，透過提供個人化的商品建議。這項調查回顧了 RS 在 2017 年到 2024 年間的進展，有效地將理論進展與實際應用連結起來。我們探討了從傳統的 RS 技術，例如基於內容和協同過濾，到涉及深度學習、基於圖形的模型、強化學習和大語言模型等先進方法的發展。我們也討論了專門的系統，例如情境感知、基於評論和公平感知的 RS。這項調查的主要目標是將理論與實務結合起來。它解決了各個領域的挑戰，包括電子商務、醫療保健和金融，強調了對可擴充、即時和可信賴的解決方案的需求。透過這項調查，我們促進了學術研究和產業實務之間更強大的夥伴關係。這項調查提供的見解旨在引導產業專業人士優化 RS 部署，並激勵未來的研究方向，特別是在解決新興的技術和社會趨勢方面。
-
-##### **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains**
-2407.18961v3 by Guoli Yin, Haoping Bai, Shuang Ma, Feng Nan, Yanchao Sun, Zhaoyang Xu, Shen Ma, Jiarui Lu, Xiang Kong, Aonan Zhang, Dian Ang Yap, Yizhe zhang, Karsten Ahnert, Vik Kamath, Mathias Berglund, Dominic Walsh, Tobias Gindele, Juergen Wiest, Zhengfeng Lai, Xiaoming Wang, Jiulong Shan, Meng Cao, Ruoming Pang, Zirui Wang
-
-Recent advances in large language models (LLMs) have increased the demand for
-comprehensive benchmarks to evaluate their capabilities as human-like agents.
-Existing benchmarks, while useful, often focus on specific application
-scenarios, emphasizing task completion but failing to dissect the underlying
-skills that drive these outcomes. This lack of granularity makes it difficult
-to deeply discern where failures stem from. Additionally, setting up these
-environments requires considerable effort, and issues of unreliability and
-reproducibility sometimes arise, especially in interactive tasks. To address
-these limitations, we introduce the Massive Multitask Agent Understanding
-(MMAU) benchmark, featuring comprehensive offline tasks that eliminate the need
-for complex environment setups. It evaluates models across five domains,
-including Tool-use, Directed Acyclic Graph (DAG) QA, Data Science and Machine
-Learning coding, Contest-level programming and Mathematics, and covers five
-essential capabilities: Understanding, Reasoning, Planning, Problem-solving,
-and Self-correction. With a total of 20 meticulously designed tasks
-encompassing over 3K distinct prompts, MMAU provides a comprehensive framework
-for evaluating the strengths and limitations of LLM agents. By testing 18
-representative models on MMAU, we provide deep and insightful analyses.
-Ultimately, MMAU not only sheds light on the capabilities and limitations of
-LLM agents but also enhances the interpretability of their performance.
-Datasets and evaluation scripts of MMAU are released at
-https://github.com/apple/axlearn/tree/main/docs/research/mmau.
-
-摘要：<paragraph>大型語言模型 (LLM) 的最新進展增加了對全面基準測試的需求，以評估其作為類人代理的能力。現有的基準測試雖然有用，但通常專注於特定應用情境，強調任務完成，但未能剖析驅動這些結果的底層技能。這種缺乏粒度性使得難以深入辨別失敗的根源。此外，設定這些環境需要大量的努力，而且有時會出現不可靠性和可重複性的問題，尤其是在互動任務中。為了解決這些限制，我們引入了大規模多任務代理理解 (MMAU) 基準測試，其特點是全面的離線任務，消除了對複雜環境設定的需求。它跨越五個領域評估模型，包括工具使用、有向無環圖 (DAG) 問答、數據科學和機器學習編碼、競賽級編程和數學，涵蓋五項基本能力：理解、推理、規劃、問題解決和自我校正。MMAU 總共包含 20 項精心設計的任務，涵蓋超過 3K 個不同的提示，提供了一個全面的框架，用於評估 LLM 代理的優勢和局限性。通過在 MMAU 上測試 18 個代表性模型，我們提供了深入且有見地的分析。最終，MMAU 不僅闡明了 LLM 代理的能力和局限性，還增強了其性能的可解釋性。MMAU 的數據集和評估腳本已發布在 https://github.com/apple/axlearn/tree/main/docs/research/mmau。</paragraph>
-
-##### **Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**
-2407.12725v1 by Ben Yao, Yazhou Zhang, Qiuchi Li, Jing Qin
-
-Elaborating a series of intermediate reasoning steps significantly improves
-the ability of large language models (LLMs) to solve complex problems, as such
-steps would evoke LLMs to think sequentially. However, human sarcasm
-understanding is often considered an intuitive and holistic cognitive process,
-in which various linguistic, contextual, and emotional cues are integrated to
-form a comprehensive understanding of the speaker's true intention, which is
-argued not be limited to a step-by-step reasoning process. To verify this
-argument, we introduce a new prompting framework called SarcasmCue, which
-contains four prompting strategies, $viz.$ chain of contradiction (CoC), graph
-of cues (GoC), bagging of cues (BoC) and tensor of cues (ToC), which elicits
-LLMs to detect human sarcasm by considering sequential and non-sequential
-prompting methods. Through a comprehensive empirical comparison on four
-benchmarking datasets, we show that the proposed four prompting methods
-outperforms standard IO prompting, CoT and ToT with a considerable margin, and
-non-sequential prompting generally outperforms sequential prompting.
-
-摘要：通過闡述一系列中間推理步驟，大幅提升大型語言模型 (LLM) 解決複雜問題的能力，因為這些步驟會促使 LLM 按順序思考。然而，人類的諷刺理解通常被認為是一種直覺且全面的認知過程，其中各種語言、語境和情緒線索整合在一起，以全面了解說話者的真實意圖，這被認為不僅限於循序漸進的推理過程。為了驗證這個論點，我們引入了一個新的提示框架，稱為 SarcasmCue，其中包含四種提示策略，即矛盾鏈 (CoC)、線索圖 (GoC)、線索袋 (BoC) 和線索張量 (ToC)，它引發 LLM 通過考慮順序和非順序提示方法來檢測人類的諷刺。通過對四個基準數據集進行全面的實證比較，我們表明所提出的四種提示方法以相當大的幅度優於標準 IO 提示、CoT 和 ToT，並且非順序提示通常優於順序提示。
 

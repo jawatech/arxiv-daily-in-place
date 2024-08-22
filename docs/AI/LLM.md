@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054v1](http://arxiv.org/abs/2408.11054v1)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053v1](http://arxiv.org/abs/2408.11053v1)|null|
-|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051v1](http://arxiv.org/abs/2408.11051v1)|null|
-|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049v1](http://arxiv.org/abs/2408.11049v1)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051v1](http://arxiv.org/abs/2408.11051v1)|[link](https://github.com/xyz9911/FLAME)|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049v2](http://arxiv.org/abs/2408.11049v2)|null|
 |**2024-08-20**|**Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders**|Yuan Xin et.al.|[2408.11046v1](http://arxiv.org/abs/2408.11046v1)|null|
 |**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043v1](http://arxiv.org/abs/2408.11043v1)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|null|
@@ -25,21 +25,21 @@
 |**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943v1](http://arxiv.org/abs/2408.10943v1)|[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940v1](http://arxiv.org/abs/2408.10940v1)|null|
 |**2024-08-20**|**SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement**|Linlin Hu et.al.|[2408.10934v1](http://arxiv.org/abs/2408.10934v1)|null|
-|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923v1](http://arxiv.org/abs/2408.10923v1)|[link](https://github.com/asdasdanonymous/language-based-classifier-foroovtasks)|
+|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923v2](http://arxiv.org/abs/2408.10923v2)|null|
 |**2024-08-20**|**MTFinEval:A Multi-domain Chinese Financial Benchmark with Eurypalynous questions**|Xinyu Liu et.al.|[2408.10921v1](http://arxiv.org/abs/2408.10921v1)|null|
 |**2024-08-20**|**Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations**|Róbert Csordás et.al.|[2408.10920v1](http://arxiv.org/abs/2408.10920v1)|[link](https://github.com/robertcsordas/onion_representations)|
-|**2024-08-20**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919v1](http://arxiv.org/abs/2408.10919v1)|null|
+|**2024-08-20**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919v2](http://arxiv.org/abs/2408.10919v2)|null|
 |**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918v1](http://arxiv.org/abs/2408.10918v1)|null|
 |**2024-08-20**|**To Code, or Not To Code? Exploring Impact of Code in Pre-training**|Viraat Aryabumi et.al.|[2408.10914v1](http://arxiv.org/abs/2408.10914v1)|null|
 |**2024-08-20**|**The impact of labeling automotive AI as "trustworthy" or "reliable" on user evaluation and technology acceptance**|John Dorsch et.al.|[2408.10905v1](http://arxiv.org/abs/2408.10905v1)|null|
-|**2024-08-20**|**BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**|Yeyong Yu et.al.|[2408.10903v1](http://arxiv.org/abs/2408.10903v1)|null|
+|**2024-08-20**|**BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**|Yeyong Yu et.al.|[2408.10903v2](http://arxiv.org/abs/2408.10903v2)|null|
 |**2024-08-20**|**Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**|John Mendonça et.al.|[2408.10902v1](http://arxiv.org/abs/2408.10902v1)|null|
 |**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901v1](http://arxiv.org/abs/2408.10901v1)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900v1](http://arxiv.org/abs/2408.10900v1)|null|
 |**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895v1](http://arxiv.org/abs/2408.10895v1)|null|
 |**2024-08-20**|**On Learning Action Costs from Input Plans**|Marianela Morales et.al.|[2408.10889v1](http://arxiv.org/abs/2408.10889v1)|null|
 |**2024-08-20**|**DAAD: Dynamic Analysis and Adaptive Discriminator for Fake News Detection**|Xinqi Su et.al.|[2408.10883v1](http://arxiv.org/abs/2408.10883v1)|[link](https://github.com/suxinqi/daad)|
-|**2024-08-20**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872v1](http://arxiv.org/abs/2408.10872v1)|null|
+|**2024-08-20**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872v2](http://arxiv.org/abs/2408.10872v2)|null|
 |**2024-08-20**|**Multi-agent Multi-armed Bandits with Stochastic Sharable Arm Capacities**|Hong Xie et.al.|[2408.10865v1](http://arxiv.org/abs/2408.10865v1)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853v1](http://arxiv.org/abs/2408.10853v1)|[link](https://github.com/xieyuankun/alm-add)|
@@ -52,7 +52,7 @@
 |**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802v1](http://arxiv.org/abs/2408.10802v1)|null|
 |**2024-08-20**|**Adversarial Attack for Explanation Robustness of Rationalization Models**|Yuankai Zhang et.al.|[2408.10795v1](http://arxiv.org/abs/2408.10795v1)|null|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777v1](http://arxiv.org/abs/2408.10777v1)|null|
-|**2024-08-20**|**Flexora: Flexible Low Rank Adaptation for Large Language Models**|Chenxing Wei et.al.|[2408.10774v1](http://arxiv.org/abs/2408.10774v1)|null|
+|**2024-08-20**|**Flexora: Flexible Low Rank Adaptation for Large Language Models**|Chenxing Wei et.al.|[2408.10774v2](http://arxiv.org/abs/2408.10774v2)|null|
 |**2024-08-20**|**SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**|Karl El Hajal et.al.|[2408.10771v1](http://arxiv.org/abs/2408.10771v1)|null|
 |**2024-08-20**|**Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion for Efficient Inference Intervention in Large Language Model**|Chenhan Yuan et.al.|[2408.10764v1](http://arxiv.org/abs/2408.10764v1)|null|
 |**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760v1](http://arxiv.org/abs/2408.10760v1)|null|
@@ -78,7 +78,7 @@
 |**2024-08-20**|**HMoE: Heterogeneous Mixture of Experts for Language Modeling**|An Wang et.al.|[2408.10681v1](http://arxiv.org/abs/2408.10681v1)|null|
 |**2024-08-20**|**Towards Rehearsal-Free Multilingual ASR: A LoRA-based Case Study on Whisper**|Tianyi Xu et.al.|[2408.10680v1](http://arxiv.org/abs/2408.10680v1)|null|
 |**2024-08-20**|**Tensor tree learns hidden relational structures in data to construct generative models**|Kenji Harada et.al.|[2408.10669v1](http://arxiv.org/abs/2408.10669v1)|null|
-|**2024-08-20**|**Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation**|Haoyu Wang et.al.|[2408.10668v1](http://arxiv.org/abs/2408.10668v1)|null|
+|**2024-08-20**|**Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation**|Haoyu Wang et.al.|[2408.10668v2](http://arxiv.org/abs/2408.10668v2)|null|
 |**2024-08-20**|**REInstruct: Building Instruction Data from Unlabeled Corpus**|Shu Chen et.al.|[2408.10663v1](http://arxiv.org/abs/2408.10663v1)|[link](https://github.com/cs32963/reinstruct)|
 |**2024-08-20**|**ETGuard: Malicious Encrypted Traffic Detection in Blockchain-based Power Grid Systems**|Peng Zhou et.al.|[2408.10657v1](http://arxiv.org/abs/2408.10657v1)|[link](https://github.com/pppmzt/etguard)|
 |**2024-08-20**|**Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant**|Guofeng Mei et.al.|[2408.10652v1](http://arxiv.org/abs/2408.10652v1)|null|
@@ -95,7 +95,7 @@
 |**2024-08-20**|**Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information**|Ming Jiang et.al.|[2408.10615v1](http://arxiv.org/abs/2408.10615v1)|null|
 |**2024-08-20**|**Generalizable Facial Expression Recognition**|Yuhang Zhang et.al.|[2408.10614v1](http://arxiv.org/abs/2408.10614v1)|[link](https://github.com/zyh-uaiaaaa/generalizable-fer)|
 |**2024-08-20**|**Promoting Equality in Large Language Models: Identifying and Mitigating the Implicit Bias based on Bayesian Theory**|Yongxin Deng et.al.|[2408.10608v1](http://arxiv.org/abs/2408.10608v1)|null|
-|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605v1](http://arxiv.org/abs/2408.10605v1)|null|
+|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605v2](http://arxiv.org/abs/2408.10605v2)|null|
 |**2024-08-20**|**Multilingual Non-Factoid Question Answering with Silver Answers**|Ritwik Mishra et.al.|[2408.10604v1](http://arxiv.org/abs/2408.10604v1)|null|
 |**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602v1](http://arxiv.org/abs/2408.10602v1)|null|
 |**2024-08-20**|**Breast tumor classification based on self-supervised contrastive learning from ultrasound videos**|Yunxin Tang et.al.|[2408.10600v1](http://arxiv.org/abs/2408.10600v1)|null|
@@ -180,7 +180,7 @@ page: https://flame-sjtu.github.io
 摘要：大型語言模型 (LLM) 已在視覺和語言導航 (VLN) 任務中展現潛力，但目前的應用面臨挑戰。雖然 LLM 在一般對話場景中表現出色，但它們在專業導航任務中卻顯得吃力，與專業 VLN 模型相比，產生的效能並不理想。我們引入了 FLAME（FLAMingo-Architected Embodied Agent），這是一種新穎的多模態 LLM 基礎代理和架構，專為有效處理多重觀察的城市 VLN 任務而設計。我們的做法實施了一個三階段調整技術，以有效適應導航任務，包括針對街景描述的單一感知調整、針對軌跡摘要的多重感知調整，以及針對 VLN 資料集的端對端訓練。增強的資料集會自動合成。實驗結果證明了 FLAME 優於現有方法，在 Touchdown 資料集上任務完成率提高了 7.3%，超越了最先進的方法。這項工作展示了多模態 LLM (MLLM) 在複雜導航任務中的潛力，代表了 MLLM 在具身 AI 中實際應用的一項進展。專案頁面：https://flame-sjtu.github.io
 
 ##### **MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**
-2408.11049v1 by Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen
+2408.11049v2 by Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen
 
 Large Language Models (LLMs) have become more prevalent in long-context
 applications such as interactive chatbots, document analysis, and agent
@@ -196,8 +196,14 @@ bottleneck shifts with increasing batch size and sequence length, and uses
 these insights to deploy speculative decoding more effectively for high
 throughput inference. Then, it leverages draft models with sparse KV cache to
 address the KV bottleneck that scales with both sequence length and batch size.
+This finding underscores the broad applicability of speculative decoding in
+long-context serving, as it can enhance throughput and reduce latency without
+compromising accuracy. For moderate to long sequences, we demonstrate up to 2x
+speedup for LLaMA-2-7B-32K and 1.84x speedup for LLaMA-3.1-8B when serving
+batch sizes ranging from 32 to 256 on 8 NVIDIA A100 GPUs. The code is available
+at https://github.com/Infini-AI-Lab/MagicDec/.
 
-摘要：大型語言模型 (LLM) 在長語境應用中變得越來越普遍，例如互動式聊天機器人、文件分析和代理工作流程，但以低延遲和高吞吐量提供長語境請求具有挑戰性。推測性解碼 (SD) 是一種廣泛使用的技術，用於在不犧牲性能的情況下減少延遲，但傳統觀念認為其效力僅限於小批次大小。在 MagicDec 中，我們展示了令人驚訝的是，即使對於中等長度的序列，SD 也可以實現高吞吐量推理模式的速度提升。更有趣的是，基於我們嚴謹的分析，一種智能起草策略可以隨著批次大小的增加實現更好的加速。MagicDec 首先找出瓶頸隨著批次大小和序列長度的增加而發生轉移，並利用這些見解更有效地部署推測性解碼以進行高吞吐量推理。然後，它利用具有稀疏 KV 快取的草稿模型來解決隨著序列長度和批次大小而擴展的 KV 瓶頸。
+摘要：大型語言模型（LLM）在互動式聊天機器人、文件分析和代理工作流程等長語境應用中變得越來越普遍，但要以低延遲和高通量提供長語境請求卻是一項挑戰。推測性解碼（SD）是一種廣泛使用的技術，可以在不犧牲效能的情況下減少延遲，但傳統觀念認為其效力僅限於小批次大小。在 MagicDec 中，我們展示出令人驚訝的是，即使對於中等至長序列的高通量推論機制，SD 也可以實現加速。更有趣的是，根據我們嚴謹的分析，一種智慧起草策略可以隨著批次大小的增加而實現更好的加速。MagicDec 首先找出隨著批次大小和序列長度的增加而產生的瓶頸轉移，並利用這些見解更有效地部署推測性解碼以進行高通量推論。然後，它利用具有稀疏 KV 快取的草稿模型來解決 KV 瓶頸，而該瓶頸會隨著序列長度和批次大小而擴展。這一發現強調了推測性解碼在長語境服務中的廣泛適用性，因為它可以在不影響準確性的情況下提高通量並減少延遲。對於中等至長序列，我們展示了 LLaMA-2-7B-32K 的加速最高達 2 倍，以及 LLaMA-3.1-8B 的加速最高達 1.84 倍，同時在 8 個 NVIDIA A100 GPU 上提供 32 到 256 的批次大小。程式碼可在 https://github.com/Infini-AI-Lab/MagicDec/ 取得。
 
 ##### **Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders**
 2408.11046v1 by Yuan Xin, Zheng Li, Ning Yu, Dingfan Chen, Mario Fritz, Michael Backes, Yang Zhang
@@ -660,7 +666,7 @@ elements in our model.
 摘要：目前，大多数低光图像增强方法只考虑单一视图的信息，忽略了跨视图信息之间的相关性。因此，这些方法产生的增强结果通常不令人满意。在此背景下，人们一直努力开发专门用于低光立体图像增强的算法。这些方法考虑了跨视图差异，并实现了左右视图之间的交互，从而提高了性能。然而，这些方法仍然没有充分利用左右视图信息之间的交互。为了解决这个问题，我们提出了一个名为低光立体图像增强充分双视图交互（SDI-Net）的模型。SDI-Net 的主干结构是两个编码器-解码器对，用于学习从低光图像到正常光图像的映射函数。在编码器和解码器中，我们设计了一个名为跨视图充分交互模块（CSIM）的模块，旨在通过注意力机制充分利用双目视图之间的相关性。公开数据集上的定量和视觉结果验证了我们方法优于其他相关方法。消融研究还证明了我们模型中关键元素的有效性。
 
 ##### **LBC: Language-Based-Classifier for Out-Of-Variable Generalization**
-2408.10923v1 by Kangjun Noh, Baekryun Seong, Hoyoon Byun, Sungjin Song, Kyungwoo Song
+2408.10923v2 by Kangjun Noh, Baekryun Seong, Hoyoon Byun, Youngjun Choi, Sungjin Song, Kyungwoo Song
 
 Large Language Models (LLMs) have great success in natural language
 processing tasks such as response generation. However, their use in tabular
@@ -681,7 +687,7 @@ LBC. LBC is the first study to apply an LLM-based model to OOV tasks. The
 source code is at
 https://github.com/ASDASDanonymous/Language-Based-Classifier-forOOVtasks.
 
-摘要：大型語言模型 (LLM) 在自然語言處理任務中取得了巨大的成功，例如回應生成。然而，由於它們的效能不如傳統機器學習模型 (TML)，例如 XGBoost，因此它們在表格資料中的使用受到限制。我們發現，LLM 的預訓練知識使它們能夠詮釋在測試中出現的新變數，而無需額外訓練，這項能力是 Out-of-Variable (OOV) 概念的核心。根據這些發現，我們提出了一個基於語言的分類器 (LBC)，這是一個分類器，它最大化了 LLM 的優點，在 OOV 任務中優於 TML。LBC 採用了三項關鍵的方法策略：1) 進行分類變更以調整資料，以更好地符合模型的理解，2) 採用進階順序和指標來增強資料在模型中的呈現，以及 3) 在推論過程中使用 verbalizer 將 logit 分數對應到類別以產生模型預測。這些策略與 LBC 的預訓練知識相結合，強調了該模型有效處理 OOV 任務的能力。我們透過經驗和理論驗證了 LBC 的優越性。LBC 是第一個將基於 LLM 的模型應用於 OOV 任務的研究。原始碼在 https://github.com/ASDASDanonymous/Language-Based-Classifier-forOOVtasks。
+摘要：大型語言模型 (LLM) 在自然語言處理任務中取得了巨大的成功，例如回應生成。然而，由於與傳統機器學習模型 (TML)（如 XGBoost）相比性能較差，它們在表格數據中的使用受到限制。我們發現，LLM 的預訓練知識使它們能夠解釋在測試中出現的新變數，而無需額外訓練，這項功能是 Out-of-Variable (OOV) 概念的核心。根據這些發現，我們提出了一個基於語言的分類器 (LBC)，這是一個分類器，最大化了 LLM 的優點，在 OOV 任務中優於 TML。LBC 採用了三項關鍵的方法策略：1) 對數據進行分類更改，以更好地符合模型的理解，2) 高級順序和指標來增強數據在模型中的表示，以及 3) 在推理過程中使用 verbalizer 將 logit 分數映射到類別以生成模型預測。這些策略與 LBC 的預訓練知識相結合，強調了模型有效處理 OOV 任務的能力。我們通過實證和理論驗證了 LBC 的優越性。LBC 是第一個將基於 LLM 的模型應用於 OOV 任務的研究。源代碼位於 https://github.com/ASDASDanonymous/Language-Based-Classifier-forOOVtasks。
 
 ##### **MTFinEval:A Multi-domain Chinese Financial Benchmark with Eurypalynous questions**
 2408.10921v1 by Xinyu Liu, Ke Jin
@@ -726,7 +732,7 @@ confined by the LRH.
 摘要：線性表示假設 (LRH) 指出神經網路會學習將概念編碼為激活空間中的方向，而 LRH 的強版本則指出模型只會學習此類編碼。在本文中，我們提出此強 LRH 的反例：當訓練重複輸入記號序列時，門控遞迴神經網路 (RNN) 會學習用特定數量級而非方向來表示每個位置的記號。這些表示具有分層特徵，無法在不同的線性子空間中找到。為顯示這一點，我們訓練介入措施，透過學習與每個序列位置相應的縮放因子來預測和操作記號。這些介入措施表明最小的 RNN 只會找到這個基於大小的解決方案，而較大的 RNN 則具有線性表示。這些發現強烈表明可解釋性研究不應受到 LRH 的限制。
 
 ##### **CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**
-2408.10919v1 by Zijian Zhao, Tingwei Chen, Zhijie Cai, Hang Li, Xiaoyang Li, Qimei Chen, Guangxu Zhu
+2408.10919v2 by Zijian Zhao, Tingwei Chen, Zhijie Cai, Xiaoyang Li, Hang Li, Qimei Chen, Guangxu Zhu
 
 In recent years, Wi-Fi sensing has garnered significant attention due to its
 numerous benefits, such as privacy protection, low cost, and penetration
@@ -754,7 +760,7 @@ in one-shot cross-domain scenario, 64.81% in zero-shot cross-domain scenario,
 and 84.75% in one-shot new-class scenario. To facilitate future research, we
 will release the code for our model upon publication.
 
-摘要：近年來，Wi-Fi 感測因其眾多好處，例如隱私保護、低成本和穿透能力，而備受關注。這個領域已經進行了廣泛的研究，重點關注手勢辨識、人員識別和跌倒偵測等領域。然而，許多資料驅動方法會遇到與領域轉移相關的挑戰，其中模型無法在與訓練資料不同的環境中執行良好。導致此問題的一個主要因素是 Wi-Fi 感測資料集的可用性有限，這使得模型學習過多的無關資訊，並過度擬合訓練集。不幸的是，在不同的場景中收集大規模的 Wi-Fi 感測資料集是一項具有挑戰性的任務。為了解決這個問題，我們提出了 CrossFi，一種基於連體網路的方法，在領域內場景和跨領域場景中都表現出色，包括少樣本、零樣本場景，甚至在少樣本新類別場景中也能執行，其中測試集包含新的類別。CrossFi 的核心組成部分是一個稱為 CSi-Net 的樣本相似性計算網路，它透過使用注意力機制來擷取相似性資訊，而不是僅計算距離或餘弦相似性，從而改善了連體網路的結構。基於此，我們開發了一個額外的 Weight-Net，它可以為每個類別產生一個範本，以便我們的 CrossFi 能在不同的場景中執行。實驗結果表明，我們的 CrossFi 在各種場景中都達到了最先進的效能。在手勢辨識任務中，我們的 CrossFi 在領域內場景中達到了 98.17% 的準確度，在一次性跨領域場景中達到了 91.72%，在零次性跨領域場景中達到了 64.81%，在一次性新類別場景中達到了 84.75%。為了促進未來的研究，我們將在發表後釋出我們模型的程式碼。
+摘要：近年来，Wi-Fi 感测因其众多优点而备受关注，例如隐私保护、低成本和穿透能力。该领域已进行广泛的研究，重点关注手势识别、人员识别和跌倒检测等领域。然而，许多数据驱动的方法遇到了与领域转移相关的挑战，其中模型无法在与训练数据不同的环境中很好地执行。导致此问题的一个主要因素是 Wi-Fi 感测数据集的可用性有限，这使得模型学习过多的无关信息并过度拟合训练集。不幸的是，在不同的场景中收集大规模 Wi-Fi 感测数据集是一项艰巨的任务。为了解决这个问题，我们提出了 CrossFi，这是一种基于连体网络的方法，它在域内场景和跨域场景中都表现出色，包括少样本、零样本场景，甚至可以在测试集中包含新类别的少样本新类别场景中工作。CrossFi 的核心组件是一个名为 CSi-Net 的样本相似度计算网络，它通过使用注意力机制来捕获相似性信息，而不是简单地计算距离或余弦相似性，从而改进了连体网络的结构。基于此，我们开发了一个额外的 Weight-Net，它可以为每个类别生成一个模板，以便我们的 CrossFi 可以在不同的场景中工作。实验结果表明，我们的 CrossFi 在各种场景中都取得了最先进的性能。在手势识别任务中，我们的 CrossFi 在域内场景中实现了 98.17% 的准确率，在单样本跨域场景中实现了 91.72% 的准确率，在零样本跨域场景中实现了 64.81% 的准确率，在单样本新类别场景中实现了 84.75% 的准确率。为了促进未来的研究，我们将在发表后发布我们模型的代码。
 
 ##### **CHECKWHY: Causal Fact Verification via Argument Structure**
 2408.10918v1 by Jiasheng Si, Yibo Zhao, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
@@ -823,7 +829,7 @@ how specific labels can influence attitudes toward AI technology.
 摘要：本研究探讨標籤 AI 為「可信賴」或「可靠」是否會影響使用者對汽車 AI 技術的認知和接受度。研究採用單向受試者間設計，參與研究的 478 位線上參與者會收到可信賴或可靠 AI 的指引。參與者接著評估三個短文情境，並完成改良版的技術接受模式，其中包含感知易用性、類人信任和整體態度等變數。雖然標籤 AI 為「可信賴」並未顯著影響對特定情境的判斷，但它提高了感知易用性和類人信任，特別是仁慈。這表示對可用性有正面影響，並對使用者認知產生擬人化效果。本研究提供深入見解，說明特定標籤如何影響對 AI 技術的態度。
 
 ##### **BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**
-2408.10903v1 by Yeyong Yu, Rusheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian
+2408.10903v2 by Yeyong Yu, Rusheng Yu, Haojie Wei, Zhanqiu Zhang, Quan Qian
 
 The rapid advancement of large language models (LLMs) has revolutionized
 role-playing, enabling the development of general role-playing models. However,
@@ -847,7 +853,7 @@ adhering to and reflecting various dimensions of role profiles, outperforming
 most proprietary general and specialized role-playing baselines. All code and
 datasets are available at https://github.com/yuyouyu32/BeyondDialogue.
 
-摘要：大型語言模型 (LLM) 的快速進步徹底改變了角色扮演，讓通用角色扮演模型的開發成為可能。然而，當前的角色扮演訓練有兩個重大問題：(I) 使用預定義的角色設定來提示特定場景的對話訓練通常會導致對話與設定之間出現不一致，甚至衝突，進而導致訓練偏差。(II) 該模型僅根據設定學習模仿角色，忽略了句子層級的設定對話對齊。在這項工作中，我們提出了一個簡單但有效的名為超越對話 (BEYOND DIALOGUE) 的架構，旨在克服這些障礙。這個架構創新地引入了「超越對話」任務，根據每個特定場景將對話與設定特徵對齊，從而消除訓練期間的偏差。此外，透過採用創新的提示機制來產生訓練的推理結果，這個架構讓模型得以在句子層級實現設定與對話之間的細緻對齊。上述方法完全自動化且低成本。此外，自動化對話與客觀評量方法的整合形成了一個全面的架構，為通用角色扮演鋪路。實驗結果證明，我們的模型在遵守和反映角色設定的各個面向方面表現出色，優於大多數專有的通用和專門角色扮演基準。所有程式碼和資料集都可以在 https://github.com/yuyouyu32/BeyondDialogue 取得。
+摘要：大型語言模型 (LLM) 的快速進步徹底改變了角色扮演，促使通用角色扮演模型的發展。然而，當前的角色扮演訓練有兩個重大問題：(I) 使用預定義的角色檔案來提示特定場景的對話訓練通常會導致對話和檔案之間的不一致，甚至衝突，從而導致訓練偏差。(II) 該模型僅根據檔案學習模仿角色，忽略了句子層級的檔案對話對齊。在這項工作中，我們提出了一個簡單但有效的框架，稱為 BEYOND DIALOGUE，旨在克服這些障礙。這個框架創新地引入了「超越對話」任務，以根據每個特定場景將對話與檔案特徵對齊，從而消除訓練過程中的偏差。此外，透過採用創新的提示機制來產生訓練的推理結果，該框架允許模型在句子層級實現檔案和對話之間的細緻對齊。上述方法完全自動化且成本低廉。此外，自動對話和客觀評估方法的整合形成了一個全面的框架，為通用角色扮演鋪平了道路。實驗結果證明，我們的模型在遵守和反映角色檔案的各種面向方面表現出色，優於大多數專有通用和特定角色扮演基準。所有程式碼和資料集都可以在 https://github.com/yuyouyu32/BeyondDialogue 獲得。
 
 ##### **Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**
 2408.10902v1 by John Mendonça, Isabel Trancoso, Alon Lavie
@@ -994,7 +1000,7 @@ approach. The code will be available at: https://github.com/SuXinqi/DAAD.
 摘要：在當前的網路環境中，假新聞在線上社群網路中快速散播，對社會構成嚴重的威脅。現有的多模態假新聞偵測 (MFND) 方法可分類為基於知識和基於語意的方法。然而，這些方法過度依賴於人類的專業知識和回饋，缺乏靈活性。為了應對這個挑戰，我們提出一個動態分析和適應性辨識器 (DAAD) 方法來偵測假新聞。對於基於知識的方法，我們引入蒙地卡羅樹搜尋 (MCTS) 演算法，以利用大型語言模型 (LLM) 的自我反省能力來進行提示最佳化，為 LLM 提供更豐富、特定於領域的細節和指導，同時讓 LLM 對新聞內容的評論能更靈活地整合。對於基於語意的方法，我們定義了四種典型的欺騙模式：情緒誇大、邏輯不一致、圖像竄改和語意不一致，以揭露假新聞創作背後的機制。為了偵測這些模式，我們仔細設計了四個辨識器，並在深度和廣度上擴展它們，使用軟路由機制來探索最佳的偵測模型。在三個真實世界資料集上的實驗結果證明了我們方法的優越性。程式碼將會在 https://github.com/SuXinqi/DAAD 上提供。
 
 ##### **V-RoAst: A New Dataset for Visual Road Assessment**
-2408.10872v1 by Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, Xinglei Wang, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
+2408.10872v2 by Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, Xinglei Wang, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
 
 Road traffic crashes cause millions of deaths annually and have a significant
 economic impact, particularly in low- and middle-income countries (LMICs). This
@@ -1010,7 +1016,7 @@ stakeholders who lack resources, as it does not require training data. It
 offers a cost-effective and automated methods for global road safety
 assessments, potentially saving lives and reducing economic burdens.
 
-摘要：交通事故每年造成數百萬人死亡，並對經濟造成重大影響，特別是在低收入和中等收入國家 (LMIC)。本文提出了一種使用視覺語言模型 (VLM) 來進行道路安全評估的方法，克服了傳統卷積神經網路 (CNN) 的限制。我們引入了一項新任務，即 V-RoAst（道路評估的視覺問答），並附有一個真實世界的資料集。我們的做法優化了提示工程，並評估了先進的 VLM，包括 Gemini-1.5-flash 和 GPT-4o-mini。這些模型有效地檢查了道路評估的屬性。我們可擴充的解決方案使用來自 Mapillary 的群眾外包影像，有影響力地估計道路安全等級。此外，此方法是為缺乏資源的地方利益相關者設計的，因為它不需要訓練資料。它提供了一種具有成本效益且自動化的全球道路安全評估方法，有可能挽救生命並減輕經濟負擔。
+摘要：道路交通事故每年造成數百萬人死亡，並產生重大的經濟影響，特別是在中低收入國家 (LMIC)。本文提出使用視覺語言模型 (VLM) 來進行道路安全評估的方法，克服了傳統卷積神經網路 (CNN) 的限制。我們引進一個新任務，V-RoAst（道路評估的視覺問答），並附有一個真實世界的資料集。我們的做法優化了提示工程，並評估了先進的 VLM，包括 Gemini-1.5-flash 和 GPT-4o-mini。這些模型有效地檢查了道路評估的屬性。透過使用來自 Mapillary 的群眾外包影像，我們的可擴充解決方案可有效地估計道路安全等級。此外，此方法是為缺乏資源的地方利害關係人所設計，因為它不需要訓練資料。它提供了一種具成本效益且自動化的全球道路安全評估方法，有可能挽救生命並減輕經濟負擔。
 
 ##### **Multi-agent Multi-armed Bandits with Stochastic Sharable Arm Capacities**
 2408.10865v1 by Hong Xie, Jinyu Mo, Defu Lian, Jie Wang, Enhong Chen
@@ -1297,7 +1303,7 @@ several weakly-supervised methods by a large margin across various metrics.
 摘要：偽裝物體偵測 (COD) 要求模型快速且準確地辨別在環境中無縫隱藏自己的物體。由於細微的差異和模糊的邊界，COD 不僅對模型而言是一項極具挑戰性的任務，對人工標註者來說也是如此，需要付出巨大的努力來提供逐像素標註。為了減輕繁重的標註負擔，我們建議僅借助一個點監督來完成這項任務。具體來說，通過快速點擊每個物體，我們首先自適應地將基於點的原始標註擴展到合理的提示區域。然後，為了避免在區別性部分周圍進行部分定位，我們提出了一個注意力調節器，通過部分遮蓋標記區域將模型注意力分散到整個物體上。此外，為了解決僅基於點的標註下偽裝物體的不穩定特徵表示，我們根據不同的擴增影像對（例如改變顏色或進行平移）執行無監督對比學習。在三個主流 COD 基準上，實驗結果表明我們的模型在各種指標上都比多種弱監督方法高出很多。
 
 ##### **Flexora: Flexible Low Rank Adaptation for Large Language Models**
-2408.10774v1 by Chenxing Wei, Yao Shu, Ying Tiffany He, Fei Richard Yu
+2408.10774v2 by Chenxing Wei, Yao Shu, Ying Tiffany He, Fei Richard Yu
 
 Large Language Models (LLMs) are driving advancements in artificial
 intelligence by increasing the scale of model parameters, which has
@@ -1320,7 +1326,7 @@ improve over the existing baselines, indicating the effectiveness of our
 Flexora in practice. We additionally provide insightful theoretical results and
 many ablation studies to deliver a comprehensive understanding of our Flexora.
 
-摘要：大型語言模型 (LLM) 透過增加模型參數的規模推動人工智慧的進展，這顯著增強了概括能力，並在實務上解鎖了新的功能。然而，它們在特定下游任務中的表現通常受到這些任務上其知識邊界的阻礙。因此，微調技術，尤其是廣泛使用的低階適應 (LoRA) 方法，已被引入以擴展這些任務的邊界，而 LoRA 會在某些任務中表現不佳，因為它在這些任務上可能過度擬合。為了克服這種過度擬合並改善 LoRA 的效能，我們提出了彈性低階適應 (Flexora) 方法，以自動且彈性地選擇需要微調的最重要層，以在不同的下游任務中達到最佳效能。具體來說，Flexora 首先將此層選擇問題設定為一個定義良好的超參數最佳化 (HPO) 問題，然後使用展開微分 (UD) 方法來解決它，最後根據最佳化的超參數選擇最有用的層。我們在許多預先訓練的模型和自然語言任務上進行的廣泛實驗表明，Flexora 能夠持續改善現有的基準，這表示我們的 Flexora 在實務上的有效性。我們還提供了有見地的理論結果和許多消融研究，以全面了解我們的 Flexora。
+摘要：大型語言模型（LLM）透過增加模型參數的規模，推動人工智慧的進展，這顯著提升了泛化能力，並在實務上解鎖新的功能。然而，它們在特定下游任務中的表現通常會受到這些任務的知識界線所阻礙。因此，微調技術，特別是廣泛使用的低秩適應（LoRA）方法，已被引入以擴展這些任務的界線，而 LoRA 卻會因為其在這些任務上的潛在過度擬合而表現不佳。為了克服這種過度擬合並改善 LoRA 的效能，我們提出彈性低秩適應（Flexora）方法，以自動且彈性地選出最重要的層，需要微調才能在不同的下游任務上取得最佳效能。具體來說，Flexora 首先將此層選擇問題設定為定義良好的超參數最佳化（HPO）問題，然後使用展開微分（UD）方法來解決它，最後根據最佳化的超參數選出最有用的層。我們在許多預訓練模型和自然語言任務上進行的廣泛實驗顯示，Flexora 能夠持續改進現有的基線，這表示我們的 Flexora 在實務上是有效的。我們還提供了有見地的理論結果和許多消融研究，以提供對我們的 Flexora 的全面理解。
 
 ##### **SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**
 2408.10771v1 by Karl El Hajal, Ajinkya Kulkarni, Enno Hermann, Mathew Magimai. -Doss
@@ -1905,7 +1911,7 @@ corresponding to the eleven sectors emerged.
 摘要：基於帶有 Born 機器框架的張量樹網路，我們提出了一種通用方法，通過將目標分佈函數表示為張量樹表示的量子波函數幅度來構造生成模型。關鍵思想是動態優化最小化鍵相互資訊的樹結構。所提出的方法提供了增強的效能，並揭示了目標資料中的隱藏關係結構。我們用四個範例來說明潛在的實際應用：(i) 隨機模式，(ii) QMNIST 手寫數字，(iii) 貝氏網路，以及 (iv) S&P500 中的股價波動模式。在 (i) 和 (ii) 中，強相關變數集中在網路的中心附近；在 (iii) 中，識別出因果模式；而在 (iv) 中，出現了對應於 11 個部門的結構。
 
 ##### **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation**
-2408.10668v1 by Haoyu Wang, Bingzhe Wu, Yatao Bian, Yongzhe Chang, Xueqian Wang, Peilin Zhao
+2408.10668v2 by Haoyu Wang, Bingzhe Wu, Yatao Bian, Yongzhe Chang, Xueqian Wang, Peilin Zhao
 
 Large Language Models (LLMs) are implicit troublemakers. While they provide
 valuable insights and assist in problem-solving, they can also potentially
@@ -1924,7 +1930,7 @@ strategy: Jailbreak Value Decoding (JVD), emphasizing that seemingly secure
 LLMs may not be as safe as we initially believe. They could be used to gather
 harmful data or launch covert attacks.
 
-摘要：大型語言模型 (LLM) 是潛在的麻煩製造者。雖然它們提供了有價值的見解並協助解決問題，但它們也可能成為惡意活動的資源。實施安全對齊可以降低 LLM 產生有害回應的風險。我們認為：即使 LLM 似乎成功地阻止了有害查詢，仍然可能存在隱藏的漏洞，這些漏洞可能會成為定時炸彈。為了找出這些潛在的弱點，我們建議使用成本值模型作為檢測器和攻擊者。在外部或自我生成的惡意數據集上訓練的成本值模型可以成功地影響原始的安全 LLM 在解碼過程中輸出有毒內容。例如，LLaMA-2-chat 7B 輸出了 39.18% 的具體有毒內容，而只有 22.16% 的拒絕沒有任何有害後綴。然後可以通過提示優化（例如圖像上的軟提示）利用這些潛在的弱點。我們將這種解碼策略命名為：越獄值解碼 (JVD)，強調看似安全的 LLM 可能不像我們最初認為的那麼安全。它們可用於收集有害數據或發動秘密攻擊。
+摘要：大型語言模型 (LLM) 是潛在的麻煩製造者。雖然它們提供了有價值的見解並協助解決問題，但它們也可能成為惡意活動的資源。實施安全對齊可以降低 LLM 產生有害回應的風險。我們認為：即使 LLM 似乎成功地阻止了有害查詢，仍然可能存在潛在的漏洞，這些漏洞可能會成為定時炸彈。為了找出這些潛在的弱點，我們建議使用成本值模型作為偵測器和攻擊者。成本值模型經過外部或自我產生的有害數據集訓練，可以成功影響原始安全的 LLM 在解碼過程中輸出有毒內容。例如，LLaMA-2-chat 7B 輸出了 39.18% 的具體有毒內容，而只有 22.16% 的拒絕沒有任何有害的後綴。然後，這些潛在的弱點可以通過提示優化（例如圖像上的軟提示）來利用。我們將這種解碼策略命名為：越獄值解碼 (JVD)，強調看似安全的 LLM 可能不如我們最初認為的那麼安全。它們可用於收集有害數據或發動秘密攻擊。
 
 ##### **REInstruct: Building Instruction Data from Unlabeled Corpus**
 2408.10663v1 by Shu Chen, Xinyan Guan, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun
@@ -2296,7 +2302,7 @@ effectiveness of our BTBR approach.
 摘要：大型語言模型 (LLM) 接受過大量文本語料庫的訓練，其中不可避免地包含有偏差的資訊。雖然情感對齊等技術可以減輕這些偏差的一些負面影響，但現有的基於提示的攻擊方法仍然可以從模型的權重中提取這些偏差。此外，當提示 LLM 對不同人口群體執行相同的任務時，這些偏差經常會以微妙的方式出現，從而掩蓋它們的存在。為了解決這個問題，我們正式定義了隱含偏差問題，並基於貝葉斯理論開發了一個創新的偏差消除框架，即基於貝葉斯理論的偏差消除 (BTBR)。BTBR 採用似然比篩選來精確定位 LLM 訓練階段中無意中納入偏差的公開可訪問偏差資料集中的資料條目。然後，它自動構建相關知識三元組，並使用模型編輯技術從 LLM 中刪除偏差資訊。通過廣泛的實驗，我們確認了 LLM 中隱含偏差問題的存在，並證明了我們的 BTBR 方法的有效性。
 
 ##### **MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**
-2408.10605v1 by Yanbo Ding, Shaobin Zhuang, Kunchang Li, Zhengrong Yue, Yu Qiao, Yali Wang
+2408.10605v2 by Yanbo Ding, Shaobin Zhuang, Kunchang Li, Zhengrong Yue, Yu Qiao, Yali Wang
 
 Despite recent advancements in text-to-image generation, most existing
 methods struggle to create images with multiple objects and complex spatial
@@ -2319,7 +2325,7 @@ as DALL-E 3 and Stable Diffusion 3. These results demonstrate a significant
 step of MUSES forward in bridging natural language, 2D image generation, and 3D
 world.
 
-摘要：儘管近期在文字轉圖像生成方面有長足進展，但現有的方法大多難以創造出在 3D 世界中有多個物件和複雜空間關係的圖像。為了克服此限制，我們引進一個通用 AI 系統，即 MUSES，用於根據使用者查詢產生可控 3D 影像。具體來說，我們的 MUSES 透過開發一個具有三個關鍵組成的漸進式工作流程來解決這項艱鉅的任務，包括 (1) 2D 到 3D 版面提升的版面管理員、(2) 3D 物件擷取和校正的模型工程師、(3) 3D 到 2D 影像渲染的影像藝術家。透過模仿人類專業人士的協作，此多模態代理人管線透過自上而下的規劃和自下而上的生成的可解釋整合，促進有效且自動地創造具有可控 3D 物件的影像。此外，我們發現現有的基準缺乏對多個物件複雜 3D 空間關係的詳細描述。為了填補此缺口，我們進一步建構了一個新的 T2I-3DisBench (3D 影像場景) 基準，其中描述了 50 個詳細提示的多元 3D 影像場景。廣泛的實驗顯示出 MUSES 在 T2I-CompBench 和 T2I-3DisBench 上的最新效能，超越了最近強勁的競爭對手，例如 DALL-E 3 和 Stable Diffusion 3。這些結果證明了 MUSES 在橋接自然語言、2D 影像生成和 3D 世界方面邁出了顯著的一步。
+摘要：儘管文字轉圖片的生成技術近來有長足進步，但現有的方法大多難以在 3D 世界中建立具有多個物件和複雜空間關係的圖片。為了克服此限制，我們推出一個通用的 AI 系統，稱為 MUSES，用於從使用者查詢生成可 3D 控制的圖片。具體來說，我們的 MUSES 透過開發一個具有三個關鍵組件的漸進式工作流程來解決這項艱鉅的任務，包括 (1) 用於 2D 到 3D 佈局提升的佈局管理員、(2) 用於 3D 物件擷取和校準的模型工程師，以及 (3) 用於 3D 到 2D 圖片渲染的圖片藝術家。透過模仿人類專業人員的協作，此多模式代理程式管道透過自上而下的規劃和自下而上的生成的說明性整合，促進有效且自動建立具有 3D 可控制物件的圖片。此外，我們發現現有的基準缺乏對多個物件複雜 3D 空間關係的詳細說明。為了填補此差距，我們進一步建立了一個 T2I-3DisBench（3D 圖片場景）的新基準，其中描述了具有 50 個詳細提示的多樣化 3D 圖片場景。廣泛的實驗顯示，MUSES 在 T2I-CompBench 和 T2I-3DisBench 上都具有最先進的效能，優於 DALL-E 3 和 Stable Diffusion 3 等近期強勁的競爭對手。這些結果證明了 MUSES 在橋接自然語言、2D 圖片生成和 3D 世界方面邁出了一大步。
 
 ##### **Multilingual Non-Factoid Question Answering with Silver Answers**
 2408.10604v1 by Ritwik Mishra, Sreeram Vennam, Rajiv Ratn Shah, Ponnurangam Kumaraguru

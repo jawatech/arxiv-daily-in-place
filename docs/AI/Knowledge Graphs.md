@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819v1](http://arxiv.org/abs/2408.10819v1)|null|
 |**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
-|**2024-08-19**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v1](http://arxiv.org/abs/2408.10362v1)|null|
+|**2024-08-19**|**Query languages for neural networks**|Martin Grohe et.al.|[2408.10362v2](http://arxiv.org/abs/2408.10362v2)|null|
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124v1](http://arxiv.org/abs/2408.10124v1)|[link](https://github.com/zhangtia16/molgraph-lardo)|
 |**2024-08-19**|**Geometry Informed Tokenization of Molecules for Language Model Generation**|Xiner Li et.al.|[2408.10120v1](http://arxiv.org/abs/2408.10120v1)|null|
 |**2024-08-19**|**GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization**|Ran Liu et.al.|[2408.10115v1](http://arxiv.org/abs/2408.10115v1)|[link](https://github.com/oswald1997/glimmer)|
@@ -35,7 +35,7 @@
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404v1](http://arxiv.org/abs/2408.05404v1)|[link](https://github.com/wxljz/laida)|
 |**2024-08-09**|**SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**|Zhi-Qi Cheng et.al.|[2408.05357v1](http://arxiv.org/abs/2408.05357v1)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v1](http://arxiv.org/abs/2408.05141v1)|null|
-|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v1](http://arxiv.org/abs/2408.07091v1)|null|
+|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v2](http://arxiv.org/abs/2408.07091v2)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
 |**2024-08-08**|**MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models**|Haoxuan Li et.al.|[2408.04388v1](http://arxiv.org/abs/2408.04388v1)|[link](https://github.com/luminosityx/mm-forecast)|
@@ -153,7 +153,7 @@ improving both accuracy and interpretability in solving APGDs.
 摘要：利用幾何圖形圖（APGD）解決代數問題仍然是一個具有挑戰性的問題，因為圖形處理的研究不如語言處理那麼深入。為了應對這一挑戰，本文提出了一種全息推理方案，並開發了一種使用該方案解決 APGD 的高性能方法。為了達到這個目標，它首先定義了一個全息圖，作為一種圖形，並提出了一個全息圖生成器，將給定的 APGD 轉換為一個全息圖，它表示 APGD 的全部信息，並且可以通過統一的方式從中獲取解決問題的關係。然後，HGR，一種全息推理方法，採用一組準備好的圖形模型來推導代數方程式，這與幾何定理是一致的。這種方法可以通過向池中添加新的圖形模型來更新。最後，它採用深度強化學習來提高從池中選擇模型的效率。整個 HGR 不僅確保了較少的推理步驟即可獲得較高的求解精度，而且還通過提供所有推理步驟的描述來顯著增強了解決過程的可解釋性。實驗結果證明了 HGR 在提高求解 APGD 的準確性和可解釋性方面的有效性。
 
 ##### **Query languages for neural networks**
-2408.10362v1 by Martin Grohe, Christoph Standke, Juno Steegmans, Jan Van den Bussche
+2408.10362v2 by Martin Grohe, Christoph Standke, Juno Steegmans, Jan Van den Bussche
 
 We lay the foundations for a database-inspired approach to interpreting and
 understanding neural network models by querying them using declarative
@@ -172,7 +172,7 @@ for linear constraint queries over real functions definable by feedforward
 neural networks with a fixed number of hidden layers and piecewise linear
 activation functions.
 
-摘要：我们奠定了受数据库启发的基础，通过使用声明式语言查询神经网络模型来解释和理解神经网络模型。为此，我们研究了不同的查询语言，基于一阶逻辑，它们主要在访问神经网络模型方面有所不同。实数上的一阶逻辑自然产生了一种将网络视为黑盒的语言；只有网络定义的输入输出函数可以被查询。这本质上是约束查询语言的方法。另一方面，可以通过将网络视为加权图来获得白盒语言，并用权重项上的求和扩展一阶逻辑。后者方法本质上是 SQL 的抽象。一般来说，这两种方法在表达能力上是不可比的，正如我们将展示的那样。然而，在自然情况下，白盒方法可以包含黑盒方法；这是我们的主要结果。我们具体证明了具有固定数量的隐藏层和分段线性激活函数的前馈神经网络可定义的实函数上的线性约束查询的结果。
+摘要：<paragraph>我們奠定了一個受資料庫啟發的基礎，用於透過使用宣告式語言對神經網路模型進行詮釋和理解。為了達到這個目的，我們研究了基於一階邏輯的不同查詢語言，它們主要在於對神經網路模型的存取方式不同。一階實數邏輯自然會產生一種語言，將網路視為一個黑盒子；只能查詢網路定義的輸入輸出函數。這基本上是約束查詢語言的方法。另一方面，可以透過將網路視為一個加權圖，並將一階邏輯延伸到權重項上的總和，來取得一個白盒語言。後者方法基本上是 SQL 的抽象。一般來說，這兩種方法在表達能力上無法相提並論，我們將會證明這一點。然而，在自然情況下，白盒方法可以包含黑盒方法；這是我們的重點。我們具體證明了線性約束查詢對於由具有固定數量隱藏層和分段線性激活函數的前饋神經網路可定義的實函數。</paragraph>
 
 ##### **Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**
 2408.10124v1 by Tianyu Zhang, Yuxiang Ren, Chengbin Hou, Hairong Lv, Xuegong Zhang
@@ -897,7 +897,7 @@ in \url{https://gitlab.aicrowd.com/shizueyy/crag-new}.
 摘要：檢索增強生成 (RAG) 是一個架構，使大型語言模型 (LLM) 能夠透過整合外部知識庫來增強其準確性並減少幻覺。在本文中，我們介紹了一個混合 RAG 系統，透過全面的最佳化套件進行增強，可顯著提升檢索品質、增強推理能力，並改善數值計算能力。我們改進了網頁中的文字區塊和表格，加入屬性預測器以減少幻覺，執行 LLM 知識萃取器和知識圖表萃取器，最後建構了一個包含所有參考的推理策略。我們透過 Meta CRAG KDD Cup 2024 競賽在 CRAG 資料集上評估我們的系統。在地端和線上評估都證明我們的系統顯著增強了複雜推理能力。在地端評估中，我們與基準模型相比，顯著提升了準確性並降低了錯誤率，達到了顯著的分數提升。同時，我們在線上評估中取得了傑出的成果，證明了所提出的系統的效能和泛化能力。我們系統的原始碼已發布在 \url{https://gitlab.aicrowd.com/shizueyy/crag-new}。
 
 ##### **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**
-2408.07091v1 by Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song
+2408.07091v2 by Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song
 
 Textual graphs are ubiquitous in real-world applications, featuring rich text
 information with complex relationships, which enables advanced research across
@@ -924,7 +924,7 @@ prediction. Comprehensive experiments demonstrate that our approach
 substantially enhances the performance of diverse graph neural networks (GNNs)
 across multiple textual graph datasets.
 
-摘要：<paragraph>文本圖表在現實世界的應用中無處不在，具有豐富的文本資訊與複雜的關係，這使得各種領域的高階研究成為可能。文本圖表表示學習旨在從文本圖表中產生低維特徵嵌入，這可以提升下游任務的執行效能。高品質的特徵嵌入應有效擷取文本圖表中的結構化和文本資訊。然而，大多數的文本圖表資料集基準依賴 word2vec 技術來產生特徵嵌入，這會限制其能力。最近關於文本圖表表示學習的研究可分為兩類：監督式和非監督式方法。監督式方法對標籤節點微調語言模型，當標籤資料稀少時，其能力有限。另一方面，非監督式方法透過開發複雜的訓練管線來萃取特徵嵌入。為了解決這些限制，我們提出一個新穎的統一非監督式學習自動編碼器架構，稱為節點層級圖形自動編碼器 (NodeGAE)。我們採用語言模型作為自動編碼器的骨幹，並對文字重建進行預訓練。此外，我們加入一個輔助損失項，讓特徵嵌入察覺到局部圖形結構。我們的模型在訓練過程中保持簡潔，並展示了在不同文本圖表和下游任務中的泛化能力。我們在兩個核心圖形表示學習下游任務中評估了我們的模型：節點分類和連結預測。全面的實驗證明，我們的模型大幅提升了各種圖形神經網路 (GNN) 在多個文本圖表資料集中的執行效能。</paragraph>
+摘要：<paragraph>文本圖表在現實世界的應用中無處不在，它具有豐富的文字資訊和複雜的關係，這使得它能夠在各種領域進行先進的研究。文本圖表表示學習旨在從文本圖表中產生低維特徵嵌入，這可以改善下游任務的效能。一個高品質的特徵嵌入應該有效地擷取文本圖表中的結構和文字資訊。然而，大多數文本圖表資料集基準依賴 word2vec 技術來產生特徵嵌入，這在根本上限制了它們的能力。最近關於文本圖表表示學習的研究可以分為兩類：監督式和非監督式方法。監督式方法在標籤節點上微調語言模型，當標籤資料稀少時，它們的能力有限。另一方面，非監督式方法透過開發複雜的訓練管線來提取特徵嵌入。為了解決這些限制，我們提出了一個新穎的統一非監督式學習自動編碼器框架，稱為節點層級圖形自動編碼器（NodeGAE）。我們採用語言模型作為自動編碼器的骨幹，並在文字重建上進行預訓練。此外，我們還新增了一個輔助損失項，以使特徵嵌入認識到局部圖形結構。我們的模型在訓練過程中保持了簡潔性，並展示了在不同的文本圖表和下游任務中的泛化性。我們在兩個核心圖形表示學習下游任務上評估了我們的模型：節點分類和連結預測。綜合實驗表明，我們的模型方法大幅提升了多個文本圖形資料集中的各種圖形神經網路（GNN）的效能。</paragraph>
 
 ##### **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
 2408.04948v1 by Bhaskarjit Sarmah, Benika Hall, Rohan Rao, Sunil Patel, Stefano Pasquali, Dhagash Mehta

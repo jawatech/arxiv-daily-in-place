@@ -100,7 +100,7 @@
 |**2024-08-05**|**A Review on Organ Deformation Modeling Approaches for Reliable Surgical Navigation using Augmented Reality**|Zheng Han et.al.|[2408.02713v1](http://arxiv.org/abs/2408.02713v1)|null|
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
-|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v2](http://arxiv.org/abs/2408.02349v2)|null|
+|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v3](http://arxiv.org/abs/2408.02349v3)|null|
 |**2024-08-05**|**A Conceptual Framework for Ethical Evaluation of Machine Learning Systems**|Neha R. Gupta et.al.|[2408.10239v1](http://arxiv.org/abs/2408.10239v1)|null|
 
 #### Abstracts
@@ -2586,7 +2586,7 @@ vital sectors where transparency and reliability are crucial.
 摘要：由於其強大的預測能力，深度學習已成為許多產業中不可或缺的工具，包括醫療保健。然而，傳統的深度學習模型通常缺乏可解釋性，並且忽略了將預測不確定性納入考量，而這兩個因素是臨床決策制定的關鍵組成部分。為了產生可解釋且具有不確定性意識的預測，本研究提出了一個名為貝氏柯爾莫哥洛夫阿諾德網路 (BKAN) 的新架構，它結合了柯爾莫哥洛夫阿諾德網路的表達能力與貝氏推論。我們在兩個醫學資料集上使用 BKAN，這些資料集是評估機器學習模型在醫學診斷中的廣泛使用基準：皮馬印第安人糖尿病資料集和克里夫蘭心臟病資料集。我們的模型提供了對預測信心和決策邊界的有益見解，並且在預測準確度方面優於傳統的深度學習模型。此外，BKAN 表現隨機和認識不確定性的能力，可確保醫生獲得更可靠且值得信賴的決策支援。根據實驗結果，我們的貝氏策略提高了模型的可解釋性，並大幅減少了過度擬合，這對於小型且不平衡的醫學資料集非常重要。我們提出了可能的擴充功能，以進一步將 BKAN 用於更複雜的多模式資料集，並探討這些發現對於未來建立可靠的醫療保健 AI 系統研究的重要性。這項工作為深度學習模型部署在透明度和可靠性至關重要的重要領域中開啟了一個新的典範。
 
 ##### **Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**
-2408.02349v2 by Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
+2408.02349v3 by Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
 
 Osteoarthritis (OA) is the most common musculoskeletal disease, which has no
 cure. Knee OA (KOA) is one of the highest causes of disability worldwide, and
@@ -2612,7 +2612,7 @@ multi-modal Deep Learning, and requires no human input at inference time.
 Throughout an exhaustive experimental evaluation, we show that using RL can
 provide a higher monetary benefit when compared to state-of-the-art baselines.
 
-摘要：骨關節炎 (OA) 是最常見的肌肉骨骼疾病，目前無法根治。膝關節骨關節炎 (KOA) 是全球殘疾的主要原因之一，對全球社會造成數十億美元的損失。多年來，預測 KOA 的進程一直是人們關注的重點，因為它可以通過更有效的臨床試驗推進治療的發展，並通過更有效地利用醫療保健來改善患者的預後。然而，現有的預測 KOA 的方法主要是靜態的，即考慮單一時刻的數據來預測多年後的進程，並且是膝關節層面的，即只考慮單個關節的進程。由於這些及相關原因，這些方法無法提供足夠的預測性能，從而無法節省成本並改善患者的預後。定期從所有患者那裡收集大量數據可以解決這個問題，但受限於人口層面的高成本。在這項工作中，我們提出超越 OA 中的靜態預測模型，並提出了一種新穎的主動感測 (AS) 方法，旨在動態追蹤患者，以最大化信息數據採集的數量，同時在一段時間內最小化其總成本。我們的做法基於強化學習 (RL)，並利用專門為多於一個人體部位的疾病進程的 AS 設計的新型獎勵函數。我們的模型是端到端的，依賴於多模式深度學習，並且在推理時不需要人工輸入。在詳盡的實驗評估中，我們表明與最先進的基準相比，使用 RL 可以提供更高的經濟效益。
+摘要：骨關節炎 (OA) 是最常見的肌肉骨骼疾病，目前尚無治癒方法。膝骨關節炎 (KOA) 是全球導致殘疾的首要原因之一，每年為全球社會造成數十億美元的損失。多年來，預測 KOA 進程一直是人們關注的重點，因為它可以通過更有效的臨床試驗推進治療開發，並通過更有效的醫療保健利用來改善患者的預後。然而，現有的 KOA 預測方法主要採用靜態方式，即考慮單一時間點的數據來預測未來多年的進程，並考慮膝關節層面，即僅考慮單個關節的進程。由於這些及相關原因，這些方法無法提供足夠的預測性能，從而無法節省成本並改善患者預後。定期從所有患者那裡收集大量數據可以解決這個問題，但這會受到人口層面高成本的限制。在這項工作中，我們提出超越 OA 中的靜態預測模型，並提出了一種新穎的 Active Sensing (AS) 方法，旨在動態跟蹤患者，以最大化信息數據採集的數量，同時在一段時間內最小化其總成本。我們的做法基於強化學習 (RL)，並利用專門為多個人體部位疾病進程的 AS 設計的新型獎勵函數。我們的這種方法是端到端的，依賴於多模態深度學習，並且在推理時不需要人為輸入。在詳盡的實驗評估中，我們表明與最先進的基準相比，使用 RL 可以提供更高的經濟效益。
 
 ##### **A Conceptual Framework for Ethical Evaluation of Machine Learning Systems**
 2408.10239v1 by Neha R. Gupta, Jessica Hullman, Hari Subramonyam

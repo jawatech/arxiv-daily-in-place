@@ -48,7 +48,7 @@
 |**2024-08-21**|**DocTabQA: Answering Questions from Long Documents Using Tables**|Haochen Wang et.al.|[2408.11490v1](http://arxiv.org/abs/2408.11490v1)|null|
 |**2024-08-21**|**The Self-Contained Negation Test Set**|David Kletz et.al.|[2408.11469v1](http://arxiv.org/abs/2408.11469v1)|null|
 |**2024-08-21**|**Expanding FLORES+ Benchmark for more Low-Resource Settings: Portuguese-Emakhuwa Machine Translation Evaluation**|Felermino D. M. Antonio Ali et.al.|[2408.11457v1](http://arxiv.org/abs/2408.11457v1)|null|
-|**2024-08-21**|**Using Part-based Representations for Explainable Deep Reinforcement Learning**|Manos Kirtas et.al.|[2408.11455v1](http://arxiv.org/abs/2408.11455v1)|null|
+|**2024-08-21**|**Using Part-based Representations for Explainable Deep Reinforcement Learning**|Manos Kirtas et.al.|[2408.11455v2](http://arxiv.org/abs/2408.11455v2)|null|
 |**2024-08-21**|**Bidirectional Gated Mamba for Sequential Recommendation**|Ziwei Liu et.al.|[2408.11451v1](http://arxiv.org/abs/2408.11451v1)|[link](https://github.com/ziwliu-cityu/simga)|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
 |**2024-08-21**|**Lookism: The overlooked bias in computer vision**|Aditya Gulati et.al.|[2408.11448v1](http://arxiv.org/abs/2408.11448v1)|null|
@@ -1218,7 +1218,7 @@ is publicly available at https://huggingface.co/datasets/LIACC/Emakhuwa-FLORES.
 摘要：作為開放語言資料計畫共享任務的一部分，我們已擴展 FLORES+ 評估集，以納入在莫三比克廣泛使用的低資源語言 Emakhuwa。我們將 dev 和 devtest 集從葡萄牙語翻譯成 Emakhuwa，並詳細說明翻譯過程和使用的品質保證措施。我們的做法涉及各種品質檢查，包括後編輯和適足性評估。產生的資料集包含每個來源的多個參考句子。我們展示了訓練神經機器翻譯系統和微調現有之多語言翻譯模型的基準結果。我們的研究結果表明，拼寫不一致仍然是 Emakhuwa 的一項挑戰。此外，基準模型在此評估集中的表現不佳，強調進一步研究以提升 Emakhuwa 的機器翻譯品質的必要性。資料可於 https://huggingface.co/datasets/LIACC/Emakhuwa-FLORES 公開取得。
 
 ##### **Using Part-based Representations for Explainable Deep Reinforcement Learning**
-2408.11455v1 by Manos Kirtas, Konstantinos Tsampazis, Loukia Avramelou, Nikolaos Passalis, Nikolaos Passalis
+2408.11455v2 by Manos Kirtas, Konstantinos Tsampazis, Loukia Avramelou, Nikolaos Passalis, Anastasios Tefas
 
 Utilizing deep learning models to learn part-based representations holds
 significant potential for interpretable-by-design approaches, as these models
@@ -1236,7 +1236,7 @@ well as a modified sign-preserving training method, which can ensure better
 gradient flow compared to existing approaches. We demonstrate the effectiveness
 of the proposed approach using the well-known Cartpole benchmark.
 
-摘要：利用深度學習模型來學習基於部分的表示，對於可解釋的設計方法具有顯著的潛力，因為這些模型透過簡單的加法將從特徵表示中獲得的潛在原因納入其中。然而，訓練一個基於部分的學習模型會產生挑戰，特別是在對模型參數強制非負約束時，這可能會導致訓練困難，例如不穩定性和收斂問題。此外，由於影響許多最佳化方法的固有不穩定性，在深度強化學習 (RL) 中應用這種方法甚至更具挑戰性。在本文中，我們提出了一種針對 RL 中的動作模型的非負訓練方法，可以提取基於部分的表示，在遵守非負約束的同時增強可解釋性。為此，我們採用非負初始化技術，以及一種經過修改的符號保持訓練方法，與現有方法相比，它可以確保更好的梯度流。我們使用著名的 Cartpole 基準展示了所提出的方法的有效性。
+摘要：利用深度學習模型來學習基於部分的表示法，對於可解釋性設計方法具有顯著的潛力，因為這些模型會透過簡單的加法，將從特徵表示中獲得的潛在原因納入考量。然而，訓練一個基於部分的學習模型會產生挑戰，特別是在對模型參數強制執行非負約束時，這可能會導致訓練困難，例如不穩定性和收斂問題。此外，由於影響許多最佳化方法的固有不穩定性，在深度強化學習 (RL) 中應用此類方法的要求更高。在本文中，我們提出了一個針對 RL 中動作模型的非負訓練方法，讓提取的基於部分的表示法能夠增強可解釋性，同時遵守非負約束。為此，我們採用非負初始化技術，以及一個經過修改的符號保持訓練方法，與現有方法相比，它可以確保更好的梯度流動。我們使用著名的 Cartpole 基準來證明所提出方法的有效性。
 
 ##### **Bidirectional Gated Mamba for Sequential Recommendation**
 2408.11451v1 by Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao

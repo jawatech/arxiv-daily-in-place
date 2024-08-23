@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**AI in radiological imaging of soft-tissue and bone tumours: a systematic review evaluating against CLAIM and FUTURE-AI guidelines**|Douwe J. Spaanderman et.al.|[2408.12491v1](http://arxiv.org/abs/2408.12491v1)|null|
+|**2024-08-06**|**MicroXercise: A Micro-Level Comparative and Explainable System for Remote Physical Therapy**|Hanchen David Wang et.al.|[2408.11837v1](http://arxiv.org/abs/2408.11837v1)|null|
 |**2024-08-05**|**The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**|Joshua Morriss et.al.|[2408.05239v1](http://arxiv.org/abs/2408.05239v1)|null|
 |**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709v1](http://arxiv.org/abs/2408.02709v1)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706v1](http://arxiv.org/abs/2408.02706v1)|null|
@@ -100,10 +102,81 @@
 |**2023-06-02**|**XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models**|Sujith K Mandala et.al.|[2306.01668v1](http://arxiv.org/abs/2306.01668v1)|null|
 |**2023-05-26**|**A Novel real-time arrhythmia detection model using YOLOv8**|Guang Jun Nicholas Ang et.al.|[2305.16727v3](http://arxiv.org/abs/2305.16727v3)|null|
 |**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v2](http://arxiv.org/abs/2305.14389v2)|null|
-|**2023-05-18**|**What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**|Junwei Kuang et.al.|[2305.13127v2](http://arxiv.org/abs/2305.13127v2)|null|
-|**2023-05-17**|**Echoes of Biases: How Stigmatizing Language Affects AI Performance**|Yizhi Liu et.al.|[2305.10201v4](http://arxiv.org/abs/2305.10201v4)|null|
 
 #### Abstracts
+##### **AI in radiological imaging of soft-tissue and bone tumours: a systematic review evaluating against CLAIM and FUTURE-AI guidelines**
+2408.12491v1 by Douwe J. Spaanderman, Matthew Marzetti, Xinyi Wan, Andrew F. Scarsbrook, Philip Robinson, Edwin H. G. Oei, Jacob J. Visser, Robert Hemke, Kirsten van Langevelde, David F. Hanff, Geert J. L. H. van Leenders, Cornelis Verhoef, Dirk J. Gruühagen, Wiro J. Niessen, Stefan Klein, Martijn P. A. Starmans
+
+Soft-tissue and bone tumours (STBT) are rare, diagnostically challenging
+lesions with variable clinical behaviours and treatment approaches. This
+systematic review provides an overview of Artificial Intelligence (AI) methods
+using radiological imaging for diagnosis and prognosis of these tumours,
+highlighting challenges in clinical translation, and evaluating study alignment
+with the Checklist for AI in Medical Imaging (CLAIM) and the FUTURE-AI
+international consensus guidelines for trustworthy and deployable AI to promote
+the clinical translation of AI methods. The review covered literature from
+several bibliographic databases, including papers published before 17/07/2024.
+Original research in peer-reviewed journals focused on radiology-based AI for
+diagnosing or prognosing primary STBT was included. Exclusion criteria were
+animal, cadaveric, or laboratory studies, and non-English papers. Abstracts
+were screened by two of three independent reviewers for eligibility. Eligible
+papers were assessed against guidelines by one of three independent reviewers.
+The search identified 15,015 abstracts, from which 325 articles were included
+for evaluation. Most studies performed moderately on CLAIM, averaging a score
+of 28.9$\pm$7.5 out of 53, but poorly on FUTURE-AI, averaging 5.1$\pm$2.1 out
+of 30. Imaging-AI tools for STBT remain at the proof-of-concept stage,
+indicating significant room for improvement. Future efforts by AI developers
+should focus on design (e.g. define unmet clinical need, intended clinical
+setting and how AI would be integrated in clinical workflow), development (e.g.
+build on previous work, explainability), evaluation (e.g. evaluating and
+addressing biases, evaluating AI against best practices), and data
+reproducibility and availability (making documented code and data publicly
+available). Following these recommendations could improve clinical translation
+of AI methods.
+
+摘要：軟組織和骨骼腫瘤（STBT）是罕見、診斷具有挑戰性的病灶，其臨床行為和治療方法各不相同。這篇系統性回顧提供了使用放射影像進行診斷和預後的人工智慧 (AI) 方法的概觀，重點說明了臨床轉譯的挑戰，並評估研究與醫療影像 AI 核查表 (CLAIM) 和 FUTURE-AI 可信賴且可部署 AI 的國際共識準則的一致性，以促進 AI 方法的臨床轉譯。這篇回顧涵蓋了幾個書目資料庫中的文獻，包括在 2024 年 7 月 17 日之前發表的論文。納入了以放射為基礎的 AI 診斷或預後原發性 STBT 的同行評審期刊中的原始研究。排除標準是動物、屍體或實驗室研究，以及非英文論文。摘要由三位獨立審查員中的兩位篩選資格。合格的論文由三位獨立審查員中的一位根據準則進行評估。搜索識別出 15,015 篇摘要，其中 325 篇文章被納入評估。大多數研究在 CLAIM 中表現中等，平均得分為 53 分中的 28.9±7.5 分，但在 FUTURE-AI 中表現不佳，平均得分為 30 分中的 5.1±2.1 分。STBT 的影像 AI 工具仍處於概念驗證階段，表明有顯著的改進空間。AI 開發人員未來的努力應集中在設計（例如定義未滿足的臨床需求、預期的臨床環境以及 AI 如何整合到臨床工作流程中）、開發（例如建立在先前的工作、可解釋性）、評估（例如評估和解決偏差、評估 AI 與最佳實務）、以及數據可複製性和可用性（公開提供文件化的代碼和數據）。遵循這些建議可以改善 AI 方法的臨床轉譯。
+
+##### **MicroXercise: A Micro-Level Comparative and Explainable System for Remote Physical Therapy**
+2408.11837v1 by Hanchen David Wang, Nibraas Khan, Anna Chen, Nilanjan Sarkar, Pamela Wisniewski, Meiyi Ma
+
+Recent global estimates suggest that as many as 2.41 billion individuals have
+health conditions that would benefit from rehabilitation services. Home-based
+Physical Therapy (PT) faces significant challenges in providing interactive
+feedback and meaningful observation for therapists and patients. To fill this
+gap, we present MicroXercise, which integrates micro-motion analysis with
+wearable sensors, providing therapists and patients with a comprehensive
+feedback interface, including video, text, and scores. Crucially, it employs
+multi-dimensional Dynamic Time Warping (DTW) and attribution-based explainable
+methods to analyze the existing deep learning neural networks in monitoring
+exercises, focusing on a high granularity of exercise. This synergistic
+approach is pivotal, providing output matching the input size to precisely
+highlight critical subtleties and movements in PT, thus transforming complex AI
+analysis into clear, actionable feedback. By highlighting these micro-motions
+in different metrics, such as stability and range of motion, MicroXercise
+significantly enhances the understanding and relevance of feedback for
+end-users. Comparative performance metrics underscore its effectiveness over
+traditional methods, such as a 39% and 42% improvement in Feature Mutual
+Information (FMI) and Continuity. MicroXercise is a step ahead in home-based
+physical therapy, providing a technologically advanced and intuitively helpful
+solution to enhance patient care and outcomes.
+
+摘要：最近的全球估計表明，多達 24.1 億人有
+健康狀況可從復健服務中受益。居家
+物理治療 (PT) 在提供互動式
+回饋和有意義的觀察方面面臨重大挑戰，供治療師和患者使用。為了填補這
+個缺口，我們提出 MicroXercise，它將微動作分析與
+可穿戴式感測器整合在一起，為治療師和患者提供一個全面的
+回饋介面，包括影片、文字和分數。至關重要的是，它採用
+多維動態時間規整 (DTW) 和基於歸因的可解釋
+方法來分析監控運動中現有的深度學習神經網路，專注於運動的高粒度。這種協同
+方法至關重要，提供與輸入大小匹配的輸出，以精確地
+突出 PT 中關鍵的細微差別和動作，從而將複雜的 AI
+分析轉換為清晰、可操作的回饋。透過在不同指標中突顯這些微動作，例如穩定性和動作範圍，MicroXercise
+顯著提升最終使用者對回饋的理解和相關性。比較效能指標強調其優於
+傳統方法的有效性，例如特徵互惠資訊 (FMI) 和連續性分別提升了 39% 和 42%。MicroXercise 在居家
+物理治療方面更進一步，提供技術先進且直覺有用的
+解決方案，以提升患者照護和結果。
+
 ##### **The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**
 2408.05239v1 by Joshua Morriss, Tod Brindle, Jessica Bah Rösman, Daniel Reibsamen, Andreas Enz
 
@@ -2548,52 +2621,4 @@ IRT images. The superiority of our proposed framework is confirmed when
 compared with existing deep learning frameworks.
 
 摘要：乳癌（BC）仍然是一個重大的健康威脅，目前尚無長期治癒的方法。早期發現至關重要，但乳房攝影的判讀卻受到高假陽性和假陰性的阻礙。由於乳癌的發生率預計將超過肺癌，因此改善早期檢測方法至關重要。熱像攝影使用高解析度紅外線相機，特別是在與人工智慧（AI）結合使用時，提供了希望。這項工作提出了一個基於注意力的卷積神經網路用於分割，在乳癌檢測和分類中提供了更高的速度和精度。該系統增強影像並執行可解釋的 AI 癌症分割。我們提出了一個基於Transformer注意力的卷積架構（UNet）用於故障識別，並使用梯度加權類激活映射（Grad-CAM）來分析 UNet 架構中偏見和弱點的區域，使用 IRT 影像。與現有的深度學習框架相比，我們提出的框架的優越性得到證實。
-
-##### **What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media**
-2305.13127v2 by Junwei Kuang, Jiaheng Xie, Zhijun Yan
-
-Depression is the most prevalent and serious mental illness, which induces
-grave financial and societal ramifications. Depression detection is key for
-early intervention to mitigate those consequences. Such a high-stake decision
-inherently necessitates interpretability. Although a few depression detection
-studies attempt to explain the decision based on the importance score or
-attention weights, these explanations misalign with the clinical depression
-diagnosis criterion that is based on depressive symptoms. To fill this gap, we
-follow the computational design science paradigm to develop a novel Multi-Scale
-Temporal Prototype Network (MSTPNet). MSTPNet innovatively detects and
-interprets depressive symptoms as well as how long they last. Extensive
-empirical analyses using a large-scale dataset show that MSTPNet outperforms
-state-of-the-art depression detection methods with an F1-score of 0.851. This
-result also reveals new symptoms that are unnoted in the survey approach, such
-as sharing admiration for a different life. We further conduct a user study to
-demonstrate its superiority over the benchmarks in interpretability. This study
-contributes to IS literature with a novel interpretable deep learning model for
-depression detection in social media. In practice, our proposed method can be
-implemented in social media platforms to provide personalized online resources
-for detected depressed patients.
-
-摘要：憂鬱症是最普遍且嚴重的精神疾病，會造成嚴重的財務和社會後果。憂鬱症的偵測對於早期介入以減輕這些後果至關重要。如此重大的決定本質上需要可解釋性。儘管一些憂鬱症偵測研究嘗試根據重要性分數或注意力權重來解釋這個決定，但這些解釋與基於憂鬱症狀的臨床憂鬱症診斷標準不一致。為了填補這個缺口，我們遵循計算設計科學範例來開發一個新穎的多尺度時間原型網路 (MSTPNet)。MSTPNet 創新地偵測並解釋憂鬱症狀以及它們持續多久。使用大規模資料集進行的廣泛實證分析顯示，MSTPNet 以 0.851 的 F1 分數優於最先進的憂鬱症偵測方法。此結果還揭示了調查方法中未注意到的新症狀，例如分享對不同生活的欽佩。我們進一步進行使用者研究，以證明其在可解釋性方面優於基準。本研究以一個新穎的可解釋深度學習模型為憂鬱症偵測在社群媒體中的 IS 文獻做出貢獻。在實務上，我們提出的方法可以實作在社群媒體平台中，以提供個人化的線上資源給被偵測出憂鬱症的患者。
-
-##### **Echoes of Biases: How Stigmatizing Language Affects AI Performance**
-2305.10201v4 by Yizhi Liu, Weiguang Wang, Guodong Gordon Gao, Ritu Agarwal
-
-Electronic health records (EHRs) serve as an essential data source for the
-envisioned artificial intelligence (AI)-driven transformation in healthcare.
-However, clinician biases reflected in EHR notes can lead to AI models
-inheriting and amplifying these biases, perpetuating health disparities. This
-study investigates the impact of stigmatizing language (SL) in EHR notes on
-mortality prediction using a Transformer-based deep learning model and
-explainable AI (XAI) techniques. Our findings demonstrate that SL written by
-clinicians adversely affects AI performance, particularly so for black
-patients, highlighting SL as a source of racial disparity in AI model
-development. To explore an operationally efficient way to mitigate SL's impact,
-we investigate patterns in the generation of SL through a clinicians'
-collaborative network, identifying central clinicians as having a stronger
-impact on racial disparity in the AI model. We find that removing SL written by
-central clinicians is a more efficient bias reduction strategy than eliminating
-all SL in the entire corpus of data. This study provides actionable insights
-for responsible AI development and contributes to understanding clinician
-behavior and EHR note writing in healthcare.
-
-摘要：電子健康紀錄 (EHR) 作為預想中由人工智慧 (AI) 推動的醫療保健轉型的重要資料來源。然而，反映在 EHR 備註中的臨床偏見可能導致 AI 模型繼承並擴大這些偏見，進而造成健康差異。本研究探討 EHR 備註中汙名化語言 (SL) 對使用基於 Transformer 的深度學習模型和可解釋 AI (XAI) 技術預測死亡率的影響。我們的研究結果表明，由臨床醫生撰寫的 SL 會對 AI 效能產生不利影響，特別是對黑人患者而言，突顯 SL 是 AI 模型開發中種族差異的來源。為了探索一種運作上有效率的方法來減輕 SL 的影響，我們透過臨床醫生的協作網路探討 SL 產生的模式，並找出核心臨床醫生對 AI 模型中的種族差異有較大的影響。我們發現，移除由核心臨床醫生撰寫的 SL 是比消除資料集中所有 SL 更有效率的偏見減少策略。本研究提供可行的見解，用於負責任的 AI 開發，並有助於了解臨床醫生行為和醫療保健中的 EHR 備註撰寫。
 

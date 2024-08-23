@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
+|**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
+|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v1](http://arxiv.org/abs/2408.12333v1)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
+|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
+|**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116v1](http://arxiv.org/abs/2408.12116v1)|null|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
 |**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182v1](http://arxiv.org/abs/2408.11182v1)|null|
 |**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133v1](http://arxiv.org/abs/2408.11133v1)|null|
@@ -17,7 +22,7 @@
 |**2024-08-16**|**ASGM-KG: Unveiling Alluvial Gold Mining Through Knowledge Graphs**|Debashis Gupta et.al.|[2408.08972v1](http://arxiv.org/abs/2408.08972v1)|null|
 |**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782v1](http://arxiv.org/abs/2408.08782v1)|[link](https://github.com/cw-wan/EmoDynamiX-v2)|
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v1](http://arxiv.org/abs/2408.08685v1)|null|
-|**2024-08-16**|**RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search**|Meng Chen et.al.|[2408.08933v1](http://arxiv.org/abs/2408.08933v1)|null|
+|**2024-08-16**|**RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search**|Meng Chen et.al.|[2408.08933v1](http://arxiv.org/abs/2408.08933v1)|[link](https://github.com/matchyc/RoarGraph)|
 |**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535v1](http://arxiv.org/abs/2408.08535v1)|null|
 |**2024-08-15**|**VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool**|Chia-Tung Ho et.al.|[2408.08927v1](http://arxiv.org/abs/2408.08927v1)|null|
 |**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921v1](http://arxiv.org/abs/2408.08921v1)|null|
@@ -97,13 +102,137 @@
 |**2024-07-22**|**The Ontoverse: Democratising Access to Knowledge Graph-based Data Through a Cartographic Interface**|Johannes Zimmermann et.al.|[2408.03339v1](http://arxiv.org/abs/2408.03339v1)|null|
 |**2024-07-22**|**Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**|Huanjing Zhao et.al.|[2407.15431v1](http://arxiv.org/abs/2407.15431v1)|null|
 |**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
-|**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141v1](http://arxiv.org/abs/2407.15141v1)|null|
-|**2024-07-20**|**On the Design and Analysis of LLM-Based Algorithms**|Yanxi Chen et.al.|[2407.14788v1](http://arxiv.org/abs/2407.14788v1)|[link](https://github.com/modelscope/agentscope)|
-|**2024-07-19**|**LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits**|Chen-Chia Chang et.al.|[2407.18269v1](http://arxiv.org/abs/2407.18269v1)|null|
-|**2024-07-19**|**Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**|Suvajit Patra et.al.|[2407.14224v1](http://arxiv.org/abs/2407.14224v1)|null|
-|**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 
 #### Abstracts
+##### **A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**
+2408.12578v1 by Ekdeep Singh Lubana, Kyogo Kawaguchi, Robert P. Dick, Hidenori Tanaka
+
+Increase in data, size, or compute can lead to sudden learning of specific
+capabilities by a neural network -- a phenomenon often called "emergence".
+Beyond scientific understanding, establishing the causal factors underlying
+such emergent capabilities is crucial to enable risk regulation frameworks for
+AI. In this work, we seek inspiration from study of emergent properties in
+other fields and propose a phenomenological definition for the concept in the
+context of neural networks. Our definition implicates the acquisition of
+specific structures underlying the data-generating process as a cause of sudden
+performance growth for specific, narrower tasks. We empirically investigate
+this definition by proposing an experimental system grounded in a
+context-sensitive formal language and find that Transformers trained to perform
+tasks on top of strings from this language indeed exhibit emergent
+capabilities. Specifically, we show that once the language's underlying grammar
+and context-sensitivity inducing structures are learned by the model,
+performance on narrower tasks suddenly begins to improve. We then analogize our
+network's learning dynamics with the process of percolation on a bipartite
+graph, establishing a formal phase transition model that predicts the shift in
+the point of emergence observed in experiment when changing the data structure.
+Overall, our experimental and theoretical frameworks yield a step towards
+better defining, characterizing, and predicting emergence in neural networks.
+
+摘要：隨著資料、規模或運算增加，神經網路可能會突然學會特定功能，這種現象常稱為「湧現」。除了科學理解之外，建立造成這種湧現功能的因果關係，對於建立人工智慧的風險規範架構至關重要。在這項工作中，我們從其他領域對湧現特性的研究中尋求靈感，並提出在神經網路脈絡中對這個概念的現象學定義。我們的定義暗示，取得資料產生流程中特定的基礎結構，是特定、較狹窄任務突然效能提升的原因。我們透過提出一個以情境敏感形式語言為基礎的實驗系統，對這個定義進行實證調查，並發現訓練來執行這個語言中字串頂端任務的 Transformer，確實展現出湧現功能。具體來說，我們顯示出，一旦模型學會語言的基礎文法和引發情境敏感性的結構，執行較狹窄任務的效能就會突然開始提升。然後，我們將網路的學習動態類比為二分圖上的滲流過程，建立一個正式的相變模型，預測在改變資料結構時，實驗中觀察到的湧現點轉變。總體而言，我們的實驗和理論架構朝著在神經網路中更佳定義、描述和預測湧現邁進一步。
+
+##### **Cell-ontology guided transcriptome foundation model**
+2408.12373v1 by Xinyu Yuan, Zhihao Zhan, Zuobai Zhang, Manqi Zhou, Jianan Zhao, Boyu Han, Yue Li, Jian Tang
+
+Transcriptome foundation models TFMs hold great promises of deciphering the
+transcriptomic language that dictate diverse cell functions by self-supervised
+learning on large-scale single-cell gene expression data, and ultimately
+unraveling the complex mechanisms of human diseases. However, current TFMs
+treat cells as independent samples and ignore the taxonomic relationships
+between cell types, which are available in cell ontology graphs. We argue that
+effectively leveraging this ontology information during the TFM pre-training
+can improve learning biologically meaningful gene co-expression patterns while
+preserving TFM as a general purpose foundation model for downstream zero-shot
+and fine-tuning tasks. To this end, we present \textbf{s}ingle \textbf{c}ell,
+\textbf{Cell}-\textbf{o}ntology guided TFM scCello. We introduce cell-type
+coherence loss and ontology alignment loss, which are minimized along with the
+masked gene expression prediction loss during the pre-training. The novel loss
+component guide scCello to learn the cell-type-specific representation and the
+structural relation between cell types from the cell ontology graph,
+respectively. We pre-trained scCello on 22 million cells from CellxGene
+database leveraging their cell-type labels mapped to the cell ontology graph
+from Open Biological and Biomedical Ontology Foundry. Our TFM demonstrates
+competitive generalization and transferability performance over the existing
+TFMs on biologically important tasks including identifying novel cell types of
+unseen cells, prediction of cell-type-specific marker genes, and cancer drug
+responses.
+
+摘要：<paragraph>轉錄組基礎模型 TFM 承諾解碼轉錄組語言，它透過在大型單細胞基因表現資料上進行自我監督學習，來決定不同的細胞功能，並最終解開人類疾病的複雜機制。然而，目前的 TFM 將細胞視為獨立樣本，並忽略細胞類型之間的分類關係，而這在細胞本體論圖表中是可用的。我們認為在 TFM 預訓練期間有效利用此本體論資訊，可以改善學習生物學上有意義的基因共表現模式，同時保留 TFM 作為下游零次學習和微調任務的一般用途基礎模型。為此，我們提出單細胞、細胞本體論引導的 TFM scCello。我們引入細胞類型一致性損失和本體論對齊損失，在預訓練期間會將其與遮罩基因表現預測損失一起最小化。這個新穎的損失組件引導 scCello 分別從細胞本體論圖表中學習細胞類型特定表示和細胞類型之間的結構關係。我們在 CellxGene 資料庫中對 2200 萬個細胞進行 scCello 預訓練，利用其細胞類型標籤對應到開放生物和生物醫學本體鑄造廠的細胞本體論圖表。我們的 TFM 在生物學上重要的任務上展示了比現有 TFM 更具競爭力的泛化和可轉移性，包括識別未見細胞的新細胞類型、預測細胞類型特定標記基因和癌症藥物反應。</paragraph>
+
+##### **Graph Retrieval Augmented Trustworthiness Reasoning**
+2408.12333v1 by Ying Zhu, Shengchang Li, Ziqian Kong, Peilan Xu
+
+Trustworthiness reasoning is crucial in multiplayer games with incomplete
+information, enabling agents to identify potential allies and adversaries,
+thereby enhancing reasoning and decision-making processes. Traditional
+approaches relying on pre-trained models necessitate extensive domain-specific
+data and considerable reward feedback, with their lack of real-time
+adaptability hindering their effectiveness in dynamic environments. In this
+paper, we introduce the Graph Retrieval Augmented Reasoning (GRATR) framework,
+leveraging the Retrieval-Augmented Generation (RAG) technique to bolster
+trustworthiness reasoning in agents. GRATR constructs a dynamic trustworthiness
+graph, updating it in real-time with evidential information, and retrieves
+relevant trust data to augment the reasoning capabilities of Large Language
+Models (LLMs). We validate our approach through experiments on the multiplayer
+game "Werewolf," comparing GRATR against baseline LLM and LLM enhanced with
+Native RAG and Rerank RAG. Our results demonstrate that GRATR surpasses the
+baseline methods by over 30\% in winning rate, with superior reasoning
+performance. Moreover, GRATR effectively mitigates LLM hallucinations, such as
+identity and objective amnesia, and crucially, it renders the reasoning process
+more transparent and traceable through the use of the trustworthiness graph.
+
+摘要：<paragraph>在信息不完整的多人遊戲中，可信度推理至關重要，它使代理商能夠識別潛在的盟友和敵人，從而增強推理和決策制定過程。依賴預先訓練模型的傳統方法需要廣泛的特定領域數據和大量的獎勵反饋，而缺乏實時適應性阻礙了它們在動態環境中的有效性。在本文中，我們介紹了圖表檢索增強推理 (GRATR) 框架，利用檢索增強生成 (RAG) 技術來加強代理商的可信度推理。GRATR 構建了一個動態的可信度圖表，並使用證據信息實時更新它，並檢索相關的信任數據以增強大型語言模型 (LLM) 的推理能力。我們通過在多人遊戲“狼人”上的實驗驗證了我們的做法，將 GRATR 與基線 LLM 和增強了 Native RAG 和 Rerank RAG 的 LLM 進行了比較。我們的結果表明，GRATR 在獲勝率上超過了基線方法 30% 以上，具有卓越的推理性能。此外，GRATR 有效地減輕了 LLM 的幻覺，例如身份和目標健忘症，最重要的是，它通過使用可信度圖表使推理過程更加透明和可追溯。</paragraph>
+
+##### **MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**
+2408.12236v1 by Yanzeng Li, Cheng Zeng, Jinchao Zhang, Jie Zhou, Lei Zou
+
+Medical education relies heavily on Simulated Patients (SPs) to provide a
+safe environment for students to practice clinical skills, including medical
+image analysis. However, the high cost of recruiting qualified SPs and the lack
+of diverse medical imaging datasets have presented significant challenges. To
+address these issues, this paper introduces MedDiT, a novel
+knowledge-controlled conversational framework that can dynamically generate
+plausible medical images aligned with simulated patient symptoms, enabling
+diverse diagnostic skill training. Specifically, MedDiT integrates various
+patient Knowledge Graphs (KGs), which describe the attributes and symptoms of
+patients, to dynamically prompt Large Language Models' (LLMs) behavior and
+control the patient characteristics, mitigating hallucination during medical
+conversation. Additionally, a well-tuned Diffusion Transformer (DiT) model is
+incorporated to generate medical images according to the specified patient
+attributes in the KG. In this paper, we present the capabilities of MedDiT
+through a practical demonstration, showcasing its ability to act in diverse
+simulated patient cases and generate the corresponding medical images. This can
+provide an abundant and interactive learning experience for students, advancing
+medical education by offering an immersive simulation platform for future
+healthcare professionals. The work sheds light on the feasibility of
+incorporating advanced technologies like LLM, KG, and DiT in education
+applications, highlighting their potential to address the challenges faced in
+simulated patient-based medical education.
+
+摘要：醫學教育高度依賴模擬病人 (SP) 提供一個安全的環境，讓學生練習臨床技能，包括醫學影像分析。然而，招募合格 SP 的高成本和缺乏多樣的醫學影像資料集已造成顯著的挑戰。為了解決這些問題，本文介紹 MedDiT，一個新穎的知識控制對話架構，它可以動態產生符合模擬病人症狀的合理醫學影像，實現多樣的診斷技能訓練。具體來說，MedDiT 整合了各種病人知識圖譜 (KG)，描述病人的屬性和症狀，以動態提示大型語言模型 (LLM) 的行為，並控制病人特徵，減輕醫學對話中的幻覺。此外，還納入一個經過微調的擴散Transformer (DiT) 模型，根據 KG 中指定的病人屬性產生醫學影像。在本文中，我們透過實際示範展示 MedDiT 的功能，展示它在不同模擬病人案例中作用並產生相應醫學影像的能力。這可以為學生提供豐富且互動的學習體驗，透過提供身歷其境的模擬平台，提升醫學教育，造福未來的醫療保健專業人員。這項工作闡明了在教育應用中整合 LLM、KG 和 DiT 等先進技術的可行性，突顯它們在解決模擬病人為基礎的醫學教育所面臨挑戰的潛力。
+
+##### **Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**
+2408.12116v1 by Junlin He, Tong Nie, Wei Ma
+
+In the geospatial domain, universal representation models are significantly
+less prevalent than their extensive use in natural language processing and
+computer vision. This discrepancy arises primarily from the high costs
+associated with the input of existing representation models, which often
+require street views and mobility data. To address this, we develop a novel,
+training-free method that leverages large language models (LLMs) and auxiliary
+map data from OpenStreetMap to derive geolocation representations (LLMGeovec).
+LLMGeovec can represent the geographic semantics of city, country, and global
+scales, which acts as a generic enhancer for spatio-temporal learning.
+Specifically, by direct feature concatenation, we introduce a simple yet
+effective paradigm for enhancing multiple spatio-temporal tasks including
+geographic prediction (GP), long-term time series forecasting (LTSF), and
+graph-based spatio-temporal forecasting (GSTF). LLMGeovec can seamlessly
+integrate into a wide spectrum of spatio-temporal learning models, providing
+immediate enhancements. Experimental results demonstrate that LLMGeovec
+achieves global coverage and significantly boosts the performance of leading
+GP, LTSF, and GSTF models.
+
+摘要：在空間地理領域，通用表示模型顯著少於它們在自然語言處理和電腦視覺中的廣泛使用。這種差異主要源於現有表示模型的輸入成本高，這通常需要街景和流動性資料。為了解決這個問題，我們開發一種新穎的免訓練方法，利用大型語言模型 (LLM) 和 OpenStreetMap 的輔助地圖資料來推導地理位置表示 (LLMGeovec)。LLMGeovec 可以表示城市、國家和全球規模的地理語義，作為時空學習的通用增強器。具體來說，通過直接特徵串接，我們引入了一個簡單但有效的範例，用於增強多個時空任務，包括地理預測 (GP)、長期時間序列預測 (LTSF) 和基於圖形的時空預測 (GSTF)。LLMGeovec 可以無縫整合到廣泛的時空學習模型中，提供立即的增強。實驗結果表明，LLMGeovec 達到了全球覆蓋率，並顯著提升了領先的 GP、LTSF 和 GSTF 模型的效能。
+
 ##### **Enabling Small Models for Zero-Shot Classification through Model Label Learning**
 2408.11449v1 by Jia Zhang, Zhi Zhou, Lan-Zhe Guo, Yu-Feng Li
 
@@ -2366,126 +2495,4 @@ We are the first to discuss the learning bias issues in the GNN explanation
 problem.
 
 摘要：近期研究試圖透過多種非監督式學習模型來提供圖神經網路 (GNN) 的可解釋性。由於資料集的稀少，目前的演算法容易受到學習偏差的影響。為了解決這個問題，我們將大型語言模型 (LLM) 作為知識嵌入到 GNN 解釋網路中，以避免學習偏差的問題。我們將 LLM 作為貝氏推論 (BI) 模組注入，以減輕學習偏差。BI 模組的效能已在理論上和實驗上得到證實。我們在合成和真實世界資料集上進行實驗。我們工作的創新之處在於兩部分：1. 我們提供 LLM 作為貝氏推論以改善現有演算法效能的可能性之新觀點；2. 我們率先討論 GNN 解釋問題中的學習偏差問題。
-
-##### **Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**
-2407.15141v1 by Yu Zhang, Ruijie Yu, Kaipeng Zeng, Ding Li, Feng Zhu, Xiaokang Yang, Yaohui Jin, Yanyan Xu
-
-High-throughput reaction condition (RC) screening is fundamental to chemical
-synthesis. However, current RC screening suffers from laborious and costly
-trial-and-error workflows. Traditional computer-aided synthesis planning (CASP)
-tools fail to find suitable RCs due to data sparsity and inadequate reaction
-representations. Nowadays, large language models (LLMs) are capable of tackling
-chemistry-related problems, such as molecule design, and chemical logic Q\&A
-tasks. However, LLMs have not yet achieved accurate predictions of chemical
-reaction conditions. Here, we present MM-RCR, a text-augmented multimodal LLM
-that learns a unified reaction representation from SMILES, reaction graphs, and
-textual corpus for chemical reaction recommendation (RCR). To train MM-RCR, we
-construct 1.2 million pair-wised Q\&A instruction datasets. Our experimental
-results demonstrate that MM-RCR achieves state-of-the-art performance on two
-open benchmark datasets and exhibits strong generalization capabilities on
-out-of-domain (OOD) and High-Throughput Experimentation (HTE) datasets. MM-RCR
-has the potential to accelerate high-throughput condition screening in chemical
-synthesis.
-
-摘要：高通量反應條件 (RC) 篩選是化學合成中的基礎。然而，當前的 RC 篩選會遇到繁瑣且昂貴的試錯工作流程。傳統的電腦輔助合成規劃 (CASP) 工具無法找到合適的 RC，這是因為資料稀疏且反應表示不足。如今，大型語言模型 (LLM) 能夠解決與化學相關的問題，例如分子設計和化學邏輯問答任務。然而，LLM 尚未達成化學反應條件的準確預測。在此，我們提出 MM-RCR，一個文本增強的多模態 LLM，它從 SMILES、反應圖和文本語料庫學習統一的反應表示，以進行化學反應推薦 (RCR)。為了訓練 MM-RCR，我們建構了 120 萬對配對的問答指令資料集。我們的實驗結果證明，MM-RCR 在兩個開放基準資料集上達到了最先進的效能，並在領域外 (OOD) 和高通量實驗 (HTE) 資料集上展現出強大的概化能力。MM-RCR 有可能加速化學合成中的高通量條件篩選。
-
-##### **On the Design and Analysis of LLM-Based Algorithms**
-2407.14788v1 by Yanxi Chen, Yaliang Li, Bolin Ding, Jingren Zhou
-
-We initiate a formal investigation into the design and analysis of LLM-based
-algorithms, i.e. algorithms that contain one or multiple calls of large
-language models (LLMs) as sub-routines and critically rely on the capabilities
-of LLMs. While LLM-based algorithms, ranging from basic LLM calls with prompt
-engineering to complicated LLM-powered agent systems and compound AI systems,
-have achieved remarkable empirical success, the design and optimization of them
-have mostly relied on heuristics and trial-and-errors, which is largely due to
-a lack of formal and analytical study for these algorithms. To fill this gap,
-we start by identifying the computational-graph representation of LLM-based
-algorithms, the design principle of task decomposition, and some key
-abstractions, which then facilitate our formal analysis for the accuracy and
-efficiency of LLM-based algorithms, despite the black-box nature of LLMs. We
-further consider parallel decomposition for a case study, providing extensive
-analytical and empirical study for four concrete examples of this pattern. Our
-proposed framework holds promise for advancing LLM-based algorithms, by
-revealing the reasons behind curious empirical phenomena, guiding the choices
-of hyperparameters, predicting the empirical performance of algorithms, and
-inspiring new algorithm design. To promote further study of LLM-based
-algorithms, we release our source code at
-https://github.com/modelscope/agentscope/tree/main/examples/paper_llm_based_algorithm.
-
-摘要：<paragraph>我們對基於 LLM 的演算法的設計和分析展開正式調查，即包含一個或多個大型語言模型 (LLM) 作為子常式呼叫的演算法，並極度依賴 LLM 的功能。儘管基於 LLM 的演算法，從帶提示工程的基本 LLM 呼叫到複雜的 LLM 驅動的代理系統和複合式 AI 系統，已取得顯著的實證成功，但其設計和最佳化大多依賴試驗法和錯誤，這在很大程度上是因為缺乏對這些演算法的正式和分析研究。為了填補這個空白，我們從識別基於 LLM 的演算法的計算圖表示、任務分解的設計原則，以及一些關鍵抽象化開始，然後促進我們對基於 LLM 的演算法的準確性和效率進行正式分析，儘管 LLM 本身具有黑盒特性。我們進一步考慮並行分解作為案例研究，為此模式的四個具體範例提供廣泛的分析和實證研究。我們提出的架構有望推進基於 LLM 的演算法，方法是揭示奇怪的實證現象背後的原因、指導超參數的選擇、預測演算法的實證效能，並激發新的演算法設計。為了促進對基於 LLM 的演算法的進一步研究，我們在 https://github.com/modelscope/agentscope/tree/main/examples/paper_llm_based_algorithm/ 發布我們的原始碼。</paragraph>
-
-##### **LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits**
-2407.18269v1 by Chen-Chia Chang, Yikang Shan, Shaoze Fan, Jing Li, Shun Zhang, Ningyuan Cao, Yiran Chen, Xin Zhang
-
-In the realm of electronic and electrical engineering, automation of analog
-circuit is increasingly vital given the complexity and customized requirements
-of modern applications. However, existing methods only develop search-based
-algorithms that require many simulation iterations to design a custom circuit
-topology, which is usually a time-consuming process. To this end, we introduce
-LaMAGIC, a pioneering language model-based topology generation model that
-leverages supervised finetuning for automated analog circuit design. LaMAGIC
-can efficiently generate an optimized circuit design from the custom
-specification in a single pass. Our approach involves a meticulous development
-and analysis of various input and output formulations for circuit. These
-formulations can ensure canonical representations of circuits and align with
-the autoregressive nature of LMs to effectively addressing the challenges of
-representing analog circuits as graphs. The experimental results show that
-LaMAGIC achieves a success rate of up to 96\% under a strict tolerance of 0.01.
-We also examine the scalability and adaptability of LaMAGIC, specifically
-testing its performance on more complex circuits. Our findings reveal the
-enhanced effectiveness of our adjacency matrix-based circuit formulation with
-floating-point input, suggesting its suitability for handling intricate circuit
-designs. This research not only demonstrates the potential of language models
-in graph generation, but also builds a foundational framework for future
-explorations in automated analog circuit design.
-
-摘要：在電子和電氣工程領域中，自動化類比電路越來越重要，因為現代應用程式具有複雜且客製化的需求。然而，現有的方法僅開發基於搜尋的演算法，需要許多模擬反覆運算才能設計客製化電路拓撲，這通常是一個耗時的過程。為此，我們引入了 LaMAGIC，一個基於先驅語言模型的拓撲生成模型，它利用監督微調進行自動化類比電路設計。LaMAGIC 可以有效率地從客製化規格中生成最佳化的電路設計，只需一次通過。我們的做法包括仔細開發和分析電路的各種輸入和輸出公式。這些公式可以確保電路的標準表示，並與 LM 的自迴歸性質保持一致，以有效解決將類比電路表示為圖形的挑戰。實驗結果顯示，LaMAGIC 在 0.01 的嚴格容差下實現了高達 96% 的成功率。我們還檢查了 LaMAGIC 的可擴充性和適應性，特別是測試了它在更複雜電路上的效能。我們的研究結果揭示了我們基於鄰接矩陣的電路公式與浮點輸入的增強效能，表明它適用於處理複雜的電路設計。這項研究不僅展示了語言模型在圖形生成中的潛力，也為未來在自動化類比電路設計中的探索建立了基礎框架。
-
-##### **Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**
-2407.14224v1 by Suvajit Patra, Arkadip Maitra, Megha Tiwari, K. Kumaran, Swathy Prabhu, Swami Punyeshwarananda, Soumitra Samanta
-
-Automatic Sign Language (SL) recognition is an important task in the computer
-vision community. To build a robust SL recognition system, we need a
-considerable amount of data which is lacking particularly in Indian sign
-language (ISL). In this paper, we propose a large-scale isolated ISL dataset
-and a novel SL recognition model based on skeleton graph structure. The dataset
-covers 2,002 daily used common words in the deaf community recorded by 20 (10
-male and 10 female) deaf adult signers (contains 40033 videos). We propose a SL
-recognition model namely Hierarchical Windowed Graph Attention Network (HWGAT)
-by utilizing the human upper body skeleton graph structure. The HWGAT tries to
-capture distinctive motions by giving attention to different body parts induced
-by the human skeleton graph structure. The utility of the proposed dataset and
-the usefulness of our model are evaluated through extensive experiments. We
-pre-trained the proposed model on the proposed dataset and fine-tuned it across
-different sign language datasets further boosting the performance of 1.10,
-0.46, 0.78, and 6.84 percentage points on INCLUDE, LSA64, AUTSL and WLASL
-respectively compared to the existing state-of-the-art skeleton-based models.
-
-摘要：自動手語 (SL) 識別是電腦視覺社群中的重要任務。要建立強健的 SL 識別系統，我們需要大量的資料，而這在印度手語 (ISL) 中特別缺乏。在本文中，我們提出一個大規模的孤立 ISL 資料集，以及一個基於骨架圖結構的新型 SL 識別模型。該資料集涵蓋 2,002 個聾啞社群中常用的日常單字，由 20 位 (10 男 10 女) 聾啞成人手語者錄製（包含 40033 部影片）。我們提出一個 SL 識別模型，即分層視窗圖注意力網路 (HWGAT)，利用人體上半身骨架圖結構。HWGAT 嘗試透過關注由人體骨架圖結構誘導的不同身體部位來捕捉獨特的動作。透過廣泛的實驗評估所提出的資料集的效用和我們模型的有用性。我們在所提出的資料集上預訓練所提出的模型，並在不同的手語資料集上微調它，進一步提升了 INCLUDE、LSA64、AUTSL 和 WLASL 上 1.10、0.46、0.78 和 6.84 個百分點的效能，分別與現有的最先進的基於骨架的模型相比。
-
-##### **Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**
-2407.13989v1 by Quan Li, Tianxiang Zhao, Lingwei Chen, Junjie Xu, Suhang Wang
-
-Graphs have emerged as critical data structures for content analysis in
-various domains, such as social network analysis, bioinformatics, and
-recommendation systems. Node classification, a fundamental task in this
-context, is typically tackled using graph neural networks (GNNs).
-Unfortunately, conventional GNNs still face challenges in scenarios with few
-labeled nodes, despite the prevalence of few-shot node classification tasks in
-real-world applications. To address this challenge, various approaches have
-been proposed, including graph meta-learning, transfer learning, and methods
-based on Large Language Models (LLMs). However, traditional meta-learning and
-transfer learning methods often require prior knowledge from base classes or
-fail to exploit the potential advantages of unlabeled nodes. Meanwhile,
-LLM-based methods may overlook the zero-shot capabilities of LLMs and rely
-heavily on the quality of generated contexts. In this paper, we propose a novel
-approach that integrates LLMs and GNNs, leveraging the zero-shot inference and
-reasoning capabilities of LLMs and employing a Graph-LLM-based active learning
-paradigm to enhance GNNs' performance. Extensive experiments demonstrate the
-effectiveness of our model in improving node classification accuracy with
-considerably limited labeled data, surpassing state-of-the-art baselines by
-significant margins.
-
-摘要：圖表已成為各種領域中內容分析的關鍵數據結構，例如社交網路分析、生物資訊學和推薦系統。節點分類是此脈絡中的基本任務，通常使用圖形神經網路 (GNN) 來處理。不幸的是，儘管現實世界應用中普遍存在少樣本節點分類任務，但傳統的 GNN 在標記節點很少的情況下仍面臨挑戰。為了應對這一挑戰，已提出各種方法，包括圖形元學習、遷移學習和基於大型語言模型 (LLM) 的方法。然而，傳統的元學習和遷移學習方法通常需要來自基礎類別的先驗知識，或者無法利用未標記節點的潛在優勢。同時，基於 LLM 的方法可能會忽視 LLM 的零樣本能力，並且過度依賴生成語境的品質。在本文中，我們提出了一種新的方法，它整合了 LLM 和 GNN，利用 LLM 的零樣本推論和推理能力，並採用基於 Graph-LLM 的主動學習範例來增強 GNN 的效能。廣泛的實驗證明了我們的模型在改進節點分類準確度方面的有效性，標記數據相當有限，顯著超越了最先進的基準。
 

@@ -20,7 +20,7 @@
 |**2024-08-22**|**The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design**|Artem Snegirev et.al.|[2408.12503v1](http://arxiv.org/abs/2408.12503v1)|null|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496v1](http://arxiv.org/abs/2408.12496v1)|null|
 |**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494v1](http://arxiv.org/abs/2408.12494v1)|[link](https://github.com/kstanghere/gendercare-ccs24)|
-|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480v1](http://arxiv.org/abs/2408.12480v1)|null|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480v2](http://arxiv.org/abs/2408.12480v2)|null|
 |**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476v1](http://arxiv.org/abs/2408.12476v1)|null|
 |**2024-08-22**|**WCEbleedGen: A wireless capsule endoscopy dataset and its benchmarking for automatic bleeding classification, detection, and segmentation**|Palak Handa et.al.|[2408.12466v1](http://arxiv.org/abs/2408.12466v1)|[link](https://github.com/misahub2023/benchmarking-codes-of-the-wcebleedgen-dataset)|
 |**2024-08-22**|**Enhancing Multi-hop Reasoning through Knowledge Erasure in Large Language Model Editing**|Mengqi Zhang et.al.|[2408.12456v1](http://arxiv.org/abs/2408.12456v1)|null|
@@ -35,7 +35,7 @@
 |**2024-08-22**|**Multi-Style Facial Sketch Synthesis through Masked Generative Modeling**|Bowen Sun et.al.|[2408.12400v1](http://arxiv.org/abs/2408.12400v1)|null|
 |**2024-08-22**|**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**|Weijia Zhang et.al.|[2408.12398v1](http://arxiv.org/abs/2408.12398v1)|null|
 |**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
-|**2024-08-22**|**RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering**|Pratyush Kumar et.al.|[2408.12369v1](http://arxiv.org/abs/2408.12369v1)|null|
+|**2024-08-22**|**RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering**|Pratyush Kumar et.al.|[2408.12369v2](http://arxiv.org/abs/2408.12369v2)|null|
 |**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
 |**2024-08-22**|**CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset**|Mashael Al-Duwais et.al.|[2408.12362v1](http://arxiv.org/abs/2408.12362v1)|null|
 |**2024-08-22**|**Fine-tuning Smaller Language Models for Question Answering over Financial Documents**|Karmvir Singh Phogat et.al.|[2408.12337v1](http://arxiv.org/abs/2408.12337v1)|null|
@@ -54,12 +54,12 @@
 |**2024-08-22**|**A Language-agnostic Model of Child Language Acquisition**|Louis Mahon et.al.|[2408.12254v1](http://arxiv.org/abs/2408.12254v1)|null|
 |**2024-08-22**|**Can Artificial Intelligence Embody Moral Values?**|Torben Swoboda et.al.|[2408.12250v1](http://arxiv.org/abs/2408.12250v1)|null|
 |**2024-08-22**|**LLMs are not Zero-Shot Reasoners for Biomedical Information Extraction**|Aishik Nagar et.al.|[2408.12249v1](http://arxiv.org/abs/2408.12249v1)|null|
-|**2024-08-22**|**Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**|Shenglin Zhang et.al.|[2408.12247v1](http://arxiv.org/abs/2408.12247v1)|[link](https://github.com/zero-pointer/self-evolution)|
+|**2024-08-22**|**Enhanced Fine-Tuning of Lightweight Domain-Specific Q&A Model Based on Large Language Models**|Shenglin Zhang et.al.|[2408.12247v2](http://arxiv.org/abs/2408.12247v2)|[link](https://github.com/zero-pointer/self-evolution)|
 |**2024-08-22**|**Weight Scope Alignment: A Frustratingly Easy Method for Model Merging**|Yichu Xu et.al.|[2408.12237v1](http://arxiv.org/abs/2408.12237v1)|null|
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
 |**2024-08-22**|**EvalYaks: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts**|Nicy Scaria et.al.|[2408.12226v1](http://arxiv.org/abs/2408.12226v1)|[link](https://github.com/talking-yak/evalyaks)|
 |**2024-08-22**|**UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model**|Xia Jiang et.al.|[2408.12214v1](http://arxiv.org/abs/2408.12214v1)|null|
-|**2024-08-22**|**Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment**|Kun Luo et.al.|[2408.12194v1](http://arxiv.org/abs/2408.12194v1)|null|
+|**2024-08-22**|**Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment**|Kun Luo et.al.|[2408.12194v2](http://arxiv.org/abs/2408.12194v2)|null|
 |**2024-08-22**|**Reasoning Factual Knowledge in Structured Data with Large Language Models**|Sirui Huang et.al.|[2408.12188v1](http://arxiv.org/abs/2408.12188v1)|[link](https://github.com/egangu/structfact)|
 |**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187v1](http://arxiv.org/abs/2408.12187v1)|null|
 |**2024-08-22**|**Rank and Align: Towards Effective Source-free Graph Domain Adaptation**|Junyu Luo et.al.|[2408.12185v1](http://arxiv.org/abs/2408.12185v1)|null|
@@ -568,7 +568,7 @@ are available at https://github.com/kstanghere/GenderCARE-ccs24.
 摘要：大型語言模型 (LLM) 在自然語言生成方面表現出非凡的能力，但它們也被觀察到會放大社會偏見，特別是與性別相關的偏見。為了回應這個問題，已經提出了幾個基準來評估 LLM 中的性別偏見。然而，這些基準通常缺乏實用的靈活性，或者會無意中引入偏見。為了解決這些缺點，我們引入了 GenderCARE，一個全面的框架，其中包含創新的標準、偏見評估、減少技術和評估指標，用於量化和減輕 LLM 中的性別偏見。首先，我們為性別平等基準制定了開創性的標準，涵蓋包容性、多樣性、可解釋性、客觀性、穩健性和現實性等面向。在這些標準的指導下，我們構建了 GenderPair，一個新穎的基於配對的基準，旨在全面評估 LLM 中的性別偏見。我們的基準提供了標準化和現實的評估，包括以前被忽視的性別群體，例如跨性別者和非二元性別者。此外，我們開發了有效的去偏技術，結合了反事實數據擴充和專門的微調策略，以減少 LLM 中的性別偏見，同時不損害其整體性能。大量的實驗證明了各種性別偏見基準的顯著減少，減少幅度最高超過 90%，在 17 個不同的 LLM 中平均降低了 35% 以上。重要的是，這些減少伴隨著主流語言任務的最小變異性，保持在 2% 以下。通過提供對性別偏見的現實評估和量身定制的減少，我們希望我們的 GenderCARE 能代表著邁向在 LLM 中實現公平和正義的重要一步。更多詳情可在 https://github.com/kstanghere/GenderCARE-ccs24 找到。
 
 ##### **Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**
-2408.12480v1 by Khang T. Doan, Bao G. Huynh, Dung T. Hoang, Thuc D. Pham, Nhat H. Pham, Quan T. M. Nguyen, Bang Q. Vo, Suong N. Hoang
+2408.12480v2 by Khang T. Doan, Bao G. Huynh, Dung T. Hoang, Thuc D. Pham, Nhat H. Pham, Quan T. M. Nguyen, Bang Q. Vo, Suong N. Hoang
 
 In this report, we introduce Vintern-1B, a reliable 1-billion-parameters
 multimodal large language model (MLLM) for Vietnamese language tasks. By
@@ -584,7 +584,7 @@ we have open-sourced several Vietnamese vision question answering (VQA)
 datasets for text and diagrams, created with Gemini 1.5 Flash. Our models are
 available at: https://huggingface.co/5CD-AI/Vintern-1B-v2.
 
-摘要：在本文中，我們介紹 Vintern-1B，一個可靠的 10 億參數多模態大型語言模型 (MLLM)，適用於越南語任務。透過將 Qwen2-0.5B-Instruct 語言模型與 InternViT-300M-448px 視覺模型整合，Vintern-1B 針對各種應用進行了最佳化，包括光學字元辨識 (OCR)、文件萃取，以及越南語脈絡中的一般問答。該模型以超過 300 萬個影像-問題-答案配對的廣泛資料集進行微調，在 OpenViVQA 和 ViTextVQA 等多個越南語語言基準測試中達到穩健的效能和可靠的結果。Vintern-1B 夠小，可以輕鬆地融入各種裝置應用程式中。此外，我們還開放了幾個使用 Gemini 1.5 Flash 建立的越南語視覺問答 (VQA) 資料集，包括文字和圖表。我們的模型可在以下網址取得：https://huggingface.co/5CD-AI/Vintern-1B-v2。
+摘要：在本文中，我們介紹 Vintern-1B，這是一個可靠的 10 億參數多模態大型語言模型 (MLLM)，適用於越南語任務。透過將 Qwen2-0.5B-Instruct 語言模型與 InternViT-300M-448px 視覺模型整合，Vintern-1B 經過最佳化，可應用於各種應用程式，包括光學字元辨識 (OCR)、文件擷取和越南語脈絡中的一般性問答。此模型針對超過 300 萬個圖像-問題-答案配對的廣泛資料集進行微調，在 OpenViVQA 和 ViTextVQA 等多個越南語語言基準測試中，皆能達成穩健的效能和可靠的結果。Vintern-1B 的體積小，可輕鬆放入各種裝置應用程式中。此外，我們已開放原始碼，提供多個由 Gemini 1.5 Flash 建立的越南語視覺問答 (VQA) 資料集，包括文字和圖表。我們的模型可於下列網址取得：https://huggingface.co/5CD-AI/Vintern-1B-v2。
 
 ##### **Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**
 2408.12476v1 by Arjun Shah, Varun Viswanath, Kashish Gandhi, Dr. Nilesh Madhukar Patil
@@ -956,7 +956,7 @@ responses.
 摘要：<paragraph>轉錄組基礎模型 TFM 承諾解碼轉錄組語言，它透過在大型單細胞基因表現資料上進行自我監督學習，來決定不同的細胞功能，並最終解開人類疾病的複雜機制。然而，目前的 TFM 將細胞視為獨立樣本，並忽略細胞類型之間的分類關係，而這在細胞本體論圖表中是可用的。我們認為在 TFM 預訓練期間有效利用此本體論資訊，可以改善學習生物學上有意義的基因共表現模式，同時保留 TFM 作為下游零次學習和微調任務的一般用途基礎模型。為此，我們提出單細胞、細胞本體論引導的 TFM scCello。我們引入細胞類型一致性損失和本體論對齊損失，在預訓練期間會將其與遮罩基因表現預測損失一起最小化。這個新穎的損失組件引導 scCello 分別從細胞本體論圖表中學習細胞類型特定表示和細胞類型之間的結構關係。我們在 CellxGene 資料庫中對 2200 萬個細胞進行 scCello 預訓練，利用其細胞類型標籤對應到開放生物和生物醫學本體鑄造廠的細胞本體論圖表。我們的 TFM 在生物學上重要的任務上展示了比現有 TFM 更具競爭力的泛化和可轉移性，包括識別未見細胞的新細胞類型、預測細胞類型特定標記基因和癌症藥物反應。</paragraph>
 
 ##### **RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering**
-2408.12369v1 by Pratyush Kumar, Kuber Vijaykumar Bellad, Bharat Vadlamudi, Aman Chadha
+2408.12369v2 by Pratyush Kumar, Kuber Vijaykumar Bellad, Bharat Vadlamudi, Aman Chadha
 
 With advancements in Large Language Models (LLMs), a major use case that has
 emerged is querying databases in plain English, translating user questions into
@@ -975,7 +975,7 @@ offering a sophisticated solution to the limitations faced by current table
 querying capabilities. This work is accompanied by an application for both Mac
 and Windows platforms, which readers can try out themselves on their own data.
 
-摘要：隨著大型語言模型 (LLM) 的進步，一個主要的使用案例已經浮現，那就是以英語查詢資料庫，將使用者的問題轉換為可執行的資料庫查詢，這已經有了顯著的進步。然而，真實世界的資料集通常具有大量的屬性和複雜的值，這讓 LLM 難以準確地從自然語言查詢中識別出相關的欄位或值。傳統的方法無法完全向 LLM 傳達資料集的大小和複雜性。為了應對這些挑戰，我們提出了一個新穎的框架，它在輸入表上利用全文搜尋 (FTS)。這種方法不僅能夠精確地偵測特定值和欄位，還能縮小語言模型的搜尋空間，從而提高查詢的準確性。此外，它還支援自訂的自動完成功能，根據表中的資料建議查詢。這種整合顯著地改進了使用者與複雜資料集之間的互動，為目前表格查詢能力所面臨的限制提供了巧妙的解決方案。這項工作附帶了一個適用於 Mac 和 Windows 平台的應用程式，讀者可以自行在自己的資料上試用。
+摘要：隨著大型語言模型 (LLM) 的進步，一個主要的使用案例已經浮現，即使用簡單的英語查詢資料庫，將使用者問題轉換為可執行的資料庫查詢，這方面已經有了顯著的進步。然而，真實世界的資料集通常具有大量的屬性和複雜的值，這使得 LLM 難以從自然語言查詢中準確地識別相關的欄位或值。傳統的方法無法完全將資料集的大小和複雜性傳達給 LLM。為了應對這些挑戰，我們提出了一個新穎的架構，它利用輸入表格上的全文搜尋 (FTS)。這種方法不僅能夠精確地檢測特定值和欄位，還能縮小語言模型的搜尋空間，從而提高查詢的準確度。此外，它還支援一個自訂的自動完成功能，該功能會根據表格中的資料提出查詢建議。這種整合顯著地改善了使用者與複雜資料集之間的互動，為當前表格查詢功能所面臨的限制提供了精密的解決方案。這項工作附帶了一個適用於 Mac 和 Windows 平台的應用程式，讀者可以在自己的資料上親自試用。
 
 ##### **SAM-SP: Self-Prompting Makes SAM Great Again**
 2408.12364v1 by Chunpeng Zhou, Kangjie Ning, Qianqian Shen, Sheng Zhou, Zhi Yu, Haishuai Wang
@@ -1388,8 +1388,8 @@ real-world biomedical applications.
 
 摘要：大型語言模型 (LLM) 愈來愈多用於醫療保健應用，在回答問題和文件摘要等任務上達到領域專家的表現。儘管這些任務獲得成功，但尚不清楚 LLM 在生物醫學領域傳統上執行的任務，例如結構化資訊萃取，表現如何。為了彌補這個差距，我們在這篇論文中系統性地評量 LLM 在醫學分類和命名實體辨識 (NER) 任務中的表現。我們的目標是釐清不同因素對表現的貢獻，特別是 LLM 的任務知識和推理能力、它們的（參數）領域知識，以及外部知識的加入。為此，我們評估各種開放的 LLM（包括 BioMistral 和 Llama-2 模型），使用標準提示、基於思考鏈 (CoT) 和自洽性的推理以及使用 PubMed 和維基百科語料庫的檢索增強生成 (RAG) 在多樣化的生物醫學資料集上。與直覺相反，我們的結果顯示標準提示在兩項任務中始終優於更複雜的技術，揭露了在生物醫學領域中 CoT、自洽性和 RAG 的當前應用中的限制。我們的發現表明，為知識或推理密集型任務（例如 CoT 或 RAG）開發的高階提示方法不容易移植到需要精確結構化輸出的生物醫學任務。這突顯出需要更有效地整合外部知識和推理機制到 LLM 中，以增強它們在實際生物醫學應用中的表現。
 
-##### **Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**
-2408.12247v1 by Shenglin Zhang, Pengtian Zhu, Minghua Ma, Jiagang Wang, Yongqian Sun, Dongwen Li, Jingyu Wang, Qianying Guo, Xiaolei Hua, Lin Zhu, Dan Pei
+##### **Enhanced Fine-Tuning of Lightweight Domain-Specific Q&A Model Based on Large Language Models**
+2408.12247v2 by Shenglin Zhang, Pengtian Zhu, Minghua Ma, Jiagang Wang, Yongqian Sun, Dongwen Li, Jingyu Wang, Qianying Guo, Xiaolei Hua, Lin Zhu, Dan Pei
 
 Large language models (LLMs) excel at general question-answering (Q&A) but
 often fall short in specialized domains due to a lack of domain-specific
@@ -1409,7 +1409,7 @@ fixing problems, and finding related reports, with an average efficiency
 improvement of over 18.6%. In addition, we release Self-Evolution framework
 code in https://github.com/Zero-Pointer/Self-Evolution.
 
-摘要：大型語言模型（LLM）擅長一般性的問答（Q&A），但由於缺乏特定領域的知識，在專業領域中常常表現不佳。商業公司在使用 LLM 進行微調時，面臨隱私保護和資源限制的雙重挑戰。本文提出了一個創新的框架，稱為自進化，旨在通過多輪反覆微調來利用輕量級的開源 LLM 來解決這些問題。為了提高反覆微調的效率，自進化採用了一種策略，在反覆的過程中過濾和強化具有更高價值的知識。我們在 Qwen1.5-7B-Chat 上採用了自進化，使用了 4,000 份包含來自中國移動豐富領域知識的文件，在特定領域的問答評估中，其性能得分比 Qwen1.5-7B-Chat 高出 174%，甚至比 Qwen1.5-72B-Chat 高出 22%。自進化已部署在中國移動的日常運營和維護中 117 天，它提高了定位告警、修復問題和查找相關報告的效率，平均效率提高了 18.6%。此外，我們在 https://github.com/Zero-Pointer/Self-Evolution 中發布了自進化框架代碼。
+摘要：大型語言模型 (LLM) 在一般問答 (Q&A) 方面表現出色，但由於缺乏特定領域的知識，因此在專業領域中經常表現不佳。商業公司在使用 LLM 進行微調時面臨隱私保護和資源限制的雙重挑戰。本文提出了一個新穎的框架，稱為自演化，旨在通過多輪反覆微調利用輕量級開源 LLM 來解決這些問題。為了提高反覆微調的效率，自演化採用了一種策略，在反覆的過程中過濾和強化具有較高價值的知識。我們使用來自中國移動的包含豐富領域知識的 4,000 份文件，在 Qwen1.5-7B-Chat 上採用了自演化，在特定領域的問答評估中，其性能得分比 Qwen1.5-7B-Chat 高出 174%，甚至比 Qwen1.5-72B-Chat 高出 22%。自演化已在中國移動的日常運營和維護中部署了 117 天，它提高了定位警報、解決問題和查找相關報告的效率，平均效率提高了 18.6%。此外，我們在 https://github.com/Zero-Pointer/Self-Evolution 中釋出自演化框架程式碼。
 
 ##### **Weight Scope Alignment: A Frustratingly Easy Method for Model Merging**
 2408.12237v1 by Yichu Xu, Xin-Chun Li, Le Gan, De-Chuan Zhan
@@ -1515,7 +1515,7 @@ tasks and few-shot generalization based on LLM to inspire future work.
 摘要：<paragraph>最近，将神经网络应用于解决组合优化问题（COP）引起了相当大的研究关注。现行的做法是针对特定问题独立训练深度模型，缺乏用于同时解决各种 COP 的统一框架。为此，我们提出了一个统一的神经组合优化（UNCO）框架，通过单个模型解决不同类型的 COP。具体来说，我们使用自然语言为不同的 COP 制定文本属性实例，并通过大型语言模型（LLM）将它们编码在相同的嵌入空间中。获得的嵌入通过一个编码器-解码器模型进一步提升，没有任何特定于问题的模块，从而促进了解决方案构建的统一过程。我们进一步采用冲突梯度擦除强化学习（CGERL）算法来训练 UNCO 模型，在不同的 COP 中提供比香草多目标学习更好的性能。实验表明，UNCO 模型可以在单次训练后解决多个 COP，并且取得了令人满意的性能，与几个传统的或基于学习的基线相当。我们没有追求每个 COP 的最佳性能，而是探索任务之间的协同作用和基于 LLM 的小样本泛化，以激发未来的工作。</paragraph>
 
 ##### **Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment**
-2408.12194v1 by Kun Luo, Minghao Qin, Zheng Liu, Shitao Xiao, Jun Zhao, Kang Liu
+2408.12194v2 by Kun Luo, Minghao Qin, Zheng Liu, Shitao Xiao, Jun Zhao, Kang Liu
 
 Pretrained language models like BERT and T5 serve as crucial backbone
 encoders for dense retrieval. However, these models often exhibit limited
@@ -1536,7 +1536,7 @@ retrieval, and multi task learning. These results underscore the advantages of
 LLMs as versatile and effective backbone encoders in dense retrieval, providing
 valuable insights for future research and development in this field.
 
-摘要：預訓練的語言模型，例如 BERT 和 T5，用作密集檢索的關鍵骨幹編碼器。然而，這些模型通常表現出有限的概括能力，並且在提高領域準確性方面面臨挑戰。最近的研究探索使用大型語言模型 (LLM) 作為檢索器，在各種任務中實現了 SOTA 效能。儘管有這些進展，LLM 相較於傳統檢索器的具體優點以及不同 LLM 組態（例如參數大小、預訓練持續時間和對齊程序）對檢索任務的影響仍不清楚。在這項工作中，我們對廣泛的檢索任務進行了全面的實證研究，包括領域準確性、資料效率、零次概括、長篇檢索、基於指令的檢索和多任務學習。我們評估了 15 個不同的骨幹 LLM 和非 LLM。我們的研究結果表明，較大的模型和廣泛的預訓練持續增強領域準確性和資料效率。此外，較大的模型在零次概括、長篇檢索、基於指令的檢索和多任務學習中展現了顯著的潛力。這些結果強調了 LLM 作為密集檢索中多功能且有效的骨幹編碼器的優點，為該領域未來的研究和開發提供了寶貴的見解。
+摘要：預訓練語言模型，例如 BERT 和 T5，作為密集檢索的重要骨幹編碼器。然而，這些模型通常表現出有限的概化能力，並且面臨在領域準確性方面改進的挑戰。最近的研究探索使用大型語言模型 (LLM) 作為檢索器，在各種任務中實現 SOTA 效能。儘管有這些進展，LLM 相較於傳統檢索器的具體優點以及不同 LLM 組態（例如參數大小、預訓練持續時間和比對程序）對檢索任務的影響仍不清楚。在這項工作中，我們對廣泛的檢索任務進行全面的實證研究，包括領域準確性、資料效率、零次概化、冗長檢索、基於指令的檢索和多任務學習。我們評估超過 15 種不同的骨幹 LLM 和非 LLM。我們的研究結果表明，較大的模型和廣泛的預訓練持續增強領域準確性和資料效率。此外，較大的模型在零次概化、冗長檢索、基於指令的檢索和多任務學習中展現顯著的潛力。這些結果強調了 LLM 作為密集檢索中多功能且有效的骨幹編碼器的優勢，為此領域未來的研究和發展提供了寶貴的見解。
 
 ##### **Reasoning Factual Knowledge in Structured Data with Large Language Models**
 2408.12188v1 by Sirui Huang, Yanggan Gu, Xuming Hu, Zhonghao Li, Qing Li, Guandong Xu

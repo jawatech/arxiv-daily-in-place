@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217v1](http://arxiv.org/abs/2408.13217v1)|null|
+|**2024-08-23**|**Causal machine learning for sustainable agroecosystems**|Vasileios Sitokonstantinou et.al.|[2408.13155v1](http://arxiv.org/abs/2408.13155v1)|null|
+|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880v1](http://arxiv.org/abs/2408.12880v1)|null|
+|**2024-08-23**|**COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**|Mohsen Asghari Ilani et.al.|[2408.12841v1](http://arxiv.org/abs/2408.12841v1)|null|
+|**2024-08-23**|**Exploring Machine Learning Models for Lung Cancer Level Classification: A comparative ML Approach**|Mohsen Asghari Ilani et.al.|[2408.12838v1](http://arxiv.org/abs/2408.12838v1)|null|
+|**2024-08-22**|**MultiMed: Massively Multimodal and Multitask Medical Understanding**|Shentong Mo et.al.|[2408.12682v1](http://arxiv.org/abs/2408.12682v1)|null|
 |**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579v1](http://arxiv.org/abs/2408.12579v1)|null|
 |**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534v1](http://arxiv.org/abs/2408.12534v1)|null|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496v1](http://arxiv.org/abs/2408.12496v1)|null|
@@ -54,6 +60,7 @@
 |**2024-08-16**|**Beyond the Hype: A dispassionate look at vision-language models in medical scenario**|Yang Nan et.al.|[2408.08704v1](http://arxiv.org/abs/2408.08704v1)|null|
 |**2024-08-16**|**TextCAVs: Debugging vision models using text**|Angus Nicolson et.al.|[2408.08652v1](http://arxiv.org/abs/2408.08652v1)|[link](https://github.com/angusnicolson/textcavs)|
 |**2024-08-16**|**RealMedQA: A pilot biomedical question answering dataset containing realistic clinical questions**|Gregory Kell et.al.|[2408.08624v1](http://arxiv.org/abs/2408.08624v1)|[link](https://github.com/gck25/realmedqa)|
+|**2024-08-16**|**Bayesian Network Modeling of Causal Influence within Cognitive Domains and Clinical Dementia Severity Ratings for Western and Indian Cohorts**|Wupadrasta Santosh Kumar et.al.|[2408.12669v1](http://arxiv.org/abs/2408.12669v1)|null|
 |**2024-08-16**|**Focus on Focus: Focus-oriented Representation Learning and Multi-view Cross-modal Alignment for Glioma Grading**|Li Pan et.al.|[2408.08527v1](http://arxiv.org/abs/2408.08527v1)|[link](https://github.com/peterlipan/fof)|
 |**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488v1](http://arxiv.org/abs/2408.08488v1)|[link](https://github.com/zest86/acl-pitn)|
 |**2024-08-15**|**Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging**|Yusen Wu et.al.|[2408.08456v1](http://arxiv.org/abs/2408.08456v1)|null|
@@ -95,15 +102,148 @@
 |**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949v1](http://arxiv.org/abs/2408.04949v1)|[link](https://github.com/gianlucarloni/crocodile)|
 |**2024-08-09**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910v3](http://arxiv.org/abs/2408.04910v3)|[link](https://github.com/TheOpenSI/cognitive_AI_experiments)|
 |**2024-08-09**|**Ensemble BERT: A student social network text sentiment classification model based on ensemble learning and BERT architecture**|Kai Jiang et.al.|[2408.04849v1](http://arxiv.org/abs/2408.04849v1)|null|
-|**2024-08-08**|**Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**|Vandan Gorade et.al.|[2408.04491v1](http://arxiv.org/abs/2408.04491v1)|null|
-|**2024-08-08**|**Advancing oncology with federated learning: transcending boundaries in breast, lung, and prostate cancer. A systematic review**|Anshu Ankolekar et.al.|[2408.05249v1](http://arxiv.org/abs/2408.05249v1)|null|
-|**2024-08-08**|**Non-maximizing policies that fulfill multi-criterion aspirations in expectation**|Simon Dima et.al.|[2408.04385v1](http://arxiv.org/abs/2408.04385v1)|null|
-|**2024-08-08**|**AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**|Mugheez Asif et.al.|[2408.04281v1](http://arxiv.org/abs/2408.04281v1)|null|
-|**2024-08-08**|**Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications**|Philipp Zagar et.al.|[2408.04680v1](http://arxiv.org/abs/2408.04680v1)|null|
-|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v2](http://arxiv.org/abs/2408.07084v2)|null|
-|**2024-08-08**|**The Data Addition Dilemma**|Judy Hanwen Shen et.al.|[2408.04154v1](http://arxiv.org/abs/2408.04154v1)|[link](https://github.com/the-chen-lab/data-addition-dilemma)|
 
 #### Abstracts
+##### **HBIC: A Biclustering Algorithm for Heterogeneous Datasets**
+2408.13217v1 by Adán José-García, Julie Jacques, Clément Chauvet, Vincent Sobanski, Clarisse Dhaenens
+
+Biclustering is an unsupervised machine-learning approach aiming to cluster
+rows and columns simultaneously in a data matrix. Several biclustering
+algorithms have been proposed for handling numeric datasets. However,
+real-world data mining problems often involve heterogeneous datasets with mixed
+attributes. To address this challenge, we introduce a biclustering approach
+called HBIC, capable of discovering meaningful biclusters in complex
+heterogeneous data, including numeric, binary, and categorical data. The
+approach comprises two stages: bicluster generation and bicluster model
+selection. In the initial stage, several candidate biclusters are generated
+iteratively by adding and removing rows and columns based on the frequency of
+values in the original matrix. In the second stage, we introduce two approaches
+for selecting the most suitable biclusters by considering their size and
+homogeneity. Through a series of experiments, we investigated the suitability
+of our approach on a synthetic benchmark and in a biomedical application
+involving clinical data of systemic sclerosis patients. The evaluation
+comparing our method to existing approaches demonstrates its ability to
+discover high-quality biclusters from heterogeneous data. Our biclustering
+approach is a starting point for heterogeneous bicluster discovery, leading to
+a better understanding of complex underlying data structures.
+
+摘要：雙聚類是一種非監督機器學習方法，旨在同時對資料矩陣中的列和行進行聚類。已提出多種雙聚類演算法來處理數值資料集。然而，現實世界的資料探勘問題通常涉及具有混合屬性的異質資料集。為了應對這一挑戰，我們引入了一種名為 HBIC 的雙聚類方法，它能夠在複雜的異質資料（包括數值、二進制和類別資料）中發現有意義的雙聚類。該方法包括兩個階段：雙聚類生成和雙聚類模型選擇。在初始階段，通過根據原始矩陣中的值頻率新增和移除列和行，反覆生成多個候選雙聚類。在第二階段，我們引入了兩種方法，通過考慮雙聚類的大小和同質性來選擇最合適的雙聚類。通過一系列實驗，我們研究了我們的方法在合成基準和涉及全身性硬化症患者臨床資料的生物醫學應用中的適用性。將我們的演算法與現有方法進行比較，評估結果證明了其從異質資料中發現高品質雙聚類的能力。我們的雙聚類方法是異質雙聚類發現的起點，有助於更好地理解複雜的底層資料結構。
+
+##### **Causal machine learning for sustainable agroecosystems**
+2408.13155v1 by Vasileios Sitokonstantinou, Emiliano Díaz Salas Porras, Jordi Cerdà Bautista, Maria Piles, Ioannis Athanasiadis, Hannah Kerner, Giulia Martini, Lily-belle Sweet, Ilias Tsoumas, Jakob Zscheischler, Gustau Camps-Valls
+
+In a changing climate, sustainable agriculture is essential for food security
+and environmental health. However, it is challenging to understand the complex
+interactions among its biophysical, social, and economic components. Predictive
+machine learning (ML), with its capacity to learn from data, is leveraged in
+sustainable agriculture for applications like yield prediction and weather
+forecasting. Nevertheless, it cannot explain causal mechanisms and remains
+descriptive rather than prescriptive. To address this gap, we propose causal
+ML, which merges ML's data processing with causality's ability to reason about
+change. This facilitates quantifying intervention impacts for evidence-based
+decision-making and enhances predictive model robustness. We showcase causal ML
+through eight diverse applications that benefit stakeholders across the
+agri-food chain, including farmers, policymakers, and researchers.
+
+摘要：在氣候變遷的影響下，永續農業對於糧食安全和環境健康至關重要。然而，要了解其生物物理、社會和經濟成分之間的複雜互動卻是一項挑戰。預測機器學習 (ML) 具備從資料中學習的能力，因此被運用於永續農業中，例如產量預測和天氣預報等應用。儘管如此，它無法解釋因果機制，且仍然是描述性的而非規範性的。為了解決這個差距，我們提出了因果 ML，它將 ML 的資料處理與因果關係推理變化的能力結合在一起。這有助於量化干預影響，以利於基於證據的決策制定，並增強預測模型的穩健性。我們透過八個不同的應用展示因果 ML，這些應用惠及農業食品鏈中的利害關係人，包括農民、政策制定者和研究人員。
+
+##### **Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**
+2408.12880v1 by Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng
+
+The rapid development of artificial intelligence has constantly reshaped the
+field of intelligent healthcare and medicine. As a vital technology, multimodal
+learning has increasingly garnered interest due to data complementarity,
+comprehensive modeling form, and great application potential. Currently,
+numerous researchers are dedicating their attention to this field, conducting
+extensive studies and constructing abundant intelligent systems. Naturally, an
+open question arises that has multimodal learning delivered universal
+intelligence in healthcare? To answer the question, we adopt three unique
+viewpoints for a holistic analysis. Firstly, we conduct a comprehensive survey
+of the current progress of medical multimodal learning from the perspectives of
+datasets, task-oriented methods, and universal foundation models. Based on
+them, we further discuss the proposed question from five issues to explore the
+real impacts of advanced techniques in healthcare, from data and technologies
+to performance and ethics. The answer is that current technologies have NOT
+achieved universal intelligence and there remains a significant journey to
+undertake. Finally, in light of the above reviews and discussions, we point out
+ten potential directions for exploration towards the goal of universal
+intelligence in healthcare.
+
+摘要：人工智能的快速发展持续重塑着智能医疗和医学领域。作为一项至关重要的技术，多模态学习由于数据互补性、综合建模形式和巨大的应用潜力而日益受到关注。目前，众多研究者将注意力投向这一领域，开展了广泛的研究并构建了丰富的智能系统。自然而然地，一个开放的问题出现了，即多模态学习是否在医疗保健中提供了通用智能？为了回答这个问题，我们采用三个独特的视角进行整体分析。首先，我们从数据集、面向任务的方法和通用基础模型的角度对医学多模态学习的当前进展进行了全面的调查。在此基础上，我们进一步从五个问题讨论了提出的问题，以探讨先进技术在医疗保健中的实际影响，从数据和技术到性能和伦理。答案是，当前技术尚未实现通用智能，并且仍有很长的路要走。最后，根据上述回顾和讨论，我们指出了实现医疗保健通用智能目标的十个潜在探索方向。
+
+##### **COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**
+2408.12841v1 by Mohsen Asghari Ilani, Saba Moftakhar Tehran, Ashkan Kavei, Arian Radmehr
+
+The ongoing COVID-19 pandemic continues to pose significant challenges to
+global public health, despite the widespread availability of vaccines. Early
+detection of the disease remains paramount in curbing its transmission and
+mitigating its impact on public health systems. In response, this study delves
+into the application of advanced machine learning (ML) techniques for
+predicting COVID-19 infection probability. We conducted a rigorous
+investigation into the efficacy of various ML models, including XGBoost, LGBM,
+AdaBoost, Logistic Regression, Decision Tree, RandomForest, CatBoost, KNN, and
+Deep Neural Networks (DNN). Leveraging a dataset comprising 4000 samples, with
+3200 allocated for training and 800 for testing, our experiment offers
+comprehensive insights into the performance of these models in COVID-19
+prediction. Our findings reveal that Deep Neural Networks (DNN) emerge as the
+top-performing model, exhibiting superior accuracy and recall metrics. With an
+impressive accuracy rate of 89%, DNN demonstrates remarkable potential in early
+COVID-19 detection. This underscores the efficacy of deep learning approaches
+in leveraging complex data patterns to identify COVID-19 infections accurately.
+This study underscores the critical role of machine learning, particularly deep
+learning methodologies, in augmenting early detection efforts amidst the
+ongoing pandemic. The success of DNN in accurately predicting COVID-19
+infection probability highlights the importance of continued research and
+development in leveraging advanced technologies to combat infectious diseases.
+
+摘要：持續進行的 COVID-19 大流行病持續對全球公共衛生構成重大挑戰，儘管疫苗已廣泛提供。早期發現疾病仍然是遏制其傳播和減輕其對公共衛生系統影響的首要任務。為此，本研究深入探討先進機器學習 (ML) 技術在預測 COVID-19 感染機率方面的應用。我們對各種 ML 模型的效能進行了嚴謹的調查，包括 XGBoost、LGBM、AdaBoost、邏輯迴歸、決策樹、隨機森林、CatBoost、KNN 和深度神經網路 (DNN)。利用包含 4000 個樣本的資料集，其中 3200 個分配給訓練，800 個分配給測試，我們的實驗對這些模型在 COVID-19 預測中的效能提供了全面的見解。我們的研究結果顯示，深度神經網路 (DNN) 成為表現最佳的模型，展現出優異的準確度和召回率指標。DNN 以 89% 的驚人準確度，證明了在早期 COVID-19 檢測中的傑出潛力。這突顯了深度學習方法在利用複雜資料模式準確識別 COVID-19 感染方面的效能。本研究強調了機器學習，特別是深度學習方法，在持續的大流行病中擴增早期檢測工作中的關鍵作用。DNN 在準確預測 COVID-19 感染機率方面的成功，突顯了持續研究和開發利用先進技術來對抗傳染病的重要性。
+
+##### **Exploring Machine Learning Models for Lung Cancer Level Classification: A comparative ML Approach**
+2408.12838v1 by Mohsen Asghari Ilani, Saba Moftakhar Tehran, Ashkan Kavei, Hamed Alizadegan
+
+This paper explores machine learning (ML) models for classifying lung cancer
+levels to improve diagnostic accuracy and prognosis. Through parameter tuning
+and rigorous evaluation, we assess various ML algorithms. Techniques like
+minimum child weight and learning rate monitoring were used to reduce
+overfitting and optimize performance. Our findings highlight the robust
+performance of Deep Neural Network (DNN) models across all phases. Ensemble
+methods, including voting and bagging, also showed promise in enhancing
+predictive accuracy and robustness. However, Support Vector Machine (SVM)
+models with the Sigmoid kernel faced challenges, indicating a need for further
+refinement. Overall, our study provides insights into ML-based lung cancer
+classification, emphasizing the importance of parameter tuning to optimize
+model performance and improve diagnostic accuracy in oncological care.
+
+摘要：本論文探討機器學習 (ML) 模型，用於分類肺癌等級以提升診斷準確度和預後。透過參數調整和嚴謹評估，我們評估各種 ML 演算法。使用最小子權重和學習率監控等技術來減少過度擬合並最佳化效能。我們的研究結果強調深度神經網路 (DNN) 模型在所有階段的強健效能。包括投票和 bagging 在內的整體方法，也在提升預測準確度和強健性方面展現優勢。然而，使用 Sigmoid 核心的支援向量機 (SVM) 模型面臨挑戰，顯示需要進一步改良。整體而言，我們的研究提供機器學習為基礎的肺癌分類見解，強調參數調整對於最佳化模型效能和提升腫瘤照護診斷準確度的重要性。
+
+##### **MultiMed: Massively Multimodal and Multitask Medical Understanding**
+2408.12682v1 by Shentong Mo, Paul Pu Liang
+
+Biomedical data is inherently multimodal, consisting of electronic health
+records, medical imaging, digital pathology, genome sequencing, wearable
+sensors, and more. The application of artificial intelligence tools to these
+multifaceted sensing technologies has the potential to revolutionize the
+prognosis, diagnosis, and management of human health and disease. However,
+current approaches to biomedical AI typically only train and evaluate with one
+or a small set of medical modalities and tasks. This limitation hampers the
+development of comprehensive tools that can leverage the rich interconnected
+information across many heterogeneous biomedical sensors. To address this
+challenge, we present MultiMed, a benchmark designed to evaluate and enable
+large-scale learning across a wide spectrum of medical modalities and tasks.
+MultiMed consists of 2.56 million samples across ten medical modalities such as
+medical reports, pathology, genomics, and protein data, and is structured into
+eleven challenging tasks, including disease prognosis, protein structure
+prediction, and medical question answering. Using MultiMed, we conduct
+comprehensive experiments benchmarking state-of-the-art unimodal, multimodal,
+and multitask models. Our analysis highlights the advantages of training
+large-scale medical models across many related modalities and tasks. Moreover,
+MultiMed enables studies of generalization across related medical concepts,
+robustness to real-world noisy data and distribution shifts, and novel modality
+combinations to improve prediction performance. MultiMed will be publicly
+available and regularly updated and welcomes inputs from the community.
+
+摘要：生物医学数据本质上是多模态的，由电子健康记录、医学影像、数字病理学、基因组测序、可穿戴传感器等组成。将人工智能工具应用于这些多方面的传感技术有可能彻底改变人类健康和疾病的预后、诊断和管理。然而，当前对生物医学人工智能的方法通常只针对一种或一小组医学方式和任务进行训练和评估。这种限制阻碍了能够利用许多异构生物医学传感器之间的丰富互联信息来开发综合工具。为了应对这一挑战，我们提出了 MultiMed，这是一个旨在评估和支持跨广泛医学方式和任务进行大规模学习的基准。MultiMed 包含了十种医学方式（例如医学报告、病理学、基因组学和蛋白质数据）中的 256 万个样本，并被构建成十一个具有挑战性的任务，包括疾病预后、蛋白质结构预测和医学问题解答。使用 MultiMed，我们进行了全面的实验，对最先进的单模态、多模态和多任务模型进行了基准测试。我们的分析突出了跨许多相关方式和任务训练大规模医学模型的优势。此外，MultiMed 支持对相关医学概念的泛化、对真实世界噪声数据和分布变化的鲁棒性以及新的方式组合以提高预测性能的研究。MultiMed 将公开提供并定期更新，并欢迎社区的意见。
+
 ##### **RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**
 2408.12579v1 by Xiaohan Wang, Xiaoyan Yang, Yuqi Zhu, Yue Shen, Jian Wang, Peng Wei, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang
 
@@ -1424,6 +1564,26 @@ We release our code and our dataset publicly to encourage further research.
 
 摘要：臨床問答系統具有提供臨床醫生相關且及時的答案的潛力。儘管如此，儘管取得了進展，但在臨床環境中採用這些系統的速度很慢。一個問題是缺乏反映醫療專業人員現實需求的問答資料集。在這項工作中，我們提出了 RealMedQA，這是一個由人類和 LLM 生成的現實臨床問題資料集。我們描述了生成和驗證 QA 對的過程，並在 BioASQ 和 RealMedQA 上評估了幾個 QA 模型，以評估將答案與問題匹配的相對難度。我們表明，LLM 在生成「理想」的 QA 對方面更具成本效益。此外，我們在問題和答案之間實現了比 BioASQ 更低的詞彙相似性，根據結果，這對前兩個 QA 模型提出了額外的挑戰。我們公開發布我們的程式碼和資料集，以鼓勵進一步的研究。
 
+##### **Bayesian Network Modeling of Causal Influence within Cognitive Domains and Clinical Dementia Severity Ratings for Western and Indian Cohorts**
+2408.12669v1 by Wupadrasta Santosh Kumar, Sayali Rajendra Bhutare, Neelam Sinha, Thomas Gregor Issac
+
+This study investigates the causal relationships between Clinical Dementia
+Ratings (CDR) and its six domain scores across two distinct aging datasets: the
+Alzheimer's Disease Neuroimaging Initiative (ADNI) and the Longitudinal Aging
+Study of India (LASI). Using Directed Acyclic Graphs (DAGs) derived from
+Bayesian network models, we analyze the dependencies among domain scores and
+their influence on the global CDR. Our approach leverages the PC algorithm to
+estimate the DAG structures for both datasets, revealing notable differences in
+causal relationships and edge strengths between the Western and Indian
+populations. The analysis highlights a stronger dependency of CDR scores on
+memory functions in both datasets, but with significant variations in edge
+strengths and node degrees. By contrasting these findings, we aim to elucidate
+population-specific differences and similarities in dementia progression,
+providing insights that could inform targeted interventions and improve
+understanding of dementia across diverse demographic contexts.
+
+摘要：本研究探討臨床失智評分 (CDR) 及其六項領域評分之間的因果關係，這些評分來自兩個不同的老化資料集：阿茲海默症神經影像學倡議 (ADNI) 和印度縱向老化研究 (LASI)。我們使用由貝氏網路模型衍生的有向無環圖 (DAG)，分析領域評分之間的依賴性及其對整體 CDR 的影響。我們的做法利用 PC 演算法估計兩個資料集的 DAG 結構，揭示西方和印度人群之間因果關係和邊緣強度的顯著差異。分析強調了在兩個資料集中，CDR 評分對記憶功能的依賴性較強，但邊緣強度和節點程度有顯著差異。透過對比這些發現，我們旨在闡明失智症進程中特定人群的差異和相似性，提供見解，以便為有針對性的干預措施提供資訊，並加深對不同人口背景中失智症的了解。
+
 ##### **Focus on Focus: Focus-oriented Representation Learning and Multi-view Cross-modal Alignment for Glioma Grading**
 2408.08527v1 by Li Pan, Yupei Zhang, Qiushi Yang, Tan Li, Xiaohan Xing, Maximus C. F. Yeung, Zhen Chen
 
@@ -2489,163 +2649,4 @@ training. However, for interpretability, network ensembles can provide
 acceptable solutions.
 
 摘要：中學生心理健康評估一直是教育領域的關注重點之一。本文介紹了一個基於 BERT 的新集成學習網路，採用整合多個分類器的概念來提升模型效能。我們訓練了一系列基於 BERT 的學習器，並使用多數決投票法進行組合。我們透過中國微博收集中學生的社群網路文字資料，並將此方法應用於分類中學生社群網路文字的情緒傾向的任務中。實驗結果表明，集成學習網路的效能優於基礎模型，且由三個單層 BERT 模型組成的集成學習模型的效能與三層 BERT 模型幾乎相同，但訓練時間卻多了 11.58%。因此，在平衡預測效果和效率方面，應優先考慮較深的 BERT 網路進行訓練。然而，對於可解釋性而言，網路集成可以提供可接受的解決方案。
-
-##### **Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**
-2408.04491v1 by Vandan Gorade, Onkar Susladkar, Gorkem Durak, Elif Keles, Ertugrul Aktas, Timurhan Cebeci, Alpay Medetalibeyoglu, Daniela Ladner, Debesh Jha, Ulas Bagci
-
-Liver cirrhosis, a leading cause of global mortality, requires precise
-segmentation of ROIs for effective disease monitoring and treatment planning.
-Existing segmentation models often fail to capture complex feature interactions
-and generalize across diverse datasets. To address these limitations, we
-propose a novel synergistic theory that leverages complementary latent spaces
-for enhanced feature interaction modeling. Our proposed architecture,
-nnSynergyNet3D integrates continuous and discrete latent spaces for 3D volumes
-and features auto-configured training. This approach captures both fine-grained
-and coarse features, enabling effective modeling of intricate feature
-interactions. We empirically validated nnSynergyNet3D on a private dataset of
-628 high-resolution T1 abdominal MRI scans from 339 patients. Our model
-outperformed the baseline nnUNet3D by approximately 2%. Additionally, zero-shot
-testing on healthy liver CT scans from the public LiTS dataset demonstrated
-superior cross-modal generalization capabilities. These results highlight the
-potential of synergistic latent space models to improve segmentation accuracy
-and robustness, thereby enhancing clinical workflows by ensuring consistency
-across CT and MRI modalities.
-
-摘要：肝硬化是全球死亡的主要原因，需要对 ROI 进行精确分割，以进行有效的疾病监测和治疗计划。现有的分割模型通常无法捕捉复杂的特征交互，并在不同的数据集上进行泛化。为了解决这些限制，我们提出了一种新颖的协同理论，该理论利用互补的潜在空间来增强特征交互建模。我们提出的架构 nnSynergyNet3D 集成了连续和离散的潜在空间，用于 3D 体积，并具有自动配置的训练。这种方法捕捉到了细粒度和粗粒度特征，从而能够有效地对复杂的特征交互进行建模。我们根据 339 名患者的 628 个高分辨率 T1 腹部 MRI 扫描的私有数据集对 nnSynergyNet3D 进行了实证验证。我们的模型比基线 nnUNet3D 的性能提高了大约 2%。此外，在来自公共 LiTS 数据集的健康肝脏 CT 扫描上进行零样本测试证明了其卓越的跨模态泛化能力。这些结果突出了协同潜在空间模型在提高分割精度和鲁棒性方面的潜力，从而通过确保 CT 和 MRI 模态的一致性来增强临床工作流程。
-
-##### **Advancing oncology with federated learning: transcending boundaries in breast, lung, and prostate cancer. A systematic review**
-2408.05249v1 by Anshu Ankolekar, Sebastian Boie, Maryam Abdollahyan, Emanuela Gadaleta, Seyed Alireza Hasheminasab, Guang Yang, Charles Beauville, Nikolaos Dikaios, George Anthony Kastis, Michael Bussmann, Sara Khalid, Hagen Kruger, Philippe Lambin, Giorgos Papanastasiou
-
-Federated Learning (FL) has emerged as a promising solution to address the
-limitations of centralised machine learning (ML) in oncology, particularly in
-overcoming privacy concerns and harnessing the power of diverse, multi-center
-data. This systematic review synthesises current knowledge on the
-state-of-the-art FL in oncology, focusing on breast, lung, and prostate cancer.
-Distinct from previous surveys, our comprehensive review critically evaluates
-the real-world implementation and impact of FL on cancer care, demonstrating
-its effectiveness in enhancing ML generalisability, performance and data
-privacy in clinical settings and data. We evaluated state-of-the-art advances
-in FL, demonstrating its growing adoption amid tightening data privacy
-regulations. FL outperformed centralised ML in 15 out of the 25 studies
-reviewed, spanning diverse ML models and clinical applications, and
-facilitating integration of multi-modal information for precision medicine.
-Despite the current challenges identified in reproducibility, standardisation
-and methodology across studies, the demonstrable benefits of FL in harnessing
-real-world data and addressing clinical needs highlight its significant
-potential for advancing cancer research. We propose that future research should
-focus on addressing these limitations and investigating further advanced FL
-methods, to fully harness data diversity and realise the transformative power
-of cutting-edge FL in cancer care.
-
-摘要：聯邦學習 (FL) 已成為了解決腫瘤學中集中式機器學習 (ML) 限制的有前途的解決方案，特別是在克服隱私問題和利用多中心異質資料的力量方面。這項系統性回顧綜合了腫瘤學中最新 FL 的現有知識，重點關注乳癌、肺癌和前列腺癌。與先前的調查不同，我們的全面回顧批判性地評估了 FL 在癌症照護中的實際執行和影響，證明了它在增強 ML 的概括性、效能和臨床環境和資料中的資料隱私方面的有效性。我們評估了 FL 的最新進展，證明了它在日益嚴格的資料隱私法規中獲得越來越廣泛的採用。在所回顧的 25 項研究中，FL 在 15 項研究中優於集中式 ML，涵蓋了多種 ML 模型和臨床應用，並促進了多模式資訊整合以進行精準醫療。儘管在各項研究中發現了再現性、標準化和方法方面的現有挑戰，但 FL 在利用真實世界資料和解決臨床需求方面已展現出的好處突顯了其在推進癌症研究方面的巨大潛力。我們建議未來的研究應重點解決這些限制，並進一步研究先進的 FL 方法，以充分利用資料的多樣性，並實現尖端 FL 在癌症照護中的轉化力量。
-
-##### **Non-maximizing policies that fulfill multi-criterion aspirations in expectation**
-2408.04385v1 by Simon Dima, Simon Fischer, Jobst Heitzig, Joss Oliver
-
-In dynamic programming and reinforcement learning, the policy for the
-sequential decision making of an agent in a stochastic environment is usually
-determined by expressing the goal as a scalar reward function and seeking a
-policy that maximizes the expected total reward. However, many goals that
-humans care about naturally concern multiple aspects of the world, and it may
-not be obvious how to condense those into a single reward function.
-Furthermore, maximization suffers from specification gaming, where the obtained
-policy achieves a high expected total reward in an unintended way, often taking
-extreme or nonsensical actions.
-  Here we consider finite acyclic Markov Decision Processes with multiple
-distinct evaluation metrics, which do not necessarily represent quantities that
-the user wants to be maximized. We assume the task of the agent is to ensure
-that the vector of expected totals of the evaluation metrics falls into some
-given convex set, called the aspiration set. Our algorithm guarantees that this
-task is fulfilled by using simplices to approximate feasibility sets and
-propagate aspirations forward while ensuring they remain feasible. It has
-complexity linear in the number of possible state-action-successor triples and
-polynomial in the number of evaluation metrics. Moreover, the explicitly
-non-maximizing nature of the chosen policy and goals yields additional degrees
-of freedom, which can be used to apply heuristic safety criteria to the choice
-of actions. We discuss several such safety criteria that aim to steer the agent
-towards more conservative behavior.
-
-摘要：在動態規劃和強化學習中，代理人在隨機環境中進行順序決策的策略通常通過將目標表達為標量獎勵函數並尋求最大化預期總獎勵的策略來確定。然而，人類關心的許多目標自然涉及世界的多個方面，並且可能並不清楚如何將這些目標濃縮成單一的獎勵函數。此外，最大化會受到規範博弈的影響，其中獲得的策略以意外的方式實現了很高的預期總獎勵，通常採取極端或荒謬的行動。
-在這裡，我們考慮具有多個不同評估指標的有限無環馬可夫決策過程，這些指標不一定表示用戶希望最大化的數量。我們假設代理人的任務是確保評估指標預期總量的向量落入某個給定的凸集，稱為願望集。我們的演算法保證通過使用單形來逼近可行集並在確保可行性的同時向前傳播願望來完成此任務。它的複雜度與可能的狀態-動作-後繼三元組的數量呈線性關係，與評估指標的數量呈多項式關係。此外，所選策略和目標的顯式非最大化性質產生了額外的自由度，可用於將啟發式安全準則應用於動作的選擇。我們討論了幾個這樣的安全準則，旨在引導代理人採取更保守的行為。
-
-##### **AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**
-2408.04281v1 by Mugheez Asif, Abdul Manan, Abdul Moiz ur Rehman, Mamoona Naveed Asghar, Muhammad Umair
-
-In today's contemporary digital landscape, chatbots have become indispensable
-tools across various sectors, streamlining customer service, providing personal
-assistance, automating routine tasks, and offering health advice. However,
-their potential remains underexplored in the realm of network security,
-particularly for intrusion detection. To bridge this gap, we propose an
-architecture chatbot specifically designed to enhance security within edge
-networks specifically for intrusion detection. Leveraging advanced machine
-learning algorithms, this chatbot will monitor network traffic to identify and
-mitigate potential intrusions. By securing the network environment using an
-edge network managed by a Raspberry Pi module and ensuring ethical user consent
-promoting transparency and trust, this innovative solution aims to safeguard
-sensitive data and maintain a secure workplace, thereby addressing the growing
-need for robust network security measures in the digital age.
-
-摘要：在當今的現代數位環境中，聊天機器人已成為各個產業不可或缺的工具，簡化客戶服務、提供個人協助、自動化例行工作並提供健康建議。然而，它們在網路安全領域的潛力仍未得到充分探索，特別是在入侵偵測方面。為了彌補這個差距，我們提出了一種專門設計用於增強邊緣網路內部安全性的架構聊天機器人，特別是用於入侵偵測。透過利用先進的機器學習演算法，此聊天機器人將監控網路流量以識別和減輕潛在入侵。透過使用由 Raspberry Pi 模組管理的邊緣網路來保護網路環境，並確保合乎道德的使用者同意以促進透明度和信任，這個創新的解決方案旨在保護敏感資料並維護一個安全的工作場所，從而滿足數位時代對強大網路安全措施日益增長的需求。
-
-##### **Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications**
-2408.04680v1 by Philipp Zagar, Vishnu Ravi, Lauren Aalami, Stephan Krusche, Oliver Aalami, Paul Schmiedmayer
-
-The ability of large language models (LLMs) to transform, interpret, and
-comprehend vast quantities of heterogeneous data presents a significant
-opportunity to enhance data-driven care delivery. However, the sensitive nature
-of protected health information (PHI) raises valid concerns about data privacy
-and trust in remote LLM platforms. In addition, the cost associated with
-cloud-based artificial intelligence (AI) services continues to impede
-widespread adoption. To address these challenges, we propose a shift in the LLM
-execution environment from opaque, centralized cloud providers to a
-decentralized and dynamic fog computing architecture. By executing open-weight
-LLMs in more trusted environments, such as the user's edge device or a fog
-layer within a local network, we aim to mitigate the privacy, trust, and
-financial challenges associated with cloud-based LLMs. We further present
-SpeziLLM, an open-source framework designed to facilitate rapid and seamless
-leveraging of different LLM execution layers and lowering barriers to LLM
-integration in digital health applications. We demonstrate SpeziLLM's broad
-applicability across six digital health applications, showcasing its
-versatility in various healthcare settings.
-
-摘要：大型語言模型（LLM）轉換、詮釋和理解大量異質資料的能力，為提升資料驅動的照護提供顯著的契機。然而，受保護健康資訊（PHI）的敏感性質引發了對資料隱私和對遠端 LLM 平台信任的正當疑慮。此外，與雲端人工智慧（AI）服務相關的成本持續阻礙廣泛採用。為了解決這些挑戰，我們建議將 LLM 執行環境從不透明的集中式雲端供應商轉移到分散式動態霧運算架構。透過在更受信任的環境中執行開放權重的 LLM，例如使用者的邊緣裝置或區域網路內的霧層，我們旨在減輕與雲端 LLM 相關的隱私、信任和財務挑戰。我們進一步提出 SpeziLLM，一個開放原始碼架構，旨在促進快速且無縫地利用不同的 LLM 執行層，並降低 LLM 整合在數位健康應用程式的障礙。我們展示了 SpeziLLM 在六個數位健康應用程式中的廣泛適用性，展示了其在各種醫療保健環境中的多功能性。
-
-##### **Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**
-2408.07084v2 by Wangying Yang, Zitao Zheng, Shi Bo, Zhizhong Wu, Bo Zhang, Yuanfang Yang
-
-This study introduces a pioneering Dynamic Hypergraph Networks (DHCE) model
-designed to predict future medical diagnoses from electronic health records
-with enhanced accuracy. The DHCE model innovates by identifying and
-differentiating acute and chronic diseases within a patient's visit history,
-constructing dynamic hypergraphs that capture the complex, high-order
-interactions between diseases. It surpasses traditional recurrent neural
-networks and graph neural networks by effectively integrating clinical event
-data, reflected through medical language model-assisted encoding, into a robust
-patient representation. Through extensive experiments on two benchmark
-datasets, MIMIC-III and MIMIC-IV, the DHCE model exhibits superior performance,
-significantly outpacing established baseline models in the precision of
-sequential diagnosis prediction.
-
-摘要：本研究引入了一個開創性的動態超圖網路 (DHCE) 模型，旨在透過電子健康記錄預測未來的醫療診斷，並提高準確性。DHCE 模型透過辨識和區分病患就診病史中的急性病和慢性病，建構動態超圖以擷取疾病之間複雜的高階互動，進而創新。它透過將臨床事件資料有效整合到健全的病患表徵中，並透過醫療語言模型輔助編碼反映出來，超越了傳統的遞迴神經網路和圖神經網路。透過在兩個基準資料集 MIMIC-III 和 MIMIC-IV 上進行廣泛的實驗，DHCE 模型展現出優異的效能，在序貫診斷預測的準確度上顯著超越既定的基準模型。
-
-##### **The Data Addition Dilemma**
-2408.04154v1 by Judy Hanwen Shen, Inioluwa Deborah Raji, Irene Y. Chen
-
-In many machine learning for healthcare tasks, standard datasets are
-constructed by amassing data across many, often fundamentally dissimilar,
-sources. But when does adding more data help, and when does it hinder progress
-on desired model outcomes in real-world settings? We identify this situation as
-the \textit{Data Addition Dilemma}, demonstrating that adding training data in
-this multi-source scaling context can at times result in reduced overall
-accuracy, uncertain fairness outcomes, and reduced worst-subgroup performance.
-We find that this possibly arises from an empirically observed trade-off
-between model performance improvements due to data scaling and model
-deterioration from distribution shift. We thus establish baseline strategies
-for navigating this dilemma, introducing distribution shift heuristics to guide
-decision-making on which data sources to add in data scaling, in order to yield
-the expected model performance improvements. We conclude with a discussion of
-the required considerations for data collection and suggestions for studying
-data composition and scale in the age of increasingly larger models.
-
-摘要：在許多醫療保健任務的機器學習中，標準資料集是透過收集來自許多通常根本不同的來源的資料而建構的。但是，何時新增更多資料有幫助，而何時會阻礙在現實世界設定中達成預期的模型成果？我們將此情況認定為「資料新增困境」，證明在此多來源擴充的背景下新增訓練資料，有時可能會導致整體準確度降低、不確定的公平性結果，以及最差子群體效能降低。我們發現這可能是由於資料擴充導致的模型效能提升與分配轉移導致的模型劣化之間的經驗性權衡所致。因此，我們建立了應對此困境的基本策略，引入了分配轉移啟發法，以指導有關在資料擴充中新增哪些資料來源的決策制定，以產生預期的模型效能提升。我們最後討論了資料收集所需的考量因素，並建議研究資料組成和規模在模型規模日益擴大的時代。
 

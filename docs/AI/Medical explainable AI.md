@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
 |**2024-08-22**|**AI in radiological imaging of soft-tissue and bone tumours: a systematic review evaluating against CLAIM and FUTURE-AI guidelines**|Douwe J. Spaanderman et.al.|[2408.12491v1](http://arxiv.org/abs/2408.12491v1)|null|
 |**2024-08-06**|**MicroXercise: A Micro-Level Comparative and Explainable System for Remote Physical Therapy**|Hanchen David Wang et.al.|[2408.11837v1](http://arxiv.org/abs/2408.11837v1)|null|
 |**2024-08-05**|**The Literature Review Network: An Explainable Artificial Intelligence for Systematic Literature Reviews, Meta-analyses, and Method Development**|Joshua Morriss et.al.|[2408.05239v1](http://arxiv.org/abs/2408.05239v1)|null|
@@ -101,9 +102,24 @@
 |**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902v1](http://arxiv.org/abs/2306.03902v1)|null|
 |**2023-06-02**|**XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models**|Sujith K Mandala et.al.|[2306.01668v1](http://arxiv.org/abs/2306.01668v1)|null|
 |**2023-05-26**|**A Novel real-time arrhythmia detection model using YOLOv8**|Guang Jun Nicholas Ang et.al.|[2305.16727v3](http://arxiv.org/abs/2305.16727v3)|null|
-|**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v2](http://arxiv.org/abs/2305.14389v2)|null|
 
 #### Abstracts
+##### **Towards Case-based Interpretability for Medical Federated Learning**
+2408.13626v1 by Laura Latorre, Liliana Petrychenko, Regina Beets-Tan, Taisiya Kopytova, Wilson Silva
+
+We explore deep generative models to generate case-based explanations in a
+medical federated learning setting. Explaining AI model decisions through
+case-based interpretability is paramount to increasing trust and allowing
+widespread adoption of AI in clinical practice. However, medical AI training
+paradigms are shifting towards federated learning settings in order to comply
+with data protection regulations. In a federated scenario, past data is
+inaccessible to the current user. Thus, we use a deep generative model to
+generate synthetic examples that protect privacy and explain decisions. Our
+proof-of-concept focuses on pleural effusion diagnosis and uses publicly
+available Chest X-ray data.
+
+摘要：我們探索深度生成模型，在醫療聯邦學習設置中生成基於案例的說明。透過基於案例的可解釋性來解釋 AI 模型決策，對於增加信任並允許 AI 在臨床實務中廣泛採用至關重要。然而，醫療 AI 訓練範例正轉向聯邦學習設置，以符合資料保護法規。在聯邦情境中，過去的資料對目前的使用者而言是無法取得的。因此，我們使用深度生成模型來產生保護隱私和解釋決策的合成範例。我們的概念驗證著重於胸腔積液診斷，並使用公開可取得的胸部 X 光資料。
+
 ##### **AI in radiological imaging of soft-tissue and bone tumours: a systematic review evaluating against CLAIM and FUTURE-AI guidelines**
 2408.12491v1 by Douwe J. Spaanderman, Matthew Marzetti, Xinyi Wan, Andrew F. Scarsbrook, Philip Robinson, Edwin H. G. Oei, Jacob J. Visser, Robert Hemke, Kirsten van Langevelde, David F. Hanff, Geert J. L. H. van Leenders, Cornelis Verhoef, Dirk J. Gruühagen, Wiro J. Niessen, Stefan Klein, Martijn P. A. Starmans
 
@@ -2601,24 +2617,4 @@ of deployment in the healthcare sector, thereby significantly advancing the
 realm of healthcare solutions.
 
 摘要：<paragraph>在以高度連接性和流動性為特徵的環境中，加上心血管疾病的激增，通過遠程監控心血管健康來削減醫療保健支出的必要性變得更加明顯。準確檢測和分類心律不整對於診斷患有心臟不規則的人至關重要。本研究強調了在家中使用心電圖 (ECG) 測量進行實時心律不整檢測的可行性。本文提出了一種新的心律不整檢測應用，利用尖端的 You-Only-Look-Once (YOLO)v8 演算法對單導聯 ECG 訊號進行分類。我們引入了一個新穎的損失修改 YOLOv8 模型，並針對 MIT-BIH 心律不整資料集進行了微調，從而實現了實時的持續監控。獲得的結果證實了我們方法的有效性，該模型在 NVIDIA Tesla V100 上達到了 99.5% 的平均準確度和 0.992 mAP@50，以及 0.002 秒的快速檢測時間。我們的研究說明了實時心律不整檢測的潛力，使用戶能夠在家中舒適地視覺化解讀模型輸出。此外，本研究為擴展到實時可解釋 AI (XAI) 模型奠定了基礎，該模型能夠部署在醫療保健領域，從而顯著推進醫療保健解決方案的領域。</paragraph>
-
-##### **Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**
-2305.14389v2 by Jai Vardhan, Taraka Satya Krishna Teja Malisetti
-
-Breast cancer (BC) remains a significant health threat, with no long-term
-cure currently available. Early detection is crucial, yet mammography
-interpretation is hindered by high false positives and negatives. With BC
-incidence projected to surpass lung cancer, improving early detection methods
-is vital. Thermography, using high-resolution infrared cameras, offers promise,
-especially when combined with artificial intelligence (AI). This work presents
-an attention-based convolutional neural network for segmentation, providing
-increased speed and precision in BC detection and classification. The system
-enhances images and performs cancer segmentation with explainable AI. We
-propose a transformer-attention-based convolutional architecture (UNet) for
-fault identification and employ Gradient-weighted Class Activation Mapping
-(Grad-CAM) to analyze areas of bias and weakness in the UNet architecture with
-IRT images. The superiority of our proposed framework is confirmed when
-compared with existing deep learning frameworks.
-
-摘要：乳癌（BC）仍然是一個重大的健康威脅，目前尚無長期治癒的方法。早期發現至關重要，但乳房攝影的判讀卻受到高假陽性和假陰性的阻礙。由於乳癌的發生率預計將超過肺癌，因此改善早期檢測方法至關重要。熱像攝影使用高解析度紅外線相機，特別是在與人工智慧（AI）結合使用時，提供了希望。這項工作提出了一個基於注意力的卷積神經網路用於分割，在乳癌檢測和分類中提供了更高的速度和精度。該系統增強影像並執行可解釋的 AI 癌症分割。我們提出了一個基於Transformer注意力的卷積架構（UNet）用於故障識別，並使用梯度加權類激活映射（Grad-CAM）來分析 UNet 架構中偏見和弱點的區域，使用 IRT 影像。與現有的深度學習框架相比，我們提出的框架的優越性得到證實。
 

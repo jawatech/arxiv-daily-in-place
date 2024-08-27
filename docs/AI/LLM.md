@@ -34,7 +34,7 @@
 |**2024-08-23**|**CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution**|Ruiyang Xu et.al.|[2408.13001v1](http://arxiv.org/abs/2408.13001v1)|null|
 |**2024-08-23**|**Enhancing Knowledge Tracing with Concept Map and Response Disentanglement**|Soonwook Park et.al.|[2408.12996v1](http://arxiv.org/abs/2408.12996v1)|[link](https://github.com/soonwook34/crkt)|
 |**2024-08-23**|**RIFF: Inducing Rules for Fraud Detection from Decision Trees**|João Lucas Martins et.al.|[2408.12989v1](http://arxiv.org/abs/2408.12989v1)|null|
-|**2024-08-23**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984v1](http://arxiv.org/abs/2408.12984v1)|null|
+|**2024-08-23**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984v2](http://arxiv.org/abs/2408.12984v2)|null|
 |**2024-08-23**|**QD-VMR: Query Debiasing with Contextual Understanding Enhancement for Video Moment Retrieval**|Chenghua Gao et.al.|[2408.12981v1](http://arxiv.org/abs/2408.12981v1)|null|
 |**2024-08-23**|**MedDec: A Dataset for Extracting Medical Decisions from Discharge Summaries**|Mohamed Elgaar et.al.|[2408.12980v1](http://arxiv.org/abs/2408.12980v1)|[link](https://github.com/clu-uml/meddec)|
 |**2024-08-23**|**Internal and External Knowledge Interactive Refinement Framework for Knowledge-Intensive Question Answering**|Haowei Du et.al.|[2408.12979v1](http://arxiv.org/abs/2408.12979v1)|null|
@@ -101,7 +101,7 @@
 |**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579v1](http://arxiv.org/abs/2408.12579v1)|null|
 |**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
 |**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
-|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v1](http://arxiv.org/abs/2408.12574v1)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v2](http://arxiv.org/abs/2408.12574v2)|null|
 
 #### Abstracts
 ##### **How Diffusion Models Learn to Factorize and Compose**
@@ -896,7 +896,7 @@ reducing their complexity and outperforming rules hand-tuned by experts.
 傳統上，詐欺偵測系統依賴於規則，因為它們具有透明度和可解釋性，這是需要解釋決策的領域中的關鍵特徵。然而，規則系統需要領域專家的大量輸入才能建立和調整，而規則歸納演算法嘗試透過直接從資料推論規則來減輕這個問題。我們探討這些演算法在詐欺偵測中的應用，其中規則系統受到約束，必須具有低誤報率 (FPR) 或警示率，方法是提出 RIFF，這是一種規則歸納演算法，可以從決策樹中直接萃取出低 FPR 規則組。我們的實驗顯示，歸納出的規則通常能夠維持或改善原始模型在低 FPR 任務中的效能，同時大幅降低其複雜性，而且表現優於專家手動調整的規則。
 
 ##### **Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**
-2408.12984v1 by Xiangxiang Shen, Zheng Wan, Lingfeng Wen, Licheng Sun, Ou Yang Ming Jie, Xuan Tang, Xian Zeng, Mingsong Chen, Xiao He, Xian Wei
+2408.12984v2 by Xiangxiang Shen, Zheng Wan, Lingfeng Wen, Licheng Sun, Ou Yang Ming Jie, Xuan Tang, Xian Zeng, Mingsong Chen, Xiao He, Xian Wei
 
 To date, the International Zeolite Association Structure Commission (IZA-SC)
 has cataloged merely 255 distinct zeolite structures, with millions of
@@ -922,7 +922,8 @@ crystal structures. Through comprehensive evaluation, our Zeoformer model
 demonstrates the best performance on OSDA-zeolite pair datasets and two types
 of crystal material datasets.
 
-摘要：截至目前，國際沸石協會結構委員會（IZA-SC）僅編目了 255 種不同的沸石結構，而理論上可能還有數百萬種結構尚未發現。特定沸石的合成通常需要使用有機結構導向劑 (OSDA)，因為對特定沸石選擇性的決定在很大程度上取決於 OSDA 與沸石之間的親和力。因此，找到最佳親和力 OSDA-沸石對是合成目標沸石的關鍵。然而，OSDA-沸石對經常表現出複雜的幾何結構，即由大量原子形成的複雜晶體結構。儘管一些現有的機器學習方法可以表示晶體的週期性，但它們無法準確表示具有局部變異性的晶體結構。為了解決這個問題，我們提出了一種名為 Zeoformer 的新方法，它可以有效地表示粗粒度的晶體週期性和細粒度的局部變異性。Zeoformer 重建以每個原子為中心的晶胞，並編碼該中心原子與重建晶胞內其他原子之間成對的距離。在重建晶胞內引入成對距離更有效地表示了晶胞的整體結構以及不同晶胞之間的差異，使模型能夠更準確、更有效地預測 OSDA-沸石對和一般晶體結構的性質。通過綜合評估，我們的 Zeoformer 模型在 OSDA-沸石對數據集和兩種類型的晶體材料數據集上展示了最佳性能。
+摘要：迄今為止，國際沸石協會結構委員會 (IZA-SC)
+僅編目了 255 種不同的沸石結構，還有數百萬種理論上可能存在的結構尚未被發現。特定沸石的合成通常需要使用有機結構導向劑 (OSDA)，因為對特定沸石選擇性的決定在很大程度上取決於 OSDA 與沸石之間的親和力。因此，找到最佳親和力的 OSDA-沸石對是合成目標沸石的關鍵。然而，OSDA-沸石對經常表現出複雜的幾何結構，即由大量原子形成的複雜晶體結構。儘管一些現有的機器學習方法可以表示晶體的週期性，但它們無法準確表示具有局部變異性的晶體結構。為了解決這個問題，我們提出了一種稱為 Zeoformer 的新方法，它可以有效地表示粗粒度的晶體週期性和細粒度的局部變異性。Zeoformer 重建以每個原子為中心的晶胞，並編碼該中心原子與重建晶胞內其他原子之間的成對距離。在重建的晶胞內引入成對距離更有效地表示了晶胞的整體結構和不同晶胞之間的差異，使模型能夠更準確、更高效地預測 OSDA-沸石對和一般晶體結構的性質。通過綜合評估，我們的 Zeoformer 模型在 OSDA-沸石對數據集和兩種類型的晶體材料數據集上展示了最佳性能。
 
 ##### **QD-VMR: Query Debiasing with Contextual Understanding Enhancement for Video Moment Retrieval**
 2408.12981v1 by Chenghua Gao, Min Li, Jianshuo Liu, Junxing Ren, Lin Chen, Haoyu Liu, Bo Meng, Jitao Fu, Wenwen Su
@@ -2486,7 +2487,7 @@ at: https://streamable.com/jjw54x.
 摘要：目前停車場感知演算法主要專注於偵測有限範圍內的空位，依賴容易出錯的同形投影進行標記和推論。然而，進階駕駛輔助系統 (ADAS) 的最新進展需要透過全面且智慧的人機介面 (HMI) 與使用者互動。這些介面應該呈現停車場的完整感知，從辨別空位的入口線到其他停車車輛的方向。本文介紹多任務魚眼交叉視角Transformer (MT F-CVT)，它利用來自四鏡頭魚眼環景攝影系統 (SVCS) 的特徵和多頭注意力來建立詳細的鳥瞰視角 (BEV) 格線特徵圖。特徵由分割解碼器和基於 Polygon-Yolo 的物件偵測解碼器處理，用於停車位和車輛。在使用 LiDAR 標記的資料上進行訓練，MT F-CVT 將物件定位在 25 公尺 x 25 公尺的真實露天場景中，平均誤差僅 20 公分。我們的較大模型達到 F-1 分數 0.89。此外，較小的模型在 Nvidia Jetson Orin 嵌入式電路板上以 16 fps 運作，偵測結果與較大的模型類似。MT F-CVT 展示了在不同車輛和相機裝置組態中強大的泛化能力。來自未見車輛和相機裝置組態的示範影片可於此處取得：https://streamable.com/jjw54x。
 
 ##### **MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**
-2408.12574v1 by Haojun Shi, Suyu Ye, Xinyu Fang, Chuanyang Jin, Layla Isik, Yen-Ling Kuo, Tianmin Shu
+2408.12574v2 by Haojun Shi, Suyu Ye, Xinyu Fang, Chuanyang Jin, Leyla Isik, Yen-Ling Kuo, Tianmin Shu
 
 Understanding people's social interactions in complex real-world scenarios
 often relies on intricate mental reasoning. To truly understand how and why
@@ -2510,5 +2511,5 @@ Multi-agent Planning). Our experimental results show that LIMP significantly
 outperforms state-of-the-art methods, including large multi-modal models (e.g.,
 GPT-4o, Gemini-1.5 Pro) and a recent multi-modal ToM model, BIP-ALM.
 
-摘要：理解人們在複雜的現實世界場景中的社交互動通常依賴於複雜的心智推理。為了真正了解人們如何以及為何彼此互動，我們必須推論出導致社交互動的底層心智狀態，即多主體互動中的心智理論推理。此外，社交互動通常是多模態的——我們可以觀察人們的行為、傾聽他們的對話和/或閱讀他們過去的行為。為了讓人工智慧系統在現實世界環境中成功且安全地與人互動，他們還需要了解人們的心智狀態，以及他們根據關於互動的多模態資訊對彼此心智狀態的推論。為此，我們引入了 MuMA-ToM，一個多模態多主體心智理論基準。MuMA-ToM 是第一個多模態心智理論基準，它評估了具體化多主體互動中的心智推理。在 MuMA-ToM 中，我們提供了人們在現實家庭環境中的多模態行為的影片和文字描述。然後，根據背景，我們詢問有關人們的目標、信念和對他人目標的信念的問題。我們在人類實驗中驗證了 MuMA-ToM 並提供了人類基準。我們還提出了一種新穎的多模態、多主體心智理論模型 LIMP（基於語言模型的反向多主體規劃）。我們的實驗結果表明，LIMP 明顯優於最先進的方法，包括大型多模態模型（例如 GPT-4o、Gemini-1.5 Pro）和最近的多模態心智理論模型 BIP-ALM。
+摘要：<paragraph>理解人們在複雜的現實世界情境中的社交互動，通常仰賴複雜的心理推理。為了真正理解人們如何以及為何彼此互動，我們必須推論出導致社交互動的基本心理狀態，也就是多重代理互動中的心智理論推理。此外，社交互動通常是多模態的——我們可以觀察人們的行為、聆聽他們的對話，和/或閱讀關於他們過去行為的資料。為了讓 AI 系統能夠成功且安全地與現實世界環境中的人們互動，他們也需要理解人們的心理狀態，以及他們根據關於互動的多模態資訊對彼此心理狀態的推論。為此，我們引入了 MuMA-ToM，一個多模態多重代理心智理論基準。MuMA-ToM 是第一個多模態心智理論基準，用於評估具體化多重代理互動中的心理推理。在 MuMA-ToM 中，我們提供了在逼真的家庭環境中人們的多模態行為的影片和文字說明。然後，根據脈絡，我們詢問有關人們的目標、信念以及對他人目標的信念的問題。我們在人類實驗中驗證了 MuMA-ToM，並提供了人類基準。我們還提出了新穎的多模態多重代理 ToM 模型，LIMP（基於語言模型的反向多重代理規劃）。我們的實驗結果顯示，LIMP 明顯優於最先進的方法，包括大型多模態模型（例如 GPT-4o、Gemini-1.5 Pro）和最近的多模態 ToM 模型 BIP-ALM。</paragraph>
 

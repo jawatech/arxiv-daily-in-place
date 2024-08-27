@@ -23,7 +23,7 @@
 |**2024-08-22**|**MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents**|Congchi Yin et.al.|[2408.12142v1](http://arxiv.org/abs/2408.12142v1)|[link](https://github.com/lemonsis/mdd-5k)|
 |**2024-08-22**|**DRExplainer: Quantifiable Interpretability in Drug Response Prediction with Directed Graph Convolutional Network**|Haoyuan Shi et.al.|[2408.12139v1](http://arxiv.org/abs/2408.12139v1)|[link](https://github.com/vshy-dream/drexplainer)|
 |**2024-08-22**|**Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards**|Shresth Verma et.al.|[2408.12112v1](http://arxiv.org/abs/2408.12112v1)|null|
-|**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095v1](http://arxiv.org/abs/2408.12095v1)|null|
+|**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095v2](http://arxiv.org/abs/2408.12095v2)|null|
 |**2024-08-21**|**Federated Diabetes Prediction in Canadian Adults Using Real-world Cross-Province Primary Care Data**|Guojun Tang et.al.|[2408.12029v1](http://arxiv.org/abs/2408.12029v1)|null|
 |**2024-08-21**|**Exploring Large Language Models for Feature Selection: A Data-centric Perspective**|Dawei Li et.al.|[2408.12025v1](http://arxiv.org/abs/2408.12025v1)|null|
 |**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735v1](http://arxiv.org/abs/2408.11735v1)|null|
@@ -68,7 +68,7 @@
 |**2024-08-15**|**Assessing and Enhancing Large Language Models in Rare Disease Question-answering**|Guanchu Wang et.al.|[2408.08422v1](http://arxiv.org/abs/2408.08422v1)|null|
 |**2024-08-15**|**Decoding the human brain tissue response to radiofrequency excitation using a biophysical-model-free deep MRI on a chip framework**|Dinor Nagar et.al.|[2408.08376v2](http://arxiv.org/abs/2408.08376v2)|null|
 |**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264v1](http://arxiv.org/abs/2408.08264v1)|[link](https://github.com/desreslab/invaert4cardio)|
-|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
+|**2024-08-15**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v2](http://arxiv.org/abs/2408.08182v2)|null|
 |**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058v1](http://arxiv.org/abs/2408.08058v1)|null|
 |**2024-08-15**|**Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx**|Ana Fernández del Río et.al.|[2408.08024v1](http://arxiv.org/abs/2408.08024v1)|null|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981v1](http://arxiv.org/abs/2408.07981v1)|null|
@@ -625,7 +625,7 @@ LLM-based approaches.
 摘要：LLM  zunehmend verwendet werden, um Belohnungsfunktionen basierend auf menschlichen Präferenzen in Reinforcement Learning (RL) zu entwerfen. Wir konzentrieren uns auf LLM-entworfene Belohnungen für Restless Multi-Armed Bandits, ein Framework zur Zuweisung begrenzter Ressourcen unter Agenten. In Anwendungen wie dem öffentlichen Gesundheitswesen ermöglicht dieser Ansatz Basisgesundheitsfachkräften, automatisierte Zuweisungsentscheidungen auf die Bedürfnisse der Gemeinschaft zuzuschneiden. In Gegenwart mehrerer Agenten kann die Änderung der Belohnungsfunktion basierend auf menschlichen Präferenzen Untergruppen sehr unterschiedlich beeinflussen, was zu komplexen Kompromissen und einem mehrzielgerichteten Ressourcenzuweisungsproblem führt. Wir sind die Ersten, die eine prinzipielle Methode namens Social Choice Language Model für den Umgang mit diesen Kompromissen für LLM-entworfene Belohnungen für Multiagentenplaner im Allgemeinen und unruhige Banditen im Besonderen vorstellen. Der neuartige Teil unseres Modells ist eine transparente und konfigurierbare Auswahlkomponente, die als Schiedsrichter bezeichnet wird und sich außerhalb des LLM befindet und komplexe Kompromisse über eine vom Benutzer ausgewählte soziale Wohlfahrtsfunktion steuert. Unsere Experimente zeigen, dass unser Modell im Vergleich zu rein LLM-basierten Ansätzen zuverlässig effektivere, ausgerichtete und ausgewogene Belohnungsfunktionen auswählt.
 
 ##### **uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**
-2408.12095v1 by Aishik Nagar, Yutong Liu, Andy T. Liu, Viktor Schlegel, Vijay Prakash Dwivedi, Arun-Kumar Kaliya-Perumal, Guna Pratheep Kalanchiam, Yili Tang, Robby T. Tan
+2408.12095v2 by Aishik Nagar, Yutong Liu, Andy T. Liu, Viktor Schlegel, Vijay Prakash Dwivedi, Arun-Kumar Kaliya-Perumal, Guna Pratheep Kalanchiam, Yili Tang, Robby T. Tan
 
 Medical abstractive summarization faces the challenge of balancing
 faithfulness and informativeness. Current methods often sacrifice key
@@ -651,7 +651,7 @@ or missing information. These results highlight uMedSum's effectiveness and
 generalizability across various datasets and metrics, marking a significant
 advancement in medical summarization.
 
-摘要：<paragraph>醫療摘要摘要面臨著平衡忠實度和資訊性的挑戰。目前的技術通常為了忠實度而犧牲關鍵資訊，或在優先考慮資訊性時引入虛構。雖然情境學習 (ICL) 和微調等技術的最新進展改善了醫療摘要，但它們常常忽略關鍵方面，例如忠實度和資訊性，而不考慮模型推理和自我改進等先進方法。此外，該領域缺乏統一的基準，由於指標和資料集不同而阻礙了系統性評估。本文透過使用五個標準化指標，在三個不同的資料集上對六種先進的抽象摘要方法進行全面基準測試，來解決這些差距。根據這些發現，我們提出 uMedSum，一個模組化混合摘要架構，它引入了新的方法，用於連續虛構移除，然後是關鍵遺失資訊新增，確保忠實度和資訊性。我們的研究改進了先前的基於 GPT-4 的最先進 (SOTA) 醫療摘要方法，在量化指標和定性領域專家評估中都顯著優於它們。值得注意的是，我們在無參考指標中實現了相對於先前 SOTA 平均 11.8% 的相對效能提升。在可能有虛構或遺失資訊的困難案例中，醫生更喜歡 uMedSum 的摘要，比先前的 SOTA 多 6 倍。這些結果突顯了 uMedSum 在各種資料集和指標中的有效性和普遍性，標誌著醫療摘要的重大進展。</paragraph>
+摘要：<paragraph>醫學摘要摘要面臨平衡忠實度和資訊性的挑戰。目前的許多方法經常犧牲關鍵資訊以換取忠實度，或在優先考量資訊性時引入虛構。雖然情境內學習 (ICL) 和微調等技術的最新進展已改善了醫學摘要，但它們經常忽略關鍵層面，例如忠實度和資訊性，而未考慮模型推理和自我改善等進階方法。此外，該領域缺乏統一的基準，由於不同的指標和資料集而阻礙了系統性評估。本文透過提出六種進階抽象摘要方法的綜合基準，使用五種標準化指標跨越三個不同的資料集，來解決這些差距。根據這些發現，我們提出了 uMedSum，這是一個模組化的混合摘要架構，它引入了用於連續虛構移除的創新方法，接著是關鍵遺漏資訊的加入，確保忠實度和資訊性。我們的研究改進了先前的基於 GPT-4 的最先進 (SOTA) 醫學摘要方法，在量化指標和定性領域專家評估中都顯著優於它們。值得注意的是，我們在無參考指標中實現了相對於先前 SOTA 11.8% 的平均相對效能提升。在可能出現虛構或遺漏資訊的困難案例中，醫生比先前的 SOTA 更喜歡 uMedSum 的摘要 6 倍。這些結果突顯了 uMedSum 在各種資料集和指標中的有效性和概括性，標誌著醫學摘要的重大進展。</paragraph>
 
 ##### **Federated Diabetes Prediction in Canadian Adults Using Real-world Cross-Province Primary Care Data**
 2408.12029v1 by Guojun Tang, Jason E. Black, Tyler S. Williamson, Steve H. Drew
@@ -1776,27 +1776,27 @@ real data with missing components.
 摘要：從電子健康紀錄 (EHR) 估計心血管模型參數主要由於缺乏可識別性而構成重大挑戰。
 當參數空間中的流形對應到共同輸出時，會產生結構性不可識別性，而由於資料有限、模型錯誤規範或雜訊破壞，可能會導致實際不可識別性。為了解決由此產生的不適定反問題，基於最佳化的貝氏推論方法通常使用正則化，從而限制發現多重解的可能性。在本研究中，我們使用 inVAErt 網路，這是一種基於神經網路、資料驅動的架構，用於增強僵硬動態系統的數位雙胞胎分析。我們展示了 inVAErt 網路在生理反演中的靈活性與有效性，從合成資料到缺少組成的真實資料，反演六隔間集總參數血流動力模型。
 
-##### **Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**
-2408.08182v1 by Qiushuo Cheng, Catherine Morgan, Arindam Sikdar, Alessandro Masullo, Alan Whone, Majid Mirmehdi
+##### **Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**
+2408.08182v2 by Qiushuo Cheng, Catherine Morgan, Arindam Sikdar, Alessandro Masullo, Alan Whone, Majid Mirmehdi
 
 People with Parkinson's Disease (PD) often experience progressively worsening
 gait, including changes in how they turn around, as the disease progresses.
 Existing clinical rating tools are not capable of capturing hour-by-hour
 variations of PD symptoms, as they are confined to brief assessments within
-clinic settings. Measuring real-world gait turning angles continuously and
-passively is a component step towards using gait characteristics as sensitive
-indicators of disease progression in PD. This paper presents a deep
-learning-based approach to automatically quantify turning angles by extracting
-3D skeletons from videos and calculating the rotation of hip and knee joints.
-We utilise state-of-the-art human pose estimation models, Fastpose and Strided
+clinic settings. Measuring gait turning angles continuously and passively is a
+component step towards using gait characteristics as sensitive indicators of
+disease progression in PD. This paper presents a deep learning-based approach
+to automatically quantify turning angles by extracting 3D skeletons from videos
+and calculating the rotation of hip and knee joints. We utilise
+state-of-the-art human pose estimation models, Fastpose and Strided
 Transformer, on a total of 1386 turning video clips from 24 subjects (12 people
 with PD and 12 healthy control volunteers), trimmed from a PD dataset of
 unscripted free-living videos in a home-like setting (Turn-REMAP). We also
 curate a turning video dataset, Turn-H3.6M, from the public Human3.6M human
 pose benchmark with 3D ground truth, to further validate our method. Previous
 gait research has primarily taken place in clinics or laboratories evaluating
-scripted gait outcomes, but this work focuses on real-world settings where
-complexities exist, such as baggy clothing and poor lighting. Due to
+scripted gait outcomes, but this work focuses on free-living home settings
+where complexities exist, such as baggy clothing and poor lighting. Due to
 difficulties in obtaining accurate ground truth data in a free-living setting,
 we quantise the angle into the nearest bin $45^\circ$ based on the manual
 labelling of expert clinicians. Our method achieves a turning calculation
@@ -1805,7 +1805,7 @@ precision WPrec of 68.3% for Turn-REMAP. This is the first work to explore the
 use of single monocular camera data to quantify turns by PD patients in a home
 setting.
 
-摘要：帕金森氏症 (PD) 患者经常会随着疾病的进展而出现步态逐渐恶化的现象，包括转身方式的变化。现有的临床评定工具无法捕捉到 PD 症状逐小时的变化，因为它们仅限于在临床环境中进行短暂的评估。连续被动地测量现实世界中的步态转弯角度是将步态特征用作 PD 疾病进展的敏感指标的组成部分。本文提出了一种基于深度学习的方法，通过从视频中提取 3D 骨架并计算髋关节和膝关节的旋转，自动量化转弯角度。我们对来自 24 个受试者（12 名 PD 患者和 12 名健康对照志愿者）的总共 1386 个转弯视频剪辑使用了最先进的人体姿势估计模型 Fastpose 和 Strided Transformer，这些剪辑是从家庭环境中无脚本自由生活视频的 PD 数据集（Turn-REMAP）中截取的。我们还从具有 3D 真实的公共 Human3.6M 人体姿势基准中整理了一个转弯视频数据集 Turn-H3.6M，以进一步验证我们的方法。以往的步态研究主要在评估脚本化步态结果的诊所或实验室中进行，但这项工作重点关注存在复杂性的现实世界环境，例如宽松的衣服和光线不足。由于在自由生活环境中难以获得准确的真实数据，我们根据专家临床医生的手动标记，将角度量化为最接近的箱 $45^\circ$。我们的方法对 Turn-REMAP 的转弯计算准确度达到 41.6%，平均绝对误差 (MAE) 为 34.7{\deg}，加权精度 WPrec 为 68.3%。这是首次探索使用单目单眼相机数据来量化 PD 患者在家中转弯情况的工作。
+摘要：帕金森氏症 (PD) 患者隨著疾病進程，通常會經歷逐漸惡化的步態，包括轉身方式的變化。現有的臨床評分工具無法捕捉 PD 症狀逐小時的變化，因為它們僅限於在臨床環境中進行簡短評估。持續且被動地測量步態轉彎角度是將步態特徵用作 PD 疾病進程敏感指標的組成步驟。本文提出了一種基於深度學習的方法，通過從影片中提取 3D 骨架並計算髖關節和膝關節的旋轉，自動量化轉彎角度。我們在來自 24 個受試者（12 名 PD 患者和 12 名健康對照志工）的總共 1386 個轉彎影片剪輯中，利用了最先進的人體姿勢估計模型 Fastpose 和 Strided Transformer，這些剪輯取自家庭環境中未編寫腳本的自由生活影片的 PD 資料集（Turn-REMAP）。我們還從具有 3D 基本事實的公共 Human3.6M 人體姿勢基準中策劃了一個轉彎影片資料集 Turn-H3.6M，以進一步驗證我們的模型。先前的步態研究主要在評估腳本化步態結果的診所或實驗室中進行，但這項工作重點關注存在複雜性的自由生活家庭環境，例如寬鬆的衣服和昏暗的燈光。由於在自由生活環境中難以獲得準確的基本事實資料，我們根據專家臨床醫生的手動標記，將角度量化為最接近的區間 $45^\circ$。我們的模型對 Turn-REMAP 的轉彎計算準確度為 41.6%，平均絕對誤差 (MAE) 為 34.7{\deg}，加權精確度 WPrec 為 68.3%。這是第一個探索使用單一單目相機資料，在家庭環境中量化 PD 患者轉彎的研究。
 
 ##### **Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**
 2408.08058v1 by Stefano Woerner, Christian F. Baumgartner

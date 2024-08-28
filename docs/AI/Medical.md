@@ -5,7 +5,7 @@
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397v1](http://arxiv.org/abs/2408.14397v1)|[link](https://github.com/rajpurkarlab/rexkg)|
-|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v1](http://arxiv.org/abs/2408.14340v1)|[link](https://github.com/nicolaus625/fm4music)|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v2](http://arxiv.org/abs/2408.14340v2)|[link](https://github.com/nicolaus625/fm4music)|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Automatic Medical Report Generation: Methods and Applications**|Li Guo et.al.|[2408.13988v1](http://arxiv.org/abs/2408.13988v1)|null|
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
@@ -26,7 +26,7 @@
 |**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
 |**2024-08-22**|**Class-balanced Open-set Semi-supervised Object Detection for Medical Images**|Zhanyun Lu et.al.|[2408.12355v1](http://arxiv.org/abs/2408.12355v1)|null|
 |**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315v1](http://arxiv.org/abs/2408.12315v1)|null|
-|**2024-08-22**|**Tipta uzmanlik sinavinda (tus) büyük dil modelleri insanlardan daha mi başarili?**|Yesim Aygul et.al.|[2408.12305v1](http://arxiv.org/abs/2408.12305v1)|null|
+|**2024-08-22**|**Tipta uzmanlik sinavinda (tus) buyuk dil modelleri insanlardan daha mi basarili?**|Yesim Aygul et.al.|[2408.12305v2](http://arxiv.org/abs/2408.12305v2)|null|
 |**2024-08-22**|**Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**|Shaoxiang Dang et.al.|[2408.12279v1](http://arxiv.org/abs/2408.12279v1)|null|
 |**2024-08-22**|**LLMs are not Zero-Shot Reasoners for Biomedical Information Extraction**|Aishik Nagar et.al.|[2408.12249v1](http://arxiv.org/abs/2408.12249v1)|null|
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
@@ -89,7 +89,7 @@
 |**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|null|
 |**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576v2](http://arxiv.org/abs/2408.07576v2)|[link](https://github.com/hyunwoo137/metaseg)|
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|[link](https://github.com/hku-medai/mult-ehr)|
-|**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v1](http://arxiv.org/abs/2408.07531v1)|null|
+|**2024-08-14**|**Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v2](http://arxiv.org/abs/2408.07531v2)|null|
 |**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
 |**2024-08-14**|**The Complexity of Manipulation of k-Coalitional Games on Graphs**|Hodaya Barr et.al.|[2408.07368v1](http://arxiv.org/abs/2408.07368v1)|[link](https://github.com/hodayaBen/The-Complexity-of-Manipulation-of-k-Coalitional-Games-on-Graphs)|
 |**2024-08-13**|**Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**|Arya Hadizadeh Moghaddam et.al.|[2408.10259v1](http://arxiv.org/abs/2408.10259v1)|null|
@@ -172,7 +172,7 @@ performance and clinical applicability.
 摘要：近期人工智能的進展顯著改善了放射報告的自動生成。然而，現有的評估方法無法揭示模型對放射影像的理解，以及它們在描述中達到人類層級精細度的能力。為了彌補這個差距，我們引進一個名為 ReXKG 的系統，它從處理過的報告中萃取出結構化的資訊，以建構一個全面的放射知識圖譜。接著，我們提出三個指標來評估各種知識圖譜中節點的相似性 (ReXKG-NSC)、邊緣的分布 (ReXKG-AMS) 和子圖的涵蓋範圍 (ReXKG-SCS)。我們對 AI 生成的和人類撰寫的放射報告進行深入的比較分析，評估專家和通才模型的效能。我們的研究提供對目前 AI 模型在放射報告生成中的能力和限制更深入的理解，並提供有價值的見解來改善模型效能和臨床應用。
 
 ##### **Foundation Models for Music: A Survey**
-2408.14340v1 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
+2408.14340v2 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
 
 In recent years, foundation models (FMs) such as large language models (LLMs)
 and latent diffusion models (LDMs) have profoundly impacted diverse sectors,
@@ -198,7 +198,7 @@ transparency, human responsibility, and copyright issues. The paper offers
 insights into future challenges and trends on FMs for music, aiming to shape
 the trajectory of human-AI collaboration in the music realm.
 
-摘要：近年來，諸如大型語言模型（LLM）和潛在擴散模型（LDM）等基礎模型（FM）已對包括音樂在內的不同領域產生了深遠的影響。這篇綜合評論探討了音樂中最先進（SOTA）的預訓練模型和基礎模型，涵蓋表徵學習、生成學習和多模態學習。我們首先將音樂在各產業中的重要性脈絡化，並追溯 AI 在音樂中的演進。透過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中仍未被充分探索。然後，我們強調先前方法在不同音樂應用中缺乏多樣性，以及 FM 在音樂理解、生成和醫療應用中的潛力。透過全面探討模型預訓練範例、架構選擇、符號化、微調方法和可控性的細節，我們強調了應深入探討的重要主題，例如指令調整和情境學習、規模法則和新興能力，以及長序列建模等。專門的部分提供了對音樂代理的見解，並伴隨著對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，透過強調倫理考量的至關重要性，我們主張後續關於音樂 FM 的研究應更專注於可解釋性、透明度、人類責任和版權等問題。本文提供了對音樂 FM 未來挑戰和趨勢的見解，旨在塑造人類與 AI 在音樂領域中合作的軌跡。
+摘要：近年來，基礎模型（FM），例如大型語言模型（LLM）和潛在擴散模型（LDM），對包括音樂在內的各個領域產生了深遠的影響。這篇綜合性評論探討了音樂領域中最先進（SOTA）的預訓練模型和基礎模型，涵蓋了表徵學習、生成式學習和多模態學習。我們首先將音樂在各個產業中的重要性脈絡化，並追溯 AI 在音樂中的演變。通過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中尚未被充分探索。接下來，我們強調了先前方法在各種音樂應用中缺乏多功能性，以及 FM 在音樂理解、生成和醫療應用中的潛力。通過全面探討模型預訓練範例、架構選擇、標記化、微調方法和可控性的細節，我們強調了應該深入探討的重要主題，例如指令微調和情境學習、規模定律和新興能力，以及長序列建模等。一個專門的章節提供了對音樂代理的見解，並附有對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，通過強調倫理考量的至關重要性，我們主張後續針對音樂 FM 的研究應更多地關注可解釋性、透明度、人類責任和版權問題等議題。本文深入探討了音樂 FM 未來的挑戰和趨勢，旨在形塑人類與 AI 在音樂領域中合作的軌跡。
 
 ##### **Uncertainties of Latent Representations in Computer Vision**
 2408.14281v1 by Michael Kirchhof
@@ -684,8 +684,8 @@ of its intermediate generation, and more.
 
 摘要：使用一組由人類撰寫的示範來指導大型語言模型是一種改善 LLM 應用程式的常見做法。然而，人力成本可能很高，特別是在專業領域（例如臨床診斷）中，而且由於選定的示範與實際測試實例之間目標技能的潛在差異，並不能保證最佳效能。基於這些動機，本文探討了自動建立自訂示範，其目標技能與給定的目標實例一致。我們提出了一個問題解決架構 SELF-TAUGHT，它可以促進「針對」目標問題「篩選」出更高品質（即正確性）的示範，且採用零次學習的方式。在多個領域的多選題任務和對真實世界患者進行阿茲海默症 (AD) 診斷的 15 項任務中，SELF-TAUGHT 達到了優於強大基準（例如 Few-shot CoT、Plan-and-Solve、Auto-CoT）的效能。我們對 SELF-TAUGHT 進行了全面的分析，包括其對現有提示方法和不同 LLM 的概括性、其中間產生的品質等等。
 
-##### **Tipta uzmanlik sinavinda (tus) büyük dil modelleri insanlardan daha mi başarili?**
-2408.12305v1 by Yesim Aygul, Muge Olucoglu, Adil Alpkocak
+##### **Tipta uzmanlik sinavinda (tus) buyuk dil modelleri insanlardan daha mi basarili?**
+2408.12305v2 by Yesim Aygul, Muge Olucoglu, Adil Alpkocak
 
 The potential of artificial intelligence in medical education and assessment
 has been made evident by recent developments in natural language processing and
@@ -705,17 +705,8 @@ artificial intelligence in medical education and assessment. It demonstrates
 that advanced models can achieve high accuracy and contextual understanding,
 demonstrating their potential role in medical education and evaluation.
 
-摘要：人工智能在醫學教育和評量中的潛力
-最近在自然語言處理和人工智能的發展已證明。醫學問題現在可以由
-人工智能演算法成功回答。它可以幫助醫療從業者。本
-研究評估了三個不同的人工智能模型在回答 2021 年第 1 學期醫學
-專科考試 (MSE) 中的土耳其醫學問題時的表現。MSE 總共包含 240 個
-問題，涵蓋臨床 (CMST) 和基礎 (BMST) 醫學科學。根據
-CMST 的結果，得出結論，Gemini 正確回答了 82 個問題，
-ChatGPT-4 回答了 105 個問題，而 ChatGPT-4o 回答了 117 個問題。在
-BMST 中，根據答案關鍵，Gemini 和 ChatGPT-4 回答了 93 個問題，而 ChatGPT-4o 回答了 107
-個問題。根據 CMST 和 BMST，ChatGPT-4o 分別優於得分最高的 113 和 106 的考生。本研究強調了
-人工智能在醫學教育和評量中的潛力。它證明了先進的模型可以實現高準確度和脈絡理解，展示了它們在醫學教育和評估中的潛在作用。
+摘要：人工智能在医学教育和評估中的潛力
+最近自然語言處理和人工智能的發展，證明了人工智能在醫學教育和評估中的潛力。人工智能演算法現在可以成功回答醫學問題。它可以幫助醫療從業人員。這項研究評估了三種不同的人工智能模型在回答 2021 年第 1 學期醫學專科考試 (MSE) 中的土耳其醫學問題時的表現。MSE 總共包含 240 題，涵蓋臨床 (CMST) 和基礎 (BMST) 醫學科學。根據 CMST 的結果，結論是 Gemini 正確回答了 82 題，ChatGPT-4 回答了 105 題，ChatGPT-4o 回答了 117 題。在 BMST 中，根據答案關鍵，Gemini 和 ChatGPT-4 回答了 93 題，ChatGPT-4o 回答了 107 題。根據 CMST 和 BMST，ChatGPT-4o 的表現優於分別獲得 113 分和 106 分的最高分考生。這項研究突顯了人工智能在醫學教育和評估中的潛力。它證明了進階模型可以達到高準確度和情境理解，展現了它們在醫學教育和評估中的潛在作用。
 
 ##### **Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**
 2408.12279v1 by Shaoxiang Dang, Tetsuya Matsumoto, Yoshinori Takeuchi, Takashi Tsuboi, Yasuhiro Tanaka, Daisuke Nakatsubo, Satoshi Maesawa, Ryuta Saito, Masahisa Katsuno, Hiroaki Kudo
@@ -2307,8 +2298,8 @@ upon variations to key components and hyperparameters.
 
 摘要：<paragraph>學習電子健康紀錄（EHR）由於其促進準確醫療診斷的能力而備受關注。由於 EHR 包含豐富資訊，指定實體之間的複雜互動，因此使用圖形建模 EHR 已被證明在實務上很有效。然而，EHR 呈現出高度的異質性、稀疏性和複雜性，這會阻礙應用於它們的大多數模型的效能。此外，現有的建模 EHR 方法通常專注於學習單一任務的表示，忽略 EHR 分析問題的多任務性質，並導致跨不同任務的概括能力有限。有鑑於這些限制，我們提出了 EHR 建模的新架構，即 MulT-EHR（多任務 EHR），它利用異質圖來挖掘複雜關係並建模 EHR 中的異質性。為了減輕大量的雜訊，我們引入了基於因果推論架構的去雜訊模組，以調整嚴重的混淆效應並減少 EHR 資料中的雜訊。此外，由於我們的模型採用單一圖形神經網路進行同時的多任務預測，因此我們設計了一個多任務學習模組，以利用任務間的知識來規範訓練過程。在 MIMIC-III 和 MIMIC-IV 資料集上的廣泛實證研究驗證了所提出的方法在四項流行的 EHR 分析任務中始終優於最先進的設計——藥物推薦以及預測住院時間、死亡率和再入院率。徹底的消融研究證明了我們的方法在關鍵組成部分和超參數變化上的穩健性。</paragraph>
 
-##### **Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**
-2408.07531v1 by Seungjun Han, Wongyung Choi
+##### **Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**
+2408.07531v2 by Seungjun Han, Wongyung Choi
 
 Emergency department (ED) overcrowding and the complexity of rapid
 decision-making in critical care settings pose significant challenges to
@@ -2336,10 +2327,10 @@ overcrowding and improving patient outcomes. This work contributes to the
 growing field of AI applications in emergency medicine and offers a promising
 direction for future research and clinical implementation.
 
-摘要：<paragraph>急診室（ED）人滿為患，以及在重症照護環境中快速做決定的複雜性對全球的醫療保健系統構成重大挑戰。雖然臨床決策支援系統（CDSS）已展現前景，但大型語言模型（LLM）的整合為提升分流準確度和臨床決策提供了新的可能性。本研究提出一個由 LLM 驅動的 CDSS，旨在協助急診室醫師和護理師進行病人分流、治療計畫和整體緊急照護管理。
-  我們開發了一個多重代理 CDSS，利用 Llama-3-70b 作為基礎 LLM，由 CrewAI 和 Langchain 編排。此系統包含四個模擬關鍵急診室角色的 AI 代理：分流護理師、急診醫師、藥師和急診室協調員。它整合韓國分流與嚴重指數量表（KTAS）進行分流評估，並與 RxNorm API 整合進行藥物管理。
-  該模型使用 Asclepius 資料集進行評估，由臨床急診醫學專家評估其效能。與單一代理系統的基準相比，CDSS 在分流決策方面展現高準確度。此外，該系統在主要診斷、關鍵發現識別、處置決策、治療計畫和資源分配等關鍵領域表現出色。
-  我們的多重代理 CDSS 證明了在支援全面的緊急照護管理方面具有顯著的潛力。透過利用最先進的 AI 技術，此系統提供了一個可擴充且可適應的工具，可以提升緊急醫療照護的提供，進而可能緩解急診室人滿為患的情況並改善病患的預後。這項工作促進了 AI 在急診醫學中的應用領域，並為未來的研究和臨床實作提供了有前景的方向。</paragraph>
+摘要：<paragraph>急診部門 (ED) 人滿為患，以及在重症照護環境中快速決策的複雜性，對全球的醫療保健系統構成重大挑戰。雖然臨床決策支援系統 (CDSS) 已顯示出前景，但大型語言模型 (LLM) 的整合為提高分流準確度和臨床決策提供了新的可能性。本研究提出了一個由 LLM 驅動的 CDSS，旨在協助急診科醫師和護理師進行病人分流、治療計畫和整體緊急照護管理。
+  我們開發了一個多代理架構的 CDSS，利用 Llama-3-70b 作為基礎 LLM，由 CrewAI 和 Langchain 協調。該系統包含四個模擬關鍵急診科角色的人工智慧代理：分流護理師、急診科醫師、藥劑師和急診科協調員。它結合了韓國分流和嚴重程度量表 (KTAS) 進行分流評估，並與 RxNorm API 整合進行藥物管理。
+  該模型使用 Asclepius 資料集進行評估，由臨床急診醫學專家評估績效。與單一代理系統的基準相比，CDSS 在分流決策方面表現出很高的準確性。此外，該系統在主要診斷、關鍵發現識別、處置決策、治療計畫和資源分配等關鍵領域表現出色。
+  我們的多代理架構 CDSS 展示了在全面緊急照護管理中提供顯著支援的潛力。透過利用最先進的人工智慧技術，此系統提供了一個可擴充且可適應的工具，可以加強緊急醫療照護的提供，潛在減輕急診科人滿為患的情況並改善病人預後。這項工作有助於緊急醫學中的人工智慧應用領域的成長，並為未來的研究和臨床實作提供了有前景的方向。</paragraph>
 
 ##### **Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**
 2408.07395v1 by Xiaoyang Yu, Youfang Lin, Shuo Wang, Kai Lv, Sheng Han

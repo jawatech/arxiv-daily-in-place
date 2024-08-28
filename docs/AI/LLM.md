@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471v1](http://arxiv.org/abs/2408.14471v1)|[link](https://github.com/explainableml/fomo_in_flux)|
-|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470v1](http://arxiv.org/abs/2408.14470v1)|null|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470v2](http://arxiv.org/abs/2408.14470v2)|[link](https://github.com/Aradhye2002/selective-peft-toolkit)|
 |**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468v1](http://arxiv.org/abs/2408.14468v1)|null|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
 |**2024-08-26**|**Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2408.14441v1](http://arxiv.org/abs/2408.14441v1)|null|
@@ -22,7 +22,7 @@
 |**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368v1](http://arxiv.org/abs/2408.14368v1)|null|
 |**2024-08-26**|**SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**|Daoguang Zan et.al.|[2408.14354v1](http://arxiv.org/abs/2408.14354v1)|[link](https://github.com/multi-swe-bench/multi-swe-bench-env)|
 |**2024-08-26**|**Assessing Contamination in Large Language Models: Introducing the LogProber method**|Nicolas Yax et.al.|[2408.14352v1](http://arxiv.org/abs/2408.14352v1)|null|
-|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v1](http://arxiv.org/abs/2408.14340v1)|[link](https://github.com/nicolaus625/fm4music)|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v2](http://arxiv.org/abs/2408.14340v2)|[link](https://github.com/nicolaus625/fm4music)|
 |**2024-08-26**|**Machine Learning for Quantifier Selection in cvc5**|Jan Jakubův et.al.|[2408.14338v1](http://arxiv.org/abs/2408.14338v1)|null|
 |**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
 |**2024-08-26**|**Streamline tractography of the fetal brain in utero with machine learning**|Weide Liu et.al.|[2408.14326v1](http://arxiv.org/abs/2408.14326v1)|null|
@@ -32,7 +32,7 @@
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277v1](http://arxiv.org/abs/2408.14277v1)|null|
 |**2024-08-26**|**Self-supervised Speech Representations Still Struggle with African American Vernacular English**|Kalvin Chang et.al.|[2408.14262v1](http://arxiv.org/abs/2408.14262v1)|[link](https://github.com/cmu-llab/s3m-aave)|
-|**2024-08-26**|**Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**|Laurenz Reichardt et.al.|[2408.14253v1](http://arxiv.org/abs/2408.14253v1)|null|
+|**2024-08-26**|**Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**|Laurenz Reichardt et.al.|[2408.14253v2](http://arxiv.org/abs/2408.14253v2)|null|
 |**2024-08-26**|**Beyond Few-shot Object Detection: A Detailed Survey**|Vishal Chudasama et.al.|[2408.14249v1](http://arxiv.org/abs/2408.14249v1)|null|
 |**2024-08-26**|**Celtibero: Robust Layered Aggregation for Federated Learning**|Borja Molina-Coronado et.al.|[2408.14240v1](http://arxiv.org/abs/2408.14240v1)|null|
 |**2024-08-26**|**DSTI at LLMs4OL 2024 Task A: Intrinsic versus extrinsic knowledge for type classification**|Hanna Abi Akl et.al.|[2408.14236v1](http://arxiv.org/abs/2408.14236v1)|null|
@@ -40,7 +40,7 @@
 |**2024-08-26**|**MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**|Xu He et.al.|[2408.14211v1](http://arxiv.org/abs/2408.14211v1)|null|
 |**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185v1](http://arxiv.org/abs/2408.14185v1)|null|
 |**2024-08-26**|**I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing**|Yiwei Ma et.al.|[2408.14180v1](http://arxiv.org/abs/2408.14180v1)|[link](https://github.com/cocoshe/i2ebench)|
-|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176v1](http://arxiv.org/abs/2408.14176v1)|null|
+|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176v2](http://arxiv.org/abs/2408.14176v2)|null|
 |**2024-08-26**|**Dynamic Pricing for Electric Vehicle Charging**|Arun Kumar Kalakanti et.al.|[2408.14169v1](http://arxiv.org/abs/2408.14169v1)|null|
 |**2024-08-26**|**Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**|Wei An et.al.|[2408.14158v1](http://arxiv.org/abs/2408.14158v1)|null|
 |**2024-08-26**|**Investigating the effect of Mental Models in User Interaction with an Adaptive Dialog Agent**|Lindsey Vanderlyn et.al.|[2408.14154v1](http://arxiv.org/abs/2408.14154v1)|null|
@@ -49,9 +49,9 @@
 |**2024-08-26**|**Multi-Faceted Evaluation of Modeling Languages for Augmented Reality Applications -- The Case of ARWFML**|Fabian Muff et.al.|[2408.14137v1](http://arxiv.org/abs/2408.14137v1)|null|
 |**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v1](http://arxiv.org/abs/2408.14134v1)|null|
 |**2024-08-26**|**Contrastive Learning Subspace for Text Clustering**|Qian Yong et.al.|[2408.14119v1](http://arxiv.org/abs/2408.14119v1)|null|
-|**2024-08-26**|**Estimating Causal Effects from Learned Causal Networks**|Anna Raichev et.al.|[2408.14101v1](http://arxiv.org/abs/2408.14101v1)|null|
-|**2024-08-26**|**SONICS: Synthetic Or Not -- Identifying Counterfeit Songs**|Md Awsafur Rahman et.al.|[2408.14080v1](http://arxiv.org/abs/2408.14080v1)|null|
-|**2024-08-26**|**Enhancing Depression Diagnosis with Chain-of-Thought Prompting**|Elysia Shi et.al.|[2408.14053v1](http://arxiv.org/abs/2408.14053v1)|null|
+|**2024-08-26**|**Estimating Causal Effects from Learned Causal Networks**|Anna Raichev et.al.|[2408.14101v2](http://arxiv.org/abs/2408.14101v2)|null|
+|**2024-08-26**|**SONICS: Synthetic Or Not -- Identifying Counterfeit Songs**|Md Awsafur Rahman et.al.|[2408.14080v2](http://arxiv.org/abs/2408.14080v2)|null|
+|**2024-08-26**|**Enhancing Depression Diagnosis with Chain-of-Thought Prompting**|Elysia Shi et.al.|[2408.14053v2](http://arxiv.org/abs/2408.14053v2)|null|
 |**2024-08-26**|**Beyond Detection: Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks**|Alaeddine Diaf et.al.|[2408.14045v1](http://arxiv.org/abs/2408.14045v1)|null|
 |**2024-08-26**|**PAGE: Parametric Generative Explainer for Graph Neural Network**|Yang Qiu et.al.|[2408.14042v1](http://arxiv.org/abs/2408.14042v1)|null|
 |**2024-08-26**|**MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents**|Ruochen Li et.al.|[2408.14033v1](http://arxiv.org/abs/2408.14033v1)|[link](https://github.com/du-nlp-lab/mlr-copilot)|
@@ -68,7 +68,7 @@
 |**2024-08-26**|**TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models**|Zelin Li et.al.|[2408.13985v1](http://arxiv.org/abs/2408.13985v1)|null|
 |**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979v1](http://arxiv.org/abs/2408.13979v1)|[link](https://github.com/shyfoo/nemesis)|
 |**2024-08-26**|**Reducing the Cost: Cross-Prompt Pre-Finetuning for Short Answer Scoring**|Hiroaki Funayama et.al.|[2408.13966v1](http://arxiv.org/abs/2408.13966v1)|null|
-|**2024-08-25**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960v1](http://arxiv.org/abs/2408.13960v1)|[link](https://github.com/ai-for-edu/time-series-analysis-for-education)|
+|**2024-08-25**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960v2](http://arxiv.org/abs/2408.13960v2)|[link](https://github.com/ai-for-edu/time-series-analysis-for-education)|
 |**2024-08-25**|**Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**|Jia Cheng Hu et.al.|[2408.13959v1](http://arxiv.org/abs/2408.13959v1)|null|
 |**2024-08-25**|**Prediction of COPD Using Machine Learning, Clinical Summary Notes, and Vital Signs**|Negar Orangi-Fard et.al.|[2408.13958v1](http://arxiv.org/abs/2408.13958v1)|null|
 |**2024-08-25**|**CoT Rerailer: Enhancing the Reliability of Large Language Models in Complex Reasoning Tasks through Error Detection and Correction**|Guangya Wan et.al.|[2408.13940v1](http://arxiv.org/abs/2408.13940v1)|null|
@@ -154,7 +154,7 @@ https://github.com/ExplainableML/fomo_in_flux.
 摘要：<paragraph>多模態基礎模型在視覺和語言的交會點上服務於許多應用程式。儘管經過大量資料的預訓練，它們仍會隨著時間而過時。為了保持模型的更新，對持續預訓練的研究主要探討以下場景：(1) 對大規模新資料進行不頻繁、無差別的更新，或 (2) 頻繁、樣本層級的更新。然而，實際的模型部署通常在兩個限制案例之間運作，因為現實世界的應用程式通常需要適應特定的子網域、任務或概念，這些概念遍佈於模型的整個、多變的生命週期。在這項工作中，我們透過研究測試平台補充了目前對持續預訓練的觀點，並針對此類場景中的有效持續模型更新提供了全面的指導。我們首先介紹 FoMo-in-Flux，這是一個持續多模態預訓練基準，具有實際的運算限制和實際的部署需求，建構在 63 個具有多樣化視覺和語義涵蓋範圍的資料集上。使用 FoMo-in-Flux，我們從多個角度探討了實際持續預訓練的複雜環境：(1) 模擬現實世界部署情況的資料混合和串流排序的以資料為中心的調查，(2) 從簡單的微調和傳統的持續學習策略到參數有效更新和模型合併的方法中心調查，(3) 元學習率排程和機械設計選擇，以及 (4) 模型和運算縮放的影響。我們的見解共同為實務工作者提供了持續多模態預訓練的指南，以便進行實際世界的部署。我們的基準和程式碼在此處：https://github.com/ExplainableML/fomo_in_flux。</paragraph>
 
 ##### **Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**
-2408.14470v1 by Aradhye Agarwal, Suhas K Ramesh, Ayan Sengupta, Tanmoy Chakraborty
+2408.14470v2 by Aradhye Agarwal, Suhas K Ramesh, Ayan Sengupta, Tanmoy Chakraborty
 
 Fine-tuning large language models (LLMs) on downstream tasks requires
 substantial computational resources. A class of parameter-efficient fine-tuning
@@ -177,7 +177,7 @@ neurons and, therefore, can be seamlessly integrated into existing additive and
 reparametrization-based PEFT modules such as adapters and LoRA for dynamic
 sparsification.
 
-摘要：微调大型语言模型 (LLM) 以执行下游任务需要大量的计算资源。一类参数高效微调 (PEFT) 旨在通过仅选择性微调模型参数的一小部分来缓解这些计算挑战。尽管这些技术在计算上很有效，但它们通常无法与经过完全微调的模型的性能相匹配，这主要是由于在参数选择过程中引入的固有偏差。传统的 PEFT 选择性技术使用基于预定义预算的一组固定参数（也称为取消掩码的过程），无法动态捕获参数重要性，并且经常超出预算。我们引入了 $\text{ID}^3$，这是一种新颖的选择性 PEFT 方法，它持续计算参数重要性，并通过平衡参数选择中的探索和利用来动态取消参数的掩码。我们对涵盖自然语言理解和生成任务的 15 项任务进行的实证研究证明了我们方法与基于固定掩码的 PEFT 技术相比的有效性。我们通过分析表明 $\text{ID}^3$ 将梯度更新的次数减少了一半，从而提高了计算效率。$\text{ID}^3}$ 对神经元的随机初始化具有鲁棒性，因此可以无缝集成到现有的基于加法和重新参数化的 PEFT 模块中，例如用于动态稀疏化的适配器和 LoRA。
+摘要：微调下游任务中的大型语言模型 (LLM) 需要大量的计算资源。一类参数高效微调 (PEFT) 旨在通过仅选择性微调模型参数的一小部分来减轻这些计算挑战。尽管计算效率高，但这些技术通常无法与经过完全微调的模型的性能相匹配，这主要是由于在参数选择过程中引入的固有偏差。传统的选择性 PEFT 技术使用基于预定义预算的一组固定参数（也称为取消掩码的过程），无法动态捕捉参数重要性，并且经常超出预算。我们引入了 $\text{ID}^3$，这是一种新颖的选择性 PEFT 方法，它不断计算参数重要性，并通过平衡参数选择中的探索和利用来动态取消参数掩码。我们对涵盖自然语言理解和生成任务的 15 项任务进行的实证研究证明了我们方法与基于固定掩码的 PEFT 技术相比的有效性。我们通过分析表明，$\text{ID}^3$ 将梯度更新次数减少了一半，从而提高了计算效率。$\text{ID}^3}$ 对神经元的随机初始化具有鲁棒性，因此可以无缝集成到现有的基于加法和重新参数化的 PEFT 模块中，例如用于动态稀疏化的适配器和 LoRA。
 
 ##### **K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**
 2408.14468v1 by Zhikai Li, Xuewen Liu, Dongrong Fu, Jianquan Li, Qingyi Gu, Kurt Keutzer, Zhen Dong
@@ -575,7 +575,7 @@ contaminate models without leaving traces in the token probabilities.
 摘要：在機器學習中，污染是指測試資料滲漏到訓練組的情況。這個問題特別與大型語言模型 (LLM) 的效能評估有關，這些模型通常在從萬維網擷取的龐大且通常不透明的文字語料庫上進行訓練。因此，開發用於偵測污染的工具對於能夠公平且適當地追蹤 LLM 效能的演進至關重要。該領域最新的研究並不適合量化我們在心理問卷中發現的短文字序列上的污染。在本篇論文中，我們介紹 LogProber，一種新穎且有效率的演算法，我們展示它能夠使用給定句子中的標記機率來偵測污染。在第二部分中，我們探討該方法的限制，並討論不同的訓練方法如何在不留下標記機率痕跡的情況下污染模型。
 
 ##### **Foundation Models for Music: A Survey**
-2408.14340v1 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
+2408.14340v2 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
 
 In recent years, foundation models (FMs) such as large language models (LLMs)
 and latent diffusion models (LDMs) have profoundly impacted diverse sectors,
@@ -601,7 +601,7 @@ transparency, human responsibility, and copyright issues. The paper offers
 insights into future challenges and trends on FMs for music, aiming to shape
 the trajectory of human-AI collaboration in the music realm.
 
-摘要：近年來，諸如大型語言模型（LLM）和潛在擴散模型（LDM）等基礎模型（FM）已對包括音樂在內的不同領域產生了深遠的影響。這篇綜合評論探討了音樂中最先進（SOTA）的預訓練模型和基礎模型，涵蓋表徵學習、生成學習和多模態學習。我們首先將音樂在各產業中的重要性脈絡化，並追溯 AI 在音樂中的演進。透過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中仍未被充分探索。然後，我們強調先前方法在不同音樂應用中缺乏多樣性，以及 FM 在音樂理解、生成和醫療應用中的潛力。透過全面探討模型預訓練範例、架構選擇、符號化、微調方法和可控性的細節，我們強調了應深入探討的重要主題，例如指令調整和情境學習、規模法則和新興能力，以及長序列建模等。專門的部分提供了對音樂代理的見解，並伴隨著對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，透過強調倫理考量的至關重要性，我們主張後續關於音樂 FM 的研究應更專注於可解釋性、透明度、人類責任和版權等問題。本文提供了對音樂 FM 未來挑戰和趨勢的見解，旨在塑造人類與 AI 在音樂領域中合作的軌跡。
+摘要：近年來，基礎模型（FM），例如大型語言模型（LLM）和潛在擴散模型（LDM），對包括音樂在內的各個領域產生了深遠的影響。這篇綜合性評論探討了音樂領域中最先進（SOTA）的預訓練模型和基礎模型，涵蓋了表徵學習、生成式學習和多模態學習。我們首先將音樂在各個產業中的重要性脈絡化，並追溯 AI 在音樂中的演變。通過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中尚未被充分探索。接下來，我們強調了先前方法在各種音樂應用中缺乏多功能性，以及 FM 在音樂理解、生成和醫療應用中的潛力。通過全面探討模型預訓練範例、架構選擇、標記化、微調方法和可控性的細節，我們強調了應該深入探討的重要主題，例如指令微調和情境學習、規模定律和新興能力，以及長序列建模等。一個專門的章節提供了對音樂代理的見解，並附有對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，通過強調倫理考量的至關重要性，我們主張後續針對音樂 FM 的研究應更多地關注可解釋性、透明度、人類責任和版權問題等議題。本文深入探討了音樂 FM 未來的挑戰和趨勢，旨在形塑人類與 AI 在音樂領域中合作的軌跡。
 
 ##### **Machine Learning for Quantifier Selection in cvc5**
 2408.14338v1 by Jan Jakubův, Mikoláš Janota, Jelle Piepenbrock, Josef Urban
@@ -822,7 +822,7 @@ available at https://github.com/cmu-llab/s3m-aave.
 摘要：非裔美國方言 (AAVE) 及其他邊緣語言變體的 ASR 系統表現不佳，這是一個有據可查的現象，而且會加劇這些變體的污名化。我們探討最近一波的自我監督學習 (SSL) 語音模型是否能縮小 AAVE 和主流美式英語 (MAE) 之間的 ASR 效能差距。我們針對這兩種變體評估四個 SSL 模型（wav2vec 2.0、HuBERT、WavLM 和 XLS-R）的零次自動語音辨識 (ASR)，發現這些模型會延續對 AAVE 的效能偏見。此外，這些模型對於具有更多 AAVE 音韻和形態句法特徵的語句，其字元錯誤率較高。儘管 SSL 語音模型在改善低資源變體的 ASR 方面取得成功，但僅靠 SSL 預訓練可能無法縮小 AAVE 和 MAE 之間的差距。我們的程式碼已公開發布於 https://github.com/cmu-llab/s3m-aave。
 
 ##### **Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**
-2408.14253v1 by Laurenz Reichardt, Luca Uhr, Oliver Wasenmüller
+2408.14253v2 by Laurenz Reichardt, Luca Uhr, Oliver Wasenmüller
 
 LiDAR data of urban scenarios poses unique challenges, such as heterogeneous
 characteristics and inherent class imbalance. Therefore, large-scale datasets
@@ -841,7 +841,7 @@ existing methods or as a standalone method, performing on par or better than
 established methods, however while overcoming their specific drawbacks. The
 code is publicly available.
 
-摘要：城市場景的 LiDAR 資料會帶來獨特挑戰，例如異質特徵和內在類別不平衡。因此，需要大規模的資料集才能應用深度學習方法。實例擴充已成為增加資料集多樣性的有效方法。然而，現有方法需要耗時的 3D 模型整理或昂貴的手動資料標註。為了克服這些限制，我們提出 Text3DAug，一種利用生成模型進行實例擴充的新方法。Text3DAug 不依賴標籤資料，並且是同類方法中第一個從文字中生成實例和標註的方法。這允許建立全自動化流程，無需在實際應用中進行手動工作。此外，Text3DAug 與感測器無關，並且可以應用於任何 LiDAR 感測器。對 LiDAR 分割、偵測和新類別發現的全面實驗分析表明，Text3DAug 可有效補充現有方法或作為獨立方法，效能與既定方法相當或更好，但同時克服了其特定缺點。程式碼已公開。
+摘要：城市場景的 LiDAR 資料會帶來獨特的挑戰，例如異質特性和固有的類別不平衡。因此，大規模的資料集對於應用深度學習方法是必要的。實例擴充已成為一種有效的方法，可以增加資料集的多樣性。然而，目前的技術需要耗時整理 3D 模型或昂貴的手動資料註解。為了克服這些限制，我們提出 Text3DAug，這是一種利用生成模型進行實例擴充的新方法。Text3DAug 不依賴標籤資料，並且是第一個從文字中產生實例和註解的方法。這允許一個完全自動化的流程，消除了在實際應用中手動操作的需要。此外，Text3DAug 與感測器無關，並且可以應用於任何 LiDAR 感測器。對 LiDAR 分割、檢測和新類別發現的全面實驗分析表明，Text3DAug 可有效補充現有方法或作為獨立方法，執行與既定方法相當或更佳，但同時克服了它們的具體缺點。程式碼已公開。
 
 ##### **Beyond Few-shot Object Detection: A Detailed Survey**
 2408.14249v1 by Vishal Chudasama, Hiran Sarkar, Pankaj Wasnik, Vineeth N Balasubramanian, Jayateja Kalla
@@ -1009,7 +1009,7 @@ github: https://github.com/cocoshe/I2EBench.
 摘要：<paragraph>在基於指令的圖像編輯 (IIE) 領域中已取得顯著進展。然而，評估這些模型構成了一項重大挑戰。此領域的一項關鍵要求是建立一個全面的評估基準，以準確評估編輯結果並為其進一步發展提供寶貴的見解。為了滿足這一需求，我們提出了 I2EBench，這是一個全面的基準，旨在自動評估 IIE 模型產生的編輯圖像品質，並從多個面向進行評估。I2EBench 包含 2,000 多張用於編輯的圖像，以及 4,000 多條對應的原始且多樣化的指令。它提供了三個顯著特徵：1) 全面的評估面向：I2EBench 包含 16 個評估面向，涵蓋高層級和低層級面向，提供對每個 IIE 模型的全面評估。2) 人類感知比對：為了確保我們的基準與人類感知比對，我們針對每個評估面向進行了一項廣泛的使用者研究。3) 有價值的研究見解：透過分析現有 IIE 模型在 16 個面向中的優缺點，我們提供了有價值的研究見解，以指導該領域未來的發展。我們將開放原始碼 I2EBench，包括所有指令、輸入圖像、人類註解、所有評估方法的編輯圖像，以及一個用於評估來自新 IIE 模型的結果的簡單腳本。所有 IIE 模型的程式碼、資料集和產生的圖像都提供在 github 中：https://github.com/cocoshe/I2EBench。</paragraph>
 
 ##### **SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**
-2408.14176v1 by Trung Dao, Thuan Hoang Nguyen, Thanh Le, Duc Vu, Khoi Nguyen, Cuong Pham, Anh Tran
+2408.14176v2 by Trung Dao, Thuan Hoang Nguyen, Thanh Le, Duc Vu, Khoi Nguyen, Cuong Pham, Anh Tran
 
 In this paper, we aim to enhance the performance of SwiftBrush, a prominent
 one-step text-to-image diffusion model, to be competitive with its multi-step
@@ -1022,11 +1022,10 @@ novel clamped CLIP loss enhances image-text alignment and results in improved
 image quality. Remarkably, by combining the weights of models trained with
 efficient LoRA and full training, we achieve a new state-of-the-art one-step
 diffusion model, achieving an FID of 8.14 and surpassing all GAN-based and
-multi-step Stable Diffusion models. The evaluation code is available at:
-https://github.com/vinairesearch/swiftbrushv2.
+multi-step Stable Diffusion models. The project page is available at
+https://swiftbrushv2.github.io.
 
-摘要：在本文中，我们旨在提升 SwiftBrush 的性能，SwiftBrush 是一个著名的单步文本到图像扩散模型，以与它的多步 Stable Diffusion 对应模型相竞争。最初，我们探索了 SwiftBrush 和 SD Turbo 之间的质量多样性权衡：前者在图像多样性方面表现出色，而后者在图像质量方面表现出色。这一观察促使我们对训练方法提出了建议的修改，包括更好的权重初始化和高效的 LoRA 训练。此外，我们引入了一种新颖的 clamped CLIP 损失，它增强了图像文本对齐，并提高了图像质量。值得注意的是，通过结合使用经过高效 LoRA 和完整训练训练的模型的权重，我们实现了一个新的最先进的单步扩散模型，达到了 8.14 的 FID，并超越了所有基于 GAN 和多步 Stable Diffusion 的模型。评估代码可在以下网址获得：
-https://github.com/vinairesearch/swiftbrushv2。
+摘要：在本文中，我們旨在提升 SwiftBrush 的效能，SwiftBrush 是一個著名的單步文字轉圖像擴散模型，以與其多步的 Stable Diffusion 對手競爭。最初，我們探討了 SwiftBrush 與 SD Turbo 之間的品質多樣性權衡：前者擅長圖像多樣性，而後者擅長圖像品質。此觀察激勵我們提出訓練方法的修改，包括更好的權重初始化和高效的 LoRA 訓練。此外，我們引入了一個新穎的封閉 CLIP 損失，可增強圖像與文字的對齊，並改善圖像品質。值得注意的是，透過結合使用高效 LoRA 和完整訓練訓練的模型的權重，我們實現了一個新的單步擴散模型的最新技術，達到 8.14 的 FID，並超越所有基於 GAN 和多步的 Stable Diffusion 模型。專案頁面可於 https://swiftbrushv2.github.io/ 取得。
 
 ##### **Dynamic Pricing for Electric Vehicle Charging**
 2408.14169v1 by Arun Kumar Kalakanti, Shrisha Rao
@@ -1206,7 +1205,7 @@ positive sample construction.
 摘要：對比學習已頻繁用於學習文字分群任務的有效表徵。雖然現有的基於對比學習的文字分群方法僅專注於建模實例級語義相似性關係，但它們忽略了所有需要分群的實例之間的背景資訊和基本關係。在本文中，我們提出了一種稱為子空間對比學習 (SCL) 的新文字分群方法，該方法對實例之間的群集關係進行建模。具體來說，提出的 SCL 包含兩個主要模組：(1) 建構虛擬正樣本的自表達模組，以及 (2) 進一步學習判別子空間以擷取文字之間與任務相關的群集關係的對比學習模組。實驗結果顯示，所提出的 SCL 方法不僅在多個任務分群資料集上取得了優異的結果，而且在正樣本建構方面也較不複雜。
 
 ##### **Estimating Causal Effects from Learned Causal Networks**
-2408.14101v1 by Anna Raichev, Alexander Ihler, Jin Tian, Rina Dechter
+2408.14101v2 by Anna Raichev, Alexander Ihler, Jin Tian, Rina Dechter
 
 The standard approach to answering an identifiable causal-effect query (e.g.,
 $P(Y|do(X)$) when given a causal diagram and observational data is to first
@@ -1223,10 +1222,10 @@ expressions become computationally difficult.
   We illustrate our method's potential using a benchmark collection of Bayesian
 networks and synthetically generated causal models.
 
-摘要：標準方法是回答可識別的因果關係查詢（例如，當給定因果圖和觀察資料時，$P(Y|do(X)$），首先產生一個估計量或可觀察變數的機率表達式，然後使用觀察資料評估。在本文中，我們提出了一個替代範例，用於回答離散可觀察變數的因果關係查詢。我們建議直接從觀察資料中學習因果貝氏網路及其混淆潛在變數。然後，可以將有效的機率圖形模型 (PGM) 演算法應用於學習模型以回答查詢。令人驚訝的是，我們展示了這種\emph{模型完成}學習方法比估計量方法更有效，特別是對於估計量表達式在計算上變得困難的大型模型。我們使用貝氏網路和合成生成的因果模型的基準集合來說明我們方法的潛力。
+摘要：標準方法是回答可識別的因果關係查詢（例如，給定因果圖和觀察資料時，$P(Y|do(X)$），首先產生一個估計值，或對可觀察變數的機率表達式，然後使用觀察資料進行評估。在本文中，我們提出一個替代範例，用於回答離散可觀察變數的因果關係查詢。我們建議改為直接從觀察資料中學習因果貝氏網路及其混淆潛在變數。然後，可以將有效的機率圖形模型 (PGM) 演算法應用於已學習的模型來回答查詢。令人驚訝的是，我們展示了這種\emph{模型完成}學習方法可能比估計值方法更有效，特別是對於估計值表達式在計算上變得困難的大型模型。我們使用貝氏網路和合成生成的因果模型的基準集合來說明我們的方法的潛力。
 
 ##### **SONICS: Synthetic Or Not -- Identifying Counterfeit Songs**
-2408.14080v1 by Md Awsafur Rahman, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Bishmoy Paul, Shaikh Anowarul Fattah
+2408.14080v2 by Md Awsafur Rahman, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Bishmoy Paul, Shaikh Anowarul Fattah
 
 The recent surge in AI-generated songs presents exciting possibilities and
 challenges. While these tools democratize music creation, they also necessitate
@@ -1248,10 +1247,10 @@ more memory efficient compared to popular CNN and Transformer-based models
 while maintaining competitive performance. Finally, we offer both AI-based and
 Human evaluation benchmarks, addressing another deficiency in current research.
 
-摘要：最近 AI 生成的歌曲激增，帶來了令人興奮的可能性和挑戰。雖然這些工具讓音樂創作民主化，但它們也需要具備區分由人類創作和由 AI 生成的歌曲的能力，以維護藝術的完整性和內容策劃。現有的研究和偽歌檢測中的數據集只關注歌唱語音深度偽造檢測 (SVDD)，其中人聲是由 AI 生成的，但器樂來自於真實歌曲。然而，這種方法對於當代端對端 AI 生成的歌曲來說是不夠的，因為所有組成部分（人聲、歌詞、音樂和風格）都可以由 AI 生成。此外，現有的數據集缺乏歌詞音樂的多樣性、長時歌曲和開放的偽歌。為了解決這些差距，我們引入了 SONICS，這是一個用於端對端合成歌曲檢測 (SSD) 的新數據集，包含超過 97k 首歌曲，其中超過 49k 首來自於 Suno 和 Udio 等熱門平台的合成歌曲。此外，我們強調了在歌曲中建模長程時間依賴性對於有效真實性檢測的重要性，這是現有方法所忽略的一個方面。為了捕捉這些模式，我們提出了一個新模型 SpecTTTra，與流行的 CNN 和基於 Transformer 的模型相比，它快 3 倍，記憶體效率高 6 倍，同時保持了競爭力。最後，我們提供了基於 AI 和人類評估的基準，解決了當前研究中的另一個缺陷。
+摘要：最近 AI 生成的歌曲激增，带来了令人兴奋的可能性和挑战。虽然这些工具民主化了音乐创作，但它们也需要区分人声创作和 AI 生成的歌曲的能力，以保护艺术的完整性和内容策展。现有的研究和假歌检测的数据集仅关注歌唱语音深度伪造检测 (SVDD)，其中人声是 AI 生成的，但器乐音乐来自真实歌曲。然而，这种方法对于所有组件（人声、歌词、音乐和风格）都可能是 AI 生成的当代端到端 AI 生成的歌曲来说是不够的。此外，现有的数据集缺乏歌词音乐多样性、长时间歌曲和开放式假歌。为了解决这些差距，我们引入了 SONICS，这是一个用于端到端合成歌曲检测 (SSD) 的新数据集，包含来自 Suno 和 Udio 等流行平台的超过 97k 首歌曲和超过 49k 首合成歌曲。此外，我们强调了在歌曲中对远程时间依赖性进行建模以进行有效的真实性检测的重要性，这是现有方法中忽略的一个方面。为了捕捉这些模式，我们提出了一个新模型 SpecTTTra，与流行的 CNN 和基于 Transformer 的模型相比，它速度提高了 3 倍，内存效率提高了 6 倍，同时保持了竞争性能。最后，我们提供了基于 AI 和人工评估的基准，解决了当前研究中的另一个缺陷。
 
 ##### **Enhancing Depression Diagnosis with Chain-of-Thought Prompting**
-2408.14053v1 by Elysia Shi, Adithri Manda, London Chowdhury, Runeema Arun, Kevin Zhu, Michael Lam
+2408.14053v2 by Elysia Shi, Adithri Manda, London Chowdhury, Runeema Arun, Kevin Zhu, Michael Lam
 
 When using AI to detect signs of depressive disorder, AI models habitually
 draw preemptive conclusions. We theorize that using chain-of-thought (CoT)
@@ -1266,18 +1265,7 @@ accurately discern mental disorder symptoms; ultimately, we hope to augment AI
 models' abilities, so that they can be widely accessible and used in the
 medical field.
 
-摘要：在使用 AI 偵測憂鬱症徵兆時，AI 模型習慣性地
-做出先入為主的結論。我們假設使用思考鏈（CoT）
-提示來評估患者健康問卷-8（PHQ-8）分數將
-提升 AI 模型所決定的分數準確性。在我們的研究結果中，
-當模型使用 CoT 推理時，估計的 PHQ-8 分數平均而言
-始終比每位參與者回報的公認真實分數更接近，相較於
-未使用 CoT 時。我們的目標是擴展 AI 模型
-對人類對話的複雜性理解，讓它們能更
-有效地評估患者的情緒和語氣，因此能夠更
-準確地辨別精神疾病症狀；最終，我們希望擴增 AI
-模型的能力，讓它們能廣泛地被使用在
-醫療領域。
+摘要：當使用 AI 來偵測憂鬱症的徵兆時，AI 模型習慣性地得出先發制人的結論。我們假設使用思考鏈 (CoT) 提示來評估患者健康問卷 8 (PHQ-8) 分數，將會提升 AI 模型所決定的分數準確度。在我們的發現中，當模型使用 CoT 推理時，估計的 PHQ-8 分數平均來說持續更接近每個參與者所報告的公認真實分數，相較於不使用 CoT 時。我們的目標是擴展 AI 模型對於人類對話的複雜性的理解，讓它們能夠更有效地評估患者的情緒和語氣，因此能夠更準確地辨別心理疾病的症狀；最終，我們希望增強 AI 模型的能力，讓它們能夠廣泛地被使用於醫療領域。
 
 ##### **Beyond Detection: Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks**
 2408.14045v1 by Alaeddine Diaf, Abdelaziz Amara Korba, Nour Elislem Karabadji, Yacine Ghamri-Doudane
@@ -1665,7 +1653,7 @@ task's general property.
 摘要：自動化簡答評分（SAS）是根據評分標準和參考答案自動評分給定提示輸入的任務。儘管 SAS 在實際應用中很有用，但評分標準和參考答案在提示之間有所不同，因此需要獲取新數據並為每個新提示訓練模型。這些要求成本很高，特別是對於資源有限且僅使用少數提示的學校和線上課程。在這項工作中，我們嘗試通過兩階段方法來降低此成本：使用黃金分數信號訓練模型，並在新的提示中對其進行微調。具體來說，鑑於評分標準和參考答案因提示而異，我們利用關鍵詞組或代表性表達式（答案應包含這些內容以提高分數），並訓練 SAS 模型使用已註解提示（即跨提示）學習關鍵詞組和答案之間的關係。我們的實驗結果表明，使用關鍵詞組對現有跨提示數據進行微調可以顯著提高評分準確度，特別是在訓練數據有限的情況下。最後，我們廣泛的分析表明，設計模型以使其能夠學習任務的一般屬性至關重要。
 
 ##### **Time Series Analysis for Education: Methods, Applications, and Future Directions**
-2408.13960v1 by Shengzhong Mao, Chaoli Zhang, Yichi Song, Jindong Wang, Xiao-Jun Zeng, Zenglin Xu, Qingsong Wen
+2408.13960v2 by Shengzhong Mao, Chaoli Zhang, Yichi Song, Jindong Wang, Xiao-Jun Zeng, Zenglin Xu, Qingsong Wen
 
 Recent advancements in the collection and analysis of sequential educational
 data have brought time series analysis to a pivotal position in educational
@@ -1691,7 +1679,7 @@ emerging trends and future research opportunities in educational analysis. The
 related papers and resources are available and regularly updated at the project
 page.
 
-摘要：近來在收集和分析循序教育資料的進展，使時間序列分析在教育研究中處於樞紐地位，突顯其在促進資料驅動決策中扮演的角色不可或缺。然而，缺乏將這些進展彙整的全面摘要。據我們所知，本文首次針對時間序列分析技術提供全面的回顧，特別是在教育背景中。我們從探討教育資料分析的現況開始，將各種與教育相關的資料來源和類型分類。接下來，我們回顧四種重要的時間序列方法：預測、分類、分群和異常偵測，說明它們在教育環境中的具體應用點。隨後，我們提出各種教育情境和應用，重點說明這些方法如何用於解決不同的教育任務，這突顯了整合多種時間序列方法以解決複雜教育問題的實務做法。最後，我們以討論未來方向作為結論，包括個人化學習分析、多模態資料融合，以及大型語言模型 (LLM) 在教育時間序列中的角色。本文的貢獻包括教育資料的詳細分類法、時間序列技術與特定教育應用之間的綜合，以及對教育分析中新興趨勢和未來研究機會的前瞻性觀點。相關論文和資源可在專案頁面取得，並定期更新。
+摘要：最近在收集和分析顺序性教育数据方面取得的进展，使时间序列分析在教育研究中处于关键地位，突显了其在促进数据驱动的决策制定中至关重要的作用。然而，缺乏综合性摘要来整合这些进展。据我们所知，本文是第一个对时间序列分析技术进行全面回顾的，特别是在教育背景下。我们首先探讨教育数据分析的概况，对与教育相关的各种数据源和类型进行分类。然后，我们回顾四种突出的时间序列方法 - 预测、分类、聚类和异常检测 - 说明它们在教育环境中的具体应用点。随后，我们提出了一系列教育场景和应用，重点关注如何使用这些方法来解决不同的教育任务，这突出了多种时间序列方法在解决复杂教育问题中的实际整合。最后，我们以对未来方向的讨论作为结尾，包括个性化学习分析、多模态数据融合以及大语言模型 (LLM) 在教育时间序列中的作用。本文的贡献包括教育数据的详细分类、时间序列技术与特定教育应用的综合，以及对教育分析中新兴趋势和未来研究机会的前瞻性观点。相关论文和资源可在项目页面获得并定期更新。
 
 ##### **Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**
 2408.13959v1 by Jia Cheng Hu, Roberto Cavicchioli, Alessandro Capotondi

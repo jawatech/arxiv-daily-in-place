@@ -2,6 +2,7 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
 |**2024-08-27**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895v2](http://arxiv.org/abs/2408.14895v2)|null|
 |**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185v1](http://arxiv.org/abs/2408.14185v1)|null|
 |**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v1](http://arxiv.org/abs/2408.14134v1)|null|
@@ -9,6 +10,7 @@
 |**2024-08-25**|**CodeGraph: Enhancing Graph Reasoning of LLMs with Code**|Qiaolong Cai et.al.|[2408.13863v1](http://arxiv.org/abs/2408.13863v1)|null|
 |**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512v1](http://arxiv.org/abs/2408.14512v1)|null|
 |**2024-08-24**|**Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models**|Sakhinana Sagar Srinivas et.al.|[2408.13661v1](http://arxiv.org/abs/2408.13661v1)|null|
+|**2024-08-24**|**GNN: Graph Neural Network and Large Language Model for Data Discovery**|Thomas Hoang et.al.|[2408.13609v2](http://arxiv.org/abs/2408.13609v2)|null|
 |**2024-08-24**|**HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**|Azmine Toushik Wasi et.al.|[2408.13521v1](http://arxiv.org/abs/2408.13521v1)|[link](https://github.com/azminewasi/hrgraph)|
 |**2024-08-24**|**Integrating Multi-Head Convolutional Encoders with Cross-Attention for Improved SPARQL Query Translation**|Yi-Hui Chen et.al.|[2408.13432v1](http://arxiv.org/abs/2408.13432v1)|null|
 |**2024-08-23**|**CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**|Ekaterina Trofimova et.al.|[2408.13366v1](http://arxiv.org/abs/2408.13366v1)|null|
@@ -54,6 +56,7 @@
 |**2024-08-10**|**Investigating Instruction Tuning Large Language Models on Graphs**|Kerui Zhu et.al.|[2408.05457v1](http://arxiv.org/abs/2408.05457v1)|[link](https://github.com/zhukerui/graph-instruction-tuning)|
 |**2024-08-10**|**Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph Representation**|Wenbo Shang et.al.|[2408.05456v1](http://arxiv.org/abs/2408.05456v1)|null|
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404v1](http://arxiv.org/abs/2408.05404v1)|[link](https://github.com/wxljz/laida)|
+|**2024-08-09**|**Text classification optimization algorithm based on graph neural network**|Erdi Gao et.al.|[2408.15257v1](http://arxiv.org/abs/2408.15257v1)|null|
 |**2024-08-09**|**SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**|Zhi-Qi Cheng et.al.|[2408.05357v1](http://arxiv.org/abs/2408.05357v1)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v2](http://arxiv.org/abs/2408.05141v2)|null|
 |**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v2](http://arxiv.org/abs/2408.07091v2)|null|
@@ -65,7 +68,7 @@
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|[link](https://github.com/leduckhai/wav2graph)|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v2](http://arxiv.org/abs/2408.03910v2)|[link](https://github.com/modelscope/modelscope-agent)|
-|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|null|
+|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|[link](https://github.com/scunlp/paged)|
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
 |**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
@@ -99,11 +102,29 @@
 |**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157v1](http://arxiv.org/abs/2407.20157v1)|[link](https://github.com/rllm-project/rllm)|
 |**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643v2](http://arxiv.org/abs/2407.19643v2)|[link](https://github.com/iamryanshengwang/prometheus-chatbot)|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
-|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338v1](http://arxiv.org/abs/2407.19338v1)|null|
-|**2024-07-26**|**GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**|Yuchen Shen et.al.|[2407.19039v1](http://arxiv.org/abs/2407.19039v1)|[link](https://github.com/A-Chicharito-S/GraphBPE)|
-|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752v3](http://arxiv.org/abs/2407.18752v3)|null|
 
 #### Abstracts
+##### **LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**
+2408.15903v1 by Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong, Bo Ai
+
+The rapid obsolescence of information in Large Language Models (LLMs) has
+driven the development of various techniques to incorporate new facts. However,
+existing methods for knowledge editing still face difficulties with multi-hop
+questions that require accurate fact identification and sequential logical
+reasoning, particularly among numerous fact updates. To tackle these
+challenges, this paper introduces Graph Memory-based Editing for Large Language
+Models (GMeLLo), a straitforward and effective method that merges the explicit
+knowledge representation of Knowledge Graphs (KGs) with the linguistic
+flexibility of LLMs. Beyond merely leveraging LLMs for question answering,
+GMeLLo employs these models to convert free-form language into structured
+queries and fact triples, facilitating seamless interaction with KGs for rapid
+updates and precise multi-hop reasoning. Our results show that GMeLLo
+significantly surpasses current state-of-the-art knowledge editing methods in
+the multi-hop question answering benchmark, MQuAKE, especially in scenarios
+with extensive knowledge edits.
+
+摘要：大型語言模型 (LLM) 中資訊快速過時，促使各種技術發展以納入新事實。然而，現有的知識編輯方法在需要準確事實辨識和順序邏輯推理的多跳問題上仍面臨困難，特別是在眾多事實更新中。為了應對這些挑戰，本文介紹了大型語言模型的圖記憶編輯 (GMeLLo)，這是一種直接且有效的方法，結合了知識圖譜 (KG) 的明確知識表示與 LLM 的語言靈活性。GMeLLo 不僅利用 LLM 來回答問題，還使用這些模型將自由形式的語言轉換為結構化查詢和事實三元組，促進與 KG 的無縫互動，以便快速更新和精確的多跳推理。我們的結果表明，在多跳問題回答基準 MQuAKE 中，GMeLLo 明顯超越了當前最先進的知識編輯方法，特別是在廣泛知識編輯的場景中。
+
 ##### **VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**
 2408.14895v2 by Shusaku Egami, Takahiro Ugai, Swe Nwe Nwe Htun, Ken Fukuda
 
@@ -283,6 +304,24 @@ overcoming challenges posed by distributional shifts, and facilitating
 high-throughput screening.
 
 摘要：利用電子顯微照片來表徵材料，在半導體和量子材料等領域中是一項至關重要的任務。顯微照片複雜的分層結構通常會對傳統分類方法帶來挑戰。在這項研究中，我們提出了一種創新的主幹架構，用於分析電子顯微照片。我們透過將顯微照片代換成區塊序列來建立其多模態表示，此外，我們還將其表示為視覺圖形，通常稱為區塊屬性圖形。我們引入了分層網路融合 (HNF)，這是一種多層網路結構架構，有助於多模態表示之間的資訊交換，以及不同區塊解析度之間的知識整合。此外，我們利用大型語言模型 (LLM) 來產生奈米材料的詳細技術說明，作為輔助資訊，以協助下游任務。我們利用跨模態注意力機制，在跨領域表示（基於影像和語言洞察力）中進行知識融合，以預測奈米材料類別。這種多方面的做法有望為奈米材料識別提供更全面且準確的表示和分類。我們的架構優於傳統方法，克服了分佈轉移帶來的挑戰，並促進了高通量篩選。
+
+##### **GNN: Graph Neural Network and Large Language Model for Data Discovery**
+2408.13609v2 by Thomas Hoang
+
+Our algorithm GNN: Graph Neural Network and Large Language Model for Data
+Discovery inherit the benefits of \cite{hoang2024plod} (PLOD: Predictive
+Learning Optimal Data Discovery), \cite{Hoang2024BODBO} (BOD: Blindly Optimal
+Data Discovery) in terms of overcoming the challenges of having to predefine
+utility function and the human input for attribute ranking, which helps prevent
+the time-consuming loop process. In addition to these previous works, our
+algorithm GNN leverages the advantages of graph neural networks and large
+language models to understand text type values that cannot be understood by
+PLOD and MOD, thus making the task of predicting outcomes more reliable. GNN
+could be seen as an extension of PLOD in terms of understanding the text type
+value and the user's preferences, not only numerical values but also text
+values, making the promise of data science and analytics purposes.
+
+摘要：我們的演算法 GNN：圖神經網路和大語言模型，用於資料探索，繼承了 \cite{hoang2024plod}（PLOD：預測性最佳資料探索）、\cite{Hoang2024BODBO}（BOD：盲目最佳資料探索）的優點，在於克服必須預先定義效用函數和人類輸入屬性排名的挑戰，這有助於防止耗時的迴圈處理。除了這些先前的作品，我們的演算法 GNN 利用圖神經網路和大語言模型的優點，來理解 PLOD 和 MOD 無法理解的文字類型值，從而使預測結果的任務更可靠。GNN 可以視為 PLOD 在理解文字類型值和使用者偏好方面的延伸，不僅是數值，還有文字值，這實現了資料科學和分析目的的承諾。
 
 ##### **HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**
 2408.13521v1 by Azmine Toushik Wasi
@@ -1376,6 +1415,28 @@ and data are available at https://github.com/WXLJZ/LaiDA.
 
 摘要：隱喻組成辨識 (MCI) 有助於提升機器對隱喻的理解，進而推動下游的自然語言處理任務。不過，複雜性、多樣性，以及對脈絡和背景知識的依賴性，對 MCI 而言是重大的挑戰。大型語言模型 (LLM) 由於其強大的語意分析和廣泛的常識知識，為準確理解複雜的自然語言文本提供了新途徑。本研究提出了一個新的基於 LLM 的架構，稱為具備資料擴充功能的語言感知情境學習 (LaiDA)。具體來說，ChatGPT 和監督微調用於調整一個高品質的資料集。LaiDA 結合了一個比喻資料集進行預訓練。一個圖形注意力網路編碼器產生語言豐富的特徵表示，以擷取類似的範例。隨後，LLM 使用整合了語言相似範例的提示進行微調。LaiDA 在 NLPCC2024 共享任務 9 的子任務 2 中排名第 2，證明了其有效性。程式碼和資料可在 https://github.com/WXLJZ/LaiDA 取得。
 
+##### **Text classification optimization algorithm based on graph neural network**
+2408.15257v1 by Erdi Gao, Haowei Yang, Dan Sun, Haohao Xia, Yuhan Ma, Yuanjing Zhu
+
+In the field of natural language processing, text classification, as a basic
+task, has important research value and application prospects. Traditional text
+classification methods usually rely on feature representations such as the bag
+of words model or TF-IDF, which overlook the semantic connections between words
+and make it challenging to grasp the deep structural details of the text.
+Recently, GNNs have proven to be a valuable asset for text classification
+tasks, thanks to their capability to handle non-Euclidean data efficiently.
+However, the existing text classification methods based on GNN still face
+challenges such as complex graph structure construction and high cost of model
+training. This paper introduces a text classification optimization algorithm
+utilizing graph neural networks. By introducing adaptive graph construction
+strategy and efficient graph convolution operation, the accuracy and efficiency
+of text classification are effectively improved. The experimental results
+demonstrate that the proposed method surpasses traditional approaches and
+existing GNN models across multiple public datasets, highlighting its superior
+performance and feasibility for text classification tasks.
+
+摘要：在自然語言處理領域，文本分類作為一項基礎任務，具有重要的研究價值和應用前景。傳統的文本分類方法通常依賴於詞袋模型或 TF-IDF 等特徵表示，這忽視了詞彙之間的語義聯繫，使得難以把握文本的深層結構細節。近年來，GNN 已被證明是文本分類任務的寶貴資產，這歸功於它們有效處理非歐幾里得數據的能力。然而，基於 GNN 的現有文本分類方法仍然面臨著圖結構構建複雜、模型訓練成本高等挑戰。本文提出了一種利用圖神經網絡的文本分類優化算法。通過引入自適應圖構建策略和高效的圖卷積運算，有效地提高了文本分類的準確率和效率。實驗結果表明，該方法在多個公開數據集上超越了傳統方法和現有的 GNN 模型，凸顯了其在文本分類任務中的優越性能和可行性。
+
 ##### **SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**
 2408.05357v1 by Zhi-Qi Cheng, Yifei Dong, Aike Shi, Wei Liu, Yuzhi Hu, Jason O'Connor, Alexander Hauptmann, Kate Whitefoot
 
@@ -2449,71 +2510,4 @@ demonstrates the effectiveness of our method in enhancing knowledge management
 and document organization.
 
 摘要：主題建模是一種從大量非結構化文本中組織和提取主題的技術。非負矩陣分解 (NMF) 是一種常見的無監督方法，它將詞頻-逆文件頻率 (TF-IDF) 矩陣分解為潛在主題，並據此對數據集進行分段。儘管 NMF 可用於強調模式和群組文件，但它不提供明確的主題標籤，這需要主題專家 (SME) 手動分配標籤。我們提出了一種方法，用於自動標記通過 NMF 進行群組的文件，並自動確定模型 (NMFk)。通過利用 NMFk 的輸出並採用提示工程，我們利用大型語言模型 (LLM) 來生成準確的主題標籤。我們對超過 34,000 篇關於知識圖譜的科學摘要進行的案例研究證明了我們的方法在增強知識管理和文件組織方面的有效性。
-
-##### **Semantic Communication Enhanced by Knowledge Graph Representation Learning**
-2407.19338v1 by Nour Hello, Paolo Di Lorenzo, Emilio Calvanese Strinati
-
-This paper investigates the advantages of representing and processing
-semantic knowledge extracted into graphs within the emerging paradigm of
-semantic communications. The proposed approach leverages semantic and pragmatic
-aspects, incorporating recent advances on large language models (LLMs) to
-achieve compact representations of knowledge to be processed and exchanged
-between intelligent agents. This is accomplished by using the cascade of LLMs
-and graph neural networks (GNNs) as semantic encoders, where information to be
-shared is selected to be meaningful at the receiver. The embedding vectors
-produced by the proposed semantic encoder represent information in the form of
-triplets: nodes (semantic concepts entities), edges(relations between
-concepts), nodes. Thus, semantic information is associated with the
-representation of relationships among elements in the space of semantic concept
-abstractions. In this paper, we investigate the potential of achieving high
-compression rates in communication by incorporating relations that link
-elements within graph embeddings. We propose sending semantic symbols solely
-equivalent to node embeddings through the wireless channel and inferring the
-complete knowledge graph at the receiver. Numerical simulations illustrate the
-effectiveness of leveraging knowledge graphs to semantically compress and
-transmit information.
-
-摘要：本文研究了在语义通信的新兴范例中将提取到图中的语义知识表示和处理的优势。所提出的方法利用语义和语用方面，结合了大语言模型 (LLM) 的最新进展，以实现要处理和在智能代理之间交换的知识的紧凑表示。这是通过使用 LLM 和图神经网络 (GNN) 的级联作为语义编码器来完成的，其中要共享的信息被选择为对接收者有意义。由所提出的语义编码器产生的嵌入向量以三元组的形式表示信息：节点（语义概念实体）、边（概念之间的关系）、节点。因此，语义信息与语义概念抽象空间中元素之间关系的表示相关联。在本文中，我们研究了通过合并将图嵌入中的元素联系起来的关联来实现高压缩率的潜力。我们建议仅通过无线信道发送语义符号，这些符号完全等效于节点嵌入，并在接收器处推断出完整的知识图。数值模拟说明了利用知识图语义压缩和传输信息的有效性。
-
-##### **GraphBPE: Molecular Graphs Meet Byte-Pair Encoding**
-2407.19039v1 by Yuchen Shen, Barnabás Póczos
-
-With the increasing attention to molecular machine learning, various
-innovations have been made in designing better models or proposing more
-comprehensive benchmarks. However, less is studied on the data preprocessing
-schedule for molecular graphs, where a different view of the molecular graph
-could potentially boost the model's performance. Inspired by the Byte-Pair
-Encoding (BPE) algorithm, a subword tokenization method popularly adopted in
-Natural Language Processing, we propose GraphBPE, which tokenizes a molecular
-graph into different substructures and acts as a preprocessing schedule
-independent of the model architectures. Our experiments on 3 graph-level
-classification and 3 graph-level regression datasets show that data
-preprocessing could boost the performance of models for molecular graphs, and
-GraphBPE is effective for small classification datasets and it performs on par
-with other tokenization methods across different model architectures.
-
-摘要：隨著分子機器學習受到的關注度越來越高，在設計更好的模型或提出更全面的基準方面已經有了各種創新。然而，對於分子圖的數據預處理計畫研究較少，在該計畫中，分子圖的不同視圖可能會提升模型的效能。受到在自然語言處理中廣泛採用的子詞彙標記化方法 Byte-Pair 編碼 (BPE) 演算法的啟發，我們提出了 GraphBPE，它將分子圖標記化為不同的子結構，並作為與模型架構無關的預處理計畫。我們在 3 個圖形層級分類和 3 個圖形層級回歸資料集上的實驗顯示，資料預處理可以提升分子圖模型的效能，而 GraphBPE 對於小型分類資料集有效，並且在不同的模型架構中與其他標記化方法表現相當。
-
-##### **Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**
-2407.18752v3 by Yuni Susanti, Michael Färber
-
-Causal discovery aims to estimate causal structures among variables based on
-observational data. Large Language Models (LLMs) offer a fresh perspective to
-tackle the causal discovery problem by reasoning on the metadata associated
-with variables rather than their actual data values, an approach referred to as
-knowledge-based causal discovery. In this paper, we investigate the
-capabilities of Small Language Models (SLMs, defined as LLMs with fewer than 1
-billion parameters) with prompt-based learning for knowledge-based causal
-discovery. Specifically, we present KG Structure as Prompt, a novel approach
-for integrating structural information from a knowledge graph, such as common
-neighbor nodes and metapaths, into prompt-based learning to enhance the
-capabilities of SLMs. Experimental results on three types of biomedical and
-open-domain datasets under few-shot settings demonstrate the effectiveness of
-our approach, surpassing most baselines and even conventional fine-tuning
-approaches trained on full datasets. Our findings further highlight the strong
-capabilities of SLMs: in combination with knowledge graphs and prompt-based
-learning, SLMs demonstrate the potential to surpass LLMs with larger number of
-parameters. Our code and datasets are available on GitHub.
-
-摘要：因果發現旨在根據觀測數據估計變數之間的因果結構。大型語言模型 (LLM) 提供了一個新的觀點來解決因果發現問題，方法是推論與變數相關的元數據，而不是它們的實際數據值，這種方法稱為基於知識的因果發現。在本文中，我們探討了小語言模型 (SLM，定義為參數少於 10 億的 LLM) 的能力，並採用基於提示的學習進行基於知識的因果發現。具體來說，我們提出了 KG Structure as Prompt，這是一種新穎的方法，用於將來自知識圖譜的結構資訊，例如共同鄰居節點和元路徑，整合到基於提示的學習中，以增強 SLM 的能力。在少次嘗試設定下，針對三種類型的生物醫學和開放領域資料集的實驗結果證明了我們方法的有效性，超越了大多數基準，甚至超越了在完整資料集上訓練的傳統微調方法。我們的發現進一步突出了 SLM 的強大功能：結合知識圖譜和基於提示的學習，SLM 展示了超越具有更多參數的 LLM 的潛力。我們的程式碼和資料集可在 GitHub 上取得。
 

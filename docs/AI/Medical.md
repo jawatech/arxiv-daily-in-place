@@ -2,11 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769v1](http://arxiv.org/abs/2408.15769v1)|null|
+|**2024-08-28**|**Deep Learning to Predict Late-Onset Breast Cancer Metastasis: the Single Hyperparameter Grid Search (SHGS) Strategy for Meta Tuning Concerning Deep Feed-forward Neural Network**|Yijun Zhou et.al.|[2408.15498v1](http://arxiv.org/abs/2408.15498v1)|null|
+|**2024-08-27**|**What Is Required for Empathic AI? It Depends, and Why That Matters for AI Developers and Users**|Jana Schaich Borg et.al.|[2408.15354v1](http://arxiv.org/abs/2408.15354v1)|null|
 |**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217v1](http://arxiv.org/abs/2408.15217v1)|null|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
-|**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076v1](http://arxiv.org/abs/2408.15076v1)|null|
+|**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076v1](http://arxiv.org/abs/2408.15076v1)|[link](https://github.com/statisticalreinforcementlearninglab/miwaves_rl_service)|
 |**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|null|
 |**2024-08-27**|**Sequence-aware Pre-training for Echocardiography Probe Guidance**|Haojun Jiang et.al.|[2408.15026v1](http://arxiv.org/abs/2408.15026v1)|null|
+|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v1](http://arxiv.org/abs/2408.15294v1)|null|
 |**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568v1](http://arxiv.org/abs/2408.14568v1)|null|
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|null|
@@ -18,9 +22,9 @@
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
 |**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v2](http://arxiv.org/abs/2408.13683v2)|null|
 |**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
-|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217v1](http://arxiv.org/abs/2408.13217v1)|null|
+|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217v1](http://arxiv.org/abs/2408.13217v1)|[link](https://github.com/clementchauvet/py-hbic)|
 |**2024-08-23**|**Causal machine learning for sustainable agroecosystems**|Vasileios Sitokonstantinou et.al.|[2408.13155v1](http://arxiv.org/abs/2408.13155v1)|null|
-|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880v1](http://arxiv.org/abs/2408.12880v1)|null|
+|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880v1](http://arxiv.org/abs/2408.12880v1)|[link](https://github.com/deepreasoning/aihealth)|
 |**2024-08-23**|**COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**|Mohsen Asghari Ilani et.al.|[2408.12841v1](http://arxiv.org/abs/2408.12841v1)|null|
 |**2024-08-23**|**Exploring Machine Learning Models for Lung Cancer Level Classification: A comparative ML Approach**|Mohsen Asghari Ilani et.al.|[2408.12838v1](http://arxiv.org/abs/2408.12838v1)|null|
 |**2024-08-22**|**From Radiologist Report to Image Label: Assessing Latent Dirichlet Allocation in Training Neural Networks for Orthopedic Radiograph Classification**|Jakub Olczak et.al.|[2408.13284v1](http://arxiv.org/abs/2408.13284v1)|null|
@@ -98,12 +102,84 @@
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|[link](https://github.com/hku-medai/mult-ehr)|
 |**2024-08-14**|**Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v2](http://arxiv.org/abs/2408.07531v2)|null|
 |**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
-|**2024-08-14**|**The Complexity of Manipulation of k-Coalitional Games on Graphs**|Hodaya Barr et.al.|[2408.07368v1](http://arxiv.org/abs/2408.07368v1)|[link](https://github.com/hodayaBen/The-Complexity-of-Manipulation-of-k-Coalitional-Games-on-Graphs)|
-|**2024-08-13**|**Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**|Arya Hadizadeh Moghaddam et.al.|[2408.10259v1](http://arxiv.org/abs/2408.10259v1)|null|
-|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
-|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|[link](https://github.com/darthreca/crop-field-segmentation-ukan)|
 
 #### Abstracts
+##### **A Survey on Evaluation of Multimodal Large Language Models**
+2408.15769v1 by Jiaxing Huang, Jingyi Zhang
+
+Multimodal Large Language Models (MLLMs) mimic human perception and reasoning
+system by integrating powerful Large Language Models (LLMs) with various
+modality encoders (e.g., vision, audio), positioning LLMs as the "brain" and
+various modality encoders as sensory organs. This framework endows MLLMs with
+human-like capabilities, and suggests a potential pathway towards achieving
+artificial general intelligence (AGI). With the emergence of all-round MLLMs
+like GPT-4V and Gemini, a multitude of evaluation methods have been developed
+to assess their capabilities across different dimensions. This paper presents a
+systematic and comprehensive review of MLLM evaluation methods, covering the
+following key aspects: (1) the background of MLLMs and their evaluation; (2)
+"what to evaluate" that reviews and categorizes existing MLLM evaluation tasks
+based on the capabilities assessed, including general multimodal recognition,
+perception, reasoning and trustworthiness, and domain-specific applications
+such as socioeconomic, natural sciences and engineering, medical usage, AI
+agent, remote sensing, video and audio processing, 3D point cloud analysis, and
+others; (3) "where to evaluate" that summarizes MLLM evaluation benchmarks into
+general and specific benchmarks; (4) "how to evaluate" that reviews and
+illustrates MLLM evaluation steps and metrics; Our overarching goal is to
+provide valuable insights for researchers in the field of MLLM evaluation,
+thereby facilitating the development of more capable and reliable MLLMs. We
+emphasize that evaluation should be regarded as a critical discipline,
+essential for advancing the field of MLLMs.
+
+摘要：多模態大型語言模型 (MLLM) 透過整合強大的大型語言模型 (LLM) 與各種模態編碼器（例如視覺、音訊），模擬人類的感知和推理系統，將 LLM 定位為「大腦」，而將各種模態編碼器定位為感官器官。此架構賦予 MLLM 類似人類的能力，並提出實現人工通用智慧 (AGI) 的潛在途徑。隨著 GPT-4V 和 Gemini 等全方位 MLLM 的出現，已經開發出多種評估方法來評估它們在不同維度上的能力。本文對 MLLM 評估方法進行了系統且全面的回顧，涵蓋以下幾個關鍵面向：(1) MLLM 及其評估的背景；(2)「要評估什麼」根據評估的能力，回顧並分類現有的 MLLM 評估任務，包括一般多模態辨識、感知、推理和可信度，以及特定領域的應用，例如社會經濟、自然科學和工程、醫療用途、AI 代理、遙測、影片和音訊處理、3D 點雲分析等；(3)「在哪裡評估」將 MLLM 評估基準總結為一般基準和特定基準；(4)「如何評估」回顧並說明 MLLM 評估步驟和指標。我們的首要目標是為 MLLM 評估領域的研究人員提供有價值的見解，從而促進更強大且可靠的 MLLM 的開發。我們強調評估應被視為一項關鍵的學科，對於推進 MLLM 領域至關重要。
+
+##### **Deep Learning to Predict Late-Onset Breast Cancer Metastasis: the Single Hyperparameter Grid Search (SHGS) Strategy for Meta Tuning Concerning Deep Feed-forward Neural Network**
+2408.15498v1 by Yijun Zhou, Om Arora-Jain, Xia Jiang
+
+While machine learning has advanced in medicine, its widespread use in
+clinical applications, especially in predicting breast cancer metastasis, is
+still limited. We have been dedicated to constructing a DFNN model to predict
+breast cancer metastasis n years in advance. However, the challenge lies in
+efficiently identifying optimal hyperparameter values through grid search,
+given the constraints of time and resources. Issues such as the infinite
+possibilities for continuous hyperparameters like l1 and l2, as well as the
+time-consuming and costly process, further complicate the task. To address
+these challenges, we developed Single Hyperparameter Grid Search (SHGS)
+strategy, serving as a preselection method before grid search. Our experiments
+with SHGS applied to DFNN models for breast cancer metastasis prediction focus
+on analyzing eight target hyperparameters: epochs, batch size, dropout, L1, L2,
+learning rate, decay, and momentum. We created three figures, each depicting
+the experiment results obtained from three LSM-I-10-Plus-year datasets. These
+figures illustrate the relationship between model performance and the target
+hyperparameter values. For each hyperparameter, we analyzed whether changes in
+this hyperparameter would affect model performance, examined if there were
+specific patterns, and explored how to choose values for the particular
+hyperparameter. Our experimental findings reveal that the optimal value of a
+hyperparameter is not only dependent on the dataset but is also significantly
+influenced by the settings of other hyperparameters. Additionally, our
+experiments suggested some reduced range of values for a target hyperparameter,
+which may be helpful for low-budget grid search. This approach serves as a
+prior experience and foundation for subsequent use of grid search to enhance
+model performance.
+
+摘要：儘管機器學習在醫學領域已有所進展，但其在臨床應用中的廣泛使用，特別是在預測乳癌轉移方面，仍有其限制。我們致力於建構 DFNN 模型，以預測乳癌轉移 n 年。然而，挑戰在於透過網格搜尋有效率地找出最佳超參數值，這受到時間和資源的限制。諸如 l1 和 l2 等連續超參數的可能性無窮，以及耗時且昂貴的過程等問題，更讓這項任務變得複雜。為了應對這些挑戰，我們開發了單一超參數網格搜尋 (SHGS) 策略，作為網格搜尋前的預選方法。我們針對乳癌轉移預測應用的 DFNN 模型進行 SHGS 實驗，重點分析八個目標超參數：epoch 次數、批次大小、中斷、L1、L2、學習率、衰減和動量。我們製作了三幅圖，每幅圖都描繪了從三個 LSM-I-10-Plus-year 資料集獲得的實驗結果。這些圖表說明了模型效能與目標超參數值之間的關係。對於每個超參數，我們分析了超參數的變動是否會影響模型效能，並檢視是否有特定模式，以及如何針對特定超參數選擇值。我們的實驗結果顯示，超參數的最佳值不僅取決於資料集，也受到其他超參數設定的顯著影響。此外，我們的實驗建議縮小目標超參數值的範圍，這可能有助於低預算的網格搜尋。此方法可作為後續使用網格搜尋以增強模型效能的先前經驗和基礎。
+
+##### **What Is Required for Empathic AI? It Depends, and Why That Matters for AI Developers and Users**
+2408.15354v1 by Jana Schaich Borg, Hannah Read
+
+Interest is growing in artificial empathy, but so is confusion about what
+artificial empathy is or needs to be. This confusion makes it challenging to
+navigate the technical and ethical issues that accompany empathic AI
+development. Here, we outline a framework for thinking about empathic AI based
+on the premise that different constellations of capabilities associated with
+empathy are important for different empathic AI applications. We describe
+distinctions of capabilities that we argue belong under the empathy umbrella,
+and show how three medical empathic AI use cases require different sets of
+these capabilities. We conclude by discussing why appreciation of the diverse
+capabilities under the empathy umbrella is important for both AI creators and
+users.
+
+摘要：對人工同理心越來越感興趣，但對於人工同理心是什麼或需要什麼也越來越困惑。這種混淆使得難以解決伴隨同理心 AI 開發而來的技術和倫理問題。在此，我們概述了一個思考同理心 AI 的架構，其基於這樣一個前提：與同理心相關的不同能力組合對於不同的同理心 AI 應用很重要。我們描述了我們認為屬於同理心範疇的能力區別，並展示了三個醫療同理心 AI 使用案例需要這些能力的不同組合。我們最後討論了為什麼欣賞同理心範疇下的各種能力對於 AI 創造者和使用者都很重要的原因。
+
 ##### **Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**
 2408.15217v1 by Weiyi Zhang, Siyu Huang, Jiancheng Yang, Ruoyu Chen, Zongyuan Ge, Yingfeng Zheng, Danli Shi, Mingguang He
 
@@ -232,6 +308,23 @@ significantly reduce navigation errors, with translation errors decreasing by
 to state-of-the-art methods.
 
 摘要：<paragraph>心臟超音波探頭引導旨在幫助新手調整 6-DOF 探頭姿勢，以取得高品質的斷面影像。心臟超音波面臨兩項主要挑戰：(1) 心臟結構複雜且固有，以及 (2) 個體差異顯著。先前的研究僅學習了整體平均的 2D 和 3D 心臟結構，而非個人化的解剖特徵，導致效能瓶頸。臨床上，我們觀察到超音波技師會根據先前的掃描序列調整他們對患者心臟結構的理解，進而修改他們的掃描策略。受到此啟發，我們提出一個具序列感知的自監督預訓練方法。具體來說，我們的做法透過預測掃描序列中遮罩的影像和動作，來學習個人化的 2D 和 3D 心臟解剖特徵。我們假設，如果模型可以預測遺漏的內容，它便對個人化的解剖結構有了良好的理解。在下游的探頭引導任務中，我們也導入一個序列建模方法，該方法根據歷史掃描資料中的影像和動作，模擬個別心臟解剖資訊，進而做出更精確的導航決策。在有 136 萬個樣本的大規模資料集上進行的實驗證明，我們提出的具序列感知的典範可以大幅減少導航錯誤，其中平移錯誤減少了 15.90% 至 36.87%，旋轉錯誤減少了 11.13% 至 20.77%，與最先進的方法相比。</paragraph>
+
+##### **Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**
+2408.15294v1 by Christos Theodoropoulos, Natasha Mulligan, Joao Bettencourt-Silva
+
+Developing novel predictive models with complex biomedical information is
+challenging due to various idiosyncrasies related to heterogeneity,
+standardization or sparseness of the data. We previously introduced a
+person-centric ontology to organize information about individual patients, and
+a representation learning framework to extract person-centric knowledge graphs
+(PKGs) and to train Graph Neural Networks (GNNs). In this paper, we propose a
+systematic approach to examine the results of GNN models trained with both
+structured and unstructured information from the MIMIC-III dataset. Through
+ablation studies on different clinical, demographic, and social data, we show
+the robustness of this approach in identifying predictive features in PKGs for
+the task of readmission prediction.
+
+摘要：開發具有複雜生物醫學資訊的新穎預測模型具有挑戰性，這是由於與資料的異質性、標準化或稀疏性相關的各種特殊性。我們之前引入了以人為中心的本体，以組織有關個別患者的資訊，並建立了一個表示學習架構，以提取以人為中心的知識圖譜 (PKG) 並訓練圖神經網路 (GNN)。在本文中，我們提出了一種系統性的方法，以檢查使用來自 MIMIC-III 資料集的結構化和非結構化資訊訓練的 GNN 模型的結果。透過對不同的臨床、人口統計和社會資料進行消融研究，我們展示了這種方法在識別 PKG 中的預測特徵以進行再入院預測任務時的穩健性。
 
 ##### **Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**
 2408.14754v1 by Qiaoxin Li, Ruifeng Chen, Peng Wang, Guotao Quan, Yanfeng Du, Dong Liang, Yinsheng Li
@@ -2542,99 +2635,4 @@ U-MAPPO. Experimental results in the SMAC environment prove the effectiveness
 of both U-QMIX and U-MAPPO compared with several state-of-the-art MARL methods.
 
 摘要：在多智能體系統 (MAS) 中，動作語義表示智能體動作對其他實體的不同影響，可用於將智能體分組到物理異質 MAS 中。先前的多智能體強化學習 (MARL) 演算法對不同類型的異質智能體套用全域參數共享，而未仔細區分不同的動作語義。這種常見的實作會降低智能體在複雜情況下的合作與協調。然而，完全獨立的智能體參數會大幅增加運算成本和訓練難度。為了從使用不同的動作語義中獲益，同時也維持適當的參數共享結構，我們引進統一動作空間 (UAS) 來滿足需求。UAS 是具有不同語義的所有智能體動作的聯集。所有智能體會先在 UAS 中計算其統一表示，然後使用不同的可用動作遮罩產生其異質動作政策。為了進一步改善額外 UAS 參數的訓練，我們引進一個跨群組反向 (CGI) 損失，以使用軌跡資訊預測其他群組的智能體政策。作為解決物理異質 MARL 問題的通用方法，我們實作 UAS 加入基於價值和基於政策的 MARL 演算法，並提出兩種實用的演算法：U-QMIX 和 U-MAPPO。在 SMAC 環境中的實驗結果證明了 U-QMIX 和 U-MAPPO 與幾種最先進的 MARL 方法相比的有效性。
-
-##### **The Complexity of Manipulation of k-Coalitional Games on Graphs**
-2408.07368v1 by Hodaya Barr, Yohai Trabelsi, Sarit Kraus, Liam Roditty, Noam Hazon
-
-In many settings, there is an organizer who would like to divide a set of
-agents into $k$ coalitions, and cares about the friendships within each
-coalition. Specifically, the organizer might want to maximize utilitarian
-social welfare, maximize egalitarian social welfare, or simply guarantee that
-every agent will have at least one friend within his coalition. However, in
-many situations, the organizer is not familiar with the friendship connections,
-and he needs to obtain them from the agents. In this setting, a manipulative
-agent may falsely report friendship connections in order to increase his
-utility. In this paper, we analyze the complexity of finding manipulation in
-such $k$-coalitional games on graphs. We also introduce a new type of
-manipulation, socially-aware manipulation, in which the manipulator would like
-to increase his utility without decreasing the social welfare. We then study
-the complexity of finding socially-aware manipulation in our setting. Finally,
-we examine the frequency of socially-aware manipulation and the running time of
-our algorithms via simulation results.
-
-摘要：在許多情況下，會有一位組織者希望將一組代理劃分為 $k$ 個聯盟，並關心每個聯盟內的友誼。具體而言，組織者可能希望最大化功利主義社會福利、最大化平等主義社會福利，或僅保證每個代理在其聯盟內至少有一位朋友。然而，在許多情況下，組織者並不熟悉友誼關係，他需要從代理中獲取這些關係。在這種情況下，一個具有操縱性的代理可能會虛假報告友誼關係，以增加他的效用。在本文中，我們分析了在圖形上發現這種 $k$-聯盟遊戲中操縱行為的複雜性。我們還引入了一種類型的操縱，即社會意識操縱，其中操縱者希望在不降低社會福利的情況下增加他的效用。然後，我們研究了在我們的環境中發現社會意識操縱的複雜性。最後，我們通過模擬結果檢查了社會意識操縱的頻率和我們演算法的執行時間。
-
-##### **Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**
-2408.10259v1 by Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Mei Liu, Zijun Yao
-
-Recent advancements in sequential modeling applied to Electronic Health
-Records (EHR) have greatly influenced prescription recommender systems. While
-the recent literature on drug recommendation has shown promising performance,
-the study of discovering a diversity of coexisting temporal relationships at
-the level of medical codes over consecutive visits remains less explored. The
-goal of this study can be motivated from two perspectives. First, there is a
-need to develop a sophisticated sequential model capable of disentangling the
-complex relationships across sequential visits. Second, it is crucial to
-establish multiple and diverse health profiles for the same patient to ensure a
-comprehensive consideration of different medical intents in drug
-recommendation. To achieve this goal, we introduce Attentive Recommendation
-with Contrasted Intents (ARCI), a multi-level transformer-based method designed
-to capture the different but coexisting temporal paths across a shared sequence
-of visits. Specifically, we propose a novel intent-aware method with
-contrastive learning, that links specialized medical intents of the patients to
-the transformer heads for extracting distinct temporal paths associated with
-different health profiles. We conducted experiments on two real-world datasets
-for the prescription recommendation task using both ranking and classification
-metrics. Our results demonstrate that ARCI has outperformed the
-state-of-the-art prescription recommendation methods and is capable of
-providing interpretable insights for healthcare practitioners.
-
-摘要：最近將序列建模應用於電子健康紀錄 (EHR) 的進展極大地影響了處方推薦系統。雖然最近關於藥物推薦的文獻顯示出令人滿意的效能，但對於在連續就診中發現共存時間關係的多樣性研究仍較少探討。本研究的目標可以從兩個角度來激勵。首先，需要開發一個複雜的序列模型，能夠解開連續就診中的複雜關係。其次，對於同一位患者建立多個且多樣化的健康檔案至關重要，以確保在藥物推薦中全面考量不同的醫療意圖。為了達成此目標，我們引入了帶有對比意圖的專注推薦 (ARCI)，這是一種基於多層次Transformer的方法，旨在擷取共享就診順序中不同但共存的時間路徑。具體來說，我們提出了一種新的意圖感知方法，採用對比學習，將患者的特殊醫療意圖與Transformer頭端連結，以擷取與不同健康檔案相關的不同時間路徑。我們在兩個真實世界的資料集上進行了處方推薦任務的實驗，同時使用排名和分類指標。我們的結果證明 ARCI 優於最先進的處方推薦方法，並且能夠為醫療保健從業人員提供可解釋的見解。
-
-##### **Model Counting in the Wild**
-2408.07059v1 by Arijit Shaw, Kuldeep S. Meel
-
-Model counting is a fundamental problem in automated reasoning with
-applications in probabilistic inference, network reliability, neural network
-verification, and more. Although model counting is computationally intractable
-from a theoretical perspective due to its #P-completeness, the past decade has
-seen significant progress in developing state-of-the-art model counters to
-address scalability challenges.
-  In this work, we conduct a rigorous assessment of the scalability of model
-counters in the wild. To this end, we surveyed 11 application domains and
-collected an aggregate of 2262 benchmarks from these domains. We then evaluated
-six state-of-the-art model counters on these instances to assess scalability
-and runtime performance.
-  Our empirical evaluation demonstrates that the performance of model counters
-varies significantly across different application domains, underscoring the
-need for careful selection by the end user. Additionally, we investigated the
-behavior of different counters with respect to two parameters suggested by the
-model counting community, finding only a weak correlation. Our analysis
-highlights the challenges and opportunities for portfolio-based approaches in
-model counting.
-
-摘要：模型計數是自動推理中的基本問題，在機率推論、網路可靠度、神經網路驗證等領域有其應用。儘管模型計數在理論上因其 #P-completeness 而在計算上難以處理，過去十年來，在開發最先進的模型計數器以解決可擴充性挑戰方面已取得顯著進展。
-在本文中，我們對模型計數器的可擴充性進行了嚴謹的評估。為此，我們調查了 11 個應用領域，並從這些領域收集了 2262 個基準。然後，我們在這些實例上評估了六個最先進的模型計數器，以評估可擴充性和執行時間效能。
-我們的實證評估表明，模型計數器的效能因不同的應用領域而異，這凸顯了最終使用者仔細選擇的必要性。此外，我們研究了不同計數器相對於模型計數社群建議的兩個參數的行為，發現只有微弱的相關性。我們的分析重點說明了模型計數中基於投資組合的方法所面臨的挑戰和機會。
-
-##### **KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**
-2408.07040v1 by Daniele Rege Cambrin, Eleonora Poeta, Eliana Pastor, Tania Cerquitelli, Elena Baralis, Paolo Garza
-
-Segmentation of crop fields is essential for enhancing agricultural
-productivity, monitoring crop health, and promoting sustainable practices. Deep
-learning models adopted for this task must ensure accurate and reliable
-predictions to avoid economic losses and environmental impact. The newly
-proposed Kolmogorov-Arnold networks (KANs) offer promising advancements in the
-performance of neural networks. This paper analyzes the integration of KAN
-layers into the U-Net architecture (U-KAN) to segment crop fields using
-Sentinel-2 and Sentinel-1 satellite images and provides an analysis of the
-performance and explainability of these networks. Our findings indicate a 2\%
-improvement in IoU compared to the traditional full-convolutional U-Net model
-in fewer GFLOPs. Furthermore, gradient-based explanation techniques show that
-U-KAN predictions are highly plausible and that the network has a very high
-ability to focus on the boundaries of cultivated areas rather than on the areas
-themselves. The per-channel relevance analysis also reveals that some channels
-are irrelevant to this task.
-
-摘要：農作物田區分割對於提升農業生產力、監控作物健康和促進永續實務至關重要。採用於此任務的深度學習模型必須確保準確且可靠的預測，以避免經濟損失和環境影響。新提出的柯爾莫哥洛夫-阿諾德網路 (KAN) 為神經網路的效能提供了有希望的進展。本文分析將 KAN 層整合到 U-Net 架構 (U-KAN) 中，以使用 Sentinel-2 和 Sentinel-1 衛星影像分割農作物田區，並提供對這些網路效能和可解釋性的分析。我們的研究結果顯示，與傳統的全卷積 U-Net 模型相比，IoU 提升了 2%，而 GFLOP 較少。此外，基於梯度的解釋技術顯示 U-KAN 預測非常合理，而且網路非常有能力專注於耕作區域的邊界，而不是區域本身。每個通道關聯性分析也顯示，有些通道與此任務無關。
 

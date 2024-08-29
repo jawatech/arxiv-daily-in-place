@@ -2,6 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217v1](http://arxiv.org/abs/2408.15217v1)|null|
+|**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
+|**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076v1](http://arxiv.org/abs/2408.15076v1)|null|
+|**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|null|
+|**2024-08-27**|**Sequence-aware Pre-training for Echocardiography Probe Guidance**|Haojun Jiang et.al.|[2408.15026v1](http://arxiv.org/abs/2408.15026v1)|null|
+|**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
+|**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568v1](http://arxiv.org/abs/2408.14568v1)|null|
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397v1](http://arxiv.org/abs/2408.14397v1)|[link](https://github.com/rajpurkarlab/rexkg)|
@@ -9,7 +16,7 @@
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Automatic Medical Report Generation: Methods and Applications**|Li Guo et.al.|[2408.13988v1](http://arxiv.org/abs/2408.13988v1)|null|
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
-|**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v1](http://arxiv.org/abs/2408.13683v1)|null|
+|**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v2](http://arxiv.org/abs/2408.13683v2)|null|
 |**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
 |**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217v1](http://arxiv.org/abs/2408.13217v1)|null|
 |**2024-08-23**|**Causal machine learning for sustainable agroecosystems**|Vasileios Sitokonstantinou et.al.|[2408.13155v1](http://arxiv.org/abs/2408.13155v1)|null|
@@ -95,15 +102,192 @@
 |**2024-08-13**|**Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**|Arya Hadizadeh Moghaddam et.al.|[2408.10259v1](http://arxiv.org/abs/2408.10259v1)|null|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
 |**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|[link](https://github.com/darthreca/crop-field-segmentation-ukan)|
-|**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037v1](http://arxiv.org/abs/2408.07037v1)|null|
-|**2024-08-13**|**Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**|Bauke Arends et.al.|[2408.06930v2](http://arxiv.org/abs/2408.06930v2)|[link](https://github.com/umcu/echolabeler)|
-|**2024-08-13**|**BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning**|Yuyang Xue et.al.|[2408.06890v1](http://arxiv.org/abs/2408.06890v1)|null|
-|**2024-08-13**|**MGH Radiology Llama: A Llama 3 70B Model for Radiology**|Yucheng Shi et.al.|[2408.11848v1](http://arxiv.org/abs/2408.11848v1)|null|
-|**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|null|
-|**2024-08-12**|**Decentralized Health Intelligence Network (DHIN)**|Abraham Nash et.al.|[2408.06240v3](http://arxiv.org/abs/2408.06240v3)|null|
-|**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163v1](http://arxiv.org/abs/2408.06163v1)|null|
 
 #### Abstracts
+##### **Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**
+2408.15217v1 by Weiyi Zhang, Siyu Huang, Jiancheng Yang, Ruoyu Chen, Zongyuan Ge, Yingfeng Zheng, Danli Shi, Mingguang He
+
+Fundus Fluorescein Angiography (FFA) is a critical tool for assessing retinal
+vascular dynamics and aiding in the diagnosis of eye diseases. However, its
+invasive nature and less accessibility compared to Color Fundus (CF) images
+pose significant challenges. Current CF to FFA translation methods are limited
+to static generation. In this work, we pioneer dynamic FFA video generation
+from static CF images. We introduce an autoregressive GAN for smooth,
+memory-saving frame-by-frame FFA synthesis. To enhance the focus on dynamic
+lesion changes in FFA regions, we design a knowledge mask based on clinical
+experience. Leveraging this mask, our approach integrates innovative knowledge
+mask-guided techniques, including knowledge-boosted attention, knowledge-aware
+discriminators, and mask-enhanced patchNCE loss, aimed at refining generation
+in critical areas and addressing the pixel misalignment challenge. Our method
+achieves the best FVD of 1503.21 and PSNR of 11.81 compared to other common
+video generation approaches. Human assessment by an ophthalmologist confirms
+its high generation quality. Notably, our knowledge mask surpasses supervised
+lesion segmentation masks, offering a promising non-invasive alternative to
+traditional FFA for research and clinical applications. The code is available
+at https://github.com/Michi-3000/Fundus2Video.
+
+摘要：眼底螢光血管攝影 (FFA) 是評估視網膜血管動力學和協助診斷眼疾的重要工具。然而，與彩色眼底 (CF) 影像相比，其侵入性較高且取得不易，因此造成重大挑戰。目前 CF 轉換成 FFA 的翻譯方法僅限於靜態產生。在這項工作中，我們率先從靜態 CF 影像產生動態 FFA 影片。我們引入一個自迴歸 GAN，以進行流暢且節省記憶體的逐幀 FFA 合成。為了加強對 FFA 區域中動態病灶變化的關注，我們根據臨床經驗設計了一個知識遮罩。透過利用這個遮罩，我們的做法整合了創新的知識遮罩引導技術，包括知識增強的注意力、知識感知的辨別器以及遮罩增強的 patchNCE 損失，旨在改善關鍵區域的生成並解決像素未對齊的挑戰。與其他常見的影片生成方法相比，我們的做法達到了最佳的 FVD 1503.21 和 PSNR 11.81。眼科醫師的人為評估證實了其生成品質很高。值得注意的是，我們的知識遮罩超越了有監督的病灶分割遮罩，為傳統 FFA 提供了一個有前途的非侵入性替代方案，可用於研究和臨床應用。程式碼可在 https://github.com/Michi-3000/Fundus2Video 取得。
+
+##### **Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**
+2408.15121v1 by Francesco Sovrano, Michael Lognoul, Giulia Vilone
+
+Significant investment and development have gone into integrating Artificial
+Intelligence (AI) in medical and healthcare applications, leading to advanced
+control systems in medical technology. However, the opacity of AI systems
+raises concerns about essential characteristics needed in such sensitive
+applications, like transparency and trustworthiness. Our study addresses these
+concerns by investigating a process for selecting the most adequate Explainable
+AI (XAI) methods to comply with the explanation requirements of key EU
+regulations in the context of smart bioelectronics for medical devices. The
+adopted methodology starts with categorising smart devices by their control
+mechanisms (open-loop, closed-loop, and semi-closed-loop systems) and delving
+into their technology. Then, we analyse these regulations to define their
+explainability requirements for the various devices and related goals.
+Simultaneously, we classify XAI methods by their explanatory objectives. This
+allows for matching legal explainability requirements with XAI explanatory
+goals and determining the suitable XAI algorithms for achieving them. Our
+findings provide a nuanced understanding of which XAI algorithms align better
+with EU regulations for different types of medical devices. We demonstrate this
+through practical case studies on different neural implants, from chronic
+disease management to advanced prosthetics. This study fills a crucial gap in
+aligning XAI applications in bioelectronics with stringent provisions of EU
+regulations. It provides a practical framework for developers and researchers,
+ensuring their AI innovations advance healthcare technology and adhere to legal
+and ethical standards.
+
+摘要：人工智慧（AI）在醫療和保健應用中投入了大量的投資和開發，進而導致醫療技術中的先進控制系統。然而，AI 系統的不透明性引發了對此類敏感應用中所需基本特性的擔憂，例如透明度和可信度。我們的研究透過調查一個程序來解決這些問題，用於選擇最充分的可解釋 AI（XAI）方法，以符合歐盟法規在醫療器材的智慧型生物電子學中的說明要求。採用的方法從透過其控制機制（開迴路、閉迴路和半閉迴路系統）對智慧型裝置進行分類，並深入探討其技術開始。然後，我們分析這些法規以定義其對各種裝置和相關目標的可解釋性要求。同時，我們透過其說明目標對 XAI 方法進行分類。這允許將法律可解釋性要求與 XAI 說明目標相匹配，並確定適當的 XAI 演算法來達成它們。我們的研究結果提供了對哪些 XAI 演算法更符合歐盟法規以適用於不同類型的醫療器材的細緻理解。我們透過不同神經植入物的實際案例研究來證明這一點，從慢性疾病管理到先進的義肢。這項研究填補了將生物電子學中的 XAI 應用與歐盟法規的嚴格規定相符的重要空白。它為開發人員和研究人員提供了一個實用的架構，確保其 AI 創新能促進醫療技術並遵守法律和道德標準。
+
+##### **MiWaves Reinforcement Learning Algorithm**
+2408.15076v1 by Susobhan Ghosh, Yongyi Guo, Pei-Yao Hung, Lara Coughlin, Erin Bonar, Inbal Nahum-Shani, Maureen Walton, Susan Murphy
+
+The escalating prevalence of cannabis use poses a significant public health
+challenge globally. In the U.S., cannabis use is more prevalent among emerging
+adults (EAs) (ages 18-25) than any other age group, with legalization in the
+multiple states contributing to a public perception that cannabis is less risky
+than in prior decades. To address this growing concern, we developed MiWaves, a
+reinforcement learning (RL) algorithm designed to optimize the delivery of
+personalized intervention prompts to reduce cannabis use among EAs. MiWaves
+leverages domain expertise and prior data to tailor the likelihood of delivery
+of intervention messages. This paper presents a comprehensive overview of the
+algorithm's design, including key decisions and experimental outcomes. The
+finalized MiWaves RL algorithm was deployed in a clinical trial from March to
+May 2024.
+
+摘要：大麻使用率不斷上升，對全球公共衛生構成重大挑戰。在美國，大麻使用率在年輕成年人（EA）（18-25 歲）中比任何其他年齡組都要普遍，多個州的合法化導致公眾認為大麻比過去幾十年風險較低。為了解決這個日益嚴重的問題，我們開發了 MiWaves，這是一種增強學習 (RL) 演算法，旨在優化個性化干預提示的傳遞，以減少 EA 中的大麻使用。MiWaves 利用領域專業知識和先前的數據來調整干預訊息傳遞的可能性。本文全面概述了演算法的設計，包括關鍵決策和實驗結果。最終的 MiWaves RL 演算法已於 2024 年 3 月至 5 月在臨床試驗中部署。
+
+##### **Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**
+2408.15032v1 by Yuqi Zhang, Xiaoqian Zhang, Jiakai Wang, Yuancheng Yang, Taiying Peng, Chao Tong
+
+Computational pathology (CPath) has significantly advanced the clinical
+practice of pathology. Despite the progress made, Multiple Instance Learning
+(MIL), a promising paradigm within CPath, continues to face challenges,
+particularly related to incomplete information utilization. Existing
+frameworks, such as those based on Convolutional Neural Networks (CNNs),
+attention, and selective scan space state sequential model (SSM), lack
+sufficient flexibility and scalability in fusing diverse features, and cannot
+effectively fuse diverse features. Additionally, current approaches do not
+adequately exploit order-related and order-independent features, resulting in
+suboptimal utilization of sequence information. To address these limitations,
+we propose a novel MIL framework called Mamba2MIL. Our framework utilizes the
+state space duality model (SSD) to model long sequences of patches of whole
+slide images (WSIs), which, combined with weighted feature selection, supports
+the fusion processing of more branching features and can be extended according
+to specific application needs. Moreover, we introduce a sequence transformation
+method tailored to varying WSI sizes, which enhances sequence-independent
+features while preserving local sequence information, thereby improving
+sequence information utilization. Extensive experiments demonstrate that
+Mamba2MIL surpasses state-of-the-art MIL methods. We conducted extensive
+experiments across multiple datasets, achieving improvements in nearly all
+performance metrics. Specifically, on the NSCLC dataset, Mamba2MIL achieves a
+binary tumor classification AUC of 0.9533 and an accuracy of 0.8794. On the
+BRACS dataset, it achieves a multiclass classification AUC of 0.7986 and an
+accuracy of 0.4981. The code is available at
+https://github.com/YuqiZhang-Buaa/Mamba2MIL.
+
+摘要：<paragraph>計算病理學 (CPath) 已顯著提升病理學的臨床實務。儘管已有進展，作為 CPath 中一個有前途的範例，多重實例學習 (MIL) 持續面臨挑戰，特別是與不完整資訊使用有關。現有的架構，例如基於卷積神經網路 (CNN)、注意力和選擇性掃描空間狀態序列模型 (SSM) 的架構，在融合各種特徵時缺乏足夠的彈性和可擴充性，且無法有效融合各種特徵。此外，目前的作法並未充分利用與順序相關和與順序無關的特徵，導致序列資訊使用率不佳。為了解決這些限制，我們提出一個名為 Mamba2MIL 的新 MIL 架構。我們的架構利用狀態空間對偶模型 (SSD) 來建模全幻燈片影像 (WSI) 的長序列貼片，這與加權特徵選取結合使用，支援更多分支特徵的融合處理，且可根據特定應用需求進行延伸。此外，我們引入一種針對不同 WSI 大小量身打造的序列轉換方法，這增強了與序列無關的特徵，同時保留了局部序列資訊，進而改善序列資訊使用率。廣泛的實驗證明 Mamba2MIL 超越了最先進的 MIL 方法。我們在多個資料集上進行廣泛的實驗，在幾乎所有效能指標上均獲得改善。特別是在 NSCLC 資料集上，Mamba2MIL 達到 0.9533 的二元腫瘤分類 AUC 和 0.8794 的準確度。在 BRACS 資料集上，它達到 0.7986 的多類別分類 AUC 和 0.4981 的準確度。程式碼可在 https://github.com/YuqiZhang-Buaa/Mamba2MIL 取得。</paragraph>
+
+##### **Sequence-aware Pre-training for Echocardiography Probe Guidance**
+2408.15026v1 by Haojun Jiang, Zhenguo Sun, Yu Sun, Ning Jia, Meng Li, Shaqi Luo, Shiji Song, Gao Huang
+
+Cardiac ultrasound probe guidance aims to help novices adjust the 6-DOF probe
+pose to obtain high-quality sectional images. Cardiac ultrasound faces two
+major challenges: (1) the inherently complex structure of the heart, and (2)
+significant individual variations. Previous works have only learned the
+population-averaged 2D and 3D structures of the heart rather than personalized
+cardiac structural features, leading to a performance bottleneck. Clinically,
+we observed that sonographers adjust their understanding of a patient's cardiac
+structure based on prior scanning sequences, thereby modifying their scanning
+strategies. Inspired by this, we propose a sequence-aware self-supervised
+pre-training method. Specifically, our approach learns personalized 2D and 3D
+cardiac structural features by predicting the masked-out images and actions in
+a scanning sequence. We hypothesize that if the model can predict the missing
+content it has acquired a good understanding of the personalized cardiac
+structure. In the downstream probe guidance task, we also introduced a sequence
+modeling approach that models individual cardiac structural information based
+on the images and actions from historical scan data, enabling more accurate
+navigation decisions. Experiments on a large-scale dataset with 1.36 million
+samples demonstrated that our proposed sequence-aware paradigm can
+significantly reduce navigation errors, with translation errors decreasing by
+15.90% to 36.87% and rotation errors decreasing by 11.13% to 20.77%, compared
+to state-of-the-art methods.
+
+摘要：<paragraph>心臟超音波探頭引導旨在幫助新手調整 6-DOF 探頭姿勢，以取得高品質的斷面影像。心臟超音波面臨兩項主要挑戰：(1) 心臟結構複雜且固有，以及 (2) 個體差異顯著。先前的研究僅學習了整體平均的 2D 和 3D 心臟結構，而非個人化的解剖特徵，導致效能瓶頸。臨床上，我們觀察到超音波技師會根據先前的掃描序列調整他們對患者心臟結構的理解，進而修改他們的掃描策略。受到此啟發，我們提出一個具序列感知的自監督預訓練方法。具體來說，我們的做法透過預測掃描序列中遮罩的影像和動作，來學習個人化的 2D 和 3D 心臟解剖特徵。我們假設，如果模型可以預測遺漏的內容，它便對個人化的解剖結構有了良好的理解。在下游的探頭引導任務中，我們也導入一個序列建模方法，該方法根據歷史掃描資料中的影像和動作，模擬個別心臟解剖資訊，進而做出更精確的導航決策。在有 136 萬個樣本的大規模資料集上進行的實驗證明，我們提出的具序列感知的典範可以大幅減少導航錯誤，其中平移錯誤減少了 15.90% 至 36.87%，旋轉錯誤減少了 11.13% 至 20.77%，與最先進的方法相比。</paragraph>
+
+##### **Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**
+2408.14754v1 by Qiaoxin Li, Ruifeng Chen, Peng Wang, Guotao Quan, Yanfeng Du, Dong Liang, Yinsheng Li
+
+Dual-energy computed tomography (DECT) has been widely used to obtain
+quantitative elemental composition of imaged subjects for personalized and
+precise medical diagnosis. Compared with DECT leveraging advanced X-ray source
+and/or detector technologies, the use of the sequential-scanning data
+acquisition scheme to implement DECT may make a broader impact on clinical
+practice because this scheme requires no specialized hardware designs and can
+be directly implemented into conventional CT systems. However, since the
+concentration of iodinated contrast agent in the imaged subject varies over
+time, sequentially scanned data sets acquired at two tube potentials are
+temporally inconsistent. As existing material basis image reconstruction
+approaches assume that the data sets acquired at two tube potentials are
+temporally consistent, the violation of this assumption results in inaccurate
+quantification of material concentration. In this work, we developed
+sequential-scanning DECT imaging using high temporal resolution image
+reconstruction and error-compensated material basis image generation,
+ACCELERATION in short, to address the technical challenge induced by temporal
+inconsistency of sequentially scanned data sets and improve quantification
+accuracy of material concentration in sequential-scanning DECT. ACCELERATION
+has been validated and evaluated using numerical simulation data sets generated
+from clinical human subject exams and experimental human subject studies.
+Results demonstrated the improvement of quantification accuracy and image
+quality using ACCELERATION.
+
+摘要：雙能量電腦斷層掃描 (DECT) 已廣泛用於取得影像化受試者的定量元素組成，以進行個人化且精確的醫療診斷。與使用進階 X 光源和/或偵測器技術的 DECT 相比，使用連續掃描資料擷取方案來實作 DECT 可能對臨床實務產生更廣泛的影響，因為此方案不需要專門的硬體設計，且可直接實作到傳統 CT 系統中。然而，由於影像化受試者中碘化對比劑的濃度會隨時間而變化，因此在兩個管電位下擷取的連續掃描資料集在時間上並不一致。由於現有的材料基礎影像重建方法假設在兩個管電位下擷取的資料集在時間上是一致的，因此違反此假設會導致材料濃度的量化不準確。在這項工作中，我們開發了使用高時間解析度影像重建和誤差補償材料基礎影像產生的連續掃描 DECT 影像，簡稱 ACCELERATION，以解決連續掃描資料集時間不一致所引發的技術挑戰，並改善連續掃描 DECT 中材料濃度的量化準確度。ACCELERATION 已使用從臨床人體受試者檢查和實驗人體受試者研究產生的數值模擬資料集進行驗證和評估。結果證明使用 ACCELERATION 可改善量化準確度和影像品質。
+
+##### **Improving Clinical Note Generation from Complex Doctor-Patient Conversation**
+2408.14568v1 by Yizhan Li, Sifan Wu, Christopher Smith, Thomas Lo, Bang Liu
+
+Writing clinical notes and documenting medical exams is a critical task for
+healthcare professionals, serving as a vital component of patient care
+documentation. However, manually writing these notes is time-consuming and can
+impact the amount of time clinicians can spend on direct patient interaction
+and other tasks. Consequently, the development of automated clinical note
+generation systems has emerged as a clinically meaningful area of research
+within AI for health. In this paper, we present three key contributions to the
+field of clinical note generation using large language models (LLMs). First, we
+introduce CliniKnote, a comprehensive dataset consisting of 1,200 complex
+doctor-patient conversations paired with their full clinical notes. This
+dataset, created and curated by medical experts with the help of modern neural
+networks, provides a valuable resource for training and evaluating models in
+clinical note generation tasks. Second, we propose the K-SOAP (Keyword,
+Subjective, Objective, Assessment, and Plan) note format, which enhances
+traditional SOAP~\cite{podder2023soap} (Subjective, Objective, Assessment, and
+Plan) notes by adding a keyword section at the top, allowing for quick
+identification of essential information. Third, we develop an automatic
+pipeline to generate K-SOAP notes from doctor-patient conversations and
+benchmark various modern LLMs using various metrics. Our results demonstrate
+significant improvements in efficiency and performance compared to standard LLM
+finetuning methods.
+
+摘要：撰寫臨床筆記和記錄醫療檢查是醫療保健專業人員的一項重要任務，是患者照護文件中的重要組成部分。然而，手動撰寫這些筆記很耗時，並且會影響臨床醫生花在直接患者互動和其他任務上的時間。因此，自動化臨床筆記生成系統的開發已成為 AI 在健康領域中具有臨床意義的研究領域。在本文中，我們提出了使用大型語言模型 (LLM) 進行臨床筆記生成的領域的 3 項關鍵貢獻。首先，我們介紹了 CliniKnote，這是一個綜合性數據集，包含 1,200 個複雜的醫患對話及其完整的臨床筆記。此數據集由醫學專家在現代神經網路的幫助下創建和策劃，為臨床筆記生成任務中的模型訓練和評估提供了寶貴的資源。其次，我們提出了 K-SOAP（關鍵字、主觀、客觀、評估和計畫）筆記格式，它通過在頂部添加一個關鍵字部分來增強傳統的 SOAP~\cite{podder2023soap}（主觀、客觀、評估和計畫）筆記，以便快速識別基本資訊。第三，我們開發了一個自動化管道，從醫患對話中生成 K-SOAP 筆記，並使用各種指標對各種現代 LLM 進行基準測試。我們的結果表明，與標準 LLM 微調方法相比，效率和性能有了顯著的提升。
+
 ##### **Temporal Ensemble Logic**
 2408.14443v1 by Guo-Qiang Zhang
 
@@ -283,7 +467,7 @@ automated and reliable medical imaging analyses with minimal retraining.
 摘要：體積分割對於醫學影像至關重要，但通常受到耗費大量人力的標註和特定場景模型訓練需求的限制。此外，現有的通用分割模型由於其設計和推論方法而效率低下。為了滿足這項臨床需求，我們引入了 PropSAM，這是一種基於傳播的分割模型，優化了 3D 醫學結構資訊的使用。PropSAM 整合了一個基於 CNN 的 UNet，用於切片內處理，以及一個基於 Transformer 的模組，用於切片間傳播，重點關注結構和語義連續性，以增強各種模式下的分割。與需要兩視提示的傳統模型不同，PropSAM 獨特地運作於單視提示上，例如 2D 邊界框或草圖遮罩。它已證明具有優異的效能，顯著改善了 44 個醫學資料集和各種影像模式下的骰子相似係數 (DSC)，優於 MedSAM 和 SegVol 等模型，平均 DSC 提升了 18.1%。儘管提示偏差和傳播配置不同，PropSAM 仍能維持穩定的預測，這已通過單向 ANOVA 測試得到證實，分別為 P>0.5985 和 P>0.6131。此外，PropSAM 的高效架構能實現更快的推論速度（Wilcoxon 等級和總和檢定，P<0.001），並將使用者互動時間減少了 37.8%，優於兩視提示模型。它在處理不規則和複雜物件時能展現出穩健的效能，進一步證明了其在臨床環境中的潛力，有助於以最少的重新訓練進行更自動化和可靠的醫學影像分析。
 
 ##### **Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**
-2408.13683v1 by Andrés Catalino Castillo Jiménez, Ege C. Kaya, Lintao Ye, Abolfazl Hashemi
+2408.13683v2 by Andrés Catalino Castillo Jiménez, Ege C. Kaya, Lintao Ye, Abolfazl Hashemi
 
 In a conventional Federated Learning framework, client selection for training
 typically involves the random sampling of a subset of clients in each
@@ -305,7 +489,7 @@ demonstrated through extensive evaluations across heterogeneous scenarios,
 revealing significant improvements in fairness as measured by a client
 dissimilarity metric.
 
-摘要：在傳統的聯合學習架構中，訓練中的用戶端選擇通常涉及在每次迭代中隨機抽取用戶端子集。然而，這種隨機選擇通常會導致用戶端之間的表現差異，引發了關於公平性的擔憂，特別是在公正結果至關重要的應用中，例如在醫療或金融機器學習任務中。隨著以效能為中心的用戶端抽樣技術的出現，這種差異通常會變得更加明顯。本文介紹了兩種新方法，即 SUBTRUNC 和 UNIONFL，旨在解決隨機用戶端選擇的限制。這兩種方法都利用次模函數最大化來實現更平衡的模型。通過修改設施位置問題，它們旨在減輕與隨機選擇相關的公平性問題。SUBTRUNC 利用用戶端損失資訊來分散解決方案，而 UNIONFL 依賴於歷史用戶端選擇資料，以確保最終模型的效能更公平。此外，這些演算法還伴隨著穩健的理論保證，在合理的假設下保證收斂。這些方法的有效性通過在異質場景中的廣泛評估得到證明，揭示了以用戶端相異性指標衡量的公平性顯著改善。
+摘要：在傳統的聯邦學習框架中，訓練的用戶端選擇通常涉及在每次迭代中隨機抽取用戶端子集。然而，這種隨機選擇通常會導致用戶端之間的表現差異，引發了公平性的擔憂，特別是在公平結果至關重要的應用中，例如醫療或金融機器學習任務。這種差異通常會隨著以效能為中心的用戶端抽樣技術的出現而變得更加明顯。本文介紹了兩種新方法，即 SUBTRUNC 和 UNIONFL，旨在解決隨機用戶端選擇的限制。這兩種方法都利用次模函數最大化來實現更平衡的模型。通過修改設施位置問題，它們旨在緩解與隨機選擇相關的公平性問題。SUBTRUNC 利用用戶端損失資訊來分散解決方案，而 UNIONFL 依賴於歷史用戶端選擇資料，以確保最終模型的效能更公平。此外，這些演算法附帶了關於合理假設下收斂性的強大理論保證。這些方法的效力通過各種異質場景的廣泛評估得到證明，顯示出公平性有顯著改善，這是通過用戶端差異度量指標測量的。
 
 ##### **Towards Case-based Interpretability for Medical Federated Learning**
 2408.13626v1 by Laura Latorre, Liliana Petrychenko, Regina Beets-Tan, Taisiya Kopytova, Wilson Silva
@@ -2453,197 +2637,4 @@ themselves. The per-channel relevance analysis also reveals that some channels
 are irrelevant to this task.
 
 摘要：農作物田區分割對於提升農業生產力、監控作物健康和促進永續實務至關重要。採用於此任務的深度學習模型必須確保準確且可靠的預測，以避免經濟損失和環境影響。新提出的柯爾莫哥洛夫-阿諾德網路 (KAN) 為神經網路的效能提供了有希望的進展。本文分析將 KAN 層整合到 U-Net 架構 (U-KAN) 中，以使用 Sentinel-2 和 Sentinel-1 衛星影像分割農作物田區，並提供對這些網路效能和可解釋性的分析。我們的研究結果顯示，與傳統的全卷積 U-Net 模型相比，IoU 提升了 2%，而 GFLOP 較少。此外，基於梯度的解釋技術顯示 U-KAN 預測非常合理，而且網路非常有能力專注於耕作區域的邊界，而不是區域本身。每個通道關聯性分析也顯示，有些通道與此任務無關。
-
-##### **PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**
-2408.07037v1 by Xiaomin Wu, Rui Xu, Pengchen Wei, Wenkang Qin, Peixiang Huang, Ziheng Li, Lin Luo
-
-Pathological diagnosis remains the definitive standard for identifying
-tumors. The rise of multimodal large models has simplified the process of
-integrating image analysis with textual descriptions. Despite this advancement,
-the substantial costs associated with training and deploying these complex
-multimodal models, together with a scarcity of high-quality training datasets,
-create a significant divide between cutting-edge technology and its application
-in the clinical setting. We had meticulously compiled a dataset of
-approximately 45,000 cases, covering over 6 different tasks, including the
-classification of organ tissues, generating pathology report descriptions, and
-addressing pathology-related questions and answers. We have fine-tuned
-multimodal large models, specifically LLaVA, Qwen-VL, InternLM, with this
-dataset to enhance instruction-based performance. We conducted a qualitative
-assessment of the capabilities of the base model and the fine-tuned model in
-performing image captioning and classification tasks on the specific dataset.
-The evaluation results demonstrate that the fine-tuned model exhibits
-proficiency in addressing typical pathological questions. We hope that by
-making both our models and datasets publicly available, they can be valuable to
-the medical and research communities.
-
-摘要：病理診斷仍然是識別腫瘤的明確標準。多模態大型模型的興起簡化了將影像分析與文字描述整合的過程。儘管有此進展，但訓練和部署這些複雜的多模態模型相關的龐大成本，以及缺乏高品質的訓練資料集，導致尖端技術與其在臨床環境中的應用之間產生了顯著的差距。我們已細心編制了一個包含約 45,000 個案例的資料集，涵蓋 6 項不同的任務，包括器官組織分類、產生病理報告描述，以及回答與病理相關的問題。我們使用這個資料集微調了多模態大型模型，特別是 LLaVA、Qwen-VL、InternLM，以增強基於指令的效能。我們對基礎模型和微調模型在特定資料集上執行影像標題和分類任務的能力進行了定性評估。評估結果表明，微調模型在回答典型病理問題方面表現出熟練度。我們希望透過公開我們的模型和資料集，它們能對醫療和研究社群有價值。
-
-##### **Diagnosis extraction from unstructured Dutch echocardiogram reports using span- and document-level characteristic classification**
-2408.06930v2 by Bauke Arends, Melle Vessies, Dirk van Osch, Arco Teske, Pim van der Harst, René van Es, Bram van Es
-
-Clinical machine learning research and AI driven clinical decision support
-models rely on clinically accurate labels. Manually extracting these labels
-with the help of clinical specialists is often time-consuming and expensive.
-This study tests the feasibility of automatic span- and document-level
-diagnosis extraction from unstructured Dutch echocardiogram reports. We
-included 115,692 unstructured echocardiogram reports from the UMCU a large
-university hospital in the Netherlands. A randomly selected subset was manually
-annotated for the occurrence and severity of eleven commonly described cardiac
-characteristics. We developed and tested several automatic labelling techniques
-at both span and document levels, using weighted and macro F1-score, precision,
-and recall for performance evaluation. We compared the performance of span
-labelling against document labelling methods, which included both direct
-document classifiers and indirect document classifiers that rely on span
-classification results. The SpanCategorizer and MedRoBERTa$.$nl models
-outperformed all other span and document classifiers, respectively. The
-weighted F1-score varied between characteristics, ranging from 0.60 to 0.93 in
-SpanCategorizer and 0.96 to 0.98 in MedRoBERTa$.$nl. Direct document
-classification was superior to indirect document classification using span
-classifiers. SetFit achieved competitive document classification performance
-using only 10% of the training data. Utilizing a reduced label set yielded
-near-perfect document classification results. We recommend using our published
-SpanCategorizer and MedRoBERTa$.$nl models for span- and document-level
-diagnosis extraction from Dutch echocardiography reports. For settings with
-limited training data, SetFit may be a promising alternative for document
-classification.
-
-摘要：<paragraph>臨床機器學習研究和人工智慧驅動的臨床決策支援
-模型依賴於臨床準確的標籤。在臨床專家的協助下，手動提取這些標籤通常既耗時又昂貴。
-本研究測試了從非結構化荷蘭超音波心動圖報告中自動提取跨度和文件級別診斷的可行性。我們
-納入了來自荷蘭一家大型大學醫院 UMCU 的 115,692 份非結構化超音波心動圖報告。隨機選擇的子集經過手動註解，以了解十一種常見描述的心臟
-特徵的發生和嚴重程度。我們開發並測試了跨度和文件級別的幾種自動標籤技術，使用加權和巨集 F1 分數、精確度，
-以及召回率進行效能評估。我們比較了跨度
-標籤與文件標籤方法的效能，其中包括直接
-文件分類器和依賴於跨度
-分類結果的間接文件分類器。SpanCategorizer 和 MedRoBERTa$.$nl 模型
-分別優於所有其他跨度和文件分類器。
-加權 F1 分數因特徵而異，SpanCategorizer 中的範圍從 0.60 到 0.93，MedRoBERTa$.$nl 中的範圍從 0.96 到 0.98。使用跨度
-分類器的間接文件分類不如直接文件分類。SetFit 僅使用 10% 的訓練資料就達到了具有競爭力的文件分類效能。利用減少的標籤集產生了近乎完美的文件分類結果。我們建議使用我們發布的 SpanCategorizer 和 MedRoBERTa$.$nl 模型從荷蘭超音波心動圖報告中提取跨度和文件級別診斷。對於訓練資料有限的設定，SetFit 可能是一種有前途的文件
-分類替代方案。</paragraph>
-
-##### **BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning**
-2408.06890v1 by Yuyang Xue, Junyu Yan, Raman Dutt, Fasih Haider, Jingshuai Liu, Steven McDonagh, Sotirios A. Tsaftaris
-
-Developing models with robust group fairness properties is paramount,
-particularly in ethically sensitive domains such as medical diagnosis. Recent
-approaches to achieving fairness in machine learning require a substantial
-amount of training data and depend on model retraining, which may not be
-practical in real-world scenarios. To mitigate these challenges, we propose
-Bias-based Weight Masking Fine-Tuning (BMFT), a novel post-processing method
-that enhances the fairness of a trained model in significantly fewer epochs
-without requiring access to the original training data. BMFT produces a mask
-over model parameters, which efficiently identifies the weights contributing
-the most towards biased predictions. Furthermore, we propose a two-step
-debiasing strategy, wherein the feature extractor undergoes initial fine-tuning
-on the identified bias-influenced weights, succeeded by a fine-tuning phase on
-a reinitialised classification layer to uphold discriminative performance.
-Extensive experiments across four dermatological datasets and two sensitive
-attributes demonstrate that BMFT outperforms existing state-of-the-art (SOTA)
-techniques in both diagnostic accuracy and fairness metrics. Our findings
-underscore the efficacy and robustness of BMFT in advancing fairness across
-various out-of-distribution (OOD) settings. Our code is available at:
-https://github.com/vios-s/BMFT
-
-摘要：<paragraph>開發具有穩健群組公平性特性的模型至關重要，特別是在醫療診斷等道德敏感領域。最近實現機器學習公平性的方法需要大量的訓練資料，並且依賴於模型再訓練，這在現實情況中可能不切實際。為了緩解這些挑戰，我們提出了基於偏差的權重遮罩微調 (BMFT)，這是一種新穎的後處理方法，可以在顯著更少的輪次中增強訓練模型的公平性，而無需訪問原始訓練資料。BMFT 在模型參數上產生一個遮罩，有效地識別出對偏差預測貢獻最大的權重。此外，我們提出了一種兩步去偏策略，其中特徵提取器對識別出的偏差影響權重進行初始微調，然後在重新初始化的分類層上進行微調階段以維持區分效能。在四個皮膚科資料集和兩個敏感屬性的廣泛實驗中證明，BMFT 在診斷準確性和公平性指標上都優於現有的最先進 (SOTA) 技術。我們的研究結果強調了 BMFT 在推進各種非分佈 (OOD) 設定中的公平性方面的效力和穩健性。我們的程式碼可在以下位置獲得：
-https://github.com/vios-s/BMFT</paragraph>
-
-##### **MGH Radiology Llama: A Llama 3 70B Model for Radiology**
-2408.11848v1 by Yucheng Shi, Peng Shu, Zhengliang Liu, Zihao Wu, Quanzheng Li, Xiang Li
-
-In recent years, the field of radiology has increasingly harnessed the power
-of artificial intelligence (AI) to enhance diagnostic accuracy, streamline
-workflows, and improve patient care. Large language models (LLMs) have emerged
-as particularly promising tools, offering significant potential in assisting
-radiologists with report generation, clinical decision support, and patient
-communication. This paper presents an advanced radiology-focused large language
-model: MGH Radiology Llama. It is developed using the Llama 3 70B model,
-building upon previous domain-specific models like Radiology-GPT and
-Radiology-Llama2. Leveraging a unique and comprehensive dataset from
-Massachusetts General Hospital, comprising over 6.5 million de-identified
-medical reports across various imaging modalities, the model demonstrates
-significant improvements in generating accurate and clinically relevant
-radiology impressions given the corresponding findings. Our evaluation,
-incorporating both traditional metrics and a GPT-4-based assessment, highlights
-the enhanced performance of this work over general-purpose LLMs.
-
-摘要：近年来，放射学领域日益利用人工智能 (AI) 的强大功能来提高诊断准确性、简化工作流程和改善患者护理。大型语言模型 (LLM) 已成为特别有前途的工具，在协助放射科医生生成报告、提供临床决策支持和患者沟通方面具有巨大潜力。本文提出了一种先进的以放射学为重点的大型语言模型：MGH Radiology Llama。它是使用 Llama 3 70B 模型开发的，基于以前的特定领域模型，如 Radiology-GPT 和 Radiology-Llama2。利用来自麻省总医院的独特且全面的数据集，包括超过 650 万份来自各种影像方式的去识别化医疗报告，该模型在根据相应发现生成准确且临床上相关的放射学印象方面展示了显著的改进。我们的评估结合了传统指标和基于 GPT-4 的评估，突出了这项工作相较于通用 LLM 的增强性能。
-
-##### **Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**
-2408.06285v1 by Trisha Das, Dina Albassam, Jimeng Sun
-
-Medical dialogue systems (MDS) enhance patient-physician communication,
-improve healthcare accessibility, and reduce costs. However, acquiring suitable
-data to train these systems poses significant challenges. Privacy concerns
-prevent the use of real conversations, necessitating synthetic alternatives.
-Synthetic dialogue generation from publicly available clinical notes offers a
-promising solution to this issue, providing realistic data while safeguarding
-privacy. Our approach, SynDial, uses a single LLM iteratively with zero-shot
-prompting and a feedback loop to generate and refine high-quality synthetic
-dialogues. The feedback consists of weighted evaluation scores for similarity
-and extractiveness. The iterative process ensures dialogues meet predefined
-thresholds, achieving superior extractiveness as a result of the feedback loop.
-Additionally, evaluation shows that the generated dialogues excel in factuality
-metric compared to the baselines and has comparable diversity scores with GPT4.
-
-摘要：醫療對話系統 (MDS) 可增強病患與醫師的溝通、改善醫療保健的可近性，並降低成本。然而，取得適當的資料來訓練這些系統會造成重大的挑戰。隱私問題會妨礙真實對話的使用，因此需要合成替代方案。從公開可取得的臨床筆記生成合成對話提供了這個問題一個有前景的解決方案，在保護隱私的同時提供真實的資料。我們的 SynDial 方法使用單一 LLM 透過零次提示和回饋迴路，反覆生成和改善高品質的合成對話。回饋包含相似性和抽取性的加權評分。反覆的程序可確保對話符合預先定義的閾值，並因回饋迴路而達成優異的抽取性。此外，評估顯示生成的對話在事實性指標上優於基準，且與 GPT4 具有相當的多樣性評分。
-
-##### **Decentralized Health Intelligence Network (DHIN)**
-2408.06240v3 by Abraham Nash
-
-Decentralized Health Intelligence Network (DHIN) is a theoretical framework
-addressing significant challenges of health data sovereignty and AI utilization
-in healthcare caused by data fragmentation across providers and institutions.
-It establishes a sovereign architecture for healthcare provision as a
-prerequisite to a sovereign health network, then facilitates effective AI
-utilization by overcoming barriers to accessing diverse medical data sources.
-This comprehensive framework leverages: 1) self-sovereign identity architecture
-coupled with a personal health record (PHR) as a prerequisite for health data
-sovereignty; 2) a scalable federated learning (FL) protocol implemented on a
-public blockchain for decentralized AI training in healthcare, where health
-data remains with participants and only model parameter updates are shared; and
-3) a scalable, trustless rewards mechanism to incentivize participation and
-ensure fair reward distribution. This framework ensures that no entity can
-prevent or control access to training on health data offered by participants or
-determine financial benefits, as these processes operate on a public blockchain
-with an immutable record and without a third party. It supports effective AI
-training in healthcare, allowing patients to maintain control over their health
-data, benefit financially, and contribute to a decentralized, scalable
-ecosystem that leverages collective AI to develop beneficial healthcare
-algorithms. Patients receive rewards into their digital wallets as an incentive
-to opt-in to the FL protocol, with a long-term roadmap to funding decentralized
-insurance solutions. This approach introduces a novel, self-financed healthcare
-model that adapts to individual needs, complements existing systems, and
-redefines universal coverage. It highlights the potential to transform
-healthcare data management and AI utilization while empowering patients.
-
-摘要：分散式健康情報網路 (DHIN) 是個理論架構，
-用來解決醫療保健中因資料分散在各個供應商和機構而產生的健康資料主權和 AI 使用的重大挑戰。
-它建立了一個主權架構來提供醫療保健，作為主權健康網路的先決條件，然後透過克服取得多樣化醫療資料來源的障礙，促進有效的 AI 使用。
-這個全面的架構利用：1) 自主權身分架構，結合個人健康紀錄 (PHR) 作為健康資料主權的先決條件；2) 在公共區塊鏈上實作的可擴充聯合學習 (FL) 協定，用於醫療保健中的分散式 AI 訓練，其中健康資料仍由參與者持有，只有模型參數更新會被分享；3) 可擴充的、無信任的獎勵機制，用於激勵參與並確保公平的獎勵分配。這個架構確保沒有任何實體可以阻止或控制參與者提供的健康資料訓練存取，或決定財務利益，因為這些程序是在公共區塊鏈上運作，具有不可變更的紀錄，而且沒有第三方。它支援在醫療保健中進行有效的 AI 訓練，讓患者可以維持對其健康資料的控制權，獲得財務利益，並貢獻到一個分散式、可擴充的生態系統，利用集體 AI 來開發有益的醫療保健演算法。患者會收到獎勵到他們的數位錢包中，作為選擇加入 FL 協定的誘因，長期目標是為分散式保險解決方案提供資金。這種方法引進了一個新穎的、自我資助的醫療保健模式，可以適應個別需求，補充現有系統，並重新定義全民健保。它突顯了轉型醫療保健資料管理和 AI 使用的潛力，同時賦予患者權力。
-
-##### **ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**
-2408.06163v1 by Qiaoxin Li, Dong Liang, Yinsheng Li
-
-Dual-energy computed tomography (DECT) has been widely used to obtain
-quantitative elemental composition of imaged subjects for personalized and
-precise medical diagnosis. Compared with existing high-end DECT leveraging
-advanced X-ray source and/or detector technologies, the use of the
-sequentially-scanning data acquisition scheme to implement DECT may make
-broader impact on clinical practice because this scheme requires no specialized
-hardware designs. However, since the concentration of iodinated contrast agent
-in the imaged subject varies over time, sequentially-scanned data sets acquired
-at two tube potentials are temporally inconsistent. As existing material
-decomposition approaches for DECT assume that the data sets acquired at two
-tube potentials are temporally consistent, the violation of this assumption
-results in inaccurate quantification accuracy of iodine concentration. In this
-work, we developed a technique to achieve sequentially-scanning DECT imaging
-using high temporal resolution image reconstruction and temporal extrapolation,
-ACCELERATION in short, to address the technical challenge induced by temporal
-inconsistency of sequentially-scanned data sets and improve iodine
-quantification accuracy in sequentially-scanning DECT. ACCELERATION has been
-validated and evaluated using numerical simulation data sets generated from
-clinical human subject exams. Results demonstrated the improvement of iodine
-quantification accuracy using ACCELERATION.
-
-摘要：雙能電腦斷層掃描 (DECT) 已廣泛用於取得影像化受試者的定量元素組成，以進行個人化且精確的醫療診斷。與利用先進 X 光源和/或偵測器技術的現有高階 DECT 相比，使用連續掃描資料擷取方案來實作 DECT 可能對臨床實務造成更廣泛的影響，因為此方案不需要專門的硬體設計。然而，由於影像化受試者中碘化對比劑的濃度會隨著時間而變化，因此在兩個管電位下擷取的連續掃描資料集在時間上並不一致。由於 DECT 現有的材料分解方法假設在兩個管電位下擷取的資料集在時間上是一致的，因此違反此假設會導致碘濃度的定量準確度不準確。在這項工作中，我們開發了一種技術，使用高時間解析度影像重建和時間外推法來達成連續掃描 DECT 影像，簡稱 ACCELERATION，以解決連續掃描資料集的時間不一致性所造成的技術挑戰，並改善連續掃描 DECT 中的碘定量準確度。ACCELERATION 已使用從臨床人體受試者檢查中產生的數值模擬資料集進行驗證和評估。結果證明使用 ACCELERATION 可改善碘定量準確度。
 

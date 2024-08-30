@@ -2,6 +2,9 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343v1](http://arxiv.org/abs/2408.16343v1)|[link](https://github.com/justlfc03/mstnet)|
+|**2024-08-29**|**Coalitions of AI-based Methods Predict 15-Year Risks of Breast Cancer Metastasis Using Real-World Clinical Data with AUC up to 0.9**|Xia Jiang et.al.|[2408.16256v1](http://arxiv.org/abs/2408.16256v1)|null|
+|**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213v1](http://arxiv.org/abs/2408.16213v1)|null|
 |**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769v1](http://arxiv.org/abs/2408.15769v1)|null|
 |**2024-08-28**|**Deep Learning to Predict Late-Onset Breast Cancer Metastasis: the Single Hyperparameter Grid Search (SHGS) Strategy for Meta Tuning Concerning Deep Feed-forward Neural Network**|Yijun Zhou et.al.|[2408.15498v1](http://arxiv.org/abs/2408.15498v1)|null|
 |**2024-08-27**|**What Is Required for Empathic AI? It Depends, and Why That Matters for AI Developers and Users**|Jana Schaich Borg et.al.|[2408.15354v1](http://arxiv.org/abs/2408.15354v1)|null|
@@ -99,11 +102,82 @@
 |**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|null|
 |**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|null|
 |**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576v2](http://arxiv.org/abs/2408.07576v2)|[link](https://github.com/hyunwoo137/metaseg)|
-|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|[link](https://github.com/hku-medai/mult-ehr)|
-|**2024-08-14**|**Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531v2](http://arxiv.org/abs/2408.07531v2)|null|
-|**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
 
 #### Abstracts
+##### **Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**
+2408.16343v1 by Yifei Chen, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin, Jin Fan, Yong Peng, Changmiao Wang
+
+Alzheimer's Disease (AD) is a complex neurodegenerative disorder marked by
+memory loss, executive dysfunction, and personality changes. Early diagnosis is
+challenging due to subtle symptoms and varied presentations, often leading to
+misdiagnosis with traditional unimodal diagnostic methods due to their limited
+scope. This study introduces an advanced multimodal classification model that
+integrates clinical, cognitive, neuroimaging, and EEG data to enhance
+diagnostic accuracy. The model incorporates a feature tagger with a tabular
+data coding architecture and utilizes the TimesBlock module to capture
+intricate temporal patterns in Electroencephalograms (EEG) data. By employing
+Cross-modal Attention Aggregation module, the model effectively fuses Magnetic
+Resonance Imaging (MRI) spatial information with EEG temporal data,
+significantly improving the distinction between AD, Mild Cognitive Impairment,
+and Normal Cognition. Simultaneously, we have constructed the first AD
+classification dataset that includes three modalities: EEG, MRI, and tabular
+data. Our innovative approach aims to facilitate early diagnosis and
+intervention, potentially slowing the progression of AD. The source code and
+our private ADMC dataset are available at https://github.com/JustlfC03/MSTNet.
+
+摘要：阿茲海默症 (AD) 是一種複雜的神經退化性疾病，特徵是記憶力喪失、執行功能障礙和人格改變。由於症狀微妙且表現形式多樣，早期診斷具有挑戰性，通常由於傳統單模態診斷方法的範圍有限而導致誤診。本研究引入了一個先進的多模態分類模型，它整合了臨床、認知、神經影像和腦電圖數據，以提高診斷準確性。該模型結合了一個具有表格數據編碼架構的特徵標籤器，並利用 TimesBlock 模組來捕捉腦電圖 (EEG) 數據中的複雜時間模式。通過採用跨模態注意力聚合模組，該模型有效地融合了磁共振成像 (MRI) 空間資訊和腦電圖時間數據，顯著改善了 AD、輕度認知障礙和正常認知之間的區別。同時，我們構建了第一個 AD 分類數據集，其中包含三種模態：腦電圖、磁共振成像和表格數據。我們的創新方法旨在促進早期診斷和干預，潛在地減緩 AD 的進展。原始碼和我們的私人 ADMC 數據集可在 https://github.com/JustlfC03/MSTNet 獲得。
+
+##### **Coalitions of AI-based Methods Predict 15-Year Risks of Breast Cancer Metastasis Using Real-World Clinical Data with AUC up to 0.9**
+2408.16256v1 by Xia Jiang, Yijun Zhou, Alan Wells, Adam Brufsky
+
+Breast cancer is one of the two cancers responsible for the most deaths in
+women, with about 42,000 deaths each year in the US. That there are over
+300,000 breast cancers newly diagnosed each year suggests that only a fraction
+of the cancers result in mortality. Thus, most of the women undergo seemingly
+curative treatment for localized cancers, but a significant later succumb to
+metastatic disease for which current treatments are only temporizing for the
+vast majority. The current prognostic metrics are of little actionable value
+for 4 of the 5 women seemingly cured after local treatment, and many women are
+exposed to morbid and even mortal adjuvant therapies unnecessarily, with these
+adjuvant therapies reducing metastatic recurrence by only a third. Thus, there
+is a need for better prognostics to target aggressive treatment at those who
+are likely to relapse and spare those who were actually cured. While there is a
+plethora of molecular and tumor-marker assays in use and under-development to
+detect recurrence early, these are time consuming, expensive and still often
+un-validated as to actionable prognostic utility. A different approach would
+use large data techniques to determine clinical and histopathological
+parameters that would provide accurate prognostics using existing data. Herein,
+we report on machine learning, together with grid search and Bayesian Networks
+to develop algorithms that present a AUC of up to 0.9 in ROC analyses, using
+only extant data. Such algorithms could be rapidly translated to clinical
+management as they do not require testing beyond routine tumor evaluations.
+
+摘要：乳癌是造成女性死亡人數最多的兩種癌症之一，每年約有 42,000 名女性死於乳癌。每年有超過 300,000 例乳癌新確診，這表示只有少部分癌症會導致死亡。因此，大多數女性接受局部癌症的根治性治療，但許多人後來仍會死於轉移性疾病，而目前的治療方法對絕大多數患者來說只是暫時的。目前的預後指標對於 5 名接受局部治療後看似治癒的女性中，有 4 名幾乎沒有實際價值，許多女性不必要地接受病態甚至致命的輔助療法，而這些輔助療法僅能將轉移性復發率降低三分之一。因此，需要更好的預後指標，才能針對那些可能復發的人進行積極治療，並避免那些實際上已經治癒的人接受治療。雖然有許多分子和腫瘤標記檢測方法正在使用和開發中，可以及早發現復發，但這些方法耗時、昂貴，而且作為可操作的預後工具，其效用仍然常常未經驗證。另一種方法會使用大量的資料技術，來確定臨床和組織病理學參數，並使用現有資料提供準確的預後指標。在此，我們報告了機器學習，以及網格搜尋和貝氏網路，用來開發演算法，在 ROC 分析中提供高達 0.9 的 AUC，僅使用現有資料。此類演算法可以快速轉換為臨床管理，因為它們不需要進行常規腫瘤評估以外的測試。
+
+##### **M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**
+2408.16213v1 by Jonggwon Park, Soobum Kim, Byungmu Yoon, Jihun Hyun, Kyoyun Choi
+
+The rapid evolution of artificial intelligence, especially in large language
+models (LLMs), has significantly impacted various domains, including
+healthcare. In chest X-ray (CXR) analysis, previous studies have employed LLMs,
+but with limitations: either underutilizing the multi-tasking capabilities of
+LLMs or lacking clinical accuracy. This paper presents M4CXR, a multi-modal LLM
+designed to enhance CXR interpretation. The model is trained on a visual
+instruction-following dataset that integrates various task-specific datasets in
+a conversational format. As a result, the model supports multiple tasks such as
+medical report generation (MRG), visual grounding, and visual question
+answering (VQA). M4CXR achieves state-of-the-art clinical accuracy in MRG by
+employing a chain-of-thought prompting strategy, in which it identifies
+findings in CXR images and subsequently generates corresponding reports. The
+model is adaptable to various MRG scenarios depending on the available inputs,
+such as single-image, multi-image, and multi-study contexts. In addition to
+MRG, M4CXR performs visual grounding at a level comparable to specialized
+models and also demonstrates outstanding performance in VQA. Both quantitative
+and qualitative assessments reveal M4CXR's versatility in MRG, visual
+grounding, and VQA, while consistently maintaining clinical accuracy.
+
+摘要：人工智慧的快速發展，特別是在大型語言模型 (LLM) 中，已對包括醫療保健在內的各個領域產生重大影響。在胸部 X 光 (CXR) 分析中，先前的研究已採用 LLM，但有其限制：不是未能充分利用 LLM 的多任務處理能力，就是缺乏臨床準確性。本文提出 M4CXR，一種多模態 LLM，旨在增強 CXR 解釋。該模型訓練於視覺指令遵循資料集，其中以對話格式整合各種特定任務資料集。因此，該模型支援多項任務，例如醫療報告產生 (MRG)、視覺基礎和視覺問題回答 (VQA)。M4CXR 透過採用思考鏈提示策略，在 MRG 中達成最先進的臨床準確性，其中它會識別 CXR 影像中的發現，並隨後產生對應的報告。該模型可根據可用輸入（例如單一影像、多重影像和多重研究脈絡）適應各種 MRG 情境。除了 MRG 之外，M4CXR 以與專門模型相當的層級執行視覺基礎，並在 VQA 中展現出色的效能。定量和定性評估均顯示出 M4CXR 在 MRG、視覺基礎和 VQA 中的多功能性，同時持續維持臨床準確性。
+
 ##### **A Survey on Evaluation of Multimodal Large Language Models**
 2408.15769v1 by Jiaxing Huang, Jingyi Zhang
 
@@ -2545,94 +2619,4 @@ segmentation benchmark, including ADE20K, Cityscapes, COCO-stuff, and Synapse.
 The code is available at https://github.com/hyunwoo137/MetaSeg.
 
 摘要：<paragraph>除了 Transformer 之外，探索如何利用 MetaFormer 的容量非常重要，MetaFormer 是一种对 Transformer 性能改进至关重要的架构。以往的研究仅将其用于主干网络。与以往的研究不同，我们在语义分割任务中更广泛地探索了 Metaformer 架构的容量。我们提出了一个强大的语义分割网络 MetaSeg，它利用了从主干到解码器的 Metaformer 架构。我们的 MetaSeg 表明，MetaFormer 架构在为解码器和主干捕获有用上下文方面发挥了重要作用。此外，最近的分割方法表明，使用基于 CNN 的主干提取空间信息和使用解码器提取全局信息比使用基于 Transformer 的主干和基于 CNN 的解码器更有效。这促使我们采用使用 MetaFormer 块的基于 CNN 的主干，并设计了基于 MetaFormer 的解码器，该解码器包含一个新颖的自注意力模块来捕获全局上下文。为了同时考虑全局上下文提取和语义分割的自注意力的计算效率，我们提出了一种通道缩减注意力 (CRA) 模块，它将查询和键的通道维度缩减为一个维度。通过这种方式，我们提出的 MetaSeg 在流行的语义分割和医学图像分割基准（包括 ADE20K、Cityscapes、COCO-stuff 和 Synapse）上以更有效的计算成本优于以往的最新方法。代码可在 https://github.com/hyunwoo137/MetaSeg 获得。</paragraph>
-
-##### **Multi-task Heterogeneous Graph Learning on Electronic Health Records**
-2408.07569v1 by Tsai Hor Chan, Guosheng Yin, Kyongtae Bae, Lequan Yu
-
-Learning electronic health records (EHRs) has received emerging attention
-because of its capability to facilitate accurate medical diagnosis. Since the
-EHRs contain enriched information specifying complex interactions between
-entities, modeling EHRs with graphs is shown to be effective in practice. The
-EHRs, however, present a great degree of heterogeneity, sparsity, and
-complexity, which hamper the performance of most of the models applied to them.
-Moreover, existing approaches modeling EHRs often focus on learning the
-representations for a single task, overlooking the multi-task nature of EHR
-analysis problems and resulting in limited generalizability across different
-tasks. In view of these limitations, we propose a novel framework for EHR
-modeling, namely MulT-EHR (Multi-Task EHR), which leverages a heterogeneous
-graph to mine the complex relations and model the heterogeneity in the EHRs. To
-mitigate the large degree of noise, we introduce a denoising module based on
-the causal inference framework to adjust for severe confounding effects and
-reduce noise in the EHR data. Additionally, since our model adopts a single
-graph neural network for simultaneous multi-task prediction, we design a
-multi-task learning module to leverage the inter-task knowledge to regularize
-the training process. Extensive empirical studies on MIMIC-III and MIMIC-IV
-datasets validate that the proposed method consistently outperforms the
-state-of-the-art designs in four popular EHR analysis tasks -- drug
-recommendation, and predictions of the length of stay, mortality, and
-readmission. Thorough ablation studies demonstrate the robustness of our method
-upon variations to key components and hyperparameters.
-
-摘要：<paragraph>學習電子健康紀錄（EHR）由於其促進準確醫療診斷的能力而備受關注。由於 EHR 包含豐富資訊，指定實體之間的複雜互動，因此使用圖形建模 EHR 已被證明在實務上很有效。然而，EHR 呈現出高度的異質性、稀疏性和複雜性，這會阻礙應用於它們的大多數模型的效能。此外，現有的建模 EHR 方法通常專注於學習單一任務的表示，忽略 EHR 分析問題的多任務性質，並導致跨不同任務的概括能力有限。有鑑於這些限制，我們提出了 EHR 建模的新架構，即 MulT-EHR（多任務 EHR），它利用異質圖來挖掘複雜關係並建模 EHR 中的異質性。為了減輕大量的雜訊，我們引入了基於因果推論架構的去雜訊模組，以調整嚴重的混淆效應並減少 EHR 資料中的雜訊。此外，由於我們的模型採用單一圖形神經網路進行同時的多任務預測，因此我們設計了一個多任務學習模組，以利用任務間的知識來規範訓練過程。在 MIMIC-III 和 MIMIC-IV 資料集上的廣泛實證研究驗證了所提出的方法在四項流行的 EHR 分析任務中始終優於最先進的設計——藥物推薦以及預測住院時間、死亡率和再入院率。徹底的消融研究證明了我們的方法在關鍵組成部分和超參數變化上的穩健性。</paragraph>
-
-##### **Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**
-2408.07531v2 by Seungjun Han, Wongyung Choi
-
-Emergency department (ED) overcrowding and the complexity of rapid
-decision-making in critical care settings pose significant challenges to
-healthcare systems worldwide. While clinical decision support systems (CDSS)
-have shown promise, the integration of large language models (LLMs) offers new
-possibilities for enhancing triage accuracy and clinical decision-making. This
-study presents an LLM-driven CDSS designed to assist ED physicians and nurses
-in patient triage, treatment planning, and overall emergency care management.
-  We developed a multi-agent CDSS utilizing Llama-3-70b as the base LLM,
-orchestrated by CrewAI and Langchain. The system comprises four AI agents
-emulating key ED roles: Triage Nurse, Emergency Physician, Pharmacist, and ED
-Coordinator. It incorporates the Korean Triage and Acuity Scale (KTAS) for
-triage assessment and integrates with the RxNorm API for medication management.
-  The model was evaluated using the Asclepius dataset, with performance
-assessed by a clinical emergency medicine specialist. The CDSS demonstrated
-high accuracy in triage decision-making compared to the baseline of a
-single-agent system. Furthermore, the system exhibited strong performance in
-critical areas, including primary diagnosis, critical findings identification,
-disposition decision-making, treatment planning, and resource allocation.
-  Our multi-agent CDSS demonstrates significant potential for supporting
-comprehensive emergency care management. By leveraging state-of-the-art AI
-technologies, this system offers a scalable and adaptable tool that could
-enhance emergency medical care delivery, potentially alleviating ED
-overcrowding and improving patient outcomes. This work contributes to the
-growing field of AI applications in emergency medicine and offers a promising
-direction for future research and clinical implementation.
-
-摘要：<paragraph>急診部門 (ED) 人滿為患，以及在重症照護環境中快速決策的複雜性，對全球的醫療保健系統構成重大挑戰。雖然臨床決策支援系統 (CDSS) 已顯示出前景，但大型語言模型 (LLM) 的整合為提高分流準確度和臨床決策提供了新的可能性。本研究提出了一個由 LLM 驅動的 CDSS，旨在協助急診科醫師和護理師進行病人分流、治療計畫和整體緊急照護管理。
-  我們開發了一個多代理架構的 CDSS，利用 Llama-3-70b 作為基礎 LLM，由 CrewAI 和 Langchain 協調。該系統包含四個模擬關鍵急診科角色的人工智慧代理：分流護理師、急診科醫師、藥劑師和急診科協調員。它結合了韓國分流和嚴重程度量表 (KTAS) 進行分流評估，並與 RxNorm API 整合進行藥物管理。
-  該模型使用 Asclepius 資料集進行評估，由臨床急診醫學專家評估績效。與單一代理系統的基準相比，CDSS 在分流決策方面表現出很高的準確性。此外，該系統在主要診斷、關鍵發現識別、處置決策、治療計畫和資源分配等關鍵領域表現出色。
-  我們的多代理架構 CDSS 展示了在全面緊急照護管理中提供顯著支援的潛力。透過利用最先進的人工智慧技術，此系統提供了一個可擴充且可適應的工具，可以加強緊急醫療照護的提供，潛在減輕急診科人滿為患的情況並改善病人預後。這項工作有助於緊急醫學中的人工智慧應用領域的成長，並為未來的研究和臨床實作提供了有前景的方向。</paragraph>
-
-##### **Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**
-2408.07395v1 by Xiaoyang Yu, Youfang Lin, Shuo Wang, Kai Lv, Sheng Han
-
-In a multi-agent system (MAS), action semantics indicates the different
-influences of agents' actions toward other entities, and can be used to divide
-agents into groups in a physically heterogeneous MAS. Previous multi-agent
-reinforcement learning (MARL) algorithms apply global parameter-sharing across
-different types of heterogeneous agents without careful discrimination of
-different action semantics. This common implementation decreases the
-cooperation and coordination between agents in complex situations. However,
-fully independent agent parameters dramatically increase the computational cost
-and training difficulty. In order to benefit from the usage of different action
-semantics while also maintaining a proper parameter-sharing structure, we
-introduce the Unified Action Space (UAS) to fulfill the requirement. The UAS is
-the union set of all agent actions with different semantics. All agents first
-calculate their unified representation in the UAS, and then generate their
-heterogeneous action policies using different available-action-masks. To
-further improve the training of extra UAS parameters, we introduce a
-Cross-Group Inverse (CGI) loss to predict other groups' agent policies with the
-trajectory information. As a universal method for solving the physically
-heterogeneous MARL problem, we implement the UAS adding to both value-based and
-policy-based MARL algorithms, and propose two practical algorithms: U-QMIX and
-U-MAPPO. Experimental results in the SMAC environment prove the effectiveness
-of both U-QMIX and U-MAPPO compared with several state-of-the-art MARL methods.
-
-摘要：在多智能體系統 (MAS) 中，動作語義表示智能體動作對其他實體的不同影響，可用於將智能體分組到物理異質 MAS 中。先前的多智能體強化學習 (MARL) 演算法對不同類型的異質智能體套用全域參數共享，而未仔細區分不同的動作語義。這種常見的實作會降低智能體在複雜情況下的合作與協調。然而，完全獨立的智能體參數會大幅增加運算成本和訓練難度。為了從使用不同的動作語義中獲益，同時也維持適當的參數共享結構，我們引進統一動作空間 (UAS) 來滿足需求。UAS 是具有不同語義的所有智能體動作的聯集。所有智能體會先在 UAS 中計算其統一表示，然後使用不同的可用動作遮罩產生其異質動作政策。為了進一步改善額外 UAS 參數的訓練，我們引進一個跨群組反向 (CGI) 損失，以使用軌跡資訊預測其他群組的智能體政策。作為解決物理異質 MARL 問題的通用方法，我們實作 UAS 加入基於價值和基於政策的 MARL 演算法，並提出兩種實用的演算法：U-QMIX 和 U-MAPPO。在 SMAC 環境中的實驗結果證明了 U-QMIX 和 U-MAPPO 與幾種最先進的 MARL 方法相比的有效性。
 

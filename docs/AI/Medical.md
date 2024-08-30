@@ -10,7 +10,7 @@
 |**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076v1](http://arxiv.org/abs/2408.15076v1)|[link](https://github.com/statisticalreinforcementlearninglab/miwaves_rl_service)|
 |**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|null|
 |**2024-08-27**|**Sequence-aware Pre-training for Echocardiography Probe Guidance**|Haojun Jiang et.al.|[2408.15026v1](http://arxiv.org/abs/2408.15026v1)|null|
-|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v1](http://arxiv.org/abs/2408.15294v1)|null|
+|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
 |**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568v1](http://arxiv.org/abs/2408.14568v1)|null|
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|null|
@@ -57,7 +57,7 @@
 |**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532v1](http://arxiv.org/abs/2408.10532v1)|null|
 |**2024-08-19**|**Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**|Elaine Kong et.al.|[2408.10108v1](http://arxiv.org/abs/2408.10108v1)|null|
 |**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075v1](http://arxiv.org/abs/2408.10075v1)|null|
-|**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039v1](http://arxiv.org/abs/2408.10039v1)|null|
+|**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039v2](http://arxiv.org/abs/2408.10039v2)|null|
 |**2024-08-19**|**LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**|Weiji Kong et.al.|[2408.09899v1](http://arxiv.org/abs/2408.09899v1)|null|
 |**2024-08-19**|**Preoperative Rotator Cuff Tear Prediction from Shoulder Radiographs using a Convolutional Block Attention Module-Integrated Neural Network**|Chris Hyunchul Jo et.al.|[2408.09894v1](http://arxiv.org/abs/2408.09894v1)|null|
 |**2024-08-19**|**New spectral imaging biomarkers for sepsis and mortality in intensive care**|Silvia Seidlitz et.al.|[2408.09873v1](http://arxiv.org/abs/2408.09873v1)|[link](https://github.com/imsy-dkfz/htc)|
@@ -310,7 +310,7 @@ to state-of-the-art methods.
 摘要：<paragraph>心臟超音波探頭引導旨在幫助新手調整 6-DOF 探頭姿勢，以取得高品質的斷面影像。心臟超音波面臨兩項主要挑戰：(1) 心臟結構複雜且固有，以及 (2) 個體差異顯著。先前的研究僅學習了整體平均的 2D 和 3D 心臟結構，而非個人化的解剖特徵，導致效能瓶頸。臨床上，我們觀察到超音波技師會根據先前的掃描序列調整他們對患者心臟結構的理解，進而修改他們的掃描策略。受到此啟發，我們提出一個具序列感知的自監督預訓練方法。具體來說，我們的做法透過預測掃描序列中遮罩的影像和動作，來學習個人化的 2D 和 3D 心臟解剖特徵。我們假設，如果模型可以預測遺漏的內容，它便對個人化的解剖結構有了良好的理解。在下游的探頭引導任務中，我們也導入一個序列建模方法，該方法根據歷史掃描資料中的影像和動作，模擬個別心臟解剖資訊，進而做出更精確的導航決策。在有 136 萬個樣本的大規模資料集上進行的實驗證明，我們提出的具序列感知的典範可以大幅減少導航錯誤，其中平移錯誤減少了 15.90% 至 36.87%，旋轉錯誤減少了 11.13% 至 20.77%，與最先進的方法相比。</paragraph>
 
 ##### **Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**
-2408.15294v1 by Christos Theodoropoulos, Natasha Mulligan, Joao Bettencourt-Silva
+2408.15294v2 by Christos Theodoropoulos, Natasha Mulligan, Joao Bettencourt-Silva
 
 Developing novel predictive models with complex biomedical information is
 challenging due to various idiosyncrasies related to heterogeneity,
@@ -324,7 +324,7 @@ ablation studies on different clinical, demographic, and social data, we show
 the robustness of this approach in identifying predictive features in PKGs for
 the task of readmission prediction.
 
-摘要：開發具有複雜生物醫學資訊的新穎預測模型具有挑戰性，這是由於與資料的異質性、標準化或稀疏性相關的各種特殊性。我們之前引入了以人為中心的本体，以組織有關個別患者的資訊，並建立了一個表示學習架構，以提取以人為中心的知識圖譜 (PKG) 並訓練圖神經網路 (GNN)。在本文中，我們提出了一種系統性的方法，以檢查使用來自 MIMIC-III 資料集的結構化和非結構化資訊訓練的 GNN 模型的結果。透過對不同的臨床、人口統計和社會資料進行消融研究，我們展示了這種方法在識別 PKG 中的預測特徵以進行再入院預測任務時的穩健性。
+摘要：開發具有複雜生物醫學資訊的新穎預測模型，由於資料的異質性、標準化或稀疏性，因此具有挑戰性。我們先前介紹了一個以人為中心的本體，用於組織有關個別患者的資訊，以及一個表示學習架構，用於提取以人為中心的知識圖譜 (PKG) 和訓練圖形神經網路 (GNN)。在本文中，我們提出了一種系統性的方法來檢驗使用 MIMIC-III 資料集中的結構化和非結構化資訊訓練的 GNN 模型的結果。透過對不同的臨床、人口統計和社會資料進行消融研究，我們展示了這種方法在識別 PKG 中的預測特徵以進行再入院預測任務時的穩健性。
 
 ##### **Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**
 2408.14754v1 by Qiaoxin Li, Ruifeng Chen, Peng Wang, Guotao Quan, Yanfeng Du, Dong Liang, Yinsheng Li
@@ -1484,7 +1484,7 @@ model alignment.
 摘要：人類回饋強化學習 (RLHF) 是一個強大的範例，可以將基礎模型與人類價值觀和偏好保持一致。然而，目前的 RLHF 技術無法說明不同族群中個別人類偏好的自然發生差異。當這些差異出現時，傳統的 RLHF 架構只會對它們進行平均，導致不準確的獎勵和個別子群的表現不佳。為了滿足多元化對齊的需求，我們開發了一類多模態 RLHF 方法。我們提出的技術基於潛在變數公式，推論出新的使用者特定潛在變數，並學習在沒有額外使用者特定資料的情況下，以此潛在變數為條件的獎勵模型和政策。雖然在概念上很簡單，但我們表明在實務上，這種獎勵建模需要仔細考量模型架構和獎勵縮放的演算法考量。為了實證驗證我們提出的技術，我們首先表明它可以提供一種方法來對抗模擬控制問題中的規格不足，推論和最佳化使用者特定的獎勵函數。接下來，我們對代表不同使用者偏好的多元語言資料集進行實驗，並展示改進的獎勵函數準確度。我們另外說明這種機率架構在衡量不確定性和主動學習使用者偏好方面的優點。這項工作能夠從具有不同偏好的不同使用者群體中學習，這是一個在機器人學習到基礎模型對齊問題中自然發生的重要挑戰。
 
 ##### **MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**
-2408.10039v1 by Ruihui Hou, Shencheng Chen, Yongqi Fan, Lifeng Zhu, Jing Sun, Jingping Liu, Tong Ruan
+2408.10039v2 by Ruihui Hou, Shencheng Chen, Yongqi Fan, Lifeng Zhu, Jing Sun, Jingping Liu, Tong Ruan
 
 Clinical diagnosis is critical in medical practice, typically requiring a
 continuous and evolving process that includes primary diagnosis, differential
@@ -1502,7 +1502,7 @@ experimental results demonstrate the effectiveness of the proposed method. We
 also provide a comprehensive experimental analysis and suggest future research
 directions for this task.
 
-摘要：臨床診斷在醫療實務中至關重要，通常需要一個連續且不斷演進的過程，包括初步診斷、鑑別診斷和最終診斷。然而，現有的臨床診斷任務大多是單步驟的過程，與實際臨床環境中發現的複雜多步驟診斷程序不符。在本文中，我們提出了一項多步驟的診斷任務，並標註了一個臨床診斷資料集 (MSDiagnosis)。此資料集包含初步診斷、鑑別診斷和最終診斷的問題。此外，我們提出了一個新穎且有效的架構。此架構結合了前向推理、後向推理、反思和改善，使 LLM 能自我評估和調整其診斷結果。為了評估我們提出的方法的有效性，我們設計並進行了廣泛的實驗。實驗結果證明了所提出方法的有效性。我們還提供了全面的實驗分析，並建議了此任務的未來研究方向。
+摘要：臨床診斷在醫療實務中至關重要，通常需要一個包含初步診斷、鑑別診斷和最終診斷的持續且不斷演進的過程。然而，現有的臨床診斷任務大多是單步驟的過程，這與現實世界臨床環境中發現的複雜多步驟診斷程序並不相符。在本文中，我們提出了一個多步驟的診斷任務，並註解了一個臨床診斷資料集 (MSDiagnosis)。此資料集包含初步診斷、鑑別診斷和最終診斷問題。此外，我們提出了一個新穎且有效的架構。此架構結合了前向推理、後向推理、反思和改進，使 LLM 能夠自我評估並調整其診斷結果。為了評估我們所提出的方法的有效性，我們設計並進行了廣泛的實驗。實驗結果證明了所提出方法的有效性。我們還提供了全面的實驗分析，並提出了此任務的未來研究方向。
 
 ##### **LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**
 2408.09899v1 by Weiji Kong, Xun Gong, Juan Wang

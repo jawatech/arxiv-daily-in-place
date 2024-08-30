@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|[link](https://github.com/nvlabs/eagle)|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|[link](https://github.com/lunaaa95/mou)|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|null|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992v1](http://arxiv.org/abs/2408.15992v1)|[link](https://github.com/lil-lab/cogen)|
 |**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980v1](http://arxiv.org/abs/2408.15980v1)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978v1](http://arxiv.org/abs/2408.15978v1)|null|
@@ -18,7 +18,7 @@
 |**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898v1](http://arxiv.org/abs/2408.15898v1)|null|
 |**2024-08-28**|**A New Method for Cross-Lingual-based Semantic Role Labeling**|Mohammad Ebrahimi et.al.|[2408.15896v1](http://arxiv.org/abs/2408.15896v1)|null|
 |**2024-08-28**|**Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models**|Sebastian Vallejo Vera et.al.|[2408.15895v1](http://arxiv.org/abs/2408.15895v1)|null|
-|**2024-08-28**|**Enhancing Intrusion Detection in IoT Environments: An Advanced Ensemble Approach Using Kolmogorov-Arnold Networks**|Amar Amouri et.al.|[2408.15886v1](http://arxiv.org/abs/2408.15886v1)|null|
+|**2024-08-28**|**Enhancing Intrusion Detection in IoT Environments: An Advanced Ensemble Approach Using Kolmogorov-Arnold Networks**|Amar Amouri et.al.|[2408.15886v2](http://arxiv.org/abs/2408.15886v2)|null|
 |**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879v1](http://arxiv.org/abs/2408.15879v1)|null|
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868v1](http://arxiv.org/abs/2408.15868v1)|null|
 |**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866v1](http://arxiv.org/abs/2408.15866v1)|null|
@@ -32,13 +32,13 @@
 |**2024-08-28**|**Language Adaptation on a Tight Academic Compute Budget: Tokenizer Swapping Works and Pure bfloat16 Is Enough**|Konstantin Dobler et.al.|[2408.15793v1](http://arxiv.org/abs/2408.15793v1)|[link](https://github.com/konstantinjdobler/tight-budget-llm-adaptation)|
 |**2024-08-28**|**Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions**|Huachuan Qiu et.al.|[2408.15787v1](http://arxiv.org/abs/2408.15787v1)|[link](https://github.com/qiuhuachuan/interactive-agents)|
 |**2024-08-28**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778v1](http://arxiv.org/abs/2408.15778v1)|null|
-|**2024-08-28**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775v1](http://arxiv.org/abs/2408.15775v1)|null|
+|**2024-08-28**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775v2](http://arxiv.org/abs/2408.15775v2)|null|
 |**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769v1](http://arxiv.org/abs/2408.15769v1)|null|
 |**2024-08-28**|**Harmonized Speculative Sampling**|Lefan Zhang et.al.|[2408.15766v1](http://arxiv.org/abs/2408.15766v1)|null|
 |**2024-08-28**|**Form and meaning co-determine the realization of tone in Taiwan Mandarin spontaneous speech: the case of Tone 3 sandhi**|Yuxin Lu et.al.|[2408.15747v1](http://arxiv.org/abs/2408.15747v1)|null|
 |**2024-08-28**|**LM-PUB-QUIZ: A Comprehensive Framework for Zero-Shot Evaluation of Relational Knowledge in Language Models**|Max Ploner et.al.|[2408.15729v1](http://arxiv.org/abs/2408.15729v1)|null|
 |**2024-08-28**|**Advanced POD-Based Performance Evaluation of Classifiers Applied to Human Driver Lane Changing Prediction**|Zahra Rastin et.al.|[2408.15722v1](http://arxiv.org/abs/2408.15722v1)|null|
-|**2024-08-28**|**Conan-embedding: General Text Embedding with More and Better Negative Samples**|Shiyu Li et.al.|[2408.15710v1](http://arxiv.org/abs/2408.15710v1)|null|
+|**2024-08-28**|**Conan-embedding: General Text Embedding with More and Better Negative Samples**|Shiyu Li et.al.|[2408.15710v2](http://arxiv.org/abs/2408.15710v2)|null|
 |**2024-08-28**|**Evaluating Model Robustness Using Adaptive Sparse L0 Regularization**|Weiyou Liu et.al.|[2408.15702v1](http://arxiv.org/abs/2408.15702v1)|null|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|null|
 |**2024-08-28**|**StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements**|Jillian Fisher et.al.|[2408.15666v1](http://arxiv.org/abs/2408.15666v1)|[link](https://github.com/jfisher52/StyleRemix)|
@@ -46,19 +46,19 @@
 |**2024-08-28**|**An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation**|Thai Tang Quoc et.al.|[2408.15658v1](http://arxiv.org/abs/2408.15658v1)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650v1](http://arxiv.org/abs/2408.15650v1)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649v1](http://arxiv.org/abs/2408.15649v1)|[link](https://github.com/mpietrasik/hb)|
-|**2024-08-28**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640v1](http://arxiv.org/abs/2408.15640v1)|null|
+|**2024-08-28**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640v2](http://arxiv.org/abs/2408.15640v2)|null|
 |**2024-08-28**|**CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation**|Pooja Aggarwal et.al.|[2408.15630v1](http://arxiv.org/abs/2408.15630v1)|null|
 |**2024-08-28**|**CBF-LLM: Safe Control for LLM Alignment**|Yuya Miyaoka et.al.|[2408.15625v1](http://arxiv.org/abs/2408.15625v1)|[link](https://github.com/mya-mya/cbf-llm)|
 |**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565v1](http://arxiv.org/abs/2408.15565v1)|[link](https://github.com/tencent-ailab/siam)|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562v1](http://arxiv.org/abs/2408.15562v1)|null|
-|**2024-08-28**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561v1](http://arxiv.org/abs/2408.15561v1)|null|
+|**2024-08-28**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561v2](http://arxiv.org/abs/2408.15561v2)|null|
 |**2024-08-28**|**Trustworthy and Responsible AI for Human-Centric Autonomous Decision-Making Systems**|Farzaneh Dehghani et.al.|[2408.15550v1](http://arxiv.org/abs/2408.15550v1)|null|
 |**2024-08-28**|**WildFeedback: Aligning LLMs With In-situ User Interactions And Feedback**|Taiwei Shi et.al.|[2408.15549v1](http://arxiv.org/abs/2408.15549v1)|null|
 |**2024-08-28**|**SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding**|Sihang Li et.al.|[2408.15545v1](http://arxiv.org/abs/2408.15545v1)|null|
 |**2024-08-28**|**An Investigation of Warning Erroneous Chat Translations in Cross-lingual Communication**|Yunmeng Li et.al.|[2408.15543v1](http://arxiv.org/abs/2408.15543v1)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542v1](http://arxiv.org/abs/2408.15542v1)|null|
 |**2024-08-28**|**TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**|Guanren Qiao et.al.|[2408.15538v1](http://arxiv.org/abs/2408.15538v1)|[link](https://github.com/qiaoguanren/TrafficGamer)|
-|**2024-08-28**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533v1](http://arxiv.org/abs/2408.15533v1)|null|
+|**2024-08-28**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533v2](http://arxiv.org/abs/2408.15533v2)|[link](https://github.com/tomsawyerhu/lrp4rag)|
 |**2024-08-28**|**Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models**|Wei Chen et.al.|[2408.15518v1](http://arxiv.org/abs/2408.15518v1)|null|
 |**2024-08-28**|**Continual-learning-based framework for structural damage recognition**|Jiangpeng Shu et.al.|[2408.15513v1](http://arxiv.org/abs/2408.15513v1)|null|
 |**2024-08-28**|**Towards Fully Autonomous Research Powered by LLMs: Case Study on Simulations**|Zhihan Liu et.al.|[2408.15512v1](http://arxiv.org/abs/2408.15512v1)|[link](https://github.com/zokaraa/autonomous_simulation_agent)|
@@ -68,7 +68,7 @@
 |**2024-08-28**|**What Machine Learning Tells Us About the Mathematical Structure of Concepts**|Jun Otsuka et.al.|[2408.15507v1](http://arxiv.org/abs/2408.15507v1)|null|
 |**2024-08-28**|**MODULI: Unlocking Preference Generalization via Diffusion Models for Offline Multi-Objective Reinforcement Learning**|Yifu Yuan et.al.|[2408.15501v1](http://arxiv.org/abs/2408.15501v1)|null|
 |**2024-08-28**|**Deep Learning to Predict Late-Onset Breast Cancer Metastasis: the Single Hyperparameter Grid Search (SHGS) Strategy for Meta Tuning Concerning Deep Feed-forward Neural Network**|Yijun Zhou et.al.|[2408.15498v1](http://arxiv.org/abs/2408.15498v1)|null|
-|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v1](http://arxiv.org/abs/2408.15496v1)|null|
+|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v2](http://arxiv.org/abs/2408.15496v2)|null|
 |**2024-08-28**|**Remove Symmetries to Control Model Expressivity**|Liu Ziyin et.al.|[2408.15495v1](http://arxiv.org/abs/2408.15495v1)|null|
 |**2024-08-28**|**Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression**|Haowen Hou et.al.|[2408.15491v1](http://arxiv.org/abs/2408.15491v1)|[link](https://github.com/howard-hou/instruction-aware-contextual-compressor)|
 |**2024-08-28**|**Legilimens: Practical and Unified Content Moderation for Large Language Model Services**|Jialin Wu et.al.|[2408.15488v1](http://arxiv.org/abs/2408.15488v1)|[link](https://github.com/lin000001/Legilimens)|
@@ -76,7 +76,7 @@
 |**2024-08-27**|**Online Event-Triggered Switching for Frequency Control in Power Grids with Variable Inertia**|Jie Feng et.al.|[2408.15436v1](http://arxiv.org/abs/2408.15436v1)|[link](https://github.com/JieFeng-cse/Online-Event-Triggered-Switching-for-Frequency-Control)|
 |**2024-08-27**|**Simultaneous Training of First- and Second-Order Optimizers in Population-Based Reinforcement Learning**|Felix Pfeiffer et.al.|[2408.15421v1](http://arxiv.org/abs/2408.15421v1)|null|
 |**2024-08-27**|**Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations**|Yize Zhao et.al.|[2408.15417v1](http://arxiv.org/abs/2408.15417v1)|null|
-|**2024-08-27**|**Awes, Laws, and Flaws From Today's LLM Research**|Adrian de Wynter et.al.|[2408.15409v1](http://arxiv.org/abs/2408.15409v1)|[link](https://github.com/adewynter/awes_laws_and_flaws)|
+|**2024-08-27**|**Awes, Laws, and Flaws From Today's LLM Research**|Adrian de Wynter et.al.|[2408.15409v2](http://arxiv.org/abs/2408.15409v2)|[link](https://github.com/adewynter/awes_laws_and_flaws)|
 |**2024-08-27**|**Intertwined Biases Across Social Media Spheres: Unpacking Correlations in Media Bias Dimensions**|Yifan Liu et.al.|[2408.15406v1](http://arxiv.org/abs/2408.15406v1)|null|
 |**2024-08-27**|**A Statistical Framework for Data-dependent Retrieval-Augmented Models**|Soumya Basu et.al.|[2408.15399v1](http://arxiv.org/abs/2408.15399v1)|null|
 |**2024-08-27**|**DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2408.15379v1](http://arxiv.org/abs/2408.15379v1)|null|
@@ -155,7 +155,7 @@ superiority of MoU. Code is available at https://github.com/lunaaa95/mou/.
 摘要：時間序列預測需要平衡短期和長期依賴性，才能做出準確的預測。現有方法主要專注於長期依賴性建模，忽略了短期動態的複雜性，這可能會阻礙效能。Transformer 在建模長期依賴性方面表現優異，但因其二次計算成本而受到批評。Mamba 提供了一個接近線性的替代方案，但據報導，由於潛在資訊遺失，在時間序列長期預測中效果較差。目前的架構無法同時提供高效率和強大的效能，以進行長期依賴性建模。為了應對這些挑戰，我們引入了 Mixture of Universals (MoU)，這是一個通用模型，可以捕捉短期和長期依賴性，以增強時間序列預測的效能。MoU 由兩個新穎的設計組成：特徵萃取器混合 (MoF)，一種適應方法，旨在改善時間序列區塊表示，以適應短期依賴性；以及架構混合 (MoA)，它以一種專業的順序分層整合 Mamba、前饋、卷積和自注意力架構，以從混合觀點對長期依賴性進行建模。所提出的方法在保持相對較低計算成本的同時，達到了最先進的效能。在七個真實世界資料集上進行的廣泛實驗證明了 MoU 的優越性。程式碼可在 https://github.com/lunaaa95/mou/ 獲得。
 
 ##### **Spatio-Temporal Context Prompting for Zero-Shot Action Detection**
-2408.15996v1 by Wei-Jhe Huang, Min-Hung Chen, Shang-Hong Lai
+2408.15996v2 by Wei-Jhe Huang, Min-Hung Chen, Shang-Hong Lai
 
 Spatio-temporal action detection encompasses the tasks of localizing and
 classifying individual actions within a video. Recent works aim to enhance this
@@ -180,7 +180,7 @@ further extended to multi-action videos, bringing it closer to real-world
 applications. The code and data can be found in
 https://webber2933.github.io/ST-CLIP-project-page.
 
-摘要：時空動作偵測包含在影片中定位和分類個別動作的任務。最近的研究旨在透過納入互動建模來增強此流程，此建模捕捉人與其周遭環境之間的關係。然而，這些方法主要專注於完全監督式學習，而目前的限制在於缺乏辨識未見動作類別的概化能力。在本文中，我們旨在調整預先訓練的影像語言模型以偵測未見動作。為此，我們提出一個方法，可以有效利用視覺語言模型豐富的知識來執行人與環境互動。同時，我們的脈絡提示模組將利用脈絡資訊來提示標籤，從而增強更具代表性的文字特徵的產生。此外，為了應對在同一個時間戳記中辨識多個人不同動作的挑戰，我們設計了興趣標記偵測機制，該機制採用預先訓練的視覺知識來尋找每個人物的興趣脈絡標記，然後這些標記將用於提示以產生針對每個個人的客製化文字特徵。為了評估偵測未見動作的能力，我們在 J-HMDB、UCF101-24 和 AVA 資料集上提出了一個全面的基準。實驗顯示，與先前的做法相比，我們的做法獲得了優異的結果，並且可以進一步擴展到多動作影片，使其更接近真實世界的應用。程式碼和資料可以在 https://webber2933.github.io/ST-CLIP-project-page 中找到。
+摘要：時空動作偵測涵蓋了在影片中定位和分類個別動作的任務。最近的研究旨在透過納入互動建模來增強此程序，這能捕捉人與其周遭環境之間的關係。然而，這些方法主要著重於全監督式學習，而目前的限制在於缺乏辨識未見動作類別的概化能力。在本文中，我們旨在調整預訓練的影像語言模型，以偵測未見的動作。為此，我們提出了一種方法，它能有效利用視覺語言模型豐富的知識來執行人情境互動。同時，我們的脈絡提示模組將利用脈絡資訊來提示標籤，從而增強更具代表性的文字特徵的產生。此外，為了應對在同一個時間戳記中辨識多人不同動作的挑戰，我們設計了興趣標記點選機制，它採用預訓練的視覺知識來尋找每個人的興趣脈絡標記，然後這些標記將用於提示，以產生針對每個個體量身打造的文字特徵。為了評估偵測未見動作的能力，我們在 J-HMDB、UCF101-24 和 AVA 資料集上提出了全面的基準。實驗顯示，與先前的做法相比，我們的方法獲得了優異的結果，並且可以進一步擴展到多動作影片，使其更接近於真實世界的應用。程式碼和資料可以在 https://webber2933.github.io/ST-CLIP-project-page 中找到。
 
 ##### **CoGen: Learning from Feedback with Coupled Comprehension and Generation**
 2408.15992v1 by Mustafa Omer Gul, Yoav Artzi
@@ -502,7 +502,7 @@ discussed in the conclusion.
 摘要：人類編碼器有偏見。我們在大型語言模型 (LLM) 中測試了作為註解者的類似偏見。通過複製 Ennser-Jedenastik 和 Meyer (2018) 執行的實驗，我們發現證據表明 LLM 使用政治資訊，特別是政黨線索，來判斷政治聲明。LLM 不僅使用相關資訊根據政黨線索來判斷陳述是正面、負面還是中立，它們還反映了他們接受訓練的人類生成資料的偏見。我們還發現，與只在面對極端政黨的聲明時才會出現偏見的人類不同，即使提示來自中間偏左和中間偏右的政黨的聲明，LLM 仍會表現出顯著的偏見。我們發現的意義在結論中進行了討論。
 
 ##### **Enhancing Intrusion Detection in IoT Environments: An Advanced Ensemble Approach Using Kolmogorov-Arnold Networks**
-2408.15886v1 by Amar Amouri, Mohamad Mahmoud Al Rahhal, Yakoub Bazi, Ismail Butun, Imad Mahgoub
+2408.15886v2 by Amar Amouri, Mohamad Mahmoud Al Rahhal, Yakoub Bazi, Ismail Butun, Imad Mahgoub
 
 In recent years, the evolution of machine learning techniques has
 significantly impacted the field of intrusion detection, particularly within
@@ -526,7 +526,7 @@ underscore the efficacy of integrating KANs with XGBoost, highlighting the
 potential of this innovative approach to significantly strengthen the security
 framework of IoT networks.
 
-摘要：近年來，機器學習技術的演進對入侵偵測領域產生了重大的影響，特別是在物聯網 (IoT) 的背景下。隨著物聯網網路的擴展，對強大安全措施的需求以應對潛在威脅已變得越來越關鍵。本文介紹了一個混合入侵偵測系統 (IDS)，它協同結合了 Kolmogorov-Arnold 網路 (KAN) 和 XGBoost 演算法。我們提出的 IDS 充分利用了 KAN 的獨特功能，它利用可學習的激活函數來建模資料中的複雜關係，以及 XGBoost 強大的整體學習技術，以其在分類任務中的高性能而聞名。這種混合方法不僅增強了偵測準確性，還改善了模型的可解釋性，使其適用於動態且複雜的物聯網環境。實驗評估表明，我們的混合 IDS 在區分良性和惡意活動方面達到了令人印象深刻的 99% 以上的偵測準確性。此外，我們能夠達到超過 98% 的 F1 分數、精確度和召回率。此外，我們對傳統的多層感知器 (MLP) 網路進行了比較分析，評估了精確度、召回率和 F1 分數等效能指標。結果強調了將 KAN 與 XGBoost 整合的有效性，突顯了這種創新方法在顯著加強物聯網網路安全架構方面的潛力。
+摘要：近年來，機器學習技術的演進對入侵偵測領域產生重大影響，特別是在物聯網 (IoT) 的脈絡中。隨著物聯網網路的擴展，對抗潛在威脅的強大安全措施的需求變得越來越關鍵。本文介紹了一種混合入侵偵測系統 (IDS)，它協同結合了 Kolmogorov-Arnold 網路 (KAN) 和 XGBoost 演算法。我們提出的 IDS 利用了 KAN 的獨特功能，它利用可學習的激活函數來模擬資料中的複雜關係，以及 XGBoost 強大的整合學習技術，XGBoost 以其在分類任務中的高性能而聞名。這種混合方法不僅增強了偵測準確性，也改善了模型的可解釋性，使其適用於動態且複雜的物聯網環境。實驗評估表明，我們的混合 IDS 在區分良性和惡意活動方面達到了令人印象深刻的 99% 以上的偵測準確度。此外，我們能夠達到超過 98% 的 F1 分數、精確度和召回率。此外，我們對傳統的多層感知器 (MLP) 網路進行了比較分析，評估了精確度、召回率和 F1 分數等效能指標。結果強調了將 KAN 與 XGBoost 整合的效能，突顯了這種創新方法在顯著強化物聯網網路安全架構方面的潛力。
 
 ##### **Persuasion Games using Large Language Models**
 2408.15879v1 by Ganesh Prasath Ramani, Shirish Karande, Santhosh V, Yash Bhatia
@@ -846,18 +846,18 @@ abilities.
 摘要：大型語言模型 (LLM) 已在各種任務中展現出顯著的能力，展示出複雜的問題解決能力。理解和執行複雜的規則，以及多步驟規劃，是邏輯推理的基礎，對於實用的 LLM 代理和決策系統至關重要。然而，將 LLM 評估為有效的基於規則的執行者和規劃者仍未得到充分探討。在本文中，我們介紹了 LogicGame，這是一個新穎的基準，旨在評估 LLM 全面的規則理解、執行和規劃能力。與傳統基準不同，LogicGame 提供了包含一系列規則和初始狀態的不同遊戲，要求模型理解並應用預定義法規來解決問題。我們創建了模擬場景，其中模型執行或規劃操作以實現特定結果。這些遊戲場景經過專門設計，通過完全依賴預定義規則來區分邏輯推理和僅有的知識。這種分離允許對基於規則的推理能力進行純粹的評估。評估不僅考慮最終結果，還考慮中間步驟，對模型性能進行全面評估。此外，這些中間步驟是確定性的，可以自動驗證。LogicGame 定義了具有不同難度級別的遊戲場景，從簡單的規則應用到複雜的推理鏈，以便對模型在規則理解和多步驟執行方面的性能進行精確評估。利用 LogicGame，我們測試了各種 LLM，並發現它們在基於規則的邏輯推理能力方面存在顯著的缺陷。
 
 ##### **Easy, Interpretable, Effective: openSMILE for voice deepfake detection**
-2408.15775v1 by Octavian Pascu, Dan Oneata, Horia Cucu, Nicolas M. Müller
+2408.15775v2 by Octavian Pascu, Dan Oneata, Horia Cucu, Nicolas M. Müller
 
 In this paper, we demonstrate that attacks in the latest ASVspoof5 dataset --
 a de facto standard in the field of voice authenticity and deepfake detection
 -- can be identified with surprising accuracy using a small subset of very
 simplistic features. These are derived from the openSMILE library, and are
 scalar-valued, easy to compute, and human interpretable. For example, attack
-A10`s unvoiced segments have a mean length of 0.09 \pm 0.02, while bona fide
-instances have a mean length of 0.18 \pm 0.07. Using this feature alone, a
+A10`s unvoiced segments have a mean length of 0.09 +- 0.02, while bona fide
+instances have a mean length of 0.18 +- 0.07. Using this feature alone, a
 threshold classifier achieves an Equal Error Rate (EER) of 10.3% for attack
 A10. Similarly, across all attacks, we achieve up to 0.8% EER, with an overall
-EER of 15.7 \pm 6.0%. We explore the generalization capabilities of these
+EER of 15.7 +- 6.0%. We explore the generalization capabilities of these
 features and find that some of them transfer effectively between attacks,
 primarily when the attacks originate from similar Text-to-Speech (TTS)
 architectures. This finding may indicate that voice anti-spoofing is, in part,
@@ -865,9 +865,9 @@ a problem of identifying and remembering signatures or fingerprints of
 individual TTS systems. This allows to better understand anti-spoofing models
 and their challenges in real-world application.
 
-摘要：<paragraph>在本文中，我們證明了在最新的 ASVspoof5 資料集中進行攻擊 --
-在語音真實性和深度偽造檢測領域中的事實標準
--- 可以使用非常簡單功能的小子集識別出令人驚訝的準確度。這些功能來自 openSMILE 函式庫，它們是標量值、易於計算且人類可解釋的。例如，攻擊 A10 的無聲區段平均長度為 0.09 \pm 0.02，而真實的實例平均長度為 0.18 \pm 0.07。僅使用此功能，閾值分類器即可針對攻擊 A10 達到 10.3% 的相等錯誤率 (EER)。同樣，在所有攻擊中，我們達到了高達 0.8% 的 EER，整體 EER 為 15.7 \pm 6.0%。我們探索了這些功能的泛化能力，發現其中一些功能在攻擊之間有效轉移，特別是在攻擊源自類似的文字轉語音 (TTS) 架構時。這一發現可能表明語音防欺騙在一定程度上是識別和記憶個別 TTS 系統的簽名或指紋的問題。這有助於更好地理解防欺騙模型及其在實際應用中的挑戰。</paragraph>
+摘要：在本文中，我們證明了在最新的 ASVspoof5 資料集中攻擊 --
+語音真實性和深度偽造偵測領域的既定標準
+-- 可以使用非常簡單特徵的子集識別出驚人的準確度。這些特徵來自 openSMILE 函式庫，是標量值，易於計算，且人類可以理解。例如，攻擊 A10 的無聲區段平均長度為 0.09 +- 0.02，而真實案例的平均長度為 0.18 +- 0.07。單獨使用此特徵，閾值分類器可為攻擊 A10 達到 10.3% 的等錯誤率 (EER)。類似地，在所有攻擊中，我們達到 0.8% 的 EER，整體 EER 為 15.7 +- 6.0%。我們探討了這些特徵的泛化能力，發現其中一些特徵在攻擊之間有效轉移，特別是在攻擊源自於類似的文字轉語音 (TTS) 架構時。此發現可能表明語音防偽在某種程度上是識別和記憶個別 TTS 系統的簽章或指紋的問題。這有助於我們進一步了解防偽模型及其在現實世界應用中的挑戰。
 
 ##### **A Survey on Evaluation of Multimodal Large Language Models**
 2408.15769v1 by Jiaxing Huang, Jingyi Zhang
@@ -995,7 +995,7 @@ simplicity.
 摘要：機器學習 (ML) 分類器是促進各種領域分類和預測的必要工具。應了解這些演算法的效能，以確保其可靠的應用。在某些領域中，接收器操作特性和精準度召回曲線經常被用於評估機器學習演算法，而不會考量流程參數的影響。然而，評估這些演算法相對於這些參數的效能可能至關重要。本文使用改良的偵測機率 (POD) 方法，作為一種能夠考量流程參數影響的效能評估指標，來評估基於 ML 的演算法的可靠性。舉例來說，基於 POD 的方法被用於評估用於預測車輛駕駛變換車道行為的 ML 模型。預測（因此未知）的變換車道事件的剩餘時間被視為流程參數。本文採用 POD 的命中/未命中方法，並透過考量 ML 演算法在每個時間步驟中產生的變換車道機率，以及相應地取得分析的最終結果，來修改該方法。與將分類器的結果視為 0 或 1 的標準命中/未命中方法相比，這改善了結果的可靠性，同時也簡化了與 ^a 相對於 a 方法的評估。將所提出的方法的效能評估結果與使用標準命中/未命中方法和預先開發的 ^a 相對於 a 方法所獲得的結果進行比較，以驗證所提出方法的有效性。比較結果顯示，此方法提供了平均保守的行為，具有增強 POD 的命中/未命中方法的可靠性的優點，同時保留其簡潔性。
 
 ##### **Conan-embedding: General Text Embedding with More and Better Negative Samples**
-2408.15710v1 by Shiyu Li, Yang Tang, Shizhe Chen, Xi Chen
+2408.15710v2 by Shiyu Li, Yang Tang, Shizhe Chen, Xi Chen
 
 With the growing popularity of RAG, the capabilities of embedding models are
 gaining increasing attention. Embedding models are primarily trained through
@@ -1015,7 +1015,7 @@ from LLMs can be used for embedding training. Our approach effectively enhances
 the capabilities of embedding models, currently ranking first on the Chinese
 leaderboard of Massive text embedding benchmark
 
-摘要：随着 RAG 的日益普及，嵌入模型的能力正受到越来越多的关注。嵌入模型主要通过对比损失学习进行训练，负面示例是一个关键组成部分。以前的工作提出了各种困难的负面挖掘策略，但这些策略通常被用作预处理步骤。在本文中，我们提出了 conan 嵌入模型，它最大限度地利用了更多和更高质量的负面示例。具体来说，由于模型处理预处理负面示例的能力在训练过程中不断发展，我们提出了动态困难负面挖掘方法，以在整个训练过程中将模型暴露于更具挑战性的负面示例。其次，对比学习需要尽可能多的负面示例，但受到 GPU 内存限制。因此，我们使用跨 GPU 平衡损失来为嵌入训练提供更多负面示例，并在多个任务中平衡批处理大小。此外，我们还发现 LLM 中的提示响应对可用于嵌入训练。我们的方法有效地增强了嵌入模型的能力，目前在中文大规模文本嵌入基准测试排行榜中排名第一
+摘要：随着 RAG 的日益普及，嵌入模型的能力正受到越来越多的关注。嵌入模型主要通过对比损失学习进行训练，其中负样本是一个关键组成部分。以往的工作提出了各种困难的负样本挖掘策略，但这些策略通常被用作预处理步骤。在本文中，我们提出了 conan 嵌入模型，它最大限度地利用了更多更高质量的负样本。具体来说，由于模型处理预处理负样本的能力在训练过程中不断进化，我们提出了动态困难负样本挖掘方法，以在整个训练过程中将模型暴露于更具挑战性的负样本。其次，对比学习需要尽可能多的负样本，但受到 GPU 内存限制。因此，我们使用跨 GPU 平衡损失来为嵌入训练提供更多负样本，并在多个任务中平衡批处理大小。此外，我们还发现，来自 LLM 的提示响应对可用于嵌入训练。我们的方法有效地增强了嵌入模型的能力，目前在中文大规模文本嵌入基准测试排行榜上名列前茅
 
 ##### **Evaluating Model Robustness Using Adaptive Sparse L0 Regularization**
 2408.15702v1 by Weiyou Liu, Zhenyang Li, Weitong Chen
@@ -1175,7 +1175,7 @@ scalable inference schemes.
 摘要：在本文中，我们研究概率图模型（特别是随机块模型）在知识图谱中进行分层实体聚类时的用途。这些模型在语义网社区中很少使用，可以将图分解为一组概率分布。然后推断这些分布的参数，以便进行后续抽样以生成随机图。在非参数设置中，这允许在没有层次结构约束的情况下归纳层次聚类。具体来说，这是通过将嵌套中国餐馆过程和树枝断裂过程集成到生成模型中来实现的。在这方面，我们提出了一个利用这种集成的模型，并为其推论推导出一个折叠的 Gibbs 采样方案。为了帮助理解，我们描述了此推导中的步骤，并为采样器提供了实现。我们对合成和真实世界数据集评估了我们的模型，并与基准模型进行了定量比较。我们进一步定性评估了我们的结果，发现我们的模型能够在小规模设置中归纳出连贯的聚类层次结构。本文提出的工作为在更大规模上进一步应用知识图谱的随机块模型提供了第一步。我们以未来工作中可扩展推论方案的潜在途径结束了本文。
 
 ##### **GANs Conditioning Methods: A Survey**
-2408.15640v1 by Anis Bourou, Auguste Genovesio, Valérie Mezger
+2408.15640v2 by Anis Bourou, Auguste Genovesio, Valérie Mezger
 
 In recent years, Generative Adversarial Networks (GANs) have seen significant
 advancements, leading to their widespread adoption across various fields. The
@@ -1196,7 +1196,7 @@ performance on various image datasets. Through these analyses, we aim to
 provide insights into the strengths and limitations of various conditioning
 techniques, guiding future research and application in generative modeling.
 
-摘要：近年来，生成对抗网络 (GAN) 已获得重大进展，导致其在各个领域得到广泛采用。原始 GAN 架构能够生成图像，而无需对内容进行任何特定控制，使其成为无条件生成过程。然而，许多实际应用需要对生成的输出进行精确控制，这导致了条件 GAN (cGAN) 的开发，它结合了显式条件来指导生成过程。cGAN 通过合并附加信息（条件）扩展了原始框架，从而能够生成符合特定条件的样本。已经提出了各种条件方法，它们在将条件信息集成到生成器和判别器网络中的方式上各不相同。在这项工作中，我们回顾了为 GAN 提出的条件方法，探讨了每种方法的特征，并重点介绍了它们独特的机制和理论基础。此外，我们对这些方法进行了比较分析，评估了它们在各种图像数据集上的性能。通过这些分析，我们旨在深入了解各种条件技术的优势和局限性，指导生成建模中的未来研究和应用。
+摘要：近年來，生成對抗網路 (GAN) 已顯著進步，因而廣泛運用於各個領域。原始 GAN 架構能夠生成影像，但無法特別控制內容，因此屬於無條件生成程序。然而，許多實際應用都需要精準控制所生成的輸出，這促使條件式 GAN (cGAN) 應運而生，它結合明確條件來引導生成程序。cGAN 在原始架構中加入額外的資訊（條件），進而擴充功能，能夠生成符合特定條件的樣本。已提出各種條件式方法，每種方法整合條件資訊至生成器和鑑別器網路的方式各不相同。在這項研究中，我們回顧為 GAN 提出的條件式方法，探討每種方法的特性，並強調其獨特的機制和理論基礎。此外，我們對這些方法進行比較分析，評估它們在各種影像資料集上的效能。透過這些分析，我們旨在提供洞察力，瞭解各種條件式技術的優缺點，引導未來在生成模型中的研究和應用。
 
 ##### **CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation**
 2408.15630v1 by Pooja Aggarwal, Oishik Chatterjee, Ting Dai, Prateeti Mohapatra, Brent Paulovicks, Brad Blancett, Arthur De Magalhaes
@@ -1284,7 +1284,7 @@ aforementioned tasks and target LLMs.
 摘要：無失真推測解碼透過採用輕量級草稿模型來加速目標大型語言模型 (LLM) 推論，以產生樹狀結構候選，隨後由目標 LLM 平行驗證。目前，有效的方法利用草稿模型中特徵層級而非代幣層級自迴歸，以促進更直接的預測和增強知識萃取。在本文中，我們重新評估這些方法，並提出 FSPAD（特徵取樣和部分對齊萃取用於無失真推測解碼），在現有架構中引入兩個直接且有效的元件，以提升無失真推測解碼。首先，由於特徵的固有不確定性會妨礙草稿模型取得目標 LLM 的特定代幣輸出，FSPAD 利用代幣嵌入在高維空間中取樣目標 LLM 的特徵，然後將其輸入草稿模型。其次，FSPAD 引入部分對齊萃取，以弱化草稿模型中特徵和 logit 之間的關聯，旨在減少特徵對齊和 logit 信心在訓練期間的衝突。我們的實驗包括在 Vicuna 和 LLaMA3-Instruct 系列中最大和最小的模型上進行貪婪和非貪婪解碼，以及多輪對話、翻譯、摘要、問答、數學推理和檢索增強生成中的任務。結果顯示，FSPAD 在所有上述任務和目標 LLM 中都優於最先進的方法。
 
 ##### **CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**
-2408.15561v1 by G Abarajithan, Zhenghua Ma, Zepeng Li, Shrideep Koparkar, Ravidu Munasinghe, Francesco Restuccia, Ryan Kastner
+2408.15561v2 by G Abarajithan, Zhenghua Ma, Zepeng Li, Shrideep Koparkar, Ravidu Munasinghe, Francesco Restuccia, Ryan Kastner
 
 Scientific edge computing increasingly relies on hardware-accelerated neural
 networks to implement complex, near-sensor processing at extremely high
@@ -1308,7 +1308,7 @@ and C runtime, facilitates easy integration and experimentation, allowing
 scientists to focus on innovation rather than the intricacies of hardware
 design and optimization.
 
-摘要：科學邊緣運算越來越依賴硬體加速的神經網路，以極高的吞吐量和低延遲，來實現複雜的近感測器處理。現有的 HLS4ML 等框架對於較小的模型很有效，但由於需要在空間上實作神經網路層，並將所有權重儲存在晶片記憶體中，因此難以處理更大、更現代的神經網路。CGRA4ML 是一個開源的模組化框架，旨在彌合神經網路模型複雜性與極端效能需求之間的差距。CGRA4ML 透過允許晶片外資料儲存，並支援更廣泛的神經網路架構（包括 ResNet、PointNet 和 Transformer 等模型），來擴充 HLS4ML 的功能。與 HLS4ML 不同，CGRA4ML 會產生 SystemVerilog RTL，使其更適合用於 ASIC 和 FPGA 設計流程。我們透過實作和擴充先前使用 HLS4ML 無法達成的較大型模型，展示了我們框架的有效性，並展示了其在處理複雜運算時的適應性和效率。CGRA4ML 也導入了一個廣泛的驗證框架，並具有一個產生的執行時期韌體，使其能夠整合到不同的 SoC 平台。CGRA4ML 最小且模組化的基礎架構包含 Python API、SystemVerilog 硬體、Tcl 工具流程和 C 執行時期，促進了輕鬆的整合和實驗，讓科學家能夠專注於創新，而不是硬體設計和最佳化的複雜性。
+摘要：科學邊緣運算越來越依賴硬體加速神經網路，在極高的吞吐量和低延遲下實作複雜的近感測器處理。現有的框架，例如 HLS4ML，對於較小的模型很有效，但對於較大、現代的神經網路卻難以應付，因為它們需要在空間上實作神經網路層，並將所有權重儲存在晶片記憶體中。CGRA4ML 是一個開源的模組化框架，旨在彌合神經網路模型複雜度與極端效能需求之間的差距。CGRA4ML 透過允許晶片外資料儲存和支援更廣泛的神經網路架構（包括 ResNet、PointNet 和 Transformer 等模型）來擴充 HLS4ML 的功能。與 HLS4ML 不同的是，CGRA4ML 會產生 SystemVerilog RTL，使其更適合用於 ASIC 和 FPGA 設計流程。我們透過實作和擴充先前無法使用 HLS4ML 達成的更大模型來展示我們框架的有效性，展示其在處理複雜運算時的適應性和效率。CGRA4ML 也引進一個廣泛的驗證框架，並搭配一個產生的執行時期韌體，讓它能夠整合到不同的 SoC 平台。CGRA4ML 最小且模組化的基礎架構，包含 Python API、SystemVerilog 硬體、Tcl 工具流程和 C 執行時期，促進了輕鬆的整合和實驗，讓科學家可以專注於創新，而不是硬體設計和最佳化的複雜性。
 
 ##### **Trustworthy and Responsible AI for Human-Centric Autonomous Decision-Making Systems**
 2408.15550v1 by Farzaneh Dehghani, Mahsa Dibaji, Fahim Anzum, Lily Dey, Alican Basdemir, Sayeh Bayat, Jean-Christophe Boucher, Steve Drew, Sarah Elaine Eaton, Richard Frayne, Gouri Ginde, Ashley Harris, Yani Ioannou, Catherine Lebel, John Lysack, Leslie Salgado Arzuaga, Emma Stanley, Roberto Souza, Ronnie Souza, Lana Wells, Tyler Williamson, Matthias Wilms, Zaman Wahid, Mark Ungrin, Marina Gavrilova, Mariana Bento
@@ -1465,7 +1465,7 @@ https://qiaoguanren.github.io/trafficgamer-demo/.
 摘要：儘管現代自動駕駛（AV）系統可以在一般交通狀況下發展出可靠的駕駛策略，但它們經常在安全關鍵的交通場景中掙扎。這種困難主要來自於此類場景在駕駛數據集中的稀少性，以及與多輛車輛之間的預測模型相關的複雜性。為了支援 AV 策略的測試和改進，模擬安全關鍵的交通事件是一個必須解決的基本挑戰。在這項工作中，我們引入了 TrafficGamer，它通過將常見的道路駕駛視為多主體遊戲，來促進博弈論交通模擬。在評估各種真實世界數據集中的經驗效能時，TrafficGamer 確保了模擬場景的保真度和可利用性，保證它們不僅在靜態上與真實世界的交通分佈保持一致，而且還能有效地捕捉涉及多個主體的安全關鍵場景的均衡。此外，結果表明，TrafficGamer 在各種背景下表現出高度靈活的模擬。具體來說，我們證明了生成的場景可以通過在最佳化過程中配置風險敏感約束來動態適應不同緊密度的均衡。據我們所知，TrafficGamer 是第一個能夠生成涉及多個主體的多樣化交通場景的模擬器。我們已經為這個專案提供了一個試用網頁，網址是 https://qiaoguanren.github.io/trafficgamer-demo/。
 
 ##### **LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**
-2408.15533v1 by Haichuan Hu, Yuhan Sun, Qunjun Zhang
+2408.15533v2 by Haichuan Hu, Yuhan Sun, Quanjun Zhang
 
 Retrieval-Augmented Generation (RAG) has become a primary technique for
 mitigating hallucinations in large language models (LLMs). However, incomplete
@@ -1481,7 +1481,7 @@ To the best of our knowledge, this is the first time that LRP has been used for
 detecting RAG hallucinations, and extensive experiments demonstrate that
 LRP4RAG outperforms existing baselines.
 
-摘要：檢索增強生成 (RAG) 已成為減輕大型語言模型 (LLM) 中幻覺的主要技術。然而，不完整的知識萃取和不足的理解力仍可能誤導 LLM 產生不相關甚至矛盾的回應，這表示幻覺仍存在於 RAG 中。在本文中，我們提出 LRP4RAG，一種基於層級關聯性傳播 (LRP) 演算法的方法，用於偵測 RAG 中的幻覺。具體來說，我們首先利用 LRP 來計算 RAG 產生器的輸入和輸出之間的關聯性。然後，我們對關聯性矩陣套用進一步的萃取和重新取樣。處理過的關聯性資料輸入到多個分類器中，以判斷輸出是否包含幻覺。據我們所知，這是 LRP 首次用於偵測 RAG 幻覺，而且廣泛的實驗證明 LRP4RAG 優於現有的基線。
+摘要：檢索增強生成（RAG）已成為減輕大型語言模型（LLM）中幻覺的主要技術。然而，不完整的知識提取和理解不足仍可能誤導 LLM 產生不相關甚至相互矛盾的回應，這意味著幻覺在 RAG 中仍然存在。在本文中，我們提出了 LRP4RAG，一種基於層級相關性傳播（LRP）演算法的方法，用於檢測 RAG 中的幻覺。具體來說，我們首先利用 LRP 來計算 RAG 生成器的輸入和輸出之間的相關性。然後，我們對相關性矩陣進行進一步的提取和重新抽樣。處理過的相關性資料被輸入到多個分類器中，以確定輸出是否包含幻覺。據我們所知，這是 LRP 首次用於檢測 RAG 幻覺，大量實驗表明 LRP4RAG 優於現有的基線。
 
 ##### **Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models**
 2408.15518v1 by Wei Chen, Zhiyuan Li, Shuo Xin, Yihao Wang
@@ -1713,7 +1713,7 @@ model performance.
 摘要：儘管機器學習在醫學領域已有所進展，但其在臨床應用中的廣泛使用，特別是在預測乳癌轉移方面，仍有其限制。我們致力於建構 DFNN 模型，以預測乳癌轉移 n 年。然而，挑戰在於透過網格搜尋有效率地找出最佳超參數值，這受到時間和資源的限制。諸如 l1 和 l2 等連續超參數的可能性無窮，以及耗時且昂貴的過程等問題，更讓這項任務變得複雜。為了應對這些挑戰，我們開發了單一超參數網格搜尋 (SHGS) 策略，作為網格搜尋前的預選方法。我們針對乳癌轉移預測應用的 DFNN 模型進行 SHGS 實驗，重點分析八個目標超參數：epoch 次數、批次大小、中斷、L1、L2、學習率、衰減和動量。我們製作了三幅圖，每幅圖都描繪了從三個 LSM-I-10-Plus-year 資料集獲得的實驗結果。這些圖表說明了模型效能與目標超參數值之間的關係。對於每個超參數，我們分析了超參數的變動是否會影響模型效能，並檢視是否有特定模式，以及如何針對特定超參數選擇值。我們的實驗結果顯示，超參數的最佳值不僅取決於資料集，也受到其他超參數設定的顯著影響。此外，我們的實驗建議縮小目標超參數值的範圍，這可能有助於低預算的網格搜尋。此方法可作為後續使用網格搜尋以增強模型效能的先前經驗和基礎。
 
 ##### **ReMamba: Equip Mamba with Effective Long-Sequence Modeling**
-2408.15496v1 by Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao
+2408.15496v2 by Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao
 
 While the Mamba architecture demonstrates superior inference efficiency and
 competitive performance on short-context natural language processing (NLP)
@@ -1727,7 +1727,7 @@ results on the LongBench and L-Eval benchmarks demonstrate ReMamba's efficacy,
 improving over the baselines by 3.2 and 1.6 points, respectively, and attaining
 performance almost on par with same-size transformer models.
 
-摘要：儘管 Mamba 架構展示了優異的推論效率和在短篇語境自然語言處理 (NLP) 任務上的競爭力表現，實證證據顯示其理解長篇語境的能耐與基於轉換器的模型相比有限。在本研究中，我們探討 Mamba 模型在長篇語境效率上的問題，並提出 ReMamba，它增強了 Mamba 理解長篇語境的能耐。ReMamba 在兩階段重新前饋處理中納入選擇性壓縮和適應技術，產生最小的額外推論成本開銷。在 LongBench 和 L-Eval 基準上的實驗結果展示了 ReMamba 的功效，分別比基準提高了 3.2 和 1.6 個點，並達到了與相同規模轉換器模型幾乎平起平坐的效能。
+摘要：儘管 Mamba 架構在短語境自然語言處理 (NLP) 任務上展現出優異的推論效率和競爭力，但實證證據顯示，與基於轉換器的模型相比，其理解長語境的容量有限。在這項研究中，我們探討 Mamba 模型在長語境效率上的問題，並提出 ReMamba，它增強了 Mamba 理解長語境的能力。ReMamba 在兩階段的重新前向處理中納入了選擇性壓縮和適應技術，產生最小的額外推論成本負擔。LongBench 和 L-Eval 基準上的實驗結果證明了 ReMamba 的效能，分別比基準線改進了 3.2 和 1.6 個百分點，並達到與相同大小的轉換器模型幾乎相同的效能。
 
 ##### **Remove Symmetries to Control Model Expressivity**
 2408.15495v1 by Liu Ziyin, Yizhou Xu, Isaac Chuang
@@ -1894,7 +1894,7 @@ NTP's influence on the learning of linguistic patterns and regularities.
 摘要：大型文本语料库上的下一个标记预测 (NTP) 已成为训练大型语言模型的首选范例。然而，NTP 如何影响语言模式映射到所得模型表征的几何属性仍不清楚。我们将大型语言模型的训练构建为稀疏概率标签向量的软标签分类，并结合允许无限制生成上下文嵌入的分析近似。此方法将 NTP 训练与对数几率域中的秩约束核范数正则化优化联系起来，为分析词和上下文嵌入的几何结构提供了一个框架。在大型嵌入空间中，我们发现 NTP 隐式倾向于学习具有稀疏加低秩结构的对数几率。虽然稀疏分量捕获了上下文词对的共现频率，但正交低秩分量（在训练过程中变得占主导地位）仅取决于共现矩阵的稀疏模式。因此，当投影到适当的子空间时，紧随同一组下一个标记的上下文的表征会发生坍缩，我们称之为子空间坍缩。我们在合成和小规模真实语言数据集上验证了我们的发现。最后，我们概述了旨在加深对 NTP 对语言模式和规律性学习的影响的理解的潜在研究方向。
 
 ##### **Awes, Laws, and Flaws From Today's LLM Research**
-2408.15409v1 by Adrian de Wynter
+2408.15409v2 by Adrian de Wynter
 
 We perform a critical examination of the scientific methodology behind
 contemporary large language model (LLM) research. For this we assess over 2,000
@@ -1902,14 +1902,15 @@ research works based on criteria typical of what is considered good research
 (e.g. presence of statistical tests and reproducibility) and cross-validate it
 with arguments that are at the centre of controversy (e.g., claims of emergent
 behaviour, the use of LLMs as evaluators). We find multiple trends, such as
-declines in claims of emergent behaviour and the presence of ethics
-disclaimers; and the rise of LLMs as evaluators. This paper underscores the
-need for more scrutiny and rigour by and from this field. Critical reading and
-familiarity with the literature are crucial to live up to the fundamentals of a
-responsible scientific method that is ethical, reproducible, systematic, and
-open to criticism.
+declines in claims of emergent behaviour and ethics disclaimers; the rise of
+LLMs as evaluators in spite of a lack of consensus from the community about
+their useability; and an increase of claims of LLM reasoning abilities,
+typically without leveraging human evaluation. This paper underscores the need
+for more scrutiny and rigour by and from this field to live up to the
+fundamentals of a responsible scientific method that is ethical, reproducible,
+systematic, and open to criticism.
 
-摘要：我們對當代大型語言模型 (LLM) 研究背後的科學方法進行批判性審查。為此，我們根據通常被認為是良好研究標準的標準（例如統計檢定和可重複性）評估了 2,000 多項研究工作，並與爭議核心的論點進行交叉驗證（例如，出現行為主張、將 LLM 用作評估者的主張）。我們發現多種趨勢，例如出現行為主張的減少和倫理聲明的存在；以及 LLM 作為評估者的興起。本文強調需要這個領域進行更多審查和嚴謹性。批判性閱讀和熟悉文獻對於符合負責任的科學方法的基本原則至關重要，該方法具有倫理性、可重複性、系統性和開放性，可以接受批評。
+摘要：我們對當代大型語言模型 (LLM) 研究背後的科學方法進行了嚴格的審查。为此，我們根據被認為是良好研究的典型標準（例如統計檢驗和可複製性）評估了 2,000 多項研究工作，並使用爭議的核心論點（例如，新興行為的說法、將 LLM 用作評估器）對其進行交叉驗證。我們發現了多種趨勢，例如新興行為和道德免責聲明的說法減少；儘管社區對其可用性缺乏共識，但 LLM 作為評估器的地位上升；以及對 LLM 推理能力的說法增加，通常不利用人類評估。本文強調需要該領域更加仔細審查和嚴謹，才能符合負責任的科學方法的基本原則，即道德、可複製、系統化和開放接受批評。
 
 ##### **Intertwined Biases Across Social Media Spheres: Unpacking Correlations in Media Bias Dimensions**
 2408.15406v1 by Yifan Liu, Yike Li, Dong Wang

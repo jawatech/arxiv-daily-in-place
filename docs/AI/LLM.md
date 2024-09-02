@@ -5,14 +5,14 @@
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|[link](https://github.com/ziyuguo99/sam2point)|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|null|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v1](http://arxiv.org/abs/2408.16757v1)|[link](https://github.com/visual-ai/dissect-ood-osr)|
+|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v2](http://arxiv.org/abs/2408.16757v2)|[link](https://github.com/visual-ai/dissect-ood-osr)|
 |**2024-08-29**|**How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**|Jiyue Jiang et.al.|[2408.16756v1](http://arxiv.org/abs/2408.16756v1)|null|
 |**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753v1](http://arxiv.org/abs/2408.16753v1)|null|
 |**2024-08-29**|**A Gradient Analysis Framework for Rewarding Good and Penalizing Bad Examples in Language Models**|Yi-Lin Tuan et.al.|[2408.16751v1](http://arxiv.org/abs/2408.16751v1)|null|
 |**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|null|
 |**2024-08-29**|**Theoretical and Methodological Framework for Studying Texts Produced by Large Language Models**|Jiří Milička et.al.|[2408.16740v1](http://arxiv.org/abs/2408.16740v1)|null|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737v1](http://arxiv.org/abs/2408.16737v1)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v1](http://arxiv.org/abs/2408.16725v1)|null|
+|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v2](http://arxiv.org/abs/2408.16725v2)|[link](https://github.com/gpt-omni/mini-omni)|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
 |**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672v1](http://arxiv.org/abs/2408.16672v1)|null|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673v1](http://arxiv.org/abs/2408.16673v1)|null|
@@ -57,7 +57,7 @@
 |**2024-08-29**|**Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models**|Sekitoshi Kanai et.al.|[2408.16261v1](http://arxiv.org/abs/2408.16261v1)|null|
 |**2024-08-29**|**Making the Most of your Model: Methods for Finetuning and Applying Pretrained Transformers**|Davis Yoshida et.al.|[2408.16241v1](http://arxiv.org/abs/2408.16241v1)|null|
 |**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)|
-|**2024-08-29**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224v1](http://arxiv.org/abs/2408.16224v1)|null|
+|**2024-08-29**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224v2](http://arxiv.org/abs/2408.16224v2)|null|
 |**2024-08-29**|**SSDM: Scalable Speech Dysfluency Modeling**|Jiachen Lian et.al.|[2408.16221v1](http://arxiv.org/abs/2408.16221v1)|null|
 |**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213v1](http://arxiv.org/abs/2408.16213v1)|null|
 |**2024-08-29**|**From cart to truck: meaning shift through words in English in the last two centuries**|Esteban Rodríguez Betancourt et.al.|[2408.16209v1](http://arxiv.org/abs/2408.16209v1)|null|
@@ -171,7 +171,7 @@ diffusion classifiers, and the recently proposed diffusion loss.
 摘要：基於分數的生成模型 (SGM) 已徹底改變生成模型領域，在生成逼真且多樣化的內容方面取得了前所未有的成功。儘管有經驗上的進步，但優化對數似然上的證據下界 (ELBO) 對於訓練擴散生成模型（例如 DDPM）有效的原因，其理論基礎在很大程度上仍未得到探索。在本文中，我們通過建立連續時間擴散過程的密度公式來解決這個問題，該公式可以視為 SGM 中前向過程的連續時間極限。這個公式揭示了目標密度與與前向過程的每一步相關的分數函數之間的聯繫。在此基礎上，我們證明了訓練 DDPM 的優化目標的極小值幾乎與真實目標的極小值一致，為使用 ELBO 優化 DDPM 提供了理論基礎。此外，我們對生成對抗網路 (GAN) 訓練中分數匹配正則化的作用、擴散分類器中 ELBO 的使用以及最近提出的擴散損失提供了新的見解。
 
 ##### **Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**
-2408.16757v1 by Hongjun Wang, Sagar Vaze, Kai Han
+2408.16757v2 by Hongjun Wang, Sagar Vaze, Kai Han
 
 Detecting test-time distribution shift has emerged as a key capability for
 safely deployed machine learning models, with the question being tackled under
@@ -191,10 +191,10 @@ surprisingly find that the best performing method on standard benchmarks
 are sensitive to the deep feature magnitude consistently show promise; and (iv)
 We conduct empirical analysis to explain these phenomena and highlight
 directions for future research. Code:
-\url{https://github.com/Visual-AI/Dissect-OOD-OSR}
+https://github.com/Visual-AI/Dissect-OOD-OSR
 
-摘要：偵測測試時間分佈轉移已成為安全部署機器學習模型的一項關鍵能力，近年來這個問題以各種形式被解決。在本文中，我們旨在提供社群中兩個最大子領域的統合觀點：離群值偵測 (OOD) 和開放式辨識 (OSR)。特別是，我們旨在提供不同方法在各種設定下的嚴謹經驗分析，並為實務工作者和研究人員提供可行的見解。具體來說，我們做出以下貢獻：(i) 我們在 OOD 偵測和 OSR 設定中對最先進的方法進行嚴格的交叉評估，並找出這些方法的效能之間存在強烈的相關性；(ii) 我們提出一個新的、大規模的基準設定，我們建議它能更好地解開 OOD 偵測和 OSR 所解決的問題，並在這個設定中重新評估最先進的 OOD 偵測和 OSR 方法；(iii) 我們驚訝地發現，在標準基準 (離群值暴露) 上表現最佳的方法在規模化測試時卻舉步維艱，而對深度特徵量大小敏感的計分規則始終表現出良好的前景；(iv) 我們進行經驗分析來解釋這些現象，並重點說明未來研究的方向。程式碼：
-\url{https://github.com/Visual-AI/Dissect-OOD-OSR}
+摘要：<paragraph>偵測測試時間的分配轉移已成為安全部署機器學習模型的一項關鍵能力，這個問題在近年來以各種形式被解決。在本文中，我們旨在提供社群中兩個最大的子領域的統合觀點：分佈外 (OOD) 偵測和開放式識別 (OSR)。特別是，我們旨在提供在不同設定中對不同方法進行嚴謹的實證分析，並為實務工作者和研究人員提供可行的外賣。具體來說，我們做出以下貢獻：(i) 我們在 OOD 偵測和 OSR 設定中對最先進的方法進行嚴謹的交叉評估，並找出它們方法的效能之間有很強的相關性；(ii) 我們提出一個新的、大規模的基準設定，我們建議它能更好地解開 OOD 偵測和 OSR 所解決的問題，重新評估在此設定中的最先進的 OOD 偵測和 OSR 方法；(iii) 我們驚訝地發現，在標準基準上表現最好的方法（異常值暴露）在擴大規模時會遇到困難，而對深度特徵量大小敏感的計分規則則持續表現出前景；以及 (iv) 我們進行實證分析來解釋這些現象，並重點說明未來研究的方向。程式碼：
+https://github.com/Visual-AI/Dissect-OOD-OSR</paragraph>
 
 ##### **How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**
 2408.16756v1 by Jiyue Jiang, Liheng Chen, Pengan Chen, Sheng Wang, Qinghang Bao, Lingpeng Kong, Yu Li, Chuan Wu
@@ -342,7 +342,7 @@ reasoners.
 摘要：訓練強大的語言模型 (LM) 中的高品質合成資料是改善 LM 推論效能的常見策略。在這項工作中，我們重新探討此策略在固定推論預算（例如 FLOP）下是否為運算最佳化。為此，我們研究使用較強但較昂貴 (SE) 模型與較弱但較便宜 (WC) 模型產生合成資料之間的取捨。我們根據三個關鍵指標（涵蓋範圍、多樣性和誤報率）評估所產生的資料，並顯示來自 WC 模型的資料可能具有較高的涵蓋範圍和多樣性，但也會顯示較高的誤報率。然後，我們在不同的設定中對來自 SE 和 WC 模型的資料進行微調 LM：知識萃取、自我改善，以及一個新的弱轉強的改善設定，其中較弱的 LM 教導較強的 LM 推理。我們的研究結果顯示，在 WC 產生的資料上進行微調的模型在多個基準和多種 WC 和 SE 模型的選擇中，始終優於在 SE 產生的資料上訓練的模型。這些結果挑戰了依賴 SE 模型進行合成資料產生的普遍做法，表明 WC 可能是在訓練進階 LM 推論器時運算最佳化的途徑。
 
 ##### **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**
-2408.16725v1 by Zhifei Xie, Changqiao Wu
+2408.16725v2 by Zhifei Xie, Changqiao Wu
 
 Recent advances in language models have achieved significant progress.
 GPT-4o, as a new milestone, has enabled real-time conversations with humans,
@@ -363,10 +363,11 @@ speech output. To our best knowledge, Mini-Omni is the first fully end-to-end,
 open-source model for real-time speech interaction, offering valuable potential
 for future research.
 
-摘要：語言模型的最新進展已取得顯著進展。
-GPT-4o 作為一個新的里程碑，已實現與人類的即時對話，
-展現接近人類的自然流暢度。這種人機互動
-需要具備直接以音訊模式進行推理並以串流方式產生輸出的模型。然而，這仍然超出當前學術模型的能力範圍，因為它們通常依賴額外的 TTS 系統進行語音合成，從而導致不希望的延遲。本文介紹了 Mini-Omni，這是一個基於音訊的端到端對話模型，能夠進行即時語音互動。為實現此功能，我們提出了一種文字指示的語音生成方法，以及在推理過程中採用批次並行策略以進一步提升效能。我們的模型也有助於保留原始模型的語言能力，同時將降級降到最低，使其他作品能夠建立即時互動能力。我們將這種訓練方法稱為「任何模型都可以說話」。我們還引入了 VoiceAssistant-400K 資料集，以微調針對語音輸出最佳化的模型。據我們所知，Mini-Omni 是第一個完全端到端、開源的即時語音互動模型，為未來的研究提供了寶貴的潛力。
+摘要：語言模型的最新進展取得重大進展。
+GPT-4o 作為一個新的里程碑，實現了與人類的即時對話，
+展示了接近人類的自然流暢度。這種人機互動
+需要模型具備直接使用音訊模式進行推理並生成串流輸出的能力。然而，這仍然超出了當前學術模型的範圍，因為它們通常依賴於額外的 TTS 系統進行語音合成，從而導致不希望的延遲。本文介紹了 Mini-Omni，一個基於音訊的端到端對話模型，能夠進行實時語音互動。為了實現這一能力，我們提出
+一種文字指導的語音生成方法，以及在推理過程中採用批次並行策略以進一步提升效能。我們的技術也有助於保留原始模型的語言能力，同時將退化降至最低，使其他作品能夠建立實時互動能力。我們將這種訓練方法稱為「任何模型都能說話」。我們還引入了 VoiceAssistant-400K 資料集，以微調針對語音輸出最佳化的模型。據我們所知，Mini-Omni 是第一個完全端到端、開放原始碼的實時語音互動模型，為未來的研究提供了寶貴的潛力。
 
 ##### **A GREAT Architecture for Edge-Based Graph Problems Like TSP**
 2408.16717v1 by Attila Lischka, Jiaming Wu, Morteza Haghir Chehreghani, Balázs Kulcsár
@@ -1348,7 +1349,7 @@ tasks.
 摘要：在图像合成领域中，在遵守条件提示的同时实现对参考图像的保真度仍然是一项重大挑战。本文提出了一种新颖的方法，该方法将扩散模型与潜在空间操作和基于梯度的选择性注意机制相结合来解决此问题。利用 Grad-SAM（基于梯度的选择性注意操作），我们分析了去噪潜在向量的交叉注意力层和梯度的交叉注意力图，得出与感兴趣主题相关的去噪潜在向量元素的重要性分数。利用此信息，我们在去噪过程中在特定时间步长创建掩码，以在无缝集成参考图像特征的同时保留主题。这种方法确保了基于条件提示对主题进行忠实地形成，同时还细化了背景以获得更连贯的构图。我们在 places365 数据集上的实验展示了有希望的结果，与基线模型相比，我们提出的模型实现了最低的平均和中值 Fréchet 起始距离 (FID) 分数，表明了卓越的保真度保留。此外，我们的模型在使生成的图像与提供的文本描述保持一致方面表现出了竞争力，正如高 CLIP 分数所证明的那样。这些结果突出了我们方法在保真度保留和文本上下文保留方面的有效性，为文本到图像合成任务提供了一项重大进展。
 
 ##### **LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**
-2408.16224v1 by Jingyi Wang, Jianzhong Ju, Jian Luan, Zhidong Deng
+2408.16224v2 by Jingyi Wang, Jianzhong Ju, Jian Luan, Zhidong Deng
 
 Recent advances in large vision-language models (VLMs) typically employ
 vision encoders based on the Vision Transformer (ViT) architecture. The
@@ -1361,9 +1362,9 @@ improving the foundational perception and understanding abilities of VLMs.
 Extensive experiments demonstrate that integrating our SGE module significantly
 enhances the VLM's performance in vision-language tasks, indicating its
 effectiveness in preserving intricate semantic details and facilitating better
-visual understanding. Code and data would be available.
+visual understanding.
 
-摘要：近期大型視覺語言模型 (VLM) 的進展通常採用基於視覺轉換器 (ViT) 架構的視覺編碼器。ViT 將影像分割成區塊會導致感知支離破碎，從而阻礙 VLM 的視覺理解能力。在本文中，我們提出了一項創新的強化功能，透過在 VLM 中引入場景圖表達 (SGE) 模組來解決此限制。此模組會擷取影像中的複雜語義資訊並以結構化的方式表達，從而改善 VLM 的基礎感知和理解能力。廣泛的實驗證明，整合我們的 SGE 模組可顯著提升 VLM 在視覺語言任務中的效能，這表示它在保留複雜語義細節和促進更好的視覺理解方面很有效。程式碼和資料將會提供。
+摘要：近來大型視覺語言模型 (VLM) 的進展通常採用基於視覺轉換器 (ViT) 架構的視覺編碼器。ViT 將影像分割成區塊會造成破碎的感知，從而阻礙 VLM 的視覺理解能力。在本文中，我們提出了一項創新的增強功能，透過在 VLM 中引入場景圖表達 (SGE) 模組來解決此限制。此模組會萃取影像中的複雜語意資訊並以結構化的方式表達，從而改善 VLM 的基礎感知和理解能力。廣泛的實驗證明，整合我們的 SGE 模組能顯著提升 VLM 在視覺語言任務中的效能，表示它在保留複雜的語意細節和促進更好的視覺理解方面很有效。
 
 ##### **SSDM: Scalable Speech Dysfluency Modeling**
 2408.16221v1 by Jiachen Lian, Xuanru Zhou, Zoe Ezzes, Jet Vonk, Brittany Morin, David Baquirin, Zachary Mille, Maria Luisa Gorno Tempini, Gopala Anumanchipalli

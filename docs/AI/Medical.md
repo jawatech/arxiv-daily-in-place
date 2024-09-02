@@ -16,7 +16,7 @@
 |**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
 |**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568v1](http://arxiv.org/abs/2408.14568v1)|null|
-|**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|null|
+|**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v2](http://arxiv.org/abs/2408.14443v2)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397v1](http://arxiv.org/abs/2408.14397v1)|[link](https://github.com/rajpurkarlab/rexkg)|
 |**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v2](http://arxiv.org/abs/2408.14340v2)|[link](https://github.com/nicolaus625/fm4music)|
@@ -456,7 +456,7 @@ finetuning methods.
 摘要：撰寫臨床筆記和記錄醫療檢查是醫療保健專業人員的一項重要任務，是患者照護文件中的重要組成部分。然而，手動撰寫這些筆記很耗時，並且會影響臨床醫生花在直接患者互動和其他任務上的時間。因此，自動化臨床筆記生成系統的開發已成為 AI 在健康領域中具有臨床意義的研究領域。在本文中，我們提出了使用大型語言模型 (LLM) 進行臨床筆記生成的領域的 3 項關鍵貢獻。首先，我們介紹了 CliniKnote，這是一個綜合性數據集，包含 1,200 個複雜的醫患對話及其完整的臨床筆記。此數據集由醫學專家在現代神經網路的幫助下創建和策劃，為臨床筆記生成任務中的模型訓練和評估提供了寶貴的資源。其次，我們提出了 K-SOAP（關鍵字、主觀、客觀、評估和計畫）筆記格式，它通過在頂部添加一個關鍵字部分來增強傳統的 SOAP~\cite{podder2023soap}（主觀、客觀、評估和計畫）筆記，以便快速識別基本資訊。第三，我們開發了一個自動化管道，從醫患對話中生成 K-SOAP 筆記，並使用各種指標對各種現代 LLM 進行基準測試。我們的結果表明，與標準 LLM 微調方法相比，效率和性能有了顯著的提升。
 
 ##### **Temporal Ensemble Logic**
-2408.14443v1 by Guo-Qiang Zhang
+2408.14443v2 by Guo-Qiang Zhang
 
 We introduce Temporal Ensemble Logic (TEL), a monadic, first-order modal
 logic for linear-time temporal reasoning. TEL includes primitive temporal
@@ -465,18 +465,21 @@ before $t$ time in the future'' ($\Diamond_t$), and ``$t$-time later''
 $\varphi_t$. TEL has been motivated from the requirement for rigor and
 reproducibility for cohort specification and discovery in clinical and
 population health research, to fill a gap in formalizing temporal reasoning in
-biomedicine. In this paper, we first introduce TEL in a general set up, with
-discrete and dense time as special cases. We then focus on the theoretical
+biomedicine. Existing logical frameworks such as linear temporal logic are too
+restrictive to express temporal and sequential properties in biomedicine, or
+too permissive in semantic constructs, such as in Halpern-Shoham logic, to
+serve this purpose. In this paper, we first introduce TEL in a general set up,
+with discrete and dense time as special cases. We then focus on the theoretical
 development of discrete TEL on the temporal domain of positive integers
 $\mathbb{N}^+$, denoted as ${\rm TEL}_{\mathbb{N}^+}$. ${\rm
 TEL}_{\mathbb{N}^+}$ is strictly more expressive than the standard monadic
 second order logic, characterized by B\"{u}chi automata. We present its formal
 semantics, a proof system, and provide a proof for the undecidability of the
-satisfiability of ${\rm TEL}_{\mathbb{N}^+}$. We also discuss expressiveness
-and decidability fragments for ${\rm TEL}_{\mathbb{N}^+}$, followed by
-illustrative applications.
+satisfiability of ${\rm TEL}_{\mathbb{N}^+}$. We also include initial results
+on expressiveness and decidability fragments for ${\rm TEL}_{\mathbb{N}^+}$,
+followed by application outlook and discussions.
 
-摘要：<paragraph>我們介紹時序集合邏輯 (TEL)，一種用於線性時間時序推理的一階模態邏輯。TEL 包含基本時序結構，例如「始終在 $t$ 時間後」（$\Box_t$），「有時在未來 $t$ 時間前」（$\Diamond_t$），以及「$t$ 時間後」$\varphi_t$。TEL 的動機來自於臨床和人口健康研究中對於群組規範和發現的嚴謹性和可重複性的需求，以填補生物醫學中時序推理形式化的空白。在本文中，我們首先在一般設定中介紹 TEL，其中離散時間和稠密時間為特殊情況。然後我們專注於在正整數 $\mathbb{N}^+$ 的時域上離散 TEL 的理論發展，表示為 ${\rm TEL}_{\mathbb{N}^+}$. ${\rm TEL}_{\mathbb{N}^+}$ 明顯比標準的一階二階邏輯更具表達力，其特徵在於 B\"{u}chi 自動機。我們提出其形式語義、證明系統，並提供 ${\rm TEL}_{\mathbb{N}^+}$ 可滿足性的不可判定性的證明。我們也討論 ${\rm TEL}_{\mathbb{N}^+}$ 的表達性和可判定性片段，接著是說明性的應用。</paragraph>
+摘要：<paragraph>我們介紹時間集合邏輯 (TEL)，一種用於線性時間時態推理的一階單子模態邏輯。TEL 包含原始時態結構，例如「始終在 $t$ 時間後」($\Box_t$)、「有時在未來 $t$ 時間前」($\Diamond_t$) 和「$t$ 時間後」$\varphi_t$。TEL 的動機是為了臨床和人口健康研究中群組規範和發現的嚴謹性和可再現性，以填補生物醫學中時態推理形式化的空白。現有的邏輯框架（例如線性時態邏輯）對於表達生物醫學中的時態和順序屬性過於嚴格，或者在語義結構上過於寬鬆（例如在 Halpern-Shoham 邏輯中），無法達到此目的。在本文中，我們首先在一般設置中介紹 TEL，其中離散時間和稠密時間為特殊情況。然後，我們專注於正整數時間域 $\mathbb{N}^+$ 上離散 TEL 的理論發展，表示為 ${\rm TEL}_{\mathbb{N}^+}$. ${\rm TEL}_{\mathbb{N}^+}$ 比標準單子二階邏輯更具表達力，其特徵在於 B\"{u}chi 自動機。我們展示其形式語義、證明系統，並提供 ${\rm TEL}_{\mathbb{N}^+}$ 可滿足性的不可判定性的證明。我們還包括 ${\rm TEL}_{\mathbb{N}^+}$ 的表達力和可判定片段的初步結果，然後是應用前景和討論。</paragraph>
 
 ##### **MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**
 2408.14418v1 by Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T. Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, Xiaoxue Gao, Nancy F. Chen, Stefan Winkler

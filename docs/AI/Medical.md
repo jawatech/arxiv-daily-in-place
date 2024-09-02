@@ -2,6 +2,9 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
+|**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377v1](http://arxiv.org/abs/2408.17377v1)|null|
+|**2024-08-30**|**Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**|Jutika Borah et.al.|[2408.17011v1](http://arxiv.org/abs/2408.17011v1)|null|
 |**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343v1](http://arxiv.org/abs/2408.16343v1)|[link](https://github.com/justlfc03/mstnet)|
 |**2024-08-29**|**Coalitions of AI-based Methods Predict 15-Year Risks of Breast Cancer Metastasis Using Real-World Clinical Data with AUC up to 0.9**|Xia Jiang et.al.|[2408.16256v1](http://arxiv.org/abs/2408.16256v1)|null|
 |**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213v1](http://arxiv.org/abs/2408.16213v1)|null|
@@ -99,11 +102,91 @@
 |**2024-08-15**|**When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?**|Yanjun Gao et.al.|[2408.11854v1](http://arxiv.org/abs/2408.11854v1)|null|
 |**2024-08-14**|**Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**|Musa Taib et.al.|[2408.07845v1](http://arxiv.org/abs/2408.07845v1)|null|
 |**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|null|
-|**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|null|
-|**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|null|
-|**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576v2](http://arxiv.org/abs/2408.07576v2)|[link](https://github.com/hyunwoo137/metaseg)|
 
 #### Abstracts
+##### **Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**
+2408.17401v1 by Antonio Rago, Bence Palfi, Purin Sukpanichnant, Hannibal Nabli, Kavyesh Vivek, Olga Kostopoulou, James Kinross, Francesca Toni
+
+In recent years, various methods have been introduced for explaining the
+outputs of "black-box" AI models. However, it is not well understood whether
+users actually comprehend and trust these explanations. In this paper, we focus
+on explanations for a regression tool for assessing cancer risk and examine the
+effect of the explanations' content and format on the user-centric metrics of
+comprehension and trust. Regarding content, we experiment with two explanation
+methods: the popular SHAP, based on game-theoretic notions and thus potentially
+complex for everyday users to comprehend, and occlusion-1, based on feature
+occlusion which may be more comprehensible. Regarding format, we present SHAP
+explanations as charts (SC), as is conventional, and occlusion-1 explanations
+as charts (OC) as well as text (OT), to which their simpler nature also lends
+itself. The experiments amount to user studies questioning participants, with
+two different levels of expertise (the general population and those with some
+medical training), on their subjective and objective comprehension of and trust
+in explanations for the outputs of the regression tool. In both studies we
+found a clear preference in terms of subjective comprehension and trust for
+occlusion-1 over SHAP explanations in general, when comparing based on content.
+However, direct comparisons of explanations when controlling for format only
+revealed evidence for OT over SC explanations in most cases, suggesting that
+the dominance of occlusion-1 over SHAP explanations may be driven by a
+preference for text over charts as explanations. Finally, we found no evidence
+of a difference between the explanation types in terms of objective
+comprehension. Thus overall, the choice of the content and format of
+explanations needs careful attention, since in some contexts format, rather
+than content, may play the critical role in improving user experience.
+
+摘要：<paragraph>近年來，已經引進各種方法來解釋「黑箱」AI 模型的輸出。然而，目前並不清楚使用者是否實際理解和信任這些解釋。在本文中，我們專注於評估癌症風險的回歸工具的解釋，並探討解釋的內容和格式對以使用者為中心的理解和信任指標的影響。關於內容，我們實驗了兩種解釋方法：流行的 SHAP，基於博弈論概念，因此對於日常使用者來說可能很複雜，以及基於特徵遮蔽的 occlusion-1，可能更易於理解。關於格式，我們將 SHAP 解釋呈現為圖表 (SC)，這是慣例，而將 occlusion-1 解釋呈現為圖表 (OC) 以及文字 (OT)，其較為簡單的性質也適用於此。這些實驗等同於使用者研究，詢問參與者，具有兩種不同程度的專業知識（一般民眾和具備一些醫學訓練的人），他們對回歸工具輸出解釋的主觀和客觀理解和信任。在兩項研究中，我們發現，在基於內容進行比較時，一般來說，occlusion-1 優於 SHAP 解釋，在主觀理解和信任方面有明顯的偏好。然而，在僅控制格式的情況下直接比較解釋，在大多數情況下只顯示 OT 優於 SC 解釋的證據，這表明 occlusion-1 優於 SHAP 解釋的主導地位可能是由偏好文字而非圖表作為解釋所驅動的。最後，我們沒有發現解釋類型在客觀理解方面的差異證據。因此，總體而言，對解釋的內容和格式的選擇需要仔細注意，因為在某些情況下，格式而非內容，可能在改善使用者體驗方面發揮關鍵作用。</paragraph>
+
+##### **NDP: Next Distribution Prediction as a More Broad Target**
+2408.17377v1 by Junhao Ruan, Abudukeyumu Abudula, Xinyu Liu, Bei Li, Yinqiao Li, Chenglong Wang, Yuchun Fan, Yuan Ge, Tong Xiao, Jingbo Zhu
+
+Large language models (LLMs) trained on next-token prediction (NTP) paradigm
+have demonstrated powerful capabilities. However, the existing NTP paradigm
+contains several limitations, particularly related to planned task
+complications and error propagation during inference. In our work, we extend
+the critique of NTP, highlighting its limitation also due to training with a
+narrow objective: the prediction of a sub-optimal one-hot distribution. To
+support this critique, we conducted a pre-experiment treating the output
+distribution from powerful LLMs as efficient world data compression. By
+evaluating the similarity between the $n$-gram distribution and the one-hot
+distribution with LLMs, we observed that the $n$-gram distributions align more
+closely with the output distribution of LLMs. Based on this insight, we
+introduce Next Distribution Prediction (NDP), which uses $n$-gram distributions
+to replace the one-hot targets, enhancing learning without extra online
+training time. We conducted experiments across translation, general task,
+language transfer, and medical domain adaptation. Compared to NTP, NDP can
+achieve up to +2.97 COMET improvement in translation tasks, +0.61 average
+improvement in general tasks, and incredible +10.75 average improvement in the
+medical domain. This demonstrates the concrete benefits of addressing the
+target narrowing problem, pointing to a new direction for future work on
+improving NTP.
+
+摘要：大型語言模型 (LLM) 根據下一個符號預測 (NTP) 範例進行訓練，已展現強大的功能。然而，現有的 NTP 範例包含了幾個限制，特別是與計畫任務複雜性和推論期間的錯誤傳播有關。在我們的研究中，我們擴展了 NTP 的批判，強調其限制也由於使用狹隘的目標進行訓練：預測次佳的一熱分佈。為了支持這項批判，我們進行了一個前置實驗，將強大 LLM 的輸出分佈視為有效的世界資料壓縮。透過評估 $n$-gram 分佈與 LLM 的一熱分佈之間的相似性，我們觀察到 $n$-gram 分佈與 LLM 的輸出分佈更為接近。基於這個見解，我們引入了下一個分佈預測 (NDP)，它使用 $n$-gram 分佈來取代一熱目標，在沒有額外線上訓練時間的情況下，加強學習。我們進行了翻譯、一般任務、語言轉移和醫學領域適應的實驗。與 NTP 相比，NDP 在翻譯任務中可以達到 +2.97 COMET 改進，在一般任務中平均改進 +0.61，在醫學領域中令人難以置信的平均改進 +10.75。這證明了解決目標收窄問題的具體好處，指出了改進 NTP 未來工作的全新方向。
+
+##### **Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**
+2408.17011v1 by Jutika Borah, Kumaresh Sarmah, Hidam Kumarjit Singh
+
+Imaging techniques such as Chest X-rays, whole slide images, and optical
+coherence tomography serve as the initial screening and detection for a wide
+variety of medical pulmonary and ophthalmic conditions respectively. This paper
+investigates the intricacies of using pretrained deep convolutional neural
+networks with transfer learning across diverse medical imaging datasets with
+varying modalities for binary and multiclass classification. We conducted a
+comprehensive performance analysis with ten network architectures and model
+families each with pretraining and random initialization. Our finding showed
+that the use of pretrained models as fixed feature extractors yields poor
+performance irrespective of the datasets. Contrary, histopathology microscopy
+whole slide images have better performance. It is also found that deeper and
+more complex architectures did not necessarily result in the best performance.
+This observation implies that the improvements in ImageNet are not parallel to
+the medical imaging tasks. Within a medical domain, the performance of the
+network architectures varies within model families with shifts in datasets.
+This indicates that the performance of models within a specific modality may
+not be conclusive for another modality within the same domain. This study
+provides a deeper understanding of the applications of deep learning techniques
+in medical imaging and highlights the impact of pretrained networks across
+different medical imaging datasets under five different experimental settings.
+
+摘要：影像技術，例如胸部 X 光、全切片影像和光學相干斷層掃描，分別用於各種醫療肺部和眼科疾病的初步篩檢和偵測。本文探討使用預訓練深度卷積神經網路，以及在不同模式下，將轉移學習應用於多種醫學影像資料集，以進行二元和多類別分類的複雜性。我們使用 10 種網路架構和模型系列進行全面的效能分析，每個架構和系列都經過預訓練和隨機初始化。我們的發現顯示，將預訓練模型用作固定特徵萃取器，會產生不佳的效能，與資料集無關。相反地，組織病理學顯微鏡全切片影像有較好的效能。我們也發現，較深且較複雜的架構不一定會產生最佳效能。此觀察結果表示，ImageNet 的改進與醫學影像任務並不平行。在醫學領域內，網路架構的效能會隨著資料集的轉換，在模型系列中有所不同。這表示，特定模式中模型的效能，可能無法決定同領域中另一種模式的效能。本研究提供了對深度學習技術在醫學影像中的應用更深入的了解，並強調了預訓練網路在五種不同實驗設定下，對不同醫學影像資料集的影響。
+
 ##### **Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**
 2408.16343v1 by Yifei Chen, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin, Jin Fan, Yong Peng, Changmiao Wang
 
@@ -2556,70 +2639,4 @@ for the prediction of future risk of breast cancer metastasis, and DFNN-model
 hyperparameters important to the prediction of performance scores.
 
 摘要：<paragraph>網格搜尋以訓練和測試大量模型為代價，是一種優化深度學習模型預測效能的有效方法。網格搜尋中一項具有挑戰性的任務是時間管理。沒有良好的時間管理機制，網格搜尋很容易被設定為一項在我們有生之年都無法完成的任務。在本研究中，我們介紹了一種啟發式三階段機制，用於管理低預算網格搜尋的執行時間，以及用於改善模型預測效能的最佳點網格搜尋 (SSGS) 和隨機網格搜尋 (RGS) 策略，以預測乳癌轉移的 5 年、10 年和 15 年風險。我們開發了深度前饋神經網路 (DFNN) 模型，並透過網格搜尋對它們進行優化。我們透過應用三階段機制和 SSGS 和 RGS 策略進行了八個週期的網格搜尋。我們進行了各種 SHAP 分析，包括解釋 DFNN 模型超參數重要性的獨特分析。我們的結果顯示網格搜尋可以大幅改善模型預測。我們進行的網格搜尋分別將 5 年、10 年和 15 年乳癌轉移的風險預測改善了 18.6%、16.3% 和 17.3%，優於我們使用 RGS 策略訓練的所有對應模型的平均效能。我們不僅展示了最佳模型效能，還從各種面向描述網格搜尋，例如它們發現良好模型的能力和單元網格搜尋時間。三階段機制有效運作。它使我們的低預算網格搜尋可行且易於管理，同時也有助於改善模型預測效能。我們的 SHAP 分析確定了對預測未來乳癌轉移風險很重要的臨床風險因子，以及對預測效能評分很重要的 DFNN 模型超參數。</paragraph>
-
-##### **Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**
-2408.07647v1 by Ana Fernández del Río, Michael Brennan Leong, Paulo Saraiva, Ivan Nazarov, Aditya Rastogi, Moiz Hassan, Dexian Tang, África Periáñez
-
-Pharmacies are critical in healthcare systems, particularly in low- and
-middle-income countries. Procuring pharmacists with the right behavioral
-interventions or nudges can enhance their skills, public health awareness, and
-pharmacy inventory management, ensuring access to essential medicines that
-ultimately benefit their patients. We introduce a reinforcement learning
-operational system to deliver personalized behavioral interventions through
-mobile health applications. We illustrate its potential by discussing a series
-of initial experiments run with SwipeRx, an all-in-one app for pharmacists,
-including B2B e-commerce, in Indonesia. The proposed method has broader
-applications extending beyond pharmacy operations to optimize healthcare
-delivery.
-
-摘要：藥局在醫療保健系統中至關重要，特別是在中低收入國家。透過適當的行為介入措施或推動，藥師的技能、公共衛生意識和藥局庫存管理都能獲得提升，確保取得基本藥物，最終使患者受益。我們引進強化學習操作系統，透過行動健康應用程式提供個人化的行為介入措施。我們透過討論一系列與 SwipeRx（一款專為藥師設計的 B2B 電子商務一站式應用程式）執行的初步實驗，來說明其潛力。所提出的方法具有更廣泛的應用，不僅限於藥局作業，還能最佳化醫療保健的提供。
-
-##### **Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**
-2408.07629v1 by África Periáñez, Kathrin Schmitz, Lazola Makhupula, Moiz Hassan, Moeti Moleko, Ana Fernández del Río, Ivan Nazarov, Aditya Rastogi, Dexian Tang
-
-By providing evidence-based clinical decision support, digital tools and
-electronic health records can revolutionize patient management, especially in
-resource-poor settings where fewer health workers are available and often need
-more training. When these tools are integrated with AI, they can offer
-personalized support and adaptive interventions, effectively connecting
-community health workers (CHWs) and healthcare facilities. The CHARM (Community
-Health Access & Resource Management) app is an AI-native mobile app for CHWs.
-Developed through a joint partnership of Causal Foundry (CF) and
-mothers2mothers (m2m), CHARM empowers CHWs, mainly local women, by streamlining
-case management, enhancing learning, and improving communication. This paper
-details CHARM's development, integration, and upcoming reinforcement
-learning-based adaptive interventions, all aimed at enhancing health worker
-engagement, efficiency, and patient outcomes, thereby enhancing CHWs'
-capabilities and community health.
-
-摘要：透過提供基於證據的臨床決策支援，數位工具和電子健康記錄可以徹底改變病患管理，特別是在資源貧乏、醫護人員較少且經常需要更多訓練的環境中。當這些工具與 AI 整合時，它們可以提供個人化支援和適應性介入措施，有效地連結社區衛生工作者 (CHW) 和醫療保健機構。CHARM（社區健康存取與資源管理）應用程式是一款專為 CHW 設計的 AI 原生行動應用程式。CHARM 由 Causal Foundry (CF) 和 mothers2mothers (m2m) 透過聯合夥伴關係共同開發，透過簡化個案管理、加強學習和改善溝通，賦予 CHW（主要是當地婦女）權力。本文詳述 CHARM 的開發、整合和即將推出的基於強化學習的適應性介入措施，所有這些都旨在加強醫護人員的參與度、效率和病患的治療結果，從而提升 CHW 的能力和社區健康。
-
-##### **MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**
-2408.07576v2 by Beoungwoo Kang, Seunghun Moon, Yubin Cho, Hyunwoo Yu, Suk-Ju Kang
-
-Beyond the Transformer, it is important to explore how to exploit the
-capacity of the MetaFormer, an architecture that is fundamental to the
-performance improvements of the Transformer. Previous studies have exploited it
-only for the backbone network. Unlike previous studies, we explore the capacity
-of the Metaformer architecture more extensively in the semantic segmentation
-task. We propose a powerful semantic segmentation network, MetaSeg, which
-leverages the Metaformer architecture from the backbone to the decoder. Our
-MetaSeg shows that the MetaFormer architecture plays a significant role in
-capturing the useful contexts for the decoder as well as for the backbone. In
-addition, recent segmentation methods have shown that using a CNN-based
-backbone for extracting the spatial information and a decoder for extracting
-the global information is more effective than using a transformer-based
-backbone with a CNN-based decoder. This motivates us to adopt the CNN-based
-backbone using the MetaFormer block and design our MetaFormer-based decoder,
-which consists of a novel self-attention module to capture the global contexts.
-To consider both the global contexts extraction and the computational
-efficiency of the self-attention for semantic segmentation, we propose a
-Channel Reduction Attention (CRA) module that reduces the channel dimension of
-the query and key into the one dimension. In this way, our proposed MetaSeg
-outperforms the previous state-of-the-art methods with more efficient
-computational costs on popular semantic segmentation and a medical image
-segmentation benchmark, including ADE20K, Cityscapes, COCO-stuff, and Synapse.
-The code is available at https://github.com/hyunwoo137/MetaSeg.
-
-摘要：<paragraph>除了 Transformer 之外，探索如何利用 MetaFormer 的容量非常重要，MetaFormer 是一种对 Transformer 性能改进至关重要的架构。以往的研究仅将其用于主干网络。与以往的研究不同，我们在语义分割任务中更广泛地探索了 Metaformer 架构的容量。我们提出了一个强大的语义分割网络 MetaSeg，它利用了从主干到解码器的 Metaformer 架构。我们的 MetaSeg 表明，MetaFormer 架构在为解码器和主干捕获有用上下文方面发挥了重要作用。此外，最近的分割方法表明，使用基于 CNN 的主干提取空间信息和使用解码器提取全局信息比使用基于 Transformer 的主干和基于 CNN 的解码器更有效。这促使我们采用使用 MetaFormer 块的基于 CNN 的主干，并设计了基于 MetaFormer 的解码器，该解码器包含一个新颖的自注意力模块来捕获全局上下文。为了同时考虑全局上下文提取和语义分割的自注意力的计算效率，我们提出了一种通道缩减注意力 (CRA) 模块，它将查询和键的通道维度缩减为一个维度。通过这种方式，我们提出的 MetaSeg 在流行的语义分割和医学图像分割基准（包括 ADE20K、Cityscapes、COCO-stuff 和 Synapse）上以更有效的计算成本优于以往的最新方法。代码可在 https://github.com/hyunwoo137/MetaSeg 获得。</paragraph>
 

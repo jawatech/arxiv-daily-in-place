@@ -80,7 +80,7 @@
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737v1](http://arxiv.org/abs/2408.16737v1)|null|
 |**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v2](http://arxiv.org/abs/2408.16725v2)|[link](https://github.com/gpt-omni/mini-omni)|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
-|**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672v1](http://arxiv.org/abs/2408.16672v1)|null|
+|**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672v2](http://arxiv.org/abs/2408.16672v2)|null|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673v1](http://arxiv.org/abs/2408.16673v1)|null|
 |**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667v1](http://arxiv.org/abs/2408.16667v1)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647v1](http://arxiv.org/abs/2408.16647v1)|null|
@@ -95,7 +95,7 @@
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577v1](http://arxiv.org/abs/2408.16577v1)|null|
 |**2024-08-29**|**Predictability maximization and the origins of word order harmony**|Ramon Ferrer-i-Cancho et.al.|[2408.16570v1](http://arxiv.org/abs/2408.16570v1)|null|
 |**2024-08-29**|**SALSA: Speedy ASR-LLM Synchronous Aggregation**|Ashish Mittal et.al.|[2408.16542v1](http://arxiv.org/abs/2408.16542v1)|[link](https://github.com/csalt-research/salsa)|
-|**2024-08-29**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v1](http://arxiv.org/abs/2408.16537v1)|null|
+|**2024-08-29**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v2](http://arxiv.org/abs/2408.16537v2)|null|
 |**2024-08-29**|**CNIMA: A Universal Evaluation Framework and Automated Approach for Assessing Second Language Dialogues**|Rena Gao et.al.|[2408.16518v1](http://arxiv.org/abs/2408.16518v1)|[link](https://github.com/renagao/csl2024)|
 |**2024-08-29**|**Adaptive Variational Continual Learning via Task-Heuristic Modelling**|Fan Yang et.al.|[2408.16517v1](http://arxiv.org/abs/2408.16517v1)|[link](https://github.com/lukeyf/auto_vcl)|
 |**2024-08-29**|**HLogformer: A Hierarchical Transformer for Representing Log Data**|Zhichao Hou et.al.|[2408.16803v1](http://arxiv.org/abs/2408.16803v1)|null|
@@ -1950,22 +1950,22 @@ state-of-the-art results.
 摘要：在过去几年中，许多基于神经网络的方法已被提出用于解决组合优化问题，例如路径问题。其中许多方法基于图神经网络 (GNN) 或相关转换器，它们在表示路径问题的欧几里得坐标上运行。然而，GNN 本质上不适合在稠密图上运行，例如在路径问题中。此外，在欧几里得坐标上运行的模型不能应用于在现实世界环境中经常发现的非欧几里得版本的路径问题。为了克服这些限制，我们提出了一种新颖的 GNN 相关边基神经模型，称为图边注意力网络 (GREAT)。我们在边分类任务中评估了 GREAT 的性能，以预测旅行商问题 (TSP) 中的最佳边。我们可以使用这种经过训练的 GREAT 模型来生成稀疏 TSP 图实例，只保留 GREAT 发现有希望的边。与其他基于非学习的方法来稀疏化 TSP 图相比，GREAT 可以生成非常稀疏的图，同时保留大部分最佳边。此外，我们构建了一个基于强化学习的 GREAT 框架，我们将其应用于欧几里得和非欧几里得非对称 TSP。该框架实现了最先进的结果。
 
 ##### **Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**
-2408.16672v1 by Rohan Jha, Bo Wang, Michael Günther, Saba Sturua, Mohammad Kalim Akram, Han Xiao
+2408.16672v2 by Rohan Jha, Bo Wang, Michael Günther, Georgios Mastrapas, Saba Sturua, Isabelle Mohr, Andreas Koukounas, Mohammad Kalim Akram, Nan Wang, Han Xiao
 
 Multi-vector dense models, such as ColBERT, have proven highly effective in
 information retrieval. ColBERT's late interaction scoring approximates the
 joint query-document attention seen in cross-encoders while maintaining
 inference efficiency closer to traditional dense retrieval models, thanks to
 its bi-encoder architecture and recent optimizations in indexing and search. In
-this paper, we introduce several improvements to the ColBERT model architecture
-and training pipeline, leveraging techniques successful in the more established
-single-vector embedding model paradigm, particularly those suited for
-heterogeneous multilingual data. Our new model, Jina-ColBERT-v2, demonstrates
-strong performance across a range of English and multilingual retrieval tasks,
-while also cutting storage requirements by up to 50% compared to previous
-models.
+this paper, we introduce a novel architecture and a training framework to
+support long context window and multilingual retrieval. Leveraging Matryoshka
+Representation Loss, we further demonstrate that the reducing the embedding
+dimensionality from 128 to 64 has insignificant impact on the model's retrieval
+performance and cut storage requirements by up to 50%. Our new model,
+Jina-ColBERT-v2, demonstrates strong performance across a range of English and
+multilingual retrieval tasks,
 
-摘要：多向量稠密模型，例如 ColBERT，已被证明在信息检索中非常有效。ColBERT 的后期交互评分近似于跨编码器中看到的联合查询文档注意力，同时由于其双编码器架构和索引和搜索中的最新优化，推理效率接近于传统的稠密检索模型。在本文中，我们对 ColBERT 模型架构和训练管道进行了多项改进，利用了在更成熟的单向量嵌入模型范例中成功的技术，特别是那些适用于异构多语言数据的方法。我们的新模型 Jina-ColBERT-v2 在一系列英语和多语言检索任务中展示了强大的性能，同时与之前的模型相比，还将存储需求减少了 50%。
+摘要：多向量密集模型（例如 ColBERT）已證明在資訊檢索方面非常有效。ColBERT 的後期互動評分近似於在交叉編碼器中看到的聯合查詢文件注意力，同時由於其雙編碼器架構和索引和搜尋的最新最佳化，其推論效率接近傳統的密集檢索模型。在本文中，我們介紹了一個新的架構和一個訓練架構，以支援長上下文視窗和多語言檢索。利用 Matryoshka 表徵損失，我們進一步證明將嵌入維度從 128 減少到 64 對模型的檢索效能影響不大，並將儲存需求減少了 50%。我們的全新模型 Jina-ColBERT-v2 在一系列英文和多語言檢索任務中展現出強大的效能，
 
 ##### **Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**
 2408.16673v1 by Ziniu Li, Congliang Chen, Tian Xu, Zeyu Qin, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo
@@ -2273,7 +2273,7 @@ benchmark, yielding substantial WER reductions of up to 38%.
 摘要：利用預先訓練的 LLM 來改善 ASR 系統，特別針對低資源語言，現在是一個新興的研究領域。現有方法從使用 LLM 進行 ASR 錯誤修正到使用 LLM 取代 ASR 解碼器的緊密耦合系統。這些方法會增加解碼時間或需要對交叉注意層進行昂貴的訓練。我們提出 SALSA，它將 ASR 的解碼器層與 LLM 解碼器耦合，同時同步推進兩個解碼器。這種耦合是通過對最後解碼器狀態進行簡單投影來執行，因此比早期的訓練方法顯著提高了訓練效率。我們提出的耦合面臨的挑戰是處理 LLM 和 ASR 系統的標記化器之間的不匹配。我們使用針對 LLM 和 ASR 詞彙表進行串聯標記化來處理這種不匹配。我們在 FLEURS 基準測試中的 8 種低資源語言上評估 SALSA，獲得了高達 38% 的 WER 顯著降低。
 
 ##### **SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**
-2408.16537v1 by Xing Ai, Guanyu Zhu, Yulin Zhu, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou
+2408.16537v2 by Xing Ai, Guanyu Zhu, Yulin Zhu, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou
 
 Graph Neural Networks (GNNs) have demonstrated commendable performance for
 graph-structured data. Yet, GNNs are often vulnerable to adversarial structural
@@ -2291,7 +2291,7 @@ efficiency gains. Consequently, SFR-GNN exhibits a 24%--162% speedup compared
 to advanced robust models, demonstrating superior robustness for node
 classification tasks.
 
-摘要：圖形神經網路（GNN）已證明在圖形結構資料中具有值得稱道的效能。然而，由於嵌入式生成依賴於圖形拓撲，因此 GNN 常常容易受到對抗性結構攻擊。現有的努力專注於淨化惡意修改的結構或應用適應性聚合，從而增強對抗對抗性結構攻擊的穩健性。由於缺乏關於修改結構的先驗知識，因此防禦者不可避免地會消耗大量的運算成本。為此，我們提出了一種稱為簡單且快速的穩健圖形神經網路（SFR-GNN）的有效防禦方法，並得到互資訊理論的支持。SFR-GNN 首先使用節點屬性預訓練 GNN 模型，然後以對比學習的方式對修改後的圖形進行微調，無需淨化修改後的結構和自適應聚合，從而實現了巨大的效率提升。因此，與先進的穩健模型相比，SFR-GNN 表現出 24%--162% 的加速，證明了節點分類任務的卓越穩健性。
+摘要：圖形神經網路 (GNN) 已證明在圖形結構資料中表現優異。然而，GNN 經常容易受到對抗性結構攻擊，因為嵌入產生依賴於圖形拓撲。現有的努力專注於淨化惡意修改的結構或應用自適應聚合，從而增強對抗對抗性結構攻擊的魯棒性。由於缺乏關於修改結構的先驗知識，因此防禦者不可避免地會消耗大量的運算成本。為此，我們提出了一種稱為簡單且快速的魯棒圖形神經網路 (SFR-GNN) 的高效防禦方法，該方法由互信息理論支持。SFR-GNN 首先使用節點屬性預訓練 GNN 模型，然後以對比學習的方式對修改後的圖形進行微調，這無需淨化修改後的結構和自適應聚合，從而獲得巨大的效率提升。因此，與先進的魯棒模型相比，SFR-GNN 表現出 24%--162% 的加速，證明了節點分類任務的卓越魯棒性。
 
 ##### **CNIMA: A Universal Evaluation Framework and Automated Approach for Assessing Second Language Dialogues**
 2408.16518v1 by Rena Gao, Jingxuan Wu, Carsten Roever, Xuetong Wu, Jing Wu, Long Lv, Jey Han Lau

@@ -53,7 +53,7 @@
 |**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095v2](http://arxiv.org/abs/2408.12095v2)|null|
 |**2024-08-21**|**Federated Diabetes Prediction in Canadian Adults Using Real-world Cross-Province Primary Care Data**|Guojun Tang et.al.|[2408.12029v1](http://arxiv.org/abs/2408.12029v1)|null|
 |**2024-08-21**|**Exploring Large Language Models for Feature Selection: A Data-centric Perspective**|Dawei Li et.al.|[2408.12025v1](http://arxiv.org/abs/2408.12025v1)|null|
-|**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735v1](http://arxiv.org/abs/2408.11735v1)|null|
+|**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735v2](http://arxiv.org/abs/2408.11735v2)|null|
 |**2024-08-21**|**BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports**|Yuxuan Chen et.al.|[2408.11334v1](http://arxiv.org/abs/2408.11334v1)|null|
 |**2024-08-21**|**Probabilistic Medical Predictions of Large Language Models**|Bowen Gu et.al.|[2408.11316v1](http://arxiv.org/abs/2408.11316v1)|null|
 |**2024-08-21**|**Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks**|Yining Hua et.al.|[2408.11288v1](http://arxiv.org/abs/2408.11288v1)|null|
@@ -1373,7 +1373,7 @@ emerging field.
 摘要：大型語言模型 (LLM) 的快速進步顯著地影響了各種領域，利用它們卓越的少樣本和零樣本學習能力。在這項工作中，我們旨在從以數據為中心的觀點探索和理解基於 LLM 的特徵選擇方法。我們首先將現有的 LLM 特徵選擇方法分類為兩組：需要樣本值來進行統計推論的數據驅動特徵選擇，以及利用 LLM 的先驗知識使用描述性上下文進行語義關聯的基於文本的特徵選擇。我們在各種規模的 LLM（例如 GPT-4、ChatGPT 和 LLaMA-2）中對分類和迴歸任務進行了廣泛的實驗。我們的研究結果強調了基於文本的特徵選擇方法的有效性和穩健性，並展示了它們在現實世界醫療應用中的潛力。我們還討論了在特徵選擇中採用 LLM 的挑戰和未來機會，為這個新興領域的進一步研究和開發提供了見解。
 
 ##### **Clinical Insights: A Comprehensive Review of Language Models in Medicine**
-2408.11735v1 by Nikita Neveditsin, Pawan Lingras, Vijay Mago
+2408.11735v2 by Nikita Neveditsin, Pawan Lingras, Vijay Mago
 
 This paper provides a detailed examination of the advancements and
 applications of large language models in the healthcare sector, with a
@@ -1394,7 +1394,7 @@ This review aims to provide a comprehensive resource for both newcomers and
 multidisciplinary researchers interested in the intersection of AI and
 healthcare.
 
-摘要：這篇論文詳細探討了大型語言模型在醫療保健領域的進展和應用，特別強調臨床應用。這項研究追溯了 LLM 從其基礎技術到特定領域模型和多模態整合的最新發展。它探討了從需要微調的編碼器模型到整合文本、視覺和聽覺數據的先進方法的技術進步，從而促進了醫療保健中的全面 AI 解決方案。這篇論文討論了這些技術在提高臨床效率方面帶來的機遇，以及它們在道德、數據隱私和實施方面帶來的挑戰。此外，它批判性地評估了 LLM 的部署策略，強調了開源模型對於確保醫療保健環境中的數據隱私和適應性的必要性。提出了未來的研究方向，重點是實證研究，以評估 LLM 在醫療保健中的實際功效和開發開放式數據集以進行進一步的研究。這篇綜述旨在為對 AI 和醫療保健的交叉點感興趣的新手和多學科研究人員提供全面的資源。
+摘要：本文詳細探討了大型語言模型在醫療保健領域的進展與應用，特別強調臨床應用。這項研究追溯了大型語言模型從基礎技術演變到特定領域模型和多模態整合的最新發展。它探討了技術進展，從需要微調的編碼器模型到整合文本、視覺和聽覺資料的複雜方法，從而促進醫療保健中的全面人工智慧解決方案。本文討論了這些技術在提升臨床效率方面帶來的機遇，以及它們在倫理、資料隱私和實施方面帶來的挑戰。此外，它批判性地評估了大型語言模型的部署策略，強調了開源模型對於確保醫療保健環境中的資料隱私和適應性的必要性。提出了未來的研究方向，重點是實證研究，以評估大型語言模型在醫療保健中的實際功效，以及開發開放式資料集以進行進一步的研究。本篇評論旨在為對人工智慧和醫療保健交叉領域感興趣的新手和跨領域研究人員提供全面的資源。
 
 ##### **BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports**
 2408.11334v1 by Yuxuan Chen, Haoyan Yang, Hengkai Pan, Fardeen Siddiqui, Antonio Verdone, Qingyang Zhang, Sumit Chopra, Chen Zhao, Yiqiu Shen

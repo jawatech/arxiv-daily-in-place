@@ -17,7 +17,7 @@
 |**2024-07-21**|**Explainable AI-based Intrusion Detection System for Industry 5.0: An Overview of the Literature, associated Challenges, the existing Solutions, and Potential Research Directions**|Naseem Khan et.al.|[2408.03335v1](http://arxiv.org/abs/2408.03335v1)|null|
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
-|**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v1](http://arxiv.org/abs/2407.05440v1)|null|
+|**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v2](http://arxiv.org/abs/2407.05440v2)|null|
 |**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v1](http://arxiv.org/abs/2407.15851v1)|null|
 |**2024-07-01**|**The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**|Ximing Wen et.al.|[2407.06206v1](http://arxiv.org/abs/2407.06206v1)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
@@ -530,7 +530,7 @@ comparison to the classical DL-based channel estimation.
 摘要：人工智能 (AI) 支持的決策制定是未來 6G 網路中的關鍵元素，其中將引入原生 AI 的概念。此外，AI 廣泛用於不同的關鍵應用中，例如自動駕駛和醫療診斷。在這些應用中，使用 AI 作為黑盒模型是有風險且具有挑戰性的。因此，理解和信任這些模型做出的決策至關重要。解決此問題的方法是開發可解釋 AI (XAI) 架構，旨在解釋黑盒模型行為背後的邏輯，從而確保其有效且安全的部署。最近，我們提出了一個新的基於擾動的 XAI-CHEST 框架，該框架面向無線通信中的信道估計。XAI-CHEST 框架的核心思想是通過在無關輸入上引入高噪聲來識別相關模型輸入。這份手稿提供了 XAI-CHEST 框架的詳細理論基礎。特別是，我們推導了 XAI-CHEST 損失函數和噪聲閾值微調優化問題的解析表達式。因此，設計的 XAI-CHEST 提供了一種智能輸入特徵選擇方法，可以在優化所用模型的架構的同時進一步提高整體性能。模擬結果表明，XAI-CHEST 框架提供了有效的解釋，在降低所需的計算複雜度的同時，提供了改進的比特錯誤率性能，而這與基於傳統 DL 的信道估計相比。
 
 ##### **Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**
-2407.05440v1 by P. N. Karthikayan, Yoga Sri Varshan V, Hitesh Gupta Kattamuri, Umarani Jayaraman
+2407.05440v2 by P. N. Karthikayan, Yoga Sri Varshan V, Hitesh Gupta Kattamuri, Umarani Jayaraman
 
 This paper presents dilated Residual Network (ResNet) models for disease
 classification from retinal fundus images. Dilated convolution filters are used
@@ -556,7 +556,7 @@ compared to normal ResNet with an average F1 score of 0.71, 0.70, 0.69, 0.67,
 and 0.70 respectively for the above respective variants in ODIR multiclass
 disease classification.
 
-摘要：<paragraph>本文提出了用于视网膜眼底图像疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善与用于疾病分类的正常 ResNet 模型相比的感受野。本研究介绍了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医疗专业人员能够理解和信任 AI 的诊断决策。它们在当今医疗保健领域尤为重要，因为对 AI 应用程序的透明度需求不断增长，以确保其可靠性和道德使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼病的分类准确性并减少所需的计算时间。本工作中使用的数据集是 Ocular Disease Intelligent Recognition (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 分数。在这项工作中，对正常 ResNet 模型和扩张 ResNet 模型在五个变体（即 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152）之间进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 分数分别为 0.71、0.70、0.69、0.67 和 0.70。</paragraph>
+摘要：这篇论文提出了用于从视网膜眼底图像进行疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善感知场，从而针对疾病分类对正常 ResNet 模型进行改进。本研究引入了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医学专业人士能够理解和信任 AI 的诊断决策。它们与当今的医疗保健领域尤为相关，在该领域，对 AI 应用的透明度需求不断增长，以确保其可靠性和合乎道德的使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼部疾病的分类准确性并减少所需的计算时间。本工作中使用的数据集是眼科疾病智能识别 (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼部疾病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 得分。在这项工作中，对 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152 五个变体的正常 ResNet 模型和扩张 ResNet 模型进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 得分为 0.71、0.70、0.69、0.67 和 0.70。
 
 ##### **A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**
 2407.15851v1 by Congzhen Shi, Ryan Rezai, Jiaxi Yang, Qi Dou, Xiaoxiao Li

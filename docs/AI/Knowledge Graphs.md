@@ -60,7 +60,7 @@
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404v1](http://arxiv.org/abs/2408.05404v1)|[link](https://github.com/wxljz/laida)|
 |**2024-08-09**|**Text classification optimization algorithm based on graph neural network**|Erdi Gao et.al.|[2408.15257v1](http://arxiv.org/abs/2408.15257v1)|null|
 |**2024-08-09**|**SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**|Zhi-Qi Cheng et.al.|[2408.05357v1](http://arxiv.org/abs/2408.05357v1)|null|
-|**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v2](http://arxiv.org/abs/2408.05141v2)|null|
+|**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v3](http://arxiv.org/abs/2408.05141v3)|null|
 |**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v2](http://arxiv.org/abs/2408.07091v2)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
@@ -1509,7 +1509,7 @@ assessment.
 摘要：電動車 (EV) 電池供應鏈容易受到干擾，因此需要進階的預測分析。我們提出 SHIELD（基於架構的 EV 供應鏈中斷階層式歸納），這是一個整合大型語言模型 (LLM) 與 EV 電池供應鏈風險評估領域專業知識的系統。SHIELD 結合：(1) LLM 驅動的架構學習，用於建置一個全面的知識庫，(2) 一個中斷分析系統，利用微調語言模型進行事件萃取、多維度相似性比對用於架構比對，以及帶有邏輯約束的圖形卷積網路 (GCN) 用於預測，以及 (3) 一個互動介面，用於視覺化結果和納入專家回饋以增強決策制定。在來自 365 個來源的 12,070 段落（2022-2023 年）上進行評估，SHIELD 在中斷預測方面優於基準 GCN 和 LLM+提示方法（例如，GPT-4o）。這些結果證明了 SHIELD 在結合 LLM 功能與領域專業知識以增強供應鏈風險評估方面的有效性。
 
 ##### **A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**
-2408.05141v2 by Ye Yuan, Chengwu Liu, Jingyang Yuan, Gongbo Sun, Siqi Li, Ming Zhang
+2408.05141v3 by Ye Yuan, Chengwu Liu, Jingyang Yuan, Gongbo Sun, Siqi Li, Ming Zhang
 
 Retrieval-augmented generation (RAG) is a framework enabling large language
 models (LLMs) to enhance their accuracy and reduce hallucinations by
@@ -1529,7 +1529,7 @@ results in online assessments, demonstrating the performance and generalization
 capabilities of the proposed system. The source code for our system is released
 in \url{https://gitlab.aicrowd.com/shizueyy/crag-new}.
 
-摘要：檢索增強生成 (RAG) 是一個框架，讓大型語言模型 (LLM) 能夠透過整合外部知識庫來提升其準確性並減少幻覺。在本文中，我們介紹了一個混合式 RAG 系統，透過一套全面的最佳化技術進行增強，大幅改善檢索品質、增強推理能力，並改善數值計算能力。我們改善了網頁中的文字區塊和表格，加入屬性預測器以減少幻覺，執行 LLM 知識萃取器和知識圖譜萃取器，最後建構了一個包含所有參考的推理策略。我們透過 Meta CRAG KDD Cup 2024 競賽在 CRAG 資料集上評估我們的系統。在地端和線上評估都顯示，我們的系統大幅增強了複雜推理能力。在地端評估中，我們大幅改善了準確性，並降低了與基線模型相比的錯誤率，達到顯著的分數提升。同時，我們在線上評估中獲得了傑出的結果，證明了所提出系統的效能和泛化能力。我們系統的原始程式碼已發佈在 \url{https://gitlab.aicrowd.com/shizueyy/crag-new}。
+摘要：檢索增強生成 (RAG) 是一個框架，使大型語言模型 (LLM) 能夠透過整合外部知識庫來增強其準確度並減少幻覺。在本文中，我們介紹了一個混合的 RAG 系統，透過一組全面的最佳化來增強，這些最佳化顯著地改善了檢索品質、增強推理能力，並改善數值計算能力。我們改進了網頁中的文字區塊和表格，加入屬性預測器以減少幻覺，執行了 LLM 知識萃取器和知識圖表萃取器，並最終建構了一個包含所有參考的推理策略。我們在 Meta CRAG KDD Cup 2024 競賽中透過 CRAG 資料集評估我們的系統。在地端和線上評估都證明我們的系統顯著地增強了複雜的推理能力。在地端評估中，與基線模型相比，我們顯著地改善了準確度並降低了錯誤率，達到了顯著的評分提升。同時，我們在線上評估中獲得了傑出的結果，證明了所提出的系統的效能和泛化能力。我們系統的原始碼已在 \url{https://gitlab.aicrowd.com/shizueyy/crag-new} 中發布。
 
 ##### **Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**
 2408.07091v2 by Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song

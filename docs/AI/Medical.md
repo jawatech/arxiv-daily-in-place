@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377v1](http://arxiv.org/abs/2408.17377v1)|null|
-|**2024-08-30**|**Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**|Jutika Borah et.al.|[2408.17011v1](http://arxiv.org/abs/2408.17011v1)|null|
+|**2024-08-30**|**Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**|Jutika Borah et.al.|[2408.17011v2](http://arxiv.org/abs/2408.17011v2)|null|
 |**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343v1](http://arxiv.org/abs/2408.16343v1)|[link](https://github.com/justlfc03/mstnet)|
 |**2024-08-29**|**Coalitions of AI-based Methods Predict 15-Year Risks of Breast Cancer Metastasis Using Real-World Clinical Data with AUC up to 0.9**|Xia Jiang et.al.|[2408.16256v1](http://arxiv.org/abs/2408.16256v1)|null|
 |**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213v1](http://arxiv.org/abs/2408.16213v1)|null|
@@ -22,7 +22,7 @@
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v2](http://arxiv.org/abs/2408.14443v2)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397v1](http://arxiv.org/abs/2408.14397v1)|[link](https://github.com/rajpurkarlab/rexkg)|
-|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v2](http://arxiv.org/abs/2408.14340v2)|[link](https://github.com/nicolaus625/fm4music)|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v3](http://arxiv.org/abs/2408.14340v3)|[link](https://github.com/nicolaus625/fm4music)|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Automatic Medical Report Generation: Methods and Applications**|Li Guo et.al.|[2408.13988v1](http://arxiv.org/abs/2408.13988v1)|null|
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
@@ -162,7 +162,7 @@ improving NTP.
 摘要：大型語言模型 (LLM) 根據下一個符號預測 (NTP) 範例進行訓練，已展現強大的功能。然而，現有的 NTP 範例包含了幾個限制，特別是與計畫任務複雜性和推論期間的錯誤傳播有關。在我們的研究中，我們擴展了 NTP 的批判，強調其限制也由於使用狹隘的目標進行訓練：預測次佳的一熱分佈。為了支持這項批判，我們進行了一個前置實驗，將強大 LLM 的輸出分佈視為有效的世界資料壓縮。透過評估 $n$-gram 分佈與 LLM 的一熱分佈之間的相似性，我們觀察到 $n$-gram 分佈與 LLM 的輸出分佈更為接近。基於這個見解，我們引入了下一個分佈預測 (NDP)，它使用 $n$-gram 分佈來取代一熱目標，在沒有額外線上訓練時間的情況下，加強學習。我們進行了翻譯、一般任務、語言轉移和醫學領域適應的實驗。與 NTP 相比，NDP 在翻譯任務中可以達到 +2.97 COMET 改進，在一般任務中平均改進 +0.61，在醫學領域中令人難以置信的平均改進 +10.75。這證明了解決目標收窄問題的具體好處，指出了改進 NTP 未來工作的全新方向。
 
 ##### **Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**
-2408.17011v1 by Jutika Borah, Kumaresh Sarmah, Hidam Kumarjit Singh
+2408.17011v2 by Jutika Borah, Kumaresh Sarmah, Hidam Kumarjit Singh
 
 Imaging techniques such as Chest X-rays, whole slide images, and optical
 coherence tomography serve as the initial screening and detection for a wide
@@ -185,7 +185,7 @@ provides a deeper understanding of the applications of deep learning techniques
 in medical imaging and highlights the impact of pretrained networks across
 different medical imaging datasets under five different experimental settings.
 
-摘要：影像技術，例如胸部 X 光、全切片影像和光學相干斷層掃描，分別用於各種醫療肺部和眼科疾病的初步篩檢和偵測。本文探討使用預訓練深度卷積神經網路，以及在不同模式下，將轉移學習應用於多種醫學影像資料集，以進行二元和多類別分類的複雜性。我們使用 10 種網路架構和模型系列進行全面的效能分析，每個架構和系列都經過預訓練和隨機初始化。我們的發現顯示，將預訓練模型用作固定特徵萃取器，會產生不佳的效能，與資料集無關。相反地，組織病理學顯微鏡全切片影像有較好的效能。我們也發現，較深且較複雜的架構不一定會產生最佳效能。此觀察結果表示，ImageNet 的改進與醫學影像任務並不平行。在醫學領域內，網路架構的效能會隨著資料集的轉換，在模型系列中有所不同。這表示，特定模式中模型的效能，可能無法決定同領域中另一種模式的效能。本研究提供了對深度學習技術在醫學影像中的應用更深入的了解，並強調了預訓練網路在五種不同實驗設定下，對不同醫學影像資料集的影響。
+摘要：影像技術，例如胸部 X 光、全切片影像和光學相干斷層掃描，分別作為各種醫學肺部和眼科疾病的初步篩檢和偵測。本文探討了使用預訓練深度卷積神經網路搭配遷移學習，橫跨不同醫療影像資料集，以進行二元和多類別分類的複雜性。我們對十種網路架構和模型系列進行了全面的效能分析，每個架構和系列都經過預訓練和隨機初始化。我們的發現顯示，將預訓練模型用作固定特徵萃取器會產生不佳的效能，與資料集無關。相反地，組織病理學顯微鏡全切片影像有較好的效能。我們也發現，較深且複雜的架構並非一定會產生最佳效能。此觀察結果意味著 ImageNet 的改良並未與醫療影像任務平行。在醫療領域內，網路架構的效能會隨著資料集的轉換而改變模型系列。這表示在特定模式中模型的效能可能無法決定在同一個領域中另一種模式的效能。本研究提供了對深度學習技術在醫療影像中的應用更深入的理解，並強調了預訓練網路在五種不同實驗設定下跨不同醫療影像資料集的影響。
 
 ##### **Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**
 2408.16343v1 by Yifei Chen, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin, Jin Fan, Yong Peng, Changmiao Wang
@@ -609,7 +609,7 @@ performance and clinical applicability.
 摘要：近期人工智能的進展顯著改善了放射報告的自動生成。然而，現有的評估方法無法揭示模型對放射影像的理解，以及它們在描述中達到人類層級精細度的能力。為了彌補這個差距，我們引進一個名為 ReXKG 的系統，它從處理過的報告中萃取出結構化的資訊，以建構一個全面的放射知識圖譜。接著，我們提出三個指標來評估各種知識圖譜中節點的相似性 (ReXKG-NSC)、邊緣的分布 (ReXKG-AMS) 和子圖的涵蓋範圍 (ReXKG-SCS)。我們對 AI 生成的和人類撰寫的放射報告進行深入的比較分析，評估專家和通才模型的效能。我們的研究提供對目前 AI 模型在放射報告生成中的能力和限制更深入的理解，並提供有價值的見解來改善模型效能和臨床應用。
 
 ##### **Foundation Models for Music: A Survey**
-2408.14340v2 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
+2408.14340v3 by Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang
 
 In recent years, foundation models (FMs) such as large language models (LLMs)
 and latent diffusion models (LDMs) have profoundly impacted diverse sectors,
@@ -635,7 +635,7 @@ transparency, human responsibility, and copyright issues. The paper offers
 insights into future challenges and trends on FMs for music, aiming to shape
 the trajectory of human-AI collaboration in the music realm.
 
-摘要：近年來，基礎模型（FM），例如大型語言模型（LLM）和潛在擴散模型（LDM），對包括音樂在內的各個領域產生了深遠的影響。這篇綜合性評論探討了音樂領域中最先進（SOTA）的預訓練模型和基礎模型，涵蓋了表徵學習、生成式學習和多模態學習。我們首先將音樂在各個產業中的重要性脈絡化，並追溯 AI 在音樂中的演變。通過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中尚未被充分探索。接下來，我們強調了先前方法在各種音樂應用中缺乏多功能性，以及 FM 在音樂理解、生成和醫療應用中的潛力。通過全面探討模型預訓練範例、架構選擇、標記化、微調方法和可控性的細節，我們強調了應該深入探討的重要主題，例如指令微調和情境學習、規模定律和新興能力，以及長序列建模等。一個專門的章節提供了對音樂代理的見解，並附有對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，通過強調倫理考量的至關重要性，我們主張後續針對音樂 FM 的研究應更多地關注可解釋性、透明度、人類責任和版權問題等議題。本文深入探討了音樂 FM 未來的挑戰和趨勢，旨在形塑人類與 AI 在音樂領域中合作的軌跡。
+摘要：近年來，基礎模型 (FM)，例如大型語言模型 (LLM) 和潛在擴散模型 (LDM)，已對包括音樂在內的不同產業產生深遠影響。這篇全面性的評論探討了音樂領域中最先進 (SOTA) 的預訓練模型和基礎模型，涵蓋了表徵學習、生成式學習和多模態學習。我們首先將音樂在各產業的重要性脈絡化，並追溯 AI 在音樂中的演進。透過描繪基礎模型所針對的模態，我們發現許多音樂表徵在 FM 開發中尚未被充分探索。接著，我們強調先前方法在不同音樂應用中缺乏多樣性，以及 FM 在音樂理解、生成和醫療應用中的潛力。透過全面探討模型預訓練典範、架構選擇、標記化、微調方法和可控性的細節，我們強調了應深入探討的重要主題，例如指令微調和情境學習、規模定律和新興能力，以及長序列建模等。專門的章節提供了對音樂代理的見解，並附有對預訓練和下游任務至關重要的資料集和評估的深入分析。最後，透過強調倫理考量的至關重要性，我們主張後續關於音樂 FM 的研究應更專注於可解釋性、透明度、人類責任和版權問題等議題。本文提供了對音樂 FM 未來挑戰和趨勢的見解，旨在形塑人類與 AI 在音樂領域中合作的軌跡。
 
 ##### **Uncertainties of Latent Representations in Computer Vision**
 2408.14281v1 by Michael Kirchhof

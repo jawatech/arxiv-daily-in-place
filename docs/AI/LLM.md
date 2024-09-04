@@ -6,7 +6,7 @@
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437v1](http://arxiv.org/abs/2408.17437v1)|[link](https://github.com/loreley99/syntheval_checklist)|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431v1](http://arxiv.org/abs/2408.17431v1)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428v1](http://arxiv.org/abs/2408.17428v1)|null|
-|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v1](http://arxiv.org/abs/2408.17422v1)|null|
+|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v2](http://arxiv.org/abs/2408.17422v2)|null|
 |**2024-08-30**|**Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach**|Jialiang Wei et.al.|[2408.17404v1](http://arxiv.org/abs/2408.17404v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
 |**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383v1](http://arxiv.org/abs/2408.17383v1)|[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)|
@@ -16,7 +16,7 @@
 |**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|null|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362v1](http://arxiv.org/abs/2408.17362v1)|[link](https://github.com/stefanolocci/LLMClassification)|
 |**2024-08-30**|**Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage**|Md Rafi Ur Rashid et.al.|[2408.17354v1](http://arxiv.org/abs/2408.17354v1)|null|
-|**2024-08-30**|**rerankers: A Lightweight Python Library to Unify Ranking Methods**|Benjamin Clavié et.al.|[2408.17344v1](http://arxiv.org/abs/2408.17344v1)|[link](https://github.com/answerdotai/rerankers)|
+|**2024-08-30**|**rerankers: A Lightweight Python Library to Unify Ranking Methods**|Benjamin Clavié et.al.|[2408.17344v2](http://arxiv.org/abs/2408.17344v2)|[link](https://github.com/answerdotai/rerankers)|
 |**2024-08-30**|**Impact of ChatGPT on the writing style of condensed matter physicists**|Shaojun Xu et.al.|[2408.17325v1](http://arxiv.org/abs/2408.17325v1)|null|
 |**2024-08-30**|**Modularity in Transformers: Investigating Neuron Separability & Specialization**|Nicholas Pochinkov et.al.|[2408.17324v1](http://arxiv.org/abs/2408.17324v1)|null|
 |**2024-08-30**|**Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering**|Nicholas Pochinkov et.al.|[2408.17322v1](http://arxiv.org/abs/2408.17322v1)|[link](https://github.com/nickypro/investigating-ablation)|
@@ -37,18 +37,18 @@
 |**2024-08-30**|**Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning**|Xiaoye Qu et.al.|[2408.17150v1](http://arxiv.org/abs/2408.17150v1)|[link](https://github.com/gasolsun36/mvp)|
 |**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145v1](http://arxiv.org/abs/2408.17145v1)|[link](https://github.com/zk23du/fedli)|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131v1](http://arxiv.org/abs/2408.17131v1)|null|
-|**2024-08-30**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129v1](http://arxiv.org/abs/2408.17129v1)|[link](https://github.com/ahaubioinformatics/cetexplainer)|
+|**2024-08-30**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129v2](http://arxiv.org/abs/2408.17129v2)|[link](https://github.com/ahaubioinformatics/cetexplainer)|
 |**2024-08-30**|**Exploring User Acceptance Of Portable Intelligent Personal Assistants: A Hybrid Approach Using PLS-SEM And fsQCA**|Gustave Florentin Nkoulou Mvondo et.al.|[2408.17119v1](http://arxiv.org/abs/2408.17119v1)|null|
 |**2024-08-30**|**Understanding the User: An Intent-Based Ranking Dataset**|Abhijit Anand et.al.|[2408.17103v1](http://arxiv.org/abs/2408.17103v1)|null|
 |**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090v1](http://arxiv.org/abs/2408.17090v1)|[link](https://github.com/rand2ai/fissionvae)|
 |**2024-08-30**|**MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models**|Yujing Wang et.al.|[2408.17072v1](http://arxiv.org/abs/2408.17072v1)|null|
 |**2024-08-30**|**Novel-WD: Exploring acquisition of Novel World Knowledge in LLMs Using Prefix-Tuning**|Maxime Méloux et.al.|[2408.17070v1](http://arxiv.org/abs/2408.17070v1)|null|
-|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v1](http://arxiv.org/abs/2408.17064v1)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v2](http://arxiv.org/abs/2408.17064v2)|null|
 |**2024-08-30**|**A Survey of the Self Supervised Learning Mechanisms for Vision Transformers**|Asifullah Khan et.al.|[2408.17059v1](http://arxiv.org/abs/2408.17059v1)|null|
 |**2024-08-30**|**From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs**|Minxue Niu et.al.|[2408.17026v1](http://arxiv.org/abs/2408.17026v1)|[link](https://github.com/chailab-umich/GPT-4-Emotion-Annotation)|
-|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v1](http://arxiv.org/abs/2408.17024v1)|null|
+|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v2](http://arxiv.org/abs/2408.17024v2)|null|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017v1](http://arxiv.org/abs/2408.17017v1)|null|
-|**2024-08-30**|**Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**|Jutika Borah et.al.|[2408.17011v1](http://arxiv.org/abs/2408.17011v1)|null|
+|**2024-08-30**|**Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**|Jutika Borah et.al.|[2408.17011v2](http://arxiv.org/abs/2408.17011v2)|null|
 |**2024-08-30**|**Improving Time Series Classification with Representation Soft Label Smoothing**|Hengyi Ma et.al.|[2408.17010v1](http://arxiv.org/abs/2408.17010v1)|null|
 |**2024-08-30**|**Safety Layers of Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003v1](http://arxiv.org/abs/2408.17003v1)|null|
 |**2024-08-30**|**Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios**|Zhongyuan Wang et.al.|[2408.16991v1](http://arxiv.org/abs/2408.16991v1)|null|
@@ -58,7 +58,7 @@
 |**2024-08-30**|**MemLong: Memory-Augmented Retrieval for Long Text Modeling**|Weijie Liu et.al.|[2408.16967v1](http://arxiv.org/abs/2408.16967v1)|[link](https://github.com/bui1dmysea/memlong)|
 |**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966v1](http://arxiv.org/abs/2408.16966v1)|null|
 |**2024-08-30**|**Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**|Leonardo Iurada et.al.|[2408.16952v1](http://arxiv.org/abs/2408.16952v1)|[link](https://github.com/iurada/neutron-segmentation)|
-|**2024-08-29**|**Different Victims, Same Layout: Email Visual Similarity Detection for Enhanced Email Protection**|Sachin Shukla et.al.|[2408.16945v1](http://arxiv.org/abs/2408.16945v1)|null|
+|**2024-08-29**|**Different Victims, Same Layout: Email Visual Similarity Detection for Enhanced Email Protection**|Sachin Shukla et.al.|[2408.16945v2](http://arxiv.org/abs/2408.16945v2)|null|
 |**2024-08-29**|**A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models**|Chen Wang et.al.|[2408.16942v1](http://arxiv.org/abs/2408.16942v1)|null|
 |**2024-08-29**|**Plausible-Parrots @ MSP2023: Enhancing Semantic Plausibility Modeling using Entity and Event Knowledge**|Chong Shen et.al.|[2408.16937v1](http://arxiv.org/abs/2408.16937v1)|[link](https://github.com/st143575/SemPlaus-plausibleparrots)|
 |**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932v1](http://arxiv.org/abs/2408.16932v1)|null|
@@ -84,7 +84,7 @@
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673v1](http://arxiv.org/abs/2408.16673v1)|null|
 |**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667v1](http://arxiv.org/abs/2408.16667v1)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647v1](http://arxiv.org/abs/2408.16647v1)|null|
-|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634v1](http://arxiv.org/abs/2408.16634v1)|null|
+|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634v2](http://arxiv.org/abs/2408.16634v2)|null|
 |**2024-08-29**|**Optimizing Automated Picking Systems in Warehouse Robots Using Machine Learning**|Keqin Li et.al.|[2408.16633v1](http://arxiv.org/abs/2408.16633v1)|null|
 |**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632v1](http://arxiv.org/abs/2408.16632v1)|null|
 |**2024-08-29**|**LLMs generate structurally realistic social networks but overestimate political homophily**|Serina Chang et.al.|[2408.16629v1](http://arxiv.org/abs/2408.16629v1)|[link](https://github.com/snap-stanford/llm-social-network)|
@@ -204,23 +204,25 @@ LMs and the text requiring correction.
 摘要：<paragraph>歷史印刷媒體檔案的數位化對於增加對當代記錄的可存取性至關重要。然而，用於將實體記錄轉換為數位文字的光學字元辨識 (OCR) 處理容易出錯，特別是報紙和期刊由於其複雜的版面設計。本文介紹了情境槓桿 OCR 校正 (CLOCR-C)，它利用基於轉換器的語言模型 (LM) 的填補和情境適應能力來提升 OCR 品質。本研究旨在確定 LM 是否可以執行 OCR 後校正、改善下游 NLP 任務，以及在校正過程中提供社會文化情境的價值。使用七個 LM 對三個資料集進行了實驗：19 世紀連續出版品版本 (NCSE) 和 Overproof 蒐藏中的兩個資料集。結果表明，某些 LM 可以顯著降低錯誤率，表現最佳的模型在 NCSE 資料集上的字元錯誤率降低了 60% 以上。OCR 改進延伸到下游任務，例如命名實體辨識，並提高了餘弦命名實體相似度。此外，本研究表明在提示中提供社會文化情境會提升效能，而誤導性提示則會降低效能。除了這些發現外，本研究還發布了一個包含 91 篇來自 NCSE 的轉錄文章的資料集，總共包含 40,000 個字，以支持此領域的進一步研究。這些發現表明，CLOCR-C 是一項有前景的方法，可以透過利用 LM 中嵌入的社會文化資訊和需要校正的文字來提升現有數位檔案的品質。</paragraph>
 
 ##### **Open-vocabulary Temporal Action Localization using VLMs**
-2408.17422v1 by Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi
+2408.17422v2 by Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi
 
 Video action localization aims to find timings of a specific action from a
 long video. Although existing learning-based approaches have been successful,
 those require annotating videos that come with a considerable labor cost. This
 paper proposes a learning-free, open-vocabulary approach based on emerging
-vision-language models (VLM). The challenge stems from the fact that VLMs are
-neither designed to process long videos nor tailored for finding actions. We
-overcome these problems by extending an iterative visual prompting technique.
-Specifically, we sample video frames into a concatenated image with frame index
-labels, making a VLM guess a frame that is considered to be closest to the
-start/end of the action. Iterating this process by narrowing a sampling time
-window results in finding a specific frame of start and end of an action. We
-demonstrate that this sampling technique yields reasonable results,
-illustrating a practical extension of VLMs for understanding videos.
+off-the-shelf vision-language models (VLM). The challenge stems from the fact
+that VLMs are neither designed to process long videos nor tailored for finding
+actions. We overcome these problems by extending an iterative visual prompting
+technique. Specifically, we sample video frames into a concatenated image with
+frame index labels, making a VLM guess a frame that is considered to be closest
+to the start/end of the action. Iterating this process by narrowing a sampling
+time window results in finding a specific frame of start and end of an action.
+We demonstrate that this sampling technique yields reasonable results,
+illustrating a practical extension of VLMs for understanding videos. A sample
+code is available at
+https://microsoft.github.io/VLM-Video-Action-Localization/.
 
-摘要：影片動作定位旨在從長影片中找出特定動作的時間。儘管現有的基於學習的方法已成功，但這些方法需要註解影片，而這需要相當可觀的人力成本。本文提出了一種基於新興視覺語言模型 (VLM) 的無學習、開放詞彙的方法。挑戰在於 VLM 既不是設計用來處理長影片，也不是為尋找動作而量身打造。我們透過擴展一種反覆視覺提示技術來克服這些問題。具體來說，我們將影片幀取樣成一個串聯影像，並加上幀索引標籤，讓 VLM 猜測被認為最接近動作開始/結束的幀。透過縮小取樣時間視窗來反覆進行此程序，就能找出動作開始和結束的特定幀。我們證明了這種取樣技術能產生合理的結果，說明了 VLM 在影片理解方面的實用擴展。
+摘要：影片動作定位旨在從長影片中找出特定動作的時間點。儘管現有的基於學習的方法已成功，但這些方法需要註解影片，而這需要大量的勞動力成本。本文提出了一個免學習、開放詞彙的方法，該方法基於新興的現成視覺語言模型 (VLM)。挑戰在於 VLM 既不是設計來處理長影片，也不是專門用來尋找動作。我們透過擴充反覆視覺提示技術來克服這些問題。具體來說，我們將影片幀採樣成一個串聯影像，並加上幀索引標籤，讓 VLM 猜測被認為最接近動作開始/結束的幀。透過縮小採樣時間視窗來反覆這個程序，可以找到動作開始和結束的特定幀。我們證明了這種採樣技術產生了合理的結果，說明了 VLM 在理解影片方面的實用擴充。範例程式碼可在 https://microsoft.github.io/VLM-Video-Action-Localization/ 取得。
 
 ##### **Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach**
 2408.17404v1 by Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, Binbin Xu, Pierre Louis Bernard, Gérard Dray, Walid Maalej
@@ -447,23 +449,22 @@ highlighting the potential risks involved.
 摘要：針對下游應用程式微調大型語言模型的私人資料可能會暴露敏感資訊，造成重大的隱私風險。現在有許多受歡迎的社群平台提供各種預先訓練模型的便利散布，讓任何人都能發佈，而無需嚴格驗證。這個情況會造成隱私威脅，因為預先訓練模型可以被蓄意設計成危害微調資料集的隱私。在這項研究中，我們提出了一種新穎的攻擊技術，使用模型取消學習作為攻擊工具。此方法會操控預先訓練的語言模型，以增加微調過程中私人資料的洩漏。我們的技術同時強化了成員推論和資料萃取攻擊，同時保留模型效用。跨不同模型、資料集和微調設定的實驗結果顯示，我們的攻擊顯著超越基準效能。這項研究對從未驗證來源下載預先訓練模型的使用者提出警示，強調潛在的風險。
 
 ##### **rerankers: A Lightweight Python Library to Unify Ranking Methods**
-2408.17344v1 by Benjamin Clavié
+2408.17344v2 by Benjamin Clavié
 
 This paper presents rerankers, a Python library which provides an easy-to-use
 interface to the most commonly used re-ranking approaches. Re-ranking is an
 integral component of many retrieval pipelines; however, there exist numerous
-approaches to it, relying on different implementation methods.
-\texttt{rerankers} unifies these methods into a single user-friendly interface,
-allowing practitioners and researchers alike to explore different methods while
-only changing a single line of Python code. Moreover ,rerankers ensures that
-its implementations are done with the fewest dependencies possible, and re-uses
-the original implementation whenever possible, guaranteeing that our simplified
+approaches to it, relying on different implementation methods. rerankers
+unifies these methods into a single user-friendly interface, allowing
+practitioners and researchers alike to explore different methods while only
+changing a single line of Python code. Moreover ,rerankers ensures that its
+implementations are done with the fewest dependencies possible, and re-uses the
+original implementation whenever possible, guaranteeing that our simplified
 interface results in no performance degradation compared to more complex ones.
 The full source code and list of supported models are updated regularly and
 available at https://github.com/answerdotai/rerankers.
 
-摘要：這篇論文介紹了 rerankers，一個 Python 函式庫，它提供了對最常使用的重新排序方法的易用介面。重新排序是許多檢索管線中不可或缺的組成部分；然而，有許多方法可以達成，並依賴於不同的實作方法。
-\texttt{rerankers} 將這些方法統一到一個單一的使用者友善介面中，讓從業人員和研究人員都能夠探索不同的方法，同時只變更一行 Python 程式碼。此外，rerankers 確保其實作以最少的依賴性完成，並在可能的情況下重複使用原始實作，保證我們的簡化介面不會造成效能下降，與更複雜的介面相比。完整的原始程式碼和受支援模型清單會定期更新，並可在 https://github.com/answerdotai/rerankers 取得。
+摘要：這篇論文提出了 rerankers，一個 Python 函式庫，它提供了一個易於使用的介面，來使用最常用的重新排序方法。重新排序是許多檢索管線中不可或缺的組成部分；然而，有許多方法可以達成，仰賴不同的實作方式。rerankers 將這些方法統一到一個使用者友善的介面中，讓實務工作者和研究人員都能探索不同的方法，同時只需變更一行 Python 程式碼。此外，rerankers 確保其實作使用最少的依賴關係，並在可能的情況下重複使用原始實作，保證我們簡化的介面不會造成效能下降，與更複雜的介面相比。完整的原始程式碼和支援的模型清單會定期更新，並在 https://github.com/answerdotai/rerankers 提供。
 
 ##### **Impact of ChatGPT on the writing style of condensed matter physicists**
 2408.17325v1 by Shaojun Xu, Xiaohui Ye, Mengqi Zhang, Pei Wang
@@ -930,7 +931,7 @@ generation quality.
 摘要：擴散Transformer模型 (DiT) 已將網路架構從傳統的 UNet 轉換為Transformer，在影像生成方面展現出非凡的能力。儘管 DiT 已廣泛應用於高畫質影片生成任務，但其龐大的參數規模會阻礙邊緣裝置上的推論。向量量化 (VQ) 可以將模型權重分解為碼本和指派，允許極端權重量化並大幅減少記憶體使用量。在本文中，我們提出 VQ4DiT，這是一種針對 DiT 的快速訓練後向量量化方法。我們發現傳統的 VQ 方法只校準碼本，而不校準指派。這導致權重子向量被錯誤地指派給相同的指派，提供不一致的梯度給碼本，並導致次佳結果。為了應對這個挑戰，VQ4DiT 根據歐幾里得距離計算每個權重子向量的候選指派集，並根據加權平均值重建子向量。然後，使用零資料和區塊校準方法，在校準碼本的同時有效地從集合中選擇最佳指派。VQ4DiT 在單一 NVIDIA A100 GPU 上將 DiT XL/2 模型量化到 2 位元精確度，具備可接受的影像生成品質，具體時間取決於不同的量化設定，約在 20 分鐘到 5 小時之間。實驗顯示，VQ4DiT 在模型大小和效能權衡方面建立了新的技術水準。
 
 ##### **Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**
-2408.17129v1 by Xiaodi Li, Jianfeng Gui, Qian Gao, Haoyuan Shi, Zhenyu Yue
+2408.17129v2 by Xiaodi Li, Jianfeng Gui, Qian Gao, Haoyuan Shi, Zhenyu Yue
 
 Graph Neural Networks have been widely applied in critical decision-making
 areas that demand interpretable predictions, leading to the flourishing
@@ -949,7 +950,7 @@ dataset demonstrates that CETExplainer achieves superior stability and improves
 explanation quality compared to leading algorithms, thereby offering a robust
 and insightful tool for cancer drug prediction.
 
-摘要：圖神經網路已廣泛應用於需要可解釋預測的重要決策領域，促使可解釋性演算法蓬勃發展。然而，目前的圖可解釋性演算法傾向於強調一般性，而經常忽略生物學意義，因此限制了其在預測癌症藥物反應方面的適用性。在本文中，我們提出了一種新的事後可解釋性演算法，用於癌症藥物反應預測，稱為 CETExplainer，其中包含可控制的邊緣類型特定加權機制。它考慮子圖和預測之間的互信息，提出結構化評分方法，為預測模型提供細緻且具有生物意義的解釋。我們還介紹了一種基於真實世界資料集建構基本事實的方法，以定量評估所提出的可解釋性演算法。對真實世界資料集的實證分析表明，與領先演算法相比，CETExplainer 達到了更高的穩定性，並改善了解釋品質，從而為癌症藥物預測提供了一個強大且有見地的工具。
+摘要：圖神經網路已廣泛應用於需要可解釋預測的重要決策領域，這導致可解釋性演算法蓬勃發展。然而，目前的圖形可解釋性演算法往往強調普遍性，而經常忽略生物意義，從而限制了它們在預測癌症藥物反應方面的適用性。在本文中，我們提出了一種用於癌症藥物反應預測的新型事後可解釋性演算法 CETExplainer，它結合了一個可控的邊緣類型特定加權機制。它考慮了子圖和預測之間的互信息，提出了一種結構化評分方法，為預測模型提供細緻、生物學上有意義的解釋。我們還介紹了一種基於真實世界資料集構建地面真實的方法，以定量評估所提出的可解釋性演算法。對真實世界資料集的實證分析表明，與領先演算法相比，CETExplainer 達到了更高的穩定性並改進了說明品質，從而為癌症藥物預測提供了一個強大且有見地的工具。
 
 ##### **Exploring User Acceptance Of Portable Intelligent Personal Assistants: A Hybrid Approach Using PLS-SEM And fsQCA**
 2408.17119v1 by Gustave Florentin Nkoulou Mvondo, Ben Niu
@@ -1073,7 +1074,7 @@ prefix capacity increases with its length and with the base model size.
 摘要：教導預先訓練好的大型語言模型 (PLM) 新資訊是一項至關重要但具有挑戰性的任務。模型適應技術，例如微調和參數有效訓練，已被證明可以緩慢儲存新事實；持續學習是一種選擇，但成本高昂且容易發生災難性遺忘。本研究探討並量化 PLM 如何學習和記住其預訓練語料庫中未出現的新世界知識事實，而該語料庫僅包含截至特定日期的世界知識。為此，我們首先提出 Novel-WD，這是一個新的資料集，包含從最近的 Wikidata 更新中提取的新事實句子，以及兩種評估任務，採用因果語言模型和多選題 (MCQ) 的形式。我們將此資料集免費提供給社群，並發布一個程序，以便稍後使用最新資訊建立類似資料集的新版本。我們還探討了使用前綴微調進行新資訊學習，並分析了可以在給定前綴中儲存多少資訊。我們表明，單一事實可以可靠地編碼在單一前綴中，並且前綴容量會隨著其長度和基礎模型大小而增加。
 
 ##### **Instant Adversarial Purification with Adversarial Consistency Distillation**
-2408.17064v1 by Chun Tong Lei, Hon Ming Yam, Zhongliang Guo, Chun Pong Lau
+2408.17064v2 by Chun Tong Lei, Hon Ming Yam, Zhongliang Guo, Chun Pong Lau
 
 Neural networks, despite their remarkable performance in widespread
 applications, including image classification, are also known to be vulnerable
@@ -1093,7 +1094,7 @@ nuanced reconciliation of the latent space dynamics, effectively bridging the
 natural and adversarial manifolds. Our experiments show that the GAND does not
 need a Full Fine Tune (FFT); PEFT, e.g., LoRA is sufficient.
 
-摘要：儘管神經網路在廣泛的應用中表現出色，包括影像分類，但它們也容易受到細微的對抗性雜訊影響。雖然已經提出了一些基於擴散的淨化方法，例如 DiffPure，但這些方法很耗時。在本文中，我們提出了一步控制淨化 (OSCP)，這是一個基於擴散的淨化模型，可以在擴散模型中的一步神經功能評估 (NFE) 中淨化對抗性影像。我們使用潛在一致性模型 (LCM) 和 ControlNet 進行我們的一步淨化。與其他基於擴散的淨化方法相比，OSCP 在計算上很友善且節省時間；我們在 ImageNet 上實現了 74.19% 的防禦成功率，每個淨化只需要 0.1 秒。此外，一致性蒸餾和對抗性擾動之間存在根本的不一致。為了解決這種本體論上的不協調，我們提出了高斯對抗性雜訊蒸餾 (GAND)，這是一個新的稠密蒸餾架構，有助於對潛在空間動態進行更細緻的調和，有效地橋接自然和對抗性流形。我們的實驗表明，GAND 不需要完整的精細調整 (FFT)；PEFT，例如 LoRA 就足夠了。
+摘要：儘管神經網路在包括影像分類在內的廣泛應用中表現卓越，但眾所周知，神經網路也容易受到細微對抗性雜訊的影響。雖然已經提出了一些基於擴散的淨化方法，例如 DiffPure，但這些方法非常耗時。在本文中，我們提出了一步控制淨化 (OSCP)，這是一個基於擴散的淨化模型，可以在擴散模型中對抗性影像進行一次神經功能評估 (NFE) 的淨化。我們使用潛在一致性模型 (LCM) 和 ControlNet 進行一步淨化。與其他基於擴散的淨化方法相比，OSCP 在計算上更友善，且更省時；我們在 ImageNet 上達到了 74.19% 的防禦成功率，每次淨化只需 0.1 秒。此外，一致性蒸餾和對抗性擾動之間存在根本的不一致性。為了解決這種本體論上的不協調，我們提出了高斯對抗性雜訊蒸餾 (GAND)，這是一個新穎的一致性蒸餾框架，有助於對潛在空間動態進行更細緻的調和，有效地橋接自然和對抗性流形。我們的實驗表明，GAND 不需要完全微調 (FFT)；PEFT，例如 LoRA 就已經足夠了。
 
 ##### **A Survey of the Self Supervised Learning Mechanisms for Vision Transformers**
 2408.17059v1 by Asifullah Khan, Anabia Sohail, Mustansar Fiaz, Mehdi Hassan, Tariq Habib Afridi, Sibghat Ullah Marwat, Farzeen Munir, Safdar Ali, Hannan Naseem, Muhammad Zaigham Zaheer, Kamran Ali, Tangina Sultana, Ziaurrehman Tanoli, Naeem Akhter
@@ -1141,7 +1142,7 @@ and underscore the need for refined evaluation methodologies.
 摘要：訓練情緒辨識模型極度依賴人工標註的資料，這會產生多樣性、品質和成本的挑戰。在本文中，我們探索大型語言模型 (LLM)，特別是 GPT4，在自動化或協助情緒標註方面的潛力。我們在三個方面比較 GPT4 與監督式模型和人類：與人工標註的一致性、與人類感知的一致性，以及對模型訓練的影響。我們發現使用匯總的人工標註作為基本事實的常見指標可能會低估 GPT-4 的效能，而我們的人工評估實驗顯示，在多個資料集和評估者中，GPT-4 標註始終優於人工。此外，我們探討使用 GPT-4 作為標註過濾程序以改善模型訓練的影響。我們的研究結果共同突顯了 LLM 在情緒標註任務中的巨大潛力，並強調需要精進的評估方法。
 
 ##### **InkubaLM: A small language model for low-resource African languages**
-2408.17024v1 by Atnafu Lambebo Tonja, Bonaventure F. P. Dossou, Jessica Ojo, Jenalea Rajab, Fadel Thior, Eric Peter Wairagala, Aremu Anuoluwapo, Pelonomi Moiloa, Jade Abbott, Vukosi Marivate, Benjamin Rosman
+2408.17024v2 by Atnafu Lambebo Tonja, Bonaventure F. P. Dossou, Jessica Ojo, Jenalea Rajab, Fadel Thior, Eric Peter Wairagala, Anuoluwapo Aremu, Pelonomi Moiloa, Jade Abbott, Vukosi Marivate, Benjamin Rosman
 
 High-resource language models often fall short in the African context, where
 there is a critical need for models that are efficient, accessible, and locally
@@ -1154,10 +1155,10 @@ outperforms many larger models in sentiment analysis and demonstrates
 remarkable consistency across multiple languages. This work represents a
 pivotal advancement in challenging the conventional paradigm that effective
 language models must rely on substantial resources. Our model and datasets are
-publicly available \footnote{\url{https://huggingface.co/lelapa}} to encourage
-research and development on low-resource languages.
+publicly available at https://huggingface.co/lelapa to encourage research and
+development on low-resource languages.
 
-摘要：高資源語言模型在非洲背景下常常表現不佳，在那裡迫切需要高效、可訪問且在當地相關的模型，即使在計算和資料限制很大的情況下也是如此。本文介紹了 InkubaLM，這是一個只有 0.4 億個參數的小型語言模型，在機器翻譯、問答、AfriMMLU 和 AfriXnli 任務等任務上實現了與參數數量顯著更大且訓練資料更廣泛的模型相當的效能。值得注意的是，InkubaLM 在情緒分析中優於許多較大的模型，並在多種語言中表現出顯著的一致性。這項工作代表了挑戰傳統範例的關鍵進展，即有效的語言模型必須依賴大量資源。我們的模型和資料集公開可用\footnote{\url{https://huggingface.co/lelapa}}，以鼓勵對低資源語言的研究和開發。
+摘要：高資源語言模型在非洲語境中常常表現不佳，那裡迫切需要在大量運算和資料限制下，能有效率、容易取得且與當地相關的模型。本文介紹 InkubaLM，一個只有 0.4 億個參數的小型語言模型，在機器翻譯、問答、AfriMMLU 和 AfriXnli 等任務上，達到與參數數量大得多且訓練資料更廣泛的模型相當的效能。值得注意的是，InkubaLM 在情緒分析中優於許多較大的模型，並且在多種語言中展現出顯著的一致性。這項工作代表了挑戰傳統觀念的關鍵進展，即有效的語言模型必須依賴於大量的資源。我們的模型和資料集在 https://huggingface.co/lelapa 公開，以鼓勵對低資源語言的研究和開發。
 
 ##### **Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**
 2408.17017v1 by Guangya Wan, Yuqi Wu, Jie Chen, Sheng Li
@@ -1183,7 +1184,7 @@ accuracy up to 5% compared to the original SC
 摘要：自洽性 (SC) 是一種廣泛使用的減少大型語言模型 (LLM) 中幻覺的方法，方法是多次對 LLM 進行抽樣，並輸出出現頻率最高的解答。儘管有其好處，但 SC 會產生與所產生樣本數量成正比的顯著運算成本。先前的早期停止方法，例如早期停止自洽性和自適應一致性，旨在透過考慮輸出一致性來降低這些成本，但它們並未分析推理路徑 (RP) 本身的品質。為了解決這個問題，我們提出推理感知自洽性 (RASC)，這是一個創新的早期停止架構，透過考慮鏈式思考 (CoT) 提示所產生的輸出答案和 RP，動態調整樣本產生的數量。RASC 會循序漸кратно地為產生的樣本指定信心分數，在符合特定標準時停止，然後採用加權多數投票來最佳化樣本使用率並提升答案的可靠性。我們使用多個 LLM 在各種問答資料集上全面測試 RASC。與現有方法相比，RASC 表現更佳，並顯著降低了 80% 的平均樣本使用率，同時維持或提升了與原始 SC 相比高達 5% 的準確度
 
 ##### **Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**
-2408.17011v1 by Jutika Borah, Kumaresh Sarmah, Hidam Kumarjit Singh
+2408.17011v2 by Jutika Borah, Kumaresh Sarmah, Hidam Kumarjit Singh
 
 Imaging techniques such as Chest X-rays, whole slide images, and optical
 coherence tomography serve as the initial screening and detection for a wide
@@ -1206,7 +1207,7 @@ provides a deeper understanding of the applications of deep learning techniques
 in medical imaging and highlights the impact of pretrained networks across
 different medical imaging datasets under five different experimental settings.
 
-摘要：影像技術，例如胸部 X 光、全切片影像和光學相干斷層掃描，分別用於各種醫療肺部和眼科疾病的初步篩檢和偵測。本文探討使用預訓練深度卷積神經網路，以及在不同模式下，將轉移學習應用於多種醫學影像資料集，以進行二元和多類別分類的複雜性。我們使用 10 種網路架構和模型系列進行全面的效能分析，每個架構和系列都經過預訓練和隨機初始化。我們的發現顯示，將預訓練模型用作固定特徵萃取器，會產生不佳的效能，與資料集無關。相反地，組織病理學顯微鏡全切片影像有較好的效能。我們也發現，較深且較複雜的架構不一定會產生最佳效能。此觀察結果表示，ImageNet 的改進與醫學影像任務並不平行。在醫學領域內，網路架構的效能會隨著資料集的轉換，在模型系列中有所不同。這表示，特定模式中模型的效能，可能無法決定同領域中另一種模式的效能。本研究提供了對深度學習技術在醫學影像中的應用更深入的了解，並強調了預訓練網路在五種不同實驗設定下，對不同醫學影像資料集的影響。
+摘要：影像技術，例如胸部 X 光、全切片影像和光學相干斷層掃描，分別作為各種醫學肺部和眼科疾病的初步篩檢和偵測。本文探討了使用預訓練深度卷積神經網路搭配遷移學習，橫跨不同醫療影像資料集，以進行二元和多類別分類的複雜性。我們對十種網路架構和模型系列進行了全面的效能分析，每個架構和系列都經過預訓練和隨機初始化。我們的發現顯示，將預訓練模型用作固定特徵萃取器會產生不佳的效能，與資料集無關。相反地，組織病理學顯微鏡全切片影像有較好的效能。我們也發現，較深且複雜的架構並非一定會產生最佳效能。此觀察結果意味著 ImageNet 的改良並未與醫療影像任務平行。在醫療領域內，網路架構的效能會隨著資料集的轉換而改變模型系列。這表示在特定模式中模型的效能可能無法決定在同一個領域中另一種模式的效能。本研究提供了對深度學習技術在醫療影像中的應用更深入的理解，並強調了預訓練網路在五種不同實驗設定下跨不同醫療影像資料集的影響。
 
 ##### **Improving Time Series Classification with Representation Soft Label Smoothing**
 2408.17010v1 by Hengyi Ma, Weitong Chen
@@ -1406,29 +1407,29 @@ thus contributing to the development of reliable autonomous driving systems.
 摘要：深度學習模型對於自動駕駛感知至關重要，但其可靠性受到演算法限制和硬體故障的挑戰。我們透過檢視語意分割模型中的容錯性來解決後者。使用已建立的硬體故障模型，我們在準確性和不確定性方面評估現有的強化技術，並引入 ReLUMax，一種新穎且簡單的激活函數，旨在增強對暫態故障的復原力。ReLUMax 可無縫整合到現有架構中，且無時間開銷。我們的實驗表明，ReLUMax 有效地提高了穩健性，保留了效能並提升了預測信心，從而為可靠的自動駕駛系統開發做出了貢獻。
 
 ##### **Different Victims, Same Layout: Email Visual Similarity Detection for Enhanced Email Protection**
-2408.16945v1 by Sachin Shukla, Omid Mirzaei
+2408.16945v2 by Sachin Shukla, Omid Mirzaei
 
 In the pursuit of an effective spam detection system, the focus has often
 been on identifying known spam patterns either through rule-based detection
-systems or machine learning (ML) solutions. However, both systems are
-susceptible to evasion techniques and zero-day attacks that can be achieved at
-low cost. Therefore, an email that bypassed the defense system once can do it
-again in the following days, even though rules are updated or the ML models are
-retrained. The recurrence of failures to detect emails that exhibit layout
-similarities to previously undetected spam is concerning for customers and can
-erode their trust in a company. Our observations show that threat actors reuse
-email kits extensively and can bypass detection with little effort, for
-example, by making changes to the content of emails. In this work, we propose
-an email visual similarity detection approach, named Pisco, to improve the
-detection capabilities of an email threat defense system. We apply our proof of
-concept to some real-world samples received from different sources. Our results
-show that email kits are being reused extensively and visually similar emails
-are sent to our customers at various time intervals. Therefore, this method
-could be very helpful in situations where detection features that rely on
-contextual information and keywords are bypassed, an occurrence our
-observations show happens frequently.
+systems or machine learning (ML) solutions that rely on keywords. However, both
+systems are susceptible to evasion techniques and zero-day attacks that can be
+achieved at low cost. Therefore, an email that bypassed the defense system once
+can do it again in the following days, even though rules are updated or the ML
+models are retrained. The recurrence of failures to detect emails that exhibit
+layout similarities to previously undetected spam is concerning for customers
+and can erode their trust in a company. Our observations show that threat
+actors reuse email kits extensively and can bypass detection with little
+effort, for example, by making changes to the content of emails. In this work,
+we propose an email visual similarity detection approach, named Pisco, to
+improve the detection capabilities of an email threat defense system. We apply
+our proof of concept to some real-world samples received from different
+sources. Our results show that email kits are being reused extensively and
+visually similar emails are sent to our customers at various time intervals.
+Therefore, this method could be very helpful in situations where detection
+features that rely on textual features and keywords are bypassed, an occurrence
+our observations show happens frequently.
 
-摘要：在追求有效的垃圾邮件检测系统时，重点通常放在通过基于规则的检测系统或机器学习 (ML) 解决方案识别已知的垃圾邮件模式上。然而，这两个系统都容易受到规避技术和零日攻击的影响，而这些攻击的成本很低。因此，一封绕过防御系统的电子邮件可以在第二天再次绕过，即使规则已更新或 ML 模型已重新训练。反复无法检测出与先前未检测到的垃圾邮件在布局上相似的电子邮件，这对客户来说是令人担忧的，并且会侵蚀他们对公司的信任。我们的观察表明，威胁行为者广泛地重复使用电子邮件工具包，并且可以毫不费力地绕过检测，例如通过更改电子邮件的内容。在这项工作中，我们提出了一种名为 Pisco 的电子邮件视觉相似性检测方法，以提高电子邮件威胁防御系统的检测能力。我们将我们的概念验证应用于从不同来源收到的某些真实世界样本。我们的结果表明，电子邮件工具包正在被广泛地重复使用，并且在不同的时间间隔向我们的客户发送视觉上相似的电子邮件。因此，在依赖上下文信息和关键词的检测功能被绕过的情况下，这种方法可能非常有帮助，我们的观察表明这种情况经常发生。
+摘要：在追求有效的垃圾邮件检测系统时，重点通常放在通过基于规则的检测系统或依赖于关键字的机器学习（ML）解决方案来识别已知的垃圾邮件模式。然而，这两种系统都容易受到逃避技术和零日攻击的影响，而这些攻击的成本很低。因此，一旦绕过防御系统的电子邮件可以在接下来的几天再次绕过，即使规则已更新或 ML 模型已重新训练。反复检测不到与先前未检测到的垃圾邮件表现出布局相似性的电子邮件，这会让客户感到担忧，并可能侵蚀他们对公司的信任。我们的观察表明，威胁参与者广泛地重复使用电子邮件工具包，并且可以通过轻微的努力绕过检测，例如，通过更改电子邮件的内容。在这项工作中，我们提出了一种名为 Pisco 的电子邮件视觉相似性检测方法，以提高电子邮件威胁防御系统的检测能力。我们将概念验证应用于从不同来源收到的某些真实世界样本。我们的结果表明，电子邮件工具包正在被广泛地重复使用，并且在不同的时间间隔向我们的客户发送视觉上相似的电子邮件。因此，在依赖于文本特征和关键字的检测特征被绕过的情况下，这种方法可能非常有帮助，我们的观察表明这种情况经常发生。
 
 ##### **A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models**
 2408.16942v1 by Chen Wang, Rohitash Chandra
@@ -2039,7 +2040,7 @@ models to address complex challenges in autonomous driving.
 摘要：自動駕駛技術的進展需要越來越精密的方法來理解和預測真實世界的場景。視覺語言模型 (VLM) 正在成為革命性的工具，具有影響自動駕駛的巨大潛力。在本文中，我們提出 DriveGenVLM 架構來生成駕駛影片，並使用 VLM 來理解它們。為此，我們採用了一個基於去噪擴散機率模型 (DDPM) 的影片生成架構，旨在預測真實世界的影片序列。然後，我們透過採用一種稱為自視影片上高效情境學習 (EILEV) 的預訓練模型，來探討我們生成的影片是否足以用於 VLM。擴散模型使用 Waymo 開放資料集進行訓練，並使用 Fr\'echet 影片距離 (FVD) 分數進行評估，以確保生成影片的品質和真實性。EILEV 為這些生成的影片提供了對應的旁白，這可能有助於自動駕駛領域。這些旁白可以增強對交通場景的理解、協助導航，並改善規劃能力。在 DriveGenVLM 架構中整合影片生成和 VLM，代表了在利用進階 AI 模型來解決自動駕駛中的複雜挑戰方面向前邁進了一大步。
 
 ##### **RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**
-2408.16634v1 by Zhuan Shi, Jing Yan, Xiaoli Tang, Lingjuan Lyu, Boi Faltings
+2408.16634v2 by Zhuan Shi, Jing Yan, Xiaoli Tang, Lingjuan Lyu, Boi Faltings
 
 The increasing sophistication of text-to-image generative models has led to
 complex challenges in defining and enforcing copyright infringement criteria
@@ -2061,7 +2062,7 @@ conducted on 3 mixed datasets of copyright and non-copyright images demonstrate
 that our approach significantly reduces copyright infringement risk while
 maintaining image quality.
 
-摘要：文本到图像生成模型日益复杂，导致在定义和执行版权侵权标准和保护方面面临复杂的挑战。现有的方法（例如水印和数据集去重）由于缺乏标准化指标和解决扩散模型中版权侵权的固有复杂性而无法提供全面的解决方案。为了应对这些挑战，我们提出了一种基于强化学习的文本到图像扩散模型版权保护（RLCP）方法，该方法最大程度地减少了侵犯版权内容的生成，同时保持了模型生成数据集的质量。我们的方法首先引入了一种新的版权度量，该度量基于版权法和侵权方面的法院判例。然后，我们利用去噪扩散策略优化（DDPO）框架指导模型完成多步骤决策过程，使用包含我们提出的版权度量的奖励函数对其进行优化。此外，我们采用 KL 散度作为正则化项，以减轻一些故障模式并稳定 RL 微调。在 3 个包含版权和非版权图像的混合数据集上进行的实验表明，我们的方法显著降低了版权侵权风险，同时保持了图像质量。
+摘要：隨著文字轉圖片生成模型的複雜性日益提升，在定義和執行著作權侵權標準及保護方面產生了複雜的挑戰。現有的方法，例如浮水印和資料集去重，由於缺乏標準化指標和處理擴散模型中著作權侵權的固有複雜性，無法提供全面的解決方案。為了解決這些挑戰，我們提出了一種基於強化學習的文字轉圖片擴散模型著作權保護 (RLCP) 方法，該方法在維持模型生成資料集品質的同時，將著作權侵權內容的生成降至最低。我們的做法始於引入一種新的著作權指標，該指標基於著作權法和侵權方面的法院判例。然後，我們利用去噪擴散策略最佳化 (DDPO) 架構引導模型進行多步驟決策制定，使用結合我們提出的著作權指標的獎勵函數對其進行最佳化。此外，我們採用 KL 散度作為正則化項，以減輕某些失敗模式並穩定 RL 微調。在 3 個著作權和非著作權圖像的混合資料集上進行的實驗表明，我們的做法顯著降低了著作權侵權風險，同時維持了圖像品質。
 
 ##### **Optimizing Automated Picking Systems in Warehouse Robots Using Machine Learning**
 2408.16633v1 by Keqin Li, Jin Wang, Xubo Wu, Xirui Peng, Runmian Chang, Xiaoyu Deng, Yiwen Kang, Yue Yang, Fanghao Ni, Bo Hong

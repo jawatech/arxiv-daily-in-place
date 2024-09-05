@@ -19,7 +19,7 @@
 |**2024-08-23**|**Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving**|Sakhinana Sagar Srinivas et.al.|[2408.14494v1](http://arxiv.org/abs/2408.14494v1)|null|
 |**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
 |**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
-|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v1](http://arxiv.org/abs/2408.12333v1)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
+|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v2](http://arxiv.org/abs/2408.12333v2)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
 |**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116v1](http://arxiv.org/abs/2408.12116v1)|null|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
@@ -525,7 +525,7 @@ responses.
 摘要：<paragraph>轉錄組基礎模型 TFM 承諾解碼轉錄組語言，它透過在大型單細胞基因表現資料上進行自我監督學習，來決定不同的細胞功能，並最終解開人類疾病的複雜機制。然而，目前的 TFM 將細胞視為獨立樣本，並忽略細胞類型之間的分類關係，而這在細胞本體論圖表中是可用的。我們認為在 TFM 預訓練期間有效利用此本體論資訊，可以改善學習生物學上有意義的基因共表現模式，同時保留 TFM 作為下游零次學習和微調任務的一般用途基礎模型。為此，我們提出單細胞、細胞本體論引導的 TFM scCello。我們引入細胞類型一致性損失和本體論對齊損失，在預訓練期間會將其與遮罩基因表現預測損失一起最小化。這個新穎的損失組件引導 scCello 分別從細胞本體論圖表中學習細胞類型特定表示和細胞類型之間的結構關係。我們在 CellxGene 資料庫中對 2200 萬個細胞進行 scCello 預訓練，利用其細胞類型標籤對應到開放生物和生物醫學本體鑄造廠的細胞本體論圖表。我們的 TFM 在生物學上重要的任務上展示了比現有 TFM 更具競爭力的泛化和可轉移性，包括識別未見細胞的新細胞類型、預測細胞類型特定標記基因和癌症藥物反應。</paragraph>
 
 ##### **Graph Retrieval Augmented Trustworthiness Reasoning**
-2408.12333v1 by Ying Zhu, Shengchang Li, Ziqian Kong, Peilan Xu
+2408.12333v2 by Ying Zhu, Shengchang Li, Ziqian Kong, Peilan Xu
 
 Trustworthiness reasoning is crucial in multiplayer games with incomplete
 information, enabling agents to identify potential allies and adversaries,
@@ -546,7 +546,7 @@ performance. Moreover, GRATR effectively mitigates LLM hallucinations, such as
 identity and objective amnesia, and crucially, it renders the reasoning process
 more transparent and traceable through the use of the trustworthiness graph.
 
-摘要：<paragraph>在信息不完整的多人遊戲中，可信度推理至關重要，它使代理商能夠識別潛在的盟友和敵人，從而增強推理和決策制定過程。依賴預先訓練模型的傳統方法需要廣泛的特定領域數據和大量的獎勵反饋，而缺乏實時適應性阻礙了它們在動態環境中的有效性。在本文中，我們介紹了圖表檢索增強推理 (GRATR) 框架，利用檢索增強生成 (RAG) 技術來加強代理商的可信度推理。GRATR 構建了一個動態的可信度圖表，並使用證據信息實時更新它，並檢索相關的信任數據以增強大型語言模型 (LLM) 的推理能力。我們通過在多人遊戲“狼人”上的實驗驗證了我們的做法，將 GRATR 與基線 LLM 和增強了 Native RAG 和 Rerank RAG 的 LLM 進行了比較。我們的結果表明，GRATR 在獲勝率上超過了基線方法 30% 以上，具有卓越的推理性能。此外，GRATR 有效地減輕了 LLM 的幻覺，例如身份和目標健忘症，最重要的是，它通過使用可信度圖表使推理過程更加透明和可追溯。</paragraph>
+摘要：<paragraph>在信息不完整的多人遊戲中，可信度推理至關重要，讓代理人能夠識別潛在的盟友和敵人，從而增強推理和決策制定過程。依賴預先訓練模型的傳統方法需要大量的特定領域數據和大量的獎勵回饋，而它們缺乏實時適應性會阻礙它們在動態環境中的有效性。在本文中，我們介紹了圖形檢索增強推理 (GRATR) 框架，利用檢索增強生成 (RAG) 技術來加強代理人的可信度推理。GRATR 構建了一個動態可信度圖形，並使用證據信息實時更新它，並檢索相關的信任數據以增強大型語言模型 (LLM) 的推理能力。我們通過多人遊戲「狼人」的實驗驗證了我們的做法，將 GRATR 與基準 LLM 和使用 Native RAG 和 Rerank RAG 增強的 LLM 進行了比較。我們的結果表明，GRATR 在獲勝率上比基準方法高出 30%，具有卓越的推理性能。此外，GRATR 有效地減輕了 LLM 的幻覺，例如身份和目標健忘症，最重要的是，它通過使用可信度圖形使推理過程更透明且可追蹤。</paragraph>
 
 ##### **MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**
 2408.12236v1 by Yanzeng Li, Cheng Zeng, Jinchao Zhang, Jie Zhou, Lei Zou

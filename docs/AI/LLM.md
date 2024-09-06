@@ -5,7 +5,7 @@
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920v1](http://arxiv.org/abs/2409.02920v1)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917v1](http://arxiv.org/abs/2409.02917v1)|[link](https://github.com/wrld/uc-nerf)|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908v1](http://arxiv.org/abs/2409.02908v1)|null|
-|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897v1](http://arxiv.org/abs/2409.02897v1)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897v2](http://arxiv.org/abs/2409.02897v2)|null|
 |**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889v1](http://arxiv.org/abs/2409.02889v1)|[link](https://github.com/freedomintelligence/longllava)|
 |**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883v1](http://arxiv.org/abs/2409.02883v1)|null|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877v1](http://arxiv.org/abs/2409.02877v1)|null|
@@ -20,7 +20,7 @@
 |**2024-09-04**|**An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting**|Zhuolin Li et.al.|[2409.02760v1](http://arxiv.org/abs/2409.02760v1)|null|
 |**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751v1](http://arxiv.org/abs/2409.02751v1)|null|
 |**2024-09-04**|**Tractable Offline Learning of Regular Decision Processes**|Ahana Deb et.al.|[2409.02747v1](http://arxiv.org/abs/2409.02747v1)|null|
-|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727v1](http://arxiv.org/abs/2409.02727v1)|[link](https://github.com/yixuantt/poolingandattn)|
+|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727v2](http://arxiv.org/abs/2409.02727v2)|[link](https://github.com/yixuantt/poolingandattn)|
 |**2024-09-04**|**Pre-training data selection for biomedical domain adaptation using journal impact metrics**|Mathieu Laï-king et.al.|[2409.02725v1](http://arxiv.org/abs/2409.02725v1)|null|
 |**2024-09-04**|**Alignment-Aware Model Extraction Attacks on Large Language Models**|Zi Liang et.al.|[2409.02718v1](http://arxiv.org/abs/2409.02718v1)|null|
 |**2024-09-04**|**A Data Selection Approach for Enhancing Low Resource Machine Translation Using Cross-Lingual Sentence Representations**|Nidhi Kowtal et.al.|[2409.02712v1](http://arxiv.org/abs/2409.02712v1)|null|
@@ -34,7 +34,7 @@
 |**2024-09-04**|**Causality-Aware Transformer Networks for Robotic Navigation**|Ruoyu Wang et.al.|[2409.02669v1](http://arxiv.org/abs/2409.02669v1)|null|
 |**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667v1](http://arxiv.org/abs/2409.02667v1)|null|
 |**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657v1](http://arxiv.org/abs/2409.02657v1)|null|
-|**2024-09-04**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v1](http://arxiv.org/abs/2409.02649v1)|null|
+|**2024-09-04**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v2](http://arxiv.org/abs/2409.02649v2)|null|
 |**2024-09-04**|**A Survey on Emergent Language**|Jannik Peters et.al.|[2409.02645v1](http://arxiv.org/abs/2409.02645v1)|null|
 |**2024-09-04**|**Evaluating Environments Using Exploratory Agents**|Bobby Khaleque et.al.|[2409.02632v1](http://arxiv.org/abs/2409.02632v1)|null|
 |**2024-09-04**|**AdvSecureNet: A Python Toolkit for Adversarial Machine Learning**|Melih Catal et.al.|[2409.02629v1](http://arxiv.org/abs/2409.02629v1)|[link](https://github.com/melihcatal/advsecurenet)|
@@ -45,7 +45,7 @@
 |**2024-09-04**|**More is More: Addition Bias in Large Language Models**|Luca Santagata et.al.|[2409.02569v1](http://arxiv.org/abs/2409.02569v1)|null|
 |**2024-09-04**|**Vision-Language Navigation with Continual Learning**|Zhiyuan Li et.al.|[2409.02561v1](http://arxiv.org/abs/2409.02561v1)|null|
 |**2024-09-04**|**Low-Resolution Object Recognition with Cross-Resolution Relational Contrastive Distillation**|Kangkai Zhang et.al.|[2409.02555v1](http://arxiv.org/abs/2409.02555v1)|null|
-|**2024-09-04**|**A Sequential Decision-Making Model for Perimeter Identification**|Ayal Taitler et.al.|[2409.02549v1](http://arxiv.org/abs/2409.02549v1)|null|
+|**2024-09-04**|**A Sequential Decision-Making Model for Perimeter Identification**|Ayal Taitler et.al.|[2409.02549v2](http://arxiv.org/abs/2409.02549v2)|null|
 |**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530v1](http://arxiv.org/abs/2409.02530v1)|null|
 |**2024-09-04**|**Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments**|Zhiyuan Li et.al.|[2409.02522v1](http://arxiv.org/abs/2409.02522v1)|null|
 |**2024-09-04**|**Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts**|Arianna Muti et.al.|[2409.02519v1](http://arxiv.org/abs/2409.02519v1)|null|
@@ -68,7 +68,7 @@
 |**2024-09-04**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Translation**|Ali Merali et.al.|[2409.02391v1](http://arxiv.org/abs/2409.02391v1)|null|
 |**2024-09-04**|**Neural Dynamics Model of Visual Decision-Making: Learning from Human Experts**|Jie Su et.al.|[2409.02390v1](http://arxiv.org/abs/2409.02390v1)|null|
 |**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389v1](http://arxiv.org/abs/2409.02389v1)|null|
-|**2024-09-04**|**Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges**|Qian Niu et.al.|[2409.02387v1](http://arxiv.org/abs/2409.02387v1)|null|
+|**2024-09-04**|**Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges**|Qian Niu et.al.|[2409.02387v2](http://arxiv.org/abs/2409.02387v2)|null|
 |**2024-09-04**|**STAB: Speech Tokenizer Assessment Benchmark**|Shikhar Vashishth et.al.|[2409.02384v1](http://arxiv.org/abs/2409.02384v1)|null|
 |**2024-09-04**|**Coral Model Generation from Single Images for Virtual Reality Applications**|Jie Fu et.al.|[2409.02376v1](http://arxiv.org/abs/2409.02376v1)|null|
 |**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375v1](http://arxiv.org/abs/2409.02375v1)|null|
@@ -86,7 +86,7 @@
 |**2024-09-03**|**NoiseAttack: An Evasive Sample-Specific Multi-Targeted Backdoor Attack Through White Gaussian Noise**|Abdullah Arafat Miah et.al.|[2409.02251v1](http://arxiv.org/abs/2409.02251v1)|[link](https://github.com/sisl-uri/noiseattack)|
 |**2024-09-03**|**FastVoiceGrad: One-step Diffusion-Based Voice Conversion with Adversarial Conditional Diffusion Distillation**|Takuhiro Kaneko et.al.|[2409.02245v1](http://arxiv.org/abs/2409.02245v1)|null|
 |**2024-09-03**|**Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT**|Zainab Iftikhar et.al.|[2409.02244v1](http://arxiv.org/abs/2409.02244v1)|null|
-|**2024-09-03**|**Temporal Order Preserved Optimal Transport-based Cross-modal Knowledge Transfer Learning for ASR**|Xugang Lu et.al.|[2409.02239v1](http://arxiv.org/abs/2409.02239v1)|null|
+|**2024-09-03**|**Temporal Order Preserved Optimal Transport-based Cross-modal Knowledge Transfer Learning for ASR**|Xugang Lu et.al.|[2409.02239v2](http://arxiv.org/abs/2409.02239v2)|null|
 |**2024-09-03**|**Unforgettable Generalization in Language Models**|Eric Zhang et.al.|[2409.02228v1](http://arxiv.org/abs/2409.02228v1)|null|
 |**2024-09-03**|**Visually Grounded Speech Models for Low-resource Languages and Cognitive Modelling**|Leanne Nortje et.al.|[2409.02865v1](http://arxiv.org/abs/2409.02865v1)|null|
 |**2024-09-03**|**CRAFT Your Dataset: Task-Specific Synthetic Dataset Generation Through Corpus Retrieval and Augmentation**|Ingo Ziegler et.al.|[2409.02098v1](http://arxiv.org/abs/2409.02098v1)|null|
@@ -94,7 +94,7 @@
 |**2024-09-03**|**Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text**|Michael Burnham et.al.|[2409.02078v1](http://arxiv.org/abs/2409.02078v1)|null|
 |**2024-09-03**|**Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models**|Yuhao Wu et.al.|[2409.02076v1](http://arxiv.org/abs/2409.02076v1)|null|
 |**2024-09-03**|**OLMoE: Open Mixture-of-Experts Language Models**|Niklas Muennighoff et.al.|[2409.02060v1](http://arxiv.org/abs/2409.02060v1)|null|
-|**2024-09-03**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang et.al.|[2409.02050v1](http://arxiv.org/abs/2409.02050v1)|null|
+|**2024-09-03**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang et.al.|[2409.02050v2](http://arxiv.org/abs/2409.02050v2)|null|
 |**2024-09-03**|**Low-Resolution Face Recognition via Adaptable Instance-Relation Distillation**|Ruixin Shi et.al.|[2409.02049v1](http://arxiv.org/abs/2409.02049v1)|null|
 |**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045v1](http://arxiv.org/abs/2409.02045v1)|null|
 |**2024-09-03**|**BEAVER: An Enterprise Benchmark for Text-to-SQL**|Peter Baile Chen et.al.|[2409.02038v1](http://arxiv.org/abs/2409.02038v1)|null|
@@ -182,7 +182,7 @@ generation results in the previous literature.
 摘要：遮罩擴散模型 (MDM) 已成為離散資料生成模型的熱門研究主題，這要歸功於其優於其他離散擴散模型的卓越效能，並且在語言建模任務中與自迴歸模型 (ARM) 相抗衡。簡化遮罩擴散架構的最新努力進一步導致與連續空間擴散模型和更有原則的訓練和採樣配方保持一致。然而，在本文中，我們揭示了 MDM 的訓練和採樣在理論上都不受時間變數的約束，這可以說是擴散模型的主要特徵，而等同於遮罩模型。採樣方面的關聯性是由我們提出的首次命中採樣器 (FHS) 繪製的。具體來說，我們表明 FHS 在理論上等同於 MDM 的原始生成過程，同時顯著減輕了耗時的分類採樣，並實現了 20 倍的加速。此外，我們的調查挑戰了先前的說法，即 MDM 可以超越 ARM 的生成困惑度。我們首次發現了一個潛在的數值問題，即使使用 32 位浮點精度，也會導致不準確的分類採樣。我們表明，這個數值問題在理論上和經驗上都會降低有效溫度，導致對先前文獻中 MDM 的生成結果進行不公平的評估。
 
 ##### **LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**
-2409.02897v1 by jiajie Zhang, Yushi Bai, Xin Lv, Wanjun Gu, Danqing Liu, Minhao Zou, Shulin Cao, Lei Hou, Yuxiao Dong, Ling Feng, Juanzi Li
+2409.02897v2 by Jiajie Zhang, Yushi Bai, Xin Lv, Wanjun Gu, Danqing Liu, Minhao Zou, Shulin Cao, Lei Hou, Yuxiao Dong, Ling Feng, Juanzi Li
 
 Though current long-context large language models (LLMs) have demonstrated
 impressive capacities in answering user questions based on extensive text, the
@@ -203,7 +203,7 @@ evaluation results on LongBench-Cite show that our trained models achieve
 state-of-the-art citation quality, surpassing advanced proprietary models
 including GPT-4o.
 
-摘要：儘管目前的長語境大型語言模型 (LLM) 在根據廣泛文本回答使用者問題方面展現出令人印象深刻的能力，但其回應中缺乏引文，使得使用者難以驗證，進而引發對其可信度的疑慮，因為它們可能會出現幻覺。在這項工作中，我們旨在讓長語境 LLM 能夠產生具有細緻句子層級引文的回應，進而提升其忠實度和可驗證性。我們首先介紹 LongBench-Cite，這是一個自動基準，用於評估目前 LLM 在帶引文長語境問答 (LQAC) 中的表現，並揭露有相當大的改進空間。為此，我們提出 CoF (粗到細)，這是一個新的管線，利用現成的 LLM 自動產生具有精確句子層級引文的長語境 QA 實例，並利用此管線建構 LongCite-45k，這是一個用於 LQAC 的大型 SFT 資料集。最後，我們使用 LongCite-45k 資料集訓練 LongCite-8B 和 LongCite-9B，成功讓它們能夠在單一輸出中產生精準的回應和細緻的句子層級引文。在 LongBench-Cite 上的評估結果顯示，我們訓練的模型達到了最先進的引文品質，超越了包括 GPT-4o 在內的進階專有模型。
+摘要：儘管目前的長語境大型語言模型 (LLM) 已展現出根據廣泛文本回答使用者問題的驚人能力，但其回應中缺乏引文，使得使用者驗證困難，並因其潛在的幻覺而對其可信度產生疑慮。在此研究中，我們旨在讓長語境 LLM 能夠產生具有細緻句子層級引文的回應，進而提升其真實性和可驗證性。我們首先介紹 LongBench-Cite，這是一個自動化基準，用於評估目前 LLM 在長語境問答帶引文 (LQAC) 中的表現，揭露有待改進的空間。為此，我們提出 CoF（粗到細），這是一個新穎的管道，利用現成的 LLM 自動產生具有精確句子層級引文的長語境問答實例，並利用此管道建構 LongCite-45k，這是一個用於 LQAC 的大規模 SFT 資料集。最後，我們使用 LongCite-45k 資料集訓練 LongCite-8B 和 LongCite-9B，成功讓它們能夠在單一輸出中產生精確的回應和細緻的句子層級引文。在 LongBench-Cite 上的評估結果顯示，我們訓練的模型達到了最先進的引文品質，超越了包括 GPT-4o 在內的進階專有模型。
 
 ##### **LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**
 2409.02889v1 by Xidong Wang, Dingjie Song, Shunian Chen, Chen Zhang, Benyou Wang
@@ -551,8 +551,8 @@ experimentally.
 
 摘要：本研究探討非馬可夫環境中的一類離線強化學習 (RL)，稱為規則決策過程 (RDP)。在 RDP 中，未來觀察和獎勵對過去互動的未知依賴性可以由一些隱藏的有限狀態自動機捕獲。因此，許多 RDP 演算法會先使用自動機學習技術重建此未知依賴性。在本文中，我們證明可以克服先前 RDP 離線 RL 演算法的兩個重大限制，特別是 RegORL。這可以透過導入兩種原始技術來達成：基於形式語言開發新的偽度量，這消除了對$L_\infty^\mathsf{p}$可區分性參數的有問題依賴性，以及採用 Count-Min-Sketch (CMS) 代替天真的計數。前者減少了在語言理論術語中以低複雜度為特徵的環境中所需的樣本數量。後者減輕了長期規劃範圍的記憶體需求。我們推導出與這些技術相關的 PAC 樣本複雜度界限，並透過實驗驗證方法。
 
-##### **Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**
-2409.02727v1 by Yixuan Tang, Yi Yang
+##### **Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?**
+2409.02727v2 by Yixuan Tang, Yi Yang
 
 The significant advancements of Large Language Models (LLMs) in generative
 tasks have led to a growing body of work exploring LLM-based embedding models.
@@ -578,7 +578,16 @@ network. This method proves to be statistically superior in text similarity and
 retrieval tasks compared to existing pooling methods. Overall, this paper sheds
 light on effective training strategies for LLM-based embedding models.
 
-摘要：大型語言模型 (LLM) 在生成任務中取得顯著進展，導致越來越多的研究探討基於 LLM 的嵌入模型。儘管這些模型採用不同的匯總和注意力策略，在公開嵌入基準上取得最先進的效能，但關於構成基於 LLM 的嵌入模型的有效設計仍有疑問。然而，這些模型通常使用不同的 LLM 基礎模型或訓練設定，在不同的資料集上進行訓練。此外，公開嵌入基準上的評估通常無法報告統計顯著性，這使得難以確定哪些設計真正有助於最終效能。這使得實務工作者尋求基於 LLM 的嵌入模型的最佳訓練配方時變得複雜。在本研究中，我們透過使用相同的訓練資料和基礎模型，但採用不同的匯總和注意力策略，訓練一系列基於 LLM 的嵌入模型，來進行大規模實驗。結果顯示，沒有放諸四海皆準的解決方案：雖然雙向注意力和額外的可訓練匯總層在文本相似性和資訊檢索任務中表現優異，但在分群和分類任務中，它們並未顯著超越較簡單的設計，例如 EOS 最後一個標記匯總和預設因果注意力。此外，我們提出了一種新的匯總策略，稱為多層可訓練匯總，它使用跨注意力網路轉換所有隱藏層的輸出，而不仅仅是最後一層。與現有的匯總方法相比，此方法在文本相似性和檢索任務中被證明具有統計優勢。總體而言，本文闡明了基於 LLM 的嵌入模型的有效訓練策略。
+摘要：大型語言模型 (LLM) 在生成任務中的顯著進展，導致了越來越多研究探索基於 LLM 的嵌入模型。
+雖然這些模型採用不同的匯總和注意力策略，已在公開嵌入基準測試中達到最先進的性能，但關於什麼構成了基於 LLM 的嵌入模型的有效設計，仍然存在疑問。
+然而，這些模型通常在不同的資料集上訓練，使用不同的 LLM 基礎模型或訓練設定。
+此外，對公開嵌入基準測試的評估通常未能報告統計顯著性，這使得難以確定哪些設計真正有助於最終性能。
+這使得從業者尋求基於 LLM 的嵌入模型的最佳訓練配方變得複雜。
+在本研究中，我們通過使用相同的訓練資料和基礎模型，但匯總和注意力策略不同的訓練一系列基於 LLM 的嵌入模型，進行了大規模實驗。
+結果表明，沒有通用的解決方案：雖然雙向注意力和一個額外的可訓練匯總層在文本相似性和資訊檢索任務中表現出色，但它們並沒有顯著超過在聚類和分類任務中較簡單的設計，例如 EOS 最後標記匯總和預設因果注意力。
+此外，我們提出了一種新的匯總策略，多層可訓練匯總，它使用交叉注意力網路轉換所有隱藏層的輸出，而不仅仅是最後一層。
+與現有的匯總方法相比，這種方法在文本相似性和檢索任務中被證明具有統計優勢。
+總的來說，本文闡明了基於 LLM 的嵌入模型的有效訓練策略。
 
 ##### **Pre-training data selection for biomedical domain adaptation using journal impact metrics**
 2409.02725v1 by Mathieu Laï-king, Patrick Paroubek
@@ -905,7 +914,7 @@ motions. Project: https://junleen.github.io/projects/posetalk.
 摘要：<paragraph>儘管先前的音訊驅動說話頭部生成 (THG) 方法可從驅動音訊中生成頭部姿勢，但生成的姿勢或嘴唇無法與音訊良好匹配，或無法編輯。在本研究中，我們提出一個 THG 系統 \textbf{PoseTalk}，該系統可以自由生成與文字提示和音訊相符的唇部同步說話頭部影片，且具有自由的頭部姿勢。我們方法的核心見解是使用頭部姿勢連接視覺、語言和音訊訊號。首先，我們建議從音訊和文字提示中生成姿勢，其中音訊提供頭部動作的短期變化和節奏對應，而文字提示則描述頭部動作的長期語意。為達成此目標，我們設計了一個姿勢潛在擴散 (PLD) 模型，在姿勢潛在空間中從文字提示和音訊提示中生成動作潛在。其次，我們觀察到損失不平衡的問題：嘴唇區域的損失小於姿勢和嘴唇造成的總重建損失的 4%，這使得最佳化傾向於頭部動作，而不是嘴唇形狀。為了解決此問題，我們提出一個基於精煉的學習策略，使用兩個串聯網路合成自然說話影片，即 CoarseNet 和 RefineNet。CoarseNet 估計粗略動作以產生新姿勢的動畫影像，而 RefineNet 則專注於透過從低解析度到高解析度逐步估計嘴唇動作來學習更精細的嘴唇動作，進而改善唇部同步效能。實驗證明，與僅文字或僅音訊相比，我們的姿勢預測策略可獲得更好的姿勢多樣性和真實性，而我們的影片生成器模型在合成具有自然頭部動作的說話影片方面優於最先進的方法。專案：https://junleen.github.io/projects/posetalk。</paragraph>
 
 ##### **OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**
-2409.02649v1 by Włodzimierz Lewoniewski, Piotr Stolarski, Milena Stróżyna, Elzbieta Lewańska, Aleksandra Wojewoda, Ewelina Księżniak, Marcin Sawiński
+2409.02649v2 by Włodzimierz Lewoniewski, Piotr Stolarski, Milena Stróżyna, Elzbieta Lewańska, Aleksandra Wojewoda, Ewelina Księżniak, Marcin Sawiński
 
 This paper presents the experiments and results for the CheckThat! Lab at
 CLEF 2024 Task 6: Robustness of Credibility Assessment with Adversarial
@@ -924,8 +933,8 @@ combining multiple methods to create more sophisticated and effective
 adversarial attack strategies, contributing to the development of more robust
 and secure systems.
 
-摘要：這篇論文呈現了 CLEF 2024 任務 6 中 CheckThat! 實驗室的實驗和結果：對抗性範例的可信度評估的穩健性（InCrediblAE）。此任務的主要目標是在五個問題領域中產生對抗性範例，以評估廣泛使用的文字分類方法（微調過的 BERT、BiLSTM 和 RoBERTa）在應用於可信度評估問題時的穩健性。
-此研究探討了集成學習在增強對自然語言處理 (NLP) 模型的對抗性攻擊中的應用。我們系統性地測試和改進了多種對抗性攻擊方法，包括 BERT-Attack、遺傳演算法、TextFooler 和 CLARE，在五個資料集上執行各種錯誤資訊任務。透過開發 BERT-Attack 的修改版本和混合方法，我們在攻擊效能方面取得顯著的改進。我們的結果證明了修改和結合多種方法以建立更精緻且有效的對抗性攻擊策略的潛力，有助於開發更穩健且安全的系統。
+摘要：這篇論文呈現了 CLEF 2024 任務 6 中 CheckThat！實驗室的實驗和結果：對抗範例的信譽評估的穩健性 (InCrediblAE)。此任務的主要目標是在五個問題領域中產生對抗範例，以評估廣泛使用的文本分類方法（微調過的 BERT、BiLSTM 和 RoBERTa）在應用於信譽評估問題時的穩健性。
+此研究探討了套件學習的應用，以增強對自然語言處理 (NLP) 模型的對抗攻擊。我們系統性地測試和改進了幾種對抗攻擊方法，包括 BERT-Attack、遺傳演算法、TextFooler 和 CLARE，針對五個資料集，跨越各種錯誤訊息任務。透過開發 BERT-Attack 和混合方法的修改版本，我們在攻擊效能方面獲得了顯著的進步。我們的結果證明了修改和結合多種方法以建立更精緻且有效的對抗攻擊策略的潛力，有助於開發更穩健且安全的系統。
 
 ##### **A Survey on Emergent Language**
 2409.02645v1 by Jannik Peters, Constantin Waubert de Puiseau, Hasan Tercan, Arya Gopikrishnan, Gustavo Adolpho Lucas De Carvalho, Christian Bitter, Tobias Meisen
@@ -1182,7 +1191,7 @@ adaptability of our approach.
 摘要：辨識低解析度影像中的物體是一項具有挑戰性的任務，原因在於缺乏有意義的細節。最近的研究顯示，知識蒸餾方法可以透過比對跨解析度表徵，有效地將知識從高解析度教師模型轉移到低解析度學生模型。然而，這些方法在適應辨識物體在訓練和測試影像之間展現顯著表徵差異的情況時，仍然面臨限制。在本研究中，我們提出一個跨解析度關係對比蒸餾方法，以促進低解析度物體辨識。我們的做法讓學生模型能夠模仿訓練良好的教師模型的行為，該模型在辨識高解析度物體時能提供高準確度。為了萃取足夠的知識，學生學習受到對比關係蒸餾損失的監督，這保留了對比表徵空間中各種關係結構中的相似性。透過這種方式，可以有效地增強恢復熟悉低解析度物體遺失細節的能力，進而達到更好的知識轉移。在低解析度物體分類和低解析度人臉辨識上的廣泛實驗清楚地證明了我們方法的有效性和適應性。
 
 ##### **A Sequential Decision-Making Model for Perimeter Identification**
-2409.02549v1 by Ayal Taitler
+2409.02549v2 by Ayal Taitler
 
 Perimeter identification involves ascertaining the boundaries of a designated
 area or zone, requiring traffic flow monitoring, control, or optimization.
@@ -1199,8 +1208,8 @@ determining the definition of an optimal perimeter. Ultimately, we showcase the
 model's efficacy through a real-world scenario, highlighting the identification
 of corresponding optimal perimeters.
 
-摘要：周界辨識涉及確定指定區域或區域的邊界，需要交通流量監控、控制或最佳化。
-存在各種方法和技術來準確定義這些周界；然而，它們通常需要專業設備、精確對應或綜合資料才能有效描繪問題。在本研究中，我們提出了一個用於周界搜尋的循序決策制定架構，旨在實時高效運作，且僅需要公開可用的資訊。我們將周界搜尋概念化為一個玩家和人工環境之間的遊戲，其中玩家的目標是透過循序改善當前周界來識別最佳周界。我們詳細說明遊戲模型，並討論其在確定最佳周界定義方面的適應性。最後，我們透過真實世界的場景展示模型的效能，重點說明對應最佳周界的識別。
+摘要：周界識別涉及確定指定區域或區域的邊界，需要交通流量監控、控制或最佳化。
+存在各種方法和技術來準確定義這些周界；然而，它們通常需要專業設備、精確對應或全面數據才能有效描述問題。在本研究中，我們提出了一個用於周界搜尋的順序決策制定框架，旨在實時高效運行，並且僅需要公開可用的資訊。我們將周界搜尋概念化為一個玩家代理和人工環境之間的遊戲，其中代理的目標是通過順序改善當前周界來識別最佳周界。我們詳細說明了遊戲模型，並討論了其在確定最佳周界定義方面的適應性。最終，我們通過一個真實世界的場景展示了模型的效能，重點說明了對應最佳周界的識別。
 
 ##### **Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**
 2409.02530v1 by Chih-Yuan Li, Jun-Ting Wu, Chan Hsu, Ming-Yen Lin, Yihuang Kang
@@ -1741,7 +1750,7 @@ powerful situated reasoning models.
 摘要：情境感知對於理解和推理具身 AI 代理中的 3D 場景至關重要。然而，現有的資料集和基準在資料模態、多樣性、規模和任務範圍方面對於情境理解來說是有限的。為了解決這些限制，我們提出了多模態情境問答 (MSQA)，這是一個大型多模態情境推理資料集，可透過利用 3D 場景圖和視覺語言模型 (VLM) 在各種真實世界 3D 場景中進行可擴充收集。MSQA 包含 251K 個情境問答對，涵蓋 9 個不同的問題類別，涵蓋 3D 場景中的複雜場景。我們在基準中引入了一種新穎的交錯多模態輸入設定，以提供文字、影像和點雲，用於情境和問題描述，解決以前單一模態慣例（例如文字）中的歧義。此外，我們設計了多模態情境下一步導航 (MSNN) 基準，以評估模型的導航情境推理。MSQA 和 MSNN 的綜合評估突顯了現有視覺語言模型的限制，並強調了處理多模態交錯輸入和情境建模的重要性。資料擴充和跨領域轉移的實驗進一步證明了利用 MSQA 作為預訓練資料集來開發更強大的情境推理模型的有效性。
 
 ##### **Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges**
-2409.02387v1 by Qian Niu, Junyu Liu, Ziqian Bi, Pohsun Feng, Benji Peng, Keyu Chen
+2409.02387v2 by Qian Niu, Junyu Liu, Ziqian Bi, Pohsun Feng, Benji Peng, Keyu Chen
 
 This comprehensive review explores the intersection of Large Language Models
 (LLMs) and cognitive science, examining similarities and differences between
@@ -1758,7 +1767,7 @@ human cognition. This review provides a balanced perspective on the current
 state and future potential of LLMs in advancing our understanding of both
 artificial and human intelligence.
 
-摘要：這篇全面性的評論探討了大型語言模型 (LLM) 和認知科學的交集，探討了 LLM 和人類認知過程之間的相似性和差異。我們分析了評估 LLM 認知能力的方法，並討論了它們作為認知模型的潛力。這篇評論涵蓋了 LLM 在各種認知領域中的應用，重點說明了對認知科學研究的見解。我們評估了 LLM 的認知偏差和限制，以及提出的改善其效能的方法。探討了 LLM 與認知架構的整合，揭示了增強人工智慧 (AI) 能力的潛在途徑。確定了關鍵挑戰和未來的研究方向，強調需要持續改進 LLM 以更好地與人類認知保持一致。這篇評論提供了對 LLM 在促進我們對人工和人類智慧的理解方面的當前狀態和未來潛力的平衡觀點。
+摘要：這篇綜合評論探討了大型語言模型 (LLM) 和認知科學的交集，探討了 LLM 與人類認知過程之間的異同。我們分析了評估 LLM 認知能力的方法，並討論了它們作為認知模型的潛力。這篇評論涵蓋了 LLM 在各種認知領域的應用，重點說明了對認知科學研究的見解。我們評估了 LLM 的認知偏差和局限性，以及提出的改善其效能的方法。探討了 LLM 與認知架構的整合，揭示了增強人工智慧 (AI) 能力的有希望的途徑。確定了關鍵挑戰和未來的研究方向，強調需要持續改進 LLM，以更好地與人類認知保持一致。這篇評論提供了對 LLM 在促進我們對人工和人類智慧的理解方面的現狀和未來潛力的平衡觀點。
 
 ##### **STAB: Speech Tokenizer Assessment Benchmark**
 2409.02384v1 by Shikhar Vashishth, Harman Singh, Shikhar Bharadwaj, Sriram Ganapathy, Chulayuth Asawaroengchai, Kartik Audhkhasi, Andrew Rosenberg, Ankur Bapna, Bhuvana Ramabhadran
@@ -2190,7 +2199,7 @@ empathy, which may lead to unrealistic patient expectations and potential harm.
 摘要：擴大治療照護管道是心理健康治療中最大的挑戰之一。由於制度障礙，一些尋求心理健康支持的人轉向大型語言模型 (LLM) 進行個人化治療，儘管這些模型在很大程度上未經批准且未經測試。我們使用混合方法臨床指標來探討使用 LLM 作為循證療法提供者的潛力和限制。使用 HELPERT，在大型語言模型上執行提示，使用與比較組的同儕諮詢師相同的流程和訓練，我們複製了基於認知行為療法 (CBT) 的公開心理健康對話，以比較原始同儕支持會話和其重建的 HELPERT 會話之間的會話動態和諮詢師基於 CBT 的行為。兩位經過許可的、受過 CBT 訓練的臨床心理學家使用認知治療評分量表評估這些會話，並提供定性回饋。我們的研究結果顯示，同儕會話的特徵是同理心、閒聊、治療聯盟和共同經驗，但經常表現出治療師漂移。相反，HELPERT 重建的會話表現出最小的治療師漂移和對 CBT 方法的更高依循性，但缺乏協作、同理心和文化理解。透過 CTRS 評分和心理學家的回饋，我們強調了人機協作對於可擴展心理健康的重要性。我們的研究概述了在治療環境中賦予 LLM 類人主觀品質的倫理影響，特別是具有欺騙性同理心的風險，這可能會導致不切實際的患者期望和潛在危害。
 
 ##### **Temporal Order Preserved Optimal Transport-based Cross-modal Knowledge Transfer Learning for ASR**
-2409.02239v1 by Xugang Lu, Peng Shen, Yu Tsao, Hisashi Kawai
+2409.02239v2 by Xugang Lu, Peng Shen, Yu Tsao, Hisashi Kawai
 
 Transferring linguistic knowledge from a pretrained language model (PLM) to
 an acoustic model has been shown to greatly improve the performance of
@@ -2216,7 +2225,7 @@ state-of-the-art models employing linguistic knowledge transfer, and addresses
 the weaknesses of the original OT-based method in sequential feature alignment
 for ASR.
 
-摘要：<paragraph>已證實將預先訓練語言模型 (PLM) 的語言知識轉移到聲學模型，可大幅提升自動語音辨識 (ASR) 的效能。然而，由於跨模態異質特徵分布，設計一個有效模型以進行特徵對齊和語言與聲學序列間的知識轉移，仍是一項艱鉅的任務。最佳傳輸 (OT) 可有效測量機率分佈差異，在對齊和轉移聲學與語言模態間的知識方面具有極大的潛力。儘管如此，原始的 OT 將聲學與語言特徵序列視為對齊的兩個無序集合，並在 OT 耦合估計過程中忽略時間順序資訊。因此，需要耗時的預訓練階段，才能學習聲學與語言表徵之間良好的對齊。在本文中，我們提出一個基於時間順序保留 OT (TOT) 的跨模態對齊與知識轉移 (CAKT) (TOT-CAKT)，用於 ASR。在 TOT-CAKT 中，聲學序列的局部鄰近幀會平滑地對應到語言序列的鄰近區域，在特徵對齊和匹配中保留其時間順序關係。利用 TOT-CAKT 模型架構，我們使用預先訓練的中文 PLM 進行國語 ASR 實驗，以進行語言知識轉移。我們的結果顯示，與採用語言知識轉移的幾個最先進模型相比，所提出的 TOT-CAKT 可顯著提升 ASR 效能，並解決原始基於 OT 的方法在 ASR 的序列特徵對齊中的弱點。</paragraph>
+摘要：將語言知識從預訓練語言模型 (PLM) 轉移到聲學模型已證實能大幅提升自動語音辨識 (ASR) 的效能。然而，由於跨模態異質特徵分佈，設計一個用於特徵比對和在語言及聲學序列間知識轉移的有效模型仍是一項艱鉅的任務。最佳傳輸 (OT) 能有效測量機率分佈差異，對於比對和在聲學和語言模態間轉移知識具有極大的潛力。儘管如此，原始 OT 將聲學和語言特徵序列視為比對中的兩個無序集合，且在 OT 耦合估計期間忽略時間順序資訊。因此，需要一個耗時的預訓練階段來學習聲學和語言表示間良好的比對。在本文中，我們提出一個基於時間順序保留 OT (TOT) 的跨模態比對和知識轉移 (CAKT) (TOT-CAKT) 用於 ASR。在 TOT-CAKT 中，聲學序列的局部相鄰幀會平滑地對應到語言序列的相鄰區域，在特徵比對和匹配中保留它們的時間順序關係。運用 TOT-CAKT 模型架構，我們使用預訓練的中文 PLM 進行國語 ASR 實驗以進行語言知識轉移。我們的結果證明，與採用語言知識轉移的幾個最先進模型相比，所提出的 TOT-CAKT 能大幅提升 ASR 效能，並解決了原始基於 OT 的方法在 ASR 中進行序列特徵比對的弱點。
 
 ##### **Unforgettable Generalization in Language Models**
 2409.02228v1 by Eric Zhang, Leshem Chosen, Jacob Andreas
@@ -2372,7 +2381,7 @@ logs.
 摘要：我們推出 OLMoE，一種完全開放的最新語言模型，利用稀疏的混合專家 (MoE)。OLMoE-1B-7B 有 70 億個參數，但每個輸入代幣只使用 10 億個。我們對 5 兆個代幣進行預訓練，並進一步調整以建立 OLMoE-1B-7B-Instruct。我們的模型優於所有具有類似活動參數的可用模型，甚至超越了較大的模型，例如 Llama2-13B-Chat 和 DeepSeekMoE-16B。我們對 MoE 訓練提出各種實驗，分析我們模型中的路由，顯示出高度專業化，並開放我們工作的各個方面：模型權重、訓練數據、代碼和日誌。
 
 ##### **Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**
-2409.02050v1 by Hukai Huang, Jiayan Lin, Kaidi Wang, Yishuang Li, Wenhao Guan, Qingyang Hong, Lin Li
+2409.02050v2 by Hukai Huang, Jiayan Lin, Kaidi Wang, Yishuang Li, Wenhao Guan, Lin Li, Qingyang Hong
 
 Due to the inherent difficulty in modeling phonetic similarities across
 different languages, code-switching speech recognition presents a formidable
@@ -2391,7 +2400,7 @@ compared to alternative methods. Importantly, our method preserves the
 efficient inference capabilities characteristic of MoE models without
 necessitating additional pre-training.
 
-摘要：由於跨語言建模語音相似性的難度，語碼轉換語音辨識是一個巨大的挑戰。本研究提出一個協作式 MoE，一種專家混合 (MoE) 模型，利用專家組之間的協作機制。最初，一個先前的路由網路明確地學習語言辨識 (LID) 任務，並根據獲得的 LID 權重選擇專家。這個過程確保了穩健的路由資訊到 MoE 層，減輕了不同語言網域對專家網路參數更新的干擾。LID 權重也用於促進組間協作，使語言特定表示整合成為可能。此外，在每個語言專家組中，一個閘控網路不受監督地運作，以促進超越語言的屬性協作。廣泛的實驗證明了我們方法的有效性，與替代方法相比，達到了顯著的效能提升。重要的是，我們的模型保留了 MoE 模型特有的高效推論能力，而不需要額外的預訓練。
+摘要：由於跨語言建模音相似性的內在困難，代碼切換語音辨識呈現出一個艱鉅的挑戰。本研究提出協作式 MoE，一種專家混合 (MoE) 模型，該模型利用專家群組之間的協作機制。最初，先行路由網路明確學習語言辨識 (LID) 任務，並根據取得的 LID 權重選擇專家。此程序確保穩健的路由資訊傳送至 MoE 層，減輕來自不同語言領域的干擾，影響專家網路參數更新。LID 權重也用於促進群組間協作，讓語言特定表示得以整合。此外，在每個語言專家群組中，一個閘控網路會在沒有監督的情況下運作，以促進語言以外屬性的協作。廣泛的實驗證明了我們方法的效能，與其他方法相比，達到了顯著的效能提升。重要的是，我們的方法保留了 MoE 模型特有的高效推論能力，而無需額外的預訓練。
 
 ##### **Low-Resolution Face Recognition via Adaptable Instance-Relation Distillation**
 2409.02049v1 by Ruixin Shi, Weijia Guo, Shiming Ge

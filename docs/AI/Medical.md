@@ -2,18 +2,23 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597v1](http://arxiv.org/abs/2409.03597v1)|null|
+|**2024-09-05**|**Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation**|Prerak Mody et.al.|[2409.03470v1](http://arxiv.org/abs/2409.03470v1)|[link](https://github.com/prerakmody/bayesuncertainty-error-correspondence)|
+|**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375v1](http://arxiv.org/abs/2409.03375v1)|null|
+|**2024-09-05**|**Addressing the Gaps in Early Dementia Detection: A Path Towards Enhanced Diagnostic Models through Machine Learning**|Juan A. Berrios Moya et.al.|[2409.03147v1](http://arxiv.org/abs/2409.03147v1)|null|
+|**2024-09-04**|**MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation**|Shehan Perera et.al.|[2409.03062v1](http://arxiv.org/abs/2409.03062v1)|[link](https://github.com/osupcvlab/mobileunetr)|
 |**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883v1](http://arxiv.org/abs/2409.02883v1)|null|
 |**2024-09-04**|**Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon**|Ramon Tavares et.al.|[2409.02681v1](http://arxiv.org/abs/2409.02681v1)|null|
 |**2024-09-04**|**SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**|Wenwu Guo et.al.|[2409.02598v1](http://arxiv.org/abs/2409.02598v1)|[link](https://github.com/wenwucode/surgtrack)|
 |**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530v1](http://arxiv.org/abs/2409.02530v1)|null|
 |**2024-09-03**|**Coaching a Robotic Sonographer: Learning Robotic Ultrasound with Sparse Expert's Feedback**|Deepak Raina et.al.|[2409.02337v1](http://arxiv.org/abs/2409.02337v1)|null|
 |**2024-09-03**|**Action-Based ADHD Diagnosis in Video**|Yichun Li et.al.|[2409.02261v1](http://arxiv.org/abs/2409.02261v1)|null|
-|**2024-09-03**|**A Deployed Online Reinforcement Learning Algorithm In An Oral Health Clinical Trial**|Anna L. Trella et.al.|[2409.02069v1](http://arxiv.org/abs/2409.02069v1)|null|
+|**2024-09-03**|**A Deployed Online Reinforcement Learning Algorithm In An Oral Health Clinical Trial**|Anna L. Trella et.al.|[2409.02069v1](http://arxiv.org/abs/2409.02069v1)|[link](https://github.com/StatisticalReinforcementLearningLab/oralytics-post-deployment-analysis)|
 |**2024-09-03**|**TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation**|Bobby Azad et.al.|[2409.02018v1](http://arxiv.org/abs/2409.02018v1)|null|
 |**2024-09-03**|**A randomized simulation trial evaluating ABiMed, a clinical decision support system for medication reviews and polypharmacy management**|Abdelmalek Mouazer et.al.|[2409.01903v1](http://arxiv.org/abs/2409.01903v1)|null|
-|**2024-09-03**|**Training on the Benchmark Is Not All You Need**|Shiwen Ni et.al.|[2409.01790v1](http://arxiv.org/abs/2409.01790v1)|null|
+|**2024-09-03**|**Training on the Benchmark Is Not All You Need**|Shiwen Ni et.al.|[2409.01790v1](http://arxiv.org/abs/2409.01790v1)|[link](https://github.com/nishiwen1214/Benchmark-leakage-detection)|
 |**2024-09-03**|**Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring**|Wenyang Hu et.al.|[2409.01676v1](http://arxiv.org/abs/2409.01676v1)|null|
-|**2024-09-03**|**A Multimodal Object-level Contrast Learning Method for Cancer Survival Risk Prediction**|Zekang Yang et.al.|[2409.02145v1](http://arxiv.org/abs/2409.02145v1)|null|
+|**2024-09-03**|**A Multimodal Object-level Contrast Learning Method for Cancer Survival Risk Prediction**|Zekang Yang et.al.|[2409.02145v1](http://arxiv.org/abs/2409.02145v1)|[link](https://github.com/yang-ze-kang/MOC)|
 |**2024-09-03**|**A Time-Intensity Aware Pipeline for Generating Late-Stage Breast DCE-MRI using Generative Adversarial Models**|Ruben D. Fonnegra et.al.|[2409.01596v1](http://arxiv.org/abs/2409.01596v1)|null|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437v1](http://arxiv.org/abs/2409.01437v1)|[link](https://github.com/simula/Kvasir-VQA)|
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013v1](http://arxiv.org/abs/2409.01013v1)|null|
@@ -21,11 +26,11 @@
 |**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861v1](http://arxiv.org/abs/2409.00861v1)|[link](https://github.com/kramerlab/4StepFocus)|
 |**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830v1](http://arxiv.org/abs/2409.00830v1)|null|
 |**2024-09-01**|**AgGym: An agricultural biotic stress simulation environment for ultra-precision management planning**|Mahsa Khosravi et.al.|[2409.00735v1](http://arxiv.org/abs/2409.00735v1)|null|
-|**2024-09-01**|**LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Generation on Limited Dataset**|Zhaojie Fang et.al.|[2409.00726v1](http://arxiv.org/abs/2409.00726v1)|null|
-|**2024-09-01**|**BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems**|Shams Nafisa Ali et.al.|[2409.00724v1](http://arxiv.org/abs/2409.00724v1)|[link](https://github.com/mhealthbuet/bmd-hs-dataset)|
+|**2024-09-01**|**LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Generation on Limited Dataset**|Zhaojie Fang et.al.|[2409.00726v1](http://arxiv.org/abs/2409.00726v1)|[link](https://github.com/Tinysqua/LPUWF-LDM)|
+|**2024-09-01**|**BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems**|Shams Nafisa Ali et.al.|[2409.00724v1](http://arxiv.org/abs/2409.00724v1)|[link](https://github.com/sani002/HS-Dataset)|
 |**2024-09-01**|**Multiscale Color Guided Attention Ensemble Classifier for Age-Related Macular Degeneration using Concurrent Fundus and Optical Coherence Tomography Images**|Pragya Gupta et.al.|[2409.00718v1](http://arxiv.org/abs/2409.00718v1)|null|
 |**2024-09-01**|**Curriculum Prompting Foundation Models for Medical Image Segmentation**|Xiuqi Zheng et.al.|[2409.00695v1](http://arxiv.org/abs/2409.00695v1)|[link](https://github.com/annazzz-zxq/curriculum-prompting)|
-|**2024-08-31**|**Large Language Models-Enabled Digital Twins for Precision Medicine in Rare Gynecological Tumors**|Jacqueline Lammert et.al.|[2409.00544v1](http://arxiv.org/abs/2409.00544v1)|null|
+|**2024-08-31**|**Large Language Models-Enabled Digital Twins for Precision Medicine in Rare Gynecological Tumors**|Jacqueline Lammert et.al.|[2409.00544v1](http://arxiv.org/abs/2409.00544v1)|[link](https://github.com/LammertJ/RGT-Digital-Twin)|
 |**2024-08-31**|**Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders**|Georgios Ioannides et.al.|[2409.00391v1](http://arxiv.org/abs/2409.00391v1)|null|
 |**2024-08-31**|**Objective Features Extracted from Motor Activity Time Series for Food Addiction Analysis Using Machine Learning**|Mikhail Borisenkov et.al.|[2409.00310v1](http://arxiv.org/abs/2409.00310v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
@@ -43,7 +48,7 @@
 |**2024-08-27**|**Toward Large Language Models as a Therapeutic Tool: Comparing Prompting Techniques to Improve GPT-Delivered Problem-Solving Therapy**|Daniil Filienko et.al.|[2409.00112v1](http://arxiv.org/abs/2409.00112v1)|null|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
 |**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076v1](http://arxiv.org/abs/2408.15076v1)|[link](https://github.com/statisticalreinforcementlearninglab/miwaves_rl_service)|
-|**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|null|
+|**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|[link](https://github.com/yuqizhang-buaa/mamba2mil)|
 |**2024-08-27**|**Sequence-aware Pre-training for Echocardiography Probe Guidance**|Haojun Jiang et.al.|[2408.15026v1](http://arxiv.org/abs/2408.15026v1)|null|
 |**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
 |**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
@@ -97,13 +102,147 @@
 |**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075v1](http://arxiv.org/abs/2408.10075v1)|null|
 |**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039v2](http://arxiv.org/abs/2408.10039v2)|null|
 |**2024-08-19**|**LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**|Weiji Kong et.al.|[2408.09899v1](http://arxiv.org/abs/2408.09899v1)|null|
-|**2024-08-19**|**Preoperative Rotator Cuff Tear Prediction from Shoulder Radiographs using a Convolutional Block Attention Module-Integrated Neural Network**|Chris Hyunchul Jo et.al.|[2408.09894v1](http://arxiv.org/abs/2408.09894v1)|null|
-|**2024-08-19**|**New spectral imaging biomarkers for sepsis and mortality in intensive care**|Silvia Seidlitz et.al.|[2408.09873v1](http://arxiv.org/abs/2408.09873v1)|[link](https://github.com/imsy-dkfz/htc)|
-|**2024-08-19**|**Enhanced Cascade Prostate Cancer Classifier in mp-MRI Utilizing Recall Feedback Adaptive Loss and Prior Knowledge-Based Feature Extraction**|Kun Luo et.al.|[2408.09746v1](http://arxiv.org/abs/2408.09746v1)|null|
-|**2024-08-19**|**R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**|Xiao Wang et.al.|[2408.09743v1](http://arxiv.org/abs/2408.09743v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
-|**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v2](http://arxiv.org/abs/2408.09715v2)|null|
 
 #### Abstracts
+##### **Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**
+2409.03597v1 by Yucong Zhang, Xin Zou, Jinshan Yang, Wenjun Chen, Faya Liang, Ming Li
+
+This paper presents the Multimodal Analyzing System for Laryngoscope (MASL),
+a system that combines audio and video data to automatically extract key
+segments and metrics from laryngeal videostroboscopic videos for clinical
+assessment. MASL integrates glottis detection with keyword spotting to analyze
+patient vocalizations and refine video highlights for better inspection of
+vocal cord movements. The system includes a strobing video extraction module
+that identifies frames by analyzing hue, saturation, and value fluctuations.
+MASL also provides effective metrics for vocal cord paralysis detection,
+employing a two-stage glottis segmentation process using U-Net followed by
+diffusion-based refinement to reduce false positives. Instead of glottal area
+waveforms, MASL estimates anterior glottic angle waveforms (AGAW) from glottis
+masks, evaluating both left and right vocal cords to detect unilateral vocal
+cord paralysis (UVFP). By comparing AGAW variances, MASL distinguishes between
+left and right paralysis. Ablation studies and experiments on public and
+real-world datasets validate MASL's segmentation module and demonstrate its
+ability to provide reliable metrics for UVFP diagnosis.
+
+摘要：本文提出了喉镜多模态分析系统 (MASL)，
+该系统结合音频和视频数据，自动从喉部视频频闪镜视频中提取关键
+片段和指标，用于临床评估。MASL 将声门检测与关键词识别相结合，以分析
+患者发声并细化视频重点，以便更好地检查声带运动。该系统包括一个频闪视频提取模块，
+该模块通过分析色相、饱和度和值波动来识别帧。
+MASL 还为声带麻痹检测提供了有效的指标，
+采用两阶段声门分割过程，使用 U-Net，然后进行基于扩散的细化以减少误报。MASL 不使用声门面积波形，而是从声门掩模中估计前声门角波形 (AGAW)，评估左右声带以检测单侧声带麻痹 (UVFP)。通过比较 AGAW 方差，MASL 区分左右麻痹。消融研究和对公共和真实世界数据集的实验验证了 MASL 的分割模块，并证明了其提供可靠的 UVFP 诊断指标的能力。
+
+##### **Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation**
+2409.03470v1 by Prerak Mody, Nicolas F. Chaves-de-Plaza, Chinmay Rao, Eleftheria Astrenidou, Mischa de Ridder, Nienke Hoekstra, Klaus Hildebrandt, Marius Staring
+
+Increased usage of automated tools like deep learning in medical image
+segmentation has alleviated the bottleneck of manual contouring. This has
+shifted manual labour to quality assessment (QA) of automated contours which
+involves detecting errors and correcting them. A potential solution to
+semi-automated QA is to use deep Bayesian uncertainty to recommend potentially
+erroneous regions, thus reducing time spent on error detection. Previous work
+has investigated the correspondence between uncertainty and error, however, no
+work has been done on improving the "utility" of Bayesian uncertainty maps such
+that it is only present in inaccurate regions and not in the accurate ones. Our
+work trains the FlipOut model with the Accuracy-vs-Uncertainty (AvU) loss which
+promotes uncertainty to be present only in inaccurate regions. We apply this
+method on datasets of two radiotherapy body sites, c.f. head-and-neck CT and
+prostate MR scans. Uncertainty heatmaps (i.e. predictive entropy) are evaluated
+against voxel inaccuracies using Receiver Operating Characteristic (ROC) and
+Precision-Recall (PR) curves. Numerical results show that when compared to the
+Bayesian baseline the proposed method successfully suppresses uncertainty for
+accurate voxels, with similar presence of uncertainty for inaccurate voxels.
+Code to reproduce experiments is available at
+https://github.com/prerakmody/bayesuncertainty-error-correspondence
+
+摘要：深度學習等自動化工具在醫學影像分割中使用率提升，減輕了手動輪廓描繪的瓶頸。這已將手動勞動轉移到自動輪廓的品質評估 (QA)，其中包含偵測錯誤並修正它們。半自動化 QA 的潛在解決方案是使用深度貝氏不確定性來建議潛在的錯誤區域，從而減少花費在錯誤偵測上的時間。先前的研究已調查不確定性和錯誤之間的對應關係，然而，尚未對改善貝氏不確定性地圖的「效用」進行研究，以使其僅出現在不準確區域，而不出現在準確區域。我們的研究使用準確度對抗不確定性 (AvU) 損失來訓練 FlipOut 模型，這會促使不確定性僅出現在不準確區域。我們將此方法應用於兩個放射治療部位的資料集，即頭頸部電腦斷層掃描和前列腺核磁共振掃描。使用接收器操作特性 (ROC) 和精確度召回率 (PR) 曲線，針對體素不準確性評估不確定性熱圖（即預測熵）。數值結果顯示，與貝氏基準相比，所提出的方法成功地抑制準確體素的不確定性，對於不準確體素的不確定性存在類似情況。可在 https://github.com/prerakmody/bayesuncertainty-error-correspondence 取得重現實驗的程式碼
+
+##### **Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**
+2409.03375v1 by Francisco de Arriba-Pérez, Silvia García-Méndez
+
+Based on official estimates, 50 million people worldwide are affected by
+dementia, and this number increases by 10 million new patients every year.
+Without a cure, clinical prognostication and early intervention represent the
+most effective ways to delay its progression. To this end, Artificial
+Intelligence and computational linguistics can be exploited for natural
+language analysis, personalized assessment, monitoring, and treatment. However,
+traditional approaches need more semantic knowledge management and
+explicability capabilities. Moreover, using Large Language Models (LLMs) for
+cognitive decline diagnosis is still scarce, even though these models represent
+the most advanced way for clinical-patient communication using intelligent
+systems. Consequently, we leverage an LLM using the latest Natural Language
+Processing (NLP) techniques in a chatbot solution to provide interpretable
+Machine Learning prediction of cognitive decline in real-time.
+Linguistic-conceptual features are exploited for appropriate natural language
+analysis. Through explainability, we aim to fight potential biases of the
+models and improve their potential to help clinical workers in their diagnosis
+decisions. More in detail, the proposed pipeline is composed of (i) data
+extraction employing NLP-based prompt engineering; (ii) stream-based data
+processing including feature engineering, analysis, and selection; (iii)
+real-time classification; and (iv) the explainability dashboard to provide
+visual and natural language descriptions of the prediction outcome.
+Classification results exceed 80 % in all evaluation metrics, with a recall
+value for the mental deterioration class about 85 %. To sum up, we contribute
+with an affordable, flexible, non-invasive, personalized diagnostic system to
+this work.
+
+摘要：<paragraph>根據官方的估計，全球約有 5000 萬人罹患失智症，且這個數字每年增加 1000 萬名新患者。在沒有治癒方法的情況下，臨床預後和早期介入是延緩其惡化的最有效方法。為此，人工智慧和計算語言學可被用於自然語言分析、個人化評估、監控和治療。然而，傳統方法需要更多語義知識管理和可解釋性能力。此外，儘管這些模型代表了使用智慧系統進行臨床患者溝通的最先進方式，但將大型語言模型 (LLM) 用於認知能力下降診斷仍然很少見。因此，我們利用聊天機器人解決方案中使用最新自然語言處理 (NLP) 技術的 LLM，以提供對認知能力下降的機器學習預測。語言概念特徵被用於適當的自然語言分析。透過可解釋性，我們旨在消除模型的潛在偏差，並提高其在診斷決策中協助臨床工作者的潛力。更詳細地說，所提出的管道包括：(i) 使用基於 NLP 的提示工程進行資料萃取；(ii) 串流式資料處理，包括特徵工程、分析和選擇；(iii) 即時分類；以及 (iv) 可解釋性儀表板，以提供預測結果的可視化和自然語言描述。分類結果在所有評估指標中都超過 80%，心智退化類別的召回率約為 85%。總而言之，我們為這項工作貢獻了一個經濟實惠、靈活、非侵入性、個人化的診斷系統。</paragraph>
+
+##### **Addressing the Gaps in Early Dementia Detection: A Path Towards Enhanced Diagnostic Models through Machine Learning**
+2409.03147v1 by Juan A. Berrios Moya
+
+The rapid global aging trend has led to an increase in dementia cases,
+including Alzheimer's disease, underscoring the urgent need for early and
+accurate diagnostic methods. Traditional diagnostic techniques, such as
+cognitive tests, neuroimaging, and biomarker analysis, face significant
+limitations in sensitivity, accessibility, and cost, particularly in the early
+stages. This study explores the potential of machine learning (ML) as a
+transformative approach to enhance early dementia detection by leveraging ML
+models to analyze and integrate complex multimodal datasets, including
+cognitive assessments, neuroimaging, and genetic information. A comprehensive
+review of existing literature was conducted to evaluate various ML models,
+including supervised learning, deep learning, and advanced techniques such as
+ensemble learning and transformer models, assessing their accuracy,
+interpretability, and potential for clinical integration. The findings indicate
+that while ML models show significant promise in improving diagnostic precision
+and enabling earlier interventions, challenges remain in their
+generalizability, interpretability, and ethical deployment. This research
+concludes by outlining future directions aimed at enhancing the clinical
+utility of ML models in dementia detection, emphasizing interdisciplinary
+collaboration and ethically sound frameworks to improve early detection and
+intervention strategies for Alzheimer's disease and other forms of dementia.
+
+摘要：全球人口快速老化趨勢導致失智症病例增加，包括阿茲海默症，突顯出早期且準確的診斷方法的迫切需求。傳統的診斷技術，例如認知測驗、神經影像和生物標記分析，在敏感性、可及性和成本方面面臨重大限制，特別是在早期階段。本研究探討機器學習 (ML) 作為一種變革性方法的潛力，通過利用 ML 模型分析和整合複雜的多模式數據集，包括認知評估、神經影像和遺傳信息，來增強早期失智症檢測。對現有文獻進行了全面回顧，以評估各種 ML 模型，包括監督學習、深度學習和先進技術，例如集成學習和Transformer模型，評估其準確性、可解釋性和臨床整合的潛力。研究結果表明，儘管 ML 模型在提高診斷精度和實現早期干預方面顯示出顯著的希望，但其可概化性、可解釋性和道德部署仍然存在挑戰。本研究最後概述了旨在增強 ML 模型在失智症檢測中的臨床效用的未來方向，強調跨學科合作和道德健全的框架，以改善阿茲海默症和其他形式失智症的早期檢測和干預策略。
+
+##### **MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation**
+2409.03062v1 by Shehan Perera, Yunus Erzurumlu, Deepak Gulati, Alper Yilmaz
+
+Skin cancer segmentation poses a significant challenge in medical image
+analysis. Numerous existing solutions, predominantly CNN-based, face issues
+related to a lack of global contextual understanding. Alternatively, some
+approaches resort to large-scale Transformer models to bridge the global
+contextual gaps, but at the expense of model size and computational complexity.
+Finally many Transformer based approaches rely primarily on CNN based decoders
+overlooking the benefits of Transformer based decoding models. Recognizing
+these limitations, we address the need efficient lightweight solutions by
+introducing MobileUNETR, which aims to overcome the performance constraints
+associated with both CNNs and Transformers while minimizing model size,
+presenting a promising stride towards efficient image segmentation. MobileUNETR
+has 3 main features. 1) MobileUNETR comprises of a lightweight hybrid
+CNN-Transformer encoder to help balance local and global contextual feature
+extraction in an efficient manner; 2) A novel hybrid decoder that
+simultaneously utilizes low-level and global features at different resolutions
+within the decoding stage for accurate mask generation; 3) surpassing large and
+complex architectures, MobileUNETR achieves superior performance with 3 million
+parameters and a computational complexity of 1.3 GFLOP resulting in 10x and 23x
+reduction in parameters and FLOPS, respectively. Extensive experiments have
+been conducted to validate the effectiveness of our proposed method on four
+publicly available skin lesion segmentation datasets, including ISIC 2016, ISIC
+2017, ISIC 2018, and PH2 datasets. The code will be publicly available at:
+https://github.com/OSUPCVLab/MobileUNETR.git
+
+摘要：皮膚癌分割在醫學影像分析中構成一項重大挑戰。現有許多解決方案（主要是基於 CNN）面臨缺乏整體背景理解的問題。或者，一些方法訴諸於大規模 Transformer 模型來彌合整體背景差距，但犧牲了模型大小和計算複雜度。最後，許多基於 Transformer 的方法主要依賴於基於 CNN 的解碼器，而忽視了基於 Transformer 的解碼模型的優點。認識到這些限制，我們通過引入 MobileUNETR 來解決對高效輕量級解決方案的需求，其目標是克服與 CNN 和 Transformer 相關的效能限制，同時最小化模型大小，為高效影像分割邁出有希望的一步。MobileUNETR 有 3 個主要特點。1) MobileUNETR 包含一個輕量級混合 CNN-Transformer 編碼器，以有效的方式幫助平衡局部和整體背景特徵提取；2) 一個新穎的混合解碼器，在解碼階段同時利用不同解析度下的低階和整體特徵，以進行精確的遮罩生成；3) 超越大型而複雜的架構，MobileUNETR 以 300 萬個參數和 1.3 GFLOP 的計算複雜度實現了卓越的效能，分別減少了 10 倍和 23 倍的參數和 FLOP。已經進行了廣泛的實驗，以驗證我們提出的方法在四個公開可用的皮膚病變分割資料集（包括 ISIC 2016、ISIC 2017、ISIC 2018 和 PH2 資料集）上的有效性。程式碼將公開於：https://github.com/OSUPCVLab/MobileUNETR.git
+
 ##### **Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**
 2409.02883v1 by Junyoung Park, Eun Hyun Seo, Sunjun Kim, SangHak Yi, Kun Ho Lee, Sungho Won
 
@@ -2495,114 +2634,4 @@ consistently provide reliable explanations for more meaningful fine-grained
 diagnostic tasks in breast ultrasound.
 
 摘要：解釋深度神經網路 (DNN) 在醫學影像中的決策已變得越來越重要。現有的歸因方法難以解釋畫素的意義，而現有的基於概念的方法則受到額外註解或難以應用於超音波影像的特定模型結構限制。在本文中，我們提出病灶概念解釋器 (LCE) 架構，它結合了歸因方法與基於概念的方法。我們引入了在大量醫學影像上微調的「任何區段模型」(SAM)，用於概念發現，以實現超音波影像 DNN 的有意義解釋。所提出的架構在忠實度和可理解性方面都經過評估。我們指出了流行的忠實度評估指標中的缺陷，並提出了一個新的評估指標。我們對公共和私人乳房超音波資料集 (BUSI 和 FG-US-B) 的評估顯示，與常用的可解釋性方法相比，LCE 的表現良好。最後，我們還驗證了 LCE 能持續提供乳房超音波中更有意義的細粒度診斷任務的可靠解釋。
-
-##### **Preoperative Rotator Cuff Tear Prediction from Shoulder Radiographs using a Convolutional Block Attention Module-Integrated Neural Network**
-2408.09894v1 by Chris Hyunchul Jo, Jiwoong Yang, Byunghwan Jeon, Hackjoon Shim, Ikbeom Jang
-
-Research question: We test whether a plane shoulder radiograph can be used
-together with deep learning methods to identify patients with rotator cuff
-tears as opposed to using an MRI in standard of care. Findings: By integrating
-convolutional block attention modules into a deep neural network, our model
-demonstrates high accuracy in detecting patients with rotator cuff tears,
-achieving an average AUC of 0.889 and an accuracy of 0.831. Meaning: This study
-validates the efficacy of our deep learning model to accurately detect rotation
-cuff tears from radiographs, offering a viable pre-assessment or alternative to
-more expensive imaging techniques such as MRI.
-
-摘要：研究問題：我們測試平面肩部 X 光片是否可與深度學習方法結合使用，以識別旋轉肌袖撕裂的患者，而非在護理標準中使用 MRI。結果：透過將卷積區塊注意力模組整合到深度神經網路中，我們的模型在偵測旋轉肌袖撕裂的患者方面展現出高度準確性，達到平均 0.889 的 AUC 和 0.831 的準確度。意義：這項研究驗證了我們的深度學習模型從 X 光片中準確偵測旋轉肌袖撕裂的效能，提供了一個可行的預先評估或替代方案，以取代 MRI 等更昂貴的影像技術。
-
-##### **New spectral imaging biomarkers for sepsis and mortality in intensive care**
-2408.09873v1 by Silvia Seidlitz, Katharina Hölzl, Ayca von Garrel, Jan Sellner, Stephan Katzenschlager, Tobias Hölle, Dania Fischer, Maik von der Forst, Felix C. F. Schmitt, Markus A. Weigand, Lena Maier-Hein, Maximilian Dietrich
-
-With sepsis remaining a leading cause of mortality, early identification of
-septic patients and those at high risk of death is a challenge of high
-socioeconomic importance. The driving hypothesis of this study was that
-hyperspectral imaging (HSI) could provide novel biomarkers for sepsis diagnosis
-and treatment management due to its potential to monitor microcirculatory
-alterations. We conducted a comprehensive study involving HSI data of the palm
-and fingers from more than 480 patients on the day of their intensive care unit
-(ICU) admission. The findings demonstrate that HSI measurements can predict
-sepsis with an area under the receiver operating characteristic curve (AUROC)
-of 0.80 (95 % confidence interval (CI) [0.76; 0.84]) and mortality with an
-AUROC of 0.72 (95 % CI [0.65; 0.79]). The predictive performance improves
-substantially when additional clinical data is incorporated, leading to an
-AUROC of up to 0.94 (95 % CI [0.92; 0.96]) for sepsis and 0.84 (95 % CI [0.78;
-0.89]) for mortality. We conclude that HSI presents novel imaging biomarkers
-for the rapid, non-invasive prediction of sepsis and mortality, suggesting its
-potential as an important modality for guiding diagnosis and treatment.
-
-摘要：由於敗血症仍然是死亡的主要原因，因此早期識別敗血症患者和死亡風險高的人是一項具有高度社會經濟重要性的挑戰。本研究的驅動假設是，由於高光譜影像 (HSI) 有可能監測微循環改變，因此它可以提供敗血症診斷和治療管理的新型生物標記。我們進行了一項全面的研究，涉及來自 480 多名患者在入住重症監護病房 (ICU) 當天的手掌和手指的 HSI 資料。研究結果表明，HSI 測量可以預測敗血症，其受試者工作特性曲線下面積 (AUROC) 為 0.80（95% 置信區間 (CI) [0.76; 0.84]），死亡率的 AUROC 為 0.72（95% CI [0.65; 0.79]）。當納入其他臨床數據時，預測效能會大幅提高，敗血症的 AUROC 高達 0.94（95% CI [0.92; 0.96]），死亡率的 AUROC 為 0.84（95% CI [0.78; 0.89]）。我們得出結論，HSI 提供了新型的影像生物標記，可快速、非侵入性地預測敗血症和死亡率，這表明它有可能成為指導診斷和治療的重要方式。
-
-##### **Enhanced Cascade Prostate Cancer Classifier in mp-MRI Utilizing Recall Feedback Adaptive Loss and Prior Knowledge-Based Feature Extraction**
-2408.09746v1 by Kun Luo, Bowen Zheng, Shidong Lv, Jie Tao, Qiang Wei
-
-Prostate cancer is the second most common cancer in males worldwide, and
-mpMRI is commonly used for diagnosis. However, interpreting mpMRI is
-challenging and requires expertise from radiologists. This highlights the
-urgent need for automated grading in mpMRI. Existing studies lack integration
-of clinical prior information and suffer from uneven training sample
-distribution due to prevalence. Therefore, we propose a solution that
-incorporates prior knowledge, addresses the issue of uneven medical sample
-distribution, and maintains high interpretability in mpMRI. Firstly, we
-introduce Prior Knowledge-Based Feature Extraction, which mathematically models
-the PI-RADS criteria for prostate cancer as diagnostic information into model
-training. Secondly, we propose Adaptive Recall Feedback Loss to address the
-extremely imbalanced data problem. This method adjusts the training dynamically
-based on accuracy and recall in the validation set, resulting in high accuracy
-and recall simultaneously in the testing set.Thirdly, we design an Enhanced
-Cascade Prostate Cancer Classifier that classifies prostate cancer into
-different levels in an interpretable way, which refines the classification
-results and helps with clinical intervention. Our method is validated through
-experiments on the PI-CAI dataset and outperforms other methods with a more
-balanced result in both accuracy and recall rate.
-
-摘要：攝護腺癌是全球男性中第二常見的癌症，而多參數磁振造影（mpMRI）通常用於診斷。然而，mpMRI 的解讀具有挑戰性，需要放射科醫師的專業知識。這突顯了 mpMRI 自動分級的迫切需求。現有的研究缺乏臨床先驗資訊的整合，並且由於患病率而導致訓練樣本分佈不均。因此，我們提出了一個解決方案，它結合了先驗知識，解決了醫學樣本分佈不均的問題，並在 mpMRI 中保持了很高的可解釋性。首先，我們引入了基於先驗知識的特徵提取，它將 PI-RADS 攝護腺癌診斷資訊數學建模成模型訓練。其次，我們提出了自適應召回反饋損失來解決極度不平衡的資料問題。此方法根據驗證集中的準確度和召回率動態調整訓練，從而同時在測試集中獲得高準確度和召回率。第三，我們設計了一個增強型級聯攝護腺癌分類器，它以可解釋的方式將攝護腺癌分類為不同的等級，這可以改善分類結果並有助於臨床介入。我們的模型已通過 PI-CAI 資料集的實驗驗證，並且在準確度和召回率方面都優於其他方法，結果更為平衡。
-
-##### **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**
-2408.09743v1 by Xiao Wang, Yuehang Li, Fuling Wang, Shiao Wang, Chuanfu Li, Bo Jiang
-
-Inspired by the tremendous success of Large Language Models (LLMs), existing
-X-ray medical report generation methods attempt to leverage large models to
-achieve better performance. They usually adopt a Transformer to extract the
-visual features of a given X-ray image, and then, feed them into the LLM for
-text generation. How to extract more effective information for the LLMs to help
-them improve final results is an urgent problem that needs to be solved.
-Additionally, the use of visual Transformer models also brings high
-computational complexity. To address these issues, this paper proposes a novel
-context-guided efficient X-ray medical report generation framework.
-Specifically, we introduce the Mamba as the vision backbone with linear
-complexity, and the performance obtained is comparable to that of the strong
-Transformer model. More importantly, we perform context retrieval from the
-training set for samples within each mini-batch during the training phase,
-utilizing both positively and negatively related samples to enhance feature
-representation and discriminative learning. Subsequently, we feed the vision
-tokens, context information, and prompt statements to invoke the LLM for
-generating high-quality medical reports. Extensive experiments on three X-ray
-report generation datasets (i.e., IU-Xray, MIMIC-CXR, CheXpert Plus) fully
-validated the effectiveness of our proposed model. The source code of this work
-will be released on \url{https://github.com/Event-AHU/Medical_Image_Analysis}.
-
-摘要：受到大型語言模型 (LLM) 巨大成功的啟發，現有的 X 光醫學報告生成方法嘗試利用大型模型來達成更好的效能。他們通常採用 Transformer 來擷取特定 X 光影像的視覺特徵，然後將其輸入 LLM 以進行文字生成。如何擷取更有效的資訊以供 LLM 使用，協助他們改善最終結果，是一個亟需解決的迫切問題。此外，視覺 Transformer 模型的使用也帶來了很高的運算複雜度。為了解決這些問題，本文提出了一個新穎的脈絡導引式高效 X 光醫學報告生成架構。具體來說，我們引入 Mamba 作為具有線性複雜度的視覺主幹，且獲得的效能與強大的 Transformer 模型相當。更重要的是，我們在訓練階段從訓練集中執行脈絡檢索，以取得每個小批次中的樣本，利用正相關和負相關樣本來增強特徵表徵和判別式學習。隨後，我們將視覺符號、脈絡資訊和提示陳述輸入 LLM，以生成高品質的醫學報告。在三個 X 光報告生成資料集（即 IU-Xray、MIMIC-CXR、CheXpert Plus）上進行的廣泛實驗，充分驗證了我們提出的模型的有效性。這項工作的原始碼將在 \url{https://github.com/Event-AHU/Medical_Image_Analysis} 上發布。
-
-##### **HYDEN: Hyperbolic Density Representations for Medical Images and Reports**
-2408.09715v2 by Zhi Qiao, Linbin Han, Xiantong Zhen, Jia-Hong Gao, Zhen Qian
-
-In light of the inherent entailment relations between images and text,
-hyperbolic point vector embeddings, leveraging the hierarchical modeling
-advantages of hyperbolic space, have been utilized for visual semantic
-representation learning. However, point vector embedding approaches fail to
-address the issue of semantic uncertainty, where an image may have multiple
-interpretations, and text may refer to different images, a phenomenon
-particularly prevalent in the medical domain. Therefor, we propose
-\textbf{HYDEN}, a novel hyperbolic density embedding based image-text
-representation learning approach tailored for specific medical domain data.
-This method integrates text-aware local features alongside global features from
-images, mapping image-text features to density features in hyperbolic space via
-using hyperbolic pseudo-Gaussian distributions. An encapsulation loss function
-is employed to model the partial order relations between image-text density
-distributions. Experimental results demonstrate the interpretability of our
-approach and its superior performance compared to the baseline methods across
-various zero-shot tasks and different datasets.
-
-摘要：鉴于图像和文本之间固有的蕴涵关系，利用双曲空间的分层建模优势，双曲点向量嵌入已被用于视觉语义表示学习。然而，点向量嵌入方法未能解决语义不确定性问题，其中一个图像可能有多种解释，而文本可能指代不同的图像，这种现象在医学领域尤为普遍。因此，我们提出了\textbf{HYDEN}，这是一种新颖的基于双曲密度嵌入的图像-文本表示学习方法，专为特定医学领域数据量身定制。此方法将文本感知局部特征与图像中的全局特征相结合，通过使用双曲伪高斯分布将图像-文本特征映射到双曲空间中的密度特征。封装损失函数用于对图像-文本密度分布之间的偏序关系进行建模。实验结果证明了我们方法的可解释性，并且在各种零样本任务和不同数据集上，其性能优于基线方法。
 

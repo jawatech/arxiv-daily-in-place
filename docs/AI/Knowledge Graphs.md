@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440v1](http://arxiv.org/abs/2409.03440v1)|null|
+|**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284v1](http://arxiv.org/abs/2409.03284v1)|[link](https://github.com/AuvaLab/itext2kg)|
+|**2024-09-05**|**GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding**|Yukun Cao et.al.|[2409.03258v1](http://arxiv.org/abs/2409.03258v1)|null|
+|**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155v1](http://arxiv.org/abs/2409.03155v1)|[link](https://github.com/reml-group/dog)|
 |**2024-09-04**|**Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification**|Junyoung Lee et.al.|[2409.02481v1](http://arxiv.org/abs/2409.02481v1)|null|
 |**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389v1](http://arxiv.org/abs/2409.02389v1)|null|
 |**2024-09-02**|**Grounding Language Models in Autonomous Loco-manipulation Tasks**|Jin Wang et.al.|[2409.01326v1](http://arxiv.org/abs/2409.01326v1)|null|
@@ -9,7 +13,7 @@
 |**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861v1](http://arxiv.org/abs/2409.00861v1)|[link](https://github.com/kramerlab/4StepFocus)|
 |**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830v1](http://arxiv.org/abs/2409.00830v1)|null|
 |**2024-09-01**|**Hound: Hunting Supervision Signals for Few and Zero Shot Node Classification on Text-attributed Graph**|Yuxiang Wang et.al.|[2409.00727v1](http://arxiv.org/abs/2409.00727v1)|null|
-|**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331v1](http://arxiv.org/abs/2409.00331v1)|null|
+|**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331v1](http://arxiv.org/abs/2409.00331v1)|[link](https://github.com/IBM/wikicausal)|
 |**2024-08-29**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224v2](http://arxiv.org/abs/2408.16224v2)|null|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
 |**2024-08-27**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895v2](http://arxiv.org/abs/2408.14895v2)|[link](https://github.com/aistairc/virtualhome_aist)|
@@ -98,12 +102,108 @@
 |**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v2](http://arxiv.org/abs/2408.01088v2)|[link](https://github.com/philotron/bridge-kg)|
 |**2024-08-02**|**Automatic Extraction of Relationships among Motivations, Emotions and Actions from Natural Language Texts**|Fei Yang et.al.|[2408.00966v1](http://arxiv.org/abs/2408.00966v1)|null|
 |**2024-08-01**|**DisTrack: a new Tool for Semi-automatic Misinformation Tracking in Online Social Networks**|Guillermo Villar-Rodríguez et.al.|[2408.00633v1](http://arxiv.org/abs/2408.00633v1)|null|
-|**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376v1](http://arxiv.org/abs/2408.00376v1)|null|
-|**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|null|
-|**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708v1](http://arxiv.org/abs/2407.21708v1)|null|
-|**2024-07-31**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xinyi Pan et.al.|[2407.21483v3](http://arxiv.org/abs/2407.21483v3)|null|
 
 #### Abstracts
+##### **Rx Strategist: Prescription Verification using LLM Agents System**
+2409.03440v1 by Phuc Phan Van, Dat Nguyen Minh, An Dinh Ngoc, Huy Phan Thanh
+
+To protect patient safety, modern pharmaceutical complexity demands strict
+prescription verification. We offer a new approach - Rx Strategist - that makes
+use of knowledge graphs and different search strategies to enhance the power of
+Large Language Models (LLMs) inside an agentic framework. This multifaceted
+technique allows for a multi-stage LLM pipeline and reliable information
+retrieval from a custom-built active ingredient database. Different facets of
+prescription verification, such as indication, dose, and possible drug
+interactions, are covered in each stage of the pipeline. We alleviate the
+drawbacks of monolithic LLM techniques by spreading reasoning over these
+stages, improving correctness and reliability while reducing memory demands.
+Our findings demonstrate that Rx Strategist surpasses many current LLMs,
+achieving performance comparable to that of a highly experienced clinical
+pharmacist. In the complicated world of modern medications, this combination of
+LLMs with organized knowledge and sophisticated search methods presents a
+viable avenue for reducing prescription errors and enhancing patient outcomes.
+
+摘要：為了保護患者安全，現代藥品複雜性要求嚴格的處方驗證。我們提供一種新方法 - Rx Strategist - 它利用知識圖譜和不同的搜尋策略來增強代理架構內大型語言模型 (LLM) 的功能。這種多方面的技術允許多階段的 LLM 管線和從自訂主動成分資料庫中可靠地擷取資訊。處方驗證的不同面向，例如適應症、劑量和可能的藥物交互作用，都在管線的每個階段中涵蓋。我們透過將推理分散在這些階段來減輕單一 LLM 技術的缺點，同時提高正確性和可靠性，並減少記憶體需求。我們的研究結果表明，Rx Strategist 超越許多現有的 LLM，達到與經驗豐富的臨床藥劑師相當的表現。在現代藥物複雜的世界中，這種將 LLM 與有組織的知識和先進搜尋方法相結合，為減少處方錯誤和改善患者預後提供了可行的途徑。
+
+##### **iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**
+2409.03284v1 by Yassir Lairgi, Ludovic Moncla, Rémy Cazabet, Khalid Benabdeslem, Pierre Cléau
+
+Most available data is unstructured, making it challenging to access valuable
+information. Automatically building Knowledge Graphs (KGs) is crucial for
+structuring data and making it accessible, allowing users to search for
+information effectively. KGs also facilitate insights, inference, and
+reasoning. Traditional NLP methods, such as named entity recognition and
+relation extraction, are key in information retrieval but face limitations,
+including the use of predefined entity types and the need for supervised
+learning. Current research leverages large language models' capabilities, such
+as zero- or few-shot learning. However, unresolved and semantically duplicated
+entities and relations still pose challenges, leading to inconsistent graphs
+and requiring extensive post-processing. Additionally, most approaches are
+topic-dependent. In this paper, we propose iText2KG, a method for incremental,
+topic-independent KG construction without post-processing. This plug-and-play,
+zero-shot method is applicable across a wide range of KG construction scenarios
+and comprises four modules: Document Distiller, Incremental Entity Extractor,
+Incremental Relation Extractor, and Graph Integrator and Visualization. Our
+method demonstrates superior performance compared to baseline methods across
+three scenarios: converting scientific papers to graphs, websites to graphs,
+and CVs to graphs.
+
+摘要：大部分可用資料為非結構化，這使得存取有價值的資訊變得具有挑戰性。自動建立知識圖譜 (KG) 對於結構化資料和讓資料易於存取至關重要，讓使用者能夠有效地搜尋資訊。KG 也促進見解、推論和推理。傳統的 NLP 方法，例如命名實體辨識和關係萃取，在資訊檢索中是關鍵，但面臨限制，包括使用預定義的實體類型和需要監督式學習。目前的研究所利用大型語言模型的能力，例如零次或少次學習。然而，未解決和語義重複的實體和關係仍然構成挑戰，導致圖形不一致，需要廣泛的後處理。此外，大多數方法都依賴於主題。在本文中，我們提出 iText2KG，一種用於漸進式、與主題無關的 KG 建構方法，無需後處理。這種即插即用、零次的方法適用於廣泛的 KG 建構場景，並包含四個模組：文件精餾器、漸進式實體萃取器、漸進式關係萃取器，以及圖形整合器和視覺化器。與基線方法相比，我們的模型在三種場景中展現出卓越的效能：將科學論文轉換為圖形、網站轉換為圖形，以及履歷轉換為圖形。
+
+##### **GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding**
+2409.03258v1 by Yukun Cao, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S. Kevin Zhou
+
+Although Large Language Models (LLMs) have demonstrated potential in
+processing graphs, they struggle with comprehending graphical structure
+information through prompts of graph description sequences, especially as the
+graph size increases. We attribute this challenge to the uneven memory
+performance of LLMs across different positions in graph description sequences,
+known as ''positional biases''. To address this, we propose GraphInsight, a
+novel framework aimed at improving LLMs' comprehension of both macro- and
+micro-level graphical information. GraphInsight is grounded in two key
+strategies: 1) placing critical graphical information in positions where LLMs
+exhibit stronger memory performance, and 2) investigating a lightweight
+external knowledge base for regions with weaker memory performance, inspired by
+retrieval-augmented generation (RAG). Moreover, GraphInsight explores
+integrating these two strategies into LLM agent processes for composite graph
+tasks that require multi-step reasoning. Extensive empirical studies on
+benchmarks with a wide range of evaluation tasks show that GraphInsight
+significantly outperforms all other graph description methods (e.g., prompting
+techniques and reordering strategies) in understanding graph structures of
+varying sizes.
+
+摘要：儘管大型語言模型 (LLM) 已展現出處理圖形的能力，但它們在透過圖形描述序列提示理解圖形結構資訊時會遇到困難，特別是在圖形大小增加時。我們將此挑戰歸因於 LLM 在圖形描述序列中不同位置的記憶力表現不均，稱為「位置偏誤」。為了解決這個問題，我們提出了 GraphInsight，一個旨在改善 LLM 對巨觀和微觀層級圖形資訊理解的新框架。GraphInsight 以兩個關鍵策略為基礎：1) 將關鍵圖形資訊放置在 LLM 展現較強記憶力表現的位置，以及 2) 調查一個受到檢索增強生成 (RAG) 啟發的、針對記憶力表現較弱區域的輕量級外部知識庫。此外，GraphInsight 探索將這兩個策略整合到 LLM 代理程序中，以處理需要多步驟推理的複合圖形任務。在具有廣泛評量任務的基準上進行的廣泛實證研究顯示，GraphInsight 在理解各種大小的圖形結構方面，明顯優於所有其他圖形描述方法（例如提示技巧和重新排序策略）。
+
+##### **Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**
+2409.03155v1 by Jie Ma, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui
+
+Large Language Models (LLMs) may suffer from hallucinations in real-world
+applications due to the lack of relevant knowledge. In contrast, knowledge
+graphs encompass extensive, multi-relational structures that store a vast array
+of symbolic facts. Consequently, integrating LLMs with knowledge graphs has
+been extensively explored, with Knowledge Graph Question Answering (KGQA)
+serving as a critical touchstone for the integration. This task requires LLMs
+to answer natural language questions by retrieving relevant triples from
+knowledge graphs. However, existing methods face two significant challenges:
+\textit{excessively long reasoning paths distracting from the answer
+generation}, and \textit{false-positive relations hindering the path
+refinement}. In this paper, we propose an iterative interactive KGQA framework
+that leverages the interactive learning capabilities of LLMs to perform
+reasoning and Debating over Graphs (DoG). Specifically, DoG employs a
+subgraph-focusing mechanism, allowing LLMs to perform answer trying after each
+reasoning step, thereby mitigating the impact of lengthy reasoning paths. On
+the other hand, DoG utilizes a multi-role debate team to gradually simplify
+complex questions, reducing the influence of false-positive relations. This
+debate mechanism ensures the reliability of the reasoning process. Experimental
+results on five public datasets demonstrate the effectiveness and superiority
+of our architecture. Notably, DoG outperforms the state-of-the-art method ToG
+by 23.7\% and 9.1\% in accuracy on WebQuestions and GrailQA, respectively.
+Furthermore, the integration experiments with various LLMs on the mentioned
+datasets highlight the flexibility of DoG. Code is available at
+\url{https://github.com/reml-group/DoG}.
+
+摘要：<paragraph>大型語言模型 (LLM) 由於缺乏相關知識，在實際應用中可能會產生幻覺。相較之下，知識圖譜包含廣泛的多重關係結構，儲存大量符號事實。因此，將 LLM 與知識圖譜整合已廣泛探討，其中知識圖譜問題解答 (KGQA) 成為整合的重要試金石。此任務要求 LLM 透過從知識圖譜中擷取相關三元組來回答自然語言問題。然而，現有方法面臨兩項重大挑戰：\textit{過長的推理路徑會分散回答產生}，以及\textit{錯誤正向關係阻礙路徑精煉}。在本文中，我們提出一個反覆互動的 KGQA 框架，它利用 LLM 的互動學習能力來執行推理和圖形辯論 (DoG)。具體來說，DoG 採用子圖聚焦機制，允許 LLM 在每個推理步驟後執行答案嘗試，從而減輕冗長推理路徑的影響。另一方面，DoG 利用多角色辯論小組逐漸簡化複雜問題，減少錯誤正向關係的影響。這種辯論機制確保了推理過程的可靠性。在五個公共數據集上的實驗結果證明了我們架構的有效性和優越性。值得注意的是，DoG 在 WebQuestions 和 GrailQA 上的準確度分別比最先進的方法 ToG 高出 23.7% 和 9.1%。此外，在上述數據集上與各種 LLM 的整合實驗突顯了 DoG 的靈活性。程式碼可在\url{https://github.com/reml-group/DoG}取得。</paragraph>
+
 ##### **Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification**
 2409.02481v1 by Junyoung Lee, Ninad Dixit, Kaustav Chakrabarti, S. Supraja
 
@@ -2447,95 +2547,4 @@ information in online social environments.
 方法：DisTrack 的架構結合了多種方法，包括關鍵字搜尋、語意相似性評估和圖形產生技術。這些方法共同促進了錯誤資訊的監控、基於與已知虛假說法的比對來分類內容，以及透過詳細圖形視覺化傳播層疊。此工具經過量身打造，用於擷取和分析數位環境中錯誤資訊散布的動態特性。
 結果：DisTrack 的效能透過三個案例研究獲得驗證，這些研究專注於不同的主題：貶低/仇恨言論、反疫苗錯誤資訊，以及關於俄羅斯-烏克蘭衝突的虛假敘述。這些研究顯示出 DisTrack 在區分傳播虛假資訊和反制虛假資訊的貼文，以及追蹤錯誤資訊從其開端演變的過程中所具備的能力。
 結論：研究證實 DisTrack 是錯誤資訊分析領域中一個有價值的工具。它有效區分了不同類型的錯誤資訊，並追蹤其隨著時間推移的發展。透過提供一種全面的方法來理解和對抗數位空間中的錯誤資訊，DisTrack 證明了自己是協助研究人員和實務工作者減輕線上社交環境中虛假資訊影響力的重要資產。</paragraph>
-
-##### **On the Limitations and Prospects of Machine Unlearning for Generative AI**
-2408.00376v1 by Shiji Zhou, Lianzhe Wang, Jiangnan Ye, Yongliang Wu, Heng Chang
-
-Generative AI (GenAI), which aims to synthesize realistic and diverse data
-samples from latent variables or other data modalities, has achieved remarkable
-results in various domains, such as natural language, images, audio, and
-graphs. However, they also pose challenges and risks to data privacy, security,
-and ethics. Machine unlearning is the process of removing or weakening the
-influence of specific data samples or features from a trained model, without
-affecting its performance on other data or tasks. While machine unlearning has
-shown significant efficacy in traditional machine learning tasks, it is still
-unclear if it could help GenAI become safer and aligned with human desire. To
-this end, this position paper provides an in-depth discussion of the machine
-unlearning approaches for GenAI. Firstly, we formulate the problem of machine
-unlearning tasks on GenAI and introduce the background. Subsequently, we
-systematically examine the limitations of machine unlearning on GenAI models by
-focusing on the two representative branches: LLMs and image generative
-(diffusion) models. Finally, we provide our prospects mainly from three
-aspects: benchmark, evaluation metrics, and utility-unlearning trade-off, and
-conscientiously advocate for the future development of this field.
-
-摘要：生成式 AI (GenAI) 旨在從潛在變數或其他資料模式中合成逼真且多樣化的資料範例，已在自然語言、影像、音訊和圖形等各種領域中取得顯著成果。然而，它們也對資料隱私、安全性與道德構成挑戰和風險。機器遺忘是移除或減弱特定資料範例或特徵對已訓練模型的影響，同時不影響其在其他資料或任務上的效能。雖然機器遺忘已在傳統機器學習任務中展現顯著的功效，但仍不清楚它是否能協助 GenAI 變得更安全且符合人類的期望。為此，本立場文件深入探討了 GenAI 的機器遺忘方法。首先，我們制定 GenAI 上機器遺忘任務的問題，並介紹背景。接著，我們有系統地檢視機器遺忘在 GenAI 模型上的限制，重點放在兩個代表性的分支：LLM 和影像生成（擴散）模型。最後，我們主要從基準、評估指標和效用遺忘權衡三個面向提供我們的展望，並審慎倡議該領域的未來發展。
-
-##### **Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**
-2408.00290v1 by Bin Cheng, Jiaxuan Lu
-
-With the advent of the era of foundation models, pre-training and fine-tuning
-have become common paradigms. Recently, parameter-efficient fine-tuning has
-garnered widespread attention due to its better balance between the number of
-learnable parameters and performance. However, some current parameter-efficient
-fine-tuning methods only model a single modality and lack the utilization of
-structural knowledge in downstream tasks. To address this issue, this paper
-proposes a multi-modal parameter-efficient fine-tuning method based on graph
-networks. Each image is fed into a multi-modal large language model (MLLM) to
-generate a text description. The image and its corresponding text description
-are then processed by a frozen image encoder and text encoder to generate image
-features and text features, respectively. A graph is constructed based on the
-similarity of the multi-modal feature nodes, and knowledge and relationships
-relevant to these features are extracted from each node. Additionally, Elastic
-Weight Consolidation (EWC) regularization is incorporated into the loss
-function to mitigate the problem of forgetting during task learning. The
-proposed model achieves test accuracies on the OxfordPets, Flowers102, and
-Food101 datasets that improve by 4.45%, 2.92%, and 0.23%, respectively. The
-code is available at https://github.com/yunche0/GA-Net/tree/master.
-
-摘要：隨著基礎模型時代的到來，預訓練和微調已成為常見的範例。最近，由於參數有效微調在可學習參數數量和效能之間取得更好的平衡，因此備受關注。然而，一些目前的參數有效微調方法僅建模單一模態，且缺乏在下游任務中利用結構知識。為了解決此問題，本文提出了一種基於圖形網路的多模態參數有效微調方法。每個影像都會輸入到多模態大型語言模型 (MLLM) 中，以產生文字描述。然後，影像及其對應的文字描述會由凍結的影像編碼器和文字編碼器處理，分別產生影像特徵和文字特徵。根據多模態特徵節點的相似性建構一個圖形，並從每個節點中萃取出與這些特徵相關的知識和關係。此外，彈性權重整合 (EWC) 正則化會納入損失函數中，以減輕在任務學習期間遺忘的問題。所提出的模型在 OxfordPets、Flowers102 和 Food101 資料集上達成的測試準確度分別提升了 4.45%、2.92% 和 0.23%。程式碼可在 https://github.com/yunche0/GA-Net/tree/master 取得。
-
-##### **CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**
-2407.21708v1 by Stefan Langer, Fabian Neuhaus, Andreas Nürnberger
-
-Ontologies are formal representations of knowledge in specific domains that
-provide a structured framework for organizing and understanding complex
-information. Creating ontologies, however, is a complex and time-consuming
-endeavor. ChEBI is a well-known ontology in the field of chemistry, which
-provides a comprehensive resource for defining chemical entities and their
-properties. However, it covers only a small fraction of the rapidly growing
-knowledge in chemistry and does not provide references to the scientific
-literature. To address this, we propose a methodology that involves augmenting
-existing annotated text corpora with knowledge from Chebi and fine-tuning a
-large language model (LLM) to recognize chemical entities and their roles in
-scientific text. Our experiments demonstrate the effectiveness of our approach.
-By combining ontological knowledge and the language understanding capabilities
-of LLMs, we achieve high precision and recall rates in identifying both the
-chemical entities and roles in scientific literature. Furthermore, we extract
-them from a set of 8,000 ChemRxiv articles, and apply a second LLM to create a
-knowledge graph (KG) of chemical entities and roles (CEAR), which provides
-complementary information to ChEBI, and can help to extend it.
-
-摘要：本体是特定領域中知識的形式化表示，它提供了一個結構化的框架，用於組織和理解複雜的資訊。然而，建立本体是一項複雜且耗時的努力。ChEBI 是化學領域中一個著名的本体，它提供了一個全面的資源，用於定義化學實體及其屬性。然而，它僅涵蓋了化學領域快速增長的知識中的一小部分，並且沒有提供科學文獻的參考。為了解決這個問題，我們提出了一種方法，它涉及使用來自 Chebi 的知識擴充現有的註釋文本語料庫，並微調大型語言模型 (LLM)，以識別化學實體及其在科學文本中的作用。我們的實驗證明了我們方法的有效性。透過結合本体知識和 LLM 的語言理解能力，我們在識別科學文獻中的化學實體和作用方面達到了很高的準確度和召回率。此外，我們從一組 8,000 篇 ChemRxiv 文章中提取它們，並應用第二個 LLM 來建立一個化學實體和作用 (CEAR) 的知識圖譜 (KG)，它提供補充 ChEBI 的資訊，並有助於擴充它。
-
-##### **eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**
-2407.21483v3 by Xinyi Pan, Daniel Hernández, Philipp Seifer, Ralf Lämmel, Steffen Staab
-
-Over the past few years, we have seen the emergence of large knowledge graphs
-combining information from multiple sources. Sometimes, this information is
-provided in the form of assertions about other assertions, defining contexts
-where assertions are valid. A recent extension to RDF which admits statements
-over statements, called RDF-star, is in revision to become a W3C standard.
-However, there is no proposal for a semantics of these RDF-star statements nor
-a built-in facility to operate over them. In this paper, we propose a query
-language for epistemic RDF-star metadata based on a four-valued logic, called
-eSPARQL. Our proposed query language extends SPARQL-star, the query language
-for RDF-star, with a new type of FROM clause to facilitate operating with
-multiple and sometimes conflicting beliefs. We show that the proposed query
-language can express four use case queries, including the following features:
-(i) querying the belief of an individual, (ii) the aggregating of beliefs,
-(iii) querying who is conflicting with somebody, and (iv) beliefs about beliefs
-(i.e., nesting of beliefs).
-
-摘要：在過去幾年，我們見證了大型知識圖譜的出現，結合來自多個來源的資訊。有時，這些資訊會以對其他斷言的斷言形式提供，定義斷言有效的脈絡。最近對 RDF 的擴充，允許對陳述進行陳述，稱為 RDF-star，正在修訂為 W3C 標準。然而，目前沒有針對這些 RDF-star 陳述的語意建議，也沒有內建的運作功能。在本文中，我們提出了一種基於四值邏輯的知識 RDF-star 元資料查詢語言，稱為 eSPARQL。我們提出的查詢語言擴充了 RDF-star 的查詢語言 SPARQL-star，新增一種 FROM 子句類型，以利於使用多重且有時相互衝突的信念進行運作。我們展示了所提出的查詢語言可以表達四種使用案例查詢，包括以下功能：(i) 查詢個人的信念，(ii) 彙總信念，(iii) 查詢與某人衝突的是誰，以及 (iv) 關於信念的信念（即信念的巢狀）。
 

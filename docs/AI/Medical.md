@@ -55,7 +55,7 @@
 |**2024-08-27**|**Large Language Models for Disease Diagnosis: A Scoping Review**|Shuang Zhou et.al.|[2409.00097v1](http://arxiv.org/abs/2409.00097v1)|null|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568v1](http://arxiv.org/abs/2408.14568v1)|null|
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v2](http://arxiv.org/abs/2408.14443v2)|null|
-|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v2](http://arxiv.org/abs/2408.14418v2)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397v1](http://arxiv.org/abs/2408.14397v1)|[link](https://github.com/rajpurkarlab/rexkg)|
 |**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v3](http://arxiv.org/abs/2408.14340v3)|[link](https://github.com/nicolaus625/fm4music)|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
@@ -1455,7 +1455,7 @@ followed by application outlook and discussions.
 摘要：<paragraph>我們介紹時間集合邏輯 (TEL)，一種用於線性時間時態推理的一階單子模態邏輯。TEL 包含原始時態結構，例如「始終在 $t$ 時間後」($\Box_t$)、「有時在未來 $t$ 時間前」($\Diamond_t$) 和「$t$ 時間後」$\varphi_t$。TEL 的動機是為了臨床和人口健康研究中群組規範和發現的嚴謹性和可再現性，以填補生物醫學中時態推理形式化的空白。現有的邏輯框架（例如線性時態邏輯）對於表達生物醫學中的時態和順序屬性過於嚴格，或者在語義結構上過於寬鬆（例如在 Halpern-Shoham 邏輯中），無法達到此目的。在本文中，我們首先在一般設置中介紹 TEL，其中離散時間和稠密時間為特殊情況。然後，我們專注於正整數時間域 $\mathbb{N}^+$ 上離散 TEL 的理論發展，表示為 ${\rm TEL}_{\mathbb{N}^+}$. ${\rm TEL}_{\mathbb{N}^+}$ 比標準單子二階邏輯更具表達力，其特徵在於 B\"{u}chi 自動機。我們展示其形式語義、證明系統，並提供 ${\rm TEL}_{\mathbb{N}^+}$ 可滿足性的不可判定性的證明。我們還包括 ${\rm TEL}_{\mathbb{N}^+}$ 的表達力和可判定片段的初步結果，然後是應用前景和討論。</paragraph>
 
 ##### **MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**
-2408.14418v1 by Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T. Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, Xiaoxue Gao, Nancy F. Chen, Stefan Winkler
+2408.14418v2 by Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T. Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, Xiaoxue Gao, Nancy F. Chen, Stefan Winkler
 
 Automatic Speech Recognition (ASR) systems are pivotal in transcribing speech
 into text, yet the errors they introduce can significantly degrade the
@@ -1476,7 +1476,7 @@ accuracy of medical dialogue summarization systems. This approach addresses the
 challenges of noisy ASR outputs in critical applications, offering a robust
 solution to enhance the reliability of clinical dialogue summarization.
 
-摘要：自動語音辨識 (ASR) 系統在將語音轉錄為文字方面至關重要，但它們造成的錯誤可能會顯著降低摘要等下游任務的效能。這個問題在臨床對話摘要中特別明顯，這是一個低資源的領域，其中用於微調的監督式資料很稀少，因此必須使用 ASR 模型作為黑盒解決方案。由於無法取得足夠的醫療對話音訊錄音和對應的 ASR 轉錄，因此採用傳統資料擴充來增強摘要模型的抗雜訊性也是不可行的。為了應對這個挑戰，我們提出了 MEDSAGE，這是一種使用大型語言模型 (LLM) 為資料擴充產生合成樣本的方法。具體來說，我們利用 LLM 的語境學習能力，並指示它們根據少數有音訊錄音的可用醫療對話範例產生類似的 ASR 錯誤。實驗結果顯示，LLM 能有效地模擬 ASR 雜訊，並且將這些雜訊資料納入訓練過程中，可以顯著改善醫療對話摘要系統的穩健性和準確性。這種方法應對了關鍵應用中 ASR 輸出有雜訊的挑戰，提供了一個穩健的解決方案來增強臨床對話摘要的可靠性。
+摘要：自動語音辨識 (ASR) 系統在將語音轉錄成文字方面至關重要，但它們所產生的錯誤可能會大幅降低摘要等下游任務的效能。這個問題在臨床對話摘要中特別明顯，這是一個低資源的領域，其中用於微調的監督資料很稀少，因此必須使用 ASR 模型作為黑盒解決方案。由於缺乏足夠的醫療對話音訊錄音和對應的 ASR 轉錄，採用傳統資料擴充來增強摘要模型的抗噪性也不可行。為了應對這個挑戰，我們提出了 MEDSAGE，這是一種使用大型語言模型 (LLM) 產生合成樣本進行資料擴充的方法。具體來說，我們利用 LLM 的情境學習能力，並指示它們根據少數帶有音訊錄音的可用醫療對話範例產生類似的 ASR 錯誤。實驗結果顯示，LLM 可以有效地模擬 ASR 雜訊，而將這些雜訊資料納入訓練過程中可以顯著提高醫療對話摘要系統的穩健性和準確性。這種方法應對了關鍵應用中 ASR 輸出雜訊的問題，提供了一個穩健的解決方案來增強臨床對話摘要的可靠性。
 
 ##### **Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**
 2408.14397v1 by Xiaoman Zhang, Julián N. Acosta, Hong-Yu Zhou, Pranav Rajpurkar

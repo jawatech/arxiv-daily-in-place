@@ -6,7 +6,7 @@
 |**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752v1](http://arxiv.org/abs/2409.03752v1)|[link](https://github.com/iaar-shanghai/awesome-attention-heads)|
 |**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735v1](http://arxiv.org/abs/2409.03735v1)|null|
 |**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733v1](http://arxiv.org/abs/2409.03733v1)|null|
-|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v1](http://arxiv.org/abs/2409.03708v1)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
 |**2024-09-05**|**A Different Level Text Protection Mechanism With Differential Privacy**|Qingwen Fu et.al.|[2409.03707v1](http://arxiv.org/abs/2409.03707v1)|null|
 |**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701v1](http://arxiv.org/abs/2409.03701v1)|null|
 |**2024-09-05**|**View-Invariant Policy Learning via Zero-Shot Novel View Synthesis**|Stephen Tian et.al.|[2409.03685v1](http://arxiv.org/abs/2409.03685v1)|null|
@@ -14,7 +14,7 @@
 |**2024-09-05**|**A method to benchmark high-dimensional process drift detection**|Edgar Wolf et.al.|[2409.03669v1](http://arxiv.org/abs/2409.03669v1)|[link](https://github.com/edgarwolf/driftbench)|
 |**2024-09-05**|**A Fused Large Language Model for Predicting Startup Success**|Abdurahman Maarouf et.al.|[2409.03668v1](http://arxiv.org/abs/2409.03668v1)|null|
 |**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662v1](http://arxiv.org/abs/2409.03662v1)|[link](https://github.com/diegodoimo/geometry_icl_finetuning)|
-|**2024-09-05**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659v1](http://arxiv.org/abs/2409.03659v1)|[link](https://github.com/zhangr2021/Multiagent_poetry)|
+|**2024-09-05**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659v2](http://arxiv.org/abs/2409.03659v2)|[link](https://github.com/zhangr2021/Multiagent_poetry)|
 |**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650v1](http://arxiv.org/abs/2409.03650v1)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646v1](http://arxiv.org/abs/2409.03646v1)|null|
 |**2024-09-05**|**CDM: A Reliable Metric for Fair and Accurate Formula Recognition Evaluation**|Bin Wang et.al.|[2409.03643v1](http://arxiv.org/abs/2409.03643v1)|[link](https://github.com/opendatalab/unimernet)|
@@ -33,7 +33,7 @@
 |**2024-09-05**|**Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection**|Sara Roos-Hoefgeest et.al.|[2409.03429v1](http://arxiv.org/abs/2409.03429v1)|null|
 |**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402v1](http://arxiv.org/abs/2409.03402v1)|null|
 |**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384v1](http://arxiv.org/abs/2409.03384v1)|null|
-|**2024-09-05**|**CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks**|Yongxin Deng et.al.|[2409.03381v1](http://arxiv.org/abs/2409.03381v1)|null|
+|**2024-09-05**|**CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks**|Yongxin Deng et.al.|[2409.03381v2](http://arxiv.org/abs/2409.03381v2)|null|
 |**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377v1](http://arxiv.org/abs/2409.03377v1)|[link](https://github.com/Brainchip-Inc/aTENNuate)|
 |**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375v1](http://arxiv.org/abs/2409.03375v1)|null|
 |**2024-09-05**|**Con-ReCall: Detecting Pre-training Data in LLMs via Contrastive Decoding**|Cheng Wang et.al.|[2409.03363v1](http://arxiv.org/abs/2409.03363v1)|null|
@@ -43,7 +43,7 @@
 |**2024-09-05**|**LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts**|Henrique Da Silva Gameiro et.al.|[2409.03291v1](http://arxiv.org/abs/2409.03291v1)|null|
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284v1](http://arxiv.org/abs/2409.03284v1)|[link](https://github.com/AuvaLab/itext2kg)|
 |**2024-09-05**|**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**|Zhengzhuo Xu et.al.|[2409.03277v1](http://arxiv.org/abs/2409.03277v1)|null|
-|**2024-09-05**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274v1](http://arxiv.org/abs/2409.03274v1)|null|
+|**2024-09-05**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274v2](http://arxiv.org/abs/2409.03274v2)|null|
 |**2024-09-05**|**Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation**|Yu Wang et.al.|[2409.03271v1](http://arxiv.org/abs/2409.03271v1)|null|
 |**2024-09-05**|**Bones Can't Be Triangles: Accurate and Efficient Vertebrae Keypoint Estimation through Collaborative Error Revision**|Jinhee Kim et.al.|[2409.03261v1](http://arxiv.org/abs/2409.03261v1)|null|
 |**2024-09-05**|**In Search of Trees: Decision-Tree Policy Synthesis for Black-Box Systems via Search**|Emir Demirović et.al.|[2409.03260v1](http://arxiv.org/abs/2409.03260v1)|null|
@@ -83,11 +83,11 @@
 |**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841v1](http://arxiv.org/abs/2409.02841v1)|null|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
 |**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836v1](http://arxiv.org/abs/2409.02836v1)|null|
-|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834v1](http://arxiv.org/abs/2409.02834v1)|null|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834v2](http://arxiv.org/abs/2409.02834v2)|null|
 |**2024-09-04**|**Large Language Model-Based Agents for Software Engineering: A Survey**|Junwei Liu et.al.|[2409.02977v1](http://arxiv.org/abs/2409.02977v1)|[link](https://github.com/fudanselab/agent4se-paper-list)|
 |**2024-09-04**|**MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**|Xiang Yue et.al.|[2409.02813v1](http://arxiv.org/abs/2409.02813v1)|null|
 |**2024-09-04**|**A hybrid FEM-PINN method for time-dependent partial differential equations**|Xiaodong Feng et.al.|[2409.02810v1](http://arxiv.org/abs/2409.02810v1)|null|
-|**2024-09-04**|**Towards a Unified View of Preference Learning for Large Language Models: A Survey**|Bofei Gao et.al.|[2409.02795v1](http://arxiv.org/abs/2409.02795v1)|null|
+|**2024-09-04**|**Towards a Unified View of Preference Learning for Large Language Models: A Survey**|Bofei Gao et.al.|[2409.02795v2](http://arxiv.org/abs/2409.02795v2)|null|
 |**2024-09-04**|**An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting**|Zhuolin Li et.al.|[2409.02760v1](http://arxiv.org/abs/2409.02760v1)|null|
 |**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751v1](http://arxiv.org/abs/2409.02751v1)|[link](https://github.com/PKUAI-LINGroup/PAS)|
 |**2024-09-04**|**Tractable Offline Learning of Regular Decision Processes**|Ahana Deb et.al.|[2409.02747v1](http://arxiv.org/abs/2409.02747v1)|null|
@@ -205,7 +205,7 @@ function of the diversity over generated ideas.
 摘要：<paragraph>儘管擴展訓練運算已大幅改善大型語言模型 (LLM)，但擴展推論運算尚未產生類似的優勢。我們假設一個核心遺失的組成部分是缺乏多樣化的 LLM 輸出，這會導致模型反覆取樣高度相似但錯誤的生成，進而導致搜尋效率低下。我們實證證明，透過搜尋以自然語言解決問題的候選計畫，可以減輕這種缺乏多樣性的問題。根據這個見解，我們提出了 PLANSEARCH，這是一種新穎的搜尋演算法，在 HumanEval+、MBPP+ 和 LiveCodeBench（一種無污染的競爭編碼基準）中展現強勁的結果。PLANSEARCH 會產生一組關於問題的多樣化觀察，然後使用這些觀察來建構解決問題的計畫。透過以自然語言而非直接以程式碼解決方案搜尋計畫，與基準搜尋方法相比，PLANSEARCH 探索了更多樣化的潛在解決方案範圍。在 Claude 3.5 Sonnet 上使用 PLANSEARCH，在 LiveCodeBench 上達到了 77.0% 的最佳 pass@200，優於未搜尋獲得的最佳分數 (pass@1 = 41.4%) 和使用標準重複取樣 (pass@200 = 60.6%)。最後，我們證明，在分析的所有模型、搜尋演算法和基準中，我們可以準確預測由於搜尋而產生的效能提升，作為生成想法多樣性的直接函數。</paragraph>
 
 ##### **RAG based Question-Answering for Contextual Response Prediction System**
-2409.03708v1 by Sriram Veturi, Saurabh Vaichal, Nafis Irtiza Tripto, Reshma Lal Jagadheesh, Nian Yan
+2409.03708v2 by Sriram Veturi, Saurabh Vaichal, Reshma Lal Jagadheesh, Nafis Irtiza Tripto, Nian Yan
 
 Large Language Models (LLMs) have shown versatility in various Natural
 Language Processing (NLP) tasks, including their potential as effective
@@ -227,7 +227,7 @@ accuracy and relevance. Our findings suggest that RAG-based LLMs can be an
 excellent support to human customer service representatives by lightening their
 workload.
 
-摘要：大型語言模型 (LLM) 已在各種自然語言處理 (NLP) 任務中展現出多功能性，包括其作為有效問答系統的潛力。然而，為了在產業環境中對特定客戶查詢提供精確且相關的資訊，LLM 需要存取全面的知識庫以避免產生幻覺。檢索增強生成 (RAG) 成為了解決此挑戰的一種有前途的技術。然而，使用 RAG 為真實世界的應用程式開發準確的問答架構會帶來若干挑戰：1) 資料可用性問題、2) 評估生成內容的品質，以及 3) 人工評估的昂貴性質。在本文中，我們介紹了一個端對端的架構，它採用具備 RAG 功能的 LLM，以適用於產業用例。針對客戶查詢，所提出的系統會檢索相關的知識文件，並利用它們，連同先前的聊天記錄，為大型零售公司的聯絡中心中的客戶服務代理產生回應建議。透過全面的自動化和人工評估，我們證明此解決方案在準確性和相關性方面優於目前的 BERT 基準演算法。我們的研究結果表明，基於 RAG 的 LLM 可以透過減輕其工作負擔，成為人類客戶服務代表的絕佳支援。
+摘要：大型語言模型 (LLM) 已在各種自然語言處理 (NLP) 任務中展現其多功能性，包括其作為有效問答系統的潛力。然而，要在產業環境中針對特定客戶查詢提供精確且相關的資訊，LLM 需要存取全面的知識庫，以避免產生幻覺。檢索擴充生成 (RAG) 浮現為解決此挑戰的一項有前途的技術。然而，使用 RAG 為真實世界應用開發準確的問答架構會帶來多項挑戰：1) 資料可用性問題、2) 評估生成內容的品質，以及 3) 人工評估的昂貴性質。在本文中，我們介紹了一個端到端架構，它採用具備 RAG 功能的 LLM，以適用於產業用例。針對客戶查詢，所提出的系統會檢索相關的知識文件，並利用這些文件以及先前的聊天記錄，為大型零售公司的聯絡中心中的客戶服務代理產生回應建議。透過全面的自動化和人工評估，我們證明此解決方案在準確性和相關性方面優於目前的 BERT-based 演算法。我們的研究結果顯示，基於 RAG 的 LLM 可以透過減輕人類客服人員的工作負擔，成為其絕佳的支援。
 
 ##### **A Different Level Text Protection Mechanism With Differential Privacy**
 2409.03707v1 by Qingwen Fu
@@ -375,7 +375,7 @@ towards designing optimal methods to extract information from language models.
 摘要：文本内学习 (ICL) 和监督微调 (SFT) 是两种常见的策略，用于提升现代大型语言模型 (LLM) 在特定任务上的性能。尽管其本质不同，但这些策略通常会导致可比的性能提升。然而，对于它们是否会在 LLM 内诱发类似的表征，我们所知甚少。我们通过分析这两种情况下其隐藏表征的概率分布来解决这个问题。更具体地说，我们比较了 LLM 如何解决相同的问答任务，发现 ICL 和 SFT 创建了非常不同的内部结构，在这两种情况下，网络中间都经历了急剧的转变。在网络的前半部分，ICL 根据语义内容分层组织可解释的表征。相比之下，使用 SFT 获得的概率分布则更加模糊且语义混合。在模型的后半部分，微调后的表征发展出概率模式，更好地编码答案的身份，而 ICL 表征的分布则以不太明确的峰值为特征。我们的方法揭示了 LLM 内部开发的不同计算策略，以解决不同条件下的相同任务，使我们能够朝着设计从语言模型中提取信息的最优方法迈出一步。
 
 ##### **LLM-based multi-agent poetry generation in non-cooperative environments**
-2409.03659v1 by Ran Zhang, Steffen Eger
+2409.03659v2 by Ran Zhang, Steffen Eger
 
 Despite substantial progress of large language models (LLMs) for automatic
 poetry generation, the generated poetry lacks diversity while the training
@@ -401,7 +401,7 @@ the social network. Our paper argues for a paradigm shift in creative tasks
 such as automatic poetry generation to include social learning processes (via
 LLM-based agent modeling) similar to human interaction.
 
-摘要：<paragraph>儘管大型語言模型 (LLM) 在自動詩歌生成方面取得了顯著進展，但生成的詩歌缺乏多樣性，而訓練過程與人類學習有很大不同。基於詩歌生成系統的學習過程應更像人類，其輸出應更具多樣性和新穎性，我們引入了一個基於社會學習的框架，在其中我們強調非合作互動，除了合作互動以鼓勵多樣性。我們的實驗是 LLM 為基礎的多代理系統在非合作環境中生成詩歌的首次嘗試，採用基於訓練的代理（GPT-2）和基於提示的代理（GPT-3 和 GPT-4）。我們根據 96k 首生成的詩歌進行評估，顯示我們的框架有利於基於訓練的代理的詩歌生成過程，導致 1) 多樣性增加 3.0-3.7 個百分點 (pp)，根據不同的新穎 n-gram，新穎性增加 5.6-11.3 pp。基於訓練的代理所生成的詩歌在詞彙、風格和語義方面也表現出群體差異。我們框架中的基於提示的代理也受益於非合作環境，並且具有非同質代理的多樣化模型集合有可能進一步提高多樣性，根據我們的實驗，增加了 7.0-17.5 pp。然而，基於提示的代理會隨著時間推移而降低詞彙多樣性，並且不會表現出社交網路中預期的基於群體的差異。我們的論文主張在創造性任務（例如自動詩歌生成）中進行典範轉移，以納入類似於人類互動的社會學習過程（通過基於 LLM 的代理建模）。</paragraph>
+摘要：儘管大型語言模型（LLM）在自動詩歌生成方面取得了重大進展，但生成的詩歌缺乏多樣性，而訓練過程與人類學習有很大不同。基於詩歌生成系統的學習過程應更像人類，且其輸出應更多樣化和新穎的論據，我們引入了一個基於社會學習的框架，在其中我們除了強調合作互動之外，還強調非合作互動以鼓勵多樣性。我們的實驗是 LLM 基於非合作環境的多主體系統在詩歌生成中的首次嘗試，採用了基於訓練的主體（GPT-2）和基於提示的主體（GPT-3 和 GPT-4）。我們根據 96k 首生成的詩歌進行的評估表明，我們的框架有利於基於訓練的主體的詩歌生成過程，導致 1) 多樣性增加 3.0-3.7 個百分點（pp），根據不同的新穎 n-gram，新穎性增加 5.6-11.3 pp。基於訓練的主體生成的詩歌在詞彙、風格和語義方面也表現出群體差異。我們框架中的基於提示的主體也受益於非合作環境，並且具有非同質主體的多樣化模型集合有可能進一步提高多樣性，根據我們的實驗，增加了 7.0-17.5 pp。然而，基於提示的主體隨著時間的推移表現出詞彙多樣性的下降，並且沒有表現出社交網路中預期的基於群體的差異。我們的論文主張在創意任務中進行範式轉變，例如自動詩歌生成，以納入類似於人類互動的社會學習過程（通過基於 LLM 的主體建模）。
 
 ##### **On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**
 2409.03650v1 by Yong Lin, Skyler Seto, Maartje ter Hoeve, Katherine Metcalf, Barry-John Theobald, Xuan Wang, Yizhe Zhang, Chen Huang, Tong Zhang
@@ -886,7 +886,7 @@ technology and then we make a fair comparison of the performance.
 調查介紹了已提出的框架，然後對技術、處理平台 (FPGA、ASIC、In-Memory、GPU)、加速、能效、效能 (GOP) 和能效 (GOP/W) 進行定性和定量比較。比較中的主要挑戰在於，每項提出的方案都是在不同的製程技術上實作，這使得公平比較變得困難。本文的主要貢獻在於，我們將效能和能效的結果外推到相同的技術上，以進行公平的比較；一種是理論上的，一種是更實際的。我們在多個 FPGA 晶片上實作部分 LLM，以將結果外推到相同的製程技術，然後公平地比較效能。
 
 ##### **CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks**
-2409.03381v1 by Yongxin Deng, Xihe Qiu, Xiaoyu Tan, Chao Qu, Jing Pan, Yuan Cheng, Yinghui Xu, Wei Chu
+2409.03381v2 by Yongxin Deng, Xihe Qiu, Xiaoyu Tan, Chao Qu, Jing Pan, Yuan Cheng, Yinghui Xu, Wei Chu
 
 Cognitive psychology investigates perception, attention, memory, language,
 problem-solving, decision-making, and reasoning. Kahneman's dual-system theory
@@ -904,7 +904,7 @@ understanding of their capabilities in cognitive psychology. Practically,
 self-trained models can provide faster responses to certain queries, reducing
 computational demands during inference.
 
-摘要：認知心理學研究知覺、注意力、記憶、語言、問題解決、決策和推理。卡尼曼的雙系統理論闡明了人類決策過程，區分了快速、直覺的系統 1 和深思熟慮、理性的系統 2。最近的進展已將大型語言模型 (LLM) 定位為強大的工具，在各種認知任務中接近人類水平的熟練度。儘管如此，在 LLM 中類似於人類認知的雙系統架構的存在仍未被探索。本研究介紹了 LLM 的 CogniDual 框架 (CFLLM)，旨在評估 LLM 是否能透過自我訓練，從深思熟慮的推論演變為直覺反應，從而模擬人類獲取和掌握新資訊的過程。我們的研究結果揭示了 LLM 回應產生的認知機制，增強了我們對其在認知心理學中的能力的理解。實際上，自我訓練的模型可以對某些查詢提供更快的回應，從而減少推理過程中的運算需求。
+摘要：認知心理學探討知覺、注意力、記憶、語言、問題解決、決策制定和推理。卡尼曼的雙系統理論闡明了人類決策制定流程，區分了快速、直覺的系統 1 和審慎、理性的系統 2。最近的進展已將大型語言模型 (LLM) 定位為強大的工具，在各種認知任務中接近人類層級的熟練度。儘管如此，在 LLM 中類似人類認知的雙系統架構的存在仍未被探索。本研究引入了 LLM 的認知雙重架構 (CFLLM)，旨在評估 LLM 是否能透過自我訓練從審慎的演繹演變成直覺的反應，從而模擬人類獲取和掌握新資訊的過程。我們的發現揭示了 LLM 回應生成背後的認知機制，增強了我們對其在認知心理學中的能力的理解。實際上，經過自我訓練的模型可以對某些查詢提供更快速的回應，在推理過程中減少運算需求。
 
 ##### **Raw Speech Enhancement with Deep State Space Modeling**
 2409.03377v1 by Yan Ru Pei, Ritik Shrivastava, FNU Sidharth
@@ -1117,7 +1117,7 @@ state-of-the-art from 80.48% to 84.64% on the ChartQA benchmark.
 摘要：自動圖表理解對於內容理解和文件解析至關重要。多模態大型語言模型 (MLLM) 已透過特定領域的對齊和微調，在圖表理解中展現出非凡的能力。然而，對齊訓練在圖表領域的應用仍處於探索不足的階段。為了解決這個問題，我們提出了 ChartMoE，它採用專家混合 (MoE) 架構來取代傳統的線性投影，以彌合模態差距。具體來說，我們透過不同的對齊任務來訓練多個線性連接器，這些連接器被用作不同專家的基礎初始化參數。此外，我們引入了 ChartMoE-Align，這是一個包含超過 90 萬個圖表-表格-JSON-程式碼四元組的資料集，用於執行三項對齊任務（圖表-表格/JSON/程式碼）。結合香草連接器，我們以四種不同的方式初始化不同的專家，並採用高品質的知識學習來進一步優化 MoE 連接器和 LLM 參數。廣泛的實驗證明了 MoE 連接器和我們的初始化策略的有效性，例如，ChartMoE 將 ChartQA 基準上先前最先進的技術的準確度從 80.48% 提升到 84.64%。
 
 ##### **Recent Advances in Attack and Defense Approaches of Large Language Models**
-2409.03274v1 by Jing Cui, Yishi Xu, Zhewei Huang, Shuchang Zhou, Jianbin Jiao, Junge Zhang
+2409.03274v2 by Jing Cui, Yishi Xu, Zhewei Huang, Shuchang Zhou, Jianbin Jiao, Junge Zhang
 
 Large Language Models (LLMs) have revolutionized artificial intelligence and
 machine learning through their advanced text processing and generating
@@ -1138,7 +1138,7 @@ directions to enhance LLM security. Our goal is to advance the understanding of
 LLM safety challenges and guide the development of more robust security
 measures.
 
-摘要：大型語言模型 (LLM) 透過其先進的文字處理和生成能力，徹底改變了人工智慧和機器學習。然而，它們的廣泛部署引起了重大的安全性和可靠性問題。深度神經網路中既定的漏洞，加上新興的威脅模型，可能會損害安全性評估並造成虛假的安全感。鑑於 LLM 安全領域的廣泛研究，我們相信總結當前狀態將有助於研究社群更深入了解目前的現況，並為未來的發展提供資訊。本文回顧了 LLM 漏洞和威脅的現有研究，並評估了當代防禦機制的有效性。我們分析了近期針對攻擊媒介和模型弱點的研究，深入探討了攻擊機制和不斷演變的威脅現況。我們也檢視了目前的防禦策略，強調其優點和限制。透過對比攻擊和防禦方法的進展，我們找出研究差距並提出未來的方向，以提升 LLM 的安全性。我們的目標是增進對 LLM 安全挑戰的理解，並引導更強大的安全措施的發展。
+摘要：大型語言模型 (LLM) 已透過其先進的文字處理和生成能力，徹底改變了人工智慧和機器學習。然而，其廣泛部署引發了重大的安全性和可靠性疑慮。深度神經網路中的既有漏洞，加上新興的威脅模型，可能會危害安全性評估，並造成虛假的安全感。鑑於 LLM 安全領域廣泛的研究，我們相信總結目前狀況將有助於研究社群更了解當前現況，並為未來的發展提供資訊。本文回顧了 LLM 漏洞和威脅的現有研究，並評估了當代防禦機制的有效性。我們分析了近期關於攻擊媒介和模型弱點的研究，深入了解攻擊機制和不斷變化的威脅現況。我們也檢視了目前的防禦策略，強調其優點和限制。透過對比攻擊和防禦方法的進展，我們找出研究差距，並提出未來的方向，以增強 LLM 的安全性。我們的目標是加深對 LLM 安全挑戰的了解，並引導更強大的安全措施的開發。
 
 ##### **Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation**
 2409.03271v1 by Yu Wang, Shiwan Zhao, Zhihu Wang, Heyuan Huang, Ming Fan, Yubo Zhang, Zhixing Wang, Haijun Wang, Ting Liu
@@ -2073,7 +2073,7 @@ endeavors.
 摘要：本研究利用先進的自然語言處理技術，對加密貨幣相關討論中的預測性陳述、希望言論和遺憾檢測行為進行分析。我們引入一個名為「預測性陳述」的新分類方案，將評論分類為預測性遞增、預測性遞減、預測性中立或非預測性類別。採用 GPT-4o，一種尖端的巨量語言模型，我們探討了五種主要加密貨幣（Cardano、Binance、Matic、Fantom 和 Ripple）的情緒動態。我們的分析揭示了預測性情緒的不同模式，Matic 表現出明顯更高的樂觀預測傾向。此外，我們研究了希望和遺憾情緒，揭示了這些情緒與預測行為之間細微的相互作用。儘管遇到了與數據量和資源可用性相關的限制，但我們的研究報告了有關投資者行為和加密貨幣市場情緒趨勢的寶貴發現，為戰略決策制定和未來的研究工作提供信息。
 
 ##### **CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**
-2409.02834v1 by Wentao Liu, Qianjun Pan, Yi Zhang, Zhuo Liu, Ji Wu, Jie Zhou, Aimin Zhou, Qin Chen, Bo Jiang, Liang He
+2409.02834v2 by Wentao Liu, Qianjun Pan, Yi Zhang, Zhuo Liu, Ji Wu, Jie Zhou, Aimin Zhou, Qin Chen, Bo Jiang, Liang He
 
 Large language models (LLMs) have obtained promising results in mathematical
 reasoning, which is a foundational skill for human intelligence. Most previous
@@ -2098,7 +2098,7 @@ experiments indicate that our model effectively improves math reasoning
 performance by comparing it with the SOTA LMMs over three multimodal
 mathematical datasets.
 
-摘要：<paragraph>大型語言模型 (LLM) 在數學推理方面取得了可觀的成果，而數學推理是人類智慧的一項基礎技能。大多數先前的研究專注於改進和衡量 LLM 在基於文字數學推理資料集（例如 MATH、GSM8K）上的效能。最近，一些研究人員發布了英文多模態數學資料集（例如 MATHVISTA 和 MATH-V），以評估大型多模態模型 (LMM) 的效能。在本文中，我們發布了一個中文多模態數學 (CMM-Math) 資料集，其中包含基準和訓練部分，以評估和增強 LMM 的數學推理能力。CMM-Math 包含超過 28,000 個高品質樣本，具有多種問題類型（例如多選題、填空題等），並提供從中國小學到高中的 12 個年級的詳細解答。具體來說，視覺脈絡可能存在於問題或意見中，這使得這個資料集更具挑戰性。透過全面的分析，我們發現 CMM-Math 資料集上的最先進 LMM 面臨挑戰，強調進一步改進 LMM 開發的必要性。我們還提出了一個多模態數學 LMM (Math-LMM) 來處理多個影像和文字區段混合輸入的問題。我們使用三個階段訓練我們的模型，包括基礎預訓練、基礎微調和數學微調。廣泛的實驗表明，我們的模型透過與三個多模態數學資料集上的 SOTA LMM 進行比較，有效地改進了數學推理效能。</paragraph>
+摘要：<paragraph>大型語言模型 (LLM) 在數學推理方面取得了可喜的成果，而數學推理是人類智能的一項基礎技能。大多數先前的研究都專注於改進和評量 LLM 在基於文字數學推理資料集 (例如 MATH、GSM8K) 上的表現。最近，一些研究人員發布了英文多模態數學資料集 (例如 MATHVISTA 和 MATH-V) 來評估大型多模態模型 (LMM) 的效能。在本文中，我們發布了一個中文多模態數學 (CMM-Math) 資料集，包括基準和訓練部分，用於評估和增強 LMM 的數學推理能力。CMM-Math 包含超過 28,000 個高品質範例，具備各種問題類型 (例如多重選擇、填空等)，並提供從中國小學到高中的 12 個年級的詳細解答。具體來說，視覺脈絡可能出現在問題或意見中，這使得這個資料集更具挑戰性。透過全面的分析，我們發現 CMM-Math 資料集上的最新 LMM 面臨挑戰，強調進一步改進 LMM 開發的必要性。我們還提出了一個多模態數學 LMM (Math-LMM) 來處理多個影像和文字片段混合輸入的問題。我們使用三個階段來訓練我們的模型，包括基礎預訓練、基礎微調和數學微調。廣泛的實驗表明，我們的模型透過與三個多模態數學資料集上的 SOTA LMM 比較，有效地改進了數學推理表現。</paragraph>
 
 ##### **Large Language Model-Based Agents for Software Engineering: A Survey**
 2409.02977v1 by Junwei Liu, Kaixin Wang, Yixuan Chen, Xin Peng, Zhenpeng Chen, Lingming Zhang, Yiling Lou
@@ -2164,7 +2164,7 @@ method have been demonstrated through a series of numerical experiments.
 摘要：在這項工作中，我們提出了一種混合數值方法，用於通過將時有限元方法與深度神經網路合併來求解演化偏微分方程式 (PDE)。與傳統的深度學習公式不同，其中神經網路定義在時空域上，我們的技術在時間方向上利用有限元基底函數，其中與空間相關的係數定義為神經網路的輸出。然後我們在時間方向上應用 Galerkin 或搭配投影，以獲得時空相關係數的 PDE 系統，該系統在 PINN 框架中得到近似。這種混合公式的優點有兩個：避免了時間方向積分的統計誤差，並且可以將神經網路的輸出視為一組約化的空間基底函數。為了進一步緩解高維度和低規則性的困難，我們開發了一種自適應抽樣策略，用於修正訓練集。更具體地說，我們使用一個明確的密度模型來近似由 PDE residual 誘導的分配，然後使用學習到的密度模型提供的新的時間相關隨機樣本來擴充訓練集。我們提出的方法的有效性和效率已通過一系列數值實驗得到證明。
 
 ##### **Towards a Unified View of Preference Learning for Large Language Models: A Survey**
-2409.02795v1 by Bofei Gao, Feifan Song, Yibo Miao, Zefan Cai, Zhe Yang, Liang Chen, Helan Hu, Runxin Xu, Qingxiu Dong, Ce Zheng, Wen Xiao, Ge Zhang, Daoguang Zan, Keming Lu, Bowen Yu, Dayiheng Liu, Zeyu Cui, Jian Yang, Lei Sha, Houfeng Wang, Zhifang Sui, Peiyi Wang, Tianyu Liu, Baobao Chang
+2409.02795v2 by Bofei Gao, Feifan Song, Yibo Miao, Zefan Cai, Zhe Yang, Liang Chen, Helan Hu, Runxin Xu, Qingxiu Dong, Ce Zheng, Wen Xiao, Ge Zhang, Daoguang Zan, Keming Lu, Bowen Yu, Dayiheng Liu, Zeyu Cui, Jian Yang, Lei Sha, Houfeng Wang, Zhifang Sui, Peiyi Wang, Tianyu Liu, Baobao Chang
 
 Large Language Models (LLMs) exhibit remarkably powerful capabilities. One of
 the crucial factors to achieve success is aligning the LLM's output with human
@@ -2185,7 +2185,7 @@ comprehensive understanding for the readers. Finally, based on our unified
 perspective, we explore the challenges and future research directions for
 aligning large language models with human preferences.
 
-摘要：大型語言模型 (LLM) 展現了強大的功能。其中一個成功的關鍵因素是將 LLM 的輸出與人類偏好保持一致。此調整過程通常只需要少量資料就能有效提升 LLM 的效能。雖然有效，但這方面的研究橫跨多個領域，且所涉及的方法相對複雜難懂。不同方法之間的關係尚未充分探討，這限制了偏好調整的發展。有鑑於此，我們將現有的熱門調整策略分解成不同的組成部分，並提供一個統一的架構來研究目前的調整策略，從而建立它們之間的聯繫。在此調查中，我們將偏好學習中的所有策略分解成四個組成部分：模型、資料、回饋和演算法。此統一觀點提供了對現有調整演算法的深入了解，也開啟了協調不同策略優勢的可能性。此外，我們提供了現有盛行演算法的詳細工作範例，以促進讀者全面了解。最後，根據我們的統一觀點，我們探討了與人類偏好調整大型語言模型的挑戰和未來的研究方向。
+摘要：大型語言模型 (LLM) 展現出強大的功能。成功的重要因素之一是將 LLM 的輸出與人類偏好相符。此比對程序通常只需要少量資料即可有效提升 LLM 的效能。儘管有效，此領域的研究橫跨多個範疇，而所涉及的方法相對難以理解。不同方法之間的關係尚未充分探討，這限制了偏好比對的發展。有鑑於此，我們將現有熱門比對策略分解成不同的組成部分，並提供一個統一架構來研究目前的比對策略，進而建立它們之間的關聯。在此調查中，我們將偏好學習中的所有策略分解成四個組成部分：模型、資料、回饋和演算法。此統一觀點提供對現有比對演算法的深入理解，也開啟了協同運用不同策略優勢的可能性。此外，我們提供現有盛行演算法的詳細工作範例，以促進讀者全面理解。最後，根據我們的統一觀點，我們探討了將大型語言模型與人類偏好相符的挑戰和未來研究方向。
 
 ##### **An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting**
 2409.02760v1 by Zhuolin Li, Zhen Zhang, Witold Pedrycz

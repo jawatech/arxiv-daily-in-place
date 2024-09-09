@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368v1](http://arxiv.org/abs/2409.04368v1)|null|
+|**2024-09-06**|**CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**|William Knottenbelt et.al.|[2409.04290v1](http://arxiv.org/abs/2409.04290v1)|[link](https://github.com/knottwill/CoxKAN)|
+|**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224v1](http://arxiv.org/abs/2409.04224v1)|null|
+|**2024-09-06**|**FODA-PG for Enhanced Medical Imaging Narrative Generation: Adaptive Differentiation of Normal and Abnormal Attributes**|Kai Shu et.al.|[2409.03947v1](http://arxiv.org/abs/2409.03947v1)|null|
+|**2024-09-05**|**A deep learning approach to wall-shear stress quantification: From numerical training to zero-shot experimental application**|Esther Lagemann et.al.|[2409.03933v1](http://arxiv.org/abs/2409.03933v1)|null|
 |**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597v1](http://arxiv.org/abs/2409.03597v1)|null|
 |**2024-09-05**|**Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation**|Prerak Mody et.al.|[2409.03470v1](http://arxiv.org/abs/2409.03470v1)|[link](https://github.com/prerakmody/bayesuncertainty-error-correspondence)|
 |**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375v1](http://arxiv.org/abs/2409.03375v1)|null|
@@ -97,13 +102,143 @@
 |**2024-08-21**|**BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation**|Haotian Peng et.al.|[2408.11281v1](http://arxiv.org/abs/2408.11281v1)|[link](https://github.com/hatton613/bearllm)|
 |**2024-08-20**|**From Glucose Patterns to Health Outcomes: A Generalizable Foundation Model for Continuous Glucose Monitor Data Analysis**|Guy Lutsker et.al.|[2408.11876v1](http://arxiv.org/abs/2408.11876v1)|null|
 |**2024-08-20**|**Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**|Yihao Hou et.al.|[2408.10715v1](http://arxiv.org/abs/2408.10715v1)|null|
-|**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532v1](http://arxiv.org/abs/2408.10532v1)|null|
-|**2024-08-19**|**Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**|Elaine Kong et.al.|[2408.10108v1](http://arxiv.org/abs/2408.10108v1)|null|
-|**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075v1](http://arxiv.org/abs/2408.10075v1)|null|
-|**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039v2](http://arxiv.org/abs/2408.10039v2)|null|
-|**2024-08-19**|**LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**|Weiji Kong et.al.|[2408.09899v1](http://arxiv.org/abs/2408.09899v1)|null|
 
 #### Abstracts
+##### **The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**
+2409.04368v1 by Gregory Szumel, Brian Guo, Darui Lu, Rongze Gui, Tingyu Wang, Nicholas Konz, Maciej A. Mazurowski
+
+Purpose: Medical images acquired using different scanners and protocols can
+differ substantially in their appearance. This phenomenon, scanner domain
+shift, can result in a drop in the performance of deep neural networks which
+are trained on data acquired by one scanner and tested on another. This
+significant practical issue is well-acknowledged, however, no systematic study
+of the issue is available across different modalities and diagnostic tasks.
+Materials and Methods: In this paper, we present a broad experimental study
+evaluating the impact of scanner domain shift on convolutional neural network
+performance for different automated diagnostic tasks. We evaluate this
+phenomenon in common radiological modalities, including X-ray, CT, and MRI.
+Results: We find that network performance on data from a different scanner is
+almost always worse than on same-scanner data, and we quantify the degree of
+performance drop across different datasets. Notably, we find that this drop is
+most severe for MRI, moderate for X-ray, and quite small for CT, on average,
+which we attribute to the standardized nature of CT acquisition systems which
+is not present in MRI or X-ray. We also study how injecting varying amounts of
+target domain data into the training set, as well as adding noise to the
+training data, helps with generalization. Conclusion: Our results provide
+extensive experimental evidence and quantification of the extent of performance
+drop caused by scanner domain shift in deep learning across different
+modalities, with the goal of guiding the future development of robust deep
+learning models for medical image analysis.
+
+摘要：<paragraph>目的：使用不同掃描儀和協定取得的醫學影像，在影像外觀上可能會有顯著差異。這種現象稱為掃描儀領域偏移，可能會導致深度神經網路的效能下降，而這些網路是針對由一種掃描儀取得的資料進行訓練，並在另一種掃描儀上進行測試。這個重要的實際問題已獲得廣泛認可，但目前尚未針對不同形式和診斷任務進行系統性研究。材料和方法：在本文中，我們提出了一項廣泛的實驗研究，評估掃描儀領域偏移對不同自動化診斷任務的卷積神經網路效能的影響。我們在常見的放射學形式中評估這種現象，包括 X 光、電腦斷層掃描和磁振造影。結果：我們發現，來自不同掃描儀的資料在網路上的效能幾乎總是比來自相同掃描儀的資料差，我們量化了不同資料集效能下降的程度。值得注意的是，我們發現這種下降在磁振造影中最为嚴重，在 X 光中為中等，在電腦斷層掃描中相當小，平均而言，我們將其歸因於電腦斷層掃描取得系統的標準化性質，而磁振造影或 X 光中不存在這種性質。我們還研究了將不同數量的目標領域資料注入訓練集，以及向訓練資料加入雜訊，如何有助於泛化。結論：我們的結果提供了廣泛的實驗證據，並量化了深度學習中由掃描儀領域偏移造成的效能下降程度，目標是引導未來針對醫學影像分析的強健深度學習模型的發展。</paragraph>
+
+##### **CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**
+2409.04290v1 by William Knottenbelt, Zeyu Gao, Rebecca Wray, Woody Zhidong Zhang, Jiashuai Liu, Mireia Crispin-Ortuzar
+
+Survival analysis is a branch of statistics used for modeling the time until
+a specific event occurs and is widely used in medicine, engineering, finance,
+and many other fields. When choosing survival models, there is typically a
+trade-off between performance and interpretability, where the highest
+performance is achieved by black-box models based on deep learning. This is a
+major problem in fields such as medicine where practitioners are reluctant to
+blindly trust black-box models to make important patient decisions.
+Kolmogorov-Arnold Networks (KANs) were recently proposed as an interpretable
+and accurate alternative to multi-layer perceptrons (MLPs). We introduce
+CoxKAN, a Cox proportional hazards Kolmogorov-Arnold Network for interpretable,
+high-performance survival analysis. We evaluate the proposed CoxKAN on 4
+synthetic datasets and 9 real medical datasets. The synthetic experiments
+demonstrate that CoxKAN accurately recovers interpretable symbolic formulae for
+the hazard function, and effectively performs automatic feature selection.
+Evaluation on the 9 real datasets show that CoxKAN consistently outperforms the
+Cox proportional hazards model and achieves performance that is superior or
+comparable to that of tuned MLPs. Furthermore, we find that CoxKAN identifies
+complex interactions between predictor variables that would be extremely
+difficult to recognise using existing survival methods, and automatically finds
+symbolic formulae which uncover the precise effect of important biomarkers on
+patient risk.
+
+摘要：生存分析是統計學的一個分支，用於建模特定事件發生的時間，並廣泛用於醫學、工程、金融和許多其他領域。在選擇生存模型時，通常在性能和可解釋性之間進行權衡，其中最高性能是由基於深度學習的黑盒模型實現的。這在醫學等領域是一個主要問題，因為從業者不願意盲目信任黑盒模型來做出重要的患者決策。Kolmogorov-阿諾德網絡 (KAN) 最近被提議作為多層感知器 (MLP) 的可解釋且準確的替代方案。我們引入了 CoxKAN，這是一個用於可解釋、高性能生存分析的 Cox 比例風險 Kolmogorov-Arnold 網絡。我們在 4 個合成數據集和 9 個真實醫療數據集上評估了所提出的 CoxKAN。合成實驗表明，CoxKAN 準確地恢復了風險函數的可解釋符號公式，並有效地執行自動特徵選擇。對 9 個真實數據集的評估表明，CoxKAN 始終優於 Cox 比例風險模型，並且達到了優於或與調整後的 MLP 相當的性能。此外，我們發現 CoxKAN 識別了預測變量之間的複雜交互作用，這些交互作用使用現有的生存方法極難識別，並自動找到揭示重要生物標誌物對患者風險的準確影響的符號公式。
+
+##### **Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**
+2409.04224v1 by Daniel J. Tan, Qianyi Xu, Kay Choong See, Dilruk Perera, Mengling Feng
+
+Multi-organ diseases present significant challenges due to their simultaneous
+impact on multiple organ systems, necessitating complex and adaptive treatment
+strategies. Despite recent advancements in AI-powered healthcare decision
+support systems, existing solutions are limited to individual organ systems.
+They often ignore the intricate dependencies between organ system and thereby
+fails to provide holistic treatment recommendations that are useful in
+practice. We propose a novel hierarchical multi-agent reinforcement learning
+(HMARL) framework to address these challenges. This framework uses dedicated
+agents for each organ system, and model dynamic through explicit inter-agent
+communication channels, enabling coordinated treatment strategies across
+organs. Furthermore, we introduce a dual-layer state representation technique
+to contextualize patient conditions at various hierarchical levels, enhancing
+the treatment accuracy and relevance. Through extensive qualitative and
+quantitative evaluations in managing sepsis (a complex multi-organ disease),
+our approach demonstrates its ability to learn effective treatment policies
+that significantly improve patient survival rates. This framework marks a
+substantial advancement in clinical decision support systems, pioneering a
+comprehensive approach for multi-organ treatment recommendations.
+
+摘要：多器官疾病由於同時影響多個器官系統，因此會帶來重大的挑戰，需要複雜且具有適應性的治療策略。儘管 AI 驅動的醫療保健決策支援系統最近有進展，但現有解決方案僅限於個別器官系統。它們常常忽略器官系統之間的複雜依賴性，因此無法提供實務上有用的整體治療建議。我們提出一個新穎的分層多智能體強化學習 (HMARL) 架構來解決這些挑戰。此架構為每個器官系統使用專用智能體，並透過明確的智能體間通訊管道建模動態，讓不同器官之間的治療策略能夠協調。此外，我們引入雙層狀態表示技術，在各種層級語境化病患狀況，以提升治療準確性和相關性。透過在敗血症（一種複雜的多器官疾病）管理中進行廣泛的定性和定量評估，我們的做法展示了它學習有效治療政策的能力，可顯著改善病患存活率。此架構標誌著臨床決策支援系統的一大進步，開創了多器官治療建議的全面性方法。
+
+##### **FODA-PG for Enhanced Medical Imaging Narrative Generation: Adaptive Differentiation of Normal and Abnormal Attributes**
+2409.03947v1 by Kai Shu, Yuzhuo Jia, Ziyang Zhang, Jiechao Gao
+
+Automatic Medical Imaging Narrative generation aims to alleviate the workload
+of radiologists by producing accurate clinical descriptions directly from
+radiological images. However, the subtle visual nuances and domain-specific
+terminology in medical images pose significant challenges compared to generic
+image captioning tasks. Existing approaches often neglect the vital distinction
+between normal and abnormal findings, leading to suboptimal performance. In
+this work, we propose FODA-PG, a novel Fine-grained Organ-Disease Adaptive
+Partitioning Graph framework that addresses these limitations through
+domain-adaptive learning. FODA-PG constructs a granular graphical
+representation of radiological findings by separating disease-related
+attributes into distinct "disease-specific" and "disease-free" categories based
+on their clinical significance and location. This adaptive partitioning enables
+our model to capture the nuanced differences between normal and pathological
+states, mitigating the impact of data biases. By integrating this fine-grained
+semantic knowledge into a powerful transformer-based architecture and providing
+rigorous mathematical justifications for its effectiveness, FODA-PG generates
+precise and clinically coherent reports with enhanced generalization
+capabilities. Extensive experiments on the IU-Xray and MIMIC-CXR benchmarks
+demonstrate the superiority of our approach over state-of-the-art methods,
+highlighting the importance of domain adaptation in medical report generation.
+
+摘要：自動醫學影像敘述生成旨在透過直接從放射影像產生精確的臨床描述，減輕放射科醫師的工作負擔。然而，與一般影像標題任務相比，醫學影像中的細微視覺差異和特定領域術語會帶來重大挑戰。現有方法常常忽略正常與異常發現之間的重要區別，導致次佳效能。在這項工作中，我們提出 FODA-PG，這是一個新穎的細粒度器官疾病自適應分割圖形架構，透過領域自適應學習來解決這些限制。FODA-PG 透過將疾病相關屬性依據其臨床重要性和位置分為不同的「特定疾病」和「無疾病」類別，來建構放射學發現的細粒度圖形表示。這種自適應分割使我們的模型能夠捕捉正常與病理狀態之間的細微差異，減輕資料偏差的影響。透過將這種細粒度語義知識整合到強大的基於轉換器的架構中，並提供其有效性的嚴謹數學證明，FODA-PG 能夠生成精確且臨床上連貫的報告，並具備增強的概括能力。在 IU-Xray 和 MIMIC-CXR 基準上的廣泛實驗證明了我們的方法優於最先進的方法，突顯了領域適應在醫學報告生成中的重要性。
+
+##### **A deep learning approach to wall-shear stress quantification: From numerical training to zero-shot experimental application**
+2409.03933v1 by Esther Lagemann, Julia Roeb, Steven L. Brunton, Christian Lagemann
+
+The accurate quantification of wall-shear stress dynamics is of substantial
+importance for various applications in fundamental and applied research,
+spanning areas from human health to aircraft design and optimization. Despite
+significant progress in experimental measurement techniques and post-processing
+algorithms, temporally resolved wall-shear stress dynamics with adequate
+spatial resolution and within a suitable spatial domain remain an elusive goal.
+To address this gap, we introduce a deep learning architecture that ingests
+wall-parallel velocity fields from the logarithmic layer of turbulent
+wall-bounded flows and outputs the corresponding 2D wall-shear stress fields
+with identical spatial resolution and domain size. From a physical perspective,
+our framework acts as a surrogate model encapsulating the various mechanisms
+through which highly energetic outer-layer flow structures influence the
+governing wall-shear stress dynamics. The network is trained in a supervised
+fashion on a unified dataset comprising direct numerical simulations of
+statistically 1D turbulent channel and spatially developing turbulent boundary
+layer flows at friction Reynolds numbers ranging from 390 to 1,500. We
+demonstrate a zero-shot applicability to experimental velocity fields obtained
+from Particle-Image Velocimetry measurements and verify the physical accuracy
+of the wall-shear stress estimates with synchronized wall-shear stress
+measurements using the Micro-Pillar Shear-Stress Sensor for Reynolds numbers up
+to 2,000. In summary, the presented framework lays the groundwork for
+extracting inaccessible experimental wall-shear stress information from readily
+available velocity measurements and thus, facilitates advancements in a variety
+of experimental applications.
+
+摘要：<paragraph>準確量化壁面剪應力動態對於基礎和應用研究中的各種應用具有實質性的重要性，涵蓋從人類健康到飛機設計和優化的領域。儘管在實驗測量技術和後處理演算法方面取得了顯著進展，但時間解析壁面剪應力動態仍具有足夠的空間解析度和在合適的空間域中仍然是一個難以捉摸的目標。為了解決這個差距，我們引入了一個深度學習架構，它從湍流壁面約束流的對數層中攝取壁面平行速度場，並輸出相應的 2D 壁面剪應力場，具有相同的空間解析度和域大小。從物理角度來看，我們的框架充當一個代理模型，概括了高能量外層流結構影響控制壁面剪應力動態的各種機制。該網路以監督方式在一個統一的數據集上進行訓練，該數據集包含統計 1D 湍流通道的直接數值模擬和空間發展的湍流邊界層流，摩擦雷諾數範圍從 390 到 1,500。我們展示了對從粒子影像測速測量中獲得的實驗速度場的零次應用，並使用微柱剪應力感測器對雷諾數最高 2,000 的同步壁面剪應力測量驗證了壁面剪應力估計的物理準確性。總之，所提出的框架為從容易獲得的速度測量中提取無法獲得的實驗壁面剪應力資訊奠定了基礎，從而促進了各種實驗應用中的進展。</paragraph>
+
 ##### **Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**
 2409.03597v1 by Yucong Zhang, Xin Zou, Jinshan Yang, Wenjun Chen, Faya Liang, Ming Li
 
@@ -2518,120 +2653,4 @@ benefit was rated highly by the clinical experts (average score of 3.44 on a
 LLM-based physician letter generation has significant practical value.
 
 摘要：<paragraph>在日常臨床實務中，生成醫師信函是一項耗時的任務。本研究探討大型語言模型 (LLM) 的局部微調，特別是 LLaMA 模型，在放射腫瘤學領域中以隱私保護的方式生成醫師信函。我們的研究結果表明，基礎 LLaMA 模型在沒有微調的情況下，不足以有效生成醫師信函。QLoRA 演算法提供了一種有效的方法，可以在有限的運算資源（即醫院內單一 48 GB GPU 工作站）下，進行 LLM 的局部院內微調。微調後的 LLM 成功學習了放射腫瘤學的特定資訊，並以特定於機構的風格生成醫師信函。生成的摘要報告的 ROUGE 分數突顯了 8B LLaMA-3 模型優於 13B LLaMA-2 模型。進一步的多維醫師評估顯示，儘管微調後的 LLaMA-3 模型生成超出提供輸入資料的內容的能力有限，但它成功地生成了問候語、診斷和治療病史、進一步治療建議和計畫行程。整體而言，臨床專家對臨床效益的評分很高（在 4 分制中平均得分為 3.44）。透過仔細的醫師審查和更正，基於 LLM 的自動化醫師信函生成具有顯著的實用價值。</paragraph>
-
-##### **NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**
-2408.10532v1 by Michelle Han, Junyao Chen
-
-With diet and nutrition apps reaching 1.4 billion users in 2022 [1], it's no
-surprise that health apps like MyFitnessPal, Noom, and Calorie Counter, are
-surging in popularity. However, one major setback [2] of nearly all nutrition
-applications is that users must enter food data manually, which is
-time-consuming and tedious. Thus, there has been an increasing demand for
-applications that can accurately identify food items, analyze their nutritional
-content, and offer dietary recommendations in real-time. This paper introduces
-a comprehensive system that combines advanced computer vision techniques with
-nutrition analysis, implemented in a versatile mobile and web application. The
-system is divided into three key components: 1) food detection using the YOLOv8
-model, 2) nutrient analysis via the Edamam Nutrition Analysis API, and 3)
-personalized meal recommendations using the Edamam Meal Planning and Recipe
-Search APIs. Designed for both mobile and web platforms, the application
-ensures fast processing times with an intuitive user interface, with features
-such as data visualizations using Chart.js, a login system, and personalized
-settings for dietary preferences, allergies, and cuisine choices. Preliminary
-results showcase the system's effectiveness, making it a valuable tool for
-users to make informed dietary decisions.
-
-摘要：隨著飲食和營養應用程式在 2022 年達到 14 億使用者 [1]，MyFitnessPal、Noom 和 Calorie Counter 等健康應用程式大幅竄紅也就不足為奇了。然而，幾乎所有營養應用程式的一個主要缺點 [2] 是使用者必須手動輸入食物資料，這既耗時又乏味。因此，對於能夠準確辨識食物品項、分析其營養成分，並即時提供飲食建議的應用程式需求日益增加。本文介紹了一個全面的系統，結合了先進的電腦視覺技術與營養分析，並實作於一個多功能的手機和網路應用程式中。這個系統分為三個關鍵組成部分：1) 使用 YOLOv8 模型進行食物偵測，2) 透過 Edamam 營養分析 API 進行營養分析，以及 3) 使用 Edamam 餐點規劃和食譜搜尋 API 提供個人化餐點建議。此應用程式專為手機和網路平台設計，具備直覺的使用者介面，並提供快速處理時間，其功能包括使用 Chart.js 的資料視覺化、登入系統，以及針對飲食偏好、過敏原和料理選擇的個人化設定。初步結果證明了此系統的有效性，使其成為使用者做出明智飲食決策的寶貴工具。
-
-##### **Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**
-2408.10108v1 by Elaine Kong, Kuo-Ting, Huang, Aakash Gautam
-
-The use of Artificial Intelligence (AI) in healthcare, including in caring
-for cancer survivors, has gained significant interest. However, gaps remain in
-our understanding of how such AI systems can provide care, especially for
-ethnic and racial minority groups who continue to face care disparities.
-Through interviews with six cancer survivors, we identify critical gaps in
-current healthcare systems such as a lack of personalized care and insufficient
-cultural and linguistic accommodation. AI, when applied to care, was seen as a
-way to address these issues by enabling real-time, culturally aligned, and
-linguistically appropriate interactions. We also uncovered concerns about the
-implications of AI-driven personalization, such as data privacy, loss of human
-touch in caregiving, and the risk of echo chambers that limit exposure to
-diverse information. We conclude by discussing the trade-offs between
-AI-enhanced personalization and the need for structural changes in healthcare
-that go beyond technological solutions, leading us to argue that we should
-begin by asking, ``Why personalization?''
-
-摘要：在醫療保健中使用人工智慧 (AI)，包括照護癌症倖存者，已經獲得顯著的關注。然而，我們對於此類 AI 系統如何提供照護，特別是針對持續面臨照護差異的種族和少數族裔群體，仍有理解上的差距。透過與六位癌症倖存者的訪談，我們找出當前醫療保健系統中的重大差距，例如缺乏個人化照護，以及文化和語言適應不足。當 AI 應用於照護時，被視為解決這些問題的方法，它能促成即時、符合文化且在語言上適當的互動。我們也發現對 AI 驅動的個人化照護所帶來的影響感到擔憂，例如資料隱私、照護中失去人際接觸，以及限制接觸多元資訊的同溫層風險。我們最後討論了 AI 增強的個人化照護與醫療保健中結構性變革之間的取捨，而這超越了技術解決方案，這讓我們主張我們應該從詢問「為什麼需要個人化照護？」開始。
-
-##### **Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**
-2408.10075v1 by Sriyash Poddar, Yanming Wan, Hamish Ivison, Abhishek Gupta, Natasha Jaques
-
-Reinforcement Learning from Human Feedback (RLHF) is a powerful paradigm for
-aligning foundation models to human values and preferences. However, current
-RLHF techniques cannot account for the naturally occurring differences in
-individual human preferences across a diverse population. When these
-differences arise, traditional RLHF frameworks simply average over them,
-leading to inaccurate rewards and poor performance for individual subgroups. To
-address the need for pluralistic alignment, we develop a class of multimodal
-RLHF methods. Our proposed techniques are based on a latent variable
-formulation - inferring a novel user-specific latent and learning reward models
-and policies conditioned on this latent without additional user-specific data.
-While conceptually simple, we show that in practice, this reward modeling
-requires careful algorithmic considerations around model architecture and
-reward scaling. To empirically validate our proposed technique, we first show
-that it can provide a way to combat underspecification in simulated control
-problems, inferring and optimizing user-specific reward functions. Next, we
-conduct experiments on pluralistic language datasets representing diverse user
-preferences and demonstrate improved reward function accuracy. We additionally
-show the benefits of this probabilistic framework in terms of measuring
-uncertainty, and actively learning user preferences. This work enables learning
-from diverse populations of users with divergent preferences, an important
-challenge that naturally occurs in problems from robot learning to foundation
-model alignment.
-
-摘要：人類回饋強化學習 (RLHF) 是一個強大的範例，可以將基礎模型與人類價值觀和偏好保持一致。然而，目前的 RLHF 技術無法說明不同族群中個別人類偏好的自然發生差異。當這些差異出現時，傳統的 RLHF 架構只會對它們進行平均，導致不準確的獎勵和個別子群的表現不佳。為了滿足多元化對齊的需求，我們開發了一類多模態 RLHF 方法。我們提出的技術基於潛在變數公式，推論出新的使用者特定潛在變數，並學習在沒有額外使用者特定資料的情況下，以此潛在變數為條件的獎勵模型和政策。雖然在概念上很簡單，但我們表明在實務上，這種獎勵建模需要仔細考量模型架構和獎勵縮放的演算法考量。為了實證驗證我們提出的技術，我們首先表明它可以提供一種方法來對抗模擬控制問題中的規格不足，推論和最佳化使用者特定的獎勵函數。接下來，我們對代表不同使用者偏好的多元語言資料集進行實驗，並展示改進的獎勵函數準確度。我們另外說明這種機率架構在衡量不確定性和主動學習使用者偏好方面的優點。這項工作能夠從具有不同偏好的不同使用者群體中學習，這是一個在機器人學習到基礎模型對齊問題中自然發生的重要挑戰。
-
-##### **MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**
-2408.10039v2 by Ruihui Hou, Shencheng Chen, Yongqi Fan, Lifeng Zhu, Jing Sun, Jingping Liu, Tong Ruan
-
-Clinical diagnosis is critical in medical practice, typically requiring a
-continuous and evolving process that includes primary diagnosis, differential
-diagnosis, and final diagnosis. However, most existing clinical diagnostic
-tasks are single-step processes, which does not align with the complex
-multi-step diagnostic procedures found in real-world clinical settings. In this
-paper, we propose a multi-step diagnostic task and annotate a clinical
-diagnostic dataset (MSDiagnosis). This dataset includes primary diagnosis,
-differential diagnosis, and final diagnosis questions. Additionally, we propose
-a novel and effective framework. This framework combines forward inference,
-backward inference, reflection, and refinement, enabling the LLM to
-self-evaluate and adjust its diagnostic results. To assess the effectiveness of
-our proposed method, we design and conduct extensive experiments. The
-experimental results demonstrate the effectiveness of the proposed method. We
-also provide a comprehensive experimental analysis and suggest future research
-directions for this task.
-
-摘要：臨床診斷在醫療實務中至關重要，通常需要一個包含初步診斷、鑑別診斷和最終診斷的持續且不斷演進的過程。然而，現有的臨床診斷任務大多是單步驟的過程，這與現實世界臨床環境中發現的複雜多步驟診斷程序並不相符。在本文中，我們提出了一個多步驟的診斷任務，並註解了一個臨床診斷資料集 (MSDiagnosis)。此資料集包含初步診斷、鑑別診斷和最終診斷問題。此外，我們提出了一個新穎且有效的架構。此架構結合了前向推理、後向推理、反思和改進，使 LLM 能夠自我評估並調整其診斷結果。為了評估我們所提出的方法的有效性，我們設計並進行了廣泛的實驗。實驗結果證明了所提出方法的有效性。我們還提供了全面的實驗分析，並提出了此任務的未來研究方向。
-
-##### **LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**
-2408.09899v1 by Weiji Kong, Xun Gong, Juan Wang
-
-Explaining the decisions of Deep Neural Networks (DNNs) for medical images
-has become increasingly important. Existing attribution methods have difficulty
-explaining the meaning of pixels while existing concept-based methods are
-limited by additional annotations or specific model structures that are
-difficult to apply to ultrasound images. In this paper, we propose the Lesion
-Concept Explainer (LCE) framework, which combines attribution methods with
-concept-based methods. We introduce the Segment Anything Model (SAM),
-fine-tuned on a large number of medical images, for concept discovery to enable
-a meaningful explanation of ultrasound image DNNs. The proposed framework is
-evaluated in terms of both faithfulness and understandability. We point out
-deficiencies in the popular faithfulness evaluation metrics and propose a new
-evaluation metric. Our evaluation of public and private breast ultrasound
-datasets (BUSI and FG-US-B) shows that LCE performs well compared to
-commonly-used explainability methods. Finally, we also validate that LCE can
-consistently provide reliable explanations for more meaningful fine-grained
-diagnostic tasks in breast ultrasound.
-
-摘要：解釋深度神經網路 (DNN) 在醫學影像中的決策已變得越來越重要。現有的歸因方法難以解釋畫素的意義，而現有的基於概念的方法則受到額外註解或難以應用於超音波影像的特定模型結構限制。在本文中，我們提出病灶概念解釋器 (LCE) 架構，它結合了歸因方法與基於概念的方法。我們引入了在大量醫學影像上微調的「任何區段模型」(SAM)，用於概念發現，以實現超音波影像 DNN 的有意義解釋。所提出的架構在忠實度和可理解性方面都經過評估。我們指出了流行的忠實度評估指標中的缺陷，並提出了一個新的評估指標。我們對公共和私人乳房超音波資料集 (BUSI 和 FG-US-B) 的評估顯示，與常用的可解釋性方法相比，LCE 的表現良好。最後，我們還驗證了 LCE 能持續提供乳房超音波中更有意義的細粒度診斷任務的可靠解釋。
 

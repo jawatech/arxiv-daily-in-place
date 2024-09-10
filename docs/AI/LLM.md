@@ -76,7 +76,7 @@
 |**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671v1](http://arxiv.org/abs/2409.03671v1)|null|
 |**2024-09-05**|**A method to benchmark high-dimensional process drift detection**|Edgar Wolf et.al.|[2409.03669v1](http://arxiv.org/abs/2409.03669v1)|[link](https://github.com/edgarwolf/driftbench)|
 |**2024-09-05**|**A Fused Large Language Model for Predicting Startup Success**|Abdurahman Maarouf et.al.|[2409.03668v1](http://arxiv.org/abs/2409.03668v1)|null|
-|**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662v1](http://arxiv.org/abs/2409.03662v1)|[link](https://github.com/diegodoimo/geometry_icl_finetuning)|
+|**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662v2](http://arxiv.org/abs/2409.03662v2)|[link](https://github.com/diegodoimo/geometry_icl_finetuning)|
 |**2024-09-05**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659v2](http://arxiv.org/abs/2409.03659v2)|[link](https://github.com/zhangr2021/Multiagent_poetry)|
 |**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650v1](http://arxiv.org/abs/2409.03650v1)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646v1](http://arxiv.org/abs/2409.03646v1)|null|
@@ -98,7 +98,7 @@
 |**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402v1](http://arxiv.org/abs/2409.03402v1)|null|
 |**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384v1](http://arxiv.org/abs/2409.03384v1)|null|
 |**2024-09-05**|**CogniDual Framework: Self-Training Large Language Models within a Dual-System Theoretical Framework for Improving Cognitive Tasks**|Yongxin Deng et.al.|[2409.03381v2](http://arxiv.org/abs/2409.03381v2)|null|
-|**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377v1](http://arxiv.org/abs/2409.03377v1)|[link](https://github.com/Brainchip-Inc/aTENNuate)|
+|**2024-09-05**|**Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling**|Yan Ru Pei et.al.|[2409.03377v2](http://arxiv.org/abs/2409.03377v2)|[link](https://github.com/Brainchip-Inc/aTENNuate)|
 |**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375v1](http://arxiv.org/abs/2409.03375v1)|null|
 |**2024-09-05**|**Con-ReCall: Detecting Pre-training Data in LLMs via Contrastive Decoding**|Cheng Wang et.al.|[2409.03363v1](http://arxiv.org/abs/2409.03363v1)|null|
 |**2024-09-05**|**Sketch: A Toolkit for Streamlining LLM Operations**|Xin Jiang et.al.|[2409.03346v1](http://arxiv.org/abs/2409.03346v1)|null|
@@ -1840,7 +1840,7 @@ investors to find profitable investment opportunities.
 摘要：<paragraph>投資者持續尋找新創公司的獲利投資機會，因此，為了做出有效的決策，需要預測新創公司的成功機率。現今，投資者不僅可以使用各種新創公司的基本資訊（例如，新創公司的年齡、創辦人數和產業別），還能使用新創公司創新和商業模式的文字說明，這些說明可透過 Crunchbase 等線上創投平台廣泛取得。為了協助投資者進行決策，我們開發了一種機器學習方法，目的是在創投平台上找出成功的公司。具體來說，我們開發、訓練和評估一個量身打造的融合式大型語言模型，以預測新創公司的成功。藉此，我們評估創投平台上的自我描述在多大程度上可以預測新創公司的成功。我們使用 Crunchbase 中的 20,172 個線上個人資料，發現我們的融合式大型語言模型可以預測新創公司的成功，而文字自我描述在預測能力中扮演了重要的角色。我們的研究為投資者提供了一個決策支援工具，以找出獲利的投資機會。</paragraph>
 
 ##### **The representation landscape of few-shot learning and fine-tuning in large language models**
-2409.03662v1 by Diego Doimo, Alessandro Serra, Alessio Ansuini, Alberto Cazzaniga
+2409.03662v2 by Diego Doimo, Alessandro Serra, Alessio Ansuini, Alberto Cazzaniga
 
 In-context learning (ICL) and supervised fine-tuning (SFT) are two common
 strategies for improving the performance of modern large language models (LLMs)
@@ -1861,7 +1861,7 @@ approach reveals the diverse computational strategies developed inside LLMs to
 solve the same task across different conditions, allowing us to make a step
 towards designing optimal methods to extract information from language models.
 
-摘要：文本内学习 (ICL) 和监督微调 (SFT) 是两种常见的策略，用于提升现代大型语言模型 (LLM) 在特定任务上的性能。尽管其本质不同，但这些策略通常会导致可比的性能提升。然而，对于它们是否会在 LLM 内诱发类似的表征，我们所知甚少。我们通过分析这两种情况下其隐藏表征的概率分布来解决这个问题。更具体地说，我们比较了 LLM 如何解决相同的问答任务，发现 ICL 和 SFT 创建了非常不同的内部结构，在这两种情况下，网络中间都经历了急剧的转变。在网络的前半部分，ICL 根据语义内容分层组织可解释的表征。相比之下，使用 SFT 获得的概率分布则更加模糊且语义混合。在模型的后半部分，微调后的表征发展出概率模式，更好地编码答案的身份，而 ICL 表征的分布则以不太明确的峰值为特征。我们的方法揭示了 LLM 内部开发的不同计算策略，以解决不同条件下的相同任务，使我们能够朝着设计从语言模型中提取信息的最优方法迈出一步。
+摘要：語境學習 (ICL) 與監督微調 (SFT) 是兩種常見的策略，用於提升現代大型語言模型 (LLM) 在特定任務上的表現。儘管性質不同，這些策略通常會帶來相當的效能提升。然而，對於它們是否在 LLM 內部引發類似的表徵，我們所知甚少。我們透過分析這兩種情況下其隱藏表徵的機率分布來探討這個問題。更具體地說，我們比較 LLM 如何解決相同的問答任務，發現 ICL 和 SFT 會產生非常不同的內部結構，在兩種情況下都會在網路中段經歷劇烈的轉變。在網路的前半段，ICL 根據語義內容分層組織可解釋的表徵。相比之下，使用 SFT 獲得的機率分布較模糊且語義混雜。在模型的後半段，微調後的表徵會發展出機率模式，能更好地編碼答案的識別，而 ICL 表徵的分布特徵在於較不具定義的峰值。我們的做法揭示了 LLM 內部在不同條件下為了解決相同任務而開發的多樣化運算策略，讓我們能朝設計最佳方法從語言模型中萃取資訊邁進一步。
 
 ##### **LLM-based multi-agent poetry generation in non-cooperative environments**
 2409.03659v2 by Ran Zhang, Steffen Eger
@@ -2425,8 +2425,8 @@ computational demands during inference.
 
 摘要：認知心理學探討知覺、注意力、記憶、語言、問題解決、決策制定和推理。卡尼曼的雙系統理論闡明了人類決策制定流程，區分了快速、直覺的系統 1 和審慎、理性的系統 2。最近的進展已將大型語言模型 (LLM) 定位為強大的工具，在各種認知任務中接近人類層級的熟練度。儘管如此，在 LLM 中類似人類認知的雙系統架構的存在仍未被探索。本研究引入了 LLM 的認知雙重架構 (CFLLM)，旨在評估 LLM 是否能透過自我訓練從審慎的演繹演變成直覺的反應，從而模擬人類獲取和掌握新資訊的過程。我們的發現揭示了 LLM 回應生成背後的認知機制，增強了我們對其在認知心理學中的能力的理解。實際上，經過自我訓練的模型可以對某些查詢提供更快速的回應，在推理過程中減少運算需求。
 
-##### **Raw Speech Enhancement with Deep State Space Modeling**
-2409.03377v1 by Yan Ru Pei, Ritik Shrivastava, FNU Sidharth
+##### **Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling**
+2409.03377v2 by Yan Ru Pei, Ritik Shrivastava, FNU Sidharth
 
 We present aTENNuate, a simple deep state-space autoencoder configured for
 efficient online raw speech enhancement in an end-to-end fashion. The network's
@@ -2438,9 +2438,10 @@ score, parameter count, MACs, and latency. Even as a raw waveform processing
 model, the model maintains high fidelity to the clean signal with minimal
 audible artifacts. In addition, the model remains performant even when the
 noisy input is compressed down to 4000Hz and 4 bits, suggesting general speech
-enhancement capabilities in low-resource environments.
+enhancement capabilities in low-resource environments. Code is available at
+github.com/Brainchip-Inc/aTENNuate
 
-摘要：我們提出 aTENNuate，一種簡單的深度狀態空間自動編碼器，以端到端的方式配置用於高效的線上原始語音增強。該網路的效能主要評估於原始語音去噪，並對超解析度和去量化等任務進行額外評估。我們在 VoiceBank + DEMAND 和 Microsoft DNS1 合成測試集中對 aTENNuate 進行基準測試。該網路在 PESQ 分數、參數數量、MAC 和延遲方面優於先前的即時去噪模型。即使作為原始波形處理模型，該模型也能以最小的可聽見的人工製品保持對乾淨訊號的高保真度。此外，即使將雜訊輸入壓縮到 4000Hz 和 4 位元，該模型仍保持效能，這表明在低資源環境中具備一般的語音增強能力。
+摘要：我們提出 aTENNuate，一個簡單的深度狀態空間自動編碼器，配置為以端對端的方式進行有效的線上原始語音增強。網路的效能主要評估在原始語音去噪上，並針對超解析度和去量化等任務進行額外的評估。我們在 VoiceBank + DEMAND 和 Microsoft DNS1 合成測試集上對 aTENNuate 進行基準測試。網路在 PESQ 分數、參數計數、MAC 和延遲方面優於先前的即時去噪模型。即使作為原始波形處理模型，該模型仍能以最小的可聽人工製品保持對乾淨訊號的高保真度。此外，即使在嘈雜的輸入被壓縮到 4000Hz 和 4 位元時，該模型仍能保持效能，這表明在低資源環境中具有一般性的語音增強能力。程式碼可在 github.com/Brainchip-Inc/aTENNuate 取得
 
 ##### **Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**
 2409.03375v1 by Francisco de Arriba-Pérez, Silvia García-Méndez

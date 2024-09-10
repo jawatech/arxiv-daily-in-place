@@ -36,7 +36,7 @@
 |**2024-08-24**|**Integrating Multi-Head Convolutional Encoders with Cross-Attention for Improved SPARQL Query Translation**|Yi-Hui Chen et.al.|[2408.13432v1](http://arxiv.org/abs/2408.13432v1)|null|
 |**2024-08-23**|**CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**|Ekaterina Trofimova et.al.|[2408.13366v1](http://arxiv.org/abs/2408.13366v1)|null|
 |**2024-08-23**|**Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving**|Sakhinana Sagar Srinivas et.al.|[2408.14494v1](http://arxiv.org/abs/2408.14494v1)|null|
-|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
+|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v2](http://arxiv.org/abs/2408.12578v2)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
 |**2024-08-22**|**Enhancing Natural Language Inference Performance with Knowledge Graph for COVID-19 Automated Fact-Checking in Indonesian Language**|Arief Purnama Muharram et.al.|[2409.00061v1](http://arxiv.org/abs/2409.00061v1)|null|
 |**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
 |**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v2](http://arxiv.org/abs/2408.12333v2)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
@@ -945,16 +945,16 @@ capabilities.
 摘要：我們提出了製程工程作業助理 (PEOA)，這是一個由 AI 驅動的架構，旨在解決化學和製程產業中的複雜問題。該架構採用模組化架構，由一個元代理程式協調，該代理程式作為中央協調器，管理動作產生器和指令調整的小規模語言模型 (專家模型)。動作產生器將複雜的問題分解為子任務，並識別合適的專家模型來執行每個任務，為多步驟問題解決提供精確的解決方案。關鍵技術包括使用屬性圖進行進階知識建模，以改善資訊檢索，提供更準確且與脈絡相關的解決方案。此外，該架構採用教師-學生傳輸學習方法，使用 GPT-4 (Omni) 來微調動作產生器和專家模型，以進行領域適應，以及具備精緻錯誤處理功能的迭代問題解決機制。開發了自訂資料集，以針對各種工程任務評估該架構與領先的專有語言模型。結果證明了該架構在自動化計算、加速建模和提供 AI 增強決策支援方面的有效性，標誌著製程工程能力的重大進展。
 
 ##### **A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**
-2408.12578v1 by Ekdeep Singh Lubana, Kyogo Kawaguchi, Robert P. Dick, Hidenori Tanaka
+2408.12578v2 by Ekdeep Singh Lubana, Kyogo Kawaguchi, Robert P. Dick, Hidenori Tanaka
 
 Increase in data, size, or compute can lead to sudden learning of specific
-capabilities by a neural network -- a phenomenon often called "emergence".
+capabilities by a neural network -- a phenomenon often called "emergence''.
 Beyond scientific understanding, establishing the causal factors underlying
 such emergent capabilities is crucial to enable risk regulation frameworks for
 AI. In this work, we seek inspiration from study of emergent properties in
 other fields and propose a phenomenological definition for the concept in the
 context of neural networks. Our definition implicates the acquisition of
-specific structures underlying the data-generating process as a cause of sudden
+general structures underlying the data-generating process as a cause of sudden
 performance growth for specific, narrower tasks. We empirically investigate
 this definition by proposing an experimental system grounded in a
 context-sensitive formal language and find that Transformers trained to perform
@@ -964,11 +964,12 @@ and context-sensitivity inducing structures are learned by the model,
 performance on narrower tasks suddenly begins to improve. We then analogize our
 network's learning dynamics with the process of percolation on a bipartite
 graph, establishing a formal phase transition model that predicts the shift in
-the point of emergence observed in experiment when changing the data structure.
-Overall, our experimental and theoretical frameworks yield a step towards
-better defining, characterizing, and predicting emergence in neural networks.
+the point of emergence observed in our experiments when changing the data
+structure. Overall, our experimental and theoretical frameworks yield a step
+towards better defining, characterizing, and predicting emergence in neural
+networks.
 
-摘要：隨著資料、規模或運算增加，神經網路可能會突然學會特定功能，這種現象常稱為「湧現」。除了科學理解之外，建立造成這種湧現功能的因果關係，對於建立人工智慧的風險規範架構至關重要。在這項工作中，我們從其他領域對湧現特性的研究中尋求靈感，並提出在神經網路脈絡中對這個概念的現象學定義。我們的定義暗示，取得資料產生流程中特定的基礎結構，是特定、較狹窄任務突然效能提升的原因。我們透過提出一個以情境敏感形式語言為基礎的實驗系統，對這個定義進行實證調查，並發現訓練來執行這個語言中字串頂端任務的 Transformer，確實展現出湧現功能。具體來說，我們顯示出，一旦模型學會語言的基礎文法和引發情境敏感性的結構，執行較狹窄任務的效能就會突然開始提升。然後，我們將網路的學習動態類比為二分圖上的滲流過程，建立一個正式的相變模型，預測在改變資料結構時，實驗中觀察到的湧現點轉變。總體而言，我們的實驗和理論架構朝著在神經網路中更佳定義、描述和預測湧現邁進一步。
+摘要：<paragraph>資料、規模或運算的增加，可能會導致神經網路突然學會特定能力——這種現象常稱為「湧現」。除了科學理解之外，確立這種湧現能力背後的基本原因，對於為 AI 建立風險法規框架至關重要。在這項工作中，我們從其他領域中對湧現特性的研究中尋求靈感，並針對神經網路中的概念提出現象學定義。我們的定義暗示，取得資料產生程序背後的通用結構，是特定、較狹隘任務突然效能提升的原因。我們透過提出一個以情境敏感形式語言為基礎的實驗系統，對這個定義進行實證研究，發現經過訓練以執行這個語言中字串頂部任務的 Transformer，確實展現出湧現能力。具體來說，我們展示出模型一旦學會語言的底層文法和情境敏感誘導結構，對較狹隘任務的效能就會突然開始提升。接著我們將網路的學習動態類比為二部圖上的滲流過程，建立一個正式的相變模型，用於預測在改變資料結構時，我們在實驗中觀察到的湧現點位移。整體而言，我們的實驗和理論框架朝著更完善地定義、描述和預測神經網路中的湧現邁進了一步。</paragraph>
 
 ##### **Enhancing Natural Language Inference Performance with Knowledge Graph for COVID-19 Automated Fact-Checking in Indonesian Language**
 2409.00061v1 by Arief Purnama Muharram, Ayu Purwarianti

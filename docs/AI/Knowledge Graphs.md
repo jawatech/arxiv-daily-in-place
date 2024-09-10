@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
+|**2024-09-07**|**Action is the primary key: a categorical framework for episode description and logical reasoning**|Yoshiki Fukada et.al.|[2409.04793v1](http://arxiv.org/abs/2409.04793v1)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|[link](https://github.com/samsungsailmontreal/nino)|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286v1](http://arxiv.org/abs/2409.04286v1)|null|
 |**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183v1](http://arxiv.org/abs/2409.04183v1)|null|
@@ -24,6 +27,7 @@
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903v1](http://arxiv.org/abs/2408.15903v1)|null|
 |**2024-08-27**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895v2](http://arxiv.org/abs/2408.14895v2)|[link](https://github.com/aistairc/virtualhome_aist)|
 |**2024-08-27**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021v1](http://arxiv.org/abs/2408.16021v1)|null|
+|**2024-08-26**|**Process Trace Querying using Knowledge Graphs and Notation3**|William Van Woensel et.al.|[2409.04452v1](http://arxiv.org/abs/2409.04452v1)|null|
 |**2024-08-26**|**PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method**|Runtao Ren et.al.|[2409.00092v1](http://arxiv.org/abs/2409.00092v1)|null|
 |**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185v1](http://arxiv.org/abs/2408.14185v1)|null|
 |**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v1](http://arxiv.org/abs/2408.14134v1)|null|
@@ -98,12 +102,82 @@
 |**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
 |**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
 |**2024-08-05**|**Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**|Sara AlMahri et.al.|[2408.07705v1](http://arxiv.org/abs/2408.07705v1)|null|
-|**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
-|**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|[link](https://github.com/CLARIN-PL/PUGG)|
-|**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|[link](https://github.com/milteam/MedSyn)|
-|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v2](http://arxiv.org/abs/2408.01933v2)|null|
 
 #### Abstracts
+##### **SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**
+2409.05556v1 by Alireza Ghafarollahi, Markus J. Buehler
+
+A key challenge in artificial intelligence is the creation of systems capable
+of autonomously advancing scientific understanding by exploring novel domains,
+identifying complex patterns, and uncovering previously unseen connections in
+vast scientific data. In this work, we present SciAgents, an approach that
+leverages three core concepts: (1) the use of large-scale ontological knowledge
+graphs to organize and interconnect diverse scientific concepts, (2) a suite of
+large language models (LLMs) and data retrieval tools, and (3) multi-agent
+systems with in-situ learning capabilities. Applied to biologically inspired
+materials, SciAgents reveals hidden interdisciplinary relationships that were
+previously considered unrelated, achieving a scale, precision, and exploratory
+power that surpasses traditional human-driven research methods. The framework
+autonomously generates and refines research hypotheses, elucidating underlying
+mechanisms, design principles, and unexpected material properties. By
+integrating these capabilities in a modular fashion, the intelligent system
+yields material discoveries, critique and improve existing hypotheses, retrieve
+up-to-date data about existing research, and highlights their strengths and
+limitations. Our case studies demonstrate scalable capabilities to combine
+generative AI, ontological representations, and multi-agent modeling,
+harnessing a `swarm of intelligence' similar to biological systems. This
+provides new avenues for materials discovery and accelerates the development of
+advanced materials by unlocking Nature's design principles.
+
+摘要：在人工智能中，一個關鍵的挑戰是創造出有能力透過探索新領域、識別複雜模式，以及在大量的科學數據中發現前所未見的關聯，來自主推進科學理解的系統。在這項工作中，我們提出了 SciAgents，一種利用三個核心概念的方法：(1) 使用大規模的本体知識圖譜來整理和連結不同的科學概念，(2) 一套大型語言模型 (LLM) 和數據檢索工具，以及 (3) 具有原位學習能力的多代理系統。應用於生物啟發材料，SciAgents 揭示了以前被認為無關的隱藏跨學科關係，達到了超越傳統人為研究方法的規模、精確度和探索能力。該框架自主生成和優化研究假設，闡明基礎機制、設計原理和意外的材料特性。透過以模組化方式整合這些能力，智能系統產生材料發現、批判和改進現有假設、檢索關於現有研究的最新數據，並強調它們的優點和限制。我們的案例研究展示了結合生成式 AI、本体表示和多代理建模的可擴充能力，利用類似於生物系統的「智慧群體」。這為材料發現提供了新途徑，並透過解鎖大自然的設計原理來加速先進材料的開發。
+
+##### **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**
+2409.05370v1 by Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, Luping Zhou
+
+Harnessing the robust capabilities of Large Language Models (LLMs) for
+narrative generation, logical reasoning, and common-sense knowledge
+integration, this study delves into utilizing LLMs to enhance automated
+radiology report generation (R2Gen). Despite the wealth of knowledge within
+LLMs, efficiently triggering relevant knowledge within these large models for
+specific tasks like R2Gen poses a critical research challenge. This paper
+presents KARGEN, a Knowledge-enhanced Automated radiology Report GENeration
+framework based on LLMs. Utilizing a frozen LLM to generate reports, the
+framework integrates a knowledge graph to unlock chest disease-related
+knowledge within the LLM to enhance the clinical utility of generated reports.
+This is achieved by leveraging the knowledge graph to distill disease-related
+features in a designed way. Since a radiology report encompasses both normal
+and disease-related findings, the extracted graph-enhanced disease-related
+features are integrated with regional image features, attending to both
+aspects. We explore two fusion methods to automatically prioritize and select
+the most relevant features. The fused features are employed by LLM to generate
+reports that are more sensitive to diseases and of improved quality. Our
+approach demonstrates promising results on the MIMIC-CXR and IU-Xray datasets.
+
+摘要：<paragraph>利用大型語言模型 (LLM) 強大的功能，進行敘事生成、邏輯推理和常識知識整合，本研究深入探討利用 LLM 來增強自動化放射報告生成 (R2Gen)。儘管 LLM 擁有豐富的知識，但要有效觸發這些大型模型中與特定任務（如 R2Gen）相關的知識，是一個重要的研究挑戰。本文提出了 KARGEN，一個基於 LLM 的知識增強自動化放射報告生成框架。利用凍結的 LLM 來生成報告，該框架整合了一個知識圖譜，以解鎖 LLM 中與胸部疾病相關的知識，以增強生成報告的臨床效用。這是透過利用知識圖譜以設計的方式提取與疾病相關的特徵來實現的。由於放射報告包含正常和疾病相關的發現，因此提取的圖形增強疾病相關特徵與區域影像特徵整合，兼顧兩個方面。我們探索了兩種融合方法，以自動優先排序和選擇最相關的特徵。融合的特徵由 LLM 使用，以生成對疾病更敏感且品質更高的報告。我們的做法在 MIMIC-CXR 和 IU-Xray 資料集上展示了有希望的結果。</paragraph>
+
+##### **Action is the primary key: a categorical framework for episode description and logical reasoning**
+2409.04793v1 by Yoshiki Fukada
+
+This research presents a computational framework for describing and
+recognizing episodes and for logical reasoning. This framework, named
+cognitive-logs, consists of a set of relational and graph databases.
+Cognitive-logs record knowledge, particularly in episodes that consist of
+"actions" represented by verbs in natural languages and "participants" who
+perform the actions. These objects are connected by arrows (morphisms) that
+link each action to its participant and link cause to effect. Operations based
+on category theory enable comparisons between episodes and deductive
+inferences, including abstractions of stories. One of the goals of this study
+is to develop a database-driven artificial intelligence. This artificial
+intelligence thinks like a human but possesses the accuracy and rigour of a
+machine. The vast capacities of databases (up to petabyte scales in current
+technologies) enable the artificial intelligence to store a greater volume of
+knowledge than neural-network based artificial intelligences. Cognitive-logs
+serve as a model of human cognition and designed with references to cognitive
+linguistics. Cognitive-logs also have the potential to model various human mind
+activities.
+
+摘要：本研究提出一個計算框架，用來描述和辨識事件以及進行邏輯推理。這個框架名為認知日誌，包含一組關聯式和圖形資料庫。認知日誌記錄知識，特別是包含由自然語言中的動詞表示的「動作」和執行動作的「參與者」的事件。這些物件由箭頭（態射）連接，將每個動作連結到其參與者，並將原因連結到結果。基於範疇論的運算可比較事件和演繹推論，包括故事的抽象化。本研究的目標之一是開發一個資料庫驅動的人工智慧。這個人工智慧思考方式像人類，但擁有機器般的準確性和嚴謹性。資料庫的龐大容量（在目前的技術中可達皮位元組等級）使人工智慧能夠儲存比基於神經網路的人工智慧更大的知識量。認知日誌作為人類認知的模型，並參考認知語言學進行設計。認知日誌也有潛力模擬各種人類心智活動。
+
 ##### **Accelerating Training with Neuron Interaction and Nowcasting Networks**
 2409.04434v1 by Boris Knyazev, Abhinav Moudgil, Guillaume Lajoie, Eugene Belilovsky, Simon Lacoste-Julien
 
@@ -640,6 +714,28 @@ innovative data fusion with enhanced interpretability and real-time
 capabilities.
 
 摘要：<paragraph>在快速發展的網路安全領域中，整合流層級和封包層級資訊以進行即時入侵偵測，仍然是一個尚未開發的研究領域。本文介紹「XG-NID」，一個創新的架構，據我們所知，這是第一個在異質圖形結構中融合流層級和封包層級資料的架構，提供對網路流量的全面分析。透過利用異質圖形神經網路 (GNN) 和圖形層級分類，XG-NID 獨特地實現即時推論，同時有效擷取流和封包酬載資料之間的複雜關係。與傳統基於 GNN 的方法（主要分析歷史資料）不同，XG-NID 被設計成適應網路流量的異質性，提供強大且即時的防禦機制。我們的架構不僅限於分類；它整合大型語言模型 (LLM) 以產生詳細、人類可讀的解釋並建議潛在的補救措施，確保產生的見解既可操作又易於理解。此外，我們根據時間資訊引入一組新的流特徵，進一步增強模型提供的脈絡和可解釋推論。為了促進實際應用和可及性，我們開發了「GNN4ID」，一個開放原始碼工具，可以將原始網路流量提取並轉換為建議的異質圖形結構，無縫整合流和封包層級資料。我們全面的定量比較分析表明，XG-NID 在多類別分類中達到 97% 的 F1 分數，優於現有的基準和最先進的方法。這透過結合創新的資料融合、增強的可解釋性和即時功能，在網路入侵偵測系統中樹立了新的標準。</paragraph>
+
+##### **Process Trace Querying using Knowledge Graphs and Notation3**
+2409.04452v1 by William Van Woensel
+
+In process mining, a log exploration step allows making sense of the event
+traces; e.g., identifying event patterns and illogical traces, and gaining
+insight into their variability. To support expressive log exploration, the
+event log can be converted into a Knowledge Graph (KG), which can then be
+queried using general-purpose languages. We explore the creation of semantic KG
+using the Resource Description Framework (RDF) as a data model, combined with
+the general-purpose Notation3 (N3) rule language for querying. We show how
+typical trace querying constraints, inspired by the state of the art, can be
+implemented in N3. We convert case- and object-centric event logs into a
+trace-based semantic KG; OCEL2 logs are hereby "flattened" into traces based on
+object paths through the KG. This solution offers (a) expressivity, as queries
+can instantiate constraints in multiple ways and arbitrarily constrain
+attributes and relations (e.g., actors, resources); (b) flexibility, as OCEL2
+event logs can be serialized as traces in arbitrary ways based on the KG; and
+(c) extensibility, as others can extend our library by leveraging the same
+implementation patterns.
+
+摘要：在流程挖掘中，日志探索步骤可以理解事件轨迹；例如，识别事件模式和非逻辑轨迹，并深入了解其可变性。为了支持表达性日志探索，事件日志可以转换为知识图 (KG)，然后可以使用通用语言对其进行查询。我们探索使用资源描述框架 (RDF) 作为数据模型创建语义 KG，并结合通用 Notation3 (N3) 规则语言进行查询。我们展示了如何使用 N3 实现受现有技术启发的典型轨迹查询约束。我们将案例和对象中心事件日志转换为基于轨迹的语义 KG；OCEL2 日志在此被“扁平化”为基于通过 KG 的对象路径的轨迹。此解决方案提供 (a) 表达力，因为查询可以以多种方式实例化约束并任意约束属性和关系（例如，参与者、资源）；(b) 灵活，因为 OCEL2 事件日志可以基于 KG 以任意方式序列化为轨迹；以及 (c) 可扩展性，因为其他人可以通过利用相同的实现模式来扩展我们的库。
 
 ##### **PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method**
 2409.00092v1 by Runtao Ren, Jian Ma
@@ -2463,88 +2559,4 @@ visibility and paving the way for advancements in digital supply chain
 surveillance.
 
 摘要：<paragraph>在當今全球化的經濟中，全面的供應鏈可見性對於有效的風險管理至關重要。由於供應鏈合作夥伴之間的資訊共享有限，因此實現可見性仍然是一項重大的挑戰。本文提出了利用知識圖譜 (KG) 和大型語言模型 (LLM) 的新框架，以增強供應鏈可見性，而無需依賴直接的利益相關者資訊共享。我們零次學習、LLM 驅動的方法自動化了從各種公開來源中提取供應鏈資訊的過程，並構建 KG 以捕捉供應鏈實體之間的複雜相互依賴性。我們採用零次學習提示進行命名實體識別 (NER) 和關係提取 (RE) 任務，消除了對廣泛的特定領域訓練的需求。我們使用電動車供應鏈的案例研究驗證了該框架，重點關注追蹤電池製造的關鍵礦物。結果顯示供應鏈對應顯著改善，可見性擴展到二階供應商以外。該框架揭示了關鍵依賴性和替代採購選項，增強了風險管理和策略規劃。由於 NER 和 RE 任務具有很高的準確性，因此它提供了一個有效的工具，用於了解複雜的多層供應網路。本研究提供了一種可擴充、靈活的方法來構建特定領域的供應鏈 KG，解決了可見性的長期挑戰，並為數位供應鏈監控的進步鋪平了道路。</paragraph>
-
-##### **A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**
-2408.02377v1 by Vanni Zavarella, Juan Carlos Gamero-Salinas, Sergio Consoli
-
-Knowledge graphs (KGs) have been successfully applied to the analysis of
-complex scientific and technological domains, with automatic KG generation
-methods typically building upon relation extraction models capturing
-fine-grained relations between domain entities in text. While these relations
-are fully applicable across scientific areas, existing models are trained on
-few domain-specific datasets such as SciERC and do not perform well on new
-target domains. In this paper, we experiment with leveraging in-context
-learning capabilities of Large Language Models to perform schema-constrained
-data annotation, collecting in-domain training instances for a
-Transformer-based relation extraction model deployed on titles and abstracts of
-research papers in the Architecture, Construction, Engineering and Operations
-(AECO) domain. By assessing the performance gain with respect to a baseline
-Deep Learning architecture trained on off-domain data, we show that by using a
-few-shot learning strategy with structured prompts and only minimal expert
-annotation the presented approach can potentially support domain adaptation of
-a science KG generation model.
-
-摘要：知識圖譜 (KG) 已成功應用於分析複雜的科學技術領域，自動 KG 生成方法通常建構於關係萃取模型上，捕捉文本中領域實體之間的細粒度關係。雖然這些關係完全適用於各科學領域，但現有模型是用 SciERC 等少數特定領域的資料集訓練，而且在新目標領域的表現不佳。在本論文中，我們嘗試利用大型語言模型的脈絡學習能力，執行受架構約束的資料標註，收集領域內訓練實例，用於部署在建築、營造、工程和營運 (AECO) 領域研究論文標題和摘要的基於 Transformer 的關係萃取模型。透過評估相對於在領域外資料上訓練的基準深度學習架構的效能提升，我們展示透過使用帶有結構化提示的少量學習策略，以及僅最少的專家標註，所提出的方法有可能支援科學 KG 生成模型的領域適應。
-
-##### **Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**
-2408.02337v1 by Albert Sawczyn, Katsiaryna Viarenich, Konrad Wojtasik, Aleksandra Domogała, Marcin Oleksy, Maciej Piasecki, Tomasz Kajdanowicz
-
-Advancements in AI and natural language processing have revolutionized
-machine-human language interactions, with question answering (QA) systems
-playing a pivotal role. The knowledge base question answering (KBQA) task,
-utilizing structured knowledge graphs (KG), allows for handling extensive
-knowledge-intensive questions. However, a significant gap exists in KBQA
-datasets, especially for low-resource languages. Many existing construction
-pipelines for these datasets are outdated and inefficient in human labor, and
-modern assisting tools like Large Language Models (LLM) are not utilized to
-reduce the workload. To address this, we have designed and implemented a
-modern, semi-automated approach for creating datasets, encompassing tasks such
-as KBQA, Machine Reading Comprehension (MRC), and Information Retrieval (IR),
-tailored explicitly for low-resource environments. We executed this pipeline
-and introduced the PUGG dataset, the first Polish KBQA dataset, and novel
-datasets for MRC and IR. Additionally, we provide a comprehensive
-implementation, insightful findings, detailed statistics, and evaluation of
-baseline models.
-
-摘要：人工智能和自然語言處理的進展徹底改變了機器與人類的語言互動，其中問答 (QA) 系統扮演了關鍵角色。知識庫問答 (KBQA) 任務利用結構化的知識圖譜 (KG)，可以處理大量的知識密集型問題。然而，KBQA 資料集存在著顯著的差距，特別是對於低資源語言。許多現有的這些資料集建構管道已經過時且在人力上效率低下，而像大型語言模型 (LLM) 這樣的現代輔助工具並未被用於減少工作負載。為了解決這個問題，我們設計並實作了一種現代的半自動化方法來建立資料集，涵蓋了專門針對低資源環境量身打造的任務，例如 KBQA、機器閱讀理解 (MRC) 和資訊檢索 (IR)。我們執行了這個管道並引入了 PUGG 資料集，這是第一個波蘭 KBQA 資料集，以及 MRC 和 IR 的新穎資料集。此外，我們提供了全面的實作、有見地的發現、詳細的統計資料和基準模型的評估。
-
-##### **MedSyn: LLM-based Synthetic Medical Text Generation Framework**
-2408.02056v1 by Gleb Kumichev, Pavel Blinov, Yulia Kuzkina, Vasily Goncharov, Galina Zubkova, Nikolai Zenovkin, Aleksei Goncharov, Andrey Savchenko
-
-Generating synthetic text addresses the challenge of data availability in
-privacy-sensitive domains such as healthcare. This study explores the
-applicability of synthetic data in real-world medical settings. We introduce
-MedSyn, a novel medical text generation framework that integrates large
-language models with a Medical Knowledge Graph (MKG). We use MKG to sample
-prior medical information for the prompt and generate synthetic clinical notes
-with GPT-4 and fine-tuned LLaMA models. We assess the benefit of synthetic data
-through application in the ICD code prediction task. Our research indicates
-that synthetic data can increase the classification accuracy of vital and
-challenging codes by up to 17.8% compared to settings without synthetic data.
-Furthermore, to provide new data for further research in the healthcare domain,
-we present the largest open-source synthetic dataset of clinical notes for the
-Russian language, comprising over 41k samples covering 219 ICD-10 codes.
-
-摘要：合成文本的生成解决了隐私敏感领域（如医疗保健）中数据可用性的挑战。本研究探讨了合成数据在实际医疗环境中的适用性。我们引入了 MedSyn，这是一个新颖的医学文本生成框架，它将大型语言模型与医学知识图谱 (MKG) 相结合。我们使用 MKG 为提示采样先验医学信息，并使用 GPT-4 和微调的 LLaMA 模型生成合成临床注释。我们通过在 ICD 代码预测任务中的应用评估了合成数据的优势。我们的研究表明，与没有合成数据的设置相比，合成数据可以将重要且具有挑战性的代码的分类准确性提高多达 17.8%。此外，为了为医疗保健领域的进一步研究提供新数据，我们展示了最大的开放源代码合成数据集，其中包含超过 41k 个涵盖 219 个 ICD-10 代码的临床注释。
-
-##### **DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**
-2408.01933v2 by Bowen Wang, Jiuyang Chang, Yiming Qian, Guoxin Chen, Junhao Chen, Zhouqiang Jiang, Jiahao Zhang, Yuta Nakashima, Hajime Nagahara
-
-Large language models (LLMs) have recently showcased remarkable capabilities,
-spanning a wide range of tasks and applications, including those in the medical
-domain. Models like GPT-4 excel in medical question answering but may face
-challenges in the lack of interpretability when handling complex tasks in real
-clinical settings. We thus introduce the diagnostic reasoning dataset for
-clinical notes (DiReCT), aiming at evaluating the reasoning ability and
-interpretability of LLMs compared to human doctors. It contains 511 clinical
-notes, each meticulously annotated by physicians, detailing the diagnostic
-reasoning process from observations in a clinical note to the final diagnosis.
-Additionally, a diagnostic knowledge graph is provided to offer essential
-knowledge for reasoning, which may not be covered in the training data of
-existing LLMs. Evaluations of leading LLMs on DiReCT bring out a significant
-gap between their reasoning ability and that of human doctors, highlighting the
-critical need for models that can reason effectively in real-world clinical
-scenarios.
-
-摘要：大型語言模型 (LLM) 最近展示了非凡的能力，涵蓋廣泛的任務和應用，包括醫療領域的任務和應用。GPT-4 等模型在醫療問題解答方面表現出色，但在處理實際臨床場景中的複雜任務時，可能會面臨缺乏可解釋性的挑戰。因此，我們引入了臨床筆記診斷推理數據集 (DiReCT)，旨在評估 LLM 與人類醫生相比的推理能力和可解釋性。它包含 511 個臨床筆記，每個筆記都經過醫生仔細註解，詳細說明了從臨床筆記中的觀察結果到最終診斷的診斷推理過程。此外，還提供了診斷知識圖譜，以提供推理所需的基本知識，這可能未涵蓋在現有 LLM 的訓練數據中。在 DiReCT 上對領先的 LLM 進行評估，發現它們的推理能力與人類醫生的推理能力之間存在顯著差距，這突顯了在現實世界的臨床場景中能夠有效推理的模型的關鍵需求。
 

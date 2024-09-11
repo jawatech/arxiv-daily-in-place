@@ -2,7 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297v1](http://arxiv.org/abs/2409.06297v1)|null|
+|**2024-09-09**|**Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**|Dongyue Li et.al.|[2409.06091v1](http://arxiv.org/abs/2409.06091v1)|[link](https://github.com/virtuosoresearch/scalablemtl)|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|null|
+|**2024-09-09**|**Assessing SPARQL capabilities of Large Language Models**|Lars-Peter Meyer et.al.|[2409.05925v1](http://arxiv.org/abs/2409.05925v1)|[link](https://github.com/aksw/llm-kg-bench-results)|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
 |**2024-09-07**|**Action is the primary key: a categorical framework for episode description and logical reasoning**|Yoshiki Fukada et.al.|[2409.04793v1](http://arxiv.org/abs/2409.04793v1)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|[link](https://github.com/samsungsailmontreal/nino)|
@@ -66,7 +69,7 @@
 |**2024-08-16**|**Handling abort commands for household kitchen robots**|Darius Has et.al.|[2408.14480v1](http://arxiv.org/abs/2408.14480v1)|null|
 |**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535v1](http://arxiv.org/abs/2408.08535v1)|null|
 |**2024-08-15**|**VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool**|Chia-Tung Ho et.al.|[2408.08927v1](http://arxiv.org/abs/2408.08927v1)|null|
-|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921v2](http://arxiv.org/abs/2408.08921v2)|null|
+|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921v2](http://arxiv.org/abs/2408.08921v2)|[link](https://github.com/pengboci/graphrag-survey)|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v2](http://arxiv.org/abs/2408.07611v2)|null|
@@ -99,11 +102,69 @@
 |**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|[link](https://github.com/chrschy/fact-finder)|
-|**2024-08-06**|**Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**|Tiezheng Guo et.al.|[2408.02907v1](http://arxiv.org/abs/2408.02907v1)|null|
-|**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
-|**2024-08-05**|**Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**|Sara AlMahri et.al.|[2408.07705v1](http://arxiv.org/abs/2408.07705v1)|null|
 
 #### Abstracts
+##### **User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**
+2409.06297v1 by Julien Albert, Martin Balfroid, Miriam Doh, Jeremie Bogaert, Luca La Fisca, Liesbet De Vos, Bryan Renard, Vincent Stragier, Emmanuel Jean
+
+Recommender systems have become integral to our digital experiences, from
+online shopping to streaming platforms. Still, the rationale behind their
+suggestions often remains opaque to users. While some systems employ a
+graph-based approach, offering inherent explainability through paths
+associating recommended items and seed items, non-experts could not easily
+understand these explanations. A popular alternative is to convert graph-based
+explanations into textual ones using a template and an algorithm, which we
+denote here as ''template-based'' explanations. Yet, these can sometimes come
+across as impersonal or uninspiring. A novel method would be to employ large
+language models (LLMs) for this purpose, which we denote as ''LLM-based''. To
+assess the effectiveness of LLMs in generating more resonant explanations, we
+conducted a pilot study with 25 participants. They were presented with three
+explanations: (1) traditional template-based, (2) LLM-based rephrasing of the
+template output, and (3) purely LLM-based explanations derived from the
+graph-based explanations. Although subject to high variance, preliminary
+findings suggest that LLM-based explanations may provide a richer and more
+engaging user experience, further aligning with user expectations. This study
+sheds light on the potential limitations of current explanation methods and
+offers promising directions for leveraging large language models to improve
+user satisfaction and trust in recommender systems.
+
+摘要：推薦系統已成為我們數位體驗中不可或缺的一部分，從線上購物到串流平台皆是如此。然而，其建議背後的原理通常對使用者來說仍不透明。儘管有些系統採用基於圖形的做法，透過連結推薦項目與種子項目的路徑提供內在的可解釋性，但非專家無法輕易理解這些解釋。一種常見的替代方法是使用範本和演算法將基於圖形的解釋轉換為文字解釋，我們在此將其表示為「基於範本」的解釋。然而，這些解釋有時會顯得制式或缺乏靈感。一種新穎的方法是為此目的採用大型語言模型 (LLM)，我們將其表示為「基於 LLM」。為了評估 LLM 在產生更具共鳴解釋方面的有效性，我們進行了一項有 25 位參與者的試驗研究。我們向他們展示了三種解釋：(1) 傳統基於範本的解釋，(2) LLM 對範本輸出的重新表述，以及 (3) 純粹從基於圖形的解釋衍生的基於 LLM 的解釋。儘管存在高度變異，但初步結果表明，基於 LLM 的解釋可能提供更豐富、更吸引人的使用者體驗，進一步符合使用者的期望。這項研究揭示了當前解釋方法的潛在限制，並為利用大型語言模型來提升使用者滿意度和對推薦系統的信任提供了有希望的方向。
+
+##### **Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**
+2409.06091v1 by Dongyue Li, Aneesh Sharma, Hongyang R. Zhang
+
+Multitask learning is a widely used paradigm for training models on diverse
+tasks, with applications ranging from graph neural networks to language model
+fine-tuning. Since tasks may interfere with each other, a key notion for
+modeling their relationships is task affinity. This includes pairwise task
+affinity, computed among pairs of tasks, and higher-order affinity, computed
+among subsets of tasks. Naively computing either of them requires repeatedly
+training on data from various task combinations, which is computationally
+intensive. We present a new algorithm Grad-TAG that can estimate task
+affinities without this repeated training.
+  The key idea of Grad-TAG is to train a "base" model for all tasks and then
+use a linearization technique to estimate the loss of the model for a specific
+task combination. The linearization works by computing a gradient-based
+approximation of the loss, using low-dimensional projections of gradients as
+features in a logistic regression to predict labels for the task combination.
+We show that the linearized model can provably approximate the loss when the
+gradient-based approximation is accurate, and also empirically verify that on
+several large models. Then, given the estimated task affinity, we design a
+semi-definite program for clustering similar tasks by maximizing the average
+density of clusters.
+  We evaluate Grad-TAG's performance across seven datasets, including
+multi-label classification on graphs, and instruction fine-tuning of language
+models. Our task affinity estimates are within 2.7% distance to the true
+affinities while needing only 3% of FLOPs in full training. On our largest
+graph with 21M edges and 500 labeling tasks, our algorithm delivers estimates
+within 5% distance to the true affinities, using only 112 GPU hours. Our
+results show that Grad-TAG achieves excellent performance and runtime tradeoffs
+compared to existing approaches.
+
+摘要：多任務學習是一種廣泛使用的範例，用於在不同的任務上訓練模型，其應用範圍從圖神經網路到語言模型微調。由於任務可能會相互干擾，因此建模它們關係的一個關鍵概念是任務親和性。這包括成對任務親和性，在成對任務之間計算，以及高階親和性，在任務子集之間計算。天真地計算其中任何一個都需要重複訓練來自各種任務組合的資料，這在計算上很密集。我們提出了一種新的演算法 Grad-TAG，它可以在沒有重複訓練的情況下估計任務親和性。
+Grad-TAG 的關鍵思想是為所有任務訓練一個「基礎」模型，然後使用線性化技術來估計模型對特定任務組合的損失。線性化通過計算損失的基於梯度的近似值來工作，使用梯度的低維投影作為特徵，在邏輯迴歸中預測任務組合的標籤。我們證明了當基於梯度的近似值準確時，線性化模型可以證明地近似損失，並且在幾個大型模型上經驗驗證了這一點。然後，給定估計的任務親和性，我們設計了一個半定程式，通過最大化叢集的平均密度來對類似的任務進行叢集。
+我們評估了 Grad-TAG 在七個資料集上的效能，包括圖形上的多標籤分類，以及語言模型的指令微調。我們的任務親和性估計與真實親和性距離在 2.7% 以內，同時只需要 3% 的 FLOP 進行完整訓練。在我們最大的圖形（有 2100 萬條邊和 500 個標籤任務）上，我們的演算法提供的估計與真實親和性距離在 5% 以內，只使用 112 個 GPU 小時。我們的結果表明，與現有方法相比，Grad-TAG 在效能和執行時間權衡方面取得了優異的表現。
+
 ##### **SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**
 2409.05556v1 by Alireza Ghafarollahi, Markus J. Buehler
 
@@ -130,6 +191,31 @@ provides new avenues for materials discovery and accelerates the development of
 advanced materials by unlocking Nature's design principles.
 
 摘要：在人工智能中，一個關鍵的挑戰是創造出有能力透過探索新領域、識別複雜模式，以及在大量的科學數據中發現前所未見的關聯，來自主推進科學理解的系統。在這項工作中，我們提出了 SciAgents，一種利用三個核心概念的方法：(1) 使用大規模的本体知識圖譜來整理和連結不同的科學概念，(2) 一套大型語言模型 (LLM) 和數據檢索工具，以及 (3) 具有原位學習能力的多代理系統。應用於生物啟發材料，SciAgents 揭示了以前被認為無關的隱藏跨學科關係，達到了超越傳統人為研究方法的規模、精確度和探索能力。該框架自主生成和優化研究假設，闡明基礎機制、設計原理和意外的材料特性。透過以模組化方式整合這些能力，智能系統產生材料發現、批判和改進現有假設、檢索關於現有研究的最新數據，並強調它們的優點和限制。我們的案例研究展示了結合生成式 AI、本体表示和多代理建模的可擴充能力，利用類似於生物系統的「智慧群體」。這為材料發現提供了新途徑，並透過解鎖大自然的設計原理來加速先進材料的開發。
+
+##### **Assessing SPARQL capabilities of Large Language Models**
+2409.05925v1 by Lars-Peter Meyer, Johannes Frey, Felix Brei, Natanael Arndt
+
+The integration of Large Language Models (LLMs) with Knowledge Graphs (KGs)
+offers significant synergistic potential for knowledge-driven applications. One
+possible integration is the interpretation and generation of formal languages,
+such as those used in the Semantic Web, with SPARQL being a core technology for
+accessing KGs. In this paper, we focus on measuring out-of-the box capabilities
+of LLMs to work with SPARQL and more specifically with SPARQL SELECT queries
+applying a quantitative approach.
+  We implemented various benchmarking tasks in the LLM-KG-Bench framework for
+automated execution and evaluation with several LLMs. The tasks assess
+capabilities along the dimensions of syntax, semantic read, semantic create,
+and the role of knowledge graph prompt inclusion.
+  With this new benchmarking tasks, we evaluated a selection of GPT, Gemini,
+and Claude models. Our findings indicate that working with SPARQL SELECT
+queries is still challenging for LLMs and heavily depends on the specific LLM
+as well as the complexity of the task. While fixing basic syntax errors seems
+to pose no problems for the best of the current LLMs evaluated, creating
+semantically correct SPARQL SELECT queries is difficult in several cases.
+
+摘要：大型語言模型 (LLM) 與知識圖譜 (KG) 的整合為知識驅動應用程式提供了顯著的綜效潛力。一種可能的整合是解釋和產生形式化語言，例如語義網路中使用的語言，而 SPARQL 是存取 KG 的核心技術。在本文中，我們專注於衡量 LLM 開箱即用的能力，以使用 SPARQL，更具體地說，使用 SPARQL SELECT 查詢應用量化方法。
+  我們在 LLM-KG-Bench 架構中實作了各種基準測試任務，以自動執行和評估多個 LLM。這些任務評估了語法、語義讀取、語義建立和知識圖譜提示包含的角色等面向的能力。
+  有了這些新的基準測試任務，我們評估了 GPT、Gemini 和 Claude 模型的選項。我們的研究結果表明，使用 SPARQL SELECT 查詢對於 LLM 來說仍然具有挑戰性，並且在很大程度上取決於具體的 LLM 以及任務的複雜性。儘管修復基本的語法錯誤似乎對目前評估的最佳 LLM 來說不成問題，但在某些情況下建立語義正確的 SPARQL SELECT 查詢很困難。
 
 ##### **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**
 2409.05370v1 by Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, Luping Zhou
@@ -2485,79 +2571,4 @@ time-sensitive, precision-focused research contexts. We publish the source code
 together with the dataset and the prompt templates used.
 
 摘要：大型語言模型 (LLM) 的最新進展展示了它們在回答自然語言查詢方面的能力。然而，它們的有效性受到特定領域知識有限的阻礙，這引起了對其回應可靠性的擔憂。我們引入了一個混合系統，該系統使用特定領域的知識圖譜 (KG) 來擴充 LLM，從而旨在使用基於 KG 的檢索方法來增強事實正確性。我們專注於一個醫學 KG 來演示我們的 methodology，其中包括 (1) 預處理，(2) Cypher 查詢生成，(3) Cypher 查詢處理，(4) KG 檢索，以及 (5) LLM 增強的回應生成。我們在一個由 69 個樣本組成的精選數據集上評估我們的系統，在檢索正確的 KG 節點時達到了 78% 的精度。我們的研究結果表明，混合系統在準確性和完整性方面都超過了單獨的 LLM，這通過 LLM 作為評審評估方法得到驗證。這將系統定位為對應用程式來說一個有前途的工具，這些應用程式需要事實正確性和完整性，例如目標識別——在疾病治療或作物改良中精確定位生物實體的關鍵過程。此外，其直觀的搜尋介面和在數秒內提供準確回應的能力使其非常適合時間敏感、注重精確度的研究情境。我們將原始碼與數據集和使用的提示範本一起發布。
-
-##### **Leveraging Inter-Chunk Interactions for Enhanced Retrieval in Large Language Model-Based Question Answering**
-2408.02907v1 by Tiezheng Guo, Chen Wang, Yanyi Liu, Jiawei Tang, Pan Li, Sai Xu, Qingwen Yang, Xianlin Gao, Zhi Li, Yingyou Wen
-
-Retrieving external knowledge and prompting large language models with
-relevant information is an effective paradigm to enhance the performance of
-question-answering tasks. Previous research typically handles paragraphs from
-external documents in isolation, resulting in a lack of context and ambiguous
-references, particularly in multi-document and complex tasks. To overcome these
-challenges, we propose a new retrieval framework IIER, that leverages
-Inter-chunk Interactions to Enhance Retrieval. This framework captures the
-internal connections between document chunks by considering three types of
-interactions: structural, keyword, and semantic. We then construct a unified
-Chunk-Interaction Graph to represent all external documents comprehensively.
-Additionally, we design a graph-based evidence chain retriever that utilizes
-previous paths and chunk interactions to guide the retrieval process. It
-identifies multiple seed nodes based on the target question and iteratively
-searches for relevant chunks to gather supporting evidence. This retrieval
-process refines the context and reasoning chain, aiding the large language
-model in reasoning and answer generation. Extensive experiments demonstrate
-that IIER outperforms strong baselines across four datasets, highlighting its
-effectiveness in improving retrieval and reasoning capabilities.
-
-摘要：取得外部知識並提示大型語言模型提供相關資訊，是提升問答任務效能的有效典範。先前的研究通常孤立地處理外部文件中的段落，導致缺乏脈絡和模稜兩可的參考，特別是在多文件和複雜的任務中。為了克服這些挑戰，我們提出一個新的檢索架構 IIER，利用區塊間互動來增強檢索。這個架構透過考量三種類型的互動來擷取文件區塊之間的內部連結：結構、關鍵字和語意。然後，我們建構一個統一的區塊互動圖，以全面表示所有外部文件。此外，我們設計一個基於圖形的證據鏈檢索器，利用先前的路徑和區塊互動來引導檢索程序。它根據目標問題識別多個種子節點，並反覆搜尋相關區塊以收集佐證證據。這個檢索程序精煉了脈絡和推理鏈，協助大型語言模型進行推理和答案產生。廣泛的實驗證明，IIER 在四個資料集上優於強大的基準，突顯其在改善檢索和推理能力方面的效能。
-
-##### **MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**
-2408.04661v1 by Ali Riza Durmaz, Akhil Thomas, Lokesh Mishra, Rachana Niranjan Murthy, Thomas Straub
-
-While large language models learn sound statistical representations of the
-language and information therein, ontologies are symbolic knowledge
-representations that can complement the former ideally. Research at this
-critical intersection relies on datasets that intertwine ontologies and text
-corpora to enable training and comprehensive benchmarking of neurosymbolic
-models. We present the MaterioMiner dataset and the linked materials mechanics
-ontology where ontological concepts from the mechanics of materials domain are
-associated with textual entities within the literature corpus. Another
-distinctive feature of the dataset is its eminently fine-granular annotation.
-Specifically, 179 distinct classes are manually annotated by three raters
-within four publications, amounting to a total of 2191 entities that were
-annotated and curated. Conceptual work is presented for the symbolic
-representation of causal composition-process-microstructure-property
-relationships. We explore the annotation consistency between the three raters
-and perform fine-tuning of pre-trained models to showcase the feasibility of
-named-entity recognition model training. Reusing the dataset can foster
-training and benchmarking of materials language models, automated ontology
-construction, and knowledge graph generation from textual data.
-
-摘要：<paragraph>大型语言模型学习语言和其中信息的健全统计表示，本体是符号知识表示，理想情况下可以补充前者。在这个关键交叉点上的研究依赖于将本体和文本语料库交织在一起的数据集，以实现神经符号模型的训练和全面基准测试。我们展示了 MaterioMiner 数据集和链接的材料力学本体，其中材料力学领域的本体概念与文献语料库中的文本实体相关联。该数据集的另一个显着特征是其极其细粒度的注释。具体来说，179 个不同的类别由三个评级员在四篇出版物中手动注释，总共注释和整理了 2191 个实体。提出了因果成分-过程-微观结构-性质关系的符号表示的概念性工作。我们探讨了三个评级员之间的注释一致性，并对预训练模型进行微调，以展示命名实体识别模型训练的可行性。重复使用该数据集可以促进材料语言模型的训练和基准测试、自动本体构建以及基于文本数据的知识图谱生成。</paragraph>
-
-##### **Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**
-2408.07705v1 by Sara AlMahri, Liming Xu, Alexandra Brintrup
-
-In today's globalized economy, comprehensive supply chain visibility is
-crucial for effective risk management. Achieving visibility remains a
-significant challenge due to limited information sharing among supply chain
-partners. This paper presents a novel framework leveraging Knowledge Graphs
-(KGs) and Large Language Models (LLMs) to enhance supply chain visibility
-without relying on direct stakeholder information sharing. Our zero-shot,
-LLM-driven approach automates the extraction of supply chain information from
-diverse public sources and constructs KGs to capture complex interdependencies
-between supply chain entities. We employ zero-shot prompting for Named Entity
-Recognition (NER) and Relation Extraction (RE) tasks, eliminating the need for
-extensive domain-specific training. We validate the framework with a case study
-on electric vehicle supply chains, focusing on tracking critical minerals for
-battery manufacturing. Results show significant improvements in supply chain
-mapping, extending visibility beyond tier-2 suppliers. The framework reveals
-critical dependencies and alternative sourcing options, enhancing risk
-management and strategic planning. With high accuracy in NER and RE tasks, it
-provides an effective tool for understanding complex, multi-tiered supply
-networks. This research offers a scalable, flexible method for constructing
-domain-specific supply chain KGs, addressing longstanding challenges in
-visibility and paving the way for advancements in digital supply chain
-surveillance.
-
-摘要：<paragraph>在當今全球化的經濟中，全面的供應鏈可見性對於有效的風險管理至關重要。由於供應鏈合作夥伴之間的資訊共享有限，因此實現可見性仍然是一項重大的挑戰。本文提出了利用知識圖譜 (KG) 和大型語言模型 (LLM) 的新框架，以增強供應鏈可見性，而無需依賴直接的利益相關者資訊共享。我們零次學習、LLM 驅動的方法自動化了從各種公開來源中提取供應鏈資訊的過程，並構建 KG 以捕捉供應鏈實體之間的複雜相互依賴性。我們採用零次學習提示進行命名實體識別 (NER) 和關係提取 (RE) 任務，消除了對廣泛的特定領域訓練的需求。我們使用電動車供應鏈的案例研究驗證了該框架，重點關注追蹤電池製造的關鍵礦物。結果顯示供應鏈對應顯著改善，可見性擴展到二階供應商以外。該框架揭示了關鍵依賴性和替代採購選項，增強了風險管理和策略規劃。由於 NER 和 RE 任務具有很高的準確性，因此它提供了一個有效的工具，用於了解複雜的多層供應網路。本研究提供了一種可擴充、靈活的方法來構建特定領域的供應鏈 KG，解決了可見性的長期挑戰，並為數位供應鏈監控的進步鋪平了道路。</paragraph>
 

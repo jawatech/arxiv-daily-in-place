@@ -8,7 +8,7 @@
 |**2024-09-09**|**The Future of Software Testing: AI-Powered Test Case Generation and Validation**|Mohammad Baqar et.al.|[2409.05808v1](http://arxiv.org/abs/2409.05808v1)|null|
 |**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806v1](http://arxiv.org/abs/2409.05806v1)|[link](https://github.com/zjunlp/easyedit)|
 |**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|null|
-|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785v1](http://arxiv.org/abs/2409.05785v1)|null|
+|**2024-09-09**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785v2](http://arxiv.org/abs/2409.05785v2)|null|
 |**2024-09-09**|**Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models**|Emily Cheng et.al.|[2409.05771v1](http://arxiv.org/abs/2409.05771v1)|null|
 |**2024-09-09**|**ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL**|Safwen Naimi et.al.|[2409.05749v1](http://arxiv.org/abs/2409.05749v1)|null|
 |**2024-09-09**|**A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System**|B. Sankar et.al.|[2409.05747v1](http://arxiv.org/abs/2409.05747v1)|null|
@@ -26,7 +26,7 @@
 |**2024-09-09**|**Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection**|Tianwu Lei et.al.|[2409.05611v1](http://arxiv.org/abs/2409.05611v1)|null|
 |**2024-09-09**|**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation**|Nithin Rao Koluguri et.al.|[2409.05601v1](http://arxiv.org/abs/2409.05601v1)|null|
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592v1](http://arxiv.org/abs/2409.05592v1)|null|
-|**2024-09-09**|**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**|Hongjin Qian et.al.|[2409.05591v1](http://arxiv.org/abs/2409.05591v1)|null|
+|**2024-09-09**|**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**|Hongjin Qian et.al.|[2409.05591v2](http://arxiv.org/abs/2409.05591v2)|[link](https://github.com/qhjqhj00/memorag)|
 |**2024-09-09**|**Latent 3D Brain MRI Counterfactual**|Wei Peng et.al.|[2409.05585v1](http://arxiv.org/abs/2409.05585v1)|null|
 |**2024-09-09**|**Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation**|Muraleekrishna Gopinathan et.al.|[2409.05583v1](http://arxiv.org/abs/2409.05583v1)|[link](https://github.com/gmuraleekrishna/sas)|
 |**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573v1](http://arxiv.org/abs/2409.05573v1)|null|
@@ -38,7 +38,7 @@
 |**2024-09-09**|**QiBERT -- Classifying Online Conversations Messages with BERT as a Feature**|Bruno D. Ferreira-Saraiva et.al.|[2409.05530v1](http://arxiv.org/abs/2409.05530v1)|null|
 |**2024-09-09**|**Harmonic Reasoning in Large Language Models**|Anna Kruspe et.al.|[2409.05521v1](http://arxiv.org/abs/2409.05521v1)|null|
 |**2024-09-09**|**Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**|Camilo Thorne et.al.|[2409.05486v1](http://arxiv.org/abs/2409.05486v1)|null|
-|**2024-09-09**|**CRADLE-VAE: Enhancing Single-Cell Gene Perturbation Modeling with Counterfactual Reasoning-based Artifact Disentanglement**|Seungheun Baek et.al.|[2409.05484v1](http://arxiv.org/abs/2409.05484v1)|null|
+|**2024-09-09**|**CRADLE-VAE: Enhancing Single-Cell Gene Perturbation Modeling with Counterfactual Reasoning-based Artifact Disentanglement**|Seungheun Baek et.al.|[2409.05484v2](http://arxiv.org/abs/2409.05484v2)|[link](https://github.com/dmis-lab/cradle-vae)|
 |**2024-09-09**|**Representational Analysis of Binding in Large Language Models**|Qin Dai et.al.|[2409.05448v1](http://arxiv.org/abs/2409.05448v1)|null|
 |**2024-09-09**|**STLM Engineering Report: Dropout**|Dylan Hillier et.al.|[2409.05423v1](http://arxiv.org/abs/2409.05423v1)|[link](https://github.com/leonguertler/supertinylanguagemodels)|
 |**2024-09-09**|**AD-Net: Attention-based dilated convolutional residual network with guided decoder for robust skin lesion segmentation**|Asim Naveed et.al.|[2409.05420v1](http://arxiv.org/abs/2409.05420v1)|null|
@@ -48,7 +48,7 @@
 |**2024-09-09**|**NLLB-E5: A Scalable Multilingual Retrieval Model**|Arkadeep Acharya et.al.|[2409.05401v1](http://arxiv.org/abs/2409.05401v1)|null|
 |**2024-09-09**|**FacialFlowNet: Advancing Facial Optical Flow Estimation with a Diverse Dataset and a Decomposed Model**|Jianzhi Lu et.al.|[2409.05396v1](http://arxiv.org/abs/2409.05396v1)|null|
 |**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395v1](http://arxiv.org/abs/2409.05395v1)|null|
-|**2024-09-09**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385v1](http://arxiv.org/abs/2409.05385v1)|null|
+|**2024-09-09**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385v2](http://arxiv.org/abs/2409.05385v2)|null|
 |**2024-09-09**|**Look One and More: Distilling Hybrid Order Relational Knowledge for Cross-Resolution Image Recognition**|Shiming Ge et.al.|[2409.05384v1](http://arxiv.org/abs/2409.05384v1)|null|
 |**2024-09-09**|**Deep Learning for Video Anomaly Detection: A Review**|Peng Wu et.al.|[2409.05383v1](http://arxiv.org/abs/2409.05383v1)|null|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
@@ -88,7 +88,7 @@
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022v1](http://arxiv.org/abs/2409.05022v1)|null|
 |**2024-09-08**|**Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation**|Yanni Xue et.al.|[2409.05021v1](http://arxiv.org/abs/2409.05021v1)|[link](https://github.com/levelower/vfa)|
 |**2024-09-08**|**Audio-Guided Fusion Techniques for Multimodal Emotion Analysis**|Pujin Shi et.al.|[2409.05007v1](http://arxiv.org/abs/2409.05007v1)|null|
-|**2024-09-08**|**Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector**|Hongbo Wang et.al.|[2409.05005v1](http://arxiv.org/abs/2409.05005v1)|[link](https://github.com/dut-laowang/pclmm)|
+|**2024-09-08**|**Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector**|Hongbo Wang et.al.|[2409.05005v2](http://arxiv.org/abs/2409.05005v2)|[link](https://github.com/dut-laowang/pclmm)|
 |**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001v1](http://arxiv.org/abs/2409.05001v1)|null|
 |**2024-09-08**|**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference**|Xiurui Pan et.al.|[2409.04992v1](http://arxiv.org/abs/2409.04992v1)|null|
 |**2024-09-08**|**Enhancing Convolutional Neural Networks with Higher-Order Numerical Difference Methods**|Qi Wang et.al.|[2409.04977v1](http://arxiv.org/abs/2409.04977v1)|null|
@@ -248,8 +248,8 @@ accelerated learning when response times are incorporated.
 
 摘要：二元人類選擇回饋因其簡潔性而廣泛用於互動式偏好學習，但它提供的偏好強度資訊有限。為了克服此限制，我們利用與偏好強度呈反比的人類反應時間，作為補充資訊。我們的研究將 EZ 擴散模型整合到偏好式線性賭徒中，該模型共同建模人類選擇和反應時間。我們引入了一個計算效率高的效用估計器，它使用選擇和反應時間作為線性回歸問題來重新制定效用估計問題。與傳統的僅選擇估計器的理論和實證比較表明，對於具有強烈偏好的查詢（「容易」查詢），僅選擇提供有限的資訊，而反應時間提供有價值的補充資訊，說明偏好強度。因此，納入反應時間使簡單的查詢更有用。我們在固定預算最佳臂識別問題中展示了此優勢，模擬基於三個真實世界資料集，始終顯示在納入反應時間時，加速學習。
 
-##### **NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**
-2409.05785v1 by Wenqi Jia, Youyuan Liu, Zhewen Hu, Jinzhen Wang, Boyuan Zhang, Wei Niu, Junzhou Huang, Stavros Kalafatis, Sian Jin, Miao Yin
+##### **NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**
+2409.05785v2 by Wenqi Jia, Youyuan Liu, Zhewen Hu, Jinzhen Wang, Boyuan Zhang, Wei Niu, Junzhou Huang, Stavros Kalafatis, Sian Jin, Miao Yin
 
 Large-scale scientific simulations generate massive datasets that pose
 significant challenges for storage and I/O. While traditional lossy compression
@@ -270,7 +270,7 @@ simulation). Experiments demonstrate that our framework achieves up to a 90%
 relative reduction in bit rate under the same data distortion, compared to the
 best existing approach.
 
-摘要：大型科學模擬會產生大量資料集，對儲存和 I/O 而言構成重大挑戰。雖然傳統有損壓縮技術可以提升效能，但平衡壓縮比、資料品質和處理量仍然很困難。為了解決這個問題，我們提出 NeurLZ，一種新穎的基於跨場域學習和錯誤控制的科學資料壓縮架構。透過整合跳躍 DNN 模型、跨場域學習和錯誤控制，我們的架構旨在大幅提升有損壓縮效能。我們的貢獻有三方面：(1) 我們設計了一個輕量級跳躍模型來提供高保真細節保留，進一步提升預測準確度。(2) 我們採用跨場域學習方法來大幅提升資料預測準確度，進而大幅提升壓縮比。(3) 我們開發了一種錯誤控制方法來根據使用者需求提供嚴格的錯誤界限。我們在多個真實世界 HPC 應用程式資料集上評估 NeurLZ，包括 Nyx (宇宙學模擬)、Miranda (大型湍流模擬) 和 Hurricane (天氣模擬)。實驗證明，與現有的最佳方法相比，我們的架構在相同的資料失真下，位元率相對減少多達 90%。
+摘要：大規模的科學模擬會產生大量的資料集，對儲存和 I/O 造成嚴峻的挑戰。雖然傳統的有損壓縮技術可以提升效能，但要在壓縮率、資料品質和處理量之間取得平衡仍很困難。為了解決這個問題，我們提出了 NeurLZ，一個創新的基於跨領域學習和錯誤控制的科學資料壓縮架構。透過整合跳過 DNN 模型、跨領域學習和錯誤控制，我們的架構旨在大幅提升有損壓縮效能。我們的貢獻有三方面：(1) 我們設計了一個輕量級跳過模型來提供高保真細節保留，進一步提升預測準確度。(2) 我們採用跨領域學習方法來大幅提升資料預測準確度，進而大幅提升壓縮率。(3) 我們開發了一個錯誤控制方法來根據使用者需求提供嚴格的錯誤界限。我們在多個真實世界的 HPC 應用程式資料集上評估了 NeurLZ，包括 Nyx (宇宙學模擬)、Miranda (大型湍流模擬) 和 Hurricane (天氣模擬)。實驗證明，與現有的最佳方法相比，我們的架構在相同的資料失真下，可將位元率相對降低多達 90%。
 
 ##### **Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models**
 2409.05771v1 by Emily Cheng, Richard J. Antonello
@@ -676,7 +676,7 @@ foundation for further research on generating explanations for DDI predictions.
 摘要：預測未知的藥物交互作用 (DDI) 對於改善藥物安全至關重要。先前在 DDI 預測方面所做的努力通常集中於二元分類或預測 DDI 類別，而缺乏能夠增強這些預測的可信度的解釋性見解。在這項工作中，我們建議為 DDI 預測產生自然語言解釋，使模型能夠同時揭示藥效學和藥物動力學機制，並進行預測。為此，我們從 DDInter 和 DrugBank 收集了 DDI 解釋，並開發了各種模型進行廣泛的實驗和分析。我們的模型可以為已知藥物之間未知的 DDI 提供準確的解釋。本文為 DDI 預測領域貢獻了新的工具，並為進一步研究 DDI 預測的解釋生成奠定了堅實的基礎。
 
 ##### **MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**
-2409.05591v1 by Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou
+2409.05591v2 by Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou
 
 Retrieval-Augmented Generation (RAG) leverages retrieval tools to access
 external databases, thereby enhancing the generation quality of large language
@@ -685,27 +685,20 @@ methods are constrained inherently, as they can only perform relevance matching
 between explicitly stated queries and well-formed knowledge, but unable to
 handle tasks involving ambiguous information needs or unstructured knowledge.
 Consequently, existing RAG systems are primarily effective for straightforward
-question-answering tasks. In this work, we propose \textbf{MemoRAG}, a novel
+question-answering tasks. In this work, we propose MemoRAG, a novel
 retrieval-augmented generation paradigm empowered by long-term memory. MemoRAG
-adopts a dual-system architecture. On the one hand, it employs a \textit{light
-but long-range} LLM to form the global memory of database. Once a task is
-presented, it generates draft answers, cluing the retrieval tools to locate
-useful information within the database. On the other hand, it leverages an
-\textit{expensive but expressive} LLM, which generates the ultimate answer
-based on the retrieved information. Building on this general framework, we
-further optimize MemoRAG's performance by enhancing its cluing mechanism and
-memorization capacity. In our experiment, MemoRAG achieves superior performance
-across a variety of evaluation tasks, including both complex ones where
-conventional RAG fails and straightforward ones where RAG is commonly applied.
+adopts a dual-system architecture. On the one hand, it employs a light but
+long-range LLM to form the global memory of database. Once a task is presented,
+it generates draft answers, cluing the retrieval tools to locate useful
+information within the database. On the other hand, it leverages an expensive
+but expressive LLM, which generates the ultimate answer based on the retrieved
+information. Building on this general framework, we further optimize MemoRAG's
+performance by enhancing its cluing mechanism and memorization capacity. In our
+experiment, MemoRAG achieves superior performance across a variety of
+evaluation tasks, including both complex ones where conventional RAG fails and
+straightforward ones where RAG is commonly applied.
 
-摘要：撷取增强式生成 (RAG) 运用撷取工具存取
-外部资料库，藉由最佳化语境，进而提升大型语言
-模型 (LLM) 的生成品质。然而，现有的撷取
-方法本质上受到限制，因为它们只能在明确陈述的查询和完善的知识之间执行相关性比对，但无法
-处理涉及模棱两可的信息需求或非结构化知识的任务。
-因此，现有的 RAG 系统主要适用于直接的
-问答任务。在这项工作中，我们提出 \textbf{MemoRAG}，一种由长期记忆赋能的新型撷取增强式生成范例。MemoRAG
-采用双系统架构。一方面，它采用一个\textit{轻量但远距离} LLM 来形成资料库的全局记忆。一旦任务被提出，它会生成答案草稿，提示撷取工具在资料库中找到有用的信息。另一方面，它利用一个\textit{昂贵但具有表现力}的 LLM，根据撷取的信息生成最终答案。在此一般架构的基础上，我们进一步优化 MemoRAG 的效能，藉由增强其提示机制和记忆容量。在我们的实验中，MemoRAG 在各种评估任务中达到卓越的效能，包括传统 RAG 无法处理的复杂任务，以及 RAG 常被应用的直接任务。
+摘要：檢索增強生成 (RAG) 透過檢索工具存取外部資料庫，藉由最佳化內容來提升大型語言模型 (LLM) 的生成品質。然而，現有的檢索方法本質上受到限制，因為它們只能在明確陳述的查詢和完善的知識之間執行相關性比對，但無法處理涉及模稜兩可資訊需求或非結構化知識的任務。因此，現有的 RAG 系統主要適用於直接的問答任務。在這項工作中，我們提出 MemoRAG，一種由長期記憶增強的創新檢索增強生成範例。MemoRAG 採用雙系統架構。一方面，它採用輕量但長程的 LLM 來形成資料庫的全局記憶體。一旦提出任務，它就會產生草稿答案，提示檢索工具在資料庫中找出有用的資訊。另一方面，它利用昂貴但具表現力的 LLM，根據檢索到的資訊產生最終答案。在此一般架構的基礎上，我們進一步透過增強其提示機制和記憶容量來最佳化 MemoRAG 的效能。在我們的實驗中，MemoRAG 在各種評估任務中都獲得優異的效能，包括傳統 RAG 無法處理的複雜任務和 RAG 常應用的直接任務。
 
 ##### **Latent 3D Brain MRI Counterfactual**
 2409.05585v1 by Wei Peng, Tian Xia, Fabio De Sousa Ribeiro, Tomas Bosschieter, Ehsan Adeli, Qingyu Zhao, Ben Glocker, Kilian M. Pohl
@@ -957,7 +950,7 @@ viable alternatives in the biomedical domain.
 摘要：大型語言模型的品質和能力目前無法使用自動化基準評估來完全評估。相反，需要使用擴展自然語言生成文獻中傳統定性技術的人類評估。一個最近的最佳實務是使用 A/B 測試框架，該框架會擷取人類評估者對特定模型的偏好。在本文中，我們描述了專注於生物醫學領域（健康、生物學、化學/藥理學）的人類評估實驗，該實驗在 Elsevier 進行。其中，一個大型但並非龐大（8.8B 參數）僅解碼器基礎Transformer在相對較小（135B 令牌）但經過高度策展的 Elsevier 資料集上訓練，與 OpenAI 的 GPT-3.5-turbo 和 Meta 的基礎 7B 參數 Llama 2 模型進行比較，針對多個標準。結果表明——即使 IRR 分數普遍較低——偏好 GPT-3.5-turbo，因此偏好具備對話能力、非常龐大且在非常龐大的資料集上訓練的模型。但同時，表明對於較小規模的模型，在較小但經過良好策展的訓練集上訓練，有可能在生物醫學領域產生可行的替代方案。
 
 ##### **CRADLE-VAE: Enhancing Single-Cell Gene Perturbation Modeling with Counterfactual Reasoning-based Artifact Disentanglement**
-2409.05484v1 by Seungheun Baek, Soyon Park, Yan Ting Chok, Junhyun Lee, Jueon Park, Mogan Gim, Jaewoo Kang
+2409.05484v2 by Seungheun Baek, Soyon Park, Yan Ting Chok, Junhyun Lee, Jueon Park, Mogan Gim, Jaewoo Kang
 
 Predicting cellular responses to various perturbations is a critical focus in
 drug discovery and personalized therapeutics, with deep learning models playing
@@ -976,7 +969,7 @@ effect estimation performance but also generative quality as well. The
 CRADLE-VAE codebase is publicly available at
 https://github.com/dmis-lab/CRADLE-VAE.
 
-摘要：預測細胞對各種擾動的反應在藥物發現和個人化治療中是一個重要的重點，深度學習模型在這個努力中扮演著重要的角色。單細胞數據集包含可能阻礙此類模型可預測性的技術性人工製品，這對這個領域高度重視的品質控管議題構成挑戰。為了解決這個問題，我們提出 CRADLE-VAE，一個專為單細胞基因擾動建模量身打造的因果生成架構，並透過反事實推理為基礎的人工製品去糾纏而增強。在整個訓練過程中，CRADLE-VAE 對單細胞數據集中技術性人工製品和擾動效應的潛在分佈進行建模。它採用反事實推理，透過調整潛在基礎空間來有效地去糾纏這些人工製品，並學習強健特徵，以生成品質更好的細胞反應數據。實驗結果證明，這種方法不僅改善了治療效果估計的效能，也改善了生成品質。CRADLE-VAE 碼庫已公開於 https://github.com/dmis-lab/CRADLE-VAE。
+摘要：預測細胞對各種擾動的反應是藥物發現和個人化治療中的關鍵重點，深度學習模型在這個努力中扮演重要的角色。單細胞資料集包含技術性的人工製品，可能會阻礙此類模型的可預測性，這會造成這個領域高度重視的品質控管問題。為了解決這個問題，我們提出 CRADLE-VAE，一種針對單細胞基因擾動建模量身打造的因果生成架構，並增強了基於反事實推理的人工製品去糾纏。在整個訓練過程中，CRADLE-VAE 對單細胞資料集中存在的技術性人工製品和擾動效應的潛在分佈進行建模。它採用反事實推理，透過調節潛在基礎空間，有效地去糾纏此類人工製品，並學習健全特徵，以生成品質提升的細胞反應資料。實驗結果證明，這種方法不僅改善了治療效果估計效能，也改善了生成品質。CRADLE-VAE 程式碼庫已公開於 https://github.com/dmis-lab/CRADLE-VAE。
 
 ##### **Representational Analysis of Binding in Large Language Models**
 2409.05448v1 by Qin Dai, Benjamin Heinzerling, Kentaro Inui
@@ -1193,7 +1186,7 @@ required.
 摘要：這項研究探討用 Mamba 取代視覺語言模型 (VLM) 中的 Transformer，Mamba 是一種最近的結構化狀態空間模型 (SSM)，在序列建模中展現出極佳的效能。我們在受控條件下測試高達 3B 參數的模型，顯示基於 Mamba 的 VLM 在標題、問答和閱讀理解方面都優於基於 Transformer 的 VLM。然而，我們發現 Transformer 在視覺基礎上獲得更好的效能，而且效能差距會隨著規模擴大而擴大。我們探討了兩個假設來解釋這種現象：1) 與任務無關的視覺編碼對隱藏狀態更新的影響，以及 2) 從語境多模態檢索的角度執行視覺基礎的困難。我們的結果表明，任務感知編碼在基礎上產生最小的效能提升，然而，Transformer 在語境多模態檢索方面明顯優於 Mamba。總體而言，Mamba 在正確輸出依賴於影像摘要的任務上展現出極佳的效能，但當需要從語境中檢索明確資訊時，就會遇到困難。
 
 ##### **Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**
-2409.05385v1 by Hong Xingyun Hong, Shao Yan Shao, Wang Zhilin Wang, Duan Manni Duan, Jin Xiongnan
+2409.05385v2 by Hong Xingyun Hong, Shao Yan Shao, Wang Zhilin Wang, Duan Manni Duan, Jin Xiongnan
 
 The development of LLMs has greatly enhanced the intelligence and fluency of
 question answering, while the emergence of retrieval enhancement has enabled
@@ -1211,7 +1204,7 @@ our approach, the results are evaluated by GPT-4, which indicates that our
 proposed methods improve model robustness while strengthening the model's
 discrimination capability.
 
-摘要：大語言模型的發展大幅提升了問答的智能化和流暢度，而檢索增強的出現讓模型能更好地利用外部資訊。然而，檢索資訊中出現的雜訊和錯誤對大語言模型的穩健性構成挑戰。在這項工作中，為了評估模型在多種干擾下的表現，我們首先根據機器閱讀理解資料集建構一個資料集，模擬各種情境，包括關鍵資訊缺失、雜訊和衝突。為了解決雜訊外部資訊導致模型準確度下降的問題，我們提出一個基於資料擴充的微調方法，以增強大語言模型對雜訊的穩健性。此外，利用對比學習方法來保持模型對外部資訊的辨別能力。我們已針對現有的 LLM 和我們的做法進行實驗，結果由 GPT-4 評估，這表明我們提出的方法在增強模型的辨別能力的同時，也改善了模型的穩健性。
+摘要：LLM 的發展大幅提升了問答的智慧與流暢度，而檢索增強的出現讓模型能更有效利用外部資訊。然而，檢索資訊中的雜訊和錯誤對 LLM 的穩健性構成挑戰。在這項工作中，為了評估模型在多重干擾下的效能，我們首先根據機器閱讀理解資料集建構一個模擬各種情境的資料集，包括關鍵資訊缺失、雜訊和衝突。為了解決雜訊外部資訊導致模型準確度下降的問題，我們提出一個基於資料擴增的微調方法，以增強 LLM 對雜訊的穩健性。此外，對比學習方法用於保留模型對外部資訊的辨別能力。我們對現有的 LLM 和我們的方法進行了實驗，結果由 GPT-4 評估，這表明我們提出的方法在增強模型辨別能力的同時也提高了模型的穩健性。
 
 ##### **Look One and More: Distilling Hybrid Order Relational Knowledge for Cross-Resolution Image Recognition**
 2409.05384v1 by Shiming Ge, Kangkai Zhang, Haolin Liu, Yingying Hua, Shengwei Zhao, Xin Jin, Hao Wen
@@ -2148,7 +2141,7 @@ MER-SEMI track.
 摘要：在本文中，我们针对 MER2024 中的半监督学习轨道 (MER-SEMI) 提出了一种解决方案。首先，为了提升特征提取器在情感分类任务中的性能，我们使用标记数据对视频和文本特征提取器（具体来说是 CLIP-vit-large 和 Baichuan-13B）进行了微调。这种方法有效地保留了视频中传达的原始情感信息。其次，我们提出了一种音频引导 Transformer (AGT) 融合机制，它利用了 Hubert-large 的鲁棒性，在融合通道间和通道内信息方面显示出卓越的有效性。第三，为了提高模型的准确性，我们通过使用高置信度未标记数据作为伪标签，迭代地应用自监督学习。最后，通过黑盒探测，我们发现训练集和测试集之间存在数据分布不平衡的问题。因此，我们采用基于先验知识的投票机制。结果证明了我们策略的有效性，最终让我们在 MER-SEMI 轨道中获得了第三名。
 
 ##### **Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector**
-2409.05005v1 by Hongbo Wang, Junyu Lu, Yan Han, Liang Yang, Hongfei Lin
+2409.05005v2 by Hongbo Wang, Junyu Lu, Yan Han, Kai Ma, Liang Yang, Hongfei Lin
 
 Patronizing and Condescending Language (PCL) is a form of discriminatory
 toxic speech targeting vulnerable groups, threatening both online and offline
@@ -2165,7 +2158,7 @@ complementarity in this challenging task. Our work makes an important
 contribution to advancing microaggression detection within the domain of toxic
 speech.
 
-摘要：**輕視和傲慢的語言 (PCL)** 是一種針對弱勢群體的歧視性有毒言論，威脅著線上和線下的安全。雖然有毒言論的研究主要集中在明顯的毒性，例如仇恨言論，但以 PCL 形式出現的微攻擊仍然未被充分探討。此外，支配群體對弱勢群體的歧視性面部表情和態度可能比言語暗示更具影響力，但這些框架特徵卻經常被忽視。在本文中，我們介紹了 PCLMM 資料集，這是第一個中文 PCL 多模態資料集，包含來自 Bilibili 的 715 個註解影片，以及高品質的 PCL 面部框架跨度。我們還提出了 MultiPCL 偵測器，其中包含一個用於 PCL 識別的面部表情偵測模組，證明了在這個具有挑戰性的任務中模態互補的有效性。我們的研究為在有毒言論領域中推進微攻擊偵測做出了重要的貢獻。
+摘要：保護和傲慢的語言 (PCL) 是一種針對弱勢群體的歧視性有毒言論形式，威脅線上和線下安全。雖然有毒言論研究主要集中在公開的毒性，例如仇恨言論，但 PCL 形式的微攻擊仍然未被充分探討。此外，主導群體對弱勢群體的歧視性面部表情和態度可能比言語暗示更具影響力，但這些框架特徵通常被忽視。在本文中，我們介紹了 PCLMM 數據集，這是第一個用於 PCL 的中文多模態數據集，包含來自 Bilibili 的 715 個帶註釋影片，以及高品質的 PCL 面部幀跨度。我們還提出了 MultiPCL 偵測器，它具有人臉表情偵測模組，用於 PCL 識別，證明了模態互補性在這個具有挑戰性的任務中的有效性。我們的研究對在有毒言論領域內推進微攻擊偵測做出了重要貢獻。
 
 ##### **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**
 2409.05001v1 by Huan Zhang, Wei Cheng, Yuhan Wu, Wei Hu

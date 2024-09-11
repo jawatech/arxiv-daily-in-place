@@ -66,7 +66,7 @@
 |**2024-08-16**|**Handling abort commands for household kitchen robots**|Darius Has et.al.|[2408.14480v1](http://arxiv.org/abs/2408.14480v1)|null|
 |**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535v1](http://arxiv.org/abs/2408.08535v1)|null|
 |**2024-08-15**|**VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool**|Chia-Tung Ho et.al.|[2408.08927v1](http://arxiv.org/abs/2408.08927v1)|null|
-|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921v1](http://arxiv.org/abs/2408.08921v1)|null|
+|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921v2](http://arxiv.org/abs/2408.08921v2)|null|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v2](http://arxiv.org/abs/2408.07611v2)|null|
@@ -1671,7 +1671,7 @@ the state-of-the-art methods by 33.9% on the VerilogEval-Human v2 benchmark.
 摘要：由於現代整合電路 (IC) 的複雜性日益增加，自動化硬體設計可以防止工程過程中出現大量的人為錯誤，並減少錯誤。Verilog 是一種流行的硬體描述語言，用於設計和建模數位系統；因此，Verilog 產生是新興的研究領域之一，旨在促進設計過程。在這項工作中，我們提出 VerilogCoder，一個由多個人工智慧 (AI) 代理組成的系統，用於 Verilog 程式碼產生，以自主撰寫 Verilog 程式碼並使用協作式 Verilog 工具（例如，語法檢查器、模擬器和波形追蹤器）修復語法和功能錯誤。首先，我們提出一個任務規劃器，它利用新穎的任務和電路關係圖擷取方法，根據模組描述建構一個整體計畫。為了除錯和修復功能錯誤，我們開發了一個新穎且高效的基於抽象語法樹 (AST) 的波形追蹤工具，它整合在自主 Verilog 完成流程中。所提出的方法成功產生了 94.2% 語法和功能正確的 Verilog 程式碼，在 VerilogEval-Human v2 基準上比最先進的方法高出 33.9%。
 
 ##### **Graph Retrieval-Augmented Generation: A Survey**
-2408.08921v1 by Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, Siliang Tang
+2408.08921v2 by Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, Siliang Tang
 
 Recently, Retrieval-Augmented Generation (RAG) has achieved remarkable
 success in addressing the challenges of Large Language Models (LLMs) without
@@ -1690,9 +1690,10 @@ Generation. We then outline the core technologies and training methods at each
 stage. Additionally, we examine downstream tasks, application domains,
 evaluation methodologies, and industrial use cases of GraphRAG. Finally, we
 explore future research directions to inspire further inquiries and advance
-progress in the field.
+progress in the field. In order to track recent progress in this field, we set
+up a repository at \url{https://github.com/pengboci/GraphRAG-Survey}.
 
-摘要：最近，检索增强生成（RAG）在解决大型语言模型（LLM）的挑战方面取得了显着成功，而无需重新训练。通过引用外部知识库，RAG 改进了 LLM 输出，有效地减轻了“幻觉”、缺乏特定领域知识和信息过时等问题。然而，数据库中不同实体之间关系的复杂结构给 RAG 系统带来了挑战。作为回应，GraphRAG 利用实体之间的结构信息来实现更精确和全面的检索，捕获关系知识并促进更准确、更具上下文感知的响应。鉴于 GraphRAG 的新颖性和潜力，系统地审查当前技术势在必行。本文提供了 GraphRAG 方法的第一个全面概述。我们形式化了 GraphRAG 工作流，包括基于图的索引、图指导检索和图增强生成。然后，我们概述了每个阶段的核心技术和训练方法。此外，我们还研究了 GraphRAG 的下游任务、应用领域、评估方法和工业用例。最后，我们探索未来的研究方向，以激发进一步的探究并推动该领域的进步。
+摘要：最近，检索增强生成 (RAG) 在解决大型语言模型 (LLM) 的挑战方面取得了显着成功，而无需重新训练。通过参考外部知识库，RAG 改进了 LLM 的输出，有效地减轻了诸如「幻觉」、缺乏特定领域知识和信息过时等问题。然而，数据库中不同实体之间关系的复杂结构给 RAG 系统带来了挑战。作为回应，GraphRAG 利用实体之间的结构信息来实现更精确和全面的检索，捕获关系知识并促进更准确、更具上下文感知的响应。鉴于 GraphRAG 的新颖性和潜力，对当前技术进行系统审查势在必行。本文提供了 GraphRAG 方法的第一个全面概述。我们形式化了 GraphRAG 工作流，包括基于图的索引、图引导的检索和图增强的生成。然后，我们在每个阶段概述了核心技术和训练方法。此外，我们还研究了 GraphRAG 的下游任务、应用领域、评估方法和工业用例。最后，我们探讨了未来的研究方向，以激发进一步的探究并推进该领域的进展。为了追踪该领域的最新进展，我们在 \url{https://github.com/pengboci/GraphRAG-Survey} 上建立了一个存储库。
 
 ##### **Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**
 2408.07852v1 by Jiri Hron, Laura Culp, Gamaleldin Elsayed, Rosanne Liu, Ben Adlam, Maxwell Bileschi, Bernd Bohnet, JD Co-Reyes, Noah Fiedel, C. Daniel Freeman, Izzeddin Gur, Kathleen Kenealy, Jaehoon Lee, Peter J. Liu, Gaurav Mishra, Igor Mordatch, Azade Nova, Roman Novak, Aaron Parisi, Jeffrey Pennington, Alex Rizkowsky, Isabelle Simpson, Hanie Sedghi, Jascha Sohl-dickstein, Kevin Swersky, Sharad Vikram, Tris Warkentin, Lechao Xiao, Kelvin Xu, Jasper Snoek, Simon Kornblith

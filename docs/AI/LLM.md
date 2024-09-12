@@ -9,7 +9,7 @@
 |**2024-09-10**|**Liability and Insurance for Catastrophic Losses: the Nuclear Power Precedent and Lessons for AI**|Cristian Trout et.al.|[2409.06673v1](http://arxiv.org/abs/2409.06673v1)|null|
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666v1](http://arxiv.org/abs/2409.06666v1)|[link](https://github.com/ictnlp/llama-omni)|
 |**2024-09-10**|**Sortformer: Seamless Integration of Speaker Diarization and ASR by Bridging Timestamps and Tokens**|Taejin Park et.al.|[2409.06656v1](http://arxiv.org/abs/2409.06656v1)|null|
-|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v1](http://arxiv.org/abs/2409.06644v1)|null|
+|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v2](http://arxiv.org/abs/2409.06644v2)|null|
 |**2024-09-10**|**TeXBLEU: Automatic Metric for Evaluate LaTeX Format**|Kyudan Jung et.al.|[2409.06639v1](http://arxiv.org/abs/2409.06639v1)|[link](https://github.com/kyudan1/texbleu)|
 |**2024-09-10**|**MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders**|Wenyu Zhang et.al.|[2409.06635v1](http://arxiv.org/abs/2409.06635v1)|null|
 |**2024-09-10**|**A Practice of Post-Training on Llama-3 70B with Optimal Selection of Additional Language Mixture Ratio**|Ningyuan Xi et.al.|[2409.06624v1](http://arxiv.org/abs/2409.06624v1)|null|
@@ -51,7 +51,7 @@
 |**2024-09-10**|**Enhancing Long Video Understanding via Hierarchical Event-Based Memory**|Dingxin Cheng et.al.|[2409.06299v1](http://arxiv.org/abs/2409.06299v1)|null|
 |**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297v1](http://arxiv.org/abs/2409.06297v1)|null|
 |**2024-09-10**|**Catch Me if You Can: Detecting Unauthorized Data Use in Deep Learning Models**|Zitao Chen et.al.|[2409.06280v1](http://arxiv.org/abs/2409.06280v1)|null|
-|**2024-09-10**|**Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models**|Yao Shu et.al.|[2409.06277v1](http://arxiv.org/abs/2409.06277v1)|[link](https://github.com/allen4747/Ferret)|
+|**2024-09-10**|**Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models**|Yao Shu et.al.|[2409.06277v2](http://arxiv.org/abs/2409.06277v2)|[link](https://github.com/allen4747/Ferret)|
 |**2024-09-10**|**Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking**|Jihyun Lee et.al.|[2409.06263v1](http://arxiv.org/abs/2409.06263v1)|null|
 |**2024-09-10**|**DiPT: Enhancing LLM reasoning through diversified perspective-taking**|Hoang Anh Just et.al.|[2409.06241v1](http://arxiv.org/abs/2409.06241v1)|null|
 |**2024-09-10**|**NLP-Powered Repository and Search Engine for Academic Papers: A Case Study on Cyber Risk Literature with CyLit**|Linfeng Zhang et.al.|[2409.06226v1](http://arxiv.org/abs/2409.06226v1)|null|
@@ -264,7 +264,7 @@ framework
 摘要：我們提出 Sortformer，這是一個用於說話者分組的新型神經模型，它與現有的端到端分組模型相比，採用了非常規的目標進行訓練。說話者分組中的排列問題長期以來一直被認為是一個關鍵挑戰。大多數先前的端到端分組系統採用排列不變損失 (PIL)，它針對產生最低錯誤的排列進行優化。相比之下，我們引入了分類損失，它使分組模型能夠自主解決排列，無論是否使用 PIL。我們證明了將分類損失和 PIL 結合起來，可以實現與僅使用 PIL 訓練的最新端到端分組模型相媲美的效能。至關重要的是，我們提出了一個簡化的多說話者 ASR 架構，它利用 Sortformer 作為說話者監督模型，使用正弦核函數在 ASR 編碼器狀態中嵌入說話者標籤估計。這種方法通過分類目標解決了說話者排列問題，有效地橋接了說話者標籤時間戳和說話者標記。在我們的實驗中，我們展示了通過適配器技術增強的建議多說話者 ASR 架構通過適配器技術改善了效能。程式碼和訓練好的模型將通過 NVIDIA NeMo 框架公開。
 
 ##### **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**
-2409.06644v1 by Danli Shi, Weiyi Zhang, Jiancheng Yang, Siyu Huang, Xiaolan Chen, Mayinuer Yusufu, Kai Jin, Shan Lin, Shunming Liu, Qing Zhang, Mingguang He
+2409.06644v2 by Danli Shi, Weiyi Zhang, Jiancheng Yang, Siyu Huang, Xiaolan Chen, Mayinuer Yusufu, Kai Jin, Shan Lin, Shunming Liu, Qing Zhang, Mingguang He
 
 Early detection of eye diseases like glaucoma, macular degeneration, and
 diabetic retinopathy is crucial for preventing vision loss. While artificial
@@ -289,7 +289,7 @@ retrieval. EyeCLIP represents a significant advancement over previous methods,
 especially showcasing few-shot, even zero-shot capabilities in real-world
 long-tail scenarios.
 
-摘要：早期偵測青光眼、黃斑部病變和糖尿病視網膜病變等眼疾對於預防視力喪失至關重要。儘管人工智慧 (AI) 基礎模型對於解決這些挑戰具有重大意義，但現有的眼科基礎模型主要集中在單一模式上，而診斷眼疾需要多種模式。一個至關重要但經常被忽略的方面是利用同一患者在各種模式中收集多視角資訊。此外，由於眼科疾病的長尾性質，標準的完全監督或非監督學習方法常常難以應付。因此，整合臨床文字以涵蓋更廣泛的疾病非常重要。我們提出 EyeCLIP，這是一個視覺語言基礎模型，使用超過 277 萬張具有部分文字資料的多模式眼科影像開發。為了充分利用大量的多模式未標記和標記資料，我們引入了一種預訓練策略，結合自我監督重建、多模式影像對比學習和影像文字對比學習，以學習多種模式的共享表示。透過使用 14 個基準資料集進行評估，EyeCLIP 可以轉移到廣泛的下游任務中，涉及眼部和全身疾病，在疾病分類、視覺問題解答和跨模式檢索中達到最先進的效能。EyeCLIP 代表了對先前方法的重大進步，特別是在現實世界長尾場景中展示了少量甚至零次學習能力。
+摘要：早期偵測青光眼、黃斑部病變和糖尿病視網膜病變等眼疾對於預防視力喪失至關重要。儘管人工智慧 (AI) 基礎模型在應對這些挑戰方面極具前景，但現有的眼科基礎模型主要關注於單一模式，而診斷眼疾需要多種模式。一個重要但經常被忽視的方面是利用同一患者不同模式的多視圖資訊。此外，由於眼科疾病的長尾性質，標準的全監督或無監督學習方法通常難以應付。因此，整合臨床文本以涵蓋更廣泛的疾病譜系至關重要。我們提出 EyeCLIP，這是一個視覺語言基礎模型，使用超過 277 萬張具有部分文字資料的多模式眼科影像開發而成。為了充分利用大量的多模式未標記和標記資料，我們引入了一種預訓練策略，結合了自我監督重建、多模式影像對比學習和影像文字對比學習，以學習多種模式的共享表徵。透過使用 14 個基準資料集進行評估，EyeCLIP 可以轉移到涉及眼部和全身疾病的廣泛下游任務，在疾病分類、視覺問題解答和跨模式檢索中實現最先進的效能。EyeCLIP 代表了對先前方法的重大進展，特別是在現實世界長尾場景中展示了小樣本，甚至零樣本的能力。
 
 ##### **TeXBLEU: Automatic Metric for Evaluate LaTeX Format**
 2409.06639v1 by Kyudan Jung, Nam-Joon Kim, Hyongon Ryu, Sieun Hyeon, Seung-jun Lee, Hyeok-jae Lee
@@ -1285,7 +1285,7 @@ classes of countermeasures.
 總體而言，MembershipTracker 只需要使用者標記一小部分資料（相對於訓練集，比例為 0.005% 到 0.1%），它讓使用者能夠可靠地偵測到他們的資料被未經授權使用（平均 0% FPR@100% TPR）。我們展示了 MembershipTracker 在各種設定中都非常有效，包括在全尺寸 ImageNet-1k 資料集上進行產業規模的訓練。最後，我們在多種對策類別下評估了 MembershipTracker。
 
 ##### **Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models**
-2409.06277v1 by Yao Shu, Wenyang Hu, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu
+2409.06277v2 by Yao Shu, Wenyang Hu, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu
 
 Large Language Models (LLMs) have become indispensable in numerous real-world
 applications. Unfortunately, fine-tuning these models at scale, especially in
@@ -1309,7 +1309,7 @@ high computational efficiency, reduced communication overhead, and fast
 convergence, all while maintaining competitive model accuracy. Our
 implementation is available at https://github.com/allen4747/Ferret.
 
-摘要：大型語言模型 (LLM) 已在眾多真實世界的應用中變得不可或缺。不幸的是，要大規模微調這些模型，特別是在資料隱私和通訊效率至關重要的聯邦式設定中，會帶來重大挑戰。現有方法通常訴諸於參數有效微調 (PEFT) 來減輕通訊負擔，但這通常會以模型準確度為代價。為了解決這些限制，我們提出大規模 LLM 的聯邦式全參數調整 (Ferret)，這是第一個使用共享隨機性的第一階方法，可以在分散式資料來源中進行 LLM 的可擴充全參數調整，同時保持有競爭力的模型準確度。Ferret 透過三個面向來達成此目標：(1) 它採用廣泛應用的第一階方法進行有效率的局部更新；(2) 它將這些更新投射到低維度空間，以大幅降低通訊負擔；(3) 它從這個低維度空間使用共享隨機性重建局部更新，以促進有效的全參數全局聚合，確保快速收斂和有競爭力的最終效能。我們嚴謹的理論分析和見解，以及廣泛的實驗，顯示 Ferret 透過達成高運算效率、降低通訊負擔和快速收斂，大幅提升現有聯邦式全參數調整方法的可擴充性，同時保持有競爭力的模型準確度。我們的實作可以在 https://github.com/allen4747/Ferret 取得。
+摘要：大型語言模型 (LLM) 已成為許多真實世界應用中不可或缺的一部分。不幸的是，微調這些模型的規模，尤其是在聯邦設置中，資料隱私和通訊效率至關重要，這提出了重大的挑戰。現有方法通常訴諸於參數高效微調 (PEFT) 來減輕通訊負擔，但這通常是以模型準確性為代價。為了解決這些限制，我們提出了一種針對 LLM 的聯邦全參數調整規模 (Ferret)，這是一種具有共享隨機性的第一階方法，能夠在分散式資料來源中對 LLM 進行可擴充的全參數調整，同時保持競爭力的模型準確性。Ferret 通過三個方面實現了這一點：(1) 它採用廣泛應用的第一階方法進行高效的本地更新；(2) 它將這些更新投影到低維空間中，以顯著減少通訊負擔；(3) 它使用共享隨機性從這個低維空間重建本地更新，以促進有效的全參數全局聚合，確保快速收斂和有競爭力的最終效能。我們嚴謹的理論分析和見解以及廣泛的實驗表明，Ferret 顯著提高了現有聯邦全參數調整方法的可擴充性，方法是實現高計算效率、降低通訊負擔和快速收斂，同時保持有競爭力的模型準確性。我們的實作可在 https://github.com/allen4747/Ferret 取得。
 
 ##### **Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking**
 2409.06263v1 by Jihyun Lee, Solee Im, Wonjun Lee, Gary Geunbae Lee

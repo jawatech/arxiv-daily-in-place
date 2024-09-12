@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-10**|**Insuring Uninsurable Risks from AI: The State as Insurer of Last Resort**|Cristian Trout et.al.|[2409.06672v1](http://arxiv.org/abs/2409.06672v1)|null|
-|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v1](http://arxiv.org/abs/2409.06644v1)|null|
+|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v2](http://arxiv.org/abs/2409.06644v2)|null|
 |**2024-09-10**|**Developing the Temporal Graph Convolutional Neural Network Model to Predict Hip Replacement using Electronic Health Records**|Zoe Hancox et.al.|[2409.06585v1](http://arxiv.org/abs/2409.06585v1)|[link](https://github.com/zoehancox/sparse_tgcnn)|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351v1](http://arxiv.org/abs/2409.06351v1)|null|
 |**2024-09-10**|**Adaptive Transformer Modelling of Density Function for Nonparametric Survival Analysis**|Xin Zhang et.al.|[2409.06209v1](http://arxiv.org/abs/2409.06209v1)|null|
@@ -14,7 +14,7 @@
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592v1](http://arxiv.org/abs/2409.05592v1)|null|
 |**2024-09-09**|**Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**|Camilo Thorne et.al.|[2409.05486v1](http://arxiv.org/abs/2409.05486v1)|null|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
-|**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v1](http://arxiv.org/abs/2409.05292v1)|null|
+|**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v2](http://arxiv.org/abs/2409.05292v2)|null|
 |**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280v1](http://arxiv.org/abs/2409.05280v1)|[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)|
 |**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915v1](http://arxiv.org/abs/2409.04915v1)|null|
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744v1](http://arxiv.org/abs/2409.04744v1)|null|
@@ -127,7 +127,7 @@ signaling how much each is to be supplemented with public funds.
 摘要：許多專家相信 AI 系統遲早會造成無法承保的風險，包括生存風險。這會造成極端的無法追究責任問題：在發生此類災難時，幾乎沒有任何一方可以事後被追究責任。本文提出了一個創新的解決方案：政府提供的 AI 開發人員強制性補償計畫。該計畫使用風險定價的補償費用來誘使達到社會最適程度的照護。風險估計值是由調查專家（包括獲得補償的開發人員）來決定。貝氏真話血清機制被用來激勵誠實且努力的回應。與其他方法相比，這種方法可以說能更好地利用所有私人資訊，並向獲得補償的開發人員提供更明確的訊號，說明他們必須減輕哪些風險才能降低費用。建議將收取的費用用於資助安全研究開發人員所需的研究，並採用基金配對機制（二次方融資）來誘使提供這種公共財的最佳供應。在二次方融資下，安全研究計畫將競爭開發人員的私人捐款，並表示其中有多少將由公共資金補充。
 
 ##### **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**
-2409.06644v1 by Danli Shi, Weiyi Zhang, Jiancheng Yang, Siyu Huang, Xiaolan Chen, Mayinuer Yusufu, Kai Jin, Shan Lin, Shunming Liu, Qing Zhang, Mingguang He
+2409.06644v2 by Danli Shi, Weiyi Zhang, Jiancheng Yang, Siyu Huang, Xiaolan Chen, Mayinuer Yusufu, Kai Jin, Shan Lin, Shunming Liu, Qing Zhang, Mingguang He
 
 Early detection of eye diseases like glaucoma, macular degeneration, and
 diabetic retinopathy is crucial for preventing vision loss. While artificial
@@ -152,7 +152,7 @@ retrieval. EyeCLIP represents a significant advancement over previous methods,
 especially showcasing few-shot, even zero-shot capabilities in real-world
 long-tail scenarios.
 
-摘要：早期偵測青光眼、黃斑部病變和糖尿病視網膜病變等眼疾對於預防視力喪失至關重要。儘管人工智慧 (AI) 基礎模型對於解決這些挑戰具有重大意義，但現有的眼科基礎模型主要集中在單一模式上，而診斷眼疾需要多種模式。一個至關重要但經常被忽略的方面是利用同一患者在各種模式中收集多視角資訊。此外，由於眼科疾病的長尾性質，標準的完全監督或非監督學習方法常常難以應付。因此，整合臨床文字以涵蓋更廣泛的疾病非常重要。我們提出 EyeCLIP，這是一個視覺語言基礎模型，使用超過 277 萬張具有部分文字資料的多模式眼科影像開發。為了充分利用大量的多模式未標記和標記資料，我們引入了一種預訓練策略，結合自我監督重建、多模式影像對比學習和影像文字對比學習，以學習多種模式的共享表示。透過使用 14 個基準資料集進行評估，EyeCLIP 可以轉移到廣泛的下游任務中，涉及眼部和全身疾病，在疾病分類、視覺問題解答和跨模式檢索中達到最先進的效能。EyeCLIP 代表了對先前方法的重大進步，特別是在現實世界長尾場景中展示了少量甚至零次學習能力。
+摘要：早期偵測青光眼、黃斑部病變和糖尿病視網膜病變等眼疾對於預防視力喪失至關重要。儘管人工智慧 (AI) 基礎模型在應對這些挑戰方面極具前景，但現有的眼科基礎模型主要關注於單一模式，而診斷眼疾需要多種模式。一個重要但經常被忽視的方面是利用同一患者不同模式的多視圖資訊。此外，由於眼科疾病的長尾性質，標準的全監督或無監督學習方法通常難以應付。因此，整合臨床文本以涵蓋更廣泛的疾病譜系至關重要。我們提出 EyeCLIP，這是一個視覺語言基礎模型，使用超過 277 萬張具有部分文字資料的多模式眼科影像開發而成。為了充分利用大量的多模式未標記和標記資料，我們引入了一種預訓練策略，結合了自我監督重建、多模式影像對比學習和影像文字對比學習，以學習多種模式的共享表徵。透過使用 14 個基準資料集進行評估，EyeCLIP 可以轉移到涉及眼部和全身疾病的廣泛下游任務，在疾病分類、視覺問題解答和跨模式檢索中實現最先進的效能。EyeCLIP 代表了對先前方法的重大進展，特別是在現實世界長尾場景中展示了小樣本，甚至零樣本的能力。
 
 ##### **Developing the Temporal Graph Convolutional Neural Network Model to Predict Hip Replacement using Electronic Health Records**
 2409.06585v1 by Zoe Hancox, Sarah R. Kingsbury, Andrew Clegg, Philip G. Conaghan, Samuel D. Relton
@@ -387,7 +387,7 @@ approach demonstrates promising results on the MIMIC-CXR and IU-Xray datasets.
 摘要：<paragraph>利用大型語言模型 (LLM) 強大的功能，進行敘事生成、邏輯推理和常識知識整合，本研究深入探討利用 LLM 來增強自動化放射報告生成 (R2Gen)。儘管 LLM 擁有豐富的知識，但要有效觸發這些大型模型中與特定任務（如 R2Gen）相關的知識，是一個重要的研究挑戰。本文提出了 KARGEN，一個基於 LLM 的知識增強自動化放射報告生成框架。利用凍結的 LLM 來生成報告，該框架整合了一個知識圖譜，以解鎖 LLM 中與胸部疾病相關的知識，以增強生成報告的臨床效用。這是透過利用知識圖譜以設計的方式提取與疾病相關的特徵來實現的。由於放射報告包含正常和疾病相關的發現，因此提取的圖形增強疾病相關特徵與區域影像特徵整合，兼顧兩個方面。我們探索了兩種融合方法，以自動優先排序和選擇最相關的特徵。融合的特徵由 LLM 使用，以生成對疾病更敏感且品質更高的報告。我們的做法在 MIMIC-CXR 和 IU-Xray 資料集上展示了有希望的結果。</paragraph>
 
 ##### **Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**
-2409.05292v1 by Nirmalya Thakur
+2409.05292v2 by Nirmalya Thakur
 
 The world is currently experiencing an outbreak of mpox, which has been
 declared a Public Health Emergency of International Concern by WHO. No prior
@@ -415,7 +415,7 @@ did not contain hate and the remaining 4.25% of the posts contained hate.
 Finally, 72.05% of the posts did not indicate any anxiety/stress, and the
 remaining 27.95% of the posts represented some form of anxiety/stress.
 
-摘要：目前世界正經歷一場猴痘疫情，世界衛生組織已宣布這場疫情為國際關注的公共衛生緊急事件。目前尚無與社群媒體探勘相關的先前研究專注於建立一個關於猴痘疫情的 Instagram 貼文資料集。本論文提出的研究旨在解決這個研究缺口，並對這個領域做出兩項科學貢獻。首先，它提出一個多語言資料集，其中包含 60,127 則關於猴痘的 Instagram 貼文，這些貼文發布於 2022 年 7 月 23 日至 2024 年 9 月 5 日之間。此資料集可於 https://dx.doi.org/10.21227/7fvc-y093 取得，其中包含 52 種語言的關於猴痘的 Instagram 貼文。對於這些貼文中的每一則，貼文 ID、貼文說明、發布日期、語言和貼文的翻譯版本（翻譯成英文是使用 Google 翻譯 API 進行的）都會在資料集中以個別屬性的形式呈現。在建立此資料集後，執行了情緒分析、仇恨言論偵測，以及焦慮或壓力偵測。這個程序包含將每一則貼文分類為 (i) 一個情緒類別，例如恐懼、驚訝、快樂、悲傷、憤怒、厭惡或中立，(ii) 仇恨或非仇恨，以及 (iii) 偵測到焦慮/壓力或未偵測到焦慮/壓力。這些結果在資料集中以個別屬性的形式呈現。其次，本論文提出執行情緒分析、仇恨言論分析，以及焦慮或壓力分析的結果。觀察到情緒類別（恐懼、驚訝、快樂、悲傷、憤怒、厭惡和中立）的變化分別為 27.95%、2.57%、8.69%、5.94%、2.69%、1.53% 和 50.64%。在仇恨言論偵測方面，95.75% 的貼文不包含仇恨，其餘 4.25% 的貼文包含仇恨。最後，72.05% 的貼文沒有顯示任何焦慮/壓力，其餘 27.95% 的貼文則代表某種形式的焦慮/壓力。
+摘要：世界目前正在经历猴痘疫情，世界卫生组织已宣布猴痘疫情为国际关注的突发公共卫生事件。此前没有与社交媒体挖掘相关的研究集中于开发有关猴痘疫情的 Instagram 帖子的数据集。本文介绍的研究旨在解决这一研究空白，并对该领域做出两项科学贡献。首先，它提供了 60,127 条有关猴痘的 Instagram 帖子的多语言数据集，这些帖子发布于 2022 年 7 月 23 日至 2024 年 9 月 5 日之间。该数据集可在 https://dx.doi.org/10.21227/7fvc-y093 处获得，其中包含 52 种语言的有关猴痘的 Instagram 帖子。对于其中每篇帖子，帖子 ID、帖子描述、发布日期、语言和帖子的翻译版本（使用 Google 翻译 API 翻译成英文）作为单独的属性显示在数据集中。在开发此数据集后，进行了情感分析、仇恨言论检测以及焦虑或压力检测。此过程包括将每篇帖子分类为 (i) 情感类别之一，即恐惧、惊讶、快乐、悲伤、愤怒、厌恶或中立，(ii) 仇恨或非仇恨，以及 (iii) 检测到焦虑/压力或未检测到焦虑/压力。这些结果作为单独的属性显示在数据集中。其次，本文介绍了执行情感分析、仇恨言论分析和焦虑或压力分析的结果。观察到情感类别的变化——恐惧、惊讶、快乐、悲伤、愤怒、厌恶和中立分别为 27.95%、2.57%、8.69%、5.94%、2.69%、1.53% 和 50.64%。在仇恨言论检测方面，95.75% 的帖子不包含仇恨，其余 4.25% 的帖子包含仇恨。最后，72.05% 的帖子没有表现出任何焦虑/压力，其余 27.95% 的帖子代表某种形式的焦虑/压力。
 
 ##### **RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**
 2409.05280v1 by Quoc-Bao Nguyen-Le, Tuan-Hy Le, Anh-Triet Do, Quoc-Huy Trinh

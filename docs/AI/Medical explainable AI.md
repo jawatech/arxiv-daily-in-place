@@ -74,7 +74,7 @@
 |**2023-11-28**|**Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**|Jacob R. Epifano et.al.|[2311.17133v1](http://arxiv.org/abs/2311.17133v1)|null|
 |**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719v1](http://arxiv.org/abs/2311.15719v1)|[link](https://github.com/benkeel/vae_lung_lesion_bmvc)|
 |**2023-11-24**|**MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**|Nathan Blake et.al.|[2311.14471v1](http://arxiv.org/abs/2311.14471v1)|null|
-|**2023-11-21**|**Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**|Robert Gorwa et.al.|[2311.12573v2](http://arxiv.org/abs/2311.12573v2)|null|
+|**2023-11-21**|**Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**|Robert Gorwa et.al.|[2311.12573v3](http://arxiv.org/abs/2311.12573v3)|null|
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932v1](http://arxiv.org/abs/2311.11932v1)|null|
 |**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
 |**2023-11-03**|**Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**|Emma A. M. Stanley et.al.|[2311.02115v2](http://arxiv.org/abs/2311.02115v2)|[link](https://github.com/estanley16/simba)|
@@ -1966,7 +1966,7 @@ causal explainability-based rex, performs as well as \gradcam.
 摘要：現有的圖像分類器輸出解釋工具可分為依賴於模型內部存取權限的白盒，以及與模型無關的黑盒。隨著 AI 在醫療領域的使用增加，可解釋性工具的使用也隨之增加。現有醫學影像解釋的工作重點在於白盒工具，例如 gradcam。然而，切換到黑盒工具有明顯的優點，包括能夠與任何分類器一起使用，以及廣泛的黑盒工具可供選擇。在標準影像上，黑盒工具與白盒一樣精確。在本文中，我們比較了多種黑盒方法在腦癌 MRI 資料集上與 gradcam 的效能。我們證明大多數黑盒工具不適合解釋醫學影像分類，並詳細分析其缺點的原因。我們還表明一種黑盒工具，基於因果可解釋性的 rex，表現與 \gradcam 一樣好。
 
 ##### **Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**
-2311.12573v2 by Robert Gorwa, Michael Veale
+2311.12573v3 by Robert Gorwa, Michael Veale
 
 The AI development community is increasingly making use of hosting
 intermediaries such as Hugging Face provide easy access to user-uploaded models
@@ -1984,7 +1984,7 @@ policy development. While the policy challenge at hand is a considerable one,
 we conclude with some ideas as to how platforms could better mobilize resources
 to act as a careful, fair, and proportionate regulatory access point.
 
-摘要：AI 發展社群日益利用 Hugging Face 等託管中介，提供使用者上傳之模型與訓練資料的簡易取得管道。這些模型市集降低了數十萬名使用者的技術部署門檻，但卻可能被用於許多潛在有害且非法的用途。在本文中，我們說明了 AI 系統既可以「包含」內容，也可以作為開放式工具，這提出了迄今為止最棘手的平台治理挑戰之一。我們提供 Hugging Face、GitHub 和 Civitai 等三個說明性平台上數起事件的案例研究，以探討模型市集如何控管模型。根據此分析，我們概述了產業為回應控管需求而發展的重要（但仍有限）實務：授權、存取和使用限制、自動內容控管和開放式政策發展。儘管目前面臨的政策挑戰相當嚴峻，我們仍提出了一些想法，說明平台如何能更好地動員資源，作為謹慎、公平和適度的法規存取點。
+摘要：AI 開發社群日益利用 Hugging Face 等託管中介機構提供用戶上傳的模型和訓練資料的簡易存取權限。這些模型市集降低了數十萬名用戶的技術部署障礙，但可能會被用於許多潛在有害和非法的方式。在本文中，我們說明 AI 系統既可以「包含」內容，又可以作為開放式工具，這提出了迄今為止最棘手的平台治理挑戰之一。我們提供 Hugging Face、GitHub 和 Civitai 等三個說明性平台上數起事件的案例研究，以檢視模型市集如何審核模型。根據此分析，我們概述產業為回應審核需求而開發的重要（但仍有限）實務：授權、存取和使用限制、自動化內容審核和開放政策制定。雖然當前政策挑戰相當可觀，我們最後提出一些構想，說明平台如何能更好地動員資源，作為謹慎、公平且適度的法規存取點。
 
 ##### **Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**
 2311.11932v1 by Muta Tah Hira, Mohammad A. Razzaque, Mosharraf Sarker

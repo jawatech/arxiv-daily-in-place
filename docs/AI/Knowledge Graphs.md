@@ -2,7 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297v1](http://arxiv.org/abs/2409.06297v1)|null|
+|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368v1](http://arxiv.org/abs/2409.07368v1)|null|
+|**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088v1](http://arxiv.org/abs/2409.07088v1)|[link](https://github.com/daehuikim/WikiOFGraph)|
+|**2024-09-11**|**Automated Speaking Assessment of Conversation Tests with Novel Graph-based Modeling on Spoken Response Coherence**|Jiun-Ting Li et.al.|[2409.07064v1](http://arxiv.org/abs/2409.07064v1)|null|
+|**2024-09-11**|**FreeRide: Harvesting Bubbles in Pipeline Parallelism**|Jiashu Zhang et.al.|[2409.06941v1](http://arxiv.org/abs/2409.06941v1)|null|
+|**2024-09-10**|**Generative Hierarchical Materials Search**|Sherry Yang et.al.|[2409.06762v1](http://arxiv.org/abs/2409.06762v1)|null|
+|**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433v1](http://arxiv.org/abs/2409.06433v1)|null|
 |**2024-09-09**|**Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**|Dongyue Li et.al.|[2409.06091v1](http://arxiv.org/abs/2409.06091v1)|[link](https://github.com/virtuosoresearch/scalablemtl)|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|[link](https://github.com/lamm-mit/SciAgentsDiscovery)|
 |**2024-09-09**|**Assessing SPARQL capabilities of Large Language Models**|Lars-Peter Meyer et.al.|[2409.05925v1](http://arxiv.org/abs/2409.05925v1)|[link](https://github.com/aksw/llm-kg-bench-results)|
@@ -97,38 +102,151 @@
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|[link](https://github.com/leduckhai/wav2graph)|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v2](http://arxiv.org/abs/2408.03910v2)|[link](https://github.com/modelscope/modelscope-agent)|
-|**2024-08-07**|**PAGED: A Benchmark for Procedural Graphs Extraction from Documents**|Weihong Du et.al.|[2408.03630v2](http://arxiv.org/abs/2408.03630v2)|[link](https://github.com/scunlp/paged)|
-|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615v1](http://arxiv.org/abs/2408.03615v1)|null|
-|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528v2](http://arxiv.org/abs/2408.03528v2)|null|
-|**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079v1](http://arxiv.org/abs/2408.03079v1)|null|
-|**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010v1](http://arxiv.org/abs/2408.03010v1)|[link](https://github.com/chrschy/fact-finder)|
 
 #### Abstracts
-##### **User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**
-2409.06297v1 by Julien Albert, Martin Balfroid, Miriam Doh, Jeremie Bogaert, Luca La Fisca, Liesbet De Vos, Bryan Renard, Vincent Stragier, Emmanuel Jean
+##### **Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**
+2409.07368v1 by Khiem Ton, Nhi Nguyen, Mahmoud Nazzal, Abdallah Khreishah, Cristian Borcea, NhatHai Phan, Ruoming Jin, Issa Khalil, Yelong Shen
 
-Recommender systems have become integral to our digital experiences, from
-online shopping to streaming platforms. Still, the rationale behind their
-suggestions often remains opaque to users. While some systems employ a
-graph-based approach, offering inherent explainability through paths
-associating recommended items and seed items, non-experts could not easily
-understand these explanations. A popular alternative is to convert graph-based
-explanations into textual ones using a template and an algorithm, which we
-denote here as ''template-based'' explanations. Yet, these can sometimes come
-across as impersonal or uninspiring. A novel method would be to employ large
-language models (LLMs) for this purpose, which we denote as ''LLM-based''. To
-assess the effectiveness of LLMs in generating more resonant explanations, we
-conducted a pilot study with 25 participants. They were presented with three
-explanations: (1) traditional template-based, (2) LLM-based rephrasing of the
-template output, and (3) purely LLM-based explanations derived from the
-graph-based explanations. Although subject to high variance, preliminary
-findings suggest that LLM-based explanations may provide a richer and more
-engaging user experience, further aligning with user expectations. This study
-sheds light on the potential limitations of current explanation methods and
-offers promising directions for leveraging large language models to improve
-user satisfaction and trust in recommender systems.
+This paper introduces SGCode, a flexible prompt-optimizing system to generate
+secure code with large language models (LLMs). SGCode integrates recent
+prompt-optimization approaches with LLMs in a unified system accessible through
+front-end and back-end APIs, enabling users to 1) generate secure code, which
+is free of vulnerabilities, 2) review and share security analysis, and 3)
+easily switch from one prompt optimization approach to another, while providing
+insights on model and system performance. We populated SGCode on an AWS server
+with PromSec, an approach that optimizes prompts by combining an LLM and
+security tools with a lightweight generative adversarial graph neural network
+to detect and fix security vulnerabilities in the generated code. Extensive
+experiments show that SGCode is practical as a public tool to gain insights
+into the trade-offs between model utility, secure code generation, and system
+cost. SGCode has only a marginal cost compared with prompting LLMs. SGCode is
+available at: http://3.131.141.63:8501/.
 
-摘要：推薦系統已成為我們數位體驗中不可或缺的一部分，從線上購物到串流平台皆是如此。然而，其建議背後的原理通常對使用者來說仍不透明。儘管有些系統採用基於圖形的做法，透過連結推薦項目與種子項目的路徑提供內在的可解釋性，但非專家無法輕易理解這些解釋。一種常見的替代方法是使用範本和演算法將基於圖形的解釋轉換為文字解釋，我們在此將其表示為「基於範本」的解釋。然而，這些解釋有時會顯得制式或缺乏靈感。一種新穎的方法是為此目的採用大型語言模型 (LLM)，我們將其表示為「基於 LLM」。為了評估 LLM 在產生更具共鳴解釋方面的有效性，我們進行了一項有 25 位參與者的試驗研究。我們向他們展示了三種解釋：(1) 傳統基於範本的解釋，(2) LLM 對範本輸出的重新表述，以及 (3) 純粹從基於圖形的解釋衍生的基於 LLM 的解釋。儘管存在高度變異，但初步結果表明，基於 LLM 的解釋可能提供更豐富、更吸引人的使用者體驗，進一步符合使用者的期望。這項研究揭示了當前解釋方法的潛在限制，並為利用大型語言模型來提升使用者滿意度和對推薦系統的信任提供了有希望的方向。
+摘要：本文介紹 SGCode，這是一個彈性的提示最佳化系統，用於使用大型語言模型 (LLM) 產生安全的程式碼。SGCode 將最近的提示最佳化方法與 LLM 整合在一個統一的系統中，可透過前端和後端 API 存取，使用戶能夠 1) 產生安全的程式碼，沒有漏洞，2) 檢閱並分享安全性分析，以及 3) 輕鬆從一種提示最佳化方法切換到另一種方法，同時提供模型和系統效能的見解。我們在 AWS 伺服器上使用 PromSec 填充 SGCode，這是一種透過結合 LLM 和安全性工具與輕量級生成對抗圖神經網路來最佳化提示的方法，用於偵測並修正產生程式碼中的安全性漏洞。廣泛的實驗顯示，SGCode 是一個實用的公開工具，可用於深入了解模型效用、安全程式碼產生和系統成本之間的權衡。與提示 LLM 相比，SGCode 僅有微小的成本。SGCode 可在以下網址取得：http://3.131.141.63:8501/。
+
+##### **Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**
+2409.07088v1 by Daehee Kim, Deokhyung Kang, Sangwon Ryu, Gary Geunbae Lee
+
+Knowledge Graph-to-Text (G2T) generation involves verbalizing structured
+knowledge graphs into natural language text. Recent advancements in Pretrained
+Language Models (PLMs) have improved G2T performance, but their effectiveness
+depends on datasets with precise graph-text alignment. However, the scarcity of
+high-quality, general-domain G2T generation datasets restricts progress in the
+general-domain G2T generation research. To address this issue, we introduce
+Wikipedia Ontology-Free Graph-text dataset (WikiOFGraph), a new large-scale G2T
+dataset generated using a novel method that leverages Large Language Model
+(LLM) and Data-QuestEval. Our new dataset, which contains 5.85M general-domain
+graph-text pairs, offers high graph-text consistency without relying on
+external ontologies. Experimental results demonstrate that PLM fine-tuned on
+WikiOFGraph outperforms those trained on other datasets across various
+evaluation metrics. Our method proves to be a scalable and effective solution
+for generating high-quality G2T data, significantly advancing the field of G2T
+generation.
+
+摘要：知識圖譜到文字 (G2T) 生成涉及將結構化知識圖譜表達為自然語言文字。預訓練語言模型 (PLM) 的最新進展改善了 G2T 的效能，但其有效性取決於具有精確圖形文字對齊的資料集。然而，高品質、一般領域 G2T 生成資料集的稀少性限制了一般領域 G2T 生成研究的進展。為了解決這個問題，我們引入了維基百科本体免費圖形文字資料集 (WikiOFGraph)，這是一個使用利用大型語言模型 (LLM) 和 Data-QuestEval 的新方法生成的新大型 G2T 資料集。我們的這個新資料集包含 585 萬個一般領域的圖形文字對，提供高圖形文字一致性，而不依賴於外部本体。實驗結果表明，在 WikiOFGraph 上微調的 PLM 在各種評估指標上優於在其他資料集上訓練的 PLM。我們的這個方法被證明是一個可擴充且有效的解決方案，用於生成高品質的 G2T 資料，顯著推動了 G2T 生成領域的發展。
+
+##### **Automated Speaking Assessment of Conversation Tests with Novel Graph-based Modeling on Spoken Response Coherence**
+2409.07064v1 by Jiun-Ting Li, Bi-Cheng Yan, Tien-Hong Lo, Yi-Cheng Wang, Yung-Chang Hsu, Berlin Chen
+
+Automated speaking assessment in conversation tests (ASAC) aims to evaluate
+the overall speaking proficiency of an L2 (second-language) speaker in a
+setting where an interlocutor interacts with one or more candidates. Although
+prior ASAC approaches have shown promising performance on their respective
+datasets, there is still a dearth of research specifically focused on
+incorporating the coherence of the logical flow within a conversation into the
+grading model. To address this critical challenge, we propose a hierarchical
+graph model that aptly incorporates both broad inter-response interactions
+(e.g., discourse relations) and nuanced semantic information (e.g., semantic
+words and speaker intents), which is subsequently fused with contextual
+information for the final prediction. Extensive experimental results on the
+NICT-JLE benchmark dataset suggest that our proposed modeling approach can
+yield considerable improvements in prediction accuracy with respect to various
+assessment metrics, as compared to some strong baselines. This also sheds light
+on the importance of investigating coherence-related facets of spoken responses
+in ASAC.
+
+摘要：自動對話評量中的自動化口說評量（ASAC）旨在評估 L2（第二語言）話者在與一位或多位應試者互動的環境中，整體的口說能力。儘管先前的 ASAC 方法在其各自的資料集上展現出有前途的表現，但仍缺乏專注於將對話中邏輯流程的連貫性納入評分模型的研究。為了應對這項關鍵挑戰，我們提出了一個階層式圖形模型，它適當地結合了廣泛的回應間互動（例如：語篇關係）和細微的語義資訊（例如：語義字詞和說話者意圖），隨後與脈絡資訊融合，以進行最終預測。在 NICT-JLE 基準資料集上進行的廣泛實驗結果表明，與一些強大的基準線相比，我們提出的建模方法可以顯著提升預測準確度，特別是在各種評量指標方面。這也闡明了在 ASAC 中探討口語回應的連貫性相關面向的重要性。
+
+##### **FreeRide: Harvesting Bubbles in Pipeline Parallelism**
+2409.06941v1 by Jiashu Zhang, Zihan Pan, Molly, Xu, Khuzaima Daudjee, Sihang Liu
+
+The occurrence of bubbles in pipeline parallelism is an inherent limitation
+that can account for more than 40% of the large language model (LLM) training
+time and is one of the main reasons for the underutilization of GPU resources
+in LLM training. Harvesting these bubbles for GPU side tasks can increase
+resource utilization and reduce training costs but comes with challenges.
+First, because bubbles are discontinuous with various shapes, programming side
+tasks becomes difficult while requiring excessive engineering effort. Second, a
+side task can compete with pipeline training for GPU resources and incur
+significant overhead. To address these challenges, we propose FreeRide, a
+system designed to harvest bubbles in pipeline parallelism for side tasks.
+FreeRide provides programmers with interfaces to implement side tasks easily,
+manages bubbles and side tasks during pipeline training, and controls access to
+GPU resources by side tasks to reduce overhead. We demonstrate that FreeRide
+achieves 7.8% average cost savings with a negligible overhead of about 1% in
+training LLMs while serving model training, graph analytics, and image
+processing side tasks.
+
+摘要：管線平行處理中發生氣泡是一個固有限制，可能佔大型語言模型 (LLM) 訓練時間的 40% 以上，並且是 LLM 訓練中 GPU 資源利用不足的主要原因之一。收集這些氣泡以進行 GPU 側面任務可以提高資源利用率並降低訓練成本，但會帶來挑戰。首先，由於氣泡是不連續的且形狀各異，因此編寫程式側面任務變得困難，同時需要過多的工程工作。其次，側面任務可能會與管線訓練競爭 GPU 資源，並造成顯著的開銷。為了應對這些挑戰，我們提出了 FreeRide，這是一個旨在收集管線平行處理中的氣泡以進行側面任務的系統。FreeRide 為程式設計師提供了輕鬆實作側面任務的介面，在管線訓練期間管理氣泡和側面任務，並控制側面任務對 GPU 資源的存取以減少開銷。我們證明 FreeRide 在訓練 LLM 時可節省 7.8% 的平均成本，同時在執行模型訓練、圖形分析和影像處理側面任務時，開銷可忽略不計，約為 1%。
+
+##### **Generative Hierarchical Materials Search**
+2409.06762v1 by Sherry Yang, Simon Batzner, Ruiqi Gao, Muratahan Aykol, Alexander L. Gaunt, Brendan McMorrow, Danilo J. Rezende, Dale Schuurmans, Igor Mordatch, Ekin D. Cubuk
+
+Generative models trained at scale can now produce text, video, and more
+recently, scientific data such as crystal structures. In applications of
+generative approaches to materials science, and in particular to crystal
+structures, the guidance from the domain expert in the form of high-level
+instructions can be essential for an automated system to output candidate
+crystals that are viable for downstream research. In this work, we formulate
+end-to-end language-to-structure generation as a multi-objective optimization
+problem, and propose Generative Hierarchical Materials Search (GenMS) for
+controllable generation of crystal structures. GenMS consists of (1) a language
+model that takes high-level natural language as input and generates
+intermediate textual information about a crystal (e.g., chemical formulae), and
+(2) a diffusion model that takes intermediate information as input and
+generates low-level continuous value crystal structures. GenMS additionally
+uses a graph neural network to predict properties (e.g., formation energy) from
+the generated crystal structures. During inference, GenMS leverages all three
+components to conduct a forward tree search over the space of possible
+structures. Experiments show that GenMS outperforms other alternatives of
+directly using language models to generate structures both in satisfying user
+request and in generating low-energy structures. We confirm that GenMS is able
+to generate common crystal structures such as double perovskites, or spinels,
+solely from natural language input, and hence can form the foundation for more
+complex structure generation in near future.
+
+摘要：<paragraph>大規模訓練的生成模型現在可以產生文字、影片，以及最近的科學資料，例如晶體結構。在生成方法應用於材料科學，尤其是晶體結構時，領域專家的指導，以高階指令的形式，對於自動化系統輸出可行於下游研究的候選晶體至關重要。在這項工作中，我們將端對端語言到結構生成制定為多目標最佳化問題，並提出生成分層材料搜尋 (GenMS) 以控制晶體結構的生成。GenMS 包含 (1) 一個語言模型，它將高階自然語言作為輸入，並生成有關晶體的中間文字資訊（例如化學公式），以及 (2) 一個擴散模型，它將中間資訊作為輸入，並生成低階連續值晶體結構。GenMS 此外使用圖形神經網路從生成的晶體結構預測屬性（例如形成能）。在推理期間，GenMS 利用所有三個組件對可能的結構空間進行前向樹狀搜尋。實驗顯示，GenMS 優於直接使用語言模型來生成結構的其他替代方案，無論是在滿足使用者要求或生成低能結構方面。我們確認 GenMS 能夠僅從自然語言輸入生成常見的晶體結構，例如雙鈣鈦礦或尖晶石，因此可以在不久的將來形成更複雜結構生成的基礎。</paragraph>
+
+##### **Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**
+2409.06433v1 by Gollam Rabby, Sören Auer, Jennifer D'Souza, Allard Oelen
+
+The increasing amount of published scholarly articles, exceeding 2.5 million
+yearly, raises the challenge for researchers in following scientific progress.
+Integrating the contributions from scholarly articles into a novel type of
+cognitive knowledge graph (CKG) will be a crucial element for accessing and
+organizing scholarly knowledge, surpassing the insights provided by titles and
+abstracts. This research focuses on effectively conveying structured scholarly
+knowledge by utilizing large language models (LLMs) to categorize scholarly
+articles and describe their contributions in a structured and comparable
+manner. While previous studies explored language models within specific
+research domains, the extensive domain-independent knowledge captured by LLMs
+offers a substantial opportunity for generating structured contribution
+descriptions as CKGs. Additionally, LLMs offer customizable pathways through
+prompt engineering or fine-tuning, thus facilitating to leveraging of smaller
+LLMs known for their efficiency, cost-effectiveness, and environmental
+considerations. Our methodology involves harnessing LLM knowledge, and
+complementing it with domain expert-verified scholarly data sourced from a CKG.
+This strategic fusion significantly enhances LLM performance, especially in
+tasks like scholarly article categorization and predicate recommendation. Our
+method involves fine-tuning LLMs with CKG knowledge and additionally injecting
+knowledge from a CKG with a novel prompting technique significantly increasing
+the accuracy of scholarly knowledge extraction. We integrated our approach in
+the Open Research Knowledge Graph (ORKG), thus enabling precise access to
+organized scholarly knowledge, crucially benefiting domain-independent
+scholarly knowledge exchange and dissemination among policymakers, industrial
+practitioners, and the general public.
+
+摘要：<paragraph>每年超過 250 萬篇的學術文章發表數量持續增加，對研究人員追蹤科學進展帶來挑戰。將學術文章的貢獻整合到新型態的認知知識圖譜 (CKG) 中，將成為存取和組織學術知識的關鍵要素，超越標題和摘要提供的見解。本研究專注於有效傳達結構化的學術知識，利用大型語言模型 (LLM) 來分類學術文章，並以結構化且可比較的形式描述其貢獻。雖然先前的研究在特定研究領域中探索語言模型，但 LLM 捕捉到的廣泛領域無關知識，為產生結構化的貢獻描述提供了實質機會，例如 CKG。此外，LLM 透過提示工程或微調提供可自訂路徑，從而促進利用以效率、成本效益和環境考量聞名的較小型 LLM。我們的做法包括利用 LLM 知識，並透過 CKG 來源的領域專家驗證學術資料來補充。這種策略融合顯著提升 LLM 的效能，特別是在學術文章分類和謂詞推薦等任務中。我們的方法包括以 CKG 知識微調 LLM，並透過新的提示技術注入 CKG 的知識，顯著提升學術知識萃取的準確度。我們將我們的做法整合到開放研究知識圖譜 (ORKG) 中，從而能精準存取已組織的學術知識，這對政策制定者、產業從業人員和一般大眾之間的領域無關學術知識交流和傳播至關重要。</paragraph>
 
 ##### **Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**
 2409.06091v1 by Dongyue Li, Aneesh Sharma, Hongyang R. Zhang
@@ -2438,137 +2556,4 @@ Our application demo:
 https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent.
 
 摘要：大型语言模型 (LLM) 在独立代码任务中表现出色，例如 HumanEval 和 MBPP，但在处理整个代码存储库时却遇到了困难。这个挑战促进了对在存储库规模上增强 LLM 代码库交互的研究。当前的解决方案依赖于基于相似性的检索或手动工具和 API，每种解决方案都有明显的缺点。基于相似性的检索在复杂任务中通常召回率较低，而手动工具和 API 通常是特定于任务的，并且需要专业知识，从而降低了它们在不同代码任务和实际应用中的泛化性。为了减轻这些限制，我们引入了 CodexGraph，这是一个将 LLM 代理与从代码存储库中提取的图形数据库界面集成的系统。通过利用图形数据库的结构属性和图形查询语言的灵活性，CodexGraph 使 LLM 代理能够构建和执行查询，从而实现精确的、代码结构感知的上下文检索和代码导航。我们使用三个基准对 CodexGraph 进行了评估：CrossCodeEval、SWE-bench 和 EvoCodeBench。此外，我们还开发了五个实际的编码应用程序。通过统一的图形数据库模式，CodexGraph 在学术和现实世界环境中都展示了竞争性能和潜力，展示了其在软件工程中的多功能性和有效性。我们的应用程序演示：https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent。
-
-##### **PAGED: A Benchmark for Procedural Graphs Extraction from Documents**
-2408.03630v2 by Weihong Du, Wenrui Liao, Hongru Liang, Wenqiang Lei
-
-Automatic extraction of procedural graphs from documents creates a low-cost
-way for users to easily understand a complex procedure by skimming visual
-graphs. Despite the progress in recent studies, it remains unanswered: whether
-the existing studies have well solved this task (Q1) and whether the emerging
-large language models (LLMs) can bring new opportunities to this task (Q2). To
-this end, we propose a new benchmark PAGED, equipped with a large high-quality
-dataset and standard evaluations. It investigates five state-of-the-art
-baselines, revealing that they fail to extract optimal procedural graphs well
-because of their heavy reliance on hand-written rules and limited available
-data. We further involve three advanced LLMs in PAGED and enhance them with a
-novel self-refine strategy. The results point out the advantages of LLMs in
-identifying textual elements and their gaps in building logical structures. We
-hope PAGED can serve as a major landmark for automatic procedural graph
-extraction and the investigations in PAGED can offer insights into the research
-on logic reasoning among non-sequential elements.
-
-摘要：自動從文件中萃取程序圖表是一種低成本的方式，讓使用者能透過瀏覽視覺化圖表，輕鬆理解複雜的程序。儘管近期研究已有所進展，但仍有待解答的問題：現有的研究是否已妥善解決此任務（Q1），以及新興的大語言模型（LLM）是否能為此任務帶來新的契機（Q2）。為此，我們提出一個新的基準 PAGED，配備大型高品質資料集和標準評量。它探討了五個最先進的基線，揭示了它們無法良好地萃取最佳程序圖表，原因在於它們過度依賴手寫規則和有限的可用資料。我們進一步在 PAGED 中納入三個先進的 LLM，並透過新穎的自精進策略加以強化。結果指出 LLM 在識別文本元素方面的優勢，以及它們在建立邏輯結構方面的差距。我們希望 PAGED 能成為自動程序圖表萃取的主要里程碑，而 PAGED 中的探討能為非順序元素間的邏輯推理研究提供見解。
-
-##### **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**
-2408.03615v1 by Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie
-
-Building a general-purpose agent is a long-standing vision in the field of
-artificial intelligence. Existing agents have made remarkable progress in many
-domains, yet they still struggle to complete long-horizon tasks in an open
-world. We attribute this to the lack of necessary world knowledge and
-multimodal experience that can guide agents through a variety of long-horizon
-tasks. In this paper, we propose a Hybrid Multimodal Memory module to address
-the above challenges. It 1) transforms knowledge into Hierarchical Directed
-Knowledge Graph that allows agents to explicitly represent and learn world
-knowledge, and 2) summarises historical information into Abstracted Multimodal
-Experience Pool that provide agents with rich references for in-context
-learning. On top of the Hybrid Multimodal Memory module, a multimodal agent,
-Optimus-1, is constructed with dedicated Knowledge-guided Planner and
-Experience-Driven Reflector, contributing to a better planning and reflection
-in the face of long-horizon tasks in Minecraft. Extensive experimental results
-show that Optimus-1 significantly outperforms all existing agents on
-challenging long-horizon task benchmarks, and exhibits near human-level
-performance on many tasks. In addition, we introduce various Multimodal Large
-Language Models (MLLMs) as the backbone of Optimus-1. Experimental results show
-that Optimus-1 exhibits strong generalization with the help of the Hybrid
-Multimodal Memory module, outperforming the GPT-4V baseline on many tasks.
-
-摘要：打造一個通用代理是人工智慧領域長久以來的願景。現有的代理在許多領域都有顯著的進步，但它們仍難以在開放世界中完成長時程任務。我們將此歸因於缺乏必要的知識和多模態經驗，這些知識和經驗可以引導代理完成各種長時程任務。在本文中，我們提出一個混合多模態記憶體模組來解決上述挑戰。它 1) 將知識轉換為階層式導向知識圖，讓代理能夠明確地表示和學習世界知識，以及 2) 將歷史資訊摘要成抽象的多模態經驗池，為代理提供豐富的參考，以便進行情境學習。在混合多模態記憶體模組之上，建構了一個多模態代理，Optimus-1，它具備專用的知識導向規劃器和經驗驅動的反射器，有助於在 Minecraft 中面對長時程任務時進行更好的規劃和反思。廣泛的實驗結果顯示，Optimus-1 在具有挑戰性的長時程任務基準上顯著優於所有現有代理，並且在許多任務上展現出接近人類的效能。此外，我們引入各種多模態大型語言模型 (MLLM) 作為 Optimus-1 的骨幹。實驗結果顯示，Optimus-1 在混合多模態記憶體模組的幫助下展現出強大的泛化能力，在許多任務上優於 GPT-4V 基準。
-
-##### **Exploring the extent of similarities in software failures across industries using LLMs**
-2408.03528v2 by Martin Detloff
-
-The rapid evolution of software development necessitates enhanced safety
-measures. Extracting information about software failures from companies is
-becoming increasingly more available through news articles.
-  This research utilizes the Failure Analysis Investigation with LLMs (FAIL)
-model to extract industry-specific information. Although the FAIL model's
-database is rich in information, it could benefit from further categorization
-and industry-specific insights to further assist software engineers.
-  In previous work news articles were collected from reputable sources and
-categorized by incidents inside a database. Prompt engineering and Large
-Language Models (LLMs) were then applied to extract relevant information
-regarding the software failure. This research extends these methods by
-categorizing articles into specific domains and types of software failures. The
-results are visually represented through graphs.
-  The analysis shows that throughout the database some software failures occur
-significantly more often in specific industries. This categorization provides a
-valuable resource for software engineers and companies to identify and address
-common failures.
-  This research highlights the synergy between software engineering and Large
-Language Models (LLMs) to automate and enhance the analysis of software
-failures. By transforming data from the database into an industry specific
-model, we provide a valuable resource that can be used to identify common
-vulnerabilities, predict potential risks, and implement proactive measures for
-preventing software failures. Leveraging the power of the current FAIL database
-and data visualization, we aim to provide an avenue for safer and more secure
-software in the future.
-
-摘要：<paragraph>軟體開發快速演進，迫切需要增強安全措施。從公司新聞文章中萃取軟體故障資訊正變得越來越容易。
-此研究利用大型語言模型（LLM）故障分析調查（FAIL）模型萃取產業特定資訊。儘管 FAIL 模型的資料庫資訊豐富，但若能進一步分類並提供產業特定見解，將有助於軟體工程師。
-在先前的研究中，我們從信譽良好的來源收集新聞文章，並將其分類為資料庫中的事件。接著應用提示工程和大型語言模型（LLM）萃取與軟體故障相關的資訊。此研究透過將文章分類到特定領域和軟體故障類型，延伸了這些方法。結果透過圖表視覺化呈現。
-分析顯示，在整個資料庫中，某些軟體故障在特定產業中發生的頻率顯著較高。此分類為軟體工程師和公司提供了寶貴的資源，可識別並解決常見故障。
-此研究強調了軟體工程與大型語言模型（LLM）之間的綜效作用，可自動化並增強軟體故障分析。透過將資料庫中的資料轉換為產業特定模型，我們提供了一項寶貴的資源，可用於識別常見漏洞、預測潛在風險，並實施主動措施來預防軟體故障。我們利用現有 FAIL 資料庫和資料視覺化的優勢，旨在為未來提供更安全且穩定的軟體。</paragraph>
-
-##### **Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**
-2408.03079v1 by Jinglong Gao, Chen Lu, Xiao Ding, Zhongyang Li, Ting Liu, Bing Qin
-
-Event Causality Extraction (ECE) aims at extracting causal event pairs from
-texts. Despite ChatGPT's recent success, fine-tuning small models remains the
-best approach for the ECE task. However, existing fine-tuning based ECE methods
-cannot address all three key challenges in ECE simultaneously: 1) Complex
-Causality Extraction, where multiple causal-effect pairs occur within a single
-sentence; 2) Subtask~ Interaction, which involves modeling the mutual
-dependence between the two subtasks of ECE, i.e., extracting events and
-identifying the causal relationship between extracted events; and 3) Knowledge
-Fusion, which requires effectively fusing the knowledge in two modalities,
-i.e., the expressive pretrained language models and the structured knowledge
-graphs. In this paper, we propose a unified ECE framework (UniCE to address all
-three issues in ECE simultaneously. Specifically, we design a subtask
-interaction mechanism to enable mutual interaction between the two ECE
-subtasks. Besides, we design a knowledge fusion mechanism to fuse knowledge in
-the two modalities. Furthermore, we employ separate decoders for each subtask
-to facilitate complex causality extraction. Experiments on three benchmark
-datasets demonstrate that our method achieves state-of-the-art performance and
-outperforms ChatGPT with a margin of at least 30% F1-score. More importantly,
-our model can also be used to effectively improve the ECE performance of
-ChatGPT via in-context learning.
-
-摘要：事件因果關係萃取 (ECE) 的目標是從文本中萃取出因果事件對。儘管 ChatGPT 最近獲得成功，微調小型模型仍是 ECE 任務的最佳方法。然而，現有的基於微調的 ECE 方法無法同時解決 ECE 中的三個主要挑戰：1) 複雜因果關係萃取，其中多個因果關係對出現在單一句子中；2) 子任務互動，這涉及對 ECE 的兩個子任務（即萃取事件和識別萃取事件之間的因果關係）之間的相互依賴性進行建模；3) 知識融合，這需要有效地融合兩種模式中的知識，即表達式的預訓練語言模型和結構化的知識圖譜。在本文中，我們提出一個統一的 ECE 框架 (UniCE)，以同時解決 ECE 中的所有三個問題。具體來說，我們設計了一個子任務互動機制，以實現兩個 ECE 子任務之間的相互互動。此外，我們設計了一個知識融合機制來融合兩種模式中的知識。此外，我們針對每個子任務採用單獨的解碼器，以促進複雜因果關係的萃取。在三個基準資料集上的實驗表明，我們的方法達到了最先進的效能，並且以至少 30% 的 F1 分數優於 ChatGPT。更重要的是，我們的模型也可以透過情境學習有效地提升 ChatGPT 的 ECE 效能。
-
-##### **Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**
-2408.03010v1 by Daniel Steinigen, Roman Teucher, Timm Heine Ruland, Max Rudat, Nicolas Flores-Herr, Peter Fischer, Nikola Milosevic, Christopher Schymura, Angelo Ziletti
-
-Recent advancements in Large Language Models (LLMs) have showcased their
-proficiency in answering natural language queries. However, their effectiveness
-is hindered by limited domain-specific knowledge, raising concerns about the
-reliability of their responses. We introduce a hybrid system that augments LLMs
-with domain-specific knowledge graphs (KGs), thereby aiming to enhance factual
-correctness using a KG-based retrieval approach. We focus on a medical KG to
-demonstrate our methodology, which includes (1) pre-processing, (2) Cypher
-query generation, (3) Cypher query processing, (4) KG retrieval, and (5)
-LLM-enhanced response generation. We evaluate our system on a curated dataset
-of 69 samples, achieving a precision of 78\% in retrieving correct KG nodes.
-Our findings indicate that the hybrid system surpasses a standalone LLM in
-accuracy and completeness, as verified by an LLM-as-a-Judge evaluation method.
-This positions the system as a promising tool for applications that demand
-factual correctness and completeness, such as target identification -- a
-critical process in pinpointing biological entities for disease treatment or
-crop enhancement. Moreover, its intuitive search interface and ability to
-provide accurate responses within seconds make it well-suited for
-time-sensitive, precision-focused research contexts. We publish the source code
-together with the dataset and the prompt templates used.
-
-摘要：大型語言模型 (LLM) 的最新進展展示了它們在回答自然語言查詢方面的能力。然而，它們的有效性受到特定領域知識有限的阻礙，這引起了對其回應可靠性的擔憂。我們引入了一個混合系統，該系統使用特定領域的知識圖譜 (KG) 來擴充 LLM，從而旨在使用基於 KG 的檢索方法來增強事實正確性。我們專注於一個醫學 KG 來演示我們的 methodology，其中包括 (1) 預處理，(2) Cypher 查詢生成，(3) Cypher 查詢處理，(4) KG 檢索，以及 (5) LLM 增強的回應生成。我們在一個由 69 個樣本組成的精選數據集上評估我們的系統，在檢索正確的 KG 節點時達到了 78% 的精度。我們的研究結果表明，混合系統在準確性和完整性方面都超過了單獨的 LLM，這通過 LLM 作為評審評估方法得到驗證。這將系統定位為對應用程式來說一個有前途的工具，這些應用程式需要事實正確性和完整性，例如目標識別——在疾病治療或作物改良中精確定位生物實體的關鍵過程。此外，其直觀的搜尋介面和在數秒內提供準確回應的能力使其非常適合時間敏感、注重精確度的研究情境。我們將原始碼與數據集和使用的提示範本一起發布。
 

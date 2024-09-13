@@ -2,6 +2,8 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793v1](http://arxiv.org/abs/2409.07793v1)|[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)|
+|**2024-09-12**|**ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation**|Fuchen Zheng et.al.|[2409.07779v1](http://arxiv.org/abs/2409.07779v1)|[link](https://github.com/lzeeorno/assnet)|
 |**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415v1](http://arxiv.org/abs/2409.07415v1)|null|
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351v1](http://arxiv.org/abs/2409.07351v1)|null|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314v1](http://arxiv.org/abs/2409.07314v1)|null|
@@ -15,19 +17,20 @@
 |**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v2](http://arxiv.org/abs/2409.06644v2)|null|
 |**2024-09-10**|**Developing the Temporal Graph Convolutional Neural Network Model to Predict Hip Replacement using Electronic Health Records**|Zoe Hancox et.al.|[2409.06585v1](http://arxiv.org/abs/2409.06585v1)|[link](https://github.com/zoehancox/sparse_tgcnn)|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351v1](http://arxiv.org/abs/2409.06351v1)|null|
-|**2024-09-10**|**Adaptive Transformer Modelling of Density Function for Nonparametric Survival Analysis**|Xin Zhang et.al.|[2409.06209v1](http://arxiv.org/abs/2409.06209v1)|null|
+|**2024-09-10**|**Adaptive Transformer Modelling of Density Function for Nonparametric Survival Analysis**|Xin Zhang et.al.|[2409.06209v1](http://arxiv.org/abs/2409.06209v1)|[link](https://github.com/xinz0419/unisurv)|
 |**2024-09-10**|**Can Large Language Models Unlock Novel Scientific Research Ideas?**|Sandeep Kumar et.al.|[2409.06185v1](http://arxiv.org/abs/2409.06185v1)|null|
 |**2024-09-10**|**Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks**|Georgios Chochlakis et.al.|[2409.06173v1](http://arxiv.org/abs/2409.06173v1)|[link](https://github.com/gchochla/cot-priors)|
 |**2024-09-10**|**Multiclass Arrhythmia Classification using Smartwatch Photoplethysmography Signals Collected in Real-life Settings**|Dong Han et.al.|[2409.06147v1](http://arxiv.org/abs/2409.06147v1)|null|
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592v1](http://arxiv.org/abs/2409.05592v1)|null|
 |**2024-09-09**|**Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**|Camilo Thorne et.al.|[2409.05486v1](http://arxiv.org/abs/2409.05486v1)|null|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
+|**2024-09-09**|**Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review**|Javad Hassannataj Joloudari et.al.|[2409.07493v1](http://arxiv.org/abs/2409.07493v1)|null|
 |**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v2](http://arxiv.org/abs/2409.05292v2)|null|
 |**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280v1](http://arxiv.org/abs/2409.05280v1)|[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)|
 |**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915v1](http://arxiv.org/abs/2409.04915v1)|null|
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744v1](http://arxiv.org/abs/2409.04744v1)|null|
 |**2024-09-07**|**NapTune: Efficient Model Tuning for Mood Classification using Previous Night's Sleep Measures along with Wearable Time-series**|Debaditya Shome et.al.|[2409.04723v1](http://arxiv.org/abs/2409.04723v1)|null|
-|**2024-09-07**|**A Comprehensive Survey on Evidential Deep Learning and Its Applications**|Junyu Gao et.al.|[2409.04720v1](http://arxiv.org/abs/2409.04720v1)|null|
+|**2024-09-07**|**A Comprehensive Survey on Evidential Deep Learning and Its Applications**|Junyu Gao et.al.|[2409.04720v1](http://arxiv.org/abs/2409.04720v1)|[link](https://github.com/mengyuanchen21/awesome-evidential-deep-learning)|
 |**2024-09-07**|**A Multi-scenario Attention-based Generative Model for Personalized Blood Pressure Time Series Forecasting**|Cheng Wan et.al.|[2409.04704v1](http://arxiv.org/abs/2409.04704v1)|null|
 |**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368v1](http://arxiv.org/abs/2409.04368v1)|null|
 |**2024-09-06**|**CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**|William Knottenbelt et.al.|[2409.04290v1](http://arxiv.org/abs/2409.04290v1)|[link](https://github.com/knottwill/CoxKAN)|
@@ -54,11 +57,12 @@
 |**2024-09-03**|**A Multimodal Object-level Contrast Learning Method for Cancer Survival Risk Prediction**|Zekang Yang et.al.|[2409.02145v1](http://arxiv.org/abs/2409.02145v1)|[link](https://github.com/yang-ze-kang/MOC)|
 |**2024-09-03**|**A Time-Intensity Aware Pipeline for Generating Late-Stage Breast DCE-MRI using Generative Adversarial Models**|Ruben D. Fonnegra et.al.|[2409.01596v1](http://arxiv.org/abs/2409.01596v1)|null|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437v1](http://arxiv.org/abs/2409.01437v1)|[link](https://github.com/simula/Kvasir-VQA)|
+|**2024-09-02**|**EEG-Language Modeling for Pathology Detection**|Sam Gijsen et.al.|[2409.07480v1](http://arxiv.org/abs/2409.07480v1)|null|
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013v1](http://arxiv.org/abs/2409.01013v1)|null|
 |**2024-09-01**|**Equitable Skin Disease Prediction Using Transfer Learning and Domain Adaptation**|Sajib Acharjee Dip et.al.|[2409.00873v1](http://arxiv.org/abs/2409.00873v1)|null|
 |**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861v1](http://arxiv.org/abs/2409.00861v1)|[link](https://github.com/kramerlab/4StepFocus)|
 |**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830v1](http://arxiv.org/abs/2409.00830v1)|null|
-|**2024-09-01**|**AgGym: An agricultural biotic stress simulation environment for ultra-precision management planning**|Mahsa Khosravi et.al.|[2409.00735v1](http://arxiv.org/abs/2409.00735v1)|null|
+|**2024-09-01**|**AgGym: An agricultural biotic stress simulation environment for ultra-precision management planning**|Mahsa Khosravi et.al.|[2409.00735v1](http://arxiv.org/abs/2409.00735v1)|[link](https://github.com/scslabisu/aggym)|
 |**2024-09-01**|**LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Generation on Limited Dataset**|Zhaojie Fang et.al.|[2409.00726v1](http://arxiv.org/abs/2409.00726v1)|[link](https://github.com/Tinysqua/LPUWF-LDM)|
 |**2024-09-01**|**BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems**|Shams Nafisa Ali et.al.|[2409.00724v1](http://arxiv.org/abs/2409.00724v1)|[link](https://github.com/sani002/HS-Dataset)|
 |**2024-09-01**|**Multiscale Color Guided Attention Ensemble Classifier for Age-Related Macular Degeneration using Concurrent Fundus and Optical Coherence Tomography Images**|Pragya Gupta et.al.|[2409.00718v1](http://arxiv.org/abs/2409.00718v1)|null|
@@ -98,12 +102,64 @@
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
 |**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v2](http://arxiv.org/abs/2408.13683v2)|null|
 |**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
-|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217v1](http://arxiv.org/abs/2408.13217v1)|[link](https://github.com/clementchauvet/py-hbic)|
-|**2024-08-23**|**Causal machine learning for sustainable agroecosystems**|Vasileios Sitokonstantinou et.al.|[2408.13155v1](http://arxiv.org/abs/2408.13155v1)|null|
-|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880v1](http://arxiv.org/abs/2408.12880v1)|[link](https://github.com/deepreasoning/aihealth)|
-|**2024-08-23**|**COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**|Mohsen Asghari Ilani et.al.|[2408.12841v1](http://arxiv.org/abs/2408.12841v1)|null|
 
 #### Abstracts
+##### **Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**
+2409.07793v1 by Fuchen Zheng, Quanjun Li, Weixuan Li, Xuhang Chen, Yihang Dong, Guoheng Huang, Chi-Man Pun, Shoujun Zhou
+
+Medical image segmentation, a critical application of semantic segmentation
+in healthcare, has seen significant advancements through specialized computer
+vision techniques. While deep learning-based medical image segmentation is
+essential for assisting in medical diagnosis, the lack of diverse training data
+causes the long-tail problem. Moreover, most previous hybrid CNN-ViT
+architectures have limited ability to combine various attentions in different
+layers of the Convolutional Neural Network. To address these issues, we propose
+a Lagrange Duality Consistency (LDC) Loss, integrated with Boundary-Aware
+Contrastive Loss, as the overall training objective for semi-supervised
+learning to mitigate the long-tail problem. Additionally, we introduce
+CMAformer, a novel network that synergizes the strengths of ResUNet and
+Transformer. The cross-attention block in CMAformer effectively integrates
+spatial attention and channel attention for multi-scale feature fusion.
+Overall, our results indicate that CMAformer, combined with the feature fusion
+framework and the new consistency loss, demonstrates strong complementarity in
+semi-supervised learning ensembles. We achieve state-of-the-art results on
+multiple public medical image datasets. Example code are available at:
+\url{https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer}.
+
+摘要：醫學影像分割是語意分割在醫療保健領域中的一項重要應用，已透過專業的電腦視覺技術獲得顯著進展。雖然基於深度學習的醫學影像分割對於協助醫療診斷至關重要，但缺乏多樣化的訓練資料會導致長尾問題。此外，大多數先前的混合式 CNN-ViT 架構在結合卷積神經網路不同層中的各種注意力方面能力有限。為了解決這些問題，我們提出了一種拉格朗日對偶一致性 (LDC) 損失，並與邊界感知對比損失整合，作為半監督式學習的整體訓練目標，以減輕長尾問題。此外，我們介紹了 CMAformer，這是一個新穎的網路，它協同了 ResUNet 和 Transformer 的優點。CMAformer 中的交叉注意力區塊有效地整合了空間注意力和通道注意力，以進行多尺度特徵融合。總的來說，我們的結果表明，CMAformer 結合特徵融合架構和新的稠密損失，在半監督式學習集合中展現出強大的互補性。我們在多個公開醫學影像資料集上取得了最先進的成果。範例程式碼可在以下網址取得：\url{https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer}。
+
+##### **ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation**
+2409.07779v1 by Fuchen Zheng, Xinyi Chen, Xuhang Chen, Haolun Li, Xiaojiao Guo, Guoheng Huang, Chi-Man Pun, Shoujun Zhou
+
+Medical image segmentation, a crucial task in computer vision, facilitates
+the automated delineation of anatomical structures and pathologies, supporting
+clinicians in diagnosis, treatment planning, and disease monitoring. Notably,
+transformers employing shifted window-based self-attention have demonstrated
+exceptional performance. However, their reliance on local window attention
+limits the fusion of local and global contextual information, crucial for
+segmenting microtumors and miniature organs. To address this limitation, we
+propose the Adaptive Semantic Segmentation Network (ASSNet), a transformer
+architecture that effectively integrates local and global features for precise
+medical image segmentation. ASSNet comprises a transformer-based U-shaped
+encoder-decoder network. The encoder utilizes shifted window self-attention
+across five resolutions to extract multi-scale features, which are then
+propagated to the decoder through skip connections. We introduce an augmented
+multi-layer perceptron within the encoder to explicitly model long-range
+dependencies during feature extraction. Recognizing the constraints of
+conventional symmetrical encoder-decoder designs, we propose an Adaptive
+Feature Fusion (AFF) decoder to complement our encoder. This decoder
+incorporates three key components: the Long Range Dependencies (LRD) block, the
+Multi-Scale Feature Fusion (MFF) block, and the Adaptive Semantic Center (ASC)
+block. These components synergistically facilitate the effective fusion of
+multi-scale features extracted by the decoder while capturing long-range
+dependencies and refining object boundaries. Comprehensive experiments on
+diverse medical image segmentation tasks, including multi-organ, liver tumor,
+and bladder tumor segmentation, demonstrate that ASSNet achieves
+state-of-the-art results. Code and models are available at:
+\url{https://github.com/lzeeorno/ASSNet}.
+
+摘要：<paragraph>醫學影像分割是電腦視覺中一項重要的任務，有助於自動描繪解剖結構和病理，協助臨床醫師進行診斷、治療計畫和疾病監控。值得注意的是，採用位移視窗自注意力機制的Transformer展現出非凡的效能。然而，它們依賴於區域視窗注意力，這限制了區域和全域脈絡資訊的融合，而這對於分割微小腫瘤和微型器官至關重要。為了解決這個限制，我們提出了自適應語義分割網路 (ASSNet)，這是一個Transformer架構，可以有效整合區域和全域特徵，以進行精確的醫學影像分割。ASSNet 包含一個基於Transformer的 U 型編碼器-解碼器網路。編碼器利用五個解析度的位移視窗自注意力來萃取多尺度特徵，然後透過跳躍連線將這些特徵傳播到解碼器。我們在編碼器中引入了擴增的多層感知器，以便在特徵萃取期間明確地建模長程依賴性。鑑於傳統對稱編碼器-解碼器設計的限制，我們提出了一個自適應特徵融合 (AFF) 解碼器來補充我們的編碼器。此解碼器包含三個關鍵組成部分：長程依賴性 (LRD) 區塊、多尺度特徵融合 (MFF) 區塊和自適應語義中心 (ASC) 區塊。這些組成部分相互配合，促成解碼器萃取的多尺度特徵有效融合，同時捕捉長程依賴性並微調物件邊界。在多器官、肝臟腫瘤和膀胱腫瘤分割等各種醫學影像分割任務上的全面實驗證明，ASSNet 達到了最先進的成果。程式碼和模型可於以下網址取得：\url{https://github.com/lzeeorno/ASSNet}。</paragraph>
+
 ##### **SoK: Security and Privacy Risks of Medical AI**
 2409.07415v1 by Yuanhaur Chang, Han Liu, Evin Jaff, Chenyang Lu, Ning Zhang
 
@@ -588,6 +644,38 @@ reports that are more sensitive to diseases and of improved quality. Our
 approach demonstrates promising results on the MIMIC-CXR and IU-Xray datasets.
 
 摘要：<paragraph>利用大型語言模型 (LLM) 強大的功能，進行敘事生成、邏輯推理和常識知識整合，本研究深入探討利用 LLM 來增強自動化放射報告生成 (R2Gen)。儘管 LLM 擁有豐富的知識，但要有效觸發這些大型模型中與特定任務（如 R2Gen）相關的知識，是一個重要的研究挑戰。本文提出了 KARGEN，一個基於 LLM 的知識增強自動化放射報告生成框架。利用凍結的 LLM 來生成報告，該框架整合了一個知識圖譜，以解鎖 LLM 中與胸部疾病相關的知識，以增強生成報告的臨床效用。這是透過利用知識圖譜以設計的方式提取與疾病相關的特徵來實現的。由於放射報告包含正常和疾病相關的發現，因此提取的圖形增強疾病相關特徵與區域影像特徵整合，兼顧兩個方面。我們探索了兩種融合方法，以自動優先排序和選擇最相關的特徵。融合的特徵由 LLM 使用，以生成對疾病更敏感且品質更高的報告。我們的做法在 MIMIC-CXR 和 IU-Xray 資料集上展示了有希望的結果。</paragraph>
+
+##### **Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review**
+2409.07493v1 by Javad Hassannataj Joloudari, Mohammad Maftoun, Bahareh Nakisa, Roohallah Alizadehsani, Meisam Yadollahzadeh-Tabari
+
+The Complex Emotion Recognition System (CERS) deciphers complex emotional
+states by examining combinations of basic emotions expressed, their
+interconnections, and the dynamic variations. Through the utilization of
+advanced algorithms, CERS provides profound insights into emotional dynamics,
+facilitating a nuanced understanding and customized responses. The attainment
+of such a level of emotional recognition in machines necessitates the knowledge
+distillation and the comprehension of novel concepts akin to human cognition.
+The development of AI systems for discerning complex emotions poses a
+substantial challenge with significant implications for affective computing.
+Furthermore, obtaining a sizable dataset for CERS proves to be a daunting task
+due to the intricacies involved in capturing subtle emotions, necessitating
+specialized methods for data collection and processing. Incorporating
+physiological signals such as Electrocardiogram (ECG) and Electroencephalogram
+(EEG) can notably enhance CERS by furnishing valuable insights into the user's
+emotional state, enhancing the quality of datasets, and fortifying system
+dependability. A comprehensive literature review was conducted in this study to
+assess the efficacy of machine learning, deep learning, and meta-learning
+approaches in both basic and complex emotion recognition utilizing EEG, ECG
+signals, and facial expression datasets. The chosen research papers offer
+perspectives on potential applications, clinical implications, and results of
+CERSs, with the objective of promoting their acceptance and integration into
+clinical decision-making processes. This study highlights research gaps and
+challenges in understanding CERSs, encouraging further investigation by
+relevant studies and organizations. Lastly, the significance of meta-learning
+approaches in improving CERS performance and guiding future research endeavors
+is underscored.
+
+摘要：複雜情緒辨識系統 (CERS) 透過檢驗表達的基本情緒組合、它們的相互連結，以及動態變化來解碼複雜的情緒狀態。透過使用進階演算法，CERS 提供了對情緒動態的深入見解，促進細緻的理解和客製化的回應。在機器中達成這種程度的情緒辨識需要知識提煉和理解類似於人類認知的新概念。發展用於辨別複雜情緒的人工智慧系統對情感運算來說是一個重大的挑戰，並具有重要的影響。此外，由於捕捉微妙情緒所涉及的複雜性，取得 CERS 的大量資料集被證明是一項艱鉅的任務，因此需要採用特殊的方法來收集和處理資料。納入生理訊號，例如心電圖 (ECG) 和腦電圖 (EEG)，可以透過提供對使用者情緒狀態的寶貴見解、提升資料集的品質以及強化系統的可靠性，來顯著增強 CERS。本研究進行了一項全面的文獻探討，以評估機器學習、深度學習和元學習方法在利用腦電圖、心電圖訊號和面部表情資料集進行基本和複雜情緒辨識方面的效能。所選的研究論文提供了關於 CERS 的潛在應用、臨床影響和結果的觀點，目的是促進它們被接受並整合到臨床決策制定過程中。本研究突出了理解 CERS 的研究差距和挑戰，鼓勵相關研究和組織進一步調查。最後，強調了元學習方法在改善 CERS 效能和指導未來研究工作中的重要性。
 
 ##### **Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**
 2409.05292v2 by Nirmalya Thakur
@@ -1402,6 +1490,34 @@ dataset and supporting artifacts are available at
 https://datasets.simula.no/kvasir-vqa.
 
 摘要：我們引進 Kvasir-VQA，一個由 HyperKvasir 和 Kvasir-Instrument 資料集衍生的延伸資料集，並加入問題與解答註解，以促進在胃腸 (GI) 診斷中的進階機器學習任務。此資料集包含 6,500 個註解影像，涵蓋各種 GI 道狀況和手術器械，並且支援包括是非題、選擇題、位置和數字計數等多種類型的問題。此資料集適用於影像標題、視覺問答 (VQA)、合成醫學影像的文字生成、物件偵測和分類等應用程式。我們的實驗證明此資料集在訓練三個選定任務的模型中具有成效，展示了在醫學影像分析和診斷中重要的應用。我們也為每個任務提供評估指標，突顯我們資料集的可用性和多功能性。此資料集和支援工件可於 https://datasets.simula.no/kvasir-vqa 取得。
+
+##### **EEG-Language Modeling for Pathology Detection**
+2409.07480v1 by Sam Gijsen, Kerstin Ritter
+
+Multimodal language modeling constitutes a recent breakthrough which
+leverages advances in large language models to pretrain capable multimodal
+models. The integration of natural language during pretraining has been shown
+to significantly improve learned representations, particularly in computer
+vision. However, the efficacy of multimodal language modeling in the realm of
+functional brain data, specifically for advancing pathology detection, remains
+unexplored. This study pioneers EEG-language models trained on clinical reports
+and 15000 EEGs. We extend methods for multimodal alignment to this novel domain
+and investigate which textual information in reports is useful for training
+EEG-language models. Our results indicate that models learn richer
+representations from being exposed to a variety of report segments, including
+the patient's clinical history, description of the EEG, and the physician's
+interpretation. Compared to models exposed to narrower clinical text
+information, we find such models to retrieve EEGs based on clinical reports
+(and vice versa) with substantially higher accuracy. Yet, this is only observed
+when using a contrastive learning approach. Particularly in regimes with few
+annotations, we observe that representations of EEG-language models can
+significantly improve pathology detection compared to those of EEG-only models,
+as demonstrated by both zero-shot classification and linear probes. In sum,
+these results highlight the potential of integrating brain activity data with
+clinical text, suggesting that EEG-language models represent significant
+progress for clinical applications.
+
+摘要：多模态语言建模是一项最近的突破，它利用大型语言模型的进步来预训练有能力的多模态模型。事实证明，在预训练期间整合自然语言可以显著改善学习到的表征，特别是在计算机视觉中。然而，多模态语言建模在功能性脑数据领域中的功效，特别是对于推进病理检测，仍然未得到探索。本研究开创了在临床报告和 15000 个脑电图上训练的脑电图语言模型。我们将多模态对齐的方法扩展到这个新领域，并研究报告中的哪些文本信息对于训练脑电图语言模型是有用的。我们的结果表明，通过接触各种报告片段（包括患者的病史、脑电图描述和医生的解释），模型可以学习到更丰富的表征。与接触到较窄的临床文本信息的模型相比，我们发现此类模型可以根据临床报告（反之亦然）检索脑电图，其准确性大大提高。然而，只有在使用对比学习方法时才会观察到这一点。特别是在注释较少的方案中，我们观察到脑电图语言模型的表征可以显著改善病理检测，与仅脑电图模型相比，零样本分类和线性探针都证明了这一点。总之，这些结果突出了将脑活动数据与临床文本相结合的潜力，表明脑电图语言模型代表了临床应用的重大进展。
 
 ##### **SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**
 2409.01013v1 by Mevan Ekanayake, Zhifeng Chen, Gary Egan, Mehrtash Harandi, Zhaolin Chen
@@ -2520,98 +2636,4 @@ proof-of-concept focuses on pleural effusion diagnosis and uses publicly
 available Chest X-ray data.
 
 摘要：我們探索深度生成模型，在醫療聯邦學習設置中生成基於案例的說明。透過基於案例的可解釋性來解釋 AI 模型決策，對於增加信任並允許 AI 在臨床實務中廣泛採用至關重要。然而，醫療 AI 訓練範例正轉向聯邦學習設置，以符合資料保護法規。在聯邦情境中，過去的資料對目前的使用者而言是無法取得的。因此，我們使用深度生成模型來產生保護隱私和解釋決策的合成範例。我們的概念驗證著重於胸腔積液診斷，並使用公開可取得的胸部 X 光資料。
-
-##### **HBIC: A Biclustering Algorithm for Heterogeneous Datasets**
-2408.13217v1 by Adán José-García, Julie Jacques, Clément Chauvet, Vincent Sobanski, Clarisse Dhaenens
-
-Biclustering is an unsupervised machine-learning approach aiming to cluster
-rows and columns simultaneously in a data matrix. Several biclustering
-algorithms have been proposed for handling numeric datasets. However,
-real-world data mining problems often involve heterogeneous datasets with mixed
-attributes. To address this challenge, we introduce a biclustering approach
-called HBIC, capable of discovering meaningful biclusters in complex
-heterogeneous data, including numeric, binary, and categorical data. The
-approach comprises two stages: bicluster generation and bicluster model
-selection. In the initial stage, several candidate biclusters are generated
-iteratively by adding and removing rows and columns based on the frequency of
-values in the original matrix. In the second stage, we introduce two approaches
-for selecting the most suitable biclusters by considering their size and
-homogeneity. Through a series of experiments, we investigated the suitability
-of our approach on a synthetic benchmark and in a biomedical application
-involving clinical data of systemic sclerosis patients. The evaluation
-comparing our method to existing approaches demonstrates its ability to
-discover high-quality biclusters from heterogeneous data. Our biclustering
-approach is a starting point for heterogeneous bicluster discovery, leading to
-a better understanding of complex underlying data structures.
-
-摘要：雙聚類是一種非監督機器學習方法，旨在同時對資料矩陣中的列和行進行聚類。已提出多種雙聚類演算法來處理數值資料集。然而，現實世界的資料探勘問題通常涉及具有混合屬性的異質資料集。為了應對這一挑戰，我們引入了一種名為 HBIC 的雙聚類方法，它能夠在複雜的異質資料（包括數值、二進制和類別資料）中發現有意義的雙聚類。該方法包括兩個階段：雙聚類生成和雙聚類模型選擇。在初始階段，通過根據原始矩陣中的值頻率新增和移除列和行，反覆生成多個候選雙聚類。在第二階段，我們引入了兩種方法，通過考慮雙聚類的大小和同質性來選擇最合適的雙聚類。通過一系列實驗，我們研究了我們的方法在合成基準和涉及全身性硬化症患者臨床資料的生物醫學應用中的適用性。將我們的演算法與現有方法進行比較，評估結果證明了其從異質資料中發現高品質雙聚類的能力。我們的雙聚類方法是異質雙聚類發現的起點，有助於更好地理解複雜的底層資料結構。
-
-##### **Causal machine learning for sustainable agroecosystems**
-2408.13155v1 by Vasileios Sitokonstantinou, Emiliano Díaz Salas Porras, Jordi Cerdà Bautista, Maria Piles, Ioannis Athanasiadis, Hannah Kerner, Giulia Martini, Lily-belle Sweet, Ilias Tsoumas, Jakob Zscheischler, Gustau Camps-Valls
-
-In a changing climate, sustainable agriculture is essential for food security
-and environmental health. However, it is challenging to understand the complex
-interactions among its biophysical, social, and economic components. Predictive
-machine learning (ML), with its capacity to learn from data, is leveraged in
-sustainable agriculture for applications like yield prediction and weather
-forecasting. Nevertheless, it cannot explain causal mechanisms and remains
-descriptive rather than prescriptive. To address this gap, we propose causal
-ML, which merges ML's data processing with causality's ability to reason about
-change. This facilitates quantifying intervention impacts for evidence-based
-decision-making and enhances predictive model robustness. We showcase causal ML
-through eight diverse applications that benefit stakeholders across the
-agri-food chain, including farmers, policymakers, and researchers.
-
-摘要：在氣候變遷的影響下，永續農業對於糧食安全和環境健康至關重要。然而，要了解其生物物理、社會和經濟成分之間的複雜互動卻是一項挑戰。預測機器學習 (ML) 具備從資料中學習的能力，因此被運用於永續農業中，例如產量預測和天氣預報等應用。儘管如此，它無法解釋因果機制，且仍然是描述性的而非規範性的。為了解決這個差距，我們提出了因果 ML，它將 ML 的資料處理與因果關係推理變化的能力結合在一起。這有助於量化干預影響，以利於基於證據的決策制定，並增強預測模型的穩健性。我們透過八個不同的應用展示因果 ML，這些應用惠及農業食品鏈中的利害關係人，包括農民、政策制定者和研究人員。
-
-##### **Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**
-2408.12880v1 by Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng
-
-The rapid development of artificial intelligence has constantly reshaped the
-field of intelligent healthcare and medicine. As a vital technology, multimodal
-learning has increasingly garnered interest due to data complementarity,
-comprehensive modeling form, and great application potential. Currently,
-numerous researchers are dedicating their attention to this field, conducting
-extensive studies and constructing abundant intelligent systems. Naturally, an
-open question arises that has multimodal learning delivered universal
-intelligence in healthcare? To answer the question, we adopt three unique
-viewpoints for a holistic analysis. Firstly, we conduct a comprehensive survey
-of the current progress of medical multimodal learning from the perspectives of
-datasets, task-oriented methods, and universal foundation models. Based on
-them, we further discuss the proposed question from five issues to explore the
-real impacts of advanced techniques in healthcare, from data and technologies
-to performance and ethics. The answer is that current technologies have NOT
-achieved universal intelligence and there remains a significant journey to
-undertake. Finally, in light of the above reviews and discussions, we point out
-ten potential directions for exploration towards the goal of universal
-intelligence in healthcare.
-
-摘要：人工智能的快速发展持续重塑着智能医疗和医学领域。作为一项至关重要的技术，多模态学习由于数据互补性、综合建模形式和巨大的应用潜力而日益受到关注。目前，众多研究者将注意力投向这一领域，开展了广泛的研究并构建了丰富的智能系统。自然而然地，一个开放的问题出现了，即多模态学习是否在医疗保健中提供了通用智能？为了回答这个问题，我们采用三个独特的视角进行整体分析。首先，我们从数据集、面向任务的方法和通用基础模型的角度对医学多模态学习的当前进展进行了全面的调查。在此基础上，我们进一步从五个问题讨论了提出的问题，以探讨先进技术在医疗保健中的实际影响，从数据和技术到性能和伦理。答案是，当前技术尚未实现通用智能，并且仍有很长的路要走。最后，根据上述回顾和讨论，我们指出了实现医疗保健通用智能目标的十个潜在探索方向。
-
-##### **COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**
-2408.12841v1 by Mohsen Asghari Ilani, Saba Moftakhar Tehran, Ashkan Kavei, Arian Radmehr
-
-The ongoing COVID-19 pandemic continues to pose significant challenges to
-global public health, despite the widespread availability of vaccines. Early
-detection of the disease remains paramount in curbing its transmission and
-mitigating its impact on public health systems. In response, this study delves
-into the application of advanced machine learning (ML) techniques for
-predicting COVID-19 infection probability. We conducted a rigorous
-investigation into the efficacy of various ML models, including XGBoost, LGBM,
-AdaBoost, Logistic Regression, Decision Tree, RandomForest, CatBoost, KNN, and
-Deep Neural Networks (DNN). Leveraging a dataset comprising 4000 samples, with
-3200 allocated for training and 800 for testing, our experiment offers
-comprehensive insights into the performance of these models in COVID-19
-prediction. Our findings reveal that Deep Neural Networks (DNN) emerge as the
-top-performing model, exhibiting superior accuracy and recall metrics. With an
-impressive accuracy rate of 89%, DNN demonstrates remarkable potential in early
-COVID-19 detection. This underscores the efficacy of deep learning approaches
-in leveraging complex data patterns to identify COVID-19 infections accurately.
-This study underscores the critical role of machine learning, particularly deep
-learning methodologies, in augmenting early detection efforts amidst the
-ongoing pandemic. The success of DNN in accurately predicting COVID-19
-infection probability highlights the importance of continued research and
-development in leveraging advanced technologies to combat infectious diseases.
-
-摘要：持續進行的 COVID-19 大流行病持續對全球公共衛生構成重大挑戰，儘管疫苗已廣泛提供。早期發現疾病仍然是遏制其傳播和減輕其對公共衛生系統影響的首要任務。為此，本研究深入探討先進機器學習 (ML) 技術在預測 COVID-19 感染機率方面的應用。我們對各種 ML 模型的效能進行了嚴謹的調查，包括 XGBoost、LGBM、AdaBoost、邏輯迴歸、決策樹、隨機森林、CatBoost、KNN 和深度神經網路 (DNN)。利用包含 4000 個樣本的資料集，其中 3200 個分配給訓練，800 個分配給測試，我們的實驗對這些模型在 COVID-19 預測中的效能提供了全面的見解。我們的研究結果顯示，深度神經網路 (DNN) 成為表現最佳的模型，展現出優異的準確度和召回率指標。DNN 以 89% 的驚人準確度，證明了在早期 COVID-19 檢測中的傑出潛力。這突顯了深度學習方法在利用複雜資料模式準確識別 COVID-19 感染方面的效能。本研究強調了機器學習，特別是深度學習方法，在持續的大流行病中擴增早期檢測工作中的關鍵作用。DNN 在準確預測 COVID-19 感染機率方面的成功，突顯了持續研究和開發利用先進技術來對抗傳染病的重要性。
 

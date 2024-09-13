@@ -67,13 +67,13 @@
 |**2024-09-10**|**Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study**|Ilias Siniosoglou et.al.|[2409.06904v1](http://arxiv.org/abs/2409.06904v1)|null|
 |**2024-09-10**|**A Dataset for Evaluating LLM-based Evaluation Functions for Research Question Extraction Task**|Yuya Fujisaki et.al.|[2409.06883v1](http://arxiv.org/abs/2409.06883v1)|null|
 |**2024-09-10**|**NSP: A Neuro-Symbolic Natural Language Navigational Planner**|William English et.al.|[2409.06859v1](http://arxiv.org/abs/2409.06859v1)|null|
-|**2024-09-10**|**What is the Role of Small Models in the LLM Era: A Survey**|Lihu Chen et.al.|[2409.06857v1](http://arxiv.org/abs/2409.06857v1)|[link](https://github.com/tigerchen52/role_of_small_models)|
+|**2024-09-10**|**What is the Role of Small Models in the LLM Era: A Survey**|Lihu Chen et.al.|[2409.06857v2](http://arxiv.org/abs/2409.06857v2)|[link](https://github.com/tigerchen52/role_of_small_models)|
 |**2024-09-10**|**LIME-M: Less Is More for Evaluation of MLLMs**|Kang Zhu et.al.|[2409.06851v1](http://arxiv.org/abs/2409.06851v1)|[link](https://github.com/kangreen0210/lime-m)|
 |**2024-09-10**|**PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation**|Ilya Gusev et.al.|[2409.06820v1](http://arxiv.org/abs/2409.06820v1)|null|
 |**2024-09-10**|**Bifurcation Identification for Ultrasound-driven Robotic Cannulation**|Cecilia G. Morales et.al.|[2409.06817v1](http://arxiv.org/abs/2409.06817v1)|null|
 |**2024-09-10**|**Personalized Federated Learning Techniques: Empirical Analysis**|Azal Ahmad Khan et.al.|[2409.06805v1](http://arxiv.org/abs/2409.06805v1)|null|
 |**2024-09-10**|**Decomposition of surprisal: Unified computational model of ERP components in language processing**|Jiaxuan Li et.al.|[2409.06803v1](http://arxiv.org/abs/2409.06803v1)|null|
-|**2024-09-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al.|[2409.06800v1](http://arxiv.org/abs/2409.06800v1)|[link](https://github.com/mlaurelli/amdtl/blob/main/README.md)|
+|**2024-09-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al.|[2409.06800v1](http://arxiv.org/abs/2409.06800v1)|[link](https://github.com/mlaurelli/amdtl)|
 |**2024-09-10**|**Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts**|Eleftheria Briakou et.al.|[2409.06790v1](http://arxiv.org/abs/2409.06790v1)|null|
 |**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[2409.06702v1](http://arxiv.org/abs/2409.06702v1)|null|
 |**2024-09-10**|**Modeling Image Tone Dichotomy with the Power Function**|Axel Martinez et.al.|[2409.06764v1](http://arxiv.org/abs/2409.06764v1)|null|
@@ -85,7 +85,7 @@
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666v1](http://arxiv.org/abs/2409.06666v1)|[link](https://github.com/ictnlp/llama-omni)|
 |**2024-09-10**|**Sortformer: Seamless Integration of Speaker Diarization and ASR by Bridging Timestamps and Tokens**|Taejin Park et.al.|[2409.06656v1](http://arxiv.org/abs/2409.06656v1)|null|
 |**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v2](http://arxiv.org/abs/2409.06644v2)|null|
-|**2024-09-10**|**TeXBLEU: Automatic Metric for Evaluate LaTeX Format**|Kyudan Jung et.al.|[2409.06639v1](http://arxiv.org/abs/2409.06639v1)|[link](https://github.com/kyudan1/texbleu)|
+|**2024-09-10**|**TeXBLEU: Automatic Metric for Evaluate LaTeX Format**|Kyudan Jung et.al.|[2409.06639v2](http://arxiv.org/abs/2409.06639v2)|[link](https://github.com/kyudan1/texbleu)|
 |**2024-09-10**|**MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders**|Wenyu Zhang et.al.|[2409.06635v1](http://arxiv.org/abs/2409.06635v1)|null|
 |**2024-09-10**|**Beyond designer's knowledge: Generating materials design hypotheses via large language models**|Quanliang Liu et.al.|[2409.06756v1](http://arxiv.org/abs/2409.06756v1)|null|
 |**2024-09-10**|**A Practice of Post-Training on Llama-3 70B with Optimal Selection of Additional Language Mixture Ratio**|Ningyuan Xi et.al.|[2409.06624v1](http://arxiv.org/abs/2409.06624v1)|null|
@@ -1647,7 +1647,7 @@ that are on average 19-77% shorter than state-of-the-art neural approaches.
 摘要：能夠解讀自由形式自然語言指令的路徑規劃器，有望自動化各種機器人應用程式。這些規劃器簡化了使用者互動，並能直覺地控制複雜的半自主系統。現有的符號方法雖然保證了正確性和效率，但在解析自由形式的自然語言輸入時卻有困難。相反地，基於預先訓練的大語言模型 (LLM) 的神經方法可以處理自然語言輸入，但缺乏效能保證。在本文中，我們提出了一個名為 NSP 的神經符號框架，用於從自然語言輸入進行路徑規劃。該框架利用 LLM 的神經推理能力來 i) 建構環境的符號表示，以及 ii) 一個符號路徑規劃演算法。接著，透過在環境表示上執行演算法，得到路徑規劃問題的解法。該框架使用從符號執行環境到神經生成過程的回饋迴路，以自行修正語法錯誤並滿足執行時間限制。我們使用包含 1500 個路徑規劃問題的基準測試套件，來評估我們的神經符號方法。實驗評估顯示，我們的神經符號方法產生了 90.1% 有效路徑，平均比最先進的神經方法短 19-77%。
 
 ##### **What is the Role of Small Models in the LLM Era: A Survey**
-2409.06857v1 by Lihu Chen, Gaël Varoquaux
+2409.06857v2 by Lihu Chen, Gaël Varoquaux
 
 Large Language Models (LLMs) have made significant progress in advancing
 artificial general intelligence (AGI), leading to the development of
@@ -1665,7 +1665,7 @@ understanding of the contribution of small models and promoting more efficient
 use of computational resources. The code is available at
 https://github.com/tigerchen52/role_of_small_models
 
-摘要：大型語言模型 (LLM) 在推進人工通用智能 (AGI) 方面取得了顯著進展，導致開發出 GPT-4 和 LLaMA-405B 等越來越大的模型。然而，擴展模型規模會導致指數級更高的計算成本和能源消耗，這使得這些模型對於學術研究人員和資源有限的企業來說不切實際。與此同時，小型模型 (SM) 經常在實際環境中使用，儘管它們的重要性目前被低估了。這提出了關於小型模型在 LLM 時代所扮演角色的重要問題，這是一個在先前的研究中受到關注有限的主題。在這項工作中，我們從兩個關鍵角度系統地檢查了 LLM 和 SM 之間的關係：協作和競爭。我們希望這項調查能為實務工作者提供寶貴的見解，促進對小型模型貢獻的更深入理解，並促進更有效地使用計算資源。代碼可在 https://github.com/tigerchen52/role_of_small_models 取得
+摘要：大型語言模型 (LLM) 在促進人工通用智能 (AGI) 方面取得了重大進展，導致開發出越來越大的模型，例如 GPT-4 和 LLaMA-405B。然而，擴大模型規模會導致計算成本和能源消耗呈指數級增長，這使得這些模型對於資源有限的學術研究人員和企業來說不切實際。與此同時，小型模型 (SM) 經常在實際環境中使用，儘管它們的重要性目前被低估了。這引發了關於 LLM 時代小型模型作用的重要問題，這個話題在先前的研究中受到的關注有限。在這項工作中，我們從協作和競爭這兩個關鍵角度系統地探討了 LLM 和 SM 之間的關係。我們希望這項調查能為實務工作者提供有價值的見解，促進對小型模型貢獻的更深入理解，並促進更有效率地使用計算資源。程式碼可在 https://github.com/tigerchen52/role_of_small_models 獲得
 
 ##### **LIME-M: Less Is More for Evaluation of MLLMs**
 2409.06851v1 by Kang Zhu, Qianbo Zang, Shian Jia, Siwei Wu, Feiteng Fang, Yizhi Li, Shuyue Guo, Tianyu Zheng, Bo Li, Haoning Wu, Xingwei Qu, Jian Yang, Zachary Liu, Xiang Yue, J. H. Liu, Chenghua Lin, Min Yang, Shiwen Ni, Wenhao Huang, Ge Zhang
@@ -2058,31 +2058,23 @@ long-tail scenarios.
 摘要：早期偵測青光眼、黃斑部病變和糖尿病視網膜病變等眼疾對於預防視力喪失至關重要。儘管人工智慧 (AI) 基礎模型在應對這些挑戰方面極具前景，但現有的眼科基礎模型主要關注於單一模式，而診斷眼疾需要多種模式。一個重要但經常被忽視的方面是利用同一患者不同模式的多視圖資訊。此外，由於眼科疾病的長尾性質，標準的全監督或無監督學習方法通常難以應付。因此，整合臨床文本以涵蓋更廣泛的疾病譜系至關重要。我們提出 EyeCLIP，這是一個視覺語言基礎模型，使用超過 277 萬張具有部分文字資料的多模式眼科影像開發而成。為了充分利用大量的多模式未標記和標記資料，我們引入了一種預訓練策略，結合了自我監督重建、多模式影像對比學習和影像文字對比學習，以學習多種模式的共享表徵。透過使用 14 個基準資料集進行評估，EyeCLIP 可以轉移到涉及眼部和全身疾病的廣泛下游任務，在疾病分類、視覺問題解答和跨模式檢索中實現最先進的效能。EyeCLIP 代表了對先前方法的重大進展，特別是在現實世界長尾場景中展示了小樣本，甚至零樣本的能力。
 
 ##### **TeXBLEU: Automatic Metric for Evaluate LaTeX Format**
-2409.06639v1 by Kyudan Jung, Nam-Joon Kim, Hyongon Ryu, Sieun Hyeon, Seung-jun Lee, Hyeok-jae Lee
+2409.06639v2 by Kyudan Jung, Nam-Joon Kim, Hyongon Ryu, Sieun Hyeon, Seung-jun Lee, Hyeok-jae Lee
 
-LaTeX is highly suited to creating documents with special formatting,
-particularly in the fields of science, technology, mathematics, and computer
-science. Despite the increasing use of mathematical expressions in LaTeX format
-with language models, there are no evaluation metrics for evaluating them. In
-this study, we propose TeXBLEU, an evaluation metric tailored for mathematical
-expressions in LaTeX format, based on the n-gram-based BLEU metric that is
-widely used for translation tasks. The proposed TeXBLEU includes a predefined
-tokenizer trained on the arXiv paper dataset and a finetuned embedding model.
-It also considers the positional embedding of tokens. Simultaneously, TeXBLEU
-compares tokens based on n-grams and computes the score using exponentiation of
-a logarithmic sum, similar to the original BLEU. Experimental results show that
-TeXBLEU outperformed traditional evaluation metrics such as BLEU, Rouge, CER,
-and WER when compared to human evaluation data on the test dataset of the
-MathBridge dataset, which contains 1,000 data points. The average correlation
-coefficient with human evaluation was 0.71, which is an improvement of 87%
-compared with BLEU, which had the highest correlation with human evaluation
-data among the existing metrics. The code is available at
-https://github.com/KyuDan1/TeXBLEU.
+LaTeX is suitable for creating specially formatted documents in science,
+technology, mathematics, and computer science. Although the use of mathematical
+expressions in LaTeX format along with language models is increasing, there are
+no proper evaluation matrices to evaluate them. In this study, we propose
+TeXBLEU, a metric for evaluating mathematical expressions in the LaTeX format
+built on the n-gram-based BLEU metric widely used in translation tasks. The
+proposed TeXBLEU consists of a predefined tokenizer trained on the arXiv paper
+dataset and a fine-tuned embedding model with positional encoding. The TeXBLEU
+score was calculated by replacing BLUE's modified precision score with the
+similarity of n-gram-based tokens. TeXBLEU showed improvements of 86\%, 121\%,
+and 610\% over traditional evaluation metrics, such as BLEU, sacreBLEU, and
+Rouge, respectively, on the MathBridge dataset with 1,000 data points. The code
+is available at https://github.com/KyuDan1/TeXBLEU.
 
-摘要：LaTeX 非常適合用於建立具有特殊格式的文件，
-尤其是在科學、技術、數學和電腦科學領域。儘管 LaTeX 格式的數學表達式在語言模型中使用越來越多，
-但沒有評估指標可以評估它們。在這項研究中，我們提出 TeXBLEU，這是一個針對 LaTeX 格式的數學表達式而設計的評估指標，它基於廣泛用於翻譯任務的 n-gram 為基礎的 BLEU 指標。所提出的 TeXBLEU 包含一個預先定義的標記化器，該標記化器在 arXiv 論文資料集上進行訓練，並包含一個微調的嵌入模型。
-它還考慮了標記的位置嵌入。同時，TeXBLEU 根據 n-gram 比較標記，並使用對數和的指數計算分數，類似於原始 BLEU。實驗結果顯示，與 MathBridge 資料集的測試資料集上的人類評估資料相比，TeXBLEU 優於傳統評估指標，例如 BLEU、Rouge、CER 和 WER。MathBridge 資料集包含 1,000 個資料點。與人類評估的平均相關係數為 0.71，與 BLEU 相比，改進了 87%，而 BLEU 在現有指標中與人類評估資料相關性最高。程式碼可在 https://github.com/KyuDan1/TeXBLEU 取得。
+摘要：LaTeX 適用於製作科學、技術、數學和電腦科學中格式特殊的文章。儘管 LaTeX 格式中的數學表達式與語言模型的使用日益增加，但目前沒有適當的評估矩陣來評估它們。在這項研究中，我們提出了 TeXBLEU，這是一種用於評估 LaTeX 格式中數學表達式的指標，它建立在廣泛用於翻譯任務的基於 n-gram 的 BLEU 指標上。所提出的 TeXBLEU 包含一個在 arXiv 論文資料集上訓練好的預定義分詞器，以及一個帶有位置編碼的微調嵌入模型。TeXBLEU 分數是透過將 BLUE 的修改後準確度分數替換為基於 n-gram 的標記的相似性來計算的。在包含 1,000 個資料點的 MathBridge 資料集上，TeXBLEU 分別比傳統的評估指標，例如 BLEU、sacreBLEU 和 Rouge，提高了 86%、121% 和 610%。該程式碼可於 https://github.com/KyuDan1/TeXBLEU 取得。
 
 ##### **MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders**
 2409.06635v1 by Wenyu Zhang, Shuo Sun, Bin Wang, Xunlong Zou, Zhuohan Liu, Yingxu He, Geyu Lin, Nancy F. Chen, Ai Ti Aw

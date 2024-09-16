@@ -6,7 +6,7 @@
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273v1](http://arxiv.org/abs/2409.08273v1)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264v1](http://arxiv.org/abs/2409.08264v1)|[link](https://github.com/microsoft/windowsagentarena)|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255v1](http://arxiv.org/abs/2409.08255v1)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253v1](http://arxiv.org/abs/2409.08253v1)|null|
+|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253v2](http://arxiv.org/abs/2409.08253v2)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250v1](http://arxiv.org/abs/2409.08250v1)|null|
 |**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240v1](http://arxiv.org/abs/2409.08240v1)|null|
 |**2024-09-12**|**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**|Alisia Lupidi et.al.|[2409.08239v1](http://arxiv.org/abs/2409.08239v1)|null|
@@ -39,7 +39,7 @@
 |**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869v1](http://arxiv.org/abs/2409.07869v1)|[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)|
 |**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850v1](http://arxiv.org/abs/2409.07850v1)|null|
 |**2024-09-12**|**FPMT: Enhanced Semi-Supervised Model for Traffic Incident Detection**|Xinying Lu et.al.|[2409.07839v1](http://arxiv.org/abs/2409.07839v1)|null|
-|**2024-09-12**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825v1](http://arxiv.org/abs/2409.07825v1)|null|
+|**2024-09-12**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825v2](http://arxiv.org/abs/2409.07825v2)|null|
 |**2024-09-12**|**Online vs Offline: A Comparative Study of First-Party and Third-Party Evaluations of Social Chatbots**|Ekaterina Svikhnushina et.al.|[2409.07823v1](http://arxiv.org/abs/2409.07823v1)|null|
 |**2024-09-12**|**Controllable Synthetic Clinical Note Generation with Privacy Guarantees**|Tal Baumel et.al.|[2409.07809v1](http://arxiv.org/abs/2409.07809v1)|null|
 |**2024-09-12**|**In-Situ Fine-Tuning of Wildlife Models in IoT-Enabled Camera Traps for Efficient Adaptation**|Mohammad Mehdi Rastikerdar et.al.|[2409.07796v1](http://arxiv.org/abs/2409.07796v1)|null|
@@ -196,7 +196,7 @@ and ImageNet datasets under both white-box and black-box settings.
 摘要：這項工作提出了基於擴散的淨化方法的信息理論檢驗，這是一種最先進的對抗性防禦，利用擴散模型來移除對抗性範例中的惡意擾動。通過理論上表徵與基於馬可夫的擴散淨化相關的固有淨化誤差，我們引入了 LoRID，一種新穎的低秩反覆擴散淨化方法，旨在以低內在淨化誤差移除對抗性擾動。LoRID 以多階段淨化過程為中心，利用擴散模型的早期時間步長進行多輪擴散去噪迴圈，並整合了矩陣分解的延伸 — 塔克分解，以在高噪聲狀態下移除對抗性雜訊。因此，LoRID增加了有效的擴散時間步長，並克服了強大的對抗性攻擊，在白盒和黑盒設定下，在 CIFAR-10/100、CelebA-HQ 和 ImageNet 資料集上達到了優異的穩健性表現。
 
 ##### **The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**
-2409.08253v1 by Ashwini Gundappa, Emilia Ellsiepen, Lukas Schmitz, Frederik Wiehr, Vera Demberg
+2409.08253v2 by Ashwini Gundappa, Emilia Ellsiepen, Lukas Schmitz, Frederik Wiehr, Vera Demberg
 
 The question of how cyber-physical systems should interact with human
 partners that can take over control or exert oversight is becoming more
@@ -218,9 +218,9 @@ faster reactions. Also, synchronizing the visual highlighting with the spoken
 message did not result in better accuracy and response times were even
 increased in this condition.
 
-摘要：隨著這些系統被部署到更多任務中，網路物理系統應如何與可以接管控制或進行監督的人類夥伴互動的問題變得越來越緊迫。
-根據半自動駕駛和人機互動過程中交出控制權的文獻，我們提出了一個接管請求的設計，它結合了抽象的預警和資訊性的 TOR：相關的感測器資訊會在控制器的顯示器上突出顯示，而語音訊息則會說明 TOR 的原因。我們在半自動無人機控制場景中進行研究，作為我們的測試平台。我們的線上研究目標是更詳細地評估基於語言的 TOR 應採取何種形式。
-具體來說，我們將一個完整句子的條件與較短的片段進行比較，並測試視覺突出顯示是否應與語音同步或異步執行。參與者在使用我們的雙模式 TOR 時，在選擇正確解決方案方面表現出更高的準確性，並認為他們更能識別關鍵情況。在語音訊息中只使用片段，而不是完整句子，並未提高準確性或加快反應速度。此外，將視覺突出顯示與語音訊息同步並未帶來更好的準確性，而且在此條件下，反應時間甚至增加。
+摘要：隨著這些系統被部署到越來越廣泛的任務中，如何讓網路物理系統與可以接管控制或執行監督的人類夥伴互動的問題變得越來越緊迫。
+透過利用關於在半自動駕駛和人機互動中移交控制權的文獻，我們提出了一個接管請求的設計，它結合了一個抽象的預警和一個資訊性的 TOR：相關的感測器資訊會在控制器的顯示器上被凸顯，而一個口語訊息則會表達 TOR 的原因。我們在一個半自動無人機控制場景的背景下進行我們的研究，作為我們的測試平台。我們的線上研究的目標是更詳細地評估基於語言的 TOR 應該採取什麼形式。
+具體來說，我們比較一個完整句子的條件和較短的片段，並測試視覺凸顯是否應該與語音同步或異步進行。參與者在使用我們的雙模式 TOR 時展現出更高的準確性，並感覺他們更能夠識別關鍵情況。在口語訊息中只使用片段而不是完整句子並未導致準確性提高或反應更快。此外，將視覺凸顯與口語訊息同步並未導致更好的準確性，而且在此條件下，反應時間甚至增加。
 
 ##### **OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**
 2409.08250v1 by Jiahao Nick Li, Zhuohao Jerry Zhang, Jiaju Ma
@@ -953,7 +953,7 @@ noteworthy is its robust performance even in scenarios with low label rates.
 摘要：對於交通事件偵測，資料與標籤的取得顯著地耗費資源，這使得半監督式交通事件偵測成為一項既艱鉅且重要的挑戰。因此，本文專注於採用半監督式學習方式的交通事件偵測。它在 MixText 框架內提出一個名為 FPMT 的半監督式學習模型。資料擴充模組引入了生成對抗網路，以平衡並擴充資料集。在隱藏空間的 mix-up 程序中，它採用機率偽混合機制來增強正則化並提升模型精確度。在訓練策略方面，它從所有資料的無監督式訓練開始，接著在標籤資料的子集中進行監督式微調，最後完成半監督式訓練的目標。透過在四個真實資料集上的實證驗證，我們的 FPMT 模型展現出跨越各種指標的傑出效能。特別值得注意的是，即使在標籤率低的情況下，它仍有穩健的效能。
 
 ##### **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**
-2409.07825v1 by Renjie Wu, Hu Wang, Hsiang-Ting Chen
+2409.07825v2 by Renjie Wu, Hu Wang, Hsiang-Ting Chen
 
 During multimodal model training and reasoning, data samples may miss certain
 modalities and lead to compromised model performance due to sensor limitations,
@@ -966,7 +966,7 @@ detailed analysis of current MLMM methods, applications, and datasets,
 concluding with a discussion about challenges and potential future directions
 in the field.
 
-摘要：在多模態模型訓練和推理過程中，資料範例可能會遺失某些模態，並因感測器限制、成本限制、隱私考量、資料遺失，以及時間和空間因素而導致模型效能受損。本調查提供了多模態學習中遺失模態（MLMM）的近期進展概觀，重點在深度學習技術。這是第一個涵蓋歷史背景和 MLMM 與標準多模態學習設定之間區別的全面調查，接著詳細分析目前的 MLMM 方法、應用程式和資料集，並以討論該領域的挑戰和潛在未來方向作為結尾。
+摘要：在多模态模型训练和推理期间，数据样本可能会缺少某些模态，并且由于传感器限制、成本限制、隐私问题、数据丢失以及时间和空间因素而导致模型性能受损。本调查概述了缺失模态多模态学习 (MLMM) 的最新进展，重点是深度学习技术。这是第一份涵盖历史背景和 MLMM 与标准多模态学习设置之间区别的综合调查，随后详细分析了当前的 MLMM 方法、应用程序和数据集，最后讨论了该领域的挑战和潜在未来方向。
 
 ##### **Online vs Offline: A Comparative Study of First-Party and Third-Party Evaluations of Social Chatbots**
 2409.07823v1 by Ekaterina Svikhnushina, Pearl Pu

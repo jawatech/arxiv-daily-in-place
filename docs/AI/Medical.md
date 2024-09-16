@@ -2,6 +2,8 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936v1](http://arxiv.org/abs/2409.08936v1)|[link](https://github.com/prabaey/synsum)|
+|**2024-09-13**|**A BERT-Based Summarization approach for depression detection**|Hossein Salahshoor Gavalan et.al.|[2409.08483v1](http://arxiv.org/abs/2409.08483v1)|null|
 |**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793v1](http://arxiv.org/abs/2409.07793v1)|[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)|
 |**2024-09-12**|**ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation**|Fuchen Zheng et.al.|[2409.07779v1](http://arxiv.org/abs/2409.07779v1)|[link](https://github.com/lzeeorno/assnet)|
 |**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415v1](http://arxiv.org/abs/2409.07415v1)|null|
@@ -27,7 +29,7 @@
 |**2024-09-09**|**Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review**|Javad Hassannataj Joloudari et.al.|[2409.07493v1](http://arxiv.org/abs/2409.07493v1)|null|
 |**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v2](http://arxiv.org/abs/2409.05292v2)|null|
 |**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280v1](http://arxiv.org/abs/2409.05280v1)|[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)|
-|**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915v1](http://arxiv.org/abs/2409.04915v1)|null|
+|**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915v1](http://arxiv.org/abs/2409.04915v1)|[link](https://github.com/abdurrahman1828/afos)|
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744v1](http://arxiv.org/abs/2409.04744v1)|null|
 |**2024-09-07**|**NapTune: Efficient Model Tuning for Mood Classification using Previous Night's Sleep Measures along with Wearable Time-series**|Debaditya Shome et.al.|[2409.04723v1](http://arxiv.org/abs/2409.04723v1)|null|
 |**2024-09-07**|**A Comprehensive Survey on Evidential Deep Learning and Its Applications**|Junyu Gao et.al.|[2409.04720v1](http://arxiv.org/abs/2409.04720v1)|[link](https://github.com/mengyuanchen21/awesome-evidential-deep-learning)|
@@ -100,10 +102,63 @@
 |**2024-08-26**|**Automatic Medical Report Generation: Methods and Applications**|Li Guo et.al.|[2408.13988v1](http://arxiv.org/abs/2408.13988v1)|null|
 |**2024-08-25**|**Vision-Language and Large Language Model Performance in Gastroenterology: GPT, Claude, Llama, Phi, Mistral, Gemma, and Quantized Models**|Seyed Amir Ahmad Safavi-Naini et.al.|[2409.00084v2](http://arxiv.org/abs/2409.00084v2)|[link](https://github.com/sdamirsa/llm-vlm-in-gastroenterology)|
 |**2024-08-25**|**PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836v1](http://arxiv.org/abs/2408.13836v1)|null|
-|**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v2](http://arxiv.org/abs/2408.13683v2)|null|
-|**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
 
 #### Abstracts
+##### **SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**
+2409.08936v1 by Paloma Rabaey, Henri Arno, Stefan Heytens, Thomas Demeester
+
+We present the SynSUM benchmark, a synthetic dataset linking unstructured
+clinical notes to structured background variables. The dataset consists of
+10,000 artificial patient records containing tabular variables (like symptoms,
+diagnoses and underlying conditions) and related notes describing the fictional
+patient encounter in the domain of respiratory diseases. The tabular portion of
+the data is generated through a Bayesian network, where both the causal
+structure between the variables and the conditional probabilities are proposed
+by an expert based on domain knowledge. We then prompt a large language model
+(GPT-4o) to generate a clinical note related to this patient encounter,
+describing the patient symptoms and additional context. The SynSUM dataset is
+primarily designed to facilitate research on clinical information extraction in
+the presence of tabular background variables, which can be linked through
+domain knowledge to concepts of interest to be extracted from the text - the
+symptoms, in the case of SynSUM. Secondary uses include research on the
+automation of clinical reasoning over both tabular data and text, causal effect
+estimation in the presence of tabular and/or textual confounders, and
+multi-modal synthetic data generation. The dataset can be downloaded from
+https://github.com/prabaey/SynSUM.
+
+摘要：我們提出 SynSUM 基準，一個將非結構化臨床記錄連結到結構化背景變數的合成資料集。該資料集包含 10,000 個人工病歷，其中包含表格變數（例如症狀、診斷和潛在狀況）和相關記錄，描述了呼吸系統疾病領域中的虛構患者遭遇。資料的表格部分是透過貝氏網路產生的，其中變數之間的因果結構和條件機率都是由專家根據領域知識提出的。然後，我們提示一個大型語言模型 (GPT-4o) 產生與此患者遭遇相關的臨床記錄，描述患者症狀和額外背景。SynSUM 資料集主要是為了促進在表格背景變數存在的情況下進行臨床資訊萃取的研究，這些變數可以透過領域知識連結到從文本中萃取的目標概念 - 在 SynSUM 的案例中，是症狀。次要用途包括研究表格資料和文本的臨床推理自動化、在表格和/或文本混淆因子存在的情況下進行因果效應估計，以及多模式合成資料生成。此資料集可從 https://github.com/prabaey/SynSUM 下載。
+
+##### **A BERT-Based Summarization approach for depression detection**
+2409.08483v1 by Hossein Salahshoor Gavalan, Mohmmad Naim Rastgoo, Bahareh Nakisa
+
+Depression is a globally prevalent mental disorder with potentially severe
+repercussions if not addressed, especially in individuals with recurrent
+episodes. Prior research has shown that early intervention has the potential to
+mitigate or alleviate symptoms of depression. However, implementing such
+interventions in a real-world setting may pose considerable challenges. A
+promising strategy involves leveraging machine learning and artificial
+intelligence to autonomously detect depression indicators from diverse data
+sources. One of the most widely available and informative data sources is text,
+which can reveal a person's mood, thoughts, and feelings. In this context,
+virtual agents programmed to conduct interviews using clinically validated
+questionnaires, such as those found in the DAIC-WOZ dataset, offer a robust
+means for depression detection through linguistic analysis. Utilizing
+BERT-based models, which are powerful and versatile yet use fewer resources
+than contemporary large language models, to convert text into numerical
+representations significantly enhances the precision of depression diagnosis.
+These models adeptly capture complex semantic and syntactic nuances, improving
+the detection accuracy of depressive symptoms. Given the inherent limitations
+of these models concerning text length, our study proposes text summarization
+as a preprocessing technique to diminish the length and intricacies of input
+texts. Implementing this method within our uniquely developed framework for
+feature extraction and classification yielded an F1-score of 0.67 on the test
+set surpassing all prior benchmarks and 0.81 on the validation set exceeding
+most previous results on the DAIC-WOZ dataset. Furthermore, we have devised a
+depression lexicon to assess summary quality and relevance. This lexicon
+constitutes a valuable asset for ongoing research in depression detection.
+
+摘要：憂鬱症是一種全球普遍存在的心理疾病，如果不加以解決，可能會造成嚴重的後果，尤其是對有復發性發作的人。先前的研究表明，早期介入有可能減輕或緩解憂鬱症狀。然而，在現實環境中實施此類干預措施可能會帶來相當大的挑戰。一個有前途的策略包括利用機器學習和人工智慧，從不同的數據來源中自動檢測憂鬱症指標。最廣泛可用且最有資訊的數據來源之一是文字，它可以揭示一個人的情緒、想法和感受。在此脈絡中，使用臨床驗證問卷（例如在 DAIC-WOZ 資料集中找到的問卷）編寫程式進行訪談的虛擬代理人，提供了一種透過語言分析進行憂鬱症檢測的強大方法。利用 BERT 基礎模型（功能強大且用途廣泛，但使用的資源比當代大型語言模型少）將文字轉換為數值表示，可顯著提高憂鬱症診斷的準確性。這些模型巧妙地捕捉複雜的語義和句法細微差別，提高憂鬱症狀的檢測準確性。鑑於這些模型在文字長度方面存在固有缺陷，我們的研究提出文字摘要作為預處理技術，以減少輸入文字的長度和複雜性。在我們獨自開發的功能提取和分類框架中實施此方法，在測試集中產生 0.67 的 F1 分數，超越所有先前的基準，在驗證集中產生 0.81 的 F1 分數，超過 DAIC-WOZ 資料集上大多數先前的結果。此外，我們設計了一個憂鬱症詞彙表，用於評估摘要品質和相關性。此詞彙表構成憂鬱症檢測持續研究的寶貴資產。
+
 ##### **Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**
 2409.07793v1 by Fuchen Zheng, Quanjun Li, Weixuan Li, Xuhang Chen, Yihang Dong, Guoheng Huang, Chi-Man Pun, Shoujun Zhou
 
@@ -2595,45 +2650,4 @@ further demonstrates its potential in clinical settings, facilitating more
 automated and reliable medical imaging analyses with minimal retraining.
 
 摘要：體積分割對於醫學影像至關重要，但通常受到耗費大量人力的標註和特定場景模型訓練需求的限制。此外，現有的通用分割模型由於其設計和推論方法而效率低下。為了滿足這項臨床需求，我們引入了 PropSAM，這是一種基於傳播的分割模型，優化了 3D 醫學結構資訊的使用。PropSAM 整合了一個基於 CNN 的 UNet，用於切片內處理，以及一個基於 Transformer 的模組，用於切片間傳播，重點關注結構和語義連續性，以增強各種模式下的分割。與需要兩視提示的傳統模型不同，PropSAM 獨特地運作於單視提示上，例如 2D 邊界框或草圖遮罩。它已證明具有優異的效能，顯著改善了 44 個醫學資料集和各種影像模式下的骰子相似係數 (DSC)，優於 MedSAM 和 SegVol 等模型，平均 DSC 提升了 18.1%。儘管提示偏差和傳播配置不同，PropSAM 仍能維持穩定的預測，這已通過單向 ANOVA 測試得到證實，分別為 P>0.5985 和 P>0.6131。此外，PropSAM 的高效架構能實現更快的推論速度（Wilcoxon 等級和總和檢定，P<0.001），並將使用者互動時間減少了 37.8%，優於兩視提示模型。它在處理不規則和複雜物件時能展現出穩健的效能，進一步證明了其在臨床環境中的潛力，有助於以最少的重新訓練進行更自動化和可靠的醫學影像分析。
-
-##### **Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**
-2408.13683v2 by Andrés Catalino Castillo Jiménez, Ege C. Kaya, Lintao Ye, Abolfazl Hashemi
-
-In a conventional Federated Learning framework, client selection for training
-typically involves the random sampling of a subset of clients in each
-iteration. However, this random selection often leads to disparate performance
-among clients, raising concerns regarding fairness, particularly in
-applications where equitable outcomes are crucial, such as in medical or
-financial machine learning tasks. This disparity typically becomes more
-pronounced with the advent of performance-centric client sampling techniques.
-This paper introduces two novel methods, namely SUBTRUNC and UNIONFL, designed
-to address the limitations of random client selection. Both approaches utilize
-submodular function maximization to achieve more balanced models. By modifying
-the facility location problem, they aim to mitigate the fairness concerns
-associated with random selection. SUBTRUNC leverages client loss information to
-diversify solutions, while UNIONFL relies on historical client selection data
-to ensure a more equitable performance of the final model. Moreover, these
-algorithms are accompanied by robust theoretical guarantees regarding
-convergence under reasonable assumptions. The efficacy of these methods is
-demonstrated through extensive evaluations across heterogeneous scenarios,
-revealing significant improvements in fairness as measured by a client
-dissimilarity metric.
-
-摘要：在傳統的聯邦學習框架中，訓練的用戶端選擇通常涉及在每次迭代中隨機抽取用戶端子集。然而，這種隨機選擇通常會導致用戶端之間的表現差異，引發了公平性的擔憂，特別是在公平結果至關重要的應用中，例如醫療或金融機器學習任務。這種差異通常會隨著以效能為中心的用戶端抽樣技術的出現而變得更加明顯。本文介紹了兩種新方法，即 SUBTRUNC 和 UNIONFL，旨在解決隨機用戶端選擇的限制。這兩種方法都利用次模函數最大化來實現更平衡的模型。通過修改設施位置問題，它們旨在緩解與隨機選擇相關的公平性問題。SUBTRUNC 利用用戶端損失資訊來分散解決方案，而 UNIONFL 依賴於歷史用戶端選擇資料，以確保最終模型的效能更公平。此外，這些演算法附帶了關於合理假設下收斂性的強大理論保證。這些方法的效力通過各種異質場景的廣泛評估得到證明，顯示出公平性有顯著改善，這是通過用戶端差異度量指標測量的。
-
-##### **Towards Case-based Interpretability for Medical Federated Learning**
-2408.13626v1 by Laura Latorre, Liliana Petrychenko, Regina Beets-Tan, Taisiya Kopytova, Wilson Silva
-
-We explore deep generative models to generate case-based explanations in a
-medical federated learning setting. Explaining AI model decisions through
-case-based interpretability is paramount to increasing trust and allowing
-widespread adoption of AI in clinical practice. However, medical AI training
-paradigms are shifting towards federated learning settings in order to comply
-with data protection regulations. In a federated scenario, past data is
-inaccessible to the current user. Thus, we use a deep generative model to
-generate synthetic examples that protect privacy and explain decisions. Our
-proof-of-concept focuses on pleural effusion diagnosis and uses publicly
-available Chest X-ray data.
-
-摘要：我們探索深度生成模型，在醫療聯邦學習設置中生成基於案例的說明。透過基於案例的可解釋性來解釋 AI 模型決策，對於增加信任並允許 AI 在臨床實務中廣泛採用至關重要。然而，醫療 AI 訓練範例正轉向聯邦學習設置，以符合資料保護法規。在聯邦情境中，過去的資料對目前的使用者而言是無法取得的。因此，我們使用深度生成模型來產生保護隱私和解釋決策的合成範例。我們的概念驗證著重於胸腔積液診斷，並使用公開可取得的胸部 X 光資料。
 

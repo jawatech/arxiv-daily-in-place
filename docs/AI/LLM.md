@@ -40,7 +40,7 @@
 |**2024-09-13**|**What You Say = What You Want? Teaching Humans to Articulate Requirements for LLMs**|Qianou Ma et.al.|[2409.08775v1](http://arxiv.org/abs/2409.08775v1)|null|
 |**2024-09-13**|**HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone Cooperative Pursuit**|Yang Li et.al.|[2409.08767v1](http://arxiv.org/abs/2409.08767v1)|null|
 |**2024-09-13**|**Journalists, Emotions, and the Introduction of Generative AI Chatbots: A Large-Scale Analysis of Tweets Before and After the Launch of ChatGPT**|Seth C. Lewis et.al.|[2409.08761v1](http://arxiv.org/abs/2409.08761v1)|null|
-|**2024-09-13**|**Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP**|Seonkyu Lim et.al.|[2409.08732v1](http://arxiv.org/abs/2409.08732v1)|[link](https://github.com/sklim84/ncdenow_cikm2024)|
+|**2024-09-13**|**Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP**|Seonkyu Lim et.al.|[2409.08732v1](http://arxiv.org/abs/2409.08732v1)|[link](https://github.com/jeongwhanchoi/NCDENow)|
 |**2024-09-13**|**Distilling Monolingual and Crosslingual Word-in-Context Representations**|Yuki Arase et.al.|[2409.08719v1](http://arxiv.org/abs/2409.08719v1)|[link](https://github.com/yukiar/distil_wic)|
 |**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711v1](http://arxiv.org/abs/2409.08711v1)|null|
 |**2024-09-13**|**L3Cube-IndicQuest: A Benchmark Questing Answering Dataset for Evaluating Knowledge of LLMs in Indic Context**|Pritika Rohera et.al.|[2409.08706v1](http://arxiv.org/abs/2409.08706v1)|null|
@@ -89,7 +89,7 @@
 |**2024-09-12**|**Real or Robotic? Assessing Whether LLMs Accurately Simulate Qualities of Human Responses in Dialogue**|Johnathan Ivey et.al.|[2409.08330v1](http://arxiv.org/abs/2409.08330v1)|[link](https://github.com/davidjurgens/human-llm-similarity)|
 |**2024-09-12**|**AnySkin: Plug-and-play Skin Sensing for Robotic Touch**|Raunaq Bhirangi et.al.|[2409.08276v1](http://arxiv.org/abs/2409.08276v1)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273v1](http://arxiv.org/abs/2409.08273v1)|null|
-|**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264v1](http://arxiv.org/abs/2409.08264v1)|[link](https://github.com/microsoft/windowsagentarena)|
+|**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264v2](http://arxiv.org/abs/2409.08264v2)|[link](https://github.com/microsoft/windowsagentarena)|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255v1](http://arxiv.org/abs/2409.08255v1)|null|
 |**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253v2](http://arxiv.org/abs/2409.08253v2)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250v1](http://arxiv.org/abs/2409.08250v1)|null|
@@ -2088,7 +2088,7 @@ experiments are available at: \url{https://hgaurav2k.github.io/hop/}.
 摘要：我們提出一個方法，從 3D 手部物件互動軌跡中學習一般機器人操控先驗。我們建立一個架構，使用野外影片來產生感測運動機器人軌跡。我們這樣做是透過提升人類的手和被操控的物件在一個共用的 3D 空間中，並將人類動作重新設定為機器人動作。這個資料上的生成模型給了我們一個與任務無關的基本策略。此策略捕捉到一般但靈活的操控先驗。我們經驗性地證明，微調此策略，同時使用強化學習 (RL) 和行為複製 (BC)，能有效率地調整下游任務，並同時改善健壯性和概括性，與先前的做法相比。定性實驗可以在以下網址取得：\url{https://hgaurav2k.github.io/hop/}。
 
 ##### **Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**
-2409.08264v1 by Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui
+2409.08264v2 by Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui
 
 Large language models (LLMs) show remarkable potential to act as computer
 agents, enhancing human productivity and software accessibility in multi-modal
@@ -2115,9 +2115,9 @@ research in agent development and data generation using Windows Agent Arena.
   Webpage: https://microsoft.github.io/WindowsAgentArena
   Code: https://github.com/microsoft/WindowsAgentArena
 
-摘要：<paragraph>大型語言模型 (LLM) 展現出作為電腦代理的非凡潛力，在需要規劃和推理的多模態任務中提升人類生產力和軟體可及性。然而，在逼真的環境中測量代理效能仍然是一項挑戰，原因如下：(i) 大多數基準測試僅限於特定模態或領域 (例如純文字、網頁瀏覽、問答、編碼)，以及 (ii) 由於任務的多步驟順序性質，完整的基準測試評估很慢 (以天為單位)。為了應對這些挑戰，我們引入了 Windows 代理競技場：一個可重複、通用的環境，專注於 Windows 作業系統 (OS)，代理可以在真正的 Windows 作業系統中自由運作，並使用與人類使用者在解決任務時可用的相同廣泛的應用程式、工具和網路瀏覽器。我們調整 OSWorld 框架 (Xie 等人，2024 年) 來建立 150 多項跨代表性領域的多元 Windows 任務，這些任務需要代理具備規劃、螢幕理解和工具使用方面的能力。我們的基準測試具有可擴展性，可以在 Azure 中無縫並行處理，在短短 20 分鐘內完成完整的基準測試評估。為了展示 Windows 代理競技場的能力，我們還引入了一個新的多模態代理 Navi。我們的代理在 Windows 領域達到了 19.5% 的成功率，而未受協助的人類效能為 74.5%。Navi 也在另一個流行的網路基準測試 Mind2Web 上展現了強勁的效能。我們對 Navi 的效能進行了廣泛的量化和質化分析，並提供了對使用 Windows 代理競技場進行代理開發和資料生成的未來研究機會的見解。
-網站：https://microsoft.github.io/WindowsAgentArena
-程式碼：https://github.com/microsoft/WindowsAgentArena</paragraph>
+摘要：大型語言模型 (LLM) 展現出作為電腦代理的顯著潛力，在需要規劃和推理的多模態任務中提升人類生產力和軟體可及性。然而，在現實環境中衡量代理效能仍然是一項挑戰，原因如下：(i) 大多數基準測試僅限於特定模態或領域（例如純文字、網路導覽、問答、編碼），以及 (ii) 由於任務的多步驟順序性質，完整的基準測試評估很慢（約需數天）。為了應對這些挑戰，我們引入了 Windows Agent Arena：一個可重製、通用的環境，專注於 Windows 作業系統 (OS)，其中代理可以在真正的 Windows OS 中自由操作，並在解決任務時使用與人類使用者相同的廣泛應用程式、工具和網路瀏覽器。我們採用 OSWorld 框架（謝等人，2024 年）來建立 150 多項多元的 Windows 任務，涵蓋需要代理在規劃、螢幕理解和工具使用方面具備能力的代表性領域。我們的基準測試具有可擴充性，可以在 Azure 中無縫並行化，在短短 20 分鐘內完成完整的基準測試評估。為了展示 Windows Agent Arena 的功能，我們還引入了一個新的多模態代理程式 Navi。與未受協助的人類 74.5% 的表現相比，我們的代理在 Windows 領域達到了 19.5% 的成功率。Navi 在另一個流行的網路基準測試 Mind2Web 上也表現出強勁的效能。我們提供了 Navi 效能的廣泛量化和定性分析，並提供了使用 Windows Agent Arena 進行代理開發和資料產生的未來研究機會的見解。
+網頁：https://microsoft.github.io/WindowsAgentArena
+程式碼：https://github.com/microsoft/WindowsAgentArena
 
 ##### **LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**
 2409.08255v1 by Geigh Zollicoffer, Minh Vu, Ben Nebgen, Juan Castorena, Boian Alexandrov, Manish Bhattarai

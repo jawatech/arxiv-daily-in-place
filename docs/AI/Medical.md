@@ -9,7 +9,7 @@
 |**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415v1](http://arxiv.org/abs/2409.07415v1)|null|
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351v1](http://arxiv.org/abs/2409.07351v1)|null|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314v1](http://arxiv.org/abs/2409.07314v1)|null|
-|**2024-09-11**|**Enhancing Angular Resolution via Directionality Encoding and Geometric Constraints in Brain Diffusion Tensor Imaging**|Sheng Chen et.al.|[2409.07186v1](http://arxiv.org/abs/2409.07186v1)|null|
+|**2024-09-11**|**Enhancing Angular Resolution via Directionality Encoding and Geometric Constraints in Brain Diffusion Tensor Imaging**|Sheng Chen et.al.|[2409.07186v2](http://arxiv.org/abs/2409.07186v2)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092v1](http://arxiv.org/abs/2409.07092v1)|null|
 |**2024-09-11**|**Towards Predicting Temporal Changes in a Patient's Chest X-ray Images based on Electronic Health Records**|Daeun Kyung et.al.|[2409.07012v1](http://arxiv.org/abs/2409.07012v1)|null|
 |**2024-09-11**|**Intrapartum Ultrasound Image Segmentation of Pubic Symphysis and Fetal Head Using Dual Student-Teacher Framework with CNN-ViT Collaborative Learning**|Jianmei Jiang et.al.|[2409.06928v1](http://arxiv.org/abs/2409.06928v1)|[link](https://github.com/jjm1589/dstct)|
@@ -289,7 +289,7 @@ for diverse healthcare applications.
 摘要：大型語言模型 (LLM) 在醫療保健應用方面的快速發展，促使人們呼籲進行整體評估，超越經常引用的基準（例如 USMLE），以更好地反映實際效能。儘管實際評估是實用性的寶貴指標，但它們通常落後於 LLM 演化的速度，在部署後可能會使研究結果過時。這種時間上的脫節需要進行全面的前期評估，以指導特定臨床應用程式的模型選擇。我們引進 MEDIC，一個評估 LLM 跨越臨床能力的五個關鍵面向的架構：醫療推理、倫理和偏差、資料和語言理解、情境學習和臨床安全性。MEDIC 採用一種新穎的交互式檢查架構，量化 LLM 在涵蓋範圍和幻覺偵測等領域的效能，而不需要參考輸出。我們使用 MEDIC 來評估 LLM 在醫療問題解答、安全性、摘要、筆記產生和其他任務上的表現。我們的結果顯示，不同模型大小、基準與經過醫療微調的模型之間的效能差異，並對需要特定模型優勢的應用程式（例如低幻覺或較低的推論成本）的模型選擇產生影響。MEDIC 的多面向評估揭示了這些效能權衡，縮小了理論能力與醫療保健環境中的實際實作之間的差距，確保找出最有希望的模型，並針對不同的醫療保健應用程式進行調整。
 
 ##### **Enhancing Angular Resolution via Directionality Encoding and Geometric Constraints in Brain Diffusion Tensor Imaging**
-2409.07186v1 by Sheng Chen, Zihao Tang, Mariano Cabezas, Xinyi Wang, Arkiev D'Souza, Michael Barnett, Fernando Calamante, Weidong Cai, Chenyu Wang
+2409.07186v2 by Sheng Chen, Zihao Tang, Mariano Cabezas, Xinyi Wang, Arkiev D'Souza, Michael Barnett, Fernando Calamante, Weidong Cai, Chenyu Wang
 
 Diffusion-weighted imaging (DWI) is a type of Magnetic Resonance Imaging
 (MRI) technique sensitised to the diffusivity of water molecules, offering the
@@ -315,7 +315,7 @@ method achieves the best performance compared to existing DTI enhancement
 methods and potentially reveals further clinical insights with routine clinical
 DWI scans.
 
-摘要：擴散加權影像（DWI）是一種磁振造影（MRI）技術，對水分子擴散敏感，能檢測組織微結構，是唯一非侵入性重建白質纖維束的體內方法。DWI 訊號可用擴散張量影像（DTI）模型分析，以估計體素內水擴散的方向性。從 DTI 可進一步衍生出數個標量量測，包括軸向擴散率（AD）、平均擴散率（MD）、徑向擴散率（RD）和分數各向異性（FA），以量化總結腦組織的微結構完整性。這些標量量測在臨床研究中對於了解腦組織在微觀層面的組織和健康扮演重要角色。然而，可靠的 DTI 量測仰賴具有高梯度方向的 DWI 擷取，這通常超出臨床上常用的協定。為了提升臨床擷取 DWI 的效用，並為穩健的 DTI 分析節省掃描時間，本研究提出 DirGeo-DTI，一種基於深度學習的方法，即使從具備最小理論數量（6）的梯度方向擷取的 DWI 組也能估計可靠的 DTI 量測。DirGeo-DTI 利用方向編碼和幾何約束來促進訓練過程。使用兩個公開的 DWI 資料集進行評估，證明了所提出方法的有效性。廣泛的實驗結果顯示，與現有的 DTI 增強方法相比，所提出的方法取得最佳效能，並潛在揭露例行臨床 DWI 掃描的進一步臨床見解。
+摘要：擴散加權影像 (DWI) 是一種磁振造影 (MRI) 技術，對水分子擴散敏感，能檢測組織微結構，且是唯一一種可非侵入性重建白質纖維束的體內方法。DWI 訊號可用擴散張量影像 (DTI) 模型分析，以估計體素內水分擴散的方向性。數個標量量測，包括軸向擴散率 (AD)、平均擴散率 (MD)、徑向擴散率 (RD) 和分數各向異性 (FA)，可進一步從 DTI 衍生，以量化總結腦組織的微結構完整性。這些標量量測在臨床研究中了解腦組織在微觀層級的組織和健康方面發揮了重要作用。然而，可靠的 DTI 量測依賴於具有高梯度方向的 DWI 擷取，這通常超出常用的臨床協定。為了提升臨床擷取 DWI 的效用，並節省穩健 DTI 分析的掃描時間，本研究提出 DirGeo-DTI，一種基於深度學習的方法，即使從具備最小理論數量 (6) 個梯度方向的 DWI 組也能估計可靠的 DTI 量測。DirGeo-DTI 利用方向編碼和幾何約束來促進訓練過程。兩個公開的 DWI 資料集用於評估，證明了所提出方法的有效性。大量的實驗結果顯示，與現有的 DTI 增強方法相比，所提出的方法獲得了最佳的效能，並有可能透過例行臨床 DWI 掃描揭示進一步的臨床見解。
 
 ##### **CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**
 2409.07092v1 by Feiyang Jia, Zhineng Chen, Ziying Song, Lin Liu, Caiyan Jia

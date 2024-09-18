@@ -64,7 +64,7 @@
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127v1](http://arxiv.org/abs/2402.05127v1)|null|
-|**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v4](http://arxiv.org/abs/2401.13324v4)|null|
+|**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v5](http://arxiv.org/abs/2401.13324v5)|null|
 |**2024-01-02**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari et.al.|[2401.02985v1](http://arxiv.org/abs/2401.02985v1)|null|
 |**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|[link](https://github.com/lixingqiao/xai-icu)|
 |**2023-12-22**|**Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**|Norman Zerbe et.al.|[2401.09450v2](http://arxiv.org/abs/2401.09450v2)|null|
@@ -1711,32 +1711,34 @@ diagnosis and treatment strategies.
 摘要：本文介紹了一種使用先進大型語言模型 (LLM) 進行憂鬱症偵測和治療的新模式：生成式預訓練Transformer 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，具備專業提示，可診斷、解釋並建議憂鬱症的治療介入方法。一種獨特的少次提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型會參與同理心對話管理，從 PsychDB 和認知行為療法 (CBT) 指南等資源中汲取，促進與經歷重度憂鬱症的人們的支持性互動。此外，這項研究還介紹了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個性化治療建議。這項研究使用 F1 分數、準確率、召回率、餘弦相似度和面向召回率的 Gisting 評估替身 (ROUGE) 等指標，在不同的測試集中評估 LLM 的表現，證明了它們的有效性。這種綜合方法結合了尖端的 AI 與既定的心理方法，為心理保健提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
 
 ##### **Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**
-2401.13324v4 by Timothée Schmude, Laura Koesten, Torsten Möller, Sebastian Tschiatschek
+2401.13324v5 by Timothée Schmude, Laura Koesten, Torsten Möller, Sebastian Tschiatschek
 
-Explanations of AI systems rarely address the information needs of people
-affected by algorithmic decision-making (ADM). This gap between conveyed
-information and information that matters to affected stakeholders can impede
-understanding and adherence to regulatory frameworks such as the AI Act. To
-address this gap, we present the "XAI Novice Question Bank": A catalog of
-affected stakeholders' information needs in two ADM use cases (employment
-prediction and health monitoring), covering the categories data, system
-context, system usage, and system specifications. Information needs were
-gathered in an interview study where participants received explanations in
-response to their inquiries. Participants further reported their understanding
-and decision confidence, showing that while confidence tended to increase after
-receiving explanations, participants also met understanding challenges, such as
-being unable to tell why their understanding felt incomplete. Explanations
-further influenced participants' perceptions of the systems' risks and
-benefits, which they confirmed or changed depending on the use case. When risks
-were perceived as high, participants expressed particular interest in
-explanations about intention, such as why and to what end a system was put in
-place. With this work, we aim to support the inclusion of affected stakeholders
-into explainability by contributing an overview of information and challenges
-relevant to them when deciding on the adoption of ADM systems. We close by
-summarizing our findings in a list of six key implications that inform the
-design of future explanations for affected stakeholder audiences.
+Every AI system that makes decisions about people has a group of stakeholders
+that are personally affected by these decisions. However, explanations of AI
+systems rarely address the information needs of this stakeholder group, who
+often are AI novices. This creates a gap between conveyed information and
+information that matters to those who are impacted by the system's decisions,
+such as domain experts and decision subjects. To address this, we present the
+"XAI Novice Question Bank," an extension of the XAI Question Bank containing a
+catalog of information needs from AI novices in two use cases: employment
+prediction and health monitoring. The catalog covers the categories of data,
+system context, system usage, and system specifications. We gathered
+information needs through task-based interviews where participants asked
+questions about two AI systems to decide on their adoption and received verbal
+explanations in response. Our analysis showed that participants' confidence
+increased after receiving explanations but that their understanding faced
+challenges. These included difficulties in locating information and in
+assessing their own understanding, as well as attempts to outsource
+understanding. Additionally, participants' prior perceptions of the systems'
+risks and benefits influenced their information needs. Participants who
+perceived high risks sought explanations about the intentions behind a system's
+deployment, while those who perceived low risks rather asked about the system's
+operation. Our work aims to support the inclusion of AI novices in
+explainability efforts by highlighting their information needs, aims, and
+challenges. We summarize our findings as five key implications that can inform
+the design of future explanations for lay stakeholder audiences.
 
-摘要：<paragraph>人工智慧系統的說明很少能滿足受演算法決策 (ADM) 影響的人們的資訊需求。傳達的資訊與影響利害關係人重要的資訊之間的差距，可能會阻礙了解和遵守法規架構，例如人工智慧法案。為了解決這個差距，我們提出了「XAI 初學者問題庫」：受影響利害關係人資訊需求的目錄，涵蓋兩個 ADM 使用案例（就業預測和健康監測），涵蓋資料、系統脈絡、系統使用和系統規格類別。資訊需求是透過訪談研究收集的，參與者在詢問後收到說明。參與者進一步回報他們的理解和決策信心，顯示雖然在收到說明後信心傾向於增加，但參與者也遇到了理解挑戰，例如無法說明為什麼他們的理解感覺不完整。說明進一步影響參與者對系統風險和好處的看法，他們會根據使用案例確認或改變這些看法。當風險被認為很高時，參與者表示特別有興趣了解意圖的說明，例如為什麼以及為了什麼目的而建立系統。透過這項工作，我們旨在透過在決策採用 ADM 系統時提供相關資訊和挑戰的概覽，來支援將受影響的利害關係人納入可解釋性。我們最後總結我們的發現，列出六項關鍵影響，這些影響會告知未來針對受影響利害關係人受眾說明的設計。</paragraph>
+摘要：<paragraph>每個對人進行決策的 AI 系統都有一群個人受到這些決策影響的利益關係人。然而，AI 系統的說明很少針對這群利益關係人的資訊需求，他們通常是 AI 新手。這在傳達的資訊和對受系統決策影響的人來說重要的資訊之間，造成了一道鴻溝，例如領域專家和決策主體。為了解決這個問題，我們提出了「XAI 新手問題庫」，這是 XAI 問題庫的延伸，包含來自兩個使用案例中 AI 新手的資訊需求目錄：就業預測和健康監控。目錄涵蓋了資料、系統背景、系統使用和系統規格等類別。我們透過任務型訪談收集資訊需求，參與者在其中詢問了兩個 AI 系統的問題，以決定採用與否，並收到口頭說明作為回應。我們的分析顯示，參與者在收到說明後，信心有所提升，但他們的理解面臨挑戰。這些挑戰包括難以找到資訊和評估自己的理解，以及試圖外包理解。此外，參與者對系統風險和好處的先前認知影響了他們的資訊需求。認為風險高的人尋求有關系統部署背後意圖的說明，而認為風險低的人則詢問系統的運作。我們的研究旨在透過強調他們的資訊需求、目標和挑戰，來支持將 AI 新手納入可解釋性工作。我們將我們的研究結果總結為五個關鍵影響，這些影響可以為未來針對非專業利益相關者受眾的說明設計提供參考。</paragraph>
 
 ##### **Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**
 2401.02985v1 by Vahid Ashrafimoghari, Necdet Gürkan, Jordan W. Suchow

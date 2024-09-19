@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
+|**2024-09-17**|**FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**|Ziwei Li et.al.|[2409.11509v1](http://arxiv.org/abs/2409.11509v1)|null|
 |**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147v1](http://arxiv.org/abs/2409.11147v1)|[link](https://github.com/yukang-lin/rger)|
 |**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143v1](http://arxiv.org/abs/2409.11143v1)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921v1](http://arxiv.org/abs/2409.10921v1)|[link](https://github.com/yanbei-jiang/artwork-interpretation)|
@@ -22,6 +24,7 @@
 |**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869v1](http://arxiv.org/abs/2409.07869v1)|[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)|
 |**2024-09-12**|**Multi-object event graph representation learning for Video Question Answering**|Yanan Wang et.al.|[2409.07747v1](http://arxiv.org/abs/2409.07747v1)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368v2](http://arxiv.org/abs/2409.07368v2)|null|
+|**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171v1](http://arxiv.org/abs/2409.12171v1)|null|
 |**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088v1](http://arxiv.org/abs/2409.07088v1)|[link](https://github.com/daehuikim/WikiOFGraph)|
 |**2024-09-11**|**Automated Speaking Assessment of Conversation Tests with Novel Graph-based Modeling on Spoken Response Coherence**|Jiun-Ting Li et.al.|[2409.07064v1](http://arxiv.org/abs/2409.07064v1)|null|
 |**2024-09-11**|**FreeRide: Harvesting Bubbles in Pipeline Parallelism**|Jiashu Zhang et.al.|[2409.06941v1](http://arxiv.org/abs/2409.06941v1)|null|
@@ -99,11 +102,61 @@
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840v1](http://arxiv.org/abs/2408.07840v1)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611v2](http://arxiv.org/abs/2408.07611v2)|null|
-|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453v1](http://arxiv.org/abs/2408.07453v1)|[link](https://github.com/tobias-opsahl/fact-or-fiction)|
-|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
-|**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849v1](http://arxiv.org/abs/2408.06849v1)|[link](https://github.com/kairong-han/causal_agent)|
 
 #### Abstracts
+##### **GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**
+2409.11689v1 by Shuowen Liang, Sisi Li, Qingyun Wang, Cen Zhang, Kaiquan Zhu, Tian Yang
+
+Pose skeleton images are an important reference in pose-controllable image
+generation. In order to enrich the source of skeleton images, recent works have
+investigated the generation of pose skeletons based on natural language. These
+methods are based on GANs. However, it remains challenging to perform diverse,
+structurally correct and aesthetically pleasing human pose skeleton generation
+with various textual inputs. To address this problem, we propose a framework
+with GUNet as the main model, PoseDiffusion. It is the first generative
+framework based on a diffusion model and also contains a series of variants
+fine-tuned based on a stable diffusion model. PoseDiffusion demonstrates
+several desired properties that outperform existing methods. 1) Correct
+Skeletons. GUNet, a denoising model of PoseDiffusion, is designed to
+incorporate graphical convolutional neural networks. It is able to learn the
+spatial relationships of the human skeleton by introducing skeletal information
+during the training process. 2) Diversity. We decouple the key points of the
+skeleton and characterise them separately, and use cross-attention to introduce
+textual conditions. Experimental results show that PoseDiffusion outperforms
+existing SoTA algorithms in terms of stability and diversity of text-driven
+pose skeleton generation. Qualitative analyses further demonstrate its
+superiority for controllable generation in Stable Diffusion.
+
+摘要：姿勢骨架圖像是姿勢可控圖像生成中重要的參考。為了豐富骨架圖像的來源，最近的研究調查了基於自然語言的姿勢骨架生成。這些方法基於 GAN。然而，要執行多樣化、結構正確且美觀的人體姿勢骨架生成，並具有各種文本輸入，仍然具有挑戰性。為了解決這個問題，我們提出了以 GUNet 為主要模型的框架，PoseDiffusion。它是基於擴散模型的第一個生成框架，還包含一系列基於穩定擴散模型進行微調的變體。PoseDiffusion 展示了多項優於現有方法的理想屬性。1) 正確的骨架。PoseDiffusion 的去噪模型 GUNet 被設計為結合圖形卷積神經網路。它能夠透過在訓練過程中引入骨架資訊來學習人體骨架的空間關係。2) 多樣性。我們解耦骨架的關鍵點並分別對其進行表徵，並使用交叉注意力來引入文本條件。實驗結果表明，PoseDiffusion 在文本驅動姿勢骨架生成的穩定性和多樣性方面優於現有的 SoTA 演算法。定性分析進一步證明了它在 Stable Diffusion 中可控生成的優越性。
+
+##### **FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**
+2409.11509v1 by Ziwei Li, Xiaoqi Wang, Hong-You Chen, Han-Wei Shen, Wei-Lun Chao
+
+Federated learning (FL) has rapidly evolved as a promising paradigm that
+enables collaborative model training across distributed participants without
+exchanging their local data. Despite its broad applications in fields such as
+computer vision, graph learning, and natural language processing, the
+development of a data projection model that can be effectively used to
+visualize data in the context of FL is crucial yet remains heavily
+under-explored. Neighbor embedding (NE) is an essential technique for
+visualizing complex high-dimensional data, but collaboratively learning a joint
+NE model is difficult. The key challenge lies in the objective function, as
+effective visualization algorithms like NE require computing loss functions
+among pairs of data. In this paper, we introduce \textsc{FedNE}, a novel
+approach that integrates the \textsc{FedAvg} framework with the contrastive NE
+technique, without any requirements of shareable data. To address the lack of
+inter-client repulsion which is crucial for the alignment in the global
+embedding space, we develop a surrogate loss function that each client learns
+and shares with each other. Additionally, we propose a data-mixing strategy to
+augment the local data, aiming to relax the problems of invisible neighbors and
+false neighbors constructed by the local $k$NN graphs. We conduct comprehensive
+experiments on both synthetic and real-world datasets. The results demonstrate
+that our \textsc{FedNE} can effectively preserve the neighborhood data
+structures and enhance the alignment in the global embedding space compared to
+several baseline methods.
+
+摘要：聯合式學習 (FL) 已迅速演變為一種有前途的範例，它可以在分布式參與者之間進行協作模型訓練，而無需交換他們的本地數據。儘管它在電腦視覺、圖形學習和自然語言處理等領域有廣泛的應用，但開發一個數據投影模型，可有效用於在 FL 的背景下視覺化數據，這一點至關重要，但仍未得到充分的探索。鄰域嵌入 (NE) 是用於視覺化複雜高維數據的一項基本技術，但協作學習一個聯合 NE 模型很困難。主要的挑戰在於目標函數，因為像 NE 這樣的有效視覺化演算法需要計算數據對之間的損失函數。在本文中，我們介紹了 \textsc{FedNE}，這是一種新穎的方法，它將 \textsc{FedAvg} 框架與對比 NE 技術相整合，而無需任何可共享數據的要求。為了解決對於在全局嵌入空間中對齊至關重要的客戶端間排斥力不足的問題，我們開發了一個代理損失函數，每個客戶端學習此函數並與彼此共享。此外，我們提出了一種數據混合策略來擴充本地數據，旨在緩解由本地 $k$NN 圖形構造的不可見鄰域和錯誤鄰域的問題。我們在合成和真實世界數據集上進行了全面的實驗。結果表明，與幾種基線方法相比，我們的 \textsc{FedNE} 可以有效地保留鄰域數據結構並增強在全局嵌入空間中的對齊。
+
 ##### **Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**
 2409.11147v1 by Yukang Lin, Bingchen Zhong, Shuoran Jiang, Joanna Siebert, Qingcai Chen
 
@@ -567,6 +620,38 @@ cost. SGCode has only a marginal cost compared with prompting LLMs. SGCode is
 available at: http://3.131.141.63:8501/.
 
 摘要：這篇論文介紹了 SGCode，一個靈活的提示最佳化系統，用於生成具備大型語言模型 (LLM) 的安全程式碼。SGCode 將最近的提示最佳化方法與 LLM 整合在一個統一的系統中，可透過前端和後端 API 存取，使用戶能夠 1) 生成安全的程式碼，沒有漏洞，2) 檢閱和分享安全性分析，以及 3) 輕鬆從一種提示最佳化方法切換到另一種，同時提供模型和系統效能的見解。我們在 AWS 伺服器上使用 PromSec 填充 SGCode，這是一種透過結合 LLM 和安全性工具與輕量級生成式對抗圖形神經網路，來最佳化提示的方法，以偵測並修復生成程式碼中的安全性漏洞。廣泛的實驗顯示，SGCode 作為一個公用工具是實用的，可以深入了解模型實用性、安全程式碼生成和系統成本之間的取捨。與提示 LLM 相比，SGCode 僅有微小的成本。SGCode 可在以下網址取得：http://3.131.141.63:8501/。
+
+##### **Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**
+2409.12171v1 by William Van Woensel, Oshani Seneviratne
+
+Background: Health 3.0 allows decision making to be based on longitudinal
+data from multiple institutions, from across the patient's healthcare journey.
+In such a distributed setting, blockchain smart contracts can act as neutral
+intermediaries to implement trustworthy decision making.
+  Objective: In a distributed setting, transmitted data will be structured
+using standards (such as HL7 FHIR) for semantic interoperability. In turn, the
+smart contract will require interoperability with this standard, implement a
+complex communication setup (e.g., using oracles), and be developed using
+blockchain languages (e.g., Solidity). We propose the encoding of smart
+contract logic using a high-level semantic Knowledge Graph, using concepts from
+the domain standard. We then deploy this semantic KG on blockchain.
+  Methods: Off-chain, a code generation pipeline compiles the KG into a
+concrete smart contract, which is then deployed on-chain. Our pipeline targets
+an intermediary bridge representation, which can be transpiled into a specific
+blockchain language. Our choice avoids on-chain rule engines, with
+unpredictable and likely higher computational cost; it is thus in line with the
+economic rules of blockchain.
+  Results: We applied our code generation approach to generate smart contracts
+for 3 health insurance cases from Medicare. We discuss the suitability of our
+approach - the need for a neutral intermediary - for a number of healthcare use
+cases. Our evaluation finds that the generated contracts perform well in terms
+of correctness and execution cost ("gas") on blockchain.
+  Conclusions: We showed that it is feasible to automatically generate smart
+contract code based on a semantic KG, in a way that respects the economic rules
+of blockchain. Future work includes studying the use of Large Language Models
+(LLM) in our approach, and evaluations on other blockchains.
+
+摘要：<paragraph>背景：Health 3.0 允許決策制定基於來自多個機構的縱向數據，來自患者的醫療保健歷程。在這種分布式設置中，區塊鏈智能合約可以作為中立的仲介來實施值得信賴的決策制定。目標：在分布式設置中，傳輸的數據將使用標準（例如 HL7 FHIR）進行結構化，以實現語義互操作性。反過來，智能合約將需要與此標準互操作，實施複雜的通信設置（例如，使用預言機），並使用區塊鏈語言（例如，Solidity）開發。我們提議使用來自領域標準的概念，使用高級語義知識圖對智能合約邏輯進行編碼。然後我們將這個語義知識圖部署在區塊鏈上。方法：鏈下，一個代碼生成管道將知識圖編譯成具體的智能合約，然後將其部署到鏈上。我們的管道針對中間橋接表示，可以轉譯成特定的區塊鏈語言。我們的選擇避免了鏈上規則引擎，其不可預測且可能計算成本更高；因此，它符合區塊鏈的經濟規則。結果：我們應用我們的代碼生成方法來生成來自 Medicare 的 3 個健康保險案例的智能合約。我們討論了我們的方法的適用性——對中立仲介的需求——對於許多醫療保健用例。我們的評估發現，生成的合約在區塊鏈上的正確性和執行成本（“gas”）方面表現良好。結論：我們表明，以符合區塊鏈經濟規則的方式自動生成基於語義知識圖的智能合約代碼是可行的。未來的研究包括研究我們的方法中使用大型語言模型 (LLM)，以及對其他區塊鏈的評估。</paragraph>
 
 ##### **Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**
 2409.07088v1 by Daehee Kim, Deokhyung Kang, Sangwon Ryu, Gary Geunbae Lee
@@ -2455,70 +2540,4 @@ its outstanding effectiveness in a wide range of offline experiments and online
 submissions.
 
 摘要：大型語言模型 (LLM) 極大地促进了自適應智能代理的開發，並被定位為實現人工通用智慧 (AGI) 的重要途徑。然而，LLM 容易產生事實上不正確的資訊，而且常常產生「幻影」內容，這會破壞其可靠性，對其在現實世界場景中的部署構成嚴峻挑戰。結合外部資料庫和資訊檢索機制來增強 LLM 是一種有效的方法。為了應對上述挑戰，我們提出了一種稱為 WeKnow-RAG 的新方法，它將網路搜尋和知識圖譜整合到「檢索增強生成 (RAG)」系統中。首先，透過結合知識圖譜的結構化表示和稠密向量檢索的靈活性，來提升 LLM 回應的準確性和可靠性。WeKnow-RAG 接著利用特定領域的知識圖譜來滿足各種查詢和領域，從而透過使用稀疏和稠密檢索方法的多階段網頁檢索技術，來提升事實資訊和複雜推理任務的效能。我們的做法有效地平衡了資訊檢索的效率和準確性，進而改善整體檢索流程。最後，我們還整合了一個 LLM 自我評估機制，以評估其所產生答案的可信度。我們的做法在廣泛的離線實驗和線上提交中證明了其傑出的有效性。
-
-##### **Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**
-2408.07453v1 by Tobias A. Opsahl
-
-Despite recent success in natural language processing (NLP), fact
-verification still remains a difficult task. Due to misinformation spreading
-increasingly fast, attention has been directed towards automatically verifying
-the correctness of claims. In the domain of NLP, this is usually done by
-training supervised machine learning models to verify claims by utilizing
-evidence from trustworthy corpora. We present efficient methods for verifying
-claims on a dataset where the evidence is in the form of structured knowledge
-graphs. We use the FactKG dataset, which is constructed from the DBpedia
-knowledge graph extracted from Wikipedia. By simplifying the evidence retrieval
-process, from fine-tuned language models to simple logical retrievals, we are
-able to construct models that both require less computational resources and
-achieve better test-set accuracy.
-
-摘要：儘管在自然語言處理 (NLP) 中獲得近期成功，事實驗證仍然是一項艱難的任務。由於錯誤資訊傳播得越來越快，注意力已轉向自動驗證聲明的正確性。在 NLP 領域中，這通常透過訓練監督式機器學習模型來完成，這些模型利用來自可信賴語料庫的證據來驗證聲明。我們提出有效的方法來驗證資料集中的聲明，其中證據是以結構化知識圖表的形式呈現。我們使用 FactKG 資料集，它是由從維基百科中萃取的 DBpedia 知識圖表所建構。透過簡化證據擷取流程，從微調語言模型到簡單的邏輯擷取，我們能夠建構既需要較少計算資源，又能達到較佳測試集準確度的模型。
-
-##### **LLMs can Schedule**
-2408.06993v1 by Henrik Abgaryan, Ararat Harutyunyan, Tristan Cazenave
-
-The job shop scheduling problem (JSSP) remains a significant hurdle in
-optimizing production processes. This challenge involves efficiently allocating
-jobs to a limited number of machines while minimizing factors like total
-processing time or job delays. While recent advancements in artificial
-intelligence have yielded promising solutions, such as reinforcement learning
-and graph neural networks, this paper explores the potential of Large Language
-Models (LLMs) for JSSP. We introduce the very first supervised 120k dataset
-specifically designed to train LLMs for JSSP. Surprisingly, our findings
-demonstrate that LLM-based scheduling can achieve performance comparable to
-other neural approaches. Furthermore, we propose a sampling method that
-enhances the effectiveness of LLMs in tackling JSSP.
-
-摘要：作業車間排程問題 (JSSP) 仍然是最佳化生產流程中的一大障礙。這項挑戰涉及將作業有效分配到數量有限的機器，同時將總處理時間或作業延遲等因素降至最低。儘管人工智慧的最新進展已產生有希望的解決方案，例如強化學習和圖形神經網路，但本文探討了大型語言模型 (LLM) 在 JSSP 中的潛力。我們引入了第一個監督式 120k 資料集，專門用於訓練 JSSP 的 LLM。令人驚訝的是，我們的研究結果表明，基於 LLM 的排程可以達到與其他神經方法相當的效能。此外，我們提出了一種抽樣方法，可增強 LLM 在處理 JSSP 中的有效性。
-
-##### **Causal Agent based on Large Language Model**
-2408.06849v1 by Kairong Han, Kun Kuang, Ziyu Zhao, Junjian Ye, Fei Wu
-
-Large language models (LLMs) have achieved significant success across various
-domains. However, the inherent complexity of causal problems and causal theory
-poses challenges in accurately describing them in natural language, making it
-difficult for LLMs to comprehend and use them effectively. Causal methods are
-not easily conveyed through natural language, which hinders LLMs' ability to
-apply them accurately. Additionally, causal datasets are typically tabular,
-while LLMs excel in handling natural language data, creating a structural
-mismatch that impedes effective reasoning with tabular data. This lack of
-causal reasoning capability limits the development of LLMs. To address these
-challenges, we have equipped the LLM with causal tools within an agent
-framework, named the Causal Agent, enabling it to tackle causal problems. The
-causal agent comprises tools, memory, and reasoning modules. In the tools
-module, the causal agent applies causal methods to align tabular data with
-natural language. In the reasoning module, the causal agent employs the ReAct
-framework to perform reasoning through multiple iterations with the tools. In
-the memory module, the causal agent maintains a dictionary instance where the
-keys are unique names and the values are causal graphs. To verify the causal
-ability of the causal agent, we established a benchmark consisting of four
-levels of causal problems: variable level, edge level, causal graph level, and
-causal effect level. We generated a test dataset of 1.3K using ChatGPT-3.5 for
-these four levels of issues and tested the causal agent on the datasets. Our
-methodology demonstrates remarkable efficacy on the four-level causal problems,
-with accuracy rates all above 80%. For further insights and implementation
-details, our code is accessible via the GitHub repository
-https://github.com/Kairong-Han/Causal_Agent.
-
-摘要：大型語言模型 (LLM) 已在各個領域取得重大成功。然而，因果問題和因果理論的內在複雜性，在自然語言中準確描述它們時構成挑戰，這使得 LLM 難以理解並有效使用它們。因果方法不易透過自然語言傳達，這阻礙了 LLM 準確應用它們的能力。此外，因果資料集通常是表格化的，而 LLM 擅長處理自然語言資料，這造成了結構上的不匹配，阻礙了對表格資料進行有效的推理。這種缺乏因果推理能力限制了 LLM 的發展。為了應對這些挑戰，我們在一個代理框架中為 LLM 配備了因果工具，稱為因果代理，使它能夠解決因果問題。因果代理包含工具、記憶體和推理模組。在工具模組中，因果代理應用因果方法將表格資料與自然語言對齊。在推理模組中，因果代理採用 ReAct 框架，透過與工具進行多次反覆運算來執行推理。在記憶體模組中，因果代理維護一個字典實例，其中鍵是唯一名稱，而值是因果圖。為了驗證因果代理的因果能力，我們建立了一個基準，其中包含四個層級的因果問題：變數層級、邊層級、因果圖層級和因果效應層級。我們使用 ChatGPT-3.5 為這四個層級的問題產生了 1.3K 的測試資料集，並在資料集上測試了因果代理。我們的這套方法在四個層級的因果問題上展現了顯著的功效，準確率都高於 80%。有關進一步的見解和實作細節，我們的程式碼可透過 GitHub 儲存庫 https://github.com/Kairong-Han/Causal_Agent 取得。
 

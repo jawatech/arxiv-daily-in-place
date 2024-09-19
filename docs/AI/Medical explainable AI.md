@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v1](http://arxiv.org/abs/2409.12087v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
 |**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133v1](http://arxiv.org/abs/2409.00133v1)|null|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
@@ -101,9 +102,29 @@
 |**2023-06-30**|**AI and Non AI Assessments for Dementia**|Mahboobeh Parsapoor et.al.|[2307.01210v1](http://arxiv.org/abs/2307.01210v1)|null|
 |**2023-06-12**|**Active Globally Explainable Learning for Medical Images via Class Association Embedding and Cyclic Adversarial Generation**|Ruitao Xie et.al.|[2306.07306v1](http://arxiv.org/abs/2306.07306v1)|null|
 |**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029v1](http://arxiv.org/abs/2306.06029v1)|null|
-|**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
 
 #### Abstracts
+##### **Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**
+2409.12087v1 by Yubo Li, Saba Al-Sayouri, Rema Padman
+
+This study explores the potential of utilizing administrative claims data,
+combined with advanced machine learning and deep learning techniques, to
+predict the progression of Chronic Kidney Disease (CKD) to End-Stage Renal
+Disease (ESRD). We analyze a comprehensive, 10-year dataset provided by a major
+health insurance organization to develop prediction models for multiple
+observation windows using traditional machine learning methods such as Random
+Forest and XGBoost as well as deep learning approaches such as Long Short-Term
+Memory (LSTM) networks. Our findings demonstrate that the LSTM model,
+particularly with a 24-month observation window, exhibits superior performance
+in predicting ESRD progression, outperforming existing models in the
+literature. We further apply SHapley Additive exPlanations (SHAP) analysis to
+enhance interpretability, providing insights into the impact of individual
+features on predictions at the individual patient level. This study underscores
+the value of leveraging administrative claims data for CKD management and
+predicting ESRD progression.
+
+摘要：本研究探討利用行政索賠資料的潛力，結合進階機器學習和深度學習技術，預測慢性腎臟病 (CKD) 進展至末期腎臟疾病 (ESRD)。我們分析由一家大型健康保險組織提供的十年綜合資料集，使用傳統機器學習方法（例如隨機森林和 XGBoost）以及深度學習方法（例如長短期記憶 (LSTM) 網路）開發多個觀察時段的預測模型。我們的研究結果表明，LSTM 模型，特別是具有 24 個月的觀察時段，在預測 ESRD 進展方面表現優異，優於文獻中的現有模型。我們進一步應用 SHapley 加法解釋 (SHAP) 分析來增強可解釋性，深入了解個別特徵對個別患者層級預測的影響。本研究強調了利用行政索賠資料進行 CKD 管理和預測 ESRD 進展的價值。
+
 ##### **Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**
 2408.17401v1 by Antonio Rago, Bence Palfi, Purin Sukpanichnant, Hannibal Nabli, Kavyesh Vivek, Olga Kostopoulou, James Kinross, Francesca Toni
 
@@ -2616,34 +2637,4 @@ explainable AI in general, and argumentation in the medical domain in
 particular.
 
 摘要：提供基於機器學習的 AI 預測的高品質說明是一項具有挑戰性和複雜性的任務。要順利進行，它需要具備下列因素：選擇適當的說明普遍性/特殊性層級；考量說明受益人對所考慮的 AI 任務的熟悉程度假設；參照促成決策的特定元素；利用可能不屬於預測程序的一部分的額外知識（例如專家證據）；並提供支持否定假設的證據。最後，系統需要以清晰可解釋且可能令人信服的方式制定說明。基於這些考量，ANTIDOTE 促成了可解釋 AI 的整合願景，其中深度學習程序的低階特徵與人類論證能力的高階架構相結合。ANTIDOTE 將利用深度學習與論證的跨領域能力，來支持可解釋 AI 更廣泛且創新的觀點，其中對臨床案例審議的高品質說明需求至關重要。作為該專案的第一個成果，我們發布了 Antidote CasiMedicos 資料集，以利於一般可解釋 AI 的研究，特別是醫療領域的論證。
-
-##### **XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**
-2306.04791v1 by Eli Laird, Ayesh Madushanka, Elfi Kraka, Corey Clark
-
-Progress in graph neural networks has grown rapidly in recent years, with
-many new developments in drug discovery, medical diagnosis, and recommender
-systems. While this progress is significant, many networks are `black boxes'
-with little understanding of the `what' exactly the network is learning. Many
-high-stakes applications, such as drug discovery, require human-intelligible
-explanations from the models so that users can recognize errors and discover
-new knowledge. Therefore, the development of explainable AI algorithms is
-essential for us to reap the benefits of AI.
-  We propose an explainability algorithm for GNNs called eXplainable Insight
-(XInsight) that generates a distribution of model explanations using GFlowNets.
-Since GFlowNets generate objects with probabilities proportional to a reward,
-XInsight can generate a diverse set of explanations, compared to previous
-methods that only learn the maximum reward sample. We demonstrate XInsight by
-generating explanations for GNNs trained on two graph classification tasks:
-classifying mutagenic compounds with the MUTAG dataset and classifying acyclic
-graphs with a synthetic dataset that we have open-sourced. We show the utility
-of XInsight's explanations by analyzing the generated compounds using QSAR
-modeling, and we find that XInsight generates compounds that cluster by
-lipophilicity, a known correlate of mutagenicity. Our results show that
-XInsight generates a distribution of explanations that uncovers the underlying
-relationships demonstrated by the model. They also highlight the importance of
-generating a diverse set of explanations, as it enables us to discover hidden
-relationships in the model and provides valuable guidance for further analysis.
-
-摘要：<paragraph>近年來，圖神經網路的進展迅速，在藥物發現、醫療診斷和推薦系統方面都有許多新發展。雖然這些進展很重要，但許多網路都是「黑盒子」，對於網路到底在學習「什麼」了解甚少。許多高風險應用，例如藥物發現，需要模型提供人類可以理解的解釋，以便使用者可以辨識錯誤並發現新知識。因此，可解釋 AI 演算法的開發對於我們獲取 AI 的好處至關重要。
-我們提出了一種稱為 eXplainable Insight (XInsight) 的 GNN 可解釋性演算法，它使用 GFlowNets 產生模型解釋分佈。由於 GFlowNets 會產生機率與獎勵成正比的物件，因此與先前僅學習最大獎勵範例的方法相比，XInsight 可以產生多樣化的解釋集合。我們透過為在兩個圖形分類任務中訓練的 GNN 產生解釋來展示 XInsight：使用 MUTAG 資料集對致突變化合物進行分類，並使用我們已開放原始碼的合成資料集對非環狀圖形進行分類。我們透過使用 QSAR 建模分析產生的化合物來展示 XInsight 解釋的效用，我們發現 XInsight 會產生按親脂性（已知的致突變相關性）分群的化合物。我們的結果顯示 XInsight 會產生一個解釋分佈，揭示模型所展示的底層關係。它們也強調產生多樣化解釋集合的重要性，因為它使我們能夠發現模型中的隱藏關係，並為進一步分析提供有價值的指導。</paragraph>
 

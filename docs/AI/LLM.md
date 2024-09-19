@@ -22,16 +22,16 @@
 |**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295v1](http://arxiv.org/abs/2409.11295v1)|null|
 |**2024-09-17**|**Navigating Process Mining: A Case study using pm4py**|Ali Jlidi et.al.|[2409.11294v1](http://arxiv.org/abs/2409.11294v1)|null|
 |**2024-09-17**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290v1](http://arxiv.org/abs/2409.11290v1)|null|
-|**2024-09-17**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283v1](http://arxiv.org/abs/2409.11283v1)|null|
+|**2024-09-17**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283v2](http://arxiv.org/abs/2409.11283v2)|null|
 |**2024-09-17**|**Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5**|Marcel Lamott et.al.|[2409.11282v1](http://arxiv.org/abs/2409.11282v1)|null|
 |**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279v1](http://arxiv.org/abs/2409.11279v1)|null|
 |**2024-09-17**|**Machine Learning and Theory Ladenness -- A Phenomenological Account**|Alberto Termine et.al.|[2409.11277v1](http://arxiv.org/abs/2409.11277v1)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274v1](http://arxiv.org/abs/2409.11274v1)|null|
-|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272v1](http://arxiv.org/abs/2409.11272v1)|null|
+|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272v2](http://arxiv.org/abs/2409.11272v2)|[link](https://github.com/dice-group/lola)|
 |**2024-09-17**|**Integrating Reinforcement Learning and Model Predictive Control with Applications to Microgrids**|Caio Fabio Oliveira da Silva et.al.|[2409.11267v1](http://arxiv.org/abs/2409.11267v1)|null|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263v1](http://arxiv.org/abs/2409.11263v1)|null|
 |**2024-09-17**|**The Sounds of Home: A Speech-Removed Residential Audio Dataset for Sound Event Detection**|Gabriel Bibbó et.al.|[2409.11262v1](http://arxiv.org/abs/2409.11262v1)|[link](https://github.com/gbibbo/voice_anonymization)|
-|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261v1](http://arxiv.org/abs/2409.11261v1)|null|
+|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261v2](http://arxiv.org/abs/2409.11261v2)|[link](https://github.com/ulrs0/The-Art-of-Story-Telling)|
 |**2024-09-17**|**Attacking Slicing Network via Side-channel Reinforcement Learning Attack**|Wei Shao et.al.|[2409.11258v1](http://arxiv.org/abs/2409.11258v1)|null|
 |**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253v1](http://arxiv.org/abs/2409.11253v1)|null|
 |**2024-09-17**|**WER We Stand: Benchmarking Urdu ASR Models**|Samee Arif et.al.|[2409.11252v1](http://arxiv.org/abs/2409.11252v1)|null|
@@ -64,25 +64,25 @@
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057v1](http://arxiv.org/abs/2409.11057v1)|null|
 |**2024-09-17**|**Large Language Models are Good Multi-lingual Learners : When LLMs Meet Cross-lingual Prompts**|Teng Wang et.al.|[2409.11056v1](http://arxiv.org/abs/2409.11056v1)|null|
 |**2024-09-17**|**A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language Models: An Experimental Analysis up to 405B**|Jemin Lee et.al.|[2409.11055v1](http://arxiv.org/abs/2409.11055v1)|null|
-|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Kranti Chalamalasetti et.al.|[2409.11041v1](http://arxiv.org/abs/2409.11041v1)|null|
+|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Chalamalasetti Kranti et.al.|[2409.11041v2](http://arxiv.org/abs/2409.11041v2)|null|
 |**2024-09-17**|**Hierarchical Narrative Analysis: Unraveling Perceptions of Generative AI**|Riona Matsuoka et.al.|[2409.11032v1](http://arxiv.org/abs/2409.11032v1)|null|
 |**2024-09-17**|**D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding**|Xiaobao Song et.al.|[2409.11024v1](http://arxiv.org/abs/2409.11024v1)|null|
-|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022v1](http://arxiv.org/abs/2409.11022v1)|null|
+|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022v2](http://arxiv.org/abs/2409.11022v2)|null|
 |**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011v1](http://arxiv.org/abs/2409.11011v1)|null|
 |**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007v1](http://arxiv.org/abs/2409.11007v1)|[link](https://github.com/gautierdag/cast)|
 |**2024-09-17**|**Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation**|Gerard I. Gállego et.al.|[2409.11003v1](http://arxiv.org/abs/2409.11003v1)|null|
 |**2024-09-17**|**Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**|Potsawee Manakul et.al.|[2409.10999v1](http://arxiv.org/abs/2409.10999v1)|null|
-|**2024-09-17**|**Contextual Breach: Assessing the Robustness of Transformer-based QA Models**|Asir Saadat et.al.|[2409.10997v1](http://arxiv.org/abs/2409.10997v1)|null|
+|**2024-09-17**|**Contextual Breach: Assessing the Robustness of Transformer-based QA Models**|Asir Saadat et.al.|[2409.10997v2](http://arxiv.org/abs/2409.10997v2)|null|
 |**2024-09-17**|**Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**|Dingjie Song et.al.|[2409.10994v1](http://arxiv.org/abs/2409.10994v1)|null|
 |**2024-09-17**|**Control-flow Reconstruction Attacks on Business Process Models**|Henrik Kirchmann et.al.|[2409.10986v1](http://arxiv.org/abs/2409.10986v1)|[link](https://github.com/henrikkirchmann/control-flow-reconstruction)|
 |**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin et.al.|[2409.10985v1](http://arxiv.org/abs/2409.10985v1)|null|
 |**2024-09-17**|**Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data**|Jing Xu et.al.|[2409.10969v1](http://arxiv.org/abs/2409.10969v1)|null|
 |**2024-09-17**|**Cross-lingual transfer of multilingual models on low resource African Languages**|Harish Thangaraj et.al.|[2409.10965v1](http://arxiv.org/abs/2409.10965v1)|null|
-|**2024-09-17**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964v1](http://arxiv.org/abs/2409.10964v1)|null|
+|**2024-09-17**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964v2](http://arxiv.org/abs/2409.10964v2)|null|
 |**2024-09-17**|**Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning**|Min-Yeong Park et.al.|[2409.10956v1](http://arxiv.org/abs/2409.10956v1)|[link](https://github.com/khu-agi/vil)|
 |**2024-09-17**|**Investigating Context-Faithfulness in Large Language Models: The Roles of Memory Strength and Evidence Style**|Yuepei Li et.al.|[2409.10955v1](http://arxiv.org/abs/2409.10955v1)|null|
 |**2024-09-17**|**Early Detection of Coronary Heart Disease Using Hybrid Quantum Machine Learning Approach**|Mehroush Banday et.al.|[2409.10932v1](http://arxiv.org/abs/2409.10932v1)|null|
-|**2024-09-17**|**Propulsion: Steering LLM with Tiny Fine-Tuning**|Md Kowsher et.al.|[2409.10927v1](http://arxiv.org/abs/2409.10927v1)|[link](https://github.com/Kowsher/Propulsion)|
+|**2024-09-17**|**Propulsion: Steering LLM with Tiny Fine-Tuning**|Md Kowsher et.al.|[2409.10927v2](http://arxiv.org/abs/2409.10927v2)|[link](https://github.com/Kowsher/Propulsion)|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921v1](http://arxiv.org/abs/2409.10921v1)|[link](https://github.com/yanbei-jiang/artwork-interpretation)|
 |**2024-09-17**|**GenCRF: Generative Clustering and Reformulation Framework for Enhanced Intent-Driven Information Retrieval**|Wonduk Seo et.al.|[2409.10909v1](http://arxiv.org/abs/2409.10909v1)|null|
 |**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907v1](http://arxiv.org/abs/2409.10907v1)|null|
@@ -603,7 +603,7 @@ shows the applicability of the proposed NN architecture.
 摘要：車輛路線問題是關於最佳化車輛路線，以滿足特定地點客戶的需求。路線圖包含多個層級的車輛存放處和客戶位置。多年來已經開發出多種最佳化方法，其中大多數基於某種類型的經典啟發式方法：遺傳演算法、模擬退火、禁忌搜尋、蟻群最佳化、螢火蟲演算法。機器學習的最新發展提供了一組新的工具，即豐富的神經網路家族，用於解決複雜的問題。神經網路的主要應用領域是分類和回歸領域。路線最佳化可以視為神經網路的新挑戰。本文首先分析了神經網路工具的適用性，然後詳細介紹了一個新穎的圖形神經網路模型。基於測試實驗的效率分析顯示了所提出的神經網路架構的適用性。
 
 ##### **Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**
-2409.11283v1 by Xinyue Fang, Zhen Huang, Zhiliang Tian, Minghui Fang, Ziyi Pan, Quntian Fang, Zhihua Wen, Hengyue Pan, Dongsheng Li
+2409.11283v2 by Xinyue Fang, Zhen Huang, Zhiliang Tian, Minghui Fang, Ziyi Pan, Quntian Fang, Zhihua Wen, Hengyue Pan, Dongsheng Li
 
 LLMs obtain remarkable performance but suffer from hallucinations. Most
 research on detecting hallucination focuses on the questions with short and
@@ -628,7 +628,7 @@ triples in long text, we conduct a LLM-based reverse verification via
 reconstructing the knowledge triples. Experiments show that our model enhances
 hallucination detection and excels all baselines.
 
-摘要：大型語言模型取得了顯著的表現，但會產生幻覺。大多數關於偵測幻覺的研究都專注於問題的答案簡短且具體，且易於檢查其真實性。對於開放式答案的文字生成，幻覺偵測更具挑戰性。一些研究人員使用外部知識來偵測生成的文字中的幻覺，但特定情境的外部資源難以取得。最近關於在沒有外部資源的情況下偵測長篇文字中的幻覺的研究，會在多個取樣輸出之間進行一致性比較。為了處理長篇文字，研究人員將長篇文字拆分成多個事實，並個別比較每對事實的一致性。然而，這些方法（1）難以在多個事實之間達成一致性；（2）忽略了多個上下文事實之間的依賴性。在本文中，我們提出了一個基於圖形的上下文感知（GCA）幻覺偵測，用於文字生成，它會對齊知識事實，並考慮上下文知識三元組之間的依賴性，以進行一致性比較。特別是，為了對齊多個事實，我們進行了三元導向的回應區塊，以提取多個知識三元組。為了模擬上下文知識三元組（事實）之間的依賴性，我們將上下文三元組建構為一個圖形，並透過訊息傳遞和透過 RGCN 進行聚合來增強三元組的互動。為了避免遺漏長篇文字中的知識三元組，我們透過重建知識三元組進行基於 LLM 的反向驗證。實驗表明，我們的模型增強了幻覺偵測，並優於所有基線。
+摘要：LLM 獲得顯著的效能，但會出現幻覺。大多數關於偵測幻覺的研究都集中在問題的答案簡短且具體，且易於檢查其真實性。對於開放式答案的文字生成，幻覺的偵測更具挑戰性。一些研究人員使用外部知識來偵測生成的文字中的幻覺，但特定場景的外部資源難以取得。最近關於在沒有外部資源的情況下偵測長篇文字幻覺的研究，在多個取樣輸出之間進行一致性比較。為了處理長篇文字，研究人員將長篇文字拆分成多個事實，並個別比較每對事實的一致性。然而，這些方法（1）難以在多個事實之間取得一致性；（2）忽略多個脈絡事實之間的依賴性。在本文中，我們提出一個基於圖形、具脈絡感知（GCA）的文字生成幻覺偵測，它會比對知識事實，並在一致性比較中考慮脈絡知識三元組之間的依賴性。特別是，為了比對多個事實，我們進行三元導向的回應區隔，以萃取多個知識三元組。為了模擬脈絡知識三元組（事實）之間的依賴性，我們將脈絡三元組建構為一個圖形，並透過訊息傳遞和透過 RGCN 進行彙總來增強三元組的互動。為了避免遺漏長篇文字中的知識三元組，我們透過重建知識三元組進行基於 LLM 的反向驗證。實驗顯示，我們的模型增強了幻覺偵測，並優於所有基準。
 
 ##### **Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5**
 2409.11282v1 by Marcel Lamott, Muhammad Armaghan Shakir
@@ -750,7 +750,7 @@ analogy, then merge the synthesized ST system to the existing ST model.
 摘要：最近，大型语言模型 (LLM) 的最新进展引起了人们对语音文本多模态基础模型的兴趣，在基于指令的语音翻译 (ST) 中取得了强劲的性能。然而，由于需要在新的和以前的数据集的组合上重新训练，因此从现有的指令调整的 ST 系统扩展语言对的成本很高。我们建议通过使用任务算术合并针对新语言对训练的模型和现有模型来扩展新语言对。我们发现，直接将任务算术应用于 ST 会导致合并后的模型无法遵循指令；因此，生成错误语言的翻译。为了消除语言混淆，我们提出了一种增强任务算术的方法，该方法合并了一个额外的语言控制模型。它经过训练，可以按照指令生成正确的目标语言标记。我们的实验表明，我们提出的语言控制模型可以通过消除语言混淆来实现语言扩展。在我们的 MuST-C 和 CoVoST-2 实验中，它分别显示出高达 4.66 和 4.92 的 BLEU 分数改进。此外，我们展示了我们的任务算术框架的使用可以扩展到既没有配对 ST 训练数据也没有预训练 ST 模型的语言对。我们首先通过任务类比从机器翻译 (MT) 系统中合成 ST 系统，然后将合成的 ST 系统合并到现有的 ST 模型中。
 
 ##### **LOLA -- An Open-Source Massively Multilingual Large Language Model**
-2409.11272v1 by Nikit Srivastava, Denis Kuchelev, Tatiana Moteu, Kshitij Shetty, Michael Roeder, Diego Moussallem, Hamada Zahera, Axel-Cyrille Ngonga Ngomo
+2409.11272v2 by Nikit Srivastava, Denis Kuchelev, Tatiana Moteu, Kshitij Shetty, Michael Röder, Diego Moussallem, Hamada Zahera, Axel-Cyrille Ngonga Ngomo
 
 This paper presents LOLA, a massively multilingual large language model
 trained on more than 160 languages using a sparse Mixture-of-Experts
@@ -767,7 +767,7 @@ LOLA promotes reproducibility and serves as a robust foundation for future
 research. Our findings enable the development of compute-efficient multilingual
 models with strong, scalable performance across languages.
 
-摘要：本文介紹 LOLA，這是一個經過 160 多種語言訓練的大型多語言語言模型，採用稀疏混合專家 Transformer 架構。我們的架構和實作選擇應對了在維持效率且避免多語言的常見陷阱的同時，利用語言多樣性的挑戰。我們對評估結果的分析顯示，在自然語言生成和理解任務中具有競爭力。此外，我們展示了學習到的專家路由機制如何利用隱含的系統發生語言模式來潛在減輕多語言的詛咒。我們深入探討訓練過程、分析資料集，並平衡探討模型的優缺點。作為一個開源模型，LOLA 促進了可複製性，並作為未來研究的強大基礎。我們的發現使開發出跨語言具有強大、可擴充效能的運算效率多語言模型成為可能。
+摘要：本論文提出 LOLA，一種大規模多語言大型語言模型，使用稀疏混合專家Transformer架構，針對超過 160 種語言進行訓練。我們的架構和實作選擇，解決了在維持效率和避免多語言常見陷阱的同時，利用語言多樣性的挑戰。我們對評估結果的分析，顯示在自然語言生成和理解任務中具有競爭力的表現。此外，我們展示了學習到的專家路由機制，如何利用隱含的系統發生語言模式，來潛在減輕多語言的詛咒。我們深入探討訓練過程、對資料集的分析，以及對模型優缺點的平衡探討。作為一個開放原始碼模型，LOLA 推廣可複製性，並作為未來研究的穩固基礎。我們的發現，使開發出跨語言具有強大、可擴充性能的計算高效多語言模型成為可能。
 
 ##### **Integrating Reinforcement Learning and Model Predictive Control with Applications to Microgrids**
 2409.11267v1 by Caio Fabio Oliveira da Silva, Azita Dabiri, Bart De Schutter
@@ -836,7 +836,7 @@ models tailored specifically for in-home applications.
 摘要：本論文提出一個住宅音訊資料集，以支援智慧家庭應用之音訊事件偵測研究，旨在促進老年人的福祉。此資料集係透過在 8 位 55 至 80 歲參與者的家中部署音訊錄製系統，為期 7 天而建置。音響特性透過詳細的平面圖和建材資訊進行記錄，以利複製錄音環境以進行 AI 模型部署。並開發出一個新穎的自動化語音移除管線，利用預先訓練的音訊神經網路來偵測並移除包含語音的片段，同時保留包含其他音訊事件的片段。所得資料集包含符合隱私規範的音訊錄音，可精確擷取住宅空間內日常生活中的音景和活動。本文詳述資料集建立方法、利用串聯模型架構的語音移除管線，以及對語音標籤分佈的分析，以驗證語音移除流程。此資料集可協助開發和評量專門針對居家應用所量身打造的音訊事件偵測模型。
 
 ##### **The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**
-2409.11261v1 by Samee Arif, Taimoor Arif, Aamina Jamal Khan, Muhammad Saad Haroon, Agha Ali Raza, Awais Athar
+2409.11261v2 by Samee Arif, Taimoor Arif, Aamina Jamal Khan, Muhammad Saad Haroon, Agha Ali Raza, Awais Athar
 
 This paper introduces the concept of an education tool that utilizes
 Generative Artificial Intelligence (GenAI) to enhance storytelling for
@@ -849,7 +849,7 @@ text-to-video technology. Our evaluation covers the linguistics of the
 generated stories, the text-to-speech conversion quality, and the accuracy of
 the generated visuals.
 
-摘要：本文介紹了一種教育工具的概念，它利用生成式人工智能 (GenAI) 來增強兒童說故事的能力。該系統結合了 GenAI 驅動的敘事共同創作、文字轉語音轉換和文字轉影片生成，為學習者創造引人入勝的體驗。我們描述了共同創作過程、使用文字轉語音模型將敘事轉換為口語，以及透過文字轉影片技術將這些敘事轉換為與情境相關的視覺效果。我們的評估涵蓋了生成故事的語言學、文字轉語音轉換品質，以及生成視覺效果的準確性。
+摘要：本論文介紹了一種教育工具的概念，該工具利用生成式人工智慧 (GenAI) 來增強兒童的故事敘述。此系統結合了由 GenAI 驅動的敘事共同創作、文字轉語音轉換以及文字轉影片生成，為學習者帶來引人入勝的體驗。我們描述了共同創作的過程、使用文字轉語音模型將敘事改編為有聲書，以及透過文字轉影片技術將這些敘事轉換為與脈絡相關的視覺效果。我們的評量涵蓋了生成故事的語言學、文字轉語音轉換品質以及生成視覺效果的準確性。
 
 ##### **Attacking Slicing Network via Side-channel Reinforcement Learning Attack**
 2409.11258v1 by Wei Shao, Chandra Thapa, Rayne Holland, Sarah Ali Siddiqui, Seyit Camtepe
@@ -1599,7 +1599,7 @@ power among recent high-performing LLMs.
 摘要：先前的研究工作已使用有限的指標，例如困惑度或一些基本的知識任務和舊的資料集，來評估量化的 LLM。此外，像 Llama 3.1 這樣高達 405B 的最新大型模型尚未經過徹底檢查。本文評估了從 7B 到 405B 的模型在各種量化方法（GPTQ、AWQ、SmoothQuant 和 FP8）上，經過指令調整的 LLM 的效能。使用 13 個基準，我們評估了六種任務類型的效能：常識問答、知識和語言理解、指令遵循、幻覺檢測、數學和對話。我們的關鍵發現顯示，（1）將較大的 LLM 量化為與較小的 FP16 LLM 相似的尺寸，通常在除幻覺檢測和指令遵循之外的大多數基準上表現得更好；（2）效能會隨著不同的量化方法、模型大小和位元寬度而有顯著差異，僅權重的量化方法通常在較大的模型中產生更好的結果；（3）任務難度不會顯著影響量化造成的準確度下降；（4）MT-Bench 評估方法在最近效能良好的 LLM 中具有有限的區分能力。
 
 ##### **Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**
-2409.11041v1 by Kranti Chalamalasetti, Sherzod Hakimov, David Schlangen
+2409.11041v2 by Chalamalasetti Kranti, Sherzod Hakimov, David Schlangen
 
 While there has been a lot of research recently on robots in household
 environments, at the present time, most robots in existence can be found on
@@ -1622,7 +1622,7 @@ simulated environment, we find that LLMs are capable of generating accurate
 `first order code' (instruction sequences), but have problems producing
 `higher-order code' (abstractions such as functions, or use of loops).
 
-摘要：<paragraph>雖然最近對於家庭環境中的機器人有許多研究，目前為止，大多數的機器人存在於商店樓層，而人類與機器人之間的大多數互動也發生在這些地方。傳統上設計用於與人類在組裝線上一起工作的「協作機器人」（cobots）需要專家程式設計，這會限制做出變更的能力，或限制手動引導，進而限制所產生程式碼的表達力。為了解決這些限制，我們探索使用大型語言模型（LLM），特別是它們在情境學習中的能力，用於對話式程式碼產生。作為第一步，我們定義 RATS，即「重複組裝任務」，這是一個 2D 建構任務，旨在奠定模擬產業組裝場景的基礎。在這個任務中，一個「程式設計師」使用自然語言指示一個 cobot 如何建構某個組裝；也就是說，程式設計師透過自然語言引導一個程式。我們建立一個將目標結構與各種範例指示（人工撰寫、基於範本，以及模型產生）和範例程式碼配對的資料集。透過這個資料集，我們系統性地評估最先進的 LLM 在給定情境範例的情況下，綜合這種程式碼的能力。在模擬環境中評估，我們發現 LLM 能夠產生準確的「一階程式碼」（指令序列），但難以產生「高階程式碼」（例如函式或迴圈使用的抽象概念）。</paragraph>
+摘要：<paragraph>儘管最近在家庭環境中對機器人的研究很多，但目前為止，大多數現存的機器人都可以在商店樓層中找到，而且人類與機器人之間的大多數互動都發生在那裡。傳統上，設計為與人類在組裝線上並肩工作的「協作機器人」（協作機器人）需要專家程式設計，限制了做出變更的能力，或手動指導，限制了所產生程式的表達能力。為了解決這些限制，我們探索使用大型語言模型 (LLM)，特別是它們在情境學習中的能力，用於對話式程式碼產生。作為第一步，我們定義 RATS，「重複組裝任務」，一個 2D 建構任務，旨在為模擬產業組裝場景奠定基礎。在這個任務中，一個「程式設計師」使用自然語言指導協作機器人如何建構某個組件；也就是說，程式設計師透過自然語言誘導一個程式。我們建立一個將目標結構與各種範例指令（人工撰寫、基於範本和模型產生）和範例程式碼配對的資料集。有了這個，我們系統性地評估最先進的 LLM 在給予情境範例的情況下綜合此類程式碼的能力。在模擬環境中評估，我們發現 LLM 能夠產生準確的「一階程式碼」（指令序列），但產生「高階程式碼」（例如函數或迴圈使用的抽象）時有問題。</paragraph>
 
 ##### **Hierarchical Narrative Analysis: Unraveling Perceptions of Generative AI**
 2409.11032v1 by Riona Matsuoka, Hiroki Matsumoto, Takahiro Yoshida, Tomohiro Watanabe, Ryoma Kondo, Ryohei Hisano
@@ -1674,7 +1674,7 @@ fixed-length and variable-length prediction tasks.
 通過對六個資料集的廣泛實驗，我們證明 Date2Vec 優於其他時間位置嵌入方法，而 D2Vformer 在固定長度和變長度預測任務中都超越了最先進的方法。
 
 ##### **GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**
-2409.11022v1 by Hanjun Luo, Yibing Jin, Xuecheng Liu, Tong Shang, Ruizhe Chen, Zuozhu Liu
+2409.11022v2 by Hanjun Luo, Yingbin Jin, Xuecheng Liu, Tong Shang, Ruizhe Chen, Zuozhu Liu
 
 Large Language Models (LLMs) have supplanted traditional methods in numerous
 natural language processing tasks. Nonetheless, in Named Entity Recognition
@@ -1692,7 +1692,7 @@ novel dynamic categorization system. Experiments show that CascadeNER achieves
 state-of-the-art performance on low-resource and fine-grained scenarios,
 including CrossNER and FewNERD. Our work is openly accessible.
 
-摘要：大型語言模型 (LLM) 已取代傳統方法，用於許多自然語言處理任務。儘管如此，在命名實體識別 (NER) 中，現有的基於 LLM 的方法與基準相比表現不佳，並且需要更多運算資源，限制了其應用。在本文中，我們介紹了基於生成的抽取和上下文分類 (GEIC) 的任務，旨在利用 LLM 的先驗知識和自注意力機制進行 NER 任務。然後，我們提出了 CascadeNER，一個通用的多語言 GEIC 框架，用於少樣本和零樣本 NER。CascadeNER 使用模型串聯來利用兩個小參數 LLM 獨立提取和分類，從而減少資源消耗並提高準確性。我們還介紹了 AnythingNER，這是第一個專門為 LLM 設計的 NER 資料集，包括 8 種語言、155 種實體類型和一個新穎的動態分類系統。實驗表明，CascadeNER 在低資源和細粒度場景中實現了最先進的性能，包括 CrossNER 和 FewNERD。我們的研究成果是開放獲取的。
+摘要：大型語言模型（LLM）已經取代傳統方法，用於大量的自然語言處理任務。然而，在命名實體識別（NER）中，現有的基於 LLM 的方法與基線相比表現不佳，並且需要大量計算資源，從而限制了它們的應用。在本文中，我們引入了基於生成的抽取和上下文分類（GEIC）的任務，旨在利用 LLM 的先驗知識和自注意力機制來執行 NER 任務。然後，我們提出了 CascadeNER，一個通用的多語言 GEIC 框架，用於小樣本和零樣本 NER。CascadeNER 採用模型串聯來利用兩個小參數 LLM 獨立地提取和分類，從而在提高準確性的同時減少資源消耗。我們還引入了 AnythingNER，這是第一個專門為 LLM 設計的 NER 數據集，包括 8 種語言、155 種實體類型和一個新穎的動態分類系統。實驗表明，CascadeNER 在低資源和細粒度場景（包括 CrossNER 和 FewNERD）中實現了最先進的性能。我們的成果是公開可用的。
 
 ##### **Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**
 2409.11011v1 by Emile Saillard, Aurélie Levillain, David Mitton, Jean-Baptiste Pialat, Cyrille Confavreux, Hélène Follet, Thomas Grenier
@@ -1783,7 +1783,7 @@ both English and Thai languages.
 摘要：音訊語言模型可以理解音訊輸入，並根據指示執行一系列與音訊相關的任務，例如語音辨識和音訊字幕，其中指示通常是文字提示。音訊語言模型大多從預先訓練的音訊編碼器和大型語言模型 (LLM) 初始化。儘管這些預先訓練的元件是為了支援多種語言而開發，但音訊語言模型主要在英語資料上訓練，這可能會將其可用性限制在僅限於英語指示或英語語音輸入。首先，本文使用泰語為例，探討現有音訊語言模型在服務不足語言中的效能。本文證明，儘管建立在多語言主幹上，但音訊語言模型並未對低資源語言表現出跨語言的浮現能力。其次，本文研究資料混合，以開發針對目標語言和英語進行最佳化的音訊語言模型。此外，本文將音訊理解和語音指令遵循功能整合到單一統一模型中。我們的實驗提供了對資料混合的見解，以增強低資源語言和英語的指令遵循功能。我們的模型 Typhoon-Audio 在很大程度上優於現有的開源音訊語言模型，並且在英語和泰語中都與最先進的 Gemini-1.5-Pro 相當。
 
 ##### **Contextual Breach: Assessing the Robustness of Transformer-based QA Models**
-2409.10997v1 by Asir Saadat, Nahian Ibn Asad, Md Farhan Ishmam
+2409.10997v2 by Asir Saadat, Nahian Ibn Asad, Md Farhan Ishmam
 
 Contextual question-answering models are susceptible to adversarial
 perturbations to input context, commonly observed in real-world scenarios.
@@ -1797,7 +1797,7 @@ Experiments on transformer-based question-answering models reveal robustness
 vulnerabilities and important insights into the model's performance in
 realistic textual input.
 
-摘要：情境問答模型容易受到對輸入情境的對抗性擾動影響，這在真實世界中很常見。這些對抗性雜訊旨在透過扭曲文字輸入來降低模型的效能。我們引入了一個獨特的資料集，將七種類型的對抗性雜訊納入情境中，每個雜訊都在 SQuAD 資料集上以五個不同的強度等級應用。為了量化穩健性，我們利用穩健性指標提供標準化測量，以評估模型在不同雜訊類型和等級下的效能。針對基於 Transformer 的問答模型進行的實驗揭露了穩健性漏洞，並深入了解模型在真實文字輸入中的效能。
+摘要：情境式問答模型容易受到對抗性的輸入情境擾動，這在現實世界中很常見。這些對抗性雜訊旨在透過扭曲文字輸入來降低模型的效能。我們引入了一個獨特的資料集，其中包含七種類型的對抗性雜訊，每種類型在 SQuAD 資料集上以五個不同的強度等級應用。為了量化穩健性，我們利用穩健性指標提供標準化的測量，用於評估模型在不同雜訊類型和層級下的效能。在基於Transformer的問答模型上進行的實驗揭示了穩健性漏洞，並對模型在現實文字輸入中的效能提供了重要的見解。
 
 ##### **Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**
 2409.10994v1 by Dingjie Song, Wenjun Wang, Shunian Chen, Xidong Wang, Michael Guan, Benyou Wang
@@ -1907,7 +1907,7 @@ capabilities in resource limited settings.
 摘要：大型多語言模型已大幅提升自然語言處理 (NLP) 研究。然而，其高資源需求和來自不同資料來源的潛在偏差已引發人們對其在低資源語言中的有效性的擔憂。相比之下，針對單一語言訓練的單語言模型可能更能捕捉目標語言的細微差別，潛在提供更準確的結果。本研究基準測試了從高資源語言到低資源語言的跨語言轉移能力，適用於單語言模型和多語言模型，重點關注班圖語族的盧安達語和基隆迪語。我們評估了基於 Transformer 架構的效能，例如多語言 BERT (mBERT)、AfriBERT 和 BantuBERTa，以及基於神經網路的架構，例如 BiGRU、CNN 和 char-CNN。這些模型在盧安達語上訓練，並在基隆迪語上測試，並應用微調來評估效能改善的程度和災難性遺忘。AfriBERT 在微調後達到了 88.3% 的最高跨語言準確度，而 BiGRU 則以 83.3% 的準確度成為表現最佳的神經網路模型。我們還分析了微調後原始語言的遺忘程度。雖然單語言模型仍然具有競爭力，但本研究強調多語言模型在資源受限的環境中提供了強大的跨語言轉移能力。
 
 ##### **Active learning for energy-based antibody optimization and enhanced screening**
-2409.10964v1 by Kairi Furui, Masahito Ohue
+2409.10964v2 by Kairi Furui, Masahito Ohue
 
 Accurate prediction and optimization of protein-protein binding affinity is
 crucial for therapeutic antibody development. Although machine learning-based
@@ -1919,15 +1919,15 @@ address this, we propose an active learning workflow that efficiently trains a
 deep learning model to learn energy functions for specific targets, combining
 the advantages of both approaches. Our method integrates the RDE-Network deep
 learning model with Rosetta's energy function-based Flex ddG to efficiently
-explore mutants that bind to Flex ddG. In a case study targeting HER2-binding
-Trastuzumab mutants, our approach significantly improved the screening
-performance over random selection and demonstrated the ability to identify
-mutants with better binding properties without experimental $\Delta\Delta G$
-data. This workflow advances computational antibody design by combining machine
-learning, physics-based computations, and active learning to achieve more
-efficient antibody development.
+explore mutants. In a case study targeting HER2-binding Trastuzumab mutants,
+our approach significantly improved the screening performance over random
+selection and demonstrated the ability to identify mutants with better binding
+properties without experimental $\Delta\Delta G$ data. This workflow advances
+computational antibody design by combining machine learning, physics-based
+computations, and active learning to achieve more efficient antibody
+development.
 
-摘要：準確預測和最佳化蛋白質-蛋白質結合親和力對於治療性抗體開發至關重要。儘管基於機器學習的預測方法$\Delta\Delta G$適用於大規模突變篩選，但它們難以預測沒有現有結合劑的目標的多次突變的影響。基於能量函數的方法雖然更準確，但耗時且不適用於大規模篩選。為了解決這個問題，我們提出一個主動學習工作流程，可以有效訓練一個深度學習模型來學習特定目標的能量函數，結合兩種方法的優點。我們的模型將 RDE-Network 深度學習模型與 Rosetta 基於能量函數的 Flex ddG 結合，以有效探索與 Flex ddG 結合的突變體。在針對 HER2 結合 Trastuzumab 突變體的案例研究中，我們的模型顯著提升了隨機選擇的篩選效能，並證明了在沒有實驗性$\Delta\Delta G$資料的情況下識別具有更好結合特性的突變體的能力。這個工作流程結合機器學習、基於物理的計算和主動學習，推動了計算抗體設計，以實現更有效的抗體開發。
+摘要：準確預測和最佳化蛋白質-蛋白質結合親和力對於治療性抗體開發至關重要。儘管基於機器學習的預測方法 $\Delta\Delta G$ 適用於大規模突變篩選，但它們難以預測沒有現有結合物的目標物的多重突變效應。基於能量函數的方法雖然更準確，但耗時且不適用於大規模篩選。為了解決這個問題，我們提出一個主動學習工作流程，有效訓練深度學習模型以學習特定目標物的能量函數，結合兩種方法的優點。我們的模型整合了 RDE-Network 深度學習模型與 Rosetta 基於能量函數的 Flex ddG，以有效探索突變。在針對 HER2 結合 Trastuzumab 突變的案例研究中，我們的模型明顯改善了隨機選擇的篩選效能，並證明了在沒有實驗 $\Delta\Delta G$ 資料的情況下識別具有更好結合特性的突變體的能力。這個工作流程結合機器學習、基於物理的運算和主動學習，推進了計算抗體設計，以實現更有效的抗體開發。
 
 ##### **Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning**
 2409.10956v1 by Min-Yeong Park, Jae-Ho Lee, Gyeong-Moon Park
@@ -2009,7 +2009,7 @@ specificity of the proposed hybrid QML model used with CHD are manifold higher.
 摘要：冠狀動脈心臟病 (CHD) 是一種嚴重的疾病，因此，早期診斷至關重要，因為它可以改善治療結果並節省醫療保健費用。量子計算和機器學習 (ML) 技術的盛行發展可能會對 CHD 診斷的性能帶來實際改善。量子機器學習 (QML) 由於其更高的性能和能力，在各個領域引起了極大的興趣。醫療保健行業的量子飛躍將增加處理能力並優化多個模型。QML 的技術有潛力預測心臟病並幫助早期發現。為了預測冠狀動脈心臟病的風險，本文提出了一種基於 QML 分類器的混合機器學習模型的混合方法。我們的這種方法具備處理多維醫療保健數據的獨特能力，通過在多步驟推理框架中融合量子和經典 ML 演算法，確保了該方法的穩健性。心臟病和死亡率的顯著上升影響了全球人類健康和全球經濟。降低心臟發病率和死亡率需要對心臟病進行早期發現。在這項研究中，一種混合方法利用具有量子計算能力的技術來解決傳統機器學習演算法無法解決的複雜問題，並最大程度地減少計算開銷。所提出的方法已在 Raspberry Pi 5 繪圖處理單元 (GPU) 平臺上開發，並在一個廣泛的資料集上進行了測試，該資料集整合了患有 CHD 和健康對照者的臨床和影像數據。與經典機器學習模型相比，所提出的混合 QML 模型與 CHD 一起使用的準確性、敏感性、F1 分數和特異性更高。
 
 ##### **Propulsion: Steering LLM with Tiny Fine-Tuning**
-2409.10927v1 by Md Kowsher, Nusrat Jahan Prottasha, Prakash Bhat
+2409.10927v2 by Md Kowsher, Nusrat Jahan Prottasha, Prakash Bhat
 
 The rapid advancements in Large Language Models (LLMs) have revolutionized
 natural language processing (NLP) and related fields. However, fine-tuning
@@ -2030,7 +2030,7 @@ trainable parameters. Empirically, Propulsion reduces the parameter count from
 standard approaches like LoRA while maintaining competitive performance across
 benchmarks.
 
-摘要：大型語言模型 (LLM) 的快速進展徹底改變了自然語言處理 (NLP) 及相關領域。然而，針對特定任務微調這些模型在計算上仍然很昂貴，並且有損害預先學習到的特徵的風險。為了應對這些挑戰，我們提出了推進，這是一種新穎的參數高效微調 (PEFT) 方法，旨在優化特定任務的效能，同時大幅降低運算負擔。推進的靈感來自於物理運動中受控調整的概念，它有選擇性地重新調整預訓練模型的特定維度，引導輸出預測朝向任務目標，而不會修改模型的參數。透過在預訓練層中引入輕量級、可訓練的推進參數，我們將微調期間更新的參數數量減至最低，防止過度擬合或覆寫現有知識。我們的理論分析得到神經切線核 (NTK) 理論的支持，表明推進以遠少於可訓練參數來近似完全微調的效能。根據經驗，推進將參數數量從 3.553 億減少到僅 0.086 萬，與 LoRA 等標準方法相比，減少了 10 倍以上，同時在各項基準測試中維持有競爭力的效能。
+摘要：大型語言模型 (LLM) 的快速進展徹底改變了自然語言處理 (NLP) 和相關領域。然而，針對特定任務微調這些模型在計算上仍然很昂貴，並且有損害預先學習到的特徵的風險。為了應對這些挑戰，我們提出了推進，一種新穎的參數高效微調 (PEFT) 方法，旨在優化特定於任務的效能，同時大幅減少計算開銷。推進的靈感來自於物理運動中受控調整的概念，它有選擇性地重新調整預先訓練模型的特定維度，將輸出預測引導至任務目標，而不會修改模型的參數。透過在預先訓練的層中引入輕量級、可訓練的推進參數，我們將微調期間更新的參數數量減至最少，防止過度擬合或覆寫現有知識。我們的理論分析，在神經切線核 (NTK) 理論的支援下，顯示推進近似於完全微調的效能，但可訓練參數卻少得多。根據經驗，推進將參數數量從 3.553 億減少到僅 0.086 萬，與 LoRA 等標準方法相比，減少了 10 倍以上，同時在各種基準測試中維持有競爭力的效能。
 
 ##### **KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**
 2409.10921v1 by Yanbei Jiang, Krista A. Ehinger, Jey Han Lau

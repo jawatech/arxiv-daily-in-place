@@ -1483,23 +1483,9 @@ foundation for further research on generating explanations for DDI predictions.
 ##### **Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**
 2409.05486v2 by Camilo Thorne, Christian Druckenbrodt, Kinga Szarkowska, Deepika Goyal, Pranita Marajan, Vijay Somanath, Corey Harper, Mao Yan, Tony Scerri
 
-The quality and capabilities of large language models cannot be currently
-fully assessed with automated, benchmark evaluations. Instead, human
-evaluations that expand on traditional qualitative techniques from natural
-language generation literature are required. One recent best-practice consists
-in using A/B-testing frameworks, which capture preferences of human evaluators
-for specific models. In this paper we describe a human evaluation experiment
-focused on the biomedical domain (health, biology, chemistry/pharmacology)
-carried out at Elsevier. In it a large but not massive (8.8B parameter)
-decoder-only foundational transformer trained on a relatively small (135B
-tokens) but highly curated collection of Elsevier datasets is compared to
-OpenAI's GPT-3.5-turbo and Meta's foundational 7B parameter Llama 2 model
-against multiple criteria. Results indicate -- even if IRR scores were
-generally low -- a preference towards GPT-3.5-turbo, and hence towards models
-that possess conversational abilities, are very large and were trained on very
-large datasets. But at the same time, indicate that for less massive models
-training on smaller but well-curated training sets can potentially give rise to
-viable alternatives in the biomedical domain.
+arXiv admin comment: This version has been removed by arXiv administrators as
+the submitter did not have the rights to agree to the license at the time of
+submission
 
 摘要：大型語言模型的品質和能力目前無法透過自動化基準評估完全評估。相反地，需要擴展自然語言生成文獻中傳統定性技術的人工評估。一個最近的最佳實務包含使用 A/B 測試框架，它會擷取人類評估者對於特定模型的偏好。在本文中，我們描述了專注於生物醫學領域（健康、生物學、化學/藥理學）的人類評估實驗，該實驗在 Elsevier 進行。其中，一個大型但非龐大（8.8B 參數）僅解碼器基礎轉換器在相對較小（135B 令牌）但經過高度整理的 Elsevier 資料集上訓練，與 OpenAI 的 GPT-3.5-turbo 和 Meta 的基礎 7B 參數 Llama 2 模型在多重標準下進行比較。結果顯示，即使 IRR 分數通常較低，但偏好 GPT-3.5-turbo，因此偏好具對話能力、非常大型且在非常大型資料集上訓練的模型。但同時也顯示，對於較不龐大的模型，在較小但經過良好整理的訓練集上進行訓練，有可能在生物醫學領域產生可行的替代方案。
 

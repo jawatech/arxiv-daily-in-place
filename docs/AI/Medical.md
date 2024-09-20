@@ -32,7 +32,7 @@
 |**2024-09-14**|**COMFORT: A Continual Fine-Tuning Framework for Foundation Models Targeted at Consumer Healthcare**|Chia-Hao Li et.al.|[2409.09549v1](http://arxiv.org/abs/2409.09549v1)|null|
 |**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu et.al.|[2409.09520v1](http://arxiv.org/abs/2409.09520v1)|null|
 |**2024-09-14**|**Synthetic4Health: Generating Annotated Synthetic Clinical Letters**|Libo Ren et.al.|[2409.09501v1](http://arxiv.org/abs/2409.09501v1)|null|
-|**2024-09-14**|**From FDG to PSMA: A Hitchhiker's Guide to Multitracer, Multicenter Lesion Segmentation in PET/CT Imaging**|Maximilian Rokuss et.al.|[2409.09478v1](http://arxiv.org/abs/2409.09478v1)|null|
+|**2024-09-14**|**From FDG to PSMA: A Hitchhiker's Guide to Multitracer, Multicenter Lesion Segmentation in PET/CT Imaging**|Maximilian Rokuss et.al.|[2409.09478v1](http://arxiv.org/abs/2409.09478v1)|[link](https://github.com/mic-dkfz/autopet-3-submission)|
 |**2024-09-14**|**Protecting Copyright of Medical Pre-trained Language Models: Training-Free Backdoor Watermarking**|Cong Kong et.al.|[2409.10570v1](http://arxiv.org/abs/2409.10570v1)|null|
 |**2024-09-14**|**Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation**|Hui Yi Leong et.al.|[2409.09324v1](http://arxiv.org/abs/2409.09324v1)|null|
 |**2024-09-14**|**On the limits of agency in agent-based models**|Ayush Chopra et.al.|[2409.10568v1](http://arxiv.org/abs/2409.10568v1)|[link](https://github.com/agenttorch/agenttorch)|

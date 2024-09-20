@@ -2,7 +2,7 @@
 ### LLM
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v1](http://arxiv.org/abs/2409.12194v1)|null|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v2](http://arxiv.org/abs/2409.12194v2)|null|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|[link](https://github.com/qwenlm/qwen2-vl)|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186v1](http://arxiv.org/abs/2409.12186v1)|null|
@@ -19,18 +19,18 @@
 |**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122v1](http://arxiv.org/abs/2409.12122v1)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117v1](http://arxiv.org/abs/2409.12117v1)|null|
 |**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106v1](http://arxiv.org/abs/2409.12106v1)|[link](https://github.com/value4ai/gpv)|
-|**2024-09-18**|**Skill matching at scale: freelancer-project alignment for efficient multilingual candidate retrieval**|Warren Jouanneau et.al.|[2409.12097v1](http://arxiv.org/abs/2409.12097v1)|null|
+|**2024-09-18**|**Skill matching at scale: freelancer-project alignment for efficient multilingual candidate retrieval**|Warren Jouanneau et.al.|[2409.12097v2](http://arxiv.org/abs/2409.12097v2)|null|
 |**2024-09-18**|**IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition**|Rui Liu et.al.|[2409.12092v1](http://arxiv.org/abs/2409.12092v1)|null|
 |**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v1](http://arxiv.org/abs/2409.12087v1)|null|
 |**2024-09-18**|**PAD-FT: A Lightweight Defense for Backdoor Attacks via Data Purification and Fine-Tuning**|Yukai Xu et.al.|[2409.12072v1](http://arxiv.org/abs/2409.12072v1)|null|
 |**2024-09-18**|**Generalized Robot Learning Framework**|Jiahuan Yan et.al.|[2409.12061v1](http://arxiv.org/abs/2409.12061v1)|null|
 |**2024-09-18**|**PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models**|Andrianos Michail et.al.|[2409.12060v1](http://arxiv.org/abs/2409.12060v1)|null|
 |**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059v1](http://arxiv.org/abs/2409.12059v1)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046v1](http://arxiv.org/abs/2409.12046v1)|null|
+|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046v2](http://arxiv.org/abs/2409.12046v2)|null|
 |**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042v1](http://arxiv.org/abs/2409.12042v1)|null|
 |**2024-09-18**|**Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes**|Marco Montagna et.al.|[2409.12033v1](http://arxiv.org/abs/2409.12033v1)|null|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020v1](http://arxiv.org/abs/2409.12020v1)|null|
-|**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005v1](http://arxiv.org/abs/2409.12005v1)|null|
+|**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005v2](http://arxiv.org/abs/2409.12005v2)|null|
 |**2024-09-18**|**Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer**|Andrés Cremades et.al.|[2409.11992v1](http://arxiv.org/abs/2409.11992v1)|null|
 |**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971v1](http://arxiv.org/abs/2409.11971v1)|null|
 |**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968v1](http://arxiv.org/abs/2409.11968v1)|null|
@@ -60,7 +60,7 @@
 |**2024-09-18**|**NPAT Null-Space Projected Adversarial Training Towards Zero Deterioration**|Hanyi Hu et.al.|[2409.11754v1](http://arxiv.org/abs/2409.11754v1)|null|
 |**2024-09-18**|**Exploring Gaze Pattern in Autistic Children: Clustering, Visualization, and Prediction**|Weiyan Shi et.al.|[2409.11744v1](http://arxiv.org/abs/2409.11744v1)|null|
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734v1](http://arxiv.org/abs/2409.11734v1)|null|
-|**2024-09-18**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733v1](http://arxiv.org/abs/2409.11733v1)|null|
+|**2024-09-18**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733v2](http://arxiv.org/abs/2409.11733v2)|null|
 |**2024-09-18**|**Enabling Real-Time Conversations with Minimal Training Costs**|Wang Xu et.al.|[2409.11727v1](http://arxiv.org/abs/2409.11727v1)|null|
 |**2024-09-18**|**Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**|Wenyuan Zhang et.al.|[2409.11726v1](http://arxiv.org/abs/2409.11726v1)|[link](https://github.com/wyripple/rp_kw_errors)|
 |**2024-09-18**|**TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning**|Xinyuan Lu et.al.|[2409.11724v1](http://arxiv.org/abs/2409.11724v1)|[link](https://github.com/xinyuanlu00/tart)|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Gender Representation and Bias in Indian Civil Service Mock Interviews**
-2409.12194v1 by Somonnoy Banerjee, Sujan Dutta, Soumyajit Datta, Ashiqur R. KhudaBukhsh
+2409.12194v2 by Somonnoy Banerjee, Sujan Dutta, Soumyajit Datta, Ashiqur R. KhudaBukhsh
 
 This paper makes three key contributions. First, via a substantial corpus of
 51,278 interview questions sourced from 888 YouTube videos of mock interviews
@@ -116,7 +116,7 @@ explanations provided by the LLMs on the gender inference task. Finally, we
 present a novel dataset of 51,278 interview questions that can inform future
 social science studies.
 
-摘要：本文提出了三項關鍵貢獻。首先，透過 888 部模擬印度公務員候選人面試的 YouTube 影片中大量 51,278 個面試問題，我們證明了詢問男性和女性候選人的問題本質上存在明顯的性別偏見。其次，我們使用大型語言模型進行的實驗顯示，大型語言模型在性別推論任務中提供的解釋中存在強烈的性別偏見。最後，我們提供了一個包含 51,278 個面試問題的新穎資料集，可供未來的社會科學研究參考。
+摘要：本論文有三大貢獻。首先，我們透過 51,278 個面試問題的大型語料庫，這些問題來自 888 部模擬印度公務員應試者的 YouTube 影片，證明在詢問男性和女性應試者的問題類型上存在明顯的性別偏見。其次，我們使用大型語言模型進行的實驗顯示，大型語言模型在性別推論任務中提供的解釋中存在強烈的性別偏見。最後，我們提供了一個由 51,278 個面試問題組成的全新資料集，可為未來的社會科學研究提供資訊。
 
 ##### **DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**
 2409.12192v1 by Zichen Jeff Cui, Hengkai Pan, Aadhithya Iyer, Siddhant Haldar, Lerrel Pinto
@@ -493,7 +493,7 @@ psychometrics and psychometrics for value-aligned AI.
 摘要：人類的價值觀及其衡量是長久以來的跨學科探討。最近人工智慧的進展激起了這個領域的興趣，大型語言模型 (LLM) 成為價值衡量的工具和主題。這項工作引入了生成式價值心理測量 (GPV)，一種基於 LLM、資料驅動的價值衡量範例，理論上以文字揭示選擇性知覺為基礎。我們從微調 LLM 開始，以進行準確的知覺層級價值衡量，並驗證 LLM 將文字解析為知覺的能力，形成 GPV 管線的核心。將 GPV 應用於人類撰寫的部落格，我們證明了它的穩定性、效度和優於先前的的心理工具。然後，將 GPV 延伸到 LLM 價值衡量，我們透過以下方式推進目前的技術：1) 一種心理測量方法，根據 LLM 可擴充且自由形式的輸出衡量 LLM 價值，實現特定於情境的衡量；2) 衡量範例的比較分析，指出先前方法的反應偏差；3) 嘗試橋接 LLM 價值及其安全性，揭示不同價值系統的預測能力和各種價值對 LLM 安全性的影響。透過跨學科的努力，我們旨在利用人工智慧進行新一代的心理測量，並利用心理測量進行與價值觀一致的人工智慧。
 
 ##### **Skill matching at scale: freelancer-project alignment for efficient multilingual candidate retrieval**
-2409.12097v1 by Warren Jouanneau, Marc Palyart, Emma Jouffroy
+2409.12097v2 by Warren Jouanneau, Marc Palyart, Emma Jouffroy
 
 Finding the perfect match between a job proposal and a set of freelancers is
 not an easy task to perform at scale, especially in multiple languages. In this
@@ -506,7 +506,7 @@ contrastive loss on historical data. Thanks to several experiments, we show
 that this approach effectively captures skill matching similarity and
 facilitates efficient matching, outperforming traditional methods.
 
-摘要：在多種語言的環境中，要找到求職提案與自由工作者之間的完美配對並不容易。在本文中，我們提出了一種新穎的神經檢索器架構，以解決多語言環境中的這個問題。我們的做法利用預先訓練的多語言語言模型對專案說明和自由工作者個人資料進行編碼。後者用作自訂轉換器架構的骨幹，其目的是保留個人資料和專案的結構。此模型使用對比損失在歷史資料上進行訓練。透過多項實驗，我們展示了這個方法有效地捕捉技能配對相似性，並促進有效率的配對，優於傳統方法。
+摘要：在多種語言中，要在大規模情況下找到職務提案和一組自由工作者之間的完美匹配並非易事。在本文中，我們提出了一種新穎的神經檢索器架構，它以多語言設定來解決這個問題。我們的技術利用預先訓練的多語言語言模型來編碼專案描述和自由工作者個人資料。後者用作自訂Transformer架構的骨幹，目的是保留個人資料和專案的結構。此模型使用對比損失針對歷史資料進行訓練。透過多項實驗，我們證明這種方法有效地捕捉到技能匹配相似性，並促進有效匹配，優於傳統方法。
 
 ##### **IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition**
 2409.12092v1 by Rui Liu, Zahiruddin Mahammad, Amisha Bhaskar, Pratap Tokekar
@@ -649,7 +649,7 @@ available at https://anonymous.4open.science/r/TadE.
 输出更合理的响应。定性和示例和定量结果验证了 TaS 的有效性和性能。我们的代码可在 https://anonymous.4open.science/r/TadE 获得。
 
 ##### **Using Large Language Models to Generate Clinical Trial Tables and Figures**
-2409.12046v1 by Yumeng Yang, Peter Krusche, Kristyn Pantoja, Cheng Shi, Ethan Ludmir, Kirk Roberts, Gen Zhu
+2409.12046v2 by Yumeng Yang, Peter Krusche, Kristyn Pantoja, Cheng Shi, Ethan Ludmir, Kirk Roberts, Gen Zhu
 
 Tables, figures, and listings (TFLs) are essential tools for summarizing
 clinical trial data. Creation of TFLs for reporting activities is often a
@@ -663,7 +663,7 @@ conservational agent named Clinical Trial TFL Generation Agent: An app that
 matches user queries to predefined prompts that produce customized programs to
 generate specific predefined TFLs.
 
-摘要：表格、圖表和清單 (TFL) 是總結臨床試驗資料的必要工具。建立 TFL 用於報告活動通常是臨床試驗執行期間例行遇到的耗時任務。本研究探討使用大型語言模型 (LLM) 透過提示工程和少樣本轉移學習自動產生 TFL。使用 ADaM 格式的公開臨床試驗資料，我們的結果顯示 LLM 可以有效率地產生 TFL 並提示說明，展示其在這個領域的潛力。此外，我們開發了一個名為臨床試驗 TFL 產生代理的對話代理：一個將使用者查詢與預先定義的提示相符的應用程式，產生自訂程式以產生特定預先定義的 TFL。
+摘要：表格、圖表和清單 (TFL) 是總結臨床試驗資料的基本工具。建立 TFL 以報告活動通常是臨床試驗執行過程中例行且耗時的任務。本研究探討使用大型語言模型 (LLM) 透過提示工程和少量轉移學習來自動化 TFL 的產生。使用 ADaM 格式的公開臨床試驗資料，我們的結果證明 LLM 可以有效率地產生 TFL 並提供明確的指示，展示其在這個領域的潛力。此外，我們開發了一個名為「臨床試驗 TFL 產生代理」的對話代理：一個應用程式，它可以將使用者查詢與預先定義的提示配對，產生自訂程式以產生特定的預先定義 TFL。
 
 ##### **ASR Benchmarking: Need for a More Representative Conversational Dataset**
 2409.12042v1 by Gaurav Maheshwari, Dmitry Ivanov, Théo Johannet, Kevin El Haddad
@@ -740,7 +740,7 @@ cross-organizational collaboration forward.
 摘要：<paragraph>在機器學習快速演進的領域中，使用來自不同位置和組織的資料集來訓練模型，由於隱私和法律問題而面臨重大挑戰。探索有效協作訓練設定，能夠利用分散和孤立資料集中的寶貴知識，變得越來越重要。本研究探討影響協作訓練方法在程式碼下一個代碼預測中的有效性的關鍵因素，以及生成程式碼的正確性和實用性，展示此類方法的潛力。此外，我們評估不同參與者訓練資料在各種協作訓練設定中的記憶，包括集中式、聯合式和增量式訓練，強調其潛在的資料外洩風險。我們的研究結果表明，程式碼資料集的大小和多樣性是影響協作訓練程式碼模型成功的關鍵因素。我們展示了聯合式學習與集中式訓練相比，達到了競爭力的效能，同時提供更好的資料保護，從生成程式碼中較低的記憶比率可以看出。然而，聯合式學習仍可能從隱藏的訓練資料產生逐字的程式碼片段，潛在地侵犯隱私或版權。我們的研究進一步探討了增量式學習中的有效性和記憶模式，強調了引入個別參與者資料集的順序。我們還將跨組織複製識別為集中式和聯合式學習場景中普遍存在的挑戰。我們的研究結果強調了在推論期間資料外洩的持續風險，即使訓練資料仍然不可見。我們最後提出對從業者和研究人員的建議，以最佳化多來源資料集，推進跨組織合作。</paragraph>
 
 ##### **Representing Positional Information in Generative World Models for Object Manipulation**
-2409.12005v1 by Stefano Ferraro, Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Sai Rajeswar
+2409.12005v2 by Stefano Ferraro, Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Sai Rajeswar
 
 Object manipulation capabilities are essential skills that set apart embodied
 agents engaging with the world, especially in the realm of robotics. The
@@ -761,7 +761,7 @@ of goals through spatial coordinates or a visual goal. Our methods are
 rigorously evaluated across several manipulation environments, showing
 favorable performance compared to current model-based control approaches.
 
-摘要：物體操作能力是讓具身代理與世界互動時區分開來的基本技能，特別是在機器人領域。在這種情況下，預測與物體互動的結果的能力至關重要。雖然基於模型的控制方法已開始用於處理操作任務，但它們在準確操作物體方面面臨挑戰。當我們分析此限制的原因時，我們找出當前世界模型表示關鍵位置資訊的方式中表現不佳的原因，特別是關於物體定位任務的目標規格。我們引入了一種通用方法，讓基於世界模型的代理有效地解決物體定位任務。我們為生成式世界模型提出了兩種這種方法的變形：位置條件 (PCP) 和潛在條件 (LCP) 策略學習。特別是，LCP 使用以物件為中心的潛在表示，明確擷取物件位置資訊以進行目標規格。這自然會導致多模態能力的出現，能夠透過空間坐標或視覺目標指定目標。我們的這些方法在多個操作環境中經過嚴格評估，與當前的基於模型的控制方法相比，表現出良好的效能。
+摘要：物體操作能力是讓具身代理與世界互動時不可或缺的重要技能，特別是在機器人領域。在這種情況下，預測與物體互動的結果至關重要。雖然基於模型的控制方法已開始用於處理操作任務，但在精確操作物體方面仍面臨挑戰。在分析此限制的原因時，我們找出當前世界模型表示關鍵位置資訊的方式中，導致效能不佳的原因，特別是關於物件定位任務的目標規格。我們提出了一種通用方法，讓基於世界模型的代理能有效解決物件定位任務。我們針對生成式世界模型提出了兩種此方法的變體：位置條件 (PCP) 和潛在條件 (LCP) 策略學習。特別是，LCP 使用以物件為中心的潛在表示，明確擷取物件位置資訊以進行目標規格。這自然會導致多模態能力的出現，讓目標能透過空間座標或視覺目標來指定。我們的這些方法在多個操作環境中都經過嚴格評估，與當前的基於模型的控制方法相比，顯示出良好的效能。
 
 ##### **Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer**
 2409.11992v1 by Andrés Cremades, Sergio Hoyas, Ricardo Vinuesa
@@ -1458,25 +1458,25 @@ consistently delivering high-fidelity editing results for real images.
 摘要：在本文中，我們介紹了幾何反向像素插入，簡稱 GEO，這是一種用途廣泛的圖像編輯技術，旨在滿足局部和全局範圍內自訂使用者需求。我們的做法無縫整合文字提示和圖像提示，以產生多樣且精確的編輯結果。值得注意的是，我們的方法無需訓練，並由兩個關鍵貢獻驅動：(i) 一種新穎的幾何累積損失，它增強了 DDIM 反轉以忠實地保留像素空間幾何和佈局，以及 (ii) 一種創新的加強圖像提示技術，它結合了僅文字反轉的像素級別編輯與標準分類器自由反轉的潛在空間幾何指導。利用公開的 Stable Diffusion 模型，我們的方法在各種影像類型和具挑戰性的提示編輯場景中進行廣泛評估，持續提供高保真編輯結果以用於真實影像。
 
 ##### **Human-like Affective Cognition in Foundation Models**
-2409.11733v1 by Kanishk Gandhi, Zoe Lynch, Jan-Philipp Fränken, Kayla Patterson, Sharon Wambu, Tobias Gerstenberg, Desmond C. Ong, Noah D. Goodman
+2409.11733v2 by Kanishk Gandhi, Zoe Lynch, Jan-Philipp Fränken, Kayla Patterson, Sharon Wambu, Tobias Gerstenberg, Desmond C. Ong, Noah D. Goodman
 
 Understanding emotions is fundamental to human interaction and experience.
 Humans easily infer emotions from situations or facial expressions, situations
-from emotions, and do a variety of other \emph{affective cognition}. How adept
-is modern AI at these inferences? We introduce an evaluation framework for
-testing affective cognition in foundation models. Starting from psychological
-theory, we generate 1,280 diverse scenarios exploring relationships between
-appraisals, emotions, expressions, and outcomes. We evaluate the abilities of
-foundation models (GPT-4, Claude-3, Gemini-1.5-Pro) and humans (N = 567) across
-carefully selected conditions. Our results show foundation models tend to agree
-with human intuitions, matching or exceeding interparticipant agreement. In
-some conditions, models are ``superhuman'' -- they better predict modal human
+from emotions, and do a variety of other affective cognition. How adept is
+modern AI at these inferences? We introduce an evaluation framework for testing
+affective cognition in foundation models. Starting from psychological theory,
+we generate 1,280 diverse scenarios exploring relationships between appraisals,
+emotions, expressions, and outcomes. We evaluate the abilities of foundation
+models (GPT-4, Claude-3, Gemini-1.5-Pro) and humans (N = 567) across carefully
+selected conditions. Our results show foundation models tend to agree with
+human intuitions, matching or exceeding interparticipant agreement. In some
+conditions, models are ``superhuman'' -- they better predict modal human
 judgements than the average human. All models benefit from chain-of-thought
 reasoning. This suggests foundation models have acquired a human-like
 understanding of emotions and their influence on beliefs and behavior.
 
-摘要：理解情緒是人類互動和經驗的基礎。
-人類可以輕易從情境或臉部表情推論情緒，從情緒推論情境，並進行各種其他「情感認知」。現代人工智慧在這些推論中有多靈活？我們引進一個評估架構，用於測試基礎模型中的情感認知。從心理學理論出發，我們產生 1,280 個不同的情境，探討評估、情緒、表情和結果之間的關係。我們評估基礎模型（GPT-4、Claude-3、Gemini-1.5-Pro）和人類（N = 567）在經過仔細挑選的條件下的能力。我們的結果顯示，基礎模型傾向於認同人類的直覺，達到或超過參與者之間的共識。在某些條件下，模型是「超人類的」——它們比一般人類更能預測模態人類的判斷。所有模型都能從思考鏈推理中受益。這表示基礎模型已獲得類似人類對情緒及其對信念和行為的影響的理解。
+摘要：理解情緒是人類互動和體驗的基礎。
+人類可以輕易從情境或面部表情推斷情緒，從情緒推斷情境，並進行各種其他情感認知。現代 AI 在這些推論方面有多靈活？我們引入了一個評估架構，用於測試基礎模型中的情感認知。從心理學理論出發，我們生成了 1,280 個不同的場景，探討評估、情緒、表達和結果之間的關係。我們評估了基礎模型（GPT-4、Claude-3、Gemini-1.5-Pro）和人類（N = 567）在經過仔細選擇的條件下的能力。我們的結果表明，基礎模型往往與人類直覺一致，達到或超過參與者之間的一致性。在某些條件下，模型是「超人類的」——它們比普通人更好地預測模態人類判斷。所有模型都受益於思維鏈推理。這表明基礎模型已經獲得了類似人類的情緒理解力，以及它們對信念和行為的影響。
 
 ##### **Enabling Real-Time Conversations with Minimal Training Costs**
 2409.11727v1 by Wang Xu, Shuo Wang, Weilin Zhao, Xu Han, Yukun Yan, Yudi Zhang, Zhe Tao, Zhiyuan Liu, Wanxiang Che

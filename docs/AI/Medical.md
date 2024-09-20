@@ -11,7 +11,7 @@
 |**2024-09-17**|**Two Stage Segmentation of Cervical Tumors using PocketNet**|Awj Twam et.al.|[2409.11456v1](http://arxiv.org/abs/2409.11456v1)|null|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375v1](http://arxiv.org/abs/2409.11375v1)|null|
 |**2024-09-17**|**Clinical Validation of a Real-Time Machine Learning-based System for the Detection of Acute Myeloid Leukemia by Flow Cytometry**|Lauren M. Zuromski et.al.|[2409.11350v1](http://arxiv.org/abs/2409.11350v1)|null|
-|**2024-09-17**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for biomedical image segmentation**|Rong Zhou et.al.|[2409.11299v1](http://arxiv.org/abs/2409.11299v1)|null|
+|**2024-09-17**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**|Rong Zhou et.al.|[2409.11299v2](http://arxiv.org/abs/2409.11299v2)|null|
 |**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295v1](http://arxiv.org/abs/2409.11295v1)|null|
 |**2024-09-17**|**Towards Ethical Personal AI Applications: Practical Considerations for AI Assistants with Long-Term Memory**|Eunhae Lee et.al.|[2409.11192v1](http://arxiv.org/abs/2409.11192v1)|null|
 |**2024-09-17**|**Early Detection of Coronary Heart Disease Using Hybrid Quantum Machine Learning Approach**|Mehroush Banday et.al.|[2409.10932v1](http://arxiv.org/abs/2409.10932v1)|null|
@@ -22,7 +22,7 @@
 |**2024-09-16**|**Machine listening in a neonatal intensive care unit**|Modan Tailleur et.al.|[2409.11439v1](http://arxiv.org/abs/2409.11439v1)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080v1](http://arxiv.org/abs/2409.10080v1)|null|
 |**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064v1](http://arxiv.org/abs/2409.10064v1)|null|
-|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011v1](http://arxiv.org/abs/2409.10011v1)|null|
+|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011v2](http://arxiv.org/abs/2409.10011v2)|[link](https://github.com/responsibleailab/halo)|
 |**2024-09-16**|**Artificial Intelligence-Based Opportunistic Coronary Calcium Screening in the Veterans Affairs National Healthcare System**|Raffi Hagopian et.al.|[2409.09968v1](http://arxiv.org/abs/2409.09968v1)|null|
 |**2024-09-15**|**GP-GPT: Large Language Model for Gene-Phenotype Mapping**|Yanjun Lyu et.al.|[2409.09825v1](http://arxiv.org/abs/2409.09825v1)|null|
 |**2024-09-15**|**Veridical Data Science for Medical Foundation Models**|Ahmed Alaa et.al.|[2409.10580v1](http://arxiv.org/abs/2409.10580v1)|null|
@@ -39,7 +39,7 @@
 |**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201v1](http://arxiv.org/abs/2409.09201v1)|null|
 |**2024-09-13**|**Phikon-v2, A large and public feature extractor for biomarker prediction**|Alexandre Filiot et.al.|[2409.09173v1](http://arxiv.org/abs/2409.09173v1)|null|
 |**2024-09-13**|**Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation**|Cheng Charles Ma et.al.|[2409.09135v1](http://arxiv.org/abs/2409.09135v1)|null|
-|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169v1](http://arxiv.org/abs/2409.11169v1)|null|
+|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169v1](http://arxiv.org/abs/2409.11169v1)|[link](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi)|
 |**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936v1](http://arxiv.org/abs/2409.08936v1)|[link](https://github.com/prabaey/synsum)|
 |**2024-09-13**|**Recent Trends in Modelling the Continuous Time Series using Deep Learning: A Survey**|Mansura Habiba et.al.|[2409.09106v1](http://arxiv.org/abs/2409.09106v1)|null|
 |**2024-09-13**|**A BERT-Based Summarization approach for depression detection**|Hossein Salahshoor Gavalan et.al.|[2409.08483v1](http://arxiv.org/abs/2409.08483v1)|null|
@@ -66,7 +66,7 @@
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592v1](http://arxiv.org/abs/2409.05592v1)|null|
 |**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
 |**2024-09-09**|**Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review**|Javad Hassannataj Joloudari et.al.|[2409.07493v1](http://arxiv.org/abs/2409.07493v1)|null|
-|**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v2](http://arxiv.org/abs/2409.05292v2)|null|
+|**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v3](http://arxiv.org/abs/2409.05292v3)|null|
 |**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280v1](http://arxiv.org/abs/2409.05280v1)|[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)|
 |**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915v1](http://arxiv.org/abs/2409.04915v1)|[link](https://github.com/abdurrahman1828/afos)|
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744v1](http://arxiv.org/abs/2409.04744v1)|null|
@@ -321,8 +321,8 @@ original validation statistics.
 
 摘要：機器學習 (ML) 模型在流式細胞術中具有降低錯誤率、提高可重現性和提升臨床實驗室效率的潛力。雖然已經提出許多用於流式細胞術數據的 ML 模型，但很少有研究描述此類模型的臨床部署。要實現 ML 模型在臨床實驗室中的潛在收益，不僅需要準確的模型，還需要用於自動推理、錯誤檢測、分析和監控以及結構化數據提取的基礎設施。在這裡，我們描述了一個用於檢測急性髓性白血病 (AML) 的 ML 模型，以及支持臨床實施的基礎設施。我們的基礎設施利用雲端的復原力和可擴充性進行模型推理，一個基於 Kubernetes 的工作流程系統提供模型可重現性和資源管理，以及一個從全文報告中提取結構化診斷的系統。我們還描述了我們的模型監控和視覺化平台，這是確保持續模型準確性的基本要素。最後，我們提出了對周轉時間影響的部署後分析，並將生產準確度與原始驗證統計數據進行比較。
 
-##### **TTT-Unet: Enhancing U-Net with Test-Time Training Layers for biomedical image segmentation**
-2409.11299v1 by Rong Zhou, Zhengqing Yuan, Zhiling Yan, Weixiang Sun, Kai Zhang, Yiwei Li, Yanfang Ye, Xiang Li, Lifang He, Lichao Sun
+##### **TTT-Unet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**
+2409.11299v2 by Rong Zhou, Zhengqing Yuan, Zhiling Yan, Weixiang Sun, Kai Zhang, Yiwei Li, Yanfang Ye, Xiang Li, Lifang He, Lichao Sun
 
 Biomedical image segmentation is crucial for accurately diagnosing and
 analyzing various diseases. However, Convolutional Neural Networks (CNNs) and
@@ -340,7 +340,7 @@ The results demonstrate that TTT-Unet consistently outperforms state-of-the-art
 CNN-based and Transformer-based segmentation models across all tasks. The code
 is available at https://github.com/rongzhou7/TTT-Unet.
 
-摘要：生物醫學影像分割對於準確診斷和分析各種疾病至關重要。然而，卷積神經網路（CNN）和 Transformer，作為此任務最常用的架構，由於 CNN 的固有局部性和 Transformer 的計算複雜性，難以有效擷取長程依賴性。為了解決這個限制，我們引入了 TTT-Unet，一個創新的框架，將測試時間訓練（TTT）層整合到傳統的 U-Net 架構中，用於生物醫學影像分割。TTT-Unet 在測試時間動態調整模型參數，增強模型擷取局部和長程特徵的能力。我們在多個醫學影像資料集上評估 TTT-Unet，包括電腦斷層掃描和磁振造影中的 3D 腹腔器官分割、內視鏡影像中的儀器分割以及顯微鏡影像中的細胞分割。結果表明，TTT-Unet 在所有任務中都持續優於最先進的基於 CNN 和基於 Transformer 的分割模型。程式碼可在 https://github.com/rongzhou7/TTT-Unet 取得。
+摘要：生物医学影像分割对于准确诊断和分析各种疾病至关重要。然而，卷积神经网络 (CNN) 和 Transformer，是此任务最常用的架构，由于 CNN 的固有局部性和 Transformer 的计算复杂性，难以有效捕捉远程依赖关系。为了解决这一限制，我们引入了 TTT-Unet，这是一个新颖的框架，它将测试时训练 (TTT) 层集成到用于生物医学影像分割的传统 U-Net 架构中。TTT-Unet 在测试时动态调整模型参数，增强了模型捕捉局部和远程特征的能力。我们在多个医学影像数据集上评估了 TTT-Unet，包括 CT 和 MR 影像中的 3D 腹部器官分割、内窥镜影像中的仪器分割以及显微镜影像中的细胞分割。结果表明，TTT-Unet 在所有任务中始终优于最先进的基于 CNN 和基于 Transformer 的分割模型。代码可在 https://github.com/rongzhou7/TTT-Unet 获得。
 
 ##### **EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**
 2409.11295v1 by Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun
@@ -605,7 +605,7 @@ stigma-free mental health support.
 無污名化的精神健康支持。
 
 ##### **HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**
-2409.10011v1 by Sumera Anjum, Hanzhi Zhang, Wenjun Zhou, Eun Jin Paek, Xiaopeng Zhao, Yunhe Feng
+2409.10011v2 by Sumera Anjum, Hanzhi Zhang, Wenjun Zhou, Eun Jin Paek, Xiaopeng Zhao, Yunhe Feng
 
 Large language models (LLMs) have significantly advanced natural language
 processing tasks, yet they are susceptible to generating inaccurate or
@@ -626,7 +626,7 @@ hallucinations in medical QA systems, ultimately improving clinical
 decision-making and patient care. The open-source HALO is available at:
 https://github.com/ResponsibleAILab/HALO.
 
-摘要：大型語言模型 (LLM) 已大幅提升自然語言處理任務，但它們容易產生不準確或不可靠的回應，這現象稱為幻覺。在健康和醫學等關鍵領域，這些幻覺可能會造成嚴重的風險。本論文介紹 HALO，一種新穎的架構，旨在透過專注於偵測和減輕幻覺，來提升醫療問答 (QA) 系統的準確性和可靠性。我們的做法是使用 LLM 產生給定查詢的多個變體，並從外部開放知識庫中擷取相關資訊，以豐富內容。我們利用最大邊際相關性評分來優先處理擷取的內容，然後提供給 LLM 以產生答案，從而降低幻覺的風險。LangChain 的整合進一步簡化了這個流程，導致開放原始碼和商業 LLM，例如 Llama-3.1（從 44% 到 65%）和 ChatGPT（從 56% 到 70%）的準確性顯著且穩健地提升。這個架構強調了在醫療問答系統中解決幻覺的重要性，最終改善了臨床決策制定和患者照護。開放原始碼 HALO 可在以下網址取得：https://github.com/ResponsibleAILab/HALO。
+摘要：大型語言模型 (LLM) 已大幅提升自然語言處理任務，但它們容易產生不準確或不可靠的回應，這種現象稱為幻覺。在健康和醫學等關鍵領域，這些幻覺可能會造成嚴重的風險。這篇論文介紹了 HALO，一種新穎的架構，旨在透過專注於偵測和減輕幻覺，來提升醫療問答 (QA) 系統的準確性和可靠性。我們的做法是使用 LLM 產生給定查詢的各種變體，並從外部開放知識庫中擷取相關資訊來豐富內容。我們利用最大邊際相關性評分來優先處理擷取的內容，然後提供給 LLM 以產生答案，從而降低幻覺的風險。LangChain 的整合進一步簡化了這個過程，導致開放原始碼和商業 LLM 的準確性顯著且穩健地提升，例如 Llama-3.1（從 44% 提升到 65%）和 ChatGPT（從 56% 提升到 70%）。這個架構強調了在醫療問答系統中處理幻覺至關重要，最終改善臨床決策制定和患者照護。開放原始碼 HALO 可在以下網址取得：https://github.com/ResponsibleAILab/HALO。
 
 ##### **Artificial Intelligence-Based Opportunistic Coronary Calcium Screening in the Veterans Affairs National Healthcare System**
 2409.09968v1 by Raffi Hagopian, Timothy Strebel, Simon Bernatz, Gregory A Myers, Erik Offerman, Eric Zuniga, Cy Y Kim, Angie T Ng, James A Iwaz, Sunny P Singh, Evan P Carey, Michael J Kim, R Spencer Schaefer, Jeannie Yu, Amilcare Gentili, Hugo JWL Aerts
@@ -1758,7 +1758,7 @@ is underscored.
 摘要：複雜情緒辨識系統 (CERS) 透過檢驗表達的基本情緒組合、它們的相互連結，以及動態變化來解碼複雜的情緒狀態。透過使用進階演算法，CERS 提供了對情緒動態的深入見解，促進細緻的理解和客製化的回應。在機器中達成這種程度的情緒辨識需要知識提煉和理解類似於人類認知的新概念。發展用於辨別複雜情緒的人工智慧系統對情感運算來說是一個重大的挑戰，並具有重要的影響。此外，由於捕捉微妙情緒所涉及的複雜性，取得 CERS 的大量資料集被證明是一項艱鉅的任務，因此需要採用特殊的方法來收集和處理資料。納入生理訊號，例如心電圖 (ECG) 和腦電圖 (EEG)，可以透過提供對使用者情緒狀態的寶貴見解、提升資料集的品質以及強化系統的可靠性，來顯著增強 CERS。本研究進行了一項全面的文獻探討，以評估機器學習、深度學習和元學習方法在利用腦電圖、心電圖訊號和面部表情資料集進行基本和複雜情緒辨識方面的效能。所選的研究論文提供了關於 CERS 的潛在應用、臨床影響和結果的觀點，目的是促進它們被接受並整合到臨床決策制定過程中。本研究突出了理解 CERS 的研究差距和挑戰，鼓勵相關研究和組織進一步調查。最後，強調了元學習方法在改善 CERS 效能和指導未來研究工作中的重要性。
 
 ##### **Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**
-2409.05292v2 by Nirmalya Thakur
+2409.05292v3 by Nirmalya Thakur
 
 The world is currently experiencing an outbreak of mpox, which has been
 declared a Public Health Emergency of International Concern by WHO. No prior
@@ -1786,7 +1786,7 @@ did not contain hate and the remaining 4.25% of the posts contained hate.
 Finally, 72.05% of the posts did not indicate any anxiety/stress, and the
 remaining 27.95% of the posts represented some form of anxiety/stress.
 
-摘要：世界目前正在经历猴痘疫情，世界卫生组织已宣布猴痘疫情为国际关注的突发公共卫生事件。此前没有与社交媒体挖掘相关的研究集中于开发有关猴痘疫情的 Instagram 帖子的数据集。本文介绍的研究旨在解决这一研究空白，并对该领域做出两项科学贡献。首先，它提供了 60,127 条有关猴痘的 Instagram 帖子的多语言数据集，这些帖子发布于 2022 年 7 月 23 日至 2024 年 9 月 5 日之间。该数据集可在 https://dx.doi.org/10.21227/7fvc-y093 处获得，其中包含 52 种语言的有关猴痘的 Instagram 帖子。对于其中每篇帖子，帖子 ID、帖子描述、发布日期、语言和帖子的翻译版本（使用 Google 翻译 API 翻译成英文）作为单独的属性显示在数据集中。在开发此数据集后，进行了情感分析、仇恨言论检测以及焦虑或压力检测。此过程包括将每篇帖子分类为 (i) 情感类别之一，即恐惧、惊讶、快乐、悲伤、愤怒、厌恶或中立，(ii) 仇恨或非仇恨，以及 (iii) 检测到焦虑/压力或未检测到焦虑/压力。这些结果作为单独的属性显示在数据集中。其次，本文介绍了执行情感分析、仇恨言论分析和焦虑或压力分析的结果。观察到情感类别的变化——恐惧、惊讶、快乐、悲伤、愤怒、厌恶和中立分别为 27.95%、2.57%、8.69%、5.94%、2.69%、1.53% 和 50.64%。在仇恨言论检测方面，95.75% 的帖子不包含仇恨，其余 4.25% 的帖子包含仇恨。最后，72.05% 的帖子没有表现出任何焦虑/压力，其余 27.95% 的帖子代表某种形式的焦虑/压力。
+摘要：<paragraph>目前，全球正經歷猴痘疫情，世界衛生組織已宣布為國際關注的公共衛生緊急事件。此前，沒有與社群媒體探勘相關的研究專注於開發關於猴痘疫情的 Instagram 貼文資料集。本論文提出的研究旨在解決這個研究缺口，並對此領域做出兩項科學貢獻。首先，它提供了 60,127 則關於猴痘的 Instagram 多語言貼文資料集，這些貼文發布於 2022 年 7 月 23 日至 2024 年 9 月 5 日之間。該資料集可於 https://dx.doi.org/10.21227/7fvc-y093 取得，其中包含 52 種語言的關於猴痘的 Instagram 貼文。對於這些貼文中的每則貼文，貼文 ID、貼文說明、發布日期、語言和貼文的翻譯版本（使用 Google 翻譯 API 翻譯成英文）都以資料集中的獨立屬性呈現。在開發此資料集後，執行了情緒分析、仇恨言論偵測和焦慮或壓力偵測。此程序包括將每則貼文分類為 (i) 情緒類別之一，例如恐懼、驚訝、喜悅、悲傷、憤怒、厭惡或中立，(ii) 仇恨或非仇恨，以及 (iii) 偵測到焦慮/壓力或未偵測到焦慮/壓力。這些結果以資料集中的獨立屬性呈現。其次，本論文提供了執行情緒分析、仇恨言論分析和焦慮或壓力分析的結果。觀察到情緒類別（恐懼、驚訝、喜悅、悲傷、憤怒、厭惡和中立）的變化分別為 27.95%、2.57%、8.69%、5.94%、2.69%、1.53% 和 50.64%。在仇恨言論偵測方面，95.75% 的貼文不包含仇恨，其餘 4.25% 的貼文包含仇恨。最後，72.05% 的貼文沒有顯示任何焦慮/壓力，其餘 27.95% 的貼文則代表某種形式的焦慮/壓力。</paragraph>
 
 ##### **RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**
 2409.05280v1 by Quoc-Bao Nguyen-Le, Tuan-Hy Le, Anh-Triet Do, Quoc-Huy Trinh

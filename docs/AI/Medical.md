@@ -85,7 +85,7 @@
 |**2024-09-05**|**Addressing the Gaps in Early Dementia Detection: A Path Towards Enhanced Diagnostic Models through Machine Learning**|Juan A. Berrios Moya et.al.|[2409.03147v1](http://arxiv.org/abs/2409.03147v1)|null|
 |**2024-09-04**|**MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation**|Shehan Perera et.al.|[2409.03062v1](http://arxiv.org/abs/2409.03062v1)|[link](https://github.com/osupcvlab/mobileunetr)|
 |**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883v1](http://arxiv.org/abs/2409.02883v1)|null|
-|**2024-09-04**|**Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon**|Ramon Tavares et.al.|[2409.02681v2](http://arxiv.org/abs/2409.02681v2)|null|
+|**2024-09-04**|**Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon**|Ramon Tavares et.al.|[2409.02681v3](http://arxiv.org/abs/2409.02681v3)|null|
 |**2024-09-04**|**SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**|Wenwu Guo et.al.|[2409.02598v1](http://arxiv.org/abs/2409.02598v1)|[link](https://github.com/wenwucode/surgtrack)|
 |**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530v1](http://arxiv.org/abs/2409.02530v1)|null|
 |**2024-09-03**|**Coaching a Robotic Sonographer: Learning Robotic Ultrasound with Sparse Expert's Feedback**|Deepak Raina et.al.|[2409.02337v1](http://arxiv.org/abs/2409.02337v1)|null|
@@ -2254,7 +2254,7 @@ cost-effective tool for early MCI screening.
 摘要：雷氏複雜圖形測驗 (RCFT) 等繪畫測驗廣泛用於評估視覺空間技能和記憶力等認知功能，使其成為檢測輕度認知障礙 (MCI) 的寶貴工具。儘管它們很有用，但基於這些測驗的現有預測模型通常會受到樣本量小和缺乏外部驗證等限制，這會損害其可靠性。我們開發了一個多串流深度學習框架，它整合了兩個不同的處理串流：一個基於多頭自注意力，使用原始 RCFT 影像的空間串流，以及一個採用先前開發的自動評分系統的評分串流。我們的模型在韓國群組中 1,740 名受試者的資料上進行訓練，並在來自韓國的 222 名受試者的外部醫院資料集上進行驗證。所提出的多串流模型在外部驗證中表現出優於基準模型的效能 (AUC = 0.872，準確率 = 0.781)。空間和評分串流的整合使模型能夠從原始影像擷取複雜的視覺細節，同時也能納入結構化的評分資料，這共同增強了它檢測細微認知障礙的能力。這種雙重方法不僅提高了預測準確性，也增加了模型的穩健性，使其在不同的臨床環境中更可靠。我們的模型對臨床環境有實際的意義，它可以在其中作為早期 MCI 篩檢的具成本效益的工具。
 
 ##### **Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon**
-2409.02681v2 by Ramon Tavares
+2409.02681v3 by Ramon Tavares, Ricardo Olinda
 
 This study presents a comprehensive methodology for modeling and forecasting
 the historical time series of active fire spots detected by the AQUA\_M-T
@@ -2278,7 +2278,7 @@ forecasting challenges, opening new opportunities for research and development
 in machine learning and prediction of natural phenomena.
   Keywords: Time Series Forecasting; Recurrent Neural Networks; Deep Learning.
 
-摘要：這項研究提出了一種綜合方法，用於建模和預測 AQUA\_M-T 衛星在巴西亞馬遜地區偵測到的歷史活躍火點時間序列。此方法採用混合遞迴神經網路 (RNN) 模型，結合長短期記憶 (LSTM) 和門控遞迴單元 (GRU) 架構，來預測每日偵測到的活躍火點的每月累積值。資料分析顯示出隨著時間推移的一致季節性，每年的最大值和最小值傾向於在每年相同的時期重複出現。主要目標是驗證預測是否透過機器學習技術捕捉到這種固有的季節性。此方法涉及仔細的資料準備、模型組態和使用兩個種子的交叉驗證進行訓練，確保資料對於兩個種子的測試和驗證集都能很好地概化。結果表明，LSTM 和 GRU 的組合模型提供了極佳的預測效能，證明其在捕捉複雜的時間模式和對觀測到的時間序列進行建模方面非常有效。這項研究顯著地促成了深度學習技術在環境監測中的應用，特別是在預測活躍火點方面。所提出的方法突顯了適應其他時間序列預測挑戰的潛力，為機器學習和自然現象預測方面的研究和開發開啟了新的機會。
+摘要：本研究提出了一個全面的方法，用於建模和預測 AQUA_M-T 衛星在巴西亞馬遜地區偵測到的活躍火點歷史時間序列。此方法採用混合遞迴神經網路 (RNN) 模型，結合長短期記憶 (LSTM) 和門控遞迴單元 (GRU) 架構，以預測每日偵測到的活躍火點的每月累計值。資料分析顯示，隨著時間推移，季節性保持一致，每年的最大值和最小值傾向於在每年相同的時期重複出現。主要目標是驗證預測是否透過機器學習技術捕捉到這種固有的季節性。此方法涉及仔細的資料準備、模型組態，以及使用兩個種子的交叉驗證進行訓練，確保資料對兩個種子的測試集和驗證集都具有良好的概化性。結果表明，LSTM 和 GRU 混合模型提供了極佳的預測效能，證明其在捕捉複雜的時間模式和建模觀察到的時間序列方面非常有效。本研究為深度學習技術在環境監控中的應用做出了重大貢獻，特別是在預測活躍火點方面。所提出的方法突顯了適應其他時間序列預測挑戰的潛力，為機器學習和自然現象預測領域的研究和開發開啟了新的機會。
 關鍵字：時間序列預測；遞迴神經網路；深度學習。
 
 ##### **SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments**

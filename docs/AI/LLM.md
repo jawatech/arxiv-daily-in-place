@@ -2,7 +2,7 @@
 ### LLM
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v2](http://arxiv.org/abs/2409.12194v2)|null|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v3](http://arxiv.org/abs/2409.12194v3)|null|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|[link](https://github.com/qwenlm/qwen2-vl)|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186v1](http://arxiv.org/abs/2409.12186v1)|[link](https://github.com/qwenlm/qwen2.5-coder)|
@@ -51,7 +51,7 @@
 |**2024-09-18**|**The Factuality of Large Language Models in the Legal Domain**|Rajaa El Hamdani et.al.|[2409.11798v1](http://arxiv.org/abs/2409.11798v1)|[link](https://github.com/rajjaa/lexfact)|
 |**2024-09-18**|**Efficient Low-Resolution Face Recognition via Bridge Distillation**|Shiming Ge et.al.|[2409.11786v1](http://arxiv.org/abs/2409.11786v1)|null|
 |**2024-09-18**|**Distilling Channels for Efficient Deep Tracking**|Shiming Ge et.al.|[2409.11785v1](http://arxiv.org/abs/2409.11785v1)|null|
-|**2024-09-18**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783v1](http://arxiv.org/abs/2409.11783v1)|null|
+|**2024-09-18**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783v2](http://arxiv.org/abs/2409.11783v2)|[link](https://github.com/stardust-coder/japanese-lm-med-harness)|
 |**2024-09-18**|**Smart Data-Driven GRU Predictor for SnO$_2$ Thin films Characteristics**|Faiza Bouamra et.al.|[2409.11782v1](http://arxiv.org/abs/2409.11782v1)|null|
 |**2024-09-18**|**Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**|Zhe Yu et.al.|[2409.11780v1](http://arxiv.org/abs/2409.11780v1)|null|
 |**2024-09-18**|**Knowledge Adaptation Network for Few-Shot Class-Incremental Learning**|Ye Wang et.al.|[2409.11770v1](http://arxiv.org/abs/2409.11770v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Gender Representation and Bias in Indian Civil Service Mock Interviews**
-2409.12194v2 by Somonnoy Banerjee, Sujan Dutta, Soumyajit Datta, Ashiqur R. KhudaBukhsh
+2409.12194v3 by Somonnoy Banerjee, Sujan Dutta, Soumyajit Datta, Ashiqur R. KhudaBukhsh
 
 This paper makes three key contributions. First, via a substantial corpus of
 51,278 interview questions sourced from 888 YouTube videos of mock interviews
@@ -116,7 +116,7 @@ explanations provided by the LLMs on the gender inference task. Finally, we
 present a novel dataset of 51,278 interview questions that can inform future
 social science studies.
 
-摘要：本論文有三大貢獻。首先，我們透過 51,278 個面試問題的大型語料庫，這些問題來自 888 部模擬印度公務員應試者的 YouTube 影片，證明在詢問男性和女性應試者的問題類型上存在明顯的性別偏見。其次，我們使用大型語言模型進行的實驗顯示，大型語言模型在性別推論任務中提供的解釋中存在強烈的性別偏見。最後，我們提供了一個由 51,278 個面試問題組成的全新資料集，可為未來的社會科學研究提供資訊。
+摘要：本論文做出三項關鍵貢獻。首先，透過大量語料庫，包含 51,278 個面試問題，這些問題來自 888 個印度公務員面試的 YouTube 模擬影片，我們證明了在詢問男性和女性面試者的問題類型中存在明顯的性別偏見。其次，我們對大型語言模型進行的實驗顯示，在 LLM 對性別推論任務提供的解釋中存在強烈的性別偏見。最後，我們提供了一個新的資料集，包含 51,278 個面試問題，這些問題可以為未來的社會科學研究提供資訊。
 
 ##### **DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**
 2409.12192v1 by Zichen Jeff Cui, Hengkai Pan, Aadhithya Iyer, Siddhant Haldar, Lerrel Pinto
@@ -1226,7 +1226,7 @@ effectiveness and generalizability of our framework.
 摘要：深度追踪器在视觉追踪中已获证实成功。通常，这些追踪器使用经过最佳预训练的深度网络来表示所有不同的对象，并从某些固定层中提取多通道特征。所采用的深度网络通常经过训练，从用于对象分类的大量数据中提取丰富的知识，因此它们能够很好地表示通用对象。然而，这些网络过于复杂，无法表示特定的移动对象，从而导致泛化能力差以及高计算和内存成本。本文提出了一种新颖且通用的框架，称为通道蒸馏，以促进深度追踪器。为了验证通道蒸馏的有效性，我们以判别相关滤波器 (DCF) 和 ECO 为例。我们证明了一个集成公式可以将特征压缩、响应图生成和模型更新转化为一个统一的能量最小化问题，以自适应地选择信息丰富的特征通道，从而提高对移动对象的追踪效率。通道蒸馏可以准确地提取良好的通道，减轻噪声通道的影响，并通常减少通道的数量，以及自适应地推广到不同的通道和网络。由此产生的深度追踪器准确、快速且内存需求低。在流行基准上的广泛实验评估清楚地证明了我们框架的有效性和通用性。
 
 ##### **Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**
-2409.11783v1 by Issey Sukeda
+2409.11783v2 by Issey Sukeda
 
 The recent success of large language models (LLMs) and the scaling law has
 led to a widespread adoption of larger models. Particularly in the healthcare
@@ -1244,9 +1244,9 @@ both language, supporting the effect of cross-lingual knowledge transfer. We
 hope that this study will alleviate financial challenges, serving as a stepping
 stone for clinical institutions to practically utilize LLMs locally. Our
 evaluation code is available at
-https://huggingface.co/stardust-coder/jmedllm-7b-v1.
+https://github.com/stardust-coder/japanese-lm-med-harness.
 
-摘要：大型語言模型 (LLM) 和規模化定律的近期成功已導致廣泛採用較大的模型。特別是在醫療保健產業中，由於安全問題，對本地運作的 LLM 需求日益增加。然而，大多數高品質的開源 LLM 的參數規模為 70B，對使用者的 GPU 準備和操作造成重大的財務負擔。為了克服這些問題，我們根據最近的 7B 模型提出了一種醫療適應性，可以在低運算資源中運作。我們比較了兩種語言（日語和英語）的醫療問答基準測試的效能，證明其分數達到與目前現有的醫療 LLM 相同或超越後者的水準，而後者的規模是其十倍。我們發現，在日語醫療資料集上微調以英語為中心的基礎模型，可以提升兩種語言的分數，這支持了跨語言知識轉移的效果。我們希望這項研究可以減輕財務挑戰，作為臨床機構在當地實際使用 LLM 的踏腳石。我們的評估程式碼可在 https://huggingface.co/stardust-coder/jmedllm-7b-v1 取得。
+摘要：近期大型語言模型（LLM）和規模定律的成功，導致了較大型模型的廣泛採用。特別是在醫療保健產業，由於安全性考量，對在地運作的 LLM 需求日益增加。然而，大多數高品質的開源 LLM 擁有 70B 的參數規模，對使用者的 GPU 準備和操作造成顯著的財務負擔。為了克服這些問題，我們提出了基於近期 7B 模型的醫療適應，這使得在低運算資源中進行操作成為可能。我們比較了兩種語言（日文和英文）的醫療問答基準的效能，證明其分數達到或超越目前現有醫療 LLM 的十倍。我們發現針對日文醫療資料集微調以英文為中心的基礎模型，改善了兩種語言的分數，支持跨語言知識轉移的效果。我們希望這項研究將減輕財務挑戰，作為臨床機構在當地實際使用 LLM 的踏腳石。我們的評估代碼可在 https://github.com/stardust-coder/japanese-lm-med-harness 取得。
 
 ##### **Smart Data-Driven GRU Predictor for SnO$_2$ Thin films Characteristics**
 2409.11782v1 by Faiza Bouamra, Mohamed Sayah, Labib Sadek Terrissa, Noureddine Zerhouni

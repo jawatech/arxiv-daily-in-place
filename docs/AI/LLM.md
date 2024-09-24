@@ -7,15 +7,15 @@
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|[link](https://github.com/qwenlm/qwen2-vl)|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186v1](http://arxiv.org/abs/2409.12186v1)|[link](https://github.com/qwenlm/qwen2.5-coder)|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183v1](http://arxiv.org/abs/2409.12183v1)|null|
-|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181v1](http://arxiv.org/abs/2409.12181v1)|[link](https://github.com/leooyii/lceg)|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181v2](http://arxiv.org/abs/2409.12181v2)|[link](https://github.com/leooyii/lceg)|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180v1](http://arxiv.org/abs/2409.12180v1)|null|
 |**2024-09-18**|**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**|Hideo Kobayashi et.al.|[2409.12172v1](http://arxiv.org/abs/2409.12172v1)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150v1](http://arxiv.org/abs/2409.12150v1)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147v1](http://arxiv.org/abs/2409.12147v1)|[link](https://github.com/dinobby/magicore)|
-|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v1](http://arxiv.org/abs/2409.12139v1)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v2](http://arxiv.org/abs/2409.12139v2)|null|
 |**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136v1](http://arxiv.org/abs/2409.12136v1)|null|
 |**2024-09-18**|**BERT-VBD: Vietnamese Multi-Document Summarization Framework**|Tuan-Cuong Vuong et.al.|[2409.12134v1](http://arxiv.org/abs/2409.12134v1)|null|
-|**2024-09-18**|**Linguini: A benchmark for language-agnostic linguistic reasoning**|Eduardo Sánchez et.al.|[2409.12126v1](http://arxiv.org/abs/2409.12126v1)|null|
+|**2024-09-18**|**Linguini: A benchmark for language-agnostic linguistic reasoning**|Eduardo Sánchez et.al.|[2409.12126v1](http://arxiv.org/abs/2409.12126v1)|[link](https://github.com/facebookresearch/linguini)|
 |**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122v1](http://arxiv.org/abs/2409.12122v1)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117v1](http://arxiv.org/abs/2409.12117v1)|null|
 |**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106v1](http://arxiv.org/abs/2409.12106v1)|[link](https://github.com/value4ai/gpv)|
@@ -27,7 +27,7 @@
 |**2024-09-18**|**PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models**|Andrianos Michail et.al.|[2409.12060v1](http://arxiv.org/abs/2409.12060v1)|null|
 |**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059v1](http://arxiv.org/abs/2409.12059v1)|null|
 |**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046v2](http://arxiv.org/abs/2409.12046v2)|null|
-|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042v1](http://arxiv.org/abs/2409.12042v1)|null|
+|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042v1](http://arxiv.org/abs/2409.12042v1)|[link](https://github.com/diabolocom-research/conversationaldataset)|
 |**2024-09-18**|**Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes**|Marco Montagna et.al.|[2409.12033v1](http://arxiv.org/abs/2409.12033v1)|null|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020v1](http://arxiv.org/abs/2409.12020v1)|null|
 |**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005v2](http://arxiv.org/abs/2409.12005v2)|null|
@@ -67,7 +67,7 @@
 |**2024-09-18**|**From Lists to Emojis: How Format Bias Affects Model Alignment**|Xuanchang Zhang et.al.|[2409.11704v1](http://arxiv.org/abs/2409.11704v1)|null|
 |**2024-09-18**|**Harnessing LLMs for API Interactions: A Framework for Classification and Synthetic Data Generation**|Chunliang Tao et.al.|[2409.11703v1](http://arxiv.org/abs/2409.11703v1)|null|
 |**2024-09-18**|**FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement**|Liam Hebert et.al.|[2409.11699v1](http://arxiv.org/abs/2409.11699v1)|null|
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|[link](https://github.com/liangshuowen/posediffusion)|
 |**2024-09-18**|**Detecting Underdiagnosed Medical Conditions with Deep Learning-Based Opportunistic CT Imaging**|Asad Aali et.al.|[2409.11686v1](http://arxiv.org/abs/2409.11686v1)|null|
 |**2024-09-18**|**Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network**|Jiale Wang et.al.|[2409.11677v1](http://arxiv.org/abs/2409.11677v1)|null|
 |**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[2409.11676v1](http://arxiv.org/abs/2409.11676v1)|null|
@@ -212,7 +212,7 @@ across the whole range of LLM applications.
 摘要：透過提示進行的思考鏈 (CoT) 是從大型語言模型 (LLM) 引發推理能力的實際方法。但對於哪些類型的任務，這種額外的「思考」真的有幫助？為了分析這一點，我們進行了一項定量元分析，涵蓋了 100 多篇使用 CoT 的論文，並對 14 個模型中的 20 個資料集執行了我們自己的評估。我們的結果表明，CoT 主要在涉及數學或邏輯的任務上提供強大的效能優勢，而在其他類型的任務上則獲得的收益小得多。在 MMLU 上，直接產生答案而沒有 CoT 會導致與 CoT 幾乎相同的準確度，除非問題或模型的回應包含等號，表示符號運算和推理。根據這一發現，我們透過分離規劃和執行，並與工具增強的 LLM 進行比較，分析了 CoT 在這些問題上的行為。CoT 的許多收益來自於改進符號執行，但它相對於使用符號求解器的執行效果較差。我們的結果表明，CoT 可以有選擇地應用，在節省推理成本的同時維持效能。此外，它們表明需要超越基於提示的 CoT，轉向新的範例，以更好地利用 LLM 應用程式的整個範圍內的中間運算。
 
 ##### **A Controlled Study on Long Context Extension and Generalization in LLMs**
-2409.12181v1 by Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush
+2409.12181v2 by Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush
 
 Broad textual understanding and in-context learning require language models
 that utilize full document contexts. Due to the implementation challenges
@@ -233,7 +233,7 @@ models, and checkpoints will be made available open-source, promoting
 transparency and facilitating further research in this critical area of AI
 development.
 
-摘要：廣泛的文本理解和情境學習需要語言模型，利用完整的文檔內容。由於直接訓練長文本模型相關的實作挑戰，許多方法已被提議用於擴充模型以處理長文本。然而，由於資料和模型類型的差異，比較這些方法一直很具有挑戰性，導致不確定如何評估長文本效能，以及它是否與標準評估不同。我們實作了一個具有標準化評估的擴充方法受控協定，利用一致的基本模型和擴充資料。我們的研究產生了幾項對長文本行為的見解。首先，我們重申困惑度作為一般用途效能指標在更長文本任務中扮演關鍵角色。其次，我們發現目前的近似注意力方法在長文本任務中系統性地表現不佳。最後，我們確認基於微調的精確方法通常在其擴充範圍內有效，而外推仍然具有挑戰性。所有程式碼庫、模型和檢查點都將開放原始碼，促進透明度並促進此 AI 開發關鍵領域的進一步研究。
+摘要：廣泛的文字理解和情境學習需要語言模型，利用完整的文檔內容。由於與直接訓練長內容模型相關的實作挑戰，已經提出許多方法來擴充模型以處理長內容。然而，由於資料和模型類別的差異，比較這些方法一直具有挑戰性，導致在如何評估長內容效能以及它是否與標準評估不同的問題上存在不確定性。我們實作了一個受控協定，用於擴充方法，並採用標準化評估，利用一致的基本模型和擴充資料。我們的研究對長內容行為產生了多項見解。首先，我們重申困惑度作為通用效能指標在更長內容任務中仍然至關重要的角色。其次，我們發現目前的近似注意力方法在長內容任務中系統性地表現不佳。最後，我們確認基於精確微調的方法通常在它們的擴充範圍內有效，而外推仍然具有挑戰性。所有程式碼庫、模型和檢查點都將開放原始碼，促進透明度並促進在 AI 開發這個關鍵領域的進一步研究。
 
 ##### **Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**
 2409.12180v1 by Arslan Chaudhry, Sridhar Thiagarajan, Dilan Gorur
@@ -337,7 +337,7 @@ communication.
 摘要：大型語言模型 (LLM) 的推理能力可以使用測試時間聚合策略來改善，即生成多個樣本並在生成的樣本中進行投票。雖然這些策略可以提升效能，但它們通常會達到飽和點。精煉提供了一種替代方案，藉由使用 LLM 生成的回饋來改善解決方案的品質。然而，精煉引入了 3 個主要挑戰：(1) 過度精煉：均勻地精煉所有實例可能會過度修正並降低整體效能。(2) 無法定位和解決錯誤：LLM 自我修正的能力有限，且難以辨識和修正自己的錯誤。(3) 精煉不足：決定需要多少次精煉並非易事，而且太快停止可能會讓錯誤未獲解決。為了解決這些問題，我們提出了 MAgICoRe，它透過將問題難度分類為容易或困難，使用粗略聚合解決容易的問題，並使用細緻且反覆的多重代理精煉解決困難的問題，從而避免過度精煉。為了改善錯誤定位，我們納入了外部逐步獎勵模型 (RM) 分數。此外，為了確保精煉有效，我們採用一個包含三個代理的多重代理迴圈：求解器、審查者（根據逐步 RM 分數產生目標回饋），以及精煉器（納入回饋）。為了確保精煉充分，我們重新評估更新的解決方案，反覆啟動進一步的精煉回合。我們在 Llama-3-8B 和 GPT-3.5 上評估 MAgICoRe，並展示了它在 5 個數學資料集中的有效性。即使只進行一次 MAgICoRe 反覆運算，也能比自我一致性高出 3.4%，比最佳 k 高出 3.2%，比自我精煉高出 4.0%，同時使用的樣本不到一半。與使用基準進行反覆精煉不同，MAgICoRe 會隨著反覆運算次數的增加而持續改善。最後，我們的消融實驗突出了 MAgICoRe 的 RM 和多重代理溝通的重要性。
 
 ##### **Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**
-2409.12139v1 by EverestAI, :, Sijin Chen, Yuan Feng, Laipeng He, Tianwei He, Wendi He, Yanni Hu, Bin Lin, Yiting Lin, Pengfei Tan, Chengwei Tian, Chen Wang, Zhicheng Wang, Ruoye Xie, Jingjing Yin, Jianhao Ye, Jixun Yao, Quanlei Yan, Yuguang Yang
+2409.12139v2 by EverestAI, :, Sijing Chen, Yuan Feng, Laipeng He, Tianwei He, Wendi He, Yanni Hu, Bin Lin, Yiting Lin, Yu Pan, Pengfei Tan, Chengwei Tian, Chen Wang, Zhicheng Wang, Ruoye Xie, Jixun Yao, Quanlei Yan, Yuguang Yang, Jianhao Ye, Jingjing Yin, Yanzhen Yu, Huimin Zhang, Xiang Zhang, Guangcheng Zhao, Hongbin Zhou, Pengpeng Zou
 
 With the advent of the big data and large language model era, zero-shot
 personalized rapid customization has emerged as a significant trend. In this
@@ -357,9 +357,10 @@ highly decoupled and advanced timbre and prosody modeling approaches, which
 enables individuals to customize speech production with their preferred timbre
 and prosody in a precise and controllable manner. Extensive experiments
 validate the effectiveness and robustness of our Takin AudioLLM series models.
-For detailed demos, please refer to https://takinaudiollm.github.io.
+For detailed demos, please refer to
+https://everest-ai.github.io/takinaudiollm/.
 
-摘要：隨著大數據和大語言模型時代的到來，零次學習個人化快速客製化已成為一股重要的趨勢。在此報告中，我們介紹 Takin AudioLLM，這是一系列專門為有聲書製作設計的技術和模型，主要包括 Takin TTS、Takin VC 和 Takin Morphing。這些模型具備零次學習語音產生功能，可產生近乎與真人語音無法區別的高品質語音，並協助個人根據自己的需求客製化語音內容。具體來說，我們首先介紹 Takin TTS，這是一種神經編解碼器語言模型，建立在增強的神經語音編解碼器和多任務訓練架構之上，能夠以零次學習的方式產生高保真自然語音。對於 Takin VC，我們提倡一種有效內容和音色聯合建模方法，以改善說話者的相似性，同時提倡基於條件流匹配的解碼器，以進一步增強其自然性和表現力。最後，我們提出 Takin Morphing 系統，採用高度解耦且先進的音色和韻律建模方法，使個人能夠以精確且可控的方式客製化語音製作，並採用他們偏好的音色和韻律。廣泛的實驗驗證了我們的 Takin AudioLLM 系列模型的有效性和穩健性。有關詳細示範，請參閱 https://takinaudiollm.github.io。
+摘要：隨著大數據與大型語言模型時代的來臨，零樣本個人化快速客製化已成為一大趨勢。在此報告中，我們介紹了 Takin AudioLLM，這是一系列專門為有聲書製作而設計的技術與模型，主要包括 Takin TTS、Takin VC 和 Takin Morphing。這些模型具備零樣本語音產生功能，可產生幾乎與真人語音難以區分的優質語音，並協助個人根據自己的需求客製化語音內容。具體來說，我們首先介紹 Takin TTS，這是一種神經編解碼器語言模型，建立在增強型神經語音編解碼器和多任務訓練架構之上，能夠以零樣本的方式產生高保真自然語音。對於 Takin VC，我們提倡一種有效內容與音色聯合建模方法來改善說話者的相似性，同時提倡使用基於條件流匹配的解碼器來進一步增強其自然性和表現力。最後，我們提出了 Takin Morphing 系統，它採用高度解耦且先進的音色和韻律建模方法，使個人能夠以精確且可控的方式客製化語音產生，並採用他們偏好的音色和韻律。廣泛的實驗驗證了我們的 Takin AudioLLM 系列模型的有效性和穩健性。有關詳細的示範，請參閱 https://everest-ai.github.io/takinaudiollm/。
 
 ##### **GRIN: GRadient-INformed MoE**
 2409.12136v1 by Liyuan Liu, Young Jin Kim, Shuohang Wang, Chen Liang, Yelong Shen, Hao Cheng, Xiaodong Liu, Masahiro Tanaka, Xiaoxia Wu, Wenxiang Hu, Vishrav Chaudhary, Zeqi Lin, Chenruidong Zhang, Jilong Xue, Hany Awadalla, Jianfeng Gao, Weizhu Chen

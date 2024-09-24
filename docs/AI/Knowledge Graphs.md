@@ -2,13 +2,13 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|[link](https://github.com/liangshuowen/posediffusion)|
 |**2024-09-17**|**FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**|Ziwei Li et.al.|[2409.11509v1](http://arxiv.org/abs/2409.11509v1)|null|
 |**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147v1](http://arxiv.org/abs/2409.11147v1)|[link](https://github.com/yukang-lin/rger)|
 |**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143v1](http://arxiv.org/abs/2409.11143v1)|null|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921v1](http://arxiv.org/abs/2409.10921v1)|[link](https://github.com/yanbei-jiang/artwork-interpretation)|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403v1](http://arxiv.org/abs/2409.10403v1)|null|
-|**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294v1](http://arxiv.org/abs/2409.10294v1)|null|
+|**2024-09-16**|**MGSA: Multi-Granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294v2](http://arxiv.org/abs/2409.10294v2)|null|
 |**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077v1](http://arxiv.org/abs/2409.10077v1)|null|
 |**2024-09-16**|**On the Diagram of Thought**|Yifan Zhang et.al.|[2409.10038v1](http://arxiv.org/abs/2409.10038v1)|[link](https://github.com/diagram-of-thought/diagram-of-thought)|
 |**2024-09-14**|**Generating Event-oriented Attribution for Movies via Two-Stage Prefix-Enhanced Multimodal LLM**|Yuanjie Lyu et.al.|[2409.09362v1](http://arxiv.org/abs/2409.09362v1)|null|
@@ -245,8 +245,8 @@ evidence for clinical diagnosis.
 
 摘要：本文提出了一种基于提示学习框架的知识增强疾病诊断方法。该方法从与临床病例相关的外部知识图谱中检索结构化知识，对其进行编码，并将其注入到提示模板中，以增强语言模型对任务的理解和推理能力。我们在三个公共数据集上进行了实验：CHIP-CTC、IMCS-V2-NER 和 KUAKE-QTR。结果表明，所提出的方法在多个评估指标上明显优于现有模型，在 CHIP-CTC 数据集上的 F1 得分提高了 2.4%，在 IMCS-V2-NER 数据集上提高了 3.1%，在 KUAKE-QTR 数据集上提高了 4.2%。此外，消融研究证实了知识注入模块的关键作用，因为移除此模块会导致 F1 得分显着下降。实验结果表明，所提出的方法不仅有效提高了疾病诊断的准确性，而且增强了预测的可解释性，为临床诊断提供了更可靠的支持和证据。
 
-##### **MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**
-2409.10294v1 by Shanshan Wang, Chun Zhang, Ning Zhang
+##### **MGSA: Multi-Granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**
+2409.10294v2 by Shanshan Wang, Chun Zhang, Ning Zhang
 
 The Knowledge Graph-to-Text Generation task aims to convert structured
 knowledge graphs into coherent and human-readable natural language text. Recent
@@ -274,7 +274,7 @@ Generation benchmark datasets, WebNLG and EventNarrative, where it consistently
 outperformed models that rely solely on single-granularity structure
 information, demonstrating the effectiveness of our approach.
 
-摘要：知識圖譜到文字生成任務旨在將結構化知識圖譜轉換為連貫且人類可讀的自然語言文字。最近在這個領域的研究集中於透過納入圖形結構資訊來增強預訓練語言模型 (PLM)，以擷取知識圖譜的複雜結構細節。然而，這些方法大多傾向於僅擷取單一粒度的結構資訊，專注於原始圖形中實體之間的關係或同一個實體或不同實體之間的單字關係。這種狹隘的焦點導致一個顯著的限制：僅專注於實體層級結構的模型無法擷取單字之間細微的語義關係，而僅專注於單字層級結構的模型則忽略了原始整個實體之間的更廣泛關係。為了克服這些限制，本文引入了基於 PLM 的多粒度圖形結構注意力 (MGSA)。模型架構的編碼器具有實體層級結構編碼模組、單字層級結構編碼模組和一個從兩個結構中綜合資訊的聚合模組。這種多粒度結構編碼方法允許模型同時擷取實體層級和單字層級結構資訊，提供對知識圖譜結構資訊更全面的理解，從而顯著提升生成文字的品質。我們使用兩個廣泛認可的 KG 到文字生成基準資料集 WebNLG 和 EventNarrative 對 MGSA 模型進行廣泛評估，在這些資料集上，它始終優於僅依賴單一粒度結構資訊的模型，證明了我們方法的有效性。
+摘要：知識圖譜轉文字生成任務旨在將結構化的知識圖譜轉換為連貫且人類可讀的自然語言文字。最近在這個領域的努力集中在透過納入圖形結構資訊來增強預先訓練的語言模型 (PLM)，以擷取知識圖譜的複雜結構細節。然而，這些方法中的大多數傾向於僅擷取單一粒度的結構資訊，專注於原始圖形中實體之間的關係或同一個實體或不同實體之間的詞彙關係。這種狹隘的焦點導致了一個重大的限制：僅專注於實體層級結構的模型無法擷取詞彙之間的細微語義關係，而僅專注於詞彙層級結構的模型則忽略了原始整個實體之間的更廣泛關係。為了克服這些限制，本文引入了基於 PLM 的多粒度圖形結構注意力 (MGSA)。模型架構的編碼器具有一個實體層級結構編碼模組、一個詞彙層級結構編碼模組，以及一個從兩個結構中綜合資訊的聚合模組。這種多粒度結構編碼方法允許模型同時擷取實體層級和詞彙層級的結構資訊，提供對知識圖譜結構資訊更全面的理解，從而顯著提升所生成文字的品質。我們使用兩個廣泛認可的 KG 轉文字生成基準資料集 WebNLG 和 EventNarrative 對 MGSA 模型進行了廣泛的評估，它始終優於僅依賴單一粒度結構資訊的模型，證明了我們方法的有效性。
 
 ##### **LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**
 2409.10077v1 by Le Xiao, Yunfei Xu, Jing Zhao

@@ -73,7 +73,7 @@
 |**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[2409.11676v1](http://arxiv.org/abs/2409.11676v1)|null|
 |**2024-09-18**|**Towards Explainable Goal Recognition Using Weight of Evidence (WoE): A Human-Centered Approach**|Abeer Alshehri et.al.|[2409.11675v1](http://arxiv.org/abs/2409.11675v1)|null|
 |**2024-09-18**|**RUIE: Retrieval-based Unified Information Extraction using Large Language Model**|Xincheng Liao et.al.|[2409.11673v1](http://arxiv.org/abs/2409.11673v1)|null|
-|**2024-09-18**|**GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663v1](http://arxiv.org/abs/2409.11663v1)|null|
+|**2024-09-18**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663v2](http://arxiv.org/abs/2409.11663v2)|null|
 |**2024-09-18**|**Few-Shot Class-Incremental Learning with Non-IID Decentralized Data**|Cuiwei Liu et.al.|[2409.11657v1](http://arxiv.org/abs/2409.11657v1)|null|
 |**2024-09-18**|**How to Build the Virtual Cell with Artificial Intelligence: Priorities and Opportunities**|Charlotte Bunne et.al.|[2409.11654v1](http://arxiv.org/abs/2409.11654v1)|null|
 |**2024-09-18**|**Art and Science of Quantizing Large-Scale Models: A Comprehensive Overview**|Yanshu Wang et.al.|[2409.11650v1](http://arxiv.org/abs/2409.11650v1)|null|
@@ -1765,8 +1765,8 @@ importance of its key components.
 
 摘要：統一資訊擷取 (UIE) 旨在使用單一模型或架構完成所有資訊擷取任務。雖然先前研究主要集中於使用建構資料集對大型語言模型 (LLM) 進行指令微調，但這些方法需要大量的運算資源，且難以推廣到未見任務。為了解決這些限制，我們提出了 RUIE (基於檢索的統一資訊擷取)，這是一個架構，它利用情境學習來實現快速推廣，同時降低運算成本。RUIE 中的主要挑戰是選擇對 LLM 最有益的示範，以有效處理不同的 IE 任務。為了達成此目的，我們整合了 LLM 偏好，用於對候選示範進行排名，並設計了一個關鍵字增強獎勵模型，以捕捉查詢和示範之間的細微關係。然後，我們透過對比學習和知識萃取訓練一個 UIE 的雙編碼檢索器。據我們所知，RUIE 是第一個可訓練的 UIE 檢索架構。8 個留存資料集的實驗結果證明了 RUIE 在推廣到未見任務方面的有效性，與指令微調方法和其他檢索器相比，平均 F1 分數分別提高了 19.22 和 3.13。進一步的分析證實了 RUIE 對不同大小 LLM 的適應性，以及其關鍵組成的重要性。
 
-##### **GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**
-2409.11663v1 by Haodi Wang, Tangyu Jiang, Yu Guo, Xiaohua Jia, Chengjun Cai
+##### **GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**
+2409.11663v2 by Haodi Wang, Tangyu Jiang, Yu Guo, Chengjun Cai, Cong Wang, Xiaohua Jia
 
 Deep learning models have been extensively adopted in various regions due to
 their ability to represent hierarchical features, which highly rely on the
@@ -1785,7 +1785,7 @@ both theoretically and empirically. The experimental results show that our
 GReDP works consistently better than the baselines on all models and training
 settings.
 
-摘要：深度學習模型已廣泛應用於各個領域，因為它們能夠表示階層特徵，而這在很大程度上依賴於訓練集和程序。因此，在隱私保護中，保護訓練程序和深度學習演算法至關重要。儘管差分隱私 (DP) 作為一種強大的密碼學原語在深度學習訓練中取得了令人滿意的結果，但現有方案在保留模型效用方面仍有不足，即它們會引發高雜訊比例或不可避免地損害原始梯度。為了解決上述問題，在本文中，我們提出了一種更穩健的 DP 訓練方法，稱為 GReDP。具體來說，我們在頻域中計算模型梯度並採用一種新方法來降低雜訊級別。與先前的研究不同，我們的 GReDP 只需要與 DPSGD [1] 相比一半的雜訊比例，同時保持所有梯度資訊完整。我們從理論和經驗上對我們的方法進行了詳細分析。實驗結果表明，我們的 GReDP 在所有模型和訓練設定上都比基準表現得更好。
+摘要：深度学习模型因其表示分层特征的能力而在各个领域得到广泛采用，而这种能力在很大程度上依赖于训练集和程序。因此，保护训练过程和深度学习算法对于隐私保护至关重要。尽管差分隐私 (DP) 作为一种强大的密码学原语在深度学习训练中取得了令人满意的结果，但现有方案在保留模型效用方面仍然存在不足，即它们要么调用高噪声比例，要么不可避免地损害原始梯度。为了解决上述问题，在本文中，我们提出了一种更稳健的 DP 训练方法，称为 GReDP。具体来说，我们在频域中计算模型梯度，并采用一种新方法来降低噪声水平。与之前的工作不同，我们的 GReDP 只需要与 DPSGD [1] 相比一半的噪声比例，同时保持所有梯度信息完整。我们从理论和经验上对我们的方法进行了详细分析。实验结果表明，我们的 GReDP 在所有模型和训练设置上始终优于基线。
 
 ##### **Few-Shot Class-Incremental Learning with Non-IID Decentralized Data**
 2409.11657v1 by Cuiwei Liu, Siang Xu, Huaijun Qiu, Jing Zhang, Zhi Liu, Liang Zhao

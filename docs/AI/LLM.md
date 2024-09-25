@@ -12,7 +12,7 @@
 |**2024-09-18**|**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**|Hideo Kobayashi et.al.|[2409.12172v1](http://arxiv.org/abs/2409.12172v1)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150v1](http://arxiv.org/abs/2409.12150v1)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147v1](http://arxiv.org/abs/2409.12147v1)|[link](https://github.com/dinobby/magicore)|
-|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v2](http://arxiv.org/abs/2409.12139v2)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|Sijing Chen et.al.|[2409.12139v3](http://arxiv.org/abs/2409.12139v3)|null|
 |**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136v1](http://arxiv.org/abs/2409.12136v1)|null|
 |**2024-09-18**|**BERT-VBD: Vietnamese Multi-Document Summarization Framework**|Tuan-Cuong Vuong et.al.|[2409.12134v1](http://arxiv.org/abs/2409.12134v1)|null|
 |**2024-09-18**|**Linguini: A benchmark for language-agnostic linguistic reasoning**|Eduardo Sánchez et.al.|[2409.12126v1](http://arxiv.org/abs/2409.12126v1)|[link](https://github.com/facebookresearch/linguini)|
@@ -337,7 +337,7 @@ communication.
 摘要：大型語言模型 (LLM) 的推理能力可以使用測試時間聚合策略來改善，即生成多個樣本並在生成的樣本中進行投票。雖然這些策略可以提升效能，但它們通常會達到飽和點。精煉提供了一種替代方案，藉由使用 LLM 生成的回饋來改善解決方案的品質。然而，精煉引入了 3 個主要挑戰：(1) 過度精煉：均勻地精煉所有實例可能會過度修正並降低整體效能。(2) 無法定位和解決錯誤：LLM 自我修正的能力有限，且難以辨識和修正自己的錯誤。(3) 精煉不足：決定需要多少次精煉並非易事，而且太快停止可能會讓錯誤未獲解決。為了解決這些問題，我們提出了 MAgICoRe，它透過將問題難度分類為容易或困難，使用粗略聚合解決容易的問題，並使用細緻且反覆的多重代理精煉解決困難的問題，從而避免過度精煉。為了改善錯誤定位，我們納入了外部逐步獎勵模型 (RM) 分數。此外，為了確保精煉有效，我們採用一個包含三個代理的多重代理迴圈：求解器、審查者（根據逐步 RM 分數產生目標回饋），以及精煉器（納入回饋）。為了確保精煉充分，我們重新評估更新的解決方案，反覆啟動進一步的精煉回合。我們在 Llama-3-8B 和 GPT-3.5 上評估 MAgICoRe，並展示了它在 5 個數學資料集中的有效性。即使只進行一次 MAgICoRe 反覆運算，也能比自我一致性高出 3.4%，比最佳 k 高出 3.2%，比自我精煉高出 4.0%，同時使用的樣本不到一半。與使用基準進行反覆精煉不同，MAgICoRe 會隨著反覆運算次數的增加而持續改善。最後，我們的消融實驗突出了 MAgICoRe 的 RM 和多重代理溝通的重要性。
 
 ##### **Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**
-2409.12139v2 by EverestAI, :, Sijing Chen, Yuan Feng, Laipeng He, Tianwei He, Wendi He, Yanni Hu, Bin Lin, Yiting Lin, Yu Pan, Pengfei Tan, Chengwei Tian, Chen Wang, Zhicheng Wang, Ruoye Xie, Jixun Yao, Quanlei Yan, Yuguang Yang, Jianhao Ye, Jingjing Yin, Yanzhen Yu, Huimin Zhang, Xiang Zhang, Guangcheng Zhao, Hongbin Zhou, Pengpeng Zou
+2409.12139v3 by Sijing Chen, Yuan Feng, Laipeng He, Tianwei He, Wendi He, Yanni Hu, Bin Lin, Yiting Lin, Yu Pan, Pengfei Tan, Chengwei Tian, Chen Wang, Zhicheng Wang, Ruoye Xie, Jixun Yao, Quanlei Yan, Yuguang Yang, Jianhao Ye, Jingjing Yin, Yanzhen Yu, Huimin Zhang, Xiang Zhang, Guangcheng Zhao, Hongbin Zhou, Pengpeng Zou
 
 With the advent of the big data and large language model era, zero-shot
 personalized rapid customization has emerged as a significant trend. In this
@@ -360,7 +360,7 @@ validate the effectiveness and robustness of our Takin AudioLLM series models.
 For detailed demos, please refer to
 https://everest-ai.github.io/takinaudiollm/.
 
-摘要：隨著大數據與大型語言模型時代的來臨，零樣本個人化快速客製化已成為一大趨勢。在此報告中，我們介紹了 Takin AudioLLM，這是一系列專門為有聲書製作而設計的技術與模型，主要包括 Takin TTS、Takin VC 和 Takin Morphing。這些模型具備零樣本語音產生功能，可產生幾乎與真人語音難以區分的優質語音，並協助個人根據自己的需求客製化語音內容。具體來說，我們首先介紹 Takin TTS，這是一種神經編解碼器語言模型，建立在增強型神經語音編解碼器和多任務訓練架構之上，能夠以零樣本的方式產生高保真自然語音。對於 Takin VC，我們提倡一種有效內容與音色聯合建模方法來改善說話者的相似性，同時提倡使用基於條件流匹配的解碼器來進一步增強其自然性和表現力。最後，我們提出了 Takin Morphing 系統，它採用高度解耦且先進的音色和韻律建模方法，使個人能夠以精確且可控的方式客製化語音產生，並採用他們偏好的音色和韻律。廣泛的實驗驗證了我們的 Takin AudioLLM 系列模型的有效性和穩健性。有關詳細的示範，請參閱 https://everest-ai.github.io/takinaudiollm/。
+摘要：隨著大數據和大語言模型時代的到來，零樣本個人化快速客製化已成為重要的趨勢。在此報告中，我們介紹 Takin AudioLLM，這是一系列技術和模型，主要包括 Takin TTS、Takin VC 和 Takin Morphing，專門設計用於有聲書製作。這些模型能夠進行零樣本語音製作，產生幾乎與真人語音無法區分的優質語音，並協助個人根據自己的需求客製化語音內容。具體來說，我們首先介紹 Takin TTS，這是一個神經編解碼器語言模型，建立在增強的神經語音編解碼器和多任務訓練架構上，能夠以零樣本的方式產生高保真自然語音。對於 Takin VC，我們提倡一種有效內容和音色聯合建模方法，以提高說話者相似度，同時提倡基於條件流匹配的解碼器，以進一步增強其自然性和表現力。最後，我們提出 Takin Morphing 系統，採用高度解耦和先進的音色和韻律建模方法，使個人能夠以精確且可控的方式客製化語音製作，並採用他們偏好的音色和韻律。大量的實驗驗證了我們的 Takin AudioLLM 系列模型的有效性和穩健性。有關詳細示範，請參閱 https://everest-ai.github.io/takinaudiollm/。
 
 ##### **GRIN: GRadient-INformed MoE**
 2409.12136v1 by Liyuan Liu, Young Jin Kim, Shuohang Wang, Chen Liang, Yelong Shen, Hao Cheng, Xiaodong Liu, Masahiro Tanaka, Xiaoxia Wu, Wenxiang Hu, Vishrav Chaudhary, Zeqi Lin, Chenruidong Zhang, Jilong Xue, Hany Awadalla, Jianfeng Gao, Weizhu Chen

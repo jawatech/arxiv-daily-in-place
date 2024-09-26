@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**|Juliette Faille et.al.|[2409.16707v1](http://arxiv.org/abs/2409.16707v1)|null|
+|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v1](http://arxiv.org/abs/2409.16670v1)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176v1](http://arxiv.org/abs/2409.16176v1)|null|
 |**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902v1](http://arxiv.org/abs/2409.15902v1)|[link](https://github.com/s-nlp/konstruktor)|
 |**2024-09-24**|**Symmetries and Expressive Requirements for Learning General Policies**|Dominik Drexler et.al.|[2409.15892v1](http://arxiv.org/abs/2409.15892v1)|null|
@@ -100,10 +102,58 @@
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
 |**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116v1](http://arxiv.org/abs/2408.12116v1)|null|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
-|**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182v1](http://arxiv.org/abs/2408.11182v1)|null|
-|**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133v1](http://arxiv.org/abs/2408.11133v1)|null|
 
 #### Abstracts
+##### **Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**
+2409.16707v1 by Juliette Faille, Albert Gatt, Claire Gardent
+
+In Natural Language Generation (NLG), important information is sometimes
+omitted in the output text. To better understand and analyse how this type of
+mistake arises, we focus on RDF-to-Text generation and explore two methods of
+probing omissions in the encoder output of BART (Lewis et al, 2020) and of T5
+(Raffel et al, 2019): (i) a novel parameter-free probing method based on the
+computation of cosine similarity between embeddings of RDF graphs and of RDF
+graphs in which we removed some entities and (ii) a parametric probe which
+performs binary classification on the encoder embeddings to detect omitted
+entities. We also extend our analysis to distorted entities, i.e. entities that
+are not fully correctly mentioned in the generated text (e.g. misspelling of
+entity, wrong units of measurement). We found that both omitted and distorted
+entities can be probed in the encoder's output embeddings. This suggests that
+the encoder emits a weaker signal for these entities and therefore is
+responsible for some loss of information. This also shows that probing methods
+can be used to detect mistakes in the output of NLG models.
+
+摘要：在自然語言生成 (NLG) 中，重要資訊有時會在輸出文字中被省略。為了更了解並分析這類錯誤是如何產生的，我們專注於 RDF 轉文字的生成，並探討兩種探測 BART (Lewis 等人，2020) 和 T5 (Raffel 等人，2019) 的編碼器輸出中遺漏的方法：(i) 一種基於 RDF 圖形嵌入和我們移除一些實體的 RDF 圖形之間的餘弦相似度計算的新型無參數探測方法，以及 (ii) 一種在編碼器嵌入中執行二元分類以偵測遺漏實體的參數化探測。我們也將我們的分析延伸到扭曲的實體，也就是在產生的文字中沒有被完全正確提及的實體 (例如實體拼寫錯誤、測量單位錯誤)。我們發現遺漏和扭曲的實體都可以被探測到在編碼器的輸出嵌入中。這表示編碼器針對這些實體發射較弱的訊號，因此導致一些資訊遺失。這也顯示探測方法可以用於偵測 NLG 模型輸出中的錯誤。
+
+##### **GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**
+2409.16670v1 by Zhe-Rui Yang, Jindong Han, Chang-Dong Wang, Hao Liu
+
+Graph Neural Networks (GNNs) have demonstrated remarkable proficiency in
+handling a range of graph analytical tasks across various domains, such as
+e-commerce and social networks. Despite their versatility, GNNs face
+significant challenges in transferability, limiting their utility in real-world
+applications. Existing research in GNN transfer learning overlooks
+discrepancies in distribution among various graph datasets, facing challenges
+when transferring across different distributions. How to effectively adopt a
+well-trained GNN to new graphs with varying feature and structural
+distributions remains an under-explored problem. Taking inspiration from the
+success of Low-Rank Adaptation (LoRA) in adapting large language models to
+various domains, we propose GraphLoRA, an effective and parameter-efficient
+method for transferring well-trained GNNs to diverse graph domains.
+Specifically, we first propose a Structure-aware Maximum Mean Discrepancy
+(SMMD) to align divergent node feature distributions across source and target
+graphs. Moreover, we introduce low-rank adaptation by injecting a small
+trainable GNN alongside the pre-trained one, effectively bridging structural
+distribution gaps while mitigating the catastrophic forgetting. Additionally, a
+structure-aware regularization objective is proposed to enhance the
+adaptability of the pre-trained GNN to target graph with scarce supervision
+labels. Extensive experiments on six real-world datasets demonstrate the
+effectiveness of GraphLoRA against eleven baselines by tuning only 20% of
+parameters, even across disparate graph domains. The code is available at
+https://anonymous.4open.science/r/GraphLoRA.
+
+摘要：圖形神經網路 (GNN) 已展現出在各種領域處理一系列圖形分析任務的卓越能力，例如電子商務和社群網路。儘管 GNN 具有多功能性，但在可轉移性方面仍面臨重大挑戰，限制了它們在現實世界應用中的效用。現有的 GNN 轉移學習研究忽視了各種圖形資料集之間的分布差異，在跨不同分布轉移時面臨挑戰。如何有效地將訓練良好的 GNN 應用於具有不同特徵和結構分布的新圖形，仍然是一個尚未充分探討的問題。從低秩適應 (LoRA) 在將大型語言模型適應到各種領域方面獲得的成功中汲取靈感，我們提出了 GraphLoRA，這是一種有效且參數效率高的方法，可用於將訓練良好的 GNN 轉移到不同的圖形領域。具體來說，我們首先提出一個結構感知最大平均差異 (SMMD) 來調整來源和目標圖形中的不同節點特徵分布。此外，我們通過在預先訓練的 GNN 旁邊注入一個小的可訓練 GNN 來引入低秩適應，從而有效地彌合結構分布差距，同時減輕災難性遺忘。此外，還提出了結構感知正則化目標，以增強預先訓練的 GNN 對具有稀疏監督標籤的目標圖形的適應性。在六個真實世界資料集上的大量實驗證明了 GraphLoRA 的有效性，它僅調整了 20% 的參數，即使在不同的圖形領域中也能夠勝過十一種基準。程式碼可在 https://anonymous.4open.science/r/GraphLoRA 取得。
+
 ##### **Cyber Knowledge Completion Using Large Language Models**
 2409.16176v1 by Braden K Webb, Sumit Purohit, Rounak Meyur
 
@@ -2477,46 +2527,4 @@ demonstrating that expert models can be effectively reused for zero-shot tasks.
 Our code will be released publicly.
 
 摘要：視覺語言模型（VLM），例如 CLIP，已在影像分類任務中展現令人印象深刻的零次學習能力，方法是對齊文字和影像，但與特定任務的專家模型相比，其效能較差。相反地，專家模型在其專業領域中表現出色，但對於新任務缺乏零次學習能力。如何同時獲得專家模型的高效能和零次學習能力，是一個重要的研究方向。在本文中，我們嘗試透過建立模型中心，並使用模型標籤將模型與其功能對齊，證明可以透過有效選擇和重複使用中心中的模型，以零次學習的方式解決新任務。我們提出了一種新的範例，即模型標籤學習（MLL），它透過語義導向非循環圖（SDAG）彌合模型及其功能之間的差距，並利用一種演算法，即分類頭組合最佳化（CHCO），為新任務選擇有能力的模型。與基礎模型範例相比，它的成本較低且更具可擴充性，也就是說，零次學習能力會隨著模型中心規模的擴大而增長。在七個真實世界資料集上的實驗驗證了 MLL 的有效性和效率，證明了專家模型可以有效地重複用於零次學習任務。我們的程式碼將公開發布。
-
-##### **Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**
-2408.11182v1 by Zhilong Wang, Haizhou Wang, Nanqing Luo, Lan Zhang, Xiaoyan Sun, Yebo Cao, Peng Liu
-
-Jailbreak attacks on Language Model Models (LLMs) entail crafting prompts
-aimed at exploiting the models to generate malicious content. This paper
-proposes a new type of jailbreak attacks which shift the attention of the LLM
-by inserting a prohibited query into a carrier article. The proposed attack
-leverage the knowledge graph and a composer LLM to automatically generating a
-carrier article that is similar to the topic of the prohibited query but does
-not violate LLM's safeguards. By inserting the malicious query to the carrier
-article, the assembled attack payload can successfully jailbreak LLM. To
-evaluate the effectiveness of our method, we leverage 4 popular categories of
-``harmful behaviors'' adopted by related researches to attack 6 popular LLMs.
-Our experiment results show that the proposed attacking method can successfully
-jailbreak all the target LLMs which high success rate, except for Claude-3.
-
-摘要：語言模型模型（LLM）的越獄攻擊涉及製作提示，旨在利用模型來產生惡意內容。本文提出了一種新型的越獄攻擊，它通過在載體文章中插入禁止查詢來轉移 LLM 的注意力。提議的攻擊利用知識圖譜和作曲家 LLM 自動生成與禁止查詢的主題相似但不會違反 LLM 保障措施的載體文章。通過將惡意查詢插入載體文章中，組裝的攻擊有效載荷可以成功越獄 LLM。為了評估我們方法的有效性，我們利用相關研究採用的 4 類流行的「有害行為」來攻擊 6 個流行的 LLM。我們的實驗結果表明，所提出的攻擊方法可以成功越獄所有目標 LLM，成功率很高，除了 Claude-3。
-
-##### **Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**
-2408.11133v1 by Thomas Hoang, Quynh Anh Nguyen, Long Nguyen
-
-Countless disasters have resulted from climate change, causing severe damage
-to infrastructure and the economy. These disasters have significant societal
-impacts, necessitating mental health services for the millions affected. To
-prepare for and respond effectively to such events, it is important to
-understand people's emotions and the life incidents they experience before and
-after a disaster strikes. In this case study, we collected a dataset of
-approximately 400,000 public tweets related to the storm. Using a BERT-based
-model, we predicted the emotions associated with each tweet. To efficiently
-identify these topics, we utilized the Latent Dirichlet Allocation (LDA)
-technique for topic modeling, which allowed us to bypass manual content
-analysis and extract meaningful patterns from the data. However, rather than
-stopping at topic identification like previous methods \cite{math11244910}, we
-further refined our analysis by integrating Graph Neural Networks (GNN) and
-Large Language Models (LLM). The GNN was employed to generate embeddings and
-construct a similarity graph of the tweets, which was then used to optimize
-clustering. Subsequently, we used an LLM to automatically generate descriptive
-names for each event cluster, offering critical insights for disaster
-preparedness and response strategies.
-
-摘要：無數的災難是由於氣候變遷所造成的，對基礎建設和經濟造成嚴重的損害。這些災難對社會造成重大的影響，需要為數百萬受災民眾提供心理健康服務。為了有效地為此類事件做好準備並作出回應，了解人們的情緒以及他們在災難發生前後所經歷的生活事件非常重要。在本案例研究中，我們收集了一個包含約 400,000 則與風暴相關的公開推文的資料集。使用基於 BERT 的模型，我們預測了與每則推文相關的情緒。為了有效率地找出這些主題，我們利用了潛在狄利克雷配置 (LDA) 技術進行主題建模，這讓我們能夠繞過手動內容分析，從資料中萃取出有意義的模式。然而，我們並未像先前的研究方法 \cite{math11244910} 那樣僅止於主題辨識，而是進一步整合圖神經網路 (GNN) 和大型語言模型 (LLM) 來優化我們的分析。GNN 被用於產生嵌入和建構推文的相似性圖，然後用於最佳化分群。隨後，我們使用 LLM 為每個事件群集自動產生描述性名稱，為災害防範和應變策略提供重要的見解。
 

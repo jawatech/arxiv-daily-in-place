@@ -2,7 +2,11 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
+|**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
+|**2024-09-19**|**Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**|Daniel Flores-Araiza et.al.|[2409.12883v1](http://arxiv.org/abs/2409.12883v1)|null|
 |**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v1](http://arxiv.org/abs/2409.12087v1)|null|
+|**2024-09-09**|**Explainable AI: Definition and attributes of a good explanation for health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
 |**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133v1](http://arxiv.org/abs/2409.00133v1)|null|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
@@ -98,12 +102,89 @@
 |**2023-07-21**|**eXplainable Artificial Intelligence (XAI) in aging clock models**|Alena Kalyakulina et.al.|[2307.13704v3](http://arxiv.org/abs/2307.13704v3)|null|
 |**2023-07-19**|**Interpreting and Correcting Medical Image Classification with PIP-Net**|Meike Nauta et.al.|[2307.10404v2](http://arxiv.org/abs/2307.10404v2)|[link](https://github.com/m-nauta/pipnet)|
 |**2023-07-15**|**Explaining and visualizing black-box models through counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764v3](http://arxiv.org/abs/2307.07764v3)|[link](https://github.com/pievos101/cpath)|
-|**2023-07-05**|**Beyond Known Reality: Exploiting Counterfactual Explanations for Medical Research**|Toygar Tanyel et.al.|[2307.02131v5](http://arxiv.org/abs/2307.02131v5)|[link](https://github.com/toygarr/counterfactual-explanations-for-medical-research)|
-|**2023-06-30**|**AI and Non AI Assessments for Dementia**|Mahboobeh Parsapoor et.al.|[2307.01210v1](http://arxiv.org/abs/2307.01210v1)|null|
-|**2023-06-12**|**Active Globally Explainable Learning for Medical Images via Class Association Embedding and Cyclic Adversarial Generation**|Ruitao Xie et.al.|[2306.07306v1](http://arxiv.org/abs/2306.07306v1)|null|
-|**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029v1](http://arxiv.org/abs/2306.06029v1)|null|
 
 #### Abstracts
+##### **Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**
+2409.13476v1 by Tirtha Chanda, Sarah Haggenmueller, Tabea-Clara Bucher, Tim Holland-Letz, Harald Kittler, Philipp Tschandl, Markus V. Heppt, Carola Berking, Jochen S. Utikal, Bastian Schilling, Claudia Buerger, Cristian Navarrete-Dechent, Matthias Goebeler, Jakob Nikolas Kather, Carolin V. Schneider, Benjamin Durani, Hendrike Durani, Martin Jansen, Juliane Wacker, Joerg Wacker, Reader Study Consortium, Titus J. Brinker
+
+Artificial intelligence (AI) systems have substantially improved
+dermatologists' diagnostic accuracy for melanoma, with explainable AI (XAI)
+systems further enhancing clinicians' confidence and trust in AI-driven
+decisions. Despite these advancements, there remains a critical need for
+objective evaluation of how dermatologists engage with both AI and XAI tools.
+In this study, 76 dermatologists participated in a reader study, diagnosing 16
+dermoscopic images of melanomas and nevi using an XAI system that provides
+detailed, domain-specific explanations. Eye-tracking technology was employed to
+assess their interactions. Diagnostic performance was compared with that of a
+standard AI system lacking explanatory features. Our findings reveal that XAI
+systems improved balanced diagnostic accuracy by 2.8 percentage points relative
+to standard AI. Moreover, diagnostic disagreements with AI/XAI systems and
+complex lesions were associated with elevated cognitive load, as evidenced by
+increased ocular fixations. These insights have significant implications for
+clinical practice, the design of AI tools for visual tasks, and the broader
+development of XAI in medical diagnostics.
+
+摘要：人工智慧 (AI) 系統已大幅改善皮膚科醫師對黑色素瘤的診斷準確度，而可解釋 AI (XAI) 系統進一步提升臨床醫師對 AI 驅動決策的信心與信賴。儘管有這些進展，對於皮膚科醫師如何使用 AI 和 XAI 工具，仍有客觀評估的迫切需求。在這項研究中，76 位皮膚科醫師參與了一項讀者研究，使用 XAI 系統診斷 16 張黑色素瘤和痣的皮膚鏡影像，該系統提供詳細的領域特定說明。採用眼球追蹤技術來評估他們的互動。將診斷表現與缺乏說明功能的標準 AI 系統進行比較。我們的研究結果顯示，XAI 系統相較於標準 AI，將平衡診斷準確度提升了 2.8 個百分點。此外，與 AI/XAI 系統的診斷分歧和複雜的病灶與認知負擔升高有關，這由增加的眼睛注視次數所證實。這些見解對臨床實務、視覺任務 AI 工具的設計和醫學診斷中 XAI 的廣泛發展具有重大意義。
+
+##### **Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**
+2409.15374v1 by Suryansh Vidya, Kush Gupta, Amir Aly, Andy Wills, Emmanuel Ifeachor, Rohit Shankar
+
+Early diagnosis and intervention for Autism Spectrum Disorder (ASD) has been
+shown to significantly improve the quality of life of autistic individuals.
+However, diagnostics methods for ASD rely on assessments based on clinical
+presentation that are prone to bias and can be challenging to arrive at an
+early diagnosis. There is a need for objective biomarkers of ASD which can help
+improve diagnostic accuracy. Deep learning (DL) has achieved outstanding
+performance in diagnosing diseases and conditions from medical imaging data.
+Extensive research has been conducted on creating models that classify ASD
+using resting-state functional Magnetic Resonance Imaging (fMRI) data. However,
+existing models lack interpretability. This research aims to improve the
+accuracy and interpretability of ASD diagnosis by creating a DL model that can
+not only accurately classify ASD but also provide explainable insights into its
+working. The dataset used is a preprocessed version of the Autism Brain Imaging
+Data Exchange (ABIDE) with 884 samples. Our findings show a model that can
+accurately classify ASD and highlight critical brain regions differing between
+ASD and typical controls, with potential implications for early diagnosis and
+understanding of the neural basis of ASD. These findings are validated by
+studies in the literature that use different datasets and modalities,
+confirming that the model actually learned characteristics of ASD and not just
+the dataset. This study advances the field of explainable AI in medical imaging
+by providing a robust and interpretable model, thereby contributing to a future
+with objective and reliable ASD diagnostics.
+
+摘要：自閉症譜系障礙 (ASD) 的早期診斷和介入已被證實能顯著改善自閉症患者的生活品質。然而，ASD 的診斷方法依賴於基於臨床表現的評估，容易產生偏見，且可能難以做出早期診斷。有必要找出 ASD 的客觀生物標記，以幫助提高診斷準確性。深度學習 (DL) 在從醫學影像資料診斷疾病和病症方面取得傑出的表現。已經針對建立使用靜態功能性磁振造影 (fMRI) 資料對 ASD 進行分類的模型進行廣泛的研究。然而，現有的模型缺乏可解釋性。本研究旨在透過建立一個不僅能準確分類 ASD，還能提供可解釋見解說明其運作原理的 DL 模型，來改善 ASD 診斷的準確性和可解釋性。所使用的資料集是自閉症大腦影像資料交換 (ABIDE) 的預處理版本，包含 884 個樣本。我們的研究結果顯示，該模型能準確分類 ASD，並強調 ASD 與典型對照組之間存在差異的關鍵腦區，對於 ASD 的早期診斷和神經基礎的理解具有潛在的意義。這些研究結果已由使用不同資料集和方式的文獻研究驗證，證實該模型實際上學習了 ASD 的特徵，而不僅僅是資料集。本研究透過提供一個強健且可解釋的模型，推動了醫學影像中可解釋 AI 的領域，從而為未來提供客觀且可靠的 ASD 診斷做出貢獻。
+
+##### **Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**
+2409.12883v1 by Daniel Flores-Araiza, Francisco Lopez-Tiro, Clément Larose, Salvador Hinojosa, Andres Mendez-Vazquez, Miguel Gonzalez-Mendoza, Gilberto Ochoa-Ruiz, Christian Daul
+
+The in-vivo identification of the kidney stone types during an ureteroscopy
+would be a major medical advance in urology, as it could reduce the time of the
+tedious renal calculi extraction process, while diminishing infection risks.
+Furthermore, such an automated procedure would make possible to prescribe
+anti-recurrence treatments immediately. Nowadays, only few experienced
+urologists are able to recognize the kidney stone types in the images of the
+videos displayed on a screen during the endoscopy. Thus, several deep learning
+(DL) models have recently been proposed to automatically recognize the kidney
+stone types using ureteroscopic images. However, these DL models are of black
+box nature whicl limits their applicability in clinical settings. This
+contribution proposes a case-based reasoning DL model which uses prototypical
+parts (PPs) and generates local and global descriptors. The PPs encode for each
+class (i.e., kidney stone type) visual feature information (hue, saturation,
+intensity and textures) similar to that used by biologists. The PPs are
+optimally generated due a new loss function used during the model training.
+Moreover, the local and global descriptors of PPs allow to explain the
+decisions ("what" information, "where in the images") in an understandable way
+for biologists and urologists. The proposed DL model has been tested on a
+database including images of the six most widespread kidney stone types. The
+overall average classification accuracy was 90.37. When comparing this results
+with that of the eight other DL models of the kidney stone state-of-the-art, it
+can be seen that the valuable gain in explanability was not reached at the
+expense of accuracy which was even slightly increased with respect to that
+(88.2) of the best method of the literature. These promising and interpretable
+results also encourage urologists to put their trust in AI-based solutions.
+
+摘要：尿路鏡檢查中腎結石類型的體內識別將是泌尿科的一項重大進展，因為它可以減少繁瑣的腎結石取出過程的時間，同時降低感染風險。此外，這種自動化程序將使立即開立抗復發治療成為可能。如今，只有少數經驗豐富的泌尿科醫生能夠在內視鏡檢查期間屏幕上顯示的視頻圖像中識別腎結石類型。因此，最近已提出多種深度學習 (DL) 模型，以使用輸尿管鏡圖像自動識別腎結石類型。然而，這些 DL 模型本質上是黑盒子，這限制了它們在臨床環境中的應用性。本文提出了一個基於案例推理的 DL 模型，它使用原型部分 (PP) 並生成局部和全局描述符。PP 為每種類型（即腎結石類型）編碼視覺特徵信息（色調、飽和度、強度和紋理），類似於生物學家使用的信息。由於在模型訓練期間使用的新損失函數，PP 得到了最佳生成。此外，PP 的局部和全局描述符允許以生物學家和泌尿科醫生可以理解的方式解釋決策（“什麼”信息，“圖像中的什麼位置”）。所提出的 DL 模型已在一個包含六種最廣泛的腎結石類型圖像的數據庫上進行了測試。總體平均分類準確率為 90.37。將此結果與腎結石最先進的八個其他 DL 模型的結果進行比較時，可以看出，可解釋性的寶貴增益並未以準確性為代價，甚至略有增加與文獻中最好的方法 (88.2) 相比。這些有希望且可解釋的結果也鼓勵泌尿科醫生相信基於人工智能的解決方案。
+
 ##### **Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**
 2409.12087v1 by Yubo Li, Saba Al-Sayouri, Rema Padman
 
@@ -124,6 +205,31 @@ the value of leveraging administrative claims data for CKD management and
 predicting ESRD progression.
 
 摘要：本研究探討利用行政索賠資料的潛力，結合進階機器學習和深度學習技術，預測慢性腎臟病 (CKD) 進展至末期腎臟疾病 (ESRD)。我們分析由一家大型健康保險組織提供的十年綜合資料集，使用傳統機器學習方法（例如隨機森林和 XGBoost）以及深度學習方法（例如長短期記憶 (LSTM) 網路）開發多個觀察時段的預測模型。我們的研究結果表明，LSTM 模型，特別是具有 24 個月的觀察時段，在預測 ESRD 進展方面表現優異，優於文獻中的現有模型。我們進一步應用 SHapley 加法解釋 (SHAP) 分析來增強可解釋性，深入了解個別特徵對個別患者層級預測的影響。本研究強調了利用行政索賠資料進行 CKD 管理和預測 ESRD 進展的價值。
+
+##### **Explainable AI: Definition and attributes of a good explanation for health AI**
+2409.15338v1 by Evangelia Kyrimi, Scott McLachlan, Jared M Wohlgemut, Zane B Perkins, David A. Lagnado, William Marsh, the ExAIDSS Expert Group
+
+Proposals of artificial intelligence (AI) solutions based on increasingly
+complex and accurate predictive models are becoming ubiquitous across many
+disciplines. As the complexity of these models grows, transparency and users'
+understanding often diminish. This suggests that accurate prediction alone is
+insufficient for making an AI-based solution truly useful. In the development
+of healthcare systems, this introduces new issues related to accountability and
+safety. Understanding how and why an AI system makes a recommendation may
+require complex explanations of its inner workings and reasoning processes.
+Although research on explainable AI (XAI) has significantly increased in recent
+years and there is high demand for XAI in medicine, defining what constitutes a
+good explanation remains ad hoc, and providing adequate explanations continues
+to be challenging. To fully realize the potential of AI, it is critical to
+address two fundamental questions about explanations for safety-critical AI
+applications, such as health-AI: (1) What is an explanation in health-AI? and
+(2) What are the attributes of a good explanation in health-AI? In this study,
+we examined published literature and gathered expert opinions through a
+two-round Delphi study. The research outputs include (1) a definition of what
+constitutes an explanation in health-AI and (2) a comprehensive list of
+attributes that characterize a good explanation in health-AI.
+
+摘要：隨著越來越複雜且準確的預測模型，基於人工智慧 (AI) 解決方案的提案在許多領域中變得無處不在。隨著這些模型複雜性的增加，透明度和使用者的理解力往往會降低。這表示僅有準確的預測並不足以讓 AI 解決方案真正有用。在醫療保健系統的開發中，這引入了與問責制和安全性相關的新問題。瞭解 AI 系統如何以及為何提出建議可能需要對其內部運作和推理過程進行複雜的說明。儘管近年來對可解釋 AI (XAI) 的研究已大幅增加，且醫學領域對 XAI 有很高的需求，但定義什麼構成一個好的解釋仍是臨時性的，而提供適當的解釋仍然具有挑戰性。為了充分發揮 AI 的潛力，對於安全關鍵型 AI 應用（例如健康 AI）的解釋，探討兩個基本問題至關重要：(1) 什麼是健康 AI 中的解釋？以及 (2) 健康 AI 中一個好的解釋有哪些屬性？在本研究中，我們檢視了已發表的文獻，並透過兩輪德爾菲研究收集了專家意見。研究成果包括：(1) 健康 AI 中什麼構成解釋的定義，以及 (2) 健康 AI 中一個好解釋的屬性清單。
 
 ##### **Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**
 2408.17401v1 by Antonio Rago, Bence Palfi, Purin Sukpanichnant, Hannibal Nabli, Kavyesh Vivek, Olga Kostopoulou, James Kinross, Francesca Toni
@@ -2537,104 +2643,4 @@ visualizing black-box models. Experiments with synthetic and medical data
 demonstrate the practical applicability of our approach.
 
 摘要：可解釋 AI (XAI) 是機器學習研究中日益重要的領域，其目標是讓黑箱模型透明且可解釋。在本文中，我們提出了一種新的 XAI 方法，該方法使用由特徵條件置換產生的所謂反事實路徑。該演算法透過識別特徵的順序置換來衡量特徵重要性，這些置換最能影響模型預測的變化。它特別適合根據包含領域知識的知識圖譜中的反事實路徑來產生解釋。反事實路徑在解釋和視覺化黑箱模型時，為目前的 XAI 方法引入了額外的圖形維度。使用合成和醫療資料進行的實驗證明了我們方法的實用適用性。
-
-##### **Beyond Known Reality: Exploiting Counterfactual Explanations for Medical Research**
-2307.02131v5 by Toygar Tanyel, Serkan Ayvaz, Bilgin Keserci
-
-The field of explainability in artificial intelligence (AI) has witnessed a
-growing number of studies and increasing scholarly interest. However, the lack
-of human-friendly and individual interpretations in explaining the outcomes of
-machine learning algorithms has significantly hindered the acceptance of these
-methods by clinicians in their research and clinical practice. To address this
-issue, our study uses counterfactual explanations to explore the applicability
-of "what if?" scenarios in medical research. Our aim is to expand our
-understanding of magnetic resonance imaging (MRI) features used for diagnosing
-pediatric posterior fossa brain tumors beyond existing boundaries. In our case
-study, the proposed concept provides a novel way to examine alternative
-decision-making scenarios that offer personalized and context-specific
-insights, enabling the validation of predictions and clarification of
-variations under diverse circumstances. Additionally, we explore the potential
-use of counterfactuals for data augmentation and evaluate their feasibility as
-an alternative approach in our medical research case. The results demonstrate
-the promising potential of using counterfactual explanations to enhance
-acceptance of AI-driven methods in clinical research.
-
-摘要：在人工智能 (AI) 的可解釋性領域中，已經看到越來越多的研究和學術興趣。然而，在解釋機器學習演算法的結果時缺乏人性化和個人化的詮釋，這顯著阻礙了臨床醫生在研究和臨床實務中接受這些方法。為了解決這個問題，我們的研究使用反事實解釋來探討「如果？」情境在醫學研究中的適用性。我們的目標是擴展我們對用於診斷小兒後顱窩腦腫瘤的磁共振成像 (MRI) 特徵的理解，超越現有的界線。在我們的案例研究中，所提出的概念提供了一種新穎的方法來檢視替代決策情境，提供個人化和特定於情境的見解，從而能夠驗證預測並釐清在不同情況下的差異。此外，我們探討了反事實用於資料擴充的潛在用途，並評估其作為我們醫學研究案例中替代方法的可行性。結果證明了使用反事實解釋來增強臨床研究中 AI 驅動方法的接受度的潛力。
-
-##### **AI and Non AI Assessments for Dementia**
-2307.01210v1 by Mahboobeh Parsapoor, Hamed Ghodrati, Vincenzo Dentamaro, Christopher R. Madan, Ioulietta Lazarou, Spiros Nikolopoulos, Ioannis Kompatsiaris
-
-Current progress in the artificial intelligence domain has led to the
-development of various types of AI-powered dementia assessments, which can be
-employed to identify patients at the early stage of dementia. It can
-revolutionize the dementia care settings. It is essential that the medical
-community be aware of various AI assessments and choose them considering their
-degrees of validity, efficiency, practicality, reliability, and accuracy
-concerning the early identification of patients with dementia (PwD). On the
-other hand, AI developers should be informed about various non-AI assessments
-as well as recently developed AI assessments. Thus, this paper, which can be
-readable by both clinicians and AI engineers, fills the gap in the literature
-in explaining the existing solutions for the recognition of dementia to
-clinicians, as well as the techniques used and the most widespread dementia
-datasets to AI engineers. It follows a review of papers on AI and non-AI
-assessments for dementia to provide valuable information about various dementia
-assessments for both the AI and medical communities. The discussion and
-conclusion highlight the most prominent research directions and the maturity of
-existing solutions.
-
-摘要：目前人工智能領域的進展導致了各種類型的人工智慧驅動的失智症評估的發展，可用於識別處於失智症早期階段的患者。它可以徹底改變失智症護理設置。重要的是，醫療界要了解各種人工智能評估，並根據其有效性、效率、實用性、可靠性和準確性程度，考慮選擇它們來早期識別失智症患者 (PwD)。另一方面，人工智能開發人員也應該了解各種非人工智能評估以及最近開發的人工智能評估。因此，這篇臨床醫生和人工智能工程師都可以閱讀的論文填補了文獻中關於向臨床醫生解釋現有失智症識別解決方案以及向人工智能工程師解釋所用技術和最廣泛的失智症數據集的空白。它遵循對人工智能和非人工智能失智症評估論文的回顧，為人工智能和醫療界提供有關各種失智症評估的寶貴信息。討論和結論重點介紹了最突出的研究方向和現有解決方案的成熟度。
-
-##### **Active Globally Explainable Learning for Medical Images via Class Association Embedding and Cyclic Adversarial Generation**
-2306.07306v1 by Ruitao Xie, Jingbang Chen, Limai Jiang, Rui Xiao, Yi Pan, Yunpeng Cai
-
-Explainability poses a major challenge to artificial intelligence (AI)
-techniques. Current studies on explainable AI (XAI) lack the efficiency of
-extracting global knowledge about the learning task, thus suffer deficiencies
-such as imprecise saliency, context-aware absence and vague meaning. In this
-paper, we propose the class association embedding (CAE) approach to address
-these issues. We employ an encoder-decoder architecture to embed sample
-features and separate them into class-related and individual-related style
-vectors simultaneously. Recombining the individual-style code of a given sample
-with the class-style code of another leads to a synthetic sample with preserved
-individual characters but changed class assignment, following a cyclic
-adversarial learning strategy. Class association embedding distills the global
-class-related features of all instances into a unified domain with well
-separation between classes. The transition rules between different classes can
-be then extracted and further employed to individual instances. We then propose
-an active XAI framework which manipulates the class-style vector of a certain
-sample along guided paths towards the counter-classes, resulting in a series of
-counter-example synthetic samples with identical individual characters.
-Comparing these counterfactual samples with the original ones provides a
-global, intuitive illustration to the nature of the classification tasks. We
-adopt the framework on medical image classification tasks, which show that more
-precise saliency maps with powerful context-aware representation can be
-achieved compared with existing methods. Moreover, the disease pathology can be
-directly visualized via traversing the paths in the class-style space.
-
-摘要：<paragraph>可解釋性對人工智慧 (AI) 技術構成一項重大挑戰。當前對可解釋 AI (XAI) 的研究缺乏提取學習任務整體知識的效率，因此存在不精確的顯著性、與情境無關的缺失和含糊意義等缺陷。在本文中，我們提出類別關聯嵌入 (CAE) 方法來解決這些問題。我們採用編碼器-解碼器架構來嵌入樣本特徵，並同時將它們分為類別相關和個體相關的樣式向量。將給定樣本的個體樣式代碼與另一個樣本的類別樣式代碼重新組合，會產生一個具有保留個體特徵但改變類別分配的合成樣本，遵循循環對抗學習策略。類別關聯嵌入將所有實例的全局類別相關特徵提煉到一個統一的領域中，並在類別之間有良好的區分。然後可以提取不同類別之間的轉換規則，並進一步應用於個別實例。然後，我們提出一個主動 XAI 框架，它沿著引導路徑操作特定樣本的類別樣式向量，朝著反類別移動，從而產生一系列具有相同個體特徵的反例合成樣本。將這些反事實樣本與原始樣本進行比較，可以對分類任務的性質提供全局、直觀的說明。我們採用該框架進行醫學影像分類任務，結果表明，與現有方法相比，可以獲得更精確的顯著性圖，並具有強大的與情境無關的表示。此外，疾病病理學可以直接通過在類別樣式空間中遍歷路徑來進行可視化。</paragraph>
-
-##### **HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**
-2306.06029v1 by Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona, Iker Garcia-Ferrero, Iakes Goenaga, Koldo Gojenola, Maite Oronoz, Igor Perez-Tejedor, German Rigau, Anar Yeginbergenova
-
-Providing high quality explanations for AI predictions based on machine
-learning is a challenging and complex task. To work well it requires, among
-other factors: selecting a proper level of generality/specificity of the
-explanation; considering assumptions about the familiarity of the explanation
-beneficiary with the AI task under consideration; referring to specific
-elements that have contributed to the decision; making use of additional
-knowledge (e.g. expert evidence) which might not be part of the prediction
-process; and providing evidence supporting negative hypothesis. Finally, the
-system needs to formulate the explanation in a clearly interpretable, and
-possibly convincing, way. Given these considerations, ANTIDOTE fosters an
-integrated vision of explainable AI, where low-level characteristics of the
-deep learning process are combined with higher level schemes proper of the
-human argumentation capacity. ANTIDOTE will exploit cross-disciplinary
-competences in deep learning and argumentation to support a broader and
-innovative view of explainable AI, where the need for high-quality explanations
-for clinical cases deliberation is critical. As a first result of the project,
-we publish the Antidote CasiMedicos dataset to facilitate research on
-explainable AI in general, and argumentation in the medical domain in
-particular.
-
-摘要：提供基於機器學習的 AI 預測的高品質說明是一項具有挑戰性和複雜性的任務。要順利進行，它需要具備下列因素：選擇適當的說明普遍性/特殊性層級；考量說明受益人對所考慮的 AI 任務的熟悉程度假設；參照促成決策的特定元素；利用可能不屬於預測程序的一部分的額外知識（例如專家證據）；並提供支持否定假設的證據。最後，系統需要以清晰可解釋且可能令人信服的方式制定說明。基於這些考量，ANTIDOTE 促成了可解釋 AI 的整合願景，其中深度學習程序的低階特徵與人類論證能力的高階架構相結合。ANTIDOTE 將利用深度學習與論證的跨領域能力，來支持可解釋 AI 更廣泛且創新的觀點，其中對臨床案例審議的高品質說明需求至關重要。作為該專案的第一個成果，我們發布了 Antidote CasiMedicos 資料集，以利於一般可解釋 AI 的研究，特別是醫療領域的論證。
 

@@ -14,7 +14,7 @@
 |**2024-09-24**|**Design and Evaluation of a CDSS for Drug Allergy Management Using LLMs and Pharmaceutical Data Integration**|Gabriele De Vito et.al.|[2409.16395v1](http://arxiv.org/abs/2409.16395v1)|null|
 |**2024-09-24**|**Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review**|Nikolas Koutsoubis et.al.|[2409.16340v1](http://arxiv.org/abs/2409.16340v1)|null|
 |**2024-09-24**|**Predicting Deterioration in Mild Cognitive Impairment with Survival Transformers, Extreme Gradient Boosting and Cox Proportional Hazard Modelling**|Henry Musto et.al.|[2409.16231v1](http://arxiv.org/abs/2409.16231v1)|null|
-|**2024-09-24**|**Scenario of Use Scheme: Threat Model Specification for Speaker Privacy Protection in the Medical Domain**|Mehtab Ur Rahman et.al.|[2409.16106v1](http://arxiv.org/abs/2409.16106v1)|null|
+|**2024-09-24**|**Scenario of Use Scheme: Threat Model Specification for Speaker Privacy Protection in the Medical Domain**|Mehtab Ur Rahman et.al.|[2409.16106v2](http://arxiv.org/abs/2409.16106v2)|null|
 |**2024-09-24**|**The Digital Transformation in Health: How AI Can Improve the Performance of Health Systems**|África Periáñez et.al.|[2409.16098v1](http://arxiv.org/abs/2409.16098v1)|null|
 |**2024-09-24**|**Enhancing IoT based Plant Health Monitoring through Advanced Human Plant Interaction using Large Language Models and Mobile Applications**|Kriti Agarwal et.al.|[2409.15910v1](http://arxiv.org/abs/2409.15910v1)|null|
 |**2024-09-24**|**AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support**|Adil Bahaj et.al.|[2409.15815v1](http://arxiv.org/abs/2409.15815v1)|null|
@@ -410,7 +410,7 @@ conventional statistical model.
 摘要：這篇論文提出了一種新的方法，使用 ADNI 隊伍中的代謝組學資料，在認知功能輕微受損 (MCI) 的個體中預測認知惡化，這種方法結合了生存轉換器和極端梯度提升模型。透過利用進階機器學習和基於轉換器的技術，應用於存活分析，提出的方法突顯了這些技術在阿茲海默症失智症中更準確的早期檢測和干預的潛力。這項研究也強調了非侵入性生物標記和創新建模工具在提升失智症風險評估準確度中的重要性，為臨床實務和病人照護提供了新途徑。一個包含 100 次巢狀交叉驗證重複的綜合蒙地卡羅模擬程序，其中模型經過訓練和評估，顯示基於轉換器和 XGBoost 的生存機器學習模型達到了最高的平均 C 指數表現，分別為 0.85 和 0.8，而且它們優於傳統的生存分析 Cox 比例風險模型，後者的平均 C 指數為 0.77。此外，根據蒙地卡羅模擬中獲得的 C 指數表現的標準差，我們確立了上述兩種生存機器學習模型都比傳統的統計模型更穩定。
 
 ##### **Scenario of Use Scheme: Threat Model Specification for Speaker Privacy Protection in the Medical Domain**
-2409.16106v1 by Mehtab Ur Rahman, Martha Larson, Louis ten Bosch, Cristian Tejedor-García
+2409.16106v2 by Mehtab Ur Rahman, Martha Larson, Louis ten Bosch, Cristian Tejedor-García
 
 Speech recordings are being more frequently used to detect and monitor
 disease, leading to privacy concerns. Beyond cryptography, protection of speech
@@ -427,7 +427,7 @@ speech privacy. Finally, we present a concrete example of a specified Scenario
 of Use and a set of experiments about protecting speaker data against gender
 inference attacks while maintaining utility for Parkinson's detection.
 
-摘要：語音錄音正越來越常被用於偵測和監控疾病，這引發了隱私問題。除了密碼學之外，語音保護還可以透過擾動、解糾纏和重新合成等方法來處理，這些方法消除了說話者的敏感資訊，只留下醫療分析目的所需的資訊。為了開發出此類隱私保護方法，必須明確且系統性地說明有關醫療環境和醫療專業人員需求的假設。在本文中，我們提出了一個使用情境方案，其中包含一個攻擊者模型，它描述了說話者隱私必須防範的對手，以及一個保護者模型，它指定了防禦措施。我們討論了該方案與先前關於語音隱私的研究之間的關聯。最後，我們提供了一個具體的指定使用情境範例，以及一組關於在維持帕金森氏症偵測效用的同時保護說話者資料免於性別推論攻擊的實驗。
+摘要：語音錄音正越來越常被用於偵測和監測疾病，進而引發隱私疑慮。除了密碼學之外，語音保護還能透過擾動、解糾纏和重新合成等方法來達成，這些方法消除了說話者的敏感資訊，保留了醫療分析目的所需資訊。為了發展出此類保護隱私的方法，必須清楚且系統性地說明有關醫療環境的假設和醫療專業人員的需求。在本文中，我們提出了一個使用情境方案，其中包含攻擊者模型（用於描述必須保護說話者隱私的對手）和保護者模型（用於說明防禦措施）。我們探討了該方案與先前語音隱私研究的關聯。最後，我們提出了一個具體的使用情境範例，以及一組關於在維持帕金森氏症偵測效用的同時保護說話者資料免於性別推論攻擊的實驗。
 
 ##### **The Digital Transformation in Health: How AI Can Improve the Performance of Health Systems**
 2409.16098v1 by África Periáñez, Ana Fernández del Río, Ivan Nazarov, Enric Jané, Moiz Hassan, Aditya Rastogi, Dexian Tang

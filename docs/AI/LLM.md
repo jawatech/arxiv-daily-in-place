@@ -29,7 +29,7 @@
 |**2024-09-25**|**AI-Driven Risk-Aware Scheduling for Active Debris Removal Missions**|Antoine Poupon et.al.|[2409.17012v1](http://arxiv.org/abs/2409.17012v1)|null|
 |**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011v1](http://arxiv.org/abs/2409.17011v1)|null|
 |**2024-09-25**|**Models Can and Should Embrace the Communicative Nature of Human-Generated Math**|Sasha Boguraev et.al.|[2409.17005v1](http://arxiv.org/abs/2409.17005v1)|null|
-|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997v1](http://arxiv.org/abs/2409.16997v1)|[link](https://github.com/int-flashattention2024/int-flashattention)|
+|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997v2](http://arxiv.org/abs/2409.16997v2)|[link](https://github.com/int-flashattention2024/int-flashattention)|
 |**2024-09-25**|**Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**|Chi Zhang et.al.|[2409.16986v1](http://arxiv.org/abs/2409.16986v1)|null|
 |**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984v1](http://arxiv.org/abs/2409.16984v1)|null|
 |**2024-09-25**|**Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions**|Zeyneb N. Kaya et.al.|[2409.16974v1](http://arxiv.org/abs/2409.16974v1)|null|
@@ -39,7 +39,7 @@
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938v1](http://arxiv.org/abs/2409.16938v1)|[link](https://github.com/jiutongbro/multiview_inpaint)|
 |**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v1](http://arxiv.org/abs/2409.16937v1)|[link](https://github.com/yc-li20/semi-supervised-training)|
-|**2024-09-25**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934v1](http://arxiv.org/abs/2409.16934v1)|null|
+|**2024-09-25**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934v2](http://arxiv.org/abs/2409.16934v2)|null|
 |**2024-09-25**|**Quantum-Classical Sentiment Analysis**|Mario Bifulco et.al.|[2409.16928v1](http://arxiv.org/abs/2409.16928v1)|null|
 |**2024-09-25**|**Cross-lingual Speech Emotion Recognition: Humans vs. Self-Supervised Models**|Zhichen Han et.al.|[2409.16920v1](http://arxiv.org/abs/2409.16920v1)|[link](https://github.com/zhan7721/crosslingual_ser)|
 |**2024-09-25**|**Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness**|Shixuan Ma et.al.|[2409.16914v1](http://arxiv.org/abs/2409.16914v1)|[link](https://github.com/shixuan-ma/tocsin)|
@@ -101,7 +101,7 @@
 |**2024-09-25**|**Training Language Models to Win Debates with Self-Play Improves Judge Accuracy**|Samuel Arnesen et.al.|[2409.16636v1](http://arxiv.org/abs/2409.16636v1)|[link](https://github.com/samuelarnesen/nyu-debate-modeling)|
 |**2024-09-25**|**Judgment of Thoughts: Courtroom of the Binary Logical Reasoning in Large Language Models**|Sungjune Park et.al.|[2409.16635v1](http://arxiv.org/abs/2409.16635v1)|null|
 |**2024-09-25**|**Stochastic Subsampling With Average Pooling**|Bum Jun Kim et.al.|[2409.16630v1](http://arxiv.org/abs/2409.16630v1)|null|
-|**2024-09-25**|**Ascend HiFloat8 Format for Deep Learning**|Yuanyong Luo et.al.|[2409.16626v1](http://arxiv.org/abs/2409.16626v1)|null|
+|**2024-09-25**|**Ascend HiFloat8 Format for Deep Learning**|Yuanyong Luo et.al.|[2409.16626v2](http://arxiv.org/abs/2409.16626v2)|null|
 
 #### Abstracts
 ##### **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**
@@ -750,7 +750,7 @@ intentions latent in human-generated math.
 摘要：數學是由人為人建構的：就像自然語言語料庫不僅反映命題，也反映語言使用者的溝通目標，模型訓練的數學資料不僅反映理想化的數學實體，也反映豐富的溝通意圖。雖然以純粹的符號方式處理數學具有重要的優點，但我們在此假設將數學視為情境化的語言溝通是有好處的，並且語言模型非常適合這個目標，這點尚未被充分理解。我們用兩個案例研究來說明這些觀點。首先，我們進行了一個實驗，發現語言模型以類似人類的方式詮釋等號，針對以不同方式排列的相同基礎方程式，系統性地產生不同的文字題。其次，我們發現語言模型偏好以自然主義的方式排列證明，即使其他順序在邏輯上是等價的。我們提倡學習並表示人類產生的數學中潛在的溝通意圖的人工智慧系統。
 
 ##### **INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**
-2409.16997v1 by Shimao Chen, Zirui Liu, Zhiying Wu, Ce Zheng, Peizhuang Cong, Zihan Jiang, Lei Su, Tong Yang
+2409.16997v2 by Shimao Chen, Zirui Liu, Zhiying Wu, Ce Zheng, Peizhuang Cong, Zihan Jiang, Yuhan Wu, Lei Su, Tong Yang
 
 As the foundation of large language models (LLMs), self-attention module
 faces the challenge of quadratic time and memory complexity with respect to
@@ -768,7 +768,7 @@ INT4, etc. Experimental results show INT-FlashAttention achieves 72% faster
 inference speed and 82% smaller quantization error compared to standard
 FlashAttention with FP16 and FP8 data format.
 
-摘要：由於大型語言模型 (LLM) 的基礎，自注意力模組在序列長度方面面臨二次時間和記憶體複雜性的挑戰。FlashAttention 透過利用 GPU 記憶體階層加速注意力運算並減少其記憶體使用量。一個有前景的研究方向是將 FlashAttention 與量化方法整合。本文介紹 INT-FlashAttention，這是第一個與 FlashAttention 的前向工作流程相容的 INT8 量化架構，它顯著提升了 FlashAttention 在 Ampere GPU 上的推論速度。我們以完全 INT8 啟動和一般矩陣乘法 (GEMM) 核心實作我們的 INT-FlashAttention 原型，使其成為第一個具有完全 INT8 輸入的注意力運算子。作為一個通用的令牌級後訓練量化架構，INT-FlashAttention 也與其他資料格式相容，例如 INT4 等。實驗結果顯示，與具有 FP16 和 FP8 資料格式的標準 FlashAttention 相比，INT-FlashAttention 達到 72% 更快的推論速度和 82% 更小的量化誤差。
+摘要：作為大型語言模型 (LLM) 的基礎，自注意力模組在序列長度方面面臨二次時間和記憶體複雜度的挑戰。FlashAttention 透過利用 GPU 記憶體階層來加速注意力計算並減少其記憶體使用量。一個有前途的研究方向是將 FlashAttention 與量化方法整合在一起。本文介紹 INT-FlashAttention，這是第一個與 FlashAttention 的前向工作流程相容的 INT8 量化架構，它顯著提升了 FlashAttention 在 Ampere GPU 上的推論速度。我們實作了具有完整 INT8 啟用和一般矩陣乘法 (GEMM) 核心之 INT-FlashAttention 原型，使其成為第一個具有完整 INT8 輸入的注意力運算子。作為一個通用的標記層級後訓練量化架構，INT-FlashAttention 也與其他資料格式相容，例如 INT4 等。實驗結果顯示，與具有 FP16 和 FP8 資料格式的標準 FlashAttention 相比，INT-FlashAttention 的推論速度快了 72%，量化誤差小了 82%。
 
 ##### **Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**
 2409.16986v1 by Chi Zhang, Huaping Zhong, Kuan Zhang, Chengliang Chai, Rui Wang, Xinlin Zhuang, Tianyi Bai, Jiantao Qiu, Lei Cao, Ye Yuan, Guoren Wang, Conghui He
@@ -978,7 +978,7 @@ selected baselines.
 摘要：標籤資料的缺乏是語音分類任務中常見的挑戰，特別是需要廣泛主觀評估的任務，例如認知狀態分類。在這項工作中，我們提出一個半監督式學習 (SSL) 架構，引進一種新穎的多視角偽標籤方法，該方法利用聲學和語言特徵來選擇最可靠的資料以訓練分類模型。在聲學上，使用由多個音訊編碼器產生的嵌入計算的 Frechet 音訊距離，將未標籤資料與標籤資料進行比較。在語言學上，提示大型語言模型修改自動語音辨識轉錄，並根據我們提出的特定任務知識預測標籤。當來自兩個來源的偽標籤對齊時，會識別出高可靠性資料，而錯配則視為低可靠性資料。然後訓練一個雙峰分類器，以反覆標籤低可靠性資料，直到符合預定義的準則。我們在情緒辨識和失智症檢測任務上評估我們的 SSL 架構。實驗結果表明，與僅使用 30% 標籤資料的全監督式學習相比，我們的方法獲得了具有競爭力的效能，並且明顯優於兩個選定的基準。
 
 ##### **Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**
-2409.16934v1 by Emanuela Boros, Maud Ehrmann
+2409.16934v2 by Emanuela Boros, Maud Ehrmann
 
 This paper investigates the presence of OCR-sensitive neurons within the
 Transformer architecture and their influence on named entity recognition (NER)
@@ -990,7 +990,7 @@ existence of OCR-sensitive regions and show improvements in NER performance on
 historical newspapers and classical commentaries, highlighting the potential of
 targeted neuron modulation to improve models' performance on noisy text.
 
-摘要：本文探討了 Transformer 架構中 OCR 敏感神經元的存在，以及它們對歷史文件命名實體識別 (NER) 效能的影響。透過分析神經元在回應乾淨和有雜訊的文字輸入時的啟動模式，我們識別出 OCR 敏感神經元，並將其無效化以改善模型效能。根據兩個開放取用的大型語言模型 (Llama2 和 Mistral)，實驗證明了 OCR 敏感區域的存在，並顯示出在歷史報紙和古典評論中 NER 效能的提升，突顯了有針對性的神經元調變在改善模型對有雜訊文字的效能方面的潛力。
+摘要：本文探討了 Transformer 架構中 OCR 敏感神經元的存在，以及它們對歷史文件中的命名實體辨識 (NER) 效能的影響。透過分析神經元在回應乾淨和有雜訊的文字輸入時的活化模式，我們找出 OCR 敏感神經元，然後將其無效化，以提升模型效能。根據兩個開放取用的大型語言模型 (Llama2 和 Mistral)，實驗證實了 OCR 敏感區域的存在，並顯示了歷史報紙和古典評論中的 NER 效能提升，突顯了目標神經元調變在提升模型對有雜訊文字的效能上的潛力。
 
 ##### **Quantum-Classical Sentiment Analysis**
 2409.16928v1 by Mario Bifulco, Luca Roversi
@@ -2372,22 +2372,22 @@ models.
 摘要：深度神经网络的正则化一直是实现更高泛化性能而不出现过拟合问题的一个重要课题。尽管流行的 Dropout 方法提供了一种正则化效果，但它会导致输出中的属性不一致，这可能会降低深度神经网络的性能。在本研究中，我们提出了一种称为随机平均池化的全新模块，它在池化中纳入了类似 Dropout 的随机性。我们描述了随机子采样和平均池化的属性，并利用它们设计了一个不存在任何不一致问题的模块。随机平均池化实现了一种正则化效果，不会因不一致问题而导致任何潜在的性能下降，并且可以轻松插入现有深度神经网络架构中。实验表明，用随机平均池化替换现有的平均池化，可以在各种任务、数据集和模型中产生一致的改进。
 
 ##### **Ascend HiFloat8 Format for Deep Learning**
-2409.16626v1 by Yuanyong Luo, Zhongxing Zhang, Richard Wu, Hu Liu, Ying Jin, Kai Zheng, Minmin Wang, Zhanying He, Guipeng Hu, Luyao Chen, Tianchi Hu, Junsong Wang, Minqi Chen, Mikhaylov Dmitry, Korviakov Vladimir, Bobrin Maxim, Yuhao Hu, Guanfu Chen, Zeyi Huang
+2409.16626v2 by Yuanyong Luo, Zhongxing Zhang, Richard Wu, Hu Liu, Ying Jin, Kai Zheng, Minmin Wang, Zhanying He, Guipeng Hu, Luyao Chen, Tianchi Hu, Junsong Wang, Minqi Chen, Mikhaylov Dmitry, Korviakov Vladimir, Bobrin Maxim, Yuhao Hu, Guanfu Chen, Zeyi Huang
 
 This preliminary white paper proposes a novel 8-bit floating-point data
 format HiFloat8 (abbreviated as HiF8) for deep learning. HiF8 features tapered
-precision. For normal value encoding, it provides 7 exponents with 3-bit
-mantissa, 8 exponents with 2-bit mantissa, and 16 exponents with 1-bit
-mantissa. For denormal or subnormal value encoding, it extends the dynamic
-range by 7 extra powers of 2, from 31 to 38 binades (notice that FP16 covers 40
-binades). Meanwhile, HiF8 encodes all the special values except that positive
-zero and negative zero are represented by only one bit-pattern. Thanks to the
-better balance between precision and dynamic range, HiF8 can be simultaneously
-used in both forward and backward passes of AI training. In this paper, we will
+precision. For normal value encoding, it provides 7 exponent values with 3-bit
+mantissa, 8 exponent values with 2-bit mantissa, and 16 exponent values with
+1-bit mantissa. For denormal value encoding, it extends the dynamic range by 7
+extra powers of 2, from 31 to 38 binades (notice that FP16 covers 40 binades).
+Meanwhile, HiF8 encodes all the special values except that positive zero and
+negative zero are represented by only one bit-pattern. Thanks to the better
+balance between precision and dynamic range, HiF8 can be simultaneously used in
+both forward and backward passes of AI training. In this paper, we will
 describe the definition and rounding methods of HiF8, as well as the tentative
-training and inference solutions. To demonstrate the efficacy of HiF8 format,
-massive simulation results on various neural networks, including traditional
-neural networks and large language models (LLMs), will also be presented.
+training and inference solutions. To demonstrate the efficacy of HiF8, massive
+simulation results on various neural networks, including traditional neural
+networks and large language models (LLMs), will also be presented.
 
-摘要：這份初步白皮書提出了一種新的 8 位浮點數據格式 HiFloat8 (簡稱 HiF8)，用於深度學習。HiF8 特色為漸變精度。對於一般數值編碼，它提供 7 個指數搭配 3 位尾數、8 個指數搭配 2 位尾數，以及 16 個指數搭配 1 位尾數。對於非正規或次正規數值編碼，它將動態範圍延伸 7 個額外的 2 的次方，從 31 到 38 個雙進位（請注意 FP16 涵蓋 40 個雙進位）。同時，HiF8 編碼所有特殊數值，但正零和負零僅以一個位元模式表示。由於精度和動態範圍之間取得了更好的平衡，因此 HiF8 可以同時用於 AI 訓練的前向和後向傳遞。在本文中，我們將描述 HiF8 的定義和捨入方法，以及暫定的訓練和推理解決方案。為了展示 HiF8 格式的效力，我們也會提供在各種神經網路上的大量模擬結果，包括傳統神經網路和大型語言模型 (LLM)。
+摘要：這份初步白皮書提出了一種創新的 8 位元浮點數資料格式 HiFloat8（簡稱 HiF8），用於深度學習。HiF8 具有漸變精度。對於一般數值編碼，它提供 7 個指數值，具有 3 位元尾數，8 個指數值，具有 2 位元尾數，以及 16 個指數值，具有 1 位元尾數。對於非正規數值編碼，它將動態範圍延伸 7 個 2 的次方，從 31 到 38 個二進位（請注意 FP16 涵蓋 40 個二進位）。同時，HiF8 編碼所有特殊值，除了正零和負零僅用一個位元模式表示。由於精度和動態範圍之間取得更好的平衡，因此 HiF8 可同時用於 AI 訓練的前向和後向傳遞。在本文中，我們將說明 HiF8 的定義和捨入方法，以及暫定的訓練和推論解決方案。為了證明 HiF8 的效能，我們還將展示各種神經網路的大量模擬結果，包括傳統神經網路和大型語言模型 (LLM)。
 

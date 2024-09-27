@@ -52,7 +52,7 @@
 |**2024-09-10**|**Generative Hierarchical Materials Search**|Sherry Yang et.al.|[2409.06762v1](http://arxiv.org/abs/2409.06762v1)|null|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433v1](http://arxiv.org/abs/2409.06433v1)|null|
 |**2024-09-10**|**TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**|HuangChao Xu et.al.|[2409.13732v1](http://arxiv.org/abs/2409.13732v1)|null|
-|**2024-09-10**|**KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation**|Lei Liang et.al.|[2409.13731v2](http://arxiv.org/abs/2409.13731v2)|null|
+|**2024-09-10**|**KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation**|Lei Liang et.al.|[2409.13731v3](http://arxiv.org/abs/2409.13731v3)|null|
 |**2024-09-09**|**Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**|Dongyue Li et.al.|[2409.06091v1](http://arxiv.org/abs/2409.06091v1)|[link](https://github.com/virtuosoresearch/scalablemtl)|
 |**2024-09-09**|**OneEdit: A Neural-Symbolic Collaboratively Knowledge Editing System**|Ningyu Zhang et.al.|[2409.07497v1](http://arxiv.org/abs/2409.07497v1)|[link](https://github.com/zjunlp/oneedit)|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|[link](https://github.com/lamm-mit/SciAgentsDiscovery)|
@@ -1284,7 +1284,7 @@ thereby encouraging the advancement on the ffeld of condensed matter materials.
 摘要：大型語言模型（LLM），例如 ChatGPT，在文本生成任務中展現了令人印象深刻的表現，展現了理解和回應複雜指令的能力。然而，由於缺乏特定領域的語料庫和專業訓練，天真的 LLM 在特定領域的表現受到限制。此外，訓練一個專業的大規模模型需要大量的硬體資源，這限制了研究人員利用這些模型來推動進展。因此，進一步改進和優化 LLM 以滿足特定領域的需求並增強其可擴充性至關重要。基於凝聚態資料中心，我們建立了一個材料知識圖譜（MaterialsKG），並將其與文獻整合。使用大型語言模型和提示學習，我們開發了一個名為 TopoChat 的拓撲材料專用對話系統。與天真的 LLM 相比，TopoChat 在結構和屬性查詢、材料推薦和複雜關係推理方面表現出優異的性能。該系統能夠有效且準確地檢索資訊，並促進知識互動，從而促進凝聚態材料領域的進步。
 
 ##### **KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation**
-2409.13731v2 by Lei Liang, Mengshu Sun, Zhengke Gui, Zhongshu Zhu, Zhouyu Jiang, Ling Zhong, Yuan Qu, Peilong Zhao, Zhongpu Bo, Jin Yang, Huaidong Xiong, Lin Yuan, Jun Xu, Zaoyang Wang, Zhiqiang Zhang, Wen Zhang, Huajun Chen, Wenguang Chen, Jun Zhou
+2409.13731v3 by Lei Liang, Mengshu Sun, Zhengke Gui, Zhongshu Zhu, Zhouyu Jiang, Ling Zhong, Yuan Qu, Peilong Zhao, Zhongpu Bo, Jin Yang, Huaidong Xiong, Lin Yuan, Jun Xu, Zaoyang Wang, Zhiqiang Zhang, Wen Zhang, Huajun Chen, Wenguang Chen, Jun Zhou
 
 The recently developed retrieval-augmented generation (RAG) technology has
 enabled the efficient construction of domain-specific applications. However, it
@@ -1308,7 +1308,7 @@ have successfully applied KAG to two professional knowledge Q&A tasks of Ant
 Group, including E-Government Q&A and E-Health Q&A, achieving significant
 improvement in professionalism compared to RAG methods.
 
-摘要：最近開發的檢索增強生成 (RAG) 技術已能有效建構特定領域的應用程式。然而，它也有一些限制，包括向量相似性與知識推理關聯性之間的差距，以及對知識邏輯的不敏感性，例如數值、時間關係、專家規則等，這些都阻礙了專業知識服務的效能。在這項工作中，我們介紹了一個名為知識增強生成 (KAG) 的專業領域知識服務架構。KAG 的設計目的是為了透過充分利用知識圖譜 (KG) 和向量檢索的優勢，並透過雙向增強大型語言模型 (LLM) 和 KG 來改善生成和推理效能，從而解決上述挑戰，具體做法包括五個關鍵方面：(1) LLM 友善的知識表徵，(2) 知識圖譜和原始區塊之間的相互索引，(3) 邏輯形式導向的混合推理引擎，(4) 具有語意推理的知識對齊，以及 (5) KAG 的模型能力增強。我們將 KAG 與現有的 RAG 方法進行多跳式問答比較，發現它顯著優於最先進的方法，在 F1 分數方面分別在 2wiki 上提升了 19.6%，在 hotpotQA 上提升了 33.5%。我們已成功將 KAG 應用於螞蟻集團的兩個專業知識問答任務，包括電子政務問答和電子健康問答，與 RAG 方法相比，在專業性方面取得了顯著的進步。
+摘要：最近開發的檢索增強生成 (RAG) 技術已能有效建構特定領域的應用程式。然而，它也有一些限制，包括向量相似度與知識推理相關性之間的差距，以及對知識邏輯的不敏感性，例如數字值、時間關係、專家規則等，這些限制阻礙了專業知識服務的有效性。在這項工作中，我們引入了稱為知識增強生成 (KAG) 的專業領域知識服務架構。KAG 旨在解決上述挑戰，目的是充分利用知識圖 (KG) 和向量檢索的優勢，並通過以下五個關鍵方面雙向增強大型語言模型 (LLM) 和 KG 來改善生成和推理效能：(1) LLM 友善的知識表示，(2) 知識圖與原始區塊之間的相互索引，(3) 邏輯形式引導的混合推理引擎，(4) 與語義推理的知識對齊，以及 (5) KAG 的模型功能增強。我們在多跳問題解答中比較了 KAG 與現有的 RAG 方法，發現它顯著優於現有技術，在 F1 分數方面，在 2wiki 上提高了 19.6%，在 hotpotQA 上提高了 33.5%。我們已成功將 KAG 應用於螞蟻集團的兩個專業知識問答任務，包括電子政務問答和電子健康問答，與 RAG 方法相比，專業性有顯著提升。
 
 ##### **Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**
 2409.06091v1 by Dongyue Li, Aneesh Sharma, Hongyang R. Zhang

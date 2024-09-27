@@ -12,7 +12,7 @@
 |**2024-09-23**|**End-to-End Graph Flattening Method for Large Language Models**|Bin Hong et.al.|[2409.14880v1](http://arxiv.org/abs/2409.14880v1)|null|
 |**2024-09-22**|**RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph**|Linxi Wei et.al.|[2409.14556v1](http://arxiv.org/abs/2409.14556v1)|null|
 |**2024-09-21**|**Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature**|Linxiao Wu et.al.|[2409.14000v1](http://arxiv.org/abs/2409.14000v1)|null|
-|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537v1](http://arxiv.org/abs/2409.13537v1)|null|
+|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537v1](http://arxiv.org/abs/2409.13537v1)|[link](https://github.com/zaiwen/cropgpt)|
 |**2024-09-20**|**LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR**|Iuliia Thorbecke et.al.|[2409.13514v1](http://arxiv.org/abs/2409.13514v1)|null|
 |**2024-09-20**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447v2](http://arxiv.org/abs/2409.13447v2)|null|
 |**2024-09-20**|**GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification**|Ximing Wen et.al.|[2409.13312v1](http://arxiv.org/abs/2409.13312v1)|null|

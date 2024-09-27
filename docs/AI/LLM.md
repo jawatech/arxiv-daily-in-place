@@ -49,7 +49,7 @@
 |**2024-09-25**|**Discriminative Anchor Learning for Efficient Multi-view Clustering**|Yalan Qin et.al.|[2409.16904v1](http://arxiv.org/abs/2409.16904v1)|null|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902v1](http://arxiv.org/abs/2409.16902v1)|[link](https://github.com/983632847/awesome-multimodal-object-tracking)|
 |**2024-09-25**|**A Roadmap for Embodied and Social Grounding in LLMs**|Sara Incao et.al.|[2409.16900v1](http://arxiv.org/abs/2409.16900v1)|null|
-|**2024-09-25**|**AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**|Jaeyoung Huh et.al.|[2409.16898v1](http://arxiv.org/abs/2409.16898v1)|null|
+|**2024-09-25**|**AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**|Jaeyoung Huh et.al.|[2409.16898v2](http://arxiv.org/abs/2409.16898v2)|null|
 |**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884v1](http://arxiv.org/abs/2409.16884v1)|null|
 |**2024-09-25**|**Revisiting Space Mission Planning: A Reinforcement Learning-Guided Approach for Multi-Debris Rendezvous**|Agni Bandyopadhyay et.al.|[2409.16882v1](http://arxiv.org/abs/2409.16882v1)|null|
 |**2024-09-25**|**Automating Traffic Model Enhancement with AI Research Agent**|Xusen Guo et.al.|[2409.16876v1](http://arxiv.org/abs/2409.16876v1)|null|
@@ -1193,7 +1193,7 @@ experience.
 摘要：大型語言模型 (LLM) 和機器人系統的融合，在機器人領域中帶來了轉型的典範，不僅在溝通領域，在多模態輸入處理、高階推理和計畫生成等技能方面，也提供了無與倫比的能力。將 LLM 知識基礎化到經驗世界中，被認為是利用 LLM 在機器人技術中效率的一條關鍵途徑。儘管如此，將 LLM 的表示與外部世界連接起來，透過多模態方法或機器人的身體，還不足以讓它們理解所操作語言的含義。從人類身上汲取靈感，這項工作提請注意，一個代理人掌握和體驗世界所需的三個必要元素。LLM 基礎的路線圖，被設想在一個活躍的身體系統中，作為體驗環境的參考點，一個時間結構化的體驗，用於與外部世界的連貫、自我相關的互動，以及社會技能，以獲得一個共同基礎的共享體驗。
 
 ##### **AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**
-2409.16898v1 by Jaeyoung Huh, Paul Klein, Gareth Funka-Lea, Puneet Sharma, Ankur Kapoor, Young-Ho Kim
+2409.16898v2 by Jaeyoung Huh, Paul Klein, Gareth Funka-Lea, Puneet Sharma, Ankur Kapoor, Young-Ho Kim
 
 Intra-cardiac Echocardiography (ICE) is a crucial imaging modality used in
 electrophysiology (EP) and structural heart disease (SHD) interventions,
@@ -1214,7 +1214,7 @@ simulation-based evaluation, achieving an 89% success rate with the 6532 test
 dataset, highlighting its potential to improve the accuracy and efficiency of
 ICE imaging procedures.
 
-摘要：心內超音波檢查 (ICE) 是一種關鍵的影像模式，用於電生理學 (EP) 和結構性心臟疾病 (SHD) 的介入治療，可從心臟內部提供即時、高解析度的影像。儘管有這些優點，但有效操作 ICE 導管需要相當的專業知識，這可能會導致不一致的結果，尤其是在經驗較少的操作員中。為了應對這個挑戰，我們提出一個以 AI 為驅動的閉環視圖引導系統，並結合人機環回饋，旨在協助使用者在不需要專業知識的情況下導航 ICE 影像。我們的模型模擬了任意視圖和臨床定義的 ICE 視圖之間的相對位置和方向向量，在一個空間座標系統中引導使用者如何操作 ICE 導管，以隨著時間從目前的視圖過渡到期望的視圖。在閉環配置中操作時，系統會持續預測和更新必要的導管操作，確保無縫整合到現有的臨床工作流程中。所提出的系統的有效性透過基於模擬的評估得到證明，在 6532 個測試資料集中達到 89% 的成功率，突顯其改善 ICE 影像程序的準確性和效率的潛力。
+摘要：心內超音波 (ICE) 是一種重要的影像模式，用於電生理 (EP) 和結構性心臟疾病 (SHD) 的介入治療，提供來自心臟內部的高解析度即時影像。儘管有這些優點，但有效操作 ICE 導管需要大量的專業知識，這可能會導致不一致的結果，尤其是在經驗較少的操作者中。為了應對這個挑戰，我們提出了一種以 AI 為驅動的閉環視圖引導系統，並結合人為回饋，旨在協助使用者在不需要專業知識的情況下導航 ICE 影像。我們的模型方法在空間座標系統中建構任意視圖和臨床定義的 ICE 視圖之間的相對位置和方向向量，引導使用者如何操作 ICE 導管，以隨著時間推移從目前的視圖轉換到所需的視圖。系統在閉環配置中運作，持續預測和更新必要的導管操作，確保無縫整合到現有的臨床工作流程中。所提出的系統的有效性透過基於模擬的評估得到證明，在 6532 個測試數據集中實現了 89% 的成功率，突顯了其改善 ICE 影像程序準確性和效率的潛力。
 
 ##### **Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**
 2409.16884v1 by Aram Khaksar, Hossein Hassani

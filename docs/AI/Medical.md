@@ -6,7 +6,7 @@
 |**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055v1](http://arxiv.org/abs/2409.17055v1)|[link](https://github.com/lucas-rbnt/drim)|
 |**2024-09-25**|**Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia**|Azmul Asmar Irfan et.al.|[2409.17054v1](http://arxiv.org/abs/2409.17054v1)|null|
 |**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045v1](http://arxiv.org/abs/2409.17045v1)|null|
-|**2024-09-25**|**AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**|Jaeyoung Huh et.al.|[2409.16898v1](http://arxiv.org/abs/2409.16898v1)|null|
+|**2024-09-25**|**AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**|Jaeyoung Huh et.al.|[2409.16898v2](http://arxiv.org/abs/2409.16898v2)|null|
 |**2024-09-25**|**The Role of Language Models in Modern Healthcare: A Comprehensive Review**|Amna Khalid et.al.|[2409.16860v1](http://arxiv.org/abs/2409.16860v1)|null|
 |**2024-09-25**|**A Multi-Dataset Classification-Based Deep Learning Framework for Electronic Health Records and Predictive Analysis in Healthcare**|Syed Mohd Faisal Malik et.al.|[2409.16721v1](http://arxiv.org/abs/2409.16721v1)|null|
 |**2024-09-25**|**Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels**|Yishu Wei et.al.|[2409.16563v1](http://arxiv.org/abs/2409.16563v1)|null|
@@ -217,7 +217,7 @@ approaches to bootstrap foundation models to process technical images.
 摘要：<paragraph>我們提供了一個資料集，用於在工程設計中啟用深度生成模型 (DGM)，並提出透過利用大規模基礎模型自動化資料標籤的方法。GeoBiked 經過策展，包含 4,355 張自行車影像，並附有結構和技術特徵註解，且用於調查兩種自動化標籤技術：利用影像生成模型的整合潛在特徵（超特徵）來偵測結構影像中的幾何對應（例如車輪中心的位子），以及為結構影像產生多樣化的文字描述。GPT-4o 是一個視覺語言模型 (VLM)，指示要分析影像並產生與系統提示一致的多樣化描述。透過將技術影像表示為擴散超特徵，就可以繪製它們之間的幾何對應。透過呈現多個帶註解的來源影像，可以改善在未見樣本中幾何點的偵測準確度。GPT-4o 具有足夠的能力來產生技術影像的準確描述。僅根據影像進行基礎會產生多樣化的描述，但會產生幻覺，而根據分類標籤進行基礎則會限制多樣性。將兩者都用作輸入，可以平衡創造力和準確性。成功地將超特徵用於幾何對應，表示這種方法可用於技術影像中的一般點偵測和註解任務。使用 VLM 標籤此類影像的文字描述是可行的，但取決於模型的偵測能力、仔細的提示工程和輸入資訊的選擇。在工程設計中應用基礎模型在很大程度上尚未探索。我們旨在透過一個資料集來填補這個空白，以探索在這個領域訓練、微調和調整 DGM，並建議引導基礎模型處理技術影像的方法。</paragraph>
 
 ##### **AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**
-2409.16898v1 by Jaeyoung Huh, Paul Klein, Gareth Funka-Lea, Puneet Sharma, Ankur Kapoor, Young-Ho Kim
+2409.16898v2 by Jaeyoung Huh, Paul Klein, Gareth Funka-Lea, Puneet Sharma, Ankur Kapoor, Young-Ho Kim
 
 Intra-cardiac Echocardiography (ICE) is a crucial imaging modality used in
 electrophysiology (EP) and structural heart disease (SHD) interventions,
@@ -238,7 +238,7 @@ simulation-based evaluation, achieving an 89% success rate with the 6532 test
 dataset, highlighting its potential to improve the accuracy and efficiency of
 ICE imaging procedures.
 
-摘要：心內超音波檢查 (ICE) 是一種關鍵的影像模式，用於電生理學 (EP) 和結構性心臟疾病 (SHD) 的介入治療，可從心臟內部提供即時、高解析度的影像。儘管有這些優點，但有效操作 ICE 導管需要相當的專業知識，這可能會導致不一致的結果，尤其是在經驗較少的操作員中。為了應對這個挑戰，我們提出一個以 AI 為驅動的閉環視圖引導系統，並結合人機環回饋，旨在協助使用者在不需要專業知識的情況下導航 ICE 影像。我們的模型模擬了任意視圖和臨床定義的 ICE 視圖之間的相對位置和方向向量，在一個空間座標系統中引導使用者如何操作 ICE 導管，以隨著時間從目前的視圖過渡到期望的視圖。在閉環配置中操作時，系統會持續預測和更新必要的導管操作，確保無縫整合到現有的臨床工作流程中。所提出的系統的有效性透過基於模擬的評估得到證明，在 6532 個測試資料集中達到 89% 的成功率，突顯其改善 ICE 影像程序的準確性和效率的潛力。
+摘要：心內超音波 (ICE) 是一種重要的影像模式，用於電生理 (EP) 和結構性心臟疾病 (SHD) 的介入治療，提供來自心臟內部的高解析度即時影像。儘管有這些優點，但有效操作 ICE 導管需要大量的專業知識，這可能會導致不一致的結果，尤其是在經驗較少的操作者中。為了應對這個挑戰，我們提出了一種以 AI 為驅動的閉環視圖引導系統，並結合人為回饋，旨在協助使用者在不需要專業知識的情況下導航 ICE 影像。我們的模型方法在空間座標系統中建構任意視圖和臨床定義的 ICE 視圖之間的相對位置和方向向量，引導使用者如何操作 ICE 導管，以隨著時間推移從目前的視圖轉換到所需的視圖。系統在閉環配置中運作，持續預測和更新必要的導管操作，確保無縫整合到現有的臨床工作流程中。所提出的系統的有效性透過基於模擬的評估得到證明，在 6532 個測試數據集中實現了 89% 的成功率，突顯了其改善 ICE 影像程序準確性和效率的潛力。
 
 ##### **The Role of Language Models in Modern Healthcare: A Comprehensive Review**
 2409.16860v1 by Amna Khalid, Ayma Khalid, Umar Khalid

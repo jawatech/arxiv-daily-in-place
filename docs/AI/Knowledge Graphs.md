@@ -2,6 +2,7 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**|Zahra Sepasdar et.al.|[2409.17580v1](http://arxiv.org/abs/2409.17580v1)|null|
 |**2024-09-25**|**Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**|Juliette Faille et.al.|[2409.16707v1](http://arxiv.org/abs/2409.16707v1)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v1](http://arxiv.org/abs/2409.16670v1)|null|
 |**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176v1](http://arxiv.org/abs/2409.16176v1)|null|
@@ -101,9 +102,34 @@
 |**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v2](http://arxiv.org/abs/2408.12333v2)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
 |**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116v1](http://arxiv.org/abs/2408.12116v1)|null|
-|**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449v1](http://arxiv.org/abs/2408.11449v1)|null|
 
 #### Abstracts
+##### **Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**
+2409.17580v1 by Zahra Sepasdar, Sushant Gautam, Cise Midoglu, Michael A. Riegler, Pål Halvorsen
+
+Extracting meaningful insights from large and complex datasets poses
+significant challenges, particularly in ensuring the accuracy and relevance of
+retrieved information. Traditional data retrieval methods such as sequential
+search and index-based retrieval often fail when handling intricate and
+interconnected data structures, resulting in incomplete or misleading outputs.
+To overcome these limitations, we introduce Structured-GraphRAG, a versatile
+framework designed to enhance information retrieval across structured datasets
+in natural language queries. Structured-GraphRAG utilizes multiple knowledge
+graphs, which represent data in a structured format and capture complex
+relationships between entities, enabling a more nuanced and comprehensive
+retrieval of information. This graph-based approach reduces the risk of errors
+in language model outputs by grounding responses in a structured format,
+thereby enhancing the reliability of results. We demonstrate the effectiveness
+of Structured-GraphRAG by comparing its performance with that of a recently
+published method using traditional retrieval-augmented generation. Our findings
+show that Structured-GraphRAG significantly improves query processing
+efficiency and reduces response times. While our case study focuses on soccer
+data, the framework's design is broadly applicable, offering a powerful tool
+for data analysis and enhancing language model applications across various
+structured domains.
+
+摘要：從龐大且複雜的資料集中萃取出有意義的見解會帶來顯著的挑戰，特別是在確保擷取資訊的準確性和相關性方面。傳統的資料擷取方法，例如順序搜尋和基於索引的擷取，在處理複雜且相互連結的資料結構時，常常會失敗，導致不完整或誤導性的輸出。為了克服這些限制，我們引入了結構化圖形 RAG，這是一個通用框架，旨在增強自然語言查詢中結構化資料集的資訊擷取。結構化圖形 RAG 利用多個知識圖形，它們以結構化格式表示資料，並擷取實體之間的複雜關係，從而實現更細緻且全面的資訊擷取。這種基於圖形的做法透過以結構化格式為基礎回應，降低語言模型輸出中出現錯誤的風險，從而提高結果的可靠性。我們透過將結構化圖形 RAG 的效能與最近發表的傳統擷取增強生成方法進行比較，來證明其有效性。我們的研究結果顯示，結構化圖形 RAG 大幅提升了查詢處理效率，並縮短了回應時間。雖然我們的案例研究專注於足球資料，但這個架構的設計具有廣泛的適用性，提供了一個強大的資料分析工具，並增強了各種結構化領域的語言模型應用。
+
 ##### **Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**
 2409.16707v1 by Juliette Faille, Albert Gatt, Claire Gardent
 
@@ -2503,28 +2529,4 @@ achieves global coverage and significantly boosts the performance of leading
 GP, LTSF, and GSTF models.
 
 摘要：在空間地理領域，通用表示模型顯著少於它們在自然語言處理和電腦視覺中的廣泛使用。這種差異主要源於現有表示模型的輸入成本高，這通常需要街景和流動性資料。為了解決這個問題，我們開發一種新穎的免訓練方法，利用大型語言模型 (LLM) 和 OpenStreetMap 的輔助地圖資料來推導地理位置表示 (LLMGeovec)。LLMGeovec 可以表示城市、國家和全球規模的地理語義，作為時空學習的通用增強器。具體來說，通過直接特徵串接，我們引入了一個簡單但有效的範例，用於增強多個時空任務，包括地理預測 (GP)、長期時間序列預測 (LTSF) 和基於圖形的時空預測 (GSTF)。LLMGeovec 可以無縫整合到廣泛的時空學習模型中，提供立即的增強。實驗結果表明，LLMGeovec 達到了全球覆蓋率，並顯著提升了領先的 GP、LTSF 和 GSTF 模型的效能。
-
-##### **Enabling Small Models for Zero-Shot Classification through Model Label Learning**
-2408.11449v1 by Jia Zhang, Zhi Zhou, Lan-Zhe Guo, Yu-Feng Li
-
-Vision-language models (VLMs) like CLIP have demonstrated impressive
-zero-shot ability in image classification tasks by aligning text and images but
-suffer inferior performance compared with task-specific expert models. On the
-contrary, expert models excel in their specialized domains but lack zero-shot
-ability for new tasks. How to obtain both the high performance of expert models
-and zero-shot ability is an important research direction. In this paper, we
-attempt to demonstrate that by constructing a model hub and aligning models
-with their functionalities using model labels, new tasks can be solved in a
-zero-shot manner by effectively selecting and reusing models in the hub. We
-introduce a novel paradigm, Model Label Learning (MLL), which bridges the gap
-between models and their functionalities through a Semantic Directed Acyclic
-Graph (SDAG) and leverages an algorithm, Classification Head Combination
-Optimization (CHCO), to select capable models for new tasks. Compared with the
-foundation model paradigm, it is less costly and more scalable, i.e., the
-zero-shot ability grows with the sizes of the model hub. Experiments on seven
-real-world datasets validate the effectiveness and efficiency of MLL,
-demonstrating that expert models can be effectively reused for zero-shot tasks.
-Our code will be released publicly.
-
-摘要：視覺語言模型（VLM），例如 CLIP，已在影像分類任務中展現令人印象深刻的零次學習能力，方法是對齊文字和影像，但與特定任務的專家模型相比，其效能較差。相反地，專家模型在其專業領域中表現出色，但對於新任務缺乏零次學習能力。如何同時獲得專家模型的高效能和零次學習能力，是一個重要的研究方向。在本文中，我們嘗試透過建立模型中心，並使用模型標籤將模型與其功能對齊，證明可以透過有效選擇和重複使用中心中的模型，以零次學習的方式解決新任務。我們提出了一種新的範例，即模型標籤學習（MLL），它透過語義導向非循環圖（SDAG）彌合模型及其功能之間的差距，並利用一種演算法，即分類頭組合最佳化（CHCO），為新任務選擇有能力的模型。與基礎模型範例相比，它的成本較低且更具可擴充性，也就是說，零次學習能力會隨著模型中心規模的擴大而增長。在七個真實世界資料集上的實驗驗證了 MLL 的有效性和效率，證明了專家模型可以有效地重複用於零次學習任務。我們的程式碼將公開發布。
 

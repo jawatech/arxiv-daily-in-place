@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|null|
+|**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911v1](http://arxiv.org/abs/2409.18911v1)|null|
+|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743v1](http://arxiv.org/abs/2409.18743v1)|null|
+|**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678v1](http://arxiv.org/abs/2409.18678v1)|null|
+|**2024-09-26**|**LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge**|Daniil Gurgurov et.al.|[2409.18193v1](http://arxiv.org/abs/2409.18193v1)|null|
 |**2024-09-26**|**Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**|Zahra Sepasdar et.al.|[2409.17580v1](http://arxiv.org/abs/2409.17580v1)|null|
 |**2024-09-25**|**Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**|Juliette Faille et.al.|[2409.16707v1](http://arxiv.org/abs/2409.16707v1)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v1](http://arxiv.org/abs/2409.16670v1)|null|
@@ -97,13 +102,119 @@
 |**2024-08-23**|**CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**|Ekaterina Trofimova et.al.|[2408.13366v1](http://arxiv.org/abs/2408.13366v1)|null|
 |**2024-08-23**|**Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving**|Sakhinana Sagar Srinivas et.al.|[2408.14494v1](http://arxiv.org/abs/2408.14494v1)|null|
 |**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v2](http://arxiv.org/abs/2408.12578v2)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
-|**2024-08-22**|**Enhancing Natural Language Inference Performance with Knowledge Graph for COVID-19 Automated Fact-Checking in Indonesian Language**|Arief Purnama Muharram et.al.|[2409.00061v1](http://arxiv.org/abs/2409.00061v1)|null|
-|**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
-|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333v2](http://arxiv.org/abs/2408.12333v2)|[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)|
-|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
-|**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116v1](http://arxiv.org/abs/2408.12116v1)|null|
 
 #### Abstracts
+##### **AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**
+2409.18924v1 by Huizi Yu, Jiayan Zhou, Lingyao Li, Shan Chen, Jack Gallifant, Anye Shi, Xiang Li, Wenyue Hua, Mingyu Jin, Guang Chen, Yang Zhou, Zhao Li, Trisha Gupte, Ming-Li Chen, Zahra Azizi, Yongfeng Zhang, Themistocles L. Assimes, Xin Ma, Danielle S. Bitterman, Lin Lu, Lizhou Fan
+
+Simulated patient systems play a crucial role in modern medical education and
+research, providing safe, integrative learning environments and enabling
+clinical decision-making simulations. Large Language Models (LLM) could advance
+simulated patient systems by replicating medical conditions and patient-doctor
+interactions with high fidelity and low cost. However, ensuring the
+effectiveness and trustworthiness of these systems remains a challenge, as they
+require a large, diverse, and precise patient knowledgebase, along with a
+robust and stable knowledge diffusion to users. Here, we developed AIPatient,
+an advanced simulated patient system with AIPatient Knowledge Graph (AIPatient
+KG) as the input and the Reasoning Retrieval-Augmented Generation (Reasoning
+RAG) agentic workflow as the generation backbone. AIPatient KG samples data
+from Electronic Health Records (EHRs) in the Medical Information Mart for
+Intensive Care (MIMIC)-III database, producing a clinically diverse and
+relevant cohort of 1,495 patients with high knowledgebase validity (F1 0.89).
+Reasoning RAG leverages six LLM powered agents spanning tasks including
+retrieval, KG query generation, abstraction, checker, rewrite, and
+summarization. This agentic framework reaches an overall accuracy of 94.15% in
+EHR-based medical Question Answering (QA), outperforming benchmarks that use
+either no agent or only partial agent integration. Our system also presents
+high readability (median Flesch Reading Ease 77.23; median Flesch Kincaid Grade
+5.6), robustness (ANOVA F-value 0.6126, p<0.1), and stability (ANOVA F-value
+0.782, p<0.1). The promising performance of the AIPatient system highlights its
+potential to support a wide range of applications, including medical education,
+model evaluation, and system integration.
+
+摘要：<paragraph>模擬病人系統在現代醫學教育和研究中扮演著至關重要的角色，提供安全、整合的學習環境，並支援臨床決策模擬。大型語言模型 (LLM) 能夠複製醫療狀況和醫病互動，進而以高保真度和低成本提升模擬病人系統。然而，確保這些系統的有效性和可信度仍然是一項挑戰，因為它們需要一個龐大、多元且精確的病人知識庫，以及一種強健且穩定的知識傳播方式。在此，我們開發了 AIPatient，一個進階的模擬病人系統，其以 AIPatient 知識圖譜 (AIPatient KG) 作為輸入，並以推理檢索增強生成 (Reasoning RAG) 代理工作流程作為生成主幹。AIPatient KG 從密集照護醫學資訊市集 (MIMIC)-III 資料庫中的電子健康紀錄 (EHR) 中抽取資料，產生一個臨床多元且相關的 1,495 位病患群組，且具有高度的知識庫有效性 (F1 0.89)。Reasoning RAG 運用六個 LLM 驅動的代理，涵蓋檢索、KG 查詢生成、抽象化、檢查器、重寫和摘要等任務。此代理架構在基於 EHR 的醫療問答 (QA) 中達到 94.15% 的整體準確度，優於未使用代理或僅部分整合代理的基準。我們的系統還具備高度可讀性 (中位數 Flesch 閱讀簡易度 77.23；中位數 Flesch Kincaid 等級 5.6)、強健性 (ANOVA F 值 0.6126，p<0.1) 和穩定性 (ANOVA F 值 0.782，p<0.1)。AIPatient 系統令人滿意的效能突顯了其支援廣泛應用程式的潛力，包括醫學教育、模型評估和系統整合。</paragraph>
+
+##### **Soft Measures for Extracting Causal Collective Intelligence**
+2409.18911v1 by Maryam Berijanian, Spencer Dork, Kuldeep Singh, Michael Riley Millikan, Ashlin Riggs, Aadarsh Swaminathan, Sarah L. Gibbs, Scott E. Friedman, Nathan Brugnone
+
+Understanding and modeling collective intelligence is essential for
+addressing complex social systems. Directed graphs called fuzzy cognitive maps
+(FCMs) offer a powerful tool for encoding causal mental models, but extracting
+high-integrity FCMs from text is challenging. This study presents an approach
+using large language models (LLMs) to automate FCM extraction. We introduce
+novel graph-based similarity measures and evaluate them by correlating their
+outputs with human judgments through the Elo rating system. Results show
+positive correlations with human evaluations, but even the best-performing
+measure exhibits limitations in capturing FCM nuances. Fine-tuning LLMs
+improves performance, but existing measures still fall short. This study
+highlights the need for soft similarity measures tailored to FCM extraction,
+advancing collective intelligence modeling with NLP.
+
+摘要：了解和建模集体智慧对于解决复杂的社会系统至关重要。称为模糊认知图（FCM）的有向图提供了一种强大的工具来编码因果心智模型，但从文本中提取高完整性的 FCM 具有挑战性。本研究提出了一种使用大型语言模型（LLM）来自动化 FCM 提取的方法。我们引入了新颖的基于图的相似性度量，并通过通过 Elo 评级系统将其输出与人类判断相关联来评估它们。结果表明与人类评估呈正相关，但即使是表现最好的度量在捕捉 FCM 细微差别方面也表现出局限性。微调 LLM 可以提高性能，但现有措施仍然不足。本研究强调了针对 FCM 提取量身定制的软相似性度量的必要性，通过 NLP 推进了集体智能建模。
+
+##### **OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**
+2409.18743v1 by Yujie Tang, Meiling Wang, Yinan Deng, Zibo Zheng, Jiagui Zhong, Yufeng Yue
+
+In everyday life, frequently used objects like cups often have unfixed
+positions and multiple instances within the same category, and their carriers
+frequently change as well. As a result, it becomes challenging for a robot to
+efficiently navigate to a specific instance. To tackle this challenge, the
+robot must capture and update scene changes and plans continuously. However,
+current object navigation approaches primarily focus on semantic-level and lack
+the ability to dynamically update scene representation. This paper captures the
+relationships between frequently used objects and their static carriers. It
+constructs an open-vocabulary Carrier-Relationship Scene Graph (CRSG) and
+updates the carrying status during robot navigation to reflect the dynamic
+changes of the scene. Based on the CRSG, we further propose an instance
+navigation strategy that models the navigation process as a Markov Decision
+Process. At each step, decisions are informed by Large Language Model's
+commonsense knowledge and visual-language feature similarity. We designed a
+series of long-sequence navigation tasks for frequently used everyday items in
+the Habitat simulator. The results demonstrate that by updating the CRSG, the
+robot can efficiently navigate to moved targets. Additionally, we deployed our
+algorithm on a real robot and validated its practical effectiveness.
+
+摘要：日常生活中，經常使用的物品（例如杯子）通常沒有固定的位置，而且同一類別中有多個實例，其承載者也經常變更。因此，機器人要有效地導航到特定實例變得具有挑戰性。為了應對這一挑戰，機器人必須不斷捕捉和更新場景變更和計畫。然而，目前的物件導航方法主要集中在語義層級，並且缺乏動態更新場景表示的能力。本文捕捉了經常使用的物件及其靜態承載者之間的關係。它構建了一個開放詞彙的承載者關係場景圖 (CRSG)，並在機器人導航期間更新承載狀態以反映場景的動態變化。基於 CRSG，我們進一步提出了一種將導航過程建模為馬可夫決策過程的實例導航策略。在每一步中，決策都由大型語言模型的常識知識和視覺語言特徵相似性來告知。我們為 Habitat 模擬器中的日常常用物品設計了一系列長序列導航任務。結果表明，通過更新 CRSG，機器人可以有效地導航到移動的目標。此外，我們在真實機器人上部署了我們的演算法，並驗證了其實際效能。
+
+##### **Rehearsing Answers to Probable Questions with Perspective-Taking**
+2409.18678v1 by Yung-Yu Shih, Ziwei Xu, Hiroya Takamura, Yun-Nung Chen, Chung-Chi Chen
+
+Question answering (QA) has been a long-standing focus in the NLP field,
+predominantly addressing reading comprehension and common sense QA. However,
+scenarios involving the preparation of answers to probable questions during
+professional oral presentations remain underexplored. In this paper, we pioneer
+the examination of this crucial yet overlooked topic by utilizing real-world QA
+conversation transcripts between company managers and professional analysts. We
+explore the proposed task using three causal knowledge graphs (KGs) and three
+large language models (LLMs). This work provides foundational insights into the
+application of LLMs in professional QA scenarios, highlighting the importance
+of causal KGs and perspective-taking in generating effective responses.
+
+摘要：問題解答 (QA) 一直是自然語言處理 (NLP) 領域的長期關注重點，
+主要解決閱讀理解和常識問題解答。然而，
+在專業口頭簡報中準備回答可能問題的場景仍未得到充分探討。在本文中，我們率先
+利用公司經理和專業分析師之間的真實世界問答對話記錄，探討這個至關重要但被忽視的主題。我們
+使用三個因果知識圖譜 (KG) 和三個大型語言模型 (LLM) 來探討提出的任務。這項工作為 LLM 在專業問答場景中的應用提供了基礎見解，強調了因果 KG 和觀點採取在產生有效回應中的重要性。
+
+##### **LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge**
+2409.18193v1 by Daniil Gurgurov, Rishu Kumar, Simon Ostermann
+
+Contextualized embeddings based on large language models (LLMs) are available
+for various languages, but their coverage is often limited for lower resourced
+languages. Training LLMs for such languages is often difficult due to
+insufficient data and high computational cost. Especially for very low resource
+languages, static word embeddings thus still offer a viable alternative. There
+is, however, a notable lack of comprehensive repositories with such embeddings
+for diverse languages. To address this, we present LowREm, a centralized
+repository of static embeddings for 87 low-resource languages. We also propose
+a novel method to enhance GloVe-based embeddings by integrating multilingual
+graph knowledge, utilizing another source of knowledge. We demonstrate the
+superior performance of our enhanced embeddings as compared to contextualized
+embeddings extracted from XLM-R on sentiment analysis. Our code and data are
+publicly available under https://huggingface.co/DFKI.
+
+摘要：基於大型語言模型 (LLM) 的語境化嵌入可供各種語言使用，但其涵蓋範圍通常僅限於資源較少的語言。由於資料不足和高運算成本，為此類語言訓練 LLM 通常很困難。特別是對於資源非常少的語言，因此靜態字詞嵌入仍提供可行的替代方案。然而，對於各種語言來說，此類嵌入缺乏全面的儲存庫。為了解決這個問題，我們提出了 LowREm，一個針對 87 種低資源語言的靜態嵌入集中式儲存庫。我們還提出了一種新方法，透過整合多語言圖形知識來增強基於 GloVe 的嵌入，利用另一個知識來源。我們展示了我們增強的嵌入在情緒分析上優於從 XLM-R 提取的語境化嵌入。我們的程式碼和資料已公開在 https://huggingface.co/DFKI 下。
+
 ##### **Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**
 2409.17580v1 by Zahra Sepasdar, Sushant Gautam, Cise Midoglu, Michael A. Riegler, Pål Halvorsen
 
@@ -2402,131 +2513,4 @@ towards better defining, characterizing, and predicting emergence in neural
 networks.
 
 摘要：<paragraph>資料、規模或運算的增加，可能會導致神經網路突然學會特定能力——這種現象常稱為「湧現」。除了科學理解之外，確立這種湧現能力背後的基本原因，對於為 AI 建立風險法規框架至關重要。在這項工作中，我們從其他領域中對湧現特性的研究中尋求靈感，並針對神經網路中的概念提出現象學定義。我們的定義暗示，取得資料產生程序背後的通用結構，是特定、較狹隘任務突然效能提升的原因。我們透過提出一個以情境敏感形式語言為基礎的實驗系統，對這個定義進行實證研究，發現經過訓練以執行這個語言中字串頂部任務的 Transformer，確實展現出湧現能力。具體來說，我們展示出模型一旦學會語言的底層文法和情境敏感誘導結構，對較狹隘任務的效能就會突然開始提升。接著我們將網路的學習動態類比為二部圖上的滲流過程，建立一個正式的相變模型，用於預測在改變資料結構時，我們在實驗中觀察到的湧現點位移。整體而言，我們的實驗和理論框架朝著更完善地定義、描述和預測神經網路中的湧現邁進了一步。</paragraph>
-
-##### **Enhancing Natural Language Inference Performance with Knowledge Graph for COVID-19 Automated Fact-Checking in Indonesian Language**
-2409.00061v1 by Arief Purnama Muharram, Ayu Purwarianti
-
-Automated fact-checking is a key strategy to overcome the spread of COVID-19
-misinformation on the internet. These systems typically leverage deep learning
-approaches through Natural Language Inference (NLI) to verify the truthfulness
-of information based on supporting evidence. However, one challenge that arises
-in deep learning is performance stagnation due to a lack of knowledge during
-training. This study proposes using a Knowledge Graph (KG) as external
-knowledge to enhance NLI performance for automated COVID-19 fact-checking in
-the Indonesian language. The proposed model architecture comprises three
-modules: a fact module, an NLI module, and a classifier module. The fact module
-processes information from the KG, while the NLI module handles semantic
-relationships between the given premise and hypothesis. The representation
-vectors from both modules are concatenated and fed into the classifier module
-to produce the final result. The model was trained using the generated
-Indonesian COVID-19 fact-checking dataset and the COVID-19 KG Bahasa Indonesia.
-Our study demonstrates that incorporating KGs can significantly improve NLI
-performance in fact-checking, achieving the best accuracy of 0,8616. This
-suggests that KGs are a valuable component for enhancing NLI performance in
-automated fact-checking.
-
-摘要：自動事實查核是克服網路上 COVID-19 錯誤資訊散播的一項關鍵策略。這些系統通常透過自然語言推論 (NLI) 來利用深度學習方法，根據支援證據驗證資訊的真實性。然而，在深度學習中會出現一個挑戰，那就是在訓練期間因缺乏知識而導致效能停滯。這項研究提出使用知識圖譜 (KG) 作為外部知識，以增強自動化 COVID-19 事實查核的 NLI 效能，並以印尼語進行。所提出的模型架構包含三個模組：事實模組、NLI 模組和分類器模組。事實模組處理來自 KG 的資訊，而 NLI 模組則處理給定前提和假設之間的語義關係。來自兩個模組的表示向量會串接起來，並輸入分類器模組以產生最終結果。此模型使用產生的印尼語 COVID-19 事實查核資料集和 COVID-19 KG Bahasa Indonesia 進行訓練。我們的研究證明，納入 KG 可以顯著改善事實查核中的 NLI 效能，達到 0.8616 的最佳準確度。這表示 KG 是增強自動化事實查核中 NLI 效能的寶貴組成部分。
-
-##### **Cell-ontology guided transcriptome foundation model**
-2408.12373v1 by Xinyu Yuan, Zhihao Zhan, Zuobai Zhang, Manqi Zhou, Jianan Zhao, Boyu Han, Yue Li, Jian Tang
-
-Transcriptome foundation models TFMs hold great promises of deciphering the
-transcriptomic language that dictate diverse cell functions by self-supervised
-learning on large-scale single-cell gene expression data, and ultimately
-unraveling the complex mechanisms of human diseases. However, current TFMs
-treat cells as independent samples and ignore the taxonomic relationships
-between cell types, which are available in cell ontology graphs. We argue that
-effectively leveraging this ontology information during the TFM pre-training
-can improve learning biologically meaningful gene co-expression patterns while
-preserving TFM as a general purpose foundation model for downstream zero-shot
-and fine-tuning tasks. To this end, we present \textbf{s}ingle \textbf{c}ell,
-\textbf{Cell}-\textbf{o}ntology guided TFM scCello. We introduce cell-type
-coherence loss and ontology alignment loss, which are minimized along with the
-masked gene expression prediction loss during the pre-training. The novel loss
-component guide scCello to learn the cell-type-specific representation and the
-structural relation between cell types from the cell ontology graph,
-respectively. We pre-trained scCello on 22 million cells from CellxGene
-database leveraging their cell-type labels mapped to the cell ontology graph
-from Open Biological and Biomedical Ontology Foundry. Our TFM demonstrates
-competitive generalization and transferability performance over the existing
-TFMs on biologically important tasks including identifying novel cell types of
-unseen cells, prediction of cell-type-specific marker genes, and cancer drug
-responses.
-
-摘要：<paragraph>轉錄組基礎模型 TFM 承諾解碼轉錄組語言，它透過在大型單細胞基因表現資料上進行自我監督學習，來決定不同的細胞功能，並最終解開人類疾病的複雜機制。然而，目前的 TFM 將細胞視為獨立樣本，並忽略細胞類型之間的分類關係，而這在細胞本體論圖表中是可用的。我們認為在 TFM 預訓練期間有效利用此本體論資訊，可以改善學習生物學上有意義的基因共表現模式，同時保留 TFM 作為下游零次學習和微調任務的一般用途基礎模型。為此，我們提出單細胞、細胞本體論引導的 TFM scCello。我們引入細胞類型一致性損失和本體論對齊損失，在預訓練期間會將其與遮罩基因表現預測損失一起最小化。這個新穎的損失組件引導 scCello 分別從細胞本體論圖表中學習細胞類型特定表示和細胞類型之間的結構關係。我們在 CellxGene 資料庫中對 2200 萬個細胞進行 scCello 預訓練，利用其細胞類型標籤對應到開放生物和生物醫學本體鑄造廠的細胞本體論圖表。我們的 TFM 在生物學上重要的任務上展示了比現有 TFM 更具競爭力的泛化和可轉移性，包括識別未見細胞的新細胞類型、預測細胞類型特定標記基因和癌症藥物反應。</paragraph>
-
-##### **Graph Retrieval Augmented Trustworthiness Reasoning**
-2408.12333v2 by Ying Zhu, Shengchang Li, Ziqian Kong, Peilan Xu
-
-Trustworthiness reasoning is crucial in multiplayer games with incomplete
-information, enabling agents to identify potential allies and adversaries,
-thereby enhancing reasoning and decision-making processes. Traditional
-approaches relying on pre-trained models necessitate extensive domain-specific
-data and considerable reward feedback, with their lack of real-time
-adaptability hindering their effectiveness in dynamic environments. In this
-paper, we introduce the Graph Retrieval Augmented Reasoning (GRATR) framework,
-leveraging the Retrieval-Augmented Generation (RAG) technique to bolster
-trustworthiness reasoning in agents. GRATR constructs a dynamic trustworthiness
-graph, updating it in real-time with evidential information, and retrieves
-relevant trust data to augment the reasoning capabilities of Large Language
-Models (LLMs). We validate our approach through experiments on the multiplayer
-game "Werewolf," comparing GRATR against baseline LLM and LLM enhanced with
-Native RAG and Rerank RAG. Our results demonstrate that GRATR surpasses the
-baseline methods by over 30\% in winning rate, with superior reasoning
-performance. Moreover, GRATR effectively mitigates LLM hallucinations, such as
-identity and objective amnesia, and crucially, it renders the reasoning process
-more transparent and traceable through the use of the trustworthiness graph.
-
-摘要：<paragraph>在信息不完整的多人遊戲中，可信度推理至關重要，讓代理人能夠識別潛在的盟友和敵人，從而增強推理和決策制定過程。依賴預先訓練模型的傳統方法需要大量的特定領域數據和大量的獎勵回饋，而它們缺乏實時適應性會阻礙它們在動態環境中的有效性。在本文中，我們介紹了圖形檢索增強推理 (GRATR) 框架，利用檢索增強生成 (RAG) 技術來加強代理人的可信度推理。GRATR 構建了一個動態可信度圖形，並使用證據信息實時更新它，並檢索相關的信任數據以增強大型語言模型 (LLM) 的推理能力。我們通過多人遊戲「狼人」的實驗驗證了我們的做法，將 GRATR 與基準 LLM 和使用 Native RAG 和 Rerank RAG 增強的 LLM 進行了比較。我們的結果表明，GRATR 在獲勝率上比基準方法高出 30%，具有卓越的推理性能。此外，GRATR 有效地減輕了 LLM 的幻覺，例如身份和目標健忘症，最重要的是，它通過使用可信度圖形使推理過程更透明且可追蹤。</paragraph>
-
-##### **MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**
-2408.12236v1 by Yanzeng Li, Cheng Zeng, Jinchao Zhang, Jie Zhou, Lei Zou
-
-Medical education relies heavily on Simulated Patients (SPs) to provide a
-safe environment for students to practice clinical skills, including medical
-image analysis. However, the high cost of recruiting qualified SPs and the lack
-of diverse medical imaging datasets have presented significant challenges. To
-address these issues, this paper introduces MedDiT, a novel
-knowledge-controlled conversational framework that can dynamically generate
-plausible medical images aligned with simulated patient symptoms, enabling
-diverse diagnostic skill training. Specifically, MedDiT integrates various
-patient Knowledge Graphs (KGs), which describe the attributes and symptoms of
-patients, to dynamically prompt Large Language Models' (LLMs) behavior and
-control the patient characteristics, mitigating hallucination during medical
-conversation. Additionally, a well-tuned Diffusion Transformer (DiT) model is
-incorporated to generate medical images according to the specified patient
-attributes in the KG. In this paper, we present the capabilities of MedDiT
-through a practical demonstration, showcasing its ability to act in diverse
-simulated patient cases and generate the corresponding medical images. This can
-provide an abundant and interactive learning experience for students, advancing
-medical education by offering an immersive simulation platform for future
-healthcare professionals. The work sheds light on the feasibility of
-incorporating advanced technologies like LLM, KG, and DiT in education
-applications, highlighting their potential to address the challenges faced in
-simulated patient-based medical education.
-
-摘要：醫學教育高度依賴模擬病人 (SP) 提供一個安全的環境，讓學生練習臨床技能，包括醫學影像分析。然而，招募合格 SP 的高成本和缺乏多樣的醫學影像資料集已造成顯著的挑戰。為了解決這些問題，本文介紹 MedDiT，一個新穎的知識控制對話架構，它可以動態產生符合模擬病人症狀的合理醫學影像，實現多樣的診斷技能訓練。具體來說，MedDiT 整合了各種病人知識圖譜 (KG)，描述病人的屬性和症狀，以動態提示大型語言模型 (LLM) 的行為，並控制病人特徵，減輕醫學對話中的幻覺。此外，還納入一個經過微調的擴散Transformer (DiT) 模型，根據 KG 中指定的病人屬性產生醫學影像。在本文中，我們透過實際示範展示 MedDiT 的功能，展示它在不同模擬病人案例中作用並產生相應醫學影像的能力。這可以為學生提供豐富且互動的學習體驗，透過提供身歷其境的模擬平台，提升醫學教育，造福未來的醫療保健專業人員。這項工作闡明了在教育應用中整合 LLM、KG 和 DiT 等先進技術的可行性，突顯它們在解決模擬病人為基礎的醫學教育所面臨挑戰的潛力。
-
-##### **Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**
-2408.12116v1 by Junlin He, Tong Nie, Wei Ma
-
-In the geospatial domain, universal representation models are significantly
-less prevalent than their extensive use in natural language processing and
-computer vision. This discrepancy arises primarily from the high costs
-associated with the input of existing representation models, which often
-require street views and mobility data. To address this, we develop a novel,
-training-free method that leverages large language models (LLMs) and auxiliary
-map data from OpenStreetMap to derive geolocation representations (LLMGeovec).
-LLMGeovec can represent the geographic semantics of city, country, and global
-scales, which acts as a generic enhancer for spatio-temporal learning.
-Specifically, by direct feature concatenation, we introduce a simple yet
-effective paradigm for enhancing multiple spatio-temporal tasks including
-geographic prediction (GP), long-term time series forecasting (LTSF), and
-graph-based spatio-temporal forecasting (GSTF). LLMGeovec can seamlessly
-integrate into a wide spectrum of spatio-temporal learning models, providing
-immediate enhancements. Experimental results demonstrate that LLMGeovec
-achieves global coverage and significantly boosts the performance of leading
-GP, LTSF, and GSTF models.
-
-摘要：在空間地理領域，通用表示模型顯著少於它們在自然語言處理和電腦視覺中的廣泛使用。這種差異主要源於現有表示模型的輸入成本高，這通常需要街景和流動性資料。為了解決這個問題，我們開發一種新穎的免訓練方法，利用大型語言模型 (LLM) 和 OpenStreetMap 的輔助地圖資料來推導地理位置表示 (LLMGeovec)。LLMGeovec 可以表示城市、國家和全球規模的地理語義，作為時空學習的通用增強器。具體來說，通過直接特徵串接，我們引入了一個簡單但有效的範例，用於增強多個時空任務，包括地理預測 (GP)、長期時間序列預測 (LTSF) 和基於圖形的時空預測 (GSTF)。LLMGeovec 可以無縫整合到廣泛的時空學習模型中，提供立即的增強。實驗結果表明，LLMGeovec 達到了全球覆蓋率，並顯著提升了領先的 GP、LTSF 和 GSTF 模型的效能。
 

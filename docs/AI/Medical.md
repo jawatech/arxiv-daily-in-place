@@ -3,11 +3,11 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
-|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v1](http://arxiv.org/abs/2409.17994v1)|null|
+|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v2](http://arxiv.org/abs/2409.17994v2)|null|
 |**2024-09-26**|**Implementing a Nordic-Baltic Federated Health Data Network: a case report**|Taridzo Chomutare et.al.|[2409.17865v1](http://arxiv.org/abs/2409.17865v1)|null|
 |**2024-09-26**|**DREAMS: A python framework to train deep learning models with model card reporting for medical and health applications**|Rabindra Khadka et.al.|[2409.17815v1](http://arxiv.org/abs/2409.17815v1)|null|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788v1](http://arxiv.org/abs/2409.17788v1)|null|
-|**2024-09-26**|**Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**|Evangelia Christodoulou et.al.|[2409.17763v1](http://arxiv.org/abs/2409.17763v1)|null|
+|**2024-09-26**|**Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**|Evangelia Christodoulou et.al.|[2409.17763v2](http://arxiv.org/abs/2409.17763v2)|null|
 |**2024-09-26**|**Artificial Data Point Generation in Clustered Latent Space for Small Medical Datasets**|Yasaman Haghbin et.al.|[2409.17685v1](http://arxiv.org/abs/2409.17685v1)|null|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683v1](http://arxiv.org/abs/2409.17683v1)|null|
 |**2024-09-26**|**Digital Twin Ecosystem for Oncology Clinical Operations**|Himanshu Pandey et.al.|[2409.17650v1](http://arxiv.org/abs/2409.17650v1)|null|
@@ -127,7 +127,7 @@ RSNA-Mammo, with only 52% model size compared with the largest baseline.
 摘要：對比語言影像預訓練 (CLIP) 在醫學影像分析中展現潛力，但需要大量的資料和運算資源。由於這些限制，現有的 CLIP 在醫學影像中的應用主要集中在胸部 X 光等有豐富影像報告資料的模式，導致許多其他重要的模式未被充分探索。在此，我們提出將完整的 CLIP 模型首次適應於乳房攝影，由於標籤資料稀少、高解析度影像中感興趣區域較小，以及資料不平衡，這提出了重大的挑戰。我們首先開發了一個專門的監督架構用於乳房攝影，利用其多視圖的特性。此外，我們設計了一個對稱局部對齊模組，以更好地聚焦於高解析度影像中的詳細特徵。最後，我們結合了一個參數高效的微調方法，用於預先訓練具有醫學知識的大型語言模型，以解決資料限制。我們的多視圖和多尺度對齊 (MaMA) 方法在兩個大型真實世界乳房攝影資料集 EMBED 和 RSNA-Mammo 的三個不同任務中優於現有技術基線，而模型大小僅為最大基線的 52%。
 
 ##### **CRoP: Context-wise Robust Static Human-Sensing Personalization**
-2409.17994v1 by Sawinder Kaur, Avery Gump, Jingyu Xin, Yi Xiao, Harshit Sharma, Nina R Benway, Jonathan L Preston, Asif Salekin
+2409.17994v2 by Sawinder Kaur, Avery Gump, Jingyu Xin, Yi Xiao, Harshit Sharma, Nina R Benway, Jonathan L Preston, Asif Salekin
 
 The advancement in deep learning and internet-of-things have led to diverse
 human sensing applications. However, distinct patterns in human sensing,
@@ -139,7 +139,7 @@ limiting intra-user generalizability. This limitation is especially critical in
 clinical applications, where limited data availability hampers both
 generalizability and personalization. Notably, intra-user sensing attributes
 are expected to change due to external factors such as treatment progression,
-further complicating the challenges.This work introduces CRoP, a novel static
+further complicating the challenges. This work introduces CRoP, a novel static
 personalization approach using an off-the-shelf pre-trained model and pruning
 to optimize personalization and generalization. CRoP shows superior
 personalization effectiveness and intra-user robustness across four
@@ -149,7 +149,7 @@ generalization ability and design choices, we provide empirical justification
 through gradient inner product analysis, ablation studies, and comparisons
 against state-of-the-art baselines.
 
-摘要：深度學習和物聯網的進步帶來了多樣化的人體感測應用。然而，受各種因素或情境影響的人體感測中的不同模式，會因自然分佈轉移而對通用神經網路模型的效能提出挑戰。為了解決這個問題，個人化會根據個別使用者調整模型。然而，大多數的個人化研究都忽略了感測資料中跨情境、使用者內部的異質性，這限制了使用者內部的可概化性。在臨床應用中，這個限制尤其重要，因為有限的資料可用性會阻礙可概化性和個人化。值得注意的是，使用者內部的感測屬性預期會因外部因素（例如治療進程）而改變，這進一步複雜化了這些挑戰。這項工作引入了 CRoP，這是一種使用現成的預訓練模型和剪枝來最佳化個人化和概化的新型靜態個人化方法。CRoP 在四個人體感測資料集（包括兩個來自真實世界健康領域的資料集）中展現出卓越的個人化效果和使用者內部穩健性，突顯了它的實用性和社會影響。此外，為了支援 CRoP 的概化能力和設計選擇，我們透過梯度內積分析、消融研究和與最新基準的比較，提供了經驗依據。
+摘要：深度學習和物聯網的進步已導致各種人類感測應用。然而，受各種因素或情境影響的人類感測中的不同模式，由於自然分佈轉移，對通用神經網路模型的效能構成挑戰。為了解決此問題，個人化會根據個別使用者調整模型。然而，大多數個人化研究忽略了感測資料中跨情境內的使用者內部異質性，這限制了使用者內部的一般化能力。此限制在臨床應用中特別關鍵，因為資料可用性有限會阻礙一般化能力和個人化。值得注意的是，由於治療進展等外部因素，預計使用者內部感測屬性會發生變化，進一步使挑戰複雜化。本研究引入了 CRoP，一種使用現成的預訓練模型和剪枝來最佳化個人化和一般化的創新靜態個人化方法。CRoP 在四個人類感測資料集（包括兩個來自真實世界健康領域的資料集）中展現出優異的個人化效能和使用者內部穩健性，突顯其實用性和社會影響。此外，為了支援 CRoP 的一般化能力和設計選擇，我們透過梯度內積分析、消融研究和與最新基準的比較提供經驗依據。
 
 ##### **Implementing a Nordic-Baltic Federated Health Data Network: a case report**
 2409.17865v1 by Taridzo Chomutare, Aleksandar Babic, Laura-Maria Peltonen, Silja Elunurm, Peter Lundberg, Arne Jönsson, Emma Eneling, Ciprian-Virgil Gerstenberger, Troels Siggaard, Raivo Kolde, Oskar Jerdhaf, Martin Hansson, Alexandra Makhlysheva, Miroslav Muzny, Erik Ylipää, Søren Brunak, Hercules Dalianis
@@ -220,7 +220,7 @@ dataset.
 摘要：眼科疾病是全球重要的健康問題，因此需要使用先進且精確的診斷工具。光學相干斷層掃描 (OCT) 影像可提供視網膜的高解析度橫斷面影像，已成為眼科中至關重要的影像模式。傳統上，醫生會手動從此類診斷影像中偵測各種疾病和生物標記。最近，深度學習技術已廣泛用於醫療診斷任務，可進行快速且精確的診斷。本文提出使用卷積神經網路 (CNN) 和視覺Transformer組合的一種新方法來進行眼科生物標記偵測。雖然 CNN 擅長從影像的局部脈絡中萃取特徵，但Transformer則以能從影像的全局脈絡中萃取特徵而聞名。結合這兩種技術，讓我們能夠同時利用兩者的優點。我們的技術已在 OLIVES 資料集上實作，用於從 OCT 影像中偵測六個主要的生物標記，並顯示資料集上的巨平均 F1 分數有顯著的提升。
 
 ##### **Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**
-2409.17763v1 by Evangelia Christodoulou, Annika Reinke, Rola Houhou, Piotr Kalinowski, Selen Erkan, Carole H. Sudre, Ninon Burgos, Sofiène Boutaj, Sophie Loizillon, Maëlys Solal, Nicola Rieke, Veronika Cheplygina, Michela Antonelli, Leon D. Mayer, Minu D. Tizabi, M. Jorge Cardoso, Amber Simpson, Paul F. Jäger, Annette Kopp-Schneider, Gaël Varoquaux, Olivier Colliot, Lena Maier-Hein
+2409.17763v2 by Evangelia Christodoulou, Annika Reinke, Rola Houhou, Piotr Kalinowski, Selen Erkan, Carole H. Sudre, Ninon Burgos, Sofiène Boutaj, Sophie Loizillon, Maëlys Solal, Nicola Rieke, Veronika Cheplygina, Michela Antonelli, Leon D. Mayer, Minu D. Tizabi, M. Jorge Cardoso, Amber Simpson, Paul F. Jäger, Annette Kopp-Schneider, Gaël Varoquaux, Olivier Colliot, Lena Maier-Hein
 
 Medical imaging is spearheading the AI transformation of healthcare.
 Performance reporting is key to determine which methods should be translated
@@ -228,24 +228,24 @@ into clinical practice. Frequently, broad conclusions are simply derived from
 mean performance values. In this paper, we argue that this common practice is
 often a misleading simplification as it ignores performance variability. Our
 contribution is threefold. (1) Analyzing all MICCAI segmentation papers (n =
-221) published in 2023, we first observe that more than 50\% of papers do not
-assess performance variability at all. Moreover, only one (0.5\%) paper
-reported confidence intervals (CIs) for model performance. (2) To address the
-reporting bottleneck, we show that the unreported standard deviation (SD) in
-segmentation papers can be approximated by a second-order polynomial function
-of the mean Dice similarity coefficient (DSC). Based on external validation
-data from 56 previous MICCAI challenges, we demonstrate that this approximation
-can accurately reconstruct the CI of a method using information provided in
-publications. (3) Finally, we reconstructed 95\% CIs around the mean DSC of
+221) published in 2023, we first observe that more than 50% of papers do not
+assess performance variability at all. Moreover, only one (0.5%) paper reported
+confidence intervals (CIs) for model performance. (2) To address the reporting
+bottleneck, we show that the unreported standard deviation (SD) in segmentation
+papers can be approximated by a second-order polynomial function of the mean
+Dice similarity coefficient (DSC). Based on external validation data from 56
+previous MICCAI challenges, we demonstrate that this approximation can
+accurately reconstruct the CI of a method using information provided in
+publications. (3) Finally, we reconstructed 95% CIs around the mean DSC of
 MICCAI 2023 segmentation papers. The median CI width was 0.03 which is three
 times larger than the median performance gap between the first and second
-ranked method. For more than 60\% of papers, the mean performance of the
+ranked method. For more than 60% of papers, the mean performance of the
 second-ranked method was within the CI of the first-ranked method. We conclude
 that current publications typically do not provide sufficient evidence to
 support which models could potentially be translated into clinical practice.
 
-摘要：醫療影像正帶領 AI 轉型醫療保健。
-效能報告是決定哪些方法應轉譯至臨床實務的關鍵。通常，廣泛的結論僅來自於平均效能值。在這篇論文中，我們主張這個常見的實務通常是誤導性的簡化，因為它忽略了效能變異性。我們的貢獻有三方面。(1) 分析所有 2023 年發表的 MICCAI 分割論文 (n = 221)，我們首先觀察到超過 50% 的論文完全沒有評估效能變異性。此外，僅有一篇 (0.5%) 論文報告了模型效能的信賴區間 (CI)。(2) 為了解決報告瓶頸，我們顯示分割論文中未報告的標準差 (SD) 可以近似為平均 Dice 相似係數 (DSC) 的二階多項式函數。根據來自 56 個先前 MICCAI 挑戰的外部驗證資料，我們證明此近似值可以使用出版品中提供的資訊準確地重建方法的 CI。(3) 最後，我們在 MICCAI 2023 分割論文的平均 DSC 周圍重建了 95% CI。中位數 CI 寬度為 0.03，是第一名和第二名方法之間的中位數效能差距的三倍。對於超過 60% 的論文，第二名方法的平均效能落在第一名方法的 CI 內。我們得出結論，目前的出版品通常沒有提供足夠的證據來支持哪些模型有可能轉譯至臨床實務。
+摘要：醫療影像正帶領著醫療保健的人工智慧轉型。
+效能報告對於決定哪些方法應轉換為臨床實務至關重要。通常，廣泛的結論僅來自於平均效能值。在本文中，我們主張這種常見做法通常是一種誤導性的簡化，因為它忽略了效能變異性。我們的貢獻有三方面：(1) 分析 2023 年發表的 221 篇 MICCAI 分割論文，我們首先觀察到超過 50% 的論文根本沒有評估效能變異性。此外，只有一篇 (0.5%) 論文報告了模型效能的信心區間 (CI)。(2) 為了解決報告瓶頸，我們表明分割論文中未報告的標準差 (SD) 可以近似為平均 Dice 相似性係數 (DSC) 的二階多項式函數。根據來自 56 項先前 MICCAI 挑戰的外部驗證資料，我們證明此近似值可以使用論文中提供的資訊準確重建方法的 CI。(3) 最後，我們重建了 MICCAI 2023 分割論文平均 DSC 周圍的 95% CI。中位數 CI 寬度為 0.03，是第一名和第二名方法之間的中位數效能差距的三倍。對於超過 60% 的論文，排名第二的方法的平均效能都在排名第一的方法的 CI 內。我們得出結論，目前的論文通常無法提供足夠的證據來支持哪些模型有可能轉換為臨床實務。
 
 ##### **Artificial Data Point Generation in Clustered Latent Space for Small Medical Datasets**
 2409.17685v1 by Yasaman Haghbin, Hadi Moradi, Reshad Hosseini

@@ -24,7 +24,7 @@
 |**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009v1](http://arxiv.org/abs/2409.18009v1)|[link](https://github.com/yuchenxia/llm4ias)|
 |**2024-09-26**|**Multilingual Evaluation of Long Context Retrieval and Reasoning**|Ameeta Agrawal et.al.|[2409.18006v1](http://arxiv.org/abs/2409.18006v1)|null|
 |**2024-09-26**|**Joint Localization and Planning using Diffusion**|L. Lao Beyer et.al.|[2409.17995v1](http://arxiv.org/abs/2409.17995v1)|null|
-|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v1](http://arxiv.org/abs/2409.17994v1)|null|
+|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v2](http://arxiv.org/abs/2409.17994v2)|null|
 |**2024-09-26**|**Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**|Georg Ahnert et.al.|[2409.17990v1](http://arxiv.org/abs/2409.17990v1)|[link](https://github.com/dess-mannheim/temporal-adapters)|
 |**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978v1](http://arxiv.org/abs/2409.17978v1)|null|
 |**2024-09-26**|**BEATS: Optimizing LLM Mathematical Capabilities with BackVerify and Adaptive Disambiguate based Efficient Tree Search**|Linzhuang Sun et.al.|[2409.17972v1](http://arxiv.org/abs/2409.17972v1)|null|
@@ -47,21 +47,21 @@
 |**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864v1](http://arxiv.org/abs/2409.17864v1)|null|
 |**2024-09-26**|**Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models**|Hui-Po Wang et.al.|[2409.17836v1](http://arxiv.org/abs/2409.17836v1)|null|
 |**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834v1](http://arxiv.org/abs/2409.17834v1)|null|
-|**2024-09-26**|**BeanCounter: A low-toxicity, large-scale, and open dataset of business-oriented text**|Siyan Wang et.al.|[2409.17827v1](http://arxiv.org/abs/2409.17827v1)|null|
+|**2024-09-26**|**BeanCounter: A low-toxicity, large-scale, and open dataset of business-oriented text**|Siyan Wang et.al.|[2409.17827v2](http://arxiv.org/abs/2409.17827v2)|null|
 |**2024-09-26**|**Inference-Time Language Model Alignment via Integrated Value Guidance**|Zhixuan Liu et.al.|[2409.17819v1](http://arxiv.org/abs/2409.17819v1)|null|
 |**2024-09-26**|**DREAMS: A python framework to train deep learning models with model card reporting for medical and health applications**|Rabindra Khadka et.al.|[2409.17815v1](http://arxiv.org/abs/2409.17815v1)|null|
 |**2024-09-26**|**Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness**|Jian Li et.al.|[2409.17791v1](http://arxiv.org/abs/2409.17791v1)|[link](https://github.com/lijian16/spo)|
 |**2024-09-26**|**Faithfulness and the Notion of Adversarial Sensitivity in NLP Explanations**|Supriya Manna et.al.|[2409.17774v1](http://arxiv.org/abs/2409.17774v1)|null|
 |**2024-09-26**|**Federated Learning under Attack: Improving Gradient Inversion for Batch of Images**|Luiz Leite et.al.|[2409.17767v1](http://arxiv.org/abs/2409.17767v1)|null|
-|**2024-09-26**|**Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**|Evangelia Christodoulou et.al.|[2409.17763v1](http://arxiv.org/abs/2409.17763v1)|null|
+|**2024-09-26**|**Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**|Evangelia Christodoulou et.al.|[2409.17763v2](http://arxiv.org/abs/2409.17763v2)|null|
 |**2024-09-26**|**Integrating Hierarchical Semantic into Iterative Generation Model for Entailment Tree Explanation**|Qin Wang et.al.|[2409.17757v1](http://arxiv.org/abs/2409.17757v1)|null|
 |**2024-09-26**|**SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning**|Rimvydas Rubavicius et.al.|[2409.17755v1](http://arxiv.org/abs/2409.17755v1)|null|
 |**2024-09-26**|**Byzantine-Robust Aggregation for Securing Decentralized Federated Learning**|Diego Cajaraville-Aboy et.al.|[2409.17754v1](http://arxiv.org/abs/2409.17754v1)|null|
 |**2024-09-26**|**Are Transformers in Pre-trained LM A Good ASR Encoder? An Empirical Study**|Keyu An et.al.|[2409.17750v1](http://arxiv.org/abs/2409.17750v1)|null|
-|**2024-09-26**|**Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**|Nilanjan Sinhababu et.al.|[2409.17745v1](http://arxiv.org/abs/2409.17745v1)|null|
+|**2024-09-26**|**Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**|Nilanjan Sinhababu et.al.|[2409.17745v2](http://arxiv.org/abs/2409.17745v2)|null|
 |**2024-09-26**|**AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**|Shiqi Sun et.al.|[2409.17728v1](http://arxiv.org/abs/2409.17728v1)|null|
 |**2024-09-26**|**Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience**|Leonard Bärmann et.al.|[2409.17702v1](http://arxiv.org/abs/2409.17702v1)|null|
-|**2024-09-26**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699v1](http://arxiv.org/abs/2409.17699v1)|null|
+|**2024-09-26**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699v2](http://arxiv.org/abs/2409.17699v2)|null|
 |**2024-09-26**|**MIO: A Foundation Model on Multimodal Tokens**|Zekun Wang et.al.|[2409.17692v1](http://arxiv.org/abs/2409.17692v1)|null|
 |**2024-09-26**|**Efficient Bias Mitigation Without Privileged Information**|Mateo Espinosa Zarlenga et.al.|[2409.17691v1](http://arxiv.org/abs/2409.17691v1)|null|
 |**2024-09-26**|**Artificial Data Point Generation in Clustered Latent Space for Small Medical Datasets**|Yasaman Haghbin et.al.|[2409.17685v1](http://arxiv.org/abs/2409.17685v1)|null|
@@ -93,7 +93,7 @@
 |**2024-09-26**|**Dr. GPT in Campus Counseling: Understanding Higher Education Students' Opinions on LLM-assisted Mental Health Services**|Owen Xingjian Zhang et.al.|[2409.17572v1](http://arxiv.org/abs/2409.17572v1)|null|
 |**2024-09-26**|**Showing Many Labels in Multi-label Classification Models: An Empirical Study of Adversarial Examples**|Yujiang Liu et.al.|[2409.17568v1](http://arxiv.org/abs/2409.17568v1)|null|
 |**2024-09-26**|**Pixel-Space Post-Training of Latent Diffusion Models**|Christina Zhang et.al.|[2409.17565v1](http://arxiv.org/abs/2409.17565v1)|null|
-|**2024-09-26**|**Modulated Intervention Preference Optimization (MIPO): Keey the Easy, Refine the Difficult**|Cheolhun Jang et.al.|[2409.17545v1](http://arxiv.org/abs/2409.17545v1)|null|
+|**2024-09-26**|**Modulated Intervention Preference Optimization (MIPO): Keep the Easy, Refine the Difficult**|Cheolhun Jang et.al.|[2409.17545v2](http://arxiv.org/abs/2409.17545v2)|null|
 |**2024-09-26**|**Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models**|Tongxuan Liu et.al.|[2409.17539v1](http://arxiv.org/abs/2409.17539v1)|null|
 |**2024-09-26**|**On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy**|Saber Malekmohammadi et.al.|[2409.17538v1](http://arxiv.org/abs/2409.17538v1)|null|
 |**2024-09-26**|**MUSE: Integrating Multi-Knowledge for Knowledge Graph Completion**|Pengjie Liu et.al.|[2409.17536v1](http://arxiv.org/abs/2409.17536v1)|null|
@@ -617,7 +617,7 @@ localization and planning stack.
 摘要：擴散模型已成功應用於機器人問題，例如操作和車輛路徑規劃。在這項工作中，我們探討其應用於端到端導航——包括感知和規劃——方法是考慮在已知但任意的 2D 環境中同時執行全局定位和路徑規劃的問題。特別是，我們引入了一個擴散模型，該模型根據自我中心的 LIDAR 掃描、任意地圖和所需的目標位置在全局參考系中產生無碰撞路徑。為此，我們在 SE(2) 路徑空間中實作擴散，並描述如何根據障礙物和感測器觀測對去噪過程進行條件設定。在我們的評估中，我們展示了所提出的條件設定技術能夠推廣到與訓練環境外觀截然不同的真實地圖，展示了我們的模型準確描述模糊解的能力，並執行廣泛的模擬實驗，展示了我們的模型作為實時、端到端定位和規劃堆疊的用途。
 
 ##### **CRoP: Context-wise Robust Static Human-Sensing Personalization**
-2409.17994v1 by Sawinder Kaur, Avery Gump, Jingyu Xin, Yi Xiao, Harshit Sharma, Nina R Benway, Jonathan L Preston, Asif Salekin
+2409.17994v2 by Sawinder Kaur, Avery Gump, Jingyu Xin, Yi Xiao, Harshit Sharma, Nina R Benway, Jonathan L Preston, Asif Salekin
 
 The advancement in deep learning and internet-of-things have led to diverse
 human sensing applications. However, distinct patterns in human sensing,
@@ -629,7 +629,7 @@ limiting intra-user generalizability. This limitation is especially critical in
 clinical applications, where limited data availability hampers both
 generalizability and personalization. Notably, intra-user sensing attributes
 are expected to change due to external factors such as treatment progression,
-further complicating the challenges.This work introduces CRoP, a novel static
+further complicating the challenges. This work introduces CRoP, a novel static
 personalization approach using an off-the-shelf pre-trained model and pruning
 to optimize personalization and generalization. CRoP shows superior
 personalization effectiveness and intra-user robustness across four
@@ -639,7 +639,7 @@ generalization ability and design choices, we provide empirical justification
 through gradient inner product analysis, ablation studies, and comparisons
 against state-of-the-art baselines.
 
-摘要：深度學習和物聯網的進步帶來了多樣化的人體感測應用。然而，受各種因素或情境影響的人體感測中的不同模式，會因自然分佈轉移而對通用神經網路模型的效能提出挑戰。為了解決這個問題，個人化會根據個別使用者調整模型。然而，大多數的個人化研究都忽略了感測資料中跨情境、使用者內部的異質性，這限制了使用者內部的可概化性。在臨床應用中，這個限制尤其重要，因為有限的資料可用性會阻礙可概化性和個人化。值得注意的是，使用者內部的感測屬性預期會因外部因素（例如治療進程）而改變，這進一步複雜化了這些挑戰。這項工作引入了 CRoP，這是一種使用現成的預訓練模型和剪枝來最佳化個人化和概化的新型靜態個人化方法。CRoP 在四個人體感測資料集（包括兩個來自真實世界健康領域的資料集）中展現出卓越的個人化效果和使用者內部穩健性，突顯了它的實用性和社會影響。此外，為了支援 CRoP 的概化能力和設計選擇，我們透過梯度內積分析、消融研究和與最新基準的比較，提供了經驗依據。
+摘要：深度學習和物聯網的進步已導致各種人類感測應用。然而，受各種因素或情境影響的人類感測中的不同模式，由於自然分佈轉移，對通用神經網路模型的效能構成挑戰。為了解決此問題，個人化會根據個別使用者調整模型。然而，大多數個人化研究忽略了感測資料中跨情境內的使用者內部異質性，這限制了使用者內部的一般化能力。此限制在臨床應用中特別關鍵，因為資料可用性有限會阻礙一般化能力和個人化。值得注意的是，由於治療進展等外部因素，預計使用者內部感測屬性會發生變化，進一步使挑戰複雜化。本研究引入了 CRoP，一種使用現成的預訓練模型和剪枝來最佳化個人化和一般化的創新靜態個人化方法。CRoP 在四個人類感測資料集（包括兩個來自真實世界健康領域的資料集）中展現出優異的個人化效能和使用者內部穩健性，突顯其實用性和社會影響。此外，為了支援 CRoP 的一般化能力和設計選擇，我們透過梯度內積分析、消融研究和與最新基準的比較提供經驗依據。
 
 ##### **Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**
 2409.17990v1 by Georg Ahnert, Max Pellert, David Garcia, Markus Strohmaier
@@ -1194,7 +1194,7 @@ potential.
 摘要：由於大型語言模型 (LLM) 規模龐大，因此通常會部署在單一主幹多租戶架構中。在這種架構中，LLM 主幹的單一執行個體必須透過應用各種參數有效微調 (PEFT) 模型來滿足多個使用者或任務。儘管有許多有效的 PEFT 技術可用，例如 LoRA，但仍需要一種 PEFT 方法，既能在推理過程中實現高效率，又能在下游任務中展現競爭力。在本研究中，我們引入了一種新的、直接的 PEFT 方法，稱為提示依賴表示修改 (PEDRO)。所提出的方法涉及將輕量級向量產生器整合到每個 Transformer 層中，該產生器會根據輸入提示產生向量。然後，這些向量透過點積運算修改 LLM 所建立的隱藏表示，從而影響模型的語義輸出和產生的內容。透過各種任務的大量實驗，結果顯示：(a) PEDRO 在使用類似數量可調整參數時，超越了最近的 PEFT 基準。(b) 在單一主幹多租戶部署模式下，PEDRO 展現出優於 LoRA 的效率，顯示出顯著的產業潛力。
 
 ##### **BeanCounter: A low-toxicity, large-scale, and open dataset of business-oriented text**
-2409.17827v1 by Siyan Wang, Bradford Levy
+2409.17827v2 by Siyan Wang, Bradford Levy
 
 Many of the recent breakthroughs in language modeling have resulted from
 scaling effectively the same model architecture to larger datasets. In this
@@ -1216,7 +1216,7 @@ Collectively, our work suggests that BeanCounter is a novel source of
 low-toxicity and high-quality domain-specific data with sufficient scale to
 train multi-billion parameter LLMs.
 
-摘要：最近语言模型的许多突破，都是源自于将相同的模型架构有效地扩展到更大的数据集。在这个方面，最近的研究强调了通过增加训练数据集的大小和质量而获得的性能提升，这表明需要新的、大规模数据集来源。在这项工作中，我们介绍了 BeanCounter，这是一个公共数据集，包含从企业披露中提取的超过 1590 亿个标记。我们表明，这些数据确实是新颖的：不到 0.1% 的 BeanCounter 出现在基于 Common Crawl 的数据集中，并且它的数量级比依赖于类似来源的数据集大一个数量级。鉴于数据的来源，我们假设 BeanCounter 相对而言比基于 Web 的数据集更具事实性，且毒性更小。在探索这一假设时，我们发现许多人口统计标识在 BeanCounter 中出现的频率相似，但与其他数据集相比，其毒性语境明显较少。为了证明 BeanCounter 的效用，我们评估并比较了两个在 BeanCounter 上持续预训练的 LLM 及其基础模型。我们发现，持续预训练的模型的毒性生成减少了 18-33%，并且在金融领域的性能得到了提升。总的来说，我们的工作表明 BeanCounter 是一个新的、低毒性和高质量的特定领域数据源，其规模足以训练数十亿参数的 LLM。
+摘要：最近在語言模型的許多突破來自於將相同的模型架構有效地擴展到更大的資料集。在這方面，最近的研究強調了增加訓練資料集大小和品質的效能提升，這表示需要新的來源來取得大型資料集。在這項研究中，我們介紹了 BeanCounter，一個由企業揭露中萃取出的超過 159B 個代幣的公開資料集。我們展示了這些資料確實是新的：在基於 Common Crawl 的資料集中，少於 0.1% 的 BeanCounter 會出現，而且它比依賴類似來源的資料集大上一個數量級。鑑於資料的來源，我們假設 BeanCounter 相較於基於網路的資料集更具有事實性且毒性較低。在探討這個假設時，我們發現許多人口統計特徵在 BeanCounter 中出現的普遍性相似，但與其他資料集相比，其毒性背景顯著降低。為了展示 BeanCounter 的效用，我們評估並比較了兩個持續預先訓練於 BeanCounter 的 LLM 與其基礎模型。我們發現持續預先訓練的模型的毒性生成減少了 18-33%，且在金融領域的效能也有所提升。總的來說，我們的研究表明 BeanCounter 是低毒性和高品質領域特定資料的新來源，其規模足以訓練多個十億參數的 LLM。
 
 ##### **Inference-Time Language Model Alignment via Integrated Value Guidance**
 2409.17819v1 by Zhixuan Liu, Zhanhui Zhou, Yuanfu Wang, Chao Yang, Yu Qiao
@@ -1325,7 +1325,7 @@ of iterations per attacked image, respectively.
 摘要：聯合學習 (FL) 已成為一種機器學習方法，能夠保護使用者資料的隱私。應用 FL，客戶端會在本地資料集上訓練機器學習模型，而中央伺服器會彙總來自客戶端的已學習參數，訓練全球機器學習模型，而不會分享使用者的資料。然而，最先進的技術展示了數種促進攻擊 FL 系統的方法。例如，反轉或洩漏梯度攻擊可以非常精確地找出 FL 訓練階段中使用的本地資料集。本文提出了一種方法，稱為具有回饋混合的梯度深度洩漏 (DLG-FB)，它能夠改善反轉梯度攻擊，考慮到影像批次中通常存在的空間關聯性。執行評估顯示，在攻擊成功率和每個攻擊影像的迭代次數方面，分別改善了 19.18% 和 48,82%。
 
 ##### **Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**
-2409.17763v1 by Evangelia Christodoulou, Annika Reinke, Rola Houhou, Piotr Kalinowski, Selen Erkan, Carole H. Sudre, Ninon Burgos, Sofiène Boutaj, Sophie Loizillon, Maëlys Solal, Nicola Rieke, Veronika Cheplygina, Michela Antonelli, Leon D. Mayer, Minu D. Tizabi, M. Jorge Cardoso, Amber Simpson, Paul F. Jäger, Annette Kopp-Schneider, Gaël Varoquaux, Olivier Colliot, Lena Maier-Hein
+2409.17763v2 by Evangelia Christodoulou, Annika Reinke, Rola Houhou, Piotr Kalinowski, Selen Erkan, Carole H. Sudre, Ninon Burgos, Sofiène Boutaj, Sophie Loizillon, Maëlys Solal, Nicola Rieke, Veronika Cheplygina, Michela Antonelli, Leon D. Mayer, Minu D. Tizabi, M. Jorge Cardoso, Amber Simpson, Paul F. Jäger, Annette Kopp-Schneider, Gaël Varoquaux, Olivier Colliot, Lena Maier-Hein
 
 Medical imaging is spearheading the AI transformation of healthcare.
 Performance reporting is key to determine which methods should be translated
@@ -1333,24 +1333,24 @@ into clinical practice. Frequently, broad conclusions are simply derived from
 mean performance values. In this paper, we argue that this common practice is
 often a misleading simplification as it ignores performance variability. Our
 contribution is threefold. (1) Analyzing all MICCAI segmentation papers (n =
-221) published in 2023, we first observe that more than 50\% of papers do not
-assess performance variability at all. Moreover, only one (0.5\%) paper
-reported confidence intervals (CIs) for model performance. (2) To address the
-reporting bottleneck, we show that the unreported standard deviation (SD) in
-segmentation papers can be approximated by a second-order polynomial function
-of the mean Dice similarity coefficient (DSC). Based on external validation
-data from 56 previous MICCAI challenges, we demonstrate that this approximation
-can accurately reconstruct the CI of a method using information provided in
-publications. (3) Finally, we reconstructed 95\% CIs around the mean DSC of
+221) published in 2023, we first observe that more than 50% of papers do not
+assess performance variability at all. Moreover, only one (0.5%) paper reported
+confidence intervals (CIs) for model performance. (2) To address the reporting
+bottleneck, we show that the unreported standard deviation (SD) in segmentation
+papers can be approximated by a second-order polynomial function of the mean
+Dice similarity coefficient (DSC). Based on external validation data from 56
+previous MICCAI challenges, we demonstrate that this approximation can
+accurately reconstruct the CI of a method using information provided in
+publications. (3) Finally, we reconstructed 95% CIs around the mean DSC of
 MICCAI 2023 segmentation papers. The median CI width was 0.03 which is three
 times larger than the median performance gap between the first and second
-ranked method. For more than 60\% of papers, the mean performance of the
+ranked method. For more than 60% of papers, the mean performance of the
 second-ranked method was within the CI of the first-ranked method. We conclude
 that current publications typically do not provide sufficient evidence to
 support which models could potentially be translated into clinical practice.
 
-摘要：醫療影像正帶領 AI 轉型醫療保健。
-效能報告是決定哪些方法應轉譯至臨床實務的關鍵。通常，廣泛的結論僅來自於平均效能值。在這篇論文中，我們主張這個常見的實務通常是誤導性的簡化，因為它忽略了效能變異性。我們的貢獻有三方面。(1) 分析所有 2023 年發表的 MICCAI 分割論文 (n = 221)，我們首先觀察到超過 50% 的論文完全沒有評估效能變異性。此外，僅有一篇 (0.5%) 論文報告了模型效能的信賴區間 (CI)。(2) 為了解決報告瓶頸，我們顯示分割論文中未報告的標準差 (SD) 可以近似為平均 Dice 相似係數 (DSC) 的二階多項式函數。根據來自 56 個先前 MICCAI 挑戰的外部驗證資料，我們證明此近似值可以使用出版品中提供的資訊準確地重建方法的 CI。(3) 最後，我們在 MICCAI 2023 分割論文的平均 DSC 周圍重建了 95% CI。中位數 CI 寬度為 0.03，是第一名和第二名方法之間的中位數效能差距的三倍。對於超過 60% 的論文，第二名方法的平均效能落在第一名方法的 CI 內。我們得出結論，目前的出版品通常沒有提供足夠的證據來支持哪些模型有可能轉譯至臨床實務。
+摘要：醫療影像正帶領著醫療保健的人工智慧轉型。
+效能報告對於決定哪些方法應轉換為臨床實務至關重要。通常，廣泛的結論僅來自於平均效能值。在本文中，我們主張這種常見做法通常是一種誤導性的簡化，因為它忽略了效能變異性。我們的貢獻有三方面：(1) 分析 2023 年發表的 221 篇 MICCAI 分割論文，我們首先觀察到超過 50% 的論文根本沒有評估效能變異性。此外，只有一篇 (0.5%) 論文報告了模型效能的信心區間 (CI)。(2) 為了解決報告瓶頸，我們表明分割論文中未報告的標準差 (SD) 可以近似為平均 Dice 相似性係數 (DSC) 的二階多項式函數。根據來自 56 項先前 MICCAI 挑戰的外部驗證資料，我們證明此近似值可以使用論文中提供的資訊準確重建方法的 CI。(3) 最後，我們重建了 MICCAI 2023 分割論文平均 DSC 周圍的 95% CI。中位數 CI 寬度為 0.03，是第一名和第二名方法之間的中位數效能差距的三倍。對於超過 60% 的論文，排名第二的方法的平均效能都在排名第一的方法的 CI 內。我們得出結論，目前的論文通常無法提供足夠的證據來支持哪些模型有可能轉換為臨床實務。
 
 ##### **Integrating Hierarchical Semantic into Iterative Generation Model for Entailment Tree Explanation**
 2409.17757v1 by Qin Wang, Jianzhou Feng, Yiming Xu
@@ -1441,7 +1441,7 @@ systems' capabilities.
 摘要：在這項研究中，我們深入探討了在將預訓練語言模型 (PLM) 中的Transformer重新用作自動語音辨識 (ASR) 編碼器時，這些Transformer的效能。我們的基本假設假設，儘管最初是在基於文字的語料庫上訓練，但這些Transformer具備從輸入序列中提取有效特徵的非凡能力。我們認為，這種內在能力可以轉移到語音資料，從而增強 ASR 的聲學建模能力。透過嚴謹的實證分析，我們的研究結果顯示，當將來自預訓練 LM 的Transformer納入時，各種 ASR 任務的字元錯誤率 (CER) 和字詞錯誤率 (WER) 都顯著改善。特別是，它們作為初始化 ASR 編碼器的有利起點。此外，我們發現，當這些Transformer整合到一個完善的 ASR 編碼器中時，可以顯著提升效能，特別是在深刻語義理解至關重要的場景中。這強調了利用預訓練Transformer中嵌入的語義能力來提升 ASR 系統功能的潛力。
 
 ##### **Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**
-2409.17745v1 by Nilanjan Sinhababu, Andrew Parry, Debasis Ganguly, Debasis Samanta, Pabitra Mitra
+2409.17745v2 by Nilanjan Sinhababu, Andrew Parry, Debasis Ganguly, Debasis Samanta, Pabitra Mitra
 
 A supervised ranking model, despite its advantage of being effective, usually
 involves complex processing - typically multiple stages of task-specific
@@ -1460,7 +1460,7 @@ zero-shot baseline on both in-domain (TREC DL) and out-domain (BEIR subset)
 retrieval benchmarks. Our method also achieves a close performance to that of a
 supervised model without requiring any complex training pipeline.
 
-摘要：儘管監督式排名模型具有有效性的優勢，但通常涉及複雜的處理程序 - 通常是特定任務的預先訓練和微調的多個階段。這促使研究人員探索利用大型語言模型 (LLM) 的更簡單管道，這些模型能夠以零次學習的方式工作。然而，由於零次學習推論並未利用查詢對及其相關文件組成的訓練集，因此其效能通常比監督式模型差，而監督式模型是在此類範例對上訓練的。受到現有發現的啟發，即訓練範例通常會改善零次學習效能，在我們的研究中，我們探討這是否也適用於排名模型。更具體地說，給定一個查詢和一對文件，偏好預測任務會透過擴充訓練集中類似查詢的偏好範例而得到改善。我們提出的成對少次學習排名器在領域內 (TREC DL) 和領域外 (BEIR 子集) 擷取基準上都顯示出相較於零次學習基準的一致性改善。我們的方法也達到了與監督式模型接近的效能，而不需要任何複雜的訓練管道。
+摘要：監督式排名模型儘管具有有效率的優勢，通常涉及複雜的處理程序，通常是任務特定預訓練和微調的多個階段。這促使研究人員探索利用大型語言模型 (LLM) 的更簡單管道，這些模型能夠以零次學習的方式工作。然而，由於零次學習推理並未利用查詢對及其相關文件訓練集，因此其效能大多比監督式模型差，而監督式模型是在此類範例對上訓練的。受現有發現的激勵，即訓練範例通常會改善零次學習效能，在我們的研究中，我們探討這是否也適用於排名模型。更具體地說，給定一個查詢和一對文件，偏好預測任務會透過增加訓練集類似查詢的偏好範例而得到改善。我們提出的成對少次學習排名器在領域內 (TREC DL) 和領域外 (BEIR 子集) 檢索基準上都展現出比零次學習基準線更一致的改善。我們的模型也達成與監督式模型相當的效能，而無需任何複雜的訓練管道。
 
 ##### **AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**
 2409.17728v1 by Shiqi Sun, Yantao Lu, Ning Liu, Bo Jiang, JinChao Chen, Ying Zhang
@@ -1516,7 +1516,7 @@ demonstrating its flexibility and scalability.
 摘要：機器人經驗的口頭表達，即總結和回答機器人過去的提問，是提升人機互動的一項關鍵能力。先前的研究應用基於規則的系統或微調深度模型來口頭表達簡短（數分鐘長的）情節資料串流，限制了概括性和可轉移性。在我們的研究中，我們應用大型預訓練模型來處理這個任務，範例為零或少數，特別專注於口頭表達終生的經驗。為此，我們從情節記憶（EM）中推導出樹狀資料結構，較低層級表示原始感知和本體感覺資料，而較高層級則將事件抽象為自然語言概念。給定從經驗串流建構的此類階層式表示，我們應用大型語言模型作為代理，根據使用者的查詢互動式搜尋 EM，動態展開（最初摺疊）樹狀節點以找出相關資訊。即使擴充到數個月的機器人經驗資料，這種方法也能維持低運算成本。我們在模擬家用機器人資料、人類自我中心影片和真實世界的機器人記錄中評估我們的模型，證明了它的靈活性和可擴充性。
 
 ##### **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**
-2409.17699v1 by Giandomenico Cornacchia, Giulio Zizzo, Kieran Fraser, Muhammad Zaid Hamed, Ambrish Rawat, Mark Purcell
+2409.17699v2 by Giandomenico Cornacchia, Giulio Zizzo, Kieran Fraser, Muhammad Zaid Hamed, Ambrish Rawat, Mark Purcell
 
 The proliferation of Large Language Models (LLMs) in diverse applications
 underscores the pressing need for robust security measures to thwart potential
@@ -1534,7 +1534,9 @@ inference. Through rigorous experimentation, MoJE demonstrates superior
 performance capable of detecting 90% of the attacks without compromising benign
 prompts, enhancing LLMs security against jailbreak attacks.
 
-摘要：大型語言模型 (LLM) 在各種應用中激增，這凸顯了對強大安全措施的迫切需求，以阻止潛在的越獄攻擊。這些攻擊會利用 LLM 中的漏洞，危害資料完整性和使用者隱私。防護措施可作為對抗此類威脅的關鍵保護機制，但現有模型在偵測準確性和運算效率方面往往不足。本文主張在 LLM 上預防越獄攻擊的重要性，並強調輸入防護措施在保護這些模型中的作用。我們介紹了 MoJE（越獄專家混合），這是一種新穎的防護措施架構，旨在超越現有最先進防護措施中的當前限制。透過採用簡單的語言統計技術，MoJE 在偵測越獄攻擊方面表現出色，同時在模型推論期間保持最小的運算負擔。透過嚴謹的實驗，MoJE 展示了優異的效能，能夠偵測 90% 的攻擊，而不會影響良性的提示，增強 LLM 對越獄攻擊的安全性。
+摘要：大型語言模型 (LLM) 在各種應用中的激增
+強調了採取強大的安全措施以阻止潛在越獄攻擊的迫切需求。這些攻擊利用 LLM 中的漏洞，危害
+資料完整性和使用者隱私。防護措施作為對抗此類威脅的關鍵保護機制，但現有模型通常在偵測準確性和運算效率方面有所不足。本文主張在 LLM 上預防越獄攻擊的重要性，並強調輸入防護措施在保護這些模型中的作用。我們介紹了 MoJE（越獄專家混合體），一種新穎的防護措施架構，旨在超越現有最先進防護措施中的當前限制。透過採用簡單的語言統計技術，MoJE 在偵測越獄攻擊方面表現出色，同時在模型推理期間保持最小的運算負擔。透過嚴格的實驗，MoJE 展示了卓越的效能，能夠偵測 90% 的攻擊，而不會損害良性的提示，增強 LLM 對越獄攻擊的安全性。
 
 ##### **MIO: A Foundation Model on Multimodal Tokens**
 2409.17692v1 by Zekun Wang, King Zhu, Chunpu Xu, Wangchunshu Zhou, Jiaheng Liu, Yibo Zhang, Jiashuo Wang, Ning Shi, Siyu Li, Yizhi Li, Haoran Que, Zhaoxiang Zhang, Yuanxing Zhang, Ge Zhang, Ke Xu, Jie Fu, Wenhao Huang
@@ -2254,8 +2256,8 @@ quality.
 
 摘要：潛在擴散模型 (LDM) 近年來在影像生成領域取得顯著進展。LDM 的一大優勢是它們能夠在壓縮潛在空間中運作，從而實現更有效率的訓練和部署。然而，儘管有這些優勢，LDM 仍存在挑戰。例如，人們觀察到 LDM 經常不完美地生成高頻率細節和複雜的組合。我們假設這些缺陷的一個原因是，LDM 的所有訓練前和訓練後都是在潛在空間中完成的，而潛在空間通常比輸出影像的空間解析度低 $8 \times 8$。為了解決這個問題，我們建議在訓練後過程中加入像素空間監督，以更好地保留高頻率細節。在實驗中，我們表明加入像素空間目標顯著改善了監督式品質微調和基於偏好的訓練後，在最先進的 DiT Transformer 和 U-Net 擴散模型中，在視覺品質和視覺缺陷指標上都有大幅進步，同時維持相同的文字對齊品質。
 
-##### **Modulated Intervention Preference Optimization (MIPO): Keey the Easy, Refine the Difficult**
-2409.17545v1 by Cheolhun Jang
+##### **Modulated Intervention Preference Optimization (MIPO): Keep the Easy, Refine the Difficult**
+2409.17545v2 by Cheolhun Jang
 
 Preference optimization methods typically begin training with a well-trained
 SFT model as a reference model. In RLHF and DPO, a regularization term is used
@@ -2277,7 +2279,7 @@ Mistral-7B and Llama3-8B in Alpaca Eval 2.0 and MT-Bench. The experimental
 results demonstrate that MIPO consistently outperforms DPO across various
 evaluation scenarios.
 
-摘要：偏好优化方法通常以训练有素的 SFT 模型作为参考模型来开始训练。在 RLHF 和 DPO 中，在偏好优化过程中使用正则化项来防止策略模型偏离参考模型的分布太远，从而避免生成异常响应。当参考模型已经与给定数据很好地对齐或只需要微调时，这种方法可以生成一个很好地对齐的模型。然而，如果参考模型与给定数据不一致，并且需要与其当前状态有较大偏差，那么正则化项实际上可能会阻碍模型对齐。在这项研究中，我们提出了**调制干预偏好优化 (MIPO)** 来解决这个问题。MIPO 根据给定数据与其对齐的程度来调节参考模型的干预程度。如果数据对齐良好，则增加干预以防止策略模型与参考模型显着偏离。相反，如果对齐较差，则减少干扰以促进更广泛的训练。我们使用 Alpaca Eval 2.0 和 MT-Bench 中的 Mistral-7B 和 Llama3-8B 比较了 MIPO 和 DPO 的性能。实验结果表明，在各种评估场景中，MIPO 的表现始终优于 DPO。
+摘要：偏好优化方法通常会以训练良好的 SFT 模型作为参考模型开始训练。在 RLHF 和 DPO 中，在偏好优化过程中使用正则化项来防止策略模型偏离参考模型的分布太远，从而避免生成异常响应。当参考模型已与给定数据充分对齐或仅需要微调时，这种方法可以生成一个充分对齐的模型。但是，如果参考模型与给定数据不对齐，并且需要对其当前状态进行重大偏差，则正则化项实际上可能会阻碍模型对齐。在本研究中，我们提出了**调制干预偏好优化 (MIPO)**来解决这个问题。MIPO 根据给定数据与参考模型的对齐程度来调节干预的程度。如果数据对齐良好，则增加干预以防止策略模型与参考模型显着发散。相反，如果对齐不良，则减少干扰以促进更广泛的训练。我们使用 Alpaca Eval 2.0 和 MT-Bench 中的 Mistral-7B 和 Llama3-8B 比较了 MIPO 和 DPO 的性能。实验结果表明，MIPO 在各种评估场景中始终优于 DPO。
 
 ##### **Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models**
 2409.17539v1 by Tongxuan Liu, Wenjiang Xu, Weizhe Huang, Xingyu Wang, Jiaxing Wang, Hailong Yang, Jing Li

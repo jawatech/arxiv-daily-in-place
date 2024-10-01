@@ -65,6 +65,7 @@
 |**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873v1](http://arxiv.org/abs/2403.17873v1)|null|
 |**2024-03-26**|**Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**|Han Yuan et.al.|[2403.18871v1](http://arxiv.org/abs/2403.18871v1)|[link](https://github.com/han-yuan-med/template-explanation)|
 |**2024-03-03**|**Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**|Séamus Lankford et.al.|[2403.01580v1](http://arxiv.org/abs/2403.01580v1)|null|
+|**2024-02-28**|**Cause and Effect: Can Large Language Models Truly Understand Causality?**|Swagata Ashwani et.al.|[2402.18139v3](http://arxiv.org/abs/2402.18139v3)|null|
 |**2024-02-28**|**Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**|Yasin Sadeghi Bazargani et.al.|[2402.18600v1](http://arxiv.org/abs/2402.18600v1)|null|
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
@@ -101,7 +102,6 @@
 |**2023-07-26**|**Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**|Henry Fraser et.al.|[2308.02047v1](http://arxiv.org/abs/2308.02047v1)|null|
 |**2023-07-21**|**eXplainable Artificial Intelligence (XAI) in aging clock models**|Alena Kalyakulina et.al.|[2307.13704v3](http://arxiv.org/abs/2307.13704v3)|null|
 |**2023-07-19**|**Interpreting and Correcting Medical Image Classification with PIP-Net**|Meike Nauta et.al.|[2307.10404v2](http://arxiv.org/abs/2307.10404v2)|[link](https://github.com/m-nauta/pipnet)|
-|**2023-07-15**|**Explaining and visualizing black-box models through counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764v3](http://arxiv.org/abs/2307.07764v3)|[link](https://github.com/pievos101/cpath)|
 
 #### Abstracts
 ##### **Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**
@@ -1735,6 +1735,33 @@ Shared Task.
 低資源語言的平行資料集的稀缺會阻礙 MT 的發展。為了解決這個問題，開發了 gaHealth，這是愛爾蘭語的第一個雙語健康資料語料庫。專注於健康領域，使用此域內資料集開發的模型在 BLEU 得分方面表現出非常顯著的進步，與 LoResMT2021 共享任務中的模型相比。隨後使用多維品質指標錯誤分類法進行的人工評估顯示，與基於 RNN 的對應模型相比，Transformer 系統在減少準確性和流暢性錯誤方面表現出優異的性能。
 此外，本論文介紹了 adaptNMT 和 adaptMLLM，這兩個開源應用程式簡化了神經機器翻譯模型的開發、微調和部署。這些工具大幅簡化了設定和評估流程，讓 MT 更容易讓開發人員和翻譯人員使用。值得注意的是，adaptNMT 以 OpenNMT 生態系統為基礎，通過強調模型開發的環境足跡來促進生態友好的自然語言處理研究。與 LoResMT2021 共享任務中的基準相比，adaptMLLM 對 MLLM 的微調證明了英語↔愛爾蘭語和英語↔馬拉地語這兩個低資源語言對的翻譯性能進步。</paragraph>
 
+##### **Cause and Effect: Can Large Language Models Truly Understand Causality?**
+2402.18139v3 by Swagata Ashwani, Kshiteesh Hegde, Nishith Reddy Mannuru, Mayank Jindal, Dushyant Singh Sengar, Krishna Chaitanya Rao Kathala, Dishant Banga, Vinija Jain, Aman Chadha
+
+With the rise of Large Language Models(LLMs), it has become crucial to
+understand their capabilities and limitations in deciphering and explaining the
+complex web of causal relationships that language entails. Current methods use
+either explicit or implicit causal reasoning, yet there is a strong need for a
+unified approach combining both to tackle a wide array of causal relationships
+more effectively. This research proposes a novel architecture called Context
+Aware Reasoning Enhancement with Counterfactual Analysis(CARE CA) framework to
+enhance causal reasoning and explainability. The proposed framework
+incorporates an explicit causal detection module with ConceptNet and
+counterfactual statements, as well as implicit causal detection through LLMs.
+Our framework goes one step further with a layer of counterfactual explanations
+to accentuate LLMs understanding of causality. The knowledge from ConceptNet
+enhances the performance of multiple causal reasoning tasks such as causal
+discovery, causal identification and counterfactual reasoning. The
+counterfactual sentences add explicit knowledge of the not caused by scenarios.
+By combining these powerful modules, our model aims to provide a deeper
+understanding of causal relationships, enabling enhanced interpretability.
+Evaluation of benchmark datasets shows improved performance across all metrics,
+such as accuracy, precision, recall, and F1 scores. We also introduce
+CausalNet, a new dataset accompanied by our code, to facilitate further
+research in this domain.
+
+摘要：隨著大型語言模型 (LLM) 的興起，了解它們在解碼和解釋語言所蘊含的複雜因果關係網路中的能力和限制變得至關重要。目前的技術使用明確或隱含的因果推理，但強烈需要一種統一的方法，結合兩者以更有效地處理廣泛的因果關係。本研究提出了一種稱為情境感知推理增強與反事實分析 (CARE CA) 框架的新架構，以增強因果推理和可解釋性。提出的框架結合了使用 ConceptNet 和反事實陳述的明確因果檢測模組，以及透過 LLM 進行的隱含因果檢測。我們的框架更進一步，加入一層反事實解釋，以強調 LLM 對因果關係的理解。來自 ConceptNet 的知識增強了多項因果推理任務的執行，例如因果發現、因果識別和反事實推理。反事實句加入了未由情境造成的明確知識。透過結合這些強大的模組，我們的模型旨在提供對因果關係更深入的理解，實現增強的可解釋性。基準資料集的評估顯示在所有指標（例如準確度、精確度、召回率和 F1 分數）上都有所提升。我們還引入了 CausalNet，一個新的資料集，並附上了我們的程式碼，以促進在這個領域的進一步研究。
+
 ##### **Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**
 2402.18600v1 by Yasin Sadeghi Bazargani, Majid Mirzaei, Navid Sobhi, Mirsaeed Abdollahi, Ali Jafarizadeh, Siamak Pedrammehr, Roohallah Alizadehsani, Ru San Tan, Sheikh Mohammed Shariful Islam, U. Rajendra Acharya
 
@@ -2626,21 +2653,4 @@ that part-prototype models are promising for medical applications due to their
 interpretability and potential for advanced model debugging.
 
 摘要：部分原型模型是可解釋設計的影像分類器，也是黑箱 AI 的一個有前途的替代方案。這篇論文探討了解釋性機器學習，特別是 PIP-Net，在真實世界醫學影像資料上自動化診斷支援的適用性和潛力。PIP-Net 學習人類可理解的原型影像部分，我們評估其在骨折檢測和皮膚癌診斷方面的準確性和可解釋性。我們發現 PIP-Net 的決策制定過程符合醫學分類標準，同時僅提供影像層級類別標籤。由於 PIP-Net 對原型的無監督預訓練，因此可以輕鬆識別資料品質問題，例如 X 光中的不需要文字或標籤錯誤。此外，我們首次展示人類可以透過直接停用不需要的原型來手動修正 PIP-Net 的推理。我們得出結論，部分原型模型由於其可解釋性和進階模型除錯的潛力，因此有望應用於醫療。
-
-##### **Explaining and visualizing black-box models through counterfactual paths**
-2307.07764v3 by Bastian Pfeifer, Mateusz Krzyzinski, Hubert Baniecki, Anna Saranti, Andreas Holzinger, Przemyslaw Biecek
-
-Explainable AI (XAI) is an increasingly important area of machine learning
-research, which aims to make black-box models transparent and interpretable. In
-this paper, we propose a novel approach to XAI that uses the so-called
-counterfactual paths generated by conditional permutations of features. The
-algorithm measures feature importance by identifying sequential permutations of
-features that most influence changes in model predictions. It is particularly
-suitable for generating explanations based on counterfactual paths in knowledge
-graphs incorporating domain knowledge. Counterfactual paths introduce an
-additional graph dimension to current XAI methods in both explaining and
-visualizing black-box models. Experiments with synthetic and medical data
-demonstrate the practical applicability of our approach.
-
-摘要：可解釋 AI (XAI) 是機器學習研究中日益重要的領域，其目標是讓黑箱模型透明且可解釋。在本文中，我們提出了一種新的 XAI 方法，該方法使用由特徵條件置換產生的所謂反事實路徑。該演算法透過識別特徵的順序置換來衡量特徵重要性，這些置換最能影響模型預測的變化。它特別適合根據包含領域知識的知識圖譜中的反事實路徑來產生解釋。反事實路徑在解釋和視覺化黑箱模型時，為目前的 XAI 方法引入了額外的圖形維度。使用合成和醫療資料進行的實驗證明了我們方法的實用適用性。
 

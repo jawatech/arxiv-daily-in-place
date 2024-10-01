@@ -2,6 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053v1](http://arxiv.org/abs/2409.20053v1)|null|
+|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v1](http://arxiv.org/abs/2409.19979v1)|null|
+|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|null|
+|**2024-09-29**|**Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models**|Xin Li et.al.|[2409.19667v1](http://arxiv.org/abs/2409.19667v1)|[link](https://github.com/bupt-gamma/prograph)|
+|**2024-09-28**|**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**|Zheng Wang et.al.|[2409.19401v1](http://arxiv.org/abs/2409.19401v1)|null|
+|**2024-09-27**|**CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**|Haobo Li et.al.|[2409.19058v1](http://arxiv.org/abs/2409.19058v1)|null|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|null|
 |**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911v1](http://arxiv.org/abs/2409.18911v1)|[link](https://github.com/kuldeep7688/soft-measures-causal-intelligence)|
 |**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743v1](http://arxiv.org/abs/2409.18743v1)|null|
@@ -96,14 +102,161 @@
 |**2024-08-25**|**CodeGraph: Enhancing Graph Reasoning of LLMs with Code**|Qiaolong Cai et.al.|[2408.13863v1](http://arxiv.org/abs/2408.13863v1)|null|
 |**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512v1](http://arxiv.org/abs/2408.14512v1)|null|
 |**2024-08-24**|**Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models**|Sakhinana Sagar Srinivas et.al.|[2408.13661v1](http://arxiv.org/abs/2408.13661v1)|null|
-|**2024-08-24**|**GNN: Graph Neural Network and Large Language Model for Data Discovery**|Thomas Hoang et.al.|[2408.13609v2](http://arxiv.org/abs/2408.13609v2)|null|
-|**2024-08-24**|**HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**|Azmine Toushik Wasi et.al.|[2408.13521v1](http://arxiv.org/abs/2408.13521v1)|[link](https://github.com/azminewasi/hrgraph)|
-|**2024-08-24**|**Integrating Multi-Head Convolutional Encoders with Cross-Attention for Improved SPARQL Query Translation**|Yi-Hui Chen et.al.|[2408.13432v1](http://arxiv.org/abs/2408.13432v1)|null|
-|**2024-08-23**|**CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**|Ekaterina Trofimova et.al.|[2408.13366v1](http://arxiv.org/abs/2408.13366v1)|null|
-|**2024-08-23**|**Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving**|Sakhinana Sagar Srinivas et.al.|[2408.14494v1](http://arxiv.org/abs/2408.14494v1)|null|
-|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v2](http://arxiv.org/abs/2408.12578v2)|[link](https://github.com/ekdeepslubana/conceptpercolation)|
 
 #### Abstracts
+##### **GUNDAM: Aligning Large Language Models with Graph Understanding**
+2409.20053v1 by Sheng Ouyang, Yulan Hu, Ge Chen, Yong Liu
+
+Large Language Models (LLMs) have achieved impressive results in processing
+text data, which has sparked interest in applying these models beyond textual
+data, such as graphs. In the field of graph learning, there is a growing
+interest in harnessing LLMs to comprehend and manipulate graph-structured data.
+Existing research predominantly focuses on graphs with rich textual features,
+such as knowledge graphs or text attribute graphs, leveraging LLMs' ability to
+process text but inadequately addressing graph structure. This work
+specifically aims to assess and enhance LLMs' abilities to comprehend and
+utilize the structural knowledge inherent in graph data itself, rather than
+focusing solely on graphs rich in textual content. To achieve this, we
+introduce the \textbf{G}raph \textbf{U}nderstanding for \textbf{N}atural
+Language \textbf{D}riven \textbf{A}nalytical \textbf{M}odel (\model). This
+model adapts LLMs to better understand and engage with the structure of graph
+data, enabling them to perform complex reasoning tasks by leveraging the
+graph's structure itself. Our experimental evaluations on graph reasoning
+benchmarks not only substantiate that \model~ outperforms the SOTA baselines
+for comparisons. But also reveals key factors affecting the graph reasoning
+capabilities of LLMs. Moreover, we provide a theoretical analysis illustrating
+how reasoning paths can enhance LLMs' reasoning capabilities.
+
+摘要：大型語言模型 (LLM) 在處理文本數據方面取得了令人印象深刻的成果，這激發了將這些模型應用於文本數據之外領域（例如圖表）的興趣。在圖表學習領域，利用 LLM 來理解和操作圖表結構數據的興趣與日俱增。現有的研究主要集中於具有豐富文本特徵的圖表，例如知識圖表或文本屬性圖表，利用 LLM 處理文本的能力，但未能充分解決圖表結構。這項工作特別旨在評估和增強 LLM 理解和利用圖表數據本身固有的結構知識的能力，而不是僅關注富含文本內容的圖表。為此，我們引入了自然語言驅動分析模型的圖表理解 (\model)。此模型改進了 LLM 以便更好地理解和參與圖表數據的結構，使其能夠通過利用圖表的結構本身來執行複雜的推理任務。我們對圖表推理基準的實驗評估不僅證實了 \model~ 優於用於比較的 SOTA 基準，還揭示了影響 LLM 圖表推理能力的主要因素。此外，我們提供了理論分析，說明推理路徑如何增強 LLM 的推理能力。
+
+##### **Enhancing High-order Interaction Awareness in LLM-based Recommender Model**
+2409.19979v1 by Xinfeng Wang, Jin Cui, Fumiyo Fukumoto, Yoshimi Suzuki
+
+Large language models (LLMs) have demonstrated prominent reasoning
+capabilities in recommendation tasks by transforming them into text-generation
+tasks. % many NLP applications including However, existing approaches either
+disregard or ineffectively model the user--item high-order interactions. To
+this end, this paper presents an enhanced LLM-based recommender (ELMRec). We
+enhance whole-word embeddings to substantially enhance LLMs' interpretation of
+graph-constructed interactions for recommendations, without requiring graph
+pre-training. This finding may inspire endeavors to incorporate rich knowledge
+graphs into LLM-based recommenders via whole-word embedding. We also found that
+LLMs often recommend items based on users' earlier interactions rather than
+recent ones, and present a reranking solution. Our ELMRec outperforms
+state-of-the-art (SOTA) methods in both direct and sequential recommendations.
+
+摘要：大型語言模型 (LLM) 在推薦任務中展現出顯著的推理能力，將其轉化為文本生成任務。然而，現有的方法不是忽視用戶與項目的高階互動，就是對其建模無效。為此，本文提出一個增強的基於 LLM 的推薦器 (ELMRec)。我們增強全詞嵌入，以大幅增強 LLM 對圖形建構互動的解讀，以進行推薦，而無需圖形預訓練。這一發現可能激勵人們通過全詞嵌入將豐富的知識圖譜整合到基於 LLM 的推薦器中。我們還發現，LLM 通常根據用戶早期的互動而不是最近的互動來推薦項目，並提出一個重新排序的解決方案。我們的 ELMRec 在直接和順序推薦中都優於最先進 (SOTA) 的方法。
+
+##### **CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**
+2409.19753v1 by Yike Wu, Yi Huang, Nan Hu, Yuncheng Hua, Guilin Qi, Jiaoyan Chen, Jeff Z. Pan
+
+Recent studies have explored the use of Large Language Models (LLMs) with
+Retrieval Augmented Generation (RAG) for Knowledge Graph Question Answering
+(KGQA). They typically require rewriting retrieved subgraphs into natural
+language formats comprehensible to LLMs. However, when tackling complex
+questions, the knowledge rewritten by existing methods may include irrelevant
+information, omit crucial details, or fail to align with the question's
+semantics. To address them, we propose a novel rewriting method CoTKR,
+Chain-of-Thought Enhanced Knowledge Rewriting, for generating reasoning traces
+and corresponding knowledge in an interleaved manner, thereby mitigating the
+limitations of single-step knowledge rewriting. Additionally, to bridge the
+preference gap between the knowledge rewriter and the question answering (QA)
+model, we propose a training strategy PAQAF, Preference Alignment from Question
+Answering Feedback, for leveraging feedback from the QA model to further
+optimize the knowledge rewriter. We conduct experiments using various LLMs
+across several KGQA benchmarks. Experimental results demonstrate that, compared
+with previous knowledge rewriting methods, CoTKR generates the most beneficial
+knowledge representation for QA models, which significantly improves the
+performance of LLMs in KGQA.
+
+摘要：近期研究探索了使用大型語言模型 (LLM) 和檢索增強生成 (RAG) 來進行知識圖表問答 (KGQA)。它們通常需要將檢索到的子圖改寫為 LLM 可以理解的自然語言格式。然而，在處理複雜問題時，現有方法改寫的知識可能包含不相關的資訊、遺漏關鍵細節，或無法與問題的語義對齊。為了解決這些問題，我們提出了一種新的改寫方法 CoTKR，即基於思考鏈的知識增強改寫，以交錯的方式生成推理軌跡和對應的知識，從而減輕單步知識改寫的限制。此外，為了彌合知識改寫器和問答 (QA) 模型之間的偏好差距，我們提出了一種訓練策略 PAQAF，即基於問答回饋的偏好對齊，以利用 QA 模型的回饋進一步最佳化知識改寫器。我們使用各種 LLM 在多個 KGQA 基準上進行了實驗。實驗結果表明，與先前的知識改寫方法相比，CoTKR 為 QA 模型生成了最有益的知識表示，這顯著提高了 LLM 在 KGQA 中的效能。
+
+##### **Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models**
+2409.19667v1 by Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang
+
+The need to analyze graphs is ubiquitous across various fields, from social
+networks to biological research and recommendation systems. Therefore, enabling
+the ability of large language models (LLMs) to process graphs is an important
+step toward more advanced general intelligence. However, current LLM benchmarks
+on graph analysis require models to directly reason over the prompts describing
+graph topology, and are thus limited to small graphs with only a few dozens of
+nodes. In contrast, human experts typically write programs based on popular
+libraries for task solving, and can thus handle graphs with different scales.
+To this end, a question naturally arises: can LLMs analyze graphs like
+professionals? In this paper, we introduce ProGraph, a manually crafted
+benchmark containing 3 categories of graph tasks. The benchmark expects
+solutions based on programming instead of directly reasoning over raw inputs.
+Our findings reveal that the performance of current LLMs is unsatisfactory,
+with the best model achieving only 36% accuracy. To bridge this gap, we propose
+LLM4Graph datasets, which include crawled documents and auto-generated codes
+based on 6 widely used graph libraries. By augmenting closed-source LLMs with
+document retrieval and fine-tuning open-source ones on the codes, we show
+11-32% absolute improvements in their accuracies. Our results underscore that
+the capabilities of LLMs in handling structured data are still under-explored,
+and show the effectiveness of LLM4Graph in enhancing LLMs' proficiency of graph
+analysis. The benchmark, datasets and enhanced open-source models are available
+at https://github.com/BUPT-GAMMA/ProGraph.
+
+摘要：<paragraph>在從社交網路到生物研究和推薦系統的各種領域中，分析圖形的需求無處不在。因此，賦予大型語言模型 (LLM) 處理圖形的能力，是邁向更先進的通用智慧的重要一步。然而，目前圖形分析上的 LLM 基準要求模型直接對描述圖形拓撲結構的提示進行推理，因此僅限於只有數十個節點的小型圖形。相比之下，人類專家通常會根據流行的函式庫撰寫程式來解決任務，因此可以處理不同規模的圖形。為此，自然會產生一個問題：LLM 能像專業人士一樣分析圖形嗎？在本文中，我們介紹 ProGraph，一個包含 3 類圖形任務的手工製作基準。該基準預期解決方案是基於程式設計，而不是直接對原始輸入進行推理。我們的發現顯示，目前 LLM 的效能並不令人滿意，最佳模型僅達到 36% 的準確度。為了彌補這個差距，我們提出了 LLM4Graph 資料集，其中包含根據 6 個廣泛使用的圖形函式庫爬取的的文件和自動生成的程式碼。透過使用文件檢索來擴充閉源 LLM，並針對程式碼微調開源 LLM，我們展示了準確度提升了 11-32%。我們的結果強調，LLM 在處理結構化資料方面的能力仍未被充分探索，並顯示了 LLM4Graph 在提升 LLM 圖形分析能力方面的有效性。基準、資料集和增強的開源模型可在 https://github.com/BUPT-GAMMA/ProGraph 取得。</paragraph>
+
+##### **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**
+2409.19401v1 by Zheng Wang, Zhongyang Li, Zeren Jiang, Dandan Tu, Wei Shi
+
+In the age of mobile internet, user data, often referred to as memories, is
+continuously generated on personal devices. Effectively managing and utilizing
+this data to deliver services to users is a compelling research topic. In this
+paper, we introduce a novel task of crafting personalized agents powered by
+large language models (LLMs), which utilize a user's smartphone memories to
+enhance downstream applications with advanced LLM capabilities. To achieve this
+goal, we introduce EMG-RAG, a solution that combines Retrieval-Augmented
+Generation (RAG) techniques with an Editable Memory Graph (EMG). This approach
+is further optimized using Reinforcement Learning to address three distinct
+challenges: data collection, editability, and selectability. Extensive
+experiments on a real-world dataset validate the effectiveness of EMG-RAG,
+achieving an improvement of approximately 10% over the best existing approach.
+Additionally, the personalized agents have been transferred into a real
+smartphone AI assistant, which leads to enhanced usability.
+
+摘要：在行動網路時代，使用者資料（常稱為記憶）會持續在個人裝置上產生。有效管理並利用這些資料，為使用者提供服務，是一個引人入勝的研究主題。在本文中，我們介紹了一項創新的任務，即利用大型語言模型（LLM）打造個人化代理，利用使用者的智慧型手機記憶體，以進階 LLM 功能強化下游應用程式。為了達成這個目標，我們介紹了 EMG-RAG，一種結合檢索擴充生成（RAG）技術與可編輯記憶圖（EMG）的解決方案。這種方法進一步透過強化學習進行最佳化，以解決三個不同的挑戰：資料收集、可編輯性與可選擇性。在真實世界資料集上的廣泛實驗驗證了 EMG-RAG 的有效性，比現有最佳方法提升了約 10%。此外，個人化代理已轉移到真正的智慧型手機 AI 助理中，這提升了可用性。
+
+##### **CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**
+2409.19058v1 by Haobo Li, Zhaowei Wang, Jiachen Wang, Alexis Kai Hon Lau, Huamin Qu
+
+Forecasting weather and climate events is crucial for making appropriate
+measures to mitigate environmental hazards and minimize associated losses.
+Previous research on environmental forecasting focuses on predicting numerical
+meteorological variables related to closed-set events rather than forecasting
+open-set events directly, which limits the comprehensiveness of event
+forecasting. We propose Weather and Climate Event Forecasting (WCEF), a new
+task that leverages meteorological raster data and textual event data to
+predict potential weather and climate events. However, due to difficulties in
+aligning multimodal data and the lack of sufficient supervised datasets, this
+task is challenging to accomplish. Therefore, we first propose a framework to
+align historical meteorological data with past weather and climate events using
+the large language model (LLM). In this framework, we construct a knowledge
+graph by using LLM to extract information about weather and climate events from
+a corpus of over 41k highly environment-focused news articles. Subsequently, we
+mapped these events with meteorological raster data, creating a supervised
+dataset, which is the largest and most novel for LLM tuning on the WCEF task.
+Finally, we introduced our aligned models, CLLMate (LLM for climate), a
+multimodal LLM to forecast weather and climate events using meteorological
+raster data. In evaluating CLLMate, we conducted extensive experiments. The
+results indicate that CLLMate surpasses both the baselines and other multimodal
+LLMs, showcasing the potential of utilizing LLM to align weather and climate
+events with meteorological data and highlighting the promising future for
+research on the WCEF task.
+
+摘要：預測天氣和氣候事件對於採取適當措施減輕環境危害和將相關損失降至最低至關重要。
+先前有關環境預測的研究著重於預測與封閉集事件相關的數值氣象變數，而非直接預測開放集事件，這限制了事件預測的全面性。
+我們提出天氣和氣候事件預測 (WCEF)，這是一項利用氣象柵格資料和文字事件資料來預測潛在天氣和氣候事件的新任務。
+然而，由於多模態資料對齊的困難以及缺乏足夠的監督式資料集，因此此任務難以達成。
+因此，我們首先提出一個架構，使用大型語言模型 (LLM) 將歷史氣象資料與過去的天氣和氣候事件對齊。
+在此架構中，我們透過使用 LLM 從超過 41,000 篇高度關注環境的新聞文章中擷取有關天氣和氣候事件的資訊來建構知識圖譜。
+隨後，我們將這些事件對應到氣象柵格資料，建立一個監督式資料集，這是 LLM 在 WCEF 任務上調整中最大且最新穎的資料集。
+最後，我們引入了我們的對齊模型，CLLMate（氣候的 LLM），這是一個多模態 LLM，使用氣象柵格資料來預測天氣和氣候事件。
+在評估 CLLMate 時，我們進行了大量的實驗。
+結果表明，CLLMate 超越了基準和其他的多模態 LLM，展示了利用 LLM 將天氣和氣候事件與氣象資料對齊的潛力，並強調了 WCEF 任務研究的未來前景。
+
 ##### **AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**
 2409.18924v1 by Huizi Yu, Jiayan Zhou, Lingyao Li, Shan Chen, Jack Gallifant, Anye Shi, Xiang Li, Wenyue Hua, Mingyu Jin, Guang Chen, Yang Zhou, Zhao Li, Trisha Gupte, Ming-Li Chen, Zahra Azizi, Yongfeng Zhang, Themistocles L. Assimes, Xin Ma, Danielle S. Bitterman, Lin Lu, Lizhou Fan
 
@@ -2371,146 +2524,4 @@ overcoming challenges posed by distributional shifts, and facilitating
 high-throughput screening.
 
 摘要：利用電子顯微照片來表徵材料，在半導體和量子材料等領域中是一項至關重要的任務。顯微照片複雜的分層結構通常會對傳統分類方法帶來挑戰。在這項研究中，我們提出了一種創新的主幹架構，用於分析電子顯微照片。我們透過將顯微照片代換成區塊序列來建立其多模態表示，此外，我們還將其表示為視覺圖形，通常稱為區塊屬性圖形。我們引入了分層網路融合 (HNF)，這是一種多層網路結構架構，有助於多模態表示之間的資訊交換，以及不同區塊解析度之間的知識整合。此外，我們利用大型語言模型 (LLM) 來產生奈米材料的詳細技術說明，作為輔助資訊，以協助下游任務。我們利用跨模態注意力機制，在跨領域表示（基於影像和語言洞察力）中進行知識融合，以預測奈米材料類別。這種多方面的做法有望為奈米材料識別提供更全面且準確的表示和分類。我們的架構優於傳統方法，克服了分佈轉移帶來的挑戰，並促進了高通量篩選。
-
-##### **GNN: Graph Neural Network and Large Language Model for Data Discovery**
-2408.13609v2 by Thomas Hoang
-
-Our algorithm GNN: Graph Neural Network and Large Language Model for Data
-Discovery inherit the benefits of \cite{hoang2024plod} (PLOD: Predictive
-Learning Optimal Data Discovery), \cite{Hoang2024BODBO} (BOD: Blindly Optimal
-Data Discovery) in terms of overcoming the challenges of having to predefine
-utility function and the human input for attribute ranking, which helps prevent
-the time-consuming loop process. In addition to these previous works, our
-algorithm GNN leverages the advantages of graph neural networks and large
-language models to understand text type values that cannot be understood by
-PLOD and MOD, thus making the task of predicting outcomes more reliable. GNN
-could be seen as an extension of PLOD in terms of understanding the text type
-value and the user's preferences, not only numerical values but also text
-values, making the promise of data science and analytics purposes.
-
-摘要：我們的演算法 GNN：圖神經網路和大語言模型，用於資料探索，繼承了 \cite{hoang2024plod}（PLOD：預測性最佳資料探索）、\cite{Hoang2024BODBO}（BOD：盲目最佳資料探索）的優點，在於克服必須預先定義效用函數和人類輸入屬性排名的挑戰，這有助於防止耗時的迴圈處理。除了這些先前的作品，我們的演算法 GNN 利用圖神經網路和大語言模型的優點，來理解 PLOD 和 MOD 無法理解的文字類型值，從而使預測結果的任務更可靠。GNN 可以視為 PLOD 在理解文字類型值和使用者偏好方面的延伸，不僅是數值，還有文字值，這實現了資料科學和分析目的的承諾。
-
-##### **HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**
-2408.13521v1 by Azmine Toushik Wasi
-
-Knowledge Graphs (KGs) serving as semantic networks, prove highly effective
-in managing complex interconnected data in different domains, by offering a
-unified, contextualized, and structured representation with flexibility that
-allows for easy adaptation to evolving knowledge. Processing complex Human
-Resources (HR) data, KGs can help in different HR functions like recruitment,
-job matching, identifying learning gaps, and enhancing employee retention.
-Despite their potential, limited efforts have been made to implement practical
-HR knowledge graphs. This study addresses this gap by presenting a framework
-for effectively developing HR knowledge graphs from documents using Large
-Language Models. The resulting KG can be used for a variety of downstream
-tasks, including job matching, identifying employee skill gaps, and many more.
-In this work, we showcase instances where HR KGs prove instrumental in precise
-job matching, yielding advantages for both employers and employees. Empirical
-evidence from experiments with information propagation in KGs and Graph Neural
-Nets, along with case studies underscores the effectiveness of KGs in tasks
-such as job and employee recommendations and job area classification. Code and
-data are available at : https://github.com/azminewasi/HRGraph
-
-摘要：知識圖譜 (KG) 作為語義網路，證明在管理不同領域中複雜的互連資料方面非常有效，透過提供統一、脈絡化且結構化的表示，並具備靈活性，可輕鬆適應不斷變化的知識。KG 處理複雜的人力資源 (HR) 資料，有助於不同的 HR 功能，例如招募、工作匹配、找出學習差距和提升員工留存率。儘管有其潛力，但實作實用的 HR 知識圖譜的努力有限。本研究透過提出一個架構，從文件中使用大型語言模型有效開發 HR 知識圖譜，來解決這個差距。產生的 KG 可用於各種下游任務，包括工作匹配、找出員工技能差距等。在這項工作中，我們展示了 HR KG 在精確工作匹配中證明有用的範例，為雇主和員工帶來優勢。透過 KG 和圖形神經網路中資訊傳播的實驗所得的實證，以及案例研究，強調了 KG 在工作和員工推薦以及工作領域分類等任務中的有效性。程式碼和資料可在以下位置取得：https://github.com/azminewasi/HRGraph
-
-##### **Integrating Multi-Head Convolutional Encoders with Cross-Attention for Improved SPARQL Query Translation**
-2408.13432v1 by Yi-Hui Chen, Eric Jui-Lin Lu, Kwan-Ho Cheng
-
-The main task of the KGQA system (Knowledge Graph Question Answering) is to
-convert user input questions into query syntax (such as SPARQL). With the rise
-of modern popular encoders and decoders like Transformer and ConvS2S, many
-scholars have shifted the research direction of SPARQL generation to the Neural
-Machine Translation (NMT) architecture or the generative AI field of
-Text-to-SPARQL. In NMT-based QA systems, the system treats knowledge base query
-syntax as a language. It uses NMT-based translation models to translate natural
-language questions into query syntax. Scholars use popular architectures
-equipped with cross-attention, such as Transformer, ConvS2S, and BiLSTM, to
-train translation models for query syntax. To achieve better query results,
-this paper improved the ConvS2S encoder and added multi-head attention from the
-Transformer, proposing a Multi-Head Conv encoder (MHC encoder) based on the
-n-gram language model. The principle is to use convolutional layers to capture
-local hidden features in the input sequence with different receptive fields,
-using multi-head attention to calculate dependencies between them. Ultimately,
-we found that the translation model based on the Multi-Head Conv encoder
-achieved better performance than other encoders, obtaining 76.52\% and 83.37\%
-BLEU-1 (BiLingual Evaluation Understudy) on the QALD-9 and LC-QuAD-1.0
-datasets, respectively. Additionally, in the end-to-end system experiments on
-the QALD-9 and LC-QuAD-1.0 datasets, we achieved leading results over other
-KGQA systems, with Macro F1-measures reaching 52\% and 66\%, respectively.
-Moreover, the experimental results show that with limited computational
-resources, if one possesses an excellent encoder-decoder architecture and
-cross-attention, experts and scholars can achieve outstanding performance
-equivalent to large pre-trained models using only general embeddings.
-
-摘要：知識圖表問答系統 (KGQA) 的主要任務是將使用者輸入的問題轉換成查詢語法 (例如 SPARQL)。隨著 Transformer 和 ConvS2S 等現代流行編碼器和解碼器的崛起，許多學者已將 SPARQL 生成的研究方向轉移到神經機器翻譯 (NMT) 架構或文字轉 SPARQL 的生成式人工智慧領域。在基於 NMT 的問答系統中，系統將知識庫查詢語法視為一種語言。它使用基於 NMT 的翻譯模型將自然語言問題轉換成查詢語法。學者使用配備跨注意力機制的熱門架構，例如 Transformer、ConvS2S 和 BiLSTM，來訓練查詢語法的翻譯模型。為了獲得更好的查詢結果，本文改進了 ConvS2S 編碼器，並從 Transformer 中加入多頭注意力機制，提出了一個基於 n-gram 語言模型的多頭卷積編碼器 (MHC 編碼器)。其原理是使用卷積層以不同的感受野擷取輸入序列中的局部隱藏特徵，並使用多頭注意力機制計算它們之間的依賴關係。最終，我們發現基於多頭卷積編碼器的翻譯模型比其他編碼器獲得了更好的效能，分別在 QALD-9 和 LC-QuAD-1.0 資料集上獲得 76.52% 和 83.37% 的 BLEU-1（雙語評估研究）分數。此外，在 QALD-9 和 LC-QuAD-1.0 資料集的端到端系統實驗中，我們在其他 KGQA 系統中取得了領先的結果，巨觀 F1 測量值分別達到 52% 和 66%。此外，實驗結果表明，如果擁有出色的編碼器-解碼器架構和跨注意力機制，即使在運算資源有限的情況下，專家和學者仍可以使用一般的嵌入來獲得等同於大型預訓練模型的傑出效能。
-
-##### **CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**
-2408.13366v1 by Ekaterina Trofimova, Emil Sataev, Abhijit Singh Jowhari
-
-This paper presents CodeRefine, a novel framework for automatically
-transforming research paper methodologies into functional code using Large
-Language Models (LLMs). Our multi-step approach first extracts and summarizes
-key text chunks from papers, analyzes their code relevance, and creates a
-knowledge graph using a predefined ontology. Code is then generated from this
-structured representation and enhanced through a proposed retrospective
-retrieval-augmented generation approach. CodeRefine addresses the challenge of
-bridging theoretical research and practical implementation, offering a more
-accurate alternative to LLM zero-shot prompting. Evaluations on diverse
-scientific papers demonstrate CodeRefine's ability to improve code
-implementation from the paper, potentially accelerating the adoption of
-cutting-edge algorithms in real-world applications.
-
-摘要：本篇論文提出 CodeRefine，一個利用大型語言模型 (LLM) 將研究論文方法自動轉換為功能程式碼的新穎架構。我們的多步驟方法首先從論文中萃取並摘要出關鍵文字區塊，分析其程式碼相關性，並使用預定義的本体建立知識圖譜。接著從這個結構化表示產生程式碼，並透過提出的回溯式檢索增強產生方法進行強化。CodeRefine 解決了理論研究與實際實作之間的鴻溝，提供比 LLM 零次提示更精確的替代方案。在各種科學論文上的評估證明了 CodeRefine 從論文改善程式碼實作的能力，這有潛力加速尖端演算法在實際應用中的採用。
-
-##### **Knowledge Graph Modeling-Driven Large Language Model Operating System (LLM OS) for Task Automation in Process Engineering Problem-Solving**
-2408.14494v1 by Sakhinana Sagar Srinivas, Vijay Sri Vaikunth, Venkataramana Runkana
-
-We present the Process Engineering Operations Assistant (PEOA), an AI-driven
-framework designed to solve complex problems in the chemical and process
-industries. The framework employs a modular architecture orchestrated by a
-meta-agent, which serves as the central coordinator, managing an action
-generator and instruction-tuned small-scale language models (expert models).
-The action generator decomposes complex problems into sub-tasks and identifies
-suitable expert models to execute each, delivering precise solutions for
-multi-step problem-solving. Key techniques include advanced knowledge modeling
-using property graphs for improved information retrieval, facilitating more
-accurate and contextually relevant solutions. Additionally, the framework
-utilizes a teacher-student transfer-learning approach with GPT-4 (Omni) to
-fine-tune the action generator and expert models for domain adaptation,
-alongside an iterative problem-solving mechanism with sophisticated error
-handling. Custom datasets were developed to evaluate the framework against
-leading proprietary language models on various engineering tasks. The results
-demonstrate the framework effectiveness in automating calculations,
-accelerating prototyping, and providing AI-augmented decision support for
-industrial processes, marking a significant advancement in process engineering
-capabilities.
-
-摘要：我們提出了製程工程作業助理 (PEOA)，這是一個由 AI 驅動的架構，旨在解決化學和製程產業中的複雜問題。該架構採用模組化架構，由一個元代理程式協調，該代理程式作為中央協調器，管理動作產生器和指令調整的小規模語言模型 (專家模型)。動作產生器將複雜的問題分解為子任務，並識別合適的專家模型來執行每個任務，為多步驟問題解決提供精確的解決方案。關鍵技術包括使用屬性圖進行進階知識建模，以改善資訊檢索，提供更準確且與脈絡相關的解決方案。此外，該架構採用教師-學生傳輸學習方法，使用 GPT-4 (Omni) 來微調動作產生器和專家模型，以進行領域適應，以及具備精緻錯誤處理功能的迭代問題解決機制。開發了自訂資料集，以針對各種工程任務評估該架構與領先的專有語言模型。結果證明了該架構在自動化計算、加速建模和提供 AI 增強決策支援方面的有效性，標誌著製程工程能力的重大進展。
-
-##### **A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**
-2408.12578v2 by Ekdeep Singh Lubana, Kyogo Kawaguchi, Robert P. Dick, Hidenori Tanaka
-
-Increase in data, size, or compute can lead to sudden learning of specific
-capabilities by a neural network -- a phenomenon often called "emergence''.
-Beyond scientific understanding, establishing the causal factors underlying
-such emergent capabilities is crucial to enable risk regulation frameworks for
-AI. In this work, we seek inspiration from study of emergent properties in
-other fields and propose a phenomenological definition for the concept in the
-context of neural networks. Our definition implicates the acquisition of
-general structures underlying the data-generating process as a cause of sudden
-performance growth for specific, narrower tasks. We empirically investigate
-this definition by proposing an experimental system grounded in a
-context-sensitive formal language and find that Transformers trained to perform
-tasks on top of strings from this language indeed exhibit emergent
-capabilities. Specifically, we show that once the language's underlying grammar
-and context-sensitivity inducing structures are learned by the model,
-performance on narrower tasks suddenly begins to improve. We then analogize our
-network's learning dynamics with the process of percolation on a bipartite
-graph, establishing a formal phase transition model that predicts the shift in
-the point of emergence observed in our experiments when changing the data
-structure. Overall, our experimental and theoretical frameworks yield a step
-towards better defining, characterizing, and predicting emergence in neural
-networks.
-
-摘要：<paragraph>資料、規模或運算的增加，可能會導致神經網路突然學會特定能力——這種現象常稱為「湧現」。除了科學理解之外，確立這種湧現能力背後的基本原因，對於為 AI 建立風險法規框架至關重要。在這項工作中，我們從其他領域中對湧現特性的研究中尋求靈感，並針對神經網路中的概念提出現象學定義。我們的定義暗示，取得資料產生程序背後的通用結構，是特定、較狹隘任務突然效能提升的原因。我們透過提出一個以情境敏感形式語言為基礎的實驗系統，對這個定義進行實證研究，發現經過訓練以執行這個語言中字串頂部任務的 Transformer，確實展現出湧現能力。具體來說，我們展示出模型一旦學會語言的底層文法和情境敏感誘導結構，對較狹隘任務的效能就會突然開始提升。接著我們將網路的學習動態類比為二部圖上的滲流過程，建立一個正式的相變模型，用於預測在改變資料結構時，我們在實驗中觀察到的湧現點位移。整體而言，我們的實驗和理論框架朝著更完善地定義、描述和預測神經網路中的湧現邁進了一步。</paragraph>
 

@@ -16,6 +16,7 @@
 |**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
 |**2024-09-30**|**A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media**|Dung Ha Nguyen et.al.|[2409.20467v1](http://arxiv.org/abs/2409.20467v1)|null|
 |**2024-09-30**|**Language Resources in Spanish for Automatic Text Simplification across Domains**|Antonio Moreno-Sandoval et.al.|[2409.20466v1](http://arxiv.org/abs/2409.20466v1)|null|
+|**2024-09-30**|**Linear Projections of Teacher Embeddings for Few-Class Distillation**|Noel Loo et.al.|[2409.20449v1](http://arxiv.org/abs/2409.20449v1)|null|
 |**2024-09-30**|**POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**|Eugenio Lomurno et.al.|[2409.20447v1](http://arxiv.org/abs/2409.20447v1)|null|
 |**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441v2](http://arxiv.org/abs/2409.20441v2)|null|
 |**2024-09-30**|**QAEncoder: Towards Aligned Representation Learning in Question Answering System**|Zhengren Wang et.al.|[2409.20434v1](http://arxiv.org/abs/2409.20434v1)|null|
@@ -38,7 +39,7 @@
 |**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296v1](http://arxiv.org/abs/2409.20296v1)|null|
 |**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|[link](https://github.com/cshaitao/lexeval)|
 |**2024-09-30**|**Computer-mediated therapies for stroke rehabilitation: a systematic review and meta-Analysis**|Stanley Mugisha. Mirko Job. Matteo Zoppi et.al.|[2409.20260v1](http://arxiv.org/abs/2409.20260v1)|null|
-|**2024-09-30**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252v1](http://arxiv.org/abs/2409.20252v1)|null|
+|**2024-09-30**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252v2](http://arxiv.org/abs/2409.20252v2)|null|
 |**2024-09-30**|**Resource Allocation for Stable LLM Training in Mobile Edge Computing**|Chang Liu et.al.|[2409.20247v1](http://arxiv.org/abs/2409.20247v1)|null|
 |**2024-09-30**|**Analysing Zero-Shot Readability-Controlled Sentence Simplification**|Abdullah Barayan et.al.|[2409.20246v1](http://arxiv.org/abs/2409.20246v1)|null|
 |**2024-09-30**|**PsyGUARD: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling**|Huachuan Qiu et.al.|[2409.20243v1](http://arxiv.org/abs/2409.20243v1)|[link](https://github.com/qiuhuachuan/psyguard)|
@@ -101,7 +102,6 @@
 |**2024-09-29**|**Counterfactual Evaluation of Ads Ranking Models through Domain Adaptation**|Mohamed A. Radwan et.al.|[2409.19824v1](http://arxiv.org/abs/2409.19824v1)|null|
 |**2024-09-29**|**Calibrating Language Models with Adaptive Temperature Scaling**|Johnathan Xie et.al.|[2409.19817v1](http://arxiv.org/abs/2409.19817v1)|null|
 |**2024-09-29**|**Grounded Curriculum Learning**|Linji Wang et.al.|[2409.19816v1](http://arxiv.org/abs/2409.19816v1)|null|
-|**2024-09-29**|**Transforming Hidden States into Binary Semantic Features**|Tomáš Musil et.al.|[2409.19813v1](http://arxiv.org/abs/2409.19813v1)|null|
 
 #### Abstracts
 ##### **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**
@@ -419,6 +419,36 @@ tools. The methodology, resources and companion publications are shared
 publicly on the web-site: https://clara-nlp.uned.es/.
 
 摘要：本研究描述了为三个领域的西班牙语文本自动简化而开发的语言资源和模型：金融、医学和历史研究。我们在每个领域创建了多个语料库、注释和简化指南、技术和简化医学术语词典、用于金融领域共享任务的数据集以及两个简化工具。方法、资源和配套出版物在网站上公开共享：https://clara-nlp.uned.es/。
+
+##### **Linear Projections of Teacher Embeddings for Few-Class Distillation**
+2409.20449v1 by Noel Loo, Fotis Iliopoulos, Wei Hu, Erik Vee
+
+Knowledge Distillation (KD) has emerged as a promising approach for
+transferring knowledge from a larger, more complex teacher model to a smaller
+student model. Traditionally, KD involves training the student to mimic the
+teacher's output probabilities, while more advanced techniques have explored
+guiding the student to adopt the teacher's internal representations. Despite
+its widespread success, the performance of KD in binary classification and
+few-class problems has been less satisfactory. This is because the information
+about the teacher model's generalization patterns scales directly with the
+number of classes. Moreover, several sophisticated distillation methods may not
+be universally applicable or effective for data types beyond Computer Vision.
+Consequently, effective distillation techniques remain elusive for a range of
+key real-world applications, such as sentiment analysis, search query
+understanding, and advertisement-query relevance assessment. Taking these
+observations into account, we introduce a novel method for distilling knowledge
+from the teacher's model representations, which we term Learning Embedding
+Linear Projections (LELP). Inspired by recent findings about the structure of
+final-layer representations, LELP works by identifying informative linear
+subspaces in the teacher's embedding space, and splitting them into
+pseudo-subclasses. The student model is then trained to replicate these
+pseudo-classes. Our experimental evaluation on large-scale NLP benchmarks like
+Amazon Reviews and Sentiment140 demonstrate the LELP is consistently
+competitive with, and typically superior to, existing state-of-the-art
+distillation algorithms for binary and few-class problems, where most KD
+methods suffer.
+
+摘要：知識蒸餾 (KD) 已成為一種有前途的方法，用於將知識從更大、更複雜的教師模型轉移到更小的學生模型。傳統上，KD 涉及訓練學生模擬教師的輸出機率，而更先進的技術則探索引導學生採用教師的內部表徵。儘管 KD 在二元分類和少類問題中獲得廣泛成功，但其表現卻不太令人滿意。這是因為有關教師模型泛化模式的資訊會隨著類別數直接擴展。此外，幾種精密的蒸餾方法可能無法普遍適用於電腦視覺以外的資料類型，也可能對這些資料類型無效。因此，有效的蒸餾技術對於一系列關鍵的真實世界應用仍然難以捉摸，例如情緒分析、搜尋查詢理解和廣告查詢相關性評估。考量到這些觀察結果，我們介紹一種新方法，用於從教師的模型表徵中蒸餾知識，我們稱之為學習嵌入線性投影 (LELP)。LELP 的靈感來自於關於最終層表徵結構的最新發現，其運作方式是識別教師嵌入空間中的資訊線性子空間，並將它們分割成偽子類別。然後訓練學生模型以複製這些偽類別。我們在 Amazon Reviews 和 Sentiment140 等大型 NLP 基準上進行的實驗評估證明，LELP 在二元和少類問題上始終與現有最先進的蒸餾演算法具有競爭力，而且通常優於這些演算法，而大多數 KD 方法在這些問題上表現不佳。
 
 ##### **POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**
 2409.20447v1 by Eugenio Lomurno, Samuele Mariani, Matteo Monti, Matteo Matteucci
@@ -947,7 +977,7 @@ reality technology.
 摘要：目標：評估不同形式的虛擬實境 (VR) 治療，例如沉浸式虛擬實境 (IVR) 或非沉浸式虛擬實境 (NIVR)，與傳統療法 (CT) 相比，在改善中風患者的身體和心理狀態方面的功效。方法：在七個資料庫中進行文獻搜尋。ACM 數位圖書館、Medline（透過 PubMed）、Cochrane、IEEE Xplore、Web of Science 和 Scopus。使用 Cohen's d 計算主要結果的效應值。匯總結果用於使用隨機效應模型呈現治療效果的整體估計。結果：總共評估了 22 項隨機對照試驗。3 項試驗表明，沉浸式虛擬實境改善了上肢活動、功能和日常生活活動，與 CT 相當。18 項試驗表明，NIVR 對上肢活動和功能、平衡和活動能力、日常生活活動和參與度具有與 CT 相似的益處。不同形式的 VR 之間的比較表明，IVR 可能比 NIVR 對上肢訓練和日常生活活動更有益。結論：本研究發現 IVR 治療可能比 NIVR 更有效，但不如 CT 能改善上肢活動、功能和日常生活活動。然而，沒有證據表明 IVR 治療的持久性。需要更多涉及更大樣本的研究來評估沉浸式虛擬實境技術的長期效果和有希望的益處。
 
 ##### **What is the Role of Large Language Models in the Evolution of Astronomy Research?**
-2409.20252v1 by Morgan Fouesneau, Ivelina G. Momcheva, Urmila Chadayammuri, Mariia Demianenko, Antoine Dumont, Raphael E. Hviding, K. Angelique Kahle, Nadiia Pulatova, Bhavesh Rajpoot, Marten B. Scheuck, Rhys Seeburger, Dmitry Semenov, Jaime I. Villaseñor
+2409.20252v2 by Morgan Fouesneau, Ivelina G. Momcheva, Urmila Chadayammuri, Mariia Demianenko, Antoine Dumont, Raphael E. Hviding, K. Angelique Kahle, Nadiia Pulatova, Bhavesh Rajpoot, Marten B. Scheuck, Rhys Seeburger, Dmitry Semenov, Jaime I. Villaseñor
 
 ChatGPT and other state-of-the-art large language models (LLMs) are rapidly
 transforming multiple fields, offering powerful tools for a wide range of
@@ -967,7 +997,7 @@ need for researchers to complement LLMs with critical thinking and domain
 expertise, ensuring these tools serve as aids rather than substitutes for
 rigorous scientific inquiry.
 
-摘要：ChatGPT 和其他最先進的大語言模型 (LLM) 正快速轉變多重領域，為廣泛的應用程式提供強大的工具。這些模型通常在龐大的資料集上訓練，展現出類似人類的文字生成能力，讓它們可用於研究任務，例如構思、文獻回顧、編碼、起草和外展。我們進行了一項研究，讓 13 位不同事業階段和研究領域的天文學家參與，在幾個月內探索 LLM 在不同任務中的應用，並評估它們在研究相關活動中的表現。這項工作附有一份匿名調查，評估參與者對 LLM 的經驗和態度。我們提供任務嘗試和調查答案的詳細分析，以及具體的輸出範例。我們的發現強調了 LLM 在支持研究方面的潛力和限制，同時也處理了一般性和研究特定的倫理考量。我們最後提出了一系列建議，強調研究人員需要以批判性思考和領域專業知識來補充 LLM，確保這些工具作為輔助工具，而不是嚴謹科學探究的替代品。
+摘要：ChatGPT 和其他最先進的大語言模型 (LLM) 正在迅速轉變多個領域，為廣泛的應用程式提供強大的工具。這些模型通常在龐大的資料集上訓練，展現出類似人類的文字生成能力，讓它們可用於研究任務，例如構思、文獻回顧、編碼、起草和外展。我們進行了一項研究，涉及 13 位不同職業階段和研究領域的天文學家，在幾個月內探索 LLM 在不同任務中的應用，並評估它們在研究相關活動中的表現。這項工作伴隨著一項匿名調查，評估參與者對 LLM 的經驗和態度。我們提供了對嘗試任務和調查答案的詳細分析，以及具體的輸出範例。我們的研究結果強調了 LLM 在支援研究方面的潛力和限制，同時也探討了通用和研究特定的倫理考量。我們最後提出了一系列建議，強調研究人員需要以批判性思考和領域專業知識來補充 LLM，確保這些工具作為嚴謹科學探究的輔助工具，而不是替代品。
 
 ##### **Resource Allocation for Stable LLM Training in Mobile Edge Computing**
 2409.20247v1 by Chang Liu, Jun Zhao
@@ -2371,16 +2401,4 @@ navigation performance by grounding the simulation task distribution in the
 real world within an adaptive curriculum.
 
 摘要：機器人強化學習 (RL) 中真實世界數據的高昂成本導致廣泛使用模擬器。儘管在建立更好的動態模型以使模擬器與真實世界相匹配方面做了大量工作，但模擬與真實世界之間還存在另一個經常被忽視的不匹配，即可用訓練任務的分布。現有的課程學習技術進一步加劇了這種不匹配，這些技術會自動改變模擬任務分佈，而不會考慮其與真實世界的相關性。考慮到這些挑戰，我們假設機器人 RL 的課程學習需要以真實世界的任務分佈為基礎。為此，我們提出了基於真實世界的課程學習 (GCL)，它將課程中的模擬任務分佈與真實世界保持一致，並明確考慮了機器人已獲得哪些任務以及機器人在過去的表現。我們使用 BARN 資料集驗證了 GCL 在複雜導航任務中，與最先進的 CL 方法和由人類專家設計的課程相比，分別實現了 6.8% 和 6.5% 的更高成功率。這些結果表明，GCL 能夠通過在自適應課程中將模擬任務分佈建立在真實世界中來提高學習效率和導航性能。
-
-##### **Transforming Hidden States into Binary Semantic Features**
-2409.19813v1 by Tomáš Musil, David Mareček
-
-Large language models follow a lineage of many NLP applications that were
-directly inspired by distributional semantics, but do not seem to be closely
-related to it anymore. In this paper, we propose to employ the distributional
-theory of meaning once again. Using Independent Component Analysis to overcome
-some of its challenging aspects, we show that large language models represent
-semantic features in their hidden states.
-
-摘要：大型語言模型遵循許多 NLP 應用程式的譜系，這些應用程式直接受到分佈語義的啟發，但似乎不再與其密切相關。在本文中，我們建議再次採用分佈式的意義理論。我們使用獨立成分分析來克服其一些具有挑戰性的方面，我們表明大型語言模型在其隱藏狀態中表示語義特徵。
 

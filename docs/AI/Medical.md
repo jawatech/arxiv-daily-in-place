@@ -18,7 +18,7 @@
 |**2024-09-28**|**3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models**|Hao Chen et.al.|[2409.19330v1](http://arxiv.org/abs/2409.19330v1)|null|
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120v1](http://arxiv.org/abs/2409.19120v1)|null|
 |**2024-09-27**|**Differential privacy for protecting patient data in speech disorder detection using deep learning**|Soroosh Tayebi Arasteh et.al.|[2409.19078v1](http://arxiv.org/abs/2409.19078v1)|null|
-|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v2](http://arxiv.org/abs/2409.18924v2)|null|
 |**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878v1](http://arxiv.org/abs/2409.18878v1)|null|
 |**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814v1](http://arxiv.org/abs/2409.18814v1)|null|
 |**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769v1](http://arxiv.org/abs/2409.18769v1)|null|
@@ -518,7 +518,7 @@ across diverse patient groups in real-world deployments.
 儘管基於深度學習的模型在診斷這些疾病方面已展現潛力，但敏感資料的使用引發了嚴重的隱私問題。儘管差分隱私 (DP) 已在醫學影像領域中得到探討，但其在病理語言分析中的應用仍未得到充分探討，儘管其隱私問題同樣嚴重。本研究首次探討了 DP 對病理語言資料的影響，重點關注隱私、診斷準確性和公平性之間的權衡。我們使用了一個大型的真實世界資料集，其中包含來自 2,839 名德語參與者的 200 小時錄音，我們觀察到在使用 DP 進行訓練時，隱私預算（以 {\epsilon} 表示）為 7.51 時，準確度最高降低了 3.85%。為了推廣我們的發現，我們在一個規模較小的西班牙語帕金森病患者資料集上驗證了我們的做法，證明了在大規模特定任務資料集上進行仔細的預訓練可以在 DP 約束下維持甚至提高模型準確度。我們還進行了全面的公平性分析，結果顯示合理的隱私等級（2<{\epsilon}<10）不會引入顯著的性別偏見，儘管與年齡相關的差異可能需要進一步關注。我們的結果表明，DP 可以有效地在語言障礙檢測中平衡隱私和效用，但也突出了語言領域中獨特的挑戰，特別是關於隱私公平性的權衡。這為未來的研究提供了基礎，以完善 DP 方法並在實際部署中解決不同患者群體中的公平性問題。</paragraph>
 
 ##### **AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**
-2409.18924v1 by Huizi Yu, Jiayan Zhou, Lingyao Li, Shan Chen, Jack Gallifant, Anye Shi, Xiang Li, Wenyue Hua, Mingyu Jin, Guang Chen, Yang Zhou, Zhao Li, Trisha Gupte, Ming-Li Chen, Zahra Azizi, Yongfeng Zhang, Themistocles L. Assimes, Xin Ma, Danielle S. Bitterman, Lin Lu, Lizhou Fan
+2409.18924v2 by Huizi Yu, Jiayan Zhou, Lingyao Li, Shan Chen, Jack Gallifant, Anye Shi, Xiang Li, Wenyue Hua, Mingyu Jin, Guang Chen, Yang Zhou, Zhao Li, Trisha Gupte, Ming-Li Chen, Zahra Azizi, Yongfeng Zhang, Themistocles L. Assimes, Xin Ma, Danielle S. Bitterman, Lin Lu, Lizhou Fan
 
 Simulated patient systems play a crucial role in modern medical education and
 research, providing safe, integrative learning environments and enabling
@@ -540,12 +540,12 @@ summarization. This agentic framework reaches an overall accuracy of 94.15% in
 EHR-based medical Question Answering (QA), outperforming benchmarks that use
 either no agent or only partial agent integration. Our system also presents
 high readability (median Flesch Reading Ease 77.23; median Flesch Kincaid Grade
-5.6), robustness (ANOVA F-value 0.6126, p<0.1), and stability (ANOVA F-value
-0.782, p<0.1). The promising performance of the AIPatient system highlights its
+5.6), robustness (ANOVA F-value 0.6126, p>0.1), and stability (ANOVA F-value
+0.782, p>0.1). The promising performance of the AIPatient system highlights its
 potential to support a wide range of applications, including medical education,
 model evaluation, and system integration.
 
-摘要：<paragraph>模擬病人系統在現代醫學教育和研究中扮演著至關重要的角色，提供安全、整合的學習環境，並支援臨床決策模擬。大型語言模型 (LLM) 能夠複製醫療狀況和醫病互動，進而以高保真度和低成本提升模擬病人系統。然而，確保這些系統的有效性和可信度仍然是一項挑戰，因為它們需要一個龐大、多元且精確的病人知識庫，以及一種強健且穩定的知識傳播方式。在此，我們開發了 AIPatient，一個進階的模擬病人系統，其以 AIPatient 知識圖譜 (AIPatient KG) 作為輸入，並以推理檢索增強生成 (Reasoning RAG) 代理工作流程作為生成主幹。AIPatient KG 從密集照護醫學資訊市集 (MIMIC)-III 資料庫中的電子健康紀錄 (EHR) 中抽取資料，產生一個臨床多元且相關的 1,495 位病患群組，且具有高度的知識庫有效性 (F1 0.89)。Reasoning RAG 運用六個 LLM 驅動的代理，涵蓋檢索、KG 查詢生成、抽象化、檢查器、重寫和摘要等任務。此代理架構在基於 EHR 的醫療問答 (QA) 中達到 94.15% 的整體準確度，優於未使用代理或僅部分整合代理的基準。我們的系統還具備高度可讀性 (中位數 Flesch 閱讀簡易度 77.23；中位數 Flesch Kincaid 等級 5.6)、強健性 (ANOVA F 值 0.6126，p<0.1) 和穩定性 (ANOVA F 值 0.782，p<0.1)。AIPatient 系統令人滿意的效能突顯了其支援廣泛應用程式的潛力，包括醫學教育、模型評估和系統整合。</paragraph>
+摘要：模擬病人系統在現代醫學教育和研究中扮演著至關重要的角色，提供安全、整合的學習環境，並能進行臨床決策模擬。大型語言模型 (LLM) 能透過高保真度和低成本複製醫療狀況和醫病互動，進而提升模擬病人系統。然而，確保這些系統的有效性和可信度仍然是一項挑戰，因為它們需要一個龐大、多元且精確的病人知識庫，以及穩健且穩定的知識傳播給使用者。在此，我們開發了 AIPatient，一個進階的模擬病人系統，以 AIPatient 知識圖譜 (AIPatient KG) 作為輸入，並以推理檢索增強生成 (Reasoning RAG) 代理工作流程作為生成主幹。AIPatient KG 從重症監護醫學資訊中心 (MIMIC)-III 資料庫中的電子健康紀錄 (EHR) 中抽取資料，產生一個臨床多樣且相關的 1,495 名病患群組，具有很高的知識庫效度 (F1 0.89)。推理 RAG 槓桿了六個 LLM 驅動的代理，跨越檢索、KG 查詢產生、抽象、檢查器、重寫和摘要等任務。這個代理框架在基於 EHR 的醫療問答 (QA) 中達到了 94.15% 的整體準確度，優於不使用代理或僅部分代理整合的基準。我們的系統還具有很高的可讀性 (Flesch 閱讀簡便性中位數 77.23；Flesch Kincaid 等級中位數 5.6)、穩健性 (ANOVA F 值 0.6126，p>0.1) 和穩定性 (ANOVA F 值 0.782，p>0.1)。AIPatient 系統的出色表現突顯了它在支援各種應用程式的潛力，包括醫學教育、模型評估和系統整合。
 
 ##### **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**
 2409.18878v1 by Zehan Li, Yan Hu, Scott Lane, Salih Selek, Lokesh Shahani, Rodrigo Machado-Vieira, Jair Soares, Hua Xu, Hongfang Liu, Ming Huang

@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053v1](http://arxiv.org/abs/2409.20053v1)|null|
-|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v1](http://arxiv.org/abs/2409.19979v1)|null|
+|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|[link](https://github.com/WangXFng/ELMRec)|
 |**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|null|
 |**2024-09-29**|**Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models**|Xin Li et.al.|[2409.19667v1](http://arxiv.org/abs/2409.19667v1)|[link](https://github.com/bupt-gamma/prograph)|
 |**2024-09-28**|**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**|Zheng Wang et.al.|[2409.19401v1](http://arxiv.org/abs/2409.19401v1)|null|
@@ -130,22 +130,22 @@ how reasoning paths can enhance LLMs' reasoning capabilities.
 摘要：大型語言模型 (LLM) 在處理文本數據方面取得了令人印象深刻的成果，這激發了將這些模型應用於文本數據之外領域（例如圖表）的興趣。在圖表學習領域，利用 LLM 來理解和操作圖表結構數據的興趣與日俱增。現有的研究主要集中於具有豐富文本特徵的圖表，例如知識圖表或文本屬性圖表，利用 LLM 處理文本的能力，但未能充分解決圖表結構。這項工作特別旨在評估和增強 LLM 理解和利用圖表數據本身固有的結構知識的能力，而不是僅關注富含文本內容的圖表。為此，我們引入了自然語言驅動分析模型的圖表理解 (\model)。此模型改進了 LLM 以便更好地理解和參與圖表數據的結構，使其能夠通過利用圖表的結構本身來執行複雜的推理任務。我們對圖表推理基準的實驗評估不僅證實了 \model~ 優於用於比較的 SOTA 基準，還揭示了影響 LLM 圖表推理能力的主要因素。此外，我們提供了理論分析，說明推理路徑如何增強 LLM 的推理能力。
 
 ##### **Enhancing High-order Interaction Awareness in LLM-based Recommender Model**
-2409.19979v1 by Xinfeng Wang, Jin Cui, Fumiyo Fukumoto, Yoshimi Suzuki
+2409.19979v2 by Xinfeng Wang, Jin Cui, Fumiyo Fukumoto, Yoshimi Suzuki
 
 Large language models (LLMs) have demonstrated prominent reasoning
 capabilities in recommendation tasks by transforming them into text-generation
-tasks. % many NLP applications including However, existing approaches either
-disregard or ineffectively model the user--item high-order interactions. To
-this end, this paper presents an enhanced LLM-based recommender (ELMRec). We
-enhance whole-word embeddings to substantially enhance LLMs' interpretation of
-graph-constructed interactions for recommendations, without requiring graph
-pre-training. This finding may inspire endeavors to incorporate rich knowledge
-graphs into LLM-based recommenders via whole-word embedding. We also found that
-LLMs often recommend items based on users' earlier interactions rather than
-recent ones, and present a reranking solution. Our ELMRec outperforms
-state-of-the-art (SOTA) methods in both direct and sequential recommendations.
+tasks. However, existing approaches either disregard or ineffectively model the
+user-item high-order interactions. To this end, this paper presents an enhanced
+LLM-based recommender (ELMRec). We enhance whole-word embeddings to
+substantially enhance LLMs' interpretation of graph-constructed interactions
+for recommendations, without requiring graph pre-training. This finding may
+inspire endeavors to incorporate rich knowledge graphs into LLM-based
+recommenders via whole-word embedding. We also found that LLMs often recommend
+items based on users' earlier interactions rather than recent ones, and present
+a reranking solution. Our ELMRec outperforms state-of-the-art (SOTA) methods in
+both direct and sequential recommendations.
 
-摘要：大型語言模型 (LLM) 在推薦任務中展現出顯著的推理能力，將其轉化為文本生成任務。然而，現有的方法不是忽視用戶與項目的高階互動，就是對其建模無效。為此，本文提出一個增強的基於 LLM 的推薦器 (ELMRec)。我們增強全詞嵌入，以大幅增強 LLM 對圖形建構互動的解讀，以進行推薦，而無需圖形預訓練。這一發現可能激勵人們通過全詞嵌入將豐富的知識圖譜整合到基於 LLM 的推薦器中。我們還發現，LLM 通常根據用戶早期的互動而不是最近的互動來推薦項目，並提出一個重新排序的解決方案。我們的 ELMRec 在直接和順序推薦中都優於最先進 (SOTA) 的方法。
+摘要：大型語言模型 (LLM) 已證明在推薦任務中具有顯著的推理能力，方法是將其轉換為文本生成任務。然而，現有方法不是忽略用戶項目高階互動，就是對其建模效果不佳。為此，本文提出了一種增強的基於 LLM 的推薦器 (ELMRec)。我們增強了全詞嵌入，以大幅增強 LLM 對圖形構建互動的解讀，用於推薦，而不需要圖形預訓練。這一發現可能會激勵將豐富的知識圖譜通過全詞嵌入整合到基於 LLM 的推薦器中的努力。我們還發現，LLM 通常根據用戶早期的互動而非最近的互動來推薦項目，並提出了一種重新排序的解決方案。我們的 ELMRec 在直接和順序推薦中都優於最先進 (SOTA) 方法。
 
 ##### **CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**
 2409.19753v1 by Yike Wu, Yi Huang, Nan Hu, Yuncheng Hua, Guilin Qi, Jiaoyan Chen, Jeff Z. Pan

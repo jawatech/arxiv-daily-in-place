@@ -7,7 +7,7 @@
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147v1](http://arxiv.org/abs/2409.20147v1)|null|
 |**2024-09-30**|**Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains**|Samia Belhadj et.al.|[2409.19940v1](http://arxiv.org/abs/2409.19940v1)|null|
 |**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v1](http://arxiv.org/abs/2409.19689v1)|null|
-|**2024-09-29**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676v1](http://arxiv.org/abs/2409.19676v1)|null|
+|**2024-09-29**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676v2](http://arxiv.org/abs/2409.19676v2)|[link](https://github.com/chauncey-jheng/pcrl-mrg)|
 |**2024-09-29**|**Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**|Maor Reuben et.al.|[2409.19655v1](http://arxiv.org/abs/2409.19655v1)|null|
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629v1](http://arxiv.org/abs/2409.19629v1)|null|
 |**2024-09-29**|**MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI**|Vivek Kumar Trivedi et.al.|[2409.19623v1](http://arxiv.org/abs/2409.19623v1)|[link](https://github.com/vivekkumartri/mcddpm)|
@@ -47,7 +47,7 @@
 |**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332v1](http://arxiv.org/abs/2409.17332v1)|null|
 |**2024-09-25**|**Data-Centric AI Governance: Addressing the Limitations of Model-Focused Policies**|Ritwik Gupta et.al.|[2409.17216v1](http://arxiv.org/abs/2409.17216v1)|null|
 |**2024-09-25**|**Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification**|Xinrui Zhou et.al.|[2409.17091v1](http://arxiv.org/abs/2409.17091v1)|null|
-|**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055v1](http://arxiv.org/abs/2409.17055v1)|[link](https://github.com/lucas-rbnt/drim)|
+|**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055v2](http://arxiv.org/abs/2409.17055v2)|[link](https://github.com/lucas-rbnt/drim)|
 |**2024-09-25**|**Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia**|Azmul Asmar Irfan et.al.|[2409.17054v1](http://arxiv.org/abs/2409.17054v1)|null|
 |**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045v1](http://arxiv.org/abs/2409.17045v1)|null|
 |**2024-09-25**|**AI-driven View Guidance System in Intra-cardiac Echocardiography Imaging**|Jaeyoung Huh et.al.|[2409.16898v2](http://arxiv.org/abs/2409.16898v2)|null|
@@ -228,7 +228,7 @@ accuracy, offering practical insights for model selection and system design.
 摘要：了解嬰兒哭聲的含義對於年輕父母照顧新生兒來說是一項重大挑戰。背景噪音的存在和標籤資料的缺乏在開發可以偵測哭聲並分析其背後原因的系統時提出了實際挑戰。在本文中，我們提出了一個新穎的資料驅動框架「InfantCryNet」來完成這些任務。為了解決資料稀缺的問題，我們採用預先訓練的音訊模型，將先驗知識納入我們的模型中。我們提出使用統計池化和多頭注意力池化技術來更有效地提取特徵。此外，知識蒸餾和模型量化被應用於增強模型效率並縮小模型大小，更好地支援行動裝置中的產業部署。對真實資料集的實驗證明了所提出的框架的優異效能，在分類準確度上比最先進的基準高出 4.4%。模型壓縮有效地將模型大小減少了 7%，而不會損害效能，並在準確度僅下降 8% 的情況下將模型大小減少了 28%，為模型選擇和系統設計提供了實用的見解。
 
 ##### **See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**
-2409.19676v1 by Chengxin Zheng, Junzhong Ji, Yanzhao Shi, Xiaodan Zhang, Liangqiong Qu
+2409.19676v2 by Chengxin Zheng, Junzhong Ji, Yanzhao Shi, Xiaodan Zhang, Liangqiong Qu
 
 Brain CT report generation is significant to aid physicians in diagnosing
 cranial diseases. Recent studies concentrate on handling the consistency
@@ -249,9 +249,9 @@ model (LLM) with task-tailored instructions. These crafted instructions enable
 the LLM to be flexibly fine-tuned across tasks and smoothly transfer the
 semantic representation for report generation. Experiments demonstrate that our
 method outperforms previous methods and achieves SoTA performance. Our code is
-available at https://github.com/Chauncey-Jheng/PCRL-MRG.
+available at "https://github.com/Chauncey-Jheng/PCRL-MRG".
 
-摘要：腦部電腦斷層報告的產生有助於醫師診斷顱骨疾病。最近的研究專注於處理視覺和文字病理特徵之間的一致性，以提升報告的一致性。然而，存在一些挑戰：1) 冗餘的視覺呈現：3D 掃描中的大量無關區域會分散模型對顯著視覺背景的呈現。2) 轉移的語義呈現：有限的醫療語料庫導致模型難以將學習到的文字呈現轉移到生成層。本研究引入了一個病理線索驅動的呈現學習 (PCRL) 模型，以建立基於病理線索的跨模態呈現，並自然地調整它們以進行準確的報告產生。具體來說，我們從分割區域、病理實體和報告主題的角度構建病理線索，以充分掌握視覺病理模式並學習跨模態特徵呈現。為了調整呈現以進行文字產生任務，我們使用具有任務定制指令的統一大型語言模型 (LLM)，彌合了呈現學習和報告產生之間的差距。這些精心製作的指令使 LLM 能夠靈活地針對任務進行微調，並順利地轉移語義呈現以進行報告產生。實驗證明，我們的模型優於先前的模型，並達到了 SoTA 效能。我們的程式碼可在 https://github.com/Chauncey-Jheng/PCRL-MRG 取得。
+摘要：腦部電腦斷層掃描報告生成有助於醫生診斷顱骨疾病。最近的研究專注於處理視覺和文字病理特徵之間的一致性，以提高報告的一致性。然而，存在一些挑戰：1) 多餘的視覺表示：3D 掃描中的大量無關區域會分散模型對顯著視覺背景的表示。2) 轉移的語義表示：有限的醫學語料庫導致模型難以將學習到的文字表示轉移到生成層。本研究引入了病理線索驅動表示學習 (PCRL) 模型，基於病理線索構建跨模態表示，並自然地調整它們以進行準確的報告生成。具體來說，我們從分割區域、病理實體和報告主題的角度構建病理線索，以充分掌握視覺病理模式並學習跨模態特徵表示。為了調整表示以適應文本生成任務，我們通過使用具有任務定制指令的統一大型語言模型 (LLM) 來彌合表示學習和報告生成之間的差距。這些精心製作的指令使 LLM 能夠靈活地跨任務進行微調，並順利地將語義表示轉移到報告生成中。實驗表明，我們的模型優於先前的模型，並達到了最先進的性能。我們的程式碼可在「https://github.com/Chauncey-Jheng/PCRL-MRG」取得。
 
 ##### **Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**
 2409.19655v1 by Maor Reuben, Ortal Slobodin, Aviad Elyshar, Idan-Chaim Cohen, Orna Braun-Lewensohn, Odeya Cohen, Rami Puzis
@@ -1223,7 +1223,7 @@ populations and out-domain conditions.
 摘要：在医学領域中，大規模數據集的可用性有限，且人工標註過程繁瑣，阻礙了深度模型的執行。基於擴散的生成式擴充方法為此問題提供了有前景的解決方案，已被證實能有效推進下游醫療識別任務。儘管如此，現有作品缺乏足夠的語義和序列可控性，難以進行具有挑戰性的視訊/3D 序列生成，且忽略了對有雜訊合成樣本的品質控制，導致合成式資料庫不可靠，並嚴重限制了下游任務的執行。在這項工作中，我們提出了 Ctrl-GenAug，一個新穎且通用的生成式擴充架構，能實現高度語義和序列自訂的序列合成，並抑制錯誤合成的樣本，以協助醫療序列分類。具體來說，我們首先設計了一個多模態條件引導序列生成器，用於可控地合成促進診斷的樣本。整合了一個序列擴充模組，以增強生成樣本的時間/立體一致性。然後，我們提出了一個有雜訊的合成資料濾波器，以抑制語義和序列層級中不可靠的案例。在 3 個醫療數據集上進行的廣泛實驗，使用在 3 個範例中訓練的 11 個網路，全面分析了 Ctrl-GenAug 的有效性和普遍性，特別是在代表性不足的高風險族群和領域外條件中。
 
 ##### **DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**
-2409.17055v1 by Lucas Robinet, Ahmad Berjaoui, Ziad Kheil, Elizabeth Cohen-Jonathan Moyal
+2409.17055v2 by Lucas Robinet, Ahmad Berjaoui, Ziad Kheil, Elizabeth Cohen-Jonathan Moyal
 
 Real-life medical data is often multimodal and incomplete, fueling the
 growing need for advanced deep learning models capable of integrating them
@@ -1246,7 +1246,7 @@ outperforms state-of-the-art algorithms on glioma patients survival prediction
 tasks, while being robust to missing modalities. To promote reproducibility,
 the code is made publicly available at https://github.com/Lucas-rbnt/DRIM
 
-摘要：真實生活中的醫療數據通常是多模態且不完整的，這使得對能夠有效整合它們的高級深度學習模型的需求不斷增長。使用多種形式，包括組織病理切片、核磁共振和遺傳數據，提供了前所未有的機會來改進預後預測並揭示新的治療途徑。對比學習廣泛用於從多模態任務中的配對數據中推導出表示，它假設不同的觀點包含相同的與任務相關的信息，並且僅利用共享信息。在處理醫療數據時，這一假設變得具有限制性，因為每種形式也包含與下游任務相關的具體知識。我們介紹了 DRIM，這是一種新的多模態方法，用於捕獲這些共享和唯一的表示，儘管數據稀疏。更具體地說，給定一組形式，我們旨在對每個形式編碼一個表示，該表示可以分為兩個組成部分：一個封裝跨形式的患者相關信息，另一個封裝形式特定的細節。這是通過增加不同患者形式之間的共享信息，同時最大程度地減少每個形式中共享和唯一組成部分之間的重疊來實現的。我們的算法在神經膠質瘤患者的生存預測任務中優於最先進的算法，同時對缺失的形式具有魯棒性。為了促進可重複性，代碼已在 https://github.com/Lucas-rbnt/DRIM 上公開。
+摘要：真實世界的醫療數據通常是多模態且不完整的，推動了對能夠有效整合它們的先進深度學習模型的需求。使用多種模式，包括組織病理學幻燈片、核磁共振和遺傳數據，提供了前所未有的機會來改進預後預測並揭示新的治療途徑。對比學習廣泛用於從多模態任務中的配對數據中推導表示，假設不同的視圖包含相同的與任務相關的信息，並且僅利用共享信息。在處理醫療數據時，這種假設變得具有限制性，因為每種模式也包含與下游任務相關的特定知識。我們介紹了 DRIM，這是一種新的多模態方法，用於捕獲這些共享和獨特的表示，儘管數據稀疏。更具體地說，給定一組模式，我們的目標是為每個模式編碼一個表示，該表示可以分為兩個組成部分：一個封裝跨模式共有的患者相關信息，另一個封裝特定於模式的細節。這是通過增加不同患者模式之間的共享信息，同時最小化每個模式內共享和唯一組件之間的重疊來實現的。我們的算法在神經膠質瘤患者生存預測任務中優於最先進的算法，同時對缺失模式具有魯棒性。為了促進可重複性，代碼已在 https://github.com/Lucas-rbnt/DRIM 上公開。
 
 ##### **Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia**
 2409.17054v1 by Azmul Asmar Irfan, Nur Ahmad Khatim, Mansur M. Arief

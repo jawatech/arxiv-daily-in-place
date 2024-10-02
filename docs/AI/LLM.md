@@ -17,7 +17,7 @@
 |**2024-09-30**|**A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media**|Dung Ha Nguyen et.al.|[2409.20467v1](http://arxiv.org/abs/2409.20467v1)|null|
 |**2024-09-30**|**Language Resources in Spanish for Automatic Text Simplification across Domains**|Antonio Moreno-Sandoval et.al.|[2409.20466v1](http://arxiv.org/abs/2409.20466v1)|null|
 |**2024-09-30**|**POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**|Eugenio Lomurno et.al.|[2409.20447v1](http://arxiv.org/abs/2409.20447v1)|null|
-|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441v1](http://arxiv.org/abs/2409.20441v1)|null|
+|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441v2](http://arxiv.org/abs/2409.20441v2)|null|
 |**2024-09-30**|**QAEncoder: Towards Aligned Representation Learning in Question Answering System**|Zhengren Wang et.al.|[2409.20434v1](http://arxiv.org/abs/2409.20434v1)|null|
 |**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429v1](http://arxiv.org/abs/2409.20429v1)|null|
 |**2024-09-30**|**Sufficient and Necessary Explanations (and What Lies in Between)**|Beepul Bharti et.al.|[2409.20427v1](http://arxiv.org/abs/2409.20427v1)|null|
@@ -32,7 +32,7 @@
 |**2024-09-30**|**Disentangling Singlish Discourse Particles with Task-Driven Representation**|Linus Tze En Foo et.al.|[2409.20366v1](http://arxiv.org/abs/2409.20366v1)|null|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364v1](http://arxiv.org/abs/2409.20364v1)|null|
 |**2024-09-30**|**Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference**|Ke Yi et.al.|[2409.20361v1](http://arxiv.org/abs/2409.20361v1)|null|
-|**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340v1](http://arxiv.org/abs/2409.20340v1)|null|
+|**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340v2](http://arxiv.org/abs/2409.20340v2)|null|
 |**2024-09-30**|**Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding**|Takafumi Moriya et.al.|[2409.20313v1](http://arxiv.org/abs/2409.20313v1)|null|
 |**2024-09-30**|**A Looming Replication Crisis in Evaluating Behavior in Language Models? Evidence and Solutions**|Laurène Vaugrante et.al.|[2409.20303v1](http://arxiv.org/abs/2409.20303v1)|null|
 |**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296v1](http://arxiv.org/abs/2409.20296v1)|null|
@@ -45,10 +45,10 @@
 |**2024-09-30**|**Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**|David Castillo-Bolado et.al.|[2409.20222v1](http://arxiv.org/abs/2409.20222v1)|null|
 |**2024-09-30**|**Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach**|Aditi Dutta et.al.|[2409.20204v1](http://arxiv.org/abs/2409.20204v1)|null|
 |**2024-09-30**|**AfriHuBERT: A self-supervised speech representation model for African languages**|Jesujoba O. Alabi et.al.|[2409.20201v1](http://arxiv.org/abs/2409.20201v1)|null|
-|**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196v1](http://arxiv.org/abs/2409.20196v1)|null|
+|**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196v1](http://arxiv.org/abs/2409.20196v1)|[link](https://github.com/shaopengw/Awesome-Music-Generation)|
 |**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|null|
 |**2024-09-30**|**Factory Operators' Perspectives on Cognitive Assistants for Knowledge Sharing: Challenges, Risks, and Impact on Work**|Samuel Kernan Freire et.al.|[2409.20192v1](http://arxiv.org/abs/2409.20192v1)|null|
-|**2024-09-30**|**TaskComplexity: A Dataset for Task Complexity Classification with In-Context Learning, FLAN-T5 and GPT-4o Benchmarks**|Areeg Fahad Rasheed et.al.|[2409.20189v1](http://arxiv.org/abs/2409.20189v1)|null|
+|**2024-09-30**|**TaskComplexity: A Dataset for Task Complexity Classification with In-Context Learning, FLAN-T5 and GPT-4o Benchmarks**|Areeg Fahad Rasheed et.al.|[2409.20189v1](http://arxiv.org/abs/2409.20189v1)|[link](https://github.com/AREEG94FAHAD/TaskComplexityEval-24)|
 |**2024-09-30**|**Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth**|Joseph D. Ramsey et.al.|[2409.20187v1](http://arxiv.org/abs/2409.20187v1)|null|
 |**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181v1](http://arxiv.org/abs/2409.20181v1)|null|
 |**2024-09-30**|**Modelando procesos cognitivos de la lectura natural con GPT-2**|Bruno Bianchi et.al.|[2409.20174v1](http://arxiv.org/abs/2409.20174v1)|null|
@@ -57,7 +57,7 @@
 |**2024-09-30**|**MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants**|Zeyu Zhang et.al.|[2409.20163v1](http://arxiv.org/abs/2409.20163v1)|[link](https://github.com/nuster1128/memsim)|
 |**2024-09-30**|**1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models**|Chanjun Park et.al.|[2409.20149v1](http://arxiv.org/abs/2409.20149v1)|null|
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147v1](http://arxiv.org/abs/2409.20147v1)|null|
-|**2024-09-30**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135v1](http://arxiv.org/abs/2409.20135v1)|null|
+|**2024-09-30**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135v2](http://arxiv.org/abs/2409.20135v2)|null|
 |**2024-09-30**|**ACE: Abstractions for Communicating Efficiently**|Jonathan D. Thomas et.al.|[2409.20120v1](http://arxiv.org/abs/2409.20120v1)|null|
 |**2024-09-30**|**Aggressive Post-Training Compression on Extremely Large Language Models**|Zining Zhang et.al.|[2409.20094v1](http://arxiv.org/abs/2409.20094v1)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089v1](http://arxiv.org/abs/2409.20089v1)|null|
@@ -77,7 +77,7 @@
 |**2024-09-30**|**Mitigating Backdoor Threats to Large Language Models: Advancement and Challenges**|Qin Liu et.al.|[2409.19993v1](http://arxiv.org/abs/2409.19993v1)|null|
 |**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
 |**2024-09-30**|**CONTESTS: a Framework for Consistency Testing of Span Probabilities in Language Models**|Eitan Wagner et.al.|[2409.19984v1](http://arxiv.org/abs/2409.19984v1)|null|
-|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v1](http://arxiv.org/abs/2409.19979v1)|null|
+|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|[link](https://github.com/WangXFng/ELMRec)|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977v1](http://arxiv.org/abs/2409.19977v1)|[link](https://github.com/changyi7231/nfe)|
 |**2024-09-30**|**Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2409.19961v1](http://arxiv.org/abs/2409.19961v1)|null|
 |**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960v1](http://arxiv.org/abs/2409.19960v1)|null|
@@ -87,11 +87,11 @@
 |**2024-09-30**|**JaPOC: Japanese Post-OCR Correction Benchmark using Vouchers**|Masato Fujitake et.al.|[2409.19948v1](http://arxiv.org/abs/2409.19948v1)|null|
 |**2024-09-30**|**Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains**|Samia Belhadj et.al.|[2409.19940v1](http://arxiv.org/abs/2409.19940v1)|null|
 |**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925v1](http://arxiv.org/abs/2409.19925v1)|null|
-|**2024-09-30**|**On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability**|Kevin Wang et.al.|[2409.19924v1](http://arxiv.org/abs/2409.19924v1)|null|
+|**2024-09-30**|**On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability**|Kevin Wang et.al.|[2409.19924v2](http://arxiv.org/abs/2409.19924v2)|[link](https://github.com/vita-group/o1-planning)|
 |**2024-09-30**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming**|Ming Li et.al.|[2409.19916v1](http://arxiv.org/abs/2409.19916v1)|null|
 |**2024-09-30**|**Scaling Optimal LR Across Token Horizon**|Johan Bjorck et.al.|[2409.19913v1](http://arxiv.org/abs/2409.19913v1)|null|
-|**2024-09-30**|**UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs**|Yuho Lee et.al.|[2409.19898v1](http://arxiv.org/abs/2409.19898v1)|[link](https://github.com/disl-lab/unisumeval-v1.0)|
-|**2024-09-30**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894v1](http://arxiv.org/abs/2409.19894v1)|null|
+|**2024-09-30**|**UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs**|Yuho Lee et.al.|[2409.19898v2](http://arxiv.org/abs/2409.19898v2)|[link](https://github.com/disl-lab/unisumeval-v1.0)|
+|**2024-09-30**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894v2](http://arxiv.org/abs/2409.19894v2)|null|
 |**2024-09-30**|**RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models**|Shuhao Chen et.al.|[2409.19886v1](http://arxiv.org/abs/2409.19886v1)|[link](https://github.com/shuhao02/routerdc)|
 |**2024-09-30**|**SWIM: Short-Window CNN Integrated with Mamba for EEG-Based Auditory Spatial Attention Decoding**|Ziyang Zhang et.al.|[2409.19884v1](http://arxiv.org/abs/2409.19884v1)|[link](https://github.com/windowso/swim-asad)|
 |**2024-09-30**|**Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation**|Huangyu Dai et.al.|[2409.19877v1](http://arxiv.org/abs/2409.19877v1)|null|
@@ -451,7 +451,7 @@ datasets.
 摘要：<paragraph>神經架構搜尋 (NAS) 自動化神經網路設計，減少對人類專業知識的依賴。儘管 NAS 方法在計算上很密集且特定於資料集，但輔助預測器可減少需要訓練的模型，縮短搜尋時間。此策略用於產生滿足多項運算限制的架構。近期，可轉移 NAS 已浮現，將搜尋程序從特定於資料集概括為特定於任務。在這個領域，DiffusionNAG 是一種最先進的方法。這種基於擴散的方法簡化了運算，產生了針對未見資料集最佳化準確度的架構，而無需進一步調整。然而，DiffusionNAG 僅專注於準確度，而忽略了其他關鍵目標，例如模型複雜度、運算效率和推論延遲，這些因素對於在資源受限的環境中部署模型至關重要。本文介紹了 Pareto 最佳多目標神經架構產生器 (POMONAG)，透過多目標擴散過程擴充 DiffusionNAG。POMONAG 同時考慮準確度、參數數量、乘累加運算 (MAC) 和推論延遲。它整合了效能預測器模型來估計這些指標並引導擴散梯度。POMONAG 的最佳化透過擴充其訓練元資料集、應用 Pareto 前緣過濾和精煉用於條件式產生的嵌入式元件而增強。這些增強功能讓 POMONAG 能夠產生 Pareto 最佳架構，其效能和效率優於先前的最先進技術。結果在兩個搜尋空間（NASBench201 和 MobileNetV3）上得到驗證，並在 15 個影像分類資料集上進行評估。</paragraph>
 
 ##### **Instance-adaptive Zero-shot Chain-of-Thought Prompting**
-2409.20441v1 by Xiaosong Yuan, Chen Shen, Shaotian Yan, Xiaofeng Zhang, Liang Xie, Wenxiao Wang, Renchu Guan, Ying Wang, Jieping Ye
+2409.20441v2 by Xiaosong Yuan, Chen Shen, Shaotian Yan, Xiaofeng Zhang, Liang Xie, Wenxiao Wang, Renchu Guan, Ying Wang, Jieping Ye
 
 Zero-shot Chain-of-Thought (CoT) prompting emerges as a simple and effective
 strategy for enhancing the performance of large language models (LLMs) in
@@ -477,7 +477,7 @@ instance-adaptive zero-shot CoT prompting performs better than other task-level
 methods with some curated prompts or sophisticated procedures, showing the
 significance of our findings in the zero-shot CoT reasoning mechanism.
 
-摘要：零發射思想鏈（CoT）提示作為一種簡單且有效的策略出現，用於增強大型語言模型（LLM）在現實世界推理任務中的性能。儘管如此，單一任務級別提示在所有實例中統一應用的功效本質上是有限的，因為一個提示不能成為所有提示的好夥伴，更適當的方法應仔細考慮提示和每個實例之間的交互。這項工作引入了一個實例自適應提示演算法，作為一種替代的零發射 CoT 推理方案，通過自適應地區分好提示和壞提示。具體來說，我們首先通過資訊流的視角對 LLM 進行分析，以檢測零發射 CoT 推理下的機制，在其中我們發現資訊從問題流向提示，以及問題流向依據共同對推理結果產生最大的影響。我們注意到，一個更好的零發射 CoT 推理需要提示從問題中獲取語義資訊，然後依據直接從問題中聚合足夠的資訊，並透過提示間接聚合。相反，缺乏其中任何一個都可能導致一個壞提示。由此，我們進一步提出了一個實例自適應提示策略（IAP），用於零發射 CoT 推理。使用 LLaMA-2、LLaMA-3 和 Qwen 在數學、邏輯和常識推理任務（例如，GSM8K、MMLU、因果判斷）上進行的實驗獲得了一致的改進，證明了實例自適應零發射 CoT 提示比其他任務級別方法表現得更好，這些方法帶有一些策展提示或複雜的程序，顯示了我們在零發射 CoT 推理機制中的發現的重要性。
+摘要：零次發想鏈（CoT）提示作為一種簡單且有效的策略，用於增強大型語言模型（LLM）在現實世界推理任務中的表現。儘管如此，單一任務級別提示在所有實例中統一應用的效力本質上是有限的，因為一個提示無法成為所有提示的好夥伴，一個更適當的方法應該仔細考慮提示與每個實例之間的交互。這項工作引入了一個實例自適應提示演算法，作為一種替代的零次發想鏈推理方案，通過自適應地區分好提示和壞提示。具體來說，我們首先通過資訊流的視角對 LLM 進行分析，以檢測零次發想鏈推理下的機制，我們發現從問題到提示和從問題到理由的資訊流共同對推理結果影響最大。我們注意到，一個更好的零次發想鏈推理需要提示從問題中獲取語義資訊，然後理由直接從問題中聚合足夠的資訊，並通過提示間接聚合。相反，缺少任何一個都可能導致一個壞的推理。由此，我們進一步提出了一個實例自適應提示策略（IAP），用於零次發想鏈推理。使用 LLaMA-2、LLaMA-3 和 Qwen 在數學、邏輯和常識推理任務（例如 GSM8K、MMLU、因果判斷）上進行的實驗獲得了一致的改進，證明了實例自適應零次發想鏈提示比其他具有某些策展提示或複雜程序的任務級別方法表現得更好，顯示了我們的發現對於零次發想鏈推理機制的意義。
 
 ##### **QAEncoder: Towards Aligned Representation Learning in Question Answering System**
 2409.20434v1 by Zhengren Wang, Qinhan Yu, Shida Wei, Zhiyu Li, Feiyu Xiong, Xiaoxing Wang, Simin Niu, Hao Liang, Wentao Zhang
@@ -795,7 +795,7 @@ method in the LLaMA and Qwen families and improves WikiText-2 perplexity from
 摘要：大型语言模型在扩大参数时已展示出有希望的能力。然而，由于大规模，提供大型语言模型会产生大量的计算和内存移动成本。量化方法已被用来降低服务成本和延迟。尽管如此，激活中的异常值阻碍了 INT4 权重激活量化的发展。现有的方法将异常值和正常值分成两个矩阵，或将异常值从激活迁移到权重，从而导致高延迟或精度下降。基于对大型语言模型的激活观察，异常值可以分类为通道内异常值和尖峰异常值。在这项工作中，我们提出了旋转运行时平滑 (RRS)，这是一种即插即用的激活平滑器，用于量化，由运行时平滑和旋转操作组成。引入运行时平滑 (RS) 以通过在运行时使用通道内最大值平滑激活来消除通道内异常值。旋转操作可以缩小尖峰异常值和正常值之间的差距，减轻通道内平滑造成的受害影响。所提出的方法优于 LLaMA 和 Qwen 系列中的最先进方法，并将 WikiText-2 的困惑度从 57.33 提高到 6.66，用于 INT4 推断。
 
 ##### **Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**
-2409.20340v1 by Osama Mustafa
+2409.20340v2 by Osama Mustafa
 
 The application of deep learning in cancer research, particularly in early
 diagnosis, case understanding, and treatment strategy design, emphasizes the
@@ -822,7 +822,7 @@ state-of-the-art (SOTA) GANs and a Denoising Diffusion Probabilistic model,
 outperforming previous SOTA across various metrics, including FID score, KID
 score, Perceptual Path Length, and downstream classification tasks.
 
-摘要：深度學習在癌症研究中的應用，特別是在早期診斷、病例理解和治療策略設計中，強調了對高品質資料的需求。生成式 AI，尤其是生成式對抗網路 (GAN)，已成為解決類別不平衡、穩健學習和模型訓練等挑戰的領先解決方案，同時解決了患者隱私和真實資料稀缺的問題。儘管有希望，GAN 面臨著一些挑戰，既有固有的，也有針對組織病理學資料的。固有問題包括訓練不平衡、模式崩潰、判別器回饋不足導致的線性學習，以及由於嚴格回饋導致的硬邊界收斂。組織病理學資料以其複雜的表示、高空間解析度和多尺度特徵呈現獨特挑戰。為了應對這些挑戰，我們提出了由兩個組成部分組成的框架。首先，我們引入了一個基於對比學習的多階段漸進微調連體神經網路 (MFT-SNN)，用於評估組織病理學貼片之間的相似性。其次，我們在 GAN 訓練迴圈中實作了一個基於強化學習的外部最佳化器 (RL-EO)，作為獎勵訊號產生器。修改後的判別器損失函數包含一個加權獎勵，指導 GAN 在最小化損失的同時最大化這個獎勵。這種方法為判別器提供了一個外部最佳化指南，防止生成器過度擬合並確保平穩收斂。我們提出的解決方案已針對最先進 (SOTA) GAN 和去噪擴散機率模型進行基準測試，在各種指標上優於先前的 SOTA，包括 FID 分數、KID 分數、感知路徑長度和下游分類任務。
+摘要：深度學習在癌症研究中的應用，特別是在早期診斷、案例理解和治療策略設計中，強調了對高品質數據的需求。生成式 AI，特別是生成式對抗網路 (GAN)，已成為解決類別不平衡、穩健學習和模型訓練等挑戰的領先解決方案，同時解決了患者隱私和真實數據稀缺的問題。儘管有其優點，但 GAN 面臨著多項挑戰，既有固有的，也有特定於組織病理學數據的。固有問題包括訓練不平衡、模式崩潰、判別器回饋不足導致的線性學習，以及由於嚴格回饋導致的硬邊界收斂。組織病理學數據以其複雜的表示、高空間解析度和多尺度特徵呈現出獨特的挑戰。為了應對這些挑戰，我們提出了一個由兩個組成部分組成的框架。首先，我們引入了一個基於對比學習的多階段漸進微調連體神經網路 (MFT-SNN)，用於評估組織病理學貼片之間的相似性。其次，我們在 GAN 訓練迴圈中實作了一個基於強化學習的外部優化器 (RL-EO)，作為獎勵訊號產生器。修改後的判別器損失函數包含一個加權獎勵，指導 GAN 在最小化損失的同時最大化這個獎勵。這種方法為判別器提供了外部優化指南，防止生成器過度擬合並確保平穩收斂。我們提出的解決方案已針對最先進 (SOTA) GAN 和去噪擴散概率模型進行了基準測試，在 FID 分數、KID 分數、感知路徑長度和下游分類任務等各種指標上優於先前的 SOTA。
 
 ##### **Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding**
 2409.20313v1 by Takafumi Moriya, Takanori Ashihara, Masato Mimura, Hiroshi Sato, Kohei Matsuura, Ryo Masumura, Taichi Asami
@@ -1366,27 +1366,28 @@ could reduce the amount of manual labeling required.
 摘要：自然語言處理 (NLP) 在醫療領域中，在涉及非英語語言中小型資料集、標記樣本少和類別不平衡的實際應用中表現不佳。對於如何解決這個問題，目前尚未達成共識。我們使用三組丹麥語癲癇患者磁共振影像的放射報告資料集，評估了一組 NLP 模型，包括類 BERT 轉換器、使用句子轉換器 (SetFit) 的少樣本學習，以及提示的大型語言模型 (LLM)。我們的結果表明，目前在放射報告目標領域中預訓練的類 BERT 模型為此情境提供最佳效能。值得注意的是，與類 BERT 模型相比，SetFit 和 LLM 模型表現不佳，而 LLM 表現最差。重要的是，所研究的模型中沒有一個足夠準確，可以在沒有任何監督的情況下進行文字分類。然而，它們顯示出資料過濾的潛力，這可以減少所需的手動標記量。
 
 ##### **Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**
-2409.20135v1 by Zezhou Wang, Yaxin Du, Zhuzhong Qian, Siheng Chen
+2409.20135v2 by Zezhou Wang, Yaxin Du, Zhuzhong Qian, Siheng Chen
 
-Federated Domain-specific Instruction Tuning (FedDIT) leverages a few
-cross-client private data and server-side public data for instruction
-augmentation, enhancing model performance in specific domains. While the
-factors affecting FedDIT remain unclear and existing instruction augmentation
-methods mainly focus on the centralized setting without considering the
-distributed environment. Firstly, our experiments show that cross-client domain
-coverage, rather than data heterogeneity, drives model performance in FedDIT.
-Thus, we propose FedDCA, which maximizes domain coverage through greedy client
-center selection and retrieval-based augmentation. To reduce client-side
-computation, FedDCA$^*$ uses heterogeneous encoders with server-side feature
-alignment. Extensive experiments across four domains (code, medical, financial,
-and mathematical) validate the effectiveness of both methods. Additionally, we
-explore the privacy protection against memory extraction attacks with various
-amounts of public data and results show that there is no significant
-correlation between the amount of public data and the privacy-preserving
-capability. However, as the fine-tuning round increases, the risk of privacy
-leakage reduces or converges.
+Federated Domain-specific Instruction Tuning (FedDIT) utilizes limited
+cross-client private data alongside server-side public data for instruction
+augmentation, ultimately enhancing model performance within specific domains.
+While the factors affecting FedDIT remain unclear and existing instruction
+augmentation methods mainly focus on the centralized setting without
+considering the distributed environment. Our experiments reveal that the
+cross-client domain coverage, rather than data heterogeneity, drives model
+performance in FedDIT. In response, we propose FedDCA, which optimizes domain
+coverage through greedy client center selection and retrieval-based
+augmentation. To alleviate client-side computational burdens, FedDCA$^*$ uses
+heterogeneous encoders with server-side feature alignment. Extensive
+experiments across four distinct domains (code, medical, financial, and
+mathematical) substantiate the effectiveness of both methods. Additionally, we
+investigate privacy preservation against memory extraction attacks utilizing
+varying amounts of public data. Results show no significant correlation between
+the volume of public data and the privacy-preserving capability. However, as
+the fine-tuning round increases, the risk of privacy leakage reduces or
+converges.
 
-摘要：聯邦領域特定指令調整 (FedDIT) 利用少數跨用戶端私有資料和伺服器端公開資料來進行指令擴充，提升特定領域中的模型效能。儘管影響 FedDIT 的因素仍不明確，現有的指令擴充方法主要專注於集中式設定，而未考慮分散式環境。首先，我們的實驗顯示，跨用戶端領域涵蓋範圍，而非資料異質性，驅動了 FedDIT 中的模型效能。因此，我們提出 FedDCA，它透過貪婪用戶端中心選擇和基於檢索的擴充，將領域涵蓋範圍最大化。為了減少用戶端運算，FedDCA$^*$ 使用具有伺服器端特徵對齊的異質編碼器。跨越四個領域（程式碼、醫療、財務和數學）的廣泛實驗驗證了兩種方法的有效性。此外，我們探索了針對記憶體擷取攻擊的隱私保護，其中包含不同數量的公開資料，結果顯示公開資料數量與隱私保護功能之間沒有顯著關聯性。然而，隨著微調回合的增加，隱私外洩的風險會降低或收斂。
+摘要：聯邦領域特定指令調整 (FedDIT) 利用有限的跨用戶端私人數據以及伺服器端的公開數據進行指令擴充，最終增強特定領域內的模型效能。雖然影響 FedDIT 的因素仍不明確，現有的指令擴充方法主要著重於集中式設定，而未考慮分散式環境。我們的實驗顯示，跨用戶端領域涵蓋範圍，而非數據異質性，驅動了 FedDIT 中的模型效能。為此，我們提出 FedDCA，它透過貪婪用戶端中心選擇和基於檢索的擴充，最佳化領域涵蓋範圍。為了減輕用戶端端的運算負擔，FedDCA$^*$ 使用具有伺服器端特徵比對的異質編碼器。跨越四個不同領域（程式碼、醫療、金融和數學）的廣泛實驗證實了這兩種方法的有效性。此外，我們針對利用不同量公開數據的記憶體提取攻擊調查隱私保護。結果顯示公開數據量與隱私保護能力之間沒有顯著相關性。然而，隨著微調回合數增加，隱私洩漏的風險會降低或收斂。
 
 ##### **ACE: Abstractions for Communicating Efficiently**
 2409.20120v1 by Jonathan D. Thomas, Andrea Silvi, Devdatt Dubhashi, Vikas Garg, Moa Johansson
@@ -1807,22 +1808,22 @@ serve as useful guides for future research on addressing these limitations.
 摘要：儘管語言模型分數通常被視為機率，但其作為機率估計器的可靠性主要透過校準來研究，忽視了其他面向。特別是不清楚語言模型是否對指定詞彙範圍的聯合機率的不同方式產生相同的值。我們的研究引入了一個新穎的架構，ConTestS（跨範圍的一致性測試），涉及統計測試以評估可互換完成和條件順序之間的分數一致性。我們對發布後的真實和合成資料進行實驗，以消除訓練效果。我們的研究結果顯示，遮蔽語言模型 (MLM) 和自迴歸模型都會產生不一致的預測，而自迴歸模型顯示出更大的差異。較大的 MLM 傾向於產生更一致的預測，而自迴歸模型則顯示相反的趨勢。此外，對於這兩種模型類型，預測熵提供了對真實詞彙範圍機率的見解，因此有助於選擇最佳解碼策略。我們的分析揭示的不一致性，以及它們與預測熵和模型類型之間的差異，可以作為未來研究解決這些限制的有用指南。
 
 ##### **Enhancing High-order Interaction Awareness in LLM-based Recommender Model**
-2409.19979v1 by Xinfeng Wang, Jin Cui, Fumiyo Fukumoto, Yoshimi Suzuki
+2409.19979v2 by Xinfeng Wang, Jin Cui, Fumiyo Fukumoto, Yoshimi Suzuki
 
 Large language models (LLMs) have demonstrated prominent reasoning
 capabilities in recommendation tasks by transforming them into text-generation
-tasks. % many NLP applications including However, existing approaches either
-disregard or ineffectively model the user--item high-order interactions. To
-this end, this paper presents an enhanced LLM-based recommender (ELMRec). We
-enhance whole-word embeddings to substantially enhance LLMs' interpretation of
-graph-constructed interactions for recommendations, without requiring graph
-pre-training. This finding may inspire endeavors to incorporate rich knowledge
-graphs into LLM-based recommenders via whole-word embedding. We also found that
-LLMs often recommend items based on users' earlier interactions rather than
-recent ones, and present a reranking solution. Our ELMRec outperforms
-state-of-the-art (SOTA) methods in both direct and sequential recommendations.
+tasks. However, existing approaches either disregard or ineffectively model the
+user-item high-order interactions. To this end, this paper presents an enhanced
+LLM-based recommender (ELMRec). We enhance whole-word embeddings to
+substantially enhance LLMs' interpretation of graph-constructed interactions
+for recommendations, without requiring graph pre-training. This finding may
+inspire endeavors to incorporate rich knowledge graphs into LLM-based
+recommenders via whole-word embedding. We also found that LLMs often recommend
+items based on users' earlier interactions rather than recent ones, and present
+a reranking solution. Our ELMRec outperforms state-of-the-art (SOTA) methods in
+both direct and sequential recommendations.
 
-摘要：大型語言模型 (LLM) 在推薦任務中展現出顯著的推理能力，將其轉化為文本生成任務。然而，現有的方法不是忽視用戶與項目的高階互動，就是對其建模無效。為此，本文提出一個增強的基於 LLM 的推薦器 (ELMRec)。我們增強全詞嵌入，以大幅增強 LLM 對圖形建構互動的解讀，以進行推薦，而無需圖形預訓練。這一發現可能激勵人們通過全詞嵌入將豐富的知識圖譜整合到基於 LLM 的推薦器中。我們還發現，LLM 通常根據用戶早期的互動而不是最近的互動來推薦項目，並提出一個重新排序的解決方案。我們的 ELMRec 在直接和順序推薦中都優於最先進 (SOTA) 的方法。
+摘要：大型語言模型 (LLM) 已證明在推薦任務中具有顯著的推理能力，方法是將其轉換為文本生成任務。然而，現有方法不是忽略用戶項目高階互動，就是對其建模效果不佳。為此，本文提出了一種增強的基於 LLM 的推薦器 (ELMRec)。我們增強了全詞嵌入，以大幅增強 LLM 對圖形構建互動的解讀，用於推薦，而不需要圖形預訓練。這一發現可能會激勵將豐富的知識圖譜通過全詞嵌入整合到基於 LLM 的推薦器中的努力。我們還發現，LLM 通常根據用戶早期的互動而非最近的互動來推薦項目，並提出了一種重新排序的解決方案。我們的 ELMRec 在直接和順序推薦中都優於最先進 (SOTA) 方法。
 
 ##### **Knowledge Graph Embedding by Normalizing Flows**
 2409.19977v1 by Changyi Xiao, Xiangnan He, Yixin Cao
@@ -2053,7 +2054,7 @@ applied across different SRS models.
 摘要：序列推薦系統 (SRS) 廣泛應用於各種領域，透過建模使用者的互動序列來預測他們的下一個互動。然而，這些系統通常會遇到長尾問題，也就是難以推薦較不受歡迎的項目。此挑戰導致使用者探索減少，以及供應商收益降低，對系統整體造成負面影響。大型語言模型 (LLM) 有潛力了解項目之間的語義關聯，而不管其受歡迎程度如何，使其成為解決此困境的可行方案。在我們的論文中，我們提出 LLMEmb，這是一種創新的技術，利用 LLM 來建立項目嵌入，以提升 SRS 的效能。為了將通用 LLM 的功能與推薦領域的需求結合，我們引入一種稱為監督對比微調 (SCFT) 的方法。此方法涉及屬性層級資料擴充和自訂對比損失，旨在調整 LLM 以增強推薦效能。此外，我們強調將協同過濾訊號納入 LLM 生成的嵌入的必要性，並提出推薦適應訓練 (RAT) 以達到此目的。RAT 會調整嵌入，使其最適合 SRS。從 LLMEmb 衍生的嵌入可以輕鬆與任何 SRS 模型整合，展示其實用性。在三個真實世界資料集上進行的廣泛實驗顯示，LLMEmb 在應用於不同 SRS 模型時，顯著優於目前的方法。
 
 ##### **On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability**
-2409.19924v1 by Kevin Wang, Junbo Li, Neel P. Bhatt, Yihan Xi, Qiang Liu, Ufuk Topcu, Zhangyang Wang
+2409.19924v2 by Kevin Wang, Junbo Li, Neel P. Bhatt, Yihan Xi, Qiang Liu, Ufuk Topcu, Zhangyang Wang
 
 Recent advancements in Large Language Models (LLMs) have showcased their
 ability to perform complex reasoning tasks, but their effectiveness in planning
@@ -2073,7 +2074,7 @@ tasks. This pilot study provides foundational insights into the planning
 limitations of LLMs, offering key directions for future research on improving
 memory management, decision-making, and generalization in LLM-based planning.
 
-摘要：大型語言模型 (LLM) 的最新進展展示了它們執行複雜推理任務的能力，但它們在規劃中的有效性仍未得到充分探索。在本研究中，我們評估了 OpenAI 的 o1 模型在各種基準任務中的規劃能力，重點關注三個關鍵方面：可行性、最優性和概括性。通過對約束繁重的任務（例如，$\textit{Barman}$、$\textit{Tyreworld}$）和空間複雜環境（例如，$\textit{Termes}$、$\textit{Floortile}$）的實證評估，我們強調了 o1-preview 在自我評估和約束遵循方面的優勢，同時也發現了決策制定和記憶管理中的瓶頸，特別是在需要強健空間推理的任務中。我們的結果表明，o1-preview 在遵守任務約束和管理結構化環境中的狀態轉換方面優於 GPT-4。然而，該模型通常會生成次優的解決方案，其中包含冗餘動作，並且難以在空間複雜任務中有效概括。這項試點研究提供了對 LLM 規劃限制的基本見解，為未來改進基於 LLM 的規劃中的記憶管理、決策制定和概括的研究提供了關鍵方向。
+摘要：大型語言模型 (LLM) 的最新進展展示了它們執行複雜推理任務的能力，但它們在規劃中的有效性仍未得到充分探討。在本研究中，我們評估了 OpenAI 的 o1 模型在各種基準任務中的規劃能力，重點關注三個關鍵方面：可行性、最優性和可概括性。通過對約束繁重的任務（例如，$\textit{Barman}$、$\textit{Tyreworld}$）和空間複雜環境（例如，$\textit{Termes}$、$\textit{Floortile}$）的經驗評估，我們強調了 o1-preview 在自我評估和約束遵循方面的優勢，同時也發現了決策制定和記憶體管理中的瓶頸，特別是在需要強大的空間推理能力的任務中。我們的結果表明，o1-preview 在遵守任務約束和管理結構化環境中的狀態轉換方面優於 GPT-4。然而，該模型通常會生成具有冗餘動作的次優解，並且難以在空間複雜的任務中有效概括。這項試點研究提供了對 LLM 規劃限制的基本見解，為改進基於 LLM 的規劃中的記憶體管理、決策制定和概括提供了未來研究的主要方向。
 
 ##### **Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming**
 2409.19916v1 by Ming Li, Ziqian Bi, Tianyang Wang, Keyu Chen, Jiawei Xu, Qian Niu, Junyu Liu, Benji Peng, Sen Zhang, Xuanhe Pan, Jinlang Wang, Pohsun Feng, Caitlyn Heqi Yin, Yizhu Wen, Ming Liu
@@ -2125,7 +2126,7 @@ overlooked component of LLM training.
 摘要：最先进的 LLM 由以下方式提供支持：扩展模型大小、数据集大小和集群大小。广泛调整超参数以进行最大运行在经济上不可行。相反，必须从较小的实验中推断或“传输”近似最优超参数。Yang 等人研究了跨模型大小的超参数传输。然而，尚未研究跨数据集大小（或令牌范围）的超参数传输。为了解决这个问题，我们对最优学习率 (LR) 如何依赖 LLM 训练中的令牌范围进行了大规模实证研究。我们首先证明最优 LR 随令牌范围而显着变化——更长的训练需要更小的 LR。其次，我们证明最优 LR 遵循缩放定律，并且可以通过我们的缩放定律从较短的范围准确估计较长范围的最优 LR。我们还提供了一个经验法则，用于在令牌范围之间传输 LR，而无需对当前实践进行任何开销。最后，我们提供了证据表明 LLama-1 使用了过高的 LR，并估计了由此造成的性能损失。因此，我们认为跨数据大小的超参数传输是 LLM 训练的一个重要且被忽视的组成部分。
 
 ##### **UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs**
-2409.19898v1 by Yuho Lee, Taewon Lee, Jason Cai, Hang Su, Hwanjun Song
+2409.19898v2 by Yuho Lee, Taewon Yun, Jason Cai, Hang Su, Hwanjun Song
 
 Existing benchmarks for summarization quality evaluation often lack diverse
 input scenarios, focus on narrowly defined dimensions (e.g., faithfulness), and
@@ -2141,10 +2142,10 @@ dimensions. Furthermore, we conduct a thorough comparison of SOTA automated
 summary evaluators. Our benchmark data will be available at
 https://github.com/DISL-Lab/UniSumEval-v1.0.
 
-摘要：現有的摘要品質評估基準通常缺乏多樣化的輸入場景，專注於狹義的維度（例如忠實度），並與主觀且粗略的註解範例作鬥爭。為了解決這些缺點，我們建立了 UniSumEval 基準，它擴展了輸入脈絡的範圍（例如，網域、長度），並提供了細緻且多面向的註解。我們在資料建立中使用 AI 輔助，識別潛在的幻覺輸入文字，並協助人工註解者降低細緻註解任務的難度。透過 UniSumEval，我們將九個最新的語言模型作為摘要工具進行基準測試，深入了解它們在不同輸入脈絡和評估維度中的表現。此外，我們對 SOTA 自動摘要評估器進行了徹底的比較。我們的基準資料將於 https://github.com/DISL-Lab/UniSumEval-v1.0 提供。
+摘要：現有的摘要品質評估基準通常缺乏多樣化的輸入情境，專注於狹義的維度（例如忠實度），並與主觀且粗略的註解方案奮戰。為了解決這些缺點，我們建立了 UniSumEval 基準，它擴展了輸入內容的範圍（例如，領域、長度），並提供了細緻、多維度的註解。我們在資料建立中使用 AI 協助，識別潛在的幻覺輸入文字，並協助人工註解者降低細緻註解任務的難度。有了 UniSumEval，我們將九個最新的語言模型作為摘要者進行基準測試，提供對它們在不同輸入內容和評估維度中表現的見解。此外，我們對 SOTA 自動摘要評估器進行了徹底的比較。我們的基準資料將於 https://github.com/DISL-Lab/UniSumEval-v1.0 提供。
 
 ##### **TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**
-2409.19894v1 by Zhiqiang Yuan, Weitong Chen, Hanlin Wang, Kai Yu, Xin Peng, Yiling Lou
+2409.19894v2 by Zhiqiang Yuan, Weitong Chen, Hanlin Wang, Kai Yu, Xin Peng, Yiling Lou
 
 Code translation converts code from one programming language to another while
 maintaining its original functionality, which is crucial for software
@@ -2172,8 +2173,8 @@ technique UniTrans in both translation effectiveness and efficiency;
 additionally, our evaluation on different LLMs show the generalization of
 TRANSAGENT and our ablation study shows the contribution of each agent.
 
-摘要：<paragraph>程式碼轉譯會將程式碼從一種程式語言轉換到另一種程式語言，同時保持其原始功能，這對於軟體遷移、系統重構和跨平台開發至關重要。傳統的基於規則的方法仰賴手寫規則，這可能會耗時且經常導致可讀性較差的程式碼。為了克服這個問題，已經開發出基於學習的方法，利用平行資料來訓練自動程式碼轉譯的模型。最近，大型語言模型 (LLM) 的進步進一步提升了基於學習的程式碼轉譯。儘管有前景，LLM 轉譯的程式仍然存在各種品質問題（例如，語法錯誤和語意錯誤）。特別是，當僅提供對應的錯誤訊息時，LLM 可能難以自行除錯這些錯誤。
-在這項工作中，我們提出一個新穎的基於 LLM 的多代理系統 TRANSAGENT，它透過四個基於 LLM 的代理之間的協同作用來修正語法錯誤和語意錯誤，從而增強基於 LLM 的程式碼轉譯，包括初始程式碼轉譯器、語法錯誤修正器、程式碼比對器和語意錯誤修正器。TRANSAGENT 的主要見解是首先根據目標程式和原始程式的執行比對，在目標程式中找出錯誤程式碼區塊，這可以縮小修正範圍，從而降低修正難度。為了評估 TRANSAGENT，我們首先從最近的程式設計任務中建構一個新的基準，以減輕潛在的資料外洩問題。在我們的基準上，TRANSAGENT 在轉譯效能和效率方面都優於最新的基於 LLM 的程式碼轉譯技術 UniTrans；此外，我們對不同 LLM 的評估顯示了 TRANSAGENT 的概化，而我們的消融研究顯示了每個代理的貢獻。</paragraph>
+摘要：<paragraph>程式碼翻譯將程式碼從一種程式語言轉換成另一種程式語言，同時維持其原始功能，這對軟體遷移、系統重構和跨平台開發至關重要。傳統的基於規則的方法依賴於手寫規則，這可能會耗時，且經常導致可讀性較差的程式碼。為了克服這個問題，已經開發出基於學習的方法，利用平行資料來訓練自動化程式碼翻譯的模型。最近，大型語言模型 (LLM) 的進步進一步提升了基於學習的程式碼翻譯。儘管有希望，但 LLM 翻譯的程式仍然存在各種品質問題（例如，語法錯誤和語義錯誤）。特別是，當僅提供對應的錯誤訊息時，LLM 可能難以自行除錯這些錯誤。
+在這項工作中，我們提出了一個新穎的基於 LLM 的多代理系統 TRANSAGENT，它透過修正語法錯誤和語義錯誤來增強基於 LLM 的程式碼翻譯，並結合了四個基於 LLM 的代理，包括初始程式碼翻譯器、語法錯誤修正器、程式碼對齊器和語義錯誤修正器。TRANSAGENT 的主要見解是首先根據目標程式與原始程式碼之間的執行對齊來定位目標程式中的錯誤程式碼區塊，這可以縮小修正空間，從而降低修正難度。為了評估 TRANSAGENT，我們首先從最近的程式設計任務中建構一個新的基準，以減輕潛在的資料外洩問題。在我們的基準上，TRANSAGENT 在翻譯效果和效率方面都優於最新的基於 LLM 的程式碼翻譯技術 UniTrans；此外，我們對不同 LLM 的評估顯示了 TRANSAGENT 的泛化性，而我們的消融研究顯示了每個代理的貢獻。</paragraph>
 
 ##### **RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models**
 2409.19886v1 by Shuhao Chen, Weisen Jiang, Baijiong Lin, James T. Kwok, Yu Zhang

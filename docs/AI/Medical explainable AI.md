@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
 |**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
 |**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
 |**2024-09-19**|**Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**|Daniel Flores-Araiza et.al.|[2409.12883v1](http://arxiv.org/abs/2409.12883v1)|null|
@@ -101,9 +102,33 @@
 |**2023-07-26**|**Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**|Barnaby Crook et.al.|[2307.14239v1](http://arxiv.org/abs/2307.14239v1)|null|
 |**2023-07-26**|**Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**|Henry Fraser et.al.|[2308.02047v1](http://arxiv.org/abs/2308.02047v1)|null|
 |**2023-07-21**|**eXplainable Artificial Intelligence (XAI) in aging clock models**|Alena Kalyakulina et.al.|[2307.13704v3](http://arxiv.org/abs/2307.13704v3)|null|
-|**2023-07-19**|**Interpreting and Correcting Medical Image Classification with PIP-Net**|Meike Nauta et.al.|[2307.10404v2](http://arxiv.org/abs/2307.10404v2)|[link](https://github.com/m-nauta/pipnet)|
 
 #### Abstracts
+##### **Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**
+2410.00366v1 by Prasenjit Maji, Amit Kumar Mondal, Hemanta Kumar Mondal, Saraju P. Mohanty
+
+The rapid advancements in artificial intelligence (AI) have revolutionized
+smart healthcare, driving innovations in wearable technologies, continuous
+monitoring devices, and intelligent diagnostic systems. However, security,
+explainability, robustness, and performance optimization challenges remain
+critical barriers to widespread adoption in clinical environments. This
+research presents an innovative algorithmic method using the Adaptive Feature
+Evaluator (AFE) algorithm to improve feature selection in healthcare datasets
+and overcome problems. AFE integrating Genetic Algorithms (GA), Explainable
+Artificial Intelligence (XAI), and Permutation Combination Techniques (PCT),
+the algorithm optimizes Clinical Decision Support Systems (CDSS), thereby
+enhancing predictive accuracy and interpretability. The proposed method is
+validated across three diverse healthcare datasets using six distinct machine
+learning algorithms, demonstrating its robustness and superiority over
+conventional feature selection techniques. The results underscore the
+transformative potential of AFE in smart healthcare, enabling personalized and
+transparent patient care. Notably, the AFE algorithm, when combined with a
+Multi-layer Perceptron (MLP), achieved an accuracy of up to 98.5%, highlighting
+its capability to improve clinical decision-making processes in real-world
+healthcare applications.
+
+摘要：人工智慧 (AI) 的快速進展徹底改變了智慧醫療保健，推動了可穿戴技術、持續監控裝置和智慧診斷系統的創新。然而，安全性、可解釋性、穩健性和效能最佳化挑戰仍然是臨床環境中廣泛採用的關鍵障礙。本研究提出一個創新的演算法方法，使用自適應特徵評估器 (AFE) 演算法來改善醫療保健資料集中的特徵選取並克服問題。AFE 整合了遺傳演算法 (GA)、可解釋人工智慧 (XAI) 和排列組合技術 (PCT)，該演算法最佳化了臨床決策支援系統 (CDSS)，從而提高了預測準確性和可解釋性。所提出的方法使用六種不同的機器學習演算法驗證了三個不同的醫療保健資料集，證明了其穩健性和優於傳統特徵選取技術。結果強調了 AFE 在智慧醫療保健中的轉變潛力，實現了個人化和透明的患者照護。值得注意的是，AFE 演算法與多層感知器 (MLP) 結合使用時，準確度高達 98.5%，突顯了其改善實際醫療保健應用中臨床決策制定流程的能力。
+
 ##### **Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**
 2409.13476v1 by Tirtha Chanda, Sarah Haggenmueller, Tabea-Clara Bucher, Tim Holland-Letz, Harald Kittler, Philipp Tschandl, Markus V. Heppt, Carola Berking, Jochen S. Utikal, Bastian Schilling, Claudia Buerger, Cristian Navarrete-Dechent, Matthias Goebeler, Jakob Nikolas Kather, Carolin V. Schneider, Benjamin Durani, Hendrike Durani, Martin Jansen, Juliane Wacker, Joerg Wacker, Reader Study Consortium, Titus J. Brinker
 
@@ -2633,24 +2658,4 @@ comprehensive analysis of the literature categorized by the focus on particular
 physiological systems.
 
 摘要：可解釋人工智慧 (XAI) 是機器學習中快速進展的領域，旨在解開複雜模型的預測。XAI 在敏感應用中特別需要，例如在醫療保健中，當診斷、建議和治療選擇可能依賴於人工智慧系統做出的決策時。人工智慧方法也已廣泛用於老化研究，特別是在開發生物時鐘模型和識別老化和與年齡相關疾病的生物標誌物方面。然而，這裡 XAI 的潛力有待充分認識。我們討論了 XAI 在開發「老化時鐘」方面的應用，並對按特定生理系統的重點分類的文獻進行了全面的分析。
-
-##### **Interpreting and Correcting Medical Image Classification with PIP-Net**
-2307.10404v2 by Meike Nauta, Johannes H. Hegeman, Jeroen Geerdink, Jörg Schlötterer, Maurice van Keulen, Christin Seifert
-
-Part-prototype models are explainable-by-design image classifiers, and a
-promising alternative to black box AI. This paper explores the applicability
-and potential of interpretable machine learning, in particular PIP-Net, for
-automated diagnosis support on real-world medical imaging data. PIP-Net learns
-human-understandable prototypical image parts and we evaluate its accuracy and
-interpretability for fracture detection and skin cancer diagnosis. We find that
-PIP-Net's decision making process is in line with medical classification
-standards, while only provided with image-level class labels. Because of
-PIP-Net's unsupervised pretraining of prototypes, data quality problems such as
-undesired text in an X-ray or labelling errors can be easily identified.
-Additionally, we are the first to show that humans can manually correct the
-reasoning of PIP-Net by directly disabling undesired prototypes. We conclude
-that part-prototype models are promising for medical applications due to their
-interpretability and potential for advanced model debugging.
-
-摘要：部分原型模型是可解釋設計的影像分類器，也是黑箱 AI 的一個有前途的替代方案。這篇論文探討了解釋性機器學習，特別是 PIP-Net，在真實世界醫學影像資料上自動化診斷支援的適用性和潛力。PIP-Net 學習人類可理解的原型影像部分，我們評估其在骨折檢測和皮膚癌診斷方面的準確性和可解釋性。我們發現 PIP-Net 的決策制定過程符合醫學分類標準，同時僅提供影像層級類別標籤。由於 PIP-Net 對原型的無監督預訓練，因此可以輕鬆識別資料品質問題，例如 X 光中的不需要文字或標籤錯誤。此外，我們首次展示人類可以透過直接停用不需要的原型來手動修正 PIP-Net 的推理。我們得出結論，部分原型模型由於其可解釋性和進階模型除錯的潛力，因此有望應用於醫療。
 

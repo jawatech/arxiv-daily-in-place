@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering**|Klaus-Rudolf Kladny et.al.|[2410.01660v1](http://arxiv.org/abs/2410.01660v1)|null|
+|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v1](http://arxiv.org/abs/2410.01506v1)|null|
+|**2024-10-02**|**Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**|Yu Zhang et.al.|[2410.01401v1](http://arxiv.org/abs/2410.01401v1)|[link](https://github.com/EchoDreamer/Q-KGR)|
+|**2024-10-02**|**Unveiling Language Skills under Circuits**|Hang Chen et.al.|[2410.01334v1](http://arxiv.org/abs/2410.01334v1)|null|
+|**2024-10-01**|**From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems**|Ali Mohammadjafari et.al.|[2410.01066v1](http://arxiv.org/abs/2410.01066v1)|null|
 |**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053v1](http://arxiv.org/abs/2409.20053v1)|null|
 |**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|[link](https://github.com/WangXFng/ELMRec)|
 |**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|[link](https://github.com/wuyike2000/CoTKR)|
@@ -97,13 +102,122 @@
 |**2024-08-26**|**Process Trace Querying using Knowledge Graphs and Notation3**|William Van Woensel et.al.|[2409.04452v1](http://arxiv.org/abs/2409.04452v1)|null|
 |**2024-08-26**|**PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method**|Runtao Ren et.al.|[2409.00092v1](http://arxiv.org/abs/2409.00092v1)|null|
 |**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185v1](http://arxiv.org/abs/2408.14185v1)|null|
-|**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v1](http://arxiv.org/abs/2408.14134v1)|null|
-|**2024-08-26**|**Towards Graph Prompt Learning: A Survey and Beyond**|Qingqing Long et.al.|[2408.14520v3](http://arxiv.org/abs/2408.14520v3)|null|
-|**2024-08-25**|**CodeGraph: Enhancing Graph Reasoning of LLMs with Code**|Qiaolong Cai et.al.|[2408.13863v1](http://arxiv.org/abs/2408.13863v1)|null|
-|**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512v1](http://arxiv.org/abs/2408.14512v1)|null|
-|**2024-08-24**|**Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models**|Sakhinana Sagar Srinivas et.al.|[2408.13661v1](http://arxiv.org/abs/2408.13661v1)|null|
 
 #### Abstracts
+##### **Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering**
+2410.01660v1 by Klaus-Rudolf Kladny, Bernhard Schölkopf, Michael Muehlebach
+
+Generative models lack rigorous statistical guarantees for their outputs and
+are therefore unreliable in safety-critical applications. In this work, we
+propose Sequential Conformal Prediction for Generative Models (SCOPE-Gen), a
+sequential conformal prediction method producing prediction sets that satisfy a
+rigorous statistical guarantee called conformal admissibility control. This
+guarantee states that with high probability, the prediction sets contain at
+least one admissible (or valid) example. To this end, our method first samples
+an initial set of i.i.d. examples from a black box generative model. Then, this
+set is iteratively pruned via so-called greedy filters. As a consequence of the
+iterative generation procedure, admissibility of the final prediction set
+factorizes as a Markov chain. This factorization is crucial, because it allows
+to control each factor separately, using conformal prediction. In comparison to
+prior work, our method demonstrates a large reduction in the number of
+admissibility evaluations during calibration. This reduction is important in
+safety-critical applications, where these evaluations must be conducted
+manually by domain experts and are therefore costly and time consuming. We
+highlight the advantages of our method in terms of admissibility evaluations
+and cardinality of the prediction sets through experiments in natural language
+generation and molecular graph extension tasks.
+
+摘要：生成模型缺乏對其輸出進行嚴格的統計保證，因此在安全關鍵應用中不可靠。在這項工作中，我們提出了生成模型的順序共形預測 (SCOPE-Gen)，這是一種順序共形預測方法，產生滿足稱為共形可採性控制的嚴格統計保證的預測集。此保證表示，預測集在高機率下至少包含一個可採 (或有效) 的範例。為此，我們的模型首先從黑盒生成模型中抽取一組 i.i.d. 範例。然後，透過所謂的貪婪過濾器反覆修剪此組。作為反覆生成程序的結果，最終預測集的可採性分解為馬可夫鏈。此分解至關重要，因為它允許使用共形預測分別控制每個因子。與先前的工作相比，我們的模型顯示在校準過程中可大幅減少可採性評估的數量。此減少在安全關鍵應用中很重要，在這些應用中，這些評估必須由領域專家手動進行，因此成本高昂且耗時。我們透過自然語言生成和分子圖形延伸任務中的實驗，突顯我們的模型在可採性評估和預測集基數方面的優點。
+
+##### **LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**
+2410.01506v1 by Dexuan Ding, Lei Wang, Liyun Zhu, Tom Gedeon, Piotr Koniusz
+
+In computer vision tasks, features often come from diverse representations,
+domains, and modalities, such as text, images, and videos. Effectively fusing
+these features is essential for robust performance, especially with the
+availability of powerful pre-trained models like vision-language models.
+However, common fusion methods, such as concatenation, element-wise operations,
+and non-linear techniques, often fail to capture structural relationships, deep
+feature interactions, and suffer from inefficiency or misalignment of features
+across domains. In this paper, we shift from high-dimensional feature space to
+a lower-dimensional, interpretable graph space by constructing similarity
+graphs that encode feature relationships at different levels, e.g., clip,
+frame, patch, token, etc. To capture deeper interactions, we use graph power
+expansions and introduce a learnable graph fusion operator to combine these
+graph powers for more effective fusion. Our approach is relationship-centric,
+operates in a homogeneous space, and is mathematically principled, resembling
+element-wise similarity score aggregation via multilinear polynomials. We
+demonstrate the effectiveness of our graph-based fusion method on video anomaly
+detection, showing strong performance across multi-representational,
+multi-modal, and multi-domain feature fusion tasks.
+
+摘要：在计算机视觉任务中，特征通常来自不同的表示、领域和模态，例如文本、图像和视频。有效融合这些特征对于稳健的性能至关重要，尤其是在具有强大的预训练模型（如视觉语言模型）的情况下。然而，常见的融合方法，如串联、逐元素运算和非线性技术，通常无法捕捉结构关系、深度特征交互，并且在跨域特征上效率低下或未对齐。在本文中，我们从高维特征空间转移到低维的可解释图空间，通过构建相似性图来对不同级别的特征关系进行编码，例如剪辑、帧、块、标记等。为了捕捉更深层次的交互，我们使用图幂展开并引入一个可学习的图融合算子来组合这些图幂以实现更有效的融合。我们的方法以关系为中心，在同构空间中操作，并且具有数学原理，类似于通过多线性多项式进行逐元素相似性分数聚合。我们在视频异常检测中展示了基于图的融合方法的有效性，在多表示、多模态和多域特征融合任务中显示出强大的性能。
+
+##### **Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**
+2410.01401v1 by Yu Zhang, Kehai Chen, Xuefeng Bai, zhao kang, Quanjiang Guo, Min Zhang
+
+Knowledge graph question answering (KGQA) involves answering natural language
+questions by leveraging structured information stored in a knowledge graph.
+Typically, KGQA initially retrieve a targeted subgraph from a large-scale
+knowledge graph, which serves as the basis for reasoning models to address
+queries. However, the retrieved subgraph inevitably brings distraction
+information for knowledge utilization, impeding the model's ability to perform
+accurate reasoning. To address this issue, we propose a Question-guided
+Knowledge Graph Re-scoring method (Q-KGR) to eliminate noisy pathways for the
+input question, thereby focusing specifically on pertinent factual knowledge.
+Moreover, we introduce Knowformer, a parameter-efficient method for injecting
+the re-scored knowledge graph into large language models to enhance their
+ability to perform factual reasoning. Extensive experiments on multiple KGQA
+benchmarks demonstrate the superiority of our method over existing systems.
+
+摘要：知識圖表問答 (KGQA) 涉及利用儲存在知識圖表中的結構化資訊來回答自然語言問題。通常，KGQA 最初會從大規模知識圖表中擷取目標子圖，作為推理模型處理查詢的基礎。然而，擷取的子圖難免會帶來雜訊資訊，阻礙模型執行精確推理的能力。為了解決這個問題，我們提出了一個問題導向知識圖表重新評分方法 (Q-KGR)，以消除輸入問題的雜訊路徑，從而專注於相關的事實知識。此外，我們引入了 Knowformer，這是一種參數效率高的方法，用於將重新評分的知識圖表注入大型語言模型，以增強它們執行事實推理的能力。在多個 KGQA 基準上的廣泛實驗證明了我們的方法優於現有系統。
+
+##### **Unveiling Language Skills under Circuits**
+2410.01334v1 by Hang Chen, Jiaying Zhu, Xinyu Yang, Wenya Wang
+
+The exploration of language skills in language models (LMs) has always been
+one of the central goals in mechanistic interpretability. However, existing
+circuit analyses often fall short in representing the full functional scope of
+these models, primarily due to the exclusion of Feed-Forward layers.
+Additionally, isolating the effect of a single language skill from a text,
+which inherently involves multiple entangled skills, poses a significant
+challenge. To address these gaps, we introduce a novel concept, Memory Circuit,
+a minimum unit that fully and independently manipulates the memory-reading
+functionality of a language model, and disentangle the transformer model
+precisely into a circuit graph which is an ensemble of paths connecting
+different memory circuits. Based on this disentanglement, we identify salient
+circuit paths, named as skill paths, responsible for three crucial language
+skills, i.e., the Previous Token Skill, Induction Skill and In-Context Learning
+(ICL) Skill, leveraging causal effect estimation through interventions and
+counterfactuals. Our experiments on various datasets confirm the correspondence
+between our identified skill paths and language skills, and validate three
+longstanding hypotheses: 1) Language skills are identifiable through circuit
+dissection; 2) Simple language skills reside in shallow layers, whereas complex
+language skills are found in deeper layers; 3) Complex language skills are
+formed on top of simpler language skills. Our codes are available at:
+https://github.com/Zodiark-ch/Language-Skill-of-LLMs.
+
+摘要：<paragraph>在語言模型 (LM) 中探索語言技能一直是機械可解釋性的核心目標之一。然而，現有的電路分析往往無法表示這些模型的全部功能範圍，主要是由於排除了前饋層。此外，從文本中分離出單一語言技能的影響（這本質上涉及多種糾纏的技能）構成了一項重大挑戰。為了解決這些差距，我們引入了 Memory Circuit，這是一個新穎的概念，它是一個最小單元，可以完整且獨立地操作語言模型的記憶體讀取功能，並將 Transformer 模型精確地解開成一個電路圖，它是一個連接不同記憶體電路的路徑集合。基於這種解開，我們識別出顯著的電路路徑，稱為技能路徑，它負責三項關鍵的語言技能，即前一個符號技能、歸納技能和語境學習 (ICL) 技能，利用因果效應估計通過干預和反事實。我們在各種資料集上的實驗證實了我們識別出的技能路徑與語言技能之間的對應關係，並驗證了三個長期的假設：1) 語言技能可以透過電路解剖來識別；2) 簡單的語言技能存在於淺層中，而複雜的語言技能則存在於深層中；3) 複雜的語言技能建立在更簡單的語言技能之上。我們的程式碼可在 https://github.com/Zodiark-ch/Language-Skill-of-LLMs 取得。</paragraph>
+
+##### **From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems**
+2410.01066v1 by Ali Mohammadjafari, Anthony S. Maida, Raju Gottumukkala
+
+Since the onset of LLMs, translating natural language queries to structured
+SQL commands is assuming increasing. Unlike the previous reviews, this survey
+provides a comprehensive study of the evolution of LLM-based text-to-SQL
+systems, from early rule-based models to advanced LLM approaches, and how LLMs
+impacted this field. We discuss benchmarks, evaluation methods and evaluation
+metrics. Also, we uniquely study the role of integration of knowledge graphs
+for better contextual accuracy and schema linking in these systems. The current
+techniques fall into two categories: in-context learning of corpus and
+fine-tuning, which then leads to approaches such as zero-shot, few-shot
+learning from the end, and data augmentation. Finally, we highlight key
+challenges such as computational efficiency, model robustness, and data privacy
+with perspectives toward their development and improvements in potential areas
+for future of LLM-based text-to-SQL system.
+
+摘要：自 LLM 出現以來，將自然語言查詢轉換為結構化 SQL 指令正變得越來越普遍。與先前的評論不同，本調查對基於 LLM 的文字轉 SQL 系統的演變進行了全面的研究，從早期的基於規則的模型到先進的 LLM 方法，以及 LLM 如何影響這個領域。我們討論了基準、評估方法和評估指標。此外，我們還獨特地研究了知識圖譜整合在這些系統中發揮的作用，以提高語境準確性和模式連結。目前的技術分為兩類：語料庫的語境學習和微調，這進而導致了零次學習、少次學習等方法，最後是資料擴充。最後，我們重點介紹了計算效率、模型穩健性和資料隱私等關鍵挑戰，並展望了它們在未來基於 LLM 的文字轉 SQL 系統的發展和改進的潛在領域。
+
 ##### **GUNDAM: Aligning Large Language Models with Graph Understanding**
 2409.20053v1 by Sheng Ouyang, Yulan Hu, Ge Chen, Yong Liu
 
@@ -2390,139 +2504,4 @@ explainable path selections, offering a novel and efficient solution for
 complex traffic environments.
 
 摘要：在複雜交通環境中進行實時動態路徑規劃會面臨挑戰，例如交通流量變化和信號等待時間。傳統的靜態路由演算法，例如 Dijkstra 和 A*，會計算最短路徑，但通常在動態條件下會失敗。最近的強化學習 (RL) 方法提供了改進，但傾向於關注局部最優，冒著陷入死胡同或邊界問題的風險。本文提出了一種基於因果推論的新穎方法，用於實時動態路徑規劃，平衡全局和局部最優性。我們首先使用靜態 Dijkstra 演算法計算全局最優基線路徑。然後，一個分布式控制策略沿著這條路徑引導車輛。在交叉路口，DynamicRouteGPT 針對局部路徑選擇執行實時決策，考量實時交通、駕駛偏好和意外事件。DynamicRouteGPT 整合了馬可夫鏈、貝氏推論和 Llama3 8B 等大規模預先訓練的語言模型，以提供有效的路徑規劃解決方案。它會動態調整到交通狀況和駕駛偏好，並且不需要預先訓練，在道路網路上提供廣泛的適用性。一個關鍵創新是建立反事實推理的因果圖，以最佳化路徑決策。實驗結果顯示，我們的模型在多輛車輛的實時動態路徑規劃中達到最先進的效能，同時提供可解釋的路徑選擇，為複雜的交通環境提供一種新穎且有效的解決方案。
-
-##### **Exploring the Potential of Large Language Models for Heterophilic Graphs**
-2408.14134v1 by Yuxia Wu, Shujie Li, Yuan Fang, Chuan Shi
-
-Graph Neural Networks (GNNs) are essential for various graph-based learning
-tasks. Notably, classical GNN architectures operate under the assumption of
-homophily, which posits that connected nodes are likely to share similar
-features. However, this assumption limits the effectiveness of GNNs in handling
-heterophilic graphs where connected nodes often exhibit dissimilar
-characteristics. Existing approaches for homophily graphs such as non-local
-neighbor extension and architectural refinement overlook the rich textual data
-associated with nodes, which could unlock deeper insights into these
-heterophilic contexts. With advancements in Large Language Models (LLMs), there
-is significant promise to enhance GNNs by leveraging the extensive open-world
-knowledge within LLMs to more effectively interpret and utilize textual data
-for characterizing heterophilic graphs. In this work, we explore the potential
-of LLMs for modeling heterophilic graphs and propose a novel two-stage
-framework: LLM-enhanced edge discriminator and LLM-guided edge reweighting.
-Specifically, in the first stage, we fine-tune the LLM to better identify
-homophilic and heterophilic edges based on the textual information of their
-nodes. In the second stage, we adaptively manage message propagation in GNNs
-for different edge types based on node features, structures, and heterophilic
-or homophilic characteristics. To cope with the computational demands when
-deploying LLMs in practical scenarios, we further explore model distillation
-techniques to fine-tune smaller, more efficient models that maintain
-competitive performance. Extensive experiments validate the effectiveness of
-our framework, demonstrating the feasibility of using LLMs to enhance GNNs for
-node classification on heterophilic graphs.
-
-摘要：圖神經網路 (GNN) 對於各種基於圖形的學習任務至關重要。值得注意的是，傳統的 GNN 架構在同質性的假設下運作，該假設認為連接的節點可能共享類似的特徵。然而，此假設限制了 GNN 在處理異質性圖形中的效能，其中連接的節點通常表現出不同的特徵。現有的同質性圖形方法（例如非局部鄰域延伸和架構改進）忽略了與節點相關的豐富文本資料，這可以深入了解這些異質性脈絡。隨著大型語言模型 (LLM) 的進步，透過利用 LLM 中廣泛的開放世界知識來增強 GNN，對於更有效地詮釋和利用文本資料來表徵異質性圖形有很大的希望。在這項工作中，我們探討了 LLM 在異質性圖形建模中的潛力，並提出了一個新穎的兩階段架構：LLM 增強邊緣判別器和 LLM 引導邊緣重新加權。具體來說，在第一階段，我們微調 LLM 以根據其節點的文本資訊，更好地識別同質性和異質性邊緣。在第二階段，我們根據節點特徵、結構和異質性或同質性特徵，自適應地管理 GNN 中不同邊緣類型的訊息傳遞。為了應對在實際場景中部署 LLM 時的計算需求，我們進一步探討模型萃取技術，以微調較小、更有效率的模型，以維持競爭力。廣泛的實驗驗證了我們架構的有效性，證明了使用 LLM 來增強 GNN 以進行異質性圖形上的節點分類的可行性。
-
-##### **Towards Graph Prompt Learning: A Survey and Beyond**
-2408.14520v3 by Qingqing Long, Yuchen Yan, Peiyan Zhang, Chen Fang, Wentao Cui, Zhiyuan Ning, Meng Xiao, Ning Cao, Xiao Luo, Lingjun Xu, Shiyue Jiang, Zheng Fang, Chong Chen, Xian-Sheng Hua, Yuanchun Zhou
-
-Large-scale "pre-train and prompt learning" paradigms have demonstrated
-remarkable adaptability, enabling broad applications across diverse domains
-such as question answering, image recognition, and multimodal retrieval. This
-approach fully leverages the potential of large-scale pre-trained models,
-reducing downstream data requirements and computational costs while enhancing
-model applicability across various tasks. Graphs, as versatile data structures
-that capture relationships between entities, play pivotal roles in fields such
-as social network analysis, recommender systems, and biological graphs. Despite
-the success of pre-train and prompt learning paradigms in Natural Language
-Processing (NLP) and Computer Vision (CV), their application in graph domains
-remains nascent. In graph-structured data, not only do the node and edge
-features often have disparate distributions, but the topological structures
-also differ significantly. This diversity in graph data can lead to
-incompatible patterns or gaps between pre-training and fine-tuning on
-downstream graphs. We aim to bridge this gap by summarizing methods for
-alleviating these disparities. This includes exploring prompt design
-methodologies, comparing related techniques, assessing application scenarios
-and datasets, and identifying unresolved problems and challenges. This survey
-categorizes over 100 relevant works in this field, summarizing general design
-principles and the latest applications, including text-attributed graphs,
-molecules, proteins, and recommendation systems. Through this extensive review,
-we provide a foundational understanding of graph prompt learning, aiming to
-impact not only the graph mining community but also the broader Artificial
-General Intelligence (AGI) community.
-
-摘要：<paragraph>大規模「預訓練與提示學習」範例已展現出卓越的適應性，能廣泛應用於各種領域，例如問答、影像辨識和多模態檢索。此方法充分利用了大型預訓練模型的潛力，降低了下游資料需求和運算成本，同時提升了模型在各種任務中的適用性。圖形作為能捕捉實體之間關係的多功能資料結構，在社群網路分析、推薦系統和生物圖形等領域扮演著關鍵角色。儘管預訓練與提示學習範例在自然語言處理 (NLP) 和電腦視覺 (CV) 中獲得成功，它們在圖形領域的應用仍屬起步階段。在圖形結構資料中，節點和邊緣特徵不僅經常有不同的分佈，其拓撲結構也大不相同。圖形資料的這種多樣性可能導致預訓練和微調之間出現不相容的模式或差距。我們旨在透過總結減輕這些差異的方法來彌補此差距。這包括探索提示設計方法、比較相關技術、評估應用場景和資料集，以及找出未解決的問題和挑戰。本調查分類了此領域中 100 多項相關著作，總結了一般設計原則和最新應用，包括文字屬性圖形、分子、蛋白質和推薦系統。透過這項廣泛的回顧，我們提供了圖形提示學習的基本理解，旨在不僅影響圖形挖掘社群，也影響更廣泛的人工通用智慧 (AGI) 社群。</paragraph>
-
-##### **CodeGraph: Enhancing Graph Reasoning of LLMs with Code**
-2408.13863v1 by Qiaolong Cai, Zhaowei Wang, Shizhe Diao, James Kwok, Yangqiu Song
-
-With the increasing popularity of large language models (LLMs), reasoning on
-basic graph algorithm problems is an essential intermediate step in assessing
-their abilities to process and infer complex graph reasoning tasks. Existing
-methods usually convert graph-structured data to textual descriptions and then
-use LLMs for reasoning and computation. However, LLMs often produce computation
-errors on arithmetic parts in basic graph algorithm problems, such as counting
-number of edges. In addition, they struggle to control or understand the output
-of the reasoning process, raising concerns about whether LLMs are simply
-guessing. In this paper, we introduce CodeGraph, a method that encodes graph
-problem solutions as code. The methods solve new graph problems by learning
-from exemplars, generating programs, and executing them via a program
-interpreter. Using the few-shot setting, we evaluate CodeGraph with the base
-LLM being GPT-3.5 Turbo, Llama3-70B Instruct, Mixtral-8x22B Instruct, and
-Mixtral-8x7B Instruct. Experimental results on six tasks with six graph
-encoding methods in the GraphQA dataset demonstrate that CodeGraph can boost
-performance on graph reasoning tasks inside LLMs by 1.3% to 58.6%, depending on
-the task. Compared to the existing methods, CodeGraph demonstrates strong
-performance on arithmetic problems in graph tasks and offers a more
-controllable and interpretable approach to the reasoning process.
-
-摘要：隨著大型語言模型 (LLM) 的日漸普及，對基本圖形演算法問題進行推理是評估它們處理和推論複雜圖形推理任務的能力中一個重要的中間步驟。現有的方法通常會將圖形結構化的資料轉換成文字描述，然後使用 LLM 進行推理和運算。然而，LLM 通常會在基本圖形演算法問題中，例如計算邊緣數量，對算術部分產生運算錯誤。此外，它們難以控制或理解推理過程的輸出，這引發了 LLM 是否只是在猜測的疑慮。在本文中，我們介紹了 CodeGraph，這是一種將圖形問題解決方案編碼為程式碼的方法。這些方法透過學習範例、產生程式，並透過程式碼直譯器執行它們來解決新的圖形問題。使用少次嘗試設定，我們使用基礎 LLM 為 GPT-3.5 Turbo、Llama3-70B Instruct、Mixtral-8x22B Instruct 和 Mixtral-8x7B Instruct 來評估 CodeGraph。在 GraphQA 資料集中使用六種圖形編碼方法對六項任務進行的實驗結果表明，CodeGraph 可以將 LLM 中的圖形推理任務的效能提升 1.3% 到 58.6%，具體取決於任務。與現有方法相比，CodeGraph 在圖形任務中的算術問題上表現出強勁的效能，並為推理過程提供更具可控性和可解釋性的方法。
-
-##### **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**
-2408.14512v1 by Duo Wang, Yuan Zuo, Fengzhi Li, Junjie Wu
-
-Zero-shot graph machine learning, especially with graph neural networks
-(GNNs), has garnered significant interest due to the challenge of scarce
-labeled data. While methods like self-supervised learning and graph prompt
-learning have been extensively explored, they often rely on fine-tuning with
-task-specific labels, limiting their effectiveness in zero-shot scenarios.
-Inspired by the zero-shot capabilities of instruction-fine-tuned large language
-models (LLMs), we introduce a novel framework named Token Embedding-Aligned
-Graph Language Model (TEA-GLM) that leverages LLMs as cross-dataset and
-cross-task zero-shot learners for graph machine learning. Concretely, we
-pretrain a GNN, aligning its representations with token embeddings of an LLM.
-We then train a linear projector that transforms the GNN's representations into
-a fixed number of graph token embeddings without tuning the LLM. A unified
-instruction is designed for various graph tasks at different levels, such as
-node classification (node-level) and link prediction (edge-level). These design
-choices collectively enhance our method's effectiveness in zero-shot learning,
-setting it apart from existing methods. Experiments show that our graph token
-embeddings help the LLM predictor achieve state-of-the-art performance on
-unseen datasets and tasks compared to other methods using LLMs as predictors.
-
-摘要：零範例圖形機器學習，特別是圖形神經網路 (GNN)，由於稀有標籤資料的挑戰而備受關注。雖然自監督式學習和圖形提示學習等方法已被廣泛探索，但它們通常依賴於任務特定標籤的微調，這限制了它們在零範例場景中的有效性。受到指令微調大型語言模型 (LLM) 的零範例功能的啟發，我們引入了一個名為 Token Embedding-Aligned Graph Language Model (TEA-GLM) 的新框架，它利用 LLM 作為跨資料集和跨任務的零範例學習器，用於圖形機器學習。具體來說，我們預訓練一個 GNN，將其表示與 LLM 的 token embedding 對齊。然後，我們訓練一個線性投影機，將 GNN 的表示轉換為固定數量的圖形 token embedding，而無需調整 LLM。統一的指令是為不同層級的各種圖形任務設計的，例如節點分類（節點層級）和連結預測（邊緣層級）。這些設計選擇共同增強了我們的方法在零範例學習中的有效性，使其有別於現有方法。實驗表明，與使用 LLM 作為預測器的其他方法相比，我們的圖形 token embedding 幫助 LLM 預測器在未見過的資料集和任務上實現了最先進的效能。
-
-##### **Hierarchical Network Fusion for Multi-Modal Electron Micrograph Representation Learning with Foundational Large Language Models**
-2408.13661v1 by Sakhinana Sagar Srinivas, Geethan Sannidhi, Venkataramana Runkana
-
-Characterizing materials with electron micrographs is a crucial task in
-fields such as semiconductors and quantum materials. The complex hierarchical
-structure of micrographs often poses challenges for traditional classification
-methods. In this study, we propose an innovative backbone architecture for
-analyzing electron micrographs. We create multi-modal representations of the
-micrographs by tokenizing them into patch sequences and, additionally,
-representing them as vision graphs, commonly referred to as patch attributed
-graphs. We introduce the Hierarchical Network Fusion (HNF), a multi-layered
-network structure architecture that facilitates information exchange between
-the multi-modal representations and knowledge integration across different
-patch resolutions. Furthermore, we leverage large language models (LLMs) to
-generate detailed technical descriptions of nanomaterials as auxiliary
-information to assist in the downstream task. We utilize a cross-modal
-attention mechanism for knowledge fusion across cross-domain
-representations(both image-based and linguistic insights) to predict the
-nanomaterial category. This multi-faceted approach promises a more
-comprehensive and accurate representation and classification of micrographs for
-nanomaterial identification. Our framework outperforms traditional methods,
-overcoming challenges posed by distributional shifts, and facilitating
-high-throughput screening.
-
-摘要：利用電子顯微照片來表徵材料，在半導體和量子材料等領域中是一項至關重要的任務。顯微照片複雜的分層結構通常會對傳統分類方法帶來挑戰。在這項研究中，我們提出了一種創新的主幹架構，用於分析電子顯微照片。我們透過將顯微照片代換成區塊序列來建立其多模態表示，此外，我們還將其表示為視覺圖形，通常稱為區塊屬性圖形。我們引入了分層網路融合 (HNF)，這是一種多層網路結構架構，有助於多模態表示之間的資訊交換，以及不同區塊解析度之間的知識整合。此外，我們利用大型語言模型 (LLM) 來產生奈米材料的詳細技術說明，作為輔助資訊，以協助下游任務。我們利用跨模態注意力機制，在跨領域表示（基於影像和語言洞察力）中進行知識融合，以預測奈米材料類別。這種多方面的做法有望為奈米材料識別提供更全面且準確的表示和分類。我們的架構優於傳統方法，克服了分佈轉移帶來的挑戰，並促進了高通量篩選。
 

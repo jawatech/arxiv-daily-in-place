@@ -5,30 +5,30 @@
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566v1](http://arxiv.org/abs/2409.20566v1)|null|
 |**2024-09-30**|**Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation of LLM-Generated Medical Explanatory Arguments**|Iker De la Iglesia et.al.|[2409.20565v1](http://arxiv.org/abs/2409.20565v1)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560v1](http://arxiv.org/abs/2409.20560v1)|null|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553v1](http://arxiv.org/abs/2409.20553v1)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553v1](http://arxiv.org/abs/2409.20553v1)|[link](https://github.com/lilv98/maia2-submission)|
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550v1](http://arxiv.org/abs/2409.20550v1)|null|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548v1](http://arxiv.org/abs/2409.20548v1)|null|
 |**2024-09-30**|**Word Sense Disambiguation in Native Spanish: A Comprehensive Lexical Evaluation Resource**|Pablo Ortega et.al.|[2409.20524v1](http://arxiv.org/abs/2409.20524v1)|null|
-|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517v1](http://arxiv.org/abs/2409.20517v1)|null|
-|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|null|
+|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517v1](http://arxiv.org/abs/2409.20517v1)|[link](https://github.com/Francobaldi/SMLE_AAAI2025)|
+|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|[link](https://github.com/mooselab/suppmaterial-CfgTransAnomalyDetector)|
 |**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502v1](http://arxiv.org/abs/2409.20502v1)|null|
 |**2024-09-30**|**Enhancing Romanian Offensive Language Detection through Knowledge Distillation, Multi-Task Learning, and Data Augmentation**|Vlad-Cristian Matei et.al.|[2409.20498v1](http://arxiv.org/abs/2409.20498v1)|null|
 |**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483v1](http://arxiv.org/abs/2409.20483v1)|null|
 |**2024-09-30**|**A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media**|Dung Ha Nguyen et.al.|[2409.20467v1](http://arxiv.org/abs/2409.20467v1)|null|
 |**2024-09-30**|**Language Resources in Spanish for Automatic Text Simplification across Domains**|Antonio Moreno-Sandoval et.al.|[2409.20466v1](http://arxiv.org/abs/2409.20466v1)|null|
-|**2024-09-30**|**Linear Projections of Teacher Embeddings for Few-Class Distillation**|Noel Loo et.al.|[2409.20449v1](http://arxiv.org/abs/2409.20449v1)|null|
+|**2024-09-30**|**Linear Projections of Teacher Embeddings for Few-Class Distillation**|Noel Loo et.al.|[2409.20449v2](http://arxiv.org/abs/2409.20449v2)|null|
 |**2024-09-30**|**POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**|Eugenio Lomurno et.al.|[2409.20447v1](http://arxiv.org/abs/2409.20447v1)|null|
 |**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441v2](http://arxiv.org/abs/2409.20441v2)|null|
 |**2024-09-30**|**QAEncoder: Towards Aligned Representation Learning in Question Answering System**|Zhengren Wang et.al.|[2409.20434v1](http://arxiv.org/abs/2409.20434v1)|null|
 |**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429v1](http://arxiv.org/abs/2409.20429v1)|null|
 |**2024-09-30**|**Sufficient and Necessary Explanations (and What Lies in Between)**|Beepul Bharti et.al.|[2409.20427v1](http://arxiv.org/abs/2409.20427v1)|null|
 |**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424v1](http://arxiv.org/abs/2409.20424v1)|null|
-|**2024-09-30**|**Stream-level flow matching from a Bayesian decision theoretic perspective**|Ganchao Wei et.al.|[2409.20423v1](http://arxiv.org/abs/2409.20423v1)|null|
-|**2024-09-30**|**Conformal Prediction for Dose-Response Models with Continuous Treatments**|Jarne Verhaeghe et.al.|[2409.20412v1](http://arxiv.org/abs/2409.20412v1)|null|
+|**2024-09-30**|**Stream-level flow matching from a Bayesian decision theoretic perspective**|Ganchao Wei et.al.|[2409.20423v2](http://arxiv.org/abs/2409.20423v2)|[link](https://github.com/weigcdsb/GP-CFM)|
+|**2024-09-30**|**Conformal Prediction for Dose-Response Models with Continuous Treatments**|Jarne Verhaeghe et.al.|[2409.20412v1](http://arxiv.org/abs/2409.20412v1)|[link](https://github.com/predict-idlab/dose-response-conformal-prediction)|
 |**2024-09-30**|**Anti-stereotypical Predictive Text Suggestions Do Not Reliably Yield Anti-stereotypical Writing**|Connor Baumler et.al.|[2409.20390v1](http://arxiv.org/abs/2409.20390v1)|null|
 |**2024-09-30**|**Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation**|Shan Chen et.al.|[2409.20385v1](http://arxiv.org/abs/2409.20385v1)|null|
 |**2024-09-30**|**Word-wise intonation model for cross-language TTS systems**|Tomilov A. A. et.al.|[2409.20374v1](http://arxiv.org/abs/2409.20374v1)|null|
-|**2024-09-30**|**Frequency Adaptive Normalization For Non-stationary Time Series Forecasting**|Weiwei Ye et.al.|[2409.20371v1](http://arxiv.org/abs/2409.20371v1)|null|
+|**2024-09-30**|**Frequency Adaptive Normalization For Non-stationary Time Series Forecasting**|Weiwei Ye et.al.|[2409.20371v1](http://arxiv.org/abs/2409.20371v1)|[link](https://github.com/wayne155/FAN)|
 |**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370v1](http://arxiv.org/abs/2409.20370v1)|null|
 |**2024-09-30**|**Disentangling Singlish Discourse Particles with Task-Driven Representation**|Linus Tze En Foo et.al.|[2409.20366v1](http://arxiv.org/abs/2409.20366v1)|null|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364v1](http://arxiv.org/abs/2409.20364v1)|null|
@@ -36,18 +36,18 @@
 |**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340v2](http://arxiv.org/abs/2409.20340v2)|null|
 |**2024-09-30**|**Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding**|Takafumi Moriya et.al.|[2409.20313v1](http://arxiv.org/abs/2409.20313v1)|null|
 |**2024-09-30**|**A Looming Replication Crisis in Evaluating Behavior in Language Models? Evidence and Solutions**|Laurène Vaugrante et.al.|[2409.20303v1](http://arxiv.org/abs/2409.20303v1)|null|
-|**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296v1](http://arxiv.org/abs/2409.20296v1)|null|
+|**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296v1](http://arxiv.org/abs/2409.20296v1)|[link](https://github.com/namkoong-lab/PersonalLLM)|
 |**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|[link](https://github.com/cshaitao/lexeval)|
 |**2024-09-30**|**Computer-mediated therapies for stroke rehabilitation: a systematic review and meta-Analysis**|Stanley Mugisha. Mirko Job. Matteo Zoppi et.al.|[2409.20260v1](http://arxiv.org/abs/2409.20260v1)|null|
 |**2024-09-30**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252v2](http://arxiv.org/abs/2409.20252v2)|null|
 |**2024-09-30**|**Resource Allocation for Stable LLM Training in Mobile Edge Computing**|Chang Liu et.al.|[2409.20247v1](http://arxiv.org/abs/2409.20247v1)|null|
 |**2024-09-30**|**Analysing Zero-Shot Readability-Controlled Sentence Simplification**|Abdullah Barayan et.al.|[2409.20246v1](http://arxiv.org/abs/2409.20246v1)|null|
 |**2024-09-30**|**PsyGUARD: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling**|Huachuan Qiu et.al.|[2409.20243v1](http://arxiv.org/abs/2409.20243v1)|[link](https://github.com/qiuhuachuan/psyguard)|
-|**2024-09-30**|**Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**|David Castillo-Bolado et.al.|[2409.20222v1](http://arxiv.org/abs/2409.20222v1)|null|
+|**2024-09-30**|**Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**|David Castillo-Bolado et.al.|[2409.20222v1](http://arxiv.org/abs/2409.20222v1)|[link](https://github.com/GoodAI/goodai-ltm-benchmark)|
 |**2024-09-30**|**Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach**|Aditi Dutta et.al.|[2409.20204v1](http://arxiv.org/abs/2409.20204v1)|null|
 |**2024-09-30**|**AfriHuBERT: A self-supervised speech representation model for African languages**|Jesujoba O. Alabi et.al.|[2409.20201v1](http://arxiv.org/abs/2409.20201v1)|null|
 |**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196v1](http://arxiv.org/abs/2409.20196v1)|[link](https://github.com/shaopengw/Awesome-Music-Generation)|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
 |**2024-09-30**|**Factory Operators' Perspectives on Cognitive Assistants for Knowledge Sharing: Challenges, Risks, and Impact on Work**|Samuel Kernan Freire et.al.|[2409.20192v1](http://arxiv.org/abs/2409.20192v1)|null|
 |**2024-09-30**|**TaskComplexity: A Dataset for Task Complexity Classification with In-Context Learning, FLAN-T5 and GPT-4o Benchmarks**|Areeg Fahad Rasheed et.al.|[2409.20189v1](http://arxiv.org/abs/2409.20189v1)|[link](https://github.com/AREEG94FAHAD/TaskComplexityEval-24)|
 |**2024-09-30**|**Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth**|Joseph D. Ramsey et.al.|[2409.20187v1](http://arxiv.org/abs/2409.20187v1)|null|
@@ -58,7 +58,7 @@
 |**2024-09-30**|**MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants**|Zeyu Zhang et.al.|[2409.20163v1](http://arxiv.org/abs/2409.20163v1)|[link](https://github.com/nuster1128/memsim)|
 |**2024-09-30**|**1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models**|Chanjun Park et.al.|[2409.20149v1](http://arxiv.org/abs/2409.20149v1)|null|
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147v1](http://arxiv.org/abs/2409.20147v1)|null|
-|**2024-09-30**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135v2](http://arxiv.org/abs/2409.20135v2)|null|
+|**2024-09-30**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135v3](http://arxiv.org/abs/2409.20135v3)|null|
 |**2024-09-30**|**ACE: Abstractions for Communicating Efficiently**|Jonathan D. Thomas et.al.|[2409.20120v1](http://arxiv.org/abs/2409.20120v1)|null|
 |**2024-09-30**|**Aggressive Post-Training Compression on Extremely Large Language Models**|Zining Zhang et.al.|[2409.20094v1](http://arxiv.org/abs/2409.20094v1)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089v1](http://arxiv.org/abs/2409.20089v1)|null|
@@ -73,7 +73,7 @@
 |**2024-09-30**|**Towards Robust Multimodal Sentiment Analysis with Incomplete Data**|Haoyu Zhang et.al.|[2409.20012v1](http://arxiv.org/abs/2409.20012v1)|null|
 |**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010v1](http://arxiv.org/abs/2409.20010v1)|null|
 |**2024-09-30**|**Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data**|Ke-Han Lu et.al.|[2409.20007v1](http://arxiv.org/abs/2409.20007v1)|null|
-|**2024-09-30**|**Model Selection with a Shapelet-based Distance Measure for Multi-source Transfer Learning in Time Series Classification**|Jiseok Lee et.al.|[2409.20005v1](http://arxiv.org/abs/2409.20005v1)|null|
+|**2024-09-30**|**Model Selection with a Shapelet-based Distance Measure for Multi-source Transfer Learning in Time Series Classification**|Jiseok Lee et.al.|[2409.20005v1](http://arxiv.org/abs/2409.20005v1)|[link](https://github.com/uchidalab/time-series-transferability)|
 |**2024-09-30**|**Do Influence Functions Work on Large Language Models?**|Zhe Li et.al.|[2409.19998v1](http://arxiv.org/abs/2409.19998v1)|null|
 |**2024-09-30**|**Mitigating Backdoor Threats to Large Language Models: Advancement and Challenges**|Qin Liu et.al.|[2409.19993v1](http://arxiv.org/abs/2409.19993v1)|null|
 |**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
@@ -81,13 +81,13 @@
 |**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|[link](https://github.com/WangXFng/ELMRec)|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977v1](http://arxiv.org/abs/2409.19977v1)|[link](https://github.com/changyi7231/nfe)|
 |**2024-09-30**|**Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2409.19961v1](http://arxiv.org/abs/2409.19961v1)|null|
-|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960v1](http://arxiv.org/abs/2409.19960v1)|null|
+|**2024-09-30**|**TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning**|Joshua Feinglass et.al.|[2409.19960v1](http://arxiv.org/abs/2409.19960v1)|[link](https://github.com/JoshuaFeinglass/TROPE)|
 |**2024-09-30**|**Attribute-Text Guided Forgetting Compensation for Lifelong Person Re-Identification**|Shiben Liu et.al.|[2409.19954v1](http://arxiv.org/abs/2409.19954v1)|null|
 |**2024-09-30**|**Law of the Weakest Link: Cross Capabilities of Large Language Models**|Ming Zhong et.al.|[2409.19951v1](http://arxiv.org/abs/2409.19951v1)|[link](https://github.com/facebookresearch/llm-cross-capabilities)|
 |**2024-09-30**|**Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner**|Chenyou Fan et.al.|[2409.19949v1](http://arxiv.org/abs/2409.19949v1)|null|
 |**2024-09-30**|**JaPOC: Japanese Post-OCR Correction Benchmark using Vouchers**|Masato Fujitake et.al.|[2409.19948v1](http://arxiv.org/abs/2409.19948v1)|null|
 |**2024-09-30**|**Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains**|Samia Belhadj et.al.|[2409.19940v1](http://arxiv.org/abs/2409.19940v1)|null|
-|**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925v1](http://arxiv.org/abs/2409.19925v1)|null|
+|**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925v1](http://arxiv.org/abs/2409.19925v1)|[link](https://github.com/liuqidong07/LLMEmb)|
 |**2024-09-30**|**On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability**|Kevin Wang et.al.|[2409.19924v2](http://arxiv.org/abs/2409.19924v2)|[link](https://github.com/vita-group/o1-planning)|
 |**2024-09-30**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming**|Ming Li et.al.|[2409.19916v1](http://arxiv.org/abs/2409.19916v1)|null|
 |**2024-09-30**|**Scaling Optimal LR Across Token Horizon**|Johan Bjorck et.al.|[2409.19913v1](http://arxiv.org/abs/2409.19913v1)|null|
@@ -96,7 +96,7 @@
 |**2024-09-30**|**RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models**|Shuhao Chen et.al.|[2409.19886v1](http://arxiv.org/abs/2409.19886v1)|[link](https://github.com/shuhao02/routerdc)|
 |**2024-09-30**|**SWIM: Short-Window CNN Integrated with Mamba for EEG-Based Auditory Spatial Attention Decoding**|Ziyang Zhang et.al.|[2409.19884v1](http://arxiv.org/abs/2409.19884v1)|[link](https://github.com/windowso/swim-asad)|
 |**2024-09-30**|**Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation**|Huangyu Dai et.al.|[2409.19877v1](http://arxiv.org/abs/2409.19877v1)|null|
-|**2024-09-30**|**TSI: A Multi-View Representation Learning Approach for Time Series Forecasting**|Wentao Gao et.al.|[2409.19871v1](http://arxiv.org/abs/2409.19871v1)|null|
+|**2024-09-30**|**TSI: A Multi-View Representation Learning Approach for Time Series Forecasting**|Wentao Gao et.al.|[2409.19871v1](http://arxiv.org/abs/2409.19871v1)|[link](https://github.com/Wentao-Gao/TSI-forcasting)|
 |**2024-09-30**|**The Construction of Instruction-tuned LLMs for Finance without Instruction Data Using Continual Pretraining and Model Merging**|Masanori Hirano et.al.|[2409.19854v1](http://arxiv.org/abs/2409.19854v1)|null|
 |**2024-09-30**|**ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities**|Ezra Karger et.al.|[2409.19839v1](http://arxiv.org/abs/2409.19839v1)|null|
 |**2024-09-29**|**Counterfactual Evaluation of Ads Ranking Models through Domain Adaptation**|Mohamed A. Radwan et.al.|[2409.19824v1](http://arxiv.org/abs/2409.19824v1)|null|
@@ -421,7 +421,7 @@ publicly on the web-site: https://clara-nlp.uned.es/.
 摘要：本研究描述了为三个领域的西班牙语文本自动简化而开发的语言资源和模型：金融、医学和历史研究。我们在每个领域创建了多个语料库、注释和简化指南、技术和简化医学术语词典、用于金融领域共享任务的数据集以及两个简化工具。方法、资源和配套出版物在网站上公开共享：https://clara-nlp.uned.es/。
 
 ##### **Linear Projections of Teacher Embeddings for Few-Class Distillation**
-2409.20449v1 by Noel Loo, Fotis Iliopoulos, Wei Hu, Erik Vee
+2409.20449v2 by Noel Loo, Fotis Iliopoulos, Wei Hu, Erik Vee
 
 Knowledge Distillation (KD) has emerged as a promising approach for
 transferring knowledge from a larger, more complex teacher model to a smaller
@@ -448,7 +448,7 @@ competitive with, and typically superior to, existing state-of-the-art
 distillation algorithms for binary and few-class problems, where most KD
 methods suffer.
 
-摘要：知識蒸餾 (KD) 已成為一種有前途的方法，用於將知識從更大、更複雜的教師模型轉移到更小的學生模型。傳統上，KD 涉及訓練學生模擬教師的輸出機率，而更先進的技術則探索引導學生採用教師的內部表徵。儘管 KD 在二元分類和少類問題中獲得廣泛成功，但其表現卻不太令人滿意。這是因為有關教師模型泛化模式的資訊會隨著類別數直接擴展。此外，幾種精密的蒸餾方法可能無法普遍適用於電腦視覺以外的資料類型，也可能對這些資料類型無效。因此，有效的蒸餾技術對於一系列關鍵的真實世界應用仍然難以捉摸，例如情緒分析、搜尋查詢理解和廣告查詢相關性評估。考量到這些觀察結果，我們介紹一種新方法，用於從教師的模型表徵中蒸餾知識，我們稱之為學習嵌入線性投影 (LELP)。LELP 的靈感來自於關於最終層表徵結構的最新發現，其運作方式是識別教師嵌入空間中的資訊線性子空間，並將它們分割成偽子類別。然後訓練學生模型以複製這些偽類別。我們在 Amazon Reviews 和 Sentiment140 等大型 NLP 基準上進行的實驗評估證明，LELP 在二元和少類問題上始終與現有最先進的蒸餾演算法具有競爭力，而且通常優於這些演算法，而大多數 KD 方法在這些問題上表現不佳。
+摘要：知識蒸餾 (KD) 已成為一種有前途的方法，用於將知識從更大、更複雜的教師模型轉移到更小的學生模型。傳統上，KD 涉及訓練學生模仿教師的輸出機率，而更先進的技術則探索引導學生採用教師的內部表徵。儘管 KD 在二元分類和少數類別問題中廣泛成功，但其效能卻不太令人滿意。這是因為有關教師模型概化模式的資訊會直接隨著類別數目而擴展。此外，多種精密的蒸餾方法可能無法普遍適用於電腦視覺以外的資料類型，或對這些資料類型無效。因此，有效的蒸餾技術對於各種關鍵的真實世界應用來說仍然難以捉摸，例如情緒分析、搜尋查詢理解和廣告查詢相關性評估。考量這些觀察結果，我們引入一種新穎的方法，用於從教師的模型表徵中蒸餾知識，我們稱之為學習嵌入線性投影 (LELP)。LELP 的靈感來自於關於最終層表徵結構的最新發現，其作用方式是識別教師嵌入空間中的資訊性線性子空間，並將它們分割成偽子類別。然後訓練學生模型複製這些偽類別。我們在 Amazon Reviews 和 Sentiment140 等大型 NLP 基準上進行的實驗評估證明，LELP 始終與現有的最先進的蒸餾演算法具有競爭力，而且通常優於這些演算法，而這些演算法在二元和少數類別問題中表現不佳，而大多數 KD 方法都會遇到這些問題。
 
 ##### **POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**
 2409.20447v1 by Eugenio Lomurno, Samuele Mariani, Matteo Monti, Matteo Matteucci
@@ -593,7 +593,7 @@ https://github.com/foundation-multimodal-models/World2Code.
 摘要：近期在視覺語言模型 (VLM) 的進展以及高品質多模態對齊資料的稀缺，激發了許多關於合成 VLM 資料產生的研究。VLM 資料建構中的傳統規範使用標題和 OCR 專家，或更強大的 VLM API 和昂貴的人工標註的混合。在本文中，我們提出世界到程式碼 (W2C)，一個精心策劃的多模態資料建構管道，它將最終產生的輸出組織成 Python 程式碼格式。該管道利用 VLM 本身透過不同的提示來萃取跨模態資訊，並透過一致性過濾策略再次過濾產生的輸出。實驗已透過改善不同 VLM 中的各種現有視覺問答和視覺基礎基準來證明 W2C 的高品質。進一步的分析也證明 VLM 的新程式碼解析能力呈現出比一般使用的詳細標題能力更好的跨模態等價性。我們的程式碼可在 https://github.com/foundation-multimodal-models/World2Code 取得。
 
 ##### **Stream-level flow matching from a Bayesian decision theoretic perspective**
-2409.20423v1 by Ganchao Wei, Li Ma
+2409.20423v2 by Ganchao Wei, Li Ma
 
 Flow matching (FM) is a family of training algorithms for fitting continuous
 normalizing flows (CNFs). A standard approach to FM, called conditional flow
@@ -618,7 +618,7 @@ flexibly linking multiple related training data points (e.g., time series) and
 incorporating additional prior information. We empirically validate our claim
 through both simulations and applications to two hand-written image datasets.
 
-摘要：流匹配 (FM) 是用於擬合連續正規化流 (CNF) 的一組訓練演算法。一種稱為條件流匹配 (CFM) 的標準 FM 方法利用了 CNF 的邊際向量場可以透過擬合最小平方迴歸來學習，以指定給定流路徑一端或兩端的條件向量場。我們展示了從貝氏決策理論觀點檢視 CFM 訓練，在參數估計上開啟了 CFM 演算法的概括。我們提出一個這樣的延伸，透過引入基於定義條件機率路徑的 CFM 演算法，給定我們稱為「串流」的潛在隨機路徑，連接雜訊和觀察資料對。此外，我們主張使用高斯過程 (GP) 對這些潛在串流進行建模。GP 的獨特分佈特性，特別是 GP 的速度仍為 GP 的事實，允許從串流增強的條件機率路徑中抽取樣本，而無需模擬實際串流，因此 CFM 訓練的「無模擬」性質得以保留。我們展示了 CFM 的這種概括可以在適度的運算成本下大幅減少估計邊際向量場的變異，從而改善常見指標下產生樣本的品質。此外，我們展示了在串流上採用 GP 可以靈活地連結多個相關的訓練資料點（例如時間序列），並納入其他先驗資訊。我們透過模擬和應用於兩個手寫影像資料集，實證驗證了我們的說法。
+摘要：流匹配 (FM) 是一系列用於擬合連續正規化流 (CNF) 的訓練演算法。一種稱為條件流匹配 (CFM) 的標準 FM 方法利用了 CNF 的邊際向量場可以透過擬合最小平方回歸到所謂的條件向量場來學習的事實，而條件向量場是根據流路徑的一端或兩端指定的。我們展示了從貝氏決策理論觀點來看 CFM 訓練，可以開啟 CFM 演算法的概括化。我們提出一個這樣的擴充，方法是引入一個 CFM 演算法，該演算法基於定義條件機率路徑，給定我們稱之為「串流」的內容，而串流是連接雜訊和觀察資料對的潛在隨機路徑的實例。此外，我們提倡使用高斯程序 (GP) 對這些潛在串流進行建模。GP 的獨特分佈特性，特別是 GP 的速度仍然是 GP 的事實，允許從結果串流增強條件機率路徑中抽取樣本，而無需模擬實際串流，因此 CFM 訓練的「無模擬」性質得以保留。我們展示了 CFM 的這種概括可以大幅降低估計邊際向量場的變異，且計算成本適中，從而改善在常見指標下產生樣本的品質。此外，我們展示了在串流上採用 GP 可以靈活地連結多個相關訓練資料點（例如，時間序列），並納入額外的先驗資訊。我們透過模擬和應用於兩個手寫影像資料集，以實證驗證我們的說法。
 
 ##### **Conformal Prediction for Dose-Response Models with Continuous Treatments**
 2409.20412v1 by Jarne Verhaeghe, Jef Jonkers, Sofie Van Hoecke
@@ -1396,28 +1396,28 @@ could reduce the amount of manual labeling required.
 摘要：自然語言處理 (NLP) 在醫療領域中，在涉及非英語語言中小型資料集、標記樣本少和類別不平衡的實際應用中表現不佳。對於如何解決這個問題，目前尚未達成共識。我們使用三組丹麥語癲癇患者磁共振影像的放射報告資料集，評估了一組 NLP 模型，包括類 BERT 轉換器、使用句子轉換器 (SetFit) 的少樣本學習，以及提示的大型語言模型 (LLM)。我們的結果表明，目前在放射報告目標領域中預訓練的類 BERT 模型為此情境提供最佳效能。值得注意的是，與類 BERT 模型相比，SetFit 和 LLM 模型表現不佳，而 LLM 表現最差。重要的是，所研究的模型中沒有一個足夠準確，可以在沒有任何監督的情況下進行文字分類。然而，它們顯示出資料過濾的潛力，這可以減少所需的手動標記量。
 
 ##### **Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**
-2409.20135v2 by Zezhou Wang, Yaxin Du, Zhuzhong Qian, Siheng Chen
+2409.20135v3 by Zezhou Wang, Yaxin Du, Zhuzhong Qian, Siheng Chen
 
 Federated Domain-specific Instruction Tuning (FedDIT) utilizes limited
-cross-client private data alongside server-side public data for instruction
-augmentation, ultimately enhancing model performance within specific domains.
-While the factors affecting FedDIT remain unclear and existing instruction
-augmentation methods mainly focus on the centralized setting without
-considering the distributed environment. Our experiments reveal that the
+cross-client private data together with server-side public data for instruction
+augmentation, ultimately boosting model performance within specific domains. To
+date, the factors affecting FedDIT remain unclear, and existing instruction
+augmentation methods primarily focus on the centralized setting without
+considering distributed environments. Our experiments reveal that the
 cross-client domain coverage, rather than data heterogeneity, drives model
 performance in FedDIT. In response, we propose FedDCA, which optimizes domain
 coverage through greedy client center selection and retrieval-based
-augmentation. To alleviate client-side computational burdens, FedDCA$^*$ uses
-heterogeneous encoders with server-side feature alignment. Extensive
-experiments across four distinct domains (code, medical, financial, and
-mathematical) substantiate the effectiveness of both methods. Additionally, we
-investigate privacy preservation against memory extraction attacks utilizing
-varying amounts of public data. Results show no significant correlation between
-the volume of public data and the privacy-preserving capability. However, as
-the fine-tuning round increases, the risk of privacy leakage reduces or
-converges.
+augmentation. For client-side computational efficiency and system scalability,
+FedDCA$^*$, the variant of FedDCA, utilizes heterogeneous encoders with
+server-side feature alignment. Extensive experiments across four distinct
+domains (code, medical, financial, and mathematical) substantiate the
+effectiveness of both methods. Additionally, we investigate privacy
+preservation against memory extraction attacks utilizing various amounts of
+public data. Results show that there is no significant correlation between the
+volume of public data and the privacy-preserving capability. However, as the
+fine-tuning rounds increase, the risk of privacy leakage reduces or converges.
 
-摘要：聯邦領域特定指令調整 (FedDIT) 利用有限的跨用戶端私人數據以及伺服器端的公開數據進行指令擴充，最終增強特定領域內的模型效能。雖然影響 FedDIT 的因素仍不明確，現有的指令擴充方法主要著重於集中式設定，而未考慮分散式環境。我們的實驗顯示，跨用戶端領域涵蓋範圍，而非數據異質性，驅動了 FedDIT 中的模型效能。為此，我們提出 FedDCA，它透過貪婪用戶端中心選擇和基於檢索的擴充，最佳化領域涵蓋範圍。為了減輕用戶端端的運算負擔，FedDCA$^*$ 使用具有伺服器端特徵比對的異質編碼器。跨越四個不同領域（程式碼、醫療、金融和數學）的廣泛實驗證實了這兩種方法的有效性。此外，我們針對利用不同量公開數據的記憶體提取攻擊調查隱私保護。結果顯示公開數據量與隱私保護能力之間沒有顯著相關性。然而，隨著微調回合數增加，隱私洩漏的風險會降低或收斂。
+摘要：聯邦領域特定指令調整 (FedDIT) 利用有限的跨用戶端私人數據以及伺服器端的公開數據進行指令擴充，最終提升特定領域內的模型效能。迄今為止，影響 FedDIT 的因素仍不明確，現有的指令擴充方法主要關注於集中式設定，而不考慮分散式環境。我們的實驗揭示，跨用戶端領域涵蓋範圍，而非數據異質性，驅動了 FedDIT 中的模型效能。為了解決這個問題，我們提出 FedDCA，它透過貪婪用戶端中心選擇和基於檢索的擴充，來最佳化領域涵蓋範圍。為了提升用戶端運算效率和系統可擴充性，FedDCA$^*$，FedDCA 的變體，利用異質編碼器搭配伺服器端特徵比對。橫跨四個不同領域（程式碼、醫學、金融和數學）的廣泛實驗證實了這兩種方法的有效性。此外，我們針對利用不同量級公開數據的記憶體萃取攻擊，探討隱私保護。結果顯示，公開數據量和隱私保護能力之間沒有顯著相關性。然而，隨著微調回合數的增加，隱私洩露風險會降低或趨於穩定。
 
 ##### **ACE: Abstractions for Communicating Efficiently**
 2409.20120v1 by Jonathan D. Thomas, Andrea Silvi, Devdatt Dubhashi, Vikas Garg, Moa Johansson

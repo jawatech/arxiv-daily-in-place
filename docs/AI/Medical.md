@@ -3,12 +3,12 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370v1](http://arxiv.org/abs/2409.20370v1)|null|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147v1](http://arxiv.org/abs/2409.20147v1)|null|
 |**2024-09-30**|**Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains**|Samia Belhadj et.al.|[2409.19940v1](http://arxiv.org/abs/2409.19940v1)|null|
 |**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v1](http://arxiv.org/abs/2409.19689v1)|null|
 |**2024-09-29**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676v2](http://arxiv.org/abs/2409.19676v2)|[link](https://github.com/chauncey-jheng/pcrl-mrg)|
-|**2024-09-29**|**Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**|Maor Reuben et.al.|[2409.19655v1](http://arxiv.org/abs/2409.19655v1)|null|
+|**2024-09-29**|**Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**|Maor Reuben et.al.|[2409.19655v1](http://arxiv.org/abs/2409.19655v1)|[link](https://github.com/cnai-lab/qlatent)|
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629v1](http://arxiv.org/abs/2409.19629v1)|null|
 |**2024-09-29**|**MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI**|Vivek Kumar Trivedi et.al.|[2409.19623v1](http://arxiv.org/abs/2409.19623v1)|[link](https://github.com/vivekkumartri/mcddpm)|
 |**2024-09-29**|**Understanding Clinical Decision-Making in Traditional East Asian Medicine through Dimensionality Reduction: An Empirical Investigation**|Hyojin Bae et.al.|[2409.19531v1](http://arxiv.org/abs/2409.19531v1)|null|
@@ -28,7 +28,7 @@
 |**2024-09-27**|**Physics Augmented Tuple Transformer for Autism Severity Level Detection**|Chinthaka Ranasingha et.al.|[2409.18438v1](http://arxiv.org/abs/2409.18438v1)|null|
 |**2024-09-26**|**DRL-STNet: Unsupervised Domain Adaptation for Cross-modality Medical Image Segmentation via Disentangled Representation Learning**|Hui Lin et.al.|[2409.18340v1](http://arxiv.org/abs/2409.18340v1)|null|
 |**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319v1](http://arxiv.org/abs/2409.18319v1)|null|
-|**2024-09-26**|**Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**|Yuexing Hao et.al.|[2409.18290v1](http://arxiv.org/abs/2409.18290v1)|null|
+|**2024-09-26**|**Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**|Yuexing Hao et.al.|[2409.18290v1](http://arxiv.org/abs/2409.18290v1)|[link](https://github.com/YuexingHao/In-Basket-Message-Evaluation)|
 |**2024-09-26**|**Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review**|Emma Croxford et.al.|[2409.18170v1](http://arxiv.org/abs/2409.18170v1)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
 |**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994v2](http://arxiv.org/abs/2409.17994v2)|null|
@@ -77,12 +77,12 @@
 |**2024-09-23**|**Generalizing monocular colonoscopy image depth estimation by uncertainty-based global and local fusion network**|Sijia Du et.al.|[2409.15006v1](http://arxiv.org/abs/2409.15006v1)|null|
 |**2024-09-23**|**DSG-KD: Knowledge Distillation from Domain-Specific to General Language Models**|Sangyeon Cho et.al.|[2409.14904v1](http://arxiv.org/abs/2409.14904v1)|[link](https://github.com/josangyeon/dsg-kd)|
 |**2024-09-23**|**Mammo-Clustering:A Weakly Supervised Multi-view Global-Local Context Clustering Network for Detection and Classification in Mammography**|Shilong Yang et.al.|[2409.14876v1](http://arxiv.org/abs/2409.14876v1)|null|
-|**2024-09-23**|**Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images**|Ahjol Senbi et.al.|[2409.14874v2](http://arxiv.org/abs/2409.14874v2)|null|
+|**2024-09-23**|**Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images**|Ahjol Senbi et.al.|[2409.14874v2](http://arxiv.org/abs/2409.14874v2)|[link](https://github.com/ahjolsenbics/evanyseg)|
 |**2024-09-23**|**A-VL: Adaptive Attention for Large Vision-Language Models**|Junyang Zhang et.al.|[2409.14846v1](http://arxiv.org/abs/2409.14846v1)|null|
 |**2024-09-22**|**Can Large Language Models Logically Predict Myocardial Infarction? Evaluation based on UK Biobank Cohort**|Yuxing Zhi et.al.|[2409.14478v1](http://arxiv.org/abs/2409.14478v1)|null|
 |**2024-09-22**|**Detection of pulmonary pathologies using convolutional neural networks, Data Augmentation, ResNet50 and Vision Transformers**|Pablo Ramirez Amador et.al.|[2409.14446v1](http://arxiv.org/abs/2409.14446v1)|null|
 |**2024-09-22**|**Data-Driven Spatiotemporal Feature Representation and Mining in Multidimensional Time Series**|Xu Yan et.al.|[2409.14327v1](http://arxiv.org/abs/2409.14327v1)|null|
-|**2024-09-22**|**PretextTrans: Investigating Medical Factual Knowledge Mastery of LLMs with Predicate-text Dual Transformation**|Yuxuan Zhou et.al.|[2409.14302v1](http://arxiv.org/abs/2409.14302v1)|null|
+|**2024-09-22**|**Reliable and diverse evaluation of LLM medical knowledge mastery**|Yuxuan Zhou et.al.|[2409.14302v2](http://arxiv.org/abs/2409.14302v2)|null|
 |**2024-09-21**|**Data-Driven Approach to assess and identify gaps in healthcare set up in South Asia**|Rusham Elahi et.al.|[2409.14194v1](http://arxiv.org/abs/2409.14194v1)|null|
 |**2024-09-21**|**Democratising Artificial Intelligence for Pandemic Preparedness and Global Governance in Latin American and Caribbean Countries**|Andre de Carvalho et.al.|[2409.14181v1](http://arxiv.org/abs/2409.14181v1)|null|
 |**2024-09-20**|**CI-Bench: Benchmarking Contextual Integrity of AI Assistants on Synthetic Data**|Zhao Cheng et.al.|[2409.13903v1](http://arxiv.org/abs/2409.13903v1)|null|
@@ -2095,31 +2095,34 @@ practical application value.
 
 摘要：<paragraph>本文探討了一種新的時間序列資料分析方法，旨在克服傳統挖掘技術在處理多維時間序列資料時的限制。時間序列資料廣泛用於各種領域，包括用於監控和最佳化 IT 基礎架構的後端服務、透過持續監控患者和健康趨勢分析進行的醫療診斷，以及用於追蹤使用者行為和預測銷售的網路業務。然而，由於時間序列資料中的有效資訊通常隱藏在序列片段中，因此其長度、數量和形態變數的不確定性為挖掘帶來了挑戰。為此，本文提出了一種新的時空特徵表示方法，該方法透過轉換空間上變化的事件將多維時間序列 (MTS) 轉換為一維事件序列，並使用一系列事件符號來表示序列中多維耦合的空間結構資訊，具有良好的可解釋性。然後，本文引入一種變長元組挖掘方法，以提取事件序列中非冗餘的關鍵事件子序列，作為動作序列的時空結構特徵。此方法是一種無監督方法，不依賴於大規模訓練樣本，並定義了一個新的模型來表示多維時間序列的時空結構特徵。STEM 模型的優異效能已通過各種動作序列上的模式分類實驗得到驗證。本文的研究成果為理解和預測人類行為模式提供了重要的理論基礎和技術支援，並具有深遠的實用應用價值。</paragraph>
 
-##### **PretextTrans: Investigating Medical Factual Knowledge Mastery of LLMs with Predicate-text Dual Transformation**
-2409.14302v1 by Yuxuan Zhou, Xien Liu, Chen Ning, Ji Wu
+##### **Reliable and diverse evaluation of LLM medical knowledge mastery**
+2409.14302v2 by Yuxuan Zhou, Xien Liu, Chen Ning, Xiao Zhang, Ji Wu
 
-In the study, we aim to investigate current LLMs' mastery of medical factual
-knowledge with a dynamic evaluation schema, which can automatically generate
-multiple test samples for each medical factual knowledge point. Test samples
-produced directly by LLMs always introduce factual errors and lack diversity in
-the manner of knowledge expression. To overcome the drawbacks, here we propose
-a novel evaluation method, Predicate-text Dual Transformation (PretextTrans),
-by introducing predicate transformations into the dynamic evaluation schema.
-Specifically, each medical knowledge point is firstly transformed into a
-predicate expression; then, the predicate expression derives a series of
-variants through predicate transformations; lastly, the produced predicate
-variants are transformed back into textual expressions, resulting in a series
-of test samples with both factual reliability and expression diversity. Using
-the proposed PretextTrans method, we systematically investigate 12 well-known
-LLMs' mastery of medical factual knowledge based on two medical datasets. The
-comparison results show that current LLMs still have significant deficiencies
-in fully mastering medical knowledge, which may illustrate why current LLMs
-still perform unsatisfactorily in real-world medical scenarios despite having
-achieved considerable performance on public benchmarks. Our proposed method
-serves as an effective solution for evaluation of LLMs in medical domain and
-offers valuable insights for developing medical-specific LLMs.
+Mastering medical knowledge is crucial for medical-specific LLMs. However,
+despite the existence of medical benchmarks like MedQA, a unified framework
+that fully leverages existing knowledge bases to evaluate LLMs' mastery of
+medical knowledge is still lacking. In the study, we propose a novel framework
+PretexEval that dynamically generates reliable and diverse test samples to
+evaluate LLMs for any given medical knowledge base. We notice that test samples
+produced directly from knowledge bases by templates or LLMs may introduce
+factual errors and also lack diversity. To address these issues, we introduce a
+novel schema into our proposed evaluation framework that employs predicate
+equivalence transformations to produce a series of variants for any given
+medical knowledge point. Finally, these produced predicate variants are
+converted into textual language, resulting in a series of reliable and diverse
+test samples to evaluate whether LLMs fully master the given medical factual
+knowledge point. Here, we use our proposed framework to systematically
+investigate the mastery of medical factual knowledge of 12 well-known LLMs,
+based on two knowledge bases that are crucial for clinical diagnosis and
+treatment. The evaluation results illustrate that current LLMs still exhibit
+significant deficiencies in fully mastering medical knowledge, despite
+achieving considerable success on some famous public benchmarks. These new
+findings provide valuable insights for developing medical-specific LLMs,
+highlighting that current LLMs urgently need to strengthen their comprehensive
+and in-depth mastery of medical knowledge before being applied to real-world
+medical scenarios.
 
-摘要：<paragraph>在研究中，我們旨在使用動態評估架構來調查當前 LLM 對醫學事實知識的掌握情況，該架構可以自動為每個醫學事實知識點生成多個測試樣本。由 LLM 直接產生的測試樣本總是會引入事實錯誤，並且在知識表達方式上缺乏多樣性。為了克服這些缺點，我們在此提出了一種新的評估方法，即謂詞-文本雙重轉換 (PretextTrans)，通過將謂詞轉換引入動態評估架構中。具體來說，每個醫學知識點首先被轉換為謂詞表達式；然後，謂詞表達式通過謂詞轉換得到一系列變體；最後，產生的謂詞變體被轉換回文本表達式，從而產生一系列既具有事實可靠性又具有表達多樣性的測試樣本。使用所提出的 PretextTrans 方法，我們系統地調查了 12 個著名的 LLM 對基於兩個醫學數據集的醫學事實知識的掌握情況。比較結果表明，當前 LLM 在完全掌握醫學知識方面仍然存在顯著的缺陷，這可能說明了為什麼當前 LLM 在現實世界的醫學場景中表現仍然不令人滿意，儘管在公共基準上取得了顯著的表現。我們提出的方法作為一種有效的解決方案，用於評估醫學領域的 LLM，並為開發特定於醫學的 LLM 提供了寶貴的見解。</paragraph>
+摘要：對於特定於醫療的 LLM 而言，掌握醫療知識至關重要。然而，儘管存在像 MedQA 這樣的醫療基準，但仍缺乏一個統一的架構，可以充分利用現有的知識庫來評估 LLM 對醫療知識的掌握程度。在這項研究中，我們提出了一個新穎的框架 PretexEval，它能動態產生可靠且多樣化的測試範例，用於評估 LLM 對任何給定的醫療知識庫的掌握程度。我們注意到，直接從知識庫中透過範本或 LLM 產生的測試範例可能會引入事實錯誤，而且缺乏多樣性。為了解決這些問題，我們在所提出的評估框架中引入了一個新穎的架構，該架構採用謂詞等價轉換來為任何給定的醫療知識點產生一系列變體。最後，將這些產生的謂詞變體轉換為文字語言，產生一系列可靠且多樣化的測試範例，用於評估 LLM 是否完全掌握給定的醫療事實知識點。在此，我們使用我們提出的框架，根據兩個對臨床診斷和治療至關重要的知識庫，系統性地調查 12 個著名的 LLM 對醫療事實知識的掌握程度。評估結果表明，儘管在一些著名的公開基準上取得了相當的成功，但目前的 LLM 在完全掌握醫療知識方面仍然表現出顯著的缺陷。這些新發現為開發特定於醫療的 LLM 提供了寶貴的見解，強調目前的 LLM 在應用於現實世界的醫療場景之前，迫切需要加強其對醫療知識的全面且深入的掌握。
 
 ##### **Data-Driven Approach to assess and identify gaps in healthcare set up in South Asia**
 2409.14194v1 by Rusham Elahi, Zia Tahseen, Tehreem Fatima, Syed Wafa Zahra, Hafiz Muhammad Abubakar, Tehreem Zafar, Aqs Younas, Muhammad Talha Quddoos, Usman Nazir

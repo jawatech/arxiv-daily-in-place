@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053v1](http://arxiv.org/abs/2409.20053v1)|null|
 |**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|[link](https://github.com/WangXFng/ELMRec)|
-|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|null|
+|**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|[link](https://github.com/wuyike2000/CoTKR)|
 |**2024-09-29**|**Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models**|Xin Li et.al.|[2409.19667v1](http://arxiv.org/abs/2409.19667v1)|[link](https://github.com/bupt-gamma/prograph)|
 |**2024-09-28**|**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**|Zheng Wang et.al.|[2409.19401v1](http://arxiv.org/abs/2409.19401v1)|null|
 |**2024-09-27**|**CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**|Haobo Li et.al.|[2409.19058v1](http://arxiv.org/abs/2409.19058v1)|null|
@@ -29,7 +29,7 @@
 |**2024-09-20**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447v2](http://arxiv.org/abs/2409.13447v2)|null|
 |**2024-09-20**|**GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification**|Ximing Wen et.al.|[2409.13312v1](http://arxiv.org/abs/2409.13312v1)|null|
 |**2024-09-20**|**Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems**|Andrea Colombo et.al.|[2409.13252v1](http://arxiv.org/abs/2409.13252v1)|null|
-|**2024-09-19**|**Knowledge-Based Domain-Oriented Data Augmentation for Enhancing Unsupervised Sentence Embedding**|Peichao Lai et.al.|[2409.12887v1](http://arxiv.org/abs/2409.12887v1)|null|
+|**2024-09-19**|**Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning**|Peichao Lai et.al.|[2409.12887v2](http://arxiv.org/abs/2409.12887v2)|null|
 |**2024-09-19**|**KnowFormer: Revisiting Transformers for Knowledge Graph Reasoning**|Junnan Liu et.al.|[2409.12865v1](http://arxiv.org/abs/2409.12865v1)|null|
 |**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853v1](http://arxiv.org/abs/2409.12853v1)|null|
 |**2024-09-19**|**Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data**|Jiaming Zhou et.al.|[2409.12437v1](http://arxiv.org/abs/2409.12437v1)|[link](https://github.com/riddickzhou/llm-graph-synthetic-reasoning)|
@@ -64,7 +64,7 @@
 |**2024-09-10**|**Generative Hierarchical Materials Search**|Sherry Yang et.al.|[2409.06762v1](http://arxiv.org/abs/2409.06762v1)|null|
 |**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433v1](http://arxiv.org/abs/2409.06433v1)|null|
 |**2024-09-10**|**TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**|HuangChao Xu et.al.|[2409.13732v1](http://arxiv.org/abs/2409.13732v1)|null|
-|**2024-09-10**|**KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation**|Lei Liang et.al.|[2409.13731v3](http://arxiv.org/abs/2409.13731v3)|null|
+|**2024-09-10**|**KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation**|Lei Liang et.al.|[2409.13731v3](http://arxiv.org/abs/2409.13731v3)|[link](https://github.com/openspg/kag)|
 |**2024-09-09**|**Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity**|Dongyue Li et.al.|[2409.06091v1](http://arxiv.org/abs/2409.06091v1)|[link](https://github.com/virtuosoresearch/scalablemtl)|
 |**2024-09-09**|**OneEdit: A Neural-Symbolic Collaboratively Knowledge Editing System**|Ningyu Zhang et.al.|[2409.07497v1](http://arxiv.org/abs/2409.07497v1)|[link](https://github.com/zjunlp/oneedit)|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|[link](https://github.com/lamm-mit/SciAgentsDiscovery)|
@@ -753,28 +753,29 @@ and that aims to support lawmaking activities.
 與此同時，大型語言模型 (LLM)（例如 GPT）的興起為法律應用開闢了新的機會，例如文字產生和文件起草。儘管有其潛力，在立法背景下使用 LLM 至關重要，因為它需要沒有幻覺並且依賴於最新的資訊，因為每天都會公佈新的法律。
 這項工作探討了立法知識圖譜和 LLM 如何產生協同效應並支援立法程序。我們探討了三個關鍵問題：使用 KG 對立法系統的好處、LLM 如何透過確保準確的輸出支援立法活動，以及我們如何讓非技術使用者在他們的活動中使用這些技術。為此，我們開發了 Legis AI Platform，這是一個專注於義大利立法的互動式平台，可增強進行立法分析的可能性，並旨在支援立法活動。
 
-##### **Knowledge-Based Domain-Oriented Data Augmentation for Enhancing Unsupervised Sentence Embedding**
-2409.12887v1 by Peichao Lai, Zhengfeng Zhang, Bin Cui
+##### **Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning**
+2409.12887v2 by Peichao Lai, Zhengfeng Zhang, Wentao Zhang, Fangcheng Fu, Bin Cui
 
-Recently, unsupervised sentence embedding models have received significant
-attention in downstream natural language processing tasks. Using large language
-models (LLMs) for data augmentation has led to considerable improvements in
-previous studies. Nevertheless, these strategies emphasize data augmentation
-with extensive generic corpora, neglecting the consideration of few-shot domain
-data. The synthesized data lacks fine-grained information and may introduce
-negative sample noise. This study introduces a novel pipeline-based data
-augmentation method that leverages LLM to synthesize the domain-specific
-dataset. It produces both positive and negative samples through entity- and
-quantity-aware augmentation, utilizing an entity knowledge graph to synthesize
-samples with fine-grained semantic distinctions, increasing training sample
-diversity and relevance. We then present a Gaussian-decayed gradient-assisted
-Contrastive Sentence Embedding (GCSE) model to reduce synthetic data noise and
-improve model discrimination to reduce negative sample noise. Experimental
-results demonstrate that our approach achieves state-of-the-art semantic
-textual similarity performance with fewer synthetic data samples and lesser LLM
-parameters, demonstrating its efficiency and robustness in varied backbones.
+Recently, using large language models (LLMs) for data augmentation has led to
+considerable improvements in unsupervised sentence embedding models. However,
+existing methods encounter two primary challenges: limited data diversity and
+high data noise. Current approaches often neglect fine-grained knowledge, such
+as entities and quantities, leading to insufficient diversity. Additionally,
+unsupervised data frequently lacks discriminative information, and the
+generated synthetic samples may introduce noise. In this paper, we propose a
+pipeline-based data augmentation method via LLMs and introduce the
+Gaussian-decayed gradient-assisted Contrastive Sentence Embedding (GCSE) model
+to enhance unsupervised sentence embeddings. To tackle the issue of low data
+diversity, our pipeline utilizes knowledge graphs (KGs) to extract entities and
+quantities, enabling LLMs to generate more diverse, knowledge-enriched samples.
+To address high data noise, the GCSE model uses a Gaussian-decayed function to
+limit the impact of false hard negative samples, enhancing the model's
+discriminative capability. Experimental results show that our approach achieves
+state-of-the-art performance in semantic textual similarity (STS) tasks, using
+fewer data samples and smaller LLMs, demonstrating its efficiency and
+robustness across various models.
 
-摘要：近来，无监督句子嵌入模型在自然语言处理的下游任务中受到广泛关注。在先前研究中，使用大型语言模型（LLM）进行数据扩充已带来显著的改进。然而，这些策略强调使用广泛的通用语料库进行数据扩充，忽略了对少量领域数据的考量。合成的资料缺乏细粒度信息，并可能引入负面样本噪声。本研究提出了一种新颖的基于管道的数据扩充方法，该方法利用 LLM 来合成特定于领域的资料集。它通过实体和数量感知扩充产生正面和负面样本，利用实体知识图谱来合成具有细粒度语义区别的样本，增加训练样本的多样性和相关性。然后，我们提出了一个高斯衰减梯度辅助对比句子嵌入（GCSE）模型，以减少合成数据噪声，并提高模型判别能力，以减少负面样本噪声。实验结果表明，我们的方法以更少的合成数据样本和更少的 LLM 参数实现了最先进的语义文本相似性性能，证明了其在各种骨干网中的效率和鲁棒性。
+摘要：<paragraph>最近，使用大型语言模型 (LLM) 进行数据扩充已导致无监督句子嵌入模型大幅改善。然而，现有方法会遇到两个主要挑战：数据多样性有限和数据噪音高。当前方法通常忽略细粒度知识，例如实体和数量，导致多样性不足。此外，无监督数据经常缺乏判别信息，并且生成的合成样本可能会引入噪音。在本文中，我们提出了一种基于管道的数据扩充方法，通过 LLM，并引入了高斯衰减梯度辅助对比句子嵌入 (GCSE) 模型来增强无监督句子嵌入。为了解决数据多样性低的问题，我们的管道利用知识图谱 (KG) 来提取实体和数量，使 LLM 能够生成更多样化、知识丰富的样本。为了解决数据噪音高的问题，GCSE 模型使用高斯衰减函数来限制错误困难负样本的影响，从而增强模型的判别能力。实验结果表明，我们的方法在语义文本相似性 (STS) 任务中实现了最先进的性能，使用较少的数据样本和较小的 LLM，展示了其在各种模型中的效率和鲁棒性。</paragraph>
 
 ##### **KnowFormer: Revisiting Transformers for Knowledge Graph Reasoning**
 2409.12865v1 by Junnan Liu, Qianren Mao, Weifeng Jiang, Jianxin Li

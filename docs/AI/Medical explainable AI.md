@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v1](http://arxiv.org/abs/2410.01855v1)|null|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
 |**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
 |**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
@@ -101,9 +102,36 @@
 |**2023-07-26**|**A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**|Timo Speith et.al.|[2307.14246v1](http://arxiv.org/abs/2307.14246v1)|null|
 |**2023-07-26**|**Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**|Barnaby Crook et.al.|[2307.14239v1](http://arxiv.org/abs/2307.14239v1)|null|
 |**2023-07-26**|**Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**|Henry Fraser et.al.|[2308.02047v1](http://arxiv.org/abs/2308.02047v1)|null|
-|**2023-07-21**|**eXplainable Artificial Intelligence (XAI) in aging clock models**|Alena Kalyakulina et.al.|[2307.13704v3](http://arxiv.org/abs/2307.13704v3)|null|
 
 #### Abstracts
+##### **Explainable Diagnosis Prediction through Neuro-Symbolic Integration**
+2410.01855v1 by Qiuhao Lu, Rui Li, Elham Sagheb, Andrew Wen, Jinlian Wang, Liwei Wang, Jungwei W. Fan, Hongfang Liu
+
+Diagnosis prediction is a critical task in healthcare, where timely and
+accurate identification of medical conditions can significantly impact patient
+outcomes. Traditional machine learning and deep learning models have achieved
+notable success in this domain but often lack interpretability which is a
+crucial requirement in clinical settings. In this study, we explore the use of
+neuro-symbolic methods, specifically Logical Neural Networks (LNNs), to develop
+explainable models for diagnosis prediction. Essentially, we design and
+implement LNN-based models that integrate domain-specific knowledge through
+logical rules with learnable thresholds. Our models, particularly
+$M_{\text{multi-pathway}}$ and $M_{\text{comprehensive}}$, demonstrate superior
+performance over traditional models such as Logistic Regression, SVM, and
+Random Forest, achieving higher accuracy (up to 80.52\%) and AUROC scores (up
+to 0.8457) in the case study of diabetes prediction. The learned weights and
+thresholds within the LNN models provide direct insights into feature
+contributions, enhancing interpretability without compromising predictive
+power. These findings highlight the potential of neuro-symbolic approaches in
+bridging the gap between accuracy and explainability in healthcare AI
+applications. By offering transparent and adaptable diagnostic models, our work
+contributes to the advancement of precision medicine and supports the
+development of equitable healthcare solutions. Future research will focus on
+extending these methods to larger and more diverse datasets to further validate
+their applicability across different medical conditions and populations.
+
+摘要：診斷預測是醫療保健中的一項關鍵任務，及時且準確地識別醫療狀況會對患者的結果產生重大影響。傳統機器學習和深度學習模型已在此領域取得顯著成功，但通常缺乏可解釋性，這是臨床環境中的關鍵要求。在本研究中，我們探討了神經符號方法，特別是邏輯神經網路 (LNN)，以開發可解釋的診斷預測模型。基本上，我們設計並實作了基於 LNN 的模型，該模型透過邏輯規則和可學習的閾值整合領域特定的知識。我們的模型，特別是 $M_{\text{multi-pathway}}$ 和 $M_{\text{comprehensive}}$，表現出優於傳統模型（如邏輯迴歸、SVM 和隨機森林）的卓越效能，在糖尿病預測的案例研究中，達到了更高的準確度（高達 80.52%）和 AUROC 分數（高達 0.8457）。LNN 模型中學習的權重和閾值提供了對特徵貢獻的直接見解，增強了可解釋性，同時不損害預測能力。這些發現突顯了神經符號方法在彌合醫療保健 AI 應用中準確性和可解釋性差距方面的潛力。透過提供透明且適應性強的診斷模型，我們的研究有助於精準醫療的進步，並支援公平醫療保健解決方案的開發。未來的研究將專注於將這些方法擴展到更大且更多樣化的資料集，以進一步驗證其在不同醫療狀況和人群中的適用性。
+
 ##### **Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**
 2410.00366v1 by Prasenjit Maji, Amit Kumar Mondal, Hemanta Kumar Mondal, Saraju P. Mohanty
 
@@ -2641,21 +2669,4 @@ foundation of civic legitimacy: including detailed guidance or involvement from
 regulators, and meaningful input from affected stakeholders.
 
 摘要：本文嚴格評估歐洲委員會提出的 AI 法案對風險管理和風險可接受性的方法，用於對基本權利和安全構成風險的高風險 AI 系統。該法案旨在以相稱的監管負擔促進「值得信賴」的 AI。其關於風險可接受性的條款要求將高風險系統的殘餘風險減低或消除「盡可能」，並考慮「技術狀態」。此準則，特別是如果狹義解釋，無法執行，既不促進相稱的監管負擔，也不促進可信賴性。相比之下，議會對風險管理條款的最新修正草案引入了「合理性」、成本效益分析，並且更透明地說明了風險可接受性判斷的價值觀和背景性質。本文論證議會的方法更可行，且能更好地平衡相稱性和可信賴性的目標。本文說明風險可接受性判斷中的合理性會帶來什麼，並根據過失法和歐洲醫療器材法規中的原則進行說明。本文主張風險可接受性判斷的方法需要穩固的公民合法性基礎：包括監管機構的詳細指導或參與，以及受影響利害關係人的有意義投入。
-
-##### **eXplainable Artificial Intelligence (XAI) in aging clock models**
-2307.13704v3 by Alena Kalyakulina, Igor Yusipov, Alexey Moskalev, Claudio Franceschi, Mikhail Ivanchenko
-
-eXplainable Artificial Intelligence (XAI) is a rapidly progressing field of
-machine learning, aiming to unravel the predictions of complex models. XAI is
-especially required in sensitive applications, e.g. in health care, when
-diagnosis, recommendations and treatment choices might rely on the decisions
-made by artificial intelligence systems. AI approaches have become widely used
-in aging research as well, in particular, in developing biological clock models
-and identifying biomarkers of aging and age-related diseases. However, the
-potential of XAI here awaits to be fully appreciated. We discuss the
-application of XAI for developing the "aging clocks" and present a
-comprehensive analysis of the literature categorized by the focus on particular
-physiological systems.
-
-摘要：可解釋人工智慧 (XAI) 是機器學習中快速進展的領域，旨在解開複雜模型的預測。XAI 在敏感應用中特別需要，例如在醫療保健中，當診斷、建議和治療選擇可能依賴於人工智慧系統做出的決策時。人工智慧方法也已廣泛用於老化研究，特別是在開發生物時鐘模型和識別老化和與年齡相關疾病的生物標誌物方面。然而，這裡 XAI 的潛力有待充分認識。我們討論了 XAI 在開發「老化時鐘」方面的應用，並對按特定生理系統的重點分類的文獻進行了全面的分析。
 

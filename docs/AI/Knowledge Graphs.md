@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-02**|**Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering**|Klaus-Rudolf Kladny et.al.|[2410.01660v1](http://arxiv.org/abs/2410.01660v1)|null|
-|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v1](http://arxiv.org/abs/2410.01506v1)|null|
+|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|null|
 |**2024-10-02**|**Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**|Yu Zhang et.al.|[2410.01401v1](http://arxiv.org/abs/2410.01401v1)|[link](https://github.com/EchoDreamer/Q-KGR)|
 |**2024-10-02**|**Unveiling Language Skills under Circuits**|Hang Chen et.al.|[2410.01334v1](http://arxiv.org/abs/2410.01334v1)|null|
 |**2024-10-01**|**From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems**|Ali Mohammadjafari et.al.|[2410.01066v1](http://arxiv.org/abs/2410.01066v1)|null|
@@ -130,7 +130,7 @@ generation and molecular graph extension tasks.
 摘要：生成模型缺乏對其輸出進行嚴格的統計保證，因此在安全關鍵應用中不可靠。在這項工作中，我們提出了生成模型的順序共形預測 (SCOPE-Gen)，這是一種順序共形預測方法，產生滿足稱為共形可採性控制的嚴格統計保證的預測集。此保證表示，預測集在高機率下至少包含一個可採 (或有效) 的範例。為此，我們的模型首先從黑盒生成模型中抽取一組 i.i.d. 範例。然後，透過所謂的貪婪過濾器反覆修剪此組。作為反覆生成程序的結果，最終預測集的可採性分解為馬可夫鏈。此分解至關重要，因為它允許使用共形預測分別控制每個因子。與先前的工作相比，我們的模型顯示在校準過程中可大幅減少可採性評估的數量。此減少在安全關鍵應用中很重要，在這些應用中，這些評估必須由領域專家手動進行，因此成本高昂且耗時。我們透過自然語言生成和分子圖形延伸任務中的實驗，突顯我們的模型在可採性評估和預測集基數方面的優點。
 
 ##### **LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**
-2410.01506v1 by Dexuan Ding, Lei Wang, Liyun Zhu, Tom Gedeon, Piotr Koniusz
+2410.01506v2 by Dexuan Ding, Lei Wang, Liyun Zhu, Tom Gedeon, Piotr Koniusz
 
 In computer vision tasks, features often come from diverse representations,
 domains, and modalities, such as text, images, and videos. Effectively fusing
@@ -151,7 +151,22 @@ demonstrate the effectiveness of our graph-based fusion method on video anomaly
 detection, showing strong performance across multi-representational,
 multi-modal, and multi-domain feature fusion tasks.
 
-摘要：在计算机视觉任务中，特征通常来自不同的表示、领域和模态，例如文本、图像和视频。有效融合这些特征对于稳健的性能至关重要，尤其是在具有强大的预训练模型（如视觉语言模型）的情况下。然而，常见的融合方法，如串联、逐元素运算和非线性技术，通常无法捕捉结构关系、深度特征交互，并且在跨域特征上效率低下或未对齐。在本文中，我们从高维特征空间转移到低维的可解释图空间，通过构建相似性图来对不同级别的特征关系进行编码，例如剪辑、帧、块、标记等。为了捕捉更深层次的交互，我们使用图幂展开并引入一个可学习的图融合算子来组合这些图幂以实现更有效的融合。我们的方法以关系为中心，在同构空间中操作，并且具有数学原理，类似于通过多线性多项式进行逐元素相似性分数聚合。我们在视频异常检测中展示了基于图的融合方法的有效性，在多表示、多模态和多域特征融合任务中显示出强大的性能。
+摘要：<paragraph>在電腦視覺任務中，特徵通常來自不同的表示、
+領域和模式，例如文字、影像和影片。有效融合
+這些特徵對於強健的效能至關重要，特別是在
+具備強大預訓練模型（例如視覺語言模型）的情況下。
+然而，常見的融合方法，例如串接、逐元素運算，
+和非線性技術，通常無法捕捉結構關係、深度
+特徵互動，並且會受到非效率或特徵在不同領域中未對齊的影響。在本文中，我們從高維特徵空間轉移到
+低維、可解釋的圖形空間，透過建構相似性
+圖形來編碼不同層級的特徵關係，例如剪輯、
+影格、貼片、標記等。為了捕捉更深入的互動，我們使用圖形冪
+展開，並引入可學習的圖形融合運算子，以結合這些
+圖形冪，以實現更有效的融合。我們的做法以關係為中心，
+在同質空間中運作，並且具有數學原理，類似於
+透過多線性多項式進行逐元素相似度分數聚合。我們
+在影片異常偵測中展示了基於圖形的融合方法的有效性，在多表示、
+多模式和多領域特徵融合任務中展現強大的效能。</paragraph>
 
 ##### **Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**
 2410.01401v1 by Yu Zhang, Kehai Chen, Xuefeng Bai, zhao kang, Quanjiang Guo, Min Zhang

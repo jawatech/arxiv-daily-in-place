@@ -12,8 +12,8 @@
 |**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784v1](http://arxiv.org/abs/2410.01784v1)|[link](https://github.com/yangheng95/OmniGenomeBench)|
 |**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782v1](http://arxiv.org/abs/2410.01782v1)|null|
 |**2024-10-02**|**DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning**|Yebowen Hu et.al.|[2410.01772v1](http://arxiv.org/abs/2410.01772v1)|null|
-|**2024-10-02**|**Quantifying Generalization Complexity for Large Language Models**|Zhenting Qi et.al.|[2410.01769v1](http://arxiv.org/abs/2410.01769v1)|null|
-|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744v1](http://arxiv.org/abs/2410.01744v1)|null|
+|**2024-10-02**|**Quantifying Generalization Complexity for Large Language Models**|Zhenting Qi et.al.|[2410.01769v2](http://arxiv.org/abs/2410.01769v2)|null|
+|**2024-10-02**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744v2](http://arxiv.org/abs/2410.01744v2)|null|
 |**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739v1](http://arxiv.org/abs/2410.01739v1)|null|
 |**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738v1](http://arxiv.org/abs/2410.01738v1)|[link](https://github.com/carlofkl/vitaglyph)|
 |**2024-10-02**|**Recursive Abstractive Processing for Retrieval in Dynamic Datasets**|Charbel Chucri et.al.|[2410.01736v1](http://arxiv.org/abs/2410.01736v1)|null|
@@ -60,7 +60,7 @@
 |**2024-10-02**|**Imaging foundation model for universal enhancement of non-ideal measurement CT**|Yuxin Liu et.al.|[2410.01591v1](http://arxiv.org/abs/2410.01591v1)|[link](https://github.com/yutinghe-list/tamp)|
 |**2024-10-02**|**Spoken Grammar Assessment Using LLM**|Sunil Kumar Kopparapu et.al.|[2410.01579v1](http://arxiv.org/abs/2410.01579v1)|null|
 |**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560v1](http://arxiv.org/abs/2410.01560v1)|[link](https://github.com/kipok/nemo-skills)|
-|**2024-10-02**|**Integrative Decoding: Improve Factuality via Implicit Self-consistency**|Yi Cheng et.al.|[2410.01556v1](http://arxiv.org/abs/2410.01556v1)|[link](https://github.com/yicheng98/integrativedecoding)|
+|**2024-10-02**|**Integrative Decoding: Improve Factuality via Implicit Self-consistency**|Yi Cheng et.al.|[2410.01556v2](http://arxiv.org/abs/2410.01556v2)|[link](https://github.com/yicheng98/integrativedecoding)|
 |**2024-10-02**|**ACE: A LLM-based Negotiation Coaching System**|Ryan Shea et.al.|[2410.01555v1](http://arxiv.org/abs/2410.01555v1)|null|
 |**2024-10-02**|**MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework**|Zonghai Yao et.al.|[2410.01553v1](http://arxiv.org/abs/2410.01553v1)|[link](https://github.com/bio-nlp/medqa-cs)|
 |**2024-10-02**|**In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks**|Dingzirui Wang et.al.|[2410.01548v1](http://arxiv.org/abs/2410.01548v1)|[link](https://github.com/zirui-HIT/ICTL)|
@@ -71,11 +71,11 @@
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518v1](http://arxiv.org/abs/2410.01518v1)|null|
 |**2024-10-02**|**InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets**|Yungi Kim et.al.|[2410.01512v1](http://arxiv.org/abs/2410.01512v1)|null|
 |**2024-10-02**|**Disentangling Latent Shifts of In-Context Learning Through Self-Training**|Josip Jukić et.al.|[2410.01508v1](http://arxiv.org/abs/2410.01508v1)|null|
-|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v1](http://arxiv.org/abs/2410.01506v1)|null|
+|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|null|
 |**2024-10-02**|**PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**|Jing Luo et.al.|[2410.01504v1](http://arxiv.org/abs/2410.01504v1)|null|
 |**2024-10-02**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500v1](http://arxiv.org/abs/2410.01500v1)|null|
 |**2024-10-02**|**DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models**|Yuxuan Zhang et.al.|[2410.01497v1](http://arxiv.org/abs/2410.01497v1)|[link](https://github.com/mecuping/dlp-lora)|
-|**2024-10-02**|**Extending Context Window of Large Language Models from a Distributional Perspective**|Yingsheng Wu. Yuxuan Gu et.al.|[2410.01490v1](http://arxiv.org/abs/2410.01490v1)|[link](https://github.com/1180301012/DPRoPE)|
+|**2024-10-02**|**Extending Context Window of Large Language Models from a Distributional Perspective**|Yingsheng Wu et.al.|[2410.01490v2](http://arxiv.org/abs/2410.01490v2)|[link](https://github.com/1180301012/DPRoPE)|
 |**2024-10-02**|**Small Language Models Like Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas**|Bastian Bunzeck et.al.|[2410.01487v1](http://arxiv.org/abs/2410.01487v1)|null|
 |**2024-10-02**|**A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts**|Suyu Ge et.al.|[2410.01485v1](http://arxiv.org/abs/2410.01485v1)|null|
 |**2024-10-02**|**One Wave to Explain Them All: A Unifying Perspective on Post-hoc Explainability**|Gabriel Kasmi et.al.|[2410.01482v1](http://arxiv.org/abs/2410.01482v1)|null|
@@ -352,7 +352,7 @@ where making decisions under uncertainty is vital.
 摘要：LLM 非常適合用於決策制定，因為它們能夠對長篇脈絡進行推理並找出關鍵因素。然而，在處理描述複雜場景的口語轉錄時會產生挑戰。這些轉錄通常包含不符合文法或不完整的句子、重複、迴避和模糊。例如，在公司的收益電話會議中，一位主管可能會預測正面的收益前景以安撫投資人，儘管對未來的收益有很大的不確定性。對於 LLM 來說，在做決策時系統性地納入這種不確定性至關重要。在本文中，我們介紹了 DeFine，一個從複雜場景構建機率因子輪廓的新架構。然後，DeFine 將這些輪廓與類比推理整合，利用過去類似經驗中的見解來引導 LLM 在新情況中做出關鍵決策。我們的架構將量化複雜場景中的不確定性以及將其納入 LLM 決策制定的任務分開。這種方法在醫療諮詢、談判和政治辯論等領域特別有用，在這些領域中，在不確定性下做出決策至關重要。
 
 ##### **Quantifying Generalization Complexity for Large Language Models**
-2410.01769v1 by Zhenting Qi, Hongyin Luo, Xuliang Huang, Zhuokai Zhao, Yibo Jiang, Xiangjun Fan, Himabindu Lakkaraju, James Glass
+2410.01769v2 by Zhenting Qi, Hongyin Luo, Xuliang Huang, Zhuokai Zhao, Yibo Jiang, Xiangjun Fan, Himabindu Lakkaraju, James Glass
 
 While large language models (LLMs) have shown exceptional capabilities in
 understanding complex queries and performing sophisticated tasks, their
@@ -375,10 +375,10 @@ including both open-sourced models such as LLaMA and Qwen families, and
 close-sourced models like Claude and GPT, providing a more robust evaluation
 and establishing a clearer understanding of LLMs' generalization capabilities.
 
-摘要：<paragraph>儘管大型語言模型 (LLM) 在理解複雜查詢和執行精密任務方面展現出非凡的能力，但它們的概化能力通常與記憶力深度糾纏，需要更精確的評估。為了應對這項挑戰，我們引入了 Scylla，一個動態評估架構，用於量化測量 LLM 的概化能力。Scylla 透過評估模型在分佈內 (ID) 和分佈外 (OOD) 資料上的效能，透過 5 個複雜度層級的 20 項任務，將概化能力從記憶力中解開。透過廣泛的實驗，我們發現任務複雜度和 ID 與 OOD 資料之間的效能差距存在非單調關係，我們稱之為概化谷。具體來說，此現象揭示了一個臨界閾值，稱為臨界複雜度，在該閾值下對不可概化的行為的依賴達到高峰，表示 LLM 概化能力的上限。隨著模型規模的增加，臨界複雜度會轉移到更高的任務複雜度層級，這表明在過度依賴記憶力之前，較大的模型可以處理更複雜的推理任務。利用 Scylla 和臨界複雜度的概念，我們對 28 個 LLM 進行了基準測試，包括開放原始碼模型（例如 LLaMA 和 Qwen 家族）和封閉原始碼模型（例如 Claude 和 GPT），提供更強健的評估，並建立對 LLM 概化能力的更清晰理解。</paragraph>
+摘要：儘管大型語言模型 (LLM) 在理解複雜查詢和執行精細任務方面展現出非凡的能力，但其泛化能力通常與記憶力緊密相連，因而需要更精確的評估。為了應對這項挑戰，我們引入了 Scylla，一個動態評估架構，用於量化衡量 LLM 的泛化能力。Scylla 透過評估模型在分佈內 (ID) 和分佈外 (OOD) 資料上的效能，在 5 個複雜度層級中執行 20 項任務，從而將泛化與記憶力區分開來。透過廣泛的實驗，我們發現任務複雜度與 ID 資料和 OOD 資料之間的效能差距之間存在非單調關係，我們稱之為泛化谷。具體來說，這種現象揭示了一個臨界閾值，稱為臨界複雜度，在該閾值上對不可泛化的行為的依賴達到高峰，表明 LLM 泛化能力的上限。隨著模型規模的增加，臨界複雜度轉移到更高的任務複雜度層級，這表明在過度依賴記憶力之前，較大的模型可以處理更複雜的推理任務。利用 Scylla 和臨界複雜度的概念，我們對 28 個 LLM 進行基準測試，包括開放原始碼模型（例如 LLaMA 和 Qwen 系列），以及封閉原始碼模型（例如 Claude 和 GPT），提供更穩健的評估，並更清楚地了解 LLM 的泛化能力。
 
-##### **LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**
-2410.01744v1 by Mengzhao Jia, Wenhao Yu, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu
+##### **Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**
+2410.01744v2 by Mengzhao Jia, Wenhao Yu, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu
 
 Text-rich images, where text serves as the central visual element guiding the
 overall understanding, are prevalent in real-world applications, such as
@@ -390,7 +390,7 @@ the importance of these scenarios, current multimodal large language models
 (MLLMs) struggle to handle such tasks due to two key challenges: (1) the
 scarcity of high-quality instruction tuning datasets for text-rich multi-image
 scenarios, and (2) the difficulty in balancing image resolution with visual
-feature sequence length. To address these challenges, we propose \OurMethod, a
+feature sequence length. To address these challenges, we propose Leopard, a
 MLLM designed specifically for handling vision-language tasks involving
 multiple text-rich images. First, we curated about one million high-quality
 multimodal instruction-tuning data, tailored to text-rich, multi-image
@@ -401,7 +401,7 @@ Experiments across a wide range of benchmarks demonstrate our model's superior
 capabilities in text-rich, multi-image evaluations and competitive performance
 in general domain evaluations.
 
-摘要：文字豐富的影像，其中文字作為引導整體理解的中心視覺元素，在真實世界的應用中很常見，例如簡報投影片、掃描文件和網頁截圖。涉及多個文字豐富影像的任務特別具有挑戰性，因為它們不僅需要理解個別影像的內容，還要推理跨多個視覺輸入的相互關係和邏輯流程。儘管這些情境很重要，但目前的模態大型語言模型 (MLLM) 由於兩個主要挑戰而難以處理此類任務：(1) 針對文字豐富的多影像情境的高品質指令調整資料集的稀缺性，以及 (2) 平衡影像解析度與視覺特徵序列長度的難度。為了應對這些挑戰，我們提出了 \OurMethod，一種專門設計用於處理涉及多個文字豐富影像的視覺語言任務的 MLLM。首先，我們策劃了約一百萬筆高品質的多模態指令調整資料，針對文字豐富的多影像情境量身打造。其次，我們開發了一個適應性高解析度多影像編碼模組，以根據輸入影像的原始長寬比和解析度動態最佳化視覺序列長度的配置。在廣泛的基準測試中的實驗證明了我們的模型在文字豐富的多影像評估中具有優異的能力，並且在一般領域評估中具有競爭力的效能。
+摘要：文字豐富的圖片，其中文字作為引導整體理解的核心視覺元素，在現實世界的應用中很普遍，例如簡報投影片、掃描文件和網頁截圖。涉及多個文字豐富圖片的任務特別具有挑戰性，因為它們不僅需要理解個別圖片的內容，還要推理多個視覺輸入之間的相互關係和邏輯流。儘管這些場景很重要，但目前的模態大型語言模型 (MLLM) 由於兩個主要挑戰而難以處理此類任務：(1) 針對文字豐富的多圖片場景缺乏高品質的指令調整資料集，以及 (2) 難以平衡圖片解析度與視覺特徵序列長度。為了應對這些挑戰，我們提出了 Leopard，一種專門為處理涉及多個文字豐富圖片的視覺語言任務而設計的 MLLM。首先，我們策劃了約一百萬個高品質的多模態指令調整資料，針對文字豐富的多圖片場景量身打造。其次，我們開發了一個適應性高解析度多圖片編碼模組，根據輸入圖片的原始長寬比和解析度動態最佳化視覺序列長度的配置。在廣泛的基準測試中進行的實驗證明了我們的模型在文字豐富的多圖片評估中具有優異的能力，並且在一般領域評估中具有競爭力的效能。
 
 ##### **Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**
 2410.01739v1 by Xingrui Gu, Guanren Qiao, Chuyi Jiang, Tianqing Xia, Hangyu Mao
@@ -1524,7 +1524,7 @@ under a commercially permissive license.
 摘要：數學推理仍然是大語言模型 (LLM) 開發中的一項關鍵挑戰，並引起極大的興趣。然而，由於無法取得訓練資料，LLM 中數學推理的大部分尖端進展已成為「封閉原始碼」。這種資料取得的缺乏限制了研究人員了解不同選擇對綜合和利用資料的影響。為了建立一個高品質的數學推理微調 (SFT) 資料集，我們使用最近發布的 \texttt{Llama3.1} 模型家族對資料合成進行仔細的消融實驗。我們的實驗顯示：(a) 解答格式很重要，過於冗長的解答會對 SFT 效能造成不利影響，(b) 由強教師產生的資料優於由弱學生模型產生的「on-policy」資料，(c) SFT 對低品質的解答具有穩健性，允許不精確的資料過濾，以及 (d) 問題的多樣性對於達成資料擴充收益至關重要。根據這些見解，我們建立了 OpenMathInstruct-2 資料集，其中包含 1400 萬個問題解答配對（約 60 萬個獨特問題），使其規模幾乎是先前最大的開放原始碼數學推理資料集的八倍。使用 OpenMathInstruct-2 微調 \texttt{Llama-3.1-8B-Base} 在 MATH 上的表現優於 \texttt{Llama3.1-8B-Instruct} 絕對 15.9% (51.9% → 67.8%)。最後，為了加速開放原始碼的努力，我們在商業許可下發布了程式碼、微調模型和 OpenMathInstruct-2 資料集。
 
 ##### **Integrative Decoding: Improve Factuality via Implicit Self-consistency**
-2410.01556v1 by Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong
+2410.01556v2 by Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong
 
 Self-consistency-based approaches, which involve repeatedly sampling multiple
 outputs and selecting the most consistent one as the final response, prove to
@@ -1543,7 +1543,7 @@ range of language models, with substantial improvements on the TruthfulQA
 gains amplify progressively as the number of sampled responses increases,
 indicating the potential of ID to scale up with repeated sampling.
 
-摘要：基於自洽性的方法，其涉及重複取樣多個輸出並選出最一致的輸出作為最終回應，已被證實對於提升大型語言模型的事實準確性非常有效。儘管如此，現有方法通常對於任務格式有嚴格的限制，這大幅限制了其適用性。在本文中，我們提出整合式解碼 (ID)，以解鎖自洽性在開放式生成任務中的潛力。ID 的運作方式是建構一組輸入，每個輸入都以先前取樣過的回應為前綴，然後同時處理它們，並在每個解碼步驟中透過彙總所有對應預測來選擇下一個符號。實質上，這種簡單的方法在解碼目標中隱含地納入了自洽性。廣泛的評估顯示，ID 持續提升各種語言模型的事實性，在 TruthfulQA (+11.2%)、Biographies (+15.4%) 和 LongFact (+8.5%) 基準上都有顯著的改進。隨著取樣回應數量的增加，效能增益會逐漸擴大，這表示 ID 具備透過重複取樣來擴充的潛力。
+摘要：基於自我一致性的方法，涉及重複取樣多個輸出並選出最一致的一個作為最終回應，證明在改善大型語言模型的事實準確性方面顯著有效。儘管如此，現有方法通常對任務格式有嚴格的限制，在很大程度上限制了它們的適用性。在本文中，我們提出整合式解碼 (ID)，以發揮自我一致性在開放式生成任務中的潛力。ID 的運作方式是構造一組輸入，每個輸入都以先前取樣的回應為前綴，然後並行處理它們，並在每個解碼步驟中通過彙總它們所有對應的預測來選擇下一個符號。從本質上講，這種簡單的方法隱式地將自我一致性納入解碼目標。廣泛的評估表明，ID 在各種語言模型中始終增強了事實性，在 TruthfulQA (+11.2%)、Biographies (+15.4%) 和 LongFact (+8.5%) 基準上有了顯著的改進。隨著取樣回應數量的增加，性能增益逐漸放大，表明 ID 有可能通過重複取樣進行擴展。
 
 ##### **ACE: A LLM-based Negotiation Coaching System**
 2410.01555v1 by Ryan Shea, Aymen Kallala, Xin Lucy Liu, Michael W. Morris, Zhou Yu
@@ -1773,7 +1773,7 @@ in-domain and out-of-domain data.
 摘要：情境學習 (ICL) 已成為自然語言處理中不可或缺的一部分，特別是具備從提示中提供的示範中學習能力的自迴歸大型語言模型。然而，ICL 在穩定性和長情境中面臨挑戰，特別是在示範數量增加時，導致概化不良和推論效率低落。為了解決這些問題，我們引入了 STICL（自訓練 ICL），一種透過自訓練將示範的潛在轉移與查詢的潛在轉移解開的方法。STICL 使用教師模型來產生偽標籤，並使用這些標籤訓練學生模型，這些標籤編碼在適配器模組中。學生模型表現出從弱到強的概化能力，隨著時間推移逐漸改善其預測。我們的實證結果顯示，STICL 改善了概化能力和穩定性，在領域內和領域外資料中持續優於傳統的 ICL 方法和其他解開策略。
 
 ##### **LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**
-2410.01506v1 by Dexuan Ding, Lei Wang, Liyun Zhu, Tom Gedeon, Piotr Koniusz
+2410.01506v2 by Dexuan Ding, Lei Wang, Liyun Zhu, Tom Gedeon, Piotr Koniusz
 
 In computer vision tasks, features often come from diverse representations,
 domains, and modalities, such as text, images, and videos. Effectively fusing
@@ -1794,7 +1794,22 @@ demonstrate the effectiveness of our graph-based fusion method on video anomaly
 detection, showing strong performance across multi-representational,
 multi-modal, and multi-domain feature fusion tasks.
 
-摘要：在计算机视觉任务中，特征通常来自不同的表示、领域和模态，例如文本、图像和视频。有效融合这些特征对于稳健的性能至关重要，尤其是在具有强大的预训练模型（如视觉语言模型）的情况下。然而，常见的融合方法，如串联、逐元素运算和非线性技术，通常无法捕捉结构关系、深度特征交互，并且在跨域特征上效率低下或未对齐。在本文中，我们从高维特征空间转移到低维的可解释图空间，通过构建相似性图来对不同级别的特征关系进行编码，例如剪辑、帧、块、标记等。为了捕捉更深层次的交互，我们使用图幂展开并引入一个可学习的图融合算子来组合这些图幂以实现更有效的融合。我们的方法以关系为中心，在同构空间中操作，并且具有数学原理，类似于通过多线性多项式进行逐元素相似性分数聚合。我们在视频异常检测中展示了基于图的融合方法的有效性，在多表示、多模态和多域特征融合任务中显示出强大的性能。
+摘要：<paragraph>在電腦視覺任務中，特徵通常來自不同的表示、
+領域和模式，例如文字、影像和影片。有效融合
+這些特徵對於強健的效能至關重要，特別是在
+具備強大預訓練模型（例如視覺語言模型）的情況下。
+然而，常見的融合方法，例如串接、逐元素運算，
+和非線性技術，通常無法捕捉結構關係、深度
+特徵互動，並且會受到非效率或特徵在不同領域中未對齊的影響。在本文中，我們從高維特徵空間轉移到
+低維、可解釋的圖形空間，透過建構相似性
+圖形來編碼不同層級的特徵關係，例如剪輯、
+影格、貼片、標記等。為了捕捉更深入的互動，我們使用圖形冪
+展開，並引入可學習的圖形融合運算子，以結合這些
+圖形冪，以實現更有效的融合。我們的做法以關係為中心，
+在同質空間中運作，並且具有數學原理，類似於
+透過多線性多項式進行逐元素相似度分數聚合。我們
+在影片異常偵測中展示了基於圖形的融合方法的有效性，在多表示、
+多模式和多領域特徵融合任務中展現強大的效能。</paragraph>
 
 ##### **PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**
 2410.01504v1 by Jing Luo, Run Luo, Longze Chen, Liang Zhu, Chang Ao, Jiaming Li, Yukun Chen, Xin Cheng, Wen Yang, Jiayuan Su, Chengming Li, Min Yang
@@ -1870,7 +1885,7 @@ https://github.com/MeCuping/DLP-LoRA.
 摘要：大型語言模型 (LLM) 的最新進展在各種任務中都取得了穩健的表現，但針對特定領域微調這些模型仍然需要大量資源。參數高效微調 (PEFT) 方法（例如低秩適應 (LoRA)）透過微調一小部分參數來解決這個挑戰。然而，現有的融合多個 LoRA 的方法缺乏基於上下文輸入的動態融合，並且由於代碼級別操作，通常會增加推論時間。我們提出 DLP-LoRA，這是一個動態輕量級外掛程式，它使用僅有 5M 參數的 mini-MLP 模組，以使用 top-p 抽樣策略在句子層級動態融合多個 LoRA。此方法透過利用並行運算，將推論時間減少到不到單一 LoRA 推論時間的兩倍。在 26 項任務（包括多選題和問答）中的評估證明，DLP-LoRA 在多選題資料集上達到了 92.34% 的平均準確度，並且在 QA 資料集上 BLEU 和 ROUGE 分數有顯著提升，在複合任務設定下優於不同的 LLM 主幹。DLP-LoRA 有效地平衡了效能和效率，使其成為 LLM 中動態多任務適應的實用解決方案。我們的程式碼可在 https://github.com/MeCuping/DLP-LoRA 取得。
 
 ##### **Extending Context Window of Large Language Models from a Distributional Perspective**
-2410.01490v1 by Yingsheng Wu. Yuxuan Gu, Xiaocheng Feng, Weihong Zhong, Dongliang Xu, Qing Yang, Hongtao Liu, Bing Qin
+2410.01490v2 by Yingsheng Wu, Yuxuan Gu, Xiaocheng Feng, Weihong Zhong, Dongliang Xu, Qing Yang, Hongtao Liu, Bing Qin
 
 Scaling the rotary position embedding (RoPE) has become a common method for
 extending the context window of RoPE-based large language models (LLMs).
@@ -1893,8 +1908,8 @@ performance on the Hugging Face Open LLM benchmark after context window
 extension, with only an average performance fluctuation ranging from -0.12 to
 +0.22.
 
-摘要：<paragraph>擴展旋轉位置嵌入 (RoPE) 已成為擴展基於 RoPE 的大型語言模型 (LLM) 的上下文視窗的常見方法。
-然而，現有的擴展方法通常依賴於經驗方法，並且缺乏對 RoPE 內部分佈的深入理解，導致在擴展上下文視窗長度時性能不佳。在本文中，我們建議從旋轉角度分佈的角度優化上下文視窗擴展任務。具體來說，我們首先估計模型中旋轉角度的分佈，並分析長度擴展擾動此分佈的程度。然後，我們提出了一種新的擴展策略，將旋轉角度分佈之間的擾動最小化，以保持與預訓練階段的一致性，增強模型對更長序列的泛化能力。與強基線方法相比的實驗結果表明，我們的模型在將 LLaMA2 的上下文視窗擴展到 8k 時減少了高達 72% 的分佈擾動，在擴展到 16k 時減少了高達 32%。在 LongBench-E 基準測試中，我們的模型比現有的最先進方法平均提高了 4.33%。此外，我們的模型在上下文視窗擴展後在 Hugging Face Open LLM 基準測試中保持了模型的性能，平均性能波動僅在 -0.12 到 +0.22 之間。</paragraph>
+摘要：<paragraph>擴展旋轉位置嵌入（RoPE）已成為擴展基於 RoPE 的大型語言模型（LLM）的上下文視窗的常用方法。
+然而，現有的擴展方法通常依賴於經驗方法，並且缺乏對 RoPE 內部分佈的深刻理解，導致在擴展上下文視窗長度時性能不佳。在本文中，我們提出從旋轉角度分佈的角度來優化上下文視窗擴展任務。具體來說，我們首先估計模型中旋轉角度的分佈，並分析長度擴展擾動此分佈的程度。然後，我們提出了一種新的擴展策略，將旋轉角度分佈之間的擾動最小化，以保持與預訓練階段的一致性，增強模型對更長序列的泛化能力。與強大的基線方法相比，實驗結果表明，當將 LLaMA2 的上下文視窗擴展到 8k 時，我們的做法將分佈擾動減少了 72%，當擴展到 16k 時，減少了 32%。在 LongBench-E 基準測試中，我們的做法比現有的最先進方法平均提高了 4.33%。此外，我們的做法在上下文視窗擴展後，保持了模型在 Hugging Face Open LLM 基準測試中的性能，平均性能波動範圍僅為 -0.12 至 +0.22。</paragraph>
 
 ##### **Small Language Models Like Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas**
 2410.01487v1 by Bastian Bunzeck, Daniel Duran, Leonie Schade, Sina Zarrieß

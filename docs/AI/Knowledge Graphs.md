@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-04**|**Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing**|Jeongwoo Kang et.al.|[2410.03357v1](http://arxiv.org/abs/2410.03357v1)|null|
+|**2024-10-04**|**Enriching Ontologies with Disjointness Axioms using Large Language Models**|Elias Crum et.al.|[2410.03235v1](http://arxiv.org/abs/2410.03235v1)|[link](https://github.com/n28div/llm-disjointness)|
+|**2024-10-03**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**|Zhenxiao Fu et.al.|[2410.02950v1](http://arxiv.org/abs/2410.02950v1)|null|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
 |**2024-10-03**|**A Schema-aware Logic Reformulation for Graph Reachability**|Davide Di Pierro et.al.|[2410.02533v1](http://arxiv.org/abs/2410.02533v1)|null|
 |**2024-10-03**|**Language Models are Graph Learners**|Zhe Xu et.al.|[2410.02296v1](http://arxiv.org/abs/2410.02296v1)|null|
@@ -36,6 +39,7 @@
 |**2024-09-23**|**KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems**|Zixuan Wang et.al.|[2409.14908v1](http://arxiv.org/abs/2409.14908v1)|null|
 |**2024-09-23**|**End-to-End Graph Flattening Method for Large Language Models**|Bin Hong et.al.|[2409.14880v1](http://arxiv.org/abs/2409.14880v1)|null|
 |**2024-09-22**|**RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph**|Linxi Wei et.al.|[2409.14556v1](http://arxiv.org/abs/2409.14556v1)|null|
+|**2024-09-22**|**SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs**|Hanzhu Chen et.al.|[2410.02811v1](http://arxiv.org/abs/2410.02811v1)|null|
 |**2024-09-21**|**Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature**|Linxiao Wu et.al.|[2409.14000v1](http://arxiv.org/abs/2409.14000v1)|null|
 |**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537v1](http://arxiv.org/abs/2409.13537v1)|[link](https://github.com/zaiwen/cropgpt)|
 |**2024-09-20**|**LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR**|Iuliia Thorbecke et.al.|[2409.13514v1](http://arxiv.org/abs/2409.13514v1)|null|
@@ -98,12 +102,75 @@
 |**2024-09-04**|**Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification**|Junyoung Lee et.al.|[2409.02481v1](http://arxiv.org/abs/2409.02481v1)|null|
 |**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389v1](http://arxiv.org/abs/2409.02389v1)|null|
 |**2024-09-02**|**Grounding Language Models in Autonomous Loco-manipulation Tasks**|Jin Wang et.al.|[2409.01326v1](http://arxiv.org/abs/2409.01326v1)|null|
-|**2024-09-02**|**LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning**|Haoran Yang et.al.|[2409.01145v1](http://arxiv.org/abs/2409.01145v1)|null|
-|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861v1](http://arxiv.org/abs/2409.00861v1)|[link](https://github.com/kramerlab/4StepFocus)|
-|**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830v1](http://arxiv.org/abs/2409.00830v1)|null|
-|**2024-09-01**|**Hound: Hunting Supervision Signals for Few and Zero Shot Node Classification on Text-attributed Graph**|Yuxiang Wang et.al.|[2409.00727v1](http://arxiv.org/abs/2409.00727v1)|null|
 
 #### Abstracts
+##### **Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing**
+2410.03357v1 by Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab
+
+Cross-lingual AMR parsing is the task of predicting AMR graphs in a target
+language when training data is available only in a source language. Due to the
+small size of AMR training data and evaluation data, cross-lingual AMR parsing
+has only been explored in a small set of languages such as English, Spanish,
+German, Chinese, and Italian. Taking inspiration from Langedijk et al. (2022),
+who apply meta-learning to tackle cross-lingual syntactic parsing, we
+investigate the use of meta-learning for cross-lingual AMR parsing. We evaluate
+our models in $k$-shot scenarios (including 0-shot) and assess their
+effectiveness in Croatian, Farsi, Korean, Chinese, and French. Notably, Korean
+and Croatian test sets are developed as part of our work, based on the existing
+The Little Prince English AMR corpus, and made publicly available. We
+empirically study our method by comparing it to classical joint learning. Our
+findings suggest that while the meta-learning model performs slightly better in
+0-shot evaluation for certain languages, the performance gain is minimal or
+absent when $k$ is higher than 0.
+
+摘要：跨語言 AMR 解析是一項任務，在僅在源語言中提供訓練資料時，預測目標語言中的 AMR 圖形。由於 AMR 訓練資料和評估資料的規模很小，因此跨語言 AMR 解析僅在少數語言中進行過探索，例如英語、西班牙語、德語、中文和義大利語。受到 Langedijk 等人 (2022) 的啟發，他們應用元學習來處理跨語言句法解析，我們研究了使用元學習進行跨語言 AMR 解析。我們在 $k$-shot 場景（包括 0-shot）中評估我們的模型，並評估它們在克羅埃西亞語、波斯語、韓語、中文和法語中的有效性。值得注意的是，韓語和克羅埃西亞語測試集是根據現有的《小王子》英語 AMR 語料庫開發的，並公開提供。我們通過將我們的模型與傳統聯合學習進行比較，對我們的模型進行實證研究。我們的研究結果表明，雖然元學習模型在某些語言的 0-shot 評估中表現略好，但是當 $k$ 高於 0 時，效能提升很小或沒有。
+
+##### **Enriching Ontologies with Disjointness Axioms using Large Language Models**
+2410.03235v1 by Elias Crum, Antonio De Santis, Manon Ovide, Jiaxin Pan, Alessia Pisu, Nicolas Lazzari, Sebastian Rudolph
+
+Ontologies often lack explicit disjointness declarations between classes,
+despite their usefulness for sophisticated reasoning and consistency checking
+in Knowledge Graphs. In this study, we explore the potential of Large Language
+Models (LLMs) to enrich ontologies by identifying and asserting class
+disjointness axioms. Our approach aims at leveraging the implicit knowledge
+embedded in LLMs, using prompt engineering to elicit this knowledge for
+classifying ontological disjointness. We validate our methodology on the
+DBpedia ontology, focusing on open-source LLMs. Our findings suggest that LLMs,
+when guided by effective prompt strategies, can reliably identify disjoint
+class relationships, thus streamlining the process of ontology completion
+without extensive manual input. For comprehensive disjointness enrichment, we
+propose a process that takes logical relationships between disjointness and
+subclass statements into account in order to maintain satisfiability and reduce
+the number of calls to the LLM. This work provides a foundation for future
+applications of LLMs in automated ontology enhancement and offers insights into
+optimizing LLM performance through strategic prompt design. Our code is
+publicly available on GitHub at https://github.com/n28div/llm-disjointness.
+
+摘要：本体論通常缺乏類別之間明確的不相交聲明，儘管它們對於知識圖譜中的精密推理和一致性檢查很有用。在本研究中，我們探討了大型語言模型 (LLM) 的潛力，通過識別和斷言類別不相交公理來豐富本体論。我們的做法旨在利用嵌入在 LLM 中的隱式知識，利用提示工程來引出這種知識以分類本体論不相交。我們在 DBpedia 本体論上驗證了我們的方法，重點關注開源 LLM。我們的研究結果表明，LLM 在有效提示策略的指導下，可以可靠地識別不相交類別關係，從而簡化本体論完成過程，而無需大量手動輸入。對於全面的不相交豐富，我們提出了一個過程，該過程考慮了不相交和子類別陳述之間的邏輯關係，以維持可滿足性並減少對 LLM 的調用次數。這項工作為 LLM 在自動本体論增強中的未來應用奠定了基礎，並提供了通過策略提示設計優化 LLM 性能的見解。我們的代碼在 GitHub 上公開，網址為 https://github.com/n28div/llm-disjointness。
+
+##### **LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**
+2410.02950v1 by Zhenxiao Fu, Fan Chen, Shan Zhou, Haitong Li, Lei Jiang
+
+Throughout its lifecycle, a large language model (LLM) generates a
+substantially larger carbon footprint during inference than training. LLM
+inference requests vary in batch size, prompt length, and token generation
+number, while cloud providers employ different GPU types and quantities to meet
+diverse service-level objectives for accuracy and latency. It is crucial for
+both users and cloud providers to have a tool that quickly and accurately
+estimates the carbon impact of LLM inferences based on a combination of
+inference request and hardware configurations before execution. Estimating the
+carbon footprint of LLM inferences is more complex than training due to lower
+and highly variable model FLOPS utilization, rendering previous equation-based
+models inaccurate. Additionally, existing machine learning (ML) prediction
+methods either lack accuracy or demand extensive training data, as they
+inadequately handle the distinct prefill and decode phases, overlook
+hardware-specific features, and inefficiently sample uncommon inference
+configurations. We introduce \coo, a graph neural network (GNN)-based model
+that greatly improves the accuracy of LLM inference carbon footprint
+predictions compared to previous methods.
+
+摘要：在整個生命週期中，大型語言模型 (LLM) 在推理期間產生的碳足跡遠大於訓練期間。LLM 推理請求在批次大小、提示長度和權杖生成數量方面有所不同，而雲端供應商採用不同的 GPU 類型和數量來滿足準確性和延遲的各種服務層級目標。對於使用者和雲端供應商來說，在執行前根據推理請求和硬體配置組合快速且準確地估計 LLM 推理的碳影響至關重要。估計 LLM 推理的碳足跡比訓練更複雜，因為模型 FLOPS 利用率較低且變化很大，導致先前的基於方程式的模型不準確。此外，現有的機器學習 (ML) 預測方法要么缺乏準確性，要么需要大量的訓練資料，因為它們無法充分處理不同的預填充和解碼階段，忽略硬體特定的功能，並且低效率地取樣不常見的推理配置。我們引入了 \coo，這是一個基於圖神經網路 (GNN) 的模型，與先前的模型相比，它大大提高了 LLM 推理碳足跡預測的準確性。
+
 ##### **Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**
 2410.02721v1 by Ryan C. Barron, Ves Grantcharov, Selma Wanna, Maksim E. Eren, Manish Bhattarai, Nicholas Solovyev, George Tompkins, Charles Nicholas, Kim Ø. Rasmussen, Cynthia Matuszek, Boian S. Alexandrov
 
@@ -933,6 +1000,30 @@ Our experiments show that RACOON achieves up to a 0.21 micro F-1 improvement
 compared against vanilla LLM inference.
 
 摘要：作為資料探勘與整合的重要組成部分，欄位類型註解 (CTA) 的目標是使用一個或多個語意類型標記表格欄位。隨著大型語言模型 (LLM) 的近期發展，研究人員已開始探討使用 LLM 來進行 CTA 的可能性，並利用其強大的零次學習能力。在本文中，我們建立在這個有前景的研究上，並透過展示如何使用知識圖譜 (KG) 來擴充提供給 LLM 的脈絡資訊，進而改善基於 LLM 的 CTA 方法。我們的方法稱為 RACOON，它在生成過程中結合預先訓練的參數式和非參數式知識，以改善 LLM 在 CTA 上的效能。我們的實驗顯示，與純粹的 LLM 推論相比，RACOON 在微型 F-1 上的進步高達 0.21。
+
+##### **SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs**
+2410.02811v1 by Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye
+
+Knowledge graphs (KGs) play a pivotal role in knowledge-intensive tasks
+across specialized domains, where the acquisition of precise and dependable
+knowledge is crucial. However, existing KG construction methods heavily rely on
+human intervention to attain qualified KGs, which severely hinders the
+practical applicability in real-world scenarios. To address this challenge, we
+propose a general KG construction framework, named SAC-KG, to exploit large
+language models (LLMs) as Skilled Automatic Constructors for domain Knowledge
+Graph. SAC-KG effectively involves LLMs as domain experts to generate
+specialized and precise multi-level KGs. Specifically, SAC-KG consists of three
+components: Generator, Verifier, and Pruner. For a given entity, Generator
+produces its relations and tails from raw domain corpora, to construct a
+specialized single-level KG. Verifier and Pruner then work together to ensure
+precision by correcting generation errors and determining whether newly
+produced tails require further iteration for the next-level KG.Experiments
+demonstrate that SAC-KG automatically constructs a domain KG at the scale of
+over one million nodes and achieves a precision of 89.32%, leading to a
+superior performance with over 20% increase in precision rate compared to
+existing state-of-the-art methods for the KG construction task.
+
+摘要：知識圖譜 (KG) 在專業領域中扮演著關鍵角色，在這些領域中，取得精確且可靠的知識至關重要。然而，現有的 KG 建構方法嚴重依賴人工介入才能獲得合格的 KG，這嚴重阻礙了在實際場景中的實用性。為了應對這項挑戰，我們提出了一個通用的 KG 建構架構，名為 SAC-KG，以利用大型語言模型 (LLM) 作為專業的自動建構器，用於領域知識圖譜。SAC-KG 有效地將 LLM 視為領域專家，以產生專業且精確的多層級 KG。具體來說，SAC-KG 包含三個組成部分：生成器、驗證器和修剪器。對於給定的實體，生成器會從原始領域語料庫中產生其關係和尾部，以建構專業的單層級 KG。然後，驗證器和修剪器會共同確保精確性，方法是更正產生錯誤並確定新產生的尾部是否需要進一步迭代以用於下一層級的 KG。實驗證明，SAC-KG 自動建構了一個規模超過一百萬個節點的領域 KG，並達到了 89.32% 的精確度，與現有的 KG 建構任務的最新方法相比，精確度提高了 20% 以上，表現優異。
 
 ##### **Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature**
 2409.14000v1 by Linxiao Wu, Yuanshuai Luo, Binrong Zhu, Guiran Liu, Rui Wang, Qian Yu
@@ -2433,105 +2524,4 @@ tasks, demonstrating high autonomy from free-text commands in unstructured
 scenes.
 
 摘要：具有行為自主權的人形機器人一直被視為我們日常生活中理想的合作者，也是具體智能的有希望的代表。與固定式機器手臂相比，人形機器人提供了更大的操作空間，同時顯著增加了控制和規劃的難度。儘管朝著通用人形機器人快速發展，但大多數研究仍然集中在運動能力上，很少研究全身協調和任務規劃，從而限制了展示涉及移動和操作的長期任務的潛力，同時還能接受開放式口頭指令。在這項工作中，我們提出了一個新的框架，該框架可以根據不同場景中的任務學習、選擇和規劃行為。我們將強化學習 (RL) 與全身優化相結合，以生成機器人動作並將其存儲到動作庫中。我們進一步利用大型語言模型 (LLM) 的規劃和推理功能，構建了一個分層任務圖，其中包含一系列運動原語，以橋接低級執行和高級規劃。在模擬和使用 CENTAURO 機器人的現實世界中的實驗表明，基於語言模型的規劃器可以有效適應新的運動操作任務，證明了在非結構化場景中從自由文本命令中獲得的高度自主性。
-
-##### **LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning**
-2409.01145v1 by Haoran Yang, Xiangyu Zhao, Sirui Huang, Qing Li, Guandong Xu
-
-Graph Contrastive Learning (GCL) is a potent paradigm for self-supervised
-graph learning that has attracted attention across various application
-scenarios. However, GCL for learning on Text-Attributed Graphs (TAGs) has yet
-to be explored. Because conventional augmentation techniques like feature
-embedding masking cannot directly process textual attributes on TAGs. A naive
-strategy for applying GCL to TAGs is to encode the textual attributes into
-feature embeddings via a language model and then feed the embeddings into the
-following GCL module for processing. Such a strategy faces three key
-challenges: I) failure to avoid information loss, II) semantic loss during the
-text encoding phase, and III) implicit augmentation constraints that lead to
-uncontrollable and incomprehensible results. In this paper, we propose a novel
-GCL framework named LATEX-GCL to utilize Large Language Models (LLMs) to
-produce textual augmentations and LLMs' powerful natural language processing
-(NLP) abilities to address the three limitations aforementioned to pave the way
-for applying GCL to TAG tasks. Extensive experiments on four high-quality TAG
-datasets illustrate the superiority of the proposed LATEX-GCL method. The
-source codes and datasets are released to ease the reproducibility, which can
-be accessed via this link: https://anonymous.4open.science/r/LATEX-GCL-0712.
-
-摘要：圖形對比學習 (GCL) 是自監督圖形學習的強大範例，已在各種應用場景中引起關注。然而，GCL 對於在文本註解圖形 (TAG) 上學習尚未被探討。因為特徵嵌入遮罩等傳統擴充技術無法直接處理 TAG 上的文本屬性。將 GCL 應用於 TAG 的一種天真策略是通過語言模型將文本屬性編碼到特徵嵌入中，然後將嵌入輸入後續的 GCL 模組進行處理。這種策略面臨三個關鍵挑戰：I) 無法避免資訊遺失，II) 在文本編碼階段發生語義遺失，以及 III) 導致無法控制且難以理解結果的隱式擴充約束。在本文中，我們提出一個名為 LATEX-GCL 的新穎 GCL 框架，利用大型語言模型 (LLM) 來產生文本擴充，以及 LLM 強大的自然語言處理 (NLP) 能力來解決上述三個限制，為將 GCL 應用於 TAG 任務鋪平道路。在四個高品質 TAG 資料集上的大量實驗說明了所提出的 LATEX-GCL 方法的優越性。原始碼和資料集已發布以簡化可重製性，可透過此連結存取：https://anonymous.4open.science/r/LATEX-GCL-0712。
-
-##### **Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**
-2409.00861v1 by Derian Boer, Fabian Koch, Stefan Kramer
-
-Large Language Models (LLMs) frequently lack domain-specific knowledge and
-even fine-tuned models tend to hallucinate. Hence, more reliable models that
-can include external knowledge are needed. We present a pipeline, 4StepFocus,
-and specifically a preprocessing step, that can substantially improve the
-answers of LLMs. This is achieved by providing guided access to external
-knowledge making use of the model's ability to capture relational context and
-conduct rudimentary reasoning by themselves. The method narrows down
-potentially correct answers by triplets-based searches in a semi-structured
-knowledge base in a direct, traceable fashion, before switching to latent
-representations for ranking those candidates based on unstructured data. This
-distinguishes it from related methods that are purely based on latent
-representations. 4StepFocus consists of the steps: 1) Triplet generation for
-extraction of relational data by an LLM, 2) substitution of variables in those
-triplets to narrow down answer candidates employing a knowledge graph, 3)
-sorting remaining candidates with a vector similarity search involving
-associated non-structured data, 4) reranking the best candidates by the LLM
-with background data provided. Experiments on a medical, a product
-recommendation, and an academic paper search test set demonstrate that this
-approach is indeed a powerful augmentation. It not only adds relevant traceable
-background information from information retrieval, but also improves
-performance considerably in comparison to state-of-the-art methods. This paper
-presents a novel, largely unexplored direction and therefore provides a wide
-range of future work opportunities. Used source code is available at
-https://github.com/kramerlab/4StepFocus.
-
-摘要：大型語言模型 (LLM) 經常缺乏特定領域的知識，即使經過微調的模型也容易產生幻覺。因此，需要更多可靠的模型來納入外部知識。我們提出了一個流程 4StepFocus，特別是預處理步驟，可以大幅改善 LLM 的答案。這是透過提供受引導的外部知識存取，利用模型自行擷取關聯性脈絡和進行基本推理的能力來實現的。此方法透過在半結構化知識庫中進行基於三元組的搜尋，以直接且可追蹤的方式縮小潛在正確答案的範圍，然後再切換到潛在表徵，根據非結構化資料對這些候選答案進行排名。這與純粹基於潛在表徵的相關方法有所區別。4StepFocus 包含以下步驟：1) 由 LLM 進行三元組產生以擷取關聯資料，2) 在這些三元組中替換變數，以採用知識圖表縮小答案候選範圍，3) 使用涉及關聯非結構化資料的向量相似性搜尋對剩餘候選答案進行排序，4) 由 LLM 重新對最佳候選答案進行排名，並提供背景資料。在醫療、產品推薦和學術論文搜尋測試集中進行的實驗證明，這種方法確實是一種強大的擴充。它不僅增加了來自資訊檢索的相关可追蹤背景資訊，而且與最先進的方法相比，也大幅提升了效能。本文提出了一個新穎且鮮少探索的方向，因此提供了廣泛的未來工作機會。使用的原始碼可在 https://github.com/kramerlab/4StepFocus 取得。
-
-##### **Building FKG.in: a Knowledge Graph for Indian Food**
-2409.00830v1 by Saransh Kumar Gupta, Lipika Dey, Partha Pratim Das, Ramesh Jain
-
-This paper presents an ontology design along with knowledge engineering, and
-multilingual semantic reasoning techniques to build an automated system for
-assimilating culinary information for Indian food in the form of a knowledge
-graph. The main focus is on designing intelligent methods to derive ontology
-designs and capture all-encompassing knowledge about food, recipes,
-ingredients, cooking characteristics, and most importantly, nutrition, at
-scale. We present our ongoing work in this workshop paper, describe in some
-detail the relevant challenges in curating knowledge of Indian food, and
-propose our high-level ontology design. We also present a novel workflow that
-uses AI, LLM, and language technology to curate information from recipe blog
-sites in the public domain to build knowledge graphs for Indian food. The
-methods for knowledge curation proposed in this paper are generic and can be
-replicated for any domain. The design is application-agnostic and can be used
-for AI-driven smart analysis, building recommendation systems for Personalized
-Digital Health, and complementing the knowledge graph for Indian food with
-contextual information such as user information, food biochemistry, geographic
-information, agricultural information, etc.
-
-摘要：本文提出了一個知識工程和多語言語義推理技術的本体設計，用於建立一個自動化系統，以知識圖譜的形式吸收印度料理的烹飪資訊。重點在於設計智慧方法，以推導本体設計，並全面擷取關於食物、食譜、食材、烹飪特性，以及最重要的營養的知識，並擴大規模。我們在這個研討會論文中介紹了我們正在進行的工作，詳細描述了整理印度料理知識相關的挑戰，並提出了我們的高階本体設計。我們也提出了一種新的工作流程，它使用 AI、LLM 和語言技術，從公共領域的食譜部落格網站中整理資訊，以建立印度料理的知識圖譜。本文提出的知識整理方法是通用的，可以複製到任何領域。設計與應用無關，可用於 AI 驅動的智慧分析、建立個人化數位健康推薦系統，以及使用使用者資訊、食物生物化學、地理資訊、農業資訊等脈絡資訊，來補充印度料理的知識圖譜。
-
-##### **Hound: Hunting Supervision Signals for Few and Zero Shot Node Classification on Text-attributed Graph**
-2409.00727v1 by Yuxiang Wang, Xiao Yan, Shiyu Jin, Quanqing Xu, Chuanhui Yang, Yuanyuan Zhu, Chuang Hu, Bo Du, Jiawei Jiang
-
-Text-attributed graph (TAG) is an important type of graph structured data
-with text descriptions for each node. Few- and zero-shot node classification on
-TAGs have many applications in fields such as academia and social networks.
-However, the two tasks are challenging due to the lack of supervision signals,
-and existing methods only use the contrastive loss to align graph-based node
-embedding and language-based text embedding. In this paper, we propose Hound to
-improve accuracy by introducing more supervision signals, and the core idea is
-to go beyond the node-text pairs that come with data. Specifically, we design
-three augmentation techniques, i.e., node perturbation, text matching, and
-semantics negation to provide more reference nodes for each text and vice
-versa. Node perturbation adds/drops edges to produce diversified node
-embeddings that can be matched with a text. Text matching retrieves texts with
-similar embeddings to match with a node. Semantics negation uses a negative
-prompt to construct a negative text with the opposite semantics, which is
-contrasted with the original node and text. We evaluate Hound on 5 datasets and
-compare with 13 state-of-the-art baselines. The results show that Hound
-consistently outperforms all baselines, and its accuracy improvements over the
-best-performing baseline are usually over 5%.
-
-摘要：文字属性圖 (TAG) 是一種重要的圖形結構化資料類型，其中每個節點都有文字描述。TAG 上的少樣本和零樣本節點分類在學術界和社交網路等領域有許多應用。然而，由於缺乏監督訊號，這兩個任務具有挑戰性，現有方法僅使用對比損失來對齊基於圖形節點的嵌入和基於語言的文字嵌入。在本文中，我們提出 Hound 來透過引入更多監督訊號來改善準確度，其核心思想是超越資料中附帶的節點文字對。具體來說，我們設計了三種擴充技術，即節點擾動、文字配對和語義否定，為每個文字提供更多參考節點，反之亦然。節點擾動新增/刪除邊緣以產生可以與文字配對的多樣化節點嵌入。文字配對擷取具有類似嵌入的文字以與節點配對。語義否定使用負面提示來建構具有相反語義的負面文字，與原始節點和文字形成對比。我們在 5 個資料集上評估 Hound，並與 13 個最先進的基線進行比較。結果表明，Hound 在所有基線上始終表現優異，其準確度通常比效能最佳的基線提高了 5% 以上。
 

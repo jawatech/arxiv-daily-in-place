@@ -14,7 +14,7 @@
 |**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742v1](http://arxiv.org/abs/2410.02742v1)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741v1](http://arxiv.org/abs/2410.02741v1)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|null|
-|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v1](http://arxiv.org/abs/2410.02736v1)|null|
+|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v2](http://arxiv.org/abs/2410.02736v2)|null|
 |**2024-10-03**|**Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**|Lara Laban et.al.|[2410.02732v1](http://arxiv.org/abs/2410.02732v1)|[link](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)|
 |**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730v1](http://arxiv.org/abs/2410.02730v1)|null|
 |**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729v1](http://arxiv.org/abs/2410.02729v1)|null|
@@ -23,7 +23,7 @@
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
 |**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720v1](http://arxiv.org/abs/2410.02720v1)|[link](https://github.com/IdanAchituve/DefRec_and_PCM)|
 |**2024-10-03**|**UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation**|Zixuan Li et.al.|[2410.02719v1](http://arxiv.org/abs/2410.02719v1)|null|
-|**2024-10-03**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713v1](http://arxiv.org/abs/2410.02713v1)|null|
+|**2024-10-03**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713v2](http://arxiv.org/abs/2410.02713v2)|null|
 |**2024-10-03**|**LLaVA-Critic: Learning to Evaluate Multimodal Models**|Tianyi Xiong et.al.|[2410.02712v1](http://arxiv.org/abs/2410.02712v1)|null|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710v1](http://arxiv.org/abs/2410.02710v1)|null|
 |**2024-10-03**|**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**|Hadas Orgad et.al.|[2410.02707v1](http://arxiv.org/abs/2410.02707v1)|[link](https://github.com/technion-cs-nlp/llmsknow)|
@@ -62,7 +62,7 @@
 |**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v1](http://arxiv.org/abs/2410.02592v1)|null|
 |**2024-10-03**|**Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions**|Angana Borah et.al.|[2410.02584v1](http://arxiv.org/abs/2410.02584v1)|[link](https://github.com/MichiganNLP/MultiAgent_ImplicitBias)|
 |**2024-10-03**|**Deep Regression 2D-3D Ultrasound Registration for Liver Motion Correction in Focal Tumor Thermal Ablation**|Shuwei Xing et.al.|[2410.02579v1](http://arxiv.org/abs/2410.02579v1)|[link](https://github.com/xingorno/deepregs2v)|
-|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko et.al.|[2410.02560v1](http://arxiv.org/abs/2410.02560v1)|null|
+|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko et.al.|[2410.02560v2](http://arxiv.org/abs/2410.02560v2)|null|
 |**2024-10-03**|**Improving Unsupervised Constituency Parsing via Maximizing Semantic Information**|Junjie Chen et.al.|[2410.02558v1](http://arxiv.org/abs/2410.02558v1)|null|
 |**2024-10-03**|**ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration**|Zixiang Wang et.al.|[2410.02551v1](http://arxiv.org/abs/2410.02551v1)|null|
 |**2024-10-03**|**Personalized Quantum Federated Learning for Privacy Image Classification**|Jinjing Shi et.al.|[2410.02547v1](http://arxiv.org/abs/2410.02547v1)|null|
@@ -88,7 +88,7 @@
 |**2024-10-03**|**Optimizing Adaptive Attacks against Content Watermarks for Language Models**|Abdulrahman Diaa et.al.|[2410.02440v1](http://arxiv.org/abs/2410.02440v1)|null|
 |**2024-10-03**|**Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization**|Mingyang Wang et.al.|[2410.02433v1](http://arxiv.org/abs/2410.02433v1)|null|
 |**2024-10-03**|**Predictive Attractor Models**|Ramy Mounir et.al.|[2410.02430v1](http://arxiv.org/abs/2410.02430v1)|null|
-|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429v1](http://arxiv.org/abs/2410.02429v1)|null|
+|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429v2](http://arxiv.org/abs/2410.02429v2)|null|
 |**2024-10-03**|**Collective Critics for Creative Story Generation**|Minwook Bae et.al.|[2410.02428v1](http://arxiv.org/abs/2410.02428v1)|[link](https://github.com/emnlp-2024-critics/collective-critics-for-creative-story-generation)|
 |**2024-10-03**|**Learning the Latent Rules of a Game from Data: A Chess Story**|Ben Fauber et.al.|[2410.02426v1](http://arxiv.org/abs/2410.02426v1)|null|
 |**2024-10-03**|**LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services**|Małgorzata Łazuka et.al.|[2410.02425v1](http://arxiv.org/abs/2410.02425v1)|null|
@@ -399,7 +399,7 @@ advancing the pre-training of multimodal foundation models.
 摘要：多模態模型的最新進展突顯了改寫字幕在提升效能方面的價值，但仍有重要的挑戰存在。例如，儘管合成字幕通常提供優異的品質和影像文字對齊，但目前尚不清楚它們是否能完全取代 AltText：合成字幕的角色及其與原始網路爬取的 AltText 在預訓練中的互動仍未被充分理解。此外，不同的多模態基礎模型可能對特定的字幕格式有獨特的偏好，但找出每個模型最佳字幕的努力仍然有限。在這項工作中，我們提出一個新穎、可控且可擴充的字幕處理程序，旨在產生針對各種多模態模型量身打造的不同字幕格式。透過檢視簡短合成字幕 (SSC) 到密集合成字幕 (DSC+) 作為案例研究，我們系統性地探討它們對 CLIP、多模態 LLM 和擴散模型等模型中 AltText 的影響和互動。我們的研究結果顯示，保留合成字幕和 AltText 的混合方法可以優於僅使用合成字幕，同時改善對齊和效能，每個模型都展現出對特定字幕格式的偏好。這項全面的分析提供了優化字幕策略的寶貴見解，從而推動多模態基礎模型的預訓練。
 
 ##### **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**
-2410.02736v1 by Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang
+2410.02736v2 by Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang
 
 LLM-as-a-Judge has been widely utilized as an evaluation method in various
 benchmarks and served as supervised rewards in model training. However, despite
@@ -417,7 +417,7 @@ of these biases and give some suggestions for the reliable application of
 LLM-as-a-Judge. Our work highlights the need for stakeholders to address these
 issues and remind users to exercise caution in LLM-as-a-Judge applications.
 
-摘要：LLM 作為評審已被廣泛用於各種基準的評估方法，並作為模型訓練中的監督獎勵。然而，儘管它們在許多領域表現優異，但潛在問題卻未被充分探討，這破壞了它們的可靠性和實用範圍。因此，我們找出 12 個潛在關鍵偏差，並提出一個新的自動偏差量化框架 CALM，它透過自動且以原則為導向的修改，系統性地量化和分析 LLM 作為評審中的每種類型偏差。我們的實驗涵蓋多種流行的語言模型，結果表明，儘管先進的模型已達到令人稱道的整體效能，但在某些特定任務中仍存在顯著的偏差。經驗結果表明，LLM 作為評審的可靠性仍有改進空間。此外，我們也討論這些偏差的明示和暗示影響，並針對 LLM 作為評審的可靠應用提出一些建議。我們的研究強調了利害關係人必須解決這些問題的必要性，並提醒使用者在 LLM 作為評審的應用中保持謹慎。
+摘要：LLM-as-a-Judge 已被广泛用作各種基準中的評估方法，並作為模型訓練中的監督獎勵。然而，儘管它們在許多領域表現出色，但潛在的問題卻未被充分探討，這損害了它們的可靠性和實用範圍。因此，我們識別出 12 個關鍵潛在偏差，並提出一個新的自動化偏差量化架構 CALM，它通過使用自動化和原則引導的修改來系統地量化和分析 LLM-as-a-Judge 中的每種類型偏差。我們的實驗涵蓋了多種流行的語言模型，結果表明，儘管先進的模型已經取得了令人稱道的整體表現，但在某些特定任務中仍然存在顯著的偏差。經驗結果表明，LLM-as-a-Judge 的可靠性仍有改進空間。此外，我們還討論了這些偏差的顯性和隱性影響，並對 LLM-as-a-Judge 的可靠應用提出了一些建議。我們的研究強調了利益相關者需要解決這些問題，並提醒用戶在 LLM-as-a-Judge 應用中保持謹慎。
 
 ##### **Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**
 2410.02732v1 by Lara Laban, Mariusz Wzorek, Piotr Rudol, Tommy Persson
@@ -627,7 +627,7 @@ need for fine-tuning, showcasing the flexibility of our approach.
 摘要：我們提出 UncertaintyRAG，一種針對長語境檢索增強生成 (RAG) 的新穎方法，它利用基於訊號雜訊比 (SNR) 的區間不確定性來估計文字區塊之間的相似性。此區間不確定性增強了模型校準，進而提升了穩健性並減輕了隨機區塊化所造成的語義不一致性。利用此見解，我們提出了一種有效的無監督學習技術來訓練檢索模型，並搭配有效的資料抽樣和擴充策略。UncertaintyRAG 在 LLaMA-2-7B 上優於基準 2.03%，在分佈轉移設定下僅使用 4% 的訓練資料便達成最先進的結果，與其他進階的開源檢索模型相比。我們的模型透過區間不確定性展現出強大的校準，進而提升長語境 RAG 任務中的概化能力和穩健性。此外，UncertaintyRAG 提供了一個輕量級的檢索模型，可以整合到任何具有不同語境視窗長度的大語言模型中，而無需微調，展現了我們方法的靈活性。
 
 ##### **Video Instruction Tuning With Synthetic Data**
-2410.02713v1 by Yuanhan Zhang, Jinming Wu, Wei Li, Bo Li, Zejun Ma, Ziwei Liu, Chunyuan Li
+2410.02713v2 by Yuanhan Zhang, Jinming Wu, Wei Li, Bo Li, Zejun Ma, Ziwei Liu, Chunyuan Li
 
 The development of video large multimodal models (LMMs) has been hindered by
 the difficulty of curating large amounts of high-quality raw data from the web.
@@ -641,7 +641,7 @@ LLaVA-Video achieves strong performance across various video benchmarks,
 highlighting the effectiveness of our dataset. We plan to release the dataset,
 its generation pipeline, and the model checkpoints.
 
-摘要：影片大型多模态模型 (LMM) 的发展受到从网络中整理大量高质量原始资料的困难度所阻碍。为了解决这个问题，我们提出一种替代方法，通过创建一个专门用于影片指令遵循的高质量合成数据集，即 LLaVA-Video-178K。此数据集包含详细说明、开放式问答 (QA) 和多项选择 QA 等关键任务。通过使用此数据集进行训练，结合现有的视觉指令调整数据，我们引入了 LLaVA-Video，一种新的影片 LMM。我们的实验表明，LLaVA-Video 在各种影片基准测试中均取得了强劲的性能，突显了我们数据集的有效性。我们计划发布数据集、其生成管道和模型检查点。
+摘要：影片大型多模态模型 (LMM) 的发展受到从网络中整理大量高质量原始数据的困难所阻碍。为了解决这个问题，我们提出一种替代方法，即创建高质量的合成数据集，专门用于影片指令遵循，即 LLaVA-Video-178K。此数据集包括关键任务，例如详细字幕、开放式问答 (QA) 和多项选择 QA。通过在此数据集上进行训练，结合现有的视觉指令调整数据，我们介绍了 LLaVA-Video，一种新的影片 LMM。我们的实验表明，LLaVA-Video 在各种影片基准测试中都取得了强劲的性能，突显了我们数据集的有效性。我们计划发布数据集、其生成管道和模型检查点。
 
 ##### **LLaVA-Critic: Learning to Evaluate Multimodal Models**
 2410.02712v1 by Tianyi Xiong, Xiyao Wang, Dong Guo, Qinghao Ye, Haoqi Fan, Quanquan Gu, Heng Huang, Chunyuan Li
@@ -1594,7 +1594,7 @@ clinically acceptable runtime, indicating potential for clinical translation.
 摘要：肝臟腫瘤消融手術需要將針頭施用器精準置於腫瘤中心點。超音波 (US) 成本較低且為即時影像，相較於電腦斷層掃描 (CT)，在施用器導引方面有優勢，然而，對於某些患者，肝臟腫瘤在超音波影像上可能不明顯，而腫瘤模擬會讓病灶辨識更具挑戰性。影像配準技術有助於解讀解剖細節和辨識腫瘤，但由於平衡校準準確度和執行效能，其臨床應用受到阻礙，特別是在補償因患者呼吸或移動而產生的肝臟運動時。因此，我們提出 2D-3D 超音波配準方法，以進行術中校準，減輕因肝臟運動而產生的誤差。具體來說，我們的做法可以關聯失衡的 2D 和 3D 超音波影像特徵，並使用連續的 6D 旋轉表示來增強模型的訓練穩定度。資料集分為 2388、196 和 193 影像對，分別用於訓練、驗證和測試。我們的做法達成平均歐氏距離誤差 2.28 mm $\pm$ 1.81 mm，以及平均測地角誤差 2.99$^{\circ}$ $\pm$ 1.95$^{\circ}$，執行時間為每 2D-3D 超音波影像對 0.22 秒。這些結果證明我們的做法可以達成精準校準和臨床上可接受的執行時間，顯示出臨床轉譯的潛力。
 
 ##### **Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**
-2410.02560v1 by Olga Yakovenko, Ivan Bondarenko
+2410.02560v2 by Olga Iakovenko, Ivan Bondarenko
 
 For many Automatic Speech Recognition (ASR) tasks audio features as
 spectrograms show better results than Mel-frequency Cepstral Coefficients
@@ -1608,7 +1608,7 @@ spectrograms (25 ms) from a 13-dimensional embedding. The trained model for a
 spoken commands on the GoogleSpeechCommands dataset. Using the generated
 features an ASR system was built and compared to the model with MFCC features.
 
-摘要：對於許多自動語音辨識 (ASR) 任務，音訊特徵（例如譜圖）顯示比梅爾頻率倒譜係數 (MFCC) 更好的結果，但實際上，由於特徵空間的複雜維度，它們難以使用。以下論文提出了一個基於卷積變異自動編碼器 (VAE) 的生成壓縮譜圖表示的替代方法。在 LibriSpeech 資料集的子樣本上訓練了一個卷積 VAE 模型，以從 13 維嵌入中重建音訊譜圖的短片段（25 毫秒）。40 維（300 毫秒）嵌入的訓練模型用於為 GoogleSpeechCommands 資料集上口說指令語料庫生成特徵。使用生成的特性建立了一個 ASR 系統，並與具有 MFCC 特性的模型進行比較。
+摘要：對於許多自動語音辨識 (ASR) 任務，音訊特徵如語譜圖顯示的結果優於梅爾頻率倒頻譜係數 (MFCC)，但實際上由於特徵空間的複雜維度，它們很難使用。以下論文提出了一種基於卷積變異自動編碼器 (VAE) 的生成壓縮語譜圖表示的替代方法。在 LibriSpeech 資料集的子樣本上訓練了卷積 VAE 模型，以從 13 維嵌入中重建音訊語譜圖的短片段 (25 毫秒)。40 維 (300 毫秒) 嵌入的訓練模型用於為 GoogleSpeechCommands 資料集上的口說命令語料庫生成特徵。使用生成的特性建立了一個 ASR 系統，並與具有 MFCC 特性的模型進行比較。
 
 ##### **Improving Unsupervised Constituency Parsing via Maximizing Semantic Information**
 2410.02558v1 by Junjie Chen, Xiangheng He, Yusuke Miyao, Danushka Bollegala
@@ -2194,7 +2194,7 @@ research.
 摘要：序列記憶，即形成並準確回憶事件或刺激序列的正確順序的能力，是生物和人工智能的基本先決條件，因為它支撐了許多認知功能（例如，語言理解、規劃、情節記憶形成等）。然而，現有的序列記憶方法存在災難性遺忘、容量有限、緩慢的迭代學習程序、低階馬可夫記憶，最重要的是，無法表示和生成源自同一背景的未來多種有效可能性。受生物學上合理的認知神經科學理論啟發，我們提出了預測吸引子模型 (PAM)，一種具有理想生成特性的新序列記憶架構。PAM 是一個串流模型，它通過以線上、連續的方式觀察每個輸入來學習序列，而且僅觀察「一次」。此外，我們發現 PAM 透過皮質微柱中的側向抑制來唯一表示過去的背景，從而避免了災難性遺忘，這可以防止新的記憶覆蓋先前學習的知識。PAM 透過從預測可能性的聯集進行抽樣來生成未來的預測；這種生成能力是透過與預測器一起訓練的吸引子模型來實現的。我們展示了 PAM 是透過生物學上合理的框架中的赫布塑性規則，以局部運算進行訓練的。在本文中討論了其他理想的特質（例如，耐噪性、基於 CPU 的學習、容量擴充）。我們的研究結果表明，PAM 在追求生物學上合理且計算效率高的序列記憶模型方面邁出了一大步，對認知科學和人工智能研究具有廣泛的影響。
 
 ##### **IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**
-2410.02429v1 by Tuo An, Yunjiao Zhou, Han Zou, Jianfei Yang
+2410.02429v2 by Tuo An, Yunjiao Zhou, Han Zou, Jianfei Yang
 
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 textual and visual domains but often generate outputs that violate physical
@@ -2221,7 +2221,7 @@ comprehend IoT data and the physical law behind data by providing a reasoning
 process. Limitations of our work are claimed to inspire future research in this
 new era.
 
-摘要：大型語言模型 (LLM) 已在文字和視覺領域中展示出非凡的能力，但經常會產生違反物理定律的輸出，揭示了它們對物理世界的理解存在差距。受人類認知的啟發，感知是推理的基礎，我們探索使用物聯網 (IoT) 感測器資料和物聯網任務推理中相關知識，增強 LLM 的感知能力，以應對物理世界。在這項工作中，我們系統性地研究了 LLM 的能力，透過增強其感知和知識庫，來解決真實世界的物聯網任務，然後提出一個統一的框架，IoT-LLM，以增強這種能力。在 IoT-LLM 中，我們為 LLM 客製化三個步驟：將物聯網資料預處理成適合 LLM 的格式，透過思考鏈提示和專業角色定義啟動他們的常識知識，並透過基於情境學習的物聯網導向檢索增強生成，擴展他們的理解。為了評估效能，我們設計了一個新的基準，包含五個具有不同資料類型和推理難度的真實世界物聯網任務，並提供六個開源和閉源 LLM 的基準測試結果。實驗結果證明了現有 LLM 的限制，它們使用天真的文字輸入無法有效執行這些任務。我們展示了 IoT-LLM 明顯增強了 LLM 的物聯網任務推理效能，例如 GPT-4，在各種任務中比以前的方法平均提升了 65%。結果還展示了 LLM 透過提供推理過程來理解物聯網資料和資料背後的物理定律的能力。我們工作的限制被宣稱為激勵這個新時代的未來研究。
+摘要：大型語言模型 (LLM) 已在文本和視覺領域展示出非凡的能力，但經常會產生違反物理定律的輸出，這揭示了它們對物理世界的理解存在差距。受人類認知的啟發，感知是推理的基礎，我們探討利用物聯網 (IoT) 感測器資料和與 IoT 任務推理相關的知識，來增強 LLM 的感知能力，以應對物理世界。在這項工作中，我們系統性地研究 LLM 的能力，透過增強它們的感知和知識庫來解決真實世界的 IoT 任務，並提出一個統一的架構 IoT-LLM 來增強這種能力。在 IoT-LLM 中，我們為 LLM 客製化三個步驟：將 IoT 資料預處理成 LLM 適用的格式、透過思考鏈提示和專門的角色定義來啟動它們的常識知識，以及透過基於情境學習的 IoT 導向檢索增強生成來擴展它們的理解。為了評估效能，我們設計了一個新的基準，包含五個具有不同資料類型和推理難度的真實世界 IoT 任務，並在六個開源和閉源 LLM 上提供基準測試結果。實驗結果證明了現有 LLM 使用天真的文字輸入的限制，無法有效執行這些任務。我們展示了 IoT-LLM 大幅提升了 LLM 對 IoT 任務推理的效能，例如 GPT-4，在各種任務中相較於先前的技術，平均提升了 65%。結果也展示了 LLM 透過提供推理過程來理解 IoT 資料和資料背後的物理定律的能力。我們工作的限制被認為能激勵這個新時代的未來研究。
 
 ##### **Collective Critics for Creative Story Generation**
 2410.02428v1 by Minwook Bae, Hyounghun Kim

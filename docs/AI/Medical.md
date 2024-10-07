@@ -27,7 +27,7 @@
 |**2024-10-01**|**GAMMA-PD: Graph-based Analysis of Multi-Modal Motor Impairment Assessments in Parkinson's Disease**|Favour Nerrise et.al.|[2410.00944v1](http://arxiv.org/abs/2410.00944v1)|null|
 |**2024-10-01**|**Contrastive Abstraction for Reinforcement Learning**|Vihang Patil et.al.|[2410.00704v1](http://arxiv.org/abs/2410.00704v1)|null|
 |**2024-10-01**|**Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos**|Krishna Chaitanya et.al.|[2410.00536v1](http://arxiv.org/abs/2410.00536v1)|null|
-|**2024-10-01**|**Bayes-CATSI: A variational Bayesian approach for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847v1](http://arxiv.org/abs/2410.01847v1)|[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)|
+|**2024-10-01**|**Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847v2](http://arxiv.org/abs/2410.01847v2)|[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)|
 |**2024-10-01**|**ReXplain: Translating Radiology into Patient-Friendly Video Reports**|Luyang Luo et.al.|[2410.00441v1](http://arxiv.org/abs/2410.00441v1)|null|
 |**2024-10-01**|**CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**|Xiao Wang et.al.|[2410.00379v1](http://arxiv.org/abs/2410.00379v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
@@ -52,7 +52,7 @@
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120v1](http://arxiv.org/abs/2409.19120v1)|null|
 |**2024-09-27**|**Differential privacy for protecting patient data in speech disorder detection using deep learning**|Soroosh Tayebi Arasteh et.al.|[2409.19078v1](http://arxiv.org/abs/2409.19078v1)|null|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v2](http://arxiv.org/abs/2409.18924v2)|null|
-|**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878v1](http://arxiv.org/abs/2409.18878v1)|null|
+|**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878v2](http://arxiv.org/abs/2409.18878v2)|null|
 |**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814v1](http://arxiv.org/abs/2409.18814v1)|null|
 |**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769v1](http://arxiv.org/abs/2409.18769v1)|null|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715v1](http://arxiv.org/abs/2409.18715v1)|null|
@@ -790,8 +790,8 @@ further demonstrates the model's successful generalization.
 
 摘要：<paragraph>在潰瘍性結腸炎 (UC) 中，準確評估內視鏡視頻中的疾病嚴重程度對於評估臨床試驗中的藥物療效至關重要。嚴重程度通常通過 Mayo 內視鏡亞分數 (MES) 和潰瘍性結腸炎內視鏡嚴重程度指數 (UCEIS) 分數來衡量。然而，專家 MES/UCEIS 注釋既費時又容易受到評分者間變異性的影響，而自動化可以解決這些因素。由於臨床試驗中視頻級別標籤的普遍存在，使用幀級標籤的自動化嘗試在完全監督的解決方案中面臨挑戰。具有端到端 (e2e) 訓練的基於 CNN 的弱監督模型 (WSL) 缺乏對新疾病評分的泛化，並且忽視了對準確評分至關重要的時空信息。為了解決這些限制，我們提出了「Arges」，這是一個深度學習框架，它利用具有位置編碼的Transformer將時空信息從幀特徵中提取出來，以估計內視鏡視頻中的疾病嚴重程度評分。提取的特徵來自基礎模型 (ArgesFM)，該模型在來自多個臨床試驗的大型多樣化數據集（6100 萬幀，3927 個視頻）上進行了預訓練。我們評估了四個 UC 疾病嚴重程度評分，包括 MES 和三個 UCEIS 組成部分評分。測試集評估表明有顯著改善，與最先進的方法相比，MES 的 F1 分數提高了 4.1%，三個 UCEIS 組成部分評分的 F1 分數分別提高了 18.8%、6.6% 和 3.8%。在以前未見的臨床試驗數據上的前瞻性驗證進一步證明了該模型成功的泛化。</paragraph>
 
-##### **Bayes-CATSI: A variational Bayesian approach for medical time series data imputation**
-2410.01847v1 by Omkar Kulkarni, Rohitash Chandra
+##### **Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation**
+2410.01847v2 by Omkar Kulkarni, Rohitash Chandra
 
 Medical time series datasets feature missing values that need data imputation
 methods, however, conventional machine learning models fall short due to a lack
@@ -813,7 +813,7 @@ instance of Bayes-CATSI outperforms CATSI by 9.57 %. We provide an open-source
 code implementation for applying Bayes-CATSI to other medical data imputation
 problems.
 
-摘要：醫療時間序列資料集具有需要資料插補方法的遺失值，然而，傳統機器學習模型由於缺乏預測中的不確定性量化而不足。在這些模型中，CATSI（情境感知時間序列插補）因其在插補過程中加入情境向量而顯得突出，捕捉每個病人的整體依賴性。在本文中，我們提出了一個貝氏情境感知時間序列插補（Bayes-CATSI）架構，它利用變異推論提供的非確定性量化。我們考慮了由腦電圖（EEG）、眼電圖（EOG）、肌電圖（EMG）、心電圖（EKG）衍生的時間序列。變異推論假設後驗機率分佈的形狀，並透過最小化 Kullback-Leibler（KL）距離，找出最接近真實後驗機率分佈的變異密度。因此，我們將變異貝氏深度學習層整合到 CATSI 模型中。我們的結果表明，Bayes-CATSI 不僅提供了不確定性量化，而且與 CATSI 模型相比，還達到了優異的插補效能。具體來說，Bayes-CATSI 的一個實例比 CATSI 高出 9.57%。我們提供了一個開放原始碼程式碼實作，用於將 Bayes-CATSI 應用於其他醫療資料插補問題。
+摘要：醫療時間序列資料集特徵有遺失值，需要資料估計方法，然而，傳統的機器學習模型由於缺乏預測中的不確定量化而不足。在這些模型中，CATSI（情境感知時間序列估計）因其將情境向量納入估計過程中而脫穎而出，捕捉每個病人的整體依賴性。在本文中，我們提出一個貝氏情境感知時間序列估計（Bayes-CATSI）架構，它利用變異推論提供的未確定量化。我們考慮來自腦電圖（EEG）、眼動圖（EOG）、肌電圖（EMG）、心電圖（EKG）的時間序列。變異推論假設後驗分配的形狀，並通過最小化 Kullback-Leibler（KL）散度，它找出最接近真實後驗分配的變異密度。因此，我們將變異貝氏深度學習層整合到 CATSI 模型中。我們的結果表明，Bayes-CATSI 不僅提供不確定性量化，而且與 CATSI 模型相比，還實現了卓越的估計性能。具體來說，Bayes-CATSI 的一個實例比 CATSI 高出 9.57%。我們提供一個開源程式碼實作，將 Bayes-CATSI 應用於其他醫療資料估計問題。
 
 ##### **ReXplain: Translating Radiology into Patient-Friendly Video Reports**
 2410.00441v1 by Luyang Luo, Jenanan Vairavamurthy, Xiaoman Zhang, Abhinav Kumar, Ramon R. Ter-Oganesyan, Stuart T. Schroff, Dan Shilo, Rydhwana Hossain, Mike Moritz, Pranav Rajpurkar
@@ -1443,7 +1443,7 @@ model evaluation, and system integration.
 摘要：模擬病人系統在現代醫學教育和研究中扮演著至關重要的角色，提供安全、整合的學習環境，並能進行臨床決策模擬。大型語言模型 (LLM) 能透過高保真度和低成本複製醫療狀況和醫病互動，進而提升模擬病人系統。然而，確保這些系統的有效性和可信度仍然是一項挑戰，因為它們需要一個龐大、多元且精確的病人知識庫，以及穩健且穩定的知識傳播給使用者。在此，我們開發了 AIPatient，一個進階的模擬病人系統，以 AIPatient 知識圖譜 (AIPatient KG) 作為輸入，並以推理檢索增強生成 (Reasoning RAG) 代理工作流程作為生成主幹。AIPatient KG 從重症監護醫學資訊中心 (MIMIC)-III 資料庫中的電子健康紀錄 (EHR) 中抽取資料，產生一個臨床多樣且相關的 1,495 名病患群組，具有很高的知識庫效度 (F1 0.89)。推理 RAG 槓桿了六個 LLM 驅動的代理，跨越檢索、KG 查詢產生、抽象、檢查器、重寫和摘要等任務。這個代理框架在基於 EHR 的醫療問答 (QA) 中達到了 94.15% 的整體準確度，優於不使用代理或僅部分代理整合的基準。我們的系統還具有很高的可讀性 (Flesch 閱讀簡便性中位數 77.23；Flesch Kincaid 等級中位數 5.6)、穩健性 (ANOVA F 值 0.6126，p>0.1) 和穩定性 (ANOVA F 值 0.782，p>0.1)。AIPatient 系統的出色表現突顯了它在支援各種應用程式的潛力，包括醫學教育、模型評估和系統整合。
 
 ##### **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**
-2409.18878v1 by Zehan Li, Yan Hu, Scott Lane, Salih Selek, Lokesh Shahani, Rodrigo Machado-Vieira, Jair Soares, Hua Xu, Hongfang Liu, Ming Huang
+2409.18878v2 by Zehan Li, Yan Hu, Scott Lane, Salih Selek, Lokesh Shahani, Rodrigo Machado-Vieira, Jair Soares, Hua Xu, Hongfang Liu, Ming Huang
 
 Accurate identification and categorization of suicidal events can yield
 better suicide precautions, reducing operational burden, and improving care
@@ -1454,16 +1454,17 @@ strategies (multiple single-label and single multi-label) for detecting
 coexisting suicidal events from 500 annotated psychiatric evaluation notes. The
 notes were labeled for suicidal ideation (SI), suicide attempts (SA), exposure
 to suicide (ES), and non-suicidal self-injury (NSSI). RoBERTa outperformed
-other models using binary relevance (acc=0.86, F1=0.78). MentalBERT (F1=0.74)
-also exceeded BioClinicalBERT (F1=0.72). RoBERTa fine-tuned with a single
-multi-label classifier further improved performance (acc=0.88, F1=0.81),
-highlighting that models pre-trained on domain-relevant data and the single
-multi-label classification strategy enhance efficiency and performance.
-  Keywords: EHR-based Phynotyping; Natural Language Processing; Secondary Use
-of EHR Data; Suicide Classification; BERT-based Model; Psychiatry; Mental
-Health
+other models using multiple single-label classification strategy (acc=0.86,
+F1=0.78). MentalBERT (acc=0.83, F1=0.74) also exceeded BioClinicalBERT
+(acc=0.82, F1=0.72) which outperformed BERT (acc=0.80, F1=0.70). RoBERTa
+fine-tuned with single multi-label classification further improved the model
+performance (acc=0.88, F1=0.81). The findings highlight that the model
+optimization, pretraining with domain-relevant data, and the single multi-label
+classification strategy enhance the model performance of suicide phenotyping.
+Keywords: EHR-based Phenotyping; Natural Language Processing; Secondary Use of
+EHR Data; Suicide Classification; BERT-based Model; Psychiatry; Mental Health
 
-摘要：準確識別和分類自殺事件可以產生更好的自殺預防措施，減少運作負擔，並提高高敏銳度精神科環境中的照護品質。預先訓練的語言模型提供從非結構化臨床敘述中辨識自殺傾向的承諾。我們評估了四個基於 BERT 的模型的效能，使用兩種微調策略（多個單標籤和單個多標籤）來從 500 個註解的精神科評估備忘錄中偵測共存的自殺事件。這些備忘錄標記為自殺意念 (SI)、自殺企圖 (SA)、暴露於自殺 (ES) 和非自殺性自傷 (NSSI)。RoBERTa 使用二元關聯性表現優於其他模型（acc=0.86，F1=0.78）。MentalBERT (F1=0.74) 也超過 BioClinicalBERT (F1=0.72)。使用單一多標籤分類器微調的 RoBERTa 進一步改善了效能（acc=0.88，F1=0.81），強調預先在與領域相關的資料上訓練的模型和單一多標籤分類策略可提升效率和效能。關鍵字：基於電子病歷的表型分析；自然語言處理；電子病歷資料的二次使用；自殺分類；基於 BERT 的模型；精神病學；心理健康
+摘要：<paragraph>準確辨識和分類自殺事件，可以產生更好的自殺預防措施，降低運作負擔，並提升高敏精神科環境中的照護品質。預先訓練的語言模型有望從非結構化的臨床敘述中辨識出自殺傾向。我們評估了四個 BERT 模型的效能，使用兩種微調策略（多重單標籤和單一多標籤）來偵測 500 個註解的精神科評估記錄中並存的自殺事件。這些記錄標記為自殺意念（SI）、自殺企圖（SA）、接觸自殺（ES）和非自殺自傷（NSSI）。RoBERTa 使用多重單標籤分類策略表現優於其他模型（acc=0.86，F1=0.78）。MentalBERT（acc=0.83，F1=0.74）也超過 BioClinicalBERT（acc=0.82，F1=0.72），而 BioClinicalBERT 則優於 BERT（acc=0.80，F1=0.70）。使用單一多標籤分類微調的 RoBERTa 進一步提升了模型效能（acc=0.88，F1=0.81）。研究結果強調，模型最佳化、使用與領域相關資料進行預訓練，以及單一多標籤分類策略，可以提升自殺表型分析的模型效能。關鍵字：基於電子病歷的表型分析；自然語言處理；電子病歷資料的二次使用；自殺分類；基於 BERT 的模型；精神科；心理健康</paragraph>
 
 ##### **Early diagnosis of Alzheimer's disease from MRI images with deep learning model**
 2409.18814v1 by Sajjad Aghasi Javid, Mahmood Mohassel Feghhi

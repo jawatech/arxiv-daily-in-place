@@ -69,7 +69,7 @@
 |**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334v1](http://arxiv.org/abs/2410.03334v1)|null|
 |**2024-10-04**|**Comparative Analysis and Ensemble Enhancement of Leading CNN Architectures for Breast Cancer Classification**|Gary Murphy et.al.|[2410.03333v1](http://arxiv.org/abs/2410.03333v1)|null|
 |**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315v1](http://arxiv.org/abs/2410.03315v1)|null|
-|**2024-10-04**|**Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models**|Pavel Stepachev et.al.|[2410.03312v1](http://arxiv.org/abs/2410.03312v1)|null|
+|**2024-10-04**|**Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models**|Pavel Stepachev et.al.|[2410.03312v1](http://arxiv.org/abs/2410.03312v1)|[link](https://github.com/rggdmonk/GenSEC-Task-3)|
 |**2024-10-04**|**Comparing zero-shot self-explanations with human rationales in multilingual text classification**|Stephanie Brandl et.al.|[2410.03296v1](http://arxiv.org/abs/2410.03296v1)|null|
 |**2024-10-04**|**Five Years of COVID-19 Discourse on Instagram: A Labeled Instagram Dataset of Over Half a Million Posts for Multilingual Sentiment Analysis**|Nirmalya Thakur et.al.|[2410.03293v1](http://arxiv.org/abs/2410.03293v1)|null|
 |**2024-10-04**|**Enhanced Transformer architecture for in-context learning of dynamical systems**|Matteo Rufolo et.al.|[2410.03291v1](http://arxiv.org/abs/2410.03291v1)|null|

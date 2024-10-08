@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|katerina Sviridova et.al.|[2410.05235v1](http://arxiv.org/abs/2410.05235v1)|null|
 |**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v1](http://arxiv.org/abs/2410.01855v1)|null|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
 |**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
@@ -27,7 +28,7 @@
 |**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009v1](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440v2](http://arxiv.org/abs/2407.05440v2)|null|
-|**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v1](http://arxiv.org/abs/2407.15851v1)|null|
+|**2024-07-03**|**A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**|Congzhen Shi et.al.|[2407.15851v2](http://arxiv.org/abs/2407.15851v2)|null|
 |**2024-07-01**|**The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**|Ximing Wen et.al.|[2407.06206v1](http://arxiv.org/abs/2407.06206v1)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
@@ -101,9 +102,33 @@
 |**2023-08-01**|**Exploring the Role of Explainability in AI-Assisted Embryo Selection**|Lucia Urcelay et.al.|[2308.02534v1](http://arxiv.org/abs/2308.02534v1)|null|
 |**2023-07-26**|**A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**|Timo Speith et.al.|[2307.14246v1](http://arxiv.org/abs/2307.14246v1)|null|
 |**2023-07-26**|**Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**|Barnaby Crook et.al.|[2307.14239v1](http://arxiv.org/abs/2307.14239v1)|null|
-|**2023-07-26**|**Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**|Henry Fraser et.al.|[2308.02047v1](http://arxiv.org/abs/2308.02047v1)|null|
 
 #### Abstracts
+##### **CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**
+2410.05235v1 by katerina Sviridova, Anar Yeginbergen, Ainara Estarrona, Elena Cabrio, Serena Villata, Rodrigo Agerri
+
+Explaining Artificial Intelligence (AI) decisions is a major challenge
+nowadays in AI, in particular when applied to sensitive scenarios like medicine
+and law. However, the need to explain the rationale behind decisions is a main
+issue also for human-based deliberation as it is important to justify
+\textit{why} a certain decision has been taken. Resident medical doctors for
+instance are required not only to provide a (possibly correct) diagnosis, but
+also to explain how they reached a certain conclusion. Developing new tools to
+aid residents to train their explanation skills is therefore a central
+objective of AI in education. In this paper, we follow this direction, and we
+present, to the best of our knowledge, the first multilingual dataset for
+Medical Question Answering where correct and incorrect diagnoses for a clinical
+case are enriched with a natural language explanation written by doctors. These
+explanations have been manually annotated with argument components (i.e.,
+premise, claim) and argument relations (i.e., attack, support), resulting in
+the Multilingual CasiMedicos-Arg dataset which consists of 558 clinical cases
+in four languages (English, Spanish, French, Italian) with explanations, where
+we annotated 5021 claims, 2313 premises, 2431 support relations, and 1106
+attack relations. We conclude by showing how competitive baselines perform over
+this challenging dataset for the argument mining task.
+
+摘要：解釋人工智慧（AI）的決策是當今 AI 的一項重大挑戰，特別是應用於醫療和法律等敏感場景時。然而，解釋決策背後的基本原理的需求也是基於人類的審議的主要問題，因為有必要證明為什麼做出某項決策。例如，住院醫師不僅需要提供（可能是正確的）診斷，還需要解釋他們如何得出某個結論。因此，開發新的工具來幫助住院醫師訓練他們的解釋技能是教育中 AI 的核心目標。在本文中，我們遵循這個方向，並根據我們的了解，提出了第一個多語言醫學問答資料集，其中臨床病例的正確和不正確診斷都附有由醫生撰寫的自然語言解釋。這些解釋已使用論證組成部分（即前提、論點）和論證關係（即攻擊、支持）進行人工註解，從而產生多語言 CasiMedicos-Arg 資料集，其中包含 558 個四種語言（英語、西班牙語、法語、義大利語）的臨床病例，其中包含解釋，我們註解了 5021 個論點、2313 個前提、2431 個支持關係和 1106 個攻擊關係。最後，我們展示了競爭基準是如何在這個具有挑戰性的論證挖掘任務資料集上執行。
+
 ##### **Explainable Diagnosis Prediction through Neuro-Symbolic Integration**
 2410.01855v1 by Qiuhao Lu, Rui Li, Elham Sagheb, Andrew Wen, Jinlian Wang, Liwei Wang, Jungwei W. Fan, Hongfang Liu
 
@@ -795,7 +820,7 @@ disease classification.
 摘要：这篇论文提出了用于从视网膜眼底图像进行疾病分类的扩张残差网络 (ResNet) 模型。扩张卷积滤波器用于替换 ResNet 模型较高层中的正常卷积滤波器（扩张 ResNet），以改善感知场，从而针对疾病分类对正常 ResNet 模型进行改进。本研究引入了采用深度学习的计算机辅助诊断工具，并通过可解释的 AI 技术进行了增强。这些技术旨在使该工具的决策过程透明化，从而使医学专业人士能够理解和信任 AI 的诊断决策。它们与当今的医疗保健领域尤为相关，在该领域，对 AI 应用的透明度需求不断增长，以确保其可靠性和合乎道德的使用。扩张 ResNet 用作正常 ResNet 的替代品，以提高视网膜眼部疾病的分类准确性并减少所需的计算时间。本工作中使用的数据集是眼科疾病智能识别 (ODIR) 数据集，这是一个结构化的眼科数据库，包含八类涵盖大多数常见视网膜眼部疾病。本工作中使用的评估指标包括精确度、召回率、准确度和 F1 得分。在这项工作中，对 ResNet-18、ResNet-34、ResNet-50、ResNet-101 和 ResNet-152 五个变体的正常 ResNet 模型和扩张 ResNet 模型进行了比较研究。与正常 ResNet 相比，扩张 ResNet 模型显示出有希望的结果，在 ODIR 多类疾病分类中，上述各个变体的平均 F1 得分为 0.71、0.70、0.69、0.67 和 0.70。
 
 ##### **A Survey on Trustworthiness in Foundation Models for Medical Image Analysis**
-2407.15851v1 by Congzhen Shi, Ryan Rezai, Jiaxi Yang, Qi Dou, Xiaoxiao Li
+2407.15851v2 by Congzhen Shi, Ryan Rezai, Jiaxi Yang, Qi Dou, Xiaoxiao Li
 
 The rapid advancement of foundation models in medical imaging represents a
 significant leap toward enhancing diagnostic accuracy and personalized
@@ -804,21 +829,25 @@ necessitates a rigorous examination of their trustworthiness, encompassing
 privacy, robustness, reliability, explainability, and fairness. The current
 body of survey literature on foundation models in medical imaging reveals
 considerable gaps, particularly in the area of trustworthiness. Additionally,
-extant surveys on the trustworthiness of foundation models fail to address
-their specific variations and applications within the medical imaging domain.
-This survey paper reviews the current research on foundation models in the
-major medical imaging applications, with a focus on segmentation, medical
-report generation, medical question and answering (Q&A), and disease diagnosis,
-which includes trustworthiness discussion in their manuscripts. We explore the
-complex challenges of making foundation models for medical image analysis
-trustworthy, associated with each application, and summarize the current
-concerns and strategies to enhance trustworthiness. Furthermore, we explore the
-future promises of these models in revolutionizing patient care. Our analysis
-underscores the imperative for advancing towards trustworthy AI in medical
-image analysis, advocating for a balanced approach that fosters innovation
-while ensuring ethical and equitable healthcare delivery.
+existing surveys on the trustworthiness of foundation models do not adequately
+address their specific variations and applications within the medical imaging
+domain. This survey aims to fill that gap by presenting a novel taxonomy of
+foundation models used in medical imaging and analyzing the key motivations for
+ensuring their trustworthiness. We review current research on foundation models
+in major medical imaging applications, focusing on segmentation, medical report
+generation, medical question and answering (Q\&A), and disease diagnosis. These
+areas are highlighted because they have seen a relatively mature and
+substantial number of foundation models compared to other applications. We
+focus on literature that discusses trustworthiness in medical image analysis
+manuscripts. We explore the complex challenges of building trustworthy
+foundation models for each application, summarizing current concerns and
+strategies for enhancing trustworthiness. Furthermore, we examine the potential
+of these models to revolutionize patient care. Our analysis underscores the
+imperative for advancing towards trustworthy AI in medical image analysis,
+advocating for a balanced approach that fosters innovation while ensuring
+ethical and equitable healthcare delivery.
 
-摘要：基礎模型在醫學影像上的快速進展代表著在增強診斷準確度和個人化治療方面邁出了一大步。然而，基礎模型在醫療保健中的部署需要嚴格檢查其可信度，包括隱私、穩健性、可靠性、可解釋性和公平性。當前關於醫學影像中基礎模型的調查文獻顯示出相當大的差距，特別是在可信度方面。此外，現有的關於基礎模型可信度的調查未能解決其在醫學影像領域內的具體變化和應用。這篇調查論文回顧了當前關於基礎模型在主要醫學影像應用中的研究，重點關注分割、醫療報告生成、醫療問題和解答 (Q&A) 以及疾病診斷，其中包括手稿中的可信度討論。我們探討了讓用於醫學影像分析的基礎模型值得信賴的複雜挑戰，與每個應用相關，並總結了當前提高可信度的問題和策略。此外，我們探討了這些模型在革新患者照護方面的未來前景。我們的分析強調了在醫學影像分析中朝著可信賴的人工智慧邁進的必要性，提倡一種平衡的方法，既能促進創新，又能確保道德和公平的醫療保健服務。
+摘要：基礎模型在醫學影像方面的快速進展，代表著在加強診斷準確性和個人化治療方面邁出一大步。然而，基礎模型在醫療保健中的部署需要對其可信度進行嚴格的審查，包括隱私、穩健性、可靠性、可解釋性和公平性。目前關於醫學影像中基礎模型的調查文獻中顯示出相當大的差距，特別是在可信度方面。此外，現有關於基礎模型可信度的調查並未充分解決其在醫學影像領域中的特定變化和應用。本調查旨在通過提出醫學影像中使用的基礎模型的新分類法並分析確保其可信度的關鍵動機，來填補這一空白。我們回顧了基礎模型在主要醫學影像應用中的當前研究，重點關注分割、醫療報告生成、醫療問題和回答 (Q&A) 以及疾病診斷。這些領域之所以被強調，是因為與其他應用相比，它們已經看到相對成熟且大量的基礎模型。我們專注於探討醫學影像分析手稿中可信度的文獻。我們探討了為每個應用構建可信基礎模型的複雜挑戰，總結了當前關注點和增強可信度的策略。此外，我們探討了這些模型在革新患者護理方面的潛力。我們的分析強調了在醫學影像分析中朝著可信賴的人工智慧邁進的必要性，並倡導一種平衡的方法，既能促進創新，又能確保道德和公平的醫療保健服務。
 
 ##### **The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**
 2407.06206v1 by Ximing Wen, Rosina O. Weber, Anik Sen, Darryl Hannan, Steven C. Nesbit, Vincent Chan, Alberto Goffi, Michael Morris, John C. Hunninghake, Nicholas E. Villalobos, Edward Kim, Christopher J. MacLellan
@@ -2645,28 +2674,4 @@ of risk. By providing a foundation for future research and best practices, this
 work aims to advance the field of RE for AI.
 
 摘要：在需求工程（RE）领域，可解释人工智能（XAI）在将人工智能支持的系统与用户需求、社会期望和监管标准相一致方面的重要性日益凸显，并获得了认可。一般来说，可解释性已成为影响系统质量的重要非功能性需求。然而，可解释性和性能之间的权衡挑战了可解释性的正面影响。如果满足可解释性的要求需要降低系统性能，那么必须仔细考虑这些质量方面中的哪一个优先，以及如何在它们之间进行权衡。在本文中，我们批判性地考察了所谓的权衡。我们认为，最好以一种细致入微的方式来处理它，这种方式结合了资源可用性、领域特征和风险考虑。通过为未来的研究和最佳实践提供基础，这项工作旨在推进人工智能的 RE 领域。
-
-##### **Acceptable risks in Europe's proposed AI Act: Reasonableness and other principles for deciding how much risk management is enough**
-2308.02047v1 by Henry Fraser, Jose-Miguel Bello y Villarino
-
-This paper critically evaluates the European Commission's proposed AI Act's
-approach to risk management and risk acceptability for high-risk AI systems
-that pose risks to fundamental rights and safety. The Act aims to promote
-"trustworthy" AI with a proportionate regulatory burden. Its provisions on risk
-acceptability require residual risks from high-risk systems to be reduced or
-eliminated "as far as possible", having regard to the "state of the art". This
-criterion, especially if interpreted narrowly, is unworkable and promotes
-neither proportionate regulatory burden, nor trustworthiness. By contrast the
-Parliament's most recent draft amendments to the risk management provisions
-introduce "reasonableness", cost-benefit analysis, and are more transparent
-about the value-laden and contextual nature of risk acceptability judgements.
-This paper argues that the Parliament's approach is more workable, and better
-balances the goals of proportionality and trustworthiness. It explains what
-reasonableness in risk acceptability judgments would entail, drawing on
-principles from negligence law and European medical devices regulation. And it
-contends that the approach to risk acceptability judgments need a firm
-foundation of civic legitimacy: including detailed guidance or involvement from
-regulators, and meaningful input from affected stakeholders.
-
-摘要：本文嚴格評估歐洲委員會提出的 AI 法案對風險管理和風險可接受性的方法，用於對基本權利和安全構成風險的高風險 AI 系統。該法案旨在以相稱的監管負擔促進「值得信賴」的 AI。其關於風險可接受性的條款要求將高風險系統的殘餘風險減低或消除「盡可能」，並考慮「技術狀態」。此準則，特別是如果狹義解釋，無法執行，既不促進相稱的監管負擔，也不促進可信賴性。相比之下，議會對風險管理條款的最新修正草案引入了「合理性」、成本效益分析，並且更透明地說明了風險可接受性判斷的價值觀和背景性質。本文論證議會的方法更可行，且能更好地平衡相稱性和可信賴性的目標。本文說明風險可接受性判斷中的合理性會帶來什麼，並根據過失法和歐洲醫療器材法規中的原則進行說明。本文主張風險可接受性判斷的方法需要穩固的公民合法性基礎：包括監管機構的詳細指導或參與，以及受影響利害關係人的有意義投入。
 

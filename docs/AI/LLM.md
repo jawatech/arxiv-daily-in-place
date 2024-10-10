@@ -5,15 +5,15 @@
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269v1](http://arxiv.org/abs/2410.05269v1)|null|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267v1](http://arxiv.org/abs/2410.05267v1)|null|
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265v1](http://arxiv.org/abs/2410.05265v1)|[link](https://github.com/chenmnz/prefixquant)|
-|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262v1](http://arxiv.org/abs/2410.05262v1)|null|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262v1](http://arxiv.org/abs/2410.05262v1)|[link](https://github.com/mazzzystar/TurtleBench)|
 |**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261v1](http://arxiv.org/abs/2410.05261v1)|null|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258v1](http://arxiv.org/abs/2410.05258v1)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254v1](http://arxiv.org/abs/2410.05254v1)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254v1](http://arxiv.org/abs/2410.05254v1)|[link](https://github.com/eilamshapira/GLEE)|
 |**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252v1](http://arxiv.org/abs/2410.05252v1)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248v1](http://arxiv.org/abs/2410.05248v1)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243v1](http://arxiv.org/abs/2410.05243v1)|null|
-|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239v1](http://arxiv.org/abs/2410.05239v1)|[link](https://github.com/naamiinepal/tunevlseg)|
-|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|katerina Sviridova et.al.|[2410.05235v1](http://arxiv.org/abs/2410.05235v1)|null|
+|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239v2](http://arxiv.org/abs/2410.05239v2)|[link](https://github.com/naamiinepal/tunevlseg)|
+|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|
 |**2024-10-07**|**GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**|Iman Mirzadeh et.al.|[2410.05229v1](http://arxiv.org/abs/2410.05229v1)|null|
 |**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224v1](http://arxiv.org/abs/2410.05224v1)|null|
 |**2024-10-07**|**Precise Model Benchmarking with Only a Few Observations**|Riccardo Fogliato et.al.|[2410.05222v1](http://arxiv.org/abs/2410.05222v1)|null|
@@ -23,30 +23,30 @@
 |**2024-10-07**|**RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**|Qiyuan Zhang et.al.|[2410.05193v1](http://arxiv.org/abs/2410.05193v1)|null|
 |**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192v1](http://arxiv.org/abs/2410.05192v1)|null|
 |**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191v1](http://arxiv.org/abs/2410.05191v1)|null|
-|**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180v1](http://arxiv.org/abs/2410.05180v1)|null|
+|**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180v1](http://arxiv.org/abs/2410.05180v1)|[link](https://github.com/JoyDajunSpaceCraft/EquityGuard)|
 |**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168v1](http://arxiv.org/abs/2410.05168v1)|null|
 |**2024-10-07**|**Presto! Distilling Steps and Layers for Accelerating Music Generation**|Zachary Novack et.al.|[2410.05167v1](http://arxiv.org/abs/2410.05167v1)|null|
-|**2024-10-07**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165v1](http://arxiv.org/abs/2410.05165v1)|null|
+|**2024-10-07**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165v2](http://arxiv.org/abs/2410.05165v2)|null|
 |**2024-10-07**|**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**|Mehrdad Farahani et.al.|[2410.05162v1](http://arxiv.org/abs/2410.05162v1)|null|
 |**2024-10-07**|**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**|Ziyan Jiang et.al.|[2410.05160v1](http://arxiv.org/abs/2410.05160v1)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130v1](http://arxiv.org/abs/2410.05130v1)|null|
-|**2024-10-07**|**Last Iterate Convergence in Monotone Mean Field Games**|Noboru Isobe et.al.|[2410.05127v1](http://arxiv.org/abs/2410.05127v1)|null|
+|**2024-10-07**|**Last Iterate Convergence in Monotone Mean Field Games**|Noboru Isobe et.al.|[2410.05127v2](http://arxiv.org/abs/2410.05127v2)|null|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116v1](http://arxiv.org/abs/2410.05116v1)|null|
 |**2024-10-07**|**Synthetic Generation of Dermatoscopic Images with GAN and Closed-Form Factorization**|Rohan Reddy Mekala et.al.|[2410.05114v1](http://arxiv.org/abs/2410.05114v1)|null|
 |**2024-10-07**|**SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks**|Fenia Christopoulou et.al.|[2410.05102v1](http://arxiv.org/abs/2410.05102v1)|null|
 |**2024-10-07**|**Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances**|Alina Wróblewska et.al.|[2410.05099v1](http://arxiv.org/abs/2410.05099v1)|null|
-|**2024-10-07**|**On the Structure of Game Provenance and its Applications**|Shawn Bowers et.al.|[2410.05094v1](http://arxiv.org/abs/2410.05094v1)|null|
+|**2024-10-07**|**On the Structure of Game Provenance and its Applications**|Shawn Bowers et.al.|[2410.05094v1](http://arxiv.org/abs/2410.05094v1)|[link](https://github.com/idaks/game-provenance-tapp24)|
 |**2024-10-07**|**Explanation sensitivity to the randomness of large language models: the case of journalistic text classification**|Jeremie Bogaert et.al.|[2410.05085v1](http://arxiv.org/abs/2410.05085v1)|null|
 |**2024-10-07**|**ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery**|Ziru Chen et.al.|[2410.05080v1](http://arxiv.org/abs/2410.05080v1)|null|
 |**2024-10-07**|**Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data**|David Heurtel-Depeiges et.al.|[2410.05078v1](http://arxiv.org/abs/2410.05078v1)|null|
-|**2024-10-07**|**ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**|Francesco Maria Molfese et.al.|[2410.05077v1](http://arxiv.org/abs/2410.05077v1)|null|
-|**2024-10-07**|**TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention**|Lijie Yang et.al.|[2410.05076v1](http://arxiv.org/abs/2410.05076v1)|null|
+|**2024-10-07**|**ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**|Francesco Maria Molfese et.al.|[2410.05077v1](http://arxiv.org/abs/2410.05077v1)|[link](https://github.com/sapienzanlp/zebra)|
+|**2024-10-07**|**TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention**|Lijie Yang et.al.|[2410.05076v1](http://arxiv.org/abs/2410.05076v1)|[link](https://github.com/DerrickYLJ/TidalDecode)|
 |**2024-10-07**|**Transition of $α$-mixing in Random Iterations with Applications in Queuing Theory**|Attila Lovas et.al.|[2410.05056v1](http://arxiv.org/abs/2410.05056v1)|null|
 |**2024-10-07**|**Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes**|Kosuke Nishida et.al.|[2410.05052v1](http://arxiv.org/abs/2410.05052v1)|null|
 |**2024-10-07**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050v1](http://arxiv.org/abs/2410.05050v1)|null|
-|**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047v1](http://arxiv.org/abs/2410.05047v1)|null|
-|**2024-10-07**|**Named Clinical Entity Recognition Benchmark**|Wadood M Abdul et.al.|[2410.05046v1](http://arxiv.org/abs/2410.05046v1)|null|
+|**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047v1](http://arxiv.org/abs/2410.05047v1)|[link](https://github.com/Avmb/adversarial_MT_prompt_injection)|
+|**2024-10-07**|**Named Clinical Entity Recognition Benchmark**|Wadood M Abdul et.al.|[2410.05046v1](http://arxiv.org/abs/2410.05046v1)|[link](https://github.com/wadoodabdul/clinical_ner_benchmark)|
 |**2024-10-07**|**Can LLMs plan paths with extra hints from solvers?**|Erik Wu et.al.|[2410.05045v1](http://arxiv.org/abs/2410.05045v1)|null|
 |**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044v1](http://arxiv.org/abs/2410.05044v1)|null|
 |**2024-10-07**|**DEPT: Decoupled Embeddings for Pre-training Language Models**|Alex Iacob et.al.|[2410.05021v1](http://arxiv.org/abs/2410.05021v1)|null|
@@ -55,37 +55,37 @@
 |**2024-10-07**|**Stage-Wise and Prior-Aware Neural Speech Phase Prediction**|Fei Liu et.al.|[2410.04990v1](http://arxiv.org/abs/2410.04990v1)|null|
 |**2024-10-07**|**On the Rigour of Scientific Writing: Criteria, Analysis, and Insights**|Joseph James et.al.|[2410.04981v1](http://arxiv.org/abs/2410.04981v1)|null|
 |**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v1](http://arxiv.org/abs/2410.04974v1)|null|
-|**2024-10-07**|**Collaboration! Towards Robust Neural Methods for Routing Problems**|Jianan Zhou et.al.|[2410.04968v1](http://arxiv.org/abs/2410.04968v1)|null|
+|**2024-10-07**|**Collaboration! Towards Robust Neural Methods for Routing Problems**|Jianan Zhou et.al.|[2410.04968v1](http://arxiv.org/abs/2410.04968v1)|[link](https://github.com/RoyalSkye/Routing-CNF)|
 |**2024-10-07**|**Activation Scaling for Steering and Interpreting Language Models**|Niklas Stoehr et.al.|[2410.04962v1](http://arxiv.org/abs/2410.04962v1)|null|
 |**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949v1](http://arxiv.org/abs/2410.04949v1)|null|
-|**2024-10-07**|**Detecting and Approximating Redundant Computational Blocks in Neural Networks**|Irene Cannistraci et.al.|[2410.04941v1](http://arxiv.org/abs/2410.04941v1)|null|
+|**2024-10-07**|**Detecting and Approximating Redundant Computational Blocks in Neural Networks**|Irene Cannistraci et.al.|[2410.04941v2](http://arxiv.org/abs/2410.04941v2)|null|
 |**2024-10-07**|**Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**|Chen Zhang et.al.|[2410.04936v1](http://arxiv.org/abs/2410.04936v1)|null|
 |**2024-10-07**|**The Role of Governments in Increasing Interconnected Post-Deployment Monitoring of AI**|Merlin Stein et.al.|[2410.04931v1](http://arxiv.org/abs/2410.04931v1)|null|
 |**2024-10-07**|**Intent Classification for Bank Chatbots through LLM Fine-Tuning**|Bibiána Lajčinová et.al.|[2410.04925v1](http://arxiv.org/abs/2410.04925v1)|null|
 |**2024-10-07**|**Defense-as-a-Service: Black-box Shielding against Backdoored Graph Models**|Xiao Yang et.al.|[2410.04916v1](http://arxiv.org/abs/2410.04916v1)|null|
 |**2024-10-07**|**Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models**|Dehong Kong et.al.|[2410.04884v1](http://arxiv.org/abs/2410.04884v1)|null|
-|**2024-10-07**|**Leveraging Grammar Induction for Language Understanding and Generation**|Jushi Kai et.al.|[2410.04878v1](http://arxiv.org/abs/2410.04878v1)|null|
+|**2024-10-07**|**Leveraging Grammar Induction for Language Understanding and Generation**|Jushi Kai et.al.|[2410.04878v1](http://arxiv.org/abs/2410.04878v1)|[link](https://github.com/LUMIA-Group/Leveraging-Grammar-Induction)|
 |**2024-10-07**|**TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting**|Ao Hu et.al.|[2410.04853v1](http://arxiv.org/abs/2410.04853v1)|null|
 |**2024-10-07**|**Rationale-Aware Answer Verification by Pairwise Self-Evaluation**|Akira Kawabata et.al.|[2410.04838v1](http://arxiv.org/abs/2410.04838v1)|null|
 |**2024-10-07**|**As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss**|Xin Mao et.al.|[2410.04834v1](http://arxiv.org/abs/2410.04834v1)|null|
-|**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833v1](http://arxiv.org/abs/2410.04833v1)|null|
-|**2024-10-07**|**MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models**|Kaichen Huang et.al.|[2410.04819v1](http://arxiv.org/abs/2410.04819v1)|null|
+|**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833v1](http://arxiv.org/abs/2410.04833v1)|[link](https://github.com/lgordon99/fusion-strategies-eccv)|
+|**2024-10-07**|**MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models**|Kaichen Huang et.al.|[2410.04819v1](http://arxiv.org/abs/2410.04819v1)|[link](https://github.com/hkccccc/MINER)|
 |**2024-10-07**|**Resource-Efficient Multiview Perception: Integrating Semantic Masking with Masked Autoencoders**|Kosta Dakic et.al.|[2410.04817v1](http://arxiv.org/abs/2410.04817v1)|null|
 |**2024-10-07**|**A Review of Artificial Intelligence based Biological-Tree Construction: Priorities, Methods, Applications and Trends**|Zelin Zang et.al.|[2410.04815v1](http://arxiv.org/abs/2410.04815v1)|null|
 |**2024-10-07**|**Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data**|Manuel Brenner et.al.|[2410.04814v1](http://arxiv.org/abs/2410.04814v1)|null|
 |**2024-10-07**|**LPZero: Language Model Zero-cost Proxy Search from Zero**|Peijie Dong et.al.|[2410.04808v1](http://arxiv.org/abs/2410.04808v1)|null|
-|**2024-10-07**|**DAPE V2: Process Attention Score as Feature Map for Length Extrapolation**|Chuanyang Zheng et.al.|[2410.04798v1](http://arxiv.org/abs/2410.04798v1)|null|
-|**2024-10-07**|**Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models**|Dahyun Kim et.al.|[2410.04795v1](http://arxiv.org/abs/2410.04795v1)|null|
+|**2024-10-07**|**DAPE V2: Process Attention Score as Feature Map for Length Extrapolation**|Chuanyang Zheng et.al.|[2410.04798v1](http://arxiv.org/abs/2410.04798v1)|[link](https://github.com/chuanyang-zheng/dape)|
+|**2024-10-07**|**Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models**|Dahyun Kim et.al.|[2410.04795v2](http://arxiv.org/abs/2410.04795v2)|[link](https://github.com/UpstageAI/ThaiCLI_H6)|
 |**2024-10-07**|**GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA**|Xinyu Wang et.al.|[2410.04790v1](http://arxiv.org/abs/2410.04790v1)|null|
 |**2024-10-07**|**Analysis of Hybrid Compositions in Animation Film with Weakly Supervised Learning**|Mónica Apellaniz Portos et.al.|[2410.04789v1](http://arxiv.org/abs/2410.04789v1)|null|
-|**2024-10-07**|**Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**|Jiahuan Li et.al.|[2410.04784v1](http://arxiv.org/abs/2410.04784v1)|null|
+|**2024-10-07**|**Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**|Jiahuan Li et.al.|[2410.04784v1](http://arxiv.org/abs/2410.04784v1)|[link](https://github.com/CaoYiqingT/Formality-is-Favored)|
 |**2024-10-07**|**Molecular topological deep learning for polymer property prediction**|Cong Shen et.al.|[2410.04765v1](http://arxiv.org/abs/2410.04765v1)|null|
 |**2024-10-07**|**Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM**|Tianhui Cai et.al.|[2410.04759v1](http://arxiv.org/abs/2410.04759v1)|null|
 |**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756v1](http://arxiv.org/abs/2410.04756v1)|null|
-|**2024-10-07**|**ImProver: Agent-Based Automated Proof Optimization**|Riyaz Ahuja et.al.|[2410.04753v1](http://arxiv.org/abs/2410.04753v1)|null|
+|**2024-10-07**|**ImProver: Agent-Based Automated Proof Optimization**|Riyaz Ahuja et.al.|[2410.04753v1](http://arxiv.org/abs/2410.04753v1)|[link](https://github.com/riyazahuja/ImProver)|
 |**2024-10-07**|**Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering**|Zimu Wang et.al.|[2410.04752v1](http://arxiv.org/abs/2410.04752v1)|null|
 |**2024-10-07**|**Intriguing Properties of Large Language and Vision Models**|Young-Jun Lee et.al.|[2410.04751v1](http://arxiv.org/abs/2410.04751v1)|null|
-|**2024-10-07**|**Evaluating the Generalization Ability of Spatiotemporal Model in Urban Scenario**|Hongjun Wang et.al.|[2410.04740v1](http://arxiv.org/abs/2410.04740v1)|null|
+|**2024-10-07**|**Evaluating the Generalization Ability of Spatiotemporal Model in Urban Scenario**|Hongjun Wang et.al.|[2410.04740v1](http://arxiv.org/abs/2410.04740v1)|[link](https://github.com/Dreamzz5/ST-OOD)|
 |**2024-10-07**|**TableRAG: Million-Token Table Understanding with Language Models**|Si-An Chen et.al.|[2410.04739v1](http://arxiv.org/abs/2410.04739v1)|null|
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734v1](http://arxiv.org/abs/2410.04734v1)|null|
 |**2024-10-07**|**Efficient transformer with reinforced position embedding for language models**|Yen-Che Hsiao et.al.|[2410.04731v1](http://arxiv.org/abs/2410.04731v1)|null|
@@ -98,7 +98,7 @@
 |**2024-10-07**|**Modeling and Estimation of Vocal Tract and Glottal Source Parameters Using ARMAX-LF Model**|Kai Lia et.al.|[2410.04704v1](http://arxiv.org/abs/2410.04704v1)|null|
 |**2024-10-07**|**The LLM Effect: Are Humans Truly Using LLMs, or Are They Being Influenced By Them Instead?**|Alexander S. Choi et.al.|[2410.04699v1](http://arxiv.org/abs/2410.04699v1)|null|
 |**2024-10-07**|**MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs**|Lei Wang et.al.|[2410.04698v1](http://arxiv.org/abs/2410.04698v1)|null|
-|**2024-10-07**|**Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning**|Qingyu Yin et.al.|[2410.04691v1](http://arxiv.org/abs/2410.04691v1)|null|
+|**2024-10-07**|**Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning**|Qingyu Yin et.al.|[2410.04691v1](http://arxiv.org/abs/2410.04691v1)|[link](https://github.com/mikastars39/iclvsfinetune)|
 |**2024-10-07**|**Towards Measuring Goal-Directedness in AI Systems**|Dylan Xu et.al.|[2410.04683v1](http://arxiv.org/abs/2410.04683v1)|null|
 |**2024-10-07**|**Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates**|Chaithanya Bandi et.al.|[2410.04663v1](http://arxiv.org/abs/2410.04663v1)|null|
 |**2024-10-07**|**Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine**|Xiaorui Su et.al.|[2410.04660v1](http://arxiv.org/abs/2410.04660v1)|null|
@@ -363,7 +363,7 @@ as humans do.
 摘要：多模态大型语言模型 (MLLM) 正在改变图形用户界面 (GUI) 代理的能力，促进它们从受控模拟向跨各种平台的复杂现实世界应用程序过渡。然而，这些代理的有效性取决于其基础能力的稳健性。当前的 GUI 代理主要使用基于文本的表示，例如 HTML 或无障碍树，尽管它们很实用，但通常会引入噪声、不完整性和增加的计算开销。在本文中，我们主张 GUI 代理采用类人化身，它们完全通过视觉感知环境并直接在 GUI 上执行像素级操作。关键在于视觉基础模型，它可以准确地将 GUI 元素的不同引用表达式映射到它们在不同平台上的 GUI 坐标。我们展示了一个简单的配方，其中包括基于网络的合成数据和 LLaVA 架构的轻微调整，对于训练此类视觉基础模型出人意料地有效。我们收集了迄今为止最大的 GUI 视觉基础数据集，其中包含 1000 万个 GUI 元素及其在 130 万个屏幕截图上的引用表达式，并使用它来训练 UGround，一个强大的 GUI 代理通用视觉基础模型。跨越三个类别（基础、离线代理和在线代理）的六个基准的经验结果表明，1）UGround 在 GUI 代理的现有视觉基础模型中表现明显优异，绝对值高达 20%，并且 2）使用 UGround 的代理优于最先进的代理，尽管现有代理使用额外的基于文本的输入，而我们的代理仅使用视觉感知。这些结果为 GUI 代理的可行性和前景提供了强有力的支持，这些代理像人类一样在数字世界中导航。
 
 ##### **TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**
-2410.05239v1 by Rabin Adhikari, Safal Thapaliya, Manish Dhakal, Bishesh Khanal
+2410.05239v2 by Rabin Adhikari, Safal Thapaliya, Manish Dhakal, Bishesh Khanal
 
 Vision-Language Models (VLMs) have shown impressive performance in vision
 tasks, but adapting them to new domains often requires expensive fine-tuning.
@@ -387,10 +387,10 @@ work advances the understanding and applicability of different prompt-tuning
 techniques for robust domain-specific segmentation. The source code is
 available at https://github.com/naamiinepal/tunevlseg.
 
-摘要：<paragraph>視覺語言模型 (VLM) 在視覺任務中表現出色，但要將其調整到新的領域通常需要昂貴的微調。提示調整技術，包括文字、視覺和多模態提示，通過利用可學習的提示提供了高效的替代方案。然而，它們在視覺語言分割模型 (VLSM) 中的應用和在顯著領域轉移下的評估仍未得到探索。這項工作提出了開源基準架構 TuneVLSeg，將各種單模態和多模態提示調整技術整合到 VLSM 中，使提示調整可用於具有任意數量類別的下游分割資料集。TuneVLSeg 包含 $6$ 個提示調整策略，用於 $2$ 個 VLSM 中使用的各種提示深度，總計 $8$ 個不同的組合。我們在 $8$ 個不同的醫療資料集上測試了各種提示調整，包括 $3$ 個放射科資料集（乳腺腫瘤、超音波心動圖、胸部 X 光病理）和 $5$ 個非放射科資料集（息肉、潰瘍、皮膚癌）以及兩個自然領域分割資料集。我們的研究發現，文字提示調整在顯著的領域轉移（從自然領域影像到醫療資料）中會遇到困難。此外，視覺提示調整的超參數比多模態提示調整少，通常可以達到與多模態方法競爭的效能，使其成為有價值的第一次嘗試。我們的研究推動了對不同提示調整技術在穩健領域特定分割中的理解和應用。原始碼可在 https://github.com/naamiinepal/tunevlseg 中取得。</paragraph>
+摘要：<paragraph>視覺語言模型 (VLM) 在視覺任務中展現出令人印象深刻的效能，但將它們調整至新的領域通常需要昂貴的微調。提示調整技術包含文字、視覺和多模態提示，透過利用可學習提示提供有效替代方案。然而，它們在視覺語言分割模型 (VLSM) 中的應用和在顯著領域轉移下的評估仍未被探討。這項工作提出一個開放原始碼基準架構 TuneVLSeg，將各種單模態和多模態提示調整技術整合至 VLSM，讓提示調整可用於下游分割資料集，且類別數量不限。TuneVLSeg 包含 $6$ 個提示調整策略，用於 $2$ 個 VLSM 中的各種提示深度，總計有 $8$ 個不同的組合。我們在 $8$ 個不同的醫學資料集上測試各種提示調整，包含 $3$ 個放射科資料集（乳房腫瘤、超音波心動圖、胸部 X 光病理）和 $5$ 個非放射科資料集（息肉、潰瘍、皮膚癌）以及兩個自然領域分割資料集。我們的研究發現，文字提示調整在顯著領域轉移（從自然領域影像到醫學資料）中會遇到困難。此外，視覺提示調整的超參數比多模態提示調整少，通常能達到與多模態方法相近的效能，使其成為有價值的第一次嘗試。我們的研究促進了對不同提示調整技術在穩健領域特定分割中的理解和應用。原始碼可在 https://github.com/naamiinepal/tunevlseg 取得。</paragraph>
 
 ##### **CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**
-2410.05235v1 by katerina Sviridova, Anar Yeginbergen, Ainara Estarrona, Elena Cabrio, Serena Villata, Rodrigo Agerri
+2410.05235v2 by Ekaterina Sviridova, Anar Yeginbergen, Ainara Estarrona, Elena Cabrio, Serena Villata, Rodrigo Agerri
 
 Explaining Artificial Intelligence (AI) decisions is a major challenge
 nowadays in AI, in particular when applied to sensitive scenarios like medicine
@@ -412,7 +412,7 @@ we annotated 5021 claims, 2313 premises, 2431 support relations, and 1106
 attack relations. We conclude by showing how competitive baselines perform over
 this challenging dataset for the argument mining task.
 
-摘要：解釋人工智慧 (AI) 的決策是當今 AI 的一項重大挑戰，特別是應用於醫療和法律等敏感情境時。然而，解釋決策背後的基本原理的需求，也是基於人類的審議的主要議題，因為有必要證明為何做出某項決策。例如，住院醫師不僅需要提供（可能是正確的）診斷，還需要解釋他們如何得出某個結論。因此，開發新的工具來幫助住院醫師訓練他們的解釋技能，是 AI 在教育中的核心目標。在本文中，我們遵循這個方向，並根據我們的知識，提出第一個多語言醫療問題解答資料集，其中臨床病例的正確和不正確診斷，都附有由醫師撰寫的自然語言解釋。這些解釋已使用論證組成（即前提、主張）和論證關係（即攻擊、支持）進行手動註解，產生多語言 CasiMedicos-Arg 資料集，其中包含 558 個臨床病例，使用四種語言（英語、西班牙語、法語、義大利語）撰寫解釋，我們註解了 5021 個主張、2313 個前提、2431 個支持關係和 1106 個攻擊關係。我們最後展示了競爭基準如何在論證探勘任務的這個具挑戰性資料集上執行。
+摘要：解釋人工智慧 (AI) 的決策是現在 AI 的一項重大挑戰，特別是應用於像醫學和法律等敏感情境時。然而，解釋決策背後理由的需求也是基於人類的考量的一個主要問題，因為有必要證明為什麼做出某個決策。例如，住院醫師不僅需要提供（可能是正確的）診斷，還需要解釋他們如何達成某個結論。因此，開發新的工具來幫助住院醫師訓練他們的解釋技巧是教育中 AI 的一項核心目標。在本文中，我們遵循這個方向，並且根據我們的了解，提出第一個多語言醫學問答資料集，其中臨床病例的正確和不正確診斷都附有由醫生撰寫的自然語言解釋。這些解釋已使用論證組成（即前提、主張）和論證關係（即攻擊、支持）進行手動註解，產生多語言 CasiMedicos-Arg 資料集，其中包含 558 個具有解釋的四種語言（英語、西班牙語、法語、義大利語）的臨床病例，我們註解了 5021 個主張、2313 個前提、2431 個支持關係和 1106 個攻擊關係。我們最後展示了競爭基準如何針對論證探勘任務執行此具挑戰性的資料集。
 
 ##### **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**
 2410.05229v1 by Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar
@@ -713,7 +713,7 @@ https://presto-music.github.io/web/.
 摘要：儘管基於擴散的文字轉音樂 (TTM) 方法有進展，但有效率、高品質的生成仍然是一個挑戰。我們介紹 Presto！，一種透過減少取樣步驟和每個步驟的成本來加速基於分數的擴散Transformer的推論加速方法。為了減少步驟，我們開發了一種新的基於分數的分配匹配蒸餾 (DMD) 方法，適用於擴散模型的 EDM 家族，這是 TTM 的第一個基於 GAN 的蒸餾方法。為了減少每個步驟的成本，我們開發了一種簡單但強大的改進方法，用於最近的層蒸餾方法，透過更好地保留隱藏狀態變異來改善學習。最後，我們將我們的步驟和層蒸餾方法結合在一起，形成一個雙管齊下的方法。我們獨立評估我們的步驟和層蒸餾方法，並展示每個方法都能產生同類最佳的效能。我們結合的蒸餾方法可以生成高品質的輸出，並提高多樣性，將我們的基礎模型加速 10-18 倍（32 秒單聲道/立體聲 44.1kHz 的延遲時間為 230/435 毫秒，比同類 SOTA 快 15 倍）——這是我們所知最快的 TTM 高品質。可以在 https://presto-music.github.io/web/ 找到聲音範例。
 
 ##### **Efficient Inference for Large Language Model-based Generative Recommendation**
-2410.05165v1 by Xinyu Lin, Chaoqun Yang, Wenjie Wang, Yongqi Li, Cunxiao Du, Fuli Feng, See-Kiong Ng, Tat-Seng Chua
+2410.05165v2 by Xinyu Lin, Chaoqun Yang, Wenjie Wang, Yongqi Li, Cunxiao Du, Fuli Feng, See-Kiong Ng, Tat-Seng Chua
 
 Large Language Model (LLM)-based generative recommendation has achieved
 notable success, yet its practical deployment is costly particularly due to
@@ -738,7 +738,7 @@ speedup under strict top-K verification and up to 2.5 speedup under relaxed
 sampling verification. The codes and datasets will be released in the near
 future.
 
-摘要：<paragraph>基於大型語言模型 (LLM) 的生成式推薦已取得顯著成功，但其實際部署成本高昂，特別是因為自迴歸解碼導致過度的推論延遲。對於無損失的 LLM 解碼加速，推測性解碼 (SD) 已成為一種有前途的解決方案。然而，由於需要透過波束搜尋產生頂級 K 項目（即 K 個不同的代幣序列）作為推薦清單，將 SD 應用於生成式推薦會產生獨特的挑戰。這導致在 SD 中進行更嚴格的驗證，其中目標 LLM 的所有頂級 K 序列都必須在每個解碼步驟由草稿模型成功起草。為了緩解這一點，我們考慮 1) 提升草稿模型和目標 LLM 之間的頂級 K 序列對齊，以及 2) 放寬驗證策略以減少無關緊要的 LLM 呼叫。為此，我們提出了一個名為 AtSpeed 的對齊架構，它提出了在嚴格的頂級 K 驗證下用於頂級 K 對齊的 AtSpeed-S 最佳化目標。此外，我們引入了一種放寬的抽樣驗證策略，允許接受高機率非頂級 K 起草序列，大幅減少 LLM 呼叫。相應地，我們提出 AtSpeed-R 用於在這種放寬的抽樣驗證下進行頂級 K 對齊。在兩個真實世界資料集上的實證結果表明，AtSpeed 大幅加速了基於 LLM 的生成式推薦，例如，在嚴格的頂級 K 驗證下加速近 2 倍，在放寬的抽樣驗證下加速高達 2.5 倍。這些程式碼和資料集將在不久的將來發布。</paragraph>
+摘要：<paragraph>基於大型語言模型 (LLM) 的生成式推薦已獲得顯著成功，但由於自迴歸解碼造成的過度推論延遲，其實際部署成本很高。對於無損失 LLM 解碼加速，推測性解碼 (SD) 已成為一種有前途的解決方案。然而，由於需要通過波束搜索生成頂部 K 項（即 K 個不同的符號序列）作為推薦清單，將 SD 應用於生成式推薦會帶來獨特的挑戰。這導致在 SD 中進行更嚴格的驗證，其中目標 LLM 中的所有頂部 K 序列都必須在每個解碼步驟中由草稿模型成功起草。為了緩解這一點，我們考慮 1) 提升草稿模型和目標 LLM 之間的頂部 K 序列對齊，以及 2) 放寬驗證策略以減少瑣碎的 LLM 調用。為此，我們提出了一個名為 AtSpeed 的對齊框架，它提出了在嚴格的頂部 K 驗證下用於頂部 K 對齊的 AtSpeed-S 優化目標。此外，我們引入了一個放寬的抽樣驗證策略，允許接受高概率的非頂部 K 草稿序列，從而顯著減少 LLM 調用。相應地，我們提出了 AtSpeed-R，用於在這種放寬的抽樣驗證下進行頂部 K 對齊。在兩個真實世界數據集上的實證結果表明，AtSpeed 可以顯著加速基於 LLM 的生成式推薦，例如，在嚴格的頂部 K 驗證下加速近 2 倍，在放寬的抽樣驗證下加速高達 2.5 倍。代碼和數據集將在不久的將來發布。</paragraph>
 
 ##### **Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**
 2410.05162v1 by Mehrdad Farahani, Richard Johansson
@@ -833,7 +833,7 @@ analysis.
 摘要：近期研究已探討使用大型語言模型 (LLM) 來處理複雜的圖形推理任務。然而，由於圖形結構的複雜性和 LLM 在處理長文本時固有的限制，現有方法通常無法提供令人滿意的準確性，即使是在小規模圖形和簡單任務上。為了應對這些挑戰，我們引入了 GraphAgent-Reasoner，這是一個無需微調的框架，它利用多主體協作策略進行明確且精確的圖形推理。我們的框架受到分散式圖形計算理論的啟發，將圖形問題分解成更小的以節點為中心的任務，並將這些任務分配給多個主體。這些主體協作解決整體問題，大幅減少單個 LLM 處理的資訊量和複雜度，從而提升圖形推理的準確性。透過單純增加主體數量，GraphAgent-Reasoner 可以有效擴充以容納節點超過 1,000 個的大型圖形。在 GraphInstruct 資料集上進行評估，我們的框架在多項式時間圖形推理任務上展現出近乎完美的準確性，大幅優於市面上最好的模型，包含閉源和微調開源版本。我們的框架也展現出處理真實世界圖形推理應用程式的能力，例如網頁重要性分析。
 
 ##### **Last Iterate Convergence in Monotone Mean Field Games**
-2410.05127v1 by Noboru Isobe, Kenshi Abe, Kaito Ariu
+2410.05127v2 by Noboru Isobe, Kenshi Abe, Kaito Ariu
 
 Mean Field Game (MFG) is a framework utilized to model and approximate the
 behavior of a large number of agents, and the computation of equilibria in MFG
@@ -850,7 +850,7 @@ $\varepsilon$ after $\mathcal{O}({\log(1/\varepsilon)})$ iterations. This
 research offers a tractable approach for large-scale and large-population
 games.
 
-摘要：平均場博弈 (MFG) 是一個用於建模和近似大量博弈者行為的框架，而 MFG 中均衡的計算一直是人們感興趣的主題。儘管提出了近似均衡的方法，但更新策略序列收斂到均衡的演算法，特別是那些展現最後一次迭代收斂的演算法，一直很有限。我們建議使用一種簡單的近端點類型演算法來計算 MFG 的均衡。隨後，我們在 Lasry--Lions 型單調性條件下提供了第一個最後一次迭代收斂保證。我們進一步採用鏡像下降演算法，用於正則化 MFG，以有效近似 MFG 近端點方法的更新規則。我們證明了該演算法可以在 $\mathcal{O}({\log(1/\varepsilon)})$ 次迭代後以 $\varepsilon$ 的精度進行近似。這項研究為大規模和大群體博弈提供了一種可行的途徑。
+摘要：平均場博弈 (MFG) 是一個用於模擬和近似大量代理行為的框架，而 MFG 中均衡的計算一直是人們感興趣的主題。儘管提出了近似均衡的方法，但更新策略序列收斂到均衡的演算法，特別是那些表現出最後一次迭代收斂的演算法，一直很有限。我們建議使用一個簡單的近端點型演算法來計算 MFG 的均衡。隨後，我們在 Lasry-Lions 型單調條件下提供了第一個最後一次迭代收斂保證。我們進一步採用鏡像下降演算法進行正規化 MFG，以有效近似 MFG 近端點方法的更新規則。我們證明了該演算法可以在 $\mathcal{O}({\log(1/\varepsilon)})$ 次迭代後以 $\varepsilon$ 的精度進行近似。這項研究為大規模和大規模博弈提供了一個易於處理的方法。
 
 ##### **Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**
 2410.05116v1 by Ayano Hiranaka, Shang-Fu Chen, Chieh-Hsin Lai, Dongjun Kim, Naoki Murata, Takashi Shibuya, Wei-Hsiang Liao, Shao-Hua Sun, Yuki Mitsufuji
@@ -1472,7 +1472,7 @@ method significantly outperforms baseline approaches.
 摘要：法院效率對於社會穩定至關重要。然而，在世界大多數國家中，基層法院面臨案件積壓，判決嚴重依賴司法人員的認知勞動，缺乏提高效率的智能工具。為了解決這個問題，我們提出了一個利用知識圖譜 (KG) 和大型語言模型 (LLM) 的高效法律條文推薦方法。首先，我們提出一個案例增強法律條文知識圖譜 (CLAKG) 作為一個資料庫，用於儲存現行法律法規、歷史案例資訊和法律條文與歷史案例之間的對應關係。此外，我們引入一個基於 LLM 的自動化 CLAKG 構建方法。在此基礎上，我們提出了一個閉環法律條文推薦方法。最後，透過一連串使用來自網站「中國裁判文書網」的裁判文書的實驗，我們將案件中法律條文推薦的準確率從 0.549 提升至 0.694，證明我們提出的方法顯著優於基準方法。
 
 ##### **Detecting and Approximating Redundant Computational Blocks in Neural Networks**
-2410.04941v1 by Irene Cannistraci, Emanuele Rodolà, Bastian Rieck
+2410.04941v2 by Irene Cannistraci, Emanuele Rodolà, Bastian Rieck
 
 Deep neural networks often learn similar internal representations, both
 across different models and within their own layers. While inter-network
@@ -1492,7 +1492,7 @@ parameters and time complexity while maintaining good performance. We validate
 our method on classification tasks in the vision domain using a variety of
 pretrained foundational models and datasets.
 
-摘要：深度神经网络通常会学习相似的内部表示，无论是在不同模型之间还是在其自身的层内。虽然网络间相似性已使模型拼接和合并等技术成为可能，但网络内相似性为设计更有效的架构提供了新的机会。在本文中，我们调查了在不同神经架构的不同层中出现的这些内部相似性，表明相似性模式独立于所使用的数据集而出现。我们引入了一个简单的度量标准，即块冗余，以检测冗余块，为未来的架构优化方法奠定基础。在此基础上，我们提出了冗余块近似 (RBA)，这是一个通用框架，它使用更简单的变换来识别和近似一个或多个冗余计算块。我们表明，两个表示之间的变换$\mathcal{T}$可以在封闭形式中有效计算，并且足以替换网络中的冗余块。RBA 减少了模型参数和时间复杂度，同时保持了良好的性能。我们使用各种预训练基础模型和数据集对视觉域中的分类任务验证了我们的方法。
+摘要：深度神经网络通常学习相似的内部表征，既跨越不同的模型也在其自身的层内。虽然网络间相似性已经启用了模型拼接和合并等技术，但网络内相似性为设计更有效的架构提供了新的机会。在本文中，我们调查了在不同的神经架构中这些内部相似性在不同层中的出现，表明相似性模式独立于所使用的数据集而出现。我们引入了一个简单的度量，块冗余，来检测冗余块，为未来的架构优化方法提供基础。在此基础上，我们提出了冗余块近似 (RBA)，一个通用框架，它使用更简单的变换来识别和近似一个或多个冗余计算块。我们表明，两个表征之间的变换 $\mathcal{T}$ 可以用闭合形式有效地计算，并且足以替换网络中的冗余块。RBA 减少了模型参数和时间复杂度，同时保持了良好的性能。我们使用各种预训练基础模型和数据集对视觉领域的分类任务验证了我们的方法。
 
 ##### **Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**
 2410.04936v1 by Chen Zhang, Huan Hu, Yuan Zhou, Qiyang Cao, Ruochen Liu, Wenya Wei, Elvis S. Liu
@@ -1876,7 +1876,7 @@ performance.
 摘要：注意力机制是 Transformer 模型的基本組成部分，與早期的前饋神經網路不同，它有助於不同符號之間的互動。一般來說，注意力分數僅由鍵查詢乘積決定。然而，這項工作偶爾嘗試（結合 DAPE 和 NoPE）在注意力分數中加入額外的 MLP，而沒有位置編碼，這表示傳統的鍵查詢乘法可能會限制 Transformer 的效能。在這項工作中，我們將注意力概念化為特徵圖，並套用卷積運算子（針對不同頭部之間的鄰近注意力分數）來模擬電腦視覺中的處理方法。具體來說，本文的主要貢獻是將 Transformer 長度外推問題識別並詮釋為單純的查詢和鍵點積表現力有限的結果，而且我們成功地將長度外推問題轉換為一個理解良好的特徵圖處理問題。這個新穎的見解可以調整為各種與注意力相關的模型，它揭示了目前的 Transformer 架構有進一步演化的潛力。廣泛的實驗證明，將注意力視為特徵圖並套用卷積作為處理方法，可以顯著提升 Transformer 的效能。
 
 ##### **Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models**
-2410.04795v1 by Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, Chanjun Park
+2410.04795v2 by Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, Chanjun Park
 
 The rapid advancement of large language models (LLMs) has highlighted the
 need for robust evaluation frameworks that assess their core capabilities, such
@@ -1894,7 +1894,7 @@ Thai LLM development. Furthermore, we will make both the datasets and
 evaluation code publicly available to encourage further research and
 development for Thai LLMs.
 
-摘要：隨著大型語言模型 (LLM) 的快速進展，凸顯了對健全評估架構的需求，以評估其核心能力，例如推理、知識和常識，進而促使某些廣泛使用的基準套件（例如 H6基準）的誕生。然而，這些基準套件主要是為英語而建構，而對於在 LLM 開發方面代表性不足的語言，例如泰語，則缺乏此類基準套件。另一方面，為泰語開發 LLM 也應包括增強文化理解和核心能力。為了應對泰語 LLM 研究中的這項雙重挑戰，我們提出了兩個關鍵基準：泰語 H6 和泰語文化和語言智能基準 (ThaiCLI)。透過對具有多語言能力的各種 LLM 進行徹底評估，我們提供了對所提出基準的全面分析，以及它們如何促進泰語 LLM 的發展。此外，我們將公開發布資料集和評估程式碼，以鼓勵進一步研究和開發泰語 LLM。
+摘要：大型語言模型 (LLM) 的快速進展突顯了對健全評估架構的需求，這些架構評估其核心能力，例如推理、知識和常識，進而促成了某些廣泛使用的基準套件，例如 H6 基準。然而，這些基準套件主要是為英語而建構的，而且在 LLM 開發方面，對於泰語等代表性不足的語言來說，缺乏基準。另一方面，為泰語開發 LLM 也應包括加強文化理解以及核心能力。為了應對泰語 LLM 研究中的這項雙重挑戰，我們提出了兩個關鍵基準：泰語 H6 和泰語文化語言智能基準 (ThaiCLI)。透過對具有多語言能力的各種 LLM 進行徹底評估，我們對所提出的基準進行了全面的分析，以及它們如何有助於泰語 LLM 的開發。此外，我們將公開提供資料集和評估程式碼，以鼓勵進一步研究和開發泰語 LLM。
 
 ##### **GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA**
 2410.04790v1 by Xinyu Wang, Yanzheng Xiang, Lin Gui, Yulan He

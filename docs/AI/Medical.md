@@ -10,8 +10,8 @@
 |**2024-10-08**|**Skin Cancer Machine Learning Model Tone Bias**|James Pope et.al.|[2410.06385v1](http://arxiv.org/abs/2410.06385v1)|null|
 |**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370v1](http://arxiv.org/abs/2410.06370v1)|null|
 |**2024-10-08**|**A Comparative Study of Hybrid Models in Health Misinformation Text Classification**|Mkululi Sikosana et.al.|[2410.06311v1](http://arxiv.org/abs/2410.06311v1)|null|
-|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v1](http://arxiv.org/abs/2410.05725v1)|null|
-|**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684v1](http://arxiv.org/abs/2410.05684v1)|null|
+|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|[link](https://github.com/wwh0411/knowledgesg)|
+|**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684v2](http://arxiv.org/abs/2410.05684v2)|null|
 |**2024-10-08**|**NegMerge: Consensual Weight Negation for Strong Machine Unlearning**|Hyoseo Kim et.al.|[2410.05583v1](http://arxiv.org/abs/2410.05583v1)|null|
 |**2024-10-07**|**AI-Driven Early Mental Health Screening with Limited Data: Analyzing Selfies of Pregnant Women**|Gustavo A. Basílio et.al.|[2410.05450v1](http://arxiv.org/abs/2410.05450v1)|null|
 |**2024-10-07**|**Improving Predictor Reliability with Selective Recalibration**|Thomas P. Zollo et.al.|[2410.05407v1](http://arxiv.org/abs/2410.05407v1)|null|
@@ -31,8 +31,8 @@
 |**2024-10-05**|**From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings**|Jun Li et.al.|[2410.04133v1](http://arxiv.org/abs/2410.04133v1)|null|
 |**2024-10-05**|**Taming the Tail: Leveraging Asymmetric Loss and Pade Approximation to Overcome Medical Image Long-Tailed Class Imbalance**|Pankhi Kashyap et.al.|[2410.04084v1](http://arxiv.org/abs/2410.04084v1)|null|
 |**2024-10-04**|**Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis**|Amey Hengle et.al.|[2410.03908v1](http://arxiv.org/abs/2410.03908v1)|null|
-|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558v1](http://arxiv.org/abs/2410.03558v1)|[link](https://github.com/darkbblue/generic-diffusion-feature)|
-|**2024-10-04**|**Towards Real-time Intrahepatic Vessel Identification in Intraoperative Ultrasound-Guided Liver Surgery**|Karl-Philippe Beaudet et.al.|[2410.03420v1](http://arxiv.org/abs/2410.03420v1)|null|
+|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558v2](http://arxiv.org/abs/2410.03558v2)|[link](https://github.com/darkbblue/generic-diffusion-feature)|
+|**2024-10-04**|**Towards Real-time Intrahepatic Vessel Identification in Intraoperative Ultrasound-Guided Liver Surgery**|Karl-Philippe Beaudet et.al.|[2410.03420v2](http://arxiv.org/abs/2410.03420v2)|null|
 |**2024-10-04**|**Make Interval Bound Propagation great again**|Patryk Krukowski et.al.|[2410.03373v1](http://arxiv.org/abs/2410.03373v1)|[link](https://github.com/gmum/make-interval-bound-propagation-great-again)|
 |**2024-10-04**|**An Enhanced Harmonic Densely Connected Hybrid Transformer Network Architecture for Chronic Wound Segmentation Utilising Multi-Colour Space Tensor Merging**|Bill Cassidy et.al.|[2410.03359v1](http://arxiv.org/abs/2410.03359v1)|null|
 |**2024-10-04**|**Comparative Analysis and Ensemble Enhancement of Leading CNN Architectures for Breast Cancer Classification**|Gary Murphy et.al.|[2410.03333v1](http://arxiv.org/abs/2410.03333v1)|null|
@@ -43,7 +43,7 @@
 |**2024-10-03**|**Is Your Paper Being Reviewed by an LLM? Investigating AI Text Detectability in Peer Review**|Sungduk Yu et.al.|[2410.03019v1](http://arxiv.org/abs/2410.03019v1)|null|
 |**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683v1](http://arxiv.org/abs/2410.02683v1)|null|
 |**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637v1](http://arxiv.org/abs/2410.02637v1)|null|
-|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v2](http://arxiv.org/abs/2410.02592v2)|null|
+|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v3](http://arxiv.org/abs/2410.02592v3)|null|
 |**2024-10-03**|**Deep Regression 2D-3D Ultrasound Registration for Liver Motion Correction in Focal Tumor Thermal Ablation**|Shuwei Xing et.al.|[2410.02579v1](http://arxiv.org/abs/2410.02579v1)|[link](https://github.com/xingorno/deepregs2v)|
 |**2024-10-03**|**ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration**|Zixiang Wang et.al.|[2410.02551v1](http://arxiv.org/abs/2410.02551v1)|null|
 |**2024-10-03**|**SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation**|Mucong Ding et.al.|[2410.02512v1](http://arxiv.org/abs/2410.02512v1)|null|
@@ -300,7 +300,7 @@ OSNs, aiding in combating health misinformation.
 摘要：這項研究評估機器學習 (ML) 和深度學習 (DL) 模型在偵測線上社群網路 (OSN) 上與 COVID-19 相關的錯誤訊息的有效性，目標是開發更有效的工具來對抗大流行期間健康錯誤訊息的散布。這項研究訓練並測試了各種 ML 分類器（樸素貝氏、SVM、隨機森林等）、DL 模型（CNN、LSTM、混合 CNN+LSTM）和預訓練語言模型（DistilBERT、RoBERTa）在「COVID19-FNIR 資料集」上。這些模型經過評估，標準為準確度、F1 分數、召回率、精確度和 ROC，並使用了詞幹化和詞形還原等前處理技術。結果顯示 SVM 表現良好，達到 94.41% 的 F1 分數。使用 Word2Vec 嵌入的 DL 模型在所有效能指標（準確度、F1 分數、召回率、精確度和 ROC）中都超過 98%。CNN+LSTM 混合模型在所有效能指標中也超過 98%，優於 DistilBERT 和 RoBERTa 等預訓練模型。我們的研究結論是，DL 和混合 DL 模型比傳統 ML 演算法更能有效偵測 OSN 上的 COVID-19 錯誤訊息。這些發現突顯了進階神經網路方法和錯誤訊息偵測中大規模預訓練的重要性。未來的研究應針對各種錯誤訊息類型最佳化這些模型，並適應不斷變化的 OSN，協助打擊健康錯誤訊息。
 
 ##### **KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**
-2410.05725v1 by Wenhao Wang, Xiaoyu Liang, Rui Ye, Jingyi Chai, Siheng Chen, Yanfeng Wang
+2410.05725v2 by Wenhao Wang, Xiaoyu Liang, Rui Ye, Jingyi Chai, Siheng Chen, Yanfeng Wang
 
 The success of large language models (LLMs) facilitate many parties to
 fine-tune LLMs on their own private data. However, this practice raises privacy
@@ -309,20 +309,19 @@ synthetic data for substitution, struggle to simultaneously improve performance
 and preserve privacy. They either rely on a local model for generation,
 resulting in a performance decline, or take advantage of APIs, directly
 exposing the data to API servers. To address this issue, we propose
-\textit{KnowledgeSG}, a novel client-server framework which enhances synthetic
-data quality and improves model performance while ensuring privacy. We achieve
-this by learning local knowledge from the private data with differential
-privacy (DP) and distilling professional knowledge from the server.
-Additionally, inspired by federated learning, we transmit models rather than
-data between the client and server to prevent privacy leakage. Extensive
-experiments in medical and financial domains demonstrate the effectiveness of
-KnowledgeSG. Our code is now publicly available at
-https://github.com/wwh0411/KnowledgeSG.
+KnowledgeSG, a novel client-server framework which enhances synthetic data
+quality and improves model performance while ensuring privacy. We achieve this
+by learning local knowledge from the private data with differential privacy
+(DP) and distilling professional knowledge from the server. Additionally,
+inspired by federated learning, we transmit models rather than data between the
+client and server to prevent privacy leakage. Extensive experiments in medical
+and financial domains demonstrate the effectiveness of KnowledgeSG. Our code is
+now publicly available at https://github.com/wwh0411/KnowledgeSG.
 
-摘要：大型語言模型 (LLM) 的成功促使許多人微調自己的私人資料上的 LLM。然而，此做法會因為 LLM 的記憶功能而引發隱私疑慮。現有的解決方案，例如利用合成資料進行替換，在同時提升效能和保護隱私方面仍有困難。它們仰賴在地模型進行產生，導致效能下降，或利用 API，直接將資料公開給 API 伺服器。為了解決這個問題，我們提出「知識 SG」，一種新穎的客戶端伺服器架構，它能提升合成資料品質，並在確保隱私的同時提升模型效能。我們透過使用差分隱私 (DP) 從私人資料中學習在地知識，並從伺服器中萃取專業知識，達成此目標。此外，受聯邦學習的啟發，我們傳輸模型而非資料在客戶端和伺服器之間，以防止隱私外洩。在醫療和金融領域的廣泛實驗證明了知識 SG 的有效性。我們的程式碼現在已公開於 https://github.com/wwh0411/KnowledgeSG。
+摘要：大型語言模型 (LLM) 的成功讓許多人可以微調 LLM 以符合他們的私人資料。然而，由於 LLM 的記憶功能，此做法引發了隱私問題。現有的解決方案，例如使用合成資料進行替換，難以同時改善效能並維護隱私。它們依賴於區域模型進行產生，導致效能下降，或利用 API，直接將資料公開給 API 伺服器。為了解決此問題，我們提出 KnowledgeSG，一種新穎的客戶端伺服器架構，它能提升合成資料品質並改善模型效能，同時確保隱私。我們透過使用差分隱私 (DP) 從私人資料中學習區域知識，並從伺服器中萃取專業知識來達成此目標。此外，受到聯邦學習的啟發，我們傳輸模型而非資料在客戶端和伺服器之間，以防止隱私外洩。在醫療和金融領域的廣泛實驗證明了 KnowledgeSG 的有效性。我們的程式碼現在公開於 https://github.com/wwh0411/KnowledgeSG。
 
 ##### **Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**
-2410.05684v1 by Yi Jiang, Qingyang Shen, Shuzhong Lai, Shunyu Qi, Qian Zheng, Lin Yao, Yueming Wang, Gang Pan
+2410.05684v2 by Yi Jiang, Qingyang Shen, Shuzhong Lai, Shunyu Qi, Qian Zheng, Lin Yao, Yueming Wang, Gang Pan
 
 Autism spectrum disorder(ASD) is a pervasive developmental disorder that
 significantly impacts the daily functioning and social participation of
@@ -344,8 +343,7 @@ fields of mental health disorders. We hope for more research to be transferred
 into real clinical practice, opening a window of kindness to the world for
 eccentric children.
 
-摘要：自閉症譜系障礙 (ASD) 是一種廣泛的發展障礙，
-會顯著影響個人的日常生活功能和社會參與。儘管有許多研究專注於支持 ASD 的臨床診斷，但基於大型語言模型 (LLM) 的方法領域中仍然缺乏系統且全面的探討，特別是基於自閉症診斷觀察量表第二版的真實世界臨床診斷情境 (ADOS-2)。因此，我們提出了一個稱為 ADOS-Copilot 的框架，它在評分和解釋之間取得平衡，並探討了影響 LLM 在此任務中表現的因素。實驗結果表明，我們提出的框架與臨床醫生的診斷結果具有競爭力，最小 MAE 為 0.4643，二元分類 F1 分數為 81.79%，三元分類 F1 分數為 78.37%。此外，我們從 ADOS-2、LLM 的能力、語言和模型規模的角度系統地闡明了當前 LLM 在此任務中的優點和局限性，旨在激勵和指導 LLM 在更廣泛的精神健康障礙領域中的未來應用。我們希望有更多的研究可以轉移到實際的臨床實踐中，為古怪的孩子們打開一扇通往世界的善意之窗。
+摘要：自閉症譜系障礙 (ASD) 是一種廣泛的發展障礙，會顯著影響個體的日常生活功能和社交參與。儘管有大量的研究專注於支持 ASD 的臨床診斷，但在基於大型語言模型 (LLM) 的方法領域中，仍然缺乏系統且全面的探索，特別是關於基於自閉症診斷觀察量表第二版的真實世界臨床診斷情境 (ADOS-2)。因此，我們提出了一個名為 ADOS-Copilot 的框架，它在評分和解釋之間取得平衡，並探討了影響 LLM 在此任務中表現的因素。實驗結果表明，我們提出的框架與臨床醫生的診斷結果具有競爭力，MAE 最小為 0.4643，二元分類 F1 分數為 81.79%，三元分類 F1 分數為 78.37%。此外，我們從 ADOS-2、LLM 的能力、語言和模型規模的角度系統地闡明了當前 LLM 在此任務中的優勢和局限性，旨在激勵和指導 LLM 在更廣泛的精神疾病領域中的未來應用。我們希望更多的研究能轉化為真正的臨床實踐，為古怪的孩子們打開一扇通往世界的善意之窗。
 
 ##### **NegMerge: Consensual Weight Negation for Strong Machine Unlearning**
 2410.05583v1 by Hyoseo Kim, Dongyoon Han, Junsuk Choe
@@ -845,7 +843,7 @@ to mental health diagnostics.
 摘要：在這項研究中，我們介紹 ANGST，這是一個新穎的、同類首創的基準，用於從社群媒體貼文中分類憂鬱症和焦慮症共病。與當代的資料集不同，當代的資料集通常會過度簡化不同心理健康障礙之間的複雜交互作用，將它們視為孤立的狀況，而 ANGST 能夠進行多標籤分類，讓每則貼文都能同時被辨識為表示憂鬱症和/或焦慮症。ANGST 包含了 2876 則由專家心理學家仔細註解的貼文，以及另外 7667 則標記為銀級的貼文，它提出了更具代表性的線上心理健康論述範例。此外，我們使用從 Mental-BERT 到 GPT-4 等各種最先進的語言模型對 ANGST 進行基準測試。我們的結果提供了重要的見解，說明了這些模型在複雜的診斷情境中的能力和限制。雖然 GPT-4 通常優於其他模型，但沒有任何模型在多類共病分類中達到超過 72% 的 F1 分數，這凸顯了將語言模型應用於心理健康診斷的持續挑戰。
 
 ##### **Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**
-2410.03558v1 by Benyuan Meng, Qianqian Xu, Zitai Wang, Xiaochun Cao, Qingming Huang
+2410.03558v2 by Benyuan Meng, Qianqian Xu, Zitai Wang, Xiaochun Cao, Qingming Huang
 
 Diffusion models are initially designed for image generation. Recent research
 shows that the internal signals within their backbones, named activations, can
@@ -871,10 +869,10 @@ discriminative tasks validate the superiority of our method over the SOTA
 competitors. Our code is available at
 https://github.com/Darkbblue/generic-diffusion-feature.
 
-摘要：擴散模型最初是針對影像生成而設計的。最近的研究顯示，其主幹中的內部訊號（稱為啟動）也可作為各種判別式任務（例如語意分割）的密集特徵。在給定許多啟動的情況下，選擇一個小但有效的子集會構成一個基本問題。為此，該領域的早期研究對啟動的判別能力進行了大規模的定量比較。然而，我們發現許多潛在的啟動尚未經過評估，例如用於計算注意力分數的查詢和鍵。此外，擴散架構的最新進展帶來了許多新的啟動，例如嵌入式 ViT 模組中的那些。兩者相結合，啟動選擇仍然未解決且被忽視。為了解決這個問題，本文更進一步，評估了更廣泛的啟動範圍。考慮到啟動的大幅增加，全面定量比較不再可行。相反，我們試圖了解這些啟動的屬性，以便可以透過簡單的定性評估事先篩選出明顯較差的啟動。經過仔細分析，我們發現了擴散模型中普遍存在的三個屬性，使本研究能夠超越特定模型。除此之外，我們還為幾個流行的擴散模型提供了有效的特徵選擇解決方案。最後，跨多個判別式任務的實驗驗證了我們的方法優於 SOTA 競爭對手。我們的程式碼可在 https://github.com/Darkbblue/generic-diffusion-feature 取得。
+摘要：擴散模型最初是為影像生成而設計。最近的研究顯示，其主幹中的內部訊號（稱為激活）也可以作為各種判別任務（例如語意分割）的稠密特徵。在給定大量激活的情況下，選擇一個小但有效的子集是一個基本問題。為此，此領域的早期研究對激活的判別能力進行了大規模的定量比較。然而，我們發現許多潛在的激活尚未經過評估，例如用於計算注意力分數的查詢和鍵。此外，擴散架構的最新進展帶來了許多新的激活，例如嵌入式 ViT 模組中的那些。兩者結合，激活選擇仍然未解決，但被忽視了。為了解決這個問題，本文採用更廣泛的激活評估範圍，進一步邁出了一步。考慮到激活的顯著增加，全面定量比較不再可行。相反，我們尋求了解這些激活的特性，以便可以透過簡單的定性評估事先篩選出明顯較差的激活。經過仔細分析，我們發現擴散模型中普遍存在三個特性，使本研究能夠超越特定模型。除此之外，我們針對幾種流行的擴散模型提出了有效的特徵選擇解決方案。最後，跨多個判別任務的實驗驗證了我們的方法優於 SOTA 競爭對手。我們的程式碼可在 https://github.com/Darkbblue/generic-diffusion-feature 取得。
 
 ##### **Towards Real-time Intrahepatic Vessel Identification in Intraoperative Ultrasound-Guided Liver Surgery**
-2410.03420v1 by Karl-Philippe Beaudet, Alexandros Karargyris, Sidaty El Hadramy, Stéphane Cotin, Jean-Paul Mazellier, Nicolas Padoy, Juan Verde
+2410.03420v2 by Karl-Philippe Beaudet, Alexandros Karargyris, Sidaty El Hadramy, Stéphane Cotin, Jean-Paul Mazellier, Nicolas Padoy, Juan Verde
 
 While laparoscopic liver resection is less prone to complications and
 maintains patient outcomes compared to traditional open surgery, its complexity
@@ -891,7 +889,7 @@ identification in ultrasound-based liver resection. Its adaptability and
 potential clinical impact promise to advance surgical interventions and improve
 patient care.
 
-摘要：腹腔鏡肝切除術與傳統的開放手術相比，較不容易產生併發症，且能維持患者的治療成效，但由於其複雜性，在呈現肝臟內部結構時會遭遇挑戰，因此阻礙了它的廣泛採用。腹腔鏡術中超音波提供了有效率、經濟且無輻射的引導。我們的目標是協助醫師使用腹腔鏡術中超音波來辨識肝臟內部結構。我們提出一個使用術前 3D 超音波肝臟體積來訓練深度學習模型的患者專屬方法，以利於即時辨識門靜脈樹和分支結構。我們的個人化 AI 模型已在離體豬肝臟上驗證，與外科醫師相比，達到了更高的精確度 (0.95) 和召回率 (0.93)，這為基於超音波的肝切除術中精確的血管辨識奠定了基礎。它的適應性和潛在的臨床影響有望推進外科手術，並改善患者照護。
+摘要：腹腔鏡肝切除術與傳統開放式手術相比，較不易產生併發症，且能維持患者的治療結果，但其複雜性阻礙了廣泛採用，原因在於難以呈現肝臟的內部結構。腹腔鏡術中超音波提供有效、經濟且無輻射的導引。我們的目標是協助醫師使用腹腔鏡術中超音波來辨識肝臟的內部結構。我們提出一個使用術前 3D 超音波肝臟體積來訓練深度學習模型，以即時辨識門脈樹和分支結構的患者特定方法。我們的個人化人工智慧模型在離體豬肝臟上驗證，與外科醫師相比，達到了更高的精確度 (0.95) 和召回率 (0.93)，為基於超音波的肝臟切除術中精確血管辨識奠定了基礎。其適應性和潛在的臨床影響有望推進外科手術，並改善患者照護。
 
 ##### **Make Interval Bound Propagation great again**
 2410.03373v1 by Patryk Krukowski, Daniel Wilczak, Jacek Tabor, Anna Bielawska, Przemysław Spurek
@@ -1169,7 +1167,7 @@ models.
 摘要：儘管多模態基礎模型現在可以原生處理文字以外的資料，但它們在分析醫療保健、金融和社會科學等領域中大量多維時間序列資料時仍未被充分利用，這代表錯失了獲得更豐富資料驅動見解的機會。本文提出了一種簡單但有效的方法，利用這些模型現有的視覺編碼器透過圖表「查看」時間序列資料，避免需要額外且可能昂貴的模型訓練。我們的經驗評估顯示，這種方法優於提供原始時間序列資料作為文字，額外的好處是視覺時間序列表示可以減少高達 90% 的模型 API 成本。我們透過日益複雜的合成資料任務驗證我們的假設，從乾淨資料上的簡單函數形式識別，到從雜訊散佈圖中萃取趨勢。為了證明從具有明確推理步驟的合成任務到更複雜的真實世界場景的概括性，我們將我們的做法應用於消費者健康任務，特別是跌倒偵測、活動識別和準備評估，這些任務涉及異質、雜訊資料和多步驟推理。在 GPT 和 Gemini 模型系列中，圖表表現優於文字表現的整體成功（在零次學習合成任務中表現提升高達 120%，在真實世界任務中表現提升高達 150%），突顯了我們的方法在最佳利用基礎模型原生功能方面的潛力。
 
 ##### **IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**
-2410.02592v2 by Zihan Fang, Zheng Lin, Senkang Hu, Hangcheng Cao, Yiqin Deng, Xianhao Chen, Yuguang Fang
+2410.02592v3 by Zihan Fang, Zheng Lin, Senkang Hu, Hangcheng Cao, Yiqin Deng, Xianhao Chen, Yuguang Fang
 
 Recently, in-car monitoring has emerged as a promising technology for
 detecting early-stage abnormal status of the driver and providing timely alerts
@@ -1194,7 +1192,7 @@ demonstrate that IC3M outperforms state-of-the-art benchmarks in accuracy,
 precision, and recall while exhibiting superior robustness under limited
 labeled data and severe missing modality.
 
-摘要：<paragraph>最近，車載監控已成為一種很有前景的技術，用於檢測駕駛員的早期異常狀態，並提供及時的警報以防止交通事故。儘管使用多模態數據訓練模型增強了異常狀態檢測的可靠性，但標記數據的稀缺性和類別分佈的不平衡阻礙了關鍵異常狀態特徵的提取，從而顯著降低了訓練性能。此外，由於環境和硬體限制而導致的模式缺失進一步加劇了異常狀態識別的挑戰。更重要的是，監控乘客的異常健康狀況，特別是在老年護理中，至關重要，但仍未得到充分探索。為了應對這些挑戰，我們引入了我們的 IC3M，這是一個基於相機旋轉的高效多模態框架，用於監控車內的駕駛員和乘客。我們的 IC3M 包含兩個關鍵模組：自適應閾值偽標籤策略和缺失模態重建。前者根據類別分佈為不同的類別自訂偽標籤閾值，生成類別平衡的偽標籤以有效指導模型訓練，而後者利用從有限標籤中學習的跨模態關係，通過從可用模態傳輸分佈來準確恢復缺失模態。廣泛的實驗結果表明，IC3M 在準確度、精確度和召回率方面優於最先進的基準，同時在標記數據有限和嚴重缺失模態的情況下表現出卓越的魯棒性。</paragraph>
+摘要：<paragraph>最近，車載監控已成為一種有前途的技術，用於檢測駕駛員的早期異常狀態，並提供及時警報以防止交通事故。儘管使用多模態數據訓練模型增強了異常狀態檢測的可靠性，但標記數據的稀缺性和類別分佈的不平衡阻礙了關鍵異常狀態特徵的提取，顯著降低了訓練性能。此外，由於環境和硬體限制而導致的模態缺失進一步加劇了異常狀態識別的挑戰。更重要的是，監控乘客的異常健康狀況，特別是在老年護理中，至關重要，但仍未得到充分探索。為了應對這些挑戰，我們引入了我們的 IC3M，這是一個基於相機旋轉的高效多模態框架，用於監控汽車中的駕駛員和乘客。我們的 IC3M 包含兩個關鍵模組：自適應閾值偽標籤策略和缺失模態重建。前者根據類別分佈為不同的類別自訂偽標籤閾值，生成類別平衡的偽標籤以有效地指導模型訓練，而後者則利用從有限標籤中學習到的跨模態關係，通過從可用模態進行分佈轉移來準確恢復缺失的模態。廣泛的實驗結果表明，IC3M 在準確性、精確度和召回率方面優於最先進的基準，同時在標記數據有限和嚴重缺失模態的情況下表現出卓越的魯棒性。</paragraph>
 
 ##### **Deep Regression 2D-3D Ultrasound Registration for Liver Motion Correction in Focal Tumor Thermal Ablation**
 2410.02579v1 by Shuwei Xing, Derek W. Cool, David Tessier, Elvis C. S. Chen, Terry M. Peters, Aaron Fenster

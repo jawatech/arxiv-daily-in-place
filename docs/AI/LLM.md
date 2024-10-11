@@ -69,20 +69,20 @@
 |**2024-10-09**|**Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?**|Fumiya Uchiyama et.al.|[2410.06735v1](http://arxiv.org/abs/2410.06735v1)|null|
 |**2024-10-09**|**Weak-eval-Strong: Evaluating and Eliciting Lateral Thinking of LLMs with Situation Puzzles**|Qi Chen et.al.|[2410.06733v1](http://arxiv.org/abs/2410.06733v1)|null|
 |**2024-10-09**|**Scaling Laws for Mixed quantization in Large Language Models**|Zeyu Cao et.al.|[2410.06722v1](http://arxiv.org/abs/2410.06722v1)|null|
-|**2024-10-09**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719v1](http://arxiv.org/abs/2410.06719v1)|null|
+|**2024-10-09**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719v2](http://arxiv.org/abs/2410.06719v2)|null|
 |**2024-10-09**|**MatMamba: A Matryoshka State Space Model**|Abhinav Shukla et.al.|[2410.06718v1](http://arxiv.org/abs/2410.06718v1)|[link](https://github.com/scaledfoundations/matmamba)|
 |**2024-10-09**|**Guaranteed Generation from Large Language Models**|Minbeom Kim et.al.|[2410.06716v1](http://arxiv.org/abs/2410.06716v1)|null|
 |**2024-10-09**|**Calibrating Verbalized Probabilities for Large Language Models**|Cheng Wang et.al.|[2410.06707v1](http://arxiv.org/abs/2410.06707v1)|null|
 |**2024-10-09**|**PII-Scope: A Benchmark for Training Data PII Leakage Assessment in LLMs**|Krishna Kanth Nakka et.al.|[2410.06704v1](http://arxiv.org/abs/2410.06704v1)|null|
-|**2024-10-09**|**ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents**|Ido Levy et.al.|[2410.06703v1](http://arxiv.org/abs/2410.06703v1)|null|
+|**2024-10-09**|**ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents**|Ido Levy et.al.|[2410.06703v2](http://arxiv.org/abs/2410.06703v2)|null|
 |**2024-10-09**|**Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models**|Yubo Wang et.al.|[2410.06699v1](http://arxiv.org/abs/2410.06699v1)|null|
 |**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682v1](http://arxiv.org/abs/2410.06682v1)|null|
 |**2024-10-09**|**M${}^{3}$Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678v1](http://arxiv.org/abs/2410.06678v1)|null|
 |**2024-10-09**|**Towards Universality: Studying Mechanistic Similarity Across Language Model Architectures**|Junxuan Wang et.al.|[2410.06672v1](http://arxiv.org/abs/2410.06672v1)|null|
-|**2024-10-09**|**Large Language Models as Code Executors: An Exploratory Study**|Chenyang Lyu et.al.|[2410.06667v1](http://arxiv.org/abs/2410.06667v1)|null|
+|**2024-10-09**|**Large Language Models as Code Executors: An Exploratory Study**|Chenyang Lyu et.al.|[2410.06667v2](http://arxiv.org/abs/2410.06667v2)|null|
 |**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665v1](http://arxiv.org/abs/2410.06665v1)|null|
 |**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664v1](http://arxiv.org/abs/2410.06664v1)|null|
-|**2024-10-09**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v1](http://arxiv.org/abs/2410.06652v1)|null|
+|**2024-10-09**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v2](http://arxiv.org/abs/2410.06652v2)|[link](https://github.com/hkuedl/Task-Oriented-Imputation)|
 |**2024-10-09**|**Toward Physics-guided Time Series Embedding**|Jiaxi Hu et.al.|[2410.06651v1](http://arxiv.org/abs/2410.06651v1)|null|
 |**2024-10-09**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638v1](http://arxiv.org/abs/2410.06638v1)|null|
 |**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634v1](http://arxiv.org/abs/2410.06634v1)|null|
@@ -1752,7 +1752,7 @@ design and the development of advanced Efficient AI algorithms.
 摘要：大型語言模型 (LLM) 的訓練後量化已證明可有效降低執行這些模型推理的運算需求。在本研究中，我們專注於一個簡單的問題：在針對低精度量化設定特定準確度或困惑度目標時，在我們將 LLM 擴展到更大規模時，需要保留多少高精度數字或運算？我們首先引入一個稱為量化比率的關鍵指標，它會比較量化為低精度算術的參數數量與總參數數量。透過針對不同模型系列、算術類型和量化粒度（例如，按層、按矩陣乘法）進行廣泛且仔細控制的實驗，我們找出兩個主要的現象。1) 模型越大，它們就能以更高的量化比率維持效能，這可透過預訓練任務中的困惑度或下游任務中的準確度來衡量。2) 混合精度量化的粒度越細（例如，按矩陣乘法），模型就能提高量化比率。我們相信這些觀察到的現象為未來的 AI 硬體設計和進階高效能 AI 演算法的開發提供了寶貴的見解。
 
 ##### **Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**
-2410.06719v1 by Benyuan Meng, Qianqian Xu, Zitai Wang, Zhiyong Yang, Xiaochun Cao, Qingming Huang
+2410.06719v2 by Benyuan Meng, Qianqian Xu, Zitai Wang, Zhiyong Yang, Xiaochun Cao, Qingming Huang
 
 Diffusion models are powerful generative models, and this capability can also
 be applied to discrimination. The inner activations of a pre-trained diffusion
@@ -1776,7 +1776,7 @@ tasks and datasets, validating its potential as a generic booster for diffusion
 features. Our code is available at
 https://github.com/Darkbblue/diffusion-content-shift.
 
-摘要：扩散模型是强大的生成模型，这种能力也可以应用于判别。预先训练过的扩散模型的内部激活可以作为判别任务的特征，即扩散特征。我们发现扩散特征受到一种我们称之为内容转移的隐藏但普遍现象的阻碍。具体来说，特征和输入图像之间存在内容差异，例如某个对象的准确形状。我们定位内容转移的原因是扩散模型的一个固有特征，这表明这种现象在扩散特征中普遍存在。进一步的实证研究还表明，即使内容转移在视觉上不可感知，其负面影响也不容忽视。因此，我们建议抑制内容转移以提高扩散特征的整体质量。具体来说，内容转移与从噪声输入中恢复图像过程中的信息漂移有关，指出了将现成的生成技术转变为内容转移抑制工具的可能性。我们进一步提出了一个名为 GATE 的实用指南，以有效评估技术潜在收益，并提供了我们方法的实现。尽管简单，但所提出的方法在各种任务和数据集上取得了优异的成果，验证了其作为扩散特征通用助推器的潜力。我们的代码可在 https://github.com/Darkbblue/diffusion-content-shift 获得。
+摘要：擴散模型是強大的生成模型，而此功能也可以應用於辨別。預訓練擴散模型的內部激活可以作為辨別任務的特徵，即擴散特徵。我們發現擴散特徵受到一個隱藏但普遍的現象的阻礙，我們稱之為內容轉移。具體來說，特徵和輸入影像之間存在內容差異，例如某個物體的確切形狀。我們將內容轉移的原因定位為擴散模型的一個固有特徵，這表明此現象在擴散特徵中廣泛存在。進一步的實證研究還表明，即使內容轉移在視覺上不可察覺，其負面影響也不容忽視。因此，我們建議抑制內容轉移以增強擴散特徵的整體品質。具體來說，內容轉移與從雜訊輸入中恢復影像的過程中資訊漂移有關，指出了將現成的生成技術轉變為內容轉移抑制工具的可能性。我們進一步提出了名為 GATE 的實用指南，以有效評估技術的潛在效益，並提供我們方法的實作。儘管簡單，但所提出的方法已在各種任務和資料集上取得了優異的結果，驗證了其作為擴散特徵通用助推器的潛力。我們的程式碼可在 https://github.com/Darkbblue/diffusion-content-shift 取得。
 
 ##### **MatMamba: A Matryoshka State Space Model**
 2410.06718v1 by Abhinav Shukla, Sai Vemprala, Aditya Kusupati, Ashish Kapoor
@@ -1878,7 +1878,7 @@ effective mitigation strategies.
 摘要：在這項工作中，我們介紹 PII-Scope，一個全面的基準，旨在評估針對 LLM 的 PII 提取攻擊的最先進方法，涵蓋各種威脅設定。我們的研究透過揭露幾個對其有效性至關重要的超參數（例如，示範選擇）來更深入地了解這些攻擊。根據這項了解，我們將研究擴展到更實際的攻擊場景，探索採用進階對抗策略的 PII 攻擊，包括重複且多樣化的查詢，以及利用反覆學習進行持續的 PII 提取。透過廣泛的實驗，我們的結果揭示了現有單一查詢攻擊中對 PII 洩漏的顯著低估。事實上，我們表明，在具備精密的對抗能力和有限的查詢預算下，針對預訓練模型時，PII 提取率可以提高五倍。此外，我們評估了微調模型上的 PII 洩漏，表明它們比預訓練模型更容易受到洩漏的影響。總體而言，我們的研究為實際威脅場景中的 PII 提取攻擊建立了一個嚴謹的經驗基準，並為開發有效的緩解策略奠定了堅實的基礎。
 
 ##### **ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents**
-2410.06703v1 by Ido Levy, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov
+2410.06703v2 by Ido Levy, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov
 
 Recent advancements in LLM-based web agents have introduced novel
 architectures and benchmarks showcasing progress in autonomous web navigation
@@ -1887,19 +1887,22 @@ accuracy, overlooking crucial factors like safety and trustworthiness which are
 essential for deploying web agents in enterprise settings. The risks of unsafe
 web agent behavior, such as accidentally deleting user accounts or performing
 unintended actions in critical business operations, pose significant barriers
-to widespread adoption.In this paper, we present ST-WebAgentBench, a new online
-benchmark specifically designed to evaluate the safety and trustworthiness of
-web agents in enterprise contexts. This benchmark is grounded in a detailed
-framework that defines safe and trustworthy (ST) agent behavior, outlines how
-ST policies should be structured and introduces the Completion under Policies
-metric to assess agent performance. Our evaluation reveals that current SOTA
-agents struggle with policy adherence and cannot yet be relied upon for
-critical business applications. Additionally, we propose architectural
-principles aimed at improving policy awareness and compliance in web agents. We
-open-source this benchmark and invite the community to contribute, with the
-goal of fostering a new generation of safer, more trustworthy AI agents.
+to widespread adoption. In this paper, we present ST-WebAgentBench, a new
+online benchmark specifically designed to evaluate the safety and
+trustworthiness of web agents in enterprise contexts. This benchmark is
+grounded in a detailed framework that defines safe and trustworthy (ST) agent
+behavior, outlines how ST policies should be structured and introduces the
+Completion under Policies metric to assess agent performance. Our evaluation
+reveals that current SOTA agents struggle with policy adherence and cannot yet
+be relied upon for critical business applications. Additionally, we propose
+architectural principles aimed at improving policy awareness and compliance in
+web agents. We open-source this benchmark and invite the community to
+contribute, with the goal of fostering a new generation of safer, more
+trustworthy AI agents. All code, data, environment reproduction resources, and
+video demonstrations are available at
+https://sites.google.com/view/st-webagentbench/home.
 
-摘要：最近基於 LLM 的網路代理的進展引入了新的架構和基準，展示了自主網路導航和互動的進展。然而，現有的基準大多重視有效性和準確性，卻忽略了在企業環境中部署網路代理必備的安全性和可信賴性等關鍵因素。網路代理行為不安全的風險，例如意外刪除使用者帳戶或在關鍵業務運作中執行意外動作，會對廣泛採用造成重大障礙。在本文中，我們提出了 ST-WebAgentBench，這是一個專門設計用於評估企業環境中網路代理的安全性和可信賴性的新線上基準。此基準建立在一個詳細的架構上，定義了安全和可信賴 (ST) 代理行為，概述了 ST 政策應如何制定，並引入了在政策下完成的指標來評估代理效能。我們的評估顯示，目前的 SOTA 代理在政策遵守方面有困難，而且還無法依賴在關鍵業務應用程式上。此外，我們提出了旨在改善網路代理中政策意識和遵循度的架構原則。我們開放原始碼這個基準，並邀請社群共同貢獻，目標是培育新一代更安全、更可信賴的 AI 代理。
+摘要：最近 LLM 為基礎的網路代理的進展引進了新穎的架構和基準，展示了自主網路導航和互動的進度。然而，大多數現有的基準優先考慮有效性和準確性，忽略了安全性與可信賴性等關鍵因素，而這些因素對於在企業環境中部署網路代理至關重要。不安全的網路代理行為的風險，例如意外刪除使用者帳戶或在關鍵業務運作中執行意外動作，對廣泛採用構成了重大的障礙。在本文中，我們提出了 ST-WebAgentBench，這是一個專門設計用來評估網路代理在企業環境中的安全性與可信賴性的新線上基準。此基準建立在一個詳細的架構上，定義了安全且可信賴 (ST) 的代理行為，概述 ST 政策應該如何架構，並引入了「政策下的完成」指標來評估代理效能。我們的評估顯示，目前的 SOTA 代理在政策遵循方面有困難，且尚未能被信賴用於關鍵業務應用程式。此外，我們提出了旨在改善網路代理中政策意識和遵循性的架構原則。我們開放原始碼此基準，並邀請社群貢獻，目標是促進新一代更安全、更可信賴的 AI 代理。所有程式碼、資料、環境重製資源和影片示範都可以在 https://sites.google.com/view/st-webagentbench/home 取得。
 
 ##### **Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models**
 2410.06699v1 by Yubo Wang, Chaohu Liu, Yanqiu Qu, Haoyu Cao, Deqiang Jiang, Linli Xu
@@ -2002,7 +2005,7 @@ Transformers does not exhibit such trend.
 摘要：普遍性可解釋性假設表明，不同的神經網路可能會收斂以在類似的任務上實作類似的演算法。在這項工作中，我們研究了語言建模的兩個主流架構，即 Transformer 和 Mamba，以探索它們機制相似性的程度。我們建議使用稀疏自動編碼器 (SAE) 來從這些模型中分離可解釋特徵，並顯示大多數特徵在這兩個模型中都是相似的。我們還驗證了特徵相似性和普遍性之間的相關性。然後，我們深入探討 Mamba 模型的電路級別分析，並發現 Mamba 中的歸納電路在結構上類似於 Transformer 中的電路。我們還發現了一個細微的差異，我們稱之為「差一個基序」：一個記號的資訊會寫入其下一個位置的 SSM 狀態。而 Transformer 中記號之間的互動並未展現出這種趨勢。
 
 ##### **Large Language Models as Code Executors: An Exploratory Study**
-2410.06667v1 by Chenyang Lyu, Lecheng Yan, Rui Xing, Wenxi Li, Younes Samih, Tianbo Ji, Longyue Wang
+2410.06667v2 by Chenyang Lyu, Lecheng Yan, Rui Xing, Wenxi Li, Younes Samih, Tianbo Ji, Longyue Wang
 
 The capabilities of Large Language Models (LLMs) have significantly evolved,
 extending from natural language processing to complex tasks like code
@@ -2022,7 +2025,8 @@ only highlights the transformative potential of LLMs in coding but also lays
 the groundwork for future advancements in automated programming and the
 completion of complex tasks.
 
-摘要：大型語言模型 (LLM) 的功能已大幅提升，從自然語言處理延伸到複雜任務，例如程式碼理解和產生。我們將 LLM 的功能範圍擴展到更廣泛的脈絡，使用 LLM 執行程式碼片段以取得輸出。本文開創了將 LLM 視為程式碼執行器的探索，其中程式碼片段直接提供給模型執行，並回傳輸出。我們是第一個全面檢視各種 LLM 的可行性，包括 OpenAI 的 o1、GPT-4o、GPT-3.5、DeepSeek 和 Qwen-Coder。值得注意的是，o1 模型在程式碼執行中達到了 90% 以上的準確度，而其他模型則表現出較低的準確度。此外，我們介紹了一種反覆指令提示 (IIP) 技術，逐行處理程式碼片段，將較弱模型的準確度平均提升 7.22%（最高提升 18.96%），與 CoT 提示相比，絕對平均提升 3.86%（最高提升 19.46%）。我們的研究不僅突顯了 LLM 在編碼方面的轉型潛力，也為自動化程式設計和完成複雜任務的未來進展奠定了基礎。
+摘要：大型語言模型 (LLM) 的功能已顯著進步，
+從自然語言處理擴展到複雜任務，例如程式碼理解和產生。我們將 LLM 的功能範圍擴展到更廣泛的背景中，使用 LLM 執行程式碼片段以取得輸出。本文開創了探索 LLM 作為程式碼執行器的先河，其中程式碼片段直接提供給模型執行，並返回輸出。我們是第一個全面檢查各種 LLM 的可行性，包括 OpenAI 的 o1、GPT-4o、GPT-3.5、DeepSeek 和 Qwen-Coder。值得注意的是，o1 模型在程式碼執行中達到了 90% 以上的準確度，而其他模型則表現出較低的準確度。此外，我們引入了一種反覆指令提示 (IIP) 技術，逐行處理程式碼片段，將較弱模型的準確度平均提高了 7.22%（最高提高了 18.96%），並且針對 CoT 提示的絕對平均改進為 3.86%（最高提高了 19.46%）。我們的研究不僅突出了 LLM 在編碼方面的變革潛力，還為未來自動化程式設計和完成複雜任務的進步奠定了基礎。
 
 ##### **Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**
 2410.06665v1 by Yonatan Sverdlov, Ido Springer, Nadav Dym
@@ -2070,7 +2074,7 @@ Bedroom, and CIFAR10.
 摘要：擴散模型的訓練方式是學習一系列模型，以逆轉雜訊破壞的每個步驟。通常，模型參數會在多個時間步長中完全共用，以提高訓練效率。然而，由於去噪任務在每個時間步長都不同，因此在不同時間步長計算出的梯度可能會衝突，這可能會降低影像生成的整體效能。為了解決這個問題，這項工作提出了一個先解耦再合併 (DeMe) 架構，它從一個預訓練模型開始，並微調針對特定時間步長量身打造的獨立模型。我們在微調階段引入了多項改良技術，以促進有效的知識共享，同時將跨時間步長的訓練干擾降到最低。最後，在微調後，這些獨立模型可以在參數空間中合併成一個單一模型，確保有效率且實用的推論。實驗結果顯示，在 6 個基準上顯著提升了生成品質，包括 COCO30K 上的 Stable Diffusion、ImageNet1K、PartiPrompts，以及 LSUN Church、LSUN Bedroom 和 CIFAR10 上的 DDPM。
 
 ##### **Task-oriented Time Series Imputation Evaluation via Generalized Representers**
-2410.06652v1 by Zhixian Wang, Linxiao Yang, Liang Sun, Qingsong Wen, Yi Wang
+2410.06652v2 by Zhixian Wang, Linxiao Yang, Liang Sun, Qingsong Wen, Yi Wang
 
 Time series analysis is widely used in many fields such as power energy,
 economics, and transportation, including different tasks such as forecasting,
@@ -2088,7 +2092,7 @@ estimated without retraining, and the most favorable imputation value for
 downstream tasks is given by combining different imputation strategies
 according to the estimated gain.
 
-摘要：時序分析廣泛應用於電力能源、經濟、交通等眾多領域，包含預測、異常偵測、分類等不同任務。在這些任務中，缺失值被廣泛地觀察到，且常導致對既有方法無法預測的負面影響，阻礙其進一步的應用。針對此情況，現有的時序補值方法主要著重於根據其資料特性還原序列，而忽略了還原序列在下游任務中的表現。考量到下游任務的不同需求（例如預測），本文提出一個有效率的下游任務導向時序補值評估方法。藉由將時序補值與用於下游任務的神經網路模型相結合，在不重新訓練的情況下估計不同補值策略在下游任務中的增益，並根據估計的增益，結合不同的補值策略給出對下游任務最有利的補值值。
+摘要：時間序列分析廣泛用於電力能源、經濟和運輸等許多領域，包括預測、異常偵測、分類等不同任務。這些任務中普遍觀察到遺失值，而且經常導致對現有方法產生難以預測的負面影響，阻礙其進一步應用。為了應對這種情況，現有的時間序列插補方法主要專注於根據其資料特徵還原序列，而忽略還原序列在下游任務中的效能。考量到下游任務（例如預測）的不同需求，本文提出一個有效的下游任務導向時間序列插補評估方法。藉由將時間序列插補與用於下游任務的神經網路模型結合，估計不同插補策略在下游任務中的增益，無需重新訓練，並根據估計增益，結合不同的插補策略，給出對下游任務最有利的插補值。
 
 ##### **Toward Physics-guided Time Series Embedding**
 2410.06651v1 by Jiaxi Hu, Bowen Zhang, Qingsong Wen, Fugee Tsung, Yuxuan Liang

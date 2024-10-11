@@ -7,12 +7,12 @@
 |**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634v1](http://arxiv.org/abs/2410.06634v1)|null|
 |**2024-10-08**|**Counterfactual Causal Inference in Natural Language with Large Language Models**|Gaël Gendron et.al.|[2410.06392v1](http://arxiv.org/abs/2410.06392v1)|null|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121v1](http://arxiv.org/abs/2410.06121v1)|null|
-|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v1](http://arxiv.org/abs/2410.06062v1)|null|
+|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v2](http://arxiv.org/abs/2410.06062v2)|null|
 |**2024-10-08**|**Jet Expansions of Residual Computation**|Yihong Chen et.al.|[2410.06024v1](http://arxiv.org/abs/2410.06024v1)|null|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010v1](http://arxiv.org/abs/2410.06010v1)|null|
 |**2024-10-08**|**LightRAG: Simple and Fast Retrieval-Augmented Generation**|Zirui Guo et.al.|[2410.05779v1](http://arxiv.org/abs/2410.05779v1)|[link](https://github.com/hkuds/lightrag)|
 |**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763v1](http://arxiv.org/abs/2410.05763v1)|null|
-|**2024-10-08**|**Vector-ICL: In-context Learning with Continuous Vector Representations**|Yufan Zhuang et.al.|[2410.05629v1](http://arxiv.org/abs/2410.05629v1)|null|
+|**2024-10-08**|**Vector-ICL: In-context Learning with Continuous Vector Representations**|Yufan Zhuang et.al.|[2410.05629v1](http://arxiv.org/abs/2410.05629v1)|[link](https://github.com/EvanZhuang/vector-icl)|
 |**2024-10-07**|**Narrative-of-Thought: Improving Temporal Reasoning of Large Language Models via Recounted Narratives**|Xinliang Frederick Zhang et.al.|[2410.05558v1](http://arxiv.org/abs/2410.05558v1)|null|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130v1](http://arxiv.org/abs/2410.05130v1)|null|
 |**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949v1](http://arxiv.org/abs/2410.04949v1)|null|
@@ -215,7 +215,7 @@ and data will be made available online: https://github.com/hwy9855/GSR.
 摘要：檢索增強生成 (RAG) 廣泛用於將外部非參數知識注入大型語言模型 (LLM)。最近的研究表明，知識圖 (KG) 包含對 LLM 有價值的外部知識。從 KG 中擷取資訊與從文件集中擷取資訊不同。大多數現有方法尋求直接擷取相關子圖，從而消除了對語義解析方法傳統上所需的廣泛 SPARQL 註解的需求。在本文中，我們將子圖擷取任務建模為由小型語言模型處理的條件生成任務。具體來說，我們將子圖識別符定義為關係序列，每個關係都表示為儲存在語言模型中的特殊標記。我們的基礎生成式子圖擷取模型僅包含 220M 參數，與依賴 7B 參數的最新模型相比，達到了具有競爭力的擷取效能，證明小型語言模型能夠執行子圖擷取任務。此外，當我們最大的 3B 模型與 LLM 閱讀器結合使用時，在 WebQSP 和 CWQ 基準上設定了新的端到端效能 SOTA。我們的模型和資料將在線上公開：https://github.com/hwy9855/GSR。
 
 ##### **LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**
-2410.06062v1 by Vincent Emonet, Jerven Bolleman, Severine Duvaud, Tarcisio Mendes de Farias, Ana Claudia Sima
+2410.06062v2 by Vincent Emonet, Jerven Bolleman, Severine Duvaud, Tarcisio Mendes de Farias, Ana Claudia Sima
 
 We introduce a Retrieval-Augmented Generation (RAG) system for translating
 user questions into accurate federated SPARQL queries over bioinformatics
@@ -225,7 +225,7 @@ metadata from the KGs, including query examples and schema information, and
 incorporates a validation step to correct generated queries. The system is
 available online at chat.expasy.org.
 
-摘要：我們引進一個檢索增強生成 (RAG) 系統，用於將使用者問題翻譯成準確的聯邦 SPARQL 查詢，以利用大型語言模型 (LLM) 進行生物資訊學知識圖表 (KG) 的查詢。為了增強準確性並減少查詢生成中的幻覺，我們的系統利用了 KG 中的元資料，包括查詢範例和架構資訊，並納入了驗證步驟來修正產生的查詢。該系統可以在 chat.expasy.org 上線上使用。
+摘要：我們引入檢索增強生成 (RAG) 系統，用於將使用者問題翻譯成準確的聯合 SPARQL 查詢，以利用大型語言模型 (LLM) 進行生物資訊學知識圖 (KG)。為了增強準確性並減少查詢生成中的幻覺，我們的系統利用來自 KG 的元資料，包括查詢範例和架構資訊，並結合驗證步驟來修正已生成的查詢。該系統可在 chat.expasy.org 上線使用。
 
 ##### **Jet Expansions of Residual Computation**
 2410.06024v1 by Yihong Chen, Xiangxiang Xu, Yao Lu, Pontus Stenetorp, Luca Franceschi

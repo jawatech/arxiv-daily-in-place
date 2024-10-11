@@ -2,10 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157v1](http://arxiv.org/abs/2410.07157v1)|null|
+|**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085v1](http://arxiv.org/abs/2410.08085v1)|null|
+|**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951v1](http://arxiv.org/abs/2410.07951v1)|null|
+|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869v1](http://arxiv.org/abs/2410.07869v1)|null|
+|**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
+|**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526v1](http://arxiv.org/abs/2410.07526v1)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157v1](http://arxiv.org/abs/2410.07157v1)|[link](https://github.com/PeterGriffinJin/InstructG2I)|
 |**2024-10-09**|**CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages**|Pretam Ray et.al.|[2410.06944v1](http://arxiv.org/abs/2410.06944v1)|null|
 |**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634v1](http://arxiv.org/abs/2410.06634v1)|null|
-|**2024-10-08**|**Counterfactual Causal Inference in Natural Language with Large Language Models**|Gaël Gendron et.al.|[2410.06392v1](http://arxiv.org/abs/2410.06392v1)|null|
+|**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v1](http://arxiv.org/abs/2410.07271v1)|null|
+|**2024-10-08**|**Counterfactual Causal Inference in Natural Language with Large Language Models**|Gaël Gendron et.al.|[2410.06392v1](http://arxiv.org/abs/2410.06392v1)|[link](https://github.com/strong-ai-lab/counterfactual-llm-inference)|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121v1](http://arxiv.org/abs/2410.06121v1)|null|
 |**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v2](http://arxiv.org/abs/2410.06062v2)|null|
 |**2024-10-08**|**Jet Expansions of Residual Computation**|Yihong Chen et.al.|[2410.06024v1](http://arxiv.org/abs/2410.06024v1)|null|
@@ -71,7 +77,7 @@
 |**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853v1](http://arxiv.org/abs/2409.12853v1)|null|
 |**2024-09-19**|**Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data**|Jiaming Zhou et.al.|[2409.12437v1](http://arxiv.org/abs/2409.12437v1)|[link](https://github.com/riddickzhou/llm-graph-synthetic-reasoning)|
 |**2024-09-19**|**Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation**|Chen Liang et.al.|[2409.12411v1](http://arxiv.org/abs/2409.12411v1)|null|
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|[link](https://github.com/liangshuowen/posediffusion)|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
 |**2024-09-17**|**FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**|Ziwei Li et.al.|[2409.11509v1](http://arxiv.org/abs/2409.11509v1)|null|
 |**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147v1](http://arxiv.org/abs/2409.11147v1)|[link](https://github.com/yukang-lin/rger)|
 |**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143v1](http://arxiv.org/abs/2409.11143v1)|null|
@@ -96,14 +102,136 @@
 |**2024-09-12**|**Multi-object event graph representation learning for Video Question Answering**|Yanan Wang et.al.|[2409.07747v1](http://arxiv.org/abs/2409.07747v1)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368v3](http://arxiv.org/abs/2409.07368v3)|null|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171v1](http://arxiv.org/abs/2409.12171v1)|null|
-|**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088v1](http://arxiv.org/abs/2409.07088v1)|[link](https://github.com/daehuikim/WikiOFGraph)|
-|**2024-09-11**|**Automated Speaking Assessment of Conversation Tests with Novel Graph-based Modeling on Spoken Response Coherence**|Jiun-Ting Li et.al.|[2409.07064v1](http://arxiv.org/abs/2409.07064v1)|null|
-|**2024-09-11**|**FreeRide: Harvesting Bubbles in Pipeline Parallelism**|Jiashu Zhang et.al.|[2409.06941v1](http://arxiv.org/abs/2409.06941v1)|null|
-|**2024-09-10**|**Generative Hierarchical Materials Search**|Sherry Yang et.al.|[2409.06762v1](http://arxiv.org/abs/2409.06762v1)|null|
-|**2024-09-10**|**Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**|Gollam Rabby et.al.|[2409.06433v1](http://arxiv.org/abs/2409.06433v1)|null|
-|**2024-09-10**|**TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**|HuangChao Xu et.al.|[2409.13732v1](http://arxiv.org/abs/2409.13732v1)|null|
 
 #### Abstracts
+##### **Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**
+2410.08085v1 by Yuan Sui, Bryan Hooi
+
+Recent works integrating Knowledge Graphs (KGs) have led to promising
+improvements in enhancing reasoning accuracy of Large Language Models (LLMs).
+However, current benchmarks mainly focus on closed tasks, leaving a gap in the
+assessment of more complex, real-world scenarios. This gap has also obscured
+the evaluation of KGs' potential to mitigate the problem of hallucination in
+LLMs. To fill the gap, we introduce OKGQA, a new benchmark specifically
+designed to assess LLMs enhanced with KGs under open-ended, real-world question
+answering scenarios. OKGQA is designed to closely reflect the complexities of
+practical applications using questions from different types, and incorporates
+specific metrics to measure both the reduction in hallucinations and the
+enhancement in reasoning capabilities. To consider the scenario in which KGs
+may have varying levels of mistakes, we further propose another experiment
+setting OKGQA-P to assess model performance when the semantics and structure of
+KGs are deliberately perturbed and contaminated. OKGQA aims to (1) explore
+whether KGs can make LLMs more trustworthy in an open-ended setting, and (2)
+conduct a comparative analysis to shed light on methods and future directions
+for leveraging KGs to reduce LLMs' hallucination. We believe that this study
+can facilitate a more complete performance comparison and encourage continuous
+improvement in integrating KGs with LLMs.
+
+摘要：近期的知识图谱 (KG) 整合研究，已提升大型语言模型 (LLM) 推理准确度的表现。
+然而，现有的基准测试主要着重于封闭式任务，在评估更复杂、更实际的场景时存在缺口。此缺口也模糊了知识图谱在减轻 LLM 幻觉问题上的潜力评估。为了填补此缺口，我们引入了 OKGQA，这是一个专门设计用来评估在开放式、实际问答场景中，增强了知识图谱的 LLM 的新基准测试。OKGQA 旨在紧密反映实际应用中的复杂性，使用不同类型的题目，并纳入特定指标来衡量幻觉的减少和推理能力的增强。为了考虑知识图谱可能存在不同程度错误的场景，我们进一步提出了另一个实验设置 OKGQA-P，以评估当知识图谱的语义和结构被故意扰动和污染时的模型性能。OKGQA 旨在 (1) 探索知识图谱是否能使 LLM 在开放式设置中更值得信赖，以及 (2) 进行比较分析，以阐明利用知识图谱来减少 LLM 幻觉的方法和未来方向。我们相信这项研究可以促进更完整的性能比较，并鼓励持续改进知识图谱与 LLM 的整合。
+
+##### **Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**
+2410.07951v1 by Kuleen Sasse, Shinjitha Vadlakonda, Richard E. Kennedy, John D. Osborne
+
+Background: Machine learning methods for clinical named entity recognition
+and entity normalization systems can utilize both labeled corpora and Knowledge
+Graphs (KGs) for learning. However, infrequently occurring concepts may have
+few mentions in training corpora and lack detailed descriptions or synonyms,
+even in large KGs. For Disease Entity Recognition (DER) and Disease Entity
+Normalization (DEN), this can result in fewer high quality training examples
+relative to the number of known diseases. Large Language Model (LLM) generation
+of synthetic training examples could improve performance in these information
+extraction tasks.
+  Methods: We fine-tuned a LLaMa-2 13B Chat LLM to generate a synthetic corpus
+containing normalized mentions of concepts from the Unified Medical Language
+System (UMLS) Disease Semantic Group. We measured overall and Out of
+Distribution (OOD) performance for DER and DEN, with and without synthetic data
+augmentation. We evaluated performance on 3 different disease corpora using 4
+different data augmentation strategies, assessed using BioBERT for DER and
+SapBERT and KrissBERT for DEN.
+  Results: Our synthetic data yielded a substantial improvement for DEN, in all
+3 training corpora the top 1 accuracy of both SapBERT and KrissBERT improved by
+3-9 points in overall performance and by 20-55 points in OOD data. A small
+improvement (1-2 points) was also seen for DER in overall performance, but only
+one dataset showed OOD improvement.
+  Conclusion: LLM generation of normalized disease mentions can improve DEN
+relative to normalization approaches that do not utilize LLMs to augment data
+with synthetic mentions. Ablation studies indicate that performance gains for
+DEN were only partially attributable to improvements in OOD performance. The
+same approach has only a limited ability to improve DER. We make our software
+and dataset publicly available.
+
+摘要：<paragraph>背景：臨床命名實體識別的機器學習方法和實體正規化系統可以利用標記語料庫和知識圖譜 (KG) 來學習。然而，在訓練語料庫中很少出現的概念可能只有少數提及，即使在大型知識圖譜中也缺乏詳細的描述或同義詞。對於疾病實體識別 (DER) 和疾病實體正規化 (DEN)，相對於已知疾病的數量，這可能會導致較少的高品質訓練範例。大型語言模型 (LLM) 生成的合成訓練範例可以提升這些資訊擷取任務的效能。
+方法：我們微調了一個 LLaMa-2 13B 聊天 LLM，以產生一個合成語料庫，其中包含來自統一醫學語言系統 (UMLS) 疾病語義群的標準化概念提及。我們衡量了 DER 和 DEN 的整體和分布外 (OOD) 效能，有和沒有合成資料擴充。我們使用 4 種不同的資料擴充策略評估了 3 個不同疾病語料庫的效能，使用 BioBERT 評估 DER，使用 SapBERT 和 KrissBERT 評估 DEN。
+結果：我們的合成資料對 DEN 產生了顯著的改善，在所有 3 個訓練語料庫中，SapBERT 和 KrissBERT 的前 1 名準確率在整體效能上提高了 3-9 個百分點，在 OOD 資料中提高了 20-55 個百分點。在 DER 的整體效能上也看到了微小的改善（1-2 個百分點），但只有一組資料顯示出 OOD 改善。
+結論：與不利用 LLM 擴充資料以合成提及的正規化方法相比，LLM 生成的標準化疾病提及可以改善 DEN。消融研究表明，DEN 的效能提升僅部分歸因於 OOD 效能的改善。相同的方法對於改善 DER 的能力有限。我們公開我們的軟體和資料集。</paragraph>
+
+##### **Benchmarking Agentic Workflow Generation**
+2410.07869v1 by Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
+
+Large Language Models (LLMs), with their exceptional ability to handle a wide
+range of tasks, have driven significant advancements in tackling reasoning and
+planning tasks, wherein decomposing complex problems into executable workflows
+is a crucial step in this process. Existing workflow evaluation frameworks
+either focus solely on holistic performance or suffer from limitations such as
+restricted scenario coverage, simplistic workflow structures, and lax
+evaluation standards. To this end, we introduce WorFBench, a unified workflow
+generation benchmark with multi-faceted scenarios and intricate graph workflow
+structures. Additionally, we present WorFEval, a systemic evaluation protocol
+utilizing subsequence and subgraph matching algorithms to accurately quantify
+the LLM agent's workflow generation capabilities. Through comprehensive
+evaluations across different types of LLMs, we discover distinct gaps between
+the sequence planning capabilities and graph planning capabilities of LLM
+agents, with even GPT-4 exhibiting a gap of around 15%. We also train two
+open-source models and evaluate their generalization abilities on held-out
+tasks. Furthermore, we observe that the generated workflows can enhance
+downstream tasks, enabling them to achieve superior performance with less time
+during inference. Code and dataset will be available at
+https://github.com/zjunlp/WorFBench.
+
+摘要：大型語言模型 (LLM) 擁有處理各種任務的非凡能力，推動了解決推理和規劃任務的顯著進展，其中將複雜問題分解為可執行工作流程是此過程中至關重要的一步。現有的工作流程評估框架只專注於整體效能，或受到情境涵蓋範圍受限、工作流程結構簡化和評估標準寬鬆等限制。為此，我們引入了 WorFBench，一個統一的工作流程生成基準，具有多方面的場景和複雜的圖形工作流程結構。此外，我們提出了 WorFEval，一個利用子序列和子圖匹配演算法來準確量化 LLM 代理工作流程生成能力的系統性評估協定。透過對不同類型 LLM 的全面評估，我們發現 LLM 代理的序列規劃能力和圖形規劃能力之間存在明顯的差距，即使是 GPT-4 也表現出約 15% 的差距。我們還訓練了兩個開源模型，並評估了它們在保留任務上的泛化能力。此外，我們觀察到生成的的工作流程可以增強下游任務，讓它們在推理期間以更少的時間獲得更好的效能。程式碼和資料集將在 https://github.com/zjunlp/WorFBench 上提供。
+
+##### **KRAG Framework for Enhancing LLMs in the Legal Domain**
+2410.07551v1 by Nguyen Ha Thanh, Ken Satoh
+
+This paper introduces Knowledge Representation Augmented Generation (KRAG), a
+novel framework designed to enhance the capabilities of Large Language Models
+(LLMs) within domain-specific applications. KRAG points to the strategic
+inclusion of critical knowledge entities and relationships that are typically
+absent in standard data sets and which LLMs do not inherently learn. In the
+context of legal applications, we present Soft PROLEG, an implementation model
+under KRAG, which uses inference graphs to aid LLMs in delivering structured
+legal reasoning, argumentation, and explanations tailored to user inquiries.
+The integration of KRAG, either as a standalone framework or in tandem with
+retrieval augmented generation (RAG), markedly improves the ability of language
+models to navigate and solve the intricate challenges posed by legal texts and
+terminologies. This paper details KRAG's methodology, its implementation
+through Soft PROLEG, and potential broader applications, underscoring its
+significant role in advancing natural language understanding and processing in
+specialized knowledge domains.
+
+摘要：本文介紹知識表徵增強生成 (KRAG)，一個新穎的架構，旨在增強大型語言模型 (LLM) 在特定領域應用中的能力。KRAG 指出策略性地納入關鍵知識實體和關係，這些實體和關係通常不存在於標準資料集中，而 LLM 也無法固有地學習。在法律應用方面，我們提出 Soft PROLEG，這是一個在 KRAG 下的實作模型，它使用推理圖來協助 LLM 提供結構化的法律推理、論證和解釋，以滿足使用者的詢問。整合 KRAG，無論是作為獨立架構或與檢索增強生成 (RAG) 結合使用，都能顯著提升語言模型導航和解決法律文本和術語所帶來的複雜挑戰的能力。本文詳述 KRAG 的方法論、透過 Soft PROLEG 的實作，以及潛在的更廣泛應用，強調其在推進專業知識領域的自然語言理解和處理中扮演的重要角色。
+
+##### **MKGL: Mastery of a Three-Word Language**
+2410.07526v1 by Lingbing Guo, Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Yarong Lan, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen
+
+Large language models (LLMs) have significantly advanced performance across a
+spectrum of natural language processing (NLP) tasks. Yet, their application to
+knowledge graphs (KGs), which describe facts in the form of triplets and allow
+minimal hallucinations, remains an underexplored frontier. In this paper, we
+investigate the integration of LLMs with KGs by introducing a specialized KG
+Language (KGL), where a sentence precisely consists of an entity noun, a
+relation verb, and ends with another entity noun. Despite KGL's unfamiliar
+vocabulary to the LLM, we facilitate its learning through a tailored dictionary
+and illustrative sentences, and enhance context understanding via real-time KG
+context retrieval and KGL token embedding augmentation. Our results reveal that
+LLMs can achieve fluency in KGL, drastically reducing errors compared to
+conventional KG embedding methods on KG completion. Furthermore, our enhanced
+LLM shows exceptional competence in generating accurate three-word sentences
+from an initial entity and interpreting new unseen terms out of KGs.
+
+摘要：大型語言模型 (LLM) 已大幅提升各種自然語言處理 (NLP) 任務的效能。然而，它們在知識圖譜 (KG) 的應用上仍有待開發，知識圖譜以三元組形式描述事實，並允許最小的幻覺。在本文中，我們透過引入一種專業的 KG 語言 (KGL) 來探討 LLM 與 KG 的整合，其中一個句子精確地包含一個實體名詞、一個關係動詞，並以另一個實體名詞結尾。儘管 LLM 對 KGL 的詞彙不熟悉，但我們透過量身打造的字典和說明性句子來促進它的學習，並透過即時 KG 背景擷取和 KGL 代幣嵌入強化來提升背景理解。我們的結果顯示，LLM 能夠流暢使用 KGL，大幅減少錯誤，優於 KG 完成中傳統的 KG 嵌入方法。此外，我們增強的 LLM 在從初始實體生成準確的三字詞句子，以及從 KG 解釋新的未見術語方面展現出卓越的能力。
+
 ##### **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**
 2410.07157v1 by Bowen Jin, Ziqi Pang, Bingjun Guo, Yu-Xiong Wang, Jiaxuan You, Jiawei Han
 
@@ -166,6 +294,27 @@ https://github.com/ArmelRandy/tree-of-problems.
 
 摘要：大型语言模型 (LLM) 已通过情境学习在多项任务中展示出非凡的性能。对于需要循序渐进思考的复杂推理任务，思维链 (CoT) 提示已取得令人印象深刻的结果，尤其是在与自洽性相结合时。尽管如此，LLM 仍然难以解决某些任务。思维树 (ToT) 和思维图 (GoT) 作为替代方案出现，将复杂问题划分为子问题的路径。在本文中，我们提出了思维树 (ToP)，它是 ToT 的一个更简单的版本，我们假设它可以更好地适用于可以划分为相同子任务的复杂任务。我们的实证结果表明，我们的方法优于 ToT 和 GoT，并且在复杂推理任务上的表现也优于 CoT。本文的所有代码在此公开提供：
 https://github.com/ArmelRandy/tree-of-problems。
+
+##### **Multi-Task Program Error Repair and Explanatory Diagnosis**
+2410.07271v1 by Zhenyu Xu, Victor S. Sheng
+
+Program errors can occur in any type of programming, and can manifest in a
+variety of ways, such as unexpected output, crashes, or performance issues. And
+program error diagnosis can often be too abstract or technical for developers
+to understand, especially for beginners. The goal of this paper is to present a
+novel machine-learning approach for Multi-task Program Error Repair and
+Explanatory Diagnosis (mPRED). A pre-trained language model is used to encode
+the source code, and a downstream model is specifically designed to identify
+and repair errors. Programs and test cases will be augmented and optimized from
+several perspectives. Additionally, our approach incorporates a "chain of
+thoughts" method, which enables the models to produce intermediate reasoning
+explanations before providing the final correction. To aid in visualizing and
+analyzing the program structure, we use a graph neural network for program
+structure visualization. Overall, our approach offers a promising approach for
+repairing program errors across different programming languages and providing
+helpful explanations to programmers.
+
+摘要：程式錯誤可能發生在任何類型的程式設計中，並可能以各種方式呈現，例如意外輸出、當機或效能問題。程式錯誤診斷通常對開發人員來說過於抽象或技術性，特別是對於初學者而言。本文的目的是提出一個新穎的多任務程式錯誤修復與解釋性診斷 (mPRED) 機器學習方法。預先訓練的語言模型用於編碼原始碼，而下游模型則專門設計用於識別和修復錯誤。程式和測試案例將從多個角度進行擴充和最佳化。此外，我們的做法包含「思考鏈」方法，使模型能夠在提供最終修正之前產生中間推理說明。為了幫助視覺化和分析程式結構，我們使用圖形神經網路進行程式結構視覺化。總的來說，我們的做法提供了一個有前景的方法，可以用於修復不同程式語言中的程式錯誤，並向程式設計師提供有用的說明。
 
 ##### **Counterfactual Causal Inference in Natural Language with Large Language Models**
 2410.06392v1 by Gaël Gendron, Jože M. Rožanec, Michael Witbrock, Gillian Dobbie
@@ -2352,150 +2501,4 @@ of blockchain. Future work includes studying the use of Large Language Models
 (LLM) in our approach, and evaluations on other blockchains.
 
 摘要：<paragraph>背景：Health 3.0 允許決策制定基於來自多個機構的縱向數據，來自患者的醫療保健歷程。在這種分布式設置中，區塊鏈智能合約可以作為中立的仲介來實施值得信賴的決策制定。目標：在分布式設置中，傳輸的數據將使用標準（例如 HL7 FHIR）進行結構化，以實現語義互操作性。反過來，智能合約將需要與此標準互操作，實施複雜的通信設置（例如，使用預言機），並使用區塊鏈語言（例如，Solidity）開發。我們提議使用來自領域標準的概念，使用高級語義知識圖對智能合約邏輯進行編碼。然後我們將這個語義知識圖部署在區塊鏈上。方法：鏈下，一個代碼生成管道將知識圖編譯成具體的智能合約，然後將其部署到鏈上。我們的管道針對中間橋接表示，可以轉譯成特定的區塊鏈語言。我們的選擇避免了鏈上規則引擎，其不可預測且可能計算成本更高；因此，它符合區塊鏈的經濟規則。結果：我們應用我們的代碼生成方法來生成來自 Medicare 的 3 個健康保險案例的智能合約。我們討論了我們的方法的適用性——對中立仲介的需求——對於許多醫療保健用例。我們的評估發現，生成的合約在區塊鏈上的正確性和執行成本（“gas”）方面表現良好。結論：我們表明，以符合區塊鏈經濟規則的方式自動生成基於語義知識圖的智能合約代碼是可行的。未來的研究包括研究我們的方法中使用大型語言模型 (LLM)，以及對其他區塊鏈的評估。</paragraph>
-
-##### **Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**
-2409.07088v1 by Daehee Kim, Deokhyung Kang, Sangwon Ryu, Gary Geunbae Lee
-
-Knowledge Graph-to-Text (G2T) generation involves verbalizing structured
-knowledge graphs into natural language text. Recent advancements in Pretrained
-Language Models (PLMs) have improved G2T performance, but their effectiveness
-depends on datasets with precise graph-text alignment. However, the scarcity of
-high-quality, general-domain G2T generation datasets restricts progress in the
-general-domain G2T generation research. To address this issue, we introduce
-Wikipedia Ontology-Free Graph-text dataset (WikiOFGraph), a new large-scale G2T
-dataset generated using a novel method that leverages Large Language Model
-(LLM) and Data-QuestEval. Our new dataset, which contains 5.85M general-domain
-graph-text pairs, offers high graph-text consistency without relying on
-external ontologies. Experimental results demonstrate that PLM fine-tuned on
-WikiOFGraph outperforms those trained on other datasets across various
-evaluation metrics. Our method proves to be a scalable and effective solution
-for generating high-quality G2T data, significantly advancing the field of G2T
-generation.
-
-摘要：知識圖譜到文字 (G2T) 生成涉及將結構化知識圖譜表達為自然語言文字。預訓練語言模型 (PLM) 的最新進展改善了 G2T 的效能，但其有效性取決於具有精確圖形文字對齊的資料集。然而，高品質、一般領域 G2T 生成資料集的稀少性限制了一般領域 G2T 生成研究的進展。為了解決這個問題，我們引入了維基百科本体免費圖形文字資料集 (WikiOFGraph)，這是一個使用利用大型語言模型 (LLM) 和 Data-QuestEval 的新方法生成的新大型 G2T 資料集。我們的這個新資料集包含 585 萬個一般領域的圖形文字對，提供高圖形文字一致性，而不依賴於外部本体。實驗結果表明，在 WikiOFGraph 上微調的 PLM 在各種評估指標上優於在其他資料集上訓練的 PLM。我們的這個方法被證明是一個可擴充且有效的解決方案，用於生成高品質的 G2T 資料，顯著推動了 G2T 生成領域的發展。
-
-##### **Automated Speaking Assessment of Conversation Tests with Novel Graph-based Modeling on Spoken Response Coherence**
-2409.07064v1 by Jiun-Ting Li, Bi-Cheng Yan, Tien-Hong Lo, Yi-Cheng Wang, Yung-Chang Hsu, Berlin Chen
-
-Automated speaking assessment in conversation tests (ASAC) aims to evaluate
-the overall speaking proficiency of an L2 (second-language) speaker in a
-setting where an interlocutor interacts with one or more candidates. Although
-prior ASAC approaches have shown promising performance on their respective
-datasets, there is still a dearth of research specifically focused on
-incorporating the coherence of the logical flow within a conversation into the
-grading model. To address this critical challenge, we propose a hierarchical
-graph model that aptly incorporates both broad inter-response interactions
-(e.g., discourse relations) and nuanced semantic information (e.g., semantic
-words and speaker intents), which is subsequently fused with contextual
-information for the final prediction. Extensive experimental results on the
-NICT-JLE benchmark dataset suggest that our proposed modeling approach can
-yield considerable improvements in prediction accuracy with respect to various
-assessment metrics, as compared to some strong baselines. This also sheds light
-on the importance of investigating coherence-related facets of spoken responses
-in ASAC.
-
-摘要：自動對話評量中的自動化口說評量（ASAC）旨在評估 L2（第二語言）話者在與一位或多位應試者互動的環境中，整體的口說能力。儘管先前的 ASAC 方法在其各自的資料集上展現出有前途的表現，但仍缺乏專注於將對話中邏輯流程的連貫性納入評分模型的研究。為了應對這項關鍵挑戰，我們提出了一個階層式圖形模型，它適當地結合了廣泛的回應間互動（例如：語篇關係）和細微的語義資訊（例如：語義字詞和說話者意圖），隨後與脈絡資訊融合，以進行最終預測。在 NICT-JLE 基準資料集上進行的廣泛實驗結果表明，與一些強大的基準線相比，我們提出的建模方法可以顯著提升預測準確度，特別是在各種評量指標方面。這也闡明了在 ASAC 中探討口語回應的連貫性相關面向的重要性。
-
-##### **FreeRide: Harvesting Bubbles in Pipeline Parallelism**
-2409.06941v1 by Jiashu Zhang, Zihan Pan, Molly, Xu, Khuzaima Daudjee, Sihang Liu
-
-The occurrence of bubbles in pipeline parallelism is an inherent limitation
-that can account for more than 40% of the large language model (LLM) training
-time and is one of the main reasons for the underutilization of GPU resources
-in LLM training. Harvesting these bubbles for GPU side tasks can increase
-resource utilization and reduce training costs but comes with challenges.
-First, because bubbles are discontinuous with various shapes, programming side
-tasks becomes difficult while requiring excessive engineering effort. Second, a
-side task can compete with pipeline training for GPU resources and incur
-significant overhead. To address these challenges, we propose FreeRide, a
-system designed to harvest bubbles in pipeline parallelism for side tasks.
-FreeRide provides programmers with interfaces to implement side tasks easily,
-manages bubbles and side tasks during pipeline training, and controls access to
-GPU resources by side tasks to reduce overhead. We demonstrate that FreeRide
-achieves 7.8% average cost savings with a negligible overhead of about 1% in
-training LLMs while serving model training, graph analytics, and image
-processing side tasks.
-
-摘要：管線平行處理中發生氣泡是一個固有限制，可能佔大型語言模型 (LLM) 訓練時間的 40% 以上，並且是 LLM 訓練中 GPU 資源利用不足的主要原因之一。收集這些氣泡以進行 GPU 側面任務可以提高資源利用率並降低訓練成本，但會帶來挑戰。首先，由於氣泡是不連續的且形狀各異，因此編寫程式側面任務變得困難，同時需要過多的工程工作。其次，側面任務可能會與管線訓練競爭 GPU 資源，並造成顯著的開銷。為了應對這些挑戰，我們提出了 FreeRide，這是一個旨在收集管線平行處理中的氣泡以進行側面任務的系統。FreeRide 為程式設計師提供了輕鬆實作側面任務的介面，在管線訓練期間管理氣泡和側面任務，並控制側面任務對 GPU 資源的存取以減少開銷。我們證明 FreeRide 在訓練 LLM 時可節省 7.8% 的平均成本，同時在執行模型訓練、圖形分析和影像處理側面任務時，開銷可忽略不計，約為 1%。
-
-##### **Generative Hierarchical Materials Search**
-2409.06762v1 by Sherry Yang, Simon Batzner, Ruiqi Gao, Muratahan Aykol, Alexander L. Gaunt, Brendan McMorrow, Danilo J. Rezende, Dale Schuurmans, Igor Mordatch, Ekin D. Cubuk
-
-Generative models trained at scale can now produce text, video, and more
-recently, scientific data such as crystal structures. In applications of
-generative approaches to materials science, and in particular to crystal
-structures, the guidance from the domain expert in the form of high-level
-instructions can be essential for an automated system to output candidate
-crystals that are viable for downstream research. In this work, we formulate
-end-to-end language-to-structure generation as a multi-objective optimization
-problem, and propose Generative Hierarchical Materials Search (GenMS) for
-controllable generation of crystal structures. GenMS consists of (1) a language
-model that takes high-level natural language as input and generates
-intermediate textual information about a crystal (e.g., chemical formulae), and
-(2) a diffusion model that takes intermediate information as input and
-generates low-level continuous value crystal structures. GenMS additionally
-uses a graph neural network to predict properties (e.g., formation energy) from
-the generated crystal structures. During inference, GenMS leverages all three
-components to conduct a forward tree search over the space of possible
-structures. Experiments show that GenMS outperforms other alternatives of
-directly using language models to generate structures both in satisfying user
-request and in generating low-energy structures. We confirm that GenMS is able
-to generate common crystal structures such as double perovskites, or spinels,
-solely from natural language input, and hence can form the foundation for more
-complex structure generation in near future.
-
-摘要：<paragraph>大規模訓練的生成模型現在可以產生文字、影片，以及最近的科學資料，例如晶體結構。在生成方法應用於材料科學，尤其是晶體結構時，領域專家的指導，以高階指令的形式，對於自動化系統輸出可行於下游研究的候選晶體至關重要。在這項工作中，我們將端對端語言到結構生成制定為多目標最佳化問題，並提出生成分層材料搜尋 (GenMS) 以控制晶體結構的生成。GenMS 包含 (1) 一個語言模型，它將高階自然語言作為輸入，並生成有關晶體的中間文字資訊（例如化學公式），以及 (2) 一個擴散模型，它將中間資訊作為輸入，並生成低階連續值晶體結構。GenMS 此外使用圖形神經網路從生成的晶體結構預測屬性（例如形成能）。在推理期間，GenMS 利用所有三個組件對可能的結構空間進行前向樹狀搜尋。實驗顯示，GenMS 優於直接使用語言模型來生成結構的其他替代方案，無論是在滿足使用者要求或生成低能結構方面。我們確認 GenMS 能夠僅從自然語言輸入生成常見的晶體結構，例如雙鈣鈦礦或尖晶石，因此可以在不久的將來形成更複雜結構生成的基礎。</paragraph>
-
-##### **Fine-tuning and Prompt Engineering with Cognitive Knowledge Graphs for Scholarly Knowledge Organization**
-2409.06433v1 by Gollam Rabby, Sören Auer, Jennifer D'Souza, Allard Oelen
-
-The increasing amount of published scholarly articles, exceeding 2.5 million
-yearly, raises the challenge for researchers in following scientific progress.
-Integrating the contributions from scholarly articles into a novel type of
-cognitive knowledge graph (CKG) will be a crucial element for accessing and
-organizing scholarly knowledge, surpassing the insights provided by titles and
-abstracts. This research focuses on effectively conveying structured scholarly
-knowledge by utilizing large language models (LLMs) to categorize scholarly
-articles and describe their contributions in a structured and comparable
-manner. While previous studies explored language models within specific
-research domains, the extensive domain-independent knowledge captured by LLMs
-offers a substantial opportunity for generating structured contribution
-descriptions as CKGs. Additionally, LLMs offer customizable pathways through
-prompt engineering or fine-tuning, thus facilitating to leveraging of smaller
-LLMs known for their efficiency, cost-effectiveness, and environmental
-considerations. Our methodology involves harnessing LLM knowledge, and
-complementing it with domain expert-verified scholarly data sourced from a CKG.
-This strategic fusion significantly enhances LLM performance, especially in
-tasks like scholarly article categorization and predicate recommendation. Our
-method involves fine-tuning LLMs with CKG knowledge and additionally injecting
-knowledge from a CKG with a novel prompting technique significantly increasing
-the accuracy of scholarly knowledge extraction. We integrated our approach in
-the Open Research Knowledge Graph (ORKG), thus enabling precise access to
-organized scholarly knowledge, crucially benefiting domain-independent
-scholarly knowledge exchange and dissemination among policymakers, industrial
-practitioners, and the general public.
-
-摘要：<paragraph>每年超過 250 萬篇的學術文章發表數量持續增加，對研究人員追蹤科學進展帶來挑戰。將學術文章的貢獻整合到新型態的認知知識圖譜 (CKG) 中，將成為存取和組織學術知識的關鍵要素，超越標題和摘要提供的見解。本研究專注於有效傳達結構化的學術知識，利用大型語言模型 (LLM) 來分類學術文章，並以結構化且可比較的形式描述其貢獻。雖然先前的研究在特定研究領域中探索語言模型，但 LLM 捕捉到的廣泛領域無關知識，為產生結構化的貢獻描述提供了實質機會，例如 CKG。此外，LLM 透過提示工程或微調提供可自訂路徑，從而促進利用以效率、成本效益和環境考量聞名的較小型 LLM。我們的做法包括利用 LLM 知識，並透過 CKG 來源的領域專家驗證學術資料來補充。這種策略融合顯著提升 LLM 的效能，特別是在學術文章分類和謂詞推薦等任務中。我們的方法包括以 CKG 知識微調 LLM，並透過新的提示技術注入 CKG 的知識，顯著提升學術知識萃取的準確度。我們將我們的做法整合到開放研究知識圖譜 (ORKG) 中，從而能精準存取已組織的學術知識，這對政策制定者、產業從業人員和一般大眾之間的領域無關學術知識交流和傳播至關重要。</paragraph>
-
-##### **TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**
-2409.13732v1 by HuangChao Xu, Baohua Zhang, Zhong Jin, Tiannian Zhu, Quansheng Wu, Hongming Weng
-
-Large language models (LLMs), such as ChatGPT, have demonstrated impressive
-performance in the text generation task, showing the ability to understand and
-respond to complex instructions. However, the performance of naive LLMs in
-speciffc domains is limited due to the scarcity of domain-speciffc corpora and
-specialized training. Moreover, training a specialized large-scale model
-necessitates signiffcant hardware resources, which restricts researchers from
-leveraging such models to drive advances. Hence, it is crucial to further
-improve and optimize LLMs to meet speciffc domain demands and enhance their
-scalability. Based on the condensed matter data center, we establish a material
-knowledge graph (MaterialsKG) and integrate it with literature. Using large
-language models and prompt learning, we develop a specialized dialogue system
-for topological materials called TopoChat. Compared to naive LLMs, TopoChat
-exhibits superior performance in structural and property querying, material
-recommendation, and complex relational reasoning. This system enables efffcient
-and precise retrieval of information and facilitates knowledge interaction,
-thereby encouraging the advancement on the ffeld of condensed matter materials.
-
-摘要：大型語言模型（LLM），例如 ChatGPT，在文本生成任務中展現了令人印象深刻的表現，展現了理解和回應複雜指令的能力。然而，由於缺乏特定領域的語料庫和專業訓練，天真的 LLM 在特定領域的表現受到限制。此外，訓練一個專業的大規模模型需要大量的硬體資源，這限制了研究人員利用這些模型來推動進展。因此，進一步改進和優化 LLM 以滿足特定領域的需求並增強其可擴充性至關重要。基於凝聚態資料中心，我們建立了一個材料知識圖譜（MaterialsKG），並將其與文獻整合。使用大型語言模型和提示學習，我們開發了一個名為 TopoChat 的拓撲材料專用對話系統。與天真的 LLM 相比，TopoChat 在結構和屬性查詢、材料推薦和複雜關係推理方面表現出優異的性能。該系統能夠有效且準確地檢索資訊，並促進知識互動，從而促進凝聚態材料領域的進步。
 

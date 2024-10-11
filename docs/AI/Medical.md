@@ -2,13 +2,17 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908v1](http://arxiv.org/abs/2410.07908v1)|null|
+|**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525v1](http://arxiv.org/abs/2410.07525v1)|null|
+|**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364v1](http://arxiv.org/abs/2410.07364v1)|null|
 |**2024-10-09**|**Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**|Vivian Nguyen et.al.|[2410.07147v1](http://arxiv.org/abs/2410.07147v1)|null|
 |**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129v1](http://arxiv.org/abs/2410.07129v1)|null|
-|**2024-10-09**|**MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**|Cheng Li et.al.|[2410.06845v1](http://arxiv.org/abs/2410.06845v1)|null|
+|**2024-10-09**|**MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**|Cheng Li et.al.|[2410.06845v1](http://arxiv.org/abs/2410.06845v1)|[link](https://github.com/scarelette/mentalarena)|
 |**2024-10-09**|**An Improved Approach for Cardiac MRI Segmentation based on 3D UNet Combined with Papillary Muscle Exclusion**|Narjes Benameur et.al.|[2410.06818v1](http://arxiv.org/abs/2410.06818v1)|null|
+|**2024-10-09**|**Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**|Fatimaelzahraa Ali Ahmed et.al.|[2410.07269v1](http://arxiv.org/abs/2410.07269v1)|null|
 |**2024-10-08**|**Multimodal Representation Learning using Adaptive Graph Construction**|Weichen Huang et.al.|[2410.06395v1](http://arxiv.org/abs/2410.06395v1)|null|
 |**2024-10-08**|**Skin Cancer Machine Learning Model Tone Bias**|James Pope et.al.|[2410.06385v1](http://arxiv.org/abs/2410.06385v1)|null|
-|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370v1](http://arxiv.org/abs/2410.06370v1)|null|
+|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370v1](http://arxiv.org/abs/2410.06370v1)|[link](https://github.com/dataminr-ai/humvi-dataset)|
 |**2024-10-08**|**A Comparative Study of Hybrid Models in Health Misinformation Text Classification**|Mkululi Sikosana et.al.|[2410.06311v1](http://arxiv.org/abs/2410.06311v1)|null|
 |**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|[link](https://github.com/wwh0411/knowledgesg)|
 |**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684v2](http://arxiv.org/abs/2410.05684v2)|null|
@@ -98,12 +102,98 @@
 |**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814v1](http://arxiv.org/abs/2409.18814v1)|null|
 |**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769v2](http://arxiv.org/abs/2409.18769v2)|null|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715v1](http://arxiv.org/abs/2409.18715v1)|null|
-|**2024-09-27**|**Towards Integrating Epistemic Uncertainty Estimation into the Radiotherapy Workflow**|Marvin Tom Teichmann et.al.|[2409.18628v1](http://arxiv.org/abs/2409.18628v1)|null|
-|**2024-09-27**|**Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications**|Aditi Godbole et.al.|[2409.18454v1](http://arxiv.org/abs/2409.18454v1)|null|
-|**2024-09-27**|**Physics Augmented Tuple Transformer for Autism Severity Level Detection**|Chinthaka Ranasingha et.al.|[2409.18438v1](http://arxiv.org/abs/2409.18438v1)|null|
-|**2024-09-27**|**LCMDC: Large-scale Chinese Medical Dialogue Corpora for Automatic Triage and Medical Consultation**|Xinyuan Wang et.al.|[2410.03521v1](http://arxiv.org/abs/2410.03521v1)|null|
 
 #### Abstracts
+##### **ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**
+2410.07908v1 by Léo Machado, Hélène Philippe, Élodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Daniel Tordjman, Pierre Manceron, Paul Hérent
+
+Carcinogenesis is a proteiform phenomenon, with tumors emerging in various
+locations and displaying complex, diverse shapes. At the crucial intersection
+of research and clinical practice, it demands precise and flexible assessment.
+However, current biomarkers, such as RECIST 1.1's long and short axis
+measurements, fall short of capturing this complexity, offering an approximate
+estimate of tumor burden and a simplistic representation of a more intricate
+process. Additionally, existing supervised AI models face challenges in
+addressing the variability in tumor presentations, limiting their clinical
+utility. These limitations arise from the scarcity of annotations and the
+models' focus on narrowly defined tasks.
+  To address these challenges, we developed ONCOPILOT, an interactive
+radiological foundation model trained on approximately 7,500 CT scans covering
+the whole body, from both normal anatomy and a wide range of oncological cases.
+ONCOPILOT performs 3D tumor segmentation using visual prompts like point-click
+and bounding boxes, outperforming state-of-the-art models (e.g., nnUnet) and
+achieving radiologist-level accuracy in RECIST 1.1 measurements. The key
+advantage of this foundation model is its ability to surpass state-of-the-art
+performance while keeping the radiologist in the loop, a capability that
+previous models could not achieve. When radiologists interactively refine the
+segmentations, accuracy improves further. ONCOPILOT also accelerates
+measurement processes and reduces inter-reader variability, facilitating
+volumetric analysis and unlocking new biomarkers for deeper insights.
+  This AI assistant is expected to enhance the precision of RECIST 1.1
+measurements, unlock the potential of volumetric biomarkers, and improve
+patient stratification and clinical care, while seamlessly integrating into the
+radiological workflow.
+
+摘要：<paragraph>致癌作用是一種變形現象，腫瘤出現在各種位置，並呈現出複雜多樣的形狀。在研究和臨床實務的重要交會點，它需要精確且彈性的評估。然而，目前的生物標記，例如 RECIST 1.1 的長軸和短軸測量，並無法捕捉到這種複雜性，只能提供腫瘤負擔的近似估計，以及對更複雜過程的簡化表示。此外，現有的監督式 AI 模型在處理腫瘤表現的可變性時面臨挑戰，限制了它們的臨床效用。這些限制來自於註解的稀少性，以及模型專注於狹義定義的任務。
+為了應對這些挑戰，我們開發了 ONCOPILOT，這是一個互動式放射學基礎模型，訓練於涵蓋全身的約 7,500 個電腦斷層掃描，包括正常解剖結構和廣泛的腫瘤病例。ONCOPILOT 使用視覺提示（例如點選和邊界框）執行 3D 腫瘤分割，優於最先進的模型（例如 nnUnet），並在 RECIST 1.1 測量中達到放射科醫師等級的準確度。這個基礎模型的主要優點是它能夠超越最先進的效能，同時讓放射科醫師參與其中，這是以前的模型無法達到的功能。當放射科醫師互動式地優化分割時，準確度會進一步提高。ONCOPILOT 還加速了測量過程，並減少了讀者間的變異性，促进了體積分析，並解鎖了新的生物標記，以獲得更深入的見解。
+預計這個 AI 助理將提高 RECIST 1.1 測量的準確度，釋放體積生物標記的潛力，並改善患者分層和臨床照護，同時無縫整合到放射學工作流程中。</paragraph>
+
+##### **Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**
+2410.07525v1 by Nan Fang, Guiliang Liu, Wei Gong
+
+Reinforcement Learning (RL) applied in healthcare can lead to unsafe medical
+decisions and treatment, such as excessive dosages or abrupt changes, often due
+to agents overlooking common-sense constraints. Consequently, Constrained
+Reinforcement Learning (CRL) is a natural choice for safe decisions. However,
+specifying the exact cost function is inherently difficult in healthcare.
+Recent Inverse Constrained Reinforcement Learning (ICRL) is a promising
+approach that infers constraints from expert demonstrations. ICRL algorithms
+model Markovian decisions in an interactive environment. These settings do not
+align with the practical requirement of a decision-making system in healthcare,
+where decisions rely on historical treatment recorded in an offline dataset. To
+tackle these issues, we propose the Constraint Transformer (CT). Specifically,
+1) we utilize a causal attention mechanism to incorporate historical decisions
+and observations into the constraint modeling, while employing a Non-Markovian
+layer for weighted constraints to capture critical states. 2) A generative
+world model is used to perform exploratory data augmentation, enabling offline
+RL methods to simulate unsafe decision sequences. In multiple medical
+scenarios, empirical results demonstrate that CT can capture unsafe states and
+achieve strategies that approximate lower mortality rates, reducing the
+occurrence probability of unsafe behaviors.
+
+摘要：強化學習 (RL) 應用於醫療保健可能會導致不安全的醫療決策和治療，例如過量劑量或突然變化，這通常是因為代理忽略了常識約束。因此，約束強化學習 (CRL) 是安全決策的自然選擇。然而，在醫療保健中明確指定確切的成本函數本質上是困難的。最近的逆約束強化學習 (ICRL) 是一種有前途的方法，它從專家示範中推斷出約束。ICRL 演算法在互動環境中對馬可夫決策進行建模。這些設定與醫療保健中決策系統的實際需求不符，在醫療保健中，決策依賴於離線資料集中記錄的歷史治療。為了解決這些問題，我們提出了約束轉換器 (CT)。具體來說，1) 我們利用因果注意機制將歷史決策和觀察納入約束建模，同時採用非馬可夫層來對加權約束進行建模，以捕捉關鍵狀態。2) 生成式世界模型用於執行探索性資料擴充，使離線 RL 方法能夠模擬不安全的決策序列。在多種醫療場景中，實證結果表明，CT 能夠捕捉不安全的狀態，並制定出近似於較低死亡率的策略，從而降低不安全行為發生的機率。
+
+##### **Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**
+2410.07364v1 by Ismail Erbas, Aporva Amarnath, Vikas Pandey, Karthik Swaminathan, Naigang Wang, Xavier Intes
+
+Fluorescence lifetime imaging (FLI) is a widely used technique in the
+biomedical field for measuring the decay times of fluorescent molecules,
+providing insights into metabolic states, protein interactions, and
+ligand-receptor bindings. However, its broader application in fast biological
+processes, such as dynamic activity monitoring, and clinical use, such as in
+guided surgery, is limited by long data acquisition times and computationally
+demanding data processing. While deep learning has reduced post-processing
+times, time-resolved data acquisition remains a bottleneck for real-time
+applications. To address this, we propose a method to achieve real-time FLI
+using an FPGA-based hardware accelerator. Specifically, we implemented a
+GRU-based sequence-to-sequence (Seq2Seq) model on an FPGA board compatible with
+time-resolved cameras. The GRU model balances accurate processing with the
+resource constraints of FPGAs, which have limited DSP units and BRAM. The
+limited memory and computational resources on the FPGA require efficient
+scheduling of operations and memory allocation to deploy deep learning models
+for low-latency applications. We address these challenges by using STOMP, a
+queue-based discrete-event simulator that automates and optimizes task
+scheduling and memory management on hardware. By integrating a GRU-based
+Seq2Seq model and its compressed version, called Seq2SeqLite, generated through
+knowledge distillation, we were able to process multiple pixels in parallel,
+reducing latency compared to sequential processing. We explore various levels
+of parallelism to achieve an optimal balance between performance and resource
+utilization. Our results indicate that the proposed techniques achieved a 17.7x
+and 52.0x speedup over manual scheduling for the Seq2Seq model and the
+Seq2SeqLite model, respectively.
+
+摘要：螢光生命週期影像 (FLI) 是生物醫學領域中廣泛使用的技術，用於測量螢光分子的衰變時間，提供代謝狀態、蛋白質交互作用和配體受體結合的見解。然而，其在快速生物過程（例如動態活動監測）和臨床用途（例如引導式手術）中的廣泛應用受到長時間資料擷取和計算需求高的資料處理的限制。儘管深度學習減少了後處理時間，但時間解析資料擷取仍然是即時應用程式的瓶頸。為了解決這個問題，我們提出了一種使用基於 FPGA 的硬體加速器來實現即時 FLI 的方法。具體來說，我們在與時間解析相機相容的 FPGA 板上實作了基於 GRU 的序列對序列 (Seq2Seq) 模型。GRU 模型平衡了準確的處理與 FPGA 的資源限制，FPGA 的 DSP 單元和 BRAM 有限。FPGA 上有限的記憶體和計算資源需要有效地排程作業和記憶體配置，才能部署深度學習模型以進行低延遲應用程式。我們透過使用 STOMP 來解決這些挑戰，這是一個基於佇列的離散事件模擬器，可自動化和最佳化硬體上的任務排程和記憶體管理。透過整合基於 GRU 的 Seq2Seq 模型及其壓縮版本 Seq2SeqLite（透過知識萃取產生），我們能夠平行處理多個像素，與順序處理相比，可減少延遲。我們探索了各種平行層級，以在效能和資源利用率之間取得最佳平衡。我們的結果表明，與 Seq2Seq 模型和 Seq2SeqLite 模型的手動排程相比，所提出的技術分別達到了 17.7 倍和 52.0 倍的加速。
+
 ##### **Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**
 2410.07147v1 by Vivian Nguyen, Sang Min Jung, Lillian Lee, Thomas D. Hull, Cristian Danescu-Niculescu-Mizil
 
@@ -200,6 +290,37 @@ outcomes revealed a significant difference in the LVEF and other clinical
 parameters when the papillary muscles were included or excluded.
 
 摘要：左心室射血分數 (LVEF) 是心血管功能最重要的臨床參數。估計此參數的準確性高度依賴於左心室 (LV) 結構在舒張末期和收縮期的精確分割。因此，開發用於精確分割不同時期心臟結構的強健演算法至關重要。方法：在此工作中，引進了一個改良的 3D UNet 模型來分割心肌和左心室，同時根據心血管磁共振學會的建議排除乳頭肌。為了對提出的架構進行實際測試，從突尼斯的軍事醫院 (HMPIT) 和流行的 ACDC 公共資料集收集並分析了總共 8,400 張心臟 MRI 影像。作為效能指標，我們使用 Dice 係數和 F1 分數來驗證/測試左心室和心肌分割。結果：資料被分成 70%、10% 和 20% 分別用於訓練、驗證和測試。值得注意的是，所提出的分割模型在三個軸向視圖中進行了測試：基底、中基底和心尖，在兩個不同的心臟時期：舒張末期和收縮末期。實驗結果顯示，在舒張末期和收縮期，Dice 指數分別為 0.965 和 0.945，F1 分數分別為 0.801 和 0.799。此外，臨床評估結果顯示，當乳頭肌被納入或排除時，LVEF 和其他臨床參數存在顯著差異。
+
+##### **Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**
+2410.07269v1 by Fatimaelzahraa Ali Ahmed, Mahmoud Yousef, Mariam Ali Ahmed, Hasan Omar Ali, Anns Mahboob, Hazrat Ali, Zubair Shah, Omar Aboumarzouk, Abdulla Al Ansari, Shidin Balakrishnan
+
+Applying deep learning (DL) for annotating surgical instruments in
+robot-assisted minimally invasive surgeries (MIS) represents a significant
+advancement in surgical technology. This systematic review examines 48 studies
+that and advanced DL methods and architectures. These sophisticated DL models
+have shown notable improvements in the precision and efficiency of detecting
+and segmenting surgical tools. The enhanced capabilities of these models
+support various clinical applications, including real-time intraoperative
+guidance, comprehensive postoperative evaluations, and objective assessments of
+surgical skills. By accurately identifying and segmenting surgical instruments
+in video data, DL models provide detailed feedback to surgeons, thereby
+improving surgical outcomes and reducing complication risks. Furthermore, the
+application of DL in surgical education is transformative. The review
+underscores the significant impact of DL on improving the accuracy of skill
+assessments and the overall quality of surgical training programs. However,
+implementing DL in surgical tool detection and segmentation faces challenges,
+such as the need for large, accurately annotated datasets to train these models
+effectively. The manual annotation process is labor-intensive and
+time-consuming, posing a significant bottleneck. Future research should focus
+on automating the detection and segmentation process and enhancing the
+robustness of DL models against environmental variations. Expanding the
+application of DL models across various surgical specialties will be essential
+to fully realize this technology's potential. Integrating DL with other
+emerging technologies, such as augmented reality (AR), also offers promising
+opportunities to further enhance the precision and efficacy of surgical
+procedures.
+
+摘要：應用深度學習 (DL) 來註解機器人輔助微創手術 (MIS) 中的外科器械代表了外科技術的重大進步。這項系統性回顧審查了 48 項研究，這些研究採用先進的 DL 方法和架構。這些複雜的 DL 模型在偵測和分割外科手術工具的精準度和效率方面已展現出顯著的進步。這些模型增強的功能支援各種臨床應用，包括即時術中引導、全面的術後評估和外科技術的客觀評估。透過在影片資料中精確識別和分割外科器械，DL 模型能提供詳細的回饋給外科醫生，進而改善手術結果並降低併發症風險。此外，DL 在外科教育中的應用具有變革性。這項回顧強調了 DL 在改善技能評估準確度和整體外科訓練計畫品質方面的重大影響。然而，在外科工具偵測和分割中實施 DL 面臨挑戰，例如需要大量準確註解的資料集才能有效訓練這些模型。手動註解過程耗時且費力，構成了一項重大的瓶頸。未來的研究應專注於自動化偵測和分割流程，並增強 DL 模型對環境變化的魯棒性。擴展 DL 模型在各種外科專科的應用對於充分實現這項技術的潛力至關重要。將 DL 與其他新興技術（例如擴增實境 (AR)）整合也提供了有望進一步增強外科手術精準度和效率的機會。
 
 ##### **Multimodal Representation Learning using Adaptive Graph Construction**
 2410.06395v1 by Weichen Huang
@@ -2604,106 +2725,4 @@ facilitating earlier detection and more effective treatment planning and,
 ultimately, leading to superior patient outcomes in lung cancer care.
 
 摘要：早期檢測和細緻的非小細胞肺癌 (NSCLC) 亞型分類，是全球癌症死亡率的主要原因，是一個關鍵且複雜的問題。在本文中，我們介紹了一個創新的多模式數據整合，將融合的醫學影像 (CT 和 PET 掃描) 與臨床健康記錄和基因組數據合成。這種獨特的融合方法利用了先進的機器學習模型，特別是 MedClip 和 BEiT，進行複雜的影像特徵提取，為計算腫瘤學設定了新的標準。我們的研究超越了現有方法，這從 NSCLC 檢測和分類精度的顯著提高中得到證明。結果展示了在關鍵效能指標（包括準確度、精確度、召回率和 F1 分數）上的顯著改進。具體來說，我們領先的多模式分類器模型記錄了令人印象深刻的 94.04% 準確度。我們相信我們的做法有潛力轉變 NSCLC 診斷，促進早期檢測和更有效的治療計畫，並最終改善肺癌照護中的患者預後。
-
-##### **Towards Integrating Epistemic Uncertainty Estimation into the Radiotherapy Workflow**
-2409.18628v1 by Marvin Tom Teichmann, Manasi Datar, Lisa Kratzke, Fernando Vega, Florin C. Ghesu
-
-The precision of contouring target structures and organs-at-risk (OAR) in
-radiotherapy planning is crucial for ensuring treatment efficacy and patient
-safety. Recent advancements in deep learning (DL) have significantly improved
-OAR contouring performance, yet the reliability of these models, especially in
-the presence of out-of-distribution (OOD) scenarios, remains a concern in
-clinical settings. This application study explores the integration of epistemic
-uncertainty estimation within the OAR contouring workflow to enable OOD
-detection in clinically relevant scenarios, using specifically compiled data.
-Furthermore, we introduce an advanced statistical method for OOD detection to
-enhance the methodological framework of uncertainty estimation. Our empirical
-evaluation demonstrates that epistemic uncertainty estimation is effective in
-identifying instances where model predictions are unreliable and may require an
-expert review. Notably, our approach achieves an AUC-ROC of 0.95 for OOD
-detection, with a specificity of 0.95 and a sensitivity of 0.92 for implant
-cases, underscoring its efficacy. This study addresses significant gaps in the
-current research landscape, such as the lack of ground truth for uncertainty
-estimation and limited empirical evaluations. Additionally, it provides a
-clinically relevant application of epistemic uncertainty estimation in an
-FDA-approved and widely used clinical solution for OAR segmentation from
-Varian, a Siemens Healthineers company, highlighting its practical benefits.
-
-摘要：<paragraph>在放射治療規劃中，輪廓化標靶結構和器官風險（OAR）的精確度對於確保治療效果和患者安全至關重要。深度學習（DL）的最新進展顯著改善了 OAR 輪廓化效能，但這些模型的可靠性，特別是在出現分布外（OOD）場景時，在臨床環境中仍然令人擔憂。本應用研究探討了將認識不確定性估計整合到 OAR 輪廓化工作流程中，以使用特別編譯的資料在臨床上相關的場景中啟用 OOD 偵測。此外，我們引入了一種先進的統計方法進行 OOD 偵測，以增強不確定性估計的方法論架構。我們的實證評估證明，認識不確定性估計在識別模型預測不可靠且可能需要專家審查的情況方面是有效的。值得注意的是，我們的做法對於植入物案例達到了 0.95 的 OOD 偵測 AUC-ROC，特異性為 0.95，靈敏度為 0.92，突顯了其功效。這項研究解決了當前研究領域中的重大差距，例如缺乏不確定性估計的基本原理和有限的實證評估。此外，它提供了一個在 FDA 批准且廣泛使用的臨床解決方案中認識不確定性估計在 OAR 分割方面的臨床相關應用，該解決方案來自西門子醫療公司旗下的 Varian，突顯了其實際效益。</paragraph>
-
-##### **Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications**
-2409.18454v1 by Aditi Godbole, Jabin Geevarghese George, Smita Shandilya
-
-The rapid increase in unstructured data across various fields has made
-multi-document comprehension and summarization a critical task. Traditional
-approaches often fail to capture relevant context, maintain logical
-consistency, and extract essential information from lengthy documents. This
-paper explores the use of Long-context Large Language Models (LLMs) for
-multi-document summarization, demonstrating their exceptional capacity to grasp
-extensive connections, provide cohesive summaries, and adapt to various
-industry domains and integration with enterprise applications/systems. The
-paper discusses the workflow of multi-document summarization for effectively
-deploying long-context LLMs, supported by case studies in legal applications,
-enterprise functions such as HR, finance, and sourcing, as well as in the
-medical and news domains. These case studies show notable enhancements in both
-efficiency and accuracy. Technical obstacles, such as dataset diversity, model
-scalability, and ethical considerations like bias mitigation and factual
-accuracy, are carefully analyzed. Prospective research avenues are suggested to
-augment the functionalities and applications of long-context LLMs, establishing
-them as pivotal tools for transforming information processing across diverse
-sectors and enterprise applications.
-
-摘要：隨著非結構化資料在各個領域快速增加，多文件理解和摘要已成為一項重要的任務。傳統方法通常無法擷取相關脈絡、維持邏輯一致性，以及從冗長的文件中萃取必要資訊。本文探討使用長脈絡大型語言模型 (LLM) 進行多文件摘要，展示其掌握廣泛關聯、提供有凝聚力的摘要，以及適應各種產業領域和整合企業應用程式/系統的非凡能力。本文探討多文件摘要的工作流程，以有效部署長脈絡 LLM，並以法律應用、企業功能（例如人力資源、財務和採購），以及醫療和新聞領域的案例研究作為佐證。這些案例研究顯示出效率和準確性都有顯著的提升。技術障礙，例如資料集多樣性、模型可擴充性，以及道德考量（例如減輕偏差和事實準確性）都經過仔細分析。本文建議未來的研究方向，以擴充長脈絡 LLM 的功能和應用，使其成為轉變不同產業和企業應用程式資訊處理方式的關鍵工具。
-
-##### **Physics Augmented Tuple Transformer for Autism Severity Level Detection**
-2409.18438v1 by Chinthaka Ranasingha, Harshala Gammulle, Tharindu Fernando, Sridha Sridharan, Clinton Fookes
-
-Early diagnosis of Autism Spectrum Disorder (ASD) is an effective and
-favorable step towards enhancing the health and well-being of children with
-ASD. Manual ASD diagnosis testing is labor-intensive, complex, and prone to
-human error due to several factors contaminating the results. This paper
-proposes a novel framework that exploits the laws of physics for ASD severity
-recognition. The proposed physics-informed neural network architecture encodes
-the behaviour of the subject extracted by observing a part of the
-skeleton-based motion trajectory in a higher dimensional latent space. Two
-decoders, namely physics-based and non-physics-based decoder, use this latent
-embedding and predict the future motion patterns. The physics branch leverages
-the laws of physics that apply to a skeleton sequence in the prediction process
-while the non-physics-based branch is optimised to minimise the difference
-between the predicted and actual motion of the subject. A classifier also
-leverages the same latent space embeddings to recognise the ASD severity. This
-dual generative objective explicitly forces the network to compare the actual
-behaviour of the subject with the general normal behaviour of children that are
-governed by the laws of physics, aiding the ASD recognition task. The proposed
-method attains state-of-the-art performance on multiple ASD diagnosis
-benchmarks. To illustrate the utility of the proposed framework beyond the task
-ASD diagnosis, we conduct a third experiment using a publicly available
-benchmark for the task of fall prediction and demonstrate the superiority of
-our model.
-
-摘要：自閉症譜系障礙 (ASD) 的早期診斷是改善 ASD 兒童健康和福祉的有效且有利的一步。手動 ASD 診斷測試勞動密集、複雜，且容易因多種污染結果的因素而產生人為錯誤。本文提出了一個新穎的框架，利用物理定律來識別 ASD 的嚴重程度。所提出的物理訊息神經網路架構編碼了通過觀察基於骨架的運動軌跡的一部分在高維潛在空間中提取的主體行為。兩個解碼器，即基於物理和非基於物理的解碼器，使用此潛在嵌入並預測未來的運動模式。物理分支在預測過程中利用適用於骨架序列的物理定律，而非基於物理的分支則經過最佳化以最小化受試者預測和實際運動之間的差異。分類器也利用相同的潛在空間嵌入來識別 ASD 的嚴重程度。這種雙重生成目標明確地迫使網路將受試者的實際行為與受物理定律支配的兒童一般正常行為進行比較，從而有助於 ASD 識別任務。所提出的方法在多個 ASD 診斷基準上達到了最先進的效能。為了說明所提出的框架在 ASD 診斷任務之外的效用，我們使用公開可用的跌倒預測任務基準進行了第三個實驗，並展示了我們模型的優越性。
-
-##### **LCMDC: Large-scale Chinese Medical Dialogue Corpora for Automatic Triage and Medical Consultation**
-2410.03521v1 by Xinyuan Wang, Haozhou Li, Dingfang Zheng, Qinke Peng
-
-The global COVID-19 pandemic underscored major deficiencies in traditional
-healthcare systems, hastening the advancement of online medical services,
-especially in medical triage and consultation. However, existing studies face
-two main challenges. First, the scarcity of large-scale, publicly available,
-domain-specific medical datasets due to privacy concerns, with current datasets
-being small and limited to a few diseases, limiting the effectiveness of triage
-methods based on Pre-trained Language Models (PLMs). Second, existing methods
-lack medical knowledge and struggle to accurately understand professional terms
-and expressions in patient-doctor consultations. To overcome these obstacles,
-we construct the Large-scale Chinese Medical Dialogue Corpora (LCMDC),
-comprising a Coarse-grained Triage dataset with 439,630 samples, a Fine-grained
-Diagnosis dataset with 199,600 samples, and a Medical Consultation dataset with
-472,418 items, thereby addressing the data shortage in this field. Moreover, we
-further propose a novel triage system that combines BERT-based supervised
-learning with prompt learning, as well as a GPT-based medical consultation
-model using reinforcement learning. To enhance domain knowledge acquisition, we
-pre-trained PLMs using our self-constructed background corpus. Experimental
-results on the LCMDC demonstrate the efficacy of our proposed systems.
-
-摘要：全球 COVID-19 大流行凸顯了傳統醫療保健系統的重大缺陷，加速了線上醫療服務的進展，特別是在醫療分流和諮詢方面。然而，現有研究面臨兩項主要挑戰。首先，由於隱私問題，缺乏大規模、公開可用、特定領域的醫療資料集，而當前資料集規模小且僅限於少數疾病，這限制了基於預先訓練語言模型 (PLM) 的分流方法的有效性。其次，現有方法缺乏醫療知識，難以準確理解患者與醫生諮詢中的專業術語和表達方式。為了克服這些障礙，我們構建了大規模中文醫療對話語料庫 (LCMDC)，包含一個包含 439,630 個樣本的粗粒度分流資料集、一個包含 199,600 個樣本的細粒度診斷資料集，以及一個包含 472,418 個條目的醫療諮詢資料集，從而解決了該領域的資料短缺問題。此外，我們進一步提出了一種新穎的分流系統，它結合了基於 BERT 的監督式學習和提示學習，以及一個使用強化學習的基於 GPT 的醫療諮詢模型。為了增強領域知識的獲取，我們使用我們自己構建的背景語料庫預先訓練了 PLM。在 LCMDC 上的實驗結果證明了我們提出的系統的有效性。
 

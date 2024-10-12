@@ -1393,7 +1393,7 @@ real-world molecular simulation and protein folding tasks.
 摘要：動力系統中的罕見事件取樣是一個自然科學中出現的基本問題，由於軌跡空間呈指數級增長，因此會造成重大的計算挑戰。對於興趣動力系統遵循已知漂移的布朗運動的設定，條件化處理以到達給定終點或所需罕見事件的問題，已明確由 Doob 的 h 轉換解答。然而，這個轉換的樸素估計不可行，因為它需要模擬足夠多的前向軌跡來估計罕見事件機率。在這項工作中，我們提出 Doob 的 h 轉換的變分公式，作為給定初始點和所需終點之間軌跡的最佳化問題。為了解決這個最佳化問題，我們提出一個無模擬訓練目標，其中模型參數化在設計上施加所需的邊界條件。我們的做法大幅減少軌跡上的搜尋空間，並避免現有方法中所需的昂貴軌跡模擬和低效率重要性取樣估計器。我們展示我們的方法在真實世界的分子模擬和蛋白質摺疊任務中找到可行轉換路徑的能力。
 
 ##### **Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation**
-2410.07962v1 by Tomas Bueno Momcilovic, Beat Buesser, Giulio Zizzo, Mark Purcell, Tomas Bueno Momcilovic
+2410.07962v1 by Tomas Bueno Momcilovic, Beat Buesser, Giulio Zizzo, Mark Purcell, Dian Balta
 
 Despite the impressive adaptability of large language models (LLMs),
 challenges remain in ensuring their security, transparency, and

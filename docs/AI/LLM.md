@@ -5,7 +5,7 @@
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210v1](http://arxiv.org/abs/2410.08210v1)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209v1](http://arxiv.org/abs/2410.08209v1)|null|
-|**2024-10-10**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208v1](http://arxiv.org/abs/2410.08208v1)|null|
+|**2024-10-10**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208v2](http://arxiv.org/abs/2410.08208v2)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202v1](http://arxiv.org/abs/2410.08202v1)|null|
 |**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197v1](http://arxiv.org/abs/2410.08197v1)|[link](https://github.com/quchangle1/DRAFT)|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196v1](http://arxiv.org/abs/2410.08196v1)|[link](https://github.com/mathllm/mathcoder2)|
@@ -44,22 +44,22 @@
 |**2024-10-10**|**The Rise of AI-Generated Content in Wikipedia**|Creston Brooks et.al.|[2410.08044v1](http://arxiv.org/abs/2410.08044v1)|[link](https://github.com/brooksca3/wiki_collection)|
 |**2024-10-10**|**Strategic Classification With Externalities**|Yiling Chen et.al.|[2410.08032v1](http://arxiv.org/abs/2410.08032v1)|null|
 |**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027v1](http://arxiv.org/abs/2410.08027v1)|null|
-|**2024-10-10**|**The Computational Complexity of Circuit Discovery for Inner Interpretability**|Federico Adolfi et.al.|[2410.08025v1](http://arxiv.org/abs/2410.08025v1)|null|
+|**2024-10-10**|**The Computational Complexity of Circuit Discovery for Inner Interpretability**|Federico Adolfi et.al.|[2410.08025v2](http://arxiv.org/abs/2410.08025v2)|null|
 |**2024-10-10**|**Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**|Alessio Fallani et.al.|[2410.08024v1](http://arxiv.org/abs/2410.08024v1)|[link](https://github.com/aidd-msca/GraphQPT)|
 |**2024-10-10**|**GrabDAE: An Innovative Framework for Unsupervised Domain Adaptation Utilizing Grab-Mask and Denoise Auto-Encoder**|Junzhou Chen et.al.|[2410.08023v1](http://arxiv.org/abs/2410.08023v1)|null|
 |**2024-10-10**|**Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs**|Jonas Hübotter et.al.|[2410.08020v1](http://arxiv.org/abs/2410.08020v1)|null|
 |**2024-10-10**|**LLM Cascade with Multi-Objective Optimal Consideration**|Kai Zhang et.al.|[2410.08014v1](http://arxiv.org/abs/2410.08014v1)|null|
-|**2024-10-10**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001v1](http://arxiv.org/abs/2410.08001v1)|null|
+|**2024-10-10**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001v2](http://arxiv.org/abs/2410.08001v2)|null|
 |**2024-10-10**|**Human and LLM Biases in Hate Speech Annotations: A Socio-Demographic Analysis of Annotators and Targets**|Tommaso Giorgi et.al.|[2410.07991v1](http://arxiv.org/abs/2410.07991v1)|null|
-|**2024-10-10**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985v1](http://arxiv.org/abs/2410.07985v1)|null|
+|**2024-10-10**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985v2](http://arxiv.org/abs/2410.07985v2)|null|
 |**2024-10-10**|**MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning**|Andrei Manolache et.al.|[2410.07981v1](http://arxiv.org/abs/2410.07981v1)|null|
 |**2024-10-10**|**Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling**|Yuanqi Du et.al.|[2410.07974v1](http://arxiv.org/abs/2410.07974v1)|null|
 |**2024-10-10**|**Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation**|Tomas Bueno Momcilovic et.al.|[2410.07962v1](http://arxiv.org/abs/2410.07962v1)|null|
 |**2024-10-10**|**COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act**|Philipp Guldimann et.al.|[2410.07959v1](http://arxiv.org/abs/2410.07959v1)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951v1](http://arxiv.org/abs/2410.07951v1)|null|
-|**2024-10-10**|**The Function-Representation Unification Framework**|Alfredo Ibias et.al.|[2410.07928v1](http://arxiv.org/abs/2410.07928v1)|null|
+|**2024-10-10**|**The Function-Representation Model of Computation**|Alfredo Ibias et.al.|[2410.07928v2](http://arxiv.org/abs/2410.07928v2)|null|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919v1](http://arxiv.org/abs/2410.07919v1)|null|
-|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908v1](http://arxiv.org/abs/2410.07908v1)|null|
+|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908v2](http://arxiv.org/abs/2410.07908v2)|null|
 |**2024-10-10**|**Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines**|Junyu Lai et.al.|[2410.07896v1](http://arxiv.org/abs/2410.07896v1)|[link](https://github.com/NJUDeepEngine/CAEF)|
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880v1](http://arxiv.org/abs/2410.07880v1)|null|
 |**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869v1](http://arxiv.org/abs/2410.07869v1)|null|
@@ -178,7 +178,7 @@ supervised model GLaMM. Project page: https://groundLMM.github.io.
 摘要：目前的大型多模態模型 (LMM) 面臨著基礎問題，這需要模型將語言組成部分與視覺實體關聯起來。與使用額外的基礎監督微調 LMM 的常見做法相反，我們發現基礎能力實際上可以在沒有明確基礎監督的情況下訓練的 LMM 中出現。為了揭示這種新興的基礎，我們引入了一個「關注並分割」方法，該方法利用標準 LMM 的注意力圖來執行像素級分割。此外，為了增強基礎能力，我們提出了 DIFFLMM，這是一種 LMM，它使用基於擴散的視覺編碼器，而不是標準 CLIP 視覺編碼器，並使用相同的弱監督進行訓練。在不受基礎特定監督數據的偏差和有限規模的約束下，我們的做法更具通用性和可擴展性。與基礎 LMM 和通才 LMM 相比，我們在基礎特定和一般視覺問題解答基準上實現了競爭力。值得注意的是，我們在沒有任何基礎監督的情況下，對基礎對話生成實現了 44.2 的基礎遮罩召回率，優於廣泛監督的模型 GLaMM。專案頁面：https://groundLMM.github.io。
 
 ##### **SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**
-2410.08208v1 by Haoyi Zhu, Honghui Yang, Yating Wang, Jiange Yang, Limin Wang, Tong He
+2410.08208v2 by Haoyi Zhu, Honghui Yang, Yating Wang, Jiange Yang, Limin Wang, Tong He
 
 In this paper, we introduce SPA, a novel representation learning framework
 that emphasizes the importance of 3D spatial awareness in embodied AI. Our
@@ -197,7 +197,7 @@ model takes more than 6000 GPU hours to train and we are committed to
 open-sourcing all code and model weights to foster future research in embodied
 representation learning. Project Page: https://haoyizhu.github.io/spa/.
 
-摘要：<paragraph>在本文中，我們介紹 SPA，一種新穎的表徵學習框架，強調了 3D 空間感知在具身 AI 中的重要性。我們的做法利用多視圖影像上的可微分神經渲染，賦予 vanilla 視覺 Transformer (ViT) 內在的空間理解。我們展示了迄今為止最全面的具身表徵學習評估，涵蓋了 8 個模擬器中的 268 個任務，在單一任務和語言條件的多任務場景中採用不同的策略。結果令人信服：SPA 持續優於 10 種以上的最新表徵方法，包括專門為具身 AI、以視覺為中心的任務和多模態應用程式設計的方法，同時使用較少的訓練資料。此外，我們進行了一系列真實世界的實驗，以確認其在實際場景中的有效性。這些結果突出了 3D 空間感知對於具身表徵學習的關鍵作用。我們最強大的模型需要超過 6000 個 GPU 小時才能訓練，我們致力於開放原始碼和所有模型權重，以促進具身表徵學習的未來研究。專案頁面：https://haoyizhu.github.io/spa/。</paragraph>
+摘要：在本文中，我們介紹了 SPA，這是一個新穎的表示學習框架，強調了 3D 空間感知在具身 AI 中的重要性。我們的做法利用了多視圖影像上的可微分神經渲染，以賦予香草視覺Transformer (ViT) 內在的空間理解。我們提出了迄今為止最全面的具身表示學習評估，涵蓋了 8 個模擬器的 268 項任務，這些任務在單任務和語言條件的多任務場景中採用了不同的策略。結果令人信服：SPA 持續優於 10 種以上的最新表示方法，包括專門為具身 AI、以視覺為中心的任務和多模式應用程式設計的方法，同時使用較少的訓練資料。此外，我們進行了一系列真實世界的實驗，以確認其在實際場景中的有效性。這些結果突出了 3D 空間感知對於具身表示學習的關鍵作用。我們最強大的模型需要超過 6000 個 GPU 小時才能訓練，我們致力於開放原始碼和所有模型權重，以促進具身表示學習的未來研究。專案頁面：https://haoyizhu.github.io/spa/。
 
 ##### **Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**
 2410.08202v1 by Gen Luo, Xue Yang, Wenhan Dou, Zhaokai Wang, Jifeng Dai, Yu Qiao, Xizhou Zhu
@@ -1153,7 +1153,7 @@ a slight decrease in utility compared to the non-private scenario.
 為了防止隱私外洩，研究人員已經研究了詞級擾動，依賴於嵌入空間中差分隱私 (DP) 的正式保證。然而，許多現有方法在使用拉普拉斯或高斯機制時，在高隱私機制中無法達到令人滿意的效能，或訴諸於 DP 的較弱放寬，其隱私強度低於正規 DP。這引發了一個問題，即是否可以設計一種新的私有詞嵌入方法來克服這些限制。在本文中，我們提出了一種新的私有嵌入方法，稱為高維截斷拉普拉斯機制。具體來說，我們引入了截斷拉普拉斯機制的非平凡擴充，該機制以前僅在 одномерном 空間案例中進行研究。在理論上，我們表明與先前的私有詞嵌入方法相比，我們的方​​法具有較低的變異性。為了進一步驗證其有效性，我們使用三個資料集對私有嵌入和下游任務進行了全面的實驗。值得注意的是，即使在高隱私機制中，與非私有場景相比，我們的方​​法僅導致效用略有下降。
 
 ##### **The Computational Complexity of Circuit Discovery for Inner Interpretability**
-2410.08025v1 by Federico Adolfi, Martina G. Vilas, Todd Wareham
+2410.08025v2 by Federico Adolfi, Martina G. Vilas, Todd Wareham
 
 Many proposed applications of neural networks in machine learning,
 cognitive/brain science, and society hinge on the feasibility of inner
@@ -1181,7 +1181,7 @@ queries which retain useful affordances. This framework allows us to understand
 the scope and limits of interpretability queries, explore viable options, and
 compare their resource demands among existing and future architectures.
 
-摘要：許多神經網路在機器學習、認知/腦科學和社會中的應用提案，都取決於透過電路發現來進行內在可解釋性的可行性。這需要對可行的演算法選項進行實證和理論上的探討。儘管在啟發法的設計和測試方面有進展，但我們對其可擴展性和忠實度仍有疑慮，因為我們目前還缺乏對其用於解決問題的複雜性屬性的理解。為了解決這個問題，我們使用古典和參數化計算複雜度理論來研究電路發現：(1) 我們描述一個概念性支架，以描述、說明、預測和控制的便利性來推論電路尋找查詢；(2) 我們正式化一個全面的查詢集，以捕捉機制性說明，並提出一個正式的分析架構；(3) 我們使用它來解決多層感知器（例如Transformer的一部分）中許多查詢變體和放寬實際興趣的複雜性。我們的發現揭示了一個具有挑戰性的複雜性格局。許多查詢是難以處理的 (NP-hard、$\Sigma^p_2$-hard)，當約束模型/電路特徵（例如深度）時，仍然是固定參數難以處理的 (W[1]-hard)，並且在加法、乘法和機率近似方案下是不可近似的。為了應對這種情況，我們證明存在轉換來解決一些這些困難的問題 (NP- 對比 $\Sigma^p_2$-complete) 使用更易於理解的啟發法，並證明了更適度的查詢的可處理性 (PTIME) 或固定參數可處理性 (FPT)，這些查詢保留了有用的便利性。這個架構讓我們能夠了解可解釋性查詢的範圍和限制，探索可行的選項，並比較它們在現有和未來架構中的資源需求。
+摘要：許多神經網路在機器學習、認知/腦科學和社會中的應用提案，都仰賴電路發現所帶來的內在可解釋性可行性。這需要經驗和理論探索可行的演算法選項。儘管在啟發法的設計和測試方面有進展，但對於它們的可擴充性和忠實度仍有疑慮，因為我們缺乏對其所部署解決問題的複雜性特性的了解。為了解決這個問題，我們使用經典和參數化計算複雜度理論研究電路發現：(1) 我們描述一個概念性架構，以描述、解釋、預測和控制能力來推論電路查找查詢；(2) 我們形式化一組全面的查詢，以捕捉機制解釋，並提出一個用於分析它們的正式框架；(3) 我們使用它來確定許多查詢變體的複雜性，並放寬對多層感知器的實際興趣(例如，Transformer的一部分)。我們的發現揭示了一個具有挑戰性的複雜性環境。許多查詢難以處理(NP-hard、$\Sigma^p_2$-hard)，在約束模型/電路特徵(例如，深度)時仍然難以處理固定參數(W[1]-hard)，並且在加法、乘法和機率近似方案下無法近似。為了導航這個環境，我們證明存在轉換來解決其中一些困難的問題(NP- vs. $\Sigma^p_2$-complete)和更完善的啟發法，並證明更適度的查詢的可處理性(PTIME)或固定參數可處理性(FPT)，這些查詢保留了有用的能力。這個框架讓我們能夠了解可解釋性查詢的範圍和限制，探索可行的選項，並比較它們在現有和未來架構中的資源需求。
 
 ##### **Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**
 2410.08024v1 by Alessio Fallani, Ramil Nugmanov, Jose Arjona-Medina, Jörg Kurt Wegner, Alexandre Tkatchenko, Kostiantyn Chernichenko
@@ -1278,7 +1278,7 @@ three benchmarks validate the effectiveness and superiority of our approach.
 摘要：大型語言模型 (LLM) 已展現出在理解和產生自然語言方面的卓越能力。然而，它們的高部署成本通常會對實際應用構成障礙，尤其是串接本地和伺服器模型為此挑戰提供了有希望的解決方案。雖然現有關於 LLM 串接的研究主要關注於效能成本權衡，但實際情況通常涉及更複雜的要求。本文介紹了一個新的 LLM 串接策略，具有多目標最佳化，讓 LLM 串接能夠考慮其他目標（例如隱私），並在維持其原始串接能力的同時，更好地符合實際應用程式的特定需求。在三個基準上進行的廣泛實驗驗證了我們方法的有效性和優越性。
 
 ##### **Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**
-2410.08001v1 by Qingwen Bu, Hongyang Li, Li Chen, Jisong Cai, Jia Zeng, Heming Cui, Maoqing Yao, Yu Qiao
+2410.08001v2 by Qingwen Bu, Hongyang Li, Li Chen, Jisong Cai, Jia Zeng, Heming Cui, Maoqing Yao, Yu Qiao
 
 The increasing demand for versatile robotic systems to operate in diverse and
 dynamic environments has emphasized the importance of a generalist policy,
@@ -1299,7 +1299,7 @@ of demonstration data only, and enables a 3.8 times higher control frequency in
 real-world deployment. Code would be made publicly available. Our project page
 is hosted at: https://opendrivelab.com/RoboDual/
 
-摘要：隨著對多功能機器人系統在多樣且動態環境中運作的需求日益增加，強調了通才政策的重要性，該政策利用大量的跨具現數據語料庫來促進廣泛的適應性和高層次推理。然而，通才在低效率的推論和成本昂貴的訓練中會遇到困難。相反地，專家政策是針對特定領域數據進行策劃，並在任務層級精確度和效率方面表現出色。然而，它缺乏廣泛應用的一般化能力。受到這些觀察的啟發，我們引入了 RoboDual，一個協同雙系統，它補充了通才和專家政策的優點。一個基於擴散Transformer的專家被設計用於多步驟動作展開，並根據基於視覺語言動作 (VLA) 的通才的高層次任務理解和離散化動作輸出進行精確調整。與 OpenVLA 相比，RoboDual 在現實世界設置中提升了 26.7%，並透過僅使用 20M 可訓練參數引入專家政策，在 CALVIN 上增加了 12%。它僅使用 5% 的示範數據就能維持強勁的效能，並在實際部署中實現了高出 3.8 倍的控制頻率。程式碼將公開提供。我們的專案頁面網址為：https://opendrivelab.com/RoboDual/
+摘要：隨著對多功能機器人系統在多樣化和動態環境中運作的需求日益增加，強調了通才策略的重要性，它利用大型跨具現數據語料庫來促進廣泛的適應性和高層次推理。然而，通才策略會在低效率的推論和高成本的訓練中掙扎。專家策略則是針對特定領域數據進行策劃，並以效率在任務層級精度中表現出色。然而，它缺乏廣泛應用的一般化能力。受到這些觀察結果的啟發，我們引入了 RoboDual，這是一個協同的雙系統，補充了通才策略和專家策略的優點。設計了一個基於擴散Transformer的專家，用於多步驟動作展開，並根據基於視覺語言動作 (VLA) 的通才策略的高層次任務理解和離散動作輸出進行精確調整。與 OpenVLA 相比，RoboDual 在現實世界設定中獲得了 26.7% 的改進，並通過引入僅有 2000 萬個可訓練參數的專家策略在 CALVIN 上獲得了 12% 的收益。它僅使用 5% 的示範數據就能維持強勁的效能，並在實際部署中實現高出 3.8 倍的控制頻率。代碼將公開提供。我們的專案頁面託管在：https://opendrivelab.com/RoboDual/
 
 ##### **Human and LLM Biases in Hate Speech Annotations: A Socio-Demographic Analysis of Annotators and Targets**
 2410.07991v1 by Tommaso Giorgi, Lorenzo Cima, Tiziano Fagni, Marco Avvenuti, Stefano Cresci
@@ -1324,7 +1324,7 @@ AI-driven hate speech detection systems.
 摘要：線上平台的興起加劇了仇恨言論的散播，需要可擴充且有效的偵測機制。然而，仇恨言論偵測系統的準確性高度依賴於人工標記的資料，而這些資料本質上容易受到偏見的影響。雖然先前的研究已探討此議題，但標記者特徵與仇恨目標特徵之間的交互作用仍未被探討。我們透過利用包含標記者與目標豐富的社會人口統計資訊之廣泛資料集，填補了這項空白，揭露人類偏見如何與目標屬性相關聯。我們的分析浮現了廣泛偏見的存在，我們根據偏見的強度和普遍性，以量化的方式描述和描述偏見，揭露明顯的差異。此外，我們將人類偏見與基於角色的 LLM 所展現的偏見進行比較。我們的研究結果指出，雖然基於角色的 LLM 確實會展現偏見，但這些偏見與人工標記者的偏見有顯著的不同。總體而言，我們的研究針對仇恨言論標記中的人類偏見提供了新的且細緻的結果，並對 AI 驅動的仇恨言論偵測系統的設計提供了新的見解。
 
 ##### **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**
-2410.07985v1 by Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, Runxin Xu, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang
+2410.07985v2 by Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, Runxin Xu, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang
 
 Recent advancements in large language models (LLMs) have led to significant
 breakthroughs in mathematical reasoning capabilities. However, existing
@@ -1344,7 +1344,7 @@ with highly challenging Olympiad-level problems, with 60.54% and 52.55%
 accuracy, highlighting significant challenges in Olympiad-level mathematical
 reasoning.
 
-摘要：大型語言模型 (LLM) 近期的進展已導致數學推理能力的重大突破。然而，現有的基準，例如 GSM8K 或 MATH，現在正以高準確度被解決（例如，OpenAI o1 在 MATH 資料集上達到 94.8%），表明它們不足以真正挑戰這些模型。為了彌合這一差距，我們提出了一個全面且具有挑戰性的基準，專門設計用於評估奧林匹克級別的 LLM 數學推理能力。與現有的奧林匹克相關基準不同，我們的資料集專注於數學，並包含大量 4428 個競賽級別問題，並附有人工仔細註解。這些問題被細緻地分為 33 個子領域，並跨越 10 個不同的難度級別，從而能夠全面評估模型在奧林匹克數學推理中的表現。此外，我們根據此基準進行了深入分析。我們的實驗結果表明，即使是最先進的模型 OpenAI o1-mini 和 OpenAI o1-preview，在極具挑戰性的奧林匹克級別問題上也難以應付，準確率分別為 60.54% 和 52.55%，突顯了奧林匹克級別數學推理中的重大挑戰。
+摘要：大型語言模型 (LLM) 最近的進展已導致數學推理能力的重大突破。然而，現有的基準，例如 GSM8K 或 MATH，現在正以高準確度解決（例如，OpenAI o1 在 MATH 數據集上達到 94.8%），表明它們不足以真正挑戰這些模型。為了彌合這一差距，我們提出了一個全面且具有挑戰性的基準，專門設計用於評估奧林匹克級別的 LLM 數學推理。與現有的奧林匹克相關基準不同，我們的數據集專注於數學，並包含大量 4428 個競賽級問題，並經過嚴謹的人工註解。這些問題被仔細分類到 33 個子領域中，並跨越 10 個不同的難度級別，從而能夠全面評估模型在奧林匹克數學推理中的表現。此外，我們基於此基準進行了深入分析。我們的實驗結果表明，即使是最先進的模型 OpenAI o1-mini 和 OpenAI o1-preview，在極具挑戰性的奧林匹克級別問題上也難以應對，準確率分別為 60.54% 和 52.55%，突顯了奧林匹克級別數學推理中的重大挑戰。
 
 ##### **MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning**
 2410.07981v1 by Andrei Manolache, Dragos Tantaru, Mathias Niepert
@@ -1481,8 +1481,8 @@ and dataset publicly available.
 結果：我們的合成資料對 DEN 產生了顯著的改善，在所有 3 個訓練語料庫中，SapBERT 和 KrissBERT 的前 1 名準確率在整體效能上提高了 3-9 個百分點，在 OOD 資料中提高了 20-55 個百分點。在 DER 的整體效能上也看到了微小的改善（1-2 個百分點），但只有一組資料顯示出 OOD 改善。
 結論：與不利用 LLM 擴充資料以合成提及的正規化方法相比，LLM 生成的標準化疾病提及可以改善 DEN。消融研究表明，DEN 的效能提升僅部分歸因於 OOD 效能的改善。相同的方法對於改善 DER 的能力有限。我們公開我們的軟體和資料集。</paragraph>
 
-##### **The Function-Representation Unification Framework**
-2410.07928v1 by Alfredo Ibias, Hector Antona, Guillem Ramirez-Miranda, Enric Guinovart, Eduard Alarcon
+##### **The Function-Representation Model of Computation**
+2410.07928v2 by Alfredo Ibias, Hector Antona, Guillem Ramirez-Miranda, Enric Guinovart, Eduard Alarcon
 
 Cognitive Architectures are the forefront of our research into developing an
 artificial cognition. However, they approach the problem from a separated
@@ -1490,14 +1490,14 @@ memory and program model of computation. This model of computation poses a
 fundamental problem: the knowledge retrieval heuristic. In this paper we
 propose to solve this problem by using a new model of computation, one where
 the memory and the program are united: the Function-Representation. We propose
-a whole framework about how to implement and use these
-Function-Representations, and we explore their potential through mathematical
+a novel model of computation based on implementing and using these
+Function-Representations, and we explore its potential through mathematical
 definitions and proofs. We also talk about different ways to organise multiple
 Function-Representations, and explore the kind of functions that these
 Function-Representations can implement. Finally, we also explore the
 limitations of our proposal.
 
-摘要：認知架構是我們開發人工認知研究的前沿。然而，他們從分離的記憶和程式計算模型來探討問題。這個計算模型提出了基本問題：知識擷取啟發法。在本文中，我們提議使用新的計算模型來解決這個問題，一個記憶體和程式結合的模型：函數表示。我們提出一個關於如何實作和使用這些函數表示的完整架構，並透過數學定義和證明來探討它們的潛力。我們也討論組織多個函數表示的不同方法，並探討這些函數表示可以實作的函數類型。最後，我們也探討我們提議的限制。
+摘要：認知架構是我們開發人工認知研究的最前沿。然而，他們從一個分離的記憶和程式運算模式來探討這個問題。這個運算模式提出了基本問題：知識檢索啟發法。在本文中，我們建議使用新的運算模式來解決這個問題，一種將記憶體和程式結合在一起的運算模式：函數表示法。我們提出一個新的運算模式，基於實作和使用這些函數表示法，並透過數學定義和證明來探討它的潛力。我們也討論組織多個函數表示法的方法，並探討這些函數表示法可以實作的功能類型。最後，我們也探討了我們提案的限制。
 
 ##### **InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**
 2410.07919v1 by Xiang Zhuang, Keyan Ding, Tianwen Lyu, Yinuo Jiang, Xiaotong Li, Zhuoyi Xiang, Zeyuan Wang, Ming Qin, Kehua Feng, Jike Wang, Qiang Zhang, Huajun Chen
@@ -1528,7 +1528,7 @@ its potential to transform real-world biomolecular research.
 摘要：<paragraph>了解和設計生物分子（例如蛋白質和小分子）對於推進藥物發現、合成生物學和酶工程至關重要。最近人工智能 (AI) 的突破徹底改變了生物分子研究，在生物分子預測和設計方面取得了顯著的準確性。然而，AI 的計算能力和研究人員的直覺之間仍然存在關鍵差距，使用自然語言將分子複雜性與人類意圖對齊。大型語言模型 (LLM) 已顯示出解釋人類意圖的潛力，但由於包括專業知識要求、多模式數據整合以及自然語言和生物分子之間的語義對齊在內的挑戰，它們在生物分子研究中的應用仍然處於萌芽階段。為了解決這些限制，我們提出了 InstructBioMol，這是一種新穎的 LLM，旨在通過自然語言、分子和蛋白質的全面任意對齊來橋接自然語言和生物分子。此模型可以整合多模式生物分子作為輸入，並使研究人員能夠用自然語言表達設計目標，提供滿足精確生物需求的生物分子輸出。實驗結果表明，InstructBioMol 可以理解和設計遵循人類指令的生物分子。值得注意的是，它可以生成結合親和力提高 10% 的藥物分子，並設計出 ESP 得分達到 70.4 的酶，使其成為唯一一種超越 ESP 開發人員推薦的 60.0 酶底物相互作用閾值的技術。這突顯了其轉變現實世界生物分子研究的潛力。</paragraph>
 
 ##### **ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**
-2410.07908v1 by Léo Machado, Hélène Philippe, Élodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Daniel Tordjman, Pierre Manceron, Paul Hérent
+2410.07908v2 by Léo Machado, Hélène Philippe, Élodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Daniel Tordjman, Pierre Manceron, Paul Hérent
 
 Carcinogenesis is a proteiform phenomenon, with tumors emerging in various
 locations and displaying complex, diverse shapes. At the crucial intersection
@@ -1557,8 +1557,8 @@ measurements, unlock the potential of volumetric biomarkers, and improve
 patient stratification and clinical care, while seamlessly integrating into the
 radiological workflow.
 
-摘要：<paragraph>致癌作用是一種變形現象，腫瘤出現在各種位置，並呈現出複雜多樣的形狀。在研究和臨床實務的重要交會點，它需要精確且彈性的評估。然而，目前的生物標記，例如 RECIST 1.1 的長軸和短軸測量，並無法捕捉到這種複雜性，只能提供腫瘤負擔的近似估計，以及對更複雜過程的簡化表示。此外，現有的監督式 AI 模型在處理腫瘤表現的可變性時面臨挑戰，限制了它們的臨床效用。這些限制來自於註解的稀少性，以及模型專注於狹義定義的任務。
-為了應對這些挑戰，我們開發了 ONCOPILOT，這是一個互動式放射學基礎模型，訓練於涵蓋全身的約 7,500 個電腦斷層掃描，包括正常解剖結構和廣泛的腫瘤病例。ONCOPILOT 使用視覺提示（例如點選和邊界框）執行 3D 腫瘤分割，優於最先進的模型（例如 nnUnet），並在 RECIST 1.1 測量中達到放射科醫師等級的準確度。這個基礎模型的主要優點是它能夠超越最先進的效能，同時讓放射科醫師參與其中，這是以前的模型無法達到的功能。當放射科醫師互動式地優化分割時，準確度會進一步提高。ONCOPILOT 還加速了測量過程，並減少了讀者間的變異性，促进了體積分析，並解鎖了新的生物標記，以獲得更深入的見解。
+摘要：<paragraph>致癌作用是一種變形現象，腫瘤出現在不同位置，並呈現出複雜、多樣的形狀。在研究和臨床實務的重要交會點，它需要精確且靈活的評估。然而，目前的生物標記，例如 RECIST 1.1 的長軸和短軸測量，未能捕捉到這種複雜性，僅提供腫瘤負擔的近似估計值，以及對更複雜過程的簡化表示。此外，現有的監督式 AI 模型在處理腫瘤表現的變異性時面臨挑戰，限制了它們的臨床效用。這些限制來自於標註的稀少性，以及模型專注於狹義定義的任務。
+為了應對這些挑戰，我們開發了 ONCOPILOT，這是一個互動式放射學基礎模型，訓練於大約 7,500 個涵蓋全身的 CT 掃描，包括正常解剖結構和各種腫瘤病例。ONCOPILOT 使用視覺提示（例如點選和邊界框）執行 3D 腫瘤分割，優於最先進的模型（例如 nnUnet），並在 RECIST 1.1 測量中達到放射科醫師等級的準確度。這個基礎模型的主要優點是它能夠超越最先進的效能，同時讓放射科醫師參與其中，這是以前的模型無法達到的能力。當放射科醫師互動式地調整分割時，準確度會進一步提高。ONCOPILOT 也加速了測量過程並減少了讀者間的變異性，促進了體積分析，並解鎖了新的生物標記，以獲得更深入的見解。
 預計這個 AI 助理將提高 RECIST 1.1 測量的準確度，釋放體積生物標記的潛力，並改善患者分層和臨床照護，同時無縫整合到放射學工作流程中。</paragraph>
 
 ##### **Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines**

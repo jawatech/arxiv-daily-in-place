@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908v1](http://arxiv.org/abs/2410.07908v1)|null|
+|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908v2](http://arxiv.org/abs/2410.07908v2)|null|
 |**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525v1](http://arxiv.org/abs/2410.07525v1)|null|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364v1](http://arxiv.org/abs/2410.07364v1)|null|
 |**2024-10-09**|**Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**|Vivian Nguyen et.al.|[2410.07147v1](http://arxiv.org/abs/2410.07147v1)|null|
@@ -100,12 +100,12 @@
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v2](http://arxiv.org/abs/2409.18924v2)|null|
 |**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878v2](http://arxiv.org/abs/2409.18878v2)|null|
 |**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814v1](http://arxiv.org/abs/2409.18814v1)|null|
-|**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769v2](http://arxiv.org/abs/2409.18769v2)|null|
+|**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769v3](http://arxiv.org/abs/2409.18769v3)|null|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715v1](http://arxiv.org/abs/2409.18715v1)|null|
 
 #### Abstracts
 ##### **ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**
-2410.07908v1 by Léo Machado, Hélène Philippe, Élodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Daniel Tordjman, Pierre Manceron, Paul Hérent
+2410.07908v2 by Léo Machado, Hélène Philippe, Élodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Daniel Tordjman, Pierre Manceron, Paul Hérent
 
 Carcinogenesis is a proteiform phenomenon, with tumors emerging in various
 locations and displaying complex, diverse shapes. At the crucial intersection
@@ -134,8 +134,8 @@ measurements, unlock the potential of volumetric biomarkers, and improve
 patient stratification and clinical care, while seamlessly integrating into the
 radiological workflow.
 
-摘要：<paragraph>致癌作用是一種變形現象，腫瘤出現在各種位置，並呈現出複雜多樣的形狀。在研究和臨床實務的重要交會點，它需要精確且彈性的評估。然而，目前的生物標記，例如 RECIST 1.1 的長軸和短軸測量，並無法捕捉到這種複雜性，只能提供腫瘤負擔的近似估計，以及對更複雜過程的簡化表示。此外，現有的監督式 AI 模型在處理腫瘤表現的可變性時面臨挑戰，限制了它們的臨床效用。這些限制來自於註解的稀少性，以及模型專注於狹義定義的任務。
-為了應對這些挑戰，我們開發了 ONCOPILOT，這是一個互動式放射學基礎模型，訓練於涵蓋全身的約 7,500 個電腦斷層掃描，包括正常解剖結構和廣泛的腫瘤病例。ONCOPILOT 使用視覺提示（例如點選和邊界框）執行 3D 腫瘤分割，優於最先進的模型（例如 nnUnet），並在 RECIST 1.1 測量中達到放射科醫師等級的準確度。這個基礎模型的主要優點是它能夠超越最先進的效能，同時讓放射科醫師參與其中，這是以前的模型無法達到的功能。當放射科醫師互動式地優化分割時，準確度會進一步提高。ONCOPILOT 還加速了測量過程，並減少了讀者間的變異性，促进了體積分析，並解鎖了新的生物標記，以獲得更深入的見解。
+摘要：<paragraph>致癌作用是一種變形現象，腫瘤出現在不同位置，並呈現出複雜、多樣的形狀。在研究和臨床實務的重要交會點，它需要精確且靈活的評估。然而，目前的生物標記，例如 RECIST 1.1 的長軸和短軸測量，未能捕捉到這種複雜性，僅提供腫瘤負擔的近似估計值，以及對更複雜過程的簡化表示。此外，現有的監督式 AI 模型在處理腫瘤表現的變異性時面臨挑戰，限制了它們的臨床效用。這些限制來自於標註的稀少性，以及模型專注於狹義定義的任務。
+為了應對這些挑戰，我們開發了 ONCOPILOT，這是一個互動式放射學基礎模型，訓練於大約 7,500 個涵蓋全身的 CT 掃描，包括正常解剖結構和各種腫瘤病例。ONCOPILOT 使用視覺提示（例如點選和邊界框）執行 3D 腫瘤分割，優於最先進的模型（例如 nnUnet），並在 RECIST 1.1 測量中達到放射科醫師等級的準確度。這個基礎模型的主要優點是它能夠超越最先進的效能，同時讓放射科醫師參與其中，這是以前的模型無法達到的能力。當放射科醫師互動式地調整分割時，準確度會進一步提高。ONCOPILOT 也加速了測量過程並減少了讀者間的變異性，促進了體積分析，並解鎖了新的生物標記，以獲得更深入的見解。
 預計這個 AI 助理將提高 RECIST 1.1 測量的準確度，釋放體積生物標記的潛力，並改善患者分層和臨床照護，同時無縫整合到放射學工作流程中。</paragraph>
 
 ##### **Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**
@@ -2682,7 +2682,7 @@ achieved an impressive accuracy of 98.67%.
 阿茲海默症（AD）。這種疾病的嚴重程度從輕度到重度，並會干擾人們的日常作息。早期診斷在患者照護和臨床試驗中扮演至關重要的角色。卷積神經網路（CNN）用於建立一個架構，以從 MRI 掃描中辨識特定的疾病特徵。失智症的分類涉及病歷回顧、神經心理測驗和磁振造影（MRI）等方法。然而，從 Kaggle 取得的影像資料集面臨類別不平衡的重大問題，這需要每個類別的樣本數量相等才能解決。在本文中，為了解決這種不平衡，使用了合成少數過採樣技術（SMOTE）。此外，已將預先訓練好的卷積神經網路應用於 DEMNET 失智症網路，以從 AD 影像中萃取關鍵特徵。所提出的模型達到了令人印象深刻的 98.67% 準確率。
 
 ##### **State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**
-2409.18769v2 by George R. Nahass, Ghasem Yazdanpanah, Madison Cheung, Alex Palacios, Jeffery Peterson, Kevin Heinze, Sasha Hubschman, Chad A. Purnell, Pete Setabutr, Ann Q. Tran, Darvin Yi
+2409.18769v3 by George R. Nahass, Ghasem Yazdanpanah, Madison Cheung, Alex Palacios, Jeffery Peterson, Kevin Heinze, Sasha Hubschman, Chad A. Purnell, Pete Setabutr, Ann Q. Tran, Darvin Yi
 
 Periorbital distances and features around the eyes and lids hold valuable
 information for disease quantification and monitoring of surgical and medical
@@ -2703,7 +2703,7 @@ generalizability of classification models in ophthalmic plastic and
 craniofacial surgery by avoiding the out-of-distribution problem observed in
 traditional convolutional neural networks.
 
-摘要：眼眶周圍的距離和特徵以及眼瞼對於疾病量化和外科和醫療干預的監控具有寶貴的信息。這些距離通常是手動測量的，這是一個既主觀又非常耗時的過程。在此，我們著手開發了三種用於分割和眼眶周圍距離預測的深度學習方法，並評估了眼眶周圍距離對疾病分類的效用。我們的深度學習預測距離的 MAE 小於或非常接近訓練有素的人類註釋者之間觀察到的誤差。我們將我們的模型與眼眶周圍距離預測的當前最先進 (SOTA) 方法進行了比較，發現我們的模型在我們的所有數據集上都優於 SOTA，只有一個眼眶周圍測量除外。我們還表明，使用在開放源代碼、健康的眼睛上訓練的模型可以在患病的眼睛上實現穩健的分割，並且眼眶周圍距離可用作下游分類模型中的高質量特徵。利用分割網絡作為分類中的中間步驟對提高眼科整形和顱面外科中分類模型的概括性具有廣泛的影響，因為它避免了在傳統卷積神經網絡中觀察到的分布外問題。
+摘要：眼周及眼瞼周圍的眶周距離和特徵對於疾病量化及手術和醫療介入的監測具有寶貴的資訊。這些距離通常透過手動測量，這是一個主觀且非常耗時的過程。在此，我們著手開發三種深度學習方法，用於分割和眶周距離預測，並評估眶周距離在疾病分類中的效用。我們的深度學習預測距離的 MAE 低於或非常接近訓練過的人類註解者之間觀察到的誤差。我們將我們的模型與眶周距離預測的現有技術 (SOTA) 方法進行比較，發現我們的模型在所有資料集中的所有眶周測量中都優於 SOTA，只有一個例外。我們還表明，使用在開放原始碼健康眼睛上訓練的模型，可以在患病的眼睛上實現穩健的分割，並且眶周距離可用作下游分類模型中的高品質特徵。利用分割網路作為分類中的中間步驟，對於透過避免傳統卷積神經網路中觀察到的分佈外問題，來增加眼科整形和顱顏面手術中分類模型的泛化性，具有廣泛的影響。
 
 ##### **Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**
 2409.18715v1 by Salma Hassan, Hamad Al Hammadi, Ibrahim Mohammed, Muhammad Haris Khan

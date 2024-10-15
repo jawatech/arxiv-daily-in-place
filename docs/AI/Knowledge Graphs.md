@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985v1](http://arxiv.org/abs/2410.08985v1)|null|
+|**2024-10-11**|**GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**|Jiashu He et.al.|[2410.08475v1](http://arxiv.org/abs/2410.08475v1)|null|
+|**2024-10-10**|**Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**|Haoteng Yin et.al.|[2410.08299v1](http://arxiv.org/abs/2410.08299v1)|null|
 |**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085v1](http://arxiv.org/abs/2410.08085v1)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951v1](http://arxiv.org/abs/2410.07951v1)|null|
 |**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869v1](http://arxiv.org/abs/2410.07869v1)|null|
@@ -17,7 +20,7 @@
 |**2024-10-08**|**Jet Expansions of Residual Computation**|Yihong Chen et.al.|[2410.06024v1](http://arxiv.org/abs/2410.06024v1)|null|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010v1](http://arxiv.org/abs/2410.06010v1)|null|
 |**2024-10-08**|**LightRAG: Simple and Fast Retrieval-Augmented Generation**|Zirui Guo et.al.|[2410.05779v1](http://arxiv.org/abs/2410.05779v1)|[link](https://github.com/hkuds/lightrag)|
-|**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763v1](http://arxiv.org/abs/2410.05763v1)|null|
+|**2024-10-08**|**Information Discovery in e-Commerce**|Zhaochun Ren et.al.|[2410.05763v2](http://arxiv.org/abs/2410.05763v2)|null|
 |**2024-10-08**|**Vector-ICL: In-context Learning with Continuous Vector Representations**|Yufan Zhuang et.al.|[2410.05629v1](http://arxiv.org/abs/2410.05629v1)|[link](https://github.com/EvanZhuang/vector-icl)|
 |**2024-10-07**|**Narrative-of-Thought: Improving Temporal Reasoning of Large Language Models via Recounted Narratives**|Xinliang Frederick Zhang et.al.|[2410.05558v1](http://arxiv.org/abs/2410.05558v1)|null|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130v1](http://arxiv.org/abs/2410.05130v1)|null|
@@ -55,6 +58,7 @@
 |**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743v1](http://arxiv.org/abs/2409.18743v1)|null|
 |**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678v1](http://arxiv.org/abs/2409.18678v1)|null|
 |**2024-09-26**|**LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge**|Daniil Gurgurov et.al.|[2409.18193v1](http://arxiv.org/abs/2409.18193v1)|null|
+|**2024-09-26**|**A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications**|Pengfei Wang et.al.|[2410.08224v1](http://arxiv.org/abs/2410.08224v1)|null|
 |**2024-09-26**|**Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**|Zahra Sepasdar et.al.|[2409.17580v1](http://arxiv.org/abs/2409.17580v1)|null|
 |**2024-09-25**|**Probing Omissions and Distortions in Transformer-based RDF-to-Text Models**|Juliette Faille et.al.|[2409.16707v1](http://arxiv.org/abs/2409.16707v1)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v1](http://arxiv.org/abs/2409.16670v1)|null|
@@ -98,12 +102,87 @@
 |**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543v1](http://arxiv.org/abs/2409.08543v1)|null|
 |**2024-09-12**|**What Makes a Maze Look Like a Maze?**|Joy Hsu et.al.|[2409.08202v1](http://arxiv.org/abs/2409.08202v1)|null|
 |**2024-09-12**|**Towards a graph-based foundation model for network traffic analysis**|Louis Van Langendonck et.al.|[2409.08111v1](http://arxiv.org/abs/2409.08111v1)|null|
-|**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869v1](http://arxiv.org/abs/2409.07869v1)|[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)|
-|**2024-09-12**|**Multi-object event graph representation learning for Video Question Answering**|Yanan Wang et.al.|[2409.07747v1](http://arxiv.org/abs/2409.07747v1)|null|
-|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368v3](http://arxiv.org/abs/2409.07368v3)|null|
-|**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171v1](http://arxiv.org/abs/2409.12171v1)|null|
 
 #### Abstracts
+##### **Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**
+2410.08985v1 by Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr
+
+Recently, Knowledge Graphs (KGs) have been successfully coupled with Large
+Language Models (LLMs) to mitigate their hallucinations and enhance their
+reasoning capability, such as in KG-based retrieval-augmented frameworks.
+However, current KG-LLM frameworks lack rigorous uncertainty estimation,
+limiting their reliable deployment in high-stakes applications. Directly
+incorporating uncertainty quantification into KG-LLM frameworks presents
+challenges due to their complex architectures and the intricate interactions
+between the knowledge graph and language model components. To address this gap,
+we propose a new trustworthy KG-LLM framework, Uncertainty Aware
+Knowledge-Graph Reasoning (UAG), which incorporates uncertainty quantification
+into the KG-LLM framework. We design an uncertainty-aware multi-step reasoning
+framework that leverages conformal prediction to provide a theoretical
+guarantee on the prediction set. To manage the error rate of the multi-step
+process, we additionally introduce an error rate control module to adjust the
+error rate within the individual components. Extensive experiments show that
+our proposed UAG can achieve any pre-defined coverage rate while reducing the
+prediction set/interval size by 40% on average over the baselines.
+
+摘要：最近，知识图谱 (KG) 已成功与大型语言模型 (LLM) 结合，以减轻其幻觉并增强其推理能力，例如基于 KG 的检索增强框架。
+然而，当前的 KG-LLM 框架缺乏严格的不确定性估计，限制了它们在高风险应用程序中的可靠部署。由于其复杂的架构以及知识图谱与语言模型组件之间的复杂交互，将不确定性量化直接纳入 KG-LLM 框架提出了挑战。为了解决这一差距，我们提出了一种新的可信赖 KG-LLM 框架，即不确定性感知知识图推理 (UAG)，它将不确定性量化纳入 KG-LLM 框架。我们设计了一个不确定性感知多步骤推理框架，它利用共形预测为预测集提供理论保证。为了管理多步骤过程的错误率，我们另外引入了一个错误率控制模块，以调整各个组件内的错误率。大量实验表明，我们提出的 UAG 可以达到任何预定义的覆盖率，同时将预测集/区间大小平均减少 40%，高于基线。
+
+##### **GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**
+2410.08475v1 by Jiashu He, Mingyu Derek Ma, Jinxuan Fan, Dan Roth, Wei Wang, Alejandro Ribeiro
+
+Existing retrieval-based reasoning approaches for large language models
+(LLMs) heavily rely on the density and quality of the non-parametric knowledge
+source to provide domain knowledge and explicit reasoning chain. However,
+inclusive knowledge sources are expensive and sometimes infeasible to build for
+scientific or corner domains. To tackle the challenges, we introduce Graph
+Inspired Veracity Extrapolation (GIVE), a novel reasoning framework that
+integrates the parametric and non-parametric memories to enhance both knowledge
+retrieval and faithful reasoning processes on very sparse knowledge graphs. By
+leveraging the external structured knowledge to inspire LLM to model the
+interconnections among relevant concepts, our method facilitates a more logical
+and step-wise reasoning approach akin to experts' problem-solving, rather than
+gold answer retrieval. Specifically, the framework prompts LLMs to decompose
+the query into crucial concepts and attributes, construct entity groups with
+relevant entities, and build an augmented reasoning chain by probing potential
+relationships among node pairs across these entity groups. Our method
+incorporates both factual and extrapolated linkages to enable comprehensive
+understanding and response generation. Extensive experiments on
+reasoning-intense benchmarks on biomedical and commonsense QA demonstrate the
+effectiveness of our proposed method. Specifically, GIVE enables GPT3.5-turbo
+to outperform advanced models like GPT4 without any additional training cost,
+thereby underscoring the efficacy of integrating structured information and
+internal reasoning ability of LLMs for tackling specialized tasks with limited
+external resources.
+
+摘要：現有的基於檢索的推理方法對於大型語言模型 (LLM) 嚴重依賴非參數知識來源的密度和品質，以提供領域知識和明確的推理鏈。然而，包容性的知識來源很昂貴，有時對於科學或角落領域來說，建立起來也不可行。為了應對這些挑戰，我們引入了圖形啟發真實推斷 (GIVE)，這是一個新穎的推理架構，它整合了參數和非參數記憶體，以增強在非常稀疏的知識圖譜上進行知識檢索和忠實推理過程。透過利用外部結構化知識來激勵 LLM 模擬相關概念之間的相互關聯，我們的技術促進了一種更合乎邏輯且循序漸進的推理方法，類似於專家的問題解決，而不是黃金答案檢索。具體來說，該架構提示 LLM 將查詢分解為關鍵概念和屬性，使用相關實體建構實體群組，並透過探查這些實體群組中節點對之間的潛在關係來建立增強的推理鏈。我們的技術結合了事實和外推關聯，以實現全面的理解和回應產生。在生物醫學和常識問答上對推理密集基準進行的廣泛實驗證明了我們提出的方法的有效性。具體來說，GIVE 使 GPT3.5-turbo 能夠在沒有任何額外訓練成本的情況下優於 GPT4 等進階模型，從而強調了整合結構化資訊和 LLM 內部推理能力對於處理具有有限外部資源的專業任務的效能。
+
+##### **Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**
+2410.08299v1 by Haoteng Yin, Rongzhe Wei, Eli Chien, Pan Li
+
+Graphs offer unique insights into relationships and interactions between
+entities, complementing data modalities like text, images, and videos. By
+incorporating relational information from graph data, AI models can extend
+their capabilities beyond traditional tasks. However, relational data in
+sensitive domains such as finance and healthcare often contain private
+information, making privacy preservation crucial. Existing privacy-preserving
+methods, such as DP-SGD, which rely on gradient decoupling assumptions, are not
+well-suited for relational learning due to the inherent dependencies between
+coupled training samples. To address this challenge, we propose a
+privacy-preserving relational learning pipeline that decouples dependencies in
+sampled relations during training, ensuring differential privacy through a
+tailored application of DP-SGD. We apply this method to fine-tune large
+language models (LLMs) on sensitive graph data, and tackle the associated
+computational complexities. Our approach is evaluated on LLMs of varying sizes
+(e.g., BERT, Llama2) using real-world relational data from four text-attributed
+graphs. The results demonstrate significant improvements in relational learning
+tasks, all while maintaining robust privacy guarantees during training.
+Additionally, we explore the trade-offs between privacy, utility, and
+computational efficiency, offering insights into the practical deployment of
+our approach. Code is available at https://github.com/Graph-COM/PvGaLM.
+
+摘要：圖表提供關於實體之間關係和互動的獨特見解，補充了文本、影像和影片等資料模式。透過納入來自圖表資料的關係資訊，AI 模型可以將其功能延伸到傳統任務之外。然而，敏感領域（例如金融和醫療保健）中的關係資料通常包含私人資訊，因此隱私保護至關重要。現有的隱私保護方法（例如 DP-SGD），依賴於梯度解耦假設，由於耦合訓練樣本之間的內在依賴性，並不適合關係學習。為了應對這個挑戰，我們提出一個隱私保護關係學習管道，在訓練期間解耦取樣關係中的依賴性，透過客製化應用 DP-SGD 來確保差異隱私。我們將此方法應用於敏感圖表資料上微調大型語言模型 (LLM)，並解決相關的計算複雜性。我們的方法在不同大小的 LLM（例如 BERT、Llama2）上進行評估，使用來自四個文字屬性圖表的真實世界關係資料。結果證明關係學習任務有顯著的進步，同時在訓練期間維持強大的隱私保證。此外，我們探討隱私、效用和計算效率之間的權衡，提供對我們方法實際部署的見解。程式碼可在 https://github.com/Graph-COM/PvGaLM 取得。
+
 ##### **Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**
 2410.08085v1 by Yuan Sui, Bryan Hooi
 
@@ -454,30 +533,29 @@ open-source and available at the link: https://github.com/HKUDS/LightRAG.
 摘要：檢索增強生成 (RAG) 系統透過整合外部知識來源來增強大型語言模型 (LLM)，能針對使用者需求提供更準確且與脈絡相關的回應。然而，現有的 RAG 系統有很大的限制，包括依賴平面資料表示和不足的脈絡感知，這可能會導致無法捕捉複雜相互依賴性的片段式答案。為了應對這些挑戰，我們提出 LightRAG，它將圖形結構納入文字索引和檢索流程中。這個創新架構採用雙層檢索系統，能從低層級和高層級知識發現中增強全面的資訊檢索。此外，將圖形結構與向量表示整合，有助於有效檢索相關實體及其關係，大幅改善回應時間，同時維持脈絡相關性。此功能進一步透過增量更新演算法增強，可確保及時整合新資料，讓系統在快速變化的資料環境中保持有效且即時回應。廣泛的實驗驗證顯示，與現有方法相比，檢索準確度和效率都有顯著的改善。我們已開放 LightRAG 原始碼，並提供以下連結：https://github.com/HKUDS/LightRAG。
 
 ##### **Information Discovery in e-Commerce**
-2410.05763v1 by Zhaochun Ren, Xiangnan He, Dawei Yin, Maarten de Rijke
+2410.05763v2 by Zhaochun Ren, Xiangnan He, Dawei Yin, Maarten de Rijke
 
 Electronic commerce, or e-commerce, is the buying and selling of goods and
 services, or the transmitting of funds or data online. E-commerce platforms
-come in many kinds, with global players such as Amazon, Airbnb, Alibaba,
-Booking.com, eBay, JD.com and platforms targeting specific geographic regions
-such as Bol.com and Flipkart.com.Information retrieval has a natural role to
-play in e-commerce, especially in connecting people to goods and services.
-Information discovery in e-commerce concerns different types of search (e.g.,
-exploratory search vs. lookup tasks), recommender systems, and natural language
-processing in e-commerce portals. The rise in popularity of e-commerce sites
-has made research on information discovery in e-commerce an increasingly active
-research area. This is witnessed by an increase in publications and dedicated
-workshops in this space. Methods for information discovery in e-commerce
-largely focus on improving the effectiveness of e-commerce search and
-recommender systems, on enriching and using knowledge graphs to support
-e-commerce, and on developing innovative question answering and bot-based
-solutions that help to connect people to goods and services. In this survey, an
-overview is given of the fundamental infrastructure, algorithms, and technical
-solutions for information discovery in e-commerce. The topics covered include
-user behavior and profiling, search, recommendation, and language technology in
-e-commerce.
+come in many kinds, with global players such as Amazon, Airbnb, Alibaba, eBay
+and platforms targeting specific geographic regions. Information retrieval has
+a natural role to play in e-commerce, especially in connecting people to goods
+and services. Information discovery in e-commerce concerns different types of
+search (e.g., exploratory search vs. lookup tasks), recommender systems, and
+natural language processing in e-commerce portals. The rise in popularity of
+e-commerce sites has made research on information discovery in e-commerce an
+increasingly active research area. This is witnessed by an increase in
+publications and dedicated workshops in this space. Methods for information
+discovery in e-commerce largely focus on improving the effectiveness of
+e-commerce search and recommender systems, on enriching and using knowledge
+graphs to support e-commerce, and on developing innovative question answering
+and bot-based solutions that help to connect people to goods and services. In
+this survey, an overview is given of the fundamental infrastructure,
+algorithms, and technical solutions for information discovery in e-commerce.
+The topics covered include user behavior and profiling, search, recommendation,
+and language technology in e-commerce.
 
-摘要：電子商務，或電子商務，是商品和服務的買賣，或在線傳輸資金或數據。電子商務平台種類繁多，包括亞馬遜、Airbnb、阿里巴巴、Booking.com、eBay、京東等全球巨頭，以及針對特定地理區域的平台，例如 Bol.com 和 Flipkart.com。信息檢索在電子商務中扮演著自然的角色，特別是在將人與商品和服務聯繫起來方面。電子商務中的信息發現涉及不同類型的搜索（例如探索性搜索與查找任務）、推薦系統以及電子商務門戶中的自然語言處理。電子商務網站的普及使得電子商務中的信息發現研究成為一個越來越活躍的研究領域。這一點可以從該領域的出版物和專門研討會的增加中得到證明。電子商務中信息發現的方法主要集中在提高電子商務搜索和推薦系統的有效性、豐富和使用知識圖譜來支持電子商務，以及開發創新的問題解答和基於機器人的解決方案，以幫助將人與商品和服務聯繫起來。在本次調查中，概述了電子商務中信息發現的基本基礎設施、算法和技術解決方案。所涵蓋的主題包括電子商務中的用戶行為和分析、搜索、推薦和語言技術。
+摘要：電子商務，或稱電子商務，是買賣商品和服務，或在線上傳輸資金或資料。電子商務平台種類繁多，包括 Amazon、Airbnb、Alibaba、eBay 等全球性業者，以及鎖定特定地理區域的平台。資訊檢索在電子商務中扮演自然的角色，特別是在將人們與商品和服務連結起來方面。電子商務中的資訊發現涉及不同類型的搜尋（例如探索性搜尋與查詢任務）、推薦系統，以及電子商務入口網站中的自然語言處理。電子商務網站的普及使電子商務中的資訊發現研究成為一個越來越活躍的研究領域。這點可以從這方面的出版品和專門研討會的增加看出。電子商務中的資訊發現方法主要著重於改善電子商務搜尋和推薦系統的效能，豐富並使用知識圖表來支援電子商務，以及開發創新的問題解答和機器人解決方案，以協助將人們與商品和服務連結起來。在這項調查中，概述了電子商務中資訊發現的基本架構、演算法和技術解決方案。所涵蓋的主題包括電子商務中的使用者行為和設定檔、搜尋、推薦和語言技術。
 
 ##### **Vector-ICL: In-context Learning with Continuous Vector Representations**
 2410.05629v1 by Yufan Zhuang, Chandan Singh, Liyuan Liu, Jingbo Shang, Jianfeng Gao
@@ -1386,6 +1464,30 @@ embeddings extracted from XLM-R on sentiment analysis. Our code and data are
 publicly available under https://huggingface.co/DFKI.
 
 摘要：基於大型語言模型 (LLM) 的語境化嵌入可供各種語言使用，但其涵蓋範圍通常僅限於資源較少的語言。由於資料不足和高運算成本，為此類語言訓練 LLM 通常很困難。特別是對於資源非常少的語言，因此靜態字詞嵌入仍提供可行的替代方案。然而，對於各種語言來說，此類嵌入缺乏全面的儲存庫。為了解決這個問題，我們提出了 LowREm，一個針對 87 種低資源語言的靜態嵌入集中式儲存庫。我們還提出了一種新方法，透過整合多語言圖形知識來增強基於 GloVe 的嵌入，利用另一個知識來源。我們展示了我們增強的嵌入在情緒分析上優於從 XLM-R 提取的語境化嵌入。我們的程式碼和資料已公開在 https://huggingface.co/DFKI 下。
+
+##### **A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications**
+2410.08224v1 by Pengfei Wang, Huanran Zheng, Silong Dai, Yiqiao Wang, Xiaotian Gu, Yuanbin Wu, Xiaoling Wang
+
+In recent years, the field of electroencephalography (EEG) analysis has
+witnessed remarkable advancements, driven by the integration of machine
+learning and artificial intelligence. This survey aims to encapsulate the
+latest developments, focusing on emerging methods and technologies that are
+poised to transform our comprehension and interpretation of brain activity. We
+delve into self-supervised learning methods that enable the robust
+representation of brain signals, which are fundamental for a variety of
+downstream applications. We also explore emerging discriminative methods,
+including graph neural networks (GNN), foundation models, and large language
+models (LLMs)-based approaches. Furthermore, we examine generative technologies
+that harness EEG data to produce images or text, offering novel perspectives on
+brain activity visualization and interpretation. The survey provides an
+extensive overview of these cutting-edge techniques, their current
+applications, and the profound implications they hold for future research and
+clinical practice. The relevant literature and open-source materials have been
+compiled and are consistently being refreshed at
+\url{https://github.com/wpf535236337/LLMs4TS}
+
+摘要：近年來，腦電圖 (EEG) 分析領域見證了顯著的進展，這要歸功於機器學習和人工智能的整合。本調查旨在概括最新發展，重點關注新興方法和技術，這些方法和技術有望轉變我們對大腦活動的理解和詮釋。我們深入探討自監督學習方法，這些方法能讓大腦信號的表示變得穩健，這對各種下游應用至關重要。我們還探討新興的判別方法，包括圖神經網路 (GNN)、基礎模型和大語言模型 (LLM) 為基礎的方法。此外，我們檢視利用 EEG 資料產生影像或文字的生成式技術，為大腦活動視覺化和詮釋提供了新的觀點。本調查對這些尖端技術、它們目前的應用以及它們對未來研究和臨床實務的深遠影響提供了廣泛的概述。相關文獻和開放原始碼資料已編譯，並持續更新於
+\url{https://github.com/wpf535236337/LLMs4TS}
 
 ##### **Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study**
 2409.17580v1 by Zahra Sepasdar, Sushant Gautam, Cise Midoglu, Michael A. Riegler, Pål Halvorsen
@@ -2405,100 +2507,4 @@ success suggests the potential for a large-scale version to serve as an
 operational foundational model.
 
 摘要：基礎模型已在各個研究領域中展現出極大的前景。此類模型的潛在應用之一在於電腦網路流量分析，其中這些模型可以掌握網路流量動態的複雜性，並以最小的微調適應任何特定任務或網路環境。先前的做法已使用標記化十六進位層級封包資料和大型語言轉換器模型的模型架構。我們提出一個新的、有效的流程層級圖形化替代方案。我們的做法將網路流量表示為動態時空圖形，採用自我監督連結預測預訓練任務來捕捉此網路圖形架構中的空間和時間動態。為了評估我們做法的有效性，我們對三個不同的下游網路任務（入侵偵測、流量分類和殭屍網路分類）進行少量學習實驗。從我們的預訓練基礎微調的模型，其平均效能提升 6.87%，高於從頭訓練，這證明了它們在預訓練期間有效學習一般網路流量動態的能力。這項成功顯示出大規模版本有潛力作為運作基礎模型。
-
-##### **Learning Rules from KGs Guided by Language Models**
-2409.07869v1 by Zihang Peng, Daria Stepanova, Vinh Thinh Ho, Heike Adel, Alessandra Russo, Simon Ott
-
-Advances in information extraction have enabled the automatic construction of
-large knowledge graphs (e.g., Yago, Wikidata or Google KG), which are widely
-used in many applications like semantic search or data analytics. However, due
-to their semi-automatic construction, KGs are often incomplete. Rule learning
-methods, concerned with the extraction of frequent patterns from KGs and
-casting them into rules, can be applied to predict potentially missing facts. A
-crucial step in this process is rule ranking. Ranking of rules is especially
-challenging over highly incomplete or biased KGs (e.g., KGs predominantly
-storing facts about famous people), as in this case biased rules might fit the
-data best and be ranked at the top based on standard statistical metrics like
-rule confidence. To address this issue, prior works proposed to rank rules not
-only relying on the original KG but also facts predicted by a KG embedding
-model. At the same time, with the recent rise of Language Models (LMs), several
-works have claimed that LMs can be used as alternative means for KG completion.
-In this work, our goal is to verify to which extent the exploitation of LMs is
-helpful for improving the quality of rule learning systems.
-
-摘要：資訊萃取的進展已能自動建構大型知識圖譜（例如 Yago、Wikidata 或 Google KG），這些知識圖譜廣泛用於許多應用程式，例如語意搜尋或資料分析。然而，由於這些知識圖譜是半自動建構的，因此通常並不完整。規則學習方法著重於從知識圖譜中萃取頻繁模式，並將它們轉換為規則，可應用於預測潛在遺失的事實。此過程中的一個關鍵步驟是規則排序。規則排序在高度不完整或有偏差的知識圖譜（例如，主要儲存名人事實的知識圖譜）中特別具有挑戰性，因為在這種情況下，有偏差的規則可能最符合資料，並根據標準統計量度（例如規則信心）排在最前面。為了解決這個問題，先前的研究提出不只依賴原始知識圖譜，還要依賴知識圖譜嵌入模型預測的事實來對規則進行排序。同時，隨著語言模型 (LM) 的興起，一些研究聲稱 LM 可用作知識圖譜完成的替代方法。在這項研究中，我們的目標是驗證利用 LM 在多大程度上有助於提升規則學習系統的品質。
-
-##### **Multi-object event graph representation learning for Video Question Answering**
-2409.07747v1 by Yanan Wang, Shuichiro Haruta, Donghuo Zeng, Julio Vizcarra, Mori Kurokawa
-
-Video question answering (VideoQA) is a task to predict the correct answer to
-questions posed about a given video. The system must comprehend spatial and
-temporal relationships among objects extracted from videos to perform causal
-and temporal reasoning. While prior works have focused on modeling individual
-object movements using transformer-based methods, they falter when capturing
-complex scenarios involving multiple objects (e.g., "a boy is throwing a ball
-in a hoop"). We propose a contrastive language event graph representation
-learning method called CLanG to address this limitation. Aiming to capture
-event representations associated with multiple objects, our method employs a
-multi-layer GNN-cluster module for adversarial graph representation learning,
-enabling contrastive learning between the question text and its relevant
-multi-object event graph. Our method outperforms a strong baseline, achieving
-up to 2.2% higher accuracy on two challenging VideoQA datasets, NExT-QA and
-TGIF-QA-R. In particular, it is 2.8% better than baselines in handling causal
-and temporal questions, highlighting its strength in reasoning multiple
-object-based events.
-
-摘要：影片問答 (VideoQA) 是一項任務，用於預測針對給定影片提出的問題的正確答案。系統必須了解從影片中提取的物件之間的空間和時間關係，才能執行因果關係和時間推理。雖然先前的研究集中於使用基於Transformer的模型來建模個別物件的動作，但在捕捉涉及多個物件的複雜場景（例如「一個男孩正在將球投進籃框」）時，它們會出現問題。我們提出了一個對比式語言事件圖表表示學習方法，稱為 CLanG，以解決此限制。為了捕捉與多個物件相關的事件表示，我們的模型採用多層 GNN 集群模組進行對抗式圖表表示學習，使問題文字及其相關的多物件事件圖表之間能夠進行對比式學習。我們的模型優於強大的基準，在兩個具有挑戰性的 VideoQA 資料集 NExT-QA 和 TGIF-QA-R 上達到了高達 2.2% 的更高準確度。特別是，在處理因果關係和時間問題方面比基準高出 2.8%，突顯了它在推理多個基於物件的事件方面的優勢。
-
-##### **Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**
-2409.07368v3 by Khiem Ton, Nhi Nguyen, Mahmoud Nazzal, Abdallah Khreishah, Cristian Borcea, NhatHai Phan, Ruoming Jin, Issa Khalil, Yelong Shen
-
-This paper introduces SGCode, a flexible prompt-optimizing system to generate
-secure code with large language models (LLMs). SGCode integrates recent
-prompt-optimization approaches with LLMs in a unified system accessible through
-front-end and back-end APIs, enabling users to 1) generate secure code, which
-is free of vulnerabilities, 2) review and share security analysis, and 3)
-easily switch from one prompt optimization approach to another, while providing
-insights on model and system performance. We populated SGCode on an AWS server
-with PromSec, an approach that optimizes prompts by combining an LLM and
-security tools with a lightweight generative adversarial graph neural network
-to detect and fix security vulnerabilities in the generated code. Extensive
-experiments show that SGCode is practical as a public tool to gain insights
-into the trade-offs between model utility, secure code generation, and system
-cost. SGCode has only a marginal cost compared with prompting LLMs. SGCode is
-available at: https://sgcode.codes/.
-
-摘要：本文介紹 SGCode，一個彈性的提示最佳化系統，用於生成大型語言模型 (LLM) 的安全程式碼。SGCode 將最近的提示最佳化方法與 LLM 整合在一個統一的系統中，可透過前端和後端 API 存取，使用戶能夠 1) 產生安全的程式碼，沒有漏洞，2) 檢閱和分享安全性分析，以及 3) 從一種提示最佳化方法輕鬆切換到另一種，同時提供模型和系統效能的見解。我們在 AWS 伺服器上使用 PromSec 填充 SGCode，這是一種透過結合 LLM 和安全性工具，以及輕量級生成對抗圖形神經網路來最佳化提示，以偵測和修復產生程式碼中的安全性漏洞的方法。廣泛的實驗顯示，SGCode 作為一個公用工具，在模型效用、安全程式碼產生和系統成本之間的權衡中獲得見解，是實用的。與提示 LLM 相比，SGCode 只有邊際成本。SGCode 可在 https://sgcode.codes/ 取得。
-
-##### **Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**
-2409.12171v1 by William Van Woensel, Oshani Seneviratne
-
-Background: Health 3.0 allows decision making to be based on longitudinal
-data from multiple institutions, from across the patient's healthcare journey.
-In such a distributed setting, blockchain smart contracts can act as neutral
-intermediaries to implement trustworthy decision making.
-  Objective: In a distributed setting, transmitted data will be structured
-using standards (such as HL7 FHIR) for semantic interoperability. In turn, the
-smart contract will require interoperability with this standard, implement a
-complex communication setup (e.g., using oracles), and be developed using
-blockchain languages (e.g., Solidity). We propose the encoding of smart
-contract logic using a high-level semantic Knowledge Graph, using concepts from
-the domain standard. We then deploy this semantic KG on blockchain.
-  Methods: Off-chain, a code generation pipeline compiles the KG into a
-concrete smart contract, which is then deployed on-chain. Our pipeline targets
-an intermediary bridge representation, which can be transpiled into a specific
-blockchain language. Our choice avoids on-chain rule engines, with
-unpredictable and likely higher computational cost; it is thus in line with the
-economic rules of blockchain.
-  Results: We applied our code generation approach to generate smart contracts
-for 3 health insurance cases from Medicare. We discuss the suitability of our
-approach - the need for a neutral intermediary - for a number of healthcare use
-cases. Our evaluation finds that the generated contracts perform well in terms
-of correctness and execution cost ("gas") on blockchain.
-  Conclusions: We showed that it is feasible to automatically generate smart
-contract code based on a semantic KG, in a way that respects the economic rules
-of blockchain. Future work includes studying the use of Large Language Models
-(LLM) in our approach, and evaluations on other blockchains.
-
-摘要：<paragraph>背景：Health 3.0 允許決策制定基於來自多個機構的縱向數據，來自患者的醫療保健歷程。在這種分布式設置中，區塊鏈智能合約可以作為中立的仲介來實施值得信賴的決策制定。目標：在分布式設置中，傳輸的數據將使用標準（例如 HL7 FHIR）進行結構化，以實現語義互操作性。反過來，智能合約將需要與此標準互操作，實施複雜的通信設置（例如，使用預言機），並使用區塊鏈語言（例如，Solidity）開發。我們提議使用來自領域標準的概念，使用高級語義知識圖對智能合約邏輯進行編碼。然後我們將這個語義知識圖部署在區塊鏈上。方法：鏈下，一個代碼生成管道將知識圖編譯成具體的智能合約，然後將其部署到鏈上。我們的管道針對中間橋接表示，可以轉譯成特定的區塊鏈語言。我們的選擇避免了鏈上規則引擎，其不可預測且可能計算成本更高；因此，它符合區塊鏈的經濟規則。結果：我們應用我們的代碼生成方法來生成來自 Medicare 的 3 個健康保險案例的智能合約。我們討論了我們的方法的適用性——對中立仲介的需求——對於許多醫療保健用例。我們的評估發現，生成的合約在區塊鏈上的正確性和執行成本（“gas”）方面表現良好。結論：我們表明，以符合區塊鏈經濟規則的方式自動生成基於語義知識圖的智能合約代碼是可行的。未來的研究包括研究我們的方法中使用大型語言模型 (LLM)，以及對其他區塊鏈的評估。</paragraph>
 

@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-12**|**Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**|Abdullah Mamun et.al.|[2410.09635v1](http://arxiv.org/abs/2410.09635v1)|[link](https://github.com/ab9mamun/aimen)|
+|**2024-10-10**|**Artificial intelligence techniques in inherited retinal diseases: A review**|Han Trinh et.al.|[2410.09105v1](http://arxiv.org/abs/2410.09105v1)|null|
 |**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|
 |**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v1](http://arxiv.org/abs/2410.01855v1)|null|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
@@ -100,10 +102,62 @@
 |**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v3](http://arxiv.org/abs/2309.12325v3)|null|
 |**2023-08-10**|**Explainable AI applications in the Medical Domain: a systematic review**|Nicoletta Prentzas et.al.|[2308.05411v1](http://arxiv.org/abs/2308.05411v1)|null|
 |**2023-08-01**|**Exploring the Role of Explainability in AI-Assisted Embryo Selection**|Lucia Urcelay et.al.|[2308.02534v1](http://arxiv.org/abs/2308.02534v1)|null|
-|**2023-07-26**|**A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**|Timo Speith et.al.|[2307.14246v1](http://arxiv.org/abs/2307.14246v1)|null|
-|**2023-07-26**|**Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**|Barnaby Crook et.al.|[2307.14239v1](http://arxiv.org/abs/2307.14239v1)|null|
 
 #### Abstracts
+##### **Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**
+2410.09635v1 by Abdullah Mamun, Lawrence D. Devoe, Mark I. Evans, David W. Britt, Judith Klein-Seetharaman, Hassan Ghasemzadeh
+
+Early detection of intrapartum risk enables interventions to potentially
+prevent or mitigate adverse labor outcomes such as cerebral palsy. Currently,
+there is no accurate automated system to predict such events to assist with
+clinical decision-making. To fill this gap, we propose "Artificial Intelligence
+(AI) for Modeling and Explaining Neonatal Health" (AIMEN), a deep learning
+framework that not only predicts adverse labor outcomes from maternal, fetal,
+obstetrical, and intrapartum risk factors but also provides the model's
+reasoning behind the predictions made. The latter can provide insights into
+what modifications in the input variables of the model could have changed the
+predicted outcome. We address the challenges of imbalance and small datasets by
+synthesizing additional training data using Adaptive Synthetic Sampling
+(ADASYN) and Conditional Tabular Generative Adversarial Networks (CTGAN). AIMEN
+uses an ensemble of fully-connected neural networks as the backbone for its
+classification with the data augmentation supported by either ADASYN or CTGAN.
+AIMEN, supported by CTGAN, outperforms AIMEN supported by ADASYN in
+classification. AIMEN can predict a high risk for adverse labor outcomes with
+an average F1 score of 0.784. It also provides counterfactual explanations that
+can be achieved by changing 2 to 3 attributes on average. Resources available:
+https://github.com/ab9mamun/AIMEN.
+
+摘要：產程中風險的早期偵測有助於進行干預措施，以預防或減輕不利的生產結果，例如腦性麻痺。目前，沒有準確的自動化系統可以預測此類事件，以協助臨床決策。為了填補這一空白，我們提出「用於建模和解釋新生兒健康的人工智慧」(AIMEN)，這是一個深度學習架構，它不僅可以根據孕產婦、胎兒、產科和產程風險因素預測不利的生產結果，還能提供模型做出預測背後的原因。後者可以提供見解，說明模型輸入變數中的哪些修改可能會改變預測結果。我們透過使用適應性合成抽樣 (ADASYN) 和條件表格生成對抗網路 (CTGAN) 來合成額外的訓練資料，以解決不平衡和小型資料集的挑戰。AIMEN 使用全連接神經網路的集合作為其分類的骨幹，並透過 ADASYN 或 CTGAN 支援資料擴充。由 CTGAN 支援的 AIMEN 在分類方面優於由 ADASYN 支援的 AIMEN。AIMEN 可以預測不利的生產結果的高風險，平均 F1 分數為 0.784。它還提供反事實解釋，可透過平均變更 2 至 3 個屬性來達成。可用資源：https://github.com/ab9mamun/AIMEN。
+
+##### **Artificial intelligence techniques in inherited retinal diseases: A review**
+2410.09105v1 by Han Trinh, Jordan Vice, Jason Charng, Zahra Tajbakhsh, Khyber Alam, Fred K. Chen, Ajmal Mian
+
+Inherited retinal diseases (IRDs) are a diverse group of genetic disorders
+that lead to progressive vision loss and are a major cause of blindness in
+working-age adults. The complexity and heterogeneity of IRDs pose significant
+challenges in diagnosis, prognosis, and management. Recent advancements in
+artificial intelligence (AI) offer promising solutions to these challenges.
+However, the rapid development of AI techniques and their varied applications
+have led to fragmented knowledge in this field. This review consolidates
+existing studies, identifies gaps, and provides an overview of AI's potential
+in diagnosing and managing IRDs. It aims to structure pathways for advancing
+clinical applications by exploring AI techniques like machine learning and deep
+learning, particularly in disease detection, progression prediction, and
+personalized treatment planning. Special focus is placed on the effectiveness
+of convolutional neural networks in these areas. Additionally, the integration
+of explainable AI is discussed, emphasizing its importance in clinical settings
+to improve transparency and trust in AI-based systems. The review addresses the
+need to bridge existing gaps in focused studies on AI's role in IRDs, offering
+a structured analysis of current AI techniques and outlining future research
+directions. It concludes with an overview of the challenges and opportunities
+in deploying AI for IRDs, highlighting the need for interdisciplinary
+collaboration and the continuous development of robust, interpretable AI models
+to advance clinical applications.
+
+摘要：遺傳性視網膜疾病 (IRD) 是一組多樣化的遺傳疾病，
+會導致視力逐漸喪失，是工作年齡成人失明的主要原因。IRD 的複雜性和異質性對診斷、預後和管理提出了重大挑戰。最近人工智能 (AI) 的進步為這些挑戰提供了有希望的解決方案。
+然而，AI 技術的快速發展及其多種應用導致了該領域的知識分散。本綜述整合了現有研究，找出差距，並概述了 AI 在診斷和管理 IRD 中的潛力。它旨在通過探索機器學習和深度學習等 AI 技術，特別是在疾病檢測、進程預測和個性化治療計劃中，為推進臨床應用構建途徑。特別關注這些領域中卷積神經網路的有效性。此外，討論了可解釋 AI 的整合，強調了其在臨床環境中提高透明度和對基於 AI 的系統的信任的重要性。該綜述解決了彌合 AI 在 IRD 中作用的重點研究中現有差距的必要性，提供了對當前 AI 技術的結構化分析，並概述了未來的研究方向。最後概述了在 IRD 中部署 AI 的挑戰和機遇，強調了跨學科合作和持續開發強大、可解釋的 AI 模型以推進臨床應用的必要性。
+
 ##### **CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**
 2410.05235v2 by Ekaterina Sviridova, Anar Yeginbergen, Ainara Estarrona, Elena Cabrio, Serena Villata, Rodrigo Agerri
 
@@ -2634,44 +2688,4 @@ of increasing interpretability and trustworthiness, pushing this technology
 forward towards established clinical practice.
 
 摘要：體外受精是治療不孕症最廣泛的方法之一。其主要挑戰之一是評估和選擇胚胎進行植入，此過程具有很大的臨床間和臨床內變異性。基於深度學習的方法正受到關注，但其不透明的性質會影響其在臨床環境中的接受度，而透明度在決策制定中至關重要。在本文中，我們分析了 AI 輔助胚胎分析模型的可解釋性方面的現有工作，並找出其局限性。我們還討論了如何將這些模型作為決策支持系統整合到臨床環境中，同時考慮臨床醫生和患者的需求。最後，我們提出了提高可解釋性和可信度的準則，推進這項技術朝著既定的臨床實務邁進。
-
-##### **A New Perspective on Evaluation Methods for Explainable Artificial Intelligence (XAI)**
-2307.14246v1 by Timo Speith, Markus Langer
-
-Within the field of Requirements Engineering (RE), the increasing
-significance of Explainable Artificial Intelligence (XAI) in aligning
-AI-supported systems with user needs, societal expectations, and regulatory
-standards has garnered recognition. In general, explainability has emerged as
-an important non-functional requirement that impacts system quality. However,
-the supposed trade-off between explainability and performance challenges the
-presumed positive influence of explainability. If meeting the requirement of
-explainability entails a reduction in system performance, then careful
-consideration must be given to which of these quality aspects takes precedence
-and how to compromise between them. In this paper, we critically examine the
-alleged trade-off. We argue that it is best approached in a nuanced way that
-incorporates resource availability, domain characteristics, and considerations
-of risk. By providing a foundation for future research and best practices, this
-work aims to advance the field of RE for AI.
-
-摘要：在需求工程 (RE) 領域中，可解釋人工智慧 (XAI) 在將 AI 支持的系統與使用者需求、社會期望和法規標準相符方面的重要性日益顯著，已獲得認可。一般來說，可解釋性已成為影響系統品質的重要非功能需求。然而，可解釋性與效能之間的假定權衡挑戰了可解釋性的假定正面影響。如果滿足可解釋性的需求需要降低系統效能，那麼必須仔細考慮這些品質面向中哪一個優先，以及如何在它們之間進行折衷。在本文中，我們批判性地探討了這種假定的權衡。我們認為，最好的方法是以一種細緻的方式來處理，這種方式包含資源可用性、領域特性和風險考量。透過提供未來研究和最佳實務的基礎，這項工作旨在提升 AI 的 RE 領域。
-
-##### **Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)**
-2307.14239v1 by Barnaby Crook, Maximilian Schlüter, Timo Speith
-
-Within the field of Requirements Engineering (RE), the increasing
-significance of Explainable Artificial Intelligence (XAI) in aligning
-AI-supported systems with user needs, societal expectations, and regulatory
-standards has garnered recognition. In general, explainability has emerged as
-an important non-functional requirement that impacts system quality. However,
-the supposed trade-off between explainability and performance challenges the
-presumed positive influence of explainability. If meeting the requirement of
-explainability entails a reduction in system performance, then careful
-consideration must be given to which of these quality aspects takes precedence
-and how to compromise between them. In this paper, we critically examine the
-alleged trade-off. We argue that it is best approached in a nuanced way that
-incorporates resource availability, domain characteristics, and considerations
-of risk. By providing a foundation for future research and best practices, this
-work aims to advance the field of RE for AI.
-
-摘要：在需求工程（RE）领域，可解释人工智能（XAI）在将人工智能支持的系统与用户需求、社会期望和监管标准相一致方面的重要性日益凸显，并获得了认可。一般来说，可解释性已成为影响系统质量的重要非功能性需求。然而，可解释性和性能之间的权衡挑战了可解释性的正面影响。如果满足可解释性的要求需要降低系统性能，那么必须仔细考虑这些质量方面中的哪一个优先，以及如何在它们之间进行权衡。在本文中，我们批判性地考察了所谓的权衡。我们认为，最好以一种细致入微的方式来处理它，这种方式结合了资源可用性、领域特征和风险考虑。通过为未来的研究和最佳实践提供基础，这项工作旨在推进人工智能的 RE 领域。
 

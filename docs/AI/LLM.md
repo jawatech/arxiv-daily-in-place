@@ -22,7 +22,7 @@
 |**2024-10-15**|**Converging to a Lingua Franca: Evolution of Linguistic Regions and Semantics Alignment in Multilingual Large Language Models**|Hongchuan Zeng et.al.|[2410.11718v1](http://arxiv.org/abs/2410.11718v1)|null|
 |**2024-10-15**|**MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models**|Pei Wang et.al.|[2410.11710v1](http://arxiv.org/abs/2410.11710v1)|[link](https://github.com/mtu-bench-team/mtu-bench)|
 |**2024-10-15**|**Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions**|Yuhan Fu et.al.|[2410.11701v1](http://arxiv.org/abs/2410.11701v1)|null|
-|**2024-10-15**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693v1](http://arxiv.org/abs/2410.11693v1)|null|
+|**2024-10-15**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693v2](http://arxiv.org/abs/2410.11693v2)|null|
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687v1](http://arxiv.org/abs/2410.11687v1)|null|
 |**2024-10-15**|**Are UFOs Driving Innovation? The Illusion of Causality in Large Language Models**|María Victoria Carro et.al.|[2410.11684v1](http://arxiv.org/abs/2410.11684v1)|null|
 |**2024-10-15**|**Understanding Likelihood Over-optimisation in Direct Alignment Algorithms**|Zhengyan Shi et.al.|[2410.11677v1](http://arxiv.org/abs/2410.11677v1)|null|
@@ -48,7 +48,7 @@
 |**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531v1](http://arxiv.org/abs/2410.11531v1)|null|
 |**2024-10-15**|**Human-LLM Collaborative Construction of a Cantonese Emotion Lexicon**|Yusong Zhang et.al.|[2410.11526v1](http://arxiv.org/abs/2410.11526v1)|null|
 |**2024-10-15**|**TopoLM: brain-like spatio-functional organization in a topographic language model**|Neil Rathi et.al.|[2410.11516v1](http://arxiv.org/abs/2410.11516v1)|null|
-|**2024-10-15**|**Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**|Wanying Wang et.al.|[2410.11507v1](http://arxiv.org/abs/2410.11507v1)|null|
+|**2024-10-15**|**Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**|Wanying Wang et.al.|[2410.11507v2](http://arxiv.org/abs/2410.11507v2)|null|
 |**2024-10-15**|**Offline Model-Based Optimization by Learning to Rank**|Rong-Xi Tan et.al.|[2410.11502v1](http://arxiv.org/abs/2410.11502v1)|null|
 |**2024-10-15**|**BSM: Small but Powerful Biological Sequence Model for Genes and Proteins**|Weixi Xiang et.al.|[2410.11499v1](http://arxiv.org/abs/2410.11499v1)|null|
 |**2024-10-15**|**DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG**|Jinyoung Kim et.al.|[2410.11494v1](http://arxiv.org/abs/2410.11494v1)|null|
@@ -91,14 +91,14 @@
 |**2024-10-15**|**Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs**|Shuo Li et.al.|[2410.11302v1](http://arxiv.org/abs/2410.11302v1)|null|
 |**2024-10-15**|**Sorted Weight Sectioning for Energy-Efficient Unstructured Sparse DNNs on Compute-in-Memory Crossbars**|Matheus Farias et.al.|[2410.11298v1](http://arxiv.org/abs/2410.11298v1)|null|
 |**2024-10-15**|**TraM : Enhancing User Sleep Prediction with Transformer-based Multivariate Time Series Modeling and Machine Learning Ensembles**|Jinjae Kim et.al.|[2410.11293v1](http://arxiv.org/abs/2410.11293v1)|[link](https://github.com/jin-jae/etri-paper-contest)|
-|**2024-10-15**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291v1](http://arxiv.org/abs/2410.11291v1)|[link](https://github.com/indian-nlp/assamese-dataset)|
+|**2024-10-15**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291v2](http://arxiv.org/abs/2410.11291v2)|[link](https://github.com/indian-nlp/assamese-dataset)|
 |**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290v1](http://arxiv.org/abs/2410.11290v1)|null|
 |**2024-10-15**|**Process Reward Model with Q-Value Rankings**|Wendi Li et.al.|[2410.11287v1](http://arxiv.org/abs/2410.11287v1)|null|
 |**2024-10-15**|**Advancing the Understanding of Fixed Point Iterations in Deep Neural Networks: A Detailed Analytical Study**|Yekun Ke et.al.|[2410.11279v1](http://arxiv.org/abs/2410.11279v1)|null|
 |**2024-10-15**|**ILAEDA: An Imitation Learning Based Approach for Automatic Exploratory Data Analysis**|Abhijit Manatkar et.al.|[2410.11276v1](http://arxiv.org/abs/2410.11276v1)|null|
 |**2024-10-15**|**Cognitive Overload Attack:Prompt Injection for Long Context**|Bibek Upadhayay et.al.|[2410.11272v1](http://arxiv.org/abs/2410.11272v1)|null|
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268v1](http://arxiv.org/abs/2410.11268v1)|null|
-|**2024-10-15**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267v1](http://arxiv.org/abs/2410.11267v1)|null|
+|**2024-10-15**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267v2](http://arxiv.org/abs/2410.11267v2)|null|
 |**2024-10-15**|**In-Context Learning for Long-Context Sentiment Analysis on Infrastructure Project Opinions**|Alireza Shamshiri et.al.|[2410.11265v1](http://arxiv.org/abs/2410.11265v1)|null|
 |**2024-10-15**|**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**|Yingyu Liang et.al.|[2410.11261v1](http://arxiv.org/abs/2410.11261v1)|null|
 |**2024-10-15**|**Learning Agents With Prioritization and Parameter Noise in Continuous State and Action Space**|Rajesh Mangannavar et.al.|[2410.11250v1](http://arxiv.org/abs/2410.11250v1)|null|
@@ -589,7 +589,7 @@ hallucination.
 摘要：多模态大型语言模型（MLLM）中的幻觉阻碍了它们的实际应用。为了解决这个问题，我们提出了放大提示（MagPrompt），这是一种简单但有效的方法，可以通过极其简单的指令来解决 MLLM 中的幻觉。MagPrompt 基于以下两个关键原则，这些原则指导各种有效提示的设计，展示了鲁棒性：（1）MLLM 应该更多地关注图像。（2）当图像与模型的内部知识之间存在冲突时，MLLM 应优先考虑图像。MagPrompt 是免训练的，可以应用于开源和闭源模型，例如 GPT-4o 和 Gemini-pro。它在许多数据集上的表现良好，其有效性与 VCD 等更复杂的方法相当甚至更好。此外，我们的提示设计原则和实验分析为多模态幻觉提供了宝贵的见解。
 
 ##### **IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**
-2410.11693v1 by Seung-Woo Choi, Ga-Hyun Yoo, Jay-Yoon Lee
+2410.11693v2 by Seung-Woo Choi, Ga-Hyun Yoo, Jay-Yoon Lee
 
 Recent Large Language Models (LLMs) have demonstrated strong performance in
 translation without needing to be finetuned on additional parallel corpora.
@@ -611,8 +611,7 @@ especially in low-resource languages such as Hindi(8.26), Swahili(7.10),
 Bengali(6.97) and Marathi(13.03). Our approach presents a practical way of
 enhancing LLMs' performance without extra training.
 
-摘要：最近的大型语言模型 (LLM) 已展示出在翻译中的强大性能，而无需针对其他平行语料库进行微调。
-然而，对于低资源语言对，它们仍然表现不佳。以前的工作集中于利用相关的少量示例或外部资源（如词典或语法书）来缓解此问题，使模型严重依赖于这些非参数信息源。在本文中，我们提出了一种名为 IntGrad MT 的新方法，该方法专注于充分利用 LLM 固有的翻译能力。IntGrad MT 通过构建一系列少量示例来实现这一点，每个示例都包含一个源句子和模型自己的翻译，难度逐渐增加。IntGrad MT 采用两种技术：句子插值，它生成一系列句子，这些句子逐渐从易于翻译的句子变为难以翻译的句子；以及渐进式 MT，它使用较早句子的翻译作为后续句子的翻译的少量示例，顺序翻译此链。通过这种方法，我们观察到各种 LLM 在多种语言中的 xCOMET 得分都有显着提高，尤其是在印地语 (8.26)、斯瓦希里语 (7.10)、孟加拉语 (6.97) 和马拉地语 (13.03) 等低资源语言中。我们的方法提供了一种在没有额外训练的情况下提高 LLM 性能的实用方法。
+摘要：最近的大语言模型 (LLM) 在翻译方面表现出色，而无需针对其他平行语料库进行微调。然而，它们在资源较少的语言对方面仍然表现不佳。以前的工作重点是通过利用相关的少量示例或外部资源（例如词典或语法书）来缓解此问题，使模型严重依赖于这些非参数信息源。在本文中，我们提出了一种名为 IntGrad MT 的新方法，该方法专注于充分利用 LLM 固有的翻译能力。IntGrad MT 通过构建一个少量示例链来实现这一点，每个示例链由一个源句子和模型自己的翻译组成，难度逐渐增加。IntGrad MT 采用了两种技术：句子插值，它生成一系列句子，这些句子逐渐从易于翻译的句子变为难以翻译的句子；渐进式机器翻译，它使用较早句子的翻译作为后续句子的少量示例，依次翻译此链。通过这种方法，我们观察到各种 LLM 在多种语言上的 xCOMET 分数都有显着提高，尤其是在印地语 (8.26)、斯瓦希里语 (7.10)、孟加拉语 (6.97) 和马拉地语 (13.03) 等资源较少的语言中。我们的方法提供了一种在不进行额外训练的情况下增强 LLM 性能的实用方法。
 
 ##### **State-space models can learn in-context by gradient descent**
 2410.11687v1 by Neeraj Mohan Sushma, Yudou Tian, Harshvardhan Mestha, Nicolo Colombo, David Kappel, Anand Subramoney
@@ -1212,28 +1211,27 @@ the brain.
 摘要：大腦中的神經元在空間上具有組織性，因此組織中的鄰居通常表現出相似的反應模式。在人類語言系統中，實驗研究已經觀察到句法和語義類別的群集，但這種功能組織背後的機制仍不清楚。在此，我們建立在視覺文獻的工作基礎上，開發了 TopoLM，這是一個具有模型單元明確的二維空間表示形式的Transformer語言模型。通過將下一個標記預測目標與空間平滑損失相結合，此模型中的表示組裝成對應於語義可解釋的文本分組的群集，並且與大腦語言系統中的功能組織密切匹配。TopoLM 成功預測了皮質語言系統的時空功能組織的出現，以及在人類皮質中經驗觀察到的對細粒度語言特徵具有選擇性的功能群集的組織。我們的結果表明，人類語言系統的功能組織是由統一的空間目標驅動的，並在大腦中提供了語言處理的功能和空間對齊模型。
 
 ##### **Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**
-2410.11507v1 by Wanying Wang, Zeyu Ma, Pengfei Liu, Mingang Chen
+2410.11507v2 by Wanying Wang, Zeyu Ma, Pengfei Liu, Mingang Chen
 
 While various vertical domain large language models (LLMs) have been
 developed, the challenge of automatically evaluating their performance across
-different domains remains significant in addressing real-world user needs.
-Current benchmark-based evaluation methods exhibit rigid, purposeless
-interactions and rely on pre-collected static datasets that are costly to
-build, inflexible across domains, and misaligned with practical user needs. To
-address this, we revisit the evaluation components and introduce two
-definitions: **Benchmark+**, which extends traditional QA benchmarks into a
-more flexible ``strategy-criterion'' format; and **Assessment+**, which
-enhances the interaction process for greater exploration and enables both
-quantitative metrics and qualitative insights that capture nuanced target LLM
-behaviors from richer multi-turn interactions. We propose an agent-based
-evaluation framework called *TestAgent*, which implements these two concepts
-through retrieval augmented generation and reinforcement learning. Experiments
-on tasks ranging from building vertical domain evaluation from scratch to
-activating existing benchmarks demonstrate the effectiveness of *TestAgent*
-across various scenarios. We believe this work offers an interesting
-perspective on automatic evaluation for LLMs.
+different domains remains significant. Current benchmark-based evaluation
+methods exhibit rigid, aimless interactions and rely on pre-collected static
+datasets that are costly to build, inflexible across domains, and misaligned
+with practical user needs. To address this issue, we revisit the evaluation
+components and introduce two concepts: Benchmark+, which extends traditional
+question-answer benchmark into a more flexible "strategy-criterion" format; and
+Assessment+, which enhances the interaction process, enabling deeper
+exploration and supporting both quantitative metrics and qualitative insights.
+These concepts capture the nuanced behaviors of LLMs through richer, multi-turn
+interactions. We propose an agent-based evaluation framework called TestAgent,
+which implements these concepts through retrieval augmented generation and
+reinforcement learning. Experiments on tasks ranging from constructing vertical
+domain evaluation to activating existing benchmarks demonstrate the
+effectiveness of TestAgent across various scenarios. We believe this work
+offers an interesting perspective on automatic evaluation for LLMs.
 
-摘要：儘管已經開發出各種垂直領域的大型語言模型 (LLM)，但自動評估它們在不同領域的效能，對於滿足真實世界的使用者需求而言，仍是一項重大的挑戰。目前的基於基準的評估方法展現出僵化、無目的的互動，並且依賴於預先收集的靜態資料集，這些資料集建置成本高昂、跨領域不靈活，而且與實際使用者的需求不符。為了解決這個問題，我們重新檢視評估組成部分，並提出兩個定義：**基準+**，將傳統的問答基準擴充為更靈活的「策略標準」格式；以及**評估+**，增強互動過程以進行更深入的探索，並同時啟用量化指標和定性見解，從更豐富的多輪互動中擷取細緻的目標 LLM 行為。我們提出一個基於代理的評估架構，稱為 *TestAgent*，它透過檢索增強生成和強化學習來實作這兩個概念。從頭建立垂直領域評估到啟動現有基準等任務的實驗，都證明了 *TestAgent* 在各種情境下的效能。我們相信這項工作為 LLM 的自動評估提供了一個有趣的觀點。
+摘要：儘管各種垂直領域大型語言模型 (LLM) 已經開發出來，但自動評估它們在不同領域的效能仍是一項重大的挑戰。現有的基於基準的評估方法展現出僵化、無目標的互動，且依賴於收集好的靜態資料集，而這些資料集建置成本高昂、無法靈活應用於不同領域，且與實際使用者的需求不符。為了解決這個問題，我們重新檢視評估組成部分，並提出兩個概念：Benchmark+，將傳統問答基準擴充為更靈活的「策略準則」格式；以及 Assessment+，它增強了互動程序，讓探索更深入，並同時支援量化指標和定性見解。這些概念透過更豐富、多輪次的互動，捕捉到 LLM 的細微行為。我們提出一個稱為 TestAgent 的基於代理的評估架構，它透過檢索擴充生成和強化學習來實作這些概念。在從建構垂直領域評估到啟動現有基準等任務上的實驗，都證實了 TestAgent 在各種情境下的效能。我們相信這項研究為 LLM 的自動評估提供了有趣的觀點。
 
 ##### **Offline Model-Based Optimization by Learning to Rank**
 2410.11502v1 by Rong-Xi Tan, Ke Xue, Shen-Huan Lyu, Haopu Shang, Yao Wang, Yaoyuan Wang, Sheng Fu, Chao Qian
@@ -2211,19 +2209,20 @@ at: https://github.com/jin-jae/ETRI-Paper-Contest.
 摘要：本文提出了一種新穎的方法，該方法利用基於 Transformer 的多變量時間序列模型和機器學習集成來預測人類睡眠品質、情緒狀態和壓力水平。開發了一個計算標籤的公式，並將各種模型應用於使用者資料。時間序列 Transformer 用於時間序列特徵至關重要的標籤，而機器學習集成則用於需要全面每日活動統計的標籤。時間序列 Transformer 通過預訓練在擷取時間序列特徵方面表現出色，而機器學習集成則選擇符合我們分類標準的機器學習模型。所提出的模型 TraM 在實驗中獲得 10 分中的 6.10 分，表現優於其他方法。TraM 框架的程式碼和組態可在 https://github.com/jin-jae/ETRI-Paper-Contest 取得。
 
 ##### **Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**
-2410.11291v1 by S. Tamang, D. J. Bora
+2410.11291v2 by S. Tamang, D. J. Bora
 
 This paper introduces a centralized, open-source dataset repository designed
-to advance NLP and NMT for Assamese, a low-resource language. The repository
-supports various tasks like sentiment analysis, named entity recognition, and
-machine translation by providing both pre-training and fine-tuning corpora. We
-review existing datasets, highlighting the need for standardized resources in
-Assamese NLP, and discuss potential applications in AI-driven research, such as
-LLMs, OCR, and chatbots. While promising, challenges like data scarcity and
-linguistic diversity remain. The repository aims to foster collaboration and
-innovation, promoting Assamese language research in the digital age.
+to advance NLP and NMT for Assamese, a low-resource language. The repository,
+available at GitHub, supports various tasks like sentiment analysis, named
+entity recognition, and machine translation by providing both pre-training and
+fine-tuning corpora. We review existing datasets, highlighting the need for
+standardized resources in Assamese NLP, and discuss potential applications in
+AI-driven research, such as LLMs, OCR, and chatbots. While promising,
+challenges like data scarcity and linguistic diversity remain. The repository
+aims to foster collaboration and innovation, promoting Assamese language
+research in the digital age.
 
-摘要：本文介紹一個集中式、開放原始碼的資料集存放庫，旨在促進低資源語言阿薩姆語的 NLP 和 NMT。此存放庫支援各種任務，例如情緒分析、命名實體辨識和機器翻譯，並提供預訓練和微調語料庫。我們檢視現有資料集，強調阿薩姆語 NLP 中標準化資源的需求，並討論在 AI 驅動研究中的潛在應用，例如 LLM、OCR 和聊天機器人。儘管前景看好，但資料稀少和語言多樣性等挑戰依然存在。此存放庫旨在促進協作和創新，在數位時代推廣阿薩姆語研究。
+摘要：本文介紹一個集中式、開放原始碼的資料集存放庫，旨在提升阿薩姆語的 NLP 和 NMT，阿薩姆語是一種低資源語言。此存放庫可於 GitHub 取得，支援各種任務，例如情緒分析、命名實體辨識和機器翻譯，並提供預訓練和微調語料庫。我們檢視現有資料集，強調阿薩姆語 NLP 中標準化資源的需求，並討論在 AI 驅動的研究中潛在的應用，例如 LLM、OCR 和聊天機器人。儘管前景看好，但資料稀少和語言多樣性等挑戰依然存在。此存放庫旨在促進協作和創新，推廣數位時代的阿薩姆語語言研究。
 
 ##### **Backdoor Attack on Vertical Federated Graph Neural Network Learning**
 2410.11290v1 by Jirui Yang, Peng Chen, Zhihui Lu, Ruijun Deng, Qiang Duan, Jianping Zeng
@@ -2392,7 +2391,7 @@ inference algorithms for LLMs.
 摘要：在情境學習中，被認為是大型語言模型 (LLM) 成功關鍵因素。它指的是模型在推理期間，從提示中提供的上下文範例中即時學習模式的能力。先前的研究已證明，LLM 中使用的 Transformer 架構，可以透過在單次前向傳遞中處理上下文範例，來實作單步梯度下降更新。最近的研究進一步顯示，在情境學習期間，迴圈 Transformer 可以透過前向傳遞，來實作多步梯度下降更新。然而，他們的理論結果需要指數個的上下文範例，$n = \exp(\Omega(T))$，其中 $T$ 是迴圈或傳遞次數，才能達到相當低的誤差。在本文中，我們研究線性迴圈 Transformer 在線性向量產生任務中的情境學習。我們顯示，線性迴圈 Transformer 可以有效地實作多步梯度下降，以進行情境學習。我們的結果證明，只要輸入資料具有常數條件數，例如 $n = O(d)$，線性迴圈 Transformer 就可以透過多步梯度下降，在情境學習期間達到較小的誤差。此外，我們的初步實驗驗證了我們的理論分析。我們的發現顯示，Transformer 架構具備比先前理解更強的情境學習能力，為 LLM 背後的機制提供了新的見解，並潛在地指導更有效率的 LLM 推論演算法的設計。
 
 ##### **FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**
-2410.11267v1 by Xinpeng Wang, Xiaoying Tang
+2410.11267v2 by Xinpeng Wang, Xiaoying Tang
 
 Domain Generalization (DG) aims to train models that can effectively
 generalize to unseen domains. However, in the context of Federated Learning
@@ -2413,7 +2412,7 @@ performances on the PACS, OfficeHome and miniDomainNet datasets across varying
 numbers of clients. Code is available at
 https://github.com/SanphouWang/FedCCRL.
 
-摘要：領域泛化 (DG) 旨在訓練模型，使其能有效泛化到未見領域。然而，在聯合學習 (FL) 的背景下，客戶端協同訓練模型而不會直接分享其資料，大多數現有的 DG 演算法並不直接適用於 FL 設定，因為有隱私限制，以及每個客戶端資料數量有限且領域多樣性不足。為了解決這些挑戰，我們提出 FedCCRL，一種新穎的聯合領域泛化方法，它大幅提升模型泛化到未見領域的能力，同時不會損害隱私或產生過高的運算和通訊成本。具體來說，我們將 MixStyle 調整到聯合設定，以傳輸特定領域的特徵，而 AugMix 則用來擾動與領域無關的特徵。此外，我們利用受監督對比損失進行表徵比對，並使用 Jensen-Shannon 散度來確保原始樣本和擴充樣本之間的預測一致性。廣泛的實驗結果證明，FedCCRL 在 PACS、OfficeHome 和 miniDomainNet 資料集上達到最先進的效能，且在不同數量的客戶端上皆是如此。程式碼可於 https://github.com/SanphouWang/FedCCRL 取得。
+摘要：領域泛化 (DG) 的目標是訓練模型，讓模型能有效泛化到未見過的領域。然而，在聯合學習 (FL) 的背景下，客戶端在不直接分享資料的情況下合作訓練模型，由於隱私限制以及每個客戶端有限的資料量和領域多樣性，現有的 DG 演算法大多無法直接應用於 FL 設定。為了解決這些挑戰，我們提出 FedCCRL，這是一種新穎的聯合領域泛化方法，它能顯著提升模型泛化到未見過領域的能力，同時不損害隱私或產生過高的運算和通訊成本。具體來說，我們將 MixStyle 調整到聯合設定，以轉移領域特定特徵，同時採用 AugMix 來擾動領域不變特徵。此外，我們利用監督對比損失進行表示對齊，並利用 Jensen-Shannon 距離來確保原始和擴充樣本之間的預測一致。廣泛的實驗結果表明，FedCCRL 在 PACS、OfficeHome 和 miniDomainNet 資料集上實現了最先進的效能，而且在不同數量的客戶端上都是如此。程式碼可在 https://github.com/SanphouWang/FedCCRL 取得。
 
 ##### **In-Context Learning for Long-Context Sentiment Analysis on Infrastructure Project Opinions**
 2410.11265v1 by Alireza Shamshiri, Kyeong Rok Ryu, June Young Park

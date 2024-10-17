@@ -42,13 +42,13 @@
 |**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525v2](http://arxiv.org/abs/2410.07525v2)|null|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364v1](http://arxiv.org/abs/2410.07364v1)|null|
 |**2024-10-09**|**Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**|Vivian Nguyen et.al.|[2410.07147v1](http://arxiv.org/abs/2410.07147v1)|null|
-|**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129v1](http://arxiv.org/abs/2410.07129v1)|null|
+|**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129v2](http://arxiv.org/abs/2410.07129v2)|null|
 |**2024-10-09**|**MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**|Cheng Li et.al.|[2410.06845v1](http://arxiv.org/abs/2410.06845v1)|[link](https://github.com/scarelette/mentalarena)|
 |**2024-10-09**|**An Improved Approach for Cardiac MRI Segmentation based on 3D UNet Combined with Papillary Muscle Exclusion**|Narjes Benameur et.al.|[2410.06818v1](http://arxiv.org/abs/2410.06818v1)|null|
 |**2024-10-09**|**Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**|Fatimaelzahraa Ali Ahmed et.al.|[2410.07269v1](http://arxiv.org/abs/2410.07269v1)|null|
 |**2024-10-08**|**Multimodal Representation Learning using Adaptive Graph Construction**|Weichen Huang et.al.|[2410.06395v1](http://arxiv.org/abs/2410.06395v1)|null|
 |**2024-10-08**|**Skin Cancer Machine Learning Model Tone Bias**|James Pope et.al.|[2410.06385v1](http://arxiv.org/abs/2410.06385v1)|null|
-|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370v1](http://arxiv.org/abs/2410.06370v1)|[link](https://github.com/dataminr-ai/humvi-dataset)|
+|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370v2](http://arxiv.org/abs/2410.06370v2)|[link](https://github.com/dataminr-ai/humvi-dataset)|
 |**2024-10-08**|**A Comparative Study of Hybrid Models in Health Misinformation Text Classification**|Mkululi Sikosana et.al.|[2410.06311v1](http://arxiv.org/abs/2410.06311v1)|null|
 |**2024-10-08**|**Application of NotebookLM, a Large Language Model with Retrieval-Augmented Generation, for Lung Cancer Staging**|Ryota Tozuka et.al.|[2410.10869v1](http://arxiv.org/abs/2410.10869v1)|null|
 |**2024-10-08**|**CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept**|YuXuan Wu et.al.|[2410.10866v1](http://arxiv.org/abs/2410.10866v1)|null|
@@ -1152,7 +1152,7 @@ therapist and terminate the relationship.
 患者和治療師的這種重新定向與他們關係的發展和品質有何關係？為了回答這個問題，我們引入了一個機率測量，用於衡量某個話語在多大程度上立即重新定向對話流程，同時考量此類變化的意圖和實際實現。我們將此新測量應用於描述患者-治療師關係在一個非常龐大、廣泛使用的線上治療平台上，在多個療程中的發展。我們的分析顯示，(1) 隨著患者與治療師關係的進展，患者對對話方向的控制通常會相對於治療師而增加；(2) 在最初幾次療程中控制較少的患者，最終顯著更有可能對其治療師表達不滿並終止關係。
 
 ##### **Mental Disorders Detection in the Era of Large Language Models**
-2410.07129v1 by Gleb Kuzmin, Petr Strepetov, Maksim Stankevich, Ivan Smirnov, Artem Shelmanov
+2410.07129v2 by Gleb Kuzmin, Petr Strepetov, Maksim Stankevich, Artem Shelmanov, Ivan Smirnov
 
 This paper compares the effectiveness of traditional machine learning
 methods, encoder-based models, and large language models (LLMs) on the task of
@@ -1168,7 +1168,7 @@ language models when trained on texts from individuals with clinically
 confirmed depression, highlighting their potential effectiveness in targeted
 clinical applications.
 
-摘要：本文比較了傳統機器學習方法、編碼器模型和大型語言模型 (LLM) 在憂鬱和焦慮症偵測任務上的有效性。考慮了五個資料集，每個資料集在格式和用於定義目標病理類別的方法上都不同。我們測試了基於語言特徵的 AutoML 模型、多種編碼器模型（如 BERT）的變體，以及最新的 LLM 作為病理分類模型。結果表明，LLM 優於傳統方法，特別是在訓練範例在文字長度和類型上差異很大的嘈雜且小的資料集上。然而，當使用經臨床證實患有憂鬱症的個人的文字進行訓練時，心理語言學特徵和編碼器模型可以達到與語言模型相當的性能，突顯了它們在目標臨床應用中的潛在有效性。
+摘要：本文比較了傳統機器學習方法、編碼器模型和大型語言模型 (LLM) 在偵測憂鬱症和焦慮症任務上的有效性。考慮了五個資料集，每個資料集在格式和用於定義目標病理類別的方法上都不同。我們測試了基於語言特徵的 AutoML 模型、多種編碼器模型的變體，例如 BERT，以及作為病理分類模型的最新 LLM。結果表明，LLM 優於傳統方法，特別是在訓練範例在文字長度和類型上差異很大的嘈雜且小型資料集上。然而，當在臨床上確診罹患憂鬱症的個體的文字上進行訓練時，心理語言學特徵和編碼器模型可以達到與語言模型相當的效能，突顯了其在目標臨床應用中的潛在有效性。
 
 ##### **MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**
 2410.06845v1 by Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji
@@ -1307,7 +1307,7 @@ identify and address the bias in these models, an area of future investigation.
 結論：結果表明，典型的皮膚癌機器學習模型可能會產生色調偏差。這些結果提供了證據表明，診斷或色調不平衡並非造成偏差的原因。需要其他技術來識別和解決這些模型中的偏差，這是未來研究的一個領域。</paragraph>
 
 ##### **HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**
-2410.06370v1 by Hemank Lamba, Anton Abilov, Ke Zhang, Elizabeth M. Olson, Henry k. Dambanemuya, João c. Bárcia, David S. Batista, Christina Wille, Aoife Cahill, Joel Tetreault, Alex Jaimes
+2410.06370v2 by Hemank Lamba, Anton Abilov, Ke Zhang, Elizabeth M. Olson, Henry k. Dambanemuya, João c. Bárcia, David S. Batista, Christina Wille, Aoife Cahill, Joel Tetreault, Alex Jaimes
 
 Humanitarian organizations can enhance their effectiveness by analyzing data
 to discover trends, gather aggregated insights, manage their security risks,
@@ -1326,7 +1326,7 @@ techniques, including data augmentation and mask loss, to address different
 task-related challenges, e.g., domain expansion. The dataset is publicly
 available at https://github.com/dataminr-ai/humvi-dataset.
 
-摘要：人道主義組織可以透過分析資料來提升其效能，以發現趨勢、收集彙總的見解、管理其安全風險、支援決策制定，並提供倡議和資金提案的資訊。然而，關於暴力事件的資料，其直接影響和與人道主義援助行動相關性，並不容易取得。一個自動資料收集和 NLP 支援的分類架構，與人道主義觀點一致，有助於彌合此差距。在本文中，我們提出 HumVI - 一個包含三種語言（英語、法語、阿拉伯語）新聞文章的資料集，其中包含人道主義部門分類的不同類型暴力事件的案例，例如援助安全、教育、糧食安全、健康和保護。透過與資料支援的人道主義組織 Insecurity Insight 合作，取得資料集的可靠標籤。我們為資料集提供多個基準，採用各種深度學習架構和技術，包括資料擴充和遮罩損失，以解決不同的任務相關挑戰，例如領域擴充。資料集公開於 https://github.com/dataminr-ai/humvi-dataset。
+摘要：人道主義組織可透過分析資料來提升其成效，以找出趨勢、收集彙整的見解、管理其安全風險、支援決策制定，以及告知倡議和募款提案。不過，與人道主義援助行動直接相關且具影響力的暴力事件資料並不容易取得。一個與人道主義觀點一致的自動資料收集和 NLP 支援分類架構，有助於彌補這個差距。在本文中，我們提出 HumVI - 一個包含三種語言（英語、法語、阿拉伯語）新聞文章的資料集，其中包含人道主義部門分類的不同類型暴力事件實例，例如援助安全、教育、糧食安全、健康和保護。我們透過與資料支援的人道主義組織 Insecurity Insight 合作，取得資料集的可靠標籤。我們為資料集提供多個基準，採用各種深度學習架構和技術，包括資料擴充和遮罩損失，以應對不同的任務相關挑戰，例如領域擴充。資料集已於 https://github.com/dataminr-ai/humvi-dataset 公開。
 
 ##### **A Comparative Study of Hybrid Models in Health Misinformation Text Classification**
 2410.06311v1 by Mkululi Sikosana, Oluwaseun Ajao, Sean Maudsley-Barton

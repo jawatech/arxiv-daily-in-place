@@ -13,7 +13,7 @@
 |**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743v1](http://arxiv.org/abs/2410.10743v1)|null|
 |**2024-10-14**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329v2](http://arxiv.org/abs/2410.10329v2)|[link](https://github.com/zhuyun97/graphclip)|
 |**2024-10-14**|**Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**|Hongyi Yuan et.al.|[2410.10144v1](http://arxiv.org/abs/2410.10144v1)|null|
-|**2024-10-14**|**Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?**|Yifan Feng et.al.|[2410.10083v1](http://arxiv.org/abs/2410.10083v1)|null|
+|**2024-10-14**|**Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?**|Yifan Feng et.al.|[2410.10083v2](http://arxiv.org/abs/2410.10083v2)|null|
 |**2024-10-13**|**Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation**|Jiarui Ji et.al.|[2410.09824v1](http://arxiv.org/abs/2410.09824v1)|null|
 |**2024-10-13**|**A Mixed-Language Multi-Document News Summarization Dataset and a Graphs-Based Extract-Generate Model**|Shengxiang Gao et.al.|[2410.09773v1](http://arxiv.org/abs/2410.09773v1)|null|
 |**2024-10-13**|**Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG**|Xinxi Chen et.al.|[2410.09699v1](http://arxiv.org/abs/2410.09699v1)|null|
@@ -399,7 +399,7 @@ integration and discovery in biomedical research.
 摘要：<paragraph>我們介紹 GENomic Encoding REpresentation with Language Model (GENEREL)，一個旨在橋接遺傳和生物醫學知識庫的框架。GENEREL 的獨特之處在於它微調語言模型，以灌輸疾病和藥物等臨床概念背後的生物知識。這種微調使模型能夠更有效地捕捉複雜的生物醫學關係，豐富對基因組數據如何連接臨床結果的理解。通過構建一個統一的生物醫學概念嵌入空間和來自患者級別數據、生物醫學知識圖譜和 GWAS 總結等來源的廣泛常見 SNP，GENEREL 通過多任務對比學習對齊 SNP 和臨床概念的嵌入。這允許模型適應生物醫學概念的多元自然語言表示，同時繞過不同數據源中傳統代碼映射系統的限制。我們的實驗證明了 GENEREL 有效捕捉 SNP 和臨床概念之間細微關係的能力。GENEREL 也出現了辨別相關程度，潛在地允許更精確地識別概念。這種構建 SNP 和生物醫學概念統一嵌入系統的先驅方法增強了生物醫學研究中數據整合和發現的潛力。</paragraph>
 
 ##### **Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?**
-2410.10083v1 by Yifan Feng, Chengwu Yang, Xingliang Hou, Shaoyi Du, Shihui Ying, Zongze Wu, Yue Gao
+2410.10083v2 by Yifan Feng, Chengwu Yang, Xingliang Hou, Shaoyi Du, Shihui Ying, Zongze Wu, Yue Gao
 
 Existing benchmarks like NLGraph and GraphQA evaluate LLMs on graphs by
 focusing mainly on pairwise relationships, overlooking the high-order
@@ -416,9 +416,10 @@ introduces two novel techniques, Hyper-BAG and Hyper-COT, which enhance
 high-order reasoning and achieve an average 4% (up to 9%) performance
 improvement on structure classification tasks. This work establishes a
 foundational testbed for integrating hypergraph computational capabilities into
-LLMs, advancing their comprehension.
+LLMs, advancing their comprehension. The source codes are at
+https://github.com/iMoonLab/LLM4Hypergraph.
 
-摘要：現有的基準，例如 NLGraph 和 GraphQA，主要透過關注成對關係來評估圖表中的 LLM，忽略了在真實世界資料中發現的高階相關性。超圖可以建模超越成對關係的複雜關係，提供更強大的架構，但在 LLM 的背景下仍未得到充分探索。為了解決這個差距，我們引入了 LLM4Hypergraph，這是第一個綜合基準，包含 21,500 個問題，涵蓋八個低階、五個高階和兩個同構任務，利用來自引文網路和蛋白質結構的合成和真實世界超圖。我們評估了包括 GPT-4o 在內的六個著名的 LLM，證明了我們的基準在識別模型優勢和劣勢方面的有效性。我們專業的提示架構包含七種超圖語言，並引入了兩種新技術，Hyper-BAG 和 Hyper-COT，它們增強了高階推理，並在結構分類任務中實現了平均 4%（最高 9%）的效能提升。這項工作為將超圖計算能力整合到 LLM 中建立了一個基礎測試平台，提升了它們的理解力。
+摘要：現有的 NLGraph 和 GraphQA 等基準主要關注成對關係，而忽略了在現實世界資料中發現的高階相關性，從而對圖形中的 LLM 進行評估。超圖可以建模複雜的超越成對關係，提供更強大的框架，但在 LLM 的背景下仍未得到充分探索。為了解決這個差距，我們引入了 LLM4Hypergraph，這是第一個綜合基準，包含 21,500 個問題，涵蓋八個低階、五個高階和兩個同構任務，利用來自引文網路和蛋白質結構的合成和真實世界超圖。我們評估了六個著名的 LLM，包括 GPT-4o，證明了我們的基準在識別模型優勢和劣勢方面的有效性。我們專業的提示框架包含七種超圖語言，並引入了兩種新技術 Hyper-BAG 和 Hyper-COT，它們增強了高階推理，並在結構分類任務上實現了平均 4%（最高 9%）的性能改進。這項工作為將超圖計算能力整合到 LLM 中建立了一個基礎測試平台，從而提升了它們的理解力。源代碼位於 https://github.com/iMoonLab/LLM4Hypergraph。
 
 ##### **Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation**
 2410.09824v1 by Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding

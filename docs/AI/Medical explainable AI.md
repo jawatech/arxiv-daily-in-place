@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910v1](http://arxiv.org/abs/2410.11910v1)|null|
+|**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|null|
 |**2024-10-12**|**Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**|Abdullah Mamun et.al.|[2410.09635v1](http://arxiv.org/abs/2410.09635v1)|[link](https://github.com/ab9mamun/aimen)|
 |**2024-10-10**|**Artificial intelligence techniques in inherited retinal diseases: A review**|Han Trinh et.al.|[2410.09105v1](http://arxiv.org/abs/2410.09105v1)|null|
 |**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|
@@ -100,10 +102,54 @@
 |**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
 |**2023-08-11**|**FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare**|Karim Lekadir et.al.|[2309.12325v3](http://arxiv.org/abs/2309.12325v3)|null|
-|**2023-08-10**|**Explainable AI applications in the Medical Domain: a systematic review**|Nicoletta Prentzas et.al.|[2308.05411v1](http://arxiv.org/abs/2308.05411v1)|null|
-|**2023-08-01**|**Exploring the Role of Explainability in AI-Assisted Embryo Selection**|Lucia Urcelay et.al.|[2308.02534v1](http://arxiv.org/abs/2308.02534v1)|null|
 
 #### Abstracts
+##### **Explainable AI Methods for Multi-Omics Analysis: A Survey**
+2410.11910v1 by Ahmad Hussein, Mukesh Prasad, Ali Braytee
+
+Advancements in high-throughput technologies have led to a shift from
+traditional hypothesis-driven methodologies to data-driven approaches.
+Multi-omics refers to the integrative analysis of data derived from multiple
+'omes', such as genomics, proteomics, transcriptomics, metabolomics, and
+microbiomics. This approach enables a comprehensive understanding of biological
+systems by capturing different layers of biological information. Deep learning
+methods are increasingly utilized to integrate multi-omics data, offering
+insights into molecular interactions and enhancing research into complex
+diseases. However, these models, with their numerous interconnected layers and
+nonlinear relationships, often function as black boxes, lacking transparency in
+decision-making processes. To overcome this challenge, explainable artificial
+intelligence (xAI) methods are crucial for creating transparent models that
+allow clinicians to interpret and work with complex data more effectively. This
+review explores how xAI can improve the interpretability of deep learning
+models in multi-omics research, highlighting its potential to provide
+clinicians with clear insights, thereby facilitating the effective application
+of such models in clinical settings.
+
+摘要：高通量技術的進步導致從傳統的假設驅動方法轉變為資料驅動的方法。多組學是指整合分析來自多個「組學」的資料，例如基因組學、蛋白質組學、轉錄組學、代謝組學和微生物組學。此方法透過擷取生物資訊的不同層面，能全面了解生物系統。深度學習方法愈來愈常被用於整合多組學資料，提供分子交互作用的洞察力，並加強對複雜疾病的研究。然而，這些模型具有許多相互連接的層級和非線性關係，通常會像黑盒子一樣運作，缺乏決策過程的透明度。為了克服此挑戰，可解釋人工智慧 (xAI) 方法對於建立透明模型至關重要，讓臨床醫生可以更有效地解釋和處理複雜資料。此評論探討 xAI 如何能改善多組學研究中深度學習模型的可解釋性，強調其提供臨床醫生明確見解的潛力，進而促進此類模型在臨床環境中的有效應用。
+
+##### **Study on the Helpfulness of Explainable Artificial Intelligence**
+2410.11896v1 by Tobias Labarta, Elizaveta Kulicheva, Ronja Froelian, Christian Geißler, Xenia Melman, Julian von Klitzing
+
+Explainable Artificial Intelligence (XAI) is essential for building advanced
+machine learning-powered applications, especially in critical domains such as
+medical diagnostics or autonomous driving. Legal, business, and ethical
+requirements motivate using effective XAI, but the increasing number of
+different methods makes it challenging to pick the right ones. Further, as
+explanations are highly context-dependent, measuring the effectiveness of XAI
+methods without users can only reveal a limited amount of information,
+excluding human factors such as the ability to understand it. We propose to
+evaluate XAI methods via the user's ability to successfully perform a proxy
+task, designed such that a good performance is an indicator for the explanation
+to provide helpful information. In other words, we address the helpfulness of
+XAI for human decision-making. Further, a user study on state-of-the-art
+methods was conducted, showing differences in their ability to generate trust
+and skepticism and the ability to judge the rightfulness of an AI decision
+correctly. Based on the results, we highly recommend using and extending this
+approach for more objective-based human-centered user studies to measure XAI
+performance in an end-to-end fashion.
+
+摘要：可解釋人工智慧 (XAI) 對於建構先進的機器學習驅動應用程式至關重要，特別是在醫療診斷或自動駕駛等關鍵領域。法律、商業和倫理要求促使使用有效的 XAI，但數量日益增加的不同方法使得挑選正確的方法具有挑戰性。此外，由於解釋高度依賴於背景，在沒有使用者的情況下衡量 XAI 方法的有效性只能揭示有限的資訊，排除人類因素，例如理解它的能力。我們建議透過使用者成功執行代理任務的能力來評估 XAI 方法，設計使得良好的執行表現是解釋提供有用資訊的指標。換句話說，我們探討 XAI 對人類決策制定的幫助。此外，對最先進的方法進行使用者研究，顯示出它們在產生信任和懷疑的能力以及正確判斷 AI 決策是否正確的能力方面存在差異。根據結果，我們強烈建議使用和擴充這種方法，以進行更多以目標為基礎的人為中心使用者研究，以終端到終端的方式衡量 XAI 效能。
+
 ##### **Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**
 2410.09635v1 by Abdullah Mamun, Lawrence D. Devoe, Mark I. Evans, David W. Britt, Judith Klein-Seetharaman, Hassan Ghasemzadeh
 
@@ -2646,46 +2692,4 @@ encouraged to take the recommendations into account in proof-of-concept stages
 to facilitate future translation towards clinical practice of medical AI.
 
 摘要：儘管在醫學和醫療保健方面的人工智慧 (AI) 有重大的進展，但 AI 技術的部署和採用在現實世界的臨床實務中仍然有限。近年來，人們對於與醫療 AI 相關的技術、臨床、倫理和法律風險提出了疑慮。為了增加現實世界的採用率，醫療 AI 工具必須獲得患者、臨床醫生、醫療機構和當局的信任和接受。這項工作將 FUTURE-AI 指南描述為指導醫療保健中可信賴 AI 工具開發和部署的第一個國際共識架構。FUTURE-AI 聯盟成立於 2021 年，目前由來自 51 個國家的 118 位跨領域專家組成，代表所有洲，包括 AI 科學家、臨床醫生、倫理學家和社會科學家。在兩年的時間裡，該聯盟通過一個反覆運算的過程定義了可信賴 AI 的指導原則和最佳實務，包括深入的文獻回顧、修改後的德爾菲調查和線上共識會議。FUTURE-AI 架構是基於醫療保健中可信賴 AI 的 6 項指導原則建立的，即公平性、普遍性、可追溯性、可用性、穩健性和可解釋性。通過共識，定義了一組 28 項最佳實務，涵蓋技術、臨床、法律和社會倫理層面。建議涵蓋了醫療 AI 的整個生命週期，從設計、開發和驗證到法規、部署和監控。FUTURE-AI 是一個基於風險、無假設的指南，提供了一個結構化的方法，用於建構將在現實世界實務中受到信任、部署和採用的醫療 AI 工具。鼓勵研究人員在概念驗證階段考慮這些建議，以促進未來將醫療 AI 轉化為臨床實務。
-
-##### **Explainable AI applications in the Medical Domain: a systematic review**
-2308.05411v1 by Nicoletta Prentzas, Antonis Kakas, Constantinos S. Pattichis
-
-Artificial Intelligence in Medicine has made significant progress with
-emerging applications in medical imaging, patient care, and other areas. While
-these applications have proven successful in retrospective studies, very few of
-them were applied in practice.The field of Medical AI faces various challenges,
-in terms of building user trust, complying with regulations, using data
-ethically.Explainable AI (XAI) aims to enable humans understand AI and trust
-its results. This paper presents a literature review on the recent developments
-of XAI solutions for medical decision support, based on a representative sample
-of 198 articles published in recent years. The systematic synthesis of the
-relevant articles resulted in several findings. (1) model-agnostic XAI
-techniques were mostly employed in these solutions, (2) deep learning models
-are utilized more than other types of machine learning models, (3)
-explainability was applied to promote trust, but very few works reported the
-physicians participation in the loop, (4) visual and interactive user interface
-is more useful in understanding the explanation and the recommendation of the
-system. More research is needed in collaboration between medical and AI
-experts, that could guide the development of suitable frameworks for the
-design, implementation, and evaluation of XAI solutions in medicine.
-
-摘要：人工智慧在醫療領域中已取得顯著進展，在醫學影像、病人照護和其他領域中出現了新興應用。雖然這些應用已在回顧性研究中被證實是成功的，但實際上只有極少數應用於實務。醫療 AI 領域面臨著各種挑戰，包括建立使用者信任、遵守法規、使用資料符合倫理。可解釋 AI (XAI) 的目標是讓人類了解 AI 並相信其結果。本文針對最近幾年發表的 198 篇文章的具代表性樣本，提出有關醫療決策支援的 XAI 解決方案的最新發展的文獻回顧。相關文章的系統性綜合整理產生了多項發現：(1) 這些解決方案大多採用與模型無關的 XAI 技術，(2) 深度學習模型的使用率高於其他類型的機器學習模型，(3) 可解釋性被用於促進信任，但很少有研究報告醫師參與迴圈，(4) 視覺和互動式使用者介面對於理解系統的解釋和建議更有用。需要更多醫療和 AI 專家合作進行研究，這有助於為醫療領域的 XAI 解決方案的設計、實作和評估提供適當架構。
-
-##### **Exploring the Role of Explainability in AI-Assisted Embryo Selection**
-2308.02534v1 by Lucia Urcelay, Daniel Hinjos, Pablo A. Martin-Torres, Marta Gonzalez, Marta Mendez, Salva Cívico, Sergio Álvarez-Napagao, Dario Garcia-Gasulla
-
-In Vitro Fertilization is among the most widespread treatments for
-infertility. One of its main challenges is the evaluation and selection of
-embryo for implantation, a process with large inter- and intra-clinician
-variability. Deep learning based methods are gaining attention, but their
-opaque nature compromises their acceptance in the clinical context, where
-transparency in the decision making is key. In this paper we analyze the
-current work in the explainability of AI-assisted embryo analysis models,
-identifying the limitations. We also discuss how these models could be
-integrated in the clinical context as decision support systems, considering the
-needs of clinicians and patients. Finally, we propose guidelines for the sake
-of increasing interpretability and trustworthiness, pushing this technology
-forward towards established clinical practice.
-
-摘要：體外受精是治療不孕症最廣泛的方法之一。其主要挑戰之一是評估和選擇胚胎進行植入，此過程具有很大的臨床間和臨床內變異性。基於深度學習的方法正受到關注，但其不透明的性質會影響其在臨床環境中的接受度，而透明度在決策制定中至關重要。在本文中，我們分析了 AI 輔助胚胎分析模型的可解釋性方面的現有工作，並找出其局限性。我們還討論了如何將這些模型作為決策支持系統整合到臨床環境中，同時考慮臨床醫生和患者的需求。最後，我們提出了提高可解釋性和可信度的準則，推進這項技術朝著既定的臨床實務邁進。
 

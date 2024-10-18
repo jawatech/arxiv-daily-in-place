@@ -76,7 +76,7 @@
 |**2024-10-06**|**Multi-Tiered Self-Contrastive Learning for Medical Microwave Radiometry (MWR) Breast Cancer Detection**|Christoforos Galazis et.al.|[2410.04636v1](http://arxiv.org/abs/2410.04636v1)|[link](https://github.com/cgalaz01/self_contrastive_mwr)|
 |**2024-10-06**|**Semi-Markovian Planning to Coordinate Aerial and Maritime Medical Evacuation Platforms**|Mahdi Al-Husseini et.al.|[2410.04523v1](http://arxiv.org/abs/2410.04523v1)|null|
 |**2024-10-06**|**Mitigating Hallucinations Using Ensemble of Knowledge Graph and Vector Store in Large Language Models to Enhance Mental Health Support**|Abdul Muqtadir et.al.|[2410.10853v1](http://arxiv.org/abs/2410.10853v1)|null|
-|**2024-10-06**|**On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**|Toluwani Aremu et.al.|[2410.10850v1](http://arxiv.org/abs/2410.10850v1)|null|
+|**2024-10-06**|**On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**|Toluwani Aremu et.al.|[2410.10850v2](http://arxiv.org/abs/2410.10850v2)|null|
 |**2024-10-06**|**RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**|Yuyang Miao et.al.|[2410.04366v1](http://arxiv.org/abs/2410.04366v1)|null|
 |**2024-10-05**|**Applying Quantum Autoencoders for Time Series Anomaly Detection**|Robin Frehner et.al.|[2410.04154v2](http://arxiv.org/abs/2410.04154v2)|null|
 |**2024-10-05**|**DAMMI:Daily Activities in a Psychologically Annotated Multi-Modal IoT dataset**|Mohsen Falah Rad et.al.|[2410.04152v1](http://arxiv.org/abs/2410.04152v1)|null|
@@ -2017,7 +2017,7 @@ accurate information to individuals seeking mental health support.
 摘要：本研究探討大型語言模型 (LLM) 中幻覺的表現，及其對心理健康領域應用產生的後續影響。主要目標是辨別遏制幻覺發生的有效策略，從而加強 LLM 在促進心理健康干預措施（例如治療、諮詢和傳播相關資訊）方面的可靠性和安全性。透過嚴謹的調查和分析，本研究試圖闡明導致 LLM 產生幻覺的潛在機制，並進一步提出有針對性的干預措施來減輕其發生。透過解決這個關鍵問題，本研究致力於建立一個更穩健的架構，以便在心理健康情境中使用 LLM，確保其在協助治療過程和向尋求心理健康支持的個人提供準確資訊方面的效能和可靠性。
 
 ##### **On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**
-2410.10850v1 by Toluwani Aremu, Oluwakemi Akinwehinmi, Chukwuemeka Nwagu, Syed Ishtiaque Ahmed, Rita Orji, Pedro Arnau Del Amo, Abdulmotaleb El Saddik
+2410.10850v2 by Toluwani Aremu, Oluwakemi Akinwehinmi, Chukwuemeka Nwagu, Syed Ishtiaque Ahmed, Rita Orji, Pedro Arnau Del Amo, Abdulmotaleb El Saddik
 
 We investigate and observe the behaviour and performance of Large Language
 Model (LLM)-backed chatbots in addressing misinformed prompts and questions
@@ -2035,7 +2035,7 @@ in sensitive areas necessitates careful consideration, ethical oversight, and
 rigorous refinement to ensure they serve as a beneficial augmentation to human
 expertise rather than an autonomous solution.
 
-摘要：我們調查並觀察大型語言模型 (LLM) 支援的聊天機器人在處理氣候變遷和心理健康領域內包含人口統計資訊的錯誤提示和問題時的行為和表現。透過結合量化和質化方法，我們評估聊天機器人辨別陳述真實性、其對事實的遵守程度，以及其回應中偏見或錯誤資訊的存在。我們使用真/假問題進行的量化分析顯示，可以依賴這些聊天機器人對這些封閉式問題給出正確的答案。然而，從領域專家收集的質化見解顯示，對於隱私、倫理影響以及聊天機器人將使用者導向專業服務的必要性，仍然存在疑慮。我們得出結論，雖然這些聊天機器人極具前景，但它們在敏感領域的部署需要謹慎考量、倫理監督和嚴格的改進，以確保它們作為人類專業知識的有益補充，而非自主解決方案。
+摘要：我們調查並觀察大型語言模型 (LLM) 支持的聊天機器人在氣候變遷和心理健康領域中處理錯誤訊息提示和問題的行為和表現。透過結合量化和質性方法，我們評估聊天機器人辨別陳述真實性的能力、他們對事實的堅持，以及他們回應中偏見或錯誤訊息的存在。我們使用真/假問題的量化分析顯示，可以依賴這些聊天機器人對這些封閉式問題給出正確答案。然而，從領域專家收集的質性見解顯示，對於隱私、倫理影響以及聊天機器人將使用者導向專業服務的必要性仍有疑慮。我們得出結論，儘管這些聊天機器人極具前景，但在敏感領域部署它們需要仔細考量、道德監督和嚴格改進，以確保它們作為人類專業知識的有益擴充，而不是自主解決方案。
 
 ##### **RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**
 2410.04366v1 by Yuyang Miao, Zehua Chen, Chang Li, Danilo Mandic

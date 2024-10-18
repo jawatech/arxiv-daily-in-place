@@ -15,7 +15,7 @@
 |**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759v1](http://arxiv.org/abs/2410.12759v1)|null|
 |**2024-10-16**|**StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples**|Ajay Patel et.al.|[2410.12757v1](http://arxiv.org/abs/2410.12757v1)|null|
 |**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750v1](http://arxiv.org/abs/2410.12750v1)|null|
-|**2024-10-16**|**CREAM: Consistency Regularized Self-Rewarding Language Models**|Zhaoyang Wang et.al.|[2410.12735v1](http://arxiv.org/abs/2410.12735v1)|null|
+|**2024-10-16**|**CREAM: Consistency Regularized Self-Rewarding Language Models**|Zhaoyang Wang et.al.|[2410.12735v2](http://arxiv.org/abs/2410.12735v2)|null|
 |**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
 |**2024-10-16**|**Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches**|Antonio Pérez et.al.|[2410.12728v1](http://arxiv.org/abs/2410.12728v1)|null|
 |**2024-10-16**|**WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation**|João Matos et.al.|[2410.12722v1](http://arxiv.org/abs/2410.12722v1)|null|
@@ -27,13 +27,13 @@
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694v1](http://arxiv.org/abs/2410.12694v1)|null|
 |**2024-10-16**|**Building Better: Avoiding Pitfalls in Developing Language Resources when Data is Scarce**|Nedjma Ousidhoum et.al.|[2410.12691v1](http://arxiv.org/abs/2410.12691v1)|null|
 |**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686v1](http://arxiv.org/abs/2410.12686v1)|null|
-|**2024-10-16**|**Context Matters: Leveraging Contextual Features for Time Series Forecasting**|Sameep Chattopadhyay et.al.|[2410.12672v1](http://arxiv.org/abs/2410.12672v1)|null|
+|**2024-10-16**|**Context Matters: Leveraging Contextual Features for Time Series Forecasting**|Sameep Chattopadhyay et.al.|[2410.12672v2](http://arxiv.org/abs/2410.12672v2)|null|
 |**2024-10-16**|**Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**|Vishaal Krishnan et.al.|[2410.12665v1](http://arxiv.org/abs/2410.12665v1)|null|
 |**2024-10-16**|**Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models**|Shicheng Xu et.al.|[2410.12662v1](http://arxiv.org/abs/2410.12662v1)|null|
 |**2024-10-16**|**Evaluating Morphological Compositional Generalization in Large Language Models**|Mete Ismayilzada et.al.|[2410.12656v1](http://arxiv.org/abs/2410.12656v1)|null|
 |**2024-10-16**|**Constrained Posterior Sampling: Time Series Generation with Hard Constraints**|Sai Shankar Narasimhan et.al.|[2410.12652v1](http://arxiv.org/abs/2410.12652v1)|null|
 |**2024-10-16**|**Explainable Moral Values: a neuro-symbolic approach to value classification**|Nicolas Lazzari et.al.|[2410.12631v1](http://arxiv.org/abs/2410.12631v1)|null|
-|**2024-10-16**|**From Measurement Instruments to Training Data: Leveraging Theory-Driven Synthetic Training Data for Measuring Social Constructs**|Lukas Birkenmaier et.al.|[2410.12622v1](http://arxiv.org/abs/2410.12622v1)|null|
+|**2024-10-16**|**From Measurement Instruments to Data: Leveraging Theory-Driven Synthetic Training Data for Classifying Social Constructs**|Lukas Birkenmaier et.al.|[2410.12622v2](http://arxiv.org/abs/2410.12622v2)|null|
 |**2024-10-16**|**Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning**|Ruimeng Ye et.al.|[2410.12621v1](http://arxiv.org/abs/2410.12621v1)|null|
 |**2024-10-16**|**Exploring Model Kinship for Merging Large Language Models**|Yedi Hu et.al.|[2410.12613v1](http://arxiv.org/abs/2410.12613v1)|null|
 |**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609v1](http://arxiv.org/abs/2410.12609v1)|null|
@@ -49,11 +49,11 @@
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[2410.12568v1](http://arxiv.org/abs/2410.12568v1)|null|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561v1](http://arxiv.org/abs/2410.12561v1)|null|
 |**2024-10-16**|**A Claim Decomposition Benchmark for Long-form Answer Verification**|Zhihao Zhang et.al.|[2410.12558v1](http://arxiv.org/abs/2410.12558v1)|null|
-|**2024-10-16**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543v1](http://arxiv.org/abs/2410.12543v1)|null|
+|**2024-10-16**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543v2](http://arxiv.org/abs/2410.12543v2)|null|
 |**2024-10-16**|**Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**|Stelios Triantafyllou et.al.|[2410.12539v1](http://arxiv.org/abs/2410.12539v1)|null|
-|**2024-10-16**|**Characterizing Behavioral Differences and Adaptations of Automated Vehicles and Human Drivers at Unsignalized Intersections: Insights from Waymo and Lyft Open Datasets**|Saeed Rahmani et.al.|[2410.12538v1](http://arxiv.org/abs/2410.12538v1)|null|
+|**2024-10-16**|**Characterizing Behavioral Differences and Adaptations of Automated Vehicles and Human Drivers at Unsignalized Intersections: Insights from Waymo and Lyft Open Datasets**|Saeed Rahmani et.al.|[2410.12538v1](http://arxiv.org/abs/2410.12538v1)|[link](https://github.com/SaeedRahmani/Unsignalized_AV_HV)|
 |**2024-10-16**|**Is Complex Query Answering Really Complex?**|Cosimo Gregucci et.al.|[2410.12537v1](http://arxiv.org/abs/2410.12537v1)|null|
-|**2024-10-16**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532v1](http://arxiv.org/abs/2410.12532v1)|null|
+|**2024-10-16**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532v2](http://arxiv.org/abs/2410.12532v2)|null|
 |**2024-10-16**|**Spectrum Sharing using Deep Reinforcement Learning in Vehicular Networks**|Riya Dinesh Deshpande et.al.|[2410.12521v1](http://arxiv.org/abs/2410.12521v1)|null|
 |**2024-10-16**|**FiRST: Finetuning Router-Selective Transformers for Input-Adaptive Latency Reduction**|Akriti Jain et.al.|[2410.12513v1](http://arxiv.org/abs/2410.12513v1)|null|
 |**2024-10-16**|**Advancing Fairness in Natural Language Processing: From Traditional Methods to Explainability**|Fanny Jourdan et.al.|[2410.12511v1](http://arxiv.org/abs/2410.12511v1)|null|
@@ -83,12 +83,12 @@
 |**2024-10-16**|**ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs**|Jingming Zhuo et.al.|[2410.12405v1](http://arxiv.org/abs/2410.12405v1)|null|
 |**2024-10-16**|**Tracking Universal Features Through Fine-Tuning and Model Merging**|Niels Horn et.al.|[2410.12391v1](http://arxiv.org/abs/2410.12391v1)|null|
 |**2024-10-16**|**A Fast Convoluted Story: Scaling Probabilistic Inference for Integer Arithmetic**|Lennert De Smet et.al.|[2410.12389v1](http://arxiv.org/abs/2410.12389v1)|null|
-|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388v1](http://arxiv.org/abs/2410.12388v1)|null|
+|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388v2](http://arxiv.org/abs/2410.12388v2)|[link](https://github.com/zongqianli/promptcompression-survey)|
 |**2024-10-16**|**HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**|Fengji Zhang et.al.|[2410.12381v1](http://arxiv.org/abs/2410.12381v1)|null|
 |**2024-10-16**|**Evaluation of Attribution Bias in Retrieval-Augmented Large Language Models**|Amin Abolghasemi et.al.|[2410.12380v1](http://arxiv.org/abs/2410.12380v1)|null|
 |**2024-10-16**|**HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims**|Yejun Yoon et.al.|[2410.12377v1](http://arxiv.org/abs/2410.12377v1)|null|
 |**2024-10-16**|**ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing**|Qingming Lin et.al.|[2410.12376v1](http://arxiv.org/abs/2410.12376v1)|null|
-|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375v1](http://arxiv.org/abs/2410.12375v1)|null|
+|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375v1](http://arxiv.org/abs/2410.12375v1)|[link](https://github.com/lamm-mit/PRefLexOR)|
 |**2024-10-16**|**Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance**|Yaxi Lu et.al.|[2410.12361v1](http://arxiv.org/abs/2410.12361v1)|null|
 |**2024-10-16**|**Towards Neural Scaling Laws for Time Series Foundation Models**|Qingren Yao et.al.|[2410.12360v1](http://arxiv.org/abs/2410.12360v1)|null|
 |**2024-10-16**|**GECTurk WEB: An Explainable Online Platform for Turkish Grammatical Error Detection and Correction**|Ali Gebeşçe et.al.|[2410.12350v1](http://arxiv.org/abs/2410.12350v1)|null|
@@ -411,7 +411,7 @@ performance where the size of data is limited.
 摘要：命名實體辨識 (NER) 是一項關鍵的任務，旨在辨識結構化的資訊，這些資訊通常充斥著複雜的技術術語和高度的可變性。準確且可靠的 NER 能夠促進重要資訊的萃取和分析。然而，除了英文之外的 NER 具有挑戰性，因為資料的取得有限，而且標註資料需要高度的專業知識、時間和金錢成本。在本文中，我們透過使用有限的資料，探討各種因素，包括模型結構、語料標註方案和資料擴充技術，以提升法語 NER 模型的效能。我們的實驗證明，這些方法可以顯著地提升模型的 F1 分數，從原本的 CRF 分數 62.41 提升至 79.39。我們的研究結果顯示，考慮不同的外在因素並結合這些技術，對於提升資料量有限情況下的 NER 效能而言是一種有前途的方法。
 
 ##### **CREAM: Consistency Regularized Self-Rewarding Language Models**
-2410.12735v1 by Zhaoyang Wang, Weilei He, Zhiyuan Liang, Xuchao Zhang, Chetan Bansal, Ying Wei, Weitong Zhang, Huaxiu Yao
+2410.12735v2 by Zhaoyang Wang, Weilei He, Zhiyuan Liang, Xuchao Zhang, Chetan Bansal, Ying Wei, Weitong Zhang, Huaxiu Yao
 
 Recent self-rewarding large language models (LLM) have successfully applied
 LLM-as-a-Judge to iteratively improve the alignment performance without the
@@ -439,7 +439,7 @@ demonstrate the superiority of CREAM in improving both reward consistency and
 alignment performance. The code is publicly available at
 https://github.com/Raibows/CREAM.
 
-摘要：<paragraph>最近的自獎勵大型語言模型 (LLM) 已成功應用 LLM 作為評判，以迭代方式改善對齊效能，而無需人類註解偏好資料。這些方法通常利用相同的 LLM 作為策略模型（產生回應）和獎勵模型（對這些回應進行評分和排名）。排名的回應然後用作偏好對，以透過直接對齊技術（例如 DPO）訓練 LLM。然而，值得注意的是，在整個過程中，沒有保證獎勵和排名的準確性，這對於確保準確的獎勵和高品質的偏好資料至關重要。來自相對較小的 LLM（例如，7B 參數）的經驗結果也表明，在某些情況下，經過多次迭代後，來自自獎勵的改進可能會減弱，我們假設這是由於獎勵系統中累積的偏差。這種偏差可能會導致不可靠的偏好資料，以訓練 LLM。為了解決這個問題，我們首先制定和分析了自獎勵語言模型的廣義迭代偏好微調架構。然後，我們將正則化引入這個廣義架構，以減輕自獎勵過程中過於自信的偏好標籤。基於這個理論見解，我們提出了一個一致性正則化自我獎勵語言模型 (CREAM)，它利用不同迭代之間的獎勵一致性來規範自我獎勵訓練，幫助模型從更可靠的偏好資料中學習。有了這個明確的正則化，我們的經驗結果證明了 CREAM 在改善獎勵一致性和對齊效能方面的優越性。程式碼已公開發布於 https://github.com/Raibows/CREAM。</paragraph>
+摘要：<paragraph>最近的自獎勵大型語言模型 (LLM) 已成功應用 LLM-as-a-Judge 迭代改善比對效能，無需人工標註偏好資料。這些方法通常利用相同的 LLM 作為政策模型 (產生回應) 和獎勵模型 (評分和排名這些回應)。排名後的回應接著用作偏好對，透過直接比對技術 (例如 DPO) 來訓練 LLM。然而，值得注意的是，在整個過程中，獎勵和排名並無保證準確，這對於確保準確的獎勵和高品質的偏好資料至關重要。來自相對較小 LLM (例如 7B 參數) 的經驗結果也顯示，在某些情況下，經過幾次迭代後，自獎勵的改善可能減弱，我們假設這是由於獎勵系統中累積的偏差。此偏差可能導致用於訓練 LLM 的偏好資料不可靠。為了解決此問題，我們首先制定並分析自獎勵語言模型的廣義迭代偏好微調架構。然後，我們將正則化引入此廣義架構，以減輕自獎勵過程中過度自信的偏好標籤。根據此理論見解，我們提出了一致性正則化自我獎勵語言模型 (CREAM)，它利用不同迭代間的獎勵一致性來正則化自獎勵訓練，幫助模型從更可靠的偏好資料中學習。透過此明確的正則化，我們的經驗結果證明 CREAM 在改善獎勵一致性和比對效能方面具有優越性。程式碼已公開於 https://github.com/Raibows/CREAM。</paragraph>
 
 ##### **Counterfactual Generative Modeling with Variational Causal Inference**
 2410.12730v1 by Yulun Wu, Louie McConnell, Claudia Iriondo
@@ -691,7 +691,7 @@ to enhance the efficiency and accuracy of medical imaging workflows.
 摘要：解剖標誌在醫學影像中對於導航和異常偵測至關重要。像 Llama-2 等現代大型語言模型 (LLM) 有望自動化將這些標誌對應到影像資料中相應位置的自由文字放射線學報告的對應。最近的研究提出，LLM 可能會發展出生成式過程的連貫表徵。受到這些見解的啟發，我們調查了 LLM 是否能準確表示解剖標誌的空間位置。透過 Llama-2 模型的實驗，我們發現它們可以用線性方式表示空間中的解剖標誌，並對不同的提示具有相當的穩健性。這些結果強調了 LLM 提高醫學影像工作流程效率和準確性的潛力。
 
 ##### **Context Matters: Leveraging Contextual Features for Time Series Forecasting**
-2410.12672v1 by Sameep Chattopadhyay, Pulkit Paliwal, Sai Shankar Narasimhan, Shubhankar Agarwal, Sandeep P. Chinchali
+2410.12672v2 by Sameep Chattopadhyay, Pulkit Paliwal, Sai Shankar Narasimhan, Shubhankar Agarwal, Sandeep P. Chinchali
 
 Time series forecasts are often influenced by exogenous contextual features
 in addition to their corresponding history. For example, in financial settings,
@@ -709,7 +709,7 @@ forecasters. ContextFormer outperforms SOTA forecasting models by up to 30% on
 a range of real-world datasets spanning energy, traffic, environmental, and
 financial domains.
 
-摘要：時間序列預測通常會受到外生脈絡特徵的影響，除了對應的歷史記錄之外。例如，在金融環境中，在不考慮新聞文章、推文等形式的公眾情緒和政策決策的情況下，很難準確預測股票價格。儘管這是常識，但當前最先進 (SOTA) 預測模型無法整合此類脈絡資訊，因為它的異質性和多模態性質。為了解決這個問題，我們引入了 ContextFormer，這是一種新穎的即插即用方法，用於將多模態脈絡資訊外科手術式整合到現有的預訓練預測模型中。ContextFormer 有效地從豐富的多模態脈絡中提取預測特定資訊，包括分類、連續、時變，甚至文字資訊，以顯著增強現有基礎預測器的效能。ContextFormer 在涵蓋能源、交通、環境和金融領域的一系列真實世界資料集上，比 SOTA 預測模型高出 30%。
+摘要：時間序列預測通常會受到外生脈絡特徵的影響，除了其對應的歷史記錄。例如，在金融環境中，很難在不考慮新聞文章、推文等形式的公眾情緒和政策決策的情況下準確預測股票價格。儘管這是常識，但目前最先進 (SOTA) 的預測模型無法納入此類脈絡資訊，因為其異質性和多模態性質。為了解決這個問題，我們引入了 ContextFormer，這是一種新穎的即插即用方法，可以將多模態脈絡資訊外科手術式地整合到現有的預訓練預測模型中。ContextFormer 有效地從豐富的多模態脈絡中提取特定於預測的資訊，包括分類、連續、時變，甚至文字資訊，以顯著增強現有基本預測器的效能。ContextFormer 在涵蓋能源、交通、環境和金融領域的一系列真實世界資料集上，比 SOTA 預測模型的效能高出 30%。
 
 ##### **Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**
 2410.12665v1 by Vishaal Krishnan, Sumit Sinha, L. Mahadevan
@@ -833,8 +833,8 @@ classification, which is publicly available at http://xmv.geomeaning.com/.
 
 摘要：這項工作探討了基於本体論推理和機器學習技術整合用於可解釋價值分類。透過依賴於道德基礎理論中道德價值的本体形式化，依賴於 DnS 本体設計模式，\textit{sandra} 神經符號推理器用於推論由特定句子「滿足」的值 (形式化為描述)。句子與其結構化表示一起使用開源大型語言模型自動生成。推論出的描述用於自動偵測與句子相關的值。我們展示僅依賴於推理器的推論結果，就能產生可解釋的分類，與其他較複雜的方法相當。我們展示將推理器的推論與分配語義方法結合，大幅優於所有基線，包括基於神經網路架構的複雜模型。最後，我們建立一個視覺化工具來探討基於理論的價值分類的潛力，該工具可公開取得，網址為 http://xmv.geomeaning.com/。
 
-##### **From Measurement Instruments to Training Data: Leveraging Theory-Driven Synthetic Training Data for Measuring Social Constructs**
-2410.12622v1 by Lukas Birkenmaier, Matthias Roth, Indira Sen
+##### **From Measurement Instruments to Data: Leveraging Theory-Driven Synthetic Training Data for Classifying Social Constructs**
+2410.12622v2 by Lukas Birkenmaier, Matthias Roth, Indira Sen
 
 Computational text classification is a challenging task, especially for
 multi-dimensional social constructs. Recently, there has been increasing
@@ -854,7 +854,7 @@ performance, synthetic data allows for substituting large amounts of labeled
 data. Furthermore, theory-driven synthetic data performed markedly better than
 data generated without conceptual information in mind.
 
-摘要：計算文本分類是一項具有挑戰性的任務，特別是對於多維度的社會建構而言。最近，關於合成訓練資料可以通過提供這些建構如何在文本中呈現的範例來增強分類的討論越來越多。在本文中，我們系統地探討了理論驅動的合成訓練資料在改進社會建構測量方面的潛力。具體而言，我們探討了研究人員如何將社會科學中測量工具（例如調查量表或註釋手冊）中的既有知識轉移到合成資料的理論驅動生成中。使用關於衡量性別歧視和政治話題的兩項研究，我們評估了合成訓練資料在微調文本分類模型方面的附加價值。儘管性別歧視研究的結果不太令人滿意，但我們的研究結果表明，合成資料在減少政治話題分類中對標籤資料的需求方面可以非常有效。合成資料僅會導致性能略有下降，從而允許替換大量的標籤資料。此外，理論驅動的合成資料的表現明顯優於在構思時沒有考慮概念性資訊的資料。
+摘要：計算文本分類是一項具有挑戰性的任務，特別是對於多維度的社會結構。最近，越來越多的討論認為，合成訓練數據可以通過提供這些結構在文本中表示方式的示例來增強分類。在本文中，我們系統地探討了理論驅動合成訓練數據在改進社會結構測量方面的潛力。具體來說，我們探討了研究人員如何將社會科學中測量工具（例如調查量表或註釋手冊）中已確立的知識轉移到合成數據的理論驅動生成中。通過兩項關於衡量性別歧視和政治話題的研究，我們評估了合成訓練數據在微調文本分類模型方面的附加價值。儘管性別歧視研究的結果不太令人滿意，但我們的研究結果表明，合成數據在減少政治話題分類中對標籤數據的需求方面可以非常有效。合成數據僅會導致性能略有下降，就可以替代大量的標籤數據。此外，理論驅動的合成數據的表現明顯優於在構建時沒有考慮概念信息的數據。
 
 ##### **Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning**
 2410.12621v1 by Ruimeng Ye, Yang Xiao, Bo Hui
@@ -1216,7 +1216,7 @@ All code and data are publicly available at
 摘要：大型語言模型的進步顯著提升了複雜長篇問答任務的性能。然而，大型語言模型的一個顯著問題是產生的「幻覺」回應並非事實。因此，回應中每個說法的歸因成為改善事實性和可驗證性的常見解決方案。現有的研究主要集中在如何為回應提供準確的引用，這在很大程度上忽視了識別每個回應的說法或陳述的重要性。為了彌補這一差距，我們引入了一個新的說法分解基準，它需要建立一個系統，該系統可以識別大型語言模型回應的原子和可驗證的說法。具體來說，我們提出了中文原子說法分解數據集 (CACDD)，它建立在 WebCPM 數據集之上，並增加了專家註釋以確保高數據質量。CACDD 包含一系列 500 個人工註釋的問題答案對，總共包括 4956 個原子說法。我們進一步提出了人工註釋的新管道，並描述了此任務的挑戰。此外，我們提供了零次學習、少次學習和微調大型語言模型的實驗結果作為基準。結果表明，說法分解極具挑戰性，需要進一步探索。所有代碼和數據都可以在 \url{https://github.com/FBzzh/CACDD} 公開獲得。
 
 ##### **LLM-based Translation Inference with Iterative Bilingual Understanding**
-2410.12543v1 by Andong Chen, Kehai Chen, Yang Xiang, Xuefeng Bai, Muyun Yang, Tiejun Zhao, Min zhang
+2410.12543v2 by Andong Chen, Kehai Chen, Yang Xiang, Xuefeng Bai, Muyun Yang, Tiejun Zhao, Min zhang
 
 The remarkable understanding and generation capabilities of large language
 models (LLMs) have greatly improved translation performance. However, incorrect
@@ -1232,7 +1232,7 @@ Experimental results showed that the proposed IBUT outperforms several strong
 comparison methods, especially being generalized to multiple domains (e.g.,
 news, commonsense, and cultural translation benchmarks).
 
-摘要：大型語言模型 (LLM) 出色的理解和生成能力已大幅提升翻譯效能。然而，對待翻譯句子的理解不正確，可能會降低翻譯品質。為了解決這個問題，我們提出了一種基於 LLM 的跨語言能力和翻譯任務雙重特性的創新迭代雙語理解翻譯 (IBUT) 方法。LLM 的跨語言能力可分別為原始語言和目標語言產生脈絡理解。此外，雙重特性允許 IBUT 產生有效的跨語言回饋，反覆精進脈絡理解，從而減少錯誤並提升翻譯效能。實驗結果顯示，所提出的 IBUT 優於多種強大的對比方法，特別是能廣泛運用於多個領域（例如新聞、常識和文化翻譯基準）。
+摘要：大型語言模型 (LLM) 傑出的理解和生成能力大幅提升了翻譯效能。然而，對待翻譯句子的理解不正確會降低翻譯品質。為了解決這個問題，我們提出了一種創新的反覆雙語理解翻譯 (IBUT) 方法，它基於 LLM 的跨語言能力和翻譯任務的雙重特徵。LLM 的跨語言能力可以分別為來源語言和目標語言產生脈絡理解。此外，雙重特徵讓 IBUT 能夠產生有效的跨語言回饋，反覆精進脈絡理解，從而減少錯誤並提升翻譯效能。實驗結果顯示，提出的 IBUT 優於多種強大的對比方法，特別是廣泛運用於多個領域（例如新聞、常識和文化翻譯基準）。
 
 ##### **Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**
 2410.12539v1 by Stelios Triantafyllou, Aleksa Sukovic, Yasaman Zolfimoselo, Goran Radanovic
@@ -1308,7 +1308,7 @@ CQA methods.
 摘要：複雜查詢回答（CQA）在知識圖譜（KG）上正逐漸成為一項具有挑戰性的推理任務。在本文中，我們將表明 CQA 的當前基準並非真正複雜，且其建構方式扭曲了我們對此領域進展的認知。例如，我們發現，在這些基準中，大多數查詢（對於某些查詢類型而言高達 98%）都可以簡化為更簡單的問題，例如連結預測，其中只需要預測一個連結。當此類模型在無法簡化為更簡單類型的查詢上進行評估時，最先進的 CQA 模型的效能會大幅下降。因此，我們提出了一組更具挑戰性的基準，其中包含需要模型透過多個跳躍進行推理並能更好地反映真實世界 KG 建構的查詢。在系統性的實證調查中，新的基準表明，目前的 CQA 方法與理想狀態仍有很大的差距。
 
 ##### **MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**
-2410.12532v1 by Jinjie Wei, Dingkang Yang, Yanshu Li, Qingyao Xu, Zhaoyu Chen, Mingcheng Li, Yue Jiang, Xiaolu Hou, Lihua Zhang
+2410.12532v2 by Jinjie Wei, Dingkang Yang, Yanshu Li, Qingyao Xu, Zhaoyu Chen, Mingcheng Li, Yue Jiang, Xiaolu Hou, Lihua Zhang
 
 Large Language Model (LLM)-driven interactive systems currently show
 potential promise in healthcare domains. Despite their remarkable capabilities,
@@ -1327,7 +1327,7 @@ Experimental results from automated metrics and expert doctor evaluations show
 that MedAide outperforms current LLMs and improves their medical proficiency
 and strategic reasoning.
 
-摘要：大型語言模型 (LLM) 驅動的互動系統目前在醫療保健領域顯示出潛在的希望。儘管它們具有非凡的能力，LLM 在複雜的醫療應用中通常缺乏個人化建議和診斷分析，從而導致幻覺和效能瓶頸。為了應對這些挑戰，本文提出了 MedAide，一個基於 LLM 的全方位醫療多代理協作架構，用於專業醫療保健服務。具體來說，MedAide 首先透過檢索增強生成來執行查詢改寫，以達成準確的醫療意圖理解。緊接著，我們設計一個脈絡編碼器來取得意圖原型嵌入，用於透過相似度比對來辨識細粒度的意圖。根據意圖相關性，已啟動的代理有效地協作，以提供整合的決策分析。在四個具有複合意圖的醫療基準上進行了廣泛的實驗。自動化指標和專家醫師評估的實驗結果顯示，MedAide 優於目前的 LLM，並提升了它們的醫療能力和策略推理。
+摘要：大型語言模型 (LLM) 驅動的互動系統目前在醫療領域展現潛在的希望。儘管有其非凡的能力，LLM 在複雜的醫療應用中通常缺乏個人化建議和診斷分析，導致出現幻覺和效能瓶頸。為了應對這些挑戰，本文提出了 MedAide，一個基於 LLM 的全方位醫療多代理協作架構，用於專業醫療服務。具體來說，MedAide 首先透過檢索增強生成來執行查詢改寫，以達成準確的醫療意圖理解。接著，我們設計一個脈絡編碼器來取得意圖原型嵌入，用於透過相似性比對來辨識細緻的意圖。根據意圖相關性，已啟動的代理有效地協作以提供整合的決策分析。在具有複合意圖的四個醫療基準上進行了廣泛的實驗。自動化指標和專家醫師評估的實驗結果顯示，MedAide 優於目前的 LLM，並提升其醫療專業知識和策略推理。
 
 ##### **Spectrum Sharing using Deep Reinforcement Learning in Vehicular Networks**
 2410.12521v1 by Riya Dinesh Deshpande, Faheem A. Khan, Qasim Zeeshan Ahmed
@@ -2004,7 +2004,7 @@ learning times.
 摘要：正如整数线性规划的成功所展示的那样，线性整数算术是建模组合问题的强大工具。此外，线性规划的概率扩展已被用于制定神经符号 AI 中的问题。然而，仍然存在两个关键问题，阻止了神经符号技术在玩具问题之外的应用。首先，概率推理本质上是困难的，准确地说，#P-hard。其次，整数的离散性质使得有意义的梯度的构建具有挑战性，这对学习来说是有问题的。为了缓解这些问题，我们将基于整数随机变量的线性算术公式化为张量操作，可以使用现代深度学习库以直接的方式实现。我们公式化的核心在于观察到，两个整数随机变量的加法可以通过将快速傅里叶变换调整为对数域中的概率来执行。通过依赖张量运算，我们获得了可微的数据结构，它几乎免费地解锁了基于梯度的学习。在我们的实验验证中，我们表明张量化概率线性整数算术并利用快速傅里叶变换使我们能够在推理和学习时间方面将最先进的技术提升几个数量级。
 
 ##### **Prompt Compression for Large Language Models: A Survey**
-2410.12388v1 by Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier
+2410.12388v2 by Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier
 
 Leveraging large language models (LLMs) for complex natural language tasks
 typically requires long-form prompts to convey detailed requirements and
@@ -2015,14 +2015,14 @@ an overview of prompt compression techniques, categorized into hard prompt
 methods and soft prompt methods. First, the technical approaches of these
 methods are compared, followed by an exploration of various ways to understand
 their mechanisms, including the perspectives of attention optimization,
-Parameter-Efficient Fine-Tuning (PEFT), modality fusion, and new synthetic
+Parameter-Efficient Fine-Tuning (PEFT), modality integration, and new synthetic
 language. We also examine the downstream adaptations of various prompt
 compression techniques. Finally, the limitations of current prompt compression
 methods are analyzed, and several future directions are outlined, such as
 optimizing the compression encoder, combining hard and soft prompts methods,
 and leveraging insights from multimodality.
 
-摘要：利用大型語言模型 (LLM) 處理複雜的自然語言任務通常需要長篇提示來傳達詳細的要求和資訊，這會增加記憶體使用量和推論成本。為了減輕這些挑戰，已提出多種有效的方法，其中提示壓縮獲得了顯著的研究興趣。本調查提供了提示壓縮技術的概述，分為硬提示方法和軟提示方法。首先，比較這些方法的技術方法，然後探討理解其機制的各種方法，包括關注最佳化、參數有效微調 (PEFT)、模態融合和新的合成語言。我們還檢查了各種提示壓縮技術的下游適應。最後，分析了當前提示壓縮方法的限制，並概述了幾個未來的方向，例如最佳化壓縮編碼器、結合硬提示和軟提示方法，以及利用多模態的見解。
+摘要：利用大型語言模型 (LLM) 執行複雜的自然語言任務通常需要長篇提示才能傳達詳細的要求和資訊，這會導致記憶體使用量和推論成本增加。為了減輕這些挑戰，已經提出了多種有效的方法，其中提示壓縮獲得了顯著的研究興趣。這項調查提供了提示壓縮技術的概述，分為硬提示方法和軟提示方法。首先，比較這些方法的技術方法，然後探討了解其機制的各種方式，包括注意最佳化、參數有效微調 (PEFT)、模態整合和新的合成語言。我們還檢查了各種提示壓縮技術的下游適應。最後，分析了當前提示壓縮方法的限制，並概述了幾個未來的方向，例如最佳化壓縮編碼器、結合硬提示和軟提示方法，以及利用多模態的見解。
 
 ##### **HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**
 2410.12381v1 by Fengji Zhang, Linquan Wu, Huiyu Bai, Guancheng Lin, Xiao Li, Xiao Yu, Yue Wang, Bei Chen, Jacky Keung

@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-16**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707v1](http://arxiv.org/abs/2410.12707v1)|null|
 |**2024-10-16**|**The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph**|Minghao Wu et.al.|[2410.12458v1](http://arxiv.org/abs/2410.12458v1)|null|
-|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375v1](http://arxiv.org/abs/2410.12375v1)|null|
-|**2024-10-16**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298v1](http://arxiv.org/abs/2410.12298v1)|null|
+|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375v1](http://arxiv.org/abs/2410.12375v1)|[link](https://github.com/lamm-mit/PRefLexOR)|
+|**2024-10-16**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298v2](http://arxiv.org/abs/2410.12298v2)|null|
 |**2024-10-16**|**Towards LLM-based Cognitive Models of Students with Misconceptions**|Shashank Sonkar et.al.|[2410.12294v1](http://arxiv.org/abs/2410.12294v1)|null|
 |**2024-10-16**|**Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**|Ziqiang Cui et.al.|[2410.12229v1](http://arxiv.org/abs/2410.12229v1)|null|
 |**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228v1](http://arxiv.org/abs/2410.12228v1)|null|
@@ -196,7 +196,7 @@ inference time.
 摘要：PRefLexOR（用於探索性推理優化的基於偏好的遞迴語言建模）將偏好優化與強化學習中的概念相結合，使模型能夠通過反覆推理改進來自我教學。我們提出了一種遞迴學習方法，讓模型參與多步驟推理、重新審視和改進中間步驟，然後在訓練和推理階段產生最終輸出。通過多個訓練階段，模型首先學習通過優化首選和非首選響應之間的對數幾率，使其推理與準確的決策路徑保持一致。在此過程中，PRefLexOR 通過從隨機文本塊生成問題和檢索增強來構建一個動態知識圖，從整個訓練語料庫中提取相關細節以進行語境化。在第二階段，偏好優化通過使用拒絕採樣來微調推理質量，從而增強模型性能，同時連續產生原位訓練數據，同時掩蓋推理步驟。在思考令牌框架內進行遞迴優化會引入迭代反饋迴路，其中模型會改進推理，從而實現更深入的連貫性、一致性和適應性。在只有 30 億個參數的小語言模型中實現，我們應該讓即使是很小的模型也能通過迭代的方式教會自己以更大的深度和反思能力進行推理。我們的實現非常直接，可以整合到任何現有的預訓練 LLM 中。我們將我們的示例重點放在生物材料科學應用上，並在從域內到跨域應用等各種案例研究中演示了該方法。使用包括思考和反思模式在內的推理策略，我們構建了一個多代理遞迴自我改進推理方法，以通過在推理時間重複採樣來連續改進響應。
 
 ##### **Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**
-2410.12298v1 by Lei Sun, Xinchen Wang, Youdi Li
+2410.12298v2 by Lei Sun, Xinchen Wang, Youdi Li
 
 Large Language Models (LLMs) possess impressive reasoning abilities but are
 prone to generating incorrect information, often referred to as hallucinations.
@@ -215,7 +215,8 @@ retrieval for question-answering tasks. Our experimental results reveal a
 substantial performance advantage of PDA over state-of-the-art baselines, with
 improvements reaching 26.70% and 26.78%.
 
-摘要：大型語言模型 (LLM) 擁有令人印象深刻的推理能力，但容易產生不正確的資訊，通常稱為幻覺。雖然加入外部知識圖譜 (KG) 可以部分緩解此問題，但現有方法主要將 KG 視為靜態知識儲存庫，忽略了 KG 和 LLM 知識之間的關鍵差異，並且未能充分利用 KG 中固有的推理能力。為了解決這些限制，我們提出了金字塔驅動對齊 (PDA)，這是一種將 LLM 與 KG 無縫整合的新穎架構。PDA 利用金字塔原理分析來構建階層式金字塔結構。此結構旨在反映輸入問題並產生更多驗證的演繹知識，從而增強 LLM 和 KG 的對齊並確保更緊密的整合。此外，PDA 採用遞迴機制來利用 KG 的基本推理能力，從而更準確地擷取問題解答任務的知識。我們的實驗結果顯示，PDA 相較於最先進的基準具有顯著的效能優勢，改進幅度達到 26.70% 和 26.78%。
+摘要：大型語言模型 (LLM) 擁有令人印象深刻的推理能力，但容易產生不正確的資訊，通常稱為幻覺。
+儘管結合外部知識圖譜 (KG) 可以部分緩解這個問題，但現有方法主要將 KG 視為靜態知識儲存庫，忽視 KG 和 LLM 知識之間的關鍵差異，並且未能充分利用 KG 中固有的推理能力。為了解決這些限制，我們提出金字塔驅動對齊 (PDA)，這是一個將 LLM 與 KG 無縫整合的新穎架構。PDA 利用金字塔原則分析來建構一個階層式金字塔結構。此結構旨在反映輸入問題並產生更多經過驗證的演繹知識，從而增強 LLM 和 KG 的對齊，並確保更緊密的整合。此外，PDA 採用遞迴機制來利用 KG 的底層推理能力，從而更準確地檢索知識以進行問答任務。我們的實驗結果顯示，PDA 相較於最先進的基準，具有顯著的效能優勢，改進幅度達到 26.70% 和 26.78%。
 
 ##### **Towards LLM-based Cognitive Models of Students with Misconceptions**
 2410.12294v1 by Shashank Sonkar, Xinghe Chen, Naiming Liu, Richard G. Baraniuk, Mrinmaya Sachan

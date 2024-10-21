@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-18**|**Less is More: Selective Reduction of CT Data for Self-Supervised Pre-Training of Deep Learning Models with Contrastive Learning Improves Downstream Classification Performance**|Daniel Wolf et.al.|[2410.14524v1](http://arxiv.org/abs/2410.14524v1)|[link](https://github.com/Wolfda95/Less_is_More)|
+|**2024-10-18**|**A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles**|Sharv Murgai et.al.|[2410.14347v1](http://arxiv.org/abs/2410.14347v1)|null|
+|**2024-10-18**|**Deep Learning Applications in Medical Image Analysis: Advancements, Challenges, and Future Directions**|Aimina Ali Eli et.al.|[2410.14131v1](http://arxiv.org/abs/2410.14131v1)|null|
+|**2024-10-17**|**Identifying High Consideration E-Commerce Search Queries**|Zhiyu Chen et.al.|[2410.13951v1](http://arxiv.org/abs/2410.13951v1)|null|
+|**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948v1](http://arxiv.org/abs/2410.13948v1)|null|
 |**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831v1](http://arxiv.org/abs/2410.13831v1)|[link](https://github.com/ml-jku/disparate-benefits)|
 |**2024-10-17**|**Scaling Wearable Foundation Models**|Girish Narayanswamy et.al.|[2410.13638v1](http://arxiv.org/abs/2410.13638v1)|null|
 |**2024-10-17**|**MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**|Yakun Zhu et.al.|[2410.13610v1](http://arxiv.org/abs/2410.13610v1)|null|
@@ -29,10 +34,11 @@
 |**2024-10-15**|**SplitSEE: A Splittable Self-supervised Framework for Single-Channel EEG Representation Learning**|Rikuto Kotoge et.al.|[2410.11200v1](http://arxiv.org/abs/2410.11200v1)|null|
 |**2024-10-14**|**EchoApex: A General-Purpose Vision Foundation Model for Echocardiography**|Abdoul Aziz Amadou et.al.|[2410.11092v2](http://arxiv.org/abs/2410.11092v2)|null|
 |**2024-10-14**|**Parsing altered brain connectivity in neurodevelopmental disorders by integrating graph-based normative modeling and deep generative networks**|Rui Sherry Shen et.al.|[2410.11064v1](http://arxiv.org/abs/2410.11064v1)|null|
+|**2024-10-14**|**Deep Learning Based XIoT Malware Analysis: A Comprehensive Survey, Taxonomy, and Research Challenges**|Rami Darwish et.al.|[2410.13894v1](http://arxiv.org/abs/2410.13894v1)|null|
 |**2024-10-14**|**Thinking LLMs: General Instruction Following with Thought Generation**|Tianhao Wu et.al.|[2410.10630v1](http://arxiv.org/abs/2410.10630v1)|null|
 |**2024-10-14**|**BrainMVP: Multi-modal Vision Pre-training for Brain Image Analysis using Multi-parametric MRI**|Shaohao Rui et.al.|[2410.10604v1](http://arxiv.org/abs/2410.10604v1)|null|
 |**2024-10-14**|**Reproducible Machine Learning-based Voice Pathology Detection: Introducing the Pitch Difference Feature**|Jan Vrba et.al.|[2410.10537v1](http://arxiv.org/abs/2410.10537v1)|[link](https://github.com/aailab-uct/automated-robust-and-reproducible-voice-pathology-detection)|
-|**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|null|
+|**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|[link](https://github.com/tlabarta/helpfulnessofxai)|
 |**2024-10-14**|**Advancing Newborn Care: Precise Birth Time Detection Using AI-Driven Thermal Imaging with Adaptive Normalization**|Jorge García-Torres et.al.|[2410.10483v1](http://arxiv.org/abs/2410.10483v1)|[link](https://github.com/jtorres258/image-based-tob)|
 |**2024-10-14**|**Affinity-Graph-Guided Contractive Learning for Pretext-Free Medical Image Segmentation with Minimal Annotation**|Zehua Cheng et.al.|[2410.10366v1](http://arxiv.org/abs/2410.10366v1)|null|
 |**2024-10-14**|**Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**|Hongyi Yuan et.al.|[2410.10144v1](http://arxiv.org/abs/2410.10144v1)|null|
@@ -53,7 +59,7 @@
 |**2024-10-11**|**LLMD: A Large Language Model for Interpreting Longitudinal Medical Records**|Robert Porter et.al.|[2410.12860v1](http://arxiv.org/abs/2410.12860v1)|null|
 |**2024-10-11**|**Large Language Models for Medical OSCE Assessment: A Novel Approach to Transcript Analysis**|Ameer Hamza Shakur et.al.|[2410.12858v1](http://arxiv.org/abs/2410.12858v1)|null|
 |**2024-10-11**|**Optimized Biomedical Question-Answering Services with LLM and Multi-BERT Integration**|Cheng Qian et.al.|[2410.12856v1](http://arxiv.org/abs/2410.12856v1)|null|
-|**2024-10-11**|**Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**|Yeeun Kim et.al.|[2410.08731v1](http://arxiv.org/abs/2410.08731v1)|null|
+|**2024-10-11**|**Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**|Yeeun Kim et.al.|[2410.08731v1](http://arxiv.org/abs/2410.08731v1)|[link](https://github.com/lbox-kr/kbl)|
 |**2024-10-11**|**ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation**|Siyou Li et.al.|[2410.08588v1](http://arxiv.org/abs/2410.08588v1)|null|
 |**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431v1](http://arxiv.org/abs/2410.08431v1)|null|
 |**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397v1](http://arxiv.org/abs/2410.08397v1)|null|
@@ -66,7 +72,7 @@
 |**2024-10-10**|**Artificial intelligence techniques in inherited retinal diseases: A review**|Han Trinh et.al.|[2410.09105v1](http://arxiv.org/abs/2410.09105v1)|null|
 |**2024-10-10**|**Toward Relieving Clinician Burden by Automatically Generating Progress Notes using Interim Hospital Data**|Sarvesh Soni et.al.|[2410.12845v1](http://arxiv.org/abs/2410.12845v1)|null|
 |**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525v2](http://arxiv.org/abs/2410.07525v2)|null|
-|**2024-10-09**|**A Two-Model Approach for Humour Style Recognition**|Mary Ogbuka Kenneth et.al.|[2410.12842v1](http://arxiv.org/abs/2410.12842v1)|null|
+|**2024-10-09**|**A Two-Model Approach for Humour Style Recognition**|Mary Ogbuka Kenneth et.al.|[2410.12842v1](http://arxiv.org/abs/2410.12842v1)|[link](https://github.com/MaryKenneth/Two_Model_Humour_Style)|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364v1](http://arxiv.org/abs/2410.07364v1)|null|
 |**2024-10-09**|**Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**|Vivian Nguyen et.al.|[2410.07147v1](http://arxiv.org/abs/2410.07147v1)|null|
 |**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129v2](http://arxiv.org/abs/2410.07129v2)|null|
@@ -96,14 +102,124 @@
 |**2024-10-06**|**Multi-Tiered Self-Contrastive Learning for Medical Microwave Radiometry (MWR) Breast Cancer Detection**|Christoforos Galazis et.al.|[2410.04636v1](http://arxiv.org/abs/2410.04636v1)|[link](https://github.com/cgalaz01/self_contrastive_mwr)|
 |**2024-10-06**|**Semi-Markovian Planning to Coordinate Aerial and Maritime Medical Evacuation Platforms**|Mahdi Al-Husseini et.al.|[2410.04523v1](http://arxiv.org/abs/2410.04523v1)|null|
 |**2024-10-06**|**Mitigating Hallucinations Using Ensemble of Knowledge Graph and Vector Store in Large Language Models to Enhance Mental Health Support**|Abdul Muqtadir et.al.|[2410.10853v1](http://arxiv.org/abs/2410.10853v1)|null|
-|**2024-10-06**|**On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**|Toluwani Aremu et.al.|[2410.10850v2](http://arxiv.org/abs/2410.10850v2)|null|
-|**2024-10-06**|**RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**|Yuyang Miao et.al.|[2410.04366v1](http://arxiv.org/abs/2410.04366v1)|null|
-|**2024-10-05**|**Applying Quantum Autoencoders for Time Series Anomaly Detection**|Robin Frehner et.al.|[2410.04154v2](http://arxiv.org/abs/2410.04154v2)|null|
-|**2024-10-05**|**DAMMI:Daily Activities in a Psychologically Annotated Multi-Modal IoT dataset**|Mohsen Falah Rad et.al.|[2410.04152v1](http://arxiv.org/abs/2410.04152v1)|null|
-|**2024-10-05**|**From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings**|Jun Li et.al.|[2410.04133v1](http://arxiv.org/abs/2410.04133v1)|null|
-|**2024-10-05**|**Taming the Tail: Leveraging Asymmetric Loss and Pade Approximation to Overcome Medical Image Long-Tailed Class Imbalance**|Pankhi Kashyap et.al.|[2410.04084v1](http://arxiv.org/abs/2410.04084v1)|null|
 
 #### Abstracts
+##### **Less is More: Selective Reduction of CT Data for Self-Supervised Pre-Training of Deep Learning Models with Contrastive Learning Improves Downstream Classification Performance**
+2410.14524v1 by Daniel Wolf, Tristan Payer, Catharina Silvia Lisson, Christoph Gerhard Lisson, Meinrad Beer, Michael Götz, Timo Ropinski
+
+Self-supervised pre-training of deep learning models with contrastive
+learning is a widely used technique in image analysis. Current findings
+indicate a strong potential for contrastive pre-training on medical images.
+However, further research is necessary to incorporate the particular
+characteristics of these images. We hypothesize that the similarity of medical
+images hinders the success of contrastive learning in the medical imaging
+domain. To this end, we investigate different strategies based on deep
+embedding, information theory, and hashing in order to identify and reduce
+redundancy in medical pre-training datasets. The effect of these different
+reduction strategies on contrastive learning is evaluated on two pre-training
+datasets and several downstream classification tasks. In all of our
+experiments, dataset reduction leads to a considerable performance gain in
+downstream tasks, e.g., an AUC score improvement from 0.78 to 0.83 for the
+COVID CT Classification Grand Challenge, 0.97 to 0.98 for the OrganSMNIST
+Classification Challenge and 0.73 to 0.83 for a brain hemorrhage classification
+task. Furthermore, pre-training is up to nine times faster due to the dataset
+reduction. In conclusion, the proposed approach highlights the importance of
+dataset quality and provides a transferable approach to improve contrastive
+pre-training for classification downstream tasks on medical images.
+
+摘要：深度學習模型的對比學習自監督預訓練是一種廣泛用於影像分析的技術。目前的發現顯示對比預訓練在醫學影像上具有強大的潛力。然而，進一步的研究對於納入這些影像的特定特徵是必要的。我們假設醫學影像的相似性阻礙了對比學習在醫學影像領域的成功。為此，我們研究了基於深度嵌入、資訊理論和雜湊的不同策略，以識別和減少醫學預訓練資料集中的冗餘。這些不同的簡化策略對比學習的影響在兩個預訓練資料集和幾個下游分類任務中進行評估。在我們所有的實驗中，資料集簡化都導致了下游任務的顯著效能提升，例如，COVID CT 分類大挑戰的 AUC 分數從 0.78 提升至 0.83，OrganSMNIST 分類挑戰從 0.97 提升至 0.98，腦出血分類任務從 0.73 提升至 0.83。此外，由於資料集簡化，預訓練速度最高可提升九倍。總之，所提出的方法突顯了資料集品質的重要性，並提供了一個可轉移的方法來改善醫學影像上分類下游任務的對比預訓練。
+
+##### **A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles**
+2410.14347v1 by Sharv Murgai, Hrishikesh Bhagwat, Raj Abhijit Dandekar, Rajat Dandekar, Sreedath Panat
+
+Carbon emissions are rising at an alarming rate, posing a significant threat
+to global efforts to mitigate climate change. Electric vehicles have emerged as
+a promising solution, but their reliance on lithium-ion batteries introduces
+the critical challenge of battery degradation. Accurate prediction and
+forecasting of battery degradation over both short and long time spans are
+essential for optimizing performance, extending battery life, and ensuring
+effective long-term energy management. This directly influences the
+reliability, safety, and sustainability of EVs, supporting their widespread
+adoption and aligning with key UN SDGs. In this paper, we present a novel
+approach to the prediction and long-term forecasting of battery degradation
+using Scientific Machine Learning framework which integrates domain knowledge
+with neural networks, offering more interpretable and scientifically grounded
+solutions for both predicting short-term battery health and forecasting
+degradation over extended periods. This hybrid approach captures both known and
+unknown degradation dynamics, improving predictive accuracy while reducing data
+requirements. We incorporate ground-truth data to inform our models, ensuring
+that both the predictions and forecasts reflect practical conditions. The model
+achieved MSE of 9.90 with the UDE and 11.55 with the NeuralODE, in experimental
+data, a loss of 1.6986 with the UDE, and a MSE of 2.49 in the NeuralODE,
+demonstrating the enhanced precision of our approach. This integration of
+data-driven insights with SciML's strengths in interpretability and scalability
+allows for robust battery management. By enhancing battery longevity and
+minimizing waste, our approach contributes to the sustainability of energy
+systems and accelerates the global transition toward cleaner, more responsible
+energy solutions, aligning with the UN's SDG agenda.
+
+摘要：碳排放量正以驚人的速度上升，對全球減緩氣候變遷的努力構成重大威脅。電動車已成為一個有希望的解決方案，但它們依賴鋰離子電池，引入了電池劣化這個嚴峻的挑戰。準確預測和預測電池在短期和長期內的劣化對於最佳化效能、延長電池壽命以及確保有效的長期能源管理至關重要。這直接影響電動車的可靠性、安全性與永續性，支持它們的廣泛採用，並與聯合國永續發展目標保持一致。在本文中，我們提出了一種新的方法，使用科學機器學習框架來預測和長期預測電池劣化，該框架將領域知識與神經網路整合在一起，為預測短期電池健康狀況和預測長期劣化提供更具可解釋性和科學依據的解決方案。這種混合方法捕捉已知和未知的劣化動態，在減少資料需求的同時提高預測準確度。我們納入真實資料來告知我們的模型，確保預測和預測都反映實際情況。該模型在實驗資料中使用 UDE 達到 9.90 的 MSE，使用 NeuralODE 達到 11.55，使用 UDE 損失 1.6986，使用 NeuralODE 達到 2.49 的 MSE，證明了我們方法的精確度有所提升。將資料驅動的洞察與 SciML 在可解釋性和可擴充性方面的優勢相結合，可以實現強大的電池管理。透過提升電池壽命和減少浪費，我們的做法有助於能源系統永續發展，並加速全球朝向更清潔、更負責任的能源解決方案過渡，與聯合國永續發展目標議程保持一致。
+
+##### **Deep Learning Applications in Medical Image Analysis: Advancements, Challenges, and Future Directions**
+2410.14131v1 by Aimina Ali Eli, Abida Ali
+
+Medical image analysis has emerged as an essential element of contemporary
+healthcare, facilitating physicians in achieving expedited and precise
+diagnosis. Recent breakthroughs in deep learning, a subset of artificial
+intelligence, have markedly revolutionized the analysis of medical pictures,
+improving the accuracy and efficiency of clinical procedures. Deep learning
+algorithms, especially convolutional neural networks (CNNs), have demonstrated
+remarkable proficiency in autonomously learning features from multidimensional
+medical pictures, including MRI, CT, and X-ray scans, without the necessity for
+manual feature extraction. These models have been utilized across multiple
+medical disciplines, including pathology, radiology, ophthalmology, and
+cardiology, where they aid in illness detection, classification, and
+segmentation tasks......
+
+摘要：醫療影像分析已成為現代醫療保健中不可或缺的元素，協助醫師快速且精確地進行診斷。深度學習（人工智慧的子集）的最新突破顯著地革新了醫學影像的分析，提升臨床程序的準確性和效率。深度學習演算法，尤其是卷積神經網路（CNN），已展現出從多維度醫學影像（包括 MRI、CT 和 X 光掃描）中自主學習特徵的卓越能力，無需手動特徵萃取。這些模型已應用於多種醫學領域，包括病理學、放射學、眼科學和心臟病學，協助疾病偵測、分類和分割任務......
+
+##### **Identifying High Consideration E-Commerce Search Queries**
+2410.13951v1 by Zhiyu Chen, Jason Choi, Besnik Fetahu, Shervin Malmasi
+
+In e-commerce, high consideration search missions typically require careful
+and elaborate decision making, and involve a substantial research investment
+from customers. We consider the task of identifying High Consideration (HC)
+queries. Identifying such queries enables e-commerce sites to better serve user
+needs using targeted experiences such as curated QA widgets that help users
+reach purchase decisions. We explore the task by proposing an Engagement-based
+Query Ranking (EQR) approach, focusing on query ranking to indicate potential
+engagement levels with query-related shopping knowledge content during product
+search. Unlike previous studies on predicting trends, EQR prioritizes
+query-level features related to customer behavior, finance, and catalog
+information rather than popularity signals. We introduce an accurate and
+scalable method for EQR and present experimental results demonstrating its
+effectiveness. Offline experiments show strong ranking performance. Human
+evaluation shows a precision of 96% for HC queries identified by our model. The
+model was commercially deployed, and shown to outperform human-selected queries
+in terms of downstream customer impact, as measured through engagement.
+
+摘要：在電子商務中，高考慮搜尋任務通常需要謹慎而精細的決策制定，並涉及客戶大量的研究投資。我們考慮了識別高考慮 (HC) 查詢的任務。識別此類查詢能使電子商務網站使用目標體驗（例如協助使用者做出購買決策的精選問答小工具）來更好地滿足使用者需求。我們透過提出以參與為基礎的查詢排名 (EQR) 方法來探索此任務，專注於查詢排名以指出在產品搜尋期間與查詢相關的購物知識內容的潛在參與層級。與先前預測趨勢的研究不同，EQR 優先考慮與客戶行為、財務和目錄資訊相關的查詢層級功能，而不是熱門度訊號。我們介紹了一種準確且可擴充的 EQR 方法，並展示了其有效性的實驗結果。離線實驗顯示出強大的排名效能。人工評估顯示我們的模型識別出的 HC 查詢有 96% 的準確度。該模型已商業化部署，並顯示在參與度衡量標準下，其效能優於人工選取的查詢，以影響下游客戶。
+
+##### **The KnowWhereGraph Ontology**
+2410.13948v1 by Cogan Shimizu, Shirly Stephe, Adrita Barua, Ling Cai, Antrea Christou, Kitty Currier, Abhilekha Dalal, Colby K. Fisher, Pascal Hitzler, Krzysztof Janowicz, Wenwen Li, Zilong Liu, Mohammad Saeid Mahdavinejad, Gengchen Mai, Dean Rehberger, Mark Schildhauer, Meilin Shi, Sanaz Saki Norouzi, Yuanyuan Tian, Sizhe Wang, Zhangyu Wang, Joseph Zalewski, Lu Zhou, Rui Zhu
+
+KnowWhereGraph is one of the largest fully publicly available geospatial
+knowledge graphs. It includes data from 30 layers on natural hazards (e.g.,
+hurricanes, wildfires), climate variables (e.g., air temperature,
+precipitation), soil properties, crop and land-cover types, demographics, and
+human health, various place and region identifiers, among other themes. These
+have been leveraged through the graph by a variety of applications to address
+challenges in food security and agricultural supply chains; sustainability
+related to soil conservation practices and farm labor; and delivery of
+emergency humanitarian aid following a disaster. In this paper, we introduce
+the ontology that acts as the schema for KnowWhereGraph. This broad overview
+provides insight into the requirements and design specifications for the graph
+and its schema, including the development methodology (modular ontology
+modeling) and the resources utilized to implement, materialize, and deploy
+KnowWhereGraph with its end-user interfaces and public query SPARQL endpoint.
+
+摘要：KnowWhereGraph 是最大的完全公開可用的地理空間知識圖譜之一。它包含來自 30 層的自然災害（例如颶風、野火）、氣候變量（例如氣溫、降水）、土壤特性、作物和土地覆蓋類型、人口統計和人類健康、各種地方和區域識別符等主題的數據。這些數據已通過圖表被各種應用程式利用，以應對糧食安全和農業供應鏈中的挑戰；與土壤保育措施和農場勞動力相關的可持續性；以及在災害發生後提供緊急人道主義援助。在本文中，我們介紹了作為 KnowWhereGraph 架構的本体。這個廣泛的概述提供了對圖表及其架構的要求和設計規範的見解，包括開發方法（模組化本体建模）和用於實作、具體化和部署 KnowWhereGraph 及其最終使用者介面和公開查詢 SPARQL 端點的資源。
+
 ##### **The Disparate Benefits of Deep Ensembles**
 2410.13831v1 by Kajetan Schweighofer, Adrian Arnaiz-Rodriguez, Sepp Hochreiter, Nuria Oliver
 
@@ -796,6 +912,28 @@ imaging markers that will support disorder stratification, monitor progression,
 and evaluate therapeutic effectiveness.
 
 摘要：許多神經發育障礙可以理解為大腦發育過程中神經交互作用模式的差異。神經影像學的進步通過使用擴散磁振造影纖維束攝影術將大腦建模為網路結構，闡明了這些模式。然而，在這些高度複雜的大腦網路中，描述和量化神經發育障礙的個體異質性仍然是一個重大的挑戰。在本文中，我們首次提出了一個框架，該框架將深度生成模型與基於圖形的規範模型相結合，以描述神經典型人群中的大腦網路發展，然後可以用於量化與障礙相關的個體神經分歧。我們的深度生成模型結合了受生物啟發的接線約束，以有效捕捉神經典型大腦網路的發展軌跡。神經分歧通過將個體與這種神經典型軌跡進行比較來量化，從而能夠創建區域分歧圖，揭示每個大腦區域的潛在發育差異，以及基於預測腦齡差距的整體神經分歧得分。我們通過將此框架應用於大量自閉症譜系障礙兒童樣本，展示了這種臨床效用，表明個性化的區域分歧圖有助於解析自閉症的異質性，並且神經分歧得分與臨床評估相關。總之，我們提供了強大的工具來量化大腦網路中的神經發育分歧，為開發成像標記鋪平了道路，這些標記將支持障礙分層、監控進展和評估治療效果。
+
+##### **Deep Learning Based XIoT Malware Analysis: A Comprehensive Survey, Taxonomy, and Research Challenges**
+2410.13894v1 by Rami Darwish, Mahmoud Abdelsalam, Sajad Khorsandroo
+
+The Internet of Things (IoT) is one of the fastest-growing computing
+industries. By the end of 2027, more than 29 billion devices are expected to be
+connected. These smart devices can communicate with each other with and without
+human intervention. This rapid growth has led to the emergence of new types of
+malware. However, traditional malware detection methods, such as
+signature-based and heuristic-based techniques, are becoming increasingly
+ineffective against these new types of malware. Therefore, it has become
+indispensable to find practical solutions for detecting IoT malware. Machine
+Learning (ML) and Deep Learning (DL) approaches have proven effective in
+dealing with these new IoT malware variants, exhibiting high detection rates.
+In this paper, we bridge the gap in research between the IoT malware analysis
+and the wide adoption of deep learning in tackling the problems in this domain.
+As such, we provide a comprehensive review on deep learning based malware
+analysis across various categories of the IoT domain (i.e. Extended Internet of
+Things (XIoT)), including Industrial IoT (IIoT), Internet of Medical Things
+(IoMT), Internet of Vehicles (IoV), and Internet of Battlefield Things (IoBT).
+
+摘要：物联网 (IoT) 是成长最快速的运算产业之一。在 2027 年底之前，预计将有超过 290 亿台装置连接。这些智慧装置可以彼此沟通，不论是否有人为介入。这种快速的成长导致出现新型态的恶意软体。然而，传统的恶意软体侦测方法，例如基于特征码和基于启发法的技术，对于这些新型态的恶意软体变得越来越无效。因此，寻找侦测 IoT 恶意软体的实用解决方案已变得不可或缺。机器学习 (ML) 和深度学习 (DL) 方法已被证明在处理这些新型态 IoT 恶意软体变种方面很有效，展现出很高的侦测率。在本文中，我们弥合了 IoT 恶意软体分析与广泛采用深度学习来解决此领域问题之间的研究差距。因此，我们针对各种类别的 IoT 领域（即扩展物联网 (XIoT)），包括工业物联网 (IIoT)、医疗物联网 (IoMT)、车联网 (IoV) 和战场物联网 (IoBT) 提供一份基于深度学习的恶意软体分析的综合评论。
 
 ##### **Thinking LLMs: General Instruction Following with Thought Generation**
 2410.10630v1 by Tianhao Wu, Janice Lan, Weizhe Yuan, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar
@@ -2533,152 +2671,4 @@ their efficacy and reliability in aiding therapeutic processes and delivering
 accurate information to individuals seeking mental health support.
 
 摘要：本研究探討大型語言模型 (LLM) 中幻覺的表現，及其對心理健康領域應用產生的後續影響。主要目標是辨別遏制幻覺發生的有效策略，從而加強 LLM 在促進心理健康干預措施（例如治療、諮詢和傳播相關資訊）方面的可靠性和安全性。透過嚴謹的調查和分析，本研究試圖闡明導致 LLM 產生幻覺的潛在機制，並進一步提出有針對性的干預措施來減輕其發生。透過解決這個關鍵問題，本研究致力於建立一個更穩健的架構，以便在心理健康情境中使用 LLM，確保其在協助治療過程和向尋求心理健康支持的個人提供準確資訊方面的效能和可靠性。
-
-##### **On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**
-2410.10850v2 by Toluwani Aremu, Oluwakemi Akinwehinmi, Chukwuemeka Nwagu, Syed Ishtiaque Ahmed, Rita Orji, Pedro Arnau Del Amo, Abdulmotaleb El Saddik
-
-We investigate and observe the behaviour and performance of Large Language
-Model (LLM)-backed chatbots in addressing misinformed prompts and questions
-with demographic information within the domains of Climate Change and Mental
-Health. Through a combination of quantitative and qualitative methods, we
-assess the chatbots' ability to discern the veracity of statements, their
-adherence to facts, and the presence of bias or misinformation in their
-responses. Our quantitative analysis using True/False questions reveals that
-these chatbots can be relied on to give the right answers to these close-ended
-questions. However, the qualitative insights, gathered from domain experts,
-shows that there are still concerns regarding privacy, ethical implications,
-and the necessity for chatbots to direct users to professional services. We
-conclude that while these chatbots hold significant promise, their deployment
-in sensitive areas necessitates careful consideration, ethical oversight, and
-rigorous refinement to ensure they serve as a beneficial augmentation to human
-expertise rather than an autonomous solution.
-
-摘要：我們調查並觀察大型語言模型 (LLM) 支持的聊天機器人在氣候變遷和心理健康領域中處理錯誤訊息提示和問題的行為和表現。透過結合量化和質性方法，我們評估聊天機器人辨別陳述真實性的能力、他們對事實的堅持，以及他們回應中偏見或錯誤訊息的存在。我們使用真/假問題的量化分析顯示，可以依賴這些聊天機器人對這些封閉式問題給出正確答案。然而，從領域專家收集的質性見解顯示，對於隱私、倫理影響以及聊天機器人將使用者導向專業服務的必要性仍有疑慮。我們得出結論，儘管這些聊天機器人極具前景，但在敏感領域部署它們需要仔細考量、道德監督和嚴格改進，以確保它們作為人類專業知識的有益擴充，而不是自主解決方案。
-
-##### **RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**
-2410.04366v1 by Yuyang Miao, Zehua Chen, Chang Li, Danilo Mandic
-
-Respiratory rate (RR) is a critical health indicator often monitored under
-inconvenient scenarios, limiting its practicality for continuous monitoring.
-Photoplethysmography (PPG) sensors, increasingly integrated into wearable
-devices, offer a chance to continuously estimate RR in a portable manner. In
-this paper, we propose RespDiff, an end-to-end multi-scale RNN diffusion model
-for respiratory waveform estimation from PPG signals. RespDiff does not require
-hand-crafted features or the exclusion of low-quality signal segments, making
-it suitable for real-world scenarios. The model employs multi-scale encoders,
-to extract features at different resolutions, and a bidirectional RNN to
-process PPG signals and extract respiratory waveform. Additionally, a spectral
-loss term is introduced to optimize the model further. Experiments conducted on
-the BIDMC dataset demonstrate that RespDiff outperforms notable previous works,
-achieving a mean absolute error (MAE) of 1.18 bpm for RR estimation while
-others range from 1.66 to 2.15 bpm, showing its potential for robust and
-accurate respiratory monitoring in real-world applications.
-
-摘要：呼吸速率 (RR) 是一項重要的健康指標，通常在不方便的情況下進行監測，這限制了其在持續監測中的實用性。光電容積描記法 (PPG) 感測器日益整合到可穿戴裝置中，提供了一種以可攜式方式持續估計 RR 的機會。在本文中，我們提出了 RespDiff，這是一個端到端的多分辨率 RNN 擴散模型，用於從 PPG 訊號中估計呼吸波形。RespDiff 不需要人工特徵或排除低品質訊號片段，使其適用於實際場景。該模型採用多分辨率編碼器，以不同解析度提取特徵，並採用雙向 RNN 來處理 PPG 訊號和提取呼吸波形。此外，還引入了頻譜損失項以進一步最佳化模型。在 BIDMC 資料集上進行的實驗表明，RespDiff 優於之前的顯著研究，在 RR 估計中實現了 1.18 bpm 的平均絕對誤差 (MAE)，而其他誤差範圍從 1.66 到 2.15 bpm，顯示了其在實際應用中進行穩健且準確的呼吸監測的潛力。
-
-##### **Applying Quantum Autoencoders for Time Series Anomaly Detection**
-2410.04154v2 by Robin Frehner, Kurt Stockinger
-
-Anomaly detection is an important problem with applications in various
-domains such as fraud detection, pattern recognition or medical diagnosis.
-Several algorithms have been introduced using classical computing approaches.
-However, using quantum computing for solving anomaly detection problems in time
-series data is a widely unexplored research field.
-  This paper explores the application of quantum autoencoders to time series
-anomaly detection. We investigate two primary techniques for classifying
-anomalies: (1) Analyzing the reconstruction error generated by the quantum
-autoencoder and (2) latent representation analysis. Our simulated experimental
-results, conducted across various ansaetze, demonstrate that quantum
-autoencoders consistently outperform classical deep learning-based autoencoders
-across multiple datasets. Specifically, quantum autoencoders achieve superior
-anomaly detection performance while utilizing 60-230 times fewer parameters and
-requiring five times fewer training iterations. In addition, we implement our
-quantum encoder on real quantum hardware. Our experimental results demonstrate
-that quantum autoencoders achieve anomaly detection performance on par with
-their simulated counterparts.
-
-摘要：異常偵測是一個重要的問題，在各個領域都有應用，例如詐欺偵測、模式辨識或醫療診斷。
-已經有使用傳統運算方法提出的多種演算法。
-然而，使用量子運算來解決時間序列資料中的異常偵測問題是一個廣泛未開發的研究領域。
-本文探討量子自動編碼器在時間序列異常偵測的應用。我們研究了兩種分類異常的主要技術：(1) 分析量子自動編碼器產生的重建誤差，以及 (2) 潛在表示分析。我們在各種 ansaetze 下進行模擬實驗，結果表明，量子自動編碼器在多個資料集上始終優於基於經典深度學習的自動編碼器。具體來說，量子自動編碼器在使用少 60-230 倍的參數和需要少五倍的訓練反覆運算的情況下，實現了卓越的異常偵測效能。此外，我們在真實量子硬體上實現了我們的量子編碼器。我們的實驗結果表明，量子自動編碼器實現了與其模擬對應物相當的異常偵測效能。
-
-##### **DAMMI:Daily Activities in a Psychologically Annotated Multi-Modal IoT dataset**
-2410.04152v1 by Mohsen Falah Rad, Kamrad Khoshhal Roudposhti, Mohammad Hassan Khoobkar, Mohsen Shirali, Zahra Ahmadi, Carlos Fernandez-Llatas
-
-The growth in the elderly population and the shift in the age pyramid have
-increased the demand for healthcare and well-being services. To address this
-concern, alongside the rising cost of medical care, the concept of ageing at
-home has emerged, driven by recent advances in medical and technological
-solutions. Experts in computer science, communication technology, and
-healthcare have collaborated to develop affordable health solutions by
-employing sensors in living environments, wearable devices, and smartphones, in
-association with advanced data mining and intelligent systems with learning
-capabilities, to monitor, analyze, and predict the health status of elderly
-individuals. However, implementing intelligent healthcare systems and
-developing analytical techniques requires testing and evaluating algorithms on
-real-world data. Despite the need, there is a shortage of publicly available
-datasets that meet these requirements. To address this gap, we present the
-DAMMI dataset in this work, designed to support researchers in the field. The
-dataset includes daily activity data of an elderly individual collected via
-home-installed sensors, smartphone data, and a wristband over 146 days. It also
-contains daily psychological reports provided by a team of psychologists.
-Furthermore, the data collection spans significant events such as the COVID-19
-pandemic, New Year's holidays, and the religious month of Ramadan, offering
-additional opportunities for analysis. In this paper, we outline detailed
-information about the data collection system, the types of data recorded, and
-pre-processed event logs. This dataset is intended to assist professionals in
-IoT and data mining in evaluating and implementing their research ideas.
-
-摘要：隨著老年人口的增長和年齡金字塔的轉變，對醫療保健和福祉服務的需求也隨之增加。為了解決這個問題，加上醫療保健成本的上升，在家中老化的概念應運而生，這得益於醫療和技術解決方案的最新進展。電腦科學、通訊技術和醫療保健方面的專家合作開發了經濟實惠的健康解決方案，方法是在生活環境中使用感測器、穿戴式裝置和智慧型手機，並結合先進的資料探勘和具備學習能力的智慧系統，來監控、分析和預測老年人的健康狀況。然而，實施智慧型醫療保健系統和開發分析技術需要在真實世界資料上測試和評估演算法。儘管有這個需求，但符合這些要求的公開可用資料集卻很缺乏。為了解決這個差距，我們在這項工作中提出了 DAMMI 資料集，旨在支援該領域的研究人員。該資料集包括透過安裝在家的感測器、智慧型手機資料和一個手環在 146 天內收集到的老年人日常活動資料。它還包含由心理學家團隊提供的每日心理報告。此外，資料收集涵蓋了重要的事件，例如 COVID-19 大流行、新年假期和齋戒月，為分析提供了額外的機會。在本文中，我們概述了有關資料收集系統、記錄的資料類型和預處理事件記錄的詳細資訊。此資料集旨在協助物聯網和資料探勘方面的專業人員評估和實施其研究構想。
-
-##### **From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings**
-2410.04133v1 by Jun Li, Aaron Aguirre, Junior Moura, Che Liu, Lanhai Zhong, Chenxi Sun, Gari Clifford, Brandon Westover, Shenda Hong
-
-Artificial Intelligence (AI) has shown great promise in electrocardiogram
-(ECG) analysis and cardiovascular disease detection. However, developing a
-general AI-ECG model has been challenging due to inter-individual variability
-and the diversity of ECG diagnoses, limiting existing models to specific
-diagnostic tasks and datasets. Moreover, current AI-ECG models struggle to
-achieve comparable performance between single-lead and 12-lead ECGs, limiting
-the application of AI-ECG to portable and wearable ECG devices. To address
-these limitations, we introduce an ECG Foundation Model (ECGFounder), a
-general-purpose model that leverages real-world ECG annotations from cardiology
-experts to broaden the diagnostic capabilities of ECG analysis. ECGFounder is
-trained on over 10 million ECGs with 150 label categories from the
-Harvard-Emory ECG Database, enabling comprehensive cardiovascular disease
-diagnosis through ECG analysis. The model is designed to be both effective
-out-of-the-box and fine-tunable for downstream tasks, maximizing usability.
-More importantly, we extend its application to single-lead ECGs, enabling
-complex condition diagnoses and supporting various downstream tasks in mobile
-and remote monitoring scenarios. Experimental results demonstrate that
-ECGFounder achieves expert-level performance on internal validation sets for
-both 12-lead and single-lead ECGs, while also exhibiting strong classification
-performance and generalization across various diagnoses on external validation
-sets. When fine-tuned, ECGFounder outperforms baseline models in demographics
-detection, clinical event detection, and cross-modality cardiac rhythm
-diagnosis. The trained model and data will be publicly released upon
-publication through the bdsp.io. Our code is available at
-https://github.com/bdsp-core/ECGFounder.
-
-摘要：人工智慧（AI）在心電圖（ECG）分析和心血管疾病檢測方面已展現極佳的前景。然而，由於個體間變異性和 ECG 診斷的多樣性，開發通用 AI-ECG 模型一直是一項挑戰，這限制了現有模型只能用於特定的診斷任務和資料集。此外，目前的 AI-ECG 模型難以在單導程和 12 導程 ECG 之間取得相當的效能，這限制了 AI-ECG 應用於可攜式和可穿戴 ECG 裝置。為了克服這些限制，我們引進了一種 ECG 基礎模型（ECGFounder），這是一種通用模型，它利用來自心臟病專家的真實世界 ECG 標註，以擴展 ECG 分析的診斷能力。ECGFounder 經由哈佛-艾默里 ECG 資料庫中超過 1 千萬個 ECG 和 150 個標籤類別進行訓練，能透過 ECG 分析進行全面的心血管疾病診斷。該模型被設計為開箱即用且可微調以進行下游任務，以最大化可用性。更重要的是，我們將其應用延伸至單導程 ECG，能進行複雜狀況診斷，並支援行動和遠端監控情境中的各種下游任務。實驗結果顯示，ECGFounder 在 12 導程和單導程 ECG 的內部驗證集中達到了專家級的效能，同時在外部驗證集中對各種診斷也展現出強大的分類效能和泛化能力。經過微調後，ECGFounder 在人口統計資料檢測、臨床事件檢測和跨模態心律診斷方面優於基準模型。訓練好的模型和資料將在出版後透過 bdsp.io 公開發布。我們的程式碼可在 https://github.com/bdsp-core/ECGFounder 取得。
-
-##### **Taming the Tail: Leveraging Asymmetric Loss and Pade Approximation to Overcome Medical Image Long-Tailed Class Imbalance**
-2410.04084v1 by Pankhi Kashyap, Pavni Tandon, Sunny Gupta, Abhishek Tiwari, Ritwik Kulkarni, Kshitij Sharad Jadhav
-
-Long-tailed problems in healthcare emerge from data imbalance due to
-variability in the prevalence and representation of different medical
-conditions, warranting the requirement of precise and dependable classification
-methods. Traditional loss functions such as cross-entropy and binary
-cross-entropy are often inadequate due to their inability to address the
-imbalances between the classes with high representation and the classes with
-low representation found in medical image datasets. We introduce a novel
-polynomial loss function based on Pade approximation, designed specifically to
-overcome the challenges associated with long-tailed classification. This
-approach incorporates asymmetric sampling techniques to better classify
-under-represented classes. We conducted extensive evaluations on three publicly
-available medical datasets and a proprietary medical dataset. Our
-implementation of the proposed loss function is open-sourced in the public
-repository:https://github.com/ipankhi/ALPA.
-
-摘要：醫療保健中的長尾問題源於數據不平衡，這是由於不同醫療狀況的流行率和表現存在變異性，這保證了對精確且可靠的分類方法的需求。傳統損失函數（例如交叉熵和二元交叉熵）通常不足，因為它們無法解決醫療影像資料集中表示率高的類別與表示率低的類別之間的不平衡。我們引入了一種基於 Pade 近似的多項式損失函數，專門設計用於克服與長尾分類相關的挑戰。此方法結合了非對稱抽樣技術，以更好地對代表性不足的類別進行分類。我們對三個公開的醫療資料集和一個專有醫療資料集進行了廣泛的評估。我們對提議損失函數的實作已在公共儲存庫中開源：https://github.com/ipankhi/ALPA。
 

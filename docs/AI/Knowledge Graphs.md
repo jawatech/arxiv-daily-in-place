@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
+|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211v1](http://arxiv.org/abs/2410.14211v1)|null|
+|**2024-10-18**|**Supervised Chain of Thought**|Xiang Zhang et.al.|[2410.14198v1](http://arxiv.org/abs/2410.14198v1)|null|
+|**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057v1](http://arxiv.org/abs/2410.14057v1)|null|
+|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987v1](http://arxiv.org/abs/2410.13987v1)|null|
 |**2024-10-17**|**The Mystery of the Pathological Path-star Task for Language Models**|Arvid Frydenlund et.al.|[2410.13779v1](http://arxiv.org/abs/2410.13779v1)|null|
 |**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765v1](http://arxiv.org/abs/2410.13765v1)|null|
 |**2024-10-17**|**LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models**|David Hoffmann et.al.|[2410.13299v1](http://arxiv.org/abs/2410.13299v1)|null|
@@ -97,13 +102,137 @@
 |**2024-09-28**|**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**|Zheng Wang et.al.|[2409.19401v1](http://arxiv.org/abs/2409.19401v1)|null|
 |**2024-09-27**|**CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**|Haobo Li et.al.|[2409.19058v1](http://arxiv.org/abs/2409.19058v1)|null|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v2](http://arxiv.org/abs/2409.18924v2)|null|
-|**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911v1](http://arxiv.org/abs/2409.18911v1)|[link](https://github.com/kuldeep7688/soft-measures-causal-intelligence)|
-|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743v1](http://arxiv.org/abs/2409.18743v1)|null|
-|**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678v1](http://arxiv.org/abs/2409.18678v1)|null|
-|**2024-09-26**|**LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge**|Daniil Gurgurov et.al.|[2409.18193v1](http://arxiv.org/abs/2409.18193v1)|null|
-|**2024-09-26**|**A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications**|Pengfei Wang et.al.|[2410.08224v1](http://arxiv.org/abs/2410.08224v1)|null|
 
 #### Abstracts
+##### **TransBox: EL++-closed Ontology Embedding**
+2410.14571v1 by Hui Yang, Jiaoyan Chen, Uli Sattler
+
+OWL (Web Ontology Language) ontologies, which are able to represent both
+relational and type facts as standard knowledge graphs and complex domain
+knowledge in Description Logic (DL) axioms, are widely adopted in domains such
+as healthcare and bioinformatics. Inspired by the success of knowledge graph
+embeddings, embedding OWL ontologies has gained significant attention in recent
+years. Current methods primarily focus on learning embeddings for atomic
+concepts and roles, enabling the evaluation based on normalized axioms through
+specially designed score functions. However, they often neglect the embedding
+of complex concepts, making it difficult to infer with more intricate axioms.
+This limitation reduces their effectiveness in advanced reasoning tasks, such
+as Ontology Learning and ontology-mediated Query Answering. In this paper, we
+propose EL++-closed ontology embeddings which are able to represent any logical
+expressions in DL via composition. Furthermore, we develop TransBox, an
+effective EL++-closed ontology embedding method that can handle many-to-one,
+one-to-many and many-to-many relations. Our extensive experiments demonstrate
+that TransBox often achieves state-of-the-art performance across various
+real-world datasets for predicting complex axioms.
+
+摘要：OWL（Web Ontology Language）本体，能够将关系和类型事实表示为标准知识图和描述逻辑 (DL) 公理中的复杂领域知识，在医疗保健和生物信息学等领域得到广泛采用。受知识图嵌入的成功启发，嵌入 OWL 本体近年来备受关注。当前方法主要集中在学习原子概念和角色的嵌入，通过专门设计的评分函数，支持基于归一化公理的评估。然而，它们经常忽略复杂概念的嵌入，这使得难以推断出更复杂的公理。这种限制降低了它们在高级推理任务（例如本体学习和本体介导查询应答）中的有效性。在本文中，我们提出了 EL++ 封闭本体嵌入，它能够通过组合来表示 DL 中的任何逻辑表达式。此外，我们开发了 TransBox，一种有效的 EL++ 封闭本体嵌入方法，可以处理多对一、一对多和多对多关系。我们广泛的实验表明，TransBox 在预测复杂公理的各种真实世界数据集上通常都能达到最先进的性能。
+
+##### **Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**
+2410.14211v1 by Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Xin Yuan, Wenjie Zhang
+
+Large Language Models (LLMs) have achieved impressive results in various
+tasks but struggle with hallucination problems and lack of relevant knowledge,
+especially in deep complex reasoning and knowledge-intensive tasks. Knowledge
+Graphs (KGs), which capture vast amounts of facts in a structured format, offer
+a reliable source of knowledge for reasoning. However, existing KG-based LLM
+reasoning methods face challenges like handling multi-hop reasoning,
+multi-entity questions, and effectively utilizing graph structures. To address
+these issues, we propose Paths-over-Graph (PoG), a novel method that enhances
+LLM reasoning by integrating knowledge reasoning paths from KGs, improving the
+interpretability and faithfulness of LLM outputs. PoG tackles multi-hop and
+multi-entity questions through a three-phase dynamic multi-hop path
+exploration, which combines the inherent knowledge of LLMs with factual
+knowledge from KGs. In order to improve the efficiency, PoG prunes irrelevant
+information from the graph exploration first and introduces efficient
+three-step pruning techniques that incorporate graph structures, LLM prompting,
+and a pre-trained language model (e.g., SBERT) to effectively narrow down the
+explored candidate paths. This ensures all reasoning paths contain highly
+relevant information captured from KGs, making the reasoning faithful and
+interpretable in problem-solving. PoG innovatively utilizes graph structure to
+prune the irrelevant noise and represents the first method to implement
+multi-entity deep path detection on KGs for LLM reasoning tasks. Comprehensive
+experiments on five benchmark KGQA datasets demonstrate PoG outperforms the
+state-of-the-art method ToG across GPT-3.5-Turbo and GPT-4, achieving an
+average accuracy improvement of 18.9%. Notably, PoG with GPT-3.5-Turbo
+surpasses ToG with GPT-4 by up to 23.9%.
+
+摘要：大型語言模型 (LLM) 在各種任務中取得令人印象深刻的成果，但卻難以克服幻覺問題，且缺乏相關知識，尤其是在深入複雜的推理和知識密集型任務中。知識圖譜 (KG) 以結構化格式擷取大量事實，為推理提供可靠的知識來源。然而，現有的基於 KG 的 LLM 推理方法面臨處理多跳推理、多實體問題和有效利用圖形結構等挑戰。為了解決這些問題，我們提出圖形路徑 (PoG)，這是一種創新的方法，透過整合來自 KG 的知識推理路徑來增強 LLM 推理，進而提升 LLM 輸出的可解釋性和真實性。PoG 透過三階段動態多跳路徑探索來處理多跳和多實體問題，將 LLM 的內在知識與來自 KG 的事實知識結合起來。為了提高效率，PoG 首先從圖形探索中修剪不相關的資訊，並引入有效的三步驟修剪技術，結合圖形結構、LLM 提示和預先訓練的語言模型 (例如 SBERT)，以有效縮小探索的候選路徑。這確保所有推理路徑都包含從 KG 中擷取的高度相關資訊，使推理在問題解決中保持真實且可解釋。PoG 創新地利用圖形結構來修剪無關的雜訊，並首次實作在 KG 上針對 LLM 推理任務進行多實體深度路徑偵測的方法。在五個基準 KGQA 資料集上進行的全面實驗證明，PoG 在 GPT-3.5-Turbo 和 GPT-4 上優於最先進的方法 ToG，平均準確度提升 18.9%。值得注意的是，搭載 GPT-3.5-Turbo 的 PoG 比搭載 GPT-4 的 ToG 高出 23.9%。
+
+##### **Supervised Chain of Thought**
+2410.14198v1 by Xiang Zhang, Dujian Ding
+
+Large Language Models (LLMs) have revolutionized natural language processing
+and hold immense potential for advancing Artificial Intelligence. However, the
+core architecture of most mainstream LLMs -- the Transformer -- has inherent
+limitations in computational depth, rendering them theoretically incapable of
+solving many reasoning tasks that demand increasingly deep computations. Chain
+of Thought (CoT) prompting has emerged as a technique to address these
+architectural limitations, as evidenced by several theoretical studies. It
+offers a promising approach to solving complex reasoning tasks that were
+previously beyond the capabilities of these models. Despite its successes, CoT
+and its variants (such as Tree of Thought, Graph of Thought, etc.) rely on a
+"one-prompt-for-all" approach, using a single prompt structure (e.g., "think
+step by step") for a wide range of tasks -- from counting and sorting to
+solving mathematical and algorithmic problems. This approach poses significant
+challenges for models to generate the correct reasoning steps, as the model
+must navigate through a vast prompt template space to find the appropriate
+template for each task. In this work, we build upon previous theoretical
+analyses of CoT to demonstrate how the one-prompt-for-all approach can
+negatively affect the computability of LLMs. We partition the solution search
+space into two: the prompt space and the answer space. Our findings show that
+task-specific supervision is essential for navigating the prompt space
+accurately and achieving optimal performance. Through experiments with
+state-of-the-art LLMs, we reveal a gap in reasoning performance when
+supervision is applied versus when it is not.
+
+摘要：大型語言模型 (LLM) 徹底改變了自然語言處理，並具備促進人工智慧發展的巨大潛力。然而，大多數主流 LLM 的核心架構（Transformer）在計算深度方面有其內在限制，理論上無法解決許多需要越來越深入計算的推理任務。思維鏈 (CoT) 提示已成為解決這些架構限制的一種技術，這已由幾項理論研究證實。它提供了一個有前途的方法來解決複雜的推理任務，這些任務以前超出了這些模型的能力。儘管取得了成功，CoT 及其變體（例如思維樹、思維圖等）依賴於「一提示適用所有」的方法，對各種任務（從計數和排序到解決數學和演算法問題）使用單一的提示結構（例如，「逐步思考」）。這種方法對模型產生正確的推理步驟構成了重大挑戰，因為模型必須在廣泛的提示範本空間中導航，才能為每個任務找到適當的範本。在這項工作中，我們建立在 CoT 先前的理論分析之上，說明「一提示適用所有」的方法如何對 LLM 的可計算性產生負面影響。我們將解的搜尋空間分為兩部分：提示空間和答案空間。我們的研究結果表明，特定於任務的監督對於準確導航提示空間並實現最佳效能至關重要。透過使用最先進的 LLM 進行實驗，我們揭示了在應用監督與未應用監督時推理效能的差距。
+
+##### **Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**
+2410.14057v1 by Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, Yunyao Li
+
+Translating text that contains entity names is a challenging task, as
+cultural-related references can vary significantly across languages. These
+variations may also be caused by transcreation, an adaptation process that
+entails more than transliteration and word-for-word translation. In this paper,
+we address the problem of cross-cultural translation on two fronts: (i) we
+introduce XC-Translate, the first large-scale, manually-created benchmark for
+machine translation that focuses on text that contains potentially
+culturally-nuanced entity names, and (ii) we propose KG-MT, a novel end-to-end
+method to integrate information from a multilingual knowledge graph into a
+neural machine translation model by leveraging a dense retrieval mechanism. Our
+experiments and analyses show that current machine translation systems and
+large language models still struggle to translate texts containing entity
+names, whereas KG-MT outperforms state-of-the-art approaches by a large margin,
+obtaining a 129% and 62% relative improvement compared to NLLB-200 and GPT-4,
+respectively.
+
+摘要：翻譯包含實體名稱的文字是一項具有挑戰性的任務，因為與文化相關的參考在不同語言中可能會有很大差異。這些差異也可能是由轉譯造成的，轉譯是一種改編過程，不僅涉及音譯和逐字翻譯。在本文中，我們從兩個方面解決跨文化翻譯的問題：(i) 我們介紹 XC-Translate，這是第一個針對包含潛在文化細微差別實體名稱的文字的大規模、人工建立的機器翻譯基準測試，以及 (ii) 我們提出 KG-MT，這是一種新的端到端方法，通過利用密集檢索機制將來自多語言知識圖譜的資訊整合到神經機器翻譯模型中。我們的實驗和分析表明，目前的機器翻譯系統和大型語言模型在翻譯包含實體名稱的文字時仍存在困難，而 KG-MT 則以大幅優於最先進方法的優勢勝出，與 NLLB-200 和 GPT-4 相比，分別獲得了 129% 和 62% 的相對改進。
+
+##### **RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**
+2410.13987v1 by Jiatan Huang, Mingchen Li, Zonghai Yao, Zhichao Yang, Yongkang Xiao, Feiyun Ouyang, Xiaohan Li, Shuo Han, Hong Yu
+
+Answering complex real-world questions often requires accurate retrieval from
+textual knowledge graphs (TKGs). The scarcity of annotated data, along with
+intricate topological structures, makes this task particularly challenging. As
+the nature of relational path information could enhance the inference ability
+of Large Language Models (LLMs), efficiently retrieving more complex relational
+path information from TKGs presents another key challenge. To tackle these
+challenges, we first develop a Dataset for LLMs Complex Reasoning over Textual
+Knowledge Graphs (RiTeK) with a broad topological structure coverage.We
+synthesize realistic user queries that integrate diverse topological
+structures, relational information, and complex textual descriptions. We
+conduct rigorous expert evaluation to validate the quality of our synthesized
+queries. And then, we introduce an enhanced Monte Carlo Tree Search (MCTS)
+method, Relational MCTS, to automatically extract relational path information
+from textual graphs for specific queries. Our dataset mainly covers the medical
+domain as the relation types and entity are complex and publicly available.
+Experimental results indicate that RiTeK poses significant challenges for
+current retrieval and LLM systems, while the proposed Relational MCTS method
+enhances LLM inference ability and achieves state-of-the-art performance on
+RiTeK.
+
+摘要：回答複雜的現實世界問題通常需要從文本知識圖 (TKG) 中準確擷取。標註資料的稀少，加上複雜的拓撲結構，使得這項任務特別具有挑戰性。由於關係路徑資訊的性質可以增強大型語言模型 (LLM) 的推論能力，從 TKG 有效地擷取更複雜的關係路徑資訊提出了另一個關鍵挑戰。為了應對這些挑戰，我們首先開發了一個具有廣泛拓撲結構涵蓋範圍的文本知識圖 (RiTeK) 上的 LLM 複雜推理資料集。我們綜合了整合了多樣化拓撲結構、關係資訊和複雜文本描述的現實使用者查詢。我們進行嚴格的專家評估，以驗證我們綜合查詢的品質。然後，我們引入一種增強的蒙地卡羅樹搜尋 (MCTS) 方法，即關係 MCTS，以自動從文本圖中擷取特定查詢的關係路徑資訊。我們的資料集主要涵蓋醫療領域，因為關係類型和實體很複雜且公開可用。實驗結果表明，RiTeK 對目前的擷取和 LLM 系統提出了重大挑戰，而所提出的關係 MCTS 方法增強了 LLM 推論能力，並在 RiTeK 上達到了最先進的效能。
+
 ##### **The Mystery of the Pathological Path-star Task for Language Models**
 2410.13779v1 by Arvid Frydenlund
 
@@ -2476,109 +2605,4 @@ potential to support a wide range of applications, including medical education,
 model evaluation, and system integration.
 
 摘要：模擬病人系統在現代醫學教育和研究中扮演著至關重要的角色，提供安全、整合的學習環境，並能進行臨床決策模擬。大型語言模型 (LLM) 能透過高保真度和低成本複製醫療狀況和醫病互動，進而提升模擬病人系統。然而，確保這些系統的有效性和可信度仍然是一項挑戰，因為它們需要一個龐大、多元且精確的病人知識庫，以及穩健且穩定的知識傳播給使用者。在此，我們開發了 AIPatient，一個進階的模擬病人系統，以 AIPatient 知識圖譜 (AIPatient KG) 作為輸入，並以推理檢索增強生成 (Reasoning RAG) 代理工作流程作為生成主幹。AIPatient KG 從重症監護醫學資訊中心 (MIMIC)-III 資料庫中的電子健康紀錄 (EHR) 中抽取資料，產生一個臨床多樣且相關的 1,495 名病患群組，具有很高的知識庫效度 (F1 0.89)。推理 RAG 槓桿了六個 LLM 驅動的代理，跨越檢索、KG 查詢產生、抽象、檢查器、重寫和摘要等任務。這個代理框架在基於 EHR 的醫療問答 (QA) 中達到了 94.15% 的整體準確度，優於不使用代理或僅部分代理整合的基準。我們的系統還具有很高的可讀性 (Flesch 閱讀簡便性中位數 77.23；Flesch Kincaid 等級中位數 5.6)、穩健性 (ANOVA F 值 0.6126，p>0.1) 和穩定性 (ANOVA F 值 0.782，p>0.1)。AIPatient 系統的出色表現突顯了它在支援各種應用程式的潛力，包括醫學教育、模型評估和系統整合。
-
-##### **Soft Measures for Extracting Causal Collective Intelligence**
-2409.18911v1 by Maryam Berijanian, Spencer Dork, Kuldeep Singh, Michael Riley Millikan, Ashlin Riggs, Aadarsh Swaminathan, Sarah L. Gibbs, Scott E. Friedman, Nathan Brugnone
-
-Understanding and modeling collective intelligence is essential for
-addressing complex social systems. Directed graphs called fuzzy cognitive maps
-(FCMs) offer a powerful tool for encoding causal mental models, but extracting
-high-integrity FCMs from text is challenging. This study presents an approach
-using large language models (LLMs) to automate FCM extraction. We introduce
-novel graph-based similarity measures and evaluate them by correlating their
-outputs with human judgments through the Elo rating system. Results show
-positive correlations with human evaluations, but even the best-performing
-measure exhibits limitations in capturing FCM nuances. Fine-tuning LLMs
-improves performance, but existing measures still fall short. This study
-highlights the need for soft similarity measures tailored to FCM extraction,
-advancing collective intelligence modeling with NLP.
-
-摘要：了解和建模集体智慧对于解决复杂的社会系统至关重要。称为模糊认知图（FCM）的有向图提供了一种强大的工具来编码因果心智模型，但从文本中提取高完整性的 FCM 具有挑战性。本研究提出了一种使用大型语言模型（LLM）来自动化 FCM 提取的方法。我们引入了新颖的基于图的相似性度量，并通过通过 Elo 评级系统将其输出与人类判断相关联来评估它们。结果表明与人类评估呈正相关，但即使是表现最好的度量在捕捉 FCM 细微差别方面也表现出局限性。微调 LLM 可以提高性能，但现有措施仍然不足。本研究强调了针对 FCM 提取量身定制的软相似性度量的必要性，通过 NLP 推进了集体智能建模。
-
-##### **OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**
-2409.18743v1 by Yujie Tang, Meiling Wang, Yinan Deng, Zibo Zheng, Jiagui Zhong, Yufeng Yue
-
-In everyday life, frequently used objects like cups often have unfixed
-positions and multiple instances within the same category, and their carriers
-frequently change as well. As a result, it becomes challenging for a robot to
-efficiently navigate to a specific instance. To tackle this challenge, the
-robot must capture and update scene changes and plans continuously. However,
-current object navigation approaches primarily focus on semantic-level and lack
-the ability to dynamically update scene representation. This paper captures the
-relationships between frequently used objects and their static carriers. It
-constructs an open-vocabulary Carrier-Relationship Scene Graph (CRSG) and
-updates the carrying status during robot navigation to reflect the dynamic
-changes of the scene. Based on the CRSG, we further propose an instance
-navigation strategy that models the navigation process as a Markov Decision
-Process. At each step, decisions are informed by Large Language Model's
-commonsense knowledge and visual-language feature similarity. We designed a
-series of long-sequence navigation tasks for frequently used everyday items in
-the Habitat simulator. The results demonstrate that by updating the CRSG, the
-robot can efficiently navigate to moved targets. Additionally, we deployed our
-algorithm on a real robot and validated its practical effectiveness.
-
-摘要：日常生活中，經常使用的物品（例如杯子）通常沒有固定的位置，而且同一類別中有多個實例，其承載者也經常變更。因此，機器人要有效地導航到特定實例變得具有挑戰性。為了應對這一挑戰，機器人必須不斷捕捉和更新場景變更和計畫。然而，目前的物件導航方法主要集中在語義層級，並且缺乏動態更新場景表示的能力。本文捕捉了經常使用的物件及其靜態承載者之間的關係。它構建了一個開放詞彙的承載者關係場景圖 (CRSG)，並在機器人導航期間更新承載狀態以反映場景的動態變化。基於 CRSG，我們進一步提出了一種將導航過程建模為馬可夫決策過程的實例導航策略。在每一步中，決策都由大型語言模型的常識知識和視覺語言特徵相似性來告知。我們為 Habitat 模擬器中的日常常用物品設計了一系列長序列導航任務。結果表明，通過更新 CRSG，機器人可以有效地導航到移動的目標。此外，我們在真實機器人上部署了我們的演算法，並驗證了其實際效能。
-
-##### **Rehearsing Answers to Probable Questions with Perspective-Taking**
-2409.18678v1 by Yung-Yu Shih, Ziwei Xu, Hiroya Takamura, Yun-Nung Chen, Chung-Chi Chen
-
-Question answering (QA) has been a long-standing focus in the NLP field,
-predominantly addressing reading comprehension and common sense QA. However,
-scenarios involving the preparation of answers to probable questions during
-professional oral presentations remain underexplored. In this paper, we pioneer
-the examination of this crucial yet overlooked topic by utilizing real-world QA
-conversation transcripts between company managers and professional analysts. We
-explore the proposed task using three causal knowledge graphs (KGs) and three
-large language models (LLMs). This work provides foundational insights into the
-application of LLMs in professional QA scenarios, highlighting the importance
-of causal KGs and perspective-taking in generating effective responses.
-
-摘要：問題解答 (QA) 一直是自然語言處理 (NLP) 領域的長期關注重點，
-主要解決閱讀理解和常識問題解答。然而，
-在專業口頭簡報中準備回答可能問題的場景仍未得到充分探討。在本文中，我們率先
-利用公司經理和專業分析師之間的真實世界問答對話記錄，探討這個至關重要但被忽視的主題。我們
-使用三個因果知識圖譜 (KG) 和三個大型語言模型 (LLM) 來探討提出的任務。這項工作為 LLM 在專業問答場景中的應用提供了基礎見解，強調了因果 KG 和觀點採取在產生有效回應中的重要性。
-
-##### **LowREm: A Repository of Word Embeddings for 87 Low-Resource Languages Enhanced with Multilingual Graph Knowledge**
-2409.18193v1 by Daniil Gurgurov, Rishu Kumar, Simon Ostermann
-
-Contextualized embeddings based on large language models (LLMs) are available
-for various languages, but their coverage is often limited for lower resourced
-languages. Training LLMs for such languages is often difficult due to
-insufficient data and high computational cost. Especially for very low resource
-languages, static word embeddings thus still offer a viable alternative. There
-is, however, a notable lack of comprehensive repositories with such embeddings
-for diverse languages. To address this, we present LowREm, a centralized
-repository of static embeddings for 87 low-resource languages. We also propose
-a novel method to enhance GloVe-based embeddings by integrating multilingual
-graph knowledge, utilizing another source of knowledge. We demonstrate the
-superior performance of our enhanced embeddings as compared to contextualized
-embeddings extracted from XLM-R on sentiment analysis. Our code and data are
-publicly available under https://huggingface.co/DFKI.
-
-摘要：基於大型語言模型 (LLM) 的語境化嵌入可供各種語言使用，但其涵蓋範圍通常僅限於資源較少的語言。由於資料不足和高運算成本，為此類語言訓練 LLM 通常很困難。特別是對於資源非常少的語言，因此靜態字詞嵌入仍提供可行的替代方案。然而，對於各種語言來說，此類嵌入缺乏全面的儲存庫。為了解決這個問題，我們提出了 LowREm，一個針對 87 種低資源語言的靜態嵌入集中式儲存庫。我們還提出了一種新方法，透過整合多語言圖形知識來增強基於 GloVe 的嵌入，利用另一個知識來源。我們展示了我們增強的嵌入在情緒分析上優於從 XLM-R 提取的語境化嵌入。我們的程式碼和資料已公開在 https://huggingface.co/DFKI 下。
-
-##### **A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications**
-2410.08224v1 by Pengfei Wang, Huanran Zheng, Silong Dai, Yiqiao Wang, Xiaotian Gu, Yuanbin Wu, Xiaoling Wang
-
-In recent years, the field of electroencephalography (EEG) analysis has
-witnessed remarkable advancements, driven by the integration of machine
-learning and artificial intelligence. This survey aims to encapsulate the
-latest developments, focusing on emerging methods and technologies that are
-poised to transform our comprehension and interpretation of brain activity. We
-delve into self-supervised learning methods that enable the robust
-representation of brain signals, which are fundamental for a variety of
-downstream applications. We also explore emerging discriminative methods,
-including graph neural networks (GNN), foundation models, and large language
-models (LLMs)-based approaches. Furthermore, we examine generative technologies
-that harness EEG data to produce images or text, offering novel perspectives on
-brain activity visualization and interpretation. The survey provides an
-extensive overview of these cutting-edge techniques, their current
-applications, and the profound implications they hold for future research and
-clinical practice. The relevant literature and open-source materials have been
-compiled and are consistently being refreshed at
-\url{https://github.com/wpf535236337/LLMs4TS}
-
-摘要：近年來，腦電圖 (EEG) 分析領域見證了顯著的進展，這要歸功於機器學習和人工智能的整合。本調查旨在概括最新發展，重點關注新興方法和技術，這些方法和技術有望轉變我們對大腦活動的理解和詮釋。我們深入探討自監督學習方法，這些方法能讓大腦信號的表示變得穩健，這對各種下游應用至關重要。我們還探討新興的判別方法，包括圖神經網路 (GNN)、基礎模型和大語言模型 (LLM) 為基礎的方法。此外，我們檢視利用 EEG 資料產生影像或文字的生成式技術，為大腦活動視覺化和詮釋提供了新的觀點。本調查對這些尖端技術、它們目前的應用以及它們對未來研究和臨床實務的深遠影響提供了廣泛的概述。相關文獻和開放原始碼資料已編譯，並持續更新於
-\url{https://github.com/wpf535236337/LLMs4TS}
 

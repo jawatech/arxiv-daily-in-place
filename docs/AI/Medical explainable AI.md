@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910v1](http://arxiv.org/abs/2410.11910v1)|null|
-|**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|null|
+|**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|[link](https://github.com/tlabarta/helpfulnessofxai)|
 |**2024-10-12**|**Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**|Abdullah Mamun et.al.|[2410.09635v1](http://arxiv.org/abs/2410.09635v1)|[link](https://github.com/ab9mamun/aimen)|
 |**2024-10-10**|**Artificial intelligence techniques in inherited retinal diseases: A review**|Han Trinh et.al.|[2410.09105v1](http://arxiv.org/abs/2410.09105v1)|null|
 |**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|

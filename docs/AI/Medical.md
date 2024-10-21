@@ -14,7 +14,7 @@
 |**2024-10-17**|**CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy**|Mian Zhang et.al.|[2410.13218v1](http://arxiv.org/abs/2410.13218v1)|null|
 |**2024-10-17**|**MixEHR-Nest: Identifying Subphenotypes within Electronic Health Records through Hierarchical Guided-Topic Modeling**|Ruohan Wang et.al.|[2410.13217v1](http://arxiv.org/abs/2410.13217v1)|null|
 |**2024-10-17**|**LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch**|Caigao Jiang et.al.|[2410.13213v1](http://arxiv.org/abs/2410.13213v1)|[link](https://github.com/caigaojiang/llmopt)|
-|**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191v1](http://arxiv.org/abs/2410.13191v1)|null|
+|**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191v2](http://arxiv.org/abs/2410.13191v2)|null|
 |**2024-10-16**|**Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**|Yingya Li et.al.|[2410.12774v1](http://arxiv.org/abs/2410.12774v1)|null|
 |**2024-10-16**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707v1](http://arxiv.org/abs/2410.12707v1)|null|
 |**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686v2](http://arxiv.org/abs/2410.12686v2)|null|
@@ -89,7 +89,7 @@
 |**2024-10-07**|**Synthetic Generation of Dermatoscopic Images with GAN and Closed-Form Factorization**|Rohan Reddy Mekala et.al.|[2410.05114v1](http://arxiv.org/abs/2410.05114v1)|null|
 |**2024-10-07**|**Named Clinical Entity Recognition Benchmark**|Wadood M Abdul et.al.|[2410.05046v1](http://arxiv.org/abs/2410.05046v1)|[link](https://github.com/wadoodabdul/clinical_ner_benchmark)|
 |**2024-10-07**|**Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data**|Manuel Brenner et.al.|[2410.04814v1](http://arxiv.org/abs/2410.04814v1)|null|
-|**2024-10-07**|**$\textbf{Only-IF}$:Revealing the Decisive Effect of Instruction Diversity on Generalization**|Dylan Zhang et.al.|[2410.04717v2](http://arxiv.org/abs/2410.04717v2)|null|
+|**2024-10-07**|**$\textbf{Only-IF}$:Revealing the Decisive Effect of Instruction Diversity on Generalization**|Dylan Zhang et.al.|[2410.04717v3](http://arxiv.org/abs/2410.04717v3)|null|
 |**2024-10-07**|**Rule-based Data Selection for Large Language Models**|Xiaomin Li et.al.|[2410.04715v1](http://arxiv.org/abs/2410.04715v1)|null|
 |**2024-10-07**|**Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine**|Xiaorui Su et.al.|[2410.04660v1](http://arxiv.org/abs/2410.04660v1)|null|
 |**2024-10-06**|**Comparing Zealous and Restrained AI Recommendations in a Real-World Human-AI Collaboration Task**|Chengyuan Xu et.al.|[2410.11860v1](http://arxiv.org/abs/2410.11860v1)|null|
@@ -417,7 +417,7 @@ https://github.com/caigaojiang/LLMOPT.
 摘要：<paragraph>優化問題普遍存在於各種場景中。制定並解決自然語言描述的優化問題通常需要高度專業的人類專業知識，這可能會阻礙基於優化的決策制定的廣泛應用。為了使問題制定和求解自動化，利用大型語言模型 (LLM) 已成為一種潛在的方法。然而，這種方式存在優化泛化問題。也就是說，當前大多數基於 LLM 的方法的準確性和它們可以建模的優化問題類型的普遍性仍然有限。在本文中，我們提出了一個名為 LLMOPT 的統一基於學習的框架，以提高優化泛化能力。從優化問題的自然語言描述和預訓練的 LLM 開始，LLMOPT 將引入的五要素表述構建為學習定義各種優化問題類型的通用模型。然後，LLMOPT 採用多指令調整來增強問題形式化和求解器代碼生成準確性和普遍性。在那之後，為了防止 LLM 中的幻覺，例如犧牲求解準確性以避免執行錯誤，在 LLMOPT 中採用了模型對齊和自校正機制。我們評估了 LLMOPT 的優化泛化能力，並比較了六個涵蓋健康、環境、能源和製造等約 20 個領域的真實世界數據集中的方法。大量的實驗結果表明，LLMOPT 能夠對各種優化問題類型建模，例如線性/非線性規劃、混合整數規劃和組合優化，並與最先進的方法相比，取得了顯著的 11.08% 平均求解準確度提升。代碼可在 https://github.com/caigaojiang/LLMOPT 獲得。</paragraph>
 
 ##### **MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**
-2410.13191v1 by Zonghai Yao, Aditya Parashar, Huixue Zhou, Won Seok Jang, Feiyun Ouyang, Zhichao Yang, Hong Yu
+2410.13191v2 by Zonghai Yao, Aditya Parashar, Huixue Zhou, Won Seok Jang, Feiyun Ouyang, Zhichao Yang, Hong Yu
 
 Automatic question generation (QG) is essential for AI and NLP, particularly
 in intelligent tutoring, dialogue systems, and fact verification. Generating
@@ -436,7 +436,7 @@ difficulty of the questions. Furthermore, we introduce an LLM-as-Judge-based
 automatic metric to replace the complex and costly expert evaluation process,
 ensuring reliable and expert-aligned assessments.
 
-摘要：自動化問題生成 (QG) 對於 AI 和 NLP 至關重要，特別是在智慧教學、對話系統和事實驗證中。為專業考試（例如美國醫師執照考試 (USMLE)）生成多選題 (MCQG) 特別具有挑戰性，需要專業知識和複雜的多跳推理才能產生高品質的問題。然而，目前的 GPT-4 等大型語言模型 (LLM) 由於知識過時、幻覺問題和提示敏感性，而難以處理專業 MCQG，導致品質和難度不盡人意。為了應對這些挑戰，我們提出了 MCQG-SRefine，一種基於 LLM 自我精進（批評和修正）架構，用於將醫療案例轉換為高品質的 USMLE 風格問題。透過整合專家驅動的提示工程與反覆自我批評和自我修正的回饋，MCQG-SRefine 大幅提升了人類專家對於問題品質和難度的滿意度。此外，我們引進一個基於 LLM 作為評審的自動化指標，以取代複雜且昂貴的專家評估程序，確保可靠且與專家一致的評量。
+摘要：自動題目生成 (QG) 對於 AI 和 NLP 至關重要，特別是在智慧教學、對話系統和事實查核中。為專業考試（如美國執照醫師考試 (USMLE)）生成多選題 (MCQG) 具有挑戰性，需要領域專業知識和複雜的多跳推理才能產生高品質的題目。然而，目前的 GPT-4 等大型語言模型 (LLM) 由於知識過時、幻覺問題和提示敏感性，在專業 MCQG 方面遇到困難，導致品質和難度不佳。為了應對這些挑戰，我們提出 MCQG-SRefine，一種基於 LLM 自我優化的（批判和更正）架構，用於將醫療案例轉換為高品質的 USMLE 風格題目。透過整合專家驅動的提示工程與反覆自我批判和自我更正回饋，MCQG-SRefine 大幅提升了人類專家對題目品質和難度的滿意度。此外，我們引入了一個基於 LLM-as-Judge 的自動化指標來取代複雜且昂貴的專家評估過程，確保可靠且與專家一致的評估。
 
 ##### **Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**
 2410.12774v1 by Yingya Li, Timothy Miller, Steven Bethard, Guergana Savova
@@ -2361,7 +2361,7 @@ to new parameter regimes.
 摘要：在科學中，我們常常有興趣從觀察到的時間序列中獲得基礎系統動態的生成模型。雖然當資料來自單一領域時，強大的動態系統重建 (DSR) 方法已經存在，但如何最佳整合來自多個動態機制的資料並利用它進行概括仍然是一個開放的問題。當個別時間序列很短時，這一點尤其重要，而且群組層級的資訊可能有助於填補單一領域資料中的空白。同時，平均化並非 DSR 中的選項，因為它會消除關鍵的動態特性（例如，一個領域中的極限週期相對於另一個領域中的混亂）。因此，需要一個框架，能夠有效收集群組層級（多領域）資訊，同時保留所有單一領域動態特性。在這裡，我們提供這種階層式方法，並在流行的 DSR 基準以及神經科學和醫學時間序列中展示它。除了忠實重建所有個別動態機制之外，我們的非監督方法還發現了常見的低維特徵空間，其中具有相似動態的資料集會成群。跨越這些空間的特徵在動態上進一步具有高度可解釋性，令人驚訝的是，它們通常與控制基礎系統動態的控制參數呈線性關係。最後，我們說明了遷移式學習和對新參數機制的概括。
 
 ##### **$\textbf{Only-IF}$:Revealing the Decisive Effect of Instruction Diversity on Generalization**
-2410.04717v2 by Dylan Zhang, Justin Wang, Francois Charton
+2410.04717v3 by Dylan Zhang, Justin Wang, Francois Charton
 
 Understanding and accurately following instructions is critical for large
 language models (LLMs) to be effective across diverse tasks. In this work, we
@@ -2390,7 +2390,7 @@ instruction-following capabilities across a wide range of applications. Our
 results highlight the critical role of strategic diversification and offer
 clear guidelines for improving data quality.
 
-摘要：理解並準確遵循指示對於大型語言模型 (LLM) 在各種任務中發揮作用至關重要。在這項工作中，我們嚴格審查了使模型能夠概括為未見指示的關鍵因素，並提供見解以指導收集用於指示微調的數據。通過受圖靈完備馬可夫演算法啟發的受控實驗，我們證明了這種概括僅在訓練數據在語義領域中足夠多樣化時才會出現。我們的研究結果還表明，僅在有限的領域內進行多樣化不足以確保穩健的概括。相反，即使在受限的數據預算下，跨領域數據多樣化也會顯著增強模型的適應性。我們進一步將我們的分析擴展到現實世界的場景，包括微調專家和通才模型。在兩種情況下，我們都證明了 1) 可以在保持數據大小不變的情況下通過增加既有數據集的多樣性來實現更好的性能，以及 2) 在擴展數據時，多樣化指示的語義比簡單地增加類似數據的數量更有效。我們的研究為數據集整理提供了重要的見解，特別是在通過擴展專家和通才場景的訓練數據來優化模型性能時。我們表明仔細考慮數據多樣化至關重要：使用超出其核心領域的數據訓練專家模型會導致顯著的性能改進，而通才模型受益於多樣化的數據混合，這些混合增強了它們在廣泛應用中的整體指令遵循能力。我們的結果突出了策略性多樣化的關鍵作用，並為提高數據質量提供了明確的指導方針。
+摘要：<paragraph>對於大型語言模型 (LLM) 來說，理解並準確遵循指令對於在各種任務中發揮作用至關重要。在這項工作中，我們嚴謹地探討了使模型能夠概括到未見過指令的主要因素，並提供見解以指導收集資料以進行指令微調。透過受圖靈完備馬可夫演算法啟發的受控實驗，我們證明了這種概括僅在訓練資料在語義領域中足夠多元化時才會出現。我們的研究結果還表明，僅在有限的領域內進行多樣化並不能確保穩健的概括。相反，即使在受限的資料預算下，跨領域資料多樣化也能顯著增強模型的適應性。我們進一步將分析擴展到真實世界的場景，包括微調專家和通才模型。在兩種情況下，我們都證明了 1) 透過增加既有資料集的多樣性，同時保持資料大小不變，可以獲得更好的效能，以及 2) 在擴充資料時，多樣化指令的語義比僅增加類似資料的數量更有效。我們的研究為資料集整理提供了重要的見解，特別是在透過擴充專家和通才場景的訓練資料來最佳化模型效能時。我們表明仔細考量資料多樣化是關鍵：使用擴充到其核心領域以外的資料來訓練專家模型，會帶來顯著的效能提升，而通才模型則受益於多樣化的資料組合，這些組合會增強其在廣泛應用中的整體指令遵循能力。我們的結果突出了策略性多樣化的關鍵作用，並提供了改善資料品質的明確準則。</paragraph>
 
 ##### **Rule-based Data Selection for Large Language Models**
 2410.04715v1 by Xiaomin Li, Mingye Gao, Zhiwei Zhang, Chang Yue, Hong Hu

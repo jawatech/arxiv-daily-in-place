@@ -15,12 +15,12 @@
 |**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828v1](http://arxiv.org/abs/2410.13828v1)|null|
 |**2024-10-17**|**Unearthing Skill-Level Insights for Understanding Trade-Offs of Foundation Models**|Mazda Moayeri et.al.|[2410.13826v1](http://arxiv.org/abs/2410.13826v1)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825v1](http://arxiv.org/abs/2410.13825v1)|null|
-|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824v1](http://arxiv.org/abs/2410.13824v1)|null|
+|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824v2](http://arxiv.org/abs/2410.13824v2)|null|
 |**2024-10-17**|**Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**|Clément Playout et.al.|[2410.13822v1](http://arxiv.org/abs/2410.13822v1)|[link](https://github.com/clementpla/multistyle_funduslesionsegmentation)|
 |**2024-10-17**|**Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation**|Jean-Pierre Sleiman et.al.|[2410.13817v1](http://arxiv.org/abs/2410.13817v1)|null|
 |**2024-10-17**|**De-mark: Watermark Removal in Large Language Models**|Ruibo Chen et.al.|[2410.13808v1](http://arxiv.org/abs/2410.13808v1)|null|
 |**2024-10-17**|**A Watermark for Order-Agnostic Language Models**|Ruibo Chen et.al.|[2410.13805v1](http://arxiv.org/abs/2410.13805v1)|null|
-|**2024-10-17**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804v1](http://arxiv.org/abs/2410.13804v1)|[link](https://github.com/tianyi-lab/bento)|
+|**2024-10-17**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804v2](http://arxiv.org/abs/2410.13804v2)|[link](https://github.com/tianyi-lab/bento)|
 |**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803v1](http://arxiv.org/abs/2410.13803v1)|[link](https://github.com/ida-fbk/multimodalpattern)|
 |**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798v1](http://arxiv.org/abs/2410.13798v1)|[link](https://github.com/limei0307/graph-tokenizer)|
 |**2024-10-17**|**Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions**|Michael J. Q. Zhang et.al.|[2410.13788v1](http://arxiv.org/abs/2410.13788v1)|null|
@@ -36,10 +36,10 @@
 |**2024-10-17**|**Virtual Sensing for Real-Time Degradation Monitoring of Nuclear Systems: Leveraging DeepONet for Enhanced Sensing Coverage for Digital Twin-Enabling Technology**|Raisa Bentay Hossain et.al.|[2410.13762v1](http://arxiv.org/abs/2410.13762v1)|null|
 |**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757v1](http://arxiv.org/abs/2410.13757v1)|null|
 |**2024-10-17**|**CLIMB: Language-Guided Continual Learning for Task Planning with Iterative Model Building**|Walker Byrnes et.al.|[2410.13756v1](http://arxiv.org/abs/2410.13756v1)|null|
-|**2024-10-17**|**MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures**|Jinjie Ni et.al.|[2410.13754v1](http://arxiv.org/abs/2410.13754v1)|null|
-|**2024-10-17**|**Privacy-Preserving Decentralized AI with Confidential Computing**|Dayeol Lee et.al.|[2410.13752v1](http://arxiv.org/abs/2410.13752v1)|null|
+|**2024-10-17**|**MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures**|Jinjie Ni et.al.|[2410.13754v2](http://arxiv.org/abs/2410.13754v2)|null|
+|**2024-10-17**|**Privacy-Preserving Decentralized AI with Confidential Computing**|Dayeol Lee et.al.|[2410.13752v2](http://arxiv.org/abs/2410.13752v2)|null|
 |**2024-10-17**|**LLM-Human Pipeline for Cultural Context Grounding of Conversations**|Rajkumar Pujari et.al.|[2410.13727v1](http://arxiv.org/abs/2410.13727v1)|null|
-|**2024-10-17**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726v1](http://arxiv.org/abs/2410.13726v1)|[link](https://github.com/hanbo-cheng/dawn-pytorch)|
+|**2024-10-17**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726v2](http://arxiv.org/abs/2410.13726v2)|[link](https://github.com/hanbo-cheng/dawn-pytorch)|
 |**2024-10-17**|**Persistent Pre-Training Poisoning of LLMs**|Yiming Zhang et.al.|[2410.13722v1](http://arxiv.org/abs/2410.13722v1)|null|
 |**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720v1](http://arxiv.org/abs/2410.13720v1)|[link](https://github.com/facebookresearch/moviegenbench)|
 |**2024-10-17**|**MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems**|Nandan Thakur et.al.|[2410.13716v1](http://arxiv.org/abs/2410.13716v1)|[link](https://github.com/vectara/mirage-bench)|
@@ -49,7 +49,7 @@
 |**2024-10-17**|**Exploring the Design Space of Visual Context Representation in Video MLLMs**|Yifan Du et.al.|[2410.13694v1](http://arxiv.org/abs/2410.13694v1)|[link](https://github.com/rucaibox/opt-visor)|
 |**2024-10-17**|**Jailbreaking LLM-Controlled Robots**|Alexander Robey et.al.|[2410.13691v1](http://arxiv.org/abs/2410.13691v1)|null|
 |**2024-10-17**|**Pose-Based Sign Language Appearance Transfer**|Amit Moryossef et.al.|[2410.13675v1](http://arxiv.org/abs/2410.13675v1)|[link](https://github.com/sign-language-processing/pose-anonymization)|
-|**2024-10-17**|**Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**|Yijun Liang et.al.|[2410.13674v1](http://arxiv.org/abs/2410.13674v1)|[link](https://github.com/tianyi-lab/DisCL)|
+|**2024-10-17**|**Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**|Yijun Liang et.al.|[2410.13674v2](http://arxiv.org/abs/2410.13674v2)|[link](https://github.com/tianyi-lab/DisCL)|
 |**2024-10-17**|**HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings**|Varun Gumma et.al.|[2410.13671v1](http://arxiv.org/abs/2410.13671v1)|null|
 |**2024-10-17**|**signwriting-evaluation: Effective Sign Language Evaluation via SignWriting**|Amit Moryossef et.al.|[2410.13668v1](http://arxiv.org/abs/2410.13668v1)|[link](https://github.com/sign-language-processing/signwriting-evaluation)|
 |**2024-10-17**|**ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization**|Xiutian Zhao et.al.|[2410.13667v1](http://arxiv.org/abs/2410.13667v1)|[link](https://github.com/xiutian/orchid)|
@@ -427,7 +427,7 @@ of carefully tuning observation and action spaces for LLM-based agents.
 摘要：<paragraph>透過使用大型語言模型 (LLM) 的代理人來達成自主性，可提升個人化和標準化任務的人類效率。自動化網路任務（例如在預算內訂房）的需求日益增加。網路代理人滿足了實際需求，也作為各種代理人基礎情境的重要概念驗證範例，其成功性有望在許多未來應用中帶來進展。先前的研究通常手工製作網路代理人策略（例如提示範本、多代理人系統、搜尋方法等）和對應的脈絡範例，這些策略和範例可能無法很好地概括到所有真實世界的場景。另一方面，對於網路代理人的觀察/動作表示與其所依據的 LLM 預訓練資料之間的錯位，研究有限。當 LLM 主要訓練用於語言完成，而不是涉及具象導航動作和符號網路元素的任務時，這種差異尤其明顯。我們的研究透過簡單地調整其觀察和動作空間以更好地與 LLM 的能力保持一致，增強了基於 LLM 的網路代理人。這種方法使我們的基礎代理人能夠在各種網路任務中顯著優於先前的各種方法。特別是在 WebArena，一個以一般用途網路互動任務為特色的基準測試中，我們的代理人 AgentOccam 分別以 9.8 (+29.4%) 和 5.9 (+15.8%) 的絕對點數超越了先前的最新技術和並行工作，並且透過其觀察和動作空間對齊，將成功率提高了 26.6 點 (+161%)，高於類似的純網路代理人。我們在不使用脈絡範例、新代理人角色、線上回饋或搜尋策略的情況下實現了這一點。AgentOccam 的簡單設計凸顯了 LLM 在網路任務上的令人印象深刻的零次學習效能，並強調了仔細調整基於 LLM 的代理人的觀察和動作空間的關鍵作用。</paragraph>
 
 ##### **Harnessing Webpage UIs for Text-Rich Visual Understanding**
-2410.13824v1 by Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue
+2410.13824v2 by Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue
 
 Text-rich visual understanding-the ability to process environments where
 dense textual content is integrated with visuals-is crucial for multimodal
@@ -439,14 +439,14 @@ process structured text representations from webpage accessibility trees. These
 instructions are then paired with UI screenshots to train multimodal models. We
 introduce MultiUI, a dataset containing 7.3 million samples from 1 million
 websites, covering diverse multimodal tasks and UI layouts. Models trained on
-MultiUI not only excel in web UI tasks-achieving up to a 48\% improvement on
-VisualWebBench and a 19.1\% boost in action accuracy on a web agent dataset
+MultiUI not only excel in web UI tasks-achieving up to a 48% improvement on
+VisualWebBench and a 19.1% boost in element accuracy on a web agent dataset
 Mind2Web-but also generalize surprisingly well to non-web UI tasks and even to
 non-UI domains, such as document understanding, OCR, and chart interpretation.
 These results highlight the broad applicability of web UI data for advancing
 text-rich visual understanding across various scenarios.
 
-摘要：文本丰富的视觉理解——处理密集文本内容与视觉元素相结合的环境的能力——对于多模态大型语言模型 (MLLM) 与结构化环境有效交互至关重要。为了增强此功能，我们提出使用基于文本的大型语言模型 (LLM) 从网页 UI 中合成通用的多模态指令。尽管缺乏直接的视觉输入，但基于文本的 LLM 能够处理来自网页可访问性树的结构化文本表示。然后将这些指令与 UI 屏幕截图配对，以训练多模态模型。我们引入了 MultiUI，这是一个包含来自 100 万个网站的 730 万个样本的数据集，涵盖了多模态任务和 UI 布局。在 MultiUI 上训练的模型不仅在 Web UI 任务中表现出色——在 VisualWebBench 上的改进幅度高达 48%，在 Web 代理数据集 Mind2Web 上的动作准确度提升了 19.1%——而且在非 Web UI 任务甚至非 UI 领域（例如文档理解、OCR 和图表解释）中也表现出惊人的泛化能力。这些结果突出了 Web UI 数据在各种场景中推进文本丰富的视觉理解方面的广泛适用性。
+摘要：文字丰富的视觉理解——处理密集文本内容与视觉元素相结合的环境的能力——对于多模态大语言模型 (MLLM) 与结构化环境进行有效交互至关重要。为了增强这种能力，我们建议使用基于文本的大语言模型 (LLM) 从网页 UI 合成通用的多模态指令。尽管缺乏直接的视觉输入，但基于文本的 LLM 能够处理来自网页可访问性树的结构化文本表示。然后将这些指令与 UI 屏幕截图配对以训练多模态模型。我们介绍了 MultiUI，这是一个包含来自 100 万个网站的 730 万个样本的数据集，涵盖了各种多模态任务和 UI 布局。在 MultiUI 上训练的模型不仅在 Web UI 任务中表现出色——在 VisualWebBench 上的改进幅度高达 48%，在 Web 代理数据集 Mind2Web 上的元素准确度提升了 19.1%——而且在非 Web UI 任务甚至非 UI 领域（例如文档理解、OCR 和图表解释）中也表现出惊人的泛化能力。这些结果突出了 Web UI 数据在各种场景中推进文字丰富的视觉理解方面的广泛适用性。
 
 ##### **Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**
 2410.13822v1 by Clément Playout, Renaud Duval, Marie Carole Boucher, Farida Cheriet
@@ -528,7 +528,7 @@ watermarking technique for order-agnostic LMs.
 摘要：統計浮水印技術已廣泛用於循序解碼的語言模型 (LM)。然而，這些技術無法直接應用於與順序無關的 LM，因為與順序無關的 LM 中的符號並非循序產生。在這項工作中，我們引入了 Pattern-mark，這是一個專為與順序無關的 LM 設計的基於模式的浮水印架構。我們開發了一個基於馬可夫鏈的浮水印產生器，該產生器產生具有高頻率關鍵模式的浮水印金鑰序列。相應地，我們提出了一個基於統計模式的偵測演算法，該演算法在偵測期間會復原金鑰序列，並根據高頻率模式的計數進行統計檢定。我們對與順序無關的 LM（例如 ProteinMPNN 和 CMLM）進行的廣泛評估，證明了 Pattern-mark 增強的偵測效率、產生品質和穩健性，使其成為與順序無關的 LM 的優越浮水印技術。
 
 ##### **BenTo: Benchmark Task Reduction with In-Context Transferability**
-2410.13804v1 by Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou
+2410.13804v2 by Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou
 
 Evaluating large language models (LLMs) is costly: it requires the generation
 and examination of LLM outputs on a large-scale benchmark of various tasks.
@@ -543,7 +543,7 @@ FLAN) to 5% while inducing only a <4% difference to the evaluation on the
 original benchmark. Compared to prior works, our method is training-free,
 gradient-free, and highly efficient requiring ICL only.
 
-摘要：評估大型語言模型 (LLM) 的成本很高：需要在各種任務的大規模基準上生成和檢查 LLM 輸出。本文探討如何有效減少用於基準 LLM 的任務，而不影響評估品質。我們的研究表明，任務可轉移性和相關性提供關鍵資訊，可透過最佳化設施位置函數來識別最具代表性的任務子集。我們提出一個實務上有效率的指標，透過情境學習 (ICL) 來估計兩個任務之間的可轉移性。透過分析成對的可轉移性，我們可以將現代 LLM 基準中的任務減少到 5%，同時僅對原始基準上的評估產生 <4% 的差異。與先前的研究相比，我們的模型無需訓練、無梯度，而且非常有效率，只需要 ICL。
+摘要：評估大型語言模型 (LLM) 十分昂貴：它需要在各種任務的大規模基準測試中生成並檢查 LLM 輸出。本文探討如何在不影響評估品質的情況下有效減少用於基準測試 LLM 的任務。我們的研究表明，任務可傳遞性和相關性提供了關鍵資訊，可透過最佳化設施位置函數來識別最具代表性的任務子集。我們提出了一個實用的有效指標，透過情境學習 (ICL) 來估計兩個任務之間的可傳遞性。透過分析成對可傳遞性，我們可以將現代 LLM 基準測試（例如 MMLU 或 FLAN）中的任務減少到 5%，同時僅對原始基準測試的評估產生小於 4% 的差異。與先前的研究相比，我們的模型無需訓練、無梯度，且只需要 ICL，因此非常有效率。
 
 ##### **A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**
 2410.13803v1 by Gianluca Apriceno, Valentina Tamma, Tania Bailoni, Jacopo de Berardinis, Mauro Dragoni
@@ -902,7 +902,7 @@ be found at https://plan-with-climb.github.io/ .
 摘要：智能且可靠的任务规划是通用机器人的核心能力，它需要一个描述性领域表示，该表示充分模拟场景中所有对象和状态信息。我们提出了 CLIMB，这是一个用于机器人任务规划的持续学习框架，它利用基础模型和执行反馈来指导领域模型构建。CLIMB 可以根据自然语言描述构建模型，在解决任务时学习非显式谓词，并将该信息存储起来以备将来解决问题。我们证明了 CLIMB 与基准方法相比，提高了在常见规划环境中的性能。我们还开发了 BlocksWorld++ 领域，这是一个具有易于使用的真实对应物的模拟环境，以及一个难度逐渐增加的任务课程，用于评估持续学习。有关此系统的更多详细信息和演示，请访问 https://plan-with-climb.github.io/。
 
 ##### **MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures**
-2410.13754v1 by Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, Zian Zheng, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh
+2410.13754v2 by Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, Zian Zheng, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh
 
 Perceiving and generating diverse modalities are crucial for AI models to
 effectively learn from and engage with real-world signals, necessitating
@@ -910,21 +910,22 @@ reliable evaluations for their development. We identify two major issues in
 current evaluations: (1) inconsistent standards, shaped by different
 communities with varying protocols and maturity levels; and (2) significant
 query, grading, and generalization biases. To address these, we introduce
-MixEval-X, the first any-to-any real-world benchmark designed to optimize and
-standardize evaluations across input and output modalities. We propose
+MixEval-X, the first any-to-any, real-world benchmark designed to optimize and
+standardize evaluations across diverse input and output modalities. We propose
 multi-modal benchmark mixture and adaptation-rectification pipelines to
 reconstruct real-world task distributions, ensuring evaluations generalize
 effectively to real-world use cases. Extensive meta-evaluations show our
 approach effectively aligns benchmark samples with real-world task
-distributions and the model rankings correlate strongly with that of
-crowd-sourced real-world evaluations (up to 0.98). We provide comprehensive
-leaderboards to rerank existing models and organizations and offer insights to
-enhance understanding of multi-modal evaluations and inform future research.
+distributions. Meanwhile, MixEval-X's model rankings correlate strongly with
+that of crowd-sourced real-world evaluations (up to 0.98) while being much more
+efficient. We provide comprehensive leaderboards to rerank existing models and
+organizations and offer insights to enhance understanding of multi-modal
+evaluations and inform future research.
 
-摘要：感知和生成不同的模態對於 AI 模型從真實世界的訊號中有效學習並與之互動至關重要，這需要對其開發進行可靠的評估。我們在當前的評估中發現了兩個主要問題：(1) 不一致的標準，由不同社群使用不同的協定和成熟度等級所形成；(2) 顯著的查詢、評分和概化偏差。為了解決這些問題，我們引入了 MixEval-X，這是第一個任何對任何真實世界基準，旨在最佳化並標準化輸入和輸出模態的評估。我們提出多模態基準混合和適應修正管道，以重建真實世界的任務分佈，確保評估能有效概化到真實世界的使用案例。廣泛的元評估顯示，我們的做法有效地將基準範例與真實世界的任務分佈對齊，且模型排名與群眾外包的真實世界評估密切相關 (高達 0.98)。我們提供全面的排行榜，以重新排名現有的模型和組織，並提供見解，以增強對多模態評估的理解，並為未來的研究提供資訊。
+摘要：感知和生成多樣化的模式對於 AI 模型從現實世界的訊號有效地學習和參與至關重要，這需要對其開發進行可靠的評估。我們在當前評估中發現兩個主要問題：(1) 不一致的標準，由具有不同協定和成熟度層級的不同社群所塑造；以及 (2) 顯著的查詢、評分和概化偏差。為了解決這些問題，我們引入了 MixEval-X，這是第一個任何到任何的真實世界基準，旨在最佳化和標準化跨不同輸入和輸出模式的評估。我們提出多模式基準混合和適應校正管線，以重建真實世界的任務分佈，確保評估能有效概化到真實世界的使用案例。廣泛的元評估顯示，我們的方法能有效地將基準樣本與真實世界的任務分佈對齊。同時，MixEval-X 的模型排名與眾包真實世界評估的排名密切相關（高達 0.98），同時效率更高。我們提供全面的排行榜，以重新排名現有模型和組織，並提供洞察力，以增強對多模式評估的理解，並為未來的研究提供資訊。
 
 ##### **Privacy-Preserving Decentralized AI with Confidential Computing**
-2410.13752v1 by Dayeol Lee, Jorge Antonio, Hisham Khan
+2410.13752v2 by Dayeol Lee, Jorge António, Hisham Khan
 
 This paper addresses privacy protection in decentralized Artificial
 Intelligence (AI) using Confidential Computing (CC) within the Atoma Network, a
@@ -943,7 +944,7 @@ environments. While TEEs face a few limitations, we believe they can bridge the
 privacy gap in decentralized AI. We explore how we can integrate TEEs into
 Atoma's decentralized framework.
 
-摘要：本文探討了在去中心化人工智慧 (AI) 中使用機密運算 (CC) 來保護隱私，機密運算是在 Atoma 網路中進行，Atoma 網路是一個專為 Web3 領域設計的去中心化 AI 平台。去中心化 AI 將 AI 服務分散到多個實體中，而沒有集中化的監督，進而促進透明度和穩健性。然而，此結構引入了重大的隱私挑戰，因為敏感資產（例如專有模型和個人資料）可能會暴露給不受信任的參與者。基於密碼學的隱私保護技術（例如零知識機器學習 (zkML)）會遭受高昂的運算負擔。為了解決這個限制，我們建議利用機密運算 (CC)。機密運算利用基於硬體的可信執行環境 (TEE) 來提供處理敏感資料的隔離，確保模型參數和使用者資料在去中心化、潛在不受信任的環境中仍然安全。儘管 TEE 面臨一些限制，但我們相信它們可以彌合去中心化 AI 中的隱私差距。我們探討了如何將 TEE 整合到 Atoma 的去中心化架構中。
+摘要：本文探討在分散式人工智慧 (AI) 中使用機密運算 (CC) 來保護隱私，而這是在為 Web3 領域設計的分散式 AI 平台 Atoma Network 中進行的。分散式 AI 在沒有集中監控的情況下將 AI 服務分發到多個實體中，從而促進透明度和穩健性。然而，這種結構引入了嚴重的隱私挑戰，因為敏感資產（例如專有模型和個人資料）可能會暴露給不受信任的參與者。基於密碼學的隱私保護技術（例如零知識機器學習 (zkML)）會造成難以承受的運算負擔。為了解決這個限制，我們建議利用機密運算 (CC)。機密運算利用基於硬體的可信執行環境 (TEE) 來提供處理敏感資料的隔離，確保模型參數和使用者資料在分散式、潛在不受信任的環境中都能保持安全。儘管 TEE 面臨一些限制，但我們相信它們可以彌合分散式 AI 中的隱私差距。我們探討如何將 TEE 整合到 Atoma 的分散式架構中。
 
 ##### **LLM-Human Pipeline for Cultural Context Grounding of Conversations**
 2410.13727v1 by Rajkumar Pujari, Dan Goldwasser
@@ -971,7 +972,7 @@ show that it significantly improves the empirical performance.
 在本文中，我們通過為對話引入「文化背景架構」來解決這個問題。它包含 (1) 對話資訊，例如情緒、對話行為等，以及 (2) 文化資訊，例如社會規範、違規等。我們使用 LLM 為來自中國文化的約 23k 個對話產生了約 110k 個社會規範和違規描述。我們使用自動驗證策略對它們進行精煉，這些策略根據具有文化意識的人類判斷進行評估。我們使用互動的人類迴圈框架將這些描述組織成有意義的結構，我們稱之為「規範概念」。我們使用符號註釋將規範概念和描述基礎化到對話中。最後，我們將獲得的資料集用於下游任務，例如情緒、情緒和對話行為檢測。我們展示了它顯著改善了經驗效能。
 
 ##### **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**
-2410.13726v1 by Hanbo Cheng, Limin Lin, Chenyu Liu, Pengcheng Xia, Pengfei Hu, Jiefeng Ma, Jun Du, Jia Pan
+2410.13726v2 by Hanbo Cheng, Limin Lin, Chenyu Liu, Pengcheng Xia, Pengfei Hu, Jiefeng Ma, Jun Du, Jia Pan
 
 Talking head generation intends to produce vivid and realistic talking head
 videos from a single portrait and speech audio clip. Although significant
@@ -990,9 +991,9 @@ capabilities, ensuring the stable production of high-quality long videos. These
 results highlight the considerable promise and potential impact of DAWN in the
 field of talking head video generation. Furthermore, we hope that DAWN sparks
 further exploration of non-autoregressive approaches in diffusion models. Our
-code will be publicly at https://github.com/Hanbo-Cheng/DAWN-pytorch.
+code will be publicly available at https://github.com/Hanbo-Cheng/DAWN-pytorch.
 
-摘要：語音頭像生成旨在透過單張人像和語音音訊片段，產生生動且逼真的語音頭像影片。儘管基於擴散的語音頭像生成已取得顯著進展，但幾乎所有方法都依賴於自迴歸策略，而自迴歸策略會受限於當前生成步驟以外的背景利用、錯誤累積和較慢的生成速度。為了應對這些挑戰，我們提出了 DAWN（非自迴歸擴散的動態框架頭像），一個能夠一次生成動態長度影片序列的架構。具體來說，它包含兩個主要組成部分：(1) 在潛在運動空間中由音訊驅動的整體面部動態生成，以及 (2) 由音訊驅動的頭部姿勢和眨眼生成。大量的實驗證明，我們的方法可以生成具有精確唇部動作和自然姿勢/眨眼動作的真實且生動的影片。此外，DAWN 擁有高生成速度，具備強大的外推能力，確保能穩定地製作出高品質的長影片。這些結果突顯了 DAWN 在語音頭像影片生成領域中極具前景和潛在影響力。此外，我們希望 DAWN 能激發對擴散模型中非自迴歸方法的進一步探索。我們的程式碼將公開於 https://github.com/Hanbo-Cheng/DAWN-pytorch。
+摘要：對話頭像生成旨在從單一肖像和語音音訊剪輯中產生生動且逼真的對話頭像影片。儘管基於擴散的對話頭像生成已取得顯著進展，但幾乎所有方法都依賴於自迴歸策略，這會導致受限的內容利用（超出當前生成步驟、錯誤累積和較慢的生成速度）。為了應對這些挑戰，我們提出了 DAWN（非自迴歸擴散動態框架頭像），一個能一次生成動態長度影片序列的框架。具體來說，它包含兩個主要組成部分：（1）在潛在運動空間中進行音訊驅動的整體面部動態生成，以及（2）音訊驅動的頭部姿勢和眨眼生成。廣泛的實驗證明，我們的方法能生成具有精確唇部動作和自然姿勢/眨眼動作的真實且生動的影片。此外，DAWN 具有高速生成，具備強大的外推能力，確保穩定產生高品質的長影片。這些結果突顯了 DAWN 在對話頭像影片生成領域中相當有前景和潛在影響力。此外，我們希望 DAWN 能激發進一步探索擴散模型中的非自迴歸方法。我們的程式碼將於 https://github.com/Hanbo-Cheng/DAWN-pytorch 公開。
 
 ##### **Persistent Pre-Training Poisoning of LLMs**
 2410.13722v1 by Yiming Zhang, Javier Rando, Ivan Evtimov, Jianfeng Chi, Eric Michael Smith, Nicholas Carlini, Florian Tramèr, Daphne Ippolito
@@ -1211,7 +1212,7 @@ Our code is available at
 \url{https://github.com/sign-language-processing/pose-anonymization} 取得。
 
 ##### **Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**
-2410.13674v1 by Yijun Liang, Shweta Bhardwaj, Tianyi Zhou
+2410.13674v2 by Yijun Liang, Shweta Bhardwaj, Tianyi Zhou
 
 Low-quality or scarce data has posed significant challenges for training deep
 neural networks in practice. While classical data augmentation cannot
@@ -1238,7 +1239,7 @@ applying DisCL to iWildCam dataset. On ImageNet-LT, DisCL improves the base
 model's tail-class accuracy from 4.4% to 23.64% and leads to a 4.02%
 improvement in all-class accuracy.
 
-摘要：<paragraph>低品質或稀缺的資料對訓練深度神經網路造成了重大的挑戰。雖然傳統的資料擴充無法提供非常不同的新資料，但擴散模型開啟了一扇新門，透過文字引導提示來產生高品質且多樣化的合成資料，進而建構自我演化的 AI。然而，僅有文字引導無法控制合成影像與原始影像的接近程度，導致產生對模型效能不利的分布外資料。為了克服這個限制，我們研究影像引導以在合成影像與真實影像之間達成一系列的內插。透過更強的影像引導，產生的影像類似於訓練資料，但難以學習。而透過較弱的影像引導，合成的影像對模型來說會較容易，但會導致與原始資料有較大的分布差距。所產生的資料全光譜讓我們能夠建構一個新穎的「擴散課程（DisCL）」。DisCL 調整每個訓練階段的影像合成影像引導層級：它找出並專注於模型的困難樣本，並評估合成影像最有效的引導層級，以改善困難資料的學習。我們將 DisCL 套用於兩個具有挑戰性的任務：長尾（LT）分類和從低品質資料中學習。它專注於高品質的較低引導影像，以學習原型特徵，作為學習可能在多樣性或品質上較弱的較高引導影像的熱身。廣泛的實驗顯示，當將 DisCL 套用於 iWildCam 資料集時，OOD 和 ID 巨觀準確度分別獲得 2.7% 和 2.1% 的提升。在 ImageNet-LT 上，DisCL 將基礎模型的尾類準確度從 4.4% 提升至 23.64%，並使全類準確度提升 4.02%。</paragraph>
+摘要：<paragraph>低质量或稀缺的数据为实际训练深度神经网络带来了重大挑战。虽然经典数据增强无法贡献非常不同的新数据，但扩散模型通过文本引导提示生成高质量且多样化的合成数据，为构建自进化 AI 开辟了一扇新的大门。然而，仅文本指导无法控制合成图像与原始图像的接近度，导致分布外数据对模型性能有害。为了克服这一限制，我们研究图像指导以实现合成图像和真实图像之间的一系列插值。随着更强的图像指导，生成的图像类似于训练数据，但难以学习。而较弱的图像指导，合成图像将更容易建模，但会导致与原始数据更大的分布差距。生成的数据全谱使我们能够构建新颖的“扩散课程 (DisCL)”。DisCL 为每个训练阶段调整图像合成的图像指导级别：它识别并关注模型的难样本，并评估合成图像的最有效指导级别以改进困难数据学习。我们将 DisCL 应用于两项具有挑战性的任务：长尾 (LT) 分类和从低质量数据中学习。它专注于高质量的低指导图像，以学习原型特征，作为学习多样性或质量可能较弱的高指导图像的热身。广泛的实验表明，在将 DisCL 应用于 iWildCam 数据集时，OOD 和 ID 宏精度分别提高了 2.7% 和 2.1%。在 ImageNet-LT 上，DisCL 将基础模型的尾类准确率从 4.4% 提高到 23.64%，并导致全类准确率提高 4.02%。</paragraph>
 
 ##### **HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings**
 2410.13671v1 by Varun Gumma, Anandhita Raghunath, Mohit Jain, Sunayana Sitaram

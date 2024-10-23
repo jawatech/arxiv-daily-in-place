@@ -8,7 +8,7 @@
 |**2024-10-21**|**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**|Maosong Cao et.al.|[2410.16256v1](http://arxiv.org/abs/2410.16256v1)|[link](https://github.com/open-compass/compassjudger)|
 |**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251v1](http://arxiv.org/abs/2410.16251v1)|[link](https://github.com/llm-editing/HalluEditBench)|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246v1](http://arxiv.org/abs/2410.16246v1)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|[link](https://github.com/svthapa/more)|
 |**2024-10-21**|**ToW: Thoughts of Words Improve Reasoning in Large Language Models**|Zhikun Xu et.al.|[2410.16235v1](http://arxiv.org/abs/2410.16235v1)|null|
 |**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232v1](http://arxiv.org/abs/2410.16232v1)|null|
 |**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229v1](http://arxiv.org/abs/2410.16229v1)|null|
@@ -30,7 +30,7 @@
 |**2024-10-21**|**Limpeh ga li gong: Challenges in Singlish Annotations**|Lynnette Hui Xian Ng et.al.|[2410.16156v1](http://arxiv.org/abs/2410.16156v1)|null|
 |**2024-10-21**|**A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns**|Tianyi Men et.al.|[2410.16155v1](http://arxiv.org/abs/2410.16155v1)|null|
 |**2024-10-21**|**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages**|Xiang Yue et.al.|[2410.16153v1](http://arxiv.org/abs/2410.16153v1)|null|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v1](http://arxiv.org/abs/2410.16152v1)|null|
+|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
 |**2024-10-21**|**Small Contributions, Small Networks: Efficient Neural Network Pruning Based on Relative Importance**|Mostafa Hussien et.al.|[2410.16151v1](http://arxiv.org/abs/2410.16151v1)|null|
 |**2024-10-21**|**PODTILE: Facilitating Podcast Episode Browsing with Auto-generated Chapters**|Azin Ghazimatin et.al.|[2410.16148v1](http://arxiv.org/abs/2410.16148v1)|null|
 |**2024-10-21**|**1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs**|Jinheng Wang et.al.|[2410.16144v1](http://arxiv.org/abs/2410.16144v1)|[link](https://github.com/microsoft/bitnet)|
@@ -49,8 +49,8 @@
 |**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089v1](http://arxiv.org/abs/2410.16089v1)|null|
 |**2024-10-21**|**Fine-Tuning LLMs for Reliable Medical Question-Answering Services**|Ali Anaissi et.al.|[2410.16088v1](http://arxiv.org/abs/2410.16088v1)|null|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[2410.16083v1](http://arxiv.org/abs/2410.16083v1)|null|
-|**2024-10-21**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077v1](http://arxiv.org/abs/2410.16077v1)|null|
-|**2024-10-21**|**On-Device LLMs for SMEs: Challenges and Opportunities**|Jeremy Stephen Gabriel Yee Zhi Wen et.al.|[2410.16070v1](http://arxiv.org/abs/2410.16070v1)|null|
+|**2024-10-21**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077v2](http://arxiv.org/abs/2410.16077v2)|null|
+|**2024-10-21**|**On-Device LLMs for SMEs: Challenges and Opportunities**|Jeremy Stephen Gabriel Yee et.al.|[2410.16070v2](http://arxiv.org/abs/2410.16070v2)|null|
 |**2024-10-21**|**Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context**|Maggie Mi et.al.|[2410.16069v1](http://arxiv.org/abs/2410.16069v1)|null|
 |**2024-10-21**|**Integrated Image-Text Based on Semi-supervised Learning for Small Sample Instance Segmentation**|Ruting Chi et.al.|[2410.16063v1](http://arxiv.org/abs/2410.16063v1)|null|
 |**2024-10-21**|**Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**|Eleftheria Tsipidi et.al.|[2410.16062v1](http://arxiv.org/abs/2410.16062v1)|null|
@@ -66,7 +66,7 @@
 |**2024-10-21**|**1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification**|Ram Mohan Rao Kadiyala et.al.|[2410.15998v1](http://arxiv.org/abs/2410.15998v1)|null|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|null|
 |**2024-10-21**|**Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**|Matthias Bitzer et.al.|[2410.15987v1](http://arxiv.org/abs/2410.15987v1)|null|
-|**2024-10-21**|**PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs**|João Pedro Fernandes Torres et.al.|[2410.15978v1](http://arxiv.org/abs/2410.15978v1)|[link](https://github.com/joaopftorres/promptheus)|
+|**2024-10-21**|**PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs**|João Pedro Fernandes Torres et.al.|[2410.15978v2](http://arxiv.org/abs/2410.15978v2)|[link](https://github.com/joaopftorres/promptheus)|
 |**2024-10-21**|**Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small**|Zhehui Wang et.al.|[2410.15977v1](http://arxiv.org/abs/2410.15977v1)|null|
 |**2024-10-21**|**Large Language Models for Cross-lingual Emotion Detection**|Ram Mohan Rao Kadiyala et.al.|[2410.15974v1](http://arxiv.org/abs/2410.15974v1)|[link](https://github.com/1024-m/acl-2024-wassa-exalt)|
 |**2024-10-21**|**Karush-Kuhn-Tucker Condition-Trained Neural Networks (KKT Nets)**|Shreya Arvind et.al.|[2410.15973v1](http://arxiv.org/abs/2410.15973v1)|null|
@@ -92,7 +92,7 @@
 |**2024-10-21**|**MI-VisionShot: Few-shot adaptation of vision-language models for slide-level classification of histopathological images**|Pablo Meseguer et.al.|[2410.15881v1](http://arxiv.org/abs/2410.15881v1)|null|
 |**2024-10-21**|**FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL**|Woosung Koh et.al.|[2410.15876v1](http://arxiv.org/abs/2410.15876v1)|null|
 |**2024-10-21**|**Principles of semantic and functional efficiency in grammatical patterning**|Emily Cheng et.al.|[2410.15865v1](http://arxiv.org/abs/2410.15865v1)|null|
-|**2024-10-21**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859v1](http://arxiv.org/abs/2410.15859v1)|null|
+|**2024-10-21**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859v2](http://arxiv.org/abs/2410.15859v2)|null|
 |**2024-10-21**|**Random Token Fusion for Multi-View Medical Diagnosis**|Jingyu Guo et.al.|[2410.15847v1](http://arxiv.org/abs/2410.15847v1)|null|
 |**2024-10-21**|**LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation**|Tejumade Afonja et.al.|[2410.15828v1](http://arxiv.org/abs/2410.15828v1)|null|
 |**2024-10-21**|**The effect of fine-tuning on language model toxicity**|Will Hawkins et.al.|[2410.15821v1](http://arxiv.org/abs/2410.15821v1)|[link](https://github.com/willhawkins3/finetuningtoxicity)|
@@ -767,7 +767,7 @@ cultural spectrum.
 摘要：儘管多模態大型語言模型 (MLLM) 近期有長足進展，它們的開發主要集中於以英語和西方為中心的資料集和任務上，導致世界上大多數語言和多元文化脈絡都未得到充分的代表。本文介紹了 Pangea，這是一個多語言多模態 LLM，經過 PangeaIns 訓練，PangeaIns 是一個跨越 39 種語言的多元化 6M 指令資料集。PangeaIns 的特色：1) 高品質的英語指令，2) 經過仔細機器翻譯的指令，以及 3) 與文化相關的多模態任務，以確保跨文化涵蓋範圍。為了嚴格評估模型的能力，我們引入了 PangeaBench，這是一個全面的評估套件，涵蓋了 14 個資料集，涵蓋 47 種語言。結果顯示，Pangea 在多語言環境和多元文化脈絡中明顯優於現有的開放原始碼模型。消融研究進一步揭示了英語資料比例、語言普及程度和多模態訓練樣本數量對整體效能的重要性。我們完全開放原始碼、代碼和訓練過的檢查點，以促進包容且強大的多語言 MLLM 的開發，在更廣泛的語言和文化領域推廣公平性和可及性。
 
 ##### **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**
-2410.16152v1 by Giannis Daras, Weili Nie, Karsten Kreis, Alex Dimakis, Morteza Mardani, Nikola Borislavov Kovachki, Arash Vahdat
+2410.16152v2 by Giannis Daras, Weili Nie, Karsten Kreis, Alex Dimakis, Morteza Mardani, Nikola Borislavov Kovachki, Arash Vahdat
 
 Using image models naively for solving inverse video problems often suffers
 from flickering, texture-sticking, and temporal inconsistency in generated
@@ -783,9 +783,9 @@ state-of-the-art latent diffusion models such as Stable Diffusion XL to solve
 video inverse problems. We demonstrate the effectiveness of our method for
 video inpainting and $8\times$ video super-resolution, outperforming existing
 techniques based on noise transformations. We provide generated video results:
-https://giannisdaras.github.io/warped\_diffusion.github.io/.
+https://giannisdaras.github.io/warped_diffusion.github.io/.
 
-摘要：使用图像模型来解决逆视频问题时，通常会出现闪烁、纹理粘连和生成的视频在时间上不一致的问题。为了解决这些问题，在本文中，我们将帧视为二维空间中的连续函数，将视频视为不同帧之间连续变形变换的序列。这种观点使我们能够仅在图像上训练函数空间扩散模型，并利用它们来解决时间相关的逆问题。函数空间扩散模型需要相对于底层空间变换保持等变性。为了确保时间一致性，我们引入了一个简单的后验测试时间指导，以实现（自）等变解决方案。我们的方法使我们能够部署最先进的潜在扩散模型，例如 Stable Diffusion XL，来解决视频逆问题。我们展示了我们的方法在视频修复和 8 倍视频超分辨率方面的有效性，优于基于噪声变换的现有技术。我们提供了生成的视频结果：https://giannisdaras.github.io/warped\_diffusion.github.io/。
+摘要：使用图像模型来解决逆视频问题时，通常会出现闪烁、纹理粘连和生成视频的时间不一致问题。为了解决这些问题，在本文中，我们将帧视为 2D 空间中的连续函数，并将视频视为不同帧之间的连续扭曲变换序列。这种观点使我们能够仅在图像上训练函数空间扩散模型，并利用它们来解决时间相关逆问题。函数空间扩散模型需要相对于底层空间变换保持等变性。为了确保时间一致性，我们在事后测试时间指导中引入了一个简单的（自）等变解。我们的方法使我们能够部署最先进的潜在扩散模型（例如 Stable Diffusion XL）来解决视频逆问题。我们展示了我们的方法在视频修复和 8 倍视频超分辨率方面的有效性，优于基于噪声变换的现有技术。我们提供了生成的视频结果：https://giannisdaras.github.io/warped_diffusion.github.io/。
 
 ##### **Small Contributions, Small Networks: Efficient Neural Network Pruning Based on Relative Importance**
 2410.16151v1 by Mostafa Hussien, Mahmoud Afifi, Kim Khoa Nguyen, Mohamed Cheriet
@@ -1213,7 +1213,7 @@ performance of prediction models.
 摘要：在複雜的駕駛情境中進行精準的軌跡預測對於自駕車而言至關重要。在實務上，不同的駕駛情境會為軌跡預測模型帶來不同的難度。然而，現有的研究大多關注預測結果的平均準確度，而忽略了輸入情境的底層分佈。本文提出了一種關鍵範例挖掘方法，該方法利用資料驅動的方法來估計軌跡的稀有性。透過結合觀測的稀有性估計與整個軌跡，所提出的方法有效地識別了一組相對難以預測的資料子集，在將其提供給特定的預測模型之前。實驗結果顯示，挖掘出的子集在應用於不同的下游預測模型時具有較高的預測誤差，在挖掘 5% 樣本時達到 +108.1% 的誤差（比資料集上的平均值高出兩倍以上）。進一步的分析表明，挖掘出的關鍵範例包括突然煞車和取消換車道等不常見的案例，這有助於更好地了解和改善預測模型的效能。
 
 ##### **CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**
-2410.16077v1 by Zhenpeng Su, Xing Wu, Zijia Lin, Yizhe Xiong, Minxuan Lv, Guangyuan Ma, Hui Chen, Songlin Hu, Guiguang Ding
+2410.16077v2 by Zhenpeng Su, Xing Wu, Zijia Lin, Yizhe Xiong, Minxuan Lv, Guangyuan Ma, Hui Chen, Songlin Hu, Guiguang Ding
 
 Large language models (LLM) have been attracting much attention from the
 community recently, due to their remarkable performance in all kinds of
@@ -1233,10 +1233,10 @@ MoE models for building LLMs, in terms of both perplexity and downstream task
 performance. And we also find that CartesianMoE achieves better expert routing
 robustness.
 
-摘要：大型語言模型 (LLM) 最近備受社群關注，因為它們在各種下游任務中都有傑出的表現。根據著名的規模定律，擴展密集 LLM 可增強其功能，但也會大幅增加計算複雜度。混合專家 (MoE) 模型透過允許模型規模擴展，同時不大幅提高訓練或推論成本來解決此問題。然而，MoE 模型在專家之間的知識共享方面面臨挑戰，這使得其性能在某種程度上取決於路由準確度。為了解決這個問題，先前的研究引入了共享專家，並以「加法」的方式將他們的輸出與路由的前 K 個專家的輸出相結合。在本文中，我們受到集體矩陣分解的啟發，學習資料之間的共享知識，我們提出了 CartesianMoE，它以更像「乘法」的方式在專家之間實施更有效的知識共享。廣泛的實驗結果表明，在困惑度和下游任務性能方面，CartesianMoE 優於先前的 MoE 模型，用於構建 LLM。我們還發現，CartesianMoE 实现了更好的專家路由健壯性。
+摘要：大型語言模型 (LLM) 近期廣受社群關注，因為它們在各種下游任務中表現傑出。根據著名的規模定律，擴大密集 LLM 能增強其功能，但也大幅增加運算複雜度。專家混合 (MoE) 模型透過允許模型規模擴大而不會大幅增加訓練或推論成本來解決這個問題。然而，MoE 模型在專家之間的知識共享方面面臨挑戰，使得它們的效能多少會受到路由精準度的影響。為了解決這個問題，先前的研究引入了共享專家，並以「加法」的方式將他們的輸出與路由前 $K$ 名專家的輸出結合。在本文中，我們受到集體矩陣分解的啟發，從資料中學習共享知識，並提出笛卡兒 MoE，它以更像是「乘法」的方式在專家之間實作更有效的知識共享。廣泛的實驗結果表明，笛卡兒 MoE 在困惑度和下游任務效能方面都優於先前的 MoE 模型，用於建構 LLM。我們也發現笛卡兒 MoE 達到更好的專家路由穩健性。
 
 ##### **On-Device LLMs for SMEs: Challenges and Opportunities**
-2410.16070v1 by Jeremy Stephen Gabriel Yee Zhi Wen, Pai Chet Ng, Zhengkui Wang, Ian McLoughlin, Aik Beng Ng, Simon See
+2410.16070v2 by Jeremy Stephen Gabriel Yee, Pai Chet Ng, Zhengkui Wang, Ian McLoughlin, Aik Beng Ng, Simon See
 
 This paper presents a systematic review of the infrastructure requirements
 for deploying Large Language Models (LLMs) on-device within the context of
@@ -1254,7 +1254,7 @@ obstacles. Such a structured review provides practical insights, contributing
 significantly to the community by enhancing the technological resilience of
 SMEs in integrating LLMs.
 
-摘要：本文針對中小型企業 (SME) 的情境，對在裝置上部署大型語言模型 (LLM) 的基礎設施需求進行系統性檢視，重點放在硬體和軟體觀點。從硬體觀點來看，我們探討處理單元（如 GPU 和 TPU）的利用、高效的記憶體和儲存解決方案，以及有效部署的策略，以解決 SME 環境中常見的運算資源有限的挑戰。從軟體觀點來看，我們探討架構相容性、作業系統最佳化，以及使用專門針對資源受限環境量身打造的函式庫。檢視的架構首先找出 SME 在裝置上部署 LLM 時面臨的獨特挑戰，接著探討硬體創新和軟體改編提供的機會以克服這些障礙。這種結構化的檢視提供實用的見解，透過提升 SME 整合 LLM 的技術韌性，對社群做出重大貢獻。
+摘要：本文針對中小型企業 (SME) 的情境，系統性探討了在裝置上部署大型語言模型 (LLM) 的基礎設施需求，重點在硬體和軟體的觀點。從硬體觀點來看，我們探討處理單元（如 GPU 和 TPU）的利用、高效能記憶體和儲存解決方案，以及有效部署策略，以解決 SME 環境中常見的運算資源受限挑戰。從軟體觀點來看，我們探討架構相容性、作業系統最佳化，以及使用專門為資源受限環境量身打造的函式庫。本探討的架構首先找出 SME 在裝置上部署 LLM 時面臨的獨特挑戰，接著探討硬體創新和軟體調整所提供的機會，以克服這些障礙。這樣一個結構化的探討提供了實用的見解，透過提升 SME 整合 LLM 的技術韌性，為社群做出重大貢獻。
 
 ##### **Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context**
 2410.16069v1 by Maggie Mi, Aline Villavicencio, Nafise Sadat Moosavi
@@ -1587,7 +1587,7 @@ identify promising combinations of different closed-loop training methods.
 摘要：模擬在自動駕駛車輛的快速開發和安全部署中扮演著至關重要的角色。逼真的交通代理模型對於縮小模擬和現實世界之間的差距至關重要。許多現有的模仿人類行為的方法都是基於示範學習。然而，這些方法通常受到關注於個別訓練策略的限制。因此，為了促進對現實交通代理建模的更廣泛理解，在本文中，我們提供了對不同訓練原則的廣泛比較分析，重點關注用於高速公路駕駛模擬的閉環方法。我們通過實驗比較了 (i) 開環與閉環多代理訓練，(ii) 對抗式與確定性監督訓練，(iii) 強化損失的影響，以及 (iv) 與日誌重播代理一起訓練的影響，以識別適合於現實代理建模的訓練技術。此外，我們還確定了不同閉環訓練方法的有希望的組合。
 
 ##### **PROMPTHEUS: A Human-Centered Pipeline to Streamline SLRs with LLMs**
-2410.15978v1 by João Pedro Fernandes Torres, Catherine Muligan, Joaquim Jorge, Catarina Moreira
+2410.15978v2 by João Pedro Fernandes Torres, Catherine Mulligan, Joaquim Jorge, Catarina Moreira
 
 The growing volume of academic publications poses significant challenges for
 researchers conducting timely and accurate Systematic Literature Reviews,
@@ -1612,7 +1612,7 @@ laypeople.
   The code for this project can be found on the GitHub repository at
 https://github.com/joaopftorres/PROMPTHEUS.git
 
-摘要：<paragraph>學術出版物數量不斷增加，對研究人員進行及時且準確的系統性文獻回顧構成重大挑戰，特別是在人工智能等快速發展的領域中。學術文獻的增長也使得外行人越來越難以有效地獲取科學知識，這表示學術文獻經常在通俗媒體中被錯誤地詮釋，更廣泛地說，在社會中也是如此。傳統的 SLR 方法勞動力密集且容易出錯，而且難以跟上新研究的快速步伐。為了解決這些問題，我們開發了\textit{PROMPTHEUS}：一種以 AI 為主的管道解決方案，使用大型語言模型自動化 SLR 程序。我們的目標是透過減少手動工作量來提高效率，同時維持綜合文獻合成所需的精確度和一致性。PROMPTHEUS 自動化了 SLR 程序的主要階段，包括系統性搜尋、資料萃取、使用 BERTopic 的主題建模，以及使用轉換器模型進行摘要。在五個研究領域進行的評估顯示，PROMPTHEUS 縮短了回顧時間，達到了高精確度，並提供了連貫的主題組織，為在研究領域日益擁擠的情況下進行文獻回顧提供了一個可擴充且有效的解決方案。此外，此類工具可以透過讓外行人更容易取得摘要，來減少對科學的日益不信任。這個專案的程式碼可以在 GitHub 儲存庫中找到，網址為 https://github.com/joaopftorres/PROMPTHEUS.git</paragraph>
+摘要：<paragraph>學術出版品的數量持續增加，對於進行及時且準確的系統性文獻回顧的研究人員來說，這構成了重大的挑戰，特別是在像人工智慧等快速發展的領域中。學術文獻的增長也使得一般人越來越難以有效地獲取科學知識，這意味著學術文獻經常在通俗媒體中被錯誤呈現，更廣泛地說，在社會中也是如此。傳統的系統性文獻回顧方法既費力又容易出錯，而且難以跟上新研究的快速步伐。為了解決這些問題，我們開發了PROMPTHEUS：一種由大型語言模型自動化系統性文獻回顧流程的 AI 驅動管道解決方案。我們的目標是通過減少手動工作量來提高效率，同時保持綜合文獻合成所需的精確性和一致性。PROMPTHEUS 自動化了系統性文獻回顧流程的主要階段，包括系統性搜尋、資料萃取、使用 BERTopic 的主題建模，以及使用轉換器模型進行摘要。在五個研究領域進行的評估表明，PROMPTHEUS 縮短了回顧時間，達到了高精度，並提供了連貫的主題組織，為在日益擁擠的研究領域中進行文獻回顧提供了一個可擴充且有效的解決方案。此外，此類工具可以讓一般人更容易取得摘要，從而減少對科學的不信任。這個專案的程式碼可以在 GitHub 儲存庫中找到，網址為 https://github.com/joaopftorres/PROMPTHEUS.git</paragraph>
 
 ##### **Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small**
 2410.15977v1 by Zhehui Wang, Tao Luo, Cheng Liu, Weichen Liu, Rick Siow Mong Goh, Weng-Fai Wong
@@ -2207,7 +2207,7 @@ encoding.
 摘要：語法特徵，例如數目和性別，在人類語言中具有兩個核心功能。雖然它們編碼了顯著的語義屬性，例如數量和動物性，但它們也通過語法一致性可預測地將單詞聯繫在一起，從而降低了句子處理成本。語法在不同的語言中表現出一致的組織模式，這些模式總是植根於語義基礎，這是一個得到廣泛證實但仍然無法從理論上解釋的現象。為了解釋普遍語法模式的基礎，我們將語法的兩個基本屬性，語義編碼和基於一致性的可預測性，統一到認知約束下的單一資訊理論目標中。我們的分析表明，語法組織顯然繼承自感知屬性，但語法在經驗上優先考慮功能目標，促進了對語義編碼的高效語言處理。
 
 ##### **Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**
-2410.15859v1 by Xin Ma, Yang Liu, Jingjing Liu, Xiaoxu Ma
+2410.15859v2 by Xin Ma, Yang Liu, Jingjing Liu, Xiaoxu Ma
 
 Large language models (LLMs), although having revolutionized many fields,
 still suffer from the challenging extrapolation problem, where the inference
@@ -2226,20 +2226,20 @@ inference speed. Extensive experiments validate the effectiveness of
 Mesa-Extrapolation, demonstrating its potential as a scalable solution to
 enhancing LLMs applicative reach.
 
-摘要：大型語言模型 (LLM) 雖然已經徹底改變許多領域，
-但仍深受具挑戰性的外推問題所苦，其中 LLM 的推論
-能力在其最大訓練長度之外急劇下降。在這項
-工作中，我們進行理論分析以更好地理解為什麼無位置
-編碼 (NoPE) 會超出其有效範圍而失敗，以及在此情況下檢驗
-位置編碼 (PE) 的能力。我們的研究結果顯示，透過
-細緻的編織位置，PE 確實可以延伸到有效範圍之外。
-我們的定理建立了配備編織 PE 的 LLM 可以改善
-外推效能而無需額外成本。此外，我們引入一種
-新穎的編織 PE 方法，Mesa-Extrapolation，它利用分塊
-三角形注意力矩陣並應用 Stair PE 來管理最後的區塊。
-這種方法不僅保留了競爭力，而且還提供了
-諸如顯著減少記憶體需求和更快的推論速度等實質性優點。廣泛的實驗驗證了
-Mesa-Extrapolation 的有效性，證明了其作為可擴充解決方案的潛力，以
+摘要：大型語言模型 (LLM) 儘管已經革新許多領域，
+仍受限於具有挑戰性的外推問題，其中 LLM 的推論
+能力在其最大訓練長度之外急劇下降。在這
+項工作中，我們進行理論分析，以更好地理解為什麼無位置
+編碼 (NoPE) 在其有效範圍之外會失敗，以及在此情況下探討
+位置編碼 (PE) 的能力。我們的發現顯示，透過
+細緻的編織位置，PE 確實可以擴展到有效範圍之外。
+我們的定理表明配備編織 PE 的 LLM 可以實現改進
+的外推效能，而無需額外成本。此外，我們引入一種
+新穎的編織 PE 方法，Mesa-Extrapolation，它利用基於塊的
+三角形注意力矩陣，並應用階梯 PE 來管理最後一個塊。
+此方法不僅保持競爭力，而且還提供
+顯著降低記憶體需求和更快的推論速度等實質性優點。廣泛的實驗驗證了
+Mesa-Extrapolation 的有效性，證明其作為可擴充解決方案的潛力，以
 增強 LLM 的應用範圍。
 
 ##### **Random Token Fusion for Multi-View Medical Diagnosis**

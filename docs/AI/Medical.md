@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|[link](https://github.com/svthapa/more)|
 |**2024-10-21**|**GenAI Assisting Medical Training**|Stefan Fritsch et.al.|[2410.16164v1](http://arxiv.org/abs/2410.16164v1)|null|
 |**2024-10-21**|**Fine-Tuning LLMs for Reliable Medical Question-Answering Services**|Ali Anaissi et.al.|[2410.16088v1](http://arxiv.org/abs/2410.16088v1)|null|
 |**2024-10-21**|**1024m at SMM4H 2024: Tasks 3, 5 & 6 -- Ensembles of Transformers and Large Language Models for Medical Text Classification**|Ram Mohan Rao Kadiyala et.al.|[2410.15998v1](http://arxiv.org/abs/2410.15998v1)|null|
@@ -12,7 +12,7 @@
 |**2024-10-21**|**Resource-Efficient Medical Report Generation using Large Language Models**|Abdullah et.al.|[2410.15642v1](http://arxiv.org/abs/2410.15642v1)|null|
 |**2024-10-20**|**Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini**|Chanseo Lee et.al.|[2410.15528v1](http://arxiv.org/abs/2410.15528v1)|null|
 |**2024-10-20**|**Anonymising Elderly and Pathological Speech: Voice Conversion Using DDSP and Query-by-Example**|Suhita Ghosh et.al.|[2410.15500v1](http://arxiv.org/abs/2410.15500v1)|[link](https://github.com/suhitaghosh10/ddsp-qbe)|
-|**2024-10-20**|**Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**|Fnu Neha et.al.|[2410.15472v1](http://arxiv.org/abs/2410.15472v1)|null|
+|**2024-10-20**|**Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**|Fnu Neha et.al.|[2410.15472v2](http://arxiv.org/abs/2410.15472v2)|null|
 |**2024-10-20**|**Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training**|Shahrad Mohammadzadeh et.al.|[2410.15460v1](http://arxiv.org/abs/2410.15460v1)|null|
 |**2024-10-20**|**Concept Complement Bottleneck Model for Interpretable Medical Image Diagnosis**|Hongmei Wang et.al.|[2410.15446v1](http://arxiv.org/abs/2410.15446v1)|null|
 |**2024-10-20**|**AttCDCNet: Attention-enhanced Chest Disease Classification using X-Ray Images**|Omar Hesham Khater et.al.|[2410.15437v1](http://arxiv.org/abs/2410.15437v1)|null|
@@ -320,7 +320,7 @@ domain preservation by analysing twelve clinically pertinent domain attributes.
 摘要：語音匿名化旨在透過變更語音中的個人識別資訊，同時保留語言內容，以保護說話者的身分。目前的技術無法保留在老年和病理語言領域中發現的語調和獨特語音模式，這對於遠距健康監測至關重要。為了解決這個問題，我們提出一個基於語音轉換的方法 (DDSP-QbE)，使用可微分數位訊號處理和範例查詢。所提出的方法經過新穎損失訓練，有助於解開語言、語調和領域表示，使模型能夠適應不常見的語音模式。客觀和主觀評估顯示，DDSP-QbE 在不同資料集、病理和說話者中，在清晰度、語調和領域保留方面，明顯優於語音轉換的現有技術，同時保持品質和說話者匿名性。專家透過分析十二個臨床上相關的領域屬性，驗證領域保留。
 
 ##### **Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**
-2410.15472v1 by Fnu Neha, Arvind K. Bansal
+2410.15472v2 by Fnu Neha, Arvind K. Bansal
 
 Renal tumors, especially renal cell carcinoma (RCC), show significant
 heterogeneity, posing challenges for diagnosis using radiology images such as
@@ -340,7 +340,7 @@ model achieves a Dice Similarity Coefficient (DSC) of 0.97 and a Jaccard index
 and a JI of 0.91. Based on a comparison of available DSC scores, our model
 outperforms the current leading models.
 
-摘要：腎臟腫瘤，尤其是腎細胞癌 (RCC)，表現出顯著異質性，對使用放射圖像（例如 MRI、超音波心動圖和 CT 掃描）進行診斷構成挑戰。基於 U-Net 的深度學習技術正在成為自動化醫學影像分割的很有前景的方法，用於腎臟腫瘤的微創診斷。然而，目前的技術需要進一步提高準確性，才能對放射科醫師在臨床上有用。在這項研究中，我們提出了一個改進的基於 U-Net 的模型，用於 CT 掃描影像的端到端自動語意分割，以識別腎臟腫瘤。該模型在卷積層之間使用殘差連接，在編碼器塊中整合多層特徵融合 (MFF) 和跨通道注意力 (CCA)，並結合使用 MFF 和 CCA 衍生的額外資訊來擴充跳躍連接。我們在 KiTS19 資料集上評估了我們的模型，該資料集包含來自 210 名患者的資料。對於腎臟分割，我們的模型實現了 0.97 的 Dice 相似性係數 (DSC) 和 0.95 的 Jaccard 指數 (JI)。對於腎臟腫瘤分割，我們的模型實現了 0.96 的 DSC 和 0.91 的 JI。根據可用的 DSC 分數比較，我們的模型優於目前的領先模型。
+摘要：腎臟腫瘤，尤其是腎細胞癌 (RCC)，表現出顯著的異質性，對使用磁力共振影像、超音波心動圖和電腦斷層掃描等放射影像進行診斷構成挑戰。基於 U-Net 的深度學習技術正作為一種有前途的方法出現，用於自動化醫學影像分割，以對腎臟腫瘤進行微創診斷。然而，目前的技術需要進一步提高準確性，才能對放射科醫師在臨床上有用。在本研究中，我們提出了一個改進的基於 U-Net 的模型，用於電腦斷層掃描影像的端到端自動語義分割，以識別腎臟腫瘤。該模型使用卷積層之間的殘差連接，整合編碼器塊內的多分層特徵融合 (MFF) 和跨通道注意力 (CCA)，並結合使用 MFF 和 CCA 導出的附加資訊增強的跳躍連接。我們在 KiTS19 資料集上評估了我們的模型，其中包含來自 210 名患者的資料。對於腎臟分割，我們的模型實現了 0.97 的 Dice 相似性係數 (DSC) 和 0.95 的 Jaccard 指數 (JI)。對於腎臟腫瘤分割，我們的模型實現了 0.96 的 DSC 和 0.91 的 JI。根據可用 DSC 分數的比較，我們的模型優於目前的領先模型。
 
 ##### **Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training**
 2410.15460v1 by Shahrad Mohammadzadeh, Juan David Guerra, Marco Bonizzato, Reihaneh Rabbany, Golnoosh Farnadi

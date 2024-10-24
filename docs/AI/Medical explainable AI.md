@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|null|
+|**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
 |**2024-10-19**|**Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**|Gesa Mittmann et.al.|[2410.15012v1](http://arxiv.org/abs/2410.15012v1)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910v1](http://arxiv.org/abs/2410.11910v1)|null|
 |**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|[link](https://github.com/tlabarta/helpfulnessofxai)|
@@ -37,6 +39,7 @@
 |**2024-07-01**|**The Impact of an XAI-Augmented Approach on Binary Classification with Scarce Data**|Ximing Wen et.al.|[2407.06206v1](http://arxiv.org/abs/2407.06206v1)|null|
 |**2024-06-28**|**Can GPT-4 Help Detect Quit Vaping Intentions? An Exploration of Automatic Data Annotation Approach**|Sai Krishna Revanth Vuruma et.al.|[2407.00167v1](http://arxiv.org/abs/2407.00167v1)|null|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
+|**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v2](http://arxiv.org/abs/2406.12142v2)|[link](https://github.com/volesen/slicing-through-bias)|
 |**2024-06-11**|**Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v2](http://arxiv.org/abs/2406.07114v2)|null|
 |**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
@@ -99,11 +102,67 @@
 |**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
 |**2023-09-19**|**QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**|Thanveer Shaik et.al.|[2309.10293v3](http://arxiv.org/abs/2309.10293v3)|null|
 |**2023-09-18**|**Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**|Adarsa Sivaprasad et.al.|[2309.09917v1](http://arxiv.org/abs/2309.09917v1)|null|
-|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
-|**2023-08-18**|**Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**|Yun Xin Teoh et.al.|[2308.09380v1](http://arxiv.org/abs/2308.09380v1)|null|
-|**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|null|
 
 #### Abstracts
+##### **An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**
+2410.17504v1 by Shruthi Chari
+
+Explainable Artificial Intelligence (AI) focuses on helping humans understand
+the working of AI systems or their decisions and has been a cornerstone of AI
+for decades. Recent research in explainability has focused on explaining the
+workings of AI models or model explainability. There have also been several
+position statements and review papers detailing the needs of end-users for
+user-centered explainability but fewer implementations. Hence, this thesis
+seeks to bridge some gaps between model and user-centered explainability. We
+create an explanation ontology (EO) to represent literature-derived explanation
+types via their supporting components. We implement a knowledge-augmented
+question-answering (QA) pipeline to support contextual explanations in a
+clinical setting. Finally, we are implementing a system to combine explanations
+from different AI methods and data modalities. Within the EO, we can represent
+fifteen different explanation types, and we have tested these representations
+in six exemplar use cases. We find that knowledge augmentations improve the
+performance of base large language models in the contextualized QA, and the
+performance is variable across disease groups. In the same setting, clinicians
+also indicated that they prefer to see actionability as one of the main foci in
+explanations. In our explanations combination method, we plan to use similarity
+metrics to determine the similarity of explanations in a chronic disease
+detection setting. Overall, through this thesis, we design methods that can
+support knowledge-enabled explanations across different use cases, accounting
+for the methods in today's AI era that can generate the supporting components
+of these explanations and domain knowledge sources that can enhance them.
+
+摘要：可解釋人工智慧（AI）專注於協助人類了解 AI 系統運作或其決策，數十年來一直是 AI 的基石。最近的可解釋性研究專注於解釋 AI 模型或模型可解釋性的運作。也有幾份立場聲明和評論論文詳細說明了最終使用者對以使用者為中心的可解釋性的需求，但實作較少。因此，本論文旨在彌補模型和以使用者為中心的可解釋性之間的一些差距。我們建立一個解釋本體（EO）以透過其支援元件來表示從文獻中衍生的解釋類型。我們實作一個知識增強的問答（QA）管線，以在臨床環境中支援情境解釋。最後，我們正在實作一個系統，以結合來自不同 AI 方法和資料模式的解釋。在 EO 中，我們可以表示 15 種不同的解釋類型，並且我們已在六個範例使用案例中測試這些表示。我們發現，知識增強改善了基礎大型語言模型在情境化 QA 中的效能，並且效能因疾病群組而異。在相同的環境中，臨床醫生也表示他們希望將可操作性視為解釋中的主要焦點之一。在我們的解釋組合方法中，我們計畫使用相似性指標來確定慢性病偵測環境中解釋的相似性。總體而言，透過本論文，我們設計了可以在不同使用案例中支援知識啟用解釋的方法，考量到當今 AI 時代中可以產生這些解釋的支援元件和可以增強這些解釋的領域知識來源的方法。
+
+##### **Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**
+2410.16879v1 by Lukas Hughes-Noehrer, Leda Channer, Gabriel Strain, Gregory Yates, Richard Body, Caroline Jay
+
+Objectives: To investigate clinicians' attitudes towards current automated
+interpretation of ECG and novel AI technologies and their perception of
+computer-assisted interpretation. Materials and Methods: We conducted a series
+of interviews with clinicians in the UK. Our study: (i) explores the potential
+for AI, specifically future 'human-like' computing approaches, to facilitate
+ECG interpretation and support clinical decision making, and (ii) elicits their
+opinions about the importance of explainability and trustworthiness of AI
+algorithms. Results: We performed inductive thematic analysis on interview
+transcriptions from 23 clinicians and identified the following themes: (i) a
+lack of trust in current systems, (ii) positive attitudes towards future AI
+applications and requirements for these, (iii) the relationship between the
+accuracy and explainability of algorithms, and (iv) opinions on education,
+possible deskilling, and the impact of AI on clinical competencies. Discussion:
+Clinicians do not trust current computerised methods, but welcome future 'AI'
+technologies. Where clinicians trust future AI interpretation to be accurate,
+they are less concerned that it is explainable. They also preferred ECG
+interpretation that demonstrated the results of the algorithm visually. Whilst
+clinicians do not fear job losses, they are concerned about deskilling and the
+need to educate the workforce to use AI responsibly. Conclusion: Clinicians are
+positive about the future application of AI in clinical decision-making.
+Accuracy is a key factor of uptake and visualisations are preferred over
+current computerised methods. This is viewed as a potential means of training
+and upskilling, in contrast to the deskilling that automation might be
+perceived to bring.
+
+摘要：<paragraph>目的：調查臨床醫生對目前自動化心電圖解讀和新的人工智慧技術的態度，以及他們對電腦輔助解讀的看法。材料和方法：我們對英國的臨床醫生進行了一系列訪談。我們的研究：(i) 探討人工智慧的潛力，特別是未來的「類人類」運算方法，以促進心電圖解讀並支持臨床決策制定，以及 (ii) 徵求他們對人工智慧演算法的可解釋性和可信度的看法。結果：我們對 23 位臨床醫生的訪談記錄進行了歸納主題分析，並找出以下主題：(i) 對目前系統缺乏信任，(ii) 對未來人工智慧應用和對這些應用的要求持正面態度，(iii) 演算法的準確性和可解釋性之間的關係，以及 (iv) 對教育、可能的技能退化，以及人工智慧對臨床能力的影響的看法。討論：臨床醫生不信任目前的電腦化方法，但歡迎未來的「人工智慧」技術。在臨床醫生相信未來的 AI 解讀準確的情況下，他們不太擔心它是否可解釋。他們也比較喜歡能以視覺方式呈現演算法結果的心電圖解讀。雖然臨床醫生不害怕失業，但他們擔心技能退化，以及需要教育員工負責任地使用人工智慧。結論：臨床醫生對人工智慧在臨床決策制定中的未來應用持正面態度。準確性是採用人工智慧的一個關鍵因素，而視覺化比目前的電腦化方法更受青睞。這被視為一種潛在的培訓和提升技能的方法，與自動化可能帶來的技能退化形成對比。</paragraph>
+
 ##### **Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**
 2410.15012v1 by Gesa Mittmann, Sara Laiouar-Pedari, Hendrik A. Mehrtens, Sarah Haggenmüller, Tabea-Clara Bucher, Tirtha Chanda, Nadine T. Gaisa, Mathias Wagner, Gilbert Georg Klamminger, Tilman T. Rau, Christina Neppl, Eva Maria Compérat, Andreas Gocht, Monika Hämmerle, Niels J. Rupp, Jula Westhoff, Irene Krücken, Maximillian Seidl, Christian M. Schürch, Marcus Bauer, Wiebke Solass, Yu Chun Tam, Florian Weber, Rainer Grobholz, Jaroslaw Augustyniak, Thomas Kalinski, Christian Hörner, Kirsten D. Mertz, Constanze Döring, Andreas Erbersdobler, Gabriele Deubler, Felix Bremmer, Ulrich Sommer, Michael Brodhun, Jon Griffin, Maria Sarah L. Lenon, Kiril Trpkov, Liang Cheng, Fei Chen, Angelique Levi, Guoping Cai, Tri Q. Nguyen, Ali Amin, Alessia Cimadamore, Ahmed Shabaik, Varsha Manucha, Nazeel Ahmad, Nidia Messias, Francesca Sanguedolce, Diana Taheri, Ezra Baraban, Liwei Jia, Rajal B. Shah, Farshid Siadat, Nicole Swarbrick, Kyung Park, Oudai Hassan, Siamak Sakhaie, Michelle R. Downes, Hiroshi Miyamoto, Sean R. Williamson, Tim Holland-Letz, Carolin V. Schneider, Jakob Nikolas Kather, Yuri Tolkach, Titus J. Brinker
 
@@ -1058,6 +1117,32 @@ structured models in practice.
 我們提出了一種基於範疇論定義 AI 模型及其可解釋性的方法。為此，我們採用組合模型的概念，它以形式弦圖的形式看待模型，這些弦圖捕獲了模型的抽象結構及其具體實現。這種綜合觀點包含了確定性、概率性和量子模型。我們將各種 AI 模型作為組合模型進行比較，包括線性和基於規則的模型、（遞迴）神經網路、Transformer、VAE，以及因果和 DisCoCirc 模型。
 接下來，我們根據模型的組合結構給出模型解釋的定義，展示如何分析模型的可解釋性，並使用它來澄清 XAI 中的常見主題。我們發現，讓標準的「內在可解釋」模型如此透明的原因在圖表中表現得最為清楚。這引導我們得出更一般的組合可解釋（CI）模型概念，它另外還包括因果、概念空間和 DisCoCirc 模型。
 接下來，我們展示了 CI 模型的可解釋性優勢。首先，它們的組合結構允許計算其他感興趣的量，並可能通過匹配模型的結構來促進從模型到被建模現象的推理。其次，它們允許對其行為進行圖解說明，這些說明基於影響約束、圖解手術和重寫說明。最後，我們討論了這種方法的許多未來方向，提出了如何在實踐中學習這種有意義的結構化模型的問題。</paragraph>
+
+##### **Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**
+2406.12142v2 by Vincent Olesen, Nina Weng, Aasa Feragen, Eike Petersen
+
+Machine learning models have achieved high overall accuracy in medical image
+analysis. However, performance disparities on specific patient groups pose
+challenges to their clinical utility, safety, and fairness. This can affect
+known patient groups - such as those based on sex, age, or disease subtype - as
+well as previously unknown and unlabeled groups. Furthermore, the root cause of
+such observed performance disparities is often challenging to uncover,
+hindering mitigation efforts. In this paper, to address these issues, we
+leverage Slice Discovery Methods (SDMs) to identify interpretable
+underperforming subsets of data and formulate hypotheses regarding the cause of
+observed performance disparities. We introduce a novel SDM and apply it in a
+case study on the classification of pneumothorax and atelectasis from chest
+x-rays. Our study demonstrates the effectiveness of SDMs in hypothesis
+formulation and yields an explanation of previously observed but unexplained
+performance disparities between male and female patients in widely used chest
+X-ray datasets and models. Our findings indicate shortcut learning in both
+classification tasks, through the presence of chest drains and ECG wires,
+respectively. Sex-based differences in the prevalence of these shortcut
+features appear to cause the observed classification performance gap,
+representing a previously underappreciated interaction between shortcut
+learning and model fairness analyses.
+
+摘要：機器學習模型在醫學影像分析中已達到整體高準確度。然而，特定患者群體的效能差異對其臨床效用、安全性與公平性構成挑戰。這可能會影響已知的患者群體（例如基於性別、年齡或疾病亞型）以及先前未知且未標籤的群體。此外，此類觀察到的效能差異的根本原因通常難以發現，阻礙了緩解措施。在本文中，為了解決這些問題，我們利用切片發現方法 (SDM) 來識別可解釋的資料效能不佳子集，並針對觀察到的效能差異原因制定假設。我們引入一種新的 SDM，並在胸部 X 光片中肺炎和肺不張分類的案例研究中應用它。我們的研究證明了 SDM 在假設制定中的有效性，並對廣泛使用的胸部 X 光片資料集和模型中先前觀察到但無法解釋的男性和女性患者之間的效能差異提供了解釋。我們的發現表明，在分類任務中，透過胸腔引流管和心電圖導線的存在，存在捷徑學習。這些捷徑特徵的盛行率存在基於性別的差異，似乎會導致觀察到的分類效能差距，這代表捷徑學習和模型公平性分析之間先前未受到重視的交互作用。
 
 ##### **Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**
 2406.07114v2 by Fatemeh Ebrahimzadeh, Ramin Safa
@@ -2613,78 +2698,4 @@ enhance narrative global explanations. This, in turn, guides the design of
 health informatics systems that are both trustworthy and actionable.
 
 摘要：在可解释人工智能 (XAI) 研究中，主要重点在于为专家和从业者解释模型。模型不可知和局部解释方法在许多应用中被认为是可解释且足够的。然而，在医疗保健等领域，最终用户是缺乏人工智能或领域专业知识的患者，因此迫切需要更易于理解且能激发对模型操作的信任的模型解释。我们假设生成叙述性、患者特定且全局（模型整体）的模型解释将能够提高可理解性并支持决策制定。我们使用决策树模型对此进行测试，为被识别为患有冠心病高风险的患者生成局部和全局解释。这些解释会呈现给非专家用户。我们发现用户强烈偏好特定类型的解释。大多数参与者偏好全局解释，而较小的一组参与者偏好局部解释。基于任务的心理模型评估为这些参与者提供了有价值的反馈，以增强叙述性全局解释。这反过来又指导了既值得信赖又可操作的健康信息学系统的设计。
-
-##### **Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**
-2308.14321v1 by Yanjun Gao, Ruizhe Li, John Caskey, Dmitriy Dligach, Timothy Miller, Matthew M. Churpek, Majid Afshar
-
-Electronic Health Records (EHRs) and routine documentation practices play a
-vital role in patients' daily care, providing a holistic record of health,
-diagnoses, and treatment. However, complex and verbose EHR narratives overload
-healthcare providers, risking diagnostic inaccuracies. While Large Language
-Models (LLMs) have showcased their potential in diverse language tasks, their
-application in the healthcare arena needs to ensure the minimization of
-diagnostic errors and the prevention of patient harm. In this paper, we outline
-an innovative approach for augmenting the proficiency of LLMs in the realm of
-automated diagnosis generation, achieved through the incorporation of a medical
-knowledge graph (KG) and a novel graph model: Dr.Knows, inspired by the
-clinical diagnostic reasoning process. We derive the KG from the National
-Library of Medicine's Unified Medical Language System (UMLS), a robust
-repository of biomedical knowledge. Our method negates the need for
-pre-training and instead leverages the KG as an auxiliary instrument aiding in
-the interpretation and summarization of complex medical concepts. Using
-real-world hospital datasets, our experimental results demonstrate that the
-proposed approach of combining LLMs with KG has the potential to improve the
-accuracy of automated diagnosis generation. More importantly, our approach
-offers an explainable diagnostic pathway, edging us closer to the realization
-of AI-augmented diagnostic decision support systems.
-
-摘要：電子健康紀錄 (EHR) 和例行文件記錄實務在病患的日常照護中扮演著至關重要的角色，提供健康、診斷和治療的整體紀錄。然而，複雜且冗長的 EHR 敘述會讓醫療保健提供者超載，有診斷不準確的風險。大型語言模型 (LLM) 已展現其在各種語言任務上的潛力，但其在醫療保健領域的應用需要確保將診斷錯誤降到最低，並防止病患受到傷害。在本文中，我們概述一種創新的方法，透過整合醫學知識圖譜 (KG) 和一種新穎的圖譜模型：Dr.Knows（靈感來自臨床診斷推理過程），來增強 LLM 在自動化診斷產生領域的能力。我們從美國國家醫學圖書館的統一醫學語言系統 (UMLS) 中衍生出 KG，這是一個強大的生物醫學知識儲存庫。我們的做法否定了預先訓練的需要，而是將 KG 作為輔助工具，協助解釋和總結複雜的醫學概念。使用真實世界的醫院資料集，我們的實驗結果證明，將 LLM 與 KG 結合的建議方法有潛力提高自動化診斷產生的準確性。更重要的是，我們的做法提供了一條可解釋的診斷途徑，讓我們更接近實現 AI 增強的診斷決策支援系統。
-
-##### **Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review**
-2308.09380v1 by Yun Xin Teoh, Alice Othmani, Siew Li Goh, Juliana Usman, Khin Wee Lai
-
-Existing artificial intelligence (AI) models for diagnosing knee
-osteoarthritis (OA) have faced criticism for their lack of transparency and
-interpretability, despite achieving medical-expert-like performance. This
-opacity makes them challenging to trust in clinical practice. Recently,
-explainable artificial intelligence (XAI) has emerged as a specialized
-technique that can provide confidence in the model's prediction by revealing
-how the prediction is derived, thus promoting the use of AI systems in
-healthcare. This paper presents the first survey of XAI techniques used for
-knee OA diagnosis. The XAI techniques are discussed from two perspectives: data
-interpretability and model interpretability. The aim of this paper is to
-provide valuable insights into XAI's potential towards a more reliable knee OA
-diagnosis approach and encourage its adoption in clinical practice.
-
-摘要：現有的用於診斷膝骨關節炎 (OA) 的人工智慧 (AI) 模型因其缺乏透明度和可解釋性而受到批評，儘管它們達到了類似醫學專家的表現。這種不透明性使得它們在臨床實務中難以被信任。最近，可解釋人工智慧 (XAI) 已成為一種專門技術，它能透過揭示預測的推導方式來提供對模型預測的信心，從而促進在醫療保健中使用 AI 系統。本文提供了針對膝骨關節炎診斷所使用的 XAI 技術的第一份調查。XAI 技術從兩個角度進行討論：資料可解釋性和模型可解釋性。本文的目的是提供對 XAI 在更可靠的膝骨關節炎診斷方法中的潛力的寶貴見解，並鼓勵在臨床實務中採用它。
-
-##### **Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**
-2308.08407v1 by Munib Mesinovic, Peter Watkinson, Tingting Zhu
-
-Recent advancements in AI applications to healthcare have shown incredible
-promise in surpassing human performance in diagnosis and disease prognosis.
-With the increasing complexity of AI models, however, concerns regarding their
-opacity, potential biases, and the need for interpretability. To ensure trust
-and reliability in AI systems, especially in clinical risk prediction models,
-explainability becomes crucial. Explainability is usually referred to as an AI
-system's ability to provide a robust interpretation of its decision-making
-logic or the decisions themselves to human stakeholders. In clinical risk
-prediction, other aspects of explainability like fairness, bias, trust, and
-transparency also represent important concepts beyond just interpretability. In
-this review, we address the relationship between these concepts as they are
-often used together or interchangeably. This review also discusses recent
-progress in developing explainable models for clinical risk prediction,
-highlighting the importance of quantitative and clinical evaluation and
-validation across multiple common modalities in clinical practice. It
-emphasizes the need for external validation and the combination of diverse
-interpretability methods to enhance trust and fairness. Adopting rigorous
-testing, such as using synthetic datasets with known generative factors, can
-further improve the reliability of explainability methods. Open access and
-code-sharing resources are essential for transparency and reproducibility,
-enabling the growth and trustworthiness of explainable research. While
-challenges exist, an end-to-end approach to explainability in clinical risk
-prediction, incorporating stakeholders from clinicians to developers, is
-essential for success.
-
-摘要：最近在醫療保健中的人工智慧應用進展顯示出令人難以置信的承諾，在診斷和疾病預後方面超越人類表現。然而，隨著人工智能模型的日益複雜，人們對其不透明性、潛在偏差和對可解釋性的需求感到擔憂。為了確保人工智能系統的信任和可靠性，尤其是在臨床風險預測模型中，可解釋性變得至關重要。可解釋性通常被稱為人工智能系統提供其決策邏輯或決策本身對人類利益相關者的強有力解釋的能力。在臨床風險預測中，可解釋性的其他方面，如公平性、偏見、信任和透明度，也代表了超越可解釋性的重要概念。在本次審查中，我們探討了這些概念之間的關係，因為它們經常一起或互換使用。本審查還討論了為臨床風險預測開發可解釋模型的最新進展，強調了在臨床實踐中對多種常見模式進行定量和臨床評估和驗證的重要性。它強調了外部驗證和多樣化可解釋性方法相結合的必要性，以增強信任和公平性。採用嚴格的測試，例如使用具有已知生成因素的合成數據集，可以進一步提高可解釋性方法的可靠性。開放獲取和代碼共享資源對於透明度和可重複性至關重要，從而促進可解釋研究的增長和可信度。儘管存在挑戰，但從臨床醫生到開發人員，採用端到端的可解釋性方法對於臨床風險預測的成功至關重要。
 

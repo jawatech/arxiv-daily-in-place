@@ -41,7 +41,7 @@
 |**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855v1](http://arxiv.org/abs/2410.17855v1)|null|
 |**2024-10-23**|**The Probabilistic Tsetlin Machine: A Novel Approach to Uncertainty Quantification**|K. Darshana Abeyrathna et.al.|[2410.17851v1](http://arxiv.org/abs/2410.17851v1)|null|
 |**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827v1](http://arxiv.org/abs/2410.17827v1)|null|
-|**2024-10-23**|**Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination**|Qiqi Chen et.al.|[2410.17820v1](http://arxiv.org/abs/2410.17820v1)|[link](https://github.com/mainlp/tot-eval)|
+|**2024-10-23**|**Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination**|Qiqi Chen et.al.|[2410.17820v2](http://arxiv.org/abs/2410.17820v2)|[link](https://github.com/mainlp/tot-eval)|
 |**2024-10-23**|**PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**|Feiyan Feng et.al.|[2410.17812v1](http://arxiv.org/abs/2410.17812v1)|null|
 |**2024-10-23**|**OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation**|Qinglin Zhang et.al.|[2410.17799v1](http://arxiv.org/abs/2410.17799v1)|null|
 |**2024-10-23**|**Enhancing Federated Learning Convergence with Dynamic Data Queue and Data Entropy-driven Participant Selection**|Charuka Herath et.al.|[2410.17792v1](http://arxiv.org/abs/2410.17792v1)|null|
@@ -79,13 +79,13 @@
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
 |**2024-10-23**|**Cross-model Control: Improving Multiple Large Language Models in One-time Training**|Jiayi Wu et.al.|[2410.17599v1](http://arxiv.org/abs/2410.17599v1)|[link](https://github.com/wujwyi/cmc)|
 |**2024-10-23**|**Challenge on Sound Scene Synthesis: Evaluating Text-to-Audio Generation**|Junwon Lee et.al.|[2410.17589v1](http://arxiv.org/abs/2410.17589v1)|null|
-|**2024-10-23**|**Bonsai: Gradient-free Graph Distillation for Node Classification**|Mridul Gupta et.al.|[2410.17579v1](http://arxiv.org/abs/2410.17579v1)|null|
+|**2024-10-23**|**Bonsai: Gradient-free Graph Distillation for Node Classification**|Mridul Gupta et.al.|[2410.17579v2](http://arxiv.org/abs/2410.17579v2)|null|
 |**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578v1](http://arxiv.org/abs/2410.17578v1)|null|
 |**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566v1](http://arxiv.org/abs/2410.17566v1)|null|
 |**2024-10-23**|**CLR-Bench: Evaluating Large Language Models in College-level Reasoning**|Junnan Dong et.al.|[2410.17558v1](http://arxiv.org/abs/2410.17558v1)|null|
 |**2024-10-23**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning**|Wei Chen et.al.|[2410.17555v1](http://arxiv.org/abs/2410.17555v1)|[link](https://github.com/cwei01/fairdgcl)|
-|**2024-10-23**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552v1](http://arxiv.org/abs/2410.17552v1)|[link](https://github.com/liudan193/ESpeW)|
-|**2024-10-23**|**ProtoLens: Advancing Prototype Learning for Fine-Grained Interpretability in Text Classification**|Bowen Wei et.al.|[2410.17546v1](http://arxiv.org/abs/2410.17546v1)|null|
+|**2024-10-23**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552v2](http://arxiv.org/abs/2410.17552v2)|[link](https://github.com/liudan193/ESpeW)|
+|**2024-10-23**|**Advancing Interpretability in Text Classification through Prototype Learning**|Bowen Wei et.al.|[2410.17546v2](http://arxiv.org/abs/2410.17546v2)|null|
 |**2024-10-23**|**Responsible Multilingual Large Language Models: A Survey of Development, Applications, and Societal Impact**|Junhua Liu et.al.|[2410.17532v1](http://arxiv.org/abs/2410.17532v1)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529v1](http://arxiv.org/abs/2410.17529v1)|null|
 |**2024-10-23**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520v1](http://arxiv.org/abs/2410.17520v1)|null|
@@ -1023,7 +1023,7 @@ highly suitable for broad adoption in real-world healthcare settings.
 摘要：在本文中，我們介紹了 RE-tune，這是一種新穎的方法，用於微調預先訓練的多模態生物醫學視覺語言模型 (VLM)，以用於多標籤胸部疾病診斷的增量學習場景。RE-tune 凍結主幹，只在 VLM 的圖像和文本編碼器之上訓練簡單的適配器。通過設計疾病的正面和負面文本提示，我們利用大型語言模型引導訓練軌跡的能力。我們在三種現實的增量學習場景中評估了 RE-tune：類別增量、標籤增量和數據增量。我們的結果表明，生物醫學 VLM 是自然的持續學習者，並防止了災難性遺忘。RE-tune 不僅實現了準確的多標籤分類結果，而且優先考慮了患者隱私，並且通過出色的計算效率而區別於其他方法，使其非常適合在現實世界的醫療保健環境中廣泛採用。
 
 ##### **Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination**
-2410.17820v1 by Qiqi Chen, Xinpeng Wang, Philipp Mondorf, Michael A. Hedderich, Barbara Plank
+2410.17820v2 by Qiqi Chen, Xinpeng Wang, Philipp Mondorf, Michael A. Hedderich, Barbara Plank
 
 Tree of Thoughts (ToT) is a reasoning strategy for Large Language Models
 (LLMs) that employs a generator to suggest reasoning steps and a discriminator
@@ -1035,14 +1035,14 @@ knowledge gaps on the conditions under which ToT is most beneficial. In this
 paper, we analyze the roles of the generator and discriminator separately to
 better understand the conditions when ToT is beneficial. We find that the
 generator plays a more critical role than the discriminator in driving the
-success of ToT. While using even a smaller model as the discriminator, scaling
-the generator leads to notable improvements in ToT performance, whereas scaling
-the discriminator with a fixed generator yields only marginal gains. Our
-results show that models across different scales exhibit comparable
+success of ToT. Scaling the generator leads to notable improvements in ToT
+performance, even when using a smaller model as the discriminator, whereas
+scaling the discriminator with a fixed generator yields only marginal gains.
+Our results show that models across different scales exhibit comparable
 discrimination capabilities, yet differ significantly in their generative
 performance for ToT.
 
-摘要：思考之樹（ToT）是一種大型語言模型（LLM）的推理策略，它使用生成器來建議推理步驟，並使用判別器來決定要實施哪些步驟。ToT 在推理任務中表現出色，通常超越了輸入輸出（IO）提示和思考鏈（CoT）推理等簡單方法。然而，ToT 並未在所有模型中始終優於這些更簡單的方法，這使得在 ToT 最有益的條件下留下了巨大的知識空白。在本文中，我們分別分析了生成器和判別器的角色，以更好地了解 ToT 有益的條件。我們發現生成器在推動 ToT 的成功方面發揮了比判別器更關鍵的作用。雖然即使使用較小的模型作為判別器，但擴展生成器也會導致 ToT 性能顯著提升，而使用固定生成器擴展判別器只會產生邊際收益。我們的結果表明，不同規模的模型表現出可比較的判別能力，但在 ToT 的生成性能方面卻有顯著差異。
+摘要：思想樹（ToT）是一種大型語言模型（LLM）的推理策略，它利用生成器建議推理步驟，並利用判別器決定要實作哪些步驟。ToT 在推理任務上表現出強大的效能，經常超越輸入輸出（IO）提示和思考鏈（CoT）推理等簡單方法。然而，ToT 並非在所有模型中都能持續優於這些較簡單的方法，這在 ToT 最有益的條件下留下了很大的知識空白。在本文中，我們分別分析生成器和判別器的角色，以更好地了解 ToT 有益的條件。我們發現生成器在推動 ToT 成功方面扮演比判別器更重要的角色。即使使用較小的模型作為判別器，擴充生成器也會顯著提升 ToT 效能，而擴充判別器並固定生成器只會產生邊際收益。我們的結果顯示，不同規模的模型展現出相當的判別能力，但其在 ToT 的生成效能上卻有顯著差異。
 
 ##### **PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**
 2410.17812v1 by Feiyan Feng, Tianyu Liu, Hong Wang, Jun Zhao, Wei Li, Yanshen Sun
@@ -1899,7 +1899,7 @@ synthesizers, providing direction for future research.
 摘要：儘管神經文本轉音訊生成技術有顯著進展，但可控性和評估方面仍存在挑戰。本文透過 2024 年聲景與事件偵測與分類競賽中舉辦的 Sound Scene Synthesis 挑戰來解決這些問題。我們提出一個評估協定，結合客觀指標，即 Fr\'echet 音訊距離，與感知評估，利用結構化提示格式來啟用多樣化的標題和有效的評估。我們的分析揭示不同音訊類別和模型架構之間的效能差異，較大的模型通常表現出色，但創新的輕量化方法也顯示出前景。客觀指標與人類評分之間的強相關性驗證了我們的評估方法。我們根據音訊品質、可控性和文本轉音訊合成器的架構考量來討論結果，為未來的研究提供方向。
 
 ##### **Bonsai: Gradient-free Graph Distillation for Node Classification**
-2410.17579v1 by Mridul Gupta, Samyak Jain, Vansh Ramani, Hariprasad Kodamana, Sayan Ranu
+2410.17579v2 by Mridul Gupta, Samyak Jain, Vansh Ramani, Hariprasad Kodamana, Sayan Ranu
 
 Graph distillation has emerged as a promising avenue to enable scalable
 training of GNNs by compressing the training dataset while preserving essential
@@ -1922,7 +1922,7 @@ faster on average. Bonsai is grounded in rigorous mathematical guarantees on
 the adopted approximation strategies making it robust to GNN architectures,
 datasets, and parameters.
 
-摘要：圖形萃取已成為一種有前途的途徑，可透過壓縮訓練資料集同時保留必要的圖形特徵，來啟用 GNN 的可擴充訓練。我們的研究揭露了現有圖形萃取技術中的重大缺點。首先，大多數演算法矛盾地需要在完整資料集上進行訓練，才能執行萃取。其次，由於其梯度模擬方法，這些方法需要針對超參數或 GNN 架構的任何變更進行新的萃取，限制了其彈性和可重複使用性。最後，由於合成完全連接的邊加權圖形，它們無法達成顯著的尺寸縮減。為了應對這些挑戰，我們提出了 Bonsai，這是一種新穎的圖形萃取方法，由以下觀察結果強化：\textit{計算樹} 構成了訊息傳遞 GNN 的基本處理單元。Bonsai 透過編碼仔細挑選的\textit{範例}樹來萃取資料集，這些樹能最大化訓練集中所有計算樹的表示。這種獨特的方法讓 Bonsai 成為第一個線性時間、與模型無關的節點分類圖形萃取演算法，在準確度方面優於 $6$ 個真實世界資料集中的現有基準，同時平均速度快 $22$ 倍。Bonsai 以嚴謹的數學保證為基礎，針對所採用的近似策略，使其對 GNN 架構、資料集和參數具有穩健性。
+摘要：圖表蒸餾已成為一種有前途的方法，可透過壓縮訓練資料集並同時保留必要的圖表特徵，來實現 GNN 的可擴充訓練。我們的研究揭露了當前圖表蒸餾技術的重大缺點。首先，大多數演算法矛盾地需要對完整資料集進行訓練才能執行蒸餾。其次，由於這些方法採用了梯度模擬方法，因此對於超參數或 GNN 架構的任何變更，都需要進行新的蒸餾，這限制了它們的靈活性與可重複使用性。最後，由於合成了全連接、邊緣加權圖表，因此它們無法實現大幅度的尺寸縮減。為了應對這些挑戰，我們提出了 Bonsai，這是一種新穎的圖表蒸餾方法，它是由觀察到「運算樹」構成訊息傳遞 GNN 的基本處理單元而啟發的。Bonsai 透過編碼仔細選擇的「範例」樹來蒸餾資料集，這些樹可最大化訓練集中所有運算樹的表示。這種獨特的方法使 Bonsai 成為第一個線性時間、與模型無關的圖表蒸餾演算法，用於節點分類，其在準確度方面優於 $6$ 個真實世界資料集中的現有基準，同時平均快 $22$ 倍。Bonsai 以嚴謹的數學保證為基礎，針對所採用的近似策略，使其對 GNN 架構、資料集和參數具有穩健性。
 
 ##### **MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**
 2410.17578v1 by Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristià, Lucía Tormo-Bañuelos, Seungone Kim
@@ -2039,32 +2039,33 @@ effectiveness of the proposed FairDgcl.
 提出的 FairDgcl 的有效性。
 
 ##### **ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**
-2410.17552v1 by Zongqi Wang, Baoyuan Wu, Jingyuan Deng, Yujiu Yang
+2410.17552v2 by Zongqi Wang, Baoyuan Wu, Jingyuan Deng, Yujiu Yang
 
 Embeddings as a Service (EaaS) is emerging as a crucial role in AI
 applications. Unfortunately, EaaS is vulnerable to model extraction attacks,
-highlighting the urgent need for copyright protection.Although some preliminary
-works propose applying embedding watermarks to protect EaaS, recent research
-reveals that these watermarks can be easily removed. Hence, it is crucial to
-inject robust watermarks resistant to watermark removal attacks.Existing
-watermarking methods typically inject a target embedding into embeddings
-through linear interpolation when the text contains triggers. However, this
-mechanism results in each watermarked embedding having the same component,
-which makes the watermark easy to identify and eliminate.Motivated by this, in
-this paper, we propose a novel embedding-specific watermarking (ESpeW)
-mechanism to offer robust copyright protection for EaaS. Our approach involves
-injecting unique, yet readily identifiable watermarks into each embedding.
-Watermarks inserted by ESpeW are designed to maintain a significant distance
-from one another and to avoid sharing common components, thus making it
-significantly more challenging to remove the watermarks.Extensive experiments
-on four popular datasets demonstrate that ESpeW can even watermark successfully
-against a highly aggressive removal strategy without sacrificing the quality of
-embeddings.
+highlighting the urgent need for copyright protection. Although some
+preliminary works propose applying embedding watermarks to protect EaaS, recent
+research reveals that these watermarks can be easily removed. Hence, it is
+crucial to inject robust watermarks resistant to watermark removal attacks.
+Existing watermarking methods typically inject a target embedding into
+embeddings through linear interpolation when the text contains triggers.
+However, this mechanism results in each watermarked embedding having the same
+component, which makes the watermark easy to identify and eliminate. Motivated
+by this, in this paper, we propose a novel embedding-specific watermarking
+(ESpeW) mechanism to offer robust copyright protection for EaaS. Our approach
+involves injecting unique, yet readily identifiable watermarks into each
+embedding. Watermarks inserted by ESpeW are designed to maintain a significant
+distance from one another and to avoid sharing common components, thus making
+it significantly more challenging to remove the watermarks. Extensive
+experiments on four popular datasets demonstrate that ESpeW can even watermark
+successfully against a highly aggressive removal strategy without sacrificing
+the quality of embeddings. Code is available at
+https://github.com/liudan193/ESpeW.
 
-摘要：嵌入式服務（EaaS）正成為 AI 應用中至關重要的角色。不幸的是，EaaS 容易受到模型提取攻擊，這突顯了對版權保護的迫切需求。儘管一些初步工作提出應用嵌入式水印來保護 EaaS，但最近的研究表明這些水印很容易被移除。因此，注入對水印移除攻擊具有抵抗力的強健水印至關重要。現有的水印方法通常在文本包含觸發器時，透過線性插值將目標嵌入注入到嵌入中。然而，此機制導致每個帶有水印的嵌入具有相同的組成部分，這使得水印容易被辨識和消除。受此啟發，在本文中，我們提出了一種新穎的嵌入特定水印（ESpeW）機制，以提供 EaaS 的強健版權保護。我們的做法涉及將獨特但容易識別的水印注入到每個嵌入中。由 ESpeW 插入的水印被設計為彼此保持顯著距離，並避免共用組成部分，從而顯著增加移除水印的難度。在四個熱門資料集上進行的廣泛實驗表明，ESpeW 甚至可以在不犧牲嵌入品質的情況下，針對高度激進的移除策略成功進行水印。
+摘要：嵌入式服務（EaaS）正逐漸成為 AI 應用中至關重要的角色。不幸的是，EaaS 容易受到模型提取攻擊，這凸顯了對版權保護的迫切需求。儘管一些初步工作提出將嵌入式浮水印應用於保護 EaaS，但最近的研究表明，這些浮水印可以輕易移除。因此，注入能抵抗浮水印移除攻擊的強固浮水印至關重要。現有的浮水印方法通常在文字包含觸發器時，透過線性插值將目標嵌入注入嵌入式中。然而，這種機制導致每個帶浮水印的嵌入式具有相同的組成，這使得浮水印容易被識別和消除。有鑑於此，我們在本文中提出了一種新穎的嵌入式特定浮水印（ESpeW）機制，為 EaaS 提供強固的版權保護。我們的做法包括將獨特但容易識別的浮水印注入每個嵌入式中。ESpeW 插入的浮水印被設計為彼此保持顯著距離，並避免共用組成，因此大幅增加移除浮水印的難度。在四個熱門資料集上進行的廣泛實驗證明，ESpeW 甚至可以在不犧牲嵌入式品質的情況下，對抗高度激進的移除策略成功進行浮水印處理。程式碼可於 https://github.com/liudan193/ESpeW 取得。
 
-##### **ProtoLens: Advancing Prototype Learning for Fine-Grained Interpretability in Text Classification**
-2410.17546v1 by Bowen Wei, Ziwei Zhu
+##### **Advancing Interpretability in Text Classification through Prototype Learning**
+2410.17546v2 by Bowen Wei, Ziwei Zhu
 
 Deep neural networks have achieved remarkable performance in various
 text-based tasks but often lack interpretability, making them less suitable for
@@ -2081,7 +2082,7 @@ non-interpretable baselines on multiple text classification benchmarks. Code
 and data are available at
 \url{https://anonymous.4open.science/r/ProtoLens-CE0B/}.
 
-摘要：深度神经網路在各種基於文字的任務中都取得了顯著的表現，但通常缺乏可解釋性，這使得它們不太適合於透明度至關重要的應用。為了解決這個問題，我們提出了 ProtoLens，這是一個新穎的基於原型的模型，它為文字分類提供了細粒度的子句級可解釋性。ProtoLens 使用一個原型感知跨度提取模組來識別與學習原型相關的相關文字跨度，並使用一個原型對齊機制來確保原型在整個訓練過程中具有語義意義。通過將原型嵌入與人類可理解的範例對齊，ProtoLens 提供了可解釋的預測，同時保持了競爭優勢的準確性。大量的實驗表明，ProtoLens 在多個文字分類基準上優於基於原型和不可解釋的基準線。程式碼和資料可於
+摘要：深度神經網路在各種基於文字的任務中取得了顯著的表現，但常常缺乏可解釋性，這使得它們不太適合於透明度至關重要的應用。為了解決這個問題，我們提出了 ProtoLens，這是一個新穎的基於原型的模型，它為文字分類提供了細粒度、子句級的可解釋性。ProtoLens 使用了一個原型感知跨度提取模組來識別與學習到的原型相關的相關文字跨度，並使用了一個原型對齊機制來確保原型在整個訓練過程中具有語義意義。通過將原型嵌入與人類可理解的範例對齊，ProtoLens 提供了可解釋的預測，同時保持了競爭力的準確性。大量的實驗表明，ProtoLens 在多個文字分類基準上都優於基於原型的和不可解釋的基線。程式碼和資料可在
 \url{https://anonymous.4open.science/r/ProtoLens-CE0B/} 取得。
 
 ##### **Responsible Multilingual Large Language Models: A Survey of Development, Applications, and Societal Impact**

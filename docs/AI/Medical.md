@@ -8,7 +8,7 @@
 |**2024-10-23**|**MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers**|Zebin Yang et.al.|[2410.17957v1](http://arxiv.org/abs/2410.17957v1)|null|
 |**2024-10-23**|**Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**|Wenfang Yao et.al.|[2410.17918v1](http://arxiv.org/abs/2410.17918v1)|null|
 |**2024-10-23**|**PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**|Feiyan Feng et.al.|[2410.17812v1](http://arxiv.org/abs/2410.17812v1)|null|
-|**2024-10-23**|**Bonsai: Gradient-free Graph Distillation for Node Classification**|Mridul Gupta et.al.|[2410.17579v1](http://arxiv.org/abs/2410.17579v1)|null|
+|**2024-10-23**|**Bonsai: Gradient-free Graph Distillation for Node Classification**|Mridul Gupta et.al.|[2410.17579v2](http://arxiv.org/abs/2410.17579v2)|null|
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|null|
 |**2024-10-22**|**A 10.60 $μ$W 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection**|Yifan Qin et.al.|[2410.17395v1](http://arxiv.org/abs/2410.17395v1)|null|
 |**2024-10-22**|**DeLLiriuM: A large language model for delirium prediction in the ICU using structured EHR**|Miguel Contreras et.al.|[2410.17363v1](http://arxiv.org/abs/2410.17363v1)|null|
@@ -40,7 +40,7 @@
 |**2024-10-20**|**AttCDCNet: Attention-enhanced Chest Disease Classification using X-Ray Images**|Omar Hesham Khater et.al.|[2410.15437v1](http://arxiv.org/abs/2410.15437v1)|null|
 |**2024-10-20**|**MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation**|Yi Ren et.al.|[2410.15403v1](http://arxiv.org/abs/2410.15403v1)|null|
 |**2024-10-19**|**AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA**|Zavier Ndum Ndum et.al.|[2410.15222v1](http://arxiv.org/abs/2410.15222v1)|null|
-|**2024-10-19**|**Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data**|Elias Hossain et.al.|[2410.15198v1](http://arxiv.org/abs/2410.15198v1)|null|
+|**2024-10-19**|**Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data**|Elias Hossain et.al.|[2410.15198v2](http://arxiv.org/abs/2410.15198v2)|null|
 |**2024-10-19**|**Fine-tuning foundational models to code diagnoses from veterinary health records**|Mayla R. Boguslav et.al.|[2410.15186v1](http://arxiv.org/abs/2410.15186v1)|null|
 |**2024-10-19**|**LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound**|Xuechen Guo et.al.|[2410.15074v1](http://arxiv.org/abs/2410.15074v1)|null|
 |**2024-10-19**|**A General-Purpose Multimodal Foundation Model for Dermatology**|Siyuan Yan et.al.|[2410.15038v1](http://arxiv.org/abs/2410.15038v1)|[link](https://github.com/SiyuanYan1/PanDerm)|
@@ -72,7 +72,7 @@
 |**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686v2](http://arxiv.org/abs/2410.12686v2)|null|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641v1](http://arxiv.org/abs/2410.12641v1)|null|
 |**2024-10-16**|**NSSI-Net: Multi-Concept Generative Adversarial Network for Non-Suicidal Self-Injury Detection Using High-Dimensional EEG Signals in a Semi-Supervised Learning Framework**|Zhen Liang et.al.|[2410.12159v1](http://arxiv.org/abs/2410.12159v1)|[link](https://github.com/Vesan-yws/NSSINet)|
-|**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761v1](http://arxiv.org/abs/2410.11761v1)|null|
+|**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761v2](http://arxiv.org/abs/2410.11761v2)|null|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651v1](http://arxiv.org/abs/2410.11651v1)|null|
 |**2024-10-15**|**Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development**|Tengfei Ma et.al.|[2410.11550v1](http://arxiv.org/abs/2410.11550v1)|null|
 |**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531v1](http://arxiv.org/abs/2410.11531v1)|null|
@@ -243,7 +243,7 @@ for medical image research. Our code will be publicly available later.
 摘要：透過影像的早期偵測和準確的診斷，對於減緩與乳癌相關的高死亡率至關重要。然而，從低解析度和高雜訊的醫療影像中找出腫瘤極具挑戰性。因此，本文提出一個新穎的 PGDiffSeg（具有參數共享注意力的先驗引導擴散去噪模型），將擴散去噪方法應用於乳癌醫療影像分割，從高斯雜訊中準確地恢復受影響區域。首先，我們設計一個用於雜訊處理和語義訊息處理的平行管線，並在多層中提出一個參數共享注意力模組 (PSA)，無縫地整合這兩個管線。這種整合賦予 PGDiffSeg 在去噪過程中在多個層級中納入語義細節的能力，產生高度準確的分割圖。其次，我們引入一個引導策略，利用先驗知識來模擬醫療專業人員的決策過程，從而增強模型精確定位腫瘤位置的能力。最後，我們首次討論了生成擴散模型在乳癌分割背景下的可解釋性。廣泛的實驗證明了我們的模型優於當前最先進的方法，證實其作為一種適用於醫學影像研究的靈活擴散去噪方法的有效性。我們的程式碼稍後將公開。
 
 ##### **Bonsai: Gradient-free Graph Distillation for Node Classification**
-2410.17579v1 by Mridul Gupta, Samyak Jain, Vansh Ramani, Hariprasad Kodamana, Sayan Ranu
+2410.17579v2 by Mridul Gupta, Samyak Jain, Vansh Ramani, Hariprasad Kodamana, Sayan Ranu
 
 Graph distillation has emerged as a promising avenue to enable scalable
 training of GNNs by compressing the training dataset while preserving essential
@@ -266,7 +266,7 @@ faster on average. Bonsai is grounded in rigorous mathematical guarantees on
 the adopted approximation strategies making it robust to GNN architectures,
 datasets, and parameters.
 
-摘要：圖形萃取已成為一種有前途的途徑，可透過壓縮訓練資料集同時保留必要的圖形特徵，來啟用 GNN 的可擴充訓練。我們的研究揭露了現有圖形萃取技術中的重大缺點。首先，大多數演算法矛盾地需要在完整資料集上進行訓練，才能執行萃取。其次，由於其梯度模擬方法，這些方法需要針對超參數或 GNN 架構的任何變更進行新的萃取，限制了其彈性和可重複使用性。最後，由於合成完全連接的邊加權圖形，它們無法達成顯著的尺寸縮減。為了應對這些挑戰，我們提出了 Bonsai，這是一種新穎的圖形萃取方法，由以下觀察結果強化：\textit{計算樹} 構成了訊息傳遞 GNN 的基本處理單元。Bonsai 透過編碼仔細挑選的\textit{範例}樹來萃取資料集，這些樹能最大化訓練集中所有計算樹的表示。這種獨特的方法讓 Bonsai 成為第一個線性時間、與模型無關的節點分類圖形萃取演算法，在準確度方面優於 $6$ 個真實世界資料集中的現有基準，同時平均速度快 $22$ 倍。Bonsai 以嚴謹的數學保證為基礎，針對所採用的近似策略，使其對 GNN 架構、資料集和參數具有穩健性。
+摘要：圖表蒸餾已成為一種有前途的方法，可透過壓縮訓練資料集並同時保留必要的圖表特徵，來實現 GNN 的可擴充訓練。我們的研究揭露了當前圖表蒸餾技術的重大缺點。首先，大多數演算法矛盾地需要對完整資料集進行訓練才能執行蒸餾。其次，由於這些方法採用了梯度模擬方法，因此對於超參數或 GNN 架構的任何變更，都需要進行新的蒸餾，這限制了它們的靈活性與可重複使用性。最後，由於合成了全連接、邊緣加權圖表，因此它們無法實現大幅度的尺寸縮減。為了應對這些挑戰，我們提出了 Bonsai，這是一種新穎的圖表蒸餾方法，它是由觀察到「運算樹」構成訊息傳遞 GNN 的基本處理單元而啟發的。Bonsai 透過編碼仔細選擇的「範例」樹來蒸餾資料集，這些樹可最大化訓練集中所有運算樹的表示。這種獨特的方法使 Bonsai 成為第一個線性時間、與模型無關的圖表蒸餾演算法，用於節點分類，其在準確度方面優於 $6$ 個真實世界資料集中的現有基準，同時平均快 $22$ 倍。Bonsai 以嚴謹的數學保證為基礎，針對所採用的近似策略，使其對 GNN 架構、資料集和參數具有穩健性。
 
 ##### **An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**
 2410.17504v1 by Shruthi Chari
@@ -1019,7 +1019,7 @@ environmental science.
 摘要：蒙地卡羅 (MC) 模擬，特別是使用 FLUKA，對於複製科學和工程領域中的真實世界場景至關重要。儘管具有穩健性和多功能性，但 FLUKA 在自動化和與外部後處理工具集成方面面臨重大限制，導致工作流程學習曲線陡峭，既耗時又容易出現人為錯誤。涉及使用 shell 和 Python 腳本、MATLAB 和 Microsoft Excel 的傳統方法需要廣泛的手動干預，並且缺乏靈活性，增加了演化場景的複雜性。本研究探討了大型語言模型 (LLM) 和 AI 代理解決這些限制的潛力。AI 代理將自然語言處理與自主推理相結合，用於決策制定和適應性規劃，使其成為自動化的理想選擇。我們介紹了 AutoFLUKA，這是一個使用 LangChain Python 框架開發的 AI 代理應用程式，用於自動化 FLUKA 中典型的 MC 模擬工作流程。AutoFLUKA 可以修改 FLUKA 輸入檔案、執行模擬，並有效處理結果以進行視覺化，從而大幅減少人工作業和錯誤。我們的案例研究表明，AutoFLUKA 可以處理廣泛和特定領域的案例，例如微劑量測量，具有簡化的自動化工作流程，展示了其可擴展性和靈活性。該研究還強調了檢索擴充生成 (RAG) 工具作為 FLUKA 虛擬助手的潛力，進一步改善了使用者體驗、時間和效率。總之，AutoFLUKA 代表了 MC 模擬工作流程自動化的一項重大進展，為固有限制提供了強大的解決方案。這項創新不僅節省了時間和資源，還為高能物理、醫學物理、核工程空間和環境科學領域的研究和開發開闢了新的範例。
 
 ##### **Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data**
-2410.15198v1 by Elias Hossain, Tasfia Nuzhat, Shamsul Masum, Shahram Rahimi, Sudip Mittal, Noorbakhsh Amiri Golilarz
+2410.15198v2 by Elias Hossain, Tasfia Nuzhat, Shamsul Masum, Shahram Rahimi, Sudip Mittal, Noorbakhsh Amiri Golilarz
 
 Accurate classification of cancer-related medical abstracts is crucial for
 healthcare management and research. However, obtaining large, labeled datasets
@@ -1046,7 +1046,7 @@ of 0.99, 0.97, and 0.98 for thyroid cancer; 0.96, 0.94, and 0.95 for colon
 cancer; 0.96, 0.99, and 0.97 for lung cancer; and 0.95, 0.96, and 0.95 for
 generic topics.
 
-摘要：<paragraph>準確分類與癌症相關的醫學摘要對於醫療保健管理和研究至關重要。然而，由於隱私問題和臨床數據的複雜性，在醫療領域中取得大量的標籤化資料集具有挑戰性。這種註釋資料的稀缺阻礙了開發用於癌症文件分類的有效機器學習模型。為了應對這一挑戰，我們提供了一個包含 1,874 篇生物醫學摘要的精選資料集，分類為甲狀腺癌、結腸癌、肺癌和一般主題。我們的研究重點在於利用此資料集來改善分類效能，特別是在資料稀少的場景中。我們引入了一個具有多個圖注意力層的殘差圖注意力網路 (R-GAT)，它可以擷取癌症相關文件中的語義資訊和結構關係。我們的 R-GAT 模型與各種技術進行比較，包括基於 Transformer 的模型，例如來自 Transformer 的雙向編碼器表示 (BERT)、RoBERTa 和特定領域的模型，例如 BioBERT 和 Bio+ClinicalBERT。我們還評估了深度學習模型 (CNN、LSTM) 和傳統機器學習模型 (邏輯迴歸、SVM)。此外，我們探討了結合深度學習模型以增強分類的整體方法。評估了各種特徵提取方法，包括具有單字和雙字的詞頻-逆文件頻率 (TF-IDF)、Word2Vec，以及來自 BERT 和 RoBERTa 的標記化器。R-GAT 模型優於其他技術，對於甲狀腺癌，其準確率、召回率和 F1 分數分別達到 0.99、0.97 和 0.98；對於結腸癌，分別達到 0.96、0.94 和 0.95；對於肺癌，分別達到 0.96、0.99 和 0.97；對於一般主題，分別達到 0.95、0.96 和 0.95。</paragraph>
+摘要：準確分類與癌症相關的醫學摘要對於醫療保健管理和研究至關重要。然而，由於隱私問題和臨床數據的複雜性，在醫療領域中取得標記大型數據集具有挑戰性。這種註解數據的稀缺阻礙了開發用於癌症文件分類的有效機器學習模型。為了應對這一挑戰，我們提供了一個由 1,874 篇生物醫學摘要組成的精選數據集，分類為甲狀腺癌、結腸癌、肺癌和一般主題。我們的研究重點在於利用此數據集來改善分類效能，特別是在資料稀少的情況下。我們引入了具有多個圖形注意層的殘差圖形注意網路 (R-GAT)，它可以擷取癌症相關文件中的語義資訊和結構關係。我們的 R-GAT 模型與各種技術進行比較，包括基於轉換器的模型，例如來自轉換器的雙向編碼器表示 (BERT)、RoBERTa 和特定領域的模型，例如 BioBERT 和 Bio+ClinicalBERT。我們還評估了深度學習模型 (CNN、LSTM) 和傳統機器學習模型 (邏輯迴歸、SVM)。此外，我們探索了結合深度學習模型以增強分類的整體方法。評估了各種特徵提取方法，包括具有單字和雙字的詞頻-逆文件頻率 (TF-IDF)、Word2Vec，以及來自 BERT 和 RoBERTa 的標記器。R-GAT 模型優於其他技術，對於甲狀腺癌，實現了 0.99、0.97 和 0.98 的準確度、召回率和 F1 分數；對於結腸癌，實現了 0.96、0.94 和 0.95；對於肺癌，實現了 0.96、0.99 和 0.97；對於一般主題，實現了 0.95、0.96 和 0.95。
 
 ##### **Fine-tuning foundational models to code diagnoses from veterinary health records**
 2410.15186v1 by Mayla R. Boguslav, Adam Kiehl, David Kott, G. Joseph Strecker, Tracy Webb, Nadia Saklou, Terri Ward, Michael Kirby
@@ -1858,7 +1858,7 @@ https://github.com/Vesan-yws/NSSINet.
 摘要：非自杀性自伤 (NSSI) 对青少年的身心健康构成严重威胁，显著增加了自杀风险，并引起了广泛的公众关注。脑电图 (EEG) 作为一种识别脑部疾病的客观工具，具有广阔的前景。然而，从高维 EEG 数据中提取有意义且可靠的特征，特别是通过将时空脑动态整合到信息表示中，仍然是一项重大挑战。在这项研究中，我们介绍了一个先进的半监督对抗网络 NSSI-Net，以有效建模与 NSSI 相关的 EEG 特征。NSSI-Net 由两个关键模块组成：时空特征提取模块和多概念判别器。在时空特征提取模块中，集成的二维卷积神经网络 (2D-CNN) 和双向门控循环单元 (BiGRU) 用于捕捉 EEG 数据中的空间和时间动态。在多概念判别器中，充分探索信号、性别、域和疾病水平，以提取有意义的 EEG 特征，考虑不同人群中的个体、人口统计学、疾病变异。基于自收集的 NSSI 数据 (n=114)，该模型的有效性和可靠性得到证实，与现有的机器学习和深度学习方法相比，性能提高了 7.44%。这项研究促进了对患有抑郁症的青少年 NSSI 的理解和早期诊断，实现了及时的干预。源代码可在 https://github.com/Vesan-yws/NSSINet 获得。
 
 ##### **SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**
-2410.11761v1 by Ying Chen, Guoan Wang, Yuanfeng Ji, Yanjun Li, Jin Ye, Tianbin Li, Bin Zhang, Nana Pei, Rongshan Yu, Yu Qiao, Junjun He
+2410.11761v2 by Ying Chen, Guoan Wang, Yuanfeng Ji, Yanjun Li, Jin Ye, Tianbin Li, Bin Zhang, Nana Pei, Rongshan Yu, Yu Qiao, Junjun He
 
 Despite the progress made by multimodal large language models (MLLMs) in
 computational pathology, they remain limited by a predominant focus on
@@ -1880,7 +1880,7 @@ performance on 18 of 22 tasks. For example, it achieved an overall accuracy of
 fully release SlideChat, SlideInstruction and SlideBench as open-source
 resources to facilitate research and development in computational pathology.
 
-摘要：儘管多模態大型語言模型 (MLLM) 在計算病理學方面取得了進展，但它們仍然受限於對區塊級分析的關注，錯失了全幻燈片級別的必要脈絡資訊。缺乏大規模的指令資料集和全幻燈片影像 (WSI) 的吉像素規模，構成了重大的開發挑戰。在本文中，我們提出了 SlideChat，這是第一個能夠理解吉像素全幻燈片影像的視覺語言助理，展現出優秀的多模態對話能力和對各種病理情境的複雜指令回應。為了支援其開發，我們建立了 SlideInstruction，這是最大的 WSI 指令遵循資料集，包含 4.2K WSI 標題和 176K 個具有多個類別的 VQA 配對。此外，我們提出了 SlideBench，這是一個多模態基準，結合了標題和 VQA 任務，以評估 SlideChat 在顯微鏡檢查、診斷等不同臨床設定中的能力。與一般和專門的 MLLM 相比，SlideChat 展現了卓越的能力，在 22 個任務中的 18 個任務中達到了最先進的效能。例如，它在 SlideBench-VQA (TCGA) 上達到了 81.17% 的整體準確度，在 SlideBench-VQA (BCNB) 上達到了 54.15%。我們將全面釋出 SlideChat、SlideInstruction 和 SlideBench 作為開放原始碼資源，以促進計算病理學的研究和開發。
+摘要：儘管多模態大型語言模型 (MLLM) 在計算病理學上取得進展，但它們仍然受限於對區塊層級分析的過度關注，而錯失了全切片層級的必要脈絡資訊。缺乏大規模指示資料集和全切片影像 (WSI) 的吉像素級規模，構成了重大的開發挑戰。在本文中，我們提出 SlideChat，這是第一個能夠理解吉像素全切片影像的視覺語言助理，展現了出色的多模態對話能力，並在各種病理情況下回應複雜的指示。為了支援其開發，我們建立了 SlideInstruction，這是最大的 WSI 指示遵循資料集，包含 4.2K WSI 標題和 176K 個具有多種類別的 VQA 配對。此外，我們提出 SlideBench，這是一個多模態基準，結合了標題和 VQA 任務，以評估 SlideChat 在各種臨床設定（例如顯微鏡、診斷）中的能力。與一般和專門的 MLLM 相比，SlideChat 展現了卓越的能力，在 22 項任務中有 18 項達到了最先進的效能。例如，它在 SlideBench-VQA (TCGA) 上達到了 81.17% 的整體準確度，在 SlideBench-VQA (BCNB) 上達到了 54.15%。我們將全面釋出 SlideChat、SlideInstruction 和 SlideBench 作為開放原始碼資源，以促進計算病理學的研究和開發。
 
 ##### **RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**
 2410.11651v1 by Chiyi Huang, Longwei Sun, Dong Liang, Haifeng Liang, Hongwu Zeng, Yanjie Zhu

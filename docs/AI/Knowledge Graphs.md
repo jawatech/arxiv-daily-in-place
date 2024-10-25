@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**LLM-based Online Prediction of Time-varying Graph Signals**|Dayu Qin et.al.|[2410.18718v1](http://arxiv.org/abs/2410.18718v1)|null|
+|**2024-10-24**|**Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**|Kexuan Xin et.al.|[2410.18475v1](http://arxiv.org/abs/2410.18475v1)|null|
+|**2024-10-24**|**ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**|Zezhong Wang et.al.|[2410.18447v1](http://arxiv.org/abs/2410.18447v1)|null|
+|**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415v1](http://arxiv.org/abs/2410.18415v1)|null|
 |**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060v1](http://arxiv.org/abs/2410.18060v1)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529v1](http://arxiv.org/abs/2410.17529v1)|null|
@@ -77,6 +81,7 @@
 |**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
 |**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526v1](http://arxiv.org/abs/2410.07526v1)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157v1](http://arxiv.org/abs/2410.07157v1)|[link](https://github.com/PeterGriffinJin/InstructG2I)|
+|**2024-10-09**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Iman Saberi et.al.|[2410.18251v1](http://arxiv.org/abs/2410.18251v1)|null|
 |**2024-10-09**|**CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages**|Pretam Ray et.al.|[2410.06944v1](http://arxiv.org/abs/2410.06944v1)|null|
 |**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634v1](http://arxiv.org/abs/2410.06634v1)|null|
 |**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v1](http://arxiv.org/abs/2410.07271v1)|null|
@@ -97,13 +102,104 @@
 |**2024-10-04**|**Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs**|Tianqi Shang et.al.|[2410.09080v1](http://arxiv.org/abs/2410.09080v1)|[link](https://github.com/hwq0726/sdohenpkg)|
 |**2024-10-04**|**Empowering Domain-Specific Language Models with Graph-Oriented Databases: A Paradigm Shift in Performance and Model Maintenance**|Ricardo Di Pasquale et.al.|[2410.03867v1](http://arxiv.org/abs/2410.03867v1)|null|
 |**2024-10-04**|**GraphRouter: A Graph-based Router for LLM Selections**|Tao Feng et.al.|[2410.03834v1](http://arxiv.org/abs/2410.03834v1)|null|
-|**2024-10-04**|**Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing**|Jeongwoo Kang et.al.|[2410.03357v1](http://arxiv.org/abs/2410.03357v1)|[link](https://github.com/Emvista/Meta-XAMR-2024)|
-|**2024-10-04**|**Enriching Ontologies with Disjointness Axioms using Large Language Models**|Elias Crum et.al.|[2410.03235v1](http://arxiv.org/abs/2410.03235v1)|[link](https://github.com/n28div/llm-disjointness)|
-|**2024-10-04**|**How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension**|Xinnan Dai et.al.|[2410.05298v1](http://arxiv.org/abs/2410.05298v1)|null|
-|**2024-10-03**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**|Zhenxiao Fu et.al.|[2410.02950v1](http://arxiv.org/abs/2410.02950v1)|null|
-|**2024-10-03**|**EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing**|Kaizhi Zheng et.al.|[2410.12836v1](http://arxiv.org/abs/2410.12836v1)|null|
 
 #### Abstracts
+##### **LLM-based Online Prediction of Time-varying Graph Signals**
+2410.18718v1 by Dayu Qin, Yi Yan, Ercan Engin Kuruoglu
+
+In this paper, we propose a novel framework that leverages large language
+models (LLMs) for predicting missing values in time-varying graph signals by
+exploiting spatial and temporal smoothness. We leverage the power of LLM to
+achieve a message-passing scheme. For each missing node, its neighbors and
+previous estimates are fed into and processed by LLM to infer the missing
+observations. Tested on the task of the online prediction of wind-speed graph
+signals, our model outperforms online graph filtering algorithms in terms of
+accuracy, demonstrating the potential of LLMs in effectively addressing
+partially observed signals in graphs.
+
+摘要：在本文中，我們提出了一個新穎的框架，該框架利用大型語言模型 (LLM) 來預測時變圖形信號中的缺失值，方法是利用空間和時間平滑度。我們利用 LLM 的能力來實現消息傳遞方案。對於每個缺失節點，其鄰居和先前的估計值會被輸入到 LLM 中並由 LLM 進行處理，以推斷出缺失的觀測值。在風速圖形信號的線上預測任務中進行測試，我們的模型在準確性方面優於線上圖形過濾演算法，這證明了 LLM 在有效處理圖形中部分觀測到的信號方面的潛力。
+
+##### **Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**
+2410.18475v1 by Kexuan Xin, Qingyun Wang, Junyu Chen, Pengfei Yu, Huimin Zhao, Heng Ji
+
+In the rapidly evolving field of metabolic engineering, the quest for
+efficient and precise gene target identification for metabolite production
+enhancement presents significant challenges. Traditional approaches, whether
+knowledge-based or model-based, are notably time-consuming and labor-intensive,
+due to the vast scale of research literature and the approximation nature of
+genome-scale metabolic model (GEM) simulations. Therefore, we propose a new
+task, Gene-Metabolite Association Prediction based on metabolic graphs, to
+automate the process of candidate gene discovery for a given pair of metabolite
+and candidate-associated genes, as well as presenting the first benchmark
+containing 2474 metabolites and 1947 genes of two commonly used microorganisms
+Saccharomyces cerevisiae (SC) and Issatchenkia orientalis (IO). This task is
+challenging due to the incompleteness of the metabolic graphs and the
+heterogeneity among distinct metabolisms. To overcome these limitations, we
+propose an Interactive Knowledge Transfer mechanism based on Metabolism Graph
+(IKT4Meta), which improves the association prediction accuracy by integrating
+the knowledge from different metabolism graphs. First, to build a bridge
+between two graphs for knowledge transfer, we utilize Pretrained Language
+Models (PLMs) with external knowledge of genes and metabolites to help generate
+inter-graph links, significantly alleviating the impact of heterogeneity.
+Second, we propagate intra-graph links from different metabolic graphs using
+inter-graph links as anchors. Finally, we conduct the gene-metabolite
+association prediction based on the enriched metabolism graphs, which integrate
+the knowledge from multiple microorganisms. Experiments on both types of
+organisms demonstrate that our proposed methodology outperforms baselines by up
+to 12.3% across various link prediction frameworks.
+
+摘要：<paragraph>在快速发展的代謝工程領域中，尋求用於代謝物產量增強的高效且精準的基因目標識別，會面臨重大挑戰。傳統方法（無論是基於知識或基於模型）都相當耗時且費力，原因在於研究文獻的規模龐大，以及基因組規模代謝模型 (GEM) 模擬的近似性質。因此，我們提出一個新任務，即基於代謝圖的基因代謝物關聯預測，以自動化針對特定代謝物和候選關聯基因發現候選基因的流程，並提供第一個基准，其中包含 2474 種代謝物和 1947 種基因，這些基因來自兩種常用的微生物：釀酒酵母 (SC) 和東方伊薩琴科酵母 (IO)。此任務具有挑戰性，原因在於代謝圖的不完整性，以及不同代謝之間的異質性。為了克服這些限制，我們提出一個基於代謝圖的互動式知識傳遞機制 (IKT4Meta)，藉由整合來自不同代謝圖的知識，來提升關聯預測準確度。首先，為了在兩個圖之間建立知識傳遞的橋樑，我們利用具備基因和代謝物外部知識的預訓練語言模型 (PLM) 來協助產生圖際連結，大幅減輕異質性的影響。其次，我們使用圖際連結作為錨點，從不同的代謝圖傳播圖內連結。最後，我們根據整合了多種微生物知識的豐富代謝圖，進行基因代謝物關聯預測。兩種生物的實驗都證明，我們提出的方法在各種連結預測架構中，比基準線高出 12.3%。</paragraph>
+
+##### **ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**
+2410.18447v1 by Zezhong Wang, Xingshan Zeng, Weiwen Liu, Liangyou Li, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong
+
+Supervised fine-tuning (SFT) is a common method to enhance the tool calling
+capabilities of Large Language Models (LLMs), with the training data often
+being synthesized. The current data synthesis process generally involves
+sampling a set of tools, formulating a requirement based on these tools, and
+generating the call statements. However, tools sampled randomly lack relevance,
+making them difficult to combine and thus reducing the diversity of the data.
+Additionally, current work overlooks the coherence between turns of dialogues,
+leading to a gap between the synthesized data and real-world scenarios. To
+address these issues, we propose a Graph-based Sampling strategy to sample more
+relevant tool combinations, and a Planned-generation strategy to create plans
+that guide the synthesis of coherent dialogues. We integrate these two
+strategies and enable multiple agents to synthesize the dialogue data
+interactively, resulting in our tool-calling data synthesis pipeline ToolFlow.
+Data quality assessments demonstrate improvements in the naturalness and
+coherence of our synthesized dialogues. Finally, we apply SFT on LLaMA-3.1-8B
+using 8,000 synthetic dialogues generated with ToolFlow. Results show that the
+model achieves tool-calling performance comparable to or even surpassing GPT-4,
+while maintaining strong general capabilities.
+
+摘要：監督微調 (SFT) 是增強大型語言模型 (LLM) 工具呼叫功能的常見方法，訓練資料通常是合成資料。目前的資料合成流程通常涉及抽樣一組工具、根據這些工具制定需求，並產生呼叫陳述。然而，隨機抽樣的工具缺乏關聯性，使得它們難以組合，從而降低資料的多樣性。此外，目前的工作忽略了對話回合之間的連貫性，導致合成資料與現實世界場景之間存在差距。為了解決這些問題，我們提出了一個基於圖形的抽樣策略來抽取更多相關的工具組合，以及一個計畫生成策略來建立計畫，以引導連貫對話的合成。我們整合這兩種策略，並使多個代理能夠互動地合成對話資料，從而產生我們的工具呼叫資料合成管線 ToolFlow。資料品質評估證明了我們合成對話的自然性和連貫性有了改進。最後，我們使用 ToolFlow 生成的 8,000 個合成對話在 LLaMA-3.1-8B 上應用 SFT。結果表明，該模型實現了與 GPT-4 相當甚至超越 GPT-4 的工具呼叫效能，同時保持強大的通用能力。
+
+##### **Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**
+2410.18415v1 by Kun Li, Tianhua Zhang, Xixin Wu, Hongyin Luo, James Glass, Helen Meng
+
+Knowledge Graphs (KGs) can serve as reliable knowledge sources for question
+answering (QA) due to their structured representation of knowledge. Existing
+research on the utilization of KG for large language models (LLMs) prevalently
+relies on subgraph retriever or iterative prompting, overlooking the potential
+synergy of LLMs' step-wise reasoning capabilities and KGs' structural nature.
+In this paper, we present DoG (Decoding on Graphs), a novel framework that
+facilitates a deep synergy between LLMs and KGs. We first define a concept,
+well-formed chain, which consists of a sequence of interrelated fact triplets
+on the KGs, starting from question entities and leading to answers. We argue
+that this concept can serve as a principle for making faithful and sound
+reasoning for KGQA. To enable LLMs to generate well-formed chains, we propose
+graph-aware constrained decoding, in which a constraint derived from the
+topology of the KG regulates the decoding process of the LLMs. This constrained
+decoding method ensures the generation of well-formed chains while making full
+use of the step-wise reasoning capabilities of LLMs. Based on the above, DoG, a
+training-free approach, is able to provide faithful and sound reasoning
+trajectories grounded on the KGs. Experiments across various KGQA tasks with
+different background KGs demonstrate that DoG achieves superior and robust
+performance. DoG also shows general applicability with various open-source
+LLMs.
+
+摘要：知識圖譜 (KG) 由於其結構化的知識表示，可用作問答 (QA) 的可靠知識來源。現有關於利用 KG 的大型語言模型 (LLM) 的研究普遍依賴於子圖檢索器或反覆提示，忽視了 LLM 的逐步推理能力和 KG 的結構特性的潛在協同作用。在本文中，我們提出了 DoG（圖形解碼），一個促進 LLM 和 KG 之間深度協同作用的新框架。我們首先定義了一個概念，即良好形成的鏈，它由 KG 上一系列相互關聯的事實三元組組成，從問題實體開始並導致答案。我們認為這個概念可以作為對 KGQA 進行忠實和合理的推理的原則。為了使 LLM 能夠生成良好的鏈，我們提出了圖感知約束解碼，其中源自 KG 拓撲的約束約束了 LLM 的解碼過程。這種受約束的解碼方法確保了良好形成的鏈的生成，同時充分利用了 LLM 的逐步推理能力。基於上述，DoG 是一種無需訓練的方法，能夠提供基於 KG 的忠實且合理的推理軌跡。在具有不同背景 KG 的各種 KGQA 任務中的實驗表明，DoG 達到了卓越且穩健的性能。DoG 還顯示了與各種開源 LLM 的通用適用性。
+
 ##### **Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**
 2410.18060v1 by Jaime Sevilla, Nikolay Babakov, Ehud Reiter, Alberto Bugarin
 
@@ -2011,6 +2107,31 @@ available at https://github.com/PeterGriffinJin/InstructG2I.
 摘要：在本文中，我们探讨一项被忽视但至关重要的任务 Graph2Image：
 从多模态属性图 (MMAG) 生成图像。由于图大小激增、图实体之间的依赖关系以及对图条件的可控性需求，此任务带来了重大挑战。为了应对这些挑战，我们提出了一种称为 InstructG2I 的图上下文条件扩散模型。InstructG2I 首先利用图结构和多模态信息，通过结合个性化页面排名和基于视觉语言特征的重新排名来执行信息丰富的邻居采样。然后，Graph-QFormer 编码器将图节点自适应地编码为一组辅助图提示，以指导扩散的去噪过程。最后，我们提出了无图分类器指导，通过改变图指导的强度和与节点的多个连接边来实现可控生成。在来自不同领域的三组数据集上进行的广泛实验证明了我们方法的有效性和可控性。代码可在 https://github.com/PeterGriffinJin/InstructG2I 获得。
 
+##### **Context-Augmented Code Generation Using Programming Knowledge Graphs**
+2410.18251v1 by Iman Saberi, Fatemeh Fard
+
+Large Language Models (LLMs) and Code-LLMs (CLLMs) have significantly
+improved code generation, but, they frequently face difficulties when dealing
+with challenging and complex problems. Retrieval-Augmented Generation (RAG)
+addresses this issue by retrieving and integrating external knowledge at the
+inference time. However, retrieval models often fail to find most relevant
+context, and generation models, with limited context capacity, can hallucinate
+when given irrelevant data. We present a novel framework that leverages a
+Programming Knowledge Graph (PKG) to semantically represent and retrieve code.
+This approach enables fine-grained code retrieval by focusing on the most
+relevant segments while reducing irrelevant context through a tree-pruning
+technique. PKG is coupled with a re-ranking mechanism to reduce even more
+hallucinations by selectively integrating non-RAG solutions. We propose two
+retrieval approaches-block-wise and function-wise-based on the PKG, optimizing
+context granularity. Evaluations on the HumanEval and MBPP benchmarks show our
+method improves pass@1 accuracy by up to 20%, and outperforms state-of-the-art
+models by up to 34% on MBPP. Our contributions include PKG-based retrieval,
+tree pruning to enhance retrieval precision, a re-ranking method for robust
+solution selection and a Fill-in-the-Middle (FIM) enhancer module for automatic
+code augmentation with relevant comments and docstrings.
+
+摘要：大型語言模型 (LLM) 和程式碼大型語言模型 (CLLM) 已顯著改善程式碼產生，但它們在處理具有挑戰性和複雜的問題時經常會遇到困難。檢索增強產生 (RAG) 透過在推論時間檢索和整合外部知識來解決這個問題。然而，檢索模型經常無法找到最相關的內容，而產生模型由於內容容量有限，在給予無關資料時可能會出現幻覺。我們提出一個新架構，它利用程式設計知識圖 (PKG) 來語意化表示和檢索程式碼。此方法透過專注於最相關的區塊並透過樹狀修剪技術減少無關內容，來啟用細緻的程式碼檢索。PKG 與重新排序機制結合，以透過選擇性整合非 RAG 解決方案來進一步減少幻覺。我們基於 PKG 提出兩種檢索方法，分別是區塊式和函式式，以最佳化內容粒度。在 HumanEval 和 MBPP 基準上的評估顯示，我們的程式碼方法將 pass@1 準確度提高了 20%，並在 MBPP 上將最先進的模型表現提升了 34%。我們的貢獻包括基於 PKG 的檢索、用於增強檢索精確度的樹狀修剪、用於穩健解決方案選擇的重新排序方法，以及用於自動程式碼擴充（包含相關註解和文件字串）的填入中間 (FIM) 增強器模組。
+
 ##### **CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages**
 2410.06944v1 by Pretam Ray, Jivnesh Sandhan, Amrith Krishna, Pawan Goyal
 
@@ -2477,120 +2598,4 @@ offering insights for real-world applications. Our codes for GraphRouter will
 soon be released at https://github.com/ulab-uiuc/GraphRouter.
 
 摘要：<paragraph>大型語言模型 (LLM) 的數量和種類快速增長，在有效地針對特定查詢選擇適當的 LLM 時會帶來重大的挑戰，特別是考慮到效能和運算成本之間的權衡。目前的 LLM 選擇方法通常難以概括到新的 LLM 和不同的任務，因為它們在利用任務、查詢和 LLM 之間的脈絡互動方面的能力有限，而且依賴於轉導學習架構。為了解決這些缺點，我們引進了一個名為 GraphRouter 的新歸納圖形架構，它充分利用任務、查詢和 LLM 之間的脈絡資訊來增強 LLM 選擇流程。GraphRouter 構建了一個異質圖形，包含任務、查詢和 LLM 節點，並將互動表示為邊緣，有效地擷取查詢需求和 LLM 能力之間的脈絡資訊。透過創新的邊緣預測機制，GraphRouter 能夠預測潛在邊緣的屬性（LLM 回應的效果和成本），允許最佳化建議，以適應現有和新推出的 LLM，而無需重新訓練。在三個不同的效果成本權重情境中進行的全面實驗顯示，GraphRouter 明顯超越現有的路由器，效能至少提升 12.3%。此外，它在新的 LLM 設定中實現了增強的概括性，並支援多樣化的任務，效果至少提升 9.5%，並大幅降低運算需求。這項工作致力於應用基於圖形的方法，以進行 LLM 的脈絡和適應性選擇，為真實世界的應用提供見解。我們的 GraphRouter 程式碼將很快在 https://github.com/ulab-uiuc/GraphRouter 發布。</paragraph>
-
-##### **Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing**
-2410.03357v1 by Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab
-
-Cross-lingual AMR parsing is the task of predicting AMR graphs in a target
-language when training data is available only in a source language. Due to the
-small size of AMR training data and evaluation data, cross-lingual AMR parsing
-has only been explored in a small set of languages such as English, Spanish,
-German, Chinese, and Italian. Taking inspiration from Langedijk et al. (2022),
-who apply meta-learning to tackle cross-lingual syntactic parsing, we
-investigate the use of meta-learning for cross-lingual AMR parsing. We evaluate
-our models in $k$-shot scenarios (including 0-shot) and assess their
-effectiveness in Croatian, Farsi, Korean, Chinese, and French. Notably, Korean
-and Croatian test sets are developed as part of our work, based on the existing
-The Little Prince English AMR corpus, and made publicly available. We
-empirically study our method by comparing it to classical joint learning. Our
-findings suggest that while the meta-learning model performs slightly better in
-0-shot evaluation for certain languages, the performance gain is minimal or
-absent when $k$ is higher than 0.
-
-摘要：跨語言 AMR 解析是一項任務，在僅在源語言中提供訓練資料時，預測目標語言中的 AMR 圖形。由於 AMR 訓練資料和評估資料的規模很小，因此跨語言 AMR 解析僅在少數語言中進行過探索，例如英語、西班牙語、德語、中文和義大利語。受到 Langedijk 等人 (2022) 的啟發，他們應用元學習來處理跨語言句法解析，我們研究了使用元學習進行跨語言 AMR 解析。我們在 $k$-shot 場景（包括 0-shot）中評估我們的模型，並評估它們在克羅埃西亞語、波斯語、韓語、中文和法語中的有效性。值得注意的是，韓語和克羅埃西亞語測試集是根據現有的《小王子》英語 AMR 語料庫開發的，並公開提供。我們通過將我們的模型與傳統聯合學習進行比較，對我們的模型進行實證研究。我們的研究結果表明，雖然元學習模型在某些語言的 0-shot 評估中表現略好，但是當 $k$ 高於 0 時，效能提升很小或沒有。
-
-##### **Enriching Ontologies with Disjointness Axioms using Large Language Models**
-2410.03235v1 by Elias Crum, Antonio De Santis, Manon Ovide, Jiaxin Pan, Alessia Pisu, Nicolas Lazzari, Sebastian Rudolph
-
-Ontologies often lack explicit disjointness declarations between classes,
-despite their usefulness for sophisticated reasoning and consistency checking
-in Knowledge Graphs. In this study, we explore the potential of Large Language
-Models (LLMs) to enrich ontologies by identifying and asserting class
-disjointness axioms. Our approach aims at leveraging the implicit knowledge
-embedded in LLMs, using prompt engineering to elicit this knowledge for
-classifying ontological disjointness. We validate our methodology on the
-DBpedia ontology, focusing on open-source LLMs. Our findings suggest that LLMs,
-when guided by effective prompt strategies, can reliably identify disjoint
-class relationships, thus streamlining the process of ontology completion
-without extensive manual input. For comprehensive disjointness enrichment, we
-propose a process that takes logical relationships between disjointness and
-subclass statements into account in order to maintain satisfiability and reduce
-the number of calls to the LLM. This work provides a foundation for future
-applications of LLMs in automated ontology enhancement and offers insights into
-optimizing LLM performance through strategic prompt design. Our code is
-publicly available on GitHub at https://github.com/n28div/llm-disjointness.
-
-摘要：本体論通常缺乏類別之間明確的不相交聲明，儘管它們對於知識圖譜中的精密推理和一致性檢查很有用。在本研究中，我們探討了大型語言模型 (LLM) 的潛力，通過識別和斷言類別不相交公理來豐富本体論。我們的做法旨在利用嵌入在 LLM 中的隱式知識，利用提示工程來引出這種知識以分類本体論不相交。我們在 DBpedia 本体論上驗證了我們的方法，重點關注開源 LLM。我們的研究結果表明，LLM 在有效提示策略的指導下，可以可靠地識別不相交類別關係，從而簡化本体論完成過程，而無需大量手動輸入。對於全面的不相交豐富，我們提出了一個過程，該過程考慮了不相交和子類別陳述之間的邏輯關係，以維持可滿足性並減少對 LLM 的調用次數。這項工作為 LLM 在自動本体論增強中的未來應用奠定了基礎，並提供了通過策略提示設計優化 LLM 性能的見解。我們的代碼在 GitHub 上公開，網址為 https://github.com/n28div/llm-disjointness。
-
-##### **How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension**
-2410.05298v1 by Xinnan Dai, Haohao Qu, Yifen Shen, Bohang Zhang, Qihao Wen, Wenqi Fan, Dongsheng Li, Jiliang Tang, Caihua Shan
-
-Benchmarking the capabilities and limitations of large language models (LLMs)
-in graph-related tasks is becoming an increasingly popular and crucial area of
-research. Recent studies have shown that LLMs exhibit a preliminary ability to
-understand graph structures and node features. However, the potential of LLMs
-in graph pattern mining remains largely unexplored. This is a key component in
-fields such as computational chemistry, biology, and social network analysis.
-To bridge this gap, this work introduces a comprehensive benchmark to assess
-LLMs' capabilities in graph pattern tasks. We have developed a benchmark that
-evaluates whether LLMs can understand graph patterns based on either
-terminological or topological descriptions. Additionally, our benchmark tests
-the LLMs' capacity to autonomously discover graph patterns from data. The
-benchmark encompasses both synthetic and real datasets, and a variety of
-models, with a total of 11 tasks and 7 models. Our experimental framework is
-designed for easy expansion to accommodate new models and datasets. Our
-findings reveal that: (1) LLMs have preliminary abilities to understand graph
-patterns, with O1-mini outperforming in the majority of tasks; (2) Formatting
-input data to align with the knowledge acquired during pretraining can enhance
-performance; (3) The strategies employed by LLMs may differ from those used in
-conventional algorithms.
-
-摘要：評量大型語言模型 (LLM) 在圖形相關任務中的能力和限制，正成為一個越來越受歡迎且至關重要的研究領域。最近的研究表明，LLM 展現出初步理解圖形結構和節點特徵的能力。然而，LLM 在圖形模式挖掘中的潛力仍未被廣泛探索。這是計算化學、生物學和社交網路分析等領域的關鍵組成部分。為了彌合這個差距，這項工作提出了一個全面的基準來評估 LLM 在圖形模式任務中的能力。我們開發了一個基準，用來評估 LLM 能否根據術語或拓撲描述來理解圖形模式。此外，我們的基準測試 LLM 從資料中自主發現圖形模式的能力。該基準涵蓋了合成和真實資料集，以及各種模型，總共有 11 項任務和 7 個模型。我們的實驗架構設計為易於擴充，以容納新的模型和資料集。我們的研究結果顯示：(1) LLM 具有初步理解圖形模式的能力，其中 O1-mini 在大多數任務中表現優異；(2) 將輸入資料格式化為與預訓練期間習得的知識一致，可以增強效能；(3) LLM 使用的策略可能與傳統演算法中使用的策略不同。
-
-##### **LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**
-2410.02950v1 by Zhenxiao Fu, Fan Chen, Shan Zhou, Haitong Li, Lei Jiang
-
-Throughout its lifecycle, a large language model (LLM) generates a
-substantially larger carbon footprint during inference than training. LLM
-inference requests vary in batch size, prompt length, and token generation
-number, while cloud providers employ different GPU types and quantities to meet
-diverse service-level objectives for accuracy and latency. It is crucial for
-both users and cloud providers to have a tool that quickly and accurately
-estimates the carbon impact of LLM inferences based on a combination of
-inference request and hardware configurations before execution. Estimating the
-carbon footprint of LLM inferences is more complex than training due to lower
-and highly variable model FLOPS utilization, rendering previous equation-based
-models inaccurate. Additionally, existing machine learning (ML) prediction
-methods either lack accuracy or demand extensive training data, as they
-inadequately handle the distinct prefill and decode phases, overlook
-hardware-specific features, and inefficiently sample uncommon inference
-configurations. We introduce \coo, a graph neural network (GNN)-based model
-that greatly improves the accuracy of LLM inference carbon footprint
-predictions compared to previous methods.
-
-摘要：在整個生命週期中，大型語言模型 (LLM) 在推理期間產生的碳足跡遠大於訓練期間。LLM 推理請求在批次大小、提示長度和權杖生成數量方面有所不同，而雲端供應商採用不同的 GPU 類型和數量來滿足準確性和延遲的各種服務層級目標。對於使用者和雲端供應商來說，在執行前根據推理請求和硬體配置組合快速且準確地估計 LLM 推理的碳影響至關重要。估計 LLM 推理的碳足跡比訓練更複雜，因為模型 FLOPS 利用率較低且變化很大，導致先前的基於方程式的模型不準確。此外，現有的機器學習 (ML) 預測方法要么缺乏準確性，要么需要大量的訓練資料，因為它們無法充分處理不同的預填充和解碼階段，忽略硬體特定的功能，並且低效率地取樣不常見的推理配置。我們引入了 \coo，這是一個基於圖神經網路 (GNN) 的模型，與先前的模型相比，它大大提高了 LLM 推理碳足跡預測的準確性。
-
-##### **EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing**
-2410.12836v1 by Kaizhi Zheng, Xiaotong Chen, Xuehai He, Jing Gu, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Wang, Lijuan Wang, Xin Eric Wang
-
-Given the steep learning curve of professional 3D software and the
-time-consuming process of managing large 3D assets, language-guided 3D scene
-editing has significant potential in fields such as virtual reality, augmented
-reality, and gaming. However, recent approaches to language-guided 3D scene
-editing either require manual interventions or focus only on appearance
-modifications without supporting comprehensive scene layout changes. In
-response, we propose Edit-Room, a unified framework capable of executing a
-variety of layout edits through natural language commands, without requiring
-manual intervention. Specifically, EditRoom leverages Large Language Models
-(LLMs) for command planning and generates target scenes using a diffusion-based
-method, enabling six types of edits: rotate, translate, scale, replace, add,
-and remove. To address the lack of data for language-guided 3D scene editing,
-we have developed an automatic pipeline to augment existing 3D scene synthesis
-datasets and introduced EditRoom-DB, a large-scale dataset with 83k editing
-pairs, for training and evaluation. Our experiments demonstrate that our
-approach consistently outperforms other baselines across all metrics,
-indicating higher accuracy and coherence in language-guided scene layout
-editing.
-
-摘要：由於專業 3D 軟體的學習曲線陡峭，以及管理大型 3D 資產的耗時程序，語言導向的 3D 場景編輯在虛擬實境、擴增實境和遊戲等領域具有顯著的潛力。然而，最近對語言導向的 3D 場景編輯方法，要不是需要手動干預，就是只專注於外觀修改，而不支援全面的場景佈局變更。為了解決這個問題，我們提出 Edit-Room，一個統一的架構，能夠透過自然語言指令執行各種佈局編輯，而不需要手動干預。具體來說，EditRoom 採用大型語言模型 (LLM) 進行指令規劃，並使用基於擴散的方法產生目標場景，支援六種類型的編輯：旋轉、平移、縮放、替換、新增和移除。為了解決語言導向的 3D 場景編輯缺乏資料的問題，我們開發了一個自動化管道，以擴充現有的 3D 場景合成資料集，並引入了 EditRoom-DB，一個包含 83k 編輯對的大規模資料集，用於訓練和評估。我們的實驗表明，我們的做法在所有指標上都持續優於其他基準，表示在語言導向的場景佈局編輯中具有更高的準確性和一致性。
 

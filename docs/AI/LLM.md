@@ -62,7 +62,7 @@
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636v1](http://arxiv.org/abs/2410.18636v1)|null|
 |**2024-10-24**|**Little Giants: Synthesizing High-Quality Embedding Data at Scale**|Haonan Chen et.al.|[2410.18634v1](http://arxiv.org/abs/2410.18634v1)|null|
 |**2024-10-24**|**Supporting Assessment of Novelty of Design Problems Using Concept of Problem SAPPhIRE**|Sanjay Singh et.al.|[2410.18629v1](http://arxiv.org/abs/2410.18629v1)|null|
-|**2024-10-24**|**Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label**|Tsugumasa Yutani et.al.|[2410.18628v1](http://arxiv.org/abs/2410.18628v1)|null|
+|**2024-10-24**|**Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label**|Tsugumasa Yutani et.al.|[2410.18628v1](http://arxiv.org/abs/2410.18628v1)|[link](https://github.com/tsugumasa320/wavetablecvae)|
 |**2024-10-24**|**SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance**|Liyu Zhang et.al.|[2410.18626v1](http://arxiv.org/abs/2410.18626v1)|null|
 |**2024-10-24**|**Prompting and Fine-Tuning of Small LLMs for Length-Controllable Telephone Call Summarization**|David Thulke et.al.|[2410.18624v1](http://arxiv.org/abs/2410.18624v1)|null|
 |**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615v1](http://arxiv.org/abs/2410.18615v1)|null|
@@ -126,7 +126,7 @@ LMMs. Our analysis reveals the need for substantial improvement, especially
 among the best open-source models, with even the closed-source GPT-4o achieving
 an overall score of 62%. Our benchmark and evaluation scripts are open-sourced.
 
-摘要：近年来，人们对开发能够执行各种视觉推理和理解任务的大型多模态模型（LMM）产生了浓厚的兴趣。这导致了引入多个 LMM 基准来评估 LMM 在不同任务上的表现。然而，大多数现有的 LMM 评估基准主要以英语为中心。在这项工作中，我们开发了一个针对阿拉伯语的综合 LMM 评估基准，以代表超过 4 亿的庞大人口。提出的基准名为 CAMEL-Bench，包含八个不同的领域和 38 个子领域，包括多图像理解、复杂视觉感知、手写文档理解、视频理解、医学成像、植物疾病和基于遥感的土地利用理解，以评估广泛的场景泛化性。我们的 CAMEL-Bench 包含约 29,036 个问题，这些问题是从更大的样本池中筛选出来的，其中质量由母语人士手动验证，以确保可靠的模型评估。我们对闭源（包括 GPT-4 系列）和开源 LMM 进行了评估。我们的分析表明需要大幅改进，尤其是在最好的开源模型中，即使是闭源 GPT-4o 也只获得了 62% 的总体得分。我们的基准和评估脚本是开源的。
+摘要：近年來，開發大型多模態模型 (LMM) 以執行各種視覺推理和理解任務引起了極大的興趣。這導致引入了多個 LMM 基準來評估 LMM 在不同任務上的表現。然而，現有的 LMM 評估基準大多以英語為中心。在這項工作中，我們開發了一個全面的阿拉伯語 LMM 評估基準，以代表超過 4 億人口的龐大群體。提出的基準稱為 CAMEL-Bench，包含八個不同的領域和 38 個子領域，包括多圖像理解、複雜視覺感知、手寫文件理解、視頻理解、醫學影像、植物疾病和基於遙感的土地利用理解，以評估廣泛場景的可概括性。我們的 CAMEL-Bench 包含約 29,036 個問題，這些問題從更大的樣本池中過濾出來，其質量由母語人士手動驗證以確保可靠的模型評估。我們對封閉源碼（包括 GPT-4 系列）和開源 LMM 進行了評估。我們的分析揭示了需要大幅改進，特別是在最好的開源模型中，即使是封閉源碼的 GPT-4o 也只達到了 62% 的總分。我們的基準和評估腳本是開源的。
 
 ##### **Unbounded: A Generative Infinite Game of Character Life Simulation**
 2410.18975v1 by Jialu Li, Yuanzhen Li, Neal Wadhwa, Yael Pritch, David E. Jacobs, Michael Rubinstein, Mohit Bansal, Nataniel Ruiz

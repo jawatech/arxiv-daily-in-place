@@ -49,7 +49,7 @@
 |**2024-10-24**|**AI Readiness in Healthcare through Storytelling XAI**|Akshat Dubey et.al.|[2410.18725v1](http://arxiv.org/abs/2410.18725v1)|null|
 |**2024-10-24**|**GeoLoRA: Geometric integration for parameter efficient fine-tuning**|Steffen Schotthöfer et.al.|[2410.18720v1](http://arxiv.org/abs/2410.18720v1)|null|
 |**2024-10-24**|**LLM-based Online Prediction of Time-varying Graph Signals**|Dayu Qin et.al.|[2410.18718v1](http://arxiv.org/abs/2410.18718v1)|null|
-|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717v1](http://arxiv.org/abs/2410.18717v1)|[link](https://github.com/muleina/la3d)|
 |**2024-10-24**|**GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning**|Rita Ramos et.al.|[2410.18702v1](http://arxiv.org/abs/2410.18702v1)|null|
 |**2024-10-24**|**How Good Are LLMs for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs**|Ran Zhang et.al.|[2410.18697v1](http://arxiv.org/abs/2410.18697v1)|null|
 |**2024-10-24**|**Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch**|Yuyang Ding et.al.|[2410.18693v1](http://arxiv.org/abs/2410.18693v1)|[link](https://github.com/yyding1/scalequest)|
@@ -73,12 +73,12 @@
 |**2024-10-24**|**SIKeD: Self-guided Iterative Knowledge Distillation for mathematical reasoning**|Shivam Adarsh et.al.|[2410.18574v1](http://arxiv.org/abs/2410.18574v1)|[link](https://github.com/kumar-shridhar/siked)|
 |**2024-10-24**|**Taipan: Efficient and Expressive State Space Language Models with Selective Attention**|Chien Van Nguyen et.al.|[2410.18572v1](http://arxiv.org/abs/2410.18572v1)|null|
 |**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570v1](http://arxiv.org/abs/2410.18570v1)|null|
-|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567v1](http://arxiv.org/abs/2410.18567v1)|null|
+|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567v1](http://arxiv.org/abs/2410.18567v1)|[link](https://github.com/naist-nlp/multils-japanese)|
 |**2024-10-24**|**Bielik 7B v0.1: A Polish Language Model -- Development, Insights, and Evaluation**|Krzysztof Ociepa et.al.|[2410.18565v1](http://arxiv.org/abs/2410.18565v1)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558v1](http://arxiv.org/abs/2410.18558v1)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
 |**2024-10-24**|**On Explaining with Attention Matrices**|Omar Naim et.al.|[2410.18541v1](http://arxiv.org/abs/2410.18541v1)|[link](https://github.com/omyokun/on-explaining-with-attention-matrices)|
-|**2024-10-24**|**LOGO -- Long cOntext aliGnment via efficient preference Optimization**|Zecheng Tang et.al.|[2410.18533v1](http://arxiv.org/abs/2410.18533v1)|null|
+|**2024-10-24**|**LOGO -- Long cOntext aliGnment via efficient preference Optimization**|Zecheng Tang et.al.|[2410.18533v1](http://arxiv.org/abs/2410.18533v1)|[link](https://github.com/zetangforward/lcm_stack)|
 |**2024-10-24**|**A Systematic Survey on Instructional Text: From Representation and Downstream NLP Tasks**|Abdulfattah Safa et.al.|[2410.18529v1](http://arxiv.org/abs/2410.18529v1)|null|
 |**2024-10-24**|**KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**|Yifei Yang et.al.|[2410.18517v1](http://arxiv.org/abs/2410.18517v1)|[link](https://github.com/yangyifei729/kvsharer)|
 |**2024-10-24**|**Scaling up Masked Diffusion Models on Text**|Shen Nie et.al.|[2410.18514v1](http://arxiv.org/abs/2410.18514v1)|[link](https://github.com/ml-gsai/smdm)|

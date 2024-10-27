@@ -87,7 +87,7 @@
 |**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v1](http://arxiv.org/abs/2410.07271v1)|null|
 |**2024-10-08**|**Counterfactual Causal Inference in Natural Language with Large Language Models**|Gaël Gendron et.al.|[2410.06392v1](http://arxiv.org/abs/2410.06392v1)|[link](https://github.com/strong-ai-lab/counterfactual-llm-inference)|
 |**2024-10-08**|**Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop KGQA**|Wenyu Huang et.al.|[2410.06121v1](http://arxiv.org/abs/2410.06121v1)|null|
-|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v3](http://arxiv.org/abs/2410.06062v3)|null|
+|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062v3](http://arxiv.org/abs/2410.06062v3)|[link](https://github.com/sib-swiss/sparql-llm)|
 |**2024-10-08**|**Jet Expansions of Residual Computation**|Yihong Chen et.al.|[2410.06024v1](http://arxiv.org/abs/2410.06024v1)|null|
 |**2024-10-08**|**A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications**|Jerven Bolleman et.al.|[2410.06010v1](http://arxiv.org/abs/2410.06010v1)|null|
 |**2024-10-08**|**LightRAG: Simple and Fast Retrieval-Augmented Generation**|Zirui Guo et.al.|[2410.05779v1](http://arxiv.org/abs/2410.05779v1)|[link](https://github.com/hkuds/lightrag)|

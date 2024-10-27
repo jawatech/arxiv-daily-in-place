@@ -62,7 +62,7 @@
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636v1](http://arxiv.org/abs/2410.18636v1)|null|
 |**2024-10-24**|**Little Giants: Synthesizing High-Quality Embedding Data at Scale**|Haonan Chen et.al.|[2410.18634v1](http://arxiv.org/abs/2410.18634v1)|null|
 |**2024-10-24**|**Supporting Assessment of Novelty of Design Problems Using Concept of Problem SAPPhIRE**|Sanjay Singh et.al.|[2410.18629v1](http://arxiv.org/abs/2410.18629v1)|null|
-|**2024-10-24**|**Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label**|Tsugumasa Yutani et.al.|[2410.18628v1](http://arxiv.org/abs/2410.18628v1)|[link](https://github.com/tsugumasa320/wavetablecvae)|
+|**2024-10-24**|**Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label**|Tsugumasa Yutani et.al.|[2410.18628v1](http://arxiv.org/abs/2410.18628v1)|[link](https://github.com/tsugumasa320/WavetableCVAE_Plugin)|
 |**2024-10-24**|**SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance**|Liyu Zhang et.al.|[2410.18626v1](http://arxiv.org/abs/2410.18626v1)|null|
 |**2024-10-24**|**Prompting and Fine-Tuning of Small LLMs for Length-Controllable Telephone Call Summarization**|David Thulke et.al.|[2410.18624v1](http://arxiv.org/abs/2410.18624v1)|null|
 |**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615v1](http://arxiv.org/abs/2410.18615v1)|null|

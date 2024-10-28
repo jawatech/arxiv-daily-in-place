@@ -2,7 +2,7 @@
 ### LLM
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|null|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|[link](https://github.com/mbzuai-oryx/CAMEL-Bench)|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975v1](http://arxiv.org/abs/2410.18975v1)|null|
 |**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974v1](http://arxiv.org/abs/2410.18974v1)|[link](https://github.com/Lakonik/MVEdit)|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
@@ -38,7 +38,7 @@
 |**2024-10-24**|**Delving into the Reversal Curse: How Far Can Large Language Models Generalize?**|Zhengkai Lin et.al.|[2410.18808v1](http://arxiv.org/abs/2410.18808v1)|null|
 |**2024-10-24**|**A Combinatorial Approach to Neural Emergent Communication**|Zheyuan Zhang et.al.|[2410.18806v1](http://arxiv.org/abs/2410.18806v1)|null|
 |**2024-10-24**|**Distill Visual Chart Reasoning Ability from LLMs to MLLMs**|Wei He et.al.|[2410.18798v1](http://arxiv.org/abs/2410.18798v1)|[link](https://github.com/hewei2001/reachqa)|
-|**2024-10-24**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792v1](http://arxiv.org/abs/2410.18792v1)|null|
+|**2024-10-24**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792v2](http://arxiv.org/abs/2410.18792v2)|null|
 |**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786v1](http://arxiv.org/abs/2410.18786v1)|null|
 |**2024-10-24**|**Should We Really Edit Language Models? On the Evaluation of Edited Language Models**|Qi Li et.al.|[2410.18785v1](http://arxiv.org/abs/2410.18785v1)|[link](https://github.com/lqinfdim/editingevaluation)|
 |**2024-10-24**|**A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs**|Ankit Singh Rawat et.al.|[2410.18779v1](http://arxiv.org/abs/2410.18779v1)|null|
@@ -55,10 +55,10 @@
 |**2024-10-24**|**Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch**|Yuyang Ding et.al.|[2410.18693v1](http://arxiv.org/abs/2410.18693v1)|[link](https://github.com/yyding1/scalequest)|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678v1](http://arxiv.org/abs/2410.18678v1)|null|
 |**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|[link](https://github.com/YecanLee/2BeOETG)|
-|**2024-10-24**|**$C^2$: Scalable Auto-Feedback for LLM-based Chart Generation**|Woosung Koh et.al.|[2410.18652v1](http://arxiv.org/abs/2410.18652v1)|null|
+|**2024-10-24**|**$C^2$: Scalable Auto-Feedback for LLM-based Chart Generation**|Woosung Koh et.al.|[2410.18652v2](http://arxiv.org/abs/2410.18652v2)|null|
 |**2024-10-24**|**Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience**|Diogo Cosme et.al.|[2410.18641v1](http://arxiv.org/abs/2410.18641v1)|[link](https://github.com/resetting-eu/european_stt_observatory)|
 |**2024-10-24**|**Weak-to-Strong Preference Optimization: Stealing Reward from Weak Aligned Model**|Wenhong Zhu et.al.|[2410.18640v1](http://arxiv.org/abs/2410.18640v1)|null|
-|**2024-10-24**|**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**|Jinxu Lin et.al.|[2410.18639v1](http://arxiv.org/abs/2410.18639v1)|null|
+|**2024-10-24**|**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**|Jinxu Lin et.al.|[2410.18639v2](http://arxiv.org/abs/2410.18639v2)|null|
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636v1](http://arxiv.org/abs/2410.18636v1)|null|
 |**2024-10-24**|**Little Giants: Synthesizing High-Quality Embedding Data at Scale**|Haonan Chen et.al.|[2410.18634v1](http://arxiv.org/abs/2410.18634v1)|null|
 |**2024-10-24**|**Supporting Assessment of Novelty of Design Problems Using Concept of Problem SAPPhIRE**|Sanjay Singh et.al.|[2410.18629v1](http://arxiv.org/abs/2410.18629v1)|null|
@@ -83,7 +83,7 @@
 |**2024-10-24**|**KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**|Yifei Yang et.al.|[2410.18517v1](http://arxiv.org/abs/2410.18517v1)|[link](https://github.com/yangyifei729/kvsharer)|
 |**2024-10-24**|**Scaling up Masked Diffusion Models on Text**|Shen Nie et.al.|[2410.18514v1](http://arxiv.org/abs/2410.18514v1)|[link](https://github.com/ml-gsai/smdm)|
 |**2024-10-24**|**Enhancing Graph Attention Neural Network Performance for Marijuana Consumption Classification through Large-scale Augmented Granger Causality (lsAGC) Analysis of Functional MR Images**|Ali Vosoughi et.al.|[2410.18506v1](http://arxiv.org/abs/2410.18506v1)|null|
-|**2024-10-24**|**CCI3.0-HQ: a large-scale Chinese dataset of high quality designed for pre-training large language models**|Liangdong Wang et.al.|[2410.18505v1](http://arxiv.org/abs/2410.18505v1)|null|
+|**2024-10-24**|**CCI3.0-HQ: a large-scale Chinese dataset of high quality designed for pre-training large language models**|Liangdong Wang et.al.|[2410.18505v2](http://arxiv.org/abs/2410.18505v2)|null|
 |**2024-10-24**|**SFB-net for cardiac segmentation: Bridging the semantic gap with attention**|Nicolas Portal et.al.|[2410.18503v1](http://arxiv.org/abs/2410.18503v1)|null|
 |**2024-10-24**|**ChineseSafe: A Chinese Benchmark for Evaluating Safety in Large Language Models**|Hengxiang Zhang et.al.|[2410.18491v1](http://arxiv.org/abs/2410.18491v1)|null|
 |**2024-10-24**|**LLM as a code generator in Agile Model Driven Development**|Ahmed R. Sadik et.al.|[2410.18489v1](http://arxiv.org/abs/2410.18489v1)|null|
@@ -956,7 +956,7 @@ https://github.com/hewei2001/ReachQA.
 摘要：解決複雜的圖表問答任務需要多模態大型語言模型 (MLLM) 中進階的視覺推理能力。最近的研究強調，這些能力包含兩個主要部分：從視覺輸入中識別關鍵資訊和對其進行推理。因此，增強 MLLM 的一個有前途的方法是建構專注於這兩個方面的相關訓練資料。然而，收集和註解複雜的圖表和問題既昂貴又耗時，而且確保註解答案的品質仍然是一個挑戰。在本文中，我們提出代碼作為中介翻譯 (CIT)，這是一種具成本效益、高效且易於擴充的資料合成方法，用於從 LLM 中萃取視覺推理能力到 MLLM。該代碼作為一個中介，將視覺圖表表示轉換為文字表示，使 LLM 能夠理解跨模態資訊。具體來說，我們採用基於文字的合成技術來建構圖表繪製代碼，並產生 ReachQA，這是一個包含 3k 個推理密集型圖表和 20k 個問答對的資料集，以增強識別和推理能力。實驗表明，當使用我們的資料進行微調時，模型不僅在與圖表相關的基準測試中表現良好，而且在像 MathVista 這樣的通用數學基準測試中也表現出改進的多模態推理能力。代碼和資料集可在 https://github.com/hewei2001/ReachQA 公開取得。
 
 ##### **An LLM Agent for Automatic Geospatial Data Analysis**
-2410.18792v1 by Yuxing Chen, Weijie Wang, Sylvain Lobry, Camille Kurtz
+2410.18792v2 by Yuxing Chen, Weijie Wang, Sylvain Lobry, Camille Kurtz
 
 Large language models (LLMs) are being used in data science code generation
 tasks, but they often struggle with complex sequential tasks, leading to
@@ -983,7 +983,7 @@ improvements in function calls and task completion. In addition, these results
 offer valuable insights for the future development of LLM agents in automatic
 geospatial data analysis task programming.
 
-摘要：<paragraph>大型語言模型 (LLM) 已用於資料科學程式碼產生任務，但它們經常難以處理複雜的順序任務，導致邏輯錯誤。由於難以納入複雜的資料結構和空間限制、有效利用不同的函式呼叫，以及容易產生較少使用的地理空間函式庫的幻覺，因此它們在地理空間資料處理中的應用特別具有挑戰性。為了解決這些問題，我們引入了 GeoAgent，這是一個新的互動式架構，旨在幫助 LLM 更有效地處理地理空間資料處理。GeoAgent 開創了在蒙地卡羅樹狀搜尋 (MCTS) 演算法中整合程式碼直譯器、靜態分析和檢索增強產生 (RAG) 技術，提供了一種新的地理空間資料處理方法。此外，我們貢獻了一個新的基準，專門用於評估地理空間任務中基於 LLM 的方法。此基準利用各種 Python 函式庫，包括單回合和多回合任務，例如資料擷取、資料分析和視覺化。透過在不同的地理空間背景下提供全面的評估，此基準為在地理空間資料分析任務中開發基於 LLM 的方法設定了新的標準。我們的研究結果表明，僅依賴 LLM 的知識不足以進行準確的地理空間任務程式設計，這需要連貫的多步驟流程和多個函式呼叫。與基準 LLM 相比，所提出的 GeoAgent 已展現出優異的效能，在函式呼叫和任務完成方面都有顯著的進步。此外，這些結果為 LLM 代理程式在自動地理空間資料分析任務程式設計中的未來發展提供了有價值的見解。</paragraph>
+摘要：大型語言模型 (LLM) 被用於資料科學程式碼生成任務，但它們經常在複雜的順序任務中掙扎，導致邏輯錯誤。它們在處理地理空間資料的應用特別具有挑戰性，原因在於難以納入複雜的資料結構和空間約束、有效利用不同的函式呼叫，以及容易產生幻覺的較少使用的地理空間函式庫。為了解決這些問題，我們引入了 GeoAgent，一個新的互動式架構，旨在協助 LLM 更有效地處理地理空間資料。GeoAgent 開創了在蒙地卡羅樹狀搜尋 (MCTS) 演算法中整合程式碼詮釋器、靜態分析和檢索增強生成 (RAG) 技術，提供一種地理空間資料處理的新方法。此外，我們貢獻了一個新的基準，特別設計用於評估 LLM 基於地理空間任務的方法。這個基準利用了各種 Python 函式庫，包括單回合和多回合任務，例如資料擷取、資料分析和視覺化。透過在不同的地理空間背景中提供全面的評估，這個基準為在地理空間資料分析任務中開發基於 LLM 的方法設定了新的標準。我們的發現表明，僅依賴 LLM 的知識不足以進行準確的地理空間任務程式設計，這需要連貫的多步驟流程和多個函式呼叫。與基準 LLM 相比，所提出的 GeoAgent 已展現出優越的效能，在函式呼叫和任務完成方面都有顯著的改進。此外，這些結果為 LLM 代理程式在自動地理空間資料分析任務程式設計的未來發展提供了有價值的見解。
 
 ##### **Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**
 2410.18786v1 by Yucheng Shi, Wenlong Wang, Xiaowen Tao, Ivana Dusparic, Vinny Cahill
@@ -1368,7 +1368,7 @@ and models are publicly available.
 摘要：開放式文字生成由於強大（大型）語言模型的興起，已成為自然語言處理中的一項重要任務。然而，評估這些模型的品質和所採用的解碼策略仍然具有挑戰性，因為廣泛使用的指標（例如連貫性、多樣性和困惑度）之間存在取捨。解碼方法通常在某些指標中表現出色，但在其他指標中表現不佳，這使得建立明確的排名變得複雜。在本文中，我們在此多準則框架中提出新的排名策略。具體來說，我們採用基於偏序的基準測試方法，並提出一個新的摘要指標，旨在平衡現有的自動指標，提供對文字生成品質更全面的評估。此外，我們討論了這些方法與人類判斷的一致性。我們的實驗表明，所提出的方法提供了一種比較解碼策略的強健方式，表現出與人類偏好的相似性，並且可用作開放式文字生成任務中指導模型選擇的寶貴工具。最後，我們建議改進文字生成評估方法的未來方向。我們的程式碼庫、資料集和模型公開提供。
 
 ##### **$C^2$: Scalable Auto-Feedback for LLM-based Chart Generation**
-2410.18652v1 by Woosung Koh, Jang Han Yoon, MinHyung Lee, Youngjin Song, Jaegwan Cho, Jaehyun Kang, Taehyeon Kim, Se-young Yun, Youngjae Yu, Bongshin Lee
+2410.18652v2 by Woosung Koh, Jang Han Yoon, MinHyung Lee, Youngjin Song, Jaegwan Cho, Jaehyun Kang, Taehyeon Kim, Se-young Yun, Youngjae Yu, Bongshin Lee
 
 Generating high-quality charts with Large Language Models presents
 significant challenges due to limited data and the high cost of scaling through
@@ -1388,7 +1388,7 @@ queries, with 93% deeming them aligned with real-world use cases. Core
 contributions are available as open-source at an anonymized project site, with
 ample qualitative examples.
 
-摘要：透過大型語言模型產生高品質圖表會遭遇重大挑戰，原因在於資料有限，且透過人工管理擴展的成本很高。指令、資料和程式碼三元組稀少，且人工管理成本高昂，因為建立這些三元組需要技術專業知識。為了解決這個可擴充性問題，我們引進了一個無參考自動回饋產生器，消除了昂貴的人工介入需求。我們創新的架構 $C^2$ 包含 (1) 一個自動回饋提供者 (ChartAF) 和 (2) 一個多元的無參考資料集 (ChartUIE-8K)。量化結果令人信服：在我們的第一次實驗中，74% 的受訪者強烈偏好回饋後的結果，10% 的受訪者偏好回饋後的結果。第二次回饋後實驗顯示 ChartAF 優於九個基準。此外，ChartUIE-8K 透過分別將查詢、資料集和圖表類型增加 5982%、1936% 和 91%，大幅提升資料的多樣性，超越基準。最後，一項 LLM 使用者研究顯示，94% 的參與者偏好 ChartUIE-8K 的查詢，93% 的參與者認為這些查詢與實際使用案例相符。核心貢獻以匿名專案網站的形式提供開放原始碼，並提供大量的定性範例。
+摘要：使用大型语言模型生成高质量图表存在重大挑战，原因在于数据有限，且通过人工整理进行扩展的成本很高。指令、数据和代码三元组稀缺且人工整理成本高，因为其创建需要技术专长。为了解决此可扩展性问题，我们引入了一个无参考自动反馈生成器，消除了对昂贵的人工干预的需求。我们新颖的框架 $C^2$ 包含 (1) 一个自动反馈提供程序 (ChartAF) 和 (2) 一个多样化的无参考数据集 (ChartUIE-8K)。定量结果令人信服：在我们的第一个实验中，74% 的受访者强烈偏好反馈后的结果，10% 的受访者偏好反馈后的结果。第二个反馈后实验表明，ChartAF 优于九个基线。此外，ChartUIE-8K 通过分别将查询、数据集和图表类型增加 5982%、1936% 和 91%，显著提高了数据多样性，超过了基准。最后，一项 LLM 用户研究显示，94% 的参与者偏好 ChartUIE-8K 的查询，93% 的参与者认为这些查询符合实际用例。核心贡献以匿名项目网站上的开源形式提供，并附有大量定性示例。
 
 ##### **Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience**
 2410.18641v1 by Diogo Cosme, António Galvão, Fernando Brito e Abreu
@@ -1442,7 +1442,7 @@ alignment ability is feasible.
 摘要：將語言模型 (LM) 與人類偏好相符已成為研究的一大重點，讓這些模型能更好地滿足不同的使用者需求。在弱到強的概化啟發下，一個針對由較弱模型產生的標籤進行微調的強大 LM，能持續優於其較弱的監督者，我們將此概念延伸到模型對齊。在這項工作中，我們觀察到較弱模型中的對齊行為可以有效地轉移到較強的模型，甚至展現出放大效果。基於此見解，我們提出一個名為弱到強偏好最佳化 (WSPO) 的方法，透過在弱模型對齊前後學習分佈差異，達成強大的模型對齊。實驗證明 WSPO 能提供傑出的效能，將 Qwen2-7B-Instruct 在 Arena-Hard 上的獲勝率從 39.70 提升至 49.60，在 AlpacaEval 2 上達到顯著的 47.04 長度控制獲勝率，並在 MT-bench 上獲得 7.33 分。我們的結果顯示，使用弱模型來引出具有高度對齊能力的強大模型是可行的。
 
 ##### **Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**
-2410.18639v1 by Jinxu Lin, Linwei Tao, Minjing Dong, Chang Xu
+2410.18639v2 by Jinxu Lin, Linwei Tao, Minjing Dong, Chang Xu
 
 As diffusion models become increasingly popular, the misuse of copyrighted
 and private images has emerged as a major concern. One promising solution to
@@ -1466,7 +1466,7 @@ experiments across various datasets and diffusion models demonstrate that DAS
 significantly surpasses previous benchmarks in terms of the linear
 data-modelling score, establishing new state-of-the-art performance.
 
-摘要：<paragraph>隨著擴散模型越來越受歡迎，濫用受版權保護和私人影像已成為一個主要問題。減輕此問題的一個有前途的解決方案是識別生成模型中特定訓練範例的貢獻，這個過程稱為資料歸因。現有的擴散模型資料歸因方法通常透過評估訓練過程中包含或排除範例時擴散損失的變化來量化訓練範例的貢獻。然而，我們認為，由於擴散損失的計算，擴散損失的直接使用無法準確表示這樣的貢獻。具體來說，這些方法測量預測分佈與真實分佈之間的差異，這導致預測分佈之間的間接比較，無法表示模型行為之間的差異。為了解決這些問題，我們旨在透過歸因分數來測量預測分佈之間的直接比較，以分析訓練範例的重要性，這可透過擴散歸因分數 (DAS) 來實現。在嚴謹的理論分析的支撐下，我們闡明了 DAS 的有效性。此外，我們探索加速 DAS 計算的策略，促進其應用於大規模擴散模型。我們在各種資料集和擴散模型上進行的廣泛實驗表明，DAS 在線性資料建模分數方面顯著超越了先前的基準，樹立了新的最先進的效能。</paragraph>
+摘要：<paragraph>隨著擴散模型越來越受歡迎，對受版權保護和私人影像的濫用已成為一個主要問題。一個有希望的解決方案是找出生成模型中特定訓練範例的貢獻，這個過程稱為資料歸因。現有的擴散模型資料歸因方法通常會透過評估在訓練過程中包含或排除範例時擴散損失的變化，來量化訓練範例的貢獻。然而，我們認為由於擴散損失的計算，直接使用擴散損失無法準確地表示這種貢獻。具體來說，這些方法測量預測分佈和真實分佈之間的差異，這導致預測分佈之間的間接比較，無法表示模型行為之間的差異。為了解決這些問題，我們旨在透過歸因分數來測量預測分佈之間的直接比較，以分析訓練範例的重要性，這透過擴散歸因分數 (DAS) 來實現。在嚴謹的理論分析的基礎上，我們闡明了 DAS 的有效性。此外，我們探索了加速 DAS 計算的策略，促進其應用於大規模擴散模型。我們在各種資料集和擴散模型上進行的廣泛實驗表明，DAS 在線性資料建模分數方面顯著超越了先前的基準，建立了新的最先進的效能。</paragraph>
 
 ##### **Multi-agent cooperation through learning-aware policy gradients**
 2410.18636v1 by Alexander Meulemans, Seijin Kobayashi, Johannes von Oswald, Nino Scherrer, Eric Elmoznino, Blake Richards, Guillaume Lajoie, Blaise Agüera y Arcas, João Sacramento
@@ -1999,7 +1999,7 @@ analysis when studying marijuana's effects on the brain.
 摘要：<paragraph>在現今的研究中，大規模擴增 Granger 因果關係 (lsAGC) 作為評估大腦網路連結性的工具的有效性受到檢驗，以利用靜態功能性磁振造影 (fMRI) 區分大麻使用者和典型對照組。大麻使用與大腦網路連結性改變之間的關係是科學文獻中公認的事實。本研究探討 lsAGC 如何準確辨別這些改變。所使用的技術將維度簡約與模型中來源時間序列的擴充整合，該模型預測時間序列，有助於估計 fMRI 時間序列之間的定向因果關係。作為多變量方法，lsAGC 在考量所有其他時間序列的同時揭示固有動態系統的連結。研究中使用從成癮連接組前處理計畫 (ACPI) 中提取的 60 位在童年時期被診斷出患有 ADHD 的成人的數據集。由 lsAGC 評估的大腦連結被用作分類屬性。圖注意力神經網路 (GAT) 被選來執行分類任務，特別是因為它具備利用基於圖形的數據和辨識大腦區域之間複雜互動的能力，使其適用於基於 fMRI 的大腦連結性數據。使用五倍交叉驗證系統分析效能。相關係數法達成的平均準確度約為 52.98%，標準差為 1.65，而 lsAGC 方法的平均準確度為 61.47%，標準差為 1.44。建議的方法增強了基於神經影像學的分類領域的知識體系，並強調在研究大麻對大腦的影響時，在腦網路連結性分析中考量定向因果連結的必要性。</paragraph>
 
 ##### **CCI3.0-HQ: a large-scale Chinese dataset of high quality designed for pre-training large language models**
-2410.18505v1 by Liangdong Wang, Bo-Wen Zhang, Chengwei Wu, Hanyu Zhao, Xiaofeng Shi, Shuhao Gu, Jijie Li, Quanyue Ma, TengFei Pan, Guang Liu
+2410.18505v2 by Liangdong Wang, Bo-Wen Zhang, Chengwei Wu, Hanyu Zhao, Xiaofeng Shi, Shuhao Gu, Jijie Li, Quanyue Ma, TengFei Pan, Guang Liu
 
 We present CCI3.0-HQ (https://huggingface.co/datasets/BAAI/CCI3-HQ), a
 high-quality 500GB subset of the Chinese Corpora Internet 3.0
@@ -2014,17 +2014,7 @@ attaining optimal F1 scores for Chinese web data classification. We believe
 this open-access dataset will facilitate broader access to high-quality
 language models.
 
-摘要：我們提供 CCI3.0-HQ (https://huggingface.co/datasets/BAAI/CCI3-HQ)，一個
-高品質的 500GB 子集，來自於中文語料庫網際網路 3.0
-(CCI3.0)(https://huggingface.co/datasets/BAAI/CCI3-Data)，使用一個
-新穎的兩階段混合過濾管道開發而成，大幅增強資料
-品質。為了評估其有效性，我們從頭開始訓練一個 0.5B 參數模型
-在 100B 個各種資料集中的代幣上，在零次學習的設定下，在 10 個基準上達成優異的表現
-與 CCI3.0、SkyPile 和 WanjuanV1 相比。高品質的過濾程序有效地將
-Qwen2-72B-instruct 模型的能力提煉到一個緊湊的 0.5B 模型中，
-在中文網路資料分類中獲得最佳的 F1 分數。我們相信
-這個開放取用的資料集將促進更廣泛地使用高品質
-語言模型。
+摘要：我們提供 CCI3.0-HQ (https://huggingface.co/datasets/BAAI/CCI3-HQ)，這是中國語料庫網路 3.0 (CCI3.0) (https://huggingface.co/datasets/BAAI/CCI3-Data) 中的 500GB 高品質子集，使用創新的兩階段混合過濾管道開發，可顯著提升資料品質。為了評估其有效性，我們從頭開始訓練一個 0.5B 參數模型，在各種資料集上使用 100B 個符號，與 CCI3.0、SkyPile 和 WanjuanV1 相比，在零次學習設定中於 10 個基準測試中達成卓越的效能。高品質過濾程序有效地將 Qwen2-72B-instruct 模型的功能濃縮到一個精簡的 0.5B 模型中，在中文網路資料分類中獲得最佳的 F1 分數。我們相信這個開放取用的資料集將有助於更廣泛地使用高品質語言模型。
 
 ##### **SFB-net for cardiac segmentation: Bridging the semantic gap with attention**
 2410.18503v1 by Nicolas Portal, Nadjia Kachenoura, Thomas Dietenbeck, Catherine Achard

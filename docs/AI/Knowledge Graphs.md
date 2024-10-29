@@ -2,6 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727v1](http://arxiv.org/abs/2410.19727v1)|null|
+|**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627v1](http://arxiv.org/abs/2410.19627v1)|null|
+|**2024-10-25**|**Graph Linearization Methods for Reasoning on Graphs with Large Language Models**|Christos Xypolopoulos et.al.|[2410.19494v1](http://arxiv.org/abs/2410.19494v1)|null|
+|**2024-10-25**|**Hierarchical Mixture of Experts: Generalizable Learning for High-Level Synthesis**|Weikai Li et.al.|[2410.19225v1](http://arxiv.org/abs/2410.19225v1)|null|
+|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193v1](http://arxiv.org/abs/2410.19193v1)|null|
+|**2024-10-24**|**GCoder: Improving Large Language Model for Generalized Graph Problem Solving**|Qifan Zhang et.al.|[2410.19084v1](http://arxiv.org/abs/2410.19084v1)|[link](https://github.com/bklight999/www25-gcoder)|
 |**2024-10-24**|**LLM-based Online Prediction of Time-varying Graph Signals**|Dayu Qin et.al.|[2410.18718v1](http://arxiv.org/abs/2410.18718v1)|null|
 |**2024-10-24**|**Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**|Kexuan Xin et.al.|[2410.18475v1](http://arxiv.org/abs/2410.18475v1)|null|
 |**2024-10-24**|**ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**|Zezhong Wang et.al.|[2410.18447v1](http://arxiv.org/abs/2410.18447v1)|null|
@@ -96,14 +102,145 @@
 |**2024-10-07**|**Narrative-of-Thought: Improving Temporal Reasoning of Large Language Models via Recounted Narratives**|Xinliang Frederick Zhang et.al.|[2410.05558v1](http://arxiv.org/abs/2410.05558v1)|null|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130v1](http://arxiv.org/abs/2410.05130v1)|null|
 |**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949v1](http://arxiv.org/abs/2410.04949v1)|null|
-|**2024-10-07**|**GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA**|Xinyu Wang et.al.|[2410.04790v1](http://arxiv.org/abs/2410.04790v1)|null|
-|**2024-10-06**|**Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval**|Pengcheng Jiang et.al.|[2410.04585v1](http://arxiv.org/abs/2410.04585v1)|[link](https://github.com/pat-jj/KARE)|
-|**2024-10-06**|**Mitigating Hallucinations Using Ensemble of Knowledge Graph and Vector Store in Large Language Models to Enhance Mental Health Support**|Abdul Muqtadir et.al.|[2410.10853v1](http://arxiv.org/abs/2410.10853v1)|null|
-|**2024-10-04**|**Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs**|Tianqi Shang et.al.|[2410.09080v1](http://arxiv.org/abs/2410.09080v1)|[link](https://github.com/hwq0726/sdohenpkg)|
-|**2024-10-04**|**Empowering Domain-Specific Language Models with Graph-Oriented Databases: A Paradigm Shift in Performance and Model Maintenance**|Ricardo Di Pasquale et.al.|[2410.03867v1](http://arxiv.org/abs/2410.03867v1)|null|
-|**2024-10-04**|**GraphRouter: A Graph-based Router for LLM Selections**|Tao Feng et.al.|[2410.03834v1](http://arxiv.org/abs/2410.03834v1)|null|
 
 #### Abstracts
+##### **FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**
+2410.19727v1 by Nicole Cho, Nishan Srishankar, Lucas Cecchi, William Watson
+
+Financial intelligence generation from vast data sources has typically relied
+on traditional methods of knowledge-graph construction or database engineering.
+Recently, fine-tuned financial domain-specific Large Language Models (LLMs),
+have emerged. While these advancements are promising, limitations such as high
+inference costs, hallucinations, and the complexity of concurrently analyzing
+high-dimensional financial data, emerge. This motivates our invention FISHNET
+(Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning,
+Expert swarming, and Task planning), an agentic architecture that accomplishes
+highly complex analytical tasks for more than 98,000 regulatory filings that
+vary immensely in terms of semantics, data hierarchy, or format. FISHNET shows
+remarkable performance for financial insight generation (61.8% success rate
+over 5.0% Routing, 45.6% RAG R-Precision). We conduct rigorous ablations to
+empirically prove the success of FISHNET, each agent's importance, and the
+optimized performance of assembling all agents. Our modular architecture can be
+leveraged for a myriad of use-cases, enabling scalability, flexibility, and
+data integrity that are critical for financial tasks.
+
+摘要：財務情報生成通常依賴於傳統的知識圖表建構或資料庫工程方法，這些方法來自於龐大的資料來源。最近，針對財務領域進行微調的大型語言模型 (LLM) 已應運而生。儘管這些進展令人振奮，但仍存在一些限制，例如高推理成本、幻覺，以及同時分析高維度財務資料的複雜性。這促使我們發明了 FISHNET（來自子查詢、協調、神經條件化、專家群集和任務規劃的財務情報），這是一種代理架構，可針對超過 98,000 份法規文件執行高度複雜的分析任務，而這些文件在語義、資料階層或格式方面差異極大。FISHNET 在產生財務見解方面表現出色（成功率為 61.8%，路由率為 5.0%，RAG R-Precision 為 45.6%）。我們進行了嚴格的消融，以實證證明 FISHNET 的成功、每個代理的重要性，以及組裝所有代理的最佳化效能。我們模組化的架構可運用於各種使用案例，提供財務任務至關重要的可擴充性、彈性和資料完整性。
+
+##### **Knowledge Graph Enhanced Language Agents for Recommendation**
+2410.19627v1 by Taicheng Guo, Chaochun Liu, Hai Wang, Varun Mannam, Fang Wang, Xin Chen, Xiangliang Zhang, Chandan K. Reddy
+
+Language agents have recently been used to simulate human behavior and
+user-item interactions for recommendation systems. However, current language
+agent simulations do not understand the relationships between users and items,
+leading to inaccurate user profiles and ineffective recommendations. In this
+work, we explore the utility of Knowledge Graphs (KGs), which contain extensive
+and reliable relationships between users and items, for recommendation. Our key
+insight is that the paths in a KG can capture complex relationships between
+users and items, eliciting the underlying reasons for user preferences and
+enriching user profiles. Leveraging this insight, we propose Knowledge Graph
+Enhanced Language Agents(KGLA), a framework that unifies language agents and KG
+for recommendation systems. In the simulated recommendation scenario, we
+position the user and item within the KG and integrate KG paths as natural
+language descriptions into the simulation. This allows language agents to
+interact with each other and discover sufficient rationale behind their
+interactions, making the simulation more accurate and aligned with real-world
+cases, thus improving recommendation performance. Our experimental results show
+that KGLA significantly improves recommendation performance (with a 33%-95%
+boost in NDCG@1 among three widely used benchmarks) compared to the previous
+best baseline method.
+
+摘要：語言代理最近已被用於模擬人類行為和推薦系統中的使用者項目互動。然而，目前的語言代理模擬並未了解使用者和項目之間的關係，導致使用者輪廓不準確和推薦效果不佳。在這項工作中，我們探討了知識圖譜 (KG) 的效用，其中包含使用者和項目之間廣泛且可靠的關係，以供推薦。我們的關鍵見解是，KG 中的路徑可以捕捉使用者和項目之間的複雜關係，引出使用者偏好的根本原因並豐富使用者輪廓。利用此見解，我們提出了知識圖譜增強語言代理 (KGLA)，一個統一語言代理和 KG 以用於推薦系統的架構。在模擬推薦情境中，我們將使用者和項目定位在 KG 中，並將 KG 路徑整合為自然語言描述到模擬中。這允許語言代理彼此互動並發現其互動背後的充分依據，使模擬更準確且與實際案例相符，從而改善推薦效能。我們的實驗結果顯示，與先前最佳基準方法相比，KGLA 大幅改善了推薦效能（在三個廣泛使用的基準中，NDCG@1 提升了 33%-95%）。
+
+##### **Graph Linearization Methods for Reasoning on Graphs with Large Language Models**
+2410.19494v1 by Christos Xypolopoulos, Guokan Shang, Xiao Fei, Giannis Nikolentzos, Hadi Abdine, Iakovos Evdaimon, Michail Chatzianastasis, Giorgos Stamou, Michalis Vazirgiannis
+
+Large language models have evolved to process multiple modalities beyond
+text, such as images and audio, which motivates us to explore how to
+effectively leverage them for graph machine learning tasks. The key question,
+therefore, is how to transform graphs into linear sequences of tokens, a
+process we term graph linearization, so that LLMs can handle graphs naturally.
+We consider that graphs should be linearized meaningfully to reflect certain
+properties of natural language text, such as local dependency and global
+alignment, in order to ease contemporary LLMs, trained on trillions of textual
+tokens, better understand graphs. To achieve this, we developed several graph
+linearization methods based on graph centrality, degeneracy, and node
+relabeling schemes. We then investigated their effect on LLM performance in
+graph reasoning tasks. Experimental results on synthetic graphs demonstrate the
+effectiveness of our methods compared to random linearization baselines. Our
+work introduces novel graph representations suitable for LLMs, contributing to
+the potential integration of graph machine learning with the trend of
+multi-modal processing using a unified transformer model.
+
+摘要：大型語言模型已演化為處理文字之外的多種模式，例如影像和音訊，這促使我們探索如何有效地運用它們於圖形機器學習任務。因此，關鍵問題在於如何將圖形轉換為線性序列的代幣，這是一個我們稱為圖形線性化的過程，讓 LLM 能自然地處理圖形。我們認為圖形應有意義地進行線性化，以反映自然語言文字的特定屬性，例如局部依賴性和全局對齊，以便讓在數兆個文字代幣上訓練的當代 LLM 更能理解圖形。為達成此目的，我們開發了幾種基於圖形中心性、簡併性和節點重新標籤架構的圖形線性化方法。接著，我們探討它們對 LLM 在圖形推理任務中的效能影響。合成圖形上的實驗結果證明了我們的方法比隨機線性化基準更有效。我們的研究引入了適合 LLM 的新穎圖形表示法，有助於將圖形機器學習與使用統一Transformer模型的多模式處理趨勢整合起來。
+
+##### **Hierarchical Mixture of Experts: Generalizable Learning for High-Level Synthesis**
+2410.19225v1 by Weikai Li, Ding Wang, Zijian Ding, Atefeh Sohrabizadeh, Zongyue Qin, Jason Cong, Yizhou Sun
+
+High-level synthesis (HLS) is a widely used tool in designing Field
+Programmable Gate Array (FPGA). HLS enables FPGA design with software
+programming languages by compiling the source code into an FPGA circuit. The
+source code includes a program (called ``kernel'') and several pragmas that
+instruct hardware synthesis, such as parallelization, pipeline, etc. While it
+is relatively easy for software developers to design the program, it heavily
+relies on hardware knowledge to design the pragmas, posing a big challenge for
+software developers. Recently, different machine learning algorithms, such as
+GNNs, have been proposed to automate the pragma design via performance
+prediction. However, when applying the trained model on new kernels, the
+significant domain shift often leads to unsatisfactory performance. We propose
+a more domain-generalizable model structure: a two-level hierarchical Mixture
+of Experts (MoE), that can be flexibly adapted to any GNN model. Different
+expert networks can learn to deal with different regions in the representation
+space, and they can utilize similar patterns between the old kernels and new
+kernels. In the low-level MoE, we apply MoE on three natural granularities of a
+program: node, basic block, and graph. The high-level MoE learns to aggregate
+the three granularities for the final decision. To stably train the
+hierarchical MoE, we further propose a two-stage training method. Extensive
+experiments verify the effectiveness of the hierarchical MoE.
+
+摘要：高階綜合（HLS）是設計現場可編程閘陣列（FPGA）中廣泛使用的工具。HLS 透過將原始碼編譯成 FPGA 電路，使用軟體程式語言進行 FPGA 設計。原始碼包含一個程式（稱為「核心」）和多個指導硬體綜合的指示，例如平行化、管線等。雖然軟體開發人員設計程式相對容易，但它極度依賴硬體知識來設計指示，這對軟體開發人員來說是一大挑戰。最近，不同的機器學習演算法，例如 GNN，已被提出用於透過效能預測自動進行指示設計。然而，在新的核心上應用訓練好的模型時，顯著的領域轉移通常會導致效能不佳。我們提出一個更具領域通用性的模型結構：一個二階層混合專家（MoE），它可以靈活地適應任何 GNN 模型。不同的專家網路可以學習處理表示空間中的不同區域，並且它們可以利用舊核心和新核心之間的相似模式。在低階 MoE 中，我們對程式的三個自然粒度應用 MoE：節點、基本區塊和圖。高階 MoE 學習彙總這三個粒度以做出最終決策。為了穩定訓練階層式 MoE，我們進一步提出一個二階段訓練方法。廣泛的實驗驗證了階層式 MoE 的有效性。
+
+##### **Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**
+2410.19193v1 by Bruno Croso Cunha da Silva, Thomas Palmeira Ferraz, Roseli De Deus Lopes
+
+Disinformation on social media poses both societal and technical challenges.
+While previous studies have integrated textual information into propagation
+networks, they have yet to fully leverage the advancements in Transformer-based
+language models for high-quality contextual text representations. This work
+investigates the impact of incorporating textual features into Graph Neural
+Networks (GNNs) for fake news detection. Our experiments demonstrate that
+contextual representations improve performance by 9.3% in Macro F1 over static
+ones and 33.8% over GNNs without textual features. However, noisy data
+augmentation degrades performance and increases instability. We expect our
+methodology to open avenues for further research, and all code is made publicly
+available.
+
+摘要：社群媒體上的錯誤訊息造成社會和技術層面的挑戰。
+儘管過往的研究已將文字資訊整合到傳播網路中，但尚未充分利用基於 Transformer 的語言模型在高品質脈絡文字表徵上的進展。這項研究探討將文字特徵納入圖形神經網路 (GNN) 中對於假新聞偵測的影響。我們的實驗結果顯示，脈絡表徵將巨觀 F1 的效能提升了 9.3%，優於靜態表徵，並比沒有文字特徵的 GNN 提升了 33.8%。然而，有雜訊的資料擴充會降低效能並增加不穩定性。我們預期我們的研究方法將開啟進一步研究的途徑，所有程式碼皆公開提供。
+
+##### **GCoder: Improving Large Language Model for Generalized Graph Problem Solving**
+2410.19084v1 by Qifan Zhang, Xiaobin Hong, Jianheng Tang, Nuo Chen, Yuhan Li, Wenzhong Li, Jing Tang, Jia Li
+
+Large Language Models (LLMs) have demonstrated strong reasoning abilities,
+making them suitable for complex tasks such as graph computation. Traditional
+reasoning steps paradigm for graph problems is hindered by unverifiable steps,
+limited long-term reasoning, and poor generalization to graph variations. To
+overcome these limitations, we introduce GCoder, a code-based LLM designed to
+enhance problem-solving in generalized graph computation problems. Our method
+involves constructing an extensive training dataset, GraphWild, featuring
+diverse graph formats and algorithms. We employ a multi-stage training process,
+including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Compiler
+Feedback (RLCF), to refine model capabilities. For unseen tasks, a hybrid
+retrieval technique is used to augment performance. Experiments demonstrate
+that GCoder outperforms GPT-4o, with an average accuracy improvement of 16.42%
+across various graph computational problems. Furthermore, GCoder efficiently
+manages large-scale graphs with millions of nodes and diverse input formats,
+overcoming the limitations of previous models focused on the reasoning steps
+paradigm. This advancement paves the way for more intuitive and effective graph
+problem-solving using LLMs. Code and data are available at here:
+https://github.com/Bklight999/WWW25-GCoder/tree/master.
+
+摘要：大型語言模型 (LLM) 已展現強大的推理能力，使其適用於複雜任務，例如圖形運算。傳統圖形問題的推理步驟範例受到不可驗證的步驟、有限的長期推理和對圖形變化的概括性不佳的阻礙。為了克服這些限制，我們引入了 GCoder，一種基於代碼的 LLM，旨在增強廣義圖形運算問題中的問題解決能力。我們的技術涉及構建一個廣泛的訓練資料集 GraphWild，其中包含多樣的圖形格式和演算法。我們採用多階段訓練流程，包括監督微調 (SFT) 和編譯器回饋強化學習 (RLCF)，以改善模型能力。對於未知任務，使用混合擷取技術來增強效能。實驗證明，GCoder 優於 GPT-4o，在各種圖形運算問題中平均準確度提升了 16.42%。此外，GCoder 有效地管理著擁有數百萬個節點和多樣輸入格式的大規模圖形，克服了先前專注於推理步驟範例的模型的限制。這項進展為使用 LLM 進行更直觀且有效的圖形問題解決鋪平了道路。程式碼和資料可於此處取得：https://github.com/Bklight999/WWW25-GCoder/tree/master。
+
 ##### **LLM-based Online Prediction of Time-varying Graph Signals**
 2410.18718v1 by Dayu Qin, Yi Yan, Ercan Engin Kuruoglu
 
@@ -2446,156 +2583,4 @@ recommendation in cases from 0.549 to 0.694, demonstrating that our proposed
 method significantly outperforms baseline approaches.
 
 摘要：法院效率對於社會穩定至關重要。然而，在世界大多數國家中，基層法院面臨案件積壓，判決嚴重依賴司法人員的認知勞動，缺乏提高效率的智能工具。為了解決這個問題，我們提出了一個利用知識圖譜 (KG) 和大型語言模型 (LLM) 的高效法律條文推薦方法。首先，我們提出一個案例增強法律條文知識圖譜 (CLAKG) 作為一個資料庫，用於儲存現行法律法規、歷史案例資訊和法律條文與歷史案例之間的對應關係。此外，我們引入一個基於 LLM 的自動化 CLAKG 構建方法。在此基礎上，我們提出了一個閉環法律條文推薦方法。最後，透過一連串使用來自網站「中國裁判文書網」的裁判文書的實驗，我們將案件中法律條文推薦的準確率從 0.549 提升至 0.694，證明我們提出的方法顯著優於基準方法。
-
-##### **GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA**
-2410.04790v1 by Xinyu Wang, Yanzheng Xiang, Lin Gui, Yulan He
-
-In the past, Retrieval-Augmented Generation (RAG) methods split text into
-chunks to enable language models to handle long documents. Recent tree-based
-RAG methods are able to retrieve detailed information while preserving global
-context. However, with the advent of more powerful LLMs, such as Llama 3.1,
-which offer better comprehension and support for longer inputs, we found that
-even recent tree-based RAG methods perform worse than directly feeding the
-entire document into Llama 3.1, although RAG methods still hold an advantage in
-reducing computational costs. In this paper, we propose a new retrieval method,
-called LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph
-(GARLIC), which outperforms previous state-of-the-art baselines, including
-Llama 3.1, while retaining the computational efficiency of RAG methods. Our
-method introduces several improvements: (1) Rather than using a tree structure,
-we construct a Hierarchical Weighted Directed Acyclic Graph with many-to-many
-summarization, where the graph edges are derived from attention mechanisms, and
-each node focuses on a single event or very few events. (2) We introduce a
-novel retrieval method that leverages the attention weights of LLMs rather than
-dense embedding similarity. Our method allows for searching the graph along
-multiple paths and can terminate at any depth. (3) We use the LLM to control
-the retrieval process, enabling it to dynamically adjust the amount and depth
-of information retrieved for different queries. Experimental results show that
-our method outperforms previous state-of-the-art baselines, including Llama
-3.1, on two single-document and two multi-document QA datasets, while
-maintaining similar computational complexity to traditional RAG methods.
-
-摘要：<paragraph>在過去，檢索增強生成 (RAG) 方法會將文字切割成塊，以使語言模型能夠處理長篇文件。最近的基於樹的 RAG 方法能夠在保留整體脈絡的同時檢索詳細資訊。然而，隨著功能更強大的 LLM（例如 Llama 3.1）的出現，這些 LLM 提供了更好的理解力和對更長輸入的支援，我們發現即使是最近的基於樹的 RAG 方法也比直接將整個文件輸入 Llama 3.1 的表現更差，儘管 RAG 方法在降低運算成本方面仍具備優勢。在本文中，我們提出了一種新的檢索方法，稱為具有分層加權圖的 LLM 引導動態進度控制 (GARLIC)，它優於先前的最先進基準，包括 Llama 3.1，同時保留了 RAG 方法的運算效率。我們的改進方法引入了多項改進：(1) 我們沒有使用樹狀結構，而是構建了一個具有多對多摘要的分層加權有向無環圖，其中圖邊緣源自注意力機制，每個節點都專注於單一事件或極少數事件。(2) 我們引入了一種新穎的檢索方法，它利用 LLM 的注意力權重，而不是密集嵌入相似性。我們的改進方法允許沿多個路徑搜尋圖，並且可以在任何深度終止。(3) 我們使用 LLM 來控制檢索過程，使其能夠動態調整為不同查詢檢索的資訊量和深度。實驗結果表明，我們的改進方法在兩個單文件和兩個多文件問答資料集上優於先前的最先進基準，包括 Llama 3.1，同時維持與傳統 RAG 方法類似的運算複雜度。</paragraph>
-
-##### **Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval**
-2410.04585v1 by Pengcheng Jiang, Cao Xiao, Minhao Jiang, Parminder Bhatia, Taha Kass-Hout, Jimeng Sun, Jiawei Han
-
-Large language models (LLMs) have demonstrated significant potential in
-clinical decision support. Yet LLMs still suffer from hallucinations and lack
-fine-grained contextual medical knowledge, limiting their high-stake healthcare
-applications such as clinical diagnosis. Traditional retrieval-augmented
-generation (RAG) methods attempt to address these limitations but frequently
-retrieve sparse or irrelevant information, undermining prediction accuracy. We
-introduce KARE, a novel framework that integrates knowledge graph (KG)
-community-level retrieval with LLM reasoning to enhance healthcare predictions.
-KARE constructs a comprehensive multi-source KG by integrating biomedical
-databases, clinical literature, and LLM-generated insights, and organizes it
-using hierarchical graph community detection and summarization for precise and
-contextually relevant information retrieval. Our key innovations include: (1) a
-dense medical knowledge structuring approach enabling accurate retrieval of
-relevant information; (2) a dynamic knowledge retrieval mechanism that enriches
-patient contexts with focused, multi-faceted medical insights; and (3) a
-reasoning-enhanced prediction framework that leverages these enriched contexts
-to produce both accurate and interpretable clinical predictions. Extensive
-experiments demonstrate that KARE outperforms leading models by up to
-10.8-15.0% on MIMIC-III and 12.6-12.7% on MIMIC-IV for mortality and
-readmission predictions. In addition to its impressive prediction accuracy, our
-framework leverages the reasoning capabilities of LLMs, enhancing the
-trustworthiness of clinical predictions.
-
-摘要：大型語言模型 (LLM) 已在臨床決策支援中展現出顯著的潛力。然而，LLM 仍有幻覺且缺乏細緻的背景醫療知識，限制了它們在高風險醫療保健應用中的使用，例如臨床診斷。傳統的檢索增強生成 (RAG) 方法試圖解決這些限制，但經常檢索稀疏或無關的資訊，損害預測準確度。我們引入了 KARE，這是一個新穎的架構，整合了知識圖譜 (KG) 社群層級檢索與 LLM 推理，以增強醫療保健預測。KARE 透過整合生物醫學資料庫、臨床文獻和 LLM 生成的見解，建構了一個全面的多來源 KG，並使用階層式圖形社群偵測和摘要進行組織，以進行精確且與背景相關的資訊檢索。我們的關鍵創新包括：(1) 一種密集的醫療知識結構化方法，能夠準確檢索相關資訊；(2) 一種動態知識檢索機制，它使用有焦點、多面向的醫療見解來豐富患者背景；以及 (3) 一個推理增強預測架構，它利用這些豐富的背景來產生準確且可解釋的臨床預測。廣泛的實驗證明，KARE 在 MIMIC-III 上的死亡率和再入院預測中比領先模型高出 10.8-15.0%，在 MIMIC-IV 上高出 12.6-12.7%。除了令人印象深刻的預測準確度外，我們的架構還利用了 LLM 的推理能力，增強了臨床預測的可信度。
-
-##### **Mitigating Hallucinations Using Ensemble of Knowledge Graph and Vector Store in Large Language Models to Enhance Mental Health Support**
-2410.10853v1 by Abdul Muqtadir, Hafiz Syed Muhammad Bilal, Ayesha Yousaf, Hafiz Farooq Ahmed, Jamil Hussain
-
-This research work delves into the manifestation of hallucination within
-Large Language Models (LLMs) and its consequential impacts on applications
-within the domain of mental health. The primary objective is to discern
-effective strategies for curtailing hallucinatory occurrences, thereby
-bolstering the dependability and security of LLMs in facilitating mental health
-interventions such as therapy, counseling, and the dissemination of pertinent
-information. Through rigorous investigation and analysis, this study seeks to
-elucidate the underlying mechanisms precipitating hallucinations in LLMs and
-subsequently propose targeted interventions to alleviate their occurrence. By
-addressing this critical issue, the research endeavors to foster a more robust
-framework for the utilization of LLMs within mental health contexts, ensuring
-their efficacy and reliability in aiding therapeutic processes and delivering
-accurate information to individuals seeking mental health support.
-
-摘要：本研究探討大型語言模型 (LLM) 中幻覺的表現，及其對心理健康領域應用產生的後續影響。主要目標是辨別遏制幻覺發生的有效策略，從而加強 LLM 在促進心理健康干預措施（例如治療、諮詢和傳播相關資訊）方面的可靠性和安全性。透過嚴謹的調查和分析，本研究試圖闡明導致 LLM 產生幻覺的潛在機制，並進一步提出有針對性的干預措施來減輕其發生。透過解決這個關鍵問題，本研究致力於建立一個更穩健的架構，以便在心理健康情境中使用 LLM，確保其在協助治療過程和向尋求心理健康支持的個人提供準確資訊方面的效能和可靠性。
-
-##### **Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs**
-2410.09080v1 by Tianqi Shang, Shu Yang, Weiqing He, Tianhua Zhai, Dawei Li, Bojian Hou, Tianlong Chen, Jason H. Moore, Marylyn D. Ritchie, Li Shen
-
-Growing evidence suggests that social determinants of health (SDoH), a set of
-nonmedical factors, affect individuals' risks of developing Alzheimer's disease
-(AD) and related dementias. Nevertheless, the etiological mechanisms underlying
-such relationships remain largely unclear, mainly due to difficulties in
-collecting relevant information. This study presents a novel, automated
-framework that leverages recent advancements of large language model (LLM) and
-natural language processing techniques to mine SDoH knowledge from extensive
-literature and integrate it with AD-related biological entities extracted from
-the general-purpose knowledge graph PrimeKG. Utilizing graph neural networks,
-we performed link prediction tasks to evaluate the resultant SDoH-augmented
-knowledge graph. Our framework shows promise for enhancing knowledge discovery
-in AD and can be generalized to other SDoH-related research areas, offering a
-new tool for exploring the impact of social determinants on health outcomes.
-Our code is available at: https://github.com/hwq0726/SDoHenPKG
-
-摘要：越來越多的證據表明，社會健康決定因素 (SDoH) 是一組非醫療因素，會影響個人罹患阿茲海默症 (AD) 和相關失智症的風險。然而，這種關係背後的基本機制在很大程度上仍不清楚，主要是因為難以收集相關資訊。本研究提出一個新穎的自動化架構，利用大型語言模型 (LLM) 和自然語言處理技術的最新進展，從廣泛的文獻中挖掘 SDoH 知識，並將其與從通用知識圖 PrimeKG 中提取的 AD 相關生物實體整合在一起。利用圖神經網路，我們執行連結預測任務，以評估生成的 SDoH 擴充知識圖。我們的架構顯示出增強 AD 中知識發現的希望，並且可以推廣到其他與 SDoH 相關的研究領域，提供一個探索社會決定因素對健康結果影響的新工具。我們的程式碼可在 https://github.com/hwq0726/SDoHenPKG 取得
-
-##### **Empowering Domain-Specific Language Models with Graph-Oriented Databases: A Paradigm Shift in Performance and Model Maintenance**
-2410.03867v1 by Ricardo Di Pasquale, Soledad Represa
-
-In an era dominated by data, the management and utilization of
-domain-specific language have emerged as critical challenges in various
-application domains, particularly those with industry-specific requirements.
-Our work is driven by the need to effectively manage and process large volumes
-of short text documents inherent in specific application domains. By leveraging
-domain-specific knowledge and expertise, our approach aims to shape factual
-data within these domains, thereby facilitating enhanced utilization and
-understanding by end-users. Central to our methodology is the integration of
-domain-specific language models with graph-oriented databases, facilitating
-seamless processing, analysis, and utilization of textual data within targeted
-domains. Our work underscores the transformative potential of the partnership
-of domain-specific language models and graph-oriented databases. This
-cooperation aims to assist researchers and engineers in metric usage,
-mitigation of latency issues, boosting explainability, enhancing debug and
-improving overall model performance. Moving forward, we envision our work as a
-guide AI engineers, providing valuable insights for the implementation of
-domain-specific language models in conjunction with graph-oriented databases,
-and additionally provide valuable experience in full-life cycle maintenance of
-this kind of products.
-
-摘要：在資料當道的時代，特定領域語言的管理和應用已成為各應用領域中的關鍵挑戰，尤其是那些具有產業特定需求的領域。我們的研究動機是有效管理和處理特定應用領域中固有的海量簡短文本文件。透過運用特定領域的知識和專業知識，我們的做法旨在形塑這些領域中的事實資料，進而促進最終使用者增強利用和理解。我們方法的核心是將特定領域的語言模型與圖形導向資料庫整合，促進目標領域中文字資料的無縫處理、分析和利用。我們的研究強調了特定領域語言模型與圖形導向資料庫合作的轉型潛力。這種合作旨在協助研究人員和工程師進行指標使用、減輕延遲問題、提升可解釋性、增強除錯，並改善整體模型效能。展望未來，我們預期我們的研究將成為人工智慧工程師的指南，提供有價值的見解，供他們將特定領域語言模型與圖形導向資料庫結合實作，並進一步提供此類產品全生命週期維護的寶貴經驗。
-
-##### **GraphRouter: A Graph-based Router for LLM Selections**
-2410.03834v1 by Tao Feng, Yanzhen Shen, Jiaxuan You
-
-The rapidly growing number and variety of Large Language Models (LLMs)
-present significant challenges in efficiently selecting the appropriate LLM for
-a given query, especially considering the trade-offs between performance and
-computational cost. Current LLM selection methods often struggle to generalize
-across new LLMs and different tasks because of their limited ability to
-leverage contextual interactions among tasks, queries, and LLMs, as well as
-their dependence on a transductive learning framework. To address these
-shortcomings, we introduce a novel inductive graph framework, named as
-GraphRouter, which fully utilizes the contextual information among tasks,
-queries, and LLMs to enhance the LLM selection process. GraphRouter constructs
-a heterogeneous graph comprising task, query, and LLM nodes, with interactions
-represented as edges, which efficiently captures the contextual information
-between the query's requirements and the LLM's capabilities. Through an
-innovative edge prediction mechanism, GraphRouter is able to predict attributes
-(the effect and cost of LLM response) of potential edges, allowing for
-optimized recommendations that adapt to both existing and newly introduced LLMs
-without requiring retraining. Comprehensive experiments across three distinct
-effect-cost weight scenarios have shown that GraphRouter substantially
-surpasses existing routers, delivering a minimum performance improvement of
-12.3%. In addition, it achieves enhanced generalization across new LLMs
-settings and supports diverse tasks with at least a 9.5% boost in effect and a
-significant reduction in computational demands. This work endeavors to apply a
-graph-based approach for the contextual and adaptive selection of LLMs,
-offering insights for real-world applications. Our codes for GraphRouter will
-soon be released at https://github.com/ulab-uiuc/GraphRouter.
-
-摘要：<paragraph>大型語言模型 (LLM) 的數量和種類快速增長，在有效地針對特定查詢選擇適當的 LLM 時會帶來重大的挑戰，特別是考慮到效能和運算成本之間的權衡。目前的 LLM 選擇方法通常難以概括到新的 LLM 和不同的任務，因為它們在利用任務、查詢和 LLM 之間的脈絡互動方面的能力有限，而且依賴於轉導學習架構。為了解決這些缺點，我們引進了一個名為 GraphRouter 的新歸納圖形架構，它充分利用任務、查詢和 LLM 之間的脈絡資訊來增強 LLM 選擇流程。GraphRouter 構建了一個異質圖形，包含任務、查詢和 LLM 節點，並將互動表示為邊緣，有效地擷取查詢需求和 LLM 能力之間的脈絡資訊。透過創新的邊緣預測機制，GraphRouter 能夠預測潛在邊緣的屬性（LLM 回應的效果和成本），允許最佳化建議，以適應現有和新推出的 LLM，而無需重新訓練。在三個不同的效果成本權重情境中進行的全面實驗顯示，GraphRouter 明顯超越現有的路由器，效能至少提升 12.3%。此外，它在新的 LLM 設定中實現了增強的概括性，並支援多樣化的任務，效果至少提升 9.5%，並大幅降低運算需求。這項工作致力於應用基於圖形的方法，以進行 LLM 的脈絡和適應性選擇，為真實世界的應用提供見解。我們的 GraphRouter 程式碼將很快在 https://github.com/ulab-uiuc/GraphRouter 發布。</paragraph>
 

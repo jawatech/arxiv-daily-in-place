@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733v1](http://arxiv.org/abs/2410.19733v1)|null|
+|**2024-10-25**|**Enhancing Resilience and Scalability in Travel Booking Systems: A Microservices Approach to Fault Tolerance, Load Balancing, and Service Discovery**|Biman Barua et.al.|[2410.19701v1](http://arxiv.org/abs/2410.19701v1)|null|
+|**2024-10-25**|**Deep learning-based identification of patients at increased risk of cancer using routine laboratory markers**|Vivek Singh et.al.|[2410.19646v1](http://arxiv.org/abs/2410.19646v1)|null|
+|**2024-10-25**|**Impact of Leakage on Data Harmonization in Machine Learning Pipelines in Class Imbalance Across Sites**|Nicolás Nieto et.al.|[2410.19643v1](http://arxiv.org/abs/2410.19643v1)|null|
+|**2024-10-24**|**Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**|Mohit Chandra et.al.|[2410.19155v1](http://arxiv.org/abs/2410.19155v1)|null|
 |**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|[link](https://github.com/mbzuai-oryx/CAMEL-Bench)|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
 |**2024-10-24**|**Demystifying Large Language Models for Medicine: A Primer**|Qiao Jin et.al.|[2410.18856v1](http://arxiv.org/abs/2410.18856v1)|[link](https://github.com/ncbi-nlp/llm-medicine-primer)|
@@ -30,6 +35,7 @@
 |**2024-10-22**|**Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective**|Xiaolan Chen et.al.|[2410.16662v1](http://arxiv.org/abs/2410.16662v1)|null|
 |**2024-10-21**|**How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?**|Kenza Benkirane et.al.|[2410.16574v1](http://arxiv.org/abs/2410.16574v1)|null|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543v1](http://arxiv.org/abs/2410.16543v1)|null|
+|**2024-10-21**|**Teach Multimodal LLMs to Comprehend Electrocardiographic Images**|Ruoqi Liu et.al.|[2410.19008v1](http://arxiv.org/abs/2410.19008v1)|null|
 |**2024-10-21**|**R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation**|Yongheng Sun et.al.|[2410.18135v1](http://arxiv.org/abs/2410.18135v1)|[link](https://github.com/YonghengSun1997/R2Gen-Mamba)|
 |**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v2](http://arxiv.org/abs/2410.16239v2)|[link](https://github.com/svthapa/more)|
 |**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221v1](http://arxiv.org/abs/2410.16221v1)|[link](https://github.com/preceptorai-org/nllb_cs_em_nlp2024)|
@@ -96,14 +102,129 @@
 |**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|[link](https://github.com/tlabarta/helpfulnessofxai)|
 |**2024-10-14**|**Advancing Newborn Care: Precise Birth Time Detection Using AI-Driven Thermal Imaging with Adaptive Normalization**|Jorge García-Torres et.al.|[2410.10483v1](http://arxiv.org/abs/2410.10483v1)|[link](https://github.com/jtorres258/image-based-tob)|
 |**2024-10-14**|**Affinity-Graph-Guided Contractive Learning for Pretext-Free Medical Image Segmentation with Minimal Annotation**|Zehua Cheng et.al.|[2410.10366v1](http://arxiv.org/abs/2410.10366v1)|null|
-|**2024-10-14**|**Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**|Hongyi Yuan et.al.|[2410.10144v1](http://arxiv.org/abs/2410.10144v1)|null|
-|**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097v1](http://arxiv.org/abs/2410.10097v1)|null|
-|**2024-10-13**|**IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery**|Agasthya Gangavarapu et.al.|[2410.12868v1](http://arxiv.org/abs/2410.12868v1)|[link](https://github.com/uheal/imas)|
-|**2024-10-13**|**Adaptive Reasoning and Acting in Medical Language Agents**|Abhishek Dutta et.al.|[2410.10020v1](http://arxiv.org/abs/2410.10020v1)|null|
-|**2024-10-13**|**Improving 3D Few-Shot Segmentation with Inference-Time Pseudo-Labeling**|Mohammad Mozafari et.al.|[2410.09967v1](http://arxiv.org/abs/2410.09967v1)|null|
-|**2024-10-13**|**Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**|Pengfei Jin et.al.|[2410.09908v1](http://arxiv.org/abs/2410.09908v1)|null|
 
 #### Abstracts
+##### **The Potential and Value of AI Chatbot in Personalized Cognitive Training**
+2410.19733v1 by Zilong Wang, Nan Chen, Luna K. Qiu, Ling Yue, Geli Guo, Yang Ou, Shiqi Jiang, Yuqing Yang, Lili Qiu
+
+In recent years, the rapid aging of the global population has led to an
+increase in cognitive disorders, such as Alzheimer's disease, presenting
+significant public health challenges. Although no effective treatments
+currently exist to reverse Alzheimer's, prevention and early intervention,
+including cognitive training, are critical. This report explores the potential
+of AI chatbots in enhancing personalized cognitive training. We introduce ReMe,
+a web-based framework designed to create AI chatbots that facilitate cognitive
+training research, specifically targeting episodic memory tasks derived from
+personal life logs. By leveraging large language models, ReMe provides enhanced
+user-friendly, interactive, and personalized training experiences. Case studies
+demonstrate ReMe's effectiveness in engaging users through life recall and
+open-ended language puzzles, highlighting its potential to improve cognitive
+training design. Despite promising results, further research is needed to
+validate training effectiveness through large-scale studies that include
+cognitive ability evaluations. Overall, ReMe offers a promising approach to
+personalized cognitive training, utilizing AI capabilities to meet the growing
+demand for non-pharmacological interventions in cognitive health, with future
+research aiming to expand its applications and efficacy.
+
+摘要：近年来，全球人口快速老龄化，导致阿尔茨海默病等认知障碍症患者数量增加，给公共卫生带来了重大挑战。尽管目前还没有有效的治疗方法可以逆转阿尔茨海默病，但预防和早期干预（包括认知训练）至关重要。本报告探讨了人工智能聊天机器人增强个性化认知训练的潜力。我们介绍了 ReMe，这是一个基于网络的框架，旨在创建人工智能聊天机器人，促进认知训练研究，特别是针对源自个人生活日志的情景记忆任务。通过利用大型语言模型，ReMe 提供了增强型用户友好、互动且个性化的训练体验。案例研究展示了 ReMe 通过生活回忆和开放式语言谜题吸引用户的有效性，突出了它在改善认知训练设计方面的潜力。尽管结果很有希望，但仍需要进一步的研究，通过包括认知能力评估的大规模研究来验证训练的有效性。总体而言，ReMe 为个性化认知训练提供了一种有前景的方法，利用人工智能功能来满足对认知健康中非药物干预措施不断增长的需求，未来的研究旨在扩展其应用和疗效。
+
+##### **Enhancing Resilience and Scalability in Travel Booking Systems: A Microservices Approach to Fault Tolerance, Load Balancing, and Service Discovery**
+2410.19701v1 by Biman Barua, M. Shamim Kaiser
+
+This paper investigates the inclusion of microservices architecture in the
+development of scalable and reliable airline reservation systems. Most of the
+traditional reservation systems are very rigid and centralized which makes them
+prone to bottlenecks and a single point of failure. As such, systems do not
+meet the requirements of modern airlines which are dynamic. Microservices offer
+better resiliency and scalability because the services do not depend on one
+another and can be deployed independently. The approach is grounded on the
+Circuit Breaker Pattern to maintain fault tolerance while consuming foreign
+resources such as flight APIs and payment systems. This avoided the failure
+propagation to the systems by 60% enabling the systems to function under
+external failures. Traffic rerouting also bolstered this with a guarantee of
+above 99.95% uptime in systems where high availability was demanded. To address
+this, load balancing was used, particularly the Round-Robin method which
+managed to enhance performance by 35% through the equal distribution of user
+requests among the service instances. Health checks, as well as monitoring in
+real-time, helped as well with failure management as they helped to contain
+failures before the users of the system were affected. The results suggest that
+the use of microservices led to a 40% increase in system scalability, a 50%
+decrease in downtime and a support for 30% more concurrent users than the use
+of monolithic architectures. These findings affirm the capability of
+microservices in the development of robust and flexible airline ticket booking
+systems that are responsive to change and recover from external system
+unavailability.
+
+摘要：<paragraph>本文研究了在可擴展且可靠的航空公司訂位系統開發中納入微服務架構。大多數傳統的訂位系統非常僵化且集中化，這使得它們容易出現瓶頸和單點故障。因此，系統無法滿足動態的現代航空公司的需求。微服務提供了更好的復原力和可擴展性，因為這些服務彼此獨立，且可以獨立部署。此方法以斷路器模式為基礎，以在使用外部資源（例如航班 API 和支付系統）時維持容錯能力。這將故障傳播到系統的機率降低了 60%，使系統能夠在外部故障下運作。流量重新路由也加強了這一點，保證了在要求高可用性的系統中達到 99.95% 以上的正常運行時間。為了解決這個問題，使用了負載平衡，特別是循環方法，透過在服務實例之間平均分配使用者要求，將效能提升了 35%。健康檢查以及即時監控也有助於故障管理，因為它們有助於在系統使用者受到影響之前控制故障。結果表明，使用微服務使系統可擴展性提高了 40%，停機時間減少了 50%，並且比使用單體架構支援多 30% 的並發使用者。這些發現肯定了微服務在開發健壯且靈活的機票訂購系統中的能力，這些系統對變更具有反應能力，並且可以從外部系統不可用中復原。</paragraph>
+
+##### **Deep learning-based identification of patients at increased risk of cancer using routine laboratory markers**
+2410.19646v1 by Vivek Singh, Shikha Chaganti, Matthias Siebert, Soumya Rajesh, Andrei Puiu, Raj Gopalan, Jamie Gramz, Dorin Comaniciu, Ali Kamen
+
+Early screening for cancer has proven to improve the survival rate and spare
+patients from intensive and costly treatments due to late diagnosis. Cancer
+screening in the healthy population involves an initial risk stratification
+step to determine the screening method and frequency, primarily to optimize
+resource allocation by targeting screening towards individuals who draw most
+benefit. For most screening programs, age and clinical risk factors such as
+family history are part of the initial risk stratification algorithm. In this
+paper, we focus on developing a blood marker-based risk stratification
+approach, which could be used to identify patients with elevated cancer risk to
+be encouraged for taking a diagnostic test or participate in a screening
+program. We demonstrate that the combination of simple, widely available blood
+tests, such as complete blood count and complete metabolic panel, could
+potentially be used to identify patients at risk for colorectal, liver, and
+lung cancers with areas under the ROC curve of 0.76, 0.85, 0.78, respectively.
+Furthermore, we hypothesize that such an approach could not only be used as
+pre-screening risk assessment for individuals but also as population health
+management tool, for example to better interrogate the cancer risk in certain
+sub-populations.
+
+摘要：癌症的早期篩檢已被證實可以提高存活率，並讓患者免於因診斷過晚而接受密集且昂貴的治療。健康人群的癌症篩檢包括一個初始風險分層步驟，以確定篩檢方法和頻率，主要是透過針對最能受益的個人進行篩檢來最佳化資源分配。對於大多數篩檢計畫，年齡和臨床風險因子（例如家族史）是初始風險分層演算法的一部分。在本文中，我們專注於開發一種基於血液標記的風險分層方法，可用於識別癌症風險升高的患者，以鼓勵他們進行診斷測試或參與篩檢計畫。我們證明了簡單、廣泛使用的血液檢測（例如全血球計數和完整代謝 panel）的組合，有可能用於識別罹患大腸癌、肝癌和肺癌風險的患者，其 ROC 曲線下的面積分別為 0.76、0.85、0.78。此外，我們假設這種方法不僅可用於個人的篩檢前風險評估，還可用於人口健康管理工具，例如更深入地詢問某些亞群中的癌症風險。
+
+##### **Impact of Leakage on Data Harmonization in Machine Learning Pipelines in Class Imbalance Across Sites**
+2410.19643v1 by Nicolás Nieto, Simon B. Eickhoff, Christian Jung, Martin Reuter, Kersten Diers, Malte Kelm, Artur Lichtenberg, Federico Raimondo, Kaustubh R. Patil
+
+Machine learning (ML) models benefit from large datasets. Collecting data in
+biomedical domains is costly and challenging, hence, combining datasets has
+become a common practice. However, datasets obtained under different conditions
+could present undesired site-specific variability. Data harmonization methods
+aim to remove site-specific variance while retaining biologically relevant
+information. This study evaluates the effectiveness of popularly used
+ComBat-based methods for harmonizing data in scenarios where the class balance
+is not equal across sites. We find that these methods struggle with data
+leakage issues. To overcome this problem, we propose a novel approach
+PrettYharmonize, designed to harmonize data by pretending the target labels. We
+validate our approach using controlled datasets designed to benchmark the
+utility of harmonization. Finally, using real-world MRI and clinical data, we
+compare leakage-prone methods with PrettYharmonize and show that it achieves
+comparable performance while avoiding data leakage, particularly in
+site-target-dependence scenarios.
+
+摘要：機器學習 (ML) 模型受益於大型資料集。在生物醫學領域中收集資料既昂貴又具有挑戰性，因此，合併資料集已成為一種常見的做法。然而，在不同條件下獲得的資料集可能會出現不希望的特定於場域的可變性。資料調和方法旨在消除特定於場域的差異，同時保留生物學相關資訊。本研究評估了在類別平衡在不同場域中不均衡的情況下，廣泛使用的基於 ComBat 的方法調和資料的有效性。我們發現這些方法在資料外洩問題上遇到困難。為了克服這個問題，我們提出了一種新穎的方法 PrettYharmonize，旨在透過假裝目標標籤來調和資料。我們使用旨在基準化調和效用的受控資料集來驗證我們的做法。最後，使用真實世界的 MRI 和臨床資料，我們將容易洩漏的方法與 PrettYharmonize 進行比較，並證明它在避免資料洩漏的同時實現了可比較的效能，特別是在場域目標依賴的情況下。
+
+##### **Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**
+2410.19155v1 by Mohit Chandra, Siddharth Sriraman, Gaurav Verma, Harneet Singh Khanuja, Jose Suarez Campayo, Zihang Li, Michael L. Birnbaum, Munmun De Choudhury
+
+Adverse Drug Reactions (ADRs) from psychiatric medications are the leading
+cause of hospitalizations among mental health patients. With healthcare systems
+and online communities facing limitations in resolving ADR-related issues,
+Large Language Models (LLMs) have the potential to fill this gap. Despite the
+increasing capabilities of LLMs, past research has not explored their
+capabilities in detecting ADRs related to psychiatric medications or in
+providing effective harm reduction strategies. To address this, we introduce
+the Psych-ADR benchmark and the Adverse Drug Reaction Response Assessment
+(ADRA) framework to systematically evaluate LLM performance in detecting ADR
+expressions and delivering expert-aligned mitigation strategies. Our analyses
+show that LLMs struggle with understanding the nuances of ADRs and
+differentiating between types of ADRs. While LLMs align with experts in terms
+of expressed emotions and tone of the text, their responses are more complex,
+harder to read, and only 70.86% aligned with expert strategies. Furthermore,
+they provide less actionable advice by a margin of 12.32% on average. Our work
+provides a comprehensive benchmark and evaluation framework for assessing LLMs
+in strategy-driven tasks within high-risk domains.
+
+摘要：精神科藥物的藥物不良反應 (ADR) 是精神健康患者住院的主要原因。由於醫療保健系統和線上社群在解決 ADR 相關問題上存在限制，大型語言模型 (LLM) 有可能填補這項缺口。儘管 LLM 的功能越來越強大，但過去的研究尚未探討其在檢測與精神科藥物相關的 ADR 或提供有效的減害策略方面的能力。為了解決這個問題，我們引入了 Psych-ADR 基準和藥物不良反應反應評估 (ADRA) 架構，以系統性地評估 LLM 在檢測 ADR 表達和提供專家一致的緩解策略方面的表現。我們的分析顯示，LLM 在理解 ADR 的細微差別和區分不同類型的 ADR 方面有困難。雖然 LLM 在表達的情緒和文字語氣方面與專家一致，但他們的反應更複雜、更難閱讀，而且只有 70.86% 與專家策略一致。此外，他們提供的可操作建議平均減少了 12.32%。我們的研究提供了一個全面的基準和評估架構，用於評估 LLM 在高風險領域中的策略驅動任務。
+
 ##### **CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**
 2410.18976v1 by Sara Ghaboura, Ahmed Heakl, Omkar Thawakar, Ali Alharthi, Ines Riahi, Abduljalil Saif, Jorma Laaksonen, Fahad S. Khan, Salman Khan, Rao M. Anwer
 
@@ -777,6 +898,31 @@ approach provides a scalable and efficient solution to data-labeling
 challenges.
 
 摘要：本研究推出了一種由 LLM 提供支援的新型多代理人集成方法，以應對機器學習中的一項關鍵挑戰 - 資料標記，特別是在大規模 EHR 資料集中。此類資料集的手動標記需要領域專業知識，且勞動力密集、耗時、昂貴且容易出錯。為了克服這個瓶頸，我們開發了一種集成 LLM 方法，並在兩個實際任務中證明了其有效性：(1) 標記 MIMIC-IV 中一個大規模未標記的 ECG 資料集；(2) 從 EHR 的臨床註記中識別健康的社會決定因素 (SDOH)。在權衡收益和成本後，我們選擇了一組具有令人滿意效能的多元開放原始碼 LLM。我們將每個 LLM 的預測視為一票，並應用多數決機制，並設定最低獲勝門檻進行集成。我們實作了一個集成 LLM 應用程式，用於 EHR 資料標記任務。透過使用集成 LLM 和自然語言處理，我們標記了 MIMIC-IV ECG 資料集，其中包含 623,566 份 ECG 報告，預估準確度為 98.2%。我們應用集成 LLM 方法從 1,405 份 EHR 臨床註記的社會病史部分識別 SDOH，也獲得了具有競爭力的效能。我們的實驗顯示，集成 LLM 可以優於個別 LLM，即使是最好的商業 LLM，而且此方法減少了幻覺錯誤。從研究中，我們發現 (1) 集成 LLM 方法大幅減少標記大規模 EHR 資料所需的時間和精力，以高準確度和品質自動化此程序；(2) 此方法可以很好地概括到其他文字資料標記任務，如其在 SDOH 識別中的應用所示；(3) 一組多元 LLM 的集成可以優於或達到最佳個別 LLM 的效能；以及 (4) 集成方法大幅減少了幻覺錯誤。此方法為資料標記挑戰提供了可擴充且有效率的解決方案。
+
+##### **Teach Multimodal LLMs to Comprehend Electrocardiographic Images**
+2410.19008v1 by Ruoqi Liu, Yuelin Bai, Xiang Yue, Ping Zhang
+
+The electrocardiogram (ECG) is an essential non-invasive diagnostic tool for
+assessing cardiac conditions. Existing automatic interpretation methods suffer
+from limited generalizability, focusing on a narrow range of cardiac
+conditions, and typically depend on raw physiological signals, which may not be
+readily available in resource-limited settings where only printed or digital
+ECG images are accessible. Recent advancements in multimodal large language
+models (MLLMs) present promising opportunities for addressing these challenges.
+However, the application of MLLMs to ECG image interpretation remains
+challenging due to the lack of instruction tuning datasets and well-established
+ECG image benchmarks for quantitative evaluation. To address these challenges,
+we introduce ECGInstruct, a comprehensive ECG image instruction tuning dataset
+of over one million samples, covering a wide range of ECG-related tasks from
+diverse data sources. Using ECGInstruct, we develop PULSE, an MLLM tailored for
+ECG image comprehension. In addition, we curate ECGBench, a new evaluation
+benchmark covering four key ECG image interpretation tasks across nine
+different datasets. Our experiments show that PULSE sets a new
+state-of-the-art, outperforming general MLLMs with an average accuracy
+improvement of 15% to 30%. This work highlights the potential of PULSE to
+enhance ECG interpretation in clinical practice.
+
+摘要：心電圖 (ECG) 是一種評估心臟狀況的基本非侵入式診斷工具。現有的自動解讀方法普遍性有限，專注於狹窄的心臟狀況範圍，且通常依賴原始生理訊號，這在僅能取得印刷或數位 ECG 影像的資源有限的環境中可能無法輕易取得。多模態大型語言模型 (MLLM) 的最新進展為了解決這些挑戰提供了絕佳的機會。然而，由於缺乏指令調整資料集和完善的 ECG 影像基準，將 MLLM 應用於 ECG 影像解讀仍然具有挑戰性。為了應對這些挑戰，我們引入了 ECGInstruct，這是一個全面的 ECG 影像指令調整資料集，包含超過一百萬個樣本，涵蓋來自不同資料來源的各種 ECG 相關任務。使用 ECGInstruct，我們開發了 PULSE，一種專為 ECG 影像理解量身打造的 MLLM。此外，我們策劃了 ECGBench，這是一個新的評估基準，涵蓋九個不同資料集中的四項關鍵 ECG 影像解讀任務。我們的實驗顯示，PULSE 創下了新的技術水準，優於一般 MLLM，平均準確度提升了 15% 至 30%。這項工作突顯了 PULSE 在臨床實務中增強 ECG 解讀的潛力。
 
 ##### **R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation**
 2410.18135v1 by Yongheng Sun, Yueh Z. Lee, Genevieve A. Woodard, Hongtu Zhu, Chunfeng Lian, Mingxia Liu
@@ -2452,151 +2598,4 @@ and achieving an improvement of 26.57% on the notably arduous CRAG and ACDC
 datasets.
 
 摘要：半监督学习 (SemiSL) 和对比学习 (CL) 的结合已成功用于医疗图像分割，且标注有限。然而，这些工作通常依赖于缺乏像素级分割所需特异性的借口任务，并且由于标注太少导致监督信号不足，仍然面临过度拟合问题。因此，本文通过在学生网络和教师网络之间建立基于亲和图的附加监督信号，提出了一种亲和图引导的半监督对比学习框架 (Semi-AGCL)，以在没有借口的情况下实现医疗图像分割，且标注最少。该框架首先设计了一种平均补丁熵驱动的补丁间采样方法，该方法可以在不依赖借口任务的情况下提供鲁棒的初始特征空间。此外，该框架设计了一个亲和图引导的损失函数，该函数可以通过利用数据的固有结构来提高学习表示和模型泛化能力，从而减轻过度拟合。我们的实验表明，我们的模型仅使用 10% 的完整标注集，就接近了完全标注基准的准确度，仅有 2.52% 的边际偏差。在仅使用 5% 标注的严格条件下，我们的模型在性能上表现出显着提升，在骰子指标上比第二好的基准高出 23.09%，并在非常艰巨的 CRAG 和 ACDC 数据集上提高了 26.57%。
-
-##### **Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**
-2410.10144v1 by Hongyi Yuan, Suqi Liu, Kelly Cho, Katherine Liao, Alexandre Pereira, Tianxi Cai
-
-We introduce GENomic Encoding REpresentation with Language Model (GENEREL), a
-framework designed to bridge genetic and biomedical knowledge bases. What sets
-GENEREL apart is its ability to fine-tune language models to infuse biological
-knowledge behind clinical concepts such as diseases and medications. This
-fine-tuning enables the model to capture complex biomedical relationships more
-effectively, enriching the understanding of how genomic data connects to
-clinical outcomes. By constructing a unified embedding space for biomedical
-concepts and a wide range of common SNPs from sources such as patient-level
-data, biomedical knowledge graphs, and GWAS summaries, GENEREL aligns the
-embeddings of SNPs and clinical concepts through multi-task contrastive
-learning. This allows the model to adapt to diverse natural language
-representations of biomedical concepts while bypassing the limitations of
-traditional code mapping systems across different data sources. Our experiments
-demonstrate GENEREL's ability to effectively capture the nuanced relationships
-between SNPs and clinical concepts. GENEREL also emerges to discern the degree
-of relatedness, potentially allowing for a more refined identification of
-concepts. This pioneering approach in constructing a unified embedding system
-for both SNPs and biomedical concepts enhances the potential for data
-integration and discovery in biomedical research.
-
-摘要：<paragraph>我們介紹 GENomic Encoding REpresentation with Language Model (GENEREL)，一個旨在橋接遺傳和生物醫學知識庫的框架。GENEREL 的獨特之處在於它微調語言模型，以灌輸疾病和藥物等臨床概念背後的生物知識。這種微調使模型能夠更有效地捕捉複雜的生物醫學關係，豐富對基因組數據如何連接臨床結果的理解。通過構建一個統一的生物醫學概念嵌入空間和來自患者級別數據、生物醫學知識圖譜和 GWAS 總結等來源的廣泛常見 SNP，GENEREL 通過多任務對比學習對齊 SNP 和臨床概念的嵌入。這允許模型適應生物醫學概念的多元自然語言表示，同時繞過不同數據源中傳統代碼映射系統的限制。我們的實驗證明了 GENEREL 有效捕捉 SNP 和臨床概念之間細微關係的能力。GENEREL 也出現了辨別相關程度，潛在地允許更精確地識別概念。這種構建 SNP 和生物醫學概念統一嵌入系統的先驅方法增強了生物醫學研究中數據整合和發現的潛力。</paragraph>
-
-##### **REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**
-2410.10097v1 by Zhiyun Song, Yinjie Zhao, Xiaomin Li, Manman Fei, Xiangyu Zhao, Mengjun Liu, Cunjian Chen, Chung-Hsing Yeh, Qian Wang, Guoyan Zheng, Songtao Ai, Lichi Zhang
-
-High-resolution (HR) 3D magnetic resonance imaging (MRI) can provide detailed
-anatomical structural information, enabling precise segmentation of regions of
-interest for various medical image analysis tasks. Due to the high demands of
-acquisition device, collection of HR images with their annotations is always
-impractical in clinical scenarios. Consequently, segmentation results based on
-low-resolution (LR) images with large slice thickness are often unsatisfactory
-for subsequent tasks. In this paper, we propose a novel Resource-Efficient
-High-Resolution Segmentation framework (REHRSeg) to address the above-mentioned
-challenges in real-world applications, which can achieve HR segmentation while
-only employing the LR images as input. REHRSeg is designed to leverage
-self-supervised super-resolution (self-SR) to provide pseudo supervision,
-therefore the relatively easier-to-acquire LR annotated images generated by 2D
-scanning protocols can be directly used for model training. The main
-contribution to ensure the effectiveness in self-SR for enhancing segmentation
-is three-fold: (1) We mitigate the data scarcity problem in the medical field
-by using pseudo-data for training the segmentation model. (2) We design an
-uncertainty-aware super-resolution (UASR) head in self-SR to raise the
-awareness of segmentation uncertainty as commonly appeared on the ROI
-boundaries. (3) We align the spatial features for self-SR and segmentation
-through structural knowledge distillation to enable a better capture of region
-correlations. Experimental results demonstrate that REHRSeg achieves
-high-quality HR segmentation without intensive supervision, while also
-significantly improving the baseline performance for LR segmentation.
-
-摘要：高解析度 (HR) 3D 磁共振造影 (MRI) 可提供詳細的解剖結構資訊，能針對各種醫學影像分析任務精確分割感興趣的區域。由於取得設備要求高，在臨床場景中總是難以收集帶有註解的 HR 影像。因此，基於切片厚度大的低解析度 (LR) 影像的分割結果往往無法令人滿意，無法用於後續任務。在本文中，我們提出了一個新穎的資源有效高解析度分割架構 (REHRSeg)，以解決實際應用中上述挑戰，該架構僅使用 LR 影像作為輸入就能實現 HR 分割。REHRSeg 被設計為利用自監督超解析度 (self-SR) 來提供偽監督，因此可以直接使用 2D 掃描協議產生的相對容易取得的 LR 註解影像來進行模型訓練。確保自監督超解析度 (self-SR) 在增強分割中有效性的主要貢獻有三點：(1) 我們透過使用偽資料來訓練分割模型，以緩解醫療領域中的資料稀少問題。(2) 我們在自監督超解析度 (self-SR) 中設計了一個不確定性感知超解析度 (UASR) 頭，以提高對分割不確定性的感知，這種不確定性通常出現在感興趣區域 (ROI) 邊界上。(3) 我們透過結構知識蒸餾將自監督超解析度 (self-SR) 和分割的空間特徵對齊，以更好地捕捉區域關聯性。實驗結果表明，REHRSeg 在沒有密集監督的情況下實現了高品質的 HR 分割，同時也顯著提高了 LR 分割的基準效能。
-
-##### **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery**
-2410.12868v1 by Agasthya Gangavarapu, Ananya Gangavarapu
-
-Since the onset of COVID-19, rural communities worldwide have faced
-significant challenges in accessing healthcare due to the migration of
-experienced medical professionals to urban centers. Semi-trained caregivers,
-such as Community Health Workers (CHWs) and Registered Medical Practitioners
-(RMPs), have stepped in to fill this gap, but often lack formal training. This
-paper proposes an advanced agentic medical assistant system designed to improve
-healthcare delivery in rural areas by utilizing Large Language Models (LLMs)
-and agentic approaches. The system is composed of five crucial components:
-translation, medical complexity assessment, expert network integration, final
-medical advice generation, and response simplification. Our innovative
-framework ensures context-sensitive, adaptive, and reliable medical assistance,
-capable of clinical triaging, diagnostics, and identifying cases requiring
-specialist intervention. The system is designed to handle cultural nuances and
-varying literacy levels, providing clear and actionable medical advice in local
-languages. Evaluation results using the MedQA, PubMedQA, and JAMA datasets
-demonstrate that this integrated approach significantly enhances the
-effectiveness of rural healthcare workers, making healthcare more accessible
-and understandable for underserved populations. All code and supplemental
-materials associated with the paper and IMAS are available at
-https://github.com/uheal/imas.
-
-摘要：自 COVID-19 疫情爆发以来，全球农村社区在获得医疗保健方面面临重大挑战，原因是经验丰富的医疗专业人员纷纷迁往城市中心。半训练有素的照护者，例如社区卫生工作者 (CHW) 和注册医疗从业者 (RMP)，已经介入填补这一空白，但往往缺乏正式培训。本文提出了一种先进的代理医疗助理系统，旨在通过利用大型语言模型 (LLM) 和代理方法来改善农村地区的医疗保健服务。该系统由五个关键组件组成：翻译、医疗复杂性评估、专家网络集成、最终医疗建议生成和响应简化。我们创新的框架确保了情境敏感、适应性和可靠的医疗援助，能够进行临床分诊、诊断和识别需要专家干预的病例。该系统旨在处理文化差异和不同的识字水平，用当地语言提供清晰且可操作的医疗建议。使用 MedQA、PubMedQA 和 JAMA 数据集进行的评估结果表明，这种综合方法显着提高了农村医疗保健工作者的有效性，使医疗保健服务对服务不足的人群来说更易于获得和理解。与论文和 IMAS 相关的所有代码和补充材料均可在 https://github.com/uheal/imas 获得。
-
-##### **Adaptive Reasoning and Acting in Medical Language Agents**
-2410.10020v1 by Abhishek Dutta, Yen-Che Hsiao
-
-This paper presents an innovative large language model (LLM) agent framework
-for enhancing diagnostic accuracy in simulated clinical environments using the
-AgentClinic benchmark. The proposed automatic correction enables doctor agents
-to iteratively refine their reasoning and actions following incorrect
-diagnoses, fostering improved decision-making over time. Experiments show that
-the implementation of the adaptive LLM-based doctor agents achieve correct
-diagnoses through dynamic interactions with simulated patients. The evaluations
-highlight the capacity of autonomous agents to adapt and improve in complex
-medical scenarios. Future enhancements will focus on refining the algorithm and
-expanding its applicability across a wider range of tasks and different large
-language models.
-
-摘要：本文提出了一個創新的大型語言模型 (LLM) 代理架構，用於使用 AgentClinic 基準提高模擬臨床環境中的診斷準確度。建議的自動校正使醫生代理能夠在不正確的診斷後反覆調整其推理和行動，從而隨著時間的推移促進改善決策。實驗表明，基於自適應 LLM 的醫生代理的實施通過與模擬患者的動態互動實現了正確的診斷。評估強調了自主代理在複雜醫療場景中適應和改進的能力。未來的改進將重點放在調整算法和擴展其在更廣泛的任務和不同的大型語言模型中的適用性上。
-
-##### **Improving 3D Few-Shot Segmentation with Inference-Time Pseudo-Labeling**
-2410.09967v1 by Mohammad Mozafari, Hosein Hasani, Reza Vahidimajd, Mohamadreza Fereydooni, Mahdieh Soleymani Baghshah
-
-In recent years, few-shot segmentation (FSS) models have emerged as a
-promising approach in medical imaging analysis, offering remarkable
-adaptability to segment novel classes with limited annotated data. Existing
-approaches to few-shot segmentation have often overlooked the potential of the
-query itself, failing to fully utilize the valuable information it contains.
-However, treating the query as unlabeled data provides an opportunity to
-enhance prediction accuracy. Specifically in the domain of medical imaging, the
-volumetric structure of queries offers a considerable source of valuable
-information that can be used to improve the target slice segmentation. In this
-work, we present a novel strategy to efficiently leverage the intrinsic
-information of the query sample for final segmentation during inference. First,
-we use the support slices from a reference volume to generate an initial
-segmentation score for the query slices through a prototypical approach.
-Subsequently, we apply a confidence-aware pseudo-labeling procedure to transfer
-the most informative parts of query slices to the support set. The final
-prediction is performed based on the new expanded support set, enabling the
-prediction of a more accurate segmentation mask for the query volume. Extensive
-experiments show that the proposed method can effectively boost performance
-across diverse settings and datasets.
-
-摘要：近年來，小樣本分割 (FSS) 模型已成為醫學影像分析中一種前景看好的方法，它為使用有限標註資料分割新類別提供了顯著的適應性。現有的小樣本分割方法通常忽略了查詢本身的潛力，未能充分利用其中包含的寶貴資訊。然而，將查詢視為未標註資料提供了增強預測精確度的機會。特別是在醫學影像領域，查詢的體積結構提供了大量的寶貴資訊來源，可用於改善目標切片分割。在這項研究中，我們提出了一種新策略，在推論期間有效利用查詢樣本的內在資訊進行最終分割。首先，我們使用參考體積中的支援切片，透過原型化方法為查詢切片產生初始分割分數。隨後，我們應用一個具備識別能力的偽標籤程序，將查詢切片中最具資訊性的部分轉移到支援集中。最終預測是根據新的擴充支援集進行的，這使得能夠為查詢體積預測出更準確的分割遮罩。廣泛的實驗表明，所提出的方法可以在不同的設定和資料集上有效提升效能。
-
-##### **Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**
-2410.09908v1 by Pengfei Jin, Peng Shu, Sekeun Kim, Qing Xiao, Sifan Song, Cheng Chen, Tianming Liu, Xiang Li, Quanzheng Li
-
-Foundation models have become a cornerstone in deep learning, with techniques
-like Low-Rank Adaptation (LoRA) offering efficient fine-tuning of large models.
-Similarly, methods such as Retrieval-Augmented Generation (RAG), which leverage
-vectorized databases, have further improved model performance by grounding
-outputs in external information. While these approaches have demonstrated
-notable success, they often require extensive training or labeled data, which
-can limit their adaptability in resource-constrained environments. To address
-these challenges, we introduce Retrieval-based Parameter Ensemble (RPE), a new
-method that creates a vectorized database of LoRAs, enabling efficient
-retrieval and application of model adaptations to new tasks. RPE minimizes the
-need for extensive training and eliminates the requirement for labeled data,
-making it particularly effective for zero-shot learning. Additionally, RPE is
-well-suited for privacy-sensitive domains like healthcare, as it modifies model
-parameters without accessing raw data. When applied to tasks such as medical
-report generation and image segmentation, RPE not only proved effective but
-also surpassed supervised fine-tuning methods in certain cases, highlighting
-its potential to enhance both computational efficiency and privacy in deep
-learning applications.
-
-摘要：基礎模型已成為深度學習的基石，其中低秩適應 (LoRA) 等技術提供大型模型的有效微調。
-類似地，利用向量化資料庫的檢索擴充生成 (RAG) 等方法，透過在外部資訊中建立輸出，進一步改善模型效能。雖然這些方法已展現顯著的成功，但它們通常需要大量的訓練或標記資料，這可能會限制它們在資源受限環境中的適應性。為了應對這些挑戰，我們引進基於檢索的參數集合 (RPE)，一種建立 LoRA 向量化資料庫的新方法，能有效地檢索和將模型改編應用於新任務。RPE 將大量訓練的需求降至最低，並消除了對標記資料的需求，使其在零次學習中特別有效。此外，RPE 非常適合醫療保健等注重隱私的領域，因為它修改模型參數而不會存取原始資料。當應用於醫療報告生成和影像分割等任務時，RPE 不僅被證明有效，在某些情況下還超越了有監督的微調方法，突顯出它在深度學習應用中提升運算效率和隱私的潛力。
 

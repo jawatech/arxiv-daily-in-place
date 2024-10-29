@@ -88,6 +88,7 @@
 |**2023-12-18**|**Robust Stochastic Graph Generator for Counterfactual Explanations**|Mario Alfonso Prado-Romero et.al.|[2312.11747v2](http://arxiv.org/abs/2312.11747v2)|null|
 |**2023-12-10**|**Evaluating the Utility of Model Explanations for Model Development**|Shawn Im et.al.|[2312.06032v1](http://arxiv.org/abs/2312.06032v1)|null|
 |**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798v1](http://arxiv.org/abs/2312.06798v1)|null|
+|**2023-12-04**|**Class-Discriminative Attention Maps for Vision Transformers**|Lennart Brocki et.al.|[2312.02364v3](http://arxiv.org/abs/2312.02364v3)|null|
 |**2023-11-28**|**Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**|Jacob R. Epifano et.al.|[2311.17133v1](http://arxiv.org/abs/2311.17133v1)|null|
 |**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719v1](http://arxiv.org/abs/2311.15719v1)|[link](https://github.com/benkeel/vae_lung_lesion_bmvc)|
 |**2023-11-24**|**MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**|Nathan Blake et.al.|[2311.14471v1](http://arxiv.org/abs/2311.14471v1)|null|
@@ -101,7 +102,6 @@
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
 |**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
 |**2023-09-19**|**QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**|Thanveer Shaik et.al.|[2309.10293v3](http://arxiv.org/abs/2309.10293v3)|null|
-|**2023-09-18**|**Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**|Adarsa Sivaprasad et.al.|[2309.09917v1](http://arxiv.org/abs/2309.09917v1)|null|
 
 #### Abstracts
 ##### **An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**
@@ -2345,6 +2345,34 @@ associated with LLMs.
 
 摘要：可解釋性和安全性建立信任。這些需要一個模型來展示一致性和可靠性。為了實現這些，有必要使用和分析數據和知識，並使用與 AI 應用相關的統計和符號 AI 方法 - 單獨使用任何一種方法都不會奏效。因此，我們主張並試圖證明 NeuroSymbolic AI 方法更適合於使 AI 成為受信任的 AI 系統。我們提出了 CREST 框架，展示了一致性、可靠性、使用者層級的可解釋性和安全性是如何建立在 NeuroSymbolic 方法上的，該方法使用數據和知識來支持關鍵應用（例如健康和福祉）的要求。本文重點關注大型語言模型 (LLM)，因為它是 CREST 框架中選擇的 AI 系統。LLM 因其在處理廣泛的自然語言處理 (NLP) 場景方面的多功能性而備受研究人員的關注。例如，ChatGPT 和 Google 的 MedPaLM 已成為提供一般和健康相關查詢信息的極有希望的平台。儘管如此，這些模型仍然是黑盒子，儘管納入了人類反饋和指令引導的調整。例如，儘管制定了安全防護措施，ChatGPT 仍可能產生不安全的回應。CREST 提出了一種合理的方法，在 NeuroSymbolic 框架中利用程序和基於圖表的知識，以闡明與 LLM 相關的挑戰。
 
+##### **Class-Discriminative Attention Maps for Vision Transformers**
+2312.02364v3 by Lennart Brocki, Jakub Binda, Neo Christopher Chung
+
+Importance estimators are explainability methods that quantify feature
+importance for deep neural networks (DNN). In vision transformers (ViT), the
+self-attention mechanism naturally leads to attention maps, which are sometimes
+interpreted as importance scores that indicate which input features ViT models
+are focusing on. However, attention maps do not account for signals from
+downstream tasks. To generate explanations that are sensitive to downstream
+tasks, we have developed class-discriminative attention maps (CDAM), a
+gradient-based extension that estimates feature importance with respect to a
+known class or a latent concept. CDAM scales attention scores by how relevant
+the corresponding tokens are for the predictions of a classifier head. In
+addition to targeting the supervised classifier, CDAM can explain an arbitrary
+concept shared by selected samples by measuring similarity in the latent space
+of ViT. Additionally, we introduce Smooth CDAM and Integrated CDAM, which
+average a series of CDAMs with slightly altered tokens. Our quantitative
+benchmarks include correctness, compactness, and class sensitivity, in
+comparison to 7 other importance estimators. Vanilla, Smooth, and Integrated
+CDAM excel across all three benchmarks. In particular, our results suggest that
+existing importance estimators may not provide sufficient class-sensitivity. We
+demonstrate the utility of CDAM in medical images by training and explaining
+malignancy and biomarker prediction models based on lung Computed Tomography
+(CT) scans. Overall, CDAM is shown to be highly class-discriminative and
+semantically relevant, while providing compact explanations.
+
+摘要：<paragraph>重要性估計器是一種可解釋性方法，用於量化深度神經網路 (DNN) 的特徵重要性。在視覺Transformer (ViT) 中，自我注意機制自然會導致注意力圖，有時會將其解釋為重要性分數，表示 ViT 模型關注哪些輸入特徵。然而，注意力圖並未考慮來自下游任務的信號。為了產生對下游任務敏感的解釋，我們開發了類別區分注意力圖 (CDAM)，這是一種基於梯度的擴充，用於估計相對於已知類別或潛在概念的特徵重要性。CDAM 根據對應的符號與分類器頭的預測相關程度，調整注意力分數。除了針對監督分類器外，CDAM 還可以通過測量 ViT 的潛在空間中的相似性來解釋選定樣本共有的任意概念。此外，我們引入了平滑 CDAM 和積分 CDAM，它們對一系列具有略微改變的符號的 CDAM 進行平均。我們的量化基準包括正確性、緊湊性和類別敏感性，與其他 7 個重要性估計器相比。香草、平滑和積分 CDAM 在所有三個基準中表現出色。特別是，我們的結果表明現有的重要性估計器可能無法提供足夠的類別敏感性。我們通過基於肺部電腦斷層掃描 (CT) 掃描訓練和解釋惡性腫瘤和生物標記預測模型，證明了 CDAM 在醫學影像中的效用。總的來說，CDAM 被證明具有高度類別區分性和語義相關性，同時提供簡潔的解釋。</paragraph>
+
 ##### **Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**
 2311.17133v1 by Jacob R. Epifano, Stephen Glass, Ravi P. Ramachandran, Sharad Patel, Aaron J. Masino, Ghulam Rasool
 
@@ -2675,27 +2703,4 @@ complexity and high computation power requirements required for Shapley value
 calculations.
 
 摘要：人工智慧技術可用於分類病患的身體活動並預測遠距病患監控的重要生命徵象。基於深度學習模型等非線性模型的回歸分析由於其黑盒子的性質而具有有限的可解釋性。這可能需要決策者根據非線性模型結果做出盲目的信仰飛躍，特別是在醫療保健應用中。在非侵入性監控中，來自追蹤感測器和其易感臨床屬性的病患資料充當預測未來生命徵象的輸入特徵。解釋各種特徵對監控應用程式整體輸出的貢獻對於臨床醫生的決策至關重要。在本研究中，提出了一個用於量化分析的可解釋人工智慧 (QXAI) 架構，該架構具有監督式學習方法中回歸和分類任務的事後模型可解釋性和內在可解釋性。這透過利用 Shapley 值概念並將注意力機制納入深度學習模型來實現。我們採用人工神經網路 (ANN) 和基於注意力的雙向 LSTM (BiLSTM) 模型，根據感測器資料預測心率和分類身體活動。深度學習模型在預測和分類任務中都取得了最先進的成果。對輸入資料進行全局解釋和局部解釋，以了解各種病患資料的特徵貢獻。所提出的 QXAI 架構使用 PPG-DaLiA 資料評估，以預測心率，並使用行動健康 (MHEALTH) 資料根據感測器資料對身體活動進行分類。蒙地卡羅近似法應用於該架構，以克服 Shapley 值計算所需的時間複雜度和高運算能力需求。
-
-##### **Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**
-2309.09917v1 by Adarsa Sivaprasad, Ehud Reiter, Nava Tintarev, Nir Oren
-
-In explainable artificial intelligence (XAI) research, the predominant focus
-has been on interpreting models for experts and practitioners. Model agnostic
-and local explanation approaches are deemed interpretable and sufficient in
-many applications. However, in domains like healthcare, where end users are
-patients without AI or domain expertise, there is an urgent need for model
-explanations that are more comprehensible and instil trust in the model's
-operations. We hypothesise that generating model explanations that are
-narrative, patient-specific and global(holistic of the model) would enable
-better understandability and enable decision-making. We test this using a
-decision tree model to generate both local and global explanations for patients
-identified as having a high risk of coronary heart disease. These explanations
-are presented to non-expert users. We find a strong individual preference for a
-specific type of explanation. The majority of participants prefer global
-explanations, while a smaller group prefers local explanations. A task based
-evaluation of mental models of these participants provide valuable feedback to
-enhance narrative global explanations. This, in turn, guides the design of
-health informatics systems that are both trustworthy and actionable.
-
-摘要：在可解释人工智能 (XAI) 研究中，主要重点在于为专家和从业者解释模型。模型不可知和局部解释方法在许多应用中被认为是可解释且足够的。然而，在医疗保健等领域，最终用户是缺乏人工智能或领域专业知识的患者，因此迫切需要更易于理解且能激发对模型操作的信任的模型解释。我们假设生成叙述性、患者特定且全局（模型整体）的模型解释将能够提高可理解性并支持决策制定。我们使用决策树模型对此进行测试，为被识别为患有冠心病高风险的患者生成局部和全局解释。这些解释会呈现给非专家用户。我们发现用户强烈偏好特定类型的解释。大多数参与者偏好全局解释，而较小的一组参与者偏好局部解释。基于任务的心理模型评估为这些参与者提供了有价值的反馈，以增强叙述性全局解释。这反过来又指导了既值得信赖又可操作的健康信息学系统的设计。
 

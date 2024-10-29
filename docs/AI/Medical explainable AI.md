@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
 |**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
 |**2024-10-19**|**Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**|Gesa Mittmann et.al.|[2410.15012v1](http://arxiv.org/abs/2410.15012v1)|null|
@@ -81,7 +82,7 @@
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127v1](http://arxiv.org/abs/2402.05127v1)|null|
-|**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v5](http://arxiv.org/abs/2401.13324v5)|null|
+|**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v6](http://arxiv.org/abs/2401.13324v6)|null|
 |**2024-01-02**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari et.al.|[2401.02985v1](http://arxiv.org/abs/2401.02985v1)|null|
 |**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|[link](https://github.com/lixingqiao/xai-icu)|
 |**2023-12-22**|**Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**|Norman Zerbe et.al.|[2401.09450v2](http://arxiv.org/abs/2401.09450v2)|null|
@@ -101,9 +102,36 @@
 |**2023-09-26**|**Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**|Muhammad Aurangzeb Ahmad et.al.|[2311.01463v1](http://arxiv.org/abs/2311.01463v1)|null|
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
 |**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
-|**2023-09-19**|**QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**|Thanveer Shaik et.al.|[2309.10293v3](http://arxiv.org/abs/2309.10293v3)|null|
 
 #### Abstracts
+##### **A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**
+2410.19898v1 by Muath Alsuhaibani, Ali Pourramezan Fard, Jian Sun, Farida Far Poor, Peter S. Pressman, Mohammad H. Mahoor
+
+This review paper explores recent advances in deep learning approaches for
+non-invasive cognitive impairment detection. We examine various non-invasive
+indicators of cognitive decline, including speech and language, facial, and
+motoric mobility. The paper provides an overview of relevant datasets,
+feature-extracting techniques, and deep-learning architectures applied to this
+domain. We have analyzed the performance of different methods across modalities
+and observed that speech and language-based methods generally achieved the
+highest detection performance. Studies combining acoustic and linguistic
+features tended to outperform those using a single modality. Facial analysis
+methods showed promise for visual modalities but were less extensively studied.
+Most papers focused on binary classification (impaired vs. non-impaired), with
+fewer addressing multi-class or regression tasks. Transfer learning and
+pre-trained language models emerged as popular and effective techniques,
+especially for linguistic analysis. Despite significant progress, several
+challenges remain, including data standardization and accessibility, model
+explainability, longitudinal analysis limitations, and clinical adaptation.
+Lastly, we propose future research directions, such as investigating
+language-agnostic speech analysis methods, developing multi-modal diagnostic
+systems, and addressing ethical considerations in AI-assisted healthcare. By
+synthesizing current trends and identifying key obstacles, this review aims to
+guide further development of deep learning-based cognitive impairment detection
+systems to improve early diagnosis and ultimately patient outcomes.
+
+摘要：本篇評論探討了深度學習方法在非侵入式認知功能障礙檢測上的最新進展。我們檢視了各種非侵入式的認知衰退指標，包括語言和語言、面部和運動機能。本文概述了與此領域相關的資料集、特徵提取技術和深度學習架構。我們分析了不同方法在不同方式上的表現，並觀察到基於語言和語言的方法通常能達到最高的檢測表現。結合聲學和語言特徵的研究往往優於使用單一方式的研究。面部分析方法顯示出視覺方式的潛力，但研究較少。大多數論文專注於二元分類（受損與未受損），較少探討多類或回歸任務。遷移學習和預訓練語言模型已成為流行且有效的技術，特別是對於語言分析。儘管取得了重大進展，但仍存在一些挑戰，包括資料標準化和可及性、模型可解釋性、縱向分析限制和臨床適應性。最後，我們提出了未來的研究方向，例如調查與語言無關的語音分析方法、開發多模式診斷系統，以及解決人工智慧輔助醫療保健中的倫理考量。透過綜合目前的趨勢和找出關鍵障礙，本篇評論旨在引導深度學習為基礎的認知功能障礙檢測系統的進一步發展，以改善早期診斷，並最終改善患者的治療結果。
+
 ##### **An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**
 2410.17504v1 by Shruthi Chari
 
@@ -2158,7 +2186,7 @@ diagnosis and treatment strategies.
 摘要：本文介紹了一種使用先進大型語言模型 (LLM) 進行憂鬱症偵測和治療的新模式：生成式預訓練Transformer 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，具備專業提示，可診斷、解釋並建議憂鬱症的治療介入方法。一種獨特的少次提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型會參與同理心對話管理，從 PsychDB 和認知行為療法 (CBT) 指南等資源中汲取，促進與經歷重度憂鬱症的人們的支持性互動。此外，這項研究還介紹了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個性化治療建議。這項研究使用 F1 分數、準確率、召回率、餘弦相似度和面向召回率的 Gisting 評估替身 (ROUGE) 等指標，在不同的測試集中評估 LLM 的表現，證明了它們的有效性。這種綜合方法結合了尖端的 AI 與既定的心理方法，為心理保健提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
 
 ##### **Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**
-2401.13324v5 by Timothée Schmude, Laura Koesten, Torsten Möller, Sebastian Tschiatschek
+2401.13324v6 by Timothée Schmude, Laura Koesten, Torsten Möller, Sebastian Tschiatschek
 
 Every AI system that makes decisions about people has a group of stakeholders
 that are personally affected by these decisions. However, explanations of AI
@@ -2185,7 +2213,18 @@ explainability efforts by highlighting their information needs, aims, and
 challenges. We summarize our findings as five key implications that can inform
 the design of future explanations for lay stakeholder audiences.
 
-摘要：<paragraph>每個對人進行決策的 AI 系統都有一群個人受到這些決策影響的利益關係人。然而，AI 系統的說明很少針對這群利益關係人的資訊需求，他們通常是 AI 新手。這在傳達的資訊和對受系統決策影響的人來說重要的資訊之間，造成了一道鴻溝，例如領域專家和決策主體。為了解決這個問題，我們提出了「XAI 新手問題庫」，這是 XAI 問題庫的延伸，包含來自兩個使用案例中 AI 新手的資訊需求目錄：就業預測和健康監控。目錄涵蓋了資料、系統背景、系統使用和系統規格等類別。我們透過任務型訪談收集資訊需求，參與者在其中詢問了兩個 AI 系統的問題，以決定採用與否，並收到口頭說明作為回應。我們的分析顯示，參與者在收到說明後，信心有所提升，但他們的理解面臨挑戰。這些挑戰包括難以找到資訊和評估自己的理解，以及試圖外包理解。此外，參與者對系統風險和好處的先前認知影響了他們的資訊需求。認為風險高的人尋求有關系統部署背後意圖的說明，而認為風險低的人則詢問系統的運作。我們的研究旨在透過強調他們的資訊需求、目標和挑戰，來支持將 AI 新手納入可解釋性工作。我們將我們的研究結果總結為五個關鍵影響，這些影響可以為未來針對非專業利益相關者受眾的說明設計提供參考。</paragraph>
+摘要：<paragraph>每個對人做出決定的 AI 系統都有一群利害關係人
+受到這些決定的親身影響。然而，AI
+系統的解釋很少能滿足這群利害關係人的資訊需求，而他們
+通常都是 AI 新手。這造成了傳達資訊與
+受到系統決策影響的人士（例如領域專家和決策主體）重視的資訊之間的落差。為了解決這個問題，我們提出了
+「XAI 新手問題庫」，它是 XAI 問題庫的延伸，包含來自 AI 新手在兩個使用案例中的資訊需求目錄：就業
+預測和健康監測。目錄涵蓋了資料、
+系統背景、系統使用和系統規格等類別。我們透過任務型訪談收集資訊需求，參與者在訪談中詢問了兩個 AI 系統的問題，以決定是否採用它們，並收到口頭
+解釋作為回應。我們的分析顯示，參與者在收到解釋後信心有所提升，但他們的理解卻面臨挑戰。這些挑戰包括難以找到資訊和評估自己的理解，以及試圖外包
+理解。此外，參與者對系統風險和好處的先前回饋影響了他們的資訊需求。認為風險高的參與者尋求解釋系統部署背後的意圖，而認為風險低的人則詢問系統的
+操作。我們的研究旨在透過強調 AI 新手的資訊需求、目標和
+挑戰，來支持將 AI 新手納入可解釋性工作中。我們將我們的研究結果總結為五個關鍵啟示，這些啟示可以為未來針對非專業利害關係人受眾的解釋設計提供參考。</paragraph>
 
 ##### **Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**
 2401.02985v1 by Vahid Ashrafimoghari, Necdet Gürkan, Jordan W. Suchow
@@ -2672,35 +2711,4 @@ to benefit patients in compliance with the future EU regulatory framework.
 摘要：歐洲議會議會研究服務總局已為歐洲議會議員準備了一份報告，其中列舉了人工智能 (AI) 在醫療保健領域的七項主要風險：AI 錯誤導致患者受到傷害、醫療 AI 工具被濫用、AI 存在偏見並導致現有 inequities 持續存在、缺乏透明度、隱私和安全問題、問責差距以及實施障礙。
   在這項研究中，我們提出了十四項功能性要求，AI 系統可以實施這些要求來降低與其醫療目的相關的風險：AI 護照、使用者管理、法規檢查、僅限學術用途免責聲明、資料品質評估、臨床醫生雙重檢查、持續效能評估、稽核追蹤、持續可用性測試、回顧回溯/模擬案例、偏見檢查、可解釋 AI、加密和使用經過實地測試的程式庫，以及語意互通性。
   我們在此的目的是提供技術解決方案的特定高階規格，以確保持續良好的效能，並使用 AI 系統，以符合未來的歐盟法規架構，從而使患者受益。
-
-##### **QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems**
-2309.10293v3 by Thanveer Shaik, Xiaohui Tao, Haoran Xie, Lin Li, Juan D. Velasquez, Niall Higgins
-
-Artificial Intelligence techniques can be used to classify a patient's
-physical activities and predict vital signs for remote patient monitoring.
-Regression analysis based on non-linear models like deep learning models has
-limited explainability due to its black-box nature. This can require
-decision-makers to make blind leaps of faith based on non-linear model results,
-especially in healthcare applications. In non-invasive monitoring, patient data
-from tracking sensors and their predisposing clinical attributes act as input
-features for predicting future vital signs. Explaining the contributions of
-various features to the overall output of the monitoring application is
-critical for a clinician's decision-making. In this study, an Explainable AI
-for Quantitative analysis (QXAI) framework is proposed with post-hoc model
-explainability and intrinsic explainability for regression and classification
-tasks in a supervised learning approach. This was achieved by utilizing the
-Shapley values concept and incorporating attention mechanisms in deep learning
-models. We adopted the artificial neural networks (ANN) and attention-based
-Bidirectional LSTM (BiLSTM) models for the prediction of heart rate and
-classification of physical activities based on sensor data. The deep learning
-models achieved state-of-the-art results in both prediction and classification
-tasks. Global explanation and local explanation were conducted on input data to
-understand the feature contribution of various patient data. The proposed QXAI
-framework was evaluated using PPG-DaLiA data to predict heart rate and mobile
-health (MHEALTH) data to classify physical activities based on sensor data.
-Monte Carlo approximation was applied to the framework to overcome the time
-complexity and high computation power requirements required for Shapley value
-calculations.
-
-摘要：人工智慧技術可用於分類病患的身體活動並預測遠距病患監控的重要生命徵象。基於深度學習模型等非線性模型的回歸分析由於其黑盒子的性質而具有有限的可解釋性。這可能需要決策者根據非線性模型結果做出盲目的信仰飛躍，特別是在醫療保健應用中。在非侵入性監控中，來自追蹤感測器和其易感臨床屬性的病患資料充當預測未來生命徵象的輸入特徵。解釋各種特徵對監控應用程式整體輸出的貢獻對於臨床醫生的決策至關重要。在本研究中，提出了一個用於量化分析的可解釋人工智慧 (QXAI) 架構，該架構具有監督式學習方法中回歸和分類任務的事後模型可解釋性和內在可解釋性。這透過利用 Shapley 值概念並將注意力機制納入深度學習模型來實現。我們採用人工神經網路 (ANN) 和基於注意力的雙向 LSTM (BiLSTM) 模型，根據感測器資料預測心率和分類身體活動。深度學習模型在預測和分類任務中都取得了最先進的成果。對輸入資料進行全局解釋和局部解釋，以了解各種病患資料的特徵貢獻。所提出的 QXAI 架構使用 PPG-DaLiA 資料評估，以預測心率，並使用行動健康 (MHEALTH) 資料根據感測器資料對身體活動進行分類。蒙地卡羅近似法應用於該架構，以克服 Shapley 值計算所需的時間複雜度和高運算能力需求。
 

@@ -74,7 +74,7 @@
 |**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201v1](http://arxiv.org/abs/2410.11201v1)|null|
 |**2024-10-14**|**Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs**|Haozhen Zhang et.al.|[2410.11001v1](http://arxiv.org/abs/2410.11001v1)|[link](https://github.com/ulab-uiuc/gor)|
 |**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743v1](http://arxiv.org/abs/2410.10743v1)|null|
-|**2024-10-14**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329v2](http://arxiv.org/abs/2410.10329v2)|[link](https://github.com/zhuyun97/graphclip)|
+|**2024-10-14**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329v3](http://arxiv.org/abs/2410.10329v3)|[link](https://github.com/zhuyun97/graphclip)|
 |**2024-10-14**|**Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**|Hongyi Yuan et.al.|[2410.10144v1](http://arxiv.org/abs/2410.10144v1)|null|
 |**2024-10-14**|**Language Model Preference Evaluation with Multiple Weak Evaluators**|Zhengyu Hu et.al.|[2410.12869v1](http://arxiv.org/abs/2410.12869v1)|null|
 |**2024-10-14**|**Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?**|Yifan Feng et.al.|[2410.10083v2](http://arxiv.org/abs/2410.10083v2)|[link](https://github.com/imoonlab/llm4hypergraph)|
@@ -1938,7 +1938,7 @@ graph-related tasks.
 在本文中，我們介紹了大型語言模型節點標記器 (NT-LLM)，這是一個新穎的框架，它透過選擇關鍵節點作為錨點，並根據每個節點與這些錨點的相對距離來表示每個節點，從而有效地編碼圖形結構。這種基於位置的錨點編碼有效地擷取了圖形拓撲，讓 LLM 能夠對圖形資料進行增強的推理。此外，我們實作了一個特定於任務的調整程序，以進一步改善 LLM 中的結構理解。透過廣泛的實證評估，NT-LLM 在各種與圖形相關的任務中都展示出顯著的效能提升。
 
 ##### **GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**
-2410.10329v2 by Yun Zhu, Haizhou Shi, Xiaotang Wang, Yongchao Liu, Yaoke Wang, Boci Peng, Chuntao Hong, Siliang Tang
+2410.10329v3 by Yun Zhu, Haizhou Shi, Xiaotang Wang, Yongchao Liu, Yaoke Wang, Boci Peng, Chuntao Hong, Siliang Tang
 
 Recently, research on Text-Attributed Graphs (TAGs) has gained significant
 attention due to the prevalence of free-text node features in real-world
@@ -1962,8 +1962,7 @@ zero-shot and few-shot settings, while evaluations across various downstream
 tasks confirm the versatility of GraphCLIP. Our code is available at:
 https://github.com/ZhuYun97/GraphCLIP
 
-摘要：最近，文本属性图（TAG）的研究由于现实世界应用中自由文本节点特征的普遍性以及支持 TAG 方法的大语言模型（LLM）的进步而备受关注。然而，当前的 TAG 方法面临两大主要挑战：(i) 对标签信息的严重依赖，以及 (ii) 跨域零/小样本可迁移性的受限。由于高昂的人力成本和规模化定律，这些问题限制了数据和模型规模的扩展，使得具有强大可迁移性的图基础模型的开发变得复杂。在这项工作中，我们提出了 GraphCLIP 框架，通过自监督对比图摘要预训练方法来学习具有强大跨域零/小样本可迁移性的图基础模型，以应对这些挑战。具体来说，我们借助 LLM 生成并整理了大规模图摘要对数据，并引入了一种新颖的图摘要预训练方法，结合不变性学习，以增强具有强大跨域零样本可迁移性的图基础模型。对于小样本学习，我们提出了一种新颖的图提示调整技术，该技术与我们的预训练目标一致，以减轻灾难性遗忘并最大程度地降低学习成本。大量的实验表明，GraphCLIP 在零样本和小样本设置中都具有优越性，同时对各种下游任务的评估证实了 GraphCLIP 的多功能性。我们的代码可在以下位置获得：
-https://github.com/ZhuYun97/GraphCLIP
+摘要：<paragraph>最近，文本属性图 (TAG) 的研究因现实世界应用程序中普遍存在的自由文本节点特征和增强 TAG 方法论的大型语言模型 (LLM) 的进步而备受关注。然而，当前的 TAG 方法面临两项主要挑战：(i) 对标签信息的严重依赖，以及 (ii) 跨领域零次/少次迁移能力有限。由于高昂的人工成本和规模化定律，这些问题限制了数据和模型规模的扩展，从而使具有强大迁移能力的图基础模型的开发变得复杂。在这项工作中，我们提出了 GraphCLIP 框架，通过自监督对比图摘要预训练方法来解决这些挑战，学习具有强大跨领域零次/少次迁移能力的图基础模型。具体来说，我们在 LLM 的帮助下生成和整理了大规模图摘要对数据，并引入了一种新颖的图摘要预训练方法，结合不变式学习，以增强具有强大跨领域零次迁移能力的图基础模型。对于少次学习，我们提出了一种新颖的图提示调整技术，与我们的预训练目标保持一致，以减轻灾难性遗忘并最大程度地降低学习成本。大量的实验表明，GraphCLIP 在零次和少次设置中都具有优越性，而对各种下游任务的评估证实了 GraphCLIP 的多功能性。我们的代码可在以下位置获得：https://github.com/ZhuYun97/GraphCLIP</paragraph>
 
 ##### **Unified Representation of Genomic and Biomedical Concepts through Multi-Task, Multi-Source Contrastive Learning**
 2410.10144v1 by Hongyi Yuan, Suqi Liu, Kelly Cho, Katherine Liao, Alexandre Pereira, Tianxi Cai

@@ -7,7 +7,7 @@
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271v1](http://arxiv.org/abs/2410.21271v1)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264v1](http://arxiv.org/abs/2410.21264v1)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262v1](http://arxiv.org/abs/2410.21262v1)|[link](https://github.com/changwoolee/blast)|
-|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259v1](http://arxiv.org/abs/2410.21259v1)|null|
+|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259v2](http://arxiv.org/abs/2410.21259v2)|null|
 |**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256v1](http://arxiv.org/abs/2410.21256v1)|null|
 |**2024-10-28**|**Are BabyLMs Second Language Learners?**|Lukas Edman et.al.|[2410.21254v1](http://arxiv.org/abs/2410.21254v1)|null|
 |**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252v1](http://arxiv.org/abs/2410.21252v1)|null|
@@ -21,7 +21,7 @@
 |**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200v1](http://arxiv.org/abs/2410.21200v1)|null|
 |**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195v1](http://arxiv.org/abs/2410.21195v1)|null|
 |**2024-10-28**|**Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks**|Jiawei Zhang et.al.|[2410.21175v1](http://arxiv.org/abs/2410.21175v1)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169v1](http://arxiv.org/abs/2410.21169v1)|null|
+|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169v2](http://arxiv.org/abs/2410.21169v2)|null|
 |**2024-10-28**|**CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants**|Lize Alberts et.al.|[2410.21159v1](http://arxiv.org/abs/2410.21159v1)|null|
 |**2024-10-28**|**M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation**|Jiaheng Liu et.al.|[2410.21157v1](http://arxiv.org/abs/2410.21157v1)|null|
 |**2024-10-28**|**SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents**|Qi Zhang et.al.|[2410.21155v1](http://arxiv.org/abs/2410.21155v1)|null|
@@ -37,7 +37,7 @@
 |**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[2410.21086v1](http://arxiv.org/abs/2410.21086v1)|null|
 |**2024-10-28**|**Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring**|Honglin Mu et.al.|[2410.21083v1](http://arxiv.org/abs/2410.21083v1)|null|
 |**2024-10-28**|**Skip2-LoRA: A Lightweight On-device DNN Fine-tuning Method for Low-cost Edge Devices**|Hiroki Matsutani et.al.|[2410.21073v1](http://arxiv.org/abs/2410.21073v1)|null|
-|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069v1](http://arxiv.org/abs/2410.21069v1)|null|
+|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069v2](http://arxiv.org/abs/2410.21069v2)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067v1](http://arxiv.org/abs/2410.21067v1)|null|
 |**2024-10-28**|**Learning to Handle Complex Constraints for Vehicle Routing Problems**|Jieyi Bi et.al.|[2410.21066v1](http://arxiv.org/abs/2410.21066v1)|[link](https://github.com/jieyibi/pip-constraint)|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061v1](http://arxiv.org/abs/2410.21061v1)|null|
@@ -53,14 +53,14 @@
 |**2024-10-28**|**FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval**|Jinlin Wang et.al.|[2410.21012v1](http://arxiv.org/abs/2410.21012v1)|null|
 |**2024-10-28**|**Is GPT-4 Less Politically Biased than GPT-3.5? A Renewed Investigation of ChatGPT's Political Biases**|Erik Weber et.al.|[2410.21008v1](http://arxiv.org/abs/2410.21008v1)|null|
 |**2024-10-28**|**Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**|Zhilin Zhang et.al.|[2410.21000v1](http://arxiv.org/abs/2410.21000v1)|null|
-|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v1](http://arxiv.org/abs/2410.20981v1)|null|
+|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v2](http://arxiv.org/abs/2410.20981v2)|null|
 |**2024-10-28**|**Geo-FuB: A Method for Constructing an Operator-Function Knowledge Base for Geospatial Code Generation Tasks Using Large Language Models**|Shuyang Hou et.al.|[2410.20975v1](http://arxiv.org/abs/2410.20975v1)|[link](https://github.com/whuhsy/geo-fub)|
 |**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971v1](http://arxiv.org/abs/2410.20971v1)|null|
 |**2024-10-28**|**Improving Detection of Person Class Using Dense Pooling**|Nouman Ahmad et.al.|[2410.20966v1](http://arxiv.org/abs/2410.20966v1)|[link](https://github.com/noumanahmad448/improving_detection_of_person_using_dense_pooling)|
 |**2024-10-28**|**DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning**|Xun Guo et.al.|[2410.20964v1](http://arxiv.org/abs/2410.20964v1)|null|
 |**2024-10-28**|**Neuro-symbolic Learning Yielding Logical Constraints**|Zenan Li et.al.|[2410.20957v1](http://arxiv.org/abs/2410.20957v1)|[link](https://github.com/lizn-zn/nesy-programming)|
 |**2024-10-28**|**Active Legibility in Multiagent Reinforcement Learning**|Yanyu Liu et.al.|[2410.20954v1](http://arxiv.org/abs/2410.20954v1)|null|
-|**2024-10-28**|**Instruction-Tuned LLMs Succeed in Document-Level MT Without Fine-Tuning -- But BLEU Turns a Blind Eye**|Yirong Sun et.al.|[2410.20941v1](http://arxiv.org/abs/2410.20941v1)|null|
+|**2024-10-28**|**Instruction-Tuned LLMs Succeed in Document-Level MT Without Fine-Tuning -- But BLEU Turns a Blind Eye**|Yirong Sun et.al.|[2410.20941v2](http://arxiv.org/abs/2410.20941v2)|null|
 |**2024-10-28**|**Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models**|Piotr Przybyła et.al.|[2410.20940v1](http://arxiv.org/abs/2410.20940v1)|null|
 |**2024-10-28**|**Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency**|Zenan Li et.al.|[2410.20936v1](http://arxiv.org/abs/2410.20936v1)|[link](https://github.com/miracle-messi/isa-autoformal)|
 |**2024-10-28**|**Long Sequence Modeling with Attention Tensorization: From Sequence to Tensor Learning**|Aosong Feng et.al.|[2410.20926v1](http://arxiv.org/abs/2410.20926v1)|null|
@@ -241,7 +241,7 @@ tested structured matrices. Our code is available at
 摘要：大型基礎模型在語言和視覺任務中展現出非凡的效能。然而，這些大型網路中涉及的許多密集矩陣向量運算在推論期間會造成重大的運算挑戰。為了應對這些挑戰，我們引入了區塊級自適應結構化 (BLAST) 矩陣，旨在學習和利用深度學習模型中線性層權重矩陣中普遍存在的有效結構。與現有的結構化矩陣相比，BLAST 矩陣提供了相當大的靈活性，因為它可以表示從資料中學習或從現有權重矩陣中計算出的各種結構類型。我們展示了使用 BLAST 矩陣壓縮語言和視覺任務的效率，表明 (i) 對於中型模型，例如 ViT 和 GPT-2，使用 BLAST 權重進行訓練會提升效能，同時分別降低複雜度 70% 和 40%；以及 (ii) 對於大型基礎模型，例如 Llama-7B 和 DiT-XL，BLAST 矩陣可實現 2 倍壓縮，同時在所有測試的結構化矩陣中展現出最低的效能下降。我們的程式碼可在 \url{https://github.com/changwoolee/BLAST} 取得。
 
 ##### **AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**
-2410.21259v1 by Han Bao, Yue Huang, Yanbo Wang, Jiayi Ye, Xiangqi Wang, Xiuyin Chen, Mohamed Elhoseiny, Xiangliang Zhang
+2410.21259v2 by Han Bao, Yue Huang, Yanbo Wang, Jiayi Ye, Xiangqi Wang, Xiuying Chen, Mohamed Elhoseiny, Xiangliang Zhang
 
 Large Vision-Language Models (LVLMs) have become essential for advancing the
 integration of visual and linguistic information, facilitating a wide range of
@@ -268,7 +268,7 @@ comprehensive and exhaustive evaluation. Overall, AutoBench-V not only
 successfully utilizes LVLMs for automated benchmarking but also reveals that
 LVLMs as judges have significant potential in various domains.
 
-摘要：大型視覺語言模型 (LVLMs) 已成為推進視覺和語言資訊整合的必要元素，促進了各種複雜應用程式和任務。然而，LVLMs 的評估提出了重大挑戰，因為評估基準總是需要大量人力成本才能建置，而且一旦建置完成就會保持靜態，缺乏靈活性。儘管自動評估已在文字模式中進行探討，但視覺模式仍未充分探討。因此，在這項工作中，我們探討了一個問題：「LVLMs 能否作為自動基準測試的途徑？」我們引入了 AutoBench-V，一個自動化架構，用於依需求提供評估，亦即，根據模型能力的特定面向對 LVLMs 進行基準測試。在收到評估能力後，AutoBench-V 利用文字轉影像模型產生相關的影像範例，然後利用 LVLMs 編排視覺問答 (VQA) 任務，有效率且靈活地完成評估流程。透過對七個常見 LVLMs 進行廣泛評估，涵蓋五項使用者輸入需求（亦即，評估能力），此架構展現了其有效性和可靠性。我們觀察到以下幾點：(1) 我們建構的基準測試準確反映了不同的任務難度；(2) 隨著任務難度上升，模型之間的效能差距擴大；(3) 儘管模型在抽象層級理解方面展現出強勁效能，但在細節推理任務中的表現卻不佳；(4) 建立一個具有不同難度層級的資料集對於全面且詳盡的評估至關重要。整體而言，AutoBench-V 不僅成功地利用 LVLMs 進行自動基準測試，也揭示了 LVLMs 作為評審在各個領域具有顯著的潛力。
+摘要：大型視覺語言模型 (LVLMs) 已成為推進視覺和語言資訊整合的必要工具，促進各種複雜的應用程式和任務。然而，LVLMs 的評估提出重大挑戰，因為評估基準總是需要大量人力成本來建構，一旦建構完成，就會變得靜態，缺乏彈性。儘管自動評估已在文字形式中進行探討，但視覺形式仍有待進一步探討。因此，在本文中，我們探討一個問題：「LVLMs 能否作為自動基準測試的途徑？」我們介紹 AutoBench-V，一個自動化架構，用於依需求提供評估服務，也就是根據模型功能的特定面向對 LVLMs 進行基準測試。在收到評估功能後，AutoBench-V 利用文字轉影像模型產生相關的影像範例，然後利用 LVLMs 編排視覺問答 (VQA) 任務，有效且靈活地完成評估流程。透過對七種流行的 LVLMs 進行廣泛評估，涵蓋五種使用者輸入需求（也就是評估功能），該架構展現出其有效性和可靠性。我們觀察到以下事項：(1) 我們建構的基準測試準確地反映出不同的任務難度；(2) 隨著任務難度增加，不同模型之間的效能差距也隨之擴大；(3) 儘管模型在抽象層級的理解上表現出強勁的效能，但在細節推理任務上卻表現不佳；(4) 建構一個具有不同難度層級的資料集，對於全面且詳盡的評估至關重要。整體而言，AutoBench-V 不僅成功地利用 LVLMs 進行自動基準測試，也揭示了 LVLMs 作為評審在各個領域具有顯著的潛力。
 
 ##### **Multi-modal AI for comprehensive breast cancer prognostication**
 2410.21256v1 by Jan Witowski, Ken Zeng, Joseph Cappadona, Jailan Elayoubi, Elena Diana Chiru, Nancy Chan, Young-Joon Kang, Frederick Howard, Irina Ostrovnaya, Carlos Fernandez-Granda, Freya Schnabel, Ugur Ozerdem, Kangning Liu, Zoe Steinsnyder, Nitya Thakore, Mohammad Sadic, Frank Yeung, Elisa Liu, Theodore Hill, Benjamin Swett, Danielle Rigau, Andrew Clayburn, Valerie Speirs, Marcus Vetter, Lina Sojak, Simone Muenst Soysal, Daniel Baumhoer, Khalil Choucair, Yu Zong, Lina Daoud, Anas Saad, Waleed Abdulsattar, Rafic Beydoun, Jia-Wern Pan, Haslina Makmur, Soo-Hwang Teo, Linda Ma Pak, Victor Angel, Dovile Zilenaite-Petrulaitiene, Arvydas Laurinavicius, Natalie Klar, Brian D. Piening, Carlo Bifulco, Sun-Young Jun, Jae Pak Yi, Su Hyun Lim, Adam Brufsky, Francisco J. Esteva, Lajos Pusztai, Yann LeCun, Krzysztof J. Geras
@@ -590,7 +590,7 @@ detection.
 摘要：對於結構健康監測，連續且自動的裂縫偵測一直是一個具有挑戰性的問題。本研究旨在提出一個從包含橋樑鋼箱梁裂縫資訊的高解析度影像中自動分割裂縫的架構。考量到裂縫的多尺度特徵，提出用於裂縫偵測的 Feature Pyramid Networks (FPN) 捲積神經網路架構。至於輸入，120 張原始影像透過兩種方法處理（縮小影像尺寸和將影像分割成子影像）。然後，開發具有 FPN 提議結構的裂縫偵測模型。結果顯示所有已開發的模型都能自動偵測原始影像中的裂縫。藉由縮小影像，在不降低準確度的狀況下提升運算效率。由於裂縫具有可分離的特徵，使用分割方法的模型提供比使用縮放方法的模型更準確的裂縫分割。因此，對於高解析度影像，FPN 結構結合分割方法是裂縫分割和偵測的有前途的解決方案。
 
 ##### **Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**
-2410.21169v1 by Qintong Zhang, Victor Shea-Jay Huang, Bin Wang, Junyuan Zhang, Zhengren Wang, Hao Liang, Shawn Wang, Matthieu Lin, Wentao Zhang, Conghui He
+2410.21169v2 by Qintong Zhang, Victor Shea-Jay Huang, Bin Wang, Junyuan Zhang, Zhengren Wang, Hao Liang, Shawn Wang, Matthieu Lin, Conghui He, Wentao Zhang
 
 Document parsing is essential for converting unstructured and semi-structured
 documents-such as contracts, academic papers, and invoices-into structured,
@@ -609,7 +609,7 @@ layouts, integrating multiple modules, and recognizing high-density text. It
 emphasizes the importance of developing larger and more diverse datasets and
 outlines future research directions.
 
-摘要：文件解析對於將非結構化和半結構化文件（例如合約、學術論文和發票）轉換為結構化、機器可讀取的資料至關重要。文件解析從非結構化輸入中萃取出可靠的結構化資料，為許多應用程式帶來極大的便利性。特別是隨著大型語言模型的最新進展，文件解析在知識庫建構和訓練資料產生中扮演著不可或缺的角色。這份調查提供了一份對文件解析現況的全面回顧，涵蓋了關鍵方法，從模組化管道系統到由大型視覺語言模型驅動的端到端模型。核心元件，例如版面偵測、內容萃取（包括文字、表格和數學表達式）和多模式資料整合，都得到了詳細的探討。此外，本文討論了模組化文件解析系統和視覺語言模型在處理複雜版面、整合多個模組和辨識高密度文字時所面臨的挑戰。它強調了開發更大、更多樣化的資料集的重要性，並概述了未來的研究方向。
+摘要：文件解析對於將非結構化和半結構化文件（例如合約、學術論文和發票）轉換為結構化、機器可讀取的資料至關重要。文件解析從非結構化的輸入中提取可靠的結構化資料，為許多應用程式提供了極大的便利。特別是隨著大型語言模型的最新進展，文件解析在知識庫建構和訓練資料生成中扮演著不可或缺的角色。本調查對文件解析的現況進行全面的回顧，涵蓋關鍵方法，從模組化管線系統到由大型視覺語言模型驅動的端到端模型。詳細探討了核心組成部分，例如版面偵測、內容萃取（包括文字、表格和數學表達式）和多模態資料整合。此外，本文討論了模組化文件解析系統和視覺語言模型在處理複雜版面、整合多個模組和辨識高密度文字時所面臨的挑戰。它強調了開發更大、更多樣化的資料集的重要性，並概述了未來的研究方向。
 
 ##### **CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants**
 2410.21159v1 by Lize Alberts, Benjamin Ellis, Andrei Lupu, Jakob Foerster
@@ -941,7 +941,7 @@ microcontroller board.
 摘要：本論文提出 Skip2-LoRA 作為深度神經網路的輕量級微調方法，以解決預訓練模型和已部署模型之間的差距。在我們的做法中，可訓練的 LoRA（低秩適應）適配器會插入最後一層和每一層之間，以增強網路表達能力，同時保持反向運算成本低。此架構非常適合快取前向傳遞的中間運算結果，然後隨著訓練時期的進展，可以跳過已見樣本的前向運算。我們實作了所提出的架構和快取的組合，稱為 Skip2-LoRA，並在 15 美元的單板電腦上進行測試。我們的結果顯示，與具有相同數量可訓練參數的對應項相比，Skip2-LoRA 平均減少 90.0% 的微調時間，同時保持準確性，而僅在微控制器板上花費幾秒鐘。
 
 ##### **EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**
-2410.21069v1 by Xiaoqi Ling, Cheng Cai, Zhaohong Deng, Lei Wang, Zhisheng Wei, Jing Wu
+2410.21069v2 by Xiaoqi Ling, Cheng Cai, Demin Kong, Zhisheng Wei, Jing Wu, Lei Wang, Zhaohong Deng
 
 Computational protein design (CPD) refers to the use of computational methods
 to design proteins. Traditional methods relying on energy functions and
@@ -970,7 +970,7 @@ amino acids as positive, negative, or neutral. Research findings indicate that
 EMOCPD is more suitable for designing proteins with lower contents of negative
 amino acids.
 
-摘要：計算蛋白質設計（CPD）是指使用計算方法來設計蛋白質。傳統方法依賴於能量函數和序列設計的啟發式演算法，效率低下，且無法滿足生物分子大數據時代的需求，其準確性受到能量函數和搜尋演算法的限制。現有的深度學習方法受到網路學習能力的限制，無法從稀疏蛋白質結構中提取有效資訊，這限制了蛋白質設計的準確性。為了解決這些缺點，我們開發了一種使用胺基酸微環境的有效注意力模型，用於計算蛋白質設計（EMOCPD）。它旨在透過分析胺基酸周圍的三維原子環境來預測蛋白質中每個胺基酸的類別，並根據預測的高機率潛在胺基酸類別來最佳化蛋白質。EMOCPD 採用多頭注意力機制，專注於稀疏蛋白質微環境中的重要特徵，並利用反向殘差結構來最佳化網路架構。所提出的 EMOCPD 在訓練組上達到超過 80% 的準確度，在兩個獨立的測試組上分別達到 68.33% 和 62.32% 的準確度，比最佳比較方法高出 10% 以上。在蛋白質設計中，與野生型相比，EMOCPD 預測的突變體的熱穩定性和蛋白質表現出顯著的改善，有效地驗證了 EMOCPD 在設計優良蛋白質方面的潛力。此外，EMOCPD 的預測會根據 20 種胺基酸的含量受到正面、負面影響或影響最小，將胺基酸分類為正面、負面或中性。研究結果表明，EMOCPD 更適合設計負胺基酸含量較低的蛋白質。
+摘要：計算蛋白質設計（CPD）是指使用計算方法來設計蛋白質。傳統方法依賴於能量函數和啟發式演算法進行序列設計，效率低下，且不符合生物大數據時代的需求，其準確性受到能量函數和搜尋演算法的限制。現有的深度學習方法受到網路學習能力的限制，無法從稀疏蛋白質結構中提取有效資訊，這限制了蛋白質設計的準確性。為了解決這些缺點，我們開發了一種基於胺基酸微環境的有效注意模型，用於計算蛋白質設計（EMOCPD）。其目標是透過分析胺基酸周圍的三維原子環境來預測蛋白質中每個胺基酸的類別，並根據預測的高機率潛在胺基酸類別來最佳化蛋白質。EMOCPD 採用多頭注意力機制來關注稀疏蛋白質微環境中的重要特徵，並利用逆殘差結構來最佳化網路架構。所提出的 EMOCPD 在訓練組上達到了超過 80% 的準確度，在兩個獨立的測試組上分別達到了 68.33% 和 62.32% 的準確度，比最佳比較方法高出 10% 以上。在蛋白質設計中，與野生型相比，EMOCPD 預測的突變體的熱穩定性和蛋白質表現出顯著的改善，有效驗證了 EMOCPD 在設計優質蛋白質方面的潛力。此外，EMOCPD 的預測會根據 20 種胺基酸的含量受到正面、負面影響，或影響最小，將胺基酸分類為正面、負面或中性。研究結果表明，EMOCPD 更適合設計負胺基酸含量較低的蛋白質。
 
 ##### **CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**
 2410.21067v1 by Meiqi Chen, Fandong Meng, Yingxue Zhang, Yan Zhang, Jie Zhou
@@ -1334,7 +1334,7 @@ and pathology image question answering.
 摘要：醫療視覺問答 (MedVQA) 在電腦視覺和自然語言處理的交集中獲得越來越多的關注。它能夠解讀放射影像並對臨床詢問提供精確答案的能力，使 MedVQA 成為支援醫師診斷決策和減輕放射科醫師工作負擔的寶貴工具。雖然最近的方法著重於使用統一的預先訓練大型模型進行多模式融合，例如跨模態 Transformer，但對於更有效率的融合方法的研究在此領域中仍然相對稀少。在本文中，我們介紹了一個新穎的融合模型，它整合了正交損失、多頭注意力和雙線性注意力網路 (OMniBAN)，以在不需要預先訓練的情況下實現高計算效率和強大效能。我們進行了全面的實驗，並釐清了如何增強雙線性注意力融合以實現與大型模型相當的效能。實驗結果表明，OMniBAN 在關鍵的 MedVQA 基準上優於傳統模型，同時維持較低的計算成本，這表明它在放射學和病理影像問答中具有高效臨床應用的潛力。
 
 ##### **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**
-2410.20981v1 by Xin Xiang, Wenhui Zhou, Guojun Dai
+2410.20981v2 by Xin Xiang, Wenhui Zhou, Guojun Dai
 
 EEG-based visual perception reconstruction has become a current research
 hotspot. Neuroscientific studies have shown that humans can perceive various
@@ -1351,7 +1351,7 @@ style loss, and NeRF to implicitly decode the 3D objects. Finally, through
 experimental validation, we demonstrate that our method can reconstruct 3D
 objects with color consistency using EEG.
 
-摘要：基於 EEG 的視覺感知重建已成為當前研究熱點。神經科學研究表明，人類在觀察物體時可以感知各種類型的視覺資訊，例如顏色、形狀和紋理。然而，現有的技術方法通常會面臨視覺刺激圖像和重建圖像之間的紋理、形狀和顏色不一致等問題。在本文中，我們提出了一種基於 EEG 訊號重建具有顏色一致性的 3D 物體的方法。該方法採用兩階段策略：在第一階段，我們訓練了一個具有感知 3D 物體能力的隱式神經 EEG 編碼器，使其能夠捕捉區域語義特徵；在第二階段，基於第一階段獲得的潛在 EEG 代碼，我們整合了一個擴散模型、神經風格損失和 NeRF 來隱式解碼 3D 物體。最後，通過實驗驗證，我們證明了我們的方法可以使用 EEG 重建具有顏色一致性的 3D 物體。
+摘要：基於腦電圖的視覺感知重建已成為當前研究熱點。神經科學研究表明，人類在觀察物體時，可以感知各種類型的視覺資訊，例如顏色、形狀和紋理。然而，現有的技術方法經常面臨視覺刺激圖像和重建圖像之間的紋理、形狀和顏色不一致等問題。在本文中，我們提出了一種基於腦電圖訊號重建具有顏色一致性的 3D 物體的方法。該方法採用兩階段策略：在第一階段，我們訓練一個具有感知 3D 物體能力的隱式神經腦電圖編碼器，使其能夠捕獲區域語義特徵；在第二階段，基於第一階段獲得的潛在腦電圖編碼，我們整合一個擴散模型、神經風格損失和 NeRF 來隱式解碼 3D 物體。最後，通過實驗驗證，我們證明了我們的方法可以使用腦電圖重建具有顏色一致性的 3D 物體。
 
 ##### **Geo-FuB: A Method for Constructing an Operator-Function Knowledge Base for Geospatial Code Generation Tasks Using Large Language Models**
 2410.20975v1 by Shuyang Hou, Anqi Zhao, Jianyuan Liang, Zhangxiao Shen, Huayi Wu
@@ -1497,7 +1497,7 @@ time compared to several multiagent reinforcement learning algorithms.
 摘要：在許多重要的應用程式中，例如城市交通、自動駕駛汽車、軍事行動等，都可以看到多智能體序列決策問題。其廣為人知的解決方案，即多智能體強化學習，近年來已取得長足的進步。其中，模擬其他智能體的解決方案範例引起了我們的興趣，這與傳統的價值分解或溝通機制不同。它使智能體能夠理解和預測其他智能體的行為，並促進它們的協作。受到最近關於可讀性研究的啟發，可讀性允許智能體通過其行為揭示其意圖，我們提出了一個多智能體主動可讀性框架來提高它們的性能。以可讀性為導向的框架允許智能體執行可讀的動作，以幫助他人優化其行為。此外，我們設計了一系列問題領域，模擬了一個常見的場景，並最好地表徵了多智能體強化學習中的可讀性。實驗結果表明，與幾種多智能體強化學習演算法相比，新的框架更有效率且訓練時間更短。
 
 ##### **Instruction-Tuned LLMs Succeed in Document-Level MT Without Fine-Tuning -- But BLEU Turns a Blind Eye**
-2410.20941v1 by Yirong Sun, Dawei Zhu, Yanjun Chen, Erjia Xiao, Xinghao Chen, Xiaoyu Shen
+2410.20941v2 by Yirong Sun, Dawei Zhu, Yanjun Chen, Erjia Xiao, Xinghao Chen, Xiaoyu Shen
 
 Large language models (LLMs) have excelled in various NLP tasks, including
 machine translation (MT), yet most studies focus on sentence-level translation.
@@ -1517,7 +1517,7 @@ misleading outcomes, failing to capture the quality of document-level
 translation. Code and data are available at
 https://github.com/EIT-NLP/BLEUless_DocMT
 
-摘要：大型語言模型 (LLM) 在各種自然語言處理 (NLP) 任務中表現出色，包括機器翻譯 (MT)，但大多數研究都集中在句子層級翻譯。本研究探討了指令調整 LLM 在文件層級翻譯 (docMT) 中的內在能力。與需要特殊技術的先前方法不同，我們透過直接提示 LLM 在單次傳遞中翻譯完整文件來評估 LLM。我們的結果顯示，這種方法與分別翻譯句子相比，可以提升翻譯品質，即使沒有文件層級微調。然而，此優勢並未反映在 BLEU 分數中，後者通常偏好基於句子的翻譯。我們建議使用 LLM 作為評估的評判標準，其中 GPT-4 用於以比 n-gram 基準更細緻的方式評估文件的一致性、準確性和流暢性。總體而言，我們的研究表明，指令調整 LLM 可以有效利用文件內容進行翻譯。但是，我們警告不要使用 BLEU 分數來評估 docMT，因為它們通常會提供誤導性的結果，無法捕捉文件層級翻譯的品質。程式碼和資料可在 https://github.com/EIT-NLP/BLEUless_DocMT 取得
+摘要：大型語言模型 (LLM) 已在各種自然語言處理 (NLP) 任務中表現優異，包括機器翻譯 (MT)，但大多數研究都專注於句子層級翻譯。這項研究探討了針對指令調整的 LLM 在文件層級翻譯 (docMT) 中的固有能力。與需要特殊技術的先前方法不同，我們透過直接提示 LLM 一次翻譯整個文件來評估 LLM。我們的結果顯示，與分別翻譯句子相比，此方法可提升翻譯品質，即使沒有進行文件層級微調。然而，此優勢並未反映在 BLEU 分數中，而 BLEU 分數通常偏好基於句子的翻譯。我們建議使用 LLM 作為評判的評估範例，其中 GPT-4 用於以比 n-gram 基準更細緻的方式評估文件的一致性、準確性和流暢性。整體而言，我們的研究證明了針對指令調整的 LLM 可以有效利用文件內容進行翻譯。然而，我們警告不要使用 BLEU 分數來評估 docMT，因為它們通常會提供誤導性的結果，無法掌握文件層級翻譯的品質。程式碼和資料可於 https://github.com/EIT-NLP/BLEUless_DocMT 取得
 
 ##### **Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models**
 2410.20940v1 by Piotr Przybyła

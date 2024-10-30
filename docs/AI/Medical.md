@@ -32,7 +32,7 @@
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
 |**2024-10-24**|**Demystifying Large Language Models for Medicine: A Primer**|Qiao Jin et.al.|[2410.18856v1](http://arxiv.org/abs/2410.18856v1)|[link](https://github.com/ncbi-nlp/llm-medicine-primer)|
 |**2024-10-24**|**Health Misinformation in Social Networks: A Survey of IT Approaches**|Vasiliki Papanikou et.al.|[2410.18670v1](http://arxiv.org/abs/2410.18670v1)|null|
-|**2024-10-24**|**Paved or unpaved? A Deep Learning derived Road Surface Global Dataset from Mapillary Street-View Imagery**|Sukanya Randhawa et.al.|[2410.19874v1](http://arxiv.org/abs/2410.19874v1)|null|
+|**2024-10-24**|**Paved or unpaved? A Deep Learning derived Road Surface Global Dataset from Mapillary Street-View Imagery**|Sukanya Randhawa et.al.|[2410.19874v2](http://arxiv.org/abs/2410.19874v2)|null|
 |**2024-10-24**|**Beyond Multiple-Choice Accuracy: Real-World Challenges of Implementing Large Language Models in Healthcare**|Yifan Yang et.al.|[2410.18460v1](http://arxiv.org/abs/2410.18460v1)|null|
 |**2024-10-24**|**Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet**|Bingyu Yang et.al.|[2410.18456v1](http://arxiv.org/abs/2410.18456v1)|null|
 |**2024-10-23**|**E2E-Swin-Unet++: An Enhanced End-to-End Swin-Unet Architecture With Dual Decoders For PTMC Segmentation**|Maryam Dialameh et.al.|[2410.18239v1](http://arxiv.org/abs/2410.18239v1)|null|
@@ -860,7 +860,7 @@ misinformation.
 摘要：在本文中，我們從資訊科技的角度，對社群網路中普遍存在的醫療錯誤資訊問題進行全面的調查。該調查旨在提供相關研究的系統性回顧，並幫助研究人員和從業者了解這個瞬息萬變的領域。具體來說，我們首先介紹手動和自動查核事實的方法。然後，我們探討假新聞偵測方法，使用內容、傳播特徵或來源特徵，以及對抗錯誤資訊散布的緩解方法。我們還提供了幾個關於健康錯誤資訊的資料集和公開可用的工具的詳細清單。我們以討論打擊健康錯誤資訊的公開挑戰和未來研究方向，來結束這項調查。
 
 ##### **Paved or unpaved? A Deep Learning derived Road Surface Global Dataset from Mapillary Street-View Imagery**
-2410.19874v1 by Sukanya Randhawa, Eren Aygun, Guntaj Randhawa, Benjamin Herfort, Sven Lautenbach, Alexander Zipf
+2410.19874v2 by Sukanya Randhawa, Eren Aygun, Guntaj Randhawa, Benjamin Herfort, Sven Lautenbach, Alexander Zipf
 
 We have released an open dataset with global coverage on road surface
 characteristics (paved or unpaved) derived utilising 105 million images from
@@ -872,23 +872,23 @@ images. The road surface prediction results have been matched and integrated
 with OpenStreetMap (OSM) road geometries. This study provides global data
 insights derived from maps and statistics about spatial distribution of
 Mapillary coverage and road pavedness on a continent and countries scale, with
-rural and urban distinction.This dataset expands the availability of global
+rural and urban distinction. This dataset expands the availability of global
 road surface information by over 3 million kilometers, now representing
-approximately 36% of the total length of the global road network.Most regions
+approximately 36% of the total length of the global road network. Most regions
 showed moderate to high paved road coverage (60-80%), but significant gaps were
 noted in specific areas of Africa and Asia. Urban areas tend to have
 near-complete paved coverage, while rural regions display more variability.
 Model validation against OSM surface data achieved strong performance, with F1
-scores for paved roads between 91-97% across continents.Taking forward the work
-of Mapillary and their contributors and enrichment of OSM road attributes, our
-work provides valuable insights for applications in urban planning, disaster
-routing, logistics optimisation and addresses various Sustainable Development
-Goals (SDGS): especially SDGs 1 (No poverty), 3 (Good health and well-being), 8
-(Decent work and economic growth), 9 (Industry, Innovation and Infrastructure),
-11 (Sustainable cities and communities), 12 (Responsible consumption and
-production), and 13 (Climate action).
+scores for paved roads between 91-97% across continents. Taking forward the
+work of Mapillary and their contributors and enrichment of OSM road attributes,
+our work provides valuable insights for applications in urban planning,
+disaster routing, logistics optimisation and addresses various Sustainable
+Development Goals (SDGS): especially SDGs 1 (No poverty), 3 (Good health and
+well-being), 8 (Decent work and economic growth), 9 (Industry, Innovation and
+Infrastructure), 11 (Sustainable cities and communities), 12 (Responsible
+consumption and production), and 13 (Climate action).
 
-摘要：<paragraph>我們發布了一個開放式資料集，其全球範圍涵蓋道路表面特徵（鋪設或未鋪設），利用全球最大的群眾外包街景平台 Mapillary 中的 1.05 億張影像，並運用最先進的地理空間 AI 方法。我們提出了一種混合深度學習方法，該方法結合了基於 SWIN-Transformer 的道路表面預測和基於 CLIP 和 DL 分割的閾值處理，用於過濾品質不佳的影像。道路表面預測結果已與 OpenStreetMap (OSM) 道路幾何相匹配並整合。本研究提供了從地圖和統計資料中衍生的全球資料見解，關於 Mapillary 覆蓋範圍和道路鋪設情況在洲和國家層面的空間分佈，並區分了農村和城市。此資料集將全球道路表面資訊的可用性擴展了 300 萬公里以上，現在約占全球道路網路總長度的 36%。大多數地區顯示出中等至高的鋪設道路覆蓋率（60-80%），但在非洲和亞洲的特定地區發現了顯著的差距。市區往往有接近完整的鋪設覆蓋，而農村地區則顯示出更多變異性。針對 OSM 表面資料的模型驗證取得了強勁的效能，各洲鋪設道路的 F1 分數介於 91-97% 之間。延續 Mapillary 及其貢獻者和豐富 OSM 道路屬性的工作，我們的研究為城市規劃、災害路線、物流最佳化和解決各種永續發展目標 (SDGs) 提供了有價值的見解：特別是 SDG 1（無貧窮）、3（良好健康與福祉）、8（體面工作與經濟成長）、9（產業、創新與基礎建設）、11（永續城市與社區）、12（負責任的消費與生產）和 13（氣候行動）。</paragraph>
+摘要：<paragraph>我們已發布一個開放式資料集，其全球道路表面特徵（鋪設或未鋪設）的涵蓋範圍，係利用來自全球最大的群眾外包街景平台 Mapillary 的 1.05 億張影像，並運用最先進的地理空間 AI 方法所衍生而來。我們提出了一種混合深度學習方法，結合基於 SWIN-Transformer 的道路表面預測和基於 CLIP 和 DL 分割的閾值化，以過濾品質不佳的影像。道路表面預測結果已與 OpenStreetMap (OSM) 道路幾何形狀進行比對和整合。這項研究提供從地圖和統計資料衍生的全球資料洞察，關於 Mapillary 涵蓋範圍和道路鋪設情況在洲和國家層級的空間分佈，並區分了農村和都市。此資料集將全球道路表面資訊的可用性擴增了 300 多萬公里，現在約占全球道路網路總長度的 36%。大多數地區顯示出中等至高鋪設道路涵蓋率（60-80%），但非洲和亞洲的特定區域存在顯著差距。都市地區傾向於擁有接近完整的鋪設涵蓋率，而農村地區則展現出更多變異性。針對 OSM 表面資料的模型驗證達到了強勁的效能，各洲鋪設道路的 F1 分數介於 91-97% 之間。延續 Mapillary 及其貢獻者和豐富 OSM 道路屬性的工作，我們的研究為都市規劃、災害路線、後勤最佳化等應用程式提供了寶貴的洞察，並解決了各種永續發展目標 (SDG)：特別是 SDG 1（消除貧窮）、3（良好健康和福祉）、8（體面工作和經濟成長）、9（產業、創新和基礎建設）、11（永續城市和社區）、12（負責任的消費和生產），以及 13（氣候行動）。</paragraph>
 
 ##### **Beyond Multiple-Choice Accuracy: Real-World Challenges of Implementing Large Language Models in Healthcare**
 2410.18460v1 by Yifan Yang, Qiao Jin, Qingqing Zhu, Zhizheng Wang, Francisco Erramuspe Álvarez, Nicholas Wan, Benjamin Hou, Zhiyong Lu

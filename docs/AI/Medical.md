@@ -2,12 +2,20 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**|Muhammad Bilal et.al.|[2410.22180v1](http://arxiv.org/abs/2410.22180v1)|null|
+|**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872v1](http://arxiv.org/abs/2410.21872v1)|null|
+|**2024-10-29**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676v1](http://arxiv.org/abs/2410.21676v1)|null|
+|**2024-10-29**|**A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation**|Si-Ioi Ng et.al.|[2410.21640v1](http://arxiv.org/abs/2410.21640v1)|null|
+|**2024-10-28**|**Can Large Language Models Replace Data Scientists in Clinical Research?**|Zifeng Wang et.al.|[2410.21591v1](http://arxiv.org/abs/2410.21591v1)|null|
+|**2024-10-28**|**Going Beyond H&E and Oncology: How Do Histopathology Foundation Models Perform for Multi-stain IHC and Immunology?**|Amaya Gallagher-Syed et.al.|[2410.21560v1](http://arxiv.org/abs/2410.21560v1)|[link](https://github.com/amayags/immunohistobench)|
+|**2024-10-28**|**Towards Multi-dimensional Explanation Alignment for Medical Classification**|Lijie Hu et.al.|[2410.21494v1](http://arxiv.org/abs/2410.21494v1)|null|
 |**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256v1](http://arxiv.org/abs/2410.21256v1)|null|
-|**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195v1](http://arxiv.org/abs/2410.21195v1)|null|
+|**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195v1](http://arxiv.org/abs/2410.21195v1)|[link](https://github.com/suzgunmirac/belief-in-the-machine)|
 |**2024-10-28**|**Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks**|Jiawei Zhang et.al.|[2410.21175v1](http://arxiv.org/abs/2410.21175v1)|null|
 |**2024-10-28**|**Trajectory Flow Matching with Applications to Clinical Time Series Modeling**|Xi Zhang et.al.|[2410.21154v1](http://arxiv.org/abs/2410.21154v1)|[link](https://github.com/nzhangx/trajectoryflowmatching)|
 |**2024-10-28**|**Informed Deep Abstaining Classifier: Investigating noise-robust training for diagnostic decision support systems**|Helen Schneider et.al.|[2410.21014v1](http://arxiv.org/abs/2410.21014v1)|null|
 |**2024-10-28**|**Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**|Zhilin Zhang et.al.|[2410.21000v1](http://arxiv.org/abs/2410.21000v1)|null|
+|**2024-10-28**|**Large Language Model Benchmarks in Medical Tasks**|Lawrence K. Q. Yan et.al.|[2410.21348v1](http://arxiv.org/abs/2410.21348v1)|null|
 |**2024-10-27**|**Language Models And A Second Opinion Use Case: The Pocket Professional**|David Noever et.al.|[2410.20636v1](http://arxiv.org/abs/2410.20636v1)|null|
 |**2024-10-27**|**Improving Decision Sparsity**|Yiyang Sun et.al.|[2410.20483v1](http://arxiv.org/abs/2410.20483v1)|null|
 |**2024-10-27**|**MedGo: A Chinese Medical Large Language Model**|Haitao Zhang et.al.|[2410.20428v1](http://arxiv.org/abs/2410.20428v1)|null|
@@ -94,16 +102,190 @@
 |**2024-10-17**|**Scaling Wearable Foundation Models**|Girish Narayanswamy et.al.|[2410.13638v1](http://arxiv.org/abs/2410.13638v1)|null|
 |**2024-10-17**|**MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**|Yakun Zhu et.al.|[2410.13610v1](http://arxiv.org/abs/2410.13610v1)|null|
 |**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592v1](http://arxiv.org/abs/2410.13592v1)|null|
-|**2024-10-17**|**RGB to Hyperspectral: Spectral Reconstruction for Enhanced Surgical Imaging**|Tobias Czempiel et.al.|[2410.13570v1](http://arxiv.org/abs/2410.13570v1)|null|
-|**2024-10-17**|**Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?**|Che Liu et.al.|[2410.13523v1](http://arxiv.org/abs/2410.13523v1)|null|
-|**2024-10-17**|**Representation Learning of Structured Data for Medical Foundation Models**|Vijay Prakash Dwivedi et.al.|[2410.13351v1](http://arxiv.org/abs/2410.13351v1)|null|
-|**2024-10-17**|**Active inference and deep generative modeling for cognitive ultrasound**|Ruud JG van Sloun et.al.|[2410.13310v1](http://arxiv.org/abs/2410.13310v1)|null|
-|**2024-10-17**|**Hiformer: Hybrid Frequency Feature Enhancement Inverted Transformer for Long-Term Wind Power Prediction**|Chongyang Wan et.al.|[2410.13303v1](http://arxiv.org/abs/2410.13303v1)|null|
-|**2024-10-17**|**Toward a Unified Graph-Based Representation of Medical Data for Precision Oncology Medicine**|Davide Belluomo et.al.|[2410.14739v1](http://arxiv.org/abs/2410.14739v1)|null|
-|**2024-10-17**|**CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy**|Mian Zhang et.al.|[2410.13218v1](http://arxiv.org/abs/2410.13218v1)|null|
-|**2024-10-17**|**MixEHR-Nest: Identifying Subphenotypes within Electronic Health Records through Hierarchical Guided-Topic Modeling**|Ruohan Wang et.al.|[2410.13217v1](http://arxiv.org/abs/2410.13217v1)|null|
 
 #### Abstracts
+##### **Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**
+2410.22180v1 by Muhammad Bilal, Ameer Hamza, Nadia Malik
+
+Objective: This review aims to analyze the application of natural language
+processing (NLP) techniques in cancer research using electronic health records
+(EHRs) and clinical notes. This review addresses gaps in the existing
+literature by providing a broader perspective than previous studies focused on
+specific cancer types or applications. Methods: A comprehensive literature
+search was conducted using the Scopus database, identifying 94 relevant studies
+published between 2019 and 2024. Data extraction included study
+characteristics, cancer types, NLP methodologies, dataset information,
+performance metrics, challenges, and future directions. Studies were
+categorized based on cancer types and NLP applications. Results: The results
+showed a growing trend in NLP applications for cancer research, with breast,
+lung, and colorectal cancers being the most studied. Information extraction and
+text classification emerged as predominant NLP tasks. A shift from rule-based
+to advanced machine learning techniques, particularly transformer-based models,
+was observed. The Dataset sizes used in existing studies varied widely. Key
+challenges included the limited generalizability of proposed solutions and the
+need for improved integration into clinical workflows. Conclusion: NLP
+techniques show significant potential in analyzing EHRs and clinical notes for
+cancer research. However, future work should focus on improving model
+generalizability, enhancing robustness in handling complex clinical language,
+and expanding applications to understudied cancer types. Integration of NLP
+tools into clinical practice and addressing ethical considerations remain
+crucial for utilizing the full potential of NLP in enhancing cancer diagnosis,
+treatment, and patient outcomes.
+
+摘要：<paragraph>目標：本篇評論旨在分析自然語言處理 (NLP) 技術在癌症研究中使用電子健康紀錄 (EHR) 和臨床筆記的應用。本篇評論透過提供比先前專注於特定癌症類型或應用的研究更廣泛的觀點，來探討現有文獻中的差距。方法：使用 Scopus 資料庫進行全面的文獻搜尋，找出 2019 年至 2024 年間發表的 94 篇相關研究。資料擷取包含研究特徵、癌症類型、NLP 方法論、資料集資訊、效能指標、挑戰和未來方向。研究根據癌症類型和 NLP 應用進行分類。結果：結果顯示 NLP 在癌症研究中的應用有逐漸增加的趨勢，其中乳癌、肺癌和大腸直腸癌的研究最多。資訊擷取和文字分類成為主要的 NLP 任務。觀察到從基於規則的技術轉移到進階機器學習技術，特別是基於轉換器的模型。現有研究中使用的資料集大小差異很大。主要的挑戰包括所提出解決方案的普遍性有限，以及需要更進一步整合到臨床工作流程中。結論：NLP 技術在分析電子健康紀錄和臨床筆記以進行癌症研究方面顯示出顯著的潛力。然而，未來的研究應專注於改善模型的普遍性、加強處理複雜臨床語言的穩健性，以及將應用擴展到研究不足的癌症類型。將 NLP 工具整合到臨床實務中，並探討倫理考量，對於充分利用 NLP 在提升癌症診斷、治療和患者預後方面的潛力至關重要。</paragraph>
+
+##### **Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**
+2410.21872v1 by Yinyi Lai, Anbo Cao, Yuan Gao, Jiaqi Shang, Zongyu Li, Jia Guo
+
+Early and accurate diagnosis of brain tumors is crucial for improving patient
+survival rates. However, the detection and classification of brain tumors are
+challenging due to their diverse types and complex morphological
+characteristics. This study investigates the application of pre-trained models
+for brain tumor classification, with a particular focus on deploying the Mamba
+model. We fine-tuned several mainstream transfer learning models and applied
+them to the multi-class classification of brain tumors. By comparing these
+models to those trained from scratch, we demonstrated the significant
+advantages of transfer learning, especially in the medical imaging field, where
+annotated data is often limited. Notably, we introduced the Vision Mamba (Vim),
+a novel network architecture, and applied it for the first time in brain tumor
+classification, achieving exceptional classification accuracy. Experimental
+results indicate that the Vim model achieved 100% classification accuracy on an
+independent test set, emphasizing its potential for tumor classification tasks.
+These findings underscore the effectiveness of transfer learning in brain tumor
+classification and reveal that, compared to existing state-of-the-art models,
+the Vim model is lightweight, efficient, and highly accurate, offering a new
+perspective for clinical applications. Furthermore, the framework proposed in
+this study for brain tumor classification, based on transfer learning and the
+Vision Mamba model, is broadly applicable to other medical imaging
+classification problems.
+
+摘要：腦腫瘤的早期準確診斷對於提高患者存活率至關重要。然而，由於腦腫瘤類型多樣且形態特徵複雜，因此檢測和分類腦腫瘤具有挑戰性。本研究探討了預訓練模型在腦腫瘤分類中的應用，特別關注 Mamba 模型的部署。我們微調了幾個主流的遷移學習模型，並將它們應用於腦腫瘤的多類別分類。通過將這些模型與從頭開始訓練的模型進行比較，我們展示了遷移學習的顯著優勢，特別是在醫療影像領域，那裡的註解數據通常有限。值得注意的是，我們引入了 Vision Mamba (Vim)，這是一種新穎的網路架構，並首次將其應用於腦腫瘤分類中，達到了出色的分類準確率。實驗結果表明，Vim 模型在一個獨立的測試集上達到了 100% 的分類準確率，強調了其在腫瘤分類任務中的潛力。這些發現強調了遷移學習在腦腫瘤分類中的有效性，並揭示了與現有的最先進模型相比，Vim 模型輕量、高效且準確，為臨床應用提供了新的視角。此外，本研究中提出的基於遷移學習和 Vision Mamba 模型的腦腫瘤分類框架廣泛適用於其他醫學影像分類問題。
+
+##### **How Does Critical Batch Size Scale in Pre-training?**
+2410.21676v1 by Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, Difan Zou, Udaya Ghai, Dean Foster, Sham Kakade
+
+Training large-scale models under given resources requires careful design of
+parallelism strategies. In particular, the efficiency notion of critical batch
+size, concerning the compromise between time and compute, marks the threshold
+beyond which greater data parallelism leads to diminishing returns. To
+operationalize it, we propose a measure of CBS and pre-train a series of
+auto-regressive language models, ranging from 85 million to 1.2 billion
+parameters, on the C4 dataset. Through extensive hyper-parameter sweeps and
+careful control on factors such as batch size, momentum, and learning rate
+along with its scheduling, we systematically investigate the impact of scale on
+CBS. Then we fit scaling laws with respect to model and data sizes to decouple
+their effects. Overall, our results demonstrate that CBS scales primarily with
+data size rather than model size, a finding we justify theoretically through
+the analysis of infinite-width limits of neural networks and
+infinite-dimensional least squares regression. Of independent interest, we
+highlight the importance of common hyper-parameter choices and strategies for
+studying large-scale pre-training beyond fixed training durations.
+
+摘要：在既定資源下訓練大型模型需要仔細設計平行處理策略。特別是，關鍵批次大小的效率概念，涉及時間和運算之間的折衷，標誌著超越此臨界點後，更大的資料平行處理將導致報酬遞減。為了將其付諸實施，我們提出一個 CBS 量度，並預先訓練一系列自迴歸語言模型，範圍從 8500 萬到 12 億個參數，在 C4 資料集上。透過廣泛的超參數掃描和仔細控制批次大小、動量和學習率等因素以及其排程，我們系統性地研究規模對 CBS 的影響。然後，我們擬合關於模型和資料大小的縮放定律，以分離它們的影響。總體而言，我們的結果表明 CBS 主要隨著資料大小而不是模型大小而縮放，我們透過對神經網路的無限寬度限制和無限維最小二乘迴歸的分析，在理論上證明了這一發現。獨立的興趣是，我們強調了通用超參數選擇和策略的重要性，用於研究超越固定訓練持續時間的大規模預訓練。
+
+##### **A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation**
+2410.21640v1 by Si-Ioi Ng, Lingfeng Xu, Ingo Siegert, Nicholas Cummins, Nina R. Benway, Julie Liss, Visar Berisha
+
+There has been a surge of interest in leveraging speech as a marker of health
+for a wide spectrum of conditions. The underlying premise is that any
+neurological, mental, or physical deficits that impact speech production can be
+objectively assessed via automated analysis of speech. Recent advances in
+speech-based Artificial Intelligence (AI) models for diagnosing and tracking
+mental health, cognitive, and motor disorders often use supervised learning,
+similar to mainstream speech technologies like recognition and verification.
+However, clinical speech AI has distinct challenges, including the need for
+specific elicitation tasks, small available datasets, diverse speech
+representations, and uncertain diagnostic labels. As a result, application of
+the standard supervised learning paradigm may lead to models that perform well
+in controlled settings but fail to generalize in real-world clinical
+deployments. With translation into real-world clinical scenarios in mind, this
+tutorial paper provides an overview of the key components required for robust
+development of clinical speech AI. Specifically, this paper will cover the
+design of speech elicitation tasks and protocols most appropriate for different
+clinical conditions, collection of data and verification of hardware,
+development and validation of speech representations designed to measure
+clinical constructs of interest, development of reliable and robust clinical
+prediction models, and ethical and participant considerations for clinical
+speech AI. The goal is to provide comprehensive guidance on building models
+whose inputs and outputs link to the more interpretable and clinically
+meaningful aspects of speech, that can be interrogated and clinically validated
+on clinical datasets, and that adhere to ethical, privacy, and security
+considerations by design.
+
+摘要：<paragraph>最近出現一股利用語言作為各種疾病標記的熱潮。其基本前提是任何影響語言產生的神經、心理或生理缺陷，都可以透過語言的自動化分析進行客觀評估。最近在語言基礎人工智慧 (AI) 模型上的進展，用於診斷和追蹤心理健康、認知和運動障礙，通常使用監督式學習，類似於主流語言技術，例如辨識和驗證。然而，臨床語言 AI 有其獨特的挑戰，包括需要特定的引導任務、可用的資料集小、語言表述多樣，以及診斷標籤不確定。因此，應用標準的監督式學習範例可能會導致在受控環境中表現良好的模型，但在現實世界的臨床部署中卻無法概化。本教學論文考量了將其轉譯到現實世界的臨床情境，提供了健全開發臨床語言 AI 所需關鍵組成的概觀。具體來說，本文將涵蓋最適合不同臨床狀況的語言引導任務和協定的設計、資料收集和硬體驗證、用於衡量臨床關注結構的語言表述的開發和驗證、可靠且健全的臨床預測模型的開發，以及臨床語言 AI 的倫理和參與者考量。目標是提供全面的指導方針，以建立其輸入和輸出連結到更易於理解且臨床上有意義的語言面向的模型，可以在臨床資料集上進行詢問和臨床驗證，並且在設計上遵守倫理、隱私和安全考量。</paragraph>
+
+##### **Can Large Language Models Replace Data Scientists in Clinical Research?**
+2410.21591v1 by Zifeng Wang, Benjamin Danek, Ziwei Yang, Zheng Chen, Jimeng Sun
+
+Data science plays a critical role in clinical research, but it requires
+professionals with expertise in coding and medical data analysis. Large
+language models (LLMs) have shown great potential in supporting medical tasks
+and performing well in general coding tests. However, these tests do not assess
+LLMs' ability to handle data science tasks in medicine, nor do they explore
+their practical utility in clinical research. To address this, we developed a
+dataset consisting of 293 real-world data science coding tasks, based on 39
+published clinical studies, covering 128 tasks in Python and 165 tasks in R.
+This dataset simulates realistic clinical research scenarios using patient
+data. Our findings reveal that cutting-edge LLMs struggle to generate perfect
+solutions, frequently failing to follow input instructions, understand target
+data, and adhere to standard analysis practices. Consequently, LLMs are not yet
+ready to fully automate data science tasks. We benchmarked advanced adaptation
+methods and found two to be particularly effective: chain-of-thought prompting,
+which provides a step-by-step plan for data analysis, which led to a 60%
+improvement in code accuracy; and self-reflection, enabling LLMs to iteratively
+refine their code, yielding a 38% accuracy improvement. Building on these
+insights, we developed a platform that integrates LLMs into the data science
+workflow for medical professionals. In a user study with five medical doctors,
+we found that while LLMs cannot fully automate coding tasks, they significantly
+streamline the programming process. We found that 80% of their submitted code
+solutions were incorporated from LLM-generated code, with up to 96% reuse in
+some cases. Our analysis highlights the potential of LLMs, when integrated into
+expert workflows, to enhance data science efficiency in clinical research.
+
+摘要：<paragraph>資料科學在臨床研究中發揮關鍵作用，但它需要具備編碼和醫療資料分析專業知識的專業人員。大型語言模型 (LLM) 在支援醫療任務和執行一般編碼測試方面展現了極大的潛力。然而，這些測試並未評估 LLM 處理醫學中資料科學任務的能力，也沒有探討它們在臨床研究中的實際效用。為了解決這個問題，我們開發了一個由 293 個真實世界資料科學編碼任務組成的資料集，這些任務基於 39 項已發表的臨床研究，涵蓋 128 個 Python 任務和 165 個 R 任務。此資料集使用患者資料模擬真實的臨床研究場景。我們的研究結果顯示，最先進的 LLM 難以產生完美的解決方案，常常無法遵循輸入說明、理解目標資料，以及遵守標準分析實務。因此，LLM 尚未準備好完全自動化資料科學任務。我們對進階適應方法進行了基準測試，發現有兩個方法特別有效：思考鏈提示，它提供了資料分析的逐步計畫，使程式碼準確度提升了 60%；以及自我反省，使 LLM 能夠反覆改善其程式碼，使準確度提升了 38%。根據這些見解，我們開發了一個將 LLM 整合到醫療專業人員資料科學工作流程中的平台。在與五位醫生的使用者研究中，我們發現，雖然 LLM 無法完全自動化編碼任務，但它們大幅簡化了程式設計流程。我們發現，他們提交的程式碼解決方案中有 80% 是從 LLM 生成的程式碼中納入的，在某些情況下重用率高達 96%。我們的分析強調了 LLM 在整合到專家工作流程中的潛力，以提高臨床研究中的資料科學效率。</paragraph>
+
+##### **Going Beyond H&E and Oncology: How Do Histopathology Foundation Models Perform for Multi-stain IHC and Immunology?**
+2410.21560v1 by Amaya Gallagher-Syed, Elena Pontarini, Myles J. Lewis, Michael R. Barnes, Gregory Slabaugh
+
+This study evaluates the generalisation capabilities of state-of-the-art
+histopathology foundation models on out-of-distribution multi-stain autoimmune
+Immunohistochemistry datasets. We compare 13 feature extractor models,
+including ImageNet-pretrained networks, and histopathology foundation models
+trained on both public and proprietary data, on Rheumatoid Arthritis subtyping
+and Sjogren's Disease detection tasks. Using a simple Attention-Based Multiple
+Instance Learning classifier, we assess the transferability of learned
+representations from cancer H&E images to autoimmune IHC images. Contrary to
+expectations, histopathology-pretrained models did not significantly outperform
+ImageNet-pretrained models. Furthermore, there was evidence of both autoimmune
+feature misinterpretation and biased feature importance. Our findings highlight
+the challenges in transferring knowledge from cancer to autoimmune
+histopathology and emphasise the need for careful evaluation of AI models
+across diverse histopathological tasks. The code to run this benchmark is
+available at https://github.com/AmayaGS/ImmunoHistoBench.
+
+摘要：本研究評估了最先進的組織病理學基礎模型在分布外多染色自身免疫免疫組織化學數據集上的泛化能力。我們比較了 13 個特徵提取器模型，包括 ImageNet 預訓練網路，以及在公共和專有數據上訓練的組織病理學基礎模型，在類風濕性關節炎亞型和乾燥症檢測任務上。使用一個簡單的基於注意力的多實例學習分類器，我們評估了從癌症 H&E 影像到自身免疫 IHC 影像的學習表徵的可傳遞性。與預期相反，組織病理學預訓練模型並沒有顯著優於 ImageNet 預訓練模型。此外，有證據表明存在自身免疫特徵誤解和偏差特徵重要性。我們的研究結果強調了將知識從癌症轉移到自身免疫組織病理學的挑戰，並強調了跨不同組織病理學任務仔細評估 AI 模型的必要性。運行此基準測試的程式碼可在 https://github.com/AmayaGS/ImmunoHistoBench 獲得。
+
+##### **Towards Multi-dimensional Explanation Alignment for Medical Classification**
+2410.21494v1 by Lijie Hu, Songning Lai, Wenshuo Chen, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang
+
+The lack of interpretability in the field of medical image analysis has
+significant ethical and legal implications. Existing interpretable methods in
+this domain encounter several challenges, including dependency on specific
+models, difficulties in understanding and visualization, as well as issues
+related to efficiency. To address these limitations, we propose a novel
+framework called Med-MICN (Medical Multi-dimensional Interpretable Concept
+Network). Med-MICN provides interpretability alignment for various angles,
+including neural symbolic reasoning, concept semantics, and saliency maps,
+which are superior to current interpretable methods. Its advantages include
+high prediction accuracy, interpretability across multiple dimensions, and
+automation through an end-to-end concept labeling process that reduces the need
+for extensive human training effort when working with new datasets. To
+demonstrate the effectiveness and interpretability of Med-MICN, we apply it to
+four benchmark datasets and compare it with baselines. The results clearly
+demonstrate the superior performance and interpretability of our Med-MICN.
+
+摘要：醫療影像分析領域缺乏可解釋性，這帶來重大的倫理和法律影響。現有的可解釋方法在這個領域中會遭遇許多挑戰，包括依賴特定模型、難以理解和視覺化，以及與效率相關的問題。為了解決這些限制，我們提出一個新的架構，稱為 Med-MICN（醫療多維可解釋概念網路）。Med-MICN 提供各種角度的可解釋性比對，包括神經符號推理、概念語意和顯著性圖，這些都優於目前的可解釋方法。它的優點包括高預測準確度、多維度的可解釋性，以及透過端到端概念標記流程自動化，這減少了在使用新資料集時需要大量人工訓練的工作。為了證明 Med-MICN 的有效性和可解釋性，我們將其應用於四個基準資料集，並與基準線進行比較。結果清楚地證明了我們的 Med-MICN 具有優異的效能和可解釋性。
+
 ##### **Multi-modal AI for comprehensive breast cancer prognostication**
 2410.21256v1 by Jan Witowski, Ken Zeng, Joseph Cappadona, Jailan Elayoubi, Elena Diana Chiru, Nancy Chan, Young-Joon Kang, Frederick Howard, Irina Ostrovnaya, Carlos Fernandez-Granda, Freya Schnabel, Ugur Ozerdem, Kangning Liu, Zoe Steinsnyder, Nitya Thakore, Mohammad Sadic, Frank Yeung, Elisa Liu, Theodore Hill, Benjamin Swett, Danielle Rigau, Andrew Clayburn, Valerie Speirs, Marcus Vetter, Lina Sojak, Simone Muenst Soysal, Daniel Baumhoer, Khalil Choucair, Yu Zong, Lina Daoud, Anas Saad, Waleed Abdulsattar, Rafic Beydoun, Jia-Wern Pan, Haslina Makmur, Soo-Hwang Teo, Linda Ma Pak, Victor Angel, Dovile Zilenaite-Petrulaitiene, Arvydas Laurinavicius, Natalie Klar, Brian D. Piening, Carlo Bifulco, Sun-Young Jun, Jae Pak Yi, Su Hyun Lim, Adam Brufsky, Francisco J. Esteva, Lajos Pusztai, Yann LeCun, Krzysztof J. Geras
 
@@ -255,6 +437,31 @@ which indicates its potential for efficient clinical application in radiology
 and pathology image question answering.
 
 摘要：醫療視覺問答 (MedVQA) 在電腦視覺和自然語言處理的交集中獲得越來越多的關注。它能夠解讀放射影像並對臨床詢問提供精確答案的能力，使 MedVQA 成為支援醫師診斷決策和減輕放射科醫師工作負擔的寶貴工具。雖然最近的方法著重於使用統一的預先訓練大型模型進行多模式融合，例如跨模態 Transformer，但對於更有效率的融合方法的研究在此領域中仍然相對稀少。在本文中，我們介紹了一個新穎的融合模型，它整合了正交損失、多頭注意力和雙線性注意力網路 (OMniBAN)，以在不需要預先訓練的情況下實現高計算效率和強大效能。我們進行了全面的實驗，並釐清了如何增強雙線性注意力融合以實現與大型模型相當的效能。實驗結果表明，OMniBAN 在關鍵的 MedVQA 基準上優於傳統模型，同時維持較低的計算成本，這表明它在放射學和病理影像問答中具有高效臨床應用的潛力。
+
+##### **Large Language Model Benchmarks in Medical Tasks**
+2410.21348v1 by Lawrence K. Q. Yan, Ming Li, Yichao Zhang, Caitlyn Heqi Yin, Cheng Fei, Benji Peng, Ziqian Bi, Pohsun Feng, Keyu Chen, Junyu Liu, Qian Niu
+
+With the increasing application of large language models (LLMs) in the
+medical domain, evaluating these models' performance using benchmark datasets
+has become crucial. This paper presents a comprehensive survey of various
+benchmark datasets employed in medical LLM tasks. These datasets span multiple
+modalities including text, image, and multimodal benchmarks, focusing on
+different aspects of medical knowledge such as electronic health records
+(EHRs), doctor-patient dialogues, medical question-answering, and medical image
+captioning. The survey categorizes the datasets by modality, discussing their
+significance, data structure, and impact on the development of LLMs for
+clinical tasks such as diagnosis, report generation, and predictive decision
+support. Key benchmarks include MIMIC-III, MIMIC-IV, BioASQ, PubMedQA, and
+CheXpert, which have facilitated advancements in tasks like medical report
+generation, clinical summarization, and synthetic data generation. The paper
+summarizes the challenges and opportunities in leveraging these benchmarks for
+advancing multimodal medical intelligence, emphasizing the need for datasets
+with a greater degree of language diversity, structured omics data, and
+innovative approaches to synthesis. This work also provides a foundation for
+future research in the application of LLMs in medicine, contributing to the
+evolving field of medical artificial intelligence.
+
+摘要：隨著大型語言模型 (LLM) 在醫療領域的應用日益廣泛，使用基準資料集評估這些模型的效能已變得至關重要。本文對用於醫療 LLM 任務的各種基準資料集進行了全面的調查。這些資料集跨越多種模式，包括文字、影像和多模態基準，重點關注電子健康紀錄 (EHR)、醫病對話、醫療問答和醫療影像標題等醫療知識的不同面向。調查按模式對資料集進行分類，討論它們的重要性、資料結構和對用於診斷、報告生成和預測性決策支援等臨床任務的 LLM 開發的影響。主要基準包括 MIMIC-III、MIMIC-IV、BioASQ、PubMedQA 和 CheXpert，它們促进了醫療報告生成、臨床摘要和合成資料生成等任務的進展。本文總結了利用這些基準來推進多模態醫療智能的挑戰和機遇，強調了對具有更大語言多樣性、結構化組學資料和創新合成方法的資料集的需求。這項工作也為 LLM 在醫學中的應用提供了未來研究的基礎，為醫療人工智慧的演進領域做出貢獻。
 
 ##### **Language Models And A Second Opinion Use Case: The Pocket Professional**
 2410.20636v1 by David Noever
@@ -2392,208 +2599,4 @@ analysis. This capability further expands off-axis holography's applications in
 both biological and medical studies.
 
 摘要：離軸數位全像顯微鏡是一種高通量、無標籤的影像技術，可提供立體、高解析度的樣品資訊，特別適用於大規模細胞影像。然而，全像重建過程對及時的資料分析構成重大的瓶頸。為了應對這項挑戰，我們提出了一種創新的重建方法，將深度學習與離軸全像的物理原理整合在一起。我們根據物理原理初始化部分網路權重，然後透過弱監督學習微調它們。我們的離軸全像網路 (OAH-Net) 擷取相位和振幅影像，其誤差落在歸因於硬體的量測誤差範圍內，而且其重建速度顯著超越顯微鏡的擷取率。至關重要的是，OAH-Net 在具有不同模式的未見樣本上展現出卓越的外在泛化能力，而且可以與其他模型無縫整合，以執行下游任務，以達成端對端的即時全像分析。此能力進一步擴展了離軸全像在生物和醫學研究中的應用。
-
-##### **RGB to Hyperspectral: Spectral Reconstruction for Enhanced Surgical Imaging**
-2410.13570v1 by Tobias Czempiel, Alfie Roddan, Maria Leiloglou, Zepeng Hu, Kevin O'Neill, Giulio Anichini, Danail Stoyanov, Daniel Elson
-
-This study investigates the reconstruction of hyperspectral signatures from
-RGB data to enhance surgical imaging, utilizing the publicly available
-HeiPorSPECTRAL dataset from porcine surgery and an in-house neurosurgery
-dataset. Various architectures based on convolutional neural networks (CNNs)
-and transformer models are evaluated using comprehensive metrics. Transformer
-models exhibit superior performance in terms of RMSE, SAM, PSNR and SSIM by
-effectively integrating spatial information to predict accurate spectral
-profiles, encompassing both visible and extended spectral ranges. Qualitative
-assessments demonstrate the capability to predict spectral profiles critical
-for informed surgical decision-making during procedures. Challenges associated
-with capturing both the visible and extended hyperspectral ranges are
-highlighted using the MAE, emphasizing the complexities involved. The findings
-open up the new research direction of hyperspectral reconstruction for surgical
-applications and clinical use cases in real-time surgical environments.
-
-摘要：本研究探討了從 RGB 資料重建高光譜特徵，以增強手術影像，並利用來自豬隻手術的公開 HeiPorSPECTRAL 資料集和院內神經外科資料集。使用綜合評量指標評估了基於卷積神經網路 (CNN) 和 Transformer 模型的各種架構。Transformer 模型在 RMSE、SAM、PSNR 和 SSIM 方面表現出優異的效能，因為它有效地整合了空間資訊以預測準確的光譜輪廓，涵蓋了可見光和延伸光譜範圍。定性評估證明了在手術過程中預測光譜輪廓的能力，對於明智的手術決策制定至關重要。使用 MAE 強調了與擷取可見光和延伸高光譜範圍相關的挑戰，強調了所涉及的複雜性。這些發現開啟了高光譜重建在手術應用和實際手術環境中臨床使用案例的新研究方向。
-
-##### **Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?**
-2410.13523v1 by Che Liu, Zhongwei Wan, Haozhe Wang, Yinda Chen, Talha Qaiser, Chen Jin, Fariba Yousefi, Nikolay Burlutskiy, Rossella Arcucci
-
-Medical Vision-Language Pre-training (MedVLP) has made significant progress
-in enabling zero-shot tasks for medical image understanding. However, training
-MedVLP models typically requires large-scale datasets with paired, high-quality
-image-text data, which are scarce in the medical domain. Recent advancements in
-Large Language Models (LLMs) and diffusion models have made it possible to
-generate large-scale synthetic image-text pairs. This raises the question: *Can
-MedVLP succeed using purely synthetic data?* To address this, we use
-off-the-shelf generative models to create synthetic radiology reports and
-paired Chest X-ray (CXR) images, and propose an automated pipeline to build a
-diverse, high-quality synthetic dataset, enabling a rigorous study that
-isolates model and training settings, focusing entirely from the data
-perspective. Our results show that MedVLP models trained *exclusively on
-synthetic data* outperform those trained on real data by **3.8%** in averaged
-AUC on zero-shot classification. Moreover, using a combination of synthetic and
-real data leads to a further improvement of **9.07%**. Additionally, MedVLP
-models trained on synthetic or mixed data consistently outperform those trained
-on real data in zero-shot grounding, as well as in fine-tuned classification
-and segmentation tasks. Our analysis suggests MedVLP trained on well-designed
-synthetic data can outperform models trained on real datasets, which may be
-limited by low-quality samples and long-tailed distributions.
-
-摘要：<paragraph>醫療視覺語言預訓練 (MedVLP) 在支援醫學影像理解的零次學習任務方面取得重大進展。然而，訓練 MedVLP 模型通常需要具備配對、高品質影像文字資料的大規模資料集，而這在醫療領域中十分稀少。大型語言模型 (LLM) 和擴散模型的最新進展使得產生大規模的合成影像文字配對成為可能。這引發了一個問題：*MedVLP 能僅使用合成資料成功嗎？*為了解決這個問題，我們使用現成的生成模型來建立合成放射報告和配對的胸部 X 光 (CXR) 影像，並提出一個自動化的流程來建構一個多元、高品質的合成資料集，這使得一項嚴謹的研究得以專注於資料觀點，並完全隔離模型和訓練設定。我們的結果顯示，*僅使用合成資料訓練的* MedVLP 模型在零次分類的平均 AUC 上，比在真實資料上訓練的模型高出 **3.8%**。此外，使用合成資料和真實資料的組合，可進一步提升 **9.07%**。此外，在合成或混合資料上訓練的 MedVLP 模型，在零次定位、微調分類和分割任務中，始終優於在真實資料上訓練的模型。我們的分析顯示，在設計良好的合成資料上訓練的 MedVLP 可以優於在真實資料集上訓練的模型，而真實資料集可能受到低品質樣本和長尾分佈的限制。</paragraph>
-
-##### **Representation Learning of Structured Data for Medical Foundation Models**
-2410.13351v1 by Vijay Prakash Dwivedi, Viktor Schlegel, Andy T. Liu, Thanh-Tung Nguyen, Abhinav Ramesh Kashyap, Jeng Wei, Wei-Hsian Yin, Stefan Winkler, Robby T. Tan
-
-Large Language Models (LLMs) have demonstrated remarkable performance across
-various domains, including healthcare. However, their ability to effectively
-represent structured non-textual data, such as the alphanumeric medical codes
-used in records like ICD-10 or SNOMED-CT, is limited and has been particularly
-exposed in recent research. This paper examines the challenges LLMs face in
-processing medical codes due to the shortcomings of current tokenization
-methods. As a result, we introduce the UniStruct architecture to design a
-multimodal medical foundation model of unstructured text and structured data,
-which addresses these challenges by adapting subword tokenization techniques
-specifically for the structured medical codes. Our approach is validated
-through model pre-training on both an extensive internal medical database and a
-public repository of structured medical records. Trained on over 1 billion
-tokens on the internal medical database, the proposed model achieves up to a
-23% improvement in evaluation metrics, with around 2% gain attributed to our
-proposed tokenization. Additionally, when evaluated on the EHRSHOT public
-benchmark with a 1/1000 fraction of the pre-training data, the UniStruct model
-improves performance on over 42% of the downstream tasks. Our approach not only
-enhances the representation and generalization capabilities of patient-centric
-models but also bridges a critical gap in representation learning models'
-ability to handle complex structured medical data, alongside unstructured text.
-
-摘要：大型語言模型 (LLM) 已在各種領域展現出卓越的效能，包括醫療保健。然而，它們有效表示結構化非文字資料的能力，例如病歷中使用的字母數字醫療碼，例如 ICD-10 或 SNOMED-CT，受到限制，並且在最近的研究中特別明顯。本文探討由於當前標記化方法的缺點，LLM 在處理醫療碼時面臨的挑戰。因此，我們引入了 UniStruct 架構來設計非結構化文字和結構化資料的多模態醫療基礎模型，它透過特別針對結構化醫療碼調整次字標記化技術來解決這些挑戰。我們的做法透過在廣泛的內部醫療資料庫和結構化醫療記錄的公開儲存庫上進行模型預訓練來驗證。在內部醫療資料庫上訓練超過 10 億個標記，所提出的模型在評估指標中獲得高達 23% 的改進，其中約 2% 的收益歸功於我們提出的標記化。此外，在使用 1/1000 的預訓練資料對 EHRSHOT 公開基準進行評估時，UniStruct 模型在超過 42% 的下游任務中提升了效能。我們的做法不僅增強了以患者為中心的模型的表示和概化能力，還彌補了表示學習模型處理複雜結構化醫療資料的能力與非結構化文字之間的關鍵差距。
-
-##### **Active inference and deep generative modeling for cognitive ultrasound**
-2410.13310v1 by Ruud JG van Sloun
-
-Ultrasound (US) has the unique potential to offer access to medical imaging
-to anyone, everywhere. Devices have become ultra-portable and cost-effective,
-akin to the stethoscope. Nevertheless US image quality and diagnostic efficacy
-are still highly operator- and patient-dependent. In difficult-to-image
-patients, image quality is often insufficient for reliable diagnosis. In this
-paper, we put forth that US imaging systems can be recast as
-information-seeking agents that engage in reciprocal interactions with their
-anatomical environment. Such agents autonomously adapt their transmit-receive
-sequences to fully personalize imaging and actively maximize information gain
-in-situ. To that end, we will show that the sequence of pulse-echo experiments
-that a US system performs can be interpreted as a perception-action loop: the
-action is the data acquisition, probing tissue with acoustic waves and
-recording reflections at the detection array, and perception is the inference
-of the anatomical and or functional state, potentially including associated
-diagnostic quantities. We then equip systems with a mechanism to actively
-reduce uncertainty and maximize diagnostic value across a sequence of
-experiments, treating action and perception jointly using Bayesian inference
-given generative models of the environment and action-conditional pulse-echo
-observations. Since the representation capacity of the generative models
-dictates both the quality of inferred anatomical states and the effectiveness
-of inferred sequences of future imaging actions, we will be greatly leveraging
-the enormous advances in deep generative modelling that are currently
-disrupting many fields and society at large. Finally, we show some examples of
-cognitive, closed-loop, US systems that perform active beamsteering and
-adaptive scanline selection, based on deep generative models that track
-anatomical belief states.
-
-摘要：超音波 (US) 具有提供醫療影像的獨特潛力，可供任何人在任何地方使用。裝置已變得極為便攜且經濟實惠，類似於聽診器。儘管如此，超音波影像品質和診斷效能仍然高度依賴操作者和患者。在難以成像的患者中，影像品質通常不足以進行可靠的診斷。在本文中，我們提出超音波影像系統可以重新定義為資訊尋求代理，與其解剖環境進行交互作用。此類代理會自主調整其傳輸接收序列，以完全個人化影像並積極最大化現場資訊獲取。為此，我們將展示超音波系統執行的脈衝回波實驗序列可以解釋為感知動作迴圈：動作是資料擷取，使用聲波探測組織並記錄偵測陣列的反射，而感知是解剖和功能狀態的推論，可能包括相關的診斷量。然後，我們為系統配備一種機制，以積極減少不確定性並在實驗序列中最大化診斷價值，使用貝氏推論共同處理動作和感知，並提供環境的生成模型和動作條件脈衝回波觀測。由於生成模型的表示能力決定了推論解剖狀態的品質和推論未來影像動作序列的有效性，我們將大力利用深度生成模型的巨大進展，這些進展目前正在顛覆許多領域和整個社會。最後，我們展示了一些認知、閉迴路超音波系統的範例，這些系統執行主動波束導引和自適應掃描線選取，基於追蹤解剖信念狀態的深度生成模型。
-
-##### **Hiformer: Hybrid Frequency Feature Enhancement Inverted Transformer for Long-Term Wind Power Prediction**
-2410.13303v1 by Chongyang Wan, Shunbo Lei, Yuan Luo
-
-The increasing severity of climate change necessitates an urgent transition
-to renewable energy sources, making the large-scale adoption of wind energy
-crucial for mitigating environmental impact. However, the inherent uncertainty
-of wind power poses challenges for grid stability, underscoring the need for
-accurate wind energy prediction models to enable effective power system
-planning and operation. While many existing studies on wind power prediction
-focus on short-term forecasting, they often overlook the importance of
-long-term predictions. Long-term wind power forecasting is essential for
-effective power grid dispatch and market transactions, as it requires careful
-consideration of weather features such as wind speed and direction, which
-directly influence power output. Consequently, methods designed for short-term
-predictions may lead to inaccurate results and high computational costs in
-long-term settings. To adress these limitations, we propose a novel approach
-called Hybrid Frequency Feature Enhancement Inverted Transformer (Hiformer).
-Hiformer introduces a unique structure that integrates signal decomposition
-technology with weather feature extraction technique to enhance the modeling of
-correlations between meteorological conditions and wind power generation.
-Additionally, Hiformer employs an encoder-only architecture, which reduces the
-computational complexity associated with long-term wind power forecasting.
-Compared to the state-of-the-art methods, Hiformer: (i) can improve the
-prediction accuracy by up to 52.5\%; and (ii) can reduce computational time by
-up to 68.5\%.
-
-摘要：氣候變遷日益嚴重，迫切需要轉向再生能源，因此大規模採用風能對於減緩環境影響至關重要。然而，風能的內在不確定性對電網穩定性構成挑戰，這突顯了對準確風能預測模型的需求，以實現有效的電力系統規劃和運作。雖然許多現有的風能預測研究都專注於短期預測，但它們常常忽略長期預測的重要性。長期風能預測對於有效的電網調度和市場交易至關重要，因為它需要仔細考慮天氣特徵，例如風速和風向，這些特徵會直接影響電力輸出。因此，專為短期預測而設計的方法在長期設置中可能會導致不準確的結果和高計算成本。為了解決這些限制，我們提出了一種稱為混合頻率特徵增強反轉Transformer (Hiformer) 的新方法。Hiformer 引入了一個獨特的結構，將信號分解技術與天氣特徵提取技術相結合，以增強氣象條件與風力發電之間相關性的建模。此外，Hiformer 採用僅編碼器架構，這降低了與長期風能預測相關的計算複雜度。與最先進的方法相比，Hiformer：(i) 可以將預測準確度提高多達 52.5%；(ii) 可以將計算時間減少多達 68.5%。
-
-##### **Toward a Unified Graph-Based Representation of Medical Data for Precision Oncology Medicine**
-2410.14739v1 by Davide Belluomo, Tiziana Calamoneri, Giacomo Paesani, Ivano Salvo
-
-We present a new unified graph-based representation of medical data,
-combining genetic information and medical records of patients with medical
-knowledge via a unique knowledge graph. This approach allows us to infer
-meaningful information and explanations that would be unavailable by looking at
-each data set separately. The systematic use of different databases, managed
-throughout the built knowledge graph, gives new insights toward a better
-understanding of oncology medicine. Indeed, we reduce some useful medical tasks
-to well-known problems in theoretical computer science for which efficient
-algorithms exist.
-
-摘要：我們提出一個新的統一圖形化醫學資料表示法，
-結合遺傳資訊和患者的病歷，透過獨特的知識圖譜，獲得醫療知識。這個方法讓我們能推論出有意義的資訊和解釋，而這些資訊和解釋是從各個資料集個別來看時無法得到的。在建構的知識圖譜中管理不同的資料庫，其系統化的使用，能提供新的見解，進而更了解腫瘤醫學。事實上，我們將一些有用的醫療任務簡化為理論電腦科學中已知的問題，而這些問題有已存在的有效演算法。
-
-##### **CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy**
-2410.13218v1 by Mian Zhang, Xianjun Yang, Xinlu Zhang, Travis Labrum, Jamie C. Chiu, Shaun M. Eack, Fei Fang, William Yang Wang, Zhiyu Zoey Chen
-
-There is a significant gap between patient needs and available mental health
-support today. In this paper, we aim to thoroughly examine the potential of
-using Large Language Models (LLMs) to assist professional psychotherapy. To
-this end, we propose a new benchmark, CBT-BENCH, for the systematic evaluation
-of cognitive behavioral therapy (CBT) assistance. We include three levels of
-tasks in CBT-BENCH: I: Basic CBT knowledge acquisition, with the task of
-multiple-choice questions; II: Cognitive model understanding, with the tasks of
-cognitive distortion classification, primary core belief classification, and
-fine-grained core belief classification; III: Therapeutic response generation,
-with the task of generating responses to patient speech in CBT therapy
-sessions. These tasks encompass key aspects of CBT that could potentially be
-enhanced through AI assistance, while also outlining a hierarchy of capability
-requirements, ranging from basic knowledge recitation to engaging in real
-therapeutic conversations. We evaluated representative LLMs on our benchmark.
-Experimental results indicate that while LLMs perform well in reciting CBT
-knowledge, they fall short in complex real-world scenarios requiring deep
-analysis of patients' cognitive structures and generating effective responses,
-suggesting potential future work.
-
-摘要：現今病患需求與可取得的心理健康支援之間存在著顯著的差距。在本文中，我們旨在徹底探討使用大型語言模型 (LLM) 來協助專業心理治療的可能性。為此，我們提出了 CBT-BENCH，一個用於系統性評估認知行為療法 (CBT) 協助的新基準。我們在 CBT-BENCH 中包含三級任務：I：基本 CBT 知識習得，任務為多選題；II：認知模型理解，任務為認知扭曲分類、主要核心信念分類和細粒度核心信念分類；III：治療反應生成，任務為在 CBT 治療會談中對病患的言語產生反應。這些任務涵蓋了 CBT 的關鍵面向，這些面向有可能透過 AI 協助而得到強化，同時也概述了能力需求的層級，從基本的知識背誦到參與真正的治療對話。我們在基準上評估了具代表性的 LLM。實驗結果顯示，儘管 LLM 在背誦 CBT 知識方面表現良好，但在需要深入分析病患認知結構和產生有效反應的複雜現實世界場景中表現不佳，這表示未來有潛在的工作機會。
-
-##### **MixEHR-Nest: Identifying Subphenotypes within Electronic Health Records through Hierarchical Guided-Topic Modeling**
-2410.13217v1 by Ruohan Wang, Zilong Wang, Ziyang Song, David Buckeridge, Yue Li
-
-Automatic subphenotyping from electronic health records (EHRs)provides
-numerous opportunities to understand diseases with unique subgroups and enhance
-personalized medicine for patients. However, existing machine learning
-algorithms either focus on specific diseases for better interpretability or
-produce coarse-grained phenotype topics without considering nuanced disease
-patterns. In this study, we propose a guided topic model, MixEHR-Nest, to infer
-sub-phenotype topics from thousands of disease using multi-modal EHR data.
-Specifically, MixEHR-Nest detects multiple subtopics from each phenotype topic,
-whose prior is guided by the expert-curated phenotype concepts such as
-Phenotype Codes (PheCodes) or Clinical Classification Software (CCS) codes. We
-evaluated MixEHR-Nest on two EHR datasets: (1) the MIMIC-III dataset consisting
-of over 38 thousand patients from intensive care unit (ICU) from Beth Israel
-Deaconess Medical Center (BIDMC) in Boston, USA; (2) the healthcare
-administrative database PopHR, comprising 1.3 million patients from Montreal,
-Canada. Experimental results demonstrate that MixEHR-Nest can identify
-subphenotypes with distinct patterns within each phenotype, which are
-predictive for disease progression and severity. Consequently, MixEHR-Nest
-distinguishes between type 1 and type 2 diabetes by inferring subphenotypes
-using CCS codes, which do not differentiate these two subtype concepts.
-Additionally, MixEHR-Nest not only improved the prediction accuracy of
-short-term mortality of ICU patients and initial insulin treatment in diabetic
-patients but also revealed the contributions of subphenotypes. For longitudinal
-analysis, MixEHR-Nest identified subphenotypes of distinct age prevalence under
-the same phenotypes, such as asthma, leukemia, epilepsy, and depression. The
-MixEHR-Nest software is available at GitHub:
-https://github.com/li-lab-mcgill/MixEHR-Nest.
-
-摘要：<paragraph>從電子健康記錄 (EHR) 自動進行亞分型，提供了許多了解具有獨特亞群的疾病並增強患者個人化醫療的機會。然而，現有的機器學習演算法不是專注於特定疾病以獲得更好的可解釋性，就是產生粗略的分型主題，而不考慮細微的疾病模式。在這項研究中，我們提出了一個引導式主題模型 MixEHR-Nest，以使用多模式 EHR 資料從數千種疾病中推論出亞分型主題。具體來說，MixEHR-Nest 從每個分型主題中偵測出多個子主題，其事前機率由專家策劃的分型概念（例如分型代碼 (PheCodes) 或臨床分類軟體 (CCS) 代碼）引導。我們在兩個 EHR 資料集上評估了 MixEHR-Nest：(1) MIMIC-III 資料集，其中包含來自美國波士頓貝斯以色列女執事醫療中心 (BIDMC) 重症監護病房 (ICU) 的 38,000 多名患者；(2) 醫療行政資料庫 PopHR，其中包含來自加拿大蒙特婁的 130 萬名患者。實驗結果表明，MixEHR-Nest 可以識別每個分型中具有不同模式的亞分型，這些模式對於疾病進展和嚴重程度具有預測性。因此，MixEHR-Nest 通過使用 CCS 代碼推論亞分型來區分 1 型和 2 型糖尿病，而 CCS 代碼並未區分這兩個亞型概念。此外，MixEHR-Nest 不僅提高了 ICU 患者短期死亡率和糖尿病患者初始胰島素治療的預測準確度，還揭示了亞分型的貢獻。對於縱向分析，MixEHR-Nest 識別出在相同分型下的不同年齡患病率的亞分型，例如哮喘、白血病、癲癇和憂鬱症。MixEHR-Nest 軟體可在 GitHub 上取得：https://github.com/li-lab-mcgill/MixEHR-Nest。</paragraph>
 

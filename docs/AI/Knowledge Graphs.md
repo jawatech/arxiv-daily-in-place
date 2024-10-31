@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**ADAM: An Embodied Causal Agent in Open-World Environments**|Shu Yu et.al.|[2410.22194v1](http://arxiv.org/abs/2410.22194v1)|null|
+|**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520v1](http://arxiv.org/abs/2410.21520v1)|null|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237v1](http://arxiv.org/abs/2410.21237v1)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067v1](http://arxiv.org/abs/2410.21067v1)|null|
 |**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060v1](http://arxiv.org/abs/2410.21060v1)|null|
@@ -9,6 +11,7 @@
 |**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
 |**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v1](http://arxiv.org/abs/2410.20724v1)|null|
 |**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321v1](http://arxiv.org/abs/2410.20321v1)|null|
+|**2024-10-26**|**Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts**|Vishesh Prasad et.al.|[2410.21324v1](http://arxiv.org/abs/2410.21324v1)|null|
 |**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955v1](http://arxiv.org/abs/2410.19955v1)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727v1](http://arxiv.org/abs/2410.19727v1)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627v1](http://arxiv.org/abs/2410.19627v1)|null|
@@ -43,7 +46,7 @@
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
 |**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763v1](http://arxiv.org/abs/2410.14763v1)|[link](https://github.com/healthylaife/autofair)|
 |**2024-10-18**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211v2](http://arxiv.org/abs/2410.14211v2)|null|
-|**2024-10-18**|**UniMTS: Unified Pre-training for Motion Time Series**|Xiyuan Zhang et.al.|[2410.19818v1](http://arxiv.org/abs/2410.19818v1)|null|
+|**2024-10-18**|**UniMTS: Unified Pre-training for Motion Time Series**|Xiyuan Zhang et.al.|[2410.19818v1](http://arxiv.org/abs/2410.19818v1)|[link](https://github.com/xiyuanzh/unimts)|
 |**2024-10-18**|**Supervised Chain of Thought**|Xiang Zhang et.al.|[2410.14198v1](http://arxiv.org/abs/2410.14198v1)|null|
 |**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057v1](http://arxiv.org/abs/2410.14057v1)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987v1](http://arxiv.org/abs/2410.13987v1)|null|
@@ -89,21 +92,70 @@
 |**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985v2](http://arxiv.org/abs/2410.08985v2)|null|
 |**2024-10-11**|**When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning**|Hao Yan et.al.|[2410.09132v1](http://arxiv.org/abs/2410.09132v1)|[link](https://github.com/sktsherlock/atg)|
 |**2024-10-11**|**GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**|Jiashu He et.al.|[2410.08475v1](http://arxiv.org/abs/2410.08475v1)|null|
+|**2024-10-11**|**Logic Error Localization in Student Programming Assignments Using Pseudocode and Graph Neural Networks**|Zhenyu Xu et.al.|[2410.21282v1](http://arxiv.org/abs/2410.21282v1)|null|
 |**2024-10-10**|**Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**|Haoteng Yin et.al.|[2410.08299v1](http://arxiv.org/abs/2410.08299v1)|[link](https://github.com/graph-com/pvgalm)|
 |**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085v1](http://arxiv.org/abs/2410.08085v1)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951v1](http://arxiv.org/abs/2410.07951v1)|null|
-|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869v1](http://arxiv.org/abs/2410.07869v1)|[link](https://github.com/zjunlp/worfbench)|
-|**2024-10-10**|**AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**|Hongru Wang et.al.|[2410.19743v1](http://arxiv.org/abs/2410.19743v1)|null|
+|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869v2](http://arxiv.org/abs/2410.07869v2)|[link](https://github.com/zjunlp/worfbench)|
+|**2024-10-10**|**AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**|Hongru Wang et.al.|[2410.19743v1](http://arxiv.org/abs/2410.19743v1)|[link](https://github.com/ruleGreen/AppBench)|
 |**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
 |**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526v1](http://arxiv.org/abs/2410.07526v1)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157v1](http://arxiv.org/abs/2410.07157v1)|[link](https://github.com/PeterGriffinJin/InstructG2I)|
 |**2024-10-09**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Iman Saberi et.al.|[2410.18251v1](http://arxiv.org/abs/2410.18251v1)|null|
-|**2024-10-09**|**CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages**|Pretam Ray et.al.|[2410.06944v1](http://arxiv.org/abs/2410.06944v1)|null|
-|**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634v1](http://arxiv.org/abs/2410.06634v1)|null|
-|**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v1](http://arxiv.org/abs/2410.07271v1)|null|
-|**2024-10-08**|**Counterfactual Causal Inference in Natural Language with Large Language Models**|Gaël Gendron et.al.|[2410.06392v1](http://arxiv.org/abs/2410.06392v1)|[link](https://github.com/strong-ai-lab/counterfactual-llm-inference)|
 
 #### Abstracts
+##### **ADAM: An Embodied Causal Agent in Open-World Environments**
+2410.22194v1 by Shu Yu, Chaochao Lu
+
+In open-world environments like Minecraft, existing agents face challenges in
+continuously learning structured knowledge, particularly causality. These
+challenges stem from the opacity inherent in black-box models and an excessive
+reliance on prior knowledge during training, which impair their
+interpretability and generalization capability. To this end, we introduce ADAM,
+An emboDied causal Agent in Minecraft, that can autonomously navigate the open
+world, perceive multimodal contexts, learn causal world knowledge, and tackle
+complex tasks through lifelong learning. ADAM is empowered by four key
+components: 1) an interaction module, enabling the agent to execute actions
+while documenting the interaction processes; 2) a causal model module, tasked
+with constructing an ever-growing causal graph from scratch, which enhances
+interpretability and diminishes reliance on prior knowledge; 3) a controller
+module, comprising a planner, an actor, and a memory pool, which uses the
+learned causal graph to accomplish tasks; 4) a perception module, powered by
+multimodal large language models, which enables ADAM to perceive like a human
+player. Extensive experiments show that ADAM constructs an almost perfect
+causal graph from scratch, enabling efficient task decomposition and execution
+with strong interpretability. Notably, in our modified Minecraft games where no
+prior knowledge is available, ADAM maintains its performance and shows
+remarkable robustness and generalization capability. ADAM pioneers a novel
+paradigm that integrates causal methods and embodied agents in a synergistic
+manner. Our project page is at https://opencausalab.github.io/ADAM.
+
+摘要：在像 Minecraft 這樣的開放世界環境中，現有的代理人面臨持續學習結構化知識的挑戰，尤其是因果關係。這些挑戰源於黑盒模型固有的不透明性，以及在訓練期間過度依賴先驗知識，這會損害它們的可解釋性和泛化能力。為此，我們引入了 ADAM，Minecraft 中的一個具身因果代理，它可以自主導航開放世界，感知多模式上下文，學習因果世界知識，並通過終身學習來應對複雜任務。ADAM 由四個關鍵組成部分賦能：1) 一個交互模組，使代理能夠執行動作，同時記錄交互過程；2) 一個因果模型模組，負責從頭開始構建一個不斷增長的因果圖，這增強了可解釋性並減少了對先驗知識的依賴；3) 一個控制器模組，包括一個規劃器、一個執行器和一個記憶池，它使用學習到的因果圖來完成任務；4) 一個感知模組，由多模式大型語言模型提供支援，使 ADAM 能夠像人類玩家一樣感知。大量的實驗表明，ADAM 從頭開始構建了一個幾乎完美的因果圖，實現了高效的任務分解和執行，並具有很強的可解釋性。值得注意的是，在我們修改過的 Minecraft 遊戲中，沒有可用的先驗知識，ADAM 保持了其性能，並表現出顯著的魯棒性和泛化能力。ADAM 開創了一種新穎的範例，以協同方式整合因果方法和具身代理。我們的專案頁面位於 https://opencausalab.github.io/ADAM。
+
+##### **LLM-Forest for Health Tabular Data Imputation**
+2410.21520v1 by Xinrui He, Yikun Ban, Jiaru Zou, Tianxin Wei, Curtiss B. Cook, Jingrui He
+
+Missing data imputation is a critical challenge in tabular datasets,
+especially in healthcare, where data completeness is vital for accurate
+analysis. Large language models (LLMs), trained on vast corpora, have shown
+strong potential in data generation, making them a promising tool for tabular
+data imputation. However, challenges persist in designing effective prompts for
+a finetuning-free process and in mitigating the risk of LLM hallucinations. To
+address these issues, we propose a novel framework, LLM-Forest, which
+introduces a "forest" of few-shot learning LLM "trees" with confidence-based
+weighted voting. This framework is established on a new concept of bipartite
+information graphs to identify high-quality relevant neighboring entries with
+both feature and value granularity. Extensive experiments on four real-world
+healthcare datasets demonstrate the effectiveness and efficiency of LLM-Forest.
+
+摘要：遺失資料推估是表格資料集中的重大挑戰，
+特別是在醫療保健中，資料完整性對於準確分析至關重要。
+大型語言模型 (LLM) 在龐大的語料庫上訓練，在資料產生方面展現出強大的潛力，使其成為表格資料推估的有前途工具。
+然而，在設計有效提示以進行微調免費流程和減輕 LLM 幻覺風險方面仍存在挑戰。
+為了解決這些問題，我們提出一個新的框架，LLM-Forest，它引入了一個「森林」的少量學習 LLM「樹」，並採用基於信心的加權投票。
+這個框架建立在雙分資訊圖的新概念上，以識別具有特徵和值粒度的優質相關鄰近項目。
+在四個真實世界的醫療保健資料集上進行的廣泛實驗證明了 LLM-Forest 的有效性和效率。
+
 ##### **Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**
 2410.21237v1 by Zhantao Yang, Han Zhang, Fangyi Chen, Anudeepsekhar Bolimera, Marios Savvides
 
@@ -278,6 +330,33 @@ demonstrate that our plug-and-play method improves the performance of eight
 basic KGQE models and outperforms two state-of-the-art QPL methods.
 
 摘要：知識圖譜查詢嵌入（KGQE）旨在將一階邏輯（FOL）查詢嵌入到低維 KG 空間中，以便對不完整的 KG 進行複雜推理。為了增強 KGQE 模型的泛化能力，最近的研究整合了各種外部資訊（例如實體類型和關係上下文），以更好地捕捉 FOL 查詢的邏輯語義。整個過程通常稱為查詢模式學習（QPL）。然而，當前的 QPL 方法通常會受到模式實體對齊偏差問題的影響，導致學習到的有缺陷查詢模式限制了 KGQE 模型的效能。為了解決這個問題，我們提出了一個有效的查詢指令解析外掛程式（QIPP），它利用預訓練語言模型（PLM）的上下文感知來從類代碼的查詢指令中擷取潛在查詢模式。與先前 QPL 方法引入的外部資訊不同，我們首先提出類代碼的指令以另類格式表達 FOL 查詢。此格式利用文字變數和巢狀元組來傳達 FOL 查詢中的邏輯語義，作為基於 PLM 的指令編碼器的原料，以取得完整的查詢模式。在此基礎上，我們設計了一個查詢引導的指令解碼器，以將查詢模式調整到 KGQE 模型。為了進一步增強 QIPP 在各種 KGQE 模型中的有效性，我們提出了一個基於壓縮最佳化邊界和自適應正規化元件的查詢模式注入機制，允許 KGQE 模型更有效地利用查詢模式。廣泛的實驗表明，我們的即插即用方法改善了八個基本 KGQE 模型的效能，並優於兩種最先進的 QPL 方法。
+
+##### **Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts**
+2410.21324v1 by Vishesh Prasad, Brian Kim, Nickvash Kani
+
+Recent advances in natural language processing (NLP), particularly with the
+emergence of large language models (LLMs), have significantly enhanced the
+field of textual analysis. However, while these developments have yielded
+substantial progress in analyzing textual data, applying analysis to
+mathematical equations and their relationships within texts has produced mixed
+results. In this paper, we take the initial steps toward understanding the
+dependency relationships between mathematical expressions in STEM articles. Our
+dataset, sourced from a random sampling of the arXiv corpus, contains an
+analysis of 107 published STEM manuscripts whose inter-equation dependency
+relationships have been hand-labeled, resulting in a new object we refer to as
+a derivation graph that summarizes the mathematical content of the manuscript.
+We exhaustively evaluate analytical and NLP-based models to assess their
+capability to identify and extract the derivation relationships for each
+article and compare the results with the ground truth. Our comprehensive
+testing finds that both analytical and NLP models (including LLMs) achieve
+$\sim$40-50% F1 scores for extracting derivation graphs from articles,
+revealing that the recent advances in NLP have not made significant inroads in
+comprehending mathematical texts compared to simpler analytic models. While
+current approaches offer a solid foundation for extracting mathematical
+information, further research is necessary to improve accuracy and depth in
+this area.
+
+摘要：自然語言處理（NLP）的最新進展，特別是大語言模型（LLM）的出現，已顯著增強了文本分析領域。然而，儘管這些發展在分析文本資料方面取得了實質性進展，但將分析應用於數學方程式及其在文本中的關係卻產生了不同的結果。在本文中，我們採取了初步步驟來了解 STEM 文章中數學表達式之間的依賴關係。我們的資料集取自 arXiv 語料庫的隨機抽樣，其中包含對 107 篇已發表的 STEM 手稿的分析，其方程式間的依賴關係已進行手動標記，產生了一個我們稱為衍生圖的新物件，該物件總結了手稿的數學內容。我們徹底評估了分析和基於 NLP 的模型，以評估它們識別和提取每篇文章的衍生關係的能力，並將結果與真實情況進行比較。我們的全面測試發現，分析和 NLP 模型（包括 LLM）在從文章中提取衍生圖方面的 F1 分數均達到 $\sim$40-50%，這表明與更簡單的分析模型相比，NLP 的最新進展並沒有在理解數學文本方面取得重大進展。儘管目前的方法為提取數學資訊提供了堅實的基礎，但仍需要進一步的研究來提高此領域的準確性和深度。
 
 ##### **DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**
 2410.19955v1 by Pengfei Hu, Chang Lu, Fei Wang, Yue Ning
@@ -2295,6 +2374,33 @@ external resources.
 
 摘要：現有的基於檢索的推理方法對於大型語言模型 (LLM) 嚴重依賴非參數知識來源的密度和品質，以提供領域知識和明確的推理鏈。然而，包容性的知識來源很昂貴，有時對於科學或角落領域來說，建立起來也不可行。為了應對這些挑戰，我們引入了圖形啟發真實推斷 (GIVE)，這是一個新穎的推理架構，它整合了參數和非參數記憶體，以增強在非常稀疏的知識圖譜上進行知識檢索和忠實推理過程。透過利用外部結構化知識來激勵 LLM 模擬相關概念之間的相互關聯，我們的技術促進了一種更合乎邏輯且循序漸進的推理方法，類似於專家的問題解決，而不是黃金答案檢索。具體來說，該架構提示 LLM 將查詢分解為關鍵概念和屬性，使用相關實體建構實體群組，並透過探查這些實體群組中節點對之間的潛在關係來建立增強的推理鏈。我們的技術結合了事實和外推關聯，以實現全面的理解和回應產生。在生物醫學和常識問答上對推理密集基準進行的廣泛實驗證明了我們提出的方法的有效性。具體來說，GIVE 使 GPT3.5-turbo 能夠在沒有任何額外訓練成本的情況下優於 GPT4 等進階模型，從而強調了整合結構化資訊和 LLM 內部推理能力對於處理具有有限外部資源的專業任務的效能。
 
+##### **Logic Error Localization in Student Programming Assignments Using Pseudocode and Graph Neural Networks**
+2410.21282v1 by Zhenyu Xu, Kun Zhang, Victor S. Sheng
+
+Pseudocode is extensively used in introductory programming courses to
+instruct computer science students in algorithm design, utilizing natural
+language to define algorithmic behaviors. This learning approach enables
+students to convert pseudocode into source code and execute it to verify their
+algorithms' correctness. This process typically introduces two types of errors:
+syntax errors and logic errors. Syntax errors are often accompanied by compiler
+feedback, which helps students identify incorrect lines. In contrast, logic
+errors are more challenging because they do not trigger compiler errors and
+lack immediate diagnostic feedback, making them harder to detect and correct.
+To address this challenge, we developed a system designed to localize logic
+errors within student programming assignments at the line level. Our approach
+utilizes pseudocode as a scaffold to build a code-pseudocode graph, connecting
+symbols from the source code to their pseudocode counterparts. We then employ a
+graph neural network to both localize and suggest corrections for logic errors.
+Additionally, we have devised a method to efficiently gather logic-error-prone
+programs during the syntax error correction process and compile these into a
+dataset that includes single and multiple line logic errors, complete with
+indices of the erroneous lines. Our experimental results are promising,
+demonstrating a localization accuracy of 99.2% for logic errors within the
+top-10 suspected lines, highlighting the effectiveness of our approach in
+enhancing students' coding proficiency and error correction skills.
+
+摘要：偽代碼廣泛用於入門程式設計課程中，以自然語言定義演算法行為，指導電腦科學學生進行演算法設計。這種學習方法使學生能夠將偽代碼轉換為原始碼並執行它，以驗證其演算法的正確性。此過程通常會產生兩種類型的錯誤：語法錯誤和邏輯錯誤。語法錯誤通常會伴隨著編譯器回饋，這有助於學生識別不正確的行。相比之下，邏輯錯誤更具挑戰性，因為它們不會觸發編譯器錯誤，並且缺乏立即的診斷回饋，這使得它們更難以檢測和更正。為了應對這一挑戰，我們開發了一個系統，旨在將邏輯錯誤定位在學生程式設計作業中的行級。我們的做法利用偽代碼作為建立程式碼偽代碼圖的支架，將原始碼中的符號連接到它們的偽代碼對應項。然後，我們採用圖神經網路來定位邏輯錯誤並建議更正方法。此外，我們還設計了一種方法，可以在語法錯誤更正過程中有效地收集容易發生邏輯錯誤的程式，並將這些程式編譯成一個資料集，其中包括單行和多行邏輯錯誤，以及錯誤行的索引。我們的實驗結果很有希望，證明了在排名前 10 的可疑行中邏輯錯誤的定位準確度為 99.2%，突顯了我們的方法在提高學生的編碼能力和錯誤更正技能方面的有效性。
+
 ##### **Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**
 2410.08299v1 by Haoteng Yin, Rongzhe Wei, Eli Chien, Pan Li
 
@@ -2384,7 +2490,7 @@ and dataset publicly available.
 結論：與不利用 LLM 擴充資料以合成提及的正規化方法相比，LLM 生成的標準化疾病提及可以改善 DEN。消融研究表明，DEN 的效能提升僅部分歸因於 OOD 效能的改善。相同的方法對於改善 DER 的能力有限。我們公開我們的軟體和資料集。</paragraph>
 
 ##### **Benchmarking Agentic Workflow Generation**
-2410.07869v1 by Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
+2410.07869v2 by Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
 
 Large Language Models (LLMs), with their exceptional ability to handle a wide
 range of tasks, have driven significant advancements in tackling reasoning and
@@ -2403,10 +2509,10 @@ agents, with even GPT-4 exhibiting a gap of around 15%. We also train two
 open-source models and evaluate their generalization abilities on held-out
 tasks. Furthermore, we observe that the generated workflows can enhance
 downstream tasks, enabling them to achieve superior performance with less time
-during inference. Code and dataset will be available at
+during inference. Code and dataset are available at
 https://github.com/zjunlp/WorFBench.
 
-摘要：大型語言模型 (LLM) 擁有處理各種任務的非凡能力，推動了解決推理和規劃任務的顯著進展，其中將複雜問題分解為可執行工作流程是此過程中至關重要的一步。現有的工作流程評估框架只專注於整體效能，或受到情境涵蓋範圍受限、工作流程結構簡化和評估標準寬鬆等限制。為此，我們引入了 WorFBench，一個統一的工作流程生成基準，具有多方面的場景和複雜的圖形工作流程結構。此外，我們提出了 WorFEval，一個利用子序列和子圖匹配演算法來準確量化 LLM 代理工作流程生成能力的系統性評估協定。透過對不同類型 LLM 的全面評估，我們發現 LLM 代理的序列規劃能力和圖形規劃能力之間存在明顯的差距，即使是 GPT-4 也表現出約 15% 的差距。我們還訓練了兩個開源模型，並評估了它們在保留任務上的泛化能力。此外，我們觀察到生成的的工作流程可以增強下游任務，讓它們在推理期間以更少的時間獲得更好的效能。程式碼和資料集將在 https://github.com/zjunlp/WorFBench 上提供。
+摘要：大型語言模型（LLM）具備處理各種任務的非凡能力，推動了應對推理和規劃任務的重大進展，其中將複雜問題分解為可執行的流程是此過程中至關重要的一步。現有的工作流程評估框架要么僅關注整體效能，要么存在場景覆蓋受限、工作流程結構過於簡化和評估標準過於寬鬆等局限性。為此，我們引入了 WorFBench，這是一個統一的工作流程生成基準，具有多方面的場景和複雜的圖形工作流程結構。此外，我們還提出了 WorFEval，這是一個系統性的評估協議，利用子序列和子圖匹配演算法來準確量化 LLM 代理的工作流程生成能力。透過對不同類型 LLM 的全面評估，我們發現 LLM 代理的序列規劃能力和圖形規劃能力之間存在明顯差距，即使是 GPT-4 也存在約 15% 的差距。我們還訓練了兩個開源模型，並評估了它們在保留任務上的泛化能力。此外，我們觀察到生成的流程可以增強下游任務，讓它們能夠在推理過程中以更短的時間實現更卓越的效能。程式碼和資料集可在 https://github.com/zjunlp/WorFBench 取得。
 
 ##### **AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**
 2410.19743v1 by Hongru Wang, Rui Wang, Boyang Xue, Heming Xia, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong
@@ -2519,90 +2625,4 @@ solution selection and a Fill-in-the-Middle (FIM) enhancer module for automatic
 code augmentation with relevant comments and docstrings.
 
 摘要：大型語言模型 (LLM) 和程式碼大型語言模型 (CLLM) 已顯著改善程式碼產生，但它們在處理具有挑戰性和複雜的問題時經常會遇到困難。檢索增強產生 (RAG) 透過在推論時間檢索和整合外部知識來解決這個問題。然而，檢索模型經常無法找到最相關的內容，而產生模型由於內容容量有限，在給予無關資料時可能會出現幻覺。我們提出一個新架構，它利用程式設計知識圖 (PKG) 來語意化表示和檢索程式碼。此方法透過專注於最相關的區塊並透過樹狀修剪技術減少無關內容，來啟用細緻的程式碼檢索。PKG 與重新排序機制結合，以透過選擇性整合非 RAG 解決方案來進一步減少幻覺。我們基於 PKG 提出兩種檢索方法，分別是區塊式和函式式，以最佳化內容粒度。在 HumanEval 和 MBPP 基準上的評估顯示，我們的程式碼方法將 pass@1 準確度提高了 20%，並在 MBPP 上將最先進的模型表現提升了 34%。我們的貢獻包括基於 PKG 的檢索、用於增強檢索精確度的樹狀修剪、用於穩健解決方案選擇的重新排序方法，以及用於自動程式碼擴充（包含相關註解和文件字串）的填入中間 (FIM) 增強器模組。
-
-##### **CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free Word Ordered and Morphologically Rich Low Resource Languages**
-2410.06944v1 by Pretam Ray, Jivnesh Sandhan, Amrith Krishna, Pawan Goyal
-
-Neural dependency parsing has achieved remarkable performance for low
-resource morphologically rich languages. It has also been well-studied that
-morphologically rich languages exhibit relatively free word order. This prompts
-a fundamental investigation: Is there a way to enhance dependency parsing
-performance, making the model robust to word order variations utilizing the
-relatively free word order nature of morphologically rich languages? In this
-work, we examine the robustness of graph-based parsing architectures on 7
-relatively free word order languages. We focus on scrutinizing essential
-modifications such as data augmentation and the removal of position encoding
-required to adapt these architectures accordingly. To this end, we propose a
-contrastive self-supervised learning method to make the model robust to word
-order variations. Furthermore, our proposed modification demonstrates a
-substantial average gain of 3.03/2.95 points in 7 relatively free word order
-languages, as measured by the UAS/LAS Score metric when compared to the best
-performing baseline.
-
-摘要：神經依賴解析對於資源較少的形態豐富語言已達到顯著的效能。形態豐富語言展現相對自由的語序，這點也已獲得深入探討。這引發了一項基礎調查：是否有方法可以提升依賴解析效能，讓模型能透過運用形態豐富語言相對自由的語序特質，對語序變化具有穩健性？在這項工作中，我們檢視了 7 種相對自由語序語言中基於圖表的解析架構的穩健性。我們專注於審視必要的修改，例如資料擴充和移除位置編碼，以適當地調整這些架構。為此，我們提出對比自我監督學習方法，讓模型對語序變化具有穩健性。此外，我們提出的修改在 7 種相對自由語序語言中展現了 3.03/2.95 點的顯著平均增益，這是根據 UAS/LAS 分數指標，與效能最佳的基準線進行比較後得出的結果。
-
-##### **Tree of Problems: Improving structured problem solving with compositionality**
-2410.06634v1 by Armel Zebaze, Benoît Sagot, Rachel Bawden
-
-Large Language Models (LLMs) have demonstrated remarkable performance across
-multiple tasks through in-context learning. For complex reasoning tasks that
-require step-by-step thinking, Chain-of-Thought (CoT) prompting has given
-impressive results, especially when combined with self-consistency.
-Nonetheless, some tasks remain particularly difficult for LLMs to solve. Tree
-of Thoughts (ToT) and Graph of Thoughts (GoT) emerged as alternatives, dividing
-the complex problem into paths of subproblems. In this paper, we propose Tree
-of Problems (ToP), a simpler version of ToT, which we hypothesise can work
-better for complex tasks that can be divided into identical subtasks. Our
-empirical results show that our approach outperforms ToT and GoT, and in
-addition performs better than CoT on complex reasoning tasks. All code for this
-paper is publicly available here:
-https://github.com/ArmelRandy/tree-of-problems.
-
-摘要：大型语言模型 (LLM) 已通过情境学习在多项任务中展示出非凡的性能。对于需要循序渐进思考的复杂推理任务，思维链 (CoT) 提示已取得令人印象深刻的结果，尤其是在与自洽性相结合时。尽管如此，LLM 仍然难以解决某些任务。思维树 (ToT) 和思维图 (GoT) 作为替代方案出现，将复杂问题划分为子问题的路径。在本文中，我们提出了思维树 (ToP)，它是 ToT 的一个更简单的版本，我们假设它可以更好地适用于可以划分为相同子任务的复杂任务。我们的实证结果表明，我们的方法优于 ToT 和 GoT，并且在复杂推理任务上的表现也优于 CoT。本文的所有代码在此公开提供：
-https://github.com/ArmelRandy/tree-of-problems。
-
-##### **Multi-Task Program Error Repair and Explanatory Diagnosis**
-2410.07271v1 by Zhenyu Xu, Victor S. Sheng
-
-Program errors can occur in any type of programming, and can manifest in a
-variety of ways, such as unexpected output, crashes, or performance issues. And
-program error diagnosis can often be too abstract or technical for developers
-to understand, especially for beginners. The goal of this paper is to present a
-novel machine-learning approach for Multi-task Program Error Repair and
-Explanatory Diagnosis (mPRED). A pre-trained language model is used to encode
-the source code, and a downstream model is specifically designed to identify
-and repair errors. Programs and test cases will be augmented and optimized from
-several perspectives. Additionally, our approach incorporates a "chain of
-thoughts" method, which enables the models to produce intermediate reasoning
-explanations before providing the final correction. To aid in visualizing and
-analyzing the program structure, we use a graph neural network for program
-structure visualization. Overall, our approach offers a promising approach for
-repairing program errors across different programming languages and providing
-helpful explanations to programmers.
-
-摘要：程式錯誤可能發生在任何類型的程式設計中，並可能以各種方式呈現，例如意外輸出、當機或效能問題。程式錯誤診斷通常對開發人員來說過於抽象或技術性，特別是對於初學者而言。本文的目的是提出一個新穎的多任務程式錯誤修復與解釋性診斷 (mPRED) 機器學習方法。預先訓練的語言模型用於編碼原始碼，而下游模型則專門設計用於識別和修復錯誤。程式和測試案例將從多個角度進行擴充和最佳化。此外，我們的做法包含「思考鏈」方法，使模型能夠在提供最終修正之前產生中間推理說明。為了幫助視覺化和分析程式結構，我們使用圖形神經網路進行程式結構視覺化。總的來說，我們的做法提供了一個有前景的方法，可以用於修復不同程式語言中的程式錯誤，並向程式設計師提供有用的說明。
-
-##### **Counterfactual Causal Inference in Natural Language with Large Language Models**
-2410.06392v1 by Gaël Gendron, Jože M. Rožanec, Michael Witbrock, Gillian Dobbie
-
-Causal structure discovery methods are commonly applied to structured data
-where the causal variables are known and where statistical testing can be used
-to assess the causal relationships. By contrast, recovering a causal structure
-from unstructured natural language data such as news articles contains numerous
-challenges due to the absence of known variables or counterfactual data to
-estimate the causal links. Large Language Models (LLMs) have shown promising
-results in this direction but also exhibit limitations. This work investigates
-LLM's abilities to build causal graphs from text documents and perform
-counterfactual causal inference. We propose an end-to-end causal structure
-discovery and causal inference method from natural language: we first use an
-LLM to extract the instantiated causal variables from text data and build a
-causal graph. We merge causal graphs from multiple data sources to represent
-the most exhaustive set of causes possible. We then conduct counterfactual
-inference on the estimated graph. The causal graph conditioning allows
-reduction of LLM biases and better represents the causal estimands. We use our
-method to show that the limitations of LLMs in counterfactual causal reasoning
-come from prediction errors and propose directions to mitigate them. We
-demonstrate the applicability of our method on real-world news articles.
-
-摘要：因果结构发现方法通常应用于结构化数据，其中因果变量是已知的，并且可以使用统计检验来评估因果关系。相比之下，从新闻文章等非结构化的自然语言数据中恢复因果结构由于缺少已知变量或反事实数据来估计因果关系而包含众多挑战。大型语言模型 (LLM) 在这个方向上显示出有希望的结果，但也表现出局限性。这项工作调查了 LLM 从文本文档构建因果图和执行反事实因果推理的能力。我们提出了一种从自然语言中进行端到端因果结构发现和因果推理的方法：我们首先使用 LLM 从文本数据中提取实例化的因果变量并构建因果图。我们合并来自多个数据源的因果图，以表示可能的最详尽的因果集。然后，我们对估计图进行反事实推理。因果图条件允许减少 LLM 偏差并更好地表示因果估计量。我们使用我们的方法表明 LLM 在反事实因果推理中的局限性来自预测误差，并提出减轻它们的措施。我们在现实世界的新闻文章中展示了我们方法的适用性。
 

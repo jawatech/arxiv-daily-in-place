@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219v1](http://arxiv.org/abs/2410.23219v1)|null|
+|**2024-10-30**|**Revisiting MAE pre-training for 3D medical image segmentation**|Tassilo Wald et.al.|[2410.23132v1](http://arxiv.org/abs/2410.23132v1)|null|
+|**2024-10-30**|**SpiroActive: Active Learning for Efficient Data Acquisition for Spirometry**|Ankita Kumari Jain et.al.|[2410.22950v1](http://arxiv.org/abs/2410.22950v1)|null|
+|**2024-10-30**|**Efficient Feature Extraction and Classification Architecture for MRI-Based Brain Tumor Detection**|Plabon Paul et.al.|[2410.22619v1](http://arxiv.org/abs/2410.22619v1)|null|
+|**2024-10-29**|**Do Large Language Models Align with Core Mental Health Counseling Competencies?**|Viet Cuong Nguyen et.al.|[2410.22446v1](http://arxiv.org/abs/2410.22446v1)|null|
+|**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223v1](http://arxiv.org/abs/2410.22223v1)|null|
 |**2024-10-29**|**Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**|Muhammad Bilal et.al.|[2410.22180v1](http://arxiv.org/abs/2410.22180v1)|null|
 |**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872v1](http://arxiv.org/abs/2410.21872v1)|null|
 |**2024-10-29**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676v1](http://arxiv.org/abs/2410.21676v1)|null|
@@ -16,6 +22,7 @@
 |**2024-10-28**|**Informed Deep Abstaining Classifier: Investigating noise-robust training for diagnostic decision support systems**|Helen Schneider et.al.|[2410.21014v1](http://arxiv.org/abs/2410.21014v1)|null|
 |**2024-10-28**|**Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**|Zhilin Zhang et.al.|[2410.21000v1](http://arxiv.org/abs/2410.21000v1)|null|
 |**2024-10-28**|**Large Language Model Benchmarks in Medical Tasks**|Lawrence K. Q. Yan et.al.|[2410.21348v1](http://arxiv.org/abs/2410.21348v1)|null|
+|**2024-10-28**|**Vascular Segmentation of Functional Ultrasound Images using Deep Learning**|Hana Sebia et.al.|[2410.22365v1](http://arxiv.org/abs/2410.22365v1)|null|
 |**2024-10-27**|**Language Models And A Second Opinion Use Case: The Pocket Professional**|David Noever et.al.|[2410.20636v1](http://arxiv.org/abs/2410.20636v1)|null|
 |**2024-10-27**|**Improving Decision Sparsity**|Yiyang Sun et.al.|[2410.20483v1](http://arxiv.org/abs/2410.20483v1)|null|
 |**2024-10-27**|**MedGo: A Chinese Medical Large Language Model**|Haitao Zhang et.al.|[2410.20428v1](http://arxiv.org/abs/2410.20428v1)|null|
@@ -95,15 +102,171 @@
 |**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763v1](http://arxiv.org/abs/2410.14763v1)|[link](https://github.com/healthylaife/autofair)|
 |**2024-10-18**|**A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles**|Sharv Murgai et.al.|[2410.14347v1](http://arxiv.org/abs/2410.14347v1)|null|
 |**2024-10-18**|**Deep Learning Applications in Medical Image Analysis: Advancements, Challenges, and Future Directions**|Aimina Ali Eli et.al.|[2410.14131v1](http://arxiv.org/abs/2410.14131v1)|null|
-|**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322v1](http://arxiv.org/abs/2410.16322v1)|null|
-|**2024-10-17**|**Identifying High Consideration E-Commerce Search Queries**|Zhiyu Chen et.al.|[2410.13951v1](http://arxiv.org/abs/2410.13951v1)|null|
-|**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948v1](http://arxiv.org/abs/2410.13948v1)|null|
-|**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831v1](http://arxiv.org/abs/2410.13831v1)|[link](https://github.com/ml-jku/disparate-benefits)|
-|**2024-10-17**|**Scaling Wearable Foundation Models**|Girish Narayanswamy et.al.|[2410.13638v1](http://arxiv.org/abs/2410.13638v1)|null|
-|**2024-10-17**|**MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**|Yakun Zhu et.al.|[2410.13610v1](http://arxiv.org/abs/2410.13610v1)|null|
-|**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592v1](http://arxiv.org/abs/2410.13592v1)|null|
 
 #### Abstracts
+##### **DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**
+2410.23219v1 by Yitong Li, Morteza Ghahremani, Youssef Wally, Christian Wachinger
+
+Diagnosing dementia, particularly for Alzheimer's Disease (AD) and
+frontotemporal dementia (FTD), is complex due to overlapping symptoms. While
+magnetic resonance imaging (MRI) and positron emission tomography (PET) data
+are critical for the diagnosis, integrating these modalities in deep learning
+faces challenges, often resulting in suboptimal performance compared to using
+single modalities. Moreover, the potential of multi-modal approaches in
+differential diagnosis, which holds significant clinical importance, remains
+largely unexplored. We propose a novel framework, DiaMond, to address these
+issues with vision Transformers to effectively integrate MRI and PET. DiaMond
+is equipped with self-attention and a novel bi-attention mechanism that
+synergistically combine MRI and PET, alongside a multi-modal normalization to
+reduce redundant dependency, thereby boosting the performance. DiaMond
+significantly outperforms existing multi-modal methods across various datasets,
+achieving a balanced accuracy of 92.4% in AD diagnosis, 65.2% for AD-MCI-CN
+classification, and 76.5% in differential diagnosis of AD and FTD. We also
+validated the robustness of DiaMond in a comprehensive ablation study. The code
+is available at https://github.com/ai-med/DiaMond.
+
+摘要：診斷失智症，尤其是阿茲海默症 (AD) 和額顳葉型失智症 (FTD)，由於症狀重疊，因此很複雜。雖然磁共振造影 (MRI) 和正子斷層掃描 (PET) 數據對於診斷至關重要，但將這些方式整合到深度學習中會面臨挑戰，通常會導致與使用單一方式相比性能不佳。此外，多模式方法在鑑別診斷中的潛力具有重要的臨床意義，但仍未得到充分探索。我們提出一個新的框架 DiaMond，以解決這些問題，使用視覺轉換器有效整合 MRI 和 PET。DiaMond 具備自注意力和新穎的雙注意力機制，可以協同結合 MRI 和 PET，並採用多模式正規化來減少冗餘依賴，從而提升性能。DiaMond 在各種數據集中的表現明顯優於現有的多模式方法，在 AD 診斷中達到 92.4% 的平衡準確度，在 AD-MCI-CN 分類中達到 65.2%，在 AD 和 FTD 的鑑別診斷中達到 76.5%。我們還在全面的消融研究中驗證了 DiaMond 的穩健性。程式碼可在 https://github.com/ai-med/DiaMond 取得。
+
+##### **Revisiting MAE pre-training for 3D medical image segmentation**
+2410.23132v1 by Tassilo Wald, Constantin Ulrich, Stanislav Lukyanenko, Andrei Goncharov, Alberto Paderno, Leander Maerkisch, Paul F. Jäger, Klaus Maier-Hein
+
+Self-Supervised Learning (SSL) presents an exciting opportunity to unlock the
+potential of vast, untapped clinical datasets, for various downstream
+applications that suffer from the scarcity of labeled data. While SSL has
+revolutionized fields like natural language processing and computer vision,
+their adoption in 3D medical image computing has been limited by three key
+pitfalls: Small pre-training dataset sizes, architectures inadequate for 3D
+medical image analysis, and insufficient evaluation practices. We address these
+issues by i) leveraging a large-scale dataset of 44k 3D brain MRI volumes and
+ii) using a Residual Encoder U-Net architecture within the state-of-the-art
+nnU-Net framework. iii) A robust development framework, incorporating 5
+development and 8 testing brain MRI segmentation datasets, allowed
+performance-driven design decisions to optimize the simple concept of Masked
+Auto Encoders (MAEs) for 3D CNNs. The resulting model not only surpasses
+previous SSL methods but also outperforms the strong nnU-Net baseline by an
+average of approximately 3 Dice points. Furthermore, our model demonstrates
+exceptional stability, achieving the highest average rank of 2 out of 7
+methods, compared to the second-best method's mean rank of 3.
+
+摘要：自监督学习 (SSL) 为解锁大量未开发临床数据集的潜力提供了一个激动人心的机会，用于各种下游应用程序，这些应用程序因标记数据稀缺而受到影响。虽然 SSL 已彻底改变了自然语言处理和计算机视觉等领域，但其在 3D 医学图像计算中的采用受到三个主要缺陷的限制：小型预训练数据集大小、不适用于 3D 医学图像分析的架构以及评估实践不足。我们通过以下方式解决这些问题：i) 利用 44k 3D 大脑 MRI 体积的大规模数据集，以及 ii) 在最先进的 nnU-Net 框架内使用残差编码器 U-Net 架构。iii) 一个稳健的开发框架，包含 5 个开发和 8 个测试大脑 MRI 分割数据集，允许基于性能的设计决策来优化 3D CNN 的掩蔽自动编码器 (MAE) 的简单概念。由此产生的模型不仅超越了之前的 SSL 方法，而且比强大的 nnU-Net 基线平均高出大约 3 个骰子点。此外，我们的模型表现出非凡的稳定性，在 7 种方法中达到 2 的最高平均排名，而第二好的方法的平均排名为 3。
+
+##### **SpiroActive: Active Learning for Efficient Data Acquisition for Spirometry**
+2410.22950v1 by Ankita Kumari Jain, Nitish Sharma, Madhav Kanda, Nipun Batra
+
+Respiratory illnesses are a significant global health burden. Respiratory
+illnesses, primarily Chronic obstructive pulmonary disease (COPD), is the
+seventh leading cause of poor health worldwide and the third leading cause of
+death worldwide, causing 3.23 million deaths in 2019, necessitating early
+identification and diagnosis for effective mitigation. Among the diagnostic
+tools employed, spirometry plays a crucial role in detecting respiratory
+abnormalities. However, conventional clinical spirometry methods often entail
+considerable costs and practical limitations like the need for specialized
+equipment, trained personnel, and a dedicated clinical setting, making them
+less accessible. To address these challenges, wearable spirometry technologies
+have emerged as promising alternatives, offering accurate, cost-effective, and
+convenient solutions. The development of machine learning models for wearable
+spirometry heavily relies on the availability of high-quality ground truth
+spirometry data, which is a laborious and expensive endeavor. In this research,
+we propose using active learning, a sub-field of machine learning, to mitigate
+the challenges associated with data collection and labeling. By strategically
+selecting samples from the ground truth spirometer, we can mitigate the need
+for resource-intensive data collection. We present evidence that models trained
+on small subsets obtained through active learning achieve comparable/better
+results than models trained on the complete dataset.
+
+摘要：呼吸道疾病是全球重大的健康負擔。呼吸道疾病，主要是慢性阻塞性肺病 (COPD)，是全球第七大不良健康原因，也是全球第三大死亡原因，2019 年造成 323 萬人死亡，需要及早識別和診斷以有效減輕症狀。在所採用的診斷工具中，肺活量測量在檢測呼吸道異常方面發揮著至關重要的作用。然而，傳統的臨床肺活量測量方法通常需要大量的成本和實際限制，例如需要專業設備、訓練有素的人員和專門的臨床環境，這使得它們的可及性較低。為了應對這些挑戰，可穿戴式肺活量測量技術已成為有希望的替代方案，提供準確、經濟高效且便利的解決方案。可穿戴式肺活量測量機器學習模型的開發在很大程度上依賴於高品質的基準肺活量測量數據，這是一項費時且昂貴的工作。在這項研究中，我們建議使用主動學習（機器學習的一個子領域）來減輕與數據收集和標記相關的挑戰。通過從基準肺活量計中策略性地選擇樣本，我們可以減少對資源密集型數據收集的需求。我們提供的證據表明，在通過主動學習獲得的小子集中訓練的模型，獲得的結果與在完整數據集上訓練的模型相當/更好。
+
+##### **Efficient Feature Extraction and Classification Architecture for MRI-Based Brain Tumor Detection**
+2410.22619v1 by Plabon Paul, Md. Nazmul Islam, Fazle Rafsani, Pegah Khorasani, Shovito Barua Soumma
+
+Uncontrolled cell division in the brain is what gives rise to brain tumors.
+If the tumor size increases by more than half, there is little hope for the
+patient's recovery. This emphasizes the need of rapid and precise brain tumor
+diagnosis. When it comes to analyzing, diagnosing, and planning therapy for
+brain tumors, MRI imaging plays a crucial role. A brain tumor's development
+history is crucial information for doctors to have. When it comes to
+distinguishing between human soft tissues, MRI scans are superior. In order to
+get reliable classification results from MRI scans quickly, deep learning is
+one of the most practical methods. Early human illness diagnosis has been
+demonstrated to be more accurate when deep learning methods are used. In the
+case of diagnosing a brain tumor, when even a little misdiagnosis might have
+serious consequences, accuracy is especially important. Disclosure of brain
+tumors in medical images is still a difficult task. Brain MRIs are notoriously
+imprecise in revealing the presence or absence of tumors. Using MRI scans of
+the brain, a Convolutional Neural Network (CNN) was trained to identify the
+presence of a tumor in this research. Results from the CNN model showed an
+accuracy of 99.17%. The CNN model's characteristics were also retrieved. In
+order to evaluate the CNN model's capability for processing images, we applied
+the features via the following machine learning models: KNN, Logistic
+regression, SVM, Random Forest, Naive Bayes, and Perception. CNN and machine
+learning models were also evaluated using the standard metrics of Precision,
+Recall, Specificity, and F1 score. The significance of the doctor's diagnosis
+enhanced the accuracy of the CNN model's assistance in identifying the
+existence of tumor and treating the patient.
+
+摘要：腦部細胞分裂失控，就會產生腦瘤。
+如果腫瘤大小增加超過一半，病患康復的希望很渺茫。這強調了快速且精準診斷腦瘤的必要性。
+在分析、診斷和規劃腦瘤治療時，核磁共振造影扮演了至關重要的角色。腦瘤的發展史是醫生必備的重要資訊。
+在區分人體軟組織時，核磁共振掃描的表現優異。為了從核磁共振掃描中快速取得可靠的分類結果，深度學習是最實用的方法之一。
+研究顯示，使用深度學習方法可以更準確地診斷人類早期疾病。在診斷腦瘤時，即使是輕微的誤診都可能造成嚴重後果，因此準確性特別重要。
+在醫學影像中揭露腦瘤仍然是一項艱難的任務。腦部核磁共振造影在揭露腫瘤的存在與否方面出了名的不精確。
+本研究訓練了一個卷積神經網路 (CNN)，使用腦部核磁共振掃描來辨識腫瘤的存在。CNN 模型的結果顯示準確度為 99.17%。CNN 模型的特徵也已擷取。
+為了評估 CNN 模型處理影像的能力，我們透過以下機器學習模型套用這些特徵：KNN、邏輯迴歸、SVM、隨機森林、樸素貝氏和感知器。CNN 和機器學習模型也使用精準度、召回率、特異性和 F1 分數等標準指標進行評估。
+醫生的診斷意義提升了 CNN 模型在協助辨識腫瘤存在和治療病患方面的準確性。
+
+##### **Do Large Language Models Align with Core Mental Health Counseling Competencies?**
+2410.22446v1 by Viet Cuong Nguyen, Mohammad Taher, Dongwan Hong, Vinicius Konkolics Possobom, Vibha Thirunellayi Gopalakrishnan, Ekta Raj, Zihang Li, Heather J. Soled, Michael L. Birnbaum, Srijan Kumar, Munmun De Choudhury
+
+The rapid evolution of Large Language Models (LLMs) offers promising
+potential to alleviate the global scarcity of mental health professionals.
+However, LLMs' alignment with essential mental health counseling competencies
+remains understudied. We introduce CounselingBench, a novel NCMHCE-based
+benchmark evaluating LLMs across five key mental health counseling
+competencies. Testing 22 general-purpose and medical-finetuned LLMs, we find
+frontier models exceed minimum thresholds but fall short of expert-level
+performance, with significant variations: they excel in Intake, Assessment &
+Diagnosis yet struggle with Core Counseling Attributes and Professional
+Practice & Ethics. Medical LLMs surprisingly underperform generalist models
+accuracy-wise, while at the same time producing slightly higher-quality
+justifications but making more context-related errors. Our findings highlight
+the complexities of developing AI systems for mental health counseling,
+particularly for competencies requiring empathy and contextual understanding.
+We found that frontier LLMs perform at a level exceeding the minimal required
+level of aptitude for all key mental health counseling competencies, but fall
+short of expert-level performance, and that current medical LLMs do not
+significantly improve upon generalist models in mental health counseling
+competencies. This underscores the critical need for specialized, mental health
+counseling-specific fine-tuned LLMs that rigorously aligns with core
+competencies combined with appropriate human supervision before any responsible
+real-world deployment can be considered.
+
+摘要：大型語言模型 (LLM) 的快速發展，提供了緩解全球心理健康專業人員短缺的潛在希望。
+然而，LLM 與基本心理健康諮商能力的對齊程度，仍未獲得充分研究。我們引入了 CounselingBench，一個基於 NCMHCE 的新基準，用於評估 LLM 在五項關鍵心理健康諮商能力上的表現。我們測試了 22 個通用和醫學微調的 LLM，發現前沿模型超過了最低門檻，但未達到專家級別的表現，且差異顯著：它們在「攝取、評估和診斷」方面表現出色，但在「核心諮商屬性」和「專業實務和倫理」方面卻有困難。令人驚訝的是，醫療 LLM 在準確性方面表現不如通用模型，但同時產生的理由品質略高，但產生更多與脈絡相關的錯誤。我們的研究結果突出了為心理健康諮商開發 AI 系統的複雜性，特別是對於需要同理心和脈絡理解的能力。我們發現，前沿 LLM 的表現水平超過了所有關鍵心理健康諮商能力所需的最低能力水準，但未達到專家級別的表現，而且目前的醫療 LLM 並未顯著改善通用模型在心理健康諮商能力上的表現。這強調了對專門的、針對心理健康諮詢的微調 LLM 的迫切需求，這些 LLM 必須嚴格符合核心能力，並結合適當的人類監督，才能考慮任何負責任的實際部署。
+
+##### **MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**
+2410.22223v1 by Ovais Iqbal Shah, Danish Raza Rizvi, Aqib Nazir Mir
+
+Medical image segmentation is pivotal in healthcare, enhancing diagnostic
+accuracy, informing treatment strategies, and tracking disease progression.
+This process allows clinicians to extract critical information from visual
+data, enabling personalized patient care. However, developing neural networks
+for segmentation remains challenging, especially when preserving image
+resolution, which is essential in detecting subtle details that influence
+diagnoses. Moreover, the lack of transparency in these deep learning models has
+slowed their adoption in clinical practice. Efforts in model interpretability
+are increasingly focused on making these models' decision-making processes more
+transparent. In this paper, we introduce MAPUNetR, a novel architecture that
+synergizes the strengths of transformer models with the proven U-Net framework
+for medical image segmentation. Our model addresses the resolution preservation
+challenge and incorporates attention maps highlighting segmented regions,
+increasing accuracy and interpretability. Evaluated on the BraTS 2020 dataset,
+MAPUNetR achieved a dice score of 0.88 and a dice coefficient of 0.92 on the
+ISIC 2018 dataset. Our experiments show that the model maintains stable
+performance and potential as a powerful tool for medical image segmentation in
+clinical practice.
+
+摘要：醫學影像分割在醫療保健中至關重要，能提升診斷準確度、提供治療策略資訊，並追蹤疾病進程。此程序讓臨床醫生能從視覺資料中萃取關鍵資訊，進而提供個人化的患者照護。然而，開發用於分割的神經網路仍具挑戰性，特別是在保留影像解析度時，這對於偵測影響診斷的細微細節至關重要。此外，這些深度學習模型缺乏透明度，導致其在臨床實務中的採用速度變慢。模型可解釋性的努力越來越專注於讓這些模型的決策過程更透明。在本文中，我們介紹了 MAPUNetR，這是一種新穎的架構，結合了Transformer模型的優點和已證實的 U-Net 框架，用於醫學影像分割。我們的模型解決了解析度保留的挑戰，並結合了突顯分割區域的注意力圖，提高了準確度和可解釋性。在 BraTS 2020 資料集上進行評估，MAPUNetR 在 ISIC 2018 資料集上達到了 0.88 的骰子係數和 0.92 的骰子系數。我們的實驗表明，該模型在臨床實務中作為醫學影像分割的強大工具，具有穩定的效能和潛力。
+
 ##### **Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**
 2410.22180v1 by Muhammad Bilal, Ameer Hamza, Nadia Malik
 
@@ -462,6 +625,36 @@ future research in the application of LLMs in medicine, contributing to the
 evolving field of medical artificial intelligence.
 
 摘要：隨著大型語言模型 (LLM) 在醫療領域的應用日益廣泛，使用基準資料集評估這些模型的效能已變得至關重要。本文對用於醫療 LLM 任務的各種基準資料集進行了全面的調查。這些資料集跨越多種模式，包括文字、影像和多模態基準，重點關注電子健康紀錄 (EHR)、醫病對話、醫療問答和醫療影像標題等醫療知識的不同面向。調查按模式對資料集進行分類，討論它們的重要性、資料結構和對用於診斷、報告生成和預測性決策支援等臨床任務的 LLM 開發的影響。主要基準包括 MIMIC-III、MIMIC-IV、BioASQ、PubMedQA 和 CheXpert，它們促进了醫療報告生成、臨床摘要和合成資料生成等任務的進展。本文總結了利用這些基準來推進多模態醫療智能的挑戰和機遇，強調了對具有更大語言多樣性、結構化組學資料和創新合成方法的資料集的需求。這項工作也為 LLM 在醫學中的應用提供了未來研究的基礎，為醫療人工智慧的演進領域做出貢獻。
+
+##### **Vascular Segmentation of Functional Ultrasound Images using Deep Learning**
+2410.22365v1 by Hana Sebia, Thomas Guyet, Mickaël Pereira, Marco Valdebenito, Hugues Berry, Benjamin Vidal
+
+Segmentation of medical images is a fundamental task with numerous
+applications. While MRI, CT, and PET modalities have significantly benefited
+from deep learning segmentation techniques, more recent modalities, like
+functional ultrasound (fUS), have seen limited progress. fUS is a non invasive
+imaging method that measures changes in cerebral blood volume (CBV) with high
+spatio-temporal resolution. However, distinguishing arterioles from venules in
+fUS is challenging due to opposing blood flow directions within the same pixel.
+Ultrasound localization microscopy (ULM) can enhance resolution by tracking
+microbubble contrast agents but is invasive, and lacks dynamic CBV
+quantification. In this paper, we introduce the first deep learning-based
+segmentation tool for fUS images, capable of differentiating signals from
+different vascular compartments, based on ULM automatic annotation and enabling
+dynamic CBV quantification. We evaluate various UNet architectures on fUS
+images of rat brains, achieving competitive segmentation performance, with 90%
+accuracy, a 71% F1 score, and an IoU of 0.59, using only 100 temporal frames
+from a fUS stack. These results are comparable to those from tubular structure
+segmentation in other imaging modalities. Additionally, models trained on
+resting-state data generalize well to images captured during visual
+stimulation, highlighting robustness. This work offers a non-invasive,
+cost-effective alternative to ULM, enhancing fUS data interpretation and
+improving understanding of vessel function. Our pipeline shows high linear
+correlation coefficients between signals from predicted and actual compartments
+in both cortical and deeperregions, showcasing its ability to accurately
+capture blood flow dynamics.
+
+摘要：<paragraph>醫學影像的分割是項基礎任務，有許多應用。雖然 MRI、CT 和 PET 等方式已從深度學習分割技術中受益良多，但像功能性超音波 (fUS) 等較新的方式進展有限。fUS 是一種非侵入性的影像方法，可測量腦血容量 (CBV) 的變化，具有高時空解析度。然而，由於同一個像素中血流方向相反，因此在 fUS 中區分小動脈和小靜脈具有挑戰性。超音波定位顯微鏡 (ULM) 可以透過追蹤微氣泡對比劑來增強解析度，但具有侵入性，且缺乏動態 CBV 量化。在本文中，我們介紹了第一個基於深度學習的 fUS 影像分割工具，它能夠根據 ULM 自動註解區分不同血管區室的訊號，並啟用動態 CBV 量化。我們在老鼠大腦的 fUS 影像上評估了各種 UNet 架構，僅使用 fUS 堆疊中的 100 個時間幀，就達到了具有競爭力的分割效能，準確率為 90%，F1 分數為 71%，IoU 為 0.59。這些結果與其他影像方式中管狀結構分割的結果相當。此外，在靜止狀態資料上訓練的模型可以很好地推廣到在視覺刺激期間擷取的影像，突顯了其穩健性。這項工作提供了一個非侵入性、具有成本效益的 ULM 替代方案，增強了 fUS 資料的詮釋，並改善了對血管功能的理解。我們的管線在預測區室和實際區室的訊號之間顯示出很高的線性相關係數，無論是在皮質還是深層區域，都展示了其準確捕捉血流動態的能力。</paragraph>
 
 ##### **Language Models And A Second Opinion Use Case: The Pocket Professional**
 2410.20636v1 by David Noever
@@ -2438,165 +2631,4 @@ cardiology, where they aid in illness detection, classification, and
 segmentation tasks......
 
 摘要：醫療影像分析已成為現代醫療保健中不可或缺的元素，協助醫師快速且精確地進行診斷。深度學習（人工智慧的子集）的最新突破顯著地革新了醫學影像的分析，提升臨床程序的準確性和效率。深度學習演算法，尤其是卷積神經網路（CNN），已展現出從多維度醫學影像（包括 MRI、CT 和 X 光掃描）中自主學習特徵的卓越能力，無需手動特徵萃取。這些模型已應用於多種醫學領域，包括病理學、放射學、眼科學和心臟病學，協助疾病偵測、分類和分割任務......
-
-##### **SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**
-2410.16322v1 by Qiming Guo, Jinwen Tang, Wenbo Sun, Haoteng Tang, Yi Shang, Wenlu Wang
-
-Mental health issues significantly impact individuals' daily lives, yet many
-do not receive the help they need even with available online resources. This
-study aims to provide diverse, accessible, stigma-free, personalized, and
-real-time mental health support through cutting-edge AI technologies. It makes
-the following contributions: (1) Conducting an extensive survey of recent
-mental health support methods to identify prevalent functionalities and unmet
-needs. (2) Introducing SouLLMate, an adaptive LLM-driven system that integrates
-LLM technologies, Chain, Retrieval-Augmented Generation (RAG), prompt
-engineering, and domain knowledge. This system offers advanced features such as
-Risk Detection and Proactive Guidance Dialogue, and utilizes RAG for
-personalized profile uploads and Conversational Information Extraction. (3)
-Developing novel evaluation approaches for preliminary assessments and risk
-detection via professionally annotated interview data and real-life suicide
-tendency data. (4) Proposing the Key Indicator Summarization (KIS), Proactive
-Questioning Strategy (PQS), and Stacked Multi-Model Reasoning (SMMR) methods to
-enhance model performance and usability through context-sensitive response
-adjustments, semantic coherence evaluations, and enhanced accuracy of
-long-context reasoning in language models. This study contributes to advancing
-mental health support technologies, potentially improving the accessibility and
-effectiveness of mental health care globally.
-
-摘要：心理健康問題對個人的日常生活造成重大影響，但即使有現成的線上資源，許多人還是無法獲得所需的協助。本研究旨在透過尖端的 AI 技術提供多元、容易取得、無污名化、個人化且即時的諮詢服務。它做出了以下貢獻：(1) 進行近期心理健康支持方法的廣泛調查，以找出普遍的功能和未滿足的需求。(2) 介紹 SouLLMate，一個適應性的 LLM 驅動系統，它整合了 LLM 技術、Chain、檢索擴充生成 (RAG)、提示工程和領域知識。此系統提供進階功能，例如風險偵測和主動指導對話，並利用 RAG 進行個人化個人資料上傳和對話式資訊萃取。(3) 開發新的評估方法，透過專業註解的訪談資料和真實的自殺傾向資料進行初步評估和風險偵測。(4) 提出關鍵指標摘要 (KIS)、主動提問策略 (PQS) 和堆疊多模型推理 (SMMR) 方法，透過情境敏感的回應調整、語意一致性評估和增強語言模型中長情境推理的準確度，以提升模型效能和可用性。本研究有助於促進心理健康支持技術，有潛力提升全球心理健護的可近性和有效性。
-
-##### **Identifying High Consideration E-Commerce Search Queries**
-2410.13951v1 by Zhiyu Chen, Jason Choi, Besnik Fetahu, Shervin Malmasi
-
-In e-commerce, high consideration search missions typically require careful
-and elaborate decision making, and involve a substantial research investment
-from customers. We consider the task of identifying High Consideration (HC)
-queries. Identifying such queries enables e-commerce sites to better serve user
-needs using targeted experiences such as curated QA widgets that help users
-reach purchase decisions. We explore the task by proposing an Engagement-based
-Query Ranking (EQR) approach, focusing on query ranking to indicate potential
-engagement levels with query-related shopping knowledge content during product
-search. Unlike previous studies on predicting trends, EQR prioritizes
-query-level features related to customer behavior, finance, and catalog
-information rather than popularity signals. We introduce an accurate and
-scalable method for EQR and present experimental results demonstrating its
-effectiveness. Offline experiments show strong ranking performance. Human
-evaluation shows a precision of 96% for HC queries identified by our model. The
-model was commercially deployed, and shown to outperform human-selected queries
-in terms of downstream customer impact, as measured through engagement.
-
-摘要：在電子商務中，高考慮搜尋任務通常需要謹慎而精細的決策制定，並涉及客戶大量的研究投資。我們考慮了識別高考慮 (HC) 查詢的任務。識別此類查詢能使電子商務網站使用目標體驗（例如協助使用者做出購買決策的精選問答小工具）來更好地滿足使用者需求。我們透過提出以參與為基礎的查詢排名 (EQR) 方法來探索此任務，專注於查詢排名以指出在產品搜尋期間與查詢相關的購物知識內容的潛在參與層級。與先前預測趨勢的研究不同，EQR 優先考慮與客戶行為、財務和目錄資訊相關的查詢層級功能，而不是熱門度訊號。我們介紹了一種準確且可擴充的 EQR 方法，並展示了其有效性的實驗結果。離線實驗顯示出強大的排名效能。人工評估顯示我們的模型識別出的 HC 查詢有 96% 的準確度。該模型已商業化部署，並顯示在參與度衡量標準下，其效能優於人工選取的查詢，以影響下游客戶。
-
-##### **The KnowWhereGraph Ontology**
-2410.13948v1 by Cogan Shimizu, Shirly Stephe, Adrita Barua, Ling Cai, Antrea Christou, Kitty Currier, Abhilekha Dalal, Colby K. Fisher, Pascal Hitzler, Krzysztof Janowicz, Wenwen Li, Zilong Liu, Mohammad Saeid Mahdavinejad, Gengchen Mai, Dean Rehberger, Mark Schildhauer, Meilin Shi, Sanaz Saki Norouzi, Yuanyuan Tian, Sizhe Wang, Zhangyu Wang, Joseph Zalewski, Lu Zhou, Rui Zhu
-
-KnowWhereGraph is one of the largest fully publicly available geospatial
-knowledge graphs. It includes data from 30 layers on natural hazards (e.g.,
-hurricanes, wildfires), climate variables (e.g., air temperature,
-precipitation), soil properties, crop and land-cover types, demographics, and
-human health, various place and region identifiers, among other themes. These
-have been leveraged through the graph by a variety of applications to address
-challenges in food security and agricultural supply chains; sustainability
-related to soil conservation practices and farm labor; and delivery of
-emergency humanitarian aid following a disaster. In this paper, we introduce
-the ontology that acts as the schema for KnowWhereGraph. This broad overview
-provides insight into the requirements and design specifications for the graph
-and its schema, including the development methodology (modular ontology
-modeling) and the resources utilized to implement, materialize, and deploy
-KnowWhereGraph with its end-user interfaces and public query SPARQL endpoint.
-
-摘要：KnowWhereGraph 是最大的完全公開可用的地理空間知識圖譜之一。它包含來自 30 層的自然災害（例如颶風、野火）、氣候變量（例如氣溫、降水）、土壤特性、作物和土地覆蓋類型、人口統計和人類健康、各種地方和區域識別符等主題的數據。這些數據已通過圖表被各種應用程式利用，以應對糧食安全和農業供應鏈中的挑戰；與土壤保育措施和農場勞動力相關的可持續性；以及在災害發生後提供緊急人道主義援助。在本文中，我們介紹了作為 KnowWhereGraph 架構的本体。這個廣泛的概述提供了對圖表及其架構的要求和設計規範的見解，包括開發方法（模組化本体建模）和用於實作、具體化和部署 KnowWhereGraph 及其最終使用者介面和公開查詢 SPARQL 端點的資源。
-
-##### **The Disparate Benefits of Deep Ensembles**
-2410.13831v1 by Kajetan Schweighofer, Adrian Arnaiz-Rodriguez, Sepp Hochreiter, Nuria Oliver
-
-Ensembles of Deep Neural Networks, Deep Ensembles, are widely used as a
-simple way to boost predictive performance. However, their impact on
-algorithmic fairness is not well understood yet. Algorithmic fairness
-investigates how a model's performance varies across different groups,
-typically defined by protected attributes such as age, gender, or race. In this
-work, we investigate the interplay between the performance gains from Deep
-Ensembles and fairness. Our analysis reveals that they unevenly favor different
-groups in what we refer to as a disparate benefits effect. We empirically
-investigate this effect with Deep Ensembles applied to popular facial analysis
-and medical imaging datasets, where protected group attributes are given and
-find that it occurs for multiple established group fairness metrics, including
-statistical parity and equal opportunity. Furthermore, we identify the
-per-group difference in predictive diversity of ensemble members as the
-potential cause of the disparate benefits effect. Finally, we evaluate
-different approaches to reduce unfairness due to the disparate benefits effect.
-Our findings show that post-processing is an effective method to mitigate this
-unfairness while preserving the improved performance of Deep Ensembles.
-
-摘要：深度神经網路的集合，深度集合，被廣泛用作提升預測效能的簡單方法。然而，它們對演算法公平性的影響尚未被充分理解。演算法公平性探討模型的效能如何因不同群組而異，這些群組通常由受保護的屬性（例如年齡、性別或種族）定義。在這項工作中，我們探討了深度集合的效能提升與公平性之間的交互作用。我們的分析顯示，它們不均勻地偏好不同群組，我們稱之為不同的好處效應。我們以應用於流行面部分析和醫學影像資料集的深度集合，對此效應進行實證探討，其中提供了受保護群組屬性，並發現它發生在多個已建立的群組公平性指標中，包括統計同等性和機會均等。此外，我們將預測多樣性在集合成員中的群組差異，視為不同的好處效應的潛在原因。最後，我們評估了不同的方法，以減少由於不同的好處效應而導致的不公平性。我們的研究結果表明，後處理是一種有效的方法，可以減輕這種不公平性，同時保留深度集合的效能提升。
-
-##### **Scaling Wearable Foundation Models**
-2410.13638v1 by Girish Narayanswamy, Xin Liu, Kumar Ayush, Yuzhe Yang, Xuhai Xu, Shun Liao, Jake Garrison, Shyam Tailor, Jake Sunshine, Yun Liu, Tim Althoff, Shrikanth Narayanan, Pushmeet Kohli, Jiening Zhan, Mark Malhotra, Shwetak Patel, Samy Abdel-Ghaffar, Daniel McDuff
-
-Wearable sensors have become ubiquitous thanks to a variety of health
-tracking features. The resulting continuous and longitudinal measurements from
-everyday life generate large volumes of data; however, making sense of these
-observations for scientific and actionable insights is non-trivial. Inspired by
-the empirical success of generative modeling, where large neural networks learn
-powerful representations from vast amounts of text, image, video, or audio
-data, we investigate the scaling properties of sensor foundation models across
-compute, data, and model size. Using a dataset of up to 40 million hours of
-in-situ heart rate, heart rate variability, electrodermal activity,
-accelerometer, skin temperature, and altimeter per-minute data from over
-165,000 people, we create LSM, a multimodal foundation model built on the
-largest wearable-signals dataset with the most extensive range of sensor
-modalities to date. Our results establish the scaling laws of LSM for tasks
-such as imputation, interpolation and extrapolation, both across time and
-sensor modalities. Moreover, we highlight how LSM enables sample-efficient
-downstream learning for tasks like exercise and activity recognition.
-
-摘要：<paragraph>穿戴式感測器已變得無所不在，這要歸功於各種健康追蹤功能。從日常生活中產生的連續且長期的測量會產生大量的資料；然而，要讓這些觀察結果產生科學且可行的見解並非易事。受到生成式建模的經驗成功啟發，其中大型神經網路從大量的文字、影像、影片或音訊資料中學習強大的表徵，我們研究了感測器基礎模型在運算、資料和模型大小方面的規模化屬性。我們使用一個資料集，其中包含來自超過 165,000 人的長達 4,000 萬小時的現場心率、心率變異性、皮膚電活動、加速度計、皮膚溫度和每分鐘高度計資料，建立了 LSM，這是一個多模態基礎模型，建構在迄今為止具有最廣泛感測器模式的最大穿戴式訊號資料集上。我們的結果建立了 LSM 的規模化定律，適用於時間和感測器模式的任務，例如填補、內插和外插。此外，我們強調了 LSM 如何為運動和活動辨識等任務啟用樣本有效率的下游學習。</paragraph>
-
-##### **MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**
-2410.13610v1 by Yakun Zhu, Shaohang Wei, Xu Wang, Kui Xue, Xiaofan Zhang, Shaoting Zhang
-
-Integrating tools into Large Language Models (LLMs) has facilitated the
-widespread application. Despite this, in specialized downstream task contexts,
-reliance solely on tools is insufficient to fully address the complexities of
-the real world. This particularly restricts the effective deployment of LLMs in
-fields such as medicine. In this paper, we focus on the downstream tasks of
-medical calculators, which use standardized tests to assess an individual's
-health status. We introduce MeNTi, a universal agent architecture for LLMs.
-MeNTi integrates a specialized medical toolkit and employs meta-tool and nested
-calling mechanisms to enhance LLM tool utilization. Specifically, it achieves
-flexible tool selection and nested tool calling to address practical issues
-faced in intricate medical scenarios, including calculator selection, slot
-filling, and unit conversion. To assess the capabilities of LLMs for
-quantitative assessment throughout the clinical process of calculator
-scenarios, we introduce CalcQA. This benchmark requires LLMs to use medical
-calculators to perform calculations and assess patient health status. CalcQA is
-constructed by professional physicians and includes 100 case-calculator pairs,
-complemented by a toolkit of 281 medical tools. The experimental results
-demonstrate significant performance improvements with our framework. This
-research paves new directions for applying LLMs in demanding scenarios of
-medicine.
-
-摘要：將工具整合到大型語言模型 (LLM) 中促进了廣泛的應用。儘管如此，在專業的下游任務情境中，單獨依賴工具不足以充分解決現實世界的複雜性。這特別限制了 LLM 在醫學等領域的有效部署。在本文中，我們專注於醫療計算器的下游任務，它使用標準化測試來評估個人的健康狀況。我們介紹 MeNTi，一種適用於 LLM 的通用代理架構。MeNTi 整合了一個專業的醫療工具包，並採用元工具和嵌套呼叫機制來增強 LLM 工具的利用率。具體來說，它實現了靈活的工具選擇和嵌套工具呼叫，以解決複雜醫療場景中面臨的實際問題，包括計算器選擇、插槽填充和單位轉換。為了評估 LLM 在計算器場景的整個臨床過程中進行量化評估的能力，我們引入了 CalcQA。此基準要求 LLM 使用醫療計算器進行計算並評估患者的健康狀況。CalcQA 由專業醫生編制，包括 100 個案例計算器對，並輔以 281 個醫療工具的工具包。實驗結果證明了我們框架的顯著效能提升。這項研究為在要求嚴格的醫學場景中應用 LLM 鋪平了新的道路。
-
-##### **OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**
-2410.13592v1 by Wei Liu, Kerem Delikoyun, Qianyu Chen, Alperen Yildiz, Si Ko Myo, Win Sen Kuan, John Tshon Yit Soong, Matthew Edward Cove, Oliver Hayden, Hweekuan Lee
-
-Off-axis digital holographic microscopy is a high-throughput, label-free
-imaging technology that provides three-dimensional, high-resolution information
-about samples, particularly useful in large-scale cellular imaging. However,
-the hologram reconstruction process poses a significant bottleneck for timely
-data analysis. To address this challenge, we propose a novel reconstruction
-approach that integrates deep learning with the physical principles of off-axis
-holography. We initialized part of the network weights based on the physical
-principle and then fine-tuned them via weakly supersized learning. Our off-axis
-hologram network (OAH-Net) retrieves phase and amplitude images with errors
-that fall within the measurement error range attributable to hardware, and its
-reconstruction speed significantly surpasses the microscope's acquisition rate.
-Crucially, OAH-Net demonstrates remarkable external generalization capabilities
-on unseen samples with distinct patterns and can be seamlessly integrated with
-other models for downstream tasks to achieve end-to-end real-time hologram
-analysis. This capability further expands off-axis holography's applications in
-both biological and medical studies.
-
-摘要：離軸數位全像顯微鏡是一種高通量、無標籤的影像技術，可提供立體、高解析度的樣品資訊，特別適用於大規模細胞影像。然而，全像重建過程對及時的資料分析構成重大的瓶頸。為了應對這項挑戰，我們提出了一種創新的重建方法，將深度學習與離軸全像的物理原理整合在一起。我們根據物理原理初始化部分網路權重，然後透過弱監督學習微調它們。我們的離軸全像網路 (OAH-Net) 擷取相位和振幅影像，其誤差落在歸因於硬體的量測誤差範圍內，而且其重建速度顯著超越顯微鏡的擷取率。至關重要的是，OAH-Net 在具有不同模式的未見樣本上展現出卓越的外在泛化能力，而且可以與其他模型無縫整合，以執行下游任務，以達成端對端的即時全像分析。此能力進一步擴展了離軸全像在生物和醫學研究中的應用。
 

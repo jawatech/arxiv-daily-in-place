@@ -28,7 +28,7 @@
 |**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193v1](http://arxiv.org/abs/2410.19193v1)|null|
 |**2024-10-24**|**GCoder: Improving Large Language Model for Generalized Graph Problem Solving**|Qifan Zhang et.al.|[2410.19084v1](http://arxiv.org/abs/2410.19084v1)|[link](https://github.com/bklight999/www25-gcoder)|
 |**2024-10-24**|**LLM-based Online Prediction of Time-varying Graph Signals**|Dayu Qin et.al.|[2410.18718v1](http://arxiv.org/abs/2410.18718v1)|null|
-|**2024-10-24**|**Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**|Kexuan Xin et.al.|[2410.18475v1](http://arxiv.org/abs/2410.18475v1)|null|
+|**2024-10-24**|**Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**|Kexuan Xin et.al.|[2410.18475v2](http://arxiv.org/abs/2410.18475v2)|null|
 |**2024-10-24**|**ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**|Zezhong Wang et.al.|[2410.18447v1](http://arxiv.org/abs/2410.18447v1)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415v1](http://arxiv.org/abs/2410.18415v1)|null|
 |**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060v1](http://arxiv.org/abs/2410.18060v1)|null|
@@ -745,7 +745,7 @@ partially observed signals in graphs.
 摘要：在本文中，我們提出了一個新穎的框架，該框架利用大型語言模型 (LLM) 來預測時變圖形信號中的缺失值，方法是利用空間和時間平滑度。我們利用 LLM 的能力來實現消息傳遞方案。對於每個缺失節點，其鄰居和先前的估計值會被輸入到 LLM 中並由 LLM 進行處理，以推斷出缺失的觀測值。在風速圖形信號的線上預測任務中進行測試，我們的模型在準確性方面優於線上圖形過濾演算法，這證明了 LLM 在有效處理圖形中部分觀測到的信號方面的潛力。
 
 ##### **Gene-Metabolite Association Prediction with Interactive Knowledge Transfer Enhanced Graph for Metabolite Production**
-2410.18475v1 by Kexuan Xin, Qingyun Wang, Junyu Chen, Pengfei Yu, Huimin Zhao, Heng Ji
+2410.18475v2 by Kexuan Xin, Qingyun Wang, Junyu Chen, Pengfei Yu, Huimin Zhao, Heng Ji
 
 In the rapidly evolving field of metabolic engineering, the quest for
 efficient and precise gene target identification for metabolite production
@@ -773,7 +773,7 @@ the knowledge from multiple microorganisms. Experiments on both types of
 organisms demonstrate that our proposed methodology outperforms baselines by up
 to 12.3% across various link prediction frameworks.
 
-摘要：<paragraph>在快速发展的代謝工程領域中，尋求用於代謝物產量增強的高效且精準的基因目標識別，會面臨重大挑戰。傳統方法（無論是基於知識或基於模型）都相當耗時且費力，原因在於研究文獻的規模龐大，以及基因組規模代謝模型 (GEM) 模擬的近似性質。因此，我們提出一個新任務，即基於代謝圖的基因代謝物關聯預測，以自動化針對特定代謝物和候選關聯基因發現候選基因的流程，並提供第一個基准，其中包含 2474 種代謝物和 1947 種基因，這些基因來自兩種常用的微生物：釀酒酵母 (SC) 和東方伊薩琴科酵母 (IO)。此任務具有挑戰性，原因在於代謝圖的不完整性，以及不同代謝之間的異質性。為了克服這些限制，我們提出一個基於代謝圖的互動式知識傳遞機制 (IKT4Meta)，藉由整合來自不同代謝圖的知識，來提升關聯預測準確度。首先，為了在兩個圖之間建立知識傳遞的橋樑，我們利用具備基因和代謝物外部知識的預訓練語言模型 (PLM) 來協助產生圖際連結，大幅減輕異質性的影響。其次，我們使用圖際連結作為錨點，從不同的代謝圖傳播圖內連結。最後，我們根據整合了多種微生物知識的豐富代謝圖，進行基因代謝物關聯預測。兩種生物的實驗都證明，我們提出的方法在各種連結預測架構中，比基準線高出 12.3%。</paragraph>
+摘要：<paragraph>在快速發展的代謝工程領域中，尋求有效且精確的基因目標識別以提升代謝產物產量，是一項重大的挑戰。傳統方法，無論是基於知識或基於模型，都相當耗時且費力，這是因為研究文獻的規模龐大，且基因組規模代謝模型 (GEM) 模擬的近似性質。因此，我們提出了一項新的任務，即基於代謝圖的基因-代謝物關聯預測，以自動化候選基因發現的過程，針對給定的代謝物對和候選相關基因，並呈現第一個基準，其中包含 2474 種代謝物和 1947 個基因，來自兩種常用的微生物釀酒酵母 (SC) 和東方伊薩琴科酵母 (IO)。由於代謝圖的不完整性和不同代謝物之間的異質性，這項任務具有挑戰性。為了克服這些限制，我們提出了一個基於代謝圖的互動知識傳輸機制 (IKT4Meta)，它透過整合來自不同代謝圖的知識來提高關聯預測的準確性。首先，為了在兩個圖之間建立知識傳輸的橋樑，我們利用具備基因和代謝物外部知識的預訓練語言模型 (PLM) 來幫助產生圖間連結，大幅減輕異質性的影響。其次，我們使用圖間連結作為錨點，從不同的代謝圖傳播圖內連結。最後，我們根據整合了多種微生物知識的豐富代謝圖，進行基因-代謝物關聯預測。兩種生物體的實驗都證明，我們提出的方法在各種連結預測架構中，比基準高出 12.3%。</paragraph>
 
 ##### **ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**
 2410.18447v1 by Zezhong Wang, Xingshan Zeng, Weiwen Liu, Liangyou Li, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong

@@ -14,11 +14,11 @@
 |**2024-10-30**|**Evaluating Cultural and Social Awareness of LLM Web Agents**|Haoyi Qiu et.al.|[2410.23252v1](http://arxiv.org/abs/2410.23252v1)|null|
 |**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242v1](http://arxiv.org/abs/2410.23242v1)|null|
 |**2024-10-30**|**EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning**|Peide Huang et.al.|[2410.23234v1](http://arxiv.org/abs/2410.23234v1)|null|
-|**2024-10-30**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230v1](http://arxiv.org/abs/2410.23230v1)|null|
+|**2024-10-30**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230v2](http://arxiv.org/abs/2410.23230v2)|null|
 |**2024-10-30**|**COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences**|Yixin Liu et.al.|[2410.23223v1](http://arxiv.org/abs/2410.23223v1)|[link](https://github.com/yale-nlp/comal)|
 |**2024-10-30**|**Partial Channel Dependence with Channel Masks for Time Series Foundation Models**|Seunghan Lee et.al.|[2410.23222v1](http://arxiv.org/abs/2410.23222v1)|null|
 |**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218v1](http://arxiv.org/abs/2410.23218v1)|null|
-|**2024-10-30**|**Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval**|Sheryl Hsu et.al.|[2410.23214v1](http://arxiv.org/abs/2410.23214v1)|null|
+|**2024-10-30**|**Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval**|Sheryl Hsu et.al.|[2410.23214v2](http://arxiv.org/abs/2410.23214v2)|null|
 |**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208v1](http://arxiv.org/abs/2410.23208v1)|null|
 |**2024-10-30**|**Reliability of Topic Modeling**|Kayla Schroeder et.al.|[2410.23186v1](http://arxiv.org/abs/2410.23186v1)|null|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182v1](http://arxiv.org/abs/2410.23182v1)|null|
@@ -35,7 +35,7 @@
 |**2024-10-30**|**On Memorization of Large Language Models in Logical Reasoning**|Chulin Xie et.al.|[2410.23123v1](http://arxiv.org/abs/2410.23123v1)|null|
 |**2024-10-30**|**Teaching a Language Model to Distinguish Between Similar Details using a Small Adversarial Training Set**|Chris Achard et.al.|[2410.23118v1](http://arxiv.org/abs/2410.23118v1)|null|
 |**2024-10-30**|**Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models**|Junjie Wu et.al.|[2410.23114v1](http://arxiv.org/abs/2410.23114v1)|[link](https://github.com/wujunjie1998/tri-he)|
-|**2024-10-30**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111v1](http://arxiv.org/abs/2410.23111v1)|null|
+|**2024-10-30**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111v2](http://arxiv.org/abs/2410.23111v2)|null|
 |**2024-10-30**|**Controllable Game Level Generation: Assessing the Effect of Negative Examples in GAN Models**|Mahsa Bazzaz et.al.|[2410.23108v1](http://arxiv.org/abs/2410.23108v1)|null|
 |**2024-10-30**|**Guided Game Level Repair via Explainable AI**|Mahsa Bazzaz et.al.|[2410.23101v1](http://arxiv.org/abs/2410.23101v1)|null|
 |**2024-10-30**|**Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning**|Dong Shu et.al.|[2410.23099v1](http://arxiv.org/abs/2410.23099v1)|[link](https://github.com/tizzzzy/demonstration_selection_overview)|
@@ -49,7 +49,7 @@
 |**2024-10-30**|**Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval**|Le Huang et.al.|[2410.23041v1](http://arxiv.org/abs/2410.23041v1)|null|
 |**2024-10-30**|**Offline Reinforcement Learning and Sequence Modeling for Downlink Link Adaptation**|Samuele Peri et.al.|[2410.23031v1](http://arxiv.org/abs/2410.23031v1)|null|
 |**2024-10-30**|**Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback**|Qinqing Zheng et.al.|[2410.23022v1](http://arxiv.org/abs/2410.23022v1)|null|
-|**2024-10-30**|**\textsc{Long$^2$RAG}: Evaluating Long-Context \& Long-Form Retrieval-Augmented Generation with Key Point Recall**|Zehan Qi et.al.|[2410.23000v1](http://arxiv.org/abs/2410.23000v1)|null|
+|**2024-10-30**|**Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**|Zehan Qi et.al.|[2410.23000v2](http://arxiv.org/abs/2410.23000v2)|null|
 |**2024-10-30**|**A Comparison of Prompt Engineering Techniques for Task Planning and Execution in Service Robotics**|Jonas Bode et.al.|[2410.22997v1](http://arxiv.org/abs/2410.22997v1)|[link](https://github.com/ais-bonn/prompt_engineering)|
 |**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996v1](http://arxiv.org/abs/2410.22996v1)|null|
 |**2024-10-30**|**VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning**|Jingkun Ma et.al.|[2410.22995v1](http://arxiv.org/abs/2410.22995v1)|null|
@@ -59,7 +59,7 @@
 |**2024-10-30**|**Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation**|Wei Dong et.al.|[2410.22952v1](http://arxiv.org/abs/2410.22952v1)|null|
 |**2024-10-30**|**SpiroActive: Active Learning for Efficient Data Acquisition for Spirometry**|Ankita Kumari Jain et.al.|[2410.22950v1](http://arxiv.org/abs/2410.22950v1)|null|
 |**2024-10-30**|**Focus On This, Not That! Steering LLMs With Adaptive Feature Specification**|Tom A. Lamb et.al.|[2410.22944v1](http://arxiv.org/abs/2410.22944v1)|null|
-|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v1](http://arxiv.org/abs/2410.22938v1)|[link](https://github.com/lokol5579/DiffLight-release)|
+|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v2](http://arxiv.org/abs/2410.22938v2)|[link](https://github.com/lokol5579/DiffLight-release)|
 |**2024-10-30**|**Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers**|Jose A. Guridi et.al.|[2410.22937v1](http://arxiv.org/abs/2410.22937v1)|null|
 |**2024-10-30**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932v1](http://arxiv.org/abs/2410.22932v1)|null|
 |**2024-10-30**|**BIS: NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios**|Bora Caglayan et.al.|[2410.22925v1](http://arxiv.org/abs/2410.22925v1)|[link](https://github.com/boracaglayan/bis-nl2sql)|
@@ -416,7 +416,7 @@ robotic gestures.
 摘要：本文介紹了一個名為 EMOTION 的框架，可用於在類人機器人中生成表達性的動作序列，增強其參與類人非語言溝通的能力。非語言線索（例如面部表情、手勢和身體動作）在有效的人際互動中扮演著至關重要的角色。儘管機器人行為有進步，但現有方法在模仿人類非語言溝通的多樣性和微妙性方面往往做得不夠。為了解決這個差距，我們的方法利用大型語言模型 (LLM) 的情境學習能力，動態生成適應社交場合的手勢動作序列，用於人機互動。我們使用這個框架生成了 10 種不同的表達性手勢，並進行線上使用者研究，比較 EMOTION 及其人類回饋版本 EMOTION++ 所生成動作的自然性和可理解性，以及人類操作員所做的動作。結果表明，在某些場景下，我們的方法在生成可理解且自然的機器人動作方面達到或超過人類表現。我們還為未來的研究提供了設計含義，以考慮在生成表達性機器人手勢時的一組變數。
 
 ##### **Aligning Audio-Visual Joint Representations with an Agentic Workflow**
-2410.23230v1 by Shentong Mo, Yibing Song
+2410.23230v2 by Shentong Mo, Yibing Song
 
 Visual content and accompanied audio signals naturally formulate a joint
 representation to improve audio-visual (AV) related applications. While studies
@@ -443,7 +443,7 @@ experimental results comprehensively demonstrate the state-of-the-art
 performance of the proposed approach against previous baselines in diverse
 downstream tasks.
 
-摘要：視覺內容和伴隨的音訊訊號自然會形成一個聯合表徵，以改善音訊視覺 (AV) 相關應用程式。雖然研究開發了各種 AV 表徵學習架構，但 AV 資料對齊的重要性通常被低估，無法達成高品質的表徵。我們觀察到音訊訊號可能會包含背景噪音干擾。此外，音訊和視訊串流之間可能會出現不同步的情況。這些非嚴格的資料對齊會限制表徵品質並降低應用程式效能。在本文中，我們提議從資料為中心的觀點改善 AV 聯合表徵，方法是將音訊訊號與視覺資料對齊。我們的對齊是在由稱為 AVAgent 的 LLM 為基礎的助理所控制的代理工作流程中進行的。對於每個輸入 AV 資料對，我們的 AVAgent 使用多模式 LLM 將音訊和視覺資料分別轉換成語言描述（即工具使用）。然後，AVAgent 推論此配對資料是否對齊良好，並計畫在需要時編輯音訊訊號（即計畫）。音訊編輯是由預先定義的動作執行的，這些動作會濾除雜訊或擴充資料。此外，我們使用 VLM 來評估修改後的音訊訊號如何與視覺內容相符，並向 AVAgent 提供回饋（即反思）。工具使用、計畫和反思步驟會循環操作，成為一個代理工作流程，其中音訊訊號會逐漸與視覺內容對齊。為此，現有方法可以直接利用我們代理工作流程中對齊的 AV 資料，以改善 AV 聯合表徵。實驗結果全面展示了所提出的方法在各種下游任務中相對於先前基線的最新技術效能。
+摘要：視覺內容和伴隨的音訊訊號自然會形成一種聯合表示，以改善音訊視覺 (AV) 相關應用程式。儘管研究開發了各種 AV 表示學習架構，但 AV 資料對齊的重要性通常會被低估，以實現高品質的表示。我們觀察到，音訊訊號可能包含背景噪音干擾。此外，音訊串流和視訊串流之間可能出現不同步。這些非嚴格資料對齊會限制表示品質並降低應用程式效能。在本文中，我們提議從以資料為中心的觀點改善 AV 聯合表示，方法是將音訊訊號與視覺資料對齊。我們的對齊是在由名為 AVAgent 的基於 LLM 的助理控制的代理工作流程中進行的。對於每個輸入 AV 資料對，我們的 AVAgent 使用多模態 LLM 將音訊和視覺資料分別轉換成語言描述（即工具使用）。然後，AVAgent 推論這組資料對是否對齊良好，並計畫在需要時編輯音訊訊號（即計畫）。音訊編輯是由預定義的動作執行的，這些動作會過濾雜訊或擴充資料。此外，我們使用 VLM 來評估修改後的音訊訊號如何與視覺內容相符，並向 AVAgent 提供回饋（即反思）。工具使用、計畫和反思步驟循環運作，成為一個代理工作流程，其中音訊訊號逐漸與視覺內容對齊。為此，現有方法可以直接透過我們的代理工作流程利用對齊的 AV 資料來改善 AV 聯合表示。實驗結果全面展示了所提出的方法在各種下游任務中相較於先前基線的最佳效能。
 
 ##### **COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences**
 2410.23223v1 by Yixin Liu, Argyris Oikonomou, Weiqiang Zheng, Yang Cai, Arman Cohan
@@ -518,7 +518,7 @@ VLMs.
 摘要：現有的 GUI 代理建構工作高度依賴於強大的商用視覺語言模型 (VLM)，例如 GPT-4o 和 GeminiProVision。實務工作者通常不願意使用開放原始碼 VLM，因為它們的效能表現遠不如閉源對應產品，特別是在 GUI 基礎和分布外 (OOD) 場景中。為了促進這方面的未來研究，我們開發了 OS-Atlas，這是一個基礎 GUI 動作模型，透過資料和建模的創新，在 GUI 基礎和 OOD 代理任務中表現出色。我們投入大量的工程心力來開發一個開放原始碼工具包，用於在多個平台（包括 Windows、Linux、MacOS、Android 和網路）中合成 GUI 基礎資料。利用這個工具包，我們發布了迄今為止最大的開放原始碼跨平台 GUI 基礎語料庫，其中包含超過 1300 萬個 GUI 元素。此資料集結合了模型訓練的創新，為 OS-Atlas 理解 GUI 螢幕截圖並概括到未見過的介面提供了穩固的基礎。透過橫跨三個不同平台（行動、桌上型和網路）的六個基準測試進行廣泛評估，OS-Atlas 展示出比先前的最先進模型有顯著的效能提升。我們的評估也揭示了寶貴的見解，可以持續改善和擴展開放原始碼 VLM 的代理功能。
 
 ##### **Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval**
-2410.23214v1 by Sheryl Hsu, Omar Khattab, Chelsea Finn, Archit Sharma
+2410.23214v2 by Sheryl Hsu, Omar Khattab, Chelsea Finn, Archit Sharma
 
 The hallucinations of large language models (LLMs) are increasingly mitigated
 by allowing LLMs to search for information and to ground their answers in real
@@ -529,13 +529,13 @@ different queries and learning to up-weight queries that successfully produce
 relevant results, we introduce $\underline{Le}$arning to $\underline{Re}$trieve
 by $\underline{T}$rying (LeReT), a reinforcement learning framework that
 explores search queries and uses preference-based optimization to improve their
-quality. \methodclass can improve the absolute retrieval accuracy by up to 29\%
-and the downstream generator evaluations by 17\%. The simplicity and
-flexibility of LeReT allows it to be applied to arbitrary off-the-shelf
-retrievers and makes it a promising technique for improving general LLM
-pipelines. Project website: http://sherylhsu.com/LeReT/.
+quality. LeReT can improve the absolute retrieval accuracy by up to 29% and the
+downstream generator evaluations by 17%. The simplicity and flexibility of
+LeReT allows it to be applied to arbitrary off-the-shelf retrievers and makes
+it a promising technique for improving general LLM pipelines. Project website:
+http://sherylhsu.com/LeReT/.
 
-摘要：大型語言模型 (LLM) 的幻覺越來越能透過允許 LLM 搜尋資訊並根據真實來源來建立答案而得到緩解。不幸的是，LLM 通常難以提出正確的搜尋查詢，特別是在處理複雜或間接主題時。觀察到 LLM 能夠透過嘗試不同的查詢並學習加權成功產生相關結果的查詢來學習搜尋相關事實，我們引入了嘗試學習檢索 (LeReT)，一種強化學習架構，探索搜尋查詢並使用基於偏好的最佳化來改善其品質。方法類別可以將絕對檢索準確度提高 29%，而下游產生器評估則提高 17%。LeReT 的簡單性和靈活性允許它應用於任意現成的檢索器，並使其成為改善一般 LLM 管線的有前途技術。專案網站：http://sherylhsu.com/LeReT/。
+摘要：大型語言模型 (LLM) 的幻覺越來越能被緩解，方法是讓 LLM 搜尋資訊並將其答案建立在真實來源上。不幸的是，LLM 通常難以提出正確的搜尋查詢，特別是在處理複雜或間接主題時。觀察到 LLM 可以透過「嘗試」不同的查詢並學習對成功產生相關結果的查詢進行加權，來學習搜尋相關事實，我們引入了「嘗試學習檢索」(LeReT)，這是一個強化學習框架，探索搜尋查詢並使用基於偏好的最佳化來改善其品質。LeReT 可以將絕對檢索準確度提高多達 29%，並將下游產生器評估提高 17%。LeReT 的簡潔性和靈活性使其可以應用於任意現成的檢索器，並使其成為改善一般 LLM 管線的有前途技術。專案網站：http://sherylhsu.com/LeReT/。
 
 ##### **Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**
 2410.23208v1 by Michael Matthews, Michael Beukman, Chris Lu, Jakob Foerster
@@ -905,7 +905,7 @@ available publicly at https://github.com/wujunjie1998/Tri-HE.
 摘要：儘管在視覺語言推理中表現傑出，大型視覺語言模型 (LVLMs) 仍可能產生不存在於給定影像中的幻覺內容。大多數現有的 LVLM 幻覺基準僅限於評估與物件相關的幻覺。然而，對於兩個物件之間關係的潛在幻覺，即關係幻覺，仍缺乏調查。為了補救這一點，在本文中，我們設計了一個統一的架構，以同時測量 LVLMs 中的物件和關係幻覺。我們架構的核心思想是在從 LVLMs 回應中提取的 (物件、關係、物件) 三元組上進行幻覺評估，因此可以輕鬆地概括為不同的視覺語言任務。根據我們的架構，我們進一步引入了 Tri-HE，這是一個新穎的三元組級幻覺評估基準，可用於同時研究物件和關係幻覺。我們對 Tri-HE 進行了全面的評估，並觀察到關係幻覺問題甚至比現有 LVLMs 中的物件幻覺更嚴重，突顯了一個以前被忽略的問題，朝著可靠的 LVLMs 邁進。此外，根據我們的發現，我們設計了一個簡單但有效的無訓練方法來減輕 LVLMs 的幻覺，我們使用它在 Tri-HE 上超越了所有開源對手，達到了與強大的 GPT-4V 相當的效能。我們用於重現我們實驗的資料集和程式碼可在 https://github.com/wujunjie1998/Tri-HE 公開取得。
 
 ##### **Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**
-2410.23111v1 by Navyansh Mahla, Ganesh Ramakrishnan
+2410.23111v2 by Navyansh Mahla, Ganesh Ramakrishnan
 
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various domains, particularly in task generalization for both text and vision
@@ -922,18 +922,18 @@ effective fine-tuning of LLMs in federated settings. Through rigorous
 analytical and empirical evaluations, we demonstrate that direct weight
 averaging outperforms LoRA-based strategies, leading to superior performance
 for fine-tuned models. Our comprehensive comparison exposes inefficiencies in
-LoRA approaches and underscores the advantages of full-rank weight aggregation.
-We extend our analysis to low-rank gradient-based optimizers, such as GaLore,
-used during local training steps. Our findings show that GaLore is a more
-effective alternative, outperforming federated LoRA methods like FlexLoRA and
-FFA-LoRA across both text and image modalities. While privacy remains paramount
-in FL discourse, our focus is on assessing performance outcomes of federated
+LoRA approaches and underscores the advantages of direct weight aggregation. We
+extend our analysis to low-rank gradient-based optimizers, such as GaLore, used
+during local training steps. Our findings show that GaLore is a more effective
+alternative, outperforming federated LoRA methods like FlexLoRA and FFA-LoRA
+across both text and image modalities. While privacy remains paramount in FL
+discourse, our focus is on assessing performance outcomes of federated
 fine-tuned models and evaluating various FL frameworks from both theoretical
 and empirical perspectives. Our findings advocate reassessing the reliance on
 LoRA within FL contexts, paving the way for more efficient training
 methodologies.
 
-摘要：大型語言模型 (LLM) 已在各種領域展現出非凡的能力，特別是在文字和視覺資料的任務概化方面。雖然微調這些模型可以顯著提升其在特定下游任務的效能，但這通常需要高品質資料，而這些資料可能因為隱私問題而無法分享。聯合學習 (FL) 提供了一個有前途的解決方案，可以在不直接分享資料的情況下進行協作訓練。然而，許多針對 LLM 在 FL 中的參數高效微調策略，特別是那些基於低秩適應 (LoRA) 的策略，都面臨限制。在本文中，我們批判性地分析了採用 LoRA 的熱門 FL 架構的收斂性和效能保證，強調其次佳性質，這是因為低秩矩陣的受限子空間學習。這個限制阻礙了在聯合設定中對 LLM 進行有效的微調。透過嚴謹的分析和實證評估，我們證明直接權重平均優於基於 LoRA 的策略，進而提升微調模型的效能。我們全面的比較揭露了 LoRA 方法的低效率，並強調了全秩權重聚合的優點。我們將分析延伸至低秩梯度優化器，例如 GaLore，用於局部訓練步驟。我們的研究結果顯示，GaLore 是一個更有效的替代方案，在文字和影像模式中都優於 FlexLoRA 和 FFA-LoRA 等聯合 LoRA 方法。雖然隱私在 FL 論述中至關重要，但我們的重點在於評估聯合微調模型的效能結果，並從理論和實證的角度評估各種 FL 架構。我們的研究結果主張重新評估在 FL 背景中對 LoRA 的依賴，為更有效的訓練方法鋪路。
+摘要：大型語言模型 (LLM) 已在各種領域展現出非凡的能力，特別是在文本和視覺資料的任務概括方面。雖然微調這些模型可以顯著提升其在特定下游任務中的效能，但這通常需要高品質的資料，而這些資料可能無法因隱私考量而共用。聯合學習 (FL) 提供了一個有前途的解決方案，可以進行協作訓練，而無需直接共用資料。然而，許多針對 LLM 在 FL 中的參數有效微調策略，特別是那些基於低秩適應 (LoRA) 的策略，都面臨限制。在本文中，我們批判性地分析了使用 LoRA 的熱門 FL 架構的收斂性和效能保證，並強調其次佳性質，原因在於低秩矩陣的受限子空間學習。此限制阻礙了在聯合設定中對 LLM 進行有效的微調。透過嚴謹的分析和經驗評估，我們證明直接權重平均優於基於 LoRA 的策略，從而提升微調模型的效能。我們的全面比較揭露了 LoRA 方法的低效率，並強調了直接權重聚合的優點。我們將分析延伸至低秩基於梯度的最佳化器，例如 GaLore，這些最佳化器用於局部訓練步驟。我們的發現顯示，GaLore 是一種更有效的替代方案，在文本和影像模式中都優於聯合 LoRA 方法，例如 FlexLoRA 和 FFA-LoRA。雖然隱私在 FL 論述中仍然至關重要，但我們的重點在於評估聯合微調模型的效能結果，並從理論和經驗的角度評估各種 FL 架構。我們的發現主張重新評估在 FL 背景中對 LoRA 的依賴，為更有效的訓練方法鋪路。
 
 ##### **Controllable Game Level Generation: Assessing the Effect of Negative Examples in GAN Models**
 2410.23108v1 by Mahsa Bazzaz, Seth Cooper
@@ -1266,27 +1266,25 @@ requiring external datasets nor source code. We make our code available at
 需要外部數據集或源代碼。我們在
 \url{URL}（即將推出）上提供我們的代碼。
 
-##### **\textsc{Long$^2$RAG}: Evaluating Long-Context \& Long-Form Retrieval-Augmented Generation with Key Point Recall**
-2410.23000v1 by Zehan Qi, Rongwu Xu, Zhijiang Guo, Cunxiang Wang, Hao Zhang, Wei Xu
+##### **Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**
+2410.23000v2 by Zehan Qi, Rongwu Xu, Zhijiang Guo, Cunxiang Wang, Hao Zhang, Wei Xu
 
 Retrieval-augmented generation (RAG) is a promising approach to address the
 limitations of fixed knowledge in large language models (LLMs). However,
 current benchmarks for evaluating RAG systems suffer from two key deficiencies:
-(1) they fail to adequately measure LLMs' capability in handling
-\emph{long-context retrieval} due to a lack of datasets that reflect the
-characteristics of retrieved documents, and (2) they lack a comprehensive
-evaluation method for assessing LLMs' ability to generate \emph{long-form
-responses} that effectively exploits retrieved information. To address these
-shortcomings, we introduce the \textsc{Long$^2$RAG} benchmark and the Key Point
-Recall (\textit{KPR}) metric. \textsc{Long$^2$RAG} comprises 280 questions
-spanning 10 domains and across 8 question categories, each associated with 5
-retrieved documents with an average length of 2,444 words. \textit{KPR}
-evaluates the extent to which LLMs incorporate key points extracted from the
-retrieved documents into their generated responses, providing a more nuanced
-assessment of their ability to exploit retrieved information. Our dataset and
-scripts are available at https://github.com/QZH-777/longrag.
+(1) they fail to adequately measure LLMs' capability in handling long-context
+retrieval due to a lack of datasets that reflect the characteristics of
+retrieved documents, and (2) they lack a comprehensive evaluation method for
+assessing LLMs' ability to generate long-form responses that effectively
+exploits retrieved information. To address these shortcomings, we introduce the
+Long$^2$RAG benchmark and the Key Point Recall (KPR) metric. Long$^2$RAG
+comprises 280 questions spanning 10 domains and across 8 question categories,
+each associated with 5 retrieved documents with an average length of 2,444
+words. KPR evaluates the extent to which LLMs incorporate key points extracted
+from the retrieved documents into their generated responses, providing a more
+nuanced assessment of their ability to exploit retrieved information.
 
-摘要：<paragraph>擷取增強生成 (RAG) 是一種有望解決大型語言模型 (LLM) 中固定知識限制的方法。然而，目前用於評估 RAG 系統的基準有兩個主要的缺陷：(1) 由於缺乏反映擷取文件特性的資料集，它們無法充分衡量 LLM 處理「長內容擷取」的能力，(2) 它們缺乏評估 LLM 生成「長篇回應」能力的全面評估方法，而這些回應有效利用了擷取的資訊。為了解決這些缺點，我們引入了「Long$^2$RAG」基準和重點回憶 (KPR) 指標。「Long$^2$RAG」包含 280 個問題，涵蓋 10 個領域和 8 個問題類別，每個問題都與 5 個擷取文件相關聯，平均長度為 2,444 個字。KPR 評估 LLM 將從擷取文件中擷取的重點納入其生成的回應的程度，提供對其利用擷取資訊能力更細緻的評估。我們的資料集和腳本可在 https://github.com/QZH-777/longrag 取得。</paragraph>
+摘要：檢索增強生成 (RAG) 是一種有前途的方法，可用於解決大型語言模型 (LLM) 中固定知識的限制。然而，當前用於評估 RAG 系統的基準有兩個主要的缺點：(1) 由於缺乏反映檢索文件特徵的資料集，它們無法充分衡量 LLM 在處理長內容檢索中的能力，以及 (2) 它們缺乏全面的評估方法，用於評估 LLM 生成長篇回應的能力，這些回應有效地利用了檢索到的資訊。為了解決這些缺點，我們引入了 Long$^2$RAG 基準和關鍵點召回率 (KPR) 度量。Long$^2$RAG 包含 280 個問題，涵蓋 10 個領域和 8 個問題類別，每個問題都與 5 個檢索到的文件關聯，平均長度為 2,444 個字元。KPR 評估了 LLM 將從檢索到的文件提取的關鍵點納入其生成回應的程度，提供了對其利用檢索資訊能力更細緻的評估。
 
 ##### **A Comparison of Prompt Engineering Techniques for Task Planning and Execution in Service Robotics**
 2410.22997v1 by Jonas Bode, Bastian Pätzold, Raphael Memmesheimer, Sven Behnke
@@ -1487,7 +1485,7 @@ applications in real-world environments.
 摘要：儘管指令調整 (IT) 在訓練大型語言模型 (LLM) 以執行任意使用者指定任務方面取得成功，但這些模型通常仍會利用從其訓練資料中學習到的虛假或偏差特徵，導致在新的環境中部署它們時出現不必要的行為。在這項工作中，我們引入了焦點指令調整 (FIT)，它訓練 LLM 透過專注於特定特徵同時忽略其他特徵來調整其回應，從而根據所指定的特徵產生不同的行為。在多個實驗設定中，我們展示了焦點調整模型可以在推論時透過專注於不同的特徵來適應性地進行引導：例如，透過專注於任務因果特徵並忽略虛假特徵，可以提高健壯性，並且透過忽略人口統計類別，可以減輕社會偏見。此外，FIT 可以引導在新的環境中的行為，在推論時對分佈轉移和新的未見特徵進行概化，從而促進在現實世界環境中更健壯、更公平且可控的 LLM 應用。
 
 ##### **DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**
-2410.22938v1 by Hanyang Chen, Yang Jiang, Shengnan Guo, Xiaowei Mao, Youfang Lin, Huaiyu Wan
+2410.22938v2 by Hanyang Chen, Yang Jiang, Shengnan Guo, Xiaowei Mao, Youfang Lin, Huaiyu Wan
 
 The application of reinforcement learning in traffic signal control (TSC) has
 been extensively researched and yielded notable achievements. However, most
@@ -1509,7 +1507,7 @@ data-missing scenarios demonstrate that DiffLight is an effective controller to
 address TSC with missing data. The code of DiffLight is released at
 https://github.com/lokol5579/DiffLight-release.
 
-摘要：強化學習在交通號誌控制 (TSC) 中的應用已廣泛研究，並取得顯著成就。然而，大多數現有的 TSC 作品假設來自所有周圍路口的交通數據都是透過感測器完整且持續可用的。在實際應用中，此假設通常會因感測器故障或資料遺失而失敗，這使得資料遺失的 TSC 成為一項嚴峻的挑戰。為了滿足實際應用的需求，我們引入了 DiffLight，這是一個針對離線設定中資料遺失場景的 TSC 的新型條件擴散模型。具體來說，我們整合了兩個必要的子任務，即交通資料填補和決策制定，透過利用部分獎勵條件擴散 (PRCD) 模型來防止遺失的獎勵干擾學習過程。同時，為了有效捕捉路口之間的時空依賴性，我們設計了一個時空轉換器 (STFormer) 架構。此外，我們提出了一個擴散通訊機制 (DCM)，以促進在資料遺失場景下的更好的通訊和控制效能。在具有各種資料遺失場景的五個資料集上進行的廣泛實驗表明，DiffLight 是處理資料遺失的 TSC 的有效控制器。DiffLight 的程式碼已發布在 https://github.com/lokol5579/DiffLight-release。
+摘要：強化學習在交通號誌控制 (TSC) 中的應用已廣泛研究，並取得顯著成果。然而，大多數現有的 TSC 作品假設來自所有周圍路口的交通資料都是透過感測器完整且持續可用的。在實際應用中，此假設經常因感測器故障或資料遺失而失敗，這使得遺失資料的 TSC 成為一項嚴峻的挑戰。為了滿足實際應用的需求，我們引入了 DiffLight，這是一種用於離線設定中資料遺失場景下 TSC 的新型條件擴散模型。具體來說，我們整合了兩個重要的子任務，即交通資料填補和決策制定，透過利用部分獎勵條件擴散 (PRCD) 模型來防止遺失的獎勵干擾學習過程。同時，為了有效擷取路口之間的時空依賴性，我們設計了一個時空 transFormer (STFormer) 架構。此外，我們提出了一種擴散通訊機制 (DCM) 來促進在資料遺失場景中更好的通訊和控制效能。在具有各種資料遺失場景的五個資料集上進行的廣泛實驗表明，DiffLight 是一個有效的控制器，可以解決遺失資料的 TSC。DiffLight 的程式碼已在 https://github.com/lokol5579/DiffLight-release 中釋出。
 
 ##### **Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers**
 2410.22937v1 by Jose A. Guridi, Cristobal Cheyre, Qian Yang

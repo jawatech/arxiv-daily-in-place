@@ -2,6 +2,11 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884v1](http://arxiv.org/abs/2410.23884v1)|[link](https://github.com/shantanu95/llm_causal_reasoning)|
+|**2024-10-31**|**Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**|Liyi Chen et.al.|[2410.23875v1](http://arxiv.org/abs/2410.23875v1)|[link](https://github.com/liyichen-cly/pog)|
+|**2024-10-31**|**End-to-End Ontology Learning with Large Language Models**|Andy Lo et.al.|[2410.23584v1](http://arxiv.org/abs/2410.23584v1)|[link](https://github.com/andylolu2/ollm)|
+|**2024-10-30**|**Graph-Augmented Relation Extraction Model with LLMs-Generated Support Document**|Vicky Dong et.al.|[2410.23452v1](http://arxiv.org/abs/2410.23452v1)|null|
+|**2024-10-30**|**FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**|Anuroop Sriram et.al.|[2410.23405v1](http://arxiv.org/abs/2410.23405v1)|[link](https://github.com/facebookresearch/flowmm)|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v1](http://arxiv.org/abs/2410.23262v1)|null|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182v1](http://arxiv.org/abs/2410.23182v1)|null|
 |**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996v1](http://arxiv.org/abs/2410.22996v1)|null|
@@ -94,16 +99,129 @@
 |**2024-10-13**|**Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG**|Xinxi Chen et.al.|[2410.09699v1](http://arxiv.org/abs/2410.09699v1)|null|
 |**2024-10-12**|**LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning**|Jiachun Li et.al.|[2410.09541v1](http://arxiv.org/abs/2410.09541v1)|[link](https://github.com/bugmakerzzz/linked_code)|
 |**2024-10-12**|**Text Classification using Graph Convolutional Networks: A Comprehensive Survey**|Syed Mustafa Haider Rizvi et.al.|[2410.09399v1](http://arxiv.org/abs/2410.09399v1)|null|
-|**2024-10-12**|**Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation**|Jinyoung Park et.al.|[2410.09350v1](http://arxiv.org/abs/2410.09350v1)|null|
+|**2024-10-12**|**Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation**|Jinyoung Park et.al.|[2410.09350v1](http://arxiv.org/abs/2410.09350v1)|[link](https://github.com/mlvlab/dialoggsr)|
 |**2024-10-11**|**Natural Language Counterfactual Explanations for Graphs Using Large Language Models**|Flavio Giorgi et.al.|[2410.09295v1](http://arxiv.org/abs/2410.09295v1)|[link](https://github.com/flaat/llm-graph-cf)|
 |**2024-10-11**|**ReasonPlanner: Enhancing Autonomous Planning in Dynamic Environments with Temporal Knowledge Graphs and LLMs**|Minh Pham Dinh et.al.|[2410.09252v1](http://arxiv.org/abs/2410.09252v1)|null|
-|**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985v2](http://arxiv.org/abs/2410.08985v2)|null|
-|**2024-10-11**|**When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning**|Hao Yan et.al.|[2410.09132v1](http://arxiv.org/abs/2410.09132v1)|[link](https://github.com/sktsherlock/atg)|
-|**2024-10-11**|**GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**|Jiashu He et.al.|[2410.08475v1](http://arxiv.org/abs/2410.08475v1)|null|
-|**2024-10-11**|**Logic Error Localization in Student Programming Assignments Using Pseudocode and Graph Neural Networks**|Zhenyu Xu et.al.|[2410.21282v1](http://arxiv.org/abs/2410.21282v1)|null|
-|**2024-10-10**|**Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**|Haoteng Yin et.al.|[2410.08299v1](http://arxiv.org/abs/2410.08299v1)|[link](https://github.com/graph-com/pvgalm)|
 
 #### Abstracts
+##### **Failure Modes of LLMs for Causal Reasoning on Narratives**
+2410.23884v1 by Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder
+
+In this work, we investigate the causal reasoning abilities of large language
+models (LLMs) through the representative problem of inferring causal
+relationships from narratives. We find that even state-of-the-art language
+models rely on unreliable shortcuts, both in terms of the narrative
+presentation and their parametric knowledge. For example, LLMs tend to
+determine causal relationships based on the topological ordering of events
+(i.e., earlier events cause later ones), resulting in lower performance
+whenever events are not narrated in their exact causal order. Similarly, we
+demonstrate that LLMs struggle with long-term causal reasoning and often fail
+when the narratives are long and contain many events. Additionally, we show
+LLMs appear to rely heavily on their parametric knowledge at the expense of
+reasoning over the provided narrative. This degrades their abilities whenever
+the narrative opposes parametric knowledge. We extensively validate these
+failure modes through carefully controlled synthetic experiments, as well as
+evaluations on real-world narratives. Finally, we observe that explicitly
+generating a causal graph generally improves performance while naive
+chain-of-thought is ineffective. Collectively, our results distill precise
+failure modes of current state-of-the-art models and can pave the way for
+future techniques to enhance causal reasoning in LLMs.
+
+摘要：在這項工作中，我們透過推論敘述中的因果關係這個代表性問題，來探討大型語言模型 (LLM) 的因果推理能力。我們發現，即使是最先進的語言模型，也會依賴於不可靠的捷徑，無論是在敘述呈現或其參數知識方面。例如，LLM 傾向於根據事件的拓撲順序（即，較早的事件導致較晚的事件）來確定因果關係，當事件未按其確切的因果順序敘述時，就會導致較低的效能。同樣地，我們證明 LLM 難以進行長期因果推理，並且當敘述很長且包含許多事件時，它們通常會失敗。此外，我們表明 LLM 似乎過度依賴其參數知識，而犧牲了對所提供敘述的推理。每當敘述與參數知識相衝突時，這就會降低它們的能力。我們透過仔細控制的合成實驗以及對真實世界敘述的評估，廣泛驗證了這些失敗模式。最後，我們觀察到，明確產生因果圖通常會改善效能，而天真的思考鏈則無效。總的來說，我們的結果精確地提煉了當前最先進模型的失敗模式，並可以為未來增強 LLM 中因果推理的技術鋪路。
+
+##### **Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**
+2410.23875v1 by Liyi Chen, Panrong Tong, Zhongming Jin, Ying Sun, Jieping Ye, Hui Xiong
+
+Large Language Models (LLMs) have shown remarkable reasoning capabilities on
+complex tasks, but they still suffer from out-of-date knowledge,
+hallucinations, and opaque decision-making. In contrast, Knowledge Graphs (KGs)
+can provide explicit and editable knowledge for LLMs to alleviate these issues.
+Existing paradigm of KG-augmented LLM manually predefines the breadth of
+exploration space and requires flawless navigation in KGs. However, this
+paradigm cannot adaptively explore reasoning paths in KGs based on the question
+semantics and self-correct erroneous reasoning paths, resulting in a bottleneck
+in efficiency and effect. To address these limitations, we propose a novel
+self-correcting adaptive planning paradigm for KG-augmented LLM named
+Plan-on-Graph (PoG), which first decomposes the question into several
+sub-objectives and then repeats the process of adaptively exploring reasoning
+paths, updating memory, and reflecting on the need to self-correct erroneous
+reasoning paths until arriving at the answer. Specifically, three important
+mechanisms of Guidance, Memory, and Reflection are designed to work together,
+to guarantee the adaptive breadth of self-correcting planning for graph
+reasoning. Finally, extensive experiments on three real-world datasets
+demonstrate the effectiveness and efficiency of PoG.
+
+摘要：大型語言模型 (LLM) 在複雜任務中展現出非凡的推理能力，但仍存在知識過時、幻覺和決策不透明的問題。相反地，知識圖譜 (KG) 可以提供明確且可編輯的知識，供 LLM 緩解這些問題。現有的 KG 增強 LLM 典範手動預先定義探索空間的廣度，並需要在 KG 中完美導航。然而，此典範無法根據問題語意自適應地探索 KG 中的推理路徑，並自行糾正錯誤的推理路徑，導致效率和效果的瓶頸。為了解決這些限制，我們提出了一個名為圖形計畫 (PoG) 的 KG 增強 LLM 的新穎自修正自適應規劃典範，它首先將問題分解成幾個子目標，然後重複自適應探索推理路徑、更新記憶體和反思需要自行糾正錯誤推理路徑的過程，直到得出答案。具體來說，指導、記憶和反思這三個重要機制被設計為協同運作，以保證自修正規劃在圖形推理中的自適應廣度。最後，在三個真實世界資料集上的廣泛實驗證明了 PoG 的有效性和效率。
+
+##### **End-to-End Ontology Learning with Large Language Models**
+2410.23584v1 by Andy Lo, Albert Q. Jiang, Wenda Li, Mateja Jamnik
+
+Ontologies are useful for automatic machine processing of domain knowledge as
+they represent it in a structured format. Yet, constructing ontologies requires
+substantial manual effort. To automate part of this process, large language
+models (LLMs) have been applied to solve various subtasks of ontology learning.
+However, this partial ontology learning does not capture the interactions
+between subtasks. We address this gap by introducing OLLM, a general and
+scalable method for building the taxonomic backbone of an ontology from
+scratch. Rather than focusing on subtasks, like individual relations between
+entities, we model entire subcomponents of the target ontology by finetuning an
+LLM with a custom regulariser that reduces overfitting on high-frequency
+concepts. We introduce a novel suite of metrics for evaluating the quality of
+the generated ontology by measuring its semantic and structural similarity to
+the ground truth. In contrast to standard metrics, our metrics use deep
+learning techniques to define more robust distance measures between graphs.
+Both our quantitative and qualitative results on Wikipedia show that OLLM
+outperforms subtask composition methods, producing more semantically accurate
+ontologies while maintaining structural integrity. We further demonstrate that
+our model can be effectively adapted to new domains, like arXiv, needing only a
+small number of training examples. Our source code and datasets are available
+at https://github.com/andylolu2/ollm.
+
+摘要：本体对于领域知识的自动机器处理很有用，因为它们以结构化格式表示知识。然而，构建本体需要大量的手动工作。为了自动化这个过程的一部分，大型语言模型（LLM）已被应用于解决本体学习的各种子任务。然而，这种部分本体学习并没有捕捉到子任务之间的交互。我们通过引入 OLLM 来解决这一差距，这是一种从头开始构建本体分类骨架的通用且可扩展的方法。我们没有专注于子任务，例如实体之间的个别关系，而是通过使用自定义正则化器微调 LLM 来对目标本体的整个子组件进行建模，该正则化器减少了对高频概念的过度拟合。我们引入了一套新的指标来评估生成本体的质量，方法是测量它与地面真实值的语义和结构相似性。与标准指标相反，我们的指标使用深度学习技术来定义图之间的更稳健的距离度量。我们在维基百科上的定量和定性结果表明，OLLM 优于子任务组合方法，在保持结构完整性的同时生成语义上更准确的本体。我们进一步证明，我们的模型可以有效地适应新的领域，如 arXiv，只需要少量的训练样本。我们的源代码和数据集可在 https://github.com/andylolu2/ollm 获得。
+
+##### **Graph-Augmented Relation Extraction Model with LLMs-Generated Support Document**
+2410.23452v1 by Vicky Dong, Hao Yu, Yao Chen
+
+This study introduces a novel approach to sentence-level relation extraction
+(RE) that integrates Graph Neural Networks (GNNs) with Large Language Models
+(LLMs) to generate contextually enriched support documents. By harnessing the
+power of LLMs to generate auxiliary information, our approach crafts an
+intricate graph representation of textual data. This graph is subsequently
+processed through a Graph Neural Network (GNN) to refine and enrich the
+embeddings associated with each entity ensuring a more nuanced and
+interconnected understanding of the data. This methodology addresses the
+limitations of traditional sentence-level RE models by incorporating broader
+contexts and leveraging inter-entity interactions, thereby improving the
+model's ability to capture complex relationships across sentences. Our
+experiments, conducted on the CrossRE dataset, demonstrate the effectiveness of
+our approach, with notable improvements in performance across various domains.
+The results underscore the potential of combining GNNs with LLM-generated
+context to advance the field of relation extraction.
+
+摘要：本研究提出了一個句子層級關係萃取 (RE) 的新方法，該方法整合了圖形神經網路 (GNN) 和大型語言模型 (LLM)，以產生脈絡豐富的支援文件。透過利用 LLM 的功能來產生輔助資訊，我們的做法建立了一個文本資料的複雜圖形表示。此圖形隨後透過圖形神經網路 (GNN) 進行處理，以改善和豐富與每個實體相關的嵌入，確保對資料有更細緻且相互連結的理解。此方法透過納入更廣泛的脈絡並利用實體間互動，來解決傳統句子層級 RE 模型的限制，進而提升模型捕捉跨句子的複雜關係的能力。我們在 CrossRE 資料集上執行的實驗證明了我們方法的有效性，在各種領域的效能都有顯著的提升。這些結果強調了將 GNN 與 LLM 產生的脈絡相結合，以推進關係萃取領域的潛力。
+
+##### **FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**
+2410.23405v1 by Anuroop Sriram, Benjamin Kurt Miller, Ricky T. Q. Chen, Brandon M. Wood
+
+Material discovery is a critical area of research with the potential to
+revolutionize various fields, including carbon capture, renewable energy, and
+electronics. However, the immense scale of the chemical space makes it
+challenging to explore all possible materials experimentally. In this paper, we
+introduce FlowLLM, a novel generative model that combines large language models
+(LLMs) and Riemannian flow matching (RFM) to design novel crystalline
+materials. FlowLLM first fine-tunes an LLM to learn an effective base
+distribution of meta-stable crystals in a text representation. After converting
+to a graph representation, the RFM model takes samples from the LLM and
+iteratively refines the coordinates and lattice parameters. Our approach
+significantly outperforms state-of-the-art methods, increasing the generation
+rate of stable materials by over three times and increasing the rate for
+stable, unique, and novel crystals by $\sim50\%$ - a huge improvement on a
+difficult problem. Additionally, the crystals generated by FlowLLM are much
+closer to their relaxed state when compared with another leading model,
+significantly reducing post-hoc computational cost.
+
+摘要：材料發現是一個重要的研究領域，具有革新各種領域的潛力，包括碳捕集、可再生能源和電子產品。然而，化學空間的巨大規模使得實驗探索所有可能的材料具有挑戰性。在本文中，我們介紹了 FlowLLM，這是一種新穎的生成模型，結合了大型語言模型 (LLM) 和黎曼流匹配 (RFM) 來設計新型晶體材料。FlowLLM 首先微調 LLM，以學習文本表示中亞穩態晶體的有效基礎分佈。在轉換為圖形表示後，RFM 模型從 LLM 中獲取樣本，並反覆精煉坐標和晶格參數。我們的做法顯著優於最先進的方法，將穩定材料的生成率提高了三倍以上，並將穩定、獨特和新穎晶體的生成率提高了約 50%——這在一個困難的問題上是一個巨大的改進。此外，與另一種領先模型相比，FlowLLM 生成的晶體更接近其鬆弛狀態，顯著降低了事後計算成本。
+
 ##### **EMMA: End-to-End Multimodal Model for Autonomous Driving**
 2410.23262v1 by Jyh-Jing Hwang, Runsheng Xu, Hubert Lin, Wei-Chih Hung, Jingwei Ji, Kristy Choi, Di Huang, Tong He, Paul Covington, Benjamin Sapp, James Guo, Dragomir Anguelov, Mingxing Tan
 
@@ -2502,138 +2620,4 @@ be deployed and utilized without specialized knowledge of Machine Learning,
 making it accessible to a wide range of users.
 
 摘要：規劃和執行互動任務，例如進行實驗以確定未知物質的熔點，對人類來說很簡單，但對自主代理來說卻構成重大挑戰。我們引入了 ReasonPlanner，這是一個新穎的通才代理，專門用於反思性思考、規劃和互動推理。此代理利用 LLM 透過建立基於時序知識圖表的 World Model 來規劃假設性軌跡。代理使用自然語言的動作-評論模組與環境互動，其中動作將想像的軌跡轉換為一系列可操作的步驟，而評論則確定是否需要重新規劃。ReasonPlanner 在 ScienceWorld 基準上大幅優於先前的最先進提示式方法，優於 1.8 倍，同時更具樣本效率和可解釋性。它僅依賴凍結權重，因此不需要梯度更新。ReasonPlanner 可以部署和使用，而無需機器學習的專業知識，讓廣泛的使用者都能使用。
-
-##### **Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**
-2410.08985v2 by Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr
-
-Recently, Knowledge Graphs (KGs) have been successfully coupled with Large
-Language Models (LLMs) to mitigate their hallucinations and enhance their
-reasoning capability, such as in KG-based retrieval-augmented frameworks.
-However, current KG-LLM frameworks lack rigorous uncertainty estimation,
-limiting their reliable deployment in high-stakes applications. Directly
-incorporating uncertainty quantification into KG-LLM frameworks presents
-challenges due to their complex architectures and the intricate interactions
-between the knowledge graph and language model components. To address this gap,
-we propose a new trustworthy KG-LLM framework, Uncertainty Aware
-Knowledge-Graph Reasoning (UAG), which incorporates uncertainty quantification
-into the KG-LLM framework. We design an uncertainty-aware multi-step reasoning
-framework that leverages conformal prediction to provide a theoretical
-guarantee on the prediction set. To manage the error rate of the multi-step
-process, we additionally introduce an error rate control module to adjust the
-error rate within the individual components. Extensive experiments show that
-our proposed UAG can achieve any pre-defined coverage rate while reducing the
-prediction set/interval size by 40% on average over the baselines.
-
-摘要：近来，知识图谱 (KG) 已成功与大型语言模型 (LLM) 结合，以减轻其幻觉并增强其推理能力，例如基于 KG 的检索增强框架。
-然而，当前的 KG-LLM 框架缺乏严格的不确定性估计，限制了它们在高风险应用程序中的可靠部署。由于其复杂的架构以及知识图谱和语言模型组件之间的复杂交互，直接将不确定性量化纳入 KG-LLM 框架提出了挑战。为了解决这一差距，我们提出了一个新的可信 KG-LLM 框架，即不确定性感知知识图谱推理 (UAG)，它将不确定性量化纳入了 KG-LLM 框架。我们设计了一个不确定性感知多步骤推理框架，利用保形预测为预测集提供理论保证。为了管理多步骤过程中的错误率，我们另外引入了一个错误率控制模块来调整各个组件中的错误率。大量实验表明，我们提出的 UAG 可以达到任何预定义的覆盖率，同时将预测集/区间大小平均减少 40%，超过基线。
-
-##### **When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning**
-2410.09132v1 by Hao Yan, Chaozhuo Li, Zhigang Yu, Jun Yin, Ruochen Liu, Peiyan Zhang, Weihao Han, Mingzheng Li, Zhengxin Zeng, Hao Sun, Weiwei Deng, Feng Sun, Qi Zhang, Senzhang Wang
-
-Multimodal attributed graphs (MAGs) are prevalent in various real-world
-scenarios and generally contain two kinds of knowledge: (a) Attribute knowledge
-is mainly supported by the attributes of different modalities contained in
-nodes (entities) themselves, such as texts and images. (b) Topology knowledge,
-on the other hand, is provided by the complex interactions posed between nodes.
-The cornerstone of MAG representation learning lies in the seamless integration
-of multimodal attributes and topology. Recent advancements in Pre-trained
-Language/Vision models (PLMs/PVMs) and Graph neural networks (GNNs) have
-facilitated effective learning on MAGs, garnering increased research interest.
-However, the absence of meaningful benchmark datasets and standardized
-evaluation procedures for MAG representation learning has impeded progress in
-this field. In this paper, we propose Multimodal Attribute Graph Benchmark
-(MAGB)}, a comprehensive and diverse collection of challenging benchmark
-datasets for MAGs. The MAGB datasets are notably large in scale and encompass a
-wide range of domains, spanning from e-commerce networks to social networks. In
-addition to the brand-new datasets, we conduct extensive benchmark experiments
-over MAGB with various learning paradigms, ranging from GNN-based and PLM-based
-methods, to explore the necessity and feasibility of integrating multimodal
-attributes and graph topology. In a nutshell, we provide an overview of the MAG
-datasets, standardized evaluation procedures, and present baseline experiments.
-The entire MAGB project is publicly accessible at
-https://github.com/sktsherlock/ATG.
-
-摘要：<paragraph>多模態屬性圖 (MAG) 在各種真實世界的場景中很常見，通常包含兩種類型的知識：(a) 屬性知識主要由節點（實體）本身所包含的不同模態的屬性提供支援，例如文字和圖像。(b) 另一方面，拓撲知識則是由節點之間提出的複雜互動提供。MAG 表示式學習的基石在於多模態屬性和拓撲的無縫整合。預訓練語言/視覺模型 (PLM/PVM) 和圖形神經網路 (GNN) 的最新進展促進了對 MAG 的有效學習，引起了越來越多的研究興趣。然而，缺乏有意義的基準資料集和標準化的 MAG 表示式學習評估程序阻礙了該領域的進展。在本文中，我們提出了多模態屬性圖基準 (MAGB)，這是針對 MAG 的全面且多樣化的挑戰性基準資料集集合。MAGB 資料集的規模顯著龐大，涵蓋了從電子商務網路到社交網路的廣泛領域。除了全新的資料集外，我們還使用各種學習範例對 MAGB 進行了廣泛的基準實驗，從基於 GNN 和基於 PLM 的方法，以探索整合多模態屬性和圖形拓撲的必要性和可行性。簡而言之，我們提供了 MAG 資料集、標準化評估程序的概述，並提出了基準實驗。整個 MAGB 專案可在 https://github.com/sktsherlock/ATG 公開取得。</paragraph>
-
-##### **GIVE: Structured Reasoning with Knowledge Graph Inspired Veracity Extrapolation**
-2410.08475v1 by Jiashu He, Mingyu Derek Ma, Jinxuan Fan, Dan Roth, Wei Wang, Alejandro Ribeiro
-
-Existing retrieval-based reasoning approaches for large language models
-(LLMs) heavily rely on the density and quality of the non-parametric knowledge
-source to provide domain knowledge and explicit reasoning chain. However,
-inclusive knowledge sources are expensive and sometimes infeasible to build for
-scientific or corner domains. To tackle the challenges, we introduce Graph
-Inspired Veracity Extrapolation (GIVE), a novel reasoning framework that
-integrates the parametric and non-parametric memories to enhance both knowledge
-retrieval and faithful reasoning processes on very sparse knowledge graphs. By
-leveraging the external structured knowledge to inspire LLM to model the
-interconnections among relevant concepts, our method facilitates a more logical
-and step-wise reasoning approach akin to experts' problem-solving, rather than
-gold answer retrieval. Specifically, the framework prompts LLMs to decompose
-the query into crucial concepts and attributes, construct entity groups with
-relevant entities, and build an augmented reasoning chain by probing potential
-relationships among node pairs across these entity groups. Our method
-incorporates both factual and extrapolated linkages to enable comprehensive
-understanding and response generation. Extensive experiments on
-reasoning-intense benchmarks on biomedical and commonsense QA demonstrate the
-effectiveness of our proposed method. Specifically, GIVE enables GPT3.5-turbo
-to outperform advanced models like GPT4 without any additional training cost,
-thereby underscoring the efficacy of integrating structured information and
-internal reasoning ability of LLMs for tackling specialized tasks with limited
-external resources.
-
-摘要：現有的基於檢索的推理方法對於大型語言模型 (LLM) 嚴重依賴非參數知識來源的密度和品質，以提供領域知識和明確的推理鏈。然而，包容性的知識來源很昂貴，有時對於科學或角落領域來說，建立起來也不可行。為了應對這些挑戰，我們引入了圖形啟發真實推斷 (GIVE)，這是一個新穎的推理架構，它整合了參數和非參數記憶體，以增強在非常稀疏的知識圖譜上進行知識檢索和忠實推理過程。透過利用外部結構化知識來激勵 LLM 模擬相關概念之間的相互關聯，我們的技術促進了一種更合乎邏輯且循序漸進的推理方法，類似於專家的問題解決，而不是黃金答案檢索。具體來說，該架構提示 LLM 將查詢分解為關鍵概念和屬性，使用相關實體建構實體群組，並透過探查這些實體群組中節點對之間的潛在關係來建立增強的推理鏈。我們的技術結合了事實和外推關聯，以實現全面的理解和回應產生。在生物醫學和常識問答上對推理密集基準進行的廣泛實驗證明了我們提出的方法的有效性。具體來說，GIVE 使 GPT3.5-turbo 能夠在沒有任何額外訓練成本的情況下優於 GPT4 等進階模型，從而強調了整合結構化資訊和 LLM 內部推理能力對於處理具有有限外部資源的專業任務的效能。
-
-##### **Logic Error Localization in Student Programming Assignments Using Pseudocode and Graph Neural Networks**
-2410.21282v1 by Zhenyu Xu, Kun Zhang, Victor S. Sheng
-
-Pseudocode is extensively used in introductory programming courses to
-instruct computer science students in algorithm design, utilizing natural
-language to define algorithmic behaviors. This learning approach enables
-students to convert pseudocode into source code and execute it to verify their
-algorithms' correctness. This process typically introduces two types of errors:
-syntax errors and logic errors. Syntax errors are often accompanied by compiler
-feedback, which helps students identify incorrect lines. In contrast, logic
-errors are more challenging because they do not trigger compiler errors and
-lack immediate diagnostic feedback, making them harder to detect and correct.
-To address this challenge, we developed a system designed to localize logic
-errors within student programming assignments at the line level. Our approach
-utilizes pseudocode as a scaffold to build a code-pseudocode graph, connecting
-symbols from the source code to their pseudocode counterparts. We then employ a
-graph neural network to both localize and suggest corrections for logic errors.
-Additionally, we have devised a method to efficiently gather logic-error-prone
-programs during the syntax error correction process and compile these into a
-dataset that includes single and multiple line logic errors, complete with
-indices of the erroneous lines. Our experimental results are promising,
-demonstrating a localization accuracy of 99.2% for logic errors within the
-top-10 suspected lines, highlighting the effectiveness of our approach in
-enhancing students' coding proficiency and error correction skills.
-
-摘要：偽代碼廣泛用於入門程式設計課程中，以自然語言定義演算法行為，指導電腦科學學生進行演算法設計。這種學習方法使學生能夠將偽代碼轉換為原始碼並執行它，以驗證其演算法的正確性。此過程通常會產生兩種類型的錯誤：語法錯誤和邏輯錯誤。語法錯誤通常會伴隨著編譯器回饋，這有助於學生識別不正確的行。相比之下，邏輯錯誤更具挑戰性，因為它們不會觸發編譯器錯誤，並且缺乏立即的診斷回饋，這使得它們更難以檢測和更正。為了應對這一挑戰，我們開發了一個系統，旨在將邏輯錯誤定位在學生程式設計作業中的行級。我們的做法利用偽代碼作為建立程式碼偽代碼圖的支架，將原始碼中的符號連接到它們的偽代碼對應項。然後，我們採用圖神經網路來定位邏輯錯誤並建議更正方法。此外，我們還設計了一種方法，可以在語法錯誤更正過程中有效地收集容易發生邏輯錯誤的程式，並將這些程式編譯成一個資料集，其中包括單行和多行邏輯錯誤，以及錯誤行的索引。我們的實驗結果很有希望，證明了在排名前 10 的可疑行中邏輯錯誤的定位準確度為 99.2%，突顯了我們的方法在提高學生的編碼能力和錯誤更正技能方面的有效性。
-
-##### **Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**
-2410.08299v1 by Haoteng Yin, Rongzhe Wei, Eli Chien, Pan Li
-
-Graphs offer unique insights into relationships and interactions between
-entities, complementing data modalities like text, images, and videos. By
-incorporating relational information from graph data, AI models can extend
-their capabilities beyond traditional tasks. However, relational data in
-sensitive domains such as finance and healthcare often contain private
-information, making privacy preservation crucial. Existing privacy-preserving
-methods, such as DP-SGD, which rely on gradient decoupling assumptions, are not
-well-suited for relational learning due to the inherent dependencies between
-coupled training samples. To address this challenge, we propose a
-privacy-preserving relational learning pipeline that decouples dependencies in
-sampled relations during training, ensuring differential privacy through a
-tailored application of DP-SGD. We apply this method to fine-tune large
-language models (LLMs) on sensitive graph data, and tackle the associated
-computational complexities. Our approach is evaluated on LLMs of varying sizes
-(e.g., BERT, Llama2) using real-world relational data from four text-attributed
-graphs. The results demonstrate significant improvements in relational learning
-tasks, all while maintaining robust privacy guarantees during training.
-Additionally, we explore the trade-offs between privacy, utility, and
-computational efficiency, offering insights into the practical deployment of
-our approach. Code is available at https://github.com/Graph-COM/PvGaLM.
-
-摘要：圖表提供關於實體之間關係和互動的獨特見解，補充了文本、影像和影片等資料模式。透過納入來自圖表資料的關係資訊，AI 模型可以將其功能延伸到傳統任務之外。然而，敏感領域（例如金融和醫療保健）中的關係資料通常包含私人資訊，因此隱私保護至關重要。現有的隱私保護方法（例如 DP-SGD），依賴於梯度解耦假設，由於耦合訓練樣本之間的內在依賴性，並不適合關係學習。為了應對這個挑戰，我們提出一個隱私保護關係學習管道，在訓練期間解耦取樣關係中的依賴性，透過客製化應用 DP-SGD 來確保差異隱私。我們將此方法應用於敏感圖表資料上微調大型語言模型 (LLM)，並解決相關的計算複雜性。我們的方法在不同大小的 LLM（例如 BERT、Llama2）上進行評估，使用來自四個文字屬性圖表的真實世界關係資料。結果證明關係學習任務有顯著的進步，同時在訓練期間維持強大的隱私保證。此外，我們探討隱私、效用和計算效率之間的權衡，提供對我們方法實際部署的見解。程式碼可在 https://github.com/Graph-COM/PvGaLM 取得。
 

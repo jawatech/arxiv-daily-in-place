@@ -9,7 +9,7 @@
 |**2024-10-31**|**P-Masking: Power Law Masking Improves Multi-attribute Controlled Generation**|Mohamed Elgaar et.al.|[2410.24201v1](http://arxiv.org/abs/2410.24201v1)|null|
 |**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200v1](http://arxiv.org/abs/2410.24200v1)|null|
 |**2024-10-31**|**Multi-Attribute Linguistic Tuning for Controlled Paraphrase Generation**|Mohamed Elgaar et.al.|[2410.24199v1](http://arxiv.org/abs/2410.24199v1)|null|
-|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198v1](http://arxiv.org/abs/2410.24198v1)|null|
+|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198v2](http://arxiv.org/abs/2410.24198v2)|[link](https://github.com/bigcode-project/selfcodealign)|
 |**2024-10-31**|**Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**|Yujin Potter et.al.|[2410.24190v1](http://arxiv.org/abs/2410.24190v1)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187v1](http://arxiv.org/abs/2410.24187v1)|[link](https://github.com/vita-group/chasing-better-dips)|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177v1](http://arxiv.org/abs/2410.24177v1)|null|
@@ -19,19 +19,20 @@
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155v1](http://arxiv.org/abs/2410.24155v1)|null|
 |**2024-10-31**|**Scaling Concept With Text-Guided Diffusion Models**|Chao Huang et.al.|[2410.24151v1](http://arxiv.org/abs/2410.24151v1)|null|
 |**2024-10-31**|**Don't Touch My Diacritics**|Kyle Gorman et.al.|[2410.24140v1](http://arxiv.org/abs/2410.24140v1)|null|
-|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126v1](http://arxiv.org/abs/2410.24126v1)|null|
+|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126v2](http://arxiv.org/abs/2410.24126v2)|null|
 |**2024-10-31**|**Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing**|Akash Dhruv et.al.|[2410.24119v1](http://arxiv.org/abs/2410.24119v1)|[link](https://github.com/neucol/llm-conversion-performance)|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[2410.24116v1](http://arxiv.org/abs/2410.24116v1)|null|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114v1](http://arxiv.org/abs/2410.24114v1)|[link](https://github.com/multimodal-interpretability/nnn)|
 |**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087v1](http://arxiv.org/abs/2410.24087v1)|null|
 |**2024-10-31**|**Graph Learning for Numeric Planning**|Dillon Z. Chen et.al.|[2410.24080v1](http://arxiv.org/abs/2410.24080v1)|[link](https://github.com/DillonZChen/goose)|
-|**2024-10-31**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070v1](http://arxiv.org/abs/2410.24070v1)|[link](https://github.com/qglht/repal)|
+|**2024-10-31**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070v2](http://arxiv.org/abs/2410.24070v2)|[link](https://github.com/qglht/repal)|
 |**2024-10-31**|**Identifying General Mechanism Shifts in Linear Causal Representations**|Tianyu Chen et.al.|[2410.24059v1](http://arxiv.org/abs/2410.24059v1)|null|
 |**2024-10-31**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049v1](http://arxiv.org/abs/2410.24049v1)|null|
 |**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032v1](http://arxiv.org/abs/2410.24032v1)|null|
 |**2024-10-31**|**A Multi-Modal Approach for Face Anti-Spoofing in Non-Calibrated Systems using Disparity Maps**|Ariel Larey et.al.|[2410.24031v1](http://arxiv.org/abs/2410.24031v1)|null|
 |**2024-10-31**|**Joint Training for Selective Prediction**|Zhaohui Li et.al.|[2410.24029v1](http://arxiv.org/abs/2410.24029v1)|null|
 |**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024v1](http://arxiv.org/abs/2410.24024v1)|null|
+|**2024-10-31**|**SFM-Protein: Integrative Co-evolutionary Pre-training for Advanced Protein Sequence Representation**|Liang He et.al.|[2410.24022v1](http://arxiv.org/abs/2410.24022v1)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021v1](http://arxiv.org/abs/2410.24021v1)|null|
 |**2024-10-31**|**Speech is More Than Words: Do Speech-to-Text Translation Systems Leverage Prosody?**|Ioannis Tsiamas et.al.|[2410.24019v1](http://arxiv.org/abs/2410.24019v1)|null|
 |**2024-10-31**|**Assessing the Impact of Packing on Machine Learning-Based Malware Detection and Classification Systems**|Daniel Gibert et.al.|[2410.24017v1](http://arxiv.org/abs/2410.24017v1)|null|
@@ -65,7 +66,7 @@
 |**2024-10-31**|**What is Wrong with Perplexity for Long-context Language Modeling?**|Lizhe Fang et.al.|[2410.23771v1](http://arxiv.org/abs/2410.23771v1)|[link](https://github.com/pku-ml/longppl)|
 |**2024-10-31**|**The Potential of LLMs in Medical Education: Generating Questions and Answers for Qualification Exams**|Yunqi Zhu et.al.|[2410.23769v1](http://arxiv.org/abs/2410.23769v1)|null|
 |**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753v1](http://arxiv.org/abs/2410.23753v1)|[link](https://github.com/akulen/alphagateau)|
-|**2024-10-31**|**LSEAttention is All You Need for Time Series Forecasting**|Dizhen Liang et.al.|[2410.23749v1](http://arxiv.org/abs/2410.23749v1)|null|
+|**2024-10-31**|**LSEAttention is All You Need for Time Series Forecasting**|Dizhen Liang et.al.|[2410.23749v2](http://arxiv.org/abs/2410.23749v2)|null|
 |**2024-10-31**|**DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios**|Junchao Wu et.al.|[2410.23746v1](http://arxiv.org/abs/2410.23746v1)|[link](https://github.com/nlp2ct/detectrl)|
 |**2024-10-31**|**Syno: Structured Synthesis for Neural Operators**|Yongqi Zhuo et.al.|[2410.23745v1](http://arxiv.org/abs/2410.23745v1)|null|
 |**2024-10-31**|**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective**|Ming Li et.al.|[2410.23743v1](http://arxiv.org/abs/2410.23743v1)|[link](https://github.com/mingliiii/layer_gradient)|
@@ -91,7 +92,7 @@
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537v1](http://arxiv.org/abs/2410.23537v1)|null|
 |**2024-10-31**|**Simulating User Agents for Embodied Conversational-AI**|Daniel Philipov et.al.|[2410.23535v1](http://arxiv.org/abs/2410.23535v1)|null|
 |**2024-10-31**|**There and Back Again: On the relation between noises, images, and their inversions in diffusion models**|Łukasz Staniszewski et.al.|[2410.23530v1](http://arxiv.org/abs/2410.23530v1)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528v1](http://arxiv.org/abs/2410.23528v1)|null|
+|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528v2](http://arxiv.org/abs/2410.23528v2)|null|
 |**2024-10-31**|**LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models**|Hieu Tran et.al.|[2410.23526v1](http://arxiv.org/abs/2410.23526v1)|null|
 |**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514v1](http://arxiv.org/abs/2410.23514v1)|[link](https://github.com/matejklemen/slonspell)|
 |**2024-10-30**|**Dynamic Strategy Planning for Efficient Question Answering with Large Language Models**|Tanmay Parekh et.al.|[2410.23511v1](http://arxiv.org/abs/2410.23511v1)|null|
@@ -101,7 +102,6 @@
 |**2024-10-30**|**All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling**|Emanuele Marconato et.al.|[2410.23501v1](http://arxiv.org/abs/2410.23501v1)|null|
 |**2024-10-30**|**Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm**|Sattar Vakili et.al.|[2410.23498v1](http://arxiv.org/abs/2410.23498v1)|null|
 |**2024-10-30**|**Smaller Large Language Models Can Do Moral Self-Correction**|Guangliang Liu et.al.|[2410.23496v1](http://arxiv.org/abs/2410.23496v1)|null|
-|**2024-10-30**|**Causality-Driven Audits of Model Robustness**|Nathan Drenkow et.al.|[2410.23494v1](http://arxiv.org/abs/2410.23494v1)|null|
 
 #### Abstracts
 ##### **Bridging Geometric States via Geometric Diffusion Bridge**
@@ -266,7 +266,7 @@ attributes.
 摘要：我們提出了一種新的同義詞生成方法，它可以精確控制和微調英文的 40 種語言屬性。我們的模型是一種編碼器-解碼器架構，它以原始句子和所需的語言屬性作為輸入，並產生符合所需屬性的原始同義詞。為了保證在推理時輸出高品質，我們的模型配備了一個品質控制機制，它會逐步調整語言屬性的嵌入，以尋找最接近且最可實現的同義詞生成所需屬性配置。我們透過將我們的模型與最近的可控生成模型進行比較來評估其有效性。實驗結果表明，所提出的模型在生成滿足所需語言屬性的同義詞方面優於基線。
 
 ##### **SelfCodeAlign: Self-Alignment for Code Generation**
-2410.24198v1 by Yuxiang Wei, Federico Cassano, Jiawei Liu, Yifeng Ding, Naman Jain, Zachary Mueller, Harm de Vries, Leandro von Werra, Arjun Guha, Lingming Zhang
+2410.24198v2 by Yuxiang Wei, Federico Cassano, Jiawei Liu, Yifeng Ding, Naman Jain, Zachary Mueller, Harm de Vries, Leandro von Werra, Arjun Guha, Lingming Zhang
 
 Instruction tuning is a supervised fine-tuning approach that significantly
 improves the ability of large language models (LLMs) to follow human
@@ -293,7 +293,7 @@ Evol-Instruct. SelfCodeAlign has also led to the creation of
 StarCoder2-Instruct, the first fully transparent, permissively licensed, and
 self-aligned code LLM that achieves state-of-the-art coding performance.
 
-摘要：指令調整是一種監督微調方法，它顯著提高了大型語言模型 (LLM) 遵循人類指令的能力。我們提出 SelfCodeAlign，這是第一個完全透明且允許的管道，用於自我對齊程式碼 LLM，無需大量人工註解或蒸餾。SelfCodeAlign 在整個數據生成過程中採用相同的基礎模型進行推論。它首先從高品質種子片段中提取不同的編碼概念來生成新任務。然後它對每個任務採樣多個響應，將每個響應與測試用例配對，並在沙箱環境中驗證它們。最後，選擇通過範例進行指令調整。在我們的基礎實驗中，我們使用 SelfCodeAlign 與 CodeQwen1.5-7B 生成一個包含 74k 指令響應對應組的數據集。在該數據集上的微調導致一個模型，該模型在 HumanEval+ 上實現了 67.1 的 pass@1，儘管它比 CodeLlama-70B-Instruct 小十倍。在所有基準測試中，這個微調模型始終優於使用 OctoPack 訓練的原始版本，OctoPack 是之前在沒有人工註解或蒸餾的情況下進行指令調整的最新方法。此外，我們表明 SelfCodeAlign 對各種規模的 LLM 有效，從 3B 到 33B，並且基礎模型可以更多地受益於與它們自己的數據分佈對齊。我們進一步驗證了管道中每個組件的有效性，表明 SelfCodeAlign 優於從 GPT-4o 直接蒸餾和基於 GPT-3.5 的領先蒸餾方法，例如 OSS-Instruct 和 Evol-Instruct。SelfCodeAlign 還導致了 StarCoder2-Instruct 的創建，StarCoder2-Instruct 是第一個完全透明、許可寬鬆且自我對齊的程式碼 LLM，它實現了最先進的編碼性能。
+摘要：指令微調是一種受監督的微調方法，它顯著提升了大型語言模型 (LLM) 遵循人類指令的能力。我們提出了 SelfCodeAlign，這是第一個完全透明且允許的管道，用於自我對齊程式碼 LLM，而無需大量的標註或萃取。SelfCodeAlign 在整個資料產生過程中採用相同的基礎模型進行推理。它首先從高品質種子片段中提取多樣的編碼概念，以產生新任務。然後，它對每個任務抽樣多個回應，將每個回應與測試用例配對，並在沙盒環境中驗證它們。最後，選擇通過範例進行指令微調。在我們的基礎實驗中，我們使用 SelfCodeAlign 搭配 CodeQwen1.5-7B 來產生一個包含 74k 條指令回應配對的資料集。針對此資料集進行微調會產生一個模型，在 HumanEval+ 上達到 67.1 pass@1，儘管它比 CodeLlama-70B-Instruct 小十倍，但卻超越了它。在所有基準測試中，這個微調模型始終優於使用 OctoPack 訓練的原始版本，OctoPack 是之前在沒有人工標註或萃取的情況下進行指令微調的最新方法。此外，我們展示了 SelfCodeAlign 對各種規模的 LLM 都很有效，從 3B 到 33B，而且基礎模型可以從與它們自己的資料分佈對齊中受益更多。我們進一步驗證了管道中每個組件的有效性，顯示 SelfCodeAlign 優於直接從 GPT-4o 萃取以及領先的基於 GPT-3.5 的萃取方法，例如 OSS-Instruct 和 Evol-Instruct。SelfCodeAlign 也導致了 StarCoder2-Instruct 的建立，這是第一個完全透明、許可寬鬆且自我對齊的程式碼 LLM，達到了最先進的編碼效能。
 
 ##### **Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**
 2410.24190v1 by Yujin Potter, Shiyang Lai, Junsol Kim, James Evans, Dawn Song
@@ -486,7 +486,7 @@ equity in multilingual NLP.
 摘要：在將文本輸入 NLP 模型之前，預處理文本的常見做法會引入許多決策點，這些決策點會對模型效能造成意想不到的後果。在這篇意見文章中，我們專注於處理來自多種語言和腳本的文本中的變音符號。我們透過多項個案研究，證明了變音符號字元編碼不一致和完全移除變音符號的不利影響。我們呼籲社群在所有模型和工具組中採取簡單但必要的步驟，以改善變音符號文本的處理方式，進而擴大多語言 NLP 中的公平性。
 
 ##### **Multi-environment Topic Models**
-2410.24126v1 by Dominic Sobhani, Amir Feder, David Blei
+2410.24126v2 by Dominic Sobhani, Amir Feder, David Blei
 
 Probabilistic topic models are a powerful tool for extracting latent themes
 from large text datasets. In many text datasets, we also observe per-document
@@ -502,7 +502,7 @@ MTM produces interpretable global topics with distinct environment-specific
 words. On multi-environment data, the MTM outperforms strong baselines in and
 out-of-distribution. It also enables the discovery of accurate causal effects.
 
-摘要：機率主題模型是一種強大的工具，可用於從大型文本資料集中萃取潛在主題。在許多文本資料集中，我們也會觀察到每個文件共變數（例如，來源、風格、政治聯繫），這些共變數會作為環境，調節「全球」（與環境無關）主題表徵。準確學習這些表徵對於預測未知環境中的新文件以及估計主題對現實世界結果的因果關係非常重要。為此，我們引入了多環境主題模型 (MTM)，這是一個無監督的機率模型，可將全球和特定環境的術語分開。透過在各種政治內容（從廣告到推文和演講）上進行實驗，我們證明 MTM 產生了可解釋的全球主題，並帶有不同的特定環境字詞。在多環境資料上，MTM 在分佈內和分佈外都優於強大的基準。它還能發現準確的因果關係。
+摘要：機率主題模型是一種從大量文字資料集中萃取隱藏主題的強大工具。在許多文字資料集中，我們也觀察到每個文件的共變量（例如來源、風格、政治傾向），這些共變量會作為環境來調節「全域性」（與環境無關）的主題表徵。準確地學習這些表徵對於預測未見環境中的新文件以及估計主題對現實世界結果的因果關係非常重要。為此，我們引入了多環境主題模型 (MTM)，這是一個非監督的機率模型，可以將全域性和環境特定的術語分開。透過對各種政治內容（從廣告到推文和演講）進行實驗，我們證明 MTM 可以產生具有不同環境特定字詞的可解釋全域性主題。在多環境資料中，MTM 在分佈內外都優於強大的基準線。它還能發現準確的因果關係。
 
 ##### **Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing**
 2410.24119v1 by Akash Dhruv, Anshu Dubey
@@ -612,7 +612,7 @@ planners. Code is available at https://github.com/DillonZChen/goose
 摘要：圖形學習由於能夠利用規劃領域中展示的關係結構，並將具有任意數量的物件的規劃實例作為輸入，因此自然非常適合用於符號、以物件為中心規劃。數值規劃是符號規劃的延伸，其中狀態現在也可能顯示數值變數。在這項工作中，我們提出了資料有效且可解釋的機器學習模型，用於學習解決數值規劃任務。這涉及為具有連續和類別屬性的圖形構建一個新的圖形核，以及用於學習數值規劃啟發式函數的新優化方法。實驗表明，我們的圖形核比數值規劃的圖神經網路更有效率，且泛化性更好，並且與與領域無關的數值規劃器相比，也產生了具有競爭力的覆蓋效能。程式碼可在 https://github.com/DillonZChen/goose 取得
 
 ##### **Dynamical similarity analysis uniquely captures how computations develop in RNNs**
-2410.24070v1 by Quentin Guilhot, Jascha Achterberg, Michał Wójcik, Rui Ponte Costa
+2410.24070v2 by Quentin Guilhot, Michał Wójcik, Jascha Achterberg, Rui Ponte Costa
 
 Methods for analyzing representations in neural systems are increasingly
 popular tools in neuroscience and mechanistic interpretability. Measures
@@ -637,7 +637,7 @@ states. Overall, we develop test cases that showcase how DSA's enhanced ability
 to detect dynamical motifs makes it highly effective for identifying ongoing
 computations in RNNs and revealing how networks learn tasks.
 
-摘要：神经系统中表示分析的方法在神经科学和机制可解释性中越来越受欢迎。比较神经激活在不同条件、架构和物种下的测量方法提供了可扩展的方法来理解不同神经网络中信息转换。然而，最近的研究结果表明，一些指标会对虚假信号做出反应，从而导致误导性结果。因此，建立基准测试用例对于识别最可靠的指标和潜在改进至关重要。我们提出，循环神经网络（RNN）中的组合学习可以为动态表示对齐指标提供一个测试用例。实现此用例允许我们评估指标是否可以识别在整个学习过程中发展的表示，并确定由指标识别的表示是否反映了网络的实际计算。通过构建吸引子和基于 RNN 的测试用例，我们表明最近提出的动态相似性分析（DSA）具有更强的噪声鲁棒性，并且与先前的指标（Procrustes、CKA）相比，可以可靠地识别与行为相关的表示。我们还演示了此类测试用例如何扩展到指标评估之外以研究新架构。具体来说，在现代（Mamba）状态空间模型中测试 DSA 表明，与 RNN 不同，这些模型可能不需要改变循环动态，因为它们具有表达性的隐藏状态。总体而言，我们开发了测试用例，展示了 DSA 增强了检测动态主题的能力如何使其非常有效地识别 RNN 中正在进行的计算，并揭示网络如何学习任务。
+摘要：神經系統中分析表徵的方法在神經科學和機制可解釋性中越來越受歡迎。比較神經活化在不同條件、架構和物種中的測量方法提供了可擴充的方法來了解不同神經網路中的資訊轉換。然而，最近的研究發現，有些指標會對虛假訊號產生反應，導致結果具有誤導性。因此，建立基準測試案例對於找出最可靠的指標和潛在的改善方法至關重要。我們提出，遞迴神經網路 (RNN) 中的組合學習可以提供一個測試案例，用於動態表徵比對指標。實作這個案例讓我們能夠評估指標是否能找出在整個學習過程中發展的表徵，並確定指標所找出的表徵是否反映了網路的實際運算。透過建立吸引子 (attractor) 和基於 RNN 的測試案例，我們展示了最近提出的動態相似性分析 (DSA) 在雜訊中更強健，而且與之前的指標 (Procrustes、CKA) 相比，更可靠地找出與行為相關的表徵。我們也展示了這些測試案例如何擴充到指標評估以外，用於研究新的架構。特別是，在現代 (Mamba) 狀態空間模型中測試 DSA，顯示這些模型與 RNN 不同，可能不需要改變遞迴動態，因為它們具有表現力的隱藏狀態。總體而言，我們開發了測試案例，展示 DSA 增強的動態模式偵測能力如何讓它能非常有效地找出 RNN 中正在進行的運算，並揭示網路如何學習任務。
 
 ##### **Identifying General Mechanism Shifts in Linear Causal Representations**
 2410.24059v1 by Tianyu Chen, Kevin Bello, Francesco Locatello, Bryon Aragam, Pradeep Ravikumar
@@ -792,6 +792,27 @@ from 1.93\% to 13.28\% for LMMs. AndroidLab is open-sourced and publicly
 available at \url{https://github.com/THUDM/Android-Lab}.
 
 摘要：自主代理已變得越來越重要，用於與現實世界互動。特別是 Android 代理，最近已成為一種常被提及的互動方法。然而，現有的訓練和評估 Android 代理的研究，缺乏對開源和閉源模型的系統性研究。在這項工作中，我們提出 AndroidLab 作為一個系統性的 Android 代理框架。它包含一個具有不同模態、動作空間和可重現基準的運作環境。它在相同的動作空間中支援大型語言模型 (LLM) 和多模態模型 (LMM)。AndroidLab 基準包括預定義的 Android 虛擬裝置，以及建立在這些裝置上的 138 個任務，涵蓋九個應用程式。透過使用 AndroidLab 環境，我們開發了一個 Android 指令資料集，並訓練了六個開源 LLM 和 LMM，將 LLM 的平均成功率從 4.59% 提升到 21.50%，將 LMM 的平均成功率從 1.93% 提升到 13.28%。AndroidLab 是開源的，並公開於 \url{https://github.com/THUDM/Android-Lab}。
+
+##### **SFM-Protein: Integrative Co-evolutionary Pre-training for Advanced Protein Sequence Representation**
+2410.24022v1 by Liang He, Peiran Jin, Yaosen Min, Shufang Xie, Lijun Wu, Tao Qin, Xiaozhuan Liang, Kaiyuan Gao, Yuliang Jiang, Tie-Yan Liu
+
+Proteins, essential to biological systems, perform functions intricately
+linked to their three-dimensional structures. Understanding the relationship
+between protein structures and their amino acid sequences remains a core
+challenge in protein modeling. While traditional protein foundation models
+benefit from pre-training on vast unlabeled datasets, they often struggle to
+capture critical co-evolutionary information, which evolutionary-based methods
+excel at. In this study, we introduce a novel pre-training strategy for protein
+foundation models that emphasizes the interactions among amino acid residues to
+enhance the extraction of both short-range and long-range co-evolutionary
+features from sequence data. Trained on a large-scale protein sequence dataset,
+our model demonstrates superior generalization ability, outperforming
+established baselines of similar size, including the ESM model, across diverse
+downstream tasks. Experimental results confirm the model's effectiveness in
+integrating co-evolutionary information, marking a significant step forward in
+protein sequence-based modeling.
+
+摘要：蛋白質對於生物系統至關重要，其功能與其三維結構密切相關。了解蛋白質結構與其胺基酸序列之間的關係，仍然是蛋白質建模中一項核心的挑戰。雖然傳統的蛋白質基礎模型受益於在大量的未標記數據集上進行預訓練，但它們通常難以捕捉關鍵的共同演化資訊，而基於演化的方法則擅長於此。在這項研究中，我們為蛋白質基礎模型引入了一種新穎的預訓練策略，強調胺基酸殘基之間的交互作用，以增強從序列數據中提取短程和長程共同演化特徵的能力。我們的模型在一個大規模的蛋白質序列數據集上進行訓練，展示出優異的泛化能力，在各種下游任務中優於大小相似的已建立基準，包括 ESM 模型。實驗結果證實了該模型在整合共同演化資訊方面的有效性，標誌著基於蛋白質序列的建模向前邁出了重要的一步。
 
 ##### **Detecting text level intellectual influence with knowledge graph embeddings**
 2410.24021v1 by Lucian Li, Eryclis Silva
@@ -1592,7 +1613,7 @@ https://github.com/akulen/AlphaGateau.
 摘要：<paragraph>掌握遊戲是一項艱難的任務，因為遊戲可能極其複雜，而且彼此在結構上仍然有根本性的不同。儘管 AlphaZero 演算法已展現出令人印象深刻的能力，可以學習各種遊戲的規則和策略，從圍棋和西洋棋到雅達利遊戲，但它依賴於廣泛的計算資源和嚴格的卷積神經網路 (CNN) 架構，這限制了它的適應性和可擴充性。訓練在 $19\times 19$ 圍棋盤上進行遊戲的模型無法用於在較小的 $13\times 13$ 棋盤上進行遊戲，儘管這兩種圍棋變體之間有相似之處。在本文中，我們專注於西洋棋，並探討使用更通用的基於圖形的遊戲狀態表示，而不是基於格子的表示，以引入基於圖形神經網路 (GNN) 的更通用架構。我們還擴充了傳統的圖形注意力網路 (GAT) 層以納入邊緣特徵，以自然地提供通用的策略輸出格式。我們在比最初的 AlphaZero 論文中更小的網路中進行的實驗表明，這種新架構優於具有類似參數數量的先前架構，能夠以更快的速度提高遊戲強度。我們還表明，當模型在較小的 $5\times 5$ 西洋棋變體上進行訓練時，可以快速微調以在常規 $8\times 8$ 西洋棋上進行遊戲，這表明這種方法產生了有希望的泛化能力。我們的程式碼可在 https://github.com/akulen/AlphaGateau 取得。</paragraph>
 
 ##### **LSEAttention is All You Need for Time Series Forecasting**
-2410.23749v1 by Dizhen Liang
+2410.23749v2 by Dizhen Liang
 
 Transformer-based architectures have achieved remarkable success in natural
 language processing and computer vision. However, their performance in
@@ -1607,7 +1628,7 @@ series datasets, demonstrating that it not only outperforms existing time
 series transformer models but also exceeds the performance of some
 state-of-the-art models on specific datasets.
 
-摘要：基於 Transformer 的架構在自然語言處理和電腦視覺方面取得顯著的成功。然而，它們在多變數長期預測中的表現通常落後於較簡單的線性基線。先前的研究已將傳統的注意力機制確定為導致此限制的一個重要因素。為了發揮 Transformer 在多變數時間序列預測方面的全部潛力，我引入了 \textbf{LSEAttention}，一種旨在解決在 Transformer 模型中普遍觀察到的熵崩潰和訓練不穩定的方法。我驗證了 LSEAttention 在各種真實世界多變數時間序列資料集中的有效性，證明它不僅優於現有的時間序列 Transformer 模型，而且在特定資料集上也超過了某些最先進模型的表現。
+摘要：基於 Transformer 的架構在自然語言處理和電腦視覺方面取得了顯著的成功。然而，它們在多變量長期預測中的表現通常落後於較簡單的線性基準。先前的研究已將傳統的注意力機制視為導致此限制的一個重要因素。為了發揮Transformer在多變量時間序列預測方面的全部潛力，我引入了 \textbf{LSEAttention}，這是一種旨在解決Transformer模型中常見的熵崩潰和訓練不穩定性的方法。我驗證了 LSEAttention 在各種真實世界多變量時間序列資料集中的有效性，證明它不僅優於現有的時間序列Transformer模型，而且在特定資料集上也超過了一些最先進模型的性能。
 
 ##### **DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios**
 2410.23746v1 by Junchao Wu, Runzhe Zhan, Derek F. Wong, Shu Yang, Xinyi Yang, Yulin Yuan, Lidia S. Chao
@@ -2228,7 +2249,7 @@ generations consistent throughout the training.
 摘要：去噪擴散概率模型 (DDPM) 在從隨機雜訊中合成新影像方面取得最先進的效能，但它們缺乏將資料編碼成特徵的有意義潛在空間。最近基於 DDPM 的編輯技術嘗試透過將影像反轉回其近似起始雜訊來減輕這個問題。在這項工作中，我們研究了初始高斯雜訊、從中產生的樣本，以及透過反轉程序取得的對應潛在編碼之間的關係。首先，我們詮釋它們的空間距離關係，以顯示 DDIM 反轉技術的不準確性，方法是在初始雜訊和產生的樣本之間定位潛在表示流形。然後，我們展示了在擴散訓練期間初始高斯雜訊及其對應生成之間的特殊關係，顯示生成影像的高階特徵會快速穩定，使雜訊和生成之間的空間距離關係在整個訓練過程中保持一致。
 
 ##### **Large Language Models for Patient Comments Multi-Label Classification**
-2410.23528v1 by Hajar Sakai, Sarah S. Lam, Mohammadsadegh Mikaeili, Joshua Bosire, Franziska Jovin
+2410.23528v2 by Hajar Sakai, Sarah S. Lam, Mohammadsadegh Mikaeili, Joshua Bosire, Franziska Jovin
 
 Patient experience and care quality are crucial for a hospital's
 sustainability and reputation. The analysis of patient feedback offers valuable
@@ -2238,13 +2259,13 @@ methods following a supervised learning paradigm. This is due to the
 unavailability of labeled data and the nuances these texts encompass. This
 research explores leveraging Large Language Models (LLMs) in conducting
 Multi-label Text Classification (MLTC) of inpatient comments shared after a
-stay in the hospital. GPT-4o-Turbo was leveraged to conduct the classification.
+stay in the hospital. GPT-4 Turbo was leveraged to conduct the classification.
 However, given the sensitive nature of patients' comments, a security layer is
 introduced before feeding the data to the LLM through a Protected Health
 Information (PHI) detection framework, which ensures patients'
 de-identification. Additionally, using the prompt engineering framework,
 zero-shot learning, in-context learning, and chain-of-thought prompting were
-experimented with. Results demonstrate that GPT-4o-Turbo, whether following a
+experimented with. Results demonstrate that GPT-4 Turbo, whether following a
 zero-shot or few-shot setting, outperforms traditional methods and Pre-trained
 Language Models (PLMs) and achieves the highest overall performance with an
 F1-score of 76.12% and a weighted F1-score of 73.61% followed closely by the
@@ -2254,7 +2275,7 @@ enhances MLTC through the application of LLMs, offering healthcare
 practitioners an efficient method to gain deeper insights into patient feedback
 and deliver prompt, appropriate responses.
 
-摘要：病患體驗和照護品質對於醫院的永續經營和聲譽至關重要。分析病患回饋意見能提供寶貴的見解，了解病患滿意度和治療結果。然而，這些評論的非結構化特性對遵循監督式學習典範的傳統機器學習方法構成挑戰。這是因為缺乏標籤資料，而且這些文字包含許多細微差別。本研究探討利用大型語言模型 (LLM) 進行住院病患在出院後分享的評論的多標籤文字分類 (MLTC)。利用 GPT-4o-Turbo 進行分類。然而，鑑於病患評論的敏感性質，在透過受保護健康資訊 (PHI) 偵測架構將資料提供給 LLM 之前，會加入一層安全防護，以確保病患的去識別化。此外，還實驗了提示工程架構、零次學習、情境中學習和思考鏈提示。結果顯示，無論是遵循零次或少次設定，GPT-4o-Turbo 都優於傳統方法和預訓練語言模型 (PLM)，並以 76.12% 的 F1 分數和 73.61% 的加權 F1 分數達到最高的整體效能，緊接在後的則是少次學習結果。隨後，進行了結果與其他病患體驗結構化變數（例如評分）的關聯性分析。本研究透過應用 LLM 來強化 MLTC，為醫療從業人員提供一種有效的方法，以深入了解病患回饋意見並提供迅速且適當的回應。
+摘要：<paragraph>病患經驗與照護品質對於醫院永續經營與聲譽至關重要，分析病患回饋能提供寶貴的病患滿意度與治療成果洞察。然而，這些評論的非結構化特性對於遵循監督式學習範例的傳統機器學習方法構成挑戰，這是因為缺乏標籤資料以及這些文字所涵蓋的細微差別。本研究探討在分析住院病患於出院後分享的評論時，運用大型語言模型 (LLM) 進行多標籤文字分類 (MLTC) 的可行性。GPT-4 Turbo 用於執行分類。然而，鑑於病患評論的敏感性，在透過受保護健康資訊 (PHI) 偵測架構將資料提供給 LLM 之前，會先導入一層安全機制，以確保病患的去識別化。此外，也對提示工程架構、零次學習、情境學習和思考鏈提示進行實驗。結果顯示，GPT-4 Turbo 無論是在零次或少次學習設定下，都優於傳統方法和預先訓練語言模型 (PLM)，並以 76.12% 的 F1 分數和 73.61% 的加權 F1 分數達成最高的整體表現，緊追在後的則是少次學習的結果。隨後，將結果與其他病患經驗結構化變數（例如評分）的關聯性進行分析。本研究透過應用 LLM 來提升 MLTC，為醫療從業人員提供一種有效率的方法，以深入洞察病患回饋並提供迅速且適當的回應。</paragraph>
 
 ##### **LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models**
 2410.23526v1 by Hieu Tran, Junda Wang, Yujan Ting, Weijing Huang, Terrence Chen
@@ -2435,29 +2456,4 @@ scales of LLMs show bad self-correction performance given unethical
 instructions.
 
 摘要：自我修正是大语言模型 (LLM) 最令人惊叹的新兴功能之一，它使 LLM 能够根据描述该输出问题的自然语言反馈来自我修改不当的输出。道德自我修正是一种事后方法，无需梯度更新即可修正不道德的生成，使其既计算量轻巧，又能保留语言建模能力。先前的研究表明，LLM 可以自我去偏，据报道，小模型（即参数少于 22B 的模型）无法进行道德自我修正。然而，对于为什么这些较小的模型无法进行道德自我修正，目前还没有直接的证据，尽管先前的研究假设较大的模型善于遵循指示并理解抽象的社会规范。在本文中，我们通过细致的提示，在社会刻板印象的背景下对这一假设进行了实证验证。我们的实验结果表明：(i) 出人意料的是，具有适当安全对齐微调的 3.8B LLM 可以实现非常好的道德自我修正性能，突出了安全对齐的显着影响；(ii) 在理解社会规范和通过 CoT 进行自我解释方面，小型 LLM 确实比大规模模型弱，但所有规模的 LLM 在给定不道德指令时都表现出较差的自我修正性能。
-
-##### **Causality-Driven Audits of Model Robustness**
-2410.23494v1 by Nathan Drenkow, Chris Ribaudo, Mathias Unberath
-
-Robustness audits of deep neural networks (DNN) provide a means to uncover
-model sensitivities to the challenging real-world imaging conditions that
-significantly degrade DNN performance in-the-wild. Such conditions are often
-the result of the compounding of multiple factors inherent to the environment,
-sensor, or processing pipeline and may lead to complex image distortions that
-are not easily categorized. When robustness audits are limited to a set of
-pre-determined imaging effects or distortions, the results cannot be (easily)
-transferred to real-world conditions where image corruptions may be more
-complex or nuanced. To address this challenge, we present a new alternative
-robustness auditing method that uses causal inference to measure DNN
-sensitivities to the factors of the imaging process that cause complex
-distortions. Our approach uses causal models to explicitly encode assumptions
-about the domain-relevant factors and their interactions. Then, through
-extensive experiments on natural and rendered images across multiple vision
-tasks, we show that our approach reliably estimates causal effects of each
-factor on DNN performance using observational domain data. These causal effects
-directly tie DNN sensitivities to observable properties of the imaging pipeline
-in the domain of interest towards reducing the risk of unexpected DNN failures
-when deployed in that domain.
-
-摘要：深度神经网络 (DNN) 的稳健性审核提供了一种方法来揭示模型对具有挑战性的现实世界成像条件的敏感性，这些条件会显著降低 DNN 在实际环境中的性能。此类条件通常是环境、传感器或处理管道中固有的多个因素共同作用的结果，并且可能导致难以分类的复杂图像失真。当稳健性审核仅限于一组预先确定的成像效果或失真时，结果无法（轻松）转移到图像损坏可能更复杂或细微差别更大的实际条件。为了应对这一挑战，我们提出了一种新的替代稳健性审核方法，该方法使用因果推理来衡量 DNN 对导致复杂失真的成像过程因素的敏感性。我们的方法使用因果模型来明确编码有关领域相关因素及其相互作用的假设。然后，通过对跨多个视觉任务的自然和渲染图像进行广泛的实验，我们表明我们的方法使用观测域数据可靠地估计了每个因素对 DNN 性能的因果效应。这些因果效应将 DNN 敏感性直接与感兴趣域中成像管道的可观察属性联系起来，以降低在该域中部署时意外 DNN 故障的风险。
 

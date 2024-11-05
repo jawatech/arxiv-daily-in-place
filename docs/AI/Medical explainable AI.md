@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v1](http://arxiv.org/abs/2411.00916v1)|null|
 |**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
 |**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
@@ -101,9 +102,33 @@
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v2](http://arxiv.org/abs/2310.01828v2)|[link](https://github.com/geoaigroup/geoai-ecrs2023)|
 |**2023-09-26**|**Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**|Muhammad Aurangzeb Ahmad et.al.|[2311.01463v1](http://arxiv.org/abs/2311.01463v1)|null|
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
-|**2023-09-19**|**Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**|Juan M. García-Gómez et.al.|[2309.10424v1](http://arxiv.org/abs/2309.10424v1)|null|
 
 #### Abstracts
+##### **Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**
+2411.00916v1 by Mehdi Hosseini Chagahi, Saeed Mohammadi Dashtaki, Niloufar Delfan, Nadia Mohammadi, Alireza Samari, Behzad Moshiri, Md. Jalil Piran, U. Rajendra Acharya, Oliver Faust
+
+Osteoporosis is a common condition that increases fracture risk, especially
+in older adults. Early diagnosis is vital for preventing fractures, reducing
+treatment costs, and preserving mobility. However, healthcare providers face
+challenges like limited labeled data and difficulties in processing medical
+images. This study presents a novel multi-modal learning framework that
+integrates clinical and imaging data to improve diagnostic accuracy and model
+interpretability. The model utilizes three pre-trained networks-VGG19,
+InceptionV3, and ResNet50-to extract deep features from X-ray images. These
+features are transformed using PCA to reduce dimensionality and focus on the
+most relevant components. A clustering-based selection process identifies the
+most representative components, which are then combined with preprocessed
+clinical data and processed through a fully connected network (FCN) for final
+classification. A feature importance plot highlights key variables, showing
+that Medical History, BMI, and Height were the main contributors, emphasizing
+the significance of patient-specific data. While imaging features were
+valuable, they had lower importance, indicating that clinical data are crucial
+for accurate predictions. This framework promotes precise and interpretable
+predictions, enhancing transparency and building trust in AI-driven diagnoses
+for clinical integration.
+
+摘要：骨質疏鬆症是一種常見的疾病，會增加骨折風險，特別是老年人。早期診斷對於預防骨折、降低治療成本和維持行動力至關重要。然而，醫療保健提供者面臨挑戰，例如標記數據有限和處理醫學影像困難。本研究提出了一個新穎的多模式學習框架，它整合了臨床和影像數據，以提高診斷準確性和模型可解釋性。該模型利用三個預訓練網路 - VGG19、InceptionV3 和 ResNet50 - 從 X 光影像中提取深度特徵。這些特徵使用 PCA 轉換，以降低維度並專注於最相關的組成部分。基於群集的選擇過程識別最具代表性的組成部分，然後將其與預處理的臨床數據結合，並透過全連接網路 (FCN) 處理以進行最終分類。特徵重要性圖突顯了關鍵變數，顯示病史、BMI 和身高是主要貢獻者，強調了患者特定數據的重要性。雖然影像特徵很有價值，但它們的重要性較低，這表明臨床數據對於準確預測至關重要。這個框架促进了準確且可解釋的預測，提高了透明度，並建立了對 AI 驅動診斷的信任，以進行臨床整合。
+
 ##### **A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**
 2410.19898v1 by Muath Alsuhaibani, Ali Pourramezan Fard, Jian Sun, Farida Far Poor, Peter S. Pressman, Mohammad H. Mahoor
 
@@ -2686,29 +2711,4 @@ explainability, this paper provides an overview of techniques that have been
 developed to ensure safety of AI decisions and discusses future challenges.
 
 摘要：人工智慧（AI）已快速進步，現已準備部署於廣泛的應用程式中，例如自主系統、醫療診斷和自然語言處理。及早採用 AI 技術於實際應用程式並非沒有問題，特別是對於神經網路，它可能不穩定且容易受到對抗性範例的影響。從長遠來看，需要開發適當的安全保證技術，以減少因可避免的系統故障而造成的潛在傷害，並確保可信賴性。本文著重於認證和可解釋性，概述了已開發用於確保 AI 決策安全的技術，並討論未來的挑戰。
-
-##### **Functional requirements to mitigate the Risk of Harm to Patients from Artificial Intelligence in Healthcare**
-2309.10424v1 by Juan M. García-Gómez, Vicent Blanes-Selva, José Carlos de Bartolomé Cenzano, Jaime Cebolla-Cornejo, Ascensión Doñate-Martínez
-
-The Directorate General for Parliamentary Research Services of the European
-Parliament has prepared a report to the Members of the European Parliament
-where they enumerate seven main risks of Artificial Intelligence (AI) in
-medicine and healthcare: patient harm due to AI errors, misuse of medical AI
-tools, bias in AI and the perpetuation of existing inequities, lack of
-transparency, privacy and security issues, gaps in accountability, and
-obstacles in implementation.
-  In this study, we propose fourteen functional requirements that AI systems
-may implement to reduce the risks associated with their medical purpose: AI
-passport, User management, Regulation check, Academic use only disclaimer, data
-quality assessment, Clinicians double check, Continuous performance evaluation,
-Audit trail, Continuous usability test, Review of retrospective/simulated
-cases, Bias check, eXplainable AI, Encryption and use of field-tested
-libraries, and Semantic interoperability.
-  Our intention here is to provide specific high-level specifications of
-technical solutions to ensure continuous good performance and use of AI systems
-to benefit patients in compliance with the future EU regulatory framework.
-
-摘要：歐洲議會議會研究服務總局已為歐洲議會議員準備了一份報告，其中列舉了人工智能 (AI) 在醫療保健領域的七項主要風險：AI 錯誤導致患者受到傷害、醫療 AI 工具被濫用、AI 存在偏見並導致現有 inequities 持續存在、缺乏透明度、隱私和安全問題、問責差距以及實施障礙。
-  在這項研究中，我們提出了十四項功能性要求，AI 系統可以實施這些要求來降低與其醫療目的相關的風險：AI 護照、使用者管理、法規檢查、僅限學術用途免責聲明、資料品質評估、臨床醫生雙重檢查、持續效能評估、稽核追蹤、持續可用性測試、回顧回溯/模擬案例、偏見檢查、可解釋 AI、加密和使用經過實地測試的程式庫，以及語意互通性。
-  我們在此的目的是提供技術解決方案的特定高階規格，以確保持續良好的效能，並使用 AI 系統，以符合未來的歐盟法規架構，從而使患者受益。
 

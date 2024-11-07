@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v1](http://arxiv.org/abs/2411.03883v1)|[link](https://github.com/lautel/meg)|
+|**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|
 |**2024-11-04**|**Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v1](http://arxiv.org/abs/2411.02591v1)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
@@ -100,10 +102,44 @@
 |**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228v1](http://arxiv.org/abs/2410.12228v1)|null|
 |**2024-10-16**|**Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning**|Huiwen Wu et.al.|[2410.12130v1](http://arxiv.org/abs/2410.12130v1)|null|
 |**2024-10-15**|**Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning**|Guangxin Su et.al.|[2410.12096v1](http://arxiv.org/abs/2410.12096v1)|null|
-|**2024-10-15**|**A Survey on Deep Tabular Learning**|Shriyank Somvanshi et.al.|[2410.12034v1](http://arxiv.org/abs/2410.12034v1)|null|
-|**2024-10-15**|**Causal Reasoning in Large Language Models: A Knowledge Graph Approach**|Yejin Kim et.al.|[2410.11588v1](http://arxiv.org/abs/2410.11588v1)|null|
 
 #### Abstracts
+##### **MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**
+2411.03883v1 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
+
+Question answering is a natural language understanding task that involves
+reasoning over both explicit context and unstated, relevant domain knowledge.
+Large language models (LLMs), which underpin most contemporary question
+answering systems, struggle to induce how concepts relate in specialized
+domains such as medicine. Existing medical LLMs are also costly to train. In
+this work, we present MEG, a parameter-efficient approach for medical
+knowledge-augmented LLMs. MEG uses a lightweight mapping network to integrate
+graph embeddings into the LLM, enabling it to leverage external knowledge in a
+cost-effective way. We evaluate our method on four popular medical
+multiple-choice datasets and show that LLMs greatly benefit from the factual
+grounding provided by knowledge graph embeddings. MEG attains an average of
++10.2% accuracy over the Mistral-Instruct baseline, and +6.7% over specialized
+models like BioMistral. We also show results based on Llama-3. Finally, we show
+that MEG's performance remains robust to the choice of graph encoder.
+
+摘要：問答是一種自然語言理解任務，涉及對明確的語境和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論出概念在醫學等專業領域中的關聯性。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數高效方法。MEG 使用輕量級對應網路將圖形嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖形嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確率，在 BioMistral 等專用模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖形編碼器的選擇保持穩健。
+
+##### **The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**
+2411.03568v1 by Lee Kezar, Nidhi Munikote, Zian Zeng, Zed Sehyr, Naomi Caselli, Jesse Thomason
+
+Language models for American Sign Language (ASL) could make language
+technologies substantially more accessible to those who sign. To train models
+on tasks such as isolated sign recognition (ISR) and ASL-to-English
+translation, datasets provide annotated video examples of ASL signs. To
+facilitate the generalizability and explainability of these models, we
+introduce the American Sign Language Knowledge Graph (ASLKG), compiled from
+twelve sources of expert linguistic knowledge. We use the ASLKG to train
+neuro-symbolic models for 3 ASL understanding tasks, achieving accuracies of
+91% on ISR, 14% for predicting the semantic features of unseen signs, and 36%
+for classifying the topic of Youtube-ASL videos.
+
+摘要：美國手語 (ASL) 的語言模型可以讓語言技術對手語使用者更易於使用。為了訓練模型執行手語辨識 (ISR) 和 ASL 轉換成英文等任務，資料集提供 ASL 手勢的註解影片範例。為了促進這些模型的概括性和可解釋性，我們引入了美國手語知識圖譜 (ASLKG)，它是由十二個專家語言知識來源編譯而成的。我們使用 ASLKG 訓練神經符號模型來執行 3 項 ASL 理解任務，在 ISR 上達到 91% 的準確度、在預測未見手勢的語義特徵上達到 14%，以及在分類 YouTube-ASL 影片主題上達到 36%。
+
 ##### **Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**
 2411.02864v1 by Tao Zhang, Ning Yan, Masood Mortazavi, Hoang H. Nguyen, Zhongfen Deng, Philip S. Yu
 
@@ -2565,58 +2601,4 @@ and across different task scenarios demonstrate the scalability and
 effectiveness of the proposed approach.
 
 摘要：圖表表示學習既涉及節點特徵又涉及圖形結構，對於現實世界的應用至關重要，但經常會遇到普遍的噪音。最先進的方法通常通過分別關注具有大型語言模型 (LLM) 的節點特徵和具有圖形結構學習模型 (GSLM) 的圖形結構來解決噪音問題。在本文中，我們介紹了 LangGSL，這是一個強大的框架，它整合了預訓練語言模型和 GSLM 的互補優勢，以共同增強節點特徵和圖形結構學習。在 LangGSL 中，我們首先利用 LLM 來過濾原始數據中的噪音，並提取有價值的已清理信息作為特徵，增強下游模型的協同作用。在 LangGSL 中的相互學習階段，核心思想是利用相對較小的語言模型 (LM) 來處理局部屬性並生成可靠的偽標籤和信息豐富的節點嵌入，然後將它們集成到 GSLM 的預測階段。這種方法豐富了全局上下文並增強了整體性能。同時，GSLM 優化了從 LM 輸出構建的演化圖形結構，將更新的標籤作為附加指導反饋給 LM，從而促進更有效的相互學習過程。LM 和 GSLM 協同工作，在變分信息最大化框架內互補各自的優勢並彌補弱點，從而增強節點特徵並形成更強大的圖形結構。在不同規模和不同任務場景的多樣化圖形數據集上進行的廣泛實驗證明了所提出方法的可擴展性和有效性。
-
-##### **A Survey on Deep Tabular Learning**
-2410.12034v1 by Shriyank Somvanshi, Subasish Das, Syed Aaqib Javed, Gian Antariksa, Ahmed Hossain
-
-Tabular data, widely used in industries like healthcare, finance, and
-transportation, presents unique challenges for deep learning due to its
-heterogeneous nature and lack of spatial structure. This survey reviews the
-evolution of deep learning models for tabular data, from early fully connected
-networks (FCNs) to advanced architectures like TabNet, SAINT, TabTranSELU, and
-MambaNet. These models incorporate attention mechanisms, feature embeddings,
-and hybrid architectures to address tabular data complexities. TabNet uses
-sequential attention for instance-wise feature selection, improving
-interpretability, while SAINT combines self-attention and intersample attention
-to capture complex interactions across features and data points, both advancing
-scalability and reducing computational overhead. Hybrid architectures such as
-TabTransformer and FT-Transformer integrate attention mechanisms with
-multi-layer perceptrons (MLPs) to handle categorical and numerical data, with
-FT-Transformer adapting transformers for tabular datasets. Research continues
-to balance performance and efficiency for large datasets. Graph-based models
-like GNN4TDL and GANDALF combine neural networks with decision trees or graph
-structures, enhancing feature representation and mitigating overfitting in
-small datasets through advanced regularization techniques. Diffusion-based
-models like the Tabular Denoising Diffusion Probabilistic Model (TabDDPM)
-generate synthetic data to address data scarcity, improving model robustness.
-Similarly, models like TabPFN and Ptab leverage pre-trained language models,
-incorporating transfer learning and self-supervised techniques into tabular
-tasks. This survey highlights key advancements and outlines future research
-directions on scalability, generalization, and interpretability in diverse
-tabular data applications.
-
-摘要：<paragraph>表格資料廣泛應用於醫療保健、金融和運輸等產業，由於其異質性且缺乏空間結構，因此對深度學習提出了獨特的挑戰。這項調查回顧了表格資料深度學習模型的演進，從早期的全連接網路 (FCN) 到 TabNet、SAINT、TabTranSELU 和 MambaNet 等先進架構。這些模型結合了注意力機制、特徵嵌入和混合架構，以解決表格資料的複雜性。TabNet 使用序列注意力進行逐例特徵選取，提升可解釋性，而 SAINT 結合了自我注意力和跨樣本注意力，以捕捉特徵和資料點之間的複雜互動，同時提升可擴充性並減少運算負擔。TabTransformer 和 FT-Transformer 等混合架構將注意力機制與多層感知器 (MLP) 整合，以處理類別資料和數值資料，其中 FT-Transformer 將 transformer 適應到表格資料集。研究持續在大型資料集的效能和效率之間取得平衡。基於圖形的模型，例如 GNN4TDL 和 GANDALF，將神經網路與決策樹或圖形結構結合，透過先進的正則化技術增強特徵表示並減輕小資料集中的過度擬合。基於擴散的模型，例如表格去噪擴散機率模型 (TabDDPM)，會產生合成資料以解決資料稀少的問題，進而提升模型的穩健性。類似地，TabPFN 和 Ptab 等模型利用預先訓練的語言模型，將遷移學習和自我監督技術融入表格任務中。這項調查重點說明了關鍵進展，並概述了在各種表格資料應用中可擴充性、概括性和可解釋性的未來研究方向。</paragraph>
-
-##### **Causal Reasoning in Large Language Models: A Knowledge Graph Approach**
-2410.11588v1 by Yejin Kim, Eojin Kang, Juae Kim, H. Howie Huang
-
-Large language models (LLMs) typically improve performance by either
-retrieving semantically similar information, or enhancing reasoning abilities
-through structured prompts like chain-of-thought. While both strategies are
-considered crucial, it remains unclear which has a greater impact on model
-performance or whether a combination of both is necessary. This paper answers
-this question by proposing a knowledge graph (KG)-based random-walk reasoning
-approach that leverages causal relationships. We conduct experiments on the
-commonsense question answering task that is based on a KG. The KG inherently
-provides both relevant information, such as related entity keywords, and a
-reasoning structure through the connections between nodes. Experimental results
-show that the proposed KG-based random-walk reasoning method improves the
-reasoning ability and performance of LLMs. Interestingly, incorporating three
-seemingly irrelevant sentences into the query using KG-based random-walk
-reasoning enhances LLM performance, contrary to conventional wisdom. These
-findings suggest that integrating causal structures into prompts can
-significantly improve reasoning capabilities, providing new insights into the
-role of causality in optimizing LLM performance.
-
-摘要：大型語言模型 (LLM) 通常透過擷取語意上相似的資訊，或透過鏈式思考等結構化提示增強推理能力，來提升效能。儘管這兩種策略都被認為至關重要，但目前仍不清楚哪一種對模型效能影響較大，或是否需要結合兩者。本文透過提出一個基於知識圖譜 (KG) 的隨機漫步推理方法，來回答這個問題，這個方法利用了因果關係。我們在基於 KG 的常識問答任務上進行實驗。KG 本身就提供了相關資訊，例如相關實體關鍵字，以及透過節點之間的連結提供的推理結構。實驗結果顯示，提出的基於 KG 的隨機漫步推理方法改善了 LLM 的推理能力和效能。有趣的是，與傳統觀念相反，使用基於 KG 的隨機漫步推理將三個看似無關的句子納入查詢中，可以提升 LLM 的效能。這些發現表明，將因果結構整合到提示中可以顯著提升推理能力，並為因果關係在最佳化 LLM 效能中所扮演的角色提供新的見解。
 

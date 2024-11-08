@@ -2,11 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962v1](http://arxiv.org/abs/2411.04962v1)|null|
+|**2024-11-07**|**AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data**|Tianyi Zhang et.al.|[2411.04691v1](http://arxiv.org/abs/2411.04691v1)|null|
+|**2024-11-07**|**FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**|Liangrui Pan et.al.|[2411.04509v1](http://arxiv.org/abs/2411.04509v1)|null|
+|**2024-11-06**|**Robust Real-Time Mortality Prediction in the Intensive Care Unit using Temporal Difference Learning**|Thomas Frost et.al.|[2411.04285v1](http://arxiv.org/abs/2411.04285v1)|[link](https://github.com/tdgfrost/td-icu-mortality)|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|[link](https://github.com/stanford-aimi/ravl)|
 |**2024-11-06**|**Aligning Characteristic Descriptors with Images for Human-Expert-like Explainability**|Bharat Chandra Yalavarthi et.al.|[2411.04008v1](http://arxiv.org/abs/2411.04008v1)|null|
 |**2024-11-06**|**Fine-tuning -- a Transfer Learning approach**|Joseph Arul Raj et.al.|[2411.03941v1](http://arxiv.org/abs/2411.03941v1)|null|
-|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v1](http://arxiv.org/abs/2411.03883v1)|[link](https://github.com/lautel/meg)|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|[link](https://github.com/lautel/meg)|
 |**2024-11-06**|**Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications**|Daan Schouten et.al.|[2411.03782v1](http://arxiv.org/abs/2411.03782v1)|null|
 |**2024-11-06**|**Sub-DM:Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction**|Yu Guan et.al.|[2411.03758v1](http://arxiv.org/abs/2411.03758v1)|null|
 |**2024-11-06**|**Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?**|Pedro R. A. S. Bassi et.al.|[2411.03670v1](http://arxiv.org/abs/2411.03670v1)|[link](https://github.com/mrgiovanni/touchstone)|
@@ -49,7 +53,7 @@
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525v1](http://arxiv.org/abs/2411.02525v1)|null|
 |**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523v1](http://arxiv.org/abs/2411.02523v1)|null|
 |**2024-10-31**|**Deep Learning Predicts Mammographic Breast Density in Clinical Breast Ultrasound Images**|Arianna Bunnell et.al.|[2411.00891v1](http://arxiv.org/abs/2411.00891v1)|null|
-|**2024-10-31**|**Monitoring fairness in machine learning models that predict patient mortality in the ICU**|Tempest A. van Schaik et.al.|[2411.00190v1](http://arxiv.org/abs/2411.00190v1)|null|
+|**2024-10-31**|**Monitoring fairness in machine learning models that predict patient mortality in the ICU**|Tempest A. van Schaik et.al.|[2411.00190v2](http://arxiv.org/abs/2411.00190v2)|null|
 |**2024-10-31**|**Clinical Evaluation of Medical Image Synthesis: A Case Study in Wireless Capsule Endoscopy**|Panagiota Gatoula et.al.|[2411.00178v1](http://arxiv.org/abs/2411.00178v1)|null|
 |**2024-10-31**|**Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning**|John Wu et.al.|[2411.00173v1](http://arxiv.org/abs/2411.00173v1)|null|
 |**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032v1](http://arxiv.org/abs/2410.24032v1)|null|
@@ -98,12 +102,94 @@
 |**2024-10-27**|**Improving Decision Sparsity**|Yiyang Sun et.al.|[2410.20483v1](http://arxiv.org/abs/2410.20483v1)|null|
 |**2024-10-27**|**MedGo: A Chinese Medical Large Language Model**|Haitao Zhang et.al.|[2410.20428v1](http://arxiv.org/abs/2410.20428v1)|null|
 |**2024-10-27**|**Addressing the Pitfalls of Image-Based Structural Health Monitoring: A Focus on False Positives, False Negatives, and Base Rate Bias**|Vagelis Plevris et.al.|[2410.20384v1](http://arxiv.org/abs/2410.20384v1)|null|
-|**2024-10-27**|**R-LLaVA: Improving Med-VQA Understanding through Visual Region of Interest**|Xupeng Chen et.al.|[2410.20327v2](http://arxiv.org/abs/2410.20327v2)|null|
-|**2024-10-27**|**Enhancing Community Vision Screening -- AI Driven Retinal Photography for Early Disease Detection and Patient Trust**|Xiaofeng Lei et.al.|[2410.20309v1](http://arxiv.org/abs/2410.20309v1)|null|
-|**2024-10-26**|**Modelling of Economic Implications of Bias in AI-Powered Health Emergency Response Systems**|Katsiaryna Bahamazava et.al.|[2410.20229v1](http://arxiv.org/abs/2410.20229v1)|null|
-|**2024-10-26**|**Generative AI in Health Economics and Outcomes Research: A Taxonomy of Key Definitions and Emerging Applications, an ISPOR Working Group Report**|Rachael Fleurence et.al.|[2410.20204v1](http://arxiv.org/abs/2410.20204v1)|null|
 
 #### Abstracts
+##### **Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**
+2411.04962v1 by Yanjun Gao, Skatje Myers, Shan Chen, Dmitriy Dligach, Timothy A Miller, Danielle Bitterman, Guanhua Chen, Anoop Mayampurath, Matthew Churpek, Majid Afshar
+
+Large language models (LLMs) are being explored for diagnostic decision
+support, yet their ability to estimate pre-test probabilities, vital for
+clinical decision-making, remains limited. This study evaluates two LLMs,
+Mistral-7B and Llama3-70B, using structured electronic health record data on
+three diagnosis tasks. We examined three current methods of extracting LLM
+probability estimations and revealed their limitations. We aim to highlight the
+need for improved techniques in LLM confidence estimation.
+
+摘要：大型語言模型 (LLM) 正在被探索用於診斷決策支持，但它們估計臨床決策制定中至關重要的預測試概率的能力仍然有限。本研究使用三個診斷任務的結構化電子健康記錄數據評估了兩個 LLM，Mistral-7B 和 Llama3-70B。我們檢查了提取 LLM 概率估計的三種當前方法並揭示了它們的局限性。我們的目標是強調改進 LLM 置信度估計技術的必要性。
+
+##### **AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data**
+2411.04691v1 by Tianyi Zhang, Miu Kojima, Simon D'Alfonso
+
+Smartphones, equipped with an array of sensors, have become valuable tools
+for personal sensing. Particularly in digital health, smartphones facilitate
+the tracking of health-related behaviors and contexts, contributing
+significantly to digital phenotyping, a process where data from digital
+interactions is analyzed to infer behaviors and assess mental health.
+Traditional methods process raw sensor data into information features for
+statistical and machine learning analyses. In this paper, we introduce a novel
+approach that systematically converts smartphone-collected data into
+structured, chronological narratives. The AWARE Narrator translates
+quantitative smartphone sensing data into English language descriptions,
+forming comprehensive narratives of an individual's activities. We apply the
+framework to the data collected from university students over a week,
+demonstrating the potential of utilizing the narratives to summarize individual
+behavior, and analyzing psychological states by leveraging large language
+models.
+
+摘要：智慧型手機配備了各式感測器，已成為個人感測的寶貴工具。特別是在數位健康領域，智慧型手機促進了健康相關行為和情境的追蹤，對數位表型分析做出了重大貢獻，數位表型分析是一種從數位互動中分析資料以推論行為和評估心理健康的程序。傳統方法將原始感測器資料處理成資訊特徵，以進行統計和機器學習分析。在本文中，我們介紹一種新穎的方法，該方法系統性地將智慧型手機收集的資料轉換成結構化的時間順序敘事。AWARE Narrator 將定量的智慧型手機感測資料轉換成英文語言描述，形成個人活動的綜合敘事。我們將此架構套用在大學生一週內收集的資料上，證明了利用敘事總結個人行為的潛力，並透過運用大型語言模型來分析心理狀態。
+
+##### **FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**
+2411.04509v1 by Liangrui Pan, Mao Huang, Lian Wang, Pinle Qin, Shaoliang Peng
+
+Hematoxylin and Eosin (H&E) staining of whole slide images (WSIs) is
+considered the gold standard for pathologists and medical practitioners for
+tumor diagnosis, surgical planning, and post-operative assessment. With the
+rapid advancement of deep learning technologies, the development of numerous
+models based on convolutional neural networks and transformer-based models has
+been applied to the precise segmentation of WSIs. However, due to privacy
+regulations and the need to protect patient confidentiality, centralized
+storage and processing of image data are impractical. Training a centralized
+model directly is challenging to implement in medical settings due to these
+privacy concerns.This paper addresses the dispersed nature and privacy
+sensitivity of medical image data by employing a federated learning framework,
+allowing medical institutions to collaboratively learn while protecting patient
+privacy. Additionally, to address the issue of original data reconstruction
+through gradient inversion during the federated learning training process,
+differential privacy introduces noise into the model updates, preventing
+attackers from inferring the contributions of individual samples, thereby
+protecting the privacy of the training data.Experimental results show that the
+proposed method, FedDP, minimally impacts model accuracy while effectively
+safeguarding the privacy of cancer pathology image data, with only a slight
+decrease in Dice, Jaccard, and Acc indices by 0.55%, 0.63%, and 0.42%,
+respectively. This approach facilitates cross-institutional collaboration and
+knowledge sharing while protecting sensitive data privacy, providing a viable
+solution for further research and application in the medical field.
+
+摘要：蘇木精和伊紅（H&E）染色全切片圖像（WSI）被認為是病理學家和醫療從業人員用於腫瘤診斷、手術規劃和術後評估的黃金標準。隨著深度學習技術的快速進展，基於卷積神經網路和基於Transformer的模型的眾多模型已被應用於 WSI 的精確分割。然而，由於隱私法規和保護患者機密性的需要，集中式儲存和處理影像資料是不切實際的。由於這些隱私問題，在醫療環境中直接訓練集中式模型難以實施。本文通過採用聯合學習框架來解決醫療影像資料的分散性質和隱私敏感性，允許醫療機構在保護患者隱私的同時進行協作學習。此外，為了解決聯合學習訓練過程中通過梯度反轉進行原始資料重建的問題，差分隱私會在模型更新中引入雜訊，防止攻擊者推斷個別樣本的貢獻，從而保護訓練資料的隱私。實驗結果表明，所提出的方法 FedDP 對模型準確度的影響最小，同時有效保護了癌症病理影像資料的隱私，Dice、Jaccard 和 Acc 指數分別僅略微下降了 0.55%、0.63% 和 0.42%。這種方法促進了機構間的合作和知識共享，同時保護了敏感資料的隱私，為醫療領域的進一步研究和應用提供了可行的解決方案。
+
+##### **Robust Real-Time Mortality Prediction in the Intensive Care Unit using Temporal Difference Learning**
+2411.04285v1 by Thomas Frost, Kezhi Li, Steve Harris
+
+The task of predicting long-term patient outcomes using supervised machine
+learning is a challenging one, in part because of the high variance of each
+patient's trajectory, which can result in the model over-fitting to the
+training data. Temporal difference (TD) learning, a common reinforcement
+learning technique, may reduce variance by generalising learning to the pattern
+of state transitions rather than terminal outcomes. However, in healthcare this
+method requires several strong assumptions about patient states, and there
+appears to be limited literature evaluating the performance of TD learning
+against traditional supervised learning methods for long-term health outcome
+prediction tasks. In this study, we define a framework for applying TD learning
+to real-time irregularly sampled time series data using a Semi-Markov Reward
+Process. We evaluate the model framework in predicting intensive care mortality
+and show that TD learning under this framework can result in improved model
+robustness compared to standard supervised learning methods. and that this
+robustness is maintained even when validated on external datasets. This
+approach may offer a more reliable method when learning to predict patient
+outcomes using high-variance irregular time series data.
+
+摘要：預測長期患者結果的任務使用監督式機器學習，這是一個具有挑戰性的任務，部分原因是每個患者的軌跡的變異性很高，這可能導致模型過度擬合到訓練數據。時間差分 (TD) 學習，一種常見的強化學習技術，可以通過將學習概括為狀態轉換模式而不是終端結果來減少變異。然而，在醫療保健中，這種方法需要對患者狀態做出幾個強有力的假設，而且似乎有限的文獻評估了 TD 學習相對於傳統監督式學習方法在長期健康結果預測任務中的性能。在這項研究中，我們定義了一個框架，用於將 TD 學習應用於使用半馬爾可夫獎勵過程的實時不規則採樣時間序列數據。我們評估了模型框架在預測重症監護死亡率中的表現，並表明在這個框架下的 TD 學習可以導致與標準監督式學習方法相比模型魯棒性得到改善。而且這種魯棒性即使在外部數據集上驗證也能保持。在使用高變異不規則時間序列數據學習預測患者結果時，這種方法可能會提供一種更可靠的方法。
+
 ##### **Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**
 2411.04118v1 by Daniel P. Jeong, Saurabh Garg, Zachary C. Lipton, Michael Oberst
 
@@ -217,7 +303,7 @@ optimised imputer.
 摘要：電子健康紀錄 (EHR) 的二次研究用途經常受到此寶貴資源中大量遺失資料的阻礙。EHR 中的遺失資料會在例行臨床照護期間的資料記錄實務中自然發生，但處理遺失資料對於醫療分析的精確度和後續決策至關重要。文獻中包含各種基於深度神經網路的內插方法。這些方法旨在克服 EHR 中動態、異質且多變量的遺失資料模式，而這無法透過傳統和統計內插方法來處理。然而，所有現有的深度內插方法都依賴於將內插和下游分析（例如分類）結合在一起的端到端管道。這種結合使得難以評估內插的品質，並消除了重新使用內插器進行不同任務的靈活性。此外，大多數端到端深度架構傾向於使用複雜的網路來執行下游任務，除了已經很複雜的深度內插網路之外。因此，我們詢問文獻中報導的高效能是由於內插器還是分類器，並進一步詢問是否使用了最佳化的最新內插器，較簡單的分類器是否可以達到相近的效能。本文探討模組化、基於深度學習的內插和分類管道的開發，特別是建構來利用最新內插模型的能力，以進行下游分類任務。這種模組化方法能 a) 客觀評估內插器和分類器的品質，以及 b) 能夠使用最佳化的內插器來探討較簡單分類架構的效能。
 
 ##### **MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**
-2411.03883v1 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
+2411.03883v2 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
 
 Question answering is a natural language understanding task that involves
 reasoning over both explicit context and unstated, relevant domain knowledge.
@@ -234,7 +320,7 @@ grounding provided by knowledge graph embeddings. MEG attains an average of
 models like BioMistral. We also show results based on Llama-3. Finally, we show
 that MEG's performance remains robust to the choice of graph encoder.
 
-摘要：問答是一種自然語言理解任務，涉及對明確的語境和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論出概念在醫學等專業領域中的關聯性。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數高效方法。MEG 使用輕量級對應網路將圖形嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖形嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確率，在 BioMistral 等專用模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖形編碼器的選擇保持穩健。
+摘要：問答是自然語言理解任務，涉及對明確的上下文和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論概念如何在醫學等專業領域中關聯。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數有效方法。MEG 使用輕量級映射網路將圖表嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖表嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確度，在 BioMistral 等專門模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖表編碼器的選擇保持穩健。
 
 ##### **Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications**
 2411.03782v1 by Daan Schouten, Giulia Nicoletti, Bas Dille, Catherine Chia, Pierpaolo Vendittelli, Megan Schuurmans, Geert Litjens, Nadieh Khalili
@@ -1298,7 +1384,7 @@ population.
 摘要：<paragraph>背景：由美國放射學院的乳房影像報告和資料系統 (BI-RADS) 所定義的乳房攝影乳房密度，是乳癌最強的風險因子之一，但卻是來自乳房攝影圖像。乳房超音波 (BUS) 是另一種乳癌篩檢方式，特別適用於資源匱乏的鄉村地區的早期偵測。本研究的目的是探索一種人工智慧 (AI) 模型，從臨床手持式 BUS 影像預測 BI-RADS 乳房攝影乳房密度類別。方法：所有資料都來自夏威夷和太平洋群島乳房攝影登記處。我們比較了來自 BUS 影像的深度學習方法，以及僅來自影像統計資料的機器學習模型。接著將 AI 衍生的 BUS 密度用作乳癌風險因子，與調整年齡後的臨床 BI-RADS 乳房密度進行比較。BUS 資料按個人分為 70/20/10% 的群組，用於訓練、驗證和測試。結果：本研究選取了來自 14.066 位女性的 405,120 張臨床 BUS 影像，得出 9.846 位女性用於訓練 (302,574 張影像)、2,813 位用於驗證 (11,223 張影像) 和 1,406 位用於測試 (4,042 張影像)。在保留的測試集中，最強大的 AI 模型在從 BUS 影像預測 BI-RADS 乳房攝影乳房密度時，達到 0.854 的 AUROC，並優於所有基於影像統計資料的淺層機器學習方法。在癌症風險預測中，調整年齡後的 AI BUS 乳房密度預測了 5 年乳癌風險，AUROC 為 0.633，而調整年齡後的臨床乳房密度的 AUROC 為 0.637。結論：使用深度學習模型，可以從 BUS 影像估計出 BI-RADS 乳房攝影乳房密度，且準確度很高。此外，我們證明 AI 衍生的 BUS 乳房密度可以預測我們族群的 5 年乳癌風險。</paragraph>
 
 ##### **Monitoring fairness in machine learning models that predict patient mortality in the ICU**
-2411.00190v1 by Tempest A. van Schaik, Xinggang Liu, Louis Atallah, Omar Badawi
+2411.00190v2 by Tempest A. van Schaik, Xinggang Liu, Louis Atallah, Omar Badawi
 
 This work proposes a fairness monitoring approach for machine learning models
 that predict patient mortality in the ICU. We investigate how well models
@@ -1307,7 +1393,7 @@ investigate Documentation bias in clinical measurement, showing how fairness
 analysis provides a more detailed and insightful comparison of model
 performance than traditional accuracy metrics alone.
 
-摘要：這項工作提出了一個公平性監控方法，用於預測 ICU 中病人死亡率的機器學習模型。我們探討模型對不同種族、性別和醫療診斷的病人組別執行得有多好。我們探討臨床測量中的文件偏誤，展示公平性分析如何提供比傳統準確度量度更詳細且有見地的模型效能比較。
+摘要：這項研究提出一個公平性監控方法，用於預測加護病房中病患死亡率的機器學習模型。我們探討模型在不同種族、性別和醫療診斷的病患群體中表現如何。我們探討臨床測量中的文件偏差，說明公平性分析如何提供比傳統準確性指標更詳細且有見地的模型效能比較。
 
 ##### **Clinical Evaluation of Medical Image Synthesis: A Case Study in Wireless Capsule Endoscopy**
 2411.00178v1 by Panagiota Gatoula, Dimitrios E. Diamantis, Anastasios Koulaouzidis, Cristina Carretero, Stefania Chetcuti-Zammit, Pablo Cortegoso Valdivia, Begoña González-Suárez, Alessandro Mussetto, John Plevris, Alexander Robertson, Bruno Rosa, Ervin Toth, Dimitris K. Iakovidis
@@ -2526,99 +2612,4 @@ the practical applicability of image-based SHM techniques, highlighting both
 their potential and their limitations for real-world infrastructure monitoring.
 
 摘要：本研究探討了基於影像的結構健康監測 (SHM) 技術在檢測結構損壞方面的限制。藉由機器學習和電腦視覺，基於影像的 SHM 提供了可擴充且有效率的替代人工檢查的方法。然而，其可靠性受到挑戰的影響，例如假陽性、假陰性，以及環境變異性，特別是在低基底損壞情境中。基底比率偏差扮演了重要的角色，因為實際損壞的低機率常常導致對於陽性結果的誤解。本研究同時使用貝氏分析和頻率論方法來評估損壞檢測系統的精準度，揭示即使高度精確的模型在損壞發生率稀少時也可能產生誤導性的結果。討論了減輕這些限制的策略，包括結合多重資料來源的混合系統、對於關鍵評估的人類介入方法，以及改善訓練資料品質。這些發現提供了對於基於影像的 SHM 技術實務適用性的重要見解，突顯了它們在現實世界基礎設施監測方面的潛力和限制。
-
-##### **R-LLaVA: Improving Med-VQA Understanding through Visual Region of Interest**
-2410.20327v2 by Xupeng Chen, Zhixin Lai, Kangrui Ruan, Shichu Chen, Jiaxiang Liu, Zuozhu Liu
-
-Artificial intelligence has made significant strides in medical visual
-question answering (Med-VQA), yet prevalent studies often interpret images
-holistically, overlooking the visual regions of interest that may contain
-crucial information, potentially aligning with a doctor's prior knowledge that
-can be incorporated with minimal annotations (e.g., bounding boxes). To address
-this gap, this paper introduces R-LLaVA, designed to enhance biomedical VQA
-understanding by integrating simple medical annotations as prior knowledge
-directly into the image space through CLIP. These annotated visual regions of
-interest are then fed into the LLaVA model during training, aiming to enrich
-the model's understanding of biomedical queries. Experimental evaluation on
-four standard Med-VQA datasets demonstrates R-LLaVA's superiority over existing
-state-of-the-art (SoTA) methods. Additionally, to verify the model's capability
-in visual comprehension, a novel multiple-choice medical visual understanding
-dataset is introduced, confirming the positive impact of focusing on visual
-regions of interest in advancing biomedical VQA understanding.
-
-摘要：人工智慧在醫學視覺問答 (Med-VQA) 領域取得重大進展，但普遍的研究往往整體詮釋影像，忽略可能包含關鍵資訊的視覺感興趣區域，潛在符合醫師先備知識，且能透過最少註解（例如邊界框）納入。為了解決此差距，本文提出 R-LLaVA，旨在透過 CLIP 將簡單的醫學註解作為先備知識直接整合到影像空間，以增強生物醫學 VQA 理解。這些帶註解的視覺感興趣區域隨後在訓練期間輸入 LLaVA 模型，目標是豐富模型對生物醫學查詢的理解。在四個標準 Med-VQA 資料集上的實驗評估顯示，R-LLaVA 優於現有的最先進 (SoTA) 方法。此外，為了驗證模型在視覺理解中的能力，引入了新穎的多選題醫學視覺理解資料集，證實專注於視覺感興趣區域對推進生物醫學 VQA 理解的正面影響。
-
-##### **Enhancing Community Vision Screening -- AI Driven Retinal Photography for Early Disease Detection and Patient Trust**
-2410.20309v1 by Xiaofeng Lei, Yih-Chung Tham, Jocelyn Hui Lin Goh, Yangqin Feng, Yang Bai, Zhi Da Soh, Rick Siow Mong Goh, Xinxing Xu, Yong Liu, Ching-Yu Cheng
-
-Community vision screening plays a crucial role in identifying individuals
-with vision loss and preventing avoidable blindness, particularly in rural
-communities where access to eye care services is limited. Currently, there is a
-pressing need for a simple and efficient process to screen and refer
-individuals with significant eye disease-related vision loss to tertiary eye
-care centers for further care. An ideal solution should seamlessly and readily
-integrate with existing workflows, providing comprehensive initial screening
-results to service providers, thereby enabling precise patient referrals for
-timely treatment. This paper introduces the Enhancing Community Vision
-Screening (ECVS) solution, which addresses the aforementioned concerns with a
-novel and feasible solution based on simple, non-invasive retinal photography
-for the detection of pathology-based visual impairment. Our study employs four
-distinct deep learning models: RETinal photo Quality Assessment (RETQA),
-Pathology Visual Impairment detection (PVI), Eye Disease Diagnosis (EDD) and
-Visualization of Lesion Regions of the eye (VLR). We conducted experiments on
-over 10 datasets, totaling more than 80,000 fundus photos collected from
-various sources. The models integrated into ECVS achieved impressive AUC scores
-of 0.98 for RETQA, 0.95 for PVI, and 0.90 for EDD, along with a DICE
-coefficient of 0.48 for VLR. These results underscore the promising
-capabilities of ECVS as a straightforward and scalable method for
-community-based vision screening.
-
-摘要：社區視力篩檢在辨識視力受損的個人以及預防可避免的失明方面扮演著至關重要的角色，特別是在取得眼科保健服務受限的鄉村社區中。目前，迫切需要一個簡單且有效率的流程來篩選和轉介具有顯著眼疾相關視力受損的個人至三級眼科保健中心以接受進一步的照護。理想的解決方案應與現有的工作流程無縫且輕易地整合，提供全面的初步篩檢結果給服務提供者，進而能精確地轉介患者以獲得及時的治療。本文介紹了增強社區視力篩檢 (ECVS) 解決方案，該方案透過一種新穎且可行的解決方案來解決上述問題，這個解決方案是基於簡單、非侵入性的視網膜攝影來偵測病理性的視力受損。我們的研究採用四種不同的深度學習模型：視網膜照片品質評估 (RETQA)、病理性視力受損偵測 (PVI)、眼疾診斷 (EDD) 和眼睛病灶區域視覺化 (VLR)。我們在超過 10 個資料集上進行實驗，總計超過 80,000 張從各種來源收集而來的眼底照片。整合到 ECVS 的模型達到了令人印象深刻的 AUC 分數，RETQA 為 0.98、PVI 為 0.95、EDD 為 0.90，以及 VLR 的 DICE 係數為 0.48。這些結果強調了 ECVS 作為一種用於社區視力篩檢的直接且可擴充方法的潛力。
-
-##### **Modelling of Economic Implications of Bias in AI-Powered Health Emergency Response Systems**
-2410.20229v1 by Katsiaryna Bahamazava
-
-We present a theoretical framework assessing the economic implications of
-bias in AI-powered emergency response systems. Integrating health economics,
-welfare economics, and artificial intelligence, we analyze how algorithmic bias
-affects resource allocation, health outcomes, and social welfare. By
-incorporating a bias function into health production and social welfare models,
-we quantify its impact on demographic groups, showing that bias leads to
-suboptimal resource distribution, increased costs, and welfare losses. The
-framework highlights efficiency-equity trade-offs and provides economic
-interpretations. We propose mitigation strategies, including
-fairness-constrained optimization, algorithmic adjustments, and policy
-interventions. Our findings offer insights for policymakers, emergency service
-providers, and technology developers, emphasizing the need for AI systems that
-are efficient and equitable. By addressing the economic consequences of biased
-AI, this study contributes to policies and technologies promoting fairness,
-efficiency, and social welfare in emergency response services.
-
-摘要：我們提出一個理論架構，評估人工智慧緊急應變系統中偏誤的經濟影響。整合健康經濟學、福利經濟學和人工智慧，我們分析演算法偏誤如何影響資源分配、健康結果和社會福利。透過將偏誤函數納入健康生產和社會福利模型，我們量化其對人口群體的影響，顯示偏誤導致次優資源分配、增加成本和福利損失。該架構強調效率與公平性的權衡，並提供經濟詮釋。我們提出緩解策略，包括公平約束最佳化、演算法調整和政策干預。我們的研究結果為政策制定者、緊急服務提供者和技術開發者提供見解，強調需要兼具效率和公平性的 AI 系統。透過探討有偏誤的 AI 的經濟後果，本研究有助於制定促進公平性、效率和社會福利的政策和技術，以運用於緊急應變服務。
-
-##### **Generative AI in Health Economics and Outcomes Research: A Taxonomy of Key Definitions and Emerging Applications, an ISPOR Working Group Report**
-2410.20204v1 by Rachael Fleurence, Xiaoyan Wang, Jiang Bian, Mitchell K. Higashi, Turgay Ayer, Hua Xu, Dalia Dawoud, Jagpreet Chhatwal
-
-Objective: This article offers a taxonomy of generative artificial
-intelligence (AI) for health economics and outcomes research (HEOR), explores
-its emerging applications, and outlines methods to enhance the accuracy and
-reliability of AI-generated outputs. Methods: The review defines foundational
-generative AI concepts and highlights current HEOR applications, including
-systematic literature reviews, health economic modeling, real-world evidence
-generation, and dossier development. Approaches such as prompt engineering
-(zero-shot, few-shot, chain-of-thought, persona pattern prompting),
-retrieval-augmented generation, model fine-tuning, and the use of
-domain-specific models are introduced to improve AI accuracy and reliability.
-Results: Generative AI shows significant potential in HEOR, enhancing
-efficiency, productivity, and offering novel solutions to complex challenges.
-Foundation models are promising in automating complex tasks, though challenges
-remain in scientific reliability, bias, interpretability, and workflow
-integration. The article discusses strategies to improve the accuracy of these
-AI tools. Conclusion: Generative AI could transform HEOR by increasing
-efficiency and accuracy across various applications. However, its full
-potential can only be realized by building HEOR expertise and addressing the
-limitations of current AI technologies. As AI evolves, ongoing research and
-innovation will shape its future role in the field.
-
-摘要：**目標：**本文提供了一種生成式人工智慧（AI）的分類法，用於健康經濟學和成果研究（HEOR），探討其新興應用，並概述增強 AI 生成的輸出準確性和可靠性的方法。**方法：**本回顧定義了生成式 AI 的基礎概念，並重點介紹了當前的 HEOR 應用，包括系統文獻回顧、健康經濟模型、真實世界證據生成和檔案開發。介紹了諸如提示工程（零次、少次、思維鏈、角色模式提示）、檢索增強生成、模型微調和使用特定領域模型等方法，以提高 AI 的準確性和可靠性。**結果：**生成式 AI 在 HEOR 中顯示出顯著的潛力，提高效率、生產力，並為複雜的挑戰提供創新的解決方案。基礎模型在自動化複雜任務方面很有前景，儘管在科學可靠性、偏差、可解釋性和工作流程整合方面仍然存在挑戰。本文討論了提高這些 AI 工具準確性的策略。**結論：**生成式 AI 可以通過提高各種應用中的效率和準確性來轉變 HEOR。然而，只有通過建立 HEOR 專業知識並解決當前 AI 技術的局限性，才能實現其全部潛力。隨著 AI 的發展，持續的研究和創新將塑造其在該領域的未來角色。
 

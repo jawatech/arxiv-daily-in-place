@@ -2,7 +2,7 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v1](http://arxiv.org/abs/2411.03883v1)|[link](https://github.com/lautel/meg)|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|[link](https://github.com/lautel/meg)|
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|
@@ -15,7 +15,7 @@
 |**2024-11-03**|**Pre-trained Molecular Language Models with Random Functional Group Masking**|Tianhao Peng et.al.|[2411.01401v1](http://arxiv.org/abs/2411.01401v1)|null|
 |**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435v1](http://arxiv.org/abs/2411.02435v1)|null|
 |**2024-11-01**|**WLPlan: Relational Features for Symbolic Planning**|Dillon Z. Chen et.al.|[2411.00577v1](http://arxiv.org/abs/2411.00577v1)|null|
-|**2024-11-01**|**GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**|Anish Pahilajani et.al.|[2411.00369v1](http://arxiv.org/abs/2411.00369v1)|null|
+|**2024-11-01**|**GRSQA -- Graph Reasoning-Structured Question Answering Dataset**|Anish Pahilajani et.al.|[2411.00369v2](http://arxiv.org/abs/2411.00369v2)|null|
 |**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523v1](http://arxiv.org/abs/2411.02523v1)|null|
 |**2024-10-31**|**Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**|Beyazit Yalcinkaya et.al.|[2411.00205v1](http://arxiv.org/abs/2411.00205v1)|null|
 |**2024-10-31**|**Building Multi-Agent Copilot towards Autonomous Agricultural Data Management and Analysis**|Yu Pan et.al.|[2411.00188v1](http://arxiv.org/abs/2411.00188v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**
-2411.03883v1 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
+2411.03883v2 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
 
 Question answering is a natural language understanding task that involves
 reasoning over both explicit context and unstated, relevant domain knowledge.
@@ -122,7 +122,7 @@ grounding provided by knowledge graph embeddings. MEG attains an average of
 models like BioMistral. We also show results based on Llama-3. Finally, we show
 that MEG's performance remains robust to the choice of graph encoder.
 
-摘要：問答是一種自然語言理解任務，涉及對明確的語境和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論出概念在醫學等專業領域中的關聯性。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數高效方法。MEG 使用輕量級對應網路將圖形嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖形嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確率，在 BioMistral 等專用模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖形編碼器的選擇保持穩健。
+摘要：問答是自然語言理解任務，涉及對明確的上下文和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論概念如何在醫學等專業領域中關聯。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數有效方法。MEG 使用輕量級映射網路將圖表嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖表嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確度，在 BioMistral 等專門模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖表編碼器的選擇保持穩健。
 
 ##### **The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**
 2411.03568v1 by Lee Kezar, Nidhi Munikote, Zian Zeng, Zed Sehyr, Naomi Caselli, Jesse Thomason
@@ -413,8 +413,8 @@ WLPlan are available at tinyurl.com/42kymswc
 
 摘要：可擴充的學習規劃研究通常需要在不同的程式語言之間切換，才能有效地處理學習和規劃模組。例如 Python 等直譯語言通常用於學習常式，因為它們易於使用，且有許多維護完善的學習函式庫；而例如 C++ 等編譯語言則用於規劃常式，因為它們能最佳化資源使用。由於需要開發可擴充學習規劃器的工具，我們引進了 WLPlan，這是一個具有 Python 繫結的 C++ 套件，實作了近期有前途的自動產生規劃任務關係特徵的工作。此類特徵可用於任何下游常式，例如學習領域控制知識或探測和理解規劃任務。更具體地說，WLPlan 提供了以下功能：(1) 將規劃任務轉換為圖形，以及 (2) 透過圖形核將規劃圖形嵌入特徵向量。WLPlan 的原始碼和安裝及使用說明可在 tinyurl.com/42kymswc 取得
 
-##### **GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**
-2411.00369v1 by Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang
+##### **GRSQA -- Graph Reasoning-Structured Question Answering Dataset**
+2411.00369v2 by Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang
 
 Large Language Models (LLMs) have excelled in multi-hop question-answering
 (M-QA) due to their advanced reasoning abilities. However, the impact of the
@@ -432,7 +432,7 @@ analysis reveals that LLMs perform differently when handling questions with
 varying reasoning structures. This finding facilitates the exploration of
 textual structures as compared with semantics.
 
-摘要：大型語言模型 (LLM) 由於其先進的推理能力，在多跳問答 (M-QA) 中表現出色。然而，固有推理結構對 LLM M-QA 效能的影響仍不明確，這主要是因為缺乏提供細粒度推理結構的問答資料集。為了解決這個差距，我們引入了圖形推理結構式問答資料集 (GRS-QA)，其中包含問答對的語義脈絡和推理結構。與現有的 M-QA 資料集不同（其中不同的推理結構糾纏在一起），GRS-QA 通過建構推理圖形來明確捕捉複雜的推理路徑，其中節點表示文字脈絡，而邊緣表示邏輯流程。這些不同結構的推理圖形能夠對 LLM 推理能力進行細粒度評估，涵蓋各種推理結構。我們的實證分析顯示，LLM 在處理具有不同推理結構的問題時表現不同。這一發現促進了對文字結構與語義的比較探索。
+摘要：大型語言模型 (LLM) 由於其先進的推理能力，在多跳問答 (M-QA) 方面表現出色。然而，固有推理結構對 LLM M-QA 效能的影響仍不明確，這主要歸因於缺乏提供細粒度推理結構的問答資料集。為了解決這個差距，我們引入了圖形推理結構式問答資料集 (GRS-QA)，其中包含語義脈絡和問答對的推理結構。與現有的 M-QA 資料集不同，在現有資料集中，不同的推理結構糾纏在一起，GRS-QA 透過建構推理圖形，明確捕捉複雜的推理路徑，其中節點代表文字脈絡，而邊緣表示邏輯流。這些不同結構的推理圖形能夠對 LLM 在各種推理結構中的推理能力進行細粒度的評估。我們的實證分析顯示，LLM 在處理具有不同推理結構的問題時，表現不同。這個發現促進了對文字結構與語義進行比較的研究。
 
 ##### **Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**
 2411.02523v1 by Balu Bhasuran, Qiao Jin, Yuzhang Xie, Carl Yang, Karim Hanna, Jennifer Costa, Cindy Shavor, Zhiyong Lu, Zhe He

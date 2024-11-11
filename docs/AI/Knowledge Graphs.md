@@ -22,7 +22,7 @@
 |**2024-10-31**|**Exploring the Knowledge Mismatch Hypothesis: Hallucination Propensity in Small Models Fine-tuned on Data from Larger Models**|Phil Wee et.al.|[2411.00878v1](http://arxiv.org/abs/2411.00878v1)|null|
 |**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884v1](http://arxiv.org/abs/2410.23884v1)|[link](https://github.com/shantanu95/llm_causal_reasoning)|
 |**2024-10-31**|**Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**|Liyi Chen et.al.|[2410.23875v1](http://arxiv.org/abs/2410.23875v1)|[link](https://github.com/liyichen-cly/pog)|
-|**2024-10-31**|**LLaMo: Large Language Model-based Molecular Graph Assistant**|Jinyoung Park et.al.|[2411.00871v1](http://arxiv.org/abs/2411.00871v1)|null|
+|**2024-10-31**|**LLaMo: Large Language Model-based Molecular Graph Assistant**|Jinyoung Park et.al.|[2411.00871v1](http://arxiv.org/abs/2411.00871v1)|[link](https://github.com/mlvlab/llamo)|
 |**2024-10-31**|**End-to-End Ontology Learning with Large Language Models**|Andy Lo et.al.|[2410.23584v1](http://arxiv.org/abs/2410.23584v1)|[link](https://github.com/andylolu2/ollm)|
 |**2024-10-30**|**Graph-Augmented Relation Extraction Model with LLMs-Generated Support Document**|Vicky Dong et.al.|[2410.23452v1](http://arxiv.org/abs/2410.23452v1)|null|
 |**2024-10-30**|**FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**|Anuroop Sriram et.al.|[2410.23405v1](http://arxiv.org/abs/2410.23405v1)|[link](https://github.com/facebookresearch/flowmm)|

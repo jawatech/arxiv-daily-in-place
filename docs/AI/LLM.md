@@ -10,7 +10,7 @@
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996v1](http://arxiv.org/abs/2411.04996v1)|null|
 |**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991v1](http://arxiv.org/abs/2411.04991v1)|[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)|
 |**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987v1](http://arxiv.org/abs/2411.04987v1)|null|
-|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986v1](http://arxiv.org/abs/2411.04986v1)|[link](https://github.com/ZhaofengWu/semantic-hub)|
+|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986v1](http://arxiv.org/abs/2411.04986v1)|null|
 |**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983v1](http://arxiv.org/abs/2411.04983v1)|null|
 |**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981v1](http://arxiv.org/abs/2411.04981v1)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975v1](http://arxiv.org/abs/2411.04975v1)|null|
@@ -18,7 +18,7 @@
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962v1](http://arxiv.org/abs/2411.04962v1)|null|
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956v1](http://arxiv.org/abs/2411.04956v1)|null|
 |**2024-11-07**|**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**|Jaemin Cho et.al.|[2411.04952v1](http://arxiv.org/abs/2411.04952v1)|null|
-|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950v1](http://arxiv.org/abs/2411.04950v1)|[link](https://github.com/YoffeG/Thematic-nonThematic_Hypothesis_Testing)|
+|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950v1](http://arxiv.org/abs/2411.04950v1)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928v1](http://arxiv.org/abs/2411.04928v1)|null|
 |**2024-11-07**|**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**|Panwen Hu et.al.|[2411.04925v1](http://arxiv.org/abs/2411.04925v1)|null|
 |**2024-11-07**|**GPTKB: Building Very Large Knowledge Bases from Language Models**|Yujia Hu et.al.|[2411.04920v1](http://arxiv.org/abs/2411.04920v1)|null|
@@ -33,7 +33,7 @@
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847v1](http://arxiv.org/abs/2411.04847v1)|[link](https://github.com/fujie-math/PRISM)|
 |**2024-11-07**|**Machine learning and optimization-based approaches to duality in statistical physics**|Andrea E. V. Ferrari et.al.|[2411.04838v1](http://arxiv.org/abs/2411.04838v1)|null|
 |**2024-11-07**|**VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models**|Ming Cheng et.al.|[2411.04825v1](http://arxiv.org/abs/2411.04825v1)|null|
-|**2024-11-07**|**When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun**|Seyoung Song et.al.|[2411.04822v1](http://arxiv.org/abs/2411.04822v1)|null|
+|**2024-11-07**|**When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun**|Seyoung Song et.al.|[2411.04822v1](http://arxiv.org/abs/2411.04822v1)|[link](https://github.com/seyoungsong/classical-chinese-transfer)|
 |**2024-11-07**|**LuxBank: The First Universal Dependency Treebank for Luxembourgish**|Alistair Plum et.al.|[2411.04813v1](http://arxiv.org/abs/2411.04813v1)|null|
 |**2024-11-07**|**Defending Deep Regression Models against Backdoor Attacks**|Lingyu Du et.al.|[2411.04811v1](http://arxiv.org/abs/2411.04811v1)|null|
 |**2024-11-07**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799v1](http://arxiv.org/abs/2411.04799v1)|null|
@@ -60,7 +60,7 @@
 |**2024-11-07**|**Self-Calibrated Listwise Reranking with Large Language Models**|Ruiyang Ren et.al.|[2411.04602v1](http://arxiv.org/abs/2411.04602v1)|null|
 |**2024-11-07**|**Tibyan Corpus: Balanced and Comprehensive Error Coverage Corpus Using ChatGPT for Arabic Grammatical Error Correction**|Ahlam Alrehili et.al.|[2411.04588v1](http://arxiv.org/abs/2411.04588v1)|null|
 |**2024-11-07**|**On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data**|Aitor Martinez-Seras et.al.|[2411.04586v1](http://arxiv.org/abs/2411.04586v1)|null|
-|**2024-11-07**|**The State and Fate of Summarization Datasets**|Noam Dahan et.al.|[2411.04585v1](http://arxiv.org/abs/2411.04585v1)|null|
+|**2024-11-07**|**The State and Fate of Summarization Datasets**|Noam Dahan et.al.|[2411.04585v1](http://arxiv.org/abs/2411.04585v1)|[link](https://github.com/edahanoam/Awesome-Summarization-Datasets)|
 |**2024-11-07**|**Interpreting the Learned Model in MuZero Planning**|Hung Guei et.al.|[2411.04580v1](http://arxiv.org/abs/2411.04580v1)|null|
 |**2024-11-07**|**Multistage Fine-tuning Strategies for Automatic Speech Recognition in Low-resource Languages**|Leena G Pillai et.al.|[2411.04573v1](http://arxiv.org/abs/2411.04573v1)|null|
 |**2024-11-07**|**Impact of Label Noise on Learning Complex Features**|Rahul Vashisht et.al.|[2411.04569v1](http://arxiv.org/abs/2411.04569v1)|null|
@@ -82,7 +82,7 @@
 |**2024-11-07**|**Gradient Localization Improves Lifelong Pretraining of Language Models**|Jared Fernandez et.al.|[2411.04448v1](http://arxiv.org/abs/2411.04448v1)|null|
 |**2024-11-07**|**ACCIO: Table Understanding Enhanced via Contrastive Learning with Aggregations**|Whanhee Cho et.al.|[2411.04443v1](http://arxiv.org/abs/2411.04443v1)|[link](https://github.com/whnhch/accio)|
 |**2024-11-07**|**Scaling Laws for Pre-training Agents and World Models**|Tim Pearce et.al.|[2411.04434v1](http://arxiv.org/abs/2411.04434v1)|null|
-|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427v1](http://arxiv.org/abs/2411.04427v1)|[link](https://github.com/skmur/onefish-twofish)|
+|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427v1](http://arxiv.org/abs/2411.04427v1)|null|
 |**2024-11-07**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425v1](http://arxiv.org/abs/2411.04425v1)|[link](https://github.com/agarwalishika/delift)|
 |**2024-11-07**|**Bayesian Calibration of Win Rate Estimation with LLM Evaluators**|Yicheng Gao et.al.|[2411.04424v1](http://arxiv.org/abs/2411.04424v1)|[link](https://github.com/yale-nlp/bay-calibration-llm-evaluators)|
 |**2024-11-07**|**Variational Low-Rank Adaptation Using IVON**|Bai Cong et.al.|[2411.04421v1](http://arxiv.org/abs/2411.04421v1)|[link](https://github.com/team-approx-bayes/ivon-lora)|

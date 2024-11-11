@@ -80,7 +80,7 @@
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223v1](http://arxiv.org/abs/2410.22223v1)|null|
 |**2024-10-29**|**Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review**|Muhammad Bilal et.al.|[2410.22180v1](http://arxiv.org/abs/2410.22180v1)|null|
 |**2024-10-29**|**Advanced Hybrid Deep Learning Model for Enhanced Classification of Osteosarcoma Histopathology Images**|Arezoo Borji et.al.|[2411.00832v1](http://arxiv.org/abs/2411.00832v1)|null|
-|**2024-10-29**|**Unsupervised Training of a Dynamic Context-Aware Deep Denoising Framework for Low-Dose Fluoroscopic Imaging**|Sun-Young Jeon et.al.|[2411.00830v1](http://arxiv.org/abs/2411.00830v1)|null|
+|**2024-10-29**|**Unsupervised Training of a Dynamic Context-Aware Deep Denoising Framework for Low-Dose Fluoroscopic Imaging**|Sun-Young Jeon et.al.|[2411.00830v1](http://arxiv.org/abs/2411.00830v1)|[link](https://github.com/sunyoungIT/UDCA-Net)|
 |**2024-10-29**|**Coupling quantum-like cognition with the neuronal networks within generalized probability theory**|Andrei Khrennikov et.al.|[2411.00036v1](http://arxiv.org/abs/2411.00036v1)|null|
 |**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872v2](http://arxiv.org/abs/2410.21872v2)|null|
 |**2024-10-29**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676v1](http://arxiv.org/abs/2410.21676v1)|null|

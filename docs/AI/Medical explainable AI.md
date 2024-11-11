@@ -2,7 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v1](http://arxiv.org/abs/2411.00916v1)|null|
+|**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
 |**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
 |**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**
-2411.00916v1 by Mehdi Hosseini Chagahi, Saeed Mohammadi Dashtaki, Niloufar Delfan, Nadia Mohammadi, Alireza Samari, Behzad Moshiri, Md. Jalil Piran, U. Rajendra Acharya, Oliver Faust
+2411.00916v2 by Mehdi Hosseini Chagahi, Saeed Mohammadi Dashtaki, Niloufar Delfan, Nadia Mohammadi, Alireza Samari, Behzad Moshiri, Md. Jalil Piran, Oliver Faust
 
 Osteoporosis is a common condition that increases fracture risk, especially
 in older adults. Early diagnosis is vital for preventing fractures, reducing
@@ -127,7 +127,7 @@ for accurate predictions. This framework promotes precise and interpretable
 predictions, enhancing transparency and building trust in AI-driven diagnoses
 for clinical integration.
 
-摘要：骨質疏鬆症是一種常見的疾病，會增加骨折風險，特別是老年人。早期診斷對於預防骨折、降低治療成本和維持行動力至關重要。然而，醫療保健提供者面臨挑戰，例如標記數據有限和處理醫學影像困難。本研究提出了一個新穎的多模式學習框架，它整合了臨床和影像數據，以提高診斷準確性和模型可解釋性。該模型利用三個預訓練網路 - VGG19、InceptionV3 和 ResNet50 - 從 X 光影像中提取深度特徵。這些特徵使用 PCA 轉換，以降低維度並專注於最相關的組成部分。基於群集的選擇過程識別最具代表性的組成部分，然後將其與預處理的臨床數據結合，並透過全連接網路 (FCN) 處理以進行最終分類。特徵重要性圖突顯了關鍵變數，顯示病史、BMI 和身高是主要貢獻者，強調了患者特定數據的重要性。雖然影像特徵很有價值，但它們的重要性較低，這表明臨床數據對於準確預測至關重要。這個框架促进了準確且可解釋的預測，提高了透明度，並建立了對 AI 驅動診斷的信任，以進行臨床整合。
+摘要：骨質疏鬆症是一種常見的疾病，會增加骨折的風險，特別是老年人。早期診斷對於預防骨折、降低治療成本和維持行動能力至關重要。然而，醫療保健提供者面臨著標記數據有限和處理醫學影像困難等挑戰。本研究提出了一個新穎的多模式學習框架，該框架整合了臨床和影像數據，以提高診斷準確性和模型可解釋性。該模型利用三個預訓練的網路，VGG19、InceptionV3 和 ResNet50，從 X 射線影像中提取深度特徵。這些特徵使用 PCA 轉換以降低維度並專注於最相關的組成部分。基於聚類的選擇過程識別出最具代表性的組成部分，然後將這些組成部分與預處理的臨床數據結合，並通過全連接網路 (FCN) 進行最終分類。特徵重要性圖突出了關鍵變數，表明病史、BMI 和身高是主要貢獻因素，強調了患者特定數據的重要性。雖然影像特徵很有價值，但它們的重要性較低，這表明臨床數據對於準確預測至關重要。此框架促进了準確且可解釋的預測，提高了透明度，並建立了對 AI 驅動診斷在臨床整合中的信任。
 
 ##### **A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**
 2410.19898v1 by Muath Alsuhaibani, Ali Pourramezan Fard, Jian Sun, Farida Far Poor, Peter S. Pressman, Mohammad H. Mahoor

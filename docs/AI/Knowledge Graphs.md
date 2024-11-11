@@ -2,12 +2,15 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v1](http://arxiv.org/abs/2411.05521v1)|null|
+|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479v1](http://arxiv.org/abs/2411.05479v1)|[link](https://github.com/jumbo110/eurekha)|
+|**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316v1](http://arxiv.org/abs/2411.05316v1)|[link](https://github.com/tizzzzy/llm-gdm-alignment)|
 |**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|[link](https://github.com/lautel/meg)|
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|
 |**2024-11-04**|**Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v1](http://arxiv.org/abs/2411.02591v1)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
-|**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v1](http://arxiv.org/abs/2411.02540v1)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
+|**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v2](http://arxiv.org/abs/2411.02540v2)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382v1](http://arxiv.org/abs/2411.02382v1)|null|
 |**2024-11-04**|**Can Language Models Enable In-Context Database?**|Yu Pan et.al.|[2411.01807v1](http://arxiv.org/abs/2411.01807v1)|null|
 |**2024-11-03**|**Graph-based Confidence Calibration for Large Language Models**|Yukun Li et.al.|[2411.02454v1](http://arxiv.org/abs/2411.02454v1)|null|
@@ -15,7 +18,7 @@
 |**2024-11-03**|**Pre-trained Molecular Language Models with Random Functional Group Masking**|Tianhao Peng et.al.|[2411.01401v1](http://arxiv.org/abs/2411.01401v1)|null|
 |**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435v1](http://arxiv.org/abs/2411.02435v1)|null|
 |**2024-11-01**|**WLPlan: Relational Features for Symbolic Planning**|Dillon Z. Chen et.al.|[2411.00577v1](http://arxiv.org/abs/2411.00577v1)|null|
-|**2024-11-01**|**GRSQA -- Graph Reasoning-Structured Question Answering Dataset**|Anish Pahilajani et.al.|[2411.00369v2](http://arxiv.org/abs/2411.00369v2)|null|
+|**2024-11-01**|**GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**|Anish Pahilajani et.al.|[2411.00369v3](http://arxiv.org/abs/2411.00369v3)|null|
 |**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523v1](http://arxiv.org/abs/2411.02523v1)|null|
 |**2024-10-31**|**Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**|Beyazit Yalcinkaya et.al.|[2411.00205v1](http://arxiv.org/abs/2411.00205v1)|null|
 |**2024-10-31**|**Building Multi-Agent Copilot towards Autonomous Agricultural Data Management and Analysis**|Yu Pan et.al.|[2411.00188v1](http://arxiv.org/abs/2411.00188v1)|null|
@@ -99,11 +102,92 @@
 |**2024-10-16**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298v2](http://arxiv.org/abs/2410.12298v2)|null|
 |**2024-10-16**|**LLM-based Cognitive Models of Students with Misconceptions**|Shashank Sonkar et.al.|[2410.12294v2](http://arxiv.org/abs/2410.12294v2)|null|
 |**2024-10-16**|**Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**|Ziqiang Cui et.al.|[2410.12229v1](http://arxiv.org/abs/2410.12229v1)|null|
-|**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228v1](http://arxiv.org/abs/2410.12228v1)|null|
-|**2024-10-16**|**Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning**|Huiwen Wu et.al.|[2410.12130v1](http://arxiv.org/abs/2410.12130v1)|null|
-|**2024-10-15**|**Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning**|Guangxin Su et.al.|[2410.12096v1](http://arxiv.org/abs/2410.12096v1)|null|
 
 #### Abstracts
+##### **SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**
+2411.05521v1 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
+
+Electronic health records (EHRs) are stored in various database systems with
+different database models on heterogeneous storage architectures, such as
+relational databases, document stores, or graph databases. These different
+database models have a big impact on query complexity and performance. While
+this has been a known fact in database research, its implications for the
+growing number of Text-to-Query systems have surprisingly not been investigated
+so far. In this paper, we present SM3-Text-to-Query, the first multi-model
+medical Text-to-Query benchmark based on synthetic patient data from Synthea,
+following the SNOMED-CT taxonomy -- a widely used knowledge graph ontology
+covering medical terminology. SM3-Text-to-Query provides data representations
+for relational databases (PostgreSQL), document stores (MongoDB), and graph
+databases (Neo4j and GraphDB (RDF)), allowing the evaluation across four
+popular query languages, namely SQL, MQL, Cypher, and SPARQL. We systematically
+and manually develop 408 template questions, which we augment to construct a
+benchmark of 10K diverse natural language question/query pairs for these four
+query languages (40K pairs overall). On our dataset, we evaluate several common
+in-context-learning (ICL) approaches for a set of representative closed and
+open-source LLMs. Our evaluation sheds light on the trade-offs between database
+models and query languages for different ICL strategies and LLMs. Last,
+SM3-Text-to-Query is easily extendable to additional query languages or real,
+standard-based patient databases.
+
+摘要：電子健康紀錄 (EHR) 儲存在各種資料庫系統中，這些系統在異質儲存架構上具有不同的資料庫模型，例如關聯式資料庫、文件儲存或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中已經是眾所周知的事實，但令人驚訝的是，它對日益增加的文字轉查詢系統的影響迄今尚未得到調查。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於來自 Synthea 的合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法——一種廣泛使用的涵蓋醫學術語的知識圖譜本體。SM3-Text-to-Query 提供了關聯式資料庫 (PostgreSQL)、文件儲存 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行查詢語言（即 SQL、MQL、Cypher 和 SPARQL）進行評估。我們系統且手動開發了 408 個範本問題，我們擴充這些問題以構建一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢對（總共 40K 對）。在我們的資料集上，我們評估了幾種常見的代表性閉源和開源 LLM 的情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的取捨。最後，SM3-Text-to-Query 可以輕鬆擴展到其他查詢語言或真實的基於標準的患者資料庫。
+
+##### **EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**
+2411.05479v1 by Abdoul Nasser Hassane Amadou, Anas Motii, Saida Elouardi, EL Houcine Bergou
+
+Underground forums serve as hubs for cybercriminal activities, offering a
+space for anonymity and evasion of conventional online oversight. In these
+hidden communities, malicious actors collaborate to exchange illicit knowledge,
+tools, and tactics, driving a range of cyber threats from hacking techniques to
+the sale of stolen data, malware, and zero-day exploits. Identifying the key
+instigators (i.e., key hackers), behind these operations is essential but
+remains a complex challenge. This paper presents a novel method called EUREKHA
+(Enhancing User Representation for Key Hacker Identification in Underground
+Forums), designed to identify these key hackers by modeling each user as a
+textual sequence. This sequence is processed through a large language model
+(LLM) for domain-specific adaptation, with LLMs acting as feature extractors.
+These extracted features are then fed into a Graph Neural Network (GNN) to
+model user structural relationships, significantly improving identification
+accuracy. Furthermore, we employ BERTopic (Bidirectional Encoder
+Representations from Transformers Topic Modeling) to extract personalized
+topics from user-generated content, enabling multiple textual representations
+per user and optimizing the selection of the most representative sequence. Our
+study demonstrates that fine-tuned LLMs outperform state-of-the-art methods in
+identifying key hackers. Additionally, when combined with GNNs, our model
+achieves significant improvements, resulting in approximately 6% and 10%
+increases in accuracy and F1-score, respectively, over existing methods.
+EUREKHA was tested on the Hack-Forums dataset, and we provide open-source
+access to our code.
+
+摘要：<paragraph>地下論壇是網路犯罪活動的樞紐，提供匿名和規避傳統網路監督的空間。在這些隱藏的社群中，惡意行為者合作交換非法知識、工具和策略，推動從駭客技術到銷售竊取資料、惡意軟體和零時差漏洞的各種網路威脅。找出這些行動背後的關鍵煽動者（即關鍵駭客）至關重要，但仍然是一個複雜的挑戰。本文提出了一種稱為 EUREKHA（增強使用者表徵以識別地下論壇中的關鍵駭客）的新方法，旨在透過將每個使用者建模為文字序列來識別這些關鍵駭客。此序列透過大型語言模型（LLM）處理以進行特定領域的適應，其中 LLM 作為特徵萃取器。然後將這些萃取的特徵輸入圖神經網路（GNN）以建模使用者結構關係，大幅提升識別準確度。此外，我們採用 BERTopic（來自 Transformer 主題建模的雙向編碼器表徵）從使用者產生的內容中萃取個人化主題，為每個使用者啟用多個文字表徵，並最佳化最具代表性序列的選擇。我們的研究表明，微調後的 LLM 在識別關鍵駭客方面優於最先進的方法。此外，當與 GNN 結合使用時，我們的模型獲得顯著的提升，與現有方法相比，準確度和 F1 分數分別提高了約 6% 和 10%。EUREKHA 已在 Hack-Forums 資料集上進行測試，我們提供開源方式存取我們的程式碼。</paragraph>
+
+##### **Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**
+2411.05316v1 by Dong Shu, Bingbing Duan, Kai Guo, Kaixiong Zhou, Jiliang Tang, Mengnan Du
+
+Latent representation alignment has become a foundational technique for
+constructing multimodal large language models (MLLM) by mapping embeddings from
+different modalities into a shared space, often aligned with the embedding
+space of large language models (LLMs) to enable effective cross-modal
+understanding. While preliminary protein-focused MLLMs have emerged, they have
+predominantly relied on heuristic approaches, lacking a fundamental
+understanding of optimal alignment practices across representations. In this
+study, we explore the alignment of multimodal representations between LLMs and
+Geometric Deep Models (GDMs) in the protein domain. We comprehensively evaluate
+three state-of-the-art LLMs (Gemma2-2B, LLaMa3.1-8B, and LLaMa3.1-70B) with
+four protein-specialized GDMs (GearNet, GVP, ScanNet, GAT). Our work examines
+alignment factors from both model and protein perspectives, identifying
+challenges in current alignment methodologies and proposing strategies to
+improve the alignment process. Our key findings reveal that GDMs incorporating
+both graph and 3D structural information align better with LLMs, larger LLMs
+demonstrate improved alignment capabilities, and protein rarity significantly
+impacts alignment performance. We also find that increasing GDM embedding
+dimensions, using two-layer projection heads, and fine-tuning LLMs on
+protein-specific data substantially enhance alignment quality. These strategies
+offer potential enhancements to the performance of protein-related multimodal
+models. Our code and data are available at
+https://github.com/Tizzzzy/LLM-GDM-alignment.
+
+摘要：潛在表徵對齊已成為建構多模態大型語言模型 (MLLM) 的基礎技術，方法是將不同模態的嵌入映射到共享空間中，通常與大型語言模型 (LLM) 的嵌入空間對齊，以實現有效的跨模態理解。雖然初步以蛋白質為重點的 MLLM 已出現，但它們主要依賴啟發式方法，缺乏對跨表徵最佳對齊實務的基本理解。在本研究中，我們探討了蛋白質領域中 LLM 與幾何深度模型 (GDM) 之間的多模態表徵對齊。我們全面評估了三個最先進的 LLM（Gemma2-2B、LLaMa3.1-8B 和 LLaMa3.1-70B）與四個蛋白質專用 GDM（GearNet、GVP、ScanNet、GAT）。我們的研究從模型和蛋白質角度檢視對齊因素，識別當前對齊方法的挑戰，並提出改善對齊程序的策略。我們的關鍵發現顯示，同時包含圖形和 3D 結構資訊的 GDM 與 LLM 的對齊效果較佳，較大的 LLM 展現出更佳的對齊能力，而蛋白質的稀有性顯著影響對齊效能。我們還發現，增加 GDM 嵌入維度、使用兩層投影頭，以及針對蛋白質特定資料微調 LLM，可以大幅提升對齊品質。這些策略為蛋白質相關多模態模型的效能提供潛在的強化。我們的程式碼和資料可在 https://github.com/Tizzzzy/LLM-GDM-alignment 取得。
+
 ##### **MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**
 2411.03883v2 by Laura Cabello, Carmen Martin-Turrero, Uchenna Akujuobi, Anders Søgaard, Carlos Bobed
 
@@ -217,7 +301,7 @@ and reproducibility, we open-source all the data and codes used in this study.
 摘要：每年，數百萬人因為神經肌肉疾病、中風、創傷和頭頸癌手術（例如喉切除術）或治療（例如放射治療對言語發音器官的毒性）等原因而失去清晰說話的能力。有效的溝通對於日常生活至關重要，而失去說話能力會導致孤立、沮喪、焦慮和一系列有害的後遺症。非侵入性表面肌電圖 (sEMG) 已顯示出恢復這些人說話輸出的希望。目標是從多個發音部位收集 sEMG 信號，因為人們在無聲地發出言語，然後解碼信號以實現流利和自然的溝通。目前，許多與言語發音有關的顏面神經肌肉信號的基本特性仍然沒有得到解答。它們包括與 1) 顏面 sEMG 信號的數據結構、2) sEMG 在個體間的信號分佈轉移、3) sEMG 信號在無聲言語發音過程中跨越整個英語語言音標空間的能力以及 4) 基於非侵入性 sEMG 的無聲言語介面的概括能力相關的問題。我們通過一系列涉及健康人類受試者的實驗來解決這些問題。我們表明 sEMG 信號證明圖數據結構，並且信號分佈轉移是由基變化的給出。此外，我們表明使用可以通過少量數據訓練的小神經網路可以解碼跨越整個英語語言音標空間的無聲發音，並且此類架構在不同個體之間運行良好。為了確保透明度和可重現性，我們公開了本研究中使用的所有數據和代碼。
 
 ##### **GraphXAIN: Narratives to Explain Graph Neural Networks**
-2411.02540v1 by Mateusz Cedro, David Martens
+2411.02540v2 by Mateusz Cedro, David Martens
 
 Graph Neural Networks (GNNs) are a powerful technique for machine learning on
 graph-structured data, yet they pose interpretability challenges, especially
@@ -239,7 +323,7 @@ capabilities on a real-world graph dataset, illustrating how its generated
 narratives can aid understanding compared to traditional graph explainer
 outputs or other descriptive explanation methods.
 
-摘要：圖形神經網路 (GNN) 是機器學習中用於圖形結構資料的強大技術，但它們提出了可解釋性的挑戰，特別是對於非專家使用者。現有的 GNN 解釋方法通常會產生技術輸出，例如子圖和特徵重要性分數，這些輸出不容易理解。建立在社會科學和其他可解釋 AI (XAI) 方法的最新見解上，我們提出了 GraphXAIN，這是一種自然語言敘述，用於解釋 GNN 做出的個別預測。我們提出了一種與模型無關且與解釋器無關的 XAI 方法，它透過使用大型語言模型 (LLM) 和整合圖形資料、GNN 的個別預測、解釋性子圖和特徵重要性來補充圖形解釋器，進而產生 GraphXAIN。我們定義了 XAI 敘述和 XAI 描述，強調它們的區別並強調敘述原則在有效解釋中的重要性。透過納入自然語言敘述，我們的做法支援圖形從業人員和非專家使用者，與社會科學對可解釋性的研究保持一致，並增強使用者對複雜 GNN 模型的理解和信任。我們在真實世界的圖形資料集上展示了 GraphXAIN 的功能，說明與傳統的圖形解釋器輸出或其他描述性解釋方法相比，它產生的敘述如何有助於理解。
+摘要：圖形神經網路 (GNN) 是用於圖形結構資料的機器學習強大技術，但它們會造成可解釋性挑戰，特別是對於非專家使用者。現有的 GNN 解釋方法通常會產生技術輸出，例如子圖和特徵重要性分數，這些輸出不容易理解。建構於社會科學和其他可解釋 AI (XAI) 方法的最新見解，我們提出 GraphXAIN，這是一種自然語言敘述，可以解釋 GNN 做出的個別預測。我們提出一個與模型無關且與解釋器無關的 XAI 方法，它透過使用大型語言模型 (LLM) 和整合圖形資料、GNN 的個別預測、說明性子圖和特徵重要性來補充圖形解釋器，進而產生 GraphXAIN。我們定義 XAI 敘述和 XAI 描述，強調它們的區別，並強調敘述原則在有效解釋中的重要性。透過結合自然語言敘述，我們的做法支援圖形從業者和非專家使用者，與可解釋性的社會科學研究保持一致，並增強使用者對複雜 GNN 模型的理解和信任。我們在真實世界圖形資料集上展示 GraphXAIN 的功能，說明與傳統圖形解釋器輸出或其他描述性解釋方法相比，其產生的敘述如何有助於理解。
 
 ##### **Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**
 2411.02382v1 by Guangzhi Xiong, Eric Xie, Amir Hassan Shariatmadari, Sikun Guo, Stefan Bekiranov, Aidong Zhang
@@ -413,8 +497,8 @@ WLPlan are available at tinyurl.com/42kymswc
 
 摘要：可擴充的學習規劃研究通常需要在不同的程式語言之間切換，才能有效地處理學習和規劃模組。例如 Python 等直譯語言通常用於學習常式，因為它們易於使用，且有許多維護完善的學習函式庫；而例如 C++ 等編譯語言則用於規劃常式，因為它們能最佳化資源使用。由於需要開發可擴充學習規劃器的工具，我們引進了 WLPlan，這是一個具有 Python 繫結的 C++ 套件，實作了近期有前途的自動產生規劃任務關係特徵的工作。此類特徵可用於任何下游常式，例如學習領域控制知識或探測和理解規劃任務。更具體地說，WLPlan 提供了以下功能：(1) 將規劃任務轉換為圖形，以及 (2) 透過圖形核將規劃圖形嵌入特徵向量。WLPlan 的原始碼和安裝及使用說明可在 tinyurl.com/42kymswc 取得
 
-##### **GRSQA -- Graph Reasoning-Structured Question Answering Dataset**
-2411.00369v2 by Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang
+##### **GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**
+2411.00369v3 by Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang
 
 Large Language Models (LLMs) have excelled in multi-hop question-answering
 (M-QA) due to their advanced reasoning abilities. However, the impact of the
@@ -432,7 +516,7 @@ analysis reveals that LLMs perform differently when handling questions with
 varying reasoning structures. This finding facilitates the exploration of
 textual structures as compared with semantics.
 
-摘要：大型語言模型 (LLM) 由於其先進的推理能力，在多跳問答 (M-QA) 方面表現出色。然而，固有推理結構對 LLM M-QA 效能的影響仍不明確，這主要歸因於缺乏提供細粒度推理結構的問答資料集。為了解決這個差距，我們引入了圖形推理結構式問答資料集 (GRS-QA)，其中包含語義脈絡和問答對的推理結構。與現有的 M-QA 資料集不同，在現有資料集中，不同的推理結構糾纏在一起，GRS-QA 透過建構推理圖形，明確捕捉複雜的推理路徑，其中節點代表文字脈絡，而邊緣表示邏輯流。這些不同結構的推理圖形能夠對 LLM 在各種推理結構中的推理能力進行細粒度的評估。我們的實證分析顯示，LLM 在處理具有不同推理結構的問題時，表現不同。這個發現促進了對文字結構與語義進行比較的研究。
+摘要：大型語言模型 (LLM) 由於其先進的推理能力，在多跳問答 (M-QA) 中表現出色。然而，固有推理結構對 LLM M-QA 效能的影響仍不清楚，這主要是由於缺乏提供細粒度推理結構的 QA 資料集。為了解決這個差距，我們引入了圖形推理結構化問答資料集 (GRS-QA)，其中包含語義脈絡和 QA 對應的推理結構。與現有的 M-QA 資料集不同，其中不同的推理結構糾纏在一起，GRS-QA 透過建構推理圖形明確捕捉複雜的推理路徑，其中節點表示文字脈絡，邊緣表示邏輯流程。這些不同結構的推理圖形能夠細緻地評估 LLM 在各種推理結構中的推理能力。我們的實證分析顯示，LLM 在處理具有不同推理結構的問題時表現不同。這個發現促進了對文字結構與語義的比較探索。
 
 ##### **Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**
 2411.02523v1 by Balu Bhasuran, Qiao Jin, Yuzhang Xie, Carl Yang, Karim Hanna, Jennifer Costa, Cindy Shavor, Zhiyong Lu, Zhe He
@@ -2519,86 +2603,4 @@ experiments on four real-world datasets demonstrate the superiority of our
 method.
 
 摘要：<paragraph>最近，知識圖譜 (KG) 的引入透過促進項目之間潛在關聯的發現，顯著提升推薦系統。然而，現有方法仍面臨幾個限制。首先，大多數 KG 都存在事實缺失或範圍受限的問題。這可能導致有偏差的知識表徵，進而限制模型的效能。其次，現有方法通常會將文字資訊轉換為 ID，導致不同項目之間自然語義連結的遺失。第三，現有方法難以捕捉全球 KG 中的高階關係，原因在於其低效率的逐層資訊傳播機制容易引入顯著雜訊。為了解決這些限制，我們提出了一種稱為 CoLaKG 的新方法，它利用大型語言模型 (LLM) 進行知識感知推薦。LLM 廣泛的世界知識和卓越的推理能力使它們能夠補充 KG。此外，LLM 強大的文字理解能力有助於更深入地理解語義資訊。基於此，我們首先從 KG 中擷取以每個項目為中心的子圖，並將它們轉換為 LLM 的文字輸入。然後，LLM 會輸出其對這些以項目為中心的子圖的理解，這些理解接著會轉換為語義嵌入。此外，為了利用 KG 的全球資訊，我們使用這些語義嵌入建構一個項目-項目圖，它可以直接捕捉項目之間的高階關聯。語義嵌入和來自項目-項目圖的結構資訊都會透過我們設計的表徵比對和鄰域擴充模組有效地整合到推薦模型中。在四個真實世界資料集上進行的廣泛實驗證明了我們方法的優越性。</paragraph>
-
-##### **Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**
-2410.12228v1 by Luyi Ma, Xiaohan Li, Zezhong Fan, Jianpeng Xu, Jason Cho, Praveen Kanumala, Kaushiki Nag, Sushant Kumar, Kannan Achan
-
-Integrating diverse data modalities is crucial for enhancing the performance
-of personalized recommendation systems. Traditional models, which often rely on
-singular data sources, lack the depth needed to accurately capture the
-multifaceted nature of item features and user behaviors. This paper introduces
-a novel framework for multi-behavior recommendations, leveraging the fusion of
-triple-modality, which is visual, textual, and graph data through alignment
-with large language models (LLMs). By incorporating visual information, we
-capture contextual and aesthetic item characteristics; textual data provides
-insights into user interests and item features in detail; and graph data
-elucidates relationships within the item-behavior heterogeneous graphs. Our
-proposed model called Triple Modality Fusion (TMF) utilizes the power of LLMs
-to align and integrate these three modalities, achieving a comprehensive
-representation of user behaviors. The LLM models the user's interactions
-including behaviors and item features in natural languages. Initially, the LLM
-is warmed up using only natural language-based prompts. We then devise the
-modality fusion module based on cross-attention and self-attention mechanisms
-to integrate different modalities from other models into the same embedding
-space and incorporate them into an LLM. Extensive experiments demonstrate the
-effectiveness of our approach in improving recommendation accuracy. Further
-ablation studies validate the effectiveness of our model design and benefits of
-the TMF.
-
-摘要：整合各種資料型態對於提升個人化推薦系統的效能至關重要。傳統模型經常依賴單一資料來源，缺乏捕捉項目特徵和使用者行為多面向本質所需的深度。本文介紹了一個創新的多行為推薦架構，利用視覺、文字和圖形資料的三重型態融合，透過與大型語言模型 (LLM) 對齊來實現。透過納入視覺資訊，我們捕捉脈絡和美學項目特徵；文字資料詳細提供使用者興趣和項目特徵的見解；圖形資料闡明項目行為異質圖形中的關係。我們提出的模型稱為三重型態融合 (TMF)，利用 LLM 的力量來對齊和整合這三種型態，達成使用者行為的全面表徵。LLM 以自然語言建模使用者的互動，包括行為和項目特徵。最初，LLM 僅使用基於自然語言的提示進行熱身。然後我們根據交叉注意力和自我注意力機制設計型態融合模組，將來自其他模型的不同型態整合到相同的嵌入空間，並將它們納入 LLM。廣泛的實驗證明了我們的方法在提升推薦準確度方面的有效性。進一步的消融研究驗證了我們模型設計的有效性以及 TMF 的好處。
-
-##### **Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning**
-2410.12130v1 by Huiwen Wu, Xiaohan Li, Xiaogang Xu, Jiafei Wu, Deyi Zhang, Zhe Liu
-
-The development of Large Language Models (LLMs) has significantly advanced
-various AI applications in commercial and scientific research fields, such as
-scientific literature summarization, writing assistance, and knowledge graph
-construction. However, a significant challenge is the high risk of
-hallucination during LLM inference, which can lead to security concerns like
-factual inaccuracies, inconsistent information, and fabricated content. To
-tackle this issue, it is essential to develop effective methods for reducing
-hallucination while maintaining the original capabilities of the LLM. This
-paper introduces a novel approach called Iterative Model-level Contrastive
-Learning (Iter-AHMCL) to address hallucination. This method modifies the
-representation layers of pre-trained LLMs by using contrastive `positive' and
-`negative' models, trained on data with and without hallucinations. By
-leveraging the differences between these two models, we create a more
-straightforward pathway to eliminate hallucinations, and the iterative nature
-of contrastive learning further enhances performance. Experimental validation
-on four pre-trained foundation LLMs (LLaMA2, Alpaca, LLaMA3, and Qwen)
-finetuning with a specially designed dataset shows that our approach achieves
-an average improvement of 10.1 points on the TruthfulQA benchmark.
-Comprehensive experiments demonstrate the effectiveness of Iter-AHMCL in
-reducing hallucination while maintaining the general capabilities of LLMs.
-
-摘要：大型語言模型 (LLM) 的發展在商業和科學研究領域顯著推動了各種 AI 應用，例如科學文獻摘要、寫作輔助和知識圖譜建構。然而，一個重大的挑戰是 LLM 推論中幻覺的高風險，這可能會導致安全問題，例如事實不正確、資訊不一致和捏造內容。為了解決這個問題，開發有效的方法來減少幻覺，同時保持 LLM 的原始功能至關重要。本文介紹了一種稱為反覆模型層級對比學習 (Iter-AHMCL) 的新方法來解決幻覺。此方法透過使用對比的「正向」和「負向」模型來修改預先訓練的 LLM 的表示層，這些模型是在有和沒有幻覺的資料上訓練的。透過利用這兩個模型之間的差異，我們創造了一條更直接的途徑來消除幻覺，而對比學習的迭代性質進一步增強了效能。在四個預先訓練的基礎 LLM (LLaMA2、Alpaca、LLaMA3 和 Qwen) 上進行的實驗驗證，使用特別設計的資料集進行微調，顯示我們的做法在 TruthfulQA 基準上平均提升了 10.1 分。全面的實驗證明了 Iter-AHMCL 在減少幻覺的同時，維持 LLM 一般功能的有效性。
-
-##### **Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning**
-2410.12096v1 by Guangxin Su, Yifan Zhu, Wenjie Zhang, Hanchen Wang, Ying Zhang
-
-Graph representation learning, involving both node features and graph
-structures, is crucial for real-world applications but often encounters
-pervasive noise. State-of-the-art methods typically address noise by focusing
-separately on node features with large language models (LLMs) and on graph
-structures with graph structure learning models (GSLMs). In this paper, we
-introduce LangGSL, a robust framework that integrates the complementary
-strengths of pre-trained language models and GSLMs to jointly enhance both node
-feature and graph structure learning. In LangGSL, we first leverage LLMs to
-filter noise in the raw data and extract valuable cleaned information as
-features, enhancing the synergy of downstream models. During the mutual
-learning phase in LangGSL, the core idea is to leverage the relatively small
-language model (LM) to process local attributes and generate reliable
-pseudo-labels and informative node embeddings, which are then integrated into
-the GSLM's prediction phase. This approach enriches the global context and
-enhances overall performance. Meanwhile, GSLM refines the evolving graph
-structure constructed from the LM's output, offering updated labels back to the
-LM as additional guidance, thus facilitating a more effective mutual learning
-process. The LM and GSLM work synergistically, complementing each other's
-strengths and offsetting weaknesses within a variational information-maximizing
-framework, resulting in enhanced node features and a more robust graph
-structure. Extensive experiments on diverse graph datasets of varying scales
-and across different task scenarios demonstrate the scalability and
-effectiveness of the proposed approach.
-
-摘要：圖表表示學習既涉及節點特徵又涉及圖形結構，對於現實世界的應用至關重要，但經常會遇到普遍的噪音。最先進的方法通常通過分別關注具有大型語言模型 (LLM) 的節點特徵和具有圖形結構學習模型 (GSLM) 的圖形結構來解決噪音問題。在本文中，我們介紹了 LangGSL，這是一個強大的框架，它整合了預訓練語言模型和 GSLM 的互補優勢，以共同增強節點特徵和圖形結構學習。在 LangGSL 中，我們首先利用 LLM 來過濾原始數據中的噪音，並提取有價值的已清理信息作為特徵，增強下游模型的協同作用。在 LangGSL 中的相互學習階段，核心思想是利用相對較小的語言模型 (LM) 來處理局部屬性並生成可靠的偽標籤和信息豐富的節點嵌入，然後將它們集成到 GSLM 的預測階段。這種方法豐富了全局上下文並增強了整體性能。同時，GSLM 優化了從 LM 輸出構建的演化圖形結構，將更新的標籤作為附加指導反饋給 LM，從而促進更有效的相互學習過程。LM 和 GSLM 協同工作，在變分信息最大化框架內互補各自的優勢並彌補弱點，從而增強節點特徵並形成更強大的圖形結構。在不同規模和不同任務場景的多樣化圖形數據集上進行的廣泛實驗證明了所提出方法的可擴展性和有效性。
 

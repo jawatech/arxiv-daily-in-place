@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
+|**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965v1](http://arxiv.org/abs/2411.07965v1)|null|
+|**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843v1](http://arxiv.org/abs/2411.07843v1)|null|
 |**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185v1](http://arxiv.org/abs/2411.07185v1)|null|
 |**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163v1](http://arxiv.org/abs/2411.07163v1)|null|
 |**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098v1](http://arxiv.org/abs/2411.07098v1)|null|
@@ -57,7 +60,7 @@
 |**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060v1](http://arxiv.org/abs/2410.21060v1)|null|
 |**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783v1](http://arxiv.org/abs/2410.20783v1)|[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)|
 |**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
-|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v1](http://arxiv.org/abs/2410.20724v1)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v2](http://arxiv.org/abs/2410.20724v2)|[link](https://github.com/graph-com/subgraphrag)|
 |**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321v1](http://arxiv.org/abs/2410.20321v1)|null|
 |**2024-10-26**|**Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts**|Vishesh Prasad et.al.|[2410.21324v1](http://arxiv.org/abs/2410.21324v1)|null|
 |**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955v1](http://arxiv.org/abs/2410.19955v1)|null|
@@ -99,11 +102,77 @@
 |**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057v1](http://arxiv.org/abs/2410.14057v1)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987v1](http://arxiv.org/abs/2410.13987v1)|null|
 |**2024-10-17**|**The Mystery of the Pathological Path-star Task for Language Models**|Arvid Frydenlund et.al.|[2410.13779v1](http://arxiv.org/abs/2410.13779v1)|null|
-|**2024-10-17**|**Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**|Yu Xia et.al.|[2410.13765v1](http://arxiv.org/abs/2410.13765v1)|null|
-|**2024-10-17**|**LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models**|David Hoffmann et.al.|[2410.13299v1](http://arxiv.org/abs/2410.13299v1)|null|
-|**2024-10-17**|**Trust but Verify: Programmatic VLM Evaluation in the Wild**|Viraj Prabhu et.al.|[2410.13121v1](http://arxiv.org/abs/2410.13121v1)|null|
 
 #### Abstracts
+##### **Language Models as Causal Effect Generators**
+2411.08019v1 by Lucius E. J. Bynum, Kyunghyun Cho
+
+We present a framework for large language model (LLM) based data generation
+with controllable causal structure. In particular, we define a procedure for
+turning any language model and any directed acyclic graph (DAG) into a
+sequence-driven structural causal model (SD-SCM). Broadly speaking, an SD-SCM
+is a causal model with user-defined structure and LLM-defined structural
+equations. We characterize how an SD-SCM allows sampling from observational,
+interventional, and counterfactual distributions according to the desired
+causal structure. We then leverage this procedure to propose a new type of
+benchmark for causal inference methods, generating individual-level
+counterfactual data without needing to manually specify functional
+relationships between variables. We create an example benchmark consisting of
+thousands of datasets, and test a suite of popular estimation methods on these
+datasets for average, conditional average, and individual treatment effect
+estimation, both with and without hidden confounding. Apart from generating
+data, the same procedure also allows us to test for the presence of a causal
+effect that might be encoded in an LLM. This procedure can underpin auditing
+LLMs for misinformation, discrimination, or otherwise undesirable behavior. We
+believe SD-SCMs can serve as a useful tool in any application that would
+benefit from sequential data with controllable causal structure.
+
+摘要：<paragraph>我們提出了一個基於大型語言模型 (LLM) 的資料生成架構，具有可控制的因果結構。具體來說，我們定義了一個程序，將任何語言模型和任何有向無環圖 (DAG) 轉換成一個序列驅動的結構因果模型 (SD-SCM)。廣義來說，SD-SCM 是一個因果模型，具有使用者定義的結構和 LLM 定義的結構方程式。我們描述了 SD-SCM 如何根據所需的因果結構，允許從觀測、介入和反事實分佈中進行抽樣。然後，我們利用這個程序提出了一種類型的因果推論方法基準，生成個體層級的反事實資料，而無需手動指定變數之間的功能關係。我們建立了一個範例基準，包含數千個資料集，並在這些資料集上測試了一系列流行的估計方法，用於平均值、條件平均值和個別處理效果估計，無論是有或沒有隱藏混淆。除了生成資料之外，相同的程序也允許我們測試 LLM 中可能編碼的因果效應的存在。此程序可以支持審核 LLM 的錯誤資訊、歧視或其他不良行為。我們相信 SD-SCM 可以作為任何應用程式的有用工具，這些應用程式可以從具有可控制因果結構的序列資料中受益。</paragraph>
+
+##### **From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**
+2411.07965v1 by Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi Sun, Jing Ma
+
+The advanced role-playing capabilities of Large Language Models (LLMs) have
+paved the way for developing Role-Playing Agents (RPAs). However, existing
+benchmarks, such as HPD, which incorporates manually scored character
+relationships into the context for LLMs to sort coherence, and SocialBench,
+which uses specific profiles generated by LLMs in the context of
+multiple-choice tasks to assess character preferences, face limitations like
+poor generalizability, implicit and inaccurate judgments, and excessive context
+length. To address the above issues, we propose an automatic, scalable, and
+generalizable paradigm. Specifically, we construct a benchmark by extracting
+relations from a general knowledge graph and leverage RPA's inherent
+hallucination properties to prompt it to interact across roles, employing
+ChatGPT for stance detection and defining relationship hallucination along with
+three related metrics. Extensive experiments validate the effectiveness and
+stability of our metrics. Our findings further explore factors influencing
+these metrics and discuss the trade-off between relationship hallucination and
+factuality.
+
+摘要：大型語言模型 (LLM) 的先進角色扮演能力已為開發角色扮演代理 (RPA) 鋪平道路。然而，現有的基準，例如 HPD（將手動評分的角色關係納入 LLM 的背景中以對連貫性進行排序），以及 SocialBench（在多選題任務的背景下使用 LLM 生成的特定個人資料來評估角色偏好）面臨著諸如通用性差、判斷含蓄且不準確以及背景長度過長等限制。為了解決上述問題，我們提出了一個自動、可擴充且可概括的範例。具體來說，我們通過從通用知識圖譜中提取關係來構建基準，並利用 RPA 固有的幻覺屬性提示它跨角色互動，採用 ChatGPT 進行立場檢測並定義關係幻覺以及三個相關指標。廣泛的實驗驗證了我們指標的有效性和穩定性。我們的研究結果進一步探討了影響這些指標的因素，並討論了關係幻覺和事實性之間的權衡。
+
+##### **Chain Association-based Attacking and Shielding Natural Language Processing Systems**
+2411.07843v1 by Jiacheng Huang, Long Chen
+
+Association as a gift enables people do not have to mention something in
+completely straightforward words and allows others to understand what they
+intend to refer to. In this paper, we propose a chain association-based
+adversarial attack against natural language processing systems, utilizing the
+comprehension gap between humans and machines. We first generate a chain
+association graph for Chinese characters based on the association paradigm for
+building search space of potential adversarial examples. Then, we introduce an
+discrete particle swarm optimization algorithm to search for the optimal
+adversarial examples. We conduct comprehensive experiments and show that
+advanced natural language processing models and applications, including large
+language models, are vulnerable to our attack, while humans appear good at
+understanding the perturbed text. We also explore two methods, including
+adversarial training and associative graph-based recovery, to shield systems
+from chain association-based attack. Since a few examples that use some
+derogatory terms, this paper contains materials that may be offensive or
+upsetting to some people.
+
+摘要：聯想作為一種禮物，使人們不必用完全直白的話語提及某事，並讓其他人明白他們想提的是什麼。在本文中，我們提出了一種基於鏈式聯想的對抗性攻擊，用於自然語言處理系統，利用了人類與機器之間的理解差距。我們首先基於聯想範例為漢字生成一個鏈式聯想圖，用於構建潛在對抗性範例的搜索空間。然後，我們引入一個離散粒子群優化演算法來搜索最佳的對抗性範例。我們進行了全面的實驗，並表明先進的自然語言處理模型和應用程式，包括大型語言模型，都容易受到我們的攻擊，而人類似乎很擅長理解擾動後的文字。我們還探索了兩種方法，包括對抗性訓練和基於聯想圖的恢復，以保護系統免受基於鏈式聯想的攻擊。由於一些範例使用了某些貶義詞，因此本文包含可能冒犯或令某些人感到不安的材料。
+
 ##### **Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**
 2411.07185v1 by Yao Ma, Samuel Louvan, Zhunxuan Wang
 
@@ -1462,7 +1531,7 @@ contributing towards more reliable LM-based systems.
 摘要：<paragraph>我們引入了規劃引導的檢索增強生成 (Plan$\times$RAG)，這是一個新穎的框架，它擴充了現有 RAG 框架的「先檢索後推理」範例，改為「先規劃後檢索」。Plan$\times$RAG 將推理計畫制定為有向無環圖 (DAG)，將查詢分解成相互關聯的原子子查詢。答案生成遵循 DAG 結構，透過並行檢索和生成，大幅提升效率。雖然最先進的 RAG 解决方案需要大量資料生成和語言模型 (LM) 的微調，但 Plan$\times$RAG 將凍結的 LM 整合為即插即用的專家，以生成高品質的答案。與現有的 RAG 解决方案相比，Plan$\times$RAG 在減少幻覺和加強歸因方面表現出顯著的進步，這要歸功於其結構化的子查詢分解。總體而言，Plan$\times$RAG 提供了一個新的觀點，以整合 LM 中的外部知識，同時確保歸因設計，有助於建立更可靠的基於 LM 的系統。</paragraph>
 
 ##### **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**
-2410.20724v1 by Mufei Li, Siqi Miao, Pan Li
+2410.20724v2 by Mufei Li, Siqi Miao, Pan Li
 
 Large Language Models (LLMs) demonstrate strong reasoning abilities but face
 limitations such as hallucinations and outdated knowledge. Knowledge Graph
@@ -1487,7 +1556,7 @@ WebQSP and CWQ benchmarks highlight SubgraphRAG's strengths in efficiency,
 accuracy, and reliability by reducing hallucinations and improving response
 grounding.
 
-摘要：大型語言模型 (LLM) 展示了強大的推理能力，但面臨幻覺和過時知識等限制。基於知識圖譜 (KG) 的檢索增強生成 (RAG) 透過將 LLM 輸出建立在來自 KG 的結構化外部知識上，來解決這些問題。然而，當前的基於 KG 的 RAG 架構仍難以優化檢索效果與效率之間的權衡，以識別適量的相關圖形資訊供 LLM 消化。我們引入了 SubgraphRAG，擴充了基於 KG 的 RAG 架構，它會檢索子圖並利用 LLM 進行推理和答案預測。我們的做法創新地整合了一個輕量級多層感知器和一個並行的三元組評分機制，以進行有效且彈性的子圖檢索，同時編碼方向結構距離以增強檢索效果。檢索的子圖大小可以靈活調整，以符合查詢的需求和下游 LLM 的功能。此設計在模型複雜度和推理能力之間取得平衡，實現可擴充且可概化的檢索流程。值得注意的是，根據我們檢索的子圖，像 Llama3.1-8B-Instruct 等較小的 LLM 可以透過可解釋的推理提供具有競爭力的結果，而像 GPT-4o 等較大的模型則可達到與先前基準相比的最新準確度，而且所有這些都不需要微調。在 WebQSP 和 CWQ 基準上的廣泛評估突出了 SubgraphRAG 在效率、準確性和可靠性方面的優勢，方法是減少幻覺並改善回應依據。
+摘要：<paragraph>大型語言模型 (LLM) 具有強大的推理能力，但面臨幻覺和過時知識等限制。基於知識圖譜 (KG) 的檢索增強生成 (RAG) 透過將 LLM 輸出結果奠基於 KG 中的結構化外部知識，來解決這些問題。然而，目前基於 KG 的 RAG 架構仍難以在檢索效能和效率之間取得最佳平衡，以找出 LLM 能夠消化的適當相關圖表資訊量。我們引進 SubgraphRAG，擴充基於 KG 的 RAG 架構，以檢索子圖表並利用 LLM 進行推理和答案預測。我們的做法創新地整合了一個輕量多層感知器與一個並行三元組計分機制，用於高效且靈活地檢索子圖表，同時編碼方向結構距離以增強檢索效能。檢索到的子圖表大小可以靈活調整，以符合查詢需求和下游 LLM 的功能。這種設計在模型複雜度和推理能力之間取得平衡，實現可擴充且可概化的檢索程序。值得注意的是，根據我們檢索到的子圖表，較小的 LLM（例如 Llama3.1-8B-Instruct）可以提供具備可解釋推理的競爭結果，而較大的模型（例如 GPT-4o）則達到與先前基準相比的最新準確度，而且所有這些都不需要微調。在 WebQSP 和 CWQ 基準上的廣泛評估突顯了 SubgraphRAG 在效率、準確度和可靠性方面的優勢，透過減少幻覺並改善回應依據。</paragraph>
 
 ##### **Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**
 2410.20321v1 by Xingrui Zhuo, Jiapu Wang, Gongqing Wu, Shirui Pan, Xindong Wu
@@ -2500,69 +2569,4 @@ find settings where an encoder-only model can consistently solve the task.
 
 摘要：最近推出的路徑星形任務是一個極簡任務，旨在說明語言模型能力的限制（Bachmann 和 Nagarajan，2024 年）。它涉及一個路徑星形圖，其中多個分支從一個起始節點輻射出去，每個節點都是唯一的。給定起始節點和結束一個分支的指定目標節點，任務是生成包含該目標節點的分支。這對人類來說很簡單，但對語言模型來說卻異乎尋常地困難，因為語言模型並未優於隨機基準線。作者假設這是由於教師強制和下一個符號預測範例的不足。
 我們展示了該任務可以使用替代設置中的教師強制來學習，並且問題部分是由於表示。我們引入了一種正則化方法，使用同一圖形的結構化樣本，但目標節點不同，從而改進了各種模型類型的結果。我們提供了 RASP 證明，表明該任務在理論上是可以解決的。最後，我們找到了僅編碼器模型可以持續解決任務的設置。
-
-##### **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval**
-2410.13765v1 by Yu Xia, Junda Wu, Sungchul Kim, Tong Yu, Ryan A. Rossi, Haoliang Wang, Julian McAuley
-
-Large language models (LLMs) have been used to generate query expansions
-augmenting original queries for improving information search. Recent studies
-also explore providing LLMs with initial retrieval results to generate query
-expansions more grounded to document corpus. However, these methods mostly
-focus on enhancing textual similarities between search queries and target
-documents, overlooking document relations. For queries like "Find me a highly
-rated camera for wildlife photography compatible with my Nikon F-Mount lenses",
-existing methods may generate expansions that are semantically similar but
-structurally unrelated to user intents. To handle such semi-structured queries
-with both textual and relational requirements, in this paper we propose a
-knowledge-aware query expansion framework, augmenting LLMs with structured
-document relations from knowledge graph (KG). To further address the limitation
-of entity-based scoring in existing KG-based methods, we leverage document
-texts as rich KG node representations and use document-based relation filtering
-for our Knowledge-Aware Retrieval (KAR). Extensive experiments on three
-datasets of diverse domains show the advantages of our method compared against
-state-of-the-art baselines on textual and relational semi-structured retrieval.
-
-摘要：大型語言模型 (LLM) 已用於產生查詢擴充，藉以擴充原始查詢，以改善資訊搜尋。最近的研究也探討提供 LLM 初始檢索結果，以產生更貼近文件語料庫的查詢擴充。然而，這些方法大多著重於加強搜尋查詢與目標文件之間的文字相似性，而忽略了文件關係。對於「幫我找一台與我的 Nikon F-Mount 鏡頭相容、評價很高的野生動物攝影相機」等查詢，現有方法可能會產生語義上相似但結構上與使用者意圖無關的擴充。為了處理具有文字和關係需求的此類半結構化查詢，我們在本文中提出一個知識感知查詢擴充架構，利用知識圖譜 (KG) 中的結構化文件關係擴充 LLM。為了進一步解決現有基於 KG 的方法中基於實體的評分限制，我們利用文件文字作為豐富的 KG 節點表徵，並使用基於文件的關係篩選，進行我們的知識感知檢索 (KAR)。針對三個不同領域資料集進行的廣泛實驗顯示，我們的模型與文字和關係半結構化檢索的最新基準相比，具有優勢。
-
-##### **LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models**
-2410.13299v1 by David Hoffmann, Kailash Budhathoki, Matthaeus Kleindessner
-
-The evolving capabilities of large language models are accompanied by growing
-sizes and deployment costs, necessitating effective inference optimisation
-techniques. We propose a novel pruning method utilising centrality measures
-from graph theory, reducing both the computational requirements and the memory
-footprint of these models. Specifically, we devise a method for creating a
-weighted directed acyclical graph representation of multilayer perceptrons to
-which we apply a modified version of the weighted PageRank centrality measure
-to compute node importance scores. In combination with uniform pruning this
-leads to structured sparsity. We call this pruning method MLPRank. Furthermore
-we introduce an extension to decoder-only transformer models and call it
-LLMRank. For both variants we demonstrate a strong performance. With MLPRank on
-average leading to 6.09 % higher accuracy retention than three popular
-baselines and 13.42 % with LLMRank compared to two popular baselines.
-
-摘要：隨著大型語言模型功能的演進，模型規模與部署成本也隨之增加，因此需要有效的推論最佳化技術。我們提出一個創新的修剪方法，利用圖論中的中心性測量，同時減少這些模型的運算需求和記憶體使用量。具體來說，我們設計了一種方法，用於建立多層感知器的加權有向無環圖表示，並對其套用加權 PageRank 中心性測量的修改版本，以計算節點重要性分數。結合均勻修剪，這將導致結構化稀疏性。我們稱這種修剪方法為 MLPRank。此外，我們還引入了僅解碼器Transformer模型的延伸，並稱之為 LLMRank。對於這兩種變體，我們都展示了強大的效能。MLPRank 平均比三種流行基準高出 6.09% 的準確性保留率，而 LLMRank 則比兩種流行基準高出 13.42%。
-
-##### **Trust but Verify: Programmatic VLM Evaluation in the Wild**
-2410.13121v1 by Viraj Prabhu, Senthil Purushwalkam, An Yan, Caiming Xiong, Ran Xu
-
-Vision-Language Models (VLMs) often generate plausible but incorrect
-responses to visual queries. However, reliably quantifying the effect of such
-hallucinations in free-form responses to open-ended queries is challenging as
-it requires visually verifying each claim within the response. We propose
-Programmatic VLM Evaluation (PROVE), a new benchmarking paradigm for evaluating
-VLM responses to open-ended queries. To construct PROVE, we provide a large
-language model (LLM) with a high-fidelity scene-graph representation
-constructed from a hyper-detailed image caption, and prompt it to generate
-diverse question-answer (QA) pairs, as well as programs that can be executed
-over the scene graph object to verify each QA pair. We thus construct a
-benchmark of 10.5k challenging but visually grounded QA pairs. Next, to
-evaluate free-form model responses to queries in PROVE, we propose a
-programmatic evaluation strategy that measures both the helpfulness and
-truthfulness of a response within a unified scene graph-based framework. We
-benchmark the helpfulness-truthfulness trade-offs of a range of VLMs on PROVE,
-finding that very few are in-fact able to achieve a good balance between the
-two. Project page: \url{https://prove-explorer.netlify.app/}.
-
-摘要：視覺語言模型 (VLM) 經常對視覺查詢產生看似合理但錯誤的回應。然而，可靠地量化此類幻覺在開放式查詢的自由形式回應中的影響具有挑戰性，因為這需要視覺驗證回應中的每個說法。我們提出程式化 VLM 評估 (PROVE)，一種用於評估 VLM 對開放式查詢的回應的新基準範例。為了建構 PROVE，我們提供一個大型語言模型 (LLM) 一個由超詳細影像標題建構的高保真場景圖表示，並提示它產生多樣化的問答 (QA) 配對，以及可以在場景圖物件上執行的程式，以驗證每個 QA 配對。因此，我們建構了一個由 10.5k 個具有挑戰性但視覺上合理的 QA 配對組成的基準。接下來，為了評估 PROVE 中的查詢的自由形式模型回應，我們提出了一個程式化評估策略，該策略在一個統一的基於場景圖的框架中衡量回應的有用性和真實性。我們在 PROVE 上對一系列 VLM 的有用性-真實性權衡進行基準測試，發現事實上很少有 VLM 能在兩者之間取得良好的平衡。專案頁面：\url{https://prove-explorer.netlify.app/}。
 

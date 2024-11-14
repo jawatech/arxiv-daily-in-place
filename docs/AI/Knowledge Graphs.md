@@ -78,7 +78,7 @@
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529v1](http://arxiv.org/abs/2410.17529v1)|null|
 |**2024-10-22**|**Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs**|Leyao Wang et.al.|[2410.16882v1](http://arxiv.org/abs/2410.16882v1)|null|
-|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803v1](http://arxiv.org/abs/2410.16803v1)|null|
+|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803v2](http://arxiv.org/abs/2410.16803v2)|null|
 |**2024-10-22**|**The Scene Language: Representing Scenes with Programs, Words, and Embeddings**|Yunzhi Zhang et.al.|[2410.16770v1](http://arxiv.org/abs/2410.16770v1)|null|
 |**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708v1](http://arxiv.org/abs/2410.16708v1)|null|
 |**2024-10-22**|**PLDR-LLM: Large Language Model from Power Law Decoder Representations**|Burc Gokden et.al.|[2410.16703v1](http://arxiv.org/abs/2410.16703v1)|[link](https://github.com/burcgokden/llm-from-power-law-decoder-representations)|
@@ -1964,7 +1964,7 @@ imbalance issues on TAGs.
 摘要：圖形節點分類經常會遇到類別不平衡的挑戰，導致有偏差的效能，並在實際應用中造成顯著風險。儘管已提出多項以資料為中心的解決方案，但沒有一項專注於文字屬性圖形 (TAG)，因此忽略了利用文字特徵中編碼的豐富語意來提升少數節點分類的可能性。鑑於這個關鍵差距，我們探討了在文字空間中擴充圖形資料的可能性，利用大型語言模型 (LLM) 的文字產生能力來處理 TAG 上的不平衡節點分類。具體來說，我們提出了一種名為 LA-TAG（基於 LLM 的文字屬性圖形擴充）的新方法，它提示 LLM 根據圖形中現有的節點文字產生合成文字。此外，為了將這些合成文字屬性節點整合到圖形中，我們引入了一個基於文字的連結預測器，以將合成節點與現有節點連接起來。我們在多個資料集和評估指標上的實驗表明，我們的框架明顯優於傳統的非文字資料擴充策略和特定的節點不平衡解決方案。這突顯了使用 LLM 來解決 TAG 上的不平衡問題的潛力。
 
 ##### **Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**
-2410.16803v1 by Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
+2410.16803v2 by Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
 
 Inductive knowledge graph completion (KGC) aims to predict missing triples
 with unseen entities. Recent works focus on modeling reasoning paths between
@@ -1986,7 +1986,7 @@ significantly outperforms state-of-the-art methods in 16 out of 18
 transductive, inductive, and few-shot settings with an average absolute MRR
 improvement of 7.2%.
 
-摘要：歸納知識圖譜完成 (KGC) 旨在預測具有未見實體的缺失三元組。最近的工作重點在於建模頭實體和尾實體之間的推理路徑作為直接支持證據。然而，這些方法高度依賴推理路徑的存在和品質，這限制了它們在不同場景中的普遍適用性。此外，我們觀察到隱藏類型約束和 KG 中固有的鄰近事實對於推斷缺失三元組也至關重要。為了有效利用 KG 中所有有用的資訊，我們引入了 CATS，一種新穎的具備情境感知能力的歸納式 KGC 解决方案。在適當提示和監督微調的充分指導下，CATS 啟動大型語言模型強大的語義理解和推理能力，以評估查詢三元組的存在，其中包含兩個模組。首先，類型感知推理模組評估候選實體是否與查詢關係所需的隱藏實體類型相符。然後，子圖推理模組選擇相關推理路徑和鄰近事實，並評估它們與查詢三元組的關聯性。在三個廣泛使用的資料集上進行的實驗結果表明，在 18 個轉導、歸納和少次嘗試設定中，CATS 在 16 個設定中顯著優於最先進的方法，平均絕對 MRR 提升了 7.2%。
+摘要：歸納知識圖譜補全 (KGC) 的目標是預測具有未見實體的三元組。最近的研究專注於建模頭部和尾部實體之間的推理路徑，作為直接的支援證據。然而，這些方法極度依賴推理路徑的存在和品質，這限制了它們在不同場景中的普遍適用性。此外，我們觀察到，潛在類型約束和 KG 中固有的鄰近事實對於推論遺失的三元組也至關重要。為了有效利用 KG 中所有有用的資訊，我們引入了 CATS，這是一個新穎的具備情境感知能力的歸納式 KGC 解决方案。在適當提示和監督微調的充分指導下，CATS 啟用了大型語言模型強大的語義理解和推理能力，以評估查詢三元組的存在，這些三元組由兩個模組組成。首先，類型感知推理模組評估候選實體是否與查詢關係所要求的潛在實體類型相符。然後，子圖推理模組選擇相關的推理路徑和鄰近事實，並評估它們與查詢三元組的關聯性。在三個廣泛使用的資料集上的實驗結果表明，在 18 個轉導式、歸納式和少次嘗試設定中，CATS 在 16 個設定中顯著優於最先進的方法，平均絕對 MRR 提升了 7.2%。
 
 ##### **The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
 2410.16770v1 by Yunzhi Zhang, Zizhang Li, Matt Zhou, Shangzhe Wu, Jiajun Wu

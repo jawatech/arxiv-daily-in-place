@@ -118,7 +118,7 @@ achieve improved or comparable performance to state-of-the-art methods using
 significantly less data and compute. To use our code and models, see
 https://scaling-diffusion-perception.github.io .
 
-摘要：在本文中，我們論證使用擴散模型的迭代計算不僅為生成任務，也為視覺感知任務提供了一個強大的範例。我們將深度估計、光流和分割等任務統一在圖像到圖像轉換下，並展示了擴散模型如何從擴展感知任務的訓練和測試時間計算中受益。通過仔細分析這些擴展行為，我們提出了各種技術，以有效訓練用於視覺感知任務的擴散模型。我們的模型使用顯著更少的数据和計算，實現了與最先進的方法相當或更好的性能。若要使用我們的代碼和模型，請參閱 https://scaling-diffusion-perception.github.io 。
+摘要：在本文中，我們主張使用擴散模型進行的迭代計算不僅為生成提供了強大的範例，也為視覺感知任務提供了強大的範例。我們將深度估計、光流和分割等任務統一在圖像到圖像轉換下，並展示了擴散模型如何從擴展感知任務的訓練和測試時間計算中受益。通過仔細分析這些縮放行為，我們提出了各種技術，以有效訓練用於視覺感知任務的擴散模型。我們的模型使用顯著更少的数据和計算，達到了與最先進的方法相當或更好的性能。若要使用我們的代碼和模型，請參閱 https://scaling-diffusion-perception.github.io 。
 
 ##### **Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**
 2411.08013v1 by Eleonora Mancini, Francesco Paissan, Paolo Torroni, Cem Subakan, Mirco Ravanelli

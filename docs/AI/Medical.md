@@ -2,12 +2,17 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648v1](http://arxiv.org/abs/2411.09648v1)|null|
+|**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469v1](http://arxiv.org/abs/2411.09469v1)|null|
+|**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413v1](http://arxiv.org/abs/2411.09413v1)|null|
+|**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213v1](http://arxiv.org/abs/2411.09213v1)|null|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174v1](http://arxiv.org/abs/2411.09174v1)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870v1](http://arxiv.org/abs/2411.08870v1)|null|
 |**2024-11-13**|**MVKTrans: Multi-View Knowledge Transfer for Robust Multiomics Classification**|Shan Cong et.al.|[2411.08703v1](http://arxiv.org/abs/2411.08703v1)|null|
 |**2024-11-13**|**TRACE: Transformer-based Risk Assessment for Clinical Evaluation**|Dionysis Christopoulos et.al.|[2411.08701v1](http://arxiv.org/abs/2411.08701v1)|null|
 |**2024-11-13**|**Rethinking negative sampling in content-based news recommendation**|Miguel Ângelo Rebelo et.al.|[2411.08700v1](http://arxiv.org/abs/2411.08700v1)|null|
 |**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666v1](http://arxiv.org/abs/2411.08666v1)|null|
-|**2024-11-13**|**Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension:Testing and Evaluation of the NBCE Method**|Guoqing Zhang et.al.|[2411.08586v1](http://arxiv.org/abs/2411.08586v1)|null|
+|**2024-11-13**|**Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension:Testing and Evaluation of the NBCE Method**|Guoqing Zhang et.al.|[2411.08586v2](http://arxiv.org/abs/2411.08586v2)|null|
 |**2024-11-13**|**A Heterogeneous Graph Neural Network Fusing Functional and Structural Connectivity for MCI Diagnosis**|Feiyu Yin et.al.|[2411.08424v1](http://arxiv.org/abs/2411.08424v1)|null|
 |**2024-11-13**|**A Fuzzy Reinforcement LSTM-based Long-term Prediction Model for Fault Conditions in Nuclear Power Plants**|Siwei Li et.al.|[2411.08370v1](http://arxiv.org/abs/2411.08370v1)|null|
 |**2024-11-13**|**TowerDebias: A Novel Debiasing Method based on the Tower Property**|Norman Matloff et.al.|[2411.08297v1](http://arxiv.org/abs/2411.08297v1)|null|
@@ -35,7 +40,7 @@
 |**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780v1](http://arxiv.org/abs/2411.05780v1)|null|
 |**2024-11-08**|**Humans Continue to Outperform Large Language Models in Complex Clinical Decision-Making: A Study with Medical Calculators**|Nicholas Wan et.al.|[2411.05897v1](http://arxiv.org/abs/2411.05897v1)|null|
 |**2024-11-08**|**Identifying and Decomposing Compound Ingredients in Meal Plans Using Large Language Models**|Leon Kopitar et.al.|[2411.05892v1](http://arxiv.org/abs/2411.05892v1)|null|
-|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v1](http://arxiv.org/abs/2411.05521v1)|null|
+|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v2](http://arxiv.org/abs/2411.05521v2)|[link](https://github.com/jf87/sm3-text-to-query)|
 |**2024-11-08**|**Towards Scalable Foundation Models for Digital Dermatology**|Fabian Gröger et.al.|[2411.05514v1](http://arxiv.org/abs/2411.05514v1)|[link](https://github.com/digital-dermatology/self-supervised-dermatology)|
 |**2024-11-08**|**Towards Equitable ASD Diagnostics: A Comparative Study of Machine and Deep Learning Models Using Behavioral and Facial Data**|Mohammed Aledhari et.al.|[2411.05880v1](http://arxiv.org/abs/2411.05880v1)|null|
 |**2024-11-07**|**Interactive Dialogue Agents via Reinforcement Learning on Hindsight Regenerations**|Joey Hong et.al.|[2411.05194v1](http://arxiv.org/abs/2411.05194v1)|null|
@@ -97,13 +102,129 @@
 |**2024-11-01**|**StepCountJITAI: simulation environment for RL with application to physical activity adaptive intervention**|Karine Karine et.al.|[2411.00336v1](http://arxiv.org/abs/2411.00336v1)|null|
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525v1](http://arxiv.org/abs/2411.02525v1)|null|
 |**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523v1](http://arxiv.org/abs/2411.02523v1)|null|
-|**2024-10-31**|**Deep Learning Predicts Mammographic Breast Density in Clinical Breast Ultrasound Images**|Arianna Bunnell et.al.|[2411.00891v2](http://arxiv.org/abs/2411.00891v2)|[link](https://github.com/hawaii-ai/bus-density)|
-|**2024-10-31**|**Monitoring fairness in machine learning models that predict patient mortality in the ICU**|Tempest A. van Schaik et.al.|[2411.00190v2](http://arxiv.org/abs/2411.00190v2)|null|
-|**2024-10-31**|**Clinical Evaluation of Medical Image Synthesis: A Case Study in Wireless Capsule Endoscopy**|Panagiota Gatoula et.al.|[2411.00178v1](http://arxiv.org/abs/2411.00178v1)|null|
-|**2024-10-31**|**Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning**|John Wu et.al.|[2411.00173v1](http://arxiv.org/abs/2411.00173v1)|null|
-|**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032v1](http://arxiv.org/abs/2410.24032v1)|null|
 
 #### Abstracts
+##### **Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**
+2411.09648v1 by Ahan Bhatt, Nandan Vaghela
+
+This paper introduces Med-Bot, an AI-powered chatbot designed to provide
+users with accurate and reliable medical information. Utilizing advanced
+libraries and frameworks such as PyTorch, Chromadb, Langchain and Autogptq,
+Med-Bot is built to handle the complexities of natural language understanding
+in a healthcare context. The integration of llamaassisted data processing and
+AutoGPT-Q provides enhanced performance in processing and responding to queries
+based on PDFs of medical literature, ensuring that users receive precise and
+trustworthy information. This research details the methodologies employed in
+developing Med-Bot and evaluates its effectiveness in disseminating healthcare
+information.
+
+摘要：本文介紹 Med-Bot，一個由人工智慧驅動的聊天機器人，旨在為使用者提供準確且可靠的醫療資訊。Med-Bot 利用進階函式庫和框架，例如 PyTorch、Chromadb、Langchain 和 Autogptq，建構來處理醫療保健環境中自然語言理解的複雜性。整合了 Llama 輔助資料處理和 AutoGPT-Q，在處理和回應基於醫學文獻 PDF 的查詢時提供了增強的效能，確保使用者收到精確且可信賴的資訊。本研究詳細說明了開發 Med-Bot 所採用的方法，並評估其在傳播醫療保健資訊方面的有效性。
+
+##### **An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**
+2411.09469v1 by Smith K. Khare, Berit Bargum Booth, Victoria Blanes-Vidal, Lone Kjeld Petersen, Esmaeil S. Nadimi
+
+Cervical cancer remains a major worldwide health issue, with early
+identification and risk assessment playing critical roles in effective
+preventive interventions. This paper presents the Cervix-AID-Net model for
+cervical precancer risk classification. The study designs and evaluates the
+proposed Cervix-AID-Net model based on patients colposcopy images. The model
+comprises a Convolutional Block Attention Module (CBAM) and convolutional
+layers that extract interpretable and representative features of colposcopic
+images to distinguish high-risk and low-risk cervical precancer. In addition,
+the proposed Cervix-AID-Net model integrates four explainable techniques,
+namely gradient class activation maps, Local Interpretable Model-agnostic
+Explanations, CartoonX, and pixel rate distortion explanation based on output
+feature maps and input features. The evaluation using holdout and ten-fold
+cross-validation techniques yielded a classification accuracy of 99.33\% and
+99.81\%. The analysis revealed that CartoonX provides meticulous explanations
+for the decision of the Cervix-AID-Net model due to its ability to provide the
+relevant piece-wise smooth part of the image. The effect of Gaussian noise and
+blur on the input shows that the performance remains unchanged up to Gaussian
+noise of 3\% and blur of 10\%, while the performance reduces thereafter. A
+comparison study of the proposed model's performance compared to other deep
+learning approaches highlights the Cervix-AID-Net model's potential as a
+supplemental tool for increasing the effectiveness of cervical precancer risk
+assessment. The proposed method, which incorporates the CBAM and explainable
+artificial integration, has the potential to influence cervical cancer
+prevention and early detection, improving patient outcomes and lowering the
+worldwide burden of this preventable disease.
+
+摘要：子宮頸癌仍然是全球主要的健康議題，早期辨識和風險評估在有效的預防性干預措施中扮演著關鍵性的角色。本文提出子宮頸輔助網路模型，用於子宮頸癌前病變風險分類。本研究基於病患的陰道鏡影像設計並評估所提出的子宮頸輔助網路模型。該模型包含卷積區塊注意力模組 (CBAM) 和卷積層，用於萃取可解釋且具代表性的陰道鏡影像特徵，以區分高風險和低風險的子宮頸癌前病變。此外，所提出的子宮頸輔助網路模型整合了四種可解釋的技術，分別為梯度類別激活圖、局部可解釋模型不可知解釋、CartoonX 和基於輸出特徵圖和輸入特徵的像素率失真解釋。使用留存法和十倍交叉驗證技術進行評估，得到 99.33% 和 99.81% 的分類準確率。分析顯示，CartoonX 能夠提供影像中相關的分段平滑部分，因此能為子宮頸輔助網路模型的決策提供細緻的解釋。高斯噪聲和模糊對輸入的影響顯示，在高斯噪聲低於 3% 和模糊低於 10% 的情況下，效能保持不變，但之後效能便會下降。所提出的模型效能與其他深度學習方法的比較研究，突顯了子宮頸輔助網路模型作為補充工具的潛力，用於提高子宮頸癌前病變風險評估的有效性。所提出的方法結合了 CBAM 和可解釋的人工整合，有潛力影響子宮頸癌的預防和早期偵測，改善病患的預後並降低這種可預防疾病在全球的負擔。
+
+##### **Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**
+2411.09413v1 by Wenxing Liu, Yueran Pan, Ming Li
+
+Observing and analyzing children's social behaviors is crucial for the early
+diagnosis of Autism Spectrum Disorders (ASD). This work focuses on
+automatically detecting ASD using computer vision techniques and large language
+models (LLMs). Existing methods typically rely on supervised learning. However,
+the scarcity of ASD diagnostic datasets and the lack of interpretability in
+diagnostic results significantly limits its clinical application. To address
+these challenges, we introduce a novel unsupervised approach based on
+script-centric behavior understanding. Our pipeline converts video content into
+scripts that describe the behavior of characters, leveraging the
+generalizability of large language models to detect ASD in a zero-shot or
+few-shot manner. Specifically, we propose a scripts transcription module for
+multimodal behavior data textualization and a domain prompts module to bridge
+LLMs. Our method achieves an accuracy of 92.00\% in diagnosing ASD in children
+with an average age of 24 months, surpassing the performance of supervised
+learning methods by 3.58\% absolutely. Extensive experiments confirm the
+effectiveness of our approach and suggest its potential for advancing ASD
+research through LLMs.
+
+摘要：觀察和分析兒童的社交行為對於自閉症譜系障礙 (ASD) 的早期診斷至關重要。這項工作著重於使用電腦視覺技術和大語言模型 (LLM) 自動偵測 ASD。現有方法通常依賴於監督式學習。然而，ASD 診斷資料集的稀少性和診斷結果缺乏可解釋性，顯著地限制了其臨床應用。為了應對這些挑戰，我們引入了一種基於以腳本為中心的行為理解的新型非監督式方法。我們的管道將影片內容轉換成描述角色行為的腳本，利用大語言模型的泛化性以零次或少次學習的方式偵測 ASD。具體來說，我們提出了一個腳本轉錄模組用於多模態行為資料文字化，以及一個網域提示模組來橋接 LLM。我們的模型在診斷平均年齡為 24 個月的兒童 ASD 時，達到了 92.00% 的準確率，絕對優於監督式學習方法 3.58%。大量的實驗證實了我們方法的有效性，並表明其通過 LLM 推動 ASD 研究的潛力。
+
+##### **Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**
+2411.09213v1 by Nghia Trung Ngo, Chien Van Nguyen, Franck Dernoncourt, Thien Huu Nguyen
+
+Retrieval-augmented generation (RAG) has emerged as a promising approach to
+enhance the performance of large language models (LLMs) in knowledge-intensive
+tasks such as those from medical domain. However, the sensitive nature of the
+medical domain necessitates a completely accurate and trustworthy system. While
+existing RAG benchmarks primarily focus on the standard retrieve-answer
+setting, they overlook many practical scenarios that measure crucial aspects of
+a reliable medical system. This paper addresses this gap by providing a
+comprehensive evaluation framework for medical question-answering (QA) systems
+in a RAG setting for these situations, including sufficiency, integration, and
+robustness. We introduce Medical Retrieval-Augmented Generation Benchmark
+(MedRGB) that provides various supplementary elements to four medical QA
+datasets for testing LLMs' ability to handle these specific scenarios.
+Utilizing MedRGB, we conduct extensive evaluations of both state-of-the-art
+commercial LLMs and open-source models across multiple retrieval conditions.
+Our experimental results reveals current models' limited ability to handle
+noise and misinformation in the retrieved documents. We further analyze the
+LLMs' reasoning processes to provides valuable insights and future directions
+for developing RAG systems in this critical medical domain.
+
+摘要：檢索增強生成（RAG）已成為一種有前途的方法，可增強大型語言模型（LLM）在知識密集型任務中的效能，例如醫療領域的任務。然而，醫療領域的敏感性質需要一個完全準確且值得信賴的系統。雖然現有的 RAG 評量基準主要著重於標準檢索回答設定，但它們忽略了許多衡量可靠醫療系統關鍵面向的實際情境。本文透過提供一個全面的評量架構來解決這個差距，這個架構適用於這些情境的 RAG 設定中的醫療問答（QA）系統，包括充足性、整合性與穩健性。我們引入了醫療檢索增強生成評量基準（MedRGB），它為四個醫療 QA 資料集提供了各種補充元素，以測試 LLM 處理這些特定情境的的能力。利用 MedRGB，我們對多種檢索條件下的最新商業 LLM 和開源模型進行了廣泛的評量。我們的實驗結果顯示，目前模型處理檢索文件中的雜訊和錯誤資訊的能力有限。我們進一步分析了 LLM 的推理程序，為在這個關鍵的醫療領域開發 RAG 系統提供了寶貴的見解和未來的方向。
+
+##### **Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**
+2411.09174v1 by Md Fahim Anjum
+
+Recent advances in image generation, particularly via diffusion models, have
+led to impressive improvements in image synthesis quality. Despite this,
+diffusion models are still challenged by model-induced artifacts and limited
+stability in image fidelity. In this work, we hypothesize that the primary
+cause of this issue is the improper resampling operation that introduces
+aliasing in the diffusion model and a careful alias-free resampling dictated by
+image processing theory can improve the model's performance in image synthesis.
+We propose the integration of alias-free resampling layers into the UNet
+architecture of diffusion models without adding extra trainable parameters,
+thereby maintaining computational efficiency. We then assess whether these
+theory-driven modifications enhance image quality and rotational equivariance.
+Our experimental results on benchmark datasets, including CIFAR-10, MNIST, and
+MNIST-M, reveal consistent gains in image quality, particularly in terms of FID
+and KID scores. Furthermore, we propose a modified diffusion process that
+enables user-controlled rotation of generated images without requiring
+additional training. Our findings highlight the potential of theory-driven
+enhancements such as alias-free resampling in generative models to improve
+image quality while maintaining model efficiency and pioneer future research
+directions to incorporate them into video-generating diffusion models, enabling
+deeper exploration of the applications of alias-free resampling in generative
+modeling.
+
+摘要：影像生成技術的最新進展，特別是透過擴散模型，已大幅提升影像合成品質。儘管如此，擴散模型仍受限於模型引發的人工製品，且影像保真度穩定性有限。在這項工作中，我們假設此問題的主要原因是不適當的重新取樣運算，這會在擴散模型中引入混疊，而由影像處理理論指導的仔細無混疊重新取樣可以提升模型在影像合成的效能。我們建議將無混疊重新取樣層整合到擴散模型的 UNet 架構中，而無須增加額外的可訓練參數，進而維持運算效率。接著我們評估這些理論驅動的修改是否能提升影像品質和旋轉等變性。我們在基準資料集（包括 CIFAR-10、MNIST 和 MNIST-M）上的實驗結果顯示，影像品質獲得一致的提升，特別是在 FID 和 KID 分數方面。此外，我們提出一個修改過的擴散程序，它能讓使用者控制生成影像的旋轉，而無需額外訓練。我們的發現突顯了理論驅動的強化（例如無混疊重新取樣）在生成模型中的潛力，它能在維持模型效率的同時提升影像品質，並為未來研究開拓方向，將其納入生成影片的擴散模型中，進一步探索無混疊重新取樣在生成模型中的應用。
+
 ##### **The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**
 2411.08870v1 by Daniel P. Jeong, Pranav Mani, Saurabh Garg, Zachary C. Lipton, Michael Oberst
 
@@ -228,7 +349,7 @@ advancements in vision autoregressive models.
 摘要：自回歸模型在自然語言處理 (NLP) 中展現出極佳的效能，具有令人印象深刻的可擴充性、適應性和概括性。受到其在 NLP 領域的顯著成功啟發，自回歸模型最近已廣泛用於電腦視覺，透過將視覺資料表示為視覺符號，執行下一個符號預測，並針對廣泛的視覺任務啟用自回歸建模，從視覺產生和視覺理解，到最近結合視覺產生和理解的單一自回歸模型的多模態產生。本文系統性地探討視覺自回歸模型，包括制定現有方法的分類，並重點說明其主要貢獻、優點和限制，涵蓋各種視覺任務，例如影像產生、影片產生、影像編輯、動作產生、醫學影像分析、3D 產生、機器人操作、統一多模態產生等。此外，我們探討並分析自回歸模型的最新進展，包括徹底的基準測試和跨各種評估資料集的現有方法討論。最後，我們概述視覺自回歸模型未來研究的主要挑戰和有前景的方向，提供一個路線圖，以引導自回歸模型進一步的進展。
 
 ##### **Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension:Testing and Evaluation of the NBCE Method**
-2411.08586v1 by Guoqing Zhang, Keita Fukuyama, Kazumasa Kishimoto, Tomohiro Kuroda
+2411.08586v2 by Guoqing Zhang, Keita Fukuyama, Kazumasa Kishimoto, Tomohiro Kuroda
 
 Summarizing patient clinical notes is vital for reducing documentation
 burdens. Current manual summarization makes medical staff struggle. We propose
@@ -241,7 +362,7 @@ Google's over 175B Gemini on ROUGE-L metrics with 200 samples, indicating
 strong performance using less resources, enhancing automated EMR summarization
 feasibility.
 
-摘要：摘要病歷臨床記錄對於減少文件負擔至關重要。當前的摘要手冊讓醫療人員難以應付。我們提出使用 LLM 的自動化方法，但長輸入會導致 LLM 失去上下文，降低輸出品質，特別是在小型模型中。我們使用了一個 7B 模型，open-calm-7b，並透過 Native Bayes Context Extend 和重新設計的解碼機制進行增強，一次參考一個句子，將輸入保留在上下文視窗中，2048 個符號。我們改良的模型在 ROUGE-L 指標上與 Google 超過 175B 的 Gemini 達到接近同等水準，樣本數為 200，表示使用較少資源就能有強勁的表現，增強了自動化電子病歷摘要的可行性。
+摘要：摘要病患臨床筆記對於減輕文件負擔至關重要。目前的摘要手冊讓醫療人員難以應付。我們提出使用大型語言模型 (LLM) 的自動化方法，但過長的輸入會導致大型語言模型失去上下文，降低輸出品質，特別是在小型模型中。我們使用一個 7B 模型，open-calm-7b，並搭配 Native Bayes Context Extend 和重新設計的解碼機制，一次參考一個句子，將輸入保持在上下文視窗中，2048 個符號。我們改進的模型在 ROUGE-L 指標上達到接近 Google 超過 175B 的 Gemini，有 200 個範本，表示使用較少資源就能有強大的效能，提升自動化電子病歷摘要的可行性。
 
 ##### **A Heterogeneous Graph Neural Network Fusing Functional and Structural Connectivity for MCI Diagnosis**
 2411.08424v1 by Feiyu Yin, Yu Lei, Siyuan Dai, Wenwen Zeng, Guoqing Wu, Liang Zhan, Jinhua Yu
@@ -871,7 +992,7 @@ improve nutritional recommendations and health outcomes.
 摘要：這項研究探討大型語言模型在餐點規劃中的效能，著重於其辨識並分解複合食材的能力。我們評估了三個模型：GPT-4o、Llama-3 (70b) 和 Mixtral (8x7b)，以評量其辨識並分解複雜食材組合的能力。初步結果顯示，雖然 Llama-3 (70b) 和 GPT-4o 在準確分解方面表現出色，但所有模型在辨識調味料和油脂等必要元素時都遇到困難。儘管整體表現強勁，但各個模型在準確性和完整性方面仍有差異。這些發現強調了 LLM 增強個人化營養的潛力，但同時也突顯了進一步優化食材分解技術的必要性。未來的研究應針對這些限制進行探討，以改善營養建議和健康成果。
 
 ##### **SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**
-2411.05521v1 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
+2411.05521v2 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
 
 Electronic health records (EHRs) are stored in various database systems with
 different database models on heterogeneous storage architectures, such as
@@ -895,7 +1016,7 @@ models and query languages for different ICL strategies and LLMs. Last,
 SM3-Text-to-Query is easily extendable to additional query languages or real,
 standard-based patient databases.
 
-摘要：電子健康紀錄 (EHR) 儲存在各種資料庫系統中，這些系統在異質儲存架構上具有不同的資料庫模型，例如關聯式資料庫、文件儲存或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中已經是眾所周知的事實，但令人驚訝的是，它對日益增加的文字轉查詢系統的影響迄今尚未得到調查。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於來自 Synthea 的合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法——一種廣泛使用的涵蓋醫學術語的知識圖譜本體。SM3-Text-to-Query 提供了關聯式資料庫 (PostgreSQL)、文件儲存 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行查詢語言（即 SQL、MQL、Cypher 和 SPARQL）進行評估。我們系統且手動開發了 408 個範本問題，我們擴充這些問題以構建一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢對（總共 40K 對）。在我們的資料集上，我們評估了幾種常見的代表性閉源和開源 LLM 的情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的取捨。最後，SM3-Text-to-Query 可以輕鬆擴展到其他查詢語言或真實的基於標準的患者資料庫。
+摘要：電子健康記錄 (EHR) 儲存在具有不同資料庫模型的各種資料庫系統中，採用異質儲存架構，例如關聯式資料庫、文件儲存庫或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中是一個已知的事實，但其對越來越多的文字轉查詢系統的影響卻令人驚訝地尚未被研究。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於 Synthea 合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法，這是一個廣泛使用的知識圖形本體，涵蓋醫學術語。SM3-Text-to-Query 提供了關係資料庫 (PostgreSQL)、文件儲存庫 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行的查詢語言進行評估，即 SQL、MQL、Cypher 和 SPARQL。我們系統且手動開發了 408 個範本問題，並擴充這些問題以建構一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢配對（總共 40K 個配對）。在我們的資料集上，我們評估了一組代表性的封閉和開放原始碼 LLM 的幾個常見情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的權衡。最後，SM3-Text-to-Query 可以輕鬆擴充到其他查詢語言或真實的、基於標準的患者資料庫。
 
 ##### **Towards Scalable Foundation Models for Digital Dermatology**
 2411.05514v1 by Fabian Gröger, Philippe Gottfrois, Ludovic Amruthalingam, Alvaro Gonzalez-Jimenez, Simone Lionetti, Luis R. Soenksen-Martinez, Alexander A. Navarini, Marc Pouly
@@ -2401,113 +2522,4 @@ liver function, metabolic/toxicology panels, and serology/immune tests, were
 generally interpreted correctly by LLMs for differential diagnosis.
 
 摘要：鑑別診斷對於醫學至關重要，因為它有助於醫療保健提供者系統區分具有相似症狀的疾病。這項研究評估了實驗室檢驗結果對大型語言模型 (LLM) 做出的鑑別診斷 (DDx) 的影響。從 PubMed Central 的 50 份病例報告中建立了臨床簡報，其中包含患者人口統計、症狀和實驗室結果。測試了五個 LLM GPT-4、GPT-3.5、Llama-2-70b、Claude-2 和 Mixtral-8x7B，以生成帶和不帶實驗室數據的前 10、前 5 和前 1 DDx。進行了一項涉及 GPT-4、知識圖譜和臨床醫生的綜合評估。GPT-4 表現最佳，在有實驗室數據的情況下，前 1 名診斷的準確率達到 55%，前 10 名的準確率達到 60%，寬鬆準確率高達 80%。實驗室結果顯著提高了準確率，GPT-4 和 Mixtral 表現出色，儘管完全匹配率較低。LLM 通常可以正確解釋包括肝功能、代謝/毒理學檢查和血清學/免疫測試在內的實驗室檢驗，以進行鑑別診斷。
-
-##### **Deep Learning Predicts Mammographic Breast Density in Clinical Breast Ultrasound Images**
-2411.00891v2 by Arianna Bunnell, Dustin Valdez, Thomas K. Wolfgruber, Brandon Quon, Kailee Hung, Brenda Y. Hernandez, Todd B. Seto, Jeffrey Killeen, Marshall Miyoshi, Peter Sadowski, John A. Shepherd
-
-Background: Breast density, as derived from mammographic images and defined
-by the American College of Radiology's Breast Imaging Reporting and Data System
-(BI-RADS), is one of the strongest risk factors for breast cancer. Breast
-ultrasound (BUS) is an alternative breast cancer screening modality,
-particularly useful for early detection in low-resource, rural contexts. The
-purpose of this study was to explore an artificial intelligence (AI) model to
-predict BI-RADS mammographic breast density category from clinical, handheld
-BUS imaging. Methods: All data are sourced from the Hawaii and Pacific Islands
-Mammography Registry. We compared deep learning methods from BUS imaging, as
-well as machine learning models from image statistics alone. The use of
-AI-derived BUS density as a risk factor for breast cancer was then compared to
-clinical BI-RADS breast density while adjusting for age. The BUS data were
-split by individual into 70/20/10% groups for training, validation, and
-testing. Results: 405,120 clinical BUS images from 14.066 women were selected
-for inclusion in this study, resulting in 9.846 women for training (302,574
-images), 2,813 for validation (11,223 images), and 1,406 for testing (4,042
-images). On the held-out testing set, the strongest AI model achieves AUROC
-0.854 predicting BI-RADS mammographic breast density from BUS imaging and
-outperforms all shallow machine learning methods based on image statistics. In
-cancer risk prediction, age-adjusted AI BUS breast density predicted 5-year
-breast cancer risk with 0.633 AUROC, as compared to 0.637 AUROC from
-age-adjusted clinical breast density. Conclusions: BI-RADS mammographic breast
-density can be estimated from BUS imaging with high accuracy using a deep
-learning model. Furthermore, we demonstrate that AI-derived BUS breast density
-is predictive of 5-year breast cancer risk in our population.
-
-摘要：背景：乳房密度是根据乳房 X 光图像衍生而来，并由美国放射学院的乳房影像报告和数据系统 (BI-RADS) 定义，是乳腺癌最强的风险因素之一。乳房超音波 (BUS) 是一种替代的乳腺癌筛检方式，特别适用于资源匮乏的农村环境中的早期侦测。本研究的目的是探索一种人工智能 (AI) 模型，以根据临床手持式 BUS 影像预测 BI-RADS 乳房 X 光摄影乳房密度类别。方法：所有数据均来自夏威夷和太平洋岛屿乳房摄影注册中心。我们比较了来自 BUS 影像的深度学习方法，以及仅来自图像统计数据的机器学习模型。然后将 AI 衍生的 BUS 密度用作乳腺癌的风险因子，与临床 BI-RADS 乳房密度进行比较，同时调整年龄。BUS 数据按个人分为 70/20/10% 的组别，用于训练、验证和测试。结果：本研究选取了来自 14.066 名女性的 405,120 张临床 BUS 影像，产生了 9.846 名女性用于训练（302,574 张影像）、2,813 名用于验证（11,223 张影像）和 1,406 名用于测试（4,042 张影像）。在留出的测试集中，最强的 AI 模型实现了 0.854 的 AUROC，根据 BUS 影像预测 BI-RADS 乳房 X 光摄影乳房密度，并且优于所有基于图像统计的浅层机器学习方法。在癌症风险预测中，经年龄调整的 AI BUS 乳房密度预测 5 年乳腺癌风险的 AUROC 为 0.633，而经年龄调整的临床乳房密度预测的 AUROC 为 0.637。结论：使用深度学习模型，可以从 BUS 影像中以高精度估计 BI-RADS 乳房 X 光摄影乳房密度。此外，我们证明了 AI 衍生的 BUS 乳房密度可以预测我们人群中 5 年的乳腺癌风险。
-
-##### **Monitoring fairness in machine learning models that predict patient mortality in the ICU**
-2411.00190v2 by Tempest A. van Schaik, Xinggang Liu, Louis Atallah, Omar Badawi
-
-This work proposes a fairness monitoring approach for machine learning models
-that predict patient mortality in the ICU. We investigate how well models
-perform for patient groups with different race, sex and medical diagnoses. We
-investigate Documentation bias in clinical measurement, showing how fairness
-analysis provides a more detailed and insightful comparison of model
-performance than traditional accuracy metrics alone.
-
-摘要：這項研究提出一個公平性監控方法，用於預測加護病房中病患死亡率的機器學習模型。我們探討模型在不同種族、性別和醫療診斷的病患群體中表現如何。我們探討臨床測量中的文件偏差，說明公平性分析如何提供比傳統準確性指標更詳細且有見地的模型效能比較。
-
-##### **Clinical Evaluation of Medical Image Synthesis: A Case Study in Wireless Capsule Endoscopy**
-2411.00178v1 by Panagiota Gatoula, Dimitrios E. Diamantis, Anastasios Koulaouzidis, Cristina Carretero, Stefania Chetcuti-Zammit, Pablo Cortegoso Valdivia, Begoña González-Suárez, Alessandro Mussetto, John Plevris, Alexander Robertson, Bruno Rosa, Ervin Toth, Dimitris K. Iakovidis
-
-Sharing retrospectively acquired data is essential for both clinical research
-and training. Synthetic Data Generation (SDG), using Artificial Intelligence
-(AI) models, can overcome privacy barriers in sharing clinical data, enabling
-advancements in medical diagnostics. This study focuses on the clinical
-evaluation of medical SDG, with a proof-of-concept investigation on diagnosing
-Inflammatory Bowel Disease (IBD) using Wireless Capsule Endoscopy (WCE) images.
-The paper contributes by a) presenting a protocol for the systematic evaluation
-of synthetic images by medical experts and b) applying it to assess TIDE-II, a
-novel variational autoencoder-based model for high-resolution WCE image
-synthesis, with a comprehensive qualitative evaluation conducted by 10
-international WCE specialists, focusing on image quality, diversity, realism,
-and clinical decision-making. The results show that TIDE-II generates
-clinically relevant WCE images, helping to address data scarcity and enhance
-diagnostic tools. The proposed protocol serves as a reference for future
-research on medical image-generation techniques.
-
-摘要：回顧性獲取的資料分享對於臨床研究和訓練至關重要。使用人工智慧 (AI) 模型的合成資料產生 (SDG) 能夠克服臨床資料共享中的隱私障礙，促進醫療診斷的進展。本研究專注於臨床評估醫學 SDG，並透過無線膠囊內視鏡 (WCE) 影像診斷發炎性腸道疾病 (IBD) 的概念驗證調查。本文的貢獻包括：a) 提出由醫學專家系統性評估合成影像的協定，以及 b) 將其應用於評估 TIDE-II，這是一個用於高解析度 WCE 影像合成的變異自動編碼器模型，並由 10 位國際 WCE 專家進行全面的品質評估，重點在於影像品質、多樣性、真實性，以及臨床決策制定。結果顯示 TIDE-II 產生了臨床相關的 WCE 影像，有助於解決資料稀少的問題，並增強診斷工具。所提出的協定可作為未來醫學影像產生技術研究的參考。
-
-##### **Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning**
-2411.00173v1 by John Wu, David Wu, Jimeng Sun
-
-Medical coding, the translation of unstructured clinical text into
-standardized medical codes, is a crucial but time-consuming healthcare
-practice. Though large language models (LLM) could automate the coding process
-and improve the efficiency of such tasks, interpretability remains paramount
-for maintaining patient trust. Current efforts in interpretability of medical
-coding applications rely heavily on label attention mechanisms, which often
-leads to the highlighting of extraneous tokens irrelevant to the ICD code. To
-facilitate accurate interpretability in medical language models, this paper
-leverages dictionary learning that can efficiently extract sparsely activated
-representations from dense language model embeddings in superposition. Compared
-with common label attention mechanisms, our model goes beyond token-level
-representations by building an interpretable dictionary which enhances the
-mechanistic-based explanations for each ICD code prediction, even when the
-highlighted tokens are medically irrelevant. We show that dictionary features
-can steer model behavior, elucidate the hidden meanings of upwards of 90% of
-medically irrelevant tokens, and are human interpretable.
-
-摘要：醫療編碼是將非結構化的臨床文本轉換為標準化醫療代碼的過程，是一項至關重要的醫療保健實務，但耗時費力。儘管大型語言模型 (LLM) 可以自動化編碼流程並提升此類任務的效率，但可解釋性對於維護患者信任仍然至關重要。目前在醫療編碼應用程式的可解釋性方面所做的努力，極度依賴標籤注意機制，這通常會導致強調與 ICD 代碼無關的無關符號。為了促進醫療語言模型的準確可解釋性，本文利用字典學習，可以有效地從疊加的稠密語言模型嵌入中提取稀疏激活的表示。與常見的標籤注意機制相比，我們的模型超越了符號層級的表示，建立了一個可解釋的字典，增強了對每個 ICD 代碼預測的基於機制的解釋，即使強調的符號在醫學上無關緊要。我們證明字典特徵可以引導模型行為，闡明 90% 以上在醫學上無關的符號的隱藏意義，並且人類可以解釋。
-
-##### **Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**
-2410.24032v1 by Yingzhe Peng, Xiaoting Qin, Zhiyang Zhang, Jue Zhang, Qingwei Lin, Xu Yang, Dongmei Zhang, Saravan Rajmohan, Qi Zhang
-
-The rise of large language models (LLMs) has revolutionized user interactions
-with knowledge-based systems, enabling chatbots to synthesize vast amounts of
-information and assist with complex, exploratory tasks. However, LLM-based
-chatbots often struggle to provide personalized support, particularly when
-users start with vague queries or lack sufficient contextual information. This
-paper introduces the Collaborative Assistant for Personalized Exploration
-(CARE), a system designed to enhance personalization in exploratory tasks by
-combining a multi-agent LLM framework with a structured user interface. CARE's
-interface consists of a Chat Panel, Solution Panel, and Needs Panel, enabling
-iterative query refinement and dynamic solution generation. The multi-agent
-framework collaborates to identify both explicit and implicit user needs,
-delivering tailored, actionable solutions. In a within-subject user study with
-22 participants, CARE was consistently preferred over a baseline LLM chatbot,
-with users praising its ability to reduce cognitive load, inspire creativity,
-and provide more tailored solutions. Our findings highlight CARE's potential to
-transform LLM-based systems from passive information retrievers to proactive
-partners in personalized problem-solving and exploration.
-
-摘要：大型語言模型 (LLM) 的興起徹底改變了使用者與基於知識的系統互動的方式，讓聊天機器人能夠綜合大量的資訊，並協助進行複雜的探索性任務。然而，基於 LLM 的聊天機器人通常難以提供個人化的支援，特別是在使用者一開始提出的查詢很模糊，或缺乏足夠的脈絡資訊時。本文介紹了個人化探索的協作助理 (CARE)，一個旨在透過結合多重代理 LLM 架構與結構化的使用者介面來增強探索性任務中個人化的系統。CARE 的介面包含聊天面板、解決方案面板和需求面板，可進行反覆的查詢精煉和動態的解決方案產生。多重代理架構協作識別明確和隱含的使用者需求，提供客製化且可行的解決方案。在一個有 22 位參與者的受試者內研究中，CARE 持續獲得比基準 LLM 聊天機器人更好的評價，使用者讚賞其減輕認知負擔、激發創造力，以及提供更客製化解決方案的能力。我們的發現突顯了 CARE 將基於 LLM 的系統從被動的資訊檢索者轉變為個人化問題解決和探索中的主動夥伴的潛力。
 

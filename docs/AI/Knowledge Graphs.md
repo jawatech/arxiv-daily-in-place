@@ -2,8 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
+|**2024-11-14**|**Automating Reformulation of Essence Specifications via Graph Rewriting**|Ian Miguel et.al.|[2411.09576v1](http://arxiv.org/abs/2411.09576v1)|null|
 |**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v1](http://arxiv.org/abs/2411.08449v1)|null|
-|**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v1](http://arxiv.org/abs/2411.08278v1)|null|
+|**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v2](http://arxiv.org/abs/2411.08278v2)|null|
 |**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165v1](http://arxiv.org/abs/2411.08165v1)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965v1](http://arxiv.org/abs/2411.07965v1)|null|
@@ -16,7 +18,7 @@
 |**2024-11-09**|**Analyzing the Evolution of Graphs and Texts**|Xingzhi Guo et.al.|[2411.06295v1](http://arxiv.org/abs/2411.06295v1)|null|
 |**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048v1](http://arxiv.org/abs/2411.06048v1)|[link](https://github.com/fatemehshiri/spatial-mm)|
 |**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936v1](http://arxiv.org/abs/2411.05936v1)|null|
-|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v1](http://arxiv.org/abs/2411.05521v1)|null|
+|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v2](http://arxiv.org/abs/2411.05521v2)|[link](https://github.com/jf87/sm3-text-to-query)|
 |**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479v1](http://arxiv.org/abs/2411.05479v1)|[link](https://github.com/jumbo110/eurekha)|
 |**2024-11-08**|**When are 1.58 bits enough? A Bottom-up Exploration of BitNet Quantization**|Jacob Nielsen et.al.|[2411.05882v1](http://arxiv.org/abs/2411.05882v1)|null|
 |**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316v1](http://arxiv.org/abs/2411.05316v1)|[link](https://github.com/tizzzzy/llm-gdm-alignment)|
@@ -100,10 +102,39 @@
 |**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
 |**2024-10-19**|**LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model**|Tianqianjin Lin et.al.|[2410.14961v1](http://arxiv.org/abs/2410.14961v1)|null|
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
-|**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763v1](http://arxiv.org/abs/2410.14763v1)|[link](https://github.com/healthylaife/autofair)|
-|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211v2](http://arxiv.org/abs/2410.14211v2)|null|
 
 #### Abstracts
+##### **Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**
+2411.09601v1 by Cogan Shimizu, Pascal Hitzler
+
+Large Language Models bear the promise of significant acceleration of key
+Knowledge Graph and Ontology Engineering tasks, including ontology modeling,
+extension, modification, population, alignment, as well as entity
+disambiguation. We lay out LLM-based Knowledge Graph and Ontology Engineering
+as a new and coming area of research, and argue that modular approaches to
+ontologies will be of central importance.
+
+摘要：大型語言模型承諾大幅加速關鍵知識圖譜和本体工程任務，包括本体建模、擴充、修改、填充、比對以及實體消歧。我們將 LLM 為基礎的知識圖譜和本体工程規劃為一個新興的研究領域，並主張模組化本体方法將至關重要。
+
+##### **Automating Reformulation of Essence Specifications via Graph Rewriting**
+2411.09576v1 by Ian Miguel, András Z. Salamon, Christopher Stone
+
+Formulating an effective constraint model of a parameterised problem class is
+crucial to the efficiency with which instances of the class can subsequently be
+solved. It is difficult to know beforehand which of a set of candidate models
+will perform best in practice. This paper presents a system that employs graph
+rewriting to reformulate an input model for improved performance automatically.
+By situating our work in the Essence abstract constraint specification
+language, we can use the structure in its high level variable types to trigger
+rewrites directly. We implement our system via rewrite rules expressed in the
+Graph Programs 2 language, applied to the abstract syntax tree of an input
+specification. We show how to automatically translate the solution of the
+reformulated problem into a solution of the original problem for verification
+and presentation. We demonstrate the efficacy of our system with a detailed
+case study.
+
+摘要：制定一個參數化問題類別的有效約束模型對於隨後求解該類別的實例的效率至關重要。事先很難知道一組候選模型中哪一個在實務上表現最佳。本文提出一個系統，採用圖形重寫來自動重新制定輸入模型以改善效能。透過將我們的工作置於 Essence 抽象約束規範語言中，我們可以使用其高層級變數類型中的結構來直接觸發重寫。我們透過以 Graph Programs 2 語言表示的重寫規則來實作我們的系統，應用於輸入規範的抽象語法樹。我們展示如何自動將重新制定問題的解法轉換為原始問題的解法，以進行驗證和呈現。我們透過詳細的個案研究來展示我們系統的效能。
+
 ##### **Towards Evaluating Large Language Models for Graph Query Generation**
 2411.08449v1 by Siraj Munir, Alessandro Aldini
 
@@ -128,7 +159,7 @@ databases.
 摘要：大型語言模型 (LLM) 正在革新生成式人工智能 (GenAI) 的格局，創新的 LLM 支持解決方案迅速湧現。然而，當應用於資料庫技術，特別是圖形資料庫和知識圖譜 (KG) 的查詢生成時，LLM 仍面臨重大挑戰。雖然存在針對結構化查詢語言 (SQL) 的 LLM 驅動查詢生成的相關研究，但圖形資料庫的類似系統仍未得到充分發展。本文提出了一項比較研究，以解決使用開放式 LLM 生成 Cypher 查詢的挑戰，Cypher 查詢是一種與圖形資料庫互動的強大語言。我們使用設計的少次學習提示和由思考鏈 (CoT) 推理支持的檢索擴增生成 (RAG) 嚴格評估了多個 LLM 代理（OpenAI ChatGPT 4o、Claude Sonnet 3.5、Google Gemini Pro 1.5 和本地部署的 Llama 3.1 8B）。我們對查詢生成準確性的實證分析表明，Claude Sonnet 3.5 在這個特定領域優於其他模型。此外，我們重點介紹了有希望的未來研究方向，以解決已識別的限制並推進 LLM 驅動的圖形資料庫查詢生成。
 
 ##### **Knowledge Bases in Support of Large Language Models for Processing Web News**
-2411.08278v1 by Yihe Zhang, Nabin Pakka, Nian-feng Tzeng
+2411.08278v2 by Yihe Zhang, Nabin Pakka, Nian-Feng Tzeng
 
 Large Language Models (LLMs) have received considerable interest in wide
 applications lately. During pre-training via massive datasets, such a model
@@ -147,7 +178,7 @@ implicit knowledge facts with relational tuples extracted by NewsIE. We have
 evaluated our framework under different news-related datasets for news category
 classification, with promising experimental results.
 
-摘要：大型語言模型 (LLM) 近來在廣泛的應用中獲得相當大的關注。在透過大量資料集進行預訓練期間，此類模型會在其隱藏參數中隱含地記憶訓練資料集的事實知識。然而，隱含在參數中的知識通常會因缺乏常識推理而導致下游應用無法有效使用。在本文中，我們介紹了一個通用架構，允許在 LLM 的幫助下建立知識庫，專門用於處理網路新聞。該架構將基於規則的新聞資訊萃取器 (NewsIE) 應用於新聞項目，以萃取其關係元組，稱為知識庫，然後將其與 LLM 取得的新聞項目的隱含知識事實進行圖形卷積，以進行分類。它包含兩個輕量級組成部分：1) NewsIE：用於萃取每個新聞項目的結構化資訊，以關係元組的形式；2) BERTGraph：用於對 NewsIE 萃取的關係元組進行隱含知識事實的圖形卷積。我們已在不同的與新聞相關的資料集下評估我們的架構，用於新聞類別分類，並獲得有希望的實驗結果。
+摘要：大型語言模型 (LLM) 近來在廣泛的應用中備受關注。在透過大量資料集進行預訓練期間，此類模型會隱含地將訓練資料集的事實知識記憶在其隱藏參數中。然而，隱含在參數中的知識通常會因為缺乏常識推理而導致下游應用無法有效使用。在本文中，我們介紹了一個通用架構，允許在 LLM 的協助下建立知識庫，專門用於處理網路新聞。此架構將基於規則的新聞資訊萃取器 (NewsIE) 套用到新聞項目，以萃取其關係元組（稱為知識庫），然後將其與 LLM 取得的新聞項目的隱含知識事實進行圖形卷積，以進行分類。它包含兩個輕量級元件：1) NewsIE：用於萃取每個新聞項目的結構化資訊，以關係元組的形式呈現；2) BERTGraph：用於將 NewsIE 萃取的關係元組與隱含知識事實進行圖形卷積。我們已在不同的與新聞相關的資料集下評估我們的架構，用於新聞類別分類，並獲得有希望的實驗結果。
 
 ##### **Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**
 2411.08165v1 by Muzhi Li, Cehao Yang, Chengjin Xu, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King
@@ -445,7 +476,7 @@ ZeroG 使用較小的模型複製較大的教師模型的行為，透過採用�
 透過整合進階技術來擷取文件和使用元資料，ZeroG 改善問答系統的準確度。圖形資料庫和強健的元資料管理的整合進一步簡化資訊擷取，允許精確且符合脈絡的回應。透過轉換組織與複雜資料互動的方式，ZeroG 提升生產力和使用者體驗，提供可擴充的解決方案，以滿足數位文件管理日益增長的需求。
 
 ##### **SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**
-2411.05521v1 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
+2411.05521v2 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
 
 Electronic health records (EHRs) are stored in various database systems with
 different database models on heterogeneous storage architectures, such as
@@ -469,7 +500,7 @@ models and query languages for different ICL strategies and LLMs. Last,
 SM3-Text-to-Query is easily extendable to additional query languages or real,
 standard-based patient databases.
 
-摘要：電子健康紀錄 (EHR) 儲存在各種資料庫系統中，這些系統在異質儲存架構上具有不同的資料庫模型，例如關聯式資料庫、文件儲存或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中已經是眾所周知的事實，但令人驚訝的是，它對日益增加的文字轉查詢系統的影響迄今尚未得到調查。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於來自 Synthea 的合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法——一種廣泛使用的涵蓋醫學術語的知識圖譜本體。SM3-Text-to-Query 提供了關聯式資料庫 (PostgreSQL)、文件儲存 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行查詢語言（即 SQL、MQL、Cypher 和 SPARQL）進行評估。我們系統且手動開發了 408 個範本問題，我們擴充這些問題以構建一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢對（總共 40K 對）。在我們的資料集上，我們評估了幾種常見的代表性閉源和開源 LLM 的情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的取捨。最後，SM3-Text-to-Query 可以輕鬆擴展到其他查詢語言或真實的基於標準的患者資料庫。
+摘要：電子健康記錄 (EHR) 儲存在具有不同資料庫模型的各種資料庫系統中，採用異質儲存架構，例如關聯式資料庫、文件儲存庫或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中是一個已知的事實，但其對越來越多的文字轉查詢系統的影響卻令人驚訝地尚未被研究。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於 Synthea 合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法，這是一個廣泛使用的知識圖形本體，涵蓋醫學術語。SM3-Text-to-Query 提供了關係資料庫 (PostgreSQL)、文件儲存庫 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行的查詢語言進行評估，即 SQL、MQL、Cypher 和 SPARQL。我們系統且手動開發了 408 個範本問題，並擴充這些問題以建構一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢配對（總共 40K 個配對）。在我們的資料集上，我們評估了一組代表性的封閉和開放原始碼 LLM 的幾個常見情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的權衡。最後，SM3-Text-to-Query 可以輕鬆擴充到其他查詢語言或真實的、基於標準的患者資料庫。
 
 ##### **EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**
 2411.05479v1 by Abdoul Nasser Hassane Amadou, Anas Motii, Saida Elouardi, EL Houcine Bergou
@@ -2486,82 +2517,4 @@ that TransBox often achieves state-of-the-art performance across various
 real-world datasets for predicting complex axioms.
 
 摘要：OWL（Web Ontology Language）本体，能够将关系和类型事实表示为标准知识图和描述逻辑 (DL) 公理中的复杂领域知识，在医疗保健和生物信息学等领域得到广泛采用。受知识图嵌入的成功启发，嵌入 OWL 本体近年来备受关注。当前方法主要集中在学习原子概念和角色的嵌入，通过专门设计的评分函数，支持基于归一化公理的评估。然而，它们经常忽略复杂概念的嵌入，这使得难以推断出更复杂的公理。这种限制降低了它们在高级推理任务（例如本体学习和本体介导查询应答）中的有效性。在本文中，我们提出了 EL++ 封闭本体嵌入，它能够通过组合来表示 DL 中的任何逻辑表达式。此外，我们开发了 TransBox，一种有效的 EL++ 封闭本体嵌入方法，可以处理多对一、一对多和多对多关系。我们广泛的实验表明，TransBox 在预测复杂公理的各种真实世界数据集上通常都能达到最先进的性能。
-
-##### **Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**
-2410.14763v1 by Hamed Fayyaz, Raphael Poulain, Rahmatollah Beheshti
-
-Large language models (LLMs) have shown impressive potential in helping with
-numerous medical challenges. Deploying LLMs in high-stakes applications such as
-medicine, however, brings in many concerns. One major area of concern relates
-to biased behaviors of LLMs in medical applications, leading to unfair
-treatment of individuals. To pave the way for the responsible and impactful
-deployment of Med LLMs, rigorous evaluation is a key prerequisite. Due to the
-huge complexity and variability of different medical scenarios, existing work
-in this domain has primarily relied on using manually crafted datasets for bias
-evaluation. In this study, we present a new method to scale up such bias
-evaluations by automatically generating test cases based on rigorous medical
-evidence. We specifically target the challenges of a) domain-specificity of
-bias characterization, b) hallucinating while generating the test cases, and c)
-various dependencies between the health outcomes and sensitive attributes. To
-that end, we offer new methods to address these challenges integrated with our
-generative pipeline, using medical knowledge graphs, medical ontologies, and
-customized general LLM evaluation frameworks in our method. Through a series of
-extensive experiments, we show that the test cases generated by our proposed
-method can effectively reveal bias patterns in Med LLMs at larger and more
-flexible scales than human-crafted datasets. We publish a large bias evaluation
-dataset using our pipeline, which is dedicated to a few medical case studies. A
-live demo of our application for vignette generation is available at
-https://vignette.streamlit.app. Our code is also available at
-https://github.com/healthylaife/autofair.
-
-摘要：大型語言模型 (LLM) 已展現出在協助解決
-許多醫療挑戰方面的驚人潛力。然而，在高風險應用程式（例如
-醫療）中部署 LLM 會帶來許多疑慮。一個主要的疑慮領域與
-醫療應用程式中 LLM 的偏見行為有關，導致對個人不公平的
-待遇。為了為負責任且有影響力的 Med LLM 部署鋪路，嚴謹的
-評估是一項關鍵前提。由於不同醫療場景的複雜性和變異性極大，
-此領域現有的工作主要依賴使用人工製作的資料集進行偏見
-評估。在本研究中，我們提出了一種新的方法，可以根據嚴謹的醫療
-證據自動產生測試案例，以擴大此類偏見評估。我們特別針對
-a) 偏見特徵的領域專屬性、b) 在產生測試案例時出現幻覺，以及 c)
-健康結果和敏感屬性之間的各種依賴性等挑戰。為此，我們提供
-新的方法來解決這些挑戰，並將其與我們的生成管道整合，在我們的
-方法中使用醫療知識圖、醫療本体和自訂的通用 LLM 評估架構。透過
-一系列廣泛的實驗，我們表明我們提出的方法產生的測試案例可以有效
-揭示 Med LLM 中的偏見模式，其規模比人工製作的資料集更大且更具
-彈性。我們使用我們的管道發布了一個大型偏見評估資料集，該資料集
-專門針對一些醫療案例研究。我們的小插圖生成應用程式的現場示範
-可在 https://vignette.streamlit.app 取得。我們的程式碼也可在
-https://github.com/healthylaife/autofair 取得。
-
-##### **Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**
-2410.14211v2 by Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Xin Yuan, Wenjie Zhang
-
-Large Language Models (LLMs) have achieved impressive results in various
-tasks but struggle with hallucination problems and lack of relevant knowledge,
-especially in deep complex reasoning and knowledge-intensive tasks. Knowledge
-Graphs (KGs), which capture vast amounts of facts in a structured format, offer
-a reliable source of knowledge for reasoning. However, existing KG-based LLM
-reasoning methods face challenges like handling multi-hop reasoning,
-multi-entity questions, and effectively utilizing graph structures. To address
-these issues, we propose Paths-over-Graph (PoG), a novel method that enhances
-LLM reasoning by integrating knowledge reasoning paths from KGs, improving the
-interpretability and faithfulness of LLM outputs. PoG tackles multi-hop and
-multi-entity questions through a three-phase dynamic multi-hop path
-exploration, which combines the inherent knowledge of LLMs with factual
-knowledge from KGs. In order to improve the efficiency, PoG prunes irrelevant
-information from the graph exploration first and introduces efficient
-three-step pruning techniques that incorporate graph structures, LLM prompting,
-and a pre-trained language model (e.g., SBERT) to effectively narrow down the
-explored candidate paths. This ensures all reasoning paths contain highly
-relevant information captured from KGs, making the reasoning faithful and
-interpretable in problem-solving. PoG innovatively utilizes graph structure to
-prune the irrelevant noise and represents the first method to implement
-multi-entity deep path detection on KGs for LLM reasoning tasks. Comprehensive
-experiments on five benchmark KGQA datasets demonstrate PoG outperforms the
-state-of-the-art method ToG across GPT-3.5-Turbo and GPT-4, achieving an
-average accuracy improvement of 18.9%. Notably, PoG with GPT-3.5-Turbo
-surpasses ToG with GPT-4 by up to 23.9%.
-
-摘要：大型語言模型 (LLM) 在各種任務中取得令人印象深刻的成果，但仍存在幻覺問題和缺乏相關知識，尤其是在深度複雜推理和知識密集型任務中。知識圖譜 (KG) 以結構化格式擷取大量事實，為推理提供了可靠的知識來源。然而，現有的基於 KG 的 LLM 推理方法面臨處理多跳推理、多實體問題和有效利用圖結構等挑戰。為了解決這些問題，我們提出了圖上路徑 (PoG)，這是一種創新的方法，通過整合來自 KG 的知識推理路徑來增強 LLM 推理，提高 LLM 輸出的可解釋性和保真性。PoG 通過三階段動態多跳路徑探索來解決多跳和多實體問題，將 LLM 的固有知識與來自 KG 的事實知識相結合。為了提高效率，PoG 首先從圖探索中剪除無關信息，並引入了三步剪枝技術，這些技術結合了圖結構、LLM 提示和預訓練語言模型（例如，SBERT）來有效縮小探索的候選路徑。這確保了所有推理路徑都包含從 KG 擷取的高度相關信息，從而使推理在問題解決中具有保真性和可解釋性。PoG 創新地利用圖結構來剪除無關噪聲，並代表了在 KG 上實現 LLM 推理任務的多實體深度路徑檢測的第一種方法。在五個基準 KGQA 數據集上的綜合實驗表明，PoG 在 GPT-3.5-Turbo 和 GPT-4 上的表現優於最先進的方法 ToG，平均準確率提高了 18.9%。值得注意的是，使用 GPT-3.5-Turbo 的 PoG 比使用 GPT-4 的 ToG 高出 23.9%。
 

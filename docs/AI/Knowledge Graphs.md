@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v1](http://arxiv.org/abs/2411.08449v1)|null|
+|**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v1](http://arxiv.org/abs/2411.08278v1)|null|
+|**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165v1](http://arxiv.org/abs/2411.08165v1)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965v1](http://arxiv.org/abs/2411.07965v1)|null|
 |**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843v1](http://arxiv.org/abs/2411.07843v1)|null|
@@ -25,6 +28,7 @@
 |**2024-11-04**|**Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v1](http://arxiv.org/abs/2411.02591v1)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
 |**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v2](http://arxiv.org/abs/2411.02540v2)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382v1](http://arxiv.org/abs/2411.02382v1)|null|
+|**2024-11-04**|**QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain**|Qikai Wei et.al.|[2411.08724v1](http://arxiv.org/abs/2411.08724v1)|null|
 |**2024-11-04**|**Can Language Models Enable In-Context Database?**|Yu Pan et.al.|[2411.01807v1](http://arxiv.org/abs/2411.01807v1)|null|
 |**2024-11-03**|**Graph-based Confidence Calibration for Large Language Models**|Yukun Li et.al.|[2411.02454v1](http://arxiv.org/abs/2411.02454v1)|null|
 |**2024-11-03**|**Ontology Population using LLMs**|Sanaz Saki Norouzi et.al.|[2411.01612v1](http://arxiv.org/abs/2411.01612v1)|null|
@@ -52,6 +56,7 @@
 |**2024-10-29**|**Advancing Agentic Systems: Dynamic Task Decomposition, Tool Integration and Evaluation using Novel Metrics and Dataset**|Adrian Garret Gabriel et.al.|[2410.22457v1](http://arxiv.org/abs/2410.22457v1)|null|
 |**2024-10-29**|**DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**|Chengke Zou et.al.|[2411.00836v1](http://arxiv.org/abs/2411.00836v1)|null|
 |**2024-10-29**|**ADAM: An Embodied Causal Agent in Open-World Environments**|Shu Yu et.al.|[2410.22194v1](http://arxiv.org/abs/2410.22194v1)|null|
+|**2024-10-29**|**GraphAide: Advanced Graph-Assisted Query and Reasoning System**|Sumit Purohit et.al.|[2411.08041v1](http://arxiv.org/abs/2411.08041v1)|null|
 |**2024-10-29**|**Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN**|Zhilun Zhou et.al.|[2411.00028v1](http://arxiv.org/abs/2411.00028v1)|null|
 |**2024-10-29**|**A Hierarchical Language Model For Interpretable Graph Reasoning**|Sambhav Khurana et.al.|[2410.22372v1](http://arxiv.org/abs/2410.22372v1)|null|
 |**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520v1](http://arxiv.org/abs/2410.21520v1)|null|
@@ -97,13 +102,76 @@
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
 |**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763v1](http://arxiv.org/abs/2410.14763v1)|[link](https://github.com/healthylaife/autofair)|
 |**2024-10-18**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211v2](http://arxiv.org/abs/2410.14211v2)|null|
-|**2024-10-18**|**UniMTS: Unified Pre-training for Motion Time Series**|Xiyuan Zhang et.al.|[2410.19818v1](http://arxiv.org/abs/2410.19818v1)|[link](https://github.com/xiyuanzh/unimts)|
-|**2024-10-18**|**Supervised Chain of Thought**|Xiang Zhang et.al.|[2410.14198v1](http://arxiv.org/abs/2410.14198v1)|null|
-|**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057v1](http://arxiv.org/abs/2410.14057v1)|null|
-|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987v1](http://arxiv.org/abs/2410.13987v1)|null|
-|**2024-10-17**|**The Mystery of the Pathological Path-star Task for Language Models**|Arvid Frydenlund et.al.|[2410.13779v1](http://arxiv.org/abs/2410.13779v1)|null|
 
 #### Abstracts
+##### **Towards Evaluating Large Language Models for Graph Query Generation**
+2411.08449v1 by Siraj Munir, Alessandro Aldini
+
+Large Language Models (LLMs) are revolutionizing the landscape of Generative
+Artificial Intelligence (GenAI), with innovative LLM-backed solutions emerging
+rapidly. However, when applied to database technologies, specifically query
+generation for graph databases and Knowledge Graphs (KGs), LLMs still face
+significant challenges. While research on LLM-driven query generation for
+Structured Query Language (SQL) exists, similar systems for graph databases
+remain underdeveloped. This paper presents a comparative study addressing the
+challenge of generating Cypher queries a powerful language for interacting with
+graph databases using open-access LLMs. We rigorously evaluate several LLM
+agents (OpenAI ChatGPT 4o, Claude Sonnet 3.5, Google Gemini Pro 1.5, and a
+locally deployed Llama 3.1 8B) using a designed few-shot learning prompt and
+Retrieval Augmented Generation (RAG) backed by Chain-of-Thoughts (CoT)
+reasoning. Our empirical analysis of query generation accuracy reveals that
+Claude Sonnet 3.5 outperforms its counterparts in this specific domain.
+Further, we highlight promising future research directions to address the
+identified limitations and advance LLM-driven query generation for graph
+databases.
+
+摘要：大型語言模型 (LLM) 正在革新生成式人工智能 (GenAI) 的格局，創新的 LLM 支持解決方案迅速湧現。然而，當應用於資料庫技術，特別是圖形資料庫和知識圖譜 (KG) 的查詢生成時，LLM 仍面臨重大挑戰。雖然存在針對結構化查詢語言 (SQL) 的 LLM 驅動查詢生成的相關研究，但圖形資料庫的類似系統仍未得到充分發展。本文提出了一項比較研究，以解決使用開放式 LLM 生成 Cypher 查詢的挑戰，Cypher 查詢是一種與圖形資料庫互動的強大語言。我們使用設計的少次學習提示和由思考鏈 (CoT) 推理支持的檢索擴增生成 (RAG) 嚴格評估了多個 LLM 代理（OpenAI ChatGPT 4o、Claude Sonnet 3.5、Google Gemini Pro 1.5 和本地部署的 Llama 3.1 8B）。我們對查詢生成準確性的實證分析表明，Claude Sonnet 3.5 在這個特定領域優於其他模型。此外，我們重點介紹了有希望的未來研究方向，以解決已識別的限制並推進 LLM 驅動的圖形資料庫查詢生成。
+
+##### **Knowledge Bases in Support of Large Language Models for Processing Web News**
+2411.08278v1 by Yihe Zhang, Nabin Pakka, Nian-feng Tzeng
+
+Large Language Models (LLMs) have received considerable interest in wide
+applications lately. During pre-training via massive datasets, such a model
+implicitly memorizes the factual knowledge of trained datasets in its hidden
+parameters. However, knowledge held implicitly in parameters often makes its
+use by downstream applications ineffective due to the lack of common-sense
+reasoning. In this article, we introduce a general framework that permits to
+build knowledge bases with an aid of LLMs, tailored for processing Web news.
+The framework applies a rule-based News Information Extractor (NewsIE) to news
+items for extracting their relational tuples, referred to as knowledge bases,
+which are then graph-convoluted with the implicit knowledge facts of news items
+obtained by LLMs, for their classification. It involves two lightweight
+components: 1) NewsIE: for extracting the structural information of every news
+item, in the form of relational tuples; 2) BERTGraph: for graph convoluting the
+implicit knowledge facts with relational tuples extracted by NewsIE. We have
+evaluated our framework under different news-related datasets for news category
+classification, with promising experimental results.
+
+摘要：大型語言模型 (LLM) 近來在廣泛的應用中獲得相當大的關注。在透過大量資料集進行預訓練期間，此類模型會在其隱藏參數中隱含地記憶訓練資料集的事實知識。然而，隱含在參數中的知識通常會因缺乏常識推理而導致下游應用無法有效使用。在本文中，我們介紹了一個通用架構，允許在 LLM 的幫助下建立知識庫，專門用於處理網路新聞。該架構將基於規則的新聞資訊萃取器 (NewsIE) 應用於新聞項目，以萃取其關係元組，稱為知識庫，然後將其與 LLM 取得的新聞項目的隱含知識事實進行圖形卷積，以進行分類。它包含兩個輕量級組成部分：1) NewsIE：用於萃取每個新聞項目的結構化資訊，以關係元組的形式；2) BERTGraph：用於對 NewsIE 萃取的關係元組進行隱含知識事實的圖形卷積。我們已在不同的與新聞相關的資料集下評估我們的架構，用於新聞類別分類，並獲得有希望的實驗結果。
+
+##### **Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**
+2411.08165v1 by Muzhi Li, Cehao Yang, Chengjin Xu, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King
+
+The Knowledge Graph Completion~(KGC) task aims to infer the missing entity
+from an incomplete triple. Existing embedding-based methods rely solely on
+triples in the KG, which is vulnerable to specious relation patterns and
+long-tail entities. On the other hand, text-based methods struggle with the
+semantic gap between KG triples and natural language. Apart from triples,
+entity contexts (e.g., labels, descriptions, aliases) also play a significant
+role in augmenting KGs. To address these limitations, we propose KGR3, a
+context-enriched framework for KGC. KGR3 is composed of three modules. Firstly,
+the Retrieval module gathers supporting triples from the KG, collects plausible
+candidate answers from a base embedding model, and retrieves context for each
+related entity. Then, the Reasoning module employs a large language model to
+generate potential answers for each query triple. Finally, the Re-ranking
+module combines candidate answers from the two modules mentioned above, and
+fine-tunes an LLM to provide the best answer. Extensive experiments on widely
+used datasets demonstrate that KGR3 consistently improves various KGC methods.
+Specifically, the best variant of KGR3 achieves absolute Hits@1 improvements of
+12.3% and 5.6% on the FB15k237 and WN18RR datasets.
+
+摘要：知識圖譜完成功能 (KGC) 的任務旨在從不完整的 3 元組中推斷出遺失的實體。現有的嵌入式方法僅依賴於 KG 中的 3 元組，這容易受到虛假關係模式和長尾實體的影響。另一方面，基於文本的方法難以處理 KG 3 元組和自然語言之間的語義差距。除了 3 元組之外，實體上下文（例如標籤、描述、別名）在擴充 KG 中也扮演著重要的角色。為了解決這些限制，我們提出了 KGR3，一個用於 KGC 的上下文豐富架構。KGR3 由三個模組組成。首先，檢索模組從 KG 中收集支援 3 元組，從基礎嵌入模型中收集可能的候選答案，並為每個相關實體檢索上下文。接著，推理模組採用大型語言模型為每個查詢 3 元組生成潛在答案。最後，重新排名模組將上述兩個模組的候選答案結合起來，並微調 LLM 以提供最佳答案。在廣泛使用的資料集上進行的廣泛實驗證明，KGR3 持續改進各種 KGC 方法。具體來說，KGR3 的最佳變體在 FB15k237 和 WN18RR 資料集上分別實現了 12.3% 和 5.6% 的絕對 Hits@1 改進。
+
 ##### **Language Models as Causal Effect Generators**
 2411.08019v1 by Lucius E. J. Bynum, Kyunghyun Cho
 
@@ -665,6 +733,28 @@ hypotheses but also reduces the hallucination in their reasoning chains,
 highlighting its effectiveness in advancing real-world scientific research.
 
 摘要：大型語言模型 (LLM) 已在各種科學領域展現卓越的能力，從自然語言處理到複雜的解決問題任務。它們理解和產生類似人類文字的能力為推進科學研究開啟了新的可能性，讓資料分析、文獻回顧，甚至實驗設計等任務成為可能。LLM 在此脈絡中最有希望的應用之一是假設產生，它們能透過分析現有知識來找出新的研究方向。然而，儘管 LLM 具有潛力，它們卻容易產生「幻覺」，也就是聽起來合理但事實上不正確的輸出。此類問題在需要嚴謹準確性和可驗證性的科學領域中會造成重大挑戰，有可能導致錯誤或誤導性的結論。為了克服這些挑戰，我們提出 KG-CoI（知識基礎觀念鏈），這是一個創新的系統，它透過整合知識圖譜 (KG) 中的外部結構化知識來增強 LLM 假設產生。KG-CoI 引導 LLM 進行結構化推理程序，將其輸出整理成觀念鏈 (CoI)，並包含一個由 KG 支援的模組來偵測幻覺。透過我們新建立的假設產生資料集進行的實驗，我們證明 KG-CoI 不僅改善了 LLM 產生的假設的準確性，也減少了其推理鏈中的幻覺，突顯了其在推進現實世界科學研究中的效能。
+
+##### **QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain**
+2411.08724v1 by Qikai Wei, Mingzhi Yang, Chunlong Han, Jingfu Wei, Minghao Zhang, Feifei Shi, Huansheng Ning
+
+Retrieval-Augmented Generation (RAG) mitigates the issue of hallucination in
+Large Language Models (LLMs) by integrating information retrieval techniques.
+However, in the tourism domain, since the query is usually brief and the
+content in the database is diverse, existing RAG may contain a significant
+amount of irrelevant or contradictory information contents after retrieval. To
+address this challenge, we propose the QCG-Rerank model. This model first
+performs an initial retrieval to obtain candidate chunks and then enhances
+semantics by extracting critical information to expand the original query.
+Next, we utilize the expanded query and candidate chunks to calculate
+similarity scores as the initial transition probability and construct the
+chunks graph. Subsequently, We iteratively compute the transition probabilities
+based on an initial estimate until convergence. The chunks with the highest
+score are selected and input into the LLMs to generate responses. We evaluate
+the model on Cultour, IIRC, StrategyQA, HotpotQA, SQuAD, and MuSiQue datasets.
+The experimental results demonstrate the effectiveness and superiority of the
+QCG-Rerank method.
+
+摘要：擷取增強生成（RAG）透過整合資訊擷取技術來緩解大型語言模型（LLM）中的幻覺問題。然而，在旅遊領域中，由於查詢通常很簡短，而資料庫中的內容多樣，因此現有的 RAG 可能會在擷取後包含大量不相關或矛盾的資訊內容。為了應對這個挑戰，我們提出了 QCG-Rerank 模型。此模型首先執行初始擷取以取得候選區塊，然後透過擷取關鍵資訊來擴充原始查詢以增強語意。接著，我們利用擴充的查詢和候選區塊來計算相似度分數作為初始轉移機率，並建構區塊圖。隨後，我們根據初始估計反覆計算轉移機率，直到收斂。會選取分數最高的區塊，並輸入到 LLM 以產生回應。我們在 Cultour、IIRC、StrategyQA、HotpotQA、SQuAD 和 MuSiQue 資料集上評估此模型。實驗結果證明了 QCG-Rerank 方法的有效性和優越性。
 
 ##### **Can Language Models Enable In-Context Database?**
 2411.01807v1 by Yu Pan, Hongfeng Yu, Tianjiao Zhao, Jianxin Sun
@@ -1335,6 +1425,37 @@ paradigm that integrates causal methods and embodied agents in a synergistic
 manner. Our project page is at https://opencausalab.github.io/ADAM.
 
 摘要：在像 Minecraft 這樣的開放世界環境中，現有的代理人面臨持續學習結構化知識的挑戰，尤其是因果關係。這些挑戰源於黑盒模型固有的不透明性，以及在訓練期間過度依賴先驗知識，這會損害它們的可解釋性和泛化能力。為此，我們引入了 ADAM，Minecraft 中的一個具身因果代理，它可以自主導航開放世界，感知多模式上下文，學習因果世界知識，並通過終身學習來應對複雜任務。ADAM 由四個關鍵組成部分賦能：1) 一個交互模組，使代理能夠執行動作，同時記錄交互過程；2) 一個因果模型模組，負責從頭開始構建一個不斷增長的因果圖，這增強了可解釋性並減少了對先驗知識的依賴；3) 一個控制器模組，包括一個規劃器、一個執行器和一個記憶池，它使用學習到的因果圖來完成任務；4) 一個感知模組，由多模式大型語言模型提供支援，使 ADAM 能夠像人類玩家一樣感知。大量的實驗表明，ADAM 從頭開始構建了一個幾乎完美的因果圖，實現了高效的任務分解和執行，並具有很強的可解釋性。值得注意的是，在我們修改過的 Minecraft 遊戲中，沒有可用的先驗知識，ADAM 保持了其性能，並表現出顯著的魯棒性和泛化能力。ADAM 開創了一種新穎的範例，以協同方式整合因果方法和具身代理。我們的專案頁面位於 https://opencausalab.github.io/ADAM。
+
+##### **GraphAide: Advanced Graph-Assisted Query and Reasoning System**
+2411.08041v1 by Sumit Purohit, George Chin, Patrick S Mackey, Joseph A Cottam
+
+Curating knowledge from multiple siloed sources that contain both structured
+and unstructured data is a major challenge in many real-world applications.
+Pattern matching and querying represent fundamental tasks in modern data
+analytics that leverage this curated knowledge. The development of such
+applications necessitates overcoming several research challenges, including
+data extraction, named entity recognition, data modeling, and designing query
+interfaces. Moreover, the explainability of these functionalities is critical
+for their broader adoption.
+  The emergence of Large Language Models (LLMs) has accelerated the development
+lifecycle of new capabilities. Nonetheless, there is an ongoing need for
+domain-specific tools tailored to user activities. The creation of digital
+assistants has gained considerable traction in recent years, with LLMs offering
+a promising avenue to develop such assistants utilizing domain-specific
+knowledge and assumptions.
+  In this context, we introduce an advanced query and reasoning system,
+GraphAide, which constructs a knowledge graph (KG) from diverse sources and
+allows to query and reason over the resulting KG. GraphAide harnesses both the
+KG and LLMs to rapidly develop domain-specific digital assistants. It
+integrates design patterns from retrieval augmented generation (RAG) and the
+semantic web to create an agentic LLM application. GraphAide underscores the
+potential for streamlined and efficient development of specialized digital
+assistants, thereby enhancing their applicability across various domains.
+
+摘要：從包含結構化和非結構化資料的多個孤立來源中整理知識，是許多實際應用中的一項重大挑戰。
+模式比對和查詢代表了現代資料分析的基本任務，利用這些整理好的知識。這種應用的發展需要克服多項研究挑戰，包括資料萃取、命名實體辨識、資料建模和設計查詢介面。此外，這些功能的可解釋性對於其更廣泛的採用至關重要。
+大型語言模型 (LLM) 的出現加速了新功能的開發週期。儘管如此，仍然需要針對使用者活動量身打造的特定領域工具。近年來，數位助理的建立獲得了相當大的進展，LLM 提供了一個有前途的途徑，可以利用特定領域的知識和假設來開發此類助理。
+在此背景下，我們介紹了一個先進的查詢和推理系統 GraphAide，它從不同的來源構建一個知識圖譜 (KG)，並允許查詢和推理所得的 KG。GraphAide 利用 KG 和 LLM 來快速開發特定領域的數位助理。它整合了檢索擴充生成 (RAG) 和語義網路的設計模式，以建立一個代理 LLM 應用程式。GraphAide 強調了簡化和有效開發專業數位助理的潛力，從而增強其在各個領域的適用性。
 
 ##### **Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN**
 2411.00028v1 by Zhilun Zhou, Jingyang Fan, Yu Liu, Fengli Xu, Depeng Jin, Yong Li
@@ -2443,130 +2564,4 @@ average accuracy improvement of 18.9%. Notably, PoG with GPT-3.5-Turbo
 surpasses ToG with GPT-4 by up to 23.9%.
 
 摘要：大型語言模型 (LLM) 在各種任務中取得令人印象深刻的成果，但仍存在幻覺問題和缺乏相關知識，尤其是在深度複雜推理和知識密集型任務中。知識圖譜 (KG) 以結構化格式擷取大量事實，為推理提供了可靠的知識來源。然而，現有的基於 KG 的 LLM 推理方法面臨處理多跳推理、多實體問題和有效利用圖結構等挑戰。為了解決這些問題，我們提出了圖上路徑 (PoG)，這是一種創新的方法，通過整合來自 KG 的知識推理路徑來增強 LLM 推理，提高 LLM 輸出的可解釋性和保真性。PoG 通過三階段動態多跳路徑探索來解決多跳和多實體問題，將 LLM 的固有知識與來自 KG 的事實知識相結合。為了提高效率，PoG 首先從圖探索中剪除無關信息，並引入了三步剪枝技術，這些技術結合了圖結構、LLM 提示和預訓練語言模型（例如，SBERT）來有效縮小探索的候選路徑。這確保了所有推理路徑都包含從 KG 擷取的高度相關信息，從而使推理在問題解決中具有保真性和可解釋性。PoG 創新地利用圖結構來剪除無關噪聲，並代表了在 KG 上實現 LLM 推理任務的多實體深度路徑檢測的第一種方法。在五個基準 KGQA 數據集上的綜合實驗表明，PoG 在 GPT-3.5-Turbo 和 GPT-4 上的表現優於最先進的方法 ToG，平均準確率提高了 18.9%。值得注意的是，使用 GPT-3.5-Turbo 的 PoG 比使用 GPT-4 的 ToG 高出 23.9%。
-
-##### **UniMTS: Unified Pre-training for Motion Time Series**
-2410.19818v1 by Xiyuan Zhang, Diyan Teng, Ranak Roy Chowdhury, Shuheng Li, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-
-Motion time series collected from mobile and wearable devices such as
-smartphones and smartwatches offer significant insights into human behavioral
-patterns, with wide applications in healthcare, automation, IoT, and AR/XR due
-to their low-power, always-on nature. However, given security and privacy
-concerns, building large-scale motion time series datasets remains difficult,
-preventing the development of pre-trained models for human activity analysis.
-Typically, existing models are trained and tested on the same dataset, leading
-to poor generalizability across variations in device location, device mounting
-orientation and human activity type. In this paper, we introduce UniMTS, the
-first unified pre-training procedure for motion time series that generalizes
-across diverse device latent factors and activities. Specifically, we employ a
-contrastive learning framework that aligns motion time series with text
-descriptions enriched by large language models. This helps the model learn the
-semantics of time series to generalize across activities. Given the absence of
-large-scale motion time series data, we derive and synthesize time series from
-existing motion skeleton data with all-joint coverage. Spatio-temporal graph
-networks are utilized to capture the relationships across joints for
-generalization across different device locations. We further design
-rotation-invariant augmentation to make the model agnostic to changes in device
-mounting orientations. Our model shows exceptional generalizability across 18
-motion time series classification benchmark datasets, outperforming the best
-baselines by 340% in the zero-shot setting, 16.3% in the few-shot setting, and
-9.2% in the full-shot setting.
-
-摘要：從智慧型手機與智慧型手錶等行動裝置和穿戴式裝置收集的動作時間序列，由於其低耗電、持續運作的特性，可提供人類行為模式的重要見解，在醫療保健、自動化、物聯網和 AR/XR 中有廣泛的應用。然而，考量到安全性和隱私問題，建構大規模的動作時間序列資料集仍然困難，阻礙了人類活動分析預先訓練模型的發展。一般來說，現有的模型會在同一個資料集上訓練和測試，導致無法對裝置位置、裝置安裝方向和人類活動類型的變化進行良好的概化。在本文中，我們介紹 UniMTS，這是第一個統一的動作時間序列預訓練程序，可概化到不同的裝置潛在因子和活動。具體來說，我們採用對比學習架構，將動作時間序列與大型語言模型豐富的文字描述對齊。這有助於模型學習時間序列的語義，以概化到各種活動。由於缺乏大規模的動作時間序列資料，我們從現有的動作骨架資料中衍生和合成時間序列，並涵蓋所有關節。時空圖形網路用於擷取關節之間的關係，以概化到不同的裝置位置。我們進一步設計了旋轉不變增強，讓模型不會受裝置安裝方向變化的影響。我們的模型在 18 個動作時間序列分類基準資料集上展現出卓越的概化能力，在零次學習設定中優於最佳基準 340%，在少次學習設定中優於最佳基準 16.3%，在全次學習設定中優於最佳基準 9.2%。
-
-##### **Supervised Chain of Thought**
-2410.14198v1 by Xiang Zhang, Dujian Ding
-
-Large Language Models (LLMs) have revolutionized natural language processing
-and hold immense potential for advancing Artificial Intelligence. However, the
-core architecture of most mainstream LLMs -- the Transformer -- has inherent
-limitations in computational depth, rendering them theoretically incapable of
-solving many reasoning tasks that demand increasingly deep computations. Chain
-of Thought (CoT) prompting has emerged as a technique to address these
-architectural limitations, as evidenced by several theoretical studies. It
-offers a promising approach to solving complex reasoning tasks that were
-previously beyond the capabilities of these models. Despite its successes, CoT
-and its variants (such as Tree of Thought, Graph of Thought, etc.) rely on a
-"one-prompt-for-all" approach, using a single prompt structure (e.g., "think
-step by step") for a wide range of tasks -- from counting and sorting to
-solving mathematical and algorithmic problems. This approach poses significant
-challenges for models to generate the correct reasoning steps, as the model
-must navigate through a vast prompt template space to find the appropriate
-template for each task. In this work, we build upon previous theoretical
-analyses of CoT to demonstrate how the one-prompt-for-all approach can
-negatively affect the computability of LLMs. We partition the solution search
-space into two: the prompt space and the answer space. Our findings show that
-task-specific supervision is essential for navigating the prompt space
-accurately and achieving optimal performance. Through experiments with
-state-of-the-art LLMs, we reveal a gap in reasoning performance when
-supervision is applied versus when it is not.
-
-摘要：大型語言模型 (LLM) 徹底改變了自然語言處理，並具備促進人工智慧發展的巨大潛力。然而，大多數主流 LLM 的核心架構（Transformer）在計算深度方面有其內在限制，理論上無法解決許多需要越來越深入計算的推理任務。思維鏈 (CoT) 提示已成為解決這些架構限制的一種技術，這已由幾項理論研究證實。它提供了一個有前途的方法來解決複雜的推理任務，這些任務以前超出了這些模型的能力。儘管取得了成功，CoT 及其變體（例如思維樹、思維圖等）依賴於「一提示適用所有」的方法，對各種任務（從計數和排序到解決數學和演算法問題）使用單一的提示結構（例如，「逐步思考」）。這種方法對模型產生正確的推理步驟構成了重大挑戰，因為模型必須在廣泛的提示範本空間中導航，才能為每個任務找到適當的範本。在這項工作中，我們建立在 CoT 先前的理論分析之上，說明「一提示適用所有」的方法如何對 LLM 的可計算性產生負面影響。我們將解的搜尋空間分為兩部分：提示空間和答案空間。我們的研究結果表明，特定於任務的監督對於準確導航提示空間並實現最佳效能至關重要。透過使用最先進的 LLM 進行實驗，我們揭示了在應用監督與未應用監督時推理效能的差距。
-
-##### **Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**
-2410.14057v1 by Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, Yunyao Li
-
-Translating text that contains entity names is a challenging task, as
-cultural-related references can vary significantly across languages. These
-variations may also be caused by transcreation, an adaptation process that
-entails more than transliteration and word-for-word translation. In this paper,
-we address the problem of cross-cultural translation on two fronts: (i) we
-introduce XC-Translate, the first large-scale, manually-created benchmark for
-machine translation that focuses on text that contains potentially
-culturally-nuanced entity names, and (ii) we propose KG-MT, a novel end-to-end
-method to integrate information from a multilingual knowledge graph into a
-neural machine translation model by leveraging a dense retrieval mechanism. Our
-experiments and analyses show that current machine translation systems and
-large language models still struggle to translate texts containing entity
-names, whereas KG-MT outperforms state-of-the-art approaches by a large margin,
-obtaining a 129% and 62% relative improvement compared to NLLB-200 and GPT-4,
-respectively.
-
-摘要：翻譯包含實體名稱的文字是一項具有挑戰性的任務，因為與文化相關的參考在不同語言中可能會有很大差異。這些差異也可能是由轉譯造成的，轉譯是一種改編過程，不僅涉及音譯和逐字翻譯。在本文中，我們從兩個方面解決跨文化翻譯的問題：(i) 我們介紹 XC-Translate，這是第一個針對包含潛在文化細微差別實體名稱的文字的大規模、人工建立的機器翻譯基準測試，以及 (ii) 我們提出 KG-MT，這是一種新的端到端方法，通過利用密集檢索機制將來自多語言知識圖譜的資訊整合到神經機器翻譯模型中。我們的實驗和分析表明，目前的機器翻譯系統和大型語言模型在翻譯包含實體名稱的文字時仍存在困難，而 KG-MT 則以大幅優於最先進方法的優勢勝出，與 NLLB-200 和 GPT-4 相比，分別獲得了 129% 和 62% 的相對改進。
-
-##### **RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**
-2410.13987v1 by Jiatan Huang, Mingchen Li, Zonghai Yao, Zhichao Yang, Yongkang Xiao, Feiyun Ouyang, Xiaohan Li, Shuo Han, Hong Yu
-
-Answering complex real-world questions often requires accurate retrieval from
-textual knowledge graphs (TKGs). The scarcity of annotated data, along with
-intricate topological structures, makes this task particularly challenging. As
-the nature of relational path information could enhance the inference ability
-of Large Language Models (LLMs), efficiently retrieving more complex relational
-path information from TKGs presents another key challenge. To tackle these
-challenges, we first develop a Dataset for LLMs Complex Reasoning over Textual
-Knowledge Graphs (RiTeK) with a broad topological structure coverage.We
-synthesize realistic user queries that integrate diverse topological
-structures, relational information, and complex textual descriptions. We
-conduct rigorous expert evaluation to validate the quality of our synthesized
-queries. And then, we introduce an enhanced Monte Carlo Tree Search (MCTS)
-method, Relational MCTS, to automatically extract relational path information
-from textual graphs for specific queries. Our dataset mainly covers the medical
-domain as the relation types and entity are complex and publicly available.
-Experimental results indicate that RiTeK poses significant challenges for
-current retrieval and LLM systems, while the proposed Relational MCTS method
-enhances LLM inference ability and achieves state-of-the-art performance on
-RiTeK.
-
-摘要：回答複雜的現實世界問題通常需要從文本知識圖 (TKG) 中準確擷取。標註資料的稀少，加上複雜的拓撲結構，使得這項任務特別具有挑戰性。由於關係路徑資訊的性質可以增強大型語言模型 (LLM) 的推論能力，從 TKG 有效地擷取更複雜的關係路徑資訊提出了另一個關鍵挑戰。為了應對這些挑戰，我們首先開發了一個具有廣泛拓撲結構涵蓋範圍的文本知識圖 (RiTeK) 上的 LLM 複雜推理資料集。我們綜合了整合了多樣化拓撲結構、關係資訊和複雜文本描述的現實使用者查詢。我們進行嚴格的專家評估，以驗證我們綜合查詢的品質。然後，我們引入一種增強的蒙地卡羅樹搜尋 (MCTS) 方法，即關係 MCTS，以自動從文本圖中擷取特定查詢的關係路徑資訊。我們的資料集主要涵蓋醫療領域，因為關係類型和實體很複雜且公開可用。實驗結果表明，RiTeK 對目前的擷取和 LLM 系統提出了重大挑戰，而所提出的關係 MCTS 方法增強了 LLM 推論能力，並在 RiTeK 上達到了最先進的效能。
-
-##### **The Mystery of the Pathological Path-star Task for Language Models**
-2410.13779v1 by Arvid Frydenlund
-
-The recently introduced path-star task is a minimal task designed to
-exemplify limitations to the abilities of language models (Bachmann and
-Nagarajan, 2024). It involves a path-star graph where multiple arms radiate
-from a single starting node and each node is unique. Given the start node and a
-specified target node that ends an arm, the task is to generate the arm
-containing that target node. This is straightforward for a human but
-surprisingly difficult for language models, which did not outperform the random
-baseline. The authors hypothesized this is due to a deficiency in
-teacher-forcing and the next-token prediction paradigm.
-  We demonstrate the task is learnable using teacher-forcing in alternative
-settings and that the issue is partially due to representation. We introduce a
-regularization method using structured samples of the same graph but with
-differing target nodes, improving results across a variety of model types. We
-provide RASP proofs showing the task is theoretically solvable. Finally, we
-find settings where an encoder-only model can consistently solve the task.
-
-摘要：最近推出的路徑星形任務是一個極簡任務，旨在說明語言模型能力的限制（Bachmann 和 Nagarajan，2024 年）。它涉及一個路徑星形圖，其中多個分支從一個起始節點輻射出去，每個節點都是唯一的。給定起始節點和結束一個分支的指定目標節點，任務是生成包含該目標節點的分支。這對人類來說很簡單，但對語言模型來說卻異乎尋常地困難，因為語言模型並未優於隨機基準線。作者假設這是由於教師強制和下一個符號預測範例的不足。
-我們展示了該任務可以使用替代設置中的教師強制來學習，並且問題部分是由於表示。我們引入了一種正則化方法，使用同一圖形的結構化樣本，但目標節點不同，從而改進了各種模型類型的結果。我們提供了 RASP 證明，表明該任務在理論上是可以解決的。最後，我們找到了僅編碼器模型可以持續解決任務的設置。
 

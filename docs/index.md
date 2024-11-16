@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-15 20:35:59 Asia/Taipei
+ Automated deployment @ 2024-11-16 09:07:14 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
 |**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
-|**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|null|
+|**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
 |**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
 |**2024-10-19**|**Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**|Gesa Mittmann et.al.|[2410.15012v1](http://arxiv.org/abs/2410.15012v1)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910v1](http://arxiv.org/abs/2410.11910v1)|null|
@@ -2739,10 +2739,10 @@ developed to ensure safety of AI decisions and discusses future challenges.
 |**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v2](http://arxiv.org/abs/2411.08034v2)|null|
 |**2024-11-12**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013v2](http://arxiv.org/abs/2411.08013v2)|null|
 |**2024-11-12**|**DuoLift-GAN:Reconstructing CT from Single-view and Biplanar X-Rays with Generative Adversarial Networks**|Zhaoxi Zhang et.al.|[2411.07941v1](http://arxiv.org/abs/2411.07941v1)|null|
-|**2024-11-12**|**Automatic dataset shift identification to support root cause analysis of AI performance drift**|Mélanie Roschewitz et.al.|[2411.07940v2](http://arxiv.org/abs/2411.07940v2)|null|
+|**2024-11-12**|**Automatic dataset shift identification to support root cause analysis of AI performance drift**|Mélanie Roschewitz et.al.|[2411.07940v2](http://arxiv.org/abs/2411.07940v2)|[link](https://github.com/biomedia-mira/shift_identification)|
 |**2024-11-12**|**INTRABENCH: Interactive Radiological Benchmark**|Constantin Ulrich et.al.|[2411.07885v1](http://arxiv.org/abs/2411.07885v1)|null|
 |**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871v1](http://arxiv.org/abs/2411.07871v1)|null|
-|**2024-11-12**|**PatchCTG: Patch Cardiotocography Transformer for Antepartum Fetal Health Monitoring**|M. Jaleed Khan et.al.|[2411.07796v1](http://arxiv.org/abs/2411.07796v1)|[link](https://github.com/jaleedkhan/patchctg)|
+|**2024-11-12**|**PatchCTG: Patch Cardiotocography Transformer for Antepartum Fetal Health Monitoring**|M. Jaleed Khan et.al.|[2411.07796v1](http://arxiv.org/abs/2411.07796v1)|null|
 |**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611v1](http://arxiv.org/abs/2411.07611v1)|null|
 |**2024-11-12**|**Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection**|YeongHyeon Park et.al.|[2411.07546v1](http://arxiv.org/abs/2411.07546v1)|null|
 |**2024-11-11**|**Beyond Keywords: A Context-based Hybrid Approach to Mining Ethical Concern-related App Reviews**|Aakash Sorathiya et.al.|[2411.07398v1](http://arxiv.org/abs/2411.07398v1)|null|
@@ -7772,7 +7772,7 @@ real-world datasets for predicting complex axioms.
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688v1](http://arxiv.org/abs/2411.09688v1)|null|
 |**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683v1](http://arxiv.org/abs/2411.09683v1)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|null|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661v1](http://arxiv.org/abs/2411.09661v1)|null|
 |**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648v1](http://arxiv.org/abs/2411.09648v1)|null|
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642v1](http://arxiv.org/abs/2411.09642v1)|null|
@@ -7808,14 +7808,14 @@ real-world datasets for predicting complex axioms.
 |**2024-11-14**|**Re-Parameterization of Lightweight Transformer for On-Device Speech Emotion Recognition**|Zixing Zhang et.al.|[2411.09339v1](http://arxiv.org/abs/2411.09339v1)|null|
 |**2024-11-14**|**DriveThru: a Document Extraction Platform and Benchmark Datasets for Indonesian Local Language Archives**|MohammadRifqi Farhansyah et.al.|[2411.09318v1](http://arxiv.org/abs/2411.09318v1)|[link](https://github.com/ragambahasa/OCR-Correction)|
 |**2024-11-14**|**EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**|Soowon Kim et.al.|[2411.09302v1](http://arxiv.org/abs/2411.09302v1)|null|
-|**2024-11-14**|**DTELS: Towards Dynamic Granularity of Timeline Summarization**|Chenlong Zhang et.al.|[2411.09297v1](http://arxiv.org/abs/2411.09297v1)|null|
+|**2024-11-14**|**DTELS: Towards Dynamic Granularity of Timeline Summarization**|Chenlong Zhang et.al.|[2411.09297v1](http://arxiv.org/abs/2411.09297v1)|[link](https://github.com/chenlong-clock/DTELS-Bench)|
 |**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289v1](http://arxiv.org/abs/2411.09289v1)|null|
 |**2024-11-14**|**Cross-Modal Consistency in Multimodal Large Language Models**|Xiang Zhang et.al.|[2411.09273v1](http://arxiv.org/abs/2411.09273v1)|null|
 |**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269v1](http://arxiv.org/abs/2411.09269v1)|null|
 |**2024-11-14**|**How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception**|Sahibzada Adil Shahzad et.al.|[2411.09266v1](http://arxiv.org/abs/2411.09266v1)|null|
 |**2024-11-14**|**Automating Autograding: Large Language Models as Test Suite Generators for Introductory Programming**|Umar Alkafaween et.al.|[2411.09261v1](http://arxiv.org/abs/2411.09261v1)|null|
 |**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259v1](http://arxiv.org/abs/2411.09259v1)|null|
-|**2024-11-14**|**DAHL: Domain-specific Automated Hallucination Evaluation of Long-Form Text through a Benchmark Dataset in Biomedicine**|Jean Seo et.al.|[2411.09255v1](http://arxiv.org/abs/2411.09255v1)|null|
+|**2024-11-14**|**DAHL: Domain-specific Automated Hallucination Evaluation of Long-Form Text through a Benchmark Dataset in Biomedicine**|Jean Seo et.al.|[2411.09255v1](http://arxiv.org/abs/2411.09255v1)|[link](https://github.com/seemdog/DAHL)|
 |**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251v1](http://arxiv.org/abs/2411.09251v1)|null|
 |**2024-11-14**|**Enhancing Financial Domain Adaptation of Language Models via Model Augmentation**|Kota Tanabe et.al.|[2411.09249v1](http://arxiv.org/abs/2411.09249v1)|null|
 |**2024-11-14**|**Towards Unified Neural Decoding of Perceived, Spoken and Imagined Speech from EEG Signals**|Jung-Sun Lee et.al.|[2411.09243v1](http://arxiv.org/abs/2411.09243v1)|null|
@@ -7826,7 +7826,7 @@ real-world datasets for predicting complex axioms.
 |**2024-11-14**|**Improvement and Implementation of a Speech Emotion Recognition Model Based on Dual-Layer LSTM**|Xiaoran Yang et.al.|[2411.09189v1](http://arxiv.org/abs/2411.09189v1)|null|
 |**2024-11-14**|**Dynamic technology impact analysis: A multi-task learning approach to patent citation prediction**|Youngjin Seol et.al.|[2411.09184v1](http://arxiv.org/abs/2411.09184v1)|null|
 |**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181v1](http://arxiv.org/abs/2411.09181v1)|null|
-|**2024-11-14**|**LEAP:D - A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**|Chanyeong Park et.al.|[2411.09180v1](http://arxiv.org/abs/2411.09180v1)|null|
+|**2024-11-14**|**LEAP:D -- A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**|Chanyeong Park et.al.|[2411.09180v1](http://arxiv.org/abs/2411.09180v1)|null|
 |**2024-11-14**|**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**|Bo Wang et.al.|[2411.09176v1](http://arxiv.org/abs/2411.09176v1)|null|
 |**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174v1](http://arxiv.org/abs/2411.09174v1)|null|
 |**2024-11-14**|**Towards Scalable Handwriting Communication via EEG Decoding and Latent Embedding Integration**|Jun-Young Kim et.al.|[2411.09170v1](http://arxiv.org/abs/2411.09170v1)|null|
@@ -7838,14 +7838,14 @@ real-world datasets for predicting complex axioms.
 |**2024-11-14**|**Personalized Help for Optimizing Low-Skilled Users' Strategy**|Feng Gu et.al.|[2411.09109v1](http://arxiv.org/abs/2411.09109v1)|null|
 |**2024-11-14**|**VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition**|Chenglin Li et.al.|[2411.09105v1](http://arxiv.org/abs/2411.09105v1)|null|
 |**2024-11-14**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Nari Johnson et.al.|[2411.09102v1](http://arxiv.org/abs/2411.09102v1)|null|
-|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101v1](http://arxiv.org/abs/2411.09101v1)|null|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101v1](http://arxiv.org/abs/2411.09101v1)|[link](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation)|
 |**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077v1](http://arxiv.org/abs/2411.09077v1)|[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)|
 |**2024-11-13**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073v1](http://arxiv.org/abs/2411.09073v1)|null|
 |**2024-11-13**|**Liner Shipping Network Design with Reinforcement Learning**|Utsav Dutta et.al.|[2411.09068v1](http://arxiv.org/abs/2411.09068v1)|null|
-|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065v1](http://arxiv.org/abs/2411.09065v1)|null|
+|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065v1](http://arxiv.org/abs/2411.09065v1)|[link](https://github.com/awslabs/language-model-prior-4-item-cold-start)|
 |**2024-11-13**|**Multimodal Object Detection using Depth and Image Data for Manufacturing Parts**|Nazanin Mahjourian et.al.|[2411.09062v1](http://arxiv.org/abs/2411.09062v1)|null|
 |**2024-11-13**|**SAFELOC: Overcoming Data Poisoning Attacks in Heterogeneous Federated Machine Learning for Indoor Localization**|Akhil Singampalli et.al.|[2411.09055v1](http://arxiv.org/abs/2411.09055v1)|null|
-|**2024-11-13**|**The Systems Engineering Approach in Times of Large Language Models**|Christian Cabrera et.al.|[2411.09050v1](http://arxiv.org/abs/2411.09050v1)|null|
+|**2024-11-13**|**The Systems Engineering Approach in Times of Large Language Models**|Christian Cabrera et.al.|[2411.09050v1](http://arxiv.org/abs/2411.09050v1)|[link](https://github.com/cabrerac/semi-automatic-literature-survey)|
 |**2024-11-13**|**Bridging the Visual Gap: Fine-Tuning Multimodal Models with Knowledge-Adapted Captions**|Moran Yanuka et.al.|[2411.09018v1](http://arxiv.org/abs/2411.09018v1)|null|
 |**2024-11-13**|**Cut Your Losses in Large-Vocabulary Language Models**|Erik Wijmans et.al.|[2411.09009v1](http://arxiv.org/abs/2411.09009v1)|[link](https://github.com/apple/ml-cross-entropy)|
 |**2024-11-13**|**Refusal in LLMs is an Affine Function**|Thomas Marshall et.al.|[2411.09003v1](http://arxiv.org/abs/2411.09003v1)|[link](https://github.com/eleutherai/steering-llama3)|
@@ -7999,7 +7999,7 @@ practices.
 摘要：背景：開放原始碼預訓練模型 (PTM) 和資料集為各種機器學習 (ML) 任務提供廣泛的資源，但這些資源缺乏針對軟體工程 (SE) 需求量身打造的分類。
 目標：我們將以 SE 為導向的分類應用於熱門開放原始碼 ML 儲存庫 Hugging Face (HF) 上的 PTM 和資料集，並分析 PTM 隨著時間的演變。方法：我們進行了儲存庫挖掘研究。我們從 HF API 系統性收集的 PTM 和資料集資料庫開始。我們透過分析模型和資料集卡片和元資料（例如標籤）並使用 Gemini 1.5 Pro 確認 SE 相關性來改善我們的選擇。所有分析都是可複製的，並提供公開可存取的複製套件。結果：PTM 和資料集中最常見的 SE 任務是程式碼產生，主要專注於軟體開發，而較少關注軟體管理。熱門的 PTM 和資料集主要針對軟體開發。在 ML 任務中，文字產生在 SE PTM 和資料集中最常見。自 2023 年第 2 季以來，SE 的 PTM 大幅增加。結論：本研究強調需要更廣泛的任務涵蓋範圍，以增強 ML 在 SE 實務中的整合。
 
-##### **NeuralDEM - Real-time Simulation of Industrial Particulate Flows**
+##### **NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**
 2411.09678v1 by Benedikt Alkin, Tobias Kronlachner, Samuele Papa, Stefan Pirker, Thomas Lichtenegger, Johannes Brandstetter
 
 Advancements in computing power have made it possible to numerically simulate
@@ -8248,12 +8248,12 @@ with Retrieval-Augmented Generation (RAG) to enhance automated design and
 software development in the automotive industry. We present two case studies: a
 standardization compliance chatbot and a design copilot, both utilizing RAG to
 provide accurate, context-aware responses. We evaluate four LLMs-GPT-4o,
-LLAMA3, Mistral, and Mixtral- comparing their answering accuracy and execution
-time. Our results demonstrate that while GPT-4 offers superior performance,
-LLAMA3 and Mistral also show promising capabilities for local deployment,
-addressing data privacy concerns in automotive applications. This study
-highlights the potential of RAG-augmented LLMs in improving design workflows
-and compliance in automotive engineering.
+LLAMA3, Mistral, and Mixtral -- comparing their answering accuracy and
+execution time. Our results demonstrate that while GPT-4 offers superior
+performance, LLAMA3 and Mistral also show promising capabilities for local
+deployment, addressing data privacy concerns in automotive applications. This
+study highlights the potential of RAG-augmented LLMs in improving design
+workflows and compliance in automotive engineering.
 
 摘要：在本文中，我們探討將大型語言模型 (LLM) 與檢索增強生成 (RAG) 整合，以增強汽車產業中的自動化設計和軟體開發。我們提出兩個案例研究：一個標準化合規聊天機器人和一個設計副駕駛，兩者都利用 RAG 來提供準確且符合脈絡的回應。我們評估了四個 LLM-GPT-4o、LLAMA3、Mistral 和 Mixtral，比較它們的回答準確度和執行時間。我們的結果表明，儘管 GPT-4 提供了卓越的效能，但 LLAMA3 和 Mistral 也顯示出有望用於本地部署的能力，解決了汽車應用中的資料隱私問題。這項研究強調了 RAG 增強的 LLM 在改善汽車工程中的設計工作流程和合規性的潛力。
 
@@ -9285,7 +9285,7 @@ illustrate how time information indeed helps identifying noisy edges.
 
 摘要：由於難以取得大規模的明確使用者回饋，隱含回饋（例如，點擊或其他互動）廣泛用作資料的替代來源，其中使用者與項目互動可以建模為二部圖。由於隱含的真實世界使用者與項目互動的雜訊和偏差性質，識別和修正雜訊互動對於增強模型效能和穩健性至關重要。先前在協同過濾中淨化使用者與項目互動的研究，主要集中在探勘使用者／項目嵌入與雜訊互動之間的關聯性，忽略了時間模式在決定雜訊互動中的好處。時間資訊在增強模型效用的同時，在幫助確定雜訊邊緣方面也具有其自然優勢，例如，如果某人通常在晚上看恐怖片，在早上看談話性節目，那麼在早上觀看恐怖片的記錄更有可能是雜訊互動。根據此觀察，我們引入了一種簡單但有效的機制來產生時間感知使用者／項目嵌入，並提出了兩種策略，用於在推薦系統中對二部時間圖進行去雜訊（DeBaTeR）：第一個是透過重新加權鄰接矩陣（DeBaTeR-A），其中定義了一個可靠性分數，透過軟指派和硬指派重新加權邊緣；第二個是透過重新加權損失函數（DeBaTeR-L），其中產生權重以重新加權損失中的使用者與項目樣本。已進行廣泛的實驗，以證明我們方法的有效性，並說明時間資訊確實有助於識別雜訊邊緣。
 
-##### **LEAP:D - A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**
+##### **LEAP:D -- A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**
 2411.09180v1 by Chanyeong Park, Heegwang Kim, Joonki Paik
 
 Drone-captured images present significant challenges in object detection due

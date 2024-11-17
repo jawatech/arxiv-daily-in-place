@@ -84,7 +84,6 @@
 |**2024-11-13**|**Bridging the Visual Gap: Fine-Tuning Multimodal Models with Knowledge-Adapted Captions**|Moran Yanuka et.al.|[2411.09018v1](http://arxiv.org/abs/2411.09018v1)|null|
 |**2024-11-13**|**Cut Your Losses in Large-Vocabulary Language Models**|Erik Wijmans et.al.|[2411.09009v1](http://arxiv.org/abs/2411.09009v1)|[link](https://github.com/apple/ml-cross-entropy)|
 |**2024-11-13**|**Refusal in LLMs is an Affine Function**|Thomas Marshall et.al.|[2411.09003v1](http://arxiv.org/abs/2411.09003v1)|[link](https://github.com/eleutherai/steering-llama3)|
-|**2024-11-13**|**Virtual teaching assistant for undergraduate students using natural language processing & deep learning**|Sadman Jashim Sakib et.al.|[2411.09001v1](http://arxiv.org/abs/2411.09001v1)|null|
 |**2024-11-13**|**IDCIA: Immunocytochemistry Dataset for Cellular Image Analysis**|Abdurahman Ali Mohammed et.al.|[2411.08992v1](http://arxiv.org/abs/2411.08992v1)|[link](https://github.com/isu-nrt-d4/cell-analysis)|
 |**2024-11-13**|**CoCoP: Enhancing Text Classification with LLM through Code Completion Prompt**|Mohammad Mahdi Mohajeri et.al.|[2411.08979v1](http://arxiv.org/abs/2411.08979v1)|null|
 |**2024-11-13**|**Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness**|Shayan Alipour et.al.|[2411.08977v1](http://arxiv.org/abs/2411.08977v1)|null|
@@ -102,6 +101,7 @@
 |**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790v1](http://arxiv.org/abs/2411.08790v1)|[link](https://github.com/harrymayne/sv_interpretability)|
 |**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785v1](http://arxiv.org/abs/2411.08785v1)|null|
 |**2024-11-13**|**Sharingan: Extract User Action Sequence from Desktop Recordings**|Yanting Chen et.al.|[2411.08768v1](http://arxiv.org/abs/2411.08768v1)|null|
+|**2024-11-13**|**SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate**|Yifei Jin et.al.|[2411.08767v1](http://arxiv.org/abs/2411.08767v1)|null|
 
 #### Abstracts
 ##### **On the Surprising Effectiveness of Attention Transfer for Vision Transformers**
@@ -2065,26 +2065,6 @@ available at https://github.com/EleutherAI/steering-llama3 .
 
 摘要：我們提出仿射概念編輯 (ACE)，作為一種透過直接介入激勵來引導語言模型行為的方法。我們從模型激勵向量的仿射分解開始，並顯示出引導模型行為的先前方法對應於此分解的子集。然後，我們提供 ACE 的推導，並使用 Llama 3 8B 和 Hermes Eagle RWKV v5 對拒絕進行測試。ACE 最終結合仿射子空間投影和激勵加法，以可靠地控制模型在提示類型中的拒絕回應。我們使用基於 LLM 的評分對有害和無害提示的集合進行評估。我們的實驗表明，ACE 持續對模型行為實現更精確的控制，並推廣到僅透過仿射子空間投影進行方向性消融會產生不連貫輸出的模型。可用於重現我們結果的程式碼位於 https://github.com/EleutherAI/steering-llama3。
 
-##### **Virtual teaching assistant for undergraduate students using natural language processing & deep learning**
-2411.09001v1 by Sadman Jashim Sakib, Baktiar Kabir Joy, Zahin Rydha, Md. Nuruzzaman, Annajiat Alim Rasel
-
-Online education's popularity has been continuously increasing over the past
-few years. Many universities were forced to switch to online education as a
-result of COVID-19. In many cases, even after more than two years of online
-instruction, colleges were unable to resume their traditional classroom
-programs. A growing number of institutions are considering blended learning
-with some parts in-person and the rest of the learning taking place online.
-Nevertheless, many online education systems are inefficient, and this results
-in a poor rate of student retention. In this paper, we are offering a primary
-dataset, the initial implementation of a virtual teaching assistant named
-VTA-bot, and its system architecture. Our primary implementation of the
-suggested system consists of a chatbot that can be queried about the content
-and topics of the fundamental python programming language course. Students in
-their first year of university will be benefited from this strategy, which aims
-to increase student participation and involvement in online education.
-
-摘要：線上教育的普及率在過去幾年持續增加。許多大學因 COVID-19 而被迫轉為線上授課。在許多情況下，即使在超過兩年的線上教學後，學院仍無法恢復傳統的教室課程。越來越多的機構正在考慮混合式學習，部分課程親自授課，其餘的課程則在線上進行。儘管如此，許多線上教育系統效率低下，導致學生的留存率很差。在本文中，我們提供了一個主要資料集、一個名為 VTA-bot 的虛擬教學助理的初始實作，以及其系統架構。我們建議系統的主要實作包含一個聊天機器人，可以查詢有關基本 python 程式語言課程的內容和主題。這項策略旨在提高學生的參與度和投入度，將使大學一年級的學生受益。
-
 ##### **IDCIA: Immunocytochemistry Dataset for Cellular Image Analysis**
 2411.08992v1 by Abdurahman Ali Mohammed, Catherine Fonder, Donald S. Sakaguchi, Wallapak Tavanapong, Surya K. Mallapragada, Azeez Idris
 
@@ -2460,4 +2440,27 @@ recordings, contributing new methods, benchmarks, and insights for future
 research.
 
 摘要：使用者活動的影片錄製，特別是桌面錄製，提供了豐富的資料來源，可用於了解使用者行為並自動化流程。然而，儘管視覺語言模型 (VLM) 有所進步，且在影片分析中使用越來越廣泛，從桌面錄製中擷取使用者動作仍然是一個尚未充分探討的領域。本文透過提出兩種基於 VLM 的使用者動作擷取新穎方法來解決這個問題：直接基於畫面的方法 (DF)，它將取樣的畫面直接輸入 VLM，以及差異化基於畫面的方法 (DiffF)，它結合了透過電腦視覺技術偵測到的明確畫面差異。我們使用一個基本的自訂資料集和一個從先前工作中改編的高階基準來評估這些方法。我們的結果顯示，DF 方法在識別使用者動作時達到了 70% 到 80% 的準確度，而擷取的動作序列可透過機器人流程自動化重新播放。我們發現，儘管 VLM 具有潛力，但結合明確的 UI 變更可能會降低效能，使 DF 方法更可靠。這項工作代表了首次應用 VLM 從桌面錄製中擷取使用者動作序列，為未來的研究提供了新的方法、基準和見解。
+
+##### **SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate**
+2411.08767v1 by Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, Leandros Tassiulas, Rex Ying
+
+Wireless ray-tracing (RT) is emerging as a key tool for three-dimensional
+(3D) wireless channel modeling, driven by advances in graphical rendering.
+Current approaches struggle to accurately model beyond 5G (B5G) network
+signaling, which often operates at higher frequencies and is more susceptible
+to environmental conditions and changes. Existing online learning solutions
+require real-time environmental supervision during training, which is both
+costly and incompatible with GPU-based processing. In response, we propose a
+novel approach that redefines ray trajectory generation as a sequential
+decision-making problem, leveraging generative models to jointly learn the
+optical, physical, and signal properties within each designated environment.
+Our work introduces the Scene-Aware Neural Decision Wireless Channel Raytracing
+Hierarchy (SANDWICH), an innovative offline, fully differentiable approach that
+can be trained entirely on GPUs. SANDWICH offers superior performance compared
+to existing online learning methods, outperforms the baseline by 4e^-2 radian
+in RT accuracy, and only fades 0.5 dB away from toplined channel gain
+estimation.
+
+摘要：無線射線追蹤 (RT) 在圖形渲染的進步帶動下，正成為三維 (3D) 無線通道建模的一項關鍵工具。
+目前的方法難以準確建模 5G (B5G) 網路訊號之外的訊號，而這些訊號通常以更高的頻率運作，且更容易受到環境條件和變化的影響。現有的線上學習解決方案需要在訓練期間進行即時的環境監控，這既昂貴又不相容於基於 GPU 的處理。為了解決這個問題，我們提出了一種新穎的方法，將射線軌跡生成重新定義為一個順序決策問題，利用生成模型來共同學習每個指定環境中的光學、物理和訊號特性。我們的研究引入了場景感知神經決策無線通道射線追蹤階層 (SANDWICH)，這是一種創新的離線、完全可微分的做法，可以在 GPU 上完全訓練。與現有的線上學習方法相比，SANDWICH 提供了卓越的效能，在 RT 精確度上優於基準 4e^-2 弧度，且僅在頂線通道增益估計中衰減 0.5 dB。
 

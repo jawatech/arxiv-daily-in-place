@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v1](http://arxiv.org/abs/2411.10446v1)|null|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371v1](http://arxiv.org/abs/2411.10371v1)|null|
+|**2024-11-15**|**Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**|Md. Asif Haider et.al.|[2411.10129v1](http://arxiv.org/abs/2411.10129v1)|null|
+|**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978v1](http://arxiv.org/abs/2411.09978v1)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
 |**2024-11-14**|**Automating Reformulation of Essence Specifications via Graph Rewriting**|Ian Miguel et.al.|[2411.09576v1](http://arxiv.org/abs/2411.09576v1)|null|
 |**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v1](http://arxiv.org/abs/2411.08449v1)|null|
@@ -27,7 +31,7 @@
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|
-|**2024-11-04**|**Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v1](http://arxiv.org/abs/2411.02591v1)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
+|**2024-11-04**|**Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**|Harshavardhana T. Gowda et.al.|[2411.02591v2](http://arxiv.org/abs/2411.02591v2)|[link](https://github.com/HarshavardhanaTG/geometryOfOrofacialNeuromuscularSystem)|
 |**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v2](http://arxiv.org/abs/2411.02540v2)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382v1](http://arxiv.org/abs/2411.02382v1)|null|
 |**2024-11-04**|**QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain**|Qikai Wei et.al.|[2411.08724v1](http://arxiv.org/abs/2411.08724v1)|null|
@@ -98,12 +102,101 @@
 |**2024-10-20**|**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**|Bo Pan et.al.|[2410.15268v1](http://arxiv.org/abs/2410.15268v1)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165v1](http://arxiv.org/abs/2410.15165v1)|null|
 |**2024-10-19**|**MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science**|Junho Kim et.al.|[2410.15126v1](http://arxiv.org/abs/2410.15126v1)|null|
-|**2024-10-19**|**Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models**|Qitan Lv et.al.|[2410.15116v1](http://arxiv.org/abs/2410.15116v1)|null|
-|**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
-|**2024-10-19**|**LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model**|Tianqianjin Lin et.al.|[2410.14961v1](http://arxiv.org/abs/2410.14961v1)|null|
-|**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571v1](http://arxiv.org/abs/2410.14571v1)|null|
 
 #### Abstracts
+##### **VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**
+2411.10446v1 by Daniel Ekpo, Mara Levy, Saksham Suri, Chuong Huynh, Abhinav Shrivastava
+
+Recent advancements in vision-language models (VLMs) offer potential for
+robot task planning, but challenges remain due to VLMs' tendency to generate
+incorrect action sequences. To address these limitations, we propose VeriGraph,
+a novel framework that integrates VLMs for robotic planning while verifying
+action feasibility. VeriGraph employs scene graphs as an intermediate
+representation, capturing key objects and spatial relationships to improve plan
+verification and refinement. The system generates a scene graph from input
+images and uses it to iteratively check and correct action sequences generated
+by an LLM-based task planner, ensuring constraints are respected and actions
+are executable. Our approach significantly enhances task completion rates
+across diverse manipulation scenarios, outperforming baseline methods by 58%
+for language-based tasks and 30% for image-based tasks.
+
+摘要：最近在視覺語言模型 (VLM) 的進步為機器人任務規劃提供了可能性，但由於 VLM 容易產生不正確的動作序列，因此挑戰仍然存在。為了解決這些限制，我們提出了 VeriGraph，一個將 VLM 整合到機器人規劃中的創新架構，同時驗證動作的可行性。VeriGraph 使用場景圖作為中間表示，捕捉關鍵物件和空間關係以改善計畫驗證和精煉。該系統從輸入影像產生場景圖，並使用它來反覆檢查和修正 LLM 基於任務規劃器產生的動作序列，確保符合約束條件且動作可執行。我們的做法大幅提升了各種操作場景中的任務完成率，在基於語言的任務中比基線方法高出 58%，在基於影像的任務中高出 30%。
+
+##### **A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**
+2411.10371v1 by Zefan Zeng, Qing Cheng, Xingchen Hu, Yuehang Si, Zhong Liu
+
+Event Causality Identification (ECI) has become a crucial task in Natural
+Language Processing (NLP), aimed at automatically extracting causalities from
+textual data. In this survey, we systematically address the foundational
+principles, technical frameworks, and challenges of ECI, offering a
+comprehensive taxonomy to categorize and clarify current research
+methodologies, as well as a quantitative assessment of existing models. We
+first establish a conceptual framework for ECI, outlining key definitions,
+problem formulations, and evaluation standards. Our taxonomy classifies ECI
+methods according to the two primary tasks of sentence-level (SECI) and
+document-level (DECI) event causality identification. For SECI, we examine
+feature pattern-based matching, deep semantic encoding, causal knowledge
+pre-training and prompt-based fine-tuning, and external knowledge enhancement
+methods. For DECI, we highlight approaches focused on event graph reasoning and
+prompt-based techniques to address the complexity of cross-sentence causal
+inference. Additionally, we analyze the strengths, limitations, and open
+challenges of each approach. We further conduct an extensive quantitative
+evaluation of various ECI methods on two benchmark datasets. Finally, we
+explore future research directions, highlighting promising pathways to overcome
+current limitations and broaden ECI applications.
+
+摘要：事件因果關係識別（ECI）已成為自然語言處理（NLP）中的一項關鍵任務，旨在從文本資料中自動提取因果關係。在本次調查中，我們系統性地探討 ECI 的基礎原理、技術框架和挑戰，提供一個全面的分類法來分類和釐清當前研究方法，以及對現有模型進行定量評估。我們首先為 ECI 建立一個概念框架，概述關鍵定義、問題表述和評估標準。我們的分類法根據句子層級（SECI）和文件層級（DECI）事件因果關係識別這兩個主要任務對 ECI 方法進行分類。對於 SECI，我們探討基於特徵模式的匹配、深度語義編碼、因果知識預訓練和基於提示的微調，以及外部知識增強方法。對於 DECI，我們重點介紹專注於事件圖形推理和基於提示的技術，以解決跨句子因果推論的複雜性。此外，我們分析了每種方法的優點、限制和開放性挑戰。我們進一步對兩種基準資料集上的各種 ECI 方法進行廣泛的定量評估。最後，我們探討未來的研究方向，重點介紹克服當前限制和擴展 ECI 應用程式的有希望的途徑。
+
+##### **Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**
+2411.10129v1 by Md. Asif Haider, Ayesha Binte Mostofa, Sk. Sabit Bin Mosaddek, Anindya Iqbal, Toufique Ahmed
+
+Generating accurate code review comments remains a significant challenge due
+to the inherently diverse and non-unique nature of the task output. Large
+language models pretrained on both programming and natural language data tend
+to perform well in code-oriented tasks. However, large-scale pretraining is not
+always feasible due to its environmental impact and project-specific
+generalizability issues. In this work, first we fine-tune open-source Large
+language models (LLM) in parameter-efficient, quantized low-rank (QLoRA)
+fashion on consumer-grade hardware to improve review comment generation. Recent
+studies demonstrate the efficacy of augmenting semantic metadata information
+into prompts to boost performance in other code-related tasks. To explore this
+in code review activities, we also prompt proprietary, closed-source LLMs
+augmenting the input code patch with function call graphs and code summaries.
+Both of our strategies improve the review comment generation performance, with
+function call graph augmented few-shot prompting on the GPT-3.5 model
+surpassing the pretrained baseline by around 90% BLEU-4 score on the
+CodeReviewer dataset. Moreover, few-shot prompted Gemini-1.0 Pro, QLoRA
+fine-tuned Code Llama and Llama 3.1 models achieve competitive results (ranging
+from 25% to 83% performance improvement) on this task. An additional human
+evaluation study further validates our experimental findings, reflecting
+real-world developers' perceptions of LLM-generated code review comments based
+on relevant qualitative metrics.
+
+摘要：<paragraph>產生準確的程式碼審查評論仍然是一個重大挑戰，因為任務輸出的本質上是多樣且非獨特的。在程式設計和自然語言資料上進行預訓練的大型語言模型往往在以程式碼為導向的任務中表現良好。然而，由於其對環境的影響和專案特定的一般化問題，大規模預訓練並非總是可行的。在這項工作中，我們首先在參數有效、量化的低秩 (QLoRA) 方式中微調開源大型語言模型 (LLM)，在消費級硬體上改善審查評論的產生。最近的研究證明了在提示中增加語義元資料資訊以提升其他與程式碼相關任務中效能的功效。為了在程式碼審查活動中探索這一點，我們也提示專有的、閉源 LLM，使用函數呼叫圖和程式碼摘要來增加輸入程式碼修補程式。我們的兩種策略都改善了審查評論產生的效能，在 GPT-3.5 模型上使用函數呼叫圖增加的少量提示，在 CodeReviewer 資料集上超越了預訓練基準，BLEU-4 分數提高了約 90%。此外，少量提示的 Gemini-1.0 Pro、QLoRA 微調的 Code Llama 和 Llama 3.1 模型在此任務上達到了有競爭力的結果（效能提升範圍為 25% 至 83%）。額外的使用者評估研究進一步驗證了我們的實驗結果，反映了實際開發人員對 LLM 產生的程式碼審查評論的看法，這些看法基於相關的定性指標。</paragraph>
+
+##### **HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**
+2411.09978v1 by Yifan Zeng
+
+This paper proposes HistoLens, a multi-layered analysis framework for
+historical texts based on Large Language Models (LLMs). Using the important
+Western Han dynasty text "Yantie Lun" as a case study, we demonstrate the
+framework's potential applications in historical research and education.
+HistoLens integrates NLP technology (especially LLMs), including named entity
+recognition, knowledge graph construction, and geographic information
+visualization. The paper showcases how HistoLens explores Western Han culture
+in "Yantie Lun" through multi-dimensional, visual, and quantitative methods,
+focusing particularly on the influence of Confucian and Legalist thoughts on
+political, economic, military, and ethnic. We also demonstrate how HistoLens
+constructs a machine teaching scenario using LLMs for explainable analysis,
+based on a dataset of Confucian and Legalist ideas extracted with LLM
+assistance. This approach offers novel and diverse perspectives for studying
+historical texts like "Yantie Lun" and provides new auxiliary tools for history
+education. The framework aims to equip historians and learners with
+LLM-assisted tools to facilitate in-depth, multi-layered analysis of historical
+texts and foster innovation in historical education.
+
+摘要：本文提出 HistoLens，一個基於大型語言模型 (LLM) 的多層分析架構，用於歷史文本。使用重要的西漢王朝文本「鹽鐵論」作為個案研究，我們展示了該架構在歷史研究和教育中的潛在應用。HistoLens 整合了 NLP 技術（尤其是 LLM），包括命名實體識別、知識圖譜建構和地理資訊視覺化。本文展示了 HistoLens 如何透過多維度、視覺化和量化方法探索「鹽鐵論」中的西漢文化，特別關注儒家和法家思想對政治、經濟、軍事和種族的影響。我們還展示了 HistoLens 如何建構一個使用 LLM 的機器教學場景，以進行可解釋分析，這是基於 LLM 協助提取的儒家和法家思想資料集。這種方法為研究「鹽鐵論」等歷史文本提供了新穎且多樣化的觀點，並為歷史教育提供了新的輔助工具。該架構旨在為歷史學家和學習者提供 LLM 協助的工具，以利於深入、多層次地分析歷史文本，並促進歷史教育的創新。
+
 ##### **Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**
 2411.09601v1 by Cogan Shimizu, Pascal Hitzler
 
@@ -685,7 +778,7 @@ performances on the ScienceQA dataset.
 摘要：現有的多模態大型語言模型 (MLLM) 和視覺語言預訓練模型 (VLPM) 在一般的視覺問答 (VQA) 中展現了卓越的表現。然而，這些模型在需要外部常識知識的 VQA 問題上會遇到困難，原因在於產生高品質提示的挑戰以及微調的高運算成本。在這項工作中，我們提出了一個新穎的基於圖形的模態常識知識萃取架構，透過圖形卷積網路 (GCN) 在常識知識、視覺物件和問題上建構一個統一的關聯圖形，遵循師生環境。這個提出的架構對於任何類型的教師和學生模型都具有彈性，無需進一步微調，並在 ScienceQA 資料集上取得了有競爭力的表現。
 
 ##### **Geometry of orofacial neuromuscular signals: speech articulation decoding using surface electromyography**
-2411.02591v1 by Harshavardhana T. Gowda, Zachary D. McNaughton, Lee M. Miller
+2411.02591v2 by Harshavardhana T. Gowda, Zachary D. McNaughton, Lee M. Miller
 
 Each year, millions of individuals lose the ability to speak intelligibly due
 to causes such as neuromuscular disease, stroke, trauma, and head/neck cancer
@@ -711,7 +804,7 @@ decoded using small neural networks which can be trained with little data and
 that such architectures work well across individuals. To ensure transparency
 and reproducibility, we open-source all the data and codes used in this study.
 
-摘要：每年，數百萬人因為神經肌肉疾病、中風、創傷和頭頸癌手術（例如喉切除術）或治療（例如放射治療對言語發音器官的毒性）等原因而失去清晰說話的能力。有效的溝通對於日常生活至關重要，而失去說話能力會導致孤立、沮喪、焦慮和一系列有害的後遺症。非侵入性表面肌電圖 (sEMG) 已顯示出恢復這些人說話輸出的希望。目標是從多個發音部位收集 sEMG 信號，因為人們在無聲地發出言語，然後解碼信號以實現流利和自然的溝通。目前，許多與言語發音有關的顏面神經肌肉信號的基本特性仍然沒有得到解答。它們包括與 1) 顏面 sEMG 信號的數據結構、2) sEMG 在個體間的信號分佈轉移、3) sEMG 信號在無聲言語發音過程中跨越整個英語語言音標空間的能力以及 4) 基於非侵入性 sEMG 的無聲言語介面的概括能力相關的問題。我們通過一系列涉及健康人類受試者的實驗來解決這些問題。我們表明 sEMG 信號證明圖數據結構，並且信號分佈轉移是由基變化的給出。此外，我們表明使用可以通過少量數據訓練的小神經網路可以解碼跨越整個英語語言音標空間的無聲發音，並且此類架構在不同個體之間運行良好。為了確保透明度和可重現性，我們公開了本研究中使用的所有數據和代碼。
+摘要：每年，數百萬人因神經肌肉疾病、中風、創傷、頭頸癌手術（例如喉切除術）或治療（例如放射治療對言語構音器官的毒性）而失去清晰說話的能力。有效的溝通對於日常活動至關重要，而失去說話的能力會導致孤立、沮喪、焦慮和一系列有害的後遺症。非侵入性表面肌電圖 (sEMG) 已顯示出恢復這些人說話輸出的希望。目標是從多個構音部位收集 sEMG 信號，因為人們在無聲地發音，然後解碼信號以實現流利而自然的溝通。目前，許多與言語構音有關的面部神經肌肉信號的基本特性仍未得到解答。它們包括與 1) 面部 sEMG 信號的數據結構、2) sEMG 在個人之間的信號分佈轉移、3) sEMG 信號在無聲言語構音過程中跨越整個英語語音空間的能力以及 4) 基於非侵入性 sEMG 的無聲言語介面的泛化能力相關的問題。我們通過一系列涉及健康人類受試者的實驗來解決這些問題。我們表明 sEMG 信號表現出圖數據結構，並且信號分佈轉移是由基變化的給出的。此外，我們表明，使用可以通過少量數據訓練的小神經網路可以解碼跨越整個英語語音空間的無聲發音，並且這種架構在不同個體之間都能很好地工作。為了確保透明度和可複製性，我們公開了本研究中使用的所有數據和代碼。
 
 ##### **GraphXAIN: Narratives to Explain Graph Neural Networks**
 2411.02540v2 by Mateusz Cedro, David Martens
@@ -2427,94 +2520,4 @@ compared to the existing adaptation methods, thereby highlighting its broad
 applicability across a wide spectrum of materials science.
 
 摘要：我們介紹了一種新穎的持續預訓練方法，MELT（MatEriaLs-aware持續預訓練），專門設計用於有效地調整材料科學的預訓練語言模型 (PLM)。與先前僅專注於建構特定領域語料庫的調整策略不同，MELT 全面考慮語料庫和訓練策略，因為材料科學語料庫具有不同於其他領域的特徵。為此，我們首先通過建立語義圖從科學語料庫構建一個全面的材料知識庫。利用提取的知識，我們將課程整合到調整過程中，從熟悉且通用的概念開始，逐漸轉向更專業的術語。我們在不同的基準上進行了廣泛的實驗，以驗證 MELT 的有效性和普遍性。全面的評估令人信服地支持了 MELT 的優點，與現有的持續預訓練方法相比，表現出優異的性能。深入分析還表明，與現有的調整方法相比，MELT 能讓 PLM 有效地表示材料實體，從而突顯其在廣泛的材料科學領域中的廣泛適用性。
-
-##### **Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models**
-2410.15116v1 by Qitan Lv, Jie Wang, Hanzhu Chen, Bin Li, Yongdong Zhang, Feng Wu
-
-Generation of plausible but incorrect factual information, often termed
-hallucination, has attracted significant research interest. Retrieval-augmented
-language model (RALM) -- which enhances models with up-to-date knowledge --
-emerges as a promising method to reduce hallucination. However, existing RALMs
-may instead exacerbate hallucination when retrieving lengthy contexts. To
-address this challenge, we propose COFT, a novel
-\textbf{CO}arse-to-\textbf{F}ine highligh\textbf{T}ing method to focus on
-different granularity-level key texts, thereby avoiding getting lost in lengthy
-contexts. Specifically, COFT consists of three components: \textit{recaller},
-\textit{scorer}, and \textit{selector}. First, \textit{recaller} applies a
-knowledge graph to extract potential key entities in a given context. Second,
-\textit{scorer} measures the importance of each entity by calculating its
-contextual weight. Finally, \textit{selector} selects high contextual weight
-entities with a dynamic threshold algorithm and highlights the corresponding
-paragraphs, sentences, or words in a coarse-to-fine manner. Extensive
-experiments on the knowledge hallucination benchmark demonstrate the
-effectiveness of COFT, leading to a superior performance over $30\%$ in the F1
-score metric. Moreover, COFT also exhibits remarkable versatility across
-various long-form tasks, such as reading comprehension and question answering.
-
-摘要：生成看似合理但实际上不正确的实际信息（通常称为幻觉）引起了重要的研究兴趣。检索增强语言模型 (RALM) 通过为模型提供最新的知识来增强模型，这是一种有前途的方法，可以减少幻觉。然而，现有的 RALM 在检索冗长的上下文时可能会加剧幻觉。为了应对这一挑战，我们提出了 COFT，一种新颖的\textbf{粗}到\textbf{细}高亮\textbf{T}ing 方法，专注于不同粒度级别的关键文本，从而避免在冗长的上下文中迷失。具体来说，COFT 由三个组件组成：\textit{recaller}、\textit{scorer} 和 \textit{selector}。首先，\textit{recaller} 应用知识图谱来提取给定上下文中潜在的关键实体。其次，\textit{scorer} 通过计算每个实体的上下文权重来衡量其重要性。最后，\textit{selector} 使用动态阈值算法选择具有高上下文权重的实体，并以粗到细的方式突出显示相应的段落、句子或单词。在知识幻觉基准上的广泛实验证明了 COFT 的有效性，在 F1 分数指标上取得了超过 30% 的卓越性能。此外，COFT 在各种长篇任务中也表现出卓越的多功能性，例如阅读理解和问题解答。
-
-##### **A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**
-2410.15064v1 by George Hannah, Rita T. Sousa, Ioannis Dasoulas, Claudia d'Amato
-
-With the recent surge in popularity of Large Language Models (LLMs), there is
-the rising risk of users blindly trusting the information in the response, even
-in cases where the LLM recommends actions that have potential legal
-implications and this may put the user in danger. We provide an empirical
-analysis on multiple existing LLMs showing the urgency of the problem. Hence,
-we propose a short-term solution consisting in an approach for isolating these
-legal issues through prompt re-engineering. We further analyse the outcomes but
-also the limitations of the prompt engineering based approach and we highlight
-the need of additional resources for fully solving the problem We also propose
-a framework powered by a legal knowledge graph (KG) to generate legal citations
-for these legal issues, enriching the response of the LLM.
-
-摘要：隨著大型語言模型（LLM）近期流行激增，使用者盲目相信回應中資訊的風險也隨之升高，即使在 LLM 建議採取可能產生法律影響的行動時亦然，這可能會使使用者陷入危險之中。我們針對多個現有 LLM 提供實證分析，顯示此問題的急迫性。因此，我們提出一個短期解決方案，包括透過提示重新設計來孤立這些法律問題的方法。我們進一步分析提示工程方法的成果，但也分析其限制，並強調完全解決問題需要額外資源。我們還提出一個由法律知識圖譜（KG）驅動的架構，為這些法律問題產生法律引文，豐富 LLM 的回應。
-
-##### **LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model**
-2410.14961v1 by Tianqianjin Lin, Pengwei Yan, Kaisong Song, Zhuoren Jiang, Yangyang Kang, Jun Lin, Weikang Yuan, Junjie Cao, Changlong Sun, Xiaozhong Liu
-
-Graph foundation models (GFMs) have recently gained significant attention.
-However, the unique data processing and evaluation setups employed by different
-studies hinder a deeper understanding of their progress. Additionally, current
-research tends to focus on specific subsets of graph learning tasks, such as
-structural tasks, node-level tasks, or classification tasks. As a result, they
-often incorporate specialized modules tailored to particular task types, losing
-their applicability to other graph learning tasks and contradicting the
-original intent of foundation models to be universal. Therefore, to enhance
-consistency, coverage, and diversity across domains, tasks, and research
-interests within the graph learning community in the evaluation of GFMs, we
-propose GFMBench-a systematic and comprehensive benchmark comprising 26
-datasets. Moreover, we introduce LangGFM, a novel GFM that relies entirely on
-large language models. By revisiting and exploring the effective graph
-textualization principles, as well as repurposing successful techniques from
-graph augmentation and graph self-supervised learning within the language
-space, LangGFM achieves performance on par with or exceeding the state of the
-art across GFMBench, which can offer us new perspectives, experiences, and
-baselines to drive forward the evolution of GFMs.
-
-摘要：圖形基礎模型 (GFM) 近期獲得顯著的關注。
-然而，不同研究採用獨特資料處理和評估設定，阻礙了對其進展的深入理解。此外，目前的研究傾向於專注於圖形學習任務的特定子集，例如結構任務、節點層級任務或分類任務。因此，它們經常整合專門針對特定任務類型量身打造的模組，失去其對其他圖形學習任務的適用性，並與基礎模型成為通用的原始意圖相矛盾。因此，為了增強圖形學習社群在評估 GFM 時跨領域、任務和研究興趣的一致性、涵蓋範圍和多樣性，我們提出 GFMBench，這是一個包含 26 個資料集的系統化且全面的基準。此外，我們介紹 LangGFM，這是一種完全依賴大型語言模型的新穎 GFM。透過重新檢視和探索有效的圖形文字化原則，以及在語言空間中重新利用圖形擴充和圖形自監督學習的成功技術，LangGFM 在 GFMBench 上實現與現有技術同等或超越現有技術的效能，這可以為我們提供新的觀點、經驗和基準，以推動 GFM 的演進。
-
-##### **TransBox: EL++-closed Ontology Embedding**
-2410.14571v1 by Hui Yang, Jiaoyan Chen, Uli Sattler
-
-OWL (Web Ontology Language) ontologies, which are able to represent both
-relational and type facts as standard knowledge graphs and complex domain
-knowledge in Description Logic (DL) axioms, are widely adopted in domains such
-as healthcare and bioinformatics. Inspired by the success of knowledge graph
-embeddings, embedding OWL ontologies has gained significant attention in recent
-years. Current methods primarily focus on learning embeddings for atomic
-concepts and roles, enabling the evaluation based on normalized axioms through
-specially designed score functions. However, they often neglect the embedding
-of complex concepts, making it difficult to infer with more intricate axioms.
-This limitation reduces their effectiveness in advanced reasoning tasks, such
-as Ontology Learning and ontology-mediated Query Answering. In this paper, we
-propose EL++-closed ontology embeddings which are able to represent any logical
-expressions in DL via composition. Furthermore, we develop TransBox, an
-effective EL++-closed ontology embedding method that can handle many-to-one,
-one-to-many and many-to-many relations. Our extensive experiments demonstrate
-that TransBox often achieves state-of-the-art performance across various
-real-world datasets for predicting complex axioms.
-
-摘要：OWL（Web Ontology Language）本体，能够将关系和类型事实表示为标准知识图和描述逻辑 (DL) 公理中的复杂领域知识，在医疗保健和生物信息学等领域得到广泛采用。受知识图嵌入的成功启发，嵌入 OWL 本体近年来备受关注。当前方法主要集中在学习原子概念和角色的嵌入，通过专门设计的评分函数，支持基于归一化公理的评估。然而，它们经常忽略复杂概念的嵌入，这使得难以推断出更复杂的公理。这种限制降低了它们在高级推理任务（例如本体学习和本体介导查询应答）中的有效性。在本文中，我们提出了 EL++ 封闭本体嵌入，它能够通过组合来表示 DL 中的任何逻辑表达式。此外，我们开发了 TransBox，一种有效的 EL++ 封闭本体嵌入方法，可以处理多对一、一对多和多对多关系。我们广泛的实验表明，TransBox 在预测复杂公理的各种真实世界数据集上通常都能达到最先进的性能。
 

@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255v1](http://arxiv.org/abs/2411.10255v1)|null|
 |**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
 |**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
@@ -101,9 +102,31 @@
 |**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|null|
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v2](http://arxiv.org/abs/2310.01828v2)|[link](https://github.com/geoaigroup/geoai-ecrs2023)|
 |**2023-09-26**|**Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**|Muhammad Aurangzeb Ahmad et.al.|[2311.01463v1](http://arxiv.org/abs/2311.01463v1)|null|
-|**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
 
 #### Abstracts
+##### **Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**
+2411.10255v1 by Mohammed Yaseen Jabarulla, Theodor Uden, Thomas Jack, Philipp Beerbaum, Steffen Oeltze-Jafra
+
+Pediatric heart diseases present a broad spectrum of congenital and acquired
+diseases. More complex congenital malformations require a differentiated and
+multimodal decision-making process, usually including echocardiography as a
+central imaging method. Artificial intelligence (AI) offers considerable
+promise for clinicians by facilitating automated interpretation of pediatric
+echocardiography data. However, adapting AI technologies for pediatric
+echocardiography analysis has challenges such as limited public data
+availability, data privacy, and AI model transparency. Recently, researchers
+have focused on disruptive technologies, such as federated learning (FL) and
+explainable AI (XAI), to improve automatic diagnostic and decision support
+workflows. This study offers a comprehensive overview of the limitations and
+opportunities of AI in pediatric echocardiography, emphasizing the synergistic
+workflow and role of XAI and FL, identifying research gaps, and exploring
+potential future developments. Additionally, three relevant clinical use cases
+demonstrate the functionality of XAI and FL with a focus on (i) view
+recognition, (ii) disease classification, (iii) segmentation of cardiac
+structures, and (iv) quantitative assessment of cardiac function.
+
+摘要：小兒心臟疾病呈現先天性與後天性疾病的廣泛光譜。較複雜的先天性畸形需要一個差異化且多模式的決策過程，通常包括超音波檢查作為主要的影像方法。人工智慧 (AI) 為臨床醫生提供了相當大的希望，因為它可以促進小兒超音波檢查資料的自動化解讀。然而，將人工智慧技術應用於小兒超音波檢查分析有許多挑戰，例如有限的公開資料可用性、資料隱私和人工智慧模型透明度。最近，研究人員專注於破壞性技術，例如聯合學習 (FL) 和可解釋人工智慧 (XAI)，以改善自動診斷和決策支援工作流程。本研究提供了人工智慧在小兒超音波檢查中的限制和機會的全面概述，強調了 XAI 和 FL 的協同工作流程和角色，找出研究差距並探討潛在的未來發展。此外，三個相關的臨床使用案例展示了 XAI 和 FL 的功能，重點在於 (i) 檢視辨識、(ii) 疾病分類、(iii) 心臟結構分割和 (iv) 心臟功能的量化評估。
+
 ##### **Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**
 2411.00916v2 by Mehdi Hosseini Chagahi, Saeed Mohammadi Dashtaki, Niloufar Delfan, Nadia Mohammadi, Alireza Samari, Behzad Moshiri, Md. Jalil Piran, Oliver Faust
 
@@ -2695,20 +2718,4 @@ hallucinations in the context in healthcare. Lastly, we discuss how the future
 of LLMs in healthcare may look like.
 
 摘要：大型語言模型在短時間內已在多個領域中大量激增。然而，由於事實性、連貫性和幻覺等問題，醫療和保健領域對其採用猶豫不決。鑑於醫療保健的高風險性質，許多研究人員甚至警告不要使用它，直到這些問題得到解決。在醫療保健中實施和部署 LLM 的關鍵是使這些模型值得信賴、透明（盡可能多）且可解釋。在本文中，我們描述了建立可靠、值得信賴和無偏見模型的關鍵要素，作為它們在醫療保健中得到採用的必要條件。具體來說，我們專注於在醫療保健背景下對幻覺進行量化、驗證和緩解。最後，我們討論了 LLM 在醫療保健中的未來可能是什麼樣子。
-
-##### **When to Trust AI: Advances and Challenges for Certification of Neural Networks**
-2309.11196v1 by Marta Kwiatkowska, Xiyue Zhang
-
-Artificial intelligence (AI) has been advancing at a fast pace and it is now
-poised for deployment in a wide range of applications, such as autonomous
-systems, medical diagnosis and natural language processing. Early adoption of
-AI technology for real-world applications has not been without problems,
-particularly for neural networks, which may be unstable and susceptible to
-adversarial examples. In the longer term, appropriate safety assurance
-techniques need to be developed to reduce potential harm due to avoidable
-system failures and ensure trustworthiness. Focusing on certification and
-explainability, this paper provides an overview of techniques that have been
-developed to ensure safety of AI decisions and discusses future challenges.
-
-摘要：人工智慧（AI）已快速進步，現已準備部署於廣泛的應用程式中，例如自主系統、醫療診斷和自然語言處理。及早採用 AI 技術於實際應用程式並非沒有問題，特別是對於神經網路，它可能不穩定且容易受到對抗性範例的影響。從長遠來看，需要開發適當的安全保證技術，以減少因可避免的系統故障而造成的潛在傷害，並確保可信賴性。本文著重於認證和可解釋性，概述了已開發用於確保 AI 決策安全的技術，並討論未來的挑戰。
 

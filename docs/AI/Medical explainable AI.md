@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
 |**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255v1](http://arxiv.org/abs/2411.10255v1)|null|
 |**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
 |**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898v1](http://arxiv.org/abs/2410.19898v1)|null|
@@ -101,9 +102,29 @@
 |**2023-11-03**|**Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**|Emma A. M. Stanley et.al.|[2311.02115v2](http://arxiv.org/abs/2311.02115v2)|[link](https://github.com/estanley16/simba)|
 |**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|null|
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v2](http://arxiv.org/abs/2310.01828v2)|[link](https://github.com/geoaigroup/geoai-ecrs2023)|
-|**2023-09-26**|**Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**|Muhammad Aurangzeb Ahmad et.al.|[2311.01463v1](http://arxiv.org/abs/2311.01463v1)|null|
 
 #### Abstracts
+##### **Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**
+2411.11774v1 by Jeffrey N. Clark, Matthew Wragg, Emily Nielsen, Miquel Perello-Nieto, Nawid Keshtmand, Michael Ambler, Shiv Sharma, Christopher P. Bourdeaux, Amberly Brigden, Raul Santos-Rodriguez
+
+There is a growing need to understand how digital systems can support
+clinical decision-making, particularly as artificial intelligence (AI) models
+become increasingly complex and less human-interpretable. This complexity
+raises concerns about trustworthiness, impacting safe and effective adoption of
+such technologies. Improved understanding of decision-making processes and
+requirements for explanations coming from decision support tools is a vital
+component in providing effective explainable solutions. This is particularly
+relevant in the data-intensive, fast-paced environments of intensive care units
+(ICUs). To explore these issues, group interviews were conducted with seven ICU
+clinicians, representing various roles and experience levels. Thematic analysis
+revealed three core themes: (T1) ICU decision-making relies on a wide range of
+factors, (T2) the complexity of patient state is challenging for shared
+decision-making, and (T3) requirements and capabilities of AI decision support
+systems. We include design recommendations from clinical input, providing
+insights to inform future AI systems for intensive care.
+
+摘要：隨著人工智慧 (AI) 模型變得越來越複雜，且越來越難以被人理解，了解數位系統如何支援臨床決策的需求也日益增加。這種複雜性引發了對可信度的疑慮，影響了此類技術的安全且有效採用。改善對決策制定流程的理解，以及對決策支援工具所提供說明的要求，是提供有效可解釋解決方案的重要組成部分。這在資料密集、快節奏的加護病房 (ICU) 環境中特別相關。為了探討這些問題，對七位 ICU 臨床醫師進行了小組訪談，這些醫師代表了不同的角色和經驗層級。主題分析揭露了三個核心主題：(T1) ICU 決策制定依賴於廣泛的因素，(T2) 病患狀態的複雜性對共同決策制定構成挑戰，以及 (T3) AI 決策支援系統的要求和能力。我們納入了臨床輸入的設計建議，提供見解以提供資訊給未來用於加護的 AI 系統。
+
 ##### **Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**
 2411.10255v1 by Mohammed Yaseen Jabarulla, Theodor Uden, Thomas Jack, Philipp Beerbaum, Steffen Oeltze-Jafra
 
@@ -2700,22 +2721,4 @@ technique. This constitutes the first attempt to run and evaluate XAI methods
 using high-resolution satellite images.
 
 摘要：可解釋人工智慧 (XAI) 已成為處理任務關鍵應用程式時的一項基本需求，確保採用黑盒 AI 模型的透明度和可解釋性。XAI 的重要性涵蓋從醫療保健到金融的各種領域，在這些領域中，了解深度學習演算法的決策制定過程至關重要。大多數基於 AI 的電腦視覺模型通常是黑盒子；因此，在影像處理中提供深度神經網路的可解釋性對於其在醫學影像分析、自動駕駛和遙測應用中的廣泛採用和部署至關重要。最近，已針對影像分類任務引入了多種 XAI 方法。相反地，影像分割在可解釋性的背景下受到的關注相對較少，儘管它是電腦視覺應用中的一項基本任務，特別是在遙測中。只有部分研究提出用於影像分割的基於梯度的 XAI 演算法。本文改編了最近的無梯度 Sobol XAI 方法以進行語意分割。為了衡量 Sobol 方法在分割中的效能，我們提出了一種基於可學習雜訊模型的定量 XAI 評估方法。此模型的主要目的是在解釋圖上誘發雜訊，其中較高的誘發雜訊表示較低的準確度，反之亦然。進行基準分析以評估和比較三種 XAI 方法的效能，包括 Seg-Grad-CAM、Seg-Grad-CAM++ 和 Seg-Sobol，並使用所提出的基於雜訊的評估技術。這構成了使用高解析度衛星影像執行和評估 XAI 方法的首次嘗試。
-
-##### **Creating Trustworthy LLMs: Dealing with Hallucinations in Healthcare AI**
-2311.01463v1 by Muhammad Aurangzeb Ahmad, Ilker Yaramis, Taposh Dutta Roy
-
-Large language models have proliferated across multiple domains in as short
-period of time. There is however hesitation in the medical and healthcare
-domain towards their adoption because of issues like factuality, coherence, and
-hallucinations. Give the high stakes nature of healthcare, many researchers
-have even cautioned against its usage until these issues are resolved. The key
-to the implementation and deployment of LLMs in healthcare is to make these
-models trustworthy, transparent (as much possible) and explainable. In this
-paper we describe the key elements in creating reliable, trustworthy, and
-unbiased models as a necessary condition for their adoption in healthcare.
-Specifically we focus on the quantification, validation, and mitigation of
-hallucinations in the context in healthcare. Lastly, we discuss how the future
-of LLMs in healthcare may look like.
-
-摘要：大型語言模型在短時間內已在多個領域中大量激增。然而，由於事實性、連貫性和幻覺等問題，醫療和保健領域對其採用猶豫不決。鑑於醫療保健的高風險性質，許多研究人員甚至警告不要使用它，直到這些問題得到解決。在醫療保健中實施和部署 LLM 的關鍵是使這些模型值得信賴、透明（盡可能多）且可解釋。在本文中，我們描述了建立可靠、值得信賴和無偏見模型的關鍵要素，作為它們在醫療保健中得到採用的必要條件。具體來說，我們專注於在醫療保健背景下對幻覺進行量化、驗證和緩解。最後，我們討論了 LLM 在醫療保健中的未來可能是什麼樣子。
 

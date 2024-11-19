@@ -2,13 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714v1](http://arxiv.org/abs/2411.11714v1)|[link](https://github.com/mingchaoqi/skill_transfer)|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v1](http://arxiv.org/abs/2411.11531v1)|null|
+|**2024-11-17**|**RPN 2: On Interdependence Function Learning Towards Unifying and Advancing CNN, RNN, GNN, and Transformer**|Jiawei Zhang et.al.|[2411.11162v1](http://arxiv.org/abs/2411.11162v1)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v1](http://arxiv.org/abs/2411.10446v1)|null|
 |**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371v1](http://arxiv.org/abs/2411.10371v1)|null|
 |**2024-11-15**|**Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**|Md. Asif Haider et.al.|[2411.10129v1](http://arxiv.org/abs/2411.10129v1)|null|
 |**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978v1](http://arxiv.org/abs/2411.09978v1)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
 |**2024-11-14**|**Automating Reformulation of Essence Specifications via Graph Rewriting**|Ian Miguel et.al.|[2411.09576v1](http://arxiv.org/abs/2411.09576v1)|null|
-|**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v1](http://arxiv.org/abs/2411.08449v1)|null|
+|**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v2](http://arxiv.org/abs/2411.08449v2)|null|
 |**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v2](http://arxiv.org/abs/2411.08278v2)|null|
 |**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165v1](http://arxiv.org/abs/2411.08165v1)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
@@ -99,11 +102,94 @@
 |**2024-10-21**|**CausalGraph2LLM: Evaluating LLMs for Causal Queries**|Ivaxi Sheth et.al.|[2410.15939v1](http://arxiv.org/abs/2410.15939v1)|[link](https://github.com/ivaxi0s/causalgraph2llm)|
 |**2024-10-21**|**LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation**|Tejumade Afonja et.al.|[2410.15828v1](http://arxiv.org/abs/2410.15828v1)|null|
 |**2024-10-21**|**NetSafe: Exploring the Topological Safety of Multi-agent Networks**|Miao Yu et.al.|[2410.15686v1](http://arxiv.org/abs/2410.15686v1)|null|
-|**2024-10-20**|**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**|Bo Pan et.al.|[2410.15268v1](http://arxiv.org/abs/2410.15268v1)|null|
-|**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165v1](http://arxiv.org/abs/2410.15165v1)|null|
-|**2024-10-19**|**MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science**|Junho Kim et.al.|[2410.15126v1](http://arxiv.org/abs/2410.15126v1)|null|
 
 #### Abstracts
+##### **Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**
+2411.11714v1 by Mingchao Qi, Yuanjin Li, Xing Liu, Zhengxiong Liu, Panfeng Huang
+
+Deploying robots in open-world environments involves complex tasks
+characterized by long sequences and rich interactions, necessitating efficient
+transfer of robotic skills across diverse and complex scenarios. To address
+this challenge, we propose a skill library framework based on knowledge graphs,
+which endows robots with high-level skill awareness and spatial semantic
+understanding. The framework hierarchically organizes operational knowledge by
+constructing a "task graph" and a "scene graph" to represent task and scene
+semantic information, respectively. We introduce a "state graph" to facilitate
+interaction between high-level task planning and low-level scene information.
+Furthermore, we propose a hierarchical transfer framework for operational
+skills. At the task level, the framework integrates contextual learning and
+chain-of-thought prompting within a four-stage prompt paradigm, leveraging
+large language models' (LLMs) reasoning and generalization capabilities to
+achieve task-level subtask sequence transfer. At the motion level, an adaptive
+trajectory transfer method is developed using the A* algorithm and the skill
+library, enabling motion-level adaptive trajectory transfer. At the physical
+level, we introduce an adaptive contour extraction and posture perception
+method based on tactile perception. This method dynamically obtains
+high-precision contour and posture information from visual-tactile texture data
+and adjusts transferred skills, such as contact positions and postures, to
+ensure effectiveness in new environments. Experimental results validate the
+effectiveness of the proposed methods. Project
+website:https://github.com/MingchaoQi/skill_transfer
+
+摘要：<paragraph>在开放世界环境中部署机器人涉及复杂的任务，其特点是序列长、交互丰富，需要在不同且复杂的场景中高效地转移机器人技能。为了应对这一挑战，我们提出一个基于知识图谱的技能库框架，它赋予机器人高级技能意识和空间语义理解。该框架通过构建“任务图”和“场景图”来分层组织操作知识，分别表示任务和场景语义信息。我们引入一个“状态图”来促进高级任务规划和低级场景信息之间的交互。此外，我们提出了一个操作技能的分层转移框架。在任务层面，该框架在一个四阶段提示范式中集成了上下文学习和思想链提示，利用大语言模型 (LLM) 的推理和泛化能力来实现任务级子任务序列转移。在运动层面，使用 A* 算法和技能库开发了一种自适应轨迹转移方法，实现运动级自适应轨迹转移。在物理层面，我们引入了一种基于触觉感知的自适应轮廓提取和姿态感知方法。该方法从视觉触觉纹理数据中动态获取高精度的轮廓和姿态信息，并调整转移的技能，例如接触位置和姿态，以确保在新的环境中有效。实验结果验证了所提出方法的有效性。项目网站：https://github.com/MingchaoQi/skill_transfer</paragraph>
+
+##### **Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**
+2411.11531v1 by Viktoriia Chekalina, Anton Razzigaev, Elizaveta Goncharova, Andrey Kuznetsov
+
+In this paper we present an approach to reduce hallucinations in Large
+Language Models (LLMs) by incorporating Knowledge Graphs (KGs) as an additional
+modality. Our method involves transforming input text into a set of KG
+embeddings and using an adapter to integrate these embeddings into the language
+model space, without relying on external retrieval processes.
+  To facilitate this, we created WikiEntities, a dataset containing over 3
+million Wikipedia texts annotated with entities from Wikidata and their
+corresponding embeddings from PyTorch-BigGraph. This dataset serves as a
+valuable resource for training Entity Linking models and adapting the described
+method to various LLMs using specialized adapters.
+  Our method does not require fine-tuning of the language models themselves;
+instead, we only train the adapter. This ensures that the model's performance
+on other tasks is not affected. We trained an adapter for the Mistral 7B, LLaMA
+2-7B (chat), and LLaMA 3-8B (instruct) models using this dataset and
+demonstrated that our approach improves performance on the HaluEval, True-False
+benchmarks and FEVER dataset. The results indicate that incorporating KGs as a
+new modality can effectively reduce hallucinations and improve the factual
+accuracy of language models, all without the need for external retrieval.
+
+摘要：<paragraph>在本文中，我們提出了一種方法，透過將知識圖譜 (KG) 作為附加方式納入大型語言模型 (LLM)，以減少幻覺。我們的做法包括將輸入文字轉換成一組 KG 嵌入，並使用適配器將這些嵌入整合到語言模型空間，而無需依賴外部檢索程序。
+為了促進這一點，我們建立了 WikiEntities，這是一個包含超過 300 萬個維基百科文字的資料集，其中附有來自 Wikidata 的實體註解，以及它們來自 PyTorch-BigGraph 的對應嵌入。此資料集作為訓練實體連結模型和使用專門適配器將所述方法調整到各種 LLM 的寶貴資源。
+我們的做法不需要微調語言模型本身；相反，我們只訓練適配器。這確保了模型在其他任務上的效能不受影響。我們使用此資料集訓練了 Mistral 7B、LLaMA 2-7B (聊天) 和 LLaMA 3-8B (指令) 模型的適配器，並證明了我們的做法改善了 HaluEval、真假基準和 FEVER 資料集的效能。結果表明，將 KG 作為一種新方式納入可以有效減少幻覺，並提高語言模型的事實準確性，而無需外部檢索。</paragraph>
+
+##### **RPN 2: On Interdependence Function Learning Towards Unifying and Advancing CNN, RNN, GNN, and Transformer**
+2411.11162v1 by Jiawei Zhang
+
+This paper builds upon our previous work on the Reconciled Polynomial Network
+(RPN). The original RPN model was designed under the assumption of input data
+independence, presuming the independence among both individual instances within
+data batches and attributes in each data instance. However, this assumption
+often proves invalid for function learning tasks involving complex,
+interdependent data such as language, images, time series, and graphs. Ignoring
+such data interdependence may inevitably lead to significant performance
+degradation.
+  To overcome these limitations, we introduce the new Reconciled Polynomial
+Network (version 2), namely RPN 2, in this paper. By incorporating data and
+structural interdependence functions, RPN 2 explicitly models data
+interdependence via new component functions in its architecture.
+  This enhancement not only significantly improves RPN 2's learning performance
+but also substantially expands its unifying potential, enabling it to encompass
+a broader range of contemporary dominant backbone models within its canonical
+representation. These backbones include, but are not limited to, convolutional
+neural networks (CNNs), recurrent neural networks (RNNs), graph neural networks
+(GNNs), and Transformers. Our analysis reveals that the fundamental
+distinctions among these backbone models primarily stem from their diverse
+approaches to defining the interdependence functions. Furthermore, this unified
+representation opens up new opportunities for designing innovative
+architectures with the potential to surpass the performance of these dominant
+backbones.
+
+摘要：本文建立在我们先前关于协调多项式网络 (RPN) 的工作之上。最初的 RPN 模型是在输入数据独立性的假设下设计的，假定数据批次中各个实例之间的独立性以及每个数据实例中的属性之间的独立性。然而，对于涉及复杂相互依赖数据（例如语言、图像、时间序列和图形）的功能学习任务，这种假设通常被证明是无效的。忽略此类数据相互依赖性不可避免地会导致性能显着下降。
+为了克服这些限制，我们在本文中引入了新的协调多项式网络（版本 2），即 RPN 2。通过结合数据和结构相互依赖函数，RPN 2 通过其架构中的新组件函数明确地对数据相互依赖性进行建模。
+这种增强不仅显着提高了 RPN 2 的学习性能，而且还大幅扩展了其统一潜力，使其能够在其规范表示中包含更广泛的当代主干模型。这些主干包括但不限于卷积神经网络 (CNN)、循环神经网络 (RNN)、图神经网络 (GNN) 和 Transformer。我们的分析表明，这些主干模型之间的根本区别主要源于它们定义相互依赖函数的不同方法。此外，这种统一表示为设计创新架构开辟了新的机会，这些架构有可能超越这些主干的性能。
+
 ##### **VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**
 2411.10446v1 by Daniel Ekpo, Mara Levy, Saksham Suri, Chuong Huynh, Abhinav Shrivastava
 
@@ -229,7 +315,7 @@ case study.
 摘要：制定一個參數化問題類別的有效約束模型對於隨後求解該類別的實例的效率至關重要。事先很難知道一組候選模型中哪一個在實務上表現最佳。本文提出一個系統，採用圖形重寫來自動重新制定輸入模型以改善效能。透過將我們的工作置於 Essence 抽象約束規範語言中，我們可以使用其高層級變數類型中的結構來直接觸發重寫。我們透過以 Graph Programs 2 語言表示的重寫規則來實作我們的系統，應用於輸入規範的抽象語法樹。我們展示如何自動將重新制定問題的解法轉換為原始問題的解法，以進行驗證和呈現。我們透過詳細的個案研究來展示我們系統的效能。
 
 ##### **Towards Evaluating Large Language Models for Graph Query Generation**
-2411.08449v1 by Siraj Munir, Alessandro Aldini
+2411.08449v2 by Siraj Munir, Alessandro Aldini
 
 Large Language Models (LLMs) are revolutionizing the landscape of Generative
 Artificial Intelligence (GenAI), with innovative LLM-backed solutions emerging
@@ -249,7 +335,7 @@ Further, we highlight promising future research directions to address the
 identified limitations and advance LLM-driven query generation for graph
 databases.
 
-摘要：大型語言模型 (LLM) 正在革新生成式人工智能 (GenAI) 的格局，創新的 LLM 支持解決方案迅速湧現。然而，當應用於資料庫技術，特別是圖形資料庫和知識圖譜 (KG) 的查詢生成時，LLM 仍面臨重大挑戰。雖然存在針對結構化查詢語言 (SQL) 的 LLM 驅動查詢生成的相關研究，但圖形資料庫的類似系統仍未得到充分發展。本文提出了一項比較研究，以解決使用開放式 LLM 生成 Cypher 查詢的挑戰，Cypher 查詢是一種與圖形資料庫互動的強大語言。我們使用設計的少次學習提示和由思考鏈 (CoT) 推理支持的檢索擴增生成 (RAG) 嚴格評估了多個 LLM 代理（OpenAI ChatGPT 4o、Claude Sonnet 3.5、Google Gemini Pro 1.5 和本地部署的 Llama 3.1 8B）。我們對查詢生成準確性的實證分析表明，Claude Sonnet 3.5 在這個特定領域優於其他模型。此外，我們重點介紹了有希望的未來研究方向，以解決已識別的限制並推進 LLM 驅動的圖形資料庫查詢生成。
+摘要：大型語言模型 (LLM) 正在革新生成式人工智慧 (GenAI) 的領域，創新的 LLM 支持解決方案迅速湧現。然而，當應用於資料庫技術，特別是圖形資料庫和知識圖譜 (KG) 的查詢產生時，LLM 仍然面臨重大挑戰。雖然存在針對結構化查詢語言 (SQL) 的 LLM 驅動查詢產生的研究，但圖形資料庫的類似系統仍未充分發展。本文提出了一項比較研究，以解決使用開放式 LLM 產生 Cypher 查詢的挑戰，Cypher 查詢是一種用於與圖形資料庫互動的強大語言。我們使用設計的少量學習提示和由思想鏈 (CoT) 推理支持的檢索擴充生成 (RAG) 嚴格評估了多個 LLM 代理（OpenAI ChatGPT 4o、Claude Sonnet 3.5、Google Gemini Pro 1.5 和本地部署的 Llama 3.1 8B）。我們對查詢產生準確性的實證分析表明，Claude Sonnet 3.5 在這個特定領域優於其同類產品。此外，我們重點介紹了有希望的未來研究方向，以解決已識別的限制並推進 LLM 驅動的圖形資料庫查詢產生。
 
 ##### **Knowledge Bases in Support of Large Language Models for Processing Web News**
 2411.08278v2 by Yihe Zhang, Nabin Pakka, Nian-Feng Tzeng
@@ -2451,73 +2537,4 @@ several unreported phenomena, paving the way for future research to explore the
 safety of such networks.
 
 摘要：大型語言模型 (LLM) 賦予了多主體網路中的節點智慧，在學術界和產業中展現出越來越多的應用。然而，如何防止這些網路產生惡意資訊仍然是未經探索的領域，先前針對單一 LLM 安全性的研究難以轉移。在本文中，我們從拓撲學的角度探討多主體網路的安全性，研究哪些拓撲屬性有助於網路更安全。為此，我們提出了一個通用框架 NetSafe，以及一個反覆的 RelCom 互動，以統一現有的各種基於 LLM 的主體框架，為廣義的拓撲安全性研究奠定基礎。我們在多主體網路遭受涉及錯誤資訊、偏見和有害資訊的攻擊時，找出幾個關鍵現象，稱為主體幻覺和聚合安全性。此外，我們發現高度連接的網路更容易受到對抗性攻擊的影響，星形圖形拓撲中的任務效能下降了 29.7%。此外，我們提出的靜態指標比傳統的圖論指標更貼近真實世界的動態評估，這表示與攻擊者平均距離較大的網路具有更高的安全性。總之，我們的研究引入了基於 LLM 的多主體網路安全性的新拓撲觀點，並發現了幾個未曾報導的現象，為未來探索此類網路安全性的研究鋪路。
-
-##### **TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**
-2410.15268v1 by Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao
-
-Representation learning of Text-Attributed Graphs (TAGs) has garnered
-significant attention due to its applications in various domains, including
-recommendation systems and social networks. Despite advancements in TAG
-learning methodologies, challenges remain in explainability due to the
-black-box nature of existing TAG representation learning models. This paper
-presents TAGExplainer, the first method designed to generate natural language
-explanations for TAG learning. TAGExplainer employs a generative language model
-that maps input-output pairs to explanations reflecting the model's
-decision-making process. To address the lack of annotated ground truth
-explanations in real-world scenarios, we propose first generating pseudo-labels
-that capture the model's decisions from saliency-based explanations, then the
-pseudo-label generator is iteratively trained based on three training
-objectives focusing on faithfulness and brevity via Expert Iteration, to
-improve the quality of generated pseudo-labels. The high-quality pseudo-labels
-are finally utilized to train an end-to-end explanation generator model.
-Extensive experiments are conducted to demonstrate the effectiveness of
-TAGExplainer in producing faithful and concise natural language explanations.
-
-摘要：文本歸因圖 (TAG) 的表示學習因其在各種領域（包括推薦系統和社交網絡）中的應用而備受關注。儘管 TAG 學習方法取得了進展，但由於現有 TAG 表示學習模型的黑箱性質，可解釋性仍然面臨挑戰。本文提出了 TAGExplainer，這是一種旨在為 TAG 學習生成自然語言解釋的第一種方法。TAGExplainer 採用生成語言模型，將輸入輸出對應到反映模型決策過程的解釋。為了解決現實場景中缺乏註解地面真實解釋的問題，我們建議首先從基於顯著性的解釋中生成偽標籤來捕捉模型的決策，然後通過專家迭代基於三個訓練目標（側重於忠實度和簡潔性）反覆訓練偽標籤生成器，以提高生成偽標籤的品質。最後將高品質的偽標籤用於訓練端到端解釋生成器模型。進行了廣泛的實驗，以證明 TAGExplainer 在生成忠實且簡潔的自然語言解釋方面的有效性。
-
-##### **Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**
-2410.15165v1 by Yinhan He, Zaiyi Zheng, Patrick Soga, Yaozhen Zhu, yushun Dong, Jundong Li
-
-In recent years, Graph Neural Networks (GNNs) have become successful in
-molecular property prediction tasks such as toxicity analysis. However, due to
-the black-box nature of GNNs, their outputs can be concerning in high-stakes
-decision-making scenarios, e.g., drug discovery. Facing such an issue, Graph
-Counterfactual Explanation (GCE) has emerged as a promising approach to improve
-GNN transparency. However, current GCE methods usually fail to take
-domain-specific knowledge into consideration, which can result in outputs that
-are not easily comprehensible by humans. To address this challenge, we propose
-a novel GCE method, LLM-GCE, to unleash the power of large language models
-(LLMs) in explaining GNNs for molecular property prediction. Specifically, we
-utilize an autoencoder to generate the counterfactual graph topology from a set
-of counterfactual text pairs (CTPs) based on an input graph. Meanwhile, we also
-incorporate a CTP dynamic feedback module to mitigate LLM hallucination, which
-provides intermediate feedback derived from the generated counterfactuals as an
-attempt to give more faithful guidance. Extensive experiments demonstrate the
-superior performance of LLM-GCE. Our code is released on
-https://github.com/YinhanHe123/new\_LLM4GNNExplanation.
-
-摘要：近年来，图神经网络 (GNN) 已成功应用于分子性质预测任务，例如毒性分析。然而，由于 GNN 的黑盒性质，其输出在高风险决策场景中可能会令人担忧，例如药物发现。针对这一问题，图反事实解释 (GCE) 已成为提高 GNN 透明度的一种很有前景的方法。然而，当前的 GCE 方法通常无法考虑特定领域的知识，这可能导致人类难以理解输出。为了应对这一挑战，我们提出了一种新颖的 GCE 方法，LLM-GCE，以释放大型语言模型 (LLM) 在解释 GNN 用于分子性质预测方面的能力。具体来说，我们利用自动编码器从一组基于输入图的反事实文本对 (CTP) 生成反事实图拓扑。同时，我们还加入了一个 CTP 动态反馈模块来减轻 LLM 幻觉，该模块提供从生成的反事实中派生的中间反馈，以尝试提供更真实的指导。大量的实验表明了 LLM-GCE 的卓越性能。我们的代码已发布在 https://github.com/YinhanHe123/new\_LLM4GNNExplanation。
-
-##### **MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science**
-2410.15126v1 by Junho Kim, Yeachan Kim, Jun-Hyung Park, Yerim Oh, Suho Kim, SangKeun Lee
-
-We introduce a novel continued pre-training method, MELT (MatEriaLs-aware
-continued pre-Training), specifically designed to efficiently adapt the
-pre-trained language models (PLMs) for materials science. Unlike previous
-adaptation strategies that solely focus on constructing domain-specific corpus,
-MELT comprehensively considers both the corpus and the training strategy, given
-that materials science corpus has distinct characteristics from other domains.
-To this end, we first construct a comprehensive materials knowledge base from
-the scientific corpus by building semantic graphs. Leveraging this extracted
-knowledge, we integrate a curriculum into the adaptation process that begins
-with familiar and generalized concepts and progressively moves toward more
-specialized terms. We conduct extensive experiments across diverse benchmarks
-to verify the effectiveness and generality of MELT. A comprehensive evaluation
-convincingly supports the strength of MELT, demonstrating superior performance
-compared to existing continued pre-training methods. The in-depth analysis also
-shows that MELT enables PLMs to effectively represent materials entities
-compared to the existing adaptation methods, thereby highlighting its broad
-applicability across a wide spectrum of materials science.
-
-摘要：我們介紹了一種新穎的持續預訓練方法，MELT（MatEriaLs-aware持續預訓練），專門設計用於有效地調整材料科學的預訓練語言模型 (PLM)。與先前僅專注於建構特定領域語料庫的調整策略不同，MELT 全面考慮語料庫和訓練策略，因為材料科學語料庫具有不同於其他領域的特徵。為此，我們首先通過建立語義圖從科學語料庫構建一個全面的材料知識庫。利用提取的知識，我們將課程整合到調整過程中，從熟悉且通用的概念開始，逐漸轉向更專業的術語。我們在不同的基準上進行了廣泛的實驗，以驗證 MELT 的有效性和普遍性。全面的評估令人信服地支持了 MELT 的優點，與現有的持續預訓練方法相比，表現出優異的性能。深入分析還表明，與現有的調整方法相比，MELT 能讓 PLM 有效地表示材料實體，從而突顯其在廣泛的材料科學領域中的廣泛適用性。
 

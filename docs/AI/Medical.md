@@ -6,7 +6,7 @@
 |**2024-11-19**|**AI Guided Early Screening of Cervical Cancer**|Dharanidharan S I et.al.|[2411.12681v1](http://arxiv.org/abs/2411.12681v1)|null|
 |**2024-11-19**|**Deep Learning-Driven Heat Map Analysis for Evaluating thickness of Wounded Skin Layers**|Devakumar GR et.al.|[2411.12678v1](http://arxiv.org/abs/2411.12678v1)|null|
 |**2024-11-19**|**DiM: $f$-Divergence Minimization Guided Sharpness-Aware Optimization for Semi-supervised Medical Image Segmentation**|Bingli Wang et.al.|[2411.12350v1](http://arxiv.org/abs/2411.12350v1)|null|
-|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222v1](http://arxiv.org/abs/2411.12222v1)|null|
+|**2024-11-19**|**Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification**|Mingsen Du et.al.|[2411.12222v1](http://arxiv.org/abs/2411.12222v1)|[link](https://github.com/dumingsen/DPMamba)|
 |**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198v1](http://arxiv.org/abs/2411.12198v1)|null|
 |**2024-11-18**|**Medical Video Generation for Disease Progression Simulation**|Xu Cao et.al.|[2411.11943v1](http://arxiv.org/abs/2411.11943v1)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799v1](http://arxiv.org/abs/2411.11799v1)|[link](https://github.com/simonzhou86/en_dran)|
@@ -20,9 +20,9 @@
 |**2024-11-17**|**MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records**|Eric Yang et.al.|[2411.11161v1](http://arxiv.org/abs/2411.11161v1)|null|
 |**2024-11-17**|**Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**|Deepa Anand et.al.|[2411.11105v1](http://arxiv.org/abs/2411.11105v1)|null|
 |**2024-11-17**|**BianCang: A Traditional Chinese Medicine Large Language Model**|Sibo Wei et.al.|[2411.11027v1](http://arxiv.org/abs/2411.11027v1)|[link](https://github.com/qlu-nlp/biancang)|
-|**2024-11-16**|**MpoxVLM: A Vision-Language Model for Diagnosing Skin Lesions from Mpox Virus Infection**|Xu Cao et.al.|[2411.10888v1](http://arxiv.org/abs/2411.10888v1)|null|
+|**2024-11-16**|**MpoxVLM: A Vision-Language Model for Diagnosing Skin Lesions from Mpox Virus Infection**|Xu Cao et.al.|[2411.10888v1](http://arxiv.org/abs/2411.10888v1)|[link](https://github.com/IrohXu/MpoxVLM)|
 |**2024-11-16**|**A Novel Adaptive Hybrid Focal-Entropy Loss for Enhancing Diabetic Retinopathy Detection Using Convolutional Neural Networks**|Pandiyaraju V et.al.|[2411.10843v1](http://arxiv.org/abs/2411.10843v1)|null|
-|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772v1](http://arxiv.org/abs/2411.10772v1)|null|
+|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772v1](http://arxiv.org/abs/2411.10772v1)|[link](https://github.com/moucheng2017/MRI-GMM-VAE)|
 |**2024-11-16**|**Integrated Machine Learning and Survival Analysis Modeling for Enhanced Chronic Kidney Disease Risk Stratification**|Zachary Dana et.al.|[2411.10754v1](http://arxiv.org/abs/2411.10754v1)|null|
 |**2024-11-16**|**LTCXNet: Advancing Chest X-Ray Analysis with Solutions for Long-Tailed Multi-Label Classification and Fairness Challenges**|Chin-Wei Huang et.al.|[2411.10746v1](http://arxiv.org/abs/2411.10746v1)|null|
 |**2024-11-15**|**Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment**|Andrew Konya et.al.|[2411.10534v1](http://arxiv.org/abs/2411.10534v1)|null|
@@ -33,7 +33,7 @@
 |**2024-11-15**|**Rethinking Normalization Strategies and Convolutional Kernels for Multimodal Image Fusion**|Dan He et.al.|[2411.10036v1](http://arxiv.org/abs/2411.10036v1)|null|
 |**2024-11-15**|**JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging**|Kaito Baba et.al.|[2411.09933v1](http://arxiv.org/abs/2411.09933v1)|null|
 |**2024-11-15**|**A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation**|Chin-Sung Tung et.al.|[2411.09874v1](http://arxiv.org/abs/2411.09874v1)|[link](https://github.com/tcs211/ai_eeeg_report)|
-|**2024-11-14**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834v1](http://arxiv.org/abs/2411.09834v1)|[link](https://github.com/lavita-ai/medical-eval-sphere)|
+|**2024-11-14**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834v2](http://arxiv.org/abs/2411.09834v2)|[link](https://github.com/lavita-ai/medical-eval-sphere)|
 |**2024-11-14**|**A Self-Supervised Model for Multi-modal Stroke Risk Prediction**|Camille Delgrange et.al.|[2411.09822v1](http://arxiv.org/abs/2411.09822v1)|[link](https://github.com/CamilleDelgrange/SSMSRPM)|
 |**2024-11-14**|**Deep Learning for Fetal Inflammatory Response Diagnosis in the Umbilical Cord**|Marina A. Ayad et.al.|[2411.09767v1](http://arxiv.org/abs/2411.09767v1)|null|
 |**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648v1](http://arxiv.org/abs/2411.09648v1)|null|
@@ -91,7 +91,7 @@
 |**2024-11-07**|**Conditional Diffusion Model for Longitudinal Medical Image Generation**|Duy-Phuong Dao et.al.|[2411.05860v1](http://arxiv.org/abs/2411.05860v1)|null|
 |**2024-11-07**|**Evaluating the Economic Implications of Using Machine Learning in Clinical Psychiatry**|Soaad Hossain et.al.|[2411.05856v1](http://arxiv.org/abs/2411.05856v1)|null|
 |**2024-11-06**|**Robust Real-Time Mortality Prediction in the Intensive Care Unit using Temporal Difference Learning**|Thomas Frost et.al.|[2411.04285v1](http://arxiv.org/abs/2411.04285v1)|[link](https://github.com/tdgfrost/td-icu-mortality)|
-|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v2](http://arxiv.org/abs/2411.04118v2)|null|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|[link](https://github.com/stanford-aimi/ravl)|
 |**2024-11-06**|**Aligning Characteristic Descriptors with Images for Human-Expert-like Explainability**|Bharat Chandra Yalavarthi et.al.|[2411.04008v1](http://arxiv.org/abs/2411.04008v1)|null|
 |**2024-11-06**|**Fine-tuning -- a Transfer Learning approach**|Joseph Arul Raj et.al.|[2411.03941v1](http://arxiv.org/abs/2411.03941v1)|null|
@@ -873,7 +873,7 @@ accuracy and reducing misdiagnosis rates.
 摘要：腦電圖（EEG）在診斷各種神經疾病中扮演至關重要的角色。然而，小型醫院和診所通常缺乏進階的 EEG 訊號分析系統，且容易在手動判讀 EEG 時產生誤解。本研究提出一個創新的混合人工智慧（AI）系統，用於自動判讀 EEG 背景活動並產生報告。此系統結合深度學習模型，用於預測後優勢律動（PDR）、非監督人工製品移除，以及專家設計的異常偵測演算法。在 PDR 預測中，使用了 1530 個標記 EEG，最佳的整體模型達到了 0.237 的平均絕對誤差（MAE）、0.359 的均方根誤差（RMSE）、91.8% 的 0.6Hz 誤差準確度，以及 99% 的 1.2Hz 誤差準確度。AI 系統在偵測廣泛背景減慢方面明顯優於神經學家（p = 0.02；F1：AI 0.93，神經學家 0.82），並展現出改善的局部異常偵測，儘管沒有統計意義（p = 0.79；F1：AI 0.71，神經學家 0.55）。在內部資料集和 Temple University 異常 EEG 語料庫上的驗證顯示了一致的效能（F1：分別為 0.884 和 0.835；p = 0.66），證明了其普遍性。使用大型語言模型（LLM）來產生報告證明了 100% 的準確度，並由其他三個獨立的 LLM 驗證。此混合 AI 系統提供了一個易於擴充且準確的解決方案，用於在資源有限的環境中進行 EEG 判讀，協助神經學家提高診斷準確度並降低誤診率。
 
 ##### **A Benchmark for Long-Form Medical Question Answering**
-2411.09834v1 by Pedram Hosseini, Jessica M. Sin, Bing Ren, Bryceton G. Thomas, Elnaz Nouri, Ali Farahanchi, Saeed Hassanpour
+2411.09834v2 by Pedram Hosseini, Jessica M. Sin, Bing Ren, Bryceton G. Thomas, Elnaz Nouri, Ali Farahanchi, Saeed Hassanpour
 
 There is a lack of benchmarks for evaluating large language models (LLMs) in
 long-form medical question answering (QA). Most existing medical QA evaluation
@@ -893,7 +893,7 @@ between human judgments and LLMs. Our preliminary results highlight the strong
 potential of open LLMs in medical QA compared to leading closed models. Code &
 Data: https://github.com/lavita-ai/medical-eval-sphere
 
-摘要：缺乏評估大型語言模型 (LLM) 在長篇醫療問題解答 (QA) 中表現的基準。現有的醫療 QA 評估基準大多著重於自動化指標和多選題。儘管有價值，但這些基準並未完全掌握或評估 LLM 部署於其中的真實世界臨床應用之複雜性。此外，現有評估醫療 QA 中長篇答案產生的研究主要為閉源，無法取得人類醫療專家註解，這使得難以重現結果並強化現有基準。在這項工作中，我們引進一個新的公開基準，其特點是真實世界的消費者醫療問題，並附有由醫療醫生註解的長篇答案評估。我們根據正確性、有益性、有害性和偏見等準則，對來自各種開放和閉源醫療和通用 LLM 的回應進行成對比較。此外，我們執行了一項全面的 LLM 作為評判的分析，以研究人類判斷和 LLM 之間的一致性。我們的初步結果突出了開放 LLM 在醫療 QA 中的強大潛力，優於領先的閉源模型。程式碼和資料：https://github.com/lavita-ai/medical-eval-sphere
+摘要：大型語言模型 (LLM) 在長篇醫療問題解答 (QA) 中的評估基準有所不足。現有的醫療 QA 評估基準大多集中在自動化指標和多選題上。儘管有價值，但這些基準無法完全捕捉或評估 LLM 部署的現實臨床應用的複雜性。此外，現有的關於評估醫療 QA 中長篇答案生成的研究所主要是閉源的，缺乏對人類醫學專家註釋的訪問權限，這使得難以重現結果並增強現有的基準。在這項工作中，我們引入了一個新的公開基準，其中包含實際的消費者醫療問題，以及由醫生註釋的長篇答案評估。我們根據正確性、有用性、有害性和偏差等標準，對來自各種開放和閉源醫療和通用 LLM 的回應進行了成對比較。此外，我們進行了一項全面的 LLM 作為評審的分析，以研究人類判斷和 LLM 之間的一致性。我們的初步結果突出了開放式 LLM 在醫療 QA 中的強大潛力，與領先的閉源模型相比。程式碼和資料：https://github.com/lavita-ai/medical-eval-sphere
 
 ##### **A Self-Supervised Model for Multi-modal Stroke Risk Prediction**
 2411.09822v1 by Camille Delgrange, Olga Demler, Samia Mora, Bjoern Menze, Ezequiel de la Rosa, Neda Davoudi
@@ -2238,7 +2238,7 @@ outcomes using high-variance irregular time series data.
 摘要：預測長期患者結果的任務使用監督式機器學習，這是一個具有挑戰性的任務，部分原因是每個患者的軌跡的變異性很高，這可能導致模型過度擬合到訓練數據。時間差分 (TD) 學習，一種常見的強化學習技術，可以通過將學習概括為狀態轉換模式而不是終端結果來減少變異。然而，在醫療保健中，這種方法需要對患者狀態做出幾個強有力的假設，而且似乎有限的文獻評估了 TD 學習相對於傳統監督式學習方法在長期健康結果預測任務中的性能。在這項研究中，我們定義了一個框架，用於將 TD 學習應用於使用半馬爾可夫獎勵過程的實時不規則採樣時間序列數據。我們評估了模型框架在預測重症監護死亡率中的表現，並表明在這個框架下的 TD 學習可以導致與標準監督式學習方法相比模型魯棒性得到改善。而且這種魯棒性即使在外部數據集上驗證也能保持。在使用高變異不規則時間序列數據學習預測患者結果時，這種方法可能會提供一種更可靠的方法。
 
 ##### **Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**
-2411.04118v1 by Daniel P. Jeong, Saurabh Garg, Zachary C. Lipton, Michael Oberst
+2411.04118v2 by Daniel P. Jeong, Saurabh Garg, Zachary C. Lipton, Michael Oberst
 
 Several recent works seek to develop foundation models specifically for
 medical applications, adapting general-purpose large language models (LLMs) and
@@ -2263,7 +2263,7 @@ general-domain models may already exhibit strong medical knowledge and
 reasoning capabilities, and offer recommendations to strengthen the conclusions
 of future studies.
 
-摘要：<paragraph>近期的幾項研究致力於專門針對醫療應用開發基礎模型，透過在公開的生物醫學語料庫上持續預訓練，調整通用的大型語言模型 (LLM) 和視覺語言模型 (VLM)。這些研究通常聲稱，這種領域適應性預訓練 (DAPT) 能改善下游醫療任務的效能，例如回答醫療執照考試題目。在本文中，我們比較了七個公開的「醫療」LLM 和兩個 VLM 與它們對應的基本模型，並得出不同的結論：在醫療問題回答 (QA) 任務的零次／小樣本提示機制中，所有醫療 VLM 和幾乎所有醫療 LLM 都無法持續優於它們的基本模型。例如，在我們在 3 次提示設定中考慮的任務和模型配對中，醫療 LLM 僅在 12.1% 的情況下優於它們的基本模型，在 49.8% 的情況下達到（統計）平手，而在其餘 38.2% 的情況下顯著低於它們的基本模型。我們的結論基於 (i) 直接針對對應的基本模型，逐一比較每個醫療模型；(ii) 分別針對每個模型最佳化提示；以及 (iii) 考慮比較中的統計不確定性。雖然這些基本做法並未持續採用在文獻中，但我們的消融研究表明，它們會大幅影響結論。我們的研究結果表明，最先進的通用領域模型可能已經展現出強大的醫療知識和推理能力，並提出建議以強化未來研究的結論。</paragraph>
+摘要：<paragraph>多篇近期作品試圖專門為醫療應用開發基礎模型，透過持續預訓練公開可用的生物醫學語料庫，調整通用大型語言模型 (LLM) 和視覺語言模型 (VLM)。這些作品通常聲稱，這種領域適應式預訓練 (DAPT) 能提升下游醫療任務的效能，例如回答醫學執照考試題目。在本文中，我們將七個公開的「醫療」LLM 和兩個 VLM 與它們對應的基本模型進行比較，並得出不同的結論：所有醫療 VLM 和幾乎所有醫療 LLM 在醫療問答 (QA) 任務的零次/少次提示模式中，都無法持續優於它們的基本模型。例如，在我們於 3 次提示設定中考量的任務和模型配對中，醫療 LLM 僅在 12.1% 的情況下優於它們的基本模型，在 49.8% 的情況下達到（統計）平手，而在其餘 38.2% 的情況下則顯著低於它們的基本模型。我們的結論基於：(i) 將每個醫療模型與對應的基本模型進行一對一的比較；(ii) 分別針對每個模型最佳化提示；以及 (iii) 考慮比較中的統計不確定性。儘管這些基本做法並未在文獻中持續採用，但我們的消融研究顯示，它們會對結論造成重大影響。我們的研究結果表明，最先進的通用領域模型可能已經展現出強大的醫療知識和推理能力，並提出建議以加強未來研究的結論。</paragraph>
 
 ##### **RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**
 2411.04097v1 by Maya Varma, Jean-Benoit Delbrouck, Zhihong Chen, Akshay Chaudhari, Curtis Langlotz

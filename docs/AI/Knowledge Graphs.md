@@ -2,15 +2,18 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534v1](http://arxiv.org/abs/2411.13534v1)|null|
+|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v1](http://arxiv.org/abs/2411.12950v1)|null|
 |**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671v1](http://arxiv.org/abs/2411.12671v1)|null|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633v1](http://arxiv.org/abs/2411.12633v1)|null|
 |**2024-11-19**|**Bias Free Sentiment Analysis**|Hubert Plisiecki et.al.|[2411.12493v1](http://arxiv.org/abs/2411.12493v1)|null|
-|**2024-11-19**|**\textsc{Neon}: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449v1](http://arxiv.org/abs/2411.12449v1)|null|
+|**2024-11-19**|**Neon: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449v2](http://arxiv.org/abs/2411.12449v2)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174v1](http://arxiv.org/abs/2411.12174v1)|null|
 |**2024-11-18**|**Regret-Free Reinforcement Learning for LTL Specifications**|Rupak Majumdar et.al.|[2411.12019v1](http://arxiv.org/abs/2411.12019v1)|null|
 |**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714v1](http://arxiv.org/abs/2411.11714v1)|[link](https://github.com/mingchaoqi/skill_transfer)|
 |**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531v1](http://arxiv.org/abs/2411.11531v1)|null|
 |**2024-11-17**|**RPN 2: On Interdependence Function Learning Towards Unifying and Advancing CNN, RNN, GNN, and Transformer**|Jiawei Zhang et.al.|[2411.11162v1](http://arxiv.org/abs/2411.11162v1)|null|
+|**2024-11-16**|**A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery**|Grace Sng et.al.|[2411.12759v1](http://arxiv.org/abs/2411.12759v1)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v1](http://arxiv.org/abs/2411.10446v1)|null|
 |**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371v1](http://arxiv.org/abs/2411.10371v1)|null|
 |**2024-11-15**|**Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**|Md. Asif Haider et.al.|[2411.10129v1](http://arxiv.org/abs/2411.10129v1)|null|
@@ -37,6 +40,7 @@
 |**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316v1](http://arxiv.org/abs/2411.05316v1)|[link](https://github.com/tizzzzy/llm-gdm-alignment)|
 |**2024-11-06**|**LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration**|Yukun Cao et.al.|[2411.05844v1](http://arxiv.org/abs/2411.05844v1)|null|
 |**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|[link](https://github.com/lautel/meg)|
+|**2024-11-06**|**A Library Perspective on Supervised Text Processing in Digital Libraries: An Investigation in the Biomedical Domain**|Hermann Kroll et.al.|[2411.12752v1](http://arxiv.org/abs/2411.12752v1)|null|
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|
@@ -98,12 +102,67 @@
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529v1](http://arxiv.org/abs/2410.17529v1)|null|
 |**2024-10-22**|**Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs**|Leyao Wang et.al.|[2410.16882v1](http://arxiv.org/abs/2410.16882v1)|null|
-|**2024-10-22**|**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**|Muzhi Li et.al.|[2410.16803v2](http://arxiv.org/abs/2410.16803v2)|null|
-|**2024-10-22**|**The Scene Language: Representing Scenes with Programs, Words, and Embeddings**|Yunzhi Zhang et.al.|[2410.16770v1](http://arxiv.org/abs/2410.16770v1)|null|
-|**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708v1](http://arxiv.org/abs/2410.16708v1)|null|
-|**2024-10-22**|**PLDR-LLM: Large Language Model from Power Law Decoder Representations**|Burc Gokden et.al.|[2410.16703v1](http://arxiv.org/abs/2410.16703v1)|[link](https://github.com/burcgokden/llm-from-power-law-decoder-representations)|
 
 #### Abstracts
+##### **Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**
+2411.13534v1 by S. Chapagain, Y. Zhao, T. K. Rohleen, S. M. Hamdi, S. F. Boubrahimi, R. E. Flinn, E. M. Lund, D. Klooster, J. R. Scheer, C. J. Cascalheira
+
+Individuals who identify as sexual and gender minorities, including lesbian,
+gay, bisexual, transgender, queer, and others (LGBTQ+) are more likely to
+experience poorer health than their heterosexual and cisgender counterparts.
+One primary source that drives these health disparities is minority stress
+(i.e., chronic and social stressors unique to LGBTQ+ communities' experiences
+adapting to the dominant culture). This stress is frequently expressed in
+LGBTQ+ users' posts on social media platforms. However, these expressions are
+not just straightforward manifestations of minority stress. They involve
+linguistic complexity (e.g., idiom or lexical diversity), rendering them
+challenging for many traditional natural language processing methods to detect.
+In this work, we designed a hybrid model using Graph Neural Networks (GNN) and
+Bidirectional Encoder Representations from Transformers (BERT), a pre-trained
+deep language model to improve the classification performance of minority
+stress detection. We experimented with our model on a benchmark social media
+dataset for minority stress detection (LGBTQ+ MiSSoM+). The dataset is
+comprised of 5,789 human-annotated Reddit posts from LGBTQ+ subreddits. Our
+approach enables the extraction of hidden linguistic nuances through
+pretraining on a vast amount of raw data, while also engaging in transductive
+learning to jointly develop representations for both labeled training data and
+unlabeled test data. The RoBERTa-GCN model achieved an accuracy of 0.86 and an
+F1 score of 0.86, surpassing the performance of other baseline models in
+predicting LGBTQ+ minority stress. Improved prediction of minority stress
+expressions on social media could lead to digital health interventions to
+improve the wellbeing of LGBTQ+ people-a community with high rates of
+stress-sensitive health problems.
+
+摘要：<paragraph>認同自己是性與性別少數族群的人，包括女同性戀、男同性戀、雙性戀、跨性別、酷兒和其他 LGBTQ+ 族群，比異性戀和順性別者更容易有較差的健康狀況。造成這些健康差異的主要來源之一是少數族群壓力（即 LGBTQ+ 社群在適應主流文化時獨有的慢性與社會壓力）。這種壓力經常在 LGBTQ+ 使用者於社群媒體平台上的貼文中表達出來。然而，這些表達並不僅僅是少數族群壓力的直接表現。它們包含了語言複雜性（例如慣用語或詞彙多樣性），讓許多傳統的自然語言處理方法難以辨識。在這項研究中，我們設計了一個混合模型，使用圖神經網路 (GNN) 和來自 Transformer 的雙向編碼器表徵 (BERT)，這是一個經過預先訓練的深度語言模型，以提升少數族群壓力辨識的分類效能。我們在一個用於少數族群壓力辨識的基準社群媒體資料集 (LGBTQ+ MiSSoM+) 上對我們的模型進行實驗。該資料集包含了 5,789 篇由人類註解的 Reddit 貼文，來自於 LGBTQ+ 的 subreddit。我們的做法能夠透過在大量的原始資料上進行預訓練來萃取隱藏的語言差異，同時也參與轉導式學習，以共同開發標籤訓練資料和未標籤測試資料的表徵。RoBERTa-GCN 模型達到了 0.86 的準確率和 0.86 的 F1 分數，在預測 LGBTQ+ 少數族群壓力方面超越了其他基線模型的效能。在社群媒體上對少數族群壓力表達的預測改善，可以導致數位健康介入措施，以改善 LGBTQ+ 族群的福祉，而這個族群有很高的壓力敏感性健康問題發生率。</paragraph>
+
+##### **KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**
+2411.12950v1 by Ming Yin, Qiang Zhou, Zongsheng Cao, Mei Li
+
+Numerical reasoning is pivotal in various artificial intelligence
+applications, such as natural language processing and recommender systems,
+where it involves using entities, relations, and attribute values (e.g.,
+weight, length) to infer new factual relations (e.g., the Nile is longer than
+the Amazon). However, existing approaches encounter two critical challenges in
+modeling: (1) semantic relevance-the challenge of insufficiently capturing the
+necessary contextual interactions among entities, relations, and numerical
+attributes, often resulting in suboptimal inference; and (2) semantic
+ambiguity-the difficulty in accurately distinguishing ordinal relationships
+during numerical reasoning, which compromises the generation of high-quality
+samples and limits the effectiveness of contrastive learning. To address these
+challenges, we propose the novel Knowledge-Aware Attributes Embedding model
+(KAAE) for knowledge graph embeddings in numerical reasoning. Specifically, to
+overcome the challenge of semantic relevance, we introduce a
+Mixture-of-Experts-Knowledge-Aware (MoEKA) Encoder, designed to integrate the
+semantics of entities, relations, and numerical attributes into a joint
+semantic space. To tackle semantic ambiguity, we implement a new ordinal
+knowledge contrastive learning (OKCL) strategy that generates high-quality
+ordinal samples from the original data with the aid of ordinal relations,
+capturing fine-grained semantic nuances essential for accurate numerical
+reasoning. Experiments on three public benchmark datasets demonstrate the
+superior performance of KAAE across various attribute value distributions.
+
+摘要：數字推理在各種人工智慧應用中至關重要，例如自然語言處理和推薦系統，其中涉及使用實體、關係和屬性值（例如，重量、長度）來推斷新的事實關係（例如，尼羅河比亞馬遜河長）。然而，現有方法在建模中遇到兩個關鍵挑戰：(1) 語義相關性 - 無法充分捕捉實體、關係和數值屬性之間必要的上下文交互的挑戰，通常導致次優推論；(2) 語義模糊 - 在數字推理過程中準確區分序數關係的難度，這會損害高品質樣本的生成並限制對比學習的有效性。為了應對這些挑戰，我們提出了用於數字推理中知識圖嵌入的知識感知屬性嵌入模型 (KAAE)。具體來說，為了克服語義相關性的挑戰，我們引入了一個混合專家知識感知 (MoEKA) 編碼器，旨在將實體、關係和數值屬性的語義整合到一個聯合語義空間中。為了應對語義模糊，我們實施了一種新的序數知識對比學習 (OKCL) 策略，該策略利用序數關係從原始數據中生成高品質序數樣本，捕捉對準確數字推理至關重要的細粒度語義細微差別。在三個公共基準數據集上的實驗證明了 KAAE 在各種屬性值分佈中的卓越性能。
+
 ##### **Neurosymbolic Graph Enrichment for Grounded World Models**
 2411.12671v1 by Stefano De Giorgis, Aldo Gangemi, Alessandro Russo
 
@@ -168,8 +227,8 @@ in understanding human behavior through text.
 
 摘要：本文介紹語意傳播圖神經網路 (SProp GNN)，這是一種機器學習情緒分析 (SA) 架構，僅依賴語法結構和字詞層級的情緒線索來預測文字中的情緒。透過在語意上讓模型對特定字詞的資訊視而不見，它能抵抗政治或性別偏見等偏差，而這些偏差一直困擾著先前的基於機器學習的 SA 系統。SProp GNN 在兩項不同的預測任務和兩種語言中都表現出優於 VADER 和 EmoAtlas 等基於詞彙的替代方案。此外，它接近基於轉換器的模型的準確性，同時大幅減少情緒預測任務中的偏差。透過提供更好的可解釋性並減少偏差，SProp GNN 彌合了可解釋詞彙方法與強大但通常不透明的深度學習模型之間的方法論差距，提供了一個強大的工具，用於透過文字理解人類行為的公平和有效的情緒分析。
 
-##### **\textsc{Neon}: News Entity-Interaction Extraction for Enhanced Question Answering**
-2411.12449v1 by Sneha Singhania, Silviu Cucerzan, Allen Herring, Sujay Kumar Jauhar
+##### **Neon: News Entity-Interaction Extraction for Enhanced Question Answering**
+2411.12449v2 by Sneha Singhania, Silviu Cucerzan, Allen Herring, Sujay Kumar Jauhar
 
 Capturing fresh information in near real-time and using it to augment
 existing large language models (LLMs) is essential to generate up-to-date,
@@ -191,7 +250,7 @@ integration demonstrates substantial improvements in QA performance when
 tackling temporal, entity-centric search queries. Through NEON, LLMs can
 deliver more accurate, reliable, and up-to-date responses.
 
-摘要：捕捉近乎實時的最新資訊，並用於擴充現有的大型語言模型 (LLM)，對於產生即時、紮實且可靠的輸出至關重要。當 LLM 用於快速演進領域中的資訊任務時，這個問題會變得特別具有挑戰性，例如與涉及實體的近期或正在發生的事件相關的網路搜尋，其中產生時間相關的回應需要取得最新新聞來源。然而，LLM 的參數記憶體建模的資訊通常已過時，而原型檢索系統的網路結果可能無法捕捉最新的相關資訊，並難以處理不斷變化的新聞中的相互矛盾的報導。為了應對這個挑戰，我們提出 NEON 框架，旨在萃取新聞文章中描述的新興實體互動（例如事件或活動）。NEON 建構一個以實體為中心的帶時間戳記的知識圖譜，用於捕捉此類互動，從而促進與新聞事件相關的增強問答功能。我們的框架創新地將開放資訊萃取 (openIE) 風格的元組整合到 LLM 中，以實現語境內檢索增強的生成。這種整合在處理時間、以實體為中心的搜尋查詢時，證明了問答效能有顯著的改善。透過 NEON，LLM 能夠提供更準確、可靠且最新的回應。
+摘要：捕捉近乎實時的最新資訊，並利用它來擴充現有的大型語言模型 (LLM)，對於產生即時、有根據且可靠的輸出至關重要。當 LLM 被用於快速演化的領域中的訊息任務時，這個問題會變得特別具有挑戰性，例如與涉及實體的近期或正在發生的事件相關的網路搜尋，在這種情況下，產生時間相關的回應需要取得最新的新聞來源。然而，LLM 的參數記憶體建模的資訊經常過時，而原型檢索系統的網路結果可能無法捕捉最新的相關資訊，並且難以處理演化中的新聞中的相互矛盾的報導。為了應對這個挑戰，我們提出了 NEON 框架，旨在萃取新興實體互動（例如事件或活動），如新聞文章中所描述的。NEON 建構了一個以實體為中心的帶時間戳記的知識圖譜，用來捕捉此類互動，從而促進與新聞事件相關的增強式問答能力。我們的框架透過將開放資訊萃取 (openIE) 風格元組整合到 LLM 中，以啟用情境內檢索增強式產生，進而創新。當處理時間、以實體為中心的搜尋查詢時，這種整合顯示出問答效能的顯著提升。透過 NEON，LLM 可以提供更準確、可靠且最新的回應。
 
 ##### **Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**
 2411.12174v1 by Rahul Garg, Trilok Padhi, Hemang Jain, Ugur Kursuncu, Ugur Kursuncu, Ponnurangam Kumaraguru
@@ -326,6 +385,21 @@ backbones.
 摘要：本文建立在我们先前关于协调多项式网络 (RPN) 的工作之上。最初的 RPN 模型是在输入数据独立性的假设下设计的，假定数据批次中各个实例之间的独立性以及每个数据实例中的属性之间的独立性。然而，对于涉及复杂相互依赖数据（例如语言、图像、时间序列和图形）的功能学习任务，这种假设通常被证明是无效的。忽略此类数据相互依赖性不可避免地会导致性能显着下降。
 为了克服这些限制，我们在本文中引入了新的协调多项式网络（版本 2），即 RPN 2。通过结合数据和结构相互依赖函数，RPN 2 通过其架构中的新组件函数明确地对数据相互依赖性进行建模。
 这种增强不仅显着提高了 RPN 2 的学习性能，而且还大幅扩展了其统一潜力，使其能够在其规范表示中包含更广泛的当代主干模型。这些主干包括但不限于卷积神经网络 (CNN)、循环神经网络 (RNN)、图神经网络 (GNN) 和 Transformer。我们的分析表明，这些主干模型之间的根本区别主要源于它们定义相互依赖函数的不同方法。此外，这种统一表示为设计创新架构开辟了新的机会，这些架构有可能超越这些主干的性能。
+
+##### **A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery**
+2411.12759v1 by Grace Sng, Yanming Zhang, Klaus Mueller
+
+The increasing use of large language models (LLMs) in causal discovery as a
+substitute for human domain experts highlights the need for optimal model
+selection. This paper presents the first hallucination survey of popular LLMs
+for causal discovery. We show that hallucinations exist when using LLMs in
+causal discovery so the choice of LLM is important. We propose using Retrieval
+Augmented Generation (RAG) to reduce hallucinations when quality data is
+available. Additionally, we introduce a novel method employing multiple LLMs
+with an arbiter in a debate to audit edges in causal graphs, achieving a
+comparable reduction in hallucinations to RAG.
+
+摘要：隨著大型語言模型 (LLM) 在因果發現中作為人類領域專家的替代品使用日益增加，這凸顯了最佳模型選擇的需求。本文提出了第一份流行 LLM 的幻覺調查以進行因果發現。我們表明在因果發現中使用 LLM 時存在幻覺，因此 LLM 的選擇很重要。我們建議使用檢索強化生成 (RAG) 來減少在有品質資料時產生的幻覺。此外，我們引入了一種新的方法，在辯論中使用多個 LLM 和仲裁者來審核因果圖中的邊緣，與 RAG 相比，幻覺減少了許多。
 
 ##### **VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**
 2411.10446v1 by Daniel Ekpo, Mara Levy, Saksham Suri, Chuong Huynh, Abhinav Shrivastava
@@ -936,6 +1010,27 @@ models like BioMistral. We also show results based on Llama-3. Finally, we show
 that MEG's performance remains robust to the choice of graph encoder.
 
 摘要：問答是自然語言理解任務，涉及對明確的上下文和未說明的相關領域知識進行推理。支撐大多數當代問答系統的大型語言模型 (LLM) 難以推論概念如何在醫學等專業領域中關聯。現有的醫學 LLM 訓練成本也很高。在這項工作中，我們提出了 MEG，這是一種用於醫學知識增強 LLM 的參數有效方法。MEG 使用輕量級映射網路將圖表嵌入整合到 LLM 中，使其能夠以經濟有效的方式利用外部知識。我們在四個流行的醫學多選題資料集上評估了我們的方法，並表明 LLM 從知識圖表嵌入提供的實際依據中受益匪淺。MEG 在 Mistral-Instruct 基準上平均提高了 +10.2% 的準確度，在 BioMistral 等專門模型上提高了 +6.7%。我們還展示了基於 Llama-3 的結果。最後，我們表明 MEG 的性能對圖表編碼器的選擇保持穩健。
+
+##### **A Library Perspective on Supervised Text Processing in Digital Libraries: An Investigation in the Biomedical Domain**
+2411.12752v1 by Hermann Kroll, Pascal Sackhoff, Bill Matthias Thang, Maha Ksouri, Wolf-Tilo Balke
+
+Digital libraries that maintain extensive textual collections may want to
+further enrich their content for certain downstream applications, e.g.,
+building knowledge graphs, semantic enrichment of documents, or implementing
+novel access paths. All of these applications require some text processing,
+either to identify relevant entities, extract semantic relationships between
+them, or to classify documents into some categories. However, implementing
+reliable, supervised workflows can become quite challenging for a digital
+library because suitable training data must be crafted, and reliable models
+must be trained. While many works focus on achieving the highest accuracy on
+some benchmarks, we tackle the problem from a digital library practitioner. In
+other words, we also consider trade-offs between accuracy and application
+costs, dive into training data generation through distant supervision and large
+language models such as ChatGPT, LLama, and Olmo, and discuss how to design
+final pipelines. Therefore, we focus on relation extraction and text
+classification, using the showcase of eight biomedical benchmarks.
+
+摘要：維護廣泛文本集合的數位圖書館可能希望進一步豐富其內容以供特定下游應用程式使用，例如建構知識圖譜、文件語意豐富化或實作新穎的存取路徑。所有這些應用程式都需要一些文字處理，才能識別相關實體、萃取它們之間的語意關係，或將文件分類到某些類別中。然而，對於數位圖書館來說，實作可靠的監督式工作流程可能會變得相當具有挑戰性，因為必須建立適當的訓練資料，並訓練可靠的模型。雖然許多研究專注於在某些基準上達成最高準確度，但我們從數位圖書館實務者的角度來解決這個問題。換句話說，我們也考慮準確度和應用成本之間的權衡，深入探討透過遠距監督和大型語言模型（例如 ChatGPT、LLama 和 Olmo）來產生訓練資料，並討論如何設計最終管線。因此，我們專注於關係萃取和文字分類，並使用八個生物醫學基準作為展示案例。
 
 ##### **The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**
 2411.03568v1 by Lee Kezar, Nidhi Munikote, Zian Zeng, Zed Sehyr, Naomi Caselli, Jesse Thomason
@@ -2430,99 +2525,4 @@ imbalance solutions. This highlights the promise of using LLMs to resolve
 imbalance issues on TAGs.
 
 摘要：圖形節點分類經常會遇到類別不平衡的挑戰，導致有偏差的效能，並在實際應用中造成顯著風險。儘管已提出多項以資料為中心的解決方案，但沒有一項專注於文字屬性圖形 (TAG)，因此忽略了利用文字特徵中編碼的豐富語意來提升少數節點分類的可能性。鑑於這個關鍵差距，我們探討了在文字空間中擴充圖形資料的可能性，利用大型語言模型 (LLM) 的文字產生能力來處理 TAG 上的不平衡節點分類。具體來說，我們提出了一種名為 LA-TAG（基於 LLM 的文字屬性圖形擴充）的新方法，它提示 LLM 根據圖形中現有的節點文字產生合成文字。此外，為了將這些合成文字屬性節點整合到圖形中，我們引入了一個基於文字的連結預測器，以將合成節點與現有節點連接起來。我們在多個資料集和評估指標上的實驗表明，我們的框架明顯優於傳統的非文字資料擴充策略和特定的節點不平衡解決方案。這突顯了使用 LLM 來解決 TAG 上的不平衡問題的潛力。
-
-##### **Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**
-2410.16803v2 by Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
-
-Inductive knowledge graph completion (KGC) aims to predict missing triples
-with unseen entities. Recent works focus on modeling reasoning paths between
-the head and tail entity as direct supporting evidence. However, these methods
-depend heavily on the existence and quality of reasoning paths, which limits
-their general applicability in different scenarios. In addition, we observe
-that latent type constraints and neighboring facts inherent in KGs are also
-vital in inferring missing triples. To effectively utilize all useful
-information in KGs, we introduce CATS, a novel context-aware inductive KGC
-solution. With sufficient guidance from proper prompts and supervised
-fine-tuning, CATS activates the strong semantic understanding and reasoning
-capabilities of large language models to assess the existence of query triples,
-which consist of two modules. First, the type-aware reasoning module evaluates
-whether the candidate entity matches the latent entity type as required by the
-query relation. Then, the subgraph reasoning module selects relevant reasoning
-paths and neighboring facts, and evaluates their correlation to the query
-triple. Experiment results on three widely used datasets demonstrate that CATS
-significantly outperforms state-of-the-art methods in 16 out of 18
-transductive, inductive, and few-shot settings with an average absolute MRR
-improvement of 7.2%.
-
-摘要：歸納知識圖譜補全 (KGC) 的目標是預測具有未見實體的三元組。最近的研究專注於建模頭部和尾部實體之間的推理路徑，作為直接的支援證據。然而，這些方法極度依賴推理路徑的存在和品質，這限制了它們在不同場景中的普遍適用性。此外，我們觀察到，潛在類型約束和 KG 中固有的鄰近事實對於推論遺失的三元組也至關重要。為了有效利用 KG 中所有有用的資訊，我們引入了 CATS，這是一個新穎的具備情境感知能力的歸納式 KGC 解决方案。在適當提示和監督微調的充分指導下，CATS 啟用了大型語言模型強大的語義理解和推理能力，以評估查詢三元組的存在，這些三元組由兩個模組組成。首先，類型感知推理模組評估候選實體是否與查詢關係所要求的潛在實體類型相符。然後，子圖推理模組選擇相關的推理路徑和鄰近事實，並評估它們與查詢三元組的關聯性。在三個廣泛使用的資料集上的實驗結果表明，在 18 個轉導式、歸納式和少次嘗試設定中，CATS 在 16 個設定中顯著優於最先進的方法，平均絕對 MRR 提升了 7.2%。
-
-##### **The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
-2410.16770v1 by Yunzhi Zhang, Zizhang Li, Matt Zhou, Shangzhe Wu, Jiajun Wu
-
-We introduce the Scene Language, a visual scene representation that concisely
-and precisely describes the structure, semantics, and identity of visual
-scenes. It represents a scene with three key components: a program that
-specifies the hierarchical and relational structure of entities in the scene,
-words in natural language that summarize the semantic class of each entity, and
-embeddings that capture the visual identity of each entity. This representation
-can be inferred from pre-trained language models via a training-free inference
-technique, given text or image inputs. The resulting scene can be rendered into
-images using traditional, neural, or hybrid graphics renderers. Together, this
-forms a robust, automated system for high-quality 3D and 4D scene generation.
-Compared with existing representations like scene graphs, our proposed Scene
-Language generates complex scenes with higher fidelity, while explicitly
-modeling the scene structures to enable precise control and editing.
-
-摘要：我們引入了場景語言，這是一種視覺場景表示法，簡潔且精確地描述了視覺場景的結構、語意和身分。它使用三個關鍵組成部分來表示場景：一個程式，用於指定場景中實體的階層和關係結構；以自然語言表示的詞彙，用於總結每個實體的語意類別；以及用於擷取每個實體的視覺身分的嵌入。這個表示法可以透過無訓練推論技術從預先訓練的語言模型推論出來，給定文字或影像輸入。產生的場景可以使用傳統、神經或混合圖形渲染器渲染成影像。總而言之，這形成了一個強健的自動化系統，用於高品質 3D 和 4D 場景生成。與現有的表示法（例如場景圖）相比，我們提出的場景語言可以生成具有更高保真度的複雜場景，同時明確地建模場景結構以實現精確控制和編輯。
-
-##### **Atomic Fact Decomposition Helps Attributed Question Answering**
-2410.16708v1 by Zhichao Yan, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z. Pan
-
-Attributed Question Answering (AQA) aims to provide both a trustworthy answer
-and a reliable attribution report for a given question. Retrieval is a widely
-adopted approach, including two general paradigms: Retrieval-Then-Read (RTR)
-and post-hoc retrieval. Recently, Large Language Models (LLMs) have shown
-remarkable proficiency, prompting growing interest in AQA among researchers.
-However, RTR-based AQA often suffers from irrelevant knowledge and rapidly
-changing information, even when LLMs are adopted, while post-hoc
-retrieval-based AQA struggles with comprehending long-form answers with complex
-logic, and precisely identifying the content needing revision and preserving
-the original intent. To tackle these problems, this paper proposes an Atomic
-fact decomposition-based Retrieval and Editing (ARE) framework, which
-decomposes the generated long-form answers into molecular clauses and atomic
-facts by the instruction-tuned LLMs. Notably, the instruction-tuned LLMs are
-fine-tuned using a well-constructed dataset, generated from large scale
-Knowledge Graphs (KGs). This process involves extracting one-hop neighbors from
-a given set of entities and transforming the result into coherent long-form
-text. Subsequently, ARE leverages a search engine to retrieve evidences related
-to atomic facts, inputting these evidences into an LLM-based verifier to
-determine whether the facts require expansion for re-retrieval or editing.
-Furthermore, the edited facts are backtracked into the original answer, with
-evidence aggregated based on the relationship between molecular clauses and
-atomic facts. Extensive evaluations demonstrate the superior performance of our
-proposed method over the state-of-the-arts on several datasets, with an
-additionally proposed new metric $Attr_{p}$ for evaluating the precision of
-evidence attribution.
-
-摘要：<paragraph>歸因式問答 (AQA) 的目標是針對特定問題提供可信的答案和可靠的歸因報告。擷取是一種廣泛採用的方法，包括兩種一般範例：擷取再閱讀 (RTR) 和事後擷取。最近，大型語言模型 (LLM) 已展現出卓越的熟練度，促使研究人員對 AQA 產生越來越濃厚的興趣。然而，即使採用 LLM，基於 RTR 的 AQA 仍常常會受到不相關知識和快速變動的資訊影響，而基於事後擷取的 AQA 則難以理解具有複雜邏輯的長篇答案，並精確找出需要修改的內容，同時保留原始意圖。為了解決這些問題，本文提出了一個基於原子事實分解的擷取和編輯 (ARE) 架構，它透過指令調整的 LLM 將產生的長篇答案分解為分子子句和原子事實。值得注意的是，指令調整的 LLM 會使用從大規模知識圖譜 (KG) 中產生的結構良好資料集進行微調。此程序包含從特定實體集合中擷取一跳鄰居，並將結果轉換為連貫的長篇文字。隨後，ARE 會利用搜尋引擎擷取與原子事實相關的證據，將這些證據輸入到基於 LLM 的驗證器中，以確定事實是否需要擴充以供重新擷取或編輯。此外，編輯後的結果會回溯到原始答案，並根據分子子句和原子事實之間的關係彙整證據。廣泛的評估顯示，我們提出的方法在多個資料集上優於現有技術，並額外提出了一個新的指標 $Attr_{p}$，用於評估證據歸因的精準度。</paragraph>
-
-##### **PLDR-LLM: Large Language Model from Power Law Decoder Representations**
-2410.16703v1 by Burc Gokden
-
-We present the Large Language Model from Power Law Decoder Representations
-(PLDR-LLM), a language model that leverages non-linear and linear
-transformations through Power Law Graph Attention mechanism to generate
-well-defined deductive and inductive outputs. We pretrain the PLDR-LLMs of
-varying layer sizes with a small batch size of 32 and $\sim$8B tokens from the
-RefinedWeb dataset, and show that they achieve competitive performance in
-zero-shot and few-shot settings compared to scaled dot-product LLMs of similar
-model size reported in the literature. We show that deductive outputs of
-PLDR-LLMs can be used to compare model characteristics or improve the
-performance by introducing the Directed Acyclic Graph (DAG) loss as a metric
-and regularizer. Our results indicate that the initial maximum learning rate
-and warm-up steps have a lasting impact on deductive outputs throughout the
-pretraining. We provide a detailed description of PLDR-LLM architecture, its
-implementation and the pretraining procedure.
-
-摘要：我們提出使用冪律解碼器表示法的大語言模型 (PLDR-LLM)，這是一個語言模型，它透過冪律圖注意力機制，利用非線性和線性轉換來產生定義良好的演繹和歸納輸出。我們使用 32 的小批次大小和 RefinedWeb 資料集中的 $\sim$8B 令牌，預訓練不同層大小的 PLDR-LLM，並展示出它們在零次和少次設定中，與文獻中報導的類似模型大小的縮放點積 LLM 相比，它們達到了競爭力表現。我們展示了 PLDR-LLM 的演繹輸出可用於比較模型特徵或透過引入有向無環圖 (DAG) 損失作為指標和正則化器來改善效能。我們的結果表明，初始最大學習率和熱身步驟對整個預訓練過程中的演繹輸出有持久的影響。我們提供了 PLDR-LLM 架構、其實現和預訓練程序的詳細說明。
 

@@ -253,7 +253,7 @@ deliver more accurate, reliable, and up-to-date responses.
 摘要：捕捉近乎實時的最新資訊，並利用它來擴充現有的大型語言模型 (LLM)，對於產生即時、有根據且可靠的輸出至關重要。當 LLM 被用於快速演化的領域中的訊息任務時，這個問題會變得特別具有挑戰性，例如與涉及實體的近期或正在發生的事件相關的網路搜尋，在這種情況下，產生時間相關的回應需要取得最新的新聞來源。然而，LLM 的參數記憶體建模的資訊經常過時，而原型檢索系統的網路結果可能無法捕捉最新的相關資訊，並且難以處理演化中的新聞中的相互矛盾的報導。為了應對這個挑戰，我們提出了 NEON 框架，旨在萃取新興實體互動（例如事件或活動），如新聞文章中所描述的。NEON 建構了一個以實體為中心的帶時間戳記的知識圖譜，用來捕捉此類互動，從而促進與新聞事件相關的增強式問答能力。我們的框架透過將開放資訊萃取 (openIE) 風格元組整合到 LLM 中，以啟用情境內檢索增強式產生，進而創新。當處理時間、以實體為中心的搜尋查詢時，這種整合顯示出問答效能的顯著提升。透過 NEON，LLM 可以提供更準確、可靠且最新的回應。
 
 ##### **Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**
-2411.12174v1 by Rahul Garg, Trilok Padhi, Hemang Jain, Ugur Kursuncu, Ugur Kursuncu, Ponnurangam Kumaraguru
+2411.12174v1 by Rahul Garg, Trilok Padhi, Hemang Jain, Ugur Kursuncu, Ponnurangam Kumaraguru
 
 Toxicity identification in online multimodal environments remains a
 challenging task due to the complexity of contextual connections across

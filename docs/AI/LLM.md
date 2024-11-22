@@ -88,7 +88,7 @@
 |**2024-11-19**|**AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software**|Nigar Alishzade et.al.|[2411.12865v1](http://arxiv.org/abs/2411.12865v1)|null|
 |**2024-11-19**|**Reward Modeling with Ordinal Feedback: Wisdom of the Crowd**|Shang Liu et.al.|[2411.12843v1](http://arxiv.org/abs/2411.12843v1)|null|
 |**2024-11-19**|**Efficient Medicinal Image Transmission and Resolution Enhancement via GAN**|Rishabh Kumar Sharma et.al.|[2411.12833v1](http://arxiv.org/abs/2411.12833v1)|null|
-|**2024-11-19**|**Human-Robot Dialogue Annotation for Multi-Modal Common Ground**|Claire Bonial et.al.|[2411.12829v1](http://arxiv.org/abs/2411.12829v1)|null|
+|**2024-11-19**|**Human-Robot Dialogue Annotation for Multi-Modal Common Ground**|Claire Bonial et.al.|[2411.12829v1](http://arxiv.org/abs/2411.12829v1)|[link](https://github.com/USArmyResearchLab/ARL-SCOUT)|
 |**2024-11-19**|**Probing the Capacity of Language Model Agents to Operationalize Disparate Experiential Context Despite Distraction**|Sonny George et.al.|[2411.12828v1](http://arxiv.org/abs/2411.12828v1)|[link](https://github.com/sonnygeorge/oedd)|
 |**2024-11-19**|**Declare and Justify: Explicit assumptions in AI evaluations are necessary for effective regulation**|Peter Barnett et.al.|[2411.12820v1](http://arxiv.org/abs/2411.12820v1)|null|
 |**2024-11-19**|**Conversational Medical AI: Ready for Practice**|Antoine Lizée et.al.|[2411.12808v1](http://arxiv.org/abs/2411.12808v1)|null|

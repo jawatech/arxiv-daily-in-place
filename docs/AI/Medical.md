@@ -147,7 +147,7 @@ limitations of LAG, which are still mostly unknown, is of utmost importance for
 enabling a variety of tasks involving tacit knowledge in order to provide
 interpretable and effective results.
 
-摘要：語意知識圖 (SKG) 面臨可擴充性、彈性、脈絡理解和處理非結構化或模稜兩可資訊的挑戰。然而，它們提供正式且結構化的知識，藉由推理和查詢提供高度可解釋且可靠的結果。大型語言模型 (LLM) 克服了這些限制，使其適用於開放式任務和非結構化環境。儘管如此，LLM 既不可解釋也不可靠。為了解決 LLM 和 SKG 之間的二分法，我們設想結合兩者優點的邏輯增強生成 (LAG)。LAG 使用 LLM 作為反應式連續知識圖，可以根據需要產生潛在的無限關係和默會知識。SKG 是注入具有明確邏輯和事實邊界的離散啟發式維度的關鍵。我們在集體智慧的兩個任務中舉例說明 LAG，即醫療診斷和氣候預測。了解 LAG 的特性和限制（目前仍大多未知）對於啟用涉及默會知識的各種任務以提供可解釋且有效的結果至關重要。
+摘要：語意知識圖（SKG）在可擴充性、靈活性、情境理解以及處理非結構化或含糊資訊方面面臨挑戰。然而，它們提供正式且結構化的知識，能透過推理和查詢提供高度可解釋且可靠的結果。大型語言模型（LLM）克服了這些限制，使其適用於開放式任務和非結構化環境。儘管如此，LLM 既不可解釋也不可靠。為了解決 LLM 和 SKG 之間的二分法，我們設想了邏輯增強生成（LAG），它結合了兩個世界的優點。LAG 使用 LLM 作為反應式連續知識圖，它可以按需產生潛在的無限關係和默會知識。SKG 是注入離散啟發式維度（具有明確邏輯和事實邊界）的關鍵。我們在集體智慧的兩個任務中舉例說明 LAG，即醫療診斷和氣候預測。理解 LAG 的特性和限制（目前仍然大多數未知）對於啟用涉及默會知識的各種任務以提供可解釋且有效的結果至關重要。
 
 ##### **AmpliNetECG12: A lightweight SoftMax-based relativistic amplitude amplification architecture for 12 lead ECG classification**
 2411.13903v1 by Shreya Srivastava

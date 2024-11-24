@@ -37,7 +37,7 @@
 |**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133v1](http://arxiv.org/abs/2411.14133v1)|[link](https://github.com/llm-gasp/gasp)|
 |**2024-11-21**|**Learning from "Silly" Questions Improves Large Language Models, But Only Slightly**|Tingyuan Zhu et.al.|[2411.14121v1](http://arxiv.org/abs/2411.14121v1)|null|
 |**2024-11-21**|**Lost in Inference: Rediscovering the Role of Natural Language Inference for Large Language Models**|Lovish Madaan et.al.|[2411.14103v1](http://arxiv.org/abs/2411.14103v1)|null|
-|**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100v1](http://arxiv.org/abs/2411.14100v1)|[link](https://github.com/anupsingh15/BEST-STD)|
+|**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100v1](http://arxiv.org/abs/2411.14100v1)|null|
 |**2024-11-21**|**Meaning at the Planck scale? Contextualized word embeddings for doing history, philosophy, and sociology of science**|Arno Simons et.al.|[2411.14073v1](http://arxiv.org/abs/2411.14073v1)|null|
 |**2024-11-21**|**The Master-Slave Encoder Model for Improving Patent Text Summarization: A New Approach to Combining Specifications and Claims**|Shu Zhou et.al.|[2411.14072v1](http://arxiv.org/abs/2411.14072v1)|null|
 |**2024-11-21**|**Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model**|Ege Kesim et.al.|[2411.14064v1](http://arxiv.org/abs/2411.14064v1)|null|

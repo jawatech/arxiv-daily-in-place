@@ -44,7 +44,7 @@
 |**2024-11-07**|**AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG**|Yichen Shi et.al.|[2411.13560v1](http://arxiv.org/abs/2411.13560v1)|null|
 |**2024-11-06**|**LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration**|Yukun Cao et.al.|[2411.05844v1](http://arxiv.org/abs/2411.05844v1)|null|
 |**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883v2](http://arxiv.org/abs/2411.03883v2)|[link](https://github.com/lautel/meg)|
-|**2024-11-06**|**A Library Perspective on Supervised Text Processing in Digital Libraries: An Investigation in the Biomedical Domain**|Hermann Kroll et.al.|[2411.12752v1](http://arxiv.org/abs/2411.12752v1)|null|
+|**2024-11-06**|**A Library Perspective on Supervised Text Processing in Digital Libraries: An Investigation in the Biomedical Domain**|Hermann Kroll et.al.|[2411.12752v1](http://arxiv.org/abs/2411.12752v1)|[link](https://github.com/hermannkroll/supervisedtextprocessing)|
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
 |**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722v1](http://arxiv.org/abs/2411.02722v1)|null|

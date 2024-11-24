@@ -26,7 +26,7 @@
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799v1](http://arxiv.org/abs/2411.11799v1)|[link](https://github.com/simonzhou86/en_dran)|
 |**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
 |**2024-11-18**|**SP${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation**|Shiman Li et.al.|[2411.11636v1](http://arxiv.org/abs/2411.11636v1)|null|
-|**2024-11-18**|**HistoEncoder: a digital pathology foundation model for prostate cancer**|Joona Pohjonen et.al.|[2411.11458v1](http://arxiv.org/abs/2411.11458v1)|null|
+|**2024-11-18**|**HistoEncoder: a digital pathology foundation model for prostate cancer**|Joona Pohjonen et.al.|[2411.11458v1](http://arxiv.org/abs/2411.11458v1)|[link](https://github.com/jopo666/HistoEncoder)|
 |**2024-11-18**|**TP-UNet: Temporal Prompt Guided UNet for Medical Image Segmentation**|Ranmin Wang et.al.|[2411.11305v2](http://arxiv.org/abs/2411.11305v2)|null|
 |**2024-11-18**|**Deep learning waterways for rural infrastructure development**|Matthew Pierson et.al.|[2411.13590v1](http://arxiv.org/abs/2411.13590v1)|null|
 |**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|

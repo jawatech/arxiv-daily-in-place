@@ -46,8 +46,8 @@
 |**2024-11-21**|**FunctionChat-Bench: Comprehensive Evaluation of Language Models' Generative Capabilities in Korean Tool-use Dialogs**|Shinbok Lee et.al.|[2411.14054v1](http://arxiv.org/abs/2411.14054v1)|[link](https://github.com/kakao/functionchat-bench)|
 |**2024-11-21**|**Forecasting Future International Events: A Reliable Dataset for Text-Based Event Modeling**|Daehoon Gwak et.al.|[2411.14042v1](http://arxiv.org/abs/2411.14042v1)|null|
 |**2024-11-21**|**Uterine Ultrasound Image Captioning Using Deep Learning Techniques**|Abdennour Boulesnane et.al.|[2411.14039v1](http://arxiv.org/abs/2411.14039v1)|null|
-|**2024-11-21**|**Assessing data-driven predictions of band gap and electrical conductivity for transparent conducting materials**|Federico Ottomano et.al.|[2411.14034v1](http://arxiv.org/abs/2411.14034v1)|null|
 |**2024-11-21**|**Multi-LLM-Agent Systems: Techniques and Business Perspectives**|Yingxuan Yang et.al.|[2411.14033v1](http://arxiv.org/abs/2411.14033v1)|null|
+|**2024-11-21**|**Trajectory Representation Learning on Road Networks and Grids with Spatio-Temporal Dynamics**|Stefan Schestakov et.al.|[2411.14014v1](http://arxiv.org/abs/2411.14014v1)|null|
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012v1](http://arxiv.org/abs/2411.14012v1)|null|
 |**2024-11-21**|**Mirror Target YOLO: An Improved YOLOv8 Method with Indirect Vision for Heritage Buildings Fire Detection**|Jian Liang et.al.|[2411.13997v1](http://arxiv.org/abs/2411.13997v1)|null|
 |**2024-11-21**|**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**|Jordan Vice et.al.|[2411.13982v1](http://arxiv.org/abs/2411.13982v1)|null|
@@ -63,7 +63,7 @@
 |**2024-11-21**|**PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation**|Zhijie Bao et.al.|[2411.13902v1](http://arxiv.org/abs/2411.13902v1)|null|
 |**2024-11-21**|**When Online Algorithms Influence the Environment: A Dynamical Systems Analysis of the Unintended Consequences**|Prabhat Lankireddy et.al.|[2411.13883v1](http://arxiv.org/abs/2411.13883v1)|null|
 |**2024-11-21**|**Next-Generation Phishing: How LLM Agents Empower Cyber Attackers**|Khalifa Afane et.al.|[2411.13874v1](http://arxiv.org/abs/2411.13874v1)|null|
-|**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868v1](http://arxiv.org/abs/2411.13868v1)|null|
+|**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868v1](http://arxiv.org/abs/2411.13868v1)|[link](https://github.com/lx10077/TrGoF)|
 |**2024-11-21**|**Generative Fuzzy System for Sequence Generation**|Hailong Yang et.al.|[2411.13867v1](http://arxiv.org/abs/2411.13867v1)|null|
 |**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865v1](http://arxiv.org/abs/2411.13865v1)|null|
 |**2024-11-21**|**Exploratory Study Of Human-AI Interaction For Hindustani Music**|Nithya Shikarpur et.al.|[2411.13846v1](http://arxiv.org/abs/2411.13846v1)|null|
@@ -73,6 +73,7 @@
 |**2024-11-21**|**AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning**|Changhai Zhou et.al.|[2411.13814v1](http://arxiv.org/abs/2411.13814v1)|null|
 |**2024-11-21**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802v1](http://arxiv.org/abs/2411.13802v1)|[link](https://github.com/aitomatic/semikong)|
 |**2024-11-21**|**Explaining GPT-4's Schema of Depression Using Machine Behavior Analysis**|Adithya V Ganesan et.al.|[2411.13800v1](http://arxiv.org/abs/2411.13800v1)|null|
+|**2024-11-21**|**Adaptable Embeddings Network (AEN)**|Stan Loosmore et.al.|[2411.13786v1](http://arxiv.org/abs/2411.13786v1)|null|
 |**2024-11-21**|**NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**|Michael Lu et.al.|[2411.13779v1](http://arxiv.org/abs/2411.13779v1)|[link](https://github.com/alex2awesome/news-interview-question-generation)|
 |**2024-11-21**|**Benchmarking GPT-4 against Human Translators: A Comprehensive Evaluation Across Languages, Domains, and Expertise Levels**|Jianhao Yan et.al.|[2411.13775v1](http://arxiv.org/abs/2411.13775v1)|null|
 |**2024-11-21**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773v1](http://arxiv.org/abs/2411.13773v1)|null|
@@ -80,6 +81,7 @@
 |**2024-11-21**|**Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge**|Ruiyang Qin et.al.|[2411.13766v1](http://arxiv.org/abs/2411.13766v1)|null|
 |**2024-11-21**|**A Framework for Evaluating LLMs Under Task Indeterminacy**|Luke Guerdan et.al.|[2411.13760v1](http://arxiv.org/abs/2411.13760v1)|null|
 |**2024-11-21**|**AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks**|Sanjay Das et.al.|[2411.13757v1](http://arxiv.org/abs/2411.13757v1)|null|
+|**2024-11-20**|**Learning to Reason Iteratively and Parallelly for Complex Visual Reasoning Scenarios**|Shantanu Jaiswal et.al.|[2411.13754v1](http://arxiv.org/abs/2411.13754v1)|null|
 |**2024-11-20**|**AI-Driven Agents with Prompts Designed for High Agreeableness Increase the Likelihood of Being Mistaken for a Human in the Turing Test**|U. León-Domínguez et.al.|[2411.13749v1](http://arxiv.org/abs/2411.13749v1)|null|
 |**2024-11-20**|**Federated Continual Learning for Edge-AI: A Comprehensive Survey**|Zi Wang et.al.|[2411.13740v1](http://arxiv.org/abs/2411.13740v1)|null|
 |**2024-11-20**|**Assessing Gender Bias in LLMs: Comparing LLM Outputs with Human Perceptions and Official Statistics**|Tetiana Bas et.al.|[2411.13738v1](http://arxiv.org/abs/2411.13738v1)|[link](https://github.com/tetianabas/llm_biases)|
@@ -88,7 +90,6 @@
 |**2024-11-20**|**Retrieval-Augmented Generation for Domain-Specific Question Answering: A Case Study on Pittsburgh and CMU**|Haojia Sun et.al.|[2411.13691v1](http://arxiv.org/abs/2411.13691v1)|null|
 |**2024-11-20**|**Hierarchical Text Classification (HTC) vs. eXtreme Multilabel Classification (XML): Two Sides of the Same Medal**|Nerijus Bertalis et.al.|[2411.13687v1](http://arxiv.org/abs/2411.13687v1)|[link](https://github.com/flohauss/xmc_htc)|
 |**2024-11-20**|**Hymba: A Hybrid-head Architecture for Small Language Models**|Xin Dong et.al.|[2411.13676v1](http://arxiv.org/abs/2411.13676v1)|null|
-|**2024-11-20**|**FabuLight-ASD: Unveiling Speech Activity via Body Language**|Hugo Carneiro et.al.|[2411.13674v1](http://arxiv.org/abs/2411.13674v1)|[link](https://github.com/knowledgetechnologyuhh/fabulight-asd)|
 |**2024-11-20**|**No Free Delivery Service: Epistemic limits of passive data collection in complex social systems**|Maximilian Nickel et.al.|[2411.13653v1](http://arxiv.org/abs/2411.13653v1)|null|
 |**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547v1](http://arxiv.org/abs/2411.13547v1)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543v1](http://arxiv.org/abs/2411.13543v1)|null|
@@ -101,7 +102,6 @@
 |**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477v1](http://arxiv.org/abs/2411.13477v1)|null|
 |**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476v1](http://arxiv.org/abs/2411.13476v1)|[link](https://github.com/haonan3/anchorcontext)|
 |**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459v1](http://arxiv.org/abs/2411.13459v1)|null|
-|**2024-11-20**|**LIMBA: An Open-Source Framework for the Preservation and Valorization of Low-Resource Languages using Generative Models**|Salvatore Mario Carta et.al.|[2411.13453v1](http://arxiv.org/abs/2411.13453v1)|null|
 
 #### Abstracts
 ##### **Whack-a-Chip: The Futility of Hardware-Centric Export Controls**
@@ -1137,34 +1137,6 @@ diagnoses, ultimately contributing to improved patient care.
 
 摘要：醫學影像大幅革新了醫療診斷和治療計畫，從早期的 X 光使用進展到 MRI、電腦斷層掃描和超音波等精密方法。這篇論文探討深度學習在醫學影像標題中的應用，特別著重於子宮超音波影像。這些影像在婦產科中對於診斷和追蹤不同年齡層的各種疾病至關重要。然而，由於其複雜性和變異性，它們的詮釋通常具有挑戰性。為了解決這個問題，開發了一個基於深度學習的醫學影像標題系統，將卷積神經網路與雙向門控循環單元網路整合在一起。這個混合模型處理影像和文字特徵，為子宮超音波影像產生描述性標題。我們的實驗結果證明了此方法優於基線方法的有效性，所提出的模型在產生準確且有意義的標題方面達到了卓越的效能，這由較高的 BLEU 和 ROUGE 分數所證明。透過增強子宮超音波影像的詮釋，我們的研究旨在協助醫療專業人員進行及時且準確的診斷，最終有助於改善病患照護。
 
-##### **Assessing data-driven predictions of band gap and electrical conductivity for transparent conducting materials**
-2411.14034v1 by Federico Ottomano, John Y. Goulermas, Vladimir Gusev, Rahul Savani, Michael W. Gaultois, Troy D. Manning, Hai Lin, Teresa P. Manzanera, Emmeline G. Poole, Matthew S. Dyer, John B. Claridge, Jon Alaria, Luke M. Daniels, Su Varma, David Rimmer, Kevin Sanderson, Matthew J. Rosseinsky
-
-Machine Learning (ML) has offered innovative perspectives for accelerating
-the discovery of new functional materials, leveraging the increasing
-availability of material databases. Despite the promising advances, data-driven
-methods face constraints imposed by the quantity and quality of available data.
-Moreover, ML is often employed in tandem with simulated datasets originating
-from density functional theory (DFT), and assessed through in-sample evaluation
-schemes. This scenario raises questions about the practical utility of ML in
-uncovering new and significant material classes for industrial applications.
-Here, we propose a data-driven framework aimed at accelerating the discovery of
-new transparent conducting materials (TCMs), an important category of
-semiconductors with a wide range of applications. To mitigate the shortage of
-available data, we create and validate unique experimental databases,
-comprising several examples of existing TCMs. We assess state-of-the-art (SOTA)
-ML models for property prediction from the stoichiometry alone. We propose a
-bespoke evaluation scheme to provide empirical evidence on the ability of ML to
-uncover new, previously unseen materials of interest. We test our approach on a
-list of 55 compositions containing typical elements of known TCMs. Although our
-study indicates that ML tends to identify new TCMs compositionally similar to
-those in the training data, we empirically demonstrate that it can highlight
-material candidates that may have been previously overlooked, offering a
-systematic approach to identify materials that are likely to display TCMs
-characteristics.
-
-摘要：機器學習 (ML) 提供了創新的觀點，可加速新功能材料的發現，利用日益增加的材料資料庫。儘管有這些有前景的進展，但資料驅動方法面臨可用資料數量和品質所施加的限制。此外，ML 通常與源自密度泛函理論 (DFT) 的模擬資料集結合使用，並透過樣本內評估方案進行評估。此情境引發了關於 ML 在發現工業應用中新的且重要的材料類別方面的實用性問題。在此，我們提出一個資料驅動的架構，旨在加速發現新的透明導電材料 (TCM)，這類半導體非常重要，應用範圍廣泛。為了減少可用資料的短缺，我們建立並驗證了獨特的實驗資料庫，其中包含了現有 TCM 的幾個範例。我們評估了最先進 (SOTA) ML 模型，僅從化學計量學預測特性。我們提出了一個客製化的評估方案，以提供經驗證據，證明 ML 能夠發現新的、以前未見過的感興趣材料。我們在包含已知 TCM 的典型元素的 55 種成分清單上測試了我們的方法。儘管我們的研究表明，ML 傾向於識別與訓練資料中類似的組成新 TCM，但我們經驗性地證明，它可以突顯可能以前被忽略的材料候選，提供一種系統性的方法來識別可能顯示 TCM 特性的材料。
-
 ##### **Multi-LLM-Agent Systems: Techniques and Business Perspectives**
 2411.14033v1 by Yingxuan Yang, Qiuying Peng, Jun Wang, Weinan Zhang
 
@@ -1203,6 +1175,30 @@ ii) 更高的系统更改灵活性，iii) 每个参与实体的专有数据保�
 此类 MLAS 协议考虑技术要求、数据隐私和
 商业激励。因此，MLAS 将成为在不久的将来实现
 人工智能集体智能的实用解决方案。
+
+##### **Trajectory Representation Learning on Road Networks and Grids with Spatio-Temporal Dynamics**
+2411.14014v1 by Stefan Schestakov, Simon Gottschalk
+
+Trajectory representation learning is a fundamental task for applications in
+fields including smart city, and urban planning, as it facilitates the
+utilization of trajectory data (e.g., vehicle movements) for various downstream
+applications, such as trajectory similarity computation or travel time
+estimation. This is achieved by learning low-dimensional representations from
+high-dimensional and raw trajectory data. However, existing methods for
+trajectory representation learning either rely on grid-based or road-based
+representations, which are inherently different and thus, could lose
+information contained in the other modality. Moreover, these methods overlook
+the dynamic nature of urban traffic, relying on static road network features
+rather than time varying traffic patterns. In this paper, we propose TIGR, a
+novel model designed to integrate grid and road network modalities while
+incorporating spatio-temporal dynamics to learn rich, general-purpose
+representations of trajectories. We evaluate TIGR on two realworld datasets and
+demonstrate the effectiveness of combining both modalities by substantially
+outperforming state-of-the-art methods, i.e., up to 43.22% for trajectory
+similarity, up to 16.65% for travel time estimation, and up to 10.16% for
+destination prediction.
+
+摘要：軌跡表示學習是智慧城市和都市規劃等領域應用的一項基本任務，因為它促進了軌跡資料（例如車輛移動）在各種下游應用程式中的使用，例如軌跡相似性計算或旅行時間估計。這是透過從高維度和原始軌跡資料中學習低維度表示來實現的。然而，現有的軌跡表示學習方法依賴於基於網格或基於道路的表示，它們本質上是不同的，因此可能會遺失包含在另一種方式中的資訊。此外，這些方法忽略了城市交通的動態特性，依賴於靜態道路網路特徵，而不是時間變動的交通模式。在本文中，我們提出 TIGR，這是一個新穎的模型，旨在整合網格和道路網路方式，同時納入時空動態以學習軌跡的豐富通用表示。我們在兩個真實世界資料集上評估 TIGR，並透過大幅優於現有方法來證明結合兩種方式的有效性，即軌跡相似性最多 43.22%、旅行時間估計最多 16.65% 和目的地預測最多 10.16%。
 
 ##### **Logic Augmented Generation**
 2411.14012v1 by Aldo Gangemi, Andrea Giovanni Nuzzolese
@@ -1852,6 +1848,23 @@ worthlessness/guilt is mostly influenced by depressed mood).
 
 摘要：大型語言模型（例如 ChatGPT (GPT-4)）在心理健康方面的使用迅速增長，成為評估和幫助情緒障礙（例如憂鬱症）患者的有前途途徑。然而，我們對 GPT-4 的心理障礙模式了解有限，也就是說，它在內部如何關聯和詮釋症狀。在這項工作中，我們利用當代測量理論來解碼 GPT-4 如何將憂鬱症狀相互關聯，以告知臨床效用和理論理解。我們發現 GPT-4 對憂鬱症的評估：(a) 具有很高的整體收斂效度（r = .71，來自 955 個樣本的自陳，以及 r = .81，來自 209 個樣本的專家判斷）；(b) 具有中等偏高的內部一致性（症狀互相關係 r = .23 至 .78），這在很大程度上與文獻和自陳一致；GPT-4 (c) 除了低估自殺傾向與其他症狀的關係，以及高估精神運動與其他症狀的關係之外，(d) 還有暗示細微假設的症狀推論模式（例如，睡眠和疲勞受大多數其他症狀影響，而無價值感/罪惡感則主要受憂鬱情緒影響）。
 
+##### **Adaptable Embeddings Network (AEN)**
+2411.13786v1 by Stan Loosmore, Alexander Titus
+
+Modern day Language Models see extensive use in text classification, yet this
+comes at significant computational cost. Compute-effective classification
+models are needed for low-resource environments, most notably on edge devices.
+We introduce Adaptable Embeddings Networks (AEN), a novel dual-encoder
+architecture using Kernel Density Estimation (KDE). This architecture allows
+for runtime adaptation of classification criteria without retraining and is
+non-autoregressive. Through thorough synthetic data experimentation, we
+demonstrate our model outputs comparable and in certain cases superior results
+to that of autoregressive models an order of magnitude larger than AEN's size.
+The architecture's ability to preprocess and cache condition embeddings makes
+it ideal for edge computing applications and real-time monitoring systems.
+
+摘要：現代語言模型在文本分類中廣泛使用，但這需要大量的計算成本。在低資源環境中，特別是在邊緣設備上，需要具有運算效率的分類模型。我們引入了適應性嵌入網路 (AEN)，這是一種使用核密度估計 (KDE) 的新穎雙編碼器架構。此架構允許在不重新訓練的情況下執行時調整分類標準，並且是非自迴歸的。透過徹底的合成數據實驗，我們證明了我們的模型輸出與比 AEN 大一個數量級的自迴歸模型相當，在某些情況下甚至更優異。此架構能夠預處理和快取條件嵌入，使其非常適合邊緣運算應用程式和即時監控系統。
+
 ##### **NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**
 2411.13779v1 by Michael Lu, Hyundong Justin Cho, Weiyan Shi, Jonathan May, Alexander Spangher
 
@@ -2021,6 +2034,35 @@ underscore the effectiveness of AttentionBreaker in uncovering and exploiting
 critical vulnerabilities within LLM architectures.
 
 摘要：大型語言模型 (LLM) 徹底改變了自然語言處理 (NLP)，在文本生成和摘要等任務中表現出色。然而，它們在任務關鍵型應用中的採用越來越多，這引起了對基於硬體的威脅的擔憂，特別是位元翻轉攻擊 (BFA)。BFA 由故障注入方法（例如 Rowhammer）啟用，針對記憶體中的模型參數，損害完整性和效能。在 LLM 巨大參數空間中識別 BFA 的關鍵參數提出了重大挑戰。雖然先前的研究表明，與傳統深度神經網路相比，基於Transformer的架構天生對 BFA 更具魯棒性，但我們挑戰了這一假設。我們首次證明，僅三處位元翻轉即可導致具有數十億個參數的 LLM 發生災難性的效能下降。由於難以在巨大的參數空間中有效識別關鍵參數，目前的 BFA 技術不足以利用此漏洞。為了解決這個問題，我們提出了 AttentionBreaker，這是一個專門針對 LLM 的新框架，它可以有效遍歷參數空間以識別關鍵參數。此外，我們引入了 GenBFA，這是一種進化優化策略，旨在進一步優化搜尋，隔離最關鍵的位元，以進行有效率且有效的攻擊。經驗結果揭示了 LLM 對 AttentionBreaker 的嚴重漏洞。例如，LLaMA3-8B-Instruct 8 位元量化 (W8) 模型中僅三處位元翻轉（總參數的 4.129 x 10^-9%）就會導致效能完全崩潰：MMLU 任務的準確度從 67.3% 降至 0%，而 Wikitext 的困惑度從 12.6 飆升至 4.72 x 10^5。這些發現強調了 AttentionBreaker 在揭露和利用 LLM 架構中的關鍵漏洞方面的有效性。
+
+##### **Learning to Reason Iteratively and Parallelly for Complex Visual Reasoning Scenarios**
+2411.13754v1 by Shantanu Jaiswal, Debaditya Roy, Basura Fernando, Cheston Tan
+
+Complex visual reasoning and question answering (VQA) is a challenging task
+that requires compositional multi-step processing and higher-level reasoning
+capabilities beyond the immediate recognition and localization of objects and
+events. Here, we introduce a fully neural Iterative and Parallel Reasoning
+Mechanism (IPRM) that combines two distinct forms of computation -- iterative
+and parallel -- to better address complex VQA scenarios. Specifically, IPRM's
+"iterative" computation facilitates compositional step-by-step reasoning for
+scenarios wherein individual operations need to be computed, stored, and
+recalled dynamically (e.g. when computing the query "determine the color of pen
+to the left of the child in red t-shirt sitting at the white table").
+Meanwhile, its "parallel" computation allows for the simultaneous exploration
+of different reasoning paths and benefits more robust and efficient execution
+of operations that are mutually independent (e.g. when counting individual
+colors for the query: "determine the maximum occurring color amongst all
+t-shirts"). We design IPRM as a lightweight and fully-differentiable neural
+module that can be conveniently applied to both transformer and non-transformer
+vision-language backbones. It notably outperforms prior task-specific methods
+and transformer-based attention modules across various image and video VQA
+benchmarks testing distinct complex reasoning capabilities such as
+compositional spatiotemporal reasoning (AGQA), situational reasoning (STAR),
+multi-hop reasoning generalization (CLEVR-Humans) and causal event linking
+(CLEVRER-Humans). Further, IPRM's internal computations can be visualized
+across reasoning steps, aiding interpretability and diagnosis of its errors.
+
+摘要：複雜視覺推理和問題解答 (VQA) 是一項具有挑戰性的任務，需要組合式多步驟處理和超越立即識別和定位物件和事件的高階推理能力。在此，我們引入了一種完全神經元的迭代並行推理機制 (IPRM)，它結合了兩種不同的計算形式——迭代和並行——以更好地應對複雜的 VQA 場景。具體來說，IPRM 的「迭代」計算促進了情境中逐步組合式推理，在該情境中需要動態地計算、儲存和調用個別運算（例如，在計算查詢「判斷坐在白色桌子旁穿紅色 T 恤的小孩左邊的筆的顏色」時）。同時，其「並行」計算允許同時探索不同的推理路徑，並受益於對相互獨立的運算進行更穩健且有效率的執行（例如，在計算查詢的個別顏色時：「判斷所有 T 恤中出現次數最多的顏色」）。我們將 IPRM 設計為一個輕量且完全可微分的類神經元模組，可以方便地應用於Transformer和非Transformer視覺語言主幹。它明顯優於各種影像和影片 VQA 基準測試中先前的特定任務方法和基於Transformer的注意力模組，這些基准測試了不同的複雜推理能力，例如組合式時空推理 (AGQA)、情境推理 (STAR)、多跳推理概化 (CLEVR-Humans) 和因果事件連結 (CLEVRER-Humans)。此外，IPRM 的內部計算可以在推理步驟中視覺化，有助於其錯誤的可解釋性和診斷。
 
 ##### **AI-Driven Agents with Prompts Designed for High Agreeableness Increase the Likelihood of Being Mistaken for a Human in the Turing Test**
 2411.13749v1 by U. León-Domínguez, E. D. Flores-Flores, A. J. García-Jasso, M. K. Gómez-Cuellar, D. Torres-Sánchez, A. Basora-Marimon
@@ -2204,32 +2246,6 @@ Llama-3.2-3B with 1.32% higher average accuracy, an 11.67x cache size
 reduction, and 3.49x throughput.
 
 摘要：我們提出 Hymba，一個小型語言模型系列，具有整合Transformer注意力機制與狀態空間模型 (SSM) 的混合頭平行架構，以提高效率。注意力頭提供高解析度召回，而 SSM 頭則能有效地對內容進行摘要。此外，我們引入了可學習的元標記，並將其置於提示之前，儲存關鍵資訊，並減輕與注意力機制相關的「被迫關注」負擔。此模型進一步透過整合跨層鍵值 (KV) 共享和部分滑動視窗注意力進行最佳化，進而縮小快取大小。在開發過程中，我們進行了一項受控研究，在相同的設定下比較各種架構，並觀察到我們提出的架構具有顯著的優點。值得注意的是，Hymba 達到了小型語言模型的最新技術成果：我們的 Hymba-1.5B-Base 模型在效能上超越所有低於 2B 的公開模型，甚至以高出 1.32% 的平均準確度、減少 11.67 倍的快取大小和 3.49 倍的吞吐量，優於 Llama-3.2-3B。
-
-##### **FabuLight-ASD: Unveiling Speech Activity via Body Language**
-2411.13674v1 by Hugo Carneiro, Stefan Wermter
-
-Active speaker detection (ASD) in multimodal environments is crucial for
-various applications, from video conferencing to human-robot interaction. This
-paper introduces FabuLight-ASD, an advanced ASD model that integrates facial,
-audio, and body pose information to enhance detection accuracy and robustness.
-Our model builds upon the existing Light-ASD framework by incorporating human
-pose data, represented through skeleton graphs, which minimises computational
-overhead. Using the Wilder Active Speaker Detection (WASD) dataset, renowned
-for reliable face and body bounding box annotations, we demonstrate
-FabuLight-ASD's effectiveness in real-world scenarios. Achieving an overall
-mean average precision (mAP) of 94.3%, FabuLight-ASD outperforms Light-ASD,
-which has an overall mAP of 93.7% across various challenging scenarios. The
-incorporation of body pose information shows a particularly advantageous
-impact, with notable improvements in mAP observed in scenarios with speech
-impairment, face occlusion, and human voice background noise. Furthermore,
-efficiency analysis indicates only a modest increase in parameter count (27.3%)
-and multiply-accumulate operations (up to 2.4%), underscoring the model's
-efficiency and feasibility. These findings validate the efficacy of
-FabuLight-ASD in enhancing ASD performance through the integration of body pose
-data. FabuLight-ASD's code and model weights are available at
-https://github.com/knowledgetechnologyuhh/FabuLight-ASD.
-
-摘要：<paragraph>在多模式環境中的主動說話者偵測 (ASD) 對於各種應用至關重要，從視訊會議到人機互動皆是如此。本文介紹了 FabuLight-ASD，這是一種先進的 ASD 模型，它整合了臉部、音訊和身體姿勢資訊，以增強偵測準確度和穩健性。我們的模型建構於現有的 Light-ASD 架構之上，透過納入人體姿勢資料（以骨架圖表表示），將運算開銷降至最低。使用以可靠的臉部和身體邊界框註解而聞名的 Wilder Active Speaker Detection (WASD) 資料集，我們展示了 FabuLight-ASD 在真實世界場景中的有效性。FabuLight-ASD 的整體平均平均準確度 (mAP) 達到 94.3%，在各種具有挑戰性的場景中都優於 Light-ASD，後者的整體 mAP 為 93.7%。人體姿勢資訊的納入顯示出特別有利的影響，在有言語障礙、臉部遮擋和人聲背景噪音的場景中，mAP 有顯著的提升。此外，效率分析僅顯示參數計數（27.3%）和乘累加運算（最多 2.4%）有小幅增加，這突顯了此模型的效率和可行性。這些發現驗證了 FabuLight-ASD 在整合人體姿勢資料後，可提升 ASD 效能。FabuLight-ASD 的程式碼和模型權重可在 https://github.com/knowledgetechnologyuhh/FabuLight-ASD 取得。</paragraph>
 
 ##### **No Free Delivery Service: Epistemic limits of passive data collection in complex social systems**
 2411.13653v1 by Maximilian Nickel
@@ -2541,21 +2557,4 @@ high-performance deployment of compound AI systems.
 摘要：大型語言模型 (LLM) 在企業中廣泛使用，通常使用專有模型並對敏感輸入和數據進行操作。先前研究中發現的各種攻擊媒介 - 針對訓練和推理中使用的各種軟體和硬體元件 - 使得執行機密性和完整性政策極具挑戰性。
 當我們朝著構建整合多個大型語言模型 (LLM) 的複合式 AI 推理管線邁進時，攻擊面會顯著擴大。攻擊者現在專注於 AI 演算法以及與這些系統相關的軟體和硬體元件。雖然目前的研究所調查通常孤立地檢查這些元素，但我們發現結合跨層攻擊觀察可以實現強大的端對端攻擊，對威脅模型的假設最少。由於每一層現有攻擊的數量龐大，我們需要對每一層的不同攻擊媒介有全面且系統化的了解。
 本 SoK 討論了適用於複合式 AI 系統的不同軟體和硬體攻擊，並展示了結合多種攻擊機制如何降低孤立攻擊所需的威脅模型假設。接下來，我們系統化 ML 攻擊，並與 Mitre Att&ck 架構保持一致，以便根據威脅模型更好地定位每個攻擊。最後，我們概述了軟體和硬體層的現有對策，並討論了全面防禦策略的必要性，以實現複合式 AI 系統的安全和高性能部署。
-
-##### **LIMBA: An Open-Source Framework for the Preservation and Valorization of Low-Resource Languages using Generative Models**
-2411.13453v1 by Salvatore Mario Carta, Stefano Chessa, Giulia Contu, Andrea Corriga, Andrea Deidda, Gianni Fenu, Luca Frigau, Alessandro Giuliani, Luca Grassi, Marco Manolo Manca, Mirko Marras, Francesco Mola, Bastianino Mossa, Piergiorgio Mura, Marco Ortu, Leonardo Piano, Simone Pisano, Alessia Pisu, Alessandro Sebastian Podda, Livio Pompianu, Simone Seu, Sandro Gabriele Tiddia
-
-Minority languages are vital to preserving cultural heritage, yet they face
-growing risks of extinction due to limited digital resources and the dominance
-of artificial intelligence models trained on high-resource languages. This
-white paper proposes a framework to generate linguistic tools for low-resource
-languages, focusing on data creation to support the development of language
-models that can aid in preservation efforts. Sardinian, an endangered language,
-serves as the case study to demonstrate the framework's effectiveness. By
-addressing the data scarcity that hinders intelligent applications for such
-languages, we contribute to promoting linguistic diversity and support ongoing
-efforts in language standardization and revitalization through modern
-technologies.
-
-摘要：少數語言對於保存文化遺產至關重要，但由於數位資源有限以及以高資源語言訓練的人工智慧模型的普及，這些語言面臨越來越高的滅絕風險。本白皮書提出了一個框架，用於產生低資源語言的語言工具，重點在於建立資料，以支援語言模型的開發，進而協助保存工作。薩丁尼亞語是一種瀕臨滅絕的語言，作為案例研究來證明此框架的有效性。透過解決阻礙此類語言的智慧型應用程式的資料短缺問題，我們可以協助推廣語言多樣性，並透過現代科技支援語言標準化和復興的持續努力。
 

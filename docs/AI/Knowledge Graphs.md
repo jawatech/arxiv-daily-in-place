@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495v1](http://arxiv.org/abs/2411.16495v1)|null|
+|**2024-11-25**|**Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**|Xiaocong Yang et.al.|[2411.16454v1](http://arxiv.org/abs/2411.16454v1)|null|
+|**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403v1](http://arxiv.org/abs/2411.16403v1)|null|
+|**2024-11-24**|**Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT**|Siqi Wang et.al.|[2411.15758v1](http://arxiv.org/abs/2411.15758v1)|[link](https://github.com/tongji-kgllm/industryscope)|
 |**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033v1](http://arxiv.org/abs/2411.15033v1)|null|
 |**2024-11-22**|**Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**|Simone Colombani et.al.|[2411.15027v1](http://arxiv.org/abs/2411.15027v1)|null|
 |**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922v1](http://arxiv.org/abs/2411.14922v1)|null|
@@ -12,10 +16,10 @@
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012v1](http://arxiv.org/abs/2411.14012v1)|null|
 |**2024-11-21**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773v1](http://arxiv.org/abs/2411.13773v1)|null|
 |**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534v1](http://arxiv.org/abs/2411.13534v1)|[link](https://github.com/chapagaisa/transductive)|
-|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v1](http://arxiv.org/abs/2411.12950v1)|null|
+|**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v2](http://arxiv.org/abs/2411.12950v2)|null|
 |**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671v1](http://arxiv.org/abs/2411.12671v1)|null|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633v1](http://arxiv.org/abs/2411.12633v1)|null|
-|**2024-11-19**|**Bias Free Sentiment Analysis**|Hubert Plisiecki et.al.|[2411.12493v1](http://arxiv.org/abs/2411.12493v1)|null|
+|**2024-11-19**|**Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks**|Hubert Plisiecki et.al.|[2411.12493v2](http://arxiv.org/abs/2411.12493v2)|null|
 |**2024-11-19**|**Neon: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449v2](http://arxiv.org/abs/2411.12449v2)|null|
 |**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479v1](http://arxiv.org/abs/2411.14479v1)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174v1](http://arxiv.org/abs/2411.12174v1)|null|
@@ -27,7 +31,7 @@
 |**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459v1](http://arxiv.org/abs/2411.14459v1)|null|
 |**2024-11-16**|**A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery**|Grace Sng et.al.|[2411.12759v1](http://arxiv.org/abs/2411.12759v1)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v2](http://arxiv.org/abs/2411.10446v2)|null|
-|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371v1](http://arxiv.org/abs/2411.10371v1)|null|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Qing Cheng et.al.|[2411.10371v2](http://arxiv.org/abs/2411.10371v2)|null|
 |**2024-11-15**|**Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**|Md. Asif Haider et.al.|[2411.10129v1](http://arxiv.org/abs/2411.10129v1)|null|
 |**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978v1](http://arxiv.org/abs/2411.09978v1)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601v1](http://arxiv.org/abs/2411.09601v1)|null|
@@ -36,7 +40,7 @@
 |**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v2](http://arxiv.org/abs/2411.08278v2)|null|
 |**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165v1](http://arxiv.org/abs/2411.08165v1)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
-|**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965v1](http://arxiv.org/abs/2411.07965v1)|null|
+|**2024-11-12**|**From General to Specific: Utilizing General Hallucination to Benchmark Specific Role-Playing Agents**|Chuyi Kong et.al.|[2411.07965v2](http://arxiv.org/abs/2411.07965v2)|null|
 |**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843v1](http://arxiv.org/abs/2411.07843v1)|null|
 |**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185v1](http://arxiv.org/abs/2411.07185v1)|null|
 |**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163v1](http://arxiv.org/abs/2411.07163v1)|null|
@@ -98,12 +102,94 @@
 |**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783v1](http://arxiv.org/abs/2410.20783v1)|[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)|
 |**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
 |**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v2](http://arxiv.org/abs/2410.20724v2)|[link](https://github.com/graph-com/subgraphrag)|
-|**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321v1](http://arxiv.org/abs/2410.20321v1)|null|
-|**2024-10-26**|**Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts**|Vishesh Prasad et.al.|[2410.21324v1](http://arxiv.org/abs/2410.21324v1)|null|
-|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955v1](http://arxiv.org/abs/2410.19955v1)|null|
-|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727v1](http://arxiv.org/abs/2410.19727v1)|null|
 
 #### Abstracts
+##### **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**
+2411.16495v1 by Amy Xin, Jinxin Liu, Zijun Yao, Zhicheng Li, Shulin Cao, Lei Hou, Juanzi Li
+
+Recent advancements in large language models (LLMs) have led to significant
+improvements in various natural language processing tasks, but it is still
+challenging for LLMs to perform knowledge-intensive complex question answering
+due to LLMs' inefficacy in reasoning planning and the hallucination problem. A
+typical solution is to employ retrieval-augmented generation (RAG) coupled with
+chain-of-thought (CoT) reasoning, which decomposes complex questions into
+chain-like sub-questions and applies iterative RAG at each sub-question.
+However, prior works exhibit sub-optimal reasoning planning and overlook
+dynamic knowledge retrieval from heterogeneous sources. In this paper, we
+propose AtomR, a novel heterogeneous knowledge reasoning framework that
+conducts multi-source reasoning at the atomic level. Drawing inspiration from
+the graph modeling of knowledge, AtomR leverages large language models (LLMs)
+to decompose complex questions into combinations of three atomic knowledge
+operators, significantly enhancing the reasoning process at both the planning
+and execution stages. We also introduce BlendQA, a novel evaluation benchmark
+tailored to assess complex heterogeneous knowledge reasoning. Experiments show
+that AtomR significantly outperforms state-of-the-art baselines across three
+single-source and two multi-source reasoning benchmarks, with notable
+performance gains of 9.4% on 2WikiMultihop and 9.5% on BlendQA.
+
+摘要：大型語言模型 (LLM) 的最新進展已大幅改善各種自然語言處理任務，但由於 LLM 在推理規劃和幻覺問題上的無能，對於 LLM 執行需要知識的複雜問題回答仍然具有挑戰性。典型的解決方案是採用檢索增強生成 (RAG) 搭配思考鏈 (CoT) 推理，將複雜問題分解成鏈狀子問題，並在每個子問題上套用迭代 RAG。然而，先前的工作展現出次佳推理規劃，且忽略了從異質來源動態檢索知識。在本文中，我們提出 AtomR，一個新穎的異質知識推理架構，在原子層級執行多來源推理。從知識的圖形建模中汲取靈感，AtomR 採用大型語言模型 (LLM) 將複雜問題分解成三種原子知識運算子的組合，大幅強化規劃和執行階段的推理程序。我們也引入了 BlendQA，一個新穎的評量基準，專門用來評估複雜的異質知識推理。實驗顯示，AtomR 在三個單一來源和兩個多來源推理基準上大幅優於現有的基線，在 2WikiMultihop 上有 9.4% 的顯著效能提升，在 BlendQA 上則有 9.5%。
+
+##### **Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**
+2411.16454v1 by Xiaocong Yang, Jiacheng Lin, Ziqi Wang, Chengxiang Zhai
+
+Large language models (LLMs) are known to struggle with complicated reasoning
+tasks such as math word problems (MWPs). In this paper, we present how analogy
+from similarly structured questions can improve LLMs' problem-solving
+capabilities for MWPs. Specifically, we rely on the retrieval of problems with
+similar computational graphs to the given question to serve as exemplars in the
+prompt, providing the correct reasoning path for the generation model to refer
+to. Empirical results across six math word problem datasets demonstrate the
+effectiveness of our proposed method, which achieves a significant improvement
+of up to 6.7 percent on average in absolute value, compared to baseline
+methods. These results highlight our method's potential in addressing the
+reasoning challenges in current LLMs.
+
+摘要：大型語言模型 (LLM) 已知在複雜推理任務（例如數學文字題 (MWP)）中會遇到困難。在本文中，我們展示了來自結構相似的問題的類比如何能改善 LLM 對 MWP 的問題解決能力。具體來說，我們依賴於擷取與給定問題具有類似運算圖形的問題，作為提示中的範例，為生成模型提供正確的推理路徑以供參考。六個數學文字題數據集的實證結果證明了我們提出的方法的有效性，與基線方法相比，平均絕對值提高了 6.7 個百分點。這些結果突出了我們的方法在解決當前 LLM 中的推理挑戰方面的潛力。
+
+##### **Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**
+2411.16403v1 by Alexander Fichtl, Juraj Vladika, Georg Groh
+
+Knowledge-enhanced language models (KELMs) have emerged as promising tools to
+bridge the gap between large-scale language models and domain-specific
+knowledge. KELMs can achieve higher factual accuracy and mitigate
+hallucinations by leveraging knowledge graphs (KGs). They are frequently
+combined with adapter modules to reduce the computational load and risk of
+catastrophic forgetting. In this paper, we conduct a systematic literature
+review (SLR) on adapter-based approaches to KELMs. We provide a structured
+overview of existing methodologies in the field through quantitative and
+qualitative analysis and explore the strengths and potential shortcomings of
+individual approaches. We show that general knowledge and domain-specific
+approaches have been frequently explored along with various adapter
+architectures and downstream tasks. We particularly focused on the popular
+biomedical domain, where we provided an insightful performance comparison of
+existing KELMs. We outline the main trends and propose promising future
+directions.
+
+摘要：知識增強語言模型（KELM）已成為彌合大規模語言模型與特定領域知識差距的有前途的工具。KELM 可以透過利用知識圖譜（KG）來提高事實準確性並減少幻覺。它們經常與適配器模組結合使用，以降低運算負載和災難性遺忘的風險。在本文中，我們對基於適配器的 KELM 方法進行系統性的文獻回顧（SLR）。我們透過定量和定性分析提供該領域既有方法論的結構化概觀，並探討個別方法的優點和潛在缺點。我們表明，一般知識和特定領域的方法已與各種適配器架構和下游任務一起被頻繁探索。我們特別關注熱門的生物醫學領域，在該領域中，我們提供了現有 KELM 的有見地效能比較。我們概述了主要趨勢，並提出了有前途的未來方向。
+
+##### **Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT**
+2411.15758v1 by Siqi Wang, Chao Liang, Yunfan Gao, Yang Liu, Jing Li, Haofen Wang
+
+Industrial parks are critical to urban economic growth. Yet, their
+development often encounters challenges stemming from imbalances between
+industrial requirements and urban services, underscoring the need for strategic
+planning and operations. This paper introduces IndustryScopeKG, a pioneering
+large-scale multi-modal, multi-level industrial park knowledge graph, which
+integrates diverse urban data including street views, corporate,
+socio-economic, and geospatial information, capturing the complex relationships
+and semantics within industrial parks. Alongside this, we present the
+IndustryScopeGPT framework, which leverages Large Language Models (LLMs) with
+Monte Carlo Tree Search to enhance tool-augmented reasoning and decision-making
+in Industrial Park Planning and Operation (IPPO). Our work significantly
+improves site recommendation and functional planning, demonstrating the
+potential of combining LLMs with structured datasets to advance industrial park
+management. This approach sets a new benchmark for intelligent IPPO research
+and lays a robust foundation for advancing urban industrial development. The
+dataset and related code are available at
+https://github.com/Tongji-KGLLM/IndustryScope.
+
+摘要：工業園區對於都市經濟成長至關重要。然而，其發展經常會遇到工業需求與都市服務之間不平衡所產生的挑戰，這凸顯了策略性規劃與營運的需求。本文介紹了 IndustryScopeKG，一個先驅性的、大規模、多模式、多層級的工業園區知識圖譜，它整合了包含街景、公司、社會經濟和地理空間資訊在內的各種都市資料，捕捉工業園區內複雜的關係和語意。除此之外，我們提出了 IndustryScopeGPT 架構，它利用大型語言模型 (LLM) 與蒙地卡羅樹狀搜尋，以增強工具輔助推理和在工業園區規劃和營運 (IPPO) 中的決策制定。我們的研究大幅改善了場地推薦和功能規劃，展示了結合 LLM 和結構化資料集以推進工業園區管理的潛力。這個方法為智慧 IPPO 研究設定了新的基準，並為推進都市產業發展奠定了穩固的基礎。資料集和相關程式碼可在 https://github.com/Tongji-KGLLM/IndustryScope 取得。
+
 ##### **One to rule them all: natural language to bind communication, perception and action**
 2411.15033v1 by Simone Colombani, Dimitri Ognibene, Giuseppe Boccignone
 
@@ -370,7 +456,7 @@ stress-sensitive health problems.
 摘要：<paragraph>認同自己是性與性別少數族群的人，包括女同性戀、男同性戀、雙性戀、跨性別、酷兒和其他 LGBTQ+ 族群，比異性戀和順性別者更容易有較差的健康狀況。造成這些健康差異的主要來源之一是少數族群壓力（即 LGBTQ+ 社群在適應主流文化時獨有的慢性與社會壓力）。這種壓力經常在 LGBTQ+ 使用者於社群媒體平台上的貼文中表達出來。然而，這些表達並不僅僅是少數族群壓力的直接表現。它們包含了語言複雜性（例如慣用語或詞彙多樣性），讓許多傳統的自然語言處理方法難以辨識。在這項研究中，我們設計了一個混合模型，使用圖神經網路 (GNN) 和來自 Transformer 的雙向編碼器表徵 (BERT)，這是一個經過預先訓練的深度語言模型，以提升少數族群壓力辨識的分類效能。我們在一個用於少數族群壓力辨識的基準社群媒體資料集 (LGBTQ+ MiSSoM+) 上對我們的模型進行實驗。該資料集包含了 5,789 篇由人類註解的 Reddit 貼文，來自於 LGBTQ+ 的 subreddit。我們的做法能夠透過在大量的原始資料上進行預訓練來萃取隱藏的語言差異，同時也參與轉導式學習，以共同開發標籤訓練資料和未標籤測試資料的表徵。RoBERTa-GCN 模型達到了 0.86 的準確率和 0.86 的 F1 分數，在預測 LGBTQ+ 少數族群壓力方面超越了其他基線模型的效能。在社群媒體上對少數族群壓力表達的預測改善，可以導致數位健康介入措施，以改善 LGBTQ+ 族群的福祉，而這個族群有很高的壓力敏感性健康問題發生率。</paragraph>
 
 ##### **KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**
-2411.12950v1 by Ming Yin, Qiang Zhou, Zongsheng Cao, Mei Li
+2411.12950v2 by Ming Yin, Qiang Zhou, Zongsheng Cao, Mei Li
 
 Numerical reasoning is pivotal in various artificial intelligence
 applications, such as natural language processing and recommender systems,
@@ -395,7 +481,7 @@ capturing fine-grained semantic nuances essential for accurate numerical
 reasoning. Experiments on three public benchmark datasets demonstrate the
 superior performance of KAAE across various attribute value distributions.
 
-摘要：數字推理在各種人工智慧應用中至關重要，例如自然語言處理和推薦系統，其中涉及使用實體、關係和屬性值（例如，重量、長度）來推斷新的事實關係（例如，尼羅河比亞馬遜河長）。然而，現有方法在建模中遇到兩個關鍵挑戰：(1) 語義相關性 - 無法充分捕捉實體、關係和數值屬性之間必要的上下文交互的挑戰，通常導致次優推論；(2) 語義模糊 - 在數字推理過程中準確區分序數關係的難度，這會損害高品質樣本的生成並限制對比學習的有效性。為了應對這些挑戰，我們提出了用於數字推理中知識圖嵌入的知識感知屬性嵌入模型 (KAAE)。具體來說，為了克服語義相關性的挑戰，我們引入了一個混合專家知識感知 (MoEKA) 編碼器，旨在將實體、關係和數值屬性的語義整合到一個聯合語義空間中。為了應對語義模糊，我們實施了一種新的序數知識對比學習 (OKCL) 策略，該策略利用序數關係從原始數據中生成高品質序數樣本，捕捉對準確數字推理至關重要的細粒度語義細微差別。在三個公共基準數據集上的實驗證明了 KAAE 在各種屬性值分佈中的卓越性能。
+摘要：數值推理在各種人工智慧應用中至關重要，例如自然語言處理和推薦系統，其中涉及使用實體、關係和屬性值（例如，重量、長度）來推論新的事實關係（例如，尼羅河比亞馬遜河長）。然而，現有方法在建模中遇到兩個關鍵挑戰：（1）語義相關性 - 無法充分捕捉實體、關係和數值屬性之間必要的上下文交互的挑戰，通常導致次優推理；以及（2）語義歧義 - 在數值推理期間準確區分序數關係的難度，這會損害高品質樣本的產生並限制對比學習的有效性。為了應對這些挑戰，我們提出了用於數值推理的知識圖譜嵌入的新型知識感知屬性嵌入模型 (KAAE)。具體來說，為了克服語義相關性的挑戰，我們引入了一個混合專家知識感知 (MoEKA) 編碼器，旨在將實體、關係和數值屬性的語義整合到一個聯合語義空間中。為了應對語義歧義，我們實施了一種新的序數知識對比學習 (OKCL) 策略，該策略利用序數關係從原始數據中生成高品質序數樣本，捕捉對準確數值推理至關重要的細緻語義差異。在三個公開基準數據集上的實驗證明了 KAAE 在各種屬性值分佈中的優異性能。
 
 ##### **Neurosymbolic Graph Enrichment for Grounded World Models**
 2411.12671v1 by Stefano De Giorgis, Aldo Gangemi, Alessandro Russo
@@ -441,8 +527,8 @@ https://www.robot-learning.uk/instant-policy.
 
 摘要：繼大型Transformer在情境學習中表現出令人印象深刻的能力後，情境模仿學習 (ICIL) 成為了機器人領域中一個有前途的機會。我們引入了即時策略，它僅從一或兩次示範中立即學習新任務（無需進一步訓練），並通過兩個關鍵組成部分實現 ICIL。首先，我們通過圖形表示和模型 ICIL 引入歸納偏差，並將其作為具有學習擴散過程的圖形生成問題，從而能夠對示範、觀察和動作進行結構化推理。其次，我們展示了這種模型可以使用偽示範進行訓練，而偽示範是模擬中產生的任意軌跡，可用作幾乎無限的訓練數據池。模擬和真實實驗表明，即時策略能夠快速學習各種日常機器人任務。我們還展示了它如何作為跨具身和零次傳輸到語言定義任務的基礎。代碼和影片可在 https://www.robot-learning.uk/instant-policy 取得。
 
-##### **Bias Free Sentiment Analysis**
-2411.12493v1 by Hubert Plisiecki
+##### **Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks**
+2411.12493v2 by Hubert Plisiecki
 
 This paper introduces the Semantic Propagation Graph Neural Network (SProp
 GNN), a machine learning sentiment analysis (SA) architecture that relies
@@ -459,7 +545,7 @@ between interpretable lexicon approaches and powerful, yet often opaque, deep
 learning models, offering a robust tool for fair and effective emotion analysis
 in understanding human behavior through text.
 
-摘要：本文介紹語意傳播圖神經網路 (SProp GNN)，這是一種機器學習情緒分析 (SA) 架構，僅依賴語法結構和字詞層級的情緒線索來預測文字中的情緒。透過在語意上讓模型對特定字詞的資訊視而不見，它能抵抗政治或性別偏見等偏差，而這些偏差一直困擾著先前的基於機器學習的 SA 系統。SProp GNN 在兩項不同的預測任務和兩種語言中都表現出優於 VADER 和 EmoAtlas 等基於詞彙的替代方案。此外，它接近基於轉換器的模型的準確性，同時大幅減少情緒預測任務中的偏差。透過提供更好的可解釋性並減少偏差，SProp GNN 彌合了可解釋詞彙方法與強大但通常不透明的深度學習模型之間的方法論差距，提供了一個強大的工具，用於透過文字理解人類行為的公平和有效的情緒分析。
+摘要：本文介紹了語義傳播圖神經網路 (SProp GNN)，這是一種機器學習情緒分析 (SA) 架構，專門依賴句法結構和詞彙層級的情緒線索來預測文字中的情緒。透過在語義上讓模型對特定字詞的資訊視而不見，它能有效消除政治或性別偏見等偏誤，這些偏誤一直困擾著先前的機器學習式 SA 系統。SProp GNN 在兩項不同的預測任務和兩種語言上的表現都優於基於詞彙庫的替代方案，例如 VADER 和 EmoAtlas。此外，它在大幅減少情緒預測任務中的偏誤同時，也接近了基於轉換器的模型的準確度。透過提供更好的可解釋性並減少偏誤，SProp GNN 搭起了可詮釋詞彙方法與強大但經常不透明的深度學習模型之間的方法論鴻溝，提供了一個強健的工具，可以透過文字理解人類行為，進行公平且有效的分析。
 
 ##### **Neon: News Entity-Interaction Extraction for Enhanced Question Answering**
 2411.12449v2 by Sneha Singhania, Silviu Cucerzan, Allen Herring, Sujay Kumar Jauhar
@@ -742,7 +828,7 @@ for language-based tasks and 30% for image-based tasks.
 摘要：視覺語言模型 (VLM) 的最新進展為機器人任務規劃提供了潛力，但由於 VLM 傾向於生成不正確的動作序列，因此仍存在挑戰。為了解決這些限制，我們提出了 VeriGraph，這是一個新穎的架構，它整合了 VLM 以進行機器人規劃，同時驗證動作的可行性。VeriGraph 使用場景圖作為中間表示，擷取關鍵物件和空間關係以改善計畫驗證和精煉。系統從輸入影像中生成場景圖，並使用它來反覆檢查和修正由基於 LLM 的任務規劃器產生的動作序列，確保遵守約束且動作可執行。我們的做法大幅提高了在各種操作場景中的任務完成率，在基於語言的任務中優於基線方法 58%，在基於影像的任務中優於 30%。
 
 ##### **A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**
-2411.10371v1 by Zefan Zeng, Qing Cheng, Xingchen Hu, Yuehang Si, Zhong Liu
+2411.10371v2 by Qing Cheng, Zefan Zeng, Xingchen Hu, Yuehang Si, Zhong Liu
 
 Event Causality Identification (ECI) has become a crucial task in Natural
 Language Processing (NLP), aimed at automatically extracting causalities from
@@ -764,7 +850,7 @@ evaluation of various ECI methods on two benchmark datasets. Finally, we
 explore future research directions, highlighting promising pathways to overcome
 current limitations and broaden ECI applications.
 
-摘要：事件因果關係識別（ECI）已成為自然語言處理（NLP）中的一項關鍵任務，旨在從文本資料中自動提取因果關係。在本次調查中，我們系統性地探討 ECI 的基礎原理、技術框架和挑戰，提供一個全面的分類法來分類和釐清當前研究方法，以及對現有模型進行定量評估。我們首先為 ECI 建立一個概念框架，概述關鍵定義、問題表述和評估標準。我們的分類法根據句子層級（SECI）和文件層級（DECI）事件因果關係識別這兩個主要任務對 ECI 方法進行分類。對於 SECI，我們探討基於特徵模式的匹配、深度語義編碼、因果知識預訓練和基於提示的微調，以及外部知識增強方法。對於 DECI，我們重點介紹專注於事件圖形推理和基於提示的技術，以解決跨句子因果推論的複雜性。此外，我們分析了每種方法的優點、限制和開放性挑戰。我們進一步對兩種基準資料集上的各種 ECI 方法進行廣泛的定量評估。最後，我們探討未來的研究方向，重點介紹克服當前限制和擴展 ECI 應用程式的有希望的途徑。
+摘要：事件因果關係識別 (ECI) 已成為自然語言處理 (NLP) 中一項至關重要的任務，旨在從文本資料中自動萃取因果關係。在此調查中，我們系統性地探討 ECI 的基礎原理、技術架構和挑戰，提供一個全面的分類法來分類和釐清當前的研究方法，以及對現有模型的量化評估。我們首先為 ECI 建立一個概念框架，概述關鍵定義、問題表述和評估標準。我們的分類法根據句子層級 (SECI) 和文件層級 (DECI) 事件因果關係識別這兩個主要任務，對 ECI 方法進行分類。對於 SECI，我們檢視基於特徵模式的比對、深度語意編碼、因果知識預訓練和基於提示的微調，以及外部知識增強方法。對於 DECI，我們強調以事件圖推論和基於提示的技術為重點的方法，以解決跨句子因果推論的複雜性。此外，我們分析每種方法的優點、限制和開放性挑戰。我們進一步對各種 ECI 方法在兩個基準資料集上進行廣泛的量化評估。最後，我們探討未來的研究方向，強調有希望克服當前限制和擴展 ECI 應用程式的途徑。
 
 ##### **Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**
 2411.10129v1 by Md. Asif Haider, Ayesha Binte Mostofa, Sk. Sabit Bin Mosaddek, Anindya Iqbal, Toufique Ahmed
@@ -940,27 +1026,24 @@ benefit from sequential data with controllable causal structure.
 
 摘要：<paragraph>我們提出了一個基於大型語言模型 (LLM) 的資料生成架構，具有可控制的因果結構。具體來說，我們定義了一個程序，將任何語言模型和任何有向無環圖 (DAG) 轉換成一個序列驅動的結構因果模型 (SD-SCM)。廣義來說，SD-SCM 是一個因果模型，具有使用者定義的結構和 LLM 定義的結構方程式。我們描述了 SD-SCM 如何根據所需的因果結構，允許從觀測、介入和反事實分佈中進行抽樣。然後，我們利用這個程序提出了一種類型的因果推論方法基準，生成個體層級的反事實資料，而無需手動指定變數之間的功能關係。我們建立了一個範例基準，包含數千個資料集，並在這些資料集上測試了一系列流行的估計方法，用於平均值、條件平均值和個別處理效果估計，無論是有或沒有隱藏混淆。除了生成資料之外，相同的程序也允許我們測試 LLM 中可能編碼的因果效應的存在。此程序可以支持審核 LLM 的錯誤資訊、歧視或其他不良行為。我們相信 SD-SCM 可以作為任何應用程式的有用工具，這些應用程式可以從具有可控制因果結構的序列資料中受益。</paragraph>
 
-##### **From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**
-2411.07965v1 by Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi Sun, Jing Ma
+##### **From General to Specific: Utilizing General Hallucination to Benchmark Specific Role-Playing Agents**
+2411.07965v2 by Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi Sun, Jing Ma
 
 The advanced role-playing capabilities of Large Language Models (LLMs) have
 paved the way for developing Role-Playing Agents (RPAs). However, existing
-benchmarks, such as HPD, which incorporates manually scored character
-relationships into the context for LLMs to sort coherence, and SocialBench,
-which uses specific profiles generated by LLMs in the context of
-multiple-choice tasks to assess character preferences, face limitations like
-poor generalizability, implicit and inaccurate judgments, and excessive context
-length. To address the above issues, we propose an automatic, scalable, and
-generalizable paradigm. Specifically, we construct a benchmark by extracting
-relations from a general knowledge graph and leverage RPA's inherent
-hallucination properties to prompt it to interact across roles, employing
-ChatGPT for stance detection and defining relationship hallucination along with
-three related metrics. Extensive experiments validate the effectiveness and
-stability of our metrics. Our findings further explore factors influencing
-these metrics and discuss the trade-off between relationship hallucination and
-factuality.
+benchmarks in this domain, such as HPD and SocialBench face limitations like
+poor generalizability, implicit and inaccurate judgments, and the risk of model
+forgetting. To address the above issues, we propose an automatic, scalable, and
+generalizable paradigm. Specifically, we construct a benchmark, SHARP, by
+extracting relations from a general knowledge graph and leveraging the inherent
+hallucination properties of RPAs to simulate interactions across roles. We
+employ ChatGPT for stance detection and define relationship hallucination along
+with three related metrics based on stance transfer. Extensive experiments
+validate the effectiveness and stability of our paradigm. Our findings further
+explore the factors influencing these metrics and discuss the trade-off between
+blind loyalty to relationships and adherence to facts in RPAs.
 
-摘要：大型語言模型 (LLM) 的先進角色扮演能力已為開發角色扮演代理 (RPA) 鋪平道路。然而，現有的基準，例如 HPD（將手動評分的角色關係納入 LLM 的背景中以對連貫性進行排序），以及 SocialBench（在多選題任務的背景下使用 LLM 生成的特定個人資料來評估角色偏好）面臨著諸如通用性差、判斷含蓄且不準確以及背景長度過長等限制。為了解決上述問題，我們提出了一個自動、可擴充且可概括的範例。具體來說，我們通過從通用知識圖譜中提取關係來構建基準，並利用 RPA 固有的幻覺屬性提示它跨角色互動，採用 ChatGPT 進行立場檢測並定義關係幻覺以及三個相關指標。廣泛的實驗驗證了我們指標的有效性和穩定性。我們的研究結果進一步探討了影響這些指標的因素，並討論了關係幻覺和事實性之間的權衡。
+摘要：大型語言模型 (LLM) 的進階角色扮演能力已為角色扮演代理 (RPA) 的開發鋪平道路。然而，此領域現有的基準，例如 HPD 和 SocialBench，面臨著概括性差、判斷隱含且不準確，以及模型遺忘的風險等限制。為了解決上述問題，我們提出了一個自動化、可擴充且可概括的範例。具體來說，我們通過從一般知識圖譜中提取關係，並利用 RPA 固有的幻覺特性來模擬跨角色互動，構建了一個基準 SHARP。我們採用 ChatGPT 進行立場檢測，並定義關係幻覺以及基於立場轉移的三個相關指標。廣泛的實驗驗證了我們範例的有效性和穩定性。我們的發現進一步探討了影響這些指標的因素，並討論了 RPA 中對關係的盲目忠誠度與對事實的堅持之間的權衡。
 
 ##### **Chain Association-based Attacking and Shielding Natural Language Processing Systems**
 2411.07843v1 by Jiacheng Huang, Long Chen
@@ -2471,106 +2554,4 @@ accuracy, and reliability by reducing hallucinations and improving response
 grounding.
 
 摘要：<paragraph>大型語言模型 (LLM) 具有強大的推理能力，但面臨幻覺和過時知識等限制。基於知識圖譜 (KG) 的檢索增強生成 (RAG) 透過將 LLM 輸出結果奠基於 KG 中的結構化外部知識，來解決這些問題。然而，目前基於 KG 的 RAG 架構仍難以在檢索效能和效率之間取得最佳平衡，以找出 LLM 能夠消化的適當相關圖表資訊量。我們引進 SubgraphRAG，擴充基於 KG 的 RAG 架構，以檢索子圖表並利用 LLM 進行推理和答案預測。我們的做法創新地整合了一個輕量多層感知器與一個並行三元組計分機制，用於高效且靈活地檢索子圖表，同時編碼方向結構距離以增強檢索效能。檢索到的子圖表大小可以靈活調整，以符合查詢需求和下游 LLM 的功能。這種設計在模型複雜度和推理能力之間取得平衡，實現可擴充且可概化的檢索程序。值得注意的是，根據我們檢索到的子圖表，較小的 LLM（例如 Llama3.1-8B-Instruct）可以提供具備可解釋推理的競爭結果，而較大的模型（例如 GPT-4o）則達到與先前基準相比的最新準確度，而且所有這些都不需要微調。在 WebQSP 和 CWQ 基準上的廣泛評估突顯了 SubgraphRAG 在效率、準確度和可靠性方面的優勢，透過減少幻覺並改善回應依據。</paragraph>
-
-##### **Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**
-2410.20321v1 by Xingrui Zhuo, Jiapu Wang, Gongqing Wu, Shirui Pan, Xindong Wu
-
-Knowledge Graph Query Embedding (KGQE) aims to embed First-Order Logic (FOL)
-queries in a low-dimensional KG space for complex reasoning over incomplete
-KGs. To enhance the generalization of KGQE models, recent studies integrate
-various external information (such as entity types and relation context) to
-better capture the logical semantics of FOL queries. The whole process is
-commonly referred to as Query Pattern Learning (QPL). However, current QPL
-methods typically suffer from the pattern-entity alignment bias problem,
-leading to the learned defective query patterns limiting KGQE models'
-performance. To address this problem, we propose an effective Query Instruction
-Parsing Plugin (QIPP) that leverages the context awareness of Pre-trained
-Language Models (PLMs) to capture latent query patterns from code-like query
-instructions. Unlike the external information introduced by previous QPL
-methods, we first propose code-like instructions to express FOL queries in an
-alternative format. This format utilizes textual variables and nested tuples to
-convey the logical semantics within FOL queries, serving as raw materials for a
-PLM-based instruction encoder to obtain complete query patterns. Building on
-this, we design a query-guided instruction decoder to adapt query patterns to
-KGQE models. To further enhance QIPP's effectiveness across various KGQE
-models, we propose a query pattern injection mechanism based on compressed
-optimization boundaries and an adaptive normalization component, allowing KGQE
-models to utilize query patterns more efficiently. Extensive experiments
-demonstrate that our plug-and-play method improves the performance of eight
-basic KGQE models and outperforms two state-of-the-art QPL methods.
-
-摘要：知識圖譜查詢嵌入（KGQE）旨在將一階邏輯（FOL）查詢嵌入到低維 KG 空間中，以便對不完整的 KG 進行複雜推理。為了增強 KGQE 模型的泛化能力，最近的研究整合了各種外部資訊（例如實體類型和關係上下文），以更好地捕捉 FOL 查詢的邏輯語義。整個過程通常稱為查詢模式學習（QPL）。然而，當前的 QPL 方法通常會受到模式實體對齊偏差問題的影響，導致學習到的有缺陷查詢模式限制了 KGQE 模型的效能。為了解決這個問題，我們提出了一個有效的查詢指令解析外掛程式（QIPP），它利用預訓練語言模型（PLM）的上下文感知來從類代碼的查詢指令中擷取潛在查詢模式。與先前 QPL 方法引入的外部資訊不同，我們首先提出類代碼的指令以另類格式表達 FOL 查詢。此格式利用文字變數和巢狀元組來傳達 FOL 查詢中的邏輯語義，作為基於 PLM 的指令編碼器的原料，以取得完整的查詢模式。在此基礎上，我們設計了一個查詢引導的指令解碼器，以將查詢模式調整到 KGQE 模型。為了進一步增強 QIPP 在各種 KGQE 模型中的有效性，我們提出了一個基於壓縮最佳化邊界和自適應正規化元件的查詢模式注入機制，允許 KGQE 模型更有效地利用查詢模式。廣泛的實驗表明，我們的即插即用方法改善了八個基本 KGQE 模型的效能，並優於兩種最先進的 QPL 方法。
-
-##### **Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts**
-2410.21324v1 by Vishesh Prasad, Brian Kim, Nickvash Kani
-
-Recent advances in natural language processing (NLP), particularly with the
-emergence of large language models (LLMs), have significantly enhanced the
-field of textual analysis. However, while these developments have yielded
-substantial progress in analyzing textual data, applying analysis to
-mathematical equations and their relationships within texts has produced mixed
-results. In this paper, we take the initial steps toward understanding the
-dependency relationships between mathematical expressions in STEM articles. Our
-dataset, sourced from a random sampling of the arXiv corpus, contains an
-analysis of 107 published STEM manuscripts whose inter-equation dependency
-relationships have been hand-labeled, resulting in a new object we refer to as
-a derivation graph that summarizes the mathematical content of the manuscript.
-We exhaustively evaluate analytical and NLP-based models to assess their
-capability to identify and extract the derivation relationships for each
-article and compare the results with the ground truth. Our comprehensive
-testing finds that both analytical and NLP models (including LLMs) achieve
-$\sim$40-50% F1 scores for extracting derivation graphs from articles,
-revealing that the recent advances in NLP have not made significant inroads in
-comprehending mathematical texts compared to simpler analytic models. While
-current approaches offer a solid foundation for extracting mathematical
-information, further research is necessary to improve accuracy and depth in
-this area.
-
-摘要：自然語言處理（NLP）的最新進展，特別是大語言模型（LLM）的出現，已顯著增強了文本分析領域。然而，儘管這些發展在分析文本資料方面取得了實質性進展，但將分析應用於數學方程式及其在文本中的關係卻產生了不同的結果。在本文中，我們採取了初步步驟來了解 STEM 文章中數學表達式之間的依賴關係。我們的資料集取自 arXiv 語料庫的隨機抽樣，其中包含對 107 篇已發表的 STEM 手稿的分析，其方程式間的依賴關係已進行手動標記，產生了一個我們稱為衍生圖的新物件，該物件總結了手稿的數學內容。我們徹底評估了分析和基於 NLP 的模型，以評估它們識別和提取每篇文章的衍生關係的能力，並將結果與真實情況進行比較。我們的全面測試發現，分析和 NLP 模型（包括 LLM）在從文章中提取衍生圖方面的 F1 分數均達到 $\sim$40-50%，這表明與更簡單的分析模型相比，NLP 的最新進展並沒有在理解數學文本方面取得重大進展。儘管目前的方法為提取數學資訊提供了堅實的基礎，但仍需要進一步的研究來提高此領域的準確性和深度。
-
-##### **DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**
-2410.19955v1 by Pengfei Hu, Chang Lu, Fei Wang, Yue Ning
-
-Electronic Health Records (EHR) has revolutionized healthcare data management
-and prediction in the field of AI and machine learning. Accurate predictions of
-diagnosis and medications significantly mitigate health risks and provide
-guidance for preventive care. However, EHR driven models often have limited
-scope on understanding medical-domain knowledge and mostly rely on
-simple-and-sole ontologies. In addition, due to the missing features and
-incomplete disease coverage of EHR, most studies only focus on basic analysis
-on conditions and medication. We propose DualMAR, a framework that enhances EHR
-prediction tasks through both individual observation data and public knowledge
-bases. First, we construct a bi-hierarchical Diagnosis Knowledge Graph (KG)
-using verified public clinical ontologies and augment this KG via Large
-Language Models (LLMs); Second, we design a new proxy-task learning on lab
-results in EHR for pretraining, which further enhance KG representation and
-patient embeddings. By retrieving radial and angular coordinates upon polar
-space, DualMAR enables accurate predictions based on rich hierarchical and
-semantic embeddings from KG. Experiments also demonstrate that DualMAR
-outperforms state-of-the-art models, validating its effectiveness in EHR
-prediction and KG integration in medical domains.
-
-摘要：電子健康紀錄 (EHR) 已徹底改變了醫療保健資料管理，並預測了人工智慧和機器學習領域。準確預測診斷和藥物可大幅減輕健康風險，並提供預防性照護的指導方針。然而，EHR 驅動的模型在理解醫療領域知識上通常具有局限性，而且大多依賴於簡單且單一的本体。此外，由於 EHR 遺漏了功能且疾病涵蓋不完整，大多數研究僅專注於疾病和藥物的基本分析。我們提出 DualMAR，一個透過個人觀察資料和公共知識庫增強 EHR 預測任務的架構。首先，我們使用經過驗證的公共臨床本体構建一個雙層級診斷知識圖 (KG)，並透過大型語言模型 (LLM) 擴充這個 KG；其次，我們設計一個新的代理任務學習，針對 EHR 中的實驗室結果進行預訓練，進一步增強 KG 表示和患者嵌入。透過擷取極座標空間上的徑向和角向坐標，DualMAR 能夠根據 KG 中豐富的層級和語意嵌入進行準確的預測。實驗也證明 DualMAR 優於最先進的模型，驗證了其在 EHR 預測和醫療領域中 KG 整合的有效性。
-
-##### **FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**
-2410.19727v1 by Nicole Cho, Nishan Srishankar, Lucas Cecchi, William Watson
-
-Financial intelligence generation from vast data sources has typically relied
-on traditional methods of knowledge-graph construction or database engineering.
-Recently, fine-tuned financial domain-specific Large Language Models (LLMs),
-have emerged. While these advancements are promising, limitations such as high
-inference costs, hallucinations, and the complexity of concurrently analyzing
-high-dimensional financial data, emerge. This motivates our invention FISHNET
-(Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning,
-Expert swarming, and Task planning), an agentic architecture that accomplishes
-highly complex analytical tasks for more than 98,000 regulatory filings that
-vary immensely in terms of semantics, data hierarchy, or format. FISHNET shows
-remarkable performance for financial insight generation (61.8% success rate
-over 5.0% Routing, 45.6% RAG R-Precision). We conduct rigorous ablations to
-empirically prove the success of FISHNET, each agent's importance, and the
-optimized performance of assembling all agents. Our modular architecture can be
-leveraged for a myriad of use-cases, enabling scalability, flexibility, and
-data integrity that are critical for financial tasks.
-
-摘要：財務情報生成通常依賴於傳統的知識圖表建構或資料庫工程方法，這些方法來自於龐大的資料來源。最近，針對財務領域進行微調的大型語言模型 (LLM) 已應運而生。儘管這些進展令人振奮，但仍存在一些限制，例如高推理成本、幻覺，以及同時分析高維度財務資料的複雜性。這促使我們發明了 FISHNET（來自子查詢、協調、神經條件化、專家群集和任務規劃的財務情報），這是一種代理架構，可針對超過 98,000 份法規文件執行高度複雜的分析任務，而這些文件在語義、資料階層或格式方面差異極大。FISHNET 在產生財務見解方面表現出色（成功率為 61.8%，路由率為 5.0%，RAG R-Precision 為 45.6%）。我們進行了嚴格的消融，以實證證明 FISHNET 的成功、每個代理的重要性，以及組裝所有代理的最佳化效能。我們模組化的架構可運用於各種使用案例，提供財務任務至關重要的可擴充性、彈性和資料完整性。
 

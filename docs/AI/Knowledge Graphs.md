@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|Kevin Qinghong Lin et.al.|[2411.17465v1](http://arxiv.org/abs/2411.17465v1)|[link](https://github.com/showlab/showui)|
+|**2024-11-26**|**Can LLMs be Good Graph Judger for Knowledge Graph Construction?**|Haoyu Huang et.al.|[2411.17388v1](http://arxiv.org/abs/2411.17388v1)|[link](https://github.com/hhy-huang/graphjudger)|
+|**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen et.al.|[2411.17188v1](http://arxiv.org/abs/2411.17188v1)|null|
 |**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495v1](http://arxiv.org/abs/2411.16495v1)|null|
 |**2024-11-25**|**Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**|Xiaocong Yang et.al.|[2411.16454v1](http://arxiv.org/abs/2411.16454v1)|null|
 |**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403v1](http://arxiv.org/abs/2411.16403v1)|null|
@@ -99,11 +102,95 @@
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237v1](http://arxiv.org/abs/2410.21237v1)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067v1](http://arxiv.org/abs/2410.21067v1)|null|
 |**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060v1](http://arxiv.org/abs/2410.21060v1)|null|
-|**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783v1](http://arxiv.org/abs/2410.20783v1)|[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)|
-|**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
-|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v2](http://arxiv.org/abs/2410.20724v2)|[link](https://github.com/graph-com/subgraphrag)|
 
 #### Abstracts
+##### **ShowUI: One Vision-Language-Action Model for GUI Visual Agent**
+2411.17465v1 by Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
+
+Building Graphical User Interface (GUI) assistants holds significant promise
+for enhancing human workflow productivity. While most agents are
+language-based, relying on closed-source API with text-rich meta-information
+(e.g., HTML or accessibility tree), they show limitations in perceiving UI
+visuals as humans do, highlighting the need for GUI visual agents. In this
+work, we develop a vision-language-action model in digital world, namely
+ShowUI, which features the following innovations: (i) UI-Guided Visual Token
+Selection to reduce computational costs by formulating screenshots as an UI
+connected graph, adaptively identifying their redundant relationship and serve
+as the criteria for token selection during self-attention blocks; (ii)
+Interleaved Vision-Language-Action Streaming that flexibly unifies diverse
+needs within GUI tasks, enabling effective management of visual-action history
+in navigation or pairing multi-turn query-action sequences per screenshot to
+enhance training efficiency; (iii) Small-scale High-quality GUI
+Instruction-following Datasets by careful data curation and employing a
+resampling strategy to address significant data type imbalances. With above
+components, ShowUI, a lightweight 2B model using 256K data, achieves a strong
+75.1% accuracy in zero-shot screenshot grounding. Its UI-guided token selection
+further reduces 33% of redundant visual tokens during training and speeds up
+the performance by 1.4x. Navigation experiments across web Mind2Web, mobile
+AITW, and online MiniWob environments further underscore the effectiveness and
+potential of our model in advancing GUI visual agents. The models are available
+at https://github.com/showlab/ShowUI.
+
+摘要：<paragraph>建構圖形使用者介面 (GUI) 助理極有望提升人類工作流程的生產力。雖然大多數代理都是基於語言，仰賴具有豐富文字元資訊封閉原始碼 API（例如 HTML 或無障礙樹），但它們在感知使用者介面視覺效果方面顯示出限制，這凸顯了對 GUI 視覺代理的需求。在這項工作中，我們在數位世界中開發了一個視覺語言動作模型，即 ShowUI，其具有以下創新功能：(i) UI 引導視覺代幣選擇，透過將螢幕截圖表述為 UI 連接圖，自適應地識別其冗餘關係，並作為自注意力區塊中代幣選擇的準則，以降低運算成本；(ii) 交錯視覺語言動作串流，靈活地統一 GUI 任務中的各種需求，在導覽中有效管理視覺動作歷程，或配對每個螢幕截圖的多輪查詢動作序列，以提升訓練效率；(iii) 小規模高品質 GUI 指令遵循資料集，透過仔細的資料整理和採用再抽樣策略，來解決顯著的資料類型不平衡。ShowUI 是一個使用 256K 資料的輕量級 2B 模型，具備上述組成部分，在零次方螢幕截圖接地中達到強勁的 75.1% 精確度。其 UI 引導代幣選擇進一步減少了訓練期間 33% 的冗餘視覺代幣，並將效能提升了 1.4 倍。跨網路 Mind2Web、行動 AITW 和線上 MiniWob 環境的導覽實驗進一步強調了我們的模型在推進 GUI 視覺代理方面的有效性和潛力。這些模型可在 https://github.com/showlab/ShowUI 取得。</paragraph>
+
+##### **Can LLMs be Good Graph Judger for Knowledge Graph Construction?**
+2411.17388v1 by Haoyu Huang, Chong Chen, Conghui He, Yang Li, Jiawei Jiang, Wentao Zhang
+
+In real-world scenarios, most of the data obtained from information retrieval
+(IR) system is unstructured. Converting natural language sentences into
+structured Knowledge Graphs (KGs) remains a critical challenge. The quality of
+constructed KGs may also impact the performance of some KG-dependent domains
+like GraphRAG systems and recommendation systems. Recently, Large Language
+Models (LLMs) have demonstrated impressive capabilities in addressing a wide
+range of natural language processing tasks. However, there are still challenges
+when utilizing LLMs to address the task of generating structured KGs. And we
+have identified three limitations with respect to existing KG construction
+methods. (1)There is a large amount of information and excessive noise in
+real-world documents, which could result in extracting messy information.
+(2)Native LLMs struggle to effectively extract accuracy knowledge from some
+domain-specific documents. (3)Hallucinations phenomenon cannot be overlooked
+when utilizing LLMs directly as an unsupervised method for constructing KGs.
+  In this paper, we propose GraphJudger, a knowledge graph construction
+framework to address the aforementioned challenges. We introduce three
+innovative modules in our method, which are entity-centric iterative text
+denoising, knowledge aware instruction tuning and graph judgement,
+respectively. We seek to utilize the capacity of LLMs to function as a graph
+judger, a capability superior to their role only as a predictor for KG
+construction problems. Experiments conducted on two general text-graph pair
+datasets and one domain-specific text-graph pair dataset show superior
+performances compared to baseline methods. The code of our proposed method is
+available at https://github.com/hhy-huang/GraphJudger.
+
+摘要：<paragraph>在現實世界的場景中，從資訊檢索 (IR) 系統取得的大部分資料都是非結構化的。將自然語言句子轉換為結構化的知識圖譜 (KG) 仍然是一項重大的挑戰。已建構的 KG 品質也可能影響某些依賴 KG 的領域，例如 GraphRAG 系統和推薦系統的效能。最近，大型語言模型 (LLM) 已展現出令人印象深刻的能力，能處理廣泛的自然語言處理任務。然而，當利用 LLM 來處理產生結構化 KG 的任務時，仍然存在挑戰。我們已針對現有的 KG 建構方法找出三個限制。(1) 在現實世界的文件中有大量的資訊和過多的雜訊，這可能會導致萃取雜亂的資訊。(2) 原生 LLM 難以從某些特定領域的文件中有效萃取精確的知識。(3) 在將 LLM 直接用作建構 KG 的非監督式方法時，無法忽略幻覺現象。在本文中，我們提出 GraphJudger，這是一個知識圖譜建構架構，用於解決上述挑戰。我們在方法中引入了三個創新的模組，分別是實體為中心的反覆文字去雜訊、知識感知指令微調和圖形判斷。我們尋求利用 LLM 的能力，使其發揮圖形判斷者的功能，這項能力優於其僅作為 KG 建構問題預測者的角色。在兩個一般文字圖形配對資料集和一個特定領域文字圖形配對資料集上進行的實驗顯示，與基線方法相比，其效能優異。我們提出的方法的程式碼可於 https://github.com/hhy-huang/GraphJudger 取得。</paragraph>
+
+##### **Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**
+2411.17188v1 by Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
+
+Many real-world user queries (e.g. "How do to make egg fried rice?") could
+benefit from systems capable of generating responses with both textual steps
+with accompanying images, similar to a cookbook. Models designed to generate
+interleaved text and images face challenges in ensuring consistency within and
+across these modalities. To address these challenges, we present ISG, a
+comprehensive evaluation framework for interleaved text-and-image generation.
+ISG leverages a scene graph structure to capture relationships between text and
+image blocks, evaluating responses on four levels of granularity: holistic,
+structural, block-level, and image-specific. This multi-tiered evaluation
+allows for a nuanced assessment of consistency, coherence, and accuracy, and
+provides interpretable question-answer feedback. In conjunction with ISG, we
+introduce a benchmark, ISG-Bench, encompassing 1,150 samples across 8
+categories and 21 subcategories. This benchmark dataset includes complex
+language-vision dependencies and golden answers to evaluate models effectively
+on vision-centric tasks such as style transfer, a challenging area for current
+models. Using ISG-Bench, we demonstrate that recent unified vision-language
+models perform poorly on generating interleaved content. While compositional
+approaches that combine separate language and image models show a 111%
+improvement over unified models at the holistic level, their performance
+remains suboptimal at both block and image levels. To facilitate future work,
+we develop ISG-Agent, a baseline agent employing a "plan-execute-refine"
+pipeline to invoke tools, achieving a 122% performance improvement.
+
+摘要：許多真實世界的使用者查詢（例如「如何製作蛋炒飯？」）可以受益於能夠產生包含文字步驟和附帶圖片的回應的系統，類似於食譜。專門用於產生交錯文本和圖片的模型面臨確保這些方式內部和之間的一致性的挑戰。為了應對這些挑戰，我們提出了 ISG，一個用於交錯文本和圖片產生的綜合評估架構。ISG 利用場景圖結構來捕捉文本和圖片區塊之間的關係，在四個層級的粒度上評估回應：整體、結構、區塊層級和圖片特定。這種多層評估允許對一致性、連貫性和準確性進行細緻的評估，並提供可解釋的問題解答回饋。結合 ISG，我們引入了基準 ISG-Bench，涵蓋 8 個類別和 21 個子類別中的 1,150 個範例。這個基準資料集包含複雜的語言視覺依賴關係和黃金答案，以有效評估模型在以視覺為中心的任務（例如風格轉移）上的表現，這是當前模型面臨的挑戰領域。使用 ISG-Bench，我們證明了最近的統一視覺語言模型在產生交錯內容上的表現不佳。雖然結合單獨語言和圖片模型的組合方法在整體層級上比統一模型提升了 111%，但它們在區塊和圖片層級上的表現仍然不佳。為了促進後續工作，我們開發了 ISG-Agent，一個採用「計畫執行修正」管線的基準代理，用於呼叫工具，實現了 122% 的效能提升。
+
 ##### **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**
 2411.16495v1 by Amy Xin, Jinxin Liu, Zijun Yao, Zhicheng Li, Shulin Cao, Lei Hou, Juanzi Li
 
@@ -2481,77 +2568,4 @@ complete CSKGs, highlighting its potential to transform CTI analysis with an
 efficient and adaptable solution for the dynamic threat landscape.
 
 摘要：網路威脅情報 (CTI) 報告中的文字描述，例如安全文章和新聞，是網路威脅的豐富知識來源，對於組織而言至關重要，可以隨時了解快速演變的威脅環境。然而，目前的 CTI 提取方法缺乏靈活性且難以概括，通常會導致知識提取不準確且不完整。語法解析依賴於固定規則和字典，而模型微調需要大量標註的資料集，這使得這兩種範例都難以適應新的威脅和本体。為了彌補差距，我們提出了 CTINexus，這是一個新穎的框架，利用大型語言模型 (LLM) 的最佳化情境學習 (ICL) 來進行資料有效率的 CTI 知識提取和高品質的網路安全知識圖 (CSKG) 建構。與現有方法不同，CTINexus 不需要廣泛的資料或參數調整，並且可以透過最少的標註範例適應各種本体。這是透過 (1) 經過精心設計的自動提示建構策略，並透過最佳示範檢索來提取廣泛的網路安全實體和關係來實現的；(2) 一種階層式實體比對技術，可以將提取的知識標準化並消除冗餘；(3) 一種 ICL 增強的長距離關係預測技術，可以進一步完成具有遺失連結的 CKSG。我們使用從 10 個平台收集的 150 份真實世界 CTI 報告進行廣泛評估，證明 CTINexus 在建構準確且完整的 CSKG 方面明顯優於現有方法，突顯了其以有效且適應性強的解決方案轉換 CTI 分析的潛力，以應對動態的威脅環境。
-
-##### **Graph-based Uncertainty Metrics for Long-form Language Model Outputs**
-2410.20783v1 by Mingjian Jiang, Yangjun Ruan, Prasanna Sattigeri, Salim Roukos, Tatsunori Hashimoto
-
-Recent advancements in Large Language Models (LLMs) have significantly
-improved text generation capabilities, but these systems are still known to
-hallucinate, and granular uncertainty estimation for long-form LLM generations
-remains challenging. In this work, we propose Graph Uncertainty -- which
-represents the relationship between LLM generations and claims within them as a
-bipartite graph and estimates the claim-level uncertainty with a family of
-graph centrality metrics. Under this view, existing uncertainty estimation
-methods based on the concept of self-consistency can be viewed as using degree
-centrality as an uncertainty measure, and we show that more sophisticated
-alternatives such as closeness centrality provide consistent gains at
-claim-level uncertainty estimation. Moreover, we present uncertainty-aware
-decoding techniques that leverage both the graph structure and uncertainty
-estimates to improve the factuality of LLM generations by preserving only the
-most reliable claims. Compared to existing methods, our graph-based uncertainty
-metrics lead to an average of 6.8% relative gains on AUPRC across various
-long-form generation settings, and our end-to-end system provides consistent
-2-4% gains in factuality over existing decoding techniques while significantly
-improving the informativeness of generated responses.
-
-摘要：大型語言模型 (LLM) 的最新進展顯著提升了文字生成能力，但這些系統仍以產生幻覺著稱，而針對長篇 LLM 生成的細緻不確定性估計仍是一項挑戰。在這項工作中，我們提出圖形不確定性，它將 LLM 生成和其中的主張表示為二部圖，並使用一系列圖形中心性指標估計主張層級的不確定性。在此觀點下，現有的基於自洽性概念的不確定性估計方法可視為使用度量中心性作為不確定性指標，我們證明了更精密的替代方案（例如接近中心性）在主張層級不確定性估計中提供了穩定的增益。此外，我們提出了不確定性感知解碼技術，該技術利用圖形結構和不確定性估計來提升 LLM 生成的真實性，方法是僅保留最可靠的主張。與現有方法相比，我們的基於圖形的指標在各種長篇生成設定中平均提升了 AUPRC 的 6.8%，而我們的端到端系統在真實性方面提供了 2-4% 的穩定增益，同時顯著提升了生成回應的資訊性。
-
-##### **Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**
-2410.20753v1 by Prakhar Verma, Sukruta Prakash Midigeshi, Gaurav Sinha, Arno Solin, Nagarajan Natarajan, Amit Sharma
-
-We introduce Planning-guided Retrieval Augmented Generation
-(Plan$\times$RAG), a novel framework that augments the
-\emph{retrieve-then-reason} paradigm of existing RAG frameworks to
-\emph{plan-then-retrieve}. Plan$\times$RAG formulates a reasoning plan as a
-directed acyclic graph (DAG), decomposing queries into interrelated atomic
-sub-queries. Answer generation follows the DAG structure, allowing significant
-gains in efficiency through parallelized retrieval and generation. While
-state-of-the-art RAG solutions require extensive data generation and
-fine-tuning of language models (LMs), Plan$\times$RAG incorporates frozen LMs
-as plug-and-play experts to generate high-quality answers. Compared to existing
-RAG solutions, Plan$\times$RAG demonstrates significant improvements in
-reducing hallucinations and bolstering attribution due to its structured
-sub-query decomposition. Overall, Plan$\times$RAG offers a new perspective on
-integrating external knowledge in LMs while ensuring attribution by design,
-contributing towards more reliable LM-based systems.
-
-摘要：<paragraph>我們引入了規劃引導的檢索增強生成 (Plan$\times$RAG)，這是一個新穎的框架，它擴充了現有 RAG 框架的「先檢索後推理」範例，改為「先規劃後檢索」。Plan$\times$RAG 將推理計畫制定為有向無環圖 (DAG)，將查詢分解成相互關聯的原子子查詢。答案生成遵循 DAG 結構，透過並行檢索和生成，大幅提升效率。雖然最先進的 RAG 解决方案需要大量資料生成和語言模型 (LM) 的微調，但 Plan$\times$RAG 將凍結的 LM 整合為即插即用的專家，以生成高品質的答案。與現有的 RAG 解决方案相比，Plan$\times$RAG 在減少幻覺和加強歸因方面表現出顯著的進步，這要歸功於其結構化的子查詢分解。總體而言，Plan$\times$RAG 提供了一個新的觀點，以整合 LM 中的外部知識，同時確保歸因設計，有助於建立更可靠的基於 LM 的系統。</paragraph>
-
-##### **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**
-2410.20724v2 by Mufei Li, Siqi Miao, Pan Li
-
-Large Language Models (LLMs) demonstrate strong reasoning abilities but face
-limitations such as hallucinations and outdated knowledge. Knowledge Graph
-(KG)-based Retrieval-Augmented Generation (RAG) addresses these issues by
-grounding LLM outputs in structured external knowledge from KGs. However,
-current KG-based RAG frameworks still struggle to optimize the trade-off
-between retrieval effectiveness and efficiency in identifying a suitable amount
-of relevant graph information for the LLM to digest. We introduce SubgraphRAG,
-extending the KG-based RAG framework that retrieves subgraphs and leverages
-LLMs for reasoning and answer prediction. Our approach innovatively integrates
-a lightweight multilayer perceptron with a parallel triple-scoring mechanism
-for efficient and flexible subgraph retrieval while encoding directional
-structural distances to enhance retrieval effectiveness. The size of retrieved
-subgraphs can be flexibly adjusted to match the query's need and the downstream
-LLM's capabilities. This design strikes a balance between model complexity and
-reasoning power, enabling scalable and generalizable retrieval processes.
-Notably, based on our retrieved subgraphs, smaller LLMs like
-Llama3.1-8B-Instruct deliver competitive results with explainable reasoning,
-while larger models like GPT-4o achieve state-of-the-art accuracy compared with
-previous baselines -- all without fine-tuning. Extensive evaluations on the
-WebQSP and CWQ benchmarks highlight SubgraphRAG's strengths in efficiency,
-accuracy, and reliability by reducing hallucinations and improving response
-grounding.
-
-摘要：<paragraph>大型語言模型 (LLM) 具有強大的推理能力，但面臨幻覺和過時知識等限制。基於知識圖譜 (KG) 的檢索增強生成 (RAG) 透過將 LLM 輸出結果奠基於 KG 中的結構化外部知識，來解決這些問題。然而，目前基於 KG 的 RAG 架構仍難以在檢索效能和效率之間取得最佳平衡，以找出 LLM 能夠消化的適當相關圖表資訊量。我們引進 SubgraphRAG，擴充基於 KG 的 RAG 架構，以檢索子圖表並利用 LLM 進行推理和答案預測。我們的做法創新地整合了一個輕量多層感知器與一個並行三元組計分機制，用於高效且靈活地檢索子圖表，同時編碼方向結構距離以增強檢索效能。檢索到的子圖表大小可以靈活調整，以符合查詢需求和下游 LLM 的功能。這種設計在模型複雜度和推理能力之間取得平衡，實現可擴充且可概化的檢索程序。值得注意的是，根據我們檢索到的子圖表，較小的 LLM（例如 Llama3.1-8B-Instruct）可以提供具備可解釋推理的競爭結果，而較大的模型（例如 GPT-4o）則達到與先前基準相比的最新準確度，而且所有這些都不需要微調。在 WebQSP 和 CWQ 基準上的廣泛評估突顯了 SubgraphRAG 在效率、準確度和可靠性方面的優勢，透過減少幻覺並改善回應依據。</paragraph>
 

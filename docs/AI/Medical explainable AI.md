@@ -128,7 +128,8 @@ AI-driven insights into UTI clinical decision-making while prioritizing
 interpretability, transparency, and fairness, underscoring the importance of
 sound data practices in advancing health outcomes.
 
-摘要：機器學習和 AI 在電子健康紀錄 (EHR) 中的使用，對於臨床見解具有相當大的潛力。然而，由於資料異質性、稀疏性、時間錯位和標記結果有限，此方法面臨重大挑戰。在此背景下，我們利用來自英國布里斯托、北薩默塞特郡和南格洛斯特郡的約一百萬名去識別化個體的連結式 EHR 資料集，來描述泌尿道感染 (UTI)，並開發專注於資料品質、公平性和透明度的預測模型。一個全面的資料前處理和整理管線，將原始 EHR 資料轉換成適用於 AI 建模的結構化格式。鑑於 UTI 真實結果的可用性有限且有偏差，我們引入了一個由臨床專業知識提供資訊的 UTI 風險評估架構，以評估個別患者時間軸上的 UTI 風險。使用此架構，我們建立了成對的 XGBoost 模型，以區分 UTI 風險類別，並使用可解釋的 AI 技術來識別關鍵預測因子，同時確保可解釋性。我們的研究結果揭示了不同風險群組的臨床和人口統計因素差異，提供了 UTI 風險分層和進程的見解。本研究展示了 AI 驅動見解在 UTI 臨床決策中的附加價值，同時優先考慮可解釋性、透明度和公平性，強調健全資料實務在促進健康結果中的重要性。
+摘要：機器學習和人工智慧在電子健康紀錄 (EHR) 上的應用具有
+臨床見解的巨大潛力。然而，這種方法由於資料異質性、稀疏性、時間錯位和標記結果有限，因此面臨重大挑戰。在此背景下，我們利用來自英國布里斯托、北薩默塞特郡和南格洛斯特郡的大約一百萬名去識別化個人的連結式 EHR 資料集，以描述泌尿道感染 (UTI) 並開發專注於資料品質、公平性和透明度的預測模型。全面的資料前處理和整理管道將原始 EHR 資料轉換為適合 AI 建模的結構化格式。鑑於實際 UTI 結果的可用性有限和偏見，我們引入了一個由臨床專業知識提供資訊的 UTI 風險評估架構，以估計個人患者時間線上的 UTI 風險。使用此架構，我們建立了成對的 XGBoost 模型，以區分 UTI 風險類別，並使用可解釋的 AI 技術來識別關鍵預測因子，同時確保可解釋性。我們的研究結果揭示了不同風險群組的臨床和人口統計因素的差異，提供了對 UTI 風險分層和進展的見解。本研究展示了 AI 驅動的見解在 UTI 臨床決策中的附加價值，同時優先考慮可解釋性、透明度和公平性，強調了健全資料實務在促進健康結果中的重要性。
 
 ##### **Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**
 2411.11774v1 by Jeffrey N. Clark, Matthew Wragg, Emily Nielsen, Miquel Perello-Nieto, Nawid Keshtmand, Michael Ambler, Shiv Sharma, Christopher P. Bourdeaux, Amberly Brigden, Raul Santos-Rodriguez

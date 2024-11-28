@@ -72,7 +72,7 @@
 |**2024-11-26**|**Contrastive CFG: Improving CFG in Diffusion Models by Contrasting Positive and Negative Concepts**|Jinho Chang et.al.|[2411.17077v1](http://arxiv.org/abs/2411.17077v1)|null|
 |**2024-11-26**|**Don't Command, Cultivate: An Exploratory Study of System-2 Alignment**|Yuhang Wang et.al.|[2411.17075v1](http://arxiv.org/abs/2411.17075v1)|null|
 |**2024-11-26**|**Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering**|Awais Naeem et.al.|[2411.17073v1](http://arxiv.org/abs/2411.17073v1)|[link](https://github.com/embedded-robotics/path-rag)|
-|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066v1](http://arxiv.org/abs/2411.17066v1)|null|
+|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066v1](http://arxiv.org/abs/2411.17066v1)|[link](https://github.com/colinconwell/t2i-probology)|
 |**2024-11-26**|**Creative Agents: Simulating the Systems Model of Creativity with Generative Agents**|Naomi Imasato et.al.|[2411.17065v1](http://arxiv.org/abs/2411.17065v1)|null|
 |**2024-11-26**|**Graph Structure Learning with Bi-level Optimization**|Nan Yin et.al.|[2411.17062v1](http://arxiv.org/abs/2411.17062v1)|null|
 |**2024-11-26**|**ThreatModeling-LLM: Automating Threat Modeling using Large Language Models for Banking System**|Shuiqiao Yang et.al.|[2411.17058v1](http://arxiv.org/abs/2411.17058v1)|null|

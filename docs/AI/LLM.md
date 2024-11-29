@@ -11,7 +11,7 @@
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571v1](http://arxiv.org/abs/2411.18571v1)|null|
 |**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564v1](http://arxiv.org/abs/2411.18564v1)|null|
 |**2024-11-27**|**Retrofitting (Large) Language Models with Dynamic Tokenization**|Darius Feher et.al.|[2411.18553v1](http://arxiv.org/abs/2411.18553v1)|null|
-|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530v1](http://arxiv.org/abs/2411.18530v1)|null|
+|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530v1](http://arxiv.org/abs/2411.18530v1)|[link](https://github.com/BrainJellyPie/self)|
 |**2024-11-27**|**NeuroAI for AI Safety**|Patrick Mineault et.al.|[2411.18526v1](http://arxiv.org/abs/2411.18526v1)|null|
 |**2024-11-27**|**LLM-ABBA: Understand time series via symbolic approximation**|Erin Carson et.al.|[2411.18506v1](http://arxiv.org/abs/2411.18506v1)|null|
 |**2024-11-27**|**SoK: Watermarking for AI-Generated Content**|Xuandong Zhao et.al.|[2411.18479v1](http://arxiv.org/abs/2411.18479v1)|null|
@@ -23,7 +23,7 @@
 |**2024-11-27**|**Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation**|Marco Pasini et.al.|[2411.18447v1](http://arxiv.org/abs/2411.18447v1)|null|
 |**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444v1](http://arxiv.org/abs/2411.18444v1)|null|
 |**2024-11-27**|**Metric-DST: Mitigating Selection Bias Through Diversity-Guided Semi-Supervised Metric Learning**|Yasin I. Tepeli et.al.|[2411.18442v1](http://arxiv.org/abs/2411.18442v1)|null|
-|**2024-11-27**|**MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version**|Ronghui Xu et.al.|[2411.18428v1](http://arxiv.org/abs/2411.18428v1)|null|
+|**2024-11-27**|**MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version**|Ronghui Xu et.al.|[2411.18428v1](http://arxiv.org/abs/2411.18428v1)|[link](https://github.com/decisionintelligence/mm-path)|
 |**2024-11-27**|**Politicians vs ChatGPT. A study of presuppositions in French and Italian political communication**|Davide Garassino et.al.|[2411.18403v1](http://arxiv.org/abs/2411.18403v1)|null|
 |**2024-11-27**|**Optimal In-Network Distribution of Learning Functions for a Secure-by-Design Programmable Data Plane of Next-Generation Networks**|Mattia Giovanni Spina et.al.|[2411.18384v1](http://arxiv.org/abs/2411.18384v1)|null|
 |**2024-11-27**|**Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy**|Yifan Sun et.al.|[2411.18383v1](http://arxiv.org/abs/2411.18383v1)|null|
@@ -74,7 +74,7 @@
 |**2024-11-27**|**Fine-Tuning Small Embeddings for Elevated Performance**|Biraj Silwal et.al.|[2411.18099v1](http://arxiv.org/abs/2411.18099v1)|null|
 |**2024-11-27**|**From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps**|Jieshan Chen et.al.|[2411.18084v1](http://arxiv.org/abs/2411.18084v1)|null|
 |**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077v1](http://arxiv.org/abs/2411.18077v1)|null|
-|**2024-11-27**|**Simulating Tabular Datasets through LLMs to Rapidly Explore Hypotheses about Real-World Entities**|Miguel Zabaleta et.al.|[2411.18071v1](http://arxiv.org/abs/2411.18071v1)|null|
+|**2024-11-27**|**Simulating Tabular Datasets through LLMs to Rapidly Explore Hypotheses about Real-World Entities**|Miguel Zabaleta et.al.|[2411.18071v1](http://arxiv.org/abs/2411.18071v1)|[link](https://github.com/mzabaletasar/llm_hypoth_simulation)|
 |**2024-11-27**|**PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion**|Gwanghyun Kim et.al.|[2411.18068v1](http://arxiv.org/abs/2411.18068v1)|null|
 |**2024-11-27**|**Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification**|Mingsen Du et.al.|[2411.18043v1](http://arxiv.org/abs/2411.18043v1)|null|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038v1](http://arxiv.org/abs/2411.18038v1)|null|
@@ -91,7 +91,7 @@
 |**2024-11-27**|**The importance of visual modelling languages in generative software engineering**|Roberto Rossi et.al.|[2411.17976v1](http://arxiv.org/abs/2411.17976v1)|null|
 |**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973v1](http://arxiv.org/abs/2411.17973v1)|null|
 |**2024-11-27**|**Graph Neural Network for Cerebral Blood Flow Prediction With Clinical Datasets**|Seungyeon Kim et.al.|[2411.17971v1](http://arxiv.org/abs/2411.17971v1)|null|
-|**2024-11-27**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967v1](http://arxiv.org/abs/2411.17967v1)|null|
+|**2024-11-27**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967v1](http://arxiv.org/abs/2411.17967v1)|[link](https://github.com/ramezkouzy/GLP1-LLM)|
 |**2024-11-26**|**MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D Content Creation**|Sankalp Sinha et.al.|[2411.17945v1](http://arxiv.org/abs/2411.17945v1)|null|
 |**2024-11-26**|**Evaluating Generative AI-Enhanced Content: A Conceptual Framework Using Qualitative, Quantitative, and Mixed-Methods Approaches**|Saman Sarraf et.al.|[2411.17943v1](http://arxiv.org/abs/2411.17943v1)|null|
 |**2024-11-26**|**Spatio-temporal Causal Learning for Streamflow Forecasting**|Shu Wan et.al.|[2411.17937v1](http://arxiv.org/abs/2411.17937v1)|null|

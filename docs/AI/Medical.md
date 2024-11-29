@@ -21,7 +21,7 @@
 |**2024-11-26**|**Semantic Data Augmentation for Long-tailed Facial Expression Recognition**|Zijian Li et.al.|[2411.17254v1](http://arxiv.org/abs/2411.17254v1)|null|
 |**2024-11-26**|**GraphSubDetector: Time Series Subsequence Anomaly Detection via Density-Aware Adaptive Graph Neural Network**|Weiqi Chen et.al.|[2411.17218v1](http://arxiv.org/abs/2411.17218v1)|null|
 |**2024-11-26**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204v1](http://arxiv.org/abs/2411.17204v1)|null|
-|**2024-11-25**|**Contrastive Deep Learning Reveals Age Biomarkers in Histopathological Skin Biopsies**|Kaustubh Chakradeo et.al.|[2411.16956v1](http://arxiv.org/abs/2411.16956v1)|[link](https://github.com/kaustubhchakradeo/cdl_skin_biopsies)|
+|**2024-11-25**|**Contrastive Deep Learning Reveals Age Biomarkers in Histopathological Skin Biopsies**|Kaustubh Chakradeo et.al.|[2411.16956v1](http://arxiv.org/abs/2411.16956v1)|null|
 |**2024-11-25**|**Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots**|Margaret Capetz et.al.|[2411.16872v2](http://arxiv.org/abs/2411.16872v2)|null|
 |**2024-11-25**|**Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries**|Harshavardhan Battula et.al.|[2411.16818v1](http://arxiv.org/abs/2411.16818v1)|null|
 |**2024-11-25**|**Will an AI with Private Information Allow Itself to Be Switched Off?**|Andrew Garber et.al.|[2411.17749v1](http://arxiv.org/abs/2411.17749v1)|null|
@@ -34,7 +34,7 @@
 |**2024-11-24**|**Enhancing the automatic segmentation and analysis of 3D liver vasculature models**|Yassine Machta et.al.|[2411.15778v1](http://arxiv.org/abs/2411.15778v1)|null|
 |**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700v1](http://arxiv.org/abs/2411.15700v1)|null|
 |**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666v1](http://arxiv.org/abs/2411.15666v1)|[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)|
-|**2024-11-23**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594v1](http://arxiv.org/abs/2411.15594v1)|null|
+|**2024-11-23**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594v1](http://arxiv.org/abs/2411.15594v1)|[link](https://github.com/idea-finai/llm-as-evaluator)|
 |**2024-11-23**|**Large Language Model with Region-guided Referring and Grounding for CT Report Generation**|Zhixuan Chen et.al.|[2411.15539v1](http://arxiv.org/abs/2411.15539v1)|null|
 |**2024-11-23**|**GeoAI-Enhanced Community Detection on Spatial Networks with Graph Deep Learning**|Yunlei Liang et.al.|[2411.15428v1](http://arxiv.org/abs/2411.15428v1)|[link](https://github.com/geods/region2vec-gat)|
 |**2024-11-23**|**The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges**|Jiqun Liu et.al.|[2411.15396v1](http://arxiv.org/abs/2411.15396v1)|null|

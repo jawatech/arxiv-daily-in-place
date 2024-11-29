@@ -88,7 +88,7 @@
 |**2024-10-30**|**FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**|Anuroop Sriram et.al.|[2410.23405v1](http://arxiv.org/abs/2410.23405v1)|[link](https://github.com/facebookresearch/flowmm)|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v2](http://arxiv.org/abs/2410.23262v2)|null|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182v1](http://arxiv.org/abs/2410.23182v1)|null|
-|**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996v1](http://arxiv.org/abs/2410.22996v1)|null|
+|**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996v1](http://arxiv.org/abs/2410.22996v1)|[link](https://github.com/deperiaskerre/qkg)|
 |**2024-10-30**|**How Well Do Large Language Models Disambiguate Swedish Words?**|Richard Johansson et.al.|[2410.22827v1](http://arxiv.org/abs/2410.22827v1)|null|
 |**2024-10-30**|**Beyond Ontology in Dialogue State Tracking for Goal-Oriented Chatbot**|Sejin Lee et.al.|[2410.22767v1](http://arxiv.org/abs/2410.22767v1)|[link](https://github.com/eastha0526/beyond-ontology-in-dst)|
 |**2024-10-30**|**The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation**|Reza Moravej et.al.|[2411.00843v1](http://arxiv.org/abs/2411.00843v1)|null|

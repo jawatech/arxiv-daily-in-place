@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
 |**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|null|
 |**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
 |**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255v1](http://arxiv.org/abs/2411.10255v1)|null|
@@ -101,9 +102,35 @@
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932v1](http://arxiv.org/abs/2311.11932v1)|null|
 |**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
 |**2023-11-03**|**Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**|Emma A. M. Stanley et.al.|[2311.02115v2](http://arxiv.org/abs/2311.02115v2)|[link](https://github.com/estanley16/simba)|
-|**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|null|
 
 #### Abstracts
+##### **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**
+2411.19356v1 by Philipp Brauner, Felix Glawe, Gian Luca Liehner, Luisa Vervier, Martina Ziefle
+
+Understanding public perception of artificial intelligence (AI) and the
+tradeoffs between potential risks and benefits is crucial, as these perceptions
+might shape policy decisions, influence innovation trajectories for successful
+market strategies, and determine individual and societal acceptance of AI
+technologies. Using a representative sample of 1100 participants from Germany,
+this study examines mental models of AI. Participants quantitatively evaluated
+71 statements about AI's future capabilities (e.g., autonomous driving, medical
+care, art, politics, warfare, and societal divides), assessing the expected
+likelihood of occurrence, perceived risks, benefits, and overall value. We
+present rankings of these projections alongside visual mappings illustrating
+public risk-benefit tradeoffs. While many scenarios were deemed likely,
+participants often associated them with high risks, limited benefits, and low
+overall value. Across all scenarios, 96.4% ($r^2=96.4\%$) of the variance in
+value assessment can be explained by perceived risks ($\beta=-.504$) and
+perceived benefits ($\beta=+.710$), with no significant relation to expected
+likelihood. Demographics and personality traits influenced perceptions of
+risks, benefits, and overall evaluations, underscoring the importance of
+increasing AI literacy and tailoring public information to diverse user needs.
+These findings provide actionable insights for researchers, developers, and
+policymakers by highlighting critical public concerns and individual factors
+essential to align AI development with individual values.
+
+摘要：<paragraph>了解公眾對人工智慧 (AI) 的認知以及潛在風險與好處之間的權衡至關重要，因為這些認知可能會影響政策決策、影響成功市場策略的創新軌跡，並決定個人和社會對 AI 技術的接受度。本研究使用來自德國的 1100 名參與者的代表性樣本，探討了 AI 的心智模型。參與者對 71 項關於 AI 未來能力的陳述（例如，自動駕駛、醫療保健、藝術、政治、戰爭和社會分歧）進行了定量評估，評估預期的發生可能性、感知風險、好處和整體價值。我們展示了這些預測的排名，並附上視覺化映射，說明了公眾的風險收益權衡。儘管許多場景被認為是可能的，但參與者通常將它們與高風險、有限的好處和低整體價值聯繫起來。在所有場景中，96.4% ($r^2=96.4\%$) 的價值評估差異可以用感知風險 ($\beta=-.504$) 和感知好處 ($\beta=+.710$) 來解釋，與預期的可能性沒有顯著關係。人口統計和人格特質影響了對風險、好處和整體評估的看法，這凸顯了提高 AI 素養和根據不同的使用者需求調整公共資訊的重要性。這些發現通過強調關鍵的公共關注和與個人價值觀一致的 AI 開發必不可少的個人因素，為研究人員、開發人員和政策制定者提供了可行的見解。</paragraph>
+
 ##### **Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**
 2411.17645v1 by Yujie Dai, Brian Sullivan, Axel Montout, Amy Dillon, Chris Waller, Peter Acs, Rachel Denholm, Philip Williams, Alastair D Hay, Raul Santos-Rodriguez, Andrew Dowsey
 
@@ -2687,36 +2714,4 @@ strategies on deep learning pipelines, which can support the development of
 clinical AI that is robust and responsible.
 
 摘要：<paragraph>使用醫療影像訓練的人工智慧 (AI) 模型，用於臨床任務時，常會在效能上展現出次群體之間的差異，形成偏見。由於並非所有真實世界醫療影像資料中的偏見來源都容易辨識，因此全面評估這些偏見是如何編碼到模型中，以及偏見緩解方法在改善效能差異方面的能力，是一項挑戰。在本文中，我們介紹了一個新穎的分析架構，用於系統化且客觀地調查醫療影像中的偏見對 AI 模型的影響。我們開發並測試了這個架構，以進行受控的電腦模擬試驗，使用一個工具來評估醫療影像 AI 中的偏見，該工具用於產生具有已知疾病影響和偏見來源的合成磁共振影像。可行性透過使用三個反事實偏見情境來衡量模擬偏見效應對卷積神經網路 (CNN) 分類器和三個偏見緩解策略的影響，並展示出來。分析顯示，當 CNN 在合成資料集上受訓時，模擬偏見會導致預期的次群體效能差異。此外，重新加權被認為是此設定中最成功的偏見緩解策略，我們展示了解釋性 AI 方法如何協助使用這個架構調查模型中偏見的表現。開發公平的 AI 模型是一項重大的挑戰，因為醫療影像資料集中可能存在許多且經常未知的偏見來源。在這項工作中，我們提出了一種新穎的方法，用於客觀地研究偏見和緩解策略對深度學習管線的影響，這可以支援健全且負責任的臨床 AI 的開發。</paragraph>
-
-##### **Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**
-2310.19174v1 by Adam White, Margarita Saranti, Artur d'Avila Garcez, Thomas M. H. Hope, Cathy J. Price, Howard Bowman
-
-Machine learning offers great potential for automated prediction of
-post-stroke symptoms and their response to rehabilitation. Major challenges for
-this endeavour include the very high dimensionality of neuroimaging data, the
-relatively small size of the datasets available for learning, and how to
-effectively combine neuroimaging and tabular data (e.g. demographic information
-and clinical characteristics). This paper evaluates several solutions based on
-two strategies. The first is to use 2D images that summarise MRI scans. The
-second is to select key features that improve classification accuracy.
-Additionally, we introduce the novel approach of training a convolutional
-neural network (CNN) on images that combine regions-of-interest extracted from
-MRIs, with symbolic representations of tabular data. We evaluate a series of
-CNN architectures (both 2D and a 3D) that are trained on different
-representations of MRI and tabular data, to predict whether a composite measure
-of post-stroke spoken picture description ability is in the aphasic or
-non-aphasic range. MRI and tabular data were acquired from 758 English speaking
-stroke survivors who participated in the PLORAS study. The classification
-accuracy for a baseline logistic regression was 0.678 for lesion size alone,
-rising to 0.757 and 0.813 when initial symptom severity and recovery time were
-successively added. The highest classification accuracy 0.854 was observed when
-8 regions-of-interest was extracted from each MRI scan and combined with lesion
-size, initial severity and recovery time in a 2D Residual Neural Network.Our
-findings demonstrate how imaging and tabular data can be combined for high
-post-stroke classification accuracy, even when the dataset is small in machine
-learning terms. We conclude by proposing how the current models could be
-improved to achieve even higher levels of accuracy using images from hospital
-scanners.
-
-摘要：機器學習為自動預測中風後症狀及其對復健的反應提供了極大的潛力。這項工作的重大挑戰包括神經影像資料的維度非常高、可用於學習的資料集規模相對較小，以及如何有效結合神經影像和表格資料（例如人口統計資訊和臨床特徵）。本文根據兩種策略評估了多種解決方案。第一種是使用總結 MRI 掃描的 2D 影像。第二種是選擇有助於提高分類精確度的關鍵特徵。此外，我們引入了在結合從 MRI 中提取的感興趣區域與表格資料的符號表示的影像上訓練卷積神經網路 (CNN) 的新穎方法。我們評估了一系列 CNN 架構（2D 和 3D），這些架構在 MRI 和表格資料的不同表示上進行訓練，以預測中風後口述圖片描述能力的綜合測量是否在失語症或非失語症範圍內。MRI 和表格資料來自 758 名參與 PLORAS 研究的英語中風倖存者。僅針對病灶大小的基線邏輯迴歸分類準確度為 0.678，當依序加入初始症狀嚴重程度和恢復時間時，上升至 0.757 和 0.813。在從每個 MRI 掃描中提取 8 個感興趣區域並在 2D 殘差神經網路中與病灶大小、初始嚴重程度和恢復時間結合時，觀察到最高的分類準確度 0.854。我們的研究結果展示了如何將影像和表格資料結合起來以獲得高於中風後分類準確度，即使在機器學習術語中資料集很小的情況下也是如此。最後，我們提出如何改進目前的模型，以使用來自醫院掃描儀的影像來實現更高的準確度。
 

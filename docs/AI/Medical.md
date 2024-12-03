@@ -3,12 +3,12 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-29**|**Dynamic EEG-fMRI mapping: Revealing the relationship between brain connectivity and cognitive state**|Guiran Liu et.al.|[2411.19922v1](http://arxiv.org/abs/2411.19922v1)|null|
-|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742v1](http://arxiv.org/abs/2411.19742v1)|null|
-|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|null|
+|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742v1](http://arxiv.org/abs/2411.19742v1)|[link](https://github.com/hossboll/patient-gnn)|
+|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|[link](https://github.com/mahmoodlab/titan)|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544v1](http://arxiv.org/abs/2411.19544v1)|null|
 |**2024-11-29**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502v1](http://arxiv.org/abs/2411.19502v1)|null|
-|**2024-11-29**|**Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine**|Zhi Li et.al.|[2411.19447v1](http://arxiv.org/abs/2411.19447v1)|null|
-|**2024-11-28**|**Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**|Xi Zhang et.al.|[2411.19378v1](http://arxiv.org/abs/2411.19378v1)|null|
+|**2024-11-29**|**Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine**|Zhi Li et.al.|[2411.19447v1](http://arxiv.org/abs/2411.19447v1)|[link](https://github.com/RicoLeehdu/SISeg)|
+|**2024-11-28**|**Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**|Xi Zhang et.al.|[2411.19378v1](http://arxiv.org/abs/2411.19378v1)|[link](https://github.com/X-iZhang/Libra)|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
 |**2024-11-28**|**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG**|Xinxu Wei et.al.|[2411.19230v1](http://arxiv.org/abs/2411.19230v1)|null|
 |**2024-11-28**|**A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence**|Chenyu Tang et.al.|[2411.19000v1](http://arxiv.org/abs/2411.19000v1)|null|
@@ -44,7 +44,7 @@
 |**2024-11-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[2411.15976v1](http://arxiv.org/abs/2411.15976v1)|null|
 |**2024-11-24**|**Creating Scalable AGI: the Open General Intelligence Framework**|Daniel A. Dollinger et.al.|[2411.15832v2](http://arxiv.org/abs/2411.15832v2)|null|
 |**2024-11-24**|**Medical Slice Transformer: Improved Diagnosis and Explainability on 3D Medical Images with DINOv2**|Gustav Müller-Franzes et.al.|[2411.15802v1](http://arxiv.org/abs/2411.15802v1)|[link](https://github.com/mueller-franzes/mst)|
-|**2024-11-24**|**Enhancing the automatic segmentation and analysis of 3D liver vasculature models**|Yassine Machta et.al.|[2411.15778v1](http://arxiv.org/abs/2411.15778v1)|null|
+|**2024-11-24**|**Enhancing the automatic segmentation and analysis of 3D liver vasculature models**|Yassine Machta et.al.|[2411.15778v2](http://arxiv.org/abs/2411.15778v2)|null|
 |**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700v1](http://arxiv.org/abs/2411.15700v1)|null|
 |**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666v1](http://arxiv.org/abs/2411.15666v1)|[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)|
 |**2024-11-23**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594v1](http://arxiv.org/abs/2411.15594v1)|[link](https://github.com/idea-finai/llm-as-evaluator)|
@@ -69,7 +69,7 @@
 |**2024-11-20**|**Dist Loss: Enhancing Regression in Few-Shot Region through Distribution Distance Constraint**|Guangkun Nie et.al.|[2411.15216v1](http://arxiv.org/abs/2411.15216v1)|null|
 |**2024-11-20**|**SynEHRgy: Synthesizing Mixed-Type Structured Electronic Health Records using Decoder-Only Transformers**|Hojjat Karami et.al.|[2411.13428v1](http://arxiv.org/abs/2411.13428v1)|null|
 |**2024-11-20**|**S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning**|Mingze Yin et.al.|[2411.15215v1](http://arxiv.org/abs/2411.15215v1)|null|
-|**2024-11-20**|**Are Large Language Models Memorizing Bug Benchmarks?**|Daniel Ramos et.al.|[2411.13323v1](http://arxiv.org/abs/2411.13323v1)|null|
+|**2024-11-20**|**Are Large Language Models Memorizing Bug Benchmarks?**|Daniel Ramos et.al.|[2411.13323v2](http://arxiv.org/abs/2411.13323v2)|null|
 |**2024-11-20**|**Uni-Mlip: Unified Self-supervision for Medical Vision Language Pre-training**|Ameera Bawazir et.al.|[2411.15207v1](http://arxiv.org/abs/2411.15207v1)|null|
 |**2024-11-20**|**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**|Mengzhu Wang et.al.|[2411.13147v2](http://arxiv.org/abs/2411.13147v2)|null|
 |**2024-11-20**|**Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine**|Yifan Yang et.al.|[2411.14487v1](http://arxiv.org/abs/2411.14487v1)|null|
@@ -1180,7 +1180,7 @@ and explainability compared to convolutional neural networks.
 摘要：<paragraph>MRI 和 CT 是诊断复杂疾病的重要临床横断面成像技术。然而，用于深度学习的大型 3D 数据集和注释却很稀缺。虽然诸如 DINOv2 之类的方法对 2D 图像分析很有帮助，但这些方法尚未应用于 3D 医学图像。此外，深度学习模型通常缺乏可解释性，因为它们具有“黑匣子”的性质。本研究旨在将 2D 自监督模型（特别是 DINOv2）扩展到 3D 医学成像，同时评估其对可解释结果的潜力。我们引入了医学切片转换器 (MST) 框架，以将 2D 自监督模型用于 3D 医学图像分析。MST 将 Transformer 架构与 2D 特征提取器（即 DINOv2）相结合。我们评估了其针对三个临床数据集（乳腺 MRI（651 名患者）、胸部 CT（722 名患者）和膝部 MRI（1199 名患者））的诊断性能，与 3D 卷积神经网络 (3D ResNet) 进行了对比。两种方法均经过测试，用于诊断乳腺癌、预测肺结节性质和检测半月板撕裂。通过计算受试者工作特征曲线下面积 (AUC) 来评估诊断性能。可解释性通过放射科医生对基于切片和病变正确性的显着性图的定性比较来评估。P 值使用 Delong 的检验计算。与所有三个数据集中的 ResNet 相比，MST 获得了更高的 AUC 值：乳腺（0.94±0.01 vs. 0.91±0.02，P=0.02）、胸部（0.95±0.01 vs. 0.92±0.02，P=0.13）和膝部（0.85±0.04 vs. 0.69±0.05，P=0.001）。与 ResNet 相比，MST 的显着性图始终更加精确且解剖学上更正确。诸如 DINOv2 之类的自监督 2D 模型可以使用 MST 有效地适应 3D 医学成像，与卷积神经网络相比，提供了增强的诊断准确性和可解释性。</paragraph>
 
 ##### **Enhancing the automatic segmentation and analysis of 3D liver vasculature models**
-2411.15778v1 by Yassine Machta, Omar Ali, Kevin Hakkakian, Ana Vlascenau, Amaury Facque, Nicolas Golse, Irene Vignon-Clementel
+2411.15778v2 by Yassine Machta, Omar Ali, Kevin Hakkakian, Ana Vlasceanu, Amaury Facque, Nicolas Golse, Irene Vignon-Clementel
 
 Surgical assessment of liver cancer patients requires identification of the
 vessel trees from medical images. Specifically, the venous trees - the portal
@@ -1208,11 +1208,11 @@ publicly shared high-quality liver vessel dataset of 77 cases is thus created.
 Finally a method to annotate vessel trees according to anatomy is provided,
 enabling a unique liver vessel morphometry analysis.
 
-摘要：肝癌病患的外科評估需要從醫學影像中辨識血管樹。具體來說，靜脈樹 - 門靜脈（灌流）和肝靜脈（引流）樹對於了解肝臟解剖結構和疾病狀態以及進行手術規劃非常重要。這項研究旨在透過建立基於深度學習和影像處理技術的自動化流程，改善血管樹的 3D 分割、骨架化和後續分析。
-這項工作的首要部分探討可微分骨架化方法（例如 ClDice 和形態骨架化損失）對整體肝臟血管分割效能的影響。為此，它研究如何改善血管樹連通性。
-這項研究的第二部分將單一類別的血管分割轉換為多類別，以區分兩個靜脈樹。它建立在前一個雙類別血管分割模型的基礎上，該模型的血管樹輸出可能糾纏在一起，並建立在樹的連通元件和骨架分析的基礎上。
-在對每個靜脈樹的特定解剖分支進行次標記後，這些演算法還能透過萃取各種幾何標記來對血管樹進行形態計量分析。
-結論來說，我們提出了一種方法，可成功改善目前的骨架化方法，以適用於包含不同口徑血管的廣泛血管樹。分離演算法會建立血管的乾淨多類別分割，經由外科醫生驗證以提供低誤差。因此建立了一個新的、公開共享的高品質 77 個病例肝臟血管資料集。最後提供了一種根據解剖結構註解血管樹的方法，可進行獨特的肝臟血管形態計量分析。
+摘要：<paragraph>肝癌患者的手術評估需要從醫學影像中辨識血管樹。具體來說，靜脈樹 - 門靜脈（灌注）和肝靜脈（引流）樹對於了解肝臟解剖和疾病狀態以及執行手術規劃非常重要。本研究旨在通過建立基於深度學習和影像處理技術的自動化管道，改善血管樹的 3D 分割、骨架化和後續分析。
+本工作的**第一部分**探討了可微分骨架化方法（例如 ClDice 和形態骨架化損失）對整體肝臟血管分割性能的影響。為此，它研究了如何改善血管樹連通性。
+本研究的**第二部分**將單類別血管分割轉換為多類別血管分割，將兩棵靜脈樹分開。它建立在先前的兩類別血管分割模型之上，血管樹輸出可能糾纏在一起，並建立在樹的連接組成和骨架分析之上。
+在對每個靜脈樹的特定解剖分支進行子標記後，這些算法還可以通過提取各種幾何標記對血管樹進行形態測量分析。
+總之，我們提出了一種方法，可以成功改進當前的骨架化方法，適用於包含不同口徑血管的廣泛血管樹。分離算法創建了一個乾淨的多類別血管分割，經外科醫生驗證可提供低誤差。由此創建了一個新的、公開共享的 77 例高品質肝臟血管數據集。最後，提供了一種根據解剖標記血管樹的方法，能夠進行獨特的肝臟血管形態測量分析。</paragraph>
 
 ##### **RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**
 2411.15700v1 by Zaifu Zhan, Shuang Zhou, Mingchen Li, Rui Zhang
@@ -1813,7 +1813,7 @@ industrial, and clinical needs.
 摘要：<paragraph>抗體透過精準且強而有力的結合，針對特定抗原來保護我們的健康，在包括 COVID-19 在內的許多疾病的治療中，展現出有希望的治療功效。生物醫學語言模型的最新進展，已顯示出詮釋複雜生物結構和功能的巨大潛力。然而，現有的抗體特定模型有一個顯著的限制，就是它們缺乏對抗體結構資訊的明確考量，儘管 1D 序列和 3D 結構都能提供獨特且互補的見解，深入了解抗體行為和功能。本文提出序列結構多層級預訓練抗體語言模型 (S$^2$ALM)，將整體序列和結構資訊結合在一個統一的通用抗體基礎模型中。我們建構了一個分層預訓練範例，並結合兩個客製化多層級訓練目標，以利於建模全面的抗體表示。S$^2$ALM 的表示空間揭示了內在的功能結合機制、生物演化特性和結構互動模式。S$^2$ALM 預先訓練超過 7500 萬個序列和 1170 萬個結構，可採用於各種下游任務：準確預測抗原抗體結合親和力、精確區分 B 細胞成熟階段、識別抗體關鍵結合位置，以及特別設計新型冠狀病毒結合抗體。值得注意的是，S$^2$ALM 優於既有且知名的基線，並在廣泛的抗體特定理解和生成任務中，樹立新的最先進效能。S$^2$ALM 建模全面且廣泛表示的能力，進一步奠定了其在推進現實世界治療性抗體開發的潛力，有可能滿足未滿足的學術、產業和臨床需求。</paragraph>
 
 ##### **Are Large Language Models Memorizing Bug Benchmarks?**
-2411.13323v1 by Daniel Ramos, Claudia Mamede, Kush Jain, Paulo Canelas, Catarina Gamboa, Claire Le Goues
+2411.13323v2 by Daniel Ramos, Claudia Mamede, Kush Jain, Paulo Canelas, Catarina Gamboa, Claire Le Goues
 
 Large Language Models (LLMs) have become integral to various software
 engineering tasks, including code generation, bug detection, and repair. To
@@ -1822,20 +1822,18 @@ real-world bugs from software projects have been developed. However, a growing
 concern within the software engineering community is that these benchmarks may
 not reliably reflect true LLM performance due to the risk of data leakage.
 Despite this concern, limited research has been conducted to quantify the
-impact of potential leakage.
-  In this paper, we systematically evaluate popular LLMs to assess their
-susceptibility to data leakage from widely used bug benchmarks. To identify
-potential leakage, we use multiple metrics, including a study of benchmark
-membership within commonly used training datasets, as well as analyses of
-negative log-likelihood and n-gram accuracy. Our findings show that certain
-models, in particular codegen-multi, exhibit significant evidence of
-memorization in widely used benchmarks like Defects4J, while newer models
+impact of potential leakage. In this paper, we systematically evaluate popular
+LLMs to assess their susceptibility to data leakage from widely used bug
+benchmarks. To identify potential leakage, we use multiple metrics, including a
+study of benchmark membership within commonly used training datasets, as well
+as analyses of negative log-likelihood and n-gram accuracy. Our findings show
+that certain models, in particular codegen-multi, exhibit significant evidence
+of memorization in widely used benchmarks like Defects4J, while newer models
 trained on larger datasets like LLaMa 3.1 exhibit limited signs of leakage.
 These results highlight the need for careful benchmark selection and the
 adoption of robust metrics to adequately assess models capabilities.
 
-摘要：大型語言模型 (LLM) 已成為各種軟體工程任務中不可或缺的一部分，包括程式碼產生、錯誤偵測和修復。為了評估這些領域中的模型效能，已開發出許多包含軟體專案中真實錯誤的錯誤基準測試。然而，軟體工程社群中日益關注的是，由於資料外洩的風險，這些基準測試可能無法可靠地反映真正的 LLM 效能。儘管有此疑慮，但針對量化潛在外洩影響的研究卻十分有限。
-在本文中，我們系統性地評估熱門 LLM，以評估它們對廣泛使用的錯誤基準測試中資料外洩的敏感性。為了識別潛在的外洩，我們使用多種指標，包括研究基準測試成員資格在常用的訓練資料集中的情況，以及對負對數似然和 n-gram 精確度的分析。我們的研究結果顯示，某些模型，特別是 codegen-multi，在 Defects4J 等廣泛使用的基準測試中展現出顯著的記憶證據，而訓練於較大型資料集（例如 LLaMa 3.1）的較新模型則展現出有限的外洩跡象。這些結果突顯了仔細選擇基準測試和採用穩健指標以充分評估模型功能的必要性。
+摘要：大型語言模型 (LLM) 已成為各種軟體工程任務中不可或缺的一部分，包括程式碼產生、錯誤偵測和修復。為了評估這些領域的模型效能，已開發出許多包含來自軟體專案的真實錯誤的錯誤基準。然而，軟體工程社群中日益關注的是，這些基準可能無法可靠地反映真正的 LLM 效能，因為有資料外洩的風險。儘管有這樣的疑慮，但針對量化潛在外洩的影響，進行的研究卻有限。在本文中，我們系統性地評估熱門的 LLM，以評估它們對廣泛使用的錯誤基準資料外洩的敏感性。為了找出潛在外洩，我們使用多種指標，包括對常用訓練資料集中的基準成員資格進行研究，以及對負對數似然值和 n-gram 精確度的分析。我們的研究結果顯示，某些模型，特別是 codegen-multi，在 Defects4J 等廣泛使用的基準中展現出顯著的記憶證據，而訓練於較大型資料集（例如 LLaMa 3.1）的較新模型則展現出外洩的跡象有限。這些結果突顯了仔細選擇基準和採用穩健指標以充分評估模型能力的必要性。
 
 ##### **Uni-Mlip: Unified Self-supervision for Medical Vision Language Pre-training**
 2411.15207v1 by Ameera Bawazir, Kebin Wu, Wenbin Li

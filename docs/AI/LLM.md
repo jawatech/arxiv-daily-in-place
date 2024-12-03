@@ -2,32 +2,32 @@
 ### LLM
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v1](http://arxiv.org/abs/2411.19951v1)|[link](https://github.com/xjtupanda/t2vid)|
+|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v2](http://arxiv.org/abs/2411.19951v2)|[link](https://github.com/xjtupanda/t2vid)|
 |**2024-11-29**|**DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**|Zhiqiang Shen et.al.|[2411.19946v1](http://arxiv.org/abs/2411.19946v1)|[link](https://github.com/vila-lab/delt)|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943v1](http://arxiv.org/abs/2411.19943v1)|null|
+|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943v2](http://arxiv.org/abs/2411.19943v2)|null|
 |**2024-11-29**|**Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**|Joseph Heyward et.al.|[2411.19941v1](http://arxiv.org/abs/2411.19941v1)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939v1](http://arxiv.org/abs/2411.19939v1)|null|
 |**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930v1](http://arxiv.org/abs/2411.19930v1)|null|
 |**2024-11-29**|**SIMS: Simulating Human-Scene Interactions with Real World Script Planning**|Wenjia Wang et.al.|[2411.19921v1](http://arxiv.org/abs/2411.19921v1)|null|
 |**2024-11-29**|**Handling irresolvable conflicts in the Semantic Web: an RDF-based conflict-tolerant version of the Deontic Traditional Scheme**|Livio Robaldo et.al.|[2411.19918v1](http://arxiv.org/abs/2411.19918v1)|[link](https://github.com/liviorobaldo/conflict-tolerantdeontictraditionalscheme)|
 |**2024-11-29**|**Quantifying the synthetic and real domain gap in aerial scene understanding**|Alina Marcu et.al.|[2411.19913v1](http://arxiv.org/abs/2411.19913v1)|null|
-|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906v1](http://arxiv.org/abs/2411.19906v1)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906v1](http://arxiv.org/abs/2411.19906v1)|[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)|
 |**2024-11-29**|**PDDLFuse: A Tool for Generating Diverse Planning Domains**|Vedant Khandelwal et.al.|[2411.19886v1](http://arxiv.org/abs/2411.19886v1)|null|
-|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876v1](http://arxiv.org/abs/2411.19876v1)|null|
+|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876v2](http://arxiv.org/abs/2411.19876v2)|null|
 |**2024-11-29**|**Enhanced anomaly detection in well log data through the application of ensemble GANs**|Abdulrahman Al-Fakih et.al.|[2411.19875v1](http://arxiv.org/abs/2411.19875v1)|[link](https://github.com/ARhaman/EGANs-vs.GMM)|
 |**2024-11-29**|**DeMo: Decoupled Momentum Optimization**|Bowen Peng et.al.|[2411.19870v1](http://arxiv.org/abs/2411.19870v1)|[link](https://github.com/bloc97/demo)|
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869v1](http://arxiv.org/abs/2411.19869v1)|[link](https://github.com/aidetx/aidetx)|
 |**2024-11-29**|**Reverse Thinking Makes LLMs Stronger Reasoners**|Justin Chih-Yao Chen et.al.|[2411.19865v1](http://arxiv.org/abs/2411.19865v1)|null|
 |**2024-11-29**|**What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric review**|Mohammed Q. Shormani et.al.|[2411.19858v1](http://arxiv.org/abs/2411.19858v1)|null|
-|**2024-11-29**|**Artificial intelligence contribution to translation industry: looking back and forward**|Mohammed Q. Shormani et.al.|[2411.19855v1](http://arxiv.org/abs/2411.19855v1)|null|
-|**2024-11-29**|**Scaling Transformers for Low-Bitrate High-Quality Speech Coding**|Julian D Parker et.al.|[2411.19842v1](http://arxiv.org/abs/2411.19842v1)|null|
+|**2024-11-29**|**Artificial intelligence contribution to translation industry: looking back and forward**|Mohammed Q. Shormani et.al.|[2411.19855v2](http://arxiv.org/abs/2411.19855v2)|null|
+|**2024-11-29**|**Scaling Transformers for Low-Bitrate High-Quality Speech Coding**|Julian D Parker et.al.|[2411.19842v1](http://arxiv.org/abs/2411.19842v1)|[link](https://github.com/Stability-AI/stable-codec)|
 |**2024-11-29**|**Sensitive Content Classification in Social Media: A Holistic Resource and Evaluation**|Dimosthenis Antypas et.al.|[2411.19832v1](http://arxiv.org/abs/2411.19832v1)|null|
 |**2024-11-29**|**SDR-GNN: Spectral Domain Reconstruction Graph Neural Network for Incomplete Multimodal Learning in Conversational Emotion Recognition**|Fangze Fu et.al.|[2411.19822v1](http://arxiv.org/abs/2411.19822v1)|null|
 |**2024-11-29**|**Q-learning-based Model-free Safety Filter**|Guo Ning Sue et.al.|[2411.19809v1](http://arxiv.org/abs/2411.19809v1)|null|
 |**2024-11-29**|**Zero-shot Musical Stem Retrieval with Joint-Embedding Predictive Architectures**|Alain Riou et.al.|[2411.19806v1](http://arxiv.org/abs/2411.19806v1)|null|
 |**2024-11-29**|**Advanced System Integration: Analyzing OpenAPI Chunking for Retrieval-Augmented Generation**|Robin D. Pesl et.al.|[2411.19804v1](http://arxiv.org/abs/2411.19804v1)|null|
 |**2024-11-29**|**INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge**|Angelika Romanou et.al.|[2411.19799v1](http://arxiv.org/abs/2411.19799v1)|null|
-|**2024-11-29**|**CAREL: Instruction-guided reinforcement learning with cross-modal auxiliary objectives**|Armin Saghafian et.al.|[2411.19787v1](http://arxiv.org/abs/2411.19787v1)|null|
+|**2024-11-29**|**CAREL: Instruction-guided reinforcement learning with cross-modal auxiliary objectives**|Armin Saghafian et.al.|[2411.19787v1](http://arxiv.org/abs/2411.19787v1)|[link](https://github.com/ArminS03/CAREL)|
 |**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786v1](http://arxiv.org/abs/2411.19786v1)|null|
 |**2024-11-29**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774v1](http://arxiv.org/abs/2411.19774v1)|null|
 |**2024-11-29**|**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**|Tiantian Geng et.al.|[2411.19772v1](http://arxiv.org/abs/2411.19772v1)|null|
@@ -36,7 +36,7 @@
 |**2024-11-29**|**Forecasting Foreign Exchange Market Prices Using Technical Indicators with Deep Learning and Attention Mechanism**|Sahabeh Saadati et.al.|[2411.19763v1](http://arxiv.org/abs/2411.19763v1)|null|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758v1](http://arxiv.org/abs/2411.19758v1)|null|
 |**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[2411.19747v1](http://arxiv.org/abs/2411.19747v1)|[link](https://github.com/vita-epfl/stay-on-track)|
-|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742v1](http://arxiv.org/abs/2411.19742v1)|null|
+|**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742v1](http://arxiv.org/abs/2411.19742v1)|[link](https://github.com/hossboll/patient-gnn)|
 |**2024-11-29**|**A Deep Learning Approach to Language-independent Gender Prediction on Twitter**|Reyhaneh Hashempour et.al.|[2411.19733v1](http://arxiv.org/abs/2411.19733v1)|null|
 |**2024-11-29**|**Towards Santali Linguistic Inclusion: Building the First Santali-to-English Translation Model using mT5 Transformer and Data Augmentation**|Syed Mohammed Mostaque Billah et.al.|[2411.19726v1](http://arxiv.org/abs/2411.19726v1)|null|
 |**2024-11-29**|**JetFormer: An Autoregressive Generative Model of Raw Images and Text**|Michael Tschannen et.al.|[2411.19722v1](http://arxiv.org/abs/2411.19722v1)|null|
@@ -44,19 +44,19 @@
 |**2024-11-29**|**MonoPP: Metric-Scaled Self-Supervised Monocular Depth Estimation by Planar-Parallax Geometry in Automotive Applications**|Gasser Elazab et.al.|[2411.19717v1](http://arxiv.org/abs/2411.19717v1)|null|
 |**2024-11-29**|**MIMDE: Exploring the Use of Synthetic vs Human Data for Evaluating Multi-Insight Multi-Document Extraction Tasks**|John Francis et.al.|[2411.19689v1](http://arxiv.org/abs/2411.19689v1)|null|
 |**2024-11-29**|**ChineseWebText 2.0: Large-Scale High-quality Chinese Web Text with Multi-dimensional and fine-grained information**|Wanyue Zhang et.al.|[2411.19668v1](http://arxiv.org/abs/2411.19668v1)|[link](https://github.com/casia-lm/chinesewebtext-2.0)|
-|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|null|
-|**2024-11-29**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS**|Alessandro Scirè et.al.|[2411.19655v1](http://arxiv.org/abs/2411.19655v1)|null|
+|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|[link](https://github.com/mahmoodlab/titan)|
+|**2024-11-29**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis**|Alessandro Scirè et.al.|[2411.19655v2](http://arxiv.org/abs/2411.19655v2)|[link](https://github.com/Babelscape/LLM-Oasis)|
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652v1](http://arxiv.org/abs/2411.19652v1)|[link](https://github.com/mowenyii/uniform-attention-maps)|
 |**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|Qixiu Li et.al.|[2411.19650v1](http://arxiv.org/abs/2411.19650v1)|null|
 |**2024-11-29**|**CAdam: Confidence-Based Optimization for Online Learning**|Shaowen Wang et.al.|[2411.19647v1](http://arxiv.org/abs/2411.19647v1)|null|
-|**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638v1](http://arxiv.org/abs/2411.19638v1)|null|
+|**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638v1](http://arxiv.org/abs/2411.19638v1)|[link](https://github.com/TajaKuzman/IPTC-Media-Topic-Classification)|
 |**2024-11-29**|**Accelerating Multimodal Large Language Models via Dynamic Visual-Token Exit and the Empirical Findings**|Qiong Wu et.al.|[2411.19628v1](http://arxiv.org/abs/2411.19628v1)|[link](https://github.com/doubtedsteam/dyvte)|
 |**2024-11-29**|**GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding**|Yawen Shao et.al.|[2411.19626v1](http://arxiv.org/abs/2411.19626v1)|null|
 |**2024-11-29**|**FairDD: Fair Dataset Distillation via Synchronized Matching**|Qihang Zhou et.al.|[2411.19623v1](http://arxiv.org/abs/2411.19623v1)|null|
-|**2024-11-29**|**Can Large Language Models Reason about the Region Connection Calculus?**|Anthony G Cohn et.al.|[2411.19589v1](http://arxiv.org/abs/2411.19589v1)|null|
+|**2024-11-29**|**Can Large Language Models Reason about the Region Connection Calculus?**|Anthony G Cohn et.al.|[2411.19589v1](http://arxiv.org/abs/2411.19589v1)|[link](https://github.com/RobBlackwell/can-llms-reason-about-the-rcc)|
 |**2024-11-29**|**Solving Rubik's Cube Without Tricky Sampling**|Yicheng Lin et.al.|[2411.19583v1](http://arxiv.org/abs/2411.19583v1)|null|
 |**2024-11-29**|**In-Context Learning with Noisy Labels**|Junyong Kang et.al.|[2411.19581v1](http://arxiv.org/abs/2411.19581v1)|null|
-|**2024-11-29**|**ICPR 2024 Competition on Multilingual Claim-Span Identification**|Soham Poddar et.al.|[2411.19579v1](http://arxiv.org/abs/2411.19579v1)|null|
+|**2024-11-29**|**ICPR 2024 Competition on Multilingual Claim-Span Identification**|Soham Poddar et.al.|[2411.19579v1](http://arxiv.org/abs/2411.19579v1)|[link](https://github.com/sohampoddar26/hecsi-data)|
 |**2024-11-29**|**KV Shifting Attention Enhances Language Modeling**|Mingyu Xu et.al.|[2411.19574v1](http://arxiv.org/abs/2411.19574v1)|null|
 |**2024-11-29**|**Ensemble Watermarks for Large Language Models**|Georg Niess et.al.|[2411.19563v1](http://arxiv.org/abs/2411.19563v1)|[link](https://github.com/commodoreeu/master-generation)|
 |**2024-11-29**|**Initialization using Update Approximation is a Silver Bullet for Extremely Efficient Low-Rank Fine-Tuning**|Kaustubh Ponkshe et.al.|[2411.19557v1](http://arxiv.org/abs/2411.19557v1)|[link](https://github.com/raghavsinghal10/lora-sb)|
@@ -68,7 +68,7 @@
 |**2024-11-29**|**Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**|Florinel-Alin Croitoru et.al.|[2411.19537v1](http://arxiv.org/abs/2411.19537v1)|[link](https://github.com/croitorualin/biodeep)|
 |**2024-11-29**|**Quantized Delta Weight Is Safety Keeper**|Yule Liu et.al.|[2411.19530v1](http://arxiv.org/abs/2411.19530v1)|null|
 |**2024-11-29**|**RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation**|Xianfeng Tan et.al.|[2411.19528v1](http://arxiv.org/abs/2411.19528v1)|null|
-|**2024-11-29**|**DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding**|Jungbin Cho et.al.|[2411.19527v1](http://arxiv.org/abs/2411.19527v1)|null|
+|**2024-11-29**|**DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding**|Jungbin Cho et.al.|[2411.19527v2](http://arxiv.org/abs/2411.19527v2)|null|
 |**2024-11-29**|**RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks**|Tae-Hoon Lee et.al.|[2411.19517v1](http://arxiv.org/abs/2411.19517v1)|null|
 |**2024-11-29**|**TQA-Bench: Evaluating LLMs for Multi-Table Question Answering with Scalable Context and Symbolic Extension**|Zipeng Qiu et.al.|[2411.19504v1](http://arxiv.org/abs/2411.19504v1)|null|
 |**2024-11-29**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502v1](http://arxiv.org/abs/2411.19502v1)|null|
@@ -80,20 +80,20 @@
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475v1](http://arxiv.org/abs/2411.19475v1)|null|
 |**2024-11-29**|**Towards Understanding Retrieval Accuracy and Prompt Quality in RAG Systems**|Shengming Zhao et.al.|[2411.19463v1](http://arxiv.org/abs/2411.19463v1)|null|
 |**2024-11-29**|**Look Every Frame All at Once: Video-Ma$^2$mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing**|Hosu Lee et.al.|[2411.19460v1](http://arxiv.org/abs/2411.19460v1)|null|
-|**2024-11-29**|**Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability**|Yujin Han et.al.|[2411.19456v1](http://arxiv.org/abs/2411.19456v1)|null|
-|**2024-11-29**|**Learning Visual Abstract Reasoning through Dual-Stream Networks**|Kai Zhao et.al.|[2411.19451v1](http://arxiv.org/abs/2411.19451v1)|null|
-|**2024-11-29**|**Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine**|Zhi Li et.al.|[2411.19447v1](http://arxiv.org/abs/2411.19447v1)|null|
+|**2024-11-29**|**Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability**|Yujin Han et.al.|[2411.19456v1](http://arxiv.org/abs/2411.19456v1)|[link](https://github.com/OpenCausaLab/ADCE)|
+|**2024-11-29**|**Learning Visual Abstract Reasoning through Dual-Stream Networks**|Kai Zhao et.al.|[2411.19451v1](http://arxiv.org/abs/2411.19451v1)|[link](https://github.com/VecchioID/DRNet)|
+|**2024-11-29**|**Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine**|Zhi Li et.al.|[2411.19447v1](http://arxiv.org/abs/2411.19447v1)|[link](https://github.com/RicoLeehdu/SISeg)|
 |**2024-11-29**|**Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models**|Tian Yu et.al.|[2411.19443v1](http://arxiv.org/abs/2411.19443v1)|[link](https://github.com/ictnlp/auto-rag)|
 |**2024-11-29**|**Gradient Inversion Attack on Graph Neural Networks**|Divya Anand Sinha et.al.|[2411.19440v1](http://arxiv.org/abs/2411.19440v1)|null|
 |**2024-11-29**|**Actions and Objects Pathways for Domain Adaptation in Video Question Answering**|Safaa Abdullahi Moallim Mohamud et.al.|[2411.19434v1](http://arxiv.org/abs/2411.19434v1)|null|
 |**2024-11-28**|**AMO Sampler: Enhancing Text Rendering with Overshooting**|Xixi Hu et.al.|[2411.19415v1](http://arxiv.org/abs/2411.19415v1)|null|
-|**2024-11-28**|**Concept-driven Off Policy Evaluation**|Ritam Majumdar et.al.|[2411.19395v1](http://arxiv.org/abs/2411.19395v1)|null|
+|**2024-11-28**|**Concept-driven Off Policy Evaluation**|Ritam Majumdar et.al.|[2411.19395v1](http://arxiv.org/abs/2411.19395v1)|[link](https://github.com/ai4ai-lab/Concept-driven-OPE)|
 |**2024-11-28**|**Marconi: Prefix Caching for the Era of Hybrid LLMs**|Rui Pan et.al.|[2411.19379v1](http://arxiv.org/abs/2411.19379v1)|null|
-|**2024-11-28**|**Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**|Xi Zhang et.al.|[2411.19378v1](http://arxiv.org/abs/2411.19378v1)|null|
-|**2024-11-28**|**DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities**|Hui Dai et.al.|[2411.19360v1](http://arxiv.org/abs/2411.19360v1)|null|
+|**2024-11-28**|**Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**|Xi Zhang et.al.|[2411.19378v1](http://arxiv.org/abs/2411.19378v1)|[link](https://github.com/X-iZhang/Libra)|
+|**2024-11-28**|**DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities**|Hui Dai et.al.|[2411.19360v1](http://arxiv.org/abs/2411.19360v1)|[link](https://github.com/ameliadai/DENIAHL)|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
 |**2024-11-28**|**OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation**|Se-eun Yoon et.al.|[2411.19352v1](http://arxiv.org/abs/2411.19352v1)|null|
-|**2024-11-28**|**CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**|Mohamed Fazli Imam et.al.|[2411.19346v1](http://arxiv.org/abs/2411.19346v1)|null|
+|**2024-11-28**|**CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections**|Mohamed Fazli Imam et.al.|[2411.19346v1](http://arxiv.org/abs/2411.19346v1)|[link](https://github.com/fazliimam/NoLA)|
 |**2024-11-28**|**An Adversarial Learning Approach to Irregular Time-Series Forecasting**|Heejeong Nam et.al.|[2411.19341v1](http://arxiv.org/abs/2411.19341v1)|null|
 |**2024-11-28**|**Towards a Mechanistic Explanation of Diffusion Model Generalization**|Matthew Niedoba et.al.|[2411.19339v1](http://arxiv.org/abs/2411.19339v1)|null|
 |**2024-11-28**|**PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning**|Shenghui Li et.al.|[2411.19335v1](http://arxiv.org/abs/2411.19335v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**
-2411.19951v1 by Shukang Yin, Chaoyou Fu, Sirui Zhao, Yunhang Shen, Chunjiang Ge, Yan Yang, Zuwei Long, Yuhan Dai, Tong Xu, Xing Sun, Ran He, Caifeng Shan, Enhong Chen
+2411.19951v2 by Shukang Yin, Chaoyou Fu, Sirui Zhao, Yunhang Shen, Chunjiang Ge, Yan Yang, Zuwei Long, Yuhan Dai, Tong Xu, Xing Sun, Ran He, Caifeng Shan, Enhong Chen
 
 The success of Multimodal Large Language Models (MLLMs) in the image domain
 has garnered wide attention from the research community. Drawing on previous
@@ -129,7 +129,25 @@ training with long video samples. We hope our study will spark more thinking
 about using MLLMs for video understanding and curation of high-quality data.
 The code is released at https://github.com/xjtupanda/T2Vid.
 
-摘要：多模态大语言模型 (MLLM) 在图像领域的成功引起了研究界的广泛关注。借鉴以往的成功经验，研究人员最近探索将成功扩展到视频理解领域。除了从头开始训练外，一种有效的方法是利用预训练的图像 LLM，从而产生两种主流方法，即零样本推理和使用视频数据进行进一步微调。在这项工作中，我们对这些方法的研究收获了一种有效的数据增强方法。我们首先对零样本推理方式进行更深入的检查，并找出两个限制，即有限的泛化能力和缺乏时间理解能力。因此，我们进一步研究了微调方法，并发现仅使用所有视频数据样本时的学习效率较低，这可归因于缺乏指令多样性。针对此问题，我们开发了一种名为 T2Vid 的方法来合成类视频样本，以丰富训练语料库中的指令多样性。集成这些数据可以实现简单高效的训练方案，仅通过训练 15% 的样本量，即可实现与使用完整视频数据集相当甚至更好的性能。同时，我们发现所提出的方案可以在不使用长视频样本进行训练的情况下提高长视频理解的性能。我们希望我们的研究将激发更多关于使用 MLLM 进行视频理解和高质量数据整理的思考。代码已发布在 https://github.com/xjtupanda/T2Vid。
+摘要：多模态大型语言模型 (MLLM) 在图像领域的成功
+引起了研究界的广泛关注。借鉴以往的
+成功经验，研究人员最近探索将
+成功扩展到视频理解领域。除了从头开始训练，一种
+有效的方法是利用预先训练的图像 LLM，从而形成两种
+主流方法，即零样本推理和使用
+视频数据进行进一步微调。在这项工作中，我们对这些方法的研究收获了一种有效的
+数据增强方法。我们首先对零样本
+推理方式进行更深入的检查，并找出两个限制，即有限的泛化能力和
+缺乏时间理解能力。因此，我们进一步研究了
+微调方法，并发现仅使用所有
+视频数据样本时的学习效率低下，这可能归因于指令
+多样性的缺乏。针对此问题，我们开发了一种名为 T2Vid 的方法来合成
+类似视频的样本，以丰富训练语料库中的指令多样性。
+集成这些数据可实现简单高效的训练方案，其
+通过仅使用 15% 的样本大小进行训练，即可实现与使用完整视频
+数据集相当甚至更好的性能。同时，我们发现所提出的方案可以提升长视频理解的性能，而无需
+使用长视频样本进行训练。我们希望我们的研究将激发更多关于使用 MLLM 进行视频理解和高质量数据管理的思考。
+代码已在 https://github.com/xjtupanda/T2Vid 中发布。
 
 ##### **DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**
 2411.19946v1 by Zhiqiang Shen, Ammar Sherif, Zeyuan Yin, Shitong Shao
@@ -161,8 +179,8 @@ Code is available at: https://github.com/VILA-Lab/DELT.
 
 摘要：<paragraph>資料集萃取的最新進展已導致兩個主要方向的解決方案。傳統的批次對批次匹配機制非常適合小規模資料集，包括模型和合成上的雙層最佳化方法，例如 FRePo、RCIG 和 RaT-BPTT，以及分佈匹配、梯度匹配和權重軌跡匹配等其他方法。相反，批次對全局匹配是解耦方法的典型，這對於大規模資料集特別有利。這種方法在社群中引起了極大的興趣，如在 SRe$^2$L、G-VBSM、WMDD 和 CDA 中所見。第二種方法的主要挑戰是每個類別內的合成缺乏多樣性，因為範例是獨立最佳化的，並且相同的全局監督訊號在不同的合成影像中重複使用。在本研究中，我們提出了一種新的多樣性驅動的早期後期訓練 (DELT) 方案，以增強批次對全局匹配中影像的多樣性，並減少運算。我們的做法在概念上既簡單又有效，它將預定義的 IPC 範例分割成更小的子任務，並採用局部最佳化將每個子集萃取成不同階段的分布，減少統一最佳化流程所導致的一致性。這些來自子任務的萃取影像在應用於整個任務時展現了有效的概化。我們對 CIFAR、Tiny-ImageNet、ImageNet-1K 及其子資料集進行了廣泛的實驗。我們的做法在不同的資料集和 IPC（每個類別的影像）中平均比先前的最新技術高出 2$\sim$5%，每個類別的多樣性增加了 5% 以上，同時將合成時間減少了 39.3%，以提高訓練效率。程式碼可在 https://github.com/VILA-Lab/DELT 取得。</paragraph>
 
-##### **Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**
-2411.19943v1 by Zicheng Lin, Tian Liang, Jiahao Xu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang, Zhaopeng Tu
+##### **Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**
+2411.19943v2 by Zicheng Lin, Tian Liang, Jiahao Xu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang, Zhaopeng Tu
 
 Large Language Models (LLMs) have exhibited remarkable performance on
 reasoning tasks. They utilize autoregressive token generation to construct
@@ -187,7 +205,7 @@ weight for token-level DPO learning.Experimental results on GSM8K and MATH500
 benchmarks with two-widely used models Llama-3 (8B and 70B) and deepseek-math
 (7B) demonstrate the effectiveness of the propsoed approach cDPO.
 
-摘要：大型語言模型 (LLM) 在推理任務上展現出顯著的表現。它們利用自迴歸符號產生來構建推理軌跡，從而能夠發展出一條連貫的思維鏈。在這項工作中，我們探討了個別符號對推理任務最終結果的影響。我們發現 LLM 中存在導致推理軌跡不正確的「關鍵符號」。具體來說，我們發現 LLM 傾向於在被迫解碼其他符號而不是關鍵符號時產生正向結果。受此觀察結果啟發，我們提出了一種新穎的方法 - cDPO - 旨在自動識別並在對齊過程中對關鍵符號進行符號層級的獎勵。具體來說，我們開發了一種對比估計方法來自動識別關鍵符號。這是通過比較正向和負向模型的產生可能性來實現的。為此，我們分別對正向和負向模型進行微調，針對各種推理軌跡，因此，它們能夠識別出導致錯誤結果的不正確軌跡中的關鍵符號。此外，為了進一步在對齊過程中將模型與關鍵符號資訊對齊，我們將傳統的 DPO 演算法擴展到符號層級的 DPO，並利用上述正向和負向模型的差異可能性作為符號層級 DPO 學習的重要權重。在 GSM8K 和 MATH500 基準上使用兩個廣泛使用的模型 Llama-3（8B 和 70B）和 deepseek-math（7B）進行的實驗結果證明了所提出的方法 cDPO 的有效性。
+摘要：大型語言模型 (LLM) 在推理任務上展現出卓越的表現。它們利用自迴歸的標記生成來建構推理軌跡，使思想鏈條得以連貫發展。在這項工作中，我們探討了個別標記對推理任務最終結果的影響。我們發現 LLM 中存在導致推理軌跡不正確的「關鍵標記」。具體來說，我們發現當 LLM 被迫解碼其他標記而非關鍵標記時，它們往往會產生正向結果。受此觀察結果的啟發，我們提出了一種新方法 cDPO，旨在自動辨識並在比對過程中對關鍵標記進行標記層級的獎勵。具體來說，我們開發了一種對比估計方法來自動辨識關鍵標記。這是透過比較正向和負向模型的生成可能性來實現的。為此，我們分別針對各種推理軌跡微調正向和負向模型，因此它們能夠辨識導致錯誤結果的不正確軌跡中的關鍵標記。此外，為了進一步在比對過程中將模型與關鍵標記資訊比對，我們將傳統的 DPO 演算法擴充到標記層級的 DPO，並利用上述正向和負向模型中的差異可能性作為標記層級 DPO 學習的重要權重。在 GSM8K 和 MATH500 基準測試中，使用兩種廣泛使用的模型 Llama-3（8B 和 70B）和 deepseek-math（7B）進行的實驗結果證明了所提出的 cDPO 方法的有效性。
 
 ##### **Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**
 2411.19941v1 by Joseph Heyward, João Carreira, Dima Damen, Andrew Zisserman, Viorica Pătrăucean
@@ -377,8 +395,8 @@ generation methods and making a contribution towards planning research.
 
 摘要：各種現實世界的挑戰需要能夠適應廣泛領域的規劃演算法。傳統上，規劃領域的建立高度依賴於人工實作，這限制了可用領域的規模和多樣性。雖然最近的進展已利用生成式 AI 技術，例如大型語言模型 (LLM) 來進行領域建立，但這些努力主要集中於從自然語言描述中翻譯現有領域，而不是生成新的領域。相比之下，在強化學習中非常有效的領域隨機化的概念，透過在各種隨機新領域上進行訓練，增強了效能和泛化能力。受到這種成功的啟發，我們的工具 PDDLFuse 旨在彌補規劃領域定義語言 (PDDL) 中的這一差距。PDDLFuse 旨在產生新的、多樣化的規劃領域，可用於驗證新的規劃器或測試基礎規劃模型。我們已開發出調整領域產生器參數的方法，以調整其所產生領域的難度。這種適應能力至關重要，因為現有的與領域無關的規劃器通常難以處理更複雜的問題。初步測試表明，PDDLFuse 有效地建立了複雜且多樣的領域，代表了傳統領域產生方法的重大進步，並為規劃研究做出了貢獻。
 
-##### **LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**
-2411.19876v1 by Luis Ibanez-Lissen, Lorena Gonzalez-Manzano, Jose Maria de Fuentes, Nicolas Anciaux, Joaquin Garcia-Alfaro
+##### **LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**
+2411.19876v2 by Luis Ibanez-Lissen, Lorena Gonzalez-Manzano, Jose Maria de Fuentes, Nicolas Anciaux, Joaquin Garcia-Alfaro
 
 Large Language Models (LLMs) are increasingly used in a variety of
 applications, but concerns around membership inference have grown in parallel.
@@ -396,7 +414,7 @@ reveals key insights, such as the model layers where MIAs are most detectable.
 In multimodal models, LPs indicate that visual inputs can significantly
 contribute to detect MIAs -- AUC>60% is reached in 85.90% of experiments.
 
-摘要：大型語言模型 (LLM) 在各種應用中越來越廣泛地使用，但對成員推論的擔憂也與日俱增。先前的努力主要集中在黑箱到灰箱模型，因此忽視了 LLM 內部資訊的潛在好處。為了解決這個問題，我們建議使用線性探測 (LP) 作為一種方法，透過檢查 LLM 的內部激活來偵測成員推論攻擊 (MIA)。我們的方法稱為 LUMIA，它逐層應用 LP 以取得關於模型內部運作的細粒度資料。我們在幾個模型架構、大小和資料集上測試此方法，包括單模態和多模態任務。在單模態 MIA 中，LUMIA 在曲線下面積 (AUC) 上比先前的技術平均增加了 15.71%。值得注意的是，LUMIA 在 65.33% 的案例中達到 AUC>60%，與目前技術相比增加了 46.80%。此外，我們的做法揭示了關鍵見解，例如 MIA 最容易被偵測到的模型層。在多模態模型中，LP 指出視覺輸入可以顯著有助於偵測 MIA，在 85.90% 的實驗中達到 AUC>60%。
+摘要：大型語言模型 (LLM)  zunehmend in einer Vielzahl von Anwendungen eingesetzt, aber Bedenken hinsichtlich der Mitgliedschaftsinferenz sind parallel dazu gewachsen. Frühere Bemühungen konzentrieren sich auf Black-to-Grey-Box-Modelle und vernachlässigen so den potenziellen Nutzen interner LLM-Informationen. Um dies anzugehen, schlagen wir vor, lineare Sonden (LPs) als Methode zur Erkennung von Mitgliedschaftsinferenzangriffen (MIAs) zu verwenden, indem wir interne Aktivierungen von LLMs untersuchen. Unser Ansatz, der als LUMIA bezeichnet wird, wendet LPs Schicht für Schicht an, um detaillierte Daten über die inneren Abläufe des Modells zu erhalten. Wir testen diese Methode für verschiedene Modellarchitekturen, Größen und Datensätze, einschließlich unimodaler und multimodaler Aufgaben. In unimodalen MIA erzielt LUMIA eine durchschnittliche Steigerung von 15,71 % in der Fläche unter der Kurve (AUC) gegenüber früheren Techniken. Bemerkenswerterweise erreicht LUMIA in 65,33 % der Fälle AUC > 60 % – eine Steigerung von 46,80 % gegenüber dem Stand der Technik. Darüber hinaus liefert unser Ansatz wichtige Erkenntnisse, wie z. B. die Modellebenen, in denen MIAs am besten nachweisbar sind. In multimodalen Modellen zeigen LPs, dass visuelle Eingaben erheblich zur Erkennung von MIAs beitragen können – AUC > 60 % wird in 85,90 % der Experimente erreicht.
 
 ##### **Enhanced anomaly detection in well log data through the application of ensemble GANs**
 2411.19875v1 by Abdulrahman Al-Fakih, A. Koeshidayatullah, Tapan Mukerji, SanLinn I. Kaka
@@ -518,7 +536,7 @@ models including ChatGPT.
 摘要：語言學與人工智慧 (AI) 之間有密切的關聯，而深度學習語言模型最能體現這一點。本研究提供對此關聯的全面科學計量分析，綜合了 1974 年至 2024 年 51 年來的知識產出。這涉及 2124 份期刊發表的 5750 篇 Web of Science 所索引的文章，這些文章是由 794 個國家/地區 13773 個研究中心中的 20835 位作者所撰寫。兩個強大的軟體，即 CiteSpace 和 VOSviewer，用於產生知識領域、趨勢議題和（重新）浮現熱點的映射視覺化。結果表明，在 1980 年代和 1990 年代，語言學和 AI 研究並不強勁，其特點是隨著時間推移而發表的文章不穩定。然而，從那時起，它見證了出版物的顯著增加，在 2023 年達到 1478 篇文章，在 2024 年的 1 月至 3 月期間達到 546 篇文章，涉及新興議題和熱點，探討新的視野、新的主題，並推出新的應用程式和強大的深度學習語言模型，包括 ChatGPT。
 
 ##### **Artificial intelligence contribution to translation industry: looking back and forward**
-2411.19855v1 by Mohammed Q. Shormani
+2411.19855v2 by Mohammed Q. Shormani
 
 This study provides a comprehensive analysis of artificial intelligence (AI)
 contribution to translation industry (ACTI) research, synthesizing it over
@@ -539,7 +557,7 @@ several problems encountering translation industry, specifically concerning
 low-source languages, multi-dialectical and free word order languages, and
 cultural and religious registers.
 
-摘要：本研究提供了對人工智慧 (AI) 對翻譯產業 (ACTI) 研究的全面分析，綜合了 1980-2024 年 41 年來的研究。從 WoS、Scopus 和 Lens 三個來源中檢索了 13220 篇文章。我們提供了兩種分析，即科學計量和主題分析，重點關注群集、主題類別、關鍵字、爆發性、中心性和研究中心。對於後者，我們有目的地從所涉及的文章中選擇了 18 篇文章進行主題回顧，重點關注目的、方法、發現和對 ACTI 未來方向的貢獻。研究結果表明，過去 AI 對翻譯產業的貢獻並不嚴謹，導致基於規則的機器翻譯和統計機器翻譯的輸出並不令人滿意。然而，隨著 AI 的發展，機器翻譯也得到了發展，結合了神經網路演算法和像 ChatGPT 這樣的（深度）語言學習模型，其翻譯輸出有了顯著的發展。然而，仍然需要大量的嚴謹研究來克服翻譯產業遇到的幾個問題，特別是關於低資源語言、多方言和自由語序語言以及文化和宗教註冊。
+摘要：本研究提供了人工智慧 (AI) 對翻譯產業 (ACTI) 研究的全面分析，綜合了 1980 年至 2024 年 41 年來的研究。從 WoS、Scopus 和 Lens 三個來源檢索了 13220 篇文章。我們提供了兩種分析，即科學計量和主題分析，前者著重於群集、主題類別、關鍵字、爆發性、中心性和研究中心。對於後者，我們有目的性地從所涉及的文章中挑選出 18 篇文章進行主題回顧，重點關注目的、方法、發現和對 ACTI 未來方向的貢獻。研究結果表明，過去 AI 對翻譯產業的貢獻並不嚴謹，導致基於規則的機器翻譯和統計機器翻譯的輸出並不令人滿意。然而，隨著 AI 的進一步發展，機器翻譯也得到了進一步發展，融合了神經網路演算法和類 ChatGPT 的（深度）語言學習模型，其翻譯輸出有了顯著的發展。然而，仍需要大量嚴謹的研究來克服翻譯產業遇到的幾個問題，特別是涉及低資源語言、多方言和自由語序語言以及文化和宗教註冊。
 
 ##### **Scaling Transformers for Low-Bitrate High-Quality Speech Coding**
 2411.19842v1 by Julian D Parker, Anton Smirnov, Jordi Pons, CJ Carr, Zack Zukowski, Zach Evans, Xubo Liu
@@ -1139,8 +1157,8 @@ report generation.
 
 摘要：計算病理學領域已因基礎模型的最新進展而轉型，這些模型透過自監督學習 (SSL) 將組織病理學感興趣區域 (ROI) 編碼成多功能且可轉移的特徵表示。然而，要解決患者和切片層面的複雜臨床挑戰，將這些進展轉化為解決方案仍受限於特定疾病群體中有限的臨床資料，尤其是罕見的臨床情況。我們提出 TITAN，這是一個多模態全切片基礎模型，使用 335,645 個 WSI 透過視覺自監督學習和與對應病理報告的視覺語言對齊，以及由多模態生成式 AI 輔助員為病理學生成的 423,122 個合成標題進行預訓練。在沒有任何微調或需要臨床標籤的情況下，TITAN 可以提取通用切片表示，並生成病理報告，以概括到資源有限的臨床場景，例如罕見疾病檢索和癌症預後。我們在不同的臨床任務上評估 TITAN，發現 TITAN 在機器學習設定中優於 ROI 和切片基礎模型，例如線性探查、少次學習和零次學習分類、罕見癌症檢索和跨模態檢索，以及病理報告生成。
 
-##### **Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS**
-2411.19655v1 by Alessandro Scirè, Andrei Stefan Bejgu, Simone Tedeschi, Karim Ghonim, Federico Martelli, Roberto Navigli
+##### **Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis**
+2411.19655v2 by Alessandro Scirè, Andrei Stefan Bejgu, Simone Tedeschi, Karim Ghonim, Federico Martelli, Roberto Navigli
 
 After the introduction of Large Language Models (LLMs), there have been
 substantial improvements in the performance of Natural Language Generation
@@ -1164,10 +1182,10 @@ for state-of-the-art LLMs, with GPT-4o achieving up to 60% accuracy in our
 proposed end-to-end factuality evaluation task, highlighting its potential to
 drive future research in the field.
 
-摘要：在大語言模型 (LLM) 問世後，自然語言生成 (NLG) 任務的表現已大幅提升，包括文字摘要和機器翻譯。然而，LLM 仍會產生包含幻覺的輸出，也就是沒有根據事實資訊的內容。因此，開發評估 LLM 事實性的方法已刻不容緩。
-事實上，事實性評估資源最近已浮現。儘管面臨挑戰，這些資源仍面臨以下一個或多個限制：(i) 它們專門針對特定任務或領域；(ii) 它們的規模有限，因此無法訓練新的事實性評估器；(iii) 它們設計用於較簡單的驗證任務，例如聲明驗證。
-為了解決這些問題，我們引入了 LLM-Oasis，據我們所知，這是用於訓練端對端事實性評估器最大的資源。LLM-Oasis 是透過從維基百科中萃取聲明、偽造其中一部分聲明，以及產生事實和非事實文字對來建構的。然後我們依賴人工標記員來驗證我們資料集的品質，並為事實性評估系統的基準測試建立黃金標準測試集。
-我們的實驗證明，LLM-Oasis 對現有最先進的 LLM 構成重大挑戰，GPT-4o 在我們提出的端對端事實性評估任務中達到 60% 的準確率，突顯其推動該領域未來研究的潛力。
+摘要：在大型語言模型 (LLM) 推出後，自然語言生成 (NLG) 任務的性能有了顯著的提升，包括文本摘要和機器翻譯。然而，LLM 仍會產生包含幻覺的輸出，即未建立在事實資訊上的內容。因此，開發評估 LLM 事實性的方法變得十分迫切。
+事實上，事實性評估資源最近已浮現。儘管具有挑戰性，但這些資源面臨以下一個或多個限制：(i) 它們專門針對特定任務或領域；(ii) 它們的規模有限，從而妨礙了新事實性評估器的訓練；(iii) 它們被設計用於更簡單的驗證任務，例如聲明驗證。
+為了解決這些問題，我們引入了 LLM-Oasis，據我們所知，它是用於訓練端到端事實性評估器的最大資源。LLM-Oasis 是通過從維基百科中提取聲明、偽造其中一部分聲明，並生成事實和非事實文本對來構建的。然後，我們依賴人工註解員來驗證我們資料集的品質，並為事實性評估系統的基準測試建立一個黃金標準測試集。
+我們的實驗表明，LLM-Oasis 對最先進的 LLM 構成了嚴峻的挑戰，GPT-4o 在我們提出的端到端事實性評估任務中達到了 60% 的準確度，突顯了其推動該領域未來研究的潛力。
 
 ##### **Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**
 2411.19652v1 by Wenyi Mo, Tianyu Zhang, Yalong Bai, Bing Su, Ji-Rong Wen
@@ -1708,7 +1726,7 @@ generation with RAG to confront intrinsic hallucinations and enhance fidelity.
 摘要：標準服裝資產生成涉及建立在明確背景上顯示的正面平鋪服裝影像，透過從多樣化的真實世界情境中擷取服裝資訊，這會造成顯著的挑戰，因為在生成的影像中，取樣分配高度標準化，且結構需求精確。現有的模型具有有限的空間感知，且在這個高規格的生成任務中，通常會展現結構性幻覺。為了解決這個問題，我們提出一個創新的檢索增強生成 (RAG) 架構，稱為 RAGDiffusion，透過同化來自 LLM 和資料庫的外部知識來增強結構確定性並減輕幻覺。RAGDiffusion 包含兩個核心流程：(1) 基於檢索的結構聚合，採用對比學習和結構局部線性嵌入 (SLLE) 來推導整體結構和空間地標，提供軟性和硬性指導來對抗結構模糊性；以及 (2) 全方位忠實服裝生成，在擴散中引入三層對齊，確保結構、圖案和解碼元件的保真度。在具有挑戰性的真實世界資料集上進行的廣泛實驗證明，RAGDiffusion 合成了結構和細節都忠實的服裝資產，效能顯著提升，代表了在高規格忠實生成中使用 RAG 來對抗內在幻覺並提升保真度的先驅性努力。
 
 ##### **DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding**
-2411.19527v1 by Jungbin Cho, Junwan Kim, Jisoo Kim, Minseo Kim, Mingu Kang, Sungeun Hong, Tae-Hyun Oh, Youngjae Yu
+2411.19527v2 by Jungbin Cho, Junwan Kim, Jisoo Kim, Minseo Kim, Mingu Kang, Sungeun Hong, Tae-Hyun Oh, Youngjae Yu
 
 Human motion, inherently continuous and dynamic, presents significant
 challenges for generative models. Despite their dominance, discrete
@@ -1729,7 +1747,7 @@ KIT-ML. These results solidify DisCoRD as a robust solution for bridging the
 divide between discrete efficiency and continuous realism. Our project page is
 available at: https://whwjdqls.github.io/discord.github.io/.
 
-摘要：人類動作本質上是連續且動態的，對生成模型而言是一項重大的挑戰。儘管離散量化方法（例如 VQ-VAE）佔據主導地位，但它們卻有固有的限制，包括表達力受限和逐幀雜訊偽影。連續方法雖然產生了更平滑、更自然的動作，但由於高維複雜性和有限的訓練資料，常常會失敗。為了解決離散和連續表示之間的「不協調」，我們引入了 DisCoRD：透過整流流解碼將離散動作代碼解碼為連續動作，這是一種透過整流流將離散動作代碼解碼為連續動作的新方法。透過在連續空間中採用迭代優化程序，DisCoRD 捕捉了細微的動態，並確保了更平滑、更自然的動作。我們的這種方法與任何基於離散的方法相容，它增強了自然度，同時不影響對條件訊號的忠實度。廣泛的評估證明，DisCoRD 達到了最先進的效能，在 HumanML3D 上的 FID 為 0.032，在 KIT-ML 上為 0.169。這些結果穩固了 DisCoRD 作為在離散效率和連續真實感之間搭起橋樑的強大解決方案。我們的專案頁面可於下列網址取得：https://whwjdqls.github.io/discord.github.io/。
+摘要：人類動作本質上是連續且動態的，對生成模型來說是一個重大的挑戰。儘管離散量化方法（例如 VQ-VAE）佔據主導地位，但它們存在固有的限制，包括表現力受限和逐幀噪聲偽影。連續方法雖然能產生更平滑、更自然的動作，但由於高維複雜性和訓練數據有限，往往會失敗。為了解決離散和連續表示之間的「不協調」，我們引入了 DisCoRD：通過修正流解碼將離散動作符號解碼為連續動作，這是一種透過修正流將離散動作符號解碼為連續動作的新方法。通過在連續空間中採用迭代細化過程，DisCoRD 能捕捉細微的動態，並確保動作更平滑、更自然。我們的這種方法與任何基於離散的方法相容，能在不損害對條件信號的忠實度的同時增強自然性。廣泛的評估表明，DisCoRD 達到了最先進的性能，在 HumanML3D 上的 FID 為 0.032，在 KIT-ML 上的 FID 為 0.169。這些結果鞏固了 DisCoRD 作為連接離散效率和連續真實性之間鴻溝的強大解決方案。我們的專案頁面可在以下網址取得：https://whwjdqls.github.io/discord.github.io/。
 
 ##### **RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks**
 2411.19517v1 by Tae-Hoon Lee, Min-Soo Kim

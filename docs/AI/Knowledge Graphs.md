@@ -19,7 +19,7 @@
 |**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922v1](http://arxiv.org/abs/2411.14922v1)|null|
 |**2024-11-22**|**VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**|Camilo Chacón Sartori et.al.|[2411.14832v1](http://arxiv.org/abs/2411.14832v1)|null|
 |**2024-11-22**|**MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**|Jiatong Li et.al.|[2411.14721v1](http://arxiv.org/abs/2411.14721v1)|null|
-|**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592v1](http://arxiv.org/abs/2411.14592v1)|[link](https://github.com/RadeenXALNW/G-RAG_1.0)|
+|**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592v2](http://arxiv.org/abs/2411.14592v2)|[link](https://github.com/RadeenXALNW/G-RAG_1.0)|
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258v1](http://arxiv.org/abs/2411.14258v1)|null|
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012v1](http://arxiv.org/abs/2411.14012v1)|null|
 |**2024-11-21**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773v1](http://arxiv.org/abs/2411.13773v1)|null|
@@ -547,7 +547,7 @@ translation task, but also contributes to a more explainable framework.
 摘要：分子發現是一個關鍵的研究領域，從我們服用的藥物到我們使用的材料，影響著一切。最近，大型語言模型 (LLM) 已廣泛應用於分子理解和生成中，但分子及其對應標題之間的對齊仍然是一項重大挑戰。先前的努力通常將分子視為一般的 SMILES 字符串或分子圖，忽略了分子子結構和描述性文本短語之間的細粒度對齊，這對於準確且可解釋的預測至關重要。在這種情況下，我們引入了 MolReFlect，這是一個新穎的師生框架，旨在以細粒度的方式對分子標題對齊進行上下文執行。我們的做法最初利用一個更大的教師 LLM 來標記詳細對齊，方法是直接從分子標題或 SMILES 字符串中提取關鍵短語，並將它們暗示為對應的子結構或特徵。為了優化這些對齊，我們提出了上下文選擇性反射，它將以前的提取結果作為上下文範例，供教師 LLM 進行反射，並讓一個較小的學生 LLM 從上下文反射和以前的提取結果中進行選擇。最後，我們通過思想鏈上下文分子調整增強了學生 LLM 的學習過程，將細粒度對齊和推理過程整合到思想鏈格式中。我們的實驗結果表明，MolReFlect 使像 Mistral-7B 這樣的 LLM 能夠顯著優於先前的基準，在 ChEBI-20 數據集上實現了 SOTA 性能。這一進步不僅增強了 LLM 在分子標題翻譯任務中的生成能力，而且還有助於建立一個更具可解釋性的框架。
 
 ##### **G-RAG: Knowledge Expansion in Material Science**
-2411.14592v1 by Radeen Mostafa, Mirza Nihal Baig, Mashaekh Tausif Ehsan, Jakir Hasan
+2411.14592v2 by Radeen Mostafa, Mirza Nihal Baig, Mashaekh Tausif Ehsan, Jakir Hasan
 
 In the field of Material Science, effective information retrieval systems are
 essential for facilitating research. Traditional Retrieval-Augmented Generation
@@ -565,7 +565,7 @@ entities, improving both retrieval accuracy and contextual understanding. This
 enhanced approach demonstrates significant improvements in performance for
 domains that require precise information retrieval, such as Material Science.
 
-摘要：在材料科學領域中，有效的資訊檢索系統對於促進研究至關重要。大型語言模型 (LLM) 中的傳統檢索增強生成 (RAG) 方法經常會遇到諸如資訊過時、幻覺、由於脈絡限制而導致的可解釋性有限以及檢索不準確等挑戰。為了解決這些問題，Graph RAG 整合圖形資料庫以增強檢索過程。我們提出的方法透過從句子中萃取關鍵實體（稱為 MatID）來處理材料科學文件，然後利用這些實體查詢外部的維基百科知識庫 (KB) 以取得其他相關資訊。我們實作了一種基於代理的解析技術，以達成更詳細的文件表示。我們改良的 Graph RAG 版本稱為 G-RAG，進一步利用圖形資料庫來擷取這些實體之間的關係，進而改善檢索準確度和脈絡理解。此增強的方法對於需要精確資訊檢索的領域（例如材料科學）展現出顯著的效能提升。
+摘要：在材料科學領域，有效的資訊檢索系統對於促進研究至關重要。大型語言模型 (LLM) 中的傳統檢索增強生成 (RAG) 方法通常會遇到挑戰，例如過時的資訊、幻覺、由於上下文限制而導致的可解釋性有限，以及檢索不準確。為了解決這些問題，Graph RAG 整合了圖形資料庫以增強檢索過程。我們提出的方法透過從句子中萃取關鍵實體 (稱為 MatID) 來處理材料科學文件，然後利用這些實體查詢外部的維基百科知識庫 (KB) 以取得其他相關資訊。我們實作了一種基於代理的解析技術，以達成更詳細的文件表示。我們改良版本的 Graph RAG，稱為 G-RAG，進一步利用圖形資料庫來擷取這些實體之間的關係，進而改善檢索準確度和脈絡理解。這種增強的方法在需要精確資訊檢索的領域（例如材料科學）中，展現了顯著的效能提升。
 
 ##### **Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**
 2411.14258v1 by Ernests Lavrinovics, Russa Biswas, Johannes Bjerva, Katja Hose

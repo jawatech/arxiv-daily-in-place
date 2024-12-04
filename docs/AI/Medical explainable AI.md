@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-30**|**2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**|Jim Solomon et.al.|[2412.00372v1](http://arxiv.org/abs/2412.00372v1)|null|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
 |**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|null|
 |**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
@@ -101,9 +102,31 @@
 |**2023-11-21**|**Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**|Robert Gorwa et.al.|[2311.12573v3](http://arxiv.org/abs/2311.12573v3)|null|
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932v1](http://arxiv.org/abs/2311.11932v1)|null|
 |**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
-|**2023-11-03**|**Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**|Emma A. M. Stanley et.al.|[2311.02115v2](http://arxiv.org/abs/2311.02115v2)|[link](https://github.com/estanley16/simba)|
 
 #### Abstracts
+##### **2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**
+2412.00372v1 by Jim Solomon, Laleh Jalilian, Alexander Vilesov, Meryl Mathew, Tristan Grogan, Arash Bedayat, Achuta Kadambi
+
+Human-machine teaming in medical AI requires us to understand to what degree
+a trained clinician should weigh AI predictions. While previous work has shown
+the potential of AI assistance at improving clinical predictions, existing
+clinical decision support systems either provide no explainability of their
+predictions or use techniques like saliency and Shapley values, which do not
+allow for physician-based verification. To address this gap, this study
+compares previously used explainable AI techniques with a newly proposed
+technique termed '2-factor retrieval (2FR)', which is a combination of
+interface design and search retrieval that returns similarly labeled data
+without processing this data. This results in a 2-factor security blanket
+where: (a) correct images need to be retrieved by the AI; and (b) humans should
+associate the retrieved images with the current pathology under test. We find
+that when tested on chest X-ray diagnoses, 2FR leads to increases in clinician
+accuracy, with particular improvements when clinicians are radiologists and
+have low confidence in their decision. Our results highlight the importance of
+understanding how different modes of human-AI decision making may impact
+clinician accuracy in clinical decision support systems.
+
+摘要：人機協作在醫療 AI 中，需要我們理解受過訓練的臨床醫生在多大程度上應重視 AI 預測。雖然先前的研究顯示 AI 輔助在改善臨床預測方面的潛力，但現有的臨床決策支援系統，要不就沒有提供預測的可解釋性，要不就是使用像顯著性和 Shapley 值之類的技術，這些技術不允許基於醫生的驗證。為了解決這個差距，本研究將先前使用的可解釋 AI 技術與一種新提出的稱為「2 因子檢索 (2FR)」的技術進行比較，後者是一種介面設計和搜尋檢索的組合，它會傳回標籤相似的資料，而不會處理這些資料。這會產生一個 2 因子安全機制，其中：(a) 正確的影像需要由 AI 檢索；(b) 人類應將檢索的影像與正在測試中的病理聯想起來。我們發現，當在胸部 X 光診斷上進行測試時，2FR 會提高臨床醫生的準確度，特別是在臨床醫生是放射科醫生且對其決策信心不足時，會有顯著的改善。我們的結果強調了理解人機決策的不同模式如何影響臨床醫生在臨床決策支援系統中的準確性的重要性。
+
 ##### **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**
 2411.19356v1 by Philipp Brauner, Felix Glawe, Gian Luca Liehner, Luisa Vervier, Martina Ziefle
 
@@ -2684,34 +2707,4 @@ emphasize the potential of using multimodal foundational models to deliver
 intuitive, language-based explanations of visual tasks.
 
 摘要：<paragraph>解釋性是深度學習中長期的挑戰，特別是在醫療保健等高風險領域。常見的解釋性方法會強調驅動 AI 模型決策的影像區域。然而，人類很大程度依賴語言來傳達不僅是「在哪裡」，還有「是什麼」的解釋。此外，大多數解釋性方法都專注於解釋個別 AI 預測，而不是描述 AI 模型一般使用的特徵。後者對於模型和資料集稽核特別有用，甚至可能在 AI 愈來愈用於新穎任務時產生知識。在此，我們提出一個使用視覺語言模型來辨識視覺分類任務的語言描述符的解釋性策略。透過利用影像和文字之間預先訓練的聯合嵌入空間，我們的做法將新的分類任務估計為一個線性文字組合，導致每個文字都有權重，表示它與基於視覺的分類器對齊。我們使用兩個醫學影像分類任務來評估我們的做法，我們發現產生的描述符在很大程度上與臨床知識一致，儘管缺乏特定領域的語言訓練。然而，我們的做法也發現了所用公開資料集中的「捷徑連線」的可能性。為了達到解釋性的功能性衡量，我們進行了一項試驗讀者研究，發現 AI 識別的文字能讓非專家人類在非平凡的層級執行專業的醫療任務。總之，我們的結果強調了使用多模式基礎模型來提供直觀的、基於語言的視覺任務解釋的潛力。</paragraph>
-
-##### **Towards objective and systematic evaluation of bias in artificial intelligence for medical imaging**
-2311.02115v2 by Emma A. M. Stanley, Raissa Souza, Anthony Winder, Vedant Gulve, Kimberly Amador, Matthias Wilms, Nils D. Forkert
-
-Artificial intelligence (AI) models trained using medical images for clinical
-tasks often exhibit bias in the form of disparities in performance between
-subgroups. Since not all sources of biases in real-world medical imaging data
-are easily identifiable, it is challenging to comprehensively assess how those
-biases are encoded in models, and how capable bias mitigation methods are at
-ameliorating performance disparities. In this article, we introduce a novel
-analysis framework for systematically and objectively investigating the impact
-of biases in medical images on AI models. We developed and tested this
-framework for conducting controlled in silico trials to assess bias in medical
-imaging AI using a tool for generating synthetic magnetic resonance images with
-known disease effects and sources of bias. The feasibility is showcased by
-using three counterfactual bias scenarios to measure the impact of simulated
-bias effects on a convolutional neural network (CNN) classifier and the
-efficacy of three bias mitigation strategies. The analysis revealed that the
-simulated biases resulted in expected subgroup performance disparities when the
-CNN was trained on the synthetic datasets. Moreover, reweighing was identified
-as the most successful bias mitigation strategy for this setup, and we
-demonstrated how explainable AI methods can aid in investigating the
-manifestation of bias in the model using this framework. Developing fair AI
-models is a considerable challenge given that many and often unknown sources of
-biases can be present in medical imaging datasets. In this work, we present a
-novel methodology to objectively study the impact of biases and mitigation
-strategies on deep learning pipelines, which can support the development of
-clinical AI that is robust and responsible.
-
-摘要：<paragraph>使用醫療影像訓練的人工智慧 (AI) 模型，用於臨床任務時，常會在效能上展現出次群體之間的差異，形成偏見。由於並非所有真實世界醫療影像資料中的偏見來源都容易辨識，因此全面評估這些偏見是如何編碼到模型中，以及偏見緩解方法在改善效能差異方面的能力，是一項挑戰。在本文中，我們介紹了一個新穎的分析架構，用於系統化且客觀地調查醫療影像中的偏見對 AI 模型的影響。我們開發並測試了這個架構，以進行受控的電腦模擬試驗，使用一個工具來評估醫療影像 AI 中的偏見，該工具用於產生具有已知疾病影響和偏見來源的合成磁共振影像。可行性透過使用三個反事實偏見情境來衡量模擬偏見效應對卷積神經網路 (CNN) 分類器和三個偏見緩解策略的影響，並展示出來。分析顯示，當 CNN 在合成資料集上受訓時，模擬偏見會導致預期的次群體效能差異。此外，重新加權被認為是此設定中最成功的偏見緩解策略，我們展示了解釋性 AI 方法如何協助使用這個架構調查模型中偏見的表現。開發公平的 AI 模型是一項重大的挑戰，因為醫療影像資料集中可能存在許多且經常未知的偏見來源。在這項工作中，我們提出了一種新穎的方法，用於客觀地研究偏見和緩解策略對深度學習管線的影響，這可以支援健全且負責任的臨床 AI 的開發。</paragraph>
 

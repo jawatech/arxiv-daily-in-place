@@ -2,9 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-04**|**Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**|Ge Zheng et.al.|[2412.03390v1](http://arxiv.org/abs/2412.03390v1)|null|
+|**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788v1](http://arxiv.org/abs/2412.02788v1)|null|
 |**2024-12-03**|**Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**|Francesco Cauteruccio et.al.|[2412.02290v1](http://arxiv.org/abs/2412.02290v1)|null|
 |**2024-12-02**|**A Neurosymbolic Fast and Slow Architecture for Graph Coloring**|Vedant Khandelwal et.al.|[2412.01752v1](http://arxiv.org/abs/2412.01752v1)|null|
-|**2024-12-02**|**Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**|Jialin Wang et.al.|[2412.01490v2](http://arxiv.org/abs/2412.01490v2)|null|
 |**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765v1](http://arxiv.org/abs/2412.00765v1)|null|
 |**2024-11-30**|**Leveraging LLM for Automated Ontology Extraction and Knowledge Graph Generation**|Mohammad Sadeq Abolhasani et.al.|[2412.00608v2](http://arxiv.org/abs/2412.00608v2)|null|
 |**2024-11-30**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573v1](http://arxiv.org/abs/2412.00573v1)|null|
@@ -101,9 +102,51 @@
 |**2024-10-30**|**FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**|Anuroop Sriram et.al.|[2410.23405v1](http://arxiv.org/abs/2410.23405v1)|[link](https://github.com/facebookresearch/flowmm)|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v2](http://arxiv.org/abs/2410.23262v2)|null|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182v1](http://arxiv.org/abs/2410.23182v1)|null|
-|**2024-10-30**|**Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**|Deperias Kerre et.al.|[2410.22996v1](http://arxiv.org/abs/2410.22996v1)|[link](https://github.com/deperiaskerre/qkg)|
 
 #### Abstracts
+##### **Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**
+2412.03390v1 by Ge Zheng, Alexandra Brintrup
+
+A key stumbling block in effective supply chain risk management for companies
+and policymakers is a lack of visibility on interdependent supply network
+relationships. Relationship prediction, also called link prediction is an
+emergent area of supply chain surveillance research that aims to increase the
+visibility of supply chains using data-driven techniques. Existing methods have
+been successful for predicting relationships but struggle to extract the
+context in which these relationships are embedded - such as the products being
+supplied or locations they are supplied from. Lack of context prevents
+practitioners from distinguishing transactional relations from established
+supply chain relations, hindering accurate estimations of risk. In this work,
+we develop a new Generative Artificial Intelligence (Gen AI) enhanced machine
+learning framework that leverages pre-trained language models as embedding
+models combined with machine learning models to predict supply chain
+relationships within knowledge graphs. By integrating Generative AI techniques,
+our approach captures the nuanced semantic relationships between entities,
+thereby improving supply chain visibility and facilitating more precise risk
+management. Using data from a real case study, we show that GenAI-enhanced link
+prediction surpasses all benchmarks, and demonstrate how GenAI models can be
+explored and effectively used in supply chain risk management.
+
+摘要：供應鏈風險管理中的一個關鍵障礙在於企業和政策制定者缺乏對相互依存供應網路關係的能見度。關係預測，也稱為連結預測，是供應鏈監控研究中一個新興領域，旨在使用資料驅動技術提高供應鏈的能見度。現有方法已成功預測關係，但難以提取這些關係所嵌入的背景，例如所供應的產品或供應地點。缺乏背景會妨礙從業者區分交易關係和既定的供應鏈關係，進而阻礙風險的準確評估。在這項工作中，我們開發了一個新的生成式人工智慧 (Gen AI) 增強機器學習架構，它利用預先訓練的語言模型作為嵌入模型，並結合機器學習模型來預測知識圖譜中的供應鏈關係。透過整合生成式 AI 技術，我們的做法捕捉到實體之間細微的語義關係，從而提高供應鏈能見度並促進更精確的風險管理。使用來自真實案例研究的資料，我們證明 GenAI 增強連結預測優於所有基準，並展示如何探索和有效地在供應鏈風險管理中使用 GenAI 模型。
+
+##### **Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**
+2412.02788v1 by Tilahun Abedissa Taffa, Debayan Baneerje, Yaregal Assabie, Ricardo Usbeck
+
+Existing Scholarly Question Answering (QA) methods typically target
+homogeneous data sources, relying solely on either text or Knowledge Graphs
+(KGs). However, scholarly information often spans heterogeneous sources,
+necessitating the development of QA systems that can integrate information from
+multiple heterogeneous data sources. To address this challenge, we introduce
+Hybrid-SQuAD (Hybrid Scholarly Question Answering Dataset), a novel large-scale
+QA dataset designed to facilitate answering questions incorporating both text
+and KG facts. The dataset consists of 10.5K question-answer pairs generated by
+a large language model, leveraging the KGs - DBLP and SemOpenAlex alongside
+corresponding text from Wikipedia. In addition, we propose a RAG-based baseline
+hybrid QA model, achieving an exact match score of 69.65 on the Hybrid-SQuAD
+test set.
+
+摘要：現有的學術問答 (QA) 方法通常針對同質資料來源，僅依賴文字或知識圖譜 (KG)。然而，學術資訊常常橫跨異質來源，這使得我們必須開發能夠整合來自多個異質資料來源的資訊的 QA 系統。為了應對此挑戰，我們引入了 Hybrid-SQuAD（混合學術問答資料集），這是一個新穎的大型 QA 資料集，旨在促進回答包含文字和 KG 事實的提問。此資料集包含 10.5K 個問題解答對，這些對是由一個大型語言模型產生的，並利用了 KG（DBLP 和 SemOpenAlex）以及來自維基百科的對應文字。此外，我們提出了一個基於 RAG 的基準混合 QA 模型，在 Hybrid-SQuAD 測試集中達到了 69.65 的完全匹配分數。
+
 ##### **Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**
 2412.02290v1 by Francesco Cauteruccio, Enrico Corradini, Luca Virgili
 
@@ -155,36 +198,6 @@ empirical results, we show that SOFAI-v2 for graph coloring problems achieves a
 16.98% increased success rate and is 32.42% faster than symbolic solvers.
 
 摘要：約束滿足問題 (CSP) 因為其複雜的約束和對精確解的必要性，對人工智慧提出了重大的挑戰。現有的符號求解器通常很慢，而先前的研究表明，大型語言模型 (LLM) 因為其複雜性而無法單獨處理 CSP。為了彌補這個差距，我們建立在現有的 SOFAI 架構（或 SOFAI-v1）之上，它將 Daniel Kahneman 的「快思慢想」認知模型調整為 AI。我們增強的架構 SOFAI-v2 整合了精緻的元認知治理機制，以提高跨複雜領域的適應性，特別是針對解決圖形著色等 CSP 而量身打造。SOFAI-v2 結合了基於 LLM 的快速系統 1 (S1) 和由元認知模組管控的審慎系統 2 (S2)。S1 的初始解法通常受到不遵守約束的限制，透過元認知治理得以增強，提供有針對性的回饋和範例，以適應 S1 的 CSP 需求。如果 S1 無法解決問題，元認知會策略性地呼叫 S2，確保準確且可靠的解法。透過經驗結果，我們展示了用於圖形著色問題的 SOFAI-v2 達到了成功率提高 16.98%，並且比符號求解器快 32.42%。
-
-##### **Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**
-2412.01490v2 by Jialin Wang, Zhihua Duan
-
-Apache Spark is better suited for load data mining and machine learning that
-require a lot of iteration by using memory-distributed data sets. Due to the
-complexity of Spark, the high learning threshold of Scala, and the low
-reusability of its code, this paper designs and implements a Spark-based visual
-process AI+machine learning method under a big data environment. On the one
-hand, it designs component models to describe the basic steps of machine
-learning, including data preprocessing, feature processing, and model training.
-Practice and validate evaluation. On the other hand, a visual process modeling
-tool is provided to support analysts to design machine learning processes,
-which can be translated automatically into Spark platform code for efficient
-execution. This tool can greatly improve the AI machine learning efficiency of
-the Spark platform. This paper introduces the method theory, key technologies,
-and effectiveness of the tool.
-  This paper explores the application of Spark in the field of large model
-agents. Langchain, as an open-source framework, is committed to simplifying the
-development of end-to-end applications based on language models. It provides
-interfaces for interacting with a variety of large language models, optimizing
-prompt engineering, and endowing large models with the ability to invoke
-external tools. LangGraph demonstrates its powerful state management and graph
-construction capabilities by defining node functions and graphs to build
-complex agent applications. The development of Spark agent applications based
-on LangGraph has further promoted the development of AI applications in the big
-data analysis environment .
-
-摘要：Apache Spark 更適合載入資料探勘和機器學習，需要使用記憶體分佈式資料集進行大量反覆運算。由於 Spark 的複雜性、Scala 的高學習門檻和其程式碼的低重複使用性，本文在巨量資料環境下設計並實作了基於 Spark 的視覺流程 AI + 機器學習方法。一方面，它設計元件模型來描述機器學習的基本步驟，包括資料前處理、特徵處理和模型訓練。實踐並驗證評估。另一方面，提供視覺流程建模工具來支援分析師設計機器學習流程，該流程可以自動轉換為 Spark 平台程式碼以進行有效率的執行。此工具可以大幅提升 Spark 平台的 AI 機器學習效率。本文介紹該工具的方法論、關鍵技術和有效性。
-本文探討 Spark 在大型模型代理領域的應用。Langchain 作為一個開源框架，致力於簡化基於語言模型的端對端應用程式開發。它提供與各種大型語言模型互動的介面，最佳化提示工程，並賦予大型模型呼叫外部工具的能力。LangGraph 透過定義節點函式和圖形來建立複雜的代理應用程式，展示其強大的狀態管理和圖形建構能力。基於 LangGraph 的 Spark 代理應用程式開發進一步促进了 AI 應用程式在巨量資料分析環境中的發展。
 
 ##### **SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**
 2412.00765v1 by Aihua Pei, Zehua Yang, Shunan Zhu, Ruoxi Cheng, Ju Jia
@@ -2556,32 +2569,4 @@ language domain, ProTransformer also demonstrates outstanding robustness in
 both vision and graph domains.
 
 摘要：<paragraph>近年來，基於 Transformer 的架構主導了機器學習的各個領域。在本文中，我們介紹了一種新穎且強大的注意力機制，旨在增強基於 Transformer 的架構的韌性。至關重要的是，此技術可以作為即插即用的層整合到現有的 Transformer 中，在無需額外訓練或微調的情況下提高其穩健性。通過全面的實驗和消融研究，我們證明了我們的 ProTransformer 在各種預測任務、攻擊機制、主幹架構和數據領域中顯著增強了 Transformer 模型的穩健性。值得注意的是，在不進一步微調的情況下，ProTransformer 在經典的 TextFooler 攻擊下，分別為 BERT、ALBERT、DistilBERT 和 RoBERTa 提升了 19.5%、28.3%、16.1% 和 11.4% 的性能。此外，ProTransformer 在基於提示的攻擊中對大型語言模型 (LLM) 顯示出有希望的韌性，分別將 T5 和 LLaMA 的性能提升了 24.8% 和 17.8%，並在越獄攻擊中將 Vicuna 的性能平均提升了 10.4%。除了語言領域之外，ProTransformer 在視覺和圖形領域也表現出出色的穩健性。</paragraph>
-
-##### **Semantic Enrichment of the Quantum Cascade Laser Properties in Text- A Knowledge Graph Generation Approach**
-2410.22996v1 by Deperias Kerre, Anne Laurent, Kenneth Maussang, Dickson Owuor
-
-A well structured collection of the various Quantum Cascade Laser (QCL)
-design and working properties data provides a platform to analyze and
-understand the relationships between these properties. By analyzing these
-relationships, we can gain insights into how different design features impact
-laser performance properties such as the working temperature. Most of these QCL
-properties are captured in scientific text. There is therefore need for
-efficient methodologies that can be utilized to extract QCL properties from
-text and generate a semantically enriched and interlinked platform where the
-properties can be analyzed to uncover hidden relations. There is also the need
-to maintain provenance and reference information on which these properties are
-based. Semantic Web technologies such as Ontologies and Knowledge Graphs have
-proven capability in providing interlinked data platforms for knowledge
-representation in various domains. In this paper, we propose an approach for
-generating a QCL properties Knowledge Graph (KG) from text for semantic
-enrichment of the properties. The approach is based on the QCL ontology and a
-Retrieval Augmented Generation (RAG) enabled information extraction pipeline
-based on GPT 4-Turbo language model. The properties of interest include:
-working temperature, laser design type, lasing frequency, laser optical power
-and the heterostructure. The experimental results demonstrate the feasibility
-and effectiveness of this approach for efficiently extracting QCL properties
-from unstructured text and generating a QCL properties Knowledge Graph, which
-has potential applications in semantic enrichment and analysis of QCL data.
-
-摘要：一個結構良好的各種量子層疊雷射 (QCL) 設計和工作特性數據集合，提供了一個平台來分析和理解這些特性之間的關係。透過分析這些關係，我們可以深入了解不同的設計特徵如何影響雷射效能特性，例如工作溫度。這些 QCL 特性大多數都捕捉在科學文字中。因此，需要有效的方法，可以用於從文字中萃取 QCL 特性，並產生一個語義豐富且相互連結的平台，可以在其中分析這些特性以發現隱藏的關係。還需要維護這些特性所依據的來源和參考資訊。語義網路技術，例如本体和知識圖譜，已證明它們在提供各種領域中知識表徵的相互連結資料平台方面具有能力。在本文中，我們提出一個從文字中產生 QCL 特性知識圖譜 (KG) 的方法，以進行特性的語義豐富化。此方法基於 QCL 本体和基於 GPT 4-Turbo 語言模型的檢索擴增生成 (RAG) 啟用資訊萃取管線。感興趣的特性包括：工作溫度、雷射設計類型、雷射頻率、雷射光功率和異質結構。實驗結果證明了此方法對於從非結構化文字中有效萃取 QCL 特性和產生 QCL 特性知識圖譜的可行性和有效性，這在 QCL 數據的語義豐富化和分析中具有潛在應用。
 

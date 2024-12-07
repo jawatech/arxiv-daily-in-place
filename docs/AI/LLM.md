@@ -62,7 +62,7 @@
 |**2024-12-05**|**ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**|Xiao-Yu Guo et.al.|[2412.04069v1](http://arxiv.org/abs/2412.04069v1)|null|
 |**2024-12-05**|**Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning**|Amnon Bleich et.al.|[2412.04067v1](http://arxiv.org/abs/2412.04067v1)|null|
 |**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064v1](http://arxiv.org/abs/2412.04064v1)|null|
-|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062v1](http://arxiv.org/abs/2412.04062v1)|null|
+|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062v1](http://arxiv.org/abs/2412.04062v1)|[link](https://github.com/ThisisBillhe/ZipAR)|
 |**2024-12-05**|**Expanding Deep Learning-based Sensing Systems with Multi-Source Knowledge Transfer**|Gaole Dai et.al.|[2412.04060v1](http://arxiv.org/abs/2412.04060v1)|null|
 |**2024-12-05**|**From Code to Play: Benchmarking Program Search for Games Using Large Language Models**|Manuel Eberhardinger et.al.|[2412.04057v1](http://arxiv.org/abs/2412.04057v1)|null|
 |**2024-12-05**|**Hostility Detection in UK Politics: A Dataset on Online Abuse Targeting MPs**|Mugdha Pandya et.al.|[2412.04046v1](http://arxiv.org/abs/2412.04046v1)|null|

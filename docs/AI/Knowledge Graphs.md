@@ -2,9 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|[link](https://github.com/krystalan/RAGtrans)|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
-|**2024-12-05**|**MIND: Effective Incorrect Assignment Detection through a Multi-Modal Structure-Enhanced Language Model**|Yunhe Pang et.al.|[2412.03930v1](http://arxiv.org/abs/2412.03930v1)|null|
+|**2024-12-05**|**MIND: Effective Incorrect Assignment Detection through a Multi-Modal Structure-Enhanced Language Model**|Yunhe Pang et.al.|[2412.03930v1](http://arxiv.org/abs/2412.03930v1)|[link](https://github.com/thudm/whoiswho)|
 |**2024-12-05**|**How Good is ChatGPT in Giving Adaptive Guidance Using Knowledge Graphs in E-Learning Environments?**|Patrick Ocheja et.al.|[2412.03856v1](http://arxiv.org/abs/2412.03856v1)|null|
 |**2024-12-05**|**Synergizing LLMs and Knowledge Graphs: A Novel Approach to Software Repository-Related Question Answering**|Samuel Abedu et.al.|[2412.03815v1](http://arxiv.org/abs/2412.03815v1)|null|
 |**2024-12-05**|**Agent AI with LangGraph: A Modular Framework for Enhancing Machine Translation Using Large Language Models**|Jialin Wang et.al.|[2412.03801v1](http://arxiv.org/abs/2412.03801v1)|null|

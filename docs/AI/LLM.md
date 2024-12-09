@@ -12,7 +12,7 @@
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445v1](http://arxiv.org/abs/2412.04445v1)|null|
 |**2024-12-05**|**CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing**|Yen-Ju Lu et.al.|[2412.04425v1](http://arxiv.org/abs/2412.04425v1)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424v1](http://arxiv.org/abs/2412.04424v1)|[link](https://github.com/jiuhaichen/florence-vl)|
-|**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416v1](http://arxiv.org/abs/2412.04416v1)|null|
+|**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416v1](http://arxiv.org/abs/2412.04416v1)|[link](https://github.com/Pranabiitp/FedDUAL)|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415v1](http://arxiv.org/abs/2412.04415v1)|null|
 |**2024-12-05**|**Establishing Task Scaling Laws via Compute-Efficient Model Ladders**|Akshita Bhagia et.al.|[2412.04403v1](http://arxiv.org/abs/2412.04403v1)|null|
 |**2024-12-05**|**Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2412.04384v1](http://arxiv.org/abs/2412.04384v1)|[link](https://github.com/huang-yh/gaussianformer)|
@@ -20,7 +20,7 @@
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367v1](http://arxiv.org/abs/2412.04367v1)|null|
 |**2024-12-05**|**BhashaVerse : Translation Ecosystem for Indian Subcontinent Languages**|Vandan Mujadia et.al.|[2412.04351v1](http://arxiv.org/abs/2412.04351v1)|null|
 |**2024-12-05**|**RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse**|Zhouyingcheng Liao et.al.|[2412.04343v1](http://arxiv.org/abs/2412.04343v1)|null|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|[link](https://github.com/krystalan/RAGtrans)|
 |**2024-12-05**|**Action Mapping for Reinforcement Learning in Continuous Environments with Constraints**|Mirco Theile et.al.|[2412.04327v1](http://arxiv.org/abs/2412.04327v1)|null|
 |**2024-12-05**|**The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation**|Fredrik Carlsson et.al.|[2412.04318v1](http://arxiv.org/abs/2412.04318v1)|null|
 |**2024-12-05**|**Densing Law of LLMs**|Chaojun Xiao et.al.|[2412.04315v1](http://arxiv.org/abs/2412.04315v1)|null|
@@ -34,7 +34,7 @@
 |**2024-12-05**|**Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier**|John Dang et.al.|[2412.04261v1](http://arxiv.org/abs/2412.04261v1)|null|
 |**2024-12-05**|**Enhancing Whole Slide Image Classification through Supervised Contrastive Domain Adaptation**|Ilán Carretero et.al.|[2412.04260v1](http://arxiv.org/abs/2412.04260v1)|null|
 |**2024-12-05**|**CLINICSUM: Utilizing Language Models for Generating Clinical Summaries from Patient-Doctor Conversations**|Subash Neupane et.al.|[2412.04254v1](http://arxiv.org/abs/2412.04254v1)|null|
-|**2024-12-05**|**A History of Philosophy in Colombia through Topic Modelling**|Juan R. Loaiza et.al.|[2412.04236v1](http://arxiv.org/abs/2412.04236v1)|null|
+|**2024-12-05**|**A History of Philosophy in Colombia through Topic Modelling**|Juan R. Loaiza et.al.|[2412.04236v1](http://arxiv.org/abs/2412.04236v1)|[link](https://github.com/juanrloaiza/latinamerican-philosophy-mining)|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235v1](http://arxiv.org/abs/2412.04235v1)|null|
 |**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234v1](http://arxiv.org/abs/2412.04234v1)|[link](https://github.com/shihuahuang95/deim)|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220v1](http://arxiv.org/abs/2412.04220v1)|null|
@@ -57,7 +57,7 @@
 |**2024-12-05**|**Practical Considerations for Agentic LLM Systems**|Chris Sypherd et.al.|[2412.04093v1](http://arxiv.org/abs/2412.04093v1)|null|
 |**2024-12-05**|**GEITje 7B Ultra: A Conversational Model for Dutch**|Bram Vanroy et.al.|[2412.04092v1](http://arxiv.org/abs/2412.04092v1)|null|
 |**2024-12-05**|**BodyMetric: Evaluating the Realism of HumanBodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086v1](http://arxiv.org/abs/2412.04086v1)|null|
-|**2024-12-05**|**Federated Learning in Mobile Networks: A Comprehensive Case Study on Traffic Forecasting**|Nikolaos Pavlidis et.al.|[2412.04081v1](http://arxiv.org/abs/2412.04081v1)|null|
+|**2024-12-05**|**Federated Learning in Mobile Networks: A Comprehensive Case Study on Traffic Forecasting**|Nikolaos Pavlidis et.al.|[2412.04081v1](http://arxiv.org/abs/2412.04081v1)|[link](https://github.com/vperifan/federated-time-series-forecasting)|
 |**2024-12-05**|**Does your model understand genes? A benchmark of gene properties for biological and text models**|Yoav Kan-Tor et.al.|[2412.04075v1](http://arxiv.org/abs/2412.04075v1)|[link](https://github.com/biomedsciai/gene-benchmark)|
 |**2024-12-05**|**ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**|Xiao-Yu Guo et.al.|[2412.04069v1](http://arxiv.org/abs/2412.04069v1)|null|
 |**2024-12-05**|**Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning**|Amnon Bleich et.al.|[2412.04067v1](http://arxiv.org/abs/2412.04067v1)|null|
@@ -68,7 +68,7 @@
 |**2024-12-05**|**Hostility Detection in UK Politics: A Dataset on Online Abuse Targeting MPs**|Mugdha Pandya et.al.|[2412.04046v1](http://arxiv.org/abs/2412.04046v1)|null|
 |**2024-12-05**|**INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations**|Yongming Zhu et.al.|[2412.04037v1](http://arxiv.org/abs/2412.04037v1)|null|
 |**2024-12-05**|**SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions**|Bufang Yang et.al.|[2412.04036v1](http://arxiv.org/abs/2412.04036v1)|null|
-|**2024-12-05**|**M$^{3}$D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026v1](http://arxiv.org/abs/2412.04026v1)|null|
+|**2024-12-05**|**M$^{3}$D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026v1](http://arxiv.org/abs/2412.04026v1)|[link](https://github.com/solkx/m3d)|
 |**2024-12-05**|**Exploring the Influence of Label Aggregation on Minority Voices: Implications for Dataset Bias and Model Training**|Mugdha Pandya et.al.|[2412.04025v1](http://arxiv.org/abs/2412.04025v1)|null|
 |**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008v1](http://arxiv.org/abs/2412.04008v1)|null|
 |**2024-12-05**|**Marco-LLM: Bridging Languages via Massive Multilingual Training for Cross-Lingual Enhancement**|Lingfeng Ming et.al.|[2412.04003v1](http://arxiv.org/abs/2412.04003v1)|null|
@@ -80,7 +80,7 @@
 |**2024-12-05**|**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization**|Tianyu Chen et.al.|[2412.03941v1](http://arxiv.org/abs/2412.03941v1)|null|
 |**2024-12-05**|**InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models**|Yifan Lu et.al.|[2412.03934v1](http://arxiv.org/abs/2412.03934v1)|null|
 |**2024-12-05**|**Exploring AI Text Generation, Retrieval-Augmented Generation, and Detection Technologies: a Comprehensive Overview**|Fnu Neha et.al.|[2412.03933v1](http://arxiv.org/abs/2412.03933v1)|null|
-|**2024-12-05**|**MIND: Effective Incorrect Assignment Detection through a Multi-Modal Structure-Enhanced Language Model**|Yunhe Pang et.al.|[2412.03930v1](http://arxiv.org/abs/2412.03930v1)|null|
+|**2024-12-05**|**MIND: Effective Incorrect Assignment Detection through a Multi-Modal Structure-Enhanced Language Model**|Yunhe Pang et.al.|[2412.03930v1](http://arxiv.org/abs/2412.03930v1)|[link](https://github.com/thudm/whoiswho)|
 |**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928v1](http://arxiv.org/abs/2412.03928v1)|null|
 |**2024-12-05**|**A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios**|Xiachong Feng et.al.|[2412.03920v1](http://arxiv.org/abs/2412.03920v1)|null|
 |**2024-12-05**|**Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair**|Qiong Feng et.al.|[2412.03905v1](http://arxiv.org/abs/2412.03905v1)|[link](https://github.com/xyzboom/devlore)|

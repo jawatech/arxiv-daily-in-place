@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
+|**2024-12-06**|**HyperGraphOS: A Meta Operating System for Science and Engineering**|Antonello Ceravola et.al.|[2412.04923v1](http://arxiv.org/abs/2412.04923v1)|null|
+|**2024-12-06**|**Transformers Struggle to Learn to Search**|Abulhair Saparov et.al.|[2412.04703v1](http://arxiv.org/abs/2412.04703v1)|null|
+|**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690v1](http://arxiv.org/abs/2412.04690v1)|null|
 |**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|[link](https://github.com/krystalan/RAGtrans)|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
 |**2024-12-05**|**MIND: Effective Incorrect Assignment Detection through a Multi-Modal Structure-Enhanced Language Model**|Yunhe Pang et.al.|[2412.03930v1](http://arxiv.org/abs/2412.03930v1)|[link](https://github.com/thudm/whoiswho)|
@@ -15,9 +19,10 @@
 |**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788v2](http://arxiv.org/abs/2412.02788v2)|[link](https://github.com/semantic-systems/hybrid-squad)|
 |**2024-12-03**|**Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**|Francesco Cauteruccio et.al.|[2412.02290v1](http://arxiv.org/abs/2412.02290v1)|null|
 |**2024-12-02**|**A Neurosymbolic Fast and Slow Architecture for Graph Coloring**|Vedant Khandelwal et.al.|[2412.01752v1](http://arxiv.org/abs/2412.01752v1)|null|
+|**2024-12-02**|**Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**|Jialin Wang et.al.|[2412.01490v4](http://arxiv.org/abs/2412.01490v4)|null|
 |**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765v1](http://arxiv.org/abs/2412.00765v1)|null|
 |**2024-11-30**|**Leveraging LLM for Automated Ontology Extraction and Knowledge Graph Generation**|Mohammad Sadeq Abolhasani et.al.|[2412.00608v2](http://arxiv.org/abs/2412.00608v2)|null|
-|**2024-11-30**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573v1](http://arxiv.org/abs/2412.00573v1)|null|
+|**2024-11-30**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573v2](http://arxiv.org/abs/2412.00573v2)|null|
 |**2024-11-30**|**Node Importance Estimation Leveraging LLMs for Semantic Augmentation in Knowledge Graphs**|Xinyu Lin et.al.|[2412.00478v1](http://arxiv.org/abs/2412.00478v1)|[link](https://github.com/xinyulin-fz/lenie)|
 |**2024-11-29**|**An AI-Driven Data Mesh Architecture Enhancing Decision-Making in Infrastructure Construction and Public Procurement**|Saurabh Mishra et.al.|[2412.00224v1](http://arxiv.org/abs/2412.00224v1)|null|
 |**2024-11-29**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774v1](http://arxiv.org/abs/2411.19774v1)|null|
@@ -97,13 +102,108 @@
 |**2024-11-03**|**Graph-based Confidence Calibration for Large Language Models**|Yukun Li et.al.|[2411.02454v1](http://arxiv.org/abs/2411.02454v1)|null|
 |**2024-11-03**|**Ontology Population using LLMs**|Sanaz Saki Norouzi et.al.|[2411.01612v1](http://arxiv.org/abs/2411.01612v1)|null|
 |**2024-11-03**|**Pre-trained Molecular Language Models with Random Functional Group Masking**|Tianhao Peng et.al.|[2411.01401v1](http://arxiv.org/abs/2411.01401v1)|null|
-|**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435v1](http://arxiv.org/abs/2411.02435v1)|null|
-|**2024-11-01**|**WLPlan: Relational Features for Symbolic Planning**|Dillon Z. Chen et.al.|[2411.00577v1](http://arxiv.org/abs/2411.00577v1)|null|
-|**2024-11-01**|**GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**|Anish Pahilajani et.al.|[2411.00369v3](http://arxiv.org/abs/2411.00369v3)|null|
-|**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523v1](http://arxiv.org/abs/2411.02523v1)|null|
-|**2024-10-31**|**Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**|Beyazit Yalcinkaya et.al.|[2411.00205v1](http://arxiv.org/abs/2411.00205v1)|null|
 
 #### Abstracts
+##### **KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**
+2412.04948v1 by Peng Yu, Cheng Deng, Beiya Dai, Xinbing Wang, Ying Wen
+
+Autoregressive large language models (LLMs) pre-trained by next token
+prediction are inherently proficient in generative tasks. However, their
+performance on knowledge-driven tasks such as factual knowledge querying
+remains unsatisfactory. Knowledge graphs (KGs), as high-quality structured
+knowledge bases, can provide reliable knowledge for LLMs, potentially
+compensating for their knowledge deficiencies. Aligning LLMs with explicit,
+structured knowledge from KGs has been a challenge; previous attempts either
+failed to effectively align knowledge representations or compromised the
+generative capabilities of LLMs, leading to less-than-optimal outcomes. This
+paper proposes \textbf{KaLM}, a \textit{Knowledge-aligned Language Modeling}
+approach, which fine-tunes autoregressive LLMs to align with KG knowledge via
+the joint objective of explicit knowledge alignment and implicit knowledge
+alignment. The explicit knowledge alignment objective aims to directly optimize
+the knowledge representation of LLMs through dual-view knowledge graph
+contrastive learning. The implicit knowledge alignment objective focuses on
+incorporating textual patterns of knowledge into LLMs through triple completion
+language modeling. Notably, our method achieves a significant performance boost
+in evaluations of knowledge-driven tasks, specifically embedding-based
+knowledge graph completion and generation-based knowledge graph question
+answering.
+
+摘要：<paragraph>自動回歸大型語言模型 (LLM) 經由下一個符號預測預先訓練，本質上擅長生成式任務。然而，它們在知識驅動任務（例如事實知識查詢）上的表現仍不盡人意。知識圖譜 (KG) 作為高品質的結構化知識庫，可以為 LLM 提供可靠的知識，潛在地彌補其知識不足。將 LLM 與來自 KG 的明確結構化知識對齊一直是一項挑戰；先前的嘗試要么無法有效對齊知識表示，要么損害 LLM 的生成能力，導致結果不盡理想。本文提出了一個**KaLM**，一種**知識對齊語言建模**方法，它微調自動回歸 LLM 以透過明確知識對齊和隱式知識對齊的聯合目標與 KG 知識對齊。明確知識對齊目標旨在透過雙視圖知識圖譜對比學習直接最佳化 LLM 的知識表示。隱式知識對齊目標專注於透過三元組完成語言建模將知識的文字模式納入 LLM。值得注意的是，我們的模型在知識驅動任務的評估中獲得顯著的效能提升，特別是基於嵌入的知識圖譜完成和基於生成的知識圖譜問題解答。</paragraph>
+
+##### **HyperGraphOS: A Meta Operating System for Science and Engineering**
+2412.04923v1 by Antonello Ceravola, Frank Joublin, Ahmed R. Sadik, Bram Bolder, Juha-Pekka Tolvanen
+
+This paper presents HyperGraphOS, an innovative Operating System designed for
+the scientific and engineering domains. It combines model based engineering,
+graph modeling, data containers, and computational tools, offering users a
+dynamic workspace for creating and managing complex models represented as
+customizable graphs. Using a web based architecture, HyperGraphOS requires only
+a modern browser to organize knowledge, documents, and content into
+interconnected models. Domain Specific Languages drive workspace navigation,
+code generation, AI integration, and process organization.The platform models
+function as both visual drawings and data structures, enabling dynamic
+modifications and inspection, both interactively and programmatically.
+HyperGraphOS was evaluated across various domains, including virtual avatars,
+robotic task planning using Large Language Models, and meta modeling for
+feature based code development. Results show significant improvements in
+flexibility, data management, computation, and document handling.
+
+摘要：本文提出 HyperGraphOS，這是一個創新的作業系統，專為科學和工程領域設計。它結合了基於模型的工程、圖形建模、資料容器和計算工具，為使用者提供一個動態工作空間，用於建立和管理表示為可自訂圖形的複雜模型。HyperGraphOS 使用基於 Web 的架構，只需要一個現代瀏覽器即可將知識、文件和內容組織成互連模型。特定領域語言驅動工作空間導覽、程式碼產生、AI 整合和流程組織。平台模型同時作為視覺繪圖和資料結構，支援動態修改和檢查，無論是互動式還是以程式方式進行。HyperGraphOS 已在各種領域中進行評估，包括虛擬化身、使用大型語言模型的機器人任務規劃，以及用於基於特徵的程式碼開發的元建模。結果顯示出靈活性、資料管理、運算和文件處理方面的顯著改進。
+
+##### **Transformers Struggle to Learn to Search**
+2412.04703v1 by Abulhair Saparov, Srushti Pawar, Shreyas Pimpalgaonkar, Nitish Joshi, Richard Yuanzhe Pang, Vishakh Padmakumar, Seyed Mehran Kazemi, Najoung Kim, He He
+
+Search is an ability foundational in many important tasks, and recent studies
+have shown that large language models (LLMs) struggle to perform search
+robustly. It is unknown whether this inability is due to a lack of data,
+insufficient model parameters, or fundamental limitations of the transformer
+architecture. In this work, we use the foundational graph connectivity problem
+as a testbed to generate effectively limitless high-coverage data to train
+small transformers and test whether they can learn to perform search. We find
+that, when given the right training distribution, the transformer is able to
+learn to search.
+  We analyze the algorithm that the transformer has learned through a novel
+mechanistic interpretability technique that enables us to extract the
+computation graph from the trained model. We find that for each vertex in the
+input graph, transformers compute the set of vertices reachable from that
+vertex. Each layer then progressively expands these sets, allowing the model to
+search over a number of vertices exponential in the number of layers.
+  However, we find that as the input graph size increases, the transformer has
+greater difficulty in learning the task. This difficulty is not resolved even
+as the number of parameters is increased, suggesting that increasing model
+scale will not lead to robust search abilities. We also find that performing
+search in-context (i.e., chain-of-thought) does not resolve this inability to
+learn to search on larger graphs.
+
+摘要：搜尋是許多重要任務中的一項基礎能力，最近的研究表明，大型語言模型 (LLM) 難以穩健地執行搜尋。目前尚不清楚這種無能是源於資料不足、模型參數不足，還是 Transformer 架構的基本限制。在這項工作中，我們使用基礎圖形連通性問題作為測試平台，生成有效無限的高覆蓋率資料，以訓練小型 Transformer 並測試它們是否能學會執行搜尋。我們發現，當給予正確的訓練分佈時，Transformer 能夠學會搜尋。
+我們透過一種新穎的機制可解釋性技術分析 Transformer 學到的演算法，這讓我們能夠從訓練好的模型中提取運算圖形。我們發現，對於輸入圖形中的每個頂點，Transformer 會計算從該頂點可到達的頂點集合。然後，每一層都會逐步擴充這些集合，讓模型能夠在與層數呈指數關係的頂點數目上進行搜尋。
+然而，我們發現，隨著輸入圖形大小的增加，Transformer 在學習任務時會遇到更大的困難。即使增加參數數量，這種困難也不會得到解決，這表明增加模型規模不會帶來穩健的搜尋能力。我們還發現，在上下文中執行搜尋（即思考鏈）無法解決這種無法學習在較大圖形上搜尋的問題。
+
+##### **LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**
+2412.04690v1 by Xuan Chen, Tong Lu, Zhichun Wang
+
+Entity Alignment (EA) seeks to identify and match corresponding entities
+across different Knowledge Graphs (KGs), playing a crucial role in knowledge
+fusion and integration. Embedding-based entity alignment (EA) has recently
+gained considerable attention, resulting in the emergence of many innovative
+approaches. Initially, these approaches concentrated on learning entity
+embeddings based on the structural features of knowledge graphs (KGs) as
+defined by relation triples. Subsequent methods have integrated entities' names
+and attributes as supplementary information to improve the embeddings used for
+EA. However, existing methods lack a deep semantic understanding of entity
+attributes and relations. In this paper, we propose a Large Language Model
+(LLM) based Entity Alignment method, LLM-Align, which explores the
+instruction-following and zero-shot capabilities of Large Language Models to
+infer alignments of entities. LLM-Align uses heuristic methods to select
+important attributes and relations of entities, and then feeds the selected
+triples of entities to an LLM to infer the alignment results. To guarantee the
+quality of alignment results, we design a multi-round voting mechanism to
+mitigate the hallucination and positional bias issues that occur with LLMs.
+Experiments on three EA datasets, demonstrating that our approach achieves
+state-of-the-art performance compared to existing EA methods.
+
+摘要：實體對齊 (EA) 旨在識別和匹配不同知識圖譜 (KG) 中對應的實體，在知識融合和整合中扮演著至關重要的角色。基於嵌入的實體對齊 (EA) 近來備受關注，進而催生出許多創新的方法。最初，這些方法專注於根據知識圖譜 (KG) 的結構特徵來學習實體嵌入，這些特徵由關係三元組定義。後續方法將實體名稱和屬性整合為補充資訊，以改善用於 EA 的嵌入。然而，現有方法缺乏對實體屬性和關係的深入語義理解。在本文中，我們提出了一種基於大型語言模型 (LLM) 的實體對齊方法 LLM-Align，該方法探索了大型語言模型的遵循指令和零次學習能力，以推論實體對齊。LLM-Align 使用啟發式方法來選擇實體的重要屬性和關係，然後將實體的選定三元組饋入 LLM 以推論對齊結果。為了保證對齊結果的品質，我們設計了一個多輪投票機制，以減輕 LLM 中出現的幻覺和位置偏差問題。在三個 EA 資料集上的實驗表明，與現有的 EA 方法相比，我們的做法達到了最先進的效能。
+
 ##### **Retrieval-Augmented Machine Translation with Unstructured Knowledge**
 2412.04342v1 by Jiaan Wang, Fandong Meng, Yingxue Zhang, Jie Zhou
 
@@ -430,6 +530,37 @@ empirical results, we show that SOFAI-v2 for graph coloring problems achieves a
 
 摘要：約束滿足問題 (CSP) 因為其複雜的約束和對精確解的必要性，對人工智慧提出了重大的挑戰。現有的符號求解器通常很慢，而先前的研究表明，大型語言模型 (LLM) 因為其複雜性而無法單獨處理 CSP。為了彌補這個差距，我們建立在現有的 SOFAI 架構（或 SOFAI-v1）之上，它將 Daniel Kahneman 的「快思慢想」認知模型調整為 AI。我們增強的架構 SOFAI-v2 整合了精緻的元認知治理機制，以提高跨複雜領域的適應性，特別是針對解決圖形著色等 CSP 而量身打造。SOFAI-v2 結合了基於 LLM 的快速系統 1 (S1) 和由元認知模組管控的審慎系統 2 (S2)。S1 的初始解法通常受到不遵守約束的限制，透過元認知治理得以增強，提供有針對性的回饋和範例，以適應 S1 的 CSP 需求。如果 S1 無法解決問題，元認知會策略性地呼叫 S2，確保準確且可靠的解法。透過經驗結果，我們展示了用於圖形著色問題的 SOFAI-v2 達到了成功率提高 16.98%，並且比符號求解器快 32.42%。
 
+##### **Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**
+2412.01490v4 by Jialin Wang, Zhihua Duan
+
+This paper presents a Spark-based modular LangGraph framework, designed to
+enhance machine learning workflows through scalability, visualization, and
+intelligent process optimization. At its core, the framework introduces Agent
+AI, a pivotal innovation that leverages Spark's distributed computing
+capabilities and integrates with LangGraph for workflow orchestration.
+  Agent AI facilitates the automation of data preprocessing, feature
+engineering, and model evaluation while dynamically interacting with data
+through Spark SQL and DataFrame agents. Through LangGraph's graph-structured
+workflows, the agents execute complex tasks, adapt to new inputs, and provide
+real-time feedback, ensuring seamless decision-making and execution in
+distributed environments. This system simplifies machine learning processes by
+allowing users to visually design workflows, which are then converted into
+Spark-compatible code for high-performance execution.
+  The framework also incorporates large language models through the LangChain
+ecosystem, enhancing interaction with unstructured data and enabling advanced
+data analysis. Experimental evaluations demonstrate significant improvements in
+process efficiency and scalability, as well as accurate data-driven
+decision-making in diverse application scenarios.
+  This paper emphasizes the integration of Spark with intelligent agents and
+graph-based workflows to redefine the development and execution of machine
+learning tasks in big data environments, paving the way for scalable and
+user-friendly AI solutions.
+
+摘要：<paragraph>本文提出了一個基於 Spark 的模組化 LangGraph 框架，旨在透過可擴充性、可視化和智慧流程最佳化來提升機器學習工作流程。在核心部分，此框架引入了 Agent AI，這項關鍵創新利用了 Spark 的分散式運算能力，並與 LangGraph 整合以進行工作流程編排。
+  Agent AI 促進了資料前處理、特徵工程和模型評估的自動化，同時透過 Spark SQL 和 DataFrame 代理與資料動態互動。透過 LangGraph 的圖形結構工作流程，這些代理執行複雜的任務、適應新的輸入，並提供即時回饋，確保在分散式環境中進行無縫決策制定和執行。此系統透過允許使用者視覺化設計工作流程（其後轉換為相容於 Spark 的程式碼以進行高性能執行）來簡化機器學習流程。
+  此框架也透過 LangChain 生態系整合了大型語言模型，增強了與非結構化資料的互動，並啟用了進階資料分析。實驗評估顯示，流程效率和可擴充性有顯著改善，而且在不同的應用情境中進行了精確的資料驅動決策制定。
+  本文強調了 Spark 與智慧代理和基於圖形的工作流程的整合，以重新定義大資料環境中機器學習任務的開發和執行，為可擴充且使用者友善的 AI 解决方案鋪路。</paragraph>
+
 ##### **SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**
 2412.00765v1 by Aihua Pei, Zehua Yang, Shunan Zhu, Ruoxi Cheng, Ju Jia
 
@@ -481,7 +612,7 @@ enhanced capabilities for developing domain-specific intelligent applications.
 摘要：從可靠度和可維護性 (RAM) 領域中大量複雜的技術文件萃取相關且結構化的知識，是一項勞力密集且容易出錯的任務。我們的研究透過提供 OntoKGen 來解決這個挑戰，這是一個真正的本体萃取和知識圖譜 (KG) 生成管線。OntoKGen 透過一個互動式使用者介面，利用大型語言模型 (LLM) 並由我們自適應的迭代思考鏈 (CoT) 演算法引導，以確保本体萃取過程，以及隨之而來的 KG 生成，符合使用者特定的需求。雖然 KG 生成遵循一個明確的結構化路徑，基於已確認的本体，但並沒有一個普遍正確的本体，因為它本質上是基於使用者的偏好。OntoKGen 建議一個基於最佳實務的本体，將使用者的工作量降到最低，並提供有價值的見解，這些見解可能是被忽略的，同時讓使用者完全控制最終的本体。在基於已確認的本体產生 KG 之後，OntoKGen 能夠無縫整合到無模式、非關聯式資料庫，例如 Neo4j。這個整合允許從各種非結構化來源靈活地儲存和檢索知識，促進進階查詢、分析和決策制定。此外，生成的 KG 可作為未來整合到檢索增強生成 (RAG) 系統的穩固基礎，提供開發特定領域智慧型應用程式的增強功能。
 
 ##### **Opus: A Large Work Model for Complex Workflow Generation**
-2412.00573v1 by Théo Fagnoni, Bellinda Mesbah, Mahsun Altin, Phillip Kingston
+2412.00573v2 by Théo Fagnoni, Bellinda Mesbah, Mahsun Altin, Phillip Kingston
 
 This paper introduces Opus, a novel framework for generating and optimizing
 Workflows tailored to complex Business Process Outsourcing (BPO) use cases,
@@ -499,15 +630,15 @@ phase, Workflows are transformed into Workflow Graphs (WFGs), where optimal
 Workflows are determined through path optimization. Our experiments demonstrate
 that state-of-the-art Large Language Models (LLMs) face challenges in reliably
 retrieving detailed process data as well as generating industry-compliant
-workflows. The key contributions of this paper include: - The integration of a
-Work Knowledge Graph (WKG) into a Large Work Model (LWM), enabling the
-generation of context-aware, semantically aligned, structured and auditable
-Workflows. - A two-phase approach that combines Workflow Generation from
-Intention with graph-based Workflow Optimization. - Opus Alpha 1 Large and Opus
-Alpha 1 Small, models that outperform state-of-the-art LLMs by 38\% and 29\%
-respectively in Workflow Generation for a Medical Coding use case.
+workflows. The key contributions of this paper include integrating a Work
+Knowledge Graph (WKG) into a Large Work Model (LWM) to enable the generation of
+context-aware, semantically aligned, structured and auditable Workflows. It
+further introduces a two-phase approach that combines Workflow Generation from
+Intention with graph-based Workflow Optimization. Finally, we present Opus
+Alpha 1 Large and Opus Alpha 1 Small that outperform state-of-the-art LLMs by
+38% and 29% respectively in Workflow Generation for a Medical Coding use case.
 
-摘要：<paragraph>這篇論文介紹了 Opus，一個用於產生和最佳化工作流程的新穎架構，專為複雜的業務流程外包 (BPO) 使用案例而設計，專注於在遵守既定的產業流程和營運限制的情況下，降低成本並提升品質。我們的做法是根據意圖產生可執行的工作流程，定義為客戶輸入、客戶輸出和流程背景的一致性。這些工作流程表示為有向無環圖 (DAG)，其中節點為任務，包含可執行指令的順序，包括工具和人類專家審查。我們採用兩階段方法：工作流程產生和工作流程最佳化。在產生階段，工作流程使用大型工作模型 (LWM) 產生，該模型由編碼特定領域程序和運作知識的工作知識圖 (WKG) 提供資訊。在最佳化階段，工作流程轉換為工作流程圖 (WFG)，其中最佳工作流程透過路徑最佳化來確定。我們的實驗證明，最先進的大語言模型 (LLM) 在可靠地擷取詳細的流程資料以及產生符合產業規範的工作流程方面面臨挑戰。本文的主要貢獻包括：- 將工作知識圖 (WKG) 整合到大型工作模型 (LWM) 中，讓產生有脈絡感知、語意對齊、結構化且可稽核的工作流程成為可能。- 一種結合意圖工作流程產生與基於圖形的工作流程最佳化的兩階段方法。- Opus Alpha 1 大型和 Opus Alpha 1 小型，在醫療編碼使用案例中，其工作流程產生表現分別優於最先進的 LLM 38% 和 29%。</paragraph>
+摘要：這篇論文介紹了 Opus，一個用於產生和最佳化工作流程的新穎架構，專為複雜的業務流程外包 (BPO) 使用案例量身打造，重點在於降低成本和提升品質，同時遵守既定的產業流程和營運限制。我們的做法根據意圖產生可執行的工作流程，意圖定義為客戶輸入、客戶輸出和流程背景的對齊。這些工作流程表示為有向無環圖 (DAG)，節點為包含可執行指令序列的任務，包括工具和人類專家的審查。我們採用兩階段方法：工作流程產生和工作流程最佳化。在產生階段，工作流程使用大型工作模型 (LWM) 產生，該模型由編碼特定領域程序和運作知識的工作知識圖 (WKG) 提供資訊。在最佳化階段，工作流程轉換為工作流程圖 (WFG)，其中通過路徑最佳化來確定最佳工作流程。我們的實驗表明，最先進的大型語言模型 (LLM) 在可靠地擷取詳細的流程資料以及產生符合產業規範的工作流程方面面臨挑戰。這篇論文的主要貢獻包括將工作知識圖 (WKG) 整合到大型工作模型 (LWM) 中，以產生具備情境感知、語義對齊、結構化和可稽核的工作流程。它進一步介紹了一種兩階段方法，將基於意圖的工作流程產生與基於圖形的工作流程最佳化相結合。最後，我們展示了 Opus Alpha 1 Large 和 Opus Alpha 1 Small，它們在醫療編碼使用案例中分別比最先進的 LLM 在工作流程產生方面高出 38% 和 29%。
 
 ##### **Node Importance Estimation Leveraging LLMs for Semantic Augmentation in Knowledge Graphs**
 2412.00478v1 by Xinyu Lin, Tianyu Zhang, Chengbin Hou, Jinbao Wang, Jianye Xue, Hairong Lv
@@ -2450,114 +2581,4 @@ outperforms existing pre-training models, either based on SMILES or graphs, in
 ones.
 
 摘要：<paragraph>計算化學的近期進展已利用轉換器語言模型的力量，例如 MoLFormer，使用大量簡化分子輸入線條輸入系統 (SMILES) 序列進行預訓練，以了解和預測分子特性和活性，這是藥物發現和材料科學等領域的重要步驟。為了進一步提升效能，研究人員引入了具有圖形為基礎的分子表示的圖形神經網路，例如 GEM，將分子的拓樸、幾何、2D 甚至 3D 結構納入預訓練中。雖然現有研究中的大多數分子圖形都是從 SMILES 序列自動轉換而來的，但可以假設基於轉換器的語言模型可能能夠從 SMILES 序列中隱式學習結構感知表示。在本文中，我們提出 \ours{} -- 一個基於 SMILES 的\underline{\em M}olecular\underline{\em L}anguage \underline{\em M}odel，它隨機遮蔽對應於特定分子\underline{\em F}unctional\underline{\em G}roups 的 SMILES 子序列，以在預訓練階段納入原子的結構資訊。此技術旨在強制模型更好地推斷分子結構和特性，從而增強其預測能力。在化學領域的 11 個基準分類和回歸任務中進行的廣泛實驗評估證明了 \ours{} 的穩健性和優越性。我們的研究結果顯示，\ours{} 在 11 個下游任務中的 9 個任務中優於現有的預訓練模型（基於 SMILES 或圖形），在剩下的任務中排名第二。</paragraph>
-
-##### **Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**
-2411.02435v1 by Xinyi Leng, Jason Liang, Jack Mauro, Xu Wang, Andrea L. Bertozzi, James Chapman, Junyuan Lin, Bohan Chen, Chenchen Ye, Temple Daniel, P. Jeffrey Brantingham
-
-Narrative data spans all disciplines and provides a coherent model of the
-world to the reader or viewer. Recent advancement in machine learning and Large
-Language Models (LLMs) have enable great strides in analyzing natural language.
-However, Large language models (LLMs) still struggle with complex narrative
-arcs as well as narratives containing conflicting information. Recent work
-indicates LLMs augmented with external knowledge bases can improve the accuracy
-and interpretability of the resulting models. In this work, we analyze the
-effectiveness of applying knowledge graphs (KGs) in understanding true-crime
-podcast data from both classical Natural Language Processing (NLP) and LLM
-approaches. We directly compare KG-augmented LLMs (KGLLMs) with classical
-methods for KG construction, topic modeling, and sentiment analysis.
-Additionally, the KGLLM allows us to query the knowledge base in natural
-language and test its ability to factually answer questions. We examine the
-robustness of the model to adversarial prompting in order to test the model's
-ability to deal with conflicting information. Finally, we apply classical
-methods to understand more subtle aspects of the text such as the use of
-hearsay and sentiment in narrative construction and propose future directions.
-Our results indicate that KGLLMs outperform LLMs on a variety of metrics, are
-more robust to adversarial prompts, and are more capable of summarizing the
-text into topics.
-
-摘要：敘事資料涵蓋所有學科，並為讀者或觀眾提供一個連貫的世界模型。機器學習和大型語言模型 (LLM) 的最新進展在分析自然語言方面取得了長足的進步。然而，大型語言模型 (LLM) 仍然難以應付複雜的敘事弧線以及包含相互矛盾資訊的敘事。最近的研究表明，使用外部知識庫增強的 LLM 可以提高所產生模型的準確性和可解釋性。在這項工作中，我們分析了在從傳統自然語言處理 (NLP) 和 LLM 方法中理解真實犯罪播客資料時，應用知識圖譜 (KG) 的有效性。我們直接比較了 KG 增強的 LLM (KGLLM) 與用於 KG 建構、主題建模和情緒分析的傳統方法。此外，KGLLM 允許我們以自然語言查詢知識庫，並測試其事實回答問題的能力。我們檢查了模型對對抗性提示的穩健性，以測試模型處理相互矛盾資訊的能力。最後，我們應用傳統方法來理解文本的更細微方面，例如在敘事建構中使用道聽途說和情緒，並提出未來的方向。我們的結果表明，KGLLM 在各種指標上優於 LLM，對對抗提示更穩健，並且更能夠將文本總結為主題。
-
-##### **WLPlan: Relational Features for Symbolic Planning**
-2411.00577v1 by Dillon Z. Chen
-
-Scalable learning for planning research generally involves juggling between
-different programming languages for handling learning and planning modules
-effectively. Interpreted languages such as Python are commonly used for
-learning routines due to their ease of use and the abundance of highly
-maintained learning libraries they exhibit, while compiled languages such as
-C++ are used for planning routines due to their optimised resource usage.
-Motivated by the need for tools for developing scalable learning planners, we
-introduce WLPlan, a C++ package with Python bindings which implements recent
-promising work for automatically generating relational features of planning
-tasks. Such features can be used for any downstream routine, such as learning
-domain control knowledge or probing and understanding planning tasks. More
-specifically, WLPlan provides functionality for (1) transforming planning tasks
-into graphs, and (2) embedding planning graphs into feature vectors via graph
-kernels. The source code and instructions for the installation and usage of
-WLPlan are available at tinyurl.com/42kymswc
-
-摘要：可擴充的學習規劃研究通常需要在不同的程式語言之間切換，才能有效地處理學習和規劃模組。例如 Python 等直譯語言通常用於學習常式，因為它們易於使用，且有許多維護完善的學習函式庫；而例如 C++ 等編譯語言則用於規劃常式，因為它們能最佳化資源使用。由於需要開發可擴充學習規劃器的工具，我們引進了 WLPlan，這是一個具有 Python 繫結的 C++ 套件，實作了近期有前途的自動產生規劃任務關係特徵的工作。此類特徵可用於任何下游常式，例如學習領域控制知識或探測和理解規劃任務。更具體地說，WLPlan 提供了以下功能：(1) 將規劃任務轉換為圖形，以及 (2) 透過圖形核將規劃圖形嵌入特徵向量。WLPlan 的原始碼和安裝及使用說明可在 tinyurl.com/42kymswc 取得
-
-##### **GRS-QA -- Graph Reasoning-Structured Question Answering Dataset**
-2411.00369v3 by Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang
-
-Large Language Models (LLMs) have excelled in multi-hop question-answering
-(M-QA) due to their advanced reasoning abilities. However, the impact of the
-inherent reasoning structures on LLM M-QA performance remains unclear, largely
-due to the absence of QA datasets that provide fine-grained reasoning
-structures. To address this gap, we introduce the Graph Reasoning-Structured
-Question Answering Dataset (GRS-QA), which includes both semantic contexts and
-reasoning structures for QA pairs. Unlike existing M-QA datasets, where
-different reasoning structures are entangled together, GRS-QA explicitly
-captures intricate reasoning pathways by constructing reasoning graphs, where
-nodes represent textual contexts and edges denote logical flows. These
-reasoning graphs of different structures enable a fine-grained evaluation of
-LLM reasoning capabilities across various reasoning structures. Our empirical
-analysis reveals that LLMs perform differently when handling questions with
-varying reasoning structures. This finding facilitates the exploration of
-textual structures as compared with semantics.
-
-摘要：大型語言模型 (LLM) 由於其先進的推理能力，在多跳問答 (M-QA) 中表現出色。然而，固有推理結構對 LLM M-QA 效能的影響仍不清楚，這主要是由於缺乏提供細粒度推理結構的 QA 資料集。為了解決這個差距，我們引入了圖形推理結構化問答資料集 (GRS-QA)，其中包含語義脈絡和 QA 對應的推理結構。與現有的 M-QA 資料集不同，其中不同的推理結構糾纏在一起，GRS-QA 透過建構推理圖形明確捕捉複雜的推理路徑，其中節點表示文字脈絡，邊緣表示邏輯流程。這些不同結構的推理圖形能夠細緻地評估 LLM 在各種推理結構中的推理能力。我們的實證分析顯示，LLM 在處理具有不同推理結構的問題時表現不同。這個發現促進了對文字結構與語義的比較探索。
-
-##### **Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**
-2411.02523v1 by Balu Bhasuran, Qiao Jin, Yuzhang Xie, Carl Yang, Karim Hanna, Jennifer Costa, Cindy Shavor, Zhiyong Lu, Zhe He
-
-Differential diagnosis is crucial for medicine as it helps healthcare
-providers systematically distinguish between conditions that share similar
-symptoms. This study assesses the impact of lab test results on differential
-diagnoses (DDx) made by large language models (LLMs). Clinical vignettes from
-50 case reports from PubMed Central were created incorporating patient
-demographics, symptoms, and lab results. Five LLMs GPT-4, GPT-3.5, Llama-2-70b,
-Claude-2, and Mixtral-8x7B were tested to generate Top 10, Top 5, and Top 1 DDx
-with and without lab data. A comprehensive evaluation involving GPT-4, a
-knowledge graph, and clinicians was conducted. GPT-4 performed best, achieving
-55% accuracy for Top 1 diagnoses and 60% for Top 10 with lab data, with lenient
-accuracy up to 80%. Lab results significantly improved accuracy, with GPT-4 and
-Mixtral excelling, though exact match rates were low. Lab tests, including
-liver function, metabolic/toxicology panels, and serology/immune tests, were
-generally interpreted correctly by LLMs for differential diagnosis.
-
-摘要：鑑別診斷對於醫學至關重要，因為它有助於醫療保健提供者系統區分具有相似症狀的疾病。這項研究評估了實驗室檢驗結果對大型語言模型 (LLM) 做出的鑑別診斷 (DDx) 的影響。從 PubMed Central 的 50 份病例報告中建立了臨床簡報，其中包含患者人口統計、症狀和實驗室結果。測試了五個 LLM GPT-4、GPT-3.5、Llama-2-70b、Claude-2 和 Mixtral-8x7B，以生成帶和不帶實驗室數據的前 10、前 5 和前 1 DDx。進行了一項涉及 GPT-4、知識圖譜和臨床醫生的綜合評估。GPT-4 表現最佳，在有實驗室數據的情況下，前 1 名診斷的準確率達到 55%，前 10 名的準確率達到 60%，寬鬆準確率高達 80%。實驗室結果顯著提高了準確率，GPT-4 和 Mixtral 表現出色，儘管完全匹配率較低。LLM 通常可以正確解釋包括肝功能、代謝/毒理學檢查和血清學/免疫測試在內的實驗室檢驗，以進行鑑別診斷。
-
-##### **Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**
-2411.00205v1 by Beyazit Yalcinkaya, Niklas Lauffer, Marcell Vazquez-Chanlatte, Sanjit A. Seshia
-
-Goal-conditioned reinforcement learning is a powerful way to control an AI
-agent's behavior at runtime. That said, popular goal representations, e.g.,
-target states or natural language, are either limited to Markovian tasks or
-rely on ambiguous task semantics. We propose representing temporal goals using
-compositions of deterministic finite automata (cDFAs) and use cDFAs to guide RL
-agents. cDFAs balance the need for formal temporal semantics with ease of
-interpretation: if one can understand a flow chart, one can understand a cDFA.
-On the other hand, cDFAs form a countably infinite concept class with Boolean
-semantics, and subtle changes to the automaton can result in very different
-tasks, making them difficult to condition agent behavior on. To address this,
-we observe that all paths through a DFA correspond to a series of reach-avoid
-tasks and propose pre-training graph neural network embeddings on "reach-avoid
-derived" DFAs. Through empirical evaluation, we demonstrate that the proposed
-pre-training method enables zero-shot generalization to various cDFA task
-classes and accelerated policy specialization without the myopic suboptimality
-of hierarchical methods.
-
-摘要：目標條件強化學習是一種在執行階段控制 AI 代理行為的強大方法。話雖如此，熱門的目標表示，例如目標狀態或自然語言，僅限於馬可夫任務或依賴於含糊不清的任務語義。我們建議使用確定性有限狀態自動機 (cDFA) 的組合來表示時間目標，並使用 cDFA 來指導 RL 代理。cDFA 平衡了對形式時間語義的需求與易於解釋之間的關係：如果一個人能理解流程圖，那麼他就能理解 cDFA。另一方面，cDFA 形成了一個具有布林語義的可數無限概念類，而對自動機的細微更改可能會導致非常不同的任務，這使得它們難以對代理行為進行條件化。為了解決這個問題，我們觀察到通過 DFA 的所有路徑都對應於一系列到達避免任務，並提出對「到達避免衍生」DFA 進行預訓練圖神經網路嵌入。通過經驗評估，我們證明了所提出的預訓練方法能夠對各種 cDFA 任務類別進行零次學習泛化，並加速策略專業化，而沒有分層方法的近視次優性。
 

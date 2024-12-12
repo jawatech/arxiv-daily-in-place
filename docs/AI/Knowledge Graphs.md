@@ -2,12 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
+|**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|null|
+|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
+|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v1](http://arxiv.org/abs/2412.08038v1)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618v1](http://arxiv.org/abs/2412.07618v1)|[link](https://github.com/futureeeeee/dynamic-rag)|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|
 |**2024-12-10**|**RAG-based Question Answering over Heterogeneous Data and Text**|Philipp Christmann et.al.|[2412.07420v1](http://arxiv.org/abs/2412.07420v1)|null|
 |**2024-12-10**|**Generating Knowledge Graphs from Large Language Models: A Comparative Study of GPT-4, LLaMA 2, and BERT**|Ahan Bhatt et.al.|[2412.07412v1](http://arxiv.org/abs/2412.07412v1)|null|
 |**2024-12-10**|**My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis**|Jian Liao et.al.|[2412.07367v1](http://arxiv.org/abs/2412.07367v1)|null|
-|**2024-12-09**|**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**|Jieyu Zhang et.al.|[2412.07012v1](http://arxiv.org/abs/2412.07012v1)|[link](https://github.com/jieyuz2/provision)|
+|**2024-12-09**|**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**|Jieyu Zhang et.al.|[2412.07012v2](http://arxiv.org/abs/2412.07012v2)|[link](https://github.com/jieyuz2/provision)|
 |**2024-12-09**|**A Self-guided Multimodal Approach to Enhancing Graph Representation Learning for Alzheimer's Diseases**|Zhepeng Wang et.al.|[2412.06212v1](http://arxiv.org/abs/2412.06212v1)|null|
 |**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868v1](http://arxiv.org/abs/2412.05868v1)|null|
 |**2024-12-08**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838v1](http://arxiv.org/abs/2412.05838v1)|null|
@@ -98,12 +102,122 @@
 |**2024-11-10**|**CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction**|Shuqi Li et.al.|[2411.06391v1](http://arxiv.org/abs/2411.06391v1)|null|
 |**2024-11-09**|**Analyzing the Evolution of Graphs and Texts**|Xingzhi Guo et.al.|[2411.06295v1](http://arxiv.org/abs/2411.06295v1)|null|
 |**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048v1](http://arxiv.org/abs/2411.06048v1)|[link](https://github.com/fatemehshiri/spatial-mm)|
-|**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936v1](http://arxiv.org/abs/2411.05936v1)|null|
-|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521v2](http://arxiv.org/abs/2411.05521v2)|[link](https://github.com/jf87/sm3-text-to-query)|
-|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479v1](http://arxiv.org/abs/2411.05479v1)|[link](https://github.com/jumbo110/eurekha)|
-|**2024-11-08**|**When are 1.58 bits enough? A Bottom-up Exploration of BitNet Quantization**|Jacob Nielsen et.al.|[2411.05882v1](http://arxiv.org/abs/2411.05882v1)|null|
 
 #### Abstracts
+##### **From communities to interpretable network and word embedding: an unified approach**
+2412.08187v1 by Thibault Prouteau, Nicolas Dugué, Simon Guillot
+
+Modelling information from complex systems such as humans social interaction
+or words co-occurrences in our languages can help to understand how these
+systems are organized and function. Such systems can be modelled by networks,
+and network theory provides a useful set of methods to analyze them. Among
+these methods, graph embedding is a powerful tool to summarize the interactions
+and topology of a network in a vectorized feature space. When used in input of
+machine learning algorithms, embedding vectors help with common graph problems
+such as link prediction, graph matching, etc. Word embedding has the goal of
+representing the sense of words, extracting it from large text corpora. Despite
+differences in the structure of information in input of embedding algorithms,
+many graph embedding approaches are adapted and inspired from methods in NLP.
+Limits of these methods are observed in both domains. Most of these methods
+require long and resource greedy training. Another downside to most methods is
+that they are black-box, from which understanding how the information is
+structured is rather complex. Interpretability of a model allows understanding
+how the vector space is structured without the need for external information,
+and thus can be audited more easily. With both these limitations in mind, we
+propose a novel framework to efficiently embed network vertices in an
+interpretable vector space. Our Lower Dimension Bipartite Framework (LDBGF)
+leverages the bipartite projection of a network using cliques to reduce
+dimensionality. Along with LDBGF, we introduce two implementations of this
+framework that rely on communities instead of cliques: SINr-NR and SINr-MF. We
+show that SINr-MF can perform well on classical graphs and SINr-NR can produce
+high-quality graph and word embeddings that are interpretable and stable across
+runs.
+
+摘要：<paragraph>透過模擬人類社交互動或語言中詞彙共現等複雜系統中的資訊，有助於了解這些系統的組織和運作方式。這些系統可以用網路來建模，而網路理論提供了有用的方法集來分析它們。在這些方法中，圖形嵌入是一種強大的工具，可用於在向量化特徵空間中總結網路的交互和拓撲。當用於機器學習演算法的輸入時，嵌入向量有助於常見的圖形問題，例如連結預測、圖形配對等。詞嵌入的目標是表示詞彙的意義，從大型文字語料庫中萃取它。儘管嵌入演算法輸入資訊的結構不同，但許多圖形嵌入方法都是根據自然語言處理中的方法改編和啟發的。在兩個領域中都觀察到這些方法的限制。大多數這些方法需要漫長且耗費資源的訓練。大多數方法的另一個缺點是它們是黑盒子，從中理解資訊如何被結構化相當複雜。模型的可解釋性允許在不需要外部資訊的情況下了解向量空間是如何被結構化的，因此可以更容易地進行稽核。牢記這兩個限制，我們提出了一個新穎的框架，以有效的方式將網路頂點嵌入可解釋的向量空間中。我們的低維二部圖框架 (LDBGF) 利用網路的二部圖投影使用派系來降低維度。除了 LDBGF 之外，我們還介紹了兩個依賴社群而非派系的此框架實作：SINr-NR 和 SINr-MF。我們展示了 SINr-MF 在經典圖形上可以執行良好，而 SINr-NR 可以產生高品質的圖形和詞嵌入，這些嵌入在各次執行中都是可解釋且穩定的。</paragraph>
+
+##### **Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**
+2412.08174v1 by Zihao Li, Lecheng Zheng, Bowen Jin, Dongqi Fu, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han
+
+While great success has been achieved in building vision models with
+Contrastive Language-Image Pre-training (CLIP) over Internet-scale image-text
+pairs, building transferable Graph Neural Networks (GNNs) with CLIP pipeline is
+challenging because of three fundamental issues: the scarcity of labeled data
+and text supervision, different levels of downstream tasks, and the conceptual
+gaps between domains. In this work, to address these issues, we leverage
+multi-modal prompt learning to effectively adapt pre-trained GNN to downstream
+tasks and data, given only a few semantically labeled samples, each with
+extremely weak text supervision. Our new paradigm embeds the graphs directly in
+the same space as the Large Language Models (LLMs) by learning both graph
+prompts and text prompts simultaneously. To accomplish this, we improve
+state-of-the-art graph prompt method, and then propose the first graph-language
+multi-modal prompt learning approach for exploiting the knowledge in
+pre-trained models. Notably, due to the insufficient supervision for
+fine-tuning, in our paradigm, the pre-trained GNN and the LLM are kept frozen,
+so the learnable parameters are much fewer than fine-tuning any pre-trained
+model. Through extensive experiments on real-world datasets, we demonstrate the
+superior performance of our paradigm in few-shot, multi-task-level, and
+cross-domain settings. Moreover, we build the first CLIP-style zero-shot
+classification prototype that can generalize GNNs to unseen classes with
+extremely weak text supervision.
+
+摘要：<paragraph>儘管利用網際網路規模的圖像文字配對，在建立具有對比語言影像預訓練 (CLIP) 的視覺模型方面已取得巨大的成功，但由於三個基本問題，使用 CLIP 管線建立可轉移的圖神經網路 (GNN) 具有挑戰性：標記資料和文字監督的稀缺性、不同層級的下游任務，以及領域之間的概念差距。為了解決這些問題，我們在這個工作中利用多模式提示學習，在僅給予少數語義標記範例（每個範例都具有極弱的文字監督）的情況下，有效地調整預訓練的 GNN 以適應下游任務和資料。我們的範例透過同時學習圖提示和文字提示，將圖形直接嵌入與大型語言模型 (LLM) 相同的空間中。為了達成這個目標，我們改進了最先進的圖提示方法，然後提出第一個圖語言多模式提示學習方法，以利用預訓練模型中的知識。值得注意的是，由於微調的監督不足，在我們的範例中，預訓練的 GNN 和 LLM 保持凍結，因此可學習的參數遠少於微調任何預訓練模型。透過在真實世界資料集上進行廣泛的實驗，我們展示了我們的範例在少量、多任務層級和跨領域設定中的優異效能。此外，我們建立了第一個 CLIP 風格的零次分類原型，它可以將 GNN 推廣到具有極弱文字監督的未見類別。</paragraph>
+
+##### **Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**
+2412.08068v1 by Xin-Cheng Wen, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao
+
+Software vendors often silently release security patches without providing
+sufficient advisories (e.g., Common Vulnerabilities and Exposures) or delayed
+updates via resources (e.g., National Vulnerability Database). Therefore, it
+has become crucial to detect these security patches to ensure secure software
+maintenance. However, existing methods face the following challenges: (1) They
+primarily focus on the information within the patches themselves, overlooking
+the complex dependencies in the repository. (2) Security patches typically
+involve multiple functions and files, increasing the difficulty in well
+learning the representations. To alleviate the above challenges, this paper
+proposes a Repository-level Security Patch Detection framework named RepoSPD,
+which comprises three key components: 1) a repository-level graph construction,
+RepoCPG, which represents software patches by merging pre-patch and post-patch
+source code at the repository level; 2) a structure-aware patch representation,
+which fuses the graph and sequence branch and aims at comprehending the
+relationship among multiple code changes; 3) progressive learning, which
+facilitates the model in balancing semantic and structural information. To
+evaluate RepoSPD, we employ two widely-used datasets in security patch
+detection: SPI-DB and PatchDB. We further extend these datasets to the
+repository level, incorporating a total of 20,238 and 28,781 versions of
+repository in C/C++ programming languages, respectively, denoted as SPI-DB* and
+PatchDB*. We compare RepoSPD with six existing security patch detection methods
+and five static tools. Our experimental results demonstrate that RepoSPD
+outperforms the state-of-the-art baseline, with improvements of 11.90%, and
+3.10% in terms of accuracy on the two datasets, respectively.
+
+摘要：<paragraph>軟體供應商通常會在沒有提供足夠的諮詢（例如常見漏洞和曝險）或延遲透過資源（例如國家漏洞資料庫）更新的情況下，無聲地發布安全性修補程式。因此，偵測這些安全性修補程式以確保軟體維護安全至關重要。然而，現有方法面臨以下挑戰：(1) 它們主要關注修補程式本身的資訊，忽略了儲存庫中複雜的相依性。(2) 安全性修補程式通常涉及多個函式和檔案，增加了良好學習表示形式的難度。為了緩解上述挑戰，本文提出了一個名為 RepoSPD 的儲存庫層級安全性修補程式偵測架構，它包含三個關鍵元件：1) 儲存庫層級圖形建構，RepoCPG，它透過合併儲存庫層級的前修補程式和後修補程式原始碼來表示軟體修補程式；2) 結構感知修補程式表示形式，它融合了圖形和序列分支，旨在理解多個程式碼變更之間的關係；3) 漸進式學習，它有助於模型平衡語意和結構資訊。為了評估 RepoSPD，我們在安全性修補程式偵測中採用了兩個廣泛使用的資料集：SPI-DB 和 PatchDB。我們進一步將這些資料集擴充套件到儲存庫層級，分別納入了 C/C++ 程式語言中總計 20,238 和 28,781 個版本的儲存庫，表示為 SPI-DB* 和 PatchDB*。我們將 RepoSPD 與六種現有的安全性修補程式偵測方法和五種靜態工具進行比較。我們的實驗結果表明，RepoSPD 優於最先進的基準，在兩個資料集上的準確性分別提高了 11.90% 和 3.10%。</paragraph>
+
+##### **Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**
+2412.08038v1 by Hang Gao, Chenhao Zhang, Fengge Wu, Junsuo Zhao, Changwen Zheng, Huaping Liu
+
+Graph representation learning methods are highly effective in handling
+complex non-Euclidean data by capturing intricate relationships and features
+within graph structures. However, traditional methods face challenges when
+dealing with heterogeneous graphs that contain various types of nodes and edges
+due to the diverse sources and complex nature of the data. Existing
+Heterogeneous Graph Neural Networks (HGNNs) have shown promising results but
+require prior knowledge of node and edge types and unified node feature
+formats, which limits their applicability. Recent advancements in graph
+representation learning using Large Language Models (LLMs) offer new solutions
+by integrating LLMs' data processing capabilities, enabling the alignment of
+various graph representations. Nevertheless, these methods often overlook
+heterogeneous graph data and require extensive preprocessing. To address these
+limitations, we propose a novel method that leverages the strengths of both LLM
+and GNN, allowing for the processing of graph data with any format and type of
+nodes and edges without the need for type information or special preprocessing.
+Our method employs LLM to automatically summarize and classify different data
+formats and types, aligns node features, and uses a specialized GNN for
+targeted learning, thus obtaining effective graph representations for
+downstream tasks. Theoretical analysis and experimental validation have
+demonstrated the effectiveness of our method.
+
+摘要：圖表表示學習方法在處理複雜的非歐幾里得數據方面非常有效，方法是捕捉圖形結構中的複雜關係和特徵。然而，由於數據來源多樣且性質複雜，傳統方法在處理包含各種類型節點和邊的異質圖形時面臨挑戰。現有的異質圖形神經網路 (HGNN) 已展現出有希望的成果，但需要事先了解節點和邊的類型，以及統一的節點特徵格式，這限制了其適用性。最近使用大型語言模型 (LLM) 的圖形表示學習的進展提供了新的解決方案，方法是整合 LLM 的數據處理功能，使各種圖形表示得以對齊。儘管如此，這些方法通常會忽略異質圖形數據，並且需要廣泛的預處理。為了解決這些限制，我們提出了一種新方法，它利用了 LLM 和 GNN 的優點，允許處理任何格式和類型的節點和邊的圖形數據，而不需要類型信息或特殊預處理。我們的模型採用 LLM 自動總結和分類不同的數據格式和類型，對齊節點特徵，並使用專門的 GNN 進行目標學習，從而為下游任務獲取有效的圖形表示。理論分析和實驗驗證已證明了我們方法的有效性。
+
 ##### **Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**
 2412.07618v1 by Xiaqiang Tang, Jian Li, Nan Du, Sihong Xie
 
@@ -230,7 +344,7 @@ into the PIEA process.
 摘要：在隐式情感分析 (IEA) 中，情感表达的微妙性使其对特定于用户的特征特别敏感。现有的研究通常通过关注情感文本的作者维度来将个性化注入到分析中。然而，这些方法忽略了预期读者对隐式情感反应的潜在影响。在本文中，我们将 IEA 任务细化为个性化隐式情感分析 (PIEA)，并引入 RAPPIE 模型，这是一个新颖的框架，旨在解决此任务中缺少用户信息的问题。特别是，1) 我们基于大型语言模型创建读者代理来模拟读者反应，以解决在获取读者反馈信息时遇到的沉默螺旋和数据不完整性的挑战。2) 我们建立了一个读者传播角色系统，并开发了一个角色感知情绪传播多视图图学习模型，该模型通过利用传播角色的分布有效地处理读者信息的稀疏性。3) 我们使用详细的用户元数据注释了两个中文 PIEA 数据集，从而解决了先前主要专注于文本内容注释的数据集的局限性。在这些数据集上进行的广泛实验表明，RAPPIE 模型优于当前最先进的基线，突出了将读者反馈纳入 PIEA 过程的重要性及有效性。
 
 ##### **ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**
-2412.07012v1 by Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, silvio savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu
+2412.07012v2 by Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, An Yan, Zixian Ma, Juan Carlos Niebles, silvio savarese, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu
 
 With the rise of multimodal applications, instruction data has become
 critical for training multimodal language models capable of understanding
@@ -257,7 +371,7 @@ improvement on Mantis-Eval. Incorporation of our data in both pre-training and
 fine-tuning stages of xGen-MM-4B leads to an averaged improvement of 1.6%
 across 11 benchmarks.
 
-摘要：隨著多模態應用程式興起，指示資料已成為訓練多模態語言模型的關鍵，此類模型能理解複雜的圖像式查詢。現行做法仰賴強大但昂貴的大型語言模型 (LLM) 或多模態語言模型 (MLM) 來產生指示資料。這些模型常容易出現幻覺、授權問題，且生成過程通常難以擴充和詮釋。在此研究中，我們提出一個程式化方法，採用場景圖表作為圖像的符號表徵，並使用人寫的程式系統性地綜合以視覺為中心的指示資料。我們的做法確保資料產生過程的可詮釋性和可控性，並在維持事實準確性的同時有效率地擴充。透過實作一組 24 個單一圖像、14 個多圖像指示產生器，以及場景圖表產生管道，我們建構了一個可擴充、具成本效益的系統：ProVision，它能針對任何給定的圖像產生關於物件、屬性、關係、深度等的各種問答配對。應用於 Visual Genome 和 DataComp 資料集，我們產生超過 1000 萬個指示資料點，ProVision-10M，並在 MLM 的預訓練和指示微調階段中加以利用。當採用於指示微調階段時，我們的單一圖像指示資料在 CVBench 的 2D 分割中提升了 7%，在 3D 分割中提升了 8%，在 QBench2、RealWorldQA 和 MMMU 中的效能也提升了 3%。我們的多圖像指示資料在 Mantis-Eval 中提升了 8%。將我們的資料整合到 xGen-MM-4B 的預訓練和微調階段，在 11 個基準測試中平均提升了 1.6%。
+摘要：<paragraph>隨著多模態應用程式興起，指令資料已成為訓練多模態語言模型的關鍵，該模型能夠理解基於複雜影像的查詢。現有做法依賴於強大但昂貴的大型語言模型 (LLM) 或多模態語言模型 (MLM) 來產生指令資料。這些方法經常容易出現幻覺、授權問題，且生成過程通常難以擴充和詮釋。在這項工作中，我們提出了一種程式化方法，使用場景圖形作為影像的符號表示，並使用人撰寫的程式系統性地合成以視覺為中心的指令資料。我們的做法確保了資料生成過程的可詮釋性和可控性，並在維持事實準確性的同時有效地擴充。透過實作一組 24 個單一影像、14 個多重影像指令產生器，以及一個場景圖形產生管線，我們建立了一個可擴充、具有成本效益的系統：ProVision，它針對任何給定的影像產生關於物件、屬性、關係、深度等的各種問答配對。應用於 Visual Genome 和 DataComp 資料集，我們產生了超過 1000 萬個指令資料點，ProVision-10M，並在 MLM 的預訓練和指令微調階段中加以利用。當在指令微調階段採用時，我們的單一影像指令資料在 CVBench 的 2D 分割中提升了 7%，在 3D 分割中提升了 8%，在 QBench2、RealWorldQA 和 MMMU 上的效能也提升了 3%。我們的多重影像指令資料在 Mantis-Eval 上提升了 8%。在 xGen-MM-4B 的預訓練和微調階段中納入我們的資料，在 11 個基準測試中平均提升了 1.6%。</paragraph>
 
 ##### **A Self-guided Multimodal Approach to Enhancing Graph Representation Learning for Alzheimer's Diseases**
 2412.06212v1 by Zhepeng Wang, Runxue Bao, Yawen Wu, Guodong Liu, Lei Yang, Liang Zhan, Feng Zheng, Weiwen Jiang, Yanfu Zhang
@@ -2505,104 +2619,4 @@ analyses can spark further research on LMMs spatial reasoning. Spatial-MM
 benchmark is available at: https://github.com/FatemehShiri/Spatial-MM
 
 摘要：大型多模態模型 (LMM) 已在各種視覺和語言任務中取得強勁的表現。然而，它們的空間推理能力尚未得到充分研究。在本文中，我們構建了一個新穎的 VQA 資料集 Spatial-MM，以全面研究 LMM 的空間理解和推理能力。我們對物件關係和多跳推理的分析揭示了幾個重要的發現。首先，邊界框和場景圖，即使是合成的，也可以顯著增強 LMM 的空間推理能力。其次，LMM 在回答從人類視角提出的問題時比從相機視角提出的問題時遇到更多困難。第三，思考鏈 (CoT) 提示並未改善模型在涉及空間關係的複雜多跳問題上的效能。% 此外，在 MLLM 中，空間推理步驟的準確度遠低於非空間步驟。最後，我們對 GQA-spatial 的擾動分析表明，LMM 在基本物件偵測方面的能力遠強於複雜的空間推理。我們相信我們的基準資料集和深入分析可以激發對 LMM 空間推理的進一步研究。Spatial-MM 基準可在以下網址取得：https://github.com/FatemehShiri/Spatial-MM
-
-##### **Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**
-2411.05936v1 by Anantha Sharma, Sheeba Elizabeth John, Fatemeh Rezapoor Nikroo, Krupali Bhatt, Mrunal Zambre, Aditi Wikhe
-
-The growth of digital documents presents significant challenges in efficient
-management and knowledge extraction. Traditional methods often struggle with
-complex documents, leading to issues such as hallucinations and high latency in
-responses from Large Language Models (LLMs). ZeroG, an innovative approach,
-significantly mitigates these challenges by leveraging knowledge distillation
-and prompt tuning to enhance model performance.
-  ZeroG utilizes a smaller model that replicates the behavior of a larger
-teacher model, ensuring contextually relevant and grounded responses, by
-employing a black-box distillation approach, it creates a distilled dataset
-without relying on intermediate features, optimizing computational efficiency.
-This method significantly enhances accuracy and reduces response times,
-providing a balanced solution for modern document management.
-  Incorporating advanced techniques for document ingestion and metadata
-utilization, ZeroG improves the accuracy of question-and-answer systems. The
-integration of graph databases and robust metadata management further
-streamlines information retrieval, allowing for precise and context-aware
-responses. By transforming how organizations interact with complex data, ZeroG
-enhances productivity and user experience, offering a scalable solution for the
-growing demands of digital document management.
-
-摘要：數位文件成長帶來顯著的挑戰，包括有效管理和知識萃取。傳統方法經常難以處理複雜文件，導致問題，例如產生幻覺和大型語言模型 (LLM) 回應的高延遲。ZeroG 是一種創新的方法，透過利用知識蒸餾和提示調整來增強模型效能，大幅減輕這些挑戰。
-ZeroG 使用較小的模型複製較大的教師模型的行為，透過採用黑盒蒸餾方法，確保在脈絡上相關且有根據的回應，它建立一個蒸餾的資料集，而不需要依賴中間特徵，最佳化運算效率。這種方法大幅提升準確度並減少回應時間，提供現代文件管理的平衡解決方案。
-透過整合進階技術來擷取文件和使用元資料，ZeroG 改善問答系統的準確度。圖形資料庫和強健的元資料管理的整合進一步簡化資訊擷取，允許精確且符合脈絡的回應。透過轉換組織與複雜資料互動的方式，ZeroG 提升生產力和使用者體驗，提供可擴充的解決方案，以滿足數位文件管理日益增長的需求。
-
-##### **SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**
-2411.05521v2 by Sithursan Sivasubramaniam, Cedric Osei-Akoto, Yi Zhang, Kurt Stockinger, Jonathan Fuerst
-
-Electronic health records (EHRs) are stored in various database systems with
-different database models on heterogeneous storage architectures, such as
-relational databases, document stores, or graph databases. These different
-database models have a big impact on query complexity and performance. While
-this has been a known fact in database research, its implications for the
-growing number of Text-to-Query systems have surprisingly not been investigated
-so far. In this paper, we present SM3-Text-to-Query, the first multi-model
-medical Text-to-Query benchmark based on synthetic patient data from Synthea,
-following the SNOMED-CT taxonomy -- a widely used knowledge graph ontology
-covering medical terminology. SM3-Text-to-Query provides data representations
-for relational databases (PostgreSQL), document stores (MongoDB), and graph
-databases (Neo4j and GraphDB (RDF)), allowing the evaluation across four
-popular query languages, namely SQL, MQL, Cypher, and SPARQL. We systematically
-and manually develop 408 template questions, which we augment to construct a
-benchmark of 10K diverse natural language question/query pairs for these four
-query languages (40K pairs overall). On our dataset, we evaluate several common
-in-context-learning (ICL) approaches for a set of representative closed and
-open-source LLMs. Our evaluation sheds light on the trade-offs between database
-models and query languages for different ICL strategies and LLMs. Last,
-SM3-Text-to-Query is easily extendable to additional query languages or real,
-standard-based patient databases.
-
-摘要：電子健康記錄 (EHR) 儲存在具有不同資料庫模型的各種資料庫系統中，採用異質儲存架構，例如關聯式資料庫、文件儲存庫或圖形資料庫。這些不同的資料庫模型對查詢複雜度和效能有很大的影響。雖然這在資料庫研究中是一個已知的事實，但其對越來越多的文字轉查詢系統的影響卻令人驚訝地尚未被研究。在本文中，我們提出 SM3-Text-to-Query，這是第一個基於 Synthea 合成患者資料的多模型醫療文字轉查詢基準，遵循 SNOMED-CT 分類法，這是一個廣泛使用的知識圖形本體，涵蓋醫學術語。SM3-Text-to-Query 提供了關係資料庫 (PostgreSQL)、文件儲存庫 (MongoDB) 和圖形資料庫 (Neo4j 和 GraphDB (RDF)) 的資料表示，允許跨四種流行的查詢語言進行評估，即 SQL、MQL、Cypher 和 SPARQL。我們系統且手動開發了 408 個範本問題，並擴充這些問題以建構一個基準，其中包含 10K 個針對這四種查詢語言的多樣化自然語言問題/查詢配對（總共 40K 個配對）。在我們的資料集上，我們評估了一組代表性的封閉和開放原始碼 LLM 的幾個常見情境學習 (ICL) 方法。我們的評估揭示了不同 ICL 策略和 LLM 的資料庫模型和查詢語言之間的權衡。最後，SM3-Text-to-Query 可以輕鬆擴充到其他查詢語言或真實的、基於標準的患者資料庫。
-
-##### **EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**
-2411.05479v1 by Abdoul Nasser Hassane Amadou, Anas Motii, Saida Elouardi, EL Houcine Bergou
-
-Underground forums serve as hubs for cybercriminal activities, offering a
-space for anonymity and evasion of conventional online oversight. In these
-hidden communities, malicious actors collaborate to exchange illicit knowledge,
-tools, and tactics, driving a range of cyber threats from hacking techniques to
-the sale of stolen data, malware, and zero-day exploits. Identifying the key
-instigators (i.e., key hackers), behind these operations is essential but
-remains a complex challenge. This paper presents a novel method called EUREKHA
-(Enhancing User Representation for Key Hacker Identification in Underground
-Forums), designed to identify these key hackers by modeling each user as a
-textual sequence. This sequence is processed through a large language model
-(LLM) for domain-specific adaptation, with LLMs acting as feature extractors.
-These extracted features are then fed into a Graph Neural Network (GNN) to
-model user structural relationships, significantly improving identification
-accuracy. Furthermore, we employ BERTopic (Bidirectional Encoder
-Representations from Transformers Topic Modeling) to extract personalized
-topics from user-generated content, enabling multiple textual representations
-per user and optimizing the selection of the most representative sequence. Our
-study demonstrates that fine-tuned LLMs outperform state-of-the-art methods in
-identifying key hackers. Additionally, when combined with GNNs, our model
-achieves significant improvements, resulting in approximately 6% and 10%
-increases in accuracy and F1-score, respectively, over existing methods.
-EUREKHA was tested on the Hack-Forums dataset, and we provide open-source
-access to our code.
-
-摘要：<paragraph>地下論壇是網路犯罪活動的樞紐，提供匿名和規避傳統網路監督的空間。在這些隱藏的社群中，惡意行為者合作交換非法知識、工具和策略，推動從駭客技術到銷售竊取資料、惡意軟體和零時差漏洞的各種網路威脅。找出這些行動背後的關鍵煽動者（即關鍵駭客）至關重要，但仍然是一個複雜的挑戰。本文提出了一種稱為 EUREKHA（增強使用者表徵以識別地下論壇中的關鍵駭客）的新方法，旨在透過將每個使用者建模為文字序列來識別這些關鍵駭客。此序列透過大型語言模型（LLM）處理以進行特定領域的適應，其中 LLM 作為特徵萃取器。然後將這些萃取的特徵輸入圖神經網路（GNN）以建模使用者結構關係，大幅提升識別準確度。此外，我們採用 BERTopic（來自 Transformer 主題建模的雙向編碼器表徵）從使用者產生的內容中萃取個人化主題，為每個使用者啟用多個文字表徵，並最佳化最具代表性序列的選擇。我們的研究表明，微調後的 LLM 在識別關鍵駭客方面優於最先進的方法。此外，當與 GNN 結合使用時，我們的模型獲得顯著的提升，與現有方法相比，準確度和 F1 分數分別提高了約 6% 和 10%。EUREKHA 已在 Hack-Forums 資料集上進行測試，我們提供開源方式存取我們的程式碼。</paragraph>
-
-##### **When are 1.58 bits enough? A Bottom-up Exploration of BitNet Quantization**
-2411.05882v1 by Jacob Nielsen, Lukas Galke, Peter Schneider-Kamp
-
-Contemporary machine learning models, such as language models, are powerful,
-but come with immense resource requirements both at training and inference
-time. It has been shown that decoder-only language models can be trained to a
-competitive state with ternary weights (1.58 bits per weight), facilitating
-efficient inference. Here, we start our exploration with non-transformer model
-architectures, investigating 1.58-bit training for multi-layer perceptrons and
-graph neural networks. Then, we explore 1.58-bit training in other
-transformer-based language models, namely encoder-only and encoder-decoder
-models. Our results show that in all of these settings, 1.58-bit training is on
-par with or sometimes even better than the standard 32/16-bit models.
-
-摘要：當代機器學習模型（例如語言模型）功能強大，
-但在訓練和推論時間上都需要大量的資源。已經證明，僅解碼器語言模型可以用三元權重（每個權重 1.58 位元）訓練到競爭狀態，促進有效率的推論。在此，我們從非Transformer模型架構開始探討，研究多層感知器和圖神經網路的 1.58 位元訓練。接著，我們探討其他基於Transformer的語言模型（即僅編碼器和編碼器-解碼器模型）的 1.58 位元訓練。我們的結果顯示，在所有這些設定中，1.58 位元訓練與標準 32/16 位元模型相當，有時甚至更好。
 

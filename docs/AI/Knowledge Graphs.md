@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|null|
-|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
+|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
 |**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v1](http://arxiv.org/abs/2412.08038v1)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618v1](http://arxiv.org/abs/2412.07618v1)|[link](https://github.com/futureeeeee/dynamic-rag)|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|

@@ -4,12 +4,12 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643v1](http://arxiv.org/abs/2412.08643v1)|[link](https://github.com/wzzheng/gpd)|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639v1](http://arxiv.org/abs/2412.08639v1)|[link](https://github.com/tiktok/fast_prompt_alignment)|
-|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|[link](https://github.com/huawei-lin/DMin)|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635v1](http://arxiv.org/abs/2412.08635v1)|null|
 |**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619v1](http://arxiv.org/abs/2412.08619v1)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618v1](http://arxiv.org/abs/2412.08618v1)|null|
 |**2024-12-11**|**Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models**|Jiahui Li et.al.|[2412.08615v1](http://arxiv.org/abs/2412.08615v1)|null|
-|**2024-12-11**|**Competition and Diversity in Generative AI**|Manish Raghavan et.al.|[2412.08610v1](http://arxiv.org/abs/2412.08610v1)|null|
+|**2024-12-11**|**Competition and Diversity in Generative AI**|Manish Raghavan et.al.|[2412.08610v1](http://arxiv.org/abs/2412.08610v1)|[link](https://github.com/mraghavan/llm-scattergories)|
 |**2024-12-11**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models**|Mintong Kang et.al.|[2412.08608v1](http://arxiv.org/abs/2412.08608v1)|null|
 |**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604v1](http://arxiv.org/abs/2412.08604v1)|null|
 |**2024-12-11**|**Der Effizienz- und Intelligenzbegriff in der Lexikographie und kuenstlichen Intelligenz: kann ChatGPT die lexikographische Textsorte nachbilden?**|Ivan Arias-Arias et.al.|[2412.08599v1](http://arxiv.org/abs/2412.08599v1)|null|
@@ -31,7 +31,7 @@
 |**2024-12-11**|**Comparative Opinion Mining in Product Reviews: Multi-perspective Prompt-based Learning**|Hai-Yen Thi Nguyen et.al.|[2412.08508v1](http://arxiv.org/abs/2412.08508v1)|null|
 |**2024-12-11**|**SuperCode: Sustainability PER AI-driven CO-DEsign**|P. Chris Broekema et.al.|[2412.08490v1](http://arxiv.org/abs/2412.08490v1)|null|
 |**2024-12-11**|**Multi-perspective Alignment for Increasing Naturalness in Neural Machine Translation**|Huiyuan Lai et.al.|[2412.08473v1](http://arxiv.org/abs/2412.08473v1)|null|
-|**2024-12-11**|**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**|Zun Wang et.al.|[2412.08467v1](http://arxiv.org/abs/2412.08467v1)|null|
+|**2024-12-11**|**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**|Zun Wang et.al.|[2412.08467v1](http://arxiv.org/abs/2412.08467v1)|[link](https://github.com/wz0919/vln-srdf)|
 |**2024-12-11**|**IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**|Gauri Jain et.al.|[2412.08463v1](http://arxiv.org/abs/2412.08463v1)|[link](https://github.com/gjain234/whirl)|
 |**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460v1](http://arxiv.org/abs/2412.08460v1)|null|
 |**2024-12-11**|**Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection**|Wen-Chao Hu et.al.|[2412.08457v1](http://arxiv.org/abs/2412.08457v1)|null|
@@ -50,7 +50,7 @@
 |**2024-12-11**|**BEIR-NL: Zero-shot Information Retrieval Benchmark for the Dutch Language**|Nikolay Banar et.al.|[2412.08329v1](http://arxiv.org/abs/2412.08329v1)|null|
 |**2024-12-11**|**Large Language Models Still Face Challenges in Multi-Hop Reasoning with External Knowledge**|Haotong Zhang et.al.|[2412.08317v1](http://arxiv.org/abs/2412.08317v1)|null|
 |**2024-12-11**|**Rumor Detection on Social Media with Temporal Propagation Structure Optimization**|Xingyu Peng et.al.|[2412.08316v1](http://arxiv.org/abs/2412.08316v1)|null|
-|**2024-12-11**|**Self-Refining Diffusion Samplers: Enabling Parallelization via Parareal Iterations**|Nikil Roashan Selvam et.al.|[2412.08292v1](http://arxiv.org/abs/2412.08292v1)|null|
+|**2024-12-11**|**Self-Refining Diffusion Samplers: Enabling Parallelization via Parareal Iterations**|Nikil Roashan Selvam et.al.|[2412.08292v1](http://arxiv.org/abs/2412.08292v1)|[link](https://github.com/nikilrselvam/srds)|
 |**2024-12-11**|**Code LLMs: A Taxonomy-based Survey**|Nishat Raihan et.al.|[2412.08291v1](http://arxiv.org/abs/2412.08291v1)|null|
 |**2024-12-11**|**Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**|Minh Le et.al.|[2412.08285v1](http://arxiv.org/abs/2412.08285v1)|null|
 |**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283v1](http://arxiv.org/abs/2412.08283v1)|null|
@@ -58,9 +58,9 @@
 |**2024-12-11**|**2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset**|Marta R. Costa-jussà et.al.|[2412.08274v1](http://arxiv.org/abs/2412.08274v1)|null|
 |**2024-12-11**|**Position-aware Guided Point Cloud Completion with CLIP Model**|Feng Zhou et.al.|[2412.08271v1](http://arxiv.org/abs/2412.08271v1)|null|
 |**2024-12-11**|**LCFO: Long Context and Long Form Output Dataset and Benchmarking**|Marta R. Costa-jussà et.al.|[2412.08268v1](http://arxiv.org/abs/2412.08268v1)|null|
-|**2024-12-11**|**Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2412.08263v1](http://arxiv.org/abs/2412.08263v1)|null|
+|**2024-12-11**|**Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2412.08263v1](http://arxiv.org/abs/2412.08263v1)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
 |**2024-12-11**|**FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks**|Chongkai Gao et.al.|[2412.08261v1](http://arxiv.org/abs/2412.08261v1)|null|
-|**2024-12-11**|**Large Language Models for Scholarly Ontology Generation: An Extensive Analysis in the Engineering Field**|Tanay Aggarwal et.al.|[2412.08258v1](http://arxiv.org/abs/2412.08258v1)|null|
+|**2024-12-11**|**Large Language Models for Scholarly Ontology Generation: An Extensive Analysis in the Engineering Field**|Tanay Aggarwal et.al.|[2412.08258v1](http://arxiv.org/abs/2412.08258v1)|[link](https://github.com/ImTanay/LLM-Automatic-Ontology-Generation)|
 |**2024-12-11**|**Accurate Medical Named Entity Recognition Through Specialized NLP Models**|Jiacheng Hu et.al.|[2412.08255v1](http://arxiv.org/abs/2412.08255v1)|null|
 |**2024-12-11**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237v1](http://arxiv.org/abs/2412.08237v1)|null|
 |**2024-12-11**|**Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming**|Ziqi Gao et.al.|[2412.08221v1](http://arxiv.org/abs/2412.08221v1)|null|
@@ -70,7 +70,7 @@
 |**2024-12-11**|**Auto-Generating Earnings Report Analysis via a Financial-Augmented LLM**|Van-Duc Le et.al.|[2412.08179v1](http://arxiv.org/abs/2412.08179v1)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|null|
 |**2024-12-11**|**Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions**|Mohammadmostafa Rostamkhani et.al.|[2412.08169v1](http://arxiv.org/abs/2412.08169v1)|[link](https://github.com/IllusoryVQA/IllusoryVQA)|
-|**2024-12-11**|**NLPineers@ NLU of Devanagari Script Languages 2025: Hate Speech Detection using Ensembling of BERT-based models**|Anmol Guragain et.al.|[2412.08163v1](http://arxiv.org/abs/2412.08163v1)|[link](https://github.com/Anmol2059/NLPineers_Chipsal)|
+|**2024-12-11**|**NLPineers@ NLU of Devanagari Script Languages 2025: Hate Speech Detection using Ensembling of BERT-based models**|Anmol Guragain et.al.|[2412.08163v1](http://arxiv.org/abs/2412.08163v1)|null|
 |**2024-12-11**|**How Vision-Language Tasks Benefit from Large Pre-trained Models: A Survey**|Yayun Qi et.al.|[2412.08158v1](http://arxiv.org/abs/2412.08158v1)|null|
 |**2024-12-11**|**Antelope: Potent and Concealed Jailbreak Attack Strategy**|Xin Zhao et.al.|[2412.08156v1](http://arxiv.org/abs/2412.08156v1)|null|
 |**2024-12-11**|**A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision**|Guiran Liu et.al.|[2412.08148v1](http://arxiv.org/abs/2412.08148v1)|null|
@@ -78,7 +78,7 @@
 |**2024-12-11**|**A Survey on Private Transformer Inference**|Yang Li et.al.|[2412.08145v1](http://arxiv.org/abs/2412.08145v1)|null|
 |**2024-12-11**|**AGMixup: Adaptive Graph Mixup for Semi-supervised Node Classification**|Weigang Lu et.al.|[2412.08144v1](http://arxiv.org/abs/2412.08144v1)|null|
 |**2024-12-11**|**Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation**|Jiaming Lv et.al.|[2412.08139v1](http://arxiv.org/abs/2412.08139v1)|null|
-|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138v1](http://arxiv.org/abs/2412.08138v1)|null|
+|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138v1](http://arxiv.org/abs/2412.08138v1)|[link](https://github.com/hiyuchang/leadq)|
 |**2024-12-11**|**DiffRaman: A Conditional Latent Denoising Diffusion Probabilistic Model for Bacterial Raman Spectroscopy Identification Under Limited Data Conditions**|Haiming Yao et.al.|[2412.08131v1](http://arxiv.org/abs/2412.08131v1)|null|
 |**2024-12-11**|**Evil twins are not that evil: Qualitative insights into machine-generated prompts**|Nathanaël Carraz Rakotonirina et.al.|[2412.08127v1](http://arxiv.org/abs/2412.08127v1)|null|
 |**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125v1](http://arxiv.org/abs/2412.08125v1)|null|
@@ -94,7 +94,7 @@
 |**2024-12-11**|**How to select slices for annotation to train best-performing deep learning segmentation models for cross-sectional medical images?**|Yixin Zhang et.al.|[2412.08081v1](http://arxiv.org/abs/2412.08081v1)|null|
 |**2024-12-11**|**Using Large Language Models for Parametric Shape Optimization**|Xinxin Zhang et.al.|[2412.08072v1](http://arxiv.org/abs/2412.08072v1)|null|
 |**2024-12-11**|**DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production**|Xiaoyun Liang et.al.|[2412.08069v1](http://arxiv.org/abs/2412.08069v1)|null|
-|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
+|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
 |**2024-12-11**|**ContextModule: Improving Code Completion via Repository-level Contextual Information**|Zhanming Guan et.al.|[2412.08063v1](http://arxiv.org/abs/2412.08063v1)|null|
 |**2024-12-11**|**Go-Oracle: Automated Test Oracle for Go Concurrency Bugs**|Foivos Tsimpourlas et.al.|[2412.08061v1](http://arxiv.org/abs/2412.08061v1)|null|
 |**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054v1](http://arxiv.org/abs/2412.08054v1)|null|

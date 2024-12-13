@@ -4,9 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-11**|**IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**|Gauri Jain et.al.|[2412.08463v1](http://arxiv.org/abs/2412.08463v1)|[link](https://github.com/gjain234/whirl)|
 |**2024-12-11**|**SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs**|Sultan Alrashed et.al.|[2412.08347v1](http://arxiv.org/abs/2412.08347v1)|null|
-|**2024-12-11**|**Hierarchical Classification for Automated Image Annotation of Coral Reef Benthic Structures**|Célia Blondin et.al.|[2412.08228v1](http://arxiv.org/abs/2412.08228v1)|null|
+|**2024-12-11**|**Hierarchical Classification for Automated Image Annotation of Coral Reef Benthic Structures**|Célia Blondin et.al.|[2412.08228v1](http://arxiv.org/abs/2412.08228v1)|[link](https://github.com/celia-bl/hierarchical_classifying_corals_dataset)|
 |**2024-12-11**|**How to select slices for annotation to train best-performing deep learning segmentation models for cross-sectional medical images?**|Yixin Zhang et.al.|[2412.08081v1](http://arxiv.org/abs/2412.08081v1)|null|
-|**2024-12-11**|**Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning**|Chongyi Zheng et.al.|[2412.08021v1](http://arxiv.org/abs/2412.08021v1)|null|
+|**2024-12-11**|**Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning**|Chongyi Zheng et.al.|[2412.08021v1](http://arxiv.org/abs/2412.08021v1)|[link](https://github.com/Princeton-RL/contrastive-successor-features)|
 |**2024-12-10**|**From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**|Mohit Chandra et.al.|[2412.07951v1](http://arxiv.org/abs/2412.07951v1)|null|
 |**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895v1](http://arxiv.org/abs/2412.07895v1)|null|
 |**2024-12-10**|**Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact**|Yunfan Zhao et.al.|[2412.07880v1](http://arxiv.org/abs/2412.07880v1)|null|
@@ -16,14 +16,14 @@
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|
 |**2024-12-10**|**A Review of Challenges in Speech-based Conversational AI for Elderly Care**|Willemijn Klaassen et.al.|[2412.07388v1](http://arxiv.org/abs/2412.07388v1)|null|
 |**2024-12-10**|**Enhanced MRI Representation via Cross-series Masking**|Churan Wang et.al.|[2412.07387v1](http://arxiv.org/abs/2412.07387v1)|null|
-|**2024-12-10**|**On Evaluating the Durability of Safeguards for Open-Weight LLMs**|Xiangyu Qi et.al.|[2412.07097v1](http://arxiv.org/abs/2412.07097v1)|null|
+|**2024-12-10**|**On Evaluating the Durability of Safeguards for Open-Weight LLMs**|Xiangyu Qi et.al.|[2412.07097v1](http://arxiv.org/abs/2412.07097v1)|[link](https://github.com/ai-law-society-lab/evaluating-durable-safeguards)|
 |**2024-12-09**|**Toward AI-Driven Digital Organism: Multiscale Foundation Models for Predicting, Simulating and Programming Biology at All Levels**|Le Song et.al.|[2412.06993v1](http://arxiv.org/abs/2412.06993v1)|[link](https://github.com/genbio-ai/aido)|
 |**2024-12-09**|**Diagnosis and Severity Assessment of Ulcerative Colitis using Self Supervised Learning**|Venkat Margapuri et.al.|[2412.07806v1](http://arxiv.org/abs/2412.07806v1)|null|
 |**2024-12-09**|**Toward Non-Invasive Diagnosis of Bankart Lesions with Deep Learning**|Sahil Sethi et.al.|[2412.06717v1](http://arxiv.org/abs/2412.06717v1)|null|
 |**2024-12-09**|**Parkinson's Disease Diagnosis Through Deep Learning: A Novel LSTM-Based Approach for Freezing of Gait Detection**|Aqib Nazir Mir et.al.|[2412.06709v1](http://arxiv.org/abs/2412.06709v1)|null|
-|**2024-12-09**|**Fundus Image-based Visual Acuity Assessment with PAC-Guarantees**|Sooyong Jang et.al.|[2412.06624v1](http://arxiv.org/abs/2412.06624v1)|null|
+|**2024-12-09**|**Fundus Image-based Visual Acuity Assessment with PAC-Guarantees**|Sooyong Jang et.al.|[2412.06624v1](http://arxiv.org/abs/2412.06624v1)|[link](https://github.com/precise-ai4oph/va_pred_pac)|
 |**2024-12-09**|**Real-Time Performance Optimization of Travel Reservation Systems Using AI and Microservices**|Biman Barua et.al.|[2412.06874v1](http://arxiv.org/abs/2412.06874v1)|null|
-|**2024-12-09**|**Advancing Music Therapy: Integrating Eastern Five-Element Music Theory and Western Techniques with AI in the Novel Five-Element Harmony System**|Yubo Zhou et.al.|[2412.06600v1](http://arxiv.org/abs/2412.06600v1)|null|
+|**2024-12-09**|**Advancing Music Therapy: Integrating Eastern Five-Element Music Theory and Western Techniques with AI in the Novel Five-Element Harmony System**|Yubo Zhou et.al.|[2412.06600v1](http://arxiv.org/abs/2412.06600v1)|[link](https://github.com/everydaylucky/wu_xing_harmony_system)|
 |**2024-12-09**|**HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation**|Jiayan Chen et.al.|[2412.06530v1](http://arxiv.org/abs/2412.06530v1)|null|
 |**2024-12-09**|**Simulating Human-like Daily Activities with Desire-driven Autonomy**|Yiding Wang et.al.|[2412.06435v1](http://arxiv.org/abs/2412.06435v1)|null|
 |**2024-12-09**|**CAD-Unet: A Capsule Network-Enhanced Unet Architecture for Accurate Segmentation of COVID-19 Lung Infections from CT Images**|Yijie Dang et.al.|[2412.06314v1](http://arxiv.org/abs/2412.06314v1)|null|

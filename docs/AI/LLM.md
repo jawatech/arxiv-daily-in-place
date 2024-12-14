@@ -1349,7 +1349,7 @@ path forward for further advancements in natural language understanding tasks.
 摘要：自然語言推論 (NLI) 任務需要辨識句子對之間的關係，通常分類為蘊涵、矛盾或中立。雖然當前最先進 (SOTA) 的模型，蘊涵少發學習 (EFL)，在史丹佛自然語言推論 (SNLI) 資料集上達到了 93.1% 的準確度，但進一步的進展受到資料集限制的約束。為了解決這個問題，我們提出了一種新方法，利用合成資料擴充來增強資料集的多樣性和複雜性。我們提出了 UnitedSynT5，這是一種 EFL 的進階擴充，它利用基於 T5 的生成器來合成額外的前提假設對，這些對經過嚴格的清理並整合到訓練資料中。這些擴充的範例在 EFL 架構中進行處理，將標籤直接嵌入假設中以確保一致性。我們在這個擴充的資料集上訓練了一個 GTR-T5-XL 模型，在 SNLI 資料集上達到了 94.7% 的準確度新基準，在 E-SNLI 資料集上達到了 94.01% 的準確度，在 MultiNLI 資料集上達到了 92.57% 的準確度，超越了之前的 SOTA 模型。這項研究展示了合成資料擴充在改善 NLI 模型中的潛力，為自然語言理解任務的進一步進展提供了前進的道路。
 
 ##### **Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs**
-2412.09247v1 by Asli Umay Ozturk, Recep Firat Cekinel, Asli Umay Ozturk
+2412.09247v1 by Asli Umay Ozturk, Recep Firat Cekinel, Pinar Karagoz
 
 Satire detection is essential for accurately extracting opinions from textual
 data and combating misinformation online. However, the lack of diverse corpora

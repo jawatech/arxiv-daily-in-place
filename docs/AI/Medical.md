@@ -2,6 +2,10 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-13**|**Generative AI in Medicine**|Divya Shanmugam et.al.|[2412.10337v1](http://arxiv.org/abs/2412.10337v1)|null|
+|**2024-12-13**|**A Cascaded Dilated Convolution Approach for Mpox Lesion Classification**|Ayush Deshmukh et.al.|[2412.10106v1](http://arxiv.org/abs/2412.10106v1)|null|
+|**2024-12-13**|**Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction**|Tao Song et.al.|[2412.09998v1](http://arxiv.org/abs/2412.09998v1)|null|
+|**2024-12-13**|**Enhancing Nursing and Elderly Care with Large Language Models: An AI-Driven Framework**|Qiao Sun et.al.|[2412.09946v1](http://arxiv.org/abs/2412.09946v1)|null|
 |**2024-12-12**|**Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis**|Shengxuming Zhang et.al.|[2412.09521v1](http://arxiv.org/abs/2412.09521v1)|null|
 |**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278v1](http://arxiv.org/abs/2412.09278v1)|[link](https://github.com/shawnhuang497/medplib)|
 |**2024-12-12**|**CSSDH: An Ontology for Social Determinants of Health to Operational Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2412.09223v1](http://arxiv.org/abs/2412.09223v1)|null|
@@ -10,6 +14,7 @@
 |**2024-12-12**|**AI-assisted Knowledge Discovery in Biomedical Literature to Support Decision-making in Precision Oncology**|Ting He et.al.|[2412.08900v1](http://arxiv.org/abs/2412.08900v1)|null|
 |**2024-12-12**|**Towards modeling evolving longitudinal health trajectories with a transformer-based deep learning model**|Hans Moen et.al.|[2412.08873v1](http://arxiv.org/abs/2412.08873v1)|null|
 |**2024-12-11**|**Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions**|Jiarui Zhang et.al.|[2412.08737v1](http://arxiv.org/abs/2412.08737v1)|null|
+|**2024-12-11**|**Assisted morbidity coding: the SISCO.web use case for identifying the main diagnosis in Hospital Discharge Records**|Elena Cardillo et.al.|[2412.09651v1](http://arxiv.org/abs/2412.09651v1)|null|
 |**2024-12-11**|**IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**|Gauri Jain et.al.|[2412.08463v1](http://arxiv.org/abs/2412.08463v1)|[link](https://github.com/gjain234/whirl)|
 |**2024-12-11**|**SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs**|Sultan Alrashed et.al.|[2412.08347v1](http://arxiv.org/abs/2412.08347v1)|null|
 |**2024-12-11**|**Hierarchical Classification for Automated Image Annotation of Coral Reef Benthic Structures**|Célia Blondin et.al.|[2412.08228v1](http://arxiv.org/abs/2412.08228v1)|[link](https://github.com/celia-bl/hierarchical_classifying_corals_dataset)|
@@ -19,6 +24,7 @@
 |**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895v1](http://arxiv.org/abs/2412.07895v1)|null|
 |**2024-12-10**|**Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact**|Yunfan Zhao et.al.|[2412.07880v2](http://arxiv.org/abs/2412.07880v2)|null|
 |**2024-12-10**|**Comparative Analysis of Deep Learning Approaches for Harmful Brain Activity Detection Using EEG**|Shivraj Singh Bhatti et.al.|[2412.07878v1](http://arxiv.org/abs/2412.07878v1)|null|
+|**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618v1](http://arxiv.org/abs/2412.07618v1)|[link](https://github.com/futureeeeee/dynamic-rag)|
 |**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585v1](http://arxiv.org/abs/2412.07585v1)|[link](https://github.com/mercadolibre/srt)|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|
@@ -96,14 +102,85 @@
 |**2024-12-02**|**Object Tracking in a $360^o$ View: A Novel Perspective on Bridging the Gap to Biomedical Advancements**|Mojtaba S. Fazli et.al.|[2412.01119v1](http://arxiv.org/abs/2412.01119v1)|null|
 |**2024-12-02**|**Evaluating Automated Radiology Report Quality through Fine-Grained Phrasal Grounding of Clinical Findings**|Razi Mahmood et.al.|[2412.01031v2](http://arxiv.org/abs/2412.01031v2)|null|
 |**2024-12-01**|**Generative Language Models Potential for Requirement Engineering Applications: Insights into Current Strengths and Limitations**|Summra Saleem et.al.|[2412.00959v1](http://arxiv.org/abs/2412.00959v1)|null|
-|**2024-12-01**|**TSUBF-Net: Trans-Spatial UNet-like Network with Bi-direction Fusion for Segmentation of Adenoid Hypertrophy in CT**|Rulin Zhou et.al.|[2412.00787v1](http://arxiv.org/abs/2412.00787v1)|null|
-|**2024-12-01**|**Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**|Firdavs Nasriddinov et.al.|[2412.00760v1](http://arxiv.org/abs/2412.00760v1)|[link](https://github.com/firdavsn/SurgicalFeedbackAI)|
-|**2024-11-30**|**Fairness at Every Intersection: Uncovering and Mitigating Intersectional Biases in Multimodal Clinical Predictions**|Resmi Ramachandranpillai et.al.|[2412.00606v1](http://arxiv.org/abs/2412.00606v1)|null|
-|**2024-11-30**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573v2](http://arxiv.org/abs/2412.00573v2)|null|
-|**2024-11-30**|**Polish Medical Exams: A new dataset for cross-lingual medical knowledge transfer assessment**|Łukasz Grzybowski et.al.|[2412.00559v1](http://arxiv.org/abs/2412.00559v1)|null|
-|**2024-11-30**|**Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective**|Yue Zhou et.al.|[2412.00554v2](http://arxiv.org/abs/2412.00554v2)|null|
 
 #### Abstracts
+##### **Generative AI in Medicine**
+2412.10337v1 by Divya Shanmugam, Monica Agrawal, Rajiv Movva, Irene Y. Chen, Marzyeh Ghassemi, Emma Pierson
+
+The increased capabilities of generative AI have dramatically expanded its
+possible use cases in medicine. We provide a comprehensive overview of
+generative AI use cases for clinicians, patients, clinical trial organizers,
+researchers, and trainees. We then discuss the many challenges -- including
+maintaining privacy and security, improving transparency and interpretability,
+upholding equity, and rigorously evaluating models -- which must be overcome to
+realize this potential, and the open research directions they give rise to.
+
+摘要：生成式 AI 的能力提升大幅擴展了其在醫學中的潛在應用案例。我們提供了一個全面的概觀，說明生成式 AI 在臨床醫生、患者、臨床試驗組織者、研究人員和受訓人員的應用案例。接著，我們討論了許多挑戰，包括維護隱私和安全性、提升透明度和可解釋性、維護公平性，以及嚴格評估模型，這些挑戰必須克服才能實現這種潛力，以及它們引發的開放研究方向。
+
+##### **A Cascaded Dilated Convolution Approach for Mpox Lesion Classification**
+2412.10106v1 by Ayush Deshmukh
+
+The global outbreak of Mpox virus, classified as a Public Health Emergency of
+International Concern by WHO, presents significant diagnostic challenges due to
+its visual similarity to other skin lesion diseases. Current clinical detection
+techniques face limitations in accuracy and efficiency, necessitating improved
+automated diagnostic solutions. This study introduces a novel Cascaded Atrous
+Group Attention (CAGA) module, specifically designed to enhance multi-scale
+feature representation while optimizing computational efficiency. By
+integrating CAGA with EfficientViT-L1 as the backbone architecture, our
+approach achieves state-of-the-art performance with a score of 0.98% on the
+MCSI dataset, while reducing model parameters by 37.5% compared to the original
+EfficientViT-L1. This reduction in computational complexity maintains
+diagnostic accuracy while enabling broader deployment across
+resource-constrained healthcare settings. Extensive validation across two other
+benchmark datasets, including MSID and MSLD, demonstrate the model's
+robustness, consistently outperforming existing approaches. Our findings
+suggest that CAGA's efficient feature extraction mechanism could be adapted for
+other medical imaging tasks requiring fine-grained visual discrimination.
+
+摘要：由於世界衛生組織將猴痘病毒全球爆發定為國際關注的公共衛生緊急事件，因此猴痘病毒與其他皮膚病變疾病在視覺上的相似性，對診斷帶來重大挑戰。目前的臨床檢測技術在準確性和效率方面面臨限制，因此需要改進的自動化診斷解決方案。本研究引入了一個新穎的串聯空洞組注意力 (CAGA) 模組，專門設計用於增強多尺度特徵表示，同時最佳化運算效率。透過將 CAGA 與 EfficientViT-L1 整合作為主幹架構，我們的做法在 MCSI 資料集上以 0.98% 的分數達到了最先進的效能，同時與原始 EfficientViT-L1 相比，模型參數減少了 37.5%。這種運算複雜度的降低維持了診斷準確性，同時支援在資源受限的醫療保健環境中更廣泛地部署。在包括 MSID 和 MSLD 在內的另外兩個基準資料集上的廣泛驗證證明了模型的穩健性，始終優於現有方法。我們的研究結果表明，CAGA 的高效特徵提取機制可以調整為其他需要細緻視覺辨別的醫學影像任務。
+
+##### **Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction**
+2412.09998v1 by Tao Song, Yicheng Wu, Minhao Hu, Xiangde Luo, Guoting Luo, Guotai Wang, Yi Guo, Feng Xu, Shaoting Zhang
+
+Accelerated MRI reconstruction techniques aim to reduce examination time
+while maintaining high image fidelity, which is highly desirable in clinical
+settings for improving patient comfort and hospital efficiency. Existing deep
+learning methods typically reconstruct images from under-sampled data with
+traditional reconstruction approaches, but they still struggle to provide
+high-fidelity results. Diffusion models show great potential to improve
+fidelity of generated images in recent years. However, their inference process
+starting with a random Gaussian noise introduces instability into the results
+and usually requires thousands of sampling steps, resulting in sub-optimal
+reconstruction quality and low efficiency. To address these challenges, we
+propose Cycle-Consistent Bridge Diffusion Model (CBDM). CBDM employs two bridge
+diffusion models to construct a cycle-consistent diffusion process with a
+consistency loss, enhancing the fine-grained details of reconstructed images
+and reducing the number of diffusion steps. Moreover, CBDM incorporates a
+Contourlet Decomposition Embedding Module (CDEM) which captures multi-scale
+structural texture knowledge in images through frequency domain decomposition
+pyramids and directional filter banks to improve structural fidelity. Extensive
+experiments demonstrate the superiority of our model by higher reconstruction
+quality and fewer training iterations, achieving a new state of the art for
+accelerated MRI reconstruction in both fastMRI and IXI datasets.
+
+摘要：加速式 MRI 重建技術旨在縮短檢查時間，同時維持高影像保真度，這在臨床環境中非常理想，可提升病患舒適度和醫院效率。現有的深度學習方法通常使用傳統重建方法從欠採樣數據重建影像，但仍難以提供高保真度結果。擴散模型在近年展現出提升生成影像保真度的絕佳潛力。然而，其從隨機高斯雜訊開始的推論過程會為結果帶來不穩定性，且通常需要數千個採樣步驟，導致次最佳重建品質和低效率。為了應對這些挑戰，我們提出循環一致橋接擴散模型 (CBDM)。CBDM 使用兩個橋接擴散模型，建構一個具有相容性損失的循環一致擴散過程，增強重建影像的精細細節並減少擴散步驟的數量。此外，CBDM 整合了一個輪廓分解嵌入模組 (CDEM)，透過頻域分解金字塔和方向濾波器組在影像中擷取多尺度結構紋理知識，以提升結構保真度。廣泛的實驗證明了我們模型的優異性，具有更高的重建品質和更少的訓練反覆運算，在 fastMRI 和 IXI 資料集的加速式 MRI 重建中達成新的技術水準。
+
+##### **Enhancing Nursing and Elderly Care with Large Language Models: An AI-Driven Framework**
+2412.09946v1 by Qiao Sun, Jiexin Xie, Nanyang Ye, Qinying Gu, Shijie Guo
+
+This paper explores the application of large language models (LLMs) in
+nursing and elderly care, focusing on AI-driven patient monitoring and
+interaction. We introduce a novel Chinese nursing dataset and implement
+incremental pre-training (IPT) and supervised fine-tuning (SFT) techniques to
+enhance LLM performance in specialized tasks. Using LangChain, we develop a
+dynamic nursing assistant capable of real-time care and personalized
+interventions. Experimental results demonstrate significant improvements,
+paving the way for AI-driven solutions to meet the growing demands of
+healthcare in aging populations.
+
+摘要：本文探討大型語言模型 (LLM) 在護理和老年照護中的應用，重點在於 AI 驅動的病人監控和互動。我們引入了一個新穎的中文護理資料集，並實施增量預訓練 (IPT) 和監督微調 (SFT) 技術，以增強 LLM 在專業任務中的表現。使用 LangChain，我們開發了一個動態護理助理，能夠提供即時照護和個人化干預措施。實驗結果證明了顯著的改進，為 AI 驅動的解決方案鋪平了道路，以滿足老齡化人口對醫療保健日益增長的需求。
+
 ##### **Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis**
 2412.09521v1 by Shengxuming Zhang, Weihan Li, Tianhong Gao, Jiacong Hu, Haoming Luo, Mingli Song, Xiuming Zhang, Zunlei Feng
 
@@ -300,6 +377,26 @@ Gemini-1.5-Pro, by up to 58.56% on certain Geoperception benchmark tasks and
 10.65% on average across all tasks.
 
 摘要：近幾年，多模態大型語言模型 (MLLM) 迅速進展，但仍持續與低階視覺感知 (LLVP) 奮戰，尤其是準確描述影像幾何細節的能力。此功能對於機器人、醫學影像分析和製造等領域的應用至關重要。在本文中，我們首先介紹 Geoperception，一個基準，旨在評估 MLLM 從影像準確轉錄 2D 幾何資訊的能力。使用此基準，我們展示了領先 MLLM 的限制，然後進行全面的實證研究，探討改善其在幾何任務上表現的策略。我們的研究結果突出了特定模型架構、訓練技術和資料策略的優點，包括使用高保真合成資料和具有資料課程的多階段訓練。值得注意的是，我們發現資料課程能讓模型學習他們無法從頭開始學習的具有挑戰性的幾何理解任務。利用這些見解，我們開發了 Euclid，一個專門針對強低階幾何感知而最佳化的模型家族。儘管純粹在合成多模態資料上訓練，但 Euclid 對新幾何形狀展現出強大的泛化能力。例如，Euclid 在某些 Geoperception 基準任務上比最佳閉源模型 Gemini-1.5-Pro 高出 58.56%，在所有任務上的平均表現高出 10.65%。
+
+##### **Assisted morbidity coding: the SISCO.web use case for identifying the main diagnosis in Hospital Discharge Records**
+2412.09651v1 by Elena Cardillo, Lucilla Frattura
+
+Coding morbidity data using international standard diagnostic classifications
+is increasingly important and still challenging. Clinical coders and physicians
+assign codes to patient episodes based on their interpretation of case notes or
+electronic patient records. Therefore, accurate coding relies on the legibility
+of case notes and the coders' understanding of medical terminology. During the
+last ten years, many studies have shown poor reproducibility of clinical
+coding, even recently, with the application of Artificial Intelligence-based
+models. Given this context, the paper aims to present the SISCO.web approach
+designed to support physicians in filling in Hospital Discharge Records with
+proper diagnoses and procedures codes using the International Classification of
+Diseases (9th and 10th), and, above all, in identifying the main pathological
+condition. The web service leverages NLP algorithms, specific coding rules, as
+well as ad hoc decision trees to identify the main condition, showing promising
+results in providing accurate ICD coding suggestions.
+
+摘要：使用國際標準診斷分類對病態資料進行編碼越來越重要，但仍具有挑戰性。臨床編碼員和醫師根據他們對病例記錄或電子病歷的解讀，為患者就診情況分配代碼。因此，準確編碼依賴於病例記錄的可讀性和編碼員對醫學術語的理解。在過去十年中，許多研究表明臨床編碼的可再現性很差，即使在最近，人工智能模型的應用也是如此。鑑於這種情況，本文旨在介紹 SISCO.web 方法，該方法旨在支援醫師使用國際疾病分類 (第 9 版和第 10 版) 填寫出院記錄，並正確診斷和編碼程序，最重要的是，找出主要的病理狀況。網路服務利用 NLP 演算法、特定的編碼規則以及特別決策樹來找出主要狀況，在提供準確的 ICD 編碼建議方面顯示出有希望的結果。
 
 ##### **IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**
 2412.08463v1 by Gauri Jain, Pradeep Varakantham, Haifeng Xu, Aparna Taneja, Prashant Doshi, Milind Tambe
@@ -508,6 +605,31 @@ accurate and efficient EEG classification, providing valuable insights for
 deploying AI models in clinical practice.
 
 摘要：有害腦部活動的分類，例如癲癇發作和週期性放電，在神經重症照護中扮演著至關重要的角色，能及時診斷和介入。腦電圖 (EEG) 提供了一種非侵入式的方法來監測腦部活動，但 EEG 訊號的手動判讀耗時且高度依賴專家的判斷。本研究針對深度學習架構進行比較分析，包括卷積神經網路 (CNN)、視覺Transformer (ViT) 和 EEGNet，運用於有害腦部活動的分類，同時使用原始 EEG 資料和透過連續小波轉換 (CWT) 生成的時頻表示。我們評估這些模型使用多模式資料表示的效能，包括高解析度頻譜圖和波形資料，並引入多階段訓練策略來改善模型的穩健性。我們的結果顯示，訓練策略、資料前處理和擴充技術對於模型的成功與架構選擇一樣重要，其中多階段 TinyViT 和 EfficientNet 表現出優異的效能。這些發現強調了穩健訓練機制對於達成準確且有效率的 EEG 分類的重要性，為在臨床實務中部署 AI 模型提供了寶貴的見解。
+
+##### **Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**
+2412.09644v1 by Marcos Da Silveira, Louis Deladiennee, Kheira Acem, Oona Freudenthal
+
+Human health is increasingly threatened by exposure to hazardous substances,
+particularly persistent and toxic chemicals. The link between these substances,
+often encountered in complex mixtures, and various diseases are demonstrated in
+scientific studies. However, this information is scattered across several
+sources and hardly accessible by humans and machines. This paper evaluates
+current practices for publishing/accessing information on hazardous chemicals
+and proposes a novel platform designed to facilitate retrieval of critical
+chemical data in urgent situations. The platform aggregates information from
+multiple sources and organizes it into a structured knowledge graph. Users can
+access this information through a visual interface such as Neo4J Bloom and
+dashboards, or via natural language queries using a Chatbot. Our findings
+demonstrate a significant reduction in the time and effort required to access
+vital chemical information when datasets follow FAIR principles. Furthermore,
+we discuss the lessons learned from the development and implementation of this
+platform and provide recommendations for data owners and publishers to enhance
+data reuse and interoperability. This work aims to improve the accessibility
+and usability of chemical information by healthcare professionals, thereby
+supporting better health outcomes and informed decision-making in the face of
+patients exposed to chemical intoxication risks.
+
+摘要：人類健康越來越受到接觸有害物質的威脅，尤其是持久性和有毒的化學物質。科學研究已證明這些物質（通常存在於複雜的混合物中）與各種疾病之間的關聯。然而，這些資訊分散在多個來源中，人類和機器都很難取得。本文評估了當前發布/取得有關有害化學物質資訊的慣例，並提出一個新穎的平台，旨在促進在緊急情況下取得關鍵化學資料。此平台匯集來自多個來源的資訊，並將其組織成結構化的知識圖譜。使用者可以透過視覺化介面（例如 Neo4J Bloom 和儀表板）或使用聊天機器人的自然語言查詢來取得這些資訊。我們的研究結果表明，當資料集遵循 FAIR 原則時，取得重要化學資訊所需的時間和精力會大幅減少。此外，我們討論從此平台的開發和實作中學到的經驗教訓，並為資料擁有者和發布者提供建議，以增強資料再利用和互操作性。這項工作旨在改善醫療保健專業人員取得和使用化學資訊的方式，從而支持更好的健康結果，並在面對接觸化學中毒風險的患者時做出明智的決策。
 
 ##### **Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**
 2412.07618v1 by Xiaqiang Tang, Jian Li, Nan Du, Sihong Xie
@@ -2423,162 +2545,4 @@ ChatGPT. Except for question-answering, both models under-perform compared to
 current state-of-the-art predictors across other tasks.
 
 摘要：傳統語言模型已廣泛評估軟體工程領域，但 ChatGPT 和 Gemini 的潛力尚未被完全探索。為了填補這個差距，本文提出了全面的案例研究，以探討這兩種語言模型在開發各種需求工程應用程式方面的潛力。它深入探討了不同層級專家知識提示對這兩種語言模型預測精度的影響。在 4 個不同的需求工程任務公共基準資料集，它比較了這兩種語言模型與現有任務特定機器/深度學習預測器和傳統語言模型的效能。具體來說，本文利用 4 個基準資料集；Pure（7,445 個樣本，需求萃取）、PROMISE（622 個樣本，需求分類）、REQuestA（300 個問答 (QA) 對）和航太資料集（6347 個字，需求 NER 標記）。我們的實驗顯示，與 ChatGPT 相比，Gemini 需要更仔細的提示工程才能提供準確的預測。此外，在需求萃取基準資料集，最先進的 F1 分數為 0.86，而 ChatGPT 和 Gemini 分別達到 0.76 和 0.77。需求分類資料集的最先進 F1 分數為 0.96，而這兩種語言模型都為 0.78。在命名實體識別 (NER) 任務中，最先進的 F1 分數為 0.92，而 ChatGPT 產生 0.36，Gemini 產生 0.25。類似地，在問答資料集，最先進的 F1 分數為 0.90，而 ChatGPT 和 Gemini 分別產生 0.91 和 0.88。我們的實驗表明，Gemini 需要比 ChatGPT 更精確的提示工程。除了問答之外，這兩個模型在其他任務的表現都低於目前的最新預測器。
-
-##### **TSUBF-Net: Trans-Spatial UNet-like Network with Bi-direction Fusion for Segmentation of Adenoid Hypertrophy in CT**
-2412.00787v1 by Rulin Zhou, Yingjie Feng, Guankun Wang, Xiaopin Zhong, Zongze Wu, Qiang Wu, Xi Zhang
-
-Adenoid hypertrophy stands as a common cause of obstructive sleep
-apnea-hypopnea syndrome in children. It is characterized by snoring, nasal
-congestion, and growth disorders. Computed Tomography (CT) emerges as a pivotal
-medical imaging modality, utilizing X-rays and advanced computational
-techniques to generate detailed cross-sectional images. Within the realm of
-pediatric airway assessments, CT imaging provides an insightful perspective on
-the shape and volume of enlarged adenoids. Despite the advances of deep
-learning methods for medical imaging analysis, there remains an emptiness in
-the segmentation of adenoid hypertrophy in CT scans. To address this research
-gap, we introduce TSUBF-Nett (Trans-Spatial UNet-like Network based on
-Bi-direction Fusion), a 3D medical image segmentation framework. TSUBF-Net is
-engineered to effectively discern intricate 3D spatial interlayer features in
-CT scans and enhance the extraction of boundary-blurring features. Notably, we
-propose two innovative modules within the U-shaped network architecture:the
-Trans-Spatial Perception module (TSP) and the Bi-directional Sampling
-Collaborated Fusion module (BSCF).These two modules are in charge of operating
-during the sampling process and strategically fusing down-sampled and
-up-sampled features, respectively. Furthermore, we introduce the Sobel loss
-term, which optimizes the smoothness of the segmentation results and enhances
-model accuracy. Extensive 3D segmentation experiments are conducted on several
-datasets. TSUBF-Net is superior to the state-of-the-art methods with the lowest
-HD95: 7.03, IoU:85.63, and DSC: 92.26 on our own AHSD dataset. The results in
-the other two public datasets also demonstrate that our methods can robustly
-and effectively address the challenges of 3D segmentation in CT scans.
-
-摘要：腺樣體肥大是兒童阻塞性睡眠呼吸中止低通氣綜合徵的常見原因。其特徵為打鼾、鼻塞和生長障礙。電腦斷層掃描 (CT) 是一種重要的醫學影像模式，利用 X 射線和先進的計算技術生成詳細的橫斷面影像。在小兒氣道評估領域，CT 影像提供了腺樣體肥大的形狀和體積的深刻見解。儘管深度學習方法在醫學影像分析方面取得了進展，但 CT 掃描中腺樣體肥大的分割仍存在空缺。為了解決這個研究差距，我們引入了 TSUBF-Nett（基於雙向融合的 Trans-Spatial UNet 類網路），這是一個 3D 醫學影像分割框架。TSUBF-Net 被設計為有效識別 CT 掃描中複雜的 3D 空間互層特徵，並增強邊界模糊特徵的提取。值得注意的是，我們在 U 形網路架構中提出了兩個創新的模組：Trans-Spatial 感知模組 (TSP) 和雙向採樣協作融合模組 (BSCF)。這兩個模組負責在採樣過程中運作，並分別策略性地融合下採樣和上採樣特徵。此外，我們引入了 Sobel 損失項，它優化了分割結果的平滑度並增強了模型的準確性。在多個資料集上進行了廣泛的 3D 分割實驗。TSUBF-Net 優於最先進的方法，在我們自己的 AHSD 資料集上具有最低的 HD95：7.03、IoU：85.63 和 DSC：92.26。其他兩個公共資料集中的結果也表明，我們的模型可以穩健有效地解決 CT 掃描中 3D 分割的挑戰。
-
-##### **Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**
-2412.00760v1 by Firdavs Nasriddinov, Rafal Kocielnik, Arushi Gupta, Cherine Yang, Elyssa Wong, Anima Anandkumar, Andrew Hung
-
-This work introduces the first framework for reconstructing surgical dialogue
-from unstructured real-world recordings, which is crucial for characterizing
-teaching tasks. In surgical training, the formative verbal feedback that
-trainers provide to trainees during live surgeries is crucial for ensuring
-safety, correcting behavior immediately, and facilitating long-term skill
-acquisition. However, analyzing and quantifying this feedback is challenging
-due to its unstructured and specialized nature. Automated systems are essential
-to manage these complexities at scale, allowing for the creation of structured
-datasets that enhance feedback analysis and improve surgical education. Our
-framework integrates voice activity detection, speaker diarization, and
-automated speech recaognition, with a novel enhancement that 1) removes
-hallucinations (non-existent utterances generated during speech recognition
-fueled by noise in the operating room) and 2) separates speech from trainers
-and trainees using few-shot voice samples. These aspects are vital for
-reconstructing accurate surgical dialogues and understanding the roles of
-operating room participants. Using data from 33 real-world surgeries, we
-demonstrated the system's capability to reconstruct surgical teaching dialogues
-and detect feedback instances effectively (F1 score of 0.79+/-0.07). Moreover,
-our hallucination removal step improves feedback detection performance by ~14%.
-Evaluation on downstream clinically relevant tasks of predicting Behavioral
-Adjustment of trainees and classifying Technical feedback, showed performances
-comparable to manual annotations with F1 scores of 0.82+/0.03 and 0.81+/0.03
-respectively. These results highlight the effectiveness of our framework in
-supporting clinically relevant tasks and improving over manual methods.
-
-摘要：<paragraph>這項工作介紹了第一個用於重建手術對話的架構，該架構來自非結構化的真實世界錄音，這對於描述教學任務至關重要。在外科培訓中，培訓者在現場手術期間向受訓者提供的形成性言語回饋對於確保安全、立即糾正行為和促進長期技能習得至關重要。然而，由於其非結構化和專業性質，對此回饋進行分析和量化具有挑戰性。自動化系統對於大規模管理這些複雜性至關重要，允許創建結構化的資料集，以增強回饋分析並改善外科教育。我們的架構整合了語音活動偵測、說話者日記和自動語音識別，並具有一個新穎的增強功能，該功能 1) 消除了幻覺（在手術室的噪音引發語音識別期間產生的不存在的語句）和 2) 使用少數語音樣本將培訓者和受訓者的語音分開。這些方面對於重建準確的手術對話和理解手術室參與者的角色至關重要。使用來自 33 次真實手術的資料，我們展示了該系統重建手術教學對話和有效檢測回饋實例的能力（F1 分數為 0.79+/-0.07）。此外，我們的幻覺消除步驟將回饋檢測效能提升了約 14%。在預測受訓者的行為調整和分類技術回饋的下游臨床相關任務的評估中，顯示出與 F1 分數分別為 0.82+/0.03 和 0.81+/0.03 的手動標註相當的效能。這些結果突顯了我們的架構在支援臨床相關任務和改進手動方法方面的有效性。</paragraph>
-
-##### **Fairness at Every Intersection: Uncovering and Mitigating Intersectional Biases in Multimodal Clinical Predictions**
-2412.00606v1 by Resmi Ramachandranpillai, Kishore Sampath, Ayaazuddin Mohammad, Malihe Alikhani
-
-Biases in automated clinical decision-making using Electronic Healthcare
-Records (EHR) impose significant disparities in patient care and treatment
-outcomes. Conventional approaches have primarily focused on bias mitigation
-strategies stemming from single attributes, overlooking intersectional
-subgroups -- groups formed across various demographic intersections (such as
-race, gender, ethnicity, etc.). Rendering single-attribute mitigation
-strategies to intersectional subgroups becomes statistically irrelevant due to
-the varying distribution and bias patterns across these subgroups. The
-multimodal nature of EHR -- data from various sources such as combinations of
-text, time series, tabular, events, and images -- adds another layer of
-complexity as the influence on minority groups may fluctuate across modalities.
-In this paper, we take the initial steps to uncover potential intersectional
-biases in predictions by sourcing extensive multimodal datasets, MIMIC-Eye1 and
-MIMIC-IV ED, and propose mitigation at the intersectional subgroup level. We
-perform and benchmark downstream tasks and bias evaluation on the datasets by
-learning a unified text representation from multimodal sources, harnessing the
-enormous capabilities of the pre-trained clinical Language Models (LM),
-MedBERT, Clinical BERT, and Clinical BioBERT. Our findings indicate that the
-proposed sub-group-specific bias mitigation is robust across different
-datasets, subgroups, and embeddings, demonstrating effectiveness in addressing
-intersectional biases in multimodal settings.
-
-摘要：電子病歷 (EHR) 中自動化臨床決策的偏差會對患者照護和治療結果造成顯著的差異。傳統方法主要專注於單一屬性的偏差緩解策略，忽略了交叉群體——在各種人口統計交叉點（例如種族、性別、種族等）形成的群體。由於這些子群的分布和偏差模式不同，將單一屬性緩解策略應用於交叉子群在統計上變得無關緊要。EHR 的多模態性質——來自各種來源的數據，例如文本、時間序列、表格、事件和圖像的組合——增加了另一層複雜性，因為對少數群體的影響可能會在不同模式之間波動。在本文中，我們採取了初步步驟，通過採集廣泛的多模態數據集 MIMIC-Eye1 和 MIMIC-IV ED 來揭示預測中的潛在交叉偏差，並提出在交叉子群級別進行緩解。我們通過從多模態來源學習統一的文本表示，利用預訓練的臨床語言模型 (LM)、MedBERT、Clinical BERT 和 Clinical BioBERT 的強大功能，對數據集執行並基準下游任務和偏差評估。我們的研究結果表明，所提出的子群特定偏差緩解在不同的數據集、子群和嵌入中都是穩健的，證明了在多模態設置中解決交叉偏差的有效性。
-
-##### **Opus: A Large Work Model for Complex Workflow Generation**
-2412.00573v2 by Théo Fagnoni, Bellinda Mesbah, Mahsun Altin, Phillip Kingston
-
-This paper introduces Opus, a novel framework for generating and optimizing
-Workflows tailored to complex Business Process Outsourcing (BPO) use cases,
-focusing on cost reduction and quality enhancement while adhering to
-established industry processes and operational constraints. Our approach
-generates executable Workflows from Intention, defined as the alignment of
-Client Input, Client Output, and Process Context. These Workflows are
-represented as Directed Acyclic Graphs (DAGs), with nodes as Tasks consisting
-of sequences of executable Instructions, including tools and human expert
-reviews. We adopt a two-phase methodology: Workflow Generation and Workflow
-Optimization. In the Generation phase, Workflows are generated using a Large
-Work Model (LWM) informed by a Work Knowledge Graph (WKG) that encodes
-domain-specific procedural and operational knowledge. In the Optimization
-phase, Workflows are transformed into Workflow Graphs (WFGs), where optimal
-Workflows are determined through path optimization. Our experiments demonstrate
-that state-of-the-art Large Language Models (LLMs) face challenges in reliably
-retrieving detailed process data as well as generating industry-compliant
-workflows. The key contributions of this paper include integrating a Work
-Knowledge Graph (WKG) into a Large Work Model (LWM) to enable the generation of
-context-aware, semantically aligned, structured and auditable Workflows. It
-further introduces a two-phase approach that combines Workflow Generation from
-Intention with graph-based Workflow Optimization. Finally, we present Opus
-Alpha 1 Large and Opus Alpha 1 Small that outperform state-of-the-art LLMs by
-38% and 29% respectively in Workflow Generation for a Medical Coding use case.
-
-摘要：這篇論文介紹了 Opus，一個用於產生和最佳化工作流程的新穎架構，專為複雜的業務流程外包 (BPO) 使用案例量身打造，重點在於降低成本和提升品質，同時遵守既定的產業流程和營運限制。我們的做法根據意圖產生可執行的工作流程，意圖定義為客戶輸入、客戶輸出和流程背景的對齊。這些工作流程表示為有向無環圖 (DAG)，節點為包含可執行指令序列的任務，包括工具和人類專家的審查。我們採用兩階段方法：工作流程產生和工作流程最佳化。在產生階段，工作流程使用大型工作模型 (LWM) 產生，該模型由編碼特定領域程序和運作知識的工作知識圖 (WKG) 提供資訊。在最佳化階段，工作流程轉換為工作流程圖 (WFG)，其中通過路徑最佳化來確定最佳工作流程。我們的實驗表明，最先進的大型語言模型 (LLM) 在可靠地擷取詳細的流程資料以及產生符合產業規範的工作流程方面面臨挑戰。這篇論文的主要貢獻包括將工作知識圖 (WKG) 整合到大型工作模型 (LWM) 中，以產生具備情境感知、語義對齊、結構化和可稽核的工作流程。它進一步介紹了一種兩階段方法，將基於意圖的工作流程產生與基於圖形的工作流程最佳化相結合。最後，我們展示了 Opus Alpha 1 Large 和 Opus Alpha 1 Small，它們在醫療編碼使用案例中分別比最先進的 LLM 在工作流程產生方面高出 38% 和 29%。
-
-##### **Polish Medical Exams: A new dataset for cross-lingual medical knowledge transfer assessment**
-2412.00559v1 by Łukasz Grzybowski, Jakub Pokrywka, Michał Ciesiółka, Jeremi I. Kaczmarek, Marek Kubis
-
-Large Language Models (LLMs) have demonstrated significant potential in
-handling specialized tasks, including medical problem-solving. However, most
-studies predominantly focus on English-language contexts. This study introduces
-a novel benchmark dataset based on Polish medical licensing and specialization
-exams (LEK, LDEK, PES) taken by medical doctor candidates and practicing
-doctors pursuing specialization. The dataset was web-scraped from publicly
-available resources provided by the Medical Examination Center and the Chief
-Medical Chamber. It comprises over 24,000 exam questions, including a subset of
-parallel Polish-English corpora, where the English portion was professionally
-translated by the examination center for foreign candidates. By creating a
-structured benchmark from these existing exam questions, we systematically
-evaluate state-of-the-art LLMs, including general-purpose, domain-specific, and
-Polish-specific models, and compare their performance against human medical
-students. Our analysis reveals that while models like GPT-4o achieve near-human
-performance, significant challenges persist in cross-lingual translation and
-domain-specific understanding. These findings underscore disparities in model
-performance across languages and medical specialties, highlighting the
-limitations and ethical considerations of deploying LLMs in clinical practice.
-
-摘要：大型語言模型 (LLM) 已展現出在處理專業任務（包括醫療問題解決）方面具有的顯著潛力。然而，大多數研究主要關注於英語語境。本研究引入了基於波蘭醫學許可和專科考試 (LEK、LDEK、PES) 的新基準資料集，由醫學博士候選人和從事專科的執業醫生參加。該資料集從醫學考試中心和首席醫學部門提供的公開資源中進行網路抓取。它包含超過 24,000 個考試題目，包括波蘭語-英語語料庫的子集，其中英語部分由考試中心為外籍考生專業翻譯。通過根據這些現有考試題目建立結構化基準，我們系統性地評估了最先進的 LLM，包括通用、特定領域和特定於波蘭的模型，並將其性能與人類醫學生進行比較。我們的分析表明，儘管 GPT-4o 等模型達到了接近人類的性能，但跨語言翻譯和特定領域理解中仍然存在重大挑戰。這些發現強調了跨語言和醫學專業的模型性能差異，突顯了在臨床實踐中部署 LLM 的局限性和倫理考量。
-
-##### **Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective**
-2412.00554v2 by Yue Zhou, Barbara Di Eugenio, Lu Cheng
-
-This paper studies the performance of large language models (LLMs),
-particularly regarding demographic fairness, in solving real-world healthcare
-tasks. We evaluate state-of-the-art LLMs with three prevalent learning
-frameworks across six diverse healthcare tasks and find significant challenges
-in applying LLMs to real-world healthcare tasks and persistent fairness issues
-across demographic groups. We also find that explicitly providing demographic
-information yields mixed results, while LLM's ability to infer such details
-raises concerns about biased health predictions. Utilizing LLMs as autonomous
-agents with access to up-to-date guidelines does not guarantee performance
-improvement. We believe these findings reveal the critical limitations of LLMs
-in healthcare fairness and the urgent need for specialized research in this
-area.
-
-摘要：本文研究大型語言模型 (LLM) 的效能，特別是在解決真實世界的醫療保健任務時的人口統計公平性方面。我們使用三種流行的學習架構，在六項不同的醫療保健任務中評估最先進的 LLM，並發現將 LLM 應用於真實世界的醫療保健任務時有重大挑戰，以及不同人口統計群體之間持續存在公平性問題。我們還發現，明確提供人口統計資訊會產生好壞參半的結果，而 LLM 推斷此類細節的能力引發了對有偏差的健康預測的擔憂。利用 LLM 作為具有存取最新指南的自主代理並不保證效能會提升。我們相信這些發現揭示了 LLM 在醫療保健公平性方面的重大限制，以及對此領域進行專門研究的迫切需要。
 

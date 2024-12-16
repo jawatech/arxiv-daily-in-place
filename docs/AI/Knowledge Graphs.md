@@ -2,6 +2,9 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136v1](http://arxiv.org/abs/2412.10136v1)|[link](https://github.com/zehong-wang/tans)|
+|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|null|
+|**2024-12-13**|**Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**|Yanxu Mao et.al.|[2412.09922v1](http://arxiv.org/abs/2412.09922v1)|null|
 |**2024-12-12**|**Uncommon Belief in Rationality**|Qi Shi et.al.|[2412.09407v1](http://arxiv.org/abs/2412.09407v1)|null|
 |**2024-12-12**|**Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**|Sai Bhargav Rongali et.al.|[2412.09230v1](http://arxiv.org/abs/2412.09230v1)|null|
 |**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094v1](http://arxiv.org/abs/2412.09094v1)|[link](https://github.com/lb0828/ftg)|
@@ -12,7 +15,8 @@
 |**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|null|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
-|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v1](http://arxiv.org/abs/2412.08038v1)|null|
+|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v2](http://arxiv.org/abs/2412.08038v2)|null|
+|**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618v1](http://arxiv.org/abs/2412.07618v1)|[link](https://github.com/futureeeeee/dynamic-rag)|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|
 |**2024-12-10**|**RAG-based Question Answering over Heterogeneous Data and Text**|Philipp Christmann et.al.|[2412.07420v1](http://arxiv.org/abs/2412.07420v1)|null|
@@ -98,12 +102,83 @@
 |**2024-11-14**|**Automating Reformulation of Essence Specifications via Graph Rewriting**|Ian Miguel et.al.|[2411.09576v1](http://arxiv.org/abs/2411.09576v1)|null|
 |**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449v2](http://arxiv.org/abs/2411.08449v2)|null|
 |**2024-11-13**|**Knowledge Bases in Support of Large Language Models for Processing Web News**|Yihe Zhang et.al.|[2411.08278v2](http://arxiv.org/abs/2411.08278v2)|null|
-|**2024-11-12**|**Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**|Muzhi Li et.al.|[2411.08165v1](http://arxiv.org/abs/2411.08165v1)|null|
-|**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019v1](http://arxiv.org/abs/2411.08019v1)|[link](https://github.com/lbynum/sequence-driven-scms)|
-|**2024-11-12**|**From General to Specific: Utilizing General Hallucination to Benchmark Specific Role-Playing Agents**|Chuyi Kong et.al.|[2411.07965v2](http://arxiv.org/abs/2411.07965v2)|null|
-|**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843v1](http://arxiv.org/abs/2411.07843v1)|null|
 
 #### Abstracts
+##### **Can LLMs Convert Graphs to Text-Attributed Graphs?**
+2412.10136v1 by Zehong Wang, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye
+
+Graphs are ubiquitous data structures found in numerous real-world
+applications, such as drug discovery, recommender systems, and social network
+analysis. Graph neural networks (GNNs) have become a popular tool to learn node
+embeddings through message passing on these structures. However, a significant
+challenge arises when applying GNNs to multiple graphs with different feature
+spaces, as existing GNN architectures are not designed for cross-graph feature
+alignment. To address this, recent approaches introduce text-attributed graphs,
+where each node is associated with a textual description, enabling the use of a
+shared textual encoder to project nodes from different graphs into a unified
+feature space. While promising, this method relies heavily on the availability
+of text-attributed data, which can be difficult to obtain in practice. To
+bridge this gap, we propose a novel method named Topology-Aware Node
+description Synthesis (TANS), which leverages large language models (LLMs) to
+automatically convert existing graphs into text-attributed graphs. The key idea
+is to integrate topological information with each node's properties, enhancing
+the LLMs' ability to explain how graph topology influences node semantics. We
+evaluate our TANS on text-rich, text-limited, and text-free graphs,
+demonstrating that it enables a single GNN to operate across diverse graphs.
+Notably, on text-free graphs, our method significantly outperforms existing
+approaches that manually design node features, showcasing the potential of LLMs
+for preprocessing graph-structured data, even in the absence of textual
+information. The code and data are available at
+https://github.com/Zehong-Wang/TANS.
+
+摘要：圖形是普遍存在於許多真實世界應用中的資料結構，例如藥物發現、推薦系統和社交網路分析。圖形神經網路 (GNN) 已成為一種流行的工具，可透過在這些結構上傳遞訊息來學習節點嵌入。然而，當將 GNN 應用於具有不同特徵空間的多個圖形時，會出現一個重大的挑戰，因為現有的 GNN 架構並非設計用於跨圖形特徵對齊。為了解決這個問題，最近的方法引入了文字屬性圖形，其中每個節點都與文字描述相關聯，從而可以使用共用文字編碼器將來自不同圖形的節點投影到統一的特徵空間中。儘管有希望，但此方法在很大程度上依賴於文字屬性資料的可用性，這在實務上可能難以取得。為了彌補這個差距，我們提出了一種名為拓撲感知節點描述合成 (TANS) 的新方法，該方法利用大型語言模型 (LLM) 將現有圖形自動轉換為文字屬性圖形。其關鍵思想是將拓撲資訊與每個節點的屬性整合在一起，增強 LLM 解釋圖形拓撲如何影響節點語義的能力。我們在文字豐富、文字受限和無文字圖形上評估我們的 TANS，證明它能讓單一 GNN 在不同的圖形中運作。值得注意的是，在無文字圖形上，我們的模型顯著優於手動設計節點特徵的現有方法，展示了 LLM 在預處理圖形結構資料方面的潛力，即使在沒有文字資訊的情況下也是如此。程式碼和資料可在 https://github.com/Zehong-Wang/TANS 取得。
+
+##### **Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**
+2412.10079v1 by George Arthur Baker, Ankush Raut, Sagi Shaier, Lawrence E Hunter, Katharina von der Wense
+
+Previous work finds that recent long-context language models fail to make
+equal use of information in the middle of their inputs, preferring pieces of
+information located at the tail ends which creates an undue bias in situations
+where we would like models to be equally capable of using different parts of
+the input. Thus far, the problem has mainly only been considered in settings
+with single pieces of critical information, leading us to question what happens
+when multiple necessary pieces of information are spread out over the inputs.
+Here, we demonstrate the effects of the "lost in the middle" problem in the
+multi-hop question answering setting -- in which multiple reasoning "hops" over
+disconnected documents are required -- and show that performance degrades not
+only with respect to the distance of information from the edges of the context,
+but also between pieces of information. Additionally, we experiment with means
+of alleviating the problem by reducing superfluous document contents through
+knowledge graph triple extraction and summarization, and prompting models to
+reason more thoroughly using chain-of-thought prompting.
+
+摘要：先前的研究發現，最近的長語境語言模型無法平均利用其輸入中段的資訊，偏好位於尾端的資訊片段，這會造成不當的偏差，在我們希望模型能平均使用輸入不同部分的情況下。到目前為止，這個問題主要只在具有單一關鍵資訊片段的設定中被考慮，導致我們質疑當多個必要的資訊片段散佈在輸入中時會發生什麼情況。在此，我們示範了「遺失在中間」問題在多跳問答設定中的影響，其中需要跨越未連接文件的多次推理「跳躍」，並顯示效能不僅會隨著資訊與語境邊緣的距離而下降，也會隨著資訊片段之間的距離而下降。此外，我們實驗了透過知識圖譜三元組萃取和摘要來減少多餘文件內容，並提示模型使用思考鏈提示來更徹底地推理，以減輕問題的方法。
+
+##### **Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**
+2412.09922v1 by Yanxu Mao, Peipei Liu, Tiehan Cui, Congying Liu, Datao You
+
+In recent years, text classification methods based on neural networks and
+pre-trained models have gained increasing attention and demonstrated excellent
+performance. However, these methods still have some limitations in practical
+applications: (1) They typically focus only on the matching similarity between
+sentences. However, there exists implicit high-value information both within
+sentences of the same class and across different classes, which is very crucial
+for classification tasks. (2) Existing methods such as pre-trained language
+models and graph-based approaches often consume substantial memory for training
+and text-graph construction. (3) Although some low-resource methods can achieve
+good performance, they often suffer from excessively long processing times. To
+address these challenges, we propose a low-resource and fast text
+classification model called LFTC. Our approach begins by constructing a
+compressor list for each class to fully mine the regularity information within
+intra-class data. We then remove redundant information irrelevant to the target
+classification to reduce processing time. Finally, we compute the similarity
+distance between text pairs for classification. We evaluate LFTC on 9 publicly
+available benchmark datasets, and the results demonstrate significant
+improvements in performance and processing time, especially under limited
+computational and data resources, highlighting its superior advantages.
+
+摘要：近年来，基于神经网络和预训练模型的文本分类方法越来越受到关注，并表现出优异的性能。然而，这些方法在实际应用中仍然存在一些局限性：(1) 它们通常只关注句子之间的匹配相似性。然而，同类句子内部和不同类句子之间都存在隐含的高价值信息，这对分类任务至关重要。(2) 预训练语言模型和基于图的方法等现有方法通常需要大量的内存用于训练和文本图构建。(3) 虽然一些低资源方法可以达到良好的性能，但它们通常处理时间过长。为了应对这些挑战，我们提出了一种低资源且快速的文本分类模型，称为 LFTC。我们的方法首先为每个类别构建一个压缩器列表，以充分挖掘类内数据中的规律性信息。然后，我们删除与目标分类无关的冗余信息，以减少处理时间。最后，我们计算文本对之间的相似性距离进行分类。我们在 9 个公开的基准数据集上评估了 LFTC，结果表明在有限的计算和数据资源下，其性能和处理时间都有显著提升，突出了其优越的优势。
+
 ##### **Uncommon Belief in Rationality**
 2412.09407v1 by Qi Shi, Pavel Naumov
 
@@ -349,7 +424,7 @@ outperforms the state-of-the-art baseline, with improvements of 11.90%, and
 摘要：<paragraph>軟體供應商通常會在沒有提供足夠的諮詢（例如常見漏洞和曝險）或延遲透過資源（例如國家漏洞資料庫）更新的情況下，無聲地發布安全性修補程式。因此，偵測這些安全性修補程式以確保軟體維護安全至關重要。然而，現有方法面臨以下挑戰：(1) 它們主要關注修補程式本身的資訊，忽略了儲存庫中複雜的相依性。(2) 安全性修補程式通常涉及多個函式和檔案，增加了良好學習表示形式的難度。為了緩解上述挑戰，本文提出了一個名為 RepoSPD 的儲存庫層級安全性修補程式偵測架構，它包含三個關鍵元件：1) 儲存庫層級圖形建構，RepoCPG，它透過合併儲存庫層級的前修補程式和後修補程式原始碼來表示軟體修補程式；2) 結構感知修補程式表示形式，它融合了圖形和序列分支，旨在理解多個程式碼變更之間的關係；3) 漸進式學習，它有助於模型平衡語意和結構資訊。為了評估 RepoSPD，我們在安全性修補程式偵測中採用了兩個廣泛使用的資料集：SPI-DB 和 PatchDB。我們進一步將這些資料集擴充套件到儲存庫層級，分別納入了 C/C++ 程式語言中總計 20,238 和 28,781 個版本的儲存庫，表示為 SPI-DB* 和 PatchDB*。我們將 RepoSPD 與六種現有的安全性修補程式偵測方法和五種靜態工具進行比較。我們的實驗結果表明，RepoSPD 優於最先進的基準，在兩個資料集上的準確性分別提高了 11.90% 和 3.10%。</paragraph>
 
 ##### **Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**
-2412.08038v1 by Hang Gao, Chenhao Zhang, Fengge Wu, Junsuo Zhao, Changwen Zheng, Huaping Liu
+2412.08038v2 by Hang Gao, Chenhao Zhang, Fengge Wu, Junsuo Zhao, Changwen Zheng, Huaping Liu
 
 Graph representation learning methods are highly effective in handling
 complex non-Euclidean data by capturing intricate relationships and features
@@ -372,7 +447,32 @@ targeted learning, thus obtaining effective graph representations for
 downstream tasks. Theoretical analysis and experimental validation have
 demonstrated the effectiveness of our method.
 
-摘要：圖表表示學習方法在處理複雜的非歐幾里得數據方面非常有效，方法是捕捉圖形結構中的複雜關係和特徵。然而，由於數據來源多樣且性質複雜，傳統方法在處理包含各種類型節點和邊的異質圖形時面臨挑戰。現有的異質圖形神經網路 (HGNN) 已展現出有希望的成果，但需要事先了解節點和邊的類型，以及統一的節點特徵格式，這限制了其適用性。最近使用大型語言模型 (LLM) 的圖形表示學習的進展提供了新的解決方案，方法是整合 LLM 的數據處理功能，使各種圖形表示得以對齊。儘管如此，這些方法通常會忽略異質圖形數據，並且需要廣泛的預處理。為了解決這些限制，我們提出了一種新方法，它利用了 LLM 和 GNN 的優點，允許處理任何格式和類型的節點和邊的圖形數據，而不需要類型信息或特殊預處理。我們的模型採用 LLM 自動總結和分類不同的數據格式和類型，對齊節點特徵，並使用專門的 GNN 進行目標學習，從而為下游任務獲取有效的圖形表示。理論分析和實驗驗證已證明了我們方法的有效性。
+摘要：圖表表徵學習方法在處理複雜非歐幾里得資料時非常有效，它能捕捉圖表結構中的複雜關係和特徵。然而，傳統方法在處理異質圖表時會面臨挑戰，因為異質圖表包含各種節點和邊緣類型，這是由於資料來源多樣且性質複雜。現有的異質圖神經網路 (HGNN) 已展現出有前景的成果，但需要事先知道節點和邊緣類型，以及統一的節點特徵格式，這限制了它們的適用性。最近在使用大型語言模型 (LLM) 進行圖表表徵學習方面取得的進展提供了新的解決方案，方法是整合 LLM 的資料處理功能，讓各種圖表表徵得以對齊。儘管如此，這些方法經常忽略異質圖表資料，而且需要廣泛的預處理。為了解決這些限制，我們提出了一種新方法，它同時利用了 LLM 和 GNN 的優點，允許處理任何格式和類型節點和邊緣的圖表資料，而不需要類型資訊或特殊預處理。我們的這個方法採用 LLM 自動摘要和分類不同的資料格式和類型，對齊節點特徵，並使用專門的 GNN 進行目標學習，從而為下游任務取得有效的圖表表徵。理論分析和實驗驗證已證明我們這個方法的有效性。
+
+##### **Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**
+2412.09644v1 by Marcos Da Silveira, Louis Deladiennee, Kheira Acem, Oona Freudenthal
+
+Human health is increasingly threatened by exposure to hazardous substances,
+particularly persistent and toxic chemicals. The link between these substances,
+often encountered in complex mixtures, and various diseases are demonstrated in
+scientific studies. However, this information is scattered across several
+sources and hardly accessible by humans and machines. This paper evaluates
+current practices for publishing/accessing information on hazardous chemicals
+and proposes a novel platform designed to facilitate retrieval of critical
+chemical data in urgent situations. The platform aggregates information from
+multiple sources and organizes it into a structured knowledge graph. Users can
+access this information through a visual interface such as Neo4J Bloom and
+dashboards, or via natural language queries using a Chatbot. Our findings
+demonstrate a significant reduction in the time and effort required to access
+vital chemical information when datasets follow FAIR principles. Furthermore,
+we discuss the lessons learned from the development and implementation of this
+platform and provide recommendations for data owners and publishers to enhance
+data reuse and interoperability. This work aims to improve the accessibility
+and usability of chemical information by healthcare professionals, thereby
+supporting better health outcomes and informed decision-making in the face of
+patients exposed to chemical intoxication risks.
+
+摘要：人類健康越來越受到接觸有害物質的威脅，尤其是持久性和有毒的化學物質。科學研究已證明這些物質（通常存在於複雜的混合物中）與各種疾病之間的關聯。然而，這些資訊分散在多個來源中，人類和機器都很難取得。本文評估了當前發布/取得有關有害化學物質資訊的慣例，並提出一個新穎的平台，旨在促進在緊急情況下取得關鍵化學資料。此平台匯集來自多個來源的資訊，並將其組織成結構化的知識圖譜。使用者可以透過視覺化介面（例如 Neo4J Bloom 和儀表板）或使用聊天機器人的自然語言查詢來取得這些資訊。我們的研究結果表明，當資料集遵循 FAIR 原則時，取得重要化學資訊所需的時間和精力會大幅減少。此外，我們討論從此平台的開發和實作中學到的經驗教訓，並為資料擁有者和發布者提供建議，以增強資料再利用和互操作性。這項工作旨在改善醫療保健專業人員取得和使用化學資訊的方式，從而支持更好的健康結果，並在面對接觸化學中毒風險的患者時做出明智的決策。
 
 ##### **Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**
 2412.07618v1 by Xiaqiang Tang, Jian Li, Nan Du, Sihong Xie
@@ -2510,93 +2610,4 @@ evaluated our framework under different news-related datasets for news category
 classification, with promising experimental results.
 
 摘要：大型語言模型 (LLM) 近來在廣泛的應用中備受關注。在透過大量資料集進行預訓練期間，此類模型會隱含地將訓練資料集的事實知識記憶在其隱藏參數中。然而，隱含在參數中的知識通常會因為缺乏常識推理而導致下游應用無法有效使用。在本文中，我們介紹了一個通用架構，允許在 LLM 的協助下建立知識庫，專門用於處理網路新聞。此架構將基於規則的新聞資訊萃取器 (NewsIE) 套用到新聞項目，以萃取其關係元組（稱為知識庫），然後將其與 LLM 取得的新聞項目的隱含知識事實進行圖形卷積，以進行分類。它包含兩個輕量級元件：1) NewsIE：用於萃取每個新聞項目的結構化資訊，以關係元組的形式呈現；2) BERTGraph：用於將 NewsIE 萃取的關係元組與隱含知識事實進行圖形卷積。我們已在不同的與新聞相關的資料集下評估我們的架構，用於新聞類別分類，並獲得有希望的實驗結果。
-
-##### **Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion**
-2411.08165v1 by Muzhi Li, Cehao Yang, Chengjin Xu, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King
-
-The Knowledge Graph Completion~(KGC) task aims to infer the missing entity
-from an incomplete triple. Existing embedding-based methods rely solely on
-triples in the KG, which is vulnerable to specious relation patterns and
-long-tail entities. On the other hand, text-based methods struggle with the
-semantic gap between KG triples and natural language. Apart from triples,
-entity contexts (e.g., labels, descriptions, aliases) also play a significant
-role in augmenting KGs. To address these limitations, we propose KGR3, a
-context-enriched framework for KGC. KGR3 is composed of three modules. Firstly,
-the Retrieval module gathers supporting triples from the KG, collects plausible
-candidate answers from a base embedding model, and retrieves context for each
-related entity. Then, the Reasoning module employs a large language model to
-generate potential answers for each query triple. Finally, the Re-ranking
-module combines candidate answers from the two modules mentioned above, and
-fine-tunes an LLM to provide the best answer. Extensive experiments on widely
-used datasets demonstrate that KGR3 consistently improves various KGC methods.
-Specifically, the best variant of KGR3 achieves absolute Hits@1 improvements of
-12.3% and 5.6% on the FB15k237 and WN18RR datasets.
-
-摘要：知識圖譜完成功能 (KGC) 的任務旨在從不完整的 3 元組中推斷出遺失的實體。現有的嵌入式方法僅依賴於 KG 中的 3 元組，這容易受到虛假關係模式和長尾實體的影響。另一方面，基於文本的方法難以處理 KG 3 元組和自然語言之間的語義差距。除了 3 元組之外，實體上下文（例如標籤、描述、別名）在擴充 KG 中也扮演著重要的角色。為了解決這些限制，我們提出了 KGR3，一個用於 KGC 的上下文豐富架構。KGR3 由三個模組組成。首先，檢索模組從 KG 中收集支援 3 元組，從基礎嵌入模型中收集可能的候選答案，並為每個相關實體檢索上下文。接著，推理模組採用大型語言模型為每個查詢 3 元組生成潛在答案。最後，重新排名模組將上述兩個模組的候選答案結合起來，並微調 LLM 以提供最佳答案。在廣泛使用的資料集上進行的廣泛實驗證明，KGR3 持續改進各種 KGC 方法。具體來說，KGR3 的最佳變體在 FB15k237 和 WN18RR 資料集上分別實現了 12.3% 和 5.6% 的絕對 Hits@1 改進。
-
-##### **Language Models as Causal Effect Generators**
-2411.08019v1 by Lucius E. J. Bynum, Kyunghyun Cho
-
-We present a framework for large language model (LLM) based data generation
-with controllable causal structure. In particular, we define a procedure for
-turning any language model and any directed acyclic graph (DAG) into a
-sequence-driven structural causal model (SD-SCM). Broadly speaking, an SD-SCM
-is a causal model with user-defined structure and LLM-defined structural
-equations. We characterize how an SD-SCM allows sampling from observational,
-interventional, and counterfactual distributions according to the desired
-causal structure. We then leverage this procedure to propose a new type of
-benchmark for causal inference methods, generating individual-level
-counterfactual data without needing to manually specify functional
-relationships between variables. We create an example benchmark consisting of
-thousands of datasets, and test a suite of popular estimation methods on these
-datasets for average, conditional average, and individual treatment effect
-estimation, both with and without hidden confounding. Apart from generating
-data, the same procedure also allows us to test for the presence of a causal
-effect that might be encoded in an LLM. This procedure can underpin auditing
-LLMs for misinformation, discrimination, or otherwise undesirable behavior. We
-believe SD-SCMs can serve as a useful tool in any application that would
-benefit from sequential data with controllable causal structure.
-
-摘要：<paragraph>我們提出了一個基於大型語言模型 (LLM) 的資料生成架構，具有可控制的因果結構。具體來說，我們定義了一個程序，將任何語言模型和任何有向無環圖 (DAG) 轉換成一個序列驅動的結構因果模型 (SD-SCM)。廣義來說，SD-SCM 是一個因果模型，具有使用者定義的結構和 LLM 定義的結構方程式。我們描述了 SD-SCM 如何根據所需的因果結構，允許從觀測、介入和反事實分佈中進行抽樣。然後，我們利用這個程序提出了一種類型的因果推論方法基準，生成個體層級的反事實資料，而無需手動指定變數之間的功能關係。我們建立了一個範例基準，包含數千個資料集，並在這些資料集上測試了一系列流行的估計方法，用於平均值、條件平均值和個別處理效果估計，無論是有或沒有隱藏混淆。除了生成資料之外，相同的程序也允許我們測試 LLM 中可能編碼的因果效應的存在。此程序可以支持審核 LLM 的錯誤資訊、歧視或其他不良行為。我們相信 SD-SCM 可以作為任何應用程式的有用工具，這些應用程式可以從具有可控制因果結構的序列資料中受益。</paragraph>
-
-##### **From General to Specific: Utilizing General Hallucination to Benchmark Specific Role-Playing Agents**
-2411.07965v2 by Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi Sun, Jing Ma
-
-The advanced role-playing capabilities of Large Language Models (LLMs) have
-paved the way for developing Role-Playing Agents (RPAs). However, existing
-benchmarks in this domain, such as HPD and SocialBench face limitations like
-poor generalizability, implicit and inaccurate judgments, and the risk of model
-forgetting. To address the above issues, we propose an automatic, scalable, and
-generalizable paradigm. Specifically, we construct a benchmark, SHARP, by
-extracting relations from a general knowledge graph and leveraging the inherent
-hallucination properties of RPAs to simulate interactions across roles. We
-employ ChatGPT for stance detection and define relationship hallucination along
-with three related metrics based on stance transfer. Extensive experiments
-validate the effectiveness and stability of our paradigm. Our findings further
-explore the factors influencing these metrics and discuss the trade-off between
-blind loyalty to relationships and adherence to facts in RPAs.
-
-摘要：大型語言模型 (LLM) 的進階角色扮演能力已為角色扮演代理 (RPA) 的開發鋪平道路。然而，此領域現有的基準，例如 HPD 和 SocialBench，面臨著概括性差、判斷隱含且不準確，以及模型遺忘的風險等限制。為了解決上述問題，我們提出了一個自動化、可擴充且可概括的範例。具體來說，我們通過從一般知識圖譜中提取關係，並利用 RPA 固有的幻覺特性來模擬跨角色互動，構建了一個基準 SHARP。我們採用 ChatGPT 進行立場檢測，並定義關係幻覺以及基於立場轉移的三個相關指標。廣泛的實驗驗證了我們範例的有效性和穩定性。我們的發現進一步探討了影響這些指標的因素，並討論了 RPA 中對關係的盲目忠誠度與對事實的堅持之間的權衡。
-
-##### **Chain Association-based Attacking and Shielding Natural Language Processing Systems**
-2411.07843v1 by Jiacheng Huang, Long Chen
-
-Association as a gift enables people do not have to mention something in
-completely straightforward words and allows others to understand what they
-intend to refer to. In this paper, we propose a chain association-based
-adversarial attack against natural language processing systems, utilizing the
-comprehension gap between humans and machines. We first generate a chain
-association graph for Chinese characters based on the association paradigm for
-building search space of potential adversarial examples. Then, we introduce an
-discrete particle swarm optimization algorithm to search for the optimal
-adversarial examples. We conduct comprehensive experiments and show that
-advanced natural language processing models and applications, including large
-language models, are vulnerable to our attack, while humans appear good at
-understanding the perturbed text. We also explore two methods, including
-adversarial training and associative graph-based recovery, to shield systems
-from chain association-based attack. Since a few examples that use some
-derogatory terms, this paper contains materials that may be offensive or
-upsetting to some people.
-
-摘要：聯想作為一種禮物，使人們不必用完全直白的話語提及某事，並讓其他人明白他們想提的是什麼。在本文中，我們提出了一種基於鏈式聯想的對抗性攻擊，用於自然語言處理系統，利用了人類與機器之間的理解差距。我們首先基於聯想範例為漢字生成一個鏈式聯想圖，用於構建潛在對抗性範例的搜索空間。然後，我們引入一個離散粒子群優化演算法來搜索最佳的對抗性範例。我們進行了全面的實驗，並表明先進的自然語言處理模型和應用程式，包括大型語言模型，都容易受到我們的攻擊，而人類似乎很擅長理解擾動後的文字。我們還探索了兩種方法，包括對抗性訓練和基於聯想圖的恢復，以保護系統免受基於鏈式聯想的攻擊。由於一些範例使用了某些貶義詞，因此本文包含可能冒犯或令某些人感到不安的材料。
 

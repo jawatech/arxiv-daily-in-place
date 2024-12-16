@@ -6,7 +6,7 @@
 |**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278v1](http://arxiv.org/abs/2412.09278v1)|[link](https://github.com/shawnhuang497/medplib)|
 |**2024-12-12**|**CSSDH: An Ontology for Social Determinants of Health to Operational Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2412.09223v1](http://arxiv.org/abs/2412.09223v1)|null|
 |**2024-12-12**|**Understanding Opportunities and Risks of Synthetic Relationships: Leveraging the Power of Longitudinal Research with Customised AI Tools**|Alfio Ventura et.al.|[2412.09086v1](http://arxiv.org/abs/2412.09086v1)|null|
-|**2024-12-12**|**Radiology Report Generation via Multi-objective Preference Optimization**|Ting Xiao et.al.|[2412.08901v1](http://arxiv.org/abs/2412.08901v1)|null|
+|**2024-12-12**|**Radiology Report Generation via Multi-objective Preference Optimization**|Ting Xiao et.al.|[2412.08901v2](http://arxiv.org/abs/2412.08901v2)|null|
 |**2024-12-12**|**AI-assisted Knowledge Discovery in Biomedical Literature to Support Decision-making in Precision Oncology**|Ting He et.al.|[2412.08900v1](http://arxiv.org/abs/2412.08900v1)|null|
 |**2024-12-12**|**Towards modeling evolving longitudinal health trajectories with a transformer-based deep learning model**|Hans Moen et.al.|[2412.08873v1](http://arxiv.org/abs/2412.08873v1)|null|
 |**2024-12-11**|**Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions**|Jiarui Zhang et.al.|[2412.08737v1](http://arxiv.org/abs/2412.08737v1)|null|
@@ -200,7 +200,7 @@ behavioural and self-reported data.
 摘要：本立場文件探討縱向行為研究與客製化 AI 工具的優點，用於探討合成關係的機會與風險。合成關係定義為「人類與 AI 工具之間持續的關聯，彼此互動，其中 AI 工具會影響人類的想法、感受和/或行為。」（Starke 等人，2024 年）。這些關係有可能改善健康、教育和職場，但它們也帶來微妙的操縱以及隱私和自主權的隱憂。為了利用合成關係的機會並降低其風險，我們概述了一種方法論方法，補充現有的發現。我們提出使用自組裝 AI 代理的縱向研究設計，使我們能夠整合詳細的行為和自我報告資料。
 
 ##### **Radiology Report Generation via Multi-objective Preference Optimization**
-2412.08901v1 by Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai
+2412.08901v2 by Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai
 
 Automatic Radiology Report Generation (RRG) is an important topic for
 alleviating the substantial workload of radiologists. Existing RRG approaches
@@ -215,7 +215,7 @@ can be formulated by multi-dimensional reward functions and optimized by
 multi-objective reinforcement learning (RL). Specifically, we use a preference
 vector to represent the weight of preferences and use it as a condition for the
 RRG model. Then, a linearly weighed reward is obtained via a dot product
-between the preference vector and multi-dimensional reward.Next,the RRG model
+between the preference vector and multi-dimensional reward. Next,the RRG model
 is optimized to align with the preference vector by optimizing such a reward
 via RL. In the training stage,we randomly sample diverse preference vectors
 from the preference space and align the model by optimizing the weighted
@@ -226,7 +226,7 @@ public datasets show the proposed method can generate reports that cater to
 different preferences in a single model and achieve state-of-the-art
 performance.
 
-摘要：自動放射科報告生成 (RRG) 是減輕放射科醫師大量工作負擔的重要課題。現有的 RRG 方法仰賴基於不同架構或額外知識注入的監督式回歸，而產生的報告可能無法最佳地符合放射科醫師的偏好。特別是，由於放射科醫師的偏好本質上是異質且多面向的，例如，有些人可能會優先考慮報告流暢性，而另一些人則強調臨床準確性。為了解決這個問題，我們提出一個新的 RRG 方法，透過多目標偏好最佳化 (MPO) 來調整預訓練的 RRG 模型，以符合多個人偏好，這可以用多維度獎勵函數來制定，並透過多目標強化學習 (RL) 來最佳化。具體來說，我們使用偏好向量來表示偏好的權重，並將其用作 RRG 模型的條件。然後，透過偏好向量與多維度獎勵之間的點積，取得線性加權獎勵。接下來，透過 RL 最佳化此類獎勵，將 RRG 模型最佳化，以符合偏好向量。在訓練階段，我們從偏好空間中隨機取樣多樣化的偏好向量，並透過最佳化加權的多目標獎勵來調整模型，這會在整個偏好空間中產生最佳策略。在推理時，我們的模型可以在不進一步微調的情況下，產生符合特定偏好的報告。在兩個公開資料集上的廣泛實驗顯示，所提出的方法可以在單一模型中產生迎合不同偏好的報告，並達到最先進的效能。
+摘要：自動放射報告生成 (RRG) 是減輕放射科醫師大量工作負擔的重要議題。現有的 RRG 方法仰賴基於不同架構或額外知識注入的監督式回歸，而產生的報告可能無法最佳地符合放射科醫師的偏好。特別是，由於放射科醫師的偏好本質上是異質且多面向的，例如，有些人可能優先考慮報告的流暢度，而另一些人則強調臨床準確性。為了解決這個問題，我們透過多目標偏好最佳化 (MPO) 提出一個新的 RRG 方法，以將預先訓練的 RRG 模型與多個人類偏好對齊，這可以用多維獎勵函數來制定，並透過多目標強化學習 (RL) 來最佳化。具體來說，我們使用偏好向量來表示偏好的權重，並將其用作 RRG 模型的條件。然後，透過偏好向量和多維獎勵之間的點積，獲得線性加權獎勵。接下來，透過 RL 最佳化此類獎勵，最佳化 RRG 模型以與偏好向量對齊。在訓練階段，我們從偏好空間中隨機取樣不同的偏好向量，並透過最佳化加權的多目標獎勵來對齊模型，這會產生整個偏好空間的最佳策略。在推論時，我們的模型可以生成與特定偏好對齊的報告，而無需進一步微調。在兩個公開資料集上的廣泛實驗顯示，所提出的方法可以在單一模型中生成迎合不同偏好的報告，並達到最先進的效能。
 
 ##### **AI-assisted Knowledge Discovery in Biomedical Literature to Support Decision-making in Precision Oncology**
 2412.08900v1 by Ting He, Kory Kreimeyer, Mimi Najjar, Jonathan Spiker, Maria Fatteh, Valsamo Anagnostou, Taxiarchis Botsis

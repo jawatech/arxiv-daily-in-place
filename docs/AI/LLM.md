@@ -57,7 +57,7 @@
 |**2024-12-12**|**First Train to Generate, then Generate to Train: UnitedSynT5 for Few-Shot NLI**|Sourav Banerjee et.al.|[2412.09263v1](http://arxiv.org/abs/2412.09263v1)|null|
 |**2024-12-12**|**Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs**|Asli Umay Ozturk et.al.|[2412.09247v1](http://arxiv.org/abs/2412.09247v1)|[link](https://github.com/auotomaton/satiretr)|
 |**2024-12-12**|**VLMs meet UDA: Boosting Transferability of Open Vocabulary Segmentation with Unsupervised Domain Adaptation**|Roberto Alcover-Couso et.al.|[2412.09240v1](http://arxiv.org/abs/2412.09240v1)|null|
-|**2024-12-12**|**LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**|Yijun Liu et.al.|[2412.09237v1](http://arxiv.org/abs/2412.09237v1)|null|
+|**2024-12-12**|**LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**|Yijun Liu et.al.|[2412.09237v2](http://arxiv.org/abs/2412.09237v2)|null|
 |**2024-12-12**|**Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**|Sai Bhargav Rongali et.al.|[2412.09230v1](http://arxiv.org/abs/2412.09230v1)|null|
 |**2024-12-12**|**CSSDH: An Ontology for Social Determinants of Health to Operational Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2412.09223v1](http://arxiv.org/abs/2412.09223v1)|null|
 |**2024-12-12**|**CleanComedy: Creating Friendly Humor through Generative Techniques**|Dmitry Vikhorev et.al.|[2412.09203v1](http://arxiv.org/abs/2412.09203v1)|null|
@@ -80,7 +80,7 @@
 |**2024-12-12**|**Speech-Forensics: Towards Comprehensive Synthetic Speech Dataset Establishment and Analysis**|Zhoulin Ji et.al.|[2412.09032v1](http://arxiv.org/abs/2412.09032v1)|null|
 |**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030v1](http://arxiv.org/abs/2412.09030v1)|[link](https://github.com/TommyDzh/RingFormer)|
 |**2024-12-12**|**Shiksha: A Technical Domain focused Translation Dataset and Model for Indian Languages**|Advait Joglekar et.al.|[2412.09025v1](http://arxiv.org/abs/2412.09025v1)|null|
-|**2024-12-12**|**Improvement in Sign Language Translation Using Text CTC Alignment**|Sihan Tan et.al.|[2412.09014v1](http://arxiv.org/abs/2412.09014v1)|[link](https://github.com/Claire874/TextCTC-SLT)|
+|**2024-12-12**|**Improvement in Sign Language Translation Using Text CTC Alignment**|Sihan Tan et.al.|[2412.09014v2](http://arxiv.org/abs/2412.09014v2)|[link](https://github.com/Claire874/TextCTC-SLT)|
 |**2024-12-12**|**What Makes Cryptic Crosswords Challenging for LLMs?**|Abdelrahman Sadallah et.al.|[2412.09012v1](http://arxiv.org/abs/2412.09012v1)|[link](https://github.com/bodasadallah/decrypting-crosswords)|
 |**2024-12-12**|**Assessing the Robustness of Retrieval-Augmented Generation Systems in K-12 Educational Question Answering with Knowledge Discrepancies**|Tianshi Zheng et.al.|[2412.08985v1](http://arxiv.org/abs/2412.08985v1)|null|
 |**2024-12-12**|**Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?**|Yifan Zhang et.al.|[2412.08973v1](http://arxiv.org/abs/2412.08973v1)|null|
@@ -96,7 +96,7 @@
 |**2024-12-12**|**From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning**|Pusen Dong et.al.|[2412.08920v1](http://arxiv.org/abs/2412.08920v1)|null|
 |**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911v1](http://arxiv.org/abs/2412.08911v1)|null|
 |**2024-12-12**|**Phi-4 Technical Report**|Marah Abdin et.al.|[2412.08905v1](http://arxiv.org/abs/2412.08905v1)|null|
-|**2024-12-12**|**Radiology Report Generation via Multi-objective Preference Optimization**|Ting Xiao et.al.|[2412.08901v1](http://arxiv.org/abs/2412.08901v1)|null|
+|**2024-12-12**|**Radiology Report Generation via Multi-objective Preference Optimization**|Ting Xiao et.al.|[2412.08901v2](http://arxiv.org/abs/2412.08901v2)|null|
 |**2024-12-12**|**AI-assisted Knowledge Discovery in Biomedical Literature to Support Decision-making in Precision Oncology**|Ting He et.al.|[2412.08900v1](http://arxiv.org/abs/2412.08900v1)|null|
 |**2024-12-12**|**Neural Interactive Proofs**|Lewis Hammond et.al.|[2412.08897v1](http://arxiv.org/abs/2412.08897v1)|null|
 |**2024-12-12**|**SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization**|Kwangryeol Park et.al.|[2412.08894v1](http://arxiv.org/abs/2412.08894v1)|[link](https://github.com/eai-lab/SMMF)|
@@ -1392,7 +1392,7 @@ domains without requiring shared categories.
 本文提出透過將視覺語言推理與無監督域適應 (UDA) 的關鍵策略整合，來提升不同領域的分割精度。首先，我們透過多尺度脈絡資料、穩健文字嵌入與提示擴充，以及在我們提出的基礎保留開放詞彙語義分割 (FROVSS) 框架中進行逐層微調，來提升 VLM 的細緻分割能力。接著，我們透過採用蒸餾法來穩定訓練，以及跨域混合取樣來提升適應性，同時不損害泛化能力，將這些增強功能整合到 UDA 框架中。產生的 UDA-FROVSS 框架是第一個 UDA 方法，可以在不需共享類別的情況下，有效地跨域適應。
 
 ##### **LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**
-2412.09237v1 by Yijun Liu, Wu Liu, Xiaoyan Gu, Yong Rui, Xiaodong He, Yongdong Zhang
+2412.09237v2 by Yijun Liu, Wu Liu, Xiaoyan Gu, Yong Rui, Xiaodong He, Yongdong Zhang
 
 The believable simulation of multi-user behavior is crucial for understanding
 complex social systems. Recently, large language models (LLMs)-based AI agents
@@ -1415,7 +1415,7 @@ LLMs-based multi-agent system, more different and valuable phenomena are
 exhibited, such as herd behavior, which demonstrates the potential of LMAgent
 in credible large-scale social behavior simulations.
 
-摘要：多用戶行為的可信模擬對於理解複雜的社會系統至關重要。最近，大型語言模型 (LLM) 為基礎的人工智慧代理已取得顯著進展，讓它們能夠在各種任務中實現類人智慧。然而，真實的人類社會通常是動態且複雜的，涉及許多從事多模態互動的個人。在本文中，我們以電子商務場景為例，展示了 LMAgent，一個基於多模態 LLM 的非常大規模且多模態的代理社會。在 LMAgent 中，除了可以自由地與朋友聊天之外，代理還可以自主瀏覽、購買和評論產品，甚至進行直播電子商務。為了模擬這個複雜的系統，我們引入了一種自洽提示機制來擴充代理的多模態能力，從而顯著改善了現有多代理系統的決策制定性能。此外，我們提出了一種結合小世界模型的快速記憶機制來提高系統效率，這支持在一個社會中模擬 10,000 多個代理。代理行為的實驗表明，這些代理在行為指標上達到了與人類相當的表現。此外，與現有的基於 LLM 的多代理系統相比，展示了更多不同且有價值的現象，例如從眾行為，這證明了 LMAgent 在可信的大規模社會行為模擬中的潛力。
+摘要：多用戶行為的可信模擬對於理解複雜的社會系統至關重要。最近，基於大型語言模型 (LLM) 的 AI 代理取得了顯著進展，使他們能夠在各種任務中實現類人的智慧。然而，真實的人類社會通常是動態且複雜的，涉及許多從事多模式互動的個人。在本文中，以電子商務場景為例，我們展示了 LMAgent，這是一個基於多模式 LLM 的超大型多模式代理社會。在 LMAgent 中，代理除了可以自由地與朋友聊天之外，還可以自主瀏覽、購買和評論產品，甚至執行直播電子商務。為了模擬這個複雜的系統，我們引入了一個自洽提示機制來擴充代理的多模式能力，從而顯著提高了現有多代理系統的決策制定性能。此外，我們提出了一種結合小世界模型的快速記憶機制來提高系統效率，這支持在一個社會中模擬 10,000 多個代理。對代理行為的實驗表明，這些代理在行為指標上達到了與人類相當的表現。此外，與現有的基於 LLM 的多代理系統相比，表現出更多不同且有價值的現象，例如從眾行為，這證明了 LMAgent 在可信的大規模社會行為模擬中的潛力。
 
 ##### **Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**
 2412.09230v1 by Sai Bhargav Rongali, Mohamad Hassan N C, Ankit Jha, Neha Bhargava, Saurabh Prasad, Biplab Banerjee
@@ -1938,7 +1938,7 @@ release our model and dataset via this link: https://huggingface.co/SPRINGLab.
 摘要：神經機器翻譯 (NMT) 模型通常在對科學、技術和教育領域接觸有限的資料集上進行訓練。因此，翻譯模型通常難以應付涉及科學理解或技術術語的任務。對於資源較少的印度語言，其表現更為糟糕。找到特別針對這些領域的翻譯資料集是一個艱難的挑戰。在本文中，我們通過建立一個多語言平行語料庫來解決這個問題，其中包含超過 280 萬列高品質的英印和印印翻譯對，涵蓋 8 種印度語言。我們通過對 NPTEL 視頻課程的人工翻譯轉錄進行雙語文本挖掘來實現這一點。我們還使用這個語料庫對 NMT 模型進行微調和評估，並在領域內任務中超越所有其他公開可用的模型。我們還展示了通過在 Flores+ 基準上平均提高這些印度語言的 BLEU 超過 2 個點來概括到領域外翻譯任務的潛力。我們很榮幸通過以下連結發布我們的模型和資料集：https://huggingface.co/SPRINGLab。
 
 ##### **Improvement in Sign Language Translation Using Text CTC Alignment**
-2412.09014v1 by Sihan Tan, Taro Miyazaki, Nabeela Khan, Kazuhiro Nakadai
+2412.09014v2 by Sihan Tan, Taro Miyazaki, Nabeela Khan, Kazuhiro Nakadai
 
 Current sign language translation (SLT) approaches often rely on gloss-based
 supervision with Connectionist Temporal Classification (CTC), limiting their
@@ -1954,7 +1954,7 @@ results comparable to state-of-the-art and outperforms the pure-attention
 baseline. Additionally, this work opens a new door for future research into
 gloss-free SLT using text-based CTC alignment.
 
-摘要：當前的符號語言翻譯 (SLT) 方法通常依賴於基於語彙的監督，並使用連接主義時序分類 (CTC)，這限制了它們處理符號語言影片和口語文字之間非單調對齊的能力。在這項工作中，我們提出了一種結合聯合 CTC/注意力和遷移學習的新方法。聯合 CTC/注意力引入了階層編碼，並在解碼過程中將 CTC 與注意力機制整合，有效管理單調和非單調對齊。同時，遷移學習有助於彌合 SLT 中視覺和語言之間的模態差距。在兩個廣泛採用的基準 RWTH-PHOENIX-Weather 2014 T 和 CSL-Daily 上的實驗結果顯示，我們的模型達到了與最先進技術相當的結果，並優於純注意力基線。此外，這項工作為未來使用基於文字的 CTC 對齊的無語彙 SLT 研究開啟了一扇新門。
+摘要：現有的手語翻譯 (SLT) 方法通常依賴於基於符號的監督與連接時間分類 (CTC)，這限制了它們處理手語影片與口語文字之間非單調對齊的能力。在這項工作中，我們提出了一種結合聯合 CTC/注意力與遷移學習的新方法。聯合 CTC/注意力引入了階層編碼，並在解碼過程中將 CTC 與注意力機制整合起來，有效地管理單調和非單調對齊。同時，遷移學習有助於彌補 SLT 中視覺與語言之間的模態差距。在兩個廣泛採用的基準 RWTH-PHOENIX-Weather 2014 T 和 CSL-Daily 上的實驗結果顯示，我們的這項方法達到了與現有技術相當的結果，並且優於純注意力基準。此外，這項工作為未來使用基於文字的 CTC 對齊進行無符號 SLT 研究開啟了一扇新門。
 
 ##### **What Makes Cryptic Crosswords Challenging for LLMs?**
 2412.09012v1 by Abdelrahman Sadallah, Daria Kotova, Ekaterina Kochmar
@@ -2304,7 +2304,7 @@ post-training scheme.
 摘要：我們展示 phi-4，這是一個 140 億個參數的語言模型，其開發時採用了以資料品質為核心的訓練配方。與大多數語言模型不同，這些模型的預訓練主要基於自然資料來源，例如網路內容或程式碼，phi-4 在整個訓練過程中策略性地納入了合成資料。儘管 Phi 家族中的先前模型在很大程度上精煉了教師模型（特別是 GPT-4）的能力，但 phi-4 在以 STEM 為重點的 QA 能力方面顯著超越了其教師模型，這證明了我們的資料生成和訓練後技術超越了精煉。儘管對 phi-3 架構進行了最小的變更，但由於改進的資料、訓練課程和訓練後方案的創新，phi-4 相對於其大小（特別是在以推理為重點的基準測試中）達到了強勁的效能。
 
 ##### **Radiology Report Generation via Multi-objective Preference Optimization**
-2412.08901v1 by Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai
+2412.08901v2 by Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai
 
 Automatic Radiology Report Generation (RRG) is an important topic for
 alleviating the substantial workload of radiologists. Existing RRG approaches
@@ -2319,7 +2319,7 @@ can be formulated by multi-dimensional reward functions and optimized by
 multi-objective reinforcement learning (RL). Specifically, we use a preference
 vector to represent the weight of preferences and use it as a condition for the
 RRG model. Then, a linearly weighed reward is obtained via a dot product
-between the preference vector and multi-dimensional reward.Next,the RRG model
+between the preference vector and multi-dimensional reward. Next,the RRG model
 is optimized to align with the preference vector by optimizing such a reward
 via RL. In the training stage,we randomly sample diverse preference vectors
 from the preference space and align the model by optimizing the weighted
@@ -2330,7 +2330,7 @@ public datasets show the proposed method can generate reports that cater to
 different preferences in a single model and achieve state-of-the-art
 performance.
 
-摘要：自動放射科報告生成 (RRG) 是減輕放射科醫師大量工作負擔的重要課題。現有的 RRG 方法仰賴基於不同架構或額外知識注入的監督式回歸，而產生的報告可能無法最佳地符合放射科醫師的偏好。特別是，由於放射科醫師的偏好本質上是異質且多面向的，例如，有些人可能會優先考慮報告流暢性，而另一些人則強調臨床準確性。為了解決這個問題，我們提出一個新的 RRG 方法，透過多目標偏好最佳化 (MPO) 來調整預訓練的 RRG 模型，以符合多個人偏好，這可以用多維度獎勵函數來制定，並透過多目標強化學習 (RL) 來最佳化。具體來說，我們使用偏好向量來表示偏好的權重，並將其用作 RRG 模型的條件。然後，透過偏好向量與多維度獎勵之間的點積，取得線性加權獎勵。接下來，透過 RL 最佳化此類獎勵，將 RRG 模型最佳化，以符合偏好向量。在訓練階段，我們從偏好空間中隨機取樣多樣化的偏好向量，並透過最佳化加權的多目標獎勵來調整模型，這會在整個偏好空間中產生最佳策略。在推理時，我們的模型可以在不進一步微調的情況下，產生符合特定偏好的報告。在兩個公開資料集上的廣泛實驗顯示，所提出的方法可以在單一模型中產生迎合不同偏好的報告，並達到最先進的效能。
+摘要：自動放射報告生成 (RRG) 是減輕放射科醫師大量工作負擔的重要議題。現有的 RRG 方法仰賴基於不同架構或額外知識注入的監督式回歸，而產生的報告可能無法最佳地符合放射科醫師的偏好。特別是，由於放射科醫師的偏好本質上是異質且多面向的，例如，有些人可能優先考慮報告的流暢度，而另一些人則強調臨床準確性。為了解決這個問題，我們透過多目標偏好最佳化 (MPO) 提出一個新的 RRG 方法，以將預先訓練的 RRG 模型與多個人類偏好對齊，這可以用多維獎勵函數來制定，並透過多目標強化學習 (RL) 來最佳化。具體來說，我們使用偏好向量來表示偏好的權重，並將其用作 RRG 模型的條件。然後，透過偏好向量和多維獎勵之間的點積，獲得線性加權獎勵。接下來，透過 RL 最佳化此類獎勵，最佳化 RRG 模型以與偏好向量對齊。在訓練階段，我們從偏好空間中隨機取樣不同的偏好向量，並透過最佳化加權的多目標獎勵來對齊模型，這會產生整個偏好空間的最佳策略。在推論時，我們的模型可以生成與特定偏好對齊的報告，而無需進一步微調。在兩個公開資料集上的廣泛實驗顯示，所提出的方法可以在單一模型中生成迎合不同偏好的報告，並達到最先進的效能。
 
 ##### **AI-assisted Knowledge Discovery in Biomedical Literature to Support Decision-making in Precision Oncology**
 2412.08900v1 by Ting He, Kory Kreimeyer, Mimi Najjar, Jonathan Spiker, Maria Fatteh, Valsamo Anagnostou, Taxiarchis Botsis

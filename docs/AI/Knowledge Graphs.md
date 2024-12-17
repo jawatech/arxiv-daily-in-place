@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136v1](http://arxiv.org/abs/2412.10136v1)|[link](https://github.com/zehong-wang/tans)|
-|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|null|
+|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|[link](https://github.com/spongeorge/long-context-multihop)|
 |**2024-12-13**|**Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**|Yanxu Mao et.al.|[2412.09922v1](http://arxiv.org/abs/2412.09922v1)|null|
 |**2024-12-12**|**Uncommon Belief in Rationality**|Qi Shi et.al.|[2412.09407v1](http://arxiv.org/abs/2412.09407v1)|null|
 |**2024-12-12**|**Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**|Sai Bhargav Rongali et.al.|[2412.09230v1](http://arxiv.org/abs/2412.09230v1)|null|

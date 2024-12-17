@@ -21,7 +21,7 @@
 |**2024-12-11**|**How to select slices for annotation to train best-performing deep learning segmentation models for cross-sectional medical images?**|Yixin Zhang et.al.|[2412.08081v1](http://arxiv.org/abs/2412.08081v1)|null|
 |**2024-12-11**|**Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning**|Chongyi Zheng et.al.|[2412.08021v1](http://arxiv.org/abs/2412.08021v1)|[link](https://github.com/Princeton-RL/contrastive-successor-features)|
 |**2024-12-10**|**From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**|Mohit Chandra et.al.|[2412.07951v2](http://arxiv.org/abs/2412.07951v2)|null|
-|**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895v1](http://arxiv.org/abs/2412.07895v1)|null|
+|**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895v1](http://arxiv.org/abs/2412.07895v1)|[link](https://github.com/Healthy-AI/inpole)|
 |**2024-12-10**|**Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact**|Yunfan Zhao et.al.|[2412.07880v2](http://arxiv.org/abs/2412.07880v2)|null|
 |**2024-12-10**|**Comparative Analysis of Deep Learning Approaches for Harmful Brain Activity Detection Using EEG**|Shivraj Singh Bhatti et.al.|[2412.07878v1](http://arxiv.org/abs/2412.07878v1)|null|
 |**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|

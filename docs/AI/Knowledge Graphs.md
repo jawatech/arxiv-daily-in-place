@@ -2,15 +2,21 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-17**|**Detecting Emotional Incongruity of Sarcasm by Commonsense Reasoning**|Ziqi Qiu et.al.|[2412.12808v1](http://arxiv.org/abs/2412.12808v1)|null|
+|**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643v1](http://arxiv.org/abs/2412.12643v1)|null|
+|**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612v1](http://arxiv.org/abs/2412.12612v1)|null|
+|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456v1](http://arxiv.org/abs/2412.12456v1)|null|
+|**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v1](http://arxiv.org/abs/2412.12318v1)|null|
 |**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
 |**2024-12-16**|**SE-GCL: An Event-Based Simple and Effective Graph Contrastive Learning for Text Representation**|Tao Meng et.al.|[2412.11652v1](http://arxiv.org/abs/2412.11652v1)|null|
 |**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618v1](http://arxiv.org/abs/2412.11618v1)|null|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499v1](http://arxiv.org/abs/2412.11499v1)|null|
 |**2024-12-16**|**How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**|Abdulrahman Althobaiti et.al.|[2412.11387v1](http://arxiv.org/abs/2412.11387v1)|null|
+|**2024-12-15**|**Embracing Large Language Models in Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2412.12201v1](http://arxiv.org/abs/2412.12201v1)|null|
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026v1](http://arxiv.org/abs/2412.11026v1)|null|
-|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982v1](http://arxiv.org/abs/2412.10982v1)|null|
+|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982v2](http://arxiv.org/abs/2412.10982v2)|null|
 |**2024-12-14**|**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**|Xue Wu et.al.|[2412.10654v1](http://arxiv.org/abs/2412.10654v1)|null|
-|**2024-12-13**|**WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models**|Runsheng "Anson" Huang et.al.|[2412.10582v1](http://arxiv.org/abs/2412.10582v1)|null|
+|**2024-12-13**|**WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models**|Runsheng "Anson" Huang et.al.|[2412.10582v2](http://arxiv.org/abs/2412.10582v2)|null|
 |**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136v1](http://arxiv.org/abs/2412.10136v1)|[link](https://github.com/zehong-wang/tans)|
 |**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|[link](https://github.com/spongeorge/long-context-multihop)|
 |**2024-12-13**|**Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**|Yanxu Mao et.al.|[2412.09922v1](http://arxiv.org/abs/2412.09922v1)|null|
@@ -24,7 +30,8 @@
 |**2024-12-11**|**VEL: A Formally Verified Reasoner for OWL2 EL Profile**|Atalay Mert Ileri et.al.|[2412.08739v1](http://arxiv.org/abs/2412.08739v1)|null|
 |**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v2](http://arxiv.org/abs/2412.08174v2)|null|
-|**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434v1](http://arxiv.org/abs/2412.10434v1)|null|
+|**2024-12-11**|**GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction**|Rongzheng Wang et.al.|[2412.12152v1](http://arxiv.org/abs/2412.12152v1)|null|
+|**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434v1](http://arxiv.org/abs/2412.10434v1)|[link](https://github.com/leonyuancode/stockgql)|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
 |**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v2](http://arxiv.org/abs/2412.08038v2)|null|
 |**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|
@@ -95,15 +102,130 @@
 |**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534v1](http://arxiv.org/abs/2411.13534v1)|[link](https://github.com/chapagaisa/transductive)|
 |**2024-11-20**|**KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning**|Ming Yin et.al.|[2411.12950v2](http://arxiv.org/abs/2411.12950v2)|null|
 |**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671v1](http://arxiv.org/abs/2411.12671v1)|null|
-|**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633v1](http://arxiv.org/abs/2411.12633v1)|null|
-|**2024-11-19**|**Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks**|Hubert Plisiecki et.al.|[2411.12493v2](http://arxiv.org/abs/2411.12493v2)|null|
-|**2024-11-19**|**Neon: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449v2](http://arxiv.org/abs/2411.12449v2)|null|
-|**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479v1](http://arxiv.org/abs/2411.14479v1)|null|
-|**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174v1](http://arxiv.org/abs/2411.12174v1)|null|
-|**2024-11-18**|**Regret-Free Reinforcement Learning for LTL Specifications**|Rupak Majumdar et.al.|[2411.12019v1](http://arxiv.org/abs/2411.12019v1)|null|
-|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714v1](http://arxiv.org/abs/2411.11714v1)|[link](https://github.com/mingchaoqi/skill_transfer)|
 
 #### Abstracts
+##### **Detecting Emotional Incongruity of Sarcasm by Commonsense Reasoning**
+2412.12808v1 by Ziqi Qiu, Jianxing Yu, Yufeng Zhang, Hanjiang Lai, Yanghui Rao, Qinliang Su, Jian Yin
+
+This paper focuses on sarcasm detection, which aims to identify whether given
+statements convey criticism, mockery, or other negative sentiment opposite to
+the literal meaning. To detect sarcasm, humans often require a comprehensive
+understanding of the semantics in the statement and even resort to external
+commonsense to infer the fine-grained incongruity. However, existing methods
+lack commonsense inferential ability when they face complex real-world
+scenarios, leading to unsatisfactory performance. To address this problem, we
+propose a novel framework for sarcasm detection, which conducts incongruity
+reasoning based on commonsense augmentation, called EICR. Concretely, we first
+employ retrieval-augmented large language models to supplement the missing but
+indispensable commonsense background knowledge. To capture complex contextual
+associations, we construct a dependency graph and obtain the optimized topology
+via graph refinement. We further introduce an adaptive reasoning skeleton that
+integrates prior rules to extract sentiment-inconsistent subgraphs explicitly.
+To eliminate the possible spurious relations between words and labels, we
+employ adversarial contrastive learning to enhance the robustness of the
+detector. Experiments conducted on five datasets demonstrate the effectiveness
+of EICR.
+
+摘要：本文重點探討諷刺偵測，旨在辨識給定的陳述是否傳達批評、嘲諷或其他與字面意思相反的負面情緒。為了偵測諷刺，人類通常需要全面了解陳述中的語義，甚至訴諸外部常識來推論細微的不一致。然而，現有方法在面對複雜的現實世界場景時缺乏常識推理能力，導致表現不佳。為了解決這個問題，我們提出了一個新的諷刺偵測架構，該架構基於常識擴充進行不一致推理，稱為 EICR。具體來說，我們首先採用檢索擴充大型語言模型來補充遺失但不可或缺的常識背景知識。為了捕捉複雜的上下文關聯，我們構造了一個依賴圖，並透過圖形優化獲得最佳拓撲。我們進一步引入一個自適應推理架構，整合先驗規則來明確提取情緒不一致的子圖。為了消除詞彙和標籤之間可能的虛假關係，我們採用對抗對比學習來增強檢測器的魯棒性。在五個資料集上進行的實驗證明了 EICR 的有效性。
+
+##### **LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**
+2412.12643v1 by Mufan Xu, Kehai Chen, Xuefeng Bai, Muyun Yang, Tiejun Zhao, Min Zhang
+
+Large language models (LLMs) based on generative pre-trained Transformer have
+achieved remarkable performance on knowledge graph question-answering (KGQA)
+tasks. However, LLMs often produce ungrounded subgraph planning or reasoning
+results in KGQA due to the hallucinatory behavior brought by the generative
+paradigm, which may hinder the advancement of the LLM-based KGQA model. To deal
+with the issue, we propose a novel LLM-based Discriminative Reasoning (LDR)
+method to explicitly model the subgraph retrieval and answer inference process.
+By adopting discriminative strategies, the proposed LDR method not only
+enhances the capability of LLMs to retrieve question-related subgraphs but also
+alleviates the issue of ungrounded reasoning brought by the generative paradigm
+of LLMs. Experimental results show that the proposed approach outperforms
+multiple strong comparison methods, along with achieving state-of-the-art
+performance on two widely used WebQSP and CWQ benchmarks.
+
+摘要：大型語言模型（LLM）基於生成式預訓練 Transformer，在知識圖譜問答（KGQA）任務上已取得顯著的成效。然而，由於生成式範例帶來的幻覺行為，LLM 在 KGQA 中經常產生無根據的子圖規劃或推理結果，這可能會阻礙基於 LLM 的 KGQA 模型的進展。為了解決這個問題，我們提出了一種新穎的基於 LLM 的判別推理（LDR）方法，以明確建模子圖檢索和答案推論過程。通過採用判別策略，所提出的 LLM 方法不僅增強了 LLM 檢索與問題相關的子圖的能力，而且還緩解了 LLM 的生成式範例帶來的無根據推理問題。實驗結果表明，所提出的方法優於多種強大的比較方法，同時在兩個廣泛使用的 WebQSP 和 CWQ 基準測試中取得了最先進的效能。
+
+##### **SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**
+2412.12612v1 by Aman Tiwari, Shiva Krishna Reddy Malay, Vikas Yadav, Masoud Hashemi, Sathwik Tejaswi Madhusudhan
+
+Cypher, the query language for Neo4j graph databases, plays a critical role
+in enabling graph-based analytics and data exploration. While substantial
+research has been dedicated to natural language to SQL query generation
+(Text2SQL), the analogous problem for graph databases referred to as
+Text2Cypher remains underexplored. In this work, we introduce SynthCypher, a
+fully synthetic and automated data generation pipeline designed to address this
+gap. SynthCypher employs a novel LLMSupervised Generation-Verification
+framework, ensuring syntactically and semantically correct Cypher queries
+across diverse domains and query complexities. Using this pipeline, we create
+SynthCypher Dataset, a large-scale benchmark containing 29.8k Text2Cypher
+instances. Fine-tuning open-source large language models (LLMs), including
+LLaMa-3.1- 8B, Mistral-7B, and QWEN-7B, on SynthCypher yields significant
+performance improvements of up to 40% on the Text2Cypher test set and 30% on
+the SPIDER benchmark adapted for graph databases. This work demonstrates that
+high-quality synthetic data can effectively advance the state-of-the-art in
+Text2Cypher tasks.
+
+摘要：Cypher 是 Neo4j 圖形資料庫的查詢語言，在啟用以圖形為基礎的分析和資料探索方面發揮著至關重要的作用。儘管已經投入大量研究將自然語言轉換為 SQL 查詢生成 (Text2SQL)，但稱為 Text2Cypher 的圖形資料庫類比問題仍未得到充分探討。在這項工作中，我們介紹了 SynthCypher，這是一個完全合成且自動化的資料生成管道，旨在解決這個差距。SynthCypher 採用了一種新穎的 LLMSupervised 生成驗證框架，確保了跨越不同領域和查詢複雜性的 Cypher 查詢在語法和語義上正確。使用這個管道，我們創建了 SynthCypher 資料集，這是一個包含 29.8k Text2Cypher 實例的大規模基準。微調開源大型語言模型 (LLM)，包括 SynthCypher 上的 LLaMa-3.1- 8B、Mistral-7B 和 QWEN-7B，在 Text2Cypher 測試集中產生了高達 40% 的顯著性能提升，在適用於圖形資料庫的 SPIDER 基準上提升了 30%。這項工作證明了高品質的合成資料可以有效地推動 Text2Cypher 任務的最新技術。
+
+##### **Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**
+2412.12456v1 by Xunkai Li, Zhengyu Wu, Jiayi Wu, Hanwen Cui, Jishuo Jia, Rong-Hua Li, Guoren Wang
+
+With the increasing prevalence of cross-domain Text-Attributed Graph (TAG)
+Data (e.g., citation networks, recommendation systems, social networks, and
+ai4science), the integration of Graph Neural Networks (GNNs) and Large Language
+Models (LLMs) into a unified Model architecture (e.g., LLM as enhancer, LLM as
+collaborators, LLM as predictor) has emerged as a promising technological
+paradigm. The core of this new graph learning paradigm lies in the synergistic
+combination of GNNs' ability to capture complex structural relationships and
+LLMs' proficiency in understanding informative contexts from the rich textual
+descriptions of graphs. Therefore, we can leverage graph description texts with
+rich semantic context to fundamentally enhance Data quality, thereby improving
+the representational capacity of model-centric approaches in line with
+data-centric machine learning principles. By leveraging the strengths of these
+distinct neural network architectures, this integrated approach addresses a
+wide range of TAG-based Task (e.g., graph learning, graph reasoning, and graph
+question answering), particularly in complex industrial scenarios (e.g.,
+supervised, few-shot, and zero-shot settings). In other words, we can treat
+text as a medium to enable cross-domain generalization of graph learning Model,
+allowing a single graph model to effectively handle the diversity of downstream
+graph-based Task across different data domains. This work serves as a
+foundational reference for researchers and practitioners looking to advance
+graph learning methodologies in the rapidly evolving landscape of LLM. We
+consistently maintain the related open-source materials at
+\url{https://github.com/xkLi-Allen/Awesome-GNN-in-LLMs-Papers}.
+
+摘要：<paragraph>隨著跨領域文本屬性圖 (TAG) 資料（例如引文網路、推薦系統、社交網路和 ai4science）的日益普及，將圖神經網路 (GNN) 和大型語言模型 (LLM) 整合到統一的模型架構（例如，LLM 作為增強器、LLM 作為協作者、LLM 作為預測器）中已成為一種有前途的技術典範。這種新的圖形學習典範的核心在於 GNN 捕捉複雜結構關係的能力與 LLM 從圖形的豐富文字描述中理解資訊豐富背景的熟練度的協同組合。因此，我們可以利用具有豐富語義背景的圖形描述文字，從根本上提升資料品質，從而改善以模型為中心的途徑的表示能力，並符合以資料為中心的機器學習原則。透過利用這些不同的神經網路架構的優點，這種整合方法解決了廣泛的基於 TAG 的任務（例如，圖形學習、圖形推理和圖形問答），特別是在複雜的產業場景（例如，監督式、少樣本和零樣本設定）中。換句話說，我們可以將文字視為一種媒介，以實現圖形學習模型的跨領域泛化，讓單一圖形模型能夠有效地處理不同資料領域中下游基於圖形的任務的多樣性。這項工作作為研究人員和實務工作者的基礎參考，他們希望在 LLM 快速演變的環境中推進圖形學習方法。我們持續在 \url{https://github.com/xkLi-Allen/Awesome-GNN-in-LLMs-Papers} 維護相關的開放原始碼資料。</paragraph>
+
+##### **Graph-Guided Textual Explanation Generation Framework**
+2412.12318v1 by Shuzhou Yuan, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein
+
+Natural language explanations (NLEs) are commonly used to provide plausible
+free-text explanations of a model's reasoning about its predictions. However,
+recent work has questioned the faithfulness of NLEs, as they may not accurately
+reflect the model's internal reasoning process regarding its predicted answer.
+In contrast, highlight explanations -- input fragments identified as critical
+for the model's predictions -- exhibit measurable faithfulness, which has been
+incrementally improved through existing research. Building on this foundation,
+we propose G-Tex, a Graph-Guided Textual Explanation Generation framework
+designed to enhance the faithfulness of NLEs by leveraging highlight
+explanations. Specifically, highlight explanations are extracted as highly
+faithful cues representing the model's reasoning and are subsequently encoded
+through a graph neural network layer, which explicitly guides the NLE
+generation process. This alignment ensures that the generated explanations
+closely reflect the model's underlying reasoning. Experiments on T5 and BART
+using three reasoning datasets show that G-Tex improves NLE faithfulness by up
+to 17.59% compared to baseline methods. Additionally, G-Tex generates NLEs with
+greater semantic and lexical similarity to human-written ones. Human
+evaluations show that G-Tex can decrease redundant content and enhance the
+overall quality of NLEs. As our work introduces a novel method for explicitly
+guiding NLE generation to improve faithfulness, we hope it will serve as a
+stepping stone for addressing additional criteria for NLE and generated text
+overall.
+
+摘要：自然語言解釋 (NLE) 常用於提供模型對其預測的合理解釋。然而，最近的研究質疑 NLE 的忠實度，因為它們可能無法準確反映模型在其預測答案上的內部推理過程。相反，重點解釋——被識別為對模型預測至關重要的輸入片段——表現出可衡量的忠實度，這已通過現有研究逐步得到改進。在此基礎上，我們提出了 G-Tex，一個圖形引導文本解釋生成框架，旨在通過利用重點解釋來增強 NLE 的忠實度。具體來說，重點解釋被提取為代表模型推理的高度忠實線索，然後通過圖神經網路層進行編碼，這明確指導了 NLE 生成過程。這種對齊確保生成的解釋緊密反映模型的底層推理。使用三個推理數據集對 T5 和 BART 進行的實驗表明，與基線方法相比，G-Tex 將 NLE 的忠實度提高了 17.59%。此外，G-Tex 生成的 NLE 與人類編寫的 NLE 在語義和詞彙上具有更高的相似性。人類評估表明，G-Tex 可以減少冗餘內容並提高 NLE 的整體品質。由於我們的研究引入了一種明確指導 NLE 生成的創新方法來提高忠實度，我們希望它將作為解決 NLE 和整體生成文本的附加標準的墊腳石。
+
 ##### **Cost-Effective Label-free Node Classification with LLMs**
 2412.11983v1 by Taiyan Zhang, Renchi Yang, Mingyu Yan, Xiaochun Ye, Dongrui Fan, Yurui Lai
 
@@ -234,6 +356,28 @@ ensuring that they adhere to the regulations of drone operations.
 
 摘要：大型語言模型 (LLM) 透過讓機器人理解並執行自然語言指令，轉變了機器人領域。LLM 的基石優點包括處理基於所提供知識的技術手冊、說明、學術論文和使用者查詢中的文字資料。然而，在沒有安全驗證的情況下，在機器人系統中部署 LLM 生成的程式碼會帶來顯著的風險。本文概述了一個安全層，在執行它以控制模擬環境中的無人機之前，驗證 ChatGPT 生成的程式碼。安全層由一個使用少次學習進行微調的 GPT-4o 模型組成，並由知識圖表提示 (KGP) 支援。我們的做法改善了機器人動作的安全性與合規性，確保它們符合無人機操作法規。
 
+##### **Embracing Large Language Models in Traffic Flow Forecasting**
+2412.12201v1 by Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, Wei Ju, Ming Zhang
+
+Traffic flow forecasting aims to predict future traffic flows based on the
+historical traffic conditions and the road network. It is an important problem
+in intelligent transportation systems, with a plethora of methods been
+proposed. Existing efforts mainly focus on capturing and utilizing
+spatio-temporal dependencies to predict future traffic flows. Though promising,
+they fall short in adapting to test-time environmental changes of traffic
+conditions. To tackle this challenge, we propose to introduce large language
+models (LLMs) to help traffic flow forecasting and design a novel method named
+Large Language Model Enhanced Traffic Flow Predictor (LEAF). LEAF adopts two
+branches, capturing different spatio-temporal relations using graph and
+hypergraph structures respectively. The two branches are first pre-trained
+individually, and during test-time, they yield different predictions. Based on
+these predictions, a large language model is used to select the most likely
+result. Then, a ranking loss is applied as the learning objective to enhance
+the prediction ability of the two branches. Extensive experiments on several
+datasets demonstrate the effectiveness of the proposed LEAF.
+
+摘要：交通流量預測旨在根據歷史交通狀況和道路網路預測未來的交通流量。這是智慧運輸系統中一個重要的問題，已經提出了許多方法。現有努力主要集中在擷取和利用時空依賴性來預測未來的交通流量。儘管有前景，但它們在適應交通狀況的測試時間環境變化方面仍有不足。為了應對這一挑戰，我們建議引入大型語言模型 (LLM) 來幫助交通流量預測，並設計一種名為大型語言模型增強交通流量預測器 (LEAF) 的新方法。LEAF 採用兩個分支，分別使用圖形和超圖形結構擷取不同的時空關係。這兩個分支首先分別進行預訓練，在測試時，它們產生不同的預測。基於這些預測，使用大型語言模型選擇最有可能的結果。然後，將排名損失應用為學習目標，以增強兩個分支的預測能力。在幾個數據集上進行的廣泛實驗證明了所提出的 LEAF 的有效性。
+
 ##### **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**
 2412.11026v1 by Hang Zhang, Zhuoling Li, Jun Liu
 
@@ -269,7 +413,7 @@ SceneLLM in understanding and generating accurate dynamic scene graphs.
 我們的模型在動作基因組 (AG) 基準上取得了最先進的結果，廣泛的實驗顯示了 SceneLLM 在理解和生成準確的動態場景圖方面的有效性。
 
 ##### **MedG-KRP: Medical Graph Knowledge Representation Probing**
-2412.10982v1 by Gabriel R. Rosenbaum, Lavender Yao Jiang, Ivaxi Sheth, Jaden Stryker, Anton Alyakin, Daniel Alexander Alber, Nicolas K. Goff, Young Joon, Kwon, John Markert, Mustafa Nasir-Moin, Jan Moritz Niehues, Karl L. Sangwon, Eunice Yang, Eric Karl Oermann
+2412.10982v2 by Gabriel R. Rosenbaum, Lavender Yao Jiang, Ivaxi Sheth, Jaden Stryker, Anton Alyakin, Daniel Alexander Alber, Nicolas K. Goff, Young Joon Fred Kwon, John Markert, Mustafa Nasir-Moin, Jan Moritz Niehues, Karl L. Sangwon, Eunice Yang, Eric Karl Oermann
 
 Large language models (LLMs) have recently emerged as powerful tools, finding
 many medical applications. LLMs' ability to coalesce vast amounts of
@@ -291,7 +435,7 @@ the medical model. Our work provides a means of visualizing the medical
 reasoning pathways of LLMs so they can be implemented in clinical settings
 safely and effectively.
 
-摘要：大型語言模型 (LLM) 近期已成為強大的工具，在許多醫療應用中發揮作用。LLM 能夠從許多來源彙整大量資訊以產生回應（類似人類專家的流程），因此許多人看到將 LLM 部署於臨床用途的潛力。然而，醫學是一個準確推理至關重要的領域。許多研究人員質疑多重選擇題答題 (MCQA) 評量基準的有效性，而這項評量基準經常被用於測試 LLM。研究人員和臨床醫生都必須對 LLM 的能力有完全的信心，才能將其部署於醫療場景。為了滿足這種理解需求，我們引進一個基於知識圖譜 (KG) 的方法來評估 LLM 的生物醫學推理能力。基本上，我們繪製 LLM 如何連結醫療概念，以便更了解它們的推理方式。我們測試了 GPT-4、Llama3-70b 和 PalmyraMed-70b（一種專業醫療模型）。我們徵求一組醫學生審查總共 60 個 LLM 生成的圖表，並將這些圖表與 BIOS（一個大型生物醫學 KG）進行比較。我們觀察到 GPT-4 在我們的人類審查中表現最佳，但在我們的地面實況比較中表現最差；而醫療模型 PalmyraMed 則相反。我們的研究提供了一種可視化 LLM 醫療推理路徑的方法，以便它們能安全有效地實作於臨床場景。
+摘要：大型語言模型 (LLM) 近期已成為強大的工具，在醫療領域中發現許多應用。LLM 從許多來源匯集大量資訊以產生回應的能力（此過程類似於人類專家的過程），已讓許多人看到將 LLM 部署於臨床用途的潛力。然而，醫學是一個準確推理至關重要的領域。許多研究人員質疑多選題回答 (MCQA) 基準的有效性，而這經常被用於測試 LLM。研究人員和臨床醫生都必須對 LLM 的能力有完全的信心，才能將其部署於醫療環境中。為了滿足這種理解需求，我們引入一個基於知識圖譜 (KG) 的方法來評估 LLM 的生物醫學推理能力。基本上，我們繪製 LLM 如何連結醫療概念，以更好地理解它們的推理方式。我們測試了 GPT-4、Llama3-70b 和 PalmyraMed-70b，這是一個專門的醫療模型。我們徵集了一組醫學生來檢閱總共 60 個 LLM 生成的圖表，並將這些圖表與 BIOS（一個大型生物醫學 KG）進行比較。我們觀察到 GPT-4 在我們的人工審查中表現最佳，但在我們的基本事實比較中表現最差；而專門的醫療模型 PalmyraMed 則相反。我們的研究提供了一種可視化 LLM 醫療推理路徑的方法，以便它們能夠安全有效地實作於臨床環境中。
 
 ##### **Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**
 2412.10654v1 by Xue Wu, Kostas Tsioutsiouliklis
@@ -314,7 +458,7 @@ advanced reasoning capabilities of LLMs.
 摘要：大型語言模型 (LLM) 在自然語言理解和生成方面展現了非凡的能力。然而，它們經常在複雜的推理任務中掙扎，並且容易出現幻覺。最近的研究顯示出利用知識圖譜 (KG) 來增強 LLM 效能的良好結果。KG 提供實體及其關係的結構化表示，提供了豐富的資訊來源，可以增強 LLM 的推理能力。對於這項工作，我們開發了不同的技術，將 KG 結構和語義緊密整合到 LLM 表示中。我們的結果表明，我們能夠顯著提升 LLM 在複雜推理場景中的效能，並以 KG 為基礎進行推理過程。我們是第一個使用程式語言表示 KG，並使用 KG 微調預訓練 LLM 的人。這種整合有助於更準確且可解釋的推理過程，為 LLM 更先進的推理能力鋪路。
 
 ##### **WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models**
-2412.10582v1 by Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch
+2412.10582v2 by Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch
 
 WHAT-IF -- Writing a Hero's Alternate Timeline through Interactive Fiction --
 is a system that uses zero-shot meta-prompting to create branching narratives
@@ -329,15 +473,10 @@ both keep track of the story for prompting and maintain the structure for the
 final IF system. A video demo of our system can be found here:
 https://youtu.be/8vBqjqtupcc.
 
-摘要：WHAT-IF -- 透過互動式小說撰寫英雄的替代時間軸 --
-是一個系統，它使用零次提示來建立分歧敘事
-從一個預先寫好的故事。作為一個互動式小說 (IF) 遊戲，WHAT-IF
-讓玩家在大型語言模型 (LLM) 中選擇決定
-GPT-4 產生為故事中的可能分支。從現有的
-線性情節作為輸入，在主要角色做出的每個關鍵決定時都會創建一個分支。通過元提示 LLM 考慮主要情節點
-從故事中，系統產生連貫且結構良好的替代
-故事情節。WHAT-IF 將分支情節樹儲存在一個圖形中，這有助於
-同時追蹤故事以進行提示並維護最終 IF 系統的結構。可以在這裡找到我們系統的影片示範：
+摘要：WHAT-IF——透過互動小說撰寫英雄的另類時間線——
+是一個使用零次提示來建立從預先撰寫的故事分歧敘事的系統。以互動小說 (IF) 遊戲的方式遊玩，WHAT-IF
+讓玩家在大型語言模型 (LLM)
+GPT-4 產生的故事中可能的支線中選擇決定。從現有的線性情節作為輸入開始，在主要角色做出的每個關鍵決定中產生一個支線。透過元提示 LLM 考量故事中的主要情節，系統產生連貫且結構良好的另類故事線。WHAT-IF 將分歧情節樹儲存在圖形中，這有助於它同時追蹤故事以提示和維護最終 IF 系統的結構。我們系統的影片示範可以在這裡找到：
 https://youtu.be/8vBqjqtupcc。
 
 ##### **Can LLMs Convert Graphs to Text-Attributed Graphs?**
@@ -653,6 +792,38 @@ classification prototype that can generalize GNNs to unseen classes with
 extremely weak text supervision.
 
 摘要：<paragraph>儘管在使用網際網路規模的影像文字配對進行對比語言影像預訓練 (CLIP) 來建立視覺模型方面取得了巨大的成功，但使用 CLIP 管線建立可轉移圖形神經網路 (GNN) 卻很具挑戰性，原因在於三個根本問題：標記資料和文字監督的稀少性、不同層級的下游任務，以及不同領域之間的概念差距。在這項工作中，為了解決這些問題，我們利用多模態提示學習，在僅有少數語義標記範例的情況下，有效地調整預訓練的 GNN 以適用於下游任務和資料，每個範例都具有極其薄弱的文字監督。我們的新範例將圖形直接嵌入與大型語言模型 (LLM) 相同的空間中，方法是同時學習圖形提示和文字提示。為了達成這個目標，我們改進了最先進的圖形提示方法，然後提出第一個圖形語言多模態提示學習方法，以利用預訓練模型中的知識。值得注意的是，由於微調的監督不足，在我們的範例中，預訓練的 GNN 和 LLM 保持凍結狀態，因此可學習參數遠少於微調任何預訓練模型。透過對真實世界資料集進行廣泛的實驗，我們證明了我們的範例在少樣本、多任務層級和跨領域設定中的卓越效能。此外，我們建立了第一個 CLIP 風格的零樣本分類原型，它可以將 GNN 推廣到具有極其薄弱文字監督的未見類別。</paragraph>
+
+##### **GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction**
+2412.12152v1 by Rongzheng Wang, Shuang Liang, Qizhi Chen, Jiasheng Zhang, Ke Qin
+
+Large language models (LLMs) have been demonstrated to possess the
+capabilities to understand fundamental graph properties and address various
+graph reasoning tasks. Existing methods fine-tune LLMs to understand and
+execute graph reasoning tasks by specially designed task instructions. However,
+these Text-Instruction methods generally exhibit poor performance. Inspired by
+tool learning, researchers propose Tool-Instruction methods to solve various
+graph problems by special tool calling (e.g., function, API and model),
+achieving significant improvements in graph reasoning tasks. Nevertheless,
+current Tool-Instruction approaches focus on the tool information and ignore
+the graph structure information, which leads to significantly inferior
+performance on small-scale LLMs (less than 13B). To tackle this issue, we
+propose GraphTool-Instruction, an innovative Instruction-tuning approach that
+decomposes the graph reasoning task into three distinct subtasks (i.e., graph
+extraction, tool name identification and tool parameter extraction), and design
+specialized instructions for each subtask. Our GraphTool-Instruction can be
+used as a plug-and-play prompt for different LLMs without fine-tuning.
+Moreover, building on GraphTool-Instruction, we develop GTools, a dataset that
+includes twenty graph reasoning tasks, and create a graph reasoning LLM called
+GraphForge based on Llama3-8B. We conduct extensive experiments on twenty graph
+reasoning tasks with different graph types (e.g., graph size or graph
+direction), and we find that GraphTool-Instruction achieves SOTA compared to
+Text-Instruction and Tool-Instruction methods. Fine-tuned on GTools, GraphForge
+gets further improvement of over 30% compared to the Tool-Instruction enhanced
+GPT-3.5-turbo, and it performs comparably to the high-cost GPT-4o. Our codes
+and data are available at
+https://anonymous.4open.science/r/GraphTool-Instruction.
+
+摘要：<paragraph>大型語言模型 (LLM) 已被證明具有理解基本圖形屬性和處理各種圖形推理任務的能力。現有方法微調 LLM 以通過專門設計的任務指令來理解和執行圖形推理任務。然而，這些文本指令方法通常表現出較差的性能。受工具學習的啟發，研究人員提出工具指令方法，通過特殊工具呼叫（例如函數、API 和模型）來解決各種圖形問題，從而顯著改進了圖形推理任務。儘管如此，當前的工具指令方法側重於工具資訊，而忽略了圖形結構資訊，這導致在小規模 LLM（小於 13B）上性能顯著下降。為了解決這個問題，我們提出了 GraphTool-Instruction，這是一種創新的指令調整方法，它將圖形推理任務分解為三個不同的子任務（即圖形提取、工具名稱識別和工具參數提取），並為每個子任務設計專門的指令。我們的 GraphTool-Instruction 可用作不同 LLM 的即插即用提示，而無需微調。此外，基於 GraphTool-Instruction，我們開發了 GTools，這是一個包含 20 個圖形推理任務的資料集，並基於 Llama3-8B 創建了一個名為 GraphForge 的圖形推理 LLM。我們對 20 個具有不同圖形類型（例如圖形大小或圖形方向）的圖形推理任務進行了廣泛的實驗，我們發現與文本指令和工具指令方法相比，GraphTool-Instruction 達到了 SOTA。在 GTools 上進行微調後，與工具指令增強的 GPT-3.5-turbo 相比，GraphForge 進一步改進了 30% 以上，並且其性能與高成本的 GPT-4o 相當。我們的程式碼和資料可在 https://anonymous.4open.science/r/GraphTool-Instruction 獲得。</paragraph>
 
 ##### **NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**
 2412.10434v1 by Yuanyuan Liang, Tingyu Xie, Gan Peng, Zihao Huang, Yunshi Lan, Weining Qian
@@ -2484,171 +2655,4 @@ opens new avenues for tackling intricate problems in natural language
 understanding and reasoning.
 
 摘要：人工智能系統的發展能夠理解並推理複雜的真實世界場景是一個重大的挑戰。在這項工作中，我們提出了一種新穎的方法來增強和利用 LLM 反應能力，以解決複雜的問題並解釋深層的語境真實世界意義。我們介紹了一種方法和工具，用於建立多模態、知識增強的意義形式化表示，結合了大型語言模型與結構化語義表示的優點。我們的模型從影像輸入開始，利用最先進的大型語言模型來產生自然語言描述。然後將此描述轉換為抽象意義表示 (AMR) 圖形，並使用邏輯設計模式進行形式化和豐富，以及從語言和事實知識庫中衍生的分層語義。然後將結果圖形回饋到 LLM，以擴充 LLM 中由複雜的啟發式學習所啟用的內隱知識，包括語義蘊涵、道德價值、具身認知和隱喻表示。我們的模型透過彌合非結構化語言模型與形式語義結構之間的差距，為解決自然語言理解和推理中的複雜問題開闢了新的途徑。
-
-##### **Instant Policy: In-Context Imitation Learning via Graph Diffusion**
-2411.12633v1 by Vitalis Vosylius, Edward Johns
-
-Following the impressive capabilities of in-context learning with large
-transformers, In-Context Imitation Learning (ICIL) is a promising opportunity
-for robotics. We introduce Instant Policy, which learns new tasks instantly
-(without further training) from just one or two demonstrations, achieving ICIL
-through two key components. First, we introduce inductive biases through a
-graph representation and model ICIL as a graph generation problem with a
-learned diffusion process, enabling structured reasoning over demonstrations,
-observations, and actions. Second, we show that such a model can be trained
-using pseudo-demonstrations - arbitrary trajectories generated in simulation -
-as a virtually infinite pool of training data. Simulated and real experiments
-show that Instant Policy enables rapid learning of various everyday robot
-tasks. We also show how it can serve as a foundation for cross-embodiment and
-zero-shot transfer to language-defined tasks. Code and videos are available at
-https://www.robot-learning.uk/instant-policy.
-
-摘要：繼大型Transformer在情境學習中表現出令人印象深刻的能力後，情境模仿學習 (ICIL) 成為了機器人領域中一個有前途的機會。我們引入了即時策略，它僅從一或兩次示範中立即學習新任務（無需進一步訓練），並通過兩個關鍵組成部分實現 ICIL。首先，我們通過圖形表示和模型 ICIL 引入歸納偏差，並將其作為具有學習擴散過程的圖形生成問題，從而能夠對示範、觀察和動作進行結構化推理。其次，我們展示了這種模型可以使用偽示範進行訓練，而偽示範是模擬中產生的任意軌跡，可用作幾乎無限的訓練數據池。模擬和真實實驗表明，即時策略能夠快速學習各種日常機器人任務。我們還展示了它如何作為跨具身和零次傳輸到語言定義任務的基礎。代碼和影片可在 https://www.robot-learning.uk/instant-policy 取得。
-
-##### **Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks**
-2411.12493v2 by Hubert Plisiecki
-
-This paper introduces the Semantic Propagation Graph Neural Network (SProp
-GNN), a machine learning sentiment analysis (SA) architecture that relies
-exclusively on syntactic structures and word-level emotional cues to predict
-emotions in text. By semantically blinding the model to information about
-specific words, it is robust to biases such as political or gender bias that
-have been plaguing previous machine learning-based SA systems. The SProp GNN
-shows performance superior to lexicon-based alternatives such as VADER and
-EmoAtlas on two different prediction tasks, and across two languages.
-Additionally, it approaches the accuracy of transformer-based models while
-significantly reducing bias in emotion prediction tasks. By offering improved
-explainability and reducing bias, the SProp GNN bridges the methodological gap
-between interpretable lexicon approaches and powerful, yet often opaque, deep
-learning models, offering a robust tool for fair and effective emotion analysis
-in understanding human behavior through text.
-
-摘要：本文介紹了語義傳播圖神經網路 (SProp GNN)，這是一種機器學習情緒分析 (SA) 架構，專門依賴句法結構和詞彙層級的情緒線索來預測文字中的情緒。透過在語義上讓模型對特定字詞的資訊視而不見，它能有效消除政治或性別偏見等偏誤，這些偏誤一直困擾著先前的機器學習式 SA 系統。SProp GNN 在兩項不同的預測任務和兩種語言上的表現都優於基於詞彙庫的替代方案，例如 VADER 和 EmoAtlas。此外，它在大幅減少情緒預測任務中的偏誤同時，也接近了基於轉換器的模型的準確度。透過提供更好的可解釋性並減少偏誤，SProp GNN 搭起了可詮釋詞彙方法與強大但經常不透明的深度學習模型之間的方法論鴻溝，提供了一個強健的工具，可以透過文字理解人類行為，進行公平且有效的分析。
-
-##### **Neon: News Entity-Interaction Extraction for Enhanced Question Answering**
-2411.12449v2 by Sneha Singhania, Silviu Cucerzan, Allen Herring, Sujay Kumar Jauhar
-
-Capturing fresh information in near real-time and using it to augment
-existing large language models (LLMs) is essential to generate up-to-date,
-grounded, and reliable output. This problem becomes particularly challenging
-when LLMs are used for informational tasks in rapidly evolving fields, such as
-Web search related to recent or unfolding events involving entities, where
-generating temporally relevant responses requires access to up-to-the-hour news
-sources. However, the information modeled by the parametric memory of LLMs is
-often outdated, and Web results from prototypical retrieval systems may fail to
-capture the latest relevant information and struggle to handle conflicting
-reports in evolving news. To address this challenge, we present the NEON
-framework, designed to extract emerging entity interactions -- such as events
-or activities -- as described in news articles. NEON constructs an
-entity-centric timestamped knowledge graph that captures such interactions,
-thereby facilitating enhanced QA capabilities related to news events. Our
-framework innovates by integrating open Information Extraction (openIE) style
-tuples into LLMs to enable in-context retrieval-augmented generation. This
-integration demonstrates substantial improvements in QA performance when
-tackling temporal, entity-centric search queries. Through NEON, LLMs can
-deliver more accurate, reliable, and up-to-date responses.
-
-摘要：捕捉近乎實時的最新資訊，並利用它來擴充現有的大型語言模型 (LLM)，對於產生即時、有根據且可靠的輸出至關重要。當 LLM 被用於快速演化的領域中的訊息任務時，這個問題會變得特別具有挑戰性，例如與涉及實體的近期或正在發生的事件相關的網路搜尋，在這種情況下，產生時間相關的回應需要取得最新的新聞來源。然而，LLM 的參數記憶體建模的資訊經常過時，而原型檢索系統的網路結果可能無法捕捉最新的相關資訊，並且難以處理演化中的新聞中的相互矛盾的報導。為了應對這個挑戰，我們提出了 NEON 框架，旨在萃取新興實體互動（例如事件或活動），如新聞文章中所描述的。NEON 建構了一個以實體為中心的帶時間戳記的知識圖譜，用來捕捉此類互動，從而促進與新聞事件相關的增強式問答能力。我們的框架透過將開放資訊萃取 (openIE) 風格元組整合到 LLM 中，以啟用情境內檢索增強式產生，進而創新。當處理時間、以實體為中心的搜尋查詢時，這種整合顯示出問答效能的顯著提升。透過 NEON，LLM 可以提供更準確、可靠且最新的回應。
-
-##### **GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**
-2411.14479v1 by Yuze Liu, Tingjie Liu, Tiehua Zhang, Youhua Xia, Jinze Wang, Zhishu Shen, Jiong Jin, Fei Richard Yu
-
-Large language models (LLMs) have demonstrated impressive success in a wide
-range of natural language processing (NLP) tasks due to their extensive general
-knowledge of the world. Recent works discovered that the performance of LLMs is
-heavily dependent on the input prompt. However, prompt engineering is usually
-done manually in a trial-and-error fashion, which can be labor-intensive and
-challenging in order to find the optimal prompts. To address these problems and
-unleash the utmost potential of LLMs, we propose a novel LLMs-agnostic
-framework for prompt optimization, namely GRL-Prompt, which aims to
-automatically construct optimal prompts via reinforcement learning (RL) in an
-end-to-end manner. To provide structured action/state representation for
-optimizing prompts, we construct a knowledge graph (KG) that better encodes the
-correlation between the user query and candidate in-context examples.
-Furthermore, a policy network is formulated to generate the optimal action by
-selecting a set of in-context examples in a rewardable order to construct the
-prompt. Additionally, the embedding-based reward shaping is utilized to
-stabilize the RL training process. The experimental results show that
-GRL-Prompt outperforms recent state-of-the-art methods, achieving an average
-increase of 0.10 in ROUGE-1, 0.07 in ROUGE-2, 0.07 in ROUGE-L, and 0.05 in
-BLEU.
-
-摘要：大型語言模型 (LLM) 在廣泛的自然語言處理 (NLP) 任務中展現出令人印象深刻的成功，這歸功於它們對世界的廣泛一般知識。最近的研究發現，LLM 的效能高度依賴於輸入提示。然而，提示工程通常以試錯的方式手動完成，這在尋找最佳提示時可能會耗費大量人力且具有挑戰性。為了解決這些問題並發揮 LLM 的最大潛力，我們提出了一個新的 LLM 不可知框架，用於提示最佳化，即 GRL-Prompt，其旨在透過強化學習 (RL) 以端到端的方式自動建構最佳提示。為了提供結構化的動作/狀態表示以最佳化提示，我們建構了一個知識圖譜 (KG)，它能更好地編碼使用者查詢與候選情境範例之間的關聯性。此外，我們制定了一個策略網路，透過以可獎勵的順序選擇一組情境範例來建構提示，以產生最佳動作。此外，我們利用基於嵌入的獎勵塑造來穩定 RL 訓練過程。實驗結果顯示，GRL-Prompt 優於最近的最新方法，在 ROUGE-1 中平均增加 0.10，在 ROUGE-2 中增加 0.07，在 ROUGE-L 中增加 0.07，在 BLEU 中增加 0.05。
-
-##### **Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**
-2411.12174v1 by Rahul Garg, Trilok Padhi, Hemang Jain, Ugur Kursuncu, Ponnurangam Kumaraguru
-
-Toxicity identification in online multimodal environments remains a
-challenging task due to the complexity of contextual connections across
-modalities (e.g., textual and visual). In this paper, we propose a novel
-framework that integrates Knowledge Distillation (KD) from Large Visual
-Language Models (LVLMs) and knowledge infusion to enhance the performance of
-toxicity detection in hateful memes. Our approach extracts sub-knowledge graphs
-from ConceptNet, a large-scale commonsense Knowledge Graph (KG) to be infused
-within a compact VLM framework. The relational context between toxic phrases in
-captions and memes, as well as visual concepts in memes enhance the model's
-reasoning capabilities. Experimental results from our study on two hate speech
-benchmark datasets demonstrate superior performance over the state-of-the-art
-baselines across AU-ROC, F1, and Recall with improvements of 1.1%, 7%, and 35%,
-respectively. Given the contextual complexity of the toxicity detection task,
-our approach showcases the significance of learning from both explicit (i.e.
-KG) as well as implicit (i.e. LVLMs) contextual cues incorporated through a
-hybrid neurosymbolic approach. This is crucial for real-world applications
-where accurate and scalable recognition of toxic content is critical for
-creating safer online environments.
-
-摘要：網路多模態環境中的毒性辨識，由於模態間（例如文字和視覺）的脈絡關聯複雜，因此仍是一項具有挑戰性的任務。在本文中，我們提出一個新穎的架構，整合來自大型視覺語言模型 (LVLMs) 的知識蒸餾 (KD) 和知識注入，以增強仇恨迷因中毒性偵測的效能。我們的做法從 ConceptNet（一個大型常識知識圖譜 (KG)）中萃取子知識圖，並注入到一個緊湊的 VLM 架構中。標題和迷因中具有毒性的詞彙之間的關係脈絡，以及迷因中的視覺概念，增強了模型的推理能力。我們在兩個仇恨言論基準資料集上進行的研究的實驗結果，證明了在 AU-ROC、F1 和召回率方面，我們的做法優於最先進的基準，分別提升了 1.1%、7% 和 35%。鑑於毒性偵測任務的脈絡複雜性，我們的做法展示了從明確（例如 KG）和隱含（例如 LVLMs）脈絡線索中學習，並透過混合神經符號方法整合起來的重要性。這對於真實世界的應用至關重要，在這些應用中，準確且可擴充的毒性內容辨識對於創造更安全的網路環境至關重要。
-
-##### **Regret-Free Reinforcement Learning for LTL Specifications**
-2411.12019v1 by Rupak Majumdar, Mahmoud Salamati, Sadegh Soudjani
-
-Reinforcement learning (RL) is a promising method to learn optimal control
-policies for systems with unknown dynamics. In particular, synthesizing
-controllers for safety-critical systems based on high-level specifications,
-such as those expressed in temporal languages like linear temporal logic (LTL),
-presents a significant challenge in control systems research. Current RL-based
-methods designed for LTL tasks typically offer only asymptotic guarantees,
-which provide no insight into the transient performance during the learning
-phase. While running an RL algorithm, it is crucial to assess how close we are
-to achieving optimal behavior if we stop learning.
-  In this paper, we present the first regret-free online algorithm for learning
-a controller that addresses the general class of LTL specifications over Markov
-decision processes (MDPs) with a finite set of states and actions. We begin by
-proposing a regret-free learning algorithm to solve infinite-horizon
-reach-avoid problems. For general LTL specifications, we show that the
-synthesis problem can be reduced to a reach-avoid problem when the graph
-structure is known. Additionally, we provide an algorithm for learning the
-graph structure, assuming knowledge of a minimum transition probability, which
-operates independently of the main regret-free algorithm.
-
-摘要：強化學習 (RL) 是一種有希望的方法，可以學習未知動態系統的最佳控制策略。特別是，基於高階規範（例如用線性時序邏輯 (LTL) 等時序語言表達的規範）為安全關鍵系統合成控制器，這在控制系統研究中是一個重大挑戰。目前的基於 RL 的 LTL 任務方法通常僅提供漸近保證，這在學習階段沒有提供暫態效能的見解。在執行 RL 演算法時，如果我們停止學習，評估我們距離達成最佳行為有多近至關重要。在本文中，我們提出了第一個無遺憾線上演算法，用於學習一個控制器，該控制器解決了馬可夫決策過程 (MDP) 上的一般類別 LTL 規範，其中包含有限的狀態和動作集合。我們首先提出一個無遺憾學習演算法來解決無限時域到達避免問題。對於一般 LTL 規範，我們表明當圖形結構已知時，合成問題可以簡化為到達避免問題。此外，我們提供了一個演算法來學習圖形結構，假設知道最小轉移機率，它獨立於主要的無遺憾演算法運作。
-
-##### **Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**
-2411.11714v1 by Mingchao Qi, Yuanjin Li, Xing Liu, Zhengxiong Liu, Panfeng Huang
-
-Deploying robots in open-world environments involves complex tasks
-characterized by long sequences and rich interactions, necessitating efficient
-transfer of robotic skills across diverse and complex scenarios. To address
-this challenge, we propose a skill library framework based on knowledge graphs,
-which endows robots with high-level skill awareness and spatial semantic
-understanding. The framework hierarchically organizes operational knowledge by
-constructing a "task graph" and a "scene graph" to represent task and scene
-semantic information, respectively. We introduce a "state graph" to facilitate
-interaction between high-level task planning and low-level scene information.
-Furthermore, we propose a hierarchical transfer framework for operational
-skills. At the task level, the framework integrates contextual learning and
-chain-of-thought prompting within a four-stage prompt paradigm, leveraging
-large language models' (LLMs) reasoning and generalization capabilities to
-achieve task-level subtask sequence transfer. At the motion level, an adaptive
-trajectory transfer method is developed using the A* algorithm and the skill
-library, enabling motion-level adaptive trajectory transfer. At the physical
-level, we introduce an adaptive contour extraction and posture perception
-method based on tactile perception. This method dynamically obtains
-high-precision contour and posture information from visual-tactile texture data
-and adjusts transferred skills, such as contact positions and postures, to
-ensure effectiveness in new environments. Experimental results validate the
-effectiveness of the proposed methods. Project
-website:https://github.com/MingchaoQi/skill_transfer
-
-摘要：<paragraph>在开放世界环境中部署机器人涉及复杂的任务，其特点是序列长、交互丰富，需要在不同且复杂的场景中高效地转移机器人技能。为了应对这一挑战，我们提出一个基于知识图谱的技能库框架，它赋予机器人高级技能意识和空间语义理解。该框架通过构建“任务图”和“场景图”来分层组织操作知识，分别表示任务和场景语义信息。我们引入一个“状态图”来促进高级任务规划和低级场景信息之间的交互。此外，我们提出了一个操作技能的分层转移框架。在任务层面，该框架在一个四阶段提示范式中集成了上下文学习和思想链提示，利用大语言模型 (LLM) 的推理和泛化能力来实现任务级子任务序列转移。在运动层面，使用 A* 算法和技能库开发了一种自适应轨迹转移方法，实现运动级自适应轨迹转移。在物理层面，我们引入了一种基于触觉感知的自适应轮廓提取和姿态感知方法。该方法从视觉触觉纹理数据中动态获取高精度的轮廓和姿态信息，并调整转移的技能，例如接触位置和姿态，以确保在新的环境中有效。实验结果验证了所提出方法的有效性。项目网站：https://github.com/MingchaoQi/skill_transfer</paragraph>
 

@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098v1](http://arxiv.org/abs/2412.12098v1)|null|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|[link](https://github.com/HKUDS/SepLLM)|
 |**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089v1](http://arxiv.org/abs/2412.12089v1)|null|
 |**2024-12-16**|**Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats**|Kuleen Sasse et.al.|[2412.12072v1](http://arxiv.org/abs/2412.12072v1)|[link](https://github.com/kuleens/fetch-dog-whistle)|
 |**2024-12-16**|**Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**|Marius Belly et.al.|[2412.12063v1](http://arxiv.org/abs/2412.12063v1)|null|

@@ -2,12 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867v1](http://arxiv.org/abs/2412.14867v1)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
+|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|null|
+|**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480v1](http://arxiv.org/abs/2412.14480v1)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019v1](http://arxiv.org/abs/2412.14019v1)|null|
 |**2024-12-18**|**DODGE: Ontology-Aware Risk Assessment via Object-Oriented Disruption Graphs**|Stefano M. Nicoletti et.al.|[2412.13964v1](http://arxiv.org/abs/2412.13964v1)|null|
 |**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782v1](http://arxiv.org/abs/2412.13782v1)|null|
 |**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544v1](http://arxiv.org/abs/2412.13544v1)|[link](https://github.com/laowangzi/cikgrec)|
 |**2024-12-18**|**Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning**|Yingjie Zhu et.al.|[2412.13540v1](http://arxiv.org/abs/2412.13540v1)|[link](https://github.com/aaandy-zhu/vgcure)|
-|**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467v1](http://arxiv.org/abs/2412.13467v1)|null|
+|**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467v1](http://arxiv.org/abs/2412.13467v1)|[link](https://github.com/imamnurby/transducer-tuning)|
 |**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283v1](http://arxiv.org/abs/2412.13283v1)|null|
 |**2024-12-17**|**Detecting Emotional Incongruity of Sarcasm by Commonsense Reasoning**|Ziqi Qiu et.al.|[2412.12808v1](http://arxiv.org/abs/2412.12808v1)|null|
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643v1](http://arxiv.org/abs/2412.12643v1)|null|
@@ -41,6 +45,7 @@
 |**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434v1](http://arxiv.org/abs/2412.10434v1)|[link](https://github.com/leonyuancode/stockgql)|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
 |**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v2](http://arxiv.org/abs/2412.08038v2)|null|
+|**2024-12-10**|**Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education**|Chengshuai Zhao et.al.|[2412.14191v1](http://arxiv.org/abs/2412.14191v1)|null|
 |**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618v1](http://arxiv.org/abs/2412.07618v1)|[link](https://github.com/futureeeeee/dynamic-rag)|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430v1](http://arxiv.org/abs/2412.07430v1)|null|
@@ -97,13 +102,92 @@
 |**2024-11-25**|**Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**|Xiaocong Yang et.al.|[2411.16454v1](http://arxiv.org/abs/2411.16454v1)|null|
 |**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403v1](http://arxiv.org/abs/2411.16403v1)|null|
 |**2024-11-24**|**Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT**|Siqi Wang et.al.|[2411.15758v1](http://arxiv.org/abs/2411.15758v1)|[link](https://github.com/tongji-kgllm/industryscope)|
-|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033v1](http://arxiv.org/abs/2411.15033v1)|null|
-|**2024-11-22**|**Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**|Simone Colombani et.al.|[2411.15027v1](http://arxiv.org/abs/2411.15027v1)|null|
-|**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922v1](http://arxiv.org/abs/2411.14922v1)|null|
-|**2024-11-22**|**VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**|Camilo Chacón Sartori et.al.|[2411.14832v1](http://arxiv.org/abs/2411.14832v1)|null|
-|**2024-11-22**|**MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**|Jiatong Li et.al.|[2411.14721v1](http://arxiv.org/abs/2411.14721v1)|null|
 
 #### Abstracts
+##### **Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**
+2412.14867v1 by Imed Keraghel, Mohamed Nadif
+
+Recent advances in machine learning, particularly Large Language Models
+(LLMs) such as BERT and GPT, provide rich contextual embeddings that improve
+text representation. However, current document clustering approaches often
+ignore the deeper relationships between named entities (NEs) and the potential
+of LLM embeddings. This paper proposes a novel approach that integrates Named
+Entity Recognition (NER) and LLM embeddings within a graph-based framework for
+document clustering. The method builds a graph with nodes representing
+documents and edges weighted by named entity similarity, optimized using a
+graph-convolutional network (GCN). This ensures a more effective grouping of
+semantically related documents. Experimental results indicate that our approach
+outperforms conventional co-occurrence-based methods in clustering, notably for
+documents rich in named entities.
+
+摘要：近期機器學習的進展，特別是大型語言模型 (LLM)，例如 BERT 和 GPT，提供了豐富的上下文嵌入，改進了文本表徵。然而，當前的文件分群方法通常忽略命名實體 (NE) 之間更深層的關係和 LLM 嵌入的潛力。本文提出了一種創新的方法，將命名實體辨識 (NER) 和 LLM 嵌入整合到基於圖形的架構中，以進行文件分群。該方法建立了一個圖形，其中節點代表文件，邊緣則由命名實體相似性加權，並使用圖形卷積網路 (GCN) 進行最佳化。這確保了語義相關文件更有效的分組。實驗結果表明，我們的做法優於傳統的共現方法在分群中的表現，特別是對於富含命名實體的文件。
+
+##### **Answer Set Networks: Casting Answer Set Programming into Deep Learning**
+2412.14814v1 by Arseny Skryagin, Daniel Ochs, Phillip Deibert, Simon Kohaut, Devendra Singh Dhami, Kristian Kersting
+
+Although Answer Set Programming (ASP) allows constraining neural-symbolic
+(NeSy) systems, its employment is hindered by the prohibitive costs of
+computing stable models and the CPU-bound nature of state-of-the-art solvers.
+To this end, we propose Answer Set Networks (ASN), a NeSy solver. Based on
+Graph Neural Networks (GNN), ASNs are a scalable approach to ASP-based Deep
+Probabilistic Logic Programming (DPPL). Specifically, we show how to translate
+ASPs into ASNs and demonstrate how ASNs can efficiently solve the encoded
+problem by leveraging GPU's batching and parallelization capabilities. Our
+experimental evaluations demonstrate that ASNs outperform state-of-the-art
+CPU-bound NeSy systems on multiple tasks. Simultaneously, we make the following
+two contributions based on the strengths of ASNs. Namely, we are the first to
+show the finetuning of Large Language Models (LLM) with DPPLs, employing ASNs
+to guide the training with logic. Further, we show the "constitutional
+navigation" of drones, i.e., encoding public aviation laws in an ASN for
+routing Unmanned Aerial Vehicles in uncertain environments.
+
+摘要：儘管答案集程式設計（ASP）允許約束神經符號（NeSy）系統，但其應用受到計算穩定模型的過高成本和現有求解器受 CPU 限制的本質所阻礙。為此，我們提出答案集網路（ASN），一個 NeSy 求解器。ASN 基於圖神經網路（GNN），是一種基於 ASP 的深度機率邏輯程式設計（DPPL）的可擴充方法。具體來說，我們展示如何將 ASP 轉換為 ASN，並展示 ASN 如何透過利用 GPU 的批次處理和並行化功能有效地解決編碼問題。我們的實驗評估表明，ASN 在多項任務上優於現有的受 CPU 限制的 NeSy 系統。同時，我們根據 ASN 的優勢做出了以下兩項貢獻。也就是說，我們首次展示使用 DPPL 對大型語言模型（LLM）進行微調，使用 ASN 以邏輯引導訓練。此外，我們展示了無人機的「憲法導航」，即在 ASN 中編碼公共航空法，以便在不確定的環境中對無人機進行路由。
+
+##### **IOHunter: Graph Foundation Model to Uncover Online Information Operations**
+2412.14663v1 by Marco Minici, Luca Luceri, Francesco Fabbri, Emilio Ferrara
+
+Social media platforms have become vital spaces for public discourse, serving
+as modern agor\'as where a wide range of voices influence societal narratives.
+However, their open nature also makes them vulnerable to exploitation by
+malicious actors, including state-sponsored entities, who can conduct
+information operations (IOs) to manipulate public opinion. The spread of
+misinformation, false news, and misleading claims threatens democratic
+processes and societal cohesion, making it crucial to develop methods for the
+timely detection of inauthentic activity to protect the integrity of online
+discourse. In this work, we introduce a methodology designed to identify users
+orchestrating information operations, a.k.a. \textit{IO drivers}, across
+various influence campaigns. Our framework, named \texttt{IOHunter}, leverages
+the combined strengths of Language Models and Graph Neural Networks to improve
+generalization in \emph{supervised}, \emph{scarcely-supervised}, and
+\emph{cross-IO} contexts. Our approach achieves state-of-the-art performance
+across multiple sets of IOs originating from six countries, significantly
+surpassing existing approaches. This research marks a step toward developing
+Graph Foundation Models specifically tailored for the task of IO detection on
+social media platforms.
+
+摘要：社交媒體平台已成為公共論述的重要空間，作為現代廣場，各種聲音影響著社會敘事。然而，它們的開放性也使得它們容易受到惡意行為者的利用，包括國家資助的實體，他們可以進行信息操作 (IO) 以操縱輿論。錯誤信息的傳播、虛假新聞和誤導性說法威脅著民主進程和社會凝聚力，因此制定及時檢測虛假活動以保護在線論述的完整性的方法至關重要。在這項工作中，我們介紹了一種方法，旨在識別在各種影響力運動中策劃信息行動的用戶，即所謂的「IO 驅動程序」。我們的框架名為 \texttt{IOHunter}，它利用語言模型和圖神經網路的綜合優勢來改善「監督」、「稀疏監督」和「跨 IO」情境中的泛化能力。我們的做法在來自六個國家的多組 IO 中實現了最先進的性能，顯著超越了現有方法。這項研究標誌著專門針對社交媒體平台上的 IO 檢測任務開發圖基礎模型邁出了一步。
+
+##### **GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**
+2412.14480v1 by Saumya Saxena, Blake Buchanan, Chris Paxton, Bingqing Chen, Narunas Vaskevicius, Luigi Palmieri, Jonathan Francis, Oliver Kroemer
+
+In Embodied Question Answering (EQA), agents must explore and develop a
+semantic understanding of an unseen environment in order to answer a situated
+question with confidence. This remains a challenging problem in robotics, due
+to the difficulties in obtaining useful semantic representations, updating
+these representations online, and leveraging prior world knowledge for
+efficient exploration and planning. Aiming to address these limitations, we
+propose GraphEQA, a novel approach that utilizes real-time 3D metric-semantic
+scene graphs (3DSGs) and task relevant images as multi-modal memory for
+grounding Vision-Language Models (VLMs) to perform EQA tasks in unseen
+environments. We employ a hierarchical planning approach that exploits the
+hierarchical nature of 3DSGs for structured planning and semantic-guided
+exploration. Through experiments in simulation on the HM-EQA dataset and in the
+real world in home and office environments, we demonstrate that our method
+outperforms key baselines by completing EQA tasks with higher success rates and
+fewer planning steps.
+
+摘要：在具身問答 (EQA) 中，代理必須探索並發展對未見過環境的語義理解，才能有信心地回答情境問題。由於難以取得有用的語義表示、線上更新這些表示，以及利用先前的世界知識進行有效率的探索和規劃，這在機器人學中仍然是一個具有挑戰性的問題。為了解決這些限制，我們提出 GraphEQA，一種利用即時 3D 度量語義場景圖 (3DSG) 和與任務相關的影像作為多模式記憶體的新穎方法，以接地視覺語言模型 (VLM) 來執行未見過環境中的 EQA 任務。我們採用分層規劃方法，利用 3DSG 的分層性質進行結構化規劃和語義引導探索。透過在 HM-EQA 資料集上的模擬實驗，以及在家庭和辦公室環境中的真實世界中，我們證明我們的模型透過以較高的成功率和較少的規劃步驟完成 EQA 任務，優於主要的基線。
+
 ##### **Discovering maximally consistent distribution of causal tournaments with Large Language Models**
 2412.14019v1 by Federico Baldo, Simon Ferreira, Charles K. Assaad
 
@@ -1092,6 +1176,30 @@ downstream tasks. Theoretical analysis and experimental validation have
 demonstrated the effectiveness of our method.
 
 摘要：圖表表徵學習方法在處理複雜非歐幾里得資料時非常有效，它能捕捉圖表結構中的複雜關係和特徵。然而，傳統方法在處理異質圖表時會面臨挑戰，因為異質圖表包含各種節點和邊緣類型，這是由於資料來源多樣且性質複雜。現有的異質圖神經網路 (HGNN) 已展現出有前景的成果，但需要事先知道節點和邊緣類型，以及統一的節點特徵格式，這限制了它們的適用性。最近在使用大型語言模型 (LLM) 進行圖表表徵學習方面取得的進展提供了新的解決方案，方法是整合 LLM 的資料處理功能，讓各種圖表表徵得以對齊。儘管如此，這些方法經常忽略異質圖表資料，而且需要廣泛的預處理。為了解決這些限制，我們提出了一種新方法，它同時利用了 LLM 和 GNN 的優點，允許處理任何格式和類型節點和邊緣的圖表資料，而不需要類型資訊或特殊預處理。我們的這個方法採用 LLM 自動摘要和分類不同的資料格式和類型，對齊節點特徵，並使用專門的 GNN 進行目標學習，從而為下游任務取得有效的圖表表徵。理論分析和實驗驗證已證明我們這個方法的有效性。
+
+##### **Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education**
+2412.14191v1 by Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, Zhen Tan, Yuli Deng, Ying-Chih Chen, Huan Liu
+
+Integrating AI into education has the potential to transform the teaching of
+science and technology courses, particularly in the field of cybersecurity.
+AI-driven question-answering (QA) systems can actively manage uncertainty in
+cybersecurity problem-solving, offering interactive, inquiry-based learning
+experiences. Large language models (LLMs) have gained prominence in AI-driven
+QA systems, offering advanced language understanding and user engagement.
+However, they face challenges like hallucinations and limited domain-specific
+knowledge, which reduce their reliability in educational settings. To address
+these challenges, we propose CyberRAG, an ontology-aware retrieval-augmented
+generation (RAG) approach for developing a reliable and safe QA system in
+cybersecurity education. CyberRAG employs a two-step approach: first, it
+augments the domain-specific knowledge by retrieving validated cybersecurity
+documents from a knowledge base to enhance the relevance and accuracy of the
+response. Second, it mitigates hallucinations and misuse by integrating a
+knowledge graph ontology to validate the final answer. Experiments on publicly
+available cybersecurity datasets show that CyberRAG delivers accurate, reliable
+responses aligned with domain knowledge, demonstrating the potential of AI
+tools to enhance education.
+
+摘要：將 AI 整合到教育中，有潛力轉型科學和技術課程的教學，特別是在網路安全領域。AI 驅動的問題解答 (QA) 系統可以積極管理網路安全問題解決中的不確定性，提供互動式、基於探究的學習體驗。大型語言模型 (LLM) 在 AI 驅動的 QA 系統中獲得顯著地位，提供進階的語言理解和使用者參與。然而，它們面臨幻覺和特定領域知識有限的挑戰，這會降低它們在教育環境中的可靠性。為了應對這些挑戰，我們提出 CyberRAG，一種意識到本體論的檢索增強生成 (RAG) 方法，用於在網路安全教育中開發可靠且安全的 QA 系統。CyberRAG 採用兩步驟方法：首先，它透過從知識庫中檢索已驗證的網路安全文件來擴充特定領域的知識，以增強回應的相關性和準確性。其次，它透過整合知識圖譜本體論來驗證最終答案，以減輕幻覺和誤用。在公開的網路安全資料集上進行的實驗顯示，CyberRAG 提供準確、可靠的回應，符合領域知識，證明了 AI 工具增強教育的潛力。
 
 ##### **Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**
 2412.09644v1 by Marcos Da Silveira, Louis Deladiennee, Kheira Acem, Oona Freudenthal
@@ -2519,153 +2627,4 @@ dataset and related code are available at
 https://github.com/Tongji-KGLLM/IndustryScope.
 
 摘要：工業園區對於都市經濟成長至關重要。然而，其發展經常會遇到工業需求與都市服務之間不平衡所產生的挑戰，這凸顯了策略性規劃與營運的需求。本文介紹了 IndustryScopeKG，一個先驅性的、大規模、多模式、多層級的工業園區知識圖譜，它整合了包含街景、公司、社會經濟和地理空間資訊在內的各種都市資料，捕捉工業園區內複雜的關係和語意。除此之外，我們提出了 IndustryScopeGPT 架構，它利用大型語言模型 (LLM) 與蒙地卡羅樹狀搜尋，以增強工具輔助推理和在工業園區規劃和營運 (IPPO) 中的決策制定。我們的研究大幅改善了場地推薦和功能規劃，展示了結合 LLM 和結構化資料集以推進工業園區管理的潛力。這個方法為智慧 IPPO 研究設定了新的基準，並為推進都市產業發展奠定了穩固的基礎。資料集和相關程式碼可在 https://github.com/Tongji-KGLLM/IndustryScope 取得。
-
-##### **One to rule them all: natural language to bind communication, perception and action**
-2411.15033v1 by Simone Colombani, Dimitri Ognibene, Giuseppe Boccignone
-
-In recent years, research in the area of human-robot interaction has focused
-on developing robots capable of understanding complex human instructions and
-performing tasks in dynamic and diverse environments. These systems have a wide
-range of applications, from personal assistance to industrial robotics,
-emphasizing the importance of robots interacting flexibly, naturally and safely
-with humans. This paper presents an advanced architecture for robotic action
-planning that integrates communication, perception, and planning with Large
-Language Models (LLMs). Our system is designed to translate commands expressed
-in natural language into executable robot actions, incorporating environmental
-information and dynamically updating plans based on real-time feedback. The
-Planner Module is the core of the system where LLMs embedded in a modified
-ReAct framework are employed to interpret and carry out user commands. By
-leveraging their extensive pre-trained knowledge, LLMs can effectively process
-user requests without the need to introduce new knowledge on the changing
-environment. The modified ReAct framework further enhances the execution space
-by providing real-time environmental perception and the outcomes of physical
-actions. By combining robust and dynamic semantic map representations as graphs
-with control components and failure explanations, this architecture enhances a
-robot adaptability, task execution, and seamless collaboration with human users
-in shared and dynamic environments. Through the integration of continuous
-feedback loops with the environment the system can dynamically adjusts the plan
-to accommodate unexpected changes, optimizing the robot ability to perform
-tasks. Using a dataset of previous experience is possible to provide detailed
-feedback about the failure. Updating the LLMs context of the next iteration
-with suggestion on how to overcame the issue.
-
-摘要：近年来，人机交互领域的研究重点
-在于开发能够理解复杂人类指令并在动态和多样化环境中执行任务的机器人。这些系统具有广泛的应用，从个人助理到工业机器人，强调了机器人与人类灵活、自然和安全交互的重要性。本文提出了一种先进的机器人动作规划架构，该架构集成了通信、感知和规划与大型语言模型 (LLM)。我们的系统旨在将以自然语言表达的命令翻译成可执行的机器人动作，并结合环境信息并根据实时反馈动态更新计划。规划器模块是系统的核心，其中嵌入在修改后的 ReAct 框架中的 LLM 用于解释和执行用户命令。通过利用其广泛的预训练知识，LLM 可以有效处理用户请求，而无需引入有关不断变化的环境的新知识。修改后的 ReAct 框架通过提供实时环境感知和物理动作的结果进一步增强了执行空间。通过将鲁棒且动态语义地图表示与控制组件和故障解释相结合，该架构增强了机器人的适应性、任务执行以及与人类用户在共享和动态环境中的无缝协作。通过将连续反馈回路与环境相结合，系统可以动态调整计划以适应意外变化，从而优化机器人执行任务的能力。利用先前的经验数据集，可以提供有关故障的详细反馈。使用有关如何克服问题的建议更新下一个迭代的 LLM 上下文。
-
-##### **Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**
-2411.15027v1 by Simone Colombani, Luca Brini, Dimitri Ognibene, Giuseppe Boccignone
-
-Robots are increasingly being used in dynamic environments like workplaces,
-hospitals, and homes. As a result, interactions with robots must be simple and
-intuitive, with robots perception adapting efficiently to human-induced
-changes. This paper presents a robot control architecture that addresses key
-challenges in human-robot interaction, with a particular focus on the dynamic
-creation and continuous update of the robot state representation. The
-architecture uses Large Language Models to integrate diverse information
-sources, including natural language commands, robotic skills representation,
-real-time dynamic semantic mapping of the perceived scene. This enables
-flexible and adaptive robotic behavior in complex, dynamic environments.
-Traditional robotic systems often rely on static, pre-programmed instructions
-and settings, limiting their adaptability to dynamic environments and real-time
-collaboration. In contrast, this architecture uses LLMs to interpret complex,
-high-level instructions and generate actionable plans that enhance human-robot
-collaboration. At its core, the system Perception Module generates and
-continuously updates a semantic scene graph using RGB-D sensor data, providing
-a detailed and structured representation of the environment. A particle filter
-is employed to ensure accurate object localization in dynamic, real-world
-settings. The Planner Module leverages this up-to-date semantic map to break
-down high-level tasks into sub-tasks and link them to robotic skills such as
-navigation, object manipulation (e.g., PICK and PLACE), and movement (e.g.,
-GOTO). By combining real-time perception, state tracking, and LLM-driven
-communication and task planning, the architecture enhances adaptability, task
-efficiency, and human-robot collaboration in dynamic environments.
-
-摘要：<paragraph>機器人正越來越廣泛地應用於工作場所、醫院和家庭等動態環境中。因此，與機器人的互動必須簡單直觀，機器人的感知能力必須有效適應人類引發的變化。本文提出了一種機器人控制架構，用於解決人機互動中的關鍵挑戰，特別關注機器人狀態表示的動態建立和持續更新。該架構使用大型語言模型整合多種資訊來源，包括自然語言命令、機器人技能表示、感知場景的即時動態語義對應。這使得機器人在複雜的動態環境中能夠靈活適應。傳統的機器人系統通常依賴於靜態的、預先編程的指令和設定，這限制了它們對動態環境和即時協作的適應能力。相比之下，此架構使用 LLM 來詮釋複雜的高層級指令，並制定可行的計畫，以增強人機協作。在系統的核心，感知模組使用 RGB-D 感測器資料產生並持續更新語義場景圖，提供環境的詳細且結構化的表示。採用粒子濾波器以確保在動態的真實世界設定中準確定位物件。規劃模組利用這個最新的語義地圖，將高層級任務分解為子任務，並將它們連結到機器人技能，例如導航、物件操作（例如，取放）和移動（例如，前往）。透過結合即時感知、狀態追蹤和 LLM 驅動的溝通和任務規劃，此架構增強了動態環境中的適應能力、任務效率和人機協作。</paragraph>
-
-##### **GOT4Rec: Graph of Thoughts for Sequential Recommendation**
-2411.14922v1 by Zewen Long, Liang Wang, Shu Wu, Qiang Liu, Liang Wang
-
-With the advancement of large language models (LLMs), researchers have
-explored various methods to optimally leverage their comprehension and
-generation capabilities in sequential recommendation scenarios. However,
-several challenges persist in this endeavor. Firstly, most existing approaches
-rely on the input-output prompting paradigm, which can result in irrelevant or
-inaccurate responses. Secondly, while there have been attempts to enhance LLMs
-using prompting strategies such as chain-of-thought (CoT), these efforts have
-not fully harnessed the reasoning abilities of LLMs or effectively captured the
-multifaceted information contained within user sequences. To address these
-limitations, we propose GOT4Rec, a sequential recommendation method that
-utilizes the graph of thoughts (GoT) prompting strategy. Specifically, we
-identify and utilize three key types of information within user history
-sequences: short-term interests, long-term interests and collaborative
-information from other users. Our approach enables LLMs to independently reason
-and generate recommendations based on these distinct types of information,
-subsequently aggregating the results within the GoT framework to derive the
-final recommended items. This method allows LLMs, with enhanced reasoning
-capabilities, to more effectively consider the diverse information within user
-sequences, resulting in more accurate recommendations and more comprehensive
-explanations. Extensive experiments on real-world datasets demonstrate the
-effectiveness of GOT4Rec, indicating that it outperforms existing
-state-of-the-art baselines. Our code is available at
-https://anonymous.4open.science/r/GOT4Rec-ED99.
-
-摘要：隨著大型語言模型 (LLM) 的進步，研究人員已探索各種方法，以最佳方式利用其理解和生成能力在順序推薦場景中。然而，在這個努力中仍存在一些挑戰。首先，大多數現有方法依賴於輸入輸出提示範例，這可能會導致不相關或不準確的回應。其次，雖然有人嘗試使用提示策略（例如思想鏈 (CoT)）來增強 LLM，但這些努力並未充分利用 LLM 的推理能力或有效擷取使用者序列中包含的多方面資訊。為了解決這些限制，我們提出 GOT4Rec，這是一種順序推薦方法，利用了思想圖 (GoT) 提示策略。具體來說，我們在使用者歷史序列中識別並利用三種類型的關鍵資訊：短期興趣、長期興趣和來自其他使用者的協作資訊。我們的方法使 LLM 能夠根據這些不同類型的資訊獨立推理並產生建議，然後在 GoT 框架內匯總結果以推導出最終推薦的項目。這種方法允許 LLM 在增強推理能力的同時，更有效地考慮使用者序列中的不同資訊，從而產生更準確的建議和更全面的說明。在真實世界資料集上的大量實驗證明了 GOT4Rec 的有效性，表明它優於現有的最先進基準。我們的程式碼可在 https://anonymous.4open.science/r/GOT4Rec-ED99 取得。
-
-##### **VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**
-2411.14832v1 by Camilo Chacón Sartori, Christian Blum, Filippo Bistaffa
-
-The fast advancement of Large Vision-Language Models (LVLMs) has shown
-immense potential. These models are increasingly capable of tackling abstract
-visual tasks. Geometric structures, particularly graphs with their inherent
-flexibility and complexity, serve as an excellent benchmark for evaluating
-these models' predictive capabilities. While human observers can readily
-identify subtle visual details and perform accurate analyses, our investigation
-reveals that state-of-the-art LVLMs exhibit consistent limitations in specific
-visual graph scenarios, especially when confronted with stylistic variations.
-In response to these challenges, we introduce VisGraphVar (Visual Graph
-Variability), a customizable benchmark generator able to produce graph images
-for seven distinct task categories (detection, classification, segmentation,
-pattern recognition, link prediction, reasoning, matching), designed to
-systematically evaluate the strengths and limitations of individual LVLMs. We
-use VisGraphVar to produce 990 graph images and evaluate six LVLMs, employing
-two distinct prompting strategies, namely zero-shot and chain-of-thought. The
-findings demonstrate that variations in visual attributes of images (e.g., node
-labeling and layout) and the deliberate inclusion of visual imperfections, such
-as overlapping nodes, significantly affect model performance. This research
-emphasizes the importance of a comprehensive evaluation across graph-related
-tasks, extending beyond reasoning alone. VisGraphVar offers valuable insights
-to guide the development of more reliable and robust systems capable of
-performing advanced visual graph analysis.
-
-摘要：大型視覺語言模型 (LVLMs) 的快速進步已展現出巨大的潛力。這些模型越來越有能力處理抽象的視覺任務。幾何結構，特別是具有內在靈活性與複雜性的圖形，可用作評估這些模型預測能力的絕佳基準。人類觀察者可以輕易辨識微妙的視覺細節並執行準確的分析，但我們的調查顯示，最先進的 LVLMs 在特定的視覺圖形場景中表現出持續的限制，特別是在面對風格變化時。為了應對這些挑戰，我們引入了 VisGraphVar（視覺圖形變異），這是一個可自訂的基準產生器，能夠產生七個不同任務類別的圖形影像（偵測、分類、分割、模式辨識、連結預測、推理、配對），旨在系統性地評估個別 LVLMs 的優點和限制。我們使用 VisGraphVar 產生 990 個圖形影像並評估六個 LVLMs，採用兩種不同的提示策略，即零次學習和思維鏈。研究結果表明，影像視覺屬性的變化（例如節點標籤和版面）以及視覺瑕疵的故意加入（例如重疊節點）會顯著影響模型效能。這項研究強調了跨圖形相關任務進行全面評估的重要性，而不僅限於推理。VisGraphVar 提供了寶貴的見解，以指導更可靠且強大的系統的開發，這些系統能夠執行進階的視覺圖形分析。
-
-##### **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**
-2411.14721v1 by Jiatong Li, Yunqing Liu, Wei Liu, Jingdi Le, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li
-
-Molecule discovery is a pivotal research field, impacting everything from the
-medicines we take to the materials we use. Recently, Large Language Models
-(LLMs) have been widely adopted in molecule understanding and generation, yet
-the alignments between molecules and their corresponding captions remain a
-significant challenge. Previous endeavours often treat the molecule as a
-general SMILES string or molecular graph, neglecting the fine-grained
-alignments between the molecular sub-structures and the descriptive textual
-phrases, which are crucial for accurate and explainable predictions. In this
-case, we introduce MolReFlect, a novel teacher-student framework designed to
-contextually perform the molecule-caption alignments in a fine-grained way. Our
-approach initially leverages a larger teacher LLM to label the detailed
-alignments by directly extracting critical phrases from molecule captions or
-SMILES strings and implying them to corresponding sub-structures or
-characteristics. To refine these alignments, we propose In-Context Selective
-Reflection, which retrieves previous extraction results as context examples for
-teacher LLM to reflect and lets a smaller student LLM select from in-context
-reflection and previous extraction results. Finally, we enhance the learning
-process of the student LLM through Chain-of-Thought In-Context Molecule Tuning,
-integrating the fine-grained alignments and the reasoning processes within the
-Chain-of-Thought format. Our experimental results demonstrate that MolReFlect
-enables LLMs like Mistral-7B to significantly outperform the previous
-baselines, achieving SOTA performance on the ChEBI-20 dataset. This advancement
-not only enhances the generative capabilities of LLMs in the molecule-caption
-translation task, but also contributes to a more explainable framework.
-
-摘要：分子發現是一個關鍵的研究領域，從我們服用的藥物到我們使用的材料，影響著一切。最近，大型語言模型 (LLM) 已廣泛應用於分子理解和生成中，但分子及其對應標題之間的對齊仍然是一項重大挑戰。先前的努力通常將分子視為一般的 SMILES 字符串或分子圖，忽略了分子子結構和描述性文本短語之間的細粒度對齊，這對於準確且可解釋的預測至關重要。在這種情況下，我們引入了 MolReFlect，這是一個新穎的師生框架，旨在以細粒度的方式對分子標題對齊進行上下文執行。我們的做法最初利用一個更大的教師 LLM 來標記詳細對齊，方法是直接從分子標題或 SMILES 字符串中提取關鍵短語，並將它們暗示為對應的子結構或特徵。為了優化這些對齊，我們提出了上下文選擇性反射，它將以前的提取結果作為上下文範例，供教師 LLM 進行反射，並讓一個較小的學生 LLM 從上下文反射和以前的提取結果中進行選擇。最後，我們通過思想鏈上下文分子調整增強了學生 LLM 的學習過程，將細粒度對齊和推理過程整合到思想鏈格式中。我們的實驗結果表明，MolReFlect 使像 Mistral-7B 這樣的 LLM 能夠顯著優於先前的基準，在 ChEBI-20 數據集上實現了 SOTA 性能。這一進步不僅增強了 LLM 在分子標題翻譯任務中的生成能力，而且還有助於建立一個更具可解釋性的框架。
 

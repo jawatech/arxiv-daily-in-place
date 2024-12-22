@@ -4,12 +4,12 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|null|
-|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|null|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|[link](https://github.com/thudm/longbench)|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|null|
-|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194v1](http://arxiv.org/abs/2412.15194v1)|null|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194v1](http://arxiv.org/abs/2412.15194v1)|[link](https://github.com/microsoft/mmlu-cf)|
 |**2024-12-19**|**Face the Facts! Evaluating RAG-based Fact-checking Pipelines in Realistic Settings**|Daniel Russo et.al.|[2412.15189v1](http://arxiv.org/abs/2412.15189v1)|[link](https://github.com/drusso98/face-the-facts)|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188v1](http://arxiv.org/abs/2412.15188v1)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177v1](http://arxiv.org/abs/2412.15177v1)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177v1](http://arxiv.org/abs/2412.15177v1)|[link](https://github.com/fcast07/cqot)|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166v1](http://arxiv.org/abs/2412.15166v1)|null|
 |**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156v1](http://arxiv.org/abs/2412.15156v1)|[link](https://github.com/jiyt17/prompt-a-video)|
 |**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151v1](http://arxiv.org/abs/2412.15151v1)|null|
@@ -20,7 +20,7 @@
 |**2024-12-19**|**Outcome-Refining Process Supervision for Code Generation**|Zhuohao Yu et.al.|[2412.15118v1](http://arxiv.org/abs/2412.15118v1)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115v1](http://arxiv.org/abs/2412.15115v1)|null|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113v1](http://arxiv.org/abs/2412.15113v1)|[link](https://github.com/tfburns/amicl-and-residual-attention-streams)|
-|**2024-12-19**|**Exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid**|Shimiao Li et.al.|[2412.15105v1](http://arxiv.org/abs/2412.15105v1)|null|
+|**2024-12-19**|**Exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid**|Shimiao Li et.al.|[2412.15105v1](http://arxiv.org/abs/2412.15105v1)|[link](https://github.com/bhooi/dynamic)|
 |**2024-12-19**|**Review-Then-Refine: A Dynamic Framework for Multi-Hop Question Answering with Temporal Adaptability**|Xiangsen Chen et.al.|[2412.15101v1](http://arxiv.org/abs/2412.15101v1)|null|
 |**2024-12-19**|**A Cross-Domain Study of the Use of Persuasion Techniques in Online Disinformation**|João A. Leite et.al.|[2412.15098v1](http://arxiv.org/abs/2412.15098v1)|null|
 |**2024-12-19**|**A Full Transformer-based Framework for Automatic Pain Estimation using Videos**|Stefanos Gkikas et.al.|[2412.15095v1](http://arxiv.org/abs/2412.15095v1)|null|
@@ -58,20 +58,20 @@
 |**2024-12-19**|**Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning**|Ziang Ye et.al.|[2412.14780v1](http://arxiv.org/abs/2412.14780v1)|null|
 |**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769v1](http://arxiv.org/abs/2412.14769v1)|[link](https://github.com/LYiHub/psydraw)|
-|**2024-12-19**|**CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering**|Ruida Hu et.al.|[2412.14764v1](http://arxiv.org/abs/2412.14764v1)|null|
+|**2024-12-19**|**CodeRepoQA: A Large-scale Benchmark for Software Engineering Question Answering**|Ruida Hu et.al.|[2412.14764v1](http://arxiv.org/abs/2412.14764v1)|[link](https://github.com/kinesiatricssxilm14/coderepoqa)|
 |**2024-12-19**|**Query pipeline optimization for cancer patient question answering systems**|Maolin He et.al.|[2412.14751v1](http://arxiv.org/abs/2412.14751v1)|null|
-|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737v1](http://arxiv.org/abs/2412.14737v1)|null|
+|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737v1](http://arxiv.org/abs/2412.14737v1)|[link](https://github.com/danielyxyang/llm-verbalized-uq)|
 |**2024-12-19**|**Advances in Artificial Intelligence forDiabetes Prediction: Insights from a Systematic Literature Review**|Pir Bakhsh Khokhar et.al.|[2412.14736v1](http://arxiv.org/abs/2412.14736v1)|null|
 |**2024-12-19**|**Creation of AI-driven Smart Spaces for Enhanced Indoor Environments -- A Survey**|Aygün Varol et.al.|[2412.14708v1](http://arxiv.org/abs/2412.14708v1)|null|
 |**2024-12-19**|**How to Synthesize Text Data without Model Collapse?**|Xuekai Zhu et.al.|[2412.14689v1](http://arxiv.org/abs/2412.14689v1)|null|
-|**2024-12-19**|**Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection**|Hao Guo et.al.|[2412.14686v1](http://arxiv.org/abs/2412.14686v1)|null|
+|**2024-12-19**|**Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection**|Hao Guo et.al.|[2412.14686v1](http://arxiv.org/abs/2412.14686v1)|[link](https://github.com/mazihan880/AMG-An-Attributing-Multi-modal-Fake-News-Dataset)|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684v1](http://arxiv.org/abs/2412.14684v1)|null|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|[link](https://github.com/d-robotics-ai-lab/dosod)|
 |**2024-12-19**|**LLMs as mediators: Can they diagnose conflicts accurately?**|Özgecan Koçak et.al.|[2412.14675v1](http://arxiv.org/abs/2412.14675v1)|null|
 |**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672v1](http://arxiv.org/abs/2412.14672v1)|null|
 |**2024-12-19**|**Analysis and Visualization of Linguistic Structures in Large Language Models: Neural Representations of Verb-Particle Constructions in BERT**|Hassane Kissane et.al.|[2412.14670v1](http://arxiv.org/abs/2412.14670v1)|null|
 |**2024-12-19**|**LoLaFL: Low-Latency Federated Learning via Forward-only Propagation**|Jierui Zhang et.al.|[2412.14668v1](http://arxiv.org/abs/2412.14668v1)|null|
-|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|null|
+|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|[link](https://github.com/mminici/socgfm)|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660v1](http://arxiv.org/abs/2412.14660v1)|[link](https://github.com/hfutml/calibration-mllm)|
 |**2024-12-19**|**Length Controlled Generation for Black-box LLMs**|Yuxuan Gu et.al.|[2412.14656v1](http://arxiv.org/abs/2412.14656v1)|null|
 |**2024-12-19**|**TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation**|Jiatong Li et.al.|[2412.14642v1](http://arxiv.org/abs/2412.14642v1)|[link](https://github.com/phenixace/tomg-bench)|
@@ -99,7 +99,7 @@
 |**2024-12-19**|**PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**|Jiayi Wu et.al.|[2412.14510v1](http://arxiv.org/abs/2412.14510v1)|[link](https://github.com/wujwyi/pa-rag)|
 |**2024-12-19**|**Do Large Language Models Defend Inferentialist Semantics?: On the Logical Expressivism and Anti-Representationalism of LLMs**|Yuzuki Arai et.al.|[2412.14501v1](http://arxiv.org/abs/2412.14501v1)|null|
 |**2024-12-19**|**The Digital Ecosystem of Beliefs: does evolution favour AI over humans?**|David M. Bossens et.al.|[2412.14500v1](http://arxiv.org/abs/2412.14500v1)|null|
-|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492v1](http://arxiv.org/abs/2412.14492v1)|null|
+|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492v1](http://arxiv.org/abs/2412.14492v1)|[link](https://github.com/li-group/faultexplainer)|
 |**2024-12-19**|**Towards Projected and Incremental Pseudo-Boolean Model Counting**|Suwei Yang et.al.|[2412.14485v1](http://arxiv.org/abs/2412.14485v1)|null|
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480v1](http://arxiv.org/abs/2412.14480v1)|null|
 

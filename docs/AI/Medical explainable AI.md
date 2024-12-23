@@ -2,6 +2,8 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
+|**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748v1](http://arxiv.org/abs/2412.15748v1)|null|
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009v1](http://arxiv.org/abs/2412.14009v1)|null|
 |**2024-11-30**|**2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**|Jim Solomon et.al.|[2412.00372v1](http://arxiv.org/abs/2412.00372v1)|null|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
@@ -53,7 +55,6 @@
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
-|**2024-06-07**|**Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**|Yong-Min Shin et.al.|[2406.04612v1](http://arxiv.org/abs/2406.04612v1)|[link](https://github.com/jordan7186/gatt)|
 |**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v3](http://arxiv.org/abs/2406.16908v3)|[link](https://github.com/dinuka-1999/braineocare)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
@@ -101,9 +102,50 @@
 |**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719v1](http://arxiv.org/abs/2311.15719v1)|[link](https://github.com/benkeel/vae_lung_lesion_bmvc)|
 |**2023-11-24**|**MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**|Nathan Blake et.al.|[2311.14471v1](http://arxiv.org/abs/2311.14471v1)|null|
 |**2023-11-21**|**Moderating Model Marketplaces: Platform Governance Puzzles for AI Intermediaries**|Robert Gorwa et.al.|[2311.12573v3](http://arxiv.org/abs/2311.12573v3)|null|
-|**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932v1](http://arxiv.org/abs/2311.11932v1)|null|
 
 #### Abstracts
+##### **Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**
+2412.16086v1 by Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, Daniel Sonntag
+
+Deep learning has advanced medical image classification, but interpretability
+challenges hinder its clinical adoption. This study enhances interpretability
+in Chest X-ray (CXR) classification by using concept bottleneck models (CBMs)
+and a multi-agent Retrieval-Augmented Generation (RAG) system for report
+generation. By modeling relationships between visual features and clinical
+concepts, we create interpretable concept vectors that guide a multi-agent RAG
+system to generate radiology reports, enhancing clinical relevance,
+explainability, and transparency. Evaluation of the generated reports using an
+LLM-as-a-judge confirmed the interpretability and clinical utility of our
+model's outputs. On the COVID-QU dataset, our model achieved 81% classification
+accuracy and demonstrated robust report generation performance, with five key
+metrics ranging between 84% and 90%. This interpretable multi-agent framework
+bridges the gap between high-performance AI and the explainability required for
+reliable AI-driven CXR analysis in clinical settings.
+
+摘要：深度學習已進步了醫學影像分類，但可解釋性挑戰阻礙了其臨床採用。本研究透過使用概念瓶頸模型 (CBM) 和多重代理檢索增強生成 (RAG) 系統進行報告生成，增強了胸部 X 光 (CXR) 分類的可解釋性。透過對視覺特徵和臨床概念之間的關係進行建模，我們建立了可解釋的概念向量，用來引導多重代理 RAG 系統生成放射科報告，以增強臨床相關性、可解釋性和透明性。使用 LLM 作為判斷者對生成的報告進行評估，確認了我們模型輸出的可解釋性和臨床實用性。在 COVID-QU 資料集上，我們的模型達到了 81% 的分類準確度，並展示了強健的報告生成效能，五項關鍵指標介於 84% 到 90% 之間。這個可解釋的多重代理架構彌合了高性能 AI 與在臨床環境中進行可靠 AI 驅動 CXR 分析所需的可解釋性之間的差距。
+
+##### **Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**
+2412.15748v1 by Shamus Sim, Tyrone Chen
+
+Background: Despite the current ubiquity of Large Language Models (LLMs)
+across the medical domain, there is a surprising lack of studies which address
+their reasoning behaviour. We emphasise the importance of understanding
+reasoning behaviour as opposed to high-level prediction accuracies, since it is
+equivalent to explainable AI (XAI) in this context. In particular, achieving
+XAI in medical LLMs used in the clinical domain will have a significant impact
+across the healthcare sector. Results: Therefore, we define the concept of
+reasoning behaviour in the specific context of medical LLMs. We then categorise
+and discuss the current state of the art of methods which evaluate reasoning
+behaviour in medical LLMs. Finally, we propose theoretical frameworks which can
+empower medical professionals or machine learning engineers to gain insight
+into the low-level reasoning operations of these previously obscure models.
+Conclusion: The subsequent increased transparency and trust in medical machine
+learning models by clinicians as well as patients will accelerate the
+integration, application as well as further development of medical AI for the
+healthcare system as a whole
+
+摘要：背景：儘管大型語言模型 (LLM) 目前在醫療領域無所不在，但令人驚訝的是，探討其推理行為的研究卻相當缺乏。我們強調了解推理行為而非高層級的預測準確度非常重要，因為在這種情況下，這等同於可解釋 AI (XAI)。尤其是在臨床領域中使用的醫療 LLM 中實現 XAI，將對整個醫療保健產業產生重大影響。結果：因此，我們在醫療 LLM 的特定背景下定義了推理行為的概念。接著我們分類並探討當前評估醫療 LLM 中推理行為的方法的最新技術。最後，我們提出理論架構，讓醫療專業人員或機器學習工程師得以深入了解這些先前模糊模型的低層級推理運算。結論：臨床醫生和患者對醫療機器學習模型的透明度和信任度隨之提升，將加速醫療 AI 在整個醫療保健系統中的整合、應用和進一步發展。
+
 ##### **Cognition Chain for Explainable Psychological Stress Detection on Social Media**
 2412.14009v1 by Xin Wang, Boyan Gao, Yi Dai, Lei Cao, Liang Zhao, Yibo Yang, David Clifton
 
@@ -1489,31 +1531,6 @@ studies, and contributing to the strategic direction of the field.
 
 摘要：精確且及時地偵測乳癌對於改善患者預後至關重要。診斷方法傳統上依賴於單一模式方法；然而，醫療資料分析正在整合超越傳統影像的各種資料來源。使用整合影像和非影像資料的多模式技術，標誌著乳癌診斷的變革性進展。本篇綜述的目的是探討多模式技術的新興領域，特別是將組織病理學影像與非影像資料融合。此外，可解釋人工智慧 (XAI) 將用於闡明複雜演算法的決策過程，強調診斷過程中可解釋性的必要性。本綜述利用多模式資料並強調可解釋性，以提高診斷準確性、臨床醫師的信心和患者參與度，最終促進乳癌更個人化的治療策略，同時也找出多模式和可解釋性的研究差距，引導未來的研究，並為該領域的策略方向做出貢獻。
 
-##### **Revisiting Attention Weights as Interpretations of Message-Passing Neural Networks**
-2406.04612v1 by Yong-Min Shin, Siqing Li, Xin Cao, Won-Yong Shin
-
-The self-attention mechanism has been adopted in several widely-used
-message-passing neural networks (MPNNs) (e.g., GATs), which adaptively controls
-the amount of information that flows along the edges of the underlying graph.
-This usage of attention has made such models a baseline for studies on
-explainable AI (XAI) since interpretations via attention have been popularized
-in various domains (e.g., natural language processing and computer vision).
-However, existing studies often use naive calculations to derive attribution
-scores from attention, and do not take the precise and careful calculation of
-edge attribution into consideration. In our study, we aim to fill the gap
-between the widespread usage of attention-enabled MPNNs and their potential in
-largely under-explored explainability, a topic that has been actively
-investigated in other areas. To this end, as the first attempt, we formalize
-the problem of edge attribution from attention weights in GNNs. Then, we
-propose GATT, an edge attribution calculation method built upon the computation
-tree. Through comprehensive experiments, we demonstrate the effectiveness of
-our proposed method when evaluating attributions from GATs. Conversely, we
-empirically validate that simply averaging attention weights over graph
-attention layers is insufficient to interpret the GAT model's behavior. Code is
-publicly available at https://github.com/jordan7186/GAtt/tree/main.
-
-摘要：自注意力機制已被採用於多個廣泛使用的訊息傳遞神經網路 (MPNN)（例如 GAT），它可以自適應地控制沿著底層圖形邊緣流動的資訊量。這種注意力的使用使得此類模型成為可解釋 AI (XAI) 研究的基線，因為透過注意力的詮釋已在各種領域（例如自然語言處理和電腦視覺）中普及。然而，現有的研究通常使用天真的計算方法從注意力中推導出歸因分數，並且沒有考慮到邊緣歸因的精確且仔細的計算。在我們的研究中，我們旨在填補注意力啟用 MPNN 的廣泛使用與它們在很大程度上未被充分探索的可解釋性之間的差距，這個主題已在其他領域積極研究。為此，作為第一次嘗試，我們將 GNN 中注意力權重的邊緣歸因問題形式化。然後，我們提出 GATT，一種建立在計算樹上的邊緣歸因計算方法。透過全面的實驗，我們展示了我們提出的方法在評估 GAT 的歸因時所具有的效果。相反地，我們憑經驗驗證了僅對圖注意力層上的注意力權重取平均值不足以詮釋 GAT 模型的行為。程式碼已公開於 https://github.com/jordan7186/GAtt/tree/main。
-
 ##### **Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**
 2406.16908v3 by Dinuka Sandun Udayantha, Kavindu Weerasinghe, Nima Wickramasinghe, Akila Abeyratne, Kithmin Wickremasinghe, Jithangi Wanigasinghe, Anjula De Silva, Chamira U. S. Edussooriya
 
@@ -2693,35 +2710,4 @@ we conclude with some ideas as to how platforms could better mobilize resources
 to act as a careful, fair, and proportionate regulatory access point.
 
 摘要：AI 開發社群日益利用 Hugging Face 等託管中介機構提供用戶上傳的模型和訓練資料的簡易存取權限。這些模型市集降低了數十萬名用戶的技術部署障礙，但可能會被用於許多潛在有害和非法的方式。在本文中，我們說明 AI 系統既可以「包含」內容，又可以作為開放式工具，這提出了迄今為止最棘手的平台治理挑戰之一。我們提供 Hugging Face、GitHub 和 Civitai 等三個說明性平台上數起事件的案例研究，以檢視模型市集如何審核模型。根據此分析，我們概述產業為回應審核需求而開發的重要（但仍有限）實務：授權、存取和使用限制、自動化內容審核和開放政策制定。雖然當前政策挑戰相當可觀，我們最後提出一些構想，說明平台如何能更好地動員資源，作為謹慎、公平且適度的法規存取點。
-
-##### **Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**
-2311.11932v1 by Muta Tah Hira, Mohammad A. Razzaque, Mosharraf Sarker
-
-Background and objectives: By extracting this information, Machine or Deep
-Learning (ML/DL)-based autonomous data analysis tools can assist clinicians and
-cancer researchers in discovering patterns and relationships from complex data
-sets. Many DL-based analyses on ovarian cancer (OC) data have recently been
-published. These analyses are highly diverse in various aspects of cancer
-(e.g., subdomain(s) and cancer type they address) and data analysis features.
-However, a comprehensive understanding of these analyses in terms of these
-features and AI assurance (AIA) is currently lacking. This systematic review
-aims to fill this gap by examining the existing literature and identifying
-important aspects of OC data analysis using DL, explicitly focusing on the key
-features and AI assurance perspectives. Methods: The PRISMA framework was used
-to conduct comprehensive searches in three journal databases. Only studies
-published between 2015 and 2023 in peer-reviewed journals were included in the
-analysis. Results: In the review, a total of 96 DL-driven analyses were
-examined. The findings reveal several important insights regarding DL-driven
-ovarian cancer data analysis: - Most studies 71% (68 out of 96) focused on
-detection and diagnosis, while no study addressed the prediction and prevention
-of OC. - The analyses were predominantly based on samples from a non-diverse
-population (75% (72/96 studies)), limited to a geographic location or country.
-- Only a small proportion of studies (only 33% (32/96)) performed integrated
-analyses, most of which used homogeneous data (clinical or omics). - Notably, a
-mere 8.3% (8/96) of the studies validated their models using external and
-diverse data sets, highlighting the need for enhanced model validation, and -
-The inclusion of AIA in cancer data analysis is in a very early stage; only
-2.1% (2/96) explicitly addressed AIA through explainability.
-
-摘要：<paragraph>背景和目標：通過提取這些資訊，機器或深度學習 (ML/DL) 基於自主數據分析工具可以協助臨床醫生和癌症研究人員從複雜的數據集中發現模式和關係。最近已發表許多基於 DL 的卵巢癌 (OC) 數據分析。這些分析在癌症的各個方面（例如，它們涉及的子領域和癌症類型）和數據分析功能方面高度多樣化。然而，目前缺乏對這些分析在這些特徵和 AI 保證 (AIA) 方面的全面理解。這篇系統性回顧旨在通過檢視現有文獻並明確關注關鍵特徵和 AI 保證觀點，來填補這個空白。方法：使用 PRISMA 架構在三個期刊資料庫中進行全面搜尋。分析僅包括 2015 年至 2023 年間發表於同行評審期刊的研究。結果：在回顧中，總共檢視了 96 項由 DL 驅動的分析。研究結果揭示了幾個關於由 DL 驅動的卵巢癌數據分析的重要見解：- 大多數研究 71%（96 項中有 68 項）專注於檢測和診斷，而沒有研究探討 OC 的預測和預防。- 這些分析主要基於來自非多元族群的樣本（75%（96 項研究中的 72 項）），僅限於某個地理位置或國家。- 只有少部分研究（僅 33%（96 項研究中的 32 項）執行整合分析，其中大多數使用同質數據（臨床或組學）。- 值得注意的是，只有 8.3%（96 項研究中的 8 項）使用外部和多元數據集驗證了其模型，強調了加強模型驗證的必要性，以及- 將 AIA 納入癌症數據分析仍處於非常早期的階段；只有 2.1%（96 項研究中的 2 項）透過可解釋性明確探討了 AIA。</paragraph>
 

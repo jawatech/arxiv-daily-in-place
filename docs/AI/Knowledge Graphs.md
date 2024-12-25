@@ -2,15 +2,21 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537v1](http://arxiv.org/abs/2412.18537v1)|null|
+|**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443v1](http://arxiv.org/abs/2412.18443v1)|null|
+|**2024-12-24**|**Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study**|Xuefeng Jiang et.al.|[2412.18260v1](http://arxiv.org/abs/2412.18260v1)|[link](https://github.com/sakirinn/llm4cvd)|
+|**2024-12-24**|**An Automatic Graph Construction Framework based on Large Language Models for Recommendation**|Rong Shan et.al.|[2412.18241v1](http://arxiv.org/abs/2412.18241v1)|[link](https://github.com/lavieenrose365/autograph)|
+|**2024-12-23**|**CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**|Ruibo Tu et.al.|[2412.17970v1](http://arxiv.org/abs/2412.17970v1)|[link](https://github.com/turuibo/cautabbench)|
+|**2024-12-23**|**Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**|Ge Zhang et.al.|[2412.17963v1](http://arxiv.org/abs/2412.17963v1)|null|
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767v1](http://arxiv.org/abs/2412.17767v1)|[link](https://github.com/ulab-uiuc/research-town)|
-|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690v1](http://arxiv.org/abs/2412.17690v1)|[link](https://github.com/fraunhofer-iis/ragonite)|
+|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690v2](http://arxiv.org/abs/2412.17690v2)|null|
 |**2024-12-23**|**A Dual-Perspective Metaphor Detection Framework Using Large Language Models**|Yujie Lin et.al.|[2412.17332v1](http://arxiv.org/abs/2412.17332v1)|[link](https://github.com/deeplearnxmu/dmd)|
 |**2024-12-22**|**GraphAgent: Agentic Graph Language Assistant**|Yuhao Yang et.al.|[2412.17029v1](http://arxiv.org/abs/2412.17029v1)|null|
 |**2024-12-22**|**Enhancing Supply Chain Transparency in Emerging Economies Using Online Contents and LLMs**|Bohan Jin et.al.|[2412.16922v1](http://arxiv.org/abs/2412.16922v1)|null|
 |**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v1](http://arxiv.org/abs/2412.16833v1)|null|
 |**2024-12-21**|**Apples to Apples: Establishing Comparability in Knowledge Generation Tasks Involving Users**|Christophe Debruyne et.al.|[2412.16766v1](http://arxiv.org/abs/2412.16766v1)|null|
 |**2024-12-21**|**Self-guided Knowledgeable Network of Thoughts: Amplifying Reasoning with Large Language Models**|Chao-Chi Chen et.al.|[2412.16533v1](http://arxiv.org/abs/2412.16533v1)|null|
-|**2024-12-21**|**Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding**|Junyi Ye et.al.|[2412.16420v1](http://arxiv.org/abs/2412.16420v1)|null|
+|**2024-12-21**|**Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding**|Junyi Ye et.al.|[2412.16420v1](http://arxiv.org/abs/2412.16420v1)|[link](https://github.com/junyiye/textflow)|
 |**2024-12-20**|**HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases**|Meng-Chieh Lee et.al.|[2412.16311v1](http://arxiv.org/abs/2412.16311v1)|null|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100v1](http://arxiv.org/abs/2412.16100v1)|null|
 |**2024-12-20**|**GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning**|Heming Zhang et.al.|[2412.15790v1](http://arxiv.org/abs/2412.15790v1)|null|
@@ -31,7 +37,7 @@
 |**2024-12-17**|**Detecting Emotional Incongruity of Sarcasm by Commonsense Reasoning**|Ziqi Qiu et.al.|[2412.12808v2](http://arxiv.org/abs/2412.12808v2)|null|
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643v1](http://arxiv.org/abs/2412.12643v1)|null|
 |**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612v1](http://arxiv.org/abs/2412.12612v1)|null|
-|**2024-12-17**|**Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**|Yibo Zhao et.al.|[2412.15268v1](http://arxiv.org/abs/2412.15268v1)|null|
+|**2024-12-17**|**Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**|Yibo Zhao et.al.|[2412.15268v2](http://arxiv.org/abs/2412.15268v2)|null|
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456v1](http://arxiv.org/abs/2412.12456v1)|null|
 |**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v1](http://arxiv.org/abs/2412.12318v1)|null|
 |**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
@@ -81,7 +87,7 @@
 |**2024-12-07**|**HMGIE: Hierarchical and Multi-Grained Inconsistency Evaluation for Vision-Language Data Cleansing**|Zihao Zhu et.al.|[2412.05685v1](http://arxiv.org/abs/2412.05685v1)|null|
 |**2024-12-07**|**KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models**|Weijie Chen et.al.|[2412.05547v1](http://arxiv.org/abs/2412.05547v1)|null|
 |**2024-12-07**|**LABIIUM: AI-Enhanced Zero-configuration Measurement Automation System**|Emmanuel A. Olowe et.al.|[2412.16172v1](http://arxiv.org/abs/2412.16172v1)|null|
-|**2024-12-06**|**Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering**|Krishnasai Addala et.al.|[2412.05453v1](http://arxiv.org/abs/2412.05453v1)|null|
+|**2024-12-06**|**Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering**|Krishnasai Addala et.al.|[2412.05453v2](http://arxiv.org/abs/2412.05453v2)|null|
 |**2024-12-06**|**A Graph-Based Approach for Conversational AI-Driven Personal Memory Capture and Retrieval in a Real-world Application**|Savini Kashmira et.al.|[2412.05447v1](http://arxiv.org/abs/2412.05447v1)|null|
 |**2024-12-06**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
 |**2024-12-06**|**HyperGraphOS: A Meta Operating System for Science and Engineering**|Antonello Ceravola et.al.|[2412.04923v1](http://arxiv.org/abs/2412.04923v1)|null|
@@ -96,14 +102,170 @@
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
 |**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624v1](http://arxiv.org/abs/2412.03624v1)|[link](https://github.com/hishamalyahya/semantic_backprop)|
 |**2024-12-04**|**Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**|Ge Zheng et.al.|[2412.03390v1](http://arxiv.org/abs/2412.03390v1)|null|
-|**2024-12-04**|**CBEval: A framework for evaluating and interpreting cognitive biases in LLMs**|Ammar Shaikh et.al.|[2412.03605v1](http://arxiv.org/abs/2412.03605v1)|null|
-|**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788v2](http://arxiv.org/abs/2412.02788v2)|[link](https://github.com/semantic-systems/hybrid-squad)|
-|**2024-12-03**|**Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**|Francesco Cauteruccio et.al.|[2412.02290v1](http://arxiv.org/abs/2412.02290v1)|null|
-|**2024-12-02**|**A Neurosymbolic Fast and Slow Architecture for Graph Coloring**|Vedant Khandelwal et.al.|[2412.01752v1](http://arxiv.org/abs/2412.01752v1)|null|
-|**2024-12-02**|**Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**|Jialin Wang et.al.|[2412.01490v4](http://arxiv.org/abs/2412.01490v4)|null|
-|**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765v1](http://arxiv.org/abs/2412.00765v1)|null|
 
 #### Abstracts
+##### **Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**
+2412.18537v1 by Derong Xu Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen
+
+Large Language Models (LLMs) demonstrate remarkable capabilities, yet
+struggle with hallucination and outdated knowledge when tasked with complex
+knowledge reasoning, resulting in factually incorrect outputs. Previous studies
+have attempted to mitigate it by retrieving factual knowledge from large-scale
+knowledge graphs (KGs) to assist LLMs in logical reasoning and prediction of
+answers. However, this kind of approach often introduces noise and irrelevant
+data, especially in situations with extensive context from multiple knowledge
+aspects. In this way, LLM attention can be potentially mislead from question
+and relevant information. In our study, we introduce an Adaptive Multi-Aspect
+Retrieval-augmented over KGs (Amar) framework. This method retrieves knowledge
+including entities, relations, and subgraphs, and converts each piece of
+retrieved text into prompt embeddings. The Amar framework comprises two key
+sub-components: 1) a self-alignment module that aligns commonalities among
+entities, relations, and subgraphs to enhance retrieved text, thereby reducing
+noise interference; 2) a relevance gating module that employs a soft gate to
+learn the relevance score between question and multi-aspect retrieved data, to
+determine which information should be used to enhance LLMs' output, or even
+filtered altogether. Our method has achieved state-of-the-art performance on
+two common datasets, WebQSP and CWQ, showing a 1.9\% improvement in accuracy
+over its best competitor and a 6.6\% improvement in logical form generation
+over a method that directly uses retrieved text as context prompts. These
+results demonstrate the effectiveness of Amar in improving the reasoning of
+LLMs.
+
+摘要：大型語言模型 (LLM) 展示了非凡的能力，但當它們被賦予複雜的知識推理任務時，卻會陷入幻覺和過時知識的困境，導致事實上不正確的輸出。先前的研究已嘗試通過從大規模知識圖譜 (KG) 中擷取事實知識來減輕這種情況，以協助 LLM 進行邏輯推理和答案預測。然而，這種方法通常會引入雜訊和無關資料，特別是在具有來自多個知識面向的廣泛背景的情況下。通過這種方式，LLM 注意力可能會被問題和相關資訊誤導。在我們的研究中，我們引入了自適應多面向檢索增強的知識圖譜 (Amar) 架構。此方法擷取包括實體、關係和子圖的知識，並將每個擷取的文字轉換為提示嵌入。Amar 架構包含兩個關鍵子元件：1) 一個自我對齊模組，它對齊實體、關係和子圖之間的共性以增強擷取的文字，從而減少雜訊干擾；2) 一個相關性閘門模組，它採用軟閘門來學習問題與多面向擷取資料之間的相关性分數，以確定哪些資訊應被用來增強 LLM 的輸出，甚至完全過濾掉。我們的模型在兩個常見的資料集 WebQSP 和 CWQ 上達到了最先進的效能，與最佳競爭者相比，準確度提升了 1.9%，與直接使用擷取文字作為背景提示的方法相比，邏輯形式產生的改進為 6.6%。這些結果證明了 Amar 在改善 LLM 推理方面的有效性。
+
+##### **Is Large Language Model Good at Triple Set Prediction? An Empirical Study**
+2412.18443v1 by Yuan Yuan, Yajing Xu, Wen Zhang
+
+The core of the Knowledge Graph Completion (KGC) task is to predict and
+complete the missing relations or nodes in a KG. Common KGC tasks are mostly
+about inferring unknown elements with one or two elements being known in a
+triple. In comparison, the Triple Set Prediction (TSP) task is a more realistic
+knowledge graph completion task. It aims to predict all elements of unknown
+triples based on the information from known triples. In recent years, large
+language models (LLMs) have exhibited significant advancements in language
+comprehension, demonstrating considerable potential for KGC tasks. However, the
+potential of LLM on the TSP task has not yet to be investigated. Thus in this
+paper we proposed a new framework to explore the strengths and limitations of
+LLM in the TSP task. Specifically, the framework consists of LLM-based rule
+mining and LLM-based triple set prediction. The relation list of KG embedded
+within rich semantic information is first leveraged to prompt LLM in the
+generation of rules. This process is both efficient and independent of
+statistical information, making it easier to mine effective and realistic
+rules. For each subgraph, the specified rule is applied in conjunction with the
+relevant triples within that subgraph to guide the LLM in predicting the
+missing triples. Subsequently, the predictions from all subgraphs are
+consolidated to derive the complete set of predicted triples on KG. Finally,
+the method is evaluated on the relatively complete CFamily dataset. The
+experimental results indicate that when LLMs are required to adhere to a large
+amount of factual knowledge to predict missing triples, significant
+hallucinations occurs, leading to a noticeable decline in performance. To
+further explore the causes of this phenomenon, this paper presents a
+comprehensive analysis supported by a detailed case study.
+
+摘要：知識圖譜完成 (KGC) 任務的核心是預測和完成 KG 中遺失的關係或節點。常見的 KGC 任務大多是關於推論未知元素，其中一個或兩個元素在三元組中已知。相比之下，三元組集合預測 (TSP) 任務是一個更實際的知識圖譜完成任務。它旨在根據已知三元組中的資訊預測未知三元組的所有元素。近年來，大型語言模型 (LLM) 在語言理解方面表現出顯著的進步，顯示出 KGC 任務的巨大潛力。然而，LLM 在 TSP 任務上的潛力尚未得到探討。因此，在本文中，我們提出了一個新的框架來探索 LLM 在 TSP 任務中的優勢和局限性。具體來說，該框架包含基於 LLM 的規則挖掘和基於 LLM 的三元組集合預測。嵌入豐富語義資訊的 KG 關係清單首先被利用來提示 LLM 生成規則。這個過程既有效率又獨立於統計資訊，使得挖掘有效且實際的規則變得更容易。對於每個子圖，指定規則與該子圖中相關的三元組結合使用，以指導 LLM 預測遺失的三元組。隨後，合併所有子圖的預測，以推導 KG 上預測三元組的完整集合。最後，該方法在相對完整的 CFamily 資料集上進行評估。實驗結果表明，當要求 LLM 遵循大量事實知識來預測遺失的三元組時，會發生顯著的幻覺，導致效能顯著下降。為了進一步探討這種現象的原因，本文提出了由詳細案例研究支援的全面分析。
+
+##### **Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study**
+2412.18260v1 by Xuefeng Jiang, Lvhua Wu, Sheng Sun, Jia Li, Jingjing Xue, Yuwei Wang, Tingting Wu, Min Liu
+
+Code vulnerability detection (CVD) is essential for addressing and preventing
+system security issues, playing a crucial role in ensuring software security.
+Previous learning-based vulnerability detection methods rely on either
+fine-tuning medium-size sequence models or training smaller neural networks
+from scratch. Recent advancements in large pre-trained language models (LLMs)
+have showcased remarkable capabilities in various code intelligence tasks
+including code understanding and generation. However, the effectiveness of LLMs
+in detecting code vulnerabilities is largely under-explored. This work aims to
+investigate the gap by fine-tuning LLMs for the CVD task, involving four
+widely-used open-source LLMs. We also implement other five previous graph-based
+or medium-size sequence models for comparison. Experiments are conducted on
+five commonly-used CVD datasets, including both the part of short samples and
+long samples. In addition, we conduct quantitative experiments to investigate
+the class imbalance issue and the model's performance on samples of different
+lengths, which are rarely studied in previous works. To better facilitate
+communities, we open-source all codes and resources of this study in
+https://github.com/SakiRinn/LLM4CVD and
+https://huggingface.co/datasets/xuefen/VulResource.
+
+摘要：程式碼漏洞偵測 (CVD) 對於解決和預防系統安全問題至關重要，在確保軟體安全中扮演著關鍵角色。先前的基於學習的漏洞偵測方法仰賴微調中等大小的序列模型或從頭訓練較小的神經網路。大型預訓練語言模型 (LLM) 的最新進展在各種程式碼智慧任務中展現了卓越的能力，包括程式碼理解和產生。然而，LLM 在偵測程式碼漏洞方面的有效性在很大程度上尚未被探索。本研究旨在透過微調 LLM 以執行 CVD 任務來探討這個差距，其中涉及四個廣泛使用的開源 LLM。我們也實作了其他五個先前的基於圖形的模型或中等大小的序列模型以供比較。實驗在五個常用的 CVD 資料集上進行，包括短範例和長範例的部分。此外，我們進行了量化實驗以探討類別不平衡問題和模型在不同長度範例上的效能，這些在先前的研究中很少被探討。為了更好地促進社群，我們在 https://github.com/SakiRinn/LLM4CVD 和 https://huggingface.co/datasets/xuefen/VulResource 開源了本研究的所有程式碼和資源。
+
+##### **An Automatic Graph Construction Framework based on Large Language Models for Recommendation**
+2412.18241v1 by Rong Shan, Jianghao Lin, Chenxu Zhu, Bo Chen, Menghui Zhu, Kangning Zhang, Jieming Zhu, Ruiming Tang, Yong Yu, Weinan Zhang
+
+Graph neural networks (GNNs) have emerged as state-of-the-art methods to
+learn from graph-structured data for recommendation. However, most existing
+GNN-based recommendation methods focus on the optimization of model structures
+and learning strategies based on pre-defined graphs, neglecting the importance
+of the graph construction stage. Earlier works for graph construction usually
+rely on speciffic rules or crowdsourcing, which are either too simplistic or
+too labor-intensive. Recent works start to utilize large language models (LLMs)
+to automate the graph construction, in view of their abundant open-world
+knowledge and remarkable reasoning capabilities. Nevertheless, they generally
+suffer from two limitations: (1) invisibility of global view (e.g., overlooking
+contextual information) and (2) construction inefficiency. To this end, we
+introduce AutoGraph, an automatic graph construction framework based on LLMs
+for recommendation. Specifically, we first use LLMs to infer the user
+preference and item knowledge, which is encoded as semantic vectors. Next, we
+employ vector quantization to extract the latent factors from the semantic
+vectors. The latent factors are then incorporated as extra nodes to link the
+user/item nodes, resulting in a graph with in-depth global-view semantics. We
+further design metapath-based message aggregation to effectively aggregate the
+semantic and collaborative information. The framework is model-agnostic and
+compatible with different backbone models. Extensive experiments on three
+real-world datasets demonstrate the efficacy and efffciency of AutoGraph
+compared to existing baseline methods. We have deployed AutoGraph in Huawei
+advertising platform, and gain a 2.69% improvement on RPM and a 7.31%
+improvement on eCPM in the online A/B test. Currently AutoGraph has been used
+as the main trafffc model, serving hundreds of millions of people.
+
+摘要：圖神經網路 (GNN) 已成為最先進的方法，可從圖形結構化資料中學習推薦。然而，現有的基於 GNN 的推薦方法大多側重於預定義圖形上的模型結構和學習策略的最佳化，忽略了圖形建構階段的重要性。早期圖形建構工作通常依賴於特定規則或群眾外包，這些方法過於簡化或過於勞動密集。最近的工作開始利用大型語言模型 (LLM) 來自動化圖形建構，因為它們具有豐富的開放世界知識和卓越的推理能力。儘管如此，它們通常存在兩個限制：(1) 全域檢視的不可見性（例如，忽略上下文資訊）和 (2) 建構效率低下。為此，我們引入了 AutoGraph，一個基於 LLM 的自動圖形建構框架，用於推薦。具體來說，我們首先使用 LLM 推斷使用者偏好和項目知識，並將其編碼為語義向量。接下來，我們採用向量量化從語義向量中提取潛在因子。然後將潛在因子作為額外節點加入，以連結使用者/項目節點，從而形成一個具有深入全域檢視語義的圖形。我們進一步設計了基於元路徑的訊息聚合，以有效聚合語義和協作資訊。該框架與模型無關，並與不同的主幹模型相容。在三個真實世界資料集上進行的廣泛實驗證明了 AutoGraph 與現有基準方法相比的效能和效率。我們已在華為廣告平台上部署了 AutoGraph，並在線上 A/B 測試中獲得了 RPM 提升 2.69% 和 eCPM 提升 7.31%。目前 AutoGraph 已被用作主要的流量模型，服務於數億人。
+
+##### **CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**
+2412.17970v1 by Ruibo Tu, Hedvig Kjellström, Gustav Eje Henter, Cheng Zhang
+
+Causal reasoning capabilities are essential for large language models (LLMs)
+in a wide range of applications, such as education and healthcare. But there is
+still a lack of benchmarks for a better understanding of such capabilities.
+Current LLM benchmarks are mainly based on conversational tasks, academic math
+tests, and coding tests. Such benchmarks evaluate LLMs in well-regularized
+settings, but they are limited in assessing the skills and abilities to solve
+real-world problems. In this work, we provide a benchmark, named by CARL-GT,
+which evaluates CAusal Reasoning capabilities of large Language models using
+Graphs and Tabular data. The benchmark has a diverse range of tasks for
+evaluating LLMs from causal graph reasoning, knowledge discovery, and
+decision-making aspects. In addition, effective zero-shot learning prompts are
+developed for the tasks. In our experiments, we leverage the benchmark for
+evaluating open-source LLMs and provide a detailed comparison of LLMs for
+causal reasoning abilities. We found that LLMs are still weak in casual
+reasoning, especially with tabular data to discover new insights. Furthermore,
+we investigate and discuss the relationships of different benchmark tasks by
+analyzing the performance of LLMs. The experimental results show that LLMs have
+different strength over different tasks and that their performance on tasks in
+different categories, i.e., causal graph reasoning, knowledge discovery, and
+decision-making, shows stronger correlation than tasks in the same category.
+
+摘要：因果推理能力对于大型语言模型 (LLM) 至关重要，适用于广泛的应用，例如教育和医疗保健。但对于更好地理解此类能力，仍然缺乏基准。当前的 LLM 基准主要基于会话任务、学术数学测试和编码测试。此类基准在经过良好规范的环境中评估 LLM，但它们在评估解决实际问题的能力和技能方面受到限制。在这项工作中，我们提供了一个基准，名为 CARL-GT，它使用图和表格数据来评估大型语言模型的因果推理能力。该基准具有各种任务，用于从因果图推理、知识发现和决策方面评估 LLM。此外，针对这些任务开发了有效的零样本学习提示。在我们的实验中，我们利用基准来评估开源 LLM，并对 LLM 的因果推理能力进行了详细比较。我们发现 LLM 在因果推理方面仍然很弱，尤其是在使用表格数据发现新见解时。此外，我们通过分析 LLM 的性能来调查和讨论不同基准任务之间的关系。实验结果表明，LLM 在不同任务上具有不同的优势，并且它们在不同类别中的任务上的表现，即因果图推理、知识发现和决策，比同一类别中的任务表现出更强的相关性。
+
+##### **Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**
+2412.17963v1 by Ge Zhang, Mohammad Ali Alomrani, Hongjian Gu, Jiaming Zhou, Yaochen Hu, Bin Wang, Qun Liu, Mark Coates, Yingxue Zhang, Jianye Hao
+
+Large language models (LLMs) possess vast semantic knowledge but often
+struggle with complex reasoning tasks, particularly in relational reasoning
+problems such as kinship or spatial reasoning. In this paper, we present
+Path-of-Thoughts (PoT), a novel framework designed to tackle relation reasoning
+by decomposing the task into three key stages: graph extraction, path
+identification, and reasoning. Unlike previous approaches, PoT efficiently
+extracts a task-agnostic graph that identifies crucial entities, relations, and
+attributes within the problem context. Subsequently, PoT identifies relevant
+reasoning chains within the graph corresponding to the posed question,
+facilitating inference of potential answers. Experimental evaluations on four
+benchmark datasets, demanding long reasoning chains, demonstrate that PoT
+surpasses state-of-the-art baselines by a significant margin (maximum 21.3%)
+without necessitating fine-tuning or extensive LLM calls. Furthermore, as
+opposed to prior neuro-symbolic methods, PoT exhibits improved resilience
+against LLM errors by leveraging the compositional nature of graphs.
+
+摘要：大型語言模型 (LLM) 擁有廣泛的語義知識，但在複雜的推理任務中經常遇到困難，特別是在關係推理問題中，例如親屬關係或空間推理。在本文中，我們提出思考路徑 (PoT)，這是一個新穎的框架，旨在通過將任務分解為三個關鍵階段來解決關係推理：圖形提取、路徑識別和推理。與之前的做法不同，PoT 有效地提取了一個與任務無關的圖形，該圖形識別了問題背景中的關鍵實體、關係和屬性。隨後，PoT 在與所提出的問題相應的圖形中識別出相關的推理鏈，從而推斷出潛在答案。在需要長推理鏈的四個基準數據集上的實驗評估表明，PoT 以顯著的優勢（最大 21.3%）超越了最先進的基準，而無需微調或廣泛的 LLM 調用。此外，與先前的神經符號方法相反，PoT 通過利用圖形的組合特性表現出對 LLM 錯誤的增強的彈性。
+
 ##### **ResearchTown: Simulator of Human Research Community**
 2412.17767v1 by Haofei Yu, Zhaochen Hong, Zirui Cheng, Kunlun Zhu, Keyang Xuan, Jinwei Yao, Tao Feng, Jiaxuan You
 
@@ -131,7 +293,7 @@ that potentially inspire novel research directions.
 摘要：大型語言模型 (LLM) 在科學領域展現了非凡的潛力，但仍有一個基本問題尚未解答：我們能用 LLM 模擬人類研究社群嗎？探討這個問題能加深我們對腦力激盪背後流程的理解，並激發自動發現新科學見解。在這項工作中，我們提出 ResearchTown，一個用於研究社群模擬的多代理架構。在這個架構中，人類研究社群被簡化並建模為代理資料圖，其中研究人員和論文分別表示為代理類型節點和資料類型節點，並根據他們的合作關係進行連接。我們還介紹了 TextGNN，一個基於文字的推論架構，它將各種研究活動（例如，閱讀論文、撰寫論文和撰寫評論）建模為代理資料圖上統一訊息傳遞過程的特殊形式。為了評估研究模擬的品質，我們提出了 ResearchBench，一個使用節點遮罩預測任務進行基於相似性的可擴充且客觀評估的基準。我們的實驗揭示了三個關鍵發現：(1) ResearchTown 可以提供協作研究活動的逼真模擬，包括撰寫論文和撰寫評論；(2) ResearchTown 可以維持多位研究人員和不同論文的穩健模擬；(3) ResearchTown 可以產生跨學科研究構想，潛在激發新的研究方向。
 
 ##### **RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**
-2412.17690v1 by Rishiraj Saha Roy, Chris Hinze, Joel Schlotthauer, Farzad Naderi, Viktor Hangya, Andreas Foltyn, Luzian Hahn, Fabian Kuech
+2412.17690v2 by Rishiraj Saha Roy, Chris Hinze, Joel Schlotthauer, Farzad Naderi, Viktor Hangya, Andreas Foltyn, Luzian Hahn, Fabian Kuech
 
 Conversational question answering (ConvQA) is a convenient means of searching
 over RDF knowledge graphs (KGs), where a prevalent approach is to translate
@@ -147,7 +309,7 @@ augmented generation (RAG) setup, where an LLM generates a coherent response
 from accumulated search results. We demonstrate the superiority of our proposed
 system over several baselines on a knowledge graph of BMW automobiles.
 
-摘要：對話式問答 (ConvQA) 是在 RDF 知識圖譜 (KG) 上進行搜尋的便利方式，其中一種普遍的方法是將自然語言問題轉換成 SPARQL 查詢。然而，SPARQL 有某些缺點：(i) 對於複雜的意圖和對話式問題而言，它很脆弱，而且 (ii) 它不適合更抽象的需求。我們提出一個新穎的雙管齊下的系統，其中我們融合：(i) 從自動從 KG 衍生的資料庫中取得的 SQL 查詢結果，以及 (ii) KG 事實的口頭表達上的文字搜尋結果。我們的管道支援反覆檢索：當發現任何分支的結果不令人滿意時，系統可以自動選擇進行進一步的回合。我們將所有內容組合在檢索擴充產生 (RAG) 設定中，其中 LLM 從累積的搜尋結果中產生連貫的回應。我們在 BMW 汽車的知識圖譜上展示了我們提出的系統優於多個基準的優越性。
+摘要：對話式問答（ConvQA）是一種搜尋 RDF 知識圖譜 (KG) 的便利方法，其中一種普遍的方法是將自然語言問題轉換為 SPARQL 查詢。然而，SPARQL 有某些缺點：(i) 對於複雜的意圖和對話式問題來說，它很脆弱，(ii) 它不適合更抽象的需求。相反，我們提出了一個新穎的雙管齊下的系統，其中我們融合：(i) 從自動從 KG 衍生的資料庫上的 SQL 查詢結果，以及 (ii) KG 事實的文字化上的文字搜尋結果。我們的管道支援反覆檢索：當發現任何分支的結果不令人滿意時，系統可以自動選擇進一步的回合。我們將所有內容放在檢索擴充生成 (RAG) 設定中，其中 LLM 從累積的搜尋結果中生成連貫的回應。我們在 BMW 汽車的知識圖譜上展示了我們提出的系統優於幾個基準的優越性。
 
 ##### **A Dual-Perspective Metaphor Detection Framework Using Large Language Models**
 2412.17332v1 by Yujie Lin, Jingyao Liu, Yan Gao, Ante Wang, Jinsong Su
@@ -803,7 +965,7 @@ Text2Cypher tasks.
 摘要：Cypher 是 Neo4j 圖形資料庫的查詢語言，在啟用以圖形為基礎的分析和資料探索方面發揮著至關重要的作用。儘管已經投入大量研究將自然語言轉換為 SQL 查詢生成 (Text2SQL)，但稱為 Text2Cypher 的圖形資料庫類比問題仍未得到充分探討。在這項工作中，我們介紹了 SynthCypher，這是一個完全合成且自動化的資料生成管道，旨在解決這個差距。SynthCypher 採用了一種新穎的 LLMSupervised 生成驗證框架，確保了跨越不同領域和查詢複雜性的 Cypher 查詢在語法和語義上正確。使用這個管道，我們創建了 SynthCypher 資料集，這是一個包含 29.8k Text2Cypher 實例的大規模基準。微調開源大型語言模型 (LLM)，包括 SynthCypher 上的 LLaMa-3.1- 8B、Mistral-7B 和 QWEN-7B，在 Text2Cypher 測試集中產生了高達 40% 的顯著性能提升，在適用於圖形資料庫的 SPIDER 基準上提升了 30%。這項工作證明了高品質的合成資料可以有效地推動 Text2Cypher 任務的最新技術。
 
 ##### **Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
-2412.15268v1 by Yibo Zhao, Jiapeng Zhu, Can Xu, Xiang Li
+2412.15268v2 by Yibo Zhao, Jiapeng Zhu, Can Xu, Xiang Li
 
 The rapid growth of social media platforms has raised significant concerns
 regarding online content toxicity. When Large Language Models (LLMs) are used
@@ -821,7 +983,7 @@ across multiple datasets demonstrate that our MetaTox significantly decreases
 the false positive rate while boosting overall toxicity detection performance.
 Our code will be available soon.
 
-摘要：社群媒體平台快速成長，引發了對於網路內容毒性的重大疑慮。當大型語言模型 (LLM) 用於毒性偵測時，出現了兩個關鍵挑戰：1) 缺乏領域特定的毒性知識，導致假陰性；2) LLM 對毒性言論的過度敏感性，導致假陽性，限制了言論自由。為了解決這些問題，我們提出了一種名為 MetaTox 的新方法，利用元毒性知識圖譜上的圖形搜尋來增強仇恨和毒性偵測。首先，我們利用 LLM 透過三步驟管道萃取毒性資訊，建構一個全面的元毒性知識圖譜，以毒性基準資料集作為語料庫。其次，我們透過檢索和排名程序查詢圖形，以補充準確、相關的毒性知識。跨多個資料集進行的廣泛實驗和深入案例研究證明，我們的 MetaTox 大幅降低了假陽性率，同時提升了整體毒性偵測效能。我們的程式碼將很快提供。
+摘要：社群媒體平台快速成長，對於線上內容毒性引發高度關注。當大型語言模型 (LLM) 用於毒性偵測時，會出現兩個主要挑戰：1) 缺乏特定領域的毒性知識，導致假陰性；2) LLM 對毒性言論過度敏感，導致假陽性，限制言論自由。為了解決這些問題，我們提出了一種名為 MetaTox 的新方法，利用圖形搜尋在元毒性知識圖譜上，以增強仇恨和毒性偵測。首先，我們透過 LLM 利用三步驟管線萃取毒性資訊，建構全面的元毒性知識圖譜，並以毒性基準資料集作為語料庫。其次，我們透過檢索和排名程序查詢圖形，以補充準確且相關的毒性知識。跨多個資料集的廣泛實驗和深入案例研究顯示，我們的 MetaTox 大幅降低假陽性率，同時提升整體毒性偵測效能。我們的程式碼將很快提供。
 
 ##### **Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**
 2412.12456v1 by Xunkai Li, Zhengyu Wu, Jiayi Wu, Hanwen Cui, Jishuo Jia, Rong-Hua Li, Guoren Wang
@@ -2081,7 +2243,7 @@ required to improve LLM performance in Electronic Measurement Science Tasks.
 摘要：實驗室環境的複雜性需要簡化儀器互動並增強測量自動化的解決方案。傳統工具通常需要組態、軟體和程式設計技能，這會造成生產力障礙。包含專用軟體套件和自訂指令碼在內的先前方法，常常無法提供與程式設計實務相符的使用者友善解決方案。我們提出 LABIIUM，這是一個由 AI 增強的零組態測量自動化系統，旨在簡化實驗工作流程並提升使用者生產力。LABIIUM 整合由大型語言模型 (LLM) 提供動力的 AI 助理，以產生程式碼。LABIIUM 的實驗室自動化測量橋接器 (LAMBs) 使用標準工具（例如 VSCode 和 Python）實現無縫儀器連線，消除了設定負擔。為了展示其功能，我們進行了實驗，包括測量具有電流源負載的簡單二電晶體反相放大器的參數傳輸曲線。AI 助理使用不同的提示場景進行評估，並與包括 Claude Sonnet 3.5、Gemini Pro 1.5 和 GPT-4o 在內的多個模型進行比較。採用實作梯度加權適應性隨機取樣 (GWASS) 方法的專家解決方案作為基準。由 AI 助理產生的解決方案與專家解決方案和具有 10,000 個點的均勻線性掃描基準進行比較。圖形結果顯示 LLM 能夠成功完成最基本的均勻掃描，但 LLM 無法開發出適應性掃描演算法來與 GWASS 競爭。評估強調了 LABIIUM 增強實驗室生產力並支援研究和產業數位轉型的能力，並強調了在電子測量科學任務中提升 LLM 效能所需進行的後續工作。
 
 ##### **Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering**
-2412.05453v1 by Krishnasai Addala, Kabir Dev Paul Baghel, Dhruv Jain, Chhavi Kirtani, Avinash Anand, Rajiv Ratn Shah
+2412.05453v2 by Krishnasai Addala, Kabir Dev Paul Baghel, Dhruv Jain, Chhavi Kirtani, Avinash Anand, Rajiv Ratn Shah
 
 This study explores the effectiveness of using knowledge graphs generated by
 large language models to decompose high school-level physics questions into
@@ -2098,7 +2260,7 @@ sub-questions but also highlights the potential of LLMs to transform
 educational methodologies. The findings indicate a promising direction for
 applying AI to improve the quality and effectiveness of educational content.
 
-摘要：本研究探討使用大型語言模型產生的知識圖譜將高中物理題目分解成子問題的有效性。我們引進一個旨在增強模型回應品質的管道，用於問答任務。透過使用大型語言模型建立知識圖譜以捕捉問題的內部邏輯，這些圖譜接著引導子問題的產生。我們假設與傳統分解技術相比，此方法產生的子問題與原始問題在邏輯上更一致。我們的結果顯示，從知識圖譜衍生的子問題展現出顯著改善的保真度，符合原始問題的邏輯。此方法不僅透過提供更清晰且更符合脈絡的子問題來增強學習體驗，也突顯大型語言模型轉化教育方法的潛力。這些發現指出了一個有前途的方向，可將人工智慧應用於提升教育內容的品質與有效性。
+摘要：本研究探討使用大型語言模型產生的知識圖表，將高中物理題目分解成子問題的有效性。我們介紹了一個旨在提升模型回應品質的管道，用於問答任務。透過使用大型語言模型建構知識圖表，以擷取問題的內部邏輯，這些圖表接著引導子問題的產生。我們假設此方法產生的子問題，與傳統分解技術相比，在邏輯上與原始問題更一致。我們的結果顯示，從知識圖表衍生的子問題，在忠實度上顯著優於原始問題的邏輯。此方法不僅透過提供更清晰且更符合脈絡的子問題來提升學習體驗，也突顯大型語言模型轉型教育方法的潛力。這些發現指出一個有前景的方向，即應用人工智慧來提升教育內容的品質與有效性。
 
 ##### **A Graph-Based Approach for Conversational AI-Driven Personal Memory Capture and Retrieval in a Real-world Application**
 2412.05447v1 by Savini Kashmira, Jayanaka L. Dantanarayana, Joshua Brodsky, Ashish Mahendra, Yiping Kang, Krisztian Flautner, Lingjia Tang, Jason Mars
@@ -2457,148 +2619,4 @@ prediction surpasses all benchmarks, and demonstrate how GenAI models can be
 explored and effectively used in supply chain risk management.
 
 摘要：供應鏈風險管理中的一個關鍵障礙在於企業和政策制定者缺乏對相互依存供應網路關係的能見度。關係預測，也稱為連結預測，是供應鏈監控研究中一個新興領域，旨在使用資料驅動技術提高供應鏈的能見度。現有方法已成功預測關係，但難以提取這些關係所嵌入的背景，例如所供應的產品或供應地點。缺乏背景會妨礙從業者區分交易關係和既定的供應鏈關係，進而阻礙風險的準確評估。在這項工作中，我們開發了一個新的生成式人工智慧 (Gen AI) 增強機器學習架構，它利用預先訓練的語言模型作為嵌入模型，並結合機器學習模型來預測知識圖譜中的供應鏈關係。透過整合生成式 AI 技術，我們的做法捕捉到實體之間細微的語義關係，從而提高供應鏈能見度並促進更精確的風險管理。使用來自真實案例研究的資料，我們證明 GenAI 增強連結預測優於所有基準，並展示如何探索和有效地在供應鏈風險管理中使用 GenAI 模型。
-
-##### **CBEval: A framework for evaluating and interpreting cognitive biases in LLMs**
-2412.03605v1 by Ammar Shaikh, Raj Abhijit Dandekar, Sreedath Panat, Rajat Dandekar
-
-Rapid advancements in Large Language models (LLMs) has significantly enhanced
-their reasoning capabilities. Despite improved performance on benchmarks, LLMs
-exhibit notable gaps in their cognitive processes. Additionally, as reflections
-of human-generated data, these models have the potential to inherit cognitive
-biases, raising concerns about their reasoning and decision making
-capabilities. In this paper we present a framework to interpret, understand and
-provide insights into a host of cognitive biases in LLMs. Conducting our
-research on frontier language models we're able to elucidate reasoning
-limitations and biases, and provide reasoning behind these biases by
-constructing influence graphs that identify phrases and words most responsible
-for biases manifested in LLMs. We further investigate biases such as round
-number bias and cognitive bias barrier revealed when noting framing effect in
-language models.
-
-摘要：大型語言模型 (LLM) 的快速進步顯著增強了它們的推理能力。儘管在基準測試中的表現有所提升，但 LLM 在其認知過程中仍存在顯著的差距。此外，作為人類生成數據的反映，這些模型有可能繼承認知偏差，引發人們對其推理和決策能力的擔憂。在本文中，我們提出了一個框架來解釋、理解和洞察 LLM 中的一系列認知偏差。通過對前沿語言模型進行研究，我們能夠闡明推理限制和偏差，並通過構建影響圖來提供這些偏差背後的推理，這些影響圖識別出對 LLM 中表現出的偏差負有最大責任的短語和詞彙。我們進一步研究了在語言模型中註明框架效應時揭示的偏差，例如四捨五入偏差和認知偏差障礙。
-
-##### **Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**
-2412.02788v2 by Tilahun Abedissa Taffa, Debayan Banerjee, Yaregal Assabie, Ricardo Usbeck
-
-Existing Scholarly Question Answering (QA) methods typically target
-homogeneous data sources, relying solely on either text or Knowledge Graphs
-(KGs). However, scholarly information often spans heterogeneous sources,
-necessitating the development of QA systems that integrate information from
-multiple heterogeneous data sources. To address this challenge, we introduce
-Hybrid-SQuAD (Hybrid Scholarly Question Answering Dataset), a novel large-scale
-QA dataset designed to facilitate answering questions incorporating both text
-and KG facts. The dataset consists of 10.5K question-answer pairs generated by
-a large language model, leveraging the KGs DBLP and SemOpenAlex alongside
-corresponding text from Wikipedia. In addition, we propose a RAG-based baseline
-hybrid QA model, achieving an exact match score of 69.65 on the Hybrid-SQuAD
-test set.
-
-摘要：現有的學術問題解答 (QA) 方法通常針對同質資料來源，僅依賴文本或知識圖譜 (KG)。然而，學術資訊通常橫跨異質來源，因此有必要開發整合來自多個異質資料來源資訊的 QA 系統。為了應對此挑戰，我們引入了 Hybrid-SQuAD（混合學術問題解答資料集），這是一個新穎的大規模 QA 資料集，旨在促進回答包含文本和 KG 事實的問題。該資料集包含 10.5K 個問題答案對，由大型語言模型生成，利用 KGs DBLP 和 SemOpenAlex 以及來自維基百科的對應文本。此外，我們提出了基於 RAG 的基線混合 QA 模型，在 Hybrid-SQuAD 測試集中實現了 69.65 的完全匹配分數。
-
-##### **Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**
-2412.02290v1 by Francesco Cauteruccio, Enrico Corradini, Luca Virgili
-
-Advent of Code (AoC from now on) is a popular coding challenge requiring to
-solve programming puzzles for a variety of skill sets and levels. AoC follows
-the advent calendar, therefore it is an annual challenge that lasts for 25
-days. AoC participants usually post their solutions on social networks and
-discuss them online. These challenges are interesting to study since they could
-highlight the adoption of new tools, the evolution of the developer community,
-or the technological requirements of well-known companies. For these reasons,
-we first create a dataset of the 2019-2021 AoC editions containing the
-discussion threads made on the subreddit {\tt /r/adventofcode}. Then, we
-propose a model based on stream graphs to best study this context, where we
-represent its most important actors through time: participants, comments, and
-programming languages. Thanks to our model, we investigate user participation,
-adoption of new programming languages during a challenge and between two of
-them, and resiliency of programming languages based on a Stack Overflow survey.
-We find that the top-used programming languages are almost the same in the
-three years, pointing out their importance. Moreover, participants tend to keep
-the same programming language for the whole challenge, while the ones attending
-two AoCs usually change it in the next one. Finally, we observe interesting
-results about the programming languages that are ``Popular'' or ``Loved''
-according to the Stack Overflow survey. Firstly, these are the ones adopted for
-the longest time in an AoC edition, thanks to which users have a high chance of
-reaching the end of the challenge. Secondly, they are the most chosen when a
-participant decides to change programming language during the same challenge.
-
-摘要：降臨節密碼（以下簡稱 AoC）是一項流行的編碼挑戰，需要解決各種技能組和等級的程式設計謎題。AoC 遵循降臨曆，因此是一項為期 25 天的年度挑戰。AoC 參與者通常在社群網路上發布他們的解決方案，並在網路上討論它們。這些挑戰很有趣，因為它們可以突顯新工具的採用、開發人員社群的演進，或知名公司的技術需求。基於這些原因，我們首先建立一個包含在 subreddit {\tt /r/adventofcode} 上進行討論串的 2019-2021 年 AoC 版本資料集。然後，我們提出一個基於串流圖的模型來最佳研究此背景，其中我們隨著時間呈現其最重要的參與者：參與者、留言和程式語言。透過我們的模型，我們調查使用者參與度、在挑戰期間和兩者之間採用新程式語言的情況，以及根據 Stack Overflow 調查對程式語言的復原力。我們發現三年來最常用的程式語言幾乎相同，指出了它們的重要性。此外，參與者傾向於在整個挑戰中使用相同的程式語言，而參加兩個 AoC 的參與者通常會在下一場比賽中更換程式語言。最後，我們觀察到關於根據 Stack Overflow 調查被歸類為「熱門」或「喜愛」的程式語言的一些有趣結果。首先，這些程式語言是 AoC 版本中採用最久的程式語言，因此使用者有很高的機會完成挑戰。其次，當參與者決定在同一個挑戰中更改程式語言時，它們是最常被選用的程式語言。
-
-##### **A Neurosymbolic Fast and Slow Architecture for Graph Coloring**
-2412.01752v1 by Vedant Khandelwal, Vishal Pallagani, Biplav Srivastava, Francesca Rossi
-
-Constraint Satisfaction Problems (CSPs) present significant challenges to
-artificial intelligence due to their intricate constraints and the necessity
-for precise solutions. Existing symbolic solvers are often slow, and prior
-research has shown that Large Language Models (LLMs) alone struggle with CSPs
-because of their complexity. To bridge this gap, we build upon the existing
-SOFAI architecture (or SOFAI-v1), which adapts Daniel Kahneman's ''Thinking,
-Fast and Slow'' cognitive model to AI. Our enhanced architecture, SOFAI-v2,
-integrates refined metacognitive governance mechanisms to improve adaptability
-across complex domains, specifically tailored for solving CSPs like graph
-coloring. SOFAI-v2 combines a fast System 1 (S1) based on LLMs with a
-deliberative System 2 (S2) governed by a metacognition module. S1's initial
-solutions, often limited by non-adherence to constraints, are enhanced through
-metacognitive governance, which provides targeted feedback and examples to
-adapt S1 to CSP requirements. If S1 fails to solve the problem, metacognition
-strategically invokes S2, ensuring accurate and reliable solutions. With
-empirical results, we show that SOFAI-v2 for graph coloring problems achieves a
-16.98% increased success rate and is 32.42% faster than symbolic solvers.
-
-摘要：約束滿足問題 (CSP) 因為其複雜的約束和對精確解的必要性，對人工智慧提出了重大的挑戰。現有的符號求解器通常很慢，而先前的研究表明，大型語言模型 (LLM) 因為其複雜性而無法單獨處理 CSP。為了彌補這個差距，我們建立在現有的 SOFAI 架構（或 SOFAI-v1）之上，它將 Daniel Kahneman 的「快思慢想」認知模型調整為 AI。我們增強的架構 SOFAI-v2 整合了精緻的元認知治理機制，以提高跨複雜領域的適應性，特別是針對解決圖形著色等 CSP 而量身打造。SOFAI-v2 結合了基於 LLM 的快速系統 1 (S1) 和由元認知模組管控的審慎系統 2 (S2)。S1 的初始解法通常受到不遵守約束的限制，透過元認知治理得以增強，提供有針對性的回饋和範例，以適應 S1 的 CSP 需求。如果 S1 無法解決問題，元認知會策略性地呼叫 S2，確保準確且可靠的解法。透過經驗結果，我們展示了用於圖形著色問題的 SOFAI-v2 達到了成功率提高 16.98%，並且比符號求解器快 32.42%。
-
-##### **Intelligent Spark Agents: A Modular LangGraph Framework for Scalable, Visualized, and Enhanced Big Data Machine Learning Workflows**
-2412.01490v4 by Jialin Wang, Zhihua Duan
-
-This paper presents a Spark-based modular LangGraph framework, designed to
-enhance machine learning workflows through scalability, visualization, and
-intelligent process optimization. At its core, the framework introduces Agent
-AI, a pivotal innovation that leverages Spark's distributed computing
-capabilities and integrates with LangGraph for workflow orchestration.
-  Agent AI facilitates the automation of data preprocessing, feature
-engineering, and model evaluation while dynamically interacting with data
-through Spark SQL and DataFrame agents. Through LangGraph's graph-structured
-workflows, the agents execute complex tasks, adapt to new inputs, and provide
-real-time feedback, ensuring seamless decision-making and execution in
-distributed environments. This system simplifies machine learning processes by
-allowing users to visually design workflows, which are then converted into
-Spark-compatible code for high-performance execution.
-  The framework also incorporates large language models through the LangChain
-ecosystem, enhancing interaction with unstructured data and enabling advanced
-data analysis. Experimental evaluations demonstrate significant improvements in
-process efficiency and scalability, as well as accurate data-driven
-decision-making in diverse application scenarios.
-  This paper emphasizes the integration of Spark with intelligent agents and
-graph-based workflows to redefine the development and execution of machine
-learning tasks in big data environments, paving the way for scalable and
-user-friendly AI solutions.
-
-摘要：<paragraph>本文提出了一個基於 Spark 的模組化 LangGraph 框架，旨在透過可擴充性、可視化和智慧流程最佳化來提升機器學習工作流程。在核心部分，此框架引入了 Agent AI，這項關鍵創新利用了 Spark 的分散式運算能力，並與 LangGraph 整合以進行工作流程編排。
-  Agent AI 促進了資料前處理、特徵工程和模型評估的自動化，同時透過 Spark SQL 和 DataFrame 代理與資料動態互動。透過 LangGraph 的圖形結構工作流程，這些代理執行複雜的任務、適應新的輸入，並提供即時回饋，確保在分散式環境中進行無縫決策制定和執行。此系統透過允許使用者視覺化設計工作流程（其後轉換為相容於 Spark 的程式碼以進行高性能執行）來簡化機器學習流程。
-  此框架也透過 LangChain 生態系整合了大型語言模型，增強了與非結構化資料的互動，並啟用了進階資料分析。實驗評估顯示，流程效率和可擴充性有顯著改善，而且在不同的應用情境中進行了精確的資料驅動決策制定。
-  本文強調了 Spark 與智慧代理和基於圖形的工作流程的整合，以重新定義大資料環境中機器學習任務的開發和執行，為可擴充且使用者友善的 AI 解决方案鋪路。</paragraph>
-
-##### **SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**
-2412.00765v1 by Aihua Pei, Zehua Yang, Shunan Zhu, Ruoxi Cheng, Ju Jia
-
-Traditional methods for evaluating the robustness of large language models
-(LLMs) often rely on standardized benchmarks, which can escalate costs and
-limit evaluations across varied domains. This paper introduces a novel
-framework designed to autonomously evaluate the robustness of LLMs by
-incorporating refined adversarial prompts and domain-constrained knowledge
-guidelines in the form of knowledge graphs. Our method systematically generates
-descriptive sentences from domain-constrained knowledge graph triplets to
-formulate adversarial prompts, enhancing the relevance and challenge of the
-evaluation. These prompts, generated by the LLM itself and tailored to evaluate
-its own robustness, undergo a rigorous filtering and refinement process,
-ensuring that only those with high textual fluency and semantic fidelity are
-used. This self-evaluation mechanism allows the LLM to evaluate its robustness
-without the need for external benchmarks. We assess the effectiveness of our
-framework through extensive testing on both proprietary models like ChatGPT and
-open-source models such as Llama-3.1, Phi-3, and Mistral. Results confirm that
-our approach not only reduces dependency on conventional data but also provides
-a targeted and efficient means of evaluating LLM robustness in constrained
-domains.
-
-摘要：傳統用於評估大型語言模型 (LLM) 穩健性的方法通常依賴標準化基準，這可能會增加成本並限制跨不同領域的評估。本文介紹了一個新穎的框架，旨在透過在知識圖譜的形式中納入精緻的對抗提示和領域約束知識準則，來自主評估 LLM 的穩健性。我們的做法是系統性地從領域約束知識圖譜三元組中產生描述性句子，以制定對抗提示，增強評估的相關性和挑戰性。這些提示是由 LLM 本身產生，並針對評估其自身的穩健性而量身打造，它們會經歷嚴格的過濾和精煉過程，確保只有那些具有高度文本流暢性和語義保真性的提示才會被使用。這種自我評估機制允許 LLM 在不需要外部基準的情況下評估其穩健性。我們透過對專有模型（例如 ChatGPT）和開源模型（例如 Llama-3.1、Phi-3 和 Mistral）進行廣泛測試，評估我們框架的有效性。結果證實，我們的做法不僅減少了對傳統資料的依賴性，還提供了一種有針對性和有效的方法，可以在受限領域中評估 LLM 的穩健性。
 

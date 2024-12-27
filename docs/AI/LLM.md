@@ -27,7 +27,7 @@
 |**2024-12-24**|**Unlocking the Potential of Multiple BERT Models for Bangla Question Answering in NCTB Textbooks**|Abdullah Khondoker et.al.|[2412.18440v1](http://arxiv.org/abs/2412.18440v1)|null|
 |**2024-12-24**|**Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**|Farhad Nooralahzadeh et.al.|[2412.18428v1](http://arxiv.org/abs/2412.18428v1)|null|
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426v1](http://arxiv.org/abs/2412.18426v1)|null|
-|**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424v1](http://arxiv.org/abs/2412.18424v1)|null|
+|**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424v1](http://arxiv.org/abs/2412.18424v1)|[link](https://github.com/dengc2023/longdocurl)|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419v1](http://arxiv.org/abs/2412.18419v1)|null|
 |**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415v1](http://arxiv.org/abs/2412.18415v1)|[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)|
 |**2024-12-24**|**Exploring Flexible Scenario Generation in Godot Simulator**|Daniel Peraltai et.al.|[2412.18408v1](http://arxiv.org/abs/2412.18408v1)|null|
@@ -35,7 +35,7 @@
 |**2024-12-24**|**TPAoI: Ensuring Fresh Service Status at the Network Edge in Compute-First Networking**|Haosheng He et.al.|[2412.18391v1](http://arxiv.org/abs/2412.18391v1)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390v1](http://arxiv.org/abs/2412.18390v1)|null|
 |**2024-12-24**|**Weak Scaling Capability in Token Space: An Observation from Large Vision Language Model**|Tenghui Li et.al.|[2412.18387v1](http://arxiv.org/abs/2412.18387v1)|null|
-|**2024-12-24**|**ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots**|Shani Goren et.al.|[2412.18377v1](http://arxiv.org/abs/2412.18377v1)|null|
+|**2024-12-24**|**ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots**|Shani Goren et.al.|[2412.18377v1](http://arxiv.org/abs/2412.18377v1)|[link](https://github.com/amazon-science/chaitea-chat-interaction-autocomplete)|
 |**2024-12-24**|**Bidirectional Topic Matching: Quantifying Thematic Overlap Between Corpora Through Topic Modelling**|Raven Adam et.al.|[2412.18376v1](http://arxiv.org/abs/2412.18376v1)|null|
 |**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v1](http://arxiv.org/abs/2412.18370v1)|[link](https://github.com/bdi-lab/monti)|
 |**2024-12-24**|**Towards Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset**|Jiarui Liu et.al.|[2412.18367v1](http://arxiv.org/abs/2412.18367v1)|null|

@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
 |**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748v1](http://arxiv.org/abs/2412.15748v1)|null|
@@ -101,9 +102,39 @@
 |**2023-12-04**|**Class-Discriminative Attention Maps for Vision Transformers**|Lennart Brocki et.al.|[2312.02364v3](http://arxiv.org/abs/2312.02364v3)|null|
 |**2023-11-28**|**Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**|Jacob R. Epifano et.al.|[2311.17133v1](http://arxiv.org/abs/2311.17133v1)|null|
 |**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719v1](http://arxiv.org/abs/2311.15719v1)|[link](https://github.com/benkeel/vae_lung_lesion_bmvc)|
-|**2023-11-24**|**MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**|Nathan Blake et.al.|[2311.14471v1](http://arxiv.org/abs/2311.14471v1)|null|
 
 #### Abstracts
+##### **A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**
+2412.19688v1 by Jana Zakall, Birgit Pohn, Antonia Graf, Daniel Kovatchki, Arezoo Borji, Ragib Shahriar Islam, Hossam Haick, Heinz Strohmer, Sepideh Hatamikia
+
+Artificial intelligence (AI) has emerged as a powerful tool to enhance
+decision-making and optimize treatment protocols in in vitro fertilization
+(IVF). In particular, AI shows significant promise in supporting
+decision-making during the ovarian stimulation phase of the IVF process. This
+review evaluates studies focused on the applications of AI combined with
+medical imaging in ovarian stimulation, examining methodologies, outcomes, and
+current limitations. Our analysis of 13 studies on this topic reveals that,
+reveal that while AI algorithms demonstrated notable potential in predicting
+optimal hormonal dosages, trigger timing, and oocyte retrieval outcomes, the
+medical imaging data utilized predominantly came from two-dimensional (2D)
+ultrasound which mainly involved basic quantifications, such as follicle size
+and number, with limited use of direct feature extraction or advanced image
+analysis techniques. This points to an underexplored opportunity where advanced
+image analysis approaches, such as deep learning, and more diverse imaging
+modalities, like three-dimensional (3D) ultrasound, could unlock deeper
+insights. Additionally, the lack of explainable AI (XAI) in most studies raises
+concerns about the transparency and traceability of AI-driven decisions - key
+factors for clinical adoption and trust. Furthermore, many studies relied on
+single-center designs and small datasets, which limit the generalizability of
+their findings. This review highlights the need for integrating advanced
+imaging analysis techniques with explainable AI methodologies, as well as the
+importance of leveraging multicenter collaborations and larger datasets.
+Addressing these gaps has the potential to enhance ovarian stimulation
+management, paving the way for efficient, personalized, and data-driven
+treatment pathways that improve IVF outcomes.
+
+摘要：人工智慧（AI）已成為增強體外受精（IVF）決策制定和優化治療方案的強大工具。特別是，AI 在支持 IVF 過程中卵巢刺激階段的決策制定方面顯示出顯著的前景。本綜述評估了專注於 AI 結合卵巢刺激中的醫學影像應用、檢驗方法、結果和當前限制的研究。我們對 13 項關於此主題的研究分析顯示，雖然 AI 演算法在預測最佳荷爾蒙劑量、觸發時機和卵子取出結果方面表現出顯著的潛力，但所利用的醫學影像數據主要來自於二次元（2D）超音波，而二次元超音波主要涉及基本量化，例如濾泡大小和數量，且有限使用直接特徵提取或進階影像分析技術。這指向一個尚未探索的機會，例如深度學習等進階影像分析方法，以及更多元的影像模式，例如三維（3D）超音波，可以解鎖更深入的見解。此外，大多數研究缺乏可解釋 AI（XAI），這引起了人們對 AI 驅動決策的透明度和可追溯性的擔憂，而透明度和可追溯性是臨床採用和信任的關鍵因素。此外，許多研究依賴於單中心設計和小型數據集，這限制了其發現的普遍性。本綜述強調了將進階影像分析技術與可解釋 AI 方法整合起來的必要性，以及利用多中心合作和大型數據集的重要性。解決這些差距有可能增強卵巢刺激管理，為有效、個人化和數據驅動的治療途徑鋪平道路，進而改善 IVF 結果。
+
 ##### **Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**
 2412.17527v1 by Badaru I. Olumuyiwa, The Anh Han, Zia U. Shamszaman
 
@@ -2694,23 +2725,4 @@ potential for latent space traversals corresponding to clinically meaningful
 feature changes.
 
 摘要：肺癌占英國癌症死亡人數的 21%，五年存活率很大程度取決於癌症被發現的階段。最近的研究已證明人工智能方法具有從例行掃描中準確及早診斷肺癌的能力。然而，此證據尚未轉化為臨床實務，其中一個障礙是缺乏可解釋的模型。本研究探討了應用變分自動編碼器 (VAE)，一種生成式人工智能模型，於肺癌病灶。將提出的模型訓練於從 LIDC-IDRI 公共數據集中提取的 3D 電腦斷層掃描病灶。通過聚類探索了 VAE 生成的 2D 切片的潛在向量表示，以證明其品質，並用於肺癌診斷的 MLP 分類器模型，最佳模型達到了 AUC 0.98 和 93.1% 準確度的最先進指標。聚類分析顯示，VAE 潛在空間根據有意義的特徵組成（包括腫瘤大小、形狀、患者和惡性類別）將惡性和良性病灶的數據集分開。我們還包括標準高斯 VAE (GVAE) 和更新的狄利克雷 VAE (DirVAE) 的比較分析，後者用狄利克雷分佈取代先驗，以促進具有解開特徵表示的更具可解釋性的潛在空間。最後，我們展示了與臨床有意義的特徵變化相應的潛在空間橫越的潛力。
-
-##### **MRxaI: Black-Box Explainability for Image Classifiers in a Medical Setting**
-2311.14471v1 by Nathan Blake, Hana Chockler, David A. Kelly, Santiago Calderon Pena, Akchunya Chanchal
-
-Existing tools for explaining the output of image classifiers can be divided
-into white-box, which rely on access to the model internals, and black-box,
-agnostic to the model. As the usage of AI in the medical domain grows, so too
-does the usage of explainability tools. Existing work on medical image
-explanations focuses on white-box tools, such as gradcam. However, there are
-clear advantages to switching to a black-box tool, including the ability to use
-it with any classifier and the wide selection of black-box tools available. On
-standard images, black-box tools are as precise as white-box. In this paper we
-compare the performance of several black-box methods against gradcam on a brain
-cancer MRI dataset. We demonstrate that most black-box tools are not suitable
-for explaining medical image classifications and present a detailed analysis of
-the reasons for their shortcomings. We also show that one black-box tool, a
-causal explainability-based rex, performs as well as \gradcam.
-
-摘要：現有的圖像分類器輸出解釋工具可分為依賴於模型內部存取權限的白盒，以及與模型無關的黑盒。隨著 AI 在醫療領域的使用增加，可解釋性工具的使用也隨之增加。現有醫學影像解釋的工作重點在於白盒工具，例如 gradcam。然而，切換到黑盒工具有明顯的優點，包括能夠與任何分類器一起使用，以及廣泛的黑盒工具可供選擇。在標準影像上，黑盒工具與白盒一樣精確。在本文中，我們比較了多種黑盒方法在腦癌 MRI 資料集上與 gradcam 的效能。我們證明大多數黑盒工具不適合解釋醫學影像分類，並詳細分析其缺點的原因。我們還表明一種黑盒工具，基於因果可解釋性的 rex，表現與 \gradcam 一樣好。
 

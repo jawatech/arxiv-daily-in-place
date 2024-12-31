@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
 |**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
@@ -101,9 +102,31 @@
 |**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798v1](http://arxiv.org/abs/2312.06798v1)|null|
 |**2023-12-04**|**Class-Discriminative Attention Maps for Vision Transformers**|Lennart Brocki et.al.|[2312.02364v3](http://arxiv.org/abs/2312.02364v3)|null|
 |**2023-11-28**|**Deployment of a Robust and Explainable Mortality Prediction Model: The COVID-19 Pandemic and Beyond**|Jacob R. Epifano et.al.|[2311.17133v1](http://arxiv.org/abs/2311.17133v1)|null|
-|**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719v1](http://arxiv.org/abs/2311.15719v1)|[link](https://github.com/benkeel/vae_lung_lesion_bmvc)|
 
 #### Abstracts
+##### **The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**
+2412.20068v1 by Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani
+
+The increasing demand for mental health services has highlighted the need for
+innovative solutions, particularly in the realm of psychological conversational
+AI, where the availability of sensitive data is scarce. In this work, we
+explored the development of a system tailored for mental health support with a
+novel approach to psychological assessment based on explainable emotional
+profiles in combination with empathetic conversational models, offering a
+promising tool for augmenting traditional care, particularly where immediate
+expertise is unavailable. Our work can be divided into two main parts,
+intrinsecaly connected to each other. First, we present RACLETTE, a
+conversational system that demonstrates superior emotional accuracy compared to
+state-of-the-art benchmarks in both understanding users' emotional states and
+generating empathetic responses during conversations, while progressively
+building an emotional profile of the user through their interactions. Second,
+we show how the emotional profiles of a user can be used as interpretable
+markers for mental health assessment. These profiles can be compared with
+characteristic emotional patterns associated with different mental disorders,
+providing a novel approach to preliminary screening and support.
+
+摘要：隨著對心理健康服務需求的增加，凸顯了創新解決方案的需求，特別是在心理對話式人工智慧領域，那裡缺乏敏感資料。在這項工作中，我們探索了開發一個針對心理健康支持的系統，採用一種基於可解釋的情緒特徵的新方法進行心理評估，結合同理心對話模式，提供了一個有前途的工具，用於擴充傳統照護，特別是在無法立即獲得專業知識的情況下。我們的工作可以分為兩個主要部分，彼此內在相關。首先，我們展示了 RACLETTE，一個對話系統，與最先進的基準相比，在理解使用者情緒狀態和在對話中產生同理心回應方面表現出優越的情緒準確性，同時透過他們的互動逐漸建立使用者的情緒特徵。其次，我們展示了使用者的情緒特徵如何可用作心理健康評估的可解釋標記。這些特徵可以與與不同心理疾病相關的典型情緒模式進行比較，提供了一種初步篩選和支持的新方法。
+
 ##### **A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**
 2412.19688v1 by Jana Zakall, Birgit Pohn, Antonia Graf, Daniel Kovatchki, Arezoo Borji, Ragib Shahriar Islam, Hossam Haick, Heinz Strohmer, Sepideh Hatamikia
 
@@ -2699,30 +2722,4 @@ researchers can develop AI models that effectively improve clinical practice
 and patient outcomes.
 
 摘要：本研究调查了在 COVID-19 疫情期间及以后预测死亡率时，已部署人工智能 (AI) 模型的性能、可解释性和稳健性。作为同类研究中的首例，我们发现贝叶斯神经网络 (BNN) 和智能训练技术让我们的模型在数据发生重大变化时仍能保持性能。我们的结果强调了开发稳健的 AI 模型的重要性，即使在具有挑战性的条件下，这些模型也能匹配或超越临床医生的预测。我们对模型可解释性的探索表明，随机模型会产生更多样化且个性化的解释，从而突出了在现实世界的临床环境中提供详细且个性化见解的 AI 模型的必要性。此外，我们强调了量化 AI 模型中不确定性的重要性，这使临床医生能够根据可靠的预测做出更明智的决策。我们的研究提倡在医疗保健的 AI 研究中优先考虑实施科学，并确保 AI 解决方案在现实世界的临床环境中实用、有益且可持续。通过解决医疗保健环境中的独特挑战和复杂性，研究人员可以开发出有效改善临床实践和患者预后的 AI 模型。
-
-##### **Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**
-2311.15719v1 by Benjamin Keel, Aaron Quyn, David Jayne, Samuel D. Relton
-
-Lung cancer is responsible for 21% of cancer deaths in the UK and five-year
-survival rates are heavily influenced by the stage the cancer was identified
-at. Recent studies have demonstrated the capability of AI methods for accurate
-and early diagnosis of lung cancer from routine scans. However, this evidence
-has not translated into clinical practice with one barrier being a lack of
-interpretable models. This study investigates the application Variational
-Autoencoders (VAEs), a type of generative AI model, to lung cancer lesions.
-Proposed models were trained on lesions extracted from 3D CT scans in the
-LIDC-IDRI public dataset. Latent vector representations of 2D slices produced
-by the VAEs were explored through clustering to justify their quality and used
-in an MLP classifier model for lung cancer diagnosis, the best model achieved
-state-of-the-art metrics of AUC 0.98 and 93.1% accuracy. Cluster analysis shows
-the VAE latent space separates the dataset of malignant and benign lesions
-based on meaningful feature components including tumour size, shape, patient
-and malignancy class. We also include a comparative analysis of the standard
-Gaussian VAE (GVAE) and the more recent Dirichlet VAE (DirVAE), which replaces
-the prior with a Dirichlet distribution to encourage a more explainable latent
-space with disentangled feature representation. Finally, we demonstrate the
-potential for latent space traversals corresponding to clinically meaningful
-feature changes.
-
-摘要：肺癌占英國癌症死亡人數的 21%，五年存活率很大程度取決於癌症被發現的階段。最近的研究已證明人工智能方法具有從例行掃描中準確及早診斷肺癌的能力。然而，此證據尚未轉化為臨床實務，其中一個障礙是缺乏可解釋的模型。本研究探討了應用變分自動編碼器 (VAE)，一種生成式人工智能模型，於肺癌病灶。將提出的模型訓練於從 LIDC-IDRI 公共數據集中提取的 3D 電腦斷層掃描病灶。通過聚類探索了 VAE 生成的 2D 切片的潛在向量表示，以證明其品質，並用於肺癌診斷的 MLP 分類器模型，最佳模型達到了 AUC 0.98 和 93.1% 準確度的最先進指標。聚類分析顯示，VAE 潛在空間根據有意義的特徵組成（包括腫瘤大小、形狀、患者和惡性類別）將惡性和良性病灶的數據集分開。我們還包括標準高斯 VAE (GVAE) 和更新的狄利克雷 VAE (DirVAE) 的比較分析，後者用狄利克雷分佈取代先驗，以促進具有解開特徵表示的更具可解釋性的潛在空間。最後，我們展示了與臨床有意義的特徵變化相應的潛在空間橫越的潛力。
 

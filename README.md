@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-01 09:14:19 Asia/Taipei
+ Automated deployment @ 2025-01-01 20:27:10 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -7999,6 +7999,7 @@ accuracy and reduced hallucination.
 |**2024-12-30**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993v1](http://arxiv.org/abs/2412.20993v1)|null|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977v1](http://arxiv.org/abs/2412.20977v1)|null|
 |**2024-12-30**|**Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**|Yuan Mi et.al.|[2412.20962v1](http://arxiv.org/abs/2412.20962v1)|null|
+|**2024-12-30**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|[link](https://github.com/matanbt/gaslite)|
 |**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942v1](http://arxiv.org/abs/2412.20942v1)|null|
 |**2024-12-30**|**HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization**|Zijie Fang et.al.|[2412.20924v1](http://arxiv.org/abs/2412.20924v1)|null|
 |**2024-12-30**|**WalkVLM:Aid Visually Impaired People Walking by Vision Language Model**|Zhiqiang Yuan et.al.|[2412.20903v1](http://arxiv.org/abs/2412.20903v1)|null|
@@ -8066,14 +8067,13 @@ accuracy and reduced hallucination.
 |**2024-12-29**|**Hypergraph-Based Dynamic Graph Node Classification**|Xiaoxu Ma et.al.|[2412.20321v1](http://arxiv.org/abs/2412.20321v1)|null|
 |**2024-12-29**|**Understanding the Impact of Confidence in Retrieval Augmented Generation: A Case Study in the Medical Domain**|Shintaro Ozaki et.al.|[2412.20309v1](http://arxiv.org/abs/2412.20309v1)|null|
 |**2024-12-28**|**No Preference Left Behind: Group Distributional Preference Optimization**|Binwei Yao et.al.|[2412.20299v1](http://arxiv.org/abs/2412.20299v1)|null|
+|**2024-12-28**|**An analytic theory of creativity in convolutional diffusion models**|Mason Kamb et.al.|[2412.20292v1](http://arxiv.org/abs/2412.20292v1)|null|
 |**2024-12-28**|**Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition**|Junyao Wang et.al.|[2412.20290v1](http://arxiv.org/abs/2412.20290v1)|null|
 |**2024-12-28**|**High-fidelity social learning via shared episodic memories enhances collaborative foraging through mnemonic convergence**|Ismael T. Freire et.al.|[2412.20271v1](http://arxiv.org/abs/2412.20271v1)|null|
 |**2024-12-28**|**Scoring with Large Language Models: A Study on Measuring Empathy of Responses in Dialogues**|Henry J. Xie et.al.|[2412.20264v1](http://arxiv.org/abs/2412.20264v1)|null|
 |**2024-12-28**|**ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty**|Qing Zong et.al.|[2412.20251v1](http://arxiv.org/abs/2412.20251v1)|null|
 |**2024-12-28**|**How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent**|Mallory Knodel et.al.|[2412.20231v1](http://arxiv.org/abs/2412.20231v1)|null|
 |**2024-12-28**|**Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**|Athanasios Karagounis et.al.|[2412.20230v1](http://arxiv.org/abs/2412.20230v1)|null|
-|**2024-12-28**|**LLM Reasoning Engine: Specialized Training for Enhanced Mathematical Reasoning**|Shuguang Chen et.al.|[2412.20227v1](http://arxiv.org/abs/2412.20227v1)|null|
-|**2024-12-28**|**AfriHG: News headline generation for African Languages**|Toyib Ogunremi et.al.|[2412.20223v1](http://arxiv.org/abs/2412.20223v1)|null|
 
 #### Abstracts
 ##### **Action-Agnostic Point-Level Supervision for Temporal Action Detection**
@@ -8675,6 +8675,36 @@ learning for prediction of various spatiotemporal dynamics in a spatial domain
 with complex geometry.
 
 摘要：<paragraph>資料為中心的各種方法在理解和預測時空動力學方面展現極佳的潛力，能更有效地設計與控制物件系統。然而，純粹的深度學習模型往往缺乏可解釋性，無法遵循內在物理定律，且難以應對各種領域。雖然幾何基礎方法（例如圖形神經網路 (GNN)）已被提出進一步應對這些挑戰，但它們仍需要從大型資料集中找出隱含的物理定律，並過度依賴豐富的標籤資料。在本文中，我們在此介紹了受守恆定律啟發的 GNN (CiGNN)，這是一個端到端的可解釋學習架構，用於根據有限的訓練資料學習時空動力學。該網路被設計為透過對稱性符合一般守恆定律，其中保守和非保守資訊會透過一個由潛在時間行進策略增強的多尺度空間傳遞。我們模型的效力已在各種基於合成和真實世界資料集的時空系統中得到驗證，顯示出優於基線模型的優越性。結果證明，CiGNN 展現出卓越的準確性和泛化能力，且易於應用於學習，以預測具有複雜幾何形狀的空間域中的各種時空動力學。</paragraph>
+
+##### **GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search**
+2412.20953v1 by Matan Ben-Tov, Mahmood Sharif
+
+Dense embedding-based text retrieval$\unicode{x2013}$retrieval of relevant
+passages from corpora via deep learning encodings$\unicode{x2013}$has emerged
+as a powerful method attaining state-of-the-art search results and popularizing
+the use of Retrieval Augmented Generation (RAG). Still, like other search
+methods, embedding-based retrieval may be susceptible to search-engine
+optimization (SEO) attacks, where adversaries promote malicious content by
+introducing adversarial passages to corpora. To faithfully assess and gain
+insights into the susceptibility of such systems to SEO, this work proposes the
+GASLITE attack, a mathematically principled gradient-based search method for
+generating adversarial passages without relying on the corpus content or
+modifying the model. Notably, GASLITE's passages (1) carry adversary-chosen
+information while (2) achieving high retrieval ranking for a selected query
+distribution when inserted to corpora. We use GASLITE to extensively evaluate
+retrievers' robustness, testing nine advanced models under varied threat
+models, while focusing on realistic adversaries targeting queries on a specific
+concept (e.g., a public figure). We found GASLITE consistently outperformed
+baselines by $\geq$140% success rate, in all settings. Particularly,
+adversaries using GASLITE require minimal effort to manipulate search
+results$\unicode{x2013}$by injecting a negligible amount of adversarial
+passages ($\leq$0.0001% of the corpus), they could make them visible in the
+top-10 results for 61-100% of unseen concept-specific queries against most
+evaluated models. Inspecting variance in retrievers' robustness, we identify
+key factors that may contribute to models' susceptibility to SEO, including
+specific properties in the embedding space's geometry.
+
+摘要：<paragraph>基於稠密嵌入的文字檢索$\unicode{x2013}$透過深度學習編碼從語料庫中檢索相關段落$\unicode{x2013}$已成為一種強大的方法，可獲得最先進的搜尋結果，並普及檢索擴充生成 (RAG) 的使用。然而，與其他搜尋方法一樣，基於嵌入的檢索可能會受到搜尋引擎最佳化 (SEO) 攻擊，其中對手透過在語料庫中引入對抗性段落來宣傳惡意內容。為了忠實評估並深入了解此類系統對 SEO 的敏感性，這項工作提出了 GASLITE 攻擊，這是一種數學原理化的基於梯度的搜尋方法，用於生成對抗性段落，而無需依賴語料庫內容或修改模型。值得注意的是，GASLITE 的段落 (1) 攜帶對手選擇的資訊，同時 (2) 在插入語料庫時，針對選定的查詢分佈取得高檢索排名。我們使用 GASLITE 廣泛評估檢索器的穩健性，在不同的威脅模型下測試九種先進模型，同時專注於針對特定概念（例如公眾人物）查詢的實際對手。我們發現 GASLITE 在所有設定中始終優於基準，成功率提高了 $\geq$140%。特別是，使用 GASLITE 的對手只需付出最小的努力就能操縱搜尋結果$\unicode{x2013}$透過注入極少量的對抗性段落（語料庫的 $\leq$0.0001%），他們可以讓這些段落出現在針對大多數評估模型的 61-100% 未見概念特定查詢的前 10 名結果中。透過檢視檢索器穩健性的差異，我們找出可能導致模型對 SEO 敏感性的關鍵因素，包括嵌入空間幾何中的特定屬性。</paragraph>
 
 ##### **Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**
 2412.20942v1 by Xiaohan Feng, Xixin Wu, Helen Meng
@@ -10262,6 +10292,30 @@ preferences, marking a significant advance in pluralistic alignment.
 
 摘要：群組中個人的偏好並非一致，而是遵循某種分配。現有的對齊方法（如直接偏好最佳化 (DPO)）試圖引導模型以反映人類偏好，但它們難以捕捉群組內部分配式的多元偏好。這些方法通常會偏向於主導偏好，忽略意見的多樣性，特別是在出現相互衝突的偏好時。為了解決這個問題，我們提出群組分配偏好最佳化 (GDPO)，這是一個新的架構，透過納入塑造個人偏好的信念概念，將語言模型與群組內偏好的分配對齊。GDPO 使用群組信念分配的統計估計值校準語言模型，並將模型與信念條件偏好對齊，提供比傳統方法更具包容性的對齊架構。在使用合成可控意見產生和真實電影評論資料集的實驗中，我們發現 DPO 無法與目標信念分配對齊，而 GDPO 在訓練期間持續縮小這個對齊差距。此外，我們的評估指標證明，GDPO 在與群組分配偏好對齊方面優於現有方法，標誌著多元對齊的重大進步。
 
+##### **An analytic theory of creativity in convolutional diffusion models**
+2412.20292v1 by Mason Kamb, Surya Ganguli
+
+We obtain the first analytic, interpretable and predictive theory of
+creativity in convolutional diffusion models. Indeed, score-based diffusion
+models can generate highly creative images that lie far from their training
+data. But optimal score-matching theory suggests that these models should only
+be able to produce memorized training examples. To reconcile this
+theory-experiment gap, we identify two simple inductive biases, locality and
+equivariance, that: (1) induce a form of combinatorial creativity by preventing
+optimal score-matching; (2) result in a fully analytic, completely
+mechanistically interpretable, equivariant local score (ELS) machine that, (3)
+without any training can quantitatively predict the outputs of trained
+convolution only diffusion models (like ResNets and UNets) with high accuracy
+(median $r^2$ of $0.90, 0.91, 0.94$ on CIFAR10, FashionMNIST, and MNIST). Our
+ELS machine reveals a locally consistent patch mosaic model of creativity, in
+which diffusion models create exponentially many novel images by mixing and
+matching different local training set patches in different image locations. Our
+theory also partially predicts the outputs of pre-trained self-attention
+enabled UNets (median $r^2 \sim 0.75$ on CIFAR10), revealing an intriguing role
+for attention in carving out semantic coherence from local patch mosaics.
+
+摘要：<paragraph>我們獲得了卷積擴散模型中創造力的第一個分析、可解釋和預測理論。事實上，基於分數的擴散模型可以生成高度創造性的圖像，這些圖像遠離其訓練資料。但最佳分數匹配理論表明，這些模型應該只能產生記憶的訓練範例。為了調和這個理論與實驗的差距，我們找出兩個簡單的歸納偏差，即局部性和等變性，它們：(1) 透過防止最佳分數匹配來誘導一種組合創造力；(2) 導致一個完全分析、完全機械可解釋、等變的局部分數 (ELS) 機器，(3) 在沒有任何訓練的情況下，可以定量預測僅訓練卷積擴散模型（如 ResNets 和 UNets）的輸出，準確度很高（CIFAR10、FashionMNIST 和 MNIST 上的中位數 r2 分別為 0.90、0.91 和 0.94）。我們的 ELS 機器揭示了一個局部一致的拼貼馬賽克創造力模型，其中擴散模型透過在不同圖像位置混合和匹配不同的局部訓練集拼貼，以指數級的方式創造許多新穎的圖像。我們的理論也部分預測了預先訓練的支援自我注意 UNets 的輸出（CIFAR10 上的中位數 r2 約為 0.75），揭示了注意在從局部拼貼馬賽克中刻畫語義一致性方面扮演著有趣的角色。</paragraph>
+
 ##### **Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition**
 2412.20290v1 by Junyao Wang, Mohammad Abdullah Al Faruque
 
@@ -10406,40 +10460,4 @@ continuous improvement in AV perception, enabling vehicles to evolve with time
 and adapt to changing environments and user preferences.
 
 摘要：自動駕駛車輛 (AV) 依賴精密的感知系統來解讀周遭環境，這是安全導航和決策制定的基石。將大型語言模型 (LLM) 整合到 AV 感知架構中，提供了一個創新的方法來解決動態環境、感測器融合和情境推理中的挑戰。本文提出了一個新的架構，用於將 LLM 整合到 AV 感知中，實現進階情境理解、無縫感測器整合和增強決策支援。實驗結果證明，LLM 大幅提升了 AV 感知系統的準確度和可靠度，為更安全、更智慧的自動駕駛技術鋪路。透過將感知範圍擴展到傳統方法之外，LLM 有助於創造一個更具適應性和以人為中心的駕駛生態系統，讓自動駕駛車輛在運作上更可靠、更透明。這些進展重新定義了人類駕駛和自動系統之間的關係，透過增強理解和個人化決策制定來培養信任。此外，透過整合記憶模組和適應性學習機制，LLM 引入了 AV 感知中的持續改進，使車輛能夠隨著時間演進和適應不斷變化的環境和使用者偏好。
-
-##### **LLM Reasoning Engine: Specialized Training for Enhanced Mathematical Reasoning**
-2412.20227v1 by Shuguang Chen, Guang Lin
-
-Large Language Models (LLMs) have shown remarkable performance in various
-natural language processing tasks but face challenges in mathematical
-reasoning, where complex problem-solving requires both linguistic understanding
-and mathematical reasoning skills. Existing approaches to address this
-challenge often rely on ensemble methods and suffer from the problem of data
-scarcity in target domains. In this work, we present a novel method to enhance
-LLMs' capabilities in mathematical reasoning tasks. Motivated by the need to
-bridge this gap, our approach incorporates a question paraphrase strategy,
-which aims at diversifying the linguistic forms of mathematical questions to
-improve generalization. Additionally, specialized training objectives are
-employed to guide the model's learning process, focusing on enhancing its
-understanding of mathematical concepts and reasoning processes. We conduct
-experiments on four datasets using different LLMs, and demonstrate the
-effectiveness of our approach in improving LLMs' performance on mathematical
-reasoning tasks. Our findings underscore the significance of our methodology in
-the advancement of large language models and its potential implications for
-real-world applications that require mathematical reasoning abilities.
-
-摘要：大型語言模型（LLM）在各種自然語言處理任務中展現出卓越的效能，但在數學推理方面卻面臨挑戰，因為複雜的問題解決需要語言理解和數學推理技能。現有的方法經常依賴於整體方法，並且在目標領域中會遇到資料稀疏的問題。在本文中，我們提出了一種新方法來增強 LLM 在數學推理任務中的能力。我們的做法基於彌合此差距的需求，包含了一個問題改寫策略，其目的是使數學問題的語言形式多樣化，以改善概括性。此外，我們採用了專門的訓練目標來引導模型的學習過程，重點在於增強其對數學概念和推理過程的理解。我們使用不同的 LLM 對四個資料集進行實驗，並證明了我們的方法在改善 LLM 在數學推理任務中的效能方面是有效的。我們的研究結果強調了我們的方法對大型語言模型進步的重要性，以及其對需要數學推理能力的實際應用之潛在影響。
-
-##### **AfriHG: News headline generation for African Languages**
-2412.20223v1 by Toyib Ogunremi, Serah Akojenu, Anthony Soronnadi, Olubayo Adekanmbi, David Ifeoluwa Adelani
-
-This paper introduces AfriHG -- a news headline generation dataset created by
-combining from XLSum and MasakhaNEWS datasets focusing on 16 languages widely
-spoken by Africa. We experimented with two seq2eq models (mT5-base and AfriTeVa
-V2), and Aya-101 LLM. Our results show that Africa-centric seq2seq models such
-as AfriTeVa V2 outperform the massively multilingual mT5-base model. Finally,
-we show that the performance of fine-tuning AfriTeVa V2 with 313M parameters is
-competitive to prompting Aya-101 LLM with more than 13B parameters.
-
-摘要：本文介紹 AfriHG，這是一個新聞標題生成資料集，透過結合 XLSum 和 MasakhaNEWS 資料集，專注於 16 種在非洲廣泛使用的語言。我們使用兩個 seq2eq 模型 (mT5-base 和 AfriTeVa V2) 以及 Aya-101 LLM 進行實驗。我們的結果顯示，以非洲為中心的 seq2seq 模型，例如 AfriTeVa V2，優於大量的多語言 mT5-base 模型。最後，我們展示了以 3.13 億個參數微調 AfriTeVa V2 的效能，可以與提示使用超過 130 億個參數的 Aya-101 LLM 相媲美。
 

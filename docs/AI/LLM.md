@@ -40,7 +40,7 @@
 |**2024-12-30**|**Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment**|Jianfei Zhang et.al.|[2412.20834v1](http://arxiv.org/abs/2412.20834v1)|[link](https://github.com/zhangjf-nlp/LatentDPO)|
 |**2024-12-30**|**Fine-Tuning TransMorph with Gradient Correlation for Anatomical Alignment**|Lukas Förner et.al.|[2412.20822v1](http://arxiv.org/abs/2412.20822v1)|null|
 |**2024-12-30**|**Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment**|Xuechen Wang et.al.|[2412.20821v1](http://arxiv.org/abs/2412.20821v1)|null|
-|**2024-12-30**|**Length-Aware DETR for Robust Moment Retrieval**|Seojeong Park et.al.|[2412.20816v1](http://arxiv.org/abs/2412.20816v1)|null|
+|**2024-12-30**|**Length-Aware DETR for Robust Moment Retrieval**|Seojeong Park et.al.|[2412.20816v1](http://arxiv.org/abs/2412.20816v1)|[link](https://github.com/sjpark5800/la-detr)|
 |**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v1](http://arxiv.org/abs/2412.20798v1)|[link](https://github.com/humblef-oo-l/DP)|
 |**2024-12-30**|**Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning**|En Fu et.al.|[2412.20790v1](http://arxiv.org/abs/2412.20790v1)|[link](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference)|
 |**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v1](http://arxiv.org/abs/2412.20787v1)|null|

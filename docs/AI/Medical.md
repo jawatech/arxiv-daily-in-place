@@ -16,7 +16,7 @@
 |**2024-12-27**|**Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases**|Ioannis Bilionis et.al.|[2412.19495v1](http://arxiv.org/abs/2412.19495v1)|null|
 |**2024-12-26**|**Semi-Supervised Learning from Small Annotated Data and Large Unlabeled Data for Fine-grained PICO Entity Recognition**|Fangyi Chen et.al.|[2412.19346v1](http://arxiv.org/abs/2412.19346v1)|null|
 |**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311v1](http://arxiv.org/abs/2412.19311v1)|[link](https://github.com/risal-shefin/xsrl)|
-|**2024-12-26**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260v1](http://arxiv.org/abs/2412.19260v1)|[link](https://github.com/abachaa/medec)|
+|**2024-12-26**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260v2](http://arxiv.org/abs/2412.19260v2)|[link](https://github.com/abachaa/medec)|
 |**2024-12-26**|**Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**|Abeer Badawi et.al.|[2412.19254v1](http://arxiv.org/abs/2412.19254v1)|null|
 |**2024-12-26**|**Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**|Valay Bundele et.al.|[2412.19124v1](http://arxiv.org/abs/2412.19124v1)|null|
 |**2024-12-26**|**Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**|Yixin Chen et.al.|[2412.19026v1](http://arxiv.org/abs/2412.19026v1)|[link](https://github.com/yixinchen-ai/mpum)|
@@ -53,7 +53,7 @@
 |**2024-12-22**|**An OpenMind for 3D medical vision self-supervised learning**|Tassilo Wald et.al.|[2412.17041v1](http://arxiv.org/abs/2412.17041v1)|null|
 |**2024-12-22**|**On Fusing ChatGPT and Ensemble Learning in Discon-tinuous Named Entity Recognition in Health Corpora**|Tzu-Chieh Chen et.al.|[2412.16976v1](http://arxiv.org/abs/2412.16976v1)|null|
 |**2024-12-22**|**Quantifying Public Response to COVID-19 Events: Introducing the Community Sentiment and Engagement Index**|Nirmalya Thakur et.al.|[2412.16925v1](http://arxiv.org/abs/2412.16925v1)|null|
-|**2024-12-22**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882v1](http://arxiv.org/abs/2412.16882v1)|null|
+|**2024-12-22**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882v2](http://arxiv.org/abs/2412.16882v2)|null|
 |**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v1](http://arxiv.org/abs/2412.16833v1)|null|
 |**2024-12-21**|**A Comparative Study on Machine Learning Models to Classify Diseases Based on Patient Behaviour and Habits**|Elham Musaaed et.al.|[2412.16768v1](http://arxiv.org/abs/2412.16768v1)|null|
 |**2024-12-21**|**From Histopathology Images to Cell Clouds: Learning Slide Representations with Hierarchical Cell Transformer**|Zijiang Yang et.al.|[2412.16715v1](http://arxiv.org/abs/2412.16715v1)|null|
@@ -69,7 +69,7 @@
 |**2024-12-20**|**Improving Object Detection for Time-Lapse Imagery Using Temporal Features in Wildlife Monitoring**|Marcus Jenkins et.al.|[2412.16329v1](http://arxiv.org/abs/2412.16329v1)|[link](https://github.com/marcusjenkins01/yolov7-temporal)|
 |**2024-12-20**|**Benchmarking LLMs and SLMs for patient reported outcomes**|Matteo Marengo et.al.|[2412.16291v1](http://arxiv.org/abs/2412.16291v1)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
-|**2024-12-20**|**Predictive Analytics in Occupational Health and Safety**|Vyom Saxena et.al.|[2412.16038v2](http://arxiv.org/abs/2412.16038v2)|null|
+|**2024-12-20**|**Intelligent Approaches to Predictive Analytics in Occupational Health and Safety in India**|Ritwik Raj Saxena et.al.|[2412.16038v3](http://arxiv.org/abs/2412.16038v3)|null|
 |**2024-12-20**|**Self-Supervised Radiograph Anatomical Region Classification -- How Clean Is Your Real-World Data?**|Simon Langer et.al.|[2412.15967v1](http://arxiv.org/abs/2412.15967v1)|null|
 |**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957v1](http://arxiv.org/abs/2412.15957v1)|null|
 |**2024-12-20**|**Development of a Large-scale Dataset of Chest Computed Tomography Reports in Japanese and a High-performance Finding Classification Model**|Yosuke Yamagishi et.al.|[2412.15907v1](http://arxiv.org/abs/2412.15907v1)|null|
@@ -476,7 +476,7 @@ https://github.com/risal-shefin/xSRL.
 摘要：強化學習 (RL) 在模擬環境中展現出極大的潛力，例如遊戲，在這些環境中，失敗的後果很小。然而，在自動駕駛汽車、機器人、無人機和醫療設備等真實世界系統中部署 RL 代理需要更高的安全性與透明度，特別是在面對對抗性威脅時。安全的 RL 演算法已被開發出來，透過最佳化任務效能和安全限制來解決這些問題。然而，錯誤是不可避免的，當錯誤發生時，RL 代理也必須向人類操作員解釋其行為至關重要。這使得對 RL 系統的安全機制的信任對於有效部署至關重要。可解釋性在建立這種信任中扮演關鍵角色，透過提供對代理決策過程清晰且可行的見解，確保對安全至關重要的決策能被充分理解。雖然機器學習 (ML) 在可解釋性和可視化方面已取得顯著進展，但 RL 的可解釋性方法仍然有限。目前的工具無法解決 RL 的動態、順序性質，以及它需要隨著時間推移平衡任務效能與安全限制。重新利用傳統的 ML 方法，例如顯著性圖，對於安全至關重要的 RL 應用程式來說是不夠的，在這些應用程式中，錯誤可能導致嚴重的後果。為了彌補這一差距，我們提出了 xSRL，一個整合了局部和全局解釋的框架，以提供對 RL 代理行為的全面理解。xSRL 還使開發人員能夠透過對抗性攻擊來識別策略漏洞，提供在不重新訓練的情況下除錯和修補代理的工具。我們的實驗和使用者研究證明了 xSRL 在提高 RL 系統安全性的有效性，使其更可靠且更值得信賴，可部署於真實世界。程式碼可在 https://github.com/risal-shefin/xSRL 中取得。
 
 ##### **MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**
-2412.19260v1 by Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Meliha Yetisgen, Fei Xia, Thomas Lin
+2412.19260v2 by Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Meliha Yetisgen, Fei Xia, Thomas Lin
 
 Several studies showed that Large Language Models (LLMs) can answer medical
 questions correctly, even outperforming the average human score in some medical
@@ -503,7 +503,7 @@ discuss the potential factors behind this gap, the insights from our
 experiments, the limitations of current evaluation metrics, and share potential
 pointers for future research.
 
-摘要：<paragraph>多項研究顯示，大型語言模型 (LLM) 能正確回答醫療問題，甚至在某些醫療考試中表現優於一般人類的分數。然而，據我們所知，尚未有研究評估語言模型驗證現有或已產生的醫療文本正確性和一致性的能力。在本文中，我們介紹了 MEDEC（https://github.com/abachaa/MEDEC），這是第一個公開可用的臨床筆記中醫學錯誤偵測和更正基準，涵蓋五種類型的錯誤（診斷、管理、治療、藥物治療和致病生物）。MEDEC 包含 3,848 個臨床文本，包括來自三個美國醫院系統的 488 個臨床筆記，這些筆記先前並未被任何 LLM 看到。該資料集已用於 MEDIQA-CORR 共享任務，以評估十七個參與系統 [Ben Abacha et al., 2024]。在本文中，我們描述了資料建立方法，並評估了最近的 LLM（例如，o1-preview、GPT-4、Claude 3.5 Sonnet 和 Gemini 2.0 Flash）在偵測和更正需要醫學知識和推理能力的醫療錯誤的任務上。我們還進行了一項比較研究，其中兩位醫生對 MEDEC 測試集執行了相同的任務。結果顯示，MEDEC 是足夠具有挑戰性的基準，可以評估模型驗證現有或已產生筆記和更正醫療錯誤的能力。我們還發現，儘管最近的 LLM 在錯誤偵測和更正方面有良好的表現，但它們在這些任務中仍不如醫生。我們討論了造成這種差距的潛在因素、我們實驗中的見解、當前評估指標的限制，並分享未來研究的潛在指標。</paragraph>
+摘要：多項研究顯示，大型語言模型 (LLM) 能正確回答醫療問題，甚至在某些醫療考試中表現優於人類平均分數。然而，據我們所知，尚未有研究評估語言模型驗證現有或產生的醫療文本正確性和一致性的能力。在本文中，我們介紹 MEDEC (https://github.com/abachaa/MEDEC)，這是第一個公開的臨床筆記醫療錯誤偵測和修正基準，涵蓋五種類型的錯誤（診斷、管理、治療、藥物治療和致病原）。MEDEC 包含 3,848 個臨床文本，包括來自三個美國醫院系統的 488 個臨床筆記，這些筆記以前未曾被任何 LLM 看到。該資料集已用於 MEDIQA-CORR 共享任務，以評估十七個參與系統 [Ben Abacha 等，2024]。在本文中，我們描述了資料建立方法，並評估了近期 LLM（例如 o1-preview、GPT-4、Claude 3.5 Sonnet 和 Gemini 2.0 Flash）在偵測和修正醫療錯誤的任務上，這些任務需要醫療知識和推理能力。我們還進行了一項比較研究，其中兩位醫生在 MEDEC 測試集中執行相同的任務。結果顯示，MEDEC 是足夠具有挑戰性的基準，可以評估模型驗證現有或產生的筆記和修正醫療錯誤的能力。我們還發現，儘管近期 LLM 在錯誤偵測和修正方面表現良好，但在這些任務中仍不如醫生。我們討論了造成此差距的潛在因素、我們實驗的見解、當前評估指標的限制，並分享了未來研究的潛在指標。
 
 ##### **Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**
 2412.19254v1 by Abeer Badawi, Somayya Elmoghazy, Samira Choudhury, Khalid Elgazzar, Amer Burhan
@@ -1425,7 +1425,7 @@ COVID-19.
 摘要：本研究引入了社群情緒和參與指數 (CSEI)，其旨在捕捉社群媒體上細微的公眾情緒和參與變化，特別是針對與 COVID-19 相關的重大事件。CSEI 以多樣化的情緒指標建構，整合了參與度、每日發文數、複合情緒、細緻情緒（恐懼、驚訝、快樂、悲傷、憤怒、厭惡和中立）、可讀性、冒犯性和網域多樣性等特徵。每個組成部分都透過多步驟主成分分析 (PCA) 為基礎的架構進行系統性加權，根據特徵對時間情緒變化的貢獻度對特徵進行優先排序。此方法動態調整組成部分的重要性，使 CSEI 能夠精準捕捉公眾情緒中的高敏感度變化。CSEI 的發展顯示出與其組成特徵具有統計顯著相關性，強調了內部一致性和對特定情緒面向的敏感性。CSEI 的反應能力已使用包含 4,510,178 則關於 COVID-19 的 Reddit 貼文的資料集進行驗證。分析重點關注 15 個重大事件，包括 WHO 宣布 COVID-19 為一場大流行病、不同國家首次報告 COVID-19 病例、國家封鎖、疫苗開發和重要的公共衛生措施。CSEI 的累積變化顯示出與這些事件相符的顯著高峰和低谷，表明在疫情的不同階段中公眾情緒存在顯著模式。皮爾森相關分析進一步證實了 CSEI 每日的波動與這些事件之間存在統計顯著相關性 (p = 0.0428)，突顯出 CSEI 推論和詮釋公眾情緒變化以及對與 COVID-19 相關的重大事件參與度變化的能力。
 
 ##### **PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**
-2412.16882v1 by Huy Vu, Huy Anh Nguyen, Adithya V Ganesan, Swanie Juhng, Oscar N. E. Kjell, Joao Sedoc, Margaret L. Kern, Ryan L. Boyd, Lyle Ungar, H. Andrew Schwartz, Johannes C. Eichstaedt
+2412.16882v2 by Huy Vu, Huy Anh Nguyen, Adithya V Ganesan, Swanie Juhng, Oscar N. E. Kjell, Joao Sedoc, Margaret L. Kern, Ryan L. Boyd, Lyle Ungar, H. Andrew Schwartz, Johannes C. Eichstaedt
 
 Artificial intelligence-based language generators are now a part of most
 people's lives. However, by default, they tend to generate "average" language
@@ -1449,7 +1449,7 @@ for the exploration psychological constructs through natural language
 expression, extending the natural language processing toolkit to study human
 psychology.
 
-摘要：基於人工智慧的語言生成器現在已經成為大多數人生活中的一部分。然而，預設情況下，它們傾向於產生「普通」的語言，而沒有反映出人們的差異性。在此，我們提出了一個對標準語言模型轉換器架構的輕量級修改 - 「PsychAdapter」 - 它使用經驗派生的特質語言模式為指定的人格、人口統計和心理健康特徵（有或沒有提示）生成自然語言。我們將 PsychAdapter 應用於修改 OpenAI 的 GPT-2、Google 的 Gemma 和 Meta 的 Llama 3，發現生成的文字反映了所需的特質。例如，專家評分員評估了 PsychAdapter 生成的文字輸出，發現它與預期的特質水準相符，五大性格特質的平均準確度為 87.3%，而憂鬱症和生活滿意度的準確度為 96.7%。PsychAdapter 是一種新穎的方法，可以將心理行為模式引入語言模型的基本層級，不受提示的影響，並影響每個轉換器層級。這種方法可以建立具有特定個性特徵的聊天機器人、反映與心理條件相關語言的臨床訓練工具，以及與作者的閱讀或教育水準相符的機器翻譯，而不需要使用 LLM 上下文視窗。PsychAdapter 也允許透過自然語言表達來探索心理建構，將自然語言處理工具包延伸到研究人類心理學。
+摘要：基於人工智慧的語言產生器現已成為大多數人生活的一部分。然而，預設情況下，它們傾向於產生「普通」語言，而沒有反映出人們的差異性。在此，我們提出了一個對標準語言模型轉換器架構的輕量化修改 - 「PsychAdapter」 - 它使用經驗派生的特質語言模式，為指定的人格、人口統計和心理健康特徵（有或沒有提示）產生自然語言。我們將 PsychAdapter 應用於修改 OpenAI 的 GPT-2、Google 的 Gemma 和 Meta 的 Llama 3，並發現產生的文字反映了所需的特質。例如，專家評分者評估了 PsychAdapter 產生的文字輸出，發現它與預期的特質層級相符，五大性格特質的平均準確度為 87.3%，而憂鬱症和生活滿意度的準確度為 96.7%。PsychAdapter 是一種新方法，可以在基礎層級將心理行為模式引入語言模型，不受提示的影響，進而影響每個轉換器層級。此方法可以創造出具有特定人格特質的聊天機器人、反映與心理條件相關語言的臨床訓練工具，以及與作者的閱讀或教育程度相符的機器翻譯，而無需佔用 LLM 上下文視窗。PsychAdapter 還允許透過自然語言表達來探索心理結構，將自然語言處理工具包擴展到研究人類心理學。
 
 ##### **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**
 2412.16833v1 by Kaiwen Zuo, Yirui Jiang, Fan Mo, Pietro Lio
@@ -1808,14 +1808,34 @@ reliable AI-driven CXR analysis in clinical settings.
 
 摘要：深度學習已進步了醫學影像分類，但可解釋性挑戰阻礙了其臨床採用。本研究透過使用概念瓶頸模型 (CBM) 和多重代理檢索增強生成 (RAG) 系統進行報告生成，增強了胸部 X 光 (CXR) 分類的可解釋性。透過對視覺特徵和臨床概念之間的關係進行建模，我們建立了可解釋的概念向量，用來引導多重代理 RAG 系統生成放射科報告，以增強臨床相關性、可解釋性和透明性。使用 LLM 作為判斷者對生成的報告進行評估，確認了我們模型輸出的可解釋性和臨床實用性。在 COVID-QU 資料集上，我們的模型達到了 81% 的分類準確度，並展示了強健的報告生成效能，五項關鍵指標介於 84% 到 90% 之間。這個可解釋的多重代理架構彌合了高性能 AI 與在臨床環境中進行可靠 AI 驅動 CXR 分析所需的可解釋性之間的差距。
 
-##### **Predictive Analytics in Occupational Health and Safety**
-2412.16038v2 by Vyom Saxena
+##### **Intelligent Approaches to Predictive Analytics in Occupational Health and Safety in India**
+2412.16038v3 by Ritwik Raj Saxena
 
-Predictive analytics is revolutionizing occupational health and safety (OHS).
-This article explores the key components of predictive analytics in OHS.
+Concerns associated with occupational health and safety (OHS) remain critical
+and often under-addressed aspects of workforce management. This is especially
+true for high-risk industries such as manufacturing, construction, and mining.
+Such industries dominate the economy of India which is a developing country
+with a vast informal sector. Regulatory frameworks have been strengthened over
+the decades, particularly with regards to bringing the unorganized sector
+within the purview of law. Traditional approaches to OHS have largely been
+reactive and rely on post-incident analysis (which is curative) rather than
+preventive intervention. This paper portrays the immense potential of
+predictive analytics in rejuvenating OHS practices in India. Intelligent
+predictive analytics is driven by approaches like machine learning and
+statistical modeling. Its data-driven nature serves to overcome the limitations
+of conventional OHS methods. Predictive analytics approaches to OHS in India
+draw on global case studies and generative applications of predictive analytics
+in OHS which are customized to Indian industrial contexts. This paper attempts
+to explore in what ways it exhibits the potential to address challenges such as
+fragmented data ecosystems, resource constraints, and the variability of
+workplace hazards. The paper presents actionable policy recommendations to
+create conditions conducive to the widespread implementation of predictive
+analytics, which must be advocated as a cornerstone of OHS strategy. In doing
+so, the paper aims to spark a collaborational dialogue among policymakers,
+industry leaders, and technologists. It urges a shift towards intelligent
+practices to safeguard the well-being of India's workforce.
 
-摘要：預測分析為職業健康與安全（OHS）帶來革命。
-它提供基於證據的見解。這些見解能讓組織環境中的風險管理更具前瞻性，並能做出明智且資料導向的決策。本文探討 OHS 中預測分析的主要組成部分，從資料收集、管理和準備開始，並進展到進階預測建模技術。我們強調資料完整性的重要性，透過遺失值填補、異常偵測和特徵工程等程序，以確保模型預測的準確性。風險優先順序會識別並評比各種因素的危害，包括員工行為、組織政策、環境條件和操作實務。我們假設從預測模型中衍生的見解必須被有效地解讀和實施。這些見解引導組織專注於高影響層面的事故預防和資源最佳化。預測分析整合到 OHS 中帶來顯著的好處，包括增強決策制定、提升營運效率、節省成本和改善安全標準的遵循度。我們探討預測分析在印度環境中 OHS 的應用。我們認為，透過使用預測分析，印度可以在其勞動力環境的複雜性中制定高安全標準。
+摘要：與職業健康與安全 (OHS) 相關的疑慮仍然是人力資源管理中至關重要且經常被低估的面向。這在製造、建築和採礦等高風險產業中尤其明顯。這些產業主導了印度的經濟，而印度是一個擁有龐大非正式部門的開發中國家。法規架構在過去幾十年中得到加強，特別是在將非組織部門納入法律範圍內方面。傳統的 OHS 方法在很大程度上是被動的，依賴於事後分析（具有治療作用），而不是預防性干預。本文描繪了預測分析在重振印度 OHS 實務中的巨大潛力。智慧預測分析是由機器學習和統計建模等方法驅動的。其數據驅動的本質有助於克服傳統 OHS 方法的限制。印度的 OHS 預測分析方法借鑑了全球案例研究和預測分析在 OHS 中的生成式應用，這些應用已針對印度產業背景進行調整。本文嘗試探討它如何展現出應對分散數據生態系統、資源限制和工作場所危害變異性等挑戰的潛力。本文提出了可行的政策建議，以創造有利於廣泛實施預測分析的條件，必須提倡將其作為 OHS 策略的基石。在這樣做的過程中，本文旨在激發政策制定者、產業領導者和技術人員之間的合作對話。它敦促轉向智慧實務以保障印度勞動力的福祉。
 
 ##### **Self-Supervised Radiograph Anatomical Region Classification -- How Clean Is Your Real-World Data?**
 2412.15967v1 by Simon Langer, Jessica Ritter, Rickmer Braren, Daniel Rueckert, Paul Hager

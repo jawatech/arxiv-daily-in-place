@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v2](http://arxiv.org/abs/2412.21199v2)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187v1](http://arxiv.org/abs/2412.21187v1)|null|
 |**2024-12-30**|**Two-component spatiotemporal template for activation-inhibition of speech in ECoG**|Eric Easthope et.al.|[2412.21178v1](http://arxiv.org/abs/2412.21178v1)|null|
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161v1](http://arxiv.org/abs/2412.21161v1)|null|
@@ -20,7 +20,7 @@
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036v1](http://arxiv.org/abs/2412.21036v1)|null|
 |**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033v1](http://arxiv.org/abs/2412.21033v1)|[link](https://github.com/gautierdag/plancraft)|
 |**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015v1](http://arxiv.org/abs/2412.21015v1)|[link](https://github.com/MapQaTor/.github/tree/main/profile)|
-|**2024-12-30**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v1](http://arxiv.org/abs/2412.21006v1)|null|
+|**2024-12-30**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006v2](http://arxiv.org/abs/2412.21006v2)|null|
 |**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|[link](https://github.com/xiaoyinliu0714/LEASE)|
 |**2024-12-30**|**Plug-and-Play Training Framework for Preference Optimization**|Jingyuan Ma et.al.|[2412.20996v1](http://arxiv.org/abs/2412.20996v1)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995v1](http://arxiv.org/abs/2412.20995v1)|null|
@@ -41,15 +41,15 @@
 |**2024-12-30**|**Fine-Tuning TransMorph with Gradient Correlation for Anatomical Alignment**|Lukas Förner et.al.|[2412.20822v1](http://arxiv.org/abs/2412.20822v1)|null|
 |**2024-12-30**|**Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment**|Xuechen Wang et.al.|[2412.20821v1](http://arxiv.org/abs/2412.20821v1)|null|
 |**2024-12-30**|**Length-Aware DETR for Robust Moment Retrieval**|Seojeong Park et.al.|[2412.20816v1](http://arxiv.org/abs/2412.20816v1)|[link](https://github.com/sjpark5800/la-detr)|
-|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v1](http://arxiv.org/abs/2412.20798v1)|[link](https://github.com/humblef-oo-l/DP)|
+|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798v2](http://arxiv.org/abs/2412.20798v2)|[link](https://github.com/humblef-oo-l/DP)|
 |**2024-12-30**|**Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning**|En Fu et.al.|[2412.20790v1](http://arxiv.org/abs/2412.20790v1)|[link](https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference)|
-|**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v1](http://arxiv.org/abs/2412.20787v1)|null|
+|**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v2](http://arxiv.org/abs/2412.20787v2)|null|
 |**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768v1](http://arxiv.org/abs/2412.20768v1)|[link](https://github.com/guanjiyang/sac_jc)|
 |**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767v1](http://arxiv.org/abs/2412.20767v1)|null|
 |**2024-12-30**|**Attributing Culture-Conditioned Generations to Pretraining Corpora**|Huihan Li et.al.|[2412.20760v1](http://arxiv.org/abs/2412.20760v1)|[link](https://github.com/huihanlhh/CultureGenAttr)|
 |**2024-12-30**|**Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**|Abhinav Roy et.al.|[2412.20744v1](http://arxiv.org/abs/2412.20744v1)|null|
 |**2024-12-30**|**Depression and Anxiety Prediction Using Deep Language Models and Transfer Learning**|Tomasz Rutowski et.al.|[2412.20741v1](http://arxiv.org/abs/2412.20741v1)|null|
-|**2024-12-30**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v1](http://arxiv.org/abs/2412.20735v1)|null|
+|**2024-12-30**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735v2](http://arxiv.org/abs/2412.20735v2)|null|
 |**2024-12-30**|**M$^3$oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|[link](https://github.com/BeiiiY/M3oralBench)|
 |**2024-12-30**|**ChartAdapter: Large Vision-Language Model for Chart Summarization**|Peixin Xu et.al.|[2412.20715v1](http://arxiv.org/abs/2412.20715v1)|null|
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694v1](http://arxiv.org/abs/2412.20694v1)|null|
@@ -85,7 +85,7 @@
 |**2024-12-29**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382v1](http://arxiv.org/abs/2412.20382v1)|[link](https://github.com/julia-liuj/nlft)|
 |**2024-12-29**|**A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**|Seungyeon Lee et.al.|[2412.20373v1](http://arxiv.org/abs/2412.20373v1)|null|
 |**2024-12-29**|**LLM2: Let Large Language Models Harness System 2 Reasoning**|Cheng Yang et.al.|[2412.20372v1](http://arxiv.org/abs/2412.20372v1)|[link](https://github.com/yc1999/LLM2)|
-|**2024-12-29**|**Enhancing Code LLMs with Reinforcement Learning in Code Generation**|Junqiao Wang et.al.|[2412.20367v1](http://arxiv.org/abs/2412.20367v1)|null|
+|**2024-12-29**|**Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey**|Junqiao Wang et.al.|[2412.20367v2](http://arxiv.org/abs/2412.20367v2)|null|
 |**2024-12-29**|**Safe Multiagent Coordination via Entropic Exploration**|Ayhan Alp Aydeniz et.al.|[2412.20361v1](http://arxiv.org/abs/2412.20361v1)|null|
 |**2024-12-29**|**EmoReg: Directional Latent Vector Modeling for Emotional Intensity Regularization in Diffusion-based Voice Conversion**|Ashishkumar Gudmalwar et.al.|[2412.20359v1](http://arxiv.org/abs/2412.20359v1)|null|
 |**2024-12-29**|**HindiLLM: Large Language Model for Hindi**|Sanjay Chouhan et.al.|[2412.20357v1](http://arxiv.org/abs/2412.20357v1)|null|
@@ -154,7 +154,7 @@ https://github.com/purbeshmitra/distributed_moa.
 https://github.com/purbeshmitra/distributed_moa。</paragraph>
 
 ##### **HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**
-2412.21199v1 by Zhaojian Yu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang
+2412.21199v2 by Zhaojian Yu, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang
 
 We introduce self-invoking code generation, a new task designed to evaluate
 the progressive reasoning and problem-solving capabilities of LLMs. In this
@@ -176,7 +176,7 @@ these results underscore the need for further advancements in self-invoking
 code generation tasks and provide a new direction for future research on
 enhancing LLMs' code reasoning capabilities.
 
-摘要：<paragraph>我們引入了自調用程式碼生成，這項新任務旨在評估 LLM 的漸進式推理和問題解決能力。在這個任務中，模型會收到一個基本問題和一個相關的更複雜問題。它們必須解決基本問題，然後利用其解決方案來解決更複雜的問題。這項工作有三個關鍵貢獻。首先，我們提出了一個通用方法，用於生成現有基準的更具挑戰性的版本，產生了三個新的基準：HumanEval Pro、MBPP Pro 和 BigCodeBench-Lite Pro，專門設計用於評估 LLM 的自調用程式碼生成。其次，從我們基準上對二十個 LLM 的實驗結果分析中，我們有兩個重要的觀察：(i) 大多數 LLM 在傳統程式碼生成基準（例如 HumanEval 和 MBPP）中表現出色，但它們在自調用任務上的表現卻下降。例如，o1-mini 在 HumanEval 上達到 96.2% 的 pass@1，但在 HumanEval Pro 上只有 76.2%。(ii) 在自調用程式碼生成任務上，與基礎模型相比，經過指令調整的模型只表現出邊際改善。第三，我們公開了我們的評估結果中存在的失敗模式類型。所有這些結果都強調了進一步推進自調用程式碼生成任務的必要性，並為未來加強 LLM 程式碼推理能力的研究提供了新的方向。</paragraph>
+摘要：<paragraph>我們引入了自呼叫程式碼生成，這是一項新任務，旨在評估 LLM 的漸進式推理和問題解決能力。在此任務中，模型會遇到一個基本問題和一個相關的更複雜問題。他們必須解決基本問題，然後利用其解決方案來解決更複雜的問題。這項工作有三大貢獻。首先，我們提出了一個通用配方，用於生成更具挑戰性的現有基準版本，從而產生了三個新的基準：HumanEval Pro、MBPP Pro 和 BigCodeBench-Lite Pro，專門用於評估 LLM 的自呼叫程式碼生成。其次，從對我們基準上二十個 LLM 的實驗結果的分析中，我們有兩個重要的觀察結果：(i) 大多數 LLM 在傳統程式碼生成基準（如 HumanEval 和 MBPP）中表現出色，但它們在自呼叫任務中的表現卻下降了。例如，o1-mini 在 HumanEval 上達到了 96.2% 的 pass@1，但在 HumanEval Pro 上僅達到了 76.2%。(ii) 在自呼叫程式碼生成任務中，與基本模型相比，指令調整模型僅顯示出邊際改進。第三，我們公開了我們評估結果中存在的失敗模式類型。所有這些結果都強調了進一步推進自呼叫程式碼生成任務的必要性，並為未來增強 LLM 程式碼推理能力的研究提供了新的方向。</paragraph>
 
 ##### **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**
 2412.21187v1 by Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
@@ -552,7 +552,7 @@ Maps 等地圖和導航服務對於存取各種基於位置的資料至關重要
 我們介紹 MapQaTor，這是一個簡化建立可複製、可追蹤的基於地圖的 QA 資料集的網路應用程式。透過其即插即用的架構，MapQaTor 能夠與任何地圖 API 無縫整合，讓使用者能夠從不同的來源收集和視覺化資料，且設定最少。透過快取 API 回應，該平台確保了一致的真實情況，即使現實世界中的資訊不斷演變，也能增強資料的可靠性。MapQaTor 在單一平台中集中化資料擷取、註解和視覺化，提供了一個獨特的機會來評估 LLM 基於地理空間推理的當前狀態，同時提升其功能以改善地理空間理解。評估指標顯示，與手動方法相比，MapQaTor 將註解程序加速至少 30 倍，凸顯其開發地理空間資源（例如複雜的地圖推理資料集）的潛力。網站已上線：https://mapqator.github.io/，示範影片可於：https://youtu.be/7_aV9Wmhs6Q 觀看。
 
 ##### **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**
-2412.21006v1 by Joonwon Jang, Jaehee Kim, Wonbin Kweon, Hwanjo Yu
+2412.21006v2 by Joonwon Jang, Jaehee Kim, Wonbin Kweon, Hwanjo Yu
 
 Large Language Models (LLMs) rely on generating extensive intermediate
 reasoning units (e.g., tokens, sentences) to enhance final answer quality
@@ -567,7 +567,7 @@ performance while reducing generation length. This preserves the original
 reasoning abilities of LLMs and achieves an average 17.15% reduction in
 generation costs across various models and tasks.
 
-摘要：大型語言模型 (LLM) 仰賴產生廣泛的中間推理單元 (例如：符號、句子) 來提升在各種複雜任務中的最終答案品質。儘管產生多重推理路徑或反覆精進依據已證實能有效提升效能，但這些方法無可避免地會導致顯著更高的推論成本。在這項工作中，我們提出一個新穎的句子層級依據簡化訓練架構，該架構利用基於可能性的標準（冗長度）來識別並移除多餘的推理句子。與利用符號層級簡化的先前方法不同，我們的句子層級簡化架構在減少產生長度的同時，維持模型效能。這保留了 LLM 的原始推理能力，並在各種模型和任務中平均減少了 17.15% 的產生成本。
+摘要：大型語言模型 (LLM) 仰賴產生廣泛的中間推理單位（例如，代幣、句子）來增強最終答案品質，涵蓋廣泛的複雜任務。儘管產生多個推理路徑或反覆精進基本原理已被證實能有效提升效能，這些方法不可避免地會導致大幅提升的推論成本。在這項研究中，我們提出一個新穎的句子層級基本原理簡化訓練架構，該架構利用基於可能性的標準（冗長性）來辨識並移除多餘的推理句子。與利用代幣層級簡化的先前方法不同，我們的句子層級簡化架構在縮短產生長度的同時，維持模型效能。這保留了 LLM 原本的推理能力，並在各種模型和任務中達成平均 17.15% 的產生成本降低幅度。
 
 ##### **LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**
 2412.21001v1 by Xiao-Yin Liu, Guotao Li, Xiao-Hu Zhou, Zeng-Guang Hou
@@ -1014,25 +1014,25 @@ https://github.com/sjpark5800/LA-DETR.
 摘要：影片片段檢索 (MR) 旨在根據給定的自然語言查詢，在影片中找出片段。由於 YouTube 等平台普遍用於資訊檢索，對 MR 技術的需求大幅增加。最近基於 DETR 的模型在效能方面有顯著進步，但仍難以準確找出短片段。透過資料分析，我們發現短片段中的特徵多樣性有限，這促成了 MomentMix 的開發。MomentMix 採用兩種擴增策略：前景混合和背景混合，分別增強前景和背景的特徵表示。此外，我們對預測偏差的分析顯示，短片段特別難以準確預測其片段中心位置。為了解決這個問題，我們提出一個長度感知解碼器，透過新穎的二部匹配程序來設定長度。我們廣泛的研究證明了我們長度感知方法的效力，特別是在找出短片段時，進而改善整體效能。我們的模型在基準資料集上超越了最先進的基於 DETR 的方法，在 QVHighlights 上達到了最高的 R1 和 mAP，在 TACoS 和 Charades-STA 上達到了最高的 R1@0.7（例如在 QVHighlights 上 R1@0.7 提升了 2.46%，mAP 平均提升了 2.57%）。程式碼可於 https://github.com/sjpark5800/LA-DETR 取得。
 
 ##### **A Tale of Two Imperatives: Privacy and Explainability**
-2412.20798v1 by Supriya Manna, Niladri Sett
+2412.20798v2 by Supriya Manna, Niladri Sett
 
 Deep learning's preponderance across scientific domains has reshaped
 high-stakes decision-making, making it essential to follow rigorous operational
 frameworks that include both Right-to-Privacy (RTP) and Right-to-Explanation
 (RTE). This paper examines the complexities of combining these two
-requirements. For RTP, we focus on 'Differentially privacy' (DP), which is
-considered the current gold standard for privacy-preserving machine learning
-due to its strong quantitative guarantee of privacy. For RTE, we focus on
-post-hoc explainers: they are the go-to option for model auditing as they
-operate independently of model training. We formally investigate (DP) models
-and various commonly-used post-hoc explainers: how to evaluate these explainers
-subject to RTP, and analyze the intrinsic interactions between DP models and
-these explainers. Furthermore, our work throws light on how RTP and RTE can be
-effectively combined in high-stakes applications. Our study concludes by
-outlining an industrial software pipeline, with the example of a wildly used
-use-case, that respects both RTP and RTE requirements.
+requirements. For RTP, we focus on `Differential privacy' (DP), which is
+considered the current \textit{gold standard} for privacy-preserving machine
+learning due to its strong quantitative guarantee of privacy. For RTE, we focus
+on post-hoc explainers: they are the \textit{go-to} option for model auditing
+as they operate independently of model training. We formally investigate DP
+models and various commonly-used post-hoc explainers: how to evaluate these
+explainers subject to RTP, and analyze the intrinsic interactions between DP
+models and these explainers. Furthermore, our work throws light on how RTP and
+RTE can be effectively combined in high-stakes applications. Our study
+concludes by outlining an industrial software pipeline, with the example of a
+wildly used use-case, that respects both RTP and RTE requirements.
 
-摘要：深度學習在科學領域的盛行已重塑了高風險決策制定，因此遵循嚴謹的操作框架至關重要，其中包括隱私權 (RTP) 和解釋權 (RTE)。本文探討了結合這兩個要求的複雜性。對於 RTP，我們專注於「差分隱私」(DP)，由於其對隱私的強有力的量化保證，因此被認為是隱私保護機器學習的當前黃金標準。對於 RTE，我們專注於事後解釋器：由於它們獨立於模型訓練，因此它們是模型稽核的首選。我們正式研究了 (DP) 模型和各種常用的事後解釋器：如何根據 RTP 評估這些解釋器，並分析 DP 模型和這些解釋器之間的內在交互作用。此外，我們的研究闡明了如何在高風險應用中有效結合 RTP 和 RTE。我們的研究最後概述了一個產業軟體管道，以一個廣泛使用的用例為例，它符合 RTP 和 RTE 要求。
+摘要：深度學習在科學領域的優勢重塑了高風險決策制定，因此遵循嚴格的操作架構至關重要，其中包括隱私權 (RTP) 和解釋權 (RTE)。本文探討了結合這兩個需求的複雜性。對於 RTP，我們專注於「差分隱私」(DP)，由於其對隱私的強有力的定量保證，因此被認為是隱私保護機器學習的當前「黃金標準」。對於 RTE，我們專注於事後解釋器：它們是模型審計的「首選」選項，因為它們獨立於模型訓練而運行。我們正式研究了 DP 模型和各種常用的事後解釋器：如何評估這些解釋器以符合 RTP，並分析 DP 模型和這些解釋器之間的內在交互作用。此外，我們的研究闡明了如何在高風險應用中有效結合 RTP 和 RTE。我們的研究最後概述了一個產業軟體管道，以一個廣泛使用的用例為例，該用例同時符合 RTP 和 RTE 要求。
 
 ##### **Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning**
 2412.20790v1 by En Fu, Yanyan Hu
@@ -1066,7 +1066,7 @@ https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference.
 摘要：對比學習支撐了目前大多數的自監督時間序列表示方法。建構正負樣本對的策略會顯著影響最終的表示品質。然而，由於時間序列語意的連續性，對比學習的建模方法難以適應時間序列資料的特性。這會造成一些問題，例如建構困難負樣本的困難，以及在建構正樣本期間引入不適當偏差的可能性。儘管最近的一些研究已經開發出幾種科學策略來建構正負樣本對，並提高了有效性，但它們仍然受到對比學習架構的限制。為了從根本上克服對比學習的限制，本文介紹了頻率遮罩嵌入推論 (FEI)，這是一種新的非對比方法，完全消除了對正負樣本的需求。所提出的 FEI 基於提示策略建構了 2 個推論分支：1) 使用頻率遮罩作為提示，在嵌入空間中推論缺少頻率頻段的目標序列的嵌入表示，以及 2) 使用目標序列作為提示，推論其頻率遮罩嵌入。藉由這種方式，FEI 能夠為時間序列建構連續的語意關係模型。在 8 個廣泛使用於分類和回歸任務的時間序列資料集上進行的實驗，使用線性評估和端到端微調，顯示 FEI 在泛化方面顯著優於現有的基於對比的方法。這項研究為時間序列的自監督表示學習提供了新的見解。程式碼可在 https://github.com/USTBInnovationPark/Frequency-masked-Embedding-Inference 取得。
 
 ##### **SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**
-2412.20787v1 by Pengfei Jing, Mengyun Tang, Xiaorong Shi, Xing Zheng, Sen Nie, Shi Wu, Yong Yang, Xiapu Luo
+2412.20787v2 by Pengfei Jing, Mengyun Tang, Xiaorong Shi, Xing Zheng, Sen Nie, Shi Wu, Yong Yang, Xiapu Luo
 
 Evaluating Large Language Models (LLMs) is crucial for understanding their
 capabilities and limitations across various applications, including natural
@@ -1083,13 +1083,13 @@ and across various sub-domains. The dataset was constructed by collecting
 high-quality data from open sources and organizing a Cybersecurity Question
 Design Contest, resulting in 44,823 MCQs and 3,087 SAQs. Particularly, we used
 the powerful while cost-effective LLMs to (1). label the data and (2).
-constructing a grading agent for automatic evaluation of SAQs.Benchmarking
+constructing a grading agent for automatic evaluation of SAQs. Benchmarking
 results on 13 SOTA LLMs demonstrate the usability of SecBench, which is
 arguably the largest and most comprehensive benchmark dataset for LLMs in
 cybersecurity. More information about SecBench can be found at our website, and
 the dataset can be accessed via the artifact link.
 
-摘要：評估大型語言模型 (LLM) 對於了解其在各種應用中的能力和限制至關重要，包括自然語言處理和程式碼生成。現有的基準測試，例如 MMLU、C-Eval 和 HumanEval，可以評估 LLM 的一般效能，但缺乏對特定專家領域（例如網路安全）的關注。以前建立網路安全資料集的嘗試都面臨限制，包括資料量不足和依賴於多選題 (MCQ)。為了解決這些差距，我們提出 SecBench，這是一個多維度的基準測試資料集，旨在評估網路安全領域的 LLM。SecBench 包含各種格式（MCQ 和簡答題 (SAQ)）的問題，具有不同的能力層級（知識保留和邏輯推理），使用多種語言（中文和英文），並涵蓋各種子領域。該資料集是透過從開放來源收集高品質資料和組織網路安全問題設計競賽而建構的，產生了 44,823 個 MCQ 和 3,087 個 SAQ。特別是，我們使用功能強大且經濟實惠的 LLM 來 (1)。標記資料和 (2)。建構一個評分代理，用於自動評估 SAQ。13 個 SOTA LLM 的基準測試結果證明了 SecBench 的可用性，這可以說是網路安全領域 LLM 中最大且最全面的基準測試資料集。可以在我們的網站上找到有關 SecBench 的更多資訊，並且可以透過人工製品連結存取資料集。
+摘要：評量大型語言模型 (LLM) 對於了解它們在各種應用程式中的能力和限制至關重要，包括自然語言處理和程式碼產生。現有的基準測試，例如 MMLU、C-Eval 和 HumanEval，評估一般 LLM 效能，但缺乏針對特定專家領域（例如網路安全）的關注。先前建立網路安全資料集的嘗試面臨限制，包括資料量不足和依賴多選題 (MCQ)。為了解決這些差距，我們提出 SecBench，這是一個多面向基準測試資料集，旨在評估網路安全領域的 LLM。SecBench 包含各種格式（MCQ 和簡答題 (SAQ)）的問題，具有不同的能力層級（知識保留和邏輯推理）、多種語言（中文和英文）以及各種子領域。這個資料集是透過從公開來源收集高品質資料和舉辦網路安全問題設計競賽而建立的，產生 44,823 個 MCQ 和 3,087 個 SAQ。特別是，我們使用功能強大且經濟有效的 LLM 來 (1) 標記資料，以及 (2) 建構一個評分代理，用於自動評量 SAQ。在 13 個 SOTA LLM 上的基準測試結果證明了 SecBench 的可用性，這可以說是 LLM 在網路安全領域中最大且最全面的基準測試資料集。更多關於 SecBench 的資訊可以在我們的網站上找到，而且可以透過人工製品連結存取資料集。
 
 ##### **Sample Correlation for Fingerprinting Deep Face Recognition**
 2412.20768v1 by Jiyang Guan, Jian Liang, Yanbo Wang, Ran He
@@ -1229,7 +1229,7 @@ word sequence cues may be more salient for depression than for anxiety.
 摘要：數位篩檢和監控應用程式能協助醫療保健提供者管理行為健康狀況。我們探索深度語言模型，以從 16k 使用者與應用程式的對話中偵測憂鬱症、焦慮症及其共病。標籤來自應用程式同時收集的 PHQ-8 和 GAD-7 結果。我們發現二元分類的結果範圍從 0.86 到 0.79 AUC，取決於狀況和共病。當使用者同時有或沒有這兩種狀況時，會達到最佳效能，而我們顯示這個結果並非歸因於資料偏差。最後，我們發現證據顯示，潛在的詞彙順序線索可能對憂鬱症比對焦慮症更顯著。
 
 ##### **HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**
-2412.20735v1 by Yang Li, Dong Du, Linfeng Song, Chen Li, Weikang Wang, Tao Yang, Haitao Mi
+2412.20735v2 by Yang Li, Dong Du, Linfeng Song, Chen Li, Weikang Wang, Tao Yang, Haitao Mi
 
 We introduce HunyuanProver, an language model finetuned from the Hunyuan 7B
 for interactive automatic theorem proving with LEAN4. To alleviate the data
@@ -1244,7 +1244,7 @@ open-source a dataset of 30k synthesized instances, where each instance
 contains the original question in natural language, the converted statement by
 autoformalization, and the proof by HunyuanProver.
 
-摘要：<paragraph>我們介紹 HunyuanProver，一種從 Hunyuan 7B 微調而來的語言模型，用於與 LEAN4 進行互動式自動定理證明。為了減輕數據稀疏性問題，我們設計了一個可擴充框架，以低成本反覆合成數據。此外，我們設計了引導樹搜尋演算法，以實現證明者的有效「系統 2 思考」。HunyuanProver 在主要基準測試中取得了最先進 (SOTA) 的表現。具體來說，它在 miniF2F 測試中獲得了 68.4% 的通過率，而目前 SOTA 的結果為 65.9%。它在 miniF2F 測試中證明了 4 個 IMO 陳述（imo_1960_p2、imo_1962_p2、imo_1964_p2 和 imo_1983_p6）。為了造福社群，我們將開放原始碼一個包含 30k 個合成實例的資料集，其中每個實例都包含自然語言中的原始問題、自動形式化的轉換陳述，以及 HunyuanProver 的證明。</paragraph>
+摘要：我們介紹 HunyuanProver，一種從 Hunyuan 7B 微調的語言模型，用於與 LEAN4 進行互動式自動定理證明。為了緩解數據稀疏性問題，我們設計了一個可擴充的框架，以低成本迭代合成數據。此外，設計了引導樹搜索演算法，以啟用證明者的有效「系統 2 思考」。HunyuanProver 在主要基準上實現了最先進 (SOTA) 的效能。具體來說，它在 miniF2F 測試中通過率為 68.4%，而目前的 SOTA 結果為 65.9%。它在 miniF2F 測試中證明了 4 個 IMO 陳述（imo_1960_p2、imo_1962_p2、imo_1964_p2 和 imo_1983_p6）。為了造福社群，我們將開放原始碼一個包含 30k 個合成實例的資料集，其中每個實例都包含自然語言中的原始問題、自動形式化的轉換陳述，以及 HunyuanProver 的證明。
 
 ##### **M$^3$oralBench: A MultiModal Moral Benchmark for LVLMs**
 2412.20718v1 by Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen
@@ -2094,8 +2094,8 @@ accuracy from 56.2 to 70.2 (+14.0).
 
 摘要：大型語言模型 (LLM) 在各種任務中表現出令人印象深刻的能力，但它們偶爾會產生不良的輸出。我們假設這些限制根植於 LLM 的基礎自回歸架構，它本質上缺乏區分期望結果和不良結果的機制。從人類認知的雙重過程理論中汲取靈感，我們引入了 LLM2，這是一個新穎的框架，它將 LLM（系統 1）與基於流程的驗證器（系統 2）相結合。在 LLM2 中，LLM 負責產生合理的候選項，而驗證器則提供及時的基於流程的回饋，以區分期望輸出和不良輸出。驗證器使用成對比較損失在通過我們的代幣品質探索策略生成的合成流程監督數據上進行訓練。數學推理基準上的經驗結果證實了 LLM2 的有效性，Llama3-1B 在 GSM8K 上的準確率從 50.3 提升到 57.8（+7.5）就是一個例子。此外，當與自洽性相結合時，LLM2 可以實現進一步的改進，將 major@20 準確率從 56.2 提升到 70.2（+14.0）。
 
-##### **Enhancing Code LLMs with Reinforcement Learning in Code Generation**
-2412.20367v1 by Junqiao Wang, Zeng Zhang, Yangfan He, Yuyang Song, Tianyu Shi, Yuchen Li, Hengyuan Xu, Kunyu Wu, Guangwu Qian, Qiuwu Chen, Lewei He
+##### **Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey**
+2412.20367v2 by Junqiao Wang, Zeng Zhang, Yangfan He, Yuyang Song, Tianyu Shi, Yuchen Li, Hengyuan Xu, Kunyu Wu, Guangwu Qian, Qiuwu Chen, Lewei He
 
 With the rapid evolution of large language models (LLM), reinforcement
 learning (RL) has emerged as a pivotal technique for code generation and
@@ -2112,7 +2112,7 @@ capabilities. This survey aims to serve as a comprehensive resource for
 researchers and practitioners interested in harnessing the power of RL to
 advance code generation and optimization techniques.
 
-摘要：隨著大型語言模型 (LLM) 的快速發展，強化學習 (RL) 已成為各種領域中用於程式碼生成和最佳化的關鍵技術。本文系統性地綜述了 RL 在程式碼最佳化和生成中的應用，重點說明其在增強編譯器最佳化、資源配置以及框架和工具開發中的作用。後續章節首先深入探討編譯器最佳化的複雜過程，其中利用 RL 演算法來提高效率和資源利用率。接著討論 RL 在資源配置中的功能，強調暫存器配置和系統最佳化。我們還探討了框架和工具在程式碼生成中日益重要的作用，探討如何整合 RL 來提升其功能。本綜述旨在為有興趣利用 RL 的力量來推進程式碼生成和最佳化技術的研究人員和從業人員提供全面的資源。
+摘要：隨著大型語言模型 (LLM) 的快速演進，強化學習 (RL) 已成為各種領域中程式碼產生和最佳化的關鍵技術。本文提供了 RL 在程式碼最佳化和產生中的應用之系統性調查，重點說明其在增強編譯器最佳化、資源配置，以及架構和工具開發中的角色。後續章節首先深入探討編譯器最佳化的複雜過程，其中 RL 演算法被用於提升效率和資源利用率。接著討論 RL 在資源配置中的功能，強調暫存器配置和系統最佳化。我們也探討了架構和工具在程式碼產生中蓬勃發展的角色，探討如何整合 RL 以強化其功能。本調查旨在作為一個全面的資源，供有興趣利用 RL 的力量來推進程式碼產生和最佳化技術的研究人員和從業人員參考。
 
 ##### **Safe Multiagent Coordination via Entropic Exploration**
 2412.20361v1 by Ayhan Alp Aydeniz, Enrico Marchesini, Robert Loftin, Christopher Amato, Kagan Tumer

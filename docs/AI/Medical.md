@@ -69,7 +69,7 @@
 |**2024-12-20**|**Improving Object Detection for Time-Lapse Imagery Using Temporal Features in Wildlife Monitoring**|Marcus Jenkins et.al.|[2412.16329v1](http://arxiv.org/abs/2412.16329v1)|[link](https://github.com/marcusjenkins01/yolov7-temporal)|
 |**2024-12-20**|**Benchmarking LLMs and SLMs for patient reported outcomes**|Matteo Marengo et.al.|[2412.16291v1](http://arxiv.org/abs/2412.16291v1)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
-|**2024-12-20**|**Applying Predictive Analytics to Occupational Health and Safety**|Vyom Saxena et.al.|[2412.16038v2](http://arxiv.org/abs/2412.16038v2)|null|
+|**2024-12-20**|**Predictive Analytics in Occupational Health and Safety**|Vyom Saxena et.al.|[2412.16038v2](http://arxiv.org/abs/2412.16038v2)|null|
 |**2024-12-20**|**Self-Supervised Radiograph Anatomical Region Classification -- How Clean Is Your Real-World Data?**|Simon Langer et.al.|[2412.15967v1](http://arxiv.org/abs/2412.15967v1)|null|
 |**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957v1](http://arxiv.org/abs/2412.15957v1)|null|
 |**2024-12-20**|**Development of a Large-scale Dataset of Chest Computed Tomography Reports in Japanese and a High-performance Finding Classification Model**|Yosuke Yamagishi et.al.|[2412.15907v1](http://arxiv.org/abs/2412.15907v1)|null|
@@ -1808,28 +1808,11 @@ reliable AI-driven CXR analysis in clinical settings.
 
 摘要：深度學習已進步了醫學影像分類，但可解釋性挑戰阻礙了其臨床採用。本研究透過使用概念瓶頸模型 (CBM) 和多重代理檢索增強生成 (RAG) 系統進行報告生成，增強了胸部 X 光 (CXR) 分類的可解釋性。透過對視覺特徵和臨床概念之間的關係進行建模，我們建立了可解釋的概念向量，用來引導多重代理 RAG 系統生成放射科報告，以增強臨床相關性、可解釋性和透明性。使用 LLM 作為判斷者對生成的報告進行評估，確認了我們模型輸出的可解釋性和臨床實用性。在 COVID-QU 資料集上，我們的模型達到了 81% 的分類準確度，並展示了強健的報告生成效能，五項關鍵指標介於 84% 到 90% 之間。這個可解釋的多重代理架構彌合了高性能 AI 與在臨床環境中進行可靠 AI 驅動 CXR 分析所需的可解釋性之間的差距。
 
-##### **Applying Predictive Analytics to Occupational Health and Safety**
+##### **Predictive Analytics in Occupational Health and Safety**
 2412.16038v2 by Vyom Saxena
 
 Predictive analytics is revolutionizing occupational health and safety (OHS).
-It offers evidence-based insights. These insights enable proactive risk
-management and informed, data-driven decision-making in organizational
-settings. This article explores the key components of predictive analytics in
-OHS, beginning with data collection, management, and preparation, and moving
-through to advanced predictive modelling techniques. We emphasize the
-importance of data integrity through processes such as missing value
-imputation, anomaly detection, and feature engineering to ensure accurate model
-predictions. Risk prioritization identifies and ranks hazards across various
-factors, including employee behaviours, organizational policies, environmental
-conditions, and operational practices. We posit that insights derived from
-predictive models must be effectively interpreted and implemented. These
-insights guide organizations to focus on high-impact areas for accident
-prevention and resource optimization. The integration of predictive analytics
-in OHS brings notable benefits, including enhanced decision-making, greater
-operational efficiency, cost savings, and improved compliance with safety
-standards. We examine applications of predictive analytics in OHS in Indian
-settings. We opine that, using predictive analytics, India can develop high
-safety standards while traversing the complexities of its workforce settings.
+This article explores the key components of predictive analytics in OHS.
 
 摘要：預測分析為職業健康與安全（OHS）帶來革命。
 它提供基於證據的見解。這些見解能讓組織環境中的風險管理更具前瞻性，並能做出明智且資料導向的決策。本文探討 OHS 中預測分析的主要組成部分，從資料收集、管理和準備開始，並進展到進階預測建模技術。我們強調資料完整性的重要性，透過遺失值填補、異常偵測和特徵工程等程序，以確保模型預測的準確性。風險優先順序會識別並評比各種因素的危害，包括員工行為、組織政策、環境條件和操作實務。我們假設從預測模型中衍生的見解必須被有效地解讀和實施。這些見解引導組織專注於高影響層面的事故預防和資源最佳化。預測分析整合到 OHS 中帶來顯著的好處，包括增強決策制定、提升營運效率、節省成本和改善安全標準的遵循度。我們探討預測分析在印度環境中 OHS 的應用。我們認為，透過使用預測分析，印度可以在其勞動力環境的複雜性中制定高安全標準。

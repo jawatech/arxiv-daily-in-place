@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|null|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v1](http://arxiv.org/abs/2501.01644v1)|null|
 |**2025-01-01**|**Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**|Weiqi Wu et.al.|[2501.00888v1](http://arxiv.org/abs/2501.00888v1)|null|
 |**2024-12-31**|**Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**|Yipeng Kang et.al.|[2501.00581v1](http://arxiv.org/abs/2501.00581v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
@@ -100,10 +102,56 @@
 |**2024-12-09**|**Generative Adversarial Reviews: When LLMs Become the Critic**|Nicolas Bougie et.al.|[2412.10415v1](http://arxiv.org/abs/2412.10415v1)|null|
 |**2024-12-09**|**A Self-guided Multimodal Approach to Enhancing Graph Representation Learning for Alzheimer's Diseases**|Zhepeng Wang et.al.|[2412.06212v1](http://arxiv.org/abs/2412.06212v1)|null|
 |**2024-12-08**|**Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information**|Vijayalaxmi Sahadevan et.al.|[2412.05868v1](http://arxiv.org/abs/2412.05868v1)|null|
-|**2024-12-08**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838v1](http://arxiv.org/abs/2412.05838v1)|null|
-|**2024-12-08**|**Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks**|Faqian Guan et.al.|[2412.05830v1](http://arxiv.org/abs/2412.05830v1)|null|
 
 #### Abstracts
+##### **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**
+2501.01945v1 by Weizhi Zhang, Yuanchen Bei, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu
+
+Cold-start problem is one of the long-standing challenges in recommender
+systems, focusing on accurately modeling new or interaction-limited users or
+items to provide better recommendations. Due to the diversification of internet
+platforms and the exponential growth of users and items, the importance of
+cold-start recommendation (CSR) is becoming increasingly evident. At the same
+time, large language models (LLMs) have achieved tremendous success and possess
+strong capabilities in modeling user and item information, providing new
+potential for cold-start recommendations. However, the research community on
+CSR still lacks a comprehensive review and reflection in this field. Based on
+this, in this paper, we stand in the context of the era of large language
+models and provide a comprehensive review and discussion on the roadmap,
+related literature, and future directions of CSR. Specifically, we have
+conducted an exploration of the development path of how existing CSR utilizes
+information, from content features, graph relations, and domain information, to
+the world knowledge possessed by large language models, aiming to provide new
+insights for both the research and industrial communities on CSR. Related
+resources of cold-start recommendations are collected and continuously updated
+for the community in
+https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation.
+
+摘要：冷啟動問題是推薦系統中長久以來的挑戰之一，專注於準確建模新使用者或互動有限的使用者或項目，以提供更好的推薦。由於網路平台的多樣化以及使用者和項目的指數級增長，冷啟動推薦 (CSR) 的重要性變得越來越明顯。同時，大型語言模型 (LLM) 已取得巨大的成功，並具備建模使用者和項目資訊的強大能力，為冷啟動推薦提供了新的潛力。然而，CSR 的研究社群仍然缺乏對此領域的全面回顧和反思。基於此，在本文中，我們站在大型語言模型的時代背景下，對 CSR 的路線圖、相關文獻和未來方向進行了全面的回顧和討論。具體來說，我們探討了現有 CSR 如何利用資訊的發展路徑，從內容特徵、圖形關係和領域資訊，到大型語言模型所擁有的世界知識，旨在為研究和產業社群在 CSR 上提供新的見解。冷啟動推薦的相關資源已收集並持續更新，供社群在 https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation 中使用。
+
+##### **Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**
+2501.01644v1 by Tien Dang, Viet Thanh Duy Nguyen, Minh Tuan Le, Truong-Son Hy
+
+Biomedical Knowledge Graphs (BKGs) integrate diverse datasets to elucidate
+complex relationships within the biomedical field. Effective link prediction on
+these graphs can uncover valuable connections, such as potential novel
+drug-disease relations. We introduce a novel multimodal approach that unifies
+embeddings from specialized Language Models (LMs) with Graph Contrastive
+Learning (GCL) to enhance intra-entity relationships while employing a
+Knowledge Graph Embedding (KGE) model to capture inter-entity relationships for
+effective link prediction. To address limitations in existing BKGs, we present
+PrimeKG++, an enriched knowledge graph incorporating multimodal data, including
+biological sequences and textual descriptions for each entity type. By
+combining semantic and relational information in a unified representation, our
+approach demonstrates strong generalizability, enabling accurate link
+predictions even for unseen nodes. Experimental results on PrimeKG++ and the
+DrugBank drug-target interaction dataset demonstrate the effectiveness and
+robustness of our method across diverse biomedical datasets. Our source code,
+pre-trained models, and data are publicly available at
+https://github.com/HySonLab/BioMedKG
+
+摘要：生物医学知識圖譜 (BKG) 整合多樣化的資料集，以闡明生物醫學領域內的複雜關係。在這些圖譜上進行有效的連結預測，可以發現有價值的連結，例如潛在的新藥物-疾病關係。我們引入了一種新穎的多模態方法，它將來自專用語言模型 (LM) 的嵌入與圖形對比學習 (GCL) 統一起來，以增強實體內關係，同時採用知識圖形嵌入 (KGE) 模型來捕捉實體間關係，以進行有效的連結預測。為了解決現有 BKG 中的限制，我們提出了 PrimeKG++，這是一個豐富的知識圖形，它結合了多模態數據，包括每種類型實體的生物序列和文字描述。通過在統一表示中結合語義和關係資訊，我們的做法展示了強大的概括性，即使對於未見節點也能進行準確的連結預測。在 PrimeKG++ 和 DrugBank 藥物-標靶交互作用資料集上的實驗結果證明了我們的方法在各種生物醫學資料集中的有效性和穩健性。我們的原始碼、預訓練模型和資料可在 https://github.com/HySonLab/BioMedKG 公開取得。
+
 ##### **Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**
 2501.00888v1 by Weiqi Wu, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao
 
@@ -2513,60 +2561,4 @@ study are reported regarding the challenges and opportunities, including
 discussing the FBS ontology and concepts.
 
 摘要：<paragraph>基於本体論的知識圖譜 (KG) 對於在各種決策制定情境（包括設計）中有效管理和重用知識是理想的。建立並填入基於特定本體模型的廣泛 KG 可能非常耗費人力和時間，除非開發出用於知識萃取和圖譜建立的自動化流程。大多數關於 KG 自動化萃取和建立的研究和開發都基於提供脈絡資訊的廣泛非結構化資料集。然而，關於公司產品和服務的一些最有用的資訊傳統上都是以結構化資料記錄的。此類結構化資料集很少遵循標準本體論，不會擷取實體之間關係的明確對應，也不會提供脈絡資訊。因此，本研究報告了一種方法和數位工作流程，用於解決此差距。開發的方法和工作流程採用基於規則的技術，從傳統結構化資料（特別是規格表和產品目錄）中萃取並建立功能行為結構 (FBS) 本體論基礎的 KG。解決方案方法包含兩個主要組成部分：一個用於推導 FBS 本體論概念的脈絡和基於脈絡的分類規則的流程，以及一個用於填入和檢索 FBS 本體論基礎的 KG 的工作流程。KG 和自然語言處理 (NLP) 用於自動化知識萃取、表示和檢索。工作流程的有效性透過在工業脈絡中的試點實作得到證明。報告了從試點研究中獲得的見解，包括討論 FBS 本體論和概念在內的挑戰和機會。</paragraph>
-
-##### **A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data**
-2412.05838v1 by Aniruddha Salve, Saba Attar, Mahesh Deshmukh, Sayali Shivpuje, Arnab Mitra Utsab
-
-Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by
-incorporating external, domain-specific data into the generative process. While
-LLMs are highly capable, they often rely on static, pre-trained datasets,
-limiting their ability to integrate dynamic or private data. Traditional RAG
-systems typically use a single-agent architecture to handle query generation,
-data retrieval, and response synthesis. However, this approach becomes
-inefficient when dealing with diverse data sources, such as relational
-databases, document stores, and graph databases, often leading to performance
-bottlenecks and reduced accuracy. This paper proposes a multi-agent RAG system
-to address these limitations. Specialized agents, each optimized for a specific
-data source, handle query generation for relational, NoSQL, and document-based
-systems. These agents collaborate within a modular framework, with query
-execution delegated to an environment designed for compatibility across various
-database types. This distributed approach enhances query efficiency, reduces
-token overhead, and improves response accuracy by ensuring that each agent
-focuses on its specialized task. The proposed system is scalable and adaptable,
-making it ideal for generative AI workflows that require integration with
-diverse, dynamic, or private data sources. By leveraging specialized agents and
-a modular execution environment, the system provides an efficient and robust
-solution for handling complex, heterogeneous data environments in generative AI
-applications.
-
-摘要：檢索增強生成 (RAG) 透過將外部領域特定資料納入生成流程，增強大型語言模型 (LLM)。雖然 LLM 具有高度能力，但它們通常依賴於靜態的預訓練資料集，限制了它們整合動態或私人資料的能力。傳統的 RAG 系統通常使用單一代理架構來處理查詢生成、資料檢索和回應合成。然而，當處理多樣化的資料來源時，這種方法會變得沒有效率，例如關係資料庫、文件儲存和圖形資料庫，通常會導致效能瓶頸和降低準確性。本文提出一個多代理 RAG 系統來解決這些限制。針對特定資料來源最佳化的專門代理，負責關係、NoSQL 和基於文件系統的查詢生成。這些代理在一個模組化架構內協作，查詢執行委派給一個環境，該環境設計為與各種資料庫類型相容。這種分散式方法增強了查詢效率，減少了標記開銷，並透過確保每個代理專注於其專門任務，來改善回應準確性。所提出的系統具有可擴充性和適應性，使其成為需要與多樣化、動態或私人資料來源整合的生成式 AI 工作流程的理想選擇。透過利用專門代理和模組化執行環境，該系統為處理生成式 AI 應用程式中複雜、異質的資料環境，提供了一個有效且穩健的解決方案。
-
-##### **Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks**
-2412.05830v1 by Faqian Guan, Tianqing Zhu, Wenhan Chang, Wei Ren, Wanlei Zhou
-
-Graph Neural Networks (GNNs), specifically designed to process the graph
-data, have achieved remarkable success in various applications. Link stealing
-attacks on graph data pose a significant privacy threat, as attackers aim to
-extract sensitive relationships between nodes (entities), potentially leading
-to academic misconduct, fraudulent transactions, or other malicious activities.
-Previous studies have primarily focused on single datasets and did not explore
-cross-dataset attacks, let alone attacks that leverage the combined knowledge
-of multiple attackers. However, we find that an attacker can combine the data
-knowledge of multiple attackers to create a more effective attack model, which
-can be referred to cross-dataset attacks. Moreover, if knowledge can be
-extracted with the help of Large Language Models (LLMs), the attack capability
-will be more significant. In this paper, we propose a novel link stealing
-attack method that takes advantage of cross-dataset and Large Language Models
-(LLMs). The LLM is applied to process datasets with different data structures
-in cross-dataset attacks. Each attacker fine-tunes the LLM on their specific
-dataset to generate a tailored attack model. We then introduce a novel model
-merging method to integrate the parameters of these attacker-specific models
-effectively. The result is a merged attack model with superior generalization
-capabilities, enabling effective attacks not only on the attackers' datasets
-but also on previously unseen (out-of-domain) datasets. We conducted extensive
-experiments in four datasets to demonstrate the effectiveness of our method.
-Additional experiments with three different GNN and LLM architectures further
-illustrate the generality of our approach.
-
-摘要：圖神經網路 (GNN) 專門用於處理圖形資料，在各種應用中都取得了顯著的成功。連結竊取攻擊對圖形資料構成重大的隱私威脅，因為攻擊者旨在提取節點（實體）之間的敏感關係，可能導致學術不當行為、欺詐交易或其他惡意活動。先前的研究主要集中於單一資料集，並且沒有探討跨資料集攻擊，更不用說利用多個攻擊者的綜合知識的攻擊。然而，我們發現攻擊者可以結合多個攻擊者的資料知識來建立更有效的攻擊模型，這可以稱為跨資料集攻擊。此外，如果可以在大型語言模型 (LLM) 的幫助下提取知識，則攻擊能力將會更顯著。在本文中，我們提出了一種新穎的連結竊取攻擊方法，該方法利用跨資料集和大型語言模型 (LLM)。LLM 用於在跨資料集攻擊中處理具有不同資料結構的資料集。每個攻擊者針對其特定資料集微調 LLM 以產生量身打造的攻擊模型。然後，我們引入一種新穎的模型合併方法，以有效整合這些特定於攻擊者的模型的參數。結果是一個合併的攻擊模型，具有優異的泛化能力，不僅可以在攻擊者的資料集上進行有效攻擊，還可以在以前未見的（域外）資料集上進行有效攻擊。我們在四個資料集中進行了廣泛的實驗，以證明我們方法的有效性。使用三種不同的 GNN 和 LLM 架構進行的額外實驗進一步說明了我們方法的普遍性。
 

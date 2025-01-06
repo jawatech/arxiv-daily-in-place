@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03**|**Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**|Shivom Aggarwal et.al.|[2501.01732v1](http://arxiv.org/abs/2501.01732v1)|null|
+|**2025-01-03**|**EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**|Wang Lituan et.al.|[2501.01658v1](http://arxiv.org/abs/2501.01658v1)|null|
+|**2025-01-03**|**Artificial Intelligent Implications on Health Data Privacy and Confidentiality**|Ahmad Momani et.al.|[2501.01639v1](http://arxiv.org/abs/2501.01639v1)|null|
+|**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618v1](http://arxiv.org/abs/2501.01618v1)|null|
+|**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594v1](http://arxiv.org/abs/2501.01594v1)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|null|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
@@ -11,7 +16,10 @@
 |**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|null|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
 |**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
+|**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
+|**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|null|
 |**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v1](http://arxiv.org/abs/2501.00320v1)|null|
+|**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
@@ -27,7 +35,7 @@
 |**2024-12-28**|**Transforming CCTV cameras into NO$_2$ sensors at city scale for adaptive policymaking**|Mohamed R. Ibrahim et.al.|[2501.00056v1](http://arxiv.org/abs/2501.00056v1)|null|
 |**2024-12-28**|**On the Compositional Generalization of Multimodal LLMs for Medical Imaging**|Zhenyang Cai et.al.|[2412.20070v1](http://arxiv.org/abs/2412.20070v1)|[link](https://github.com/freedomintelligence/med-mat)|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
-|**2024-12-28**|**MobileNetV2: A lightweight classification model for home-based sleep apnea screening**|Hui Pan et.al.|[2412.19967v1](http://arxiv.org/abs/2412.19967v1)|[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
+|**2024-12-28**|**MobileNetV2: A lightweight classification model for home-based sleep apnea screening**|Hui Pan et.al.|[2412.19967v2](http://arxiv.org/abs/2412.19967v2)|[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
 |**2024-12-27**|**ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**|Chao Fan et.al.|[2412.19954v1](http://arxiv.org/abs/2412.19954v1)|null|
 |**2024-12-27**|**An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**|Arezoo Borji et.al.|[2412.19696v1](http://arxiv.org/abs/2412.19696v1)|null|
 |**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
@@ -38,7 +46,7 @@
 |**2024-12-26**|**Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**|Abeer Badawi et.al.|[2412.19254v1](http://arxiv.org/abs/2412.19254v1)|null|
 |**2024-12-26**|**Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**|Valay Bundele et.al.|[2412.19124v1](http://arxiv.org/abs/2412.19124v1)|null|
 |**2024-12-26**|**Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**|Yixin Chen et.al.|[2412.19026v1](http://arxiv.org/abs/2412.19026v1)|[link](https://github.com/yixinchen-ai/mpum)|
-|**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947v1](http://arxiv.org/abs/2412.18947v1)|null|
+|**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947v2](http://arxiv.org/abs/2412.18947v2)|null|
 |**2024-12-25**|**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**|Junying Chen et.al.|[2412.18925v1](http://arxiv.org/abs/2412.18925v1)|[link](https://github.com/freedomintelligence/huatuogpt-o1)|
 |**2024-12-25**|**Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data**|Serkan Salturk et.al.|[2412.18894v1](http://arxiv.org/abs/2412.18894v1)|null|
 |**2024-12-25**|**Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models**|Meltem Aksoy et.al.|[2412.18863v1](http://arxiv.org/abs/2412.18863v1)|null|
@@ -94,16 +102,128 @@
 |**2024-12-20**|**Linguistic Features Extracted by GPT-4 Improve Alzheimer's Disease Detection based on Spontaneous Speech**|Jonathan Heitz et.al.|[2412.15772v1](http://arxiv.org/abs/2412.15772v1)|[link](https://github.com/jheitz/coling2025_gpt_paper)|
 |**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748v1](http://arxiv.org/abs/2412.15748v1)|null|
 |**2024-12-20**|**NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning**|Zheyuan Zhang et.al.|[2412.15547v1](http://arxiv.org/abs/2412.15547v1)|null|
-|**2024-12-20**|**The First Multilingual Model For The Detection of Suicide Texts**|Rodolfo Zevallos et.al.|[2412.15498v1](http://arxiv.org/abs/2412.15498v1)|null|
-|**2024-12-19**|**AI-Enhanced Sensemaking: Exploring the Design of a Generative AI-Based Assistant to Support Genetic Professionals**|Angela Mastrianni et.al.|[2412.15444v1](http://arxiv.org/abs/2412.15444v1)|null|
-|**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054v1](http://arxiv.org/abs/2412.15054v1)|[link](https://github.com/andrade-miranda/girafe)|
-|**2024-12-19**|**RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response**|Junyu Luo et.al.|[2412.14922v1](http://arxiv.org/abs/2412.14922v1)|[link](https://github.com/luo-junyu/robustft)|
-|**2024-12-19**|**Advances in Artificial Intelligence forDiabetes Prediction: Insights from a Systematic Literature Review**|Pir Bakhsh Khokhar et.al.|[2412.14736v1](http://arxiv.org/abs/2412.14736v1)|null|
-|**2024-12-19**|**Pitfalls of topology-aware image segmentation**|Alexander H. Berger et.al.|[2412.14619v1](http://arxiv.org/abs/2412.14619v1)|[link](https://github.com/alexanderhberger/topo-pitfalls)|
-|**2024-12-19**|**CwA-T: A Channelwise AutoEncoder with Transformer for EEG Abnormality Detection**|Youshen Zhao et.al.|[2412.14522v2](http://arxiv.org/abs/2412.14522v2)|[link](https://github.com/yossizhao/cae-t)|
-|**2024-12-19**|**GenHMR: Generative Human Mesh Recovery**|Muhammad Usama Saleem et.al.|[2412.14444v1](http://arxiv.org/abs/2412.14444v1)|null|
 
 #### Abstracts
+##### **Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**
+2501.01732v1 by Shivom Aggarwal, Shourya Mehra, Safeer Sathar
+
+Customer Identity and Access Management (CIAM) systems play a pivotal role in
+securing enterprise infrastructures. However, the complexity of implementing
+these systems requires careful architectural planning to ensure positive Return
+on Investment (RoI) and avoid costly delays. The proliferation of Active
+Persistent cyber threats, coupled with advancements in AI, cloud computing, and
+geographically distributed customer populations, necessitates a paradigm shift
+towards adaptive and zero-trust security frameworks. This paper introduces the
+Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM
+architecture, designed specifically for large-scale enterprises. The CHEZ PL
+CIAM-PAM framework addresses critical security gaps by integrating federated
+identity management (private and public identities), password-less
+authentication, adaptive multi-factor authentication (MFA), microservice-based
+PEP (Policy Entitlement Point), multi-layer RBAC (Role Based Access Control)
+and multi-level trust systems. This future-proof design also includes
+end-to-end data encryption, and seamless integration with state-of-the-art
+AI-based threat detection systems, while ensuring compliance with stringent
+regulatory standards.
+
+摘要：客戶身分與存取管理 (CIAM) 系統在確保企業基礎設施安全方面扮演著關鍵角色。然而，實作這些系統的複雜性需要仔細的架構規劃，以確保投資報酬率 (RoI) 為正，並避免成本高昂的延誤。主動持續的網路威脅的擴散，加上人工智慧、雲端運算和地理分布的客戶群的進步，需要朝向適應性和零信任安全架構轉變。本文介紹專為大型企業設計的 Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM 架構。CHEZ PL CIAM-PAM 架構透過整合聯合身分管理（私人和公用身分）、無密碼驗證、適應性多重身分驗證 (MFA)、基於微服務的 PEP（政策授權點）、多層 RBAC（基於角色的存取控制）和多層級信任系統來解決關鍵的安全漏洞。這種具備未來性的設計也包含端對端資料加密，並與最先進的基於人工智慧的威脅偵測系統無縫整合，同時確保符合嚴格的法規標準。
+
+##### **EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**
+2501.01658v1 by Wang Lituan, Zhang Lei, Wang Yan, Wang Zhenbin, Zhang Zhenwei, Zhang Yi
+
+Weakly-supervised medical image segmentation is gaining traction as it
+requires only rough annotations rather than accurate pixel-to-pixel labels,
+thereby reducing the workload for specialists. Although some progress has been
+made, there is still a considerable performance gap between the label-efficient
+methods and fully-supervised one, which can be attributed to the uncertainty
+nature of these weak labels. To address this issue, we propose a novel weak
+annotation method coupled with its learning framework EAUWSeg to eliminate the
+annotation uncertainty. Specifically, we first propose the Bounded Polygon
+Annotation (BPAnno) by simply labeling two polygons for a lesion. Then, the
+tailored learning mechanism that explicitly treat bounded polygons as two
+separated annotations is proposed to learn invariant feature by providing
+adversarial supervision signal for model training. Subsequently, a
+confidence-auxiliary consistency learner incorporates with a
+classification-guided confidence generator is designed to provide reliable
+supervision signal for pixels in uncertain region by leveraging the feature
+presentation consistency across pixels within the same category as well as
+class-specific information encapsulated in bounded polygons annotation.
+Experimental results demonstrate that EAUWSeg outperforms existing
+weakly-supervised segmentation methods. Furthermore, compared to
+fully-supervised counterparts, the proposed method not only delivers superior
+performance but also costs much less annotation workload. This underscores the
+superiority and effectiveness of our approach.
+
+摘要：弱监督医学影像分割正获得关注，因为它只需要粗略的注释，而不是精确的像素到像素标签，从而减少了专家的工作量。尽管取得了一些进展，但在标签高效方法和完全监督方法之间仍然存在相当大的性能差距，这可归因于这些弱标签的不确定性。为了解决这个问题，我们提出了一种新的弱注释方法，并结合其学习框架 EAUWSeg 来消除注释的不确定性。具体来说，我们首先通过简单地为病灶标记两个多边形来提出有界多边形注释 (BPAnno)。然后，提出了将有界多边形明确地视为两个分离注释的定制学习机制，以通过为模型训练提供对抗性监督信号来学习不变特征。随后，置信辅助一致性学习器与分类引导置信度生成器结合设计，以通过利用同一类别内像素的特征表示一致性以及有界多边形注释中封装的特定于类的信息，为不确定区域中的像素提供可靠的监督信号。实验结果表明，EAUWSeg 优于现有的弱监督分割方法。此外，与完全监督的对应方法相比，所提出的方法不仅提供了卓越的性能，而且注释工作量也大大减少。这突出了我们方法的优越性和有效性。
+
+##### **Artificial Intelligent Implications on Health Data Privacy and Confidentiality**
+2501.01639v1 by Ahmad Momani
+
+The rapid integration of artificial intelligence (AI) in healthcare is
+revolutionizing medical diagnostics, personalized medicine, and operational
+efficiency. However, alongside these advancements, significant challenges arise
+concerning patient data privacy, ethical considerations, and regulatory
+compliance. This paper examines the dual impact of AI on healthcare,
+highlighting its transformative potential and the critical need for
+safeguarding sensitive health information. It explores the role of the Health
+Insurance Portability and Accountability Act (HIPAA) as a regulatory framework
+for ensuring data privacy and security, emphasizing the importance of robust
+safeguards and ethical standards in AI-driven healthcare. Through case studies,
+including AI applications in diabetic retinopathy, oncology, and the
+controversies surrounding data sharing, this study underscores the ethical and
+legal complexities of AI implementation. A balanced approach that fosters
+innovation while maintaining patient trust and privacy is imperative. The
+findings emphasize the importance of continuous education, transparency, and
+adherence to regulatory frameworks to harness AI's full potential responsibly
+and ethically in healthcare.
+
+摘要：人工智慧 (AI) 在醫療保健領域的快速整合，正徹底改變醫療診斷、個人化醫療和營運效率。然而，除了這些進展之外，也產生了關於病患資料隱私、道德考量和法規遵循的重大挑戰。本文探討人工智慧對醫療保健的雙重影響，強調其轉型潛力和保障敏感健康資訊的關鍵需求。本文探討健保可攜性和責任法案 (HIPAA) 作為確保資料隱私和安全的法規框架所扮演的角色，強調在人工智慧驅動的醫療保健中，強健的保障措施和道德標準的重要性。透過案例研究，包括人工智慧在糖尿病視網膜病變、腫瘤學中的應用，以及圍繞資料分享的爭議，本研究強調人工智慧實作在道德和法律上的複雜性。一種促進創新，同時維護病患信任和隱私的平衡方法至關重要。研究結果強調持續教育、透明度和遵守法規框架的重要性，以負責任且符合道德的方式，在醫療保健中發揮人工智慧的全部潛力。
+
+##### **Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**
+2501.01618v1 by Yun Zhu, Dong Zhang, Yi Lin, Yifei Feng, Jinhui Tang
+
+Medical image segmentation demands the aggregation of global and local
+feature representations, posing a challenge for current methodologies in
+handling both long-range and short-range feature interactions. Recently, vision
+mamba (ViM) models have emerged as promising solutions for addressing model
+complexities by excelling in long-range feature iterations with linear
+complexity. However, existing ViM approaches overlook the importance of
+preserving short-range local dependencies by directly flattening spatial tokens
+and are constrained by fixed scanning patterns that limit the capture of
+dynamic spatial context information. To address these challenges, we introduce
+a simple yet effective method named context clustering ViM (CCViM), which
+incorporates a context clustering module within the existing ViM models to
+segment image tokens into distinct windows for adaptable local clustering. Our
+method effectively combines long-range and short-range feature interactions,
+thereby enhancing spatial contextual representations for medical image
+segmentation tasks. Extensive experimental evaluations on diverse public
+datasets, i.e., Kumar, CPM17, ISIC17, ISIC18, and Synapse demonstrate the
+superior performance of our method compared to current state-of-the-art
+methods. Our code can be found at https://github.com/zymissy/CCViM.
+
+摘要：醫療影像分割需要聚合全局和局部特徵表示，對當前方法處理長程和短程特徵交互構成挑戰。最近，視覺曼巴 (ViM) 模型已成為解決模型複雜性的有前途的解決方案，它在線性複雜度下擅長長程特徵迭代。然而，現有的 ViM 方法忽視了透過直接壓平空間標記來保留短程局部依賴性的重要性，並且受到限制的掃描模式的約束，這會限制動態空間背景資訊的擷取。為了解決這些挑戰，我們引入了一種名為背景聚類 ViM (CCViM) 的簡單但有效的方法，它在現有的 ViM 模型中加入了一個背景聚類模組，將影像標記分割成不同的視窗，以進行適應性局部聚類。我們的模型有效地結合了長程和短程特徵交互，從而增強了用於醫療影像分割任務的空間背景表示。在各種公開資料集（即 Kumar、CPM17、ISIC17、ISIC18 和 Synapse）上進行的廣泛實驗評估證明了我們的方法與當前最先進方法相比具有卓越的效能。我們的程式碼可以在 https://github.com/zymissy/CCViM 找到。
+
+##### **PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**
+2501.01594v1 by Jingoo Lee, Kyungho Lim, Young-Chul Jung, Byung-Hoon Kim
+
+Recent advances in large language models (LLMs) have accelerated the
+development of conversational agents capable of generating human-like
+responses. Since psychiatric assessments typically involve complex
+conversational interactions between psychiatrists and patients, there is
+growing interest in developing LLM-based psychiatric assessment conversational
+agents (PACAs) that aim to simulate the role of psychiatrists in clinical
+evaluations. However, standardized methods for benchmarking the clinical
+appropriateness of PACAs' interaction with patients still remain underexplored.
+Here, we propose PSYCHE, a novel framework designed to enable the 1) clinically
+relevant, 2) ethically safe, 3) cost-efficient, and 4) quantitative evaluation
+of PACAs. This is achieved by simulating psychiatric patients based on a
+multi-faceted psychiatric construct that defines the simulated patients'
+profiles, histories, and behaviors, which PACAs are expected to assess. We
+validate the effectiveness of PSYCHE through a study with 10 board-certified
+psychiatrists, supported by an in-depth analysis of the simulated patient
+utterances.
+
+摘要：大型語言模型 (LLM) 的最新進展加速了會話代理的開發，這些代理能夠產生類似人類的回應。由於精神科評估通常涉及精神科醫師和患者之間複雜的會話互動，因此對於開發基於 LLM 的精神科評估會話代理 (PACA) 的興趣與日俱增，這些代理旨在模擬精神科醫師在臨床評估中的角色。然而，用於評量 PACA 與患者互動的臨床適當性的標準化方法仍未被充分探討。在此，我們提出 PSYCHE，一個新穎的框架，旨在實現 1) 臨床相關、2) 道德安全、3) 成本效益，以及 4) PACA 的定量評估。這是透過模擬基於多面向精神科建構的精神科患者來實現的，該建構定義了模擬患者的個人資料、病史和行為，而 PACA 預計會評估這些內容。我們透過一項有 10 位經認證的精神科醫師參與的研究驗證了 PSYCHE 的有效性，並輔以對模擬患者話語的深入分析。
+
 ##### **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**
 2501.01377v1 by Yucheng Zhou, Lingran Song, Jianbing Shen
 
@@ -316,6 +436,50 @@ while also facilitating their conversion into interoperable data formats.
 我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
 對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
 
+##### **Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**
+2501.01462v1 by Lingrui Zhang, Haonan Wu, Nana Jin, Chenqing Zheng, Jize Xie, Qitai Cai, Jun Wang, Qin Cao, Xubin Zheng, Jiankun Wang, Lixin Cheng
+
+Host-response-based diagnostics can improve the accuracy of diagnosing
+bacterial and viral infections, thereby reducing inappropriate antibiotic
+prescriptions. However, the existing cohorts with limited sample size and
+coarse infections types are unable to support the exploration of an accurate
+and generalizable diagnostic model. Here, we curate the largest infection
+host-response transcriptome data, including 11,247 samples across 89 blood
+transcriptome datasets from 13 countries and 21 platforms. We build a
+diagnostic model for pathogen prediction starting from a pan-infection model as
+foundation (AUC = 0.97) based on the pan-infection dataset. Then, we utilize
+knowledge distillation to efficiently transfer the insights from this "teacher"
+model to four lightweight pathogen "student" models, i.e., staphylococcal
+infection (AUC = 0.99), streptococcal infection (AUC = 0.94), HIV infection
+(AUC = 0.93), and RSV infection (AUC = 0.94), as well as a sepsis "student"
+model (AUC = 0.99). The proposed knowledge distillation framework not only
+facilitates the diagnosis of pathogens using pan-infection data, but also
+enables an across-disease study from pan-infection to sepsis. Moreover, the
+framework enables high-degree lightweight design of diagnostic models, which is
+expected to be adaptively deployed in clinical settings.
+
+摘要：基於宿主反應的診斷可以提高細菌和病毒感染的診斷準確度，從而減少不適當的抗生素處方。然而，現有樣本量有限、感染類型粗糙的群組無法支持準確且可概化的診斷模型的探索。在此，我們整理了最大的感染宿主反應轉錄組數據，包括來自 13 個國家和 21 個平台的 89 個血液轉錄組數據集中的 11,247 個樣本。我們從泛感染模型開始建立一個用於病原體預測的診斷模型，作為基礎 (AUC = 0.97)，該模型基於泛感染數據集。然後，我們利用知識蒸餾有效地將這個「教師」模型中的見解轉移到四個輕量級病原體「學生」模型，即葡萄球菌感染 (AUC = 0.99)、鏈球菌感染 (AUC = 0.94)、HIV 感染 (AUC = 0.93) 和 RSV 感染 (AUC = 0.94)，以及一個敗血症「學生」模型 (AUC = 0.99)。所提出的知識蒸餾框架不僅促進了使用泛感染數據診斷病原體，還實現了從泛感染到敗血症的跨疾病研究。此外，該框架使診斷模型能夠進行高度輕量級設計，預計將適應性地部署在臨床環境中。
+
+##### **GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**
+2501.01458v1 by George Yuanji Wang, Srisharan Murugesan, Aditya Prince Rohatgi
+
+Identifying druggable genes is essential for developing effective
+pharmaceuticals. With the availability of extensive, high-quality data,
+computational methods have become a significant asset. Protein Interaction
+Network (PIN) is valuable but challenging to implement due to its high
+dimensionality and sparsity. Previous methods relied on indirect integration,
+leading to resolution loss. This study proposes GAN-TAT, a framework utilizing
+an advanced graph embedding technology, ImGAGN, to directly integrate PIN for
+druggable gene inference work. Tested on three Pharos datasets, GAN-TAT
+achieved the highest AUC-ROC score of 0.951 on Tclin. Further evaluation shows
+that GAN-TAT's predictions are supported by clinical evidence, highlighting its
+potential practical applications in pharmacogenomics. This research represents
+a methodological attempt with the direct utilization of PIN, expanding
+potential new solutions for developing drug targets. The source code of GAN-TAT
+is available at (https://github.com/george-yuanji-wang/GAN-TAT).
+
+摘要：識別可藥物化基因對於開發有效的藥物至關重要。隨著大量高品質數據的出現，計算方法已成為一項重要的資產。蛋白質交互網絡 (PIN) 很有價值，但由於其高維度和稀疏性，實作起來具有挑戰性。先前的辦法依賴於間接整合，導致解析度降低。本研究提出 GAN-TAT，一個利用先進圖形嵌入技術 ImGAGN 的架構，直接整合 PIN 以進行可藥物化基因推論工作。在三個 Pharos 資料集上進行測試，GAN-TAT 在 Tclin 上達到了最高的 AUC-ROC 分數 0.951。進一步的評估顯示，GAN-TAT 的預測獲得了臨床證據的支持，突顯了其在藥物基因組學中的潛在實際應用。本研究代表了一種直接利用 PIN 的方法論嘗試，擴展了開發藥物靶標的潛在新解決方案。GAN-TAT 的原始碼可在 (https://github.com/george-yuanji-wang/GAN-TAT) 取得。
+
 ##### **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**
 2501.00320v1 by Haibo Tong, Enmeng Lum, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
 
@@ -345,6 +509,29 @@ complexities, which reflects the trade-offs and comprehensive considerations
 between self-goals, altruistic rescue, and avoiding negative side effects.
 
 摘要：隨著人工智慧（AI）在人類社會中廣泛應用，使 AI 自主符合人類價值觀已成為確保其永續發展和造福人類的當務之急。與人類價值觀保持一致最重要的面向之一，就是代理人必須自主做出利他、安全且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在某些任務中極力追求絕對優越性，對周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性想像互動，以產生周全且利他的行為。受此啟發，我們致力於賦予代理人周全的自我想像和 ToM 能力，驅使他們透過隱含的內在動機，自主符合人類利他價值觀。透過將 ToM 整合到想像空間中，代理人可以即時關注其他代理人的福祉，主動預測對自己和他人潛在的風險，並做出周全的利他決策，平衡對環境的負面影響。司馬光砸缸的古代中國故事，說明了少年司馬光為了救一個不小心掉進水缸的孩子而砸缸的道德行為，是本文一個很好的參考情境。我們設計了一個實驗情境，類似司馬光砸缸及其變體，具有不同的複雜性，反映出自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
+
+##### **A Fourfold Pathogen Reference Ontology Suite**
+2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
+
+Infectious diseases remain a critical global health challenge, and the
+integration of standardized ontologies plays a vital role in managing related
+data. The Infectious Disease Ontology (IDO) and its extensions, such as the
+Coronavirus Infectious Disease Ontology (CIDO), are essential for organizing
+and disseminating information related to infectious diseases. The COVID-19
+pandemic highlighted the need for updating IDO and its virus-specific
+extensions. There is an additional need to update IDO extensions specific to
+bacteria, fungus, and parasite infectious diseases. We adopt the "hub and
+spoke" methodology to generate pathogen-specific extensions of IDO: Virus
+Infectious Disease Ontology (VIDO), Bacteria Infectious Disease Ontology
+(BIDO), Mycosis Infectious Disease Ontology (MIDO), and Parasite Infectious
+Disease Ontology (PIDO). The creation of pathogen-specific reference ontologies
+advances modularization and reusability of infectious disease data within the
+IDO ecosystem. Future work will focus on further refining these ontologies,
+creating new extensions, and developing application ontologies based on them,
+in line with ongoing efforts to standardize biological and biomedical
+terminologies for improved data sharing and analysis.
+
+摘要：傳染病仍是一項全球性的健康挑戰，而標準化本體的整合在管理相關數據方面扮演著至關重要的角色。傳染病本體 (IDO) 及其擴充，例如冠狀病毒傳染病本體 (CIDO)，對於組織和傳播與傳染病相關的資訊至關重要。COVID-19 大流行凸顯了更新 IDO 及其特定於病毒的擴充的需求。此外，還有更新特定於細菌、真菌和寄生蟲傳染病的 IDO 擴充的需求。我們採用「樞紐輻條」方法來產生 IDO 的特定於病原體的擴充：病毒傳染病本體 (VIDO)、細菌傳染病本體 (BIDO)、真菌病傳染病本體 (MIDO) 和寄生蟲傳染病本體 (PIDO)。特定於病原體的參考本體的建立，促进了 IDO 生態系統內傳染病數據的模組化和可重複使用性。未來的研究工作將重點放在進一步完善這些本體、建立新的擴充，以及根據這些本體開發應用本體，這與標準化生物和生物醫學術語以改善數據共享和分析的持續努力相一致。
 
 ##### **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**
 2501.00223v1 by Michael Gubanov, Anna Pyayt, Aleksandra Karolak
@@ -723,7 +910,7 @@ providing a novel approach to preliminary screening and support.
 摘要：隨著對心理健康服務需求的增加，凸顯了創新解決方案的需求，特別是在心理對話式人工智慧領域，那裡缺乏敏感資料。在這項工作中，我們探索了開發一個針對心理健康支持的系統，採用一種基於可解釋的情緒特徵的新方法進行心理評估，結合同理心對話模式，提供了一個有前途的工具，用於擴充傳統照護，特別是在無法立即獲得專業知識的情況下。我們的工作可以分為兩個主要部分，彼此內在相關。首先，我們展示了 RACLETTE，一個對話系統，與最先進的基準相比，在理解使用者情緒狀態和在對話中產生同理心回應方面表現出優越的情緒準確性，同時透過他們的互動逐漸建立使用者的情緒特徵。其次，我們展示了使用者的情緒特徵如何可用作心理健康評估的可解釋標記。這些特徵可以與與不同心理疾病相關的典型情緒模式進行比較，提供了一種初步篩選和支持的新方法。
 
 ##### **MobileNetV2: A lightweight classification model for home-based sleep apnea screening**
-2412.19967v1 by Hui Pan, Yanxuan Yu, Jilun Ye, Xu Zhang
+2412.19967v2 by Hui Pan, Yanxuan Yu, Jilun Ye, Xu Zhang
 
 This study proposes a novel lightweight neural network model leveraging
 features extracted from electrocardiogram (ECG) and respiratory signals for
@@ -745,9 +932,9 @@ networks with multi-signal analysis for accurate, portable, and cost-effective
 OSA screening, paving the way for broader adoption in home-based and wearable
 health monitoring systems.
 
-摘要：本研究提出了一個新穎的輕量級神經網路模型，利用從心電圖 (ECG) 和呼吸訊號中提取的特徵，進行早期 OSA 篩檢。ECG 訊號用於產生特徵頻譜圖，以預測睡眠階段，而呼吸訊號則用於偵測與睡眠相關的呼吸異常。透過整合這些預測，此方法計算出無呼吸低通氣指數 (AHI)，準確度更高，有助於精確診斷 OSA。
-此方法已在三個公開的睡眠呼吸中止症資料庫中驗證：Apnea-ECG 資料庫、UCDDB 資料集和 MIT-BIH 多重睡眠生理檢查資料庫。結果顯示 OSA 整體偵測準確度為 0.978，突顯此模型的穩健性。呼吸事件分類的準確度達到 0.969，而受試者工作特性曲線 (ROC-AUC) 下面積為 0.98。對於睡眠階段分類，在 UCDDB 資料集中，ROC-AUC 在所有階段均超過 0.85，睡眠召回率達到 0.906，而 REM 和清醒狀態的特異性分別為 0.956 和 0.937。
-本研究強調將輕量級神經網路與多訊號分析整合的潛力，可進行準確、可攜式且具成本效益的 OSA 篩檢，為家庭和穿戴式健康監控系統的廣泛採用鋪路。
+摘要：本研究提出一個新穎的輕量級神經網路模型，利用從心電圖 (ECG) 和呼吸信號中提取的特徵，進行早期 OSA 篩檢。ECG 信號用於產生特徵頻譜圖，以預測睡眠階段，而呼吸信號則用於偵測與睡眠相關的呼吸異常。透過整合這些預測，此方法計算出具有更高精確度的呼吸中止低通氣指數 (AHI)，促進精確的 OSA 診斷。
+該方法已在三個公開的睡眠呼吸中止症資料庫中驗證：呼吸中止症-ECG 資料庫、UCDDB 資料集和 MIT-BIH 多重睡眠生理檢查資料庫。結果顯示整體 OSA 檢測準確度為 0.978，突顯了該模型的穩健性。呼吸事件分類的準確度達到 0.969，且在受試者操作特徵曲線 (ROC-AUC) 下方的面積為 0.98。對於睡眠階段分類，在 UCDDB 資料集中，所有階段的 ROC-AUC 均超過 0.85，睡眠的召回率達到 0.906，而 REM 和清醒狀態的特異性分別為 0.956 和 0.937。
+本研究強調了將輕量級神經網路與多信號分析整合的潛力，以進行準確、可攜式且具成本效益的 OSA 篩檢，為在居家和穿戴式健康監測系統中更廣泛採用鋪路。
 
 ##### **ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**
 2412.19954v1 by Chao Fan, Qipei Mei, Xiaonan Wang, Xinming Li
@@ -1032,7 +1219,7 @@ interpretability.
 摘要：深度學習在醫學影像中的整合已展現出極大的前景，用於增強診斷、治療和研究成果。然而，由於資料特性的內在變異性，在多種方式中應用通用模型仍然具有挑戰性。本研究旨在介紹和評估方式投影通用模型 (MPUM)。MPUM 採用一種新穎的方式投影策略，使模型能夠動態調整其參數，以優化不同影像方式的效能。MPUM 在識別解剖結構方面表現出優異的準確性，能夠進行精確量化，以改善臨床決策制定。它還識別出腦體軸內的代謝關聯，推動了對腦體生理相關性的研究。此外，MPUM 獨特的基於控制器的卷積層能夠視覺化所有網路層的顯著性圖，顯著增強了模型的可解釋性。
 
 ##### **MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**
-2412.18947v1 by Kaiwen Zuo, Yirui Jiang
+2412.18947v2 by Kaiwen Zuo, Yirui Jiang
 
 Medical Large Language Models (MLLMs) have demonstrated potential in
 healthcare applications, yet their propensity for hallucinations -- generating
@@ -1057,7 +1244,7 @@ foundational framework for enhancing MLLMs' reliability in healthcare settings
 and presents actionable strategies for addressing the critical challenge of AI
 hallucinations in medical applications.
 
-摘要：醫療大型語言模型 (MLLM) 已在醫療保健應用中展現其潛力，然而它們容易產生幻覺（產生醫學上不可能或不準確的資訊），對病患照護構成重大風險。本文介紹 MedHallBench，這是一個用於評估和減輕 MLLM 中幻覺的全面基準架構。我們的做法將專家驗證的醫療案例情境與既定的醫療資料庫整合，以建立一個強健的評估資料集。此架構採用一個精密的測量系統，結合自動化 ACHMI（醫學影像中的自動標題幻覺測量）評分與嚴謹的臨床專家評估，並利用強化學習方法來達成自動註解。MedHallBench 透過一個針對醫療應用特別設計的最佳化強化學習來自人類回饋 (RLHF) 訓練管線，在維持嚴格準確度標準的同時，能對 MLLM 進行徹底評估，涵蓋各種臨床情境。我們進行了比較實驗，涉及各種模型，利用基準來為廣泛採用的大型語言模型 (LLM) 建立基準。我們的研究結果顯示，與傳統指標相比，ACHMI 提供了對幻覺影響更細緻的理解，從而突顯其在幻覺評估中的優勢。本研究建立了一個基礎架構，用於提升 MLLM 在醫療保健環境中的可靠性，並提出了可行的策略，以應對醫療應用中 AI 幻覺的重大挑戰。
+摘要：大型醫療語言模型 (MLLM) 已在醫療保健應用中展現潛力，但它們產生醫學上不合理或不準確資訊的幻覺傾向，對病患照護構成重大風險。本文介紹 MedHallBench，一個用於評估和減輕 MLLM 中幻覺的綜合基準架構。我們的做法整合了專家驗證的醫療案例場景與既定的醫療資料庫，以建立一個穩健的評估資料集。該框架採用一個精密的測量系統，結合自動化 ACHMI（醫學影像中自動標題幻覺測量）評分與嚴謹的臨床專家評估，並利用強化學習方法來實現自動註解。透過專為醫療應用設計的最佳化人類回饋強化學習 (RLHF) 訓練管線，MedHallBench 能夠在不同的臨床背景下徹底評估 MLLM，同時維持嚴格的準確性標準。我們進行了涉及各種模型的比較實驗，利用基準來為廣泛採用的大型語言模型 (LLM) 建立基準。我們的研究結果表明，與傳統指標相比，ACHMI 對幻覺的影響提供了更細緻的理解，從而突顯了它在幻覺評估中的優勢。這項研究為提高 MLLM 在醫療保健環境中的可靠性建立了一個基礎框架，並提出了可行的策略來應對醫療應用中 AI 幻覺的關鍵挑戰。
 
 ##### **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**
 2412.18925v1 by Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
@@ -2435,212 +2622,4 @@ real-world problem while advancing GraphQA research with a novel
 domain-specific benchmark.
 
 摘要：飲食在人類健康中扮演著至關重要的角色，然而根據個人健康狀況調整飲食推理仍然是一項重大的挑戰。營養問題問答 (QA) 已成為解決此問題的流行方法。不過，目前的研究面臨兩項重大的限制。一方面，缺乏包含使用者特定醫療資訊的資料集嚴重限制了「個人化」。這個挑戰進一步受到個人健康需求廣泛變異的影響。另一方面，雖然大型語言模型 (LLM) 是此任務的熱門解決方案，展示出強大的推理能力，但它們在個人化健康飲食推理的特定領域複雜性上仍有困難，而現有的基準也無法捕捉這些挑戰。為了解決這些差距，我們引入了營養圖表問答 (NGQA) 基準，這是第一個專為個人化營養健康推理設計的圖表問答資料集。NGQA 利用國家健康與營養檢查調查 (NHANES) 和飲食研究食物與營養資料庫 (FNDDS) 的資料，評估食物是否對特定使用者健康，並說明主要貢獻營養素。此基準納入了三個問題複雜度設定，並評估三個下游任務的推理。使用 LLM 主幹和基線模型進行的廣泛實驗證明，NGQA 基準有效挑戰了現有模型。總之，NGQA 解決了一個重大的現實世界問題，同時透過新穎的特定領域基準推動了 GraphQA 研究。
-
-##### **The First Multilingual Model For The Detection of Suicide Texts**
-2412.15498v1 by Rodolfo Zevallos, Annika Schoene, John E. Ortega
-
-Suicidal ideation is a serious health problem affecting millions of people
-worldwide. Social networks provide information about these mental health
-problems through users' emotional expressions. We propose a multilingual model
-leveraging transformer architectures like mBERT, XML-R, and mT5 to detect
-suicidal text across posts in six languages - Spanish, English, German,
-Catalan, Portuguese and Italian. A Spanish suicide ideation tweet dataset was
-translated into five other languages using SeamlessM4T. Each model was
-fine-tuned on this multilingual data and evaluated across classification
-metrics. Results showed mT5 achieving the best performance overall with F1
-scores above 85%, highlighting capabilities for cross-lingual transfer
-learning. The English and Spanish translations also displayed high quality
-based on perplexity. Our exploration underscores the importance of considering
-linguistic diversity in developing automated multilingual tools to identify
-suicidal risk. Limitations exist around semantic fidelity in translations and
-ethical implications which provide guidance for future human-in-the-loop
-evaluations.
-
-摘要：自殺意念是一個嚴重的健康問題，影響全球數百萬人。社交網路透過使用者的情緒表達，提供這些心理健康問題的資訊。我們提出一個多語言模型，利用像 mBERT、XML-R 和 mT5 的轉換器架構，來偵測六種語言（西班牙文、英文、德文、加泰隆尼亞文、葡萄牙文和義大利文）貼文中具有自殺傾向的文字。一個西班牙文自殺意念推文資料集使用 SeamlessM4T 翻譯成其他五種語言。每個模型都針對這個多語言資料進行微調，並評估分類指標。結果顯示，mT5 在整體表現上達到最佳，F1 分數高於 85%，突顯跨語言轉移學習的能力。英文和西班牙文的翻譯也根據困惑度顯示出高品質。我們的探索強調在開發自動化多語言工具以識別自殺風險時，考慮語言多樣性的重要性。翻譯中的語義忠實度和倫理意涵存在限制，這些限制為未來的人類參與評估提供了指導。
-
-##### **AI-Enhanced Sensemaking: Exploring the Design of a Generative AI-Based Assistant to Support Genetic Professionals**
-2412.15444v1 by Angela Mastrianni, Hope Twede, Aleksandra Sarcevic, Jeremiah Wander, Christina Austin-Tse, Scott Saponas, Heidi Rehm, Ashley Mae Conard, Amanda K. Hall
-
-Generative AI has the potential to transform knowledge work, but further
-research is needed to understand how knowledge workers envision using and
-interacting with generative AI. We investigate the development of generative AI
-tools to support domain experts in knowledge work, examining task delegation
-and the design of human-AI interactions. Our research focused on designing a
-generative AI assistant to aid genetic professionals in analyzing whole genome
-sequences (WGS) and other clinical data for rare disease diagnosis. Through
-interviews with 17 genetics professionals, we identified current challenges in
-WGS analysis. We then conducted co-design sessions with six genetics
-professionals to determine tasks that could be supported by an AI assistant and
-considerations for designing interactions with the AI assistant. From our
-findings, we identified sensemaking as both a current challenge in WGS analysis
-and a process that could be supported by AI. We contribute an understanding of
-how domain experts envision interacting with generative AI in their knowledge
-work, a detailed empirical study of WGS analysis, and three design
-considerations for using generative AI to support domain experts in sensemaking
-during knowledge work.
-  CCS CONCEPTS: Human-centered computing, Human-computer interaction, Empirical
-studies in HCI
-  Additional Keywords and Phrases: whole genome sequencing, generative AI,
-large language models, knowledge work, sensemaking, co-design, rare disease
-  Contact Author: Angela Mastrianni (This work was done during the author's
-internship at Microsoft Research)
-  Ashley Mae Conard and Amanda K. Hall contributed equally
-
-摘要：<paragraph>生成式 AI 有可能轉換知識工作，但需要進一步的研究來了解知識工作者如何設想使用和與生成式 AI 互動。我們研究了生成式 AI 工具的開發，以支援領域專家進行知識工作，探討任務委派和人機互動的設計。我們的研究重點在於設計一個生成式 AI 助理，以協助遺傳學專業人士分析全基因體序列 (WGS) 和其他臨床資料，以診斷罕見疾病。透過訪談 17 位遺傳學專業人士，我們找出 WGS 分析中的現有挑戰。然後，我們與六位遺傳學專業人士進行共同設計會議，以確定 AI 助理可以支援的任務，以及設計與 AI 助理互動的考量因素。根據我們的研究結果，我們將意義建構認定為 WGS 分析中的現有挑戰，以及 AI 可以支援的流程。我們有助於了解領域專家如何設想在知識工作中與生成式 AI 互動，WGS 分析的詳細實證研究，以及在知識工作中使用生成式 AI 支援領域專家進行意義建構的三個設計考量因素。
-CCS 概念：以人為本的運算、人機互動、HCI 中的實證研究
-其他關鍵字和詞組：全基因體定序、生成式 AI、大型語言模型、知識工作、意義建構、共同設計、罕見疾病
-聯絡作者：Angela Mastrianni（這項工作是在作者於 Microsoft Research 實習期間完成的）
-Ashley Mae Conard 和 Amanda K. Hall 貢獻相同</paragraph>
-
-##### **GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**
-2412.15054v1 by G. Andrade-Miranda, K. Chatzipapas, J. D. Arias-Londoño, J. I. Godino-Llorente
-
-The advances in the development of Facilitative Playbacks extracted from
-High-Speed videoendoscopic sequences of the vocal folds are hindered by a
-notable lack of publicly available datasets annotated with the semantic
-segmentations corresponding to the area of the glottal gap. This fact also
-limits the reproducibility and further exploration of existing research in this
-field.
-  To address this gap, GIRAFE is a data repository designed to facilitate the
-development of advanced techniques for the semantic segmentation, analysis, and
-fast evaluation of High-Speed videoendoscopic sequences of the vocal folds. The
-repository includes 65 high-speed videoendoscopic recordings from a cohort of
-50 patients (30 female, 20 male). The dataset comprises 15 recordings from
-healthy controls, 26 from patients with diagnosed voice disorders, and 24 with
-an unknown health condition. All of them were manually annotated by an expert,
-including the masks corresponding to the semantic segmentation of the glottal
-gap. The repository is also complemented with the automatic segmentation of the
-glottal area using different state-of-the-art approaches.
-  This data set has already supported several studies, which demonstrates its
-usefulness for the development of new glottal gap segmentation algorithms from
-High-Speed-Videoendoscopic sequences to improve or create new Facilitative
-Playbacks. Despite these advances and others in the field, the broader
-challenge of performing an accurate and completely automatic semantic
-segmentation method of the glottal area remains open.
-
-摘要：<paragraph>從高速聲門內視鏡序列中提取的促進性回放的發展進展受到明顯缺乏公開可用資料集的阻礙，這些資料集帶有與聲門間隙區域相應的語義分割註解。這個事實也限制了現有研究在此領域的可重現性和進一步探索。
-  為了解決這個差距，GIRAFE 是旨在促進語義分割、分析和高速聲門內視鏡序列快速評估的先進技術開發的資料庫。這個資料庫包含來自 50 位患者（30 位女性，20 位男性）的 65 份高速聲門內視鏡錄音。該資料集包含 15 份來自健康對照組的錄音、26 份來自被診斷出患有聲音障礙的患者的錄音，以及 24 份來自健康狀況不明的患者的錄音。所有這些錄音都由專家手動註解，包括與聲門間隙語義分割相應的遮罩。該資料庫還使用不同的最先進方法補充了聲門區域的自動分割。
-  此資料集已經支援多項研究，這證明了它對於從高速視頻內視鏡序列開發新的聲門間隙分割演算法以改善或建立新的促進性回放很有用。儘管在該領域取得了這些進展和其他進展，但執行準確且完全自動化的聲門區域語義分割方法的更廣泛挑戰仍然存在。</paragraph>
-
-##### **RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response**
-2412.14922v1 by Junyu Luo, Xiao Luo, Kaize Ding, Jingyang Yuan, Zhiping Xiao, Ming Zhang
-
-Supervised fine-tuning (SFT) plays a crucial role in adapting large language
-models (LLMs) to specific domains or tasks. However, as demonstrated by
-empirical experiments, the collected data inevitably contains noise in
-practical applications, which poses significant challenges to model performance
-on downstream tasks. Therefore, there is an urgent need for a noise-robust SFT
-framework to enhance model capabilities in downstream tasks. To address this
-challenge, we introduce a robust SFT framework (RobustFT) that performs noise
-detection and relabeling on downstream task data. For noise identification, our
-approach employs a multi-expert collaborative system with inference-enhanced
-models to achieve superior noise detection. In the denoising phase, we utilize
-a context-enhanced strategy, which incorporates the most relevant and confident
-knowledge followed by careful assessment to generate reliable annotations.
-Additionally, we introduce an effective data selection mechanism based on
-response entropy, ensuring only high-quality samples are retained for
-fine-tuning. Extensive experiments conducted on multiple LLMs across five
-datasets demonstrate RobustFT's exceptional performance in noisy scenarios.
-
-摘要：監督式微調（SFT）在將大型語言模型（LLM）適應到特定領域或任務中扮演著至關重要的角色。然而，正如經驗實驗所證明，在實際應用中收集到的資料不可避免地包含雜訊，這對下游任務的模型效能構成了重大挑戰。因此，迫切需要一個抗雜訊的 SFT 框架，以增強模型在下游任務中的能力。為了應對這一挑戰，我們引入了穩健的 SFT 框架（RobustFT），它對下游任務資料執行雜訊偵測和重新標記。對於雜訊識別，我們的方法採用多專家協作系統，並使用增強推論的模型來實現優異的雜訊偵測。在去雜訊階段，我們利用一種情境增強策略，它結合了最相關和最確信的知識，然後進行仔細評估以產生可靠的註解。此外，我們還引入了一種基於回應熵的有效資料選取機制，確保僅保留高品質的樣本進行微調。在五個資料集上對多個 LLM 進行的廣泛實驗證明了 RobustFT 在雜訊情境中的出色效能。
-
-##### **Advances in Artificial Intelligence forDiabetes Prediction: Insights from a Systematic Literature Review**
-2412.14736v1 by Pir Bakhsh Khokhar, Carmine Gravino, Fabio Palomba
-
-This systematic review explores the use of machine learning (ML) in
-predicting diabetes, focusing on datasets, algorithms, training methods, and
-evaluation metrics. It examines datasets like the Singapore National Diabetic
-Retinopathy Screening program, REPLACE-BG, National Health and Nutrition
-Examination Survey, and Pima Indians Diabetes Database. The review assesses the
-performance of ML algorithms like CNN, SVM, Logistic Regression, and XGBoost in
-predicting diabetes outcomes. The study emphasizes the importance of
-interdisciplinary collaboration and ethical considerations in ML-based diabetes
-prediction models.
-
-摘要：這項系統性回顧探討了機器學習 (ML) 在糖尿病預測中的應用，重點在於資料集、演算法、訓練方法和評估指標。它檢驗了資料集，例如新加坡國家糖尿病視網膜病變篩檢計畫、REPLACE-BG、國家健康與營養檢查調查和皮馬印第安人糖尿病資料庫。該回顧評估了 ML 演算法（例如 CNN、SVM、邏輯迴歸和 XGBoost）在預測糖尿病結果方面的表現。這項研究強調了跨領域合作和在基於 ML 的糖尿病預測模型中進行道德考量的重要性。
-
-##### **Pitfalls of topology-aware image segmentation**
-2412.14619v1 by Alexander H. Berger, Laurin Lux, Alexander Weers, Martin Menten, Daniel Rueckert, Johannes C. Paetzold
-
-Topological correctness, i.e., the preservation of structural integrity and
-specific characteristics of shape, is a fundamental requirement for medical
-imaging tasks, such as neuron or vessel segmentation. Despite the recent surge
-in topology-aware methods addressing this challenge, their real-world
-applicability is hindered by flawed benchmarking practices. In this paper, we
-identify critical pitfalls in model evaluation that include inadequate
-connectivity choices, overlooked topological artifacts in ground truth
-annotations, and inappropriate use of evaluation metrics. Through detailed
-empirical analysis, we uncover these issues' profound impact on the evaluation
-and ranking of segmentation methods. Drawing from our findings, we propose a
-set of actionable recommendations to establish fair and robust evaluation
-standards for topology-aware medical image segmentation methods.
-
-摘要：拓撲正確性，即形狀結構完整性和特定特徵的保留，是醫學影像任務（例如神經元或血管分割）的基本要求。儘管最近解決此挑戰的拓撲感知方法激增，但其真實世界的適用性受到有缺陷的基準測試實務的阻礙。在本文中，我們確定了模型評估中的關鍵缺陷，包括不適當的連接選擇、基本事實標註中被忽略的拓撲人工製品，以及評估指標的不適當使用。透過詳細的經驗分析，我們揭示了這些問題對分割方法的評估和排名產生的深遠影響。根據我們的研究結果，我們提出了一組可行的建議，以建立公平且穩健的評估標準，用於拓撲感知醫學影像分割方法。
-
-##### **CwA-T: A Channelwise AutoEncoder with Transformer for EEG Abnormality Detection**
-2412.14522v2 by Youshen Zhao, Keiji Iramina
-
-Electroencephalogram (EEG) signals are critical for detecting abnormal brain
-activity, but their high dimensionality and complexity pose significant
-challenges for effective analysis. In this paper, we propose CwA-T, a novel
-framework that combines a channelwise CNN-based autoencoder with a single-head
-transformer classifier for efficient EEG abnormality detection. The channelwise
-autoencoder compresses raw EEG signals while preserving channel independence,
-reducing computational costs and retaining biologically meaningful features.
-The compressed representations are then fed into the transformer-based
-classifier, which efficiently models long-term dependencies to distinguish
-between normal and abnormal signals. Evaluated on the TUH Abnormal EEG Corpus,
-the proposed model achieves 85.0% accuracy, 76.2% sensitivity, and 91.2%
-specificity at the per-case level, outperforming baseline models such as
-EEGNet, Deep4Conv, and FusionCNN. Furthermore, CwA-T requires only 202M FLOPs
-and 2.9M parameters, making it significantly more efficient than
-transformer-based alternatives. The framework retains interpretability through
-its channelwise design, demonstrating great potential for future applications
-in neuroscience research and clinical practice. The source code is available at
-https://github.com/YossiZhao/CAE-T.
-
-摘要：腦電圖 (EEG) 訊號對於偵測異常腦部活動至關重要，但其高維度和複雜性對有效分析構成重大挑戰。在本文中，我們提出 CwA-T，一個結合通道式 CNN 自動編碼器與單頭轉換器分類器的創新架構，以進行有效的腦電圖異常偵測。通道式自動編碼器壓縮原始腦電圖訊號，同時保留通道獨立性，降低運算成本並保留具有生物意義的特徵。壓縮後的表示接著被輸入到基於轉換器的分類器中，該分類器有效地建模長期依賴性，以區分正常和異常訊號。在 TUH 異常腦電圖語料庫上進行評估，所提出的模型在個案層級達到 85.0% 的準確度、76.2% 的敏感度和 91.2% 的特異性，優於基線模型，例如 EEGNet、Deep4Conv 和 FusionCNN。此外，CwA-T 只需要 202M FLOP 和 2.9M 參數，使其比基於轉換器的替代方案更有效率。該架構透過其通道式設計保留了解釋性，展示了在神經科學研究和臨床實務中未來應用上的巨大潛力。原始程式碼可在 https://github.com/YossiZhao/CAE-T 取得。
-
-##### **GenHMR: Generative Human Mesh Recovery**
-2412.14444v1 by Muhammad Usama Saleem, Ekkasit Pinyoanuntapong, Pu Wang, Hongfei Xue, Srijan Das, Chen Chen
-
-Human mesh recovery (HMR) is crucial in many computer vision applications;
-from health to arts and entertainment. HMR from monocular images has
-predominantly been addressed by deterministic methods that output a single
-prediction for a given 2D image. However, HMR from a single image is an
-ill-posed problem due to depth ambiguity and occlusions. Probabilistic methods
-have attempted to address this by generating and fusing multiple plausible 3D
-reconstructions, but their performance has often lagged behind deterministic
-approaches. In this paper, we introduce GenHMR, a novel generative framework
-that reformulates monocular HMR as an image-conditioned generative task,
-explicitly modeling and mitigating uncertainties in the 2D-to-3D mapping
-process. GenHMR comprises two key components: (1) a pose tokenizer to convert
-3D human poses into a sequence of discrete tokens in a latent space, and (2) an
-image-conditional masked transformer to learn the probabilistic distributions
-of the pose tokens, conditioned on the input image prompt along with randomly
-masked token sequence. During inference, the model samples from the learned
-conditional distribution to iteratively decode high-confidence pose tokens,
-thereby reducing 3D reconstruction uncertainties. To further refine the
-reconstruction, a 2D pose-guided refinement technique is proposed to directly
-fine-tune the decoded pose tokens in the latent space, which forces the
-projected 3D body mesh to align with the 2D pose clues. Experiments on
-benchmark datasets demonstrate that GenHMR significantly outperforms
-state-of-the-art methods. Project website can be found at
-https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html
-
-摘要：人體網格重建（HMR）在許多電腦視覺應用中至關重要；
-從健康到藝術和娛樂。單目影像的 HMR 主要由確定性方法解決，
-該方法針對給定的 2D 影像輸出單一預測。然而，由於深度模糊和遮擋，
-單一影像的 HMR 是個病態問題。機率方法嘗試透過產生和融合多個合理的 3D
-重建來解決此問題，但其效能通常落後於確定性方法。在本文中，我們介紹
-GenHMR，這是一個新穎的生成式架構，將單目 HMR 重新表述為一個影像條件生成任務，
-明確建模和減輕 2D 到 3D 對應過程中的不確定性。GenHMR 包含兩個關鍵組成部分：
-（1）姿勢標記化器，將 3D 人體姿勢轉換為潛在空間中的離散標記序列，以及
-（2）影像條件遮罩轉換器，以輸入影像提示以及隨機遮罩標記序列為條件，
-學習姿勢標記的機率分佈。在推論期間，模型從學習到的條件分佈中取樣，
-以反覆解碼高置信度姿勢標記，從而減少 3D 重建的不確定性。為了進一步優化
-重建，提出了一種 2D 姿勢引導的優化技術，以直接微調潛在空間中解碼的姿勢標記，
-這迫使投影的 3D 身體網格與 2D 姿勢線索對齊。基準資料集上的實驗證明，
-GenHMR 明顯優於最先進的方法。專案網站可以在
-https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html 找到
 

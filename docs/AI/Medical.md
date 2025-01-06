@@ -72,7 +72,7 @@
 |**2024-12-22**|**On Fusing ChatGPT and Ensemble Learning in Discon-tinuous Named Entity Recognition in Health Corpora**|Tzu-Chieh Chen et.al.|[2412.16976v1](http://arxiv.org/abs/2412.16976v1)|null|
 |**2024-12-22**|**Quantifying Public Response to COVID-19 Events: Introducing the Community Sentiment and Engagement Index**|Nirmalya Thakur et.al.|[2412.16925v1](http://arxiv.org/abs/2412.16925v1)|null|
 |**2024-12-22**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882v2](http://arxiv.org/abs/2412.16882v2)|null|
-|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v1](http://arxiv.org/abs/2412.16833v1)|null|
+|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v2](http://arxiv.org/abs/2412.16833v2)|null|
 |**2024-12-21**|**A Comparative Study on Machine Learning Models to Classify Diseases Based on Patient Behaviour and Habits**|Elham Musaaed et.al.|[2412.16768v1](http://arxiv.org/abs/2412.16768v1)|null|
 |**2024-12-21**|**From Histopathology Images to Cell Clouds: Learning Slide Representations with Hierarchical Cell Transformer**|Zijiang Yang et.al.|[2412.16715v1](http://arxiv.org/abs/2412.16715v1)|null|
 |**2024-12-21**|**Multi-atlas Ensemble Graph Neural Network Model For Major Depressive Disorder Detection Using Functional MRI Data**|Nojod M. Alotaibi et.al.|[2412.19833v1](http://arxiv.org/abs/2412.19833v1)|null|
@@ -1900,7 +1900,7 @@ psychology.
 摘要：基於人工智慧的語言產生器現已成為大多數人生活的一部分。然而，預設情況下，它們傾向於產生「普通」語言，而沒有反映出人們的差異性。在此，我們提出了一個對標準語言模型轉換器架構的輕量化修改 - 「PsychAdapter」 - 它使用經驗派生的特質語言模式，為指定的人格、人口統計和心理健康特徵（有或沒有提示）產生自然語言。我們將 PsychAdapter 應用於修改 OpenAI 的 GPT-2、Google 的 Gemma 和 Meta 的 Llama 3，並發現產生的文字反映了所需的特質。例如，專家評分者評估了 PsychAdapter 產生的文字輸出，發現它與預期的特質層級相符，五大性格特質的平均準確度為 87.3%，而憂鬱症和生活滿意度的準確度為 96.7%。PsychAdapter 是一種新方法，可以在基礎層級將心理行為模式引入語言模型，不受提示的影響，進而影響每個轉換器層級。此方法可以創造出具有特定人格特質的聊天機器人、反映與心理條件相關語言的臨床訓練工具，以及與作者的閱讀或教育程度相符的機器翻譯，而無需佔用 LLM 上下文視窗。PsychAdapter 還允許透過自然語言表達來探索心理結構，將自然語言處理工具包擴展到研究人類心理學。
 
 ##### **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**
-2412.16833v1 by Kaiwen Zuo, Yirui Jiang, Fan Mo, Pietro Lio
+2412.16833v2 by Kaiwen Zuo, Yirui Jiang, Fan Mo, Pietro Lio
 
 Integrating Large Language Models (LLMs) in healthcare diagnosis demands
 systematic frameworks that can handle complex medical scenarios while
@@ -1922,7 +1922,7 @@ making it valuable for developing targeted medical diagnosis systems. We
 provide architectural guidelines and protocols to facilitate adoption across
 medical contexts.
 
-摘要：整合大型語言模型 (LLM) 於醫療診斷中，需要系統化架構，能夠處理複雜的醫療場景，同時維持專業知識。我們提出 KG4Diagnosis，一個新穎的分層多代理架構，結合 LLM 與自動化知識圖譜建構，涵蓋醫療專業的 362 種常見疾病。我們的架構透過雙層架構反映真實世界的醫療系統：一位全科醫師 (GP) 代理負責初步評估和分流，並與專業代理協調，針對特定領域進行深入診斷。核心創新在於我們的端對端知識圖譜生成方法，結合：(1) 針對醫療術語最佳化的語意驅動實體和關係萃取，(2) 從非結構化醫療文本重建多面向決策關係，以及 (3) 人類引導的推理進行知識擴充。KG4Diagnosis 可作為專業醫療診斷系統的可擴充基礎，具備整合新疾病和醫療知識的能力。此架構的模組化設計能無縫整合特定領域的強化功能，使其對於開發目標導向的醫療診斷系統極具價值。我們提供架構準則和協定，以利於在醫療情境中採用。
+摘要：整合大型語言模型 (LLM) 於醫療診斷中需要系統性架構，此架構必須能處理複雜的醫療情境，同時保有專業知識。我們提出 KG4Diagnosis，一個結合 LLM 與自動化知識圖表建構的新型階層式多重代理架構，涵蓋 362 種常見疾病，橫跨各個醫療專科。我們的架構透過雙層架構反映真實世界的醫療系統：一位負責初步評估和分流的家庭醫師 (GP) 代理，協調各個專科代理進行深入診斷。核心創新在於我們的端對端知識圖表產生方法，結合：(1) 語意驅動的實體與關係萃取，針對醫療術語進行最佳化；(2) 從非結構化醫療文本重建多維度決策關係；以及 (3) 人類引導的推理，用於知識擴充。KG4Diagnosis 可作為專門醫療診斷系統的可延伸基礎，有能力整合新的疾病和醫療知識。此架構的模組化設計能無縫整合特定領域的強化功能，使其對於開發目標導向的醫療診斷系統極具價值。我們提供架構指引和協定，以促進在各種醫療情境中的採用。
 
 ##### **A Comparative Study on Machine Learning Models to Classify Diseases Based on Patient Behaviour and Habits**
 2412.16768v1 by Elham Musaaed, Nabil Hewahi, Abdulla Alasaadi

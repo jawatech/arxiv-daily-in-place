@@ -81,7 +81,7 @@
 |**2025-01-01**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906v1](http://arxiv.org/abs/2501.00906v1)|null|
 |**2025-01-01**|**Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**|Weiqi Wu et.al.|[2501.00888v1](http://arxiv.org/abs/2501.00888v1)|null|
 |**2025-01-01**|**Representation in large language models**|Cameron C. Yetman et.al.|[2501.00885v1](http://arxiv.org/abs/2501.00885v1)|null|
-|**2025-01-01**|**TrustRAG: Enhancing Robustness and Trustworthiness in RAG**|Huichi Zhou et.al.|[2501.00879v1](http://arxiv.org/abs/2501.00879v1)|null|
+|**2025-01-01**|**TrustRAG: Enhancing Robustness and Trustworthiness in RAG**|Huichi Zhou et.al.|[2501.00879v1](http://arxiv.org/abs/2501.00879v1)|[link](https://github.com/huichizhou/trustrag)|
 |**2025-01-01**|**LUSIFER: Language Universal Space Integration for Enhanced Multilingual Embeddings with Large Language Models**|Hieu Man et.al.|[2501.00874v1](http://arxiv.org/abs/2501.00874v1)|null|
 |**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868v1](http://arxiv.org/abs/2501.00868v1)|null|
 |**2025-01-01**|**Negative to Positive Co-learning with Aggressive Modality Dropout**|Nicholas Magal et.al.|[2501.00865v1](http://arxiv.org/abs/2501.00865v1)|null|

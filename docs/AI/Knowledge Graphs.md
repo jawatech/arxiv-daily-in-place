@@ -31,7 +31,7 @@
 |**2024-12-23**|**A Dual-Perspective Metaphor Detection Framework Using Large Language Models**|Yujie Lin et.al.|[2412.17332v2](http://arxiv.org/abs/2412.17332v2)|[link](https://github.com/deeplearnxmu/dmd)|
 |**2024-12-22**|**GraphAgent: Agentic Graph Language Assistant**|Yuhao Yang et.al.|[2412.17029v1](http://arxiv.org/abs/2412.17029v1)|null|
 |**2024-12-22**|**Enhancing Supply Chain Transparency in Emerging Economies Using Online Contents and LLMs**|Bohan Jin et.al.|[2412.16922v1](http://arxiv.org/abs/2412.16922v1)|null|
-|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v1](http://arxiv.org/abs/2412.16833v1)|null|
+|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833v2](http://arxiv.org/abs/2412.16833v2)|null|
 |**2024-12-21**|**Apples to Apples: Establishing Comparability in Knowledge Generation Tasks Involving Users**|Christophe Debruyne et.al.|[2412.16766v1](http://arxiv.org/abs/2412.16766v1)|null|
 |**2024-12-21**|**Self-guided Knowledgeable Network of Thoughts: Amplifying Reasoning with Large Language Models**|Chao-Chi Chen et.al.|[2412.16533v1](http://arxiv.org/abs/2412.16533v1)|null|
 |**2024-12-21**|**Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding**|Junyi Ye et.al.|[2412.16420v1](http://arxiv.org/abs/2412.16420v1)|[link](https://github.com/junyiye/textflow)|
@@ -805,7 +805,7 @@ and industries.
 摘要：在當今全球經濟中，供應鏈透明度在確保此安全性方面發揮著關鍵作用，讓公司能夠監控供應商績效並促進問責制和責任感。儘管彭博社和 FactSet 等供應鏈關係數據集取得進展，但由於資訊不對稱和法規制度差距等問題，供應鏈透明度在開發中國家仍是一項重大挑戰。本研究提出了一種新方法，利用線上內容和大型語言模型 (LLM) 來加強開發中國家的供應鏈透明度。我們開發了一個供應鏈知識圖譜挖掘系統，將先進的 LLM 與網路爬蟲技術整合在一起，以自動收集和分析供應鏈資訊。該系統的有效性已通過針對半導體供應鏈的案例研究得到驗證，半導體供應鏈是一個由於供應鏈風險而最近受到極大關注的領域。我們的結果表明，所提出的系統為開發中國家（例如中國大陸）提供了更大的適用性，補充了現有數據集中的數據差距。然而，包括準確估計貨幣和物料流、處理時間序列數據、消除同義詞歧義和減輕線上內容偏見在內的挑戰仍然存在。未來的研究應專注於解決這些問題，以進一步增強系統的能力並擴大其在其他開發中國家和產業的應用。
 
 ##### **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**
-2412.16833v1 by Kaiwen Zuo, Yirui Jiang, Fan Mo, Pietro Lio
+2412.16833v2 by Kaiwen Zuo, Yirui Jiang, Fan Mo, Pietro Lio
 
 Integrating Large Language Models (LLMs) in healthcare diagnosis demands
 systematic frameworks that can handle complex medical scenarios while
@@ -827,7 +827,7 @@ making it valuable for developing targeted medical diagnosis systems. We
 provide architectural guidelines and protocols to facilitate adoption across
 medical contexts.
 
-摘要：整合大型語言模型 (LLM) 於醫療診斷中，需要系統化架構，能夠處理複雜的醫療場景，同時維持專業知識。我們提出 KG4Diagnosis，一個新穎的分層多代理架構，結合 LLM 與自動化知識圖譜建構，涵蓋醫療專業的 362 種常見疾病。我們的架構透過雙層架構反映真實世界的醫療系統：一位全科醫師 (GP) 代理負責初步評估和分流，並與專業代理協調，針對特定領域進行深入診斷。核心創新在於我們的端對端知識圖譜生成方法，結合：(1) 針對醫療術語最佳化的語意驅動實體和關係萃取，(2) 從非結構化醫療文本重建多面向決策關係，以及 (3) 人類引導的推理進行知識擴充。KG4Diagnosis 可作為專業醫療診斷系統的可擴充基礎，具備整合新疾病和醫療知識的能力。此架構的模組化設計能無縫整合特定領域的強化功能，使其對於開發目標導向的醫療診斷系統極具價值。我們提供架構準則和協定，以利於在醫療情境中採用。
+摘要：整合大型語言模型 (LLM) 於醫療診斷中需要系統性架構，此架構必須能處理複雜的醫療情境，同時保有專業知識。我們提出 KG4Diagnosis，一個結合 LLM 與自動化知識圖表建構的新型階層式多重代理架構，涵蓋 362 種常見疾病，橫跨各個醫療專科。我們的架構透過雙層架構反映真實世界的醫療系統：一位負責初步評估和分流的家庭醫師 (GP) 代理，協調各個專科代理進行深入診斷。核心創新在於我們的端對端知識圖表產生方法，結合：(1) 語意驅動的實體與關係萃取，針對醫療術語進行最佳化；(2) 從非結構化醫療文本重建多維度決策關係；以及 (3) 人類引導的推理，用於知識擴充。KG4Diagnosis 可作為專門醫療診斷系統的可延伸基礎，有能力整合新的疾病和醫療知識。此架構的模組化設計能無縫整合特定領域的強化功能，使其對於開發目標導向的醫療診斷系統極具價值。我們提供架構指引和協定，以促進在各種醫療情境中的採用。
 
 ##### **Apples to Apples: Establishing Comparability in Knowledge Generation Tasks Involving Users**
 2412.16766v1 by Christophe Debruyne, Ademar Crotti Junior

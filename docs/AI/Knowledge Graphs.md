@@ -4,11 +4,11 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|null|
 |**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v1](http://arxiv.org/abs/2501.01644v1)|null|
-|**2025-01-01**|**Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**|Weiqi Wu et.al.|[2501.00888v1](http://arxiv.org/abs/2501.00888v1)|null|
+|**2025-01-01**|**Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**|Weiqi Wu et.al.|[2501.00888v1](http://arxiv.org/abs/2501.00888v1)|[link](https://github.com/Alibaba-NLP/CHRONOS)|
 |**2024-12-31**|**Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**|Yipeng Kang et.al.|[2501.00581v1](http://arxiv.org/abs/2501.00581v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**The Potential of LLMs in Automating Software Testing: From Generation to Reporting**|Betim Sherifi et.al.|[2501.00217v1](http://arxiv.org/abs/2501.00217v1)|null|
-|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136v1](http://arxiv.org/abs/2501.00136v1)|null|
+|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136v1](http://arxiv.org/abs/2501.00136v1)|[link](https://github.com/Taniya-Das/video_annotation)|
 |**2024-12-30**|**Machine Learning-Based Security Policy Analysis**|Krish Jain et.al.|[2501.00085v1](http://arxiv.org/abs/2501.00085v1)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995v1](http://arxiv.org/abs/2412.20995v1)|null|
 |**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942v1](http://arxiv.org/abs/2412.20942v1)|null|

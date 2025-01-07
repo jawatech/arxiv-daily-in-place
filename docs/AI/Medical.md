@@ -8,22 +8,22 @@
 |**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618v1](http://arxiv.org/abs/2501.01618v1)|null|
 |**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594v1](http://arxiv.org/abs/2501.01594v1)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
-|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|null|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
 |**2025-01-02**|**Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**|Bohang Sun et.al.|[2501.01311v1](http://arxiv.org/abs/2501.01311v1)|null|
-|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|null|
+|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|[link](https://github.com/dreamtheater123/disease_name_dataset)|
 |**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030v1](http://arxiv.org/abs/2501.01030v1)|null|
-|**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|null|
+|**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
 |**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
 |**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
 |**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v1](http://arxiv.org/abs/2501.00320v1)|null|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v1](http://arxiv.org/abs/2501.00320v1)|[link](https://github.com/braincog-x/brain-cog)|
 |**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|null|
+|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/SepsisCalc)|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
 |**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
 |**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|

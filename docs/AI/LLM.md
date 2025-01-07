@@ -18,7 +18,7 @@
 |**2025-01-03**|**Time Series Language Model for Descriptive Caption Generation**|Mohamed Trabelsi et.al.|[2501.01832v1](http://arxiv.org/abs/2501.01832v1)|null|
 |**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830v1](http://arxiv.org/abs/2501.01830v1)|null|
 |**2025-01-03**|**The Proof is in the Almond Cookies**|Remi van Trijp et.al.|[2501.01827v1](http://arxiv.org/abs/2501.01827v1)|null|
-|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821v1](http://arxiv.org/abs/2501.01821v1)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821v1](http://arxiv.org/abs/2501.01821v1)|[link](https://github.com/alibabaresearch/damo-convai)|
 |**2025-01-03**|**End-to-End Long Document Summarization using Gradient Caching**|Rohit Saxena et.al.|[2501.01805v1](http://arxiv.org/abs/2501.01805v1)|null|
 |**2025-01-03**|**BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction**|Ferhat Ozgur Catak et.al.|[2501.01802v1](http://arxiv.org/abs/2501.01802v1)|null|
 |**2025-01-03**|**Reading Between the Lines: A dataset and a study on why some texts are tougher than others**|Nouran Khallaf et.al.|[2501.01796v1](http://arxiv.org/abs/2501.01796v1)|null|
@@ -57,21 +57,21 @@
 |**2025-01-02**|**DiagrammaticLearning: A Graphical Language for Compositional Training Regimes**|Mason Lary et.al.|[2501.01515v1](http://arxiv.org/abs/2501.01515v1)|null|
 |**2025-01-02**|**AI-Enabled Operations at Fermi Complex: Multivariate Time Series Prediction for Outage Prediction and Diagnosis**|Milan Jain et.al.|[2501.01509v1](http://arxiv.org/abs/2501.01509v1)|null|
 |**2025-01-02**|**ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST**|Ved G. Shah et.al.|[2501.01496v1](http://arxiv.org/abs/2501.01496v1)|null|
-|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|[link](https://github.com/princetonvisualai/merv)|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
-|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394v1](http://arxiv.org/abs/2501.01394v1)|null|
+|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394v1](http://arxiv.org/abs/2501.01394v1)|[link](https://github.com/jingjing-unilu/HPO_transformer_time_series)|
 |**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384v1](http://arxiv.org/abs/2501.01384v1)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
-|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|null|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
 |**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366v1](http://arxiv.org/abs/2501.01366v1)|null|
 |**2025-01-02**|**Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark**|Liang He et.al.|[2501.01349v1](http://arxiv.org/abs/2501.01349v1)|null|
 |**2025-01-02**|**AdaptVC: High Quality Voice Conversion with Adaptive Learning**|Jaehun Kim et.al.|[2501.01347v2](http://arxiv.org/abs/2501.01347v2)|null|
 |**2025-01-02**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al.|[2501.01346v1](http://arxiv.org/abs/2501.01346v1)|null|
 |**2025-01-02**|**DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring**|Hao Wang et.al.|[2501.01342v1](http://arxiv.org/abs/2501.01342v1)|null|
-|**2025-01-02**|**Aligning Large Language Models for Faithful Integrity Against Opposing Argument**|Yong Zhao et.al.|[2501.01336v1](http://arxiv.org/abs/2501.01336v1)|null|
-|**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335v1](http://arxiv.org/abs/2501.01335v1)|null|
+|**2025-01-02**|**Aligning Large Language Models for Faithful Integrity Against Opposing Argument**|Yong Zhao et.al.|[2501.01336v1](http://arxiv.org/abs/2501.01336v1)|[link](https://github.com/zhaoy777/afice)|
+|**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335v1](http://arxiv.org/abs/2501.01335v1)|[link](https://github.com/cysecbench/dataset)|
 |**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332v1](http://arxiv.org/abs/2501.01332v1)|null|
 |**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329v1](http://arxiv.org/abs/2501.01329v1)|null|
 |**2025-01-02**|**Understanding Difficult-to-learn Examples in Contrastive Learning: A Theoretical Framework for Spectral Contrastive Learning**|Yi-Ge Zhang et.al.|[2501.01317v1](http://arxiv.org/abs/2501.01317v1)|null|
@@ -92,11 +92,11 @@
 |**2025-01-02**|**Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion**|Qiyuan He et.al.|[2501.01246v1](http://arxiv.org/abs/2501.01246v1)|null|
 |**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243v1](http://arxiv.org/abs/2501.01243v1)|null|
 |**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242v1](http://arxiv.org/abs/2501.01242v1)|null|
-|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|null|
+|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|[link](https://github.com/wbsg-uni-mannheim/selfrefinement4extractgpt)|
 |**2025-01-02**|**Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search**|Shuangtao Li et.al.|[2501.01478v1](http://arxiv.org/abs/2501.01478v1)|null|
 |**2025-01-02**|**A redescription mining framework for post-hoc explaining and relating deep learning models**|Matej Mihelčić et.al.|[2501.01209v1](http://arxiv.org/abs/2501.01209v1)|null|
 |**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205v1](http://arxiv.org/abs/2501.01205v1)|null|
-|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|null|
+|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|[link](https://github.com/dreamtheater123/disease_name_dataset)|
 |**2025-01-02**|**Blind Men and the Elephant: Diverse Perspectives on Gender Stereotypes in Benchmark Datasets**|Mahdi Zakizadeh et.al.|[2501.01168v1](http://arxiv.org/abs/2501.01168v1)|null|
 |**2025-01-02**|**Leveraging Full Dependency Parsing Graph Information For Biomedical Event Extraction**|Farshad Noravesh et.al.|[2501.01158v1](http://arxiv.org/abs/2501.01158v1)|null|
 |**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156v1](http://arxiv.org/abs/2501.01156v1)|null|

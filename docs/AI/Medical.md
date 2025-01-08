@@ -2,9 +2,17 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
+|**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
+|**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
+|**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722v1](http://arxiv.org/abs/2501.03722v1)|null|
+|**2025-01-07**|**Can Deep Learning Trigger Alerts from Mobile-Captured Images?**|Pritisha Sarkar et.al.|[2501.03499v1](http://arxiv.org/abs/2501.03499v1)|null|
+|**2025-01-07**|**Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**|Xiao Wang et.al.|[2501.03458v1](http://arxiv.org/abs/2501.03458v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
+|**2025-01-06**|**Existential Crisis: A Social Robot's Reason for Being**|Dora Medgyesy et.al.|[2501.03376v1](http://arxiv.org/abs/2501.03376v1)|null|
 |**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922v1](http://arxiv.org/abs/2501.02922v1)|null|
 |**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
 |**2025-01-06**|**IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**|Yiming Zhang et.al.|[2501.02869v1](http://arxiv.org/abs/2501.02869v1)|null|
+|**2025-01-06**|**Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**|Naibo Wang et.al.|[2501.03292v1](http://arxiv.org/abs/2501.03292v1)|null|
 |**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v1](http://arxiv.org/abs/2501.02788v1)|null|
 |**2025-01-06**|**Hybrid deep convolution model for lung cancer detection with transfer learning**|Sugandha Saxena et.al.|[2501.02785v1](http://arxiv.org/abs/2501.02785v1)|null|
 |**2025-01-06**|**ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**|Binyu Zhang et.al.|[2501.02778v1](http://arxiv.org/abs/2501.02778v1)|[link](https://github.com/binging512/icfnet)|
@@ -26,7 +34,7 @@
 |**2025-01-03**|**Implications of Artificial Intelligence on Health Data Privacy and Confidentiality**|Ahmad Momani et.al.|[2501.01639v2](http://arxiv.org/abs/2501.01639v2)|null|
 |**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618v1](http://arxiv.org/abs/2501.01618v1)|null|
 |**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594v1](http://arxiv.org/abs/2501.01594v1)|null|
-|**2025-01-02**|**Model Checking in Medical Imaging for Tumor Detection and Segmentation**|Elhoucine Elfatimi et.al.|[2501.02024v1](http://arxiv.org/abs/2501.02024v1)|null|
+|**2025-01-02**|**Model Checking in Medical Imaging for Tumor Detection and Segmentation**|Elhoucine Elfatimi et.al.|[2501.02024v2](http://arxiv.org/abs/2501.02024v2)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
@@ -41,12 +49,12 @@
 |**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
 |**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
 |**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v1](http://arxiv.org/abs/2501.00320v1)|[link](https://github.com/braincog-x/brain-cog)|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v2](http://arxiv.org/abs/2501.00320v2)|[link](https://github.com/braincog-x/brain-cog)|
 |**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/SepsisCalc)|
+|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/sepsislab)|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
 |**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
 |**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
@@ -94,16 +102,173 @@
 |**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587v1](http://arxiv.org/abs/2412.17587v1)|null|
 |**2024-12-23**|**Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor**|Yeonju Kim et.al.|[2412.17572v1](http://arxiv.org/abs/2412.17572v1)|null|
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
-|**2024-12-23**|**Applying LLM and Topic Modelling in Psychotherapeutic Contexts**|Alexander Vanin et.al.|[2412.17449v1](http://arxiv.org/abs/2412.17449v1)|null|
-|**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346v1](http://arxiv.org/abs/2412.17346v1)|null|
-|**2024-12-23**|**QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation**|Phuong-Nam Tran et.al.|[2412.17241v1](http://arxiv.org/abs/2412.17241v1)|[link](https://github.com/tpnam0901/QTSeg)|
-|**2024-12-23**|**MatchMiner-AI: An Open-Source Solution for Cancer Clinical Trial Matching**|Ethan Cerami et.al.|[2412.17228v1](http://arxiv.org/abs/2412.17228v1)|null|
-|**2024-12-22**|**COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations**|Vanessa Su et.al.|[2412.17180v1](http://arxiv.org/abs/2412.17180v1)|null|
-|**2024-12-22**|**AI-Based Teat Shape and Skin Condition Prediction for Dairy Management**|Yuexing Hao et.al.|[2412.17142v1](http://arxiv.org/abs/2412.17142v1)|null|
-|**2024-12-22**|**An OpenMind for 3D medical vision self-supervised learning**|Tassilo Wald et.al.|[2412.17041v1](http://arxiv.org/abs/2412.17041v1)|null|
-|**2024-12-22**|**On Fusing ChatGPT and Ensemble Learning in Discon-tinuous Named Entity Recognition in Health Corpora**|Tzu-Chieh Chen et.al.|[2412.16976v1](http://arxiv.org/abs/2412.16976v1)|null|
 
 #### Abstracts
+##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
+2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
+
+The integration of large language models (LLMs) into public transit systems
+presents a transformative opportunity to enhance urban mobility. This study
+explores the potential of LLMs to revolutionize public transportation
+management within the context of San Antonio's transit system. Leveraging the
+capabilities of LLMs in natural language processing and data analysis, we
+investigate their capabilities to optimize route planning, reduce wait times,
+and provide personalized travel assistance. By utilizing the General Transit
+Feed Specification (GTFS) and other relevant data, this research aims to
+demonstrate how LLMs can potentially improve resource allocation, elevate
+passenger satisfaction, and inform data-driven decision-making in transit
+operations. A comparative analysis of different ChatGPT models was conducted to
+assess their ability to understand transportation information, retrieve
+relevant data, and provide comprehensive responses. Findings from this study
+suggest that while LLMs hold immense promise for public transit, careful
+engineering and fine-tuning are essential to realizing their full potential.
+San Antonio serves as a case study to inform the development of LLM-powered
+transit systems in other urban environments.
+
+摘要：大型語言模型 (LLM) 整合到公共交通系統中，為提升城市流動性帶來轉型契機。本研究探討 LLM 在聖安東尼奧交通系統脈絡下，革新大眾運輸管理的潛力。利用 LLM 在自然語言處理和資料分析方面的能力，我們探討其在優化路線規劃、縮短等候時間，以及提供個人化旅遊協助方面的能力。透過利用通用大眾運輸資料規範 (GTFS) 和其他相關資料，本研究旨在證明 LLM 如何潛在提升資源配置、提升乘客滿意度，以及在交通營運中提供資料驅動的決策。針對不同的 ChatGPT 模型進行比較分析，以評估其理解交通資訊、擷取相關資料，以及提供全面回應的能力。本研究的發現顯示，儘管 LLM 對大眾運輸極具前景，但精密的工程和微調對於實現其全部潛力至關重要。聖安東尼奧作為一個案例研究，為在其他都市環境中開發由 LLM 驅動的交通系統提供參考。
+
+##### **SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**
+2501.03836v1 by Runci Bai
+
+Brain tumors can result in neurological dysfunction, alterations in cognitive
+and psychological states, increased intracranial pressure, and the occurrence
+of seizures, thereby presenting a substantial risk to human life and health.
+The You Only Look Once(YOLO) series models have demonstrated superior accuracy
+in object detection for medical imaging. In this paper, we develop a novel
+SCC-YOLO architecture by integrating the SCConv attention mechanism into
+YOLOv9. The SCConv module reconstructs an efficient convolutional module by
+reducing spatial and channel redundancy among features, thereby enhancing the
+learning of image features. We investigate the impact of intergrating different
+attention mechanisms with the YOLOv9 model on brain tumor image detection using
+both the Br35H dataset and our self-made dataset(Brain_Tumor_Dataset).
+Experimental results show that on the Br35H dataset, SCC-YOLO achieved a 0.3%
+improvement in mAp50 compared to YOLOv9, while on our self-made dataset,
+SCC-YOLO exhibited a 0.5% improvement over YOLOv9. SCC-YOLO has reached
+state-of-the-art performance in brain tumor detection. Source code is available
+at : https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
+
+摘要：腦瘤可能導致神經功能障礙、認知和心理狀態改變、顱內壓升高，以及癲癇發作，因此對人類生命和健康構成重大風險。You Only Look Once (YOLO) 系列模型已證明在醫學影像的物件偵測中具有優異的準確度。在本文中，我們透過將 SCConv 注意力機制整合到 YOLOv9 中，開發出新穎的 SCC-YOLO 架構。SCConv 模組透過減少特徵中的空間和通道冗餘來重建一個高效的卷積模組，從而增強影像特徵的學習。我們使用 Br35H 資料集和我們自製的資料集 (Brain_Tumor_Dataset) 探討了將不同的注意力機制與 YOLOv9 模型整合對腦瘤影像偵測的影響。實驗結果顯示，在 Br35H 資料集上，SCC-YOLO 在 mAp50 方面比 YOLOv9 提升了 0.3%，而在我們自製的資料集上，SCC-YOLO 比 YOLOv9 提升了 0.5%。SCC-YOLO 已在腦瘤偵測方面達到最先進的效能。原始碼可於以下網址取得：https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
+
+##### **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**
+2501.03764v1 by Siyuan Zhao, Chenyu Liu, Yi Ding, Xinliang Zhou
+
+In practical sleep stage classification, a key challenge is the variability
+of EEG data across different subjects and environments. Differences in
+physiology, age, health status, and recording conditions can lead to domain
+shifts between data. These domain shifts often result in decreased model
+accuracy and reliability, particularly when the model is applied to new data
+with characteristics different from those it was originally trained on, which
+is a typical manifestation of negative transfer. To address this, we propose
+SelectiveFinetuning in this paper. Our method utilizes a pretrained Multi
+Resolution Convolutional Neural Network (MRCNN) to extract EEG features,
+capturing the distinctive characteristics of different sleep stages. To
+mitigate the effect of domain shifts, we introduce a domain aligning mechanism
+that employs Earth Mover Distance (EMD) to evaluate and select source domain
+data closely matching the target domain. By finetuning the model with selective
+source data, our SelectiveFinetuning enhances the model's performance on target
+domain that exhibits domain shifts compared to the data used for training.
+Experimental results show that our method outperforms existing baselines,
+offering greater robustness and adaptability in practical scenarios where data
+distributions are often unpredictable.
+
+摘要：在實際的睡眠階段分類中，一個關鍵的挑戰是腦電圖數據在不同受試者和環境中的變異性。生理、年齡、健康狀況和記錄條件的差異可能導致數據之間的領域偏移。這些領域偏移通常會導致模型準確度和可靠性下降，特別是當模型應用於與其最初訓練時不同的特徵的新數據時，這是負遷移的典型表現。為了解決這個問題，我們在本文中提出選擇性微調。我們的模型利用預訓練的多解析度卷積神經網路 (MRCNN) 來提取腦電圖特徵，捕捉不同睡眠階段的獨特特徵。為了減輕領域偏移的影響，我們引入了一個領域對齊機制，它採用地球移動距離 (EMD) 來評估和選擇與目標領域緊密匹配的源領域數據。通過使用選擇性源數據微調模型，我們的選擇性微調增強了模型在與用於訓練的數據相比表現出領域偏移的目標領域上的性能。實驗結果表明，我們的模型優於現有的基準，在數據分佈通常不可預測的實際場景中提供了更大的穩健性和適應性。
+
+##### **Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**
+2501.03722v1 by Xiaotong Guo, Deqian Yang, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Lijun Zhang, Yanda Meng
+
+Accurate segmentation of pulmonary structures iscrucial in clinical
+diagnosis, disease study, and treatment planning. Significant progress has been
+made in deep learning-based segmentation techniques, but most require much
+labeled data for training. Consequently, developing precise segmentation
+methods that demand fewer labeled datasets is paramount in medical image
+analysis. The emergence of pre-trained vision-language foundation models, such
+as CLIP, recently opened the door for universal computer vision tasks.
+Exploiting the generalization ability of these pre-trained foundation models on
+downstream tasks, such as segmentation, leads to unexpected performance with a
+relatively small amount of labeled data. However, exploring these models for
+pulmonary artery-vein segmentation is still limited. This paper proposes a
+novel framework called Language-guided self-adaptive Cross-Attention Fusion
+Framework. Our method adopts pre-trained CLIP as a strong feature extractor for
+generating the segmentation of 3D CT scans, while adaptively aggregating the
+cross-modality of text and image representations. We propose a s pecially
+designed adapter module to fine-tune pre-trained CLIP with a self-adaptive
+learning strategy to effectively fuse the two modalities of embeddings. We
+extensively validate our method on a local dataset, which is the largest
+pulmonary artery-vein CT dataset to date and consists of 718 labeled data in
+total. The experiments show that our method outperformed other state-of-the-art
+methods by a large margin. Our data and code will be made publicly available
+upon acceptance.
+
+摘要：精確分割肺部結構在臨床診斷、疾病研究和治療計畫中至關重要。基於深度學習的分割技術已取得重大進展，但大多數技術在訓練時需要大量的標記資料。因此，開發精確的分割方法，以減少標記資料集的需求，在醫學影像分析中至關重要。預訓練的視覺語言基礎模型（例如 CLIP）的出現，最近為通用電腦視覺任務開啟了大門。利用這些預訓練基礎模型在分割等下游任務中的泛化能力，即使標記資料量相對較少，也能產生意想不到的效能。然而，探索這些模型在肺動脈靜脈分割中的應用仍然有限。本文提出了一個名為語言引導自適應交叉注意力融合框架的新框架。我們的模型採用預訓練的 CLIP 作為強大的特徵萃取器，用於產生 3D 電腦斷層掃描的分割，同時自適應地聚合文本和影像表徵的跨模態。我們提出了一個特別設計的適配器模組，以自適應學習策略微調預訓練的 CLIP，以有效融合兩種嵌入模態。我們在一個本地資料集上廣泛驗證了我們的模型，這是迄今為止最大的肺動脈靜脈電腦斷層掃描資料集，總共包含 718 個標記資料。實驗表明，我們的模型以大幅優於其他最先進模型。我們的資料和程式碼將在獲得接受後公開。
+
+##### **Can Deep Learning Trigger Alerts from Mobile-Captured Images?**
+2501.03499v1 by Pritisha Sarkar, Duranta Durbaar Vishal Saha, Mousumi Saha
+
+Our research presents a comprehensive approach to leveraging mobile camera
+image data for real-time air quality assessment and recommendation. We develop
+a regression-based Convolutional Neural Network model and tailor it explicitly
+for air quality prediction by exploiting the inherent relationship between
+output parameters. As a result, the Mean Squared Error of 0.0077 and 0.0112
+obtained for 2 and 5 pollutants respectively outperforms existing models.
+Furthermore, we aim to verify the common practice of augmenting the original
+dataset with a view to introducing more variation in the training phase. It is
+one of our most significant contributions that our experimental results
+demonstrate minimal accuracy differences between the original and augmented
+datasets. Finally, a real-time, user-friendly dashboard is implemented which
+dynamically displays the Air Quality Index and pollutant values derived from
+captured mobile camera images. Users' health conditions are considered to
+recommend whether a location is suitable based on current air quality metrics.
+Overall, this research contributes to verification of data augmentation
+techniques, CNN-based regression modelling for air quality prediction, and
+user-centric air quality monitoring through mobile technology. The proposed
+system offers practical solutions for individuals to make informed
+environmental health and well-being decisions.
+
+摘要：我們的研究提出了一種利用行動裝置相機影像資料進行即時空氣品質評估和建議的全面性方法。我們開發了一種基於迴歸的卷積神經網路模型，並透過利用輸出參數之間的內在關係，針對空氣品質預測量身打造。因此，分別針對 2 和 5 種污染物取得的平均平方誤差為 0.0077 和 0.0112，優於現有的模型。此外，我們旨在驗證擴充原始資料集的常見做法，以期在訓練階段引入更多變異。我們的實驗結果顯示原始資料集和擴充資料集之間的準確度差異極小，這是我們最重要的貢獻之一。最後，我們實作了一個即時、使用者友善的儀表板，可動態顯示從擷取的行動裝置相機影像中衍生的空氣品質指數和污染物數值。考量使用者的健康狀況，建議是否根據目前的空氣品質指標選擇適合的地點。整體而言，這項研究有助於驗證資料擴充技術、基於 CNN 的迴歸模型（用於空氣品質預測）以及透過行動技術進行以使用者為中心的空氣品質監控。所提出的系統為個人提供實際的解決方案，以便做出明智的環境健康和福祉決策。
+
+##### **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**
+2501.03458v1 by Xiao Wang, Fuling Wang, Haowen Wang, Bo Jiang, Chuanfu Li, Yaowei Wang, Yonghong Tian, Jin Tang
+
+X-ray image based medical report generation achieves significant progress in
+recent years with the help of the large language model, however, these models
+have not fully exploited the effective information in visual image regions,
+resulting in reports that are linguistically sound but insufficient in
+describing key diseases. In this paper, we propose a novel associative
+memory-enhanced X-ray report generation model that effectively mimics the
+process of professional doctors writing medical reports. It considers both the
+mining of global and local visual information and associates historical report
+information to better complete the writing of the current report. Specifically,
+given an X-ray image, we first utilize a classification model along with its
+activation maps to accomplish the mining of visual regions highly associated
+with diseases and the learning of disease query tokens. Then, we employ a
+visual Hopfield network to establish memory associations for disease-related
+tokens, and a report Hopfield network to retrieve report memory information.
+This process facilitates the generation of high-quality reports based on a
+large language model and achieves state-of-the-art performance on multiple
+benchmark datasets, including the IU X-ray, MIMIC-CXR, and Chexpert Plus. The
+source code of this work is released on
+\url{https://github.com/Event-AHU/Medical_Image_Analysis}.
+
+摘要：近年來，在大型語言模型的幫助下，基於 X 光影像的醫療報告生成取得了顯著進展，然而，這些模型並未充分利用視覺影像區域中的有效資訊，導致報告在語言上雖然流暢，但在描述關鍵疾病方面卻不足。在本文中，我們提出了一個新穎的聯想式記憶增強 X 光報告生成模型，有效地模擬專業醫生撰寫醫療報告的過程。它同時考慮了對全局和局部視覺資訊的挖掘，並聯繫歷史報告資訊，以更好地完成當前報告的撰寫。具體來說，給定一張 X 光影像，我們首先利用分類模型及其激活映射來完成與疾病高度相關的視覺區域的挖掘和疾病查詢令牌的學習。然後，我們採用視覺霍普菲爾德網路來建立與疾病相關的令牌的記憶聯繫，並採用報告霍普菲爾德網路來檢索報告記憶資訊。這個過程有助於基於大型語言模型生成高品質的報告，並在包括 IU X 射線、MIMIC-CXR 和 Chexpert Plus 在內的多個基準資料集上實現了最先進的效能。此項工作的原始碼已發佈在\url{https://github.com/Event-AHU/Medical_Image_Analysis}。
+
+##### **Existential Crisis: A Social Robot's Reason for Being**
+2501.03376v1 by Dora Medgyesy, Joella Galas, Julian van Pol, Rustam Eynaliyev, Thijs Vollebregt
+
+As Robots become ever more important in our daily lives there's growing need
+for understanding how they're perceived by people. This study aims to
+investigate how the user perception of robots is influenced by displays of
+personality. Using LLMs and speech to text technology, we designed a
+within-subject study to compare two conditions: a personality-driven robot and
+a purely task-oriented, personality-neutral robot. Twelve participants,
+recruited from Socially Intelligent Robotics course at Vrije Universiteit
+Amsterdam, interacted with a robot Nao tasked with asking them a set of medical
+questions under both conditions. After completing both interactions, the
+participants completed a user experience questionnaire measuring their
+emotional states and robot perception using standardized questionnaires from
+the SRI and Psychology literature.
+
+摘要：隨著機器人在我們日常生活中的重要性日益提升，對於了解人們如何感知機器人的需求也日益增加。本研究旨在探討機器人的使用者感知如何受到人格表現的影響。我們使用大型語言模型 (LLM) 和語音轉文字技術，設計了一項受試者內研究，以比較兩種情況：一種是人格驅動的機器人，另一種是純粹以任務為導向、人格中立的機器人。我們從阿姆斯特丹自由大學的社交智能機器人課程中招募了 12 名參與者，他們與機器人 Nao 互動，在兩種情況下都向他們詢問一系列醫療問題。在完成這兩種互動後，參與者完成了一份使用者體驗問卷，使用來自 SRI 和心理學文獻的標準化問卷測量他們的情緒狀態和機器人感知。
+
 ##### **Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**
 2501.02922v1 by Susu Sun, Leslie Tessier, Frédérique Meeuwsen, Clément Grisi, Dominique van Midden, Geert Litjens, Christian F. Baumgartner
 
@@ -177,6 +342,37 @@ medical dialogue.Datsets, Code and model checkpoints will be released upon
 acceptance.
 
 摘要：最近針對大型語言模型 (LLM) 的研究，該模型預先訓練於龐大的通用語料庫中，已在回應人類查詢方面取得突破。然而，這些方法面臨的挑戰包括資料不足以支援廣泛的預訓練，且無法將回應與使用者的指示保持一致。為了解決這些問題，我們引進一個醫療指示資料集 CMedINS，其中包含六項從實際醫療任務中衍生的醫療指示，與其他資料結合後能有效微調 LLM。隨後，我們推出我們的醫療模型 IIMedGPT，採用一種有效率的偏好對齊方法，直接偏好最佳化 (DPO)。結果顯示，我們的最終模型在醫療對話中優於現有的醫療模型。資料集、程式碼和模型檢查點將在通過驗證後釋出。
+
+##### **Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**
+2501.03292v1 by Naibo Wang, Yuchen Deng, Shichen Fan, Jianwei Yin, See-Kiong Ng
+
+Federated learning (FL) has attracted considerable interest in the medical
+domain due to its capacity to facilitate collaborative model training while
+maintaining data privacy. However, conventional FL methods typically
+necessitate multiple communication rounds, leading to significant communication
+overhead and delays, especially in environments with limited bandwidth.
+One-shot federated learning addresses these issues by conducting model training
+and aggregation in a single communication round, thereby reducing communication
+costs while preserving privacy. Among these, one-shot federated ensemble
+learning combines independently trained client models using ensemble techniques
+such as voting, further boosting performance in non-IID data scenarios. On the
+other hand, existing machine learning methods in healthcare predominantly use
+unimodal data (e.g., medical images or textual reports), which restricts their
+diagnostic accuracy and comprehensiveness. Therefore, the integration of
+multi-modal data is proposed to address these shortcomings. In this paper, we
+introduce FedMME, an innovative one-shot multi-modal federated ensemble
+learning framework that utilizes multi-modal data for medical image analysis.
+Specifically, FedMME capitalizes on vision large language models to produce
+textual reports from medical images, employs a BERT model to extract textual
+features from these reports, and amalgamates these features with visual
+features to improve diagnostic accuracy. Experimental results show that our
+method demonstrated superior performance compared to existing one-shot
+federated learning methods in healthcare scenarios across four datasets with
+various data distributions. For instance, it surpasses existing one-shot
+federated learning approaches by more than 17.5% in accuracy on the RSNA
+dataset when applying a Dirichlet distribution with ($\alpha$ = 0.3).
+
+摘要：联邦学习 (FL) 由于其在维护数据隐私的同时促进协作模型训练的能力，在医学领域引起了极大的兴趣。然而，传统的 FL 方法通常需要多轮通信，这会导致严重的通信开销和延迟，尤其是在带宽受限的环境中。单次联邦学习通过在单次通信轮中进行模型训练和聚合来解决这些问题，从而在保护隐私的同时降低通信成本。其中，单次联邦集成学习使用集成技术（如投票）将独立训练的客户端模型组合起来，进一步提升了在非 IID 数据场景中的性能。另一方面，现有的医疗保健机器学习方法主要使用单模态数据（例如医学图像或文本报告），这限制了它们的诊断准确性和全面性。因此，提出了多模态数据的集成来解决这些缺点。在本文中，我们介绍了 FedMME，一种创新的单次多模态联邦集成学习框架，它利用多模态数据进行医学图像分析。具体来说，FedMME 利用视觉大语言模型从医学图像中生成文本报告，采用 BERT 模型从这些报告中提取文本特征，并将这些特征与视觉特征相结合以提高诊断准确性。实验结果表明，与现有的单次联邦学习方法相比，我们的方法在四个具有不同数据分布的数据集中的医疗保健场景中表现出优越的性能。例如，当应用具有 ($\alpha$ = 0.3) 的 Dirichlet 分布时，它在 RSNA 数据集上的准确率比现有的单次联邦学习方法高出 17.5% 以上。
 
 ##### **GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**
 2501.02788v1 by Niloufar Eghbali, Hassan Bagher-Ebadian, Tuka Alhanai, Mohammad M. Ghassemi
@@ -681,7 +877,7 @@ utterances.
 摘要：大型語言模型 (LLM) 的最新進展加速了會話代理的開發，這些代理能夠產生類似人類的回應。由於精神科評估通常涉及精神科醫師和患者之間複雜的會話互動，因此對於開發基於 LLM 的精神科評估會話代理 (PACA) 的興趣與日俱增，這些代理旨在模擬精神科醫師在臨床評估中的角色。然而，用於評量 PACA 與患者互動的臨床適當性的標準化方法仍未被充分探討。在此，我們提出 PSYCHE，一個新穎的框架，旨在實現 1) 臨床相關、2) 道德安全、3) 成本效益，以及 4) PACA 的定量評估。這是透過模擬基於多面向精神科建構的精神科患者來實現的，該建構定義了模擬患者的個人資料、病史和行為，而 PACA 預計會評估這些內容。我們透過一項有 10 位經認證的精神科醫師參與的研究驗證了 PSYCHE 的有效性，並輔以對模擬患者話語的深入分析。
 
 ##### **Model Checking in Medical Imaging for Tumor Detection and Segmentation**
-2501.02024v1 by Elhoucine Elfatimi, Lahcen El fatimi
+2501.02024v2 by Elhoucine Elfatimi, Lahcen El fatimi
 
 Recent advancements in model checking have demonstrated significant potential
 across diverse applications, particularly in signal and image analysis. Medical
@@ -695,7 +891,7 @@ Additionally, we examine the challenges inherent to spatial model-checking
 techniques, such as variability in ground truth data and the need for
 streamlined procedures suitable for routine clinical practice.
 
-摘要：近年來，模型檢查的進展已展現出在各種應用中具有顯著的潛力，特別是在訊號和影像分析中。醫療影像作為一個關鍵領域，模型檢查可有效地應用於設計和評估健全的架構。這些架構有助於自動和半自動地描繪影像中的感興趣區域，協助精確分割。本文全面分析了最近利用空間邏輯開發運算子和工具以識別感興趣區域（包括腫瘤和非腫瘤區域）的相關研究。此外，我們探討了空間模型檢查技術固有的挑戰，例如基本事實資料的可變性，以及需要簡化程序以適用於常規臨床實務。
+摘要：近來模型檢定的進展顯示出在各種應用中具有顯著的潛力，特別是在訊號和影像分析中。醫療成像作為一個關鍵領域，模型檢定可以有效地應用於設計和評估穩健的架構。這些架構有助於自動和半自動地描繪影像中的感興趣區域，有助於準確的分割。本文對近來利用空間邏輯開發運算子和工具以識別感興趣區域（包括腫瘤和非腫瘤區域）的相關研究進行了全面的分析。此外，我們探討了空間模型檢定技術固有的挑戰，例如基本事實資料的可變性以及對適合常規臨床實務的簡化程序的需求。
 
 ##### **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**
 2501.01377v1 by Yucheng Zhou, Lingran Song, Jianbing Shen
@@ -1030,7 +1226,7 @@ is available at (https://github.com/george-yuanji-wang/GAN-TAT).
 摘要：識別可藥物化基因對於開發有效的藥物至關重要。隨著大量高品質數據的出現，計算方法已成為一項重要的資產。蛋白質交互網絡 (PIN) 很有價值，但由於其高維度和稀疏性，實作起來具有挑戰性。先前的辦法依賴於間接整合，導致解析度降低。本研究提出 GAN-TAT，一個利用先進圖形嵌入技術 ImGAGN 的架構，直接整合 PIN 以進行可藥物化基因推論工作。在三個 Pharos 資料集上進行測試，GAN-TAT 在 Tclin 上達到了最高的 AUC-ROC 分數 0.951。進一步的評估顯示，GAN-TAT 的預測獲得了臨床證據的支持，突顯了其在藥物基因組學中的潛在實際應用。本研究代表了一種直接利用 PIN 的方法論嘗試，擴展了開發藥物靶標的潛在新解決方案。GAN-TAT 的原始碼可在 (https://github.com/george-yuanji-wang/GAN-TAT) 取得。
 
 ##### **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**
-2501.00320v1 by Haibo Tong, Enmeng Lum, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
+2501.00320v2 by Haibo Tong, Enmeng Lu, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
 
 With the widespread application of Artificial Intelligence (AI) in human
 society, enabling AI to autonomously align with human values has become a
@@ -1057,7 +1253,7 @@ similar to Sima Guang Smashes the Vat and its variants with different
 complexities, which reflects the trade-offs and comprehensive considerations
 between self-goals, altruistic rescue, and avoiding negative side effects.
 
-摘要：隨著人工智慧（AI）在人類社會中廣泛應用，使 AI 自主符合人類價值觀已成為確保其永續發展和造福人類的當務之急。與人類價值觀保持一致最重要的面向之一，就是代理人必須自主做出利他、安全且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在某些任務中極力追求絕對優越性，對周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性想像互動，以產生周全且利他的行為。受此啟發，我們致力於賦予代理人周全的自我想像和 ToM 能力，驅使他們透過隱含的內在動機，自主符合人類利他價值觀。透過將 ToM 整合到想像空間中，代理人可以即時關注其他代理人的福祉，主動預測對自己和他人潛在的風險，並做出周全的利他決策，平衡對環境的負面影響。司馬光砸缸的古代中國故事，說明了少年司馬光為了救一個不小心掉進水缸的孩子而砸缸的道德行為，是本文一個很好的參考情境。我們設計了一個實驗情境，類似司馬光砸缸及其變體，具有不同的複雜性，反映出自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
+摘要：隨著人工智慧（AI）在人類社會中的廣泛應用，讓 AI 自主與人類價值觀一致已成為確保其永續發展和造福人類的當務之急。與人類價值觀一致最重要的面向之一，在於代理人必須自主做出利他、安全、且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在特定任務中極力追求絕對優越性，對於周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自於人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性的想像互動，以產生周到且利他的行為。受到此啟發，我們致力於賦予代理人體貼的自我想像和 ToM 能力，透過隱含的內在動機驅使他們自主與人類利他價值觀一致。透過將 ToM 整合在想像空間中，代理人能即時關注其他代理人的福祉，主動預測對自身和他人潛在的風險，並做出周到且利他的決策，平衡對環境的負面影響。中國古代故事「司馬光砸缸」說明了年幼的司馬光為了救一個不小心掉進水缸中的孩子而砸破水缸的道德行為，是本文的絕佳參考情境。我們設計了一個與「司馬光砸缸」相似的實驗情境，以及具有不同複雜性的變體，反映了自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
 
 ##### **A Fourfold Pathogen Reference Ontology Suite**
 2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
@@ -2394,208 +2590,4 @@ potentially transforming various aspects of medical decision-making and saving
 millions of lives worldwide.
 
 摘要：本研究提出了一個創新的癌症診斷和預測方法，使用可解釋的人工智慧 (XAI) 和深度學習技術。由於癌症在 2020 年造成全球近 1,000 萬人死亡，因此早期準確的診斷至關重要。傳統方法通常面臨成本、準確性和效率方面的挑戰。我們的研究開發了一個 AI 模型，它提供精確的結果並清楚地了解其決策過程，解決了深度學習模型的「黑箱」問題。通過採用 XAI 技術，我們增強了解釋性和透明度，在醫療專業人員和患者之間建立信任。我們的做法利用神經網路分析廣泛的數據集，識別癌症檢測模式。這個模型有可能通過提高醫療決策的準確性、可及性和清晰度來革新診斷，可能導致更早的檢測和更個性化的治療策略。此外，它可以使更多人獲得高品質的診斷，特別是在資源有限的環境中，有助於全球健康公平。該模型的應用範圍不僅限於癌症診斷，還可能轉變醫療決策的各個方面，並拯救全球數百萬人的生命。
-
-##### **Applying LLM and Topic Modelling in Psychotherapeutic Contexts**
-2412.17449v1 by Alexander Vanin, Vadim Bolshev, Anastasia Panfilova
-
-This study explores the use of Large language models to analyze therapist
-remarks in a psychotherapeutic setting. The paper focuses on the application of
-BERTopic, a machine learning-based topic modeling tool, to the dialogue of two
-different groups of therapists (classical and modern), which makes it possible
-to identify and describe a set of topics that consistently emerge across these
-groups. The paper describes in detail the chosen algorithm for BERTopic, which
-included creating a vector space from a corpus of therapist remarks, reducing
-its dimensionality, clustering the space, and creating and optimizing topic
-representation. Along with the automatic topical modeling by the BERTopic, the
-research involved an expert assessment of the findings and manual topic
-structure optimization. The topic modeling results highlighted the most common
-and stable topics in therapists speech, offering insights into how language
-patterns in therapy develop and remain stable across different therapeutic
-styles. This work contributes to the growing field of machine learning in
-psychotherapy by demonstrating the potential of automated methods to improve
-both the practice and training of therapists. The study highlights the value of
-topic modeling as a tool for gaining a deeper understanding of therapeutic
-dialogue and offers new opportunities for improving therapeutic effectiveness
-and clinical supervision.
-
-摘要：本研究探討使用大型語言模型來分析心理治療環境中的治療師評論。本文重點關注將基於機器學習的主題建模工具 BERTopic 應用於兩組不同治療師（古典和現代）的對話，這使得識別和描述一組在這些組中持續出現的主題成為可能。本文詳細描述了 BERTopic 的選擇演算法，其中包括從治療師評論語料庫建立向量空間、降低其維度、對空間進行分群，以及建立和最佳化主題表示。除了 BERTopic 的自動主題建模外，該研究還包括對研究結果的專家評估和手動主題結構最佳化。主題建模結果突出了治療師言語中最常見且穩定的主題，提供了有關治療中的語言模式如何發展並在不同的治療風格中保持穩定的見解。這項工作透過展示自動化方法在改善治療師實務和訓練方面的潛力，為心理治療中機器學習的成長領域做出貢獻。本研究強調了主題建模作為深入了解治療對話的工具的價值，並為改善治療效果和臨床督導提供了新的機會。
-
-##### **FFA Sora, video generation as fundus fluorescein angiography simulator**
-2412.17346v1 by Xinyuan Wu, Lili Wang, Ruoyu Chen, Bowen Liu, Weiyi Zhang, Xi Yang, Yifan Feng, Mingguang He, Danli Shi
-
-Fundus fluorescein angiography (FFA) is critical for diagnosing retinal
-vascular diseases, but beginners often struggle with image interpretation. This
-study develops FFA Sora, a text-to-video model that converts FFA reports into
-dynamic videos via a Wavelet-Flow Variational Autoencoder (WF-VAE) and a
-diffusion transformer (DiT). Trained on an anonymized dataset, FFA Sora
-accurately simulates disease features from the input text, as confirmed by
-objective metrics: Frechet Video Distance (FVD) = 329.78, Learned Perceptual
-Image Patch Similarity (LPIPS) = 0.48, and Visual-question-answering Score
-(VQAScore) = 0.61. Specific evaluations showed acceptable alignment between the
-generated videos and textual prompts, with BERTScore of 0.35. Additionally, the
-model demonstrated strong privacy-preserving performance in retrieval
-evaluations, achieving an average Recall@K of 0.073. Human assessments
-indicated satisfactory visual quality, with an average score of 1.570(scale: 1
-= best, 5 = worst). This model addresses privacy concerns associated with
-sharing large-scale FFA data and enhances medical education.
-
-摘要：眼底螢光血管攝影 (FFA) 對診斷視網膜血管疾病至關重要，但初學者常常難以解讀影像。本研究開發出 FFA Sora，一個文字轉影片模型，可透過小波流變動自編碼器 (WF-VAE) 和擴散轉換器 (DiT) 將 FFA 報告轉換成動態影片。FFA Sora 在匿名資料集上訓練，能準確模擬輸入文字中的疾病特徵，並由客觀指標證實：Fréchet 影片距離 (FVD) = 329.78、學習知覺影像區塊相似度 (LPIPS) = 0.48 和視覺問答分數 (VQAScore) = 0.61。特定評估顯示產生的影片和文字提示之間有可接受的一致性，BERTScore 為 0.35。此外，該模型在檢索評估中展現出強大的隱私保護效能，平均 Recall@K 達到 0.073。人類評估顯示令人滿意的視覺品質，平均分數為 1.570（量表：1 = 最佳，5 = 最差）。此模型解決了與分享大規模 FFA 資料相關的隱私疑慮，並增進醫學教育。
-
-##### **QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation**
-2412.17241v1 by Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong
-
-Medical image segmentation is crucial in assisting medical doctors in making
-diagnoses and enabling accurate automatic diagnosis. While advanced
-convolutional neural networks (CNNs) excel in segmenting regions of interest
-with pixel-level precision, they often struggle with long-range dependencies,
-which is crucial for enhancing model performance. Conversely, transformer
-architectures leverage attention mechanisms to excel in handling long-range
-dependencies. However, the computational complexity of transformers grows
-quadratically, posing resource-intensive challenges, especially with
-high-resolution medical images. Recent research aims to combine CNN and
-transformer architectures to mitigate their drawbacks and enhance performance
-while keeping resource demands low. Nevertheless, existing approaches have not
-fully leveraged the strengths of both architectures to achieve high accuracy
-with low computational requirements. To address this gap, we propose a novel
-architecture for 2D medical image segmentation (QTSeg) that leverages a feature
-pyramid network (FPN) as the image encoder, a multi-level feature fusion (MLFF)
-as the adaptive module between encoder and decoder and a multi-query mask
-decoder (MQM Decoder) as the mask decoder. In the first step, an FPN model
-extracts pyramid features from the input image. Next, MLFF is incorporated
-between the encoder and decoder to adapt features from different encoder stages
-to the decoder. Finally, an MQM Decoder is employed to improve mask generation
-by integrating query tokens with pyramid features at all stages of the mask
-decoder. Our experimental results show that QTSeg outperforms state-of-the-art
-methods across all metrics with lower computational demands than the baseline
-and the existing methods. Code is available at
-https://github.com/tpnam0901/QTSeg (v0.1.0)
-
-摘要：醫療影像分割對於協助醫生診斷和實現精確的自動診斷至關重要。儘管先進的卷積神經網路 (CNN) 在以像素層級精準度分割感興趣區域方面表現出色，但它們通常難以處理長距離依賴性，這對於提升模型效能至關重要。相反地，變形器架構利用注意力機制在處理長距離依賴性方面表現出色。然而，變形器的運算複雜度呈二次方成長，造成資源密集型的挑戰，特別是在處理高解析度醫療影像時。最近的研究旨在結合 CNN 和變形器架構，以減輕其缺點並提升效能，同時保持低資源需求。儘管如此，現有方法尚未充分利用這兩種架構的優點，以在低運算需求下達成高準確度。為了解決這個差距，我們提出了一種針對 2D 醫療影像分割的創新架構 (QTSeg)，它利用特徵金字塔網路 (FPN) 作為影像編碼器，多層級特徵融合 (MLFF) 作為編碼器和解碼器之間的自適應模組，以及多查詢遮罩解碼器 (MQM Decoder) 作為遮罩解碼器。在第一步，FPN 模型從輸入影像中萃取金字塔特徵。接下來，MLFF 被整合在編碼器和解碼器之間，以將來自不同編碼器階段的特徵適應到解碼器。最後，採用 MQM 解碼器，透過在遮罩解碼器的所有階段將查詢權杖與金字塔特徵整合，來改善遮罩生成。我們的實驗結果顯示，QTSeg 在所有指標上都優於最先進的方法，且運算需求低於基線和現有方法。程式碼可在 https://github.com/tpnam0901/QTSeg (v0.1.0) 取得
-
-##### **MatchMiner-AI: An Open-Source Solution for Cancer Clinical Trial Matching**
-2412.17228v1 by Ethan Cerami, Pavel Trukhanov, Morgan A. Paul, Michael J. Hassett, Irbaz B. Riaz, James Lindsay, Emily Mallaber, Harry Klein, Gufran Gungor, Matthew Galvin, Stephen C. Van Nostrand, Joyce Yu, Tali Mazor, Kenneth L. Kehl
-
-Clinical trials drive improvements in cancer treatments and outcomes.
-However, most adults with cancer do not participate in trials, and trials often
-fail to enroll enough patients to answer their scientific questions. Artificial
-intelligence could accelerate matching of patients to appropriate clinical
-trials. Here, we describe the development and evaluation of the MatchMiner-AI
-pipeline for clinical trial searching and ranking. MatchMiner-AI focuses on
-matching patients to potential trials based on core criteria describing
-clinical "spaces," or disease contexts, targeted by a trial. It aims to
-accelerate the human work of identifying potential matches, not to fully
-automate trial screening. The pipeline includes modules for extraction of key
-information from a patient's longitudinal electronic health record; rapid
-ranking of candidate trial-patient matches based on embeddings in vector space;
-and classification of whether a candidate match represents a reasonable
-clinical consideration. Code and synthetic data are available at
-https://huggingface.co/ksg-dfci/MatchMiner-AI . Model weights based on
-synthetic data are available at https://huggingface.co/ksg-dfci/TrialSpace and
-https://huggingface.co/ksg-dfci/TrialChecker . A simple cancer clinical trial
-search engine to demonstrate pipeline components is available at
-https://huggingface.co/spaces/ksg-dfci/trial_search_alpha .
-
-摘要：臨床試驗推動癌症治療和成果的進展。
-然而，大多數癌症成年患者並未參與試驗，而試驗也常無法招募足夠的患者來回答其科學問題。人工
-智慧可以加速將患者與適當的臨床試驗配對。在此，我們描述 MatchMiner-AI
-管線的開發和評估，用於臨床試驗搜尋和排名。MatchMiner-AI 專注於根據描述
-臨床「空間」或試驗針對的疾病背景的核心標準，將患者與潛在試驗配對。其目標是
-加速找出潛在配對的人工工作，而非完全自動化試驗篩選。此管線包含模組，用於
-從患者的縱向電子健康紀錄中萃取關鍵資訊；根據向量空間中的嵌入快速排名候選試驗
-與患者的配對；以及分類候選配對是否代表合理的臨床考量。程式碼和合成資料可於
-https://huggingface.co/ksg-dfci/MatchMiner-AI 取得。根據合成資料的模型權重可於
-https://huggingface.co/ksg-dfci/TrialSpace 和
-https://huggingface.co/ksg-dfci/TrialChecker 取得。一個簡單的癌症臨床試驗
-搜尋引擎用於展示管線組成，可於
-https://huggingface.co/spaces/ksg-dfci/trial_search_alpha 取得。
-
-##### **COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations**
-2412.17180v1 by Vanessa Su, Nirmalya Thakur
-
-This study presents a data-driven analysis of COVID-19 discourse on YouTube,
-examining the sentiment, toxicity, and thematic patterns of video content
-published between January 2023 and October 2024. The analysis involved applying
-advanced natural language processing (NLP) techniques: sentiment analysis with
-VADER, toxicity detection with Detoxify, and topic modeling using Latent
-Dirichlet Allocation (LDA). The sentiment analysis revealed that 49.32% of
-video descriptions were positive, 36.63% were neutral, and 14.05% were
-negative, indicating a generally informative and supportive tone in
-pandemic-related content. Toxicity analysis identified only 0.91% of content as
-toxic, suggesting minimal exposure to toxic content. Topic modeling revealed
-two main themes, with 66.74% of the videos covering general health information
-and pandemic-related impacts and 33.26% focused on news and real-time updates,
-highlighting the dual informational role of YouTube. A recommendation system
-was also developed using TF-IDF vectorization and cosine similarity, refined by
-sentiment, toxicity, and topic filters to ensure relevant and context-aligned
-video recommendations. This system achieved 69% aggregate coverage, with
-monthly coverage rates consistently above 85%, demonstrating robust performance
-and adaptability over time. Evaluation across recommendation sizes showed
-coverage reaching 69% for five video recommendations and 79% for ten video
-recommendations per video. In summary, this work presents a framework for
-understanding COVID-19 discourse on YouTube and a recommendation system that
-supports user engagement while promoting responsible and relevant content
-related to COVID-19.
-
-摘要：本研究透過資料驅動分析 YouTube 上與 COVID-19 相關的論述，探討 2023 年 1 月至 2024 年 10 月間發布的影片內容中的情緒、毒性與主題模式。分析中採用進階自然語言處理 (NLP) 技術：使用 VADER 進行情緒分析、使用 Detoxify 進行毒性偵測，以及使用隱含狄利克雷配置 (LDA) 進行主題建模。情緒分析顯示，49.32% 的影片說明為正面、36.63% 為中立、14.05% 為負面，表示與疫情相關的內容通常具有資訊性且具支持性。毒性分析指出僅有 0.91% 的內容具有毒性，表示接觸到有毒內容的機率很低。主題建模顯示出兩個主要主題，其中 66.74% 的影片涵蓋一般健康資訊與疫情相關影響，而 33.26% 則著重於新聞和即時更新，突顯出 YouTube 的雙重資訊角色。我們也使用 TF-IDF 向量化和餘弦相似度開發了一套推薦系統，並透過情緒、毒性和主題篩選器進行調整，以確保推薦的影片相關且符合脈絡。此系統達到 69% 的總體覆蓋率，且每月的覆蓋率穩定維持在 85% 以上，顯示出穩健的效能和適應力。針對不同推薦數量進行評估，結果顯示推薦五部影片的覆蓋率達到 69%，推薦十部影片的覆蓋率則達到 79%。總之，這項研究提出一個架構，用於了解 YouTube 上與 COVID-19 相關的論述，並提出一個推薦系統，在促進使用者參與的同時，也能宣傳與 COVID-19 相關的負責任且相關的內容。
-
-##### **AI-Based Teat Shape and Skin Condition Prediction for Dairy Management**
-2412.17142v1 by Yuexing Hao, Tiancheng Yuan, Yuting Yang, Aarushi Gupta, Matthias Wieland, Ken Birman, Parminder S. Basran
-
-Dairy owners spend significant effort to keep their animals healthy. There is
-good reason to hope that technologies such as computer vision and artificial
-intelligence (AI) could reduce these costs, yet obstacles arise when adapting
-advanced tools to farming environments. In this work, we adapt AI tools to
-dairy cow teat localization, teat shape, and teat skin condition
-classifications. We also curate a data collection and analysis methodology for
-a Machine Learning (ML) pipeline. The resulting teat shape prediction model
-achieves a mean Average Precision (mAP) of 0.783, and the teat skin condition
-model achieves a mean average precision of 0.828. Our work leverages existing
-ML vision models to facilitate the individualized identification of teat health
-and skin conditions, applying AI to the dairy management industry.
-
-摘要：乳製品業者投入大量心力保持動物健康。有充分理由期待電腦視覺與人工智慧 (AI) 等技術可以降低這些成本，然而在將先進工具應用於農業環境時會遇到障礙。在這項工作中，我們將 AI 工具應用於乳牛乳頭定位、乳頭形狀和乳頭皮膚狀況分類。我們也為機器學習 (ML) 管線整理資料收集和分析方法。產生的乳頭形狀預測模型達到 0.783 的平均準確度 (mAP)，而乳頭皮膚狀況模型達到 0.828 的平均準確度。我們的研究利用現有的 ML 視覺模型，促進乳頭健康和皮膚狀況的個別辨識，將 AI 應用於乳製品管理產業。
-
-##### **An OpenMind for 3D medical vision self-supervised learning**
-2412.17041v1 by Tassilo Wald, Constantin Ulrich, Jonathan Suprijadi, Michal Nohel, Robin Peretzke, Klaus H. Maier-Hein
-
-The field of 3D medical vision self-supervised learning lacks consistency and
-standardization. While many methods have been developed it is impossible to
-identify the current state-of-the-art, due to i) varying and small pre-training
-datasets, ii) varying architectures, and iii) being evaluated on differing
-downstream datasets. In this paper we bring clarity to this field and lay the
-foundation for further method advancements: We a) publish the largest publicly
-available pre-training dataset comprising 114k 3D brain MRI volumes and b)
-benchmark existing SSL methods under common architectures and c) provide the
-code of our framework publicly to facilitate rapid adoption and reproduction.
-This pre-print \textit{only describes} the dataset contribution (a); Data,
-benchmark, and codebase will be made available shortly.
-
-摘要：3D 醫療視覺自監督學習領域缺乏一致性和標準化。雖然已經開發出許多方法，但由於 i) 變化且較小的預訓練資料集、ii) 不同的架構，以及 iii) 在不同的下游資料集上進行評估，因此無法識別目前的最新技術。在本文中，我們為這個領域帶來清晰度，並為進一步的方法進展奠定基礎：我們 a) 發布最大的公開可用預訓練資料集，包含 114k 個 3D 大腦 MRI 卷，以及 b) 在常見架構下對現有的 SSL 方法進行基準測試，以及 c) 公開提供我們架構的程式碼，以促進快速採用和複製。這個預印本\textit{僅描述}資料集貢獻 (a)；資料、基準測試和程式碼庫將很快提供。
-
-##### **On Fusing ChatGPT and Ensemble Learning in Discon-tinuous Named Entity Recognition in Health Corpora**
-2412.16976v1 by Tzu-Chieh Chen, Wen-Yang Lin
-
-Named Entity Recognition has traditionally been a key task in natural
-language processing, aiming to identify and extract important terms from
-unstructured text data. However, a notable challenge for contemporary
-deep-learning NER models has been identifying discontinuous entities, which are
-often fragmented within the text. To date, methods to address Discontinuous
-Named Entity Recognition have not been explored using ensemble learning to the
-best of our knowledge. Furthermore, the rise of large language models, such as
-ChatGPT in recent years, has shown significant effectiveness across many NLP
-tasks. Most existing approaches, however, have primarily utilized ChatGPT as a
-problem-solving tool rather than exploring its potential as an integrative
-element within ensemble learning algorithms. In this study, we investigated the
-integration of ChatGPT as an arbitrator within an ensemble method, aiming to
-enhance performance on DNER tasks. Our method combines five state-of-the-art
-NER models with ChatGPT using custom prompt engineering to assess the
-robustness and generalization capabilities of the ensemble algorithm. We
-conducted experiments on three benchmark medical datasets, comparing our method
-against the five SOTA models, individual applications of GPT-3.5 and GPT-4, and
-a voting ensemble method. The results indicate that our proposed fusion of
-ChatGPT with the ensemble learning algorithm outperforms the SOTA results in
-the CADEC, ShARe13, and ShARe14 datasets, showcasing its potential to enhance
-NLP applications in the healthcare domain.
-
-摘要：命名實體辨識一直是自然語言處理中的關鍵任務，旨在從非結構化文字資料中辨識並擷取重要詞彙。然而，當代深度學習命名實體辨識模型面臨的一項顯著挑戰，就是辨識非連續實體，這些實體通常在文字中呈片段化。迄今為止，我們所知，並未探索使用整體學習來解決非連續命名實體辨識的方法。此外，近年來大型語言模型（如 ChatGPT）的興起，已在許多自然語言處理任務中展現顯著的效能。然而，現有方法大多將 ChatGPT 視為解決問題的工具，而非探索其作為整體學習演算法中整合元素的潛力。在本研究中，我們探討了將 ChatGPT 整合為整體方法中的仲裁者，旨在提升非連續命名實體辨識任務的效能。我們的方法結合了五種最先進的命名實體辨識模型和 ChatGPT，使用自訂提示工程來評估整體演算法的穩健性和泛化能力。我們針對三個基準醫療資料集進行實驗，將我們的方法與五種最先進的模型、GPT-3.5 和 GPT-4 的個別應用，以及投票整體方法進行比較。結果表明，我們提出的將 ChatGPT 與整體學習演算法融合的方法，在 CADEC、ShARe13 和 ShARe14 資料集中的表現優於最先進的結果，展示了其在醫療領域增強自然語言處理應用程式的潛力。
 

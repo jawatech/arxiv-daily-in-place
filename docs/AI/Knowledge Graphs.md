@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
+|**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166v1](http://arxiv.org/abs/2501.03166v1)|[link](https://github.com/aliwister/ast-icl)|
 |**2025-01-06**|**Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment**|Chongxian Chen et.al.|[2501.03085v1](http://arxiv.org/abs/2501.03085v1)|null|
 |**2025-01-06**|**Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**|Yubo Wang et.al.|[2501.02844v1](http://arxiv.org/abs/2501.02844v1)|null|
@@ -13,12 +15,13 @@
 |**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644v1](http://arxiv.org/abs/2501.01644v1)|null|
 |**2025-01-02**|**Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection**|Kedi Chen et.al.|[2501.02020v1](http://arxiv.org/abs/2501.02020v1)|null|
 |**2025-01-01**|**Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization**|Weiqi Wu et.al.|[2501.00888v1](http://arxiv.org/abs/2501.00888v1)|[link](https://github.com/Alibaba-NLP/CHRONOS)|
+|**2025-01-01**|**Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition**|Wei Zhang et.al.|[2501.03257v1](http://arxiv.org/abs/2501.03257v1)|null|
 |**2025-01-01**|**SmartSpatial: Enhancing the 3D Spatial Arrangement Capabilities of Stable Diffusion Models and Introducing a Novel 3D Spatial Evaluation Framework**|Mao Xun Huang et.al.|[2501.01998v1](http://arxiv.org/abs/2501.01998v1)|null|
 |**2024-12-31**|**Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**|Yipeng Kang et.al.|[2501.00581v1](http://arxiv.org/abs/2501.00581v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**The Potential of LLMs in Automating Software Testing: From Generation to Reporting**|Betim Sherifi et.al.|[2501.00217v1](http://arxiv.org/abs/2501.00217v1)|null|
 |**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136v1](http://arxiv.org/abs/2501.00136v1)|[link](https://github.com/Taniya-Das/video_annotation)|
-|**2024-12-30**|**Machine Learning-Based Security Policy Analysis**|Krish Jain et.al.|[2501.00085v1](http://arxiv.org/abs/2501.00085v1)|null|
+|**2024-12-30**|**Machine Learning-Based Security Policy Analysis**|Krish Jain et.al.|[2501.00085v2](http://arxiv.org/abs/2501.00085v2)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995v1](http://arxiv.org/abs/2412.20995v1)|null|
 |**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942v1](http://arxiv.org/abs/2412.20942v1)|null|
 |**2024-12-29**|**ICLR: In-Context Learning of Representations**|Core Francisco Park et.al.|[2501.00070v1](http://arxiv.org/abs/2501.00070v1)|null|
@@ -99,11 +102,48 @@
 |**2024-12-11**|**GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction**|Rongzheng Wang et.al.|[2412.12152v1](http://arxiv.org/abs/2412.12152v1)|null|
 |**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434v1](http://arxiv.org/abs/2412.10434v1)|[link](https://github.com/leonyuancode/stockgql)|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
-|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v2](http://arxiv.org/abs/2412.08038v2)|null|
-|**2024-12-10**|**Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education**|Chengshuai Zhao et.al.|[2412.14191v1](http://arxiv.org/abs/2412.14191v1)|null|
-|**2024-12-10**|**Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**|Marcos Da Silveira et.al.|[2412.09644v1](http://arxiv.org/abs/2412.09644v1)|null|
 
 #### Abstracts
+##### **Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**
+2501.03566v1 by Benedikt Reitemeyer, Hans-Georg Fill
+
+The role of large language models (LLMs) in enterprise modeling has recently
+started to shift from academic research to that of industrial applications.
+Thereby, LLMs represent a further building block for the machine-supported
+generation of enterprise models. In this paper we employ a knowledge
+graph-based approach for enterprise modeling and investigate the potential
+benefits of LLMs in this context. In addition, the findings of an expert survey
+and ChatGPT-4o-based experiments demonstrate that LLM-based model generations
+exhibit minimal variability, yet remain constrained to specific tasks, with
+reliability declining for more intricate tasks. The survey results further
+suggest that the supervision and intervention of human modeling experts are
+essential to ensure the accuracy and integrity of the generated models.
+
+摘要：大型語言模型 (LLM) 在企業建模中的角色最近已開始從學術研究轉變為產業應用。因此，LLM 代表了機器支援的企業模型生成的進一步建構模組。在本文中，我們採用基於知識圖表的企業建模方法，並探討 LLM 在此脈絡中的潛在效益。此外，專家調查和基於 ChatGPT-4o 的實驗結果表明，基於 LLM 的模型生成展現最小的可變性，但仍侷限於特定任務，而可靠性會隨著任務的複雜性而下降。調查結果進一步表明，人類建模專家的監督和介入對於確保生成模型的準確性和完整性至關重要。
+
+##### **KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**
+2501.03560v1 by Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Henry Xiao, Yunyao Li
+
+Multilingual knowledge graphs (KGs) provide high-quality relational and
+textual information for various NLP applications, but they are often
+incomplete, especially in non-English languages. Previous research has shown
+that combining information from KGs in different languages aids either
+Knowledge Graph Completion (KGC), the task of predicting missing relations
+between entities, or Knowledge Graph Enhancement (KGE), the task of predicting
+missing textual information for entities. Although previous efforts have
+considered KGC and KGE as independent tasks, we hypothesize that they are
+interdependent and mutually beneficial. To this end, we introduce KG-TRICK, a
+novel sequence-to-sequence framework that unifies the tasks of textual and
+relational information completion for multilingual KGs. KG-TRICK demonstrates
+that: i) it is possible to unify the tasks of KGC and KGE into a single
+framework, and ii) combining textual information from multiple languages is
+beneficial to improve the completeness of a KG. As part of our contributions,
+we also introduce WikiKGE10++, the largest manually-curated benchmark for
+textual information completion of KGs, which features over 25,000 entities
+across 10 diverse languages.
+
+摘要：多語言知識圖譜 (KG) 為各種 NLP 應用程式提供高品質的關係和文字資訊，但它們通常是不完整的，特別是非英語語言。先前的研究顯示，結合不同語言中 KG 的資訊有助於知識圖譜完成功能 (KGC)，即預測實體之間遺失的關係，或知識圖譜增強 (KGE)，即預測實體遺失的文字資訊。儘管先前的努力將 KGC 和 KGE 視為獨立的任務，我們假設它們是相互依賴且互利的。為此，我們引入了 KG-TRICK，一個新穎的序列到序列架構，它統一了多語言 KG 的文字和關係資訊完成任務。KG-TRICK 證明：i) 可以將 KGC 和 KGE 的任務統一到單一架構中，以及 ii) 結合多種語言的文字資訊有助於提高 KG 的完整性。作為我們貢獻的一部分，我們還引入了 WikiKGE10++，這是 KG 文字資訊完成最大的手動整理基準，其特點是超過 10 種不同語言中的 25,000 個實體。
+
 ##### **Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**
 2501.03166v1 by Ali Al-Lawati, Jason Lucas, Prasenjit Mitra
 
@@ -388,6 +428,29 @@ where a related news corpus is provided for summarization.
 
 摘要：在資訊快速變遷的領域中，從大量的事件相關內容建構連貫的時間軸的能力變得越來越重要且具有挑戰性。複雜性在於彙總相關文件，以圍繞中心主題建立有意義的事件圖。本文提出了 CHRONOS - 開放領域新聞時間軸摘要的因果標題檢索，透過反覆自我提問，提供整合大型語言模型 (LLM) 來處理時間軸摘要 (TLS) 任務的新觀點。透過反覆思考事件如何連結，並對特定新聞主題提出新問題，以從線上或離線知識庫收集資訊，LLM 會根據每輪檢索的文件產生並更新時間摘要。此外，我們策劃了 Open-TLS，一個由專業記者編寫的近期新聞主題時間軸的新穎資料集，以評估開放領域的 TLS，其中資訊過載使得無法從網路上找到全面的相關文件。我們的實驗表明，CHRONOS 不僅擅長開放領域的時間軸摘要，而且還與專為封閉領域應用設計的現有最先進系統的效能相媲美，其中提供了相關的新聞語料庫用於摘要。
 
+##### **Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition**
+2501.03257v1 by Wei Zhang, Tian-Hao Zhang, Chao Luo, Hui Zhou, Chao Yang, Xinyuan Qian, Xu-Cheng Yin
+
+Recently, end-to-end automatic speech recognition has become the mainstream
+approach in both industry and academia. To optimize system performance in
+specific scenarios, the Weighted Finite-State Transducer (WFST) is extensively
+used to integrate acoustic and language models, leveraging its capacity to
+implicitly fuse language models within static graphs, thereby ensuring robust
+recognition while also facilitating rapid error correction. However, WFST
+necessitates a frame-by-frame search of CTC posterior probabilities through
+autoregression, which significantly hampers inference speed. In this work, we
+thoroughly investigate the spike property of CTC outputs and further propose
+the conjecture that adjacent frames to non-blank spikes carry semantic
+information beneficial to the model. Building on this, we propose the Spike
+Window Decoding algorithm, which greatly improves the inference speed by making
+the number of frames decoded in WFST linearly related to the number of spiking
+frames in the CTC output, while guaranteeing the recognition performance. Our
+method achieves SOTA recognition accuracy with significantly accelerates
+decoding speed, proven across both AISHELL-1 and large-scale In-House datasets,
+establishing a pioneering approach for integrating CTC output with WFST.
+
+摘要：近年来，端到端的自动语音识别已成为工业界和学术界的流行方法。为了优化特定场景中的系统性能，加权有限状态转换器 (WFST) 被广泛用于集成声学和语言模型，利用其在静态图中隐式融合语言模型的能力，从而确保稳健的识别，同时促进快速纠错。然而，WFST 需要通过自回归逐帧搜索 CTC 后验概率，这极大地阻碍了推理速度。在这项工作中，我们彻底研究了 CTC 输出的尖峰特性，并进一步提出一个猜想，即非空白尖峰的相邻帧携带对模型有益的语义信息。在此基础上，我们提出了 Spike Window 解码算法，该算法通过使 WFST 中解码的帧数与 CTC 输出中尖峰帧数线性相关，同时保证识别性能，极大地提高了推理速度。我们的方法在 AISHELL-1 和大规模内部数据集上都实现了 SOTA 识别准确度，并显著加快了解码速度，为将 CTC 输出与 WFST 集成建立了先驱方法。
+
 ##### **SmartSpatial: Enhancing the 3D Spatial Arrangement Capabilities of Stable Diffusion Models and Introducing a Novel 3D Spatial Evaluation Framework**
 2501.01998v1 by Mao Xun Huang, Hen-Hsen Huang
 
@@ -489,7 +552,7 @@ background knowledge in the construction of knowledge graphs.
 摘要：影片理解領域中一項具有挑戰性的任務，是從影片輸入中萃取語意內容。現有的大部分系統使用語言模型以自然語言句子描述影片，但這有幾個主要的缺點。此類系統可能過度依賴語言模型組件，並根據自然語言文字中的統計規律，而非影片的視覺內容，來建構其輸出。此外，自然語言註解無法輕易地由電腦處理，難以使用效能指標進行評估，且無法輕易翻譯成不同的自然語言。在本文中，我們提出一個使用知識圖表為影片加上註解的方法，並藉此避免這些問題。具體來說，我們提出一個基於深度學習的模型來執行這項任務，它會先預測個體對，然後再預測個體之間的關係。此外，我們提出一個模型延伸，以將背景知識納入知識圖表的建構中。
 
 ##### **Machine Learning-Based Security Policy Analysis**
-2501.00085v1 by Krish Jain, Joann Sum, Pranav Kapoor, Amir Eaman
+2501.00085v2 by Krish Jain, Joann Sum, Pranav Kapoor, Amir Eaman
 
 Security-Enhanced Linux (SELinux) is a robust security mechanism that
 enforces mandatory access controls (MAC), but its policy language's complexity
@@ -511,7 +574,7 @@ of graph-based modeling and machine learning provides a more sophisticated and
 automated approach to understanding and analyzing complex SELinux policies
 compared to traditional manual analysis methods.
 
-摘要：安全增強型 Linux (SELinux) 是一個強大的安全機制，它強制執行強制訪問控制 (MAC)，但其策略語言的複雜性為策略分析和管理帶來了挑戰。本研究探討了使用基於圖形技術結合機器學習方法來自動化 SELinux 策略分析以檢測策略異常。本研究探討了兩個關鍵問題：是否可以通過圖形分析自動化 SELinux 策略分析，以及不同的異常檢測模型在分析 SELinux 策略時有何比較？我們將通過評估它們在檢測策略違規和異常方面的有效性來比較不同的機器學習模型。我們的做法是利用 Neo4j 來進行策略的圖形表示，Node2vec 將這些圖形結構轉換為有意義的向量嵌入，我們的機器學習模型可以處理這些嵌入。在我們的結果中，MLP 神經網路在不同的資料集大小中始終表現出優異的性能，在平衡的準確度、精確度和召回率指標下實現了 95% 的準確度，而隨機森林和 SVM 模型在檢測策略違規方面表現出有競爭力但略低的性能。與傳統的手動分析方法相比，這種基於圖形的建模和機器學習的組合提供了一種更精緻和自動化的方式來理解和分析複雜的 SELinux 策略。
+摘要：SELinux（安全強化型 Linux）是一種強大的安全機制，它強制執行強制訪問控制 (MAC)，但其政策語言的複雜性對政策分析和管理提出了挑戰。本研究探討了使用基於圖形技術結合機器學習方法來自動化 SELinux 政策分析，以檢測政策異常。本研究解決了兩個關鍵問題：是否能透過圖形分析自動化 SELinux 政策分析，以及不同的異常檢測模型在分析 SELinux 政策時有何比較？我們將比較不同的機器學習模型，評估它們在檢測政策違規和異常方面的有效性。我們的做法利用 Neo4j 進行政策的圖形表示，Node2vec 將這些圖形結構轉換成有意義的向量嵌入，我們的機器學習模型可以處理這些嵌入。在我們的結果中，MLP 神經網路在不同的資料集大小中始終表現出優異的效能，在平衡的準確度、精確度和召回率指標下達到 95% 的準確度，而隨機森林和 SVM 模型在檢測政策違規方面表現出競爭力，但效能略低。這種基於圖形建模和機器學習的組合提供了一個更精緻且自動化的方式，與傳統的手動分析方法相比，可以理解和分析複雜的 SELinux 政策。
 
 ##### **KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**
 2412.20995v1 by Siyuan Fang, Kaijing Ma, Tianyu Zheng, Xinrun Du, Ningxuan Lu, Ge Zhang, Qingkun Tang
@@ -2500,79 +2563,4 @@ outperforms the state-of-the-art baseline, with improvements of 11.90%, and
 3.10% in terms of accuracy on the two datasets, respectively.
 
 摘要：<paragraph>軟體供應商通常會在沒有提供足夠的諮詢（例如常見漏洞和曝險）或延遲透過資源（例如國家漏洞資料庫）更新的情況下，無聲地發布安全性修補程式。因此，偵測這些安全性修補程式以確保軟體維護安全至關重要。然而，現有方法面臨以下挑戰：(1) 它們主要關注修補程式本身的資訊，忽略了儲存庫中複雜的相依性。(2) 安全性修補程式通常涉及多個函式和檔案，增加了良好學習表示形式的難度。為了緩解上述挑戰，本文提出了一個名為 RepoSPD 的儲存庫層級安全性修補程式偵測架構，它包含三個關鍵元件：1) 儲存庫層級圖形建構，RepoCPG，它透過合併儲存庫層級的前修補程式和後修補程式原始碼來表示軟體修補程式；2) 結構感知修補程式表示形式，它融合了圖形和序列分支，旨在理解多個程式碼變更之間的關係；3) 漸進式學習，它有助於模型平衡語意和結構資訊。為了評估 RepoSPD，我們在安全性修補程式偵測中採用了兩個廣泛使用的資料集：SPI-DB 和 PatchDB。我們進一步將這些資料集擴充套件到儲存庫層級，分別納入了 C/C++ 程式語言中總計 20,238 和 28,781 個版本的儲存庫，表示為 SPI-DB* 和 PatchDB*。我們將 RepoSPD 與六種現有的安全性修補程式偵測方法和五種靜態工具進行比較。我們的實驗結果表明，RepoSPD 優於最先進的基準，在兩個資料集上的準確性分別提高了 11.90% 和 3.10%。</paragraph>
-
-##### **Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**
-2412.08038v2 by Hang Gao, Chenhao Zhang, Fengge Wu, Junsuo Zhao, Changwen Zheng, Huaping Liu
-
-Graph representation learning methods are highly effective in handling
-complex non-Euclidean data by capturing intricate relationships and features
-within graph structures. However, traditional methods face challenges when
-dealing with heterogeneous graphs that contain various types of nodes and edges
-due to the diverse sources and complex nature of the data. Existing
-Heterogeneous Graph Neural Networks (HGNNs) have shown promising results but
-require prior knowledge of node and edge types and unified node feature
-formats, which limits their applicability. Recent advancements in graph
-representation learning using Large Language Models (LLMs) offer new solutions
-by integrating LLMs' data processing capabilities, enabling the alignment of
-various graph representations. Nevertheless, these methods often overlook
-heterogeneous graph data and require extensive preprocessing. To address these
-limitations, we propose a novel method that leverages the strengths of both LLM
-and GNN, allowing for the processing of graph data with any format and type of
-nodes and edges without the need for type information or special preprocessing.
-Our method employs LLM to automatically summarize and classify different data
-formats and types, aligns node features, and uses a specialized GNN for
-targeted learning, thus obtaining effective graph representations for
-downstream tasks. Theoretical analysis and experimental validation have
-demonstrated the effectiveness of our method.
-
-摘要：圖表表徵學習方法在處理複雜非歐幾里得資料時非常有效，它能捕捉圖表結構中的複雜關係和特徵。然而，傳統方法在處理異質圖表時會面臨挑戰，因為異質圖表包含各種節點和邊緣類型，這是由於資料來源多樣且性質複雜。現有的異質圖神經網路 (HGNN) 已展現出有前景的成果，但需要事先知道節點和邊緣類型，以及統一的節點特徵格式，這限制了它們的適用性。最近在使用大型語言模型 (LLM) 進行圖表表徵學習方面取得的進展提供了新的解決方案，方法是整合 LLM 的資料處理功能，讓各種圖表表徵得以對齊。儘管如此，這些方法經常忽略異質圖表資料，而且需要廣泛的預處理。為了解決這些限制，我們提出了一種新方法，它同時利用了 LLM 和 GNN 的優點，允許處理任何格式和類型節點和邊緣的圖表資料，而不需要類型資訊或特殊預處理。我們的這個方法採用 LLM 自動摘要和分類不同的資料格式和類型，對齊節點特徵，並使用專門的 GNN 進行目標學習，從而為下游任務取得有效的圖表表徵。理論分析和實驗驗證已證明我們這個方法的有效性。
-
-##### **Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education**
-2412.14191v1 by Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, Zhen Tan, Yuli Deng, Ying-Chih Chen, Huan Liu
-
-Integrating AI into education has the potential to transform the teaching of
-science and technology courses, particularly in the field of cybersecurity.
-AI-driven question-answering (QA) systems can actively manage uncertainty in
-cybersecurity problem-solving, offering interactive, inquiry-based learning
-experiences. Large language models (LLMs) have gained prominence in AI-driven
-QA systems, offering advanced language understanding and user engagement.
-However, they face challenges like hallucinations and limited domain-specific
-knowledge, which reduce their reliability in educational settings. To address
-these challenges, we propose CyberRAG, an ontology-aware retrieval-augmented
-generation (RAG) approach for developing a reliable and safe QA system in
-cybersecurity education. CyberRAG employs a two-step approach: first, it
-augments the domain-specific knowledge by retrieving validated cybersecurity
-documents from a knowledge base to enhance the relevance and accuracy of the
-response. Second, it mitigates hallucinations and misuse by integrating a
-knowledge graph ontology to validate the final answer. Experiments on publicly
-available cybersecurity datasets show that CyberRAG delivers accurate, reliable
-responses aligned with domain knowledge, demonstrating the potential of AI
-tools to enhance education.
-
-摘要：將 AI 整合到教育中，有潛力轉型科學和技術課程的教學，特別是在網路安全領域。AI 驅動的問題解答 (QA) 系統可以積極管理網路安全問題解決中的不確定性，提供互動式、基於探究的學習體驗。大型語言模型 (LLM) 在 AI 驅動的 QA 系統中獲得顯著地位，提供進階的語言理解和使用者參與。然而，它們面臨幻覺和特定領域知識有限的挑戰，這會降低它們在教育環境中的可靠性。為了應對這些挑戰，我們提出 CyberRAG，一種意識到本體論的檢索增強生成 (RAG) 方法，用於在網路安全教育中開發可靠且安全的 QA 系統。CyberRAG 採用兩步驟方法：首先，它透過從知識庫中檢索已驗證的網路安全文件來擴充特定領域的知識，以增強回應的相關性和準確性。其次，它透過整合知識圖譜本體論來驗證最終答案，以減輕幻覺和誤用。在公開的網路安全資料集上進行的實驗顯示，CyberRAG 提供準確、可靠的回應，符合領域知識，證明了 AI 工具增強教育的潛力。
-
-##### **Combining knowledge graphs and LLMs for hazardous chemical information management and reuse**
-2412.09644v1 by Marcos Da Silveira, Louis Deladiennee, Kheira Acem, Oona Freudenthal
-
-Human health is increasingly threatened by exposure to hazardous substances,
-particularly persistent and toxic chemicals. The link between these substances,
-often encountered in complex mixtures, and various diseases are demonstrated in
-scientific studies. However, this information is scattered across several
-sources and hardly accessible by humans and machines. This paper evaluates
-current practices for publishing/accessing information on hazardous chemicals
-and proposes a novel platform designed to facilitate retrieval of critical
-chemical data in urgent situations. The platform aggregates information from
-multiple sources and organizes it into a structured knowledge graph. Users can
-access this information through a visual interface such as Neo4J Bloom and
-dashboards, or via natural language queries using a Chatbot. Our findings
-demonstrate a significant reduction in the time and effort required to access
-vital chemical information when datasets follow FAIR principles. Furthermore,
-we discuss the lessons learned from the development and implementation of this
-platform and provide recommendations for data owners and publishers to enhance
-data reuse and interoperability. This work aims to improve the accessibility
-and usability of chemical information by healthcare professionals, thereby
-supporting better health outcomes and informed decision-making in the face of
-patients exposed to chemical intoxication risks.
-
-摘要：人類健康越來越受到接觸有害物質的威脅，尤其是持久性和有毒的化學物質。科學研究已證明這些物質（通常存在於複雜的混合物中）與各種疾病之間的關聯。然而，這些資訊分散在多個來源中，人類和機器都很難取得。本文評估了當前發布/取得有關有害化學物質資訊的慣例，並提出一個新穎的平台，旨在促進在緊急情況下取得關鍵化學資料。此平台匯集來自多個來源的資訊，並將其組織成結構化的知識圖譜。使用者可以透過視覺化介面（例如 Neo4J Bloom 和儀表板）或使用聊天機器人的自然語言查詢來取得這些資訊。我們的研究結果表明，當資料集遵循 FAIR 原則時，取得重要化學資訊所需的時間和精力會大幅減少。此外，我們討論從此平台的開發和實作中學到的經驗教訓，並為資料擁有者和發布者提供建議，以增強資料再利用和互操作性。這項工作旨在改善醫療保健專業人員取得和使用化學資訊的方式，從而支持更好的健康結果，並在面對接觸化學中毒風險的患者時做出明智的決策。
 

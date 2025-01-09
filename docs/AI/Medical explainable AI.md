@@ -24,7 +24,7 @@
 |**2024-10-12**|**Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**|Abdullah Mamun et.al.|[2410.09635v1](http://arxiv.org/abs/2410.09635v1)|[link](https://github.com/ab9mamun/aimen)|
 |**2024-10-10**|**Artificial intelligence techniques in inherited retinal diseases: A review**|Han Trinh et.al.|[2410.09105v1](http://arxiv.org/abs/2410.09105v1)|null|
 |**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|[link](https://github.com/ixa-ehu/antidote-casimedicos)|
-|**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v1](http://arxiv.org/abs/2410.01855v1)|null|
+|**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v2](http://arxiv.org/abs/2410.01855v2)|null|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
 |**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
 |**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
@@ -75,7 +75,7 @@
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v3](http://arxiv.org/abs/2405.06270v3)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766v1](http://arxiv.org/abs/2405.05766v1)|null|
 |**2024-05-05**|**Region-specific Risk Quantification for Interpretable Prognosis of COVID-19**|Zhusi Zhong et.al.|[2405.02815v1](http://arxiv.org/abs/2405.02815v1)|[link](https://github.com/zzs95/RSP_COVID)|
-|**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v1](http://arxiv.org/abs/2405.02334v1)|null|
+|**2024-04-26**|**Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**|Francesco Prinzi et.al.|[2405.02334v2](http://arxiv.org/abs/2405.02334v2)|null|
 |**2024-04-25**|**Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**|Yunfei Ge et.al.|[2404.16957v1](http://arxiv.org/abs/2404.16957v1)|null|
 |**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139v1](http://arxiv.org/abs/2404.13139v1)|null|
 |**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|[link](https://github.com/mnusrat786/masters-thesis)|
@@ -684,7 +684,7 @@ this challenging dataset for the argument mining task.
 摘要：解釋人工智慧 (AI) 的決策是現在 AI 的一項重大挑戰，特別是應用於像醫學和法律等敏感情境時。然而，解釋決策背後理由的需求也是基於人類的考量的一個主要問題，因為有必要證明為什麼做出某個決策。例如，住院醫師不僅需要提供（可能是正確的）診斷，還需要解釋他們如何達成某個結論。因此，開發新的工具來幫助住院醫師訓練他們的解釋技巧是教育中 AI 的一項核心目標。在本文中，我們遵循這個方向，並且根據我們的了解，提出第一個多語言醫學問答資料集，其中臨床病例的正確和不正確診斷都附有由醫生撰寫的自然語言解釋。這些解釋已使用論證組成（即前提、主張）和論證關係（即攻擊、支持）進行手動註解，產生多語言 CasiMedicos-Arg 資料集，其中包含 558 個具有解釋的四種語言（英語、西班牙語、法語、義大利語）的臨床病例，我們註解了 5021 個主張、2313 個前提、2431 個支持關係和 1106 個攻擊關係。我們最後展示了競爭基準如何針對論證探勘任務執行此具挑戰性的資料集。
 
 ##### **Explainable Diagnosis Prediction through Neuro-Symbolic Integration**
-2410.01855v1 by Qiuhao Lu, Rui Li, Elham Sagheb, Andrew Wen, Jinlian Wang, Liwei Wang, Jungwei W. Fan, Hongfang Liu
+2410.01855v2 by Qiuhao Lu, Rui Li, Elham Sagheb, Andrew Wen, Jinlian Wang, Liwei Wang, Jungwei W. Fan, Hongfang Liu
 
 Diagnosis prediction is a critical task in healthcare, where timely and
 accurate identification of medical conditions can significantly impact patient
@@ -709,7 +709,7 @@ development of equitable healthcare solutions. Future research will focus on
 extending these methods to larger and more diverse datasets to further validate
 their applicability across different medical conditions and populations.
 
-摘要：診斷預測是醫療保健中的一項關鍵任務，及時且準確地識別醫療狀況會對患者的結果產生重大影響。傳統機器學習和深度學習模型已在此領域取得顯著成功，但通常缺乏可解釋性，這是臨床環境中的關鍵要求。在本研究中，我們探討了神經符號方法，特別是邏輯神經網路 (LNN)，以開發可解釋的診斷預測模型。基本上，我們設計並實作了基於 LNN 的模型，該模型透過邏輯規則和可學習的閾值整合領域特定的知識。我們的模型，特別是 $M_{\text{multi-pathway}}$ 和 $M_{\text{comprehensive}}$，表現出優於傳統模型（如邏輯迴歸、SVM 和隨機森林）的卓越效能，在糖尿病預測的案例研究中，達到了更高的準確度（高達 80.52%）和 AUROC 分數（高達 0.8457）。LNN 模型中學習的權重和閾值提供了對特徵貢獻的直接見解，增強了可解釋性，同時不損害預測能力。這些發現突顯了神經符號方法在彌合醫療保健 AI 應用中準確性和可解釋性差距方面的潛力。透過提供透明且適應性強的診斷模型，我們的研究有助於精準醫療的進步，並支援公平醫療保健解決方案的開發。未來的研究將專注於將這些方法擴展到更大且更多樣化的資料集，以進一步驗證其在不同醫療狀況和人群中的適用性。
+摘要：診斷預測是醫療保健中的關鍵任務，及時且準確地識別醫療狀況會顯著影響患者的結果。傳統的機器學習和深度學習模型已在這個領域取得顯著成功，但通常缺乏可解釋性，這在臨床環境中是一項關鍵要求。在本研究中，我們探討了神經符號方法的應用，特別是邏輯神經網路 (LNN)，以開發用於診斷預測的可解釋模型。基本上，我們設計並實作了基於 LNN 的模型，這些模型透過具有可學習閾值的邏輯規則整合領域特定知識。我們的模型，特別是 $M_{\text{multi-pathway}}$ 和 $M_{\text{comprehensive}}$，表現出優於傳統模型（例如邏輯迴歸、SVM 和隨機森林）的優異效能，在糖尿病預測的案例研究中達到了更高的準確度（高達 80.52%）和 AUROC 分數（高達 0.8457）。LNN 模型中學習到的權重和閾值提供了對特徵貢獻的直接見解，增強了可解釋性，同時不影響預測能力。這些發現突顯了神經符號方法在彌合醫療保健 AI 應用中準確性和可解釋性差距方面的潛力。透過提供透明且適應性強的診斷模型，我們的研究有助於推進精準醫療，並支援公平醫療保健解決方案的開發。未來的研究將專注於將這些方法擴展到更大且更多樣化的資料集，以進一步驗證其在不同醫療狀況和人群中的適用性。
 
 ##### **Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**
 2410.00366v1 by Prasenjit Maji, Amit Kumar Mondal, Hemanta Kumar Mondal, Saraju P. Mohanty
@@ -2009,33 +2009,33 @@ decision making and enhancing AI system trustworthiness.
 摘要：COVID-19 疫情對全球公共衛生造成壓力，必須進行準確的診斷和干預，以控制疾病傳播並降低死亡率。本文介紹了一個可解釋的深度生存預測模型，專門設計用於透過胸部 X 光 (CXR) 影像改善對 COVID-19 預後的理解和信賴。透過整合大規模預訓練影像編碼器、風險特定 Grad-CAM 和解剖區域偵測技術，我們的做法產生區域可解釋的結果，有效捕捉必要的疾病特徵，同時專注於罕見但關鍵的異常區域。我們的模型預測結果透過風險區域定位提供增強的清晰度和透明度，讓臨床醫生能夠在更了解預後見解的情況下，就 COVID-19 診斷做出明智的決策。我們在多中心生存資料集上評估所提出的方法，並透過量化和質化評估證明其有效性，達到優異的 C 指數（0.764 和 0.727）和時間相關 AUC（0.799 和 0.691）。這些結果表明，我們可解釋的深度生存預測模型在風險預測方面超越傳統的生存分析方法，提升臨床決策的解釋性，並增強 AI 系統的信賴度。
 
 ##### **Rad4XCNN: a new agnostic method for post-hoc global explanation of CNN-derived features by means of radiomics**
-2405.02334v1 by Francesco Prinzi, Carmelo Militello, Calogero Zarcaro, Tommaso Vincenzo Bartolotta, Salvatore Gaglio, Salvatore Vitabile
+2405.02334v2 by Francesco Prinzi, Carmelo Militello, Calogero Zarcaro, Tommaso Vincenzo Bartolotta, Salvatore Gaglio, Salvatore Vitabile
 
-In the last years, artificial intelligence (AI) in clinical decision support
-systems (CDSS) played a key role in harnessing machine learning and deep
-learning architectures. Despite their promising capabilities, the lack of
-transparency and explainability of AI models poses significant challenges,
-particularly in medical contexts where reliability is a mandatory aspect.
-Achieving transparency without compromising predictive accuracy remains a key
-challenge. This paper presents a novel method, namely Rad4XCNN, to enhance the
-predictive power of CNN-derived features with the interpretability inherent in
-radiomic features. Rad4XCNN diverges from conventional methods based on
-saliency map, by associating intelligible meaning to CNN-derived features by
-means of Radiomics, offering new perspectives on explanation methods beyond
-visualization maps. Using a breast cancer classification task as a case study,
-we evaluated Rad4XCNN on ultrasound imaging datasets, including an online
-dataset and two in-house datasets for internal and external validation. Some
-key results are: i) CNN-derived features guarantee more robust accuracy when
-compared against ViT-derived and radiomic features; ii) conventional
-visualization map methods for explanation present several pitfalls; iii)
-Rad4XCNN does not sacrifice model accuracy for their explainability; iv)
-Rad4XCNN provides global explanation insights enabling the physician to analyze
-the model outputs and findings. In addition, we highlight the importance of
-integrating interpretability into AI models for enhanced trust and adoption in
-clinical practice, emphasizing how our method can mitigate some concerns
-related to explainable AI methods.
+In recent years, machine learning-based clinical decision support systems
+(CDSS) have played a key role in the analysis of several medical conditions.
+Despite their promising capabilities, the lack of transparency in AI models
+poses significant challenges, particularly in medical contexts where
+reliability is a mandatory aspect. However, it appears that explainability is
+inversely proportional to accuracy. For this reason, achieving transparency
+without compromising predictive accuracy remains a key challenge. This paper
+presents a novel method, namely Rad4XCNN, to enhance the predictive power of
+CNN-derived features with the inherent interpretability of radiomic features.
+Rad4XCNN diverges from conventional methods based on saliency maps, by
+associating intelligible meaning to CNN-derived features by means of Radiomics,
+offering new perspectives on explanation methods beyond visualization maps.
+Using a breast cancer classification task as a case study, we evaluated
+Rad4XCNN on ultrasound imaging datasets, including an online dataset and two
+in-house datasets for internal and external validation. Some key results are:
+i) CNN-derived features guarantee more robust accuracy when compared against
+ViT-derived and radiomic features; ii) conventional visualization map methods
+for explanation present several pitfalls; iii) Rad4XCNN does not sacrifice
+model accuracy for their explainability; iv) Rad4XCNN provides a global
+explanation enabling the physician to extract global insights and findings. Our
+method can mitigate some concerns related to the explainability-accuracy
+trade-off. This study highlighted the importance of proposing new methods for
+model explanation without affecting their accuracy.
 
-摘要：<paragraph>在過去幾年，臨床決策支援系統 (CDSS) 中的人工智慧 (AI) 在利用機器學習和深度學習架構方面發揮了關鍵作用。儘管 AI 模型具有令人滿意的能力，但缺乏透明度和可解釋性，特別是在可靠性為必要考量的醫療背景下，這帶來了重大的挑戰。在不影響預測精準度的情況下實現透明度仍然是一項關鍵挑戰。本文提出了一種新方法，即 Rad4XCNN，以增強 CNN 衍生特徵的預測能力，同時具備放射特徵固有的可解釋性。Rad4XCNN 不同於基於顯著性圖的傳統方法，它通過放射組學將可理解的含義與 CNN 衍生特徵關聯起來，為超越視覺化圖表的解釋方法提供了新的觀點。我們以乳癌分類任務作為案例研究，在超音波影像資料集上評估 Rad4XCNN，包括一個線上資料集和兩個用於內部和外部驗證的內部資料集。一些關鍵結果如下：i) 與 ViT 衍生特徵和放射特徵相比，CNN 衍生特徵保證了更穩健的準確度；ii) 傳統的視覺化圖解釋方法存在一些缺陷；iii) Rad4XCNN 沒有犧牲模型準確度來換取其可解釋性；iv) Rad4XCNN 提供了全局解釋見解，使醫師能夠分析模型輸出和發現。此外，我們強調將可解釋性整合到 AI 模型中對於增強臨床實務中的信任和採用至關重要，並強調了我們的方法如何能緩解與可解釋 AI 方法相關的一些疑慮。</paragraph>
+摘要：<paragraph>近年来，基于机器学习的临床决策支持系统 (CDSS) 在多种疾病的分析中扮演了关键角色。尽管它们具有广阔的前景，但 AI 模型缺乏透明度，尤其在医疗领域，可靠性是强制性方面，这带来了重大挑战。然而，解释性似乎与准确性成反比。因此，在不影响预测准确性的情况下实现透明度仍然是一个关键挑战。本文提出了一种新方法，即 Rad4XCNN，以通过放射组学的内在可解释性来增强 CNN 衍生特征的预测能力。Rad4XCNN 通过放射组学将可理解的含义与 CNN 衍生特征关联起来，从而偏离了基于显着性图的传统方法，为超越可视化图的解释方法提供了新的视角。使用乳腺癌分类任务作为案例研究，我们在超声成像数据集上评估了 Rad4XCNN，包括一个在线数据集和两个用于内部和外部验证的内部数据集。一些关键结果是：i) 与 ViT 衍生和放射组学特征相比，CNN 衍生特征保证了更稳健的准确性；ii) 用于解释的传统可视化图方法存在一些缺陷；iii) Rad4XCNN 不会为了可解释性而牺牲模型准确性；iv) Rad4XCNN 提供全局解释，使医生能够提取全局见解和发现。我们的方法可以减轻一些与可解释性-准确性权衡相关的担忧。本研究强调了提出新方法来解释模型而不影响其准确性的重要性。</paragraph>
 
 ##### **Attributing Responsibility in AI-Induced Incidents: A Computational Reflective Equilibrium Framework for Accountability**
 2404.16957v1 by Yunfei Ge, Quanyan Zhu

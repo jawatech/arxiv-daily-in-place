@@ -2,6 +2,9 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
+|**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
 |**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
 |**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
@@ -13,7 +16,7 @@
 |**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
 |**2025-01-06**|**IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**|Yiming Zhang et.al.|[2501.02869v1](http://arxiv.org/abs/2501.02869v1)|null|
 |**2025-01-06**|**Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**|Naibo Wang et.al.|[2501.03292v1](http://arxiv.org/abs/2501.03292v1)|null|
-|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v1](http://arxiv.org/abs/2501.02788v1)|null|
+|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v2](http://arxiv.org/abs/2501.02788v2)|null|
 |**2025-01-06**|**Hybrid deep convolution model for lung cancer detection with transfer learning**|Sugandha Saxena et.al.|[2501.02785v1](http://arxiv.org/abs/2501.02785v1)|null|
 |**2025-01-06**|**ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**|Binyu Zhang et.al.|[2501.02778v1](http://arxiv.org/abs/2501.02778v1)|[link](https://github.com/binging512/icfnet)|
 |**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727v1](http://arxiv.org/abs/2501.02727v1)|null|
@@ -99,11 +102,78 @@
 |**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651v1](http://arxiv.org/abs/2412.17651v1)|null|
 |**2024-12-23**|**Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey**|Zixuan Shanggua et.al.|[2412.17616v1](http://arxiv.org/abs/2412.17616v1)|null|
 |**2024-12-23**|**V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**|Long Bai et.al.|[2412.17595v1](http://arxiv.org/abs/2412.17595v1)|null|
-|**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587v1](http://arxiv.org/abs/2412.17587v1)|null|
-|**2024-12-23**|**Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor**|Yeonju Kim et.al.|[2412.17572v1](http://arxiv.org/abs/2412.17572v1)|null|
-|**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
 
 #### Abstracts
+##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
+2501.04614v1 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
+
+Artificial Intelligence is revolutionizing medical practice, enhancing
+diagnostic accuracy and healthcare delivery. However, its adaptation in medical
+settings still faces significant challenges, related to data availability and
+privacy constraints. Synthetic data has emerged as a promising solution to
+mitigate these issues, addressing data scarcity while preserving privacy.
+Recently, Latent Diffusion Models have emerged as a powerful tool for
+generating high-quality synthetic data. Meanwhile, the integration of different
+modalities has gained interest, emphasizing the need of models capable of
+handle multimodal medical data.Existing approaches struggle to integrate
+complementary information and lack the ability to generate modalities
+simultaneously. To address this challenge, we present MedCoDi-M, a
+6.77-billion-parameter model, designed for multimodal medical data generation,
+that, following Foundation Model paradigm, exploits contrastive learning and
+large quantity of data to build a shared latent space which capture the
+relationships between different data modalities. Further, we introduce the
+Multi-Prompt training technique, which significantly boosts MedCoDi-M's
+generation under different settings. We extensively validate MedCoDi-M: first
+we benchmark it against five competitors on the MIMIC-CXR dataset, a
+state-of-the-art dataset for Chest X-ray and radiological report generation.
+Secondly, we perform a Visual Turing Test with expert radiologists to assess
+the realism and clinical relevance of the generated data, ensuring alignment
+with real-world scenarios. Finally, we assess the utility of MedCoDi-M in
+addressing key challenges in the medical field, such as anonymization, data
+scarcity and imbalance learning. The results are promising, demonstrating the
+applicability of MedCoDi-M in medical contexts. Project page is at
+https://cosbidev.github.io/MedCoDi-M/.
+
+摘要：人工智慧正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，其在醫療環境中的應用仍面臨重大挑戰，與資料可用性和隱私限制有關。合成資料已成為解決這些問題的潛在解決方案，在保護隱私的同時解決資料稀少問題。最近，潛在擴散模型已成為生成高品質合成資料的強大工具。同時，不同模態的整合引起了興趣，強調了能夠處理多模態醫療資料的模型的必要性。現有方法難以整合補充資訊，且缺乏同時生成模態的能力。為了應對這項挑戰，我們提出了 MedCoDi-M，一個 67.7 億參數的模型，專門用於多模態醫療資料生成，遵循基礎模型範例，利用對比學習和大量資料來建立一個共享的潛在空間，捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，這顯著提升了 MedCoDi-M 在不同設定下的生成。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上針對五個競爭對手進行基準測試，這是一個胸部 X 光和放射報告生成的最新資料集。其次，我們與放射科專家進行視覺圖靈測試，以評估生成資料的真實性和臨床相關性，確保與實際場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料稀少和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療背景中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
+
+##### **A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**
+2501.04577v1 by Zephan M. Enciso, Boyang Cheng, Likai Pei, Jianbo Liu, Steven Davis, Ningyuan Cao, Michael Niemier
+
+Uncertainty estimation is an indispensable capability for AI-enabled,
+safety-critical applications, e.g. autonomous vehicles or medical diagnosis.
+Bayesian neural networks (BNNs) use Bayesian statistics to provide both
+classification predictions and uncertainty estimation, but they suffer from
+high computational overhead associated with random number generation and
+repeated sample iterations. Furthermore, BNNs are not immediately amenable to
+acceleration through compute-in-memory architectures due to the frequent memory
+writes necessary after each RNG operation. To address these challenges, we
+present an ASIC that integrates 360 fJ/Sample Gaussian RNG directly into the
+SRAM memory words. This integration reduces RNG overhead and enables
+fully-parallel compute-in-memory operations for BNNs. The prototype chip
+achieves 5.12 GSa/s RNG throughput and 102 GOp/s neural network throughput
+while occupying 0.45 mm2, bringing AI uncertainty estimation to edge
+computation.
+
+摘要：不確定性估計對於 AI 驅動、安全關鍵的應用程式來說是不可或缺的能力，例如自動駕駛車輛或醫療診斷。貝氏類神經網路 (BNN) 使用貝氏統計來提供分類預測和不確定性估計，但它們會因隨機數生成和重複樣本迭代而產生高運算負擔。此外，由於每次 RNG 操作後都需要頻繁的記憶體寫入，因此 BNN 無法立即適用於透過記憶體運算架構進行加速。為了應對這些挑戰，我們提出了一款 ASIC，將 360 fJ/Sample Gaussian RNG 直接整合到 SRAM 記憶體字元中。此整合可減少 RNG 負擔，並為 BNN 啟用完全並行的記憶體運算操作。原型晶片可達成 5.12 GSa/s RNG 處理量和 102 GOp/s 神經網路處理量，同時佔用 0.45 mm2，將 AI 不確定性估計帶到邊緣運算。
+
+##### **Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**
+2501.04217v1 by Ren Tasai, Guang Li, Ren Togo, Minghui Tang, Takaaki Yoshimura, Hiroyuki Sugimori, Kenji Hirata, Takahiro Ogawa, Kohsuke Kudo, Miki Haseyama
+
+We propose a novel continual self-supervised learning method (CSSL)
+considering medical domain knowledge in chest CT images. Our approach addresses
+the challenge of sequential learning by effectively capturing the relationship
+between previously learned knowledge and new information at different stages.
+By incorporating an enhanced DER into CSSL and maintaining both diversity and
+representativeness within the rehearsal buffer of DER, the risk of data
+interference during pretraining is reduced, enabling the model to learn more
+richer and robust feature representations. In addition, we incorporate a mixup
+strategy and feature distillation to further enhance the model's ability to
+learn meaningful representations. We validate our method using chest CT images
+obtained under two different imaging conditions, demonstrating superior
+performance compared to state-of-the-art methods.
+
+摘要：我們提出了一種新的持續自我監督學習方法 (CSSL)，考量了胸部電腦斷層影像中的醫學領域知識。我們的做法透過有效捕捉先前學習的知識與不同階段的新資訊之間的關係，來解決循序學習的挑戰。透過將增強的 DER 納入 CSSL，並在 DER 的排練緩衝區內維持多樣性和代表性，預訓練期間資料干擾的風險降低，使模型能夠學習更豐富且強健的特徵表徵。此外，我們納入混淆策略和特徵萃取，進一步增強模型學習有意義表徵的能力。我們使用在兩種不同影像條件下取得的胸部電腦斷層影像驗證我們的模型，證明與現有技術相比具有優異的效能。
+
 ##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
 2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
 
@@ -375,7 +445,7 @@ dataset when applying a Dirichlet distribution with ($\alpha$ = 0.3).
 摘要：联邦学习 (FL) 由于其在维护数据隐私的同时促进协作模型训练的能力，在医学领域引起了极大的兴趣。然而，传统的 FL 方法通常需要多轮通信，这会导致严重的通信开销和延迟，尤其是在带宽受限的环境中。单次联邦学习通过在单次通信轮中进行模型训练和聚合来解决这些问题，从而在保护隐私的同时降低通信成本。其中，单次联邦集成学习使用集成技术（如投票）将独立训练的客户端模型组合起来，进一步提升了在非 IID 数据场景中的性能。另一方面，现有的医疗保健机器学习方法主要使用单模态数据（例如医学图像或文本报告），这限制了它们的诊断准确性和全面性。因此，提出了多模态数据的集成来解决这些缺点。在本文中，我们介绍了 FedMME，一种创新的单次多模态联邦集成学习框架，它利用多模态数据进行医学图像分析。具体来说，FedMME 利用视觉大语言模型从医学图像中生成文本报告，采用 BERT 模型从这些报告中提取文本特征，并将这些特征与视觉特征相结合以提高诊断准确性。实验结果表明，与现有的单次联邦学习方法相比，我们的方法在四个具有不同数据分布的数据集中的医疗保健场景中表现出优越的性能。例如，当应用具有 ($\alpha$ = 0.3) 的 Dirichlet 分布时，它在 RSNA 数据集上的准确率比现有的单次联邦学习方法高出 17.5% 以上。
 
 ##### **GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**
-2501.02788v1 by Niloufar Eghbali, Hassan Bagher-Ebadian, Tuka Alhanai, Mohammad M. Ghassemi
+2501.02788v2 by Niloufar Eghbali, Hassan Bagher-Ebadian, Tuka Alhanai, Mohammad M. Ghassemi
 
 Vision Transformers (ViTs) have shown promise in medical image semantic
 segmentation (MISS) by capturing long-range correlations. However, ViTs often
@@ -391,14 +461,14 @@ method uniquely combines the long-range dependency modeling of Transformers
 with the texture analysis capabilities of Gabor and LoG features. Evaluated on
 the Synapse multi-organ and ACDC cardiac segmentation datasets, GLoG-CSUnet
 demonstrates significant improvements over state-of-the-art models, achieving a
-1.14\% increase in Dice score for Synapse and 0.99\% for ACDC, with minimal
+1.14% increase in Dice score for Synapse and 0.99% for ACDC, with minimal
 computational overhead (only 15 and 30 additional parameters, respectively).
 GLoG-CSUnet's flexible design allows integration with various base models,
 offering a promising approach for incorporating radiomics-inspired feature
 extraction in Transformer architectures for medical image analysis. The code
 implementation is available on GitHub at: https://github.com/HAAIL/GLoG-CSUnet.
 
-摘要：<paragraph>視覺轉換器 (ViT) 已在醫療影像語意分割 (MISS) 中展現出前景，藉由捕捉長距離關聯性。然而，ViT 通常難以有效建模局部空間資訊，這對於精準分割細微解剖細節至關重要，特別是在應用於沒有廣泛預訓練的小型資料集時。我們引進 Gabor 和拉普拉斯高斯卷積 Swin 網路 (GLoG-CSUnet)，這是一種創新的架構，透過整合可學習的放射特徵來增強基於 Transformer 的模型。此方法整合動態自適應 Gabor 和拉普拉斯高斯 (LoG) 濾波器來捕捉紋理、邊緣和邊界資訊，增強 Transformer 模型處理的特徵表徵。我們的技術獨特地結合了 Transformer 的長距離依賴性建模與 Gabor 和 LoG 特徵的紋理分析能力。在 Synapse 多器官和 ACDC 心臟分割資料集上進行評估後，GLoG-CSUnet 證明比最先進的模型有顯著的進步，Synapse 的 Dice 分數增加了 1.14%，ACDC 則增加了 0.99%，而運算負擔極小（分別僅有 15 和 30 個額外的參數）。GLoG-CSUnet 的彈性設計允許與各種基礎模型整合，為在 Transformer 架構中整合放射組學啟發的特徵萃取提供了一種有前景的方法，以進行醫療影像分析。程式碼實作可在 GitHub 上取得：https://github.com/HAAIL/GLoG-CSUnet。</paragraph>
+摘要：<paragraph>視覺轉換器 (ViT) 已在醫療影像語意分割 (MISS) 中展現前景，藉由擷取長程關聯性。然而，ViT 經常難以有效地建模局部空間資訊，這對於精確分割精細解剖細節至關重要，特別是在應用於沒有廣泛預先訓練的小型資料集時。我們引入了高斯卷積 Swin 網路 (GLoG-CSUnet) 的 Gabor 和 Laplacian，這是一種新穎的架構，透過整合可學習的放射特徵來增強基於轉換器的模型。此方法整合了動態自適應 Gabor 和高斯 Laplacian (LoG) 濾波器來擷取紋理、邊緣和邊界資訊，增強轉換器模型處理的特徵表示。我們的模型獨特地結合了轉換器的長程依賴性建模與 Gabor 和 LoG 特徵的紋理分析功能。在 Synapse 多器官和 ACDC 心臟分割資料集上進行評估，GLoG-CSUnet 展示出比最先進的模型有顯著的改進，Synapse 的 Dice 分數增加了 1.14%，ACDC 的 Dice 分數增加了 0.99%，計算負擔極小（分別只有 15 和 30 個額外的參數）。GLoG-CSUnet 的彈性設計允許與各種基礎模型整合，為在轉換器架構中整合放射組學啟發的特徵萃取提供了一個有前景的方法，以進行醫療影像分析。程式碼實作可在 GitHub 上取得：https://github.com/HAAIL/GLoG-CSUnet。</paragraph>
 
 ##### **Hybrid deep convolution model for lung cancer detection with transfer learning**
 2501.02785v1 by Sugandha Saxena, S. N. Prasad, Ashwin M Polnaya, Shweta Agarwala
@@ -2517,77 +2587,4 @@ capabilities of doctors.
 
 摘要：深度學習可以從膠囊內視鏡影片預測深度圖和膠囊自我運動，協助進行 3D 場景重建和病灶定位。
 然而，膠囊內視鏡在胃腸道內的碰撞會造成訓練資料中的振動擾動。現有的解決方案僅專注於基於視覺的處理，忽略了其他輔助訊號，例如可以降低雜訊和提升效能的振動。因此，我們提出 V$^2$-SfMLearner，這是一種多模態方法，將振動訊號整合到基於視覺的深度和膠囊運動估計中，用於單眼膠囊內視鏡。我們建構了一個包含振動和視覺訊號的多模態膠囊內視鏡資料集，而我們的人工智慧解決方案使用視覺振動訊號開發了一種非監督式方法，透過多模態學習有效消除振動擾動。具體來說，我們仔細設計了一個振動網路分支和一個傅立葉融合模組，以偵測和減輕振動雜訊。融合架構與常見的純視覺演算法相容。在多模態資料集上的廣泛驗證證明了與純視覺演算法相比，其具有優異的效能和穩健性。我們的 V$^2$-SfMLearner 無需大型外部設備，有潛力整合到臨床膠囊機器人中，提供即時且可靠的消化道檢查工具。研究結果顯示在臨床環境中實際執行的可能性，提升醫師的診斷能力。
-
-##### **Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**
-2412.17587v1 by Aswini Kumar Patra, Tejashwini Gajurel
-
-Cotton crops, often called "white gold," face significant production
-challenges, primarily due to various leaf-affecting diseases. As a major global
-source of fiber, timely and accurate disease identification is crucial to
-ensure optimal yields and maintain crop health. While deep learning and machine
-learning techniques have been explored to address this challenge, there remains
-a gap in developing lightweight models with fewer parameters which could be
-computationally effective for agricultural practitioners. To address this, we
-propose an innovative deep learning framework integrating a subset of trainable
-layers from MobileNet, transfer learning, data augmentation, a learning rate
-decay schedule, model checkpoints, and early stopping mechanisms. Our model
-demonstrates exceptional performance, accurately classifying seven cotton
-disease types with an overall accuracy of 98.42% and class-wise precision
-ranging from 96% to 100%. This results in significantly enhanced efficiency,
-surpassing recent approaches in accuracy and model complexity. The existing
-models in the literature have yet to attain such high accuracy, even when
-tested on data sets with fewer disease types. The substantial performance
-improvement, combined with the lightweight nature of the model, makes it
-practically suitable for real-world applications in smart farming. By offering
-a high-performing and efficient solution, our framework can potentially address
-challenges in cotton cultivation, contributing to sustainable agricultural
-practices.
-
-摘要：棉花作物常被称为「白色黄金」，但會面臨重大的生產挑戰，主要是因為各種影響葉子的疾病。作為全球主要的纖維來源，及時且準確地辨識疾病對於確保最佳產量和維持作物健康至關重要。儘管深度學習和機器學習技術已被探索用於解決此挑戰，但對於開發具有較少參數的輕量級模型仍存在差距，而這些模型對於農業從業者而言在運算上可能有效。為了解決此問題，我們提出一個創新的深度學習架構，整合了來自 MobileNet 的可訓練層子集、遷移學習、資料擴充、學習率衰減時間表、模型檢查點和早期停止機制。我們的模型展現了非凡的效能，準確地分類了七種棉花疾病類型，整體準確度為 98.42%，且類別準確度介於 96% 到 100% 之間。這導致顯著提升的效率，在準確度和模型複雜度上超越了最近的方法。文獻中的現有模型尚未達到如此高的準確度，即使在較少疾病類型的資料集上進行測試時也是如此。大幅提升的效能，加上模型的輕量級特性，使其在智慧農業的實際應用中具有實用性。透過提供高性能且高效的解決方案，我們的架構有可能解決棉花種植中的挑戰，進而促成永續的農業實務。
-
-##### **Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor**
-2412.17572v1 by Yeonju Kim, Se Jin Park, Yong Man Ro
-
-Chatbot research is advancing with the growing importance of chatbots in
-fields that require human interactions, such as customer support and mental
-health care. Despite these advancements, chatbots still face significant
-challenges in understanding subtle nuances and managing long conversation
-histories. To address these issues, our study introduces a dual approach:
-firstly, we employ Emotional Preference Optimization (EPO) to train chatbots
-not only with correct responses but also with counter-emotional responses-those
-that are contextually similar but emotionally divergent. This training enables
-the model to discern fine nuance distinctions between correct and
-counter-emotional responses, thereby enhancing the quality of its responses.
-Secondly, we introduce MambaCompressor to effectively compress and manage
-extensive conversation histories, significantly reducing time and memory
-complexities while improving the chatbot's contextual understanding. Our
-comprehensive experiments across multiple datasets demonstrate that our model
-significantly outperforms existing models in generating empathetic responses
-and efficiently managing lengthy dialogues.
-
-摘要：聊天機器人的研究隨著聊天機器人在需要人類互動的領域（例如客戶支援和心理保健）中日益重要而進展。儘管有這些進展，聊天機器人在理解微妙的細微差別和管理冗長的對話記錄方面仍然面臨重大挑戰。為了解決這些問題，我們的研究引入了一個雙重方法：首先，我們採用情緒偏好最佳化 (EPO) 來訓練聊天機器人，不僅使用正確的回應，還使用反情緒回應——那些在語境上相似但在情緒上不同的回應。這種訓練使模型能夠辨別正確和反情緒回應之間的細微差別，從而提高其回應的品質。其次，我們引入了 MambaCompressor 來有效壓縮和管理廣泛的對話記錄，大幅減少時間和記憶體複雜度，同時改善聊天機器人的語境理解。我們在多個資料集上的全面實驗表明，我們的模型在產生同理心回應和有效管理冗長的對話方面明顯優於現有的模型。
-
-##### **Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**
-2412.17527v1 by Badaru I. Olumuyiwa, The Anh Han, Zia U. Shamszaman
-
-This research presents an innovative approach to cancer diagnosis and
-prediction using explainable Artificial Intelligence (XAI) and deep learning
-techniques. With cancer causing nearly 10 million deaths globally in 2020,
-early and accurate diagnosis is crucial. Traditional methods often face
-challenges in cost, accuracy, and efficiency. Our study develops an AI model
-that provides precise outcomes and clear insights into its decision-making
-process, addressing the "black box" problem of deep learning models. By
-employing XAI techniques, we enhance interpretability and transparency,
-building trust among healthcare professionals and patients. Our approach
-leverages neural networks to analyse extensive datasets, identifying patterns
-for cancer detection. This model has the potential to revolutionise diagnosis
-by improving accuracy, accessibility, and clarity in medical decision-making,
-possibly leading to earlier detection and more personalised treatment
-strategies. Furthermore, it could democratise access to high-quality
-diagnostics, particularly in resource-limited settings, contributing to global
-health equity. The model's applications extend beyond cancer diagnosis,
-potentially transforming various aspects of medical decision-making and saving
-millions of lives worldwide.
-
-摘要：本研究提出了一個創新的癌症診斷和預測方法，使用可解釋的人工智慧 (XAI) 和深度學習技術。由於癌症在 2020 年造成全球近 1,000 萬人死亡，因此早期準確的診斷至關重要。傳統方法通常面臨成本、準確性和效率方面的挑戰。我們的研究開發了一個 AI 模型，它提供精確的結果並清楚地了解其決策過程，解決了深度學習模型的「黑箱」問題。通過採用 XAI 技術，我們增強了解釋性和透明度，在醫療專業人員和患者之間建立信任。我們的做法利用神經網路分析廣泛的數據集，識別癌症檢測模式。這個模型有可能通過提高醫療決策的準確性、可及性和清晰度來革新診斷，可能導致更早的檢測和更個性化的治療策略。此外，它可以使更多人獲得高品質的診斷，特別是在資源有限的環境中，有助於全球健康公平。該模型的應用範圍不僅限於癌症診斷，還可能轉變醫療決策的各個方面，並拯救全球數百萬人的生命。
 

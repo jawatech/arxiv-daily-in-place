@@ -2,13 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
+|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
+|**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
 |**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166v1](http://arxiv.org/abs/2501.03166v1)|[link](https://github.com/aliwister/ast-icl)|
 |**2025-01-06**|**Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment**|Chongxian Chen et.al.|[2501.03085v1](http://arxiv.org/abs/2501.03085v1)|null|
 |**2025-01-06**|**Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**|Yubo Wang et.al.|[2501.02844v1](http://arxiv.org/abs/2501.02844v1)|null|
 |**2025-01-06**|**KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models**|Zaiyi Zheng et.al.|[2501.02711v1](http://arxiv.org/abs/2501.02711v1)|null|
-|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393v1](http://arxiv.org/abs/2501.02393v1)|[link](https://github.com/lamm-mit/graph-aware-transformers)|
+|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393v2](http://arxiv.org/abs/2501.02393v2)|[link](https://github.com/lamm-mit/graph-aware-transformers)|
 |**2025-01-04**|**What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**|Yutao Jiang et.al.|[2501.02268v1](http://arxiv.org/abs/2501.02268v1)|null|
 |**2025-01-04**|**Personalized Graph-Based Retrieval for Large Language Models**|Steven Au et.al.|[2501.02157v1](http://arxiv.org/abs/2501.02157v1)|[link](https://github.com/pgraphrag-benchmark/pgr-llm)|
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|null|
@@ -99,11 +102,99 @@
 |**2024-12-11**|**VEL: A Formally Verified Reasoner for OWL2 EL Profile**|Atalay Mert Ileri et.al.|[2412.08739v1](http://arxiv.org/abs/2412.08739v1)|null|
 |**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v2](http://arxiv.org/abs/2412.08174v2)|null|
-|**2024-12-11**|**GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction**|Rongzheng Wang et.al.|[2412.12152v1](http://arxiv.org/abs/2412.12152v1)|null|
-|**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434v1](http://arxiv.org/abs/2412.10434v1)|[link](https://github.com/leonyuancode/stockgql)|
-|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|[link](https://github.com/Xin-Cheng-Wen/RepoSPD)|
 
 #### Abstracts
+##### **FlairGPT: Repurposing LLMs for Interior Designs**
+2501.04648v1 by Gabrielle Littlefair, Niladri Shekhar Dutt, Niloy J. Mitra
+
+Interior design involves the careful selection and arrangement of objects to
+create an aesthetically pleasing, functional, and harmonized space that aligns
+with the client's design brief. This task is particularly challenging, as a
+successful design must not only incorporate all the necessary objects in a
+cohesive style, but also ensure they are arranged in a way that maximizes
+accessibility, while adhering to a variety of affordability and usage
+considerations. Data-driven solutions have been proposed, but these are
+typically room- or domain-specific and lack explainability in their design
+design considerations used in producing the final layout. In this paper, we
+investigate if large language models (LLMs) can be directly utilized for
+interior design. While we find that LLMs are not yet capable of generating
+complete layouts, they can be effectively leveraged in a structured manner,
+inspired by the workflow of interior designers. By systematically probing LLMs,
+we can reliably generate a list of objects along with relevant constraints that
+guide their placement. We translate this information into a design layout
+graph, which is then solved using an off-the-shelf constrained optimization
+setup to generate the final layouts. We benchmark our algorithm in various
+design configurations against existing LLM-based methods and human designs, and
+evaluate the results using a variety of quantitative and qualitative metrics
+along with user studies. In summary, we demonstrate that LLMs, when used in a
+structured manner, can effectively generate diverse high-quality layouts,
+making them a viable solution for creating large-scale virtual scenes. Project
+webpage at https://flairgpt.github.io/
+
+摘要：室內設計涉及仔細挑選和安排物件，以創造一個美觀、實用且和諧的空間，符合客戶的設計簡報。這項任務特別具有挑戰性，因為成功的設計不僅必須以一致的風格納入所有必要的物件，還必須確保它們的排列方式能最大化可及性，同時符合各種負擔能力和使用考量。已經提出了資料驅動的解決方案，但這些解決方案通常是特定於房間或領域，而且缺乏在產生最終佈局時所使用的設計考量的可解釋性。在本文中，我們探討大型語言模型 (LLM) 是否可以直接用於室內設計。雖然我們發現 LLM 尚未能夠產生完整的佈局，但它們可以有效地以結構化的方式利用，靈感來自室內設計師的工作流程。透過系統性地探查 LLM，我們可以可靠地產生一個物件清單，以及指導它們放置位置的相关約束。我們將這些資訊轉換成設計佈局圖，然後使用現成的約束式最佳化設定來解決，以產生最終佈局。我們在各種設計配置中將我們的演算法與現有的基於 LLM 的方法和人類設計進行基準測試，並使用各種量化和質化指標以及使用者研究來評估結果。總之，我們證明了 LLM 在以結構化的方式使用時，可以有效地產生多樣化的高品質佈局，使其成為創造大型虛擬場景的可行解決方案。專案網頁在 https://flairgpt.github.io/
+
+##### **CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**
+2501.04510v1 by Ruijun Feng, Hammond Pearce, Pietro Liguori, Yulei Sui
+
+Large language models (LLMs) have been proposed as powerful tools for
+detecting software vulnerabilities, where task-specific fine-tuning is
+typically employed to provide vulnerability-specific knowledge to the LLMs for
+this purpose. However, traditional full-parameter fine-tuning is inefficient
+for modern, complex LLMs, which contain billions of parameters.
+  Soft prompt tuning has been suggested as a more efficient alternative for
+fine-tuning LLMs in general cases. However, pure soft prompt tuning treats
+source code as plain text, losing structural information inherent in source
+code. Meanwhile, graph-enhanced soft prompt tuning methods, which aim to
+address this issue, are unable to preserve the rich semantic information within
+code graphs, as they are primarily designed for general graph-related tasks and
+focus more on adjacency information. They also fail to ensure computational
+efficiency while accounting for graph-text interactions.
+  This paper, therefore, introduces a new code graph-enhanced, structure-aware
+soft prompt tuning method for vulnerability detection, referred to as
+CGP-Tuning. It employs innovative type-aware embeddings to capture the rich
+semantic information within code graphs, along with a novel and efficient
+cross-modal alignment module that achieves linear computational cost while
+incorporating graph-text interactions. The proposed CGP-Tuning is evaluated on
+the latest DiverseVul dataset and the most recent open-source code LLMs,
+CodeLlama and CodeGemma. Experimental results demonstrate that CGP-Tuning
+outperforms the best state-of-the-art method by an average of 3.5 percentage
+points in accuracy, without compromising its vulnerability detection
+capabilities for long source code.
+
+摘要：大型語言模型 (LLM) 已被提出用於偵測軟體漏洞的強大工具，其中任務特定微調通常用於提供漏洞特定知識給 LLM 以達到此目的。然而，傳統的完整參數微調對於包含數十億個參數的現代複雜 LLM 來說效率低下。
+軟提示微調已被建議作為一般情況下微調 LLM 的更有效替代方案。然而，純軟提示微調將原始碼視為純文字，失去了原始碼中固有的結構資訊。同時，旨在解決此問題的圖形增強軟提示微調方法無法保留程式碼圖形中的豐富語義資訊，因為它們主要設計用於一般的圖形相關任務，且更專注於鄰接資訊。它們也無法在考量圖形文字互動的同時確保運算效率。
+因此，本文介紹了一種新的程式碼圖形增強、結構感知軟提示微調方法來偵測漏洞，稱為 CGP-Tuning。它採用創新的類型感知嵌入來擷取程式碼圖形中的豐富語義資訊，以及一個新穎且有效的跨模態對齊模組，該模組在納入圖形文字互動的同時實現線性運算成本。提議的 CGP-Tuning 在最新的 DiverseVul 資料集和最新的開源程式碼 LLM（CodeLlama 和 CodeGemma）上進行評估。實驗結果證明，CGP-Tuning 在準確度方面平均比最佳的現有技術高出 3.5 個百分點，同時不損害其對長原始碼的漏洞偵測能力。
+
+##### **Multimodal Graph Constrastive Learning and Prompt for ChartQA**
+2501.04303v1 by Yue Dai, Soyeon Caren Han, Wei Liu
+
+ChartQA presents significant challenges due to the complex distribution of
+chart elements and the implicit patterns embedded within the underlying data.
+In this chapter, we have developed a joint multimodal scene graph for charts,
+explicitly representing the relationships between chart elements and their
+associated patterns.
+  Our proposed multimodal scene graph consists of two components: a visual
+graph and a textual graph, each designed to capture the structural and semantic
+information within the chart. To unify representations across these different
+modalities, we introduce a multimodal graph contrastive learning approach that
+learns unified representations by maximizing similarity between nodes
+representing the same object across multimodal graphs. The learned graph
+representations can be seamlessly incorporated into a transformer decoder as a
+soft prompt.
+  Additionally, given the growing need for Multimodal Large Language Models
+(MLLMs) in zero-shot scenarios, we have designed Chain-of-Thought (CoT) prompts
+for MLLMs to reduce hallucinations. We tested both methods on public benchmarks
+such as ChartQA, OpenCQA, and ChartX, demonstrating improved performance and
+validating the effectiveness of our proposed methods.
+
+摘要：ChartQA 因圖表元素的複雜分佈和基礎資料中內嵌的隱含模式而面臨重大挑戰。
+在本章中，我們為圖表開發了一個聯合多模態場景圖形，明確表示圖表元素之間的關係及其關聯模式。
+我們提出的多模態場景圖形包含兩個組成部分：一個視覺圖形和一個文本圖形，每個組成部分都旨在擷取圖表中的結構化和語義資訊。
+為了統一這些不同模態的表示，我們引入了一個多模態圖形對比學習方法，透過最大化跨多模態圖形表示相同物件的節點之間的相似性來學習統一的表示。
+學習到的圖形表示可以無縫地整合到Transformer解碼器中，作為一個軟提示。
+此外，鑑於多模態大型語言模型 (MLLM) 在零次學習場景中的需求日益增加，我們為 MLLM 設計了思考鏈 (CoT) 提示，以減少幻覺。
+我們在公眾基準上測試了這兩種方法，例如 ChartQA、OpenCQA 和 ChartX，證明了效能的提升，並驗證了我們提出的方法的有效性。
+
 ##### **Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**
 2501.03566v1 by Benedikt Reitemeyer, Hans-Georg Fill
 
@@ -254,7 +345,7 @@ available at \url{https://anonymous.4open.science/r/KG-CF}.
 摘要：大型語言模型 (LLM) 在各種任務中展現出令人印象深刻的表現，包括知識圖譜完成功能 (KGC)。然而，目前的研究大多將 LLM 應用於分類任務，例如識別遺漏的三元組，而非基於排名的任務，其中模型根據合理性對候選實體進行排名。這種重點限制了 LLM 在 KGC 中的實際應用，因為現實世界的應用優先考慮高度合理的的三元組。此外，儘管圖形路徑有助於推斷遺漏的三元組的存在並提高完成的準確性，但它們通常包含冗餘資訊。為了解決這些問題，我們提出 KG-CF，一個專門針對基於排名的 KGC 任務的框架。KG-CF 利用 LLM 的推理能力來過濾不相關的上下文，在現實世界的資料集上取得卓越的成果。程式碼和資料集可在 \url{https://anonymous.4open.science/r/KG-CF} 取得。
 
 ##### **Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**
-2501.02393v1 by Markus J. Buehler
+2501.02393v2 by Markus J. Buehler
 
 We present an approach to modifying Transformer architectures by integrating
 graph-aware relational reasoning into the attention mechanism, merging concepts
@@ -283,7 +374,7 @@ beyond could benefit from this synthesis of relational and sequential data
 modeling, setting the stage for interpretable and generalizable modeling
 strategies.
 
-摘要：<paragraph>我們提出了一種修改 Transformer 架構的方法，方法是將圖感知關聯推理整合到注意力機制中，融合圖神經網路和語言建模的概念。我們建立在注意力和圖論之間的內在聯繫之上，將 Transformer 的注意力機制重新表述為圖形運算，並提出圖感知同構注意力。此方法利用先進的圖形建模策略，包括圖同構網路 (GIN) 和主鄰域聚合 (PNA)，以豐富關係結構的表示。我們的做法捕捉了複雜的依賴關係，並在各項任務中進行概化，這從縮小的概化差距和改善的學習表現中可以得到證明。此外，我們擴展了圖感知注意力的概念，引入了稀疏 GIN 注意力，這是一種採用稀疏 GIN 的微調方法。通過將注意力矩陣解釋為稀疏鄰接圖，此技術增強了預先訓練好的基礎模型的適應性，同時將計算開銷降至最低，賦予它們圖感知能力。與低秩適應 (LoRA) 等替代方法相比，稀疏 GIN 注意力微調實現了改進的訓練動態和更好的概化。我們討論了傳統注意力機制中的潛在圖形結構，提供了一個新的視角，通過它可以理解 Transformer。通過將 Transformer 演化為用於關係推理的分層 GIN 模型。這種觀點對基礎模型開發提出了深遠的影響，能夠設計出動態適應局部和全局依賴關係的架構。生物資訊學、材料科學、語言建模及其他領域的應用可以受益於這種關係和序列數據建模的綜合，為可解釋且可概化的建模策略奠定基礎。</paragraph>
+摘要：<paragraph>我們提出了一種修改 Transformer 架構的方法，方法是將圖感知關聯推理整合到注意力機制中，合併圖神經網路和語言模型的概念。基於注意力和圖論之間的內在聯繫，我們將 Transformer 的注意力機制重新表述為圖操作，並提出圖感知同構注意力。此方法利用先進的圖模型策略，包括圖同構網路 (GIN) 和主鄰域聚合 (PNA)，以豐富關係結構的表示。我們的做法捕捉了複雜的依賴關係，並在各項任務中進行概括，這從縮小的概括差距和改善的學習表現中得到證明。此外，我們擴展了圖感知注意力的概念，引入了稀疏 GIN 注意力，這是一種採用稀疏 GIN 的微調方法。通過將注意力矩陣解釋為稀疏鄰接圖，此技術以最小的計算開銷增強了預訓練基礎模型的適應性，賦予它們圖感知能力。與低秩適應 (LoRA) 等替代方法相比，稀疏 GIN 注意力微調實現了改進的訓練動態和更好的概括。我們討論了傳統注意力機制中的潛在圖形結構，提供了一個新的視角，通過它可以理解 Transformer。通過將 Transformer 演化為用於關係推理的分層 GIN 模型。這種觀點對基礎模型的開發具有深遠的影響，可以設計出動態適應局部和全局依賴關係的架構。生物資訊學、材料科學、語言建模等領域的應用可以從這種關係和序列資料建模的綜合中受益，為可解釋和可概括的建模策略奠定基礎。</paragraph>
 
 ##### **What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**
 2501.02268v1 by Yutao Jiang, Qiong Wu, Wenhao Lin, Wei Yu, Yiyi Zhou
@@ -2470,97 +2561,4 @@ classification prototype that can generalize GNNs to unseen classes with
 extremely weak text supervision.
 
 摘要：<paragraph>儘管在使用網際網路規模的影像文字配對進行對比語言影像預訓練 (CLIP) 來建立視覺模型方面取得了巨大的成功，但使用 CLIP 管線建立可轉移圖形神經網路 (GNN) 卻很具挑戰性，原因在於三個根本問題：標記資料和文字監督的稀少性、不同層級的下游任務，以及不同領域之間的概念差距。在這項工作中，為了解決這些問題，我們利用多模態提示學習，在僅有少數語義標記範例的情況下，有效地調整預訓練的 GNN 以適用於下游任務和資料，每個範例都具有極其薄弱的文字監督。我們的新範例將圖形直接嵌入與大型語言模型 (LLM) 相同的空間中，方法是同時學習圖形提示和文字提示。為了達成這個目標，我們改進了最先進的圖形提示方法，然後提出第一個圖形語言多模態提示學習方法，以利用預訓練模型中的知識。值得注意的是，由於微調的監督不足，在我們的範例中，預訓練的 GNN 和 LLM 保持凍結狀態，因此可學習參數遠少於微調任何預訓練模型。透過對真實世界資料集進行廣泛的實驗，我們證明了我們的範例在少樣本、多任務層級和跨領域設定中的卓越效能。此外，我們建立了第一個 CLIP 風格的零樣本分類原型，它可以將 GNN 推廣到具有極其薄弱文字監督的未見類別。</paragraph>
-
-##### **GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction**
-2412.12152v1 by Rongzheng Wang, Shuang Liang, Qizhi Chen, Jiasheng Zhang, Ke Qin
-
-Large language models (LLMs) have been demonstrated to possess the
-capabilities to understand fundamental graph properties and address various
-graph reasoning tasks. Existing methods fine-tune LLMs to understand and
-execute graph reasoning tasks by specially designed task instructions. However,
-these Text-Instruction methods generally exhibit poor performance. Inspired by
-tool learning, researchers propose Tool-Instruction methods to solve various
-graph problems by special tool calling (e.g., function, API and model),
-achieving significant improvements in graph reasoning tasks. Nevertheless,
-current Tool-Instruction approaches focus on the tool information and ignore
-the graph structure information, which leads to significantly inferior
-performance on small-scale LLMs (less than 13B). To tackle this issue, we
-propose GraphTool-Instruction, an innovative Instruction-tuning approach that
-decomposes the graph reasoning task into three distinct subtasks (i.e., graph
-extraction, tool name identification and tool parameter extraction), and design
-specialized instructions for each subtask. Our GraphTool-Instruction can be
-used as a plug-and-play prompt for different LLMs without fine-tuning.
-Moreover, building on GraphTool-Instruction, we develop GTools, a dataset that
-includes twenty graph reasoning tasks, and create a graph reasoning LLM called
-GraphForge based on Llama3-8B. We conduct extensive experiments on twenty graph
-reasoning tasks with different graph types (e.g., graph size or graph
-direction), and we find that GraphTool-Instruction achieves SOTA compared to
-Text-Instruction and Tool-Instruction methods. Fine-tuned on GTools, GraphForge
-gets further improvement of over 30% compared to the Tool-Instruction enhanced
-GPT-3.5-turbo, and it performs comparably to the high-cost GPT-4o. Our codes
-and data are available at
-https://anonymous.4open.science/r/GraphTool-Instruction.
-
-摘要：<paragraph>大型語言模型 (LLM) 已被證明具有理解基本圖形屬性和處理各種圖形推理任務的能力。現有方法微調 LLM 以通過專門設計的任務指令來理解和執行圖形推理任務。然而，這些文本指令方法通常表現出較差的性能。受工具學習的啟發，研究人員提出工具指令方法，通過特殊工具呼叫（例如函數、API 和模型）來解決各種圖形問題，從而顯著改進了圖形推理任務。儘管如此，當前的工具指令方法側重於工具資訊，而忽略了圖形結構資訊，這導致在小規模 LLM（小於 13B）上性能顯著下降。為了解決這個問題，我們提出了 GraphTool-Instruction，這是一種創新的指令調整方法，它將圖形推理任務分解為三個不同的子任務（即圖形提取、工具名稱識別和工具參數提取），並為每個子任務設計專門的指令。我們的 GraphTool-Instruction 可用作不同 LLM 的即插即用提示，而無需微調。此外，基於 GraphTool-Instruction，我們開發了 GTools，這是一個包含 20 個圖形推理任務的資料集，並基於 Llama3-8B 創建了一個名為 GraphForge 的圖形推理 LLM。我們對 20 個具有不同圖形類型（例如圖形大小或圖形方向）的圖形推理任務進行了廣泛的實驗，我們發現與文本指令和工具指令方法相比，GraphTool-Instruction 達到了 SOTA。在 GTools 上進行微調後，與工具指令增強的 GPT-3.5-turbo 相比，GraphForge 進一步改進了 30% 以上，並且其性能與高成本的 GPT-4o 相當。我們的程式碼和資料可在 https://anonymous.4open.science/r/GraphTool-Instruction 獲得。</paragraph>
-
-##### **NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**
-2412.10434v1 by Yuanyuan Liang, Tingyu Xie, Gan Peng, Zihao Huang, Yunshi Lan, Weining Qian
-
-The emergence of Large Language Models (LLMs) has revolutionized many fields,
-not only traditional natural language processing (NLP) tasks. Recently,
-research on applying LLMs to the database field has been booming, and as a
-typical non-relational database, the use of LLMs in graph database research has
-naturally gained significant attention. Recent efforts have increasingly
-focused on leveraging LLMs to translate natural language into graph query
-language (NL2GQL). Although some progress has been made, these methods have
-clear limitations, such as their reliance on streamlined processes that often
-overlook the potential of LLMs to autonomously plan and collaborate with other
-LLMs in tackling complex NL2GQL challenges. To address this gap, we propose
-NAT-NL2GQL, a novel multi-agent framework for translating natural language to
-graph query language. Specifically, our framework consists of three synergistic
-agents: the Preprocessor agent, the Generator agent, and the Refiner agent. The
-Preprocessor agent manages data processing as context, including tasks such as
-name entity recognition, query rewriting, path linking, and the extraction of
-query-related schemas. The Generator agent is a fine-tuned LLM trained on
-NL-GQL data, responsible for generating corresponding GQL statements based on
-queries and their related schemas. The Refiner agent is tasked with refining
-the GQL or context using error information obtained from the GQL execution
-results. Given the scarcity of high-quality open-source NL2GQL datasets based
-on nGQL syntax, we developed StockGQL, a dataset constructed from a financial
-market graph database. It is available at:
-https://github.com/leonyuancode/StockGQL. Experimental results on the StockGQL
-and SpCQL datasets reveal that our method significantly outperforms baseline
-approaches, highlighting its potential for advancing NL2GQL research.
-
-摘要：大型語言模型 (LLM) 的出現，不僅徹底改變了傳統的自然語言處理 (NLP) 任務，更對許多領域造成革命性的影響。最近，將 LLM 應用於資料庫領域的研究蓬勃發展，而作為典型的非關聯式資料庫，LLM 在圖形資料庫研究中的應用自然備受關注。最近的研究工作越來越著重於利用 LLM 將自然語言轉換成圖形查詢語言 (NL2GQL)。儘管已取得一些進展，但這些方法仍有明顯的限制，例如它們依賴簡化的流程，而這些流程往往忽略了 LLM 與其他 LLM 自主規劃和協作以應對複雜 NL2GQL 挑戰的潛力。為了解決這個差距，我們提出了 NAT-NL2GQL，這是一個用於將自然語言轉換成圖形查詢語言的新穎多重代理架構。具體來說，我們的架構包含三個協同運作的代理：預處理器代理、產生器代理和精煉器代理。預處理器代理管理資料處理作為背景，包括命名實體辨識、查詢重寫、路徑連結和提取與查詢相關的架構等任務。產生器代理是一個針對 NL-GQL 資料微調過的 LLM，負責根據查詢及其相關架構產生對應的 GQL 陳述。精煉器代理負責使用從 GQL 執行結果取得的錯誤資訊來精煉 GQL 或背景。鑑於基於 nGQL 語法的優質開源 NL2GQL 資料集稀少，我們開發了 StockGQL，這是一個從金融市場圖形資料庫建構的資料集。它可於以下位置取得：https://github.com/leonyuancode/StockGQL。在 StockGQL 和 SpCQL 資料集上的實驗結果顯示，我們的模型明顯優於基準方法，突顯了其在推動 NL2GQL 研究方面的潛力。
-
-##### **Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**
-2412.08068v1 by Xin-Cheng Wen, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao
-
-Software vendors often silently release security patches without providing
-sufficient advisories (e.g., Common Vulnerabilities and Exposures) or delayed
-updates via resources (e.g., National Vulnerability Database). Therefore, it
-has become crucial to detect these security patches to ensure secure software
-maintenance. However, existing methods face the following challenges: (1) They
-primarily focus on the information within the patches themselves, overlooking
-the complex dependencies in the repository. (2) Security patches typically
-involve multiple functions and files, increasing the difficulty in well
-learning the representations. To alleviate the above challenges, this paper
-proposes a Repository-level Security Patch Detection framework named RepoSPD,
-which comprises three key components: 1) a repository-level graph construction,
-RepoCPG, which represents software patches by merging pre-patch and post-patch
-source code at the repository level; 2) a structure-aware patch representation,
-which fuses the graph and sequence branch and aims at comprehending the
-relationship among multiple code changes; 3) progressive learning, which
-facilitates the model in balancing semantic and structural information. To
-evaluate RepoSPD, we employ two widely-used datasets in security patch
-detection: SPI-DB and PatchDB. We further extend these datasets to the
-repository level, incorporating a total of 20,238 and 28,781 versions of
-repository in C/C++ programming languages, respectively, denoted as SPI-DB* and
-PatchDB*. We compare RepoSPD with six existing security patch detection methods
-and five static tools. Our experimental results demonstrate that RepoSPD
-outperforms the state-of-the-art baseline, with improvements of 11.90%, and
-3.10% in terms of accuracy on the two datasets, respectively.
-
-摘要：<paragraph>軟體供應商通常會在沒有提供足夠的諮詢（例如常見漏洞和曝險）或延遲透過資源（例如國家漏洞資料庫）更新的情況下，無聲地發布安全性修補程式。因此，偵測這些安全性修補程式以確保軟體維護安全至關重要。然而，現有方法面臨以下挑戰：(1) 它們主要關注修補程式本身的資訊，忽略了儲存庫中複雜的相依性。(2) 安全性修補程式通常涉及多個函式和檔案，增加了良好學習表示形式的難度。為了緩解上述挑戰，本文提出了一個名為 RepoSPD 的儲存庫層級安全性修補程式偵測架構，它包含三個關鍵元件：1) 儲存庫層級圖形建構，RepoCPG，它透過合併儲存庫層級的前修補程式和後修補程式原始碼來表示軟體修補程式；2) 結構感知修補程式表示形式，它融合了圖形和序列分支，旨在理解多個程式碼變更之間的關係；3) 漸進式學習，它有助於模型平衡語意和結構資訊。為了評估 RepoSPD，我們在安全性修補程式偵測中採用了兩個廣泛使用的資料集：SPI-DB 和 PatchDB。我們進一步將這些資料集擴充套件到儲存庫層級，分別納入了 C/C++ 程式語言中總計 20,238 和 28,781 個版本的儲存庫，表示為 SPI-DB* 和 PatchDB*。我們將 RepoSPD 與六種現有的安全性修補程式偵測方法和五種靜態工具進行比較。我們的實驗結果表明，RepoSPD 優於最先進的基準，在兩個資料集上的準確性分別提高了 11.90% 和 3.10%。</paragraph>
 

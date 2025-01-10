@@ -2,9 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|null|
+|**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**|Michail Ouroutzoglou et.al.|[2501.04896v1](http://arxiv.org/abs/2501.04896v1)|null|
 |**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
 |**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
+|**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734v1](http://arxiv.org/abs/2501.04734v1)|null|
 |**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
 |**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
@@ -20,7 +26,7 @@
 |**2025-01-06**|**Hybrid deep convolution model for lung cancer detection with transfer learning**|Sugandha Saxena et.al.|[2501.02785v1](http://arxiv.org/abs/2501.02785v1)|null|
 |**2025-01-06**|**ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**|Binyu Zhang et.al.|[2501.02778v1](http://arxiv.org/abs/2501.02778v1)|[link](https://github.com/binging512/icfnet)|
 |**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727v1](http://arxiv.org/abs/2501.02727v1)|null|
-|**2025-01-05**|**Representation Learning of Lab Values via Masked AutoEncoder**|David Restrepo et.al.|[2501.02648v1](http://arxiv.org/abs/2501.02648v1)|null|
+|**2025-01-05**|**Representation Learning of Lab Values via Masked AutoEncoder**|David Restrepo et.al.|[2501.02648v2](http://arxiv.org/abs/2501.02648v2)|null|
 |**2025-01-05**|**Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**|Ellis Solaiman et.al.|[2501.02647v1](http://arxiv.org/abs/2501.02647v1)|null|
 |**2025-01-05**|**KM-UNet KAN Mamba UNet for medical image segmentation**|Yibo Zhang et.al.|[2501.02559v1](http://arxiv.org/abs/2501.02559v1)|[link](https://github.com/2760613195/km_unet)|
 |**2025-01-05**|**Hengqin-RA-v1: Advanced Large Language Model for Diagnosis and Treatment of Rheumatoid Arthritis with Dataset based Traditional Chinese Medicine**|Yishen Liu et.al.|[2501.02471v1](http://arxiv.org/abs/2501.02471v1)|null|
@@ -96,14 +102,127 @@
 |**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v2](http://arxiv.org/abs/2412.18370v2)|[link](https://github.com/bdi-lab/monti)|
 |**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096v1](http://arxiv.org/abs/2412.18096v1)|null|
 |**2024-12-23**|**Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**|Yidong Gan et.al.|[2412.18043v1](http://arxiv.org/abs/2412.18043v1)|null|
-|**2024-12-23**|**A Grounded Observer Framework for Establishing Guardrails for Foundation Models in Socially Sensitive Domains**|Rebecca Ramnauth et.al.|[2412.18639v1](http://arxiv.org/abs/2412.18639v1)|null|
-|**2024-12-23**|**Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks**|Victor Júnio Alcântara Cardoso et.al.|[2412.17975v1](http://arxiv.org/abs/2412.17975v1)|[link](https://github.com/larissafrodrigues/sickle-cell-classification-ENIAC2023)|
-|**2024-12-23**|**A Novel Approach to Balance Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes and its Implementation in BEACON**|Vansh Nagpal et.al.|[2412.17910v1](http://arxiv.org/abs/2412.17910v1)|null|
-|**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651v1](http://arxiv.org/abs/2412.17651v1)|null|
-|**2024-12-23**|**Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey**|Zixuan Shanggua et.al.|[2412.17616v1](http://arxiv.org/abs/2412.17616v1)|null|
-|**2024-12-23**|**V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**|Long Bai et.al.|[2412.17595v1](http://arxiv.org/abs/2412.17595v1)|null|
 
 #### Abstracts
+##### **From Simple to Complex Skills: The Case of In-Hand Object Reorientation**
+2501.05439v1 by Haozhi Qi, Brent Yi, Mike Lambeta, Yi Ma, Roberto Calandra, Jitendra Malik
+
+Learning policies in simulation and transferring them to the real world has
+become a promising approach in dexterous manipulation. However, bridging the
+sim-to-real gap for each new task requires substantial human effort, such as
+careful reward engineering, hyperparameter tuning, and system identification.
+In this work, we present a system that leverages low-level skills to address
+these challenges for more complex tasks. Specifically, we introduce a
+hierarchical policy for in-hand object reorientation based on previously
+acquired rotation skills. This hierarchical policy learns to select which
+low-level skill to execute based on feedback from both the environment and the
+low-level skill policies themselves. Compared to learning from scratch, the
+hierarchical policy is more robust to out-of-distribution changes and transfers
+easily from simulation to real-world environments. Additionally, we propose a
+generalizable object pose estimator that uses proprioceptive information,
+low-level skill predictions, and control errors as inputs to estimate the
+object pose over time. We demonstrate that our system can reorient objects,
+including symmetrical and textureless ones, to a desired pose.
+
+摘要：在模擬中學習策略並將其轉移到現實世界已成為靈巧操作中一種有前景的方法。然而，對於每項新任務來說，彌合模擬到現實的差距需要大量的人力，例如仔細的獎勵工程、超參數調整和系統識別。在這項工作中，我們提出了一個利用低層技能來應對更複雜任務的挑戰的系統。具體來說，我們引入了一個基於先前獲得的旋轉技能的手中物體重新定向的分層策略。這種分層策略學習根據環境和低層技能策略本身的回饋選擇執行哪種低層技能。與從頭開始學習相比，分層策略對分佈外變化更強健，並且可以輕鬆地從模擬轉移到現實世界環境。此外，我們提出了一個可泛化的物體姿勢估計器，它使用 proprioceptive 信息、低層技能預測和控制誤差作為輸入來估計物體姿勢。我們證明了我們的系統可以將物體（包括對稱和無紋理的物體）重新定向到所需的姿勢。
+
+##### **A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**
+2501.05409v1 by Maximilian Alber, Stephan Tietz, Jonas Dippel, Timo Milbich, Timothée Lesort, Panos Korfiatis, Moritz Krügener, Beatriz Perez Cancer, Neelay Shah, Alexander Möllers, Philipp Seegerer, Alexandra Carpen-Amarie, Kai Standvoss, Gabriel Dernbach, Edwin de Jong, Simon Schallenberg, Andreas Kunft, Helmut Hoffer von Ankershoffen, Gavin Schaeferle, Patrick Duffy, Matt Redlon, Philipp Jurmeister, David Horst, Lukas Ruff, Klaus-Robert Müller, Frederick Klauschen, Andrew Norgan
+
+Recent advances in digital pathology have demonstrated the effectiveness of
+foundation models across diverse applications. In this report, we present a
+novel vision foundation model based on the RudolfV approach. Our model was
+trained on a dataset comprising 1.2 million histopathology whole slide images,
+collected from two medical institutions: Mayo Clinic and Charit\'e -
+Universt\"atsmedizin Berlin. Comprehensive evaluations show that our model
+achieves state-of-the-art performance across twenty-one public benchmark
+datasets, even though it is neither the largest model by parameter count nor by
+training dataset size.
+
+摘要：最近在數位病理學的進展已展示出基礎模型在各種應用中的有效性。在此報告中，我們提出一個基於 RudolfV 方法的新穎視覺基礎模型。我們的模型是在一個包含 120 萬張組織病理學全切片影像的資料集上訓練，這些影像來自兩個醫療機構：梅約診所和夏里特大學醫學中心。全面的評估顯示，我們的模型在 21 個公開基準資料集上達到了最先進的效能，儘管它既不是參數計數最大的模型，也不是訓練資料集規模最大的模型。
+
+##### **An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**
+2501.05197v1 by Drago Plecko, Paul Secombe, Andrea Clarke, Amelia Fiske, Samarra Toby, Donisha Duff, David Pilcher, Leo Anthony Celi, Rinaldo Bellomo, Elias Bareinboim
+
+The new era of large-scale data collection and analysis presents an
+opportunity for diagnosing and understanding the causes of health inequities.
+In this study, we describe a framework for systematically analyzing health
+disparities using causal inference. The framework is illustrated by
+investigating racial and ethnic disparities in intensive care unit (ICU)
+outcome between majority and minority groups in Australia (Indigenous vs.
+Non-Indigenous) and the United States (African-American vs. White). We
+demonstrate that commonly used statistical measures for quantifying inequity
+are insufficient, and focus on attributing the observed disparity to the causal
+mechanisms that generate it. We find that minority patients are younger at
+admission, have worse chronic health, are more likely to be admitted for urgent
+and non-elective reasons, and have higher illness severity. At the same time,
+however, we find a protective direct effect of belonging to a minority group,
+with minority patients showing improved survival compared to their majority
+counterparts, with all other variables kept equal. We demonstrate that this
+protective effect is related to the increased probability of being admitted to
+ICU, with minority patients having an increased risk of ICU admission. We also
+find that minority patients, while showing improved survival, are more likely
+to be readmitted to ICU. Thus, due to worse access to primary health care,
+minority patients are more likely to end up in ICU for preventable conditions,
+causing a reduction in the mortality rates and creating an effect that appears
+to be protective. Since the baseline risk of ICU admission may serve as proxy
+for lack of access to primary care, we developed the Indigenous Intensive Care
+Equity (IICE) Radar, a monitoring system for tracking the over-utilization of
+ICU resources by the Indigenous population of Australia across geographical
+areas.
+
+摘要：大型資料收集和分析的新時代，提供了診斷和了解健康不平等成因的機會。在這項研究中，我們描述了一個使用因果推論系統分析健康差距的架構。這個架構透過調查澳洲（原住民對非原住民）和美國（非裔美國人對白人）中，重症加護病房（ICU）結果在種族和族群上的差異來加以說明。我們證明了通常用於量化不平等的統計測量是不夠的，並專注於將觀察到的差異歸因於產生它的因果機制。我們發現，少數族裔患者在入院時較年輕，慢性健康狀況較差，更有可能因緊急和非選擇性原因而入院，且疾病嚴重程度較高。然而，同時我們發現屬於少數族裔群體具有保護性的直接影響，與多數族裔的對照組相比，少數族裔患者在其他所有變數保持相同的情況下，存活率有所改善。我們證明這種保護效應與被送進 ICU 的機率增加有關，少數族裔患者的 ICU 入院風險增加。我們也發現，少數族裔患者雖然存活率有所改善，但更有可能再次入院到 ICU。因此，由於較難獲得初級醫療保健，少數族裔患者更有可能因可預防的疾病而進入 ICU，導致死亡率降低並產生看似具有保護作用的效應。由於 ICU 入院的基本風險可能作為缺乏初級照護的指標，因此我們開發了原住民重症監護公平性（IICE）雷達，這是一個監控系統，用於追蹤澳洲原住民人口在不同地理區域過度使用 ICU 資源的情況。
+
+##### **Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**
+2501.04958v1 by Lei Li, Xinglin Zhang, Jun Liang, Tao Chen
+
+Deep learning models in medical imaging face dual challenges: domain shift,
+where models perform poorly when deployed in settings different from their
+training environment, and class imbalance, where certain disease conditions are
+naturally underrepresented. We present Imbalance-Aware Domain Adaptation
+(IADA), a novel framework that simultaneously tackles both challenges through
+three key components: (1) adaptive feature learning with class-specific
+attention mechanisms, (2) balanced domain alignment with dynamic weighting, and
+(3) adaptive threshold optimization. Our theoretical analysis establishes
+convergence guarantees and complexity bounds. Through extensive experiments on
+embryo development assessment across four imaging modalities, IADA demonstrates
+significant improvements over existing methods, achieving up to 25.19\% higher
+accuracy while maintaining balanced performance across classes. In challenging
+scenarios with low-quality imaging systems, IADA shows robust generalization
+with AUC improvements of up to 12.56\%. These results demonstrate IADA's
+potential for developing reliable and equitable medical imaging systems for
+diverse clinical settings. The code is made public available at
+\url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}
+
+摘要：<paragraph>醫療影像中的深度學習模型面臨雙重挑戰：領域轉移，模型在與其訓練環境不同的設定中部署時表現不佳，以及類別不平衡，某些疾病狀況在自然界中代表性不足。我們提出不平衡感知域適應 (IADA)，這是一個新穎的框架，透過三個關鍵組成部分同時應對這兩個挑戰：(1) 具有類別特定注意力機制的自適應特徵學習，(2) 具有動態加權的平衡域對齊，以及 (3) 自適應閾值最佳化。我們的理論分析建立了收斂保證和複雜度界限。透過對四種影像模式的胚胎發育評估進行廣泛的實驗，IADA 證明了對現有方法的顯著改進，在維持類別間平衡性能的同時，準確度提高了 25.19%。在低品質影像系統的挑戰性場景中，IADA 以高達 12.56% 的 AUC 改進顯示出強大的泛化能力。這些結果證明了 IADA 在為不同的臨床設定開發可靠且公平的醫療影像系統方面的潛力。程式碼已公開於 \url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}</paragraph>
+
+##### **Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**
+2501.04896v1 by Michail Ouroutzoglou, Mingmin Zhao, Joshua Hellerstein, Hariharan Rahul, Asima Badic, Brian S. Kim, Dina Katabi
+
+Chronic itch affects 13% of the US population, is highly debilitating, and
+underlies many medical conditions. A major challenge in clinical care and new
+therapeutics development is the lack of an objective measure for quantifying
+itch, leading to reliance on subjective measures like patients' self-assessment
+of itch severity. In this paper, we show that a home radio device paired with
+artificial intelligence (AI) can concurrently capture scratching and evaluate
+its impact on sleep quality by analyzing radio signals bouncing in the
+environment. The device eliminates the need for wearable sensors or skin
+contact, enabling monitoring of chronic itch over extended periods at home
+without burdening patients or interfering with their skin condition. To
+validate the technology, we conducted an observational clinical study of
+chronic pruritus patients, monitored at home for one month using both the radio
+device and an infrared camera. Comparing the output of the device to ground
+truth data from the camera demonstrates its feasibility and accuracy (ROC AUC =
+0.997, sensitivity = 0.825, specificity = 0.997). The results reveal a
+significant correlation between scratching and low sleep quality, manifested as
+a reduction in sleep efficiency (R = 0.6, p < 0.001) and an increase in sleep
+latency (R = 0.68, p < 0.001). Our study underscores the potential of passive,
+long-term, at-home monitoring of chronic scratching and its sleep implications,
+offering a valuable tool for both clinical care of chronic itch patients and
+pharmaceutical clinical trials.
+
+摘要：慢性搔癢影響美國 13% 的人口，會嚴重衰弱，且是許多疾病的根本原因。臨床護理和新療法開發的一大挑戰是缺乏客觀的指標來量化搔癢，導致依賴於患者自我評估搔癢嚴重程度等主觀指標。在本文中，我們展示了一種與人工智慧 (AI) 配對的家用無線電裝置，可透過分析在環境中彈跳的無線電訊號，同時擷取抓撓並評估其對睡眠品質的影響。此裝置消除了對穿戴式感測器或皮膚接觸的需求，讓患者在家中長時間監控慢性搔癢，而不會造成負擔或干擾其皮膚狀況。為了驗證這項技術，我們對慢性搔癢症患者進行了一項觀察性臨床研究，使用無線電裝置和紅外線攝影機在家中監控一個月。將裝置的輸出與攝影機的真實數據進行比較，證明了其可行性和準確性 (ROC AUC = 0.997，靈敏度 = 0.825，特異度 = 0.997)。結果顯示抓撓與睡眠品質低下之間存在顯著相關性，表現為睡眠效率降低 (R = 0.6，p < 0.001) 和睡眠潛伏期增加 (R = 0.68，p < 0.001)。我們的研究強調了被動、長期、在家中監控慢性抓撓及其對睡眠的影響的潛力，為慢性搔癢症患者的臨床護理和藥廠臨床試驗提供了有價值的工具。
+
 ##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
 2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
 
@@ -173,6 +292,28 @@ obtained under two different imaging conditions, demonstrating superior
 performance compared to state-of-the-art methods.
 
 摘要：我們提出了一種新的持續自我監督學習方法 (CSSL)，考量了胸部電腦斷層影像中的醫學領域知識。我們的做法透過有效捕捉先前學習的知識與不同階段的新資訊之間的關係，來解決循序學習的挑戰。透過將增強的 DER 納入 CSSL，並在 DER 的排練緩衝區內維持多樣性和代表性，預訓練期間資料干擾的風險降低，使模型能夠學習更豐富且強健的特徵表徵。此外，我們納入混淆策略和特徵萃取，進一步增強模型學習有意義表徵的能力。我們使用在兩種不同影像條件下取得的胸部電腦斷層影像驗證我們的模型，證明與現有技術相比具有優異的效能。
+
+##### **Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**
+2501.04734v1 by Rancy Chepchirchir, Jill Sunday, Raymond Confidence, Dong Zhang, Talha Chaudhry, Udunna C. Anazodo, Kendi Muchungi, Yujing Zou
+
+In Sub-Saharan Africa (SSA), the utilization of lower-quality Magnetic
+Resonance Imaging (MRI) technology raises questions about the applicability of
+machine learning methods for clinical tasks. This study aims to provide a
+robust deep learning-based brain tumor segmentation (BraTS) method tailored for
+the SSA population using a threefold approach. Firstly, the impact of domain
+shift from the SSA training data on model efficacy was examined, revealing no
+significant effect. Secondly, a comparative analysis of 3D and 2D
+full-resolution models using the nnU-Net framework indicates similar
+performance of both the models trained for 300 epochs achieving a five-fold
+cross-validation score of 0.93. Lastly, addressing the performance gap observed
+in SSA validation as opposed to the relatively larger BraTS glioma (GLI)
+validation set, two strategies are proposed: fine-tuning SSA cases using the
+GLI+SSA best-pretrained 2D fullres model at 300 epochs, and introducing a novel
+neural style transfer-based data augmentation technique for the SSA cases. This
+investigation underscores the potential of enhancing brain tumor prediction
+within SSA's unique healthcare landscape.
+
+摘要：在撒哈拉以南非洲 (SSA)，低质量磁共振成像 (MRI) 技术的使用引发了有关机器学习方法在临床任务中适用性的问题。本研究旨在提供一种针对 SSA 人群量身定制的鲁棒深度学习脑肿瘤分割 (BraTS) 方法，采用三重方法。首先，检查了 SSA 训练数据对模型效能的域偏移影响，结果显示没有显着影响。其次，使用 nnU-Net 框架对 3D 和 2D 全分辨率模型进行比较分析，表明针对 300 个 epoch 训练的两个模型的性能相似，实现了 0.93 的五重交叉验证分数。最后，针对 SSA 验证中观察到的性能差距，而不是相对较大的 BraTS 神经胶质瘤 (GLI) 验证集，提出了两种策略：使用 GLI+SSA 最佳预训练的 2D 全分辨率模型在 300 个 epoch 对 SSA 病例进行微调，并为 SSA 病例引入一种新颖的神经风格迁移数据增强技术。这项调查强调了在 SSA 独特的医疗保健环境中提高脑肿瘤预测潜力的可能性。
 
 ##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
 2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
@@ -536,7 +677,7 @@ reasoning capabilities into the traditional tree-based retrieval structure.
 摘要：我們提出 HiRMed（分層 RAG 增強型醫療檢測建議），一種新穎的樹狀結構建議系統，它利用檢索增強生成 (RAG) 來進行智能醫療檢測建議。與傳統的基於向量相似性的方法不同，我們的系統通過一個專門的 RAG 程序在每個樹節點執行醫療推理。從具有初始症狀的根節點開始，系統執行逐步醫療分析以識別潛在的潛在疾病及其對應的診斷要求。在每個層級，我們的 RAG 增強節點會分析檢索到的醫療知識，以了解症狀與疾病的關係，並確定最合適的診斷路徑，而不是進行簡單的匹配。系統根據醫療推理結果動態調整其建議策略，考慮緊急程度和診斷不確定性等因素。實驗結果表明，與傳統的基於檢索的方法相比，我們的做法在覆蓋率、準確性和遺漏率方面取得了優異的表現。這項工作通過將醫療推理能力引入傳統的基於樹的檢索結構，代表了醫療檢測建議的重大進展。
 
 ##### **Representation Learning of Lab Values via Masked AutoEncoder**
-2501.02648v1 by David Restrepo, Chenwei Wu, Yueran Jia, Jaden K. Sun, Jack Gallifant, Catherine G. Bielick, Yugang Jia, Leo A. Celi
+2501.02648v2 by David Restrepo, Chenwei Wu, Yueran Jia, Jaden K. Sun, Jack Gallifant, Catherine G. Bielick, Yugang Jia, Leo A. Celi
 
 Accurate imputation of missing laboratory values in electronic health records
 (EHRs) is critical to enable robust clinical predictions and reduce biases in
@@ -562,7 +703,7 @@ imputation models. In addition, we measure and compare the carbon footprint of
 Lab-MAE with the baseline XGBoost model, highlighting its environmental
 requirements.
 
-摘要：<paragraph>電子健康紀錄 (EHR) 中遺失的實驗室值的準確估算對於支援穩健的臨床預測和減少醫療保健中 AI 系統的偏差至關重要。現有的方法，例如變異自動編碼器 (VAE) 和基於決策樹的方法（例如 XGBoost），難以建模 EHR 資料中複雜的時間和背景依賴性，特別是在代表性不足的群組中。在這項工作中，我們提出 Lab-MAE，一個新穎的基於Transformer的遮罩自動編碼器框架，它利用自我監督學習來估算連續的序列實驗室值。Lab-MAE 引入了一個結構化編碼方案，它共同建模實驗室測試值及其對應的時間戳，從而能夠明確捕捉時間依賴性。在 MIMIC-IV 資料集上的經驗評估表明，Lab-MAE 在包括均方根誤差 (RMSE)、R 平方 (R2) 和 Wasserstein 距離 (WD) 在內的多項指標上顯著優於 XGBoost 等最先進的基準。值得注意的是，Lab-MAE 在患者的人口統計群組中實現了公平的表現，促進了臨床預測的公平性。我們進一步探討了後續實驗室值作為潛在捷徑特徵的作用，揭示了 Lab-MAE 在此類資料不可用的情況下的穩健性。研究結果表明，我們基於Transformer的架構適應了 EHR 資料的特徵，為更準確和公平的臨床估算模型提供了基礎模型。此外，我們測量並比較了 Lab-MAE 與基準 XGBoost 模型的碳足跡，突出了其環境要求。</paragraph>
+摘要：<paragraph>準確估算電子健康記錄 (EHR) 中遺失的實驗室值對於啟用穩健的臨床預測和減少醫療保健中 AI 系統的偏差至關重要。現有方法（例如變異自動編碼器 (VAE) 和基於決策樹的方法，例如 XGBoost）難以建模 EHR 資料中複雜的時間和上下文依賴性，特別是在代表性不足的群組中。在這項工作中，我們提出 Lab-MAE，一個新穎的基於 Transformer 的遮罩自動編碼器框架，它利用自我監督學習來估算連續順序實驗室值。Lab-MAE 引入了一個結構化編碼方案，它聯合建模實驗室測試值及其對應的時間戳，從而能夠明確捕捉時間依賴性。在 MIMIC-IV 資料集上的經驗評估表明，Lab-MAE 在包括均方根誤差 (RMSE)、R 平方 (R2) 和 Wasserstein 距離 (WD) 在內的多項指標上顯著優於 XGBoost 等最先進的基準。值得注意的是，Lab-MAE 在患者的人口統計群組中取得了公平的表現，從而提升了臨床預測中的公平性。我們進一步研究了後續實驗室值作為潛在捷徑特徵的作用，揭示了 Lab-MAE 在此類資料不可用的情況下的穩健性。研究結果表明，我們基於 Transformer 的架構（調整為 EHR 資料的特徵）為更準確和公平的臨床估算模型提供了一個基礎模型。此外，我們測量並比較了 Lab-MAE 與基準 XGBoost 模型的碳足跡，突出了其環境需求。</paragraph>
 
 ##### **Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**
 2501.02647v1 by Ellis Solaiman, Christa Awad
@@ -2434,157 +2575,4 @@ methods. Additionally, we propose new AI-based methods beyond automated coding,
 suggesting alternative approaches to assist clinical coders in their workflows.
 
 摘要：臨床編碼對於醫療保健計費和數據分析至關重要。手動臨床編碼勞力密集且容易出錯，這促使研究朝向流程的全面自動化。然而，我們的分析基於美國英文電子健康記錄和使用這些記錄的自動編碼研究，顯示廣泛使用的評估方法與實際臨床背景不符。例如，專注於前 50 個最常見代碼的評估過於簡化，因為實務上使用了數千個代碼。本立場文件旨在讓 AI 編碼研究更貼近臨床編碼的實際挑戰。根據我們的分析，我們提出八項具體建議，提出改善目前評估方法的方法。此外，我們提出超越自動編碼的新 AI 方法，提出協助臨床編碼人員進行工作流程的替代方法。
-
-##### **A Grounded Observer Framework for Establishing Guardrails for Foundation Models in Socially Sensitive Domains**
-2412.18639v1 by Rebecca Ramnauth, Dražen Brščić, Brian Scassellati
-
-As foundation models increasingly permeate sensitive domains such as
-healthcare, finance, and mental health, ensuring their behavior meets desired
-outcomes and social expectations becomes critical. Given the complexities of
-these high-dimensional models, traditional techniques for constraining agent
-behavior, which typically rely on low-dimensional, discrete state and action
-spaces, cannot be directly applied. Drawing inspiration from robotic action
-selection techniques, we propose the grounded observer framework for
-constraining foundation model behavior that offers both behavioral guarantees
-and real-time variability. This method leverages real-time assessment of
-low-level behavioral characteristics to dynamically adjust model actions and
-provide contextual feedback. To demonstrate this, we develop a system capable
-of sustaining contextually appropriate, casual conversations ("small talk"),
-which we then apply to a robot for novel, unscripted interactions with humans.
-Finally, we discuss potential applications of the framework for other social
-contexts and areas for further research.
-
-摘要：隨著基礎模型日益滲透醫療保健、金融和心理健康等敏感領域，確保其行為符合預期的結果和社會期望至關重要。鑑於這些高維度模型的複雜性，傳統的約束代理行為技術（通常依賴於低維度、離散狀態和動作空間）無法直接應用。從機器人動作選擇技術中汲取靈感，我們提出了基礎模型行為約束的基礎觀察者框架，該框架既提供了行為保證，又提供了實時變異性。此方法利用對低層行為特徵的實時評估，來動態調整模型動作並提供情境回饋。為了證明這一點，我們開發了一個系統，能夠維持適當的語境、隨意的對話（「閒聊」），然後我們將其應用於機器人，以進行與人類的新穎、非腳本互動。最後，我們討論了該框架在其他社會環境中的潛在應用，以及進一步研究的領域。
-
-##### **Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks**
-2412.17975v1 by Victor Júnio Alcântara Cardoso, Rodrigo Moreira, João Fernando Mari, Larissa Ferreira Rodrigues Moreira
-
-Sickle cell anemia, which is characterized by abnormal erythrocyte
-morphology, can be detected using microscopic images. Computational techniques
-in medicine enhance the diagnosis and treatment efficiency. However, many
-computational techniques, particularly those based on Convolutional Neural
-Networks (CNNs), require high resources and time for training, highlighting the
-research opportunities in methods with low computational overhead. In this
-paper, we propose a novel approach combining conventional classifiers,
-segmented images, and CNNs for the automated classification of sickle cell
-disease. We evaluated the impact of segmented images on classification,
-providing insight into deep learning integration. Our results demonstrate that
-using segmented images and CNN features with an SVM achieves an accuracy of
-96.80%. This finding is relevant for computationally efficient scenarios,
-paving the way for future research and advancements in medical-image analysis.
-
-摘要：镰状细胞贫血症的特征是红细胞形态异常，可通过显微镜图像检测。医学中的计算技术提高了诊断和治疗效率。然而，许多计算技术，特别是基于卷积神经网络 (CNN) 的技术，需要大量的资源和时间进行训练，这突出了低计算开销方法的研究机会。在本文中，我们提出了一种新颖的方法，结合传统分类器、分割图像和 CNN，用于镰状细胞病的自动化分类。我们评估了分割图像对分类的影响，提供了对深度学习集成的见解。我们的结果表明，使用分割图像和 CNN 特征与 SVM 一起使用可实现 96.80% 的准确率。这一发现与计算效率高的场景相关，为医学图像分析的未来研究和进步铺平了道路。
-
-##### **A Novel Approach to Balance Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes and its Implementation in BEACON**
-2412.17910v1 by Vansh Nagpal, Siva Likitha Valluru, Kausik Lakkaraju, Nitin Gupta, Zach Abdulrahman, Andrew Davison, Biplav Srivastava
-
-"A common decision made by people, whether healthy or with health conditions,
-is choosing meals like breakfast, lunch, and dinner, comprising combinations of
-foods for appetizer, main course, side dishes, desserts, and beverages. Often,
-this decision involves tradeoffs between nutritious choices (e.g., salt and
-sugar levels, nutrition content) and convenience (e.g., cost and accessibility,
-cuisine type, food source type). We present a data-driven solution for meal
-recommendations that considers customizable meal configurations and time
-horizons. This solution balances user preferences while accounting for food
-constituents and cooking processes. Our contributions include introducing
-goodness measures, a recipe conversion method from text to the recently
-introduced multimodal rich recipe representation (R3) format, learning methods
-using contextual bandits that show promising preliminary results, and the
-prototype, usage-inspired, BEACON system."
-
-摘要：「無論是健康或患有健康狀況的人，都會做出的常見決定，
-是選擇像早餐、午餐和晚餐等餐點，包括開胃菜、主菜、配菜、甜點和飲料的組合。通常，
-這個決定涉及營養選擇（例如鹽和糖的含量、營養成分）和便利性（例如成本和可取得性、菜系類型、食物來源類型）之間的權衡。我們提出一個資料驅動的解決方案，用於餐點推薦，它考量了可自訂的餐點配置和時間範圍。這個解決方案在考量食物成分和烹飪過程的同時，平衡了使用者的喜好。我們的貢獻包括引進優良措施、從文字到最近推出的多模式豐富食譜表示法 (R3) 格式的食譜轉換方法、使用情境強盜的學習方法，這些方法顯示出有希望的初步結果，以及原型、使用靈感的 BEACON 系統。」
-
-##### **Detecting anxiety and depression in dialogues: a multi-label and explainable approach**
-2412.17651v1 by Francisco de Arriba-Pérez, Silvia García-Méndez
-
-Anxiety and depression are the most common mental health issues worldwide,
-affecting a non-negligible part of the population. Accordingly, stakeholders,
-including governments' health systems, are developing new strategies to promote
-early detection and prevention from a holistic perspective (i.e., addressing
-several disorders simultaneously). In this work, an entirely novel system for
-the multi-label classification of anxiety and depression is proposed. The input
-data consists of dialogues from user interactions with an assistant chatbot.
-Another relevant contribution lies in using Large Language Models (LLMs) for
-feature extraction, provided the complexity and variability of language. The
-combination of LLMs, given their high capability for language understanding,
-and Machine Learning (ML) models, provided their contextual knowledge about the
-classification problem thanks to the labeled data, constitute a promising
-approach towards mental health assessment. To promote the solution's
-trustworthiness, reliability, and accountability, explainability descriptions
-of the model's decision are provided in a graphical dashboard. Experimental
-results on a real dataset attain 90 % accuracy, improving those in the prior
-literature. The ultimate objective is to contribute in an accessible and
-scalable way before formal treatment occurs in the healthcare systems.
-
-摘要：焦慮和憂鬱症是全球最常見的心理健康問題，
-影響著人口中不可忽視的一部分。因此，利益相關者，
-包括政府的衛生系統，正在制定新的策略來促進
-從整體角度及早發現和預防（即同時解決
-多種疾病）。在這項工作中，一個完全新穎的系統
-用於焦慮和憂鬱症的多標籤分類。輸入
-資料包含使用者與助理聊天機器人互動的對話。
-另一個相關的貢獻在於使用大型語言模型 (LLM) 進行
-特徵萃取，提供了語言的複雜性和可變性。LLM 的組合，
-由於它們對語言理解的高能力，以及機器學習 (ML) 模型，
-由於它們對分類問題的背景知識，這要歸功於標籤資料，
-構成了一種有希望的心理健康評估方法。為了促進解決方案的
-可信度、可靠性和問責制，模型決策的可解釋性描述
-在圖形儀表板中提供。在真實資料集上的實驗結果達到 90% 的準確度，
-改進了先前文獻中的準確度。最終目標是以一種可訪問且
-可擴展的方式做出貢獻，在醫療保健系統中進行正式治療之前。
-
-##### **Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey**
-2412.17616v1 by Zixuan Shanggua, Yanjie Dong, Song Guo, Victor C. M. Leung, M. Jamal Deen, Xiping Hu
-
-Facial expressions convey human emotions and can be categorized into
-macro-expressions (MaEs) and micro-expressions (MiEs) based on duration and
-intensity. While MaEs are voluntary and easily recognized, MiEs are
-involuntary, rapid, and can reveal concealed emotions. The integration of
-facial expression analysis with Internet-of-Thing (IoT) systems has significant
-potential across diverse scenarios. IoT-enhanced MaE analysis enables real-time
-monitoring of patient emotions, facilitating improved mental health care in
-smart healthcare. Similarly, IoT-based MiE detection enhances surveillance
-accuracy and threat detection in smart security. This work aims at providing a
-comprehensive overview of research progress in facial expression analysis and
-explores its integration with IoT systems. We discuss the distinctions between
-our work and existing surveys, elaborate on advancements in MaE and MiE
-techniques across various learning paradigms, and examine their potential
-applications in IoT. We highlight challenges and future directions for the
-convergence of facial expression-based technologies and IoT systems, aiming to
-foster innovation in this domain. By presenting recent developments and
-practical applications, this study offers a systematic understanding of how
-facial expression analysis can enhance IoT systems in healthcare, security, and
-beyond.
-
-摘要：面部表情傳達人類的情緒，並可根據持續時間和強度分為宏觀表情（MaE）和微表情（MiE）。雖然 MaE 是自願且易於識別的，但 MiE 是非自願的、快速的，並且可以揭示隱藏的情緒。面部表情分析與物聯網（IoT）系統的整合在不同場景中具有顯著的潛力。增強型 MaE 分析的 IoT 可實現對患者情緒的實時監控，促進智慧醫療中的心理保健改善。類似地，基於 IoT 的 MiE 檢測增強了智慧安全中的監控準確性和威脅檢測。這項工作旨在提供面部表情分析研究進展的全面概述，並探討其與 IoT 系統的整合。我們討論了我們的工作與現有調查之間的區別，闡述了各種學習範例中 MaE 和 MiE 技術的進步，並探討了它們在 IoT 中的潛在應用。我們強調了基於面部表情的技術與 IoT 系統融合的挑戰和未來方向，旨在促進這一領域的創新。通過展示最近的發展和實際應用，本研究提供了面部表情分析如何增強醫療保健、安全等方面的 IoT 系統的系統性理解。
-
-##### **V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**
-2412.17595v1 by Long Bai, Beilei Cui, Liangyu Wang, Yanheng Li, Shilong Yao, Sishen Yuan, Yanan Wu, Yang Zhang, Max Q. -H. Meng, Zhen Li, Weiping Ding, Hongliang Ren
-
-Deep learning can predict depth maps and capsule ego-motion from capsule
-endoscopy videos, aiding in 3D scene reconstruction and lesion localization.
-However, the collisions of the capsule endoscopies within the gastrointestinal
-tract cause vibration perturbations in the training data. Existing solutions
-focus solely on vision-based processing, neglecting other auxiliary signals
-like vibrations that could reduce noise and improve performance. Therefore, we
-propose V$^2$-SfMLearner, a multimodal approach integrating vibration signals
-into vision-based depth and capsule motion estimation for monocular capsule
-endoscopy. We construct a multimodal capsule endoscopy dataset containing
-vibration and visual signals, and our artificial intelligence solution develops
-an unsupervised method using vision-vibration signals, effectively eliminating
-vibration perturbations through multimodal learning. Specifically, we carefully
-design a vibration network branch and a Fourier fusion module, to detect and
-mitigate vibration noises. The fusion framework is compatible with popular
-vision-only algorithms. Extensive validation on the multimodal dataset
-demonstrates superior performance and robustness against vision-only
-algorithms. Without the need for large external equipment, our V$^2$-SfMLearner
-has the potential for integration into clinical capsule robots, providing
-real-time and dependable digestive examination tools. The findings show promise
-for practical implementation in clinical settings, enhancing the diagnostic
-capabilities of doctors.
-
-摘要：深度學習可以從膠囊內視鏡影片預測深度圖和膠囊自我運動，協助進行 3D 場景重建和病灶定位。
-然而，膠囊內視鏡在胃腸道內的碰撞會造成訓練資料中的振動擾動。現有的解決方案僅專注於基於視覺的處理，忽略了其他輔助訊號，例如可以降低雜訊和提升效能的振動。因此，我們提出 V$^2$-SfMLearner，這是一種多模態方法，將振動訊號整合到基於視覺的深度和膠囊運動估計中，用於單眼膠囊內視鏡。我們建構了一個包含振動和視覺訊號的多模態膠囊內視鏡資料集，而我們的人工智慧解決方案使用視覺振動訊號開發了一種非監督式方法，透過多模態學習有效消除振動擾動。具體來說，我們仔細設計了一個振動網路分支和一個傅立葉融合模組，以偵測和減輕振動雜訊。融合架構與常見的純視覺演算法相容。在多模態資料集上的廣泛驗證證明了與純視覺演算法相比，其具有優異的效能和穩健性。我們的 V$^2$-SfMLearner 無需大型外部設備，有潛力整合到臨床膠囊機器人中，提供即時且可靠的消化道檢查工具。研究結果顯示在臨床環境中實際執行的可能性，提升醫師的診斷能力。
 

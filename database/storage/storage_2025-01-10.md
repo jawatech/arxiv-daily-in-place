@@ -1,2552 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-01-10 09:33:40 Asia/Taipei
+ Automated deployment @ 2025-01-10 20:36:00 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
 ## AI
-
-### LLM
-|Publish Date|Title|Authors|Homepage|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
-|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697v1](http://arxiv.org/abs/2501.04697v1)|[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)|
-|**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694v1](http://arxiv.org/abs/2501.04694v1)|null|
-|**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693v1](http://arxiv.org/abs/2501.04693v1)|null|
-|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
-|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675v1](http://arxiv.org/abs/2501.04675v1)|null|
-|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
-|**2025-01-08**|**On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**|Tarek Naous et.al.|[2501.04662v1](http://arxiv.org/abs/2501.04662v1)|null|
-|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661v1](http://arxiv.org/abs/2501.04661v1)|null|
-|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
-|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
-|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
-|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591v1](http://arxiv.org/abs/2501.04591v1)|null|
-|**2025-01-08**|**Federated-Continual Dynamic Segmentation of Histopathology guided by Barlow Continuity**|Niklas Babendererde et.al.|[2501.04588v1](http://arxiv.org/abs/2501.04588v1)|null|
-|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575v1](http://arxiv.org/abs/2501.04575v1)|[link](https://github.com/reallm-labs/infiguiagent)|
-|**2025-01-08**|**Supervision-free Vision-Language Alignment**|Giorgio Giannone et.al.|[2501.04568v1](http://arxiv.org/abs/2501.04568v1)|null|
-|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561v1](http://arxiv.org/abs/2501.04561v1)|null|
-|**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519v1](http://arxiv.org/abs/2501.04519v1)|null|
-|**2025-01-08**|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger et.al.|[2501.04513v1](http://arxiv.org/abs/2501.04513v1)|null|
-|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
-|**2025-01-08**|**Developing a Modular Compiler for a Subset of a C-like Language**|Debasish Dutta et.al.|[2501.04503v1](http://arxiv.org/abs/2501.04503v1)|null|
-|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487v1](http://arxiv.org/abs/2501.04487v1)|null|
-|**2025-01-08**|**Research on environment perception and behavior prediction of intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480v1](http://arxiv.org/abs/2501.04480v1)|null|
-|**2025-01-08**|**When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages**|Archchana Sindhujan et.al.|[2501.04473v1](http://arxiv.org/abs/2501.04473v1)|null|
-|**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472v1](http://arxiv.org/abs/2501.04472v1)|null|
-|**2025-01-08**|**Hidden Entity Detection from GitHub Leveraging Large Language Models**|Lu Gan et.al.|[2501.04455v1](http://arxiv.org/abs/2501.04455v1)|[link](https://github.com/louisegan514/hidden-entity-detection-from-github-leveraging-llms)|
-|**2025-01-08**|**A novel Facial Recognition technique with Focusing on Masked Faces**|Dana A Abdullah et.al.|[2501.04444v1](http://arxiv.org/abs/2501.04444v1)|null|
-|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437v1](http://arxiv.org/abs/2501.04437v1)|null|
-|**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436v1](http://arxiv.org/abs/2501.04436v1)|null|
-|**2025-01-08**|**A Digital Shadow for Modeling, Studying and Preventing Urban Crime**|Juan Palma-Borda et.al.|[2501.04435v1](http://arxiv.org/abs/2501.04435v1)|null|
-|**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425v1](http://arxiv.org/abs/2501.04425v1)|null|
-|**2025-01-08**|**NSA: Neuro-symbolic ARC Challenge**|Paweł Batorski et.al.|[2501.04424v1](http://arxiv.org/abs/2501.04424v1)|[link](https://github.com/batorskq/nsa)|
-|**2025-01-08**|**User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation**|Krisztian Balog et.al.|[2501.04410v1](http://arxiv.org/abs/2501.04410v1)|null|
-|**2025-01-08**|**SEO: Stochastic Experience Optimization for Large Language Models**|Jitao Xu et.al.|[2501.04393v1](http://arxiv.org/abs/2501.04393v1)|null|
-|**2025-01-08**|**On Computational Limits and Provably Efficient Criteria of Visual Autoregressive Models: A Fine-Grained Complexity Analysis**|Yekun Ke et.al.|[2501.04377v1](http://arxiv.org/abs/2501.04377v1)|null|
-|**2025-01-08**|**DispFormer: Pretrained Transformer for Flexible Dispersion Curve Inversion from Global Synthesis to Regional Applications**|Feng Liu et.al.|[2501.04366v1](http://arxiv.org/abs/2501.04366v1)|[link](https://github.com/liufeng2317/DispFormer)|
-|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359v1](http://arxiv.org/abs/2501.04359v1)|null|
-|**2025-01-08**|**Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting**|Dong-Hai Zhu et.al.|[2501.04341v1](http://arxiv.org/abs/2501.04341v1)|[link](https://github.com/zdhgreat/isp-2)|
-|**2025-01-08**|**Who Does the Giant Number Pile Like Best: Analyzing Fairness in Hiring Contexts**|Preethi Seshadri et.al.|[2501.04316v1](http://arxiv.org/abs/2501.04316v1)|null|
-|**2025-01-08**|**RoRA: Efficient Fine-Tuning of LLM with Reliability Optimization for Rank Adaptation**|Jun Liu et.al.|[2501.04315v1](http://arxiv.org/abs/2501.04315v1)|null|
-|**2025-01-08**|**LLM4SR: A Survey on Large Language Models for Scientific Research**|Ziming Luo et.al.|[2501.04306v1](http://arxiv.org/abs/2501.04306v1)|[link](https://github.com/du-nlp-lab/llm4sr)|
-|**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
-|**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302v1](http://arxiv.org/abs/2501.04302v1)|null|
-|**2025-01-08**|**Circuit Complexity Bounds for Visual Autoregressive Model**|Yekun Ke et.al.|[2501.04299v1](http://arxiv.org/abs/2501.04299v1)|null|
-|**2025-01-08**|**MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge**|Zijiang Yang et.al.|[2501.04292v1](http://arxiv.org/abs/2501.04292v1)|null|
-|**2025-01-08**|**Mapping the Edge of Chaos: Fractal-Like Boundaries in The Trainability of Decoder-Only Transformer Models**|Bahman Torkamandi et.al.|[2501.04286v1](http://arxiv.org/abs/2501.04286v1)|null|
-|**2025-01-08**|**Enhancing Scene Classification in Cloudy Image Scenarios: A Collaborative Transfer Method with Information Regulation Mechanism using Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283v1](http://arxiv.org/abs/2501.04283v1)|null|
-|**2025-01-08**|**Scaling Large Language Model Training on Frontier with Low-Bandwidth Partitioning**|Lang Xu et.al.|[2501.04266v1](http://arxiv.org/abs/2501.04266v1)|null|
-|**2025-01-08**|**Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems**|Anbang Liu et.al.|[2501.04253v1](http://arxiv.org/abs/2501.04253v1)|null|
-|**2025-01-08**|**IOLBENCH: Benchmarking LLMs on Linguistic Reasoning**|Satyam Goyal et.al.|[2501.04249v1](http://arxiv.org/abs/2501.04249v1)|null|
-|**2025-01-08**|**Agent Laboratory: Using LLM Agents as Research Assistants**|Samuel Schmidgall et.al.|[2501.04227v1](http://arxiv.org/abs/2501.04227v1)|null|
-|**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
-|**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
-|**2025-01-08**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211v1](http://arxiv.org/abs/2501.04211v1)|null|
-|**2025-01-08**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202v1](http://arxiv.org/abs/2501.04202v1)|null|
-|**2025-01-07**|**HIVEX: A High-Impact Environment Suite for Multi-Agent Research (extended version)**|Philipp D. Siedler et.al.|[2501.04180v1](http://arxiv.org/abs/2501.04180v1)|null|
-|**2025-01-07**|**Multimodal Multihop Source Retrieval for Web Question Answering**|Navya Yarrabelly et.al.|[2501.04173v1](http://arxiv.org/abs/2501.04173v1)|null|
-|**2025-01-07**|**Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation**|Alireza Salemi et.al.|[2501.04167v1](http://arxiv.org/abs/2501.04167v1)|null|
-|**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155v1](http://arxiv.org/abs/2501.04155v1)|[link](https://github.com/sjoshi804/mm-gen)|
-|**2025-01-07**|**Multilingual Open QA on the MIA Shared Task**|Navya Yarrabelly et.al.|[2501.04153v1](http://arxiv.org/abs/2501.04153v1)|null|
-|**2025-01-07**|**BiasGuard: Guardrailing Fairness in Machine Learning Production Systems**|Nurit Cohen-Inger et.al.|[2501.04142v1](http://arxiv.org/abs/2501.04142v1)|null|
-|**2025-01-07**|**"Yeah Right!" -- Do LLMs Exhibit Multimodal Feature Transfer?**|Benjamin Reichman et.al.|[2501.04138v1](http://arxiv.org/abs/2501.04138v1)|null|
-|**2025-01-07**|**Implementing Systemic Thinking for Automatic Schema Matching: An Agent-Based Modeling Approach**|Hicham Assoudi et.al.|[2501.04136v1](http://arxiv.org/abs/2501.04136v1)|null|
-|**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991v1](http://arxiv.org/abs/2501.03991v1)|null|
-|**2025-01-07**|**Semantically Cohesive Word Grouping in Indian Languages**|N J Karthika et.al.|[2501.03988v1](http://arxiv.org/abs/2501.03988v1)|null|
-|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968v1](http://arxiv.org/abs/2501.03968v1)|null|
-|**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952v1](http://arxiv.org/abs/2501.03952v1)|null|
-|**2025-01-07**|**Synthetic Data Privacy Metrics**|Amy Steier et.al.|[2501.03941v1](http://arxiv.org/abs/2501.03941v1)|null|
-|**2025-01-07**|**Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**|Pablo Miralles-González et.al.|[2501.03940v1](http://arxiv.org/abs/2501.03940v1)|null|
-|**2025-01-07**|**Multi-armed Bandit and Backbone boost Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problems**|Long Wang et.al.|[2501.04072v1](http://arxiv.org/abs/2501.04072v1)|[link](https://github.com/jhl-hust/mabb-lkh)|
-|**2025-01-07**|**From Newswire to Nexus: Using text-based actor embeddings and transformer networks to forecast conflict dynamics**|Mihai Croicu et.al.|[2501.03928v1](http://arxiv.org/abs/2501.03928v1)|null|
-|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
-|**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895v1](http://arxiv.org/abs/2501.03895v1)|[link](https://github.com/ictnlp/llava-mini)|
-|**2025-01-07**|**Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies**|Kexin Gu Baugh et.al.|[2501.03888v1](http://arxiv.org/abs/2501.03888v1)|null|
-|**2025-01-07**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884v1](http://arxiv.org/abs/2501.03884v1)|null|
-|**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879v1](http://arxiv.org/abs/2501.03879v1)|null|
-|**2025-01-07**|**Add Noise, Tasks, or Layers? MaiNLP at the VarDial 2025 Shared Task on Norwegian Dialectal Slot and Intent Detection**|Verena Blaschke et.al.|[2501.03870v1](http://arxiv.org/abs/2501.03870v1)|null|
-|**2025-01-07**|**Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**|Xaver Maria Krückl et.al.|[2501.03863v1](http://arxiv.org/abs/2501.03863v1)|[link](https://github.com/mainlp/auxtasks-bavarian-sid)|
-|**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857v1](http://arxiv.org/abs/2501.03857v1)|null|
-|**2025-01-07**|**BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context**|Alexis Matzopoulos et.al.|[2501.03855v1](http://arxiv.org/abs/2501.03855v1)|null|
-|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v2](http://arxiv.org/abs/2501.03847v2)|[link](https://github.com/igl-hkust/diffusionasshader)|
-|**2025-01-07**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070v2](http://arxiv.org/abs/2501.04070v2)|[link](https://github.com/xiaoqzhwhu/dr-icl)|
-|**2025-01-07**|**BERTopic for Topic Modeling of Hindi Short Texts: A Comparative Study**|Atharva Mutsaddi et.al.|[2501.03843v1](http://arxiv.org/abs/2501.03843v1)|null|
-|**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
-|**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832v1](http://arxiv.org/abs/2501.03832v1)|null|
-|**2025-01-07**|**Investigating the Impact of Data Selection Strategies on Language Model Performance**|Jiayao Gu et.al.|[2501.03826v1](http://arxiv.org/abs/2501.03826v1)|[link](https://github.com/jgu13/hir-hybrid-importance-resampling-for-language-models)|
-|**2025-01-07**|**Deep Sylvester Posterior Inference for Adaptive Compressed Sensing in Ultrasound Imaging**|Simon W. Penninga et.al.|[2501.03825v1](http://arxiv.org/abs/2501.03825v1)|null|
-|**2025-01-07**|**Online Reinforcement Learning-Based Dynamic Adaptive Evaluation Function for Real-Time Strategy Tasks**|Weilong Yang et.al.|[2501.03824v1](http://arxiv.org/abs/2501.03824v1)|null|
-|**2025-01-07**|**Detecting the Undetectable: Assessing the Efficacy of Current Spoof Detection Methods Against Seamless Speech Edits**|Sung-Feng Huang et.al.|[2501.03805v1](http://arxiv.org/abs/2501.03805v1)|null|
-|**2025-01-07**|**Self-Adaptive ERP: Embedding NLP into Petri-Net creation and Model Matching**|Ahmed Maged et.al.|[2501.03795v1](http://arxiv.org/abs/2501.03795v1)|null|
-|**2025-01-07**|**Explainable Reinforcement Learning for Formula One Race Strategy**|Devin Thomas et.al.|[2501.04068v1](http://arxiv.org/abs/2501.04068v1)|null|
-|**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783v1](http://arxiv.org/abs/2501.03783v1)|null|
-|**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
-|**2025-01-07**|**Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series**|Yuxiao Hu et.al.|[2501.03747v1](http://arxiv.org/abs/2501.03747v1)|null|
-|**2025-01-07**|**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**|Jamie Todd et.al.|[2501.04067v1](http://arxiv.org/abs/2501.04067v1)|null|
-|**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722v1](http://arxiv.org/abs/2501.03722v1)|null|
-|**2025-01-07**|**Unsupervised Speech Segmentation: A General Approach Using Speech Language Models**|Avishai Elmakies et.al.|[2501.03711v1](http://arxiv.org/abs/2501.03711v1)|[link](https://github.com/avishaielmakies/unsupervised_speech_segmentation_using_slm)|
-|**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700v1](http://arxiv.org/abs/2501.03700v1)|null|
-
-#### Abstracts
-##### **Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**
-2501.04700v1 by Ziyuan Huang, Mark Newman, Maria Vaida, Srikar Bellur, Roozbeh Sadeghian, Andrew Siu, Hui Wang, Kevin Huggins
-
-This study examined the viability of enhancing the prediction accuracy of
-artificial neural networks (ANNs) in image classification tasks by developing
-ANNs with evolution patterns similar to those of biological neural networks.
-ResNet is a widely used family of neural networks with both deep and wide
-variants; therefore, it was selected as the base model for our investigation.
-The aim of this study is to improve the image classification performance of
-ANNs via a novel approach inspired by the biological nervous system
-architecture of planarians, which comprises a brain and two nerve cords. We
-believe that the unique neural architecture of planarians offers valuable
-insights into the performance enhancement of ANNs. The proposed planarian
-neural architecture-based neural network was evaluated on the CIFAR-10 and
-CIFAR-100 datasets. Our results indicate that the proposed method exhibits
-higher prediction accuracy than the baseline neural network models in image
-classification tasks. These findings demonstrate the significant potential of
-biologically inspired neural network architectures in improving the performance
-of ANNs in a wide range of applications.
-
-摘要：本研究探討了透過開發具有與生物神經網路相似的演化模式的人工神經網路 (ANN)，來提升人工神經網路在影像分類任務中預測精確度的可行性。ResNet 是一個廣泛使用的神經網路系列，具有深層和廣泛的變異；因此，它被選為我們研究的基本模型。本研究的目的是透過一種新穎的方法來提升人工神經網路的影像分類效能，此方法的靈感來自於扁蟲的生物神經系統架構，其中包含一個大腦和兩條神經索。我們相信扁蟲獨特的神經架構能為提升人工神經網路的效能提供有價值的見解。所提出的基於扁蟲神經架構的神經網路在 CIFAR-10 和 CIFAR-100 資料集上進行評估。我們的結果顯示，所提出的方法在影像分類任務中展現出比基準神經網路模型更高的預測精確度。這些發現證明了受生物啟發的神經網路架構在提升人工神經網路在廣泛應用中的效能方面具有顯著的潛力。
-
-##### **Grokking at the Edge of Numerical Stability**
-2501.04697v1 by Lucas Prieto, Melih Barsbey, Pedro A. M. Mediano, Tolga Birdal
-
-Grokking, the sudden generalization that occurs after prolonged overfitting,
-is a surprising phenomenon challenging our understanding of deep learning.
-Although significant progress has been made in understanding grokking, the
-reasons behind the delayed generalization and its dependence on regularization
-remain unclear. In this work, we argue that without regularization, grokking
-tasks push models to the edge of numerical stability, introducing floating
-point errors in the Softmax function, which we refer to as Softmax Collapse
-(SC). We demonstrate that SC prevents grokking and that mitigating SC enables
-grokking without regularization. Investigating the root cause of SC, we find
-that beyond the point of overfitting, the gradients strongly align with what we
-call the na\"ive loss minimization (NLM) direction. This component of the
-gradient does not alter the model's predictions but decreases the loss by
-scaling the logits, typically by scaling the weights along their current
-direction. We show that this scaling of the logits explains the delay in
-generalization characteristic of grokking and eventually leads to SC, halting
-further learning. To validate our hypotheses, we introduce two key
-contributions that address the challenges in grokking tasks: StableMax, a new
-activation function that prevents SC and enables grokking without
-regularization, and $\perp$Grad, a training algorithm that promotes quick
-generalization in grokking tasks by preventing NLM altogether. These
-contributions provide new insights into grokking, elucidating its delayed
-generalization, reliance on regularization, and the effectiveness of existing
-grokking-inducing methods. Code for this paper is available at
-https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability.
-
-摘要：<paragraph>過擬合後突然發生的廣泛化，稱為「頓悟」，是一個令人驚訝的現象，挑戰了我們對深度學習的理解。雖然在理解頓悟方面已取得重大進展，但延遲廣泛化背後的原因及其對正則化的依賴性仍不清楚。在這項工作中，我們論證說，在沒有正則化的情況下，頓悟任務會將模型推到數值穩定性的邊緣，在 Softmax 函數中引入浮點誤差，我們稱之為 Softmax 崩潰 (SC)。我們證明 SC 會阻止頓悟，而減輕 SC 可以讓頓悟在沒有正則化的情況下發生。在調查 SC 的根本原因時，我們發現，在過擬合點之外，梯度與我們稱之為「樸素損失最小化」(NLM) 方向強烈對齊。梯度的這個組成部分不會改變模型的預測，但會透過調整 logit 來降低損失，通常是沿著其當前方向調整權重。我們表明，logit 的這種調整解釋了頓悟特有的廣泛化延遲，並最終導致 SC，阻礙進一步學習。為了驗證我們的假設，我們提出了兩個關鍵貢獻，以解決頓悟任務中的挑戰：StableMax，這是一個新的激活函數，可以防止 SC 並在沒有正則化的情況下實現頓悟，以及 $\perp$Grad，這是一種訓練演算法，透過完全防止 NLM，在頓悟任務中促進快速廣泛化。這些貢獻為頓悟提供了新的見解，闡明了其延遲廣泛化、對正則化的依賴性，以及現有頓悟誘導方法的有效性。本文的程式碼可在 https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability 取得。</paragraph>
-
-##### **EpiCoder: Encompassing Diversity and Complexity in Code Generation**
-2501.04694v1 by Yaoxiang Wang, Haoling Li, Xin Zhang, Jie Wu, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li
-
-Effective instruction tuning is indispensable for optimizing code LLMs,
-aligning model behavior with user expectations and enhancing model performance
-in real-world applications. However, most existing methods focus on code
-snippets, which are limited to specific functionalities and rigid structures,
-restricting the complexity and diversity of the synthesized data. To address
-these limitations, we introduce a novel feature tree-based synthesis framework
-inspired by Abstract Syntax Trees (AST). Unlike AST, which captures syntactic
-structure of code, our framework models semantic relationships between code
-elements, enabling the generation of more nuanced and diverse data. The feature
-tree is constructed from raw data and refined iteratively to increase the
-quantity and diversity of the extracted features. This process enables the
-identification of more complex patterns and relationships within the code. By
-sampling subtrees with controlled depth and breadth, our framework allows
-precise adjustments to the complexity of the generated code, supporting a wide
-range of tasks from simple function-level operations to intricate multi-file
-scenarios. We fine-tuned widely-used base models to create the EpiCoder series,
-achieving state-of-the-art performance at both the function and file levels
-across multiple benchmarks. Notably, empirical evidence indicates that our
-approach shows significant potential in synthesizing highly complex
-repository-level code data. Further analysis elucidates the merits of this
-approach by rigorously assessing data complexity and diversity through software
-engineering principles and LLM-as-a-judge method.
-
-摘要：有效的指令調整對於最佳化程式碼 LLM 至關重要，可將模型行為與使用者預期保持一致，並提升模型在實際應用中的效能。然而，現有的方法大多著重於程式碼片段，僅限於特定功能和僵化的結構，限制了合成資料的複雜性和多樣性。為了解決這些限制，我們引入一種新穎的基於特徵樹的合成架構，靈感來自抽象語法樹 (AST)。與擷取程式碼語法結構的 AST 不同，我們的架構會對程式碼元素之間的語意關係建模，能夠產生更細緻且多樣化的資料。特徵樹是由原始資料建構而成，並反覆精煉以增加提取特徵的數量和多樣性。此程序能識別程式碼中更複雜的模式和關係。透過以受控深度和廣度取樣子樹，我們的架構允許精確調整產生程式碼的複雜度，支援從簡單函式層級操作到複雜多檔案場景的各種任務。我們微調廣泛使用的基礎模型以建立 EpiCoder 系列，在函式和檔案層級上於多個基準測試中達成最先進的效能。值得注意的是，實證證據顯示，我們的做法在合成高度複雜的儲存庫層級程式碼資料方面具有顯著的潛力。進一步的分析透過軟體工程原則和 LLM 作為評判方法，嚴謹地評估資料的複雜性和多樣性，闡明此方法的優點。
-
-##### **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**
-2501.04693v1 by Joshua Jones, Oier Mees, Carmelo Sferrazza, Kyle Stachowicz, Pieter Abbeel, Sergey Levine
-
-Interacting with the world is a multi-sensory experience: achieving effective
-general-purpose interaction requires making use of all available modalities --
-including vision, touch, and audio -- to fill in gaps from partial observation.
-For example, when vision is occluded reaching into a bag, a robot should rely
-on its senses of touch and sound. However, state-of-the-art generalist robot
-policies are typically trained on large datasets to predict robot actions
-solely from visual and proprioceptive observations. In this work, we propose
-FuSe, a novel approach that enables finetuning visuomotor generalist policies
-on heterogeneous sensor modalities for which large datasets are not readily
-available by leveraging natural language as a common cross-modal grounding. We
-combine a multimodal contrastive loss with a sensory-grounded language
-generation loss to encode high-level semantics. In the context of robot
-manipulation, we show that FuSe enables performing challenging tasks that
-require reasoning jointly over modalities such as vision, touch, and sound in a
-zero-shot setting, such as multimodal prompting, compositional cross-modal
-prompting, and descriptions of objects it interacts with. We show that the same
-recipe is applicable to widely different generalist policies, including both
-diffusion-based generalist policies and large vision-language-action (VLA)
-models. Extensive experiments in the real world show that FuSeis able to
-increase success rates by over 20% compared to all considered baselines.
-
-摘要：與世界互動是一種多感官體驗：要達成有效的通用互動，必須利用所有可用的方式，包括視覺、觸覺和聽覺，以填補部分觀察的空白。例如，當視覺被遮蔽時，機器人應依賴其觸覺和聽覺。然而，最先進的通用機器人策略通常在大型資料集上訓練，以僅從視覺和本體感覺觀察來預測機器人的動作。在這項工作中，我們提出了 FuSe，一種新穎的方法，它能微調視覺運動通用策略，針對大型資料集不易取得的異質感測器模式，利用自然語言作為一種通用的跨模式基礎。我們將多模式對比損失與感官基礎語言生成損失結合，以編碼高層語義。在機器人操作的背景下，我們展示了 FuSe 能夠執行具有挑戰性的任務，這些任務需要在零次學習的設定中，對視覺、觸覺和聲音等模式進行聯合推理，例如多模式提示、組合式跨模式提示，以及與其互動的物體描述。我們展示了相同的配方適用於各種不同的通用策略，包括基於擴散的通用策略和大型視覺語言動作 (VLA) 模型。現實世界中的大量實驗表明，與所有考慮的基準線相比，FuSe 能夠將成功率提高 20% 以上。
-
-##### **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**
-2501.04686v1 by Ruilin Luo, Zhuofan Zheng, Yifan Wang, Yiyao Yu, Xinzhe Ni, Zicheng Lin, Jin Zeng, Yujiu Yang
-
-Chain-of-thought (CoT) reasoning has been widely applied in the mathematical
-reasoning of Large Language Models (LLMs). Recently, the introduction of
-derivative process supervision on CoT trajectories has sparked discussions on
-enhancing scaling capabilities during test time, thereby boosting the potential
-of these models. However, in multimodal mathematical reasoning, the scarcity of
-high-quality CoT training data has hindered existing models from achieving
-high-precision CoT reasoning and has limited the realization of reasoning
-potential during test time. In this work, we propose a three-module synthesis
-strategy that integrates CoT distillation, trajectory-format rewriting, and
-format unification. It results in a high-quality CoT reasoning instruction
-fine-tuning dataset in multimodal mathematics, MMathCoT-1M. We comprehensively
-validate the state-of-the-art (SOTA) performance of the trained URSA-7B model
-on multiple multimodal mathematical benchmarks. For test-time scaling, we
-introduce a data synthesis strategy that automatically generates process
-annotation datasets, known as DualMath-1.1M, focusing on both interpretation
-and logic. By further training URSA-7B on DualMath-1.1M, we transition from CoT
-reasoning capabilities to robust supervision abilities. The trained URSA-RM-7B
-acts as a verifier, effectively enhancing the performance of URSA-7B at test
-time. URSA-RM-7B also demonstrates excellent out-of-distribution (OOD)
-verifying capabilities, showcasing its generalization. Model weights, training
-data and code will be open-sourced.
-
-摘要：<paragraph>鏈條思考（CoT）推理已廣泛應用於大型語言模型（LLM）的數學推理中。最近，在 CoT 軌跡中引入導數過程監督，引發了關於在測試期間增強規模化能力的討論，從而提升了這些模型的潛力。然而，在多模態數學推理中，高品質 CoT 訓練資料的稀缺性阻礙了現有模型實現高精度的 CoT 推理，並限制了在測試期間實現推理潛力的可能性。在這項工作中，我們提出了一種三模組合成策略，它整合了 CoT 蒸餾、軌跡格式重寫和格式統一。它產生了一個高品質的 CoT 推理指令微調資料集，用於多模態數學，MMathCoT-1M。我們全面驗證了訓練後的 URSA-7B 模型在多個多模態數學基準上的最新技術（SOTA）效能。對於測試時間縮放，我們引入了一種資料合成策略，它自動產生過程註解資料集，稱為 DualMath-1.1M，重點關注解釋和邏輯。通過進一步訓練 URSA-7B 在 DualMath-1.1M 上，我們從 CoT 推理能力過渡到強大的監督能力。訓練後的 URSA-RM-7B 作為驗證器，有效地增強了 URSA-7B 在測試時間的效能。URSA-RM-7B 還展示了出色的分布外（OOD）驗證能力，展示了它的泛化性。模型權重、訓練資料和程式碼將會開源。</paragraph>
-
-##### **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**
-2501.04682v1 by Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn
-
-We propose a novel framework, Meta Chain-of-Thought (Meta-CoT), which extends
-traditional Chain-of-Thought (CoT) by explicitly modeling the underlying
-reasoning required to arrive at a particular CoT. We present empirical evidence
-from state-of-the-art models exhibiting behaviors consistent with in-context
-search, and explore methods for producing Meta-CoT via process supervision,
-synthetic data generation, and search algorithms. Finally, we outline a
-concrete pipeline for training a model to produce Meta-CoTs, incorporating
-instruction tuning with linearized search traces and reinforcement learning
-post-training. Finally, we discuss open research questions, including scaling
-laws, verifier roles, and the potential for discovering novel reasoning
-algorithms. This work provides a theoretical and practical roadmap to enable
-Meta-CoT in LLMs, paving the way for more powerful and human-like reasoning in
-artificial intelligence.
-
-摘要：我們提出了一個新穎的框架，元思考鏈 (Meta-CoT)，它通過明確建模得出特定 CoT 所需的基本推理來擴展傳統的思考鏈 (CoT)。我們展示了來自最先進模型的經驗證據，這些模型表現出與情境中搜尋一致的行為，並探索了通過流程監督、合成資料生成和搜尋演算法來產生 Meta-CoT 的方法。最後，我們概述了一個具體的管道，用於訓練模型以產生 Meta-CoT，其中包含線性化搜尋軌跡和強化學習後訓練的指令調整。最後，我們討論了開放的研究問題，包括規模定律、驗證者角色，以及發現新推理演算法的潛力。這項工作提供了一個理論和實務路線圖，以在 LLM 中啟用 Meta-CoT，為人工智慧中更強大且更類似人類的推理鋪平道路。
-
-##### **Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**
-2501.04675v1 by Archita Srivastava, Abhas Kumar, Rajesh Kumar, Prabhakar Srinivasan
-
-Chart interpretation is crucial for visual data analysis, but accurately
-extracting information from charts poses significant challenges for automated
-models. This study investigates the fine-tuning of DEPLOT, a modality
-conversion module that translates the image of a plot or chart to a linearized
-table, on a custom dataset of 50,000 bar charts. The dataset comprises simple,
-stacked, and grouped bar charts, targeting the unique structural features of
-these visualizations. The finetuned DEPLOT model is evaluated against its base
-version using a test set of 1,000 images and two metrics: Relative Mapping
-Similarity (RMS), which measures categorical mapping accuracy, and Relative
-Number Set Similarity (RNSS), which evaluates numerical interpretation
-accuracy. To further explore the reasoning capabilities of large language
-models (LLMs), we curate an additional set of 100 bar chart images paired with
-question answer sets. Our findings demonstrate that providing a structured
-intermediate table alongside the image significantly enhances LLM reasoning
-performance compared to direct image queries.
-
-摘要：圖表解讀對於視覺資料分析至關重要，但從圖表中準確擷取資訊對於自動化模型來說是一項重大挑戰。本研究探討了 DEPLOT 的微調，這是一個將繪圖或圖表的影像轉換成線性化表格的模組化轉換模組，針對一個包含 50,000 個長條圖的客製化資料集。該資料集包含簡單、堆疊和群組長條圖，目標為這些視覺化的獨特結構特徵。微調後的 DEPLOT 模型使用一個包含 1,000 個影像和兩個指標的測試集，來評估它與基本版本的差異：相對應對相似度 (RMS)，用於衡量分類對應的準確度，以及相對數字集相似度 (RNSS)，用於評估數值解讀的準確度。為了進一步探索大型語言模型 (LLM) 的推理能力，我們策劃了一個額外的 100 張長條圖影像集，並配對問題解答集。我們的研究結果表明，與直接影像查詢相比，在影像旁邊提供一個結構化的中間表格，可以顯著增強 LLM 的推理效能。
-
-##### **DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**
-2501.04671v1 by Charles Corbière, Simon Roburin, Syrielle Montariol, Antoine Bosselut, Alexandre Alahi
-
-Large vision-language models (LVLMs) augment language models with visual
-understanding, enabling multimodal reasoning. However, due to the modality gap
-between textual and visual data, they often face significant challenges, such
-as over-reliance on text priors, hallucinations, and limited capacity for
-complex visual reasoning. Existing benchmarks to evaluate visual reasoning in
-LVLMs often rely on schematic or synthetic images and on imprecise
-machine-generated explanations. To bridge the modality gap, we present
-DrivingVQA, a new benchmark derived from driving theory tests to evaluate
-visual chain-of-thought reasoning in complex real-world scenarios. It offers
-3,931 expert-crafted multiple-choice problems and interleaved explanations
-grounded with entities relevant to the reasoning process. We leverage this
-dataset to perform an extensive study of LVLMs' ability to reason about complex
-visual scenarios. Our experiments reveal that open-source and proprietary LVLMs
-struggle with visual chain-of-thought reasoning under zero-shot settings. We
-investigate training strategies that leverage relevant entities to improve
-visual reasoning. Notably, we observe a performance boost of up to 7\% when
-reasoning over image tokens of cropped regions tied to these entities.
-
-摘要：大型视觉语言模型 (LVLMs) 使用视觉理解来增强语言模型，实现多模态推理。然而，由于文本和视觉数据之间的模态差异，它们通常面临着重大挑战，例如过度依赖文本先验、幻觉以及复杂视觉推理能力有限。现有的基准用于评估 LVLMs 中的视觉推理，通常依赖于示意图或合成图像以及不精确的机器生成的解释。为了弥合模态差距，我们提出了 DrivingVQA，这是一个新的基准，源自驾驶理论测试，用于评估复杂现实世界场景中的视觉思维链推理。它提供了 3,931 个专家制作的多项选择题和穿插的解释，这些解释以与推理过程相关的实体为基础。我们利用此数据集对 LVLMs 推理复杂视觉场景的能力进行了广泛的研究。我们的实验表明，开源和专有 LVLMs 在零次学习设置下难以进行视觉思维链推理。我们研究了利用相关实体来改善视觉推理的训练策略。值得注意的是，当对与这些实体相关的裁剪区域的图像标记进行推理时，我们观察到性能提升高达 7%。
-
-##### **On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**
-2501.04662v1 by Tarek Naous, Wei Xu
-
-Language Models (LMs) have been shown to exhibit a strong preference towards
-entities associated with Western culture when operating in non-Western
-languages. In this paper, we aim to uncover the origins of entity-related
-cultural biases in LMs by analyzing several contributing factors, including the
-representation of entities in pre-training data and the impact of variations in
-linguistic phenomena across languages. We introduce CAMeL-2, a parallel
-Arabic-English benchmark of 58,086 entities associated with Arab and Western
-cultures and 367 masked natural contexts for entities. Our evaluations using
-CAMeL-2 reveal reduced performance gaps between cultures by LMs when tested in
-English compared to Arabic. We find that LMs struggle in Arabic with entities
-that appear at high frequencies in pre-training, where entities can hold
-multiple word senses. This also extends to entities that exhibit high lexical
-overlap with languages that are not Arabic but use the Arabic script. Further,
-we show how frequency-based tokenization leads to this issue in LMs, which gets
-worse with larger Arabic vocabularies. We will make CAMeL-2 available at:
-https://github.com/tareknaous/camel2
-
-摘要：語言模型 (LM) 在使用非西方語言時，已被證明對與西方文化相關的實體表現出強烈的偏好。在本文中，我們旨在透過分析幾個促成因素來揭露語言模型中與實體相關的文化偏見的根源，包括實體在預訓練資料中的表示，以及語言中語言現象變化的影響。我們引入了 CAMeL-2，一個包含 58,086 個與阿拉伯和西方文化相關的實體，以及 367 個用於實體的遮蔽自然語境的平行阿拉伯語-英語基準。我們使用 CAMeL-2 進行的評估顯示，與在阿拉伯語中測試相比，語言模型在英語中測試時，不同文化之間的效能差距縮小。我們發現語言模型在阿拉伯語中處理在預訓練中出現頻率高的實體時會遇到困難，因為實體可能有多個詞彙意義。這也延伸到與非阿拉伯語但使用阿拉伯文字的語言具有高度詞彙重疊的實體。此外，我們展示了基於頻率的詞彙化如何導致語言模型中出現此問題，而隨著阿拉伯語詞彙量的增加，情況會變得更糟。我們將在以下位置提供 CAMeL-2：https://github.com/tareknaous/camel2
-
-##### **Assessing Language Comprehension in Large Language Models Using Construction Grammar**
-2501.04661v1 by Wesley Scivetti, Melissa Torgbi, Austin Blodgett, Mollie Shichman, Taylor Hudson, Claire Bonial, Harish Tayyar Madabushi
-
-Large Language Models, despite their significant capabilities, are known to
-fail in surprising and unpredictable ways. Evaluating their true
-`understanding' of language is particularly challenging due to the extensive
-web-scale data they are trained on. Therefore, we construct an evaluation to
-systematically assess natural language understanding (NLU) in LLMs by
-leveraging Construction Grammar (CxG), which provides insights into the meaning
-captured by linguistic elements known as constructions (Cxns). CxG is
-well-suited for this purpose because provides a theoretical basis to construct
-targeted evaluation sets. These datasets are carefully constructed to include
-examples which are unlikely to appear in pre-training data, yet intuitive and
-easy for humans to understand, enabling a more targeted and reliable
-assessment. Our experiments focus on downstream natural language inference and
-reasoning tasks by comparing LLMs' understanding of the underlying meanings
-communicated through 8 unique Cxns with that of humans. The results show that
-while LLMs demonstrate some knowledge of constructional information, even the
-latest models including GPT-o1 struggle with abstract meanings conveyed by
-these Cxns, as demonstrated in cases where test sentences are dissimilar to
-their pre-training data. We argue that such cases provide a more accurate test
-of true language understanding, highlighting key limitations in LLMs' semantic
-capabilities. We make our novel dataset and associated experimental data
-including prompts and model responses publicly available.
-
-摘要：儘管大型語言模型具有顯著的能力，但它們以令人驚訝且無法預測的方式失敗而聞名。由於它們訓練於廣泛的網路規模資料，因此評估它們對語言的真正「理解」特別具有挑戰性。因此，我們建構了一個評量，以透過利用建構文法（CxG）系統性地評估大型語言模型中的自然語言理解（NLU），它提供了對建構（Cxns）等語言元素所擷取的意義的見解。CxG 非常適合此目的，因為它提供了建構目標評量集的理論基礎。這些資料集經過仔細建構，包含不太可能出現在預訓練資料中的範例，但對人類來說卻直觀且易於理解，從而能夠進行更有針對性和更可靠的評量。我們的實驗重點在於下游自然語言推論和推理任務，透過將大型語言模型對透過 8 個獨特的 Cxns 傳達的底層意義的理解與人類的理解進行比較。結果顯示，儘管大型語言模型展示出對建構資訊的某些知識，但即使是包括 GPT-o1 在內的最新模型，在這些 Cxns 傳達的抽象意義上仍有困難，這在測試句子與其預訓練資料不同的情況中得到證明。我們認為，此類案例提供了對真實語言理解更準確的測試，突顯了大型語言模型語義能力中的主要限制。我們公開了我們的新穎資料集和相關實驗資料，包括提示和模型回應。
-
-##### **Multi-task retriever fine-tuning for domain-specific and efficient RAG**
-2501.04652v1 by Patrice Béchard, Orlando Marquez Ayala
-
-Retrieval-Augmented Generation (RAG) has become ubiquitous when deploying
-Large Language Models (LLMs), as it can address typical limitations such as
-generating hallucinated or outdated information. However, when building
-real-world RAG applications, practical issues arise. First, the retrieved
-information is generally domain-specific. Since it is computationally expensive
-to fine-tune LLMs, it is more feasible to fine-tune the retriever to improve
-the quality of the data included in the LLM input. Second, as more applications
-are deployed in the same real-world system, one cannot afford to deploy
-separate retrievers. Moreover, these RAG applications normally retrieve
-different kinds of data. Our solution is to instruction fine-tune a small
-retriever encoder on a variety of domain-specific tasks to allow us to deploy
-one encoder that can serve many use cases, thereby achieving low-cost,
-scalability, and speed. We show how this encoder generalizes to out-of-domain
-settings as well as to an unseen retrieval task on real-world enterprise use
-cases.
-
-摘要：檢索增強生成（RAG）在部署大型語言模型（LLM）時已變得無處不在，因為它可以解決典型的限制，例如生成幻覺或過時的資訊。然而，在建構真實世界的 RAG 應用程式時，會出現實際問題。首先，檢索到的資訊通常是特定領域的。由於微調 LLM 在計算上很昂貴，因此微調檢索器以提高 LLM 輸入中資料品質更可行。其次，由於在同一個真實世界系統中部署了更多應用程式，因此無法負擔部署獨立的檢索器。此外，這些 RAG 應用程式通常檢索不同種類的資料。我們的解決方案是在各種特定領域的任務上對小型檢索器編碼器進行指令微調，讓我們能夠部署一個可以服務於許多使用案例的編碼器，從而實現低成本、可擴充性和速度。我們展示了這個編碼器如何推廣到領域外設定，以及在真實世界的企業使用案例中對未見過的檢索任務進行推廣。
-
-##### **FlairGPT: Repurposing LLMs for Interior Designs**
-2501.04648v1 by Gabrielle Littlefair, Niladri Shekhar Dutt, Niloy J. Mitra
-
-Interior design involves the careful selection and arrangement of objects to
-create an aesthetically pleasing, functional, and harmonized space that aligns
-with the client's design brief. This task is particularly challenging, as a
-successful design must not only incorporate all the necessary objects in a
-cohesive style, but also ensure they are arranged in a way that maximizes
-accessibility, while adhering to a variety of affordability and usage
-considerations. Data-driven solutions have been proposed, but these are
-typically room- or domain-specific and lack explainability in their design
-design considerations used in producing the final layout. In this paper, we
-investigate if large language models (LLMs) can be directly utilized for
-interior design. While we find that LLMs are not yet capable of generating
-complete layouts, they can be effectively leveraged in a structured manner,
-inspired by the workflow of interior designers. By systematically probing LLMs,
-we can reliably generate a list of objects along with relevant constraints that
-guide their placement. We translate this information into a design layout
-graph, which is then solved using an off-the-shelf constrained optimization
-setup to generate the final layouts. We benchmark our algorithm in various
-design configurations against existing LLM-based methods and human designs, and
-evaluate the results using a variety of quantitative and qualitative metrics
-along with user studies. In summary, we demonstrate that LLMs, when used in a
-structured manner, can effectively generate diverse high-quality layouts,
-making them a viable solution for creating large-scale virtual scenes. Project
-webpage at https://flairgpt.github.io/
-
-摘要：室內設計涉及仔細挑選和安排物件，以創造一個美觀、實用且和諧的空間，符合客戶的設計簡報。這項任務特別具有挑戰性，因為成功的設計不僅必須以一致的風格納入所有必要的物件，還必須確保它們的排列方式能最大化可及性，同時符合各種負擔能力和使用考量。已經提出了資料驅動的解決方案，但這些解決方案通常是特定於房間或領域，而且缺乏在產生最終佈局時所使用的設計考量的可解釋性。在本文中，我們探討大型語言模型 (LLM) 是否可以直接用於室內設計。雖然我們發現 LLM 尚未能夠產生完整的佈局，但它們可以有效地以結構化的方式利用，靈感來自室內設計師的工作流程。透過系統性地探查 LLM，我們可以可靠地產生一個物件清單，以及指導它們放置位置的相关約束。我們將這些資訊轉換成設計佈局圖，然後使用現成的約束式最佳化設定來解決，以產生最終佈局。我們在各種設計配置中將我們的演算法與現有的基於 LLM 的方法和人類設計進行基準測試，並使用各種量化和質化指標以及使用者研究來評估結果。總之，我們證明了 LLM 在以結構化的方式使用時，可以有效地產生多樣化的高品質佈局，使其成為創造大型虛擬場景的可行解決方案。專案網頁在 https://flairgpt.github.io/
-
-##### **Knowledge Retrieval Based on Generative AI**
-2501.04635v1 by Te-Lun Yang, Jyi-Shane Liu, Yuen-Hsien Tseng, Jyh-Shing Roger Jang
-
-This study develops a question-answering system based on Retrieval-Augmented
-Generation (RAG) using Chinese Wikipedia and Lawbank as retrieval sources.
-Using TTQA and TMMLU+ as evaluation datasets, the system employs BGE-M3 for
-dense vector retrieval to obtain highly relevant search results and
-BGE-reranker to reorder these results based on query relevance. The most
-pertinent retrieval outcomes serve as reference knowledge for a Large Language
-Model (LLM), enhancing its ability to answer questions and establishing a
-knowledge retrieval system grounded in generative AI.
-  The system's effectiveness is assessed through a two-stage evaluation:
-automatic and assisted performance evaluations. The automatic evaluation
-calculates accuracy by comparing the model's auto-generated labels with ground
-truth answers, measuring performance under standardized conditions without
-human intervention. The assisted performance evaluation involves 20
-finance-related multiple-choice questions answered by 20 participants without
-financial backgrounds. Initially, participants answer independently. Later,
-they receive system-generated reference information to assist in answering,
-examining whether the system improves accuracy when assistance is provided.
-  The main contributions of this research are: (1) Enhanced LLM Capability: By
-integrating BGE-M3 and BGE-reranker, the system retrieves and reorders highly
-relevant results, reduces hallucinations, and dynamically accesses authorized
-or public knowledge sources. (2) Improved Data Privacy: A customized RAG
-architecture enables local operation of the LLM, eliminating the need to send
-private data to external servers. This approach enhances data security, reduces
-reliance on commercial services, lowers operational costs, and mitigates
-privacy risks.
-
-摘要：<paragraph>本研究開發了一個問答系統，該系統基於檢索增強生成 (RAG)，使用中文維基百科和 Lawbank 作為檢索來源。系統使用 TTQA 和 TMMLU+ 作為評估資料集，採用 BGE-M3 進行稠密向量檢索，以取得高度相關的搜尋結果，並使用 BGE-reranker 根據查詢相關性對這些結果重新排序。最相關的檢索結果作為大型語言模型 (LLM) 的參考知識，增強其回答問題的能力，並建立一個基於生成式 AI 的知識檢索系統。系統的有效性通過兩階段評估來評估：自動和輔助性能評估。自動評估通過將模型自動生成的標籤與真實答案進行比較來計算準確性，在沒有人工干預的情況下測量標準化條件下的性能。輔助性能評估包括 20 個與金融相關的多選題，由 20 個沒有金融背景的參與者回答。最初，參與者獨立回答。稍後，他們會收到系統生成的參考資訊以協助回答，檢查在提供協助時系統是否能提高準確性。本研究的主要貢獻有：(1) 增強的 LLM 能力：通過整合 BGE-M3 和 BGE-reranker，系統檢索和重新排序高度相關的結果，減少幻覺，並動態訪問授權或公開的知識來源。(2) 改善資料隱私：自訂的 RAG 架構允許 LLM 本地運作，無需將私人資料傳送至外部伺服器。這種方法增強了資料安全性，減少了對商業服務的依賴，降低了運營成本，並減輕了隱私風險。</paragraph>
-
-##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
-2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
-
-Artificial Intelligence is revolutionizing medical practice, enhancing
-diagnostic accuracy and healthcare delivery. However, its adaptation in medical
-settings still faces significant challenges, related to data availability and
-privacy constraints. Synthetic data has emerged as a promising solution to
-mitigate these issues, addressing data scarcity while preserving privacy.
-Recently, Latent Diffusion Models have emerged as a powerful tool for
-generating high-quality synthetic data. Meanwhile, the integration of different
-modalities has gained interest, emphasizing the need of models capable of
-handle multimodal medical data. Existing approaches struggle to integrate
-complementary information and lack the ability to generate modalities
-simultaneously. To address this challenge, we present MedCoDi-M, a
-6.77-billion-parameter model, designed for multimodal medical data generation,
-that, following Foundation Model paradigm, exploits contrastive learning and
-large quantity of data to build a shared latent space which capture the
-relationships between different data modalities. Further, we introduce the
-Multi-Prompt training technique, which significantly boosts MedCoDi-M's
-generation under different settings. We extensively validate MedCoDi-M: first
-we benchmark it against five competitors on the MIMIC-CXR dataset, a
-state-of-the-art dataset for Chest X-ray and radiological report generation.
-Secondly, we perform a Visual Turing Test with expert radiologists to assess
-the realism and clinical relevance of the generated data, ensuring alignment
-with real-world scenarios. Finally, we assess the utility of MedCoDi-M in
-addressing key challenges in the medical field, such as anonymization, data
-scarcity and imbalance learning. The results are promising, demonstrating the
-applicability of MedCoDi-M in medical contexts. Project page is at
-https://cosbidev.github.io/MedCoDi-M/.
-
-摘要：人工智能正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，它在醫療場景中的應用仍面臨著重大挑戰，這與資料可用性和隱私限制有關。合成資料已成為緩解這些問題的潛在解決方案，它在保護隱私的同時解決了資料短缺的問題。最近，潛在擴散模型已成為產生高品質合成資料的強大工具。同時，整合不同模態已引起興趣，強調了需要能夠處理多模態醫療資料的模型。現有方法難以整合補充資訊，並且缺乏同時產生模態的能力。為了應對這一挑戰，我們提出了 MedCoDi-M，這是一個 67.7 億參數的模型，專為多模態醫療資料產生而設計，它遵循基礎模型範例，利用對比學習和大量的資料來建立一個共享潛在空間，以捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，它顯著提升了 MedCoDi-M 在不同設定下的產生。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上對它與五個競爭者進行了基準測試，這是胸部 X 光和放射報告產生領域的最新資料集。其次，我們與放射科專家進行了視覺圖靈測試，以評估產生資料的真實性和臨床相關性，確保與真實場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料短缺和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療環境中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
-
-##### **Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**
-2501.04591v1 by Ivan Kankeu, Stefan Gerd Fritsch, Gunnar Schönhoff, Elie Mounzer, Paul Lukowicz, Maximilian Kiefer-Emmanouilidis
-
-Over the last decade, representation learning, which embeds complex
-information extracted from large amounts of data into dense vector spaces, has
-emerged as a key technique in machine learning. Among other applications, it
-has been a key building block for large language models and advanced computer
-vision systems based on contrastive learning. A core component of
-representation learning systems is the projection head, which maps the original
-embeddings into different, often compressed spaces, while preserving the
-similarity relationship between vectors.
-  In this paper, we propose a quantum-inspired projection head that includes a
-corresponding quantum-inspired similarity metric. Specifically, we map
-classical embeddings onto quantum states in Hilbert space and introduce a
-quantum circuit-based projection head to reduce embedding dimensionality. To
-evaluate the effectiveness of this approach, we extended the BERT language
-model by integrating our projection head for embedding compression. We compared
-the performance of embeddings, which were compressed using our quantum-inspired
-projection head, with those compressed using a classical projection head on
-information retrieval tasks using the TREC 2019 and TREC 2020 Deep Learning
-benchmarks. The results demonstrate that our quantum-inspired method achieves
-competitive performance relative to the classical method while utilizing 32
-times fewer parameters. Furthermore, when trained from scratch, it notably
-excels, particularly on smaller datasets. This work not only highlights the
-effectiveness of the quantum-inspired approach but also emphasizes the utility
-of efficient, ad hoc low-entanglement circuit simulations within neural
-networks as a powerful quantum-inspired technique.
-
-摘要：在過去十年中，表徵學習已成為機器學習中的一項關鍵技術，它將從大量資料中萃取出的複雜資訊嵌入到稠密向量空間中。在其他應用中，它一直是大型語言模型和基於對比學習的高階電腦視覺系統的關鍵組成部分。表徵學習系統的核心組成部分是投影頭，它將原始嵌入映射到不同的、通常是壓縮的空間中，同時保留向量之間的相似性關係。
-在本文中，我們提出一個量子啟發的投影頭，其中包含一個對應的量子啟發相似性度量。具體來說，我們將經典嵌入映射到希爾伯特空間中的量子態，並引入一個基於量子電路的投影頭來降低嵌入維度。為了評估此方法的有效性，我們通過整合我們的投影頭以進行嵌入壓縮來擴充 BERT 語言模型。我們將使用我們的量子啟發投影頭壓縮的嵌入效能與使用經典投影頭壓縮的嵌入效能進行比較，以在使用 TREC 2019 和 TREC 2020 深度學習基準的資訊檢索任務上進行比較。結果表明，我們的量子啟發方法相對於經典方法取得了有競爭力的效能，同時使用的參數減少了 32 倍。此外，當從頭開始訓練時，它特別是在較小的資料集上顯著勝出。這項工作不僅突顯了量子啟發方法的有效性，還強調了在神經網路中使用高效、即席低糾纏電路模擬作為一種強大的量子啟發技術的效用。
-
-##### **Federated-Continual Dynamic Segmentation of Histopathology guided by Barlow Continuity**
-2501.04588v1 by Niklas Babendererde, Haozhe Zhu, Moritz Fuchs, Jonathan Stieber, Anirban Mukhopadhyay
-
-Federated- and Continual Learning have been established as approaches to
-enable privacy-aware learning on continuously changing data, as required for
-deploying AI systems in histopathology images. However, data shifts can occur
-in a dynamic world, spatially between institutions and temporally, due to
-changing data over time. This leads to two issues: Client Drift, where the
-central model degrades from aggregating data from clients trained on shifted
-data, and Catastrophic Forgetting, from temporal shifts such as changes in
-patient populations. Both tend to degrade the model's performance of previously
-seen data or spatially distributed training. Despite both problems arising from
-the same underlying problem of data shifts, existing research addresses them
-only individually. In this work, we introduce a method that can jointly
-alleviate Client Drift and Catastrophic Forgetting by using our proposed
-Dynamic Barlow Continuity that evaluates client updates on a public reference
-dataset and uses this to guide the training process to a spatially and
-temporally shift-invariant model. We evaluate our approach on the
-histopathology datasets BCSS and Semicol and prove our method to be highly
-effective by jointly improving the dice score as much as from 15.8% to 71.6% in
-Client Drift and from 42.5% to 62.8% in Catastrophic Forgetting. This enables
-Dynamic Learning by establishing spatio-temporal shift-invariance.
-
-摘要：联邦学习和持续学习已被确立为在不断变化的数据上启用注重隐私的学习的方法，正如在组织病理学图像中部署人工智能系统所要求的那样。然而，数据转移可能发生在一个动态的世界中，在机构之间在空间上和随着时间的推移在时间上，由于数据随着时间的推移而改变。这导致了两个问题：客户端漂移，其中中心模型因汇总来自针对已转移数据进行训练的客户端的数据而退化，以及灾难性遗忘，来自时间转移，例如患者群体的变化。两者都倾向于降低模型对先前看到的数据或空间分布式训练的性能。尽管这两个问题都源于数据转移的相同根本问题，但现有研究仅单独解决它们。在这项工作中，我们引入了一种方法，可以通过使用我们提出的动态 Barlow 连续性来缓解客户端漂移和灾难性遗忘，该连续性在公共参考数据集上评估客户端更新，并使用它来指导训练过程以获得空间和时间平移不变的模型。我们在组织病理学数据集 BCSS 和 Semicol 上评估我们的方法，并证明我们的方法非常有效，通过联合改善骰子分数，在客户端漂移中从 15.8% 提升至 71.6%，在灾难性遗忘中从 42.5% 提升至 62.8%。这通过建立时空平移不变性实现了动态学习。
-
-##### **InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**
-2501.04575v1 by Yuhang Liu, Pengxiang Li, Zishu Wei, Congkai Xie, Xueyu Hu, Xinchen Xu, Shengyu Zhang, Xiaotian Han, Hongxia Yang, Fei Wu
-
-Graphical User Interface (GUI) Agents, powered by multimodal large language
-models (MLLMs), have shown great potential for task automation on computing
-devices such as computers and mobile phones. However, existing agents face
-challenges in multi-step reasoning and reliance on textual annotations,
-limiting their effectiveness. We introduce \textit{InfiGUIAgent}, an MLLM-based
-GUI Agent trained with a two-stage supervised fine-tuning pipeline. Stage 1
-enhances fundamental skills such as GUI understanding and grounding, while
-Stage 2 integrates hierarchical reasoning and expectation-reflection reasoning
-skills using synthesized data to enable native reasoning abilities of the
-agents. \textit{InfiGUIAgent} achieves competitive performance on several GUI
-benchmarks, highlighting the impact of native reasoning skills in enhancing GUI
-interaction for automation tasks. Resources are available at
-\url{https://github.com/Reallm-Labs/InfiGUIAgent}.
-
-摘要：圖形使用者介面 (GUI) 代理程式由多模態大型語言模型 (MLLM) 提供支援，在電腦和行動電話等運算裝置上展現了任務自動化的龐大潛力。然而，現有的代理程式在多步驟推理和依賴文字註解方面面臨挑戰，限制了它們的效益。我們引入了基於 MLLM 的 GUI 代理程式 \textit{InfiGUIAgent}，並使用兩階段監督微調管道進行訓練。第 1 階段增強了 GUI 理解和基礎等基本技能，而第 2 階段則使用合成資料整合了階層式推理和期望反映推理技能，以讓代理程式具備原生推理能力。\textit{InfiGUIAgent} 在數個 GUI 基準測試中獲得了競爭力表現，突顯了原生推理技能在增強 GUI 互動以進行自動化任務的影響。資源可於 \url{https://github.com/Reallm-Labs/InfiGUIAgent} 取得。
-
-##### **Supervision-free Vision-Language Alignment**
-2501.04568v1 by Giorgio Giannone, Ruoteng Li, Qianli Feng, Evgeny Perevodchikov, Rui Chen, Aleix Martinez
-
-Vision-language models (VLMs) have demonstrated remarkable potential in
-integrating visual and linguistic information, but their performance is often
-constrained by the need for extensive, high-quality image-text training data.
-Curation of these image-text pairs is both time-consuming and computationally
-expensive. To address this challenge, we introduce SVP (Supervision-free Visual
-Projection), a novel framework that enhances vision-language alignment without
-relying on curated data or preference annotation. SVP leverages self-captioning
-and a pre-trained grounding model as a feedback mechanism to elicit latent
-information in VLMs. We evaluate our approach across six key areas: captioning,
-referring, visual question answering, multitasking, hallucination control, and
-object recall. Results demonstrate significant improvements, including a 14%
-average improvement in captioning tasks, up to 12% increase in object recall,
-and substantial reduction in hallucination rates. Notably, a small VLM using
-SVP achieves hallucination reductions comparable to a model five times larger,
-while a VLM with initially poor referring capabilities more than doubles its
-performance, approaching parity with a model twice its size.
-
-摘要：視覺語言模型 (VLM) 在整合視覺和語言資訊方面展現了非凡的潛力，但其效能往往受到廣泛、高品質的影像文字訓練資料需求的限制。整理這些影像文字對既耗時又耗費運算資源。為了應對這項挑戰，我們引入了 SVP（無監督視覺投影），這是一種新穎的架構，它增強了視覺語言對齊，而無需依賴整理資料或偏好註解。SVP 利用自我標題和預訓練的基礎模型作為一種回饋機制，以引出 VLM 中的潛在資訊。我們在六個關鍵領域評估了我們的方法：標題、指涉、視覺問題解答、多工處理、幻覺控制和物件回憶。結果顯示出顯著的進步，包括標題任務平均進步 14%，物件回憶增加多達 12%，以及幻覺率大幅降低。值得注意的是，使用 SVP 的小型 VLM 達到的幻覺減少量可與大五倍的模型相媲美，而最初指涉能力較差的 VLM 則將其效能提高了一倍以上，接近於其兩倍大小的模型。
-
-##### **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**
-2501.04561v1 by Run Luo, Ting-En Lin, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang
-
-Recent advancements in omnimodal learning have been achieved in understanding
-and generation across images, text, and speech, though mainly within
-proprietary models. Limited omnimodal datasets and the inherent challenges
-associated with real-time emotional speech generation have hindered open-source
-progress. To address these issues, we propose openomni, a two-stage training
-method combining omnimodal alignment and speech generation to develop a
-state-of-the-art omnimodal large language model. In the alignment phase, a
-pre-trained speech model is further trained on text-image tasks to generalize
-from vision to speech in a (near) zero-shot manner, outperforming models
-trained on tri-modal datasets. In the speech generation phase, a lightweight
-decoder facilitates real-time emotional speech through training on speech tasks
-and preference learning. Experiments demonstrate that openomni consistently
-improves across omnimodal, vision-language, and speech-language evaluations,
-enabling natural, emotion-rich dialogues and real-time emotional speech
-generation.
-
-摘要：最近在全模態學習方面取得的進展已在圖像、文字和語音的理解和生成方面取得進展，儘管主要在專有模型中。有限的全模態數據集和與實時情緒語音生成相關的固有挑戰阻礙了開源進度。為了解決這些問題，我們提出了 openomni，這是一種結合全模態對齊和語音生成的兩階段訓練方法，用於開發最先進的全模態大型語言模型。在對齊階段，預訓練的語音模型進一步在文本圖像任務上進行訓練，以在（近乎）零次學習的方式下從視覺推廣到語音，優於在三模態數據集上訓練的模型。在語音生成階段，輕量級解碼器通過在語音任務和偏好學習上進行訓練，促進實時情緒語音。實驗表明，openomni 在全模態、視覺語言和語音語言評估中始終得到改進，實現了自然、富含情緒的對話和實時情緒語音生成。
-
-##### **rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**
-2501.04519v1 by Xinyu Guan, Li Lyna Zhang, Yifei Liu, Ning Shang, Youran Sun, Yi Zhu, Fan Yang, Mao Yang
-
-We present rStar-Math to demonstrate that small language models (SLMs) can
-rival or even surpass the math reasoning capability of OpenAI o1, without
-distillation from superior models. rStar-Math achieves this by exercising "deep
-thinking" through Monte Carlo Tree Search (MCTS), where a math policy SLM
-performs test-time search guided by an SLM-based process reward model.
-rStar-Math introduces three innovations to tackle the challenges in training
-the two SLMs: (1) a novel code-augmented CoT data sythesis method, which
-performs extensive MCTS rollouts to generate step-by-step verified reasoning
-trajectories used to train the policy SLM; (2) a novel process reward model
-training method that avoids na\"ive step-level score annotation, yielding a
-more effective process preference model (PPM); (3) a self-evolution recipe in
-which the policy SLM and PPM are built from scratch and iteratively evolved to
-improve reasoning capabilities. Through 4 rounds of self-evolution with
-millions of synthesized solutions for 747k math problems, rStar-Math boosts
-SLMs' math reasoning to state-of-the-art levels. On the MATH benchmark, it
-improves Qwen2.5-Math-7B from 58.8% to 90.0% and Phi3-mini-3.8B from 41.4% to
-86.4%, surpassing o1-preview by +4.5% and +0.9%. On the USA Math Olympiad
-(AIME), rStar-Math solves an average of 53.3% (8/15) of problems, ranking among
-the top 20% the brightest high school math students. Code and data will be
-available at https://github.com/microsoft/rStar.
-
-摘要：<paragraph>我們提出 rStar-Math，以證明小型語言模型 (SLM) 可以匹敵甚至超越 OpenAI o1 的數學推理能力，而無需從優質模型中進行蒸餾。rStar-Math 通過蒙地卡羅樹狀搜尋 (MCTS) 進行「深度思考」來實現這一目標，其中數學策略 SLM 執行由基於 SLM 的過程獎勵模型指導的測試時間搜尋。rStar-Math 引入了三項創新來應對訓練兩個 SLM 的挑戰：(1) 一種新穎的程式碼增強 CoT 資料合成方法，它執行廣泛的 MCTS 展開以生成用於訓練策略 SLM 的逐步驗證推理軌跡；(2) 一種新穎的過程獎勵模型訓練方法，避免了天真的步驟級別分數註解，產生了更有效的過程偏好模型 (PPM)；(3) 一種自我演化配方，其中策略 SLM 和 PPM 從頭開始構建並反覆演化以提高推理能力。通過 4 輪自我演化，為 747k 個數學問題生成了數百萬個綜合解決方案，rStar-Math 將 SLM 的數學推理提升到了最先進的水平。在 MATH 基準測試中，它將 Qwen2.5-Math-7B 從 58.8% 提高到 90.0%，將 Phi3-mini-3.8B 從 41.4% 提高到 86.4%，超過 o1-preview +4.5% 和 +0.9%。在美國數學奧林匹克競賽 (AIME) 中，rStar-Math 平均解決了 53.3% (8/15) 的問題，名列最優秀高中數學生的前 20%。程式碼和資料將在 https://github.com/microsoft/rStar 上提供。</paragraph>
-
-##### **Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**
-2501.04513v1 by Uri Berger, Omri Abend, Lea Frermann, Gabriel Stanovsky
-
-Incorporating automatically predicted human feedback into the process of
-training generative models has attracted substantial recent interest, while
-feedback at inference time has received less attention. The typical feedback at
-training time, i.e., preferences of choice given two samples, does not
-naturally transfer to the inference phase. We introduce a novel type of
-feedback -- caption reformulations -- and train models to mimic reformulation
-feedback based on human annotations. Our method does not require training the
-image captioning model itself, thereby demanding substantially less
-computational effort. We experiment with two types of reformulation feedback:
-first, we collect a dataset of human reformulations that correct errors in the
-generated captions. We find that incorporating reformulation models trained on
-this data into the inference phase of existing image captioning models results
-in improved captions, especially when the original captions are of low quality.
-We apply our method to non-English image captioning, a domain where robust
-models are less prevalent, and gain substantial improvement. Second, we apply
-reformulations to style transfer. Quantitative evaluations reveal
-state-of-the-art performance on German image captioning and English style
-transfer, while human validation with a detailed comparative framework exposes
-the specific axes of improvement.
-
-摘要：將自動預測的人類回饋納入生成模型訓練過程中已引起近期大量關注，而推論時間的回饋則較少受到關注。訓練時間的典型回饋，也就是給定兩個範例的選擇偏好，並未自然轉移到推論階段。我們引入一種新類型的回饋——標題重新表述——並訓練模型根據人類註解來模擬重新表述的回饋。我們的做法不需要訓練影像標題模型本身，因此大幅減少運算需求。我們實驗了兩種類型的重新表述回饋：首先，我們收集了一組人類重新表述的資料集，來修正產生標題中的錯誤。我們發現將訓練於此資料的重新表述模型納入現有影像標題模型的推論階段，會改善標題品質，尤其是在原始標題品質不佳時。我們將我們的做法應用於非英語影像標題，這是一個強健模型較不普遍的領域，並獲得大幅改善。其次，我們將重新表述應用於風格轉移。量化評估顯示在德語影像標題和英語風格轉移方面達到最先進的效能，而使用詳細比較架構進行的人類驗證則揭露了具體的改善面向。
-
-##### **CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**
-2501.04510v1 by Ruijun Feng, Hammond Pearce, Pietro Liguori, Yulei Sui
-
-Large language models (LLMs) have been proposed as powerful tools for
-detecting software vulnerabilities, where task-specific fine-tuning is
-typically employed to provide vulnerability-specific knowledge to the LLMs for
-this purpose. However, traditional full-parameter fine-tuning is inefficient
-for modern, complex LLMs, which contain billions of parameters.
-  Soft prompt tuning has been suggested as a more efficient alternative for
-fine-tuning LLMs in general cases. However, pure soft prompt tuning treats
-source code as plain text, losing structural information inherent in source
-code. Meanwhile, graph-enhanced soft prompt tuning methods, which aim to
-address this issue, are unable to preserve the rich semantic information within
-code graphs, as they are primarily designed for general graph-related tasks and
-focus more on adjacency information. They also fail to ensure computational
-efficiency while accounting for graph-text interactions.
-  This paper, therefore, introduces a new code graph-enhanced, structure-aware
-soft prompt tuning method for vulnerability detection, referred to as
-CGP-Tuning. It employs innovative type-aware embeddings to capture the rich
-semantic information within code graphs, along with a novel and efficient
-cross-modal alignment module that achieves linear computational cost while
-incorporating graph-text interactions. The proposed CGP-Tuning is evaluated on
-the latest DiverseVul dataset and the most recent open-source code LLMs,
-CodeLlama and CodeGemma. Experimental results demonstrate that CGP-Tuning
-outperforms the best state-of-the-art method by an average of 3.5 percentage
-points in accuracy, without compromising its vulnerability detection
-capabilities for long source code.
-
-摘要：大型語言模型 (LLM) 已被提出用於偵測軟體漏洞的強大工具，其中任務特定微調通常用於提供漏洞特定知識給 LLM 以達到此目的。然而，傳統的完整參數微調對於包含數十億個參數的現代複雜 LLM 來說效率低下。
-軟提示微調已被建議作為一般情況下微調 LLM 的更有效替代方案。然而，純軟提示微調將原始碼視為純文字，失去了原始碼中固有的結構資訊。同時，旨在解決此問題的圖形增強軟提示微調方法無法保留程式碼圖形中的豐富語義資訊，因為它們主要設計用於一般的圖形相關任務，且更專注於鄰接資訊。它們也無法在考量圖形文字互動的同時確保運算效率。
-因此，本文介紹了一種新的程式碼圖形增強、結構感知軟提示微調方法來偵測漏洞，稱為 CGP-Tuning。它採用創新的類型感知嵌入來擷取程式碼圖形中的豐富語義資訊，以及一個新穎且有效的跨模態對齊模組，該模組在納入圖形文字互動的同時實現線性運算成本。提議的 CGP-Tuning 在最新的 DiverseVul 資料集和最新的開源程式碼 LLM（CodeLlama 和 CodeGemma）上進行評估。實驗結果證明，CGP-Tuning 在準確度方面平均比最佳的現有技術高出 3.5 個百分點，同時不損害其對長原始碼的漏洞偵測能力。
-
-##### **Developing a Modular Compiler for a Subset of a C-like Language**
-2501.04503v1 by Debasish Dutta, Neeharika Sonowal, Irani Hazarika
-
-The paper introduces the development of a modular compiler for a subset of a
-C-like language, which addresses the challenges in constructing a compiler for
-high-level languages. This modular approach will allow developers to modify a
-language by adding or removing subsets as required, resulting in a minimal and
-memory-efficient compiler. The development process is divided into small,
-incremental steps, where each step yields a fully functioning compiler for an
-expanding subset of the language. The paper outlines the iterative
-developmental phase of the compiler, emphasizing progressive enhancements in
-capabilities and functionality. Adherence to industry best practices of modular
-design, code reusability, and documentation has enabled the resulting
-compiler's functional efficiency, maintainability, and extensibility. The
-compiler proved to be effective not only in managing the language structure but
-also in developing optimized code, which demonstrates its practical usability.
-This was also further assessed using the compiler on a tiny memory-deficient
-single-board computer, again showing the compiler's efficiency and suitability
-for resource-constrained devices.
-
-摘要：本文介紹了一個模組化編譯器，它針對 C 類語言的子集進行編譯，並解決了建置高階語言編譯器時所面臨的挑戰。這種模組化方法將允許開發人員依據需求新增或移除子集來修改語言，進而產生精簡且記憶體使用效率高的編譯器。開發流程被劃分為多個小而漸進的步驟，每個步驟都會為語言的擴充子集產生一個功能完整的編譯器。本文概述了編譯器的反覆開發階段，並強調了功能和效能的逐步增強。遵循模組化設計、程式碼可重複使用和文件編寫的業界最佳實務，讓產出的編譯器具備了功能效率、可維護性和可擴充性。編譯器不僅在管理語言結構方面被證明有效，在開發最佳化程式碼方面也一樣，這證明了它的實用性。這也進一步使用編譯器在一個微小的記憶體不足的單板電腦上進行評估，再次顯示出編譯器的效率和對資源受限裝置的適用性。
-
-##### **Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**
-2501.04487v1 by Guofeng Yang, Nanfei Jin, Wenjie Ai, Zhonghua Zheng, Yuhong He, Yong He
-
-Yield is one of the core goals of crop breeding. By predicting the potential
-yield of different breeding materials, breeders can screen these materials at
-various growth stages to select the best performing. Based on unmanned aerial
-vehicle remote sensing technology, high-throughput crop phenotyping data in
-breeding areas is collected to provide data support for the breeding decisions
-of breeders. However, the accuracy of current yield predictions still requires
-improvement, and the usability and user-friendliness of yield forecasting tools
-remain suboptimal. To address these challenges, this study introduces a hybrid
-method and tool for crop yield prediction, designed to allow breeders to
-interactively and accurately predict wheat yield by chatting with a large
-language model (LLM). First, the newly designed data assimilation algorithm is
-used to assimilate the leaf area index into the WOFOST model. Then, selected
-outputs from the assimilation process, along with remote sensing inversion
-results, are used to drive the time-series temporal fusion transformer model
-for wheat yield prediction. Finally, based on this hybrid method and leveraging
-an LLM with retrieval augmented generation technology, we developed an
-interactive yield prediction Web tool that is user-friendly and supports
-sustainable data updates. This tool integrates multi-source data to assist
-breeding decision-making. This study aims to accelerate the identification of
-high-yield materials in the breeding process, enhance breeding efficiency, and
-enable more scientific and smart breeding decisions.
-
-摘要：產量是作物育種的核心目標之一。透過預測不同育種材料的潛在產量，育種者可以在不同的生長階段篩選這些材料，以選擇表現最佳的材料。基於無人機遙感技術，收集育種區的高通量作物表型數據，為育種者的育種決策提供數據支持。然而，目前產量預測的準確性仍有待提高，產量預測工具的可用性和使用者友善度仍有待優化。為了解決這些挑戰，本研究提出了一種作物產量預測的混合方法和工具，旨在讓育種者透過與大型語言模型 (LLM) 聊天，互動且準確地預測小麥產量。首先，使用新設計的數據同化演算法將葉面積指數同化到 WOFOST 模型中。然後，使用同化過程中的選定輸出，以及遙感反演結果，來驅動時間序列時序融合Transformer模型，以進行小麥產量預測。最後，基於這種混合方法，並利用具備檢索增強生成技術的 LLM，我們開發了一個互動式產量預測 Web 工具，該工具使用者友善，並支援永續的數據更新。此工具整合多來源數據，以協助育種決策。本研究旨在加速在育種過程中識別高產量材料，提高育種效率，並實現更科學、更智慧的育種決策。
-
-##### **Research on environment perception and behavior prediction of intelligent UAV based on semantic communication**
-2501.04480v1 by Kechong Ren, Li Gao, Qi Guan
-
-The convergence of drone delivery systems, virtual worlds, and blockchain has
-transformed logistics and supply chain management, providing a fast, and
-environmentally friendly alternative to traditional ground transportation
-methods;Provide users with a real-world experience, virtual service providers
-need to collect up-to-the-minute delivery information from edge devices. To
-address this challenge, 1) a reinforcement learning approach is introduced to
-enable drones with fast training capabilities and the ability to autonomously
-adapt to new virtual scenarios for effective resource allocation.2) A semantic
-communication framework for meta-universes is proposed, which utilizes the
-extraction of semantic information to reduce the communication cost and
-incentivize the transmission of information for meta-universe services.3) In
-order to ensure that user information security, a lightweight authentication
-and key agreement scheme is designed between the drone and the user by
-introducing blockchain technology. In our experiments, the drone adaptation
-performance is improved by about 35\%, and the local offloading rate can reach
-90\% with the increase of the number of base stations. The semantic
-communication system proposed in this paper is compared with the Cross Entropy
-baseline model. Introducing blockchain technology the throughput of the
-transaction is maintained at a stable value with different number of drones.
-
-摘要：無人機配送系統、虛擬世界和區塊鏈的融合，轉變了物流和供應鏈管理，提供快速且對環境友善的傳統地面運輸方法替代方案；為使用者提供真實世界的體驗，虛擬服務供應商需要從邊緣裝置收集最新的配送資訊。為了解決這項挑戰，1) 引進強化學習方法，讓無人機具備快速訓練能力，並能夠自主適應新的虛擬場景，以有效配置資源。2) 提出元宇宙語意溝通架構，利用語意資訊萃取，降低溝通成本，並誘使元宇宙服務傳輸資訊。3) 為了確保使用者資訊安全，在無人機和使用者之間，透過區塊鏈技術設計輕量級驗證和金鑰協商機制。在我們的實驗中，無人機適應效能提升約 35%，而隨著基地台數量增加，本地卸載率可達 90%。本文提出的語意溝通系統與交叉熵基線模型進行比較。導入區塊鏈技術後，交易量能維持在穩定值，且無人機數量不同。
-
-##### **When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages**
-2501.04473v1 by Archchana Sindhujan, Diptesh Kanojia, Constantin Orasan, Shenbin Qian
-
-This paper investigates the reference-less evaluation of machine translation
-for low-resource language pairs, known as quality estimation (QE).
-Segment-level QE is a challenging cross-lingual language understanding task
-that provides a quality score (0-100) to the translated output. We
-comprehensively evaluate large language models (LLMs) in zero/few-shot
-scenarios and perform instruction fine-tuning using a novel prompt based on
-annotation guidelines. Our results indicate that prompt-based approaches are
-outperformed by the encoder-based fine-tuned QE models. Our error analysis
-reveals tokenization issues, along with errors due to transliteration and named
-entities, and argues for refinement in LLM pre-training for cross-lingual
-tasks. We release the data, and models trained publicly for further research.
-
-摘要：本文探討了低資源語言對的機器翻譯無參考評估，又稱為品質評估 (QE)。
-區段層級的 QE 是一項具挑戰性的跨語言語言理解任務，它會給予翻譯輸出的品質評分 (0-100)。我們全面評估了零次/少次學習場景中的大型語言模型 (LLM)，並根據標註指南使用新提示執行指令微調。我們的結果顯示，基於提示的方法不如基於編碼器的微調 QE 模型表現出色。我們的錯誤分析揭露了代幣化問題，以及轉寫和命名實體所造成的錯誤，並主張針對跨語言任務改善 LLM 預訓練。我們公開發布資料和模型，以供進一步研究。
-
-##### **Hybrid Artificial Intelligence Strategies for Drone Navigation**
-2501.04472v1 by Rubén San-Segundo, Lucía Angulo, Manuel Gil-Martín, David Carramiñana, Ana M. Bernardos
-
-Objective: This paper describes the development of hybrid artificial
-intelligence strategies for drone navigation. Methods: The navigation module
-combines a deep learning model with a rule-based engine depending on the agent
-state. The deep learning model has been trained using reinforcement learning.
-The rule-based engine uses expert knowledge to deal with specific situations.
-The navigation module incorporates several strategies to explain the drone
-decision based on its observation space, and different mechanisms for including
-human decisions in the navigation process. Finally, this paper proposes an
-evaluation methodology based on defining several scenarios and analyzing the
-performance of the different strategies according to metrics adapted to each
-scenario. Results: Two main navigation problems have been studied. For the
-first scenario (reaching known targets), it has been possible to obtain a 90%
-task completion rate, reducing significantly the number of collisions thanks to
-the rule-based engine. For the second scenario, it has been possible to reduce
-20% of the time required to locate all the targets using the reinforcement
-learning model. Conclusions: Reinforcement learning is a very good strategy to
-learn policies for drone navigation, but in critical situations, it is
-necessary to complement it with a rule-based module to increase task success
-rate.
-
-摘要：目標：本文說明無人機導航的混合人工智慧策略的發展。方法：導航模組結合深度學習模型與基於規則的引擎，取決於代理狀態。深度學習模型已使用強化學習進行訓練。基於規則的引擎使用專業知識來處理特定情況。導航模組結合了多種策略來解釋無人機的決策，其根據其觀察空間，以及將人類決策納入導航過程的不同機制。最後，本文提出了一種評估方法，該方法基於定義多種場景並根據適應每個場景的指標分析不同策略的效能。結果：研究了兩個主要的導航問題。對於第一個場景（到達已知目標），已能夠獲得 90% 的任務完成率，由於基於規則的引擎，碰撞次數大幅減少。對於第二個場景，已能夠減少 20% 的時間來使用強化學習模型找出所有目標。結論：強化學習是一種非常好的策略，可以學習無人機導航的政策，但在關鍵情況下，有必要補充一個基於規則的模組來提高任務成功率。
-
-##### **Hidden Entity Detection from GitHub Leveraging Large Language Models**
-2501.04455v1 by Lu Gan, Martin Blum, Danilo Dessi, Brigitte Mathiak, Ralf Schenkel, Stefan Dietze
-
-Named entity recognition is an important task when constructing knowledge
-bases from unstructured data sources. Whereas entity detection methods mostly
-rely on extensive training data, Large Language Models (LLMs) have paved the
-way towards approaches that rely on zero-shot learning (ZSL) or few-shot
-learning (FSL) by taking advantage of the capabilities LLMs acquired during
-pretraining. Specifically, in very specialized scenarios where large-scale
-training data is not available, ZSL / FSL opens new opportunities. This paper
-follows this recent trend and investigates the potential of leveraging Large
-Language Models (LLMs) in such scenarios to automatically detect datasets and
-software within textual content from GitHub repositories. While existing
-methods focused solely on named entities, this study aims to broaden the scope
-by incorporating resources such as repositories and online hubs where entities
-are also represented by URLs. The study explores different FSL prompt learning
-approaches to enhance the LLMs' ability to identify dataset and software
-mentions within repository texts. Through analyses of LLM effectiveness and
-learning strategies, this paper offers insights into the potential of advanced
-language models for automated entity detection.
-
-摘要：命名實體識別在從非結構化資料來源建構知識庫時是一項重要的任務。雖然實體偵測方法大多依賴大量的訓練資料，但大型語言模型 (LLM) 已為利用零次學習 (ZSL) 或少次學習 (FSL) 的方法鋪路，方法是利用 LLM 在預訓練期間獲得的能力。具體來說，在無法取得大規模訓練資料的非常專業的情境中，ZSL/FSL 開啟了新的機會。本文遵循這項最新趨勢，並探討在這種情境中利用大型語言模型 (LLM) 的潛力，以自動偵測 GitHub 儲存庫中文字內容中的資料集和軟體。現有方法僅專注於命名實體，而本研究旨在透過納入儲存庫和線上中心等資源來擴大範圍，其中實體也由 URL 表示。本研究探討了不同的 FSL 提示學習方法，以增強 LLM 識別儲存庫文字中資料集和軟體提及的能力。透過分析 LLM 的有效性和學習策略，本文提供深入見解，了解進階語言模型在自動實體偵測方面的潛力。
-
-##### **A novel Facial Recognition technique with Focusing on Masked Faces**
-2501.04444v1 by Dana A Abdullah, Dana Rasul Hamad, Hakem Beitollahi, Ismail Y Maolood, Abdulhady Abas Abdullah, Aso Khaleel Ameen
-
-Recognizing the same faces with and without masks is important for ensuring
-consistent identification in security, access control, and public safety. This
-capability is crucial in scenarios like law enforcement, healthcare, and
-surveillance, where accurate recognition must be maintained despite facial
-occlusion. This research focuses on the challenge of recognizing the same faces
-with and without masks by employing cosine similarity as the primary technique.
-With the increased use of masks, traditional facial recognition systems face
-significant accuracy issues, making it crucial to develop methods that can
-reliably identify individuals in masked conditions. For that reason, this study
-proposed Masked-Unmasked Face Matching Model (MUFM). This model employs
-transfer learning using the Visual Geometry Group (VGG16) model to extract
-significant facial features, which are subsequently classified utilizing the
-K-Nearest Neighbors (K-NN) algorithm. The cosine similarity metric is employed
-to compare masked and unmasked faces of the same individuals. This approach
-represents a novel contribution, as the task of recognizing the same individual
-with and without a mask using cosine similarity has not been previously
-addressed. By integrating these advanced methodologies, the research
-demonstrates effective identification of individuals despite the presence of
-masks, addressing a significant limitation in traditional systems. Using data
-is another essential part of this work, by collecting and preparing an image
-dataset from three different sources especially some of those data are real
-provided a comprehensive power of this research. The image dataset used were
-already collected in three different datasets of masked and unmasked for the
-same faces.
-
-摘要：<paragraph>辨識有戴口罩和沒戴口罩的同一張臉孔對於確保在安全、出入管制和公共安全上的一致性非常重要。這種能力在執法、醫療保健和監視等情況中至關重要，在這些情況中，儘管臉部被遮住，仍必須維持準確的辨識。本研究專注於利用餘弦相似性作為主要技術，來解決辨識有戴口罩和沒戴口罩的同一張臉孔的挑戰。隨著口罩使用量增加，傳統的臉部辨識系統面臨顯著的準確性問題，因此開發能夠在戴口罩的條件下可靠辨識個人的方法至關重要。因此，本研究提出了戴口罩-不戴口罩臉部配對模型 (MUFM)。此模型採用使用視覺幾何組 (VGG16) 模型的遷移學習，來萃取重要的臉部特徵，接著利用 K-最近鄰 (K-NN) 演算法進行分類。餘弦相似性度量用於比較同個人的戴口罩和不戴口罩的臉孔。這種方法代表了一項創新的貢獻，因為以前從未處理過使用餘弦相似性來辨識有戴口罩和沒戴口罩的同個人的任務。透過整合這些先進的方法，本研究證明了儘管有口罩，仍然可以有效辨識個人，解決了傳統系統的一項重大限制。使用資料是這項工作的另一個重要部分，透過從三個不同的來源收集和準備影像資料集，特別是其中一些資料是真實提供的，提供了這項研究的全面能力。所使用的影像資料集已經在三個不同的資料集中收集，包含有戴口罩和沒戴口罩的同一張臉孔。</paragraph>
-
-##### **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**
-2501.04437v1 by Doaa Mahmud, Hadeel Hajmohamed, Shamma Almentheri, Shamma Alqaydi, Lameya Aldhaheri, Ruhul Amin Khalil, Nasir Saeed
-
-Intelligent Transportation Systems (ITS) are crucial for the development and
-operation of smart cities, addressing key challenges in efficiency,
-productivity, and environmental sustainability. This paper comprehensively
-reviews the transformative potential of Large Language Models (LLMs) in
-optimizing ITS. Initially, we provide an extensive overview of ITS,
-highlighting its components, operational principles, and overall effectiveness.
-We then delve into the theoretical background of various LLM techniques, such
-as GPT, T5, CTRL, and BERT, elucidating their relevance to ITS applications.
-Following this, we examine the wide-ranging applications of LLMs within ITS,
-including traffic flow prediction, vehicle detection and classification,
-autonomous driving, traffic sign recognition, and pedestrian detection. Our
-analysis reveals how these advanced models can significantly enhance traffic
-management and safety. Finally, we explore the challenges and limitations LLMs
-face in ITS, such as data availability, computational constraints, and ethical
-considerations. We also present several future research directions and
-potential innovations to address these challenges. This paper aims to guide
-researchers and practitioners through the complexities and opportunities of
-integrating LLMs in ITS, offering a roadmap to create more efficient,
-sustainable, and responsive next-generation transportation systems.
-
-摘要：智慧型運輸系統 (ITS) 對智慧城市的發展和營運至關重要，能解決效率、生產力和環境永續性的關鍵挑戰。本文全面回顧大型語言模型 (LLM) 在最佳化 ITS 中的轉型潛力。首先，我們提供 ITS 的廣泛概觀，重點說明其組成、運作原理和整體效能。接著深入探討各種 LLM 技術的理論背景，例如 GPT、T5、CTRL 和 BERT，闡明它們與 ITS 應用程式的關聯性。接著，我們探討 LLM 在 ITS 中的廣泛應用，包括交通流量預測、車輛偵測與分類、自動駕駛、交通標誌辨識和行人偵測。我們的分析揭示了這些進階模型如何能大幅提升交通管理和安全性。最後，我們探討 LLM 在 ITS 中面臨的挑戰和限制，例如資料取得、運算限制和道德考量。我們也提出幾個未來的研究方向和潛在創新，以解決這些挑戰。本文旨在引導研究人員和從業人員了解在 ITS 中整合 LLM 的複雜性和機會，提供建立更有效率、永續且靈敏的下一代運輸系統的藍圖。
-
-##### **Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**
-2501.04436v1 by Na Yan, Yang Su, Yansha Deng, Robert Schober
-
-Federated learning (FL) provides a privacy-preserving solution for
-fine-tuning pre-trained large language models (LLMs) using distributed private
-datasets, enabling task-specific adaptation while preserving data privacy.
-However, fine-tuning the extensive parameters in LLMs is particularly
-challenging in resource-constrained federated scenarios due to the significant
-communication and computational costs. To gain a deeper understanding of how
-these challenges can be addressed, this article conducts a comparative analysis
-three advanced federated LLM (FedLLM) frameworks that integrate knowledge
-distillation (KD) and split learning (SL) to mitigate these issues: 1) FedLLMs,
-where clients upload model parameters or gradients to enable straightforward
-and effective fine-tuning; 2) KD-FedLLMs, which leverage KD for efficient
-knowledge sharing via logits; and 3) Split-FedLLMs, which split the LLMs into
-two parts, with one part executed on the client and the other one on the
-server, to balance the computational load. Each framework is evaluated based on
-key performance metrics, including model accuracy, communication overhead, and
-client-side computational load, offering insights into their effectiveness for
-various federated fine-tuning scenarios. Through this analysis, we identify
-framework-specific optimization opportunities to enhance the efficiency of
-FedLLMs and discuss broader research directions, highlighting open
-opportunities to better adapt FedLLMs for real-world applications. A use case
-is presented to demonstrate the performance comparison of these three
-frameworks under varying configurations and settings.
-
-摘要：<paragraph>聯合學習 (FL) 提供了一個隱私保護解決方案，用於使用分布式私有資料集微調預先訓練的大型語言模型 (LLM)，同時在保護資料隱私的同時實現特定任務的適應。
-然而，在資源受限的聯合場景中微調 LLM 中的廣泛參數特別具有挑戰性，這是因為它會帶來顯著的通訊和計算成本。為了更深入地了解如何應對這些挑戰，本文對三個先進的聯合 LLM (FedLLM) 框架進行了比較分析，這些框架集成了知識蒸餾 (KD) 和分割學習 (SL) 以減輕這些問題：1) FedLLM，客戶端上傳模型參數或梯度以實現直接而有效的微調；2) KD-FedLLM，它利用 KD 通過邏輯值進行有效的知識共享；3) Split-FedLLM，它將 LLM 分成兩部分，一部分在客戶端執行，另一部分在伺服器上執行，以平衡計算負載。每個框架都根據關鍵效能指標進行評估，包括模型準確度、通訊開銷和客戶端計算負載，從而深入了解它們在各種聯合微調場景中的有效性。通過此分析，我們確定了特定於框架的最佳化機會，以提高 FedLLM 的效率，並討論了更廣泛的研究方向，強調了為實際應用更好地適應 FedLLM 的公開機會。提供了一個用例來說明這三個框架在不同配置和設定下的效能比較。</paragraph>
-
-##### **A Digital Shadow for Modeling, Studying and Preventing Urban Crime**
-2501.04435v1 by Juan Palma-Borda, Eduardo Guzmán, María-Victoria Belmonte
-
-Crime is one of the greatest threats to urban security. Around 80 percent of
-the world's population lives in countries with high levels of criminality. Most
-of the crimes committed in the cities take place in their urban environments.
-This paper presents the development and validation of a digital shadow platform
-for modeling and simulating urban crime. This digital shadow has been
-constructed using data-driven agent-based modeling and simulation techniques,
-which are suitable for capturing dynamic interactions among individuals and
-with their environment. Our approach transforms and integrates well-known
-criminological theories and the expert knowledge of law enforcement agencies
-(LEA), policy makers, and other stakeholders under a theoretical model, which
-is in turn combined with real crime, spatial (cartographic) and socio-economic
-data into an urban model characterizing the daily behavior of citizens. The
-digital shadow has also been instantiated for the city of Malaga, for which we
-had over 300,000 complaints available. This instance has been calibrated with
-those complaints and other geographic and socio-economic information of the
-city. To the best of our knowledge, our digital shadow is the first for large
-urban areas that has been calibrated with a large dataset of real crime reports
-and with an accurate representation of the urban environment. The performance
-indicators of the model after being calibrated, in terms of the metrics widely
-used in predictive policing, suggest that our simulated crime generation
-matches the general pattern of crime in the city according to historical data.
-Our digital shadow platform could be an interesting tool for modeling and
-predicting criminal behavior in an urban environment on a daily basis and,
-thus, a useful tool for policy makers, criminologists, sociologists, LEAs, etc.
-to study and prevent urban crime.
-
-摘要：犯罪是對城市安全的最大威脅之一。全球約有 80% 的人口生活在犯罪率高的國家。在城市中發生的犯罪大多發生在市區環境中。本文介紹了用於建模和模擬城市犯罪的數位陰影平台的開發和驗證。此數位陰影是使用資料驅動的基於代理的建模和模擬技術建構的，這些技術適用於捕捉個人之間以及個人與其環境之間的動態互動。我們的做法是將著名的犯罪學理論以及執法機構 (LEA)、政策制定者和其他利害關係人的專家知識轉換並整合到一個理論模型中，然後再將其與真實犯罪、空間 (製圖) 和社會經濟資料結合到一個描述公民日常行為的城市模型中。此數位陰影也已在馬拉加市實例化，我們擁有超過 300,000 起可用的申訴。此個案已根據這些申訴以及該市的地理和社會經濟資訊進行校準。據我們所知，我們的數位陰影是第一個針對大型城市地區的數位陰影，已根據大量真實犯罪報告資料集和準確的城市環境描述進行校準。根據預測警務中廣泛使用的指標，在校準後的模型效能指標顯示，我們的模擬犯罪產生與根據歷史資料顯示的城市犯罪一般模式相符。我們的數位陰影平台可以成為一個有趣的工具，用於每天在城市環境中建模和預測犯罪行為，因此，對於政策制定者、犯罪學家、社會學家、執法機構等來說，這是一個有用的工具，可用於研究和預防城市犯罪。
-
-##### **End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**
-2501.04425v1 by H. M. Shadman Tabib, Jaber Ahmed Deedar
-
-This work introduces systematic approach for enhancing large language models
-(LLMs) to address Bangla AI mathematical challenges. Through the assessment of
-diverse LLM configurations, fine-tuning with specific datasets, and the
-implementation of Retrieval-Augmented Generation (RAG), we enhanced the model's
-reasoning precision in a multilingual setting. Crucial discoveries indicate
-that customized prompting, dataset augmentation, and iterative reasoning
-improve the model's efficiency regarding Olympiad-level mathematical
-challenges.
-
-摘要：這項工作引入系統化方法來增強大型語言模型 (LLM)，以應對孟加拉 AI 數學挑戰。透過評估不同的 LLM 組態、針對特定資料集進行微調，以及實作檢索增強生成 (RAG)，我們在多語言設定中增強了模型的推理精準度。關鍵發現指出，客製化提示、資料集擴充和反覆推理可提升模型在奧林匹克級數學挑戰中的效率。
-
-##### **NSA: Neuro-symbolic ARC Challenge**
-2501.04424v1 by Paweł Batorski, Jannik Brinkmann, Paul Swoboda
-
-The Abstraction and Reasoning Corpus (ARC) evaluates general reasoning
-capabilities that are difficult for both machine learning models and
-combinatorial search methods. We propose a neuro-symbolic approach that
-combines a transformer for proposal generation with combinatorial search using
-a domain-specific language. The transformer narrows the search space by
-proposing promising search directions, which allows the combinatorial search to
-find the actual solution in short time. We pre-train the trainsformer with
-synthetically generated data. During test-time we generate additional
-task-specific training tasks and fine-tune our model. Our results surpass
-comparable state of the art on the ARC evaluation set by 27% and compare
-favourably on the ARC train set. We make our code and dataset publicly
-available at https://github.com/Batorskq/NSA.
-
-摘要：抽象與推理語料庫 (ARC) 評估一般推理能力，這對機器學習模型和組合搜尋方法來說都很困難。我們提出了一種神經符號方法，結合提案產生Transformer和使用特定領域語言的組合搜尋。Transformer通過提出有希望的搜尋方向來縮小搜尋空間，這允許組合搜尋在短時間內找到實際的解決方案。我們使用合成產生的數據對Transformer進行預訓練。在測試時，我們產生額外的特定任務訓練任務並微調我們的模型。我們的結果在 ARC 評估集中比可比較的最新技術高出 27%，並且在 ARC 訓練集中表現出色。我們在 https://github.com/Batorskq/NSA 上公開我們的代碼和數據集。
-
-##### **User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation**
-2501.04410v1 by Krisztian Balog, ChengXiang Zhai
-
-User simulation is an emerging interdisciplinary topic with multiple critical
-applications in the era of Generative AI. It involves creating an intelligent
-agent that mimics the actions of a human user interacting with an AI system,
-enabling researchers to model and analyze user behaviour, generate synthetic
-data for training, and evaluate interactive AI systems in a controlled and
-reproducible manner. User simulation has profound implications for diverse
-fields and plays a vital role in the pursuit of Artificial General
-Intelligence. This paper provides an overview of user simulation, highlighting
-its key applications, connections to various disciplines, and outlining future
-research directions to advance this increasingly important technology.
-
-摘要：使用者模擬是生成式 AI 時代中一個新興的跨領域主題，有多重關鍵應用。它包含創造一個智慧代理人，模仿人類使用者與 AI 系統互動的動作，讓研究人員能夠模擬和分析使用者行為、為訓練產生合成資料，並在受控和可複製的方式中評估互動式 AI 系統。使用者模擬對各種領域有深遠的影響，並在追求人工通用智慧中扮演至關重要的角色。這篇論文提供使用者模擬的概觀，重點說明其關鍵應用、與各個領域的連結，並概述未來的研究方向，以推進這項日益重要的技術。
-
-##### **SEO: Stochastic Experience Optimization for Large Language Models**
-2501.04393v1 by Jitao Xu, Hongyun Zhou, Lei Shen, Conghui Zhu, Jin Huang, Yitao Duan
-
-Large Language Models (LLMs) can benefit from useful experiences to improve
-their performance on specific tasks. However, finding helpful experiences for
-different LLMs is not obvious, since it is unclear what experiences suit
-specific LLMs. Previous studies intended to automatically find useful
-experiences using LLMs, while it is difficult to ensure the effectiveness of
-the obtained experience. In this paper, we propose Stochastic Experience
-Optimization (SEO), an iterative approach that finds optimized model-specific
-experience without modifying model parameters through experience update in
-natural language. In SEO, we propose a stochastic validation method to ensure
-the update direction of experience, avoiding unavailing updates. Experimental
-results on three tasks for three LLMs demonstrate that experiences optimized by
-SEO can achieve consistently improved performance. Further analysis indicates
-that SEO-optimized experience can generalize to out-of-distribution data,
-boosting the performance of LLMs on similar tasks.
-
-摘要：大型語言模型 (LLM) 可以從有用的經驗中受益，以提升其在特定任務上的表現。然而，要為不同的 LLM 找到有用的經驗並不容易，因為目前尚不清楚哪些經驗適合特定的 LLM。先前的研究旨在使用 LLM 自動尋找有用的經驗，但難以確保獲得的經驗有效。在本文中，我們提出了隨機經驗最佳化 (SEO)，這是一種反覆運算的方法，它會透過以自然語言更新經驗，來找到最佳化的模型特定經驗，而不會修改模型參數。在 SEO 中，我們提出了一種隨機驗證方法，以確保經驗的更新方向，避免無效的更新。針對三種 LLM 的三個任務的實驗結果顯示，由 SEO 最佳化的經驗可以達到持續提升的表現。進一步的分析指出，經過 SEO 最佳化的經驗可以推廣到分佈外資料，提升 LLM 在類似任務上的表現。
-
-##### **On Computational Limits and Provably Efficient Criteria of Visual Autoregressive Models: A Fine-Grained Complexity Analysis**
-2501.04377v1 by Yekun Ke, Xiaoyu Li, Yingyu Liang, Zhizhou Sha, Zhenmei Shi, Zhao Song
-
-Recently, Visual Autoregressive ($\mathsf{VAR}$) Models introduced a
-groundbreaking advancement in the field of image generation, offering a
-scalable approach through a coarse-to-fine "next-scale prediction" paradigm.
-However, the state-of-the-art algorithm of $\mathsf{VAR}$ models in [Tian,
-Jiang, Yuan, Peng and Wang, NeurIPS 2024] takes $O(n^4)$ time, which is
-computationally inefficient. In this work, we analyze the computational limits
-and efficiency criteria of $\mathsf{VAR}$ Models through a fine-grained
-complexity lens. Our key contribution is identifying the conditions under which
-$\mathsf{VAR}$ computations can achieve sub-quadratic time complexity.
-Specifically, we establish a critical threshold for the norm of input matrices
-used in $\mathsf{VAR}$ attention mechanisms. Above this threshold, assuming the
-Strong Exponential Time Hypothesis ($\mathsf{SETH}$) from fine-grained
-complexity theory, a sub-quartic time algorithm for $\mathsf{VAR}$ models is
-impossible. To substantiate our theoretical findings, we present efficient
-constructions leveraging low-rank approximations that align with the derived
-criteria. This work initiates the study of the computational efficiency of the
-$\mathsf{VAR}$ model from a theoretical perspective. Our technique will shed
-light on advancing scalable and efficient image generation in $\mathsf{VAR}$
-frameworks.
-
-摘要：最近，视觉自回归 ($\mathsf{VAR}$) 模型在图像生成领域引入了一项开创性的进步，通过粗到细的“下一尺度预测”范例提供了一种可扩展的方法。然而，$\mathsf{VAR}$ 模型在 [Tian, Jiang, Yuan, Peng 和 Wang, NeurIPS 2024] 中的最先进算法需要 $O(n^4)$ 时间，这在计算上是低效的。在这项工作中，我们通过细粒度的复杂性透镜分析了 $\mathsf{VAR}$ 模型的计算限制和效率标准。我们的关键贡献是确定 $\mathsf{VAR}$ 计算可以在其中实现次二次时间复杂度的条件。具体来说，我们为 $\mathsf{VAR}$ 注意力机制中使用的输入矩阵范数建立了一个临界阈值。在此阈值之上，假设来自细粒度复杂性理论的强指数时间假设 ($\mathsf{SETH}$)，则 $\mathsf{VAR}$ 模型的次四次时间算法是不可能的。为了证实我们的理论发现，我们提出了利用低秩近似的高效构造，这些近似与派生标准相一致。这项工作从理论角度开始研究 $\mathsf{VAR}$ 模型的计算效率。我们的技术将阐明在 $\mathsf{VAR}$ 框架中推进可扩展且高效的图像生成。
-
-##### **DispFormer: Pretrained Transformer for Flexible Dispersion Curve Inversion from Global Synthesis to Regional Applications**
-2501.04366v1 by Feng Liu, Bao Deng, Rui Su, Lei Bai, Wanli Ouyang
-
-Surface wave dispersion curve inversion is essential for estimating
-subsurface Shear-wave velocity ($v_s$), yet traditional methods often struggle
-to balance computational efficiency with inversion accuracy. While deep
-learning approaches show promise, previous studies typically require large
-amounts of labeled data and struggle with real-world datasets that have varying
-period ranges, missing data, and low signal-to-noise ratios. This study
-proposes DispFormer, a transformer-based neural network for inverting the $v_s$
-profile from Rayleigh-wave phase and group dispersion curves. DispFormer
-processes dispersion data at each period independently, thereby allowing it to
-handle data of varying lengths without requiring network modifications or
-alignment between training and testing data. The performance is demonstrated by
-pre-training it on a global synthetic dataset and testing it on two regional
-synthetic datasets using zero-shot and few-shot strategies. Results indicate
-that zero-shot DispFormer, even without any labeled data, produces inversion
-profiles that match well with the ground truth, providing a deployable initial
-model generator to assist traditional methods. When labeled data is available,
-few-shot DispFormer outperforms traditional methods with only a small number of
-labels. Furthermore, real-world tests indicate that DispFormer effectively
-handles varying length data, and yields lower data residuals than reference
-models. These findings demonstrate that DispFormer provides a robust foundation
-model for dispersion curve inversion and is a promising approach for broader
-applications.
-
-摘要：表面波色散曲线反演对于估计地下剪切波速度 ($v_s$) 至关重要，但传统方法常常难以平衡计算效率和反演精度。虽然深度学习方法显示出前景，但以往的研究通常需要大量标记数据，并且难以处理具有不同周期范围、缺失数据和低信噪比的真实世界数据集。本研究提出了 DispFormer，这是一种基于 transformer 的神经网络，用于反演瑞利波相位和群速度曲线中的 $v_s$ 分布。DispFormer 独立处理每个周期的色散数据，从而允许它处理不同长度的数据，而不需要网络修改或训练和测试数据之间的对齐。通过在全球合成数据集上进行预训练，并在两个区域合成数据集上使用零样本和少样本策略进行测试，证明了其性能。结果表明，即使没有任何标记数据，零样本 DispFormer 也会生成与地面实况匹配良好的反演剖面，为辅助传统方法提供可部署的初始模型生成器。当有标记数据可用时，少样本 DispFormer 仅使用少量标签就能优于传统方法。此外，实际测试表明，DispFormer 有效地处理了不同长度的数据，并且比参考模型产生了更低的残差数据。这些发现表明，DispFormer 为色散曲线反演提供了一个稳健的基础模型，并且是一种有前途的更广泛应用方法。
-
-##### **Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**
-2501.04359v1 by Terrance Yu-Hao Chen, Yulin Chen, Pontus Soederhaell, Sadrishya Agrawal, Kateryna Shapovalenko
-
-Decoding speech from non-invasive brain signals, such as
-electroencephalography (EEG), has the potential to advance brain-computer
-interfaces (BCIs), with applications in silent communication and assistive
-technologies for individuals with speech impairments. However, EEG-based speech
-decoding faces major challenges, such as noisy data, limited datasets, and poor
-performance on complex tasks like speech perception. This study attempts to
-address these challenges by employing variational autoencoders (VAEs) for EEG
-data augmentation to improve data quality and applying a state-of-the-art
-(SOTA) sequence-to-sequence deep learning architecture, originally successful
-in electromyography (EMG) tasks, to EEG-based speech decoding. Additionally, we
-adapt this architecture for word classification tasks. Using the Brennan
-dataset, which contains EEG recordings of subjects listening to narrated
-speech, we preprocess the data and evaluate both classification and
-sequence-to-sequence models for EEG-to-words/sentences tasks. Our experiments
-show that VAEs have the potential to reconstruct artificial EEG data for
-augmentation. Meanwhile, our sequence-to-sequence model achieves more promising
-performance in generating sentences compared to our classification model,
-though both remain challenging tasks. These findings lay the groundwork for
-future research on EEG speech perception decoding, with possible extensions to
-speech production tasks such as silent or imagined speech.
-
-摘要：從非侵入式腦信號（例如腦電圖 (EEG)）解碼語言，具有推動腦機介面 (BCI) 的潛力，並可應用於無聲溝通和協助語言障礙人士的輔助技術。然而，基於 EEG 的語言解碼面臨重大挑戰，例如雜訊資料、受限的資料集和在語言知覺等複雜任務上的表現不佳。本研究嘗試透過採用變異自動編碼器 (VAE) 來擴充 EEG 資料以改善資料品質，並應用最先進 (SOTA) 的序列對序列深度學習架構（最初成功應用於肌電圖 (EMG) 任務）到基於 EEG 的語言解碼，來解決這些挑戰。此外，我們調整此架構以適用於詞彙分類任務。我們使用 Brennan 資料集（其中包含受試者聆聽敘述語言的 EEG 記錄），預處理資料並評估分類和序列對序列模型在 EEG 轉換為文字/句子任務中的表現。我們的實驗顯示，VAE 有潛力重建人工 EEG 資料以進行擴充。同時，與分類模型相比，我們的序列對序列模型在產生句子方面表現更具前景，儘管兩者仍是具有挑戰性的任務。這些發現為未來 EEG 語言知覺解碼研究奠定基礎，並可能延伸至語言產生任務，例如無聲或想像的語言。
-
-##### **Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting**
-2501.04341v1 by Dong-Hai Zhu, Yu-Jie Xiong, Jia-Chen Zhang, Xi-Jiong Xie, Chun-Ming Xia
-
-Chain-of-Thought (CoT) Prompting is a dominant paradigm in Large Language
-Models (LLMs) to enhance complex reasoning. It guides LLMs to present
-multi-step reasoning, rather than generating the final answer directly.
-However, CoT encounters difficulties when key information required for
-reasoning is implicit or missing. This occurs because CoT emphasizes the
-sequence of reasoning steps while overlooking the early extraction of essential
-information. We propose a pre-prompting method called Iterative Summarization
-Pre-Prompting (ISP^2) to refine LLM reasoning when key information is not
-explicitly provided. First, entities and their corresponding descriptions are
-extracted to form potential key information pairs. Next, we use a reliability
-rating to assess these pairs, then merge the two lowest-ranked pairs into a new
-entity description. This process is repeated until a unique key information
-pair is obtained. Finally, that pair, along with the original question, is fed
-into LLMs to produce the answer. Extensive experiments demonstrate a 7.1%
-improvement compared to existing methods. Unlike traditional prompting, ISP^2
-adopts an inductive approach with pre-prompting, offering flexible integration
-into diverse reasoning frameworks. The code is available at
-https://github.com/zdhgreat/ISP-2.
-
-摘要：鏈式思維 (CoT) 提示是大型語言模型 (LLM) 中增強複雜推理的主導範例。它引導 LLM 提出多步驟推理，而不是直接生成最終答案。
-然而，當推理所需的重要資訊是隱含或遺失時，CoT 會遇到困難。這是因為 CoT 強調推理步驟的順序，同時忽略了早期萃取基本資訊。我們提出了一種稱為反覆摘要預提示 (ISP^2) 的預提示方法，以在未明確提供關鍵資訊時改善 LLM 推理。首先，萃取實體及其對應描述以形成潛在關鍵資訊對。接下來，我們使用可靠性評分評估這些對，然後將排名最低的兩個對合併成一個新的實體描述。此過程會重複進行，直到獲得唯一的關鍵資訊對。最後，將該對連同原始問題輸入 LLM 以產生答案。廣泛的實驗證明與現有方法相比，改進了 7.1%。與傳統提示不同，ISP^2 採用預提示的歸納方法，提供靈活整合到不同的推理框架中。程式碼可在 https://github.com/zdhgreat/ISP-2 取得。
-
-##### **Who Does the Giant Number Pile Like Best: Analyzing Fairness in Hiring Contexts**
-2501.04316v1 by Preethi Seshadri, Seraphina Goldfarb-Tarrant
-
-Large language models (LLMs) are increasingly being deployed in high-stakes
-applications like hiring, yet their potential for unfair decision-making and
-outcomes remains understudied, particularly in generative settings. In this
-work, we examine the fairness of LLM-based hiring systems through two
-real-world tasks: resume summarization and retrieval. By constructing a
-synthetic resume dataset and curating job postings, we investigate whether
-model behavior differs across demographic groups and is sensitive to
-demographic perturbations. Our findings reveal that race-based differences
-appear in approximately 10% of generated summaries, while gender-based
-differences occur in only 1%. In the retrieval setting, all evaluated models
-display non-uniform selection patterns across demographic groups and exhibit
-high sensitivity to both gender and race-based perturbations. Surprisingly,
-retrieval models demonstrate comparable sensitivity to non-demographic changes,
-suggesting that fairness issues may stem, in part, from general brittleness
-issues. Overall, our results indicate that LLM-based hiring systems, especially
-at the retrieval stage, can exhibit notable biases that lead to discriminatory
-outcomes in real-world contexts.
-
-摘要：大型語言模型 (LLM)  zunehmend in hochkarätigen Anwendungen wie der Personalbeschaffung eingesetzt, doch ihr Potenzial für unfaire Entscheidungsfindung und Ergebnisse bleibt unerforscht, insbesondere in generativen Umgebungen. In dieser Arbeit untersuchen wir die Fairness von LLM-basierten Einstellungssystemen anhand von zwei realen Aufgaben: Lebenslaufzusammenfassung und -abruf. Durch die Erstellung eines synthetischen Lebenslaufdatensatzes und die Zusammenstellung von Stellenausschreibungen untersuchen wir, ob sich das Modellverhalten zwischen demografischen Gruppen unterscheidet und für demografische Störungen empfindlich ist. Unsere Ergebnisse zeigen, dass rassenbedingte Unterschiede in etwa 10 % der generierten Zusammenfassungen auftreten, während geschlechtsspezifische Unterschiede nur in 1 % auftreten. In der Abrufumgebung zeigen alle bewerteten Modelle ungleichmäßige Auswahlmuster über demografische Gruppen hinweg und weisen eine hohe Empfindlichkeit sowohl gegenüber geschlechtsspezifischen als auch rassenbedingten Störungen auf. Überraschenderweise zeigen Abrufmodelle eine vergleichbare Empfindlichkeit gegenüber nicht-demografischen Veränderungen, was darauf hindeutet, dass Fairnessprobleme teilweise auf allgemeine Sprödigkeitsprobleme zurückzuführen sein könnten. Insgesamt deuten unsere Ergebnisse darauf hin, dass LLM-basierte Einstellungssysteme, insbesondere in der Abrufphase, erhebliche Verzerrungen aufweisen können, die in realen Kontexten zu diskriminierenden Ergebnissen führen.
-
-##### **RoRA: Efficient Fine-Tuning of LLM with Reliability Optimization for Rank Adaptation**
-2501.04315v1 by Jun Liu, Zhenglun Kong, Peiyan Dong, Xuan Shen, Pu Zhao, Hao Tang, Geng Yuan, Wei Niu, Wenbin Zhang, Xue Lin, Dong Huang, Yanzhi Wang
-
-Fine-tuning helps large language models (LLM) recover degraded information
-and enhance task performance.Although Low-Rank Adaptation (LoRA) is widely used
-and effective for fine-tuning, we have observed that its scaling factor can
-limit or even reduce performance as the rank size increases. To address this
-issue, we propose RoRA (Rank-adaptive Reliability Optimization), a simple yet
-effective method for optimizing LoRA's scaling factor. By replacing $\alpha/r$
-with $\alpha/\sqrt{r}$, RoRA ensures improved performance as rank size
-increases. Moreover, RoRA enhances low-rank adaptation in fine-tuning
-uncompressed models and excels in the more challenging task of accuracy
-recovery when fine-tuning pruned models. Extensive experiments demonstrate the
-effectiveness of RoRA in fine-tuning both uncompressed and pruned models. RoRA
-surpasses the state-of-the-art (SOTA) in average accuracy and robustness on
-LLaMA-7B/13B, LLaMA2-7B, and LLaMA3-8B, specifically outperforming LoRA and
-DoRA by 6.5% and 2.9% on LLaMA-7B, respectively. In pruned model fine-tuning,
-RoRA shows significant advantages; for SHEARED-LLAMA-1.3, a LLaMA-7B with 81.4%
-pruning, RoRA achieves 5.7% higher average accuracy than LoRA and 3.9% higher
-than DoRA.
-
-摘要：微調有助大型語言模型 (LLM) 恢復退化的資訊並提升任務效能。儘管低階層次適應 (LoRA) 廣泛用於微調且效果良好，我們觀察到其縮放因子可能會隨著階層次大小增加而限制或甚至降低效能。為了解決此問題，我們提出 RoRA (階層次適應可靠性最佳化)，這是一種用於最佳化 LoRA 縮放因子的簡單但有效的方法。透過將 $\alpha/r$ 替換為 $\alpha/\sqrt{r}$，RoRA 可確保在階層次大小增加時提升效能。此外，RoRA 可在微調未壓縮模型時提升低階層次適應，且在微調修剪模型時精準度復原的更具挑戰性任務中表現優異。廣泛的實驗證明了 RoRA 在微調未壓縮和修剪模型時的有效性。RoRA 在 LLaMA-7B/13B、LLaMA2-7B 和 LLaMA3-8B 上的平均精準度和穩健性方面超越了現有技術 (SOTA)，特別是在 LLaMA-7B 上分別比 LoRA 和 DoRA 高出 6.5% 和 2.9%。在修剪模型微調中，RoRA 顯示出顯著的優勢；對於修剪率為 81.4% 的 LLaMA-7B，即 SHEARED-LLAMA-1.3，RoRA 的平均精準度比 LoRA 高出 5.7%，比 DoRA 高出 3.9%。
-
-##### **LLM4SR: A Survey on Large Language Models for Scientific Research**
-2501.04306v1 by Ziming Luo, Zonglin Yang, Zexin Xu, Wei Yang, Xinya Du
-
-In recent years, the rapid advancement of Large Language Models (LLMs) has
-transformed the landscape of scientific research, offering unprecedented
-support across various stages of the research cycle. This paper presents the
-first systematic survey dedicated to exploring how LLMs are revolutionizing the
-scientific research process. We analyze the unique roles LLMs play across four
-critical stages of research: hypothesis discovery, experiment planning and
-implementation, scientific writing, and peer reviewing. Our review
-comprehensively showcases the task-specific methodologies and evaluation
-benchmarks. By identifying current challenges and proposing future research
-directions, this survey not only highlights the transformative potential of
-LLMs, but also aims to inspire and guide researchers and practitioners in
-leveraging LLMs to advance scientific inquiry. Resources are available at the
-following repository: https://github.com/du-nlp-lab/LLM4SR
-
-摘要：近年來，大型語言模型 (LLM) 的快速進展已轉變科學研究的格局，在研究週期的各個階段提供前所未有的支持。本文提出第一份系統性的調查，專門探討 LLM 如何革新科學研究流程。我們分析 LLM 在研究的四個關鍵階段中所扮演的獨特角色：假說發現、實驗規劃與實施、科學寫作和同行評審。我們的回顧全面展示了特定任務的方法論和評估基準。透過找出當前的挑戰並提出未來的研究方向，本調查不僅強調了 LLM 的轉型潛力，也旨在激勵和引導研究人員和從業人員利用 LLM 來推進科學探究。資源可於以下存放庫取得：https://github.com/du-nlp-lab/LLM4SR
-
-##### **Multimodal Graph Constrastive Learning and Prompt for ChartQA**
-2501.04303v1 by Yue Dai, Soyeon Caren Han, Wei Liu
-
-ChartQA presents significant challenges due to the complex distribution of
-chart elements and the implicit patterns embedded within the underlying data.
-In this chapter, we have developed a joint multimodal scene graph for charts,
-explicitly representing the relationships between chart elements and their
-associated patterns.
-  Our proposed multimodal scene graph consists of two components: a visual
-graph and a textual graph, each designed to capture the structural and semantic
-information within the chart. To unify representations across these different
-modalities, we introduce a multimodal graph contrastive learning approach that
-learns unified representations by maximizing similarity between nodes
-representing the same object across multimodal graphs. The learned graph
-representations can be seamlessly incorporated into a transformer decoder as a
-soft prompt.
-  Additionally, given the growing need for Multimodal Large Language Models
-(MLLMs) in zero-shot scenarios, we have designed Chain-of-Thought (CoT) prompts
-for MLLMs to reduce hallucinations. We tested both methods on public benchmarks
-such as ChartQA, OpenCQA, and ChartX, demonstrating improved performance and
-validating the effectiveness of our proposed methods.
-
-摘要：ChartQA 因圖表元素的複雜分佈和基礎資料中內嵌的隱含模式而面臨重大挑戰。
-在本章中，我們為圖表開發了一個聯合多模態場景圖形，明確表示圖表元素之間的關係及其關聯模式。
-我們提出的多模態場景圖形包含兩個組成部分：一個視覺圖形和一個文本圖形，每個組成部分都旨在擷取圖表中的結構化和語義資訊。
-為了統一這些不同模態的表示，我們引入了一個多模態圖形對比學習方法，透過最大化跨多模態圖形表示相同物件的節點之間的相似性來學習統一的表示。
-學習到的圖形表示可以無縫地整合到Transformer解碼器中，作為一個軟提示。
-此外，鑑於多模態大型語言模型 (MLLM) 在零次學習場景中的需求日益增加，我們為 MLLM 設計了思考鏈 (CoT) 提示，以減少幻覺。
-我們在公眾基準上測試了這兩種方法，例如 ChartQA、OpenCQA 和 ChartX，證明了效能的提升，並驗證了我們提出的方法的有效性。
-
-##### **H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**
-2501.04302v1 by Siran Chen, Yuxiao Luo, Yue Ma, Yu Qiao, Yali Wang
-
-With the prevalence of Multimodal Large Language Models(MLLMs), autonomous
-driving has encountered new opportunities and challenges. In particular,
-multi-modal video understanding is critical to interactively analyze what will
-happen in the procedure of autonomous driving. However, videos in such a
-dynamical scene that often contains complex spatial-temporal movements, which
-restricts the generalization capacity of the existing MLLMs in this field. To
-bridge the gap, we propose a novel Hierarchical Mamba Adaptation (H-MBA)
-framework to fit the complicated motion changes in autonomous driving videos.
-Specifically, our H-MBA consists of two distinct modules, including Context
-Mamba (C-Mamba) and Query Mamba (Q-Mamba). First, C-Mamba contains various
-types of structure state space models, which can effectively capture
-multi-granularity video context for different temporal resolutions. Second,
-Q-Mamba flexibly transforms the current frame as the learnable query, and
-attentively selects multi-granularity video context into query. Consequently,
-it can adaptively integrate all the video contexts of multi-scale temporal
-resolutions to enhance video understanding. Via a plug-and-play paradigm in
-MLLMs, our H-MBA shows the remarkable performance on multi-modal video tasks in
-autonomous driving, e.g., for risk object detection, it outperforms the
-previous SOTA method with 5.5% mIoU improvement.
-
-摘要：隨著多模態大型語言模型 (MLLM) 的普及，自動駕駛迎來了新的機遇和挑戰。特別是，多模態影片理解對於互動式分析自動駕駛過程中將會發生的事情至關重要。然而，在這樣一個經常包含複雜時空移動的動態場景中的影片，限制了現有 MLLM 在這個領域中的泛化能力。為了彌合差距，我們提出了一個新穎的分層 Mamba 適應 (H-MBA) 框架，以適應自動駕駛影片中複雜的動作變化。具體來說，我們的 H-MBA 由兩個不同的模組組成，包括 Context Mamba (C-Mamba) 和 Query Mamba (Q-Mamba)。首先，C-Mamba 包含各種結構狀態空間模型，可以有效地捕捉不同時間解析度的多粒度影片內容。其次，Q-Mamba 靈活地將當前幀轉換為可學習的查詢，並專注於將多粒度影片內容選入查詢中。因此，它可以自適應地整合所有多尺度時間解析度的影片內容，以增強影片理解。透過 MLLM 中的即插即用範例，我們的 H-MBA 在自動駕駛中的多模態影片任務中展現了顯著的效能，例如，對於風險物體偵測，它優於先前的 SOTA 方法，mIoU 提升了 5.5%。
-
-##### **Circuit Complexity Bounds for Visual Autoregressive Model**
-2501.04299v1 by Yekun Ke, Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song
-
-Understanding the expressive ability of a specific model is essential for
-grasping its capacity limitations. Recently, several studies have established
-circuit complexity bounds for Transformer architecture. Besides, the Visual
-AutoRegressive (VAR) model has risen to be a prominent method in the field of
-image generation, outperforming previous techniques, such as Diffusion
-Transformers, in generating high-quality images. We investigate the circuit
-complexity of the VAR model and establish a bound in this study. Our primary
-result demonstrates that the VAR model is equivalent to a simulation by a
-uniform $\mathsf{TC}^0$ threshold circuit with hidden dimension $d \leq O(n)$
-and $\mathrm{poly}(n)$ precision. This is the first study to rigorously
-highlight the limitations in the expressive power of VAR models despite their
-impressive performance. We believe our findings will offer valuable insights
-into the inherent constraints of these models and guide the development of more
-efficient and expressive architectures in the future.
-
-摘要：了解特定模型的表達能力對於掌握其容量限制至關重要。最近，一些研究已經為 Transformer 架構建立了電路複雜度界限。此外，視覺自迴歸 (VAR) 模型已成為影像生成領域的顯著方法，在產生高品質影像方面優於先前的技術，例如擴散式 Transformer。我們在研究中調查 VAR 模型的電路複雜度並建立界限。我們的初步結果表明，VAR 模型等於一個均勻的 $\mathsf{TC}^0$ 閾值電路模擬，其隱藏維度 $d \leq O(n)$，且精度為 $\mathrm{poly}(n)$。儘管 VAR 模型有令人印象深刻的效能，但這是第一個嚴謹地強調其表達能力限制的研究。我們相信我們的發現將提供有價值的見解，了解這些模型的內在限制，並在未來引導開發更有效率且更具表達力的架構。
-
-##### **MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge**
-2501.04292v1 by Zijiang Yang, Meishu Song, Xin Jing, Haojie Zhang, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, Yoshiharu Yamamoto
-
-The Mice Autism Detection via Ultrasound Vocalization (MAD-UV) Challenge
-introduces the first INTERSPEECH challenge focused on detecting autism spectrum
-disorder (ASD) in mice through their vocalizations. Participants are tasked
-with developing models to automatically classify mice as either wild-type or
-ASD models based on recordings with a high sampling rate. Our baseline system
-employs a simple CNN-based classification using three different spectrogram
-features. Results demonstrate the feasibility of automated ASD detection, with
-the considered audible-range features achieving the best performance (UAR of
-0.600 for segment-level and 0.625 for subject-level classification). This
-challenge bridges speech technology and biomedical research, offering
-opportunities to advance our understanding of ASD models through machine
-learning approaches. The findings suggest promising directions for vocalization
-analysis and highlight the potential value of audible and ultrasound
-vocalizations in ASD detection.
-
-摘要：小鼠自閉症透過超音波發聲偵測（MAD-UV）挑戰
-引入了第一個 INTERSPEECH 挑戰，專注於透過小鼠的發聲偵測自閉症譜系障礙（ASD）。參與者需要開發模型，根據採樣率高的錄音，將小鼠自動分類為野生型或 ASD 模型。我們的基準系統採用簡單的基於 CNN 的分類，使用三個不同的頻譜圖特徵。結果證明了自動化 ASD 偵測的可行性，其中考慮的聲波範圍特徵達到了最佳效能（區段層級為 0.600 的 UAR，主體層級分類為 0.625）。這個挑戰連結了語音技術和生物醫學研究，提供機會透過機器學習方法推進我們對 ASD 模型的理解。研究結果顯示了發聲分析的有前途的方向，並強調了聲波和超音波發聲在 ASD 偵測中的潛在價值。
-
-##### **Mapping the Edge of Chaos: Fractal-Like Boundaries in The Trainability of Decoder-Only Transformer Models**
-2501.04286v1 by Bahman Torkamandi
-
-In the realm of fractal geometry, intricate structures emerge from simple
-iterative processes that partition parameter spaces into regions of stability
-and instability. Likewise, training large language models involves iteratively
-applying update functions, such as Adam, where even slight hyperparameter
-adjustments can shift the training process from convergence to divergence.
-Recent evidence from miniature neural networks suggests that the boundary
-separating these outcomes displays fractal characteristics [1]. Building on
-these insights, this study extends them to medium-sized, decoder-only
-transformer architectures by employing a more consistent convergence measure
-and examining the learning rate hyperparameter landscape for attention and
-fully connected layers. The results show that the trainability frontier is not
-a simple threshold; rather, it forms a self-similar yet seemingly random
-structure at multiple scales, with statistically consistent and repeating
-patterns. Within this landscape, a region of stable convergence is surrounded
-by a complex chaotic border, illustrating the sensitive nature of the
-underlying training dynamics.
-
-摘要：在分形几何领域，复杂的结构从简单的迭代过程中出现，这些过程将参数空间划分为稳定性和不稳定性区域。同样，训练大型语言模型涉及迭代应用更新函数，例如 Adam，其中即使是轻微的超参数调整也能将训练过程从收敛转变为发散。微型神经网络的最新证据表明，分隔这些结果的边界显示出分形特征 [1]。基于这些见解，本研究通过采用更一致的收敛度量并检查注意力和完全连接层的学习率超参数格局，将它们扩展到中等大小的仅解码器转换器架构。结果表明，可训练性边界不是一个简单的阈值；相反，它在多个尺度上形成一个自相似但看似随机的结构，具有统计一致性和重复模式。在这个格局中，一个稳定的收敛区域被一个复杂的混沌边界包围，说明了底层训练动态的敏感性。
-
-##### **Enhancing Scene Classification in Cloudy Image Scenarios: A Collaborative Transfer Method with Information Regulation Mechanism using Optical Cloud-Covered and SAR Remote Sensing Images**
-2501.04283v1 by Yuze Wang, Rong Xiao, Haifeng Li, Mariana Belgiu, Chao Tao
-
-In remote sensing scene classification, leveraging the transfer methods with
-well-trained optical models is an efficient way to overcome label scarcity.
-However, cloud contamination leads to optical information loss and significant
-impacts on feature distribution, challenging the reliability and stability of
-transferred target models. Common solutions include cloud removal for optical
-data or directly using Synthetic aperture radar (SAR) data in the target
-domain. However, cloud removal requires substantial auxiliary data for support
-and pre-training, while directly using SAR disregards the unobstructed portions
-of optical data. This study presents a scene classification transfer method
-that synergistically combines multi-modality data, which aims to transfer the
-source domain model trained on cloudfree optical data to the target domain that
-includes both cloudy optical and SAR data at low cost. Specifically, the
-framework incorporates two parts: (1) the collaborative transfer strategy,
-based on knowledge distillation, enables the efficient prior knowledge transfer
-across heterogeneous data; (2) the information regulation mechanism (IRM) is
-proposed to address the modality imbalance issue during transfer. It employs
-auxiliary models to measure the contribution discrepancy of each modality, and
-automatically balances the information utilization of modalities during the
-target model learning process at the sample-level. The transfer experiments
-were conducted on simulated and real cloud datasets, demonstrating the superior
-performance of the proposed method compared to other solutions in cloud-covered
-scenarios. We also verified the importance and limitations of IRM, and further
-discussed and visualized the modality imbalance problem during the model
-transfer. Codes are available at https://github.com/wangyuze-csu/ESCCS
-
-摘要：<paragraph>在遥感场景分类中，利用经过良好训练的光学模型的迁移方法是克服标签稀缺的有效方法。
-然而，云污染导致光学信息丢失，并对特征分布产生重大影响，对迁移目标模型的可靠性和稳定性构成挑战。常见的解决方案包括去除光学数据的云或直接在目标域中使用合成孔径雷达 (SAR) 数据。然而，去除云需要大量的辅助数据来支持和预训练，而直接使用 SAR 则忽略了光学数据的畅通部分。本研究提出了一种场景分类迁移方法，该方法协同组合多模态数据，旨在将训练在无云光学数据上的源域模型转移到同时包含多云光学和 SAR 数据的目标域，且成本低。具体来说，该框架包含两个部分：(1) 基于知识蒸馏的协作迁移策略，能够跨异构数据进行有效的先验知识迁移；(2) 提出信息调节机制 (IRM) 以解决迁移期间的模态不平衡问题。它采用辅助模型来测量每个模态的贡献差异，并在样本级目标模型学习过程中自动平衡模态的信息利用。在模拟和真实云数据集上进行了迁移实验，结果表明，与其他解决方案相比，该方法在云覆盖场景中表现出卓越的性能。我们还验证了 IRM 的重要性和局限性，并进一步讨论和可视化了模型迁移过程中的模态不平衡问题。代码可在 https://github.com/wangyuze-csu/ESCCS 获得</paragraph>
-
-##### **Scaling Large Language Model Training on Frontier with Low-Bandwidth Partitioning**
-2501.04266v1 by Lang Xu, Quentin Anthony, Jacob Hatef, Aamir Shafi, Hari Subramoni, Dhabaleswar K., Panda
-
-Scaling up Large Language Model(LLM) training involves fitting a tremendous
-amount of training parameters across a limited number of workers. However,
-methods like ZeRO-3 that drastically reduce GPU memory pressure often incur
-heavy communication to ensure global synchronization and consistency.
-Established efforts such as ZeRO++ use secondary partitions to avoid inter-node
-communications, given that intra-node GPU-GPU transfer generally has more
-bandwidth and lower latency than inter-node connections. However, as more
-capable infrastructure like Frontier, equipped with AMD GPUs, emerged with
-impressive computing capability, there is a need for investigations on the
-hardware topology and to develop targeted strategies to improve training
-efficiency. In this work, we propose a collection of communication and
-optimization strategies for ZeRO++ to reduce communication costs and improve
-memory utilization. In this paper, we propose a 3-level hierarchical
-partitioning specifically for the current Top-1 supercomputing cluster,
-Frontier, which aims at leveraging various bandwidths across layers of
-communications (GCD-GCD, GPU-GPU, and inter-node) to reduce communication
-overhead. For a 20B GPT model, we observe a 1.71x increase in TFLOPS per GPU
-when compared with ZeRO++ up to 384 GCDs and a scaling efficiency of 0.94 for
-up to 384 GCDs. To the best of our knowledge, our work is also the first effort
-to efficiently optimize LLM workloads on Frontier AMD GPUs.
-
-摘要：大语言模型 (LLM) 训练的扩展涉及在有限数量的 worker 中拟合大量的训练参数。然而，像 ZeRO-3 这样的方法大幅降低了 GPU 内存压力，通常会产生大量的通信，以确保全局同步和一致性。已建立的努力，例如 ZeRO++，使用辅助分区来避免节点间通信，因为节点内 GPU-GPU 传输通常比节点间连接具有更大的带宽和更低的延迟。然而，随着配备 AMD GPU 的 Frontier 等功能更强大的基础设施的出现，具有令人印象深刻的计算能力，需要对硬件拓扑进行调查并制定有针对性的策略来提高训练效率。在这项工作中，我们提出了一组用于 ZeRO++ 的通信和优化策略，以降低通信成本并提高内存利用率。在本文中，我们针对当前的 Top-1 超级计算集群 Frontier 提出了一种 3 级分层分区，其目的是利用跨通信层（GCD-GCD、GPU-GPU 和节点间）的各种带宽来减少通信开销。对于 20B GPT 模型，我们观察到与 ZeRO++ 相比，每个 GPU 的 TFLOPS 增加了 1.71 倍，最多可达 384 个 GCD，并且对于最多 384 个 GCD，缩放效率为 0.94。据我们所知，我们的工作也是第一个在 Frontier AMD GPU 上有效优化 LLM 工作负载的努力。
-
-##### **Integrated Offline and Online Learning to Solve a Large Class of Scheduling Problems**
-2501.04253v1 by Anbang Liu, Zhi-Long Chen, Jinyang Jiang, Xi Chen
-
-In this paper, we develop a unified machine learning (ML) approach to predict
-high-quality solutions for single-machine scheduling problems with a
-non-decreasing min-sum objective function with or without release times. Our ML
-approach is novel in three major aspects. First, our approach is developed for
-the entire class of the aforementioned problems. To achieve this, we exploit
-the fact that the entire class of the problems considered can be formulated as
-a time-indexed formulation in a unified manner. We develop a deep neural
-network (DNN) which uses the cost parameters in the time-indexed formulation as
-the inputs to effectively predict a continuous solution to this formulation,
-based on which a feasible discrete solution is easily constructed. The second
-novel aspect of our approach lies in how the DNN model is trained. In view of
-the NP-hard nature of the problems, labels (i.e., optimal solutions) are hard
-to generate for training. To overcome this difficulty, we generate and utilize
-a set of special instances, for which optimal solutions can be found with
-little computational effort, to train the ML model offline. The third novel
-idea we employ in our approach is that we develop an online single-instance
-learning approach to fine tune the parameters in the DNN for a given online
-instance, with the goal of generating an improved solution for the given
-instance. To this end, we develop a feasibility surrogate that approximates the
-objective value of a given instance as a continuous function of the outputs of
-the DNN, which then enables us to derive gradients and update the learnable
-parameters in the DNN. Numerical results show that our approach can efficiently
-generate high-quality solutions for a variety of single-machine scheduling
-min-sum problems with up to 1000 jobs.
-
-摘要：<paragraph>在本文中，我们开发了一种统一的机器学习 (ML) 方法来预测具有或不具有释放时间的非递减最小和目标函数的单机调度问题的优质解决方案。我们的 ML 方法在三个主要方面是新颖的。首先，我们的方法是为上述所有问题类别开发的。为了实现这一点，我们利用了这样一个事实：所考虑问题的整个类别可以用统一的方式表述为时间索引公式。我们开发了一个深度神经网络 (DNN)，它使用时间索引公式中的成本参数作为输入，以有效地预测该公式的连续解，在此基础上可以轻松构建可行的离散解。我们方法的第二个新颖之处在于 DNN 模型的训练方式。鉴于问题的 NP 困难性质，很难生成标签（即最优解）用于训练。为了克服这个困难，我们生成并利用了一组特殊实例，可以用很少的计算工作找到最优解，以离线训练 ML 模型。我们在方法中采用的第三个新颖思想是，我们开发了一种在线单实例学习方法，以微调给定在线实例的 DNN 中的参数，目的是为给定实例生成改进的解决方案。为此，我们开发了一个可行性代理，它将给定实例的目标值近似为 DNN 输出的连续函数，然后使我们能够导出梯度并更新 DNN 中可学习的参数。数值结果表明，我们的方法可以有效地生成各种单机调度最小和问题的优质解决方案，这些问题最多有 1000 个作业。</paragraph>
-
-##### **IOLBENCH: Benchmarking LLMs on Linguistic Reasoning**
-2501.04249v1 by Satyam Goyal, Soham Dan
-
-Despite the remarkable advancements and widespread applications of deep
-neural networks, their ability to perform reasoning tasks remains limited,
-particularly in domains requiring structured, abstract thought. In this paper,
-we investigate the linguistic reasoning capabilities of state-of-the-art large
-language models (LLMs) by introducing IOLBENCH, a novel benchmark derived from
-International Linguistics Olympiad (IOL) problems. This dataset encompasses
-diverse problems testing syntax, morphology, phonology, and semantics, all
-carefully designed to be self-contained and independent of external knowledge.
-These tasks challenge models to engage in metacognitive linguistic reasoning,
-requiring the deduction of linguistic rules and patterns from minimal examples.
-Through extensive benchmarking of leading LLMs, we find that even the most
-advanced models struggle to handle the intricacies of linguistic complexity,
-particularly in areas demanding compositional generalization and rule
-abstraction. Our analysis highlights both the strengths and persistent
-limitations of current models in linguistic problem-solving, offering valuable
-insights into their reasoning capabilities. By introducing IOLBENCH, we aim to
-foster further research into developing models capable of human-like reasoning,
-with broader implications for the fields of computational linguistics and
-artificial intelligence.
-
-摘要：儘管深度神經網路有顯著的進展和廣泛的應用，它們執行推理任務的能力仍然有限，特別是在需要結構化抽象思維的領域。在本文中，我們透過引入 IOLBENCH，一個源自國際語言奧林匹克競賽 (IOL) 問題的新基準，來探討最先進的大語言模型 (LLM) 的語言推理能力。此資料集包含了測試句法、形態、音韻和語義的各種問題，所有問題都經過仔細設計，以自成一體且獨立於外部知識。這些任務挑戰模型從最少的範例中推演出語言規則和模式，從而從事元認知語言推理。透過對領先的 LLM 進行廣泛的基準測試，我們發現即使是最先進的模型也很難處理語言複雜性的錯綜複雜，特別是在需要組合概括和規則抽象的領域。我們的分析突出了當前模型在語言問題解決中的優點和持續存在的限制，為它們的推理能力提供了寶貴的見解。透過引入 IOLBENCH，我們旨在促進進一步的研究，以開發具備類人推理能力的模型，並對計算語言學和人工智慧領域產生更廣泛的影響。
-
-##### **Agent Laboratory: Using LLM Agents as Research Assistants**
-2501.04227v1 by Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum
-
-Historically, scientific discovery has been a lengthy and costly process,
-demanding substantial time and resources from initial conception to final
-results. To accelerate scientific discovery, reduce research costs, and improve
-research quality, we introduce Agent Laboratory, an autonomous LLM-based
-framework capable of completing the entire research process. This framework
-accepts a human-provided research idea and progresses through three
-stages--literature review, experimentation, and report writing to produce
-comprehensive research outputs, including a code repository and a research
-report, while enabling users to provide feedback and guidance at each stage. We
-deploy Agent Laboratory with various state-of-the-art LLMs and invite multiple
-researchers to assess its quality by participating in a survey, providing human
-feedback to guide the research process, and then evaluate the final paper. We
-found that: (1) Agent Laboratory driven by o1-preview generates the best
-research outcomes; (2) The generated machine learning code is able to achieve
-state-of-the-art performance compared to existing methods; (3) Human
-involvement, providing feedback at each stage, significantly improves the
-overall quality of research; (4) Agent Laboratory significantly reduces
-research expenses, achieving an 84% decrease compared to previous autonomous
-research methods. We hope Agent Laboratory enables researchers to allocate more
-effort toward creative ideation rather than low-level coding and writing,
-ultimately accelerating scientific discovery.
-
-摘要：<paragraph>從歷史上來看，科學發現一直是一個漫長且昂貴的過程，
-從最初的概念到最終的結果都需要大量的時間和資源。為了加速科學發現、降低研究成本並改善
-研究品質，我們引入了 Agent Laboratory，一個基於自主式 LLM 的
-架構，能夠完成整個研究過程。此架構
-接受人類提供的研究構想，並進行三個階段的進展——文獻回顧、實驗和報告撰寫，以產生
-全面的研究成果，包括程式碼儲存庫和研究
-報告，同時讓使用者在每個階段提供回饋和指導。我們
-使用各種最先進的 LLM 部署 Agent Laboratory，並邀請多位
-研究人員透過參與調查、提供人類回饋來指導研究過程，然後評估最終論文的品質。我們
-發現：(1) 由 o1-preview 驅動的 Agent Laboratory 產生了最佳
-研究成果；(2) 生成的機器學習程式碼能夠達到
-與現有方法相比最先進的效能；(3) 人類參與，在每個階段提供回饋，顯著改善
-整體研究品質；(4) Agent Laboratory 大幅降低
-研究開支，與先前的自主研究方法相比，減少了 84%。我們希望 Agent Laboratory 能讓研究人員將更多
-精力分配到創意的構想，而不是低階的編碼和寫作，最終加速科學發現。</paragraph>
-
-##### **Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**
-2501.04217v1 by Ren Tasai, Guang Li, Ren Togo, Minghui Tang, Takaaki Yoshimura, Hiroyuki Sugimori, Kenji Hirata, Takahiro Ogawa, Kohsuke Kudo, Miki Haseyama
-
-We propose a novel continual self-supervised learning method (CSSL)
-considering medical domain knowledge in chest CT images. Our approach addresses
-the challenge of sequential learning by effectively capturing the relationship
-between previously learned knowledge and new information at different stages.
-By incorporating an enhanced DER into CSSL and maintaining both diversity and
-representativeness within the rehearsal buffer of DER, the risk of data
-interference during pretraining is reduced, enabling the model to learn more
-richer and robust feature representations. In addition, we incorporate a mixup
-strategy and feature distillation to further enhance the model's ability to
-learn meaningful representations. We validate our method using chest CT images
-obtained under two different imaging conditions, demonstrating superior
-performance compared to state-of-the-art methods.
-
-摘要：我們提出了一種新的持續自我監督學習方法 (CSSL)，考量了胸部電腦斷層影像中的醫學領域知識。我們的做法透過有效捕捉先前學習的知識與不同階段的新資訊之間的關係，來解決循序學習的挑戰。透過將增強的 DER 納入 CSSL，並在 DER 的排練緩衝區內維持多樣性和代表性，預訓練期間資料干擾的風險降低，使模型能夠學習更豐富且強健的特徵表徵。此外，我們納入混淆策略和特徵萃取，進一步增強模型學習有意義表徵的能力。我們使用在兩種不同影像條件下取得的胸部電腦斷層影像驗證我們的模型，證明與現有技術相比具有優異的效能。
-
-##### **UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**
-2501.04213v1 by Abhishek Balasubramaniam, Febin P Sunny, Sudeep Pasricha
-
-To enhance perception in autonomous vehicles (AVs), recent efforts are
-concentrating on 3D object detectors, which deliver more comprehensive
-predictions than traditional 2D object detectors, at the cost of increased
-memory footprint and computational resource usage. We present a novel framework
-called UPAQ, which leverages semi-structured pattern pruning and quantization
-to improve the efficiency of LiDAR point-cloud and camera-based 3D object
-detectors on resource-constrained embedded AV platforms. Experimental results
-on the Jetson Orin Nano embedded platform indicate that UPAQ achieves up to
-5.62x and 5.13x model compression rates, up to 1.97x and 1.86x boost in
-inference speed, and up to 2.07x and 1.87x reduction in energy consumption
-compared to state-of-the-art model compression frameworks, on the Pointpillar
-and SMOKE models respectively.
-
-摘要：為了增強自動駕駛車輛 (AV) 的感知能力，最近的努力集中在 3D 物件偵測器，它提供比傳統 2D 物件偵測器更全面的預測，但代價是增加了記憶體使用量和運算資源使用量。我們提出一個名為 UPAQ 的新框架，它利用半結構化模式剪枝和量化來改善 LiDAR 點雲和基於相機的 3D 物件偵測器在資源受限的嵌入式 AV 平台上的效率。在 Jetson Orin Nano 嵌入式平台上的實驗結果表明，與最先進的模型壓縮框架相比，UPAQ 在 Pointpillar 和 SMOKE 模型上分別實現了高達 5.62 倍和 5.13 倍的模型壓縮率、高達 1.97 倍和 1.86 倍的推理速度提升，以及高達 2.07 倍和 1.87 倍的能耗降低。
-
-##### **CURing Large Models: Compression via CUR Decomposition**
-2501.04211v1 by Sanghyeon Park, Soo-Mook Moon
-
-Large deep learning models have achieved remarkable success but are
-resource-intensive, posing challenges in computational cost and memory usage.
-  We introduce CURing, a novel model compression method based on CUR matrix
-decomposition, which approximates weight matrices as the product of selected
-columns (C) and rows (R), and a small linking matrix (U). We apply this
-decomposition to weights chosen based on the combined influence of their
-magnitudes and activations. By identifying and retaining informative rows and
-columns, CURing significantly reduces model size with minimal performance loss.
-  It preserves the original network's input/output structures, retains
-important features such as non-negativity, and the compressed model's
-activation patterns align with the original, thereby enhancing
-interpretability.
-
-摘要：大型深度學習模型已取得顯著成功，但資源密集，對運算成本和記憶體使用構成挑戰。
-我們引入了 CURing，一種基於 CUR 矩陣分解的新型模型壓縮方法，它將權重矩陣近似為所選列 (C) 和行 (R) 的乘積，以及一個小的連結矩陣 (U)。我們將此分解應用於根據其大小和激活的綜合影響選擇的權重。通過識別和保留有資訊的行和列，CURing 大幅減少模型大小，且效能損失極小。
-它保留原始網路的輸入/輸出結構，保留非負性等重要特徵，且壓縮模型的激活模式與原始模式一致，從而增強了解釋性。
-
-##### **Generative Dataset Distillation Based on Self-knowledge Distillation**
-2501.04202v1 by Longzhen Li, Guang Li, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama
-
-Dataset distillation is an effective technique for reducing the cost and
-complexity of model training while maintaining performance by compressing large
-datasets into smaller, more efficient versions. In this paper, we present a
-novel generative dataset distillation method that can improve the accuracy of
-aligning prediction logits. Our approach integrates self-knowledge distillation
-to achieve more precise distribution matching between the synthetic and
-original data, thereby capturing the overall structure and relationships within
-the data. To further improve the accuracy of alignment, we introduce a
-standardization step on the logits before performing distribution matching,
-ensuring consistency in the range of logits. Through extensive experiments, we
-demonstrate that our method outperforms existing state-of-the-art methods,
-resulting in superior distillation performance.
-
-摘要：資料集蒸餾是一種有效技術，可用於降低模型訓練的成本和複雜性，同時透過將大型資料集壓縮成更小、更有效率的版本來維持效能。在本文中，我們提出了一種新穎的生成資料集蒸餾方法，可以改善對齊預測 logit 的準確性。我們的做法整合自我知識蒸餾，以在合成資料和原始資料之間達成更精確的分布比對，從而擷取資料中的整體結構和關係。為了進一步改善對齊的準確性，我們在執行分布比對之前，於 logit 上引入標準化步驟，確保 logit 範圍的一致性。透過廣泛的實驗，我們證明了我們的方法優於現有的最先進方法，進而產生出色的蒸餾效能。
-
-##### **HIVEX: A High-Impact Environment Suite for Multi-Agent Research (extended version)**
-2501.04180v1 by Philipp D. Siedler
-
-Games have been vital test beds for the rapid development of Agent-based
-research. Remarkable progress has been achieved in the past, but it is unclear
-if the findings equip for real-world problems. While pressure grows, some of
-the most critical ecological challenges can find mitigation and prevention
-solutions through technology and its applications. Most real-world domains
-include multi-agent scenarios and require machine-machine and human-machine
-collaboration. Open-source environments have not advanced and are often toy
-scenarios, too abstract or not suitable for multi-agent research. By mimicking
-real-world problems and increasing the complexity of environments, we hope to
-advance state-of-the-art multi-agent research and inspire researchers to work
-on immediate real-world problems. Here, we present HIVEX, an environment suite
-to benchmark multi-agent research focusing on ecological challenges. HIVEX
-includes the following environments: Wind Farm Control, Wildfire Resource
-Management, Drone-Based Reforestation, Ocean Plastic Collection, and Aerial
-Wildfire Suppression. We provide environments, training examples, and baselines
-for the main and sub-tasks. All trained models resulting from the experiments
-of this work are hosted on Hugging Face. We also provide a leaderboard on
-Hugging Face and encourage the community to submit models trained on our
-environment suite.
-
-摘要：遊戲一直是基於代理的研究快速發展的重要測試環境。過去取得了顯著的進展，但目前尚不清楚這些發現是否能解決現實世界中的問題。隨著壓力的增加，一些最關鍵的生態挑戰可以透過技術及其應用找到緩解和預防的解決方案。大多數現實世界的領域都包括多代理場景，並需要機器與機器以及人與機器之間的協作。開源環境尚未進步，而且通常是玩具場景，過於抽象或不適合多代理研究。透過模擬現實世界的問題並增加環境的複雜性，我們希望推進最先進的多代理研究，並激勵研究人員致力於解決現實世界中的問題。在此，我們提出 HIVEX，一個環境套件，用於基準化專注於生態挑戰的多代理研究。HIVEX 包含以下環境：風力發電場控制、野火資源管理、無人機造林、海洋塑膠收集和空中野火撲滅。我們提供環境、訓練範例和主要任務與子任務的基準。所有因本研究的實驗而訓練出的模型都託管在 Hugging Face 上。我們也在 Hugging Face 上提供一個排行榜，並鼓勵社群提交在我們的環境套件上訓練出的模型。
-
-##### **Multimodal Multihop Source Retrieval for Web Question Answering**
-2501.04173v1 by Navya Yarrabelly, Saloni Mittal
-
-This work deals with the challenge of learning and reasoning over multi-modal
-multi-hop question answering (QA). We propose a graph reasoning network based
-on the semantic structure of the sentences to learn multi-source reasoning
-paths and find the supporting facts across both image and text modalities for
-answering the question. In this paper, we investigate the importance of graph
-structure for multi-modal multi-hop question answering. Our analysis is
-centered on WebQA. We construct a strong baseline model, that finds relevant
-sources using a pairwise classification task. We establish that, with the
-proper use of feature representations from pre-trained models, graph structure
-helps in improving multi-modal multi-hop question answering. We point out that
-both graph structure and adjacency matrix are task-related prior knowledge, and
-graph structure can be leveraged to improve the retrieval performance for the
-task. Experiments and visualized analysis demonstrate that message propagation
-over graph networks or the entire graph structure can replace massive
-multimodal transformers with token-wise cross-attention. We demonstrated the
-applicability of our method and show a performance gain of \textbf{4.6$\%$}
-retrieval F1score over the transformer baselines, despite being a very light
-model. We further demonstrated the applicability of our model to a large scale
-retrieval setting.
-
-摘要：本研究應對多模態多跳問題解答 (QA) 的學習和推理挑戰。我們提出一個基於句子語義結構的圖推理網路，用於學習多來源推理路徑，並在影像和文字模態中找到支撐事實，以回答問題。在本文中，我們探討圖結構對於多模態多跳問題解答的重要性。我們的分析集中在 WebQA。我們建構了一個強大的基線模型，它使用成對分類任務來找出相關來源。我們確立了，透過適當使用預訓練模型中的特徵表示，圖結構有助於改善多模態多跳問題解答。我們指出，圖結構和鄰接矩陣都是與任務相關的先驗知識，並且圖結構可用於改善任務的檢索效能。實驗和視覺化分析表明，圖網路或整個圖結構上的訊息傳播可以取代具有令牌明智交叉注意力的巨大多模態Transformer。我們展示了我們方法的適用性，並且展示了比Transformer基線高出 \textbf{4.6$\%$} 的檢索 F1 分數，儘管它是一個非常輕量級的模型。我們進一步展示了我們的模型對大規模檢索設定的適用性。
-
-##### **Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation**
-2501.04167v1 by Alireza Salemi, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Weize Kong, Tao Chen, Zhuowan Li, Michael Bendersky, Hamed Zamani
-
-Personalized text generation requires a unique ability of large language
-models (LLMs) to learn from context that they often do not encounter during
-their standard training. One way to encourage LLMs to better use personalized
-context for generating outputs that better align with the user's expectations
-is to instruct them to reason over the user's past preferences, background
-knowledge, or writing style. To achieve this, we propose Reasoning-Enhanced
-Self-Training for Personalized Text Generation (REST-PG), a framework that
-trains LLMs to reason over personal data during response generation. REST-PG
-first generates reasoning paths to train the LLM's reasoning abilities and then
-employs Expectation-Maximization Reinforced Self-Training to iteratively train
-the LLM based on its own high-reward outputs. We evaluate REST-PG on the
-LongLaMP benchmark, consisting of four diverse personalized long-form text
-generation tasks. Our experiments demonstrate that REST-PG achieves significant
-improvements over state-of-the-art baselines, with an average relative
-performance gain of 14.5% on the benchmark.
-
-摘要：個人化文字生成需要大型語言模型 (LLM) 具備一項獨特的能力，即從它們在標準訓練期間通常不會遇到的脈絡中學習。鼓勵 LLM 更佳利用個人化脈絡來產生更符合使用者預期的輸出的方法之一，就是指示它們根據使用者的過往偏好、背景知識或寫作風格進行推理。為達成此目標，我們提出個人化文字生成推理增強自訓練 (REST-PG)，這是一個訓練 LLM 在回應生成期間對個人資料進行推理的架構。REST-PG 首先產生推理路徑來訓練 LLM 的推理能力，然後採用期望最大化強化自訓練，根據 LLM 自身的高獎勵輸出反覆訓練 LLM。我們在 LongLaMP 基準上評估 REST-PG，該基準包含四項不同的個人化長篇文字生成任務。我們的實驗證明 REST-PG 在最先進的基準上取得顯著進步，在基準上平均相對效能提升 14.5%。
-
-##### **MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**
-2501.04155v1 by Siddharth Joshi, Besmira Nushi, Vidhisha Balachandran, Varun Chandrasekaran, Vibhav Vineet, Neel Joshi, Baharan Mirzasoleiman
-
-Vision-language models (VLMs) are highly effective but often underperform on
-specialized tasks; for example, Llava-1.5 struggles with chart and diagram
-understanding due to scarce task-specific training data. Existing training
-data, sourced from general-purpose datasets, fails to capture the nuanced
-details needed for these tasks. We introduce MM-Gen, a scalable method that
-generates task-specific, high-quality synthetic text for candidate images by
-leveraging stronger models. MM-Gen employs a three-stage targeted process:
-partitioning data into subgroups, generating targeted text based on task
-descriptions, and filtering out redundant and outlier data. Fine-tuning VLMs
-with data generated by MM-Gen leads to significant performance gains, including
-29% on spatial reasoning and 15% on diagram understanding for Llava-1.5 (7B).
-Compared to human-curated caption data, MM-Gen achieves up to 1.6x better
-improvements for the original models, proving its effectiveness in enhancing
-task-specific VLM performance and bridging the gap between general-purpose
-datasets and specialized requirements. Code available at
-https://github.com/sjoshi804/MM-Gen.
-
-摘要：視覺語言模型 (VLM) 非常有效，但通常在專門任務上表現不佳；例如，由於缺乏特定任務的訓練資料，Llava-1.5 在理解圖表和圖解時會遇到困難。現有的訓練資料來自一般用途的資料集，無法擷取這些任務所需的細微細節。我們引入了 MM-Gen，這是一種可擴充的方法，它利用更強大的模型為候選影像產生特定於任務的高品質合成文字。MM-Gen 採用一個三階段目標流程：將資料分割成子群組、根據任務說明產生目標文字，並過濾掉多餘和異常資料。使用 MM-Gen 產生的資料微調 VLM 會帶來顯著的效能提升，包括 Llava-1.5 (7B) 的空間推理提升 29%，圖解理解提升 15%。與人工策展的標題資料相比，MM-Gen 為原始模型實現了高達 1.6 倍的改進，證明了其在增強特定任務的 VLM 效能和彌合一般用途資料集與特定需求之間的差距方面的有效性。程式碼可於 https://github.com/sjoshi804/MM-Gen 取得。
-
-##### **Multilingual Open QA on the MIA Shared Task**
-2501.04153v1 by Navya Yarrabelly, Saloni Mittal, Ketan Todi, Kimihiro Hasegawa
-
-Cross-lingual information retrieval (CLIR) ~\cite{shi2021cross, asai2021one,
-jiang2020cross} for example, can find relevant text in any language such as
-English(high resource) or Telugu (low resource) even when the query is posed in
-a different, possibly low-resource, language. In this work, we aim to develop
-useful CLIR models for this constrained, yet important, setting where we do not
-require any kind of additional supervision or labelled data for retrieval task
-and hence can work effectively for low-resource languages.
-  \par We propose a simple and effective re-ranking method for improving
-passage retrieval in open question answering. The re-ranker re-scores retrieved
-passages with a zero-shot multilingual question generation model, which is a
-pre-trained language model, to compute the probability of the input question in
-the target language conditioned on a retrieved passage, which can be possibly
-in a different language. We evaluate our method in a completely zero shot
-setting and doesn't require any training. Thus the main advantage of our method
-is that our approach can be used to re-rank results obtained by any sparse
-retrieval methods like BM-25. This eliminates the need for obtaining expensive
-labelled corpus required for the retrieval tasks and hence can be used for low
-resource languages.
-
-摘要：跨語言資訊檢索 (CLIR) ~\cite{shi2021cross, asai2021one,
-jiang2020cross} 例如，可以在任何語言中找到相關文字，例如英文（高資源）或泰盧固語（低資源），即使查詢是用不同的語言（可能是低資源）提出的。在此研究中，我們旨在為此受限但重要的設定開發有用的 CLIR 模型，在此設定中，我們不需要任何類型的額外監督或標籤資料進行檢索任務，因此可以有效地用於低資源語言。
-\par 我們提出了一種簡單且有效的重新排序方法，用於改善開放式問答中的段落檢索。重新排序器使用零次學習多語言問題生成模型（一種預訓練語言模型）重新評分檢索到的段落，以計算目標語言中輸入問題在檢索到的段落中的機率，而該段落可能使用不同的語言。我們在完全零次學習的設定中評估我們的模型，不需要任何訓練。因此，我們的方法的主要優點是，我們的方法可以用於重新排序任何稀疏檢索方法（例如 BM-25）獲得的結果。這消除了獲取檢索任務所需昂貴標記語料庫的需要，因此可用於低資源語言。
-
-##### **BiasGuard: Guardrailing Fairness in Machine Learning Production Systems**
-2501.04142v1 by Nurit Cohen-Inger, Seffi Cohen, Neomi Rabaev, Lior Rokach, Bracha Shapira
-
-As machine learning (ML) systems increasingly impact critical sectors such as
-hiring, financial risk assessments, and criminal justice, the imperative to
-ensure fairness has intensified due to potential negative implications. While
-much ML fairness research has focused on enhancing training data and processes,
-addressing the outputs of already deployed systems has received less attention.
-This paper introduces 'BiasGuard', a novel approach designed to act as a
-fairness guardrail in production ML systems. BiasGuard leverages Test-Time
-Augmentation (TTA) powered by Conditional Generative Adversarial Network
-(CTGAN), a cutting-edge generative AI model, to synthesize data samples
-conditioned on inverted protected attribute values, thereby promoting equitable
-outcomes across diverse groups. This method aims to provide equal opportunities
-for both privileged and unprivileged groups while significantly enhancing the
-fairness metrics of deployed systems without the need for retraining. Our
-comprehensive experimental analysis across diverse datasets reveals that
-BiasGuard enhances fairness by 31% while only reducing accuracy by 0.09%
-compared to non-mitigated benchmarks. Additionally, BiasGuard outperforms
-existing post-processing methods in improving fairness, positioning it as an
-effective tool to safeguard against biases when retraining the model is
-impractical.
-
-摘要：隨著機器學習 (ML) 系統日益影響招聘、財務風險評估和刑事司法等關鍵部門，由於潛在的負面影響，確保公平性的必要性也隨之加劇。雖然許多 ML 公平性研究都專注於加強訓練資料和流程，但對於已部署系統的輸出，則較少受到關注。本文介紹「BiasGuard」，這是一種新穎的方法，旨在作為生產 ML 系統中的公平性防護措施。BiasGuard 透過條件生成對抗網路 (CTGAN) 驅動的測試時間擴充 (TTA) 來提升效能，CTGAN 是一種尖端的生成式 AI 模型，可根據反向受保護屬性值來合成資料樣本，從而促進不同群體之間的公平結果。此方法旨在為特權和非特權群體提供平等的機會，同時大幅提升已部署系統的公平性指標，而無需重新訓練。我們在各種資料集上進行的全面實驗分析顯示，BiasGuard 可將公平性提升 31%，而與未緩解的基準相比，準確度僅降低 0.09%。此外，BiasGuard 在改善公平性方面優於現有的後處理方法，使其成為在重新訓練模型不切實際時，用於防範偏差的有效工具。
-
-##### **"Yeah Right!" -- Do LLMs Exhibit Multimodal Feature Transfer?**
-2501.04138v1 by Benjamin Reichman, Kartik Talamadupula
-
-Human communication is a multifaceted and multimodal skill. Communication
-requires an understanding of both the surface-level textual content and the
-connotative intent of a piece of communication. In humans, learning to go
-beyond the surface level starts by learning communicative intent in speech.
-Once humans acquire these skills in spoken communication, they transfer those
-skills to written communication. In this paper, we assess the ability of
-speech+text models and text models trained with special emphasis on
-human-to-human conversations to make this multimodal transfer of skill. We
-specifically test these models on their ability to detect covert deceptive
-communication. We find that with no special prompting speech+text LLMs have an
-advantage over unimodal LLMs in performing this task. Likewise, we find that
-human-to-human conversation-trained LLMs are also advantaged in this skill.
-
-摘要：人類的溝通是一種多面向且多模態的技能。溝通
-需要理解溝通內容的表面文字內容和內涵意圖。在人類中，學習超越表層的起點是學習言語中的溝通意圖。
-一旦人類在口語溝通中習得這些技能，他們就會將這些
-技能轉移到書面溝通中。在本文中，我們評估了
-語音+文字模型和文字模型在特別強調人對人對話的情況下訓練的能力，以進行這種多模態技能轉移。我們
-特別測試了這些模型檢測隱蔽欺騙性溝通的能力。我們發現，在沒有特別提示的情況下，語音+文字 LLM 在執行此任務時優於單模態 LLM。同樣，我們發現，接受人對人對話訓練的 LLM 在這項技能上也具有優勢。
-
-##### **Implementing Systemic Thinking for Automatic Schema Matching: An Agent-Based Modeling Approach**
-2501.04136v1 by Hicham Assoudi, Hakim Lounis
-
-Several approaches are proposed to deal with the problem of the Automatic
-Schema Matching (ASM). The challenges and difficulties caused by the complexity
-and uncertainty characterizing both the process and the outcome of Schema
-Matching motivated us to investigate how bio-inspired emerging paradigm can
-help with understanding, managing, and ultimately overcoming those challenges.
-In this paper, we explain how we approached Automatic Schema Matching as a
-systemic and Complex Adaptive System (CAS) and how we modeled it using the
-approach of Agent-Based Modeling and Simulation (ABMS). This effort gives birth
-to a tool (prototype) for schema matching called Reflex-SMAS. A set of
-experiments demonstrates the viability of our approach on two main aspects: (i)
-effectiveness (increasing the quality of the found matchings) and (ii)
-efficiency (reducing the effort required for this efficiency). Our approach
-represents a significant paradigm-shift, in the field of Automatic Schema
-Matching.
-
-摘要：為了處理自動模式比對 (ASM) 的問題，提出了幾種方法。模式比對的過程和結果所具有的複雜性和不確定性所造成的挑戰和困難，促使我們探討生物靈感新興典範如何協助理解、管理和最終克服這些挑戰。在本文中，我們說明我們如何將自動模式比對視為一個系統性和複雜適應系統 (CAS)，以及我們如何使用基於代理的建模和模擬 (ABMS) 方法對其進行建模。這項努力產生了一個用於模式比對的工具 (原型)，稱為 Reflex-SMAS。一組實驗證明了我們的方法在兩個主要方面的可行性：(i) 有效性（提高找到的比對品質）和 (ii) 效率（減少此效率所需的努力）。我們的方法代表了自動模式比對領域的重大典範轉移。
-
-##### **Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**
-2501.03991v1 by Yuxi Xia, Pedro Henrique Luz de Araujo, Klim Zaporojets, Benjamin Roth
-
-Calibration, the alignment between model confidence and prediction accuracy,
-is critical for the reliable deployment of large language models (LLMs).
-Existing works neglect to measure the generalization of their methods to other
-prompt styles and different sizes of LLMs. To address this, we define a
-controlled experimental setting covering 12 LLMs and four prompt styles. We
-additionally investigate if incorporating the response agreement of multiple
-LLMs and an appropriate loss function can improve calibration performance.
-Concretely, we build Calib-n, a novel framework that trains an auxiliary model
-for confidence estimation that aggregates responses from multiple LLMs to
-capture inter-model agreement. To optimize calibration, we integrate focal and
-AUC surrogate losses alongside binary cross-entropy. Experiments across four
-datasets demonstrate that both response agreement and focal loss improve
-calibration from baselines. We find that few-shot prompts are the most
-effective for auxiliary model-based methods, and auxiliary models demonstrate
-robust calibration performance across accuracy variations, outperforming LLMs'
-internal probabilities and verbalized confidences. These insights deepen the
-understanding of influence factors in LLM calibration, supporting their
-reliable deployment in diverse applications.
-
-摘要：校準，模型信心與預測準確度之間的對齊，對於大型語言模型 (LLM) 的可靠部署至關重要。現有研究忽略了衡量其方法對其他提示樣式和不同規模 LLM 的概括性。為了解決這個問題，我們定義了一個受控實驗設定，涵蓋 12 個 LLM 和四種提示樣式。我們進一步研究了是否納入多個 LLM 的回應協議和適當的損失函數可以改善校準性能。具體來說，我們構建了 Calib-n，一個新穎的框架，用於訓練一個輔助模型以進行信心估計，該模型彙總來自多個 LLM 的回應以捕捉模型間協議。為了優化校準，我們整合了焦點和 AUC 替代損失以及二元交叉熵。在四個數據集上的實驗表明，回應協議和焦點損失都改善了基準校準。我們發現，少次提示對於基於輔助模型的方法最有效，並且輔助模型在準確性變化中展示了穩健的校準性能，優於 LLM 的內部概率和言語化信心。這些見解加深了對 LLM 校準中影響因素的理解，支持了它們在各種應用中的可靠部署。
-
-##### **Semantically Cohesive Word Grouping in Indian Languages**
-2501.03988v1 by N J Karthika, Adyasha Patra, Nagasai Saketh Naidu, Arnab Bhattacharya, Ganesh Ramakrishnan, Chaitali Dangarikar
-
-Indian languages are inflectional and agglutinative and typically follow
-clause-free word order. The structure of sentences across most major Indian
-languages are similar when their dependency parse trees are considered. While
-some differences in the parsing structure occur due to peculiarities of a
-language or its preferred natural way of conveying meaning, several apparent
-differences are simply due to the granularity of representation of the smallest
-semantic unit of processing in a sentence. The semantic unit is typically a
-word, typographically separated by whitespaces. A single whitespace-separated
-word in one language may correspond to a group of words in another. Hence,
-grouping of words based on semantics helps unify the parsing structure of
-parallel sentences across languages and, in the process, morphology. In this
-work, we propose word grouping as a major preprocessing step for any
-computational or linguistic processing of sentences for Indian languages. Among
-Indian languages, since Hindi is one of the least agglutinative, we expect it
-to benefit the most from word-grouping. Hence, in this paper, we focus on Hindi
-to study the effects of grouping. We perform quantitative assessment of our
-proposal with an intrinsic method that perturbs sentences by shuffling words as
-well as an extrinsic evaluation that verifies the importance of word grouping
-for the task of Machine Translation (MT) using decomposed prompting. We also
-qualitatively analyze certain aspects of the syntactic structure of sentences.
-Our experiments and analyses show that the proposed grouping technique brings
-uniformity in the syntactic structures, as well as aids underlying NLP tasks.
-
-摘要：<paragraph>印度語言是屈折的和黏著的，通常遵循無子句的詞序。當考慮其依存句法分析樹時，大多數主要印度語言的句子結構是相似的。雖然由於語言的特殊性或其傳達含義的自然方式而導致分析結構上存在一些差異，但幾個明顯的差異僅僅是句子中最小的語義處理單元的表示粒度。語義單元通常是一個詞，在排版上由空白分隔。一種語言中單獨的空白分隔詞可能對應於另一種語言中的一組詞。因此，基於語義對詞進行分組有助於統一跨語言的並行句子的分析結構，並在此過程中統一形態。在這項工作中，我們提出詞組作為印度語言的句子進行任何計算或語言處理的主要預處理步驟。在印度語言中，由於印地語是最不黏著的語言之一，我們預計它將從詞組中受益最多。因此，在本文中，我們專注於印地語來研究分組的影響。我們使用一種通過打亂詞彙來擾動句子的內在方法對我們的提案進行定量評估，以及一種驗證詞組對於使用分解提示的機器翻譯 (MT) 任務的重要性。我們還定性地分析了句子的句法結構的某些方面。我們的實驗和分析表明，所提出的分組技術為句法結構帶來了統一性，並有助於 NLP 的基礎任務。</paragraph>
-
-##### **VLM-driven Behavior Tree for Context-aware Task Planning**
-2501.03968v1 by Naoki Wake, Atsushi Kanehira, Jun Takamatsu, Kazuhiro Sasabuchi, Katsushi Ikeuchi
-
-The use of Large Language Models (LLMs) for generating Behavior Trees (BTs)
-has recently gained attention in the robotics community, yet remains in its
-early stages of development. In this paper, we propose a novel framework that
-leverages Vision-Language Models (VLMs) to interactively generate and edit BTs
-that address visual conditions, enabling context-aware robot operations in
-visually complex environments. A key feature of our approach lies in the
-conditional control through self-prompted visual conditions. Specifically, the
-VLM generates BTs with visual condition nodes, where conditions are expressed
-as free-form text. Another VLM process integrates the text into its prompt and
-evaluates the conditions against real-world images during robot execution. We
-validated our framework in a real-world cafe scenario, demonstrating both its
-feasibility and limitations.
-
-摘要：大型語言模型 (LLM) 用於生成行為樹 (BT) 最近在機器人社群中引起關注，但仍處於發展的早期階段。在本文中，我們提出了一個新穎的架構，利用視覺語言模型 (VLM) 來互動式生成和編輯 BT，以處理視覺條件，並在視覺複雜的環境中實現具備情境感知能力的機器人操作。我們方法的一個關鍵特點在於透過自我提示的視覺條件進行條件控制。具體來說，VLM 會生成帶有視覺條件節點的 BT，其中條件以自由形式文字表示。另一個 VLM 程序會將文字整合到提示中，並在機器人執行期間針對真實世界的影像評估條件。我們在真實世界的咖啡廳場景中驗證了我們的架構，證明了它的可行性和限制。
-
-##### **Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**
-2501.03952v1 by Jurgita Kapočiūtė-Dzikienė, Toms Bergmanis, Mārcis Pinnis
-
-Although large language models (LLMs) have transformed our expectations of
-modern language technologies, concerns over data privacy often restrict the use
-of commercially available LLMs hosted outside of EU jurisdictions. This limits
-their application in governmental, defence, and other data-sensitive sectors.
-In this work, we evaluate the extent to which locally deployable open-weight
-LLMs support lesser-spoken languages such as Lithuanian, Latvian, and Estonian.
-We examine various size and precision variants of the top-performing
-multilingual open-weight models, Llama~3, Gemma~2, Phi, and NeMo, on machine
-translation, multiple-choice question answering, and free-form text generation.
-The results indicate that while certain models like Gemma~2 perform close to
-the top commercially available models, many LLMs struggle with these languages.
-Most surprisingly, however, we find that these models, while showing close to
-state-of-the-art translation performance, are still prone to lexical
-hallucinations with errors in at least 1 in 20 words for all open-weight
-multilingual LLMs.
-
-摘要：儘管大型語言模型 (LLM) 已轉變我們對現代語言科技的期待，但對於資料隱私的疑慮經常限制了在歐盟管轄區外託管的商業化 LLM 的使用。這限制了它們在政府、國防和其他資料敏感產業的應用。在這項工作中，我們評估了可本地部署的開放權重 LLM 對立陶宛語、拉脫維亞語和愛沙尼亞語等較少人使用的語言的支援程度。我們檢視了表現最佳的多語言開放權重模型 Llama~3、Gemma~2、Phi 和 NeMo 的各種規模和精準度變體，針對機器翻譯、多選題問答和自由形式文字生成。結果顯示，儘管某些模型（例如 Gemma~2）的表現接近頂尖的商業化模型，但許多 LLM 在處理這些語言時仍有困難。然而，最令人驚訝的是，我們發現這些模型在展現接近最先進的翻譯表現同時，仍容易出現詞彙幻覺，所有開放權重的多語言 LLM 每 20 個字中至少有 1 個字出現錯誤。
-
-##### **Synthetic Data Privacy Metrics**
-2501.03941v1 by Amy Steier, Lipika Ramaswamy, Andre Manoel, Alexa Haushalter
-
-Recent advancements in generative AI have made it possible to create
-synthetic datasets that can be as accurate as real-world data for training AI
-models, powering statistical insights, and fostering collaboration with
-sensitive datasets while offering strong privacy guarantees. Effectively
-measuring the empirical privacy of synthetic data is an important step in the
-process. However, while there is a multitude of new privacy metrics being
-published every day, there currently is no standardization. In this paper, we
-review the pros and cons of popular metrics that include simulations of
-adversarial attacks. We also review current best practices for amending
-generative models to enhance the privacy of the data they create (e.g.
-differential privacy).
-
-摘要：生成式 AI 近期取得的进步使得创建合成数据集成为可能，这些数据集可以与真实世界数据一样准确，用于训练 AI 模型，为统计洞察力提供支持，并促进对敏感数据集的协作，同时提供强有力的隐私保障。有效衡量合成数据的经验隐私是该过程中的重要一步。然而，虽然每天都会发布大量新的隐私指标，但目前还没有标准化。在本文中，我们回顾了包括对抗攻击模拟在内的流行指标的优点和缺点。我们还回顾了当前为修改生成模型以增强其创建的数据的隐私（例如差分隐私）的最佳实践。
-
-##### **Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**
-2501.03940v1 by Pablo Miralles-González, Javier Huertas-Tato, Alejandro Martín, David Camacho
-
-The rapid advancement in large language models (LLMs) has significantly
-enhanced their ability to generate coherent and contextually relevant text,
-raising concerns about the misuse of AI-generated content and making it
-critical to detect it. However, the task remains challenging, particularly in
-unseen domains or with unfamiliar LLMs. Leveraging LLM next-token distribution
-outputs offers a theoretically appealing approach for detection, as they
-encapsulate insights from the models' extensive pre-training on diverse
-corpora. Despite its promise, zero-shot methods that attempt to operationalize
-these outputs have met with limited success. We hypothesize that one of the
-problems is that they use the mean to aggregate next-token distribution metrics
-across tokens, when some tokens are naturally easier or harder to predict and
-should be weighted differently. Based on this idea, we propose the Perplexity
-Attention Weighted Network (PAWN), which uses the last hidden states of the LLM
-and positions to weight the sum of a series of features based on metrics from
-the next-token distribution across the sequence length. Although not zero-shot,
-our method allows us to cache the last hidden states and next-token
-distribution metrics on disk, greatly reducing the training resource
-requirements. PAWN shows competitive and even better performance
-in-distribution than the strongest baselines (fine-tuned LMs) with a fraction
-of their trainable parameters. Our model also generalizes better to unseen
-domains and source models, with smaller variability in the decision boundary
-across distribution shifts. It is also more robust to adversarial attacks, and
-if the backbone has multilingual capabilities, it presents decent
-generalization to languages not seen during supervised training, with LLaMA3-1B
-reaching a mean macro-averaged F1 score of 81.46% in cross-validation with nine
-languages.
-
-摘要：大型語言模型 (LLM) 的快速進步大幅提升了它們生成連貫且與語境相關文字的能力，引發了對 AI 生成的內容被濫用的擔憂，並使其偵測變得至關重要。然而，這項任務仍然具有挑戰性，尤其是在未見過的領域或不熟悉的 LLM 中。利用 LLM 下一個代幣分佈輸出提供了一個理論上對偵測有吸引力的方法，因為它們概括了模型在各種語料庫上進行廣泛預訓練的見解。儘管有這樣的承諾，但試圖將這些輸出操作化的零次學習方法卻只獲得了有限的成功。我們假設其中一個問題是它們使用平均值來彙總代幣的下一代幣分佈指標，而有些代幣在預測上自然比較容易或困難，並且應該賦予不同的權重。基於這個想法，我們提出了困惑度注意力加權網路 (PAWN)，它使用 LLM 的最後隱藏狀態和位置來根據序列長度中下一代幣分佈的指標加權一系列特徵的總和。儘管不是零次學習，但我們的這種方法允許我們將最後的隱藏狀態和下一代幣分佈指標快取到磁碟中，大幅減少訓練資源需求。PAWN 在分佈中顯示出比最強的基準（微調語言模型）更具競爭力甚至更好的效能，而其可訓練參數只佔它們的一小部分。我們的模型對於未見過的領域和原始模型也有更好的泛化能力，在分佈轉移中決策邊界的變異較小。它對對抗性攻擊也更強健，而且如果主幹具有多語言能力，它會對在監督訓練期間未見過的語言呈現出良好的泛化能力，其中 LLaMA3-1B 在與九種語言的交叉驗證中達到平均巨觀 F1 分數 81.46%。
-
-##### **Multi-armed Bandit and Backbone boost Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problems**
-2501.04072v1 by Long Wang, Jiongzhi Zheng, Zhengda Xiong, Kun He
-
-The Lin-Kernighan-Helsguan (LKH) heuristic is a classic local search
-algorithm for the Traveling Salesman Problem (TSP). LKH introduces an
-$\alpha$-value to replace the traditional distance metric for evaluating the
-edge quality, which leads to a significant improvement. However, we observe
-that the $\alpha$-value does not make full use of the historical information
-during the search, and single guiding information often makes LKH hard to
-escape from some local optima. To address the above issues, we propose a novel
-way to extract backbone information during the TSP local search process, which
-is dynamic and can be updated once a local optimal solution is found. We
-further propose to combine backbone information, $\alpha$-value, and distance
-to evaluate the edge quality so as to guide the search. Moreover, we abstract
-their different combinations to arms in a multi-armed bandit (MAB) and use an
-MAB model to help the algorithm select an appropriate evaluation metric
-dynamically. Both the backbone information and MAB can provide diverse guiding
-information and learn from the search history to suggest the best metric. We
-apply our methods to LKH and LKH-3, which is an extension version of LKH that
-can be used to solve about 40 variant problems of TSP and Vehicle Routing
-Problem (VRP). Extensive experiments show the excellent performance and
-generalization capability of our proposed method, significantly improving LKH
-for TSP and LKH-3 for two representative TSP and VRP variants, the Colored TSP
-(CTSP) and Capacitated VRP with Time Windows (CVRPTW).
-
-摘要：Lin-Kernighan-Helsguan (LKH) 啟發法是一種針對旅行推銷員問題 (TSP) 的經典局部搜尋演算法。LKH 引入一個 $\alpha$-值來取代傳統的距離量度，用於評估邊緣品質，這帶來顯著的改善。然而，我們觀察到 $\alpha$-值並未充分利用搜尋期間的歷史資訊，而且單一的引導資訊通常會讓 LKH 難以逃離某些局部最佳解。為了解決上述問題，我們提出了一種新穎的方法，在 TSP 局部搜尋過程中萃取骨幹資訊，這種資訊是動態的，而且一旦找到局部最佳解就可以更新。我們進一步提出結合骨幹資訊、$\alpha$-值和距離來評估邊緣品質，以引導搜尋。此外，我們將它們不同的組合抽象成多臂老虎機 (MAB) 中的手臂，並使用 MAB 模型來幫助演算法動態選擇適當的評估量度。骨幹資訊和 MAB 都能提供多樣化的引導資訊，並從搜尋歷程中學習，以建議最佳量度。我們將我們的這些方法套用於 LKH 和 LKH-3，後者是 LKH 的延伸版本，可用於解決約 40 個 TSP 和車輛路徑問題 (VRP) 的變體問題。廣泛的實驗顯示了我們提出的方法的優異效能和泛化能力，大幅改善了 LKH 在 TSP 中的表現，以及 LKH-3 在兩個具代表性的 TSP 和 VRP 變體中的表現，分別是著色 TSP (CTSP) 和帶有時間窗的載重 VRP (CVRPTW)。
-
-##### **From Newswire to Nexus: Using text-based actor embeddings and transformer networks to forecast conflict dynamics**
-2501.03928v1 by Mihai Croicu, Simon Polichinel von der Maase
-
-This study advances the field of conflict forecasting by using text-based
-actor embeddings with transformer models to predict dynamic changes in violent
-conflict patterns at the actor level. More specifically, we combine newswire
-texts with structured conflict event data and leverage recent advances in
-Natural Language Processing (NLP) techniques to forecast escalations and
-de-escalations among conflicting actors, such as governments, militias,
-separatist movements, and terrorists. This new approach accurately and promptly
-captures the inherently volatile patterns of violent conflicts, which existing
-methods have not been able to achieve. To create this framework, we began by
-curating and annotating a vast international newswire corpus, leveraging
-hand-labeled event data from the Uppsala Conflict Data Program. By using this
-hybrid dataset, our models can incorporate the textual context of news sources
-along with the precision and detail of structured event data. This combination
-enables us to make both dynamic and granular predictions about conflict
-developments. We validate our approach through rigorous back-testing against
-historical events, demonstrating superior out-of-sample predictive power. We
-find that our approach is quite effective in identifying and predicting phases
-of conflict escalation and de-escalation, surpassing the capabilities of
-traditional models. By focusing on actor interactions, our explicit goal is to
-provide actionable insights to policymakers, humanitarian organizations, and
-peacekeeping operations in order to enable targeted and effective intervention
-strategies.
-
-摘要：本研究透過使用基於文字的演員嵌入與轉換器模型來預測演員層級暴力衝突模式的動態變化，推進了衝突預測領域。更具體地說，我們結合新聞電文與結構化的衝突事件資料，並利用自然語言處理 (NLP) 技術的最新進展來預測衝突行為者（例如政府、民兵、分離主義運動和恐怖分子）之間的升級和降級。這種新方法準確且及時地捕捉了暴力衝突固有的不穩定模式，這是現有方法無法達到的。為了建立這個架構，我們首先整理並註解了一個龐大的國際新聞電文語料庫，利用烏普薩拉衝突資料計畫的手動標記事件資料。透過使用這個混合資料集，我們的模型可以結合新聞來源的文字脈絡以及結構化事件資料的精確性和細節。這種組合使我們能夠對衝突發展做出動態且細緻的預測。我們透過針對歷史事件進行嚴格的反向測試來驗證我們的方法，展示了卓越的樣本外預測能力。我們發現，我們的方法在識別和預測衝突升級和降級階段方面非常有效，超越了傳統模型的能力。透過專注於演員互動，我們的明確目標是為政策制定者、人道主義組織和維和行動提供可行的見解，以便制定有針對性和有效的干預策略。
-
-##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
-2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
-
-The integration of large language models (LLMs) into public transit systems
-presents a transformative opportunity to enhance urban mobility. This study
-explores the potential of LLMs to revolutionize public transportation
-management within the context of San Antonio's transit system. Leveraging the
-capabilities of LLMs in natural language processing and data analysis, we
-investigate their capabilities to optimize route planning, reduce wait times,
-and provide personalized travel assistance. By utilizing the General Transit
-Feed Specification (GTFS) and other relevant data, this research aims to
-demonstrate how LLMs can potentially improve resource allocation, elevate
-passenger satisfaction, and inform data-driven decision-making in transit
-operations. A comparative analysis of different ChatGPT models was conducted to
-assess their ability to understand transportation information, retrieve
-relevant data, and provide comprehensive responses. Findings from this study
-suggest that while LLMs hold immense promise for public transit, careful
-engineering and fine-tuning are essential to realizing their full potential.
-San Antonio serves as a case study to inform the development of LLM-powered
-transit systems in other urban environments.
-
-摘要：大型語言模型 (LLM) 整合到公共交通系統中，為提升城市流動性帶來轉型契機。本研究探討 LLM 在聖安東尼奧交通系統脈絡下，革新大眾運輸管理的潛力。利用 LLM 在自然語言處理和資料分析方面的能力，我們探討其在優化路線規劃、縮短等候時間，以及提供個人化旅遊協助方面的能力。透過利用通用大眾運輸資料規範 (GTFS) 和其他相關資料，本研究旨在證明 LLM 如何潛在提升資源配置、提升乘客滿意度，以及在交通營運中提供資料驅動的決策。針對不同的 ChatGPT 模型進行比較分析，以評估其理解交通資訊、擷取相關資料，以及提供全面回應的能力。本研究的發現顯示，儘管 LLM 對大眾運輸極具前景，但精密的工程和微調對於實現其全部潛力至關重要。聖安東尼奧作為一個案例研究，為在其他都市環境中開發由 LLM 驅動的交通系統提供參考。
-
-##### **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**
-2501.03895v1 by Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng
-
-The advent of real-time large multimodal models (LMMs) like GPT-4o has
-sparked considerable interest in efficient LMMs. LMM frameworks typically
-encode visual inputs into vision tokens (continuous representations) and
-integrate them and textual instructions into the context of large language
-models (LLMs), where large-scale parameters and numerous context tokens
-(predominantly vision tokens) result in substantial computational overhead.
-Previous efforts towards efficient LMMs always focus on replacing the LLM
-backbone with smaller models, while neglecting the crucial issue of token
-quantity. In this paper, we introduce LLaVA-Mini, an efficient LMM with minimal
-vision tokens. To achieve a high compression ratio of vision tokens while
-preserving visual information, we first analyze how LMMs understand vision
-tokens and find that most vision tokens only play a crucial role in the early
-layers of LLM backbone, where they mainly fuse visual information into text
-tokens. Building on this finding, LLaVA-Mini introduces modality pre-fusion to
-fuse visual information into text tokens in advance, thereby facilitating the
-extreme compression of vision tokens fed to LLM backbone into one token.
-LLaVA-Mini is a unified large multimodal model that can support the
-understanding of images, high-resolution images, and videos in an efficient
-manner. Experiments across 11 image-based and 7 video-based benchmarks
-demonstrate that LLaVA-Mini outperforms LLaVA-v1.5 with just 1 vision token
-instead of 576. Efficiency analyses reveal that LLaVA-Mini can reduce FLOPs by
-77%, deliver low-latency responses within 40 milliseconds, and process over
-10,000 frames of video on the GPU hardware with 24GB of memory.
-
-摘要：隨著 GPT-4o 等即時大型多模態模型 (LMM) 的出現，對於高效能 LMM 的興趣也大幅提升。LMM 架構通常會將視覺輸入編碼成視覺符號（連續表示），並將其與文字說明整合到大型語言模型 (LLM) 的脈絡中，其中大規模參數和大量的脈絡符號（主要是視覺符號）會造成大量的運算負擔。先前對於高效能 LMM 的努力總是專注於用較小的模型取代 LLM 主幹，而忽略了符號數量這個關鍵問題。在本文中，我們將介紹 LLaVA-Mini，這是一個符號數量最少的 LMM。為了在保留視覺資訊的同時，達成視覺符號的高壓縮率，我們首先分析 LMM 如何理解視覺符號，並發現大部分的視覺符號只在 LLM 主幹的早期層中扮演關鍵角色，在這些層中，它們主要將視覺資訊融合到文字符號中。基於這個發現，LLaVA-Mini 引入了模態預融合，以預先將視覺資訊融合到文字符號中，從而促進將輸入 LLM 主幹的視覺符號極度壓縮成一個符號。LLaVA-Mini 是一個統一的大型多模態模型，能夠以一種高效能的方式理解影像、高解析度影像和影片。在 11 個基於影像的基準和 7 個基於影片的基準的實驗中，證明 LLaVA-Mini 的效能優於 LLaVA-v1.5，僅使用 1 個視覺符號，而非 576 個。效率分析顯示，LLaVA-Mini 可以減少 77% 的 FLOP，在 40 毫秒內提供低延遲的回應，並在配備 24GB 記憶體的 GPU 硬體上處理超過 10,000 幀的影片。
-
-##### **Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies**
-2501.03888v1 by Kexin Gu Baugh, Luke Dickens, Alessandra Russo
-
-Although deep reinforcement learning has been shown to be effective, the
-model's black-box nature presents barriers to direct policy interpretation. To
-address this problem, we propose a neuro-symbolic approach called neural DNF-MT
-for end-to-end policy learning. The differentiable nature of the neural DNF-MT
-model enables the use of deep actor-critic algorithms for training. At the same
-time, its architecture is designed so that trained models can be directly
-translated into interpretable policies expressed as standard (bivalent or
-probabilistic) logic programs. Moreover, additional layers can be included to
-extract abstract features from complex observations, acting as a form of
-predicate invention. The logic representations are highly interpretable, and we
-show how the bivalent representations of deterministic policies can be edited
-and incorporated back into a neural model, facilitating manual intervention and
-adaptation of learned policies. We evaluate our approach on a range of tasks
-requiring learning deterministic or stochastic behaviours from various forms of
-observations. Our empirical results show that our neural DNF-MT model performs
-at the level of competing black-box methods whilst providing interpretable
-policies.
-
-摘要：儘管深度強化學習已被證明有效，但模型的黑箱性質對直接政策詮釋造成了障礙。為了解決這個問題，我們提出了一種稱為神經符號方法的神經 DNF-MT，用於端對端政策學習。神經 DNF-MT 模型的可微分特性使得能夠使用深度動作者-評論家演算法進行訓練。同時，其架構被設計成訓練好的模型可以直接轉換為可解釋的政策，表示為標準（二值或機率）邏輯程式。此外，可以包含額外的層級，從複雜的觀察中提取抽象特徵，作為一種謂詞發明的形式。邏輯表示高度可解釋，我們展示了確定性政策的二值表示如何被編輯並整合回神經模型中，促進手動介入和學習政策的適應。我們在各種任務上評估我們的方法，這些任務需要從各種形式的觀察中學習確定性或隨機行為。我們的經驗結果表明，我們的神經 DNF-MT 模型在競爭黑箱方法的層級上執行，同時提供可解釋的政策。
-
-##### **AlphaPO -- Reward shape matters for LLM alignment**
-2501.03884v1 by Aman Gupta, Shao Tang, Qingquan Song, Sirou Zhu, Jiwoo Hong, Ankan Saha, Viral Gupta, Noah Lee, Eunki Kim, Jason Zhu, Natesh Pillai, S. Sathiya Keerthi
-
-Reinforcement Learning with Human Feedback (RLHF) and its variants have made
-huge strides toward the effective alignment of large language models (LLMs) to
-follow instructions and reflect human values. More recently, Direct Alignment
-Algorithms (DAAs) have emerged in which the reward modeling stage of RLHF is
-skipped by characterizing the reward directly as a function of the policy being
-learned. Examples include Direct Preference Optimization (DPO) and Simple
-Preference Optimization (SimPO). These methods often suffer from likelihood
-displacement, a phenomenon by which the probabilities of preferred responses
-are often reduced undesirably.
-  In this paper, we argue that, for DAAs the reward (function) shape matters.
-We introduce AlphaPO, a new DAA method that leverages an $\alpha$-parameter to
-help change the shape of the reward function beyond the standard log reward.
-AlphaPO helps maintain fine-grained control over likelihood displacement and
-over-optimization. Compared to SimPO, one of the best performing DAAs, AlphaPO
-leads to about 7\% to 10\% relative improvement in alignment performance for
-the instruct versions of Mistral-7B and Llama3-8B. The analysis and results
-presented highlight the importance of the reward shape, and how one can
-systematically change it to affect training dynamics, as well as improve
-alignment performance.
-
-摘要：人類回饋強化學習 (RLHF) 及其變體已在大型語言模型 (LLM) 的有效對齊方面取得重大進展，以遵循指令並反映人類價值觀。最近，直接對齊演算法 (DAA) 已出現，其中 RLHF 的獎勵模型階段透過將獎勵直接表徵為正在學習的政策的函數來跳過。範例包括直接偏好最佳化 (DPO) 和簡單偏好最佳化 (SimPO)。這些方法通常會受到似然位移的影響，這是一種現象，其中偏好回應的機率通常會不必要地降低。
-在本文中，我們論證，對於 DAA，獎勵（函數）形狀很重要。我們引入了 AlphaPO，這是一種新的 DAA 方法，它利用 $\alpha$-參數來幫助改變獎勵函數的形狀，超越標準的對數獎勵。AlphaPO 有助於維持對似然位移和過度最佳化的細緻控制。與表現最好的 DAA 之一 SimPO 相比，AlphaPO 導致 Mistral-7B 和 Llama3-8B 的指令版本在對齊效能方面相對改善了約 7% 到 10%。所呈現的分析和結果突出了獎勵形狀的重要性，以及如何系統地改變它以影響訓練動態，以及改善對齊效能。
-
-##### **CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**
-2501.03879v1 by Keonwoo Kim, Yeongjae Cho, Taebaek Hwang, Minsoo Jo, Sangdo Han
-
-Recent research has demonstrated that Large Language Models (LLMs) are not
-limited to text-only tasks but can also function as multimodal models across
-various modalities, including audio, images, and videos. In particular,
-research on 3D Large Multimodal Models (3D LMMs) is making notable strides,
-driven by the potential of processing higher-dimensional data like point
-clouds. However, upon closer examination, we find that the visual and textual
-content within each sample of existing training datasets lacks both high
-informational granularity and clarity, which serve as a bottleneck for precise
-cross-modal understanding. To address these issues, we propose CL3DOR,
-Contrastive Learning for 3D large multimodal models via Odds ratio on
-high-Resolution point clouds, designed to ensure greater specificity and
-clarity in both visual and textual content. Specifically, we increase the
-density of point clouds per object and construct informative hard negative
-responses in the training dataset to penalize unwanted responses. To leverage
-hard negative responses, we incorporate the odds ratio as an auxiliary term for
-contrastive learning into the conventional language modeling loss. CL3DOR
-achieves state-of-the-art performance in 3D scene understanding and reasoning
-benchmarks. Additionally, we demonstrate the effectiveness of CL3DOR's key
-components through extensive experiments.
-
-摘要：最近的研究表明，大语言模型 (LLM) 不仅限于纯文本任务，还可以跨越各种模式（包括音频、图像和视频）作为多模态模型发挥作用。特别是，3D 大多模态模型 (3D LMM) 的研究正在取得显著进展，这得益于处理点云等高维数据的潜力。然而，经过仔细检查，我们发现现有训练数据集的每个样本中的视觉和文本内容都缺乏高信息粒度和清晰度，这成为精确跨模态理解的瓶颈。为了解决这些问题，我们提出了 CL3DOR，即通过高分辨率点云上的比值对 3D 大多模态模型进行对比学习，旨在确保视觉和文本内容具有更高的特异性和清晰度。具体来说，我们增加了每个对象的点云密度，并在训练数据集中构建信息丰富的硬负面响应，以惩罚不需要的响应。为了利用硬负面响应，我们将比值作为对比学习的辅助项纳入传统的语言建模损失中。CL3DOR 在 3D 场景理解和推理基准测试中取得了最先进的性能。此外，我们通过大量的实验展示了 CL3DOR 关键组件的有效性。
-
-##### **Add Noise, Tasks, or Layers? MaiNLP at the VarDial 2025 Shared Task on Norwegian Dialectal Slot and Intent Detection**
-2501.03870v1 by Verena Blaschke, Felicia Körner, Barbara Plank
-
-Slot and intent detection (SID) is a classic natural language understanding
-task. Despite this, research has only more recently begun focusing on SID for
-dialectal and colloquial varieties. Many approaches for low-resource scenarios
-have not yet been applied to dialectal SID data, or compared to each other on
-the same datasets. We participate in the VarDial 2025 shared task on slot and
-intent detection in Norwegian varieties, and compare multiple set-ups: varying
-the training data (English, Norwegian, or dialectal Norwegian), injecting
-character-level noise, training on auxiliary tasks, and applying Layer
-Swapping, a technique in which layers of models fine-tuned on different
-datasets are assembled into a model. We find noise injection to be beneficial
-while the effects of auxiliary tasks are mixed. Though some experimentation was
-required to successfully assemble a model from layers, it worked surprisingly
-well; a combination of models trained on English and small amounts of dialectal
-data produced the most robust slot predictions. Our best models achieve 97.6%
-intent accuracy and 85.6% slot F1 in the shared task.
-
-摘要：時隙和意圖偵測 (SID) 是經典的自然語言理解任務。儘管如此，研究直到最近才開始專注於方言和口語變體的 SID。許多低資源場景的方法尚未應用於方言 SID 資料，或在同一資料集上進行相互比較。我們參與了 VarDial 2025 共享任務，針對挪威語變體的時隙和意圖偵測，並比較多種設定：變更訓練資料 (英語、挪威語或挪威方言)、注入字元層級雜訊、針對輔助任務進行訓練，以及套用層交換，這是一種將針對不同資料集微調的模型層組裝成一個模型的技術。我們發現雜訊注入有益，而輔助任務的效果則好壞參半。儘管需要一些實驗才能成功從各層組裝模型，但效果卻出人意料地好；針對英語和小量方言資料訓練的模型組合產生了最穩健的時隙預測。我們最佳的模型在共享任務中達到了 97.6% 的意圖準確度和 85.6% 的時隙 F1 分數。
-
-##### **Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**
-2501.03863v1 by Xaver Maria Krückl, Verena Blaschke, Barbara Plank
-
-Reliable slot and intent detection (SID) is crucial in natural language
-understanding for applications like digital assistants. Encoder-only
-transformer models fine-tuned on high-resource languages generally perform well
-on SID. However, they struggle with dialectal data, where no standardized form
-exists and training data is scarce and costly to produce. We explore zero-shot
-transfer learning for SID, focusing on multiple Bavarian dialects, for which we
-release a new dataset for the Munich dialect. We evaluate models trained on
-auxiliary tasks in Bavarian, and compare joint multi-task learning with
-intermediate-task training. We also compare three types of auxiliary tasks:
-token-level syntactic tasks, named entity recognition (NER), and language
-modelling. We find that the included auxiliary tasks have a more positive
-effect on slot filling than intent classification (with NER having the most
-positive effect), and that intermediate-task training yields more consistent
-performance gains. Our best-performing approach improves intent classification
-performance on Bavarian dialects by 5.1 and slot filling F1 by 8.4 percentage
-points.
-
-摘要：可靠的槽位和意图检测 (SID) 在自然语言理解中至关重要，例如数位助理应用程序。仅编码器转换器模型经过微调，在高资源语言上通常在 SID 上表现良好。然而，它们难以处理方言数据，其中不存在标准化形式，并且训练数据稀缺且制作成本高昂。我们探索了 SID 的零次学习迁移学习，重点关注多种巴伐利亚方言，为此我们发布了慕尼黑方言的新数据集。我们评估了在巴伐利亚辅助任务中训练的模型，并将联合多任务学习与中间任务训练进行比较。我们还比较了三种类型的辅助任务：标记级句法任务、命名实体识别 (NER) 和语言建模。我们发现包含的辅助任务对槽位填充的影响比意图分类更积极（NER 影响最积极），并且中间任务训练产生了更一致的性能提升。我们表现最好的方法将巴伐利亚方言的意图分类性能提高了 5.1，槽位填充 F1 提高了 8.4 个百分点。
-
-##### **Progressive Document-level Text Simplification via Large Language Models**
-2501.03857v1 by Dengzhao Fang, Jipeng Qiang, Yi Zhu, Yunhao Yuan, Wei Li, Yan Liu
-
-Research on text simplification has primarily focused on lexical and
-sentence-level changes. Long document-level simplification (DS) is still
-relatively unexplored. Large Language Models (LLMs), like ChatGPT, have
-excelled in many natural language processing tasks. However, their performance
-on DS tasks is unsatisfactory, as they often treat DS as merely document
-summarization. For the DS task, the generated long sequences not only must
-maintain consistency with the original document throughout, but complete
-moderate simplification operations encompassing discourses, sentences, and
-word-level simplifications. Human editors employ a hierarchical complexity
-simplification strategy to simplify documents. This study delves into
-simulating this strategy through the utilization of a multi-stage collaboration
-using LLMs. We propose a progressive simplification method (ProgDS) by
-hierarchically decomposing the task, including the discourse-level,
-topic-level, and lexical-level simplification. Experimental results demonstrate
-that ProgDS significantly outperforms existing smaller models or direct
-prompting with LLMs, advancing the state-of-the-art in the document
-simplification task.
-
-摘要：文本簡化的研究主要集中在詞彙和句子層級的改變。長篇文件層級的簡化（DS）仍相對未被探討。大型語言模型（LLM），例如 ChatGPT，在許多自然語言處理任務中表現出色。然而，它們在 DS 任務上的表現並不令人滿意，因為它們常常將 DS 視為單純的文件摘要。對於 DS 任務，產生的長序列不僅必須始終與原始文件保持一致，而且必須包含涵蓋語篇、句子和詞彙層級簡化的適度簡化操作。人工編輯採用階層式複雜性簡化策略來簡化文件。本研究深入探討透過利用 LLM 的多階段協作來模擬此策略。我們提出了一種漸進簡化方法（ProgDS），透過階層式分解任務，包括語篇層級、主題層級和詞彙層級的簡化。實驗結果證明，ProgDS 明顯優於現有的較小模型或使用 LLM 直接提示，推動了文件簡化任務的最新技術。
-
-##### **BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context**
-2501.03855v1 by Alexis Matzopoulos, Charl Hendriks, Hishaam Mahomed, Francois Meyer
-
-The BabyLM challenge called on participants to develop sample-efficient
-language models. Submissions were pretrained on a fixed English corpus, limited
-to the amount of words children are exposed to in development (<100m). The
-challenge produced new architectures for data-efficient language modelling,
-which outperformed models trained on trillions of words. This is promising for
-low-resource languages, where available corpora are limited to much less than
-100m words. In this paper, we explore the potential of BabyLMs for low-resource
-languages, using the isiXhosa language as a case study. We pretrain two BabyLM
-architectures, ELC-BERT and MLSM, on an isiXhosa corpus. They outperform a
-vanilla pretrained model on POS tagging and NER, achieving notable gains (+3.2
-F1) for the latter. In some instances, the BabyLMs even outperform XLM-R. Our
-findings show that data-efficient models are viable for low-resource languages,
-but highlight the continued importance, and lack of, high-quality pretraining
-data. Finally, we visually analyse how BabyLM architectures encode isiXhosa.
-
-摘要：BabyLM 挑戰要求參與者開發出樣本效率語言模型。提交的模型在固定的英語語料庫上進行預訓練，並限制在兒童在發展過程中接觸到的詞彙量（<100m）。該挑戰產生了用於資料效率語言建模的新架構，其效能優於在數兆個詞彙上訓練的模型。這對於低資源語言來說很有希望，因為可用的語料庫限制在遠少於 100m 個詞彙。在本文中，我們探討了 BabyLM 在低資源語言中的潛力，並以 isiXhosa 語言作為案例研究。我們在 isiXhosa 語料庫上預訓練了兩個 BabyLM 架構，ELC-BERT 和 MLSM。它們在詞性標記和 NER 上的表現優於香草預訓練模型，後者獲得了顯著的增益（+3.2 F1）。在某些情況下，BabyLM 甚至優於 XLM-R。我們的研究結果表明，資料效率模型對於低資源語言是可行的，但強調了高品質預訓練資料的持續重要性和缺乏。最後，我們視覺化分析了 BabyLM 架構如何編碼 isiXhosa。
-
-##### **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**
-2501.03847v2 by Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu
-
-Diffusion models have demonstrated impressive performance in generating
-high-quality videos from text prompts or images. However, precise control over
-the video generation process, such as camera manipulation or content editing,
-remains a significant challenge. Existing methods for controlled video
-generation are typically limited to a single control type, lacking the
-flexibility to handle diverse control demands. In this paper, we introduce
-Diffusion as Shader (DaS), a novel approach that supports multiple video
-control tasks within a unified architecture. Our key insight is that achieving
-versatile video control necessitates leveraging 3D control signals, as videos
-are fundamentally 2D renderings of dynamic 3D content. Unlike prior methods
-limited to 2D control signals, DaS leverages 3D tracking videos as control
-inputs, making the video diffusion process inherently 3D-aware. This innovation
-allows DaS to achieve a wide range of video controls by simply manipulating the
-3D tracking videos. A further advantage of using 3D tracking videos is their
-ability to effectively link frames, significantly enhancing the temporal
-consistency of the generated videos. With just 3 days of fine-tuning on 8 H800
-GPUs using less than 10k videos, DaS demonstrates strong control capabilities
-across diverse tasks, including mesh-to-video generation, camera control,
-motion transfer, and object manipulation.
-
-摘要：擴散模型已證明在根據文字提示或圖像產生高品質影片方面具有令人印象深刻的效能。然而，對影片產生過程的精確控制，例如相機操作或內容編輯，仍然是一項重大的挑戰。現有的受控影片產生方法通常僅限於單一控制類型，缺乏處理不同控制需求的靈活性。在本文中，我們介紹了擴散為著色器 (DaS)，這是一種新穎的方法，可在統一架構中支援多項影片控制任務。我們的關鍵見解是，要實現多功能影片控制，必須利用 3D 控制訊號，因為影片基本上是動態 3D 內容的 2D 渲染。與僅限於 2D 控制訊號的先前方法不同，DaS 利用 3D 追蹤影片作為控制輸入，使影片擴散過程本質上具備 3D 感知能力。此創新讓 DaS 能夠透過簡單地操作 3D 追蹤影片來實現廣泛的影片控制。使用 3D 追蹤影片的另一個優點是它們有效連結畫面的能力，大幅提升產生影片的時間一致性。DaS 只使用不到 10k 個影片，在 8 個 H800 GPU 上進行 3 天微調，就能在各種任務中展現強大的控制能力，包括網格到影片產生、相機控制、動作轉移和物件操作。
-
-##### **More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**
-2501.04070v2 by Xiaoqing Zhang, Ang Lv, Yuhan Liu, Flood Sung, Wei Liu, Shuo Shang, Xiuying Chen, Rui Yan
-
-Large language models (LLMs) excel at few-shot in-context learning (ICL)
-without requiring parameter updates. However, as the number of ICL
-demonstrations increases from a few to many, performance tends to plateau and
-eventually decline. We identify two primary causes for this trend: the
-suboptimal negative log-likelihood (NLL) optimization objective and the
-incremental data noise. To address these issues, we introduce DrICL, a novel
-optimization method that enhances model performance through Differentiated
-Learning and advantage-based Reweighting objectives. Globally, DrICL utilizes
-differentiated learning to optimize the NLL objective, ensuring that many-shot
-performance surpasses zero-shot levels. Locally, it dynamically adjusts the
-weighting of many-shot demonstrations by leveraging cumulative advantages
-inspired by reinforcement learning, thereby improving generalization. This
-approach allows the model to handle varying numbers of shots effectively,
-mitigating the impact of noisy data. Recognizing the lack of multi-task
-datasets with diverse many-shot distributions, we develop the Many-Shot ICL
-Benchmark (ICL-50)-a large-scale benchmark of 50 tasks that cover shot numbers
-from 1 to 350 within sequences of up to 8,000 tokens-for fine-tuning purposes.
-ICL-50 facilitates the evaluation of many-shot ICL strategies across seven
-prominent NLP tasks and 50 distinct datasets. Experimental results demonstrate
-that LLMs enhanced with DrICL achieve significant improvements in many-shot
-setups across various tasks, including both in-domain and out-of-domain
-scenarios. We release the code and benchmark dataset hoping to facilitate
-further research in many-shot ICL.
-
-摘要：大型語言模型 (LLM) 在僅需少量範例的脈絡學習 (ICL) 中表現出色，而無需更新參數。然而，隨著 ICL 示範的數量從少數增加到多數，效能往往會達到平穩期，並最終下降。我們找出此趨勢的兩個主要原因：次佳負對數似然 (NLL) 最佳化目標和遞增資料雜訊。為了解決這些問題，我們引入了 DrICL，一種透過差異化學習和基於優勢的重新加權目標來增強模型效能的新型最佳化方法。在全球層面上，DrICL 利用差異化學習來最佳化 NLL 目標，確保多範例效能超越零範例等級。在局部層面上，它透過利用受強化學習啟發的累積優勢，動態調整多範例示範的加權，從而改善泛化能力。這種方法讓模型能夠有效處理不同數量的範例，減輕雜訊資料的影響。由於缺乏具有多樣化多範例分佈的多任務資料集，我們開發了多範例 ICL 基準 (ICL-50) - 一個包含 50 項任務的大規模基準，涵蓋從 1 到 350 的範例數量，序列長度最長為 8,000 個符號，用於微調目的。ICL-50 促進了跨越七項顯著的 NLP 任務和 50 個不同資料集的多範例 ICL 策略的評估。實驗結果表明，透過 DrICL 增強的 LLM 在各種任務的多範例設定中獲得顯著改善，包括領域內和領域外場景。我們釋出程式碼和基準資料集，希望能促進多範例 ICL 的進一步研究。
-
-##### **BERTopic for Topic Modeling of Hindi Short Texts: A Comparative Study**
-2501.03843v1 by Atharva Mutsaddi, Anvi Jamkhande, Aryan Thakre, Yashodhara Haribhakta
-
-As short text data in native languages like Hindi increasingly appear in
-modern media, robust methods for topic modeling on such data have gained
-importance. This study investigates the performance of BERTopic in modeling
-Hindi short texts, an area that has been under-explored in existing research.
-Using contextual embeddings, BERTopic can capture semantic relationships in
-data, making it potentially more effective than traditional models, especially
-for short and diverse texts. We evaluate BERTopic using 6 different document
-embedding models and compare its performance against 8 established topic
-modeling techniques, such as Latent Dirichlet Allocation (LDA), Non-negative
-Matrix Factorization (NMF), Latent Semantic Indexing (LSI), Additive
-Regularization of Topic Models (ARTM), Probabilistic Latent Semantic Analysis
-(PLSA), Embedded Topic Model (ETM), Combined Topic Model (CTM), and Top2Vec.
-The models are assessed using coherence scores across a range of topic counts.
-Our results reveal that BERTopic consistently outperforms other models in
-capturing coherent topics from short Hindi texts.
-
-摘要：由於印地語等原生的語言中短文本資料越來越常出現在現代媒體中，因此在這些資料上進行主題建模的強健方法變得越來越重要。本研究探討了 BERTopic 在建模印地語短文本中的表現，這是一個現有研究中尚未充分探討的領域。透過使用脈絡嵌入，BERTopic 能夠擷取資料中的語義關係，使其潛在效能優於傳統模型，特別是對於簡短且多樣化的文本。我們使用 6 個不同的文件嵌入模型評估 BERTopic，並將其效能與 8 種已建立的主題建模技術進行比較，例如隱含狄利克雷配置 (LDA)、非負矩陣分解 (NMF)、潛在語義索引 (LSI)、主題模型的加成正則化 (ARTM)、機率潛在語義分析 (PLSA)、嵌入式主題模型 (ETM)、組合式主題模型 (CTM) 和 Top2Vec。這些模型會使用不同主題計數的相干性分數進行評估。我們的結果顯示，BERTopic 在從印地語短文本中擷取相干主題方面始終優於其他模型。
-
-##### **SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**
-2501.03836v1 by Runci Bai
-
-Brain tumors can result in neurological dysfunction, alterations in cognitive
-and psychological states, increased intracranial pressure, and the occurrence
-of seizures, thereby presenting a substantial risk to human life and health.
-The You Only Look Once(YOLO) series models have demonstrated superior accuracy
-in object detection for medical imaging. In this paper, we develop a novel
-SCC-YOLO architecture by integrating the SCConv attention mechanism into
-YOLOv9. The SCConv module reconstructs an efficient convolutional module by
-reducing spatial and channel redundancy among features, thereby enhancing the
-learning of image features. We investigate the impact of intergrating different
-attention mechanisms with the YOLOv9 model on brain tumor image detection using
-both the Br35H dataset and our self-made dataset(Brain_Tumor_Dataset).
-Experimental results show that on the Br35H dataset, SCC-YOLO achieved a 0.3%
-improvement in mAp50 compared to YOLOv9, while on our self-made dataset,
-SCC-YOLO exhibited a 0.5% improvement over YOLOv9. SCC-YOLO has reached
-state-of-the-art performance in brain tumor detection. Source code is available
-at : https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
-
-摘要：腦瘤可能導致神經功能障礙、認知和心理狀態改變、顱內壓升高，以及癲癇發作，因此對人類生命和健康構成重大風險。You Only Look Once (YOLO) 系列模型已證明在醫學影像的物件偵測中具有優異的準確度。在本文中，我們透過將 SCConv 注意力機制整合到 YOLOv9 中，開發出新穎的 SCC-YOLO 架構。SCConv 模組透過減少特徵中的空間和通道冗餘來重建一個高效的卷積模組，從而增強影像特徵的學習。我們使用 Br35H 資料集和我們自製的資料集 (Brain_Tumor_Dataset) 探討了將不同的注意力機制與 YOLOv9 模型整合對腦瘤影像偵測的影響。實驗結果顯示，在 Br35H 資料集上，SCC-YOLO 在 mAp50 方面比 YOLOv9 提升了 0.3%，而在我們自製的資料集上，SCC-YOLO 比 YOLOv9 提升了 0.5%。SCC-YOLO 已在腦瘤偵測方面達到最先進的效能。原始碼可於以下網址取得：https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
-
-##### **Three-dimensional attention Transformer for state evaluation in real-time strategy games**
-2501.03832v1 by Yanqing Ye, Weilong Yang, Kai Qiu, Jie Zhang
-
-Situation assessment in Real-Time Strategy (RTS) games is crucial for
-understanding decision-making in complex adversarial environments. However,
-existing methods remain limited in processing multi-dimensional feature
-information and temporal dependencies. Here we propose a tri-dimensional
-Space-Time-Feature Transformer (TSTF Transformer) architecture, which
-efficiently models battlefield situations through three independent but
-cascaded modules: spatial attention, temporal attention, and feature attention.
-On a dataset comprising 3,150 adversarial experiments, the 8-layer TSTF
-Transformer demonstrates superior performance: achieving 58.7% accuracy in the
-early game (~4% progress), significantly outperforming the conventional
-Timesformer's 41.8%; reaching 97.6% accuracy in the mid-game (~40% progress)
-while maintaining low performance variation (standard deviation 0.114).
-Meanwhile, this architecture requires fewer parameters (4.75M) compared to the
-baseline model (5.54M). Our study not only provides new insights into situation
-assessment in RTS games but also presents an innovative paradigm for
-Transformer-based multi-dimensional temporal modeling.
-
-摘要：在即時戰略 (RTS) 遊戲中，情境評估對於理解在複雜對抗環境中的決策至關重要。然而，現有方法在處理多維特徵資訊和時間依賴性方面仍然有限。在此，我們提出一個三維時空特徵轉換器 (TSTF Transformer) 架構，它透過三個獨立但串聯的模組有效地模擬戰場情境：空間注意力、時間注意力和特徵注意力。在包含 3,150 個對抗實驗的資料集上，8 層 TSTF Transformer 展現出優異的效能：在遊戲初期獲得 58.7% 的準確度（進步約 4%），明顯優於傳統 Timesformer 的 41.8%；在遊戲中期達到 97.6% 的準確度（進步約 40%），同時維持低效能變異（標準差 0.114）。同時，與基線模型（5.54M）相比，此架構需要的參數更少（4.75M）。我們的研究不僅為 RTS 遊戲中的情境評估提供了新的見解，也為基於 Transformer 的多維時間建模提出了創新的典範。
-
-##### **Investigating the Impact of Data Selection Strategies on Language Model Performance**
-2501.03826v1 by Jiayao Gu, Liting Chen, Yihong Li
-
-Data selection is critical for enhancing the performance of language models,
-particularly when aligning training datasets with a desired target
-distribution. This study explores the effects of different data selection
-methods and feature types on model performance. We evaluate whether selecting
-data subsets can influence downstream tasks, whether n-gram features improve
-alignment with target distributions, and whether embedding-based neural
-features provide complementary benefits. Through comparative experiments using
-baseline random selection methods and distribution aligned approaches, we
-provide insights into the interplay between data selection strategies and model
-training efficacy. All code for this study can be found on
-\href{https://github.com/jgu13/HIR-Hybrid-Importance-Resampling-for-Language-Models}{github
-repository}.
-
-摘要：資料選擇對於增強語言模型的效能至關重要，特別是在將訓練資料集與目標目標分佈對齊時。本研究探討不同資料選擇方法和特徵類型對模型效能的影響。我們評估選擇資料子集是否會影響下游任務，n-gram 特徵是否會改善與目標分佈的對齊，以及基於嵌入的神經特徵是否提供額外的優點。透過使用基準隨機選擇方法和分佈對齊方法進行比較實驗，我們深入了解資料選擇策略和模型訓練效能之間的交互作用。本研究的所有程式碼都可以在
-\href{https://github.com/jgu13/HIR-Hybrid-Importance-Resampling-for-Language-Models}{github 儲存庫}中找到。
-
-##### **Deep Sylvester Posterior Inference for Adaptive Compressed Sensing in Ultrasound Imaging**
-2501.03825v1 by Simon W. Penninga, Hans van Gorp, Ruud J. G. van Sloun
-
-Ultrasound images are commonly formed by sequential acquisition of
-beam-steered scan-lines. Minimizing the number of required scan-lines can
-significantly enhance frame rate, field of view, energy efficiency, and data
-transfer speeds. Existing approaches typically use static subsampling schemes
-in combination with sparsity-based or, more recently, deep-learning-based
-recovery. In this work, we introduce an adaptive subsampling method that
-maximizes intrinsic information gain in-situ, employing a Sylvester Normalizing
-Flow encoder to infer an approximate Bayesian posterior under partial
-observation in real-time. Using the Bayesian posterior and a deep generative
-model for future observations, we determine the subsampling scheme that
-maximizes the mutual information between the subsampled observations, and the
-next frame of the video. We evaluate our approach using the EchoNet cardiac
-ultrasound video dataset and demonstrate that our active sampling method
-outperforms competitive baselines, including uniform and variable-density
-random sampling, as well as equidistantly spaced scan-lines, improving mean
-absolute reconstruction error by 15%. Moreover, posterior inference and the
-sampling scheme generation are performed in just 0.015 seconds (66Hz), making
-it fast enough for real-time 2D ultrasound imaging applications.
-
-摘要：超音波影像通常是由逐行掃描線的序列取得。最小化所需掃描線的數量可以顯著地增強畫面更新率、視野、能源效率以及資料傳輸速度。現有的方法通常使用靜態子取樣方案，結合基於稀疏性或最近基於深度學習的復原。在這項工作中，我們引入了一種適應性子取樣方法，它最大化內在資訊的獲取，採用 Sylvester 正規化流編碼器，以在部分觀察下推斷近似貝氏後驗。使用貝氏後驗和一個用於未來觀察的深度生成模型，我們決定了子取樣方案，它最大化子取樣觀察和影片的下一幀之間的互信息。我們使用 EchoNet 心臟超音波影片資料集評估我們的做法，並證明我們的主動取樣方法優於競爭基準，包括均勻和變數密度隨機取樣，以及等距的掃描線，將平均絕對重建誤差改善了 15%。此外，後驗推論和取樣方案生成僅在 0.015 秒（66Hz）中執行，使其足夠快，可以用於即時 2D 超音波影像應用程式。
-
-##### **Online Reinforcement Learning-Based Dynamic Adaptive Evaluation Function for Real-Time Strategy Tasks**
-2501.03824v1 by Weilong Yang, Jie Zhang, Xunyun Liu, Yanqing Ye
-
-Effective evaluation of real-time strategy tasks requires adaptive mechanisms
-to cope with dynamic and unpredictable environments. This study proposes a
-method to improve evaluation functions for real-time responsiveness to
-battle-field situation changes, utilizing an online reinforcement
-learning-based dynam-ic weight adjustment mechanism within the real-time
-strategy game. Building on traditional static evaluation functions, the method
-employs gradient descent in online reinforcement learning to update weights
-dynamically, incorporating weight decay techniques to ensure stability.
-Additionally, the AdamW optimizer is integrated to adjust the learning rate and
-decay rate of online reinforcement learning in real time, further reducing the
-dependency on manual parameter tun-ing. Round-robin competition experiments
-demonstrate that this method signifi-cantly enhances the application
-effectiveness of the Lanchester combat model evaluation function, Simple
-evaluation function, and Simple Sqrt evaluation function in planning algorithms
-including IDABCD, IDRTMinimax, and Port-folio AI. The method achieves a notable
-improvement in scores, with the en-hancement becoming more pronounced as the
-map size increases. Furthermore, the increase in evaluation function
-computation time induced by this method is kept below 6% for all evaluation
-functions and planning algorithms. The pro-posed dynamic adaptive evaluation
-function demonstrates a promising approach for real-time strategy task
-evaluation.
-
-摘要：<paragraph>有效評估即時策略任務需要適應機制來應對動態且不可預測的環境。本研究提出了一種方法，用於改善即時響應戰場狀況變化的評估函數，利用即時策略遊戲中的基於線上強化學習的動態權重調整機制。在傳統靜態評估函數的基礎上，該方法採用線上強化學習中的梯度下降法動態更新權重，並結合權重衰減技術來確保穩定性。此外，AdamW 優化器被整合用於調整線上強化學習的學習率和衰減率，進一步降低了對手動參數調整的依賴性。輪詢競爭實驗表明，這種方法顯著提高了蘭徹斯特戰鬥模型評估函數、簡單評估函數和簡單平方根評估函數在包括 IDABCD、IDRTMinimax 和組合 AI 在內的規劃演算法中的應用效果。該方法在分數上取得了顯著的改進，隨著地圖大小的增加，這種改進變得更加明顯。此外，該方法引起的評估函數計算時間增加對於所有評估函數和規劃演算法都保持在 6% 以下。所提出的動態自適應評估函數展示了即時策略任務評估的有前景的方法。</paragraph>
-
-##### **Detecting the Undetectable: Assessing the Efficacy of Current Spoof Detection Methods Against Seamless Speech Edits**
-2501.03805v1 by Sung-Feng Huang, Heng-Cheng Kuo, Zhehuai Chen, Xuesong Yang, Chao-Han Huck Yang, Yu Tsao, Yu-Chiang Frank Wang, Hung-yi Lee, Szu-Wei Fu
-
-Neural speech editing advancements have raised concerns about their misuse in
-spoofing attacks. Traditional partially edited speech corpora primarily focus
-on cut-and-paste edits, which, while maintaining speaker consistency, often
-introduce detectable discontinuities. Recent methods, like
-A\textsuperscript{3}T and Voicebox, improve transitions by leveraging
-contextual information. To foster spoofing detection research, we introduce the
-Speech INfilling Edit (SINE) dataset, created with Voicebox. We detailed the
-process of re-implementing Voicebox training and dataset creation. Subjective
-evaluations confirm that speech edited using this novel technique is more
-challenging to detect than conventional cut-and-paste methods. Despite human
-difficulty, experimental results demonstrate that self-supervised-based
-detectors can achieve remarkable performance in detection, localization, and
-generalization across different edit methods. The dataset and related models
-will be made publicly available.
-
-摘要：神經語音編輯的進展引發了人們對其在欺騙攻擊中被濫用的擔憂。傳統的部分編輯語音語料庫主要集中在剪貼編輯上，儘管保持了說話者的一致性，但通常會引入可檢測的不連續性。最近的方法，如 A\textsuperscript{3}T 和 Voicebox，通過利用上下文信息改進了過渡。為了促進欺騙檢測研究，我們引入了使用 Voicebox 創建的語音填充編輯 (SINE) 數據集。我們詳細介紹了重新實現 Voicebox 訓練和數據集創建的過程。主觀評估證實，使用這種新技術編輯的語音比傳統的剪貼方法更難檢測。儘管人類有困難，但實驗結果表明，基於自監督的檢測器可以在不同編輯方法的檢測、定位和泛化中實現顯著的性能。該數據集和相關模型將公開提供。
-
-##### **Self-Adaptive ERP: Embedding NLP into Petri-Net creation and Model Matching**
-2501.03795v1 by Ahmed Maged, Gamal Kassem
-
-Enterprise Resource Planning (ERP) consultants play a vital role in
-customizing systems to meet specific business needs by processing large amounts
-of data and adapting functionalities. However, the process is
-resource-intensive, time-consuming, and requires continuous adjustments as
-business demands evolve. This research introduces a Self-Adaptive ERP Framework
-that automates customization using enterprise process models and system usage
-analysis. It leverages Artificial Intelligence (AI) & Natural Language
-Processing (NLP) for Petri nets to transform business processes into adaptable
-models, addressing both structural and functional matching. The framework,
-built using Design Science Research (DSR) and a Systematic Literature Review
-(SLR), reduces reliance on manual adjustments, improving ERP customization
-efficiency and accuracy while minimizing the need for consultants.
-
-摘要：企業資源規劃 (ERP) 顧問扮演著重要的角色，透過處理大量資料並調整功能，客製化系統以滿足特定的業務需求。然而，此程序需要大量資源、耗時，且隨著業務需求的演變，需要持續調整。本研究提出了一個自適應 ERP 架構，它使用企業流程模型和系統使用分析自動化客製化。它利用人工智慧 (AI) 和自然語言處理 (NLP) 讓 Petri 網路將業務流程轉換為可適應的模型，解決結構和功能匹配的問題。此架構使用設計科學研究 (DSR) 和系統化文獻回顧 (SLR) 建立，降低對手動調整的依賴，提升 ERP 客製化的效率和準確度，同時將顧問的需求降到最低。
-
-##### **Explainable Reinforcement Learning for Formula One Race Strategy**
-2501.04068v1 by Devin Thomas, Junqi Jiang, Avinash Kori, Aaron Russo, Steffen Winkler, Stuart Sale, Joseph McMillan, Francesco Belardinelli, Antonio Rago
-
-In Formula One, teams compete to develop their cars and achieve the highest
-possible finishing position in each race. During a race, however, teams are
-unable to alter the car, so they must improve their cars' finishing positions
-via race strategy, i.e. optimising their selection of which tyre compounds to
-put on the car and when to do so. In this work, we introduce a reinforcement
-learning model, RSRL (Race Strategy Reinforcement Learning), to control race
-strategies in simulations, offering a faster alternative to the industry
-standard of hard-coded and Monte Carlo-based race strategies. Controlling cars
-with a pace equating to an expected finishing position of P5.5 (where P1
-represents first place and P20 is last place), RSRL achieves an average
-finishing position of P5.33 on our test race, the 2023 Bahrain Grand Prix,
-outperforming the best baseline of P5.63. We then demonstrate, in a
-generalisability study, how performance for one track or multiple tracks can be
-prioritised via training. Further, we supplement model predictions with feature
-importance, decision tree-based surrogate models, and decision tree
-counterfactuals towards improving user trust in the model. Finally, we provide
-illustrations which exemplify our approach in real-world situations, drawing
-parallels between simulations and reality.
-
-摘要：在一级方程式赛车中，车队竞相开发他们的赛车，并在每场比赛中取得尽可能高的完赛名次。然而，在比赛期间，车队无法改变赛车，因此他们必须通过比赛策略来提高赛车的完赛名次，即优化选择何时为赛车更换哪种轮胎配方。在这项工作中，我们引入了一个强化学习模型，RSRL（比赛策略强化学习），来控制模拟中的比赛策略，为业界标准的硬编码和基于蒙特卡罗的比赛策略提供了一个更快的替代方案。用与预期完赛名次 P5.5 相当的速度控制赛车（其中 P1 代表第一名，P20 为最后一名），RSRL 在我们的测试比赛中获得了 P5.33 的平均完赛名次，2023 年巴林大奖赛，优于 P5.63 的最佳基准。然后我们在一个通用性研究中展示了如何通过训练优先考虑一条赛道或多条赛道的性能。此外，我们用特征重要性、基于决策树的替代模型和决策树反事实来补充模型预测，以提高用户对模型的信任。最后，我们提供了说明我们方法在现实世界情况中的示例，在模拟和现实之间画出相似之处。
-
-##### **How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**
-2501.03783v1 by Zhangqian Bi, Yao Wan, Zhaoyang Chu, Yufei Hu, Junyi Zhang, Hongyu Zhang, Guandong Xu, Hai Jin
-
-Pre-training a language model and then fine-tuning it has shown to be an
-efficient and effective technique for a wide range of code intelligence tasks,
-such as code generation, code summarization, and vulnerability detection.
-However, pretraining language models on a large-scale code corpus is
-computationally expensive. Fortunately, many off-the-shelf Pre-trained Code
-Models (PCMs), such as CodeBERT, CodeT5, CodeGen, and Code Llama, have been
-released publicly. These models acquire general code understanding and
-generation capability during pretraining, which enhances their performance on
-downstream code intelligence tasks. With an increasing number of these public
-pre-trained models, selecting the most suitable one to reuse for a specific
-task is essential. In this paper, we systematically investigate the reusability
-of PCMs. We first explore three intuitive model selection methods that select
-by size, training data, or brute-force fine-tuning. Experimental results show
-that these straightforward techniques either perform poorly or suffer high
-costs. Motivated by these findings, we explore learning-based model selection
-strategies that utilize pre-trained models without altering their parameters.
-Specifically, we train proxy models to gauge the performance of pre-trained
-models, and measure the distribution deviation between a model's latent
-features and the task's labels, using their closeness as an indicator of model
-transferability. We conduct experiments on 100 widely-used opensource PCMs for
-code intelligence tasks, with sizes ranging from 42.5 million to 3 billion
-parameters. The results demonstrate that learning-based selection methods
-reduce selection time to 100 seconds, compared to 2,700 hours with brute-force
-fine-tuning, with less than 6% performance degradation across related tasks.
-
-摘要：<paragraph>預先訓練語言模型，然後微調它，已被證明是一種高效且有效的技術，可應用于各種程式碼智能任務，例如程式碼生成、程式碼摘要和漏洞偵測。
-然而，在大型程式碼語料庫上預訓練語言模型在計算上非常昂貴。幸運的是，許多現成的預訓練程式碼模型 (PCM)，例如 CodeBERT、CodeT5、CodeGen 和 Code Llama，已經公開發布。這些模型在預訓練期間獲得了通用的程式碼理解和生成能力，這增強了它們在下游程式碼智能任務上的效能。隨著這些公開預訓練模型數量的不斷增加，選擇最適合特定任務重複使用的模型至關重要。在本文中，我們系統地研究了 PCM 的可重複使用性。我們首先探討了三種直觀的模型選擇方法，它們通過大小、訓練資料或蠻力微調進行選擇。實驗結果表明，這些直接技術要么執行得很差，要么成本很高。受這些發現的啟發，我們探索了基於學習的模型選擇策略，它們利用預訓練模型而不改變它們的參數。具體來說，我們訓練代理模型來評估預訓練模型的效能，並使用它們的接近程度作為模型可傳輸性的指標，來衡量模型潛在特徵和任務標籤之間的分布偏差。我們對 100 個廣泛使用的開源 PCM 進行了程式碼智能任務的實驗，其規模從 4250 萬到 30 億個參數不等。結果表明，與蠻力微調的 2700 小時相比，基於學習的選擇方法將選擇時間減少到 100 秒，而相關任務的效能下降不到 6%。</paragraph>
-
-##### **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**
-2501.03764v1 by Siyuan Zhao, Chenyu Liu, Yi Ding, Xinliang Zhou
-
-In practical sleep stage classification, a key challenge is the variability
-of EEG data across different subjects and environments. Differences in
-physiology, age, health status, and recording conditions can lead to domain
-shifts between data. These domain shifts often result in decreased model
-accuracy and reliability, particularly when the model is applied to new data
-with characteristics different from those it was originally trained on, which
-is a typical manifestation of negative transfer. To address this, we propose
-SelectiveFinetuning in this paper. Our method utilizes a pretrained Multi
-Resolution Convolutional Neural Network (MRCNN) to extract EEG features,
-capturing the distinctive characteristics of different sleep stages. To
-mitigate the effect of domain shifts, we introduce a domain aligning mechanism
-that employs Earth Mover Distance (EMD) to evaluate and select source domain
-data closely matching the target domain. By finetuning the model with selective
-source data, our SelectiveFinetuning enhances the model's performance on target
-domain that exhibits domain shifts compared to the data used for training.
-Experimental results show that our method outperforms existing baselines,
-offering greater robustness and adaptability in practical scenarios where data
-distributions are often unpredictable.
-
-摘要：在實際的睡眠階段分類中，一個關鍵的挑戰是腦電圖數據在不同受試者和環境中的變異性。生理、年齡、健康狀況和記錄條件的差異可能導致數據之間的領域偏移。這些領域偏移通常會導致模型準確度和可靠性下降，特別是當模型應用於與其最初訓練時不同的特徵的新數據時，這是負遷移的典型表現。為了解決這個問題，我們在本文中提出選擇性微調。我們的模型利用預訓練的多解析度卷積神經網路 (MRCNN) 來提取腦電圖特徵，捕捉不同睡眠階段的獨特特徵。為了減輕領域偏移的影響，我們引入了一個領域對齊機制，它採用地球移動距離 (EMD) 來評估和選擇與目標領域緊密匹配的源領域數據。通過使用選擇性源數據微調模型，我們的選擇性微調增強了模型在與用於訓練的數據相比表現出領域偏移的目標領域上的性能。實驗結果表明，我們的模型優於現有的基準，在數據分佈通常不可預測的實際場景中提供了更大的穩健性和適應性。
-
-##### **Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series**
-2501.03747v1 by Yuxiao Hu, Qian Li, Dongxiao Zhang, Jinyue Yan, Yuntian Chen
-
-Recently, leveraging pre-trained Large Language Models (LLMs) for time series
-(TS) tasks has gained increasing attention, which involves activating and
-enhancing LLMs' capabilities. Many methods aim to activate LLMs' capabilities
-based on token-level alignment but overlook LLMs' inherent strength on natural
-language processing -- their deep understanding of linguistic logic and
-structure rather than superficial embedding processing. We propose
-Context-Alignment, a new paradigm that aligns TS with a linguistic component in
-the language environments familiar to LLMs to enable LLMs to contextualize and
-comprehend TS data, thereby activating their capabilities. Specifically, such
-context-level alignment comprises structural alignment and logical alignment,
-which is achieved by a Dual-Scale Context-Alignment GNNs (DSCA-GNNs) applied to
-TS-language multimodal inputs. Structural alignment utilizes dual-scale nodes
-to describe hierarchical structure in TS-language, enabling LLMs treat long TS
-data as a whole linguistic component while preserving intrinsic token features.
-Logical alignment uses directed edges to guide logical relationships, ensuring
-coherence in the contextual semantics. Demonstration examples prompt are
-employed to construct Demonstration Examples based Context-Alignment (DECA)
-following DSCA-GNNs framework. DECA can be flexibly and repeatedly integrated
-into various layers of pre-trained LLMs to improve awareness of logic and
-structure, thereby enhancing performance. Extensive experiments show the
-effectiveness of DECA and the importance of Context-Alignment across tasks,
-particularly in few-shot and zero-shot forecasting, confirming that
-Context-Alignment provide powerful prior knowledge on context.
-
-摘要：<paragraph>最近，利用预先训练的大语言模型 (LLM) 来执行时间序列 (TS) 任务备受关注，这涉及激活和增强 LLM 的功能。许多方法旨在基于标记级别的对齐来激活 LLM 的功能，但忽略了 LLM 在自然语言处理方面的固有优势——它们对语言逻辑和结构的深刻理解，而不是表面的嵌入式处理。我们提出了语境对齐，这是一种新范例，它将时间序列与 LLM 熟悉的语言环境中的语言组件对齐，使 LLM 能够对时间序列数据进行语境化和理解，从而激活它们的功能。具体来说，这种语境级别的对齐包括结构对齐和逻辑对齐，这是通过应用于时间序列语言多模态输入的双尺度语境对齐 GNN（DSCA-GNN）实现的。结构对齐利用双尺度节点来描述时间序列语言中的层次结构，使 LLM 能够将长的时间序列数据作为一个整体的语言组件来处理，同时保留固有的标记特征。逻辑对齐使用有向边来指导逻辑关系，确保语境语义中的一致性。演示示例提示被用来构建基于语境对齐的演示示例 (DECA)，遵循 DSCA-GNN 框架。DECA 可以灵活且重复地集成到预训练 LLM 的各个层中，以提高对逻辑和结构的认识，从而增强性能。大量的实验表明了 DECA 的有效性以及语境对齐在各个任务中的重要性，特别是在少样本和零样本预测中，证实了语境对齐为语境提供了强大的先验知识。</paragraph>
-
-##### **Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**
-2501.04067v1 by Jamie Todd, Junqi Jiang, Aaron Russo, Steffen Winkler, Stuart Sale, Joseph McMillan, Antonio Rago
-
-Formula One (F1) race strategy takes place in a high-pressure and fast-paced
-environment where split-second decisions can drastically affect race results.
-Two of the core decisions of race strategy are when to make pit stops (i.e.
-replace the cars' tyres) and which tyre compounds (hard, medium or soft, in
-normal conditions) to select. The optimal pit stop decisions can be determined
-by estimating the tyre degradation of these compounds, which in turn can be
-computed from the energy applied to each tyre, i.e. the tyre energy. In this
-work, we trained deep learning models, using the Mercedes-AMG PETRONAS F1
-team's historic race data consisting of telemetry, to forecast tyre energies
-during races. Additionally, we fitted XGBoost, a decision tree-based machine
-learning algorithm, to the same dataset and compared the results, with both
-giving impressive performance. Furthermore, we incorporated two different
-explainable AI methods, namely feature importance and counterfactual
-explanations, to gain insights into the reasoning behind the forecasts. Our
-contributions thus result in an explainable, automated method which could
-assist F1 teams in optimising their race strategy.
-
-摘要：一級方程式 (F1) 賽車策略在高壓和快節奏的環境中進行，其中瞬間的決定可能會劇烈影響比賽結果。賽車策略的兩個核心決定是何時進站 (即更換賽車輪胎) 以及選擇哪種輪胎配方 (在正常情況下為硬胎、中性胎或軟胎)。最佳進站決策可透過估計這些配方的輪胎磨損來決定，而輪胎磨損反過來又可從施加在每個輪胎上的能量 (即輪胎能量) 計算出來。在這項工作中，我們使用 Mercedes-AMG PETRONAS F1 車隊的歷史比賽數據 (包含遙測) 訓練深度學習模型，以預測比賽期間的輪胎能量。此外，我們將 XGBoost (一種基於決策樹的機器學習演算法) 安裝到相同的資料集，並比較結果，兩者都表現出色。此外，我們納入了兩種不同的可解釋 AI 方法，即特徵重要性和反事實解釋，以深入了解預測背後的推理。因此，我們的貢獻造就了一種可解釋的自動化方法，可協助 F1 車隊優化其比賽策略。
-
-##### **Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**
-2501.03722v1 by Xiaotong Guo, Deqian Yang, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Lijun Zhang, Yanda Meng
-
-Accurate segmentation of pulmonary structures iscrucial in clinical
-diagnosis, disease study, and treatment planning. Significant progress has been
-made in deep learning-based segmentation techniques, but most require much
-labeled data for training. Consequently, developing precise segmentation
-methods that demand fewer labeled datasets is paramount in medical image
-analysis. The emergence of pre-trained vision-language foundation models, such
-as CLIP, recently opened the door for universal computer vision tasks.
-Exploiting the generalization ability of these pre-trained foundation models on
-downstream tasks, such as segmentation, leads to unexpected performance with a
-relatively small amount of labeled data. However, exploring these models for
-pulmonary artery-vein segmentation is still limited. This paper proposes a
-novel framework called Language-guided self-adaptive Cross-Attention Fusion
-Framework. Our method adopts pre-trained CLIP as a strong feature extractor for
-generating the segmentation of 3D CT scans, while adaptively aggregating the
-cross-modality of text and image representations. We propose a s pecially
-designed adapter module to fine-tune pre-trained CLIP with a self-adaptive
-learning strategy to effectively fuse the two modalities of embeddings. We
-extensively validate our method on a local dataset, which is the largest
-pulmonary artery-vein CT dataset to date and consists of 718 labeled data in
-total. The experiments show that our method outperformed other state-of-the-art
-methods by a large margin. Our data and code will be made publicly available
-upon acceptance.
-
-摘要：精確分割肺部結構在臨床診斷、疾病研究和治療計畫中至關重要。基於深度學習的分割技術已取得重大進展，但大多數技術在訓練時需要大量的標記資料。因此，開發精確的分割方法，以減少標記資料集的需求，在醫學影像分析中至關重要。預訓練的視覺語言基礎模型（例如 CLIP）的出現，最近為通用電腦視覺任務開啟了大門。利用這些預訓練基礎模型在分割等下游任務中的泛化能力，即使標記資料量相對較少，也能產生意想不到的效能。然而，探索這些模型在肺動脈靜脈分割中的應用仍然有限。本文提出了一個名為語言引導自適應交叉注意力融合框架的新框架。我們的模型採用預訓練的 CLIP 作為強大的特徵萃取器，用於產生 3D 電腦斷層掃描的分割，同時自適應地聚合文本和影像表徵的跨模態。我們提出了一個特別設計的適配器模組，以自適應學習策略微調預訓練的 CLIP，以有效融合兩種嵌入模態。我們在一個本地資料集上廣泛驗證了我們的模型，這是迄今為止最大的肺動脈靜脈電腦斷層掃描資料集，總共包含 718 個標記資料。實驗表明，我們的模型以大幅優於其他最先進模型。我們的資料和程式碼將在獲得接受後公開。
-
-##### **Unsupervised Speech Segmentation: A General Approach Using Speech Language Models**
-2501.03711v1 by Avishai Elmakies, Omri Abend, Yossi Adi
-
-In this paper, we introduce an unsupervised approach for Speech Segmentation,
-which builds on previously researched approaches, e.g., Speaker Diarization,
-while being applicable to an inclusive set of acoustic-semantic distinctions,
-paving a path towards a general Unsupervised Speech Segmentation approach.
-Unlike traditional speech and audio segmentation, which mainly focuses on
-spectral changes in the input signal, e.g., phone segmentation, our approach
-tries to segment the spoken utterance into chunks with differing
-acoustic-semantic styles, focusing on acoustic-semantic information that does
-not translate well into text, e.g., emotion or speaker. While most Speech
-Segmentation tasks only handle one style change, e.g., emotion diarization, our
-approach tries to handle multiple acoustic-semantic style changes. Leveraging
-recent advances in Speech Language Models (SLMs), we propose a simple
-unsupervised method to segment a given speech utterance. We empirically
-demonstrate the effectiveness of the proposed approach by considering several
-setups. Results suggest that the proposed method is superior to the evaluated
-baselines on boundary detection, segment purity, and over-segmentation. Code is
-available at
-https://github.com/avishaiElmakies/unsupervised_speech_segmentation_using_slm.
-
-摘要：在本文中，我們介紹了一種用於語音分割的非監督式方法，
-這建立在先前研究的方法之上，例如說話者區分，
-同時適用於一組包容性的聲學語義區別，
-為通用的非監督式語音分割方法鋪平道路。
-與傳統的語音和音訊分割不同，傳統的語音和音訊分割主要關注
-輸入訊號中的頻譜變化，例如音素分割，我們的做法
-試圖將口語語句分割成具有不同
-聲學語義風格的區塊，專注於無法順利轉換為文字的聲學語義資訊，例如情緒或說話者。雖然大多數語音
-分割任務只處理一種風格變化，例如情緒區分，我們的
-方法試圖處理多種聲學語義風格變化。利用
-語音語言模型 (SLM) 的最新進展，我們提出一個簡單的
-非監督式方法來分割給定的語音語句。我們透過考慮數個
-設定，以經驗方式證明所提出方法的有效性。結果表明，所提出的方法在邊界偵測、區段純度和過度分割方面優於評估的基準。程式碼可在
-https://github.com/avishaiElmakies/unsupervised_speech_segmentation_using_slm 取得。
-
-##### **AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**
-2501.03700v1 by Ruochen Zhang, Hyeung-Sik Choi, Dongwook Jung, Phan Huy Nam Anh, Sang-Ki Jeong, Zihao Zhu
-
-Monocular 3D object detection is a challenging task in autonomous systems due
-to the lack of explicit depth information in single-view images. Existing
-methods often depend on external depth estimators or expensive sensors, which
-increase computational complexity and hinder real-time performance. To overcome
-these limitations, we propose AuxDepthNet, an efficient framework for real-time
-monocular 3D object detection that eliminates the reliance on external depth
-maps or pre-trained depth models. AuxDepthNet introduces two key components:
-the Auxiliary Depth Feature (ADF) module, which implicitly learns
-depth-sensitive features to improve spatial reasoning and computational
-efficiency, and the Depth Position Mapping (DPM) module, which embeds depth
-positional information directly into the detection process to enable accurate
-object localization and 3D bounding box regression. Leveraging the DepthFusion
-Transformer architecture, AuxDepthNet globally integrates visual and
-depth-sensitive features through depth-guided interactions, ensuring robust and
-efficient detection. Extensive experiments on the KITTI dataset show that
-AuxDepthNet achieves state-of-the-art performance, with $\text{AP}_{3D}$ scores
-of 24.72\% (Easy), 18.63\% (Moderate), and 15.31\% (Hard), and
-$\text{AP}_{\text{BEV}}$ scores of 34.11\% (Easy), 25.18\% (Moderate), and
-21.90\% (Hard) at an IoU threshold of 0.7.
-
-摘要：單目 3D 物件偵測由於單視圖影像中缺乏明確的深度資訊，因此在自駕系統中是一項具有挑戰性的任務。現有方法通常依賴外部深度估測器或昂貴的感測器，這會增加運算複雜度並阻礙即時效能。為了克服這些限制，我們提出 AuxDepthNet，一個用於即時單目 3D 物件偵測的高效架構，它消除了對外部深度圖或預先訓練深度模型的依賴。AuxDepthNet 導入兩個關鍵元件：輔助深度特徵 (ADF) 模組，它隱式學習深度敏感特徵以改善空間推理和運算效率，以及深度位置對應 (DPM) 模組，它將深度位置資訊直接嵌入偵測流程中，以實現準確的物件定位和 3D 邊界框回歸。透過利用 DepthFusion Transformer 架構，AuxDepthNet 透過深度引導互動，將視覺和深度敏感特徵在全球整合，確保穩健且高效的偵測。在 KITTI 資料集上的大量實驗顯示，AuxDepthNet 達到了最先進的效能，在 IoU 閾值為 0.7 時，$\text{AP}_{3D}$ 分數分別為 24.72%（容易）、18.63%（中等）和 15.31%（困難），而 $\text{AP}_{\text{BEV}}$ 分數分別為 34.11%（容易）、25.18%（中等）和 21.90%（困難）。
-
 
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
@@ -5278,2596 +2735,6 @@ semantically relevant, while providing compact explanations.
 摘要：<paragraph>重要性估計器是一種可解釋性方法，用於量化深度神經網路 (DNN) 的特徵重要性。在視覺Transformer (ViT) 中，自我注意機制自然會導致注意力圖，有時會將其解釋為重要性分數，表示 ViT 模型關注哪些輸入特徵。然而，注意力圖並未考慮來自下游任務的信號。為了產生對下游任務敏感的解釋，我們開發了類別區分注意力圖 (CDAM)，這是一種基於梯度的擴充，用於估計相對於已知類別或潛在概念的特徵重要性。CDAM 根據對應的符號與分類器頭的預測相關程度，調整注意力分數。除了針對監督分類器外，CDAM 還可以通過測量 ViT 的潛在空間中的相似性來解釋選定樣本共有的任意概念。此外，我們引入了平滑 CDAM 和積分 CDAM，它們對一系列具有略微改變的符號的 CDAM 進行平均。我們的量化基準包括正確性、緊湊性和類別敏感性，與其他 7 個重要性估計器相比。香草、平滑和積分 CDAM 在所有三個基準中表現出色。特別是，我們的結果表明現有的重要性估計器可能無法提供足夠的類別敏感性。我們通過基於肺部電腦斷層掃描 (CT) 掃描訓練和解釋惡性腫瘤和生物標記預測模型，證明了 CDAM 在醫學影像中的效用。總的來說，CDAM 被證明具有高度類別區分性和語義相關性，同時提供簡潔的解釋。</paragraph>
 
 
-### Medical
-|Publish Date|Title|Authors|Homepage|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
-|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
-|**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
-|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
-|**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
-|**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
-|**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722v1](http://arxiv.org/abs/2501.03722v1)|null|
-|**2025-01-07**|**Can Deep Learning Trigger Alerts from Mobile-Captured Images?**|Pritisha Sarkar et.al.|[2501.03499v1](http://arxiv.org/abs/2501.03499v1)|null|
-|**2025-01-07**|**Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**|Xiao Wang et.al.|[2501.03458v1](http://arxiv.org/abs/2501.03458v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
-|**2025-01-06**|**Existential Crisis: A Social Robot's Reason for Being**|Dora Medgyesy et.al.|[2501.03376v1](http://arxiv.org/abs/2501.03376v1)|null|
-|**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922v1](http://arxiv.org/abs/2501.02922v1)|null|
-|**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
-|**2025-01-06**|**IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**|Yiming Zhang et.al.|[2501.02869v1](http://arxiv.org/abs/2501.02869v1)|null|
-|**2025-01-06**|**Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**|Naibo Wang et.al.|[2501.03292v1](http://arxiv.org/abs/2501.03292v1)|null|
-|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v2](http://arxiv.org/abs/2501.02788v2)|null|
-|**2025-01-06**|**Hybrid deep convolution model for lung cancer detection with transfer learning**|Sugandha Saxena et.al.|[2501.02785v1](http://arxiv.org/abs/2501.02785v1)|null|
-|**2025-01-06**|**ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**|Binyu Zhang et.al.|[2501.02778v1](http://arxiv.org/abs/2501.02778v1)|[link](https://github.com/binging512/icfnet)|
-|**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727v1](http://arxiv.org/abs/2501.02727v1)|null|
-|**2025-01-05**|**Representation Learning of Lab Values via Masked AutoEncoder**|David Restrepo et.al.|[2501.02648v1](http://arxiv.org/abs/2501.02648v1)|null|
-|**2025-01-05**|**Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**|Ellis Solaiman et.al.|[2501.02647v1](http://arxiv.org/abs/2501.02647v1)|null|
-|**2025-01-05**|**KM-UNet KAN Mamba UNet for medical image segmentation**|Yibo Zhang et.al.|[2501.02559v1](http://arxiv.org/abs/2501.02559v1)|[link](https://github.com/2760613195/km_unet)|
-|**2025-01-05**|**Hengqin-RA-v1: Advanced Large Language Model for Diagnosis and Treatment of Rheumatoid Arthritis with Dataset based Traditional Chinese Medicine**|Yishen Liu et.al.|[2501.02471v1](http://arxiv.org/abs/2501.02471v1)|null|
-|**2025-01-05**|**Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales**|Zijie Cheng et.al.|[2501.02451v1](http://arxiv.org/abs/2501.02451v1)|null|
-|**2025-01-04**|**Enhancing Workplace Productivity and Well-being Using AI Agent**|Ravirajan K et.al.|[2501.02368v1](http://arxiv.org/abs/2501.02368v1)|null|
-|**2025-01-04**|**Exploring the Capabilities and Limitations of Large Language Models for Radiation Oncology Decision Support**|Florian Putz et.al.|[2501.02346v1](http://arxiv.org/abs/2501.02346v1)|null|
-|**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287v1](http://arxiv.org/abs/2501.02287v1)|null|
-|**2025-01-04**|**The Integration of Blockchain and Artificial Intelligence for Secure Healthcare Systems**|Umar Safdar et.al.|[2501.02169v1](http://arxiv.org/abs/2501.02169v1)|null|
-|**2025-01-03**|**Online Detection of Water Contamination Under Concept Drift**|Jin Li et.al.|[2501.02107v1](http://arxiv.org/abs/2501.02107v1)|null|
-|**2025-01-03**|**METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring**|Ollie Liu et.al.|[2501.02045v1](http://arxiv.org/abs/2501.02045v1)|null|
-|**2025-01-03**|**Advancing Pancreatic Cancer Prediction with a Next Visit Token Prediction Head on top of Med-BERT**|Jianping He et.al.|[2501.02044v1](http://arxiv.org/abs/2501.02044v1)|null|
-|**2025-01-03**|**Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**|Shivom Aggarwal et.al.|[2501.01732v1](http://arxiv.org/abs/2501.01732v1)|null|
-|**2025-01-03**|**EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**|Wang Lituan et.al.|[2501.01658v1](http://arxiv.org/abs/2501.01658v1)|null|
-|**2025-01-03**|**Implications of Artificial Intelligence on Health Data Privacy and Confidentiality**|Ahmad Momani et.al.|[2501.01639v2](http://arxiv.org/abs/2501.01639v2)|null|
-|**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618v1](http://arxiv.org/abs/2501.01618v1)|null|
-|**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594v1](http://arxiv.org/abs/2501.01594v1)|null|
-|**2025-01-02**|**Model Checking in Medical Imaging for Tumor Detection and Segmentation**|Elhoucine Elfatimi et.al.|[2501.02024v2](http://arxiv.org/abs/2501.02024v2)|null|
-|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
-|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
-|**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
-|**2025-01-02**|**Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**|Bohang Sun et.al.|[2501.01311v1](http://arxiv.org/abs/2501.01311v1)|null|
-|**2025-01-02**|**Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**|Masahiro Matsumoto et.al.|[2501.02014v1](http://arxiv.org/abs/2501.02014v1)|null|
-|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|[link](https://github.com/dreamtheater123/disease_name_dataset)|
-|**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030v1](http://arxiv.org/abs/2501.01030v1)|null|
-|**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)|
-|**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
-|**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|null|
-|**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
-|**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
-|**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
-|**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v2](http://arxiv.org/abs/2501.00320v2)|[link](https://github.com/braincog-x/brain-cog)|
-|**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
-|**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
-|**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
-|**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/sepsislab)|
-|**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
-|**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
-|**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
-|**2024-12-30**|**Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**|Atharva Divekar et.al.|[2501.01984v1](http://arxiv.org/abs/2501.01984v1)|[link](https://github.com/ATHdevs/Auto-PCOS)|
-|**2024-12-30**|**Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**|Abhinav Roy et.al.|[2412.20744v1](http://arxiv.org/abs/2412.20744v1)|null|
-|**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
-|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622v1](http://arxiv.org/abs/2412.20622v1)|[link](https://github.com/AikyamLab/hallucinogen)|
-|**2024-12-29**|**Dive into Time-Series Anomaly Detection: A Decade Review**|Paul Boniol et.al.|[2412.20512v1](http://arxiv.org/abs/2412.20512v1)|null|
-|**2024-12-29**|**A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**|Seungyeon Lee et.al.|[2412.20373v1](http://arxiv.org/abs/2412.20373v1)|null|
-|**2024-12-28**|**Transforming CCTV cameras into NO$_2$ sensors at city scale for adaptive policymaking**|Mohamed R. Ibrahim et.al.|[2501.00056v1](http://arxiv.org/abs/2501.00056v1)|null|
-|**2024-12-28**|**On the Compositional Generalization of Multimodal LLMs for Medical Imaging**|Zhenyang Cai et.al.|[2412.20070v1](http://arxiv.org/abs/2412.20070v1)|[link](https://github.com/freedomintelligence/med-mat)|
-|**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
-|**2024-12-28**|**MobileNetV2: A lightweight classification model for home-based sleep apnea screening**|Hui Pan et.al.|[2412.19967v2](http://arxiv.org/abs/2412.19967v2)|[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
-|**2024-12-27**|**ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**|Chao Fan et.al.|[2412.19954v1](http://arxiv.org/abs/2412.19954v1)|null|
-|**2024-12-27**|**An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**|Arezoo Borji et.al.|[2412.19696v1](http://arxiv.org/abs/2412.19696v1)|null|
-|**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
-|**2024-12-27**|**Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases**|Ioannis Bilionis et.al.|[2412.19495v1](http://arxiv.org/abs/2412.19495v1)|null|
-|**2024-12-26**|**Semi-Supervised Learning from Small Annotated Data and Large Unlabeled Data for Fine-grained PICO Entity Recognition**|Fangyi Chen et.al.|[2412.19346v1](http://arxiv.org/abs/2412.19346v1)|null|
-|**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311v1](http://arxiv.org/abs/2412.19311v1)|[link](https://github.com/risal-shefin/xsrl)|
-|**2024-12-26**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260v2](http://arxiv.org/abs/2412.19260v2)|[link](https://github.com/abachaa/medec)|
-|**2024-12-26**|**Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**|Abeer Badawi et.al.|[2412.19254v1](http://arxiv.org/abs/2412.19254v1)|null|
-|**2024-12-26**|**Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**|Valay Bundele et.al.|[2412.19124v1](http://arxiv.org/abs/2412.19124v1)|null|
-|**2024-12-26**|**Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**|Yixin Chen et.al.|[2412.19026v1](http://arxiv.org/abs/2412.19026v1)|[link](https://github.com/yixinchen-ai/mpum)|
-|**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947v2](http://arxiv.org/abs/2412.18947v2)|null|
-|**2024-12-25**|**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**|Junying Chen et.al.|[2412.18925v1](http://arxiv.org/abs/2412.18925v1)|[link](https://github.com/freedomintelligence/huatuogpt-o1)|
-|**2024-12-25**|**Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data**|Serkan Salturk et.al.|[2412.18894v1](http://arxiv.org/abs/2412.18894v1)|null|
-|**2024-12-25**|**Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models**|Meltem Aksoy et.al.|[2412.18863v1](http://arxiv.org/abs/2412.18863v1)|null|
-|**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778v1](http://arxiv.org/abs/2412.18778v1)|null|
-|**2024-12-25**|**Successes and Limitations of Object-centric Models at Compositional Generalisation**|Milton L. Montero et.al.|[2412.18743v1](http://arxiv.org/abs/2412.18743v1)|null|
-|**2024-12-24**|**SurvAttack: Black-Box Attack On Survival Models through Ontology-Informed EHR Perturbation**|Mohsen Nayebi Kerdabadi et.al.|[2412.18706v1](http://arxiv.org/abs/2412.18706v1)|null|
-|**2024-12-24**|**A Review of Latent Representation Models in Neuroimaging**|C. Vázquez-García et.al.|[2412.19844v1](http://arxiv.org/abs/2412.19844v1)|null|
-|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[link](https://github.com/tencentarc/ditctrl)|
-|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545v1](http://arxiv.org/abs/2412.18545v1)|null|
-|**2024-12-24**|**Multi-Agent Norm Perception and Induction in Distributed Healthcare**|Chao Li et.al.|[2412.18454v1](http://arxiv.org/abs/2412.18454v1)|null|
-|**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419v1](http://arxiv.org/abs/2412.18419v1)|null|
-|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v2](http://arxiv.org/abs/2412.18370v2)|[link](https://github.com/bdi-lab/monti)|
-|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096v1](http://arxiv.org/abs/2412.18096v1)|null|
-|**2024-12-23**|**Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**|Yidong Gan et.al.|[2412.18043v1](http://arxiv.org/abs/2412.18043v1)|null|
-|**2024-12-23**|**A Grounded Observer Framework for Establishing Guardrails for Foundation Models in Socially Sensitive Domains**|Rebecca Ramnauth et.al.|[2412.18639v1](http://arxiv.org/abs/2412.18639v1)|null|
-|**2024-12-23**|**Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks**|Victor Júnio Alcântara Cardoso et.al.|[2412.17975v1](http://arxiv.org/abs/2412.17975v1)|[link](https://github.com/larissafrodrigues/sickle-cell-classification-ENIAC2023)|
-|**2024-12-23**|**A Novel Approach to Balance Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes and its Implementation in BEACON**|Vansh Nagpal et.al.|[2412.17910v1](http://arxiv.org/abs/2412.17910v1)|null|
-|**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651v1](http://arxiv.org/abs/2412.17651v1)|null|
-|**2024-12-23**|**Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey**|Zixuan Shanggua et.al.|[2412.17616v1](http://arxiv.org/abs/2412.17616v1)|null|
-|**2024-12-23**|**V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**|Long Bai et.al.|[2412.17595v1](http://arxiv.org/abs/2412.17595v1)|null|
-
-#### Abstracts
-##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
-2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
-
-Artificial Intelligence is revolutionizing medical practice, enhancing
-diagnostic accuracy and healthcare delivery. However, its adaptation in medical
-settings still faces significant challenges, related to data availability and
-privacy constraints. Synthetic data has emerged as a promising solution to
-mitigate these issues, addressing data scarcity while preserving privacy.
-Recently, Latent Diffusion Models have emerged as a powerful tool for
-generating high-quality synthetic data. Meanwhile, the integration of different
-modalities has gained interest, emphasizing the need of models capable of
-handle multimodal medical data. Existing approaches struggle to integrate
-complementary information and lack the ability to generate modalities
-simultaneously. To address this challenge, we present MedCoDi-M, a
-6.77-billion-parameter model, designed for multimodal medical data generation,
-that, following Foundation Model paradigm, exploits contrastive learning and
-large quantity of data to build a shared latent space which capture the
-relationships between different data modalities. Further, we introduce the
-Multi-Prompt training technique, which significantly boosts MedCoDi-M's
-generation under different settings. We extensively validate MedCoDi-M: first
-we benchmark it against five competitors on the MIMIC-CXR dataset, a
-state-of-the-art dataset for Chest X-ray and radiological report generation.
-Secondly, we perform a Visual Turing Test with expert radiologists to assess
-the realism and clinical relevance of the generated data, ensuring alignment
-with real-world scenarios. Finally, we assess the utility of MedCoDi-M in
-addressing key challenges in the medical field, such as anonymization, data
-scarcity and imbalance learning. The results are promising, demonstrating the
-applicability of MedCoDi-M in medical contexts. Project page is at
-https://cosbidev.github.io/MedCoDi-M/.
-
-摘要：人工智能正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，它在醫療場景中的應用仍面臨著重大挑戰，這與資料可用性和隱私限制有關。合成資料已成為緩解這些問題的潛在解決方案，它在保護隱私的同時解決了資料短缺的問題。最近，潛在擴散模型已成為產生高品質合成資料的強大工具。同時，整合不同模態已引起興趣，強調了需要能夠處理多模態醫療資料的模型。現有方法難以整合補充資訊，並且缺乏同時產生模態的能力。為了應對這一挑戰，我們提出了 MedCoDi-M，這是一個 67.7 億參數的模型，專為多模態醫療資料產生而設計，它遵循基礎模型範例，利用對比學習和大量的資料來建立一個共享潛在空間，以捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，它顯著提升了 MedCoDi-M 在不同設定下的產生。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上對它與五個競爭者進行了基準測試，這是胸部 X 光和放射報告產生領域的最新資料集。其次，我們與放射科專家進行了視覺圖靈測試，以評估產生資料的真實性和臨床相關性，確保與真實場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料短缺和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療環境中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
-
-##### **A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**
-2501.04577v1 by Zephan M. Enciso, Boyang Cheng, Likai Pei, Jianbo Liu, Steven Davis, Ningyuan Cao, Michael Niemier
-
-Uncertainty estimation is an indispensable capability for AI-enabled,
-safety-critical applications, e.g. autonomous vehicles or medical diagnosis.
-Bayesian neural networks (BNNs) use Bayesian statistics to provide both
-classification predictions and uncertainty estimation, but they suffer from
-high computational overhead associated with random number generation and
-repeated sample iterations. Furthermore, BNNs are not immediately amenable to
-acceleration through compute-in-memory architectures due to the frequent memory
-writes necessary after each RNG operation. To address these challenges, we
-present an ASIC that integrates 360 fJ/Sample Gaussian RNG directly into the
-SRAM memory words. This integration reduces RNG overhead and enables
-fully-parallel compute-in-memory operations for BNNs. The prototype chip
-achieves 5.12 GSa/s RNG throughput and 102 GOp/s neural network throughput
-while occupying 0.45 mm2, bringing AI uncertainty estimation to edge
-computation.
-
-摘要：不確定性估計對於 AI 驅動、安全關鍵的應用程式來說是不可或缺的能力，例如自動駕駛車輛或醫療診斷。貝氏類神經網路 (BNN) 使用貝氏統計來提供分類預測和不確定性估計，但它們會因隨機數生成和重複樣本迭代而產生高運算負擔。此外，由於每次 RNG 操作後都需要頻繁的記憶體寫入，因此 BNN 無法立即適用於透過記憶體運算架構進行加速。為了應對這些挑戰，我們提出了一款 ASIC，將 360 fJ/Sample Gaussian RNG 直接整合到 SRAM 記憶體字元中。此整合可減少 RNG 負擔，並為 BNN 啟用完全並行的記憶體運算操作。原型晶片可達成 5.12 GSa/s RNG 處理量和 102 GOp/s 神經網路處理量，同時佔用 0.45 mm2，將 AI 不確定性估計帶到邊緣運算。
-
-##### **Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**
-2501.04217v1 by Ren Tasai, Guang Li, Ren Togo, Minghui Tang, Takaaki Yoshimura, Hiroyuki Sugimori, Kenji Hirata, Takahiro Ogawa, Kohsuke Kudo, Miki Haseyama
-
-We propose a novel continual self-supervised learning method (CSSL)
-considering medical domain knowledge in chest CT images. Our approach addresses
-the challenge of sequential learning by effectively capturing the relationship
-between previously learned knowledge and new information at different stages.
-By incorporating an enhanced DER into CSSL and maintaining both diversity and
-representativeness within the rehearsal buffer of DER, the risk of data
-interference during pretraining is reduced, enabling the model to learn more
-richer and robust feature representations. In addition, we incorporate a mixup
-strategy and feature distillation to further enhance the model's ability to
-learn meaningful representations. We validate our method using chest CT images
-obtained under two different imaging conditions, demonstrating superior
-performance compared to state-of-the-art methods.
-
-摘要：我們提出了一種新的持續自我監督學習方法 (CSSL)，考量了胸部電腦斷層影像中的醫學領域知識。我們的做法透過有效捕捉先前學習的知識與不同階段的新資訊之間的關係，來解決循序學習的挑戰。透過將增強的 DER 納入 CSSL，並在 DER 的排練緩衝區內維持多樣性和代表性，預訓練期間資料干擾的風險降低，使模型能夠學習更豐富且強健的特徵表徵。此外，我們納入混淆策略和特徵萃取，進一步增強模型學習有意義表徵的能力。我們使用在兩種不同影像條件下取得的胸部電腦斷層影像驗證我們的模型，證明與現有技術相比具有優異的效能。
-
-##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
-2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
-
-The integration of large language models (LLMs) into public transit systems
-presents a transformative opportunity to enhance urban mobility. This study
-explores the potential of LLMs to revolutionize public transportation
-management within the context of San Antonio's transit system. Leveraging the
-capabilities of LLMs in natural language processing and data analysis, we
-investigate their capabilities to optimize route planning, reduce wait times,
-and provide personalized travel assistance. By utilizing the General Transit
-Feed Specification (GTFS) and other relevant data, this research aims to
-demonstrate how LLMs can potentially improve resource allocation, elevate
-passenger satisfaction, and inform data-driven decision-making in transit
-operations. A comparative analysis of different ChatGPT models was conducted to
-assess their ability to understand transportation information, retrieve
-relevant data, and provide comprehensive responses. Findings from this study
-suggest that while LLMs hold immense promise for public transit, careful
-engineering and fine-tuning are essential to realizing their full potential.
-San Antonio serves as a case study to inform the development of LLM-powered
-transit systems in other urban environments.
-
-摘要：大型語言模型 (LLM) 整合到公共交通系統中，為提升城市流動性帶來轉型契機。本研究探討 LLM 在聖安東尼奧交通系統脈絡下，革新大眾運輸管理的潛力。利用 LLM 在自然語言處理和資料分析方面的能力，我們探討其在優化路線規劃、縮短等候時間，以及提供個人化旅遊協助方面的能力。透過利用通用大眾運輸資料規範 (GTFS) 和其他相關資料，本研究旨在證明 LLM 如何潛在提升資源配置、提升乘客滿意度，以及在交通營運中提供資料驅動的決策。針對不同的 ChatGPT 模型進行比較分析，以評估其理解交通資訊、擷取相關資料，以及提供全面回應的能力。本研究的發現顯示，儘管 LLM 對大眾運輸極具前景，但精密的工程和微調對於實現其全部潛力至關重要。聖安東尼奧作為一個案例研究，為在其他都市環境中開發由 LLM 驅動的交通系統提供參考。
-
-##### **SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**
-2501.03836v1 by Runci Bai
-
-Brain tumors can result in neurological dysfunction, alterations in cognitive
-and psychological states, increased intracranial pressure, and the occurrence
-of seizures, thereby presenting a substantial risk to human life and health.
-The You Only Look Once(YOLO) series models have demonstrated superior accuracy
-in object detection for medical imaging. In this paper, we develop a novel
-SCC-YOLO architecture by integrating the SCConv attention mechanism into
-YOLOv9. The SCConv module reconstructs an efficient convolutional module by
-reducing spatial and channel redundancy among features, thereby enhancing the
-learning of image features. We investigate the impact of intergrating different
-attention mechanisms with the YOLOv9 model on brain tumor image detection using
-both the Br35H dataset and our self-made dataset(Brain_Tumor_Dataset).
-Experimental results show that on the Br35H dataset, SCC-YOLO achieved a 0.3%
-improvement in mAp50 compared to YOLOv9, while on our self-made dataset,
-SCC-YOLO exhibited a 0.5% improvement over YOLOv9. SCC-YOLO has reached
-state-of-the-art performance in brain tumor detection. Source code is available
-at : https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
-
-摘要：腦瘤可能導致神經功能障礙、認知和心理狀態改變、顱內壓升高，以及癲癇發作，因此對人類生命和健康構成重大風險。You Only Look Once (YOLO) 系列模型已證明在醫學影像的物件偵測中具有優異的準確度。在本文中，我們透過將 SCConv 注意力機制整合到 YOLOv9 中，開發出新穎的 SCC-YOLO 架構。SCConv 模組透過減少特徵中的空間和通道冗餘來重建一個高效的卷積模組，從而增強影像特徵的學習。我們使用 Br35H 資料集和我們自製的資料集 (Brain_Tumor_Dataset) 探討了將不同的注意力機制與 YOLOv9 模型整合對腦瘤影像偵測的影響。實驗結果顯示，在 Br35H 資料集上，SCC-YOLO 在 mAp50 方面比 YOLOv9 提升了 0.3%，而在我們自製的資料集上，SCC-YOLO 比 YOLOv9 提升了 0.5%。SCC-YOLO 已在腦瘤偵測方面達到最先進的效能。原始碼可於以下網址取得：https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
-
-##### **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**
-2501.03764v1 by Siyuan Zhao, Chenyu Liu, Yi Ding, Xinliang Zhou
-
-In practical sleep stage classification, a key challenge is the variability
-of EEG data across different subjects and environments. Differences in
-physiology, age, health status, and recording conditions can lead to domain
-shifts between data. These domain shifts often result in decreased model
-accuracy and reliability, particularly when the model is applied to new data
-with characteristics different from those it was originally trained on, which
-is a typical manifestation of negative transfer. To address this, we propose
-SelectiveFinetuning in this paper. Our method utilizes a pretrained Multi
-Resolution Convolutional Neural Network (MRCNN) to extract EEG features,
-capturing the distinctive characteristics of different sleep stages. To
-mitigate the effect of domain shifts, we introduce a domain aligning mechanism
-that employs Earth Mover Distance (EMD) to evaluate and select source domain
-data closely matching the target domain. By finetuning the model with selective
-source data, our SelectiveFinetuning enhances the model's performance on target
-domain that exhibits domain shifts compared to the data used for training.
-Experimental results show that our method outperforms existing baselines,
-offering greater robustness and adaptability in practical scenarios where data
-distributions are often unpredictable.
-
-摘要：在實際的睡眠階段分類中，一個關鍵的挑戰是腦電圖數據在不同受試者和環境中的變異性。生理、年齡、健康狀況和記錄條件的差異可能導致數據之間的領域偏移。這些領域偏移通常會導致模型準確度和可靠性下降，特別是當模型應用於與其最初訓練時不同的特徵的新數據時，這是負遷移的典型表現。為了解決這個問題，我們在本文中提出選擇性微調。我們的模型利用預訓練的多解析度卷積神經網路 (MRCNN) 來提取腦電圖特徵，捕捉不同睡眠階段的獨特特徵。為了減輕領域偏移的影響，我們引入了一個領域對齊機制，它採用地球移動距離 (EMD) 來評估和選擇與目標領域緊密匹配的源領域數據。通過使用選擇性源數據微調模型，我們的選擇性微調增強了模型在與用於訓練的數據相比表現出領域偏移的目標領域上的性能。實驗結果表明，我們的模型優於現有的基準，在數據分佈通常不可預測的實際場景中提供了更大的穩健性和適應性。
-
-##### **Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**
-2501.03722v1 by Xiaotong Guo, Deqian Yang, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Lijun Zhang, Yanda Meng
-
-Accurate segmentation of pulmonary structures iscrucial in clinical
-diagnosis, disease study, and treatment planning. Significant progress has been
-made in deep learning-based segmentation techniques, but most require much
-labeled data for training. Consequently, developing precise segmentation
-methods that demand fewer labeled datasets is paramount in medical image
-analysis. The emergence of pre-trained vision-language foundation models, such
-as CLIP, recently opened the door for universal computer vision tasks.
-Exploiting the generalization ability of these pre-trained foundation models on
-downstream tasks, such as segmentation, leads to unexpected performance with a
-relatively small amount of labeled data. However, exploring these models for
-pulmonary artery-vein segmentation is still limited. This paper proposes a
-novel framework called Language-guided self-adaptive Cross-Attention Fusion
-Framework. Our method adopts pre-trained CLIP as a strong feature extractor for
-generating the segmentation of 3D CT scans, while adaptively aggregating the
-cross-modality of text and image representations. We propose a s pecially
-designed adapter module to fine-tune pre-trained CLIP with a self-adaptive
-learning strategy to effectively fuse the two modalities of embeddings. We
-extensively validate our method on a local dataset, which is the largest
-pulmonary artery-vein CT dataset to date and consists of 718 labeled data in
-total. The experiments show that our method outperformed other state-of-the-art
-methods by a large margin. Our data and code will be made publicly available
-upon acceptance.
-
-摘要：精確分割肺部結構在臨床診斷、疾病研究和治療計畫中至關重要。基於深度學習的分割技術已取得重大進展，但大多數技術在訓練時需要大量的標記資料。因此，開發精確的分割方法，以減少標記資料集的需求，在醫學影像分析中至關重要。預訓練的視覺語言基礎模型（例如 CLIP）的出現，最近為通用電腦視覺任務開啟了大門。利用這些預訓練基礎模型在分割等下游任務中的泛化能力，即使標記資料量相對較少，也能產生意想不到的效能。然而，探索這些模型在肺動脈靜脈分割中的應用仍然有限。本文提出了一個名為語言引導自適應交叉注意力融合框架的新框架。我們的模型採用預訓練的 CLIP 作為強大的特徵萃取器，用於產生 3D 電腦斷層掃描的分割，同時自適應地聚合文本和影像表徵的跨模態。我們提出了一個特別設計的適配器模組，以自適應學習策略微調預訓練的 CLIP，以有效融合兩種嵌入模態。我們在一個本地資料集上廣泛驗證了我們的模型，這是迄今為止最大的肺動脈靜脈電腦斷層掃描資料集，總共包含 718 個標記資料。實驗表明，我們的模型以大幅優於其他最先進模型。我們的資料和程式碼將在獲得接受後公開。
-
-##### **Can Deep Learning Trigger Alerts from Mobile-Captured Images?**
-2501.03499v1 by Pritisha Sarkar, Duranta Durbaar Vishal Saha, Mousumi Saha
-
-Our research presents a comprehensive approach to leveraging mobile camera
-image data for real-time air quality assessment and recommendation. We develop
-a regression-based Convolutional Neural Network model and tailor it explicitly
-for air quality prediction by exploiting the inherent relationship between
-output parameters. As a result, the Mean Squared Error of 0.0077 and 0.0112
-obtained for 2 and 5 pollutants respectively outperforms existing models.
-Furthermore, we aim to verify the common practice of augmenting the original
-dataset with a view to introducing more variation in the training phase. It is
-one of our most significant contributions that our experimental results
-demonstrate minimal accuracy differences between the original and augmented
-datasets. Finally, a real-time, user-friendly dashboard is implemented which
-dynamically displays the Air Quality Index and pollutant values derived from
-captured mobile camera images. Users' health conditions are considered to
-recommend whether a location is suitable based on current air quality metrics.
-Overall, this research contributes to verification of data augmentation
-techniques, CNN-based regression modelling for air quality prediction, and
-user-centric air quality monitoring through mobile technology. The proposed
-system offers practical solutions for individuals to make informed
-environmental health and well-being decisions.
-
-摘要：我們的研究提出了一種利用行動裝置相機影像資料進行即時空氣品質評估和建議的全面性方法。我們開發了一種基於迴歸的卷積神經網路模型，並透過利用輸出參數之間的內在關係，針對空氣品質預測量身打造。因此，分別針對 2 和 5 種污染物取得的平均平方誤差為 0.0077 和 0.0112，優於現有的模型。此外，我們旨在驗證擴充原始資料集的常見做法，以期在訓練階段引入更多變異。我們的實驗結果顯示原始資料集和擴充資料集之間的準確度差異極小，這是我們最重要的貢獻之一。最後，我們實作了一個即時、使用者友善的儀表板，可動態顯示從擷取的行動裝置相機影像中衍生的空氣品質指數和污染物數值。考量使用者的健康狀況，建議是否根據目前的空氣品質指標選擇適合的地點。整體而言，這項研究有助於驗證資料擴充技術、基於 CNN 的迴歸模型（用於空氣品質預測）以及透過行動技術進行以使用者為中心的空氣品質監控。所提出的系統為個人提供實際的解決方案，以便做出明智的環境健康和福祉決策。
-
-##### **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**
-2501.03458v1 by Xiao Wang, Fuling Wang, Haowen Wang, Bo Jiang, Chuanfu Li, Yaowei Wang, Yonghong Tian, Jin Tang
-
-X-ray image based medical report generation achieves significant progress in
-recent years with the help of the large language model, however, these models
-have not fully exploited the effective information in visual image regions,
-resulting in reports that are linguistically sound but insufficient in
-describing key diseases. In this paper, we propose a novel associative
-memory-enhanced X-ray report generation model that effectively mimics the
-process of professional doctors writing medical reports. It considers both the
-mining of global and local visual information and associates historical report
-information to better complete the writing of the current report. Specifically,
-given an X-ray image, we first utilize a classification model along with its
-activation maps to accomplish the mining of visual regions highly associated
-with diseases and the learning of disease query tokens. Then, we employ a
-visual Hopfield network to establish memory associations for disease-related
-tokens, and a report Hopfield network to retrieve report memory information.
-This process facilitates the generation of high-quality reports based on a
-large language model and achieves state-of-the-art performance on multiple
-benchmark datasets, including the IU X-ray, MIMIC-CXR, and Chexpert Plus. The
-source code of this work is released on
-\url{https://github.com/Event-AHU/Medical_Image_Analysis}.
-
-摘要：近年來，在大型語言模型的幫助下，基於 X 光影像的醫療報告生成取得了顯著進展，然而，這些模型並未充分利用視覺影像區域中的有效資訊，導致報告在語言上雖然流暢，但在描述關鍵疾病方面卻不足。在本文中，我們提出了一個新穎的聯想式記憶增強 X 光報告生成模型，有效地模擬專業醫生撰寫醫療報告的過程。它同時考慮了對全局和局部視覺資訊的挖掘，並聯繫歷史報告資訊，以更好地完成當前報告的撰寫。具體來說，給定一張 X 光影像，我們首先利用分類模型及其激活映射來完成與疾病高度相關的視覺區域的挖掘和疾病查詢令牌的學習。然後，我們採用視覺霍普菲爾德網路來建立與疾病相關的令牌的記憶聯繫，並採用報告霍普菲爾德網路來檢索報告記憶資訊。這個過程有助於基於大型語言模型生成高品質的報告，並在包括 IU X 射線、MIMIC-CXR 和 Chexpert Plus 在內的多個基準資料集上實現了最先進的效能。此項工作的原始碼已發佈在\url{https://github.com/Event-AHU/Medical_Image_Analysis}。
-
-##### **Existential Crisis: A Social Robot's Reason for Being**
-2501.03376v1 by Dora Medgyesy, Joella Galas, Julian van Pol, Rustam Eynaliyev, Thijs Vollebregt
-
-As Robots become ever more important in our daily lives there's growing need
-for understanding how they're perceived by people. This study aims to
-investigate how the user perception of robots is influenced by displays of
-personality. Using LLMs and speech to text technology, we designed a
-within-subject study to compare two conditions: a personality-driven robot and
-a purely task-oriented, personality-neutral robot. Twelve participants,
-recruited from Socially Intelligent Robotics course at Vrije Universiteit
-Amsterdam, interacted with a robot Nao tasked with asking them a set of medical
-questions under both conditions. After completing both interactions, the
-participants completed a user experience questionnaire measuring their
-emotional states and robot perception using standardized questionnaires from
-the SRI and Psychology literature.
-
-摘要：隨著機器人在我們日常生活中的重要性日益提升，對於了解人們如何感知機器人的需求也日益增加。本研究旨在探討機器人的使用者感知如何受到人格表現的影響。我們使用大型語言模型 (LLM) 和語音轉文字技術，設計了一項受試者內研究，以比較兩種情況：一種是人格驅動的機器人，另一種是純粹以任務為導向、人格中立的機器人。我們從阿姆斯特丹自由大學的社交智能機器人課程中招募了 12 名參與者，他們與機器人 Nao 互動，在兩種情況下都向他們詢問一系列醫療問題。在完成這兩種互動後，參與者完成了一份使用者體驗問卷，使用來自 SRI 和心理學文獻的標準化問卷測量他們的情緒狀態和機器人感知。
-
-##### **Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**
-2501.02922v1 by Susu Sun, Leslie Tessier, Frédérique Meeuwsen, Clément Grisi, Dominique van Midden, Geert Litjens, Christian F. Baumgartner
-
-Multiple Instance Learning (MIL) methods allow for gigapixel Whole-Slide
-Image (WSI) analysis with only slide-level annotations. Interpretability is
-crucial for safely deploying such algorithms in high-stakes medical domains.
-Traditional MIL methods offer explanations by highlighting salient regions.
-However, such spatial heatmaps provide limited insights for end users. To
-address this, we propose a novel inherently interpretable WSI-classification
-approach that uses human-understandable pathology concepts to generate
-explanations. Our proposed Concept MIL model leverages recent advances in
-vision-language models to directly predict pathology concepts based on image
-features. The model's predictions are obtained through a linear combination of
-the concepts identified on the top-K patches of a WSI, enabling inherent
-explanations by tracing each concept's influence on the prediction. In contrast
-to traditional concept-based interpretable models, our approach eliminates the
-need for costly human annotations by leveraging the vision-language model. We
-validate our method on two widely used pathology datasets: Camelyon16 and
-PANDA. On both datasets, Concept MIL achieves AUC and accuracy scores over 0.9,
-putting it on par with state-of-the-art models. We further find that 87.1\%
-(Camelyon16) and 85.3\% (PANDA) of the top 20 patches fall within the tumor
-region. A user study shows that the concepts identified by our model align with
-the concepts used by pathologists, making it a promising strategy for
-human-interpretable WSI classification.
-
-摘要：多實例學習 (MIL) 方法僅使用玻片層級註解，即可進行吉像素全玻片影像 (WSI) 分析。可解釋性對於在高風險醫療領域安全部署此類演算法至關重要。傳統的 MIL 方法透過強調顯著區域來提供說明。然而，此類空間熱圖為最終使用者提供的見解有限。為了解決此問題，我們提出了一種新穎且本質上可解釋的 WSI 分類方法，該方法使用人類可理解的病理概念來產生說明。我們提出的概念 MIL 模型利用視覺語言模型的最新進展，根據影像特徵直接預測病理概念。該模型的預測是透過線性組合 WSI 頂部 K 個區塊上識別的概念而獲得的，透過追蹤每個概念對預測的影響，可以提供內在說明。與傳統基於概念的可解釋模型相比，我們的做法透過利用視覺語言模型，消除了對昂貴的人工註解的需求。我們在兩個廣泛使用的病理資料集：Camelyon16 和 PANDA 上驗證了我們的模型。在兩個資料集上，概念 MIL 的 AUC 和準確率都超過 0.9，與最先進的模型不相上下。我們進一步發現，前 20 個區塊中有 87.1%（Camelyon16）和 85.3%（PANDA）落在腫瘤區域內。一項使用者研究表明，我們的模型識別的概念與病理學家使用的概念一致，使其成為人類可解釋 WSI 分類的一種有前途的策略。
-
-##### **Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**
-2501.02891v1 by Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
-
-Humour styles can have either a negative or a positive impact on well-being.
-Given the importance of these styles to mental health, significant research has
-been conducted on their automatic identification. However, the automated
-machine learning models used for this purpose are black boxes, making their
-prediction decisions opaque. Clarity and transparency are vital in the field of
-mental health. This paper presents an explainable AI (XAI) framework for
-understanding humour style classification, building upon previous work in
-computational humour analysis. Using the best-performing single model
-(ALI+XGBoost) from prior research, we apply comprehensive XAI techniques to
-analyse how linguistic, emotional, and semantic features contribute to humour
-style classification decisions. Our analysis reveals distinct patterns in how
-different humour styles are characterised and misclassified, with particular
-emphasis on the challenges in distinguishing affiliative humour from other
-styles. Through detailed examination of feature importance, error patterns, and
-misclassification cases, we identify key factors influencing model decisions,
-including emotional ambiguity, context misinterpretation, and target
-identification. The framework demonstrates significant utility in understanding
-model behaviour, achieving interpretable insights into the complex interplay of
-features that define different humour styles. Our findings contribute to both
-the theoretical understanding of computational humour analysis and practical
-applications in mental health, content moderation, and digital humanities
-research.
-
-摘要：幽默風格對幸福感可能產生負面或正面的影響。
-鑑於這些風格對心理健康的重要性，已經對其自動識別進行了大量研究。然而，用於此目的的自動機器學習模型是黑盒子，使得其預測決策不透明。清晰度和透明度在心理健康領域至關重要。本文提出了一個可解釋的 AI (XAI) 框架，用於理解幽默風格分類，建立在計算幽默分析的先前工作之上。使用先前研究中表現最好的單一模型 (ALI+XGBoost)，我們應用全面的 XAI 技術來分析語言、情緒和語義特徵如何影響幽默風格分類決策。我們的分析揭示了不同幽默風格如何被表徵和錯誤分類的不同模式，特別強調了區分聯屬幽默與其他風格的挑戰。通過仔細檢查特徵重要性、錯誤模式和錯誤分類案例，我們確定了影響模型決策的關鍵因素，包括情緒模糊、情境誤解和目標識別。該框架展示了在理解模型行為方面的顯著效用，實現了對定義不同幽默風格的特徵之間複雜相互作用的可解釋見解。我們的發現有助於計算幽默分析的理論理解和心理健康、內容審核和數字人文研究中的實際應用。
-
-##### **IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**
-2501.02869v1 by Yiming Zhang, Zheng Chang, Wentao Cai, MengXing Ren, Kang Yuan, Yining Sun, Zenghui Ding
-
-Recent researches of large language models(LLM), which is pre-trained on
-massive general-purpose corpora, have achieved breakthroughs in responding
-human queries. However, these methods face challenges including limited data
-insufficiency to support extensive pre-training and can not align responses
-with users' instructions. To address these issues, we introduce a medical
-instruction dataset, CMedINS, containing six medical instructions derived from
-actual medical tasks, which effectively fine-tunes LLM in conjunction with
-other data. Subsequently, We launch our medical model, IIMedGPT, employing an
-efficient preference alignment method, Direct preference Optimization(DPO). The
-results show that our final model outperforms existing medical models in
-medical dialogue.Datsets, Code and model checkpoints will be released upon
-acceptance.
-
-摘要：最近針對大型語言模型 (LLM) 的研究，該模型預先訓練於龐大的通用語料庫中，已在回應人類查詢方面取得突破。然而，這些方法面臨的挑戰包括資料不足以支援廣泛的預訓練，且無法將回應與使用者的指示保持一致。為了解決這些問題，我們引進一個醫療指示資料集 CMedINS，其中包含六項從實際醫療任務中衍生的醫療指示，與其他資料結合後能有效微調 LLM。隨後，我們推出我們的醫療模型 IIMedGPT，採用一種有效率的偏好對齊方法，直接偏好最佳化 (DPO)。結果顯示，我們的最終模型在醫療對話中優於現有的醫療模型。資料集、程式碼和模型檢查點將在通過驗證後釋出。
-
-##### **Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**
-2501.03292v1 by Naibo Wang, Yuchen Deng, Shichen Fan, Jianwei Yin, See-Kiong Ng
-
-Federated learning (FL) has attracted considerable interest in the medical
-domain due to its capacity to facilitate collaborative model training while
-maintaining data privacy. However, conventional FL methods typically
-necessitate multiple communication rounds, leading to significant communication
-overhead and delays, especially in environments with limited bandwidth.
-One-shot federated learning addresses these issues by conducting model training
-and aggregation in a single communication round, thereby reducing communication
-costs while preserving privacy. Among these, one-shot federated ensemble
-learning combines independently trained client models using ensemble techniques
-such as voting, further boosting performance in non-IID data scenarios. On the
-other hand, existing machine learning methods in healthcare predominantly use
-unimodal data (e.g., medical images or textual reports), which restricts their
-diagnostic accuracy and comprehensiveness. Therefore, the integration of
-multi-modal data is proposed to address these shortcomings. In this paper, we
-introduce FedMME, an innovative one-shot multi-modal federated ensemble
-learning framework that utilizes multi-modal data for medical image analysis.
-Specifically, FedMME capitalizes on vision large language models to produce
-textual reports from medical images, employs a BERT model to extract textual
-features from these reports, and amalgamates these features with visual
-features to improve diagnostic accuracy. Experimental results show that our
-method demonstrated superior performance compared to existing one-shot
-federated learning methods in healthcare scenarios across four datasets with
-various data distributions. For instance, it surpasses existing one-shot
-federated learning approaches by more than 17.5% in accuracy on the RSNA
-dataset when applying a Dirichlet distribution with ($\alpha$ = 0.3).
-
-摘要：联邦学习 (FL) 由于其在维护数据隐私的同时促进协作模型训练的能力，在医学领域引起了极大的兴趣。然而，传统的 FL 方法通常需要多轮通信，这会导致严重的通信开销和延迟，尤其是在带宽受限的环境中。单次联邦学习通过在单次通信轮中进行模型训练和聚合来解决这些问题，从而在保护隐私的同时降低通信成本。其中，单次联邦集成学习使用集成技术（如投票）将独立训练的客户端模型组合起来，进一步提升了在非 IID 数据场景中的性能。另一方面，现有的医疗保健机器学习方法主要使用单模态数据（例如医学图像或文本报告），这限制了它们的诊断准确性和全面性。因此，提出了多模态数据的集成来解决这些缺点。在本文中，我们介绍了 FedMME，一种创新的单次多模态联邦集成学习框架，它利用多模态数据进行医学图像分析。具体来说，FedMME 利用视觉大语言模型从医学图像中生成文本报告，采用 BERT 模型从这些报告中提取文本特征，并将这些特征与视觉特征相结合以提高诊断准确性。实验结果表明，与现有的单次联邦学习方法相比，我们的方法在四个具有不同数据分布的数据集中的医疗保健场景中表现出优越的性能。例如，当应用具有 ($\alpha$ = 0.3) 的 Dirichlet 分布时，它在 RSNA 数据集上的准确率比现有的单次联邦学习方法高出 17.5% 以上。
-
-##### **GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**
-2501.02788v2 by Niloufar Eghbali, Hassan Bagher-Ebadian, Tuka Alhanai, Mohammad M. Ghassemi
-
-Vision Transformers (ViTs) have shown promise in medical image semantic
-segmentation (MISS) by capturing long-range correlations. However, ViTs often
-struggle to model local spatial information effectively, which is essential for
-accurately segmenting fine anatomical details, particularly when applied to
-small datasets without extensive pre-training. We introduce Gabor and Laplacian
-of Gaussian Convolutional Swin Network (GLoG-CSUnet), a novel architecture
-enhancing Transformer-based models by incorporating learnable radiomic
-features. This approach integrates dynamically adaptive Gabor and Laplacian of
-Gaussian (LoG) filters to capture texture, edge, and boundary information,
-enhancing the feature representation processed by the Transformer model. Our
-method uniquely combines the long-range dependency modeling of Transformers
-with the texture analysis capabilities of Gabor and LoG features. Evaluated on
-the Synapse multi-organ and ACDC cardiac segmentation datasets, GLoG-CSUnet
-demonstrates significant improvements over state-of-the-art models, achieving a
-1.14% increase in Dice score for Synapse and 0.99% for ACDC, with minimal
-computational overhead (only 15 and 30 additional parameters, respectively).
-GLoG-CSUnet's flexible design allows integration with various base models,
-offering a promising approach for incorporating radiomics-inspired feature
-extraction in Transformer architectures for medical image analysis. The code
-implementation is available on GitHub at: https://github.com/HAAIL/GLoG-CSUnet.
-
-摘要：<paragraph>視覺轉換器 (ViT) 已在醫療影像語意分割 (MISS) 中展現前景，藉由擷取長程關聯性。然而，ViT 經常難以有效地建模局部空間資訊，這對於精確分割精細解剖細節至關重要，特別是在應用於沒有廣泛預先訓練的小型資料集時。我們引入了高斯卷積 Swin 網路 (GLoG-CSUnet) 的 Gabor 和 Laplacian，這是一種新穎的架構，透過整合可學習的放射特徵來增強基於轉換器的模型。此方法整合了動態自適應 Gabor 和高斯 Laplacian (LoG) 濾波器來擷取紋理、邊緣和邊界資訊，增強轉換器模型處理的特徵表示。我們的模型獨特地結合了轉換器的長程依賴性建模與 Gabor 和 LoG 特徵的紋理分析功能。在 Synapse 多器官和 ACDC 心臟分割資料集上進行評估，GLoG-CSUnet 展示出比最先進的模型有顯著的改進，Synapse 的 Dice 分數增加了 1.14%，ACDC 的 Dice 分數增加了 0.99%，計算負擔極小（分別只有 15 和 30 個額外的參數）。GLoG-CSUnet 的彈性設計允許與各種基礎模型整合，為在轉換器架構中整合放射組學啟發的特徵萃取提供了一個有前景的方法，以進行醫療影像分析。程式碼實作可在 GitHub 上取得：https://github.com/HAAIL/GLoG-CSUnet。</paragraph>
-
-##### **Hybrid deep convolution model for lung cancer detection with transfer learning**
-2501.02785v1 by Sugandha Saxena, S. N. Prasad, Ashwin M Polnaya, Shweta Agarwala
-
-Advances in healthcare research have significantly enhanced our understanding
-of disease mechanisms, diagnostic precision, and therapeutic options. Yet, lung
-cancer remains one of the leading causes of cancer-related mortality worldwide
-due to challenges in early and accurate diagnosis. While current lung cancer
-detection models show promise, there is considerable potential for further
-improving the accuracy for timely intervention. To address this challenge, we
-introduce a hybrid deep convolution model leveraging transfer learning, named
-the Maximum Sensitivity Neural Network (MSNN). MSNN is designed to improve the
-precision of lung cancer detection by refining sensitivity and specificity.
-This model has surpassed existing deep learning approaches through experimental
-validation, achieving an accuracy of 98% and a sensitivity of 97%. By
-overlaying sensitivity maps onto lung Computed Tomography (CT) scans, it
-enables the visualization of regions most indicative of malignant or benign
-classifications. This innovative method demonstrates exceptional performance in
-distinguishing lung cancer with minimal false positives, thereby enhancing the
-accuracy of medical diagnoses.
-
-摘要：醫療保健研究的進步顯著增進了我們對疾病機制、診斷精準度和治療選擇的了解。然而，由於早期和準確診斷的挑戰，肺癌仍然是全球癌症相關死亡的主要原因之一。雖然目前的肺癌檢測模型顯示出前景，但仍有相當大的潛力可以進一步提高準確性，以便及時介入。為了應對這一挑戰，我們引入了利用遷移學習的混合深度卷積模型，名為最大敏感度神經網路 (MSNN)。MSNN 旨在透過調整敏感度和特異性來提高肺癌檢測的準確性。此模型已透過實驗驗證超越現有的深度學習方法，達到 98% 的準確度和 97% 的敏感度。透過將敏感度圖疊加到肺部電腦斷層掃描 (CT) 上，它可以視覺化出最能代表惡性或良性分類的區域。這種創新方法在區分肺癌時表現出極佳的效能，且誤判為陽性的情況最少，從而提高了醫療診斷的準確性。
-
-##### **ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**
-2501.02778v1 by Binyu Zhang, Zhu Meng, Junhao Dong, Fei Su, Zhicheng Zhao
-
-Survival prediction is a crucial task in the medical field and is essential
-for optimizing treatment options and resource allocation. However, current
-methods often rely on limited data modalities, resulting in suboptimal
-performance. In this paper, we propose an Integrated Cross-modal Fusion Network
-(ICFNet) that integrates histopathology whole slide images, genomic expression
-profiles, patient demographics, and treatment protocols. Specifically, three
-types of encoders, a residual orthogonal decomposition module and a unification
-fusion module are employed to merge multi-modal features to enhance prediction
-accuracy. Additionally, a balanced negative log-likelihood loss function is
-designed to ensure fair training across different patients. Extensive
-experiments demonstrate that our ICFNet outperforms state-of-the-art algorithms
-on five public TCGA datasets, including BLCA, BRCA, GBMLGG, LUAD, and UCEC, and
-shows its potential to support clinical decision-making and advance precision
-medicine. The codes are available at: https://github.com/binging512/ICFNet.
-
-摘要：存活預測是醫學領域的一項關鍵任務，對於優化治療選項和資源分配至關重要。然而，目前的技術通常仰賴有限的數據形式，導致次佳的表現。在本文中，我們提出一個整合式跨形式融合網路 (ICFNet)，它整合了組織病理學全幻燈片影像、基因體表現特徵、病患人口統計資料和治療協定。具體來說，使用三種類型的編碼器、一個殘差正交分解模組和一個統一融合模組，以合併多形式特徵，以增強預測準確度。此外，設計了一個平衡的負對數似然損失函數，以確保不同病患之間的公平訓練。廣泛的實驗證明，我們的 ICFNet 在五個公開的 TCGA 資料集上優於最先進的演算法，包括 BLCA、BRCA、GBMLGG、LUAD 和 UCEC，並展示其支援臨床決策和推動精準醫療的潛力。程式碼可在以下網址取得：https://github.com/binging512/ICFNet。
-
-##### **Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**
-2501.02727v1 by Yahe Yang, Chengyue Huang
-
-We present HiRMed (Hierarchical RAG-enhanced Medical Test Recommendation), a
-novel tree-structured recommendation system that leverages Retrieval-Augmented
-Generation (RAG) for intelligent medical test recommendations. Unlike
-traditional vector similarity-based approaches, our system performs medical
-reasoning at each tree node through a specialized RAG process. Starting from
-the root node with initial symptoms, the system conducts step-wise medical
-analysis to identify potential underlying conditions and their corresponding
-diagnostic requirements. At each level, instead of simple matching, our
-RAG-enhanced nodes analyze retrieved medical knowledge to understand
-symptom-disease relationships and determine the most appropriate diagnostic
-path. The system dynamically adjusts its recommendation strategy based on
-medical reasoning results, considering factors such as urgency levels and
-diagnostic uncertainty. Experimental results demonstrate that our approach
-achieves superior performance in terms of coverage rate, accuracy, and miss
-rate compared to conventional retrieval-based methods. This work represents a
-significant advance in medical test recommendation by introducing medical
-reasoning capabilities into the traditional tree-based retrieval structure.
-
-摘要：我們提出 HiRMed（分層 RAG 增強型醫療檢測建議），一種新穎的樹狀結構建議系統，它利用檢索增強生成 (RAG) 來進行智能醫療檢測建議。與傳統的基於向量相似性的方法不同，我們的系統通過一個專門的 RAG 程序在每個樹節點執行醫療推理。從具有初始症狀的根節點開始，系統執行逐步醫療分析以識別潛在的潛在疾病及其對應的診斷要求。在每個層級，我們的 RAG 增強節點會分析檢索到的醫療知識，以了解症狀與疾病的關係，並確定最合適的診斷路徑，而不是進行簡單的匹配。系統根據醫療推理結果動態調整其建議策略，考慮緊急程度和診斷不確定性等因素。實驗結果表明，與傳統的基於檢索的方法相比，我們的做法在覆蓋率、準確性和遺漏率方面取得了優異的表現。這項工作通過將醫療推理能力引入傳統的基於樹的檢索結構，代表了醫療檢測建議的重大進展。
-
-##### **Representation Learning of Lab Values via Masked AutoEncoder**
-2501.02648v1 by David Restrepo, Chenwei Wu, Yueran Jia, Jaden K. Sun, Jack Gallifant, Catherine G. Bielick, Yugang Jia, Leo A. Celi
-
-Accurate imputation of missing laboratory values in electronic health records
-(EHRs) is critical to enable robust clinical predictions and reduce biases in
-AI systems in healthcare. Existing methods, such as variational autoencoders
-(VAEs) and decision tree-based approaches such as XGBoost, struggle to model
-the complex temporal and contextual dependencies in EHR data, mainly in
-underrepresented groups. In this work, we propose Lab-MAE, a novel
-transformer-based masked autoencoder framework that leverages self-supervised
-learning for the imputation of continuous sequential lab values. Lab-MAE
-introduces a structured encoding scheme that jointly models laboratory test
-values and their corresponding timestamps, enabling explicit capturing temporal
-dependencies. Empirical evaluation on the MIMIC-IV dataset demonstrates that
-Lab-MAE significantly outperforms the state-of-the-art baselines such as
-XGBoost across multiple metrics, including root mean square error (RMSE),
-R-squared (R2), and Wasserstein distance (WD). Notably, Lab-MAE achieves
-equitable performance across demographic groups of patients, advancing fairness
-in clinical predictions. We further investigate the role of follow-up
-laboratory values as potential shortcut features, revealing Lab-MAE's
-robustness in scenarios where such data is unavailable. The findings suggest
-that our transformer-based architecture, adapted to the characteristics of the
-EHR data, offers a foundation model for more accurate and fair clinical
-imputation models. In addition, we measure and compare the carbon footprint of
-Lab-MAE with the baseline XGBoost model, highlighting its environmental
-requirements.
-
-摘要：<paragraph>電子健康紀錄 (EHR) 中遺失的實驗室值的準確估算對於支援穩健的臨床預測和減少醫療保健中 AI 系統的偏差至關重要。現有的方法，例如變異自動編碼器 (VAE) 和基於決策樹的方法（例如 XGBoost），難以建模 EHR 資料中複雜的時間和背景依賴性，特別是在代表性不足的群組中。在這項工作中，我們提出 Lab-MAE，一個新穎的基於Transformer的遮罩自動編碼器框架，它利用自我監督學習來估算連續的序列實驗室值。Lab-MAE 引入了一個結構化編碼方案，它共同建模實驗室測試值及其對應的時間戳，從而能夠明確捕捉時間依賴性。在 MIMIC-IV 資料集上的經驗評估表明，Lab-MAE 在包括均方根誤差 (RMSE)、R 平方 (R2) 和 Wasserstein 距離 (WD) 在內的多項指標上顯著優於 XGBoost 等最先進的基準。值得注意的是，Lab-MAE 在患者的人口統計群組中實現了公平的表現，促進了臨床預測的公平性。我們進一步探討了後續實驗室值作為潛在捷徑特徵的作用，揭示了 Lab-MAE 在此類資料不可用的情況下的穩健性。研究結果表明，我們基於Transformer的架構適應了 EHR 資料的特徵，為更準確和公平的臨床估算模型提供了基礎模型。此外，我們測量並比較了 Lab-MAE 與基準 XGBoost 模型的碳足跡，突出了其環境要求。</paragraph>
-
-##### **Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**
-2501.02647v1 by Ellis Solaiman, Christa Awad
-
-This paper critically reviews the integration of Artificial Intelligence (AI)
-and blockchain technologies in the context of Medical Internet of Things
-(MedIoT) applications, where they collectively promise to revolutionize
-healthcare delivery. By examining current research, we underscore AI's
-potential in advancing diagnostics and patient care, alongside blockchain's
-capacity to bolster data security and patient privacy. We focus particularly on
-the imperative to cultivate trust and ensure reliability within these systems.
-Our review highlights innovative solutions for managing healthcare data and
-challenges such as ensuring scalability, maintaining privacy, and promoting
-ethical practices within the MedIoT domain. We present a vision for integrating
-AI-driven insights with blockchain security in healthcare, offering a
-comprehensive review of current research and future directions. We conclude
-with a set of identified research gaps and propose that addressing these is
-crucial for achieving the dependable, secure, and patient -centric MedIoT
-applications of tomorrow.
-
-摘要：本文批判性地回顧了人工智慧 (AI) 和區塊鏈技術在醫療物聯網 (MedIoT) 應用中的整合，這兩者共同承諾將徹底改變醫療保健服務。透過檢視目前的研究所，我們強調 AI 在推進診斷和患者照護方面的潛力，以及區塊鏈強化資料安全和患者隱私的能力。我們特別關注在這些系統內培養信任和確保可靠性的必要性。我們的回顧重點在於管理醫療保健資料的創新解決方案，以及確保可擴充性、維護隱私和在 MedIoT 領域內推廣道德實務等挑戰。我們提出一個將 AI 驅動的見解與區塊鏈安全整合在醫療保健中的願景，提供目前的研究所和未來方向的全面回顧。我們以一組已識別的研究差距作為結論，並提出解決這些差距對於達成未來可信賴、安全且以患者為中心的 MedIoT 應用至關重要。
-
-##### **KM-UNet KAN Mamba UNet for medical image segmentation**
-2501.02559v1 by Yibo Zhang
-
-Medical image segmentation is a critical task in medical imaging analysis.
-Traditional CNN-based methods struggle with modeling long-range dependencies,
-while Transformer-based models, despite their success, suffer from quadratic
-computational complexity. To address these limitations, we propose KM-UNet, a
-novel U-shaped network architecture that combines the strengths of
-Kolmogorov-Arnold Networks (KANs) and state-space models (SSMs). KM-UNet
-leverages the Kolmogorov-Arnold representation theorem for efficient feature
-representation and SSMs for scalable long-range modeling, achieving a balance
-between accuracy and computational efficiency. We evaluate KM-UNet on five
-benchmark datasets: ISIC17, ISIC18, CVC, BUSI, and GLAS. Experimental results
-demonstrate that KM-UNet achieves competitive performance compared to
-state-of-the-art methods in medical image segmentation tasks. To the best of
-our knowledge, KM-UNet is the first medical image segmentation framework
-integrating KANs and SSMs. This work provides a valuable baseline and new
-insights for the development of more efficient and interpretable medical image
-segmentation systems. The code is open source at
-https://github.com/2760613195/KM_UNet
-  Keywords:KAN,Manba, state-space models,UNet, Medical image segmentation, Deep
-learning
-
-摘要：醫學影像分割在醫學影像分析中是一項重要的任務。
-傳統基於 CNN 的方法難以模擬長距離依賴性，
-而基於 Transformer 的模型儘管成功，卻有二次計算複雜度的問題。為了解決這些限制，我們提出了 KM-UNet，這是一種新穎的 U 形網路架構，結合了 Kolmogorov-Arnold 網路 (KANs) 和狀態空間模型 (SSM) 的優點。KM-UNet 利用 Kolmogorov-Arnold 表示定理進行高效特徵表示，利用 SSM 進行可擴充長距離模擬，在準確度和計算效率之間取得平衡。我們在五個基準資料集上評估 KM-UNet：ISIC17、ISIC18、CVC、BUSI 和 GLAS。實驗結果表明，與醫學影像分割任務中的最先進方法相比，KM-UNet 達到了有競爭力的效能。據我們所知，KM-UNet 是第一個整合 KAN 和 SSM 的醫學影像分割框架。這項工作為開發更有效率且可解釋的醫學影像分割系統提供了有價值的基線和新見解。程式碼在 https://github.com/2760613195/KM_UNet 開源
-關鍵字：KAN、Manba、狀態空間模型、UNet、醫學影像分割、深度學習
-
-##### **Hengqin-RA-v1: Advanced Large Language Model for Diagnosis and Treatment of Rheumatoid Arthritis with Dataset based Traditional Chinese Medicine**
-2501.02471v1 by Yishen Liu, Shengda Luo, Zishao Zhong, Tongtong Wu, Jianguo Zhang, Peiyao Ou, Yong Liang, Liang Liu, Hudan Pan
-
-Large language models (LLMs) primarily trained on English texts, often face
-biases and inaccuracies in Chinese contexts. Their limitations are pronounced
-in fields like Traditional Chinese Medicine (TCM), where cultural and clinical
-subtleties are vital, further hindered by a lack of domain-specific data, such
-as rheumatoid arthritis (RA). To address these issues, this paper introduces
-Hengqin-RA-v1, the first large language model specifically tailored for TCM
-with a focus on diagnosing and treating RA. We also present HQ-GCM-RA-C1, a
-comprehensive RA-specific dataset curated from ancient Chinese medical
-literature, classical texts, and modern clinical studies. This dataset empowers
-Hengqin-RA-v1 to deliver accurate and culturally informed responses,
-effectively bridging the gaps left by general-purpose models. Extensive
-experiments demonstrate that Hengqin-RA-v1 outperforms state-of-the-art models,
-even surpassing the diagnostic accuracy of TCM practitioners in certain cases.
-
-摘要：大型語言模型（LLM）主要以英文文本進行訓練，在中文語境中經常面臨偏見和不準確的問題。它們的局限性在中醫等領域尤為明顯，因為中醫涉及文化和臨床上的微妙之處，而且還缺乏特定領域的數據，例如類風濕關節炎（RA）。為了解決這些問題，本文介紹了 Hengqin-RA-v1，這是第一個專門針對中醫的大型語言模型，重點是診斷和治療 RA。我們還提供了 HQ-GCM-RA-C1，這是一個從古代中醫文獻、古典文本和現代臨床研究中整理出來的、全面的 RA 特定數據集。這個數據集讓 Hengqin-RA-v1 能夠提供準確且符合文化背景的回應，有效地彌補了通用模型留下的空白。大量的實驗表明，Hengqin-RA-v1 優於最先進的模型，在某些情況下甚至超過了中醫從業者的診斷準確性。
-
-##### **Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales**
-2501.02451v1 by Zijie Cheng, Boxuan Li, André Altmann, Pearse A Keane, Yukun Zhou
-
-Contrastive learning, a prominent approach within self-supervised learning,
-has demonstrated significant effectiveness in developing generalizable models
-for various applications involving natural images. However, recent research
-indicates that these successes do not necessarily extend to the medical imaging
-domain. In this paper, we investigate the reasons for this suboptimal
-performance and hypothesize that the dense distribution of medical images poses
-challenges to the pretext tasks in contrastive learning, particularly in
-constructing positive and negative pairs. We explore model performance under
-different augmentation strategies and compare the results to those achieved
-with strong augmentations. Our study includes six publicly available datasets
-covering multiple clinically relevant tasks. We further assess the model's
-generalizability through external evaluations. The model pre-trained with weak
-augmentation outperforms those with strong augmentation, improving AUROC from
-0.838 to 0.848 and AUPR from 0.523 to 0.597 on MESSIDOR2, and showing similar
-enhancements across other datasets. Our findings suggest that optimizing the
-scale of augmentation is critical for enhancing the efficacy of contrastive
-learning in medical imaging.
-
-摘要：對比學習是自監督學習中一種重要的方法，在涉及自然影像的各種應用中，已展現出顯著的有效性，可開發出可概化的模型。然而，最近的研究指出，這些成功並未必然延伸至醫學影像領域。在本文中，我們探討造成這種次佳效能的原因，並假設醫學影像的密集分佈對比學習中的藉口任務造成挑戰，特別是在建構正負對時。我們在不同的擴充策略下探討模型效能，並將結果與強擴充所達成的結果進行比較。我們的研究涵蓋六個公開可用的資料集，涵蓋多項臨床相關任務。我們進一步透過外部評估來評估模型的可概化性。使用弱擴充進行預訓練的模型優於使用強擴充的模型，在 MESSIDOR2 上將 AUROC 從 0.838 提升至 0.848，將 AUPR 從 0.523 提升至 0.597，並在其他資料集上展現類似的提升。我們的研究結果顯示，最佳化擴充規模對於提升對比學習在醫學影像中的效能至關重要。
-
-##### **Enhancing Workplace Productivity and Well-being Using AI Agent**
-2501.02368v1 by Ravirajan K, Arvind Sundarajan
-
-This paper discusses the use of Artificial Intelligence (AI) to enhance
-workplace productivity and employee well-being. By integrating machine learning
-(ML) techniques with neurobiological data, the proposed approaches ensure
-alignment with human ethical standards through value alignment models and
-Hierarchical Reinforcement Learning (HRL) for autonomous task management. The
-system utilizes biometric feedback from employees to generate personalized
-health prompts, fostering a supportive work environment that encourages
-physical activity. Additionally, we explore decentralized multi-agent systems
-for improved collaboration and decision-making frameworks that enhance
-transparency. Various approaches using ML techniques in conjunction with AI
-implementations are discussed. Together, these innovations aim to create a more
-productive and health-conscious workplace. These outcomes assist HR management
-and organizations in launching more rational career progression streams for
-employees and facilitating organizational transformation.
-
-摘要：本文探討利用人工智慧（AI）來提升職場生產力和員工福祉。透過將機器學習（ML）技術與神經生物學資料整合，所提出的方法確保透過價值對齊模型和用於自主任務管理的分層強化學習（HRL）與人類倫理標準保持一致。該系統利用員工的生物特徵回饋來產生個人化健康提示，營造支持性的工作環境，鼓勵身體活動。此外，我們探討分散式多智能體系統，以改善協作和決策制定架構，進而提升透明度。本文討論了各種結合 ML 技術與 AI 實作的方法。總而言之，這些創新旨在創造一個更具生產力且注重健康的職場。這些成果有助於人力資源管理和組織機構為員工啟動更合理的職涯發展管道，並促進組織轉型。
-
-##### **Exploring the Capabilities and Limitations of Large Language Models for Radiation Oncology Decision Support**
-2501.02346v1 by Florian Putz, Marlen Haderleina, Sebastian Lettmaier, Sabine Semrau, Rainer Fietkau, Yixing Huang
-
-Thanks to the rapidly evolving integration of LLMs into decision-support
-tools, a significant transformation is happening across large-scale systems.
-Like other medical fields, the use of LLMs such as GPT-4 is gaining increasing
-interest in radiation oncology as well. An attempt to assess GPT-4's
-performance in radiation oncology was made via a dedicated 100-question
-examination on the highly specialized topic of radiation oncology physics,
-revealing GPT-4's superiority over other LLMs. GPT-4's performance on a broader
-field of clinical radiation oncology is further benchmarked by the ACR
-Radiation Oncology In-Training (TXIT) exam where GPT-4 achieved a high accuracy
-of 74.57%. Its performance on re-labelling structure names in accordance with
-the AAPM TG-263 report has also been benchmarked, achieving above 96%
-accuracies. Such studies shed light on the potential of LLMs in radiation
-oncology. As interest in the potential and constraints of LLMs in general
-healthcare applications continues to rise5, the capabilities and limitations of
-LLMs in radiation oncology decision support have not yet been fully explored.
-
-摘要：隨著 LLM 快速演進整合到決策支援工具中，大規模系統正在發生重大轉變。
-與其他醫療領域一樣，LLM（例如 GPT-4）的使用也在放射腫瘤學中獲得越來越多的興趣。透過針對放射腫瘤學物理學這個高度專業的主題進行 100 題專門考試，試圖評估 GPT-4 在放射腫瘤學中的表現，揭示了 GPT-4 優於其他 LLM。GPT-4 在更廣泛的臨床放射腫瘤學領域的表現進一步由 ACR 放射腫瘤學在職訓練 (TXIT) 考試進行評量，GPT-4 在其中取得 74.57% 的高準確度。它根據 AAPM TG-263 報告重新標記結構名稱的表現也已進行評量，準確度達到 96% 以上。這些研究揭示了 LLM 在放射腫瘤學中的潛力。由於人們持續對 LLM 在一般醫療保健應用中的潛力和限制感興趣5，LLM 在放射腫瘤學決策支援中的功能和限制尚未得到充分探索。
-
-##### **Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**
-2501.02287v1 by Ashiqur Rahman, Muhammad E. H. Chowdhury, Md Sharjis Ibne Wadud, Rusab Sarmun, Adam Mushtak, Sohaib Bassam Zoghoul, Israa Al-Hashimi
-
-Ischemic stroke, caused by cerebral vessel occlusion, presents substantial
-challenges in medical imaging due to the variability and subtlety of stroke
-lesions. Magnetic Resonance Imaging (MRI) plays a crucial role in diagnosing
-and managing ischemic stroke, yet existing segmentation techniques often fail
-to accurately delineate lesions. This study introduces a novel deep
-learning-based method for segmenting ischemic stroke lesions using
-multi-channel MRI modalities, including Diffusion Weighted Imaging (DWI),
-Apparent Diffusion Coefficient (ADC), and enhanced Diffusion Weighted Imaging
-(eDWI). The proposed architecture integrates DenseNet121 as the encoder with
-Self-Organized Operational Neural Networks (SelfONN) in the decoder, enhanced
-by Channel and Space Compound Attention (CSCA) and Double
-Squeeze-and-Excitation (DSE) blocks. Additionally, a custom loss function
-combining Dice Loss and Jaccard Loss with weighted averages is introduced to
-improve model performance. Trained and evaluated on the ISLES 2022 dataset, the
-model achieved Dice Similarity Coefficients (DSC) of 83.88% using DWI alone,
-85.86% with DWI and ADC, and 87.49% with the integration of DWI, ADC, and eDWI.
-This approach not only outperforms existing methods but also addresses key
-limitations in current segmentation practices. These advancements significantly
-enhance diagnostic precision and treatment planning for ischemic stroke,
-providing valuable support for clinical decision-making.
-
-摘要：缺血性中風是由腦血管阻塞所引起，由於中風病灶的可變性和隱蔽性，在醫學影像中造成相當大的挑戰。磁振造影 (MRI) 在診斷和治療缺血性中風中扮演至關重要的角色，但現有的分割技術常常無法準確地描繪病灶。本研究提出一個新的深度學習方法，使用多通道 MRI 模式對缺血性中風病灶進行分割，包括擴散加權影像 (DWI)、表觀擴散係數 (ADC) 和增強型擴散加權影像 (eDWI)。所提出的架構將 DenseNet121 整合為編碼器，並在解碼器中使用自組織運算神經網路 (SelfONN)，並由通道和空間複合注意力 (CSCA) 和雙重擠壓激勵 (DSE) 區塊進行加強。此外，還引進了一個自訂的損失函數，結合了 Dice 損失和 Jaccard 損失以及加權平均，以提升模型效能。在 ISLES 2022 資料集上進行訓練和評估，該模型使用 DWI 單獨時達到 83.88% 的 Dice 相似性係數 (DSC)，使用 DWI 和 ADC 時達到 85.86%，使用 DWI、ADC 和 eDWI 整合時達到 87.49%。這種方法不僅優於現有方法，還能解決當前分割實務中的主要限制。這些進展顯著提升了缺血性中風的診斷精準度和治療規劃，為臨床決策提供有價值的支援。
-
-##### **The Integration of Blockchain and Artificial Intelligence for Secure Healthcare Systems**
-2501.02169v1 by Umar Safdar, Simon Gabrael
-
-Verisign reported a 125 percent increase in data breaches within the
-healthcare sector in the United States during 2022, with 18.2 million patient
-records being impacted. Growing healthcare data volumes and diversification
-mean that medical information is becoming more valuable. Many Health Centers
-use various technologies to ease the classification, storage, and exchange of
-big data. This use can also make the health data of the users at risk and
-vulnerable. AI and blockchain are among the leading technologies at hand. With
-AI, data-driven operations and big data efficiency have been improved with
-respect to traditional techniques. Due to its potential to bring about
-improvements in health services and lower medical costs, this AI technology is
-regularly used in healthcare. Blockchain helps protect transactions on sharing
-information and private privacy as long as the exchange of knowledge is that of
-the standard. The objective of this analysis is to investigate the research and
-unique contributions since 2008 regarding blockchain-integrated AI and
-healthcare systems. The work sheds light on applied AI-based healthcare schemes
-with machine, ballistic, and acrylic learning and disparate blockchain
-structures. The use of technology in order to ensure patient data security and
-manage medical information effectively in healthcare settings offers a highly
-successful position for both healthcare providers and patients. From 2018 to
-2021, the best year was 2021 to grow, enhancing everything to examine the
-download of the device and the counting of Google Academies, for which the
-joining perspective was borrowed; local research experts were asked, identified
-articles in recent years, and read reviews of large research grants.
-
-摘要：Verisign 報告 2022 年美國醫療保健部門的資料外洩事件增加了 125%，影響了 1,820 萬筆病歷。醫療保健資料量不斷增加且多元化，這表示醫療資訊變得更有價值。許多醫療中心使用各種技術，以簡化大數據的分類、儲存和交換。這種使用方式也可能使使用者的健康資料面臨風險和脆弱性。人工智慧和區塊鏈是現有的領先技術。透過人工智慧，資料驅動的運作和大數據效率已相較於傳統技術獲得改善。由於人工智慧技術有潛力改善醫療服務並降低醫療成本，因此經常在醫療保健中使用。區塊鏈有助於保護交易，在資訊共享和隱私方面，只要知識的交換是標準的。本分析的目標是調查自 2008 年以來與區塊鏈整合人工智慧和醫療保健系統相關的研究和獨特貢獻。這項工作闡明了應用人工智慧為基礎的醫療保健計畫，包括機器、彈道和丙烯酸學習以及不同的區塊鏈結構。為了確保病患資料安全並在醫療保健環境中有效管理醫療資訊，使用技術為醫療保健提供者和病患提供了極為成功的定位。從 2018 年到 2021 年，最適合成長的是 2021 年，加強所有一切，以檢查裝置的下載和 Google 學術的計數，借用了加入的觀點；詢問了當地研究專家，找出近年來的文章，並閱讀大型研究補助金的評論。
-
-##### **Online Detection of Water Contamination Under Concept Drift**
-2501.02107v1 by Jin Li, Kleanthis Malialis, Stelios G. Vrachimis, Marios M. Polycarpou
-
-Water Distribution Networks (WDNs) are vital infrastructures, and
-contamination poses serious public health risks. Harmful substances can
-interact with disinfectants like chlorine, making chlorine monitoring essential
-for detecting contaminants. However, chlorine sensors often become unreliable
-and require frequent calibration. This study introduces the Dual-Threshold
-Anomaly and Drift Detection (AD&DD) method, an unsupervised approach combining
-a dual-threshold drift detection mechanism with an LSTM-based Variational
-Autoencoder(LSTM-VAE) for real-time contamination detection. Tested on two
-realistic WDNs, AD&DD effectively identifies anomalies with sensor offsets as
-concept drift, and outperforms other methods. A proposed decentralized
-architecture enables accurate contamination detection and localization by
-deploying AD&DD on selected nodes.
-
-摘要：配水網路 (WDN) 是重要的基礎設施，而污染會造成嚴重的公共衛生風險。有害物質可能會與消毒劑（如氯氣）交互作用，因此監測氯氣對於偵測污染物至關重要。然而，氯氣感測器常常變得不可靠，需要頻繁校正。本研究提出雙閾值異常與漂移偵測 (AD&DD) 方法，這是一種非監督式方法，結合雙閾值漂移偵測機制與基於 LSTM 的變異自動編碼器 (LSTM-VAE)，用於即時污染偵測。在兩個實際的 WDN 上進行測試，AD&DD 能有效地將感測器偏移視為概念漂移，並優於其他方法。所提出的分散式架構能透過在選定的節點部署 AD&DD，實現精確的污染偵測與定位。
-
-##### **METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring**
-2501.02045v1 by Ollie Liu, Sami Jaghouar, Johannes Hagemann, Shangshang Wang, Jason Wiemels, Jeff Kaufman, Willie Neiswanger
-
-We pretrain METAGENE-1, a 7-billion-parameter autoregressive transformer
-model, which we refer to as a metagenomic foundation model, on a novel corpus
-of diverse metagenomic DNA and RNA sequences comprising over 1.5 trillion base
-pairs. This dataset is sourced from a large collection of human wastewater
-samples, processed and sequenced using deep metagenomic (next-generation)
-sequencing methods. Unlike genomic models that focus on individual genomes or
-curated sets of specific species, the aim of METAGENE-1 is to capture the full
-distribution of genomic information present within this wastewater, to aid in
-tasks relevant to pandemic monitoring and pathogen detection. We carry out
-byte-pair encoding (BPE) tokenization on our dataset, tailored for metagenomic
-sequences, and then pretrain our model. In this paper, we first detail the
-pretraining dataset, tokenization strategy, and model architecture,
-highlighting the considerations and design choices that enable the effective
-modeling of metagenomic data. We then show results of pretraining this model on
-our metagenomic dataset, providing details about our losses, system metrics,
-and training stability over the course of pretraining. Finally, we demonstrate
-the performance of METAGENE-1, which achieves state-of-the-art results on a set
-of genomic benchmarks and new evaluations focused on human-pathogen detection
-and genomic sequence embedding, showcasing its potential for public health
-applications in pandemic monitoring, biosurveillance, and early detection of
-emerging health threats.
-
-摘要：<paragraph>我們預訓練了一個具有 70 億個參數的自迴歸轉換器模型 METAGENE-1，我們稱之為宏基因組基礎模型，它建立在一個新穎的語料庫上，其中包含超過 1.5 兆個鹼基對的多樣化宏基因組 DNA 和 RNA 序列。此數據集來自大量人類廢水樣本，使用深度宏基因組（下一代）定序方法進行處理和定序。與專注於個別基因組或特定物種策劃集合的基因組模型不同，METAGENE-1 的目標是擷取此廢水中存在的基因組資訊的完整分佈，以協助與大流行監測和病原體檢測相關的任務。我們對數據集執行針對宏基因組序列量身打造的位元組對編碼 (BPE) 標記化，然後預訓練我們的模型。在本文中，我們首先詳細說明預訓練數據集、標記化策略和模型架構，重點說明能有效建模宏基因組數據的考量和設計選擇。然後，我們展示了在我們的宏基因組數據集上預訓練此模型的結果，提供有關我們的損失、系統指標和在預訓練過程中訓練穩定性的詳細資訊。最後，我們展示了 METAGENE-1 的效能，它在針對人類病原體檢測和基因組序列嵌入的一組基因組基準和新評估中達到了最先進的結果，展示了其在公共衛生應用中的潛力，包括大流行監測、生物監控和新興健康威脅的早期檢測。</paragraph>
-
-##### **Advancing Pancreatic Cancer Prediction with a Next Visit Token Prediction Head on top of Med-BERT**
-2501.02044v1 by Jianping He, Laila Rasmy, Degui Zhi, Cui Tao
-
-Background: Recently, numerous foundation models pretrained on extensive data
-have demonstrated efficacy in disease prediction using Electronic Health
-Records (EHRs). However, there remains some unanswered questions on how to best
-utilize such models especially with very small fine-tuning cohorts. Methods: We
-utilized Med-BERT, an EHR-specific foundation model, and reformulated the
-disease binary prediction task into a token prediction task and a next visit
-mask token prediction task to align with Med-BERT's pretraining task format in
-order to improve the accuracy of pancreatic cancer (PaCa) prediction in both
-few-shot and fully supervised settings. Results: The reformulation of the task
-into a token prediction task, referred to as Med-BERT-Sum, demonstrates
-slightly superior performance in both few-shot scenarios and larger data
-samples. Furthermore, reformulating the prediction task as a Next Visit Mask
-Token Prediction task (Med-BERT-Mask) significantly outperforms the
-conventional Binary Classification (BC) prediction task (Med-BERT-BC) by 3% to
-7% in few-shot scenarios with data sizes ranging from 10 to 500 samples. These
-findings highlight that aligning the downstream task with Med-BERT's
-pretraining objectives substantially enhances the model's predictive
-capabilities, thereby improving its effectiveness in predicting both rare and
-common diseases. Conclusion: Reformatting disease prediction tasks to align
-with the pretraining of foundation models enhances prediction accuracy, leading
-to earlier detection and timely intervention. This approach improves treatment
-effectiveness, survival rates, and overall patient outcomes for PaCa and
-potentially other cancers.
-
-摘要：背景：最近，大量基于广泛数据进行预训练的基础模型已证明在使用电子健康记录 (EHR) 预测疾病方面有效。然而，关于如何最好地利用此类模型（尤其是在极小微调队列中）仍有一些未解决的问题。方法：我们利用了 EHR 特定的基础模型 Med-BERT，并将疾病二元预测任务重新表述为标记预测任务和下次访问掩码标记预测任务，以与 Med-BERT 的预训练任务格式保持一致，从而提高胰腺癌 (PaCa) 预测的准确性，无论是在小样本还是完全监督的设置中。结果：将任务重新表述为标记预测任务（称为 Med-BERT-Sum），在小样本场景和较大数据样本中均表现出略微优越的性能。此外，将预测任务重新表述为下一次访问掩码标记预测任务（Med-BERT-Mask）在小样本场景中明显优于传统的二元分类 (BC) 预测任务（Med-BERT-BC），数据大小从 10 到 500 个样本不等，优越幅度为 3% 到 7%。这些发现强调，将下游任务与 Med-BERT 的预训练目标保持一致，可以显着增强模型的预测能力，从而提高其预测罕见疾病和常见疾病的有效性。结论：重新格式化疾病预测任务以与基础模型的预训练保持一致，可提高预测准确性，从而实现早期检测和及时干预。这种方法提高了 PaCa 和其他癌症的治疗效果、存活率和患者总体预后。
-
-##### **Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**
-2501.01732v1 by Shivom Aggarwal, Shourya Mehra, Safeer Sathar
-
-Customer Identity and Access Management (CIAM) systems play a pivotal role in
-securing enterprise infrastructures. However, the complexity of implementing
-these systems requires careful architectural planning to ensure positive Return
-on Investment (RoI) and avoid costly delays. The proliferation of Active
-Persistent cyber threats, coupled with advancements in AI, cloud computing, and
-geographically distributed customer populations, necessitates a paradigm shift
-towards adaptive and zero-trust security frameworks. This paper introduces the
-Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM
-architecture, designed specifically for large-scale enterprises. The CHEZ PL
-CIAM-PAM framework addresses critical security gaps by integrating federated
-identity management (private and public identities), password-less
-authentication, adaptive multi-factor authentication (MFA), microservice-based
-PEP (Policy Entitlement Point), multi-layer RBAC (Role Based Access Control)
-and multi-level trust systems. This future-proof design also includes
-end-to-end data encryption, and seamless integration with state-of-the-art
-AI-based threat detection systems, while ensuring compliance with stringent
-regulatory standards.
-
-摘要：客戶身分與存取管理 (CIAM) 系統在確保企業基礎設施安全方面扮演著關鍵角色。然而，實作這些系統的複雜性需要仔細的架構規劃，以確保投資報酬率 (RoI) 為正，並避免成本高昂的延誤。主動持續的網路威脅的擴散，加上人工智慧、雲端運算和地理分布的客戶群的進步，需要朝向適應性和零信任安全架構轉變。本文介紹專為大型企業設計的 Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM 架構。CHEZ PL CIAM-PAM 架構透過整合聯合身分管理（私人和公用身分）、無密碼驗證、適應性多重身分驗證 (MFA)、基於微服務的 PEP（政策授權點）、多層 RBAC（基於角色的存取控制）和多層級信任系統來解決關鍵的安全漏洞。這種具備未來性的設計也包含端對端資料加密，並與最先進的基於人工智慧的威脅偵測系統無縫整合，同時確保符合嚴格的法規標準。
-
-##### **EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**
-2501.01658v1 by Wang Lituan, Zhang Lei, Wang Yan, Wang Zhenbin, Zhang Zhenwei, Zhang Yi
-
-Weakly-supervised medical image segmentation is gaining traction as it
-requires only rough annotations rather than accurate pixel-to-pixel labels,
-thereby reducing the workload for specialists. Although some progress has been
-made, there is still a considerable performance gap between the label-efficient
-methods and fully-supervised one, which can be attributed to the uncertainty
-nature of these weak labels. To address this issue, we propose a novel weak
-annotation method coupled with its learning framework EAUWSeg to eliminate the
-annotation uncertainty. Specifically, we first propose the Bounded Polygon
-Annotation (BPAnno) by simply labeling two polygons for a lesion. Then, the
-tailored learning mechanism that explicitly treat bounded polygons as two
-separated annotations is proposed to learn invariant feature by providing
-adversarial supervision signal for model training. Subsequently, a
-confidence-auxiliary consistency learner incorporates with a
-classification-guided confidence generator is designed to provide reliable
-supervision signal for pixels in uncertain region by leveraging the feature
-presentation consistency across pixels within the same category as well as
-class-specific information encapsulated in bounded polygons annotation.
-Experimental results demonstrate that EAUWSeg outperforms existing
-weakly-supervised segmentation methods. Furthermore, compared to
-fully-supervised counterparts, the proposed method not only delivers superior
-performance but also costs much less annotation workload. This underscores the
-superiority and effectiveness of our approach.
-
-摘要：弱监督医学影像分割正获得关注，因为它只需要粗略的注释，而不是精确的像素到像素标签，从而减少了专家的工作量。尽管取得了一些进展，但在标签高效方法和完全监督方法之间仍然存在相当大的性能差距，这可归因于这些弱标签的不确定性。为了解决这个问题，我们提出了一种新的弱注释方法，并结合其学习框架 EAUWSeg 来消除注释的不确定性。具体来说，我们首先通过简单地为病灶标记两个多边形来提出有界多边形注释 (BPAnno)。然后，提出了将有界多边形明确地视为两个分离注释的定制学习机制，以通过为模型训练提供对抗性监督信号来学习不变特征。随后，置信辅助一致性学习器与分类引导置信度生成器结合设计，以通过利用同一类别内像素的特征表示一致性以及有界多边形注释中封装的特定于类的信息，为不确定区域中的像素提供可靠的监督信号。实验结果表明，EAUWSeg 优于现有的弱监督分割方法。此外，与完全监督的对应方法相比，所提出的方法不仅提供了卓越的性能，而且注释工作量也大大减少。这突出了我们方法的优越性和有效性。
-
-##### **Implications of Artificial Intelligence on Health Data Privacy and Confidentiality**
-2501.01639v2 by Ahmad Momani
-
-The rapid integration of artificial intelligence (AI) in healthcare is
-revolutionizing medical diagnostics, personalized medicine, and operational
-efficiency. However, alongside these advancements, significant challenges arise
-concerning patient data privacy, ethical considerations, and regulatory
-compliance. This paper examines the dual impact of AI on healthcare,
-highlighting its transformative potential and the critical need for
-safeguarding sensitive health information. It explores the role of the Health
-Insurance Portability and Accountability Act (HIPAA) as a regulatory framework
-for ensuring data privacy and security, emphasizing the importance of robust
-safeguards and ethical standards in AI-driven healthcare. Through case studies,
-including AI applications in diabetic retinopathy, oncology, and the
-controversies surrounding data sharing, this study underscores the ethical and
-legal complexities of AI implementation. A balanced approach that fosters
-innovation while maintaining patient trust and privacy is imperative. The
-findings emphasize the importance of continuous education, transparency, and
-adherence to regulatory frameworks to harness AI's full potential responsibly
-and ethically in healthcare.
-
-摘要：人工智慧 (AI) 在醫療保健領域的快速整合，正在徹底變革醫療診斷、個人化醫療和營運效率。然而，隨著這些進步，也出現了關於患者資料隱私、倫理考量和法規遵循的重大挑戰。本文探討了 AI 對醫療保健的雙重影響，強調其轉型潛力以及保護敏感健康資訊的關鍵需求。本文探討了健康保險可攜性和責任法案 (HIPAA) 作為確保資料隱私和安全的法規架構的角色，強調在 AI 驅動的醫療保健中健全保障措施和道德標準的重要性。本研究透過案例研究，包括 AI 在糖尿病視網膜病變、腫瘤學中的應用，以及圍繞資料共享的爭議，強調了 AI 實施的倫理和法律複雜性。一種平衡的方法，在促進創新的同時，維護患者的信任和隱私，至關重要。研究結果強調了持續教育、透明度和遵守法規框架的重要性，以負責任且合乎道德的方式利用 AI 在醫療保健中的全部潛力。
-
-##### **Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**
-2501.01618v1 by Yun Zhu, Dong Zhang, Yi Lin, Yifei Feng, Jinhui Tang
-
-Medical image segmentation demands the aggregation of global and local
-feature representations, posing a challenge for current methodologies in
-handling both long-range and short-range feature interactions. Recently, vision
-mamba (ViM) models have emerged as promising solutions for addressing model
-complexities by excelling in long-range feature iterations with linear
-complexity. However, existing ViM approaches overlook the importance of
-preserving short-range local dependencies by directly flattening spatial tokens
-and are constrained by fixed scanning patterns that limit the capture of
-dynamic spatial context information. To address these challenges, we introduce
-a simple yet effective method named context clustering ViM (CCViM), which
-incorporates a context clustering module within the existing ViM models to
-segment image tokens into distinct windows for adaptable local clustering. Our
-method effectively combines long-range and short-range feature interactions,
-thereby enhancing spatial contextual representations for medical image
-segmentation tasks. Extensive experimental evaluations on diverse public
-datasets, i.e., Kumar, CPM17, ISIC17, ISIC18, and Synapse demonstrate the
-superior performance of our method compared to current state-of-the-art
-methods. Our code can be found at https://github.com/zymissy/CCViM.
-
-摘要：醫療影像分割需要聚合全局和局部特徵表示，對當前方法處理長程和短程特徵交互構成挑戰。最近，視覺曼巴 (ViM) 模型已成為解決模型複雜性的有前途的解決方案，它在線性複雜度下擅長長程特徵迭代。然而，現有的 ViM 方法忽視了透過直接壓平空間標記來保留短程局部依賴性的重要性，並且受到限制的掃描模式的約束，這會限制動態空間背景資訊的擷取。為了解決這些挑戰，我們引入了一種名為背景聚類 ViM (CCViM) 的簡單但有效的方法，它在現有的 ViM 模型中加入了一個背景聚類模組，將影像標記分割成不同的視窗，以進行適應性局部聚類。我們的模型有效地結合了長程和短程特徵交互，從而增強了用於醫療影像分割任務的空間背景表示。在各種公開資料集（即 Kumar、CPM17、ISIC17、ISIC18 和 Synapse）上進行的廣泛實驗評估證明了我們的方法與當前最先進方法相比具有卓越的效能。我們的程式碼可以在 https://github.com/zymissy/CCViM 找到。
-
-##### **PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**
-2501.01594v1 by Jingoo Lee, Kyungho Lim, Young-Chul Jung, Byung-Hoon Kim
-
-Recent advances in large language models (LLMs) have accelerated the
-development of conversational agents capable of generating human-like
-responses. Since psychiatric assessments typically involve complex
-conversational interactions between psychiatrists and patients, there is
-growing interest in developing LLM-based psychiatric assessment conversational
-agents (PACAs) that aim to simulate the role of psychiatrists in clinical
-evaluations. However, standardized methods for benchmarking the clinical
-appropriateness of PACAs' interaction with patients still remain underexplored.
-Here, we propose PSYCHE, a novel framework designed to enable the 1) clinically
-relevant, 2) ethically safe, 3) cost-efficient, and 4) quantitative evaluation
-of PACAs. This is achieved by simulating psychiatric patients based on a
-multi-faceted psychiatric construct that defines the simulated patients'
-profiles, histories, and behaviors, which PACAs are expected to assess. We
-validate the effectiveness of PSYCHE through a study with 10 board-certified
-psychiatrists, supported by an in-depth analysis of the simulated patient
-utterances.
-
-摘要：大型語言模型 (LLM) 的最新進展加速了會話代理的開發，這些代理能夠產生類似人類的回應。由於精神科評估通常涉及精神科醫師和患者之間複雜的會話互動，因此對於開發基於 LLM 的精神科評估會話代理 (PACA) 的興趣與日俱增，這些代理旨在模擬精神科醫師在臨床評估中的角色。然而，用於評量 PACA 與患者互動的臨床適當性的標準化方法仍未被充分探討。在此，我們提出 PSYCHE，一個新穎的框架，旨在實現 1) 臨床相關、2) 道德安全、3) 成本效益，以及 4) PACA 的定量評估。這是透過模擬基於多面向精神科建構的精神科患者來實現的，該建構定義了模擬患者的個人資料、病史和行為，而 PACA 預計會評估這些內容。我們透過一項有 10 位經認證的精神科醫師參與的研究驗證了 PSYCHE 的有效性，並輔以對模擬患者話語的深入分析。
-
-##### **Model Checking in Medical Imaging for Tumor Detection and Segmentation**
-2501.02024v2 by Elhoucine Elfatimi, Lahcen El fatimi
-
-Recent advancements in model checking have demonstrated significant potential
-across diverse applications, particularly in signal and image analysis. Medical
-imaging stands out as a critical domain where model checking can be effectively
-applied to design and evaluate robust frameworks. These frameworks facilitate
-automatic and semi-automatic delineation of regions of interest within images,
-aiding in accurate segmentation. This paper provides a comprehensive analysis
-of recent works leveraging spatial logic to develop operators and tools for
-identifying regions of interest, including tumorous and non-tumorous areas.
-Additionally, we examine the challenges inherent to spatial model-checking
-techniques, such as variability in ground truth data and the need for
-streamlined procedures suitable for routine clinical practice.
-
-摘要：近來模型檢定的進展顯示出在各種應用中具有顯著的潛力，特別是在訊號和影像分析中。醫療成像作為一個關鍵領域，模型檢定可以有效地應用於設計和評估穩健的架構。這些架構有助於自動和半自動地描繪影像中的感興趣區域，有助於準確的分割。本文對近來利用空間邏輯開發運算子和工具以識別感興趣區域（包括腫瘤和非腫瘤區域）的相關研究進行了全面的分析。此外，我們探討了空間模型檢定技術固有的挑戰，例如基本事實資料的可變性以及對適合常規臨床實務的簡化程序的需求。
-
-##### **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**
-2501.01377v1 by Yucheng Zhou, Lingran Song, Jianbing Shen
-
-Existing Medical Large Vision-Language Models (Med-LVLMs), which encapsulate
-extensive medical knowledge, demonstrate excellent capabilities in
-understanding medical images and responding to human queries based on these
-images. However, there remain challenges in visual localization in medical
-images, which is crucial for abnormality detection and interpretation. To
-address these issues, we propose a novel UMed-LVLM designed with Unveiling
-Medical abnormalities. Specifically, we collect a Medical Abnormalities
-Unveiling (MAU) dataset and propose a two-stage training method for UMed-LVLM
-training. To collect MAU dataset, we propose a prompt method utilizing the
-GPT-4V to generate diagnoses based on identified abnormal areas in medical
-images. Moreover, the two-stage training method includes Abnormal-Aware
-Instruction Tuning and Abnormal-Aware Rewarding, comprising Abnormal
-Localization Rewarding and Vision Relevance Rewarding. Experimental results
-demonstrate that our UMed-LVLM surpasses existing Med-LVLMs in identifying and
-understanding medical abnormality. In addition, this work shows that enhancing
-the abnormality detection capabilities of Med-LVLMs significantly improves
-their understanding of medical images and generalization capability.
-
-摘要：現有的醫療大型視覺語言模型 (Med-LVLMs) 封裝了廣泛的醫療知識，在理解醫療影像和根據這些影像回應人類查詢方面表現出色的能力。然而，在醫療影像中進行視覺定位仍存在挑戰，這對於異常偵測和解讀至關重要。為了解決這些問題，我們提出了一種新穎的 UMed-LVLM，其設計用於揭示醫療異常。具體來說，我們收集了一個醫療異常揭示 (MAU) 資料集，並為 UMed-LVLM 訓練提出了一個兩階段訓練方法。為了收集 MAU 資料集，我們提出了一種提示方法，利用 GPT-4V 根據醫療影像中識別出的異常區域生成診斷。此外，兩階段訓練方法包括異常感知指導調整和異常感知獎勵，包括異常定位獎勵和視覺相關性獎勵。實驗結果表明，我們的 UMed-LVLM 在識別和理解醫療異常方面優於現有的 Med-LVLMs。此外，這項工作表明，增強 Med-LVLMs 的異常偵測能力可以顯著提升它們對醫療影像的理解和泛化能力。
-
-##### **ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**
-2501.01372v1 by Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim
-
-Background: Late Gadolinium Enhancement (LGE) imaging is the gold standard
-for assessing myocardial fibrosis and scarring, with left ventricular (LV) LGE
-extent predicting major adverse cardiac events (MACE). Despite its importance,
-routine LGE-based LV scar quantification is hindered by labor-intensive manual
-segmentation and inter-observer variability. Methods: We propose ScarNet, a
-hybrid model combining a transformer-based encoder from the Medical Segment
-Anything Model (MedSAM) with a convolution-based U-Net decoder, enhanced by
-tailored attention blocks. ScarNet was trained on 552 ischemic cardiomyopathy
-patients with expert segmentations of myocardial and scar boundaries and tested
-on 184 separate patients. Results: ScarNet achieved robust scar segmentation in
-184 test patients, yielding a median Dice score of 0.912 (IQR: 0.863--0.944),
-significantly outperforming MedSAM (median Dice = 0.046, IQR: 0.043--0.047) and
-nnU-Net (median Dice = 0.638, IQR: 0.604--0.661). ScarNet demonstrated lower
-bias (-0.63%) and coefficient of variation (4.3%) compared to MedSAM (bias:
--13.31%, CoV: 130.3%) and nnU-Net (bias: -2.46%, CoV: 20.3%). In Monte Carlo
-simulations with noise perturbations, ScarNet achieved significantly higher
-scar Dice (0.892 \pm 0.053, CoV = 5.9%) than MedSAM (0.048 \pm 0.112, CoV =
-233.3%) and nnU-Net (0.615 \pm 0.537, CoV = 28.7%). Conclusion: ScarNet
-outperformed MedSAM and nnU-Net in accurately segmenting myocardial and scar
-boundaries in LGE images. The model exhibited robust performance across diverse
-image qualities and scar patterns.
-
-摘要：<paragraph>背景：延迟钆增强（LGE）成像用于评估心肌纤维化和瘢痕的黄金标准，左心室 (LV) LGE 范围预测重大的心脏不良事件 (MACE)。尽管其重要性，但基于 LGE 的常规 LV 瘢痕量化受到劳动密集型手动分割和观察者间差异的阻碍。方法：我们提出 ScarNet，一种混合模型，它将来自医学分割任何模型 (MedSAM) 的基于 Transformer 的编码器与基于卷积的 U-Net 解码器相结合，并通过定制的注意力块进行增强。ScarNet 在 552 例缺血性心肌病患者上接受训练，这些患者的心肌和瘢痕边界由专家分割，并在 184 例单独患者上进行测试。结果：ScarNet 在 184 例测试患者中实现了稳健的瘢痕分割，产生 0.912 的中值 Dice 得分（IQR：0.863--0.944），明显优于 MedSAM（中值 Dice = 0.046，IQR：0.043--0.047）和 nnU-Net（中值 Dice = 0.638，IQR：0.604--0.661）。与 MedSAM（偏差：-13.31%，CoV：130.3%）和 nnU-Net（偏差：-2.46%，CoV：20.3%）相比，ScarNet 表现出较低的偏差（-0.63%）和变异系数（4.3%）。在带有噪声扰动的蒙特卡罗模拟中，ScarNet 实现了明显高于 MedSAM（0.048 ± 0.112，CoV = 233.3%）和 nnU-Net（0.615 ± 0.537，CoV = 28.7%）的瘢痕 Dice（0.892 ± 0.053，CoV = 5.9%）。结论：ScarNet 在准确分割 LGE 图像中的心肌和瘢痕边界方面优于 MedSAM 和 nnU-Net。该模型在不同的图像质量和瘢痕模式下表现出稳健的性能。</paragraph>
-
-##### **Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**
-2501.01367v1 by Nathaniel Dennler, Stefanos Nikolaidis, Maja Matarić
-
-People have a variety of preferences for how robots behave. To understand and
-reason about these preferences, robots aim to learn a reward function that
-describes how aligned robot behaviors are with a user's preferences. Good
-representations of a robot's behavior can significantly reduce the time and
-effort required for a user to teach the robot their preferences. Specifying
-these representations -- what "features" of the robot's behavior matter to
-users -- remains a difficult problem; Features learned from raw data lack
-semantic meaning and features learned from user data require users to engage in
-tedious labeling processes. Our key insight is that users tasked with
-customizing a robot are intrinsically motivated to produce labels through
-exploratory search; they explore behaviors that they find interesting and
-ignore behaviors that are irrelevant. To harness this novel data source of
-exploratory actions, we propose contrastive learning from exploratory actions
-(CLEA) to learn trajectory features that are aligned with features that users
-care about. We learned CLEA features from exploratory actions users performed
-in an open-ended signal design activity (N=25) with a Kuri robot, and evaluated
-CLEA features through a second user study with a different set of users (N=42).
-CLEA features outperformed self-supervised features when eliciting user
-preferences over four metrics: completeness, simplicity, minimality, and
-explainability.
-
-摘要：人們對於機器人的行為方式有各種偏好。為了理解和推論這些偏好，機器人旨在學習一個獎勵函數，說明機器人的行為與使用者的偏好有多麼一致。良好的機器人行為表示可以大幅減少使用者教導機器人其偏好所需的時間和精力。說明這些表示——機器人行為的哪些「特徵」對使用者來說很重要——仍然是一個困難的問題；從原始資料學習到的特徵缺乏語意意義，而從使用者資料學習到的特徵需要使用者參與繁瑣的標籤處理程序。我們的關鍵見解是，負責自訂機器人的使用者本質上會透過探索性搜尋產生標籤；他們會探索他們覺得有趣的行為，並忽略不相關的行為。為了利用這個探索性動作的新穎資料來源，我們提出從探索性動作中進行對比學習 (CLEA)，以學習與使用者關心的特徵一致的軌跡特徵。我們從使用者在與 Kuri 機器人的開放式訊號設計活動 (N=25) 中執行的探索性動作中學習了 CLEA 特徵，並透過第二個使用者研究對 CLEA 特徵進行評估，該研究使用了一組不同的使用者 (N=42)。在引出使用者偏好時，CLEA 特徵在四個指標上優於自監督特徵：完整性、簡潔性、最小性、可解釋性。
-
-##### **Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**
-2501.01311v1 by Bohang Sun, Pietro Liò
-
-In this study, we introduce the Multi-Head Explainer (MHEX), a versatile and
-modular framework that enhances both the explainability and accuracy of
-Convolutional Neural Networks (CNNs) and Transformer-based models. MHEX
-consists of three core components: an Attention Gate that dynamically
-highlights task-relevant features, Deep Supervision that guides early layers to
-capture fine-grained details pertinent to the target class, and an Equivalent
-Matrix that unifies refined local and global representations to generate
-comprehensive saliency maps. Our approach demonstrates superior compatibility,
-enabling effortless integration into existing residual networks like ResNet and
-Transformer architectures such as BERT with minimal modifications. Extensive
-experiments on benchmark datasets in medical imaging and text classification
-show that MHEX not only improves classification accuracy but also produces
-highly interpretable and detailed saliency scores.
-
-摘要：在這項研究中，我們引入了多頭解釋器 (MHEX)，一個多功能且模組化的架構，用於增強卷積神經網路 (CNN) 和 Transformer 為基礎的模型的可解釋性和準確性。MHEX 包含三個核心元件：一個動態突顯與任務相關特徵的注意力閘門、引導早期層捕捉與目標類別相關的細緻細節的深度監督，以及一個統一精緻的局部和全局表示以產生全面的顯著性圖的等效矩陣。我們的做法展現出優異的相容性，讓 ResNet 等現有的殘差網路和 BERT 等 Transformer 架構能夠輕鬆整合，而且修改幅度極小。在醫學影像和文字分類的基準資料集上進行的廣泛實驗顯示，MHEX 不僅能提升分類準確性，還能產生高度可解釋且詳細的顯著性分數。
-
-##### **Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**
-2501.02014v1 by Masahiro Matsumoto, Abu Saleh Musa Miah, Nobuyoshi Asai, Jungpil Shin
-
-Parkinson's disease (PD), the second most common neurodegenerative disorder,
-is characterized by dopaminergic neuron loss and the accumulation of abnormal
-synuclein. PD presents both motor and non-motor symptoms that progressively
-impair daily functioning. The severity of these symptoms is typically assessed
-using the MDS-UPDRS rating scale, which is subjective and dependent on the
-physician's experience. Additionally, PD shares symptoms with other
-neurodegenerative diseases, such as progressive supranuclear palsy (PSP) and
-multiple system atrophy (MSA), complicating accurate diagnosis. To address
-these diagnostic challenges, we propose a machine learning-based system for
-differential diagnosis of PD, PSP, MSA, and healthy controls (HC). This system
-utilizes a kinematic feature-based hierarchical feature extraction and
-selection approach. Initially, 18 kinematic features are extracted, including
-two newly proposed features: Thumb-to-index vector velocity and acceleration,
-which provide insights into motor control patterns. In addition, 41 statistical
-features were extracted here from each kinematic feature, including some new
-approaches such as Average Absolute Change, Rhythm, Amplitude, Frequency,
-Standard Deviation of Frequency, and Slope. Feature selection is performed
-using One-way ANOVA to rank features, followed by Sequential Forward Floating
-Selection (SFFS) to identify the most relevant ones, aiming to reduce the
-computational complexity. The final feature set is used for classification,
-achieving a classification accuracy of 66.67% for each dataset and 88.89% for
-each patient, with particularly high performance for the MSA and HC groups
-using the SVM algorithm. This system shows potential as a rapid and accurate
-diagnostic tool in clinical practice, though further data collection and
-refinement are needed to enhance its reliability.
-
-摘要：帕金森氏症（PD）是第二常见的脑神经退化性疾病，
-其特征是多巴胺能神经元丧失和异常α-突触核蛋白的积累。PD 同时出现运动和非运动症状，这些症状会逐渐损害日常功能。这些症状的严重程度通常使用 MDS-UPDRS 评定量表进行评估，该量表是主观的，并且依赖于医生的经验。此外，PD 与其他神经退化性疾病（例如进行性核上性麻痹 (PSP) 和多系统萎缩 (MSA)）有相同的症状，这使得准确诊断变得复杂。为了应对这些诊断挑战，我们提出了一种基于机器学习的系统，用于 PD、PSP、MSA 和健康对照 (HC) 的鉴别诊断。该系统利用基于运动学特征的分层特征提取和选择方法。最初，提取了 18 个运动学特征，包括两个新提出的特征：拇指到食指的矢量速度和加速度，它们提供了对运动控制模式的见解。此外，此处从每个运动学特征中提取了 41 个统计特征，包括一些新方法，例如平均绝对变化、节奏、振幅、频率、频率标准差和斜率。使用单向方差分析对特征进行排名，然后使用顺序前向浮动选择 (SFFS) 识别最相关的特征，以降低计算复杂度。最终特征集用于分类，对于每个数据集，分类准确率达到 66.67%，对于每个患者，准确率达到 88.89%，使用 SVM 算法时，MSA 和 HC 组的性能尤其高。该系统显示出作为临床实践中快速且准确的诊断工具的潜力，尽管需要进一步收集数据和改进以增强其可靠性。
-
-##### **Data Augmentation Techniques for Chinese Disease Name Normalization**
-2501.01195v1 by Wenqian Cui, Xiangling Fu, Shaohui Liu, Mingjun Gu, Xien Liu, Ji Wu, Irwin King
-
-Disease name normalization is an important task in the medical domain. It
-classifies disease names written in various formats into standardized names,
-serving as a fundamental component in smart healthcare systems for various
-disease-related functions. Nevertheless, the most significant obstacle to
-existing disease name normalization systems is the severe shortage of training
-data. Consequently, we present a novel data augmentation approach that includes
-a series of data augmentation techniques and some supporting modules to help
-mitigate the problem. Through extensive experimentation, we illustrate that our
-proposed approach exhibits significant performance improvements across various
-baseline models and training objectives, particularly in scenarios with limited
-training data
-
-摘要：疾病名稱正規化是醫學領域中一項重要的任務。它將以各種格式書寫的疾病名稱分類為標準化名稱，作為智慧醫療系統中各種疾病相關功能的基本組成部分。然而，現有疾病名稱正規化系統最顯著的障礙是訓練資料嚴重短缺。因此，我們提出了一種新穎的資料擴充方法，其中包括一系列資料擴充技術和一些輔助模組，以幫助減輕這個問題。透過廣泛的實驗，我們說明我們提出的方法在各種基線模型和訓練目標中展現出顯著的效能提升，特別是在訓練資料有限的情況下
-
-##### **Reasoning based on symbolic and parametric knowledge bases: a survey**
-2501.01030v1 by Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, Ke Sun, Tieyun Qian
-
-Reasoning is fundamental to human intelligence, and critical for
-problem-solving, decision-making, and critical thinking. Reasoning refers to
-drawing new conclusions based on existing knowledge, which can support various
-applications like clinical diagnosis, basic education, and financial analysis.
-Though a good number of surveys have been proposed for reviewing
-reasoning-related methods, none of them has systematically investigated these
-methods from the viewpoint of their dependent knowledge base. Both the
-scenarios to which the knowledge bases are applied and their storage formats
-are significantly different. Hence, investigating reasoning methods from the
-knowledge base perspective helps us better understand the challenges and future
-directions. To fill this gap, this paper first classifies the knowledge base
-into symbolic and parametric ones. The former explicitly stores information in
-human-readable symbols, and the latter implicitly encodes knowledge within
-parameters. Then, we provide a comprehensive overview of reasoning methods
-using symbolic knowledge bases, parametric knowledge bases, and both of them.
-Finally, we identify the future direction toward enhancing reasoning
-capabilities to bridge the gap between human and machine intelligence.
-
-摘要：推理是人类智能的基础，对于解决问题、决策和批判性思维至关重要。推理是指根据现有知识得出新的结论，这可以支持各种应用程序，如临床诊断、基础教育和财务分析。尽管已经提出了大量调查来审查与推理相关的各种方法，但没有一种方法从其依赖知识库的角度系统地研究这些方法。知识库被应用到的场景及其存储格式都有显着差异。因此，从知识库的角度研究推理方法有助于我们更好地理解挑战和未来的方向。为了填补这一空白，本文首先将知识库分为符号知识库和参数知识库。前者以人类可读的符号明确存储信息，而后者则在参数中隐式编码知识。然后，我们对使用符号知识库、参数知识库以及两者结合的推理方法进行了全面概述。最后，我们确定了增强推理能力以缩小人和机器智能之间差距的未来方向。
-
-##### **Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**
-2501.00982v1 by Federico Ravenda, Seyed Ali Bahrainian, Andrea Raballo, Antonietta Mira, Noriko Kando
-
-In psychological practice, standardized questionnaires serve as essential
-tools for assessing mental constructs (e.g., attitudes, traits, and emotions)
-through structured questions (aka items). With the increasing prevalence of
-social media platforms where users share personal experiences and emotions,
-researchers are exploring computational methods to leverage this data for rapid
-mental health screening. In this study, we propose a novel adaptive
-Retrieval-Augmented Generation (RAG) approach that completes psychological
-questionnaires by analyzing social media posts. Our method retrieves the most
-relevant user posts for each question in a psychological survey and uses Large
-Language Models (LLMs) to predict questionnaire scores in a zero-shot setting.
-Our findings are twofold. First we demonstrate that this approach can
-effectively predict users' responses to psychological questionnaires, such as
-the Beck Depression Inventory II (BDI-II), achieving performance comparable to
-or surpassing state-of-the-art models on Reddit-based benchmark datasets
-without relying on training data. Second, we show how this methodology can be
-generalized as a scalable screening tool, as the final assessment is
-systematically derived by completing standardized questionnaires and tracking
-how individual item responses contribute to the diagnosis, aligning with
-established psychometric practices.
-
-摘要：<paragraph>在心理學實務中，標準化問卷作為評量心理建構（例如態度、特質和情緒）的必要工具，透過結構化問題（又稱項目）來進行評量。隨著社群媒體平台的普及，使用者會在上面分享個人經驗和情緒，研究人員正在探討運算方法，以利用這些資料進行快速的的心理健康篩檢。在這項研究中，我們提出了一種創新的適應性擷取增強生成（RAG）方法，透過分析社群媒體貼文來完成心理問卷。我們的做法是針對心理調查中的每個問題，擷取與之最相關的使用者貼文，並使用大型語言模型（LLM）在零次學習的設定下預測問卷分數。我們的發現有兩方面。首先，我們證明了這種方法可以有效預測使用者對心理問卷的回答，例如貝克憂鬱量表第二版（BDI-II），在基於 Reddit 的基準資料集上達到了與最先進模型相當或超越的表現，而且並未依賴訓練資料。其次，我們展示了這個方法如何能被概括為一種可擴充的篩檢工具，因為最終評量是透過完成標準化問卷並追蹤個別項目回答如何促成診斷而系統性地得出的，這與既定的心理測量實務相符。</paragraph>
-
-##### **Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**
-2501.00954v1 by Sagarnil Das, Pradeep Walia
-
-Diabetic Retinopathy (DR) is a leading cause of preventable blindness. Early
-detection at the DR1 stage is critical but is hindered by a scarcity of
-high-quality fundus images. This study uses StyleGAN3 to generate synthetic DR1
-images characterized by microaneurysms with high fidelity and diversity. The
-aim is to address data scarcity and enhance the performance of supervised
-classifiers. A dataset of 2,602 DR1 images was used to train the model,
-followed by a comprehensive evaluation using quantitative metrics, including
-Frechet Inception Distance (FID), Kernel Inception Distance (KID), and
-Equivariance with respect to translation (EQ-T) and rotation (EQ-R).
-Qualitative assessments included Human Turing tests, where trained
-ophthalmologists evaluated the realism of synthetic images. Spectral analysis
-further validated image quality. The model achieved a final FID score of 17.29,
-outperforming the mean FID of 21.18 (95 percent confidence interval - 20.83 to
-21.56) derived from bootstrap resampling. Human Turing tests demonstrated the
-model's ability to produce highly realistic images, though minor artifacts near
-the borders were noted. These findings suggest that StyleGAN3-generated
-synthetic DR1 images hold significant promise for augmenting training datasets,
-enabling more accurate early detection of Diabetic Retinopathy. This
-methodology highlights the potential of synthetic data in advancing medical
-imaging and AI-driven diagnostics.
-
-摘要：糖尿病視網膜病變 (DR) 是可預防失明的主要原因。在 DR1 階段早期發現至關重要，但由於缺乏高品質眼底圖像而受到阻礙。本研究使用 StyleGAN3 生成合成 DR1 圖像，其特徵是具有高保真度和多樣性的微動脈瘤。目的是解決資料稀少的問題，並提升監督分類器的效能。使用 2,602 張 DR1 圖像的資料集來訓練模型，然後使用量化指標進行全面評估，包括 Fréchet Inception Distance (FID)、Kernel Inception Distance (KID) 以及相對於平移 (EQ-T) 和旋轉 (EQ-R) 的等變異性。定性評估包括人類圖靈測試，其中訓練有素的眼科醫生評估合成圖像的真實性。光譜分析進一步驗證了影像品質。該模型達到了 17.29 的最終 FID 分數，優於從 bootstrap 重抽樣得出的 21.18 的平均 FID（95% 信賴區間 - 20.83 到 21.56）。人類圖靈測試證明了該模型產生高度逼真圖像的能力，儘管注意到邊緣附近有輕微的人工製品。這些發現表明，StyleGAN3 生成的合成 DR1 圖像對於擴充訓練資料集具有顯著的希望，能夠更準確地早期發現糖尿病視網膜病變。這種方法突顯了合成資料在推進醫學影像和 AI 驅動診斷方面的潛力。
-
-##### **Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**
-2501.02000v1 by Yang Qi, Jiaxin Cai, Jing Lu, Runqing Xiong, Rongshang Chen, Liping Zheng, Duo Ma
-
-Prenatal ultrasound evaluates fetal growth and detects congenital
-abnormalities during pregnancy, but the examination of ultrasound images by
-radiologists requires expertise and sophisticated equipment, which would
-otherwise fail to improve the rate of identifying specific types of fetal
-central nervous system (CNS) abnormalities and result in unnecessary patient
-examinations. We construct a deep learning model to improve the overall
-accuracy of the diagnosis of fetal cranial anomalies to aid prenatal diagnosis.
-In our collected multi-center dataset of fetal craniocerebral anomalies
-covering four typical anomalies of the fetal central nervous system (CNS):
-anencephaly, encephalocele (including meningocele), holoprosencephaly, and
-rachischisis, patient-level prediction accuracy reaches 94.5%, with an AUROC
-value of 99.3%. In the subgroup analyzes, our model is applicable to the entire
-gestational period, with good identification of fetal anomaly types for any
-gestational period. Heatmaps superimposed on the ultrasound images not only
-provide a visual interpretation for the algorithm but also provide an intuitive
-visual aid to the physician by highlighting key areas that need to be reviewed,
-helping the physician to quickly identify and validate key areas. Finally, the
-retrospective reader study demonstrates that by combining the automatic
-prediction of the DL system with the professional judgment of the radiologist,
-the diagnostic accuracy and efficiency can be effectively improved and the
-misdiagnosis rate can be reduced, which has an important clinical application
-prospect.
-
-摘要：產前超音波評估胎兒生長並在懷孕期間偵測先天異常，但超音波影像的檢查需要放射科醫師的專業知識和精密儀器，否則無法改善特定類型胎兒中樞神經系統 (CNS) 異常的辨識率，並導致不必要的病人檢查。我們建構一個深度學習模型，以改善胎兒顱骨異常診斷的整體準確度，以協助產前診斷。在我們收集的多中心胎兒顱腦異常資料集中，涵蓋胎兒中樞神經系統 (CNS) 的四種典型異常：無腦症、腦膨出（包括腦膜膨出）、全前腦症和脊裂，病人層級的預測準確度達到 94.5%，AUROC 值為 99.3%。在子群分析中，我們的模型適用於整個妊娠期，且能良好辨識任何妊娠期的胎兒異常類型。疊加在超音波影像上的熱圖不僅提供演算法的視覺詮釋，也透過突顯需要檢視的關鍵區域，提供直覺的視覺輔助工具給醫師，協助醫師快速辨識和驗證關鍵區域。最後，回溯性閱讀研究顯示，結合 DL 系統的自動預測和放射科醫師的專業判斷，可以有效改善診斷準確度和效率，並降低誤診率，這具有重要的臨床應用前景。
-
-##### **Efficient Standardization of Clinical Notes using Large Language Models**
-2501.00644v1 by Daniel B. Hier, Michael D. Carrithers, Thanh Son Do, Tayo Obafemi-Ajayi
-
-Clinician notes are a rich source of patient information but often contain
-inconsistencies due to varied writing styles, colloquialisms, abbreviations,
-medical jargon, grammatical errors, and non-standard formatting. These
-inconsistencies hinder the extraction of meaningful data from electronic health
-records (EHRs), posing challenges for quality improvement, population health,
-precision medicine, decision support, and research.
-  We present a large language model approach to standardizing a corpus of 1,618
-clinical notes. Standardization corrected an average of $4.9 +/- 1.8$
-grammatical errors, $3.3 +/- 5.2$ spelling errors, converted $3.1 +/- 3.0$
-non-standard terms to standard terminology, and expanded $15.8 +/- 9.1$
-abbreviations and acronyms per note. Additionally, notes were re-organized into
-canonical sections with standardized headings. This process prepared notes for
-key concept extraction, mapping to medical ontologies, and conversion to
-interoperable data formats such as FHIR.
-  Expert review of randomly sampled notes found no significant data loss after
-standardization. This proof-of-concept study demonstrates that standardization
-of clinical notes can improve their readability, consistency, and usability,
-while also facilitating their conversion into interoperable data formats.
-
-摘要：臨床醫師的筆記是豐富的病人資訊來源，但常常因為書寫風格不同、慣用語、縮寫、醫學術語、文法錯誤和非標準格式而包含不一致的地方。這些不一致會阻礙從電子健康紀錄 (EHR) 中萃取有意義的資料，對品質改善、人口健康、精準醫療、決策支援和研究構成挑戰。
-我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
-對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
-
-##### **Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**
-2501.01462v1 by Lingrui Zhang, Haonan Wu, Nana Jin, Chenqing Zheng, Jize Xie, Qitai Cai, Jun Wang, Qin Cao, Xubin Zheng, Jiankun Wang, Lixin Cheng
-
-Host-response-based diagnostics can improve the accuracy of diagnosing
-bacterial and viral infections, thereby reducing inappropriate antibiotic
-prescriptions. However, the existing cohorts with limited sample size and
-coarse infections types are unable to support the exploration of an accurate
-and generalizable diagnostic model. Here, we curate the largest infection
-host-response transcriptome data, including 11,247 samples across 89 blood
-transcriptome datasets from 13 countries and 21 platforms. We build a
-diagnostic model for pathogen prediction starting from a pan-infection model as
-foundation (AUC = 0.97) based on the pan-infection dataset. Then, we utilize
-knowledge distillation to efficiently transfer the insights from this "teacher"
-model to four lightweight pathogen "student" models, i.e., staphylococcal
-infection (AUC = 0.99), streptococcal infection (AUC = 0.94), HIV infection
-(AUC = 0.93), and RSV infection (AUC = 0.94), as well as a sepsis "student"
-model (AUC = 0.99). The proposed knowledge distillation framework not only
-facilitates the diagnosis of pathogens using pan-infection data, but also
-enables an across-disease study from pan-infection to sepsis. Moreover, the
-framework enables high-degree lightweight design of diagnostic models, which is
-expected to be adaptively deployed in clinical settings.
-
-摘要：基於宿主反應的診斷可以提高細菌和病毒感染的診斷準確度，從而減少不適當的抗生素處方。然而，現有樣本量有限、感染類型粗糙的群組無法支持準確且可概化的診斷模型的探索。在此，我們整理了最大的感染宿主反應轉錄組數據，包括來自 13 個國家和 21 個平台的 89 個血液轉錄組數據集中的 11,247 個樣本。我們從泛感染模型開始建立一個用於病原體預測的診斷模型，作為基礎 (AUC = 0.97)，該模型基於泛感染數據集。然後，我們利用知識蒸餾有效地將這個「教師」模型中的見解轉移到四個輕量級病原體「學生」模型，即葡萄球菌感染 (AUC = 0.99)、鏈球菌感染 (AUC = 0.94)、HIV 感染 (AUC = 0.93) 和 RSV 感染 (AUC = 0.94)，以及一個敗血症「學生」模型 (AUC = 0.99)。所提出的知識蒸餾框架不僅促進了使用泛感染數據診斷病原體，還實現了從泛感染到敗血症的跨疾病研究。此外，該框架使診斷模型能夠進行高度輕量級設計，預計將適應性地部署在臨床環境中。
-
-##### **A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**
-2501.01991v1 by Lahcen El Fatimi, Elhoucine Elfatimi, Hanifa Bouchaneb
-
-Model checking, a formal verification technique, ensures systems meet
-predefined requirements, playing a crucial role in minimizing errors and
-enhancing quality during development. This paper introduces a novel hybrid
-framework integrating model checking with deep learning for brain tumor
-detection and validation in medical imaging. By combining model-checking
-principles with CNN-based feature extraction and K-FCM clustering for
-segmentation, the proposed approach enhances the reliability of tumor detection
-and segmentation. Experimental results highlight the framework's effectiveness,
-achieving 98\% accuracy, 96.15\% precision, and 100\% recall, demonstrating its
-potential as a robust tool for advanced medical image analysis.
-
-摘要：模型檢查是一種正式驗證技術，用於確保系統符合預先定義的要求，在開發過程中扮演著極其重要的角色，用於最小化錯誤並提升品質。這篇論文介紹了一個整合模型檢查與深度學習的創新混合框架，用於醫學影像中的腦瘤偵測與驗證。透過結合模型檢查原則與基於 CNN 的特徵萃取以及用於分割的 K-FCM 聚類，所提出的方法提升了腫瘤偵測與分割的可靠度。實驗結果突顯了這個框架的有效性，達到了 98% 的準確度、96.15% 的精確度，以及 100% 的召回率，顯示出其作為進階醫學影像分析的強健工具的潛力。
-
-##### **GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**
-2501.01458v1 by George Yuanji Wang, Srisharan Murugesan, Aditya Prince Rohatgi
-
-Identifying druggable genes is essential for developing effective
-pharmaceuticals. With the availability of extensive, high-quality data,
-computational methods have become a significant asset. Protein Interaction
-Network (PIN) is valuable but challenging to implement due to its high
-dimensionality and sparsity. Previous methods relied on indirect integration,
-leading to resolution loss. This study proposes GAN-TAT, a framework utilizing
-an advanced graph embedding technology, ImGAGN, to directly integrate PIN for
-druggable gene inference work. Tested on three Pharos datasets, GAN-TAT
-achieved the highest AUC-ROC score of 0.951 on Tclin. Further evaluation shows
-that GAN-TAT's predictions are supported by clinical evidence, highlighting its
-potential practical applications in pharmacogenomics. This research represents
-a methodological attempt with the direct utilization of PIN, expanding
-potential new solutions for developing drug targets. The source code of GAN-TAT
-is available at (https://github.com/george-yuanji-wang/GAN-TAT).
-
-摘要：識別可藥物化基因對於開發有效的藥物至關重要。隨著大量高品質數據的出現，計算方法已成為一項重要的資產。蛋白質交互網絡 (PIN) 很有價值，但由於其高維度和稀疏性，實作起來具有挑戰性。先前的辦法依賴於間接整合，導致解析度降低。本研究提出 GAN-TAT，一個利用先進圖形嵌入技術 ImGAGN 的架構，直接整合 PIN 以進行可藥物化基因推論工作。在三個 Pharos 資料集上進行測試，GAN-TAT 在 Tclin 上達到了最高的 AUC-ROC 分數 0.951。進一步的評估顯示，GAN-TAT 的預測獲得了臨床證據的支持，突顯了其在藥物基因組學中的潛在實際應用。本研究代表了一種直接利用 PIN 的方法論嘗試，擴展了開發藥物靶標的潛在新解決方案。GAN-TAT 的原始碼可在 (https://github.com/george-yuanji-wang/GAN-TAT) 取得。
-
-##### **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**
-2501.00320v2 by Haibo Tong, Enmeng Lu, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
-
-With the widespread application of Artificial Intelligence (AI) in human
-society, enabling AI to autonomously align with human values has become a
-pressing issue to ensure its sustainable development and benefit to humanity.
-One of the most important aspects of aligning with human values is the
-necessity for agents to autonomously make altruistic, safe, and ethical
-decisions, considering and caring for human well-being. Current AI extremely
-pursues absolute superiority in certain tasks, remaining indifferent to the
-surrounding environment and other agents, which has led to numerous safety
-risks. Altruistic behavior in human society originates from humans' capacity
-for empathizing others, known as Theory of Mind (ToM), combined with predictive
-imaginative interactions before taking action to produce thoughtful and
-altruistic behaviors. Inspired by this, we are committed to endow agents with
-considerate self-imagination and ToM capabilities, driving them through
-implicit intrinsic motivations to autonomously align with human altruistic
-values. By integrating ToM within the imaginative space, agents keep an eye on
-the well-being of other agents in real time, proactively anticipate potential
-risks to themselves and others, and make thoughtful altruistic decisions that
-balance negative effects on the environment. The ancient Chinese story of Sima
-Guang Smashes the Vat illustrates the moral behavior of the young Sima Guang
-smashed a vat to save a child who had accidentally fallen into it, which is an
-excellent reference scenario for this paper. We design an experimental scenario
-similar to Sima Guang Smashes the Vat and its variants with different
-complexities, which reflects the trade-offs and comprehensive considerations
-between self-goals, altruistic rescue, and avoiding negative side effects.
-
-摘要：隨著人工智慧（AI）在人類社會中的廣泛應用，讓 AI 自主與人類價值觀一致已成為確保其永續發展和造福人類的當務之急。與人類價值觀一致最重要的面向之一，在於代理人必須自主做出利他、安全、且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在特定任務中極力追求絕對優越性，對於周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自於人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性的想像互動，以產生周到且利他的行為。受到此啟發，我們致力於賦予代理人體貼的自我想像和 ToM 能力，透過隱含的內在動機驅使他們自主與人類利他價值觀一致。透過將 ToM 整合在想像空間中，代理人能即時關注其他代理人的福祉，主動預測對自身和他人潛在的風險，並做出周到且利他的決策，平衡對環境的負面影響。中國古代故事「司馬光砸缸」說明了年幼的司馬光為了救一個不小心掉進水缸中的孩子而砸破水缸的道德行為，是本文的絕佳參考情境。我們設計了一個與「司馬光砸缸」相似的實驗情境，以及具有不同複雜性的變體，反映了自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
-
-##### **A Fourfold Pathogen Reference Ontology Suite**
-2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
-
-Infectious diseases remain a critical global health challenge, and the
-integration of standardized ontologies plays a vital role in managing related
-data. The Infectious Disease Ontology (IDO) and its extensions, such as the
-Coronavirus Infectious Disease Ontology (CIDO), are essential for organizing
-and disseminating information related to infectious diseases. The COVID-19
-pandemic highlighted the need for updating IDO and its virus-specific
-extensions. There is an additional need to update IDO extensions specific to
-bacteria, fungus, and parasite infectious diseases. We adopt the "hub and
-spoke" methodology to generate pathogen-specific extensions of IDO: Virus
-Infectious Disease Ontology (VIDO), Bacteria Infectious Disease Ontology
-(BIDO), Mycosis Infectious Disease Ontology (MIDO), and Parasite Infectious
-Disease Ontology (PIDO). The creation of pathogen-specific reference ontologies
-advances modularization and reusability of infectious disease data within the
-IDO ecosystem. Future work will focus on further refining these ontologies,
-creating new extensions, and developing application ontologies based on them,
-in line with ongoing efforts to standardize biological and biomedical
-terminologies for improved data sharing and analysis.
-
-摘要：傳染病仍是一項全球性的健康挑戰，而標準化本體的整合在管理相關數據方面扮演著至關重要的角色。傳染病本體 (IDO) 及其擴充，例如冠狀病毒傳染病本體 (CIDO)，對於組織和傳播與傳染病相關的資訊至關重要。COVID-19 大流行凸顯了更新 IDO 及其特定於病毒的擴充的需求。此外，還有更新特定於細菌、真菌和寄生蟲傳染病的 IDO 擴充的需求。我們採用「樞紐輻條」方法來產生 IDO 的特定於病原體的擴充：病毒傳染病本體 (VIDO)、細菌傳染病本體 (BIDO)、真菌病傳染病本體 (MIDO) 和寄生蟲傳染病本體 (PIDO)。特定於病原體的參考本體的建立，促进了 IDO 生態系統內傳染病數據的模組化和可重複使用性。未來的研究工作將重點放在進一步完善這些本體、建立新的擴充，以及根據這些本體開發應用本體，這與標準化生物和生物醫學術語以改善數據共享和分析的持續努力相一致。
-
-##### **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**
-2501.00223v1 by Michael Gubanov, Anna Pyayt, Aleksandra Karolak
-
-Here, we describe one of the first Web-scale hybrid Knowledge Graph
-(KG)-Large Language Model (LLM), populated with the latest peer-reviewed
-medical knowledge on colorectal Cancer. It is currently being evaluated to
-assist with both medical research and clinical information retrieval tasks at
-Moffitt Cancer Center, which is one of the top Cancer centers in the U.S. and
-in the world. Our hybrid is remarkable as it serves the user needs better than
-just an LLM, KG or a search-engine in isolation. LLMs as is are known to
-exhibit hallucinations and catastrophic forgetting as well as are trained on
-outdated corpora. The state of the art KGs, such as PrimeKG, cBioPortal,
-ChEMBL, NCBI, and other require manual curation, hence are quickly getting
-stale. CancerKG is unsupervised and is capable of automatically ingesting and
-organizing the latest medical findings. To alleviate the LLMs shortcomings, the
-verified KG serves as a Retrieval Augmented Generation (RAG) guardrail.
-CancerKG exhibits 5 different advanced user interfaces, each tailored to serve
-different data modalities better and more convenient for the user.
-
-摘要：在此，我们描述了第一个 Web 级混合知识图谱 (KG) - 大型语言模型 (LLM)，其中充斥着有关结直肠癌的最新同行评审医学知识。目前正在评估它以协助 Moffitt 癌症中心进行医学研究和临床信息检索任务，该中心是美国和世界顶级癌症中心之一。我们的混合体非常出色，因为它比孤立的 LLM、KG 或搜索引擎更好地满足用户需求。众所周知，LLM 会出现幻觉和灾难性遗忘，并且是在过时的语料库上进行训练的。最先进的 KG，例如 PrimeKG、cBioPortal、ChEMBL、NCBI 等需要人工整理，因此很快就会过时。CancerKG 无需监督，能够自动摄取和组织最新的医学发现。为了减轻 LLM 的缺点，经过验证的 KG 充当检索增强生成 (RAG) 护栏。CancerKG 展示了 5 种不同的高级用户界面，每种界面都针对服务不同的数据模式，为用户提供更好、更方便的服务。
-
-##### **An Empirical Evaluation of Large Language Models on Consumer Health Questions**
-2501.00208v1 by Moaiz Abrar, Yusuf Sermet, Ibrahim Demir
-
-This study evaluates the performance of several Large Language Models (LLMs)
-on MedRedQA, a dataset of consumer-based medical questions and answers by
-verified experts extracted from the AskDocs subreddit. While LLMs have shown
-proficiency in clinical question answering (QA) benchmarks, their effectiveness
-on real-world, consumer-based, medical questions remains less understood.
-MedRedQA presents unique challenges, such as informal language and the need for
-precise responses suited to non-specialist queries. To assess model
-performance, responses were generated using five LLMs: GPT-4o mini, Llama 3.1:
-70B, Mistral-123B, Mistral-7B, and Gemini-Flash. A cross-evaluation method was
-used, where each model evaluated its responses as well as those of others to
-minimize bias. The results indicated that GPT-4o mini achieved the highest
-alignment with expert responses according to four out of the five models'
-judges, while Mistral-7B scored lowest according to three out of five models'
-judges. This study highlights the potential and limitations of current LLMs for
-consumer health medical question answering, indicating avenues for further
-development.
-
-摘要：本研究評估了大型語言模型 (LLM) 在 MedRedQA 上的效能，MedRedQA 是一組消費者醫療問題與答案的資料集，由 AskDocs 子版塊中經過驗證的專家所提出。儘管 LLM 已在臨床問題解答 (QA) 基準中展現出專業知識，但它們在現實世界、消費者為基礎的醫療問題上的有效性仍較不明確。MedRedQA 提出獨特的挑戰，例如非正式語言和對非專家查詢提供精確回應的需求。為了評估模型效能，使用五個 LLM 生成了回應：GPT-4o mini、Llama 3.1：70B、Mistral-123B、Mistral-7B 和 Gemini-Flash。使用了交叉評估方法，其中每個模型評估自己的回應以及其他模型的回應，以最小化偏差。結果顯示，根據五個模型中的四個模型評審，GPT-4o mini 與專家回應的一致性最高，而根據五個模型中的三個模型評審，Mistral-7B 的分數最低。本研究強調了目前 LLM 在消費者健康醫療問題解答方面的潛力和限制，並指出進一步發展的途徑。
-
-##### **GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**
-2501.00199v1 by Giuliano Lorenzoni, Pedro Elkind Velmovitsky, Paulo Alencar, Donald Cowan
-
-Depression has impacted millions of people worldwide and has become one of
-the most prevalent mental disorders. Early mental disorder detection can lead
-to cost savings for public health agencies and avoid the onset of other major
-comorbidities. Additionally, the shortage of specialized personnel is a
-critical issue because clinical depression diagnosis is highly dependent on
-expert professionals and is time consuming.
-  In this study, we explore the use of GPT-4 for clinical depression assessment
-based on transcript analysis. We examine the model's ability to classify
-patient interviews into binary categories: depressed and not depressed. A
-comparative analysis is conducted considering prompt complexity (e.g., using
-both simple and complex prompts) as well as varied temperature settings to
-assess the impact of prompt complexity and randomness on the model's
-performance.
-  Results indicate that GPT-4 exhibits considerable variability in accuracy and
-F1-Score across configurations, with optimal performance observed at lower
-temperature values (0.0-0.2) for complex prompts. However, beyond a certain
-threshold (temperature >= 0.3), the relationship between randomness and
-performance becomes unpredictable, diminishing the gains from prompt
-complexity.
-  These findings suggest that, while GPT-4 shows promise for clinical
-assessment, the configuration of the prompts and model parameters requires
-careful calibration to ensure consistent results. This preliminary study
-contributes to understanding the dynamics between prompt engineering and large
-language models, offering insights for future development of AI-powered tools
-in clinical settings.
-
-摘要：憂鬱症影響全球數百萬人，已成為最普遍的精神疾病之一。提早偵測精神疾病，能為公共衛生機構節省成本，並避免其他主要共病的發生。此外，專業人員短缺是一個關鍵問題，因為臨床憂鬱症的診斷高度依賴於專業人員，且耗時費力。
-在這個研究中，我們探討使用 GPT-4 進行臨床憂鬱症評估，基礎是謄本分析。我們檢視模型將病人訪談分類為二元類別（憂鬱症和非憂鬱症）的能力。我們進行比較分析，考量提示複雜度（例如，同時使用簡單和複雜的提示），以及各種溫度設定，以評估提示複雜度和隨機性對模型效能的影響。
-結果顯示，GPT-4 在各組態中的準確度和 F1 分數變化很大，在複雜提示的較低溫度值（0.0-0.2）下觀察到最佳效能。然而，超過某個閾值（溫度 >= 0.3）後，隨機性和效能之間的關係變得難以預測，降低了提示複雜度帶來的收益。
-這些發現表明，雖然 GPT-4 在臨床評估方面顯示出前景，但提示和模型參數的組態需要仔細校準，以確保結果的一致性。這項初步研究有助於了解提示工程和大型語言模型之間的動態，為未來在臨床環境中開發 AI 驅動工具提供見解。
-
-##### **SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**
-2501.00190v1 by Changchang Yin, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
-
-Sepsis is an organ dysfunction caused by a deregulated immune response to an
-infection. Early sepsis prediction and identification allow for timely
-intervention, leading to improved clinical outcomes. Clinical calculators
-(e.g., the six-organ dysfunction assessment of SOFA) play a vital role in
-sepsis identification within clinicians' workflow, providing evidence-based
-risk assessments essential for sepsis diagnosis. However, artificial
-intelligence (AI) sepsis prediction models typically generate a single sepsis
-risk score without incorporating clinical calculators for assessing organ
-dysfunctions, making the models less convincing and transparent to clinicians.
-To bridge the gap, we propose to mimic clinicians' workflow with a novel
-framework SepsisCalc to integrate clinical calculators into the predictive
-model, yielding a clinically transparent and precise model for utilization in
-clinical settings. Practically, clinical calculators usually combine
-information from multiple component variables in Electronic Health Records
-(EHR), and might not be applicable when the variables are (partially) missing.
-We mitigate this issue by representing EHRs as temporal graphs and integrating
-a learning module to dynamically add the accurately estimated calculator to the
-graphs. Experimental results on real-world datasets show that the proposed
-model outperforms state-of-the-art methods on sepsis prediction tasks.
-Moreover, we developed a system to identify organ dysfunctions and potential
-sepsis risks, providing a human-AI interaction tool for deployment, which can
-help clinicians understand the prediction outputs and prepare timely
-interventions for the corresponding dysfunctions, paving the way for actionable
-clinical decision-making support for early intervention.
-
-摘要：敗血症是由失調的免疫反應對感染引起的器官功能障礙。敗血症的早期預測和識別允許及時介入，從而改善臨床結果。臨床計算器（例如 SOFA 的六器官功能障礙評估）在臨床醫生工作流程中對敗血症識別發揮著至關重要的作用，提供了敗血症診斷必不可少的基於證據的風險評估。然而，人工智能 (AI) 敗血症預測模型通常會產生單一的敗血症風險評分，而不會納入臨床計算器來評估器官功能障礙，這使得這些模型對臨床醫生來說不太令人信服且不透明。為了彌合這一差距，我們建議模擬臨床醫生的工作流程，使用一個新的框架 SepsisCalc 將臨床計算器整合到預測模型中，從而產生一個在臨床環境中使用的臨床透明且精確的模型。實際上，臨床計算器通常會結合電子健康記錄 (EHR) 中多個組成變量的資訊，並且在變量（部分）缺失時可能不適用。我們通過將 EHR 表示為時間圖並整合一個學習模組來動態地將準確估計的計算器新增到圖形中，從而緩解了這個問題。在真實世界資料集上的實驗結果表明，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供了一個可供部署的人機互動工具，這可以幫助臨床醫生瞭解預測輸出並為相應的功能障礙準備及時的干預措施，為早期干預的行動臨床決策支援鋪平道路。
-
-##### **DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**
-2501.00169v1 by Nick Papoulias
-
-Deep Learning experiments have critical requirements regarding the careful
-handling of their datasets as well as the efficient and correct usage of APIs
-that interact with hardware accelerators. On the one hand, software mistakes
-during data handling can contaminate experiments and lead to incorrect results.
-On the other hand, poorly coded APIs that interact with the hardware can lead
-to sub-optimal usage and untrustworthy conclusions. In this work we investigate
-the use of Linear Logic for the analysis of Deep Learning experiments. We show
-that primitives and operators of Linear Logic can be used to express: (i) an
-abstract representation of the control flow of an experiment, (ii) a set of
-available experimental resources, such as API calls to the underlying
-data-structures and hardware as well as (iii) reasoning rules about the correct
-consumption of resources during experiments. Our proposed model is not only
-lightweight but also easy to comprehend having both a symbolic and a visual
-component. Finally, its artifacts are themselves proofs in Linear Logic that
-can be readily verified by off-the-shelf reasoners.
-
-摘要：深度學習實驗對於資料集的仔細處理以及與硬體加速器互動的 API 的有效且正確使用具有重要的要求。一方面，資料處理過程中的軟體錯誤可能會污染實驗並導致不正確的結果。另一方面，與硬體互動的編碼不良的 API 可能導致次佳使用和不可靠的結論。在這項工作中，我們探討了使用線性邏輯來分析深度學習實驗。我們展示了線性邏輯的基本原理和運算符可用於表達：(i) 實驗控制流程的抽象表示，(ii) 一組可用的實驗資源，例如對底層資料結構和硬體的 API 呼叫以及 (iii) 關於在實驗期間正確消耗資源的推理規則。我們提出的模型不僅輕量級，而且易於理解，既有符號組成，也有視覺組成。最後，其工件本身就是線性邏輯中的證明，可以使用現成的推理器輕鬆驗證。
-
-##### **Temporal reasoning for timeline summarisation in social media**
-2501.00152v1 by Jiayu Song, Mahmud Akhter, Dana Atzil Slonim, Maria Liakata
-
-This paper explores whether enhancing temporal reasoning capabilities in
-Large Language Models (LLMs) can improve the quality of timeline summarization,
-the task of summarising long texts containing sequences of events, particularly
-social media threads . We introduce \textit{NarrativeReason}, a novel dataset
-focused on temporal relationships among sequential events within narratives,
-distinguishing it from existing temporal reasoning datasets that primarily
-address pair-wise event relationships. Our approach then combines temporal
-reasoning with timeline summarization through a knowledge distillation
-framework, where we first fine-tune a teacher model on temporal reasoning tasks
-and then distill this knowledge into a student model while simultaneously
-training it for the task of timeline summarization. Experimental results
-demonstrate that our model achieves superior performance on mental
-health-related timeline summarization tasks, which involve long social media
-threads with repetitions of events and a mix of emotions, highlighting the
-importance of leveraging temporal reasoning to improve timeline summarisation.
-
-摘要：這篇論文探討增強大型語言模型 (LLM) 中的時間推理能力是否能提升時間軸摘要的品質，時間軸摘要是針對包含事件順序的長篇文字進行摘要的任務，尤其是社群媒體串。我們引進了\textit{NarrativeReason}，這個新穎的資料集專注於敘述中順序事件之間的時間關係，並將其與現有的時間推理資料集區分開來，後者主要處理成對的事件關係。我們的做法接著透過知識萃取架構將時間推理與時間軸摘要結合，我們首先針對時間推理任務微調一個教師模型，然後將此知識萃取到一個學生模型中，同時訓練它進行時間軸摘要的任務。實驗結果顯示我們的模型在與心理健康相關的時間軸摘要任務中獲得了卓越的表現，這涉及到包含重複事件和各種情緒的長篇社群媒體串，強調了利用時間推理來提升時間軸摘要的重要性。
-
-##### **A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**
-2501.00129v1 by Julia Ive, Paulina Bondaronek, Vishal Yadav, Daniel Santel, Tracy Glauser, Tina Cheng, Jeffrey R. Strawn, Greeshma Agasthya, Jordan Tschida, Sanghyun Choo, Mayanka Chandrashekar, Anuj J. Kapadia, John Pestian
-
-Introduction: Healthcare AI models often inherit biases from their training
-data. While efforts have primarily targeted bias in structured data, mental
-health heavily depends on unstructured data. This study aims to detect and
-mitigate linguistic differences related to non-biological differences in the
-training data of AI models designed to assist in pediatric mental health
-screening. Our objectives are: (1) to assess the presence of bias by evaluating
-outcome parity across sex subgroups, (2) to identify bias sources through
-textual distribution analysis, and (3) to develop a de-biasing method for
-mental health text data. Methods: We examined classification parity across
-demographic groups and assessed how gendered language influences model
-predictions. A data-centric de-biasing method was applied, focusing on
-neutralizing biased terms while retaining salient clinical information. This
-methodology was tested on a model for automatic anxiety detection in pediatric
-patients. Results: Our findings revealed a systematic under-diagnosis of female
-adolescent patients, with a 4% lower accuracy and a 9% higher False Negative
-Rate (FNR) compared to male patients, likely due to disparities in information
-density and linguistic differences in patient notes. Notes for male patients
-were on average 500 words longer, and linguistic similarity metrics indicated
-distinct word distributions between genders. Implementing our de-biasing
-approach reduced diagnostic bias by up to 27%, demonstrating its effectiveness
-in enhancing equity across demographic groups. Discussion: We developed a
-data-centric de-biasing framework to address gender-based content disparities
-within clinical text. By neutralizing biased language and enhancing focus on
-clinically essential information, our approach demonstrates an effective
-strategy for mitigating bias in AI healthcare models trained on text.
-
-摘要：<paragraph>引言：醫療保健 AI 模型通常會從其訓練資料中繼承偏見。雖然努力主要針對結構化資料中的偏見，但心理健康在很大程度上依賴於非結構化資料。本研究旨在檢測並減輕與設計用於協助兒童心理健康篩檢的 AI 模型訓練資料中的非生物差異相關的語言差異。我們的目標是：(1) 透過評估不同性別子群體的結果平價來評估偏見的存在，(2) 透過文本分佈分析來找出偏見來源，以及 (3) 開發一種心理健康文本資料的去偏見方法。方法：我們檢查了不同人口群體的分類平價，並評估了性別語言如何影響模型預測。應用了一種以資料為中心的去偏見方法，專注於在保留顯著臨床資訊的同時中和有偏見的術語。此方法在一個用於兒童患者自動焦慮檢測的模型上進行了測試。結果：我們的研究結果揭示了對女性青少年患者的系統性診斷不足，與男性患者相比，準確率低了 4%，假陰性率 (FNR) 高了 9%，這可能是由於患者備註中資訊密度和語言差異的差異。男性患者的備註平均長 500 個字，語言相似性指標顯示不同性別之間的字詞分佈截然不同。實施我們的去偏見方法將診斷偏見降低了 27%，證明了其在提升不同人口群體之間公平性的有效性。討論：我們開發了一個以資料為中心的去偏見架構，用於解決臨床文本中的基於性別的內容差異。透過中和有偏見的語言和加強對臨床必要資訊的關注，我們的做法展示了一種有效策略，用於減輕在文本上訓練的 AI 醫療保健模型中的偏見。</paragraph>
-
-##### **Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**
-2501.01984v1 by Atharva Divekar, Atharva Sonawane
-
-The AUTO-PCOS Classification Challenge seeks to advance the diagnostic
-capabilities of artificial intelligence (AI) in identifying Polycystic Ovary
-Syndrome (PCOS) through automated classification of healthy and unhealthy
-ultrasound frames. This report outlines our methodology for building a robust
-AI pipeline utilizing transfer learning with the InceptionV3 architecture to
-achieve high accuracy in binary classification. Preprocessing steps ensured the
-dataset was optimized for training, validation, and testing, while
-interpretability methods like LIME and saliency maps provided valuable insights
-into the model's decision-making. Our approach achieved an accuracy of 90.52%,
-with precision, recall, and F1-score metrics exceeding 90% on validation data,
-demonstrating its efficacy. The project underscores the transformative
-potential of AI in healthcare, particularly in addressing diagnostic challenges
-like PCOS. Key findings, challenges, and recommendations for future
-enhancements are discussed, highlighting the pathway for creating reliable,
-interpretable, and scalable AI-driven medical diagnostic tools.
-
-摘要：AUTO-PCOS 分類挑戰旨在透過自動分類健康和不健康的超音波影像，提升人工智慧 (AI) 在辨識多囊性卵巢症候群 (PCOS) 的診斷能力。這份報告概述了我們建構強健 AI 管線的方法，利用 InceptionV3 架構進行遷移學習，以在二元分類中達成高準確度。預處理步驟確保資料集已針對訓練、驗證和測試進行最佳化，而 LIME 和顯著性圖等可解釋性方法則提供了有價值的見解，說明模型的決策制定。我們的做法在驗證資料上達到了 90.52% 的準確度，精確度、召回率和 F1 分數都超過 90%，證明了它的效力。這個專案強調了 AI 在醫療保健中的轉型潛力，特別是在解決 PCOS 等診斷挑戰方面。討論了關鍵發現、挑戰和未來增強建議，突顯了建立可靠、可解釋且可擴充的 AI 驅動醫療診斷工具的途徑。
-
-##### **Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**
-2412.20744v1 by Abhinav Roy, Bhavesh Gyanchandani, Aditya Oza, Abhishek Sharma
-
-Parkinson's Disease (PD) is a degenerative neurological disorder that impairs
-motor and non-motor functions, significantly reducing quality of life and
-increasing mortality risk. Early and accurate detection of PD progression is
-vital for effective management and improved patient outcomes. Current
-diagnostic methods, however, are often costly, time-consuming, and require
-specialized equipment and expertise. This work proposes an innovative approach
-to predicting PD progression using regression methods, Long Short-Term Memory
-(LSTM) networks, and Kolmogorov Arnold Networks (KAN). KAN, utilizing
-spline-parametrized univariate functions, allows for dynamic learning of
-activation patterns, unlike traditional linear models.
-  The Movement Disorder Society-Sponsored Revision of the Unified Parkinson's
-Disease Rating Scale (MDS-UPDRS) is a comprehensive tool for evaluating PD
-symptoms and is commonly used to measure disease progression. Additionally,
-protein or peptide abnormalities are linked to PD onset and progression.
-Identifying these associations can aid in predicting disease progression and
-understanding molecular changes.
-  Comparing multiple models, including LSTM and KAN, this study aims to
-identify the method that delivers the highest metrics. The analysis reveals
-that KAN, with its dynamic learning capabilities, outperforms other approaches
-in predicting PD progression. This research highlights the potential of AI and
-machine learning in healthcare, paving the way for advanced computational
-models to enhance clinical predictions and improve patient care and treatment
-strategies in PD management.
-
-摘要：帕金森氏症 (PD) 是一種神經退化性疾病，會損害運動和非運動功能，嚴重降低生活品質並增加死亡風險。早期且準確檢測 PD 進程對於有效管理和改善患者預後至關重要。然而，目前的診斷方法通常成本高昂、耗時且需要專業設備和專業知識。這項研究提出了一種創新的方法，使用迴歸方法、長短期記憶 (LSTM) 網路和 Kolmogorov Arnold 網路 (KAN) 來預測 PD 進程。KAN 利用樣條參數化的單變量函數，可以動態學習激活模式，這與傳統線性模型不同。運動障礙協會贊助的統一帕金森氏症評分量表 (MDS-UPDRS) 是評估 PD 症狀的綜合工具，通常用於測量疾病進程。此外，蛋白質或胜肽異常與 PD 發作和進程有關。找出這些關聯可以幫助預測疾病進程並了解分子變化。這項研究比較了包括 LSTM 和 KAN 在內的多種模型，旨在找出提供最高指標的方法。分析顯示，具有動態學習能力的 KAN 在預測 PD 進程方面優於其他方法。這項研究突顯了 AI 和機器學習在醫療保健中的潛力，為先進的計算模型鋪路，以增強臨床預測並改善 PD 管理中的患者照護和治療策略。
-
-##### **Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**
-2412.20651v1 by Yousef Yeganeh, Ioannis Charisiadis, Marta Hasny, Martin Hartenberger, Björn Ommer, Nassir Navab, Azade Farshad, Ehsan Adeli
-
-Scaling by training on large datasets has been shown to enhance the quality
-and fidelity of image generation and manipulation with diffusion models;
-however, such large datasets are not always accessible in medical imaging due
-to cost and privacy issues, which contradicts one of the main applications of
-such models to produce synthetic samples where real data is scarce. Also,
-finetuning on pre-trained general models has been a challenge due to the
-distribution shift between the medical domain and the pre-trained models. Here,
-we propose Latent Drift (LD) for diffusion models that can be adopted for any
-fine-tuning method to mitigate the issues faced by the distribution shift or
-employed in inference time as a condition. Latent Drifting enables diffusion
-models to be conditioned for medical images fitted for the complex task of
-counterfactual image generation, which is crucial to investigate how parameters
-such as gender, age, and adding or removing diseases in a patient would alter
-the medical images. We evaluate our method on three public longitudinal
-benchmark datasets of brain MRI and chest X-rays for counterfactual image
-generation. Our results demonstrate significant performance gains in various
-scenarios when combined with different fine-tuning schemes. The source code of
-this work will be publicly released upon its acceptance.
-
-摘要：<paragraph>透過訓練大型資料集來調整比例，已被證明可以提升擴散模型影像產生與操作的品質和保真度；然而，由於成本和隱私問題，在醫學影像中並不總是能取得這麼大型的資料集，這與這些模型的主要應用之一相矛盾，也就是在真實資料稀少的情況下產生合成樣本。此外，由於醫學領域與預訓練模型之間的分布轉移，對預訓練的通用模型進行微調一直是一項挑戰。在此，我們提出擴散模型的潛在漂移 (LD)，可以採用任何微調方法來減輕分布轉移所面臨的問題，或在推理時間作為條件使用。潛在漂移使擴散模型能夠針對適合於反事實影像產生複雜任務的醫學影像進行調整，這對於探討諸如性別、年齡以及在患者中增加或移除疾病等參數將如何改變醫學影像至關重要。我們在三個大腦 MRI 和胸部 X 光的公開縱向基準資料集上評估了我們的方法，以進行反事實影像產生。我們的結果表明，與不同的微調方案結合使用時，在各種情況下都能顯著提升效能。這項工作的原始碼將在獲得接受後公開發布。</paragraph>
-
-##### **HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**
-2412.20622v1 by Ashish Seth, Dinesh Manocha, Chirag Agarwal
-
-Large Vision-Language Models (LVLMs) have demonstrated remarkable performance
-in performing complex multimodal tasks. However, they are still plagued by
-object hallucination: the misidentification or misclassification of objects
-present in images. To this end, we propose HALLUCINOGEN, a novel visual
-question answering (VQA) object hallucination attack benchmark that utilizes
-diverse contextual reasoning prompts to evaluate object hallucination in
-state-of-the-art LVLMs. We design a series of contextual reasoning
-hallucination prompts to evaluate LVLMs' ability to accurately identify objects
-in a target image while asking them to perform diverse visual-language tasks
-such as identifying, locating or performing visual reasoning around specific
-objects. Further, we extend our benchmark to high-stakes medical applications
-and introduce MED-HALLUCINOGEN, hallucination attacks tailored to the
-biomedical domain, and evaluate the hallucination performance of LVLMs on
-medical images, a critical area where precision is crucial. Finally, we conduct
-extensive evaluations of eight LVLMs and two hallucination mitigation
-strategies across multiple datasets to show that current generic and medical
-LVLMs remain susceptible to hallucination attacks.
-
-摘要：大型視覺語言模型 (LVLMs) 在執行複雜的多模態任務方面表現出色。然而，它們仍然受到物體幻覺的困擾：錯誤識別或錯誤分類圖像中存在的物體。為此，我們提出了 HALLUCINOGEN，這是一個新穎的視覺問答 (VQA) 物體幻覺攻擊基準，它利用多樣化的上下文推理提示來評估最先進的 LVLMs 中的物體幻覺。我們設計了一系列上下文推理幻覺提示，以評估 LVLMs 在要求它們執行多樣化的視覺語言任務（例如識別、定位或對特定物體進行視覺推理）的同時準確識別目標圖像中物體的能力。此外，我們將基準擴展到高風險的醫學應用，並引入了專門針對生物醫學領域的幻覺攻擊 MED-HALLUCINOGEN，並評估了 LVLMs 在醫學圖像（一個精確至關重要的關鍵領域）上的幻覺表現。最後，我們對八個 LVLMs 和兩個幻覺緩解策略進行了廣泛的評估，跨多個數據集，以表明當前的通用和醫學 LVLMs 仍然容易受到幻覺攻擊。
-
-##### **Dive into Time-Series Anomaly Detection: A Decade Review**
-2412.20512v1 by Paul Boniol, Qinghua Liu, Mingyi Huang, Themis Palpanas, John Paparrizos
-
-Recent advances in data collection technology, accompanied by the ever-rising
-volume and velocity of streaming data, underscore the vital need for time
-series analytics. In this regard, time-series anomaly detection has been an
-important activity, entailing various applications in fields such as cyber
-security, financial markets, law enforcement, and health care. While
-traditional literature on anomaly detection is centered on statistical
-measures, the increasing number of machine learning algorithms in recent years
-call for a structured, general characterization of the research methods for
-time-series anomaly detection. This survey groups and summarizes anomaly
-detection existing solutions under a process-centric taxonomy in the time
-series context. In addition to giving an original categorization of anomaly
-detection methods, we also perform a meta-analysis of the literature and
-outline general trends in time-series anomaly detection research.
-
-摘要：隨著資料收集技術的最新進展，以及串流資料的數量和速度持續上升，強調了時間序列分析的迫切需求。在這方面，時間序列異常偵測一直是一項重要的活動，包含網路安全、金融市場、執法和醫療保健等領域中的各種應用。雖然異常偵測的傳統文獻集中於統計測量，但近年來機器學習演算法的數量不斷增加，因此需要對時間序列異常偵測的研究方法進行結構化、通用的描述。這項調查在時間序列脈絡中，依據以流程為中心的分類法，對異常偵測現有解決方案進行分組和摘要。除了對異常偵測方法進行原始分類外，我們也對文獻進行元分析，並概述時間序列異常偵測研究的一般趨勢。
-
-##### **A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
-2412.20373v1 by Seungyeon Lee, Ruoqi Liu, Feixiong Cheng, Ping Zhang
-
-Drug repurposing identifies new therapeutic uses for existing drugs, reducing
-the time and costs compared to traditional de novo drug discovery. Most
-existing drug repurposing studies using real-world patient data often treat the
-entire population as homogeneous, ignoring the heterogeneity of treatment
-responses across patient subgroups. This approach may overlook promising drugs
-that benefit specific subgroups but lack notable treatment effects across the
-entire population, potentially limiting the number of repurposable candidates
-identified. To address this, we introduce STEDR, a novel drug repurposing
-framework that integrates subgroup analysis with treatment effect estimation.
-Our approach first identifies repurposing candidates by emulating multiple
-clinical trials on real-world patient data and then characterizes patient
-subgroups by learning subgroup-specific treatment effects. We deploy \model to
-Alzheimer's Disease (AD), a condition with few approved drugs and known
-heterogeneity in treatment responses. We emulate trials for over one thousand
-medications on a large-scale real-world database covering over 8 million
-patients, identifying 14 drug candidates with beneficial effects to AD in
-characterized subgroups. Experiments demonstrate STEDR's superior capability in
-identifying repurposing candidates compared to existing approaches.
-Additionally, our method can characterize clinically relevant patient subgroups
-associated with important AD-related risk factors, paving the way for precision
-drug repurposing.
-
-摘要：药物再利用为现有药物找出新的治疗用途，与传统的从头药物发现相比，减少了时间和成本。大多数使用真实世界患者数据的现有药物再利用研究通常将整个人群视为同质的，而忽略了不同患者亚组治疗反应的异质性。这种方法可能会忽视对特定亚组有益但整个群体缺乏显着治疗效果的有希望的药物，从而可能限制已识别的可再利用候选药物的数量。为了解决这个问题，我们引入了 STEDR，这是一个新颖的药物再利用框架，它将亚组分析与治疗效果估计相结合。我们的方法首先通过模拟真实世界患者数据的多个临床试验来识别再利用候选药物，然后通过学习亚组特异性治疗效果来表征患者亚组。我们部署\model到阿尔茨海默病 (AD)，这是一种已获批药物较少且治疗反应已知异质性的疾病。我们在一个覆盖超过 800 万患者的大规模真实世界数据库上模拟了超过一千种药物的试验，确定了 14 种在表征的亚组中对 AD 有益的候选药物。实验表明，与现有方法相比，STEDR 在识别再利用候选药物方面具有更强的能力。此外，我们的方法可以表征与重要的 AD 相关危险因素相关的临床相关患者亚组，为精准药物再利用铺平道路。
-
-##### **Transforming CCTV cameras into NO$_2$ sensors at city scale for adaptive policymaking**
-2501.00056v1 by Mohamed R. Ibrahim, Terry Lyons
-
-Air pollution in cities, especially NO\textsubscript{2}, is linked to
-numerous health problems, ranging from mortality to mental health challenges
-and attention deficits in children. While cities globally have initiated
-policies to curtail emissions, real-time monitoring remains challenging due to
-limited environmental sensors and their inconsistent distribution. This gap
-hinders the creation of adaptive urban policies that respond to the sequence of
-events and daily activities affecting pollution in cities. Here, we demonstrate
-how city CCTV cameras can act as a pseudo-NO\textsubscript{2} sensors. Using a
-predictive graph deep model, we utilised traffic flow from London's cameras in
-addition to environmental and spatial factors, generating NO\textsubscript{2}
-predictions from over 133 million frames. Our analysis of London's mobility
-patterns unveiled critical spatiotemporal connections, showing how specific
-traffic patterns affect NO\textsubscript{2} levels, sometimes with temporal
-lags of up to 6 hours. For instance, if trucks only drive at night, their
-effects on NO\textsubscript{2} levels are most likely to be seen in the morning
-when people commute. These findings cast doubt on the efficacy of some of the
-urban policies currently being implemented to reduce pollution. By leveraging
-existing camera infrastructure and our introduced methods, city planners and
-policymakers could cost-effectively monitor and mitigate the impact of
-NO\textsubscript{2} and other pollutants.
-
-摘要：城市中的空氣污染，特別是二氧化氮，與許多健康問題有關，從死亡率到兒童的精神健康挑戰和注意力缺陷。儘管全球城市已啟動政策來減少排放，但由於環境感測器有限且分佈不均，實時監測仍然具有挑戰性。這個差距阻礙了適應性城市政策的制定，這些政策對影響城市污染的事件順序和日常活動做出回應。在此，我們展示了城市閉路電視攝影機如何充當偽二氧化氮感測器。使用預測圖深度模型，我們利用了倫敦攝影機的交通流量以及環境和空間因素，從超過 1.33 億個畫面中生成了二氧化氮預測。我們對倫敦流動模式的分析揭示了關鍵的時空連接，展示了具體的交通模式如何影響二氧化氮水平，有時時間滯後長達 6 小時。例如，如果卡車只在晚上行駛，它們對二氧化氮水平的影響最有可能在人們通勤的早上顯現。這些發現對目前實施的一些旨在減少污染的城市政策的有效性提出了質疑。通過利用現有的攝影機基礎設施和我們引入的方法，城市規劃者和政策制定者可以經濟有效地監控和減輕二氧化氮和其他污染物的影響。
-
-##### **On the Compositional Generalization of Multimodal LLMs for Medical Imaging**
-2412.20070v1 by Zhenyang Cai, Junying Chen, Rongsheng Wang, Weihong Wang, Yonglin Deng, Dingjie Song, Yize Chen, Zixu Zhang, Benyou Wang
-
-Multimodal large language models (MLLMs) hold significant potential in the
-medical field, but their capabilities are often limited by insufficient data in
-certain medical domains, highlighting the need for understanding what kinds of
-images can be used by MLLMs for generalization. Current research suggests that
-multi-task training outperforms single-task as different tasks can benefit each
-other, but they often overlook the internal relationships within these tasks,
-providing limited guidance on selecting datasets to enhance specific tasks. To
-analyze this phenomenon, we attempted to employ compositional generalization
-(CG)-the ability of models to understand novel combinations by recombining
-learned elements-as a guiding framework. Since medical images can be precisely
-defined by Modality, Anatomical area, and Task, naturally providing an
-environment for exploring CG. Therefore, we assembled 106 medical datasets to
-create Med-MAT for comprehensive experiments. The experiments confirmed that
-MLLMs can use CG to understand unseen medical images and identified CG as one
-of the main drivers of the generalization observed in multi-task training.
-Additionally, further studies demonstrated that CG effectively supports
-datasets with limited data and delivers consistent performance across different
-backbones, highlighting its versatility and broad applicability. Med-MAT is
-publicly available at https://github.com/FreedomIntelligence/Med-MAT.
-
-摘要：多模态大型语言模型 (MLLM) 在医疗领域拥有巨大潜力，但其能力往往受到特定医疗领域数据不足的限制，这突出了理解 MLLM 可用于泛化的图像类型的必要性。当前的研究表明，多任务训练优于单任务训练，因为不同的任务可以相互受益，但它们常常忽略这些任务中的内部关系，在选择数据集以增强特定任务方面提供的指导有限。为了分析这种现象，我们尝试采用组合泛化 (CG)——模型通过重新组合学习的元素来理解新组合的能力——作为指导框架。由于医学图像可以通过方式、解剖区域和任务来精确定义，因此自然地为探索 CG 提供了一个环境。因此，我们组装了 106 个医学数据集来创建 Med-MAT 以进行综合实验。实验证实，MLLM 可以使用 CG 来理解看不见的医学图像，并将 CG 确定为多任务训练中观察到的泛化的主要驱动因素之一。此外，进一步的研究表明，CG 有效地支持了数据有限的数据集，并在不同的主干中提供了持续的性能，突出了其多功能性和广泛的适用性。Med-MAT 在 https://github.com/FreedomIntelligence/Med-MAT 公开可用。
-
-##### **The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**
-2412.20068v1 by Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani
-
-The increasing demand for mental health services has highlighted the need for
-innovative solutions, particularly in the realm of psychological conversational
-AI, where the availability of sensitive data is scarce. In this work, we
-explored the development of a system tailored for mental health support with a
-novel approach to psychological assessment based on explainable emotional
-profiles in combination with empathetic conversational models, offering a
-promising tool for augmenting traditional care, particularly where immediate
-expertise is unavailable. Our work can be divided into two main parts,
-intrinsecaly connected to each other. First, we present RACLETTE, a
-conversational system that demonstrates superior emotional accuracy compared to
-state-of-the-art benchmarks in both understanding users' emotional states and
-generating empathetic responses during conversations, while progressively
-building an emotional profile of the user through their interactions. Second,
-we show how the emotional profiles of a user can be used as interpretable
-markers for mental health assessment. These profiles can be compared with
-characteristic emotional patterns associated with different mental disorders,
-providing a novel approach to preliminary screening and support.
-
-摘要：隨著對心理健康服務需求的增加，凸顯了創新解決方案的需求，特別是在心理對話式人工智慧領域，那裡缺乏敏感資料。在這項工作中，我們探索了開發一個針對心理健康支持的系統，採用一種基於可解釋的情緒特徵的新方法進行心理評估，結合同理心對話模式，提供了一個有前途的工具，用於擴充傳統照護，特別是在無法立即獲得專業知識的情況下。我們的工作可以分為兩個主要部分，彼此內在相關。首先，我們展示了 RACLETTE，一個對話系統，與最先進的基準相比，在理解使用者情緒狀態和在對話中產生同理心回應方面表現出優越的情緒準確性，同時透過他們的互動逐漸建立使用者的情緒特徵。其次，我們展示了使用者的情緒特徵如何可用作心理健康評估的可解釋標記。這些特徵可以與與不同心理疾病相關的典型情緒模式進行比較，提供了一種初步篩選和支持的新方法。
-
-##### **MobileNetV2: A lightweight classification model for home-based sleep apnea screening**
-2412.19967v2 by Hui Pan, Yanxuan Yu, Jilun Ye, Xu Zhang
-
-This study proposes a novel lightweight neural network model leveraging
-features extracted from electrocardiogram (ECG) and respiratory signals for
-early OSA screening. ECG signals are used to generate feature spectrograms to
-predict sleep stages, while respiratory signals are employed to detect
-sleep-related breathing abnormalities. By integrating these predictions, the
-method calculates the apnea-hypopnea index (AHI) with enhanced accuracy,
-facilitating precise OSA diagnosis.
-  The method was validated on three publicly available sleep apnea databases:
-the Apnea-ECG database, the UCDDB dataset, and the MIT-BIH Polysomnographic
-database. Results showed an overall OSA detection accuracy of 0.978,
-highlighting the model's robustness. Respiratory event classification achieved
-an accuracy of 0.969 and an area under the receiver operating characteristic
-curve (ROC-AUC) of 0.98. For sleep stage classification, in UCDDB dataset, the
-ROC-AUC exceeded 0.85 across all stages, with recall for Sleep reaching 0.906
-and specificity for REM and Wake states at 0.956 and 0.937, respectively.
-  This study underscores the potential of integrating lightweight neural
-networks with multi-signal analysis for accurate, portable, and cost-effective
-OSA screening, paving the way for broader adoption in home-based and wearable
-health monitoring systems.
-
-摘要：本研究提出一個新穎的輕量級神經網路模型，利用從心電圖 (ECG) 和呼吸信號中提取的特徵，進行早期 OSA 篩檢。ECG 信號用於產生特徵頻譜圖，以預測睡眠階段，而呼吸信號則用於偵測與睡眠相關的呼吸異常。透過整合這些預測，此方法計算出具有更高精確度的呼吸中止低通氣指數 (AHI)，促進精確的 OSA 診斷。
-該方法已在三個公開的睡眠呼吸中止症資料庫中驗證：呼吸中止症-ECG 資料庫、UCDDB 資料集和 MIT-BIH 多重睡眠生理檢查資料庫。結果顯示整體 OSA 檢測準確度為 0.978，突顯了該模型的穩健性。呼吸事件分類的準確度達到 0.969，且在受試者操作特徵曲線 (ROC-AUC) 下方的面積為 0.98。對於睡眠階段分類，在 UCDDB 資料集中，所有階段的 ROC-AUC 均超過 0.85，睡眠的召回率達到 0.906，而 REM 和清醒狀態的特異性分別為 0.956 和 0.937。
-本研究強調了將輕量級神經網路與多信號分析整合的潛力，以進行準確、可攜式且具成本效益的 OSA 篩檢，為在居家和穿戴式健康監測系統中更廣泛採用鋪路。
-
-##### **ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**
-2412.19954v1 by Chao Fan, Qipei Mei, Xiaonan Wang, Xinming Li
-
-In the construction sector, workers often endure prolonged periods of
-high-intensity physical work and prolonged use of tools, resulting in injuries
-and illnesses primarily linked to postural ergonomic risks, a longstanding
-predominant health concern. To mitigate these risks, researchers have applied
-various technological methods to identify the ergonomic risks that construction
-workers face. However, traditional ergonomic risk assessment (ERA) techniques
-do not offer interactive feedback. The rapidly developing vision-language
-models (VLMs), capable of generating textual descriptions or answering
-questions about ergonomic risks based on image inputs, have not yet received
-widespread attention. This research introduces an interactive visual query
-system tailored to assess the postural ergonomic risks of construction workers.
-The system's capabilities include visual question answering (VQA), which
-responds to visual queries regarding workers' exposure to postural ergonomic
-risks, and image captioning (IC), which generates textual descriptions of these
-risks from images. Additionally, this study proposes a dataset designed for
-training and testing such methodologies. Systematic testing indicates that the
-VQA functionality delivers an accuracy of 96.5%. Moreover, evaluations using
-nine metrics for IC and assessments from human experts indicate that the
-proposed approach surpasses the performance of a method using the same
-architecture trained solely on generic datasets. This study sets a new
-direction for future developments in interactive ERA using generative
-artificial intelligence (AI) technologies.
-
-摘要：在建築業中，工人經常忍受長時間高強度體力勞動和長時間使用工具，導致受傷和疾病，這些問題主要與姿勢人體工學風險有關，這是一個長期的主要健康問題。為了減輕這些風險，研究人員應用各種技術方法來識別建築工人面臨的人體工學風險。然而，傳統的人體工學風險評估 (ERA) 技術並不能提供互動式回饋。快速發展的視覺語言模型 (VLM) 能夠根據影像輸入產生文字描述或回答有關人體工學風險的問題，但尚未受到廣泛關注。本研究介紹了一個互動式視覺查詢系統，專門用於評估建築工人的姿勢人體工學風險。該系統的功能包括視覺問答 (VQA)，它可以回答有關工人接觸姿勢人體工學風險的視覺查詢，以及影像標題 (IC)，它可以根據影像產生這些風險的文字描述。此外，本研究提出了一個專門用於訓練和測試此類方法的資料集。系統性測試表明，VQA 功能的準確度為 96.5%。此外，使用九個 IC 指標進行的評估和來自人類專家的評估表明，所提出的方法超越了使用相同架構僅在通用資料集上訓練的方法的效能。本研究為使用生成式人工智慧 (AI) 技術的互動式 ERA 未來發展設定了一個新方向。
-
-##### **An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**
-2412.19696v1 by Arezoo Borji, Hossam Haick, Birgit Pohn, Antonia Graf, Jana Zakall, S M Ragib Shahriar Islam, Gernot Kronreif, Daniel Kovatchki, Heinz Strohmer, Sepideh Hatamikia
-
-In vitro fertilization (IVF) is a widely utilized assisted reproductive
-technology, yet predicting its success remains challenging due to the
-multifaceted interplay of clinical, demographic, and procedural factors. This
-study develops a robust artificial intelligence (AI) pipeline aimed at
-predicting live birth outcomes in IVF treatments. The pipeline uses anonymized
-data from 2010 to 2018, obtained from the Human Fertilization and Embryology
-Authority (HFEA). We evaluated the prediction performance of live birth success
-as a binary outcome (success/failure) by integrating different feature
-selection methods, such as principal component analysis (PCA) and particle
-swarm optimization (PSO), with different traditional machine learning-based
-classifiers including random forest (RF) and decision tree, as well as deep
-learning-based classifiers including custom transformer-based model and a tab
-transformer model with an attention mechanism. Our research demonstrated that
-the best performance was achieved by combining PSO for feature selection with
-the TabTransformer-based deep learning model, yielding an accuracy of 99.50%
-and an AUC of 99.96%, highlighting its significant performance to predict live
-births. This study establishes a highly accurate AI pipeline for predicting
-live birth outcomes in IVF, demonstrating its potential to enhance personalized
-fertility treatments.
-
-摘要：體外受精 (IVF) 是一種廣泛使用的輔助生殖技術，但由於臨床、人口統計和程序因素的多方面交互作用，預測其成功仍然具有挑戰性。本研究開發了一個強大的人工智慧 (AI) 管線，旨在預測 IVF 治療中的活產結果。該管線使用 2010 年至 2018 年的匿名數據，這些數據來自人類受精和胚胎學管理局 (HFEA)。我們通過整合不同的特徵選擇方法（例如主成分分析 (PCA) 和粒子群優化 (PSO)）以及不同的傳統機器學習分類器（包括隨機森林 (RF) 和決策樹），以及深度學習分類器（包括自定義Transformer模型和具有注意力機制的 Tab Transformer模型），來評估活產成功的預測性能，作為二元結果（成功/失敗）。我們的研究表明，通過將 PSO 用於特徵選擇與基於 TabTransformer 的深度學習模型相結合，可以獲得最佳性能，準確率達到 99.50%，AUC 達到 99.96%，突顯了其預測活產的顯著性能。本研究建立了一個高度準確的 AI 管線，用於預測 IVF 中的活產結果，展示了其增強個性化生育治療的潛力。
-
-##### **A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**
-2412.19688v1 by Jana Zakall, Birgit Pohn, Antonia Graf, Daniel Kovatchki, Arezoo Borji, Ragib Shahriar Islam, Hossam Haick, Heinz Strohmer, Sepideh Hatamikia
-
-Artificial intelligence (AI) has emerged as a powerful tool to enhance
-decision-making and optimize treatment protocols in in vitro fertilization
-(IVF). In particular, AI shows significant promise in supporting
-decision-making during the ovarian stimulation phase of the IVF process. This
-review evaluates studies focused on the applications of AI combined with
-medical imaging in ovarian stimulation, examining methodologies, outcomes, and
-current limitations. Our analysis of 13 studies on this topic reveals that,
-reveal that while AI algorithms demonstrated notable potential in predicting
-optimal hormonal dosages, trigger timing, and oocyte retrieval outcomes, the
-medical imaging data utilized predominantly came from two-dimensional (2D)
-ultrasound which mainly involved basic quantifications, such as follicle size
-and number, with limited use of direct feature extraction or advanced image
-analysis techniques. This points to an underexplored opportunity where advanced
-image analysis approaches, such as deep learning, and more diverse imaging
-modalities, like three-dimensional (3D) ultrasound, could unlock deeper
-insights. Additionally, the lack of explainable AI (XAI) in most studies raises
-concerns about the transparency and traceability of AI-driven decisions - key
-factors for clinical adoption and trust. Furthermore, many studies relied on
-single-center designs and small datasets, which limit the generalizability of
-their findings. This review highlights the need for integrating advanced
-imaging analysis techniques with explainable AI methodologies, as well as the
-importance of leveraging multicenter collaborations and larger datasets.
-Addressing these gaps has the potential to enhance ovarian stimulation
-management, paving the way for efficient, personalized, and data-driven
-treatment pathways that improve IVF outcomes.
-
-摘要：人工智慧（AI）已成為增強體外受精（IVF）決策制定和優化治療方案的強大工具。特別是，AI 在支持 IVF 過程中卵巢刺激階段的決策制定方面顯示出顯著的前景。本綜述評估了專注於 AI 結合卵巢刺激中的醫學影像應用、檢驗方法、結果和當前限制的研究。我們對 13 項關於此主題的研究分析顯示，雖然 AI 演算法在預測最佳荷爾蒙劑量、觸發時機和卵子取出結果方面表現出顯著的潛力，但所利用的醫學影像數據主要來自於二次元（2D）超音波，而二次元超音波主要涉及基本量化，例如濾泡大小和數量，且有限使用直接特徵提取或進階影像分析技術。這指向一個尚未探索的機會，例如深度學習等進階影像分析方法，以及更多元的影像模式，例如三維（3D）超音波，可以解鎖更深入的見解。此外，大多數研究缺乏可解釋 AI（XAI），這引起了人們對 AI 驅動決策的透明度和可追溯性的擔憂，而透明度和可追溯性是臨床採用和信任的關鍵因素。此外，許多研究依賴於單中心設計和小型數據集，這限制了其發現的普遍性。本綜述強調了將進階影像分析技術與可解釋 AI 方法整合起來的必要性，以及利用多中心合作和大型數據集的重要性。解決這些差距有可能增強卵巢刺激管理，為有效、個人化和數據驅動的治療途徑鋪平道路，進而改善 IVF 結果。
-
-##### **Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases**
-2412.19495v1 by Ioannis Bilionis, Ricardo C. Berrios, Luis Fernandez-Luque, Carlos Castillo
-
-Machine Learning (ML) algorithms are vital for supporting clinical
-decision-making in biomedical informatics. However, their predictive
-performance can vary across demographic groups, often due to the
-underrepresentation of historically marginalized populations in training
-datasets. The investigation reveals widespread sex- and age-related inequities
-in chronic disease datasets and their derived ML models. Thus, a novel
-analytical framework is introduced, combining systematic arbitrariness with
-traditional metrics like accuracy and data complexity. The analysis of data
-from over 25,000 individuals with chronic diseases revealed mild sex-related
-disparities, favoring predictive accuracy for males, and significant
-age-related differences, with better accuracy for younger patients. Notably,
-older patients showed inconsistent predictive accuracy across seven datasets,
-linked to higher data complexity and lower model performance. This highlights
-that representativeness in training data alone does not guarantee equitable
-outcomes, and model arbitrariness must be addressed before deploying models in
-clinical settings.
-
-摘要：機器學習 (ML) 演算法對於支援生物醫學資訊學中的臨床決策至關重要。然而，其預測效能可能因人口統計群組而異，通常是因為在訓練資料集中歷史上被邊緣化的族群代表性不足。調查顯示，在慢性疾病資料集及其衍生的 ML 模型中，普遍存在與性別和年齡相關的不平等。因此，引進了一個新穎的分析架構，將系統性的任意性與傳統指標（例如準確度和資料複雜度）結合在一起。對來自 25,000 多名慢性病患者的資料進行分析，發現輕微的性別相關差異，有利於男性預測準確度，以及顯著的年齡相關差異，年輕患者的準確度較高。值得注意的是，老年患者在七個資料集中顯示出不一致的預測準確度，這與較高的資料複雜度和較低的模型效能有關。這突顯出訓練資料中的代表性並不能保證公平的結果，在臨床環境中部署模型之前必須解決模型的任意性。
-
-##### **Semi-Supervised Learning from Small Annotated Data and Large Unlabeled Data for Fine-grained PICO Entity Recognition**
-2412.19346v1 by Fangyi Chen, Gongbo Zhang, Yilu Fang, Yifan Peng, Chunhua Weng
-
-Objective: Extracting PICO elements -- Participants, Intervention,
-Comparison, and Outcomes -- from clinical trial literature is essential for
-clinical evidence retrieval, appraisal, and synthesis. Existing approaches do
-not distinguish the attributes of PICO entities. This study aims to develop a
-named entity recognition (NER) model to extract PICO entities with fine
-granularities.
-  Materials and Methods: Using a corpus of 2,511 abstracts with PICO mentions
-from 4 public datasets, we developed a semi-supervised method to facilitate the
-training of a NER model, FinePICO, by combining limited annotated data of PICO
-entities and abundant unlabeled data. For evaluation, we divided the entire
-dataset into two subsets: a smaller group with annotations and a larger group
-without annotations. We then established the theoretical lower and upper
-performance bounds based on the performance of supervised learning models
-trained solely on the small, annotated subset and on the entire set with
-complete annotations, respectively. Finally, we evaluated FinePICO on both the
-smaller annotated subset and the larger, initially unannotated subset. We
-measured the performance of FinePICO using precision, recall, and F1.
-  Results: Our method achieved precision/recall/F1 of 0.567/0.636/0.60,
-respectively, using a small set of annotated samples, outperforming the
-baseline model (F1: 0.437) by more than 16\%. The model demonstrates
-generalizability to a different PICO framework and to another corpus, which
-consistently outperforms the benchmark in diverse experimental settings
-(p-value \textless0.001).
-  Conclusion: This study contributes a generalizable and effective
-semi-supervised approach to named entity recognition leveraging large unlabeled
-data together with small, annotated data. It also initially supports
-fine-grained PICO extraction.
-
-摘要：<paragraph>目標：從臨床試驗文獻中萃取 PICO 元素（參與者、干預措施、比較和結果），對於臨床證據的檢索、評估和綜合至關重要。現有方法無法區分 PICO 實體的屬性。本研究旨在開發一個命名實體辨識 (NER) 模型，以精細粒度萃取 PICO 實體。
-材料和方法：使用包含來自 4 個公開資料集的 2,511 篇摘要的語料庫，我們開發了一種半監督式方法，透過結合有限的 PICO 實體標註資料和豐富的未標註資料，來促進 NER 模型 FinePICO 的訓練。為了進行評估，我們將整個資料集分為兩個子集：一個較小的有標註群組和一個較大的無標註群組。然後，我們分別根據僅在小標註子集上訓練的監督式學習模型和在具有完整標註的整個集合上訓練的監督式學習模型的效能，建立理論上的下限和上限效能界線。最後，我們在較小的標註子集和較大的最初未標註子集上評估 FinePICO。我們使用準確度、召回率和 F1 來衡量 FinePICO 的效能。
-結果：我們的模型使用一小組標註樣本，分別達到 0.567/0.636/0.60 的準確度/召回率/F1，比基線模型 (F1：0.437) 高出 16% 以上。該模型展示了對不同 PICO 架構和另一個語料庫的泛化性，在不同的實驗設定中始終優於基準 (p 值 \textless0.001)。
-結論：本研究貢獻了一種可泛化且有效的半監督式方法，利用大量未標註資料和少量標註資料來進行命名實體辨識。它最初也支援精細粒度的 PICO 萃取。</paragraph>
-
-##### **xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**
-2412.19311v1 by Risal Shahriar Shefin, Md Asifur Rahman, Thai Le, Sarra Alqahtani
-
-Reinforcement learning (RL) has shown great promise in simulated
-environments, such as games, where failures have minimal consequences. However,
-the deployment of RL agents in real-world systems such as autonomous vehicles,
-robotics, UAVs, and medical devices demands a higher level of safety and
-transparency, particularly when facing adversarial threats. Safe RL algorithms
-have been developed to address these concerns by optimizing both task
-performance and safety constraints. However, errors are inevitable, and when
-they occur, it is essential that the RL agents can also explain their actions
-to human operators. This makes trust in the safety mechanisms of RL systems
-crucial for effective deployment. Explainability plays a key role in building
-this trust by providing clear, actionable insights into the agent's
-decision-making process, ensuring that safety-critical decisions are well
-understood. While machine learning (ML) has seen significant advances in
-interpretability and visualization, explainability methods for RL remain
-limited. Current tools fail to address the dynamic, sequential nature of RL and
-its needs to balance task performance with safety constraints over time. The
-re-purposing of traditional ML methods, such as saliency maps, is inadequate
-for safety-critical RL applications where mistakes can result in severe
-consequences. To bridge this gap, we propose xSRL, a framework that integrates
-both local and global explanations to provide a comprehensive understanding of
-RL agents' behavior. xSRL also enables developers to identify policy
-vulnerabilities through adversarial attacks, offering tools to debug and patch
-agents without retraining. Our experiments and user studies demonstrate xSRL's
-effectiveness in increasing safety in RL systems, making them more reliable and
-trustworthy for real-world deployment. Code is available at
-https://github.com/risal-shefin/xSRL.
-
-摘要：強化學習 (RL) 在模擬環境中展現出極大的潛力，例如遊戲，在這些環境中，失敗的後果很小。然而，在自動駕駛汽車、機器人、無人機和醫療設備等真實世界系統中部署 RL 代理需要更高的安全性與透明度，特別是在面對對抗性威脅時。安全的 RL 演算法已被開發出來，透過最佳化任務效能和安全限制來解決這些問題。然而，錯誤是不可避免的，當錯誤發生時，RL 代理也必須向人類操作員解釋其行為至關重要。這使得對 RL 系統的安全機制的信任對於有效部署至關重要。可解釋性在建立這種信任中扮演關鍵角色，透過提供對代理決策過程清晰且可行的見解，確保對安全至關重要的決策能被充分理解。雖然機器學習 (ML) 在可解釋性和可視化方面已取得顯著進展，但 RL 的可解釋性方法仍然有限。目前的工具無法解決 RL 的動態、順序性質，以及它需要隨著時間推移平衡任務效能與安全限制。重新利用傳統的 ML 方法，例如顯著性圖，對於安全至關重要的 RL 應用程式來說是不夠的，在這些應用程式中，錯誤可能導致嚴重的後果。為了彌補這一差距，我們提出了 xSRL，一個整合了局部和全局解釋的框架，以提供對 RL 代理行為的全面理解。xSRL 還使開發人員能夠透過對抗性攻擊來識別策略漏洞，提供在不重新訓練的情況下除錯和修補代理的工具。我們的實驗和使用者研究證明了 xSRL 在提高 RL 系統安全性的有效性，使其更可靠且更值得信賴，可部署於真實世界。程式碼可在 https://github.com/risal-shefin/xSRL 中取得。
-
-##### **MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**
-2412.19260v2 by Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Meliha Yetisgen, Fei Xia, Thomas Lin
-
-Several studies showed that Large Language Models (LLMs) can answer medical
-questions correctly, even outperforming the average human score in some medical
-exams. However, to our knowledge, no study has been conducted to assess the
-ability of language models to validate existing or generated medical text for
-correctness and consistency. In this paper, we introduce MEDEC
-(https://github.com/abachaa/MEDEC), the first publicly available benchmark for
-medical error detection and correction in clinical notes, covering five types
-of errors (Diagnosis, Management, Treatment, Pharmacotherapy, and Causal
-Organism). MEDEC consists of 3,848 clinical texts, including 488 clinical notes
-from three US hospital systems that were not previously seen by any LLM. The
-dataset has been used for the MEDIQA-CORR shared task to evaluate seventeen
-participating systems [Ben Abacha et al., 2024]. In this paper, we describe the
-data creation methods and we evaluate recent LLMs (e.g., o1-preview, GPT-4,
-Claude 3.5 Sonnet, and Gemini 2.0 Flash) for the tasks of detecting and
-correcting medical errors requiring both medical knowledge and reasoning
-capabilities. We also conducted a comparative study where two medical doctors
-performed the same task on the MEDEC test set. The results showed that MEDEC is
-a sufficiently challenging benchmark to assess the ability of models to
-validate existing or generated notes and to correct medical errors. We also
-found that although recent LLMs have a good performance in error detection and
-correction, they are still outperformed by medical doctors in these tasks. We
-discuss the potential factors behind this gap, the insights from our
-experiments, the limitations of current evaluation metrics, and share potential
-pointers for future research.
-
-摘要：多項研究顯示，大型語言模型 (LLM) 能正確回答醫療問題，甚至在某些醫療考試中表現優於人類平均分數。然而，據我們所知，尚未有研究評估語言模型驗證現有或產生的醫療文本正確性和一致性的能力。在本文中，我們介紹 MEDEC (https://github.com/abachaa/MEDEC)，這是第一個公開的臨床筆記醫療錯誤偵測和修正基準，涵蓋五種類型的錯誤（診斷、管理、治療、藥物治療和致病原）。MEDEC 包含 3,848 個臨床文本，包括來自三個美國醫院系統的 488 個臨床筆記，這些筆記以前未曾被任何 LLM 看到。該資料集已用於 MEDIQA-CORR 共享任務，以評估十七個參與系統 [Ben Abacha 等，2024]。在本文中，我們描述了資料建立方法，並評估了近期 LLM（例如 o1-preview、GPT-4、Claude 3.5 Sonnet 和 Gemini 2.0 Flash）在偵測和修正醫療錯誤的任務上，這些任務需要醫療知識和推理能力。我們還進行了一項比較研究，其中兩位醫生在 MEDEC 測試集中執行相同的任務。結果顯示，MEDEC 是足夠具有挑戰性的基準，可以評估模型驗證現有或產生的筆記和修正醫療錯誤的能力。我們還發現，儘管近期 LLM 在錯誤偵測和修正方面表現良好，但在這些任務中仍不如醫生。我們討論了造成此差距的潛在因素、我們實驗的見解、當前評估指標的限制，並分享了未來研究的潛在指標。
-
-##### **Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**
-2412.19254v1 by Abeer Badawi, Somayya Elmoghazy, Samira Choudhury, Khalid Elgazzar, Amer Burhan
-
-Dementia is a neurodegenerative disorder that has been growing among elder
-people over the past decades. This growth profoundly impacts the quality of
-life for patients and caregivers due to the symptoms arising from it. Agitation
-and aggression (AA) are some of the symptoms of people with severe dementia
-(PwD) in long-term care or hospitals. AA not only causes discomfort but also
-puts the patients or others at potential risk. Existing monitoring solutions
-utilizing different wearable sensors integrated with Artificial Intelligence
-(AI) offer a way to detect AA early enough for timely and adequate medical
-intervention. However, most studies are limited by the availability of
-accurately labeled datasets, which significantly affects the efficacy of such
-solutions in real-world scenarios. This study presents a novel comprehensive
-approach to detect AA in PwD using physiological data from the Empatica E4
-wristbands. The research creates a diverse dataset, consisting of three
-distinct datasets gathered from 14 participants across multiple hospitals in
-Canada. These datasets have not been extensively explored due to their limited
-labeling. We propose a novel approach employing self-training and a variational
-autoencoder (VAE) to detect AA in PwD effectively. The proposed approach aims
-to learn the representation of the features extracted using the VAE and then
-uses a semi-supervised block to generate labels, classify events, and detect
-AA. We demonstrate that combining Self-Training and Variational Autoencoder
-mechanism significantly improves model performance in classifying AA in PwD.
-Among the tested techniques, the XGBoost classifier achieved the highest
-accuracy of 90.16\%. By effectively addressing the challenge of limited labeled
-data, the proposed system not only learns new labels but also proves its
-superiority in detecting AA.
-
-摘要：失智症是一種神經退化性疾病，在過去的幾十年中在老年人中不斷增加。這種增長會對患者和照顧者的生活品質產生深遠的影響，因為它會產生症狀。躁動和攻擊性 (AA) 是重度失智症患者 (PwD) 在長期照護或醫院中的症狀之一。AA 不僅會造成不適，還會讓患者或他人面臨潛在風險。現有的監控解決方案利用與人工智慧 (AI) 整合的不同穿戴式感測器，提供一種方法來及早偵測 AA，以便及時且充分地進行醫療介入。然而，大多數研究都受到準確標記資料集可用性的限制，這會顯著影響此類解決方案在實際情況中的效能。本研究提出了一種新穎的綜合方法，使用來自 Empatica E4 腕帶的生理數據來偵測 PwD 中的 AA。該研究建立了一個多元的資料集，由來自加拿大多家醫院的 14 位參與者收集的三個不同資料集組成。由於標記有限，尚未廣泛探討這些資料集。我們提出了一種新穎的方法，採用自我訓練和變異自動編碼器 (VAE) 來有效偵測 PwD 中的 AA。所提出的方法旨在學習使用 VAE 萃取特徵的表示，然後使用半監督區塊來產生標籤、分類事件並偵測 AA。我們證明了將自我訓練和變異自動編碼器機制結合起來，可以顯著提升模型在對 PwD 中的 AA 進行分類時的效能。在測試的技術中，XGBoost 分類器達到了 90.16% 的最高準確度。透過有效地解決標記資料有限的挑戰，所提出的系統不僅學習了新的標籤，還證明了其在偵測 AA 方面的優越性。
-
-##### **Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**
-2412.19124v1 by Valay Bundele, Oğuz Ata Çal, Bora Kargi, Karahan Sarıtaş, Kıvanç Tezören, Zohreh Ghaderi, Hendrik Lensch
-
-Self-supervised learning (SSL) has emerged as a promising paradigm in medical
-imaging, addressing the chronic challenge of limited labeled data in healthcare
-settings. While SSL has shown impressive results, existing studies in the
-medical domain are often limited in scope, focusing on specific datasets or
-modalities, or evaluating only isolated aspects of model performance. This
-fragmented evaluation approach poses a significant challenge, as models
-deployed in critical medical settings must not only achieve high accuracy but
-also demonstrate robust performance and generalizability across diverse
-datasets and varying conditions. To address this gap, we present a
-comprehensive evaluation of SSL methods within the medical domain, with a
-particular focus on robustness and generalizability. Using the MedMNIST dataset
-collection as a standardized benchmark, we evaluate 8 major SSL methods across
-11 different medical datasets. Our study provides an in-depth analysis of model
-performance in both in-domain scenarios and the detection of
-out-of-distribution (OOD) samples, while exploring the effect of various
-initialization strategies, model architectures, and multi-domain pre-training.
-We further assess the generalizability of SSL methods through cross-dataset
-evaluations and the in-domain performance with varying label proportions (1%,
-10%, and 100%) to simulate real-world scenarios with limited supervision. We
-hope this comprehensive benchmark helps practitioners and researchers make more
-informed decisions when applying SSL methods to medical applications.
-
-摘要：自我監督學習 (SSL) 已成為醫學影像中一個有前途的範例，用於解決醫療保健環境中標籤資料有限的長期挑戰。雖然 SSL 已展現令人印象深刻的結果，但醫學領域中的現有研究通常範圍有限，專注於特定資料集或方式，或僅評估模型效能的孤立面向。這種片段化的評估方式構成重大挑戰，因為在關鍵醫療環境中部署的模型不僅必須達到高準確度，還必須展現強健的效能和跨不同資料集和不同條件的一般化能力。為了解決這個差距，我們針對醫學領域中的 SSL 方法提出全面的評估，特別著重於強健性和一般化能力。使用 MedMNIST 資料集集合作為標準基準，我們在 11 個不同的醫學資料集上評估 8 種主要的 SSL 方法。我們的研究深入分析了模型在領域內情境和偵測分佈外 (OOD) 樣本中的效能，同時探索各種初始化策略、模型架構和多領域預訓練的影響。我們進一步透過跨資料集評估和在不同標籤比例 (1%、10% 和 100%) 下的領域內效能評估 SSL 方法的一般化能力，以模擬監督有限的真實世界情境。我們希望這個全面的基準能幫助從業人員和研究人員在將 SSL 方法應用於醫療應用時做出更明智的決策。
-
-##### **Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**
-2412.19026v1 by Yixin Chen, Lin Gao, Yajuan Gao, Rui Wang, Jingge Lian, Xiangxi Meng, Yanhua Duan, Leiying Chai, Hongbin Han, Zhaoping Cheng, Zhaoheng Xie
-
-The integration of deep learning in medical imaging has shown great promise
-for enhancing diagnostic, therapeutic, and research outcomes. However, applying
-universal models across multiple modalities remains challenging due to the
-inherent variability in data characteristics. This study aims to introduce and
-evaluate a Modality Projection Universal Model (MPUM). MPUM employs a novel
-modality-projection strategy, which allows the model to dynamically adjust its
-parameters to optimize performance across different imaging modalities. The
-MPUM demonstrated superior accuracy in identifying anatomical structures,
-enabling precise quantification for improved clinical decision-making. It also
-identifies metabolic associations within the brain-body axis, advancing
-research on brain-body physiological correlations. Furthermore, MPUM's unique
-controller-based convolution layer enables visualization of saliency maps
-across all network layers, significantly enhancing the model's
-interpretability.
-
-摘要：深度學習在醫學影像中的整合已展現出極大的前景，用於增強診斷、治療和研究成果。然而，由於資料特性的內在變異性，在多種方式中應用通用模型仍然具有挑戰性。本研究旨在介紹和評估方式投影通用模型 (MPUM)。MPUM 採用一種新穎的方式投影策略，使模型能夠動態調整其參數，以優化不同影像方式的效能。MPUM 在識別解剖結構方面表現出優異的準確性，能夠進行精確量化，以改善臨床決策制定。它還識別出腦體軸內的代謝關聯，推動了對腦體生理相關性的研究。此外，MPUM 獨特的基於控制器的卷積層能夠視覺化所有網路層的顯著性圖，顯著增強了模型的可解釋性。
-
-##### **MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**
-2412.18947v2 by Kaiwen Zuo, Yirui Jiang
-
-Medical Large Language Models (MLLMs) have demonstrated potential in
-healthcare applications, yet their propensity for hallucinations -- generating
-medically implausible or inaccurate information -- presents substantial risks
-to patient care. This paper introduces MedHallBench, a comprehensive benchmark
-framework for evaluating and mitigating hallucinations in MLLMs. Our
-methodology integrates expert-validated medical case scenarios with established
-medical databases to create a robust evaluation dataset. The framework employs
-a sophisticated measurement system that combines automated ACHMI (Automatic
-Caption Hallucination Measurement in Medical Imaging) scoring with rigorous
-clinical expert evaluations and utilizes reinforcement learning methods to
-achieve automatic annotation. Through an optimized reinforcement learning from
-human feedback (RLHF) training pipeline specifically designed for medical
-applications, MedHallBench enables thorough evaluation of MLLMs across diverse
-clinical contexts while maintaining stringent accuracy standards. We conducted
-comparative experiments involving various models, utilizing the benchmark to
-establish a baseline for widely adopted large language models (LLMs). Our
-findings indicate that ACHMI provides a more nuanced understanding of the
-effects of hallucinations compared to traditional metrics, thereby highlighting
-its advantages in hallucination assessment. This research establishes a
-foundational framework for enhancing MLLMs' reliability in healthcare settings
-and presents actionable strategies for addressing the critical challenge of AI
-hallucinations in medical applications.
-
-摘要：大型醫療語言模型 (MLLM) 已在醫療保健應用中展現潛力，但它們產生醫學上不合理或不準確資訊的幻覺傾向，對病患照護構成重大風險。本文介紹 MedHallBench，一個用於評估和減輕 MLLM 中幻覺的綜合基準架構。我們的做法整合了專家驗證的醫療案例場景與既定的醫療資料庫，以建立一個穩健的評估資料集。該框架採用一個精密的測量系統，結合自動化 ACHMI（醫學影像中自動標題幻覺測量）評分與嚴謹的臨床專家評估，並利用強化學習方法來實現自動註解。透過專為醫療應用設計的最佳化人類回饋強化學習 (RLHF) 訓練管線，MedHallBench 能夠在不同的臨床背景下徹底評估 MLLM，同時維持嚴格的準確性標準。我們進行了涉及各種模型的比較實驗，利用基準來為廣泛採用的大型語言模型 (LLM) 建立基準。我們的研究結果表明，與傳統指標相比，ACHMI 對幻覺的影響提供了更細緻的理解，從而突顯了它在幻覺評估中的優勢。這項研究為提高 MLLM 在醫療保健環境中的可靠性建立了一個基礎框架，並提出了可行的策略來應對醫療應用中 AI 幻覺的關鍵挑戰。
-
-##### **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**
-2412.18925v1 by Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
-
-The breakthrough of OpenAI o1 highlights the potential of enhancing reasoning
-to improve LLM. Yet, most research in reasoning has focused on mathematical
-tasks, leaving domains like medicine underexplored. The medical domain, though
-distinct from mathematics, also demands robust reasoning to provide reliable
-answers, given the high standards of healthcare. However, verifying medical
-reasoning is challenging, unlike those in mathematics. To address this, we
-propose verifiable medical problems with a medical verifier to check the
-correctness of model outputs. This verifiable nature enables advancements in
-medical reasoning through a two-stage approach: (1) using the verifier to guide
-the search for a complex reasoning trajectory for fine-tuning LLMs, (2)
-applying reinforcement learning (RL) with verifier-based rewards to enhance
-complex reasoning further. Finally, we introduce HuatuoGPT-o1, a medical LLM
-capable of complex reasoning, which outperforms general and medical-specific
-baselines using only 40K verifiable problems. Experiments show complex
-reasoning improves medical problem-solving and benefits more from RL. We hope
-our approach inspires advancements in reasoning across medical and other
-specialized domains.
-
-摘要：OpenAI o1 的突破突顯了增強推理以改善 LLM 的潛力。然而，推理的大部分研究都集中在數學任務上，而醫學等領域則尚未充分探討。儘管醫學領域與數學不同，但鑑於醫療保健的高標準，它也需要強大的推理能力才能提供可靠的答案。然而，驗證醫學推理具有挑戰性，這與數學中的推理不同。為了解決這個問題，我們提出了可驗證的醫學問題，並使用醫學驗證器來檢查模型輸出的正確性。這種可驗證的性質通過以下兩個階段的方法實現了醫學推理的進步：(1) 使用驗證器來指導尋找複雜推理軌跡以微調 LLM，(2) 應用強化學習 (RL) 和基於驗證器的獎勵來進一步增強複雜推理。最後，我們介紹了 HuatuoGPT-o1，這是一個具備複雜推理能力的醫學 LLM，它僅使用 40K 個可驗證問題就優於一般和特定於醫學的基準。實驗表明，複雜推理改進了醫學問題解決，並從 RL 中受益更多。我們希望我們的做法能激勵醫學和其他專業領域的推理進步。
-
-##### **Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data**
-2412.18894v1 by Serkan Salturk, Irem Sayin, Ibrahim Cem Balci, Taha Emre Pamukcu, Zafer Soydan, Huseyin Uvet
-
-Lumbar disk segmentation is essential for diagnosing and curing spinal
-disorders by enabling precise detection of disk boundaries in medical imaging.
-The advent of deep learning has resulted in the development of many
-segmentation methods, offering differing levels of accuracy and effectiveness.
-This study assesses the effectiveness of several sophisticated deep learning
-architectures, including ResUnext, Ef3 Net, UNet, and TransUNet, for lumbar
-disk segmentation, highlighting key metrics like as Pixel Accuracy, Mean
-Intersection over Union (Mean IoU), and Dice Coefficient. The findings indicate
-that ResUnext achieved the highest segmentation accuracy, with a Pixel Accuracy
-of 0.9492 and a Dice Coefficient of 0.8425, with TransUNet following closely
-after. Filtering techniques somewhat enhanced the performance of most models,
-particularly Dense UNet, improving stability and segmentation quality. The
-findings underscore the efficacy of these models in lumbar disk segmentation
-and highlight potential areas for improvement.
-
-摘要：腰椎間盤分割對於診斷和治療脊椎疾病至關重要，因為它可以在醫學影像中精確檢測椎間盤的邊界。深度學習的出現導致了許多分割方法的開發，這些方法提供了不同程度的準確性和有效性。本研究評估了幾種複雜的深度學習架構的有效性，包括 ResUnext、Ef3 Net、UNet 和 TransUNet，用於腰椎間盤分割，重點關注關鍵指標，例如像素準確度、平均聯合交集（平均 IoU）和骰子係數。研究結果表明，ResUnext 達到了最高的分割準確度，像素準確度為 0.9492，骰子係數為 0.8425，緊隨其後的是 TransUNet。過濾技術在一定程度上提高了大多數模型的性能，特別是 Dense UNet，提高了穩定性和分割質量。研究結果強調了這些模型在腰椎間盤分割中的功效，並強調了潛在的改進領域。
-
-##### **Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models**
-2412.18863v1 by Meltem Aksoy
-
-Large language models (LLMs) have become integral tools in diverse domains,
-yet their moral reasoning capabilities across cultural and linguistic contexts
-remain underexplored. This study investigates whether multilingual LLMs, such
-as GPT-3.5-Turbo, GPT-4o-mini, Llama 3.1, and MistralNeMo, reflect culturally
-specific moral values or impose dominant moral norms, particularly those rooted
-in English. Using the updated Moral Foundations Questionnaire (MFQ-2) in eight
-languages, Arabic, Farsi, English, Spanish, Japanese, Chinese, French, and
-Russian, the study analyzes the models' adherence to six core moral
-foundations: care, equality, proportionality, loyalty, authority, and purity.
-The results reveal significant cultural and linguistic variability, challenging
-the assumption of universal moral consistency in LLMs. Although some models
-demonstrate adaptability to diverse contexts, others exhibit biases influenced
-by the composition of the training data. These findings underscore the need for
-culturally inclusive model development to improve fairness and trust in
-multilingual AI systems.
-
-摘要：大型語言模型 (LLM) 已成為各個領域不可或缺的工具，
-但它們在不同文化和語言背景下的道德推理能力
-仍未得到充分探討。本研究探討多語言 LLM，例如
-GPT-3.5-Turbo、GPT-4o-mini、Llama 3.1 和 MistralNeMo，是否反映了特定文化的
-道德價值觀或強加了主流道德規範，尤其是植根於英語的規範。使用更新的道德基礎問卷 (MFQ-2) 八種
-語言，阿拉伯語、波斯語、英語、西班牙語、日語、中文、法語和
-俄語，該研究分析了模型對六個核心道德的遵守情況
-基礎：關懷、平等、相稱性、忠誠、權威和純潔。
-結果揭示了顯著的文化和語言變異性，挑戰了 LLM 中普遍道德一致性的假設。儘管一些模型
-證明了對不同背景的適應性，而另一些模型則表現出受訓練數據組成影響的偏見。這些發現強調了
-文化包容模型開發的必要性，以提高公平性和對
-多語言人工智能系統的信任。
-
-##### **Unified Local and Global Attention Interaction Modeling for Vision Transformers**
-2412.18778v1 by Tan Nguyen, Coy D. Heldermon, Corey Toler-Franklin
-
-We present a novel method that extends the self-attention mechanism of a
-vision transformer (ViT) for more accurate object detection across diverse
-datasets. ViTs show strong capability for image understanding tasks such as
-object detection, segmentation, and classification. This is due in part to
-their ability to leverage global information from interactions among visual
-tokens. However, the self-attention mechanism in ViTs are limited because they
-do not allow visual tokens to exchange local or global information with
-neighboring features before computing global attention. This is problematic
-because tokens are treated in isolation when attending (matching) to other
-tokens, and valuable spatial relationships are overlooked. This isolation is
-further compounded by dot-product similarity operations that make tokens from
-different semantic classes appear visually similar. To address these
-limitations, we introduce two modifications to the traditional self-attention
-framework; a novel aggressive convolution pooling strategy for local feature
-mixing, and a new conceptual attention transformation to facilitate interaction
-and feature exchange between semantic concepts. Experimental results
-demonstrate that local and global information exchange among visual features
-before self-attention significantly improves performance on challenging object
-detection tasks and generalizes across multiple benchmark datasets and
-challenging medical datasets. We publish source code and a novel dataset of
-cancerous tumors (chimeric cell clusters).
-
-摘要：<paragraph>我們提出了一種新穎的方法，它擴展了視覺轉換器 (ViT) 的自注意力機制，以在不同的資料集上進行更準確的物件偵測。ViT 顯示出強大的影像理解任務能力，例如物件偵測、分割和分類。這部分歸功於它們能夠利用視覺標記之間互動的全局資訊。然而，ViT 中的自注意力機制受到限制，因為它們不允許視覺標記在計算全局注意力之前與鄰近特徵交換局部或全局資訊。這是個問題，因為在對其他標記進行注意力（比對）時，標記會被孤立處理，而有價值的空間關係則被忽略。這種孤立進一步加劇了點積相似度運算，這使得來自不同語義類別的標記看起來在視覺上相似。為了解決這些限制，我們對傳統的自注意力架構進行了兩項修改；一種新穎的積極卷積池化策略，用於局部特徵混合，以及一種新的概念注意力轉換，以促進語義概念之間的互動和特徵交換。實驗結果表明，在自注意力之前視覺特徵之間的局部和全局資訊交換，顯著改善了具有挑戰性的物件偵測任務的效能，並在多個基準資料集和具有挑戰性的醫療資料集上進行概化。我們發布了癌症腫瘤（嵌合細胞簇）的原始碼和新穎資料集。</paragraph>
-
-##### **Successes and Limitations of Object-centric Models at Compositional Generalisation**
-2412.18743v1 by Milton L. Montero, Jeffrey S. Bowers, Gaurav Malhotra
-
-In recent years, it has been shown empirically that standard disentangled
-latent variable models do not support robust compositional learning in the
-visual domain. Indeed, in spite of being designed with the goal of factorising
-datasets into their constituent factors of variations, disentangled models show
-extremely limited compositional generalisation capabilities. On the other hand,
-object-centric architectures have shown promising compositional skills, albeit
-these have 1) not been extensively tested and 2) experiments have been limited
-to scene composition -- where models must generalise to novel combinations of
-objects in a visual scene instead of novel combinations of object properties.
-In this work, we show that these compositional generalisation skills extend to
-this later setting. Furthermore, we present evidence pointing to the source of
-these skills and how they can be improved through careful training. Finally, we
-point to one important limitation that still exists which suggests new
-directions of research.
-
-摘要：近年来，经实证表明，标准解纠缠潜在变量模型不支持视觉领域的鲁棒组合学习。事实上，尽管解纠缠模型的设计目标是将数据集分解为其组成变化因子，但其组合泛化能力却极其有限。另一方面，以对象为中心的架构显示出有希望的组合技能，尽管这些技能 1) 尚未经过广泛测试，并且 2) 实验仅限于场景组合——其中模型必须泛化到视觉场景中对象的组合，而不是对象的组合属性。在这项工作中，我们表明这些组合泛化技能扩展到后一种设置。此外，我们提供了指向这些技能来源的证据，以及如何通过仔细训练来改进这些技能。最后，我们指出了仍然存在的一个重要限制，这提示了新的研究方向。
-
-##### **SurvAttack: Black-Box Attack On Survival Models through Ontology-Informed EHR Perturbation**
-2412.18706v1 by Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Bin Liu, Mei Liu, Zijun Yao
-
-Survival analysis (SA) models have been widely studied in mining electronic
-health records (EHRs), particularly in forecasting the risk of critical
-conditions for prioritizing high-risk patients. However, their vulnerability to
-adversarial attacks is much less explored in the literature. Developing
-black-box perturbation algorithms and evaluating their impact on
-state-of-the-art survival models brings two benefits to medical applications.
-First, it can effectively evaluate the robustness of models in pre-deployment
-testing. Also, exploring how subtle perturbations would result in significantly
-different outcomes can provide counterfactual insights into the clinical
-interpretation of model prediction. In this work, we introduce SurvAttack, a
-novel black-box adversarial attack framework leveraging subtle clinically
-compatible, and semantically consistent perturbations on longitudinal EHRs to
-degrade survival models' predictive performance. We specifically develop a
-greedy algorithm to manipulate medical codes with various adversarial actions
-throughout a patient's medical history. Then, these adversarial actions are
-prioritized using a composite scoring strategy based on multi-aspect
-perturbation quality, including saliency, perturbation stealthiness, and
-clinical meaningfulness. The proposed adversarial EHR perturbation algorithm is
-then used in an efficient SA-specific strategy to attack a survival model when
-estimating the temporal ranking of survival urgency for patients. To
-demonstrate the significance of our work, we conduct extensive experiments,
-including baseline comparisons, explainability analysis, and case studies. The
-experimental results affirm our research's effectiveness in illustrating the
-vulnerabilities of patient survival models, model interpretation, and
-ultimately contributing to healthcare quality.
-
-摘要：<paragraph>存活分析 (SA) 模型已在電子健康紀錄 (EHR) 的探勘中廣泛研究，特別是在預測危急狀況的風險以優先處理高風險患者。然而，文獻中對於它們對抗攻擊的脆弱性探索較少。開發黑盒擾動演算法並評估它們對最新存活模型的影響，為醫療應用帶來兩項好處。首先，它可以在部署前測試中有效評估模型的穩健性。此外，探索細微的擾動如何導致顯著不同的結果，可以提供反事實的見解，以進行模型預測的臨床解釋。在這項工作中，我們介紹了 SurvAttack，一個新穎的黑盒對抗攻擊架構，利用在縱向 EHR 上細微的臨床相容且語義一致的擾動，來降低存活模型的預測效能。我們特別開發了一個貪婪演算法，以各種對抗動作來操縱病歷中的醫療碼。然後，使用基於多方面擾動品質（包括顯著性、擾動隱蔽性和臨床意義）的複合評分策略，對這些對抗動作進行優先排序。然後將提出的對抗性 EHR 擾動演算法用於特定 SA 的有效策略中，以在估計患者存活緊急性的時間排序時攻擊存活模型。為了證明我們工作的意義，我們進行了廣泛的實驗，包括基線比較、可解釋性分析和案例研究。實驗結果肯定了我們的研究在說明患者存活模型、模型解釋的脆弱性，並最終有助於醫療保健品質方面的有效性。</paragraph>
-
-##### **A Review of Latent Representation Models in Neuroimaging**
-2412.19844v1 by C. Vázquez-García, F. J. Martínez-Murcia, F. Segovia Román, Juan M. Górriz
-
-Neuroimaging data, particularly from techniques like MRI or PET, offer rich
-but complex information about brain structure and activity. To manage this
-complexity, latent representation models - such as Autoencoders, Generative
-Adversarial Networks (GANs), and Latent Diffusion Models (LDMs) - are
-increasingly applied. These models are designed to reduce high-dimensional
-neuroimaging data to lower-dimensional latent spaces, where key patterns and
-variations related to brain function can be identified. By modeling these
-latent spaces, researchers hope to gain insights into the biology and function
-of the brain, including how its structure changes with age or disease, or how
-it encodes sensory information, predicts and adapts to new inputs. This review
-discusses how these models are used for clinical applications, like disease
-diagnosis and progression monitoring, but also for exploring fundamental brain
-mechanisms such as active inference and predictive coding. These approaches
-provide a powerful tool for both understanding and simulating the brain's
-complex computational tasks, potentially advancing our knowledge of cognition,
-perception, and neural disorders.
-
-摘要：神經影像資料，特別是來自於 MRI 或 PET 等技術，提供豐富但複雜的大腦結構與活動資訊。為了處理這種複雜性，潛在表徵模型（例如自動編碼器、生成對抗網路 (GAN) 和潛在擴散模型 (LDM)）的應用日益增加。這些模型旨在將高維度神經影像資料降維至低維度潛在空間，在其中可以識別與大腦功能相關的主要模式和變化。透過對這些潛在空間建模，研究人員希望深入了解大腦的生物學和功能，包括其結構如何隨著年齡或疾病而改變，或如何編碼感官資訊、預測和適應新的輸入。本篇評論探討這些模型如何用於臨床應用，例如疾病診斷和進程監控，以及探索主動推論和預測編碼等基本大腦機制。這些方法提供了一個強大的工具，可以用於理解和模擬大腦複雜的運算任務，並有可能增進我們對認知、知覺和神經疾病的認識。
-
-##### **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**
-2412.18597v1 by Minghong Cai, Xiaodong Cun, Xiaoyu Li, Wenze Liu, Zhaoyang Zhang, Yong Zhang, Ying Shan, Xiangyu Yue
-
-Sora-like video generation models have achieved remarkable progress with a
-Multi-Modal Diffusion Transformer MM-DiT architecture. However, the current
-video generation models predominantly focus on single-prompt, struggling to
-generate coherent scenes with multiple sequential prompts that better reflect
-real-world dynamic scenarios. While some pioneering works have explored
-multi-prompt video generation, they face significant challenges including
-strict training data requirements, weak prompt following, and unnatural
-transitions. To address these problems, we propose DiTCtrl, a training-free
-multi-prompt video generation method under MM-DiT architectures for the first
-time. Our key idea is to take the multi-prompt video generation task as
-temporal video editing with smooth transitions. To achieve this goal, we first
-analyze MM-DiT's attention mechanism, finding that the 3D full attention
-behaves similarly to that of the cross/self-attention blocks in the UNet-like
-diffusion models, enabling mask-guided precise semantic control across
-different prompts with attention sharing for multi-prompt video generation.
-Based on our careful design, the video generated by DiTCtrl achieves smooth
-transitions and consistent object motion given multiple sequential prompts
-without additional training. Besides, we also present MPVBench, a new benchmark
-specially designed for multi-prompt video generation to evaluate the
-performance of multi-prompt generation. Extensive experiments demonstrate that
-our method achieves state-of-the-art performance without additional training.
-
-摘要：類 Sora 的影片生成模型在多模態擴散Transformer MM-DiT 架構中取得顯著進展。然而，目前的影片生成模型主要專注於單一提示，難以生成包含多個循序提示的連貫場景，而這些提示更能反映真實世界的動態場景。儘管一些開創性的作品已探索多提示影片生成，但它們面臨嚴峻的挑戰，包括嚴格的訓練資料需求、提示追蹤能力不佳以及不自然的轉換。為了解決這些問題，我們提出 DiTCtrl，這是一種在 MM-DiT 架構下首次使用的免訓練多提示影片生成方法。我們的關鍵想法是將多提示影片生成任務視為具有平滑轉換的時序影片編輯。為了達成此目標，我們首先分析 MM-DiT 的注意力機制，發現 3D 全注意力與 UNet 類擴散模型中的交叉/自我注意力區塊有類似的行為，這使得我們能夠透過注意力共享進行遮罩導引的精確語意控制，以進行多提示影片生成。根據我們的精細設計，DiTCtrl 生成的影片在給定多個循序提示的情況下，可以實現平滑的轉換和一致的物件動作，而不需要額外的訓練。此外，我們還提出了 MPVBench，這是一個專門設計用於多提示影片生成的新基準，用於評估多提示生成的效果。廣泛的實驗證明，我們的方法在沒有額外訓練的情況下，達到了最先進的效能。
-
-##### **Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**
-2412.18545v1 by Mingyuan Meng, Michael Fulham, Lei Bi, Jinman Kim
-
-Deformable image registration is a fundamental requirement for medical image
-analysis. Recently, transformers have been widely used in deep learning-based
-registration methods for their ability to capture long-range dependency via
-self-attention (SA). However, the high computation and memory loads of SA
-(growing quadratically with the spatial resolution) hinder transformers from
-processing subtle textural information in high-resolution image features, e.g.,
-at the full and half image resolutions. This limits deformable registration as
-the high-resolution textural information is crucial for finding precise
-pixel-wise correspondence between subtle anatomical structures.
-Cross-covariance Attention (XCA), as a "transposed" version of SA that operates
-across feature channels, has complexity growing linearly with the spatial
-resolution, providing the feasibility of capturing long-range dependency among
-high-resolution image features. However, existing XCA-based transformers merely
-capture coarse global long-range dependency, which are unsuitable for
-deformable image registration relying primarily on fine-grained local
-correspondence. In this study, we propose to improve existing deep
-learning-based registration methods by embedding a new XCA mechanism. To this
-end, we design an XCA-based transformer block optimized for deformable medical
-image registration, named Multi-Axis XCA (MAXCA). Our MAXCA serves as a general
-network block that can be embedded into various registration network
-architectures. It can capture both global and local long-range dependency among
-high-resolution image features by applying regional and dilated XCA in parallel
-via a multi-axis design. Extensive experiments on two well-benchmarked
-inter-/intra-patient registration tasks with seven public medical datasets
-demonstrate that our MAXCA block enables state-of-the-art registration
-performance.
-
-摘要：可變形影像配準是醫學影像分析的基本需求。最近，Transformer已廣泛用於基於深度學習的配準方法，因為它們能透過自我注意 (SA) 擷取長程依賴性。然而，SA 的高運算和記憶體負載（隨著空間解析度呈二次成長）會阻礙Transformer處理高解析度影像特徵中的細微紋理資訊，例如在完整和半影像解析度中。這限制了可變形配準，因為高解析度紋理資訊對於在細微解剖結構之間找到精確的像素對應至關重要。跨協方差注意 (XCA) 作為 SA 的「轉置」版本，其運作跨特徵通道，複雜度隨著空間解析度呈線性成長，提供擷取高解析度影像特徵之間長程依賴性的可行性。然而，現有的基於 XCA 的Transformer僅擷取粗略的全局長程依賴性，這不適合主要依賴細粒度局部對應的可變形影像配準。在本研究中，我們提出透過嵌入新的 XCA 機制來改善現有的基於深度學習的配準方法。為此，我們設計了一個針對可變形醫學影像配準最佳化的基於 XCA 的Transformer區塊，稱為多軸 XCA (MAXCA)。我們的 MAXCA 是一個通用網路區塊，可以嵌入到各種配準網路架構中。它可以透過多軸設計並行應用區域和膨脹的 XCA，來擷取高解析度影像特徵之間的全局和局部長程依賴性。在兩個廣泛基準化的患者間/患者內配準任務中，使用七個公共醫學資料集進行的廣泛實驗證明，我們的 MAXCA 區塊能實現最先進的配準效能。
-
-##### **Multi-Agent Norm Perception and Induction in Distributed Healthcare**
-2412.18454v1 by Chao Li, Olga Petruchik, Elizaveta Grishanina, Sergey Kovalchuk
-
-This paper presents a Multi-Agent Norm Perception and Induction Learning
-Model aimed at facilitating the integration of autonomous agent systems into
-distributed healthcare environments through dynamic interaction processes. The
-nature of the medical norm system and its sharing channels necessitates
-distinct approaches for Multi-Agent Systems to learn two types of norms.
-Building on this foundation, the model enables agents to simultaneously learn
-descriptive norms, which capture collective tendencies, and prescriptive norms,
-which dictate ideal behaviors. Through parameterized mixed probability density
-models and practice-enhanced Markov games, the multi-agent system perceives
-descriptive norms in dynamic interactions and captures emergent prescriptive
-norms. We conducted experiments using a dataset from a neurological medical
-center spanning from 2016 to 2020.
-
-摘要：本文提出了一個多主體規範感知與歸納學習模型，旨在透過動態互動程序促進自主主體系統整合到分散式醫療保健環境中。醫療規範系統的本質及其共享管道需要不同的方法，讓多主體系統學習兩種規範。基於此基礎，該模型讓主體能夠同時學習描述性規範（捕捉集體傾向）和規範性規範（規定理想行為）。透過參數化混合機率密度模型和實務增強馬可夫博弈，多主體系統在動態互動中感知描述性規範，並捕捉新興的規範性規範。我們使用 2016 年至 2020 年期間一個神經醫學醫療中心的数据集進行了實驗。
-
-##### **Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**
-2412.18419v1 by Zihan Zhou, Ziyi Zeng, Wenhao Jiang, Yihui Zhu, Jiaxin Mao, Yonggui Yuan, Min Xia, Shubin Zhao, Mengyu Yao, Yunqian Chen
-
-As social changes accelerate, the incidence of psychosomatic disorders has
-significantly increased, becoming a major challenge in global health issues.
-This necessitates an innovative knowledge system and analytical methods to aid
-in diagnosis and treatment. Here, we establish the ontology model and entity
-types, using the BERT model and LoRA-tuned LLM for named entity recognition,
-constructing the knowledge graph with 9668 triples. Next, by analyzing the
-network distances between disease, symptom, and drug modules, it was found that
-closer network distances among diseases can predict greater similarities in
-their clinical manifestations, treatment approaches, and psychological
-mechanisms, and closer distances between symptoms indicate that they are more
-likely to co-occur. Lastly, by comparing the proximity d and proximity z score,
-it was shown that symptom-disease pairs in primary diagnostic relationships
-have a stronger association and are of higher referential value than those in
-diagnostic relationships. The research results revealed the potential
-connections between diseases, co-occurring symptoms, and similarities in
-treatment strategies, providing new perspectives for the diagnosis and
-treatment of psychosomatic disorders and valuable information for future mental
-health research and practice.
-
-摘要：隨著社會變遷加速，心身疾病發生率顯著增加，成為全球衛生議題上的重大挑戰。這需要創新的知識體系與分析方法，以協助診斷與治療。在此，我們建立了本体模型與實體類型，利用 BERT 模型與 LoRA 調校過的 LLM 進行命名實體辨識，建構出 9668 個三元組的知識圖譜。接著，透過分析疾病、症狀、藥物模組間的網路距離，發現疾病間較近的網路距離，可預測其臨床表現、治療方式、心理機轉的相似性較高；而症狀間距離較近，則表示較可能共現。最後，透過比較接近度 d 與接近度 z 分數，發現初次診斷關係中的症狀-疾病對，其關聯性較強、參考價值較高，優於診斷關係中的症狀-疾病對。研究成果揭示了疾病、共現症狀、治療策略間的潛在關聯，為心身疾病的診斷與治療提供了新的觀點，也為未來心理健康研究與實務提供了寶貴的資訊。
-
-##### **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**
-2412.18370v2 by Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
-
-Graph neural networks (GNNs) have emerged as an effective tool for fraud
-detection, identifying fraudulent users, and uncovering malicious behaviors.
-However, attacks against GNN-based fraud detectors and their risks have rarely
-been studied, thereby leaving potential threats unaddressed. Recent findings
-suggest that frauds are increasingly organized as gangs or groups. In this
-work, we design attack scenarios where fraud gangs aim to make their fraud
-nodes misclassified as benign by camouflaging their illicit activities in
-collusion. Based on these scenarios, we study adversarial attacks against
-GNN-based fraud detectors by simulating attacks of fraud gangs in three
-real-world fraud cases: spam reviews, fake news, and medical insurance frauds.
-We define these attacks as multi-target graph injection attacks and propose
-MonTi, a transformer-based Multi-target one-Time graph injection attack model.
-MonTi simultaneously generates attributes and edges of all attack nodes with a
-transformer encoder, capturing interdependencies between attributes and edges
-more effectively than most existing graph injection attack methods that
-generate these elements sequentially. Additionally, MonTi adaptively allocates
-the degree budget for each attack node to explore diverse injection structures
-involving target, candidate, and attack nodes, unlike existing methods that fix
-the degree budget across all attack nodes. Experiments show that MonTi
-outperforms the state-of-the-art graph injection attack methods on five
-real-world graphs.
-
-摘要：圖神經網路 (GNN) 已成為詐欺偵測、識別詐騙使用者和揭露惡意行為的有效工具。
-然而，針對基於 GNN 的詐欺偵測器的攻擊及其風險鮮少被研究，因此潛在威脅仍未獲得解決。最近的研究結果表明，詐欺行為正日益以幫派或團體的形式組織起來。在本文中，我們設計了攻擊情境，其中詐欺幫派旨在通過串通掩護其非法活動，使他們的詐欺節點被錯誤分類為良性。基於這些情境，我們通過模擬三個真實世界的詐欺案例（垃圾評論、假新聞和醫療保險詐欺）中的詐欺幫派攻擊來研究針對基於 GNN 的詐欺偵測器的對抗性攻擊。我們將這些攻擊定義為多目標圖形注入攻擊，並提出 MonTi，一個基於 Transformer 的多目標一次性圖形注入攻擊模型。MonTi 同時使用 Transformer 編碼器生成所有攻擊節點的屬性和邊緣，比大多數現有的圖形注入攻擊方法更有效地捕捉屬性和邊緣之間的相互依賴性，後者按順序生成這些元素。此外，與固定所有攻擊節點的度預算的現有方法不同，MonTi 自適應地分配每個攻擊節點的度預算，以探索涉及目標、候選和攻擊節點的多樣化注入結構。實驗表明，MonTi 在五個真實世界圖形上優於最先進的圖形注入攻擊方法。
-
-##### **Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**
-2412.18096v1 by Yu He Ke, Liyuan Jin, Kabilan Elangovan, Bryan Wen Xi Ong, Chin Yang Oh, Jacqueline Sim, Kenny Wei-Tsen Loh, Chai Rick Soh, Jonathan Ming Hua Cheng, Aaron Kwang Yang Lee, Daniel Shu Wei Ting, Nan Liu, Hairil Rizal Abdullah
-
-Large Language Models (LLMs) are emerging as powerful tools in healthcare,
-particularly for complex, domain-specific tasks. This study describes the
-development and evaluation of the PErioperative AI CHatbot (PEACH), a secure
-LLM-based system integrated with local perioperative guidelines to support
-preoperative clinical decision-making. PEACH was embedded with 35 institutional
-perioperative protocols in the secure Claude 3.5 Sonet LLM framework within
-Pair Chat (developed by Singapore Government) and tested in a silent deployment
-with real-world data. Accuracy, safety, and usability were assessed. Deviations
-and hallucinations were categorized based on potential harm, and user feedback
-was evaluated using the Technology Acceptance Model (TAM). Updates were made
-after the initial silent deployment to amend one protocol.
-  In 240 real-world clinical iterations, PEACH achieved a first-generation
-accuracy of 97.5% (78/80) and an overall accuracy of 96.7% (232/240) across
-three iterations. The updated PEACH demonstrated improved accuracy of 97.9%
-(235/240), with a statistically significant difference from the null hypothesis
-of 95% accuracy (p = 0.018, 95% CI: 0.952-0.991). Minimal hallucinations and
-deviations were observed (both 1/240 and 2/240, respectively). Clinicians
-reported that PEACH expedited decisions in 95% of cases, and inter-rater
-reliability ranged from kappa 0.772-0.893 within PEACH and 0.610-0.784 among
-attendings.
-  PEACH is an accurate, adaptable tool that enhances consistency and efficiency
-in perioperative decision-making. Future research should explore its
-scalability across specialties and its impact on clinical outcomes.
-
-摘要：大型語言模型 (LLM) 正成為醫療保健領域強大的工具，特別適用於複雜的特定領域任務。本研究描述了圍手術期 AI 聊天機器人 (PEACH) 的開發和評估，這是一個安全的 LLM 基礎系統，與本地的圍手術期準則整合，以支援術前臨床決策制定。PEACH 嵌入 35 個機構圍手術期協定，在新加坡政府開發的 Pair Chat 中，採用安全的 Claude 3.5 Sonet LLM 架構，並在靜默部署中使用真實世界資料進行測試。評估了準確性、安全性及可用性。偏差和幻覺依潛在危害進行分類，並使用技術接受模型 (TAM) 評估使用者回饋。在最初的靜默部署後，進行更新以修正一個協定。
-  在 240 個真實世界的臨床迭代中，PEACH 在三個迭代中取得 97.5% (78/80) 的第一代準確性，以及 96.7% (232/240) 的整體準確性。更新後的 PEACH 展示出 97.9% (235/240) 的準確性提升，與 95% 準確性的空假設有統計上的顯著差異 (p = 0.018，95% CI：0.952-0.991)。觀察到最小的幻覺和偏差 (分別為 1/240 和 2/240)。臨床醫生回報 PEACH 在 95% 的案例中加速了決策，而評分者間信度在 PEACH 內介於 kappa 0.772-0.893，在主治醫師之間介於 0.610-0.784。
-  PEACH 是一個準確且適應性強的工具，可增進圍手術期決策制定的一致性和效率。未來的研究應探索其跨專業的可擴展性，以及其對臨床結果的影響。
-
-##### **Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**
-2412.18043v1 by Yidong Gan, Maciej Rybinski, Ben Hachey, Jonathan K. Kummerfeld
-
-Clinical coding is crucial for healthcare billing and data analysis. Manual
-clinical coding is labour-intensive and error-prone, which has motivated
-research towards full automation of the process. However, our analysis, based
-on US English electronic health records and automated coding research using
-these records, shows that widely used evaluation methods are not aligned with
-real clinical contexts. For example, evaluations that focus on the top 50 most
-common codes are an oversimplification, as there are thousands of codes used in
-practice. This position paper aims to align AI coding research more closely
-with practical challenges of clinical coding. Based on our analysis, we offer
-eight specific recommendations, suggesting ways to improve current evaluation
-methods. Additionally, we propose new AI-based methods beyond automated coding,
-suggesting alternative approaches to assist clinical coders in their workflows.
-
-摘要：臨床編碼對於醫療保健計費和數據分析至關重要。手動臨床編碼勞力密集且容易出錯，這促使研究朝向流程的全面自動化。然而，我們的分析基於美國英文電子健康記錄和使用這些記錄的自動編碼研究，顯示廣泛使用的評估方法與實際臨床背景不符。例如，專注於前 50 個最常見代碼的評估過於簡化，因為實務上使用了數千個代碼。本立場文件旨在讓 AI 編碼研究更貼近臨床編碼的實際挑戰。根據我們的分析，我們提出八項具體建議，提出改善目前評估方法的方法。此外，我們提出超越自動編碼的新 AI 方法，提出協助臨床編碼人員進行工作流程的替代方法。
-
-##### **A Grounded Observer Framework for Establishing Guardrails for Foundation Models in Socially Sensitive Domains**
-2412.18639v1 by Rebecca Ramnauth, Dražen Brščić, Brian Scassellati
-
-As foundation models increasingly permeate sensitive domains such as
-healthcare, finance, and mental health, ensuring their behavior meets desired
-outcomes and social expectations becomes critical. Given the complexities of
-these high-dimensional models, traditional techniques for constraining agent
-behavior, which typically rely on low-dimensional, discrete state and action
-spaces, cannot be directly applied. Drawing inspiration from robotic action
-selection techniques, we propose the grounded observer framework for
-constraining foundation model behavior that offers both behavioral guarantees
-and real-time variability. This method leverages real-time assessment of
-low-level behavioral characteristics to dynamically adjust model actions and
-provide contextual feedback. To demonstrate this, we develop a system capable
-of sustaining contextually appropriate, casual conversations ("small talk"),
-which we then apply to a robot for novel, unscripted interactions with humans.
-Finally, we discuss potential applications of the framework for other social
-contexts and areas for further research.
-
-摘要：隨著基礎模型日益滲透醫療保健、金融和心理健康等敏感領域，確保其行為符合預期的結果和社會期望至關重要。鑑於這些高維度模型的複雜性，傳統的約束代理行為技術（通常依賴於低維度、離散狀態和動作空間）無法直接應用。從機器人動作選擇技術中汲取靈感，我們提出了基礎模型行為約束的基礎觀察者框架，該框架既提供了行為保證，又提供了實時變異性。此方法利用對低層行為特徵的實時評估，來動態調整模型動作並提供情境回饋。為了證明這一點，我們開發了一個系統，能夠維持適當的語境、隨意的對話（「閒聊」），然後我們將其應用於機器人，以進行與人類的新穎、非腳本互動。最後，我們討論了該框架在其他社會環境中的潛在應用，以及進一步研究的領域。
-
-##### **Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks**
-2412.17975v1 by Victor Júnio Alcântara Cardoso, Rodrigo Moreira, João Fernando Mari, Larissa Ferreira Rodrigues Moreira
-
-Sickle cell anemia, which is characterized by abnormal erythrocyte
-morphology, can be detected using microscopic images. Computational techniques
-in medicine enhance the diagnosis and treatment efficiency. However, many
-computational techniques, particularly those based on Convolutional Neural
-Networks (CNNs), require high resources and time for training, highlighting the
-research opportunities in methods with low computational overhead. In this
-paper, we propose a novel approach combining conventional classifiers,
-segmented images, and CNNs for the automated classification of sickle cell
-disease. We evaluated the impact of segmented images on classification,
-providing insight into deep learning integration. Our results demonstrate that
-using segmented images and CNN features with an SVM achieves an accuracy of
-96.80%. This finding is relevant for computationally efficient scenarios,
-paving the way for future research and advancements in medical-image analysis.
-
-摘要：镰状细胞贫血症的特征是红细胞形态异常，可通过显微镜图像检测。医学中的计算技术提高了诊断和治疗效率。然而，许多计算技术，特别是基于卷积神经网络 (CNN) 的技术，需要大量的资源和时间进行训练，这突出了低计算开销方法的研究机会。在本文中，我们提出了一种新颖的方法，结合传统分类器、分割图像和 CNN，用于镰状细胞病的自动化分类。我们评估了分割图像对分类的影响，提供了对深度学习集成的见解。我们的结果表明，使用分割图像和 CNN 特征与 SVM 一起使用可实现 96.80% 的准确率。这一发现与计算效率高的场景相关，为医学图像分析的未来研究和进步铺平了道路。
-
-##### **A Novel Approach to Balance Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes and its Implementation in BEACON**
-2412.17910v1 by Vansh Nagpal, Siva Likitha Valluru, Kausik Lakkaraju, Nitin Gupta, Zach Abdulrahman, Andrew Davison, Biplav Srivastava
-
-"A common decision made by people, whether healthy or with health conditions,
-is choosing meals like breakfast, lunch, and dinner, comprising combinations of
-foods for appetizer, main course, side dishes, desserts, and beverages. Often,
-this decision involves tradeoffs between nutritious choices (e.g., salt and
-sugar levels, nutrition content) and convenience (e.g., cost and accessibility,
-cuisine type, food source type). We present a data-driven solution for meal
-recommendations that considers customizable meal configurations and time
-horizons. This solution balances user preferences while accounting for food
-constituents and cooking processes. Our contributions include introducing
-goodness measures, a recipe conversion method from text to the recently
-introduced multimodal rich recipe representation (R3) format, learning methods
-using contextual bandits that show promising preliminary results, and the
-prototype, usage-inspired, BEACON system."
-
-摘要：「無論是健康或患有健康狀況的人，都會做出的常見決定，
-是選擇像早餐、午餐和晚餐等餐點，包括開胃菜、主菜、配菜、甜點和飲料的組合。通常，
-這個決定涉及營養選擇（例如鹽和糖的含量、營養成分）和便利性（例如成本和可取得性、菜系類型、食物來源類型）之間的權衡。我們提出一個資料驅動的解決方案，用於餐點推薦，它考量了可自訂的餐點配置和時間範圍。這個解決方案在考量食物成分和烹飪過程的同時，平衡了使用者的喜好。我們的貢獻包括引進優良措施、從文字到最近推出的多模式豐富食譜表示法 (R3) 格式的食譜轉換方法、使用情境強盜的學習方法，這些方法顯示出有希望的初步結果，以及原型、使用靈感的 BEACON 系統。」
-
-##### **Detecting anxiety and depression in dialogues: a multi-label and explainable approach**
-2412.17651v1 by Francisco de Arriba-Pérez, Silvia García-Méndez
-
-Anxiety and depression are the most common mental health issues worldwide,
-affecting a non-negligible part of the population. Accordingly, stakeholders,
-including governments' health systems, are developing new strategies to promote
-early detection and prevention from a holistic perspective (i.e., addressing
-several disorders simultaneously). In this work, an entirely novel system for
-the multi-label classification of anxiety and depression is proposed. The input
-data consists of dialogues from user interactions with an assistant chatbot.
-Another relevant contribution lies in using Large Language Models (LLMs) for
-feature extraction, provided the complexity and variability of language. The
-combination of LLMs, given their high capability for language understanding,
-and Machine Learning (ML) models, provided their contextual knowledge about the
-classification problem thanks to the labeled data, constitute a promising
-approach towards mental health assessment. To promote the solution's
-trustworthiness, reliability, and accountability, explainability descriptions
-of the model's decision are provided in a graphical dashboard. Experimental
-results on a real dataset attain 90 % accuracy, improving those in the prior
-literature. The ultimate objective is to contribute in an accessible and
-scalable way before formal treatment occurs in the healthcare systems.
-
-摘要：焦慮和憂鬱症是全球最常見的心理健康問題，
-影響著人口中不可忽視的一部分。因此，利益相關者，
-包括政府的衛生系統，正在制定新的策略來促進
-從整體角度及早發現和預防（即同時解決
-多種疾病）。在這項工作中，一個完全新穎的系統
-用於焦慮和憂鬱症的多標籤分類。輸入
-資料包含使用者與助理聊天機器人互動的對話。
-另一個相關的貢獻在於使用大型語言模型 (LLM) 進行
-特徵萃取，提供了語言的複雜性和可變性。LLM 的組合，
-由於它們對語言理解的高能力，以及機器學習 (ML) 模型，
-由於它們對分類問題的背景知識，這要歸功於標籤資料，
-構成了一種有希望的心理健康評估方法。為了促進解決方案的
-可信度、可靠性和問責制，模型決策的可解釋性描述
-在圖形儀表板中提供。在真實資料集上的實驗結果達到 90% 的準確度，
-改進了先前文獻中的準確度。最終目標是以一種可訪問且
-可擴展的方式做出貢獻，在醫療保健系統中進行正式治療之前。
-
-##### **Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey**
-2412.17616v1 by Zixuan Shanggua, Yanjie Dong, Song Guo, Victor C. M. Leung, M. Jamal Deen, Xiping Hu
-
-Facial expressions convey human emotions and can be categorized into
-macro-expressions (MaEs) and micro-expressions (MiEs) based on duration and
-intensity. While MaEs are voluntary and easily recognized, MiEs are
-involuntary, rapid, and can reveal concealed emotions. The integration of
-facial expression analysis with Internet-of-Thing (IoT) systems has significant
-potential across diverse scenarios. IoT-enhanced MaE analysis enables real-time
-monitoring of patient emotions, facilitating improved mental health care in
-smart healthcare. Similarly, IoT-based MiE detection enhances surveillance
-accuracy and threat detection in smart security. This work aims at providing a
-comprehensive overview of research progress in facial expression analysis and
-explores its integration with IoT systems. We discuss the distinctions between
-our work and existing surveys, elaborate on advancements in MaE and MiE
-techniques across various learning paradigms, and examine their potential
-applications in IoT. We highlight challenges and future directions for the
-convergence of facial expression-based technologies and IoT systems, aiming to
-foster innovation in this domain. By presenting recent developments and
-practical applications, this study offers a systematic understanding of how
-facial expression analysis can enhance IoT systems in healthcare, security, and
-beyond.
-
-摘要：面部表情傳達人類的情緒，並可根據持續時間和強度分為宏觀表情（MaE）和微表情（MiE）。雖然 MaE 是自願且易於識別的，但 MiE 是非自願的、快速的，並且可以揭示隱藏的情緒。面部表情分析與物聯網（IoT）系統的整合在不同場景中具有顯著的潛力。增強型 MaE 分析的 IoT 可實現對患者情緒的實時監控，促進智慧醫療中的心理保健改善。類似地，基於 IoT 的 MiE 檢測增強了智慧安全中的監控準確性和威脅檢測。這項工作旨在提供面部表情分析研究進展的全面概述，並探討其與 IoT 系統的整合。我們討論了我們的工作與現有調查之間的區別，闡述了各種學習範例中 MaE 和 MiE 技術的進步，並探討了它們在 IoT 中的潛在應用。我們強調了基於面部表情的技術與 IoT 系統融合的挑戰和未來方向，旨在促進這一領域的創新。通過展示最近的發展和實際應用，本研究提供了面部表情分析如何增強醫療保健、安全等方面的 IoT 系統的系統性理解。
-
-##### **V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**
-2412.17595v1 by Long Bai, Beilei Cui, Liangyu Wang, Yanheng Li, Shilong Yao, Sishen Yuan, Yanan Wu, Yang Zhang, Max Q. -H. Meng, Zhen Li, Weiping Ding, Hongliang Ren
-
-Deep learning can predict depth maps and capsule ego-motion from capsule
-endoscopy videos, aiding in 3D scene reconstruction and lesion localization.
-However, the collisions of the capsule endoscopies within the gastrointestinal
-tract cause vibration perturbations in the training data. Existing solutions
-focus solely on vision-based processing, neglecting other auxiliary signals
-like vibrations that could reduce noise and improve performance. Therefore, we
-propose V$^2$-SfMLearner, a multimodal approach integrating vibration signals
-into vision-based depth and capsule motion estimation for monocular capsule
-endoscopy. We construct a multimodal capsule endoscopy dataset containing
-vibration and visual signals, and our artificial intelligence solution develops
-an unsupervised method using vision-vibration signals, effectively eliminating
-vibration perturbations through multimodal learning. Specifically, we carefully
-design a vibration network branch and a Fourier fusion module, to detect and
-mitigate vibration noises. The fusion framework is compatible with popular
-vision-only algorithms. Extensive validation on the multimodal dataset
-demonstrates superior performance and robustness against vision-only
-algorithms. Without the need for large external equipment, our V$^2$-SfMLearner
-has the potential for integration into clinical capsule robots, providing
-real-time and dependable digestive examination tools. The findings show promise
-for practical implementation in clinical settings, enhancing the diagnostic
-capabilities of doctors.
-
-摘要：深度學習可以從膠囊內視鏡影片預測深度圖和膠囊自我運動，協助進行 3D 場景重建和病灶定位。
-然而，膠囊內視鏡在胃腸道內的碰撞會造成訓練資料中的振動擾動。現有的解決方案僅專注於基於視覺的處理，忽略了其他輔助訊號，例如可以降低雜訊和提升效能的振動。因此，我們提出 V$^2$-SfMLearner，這是一種多模態方法，將振動訊號整合到基於視覺的深度和膠囊運動估計中，用於單眼膠囊內視鏡。我們建構了一個包含振動和視覺訊號的多模態膠囊內視鏡資料集，而我們的人工智慧解決方案使用視覺振動訊號開發了一種非監督式方法，透過多模態學習有效消除振動擾動。具體來說，我們仔細設計了一個振動網路分支和一個傅立葉融合模組，以偵測和減輕振動雜訊。融合架構與常見的純視覺演算法相容。在多模態資料集上的廣泛驗證證明了與純視覺演算法相比，其具有優異的效能和穩健性。我們的 V$^2$-SfMLearner 無需大型外部設備，有潛力整合到臨床膠囊機器人中，提供即時且可靠的消化道檢查工具。研究結果顯示在臨床環境中實際執行的可能性，提升醫師的診斷能力。
-
-
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -7964,7 +2831,7 @@ capabilities of doctors.
 |**2024-12-12**|**MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media**|Muhammad Arslan Manzoor et.al.|[2412.10467v1](http://arxiv.org/abs/2412.10467v1)|[link](https://github.com/marslanm/mgm_code)|
 |**2024-12-12**|**Uncommon Belief in Rationality**|Qi Shi et.al.|[2412.09407v1](http://arxiv.org/abs/2412.09407v1)|null|
 |**2024-12-12**|**Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**|Sai Bhargav Rongali et.al.|[2412.09230v1](http://arxiv.org/abs/2412.09230v1)|null|
-|**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094v1](http://arxiv.org/abs/2412.09094v1)|[link](https://github.com/lb0828/ftg)|
+|**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094v2](http://arxiv.org/abs/2412.09094v2)|[link](https://github.com/lb0828/ftg)|
 |**2024-12-12**|**Neural Interactive Proofs**|Lewis Hammond et.al.|[2412.08897v1](http://arxiv.org/abs/2412.08897v1)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864v1](http://arxiv.org/abs/2412.08864v1)|null|
 |**2024-12-11**|**In-Context Learning with Topological Information for Knowledge Graph Completion**|Udari Madhushani Sehwag et.al.|[2412.08742v1](http://arxiv.org/abs/2412.08742v1)|null|
@@ -10255,7 +5122,7 @@ and open-ended answers.
 摘要：本文探討了影片問答 (VideoQA) 的複雜挑戰。儘管取得顯著進展，但目前的技術仍無法有效結合問題、影片畫面和語義物件層級抽象，以建立問題感知的影片表徵。我們引進了局部-全域問題感知影片嵌入 (LGQAVE)，它包含三項重大創新，以更好地整合多模式知識，並強調與特定問題相關的語義視覺概念。LGQAVE 超越了傳統的臨時畫面取樣，利用跨注意力機制精確找出與問題最相關的畫面。它使用不同的圖形捕捉這些畫面中物件的動態，並透過 miniGPT 模型將它們奠基於問題語義中。這些圖形由問題感知動態圖形轉換器 (Q-DGT) 處理，它會改善輸出，以開發細緻的全局和局部影片表徵。額外的跨注意力模組整合這些局部和全局嵌入，以產生最終的影片嵌入，語言模型使用這些嵌入來產生答案。跨多個基準的廣泛評估證明，LGQAVE 在提供準確的多選和開放式答案方面，明顯優於現有模型。
 
 ##### **Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**
-2412.09094v1 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng
+2412.09094v2 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng
 
 Large Language Models (LLMs) present massive inherent knowledge and superior
 semantic comprehension capability, which have revolutionized various tasks in
@@ -10277,8 +5144,7 @@ substantial performance gain compared to existing state-of-the-art methods. The
 instruction dataset and code are available at
 \url{https://github.com/LB0828/FtG}.
 
-摘要：大型語言模型 (LLM) 具有龐大的內部知識和卓越的語義理解能力，這徹底改變了自然語言處理中的各種任務。儘管它們成功，但在使 LLM 能執行知識圖譜完成 (KGC) 方面仍存在一個關鍵差距。經驗證據表明，即使透過精密的提示設計或量身打造的指令調整，LLM 的表現也始終不如傳統的 KGC 方法。從根本上來說，在 KGC 上應用 LLM 會帶來幾個關鍵挑戰，包括大量的實體候選、LLM 的幻覺問題以及圖形結構的利用不足。為了應對這些挑戰，我們提出了一種新的基於指令調整的方法，即 FtG。具體來說，我們提出了「先過濾再生成」的範例，並將 KGC 任務制定為多選題格式。這樣，我們就能利用 LLM 的能力，同時減輕幻覺所造成的問題。此外，我們設計了一個靈活的自圖序列化提示，並採用結構文本適配器，以情境化的方式結合結構和文本資訊。實驗結果表明，與現有的最先進方法相比，FtG 獲得了顯著的效能提升。指令資料集和程式碼可在
-\url{https://github.com/LB0828/FtG} 取得。
+摘要：大型語言模型 (LLMs) 具有巨大的固有知識和卓越的語義理解能力，這徹底改變了自然語言處理中的各種任務。儘管它們取得了成功，但在使 LLM 能執行知識圖譜完成 (KGC) 方面仍存在一個關鍵差距。經驗證據表明，即使透過複雜的提示設計或量身定制的指令微調，LLM 的表現也始終不如傳統的 KGC 方法。從根本上來說，在 KGC 上應用 LLM 會帶來幾個關鍵挑戰，包括大量的實體候選者、LLM 的幻覺問題以及對圖形結構的利用不足。為了應對這些挑戰，我們提出了一種新的基於指令微調的方法，即 FtG。具體來說，我們提出了一個「先過濾再生成」的範例，並將 KGC 任務制定成多選題格式。這樣，我們可以利用 LLM 的能力，同時減輕幻覺所造成的問題。此外，我們設計了一個靈活的自圖序列化提示，並採用結構文本適配器以情境化的方式將結構和文本資訊結合起來。實驗結果表明，與現有的最先進方法相比，FtG 獲得了顯著的性能提升。指令資料集和程式碼可在以下網址取得：\url{https://github.com/LB0828/FtG}。
 
 ##### **Neural Interactive Proofs**
 2412.08897v1 by Lewis Hammond, Sam Adam-Day
@@ -10430,4 +5296,5080 @@ classification prototype that can generalize GNNs to unseen classes with
 extremely weak text supervision.
 
 摘要：<paragraph>儘管在使用網際網路規模的影像文字配對進行對比語言影像預訓練 (CLIP) 來建立視覺模型方面取得了巨大的成功，但使用 CLIP 管線建立可轉移圖形神經網路 (GNN) 卻很具挑戰性，原因在於三個根本問題：標記資料和文字監督的稀少性、不同層級的下游任務，以及不同領域之間的概念差距。在這項工作中，為了解決這些問題，我們利用多模態提示學習，在僅有少數語義標記範例的情況下，有效地調整預訓練的 GNN 以適用於下游任務和資料，每個範例都具有極其薄弱的文字監督。我們的新範例將圖形直接嵌入與大型語言模型 (LLM) 相同的空間中，方法是同時學習圖形提示和文字提示。為了達成這個目標，我們改進了最先進的圖形提示方法，然後提出第一個圖形語言多模態提示學習方法，以利用預訓練模型中的知識。值得注意的是，由於微調的監督不足，在我們的範例中，預訓練的 GNN 和 LLM 保持凍結狀態，因此可學習參數遠少於微調任何預訓練模型。透過對真實世界資料集進行廣泛的實驗，我們證明了我們的範例在少樣本、多任務層級和跨領域設定中的卓越效能。此外，我們建立了第一個 CLIP 風格的零樣本分類原型，它可以將 GNN 推廣到具有極其薄弱文字監督的未見類別。</paragraph>
+
+
+### Medical
+|Publish Date|Title|Authors|Homepage|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|null|
+|**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**|Michail Ouroutzoglou et.al.|[2501.04896v1](http://arxiv.org/abs/2501.04896v1)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
+|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
+|**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
+|**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734v1](http://arxiv.org/abs/2501.04734v1)|null|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
+|**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
+|**2025-01-07**|**SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**|Siyuan Zhao et.al.|[2501.03764v1](http://arxiv.org/abs/2501.03764v1)|null|
+|**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722v1](http://arxiv.org/abs/2501.03722v1)|null|
+|**2025-01-07**|**Can Deep Learning Trigger Alerts from Mobile-Captured Images?**|Pritisha Sarkar et.al.|[2501.03499v1](http://arxiv.org/abs/2501.03499v1)|null|
+|**2025-01-07**|**Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**|Xiao Wang et.al.|[2501.03458v1](http://arxiv.org/abs/2501.03458v1)|[link](https://github.com/event-ahu/medical_image_analysis)|
+|**2025-01-06**|**Existential Crisis: A Social Robot's Reason for Being**|Dora Medgyesy et.al.|[2501.03376v1](http://arxiv.org/abs/2501.03376v1)|null|
+|**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922v1](http://arxiv.org/abs/2501.02922v1)|null|
+|**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
+|**2025-01-06**|**IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**|Yiming Zhang et.al.|[2501.02869v1](http://arxiv.org/abs/2501.02869v1)|null|
+|**2025-01-06**|**Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**|Naibo Wang et.al.|[2501.03292v1](http://arxiv.org/abs/2501.03292v1)|null|
+|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v2](http://arxiv.org/abs/2501.02788v2)|null|
+|**2025-01-06**|**Hybrid deep convolution model for lung cancer detection with transfer learning**|Sugandha Saxena et.al.|[2501.02785v1](http://arxiv.org/abs/2501.02785v1)|null|
+|**2025-01-06**|**ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**|Binyu Zhang et.al.|[2501.02778v1](http://arxiv.org/abs/2501.02778v1)|[link](https://github.com/binging512/icfnet)|
+|**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727v1](http://arxiv.org/abs/2501.02727v1)|null|
+|**2025-01-05**|**Representation Learning of Lab Values via Masked AutoEncoder**|David Restrepo et.al.|[2501.02648v2](http://arxiv.org/abs/2501.02648v2)|null|
+|**2025-01-05**|**Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**|Ellis Solaiman et.al.|[2501.02647v1](http://arxiv.org/abs/2501.02647v1)|null|
+|**2025-01-05**|**KM-UNet KAN Mamba UNet for medical image segmentation**|Yibo Zhang et.al.|[2501.02559v1](http://arxiv.org/abs/2501.02559v1)|[link](https://github.com/2760613195/km_unet)|
+|**2025-01-05**|**Hengqin-RA-v1: Advanced Large Language Model for Diagnosis and Treatment of Rheumatoid Arthritis with Dataset based Traditional Chinese Medicine**|Yishen Liu et.al.|[2501.02471v1](http://arxiv.org/abs/2501.02471v1)|null|
+|**2025-01-05**|**Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales**|Zijie Cheng et.al.|[2501.02451v1](http://arxiv.org/abs/2501.02451v1)|null|
+|**2025-01-04**|**Enhancing Workplace Productivity and Well-being Using AI Agent**|Ravirajan K et.al.|[2501.02368v1](http://arxiv.org/abs/2501.02368v1)|null|
+|**2025-01-04**|**Exploring the Capabilities and Limitations of Large Language Models for Radiation Oncology Decision Support**|Florian Putz et.al.|[2501.02346v1](http://arxiv.org/abs/2501.02346v1)|null|
+|**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287v1](http://arxiv.org/abs/2501.02287v1)|null|
+|**2025-01-04**|**The Integration of Blockchain and Artificial Intelligence for Secure Healthcare Systems**|Umar Safdar et.al.|[2501.02169v1](http://arxiv.org/abs/2501.02169v1)|null|
+|**2025-01-03**|**Online Detection of Water Contamination Under Concept Drift**|Jin Li et.al.|[2501.02107v1](http://arxiv.org/abs/2501.02107v1)|null|
+|**2025-01-03**|**METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring**|Ollie Liu et.al.|[2501.02045v1](http://arxiv.org/abs/2501.02045v1)|null|
+|**2025-01-03**|**Advancing Pancreatic Cancer Prediction with a Next Visit Token Prediction Head on top of Med-BERT**|Jianping He et.al.|[2501.02044v1](http://arxiv.org/abs/2501.02044v1)|null|
+|**2025-01-03**|**Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**|Shivom Aggarwal et.al.|[2501.01732v1](http://arxiv.org/abs/2501.01732v1)|null|
+|**2025-01-03**|**EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**|Wang Lituan et.al.|[2501.01658v1](http://arxiv.org/abs/2501.01658v1)|null|
+|**2025-01-03**|**Implications of Artificial Intelligence on Health Data Privacy and Confidentiality**|Ahmad Momani et.al.|[2501.01639v2](http://arxiv.org/abs/2501.01639v2)|null|
+|**2025-01-03**|**Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**|Yun Zhu et.al.|[2501.01618v1](http://arxiv.org/abs/2501.01618v1)|null|
+|**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594v1](http://arxiv.org/abs/2501.01594v1)|null|
+|**2025-01-02**|**Model Checking in Medical Imaging for Tumor Detection and Segmentation**|Elhoucine Elfatimi et.al.|[2501.02024v2](http://arxiv.org/abs/2501.02024v2)|null|
+|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
+|**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
+|**2025-01-02**|**Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**|Bohang Sun et.al.|[2501.01311v1](http://arxiv.org/abs/2501.01311v1)|null|
+|**2025-01-02**|**Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**|Masahiro Matsumoto et.al.|[2501.02014v1](http://arxiv.org/abs/2501.02014v1)|null|
+|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|[link](https://github.com/dreamtheater123/disease_name_dataset)|
+|**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030v1](http://arxiv.org/abs/2501.01030v1)|null|
+|**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)|
+|**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
+|**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|null|
+|**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
+|**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
+|**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
+|**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|null|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v2](http://arxiv.org/abs/2501.00320v2)|[link](https://github.com/braincog-x/brain-cog)|
+|**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
+|**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
+|**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
+|**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
+|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/sepsislab)|
+|**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
+|**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
+|**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
+|**2024-12-30**|**Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**|Atharva Divekar et.al.|[2501.01984v1](http://arxiv.org/abs/2501.01984v1)|[link](https://github.com/ATHdevs/Auto-PCOS)|
+|**2024-12-30**|**Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**|Abhinav Roy et.al.|[2412.20744v1](http://arxiv.org/abs/2412.20744v1)|null|
+|**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
+|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622v1](http://arxiv.org/abs/2412.20622v1)|[link](https://github.com/AikyamLab/hallucinogen)|
+|**2024-12-29**|**Dive into Time-Series Anomaly Detection: A Decade Review**|Paul Boniol et.al.|[2412.20512v1](http://arxiv.org/abs/2412.20512v1)|null|
+|**2024-12-29**|**A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**|Seungyeon Lee et.al.|[2412.20373v1](http://arxiv.org/abs/2412.20373v1)|null|
+|**2024-12-28**|**Transforming CCTV cameras into NO$_2$ sensors at city scale for adaptive policymaking**|Mohamed R. Ibrahim et.al.|[2501.00056v1](http://arxiv.org/abs/2501.00056v1)|null|
+|**2024-12-28**|**On the Compositional Generalization of Multimodal LLMs for Medical Imaging**|Zhenyang Cai et.al.|[2412.20070v1](http://arxiv.org/abs/2412.20070v1)|[link](https://github.com/freedomintelligence/med-mat)|
+|**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
+|**2024-12-28**|**MobileNetV2: A lightweight classification model for home-based sleep apnea screening**|Hui Pan et.al.|[2412.19967v2](http://arxiv.org/abs/2412.19967v2)|[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
+|**2024-12-27**|**ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**|Chao Fan et.al.|[2412.19954v1](http://arxiv.org/abs/2412.19954v1)|null|
+|**2024-12-27**|**An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**|Arezoo Borji et.al.|[2412.19696v1](http://arxiv.org/abs/2412.19696v1)|null|
+|**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
+|**2024-12-27**|**Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases**|Ioannis Bilionis et.al.|[2412.19495v1](http://arxiv.org/abs/2412.19495v1)|null|
+|**2024-12-26**|**Semi-Supervised Learning from Small Annotated Data and Large Unlabeled Data for Fine-grained PICO Entity Recognition**|Fangyi Chen et.al.|[2412.19346v1](http://arxiv.org/abs/2412.19346v1)|null|
+|**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311v1](http://arxiv.org/abs/2412.19311v1)|[link](https://github.com/risal-shefin/xsrl)|
+|**2024-12-26**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260v2](http://arxiv.org/abs/2412.19260v2)|[link](https://github.com/abachaa/medec)|
+|**2024-12-26**|**Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**|Abeer Badawi et.al.|[2412.19254v1](http://arxiv.org/abs/2412.19254v1)|null|
+|**2024-12-26**|**Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**|Valay Bundele et.al.|[2412.19124v1](http://arxiv.org/abs/2412.19124v1)|null|
+|**2024-12-26**|**Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**|Yixin Chen et.al.|[2412.19026v1](http://arxiv.org/abs/2412.19026v1)|[link](https://github.com/yixinchen-ai/mpum)|
+|**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947v2](http://arxiv.org/abs/2412.18947v2)|null|
+|**2024-12-25**|**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**|Junying Chen et.al.|[2412.18925v1](http://arxiv.org/abs/2412.18925v1)|[link](https://github.com/freedomintelligence/huatuogpt-o1)|
+|**2024-12-25**|**Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data**|Serkan Salturk et.al.|[2412.18894v1](http://arxiv.org/abs/2412.18894v1)|null|
+|**2024-12-25**|**Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models**|Meltem Aksoy et.al.|[2412.18863v1](http://arxiv.org/abs/2412.18863v1)|null|
+|**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778v1](http://arxiv.org/abs/2412.18778v1)|null|
+|**2024-12-25**|**Successes and Limitations of Object-centric Models at Compositional Generalisation**|Milton L. Montero et.al.|[2412.18743v1](http://arxiv.org/abs/2412.18743v1)|null|
+|**2024-12-24**|**SurvAttack: Black-Box Attack On Survival Models through Ontology-Informed EHR Perturbation**|Mohsen Nayebi Kerdabadi et.al.|[2412.18706v1](http://arxiv.org/abs/2412.18706v1)|null|
+|**2024-12-24**|**A Review of Latent Representation Models in Neuroimaging**|C. Vázquez-García et.al.|[2412.19844v1](http://arxiv.org/abs/2412.19844v1)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[link](https://github.com/tencentarc/ditctrl)|
+|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545v1](http://arxiv.org/abs/2412.18545v1)|null|
+|**2024-12-24**|**Multi-Agent Norm Perception and Induction in Distributed Healthcare**|Chao Li et.al.|[2412.18454v1](http://arxiv.org/abs/2412.18454v1)|null|
+|**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419v1](http://arxiv.org/abs/2412.18419v1)|null|
+|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v2](http://arxiv.org/abs/2412.18370v2)|[link](https://github.com/bdi-lab/monti)|
+|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096v1](http://arxiv.org/abs/2412.18096v1)|null|
+|**2024-12-23**|**Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**|Yidong Gan et.al.|[2412.18043v1](http://arxiv.org/abs/2412.18043v1)|null|
+
+#### Abstracts
+##### **From Simple to Complex Skills: The Case of In-Hand Object Reorientation**
+2501.05439v1 by Haozhi Qi, Brent Yi, Mike Lambeta, Yi Ma, Roberto Calandra, Jitendra Malik
+
+Learning policies in simulation and transferring them to the real world has
+become a promising approach in dexterous manipulation. However, bridging the
+sim-to-real gap for each new task requires substantial human effort, such as
+careful reward engineering, hyperparameter tuning, and system identification.
+In this work, we present a system that leverages low-level skills to address
+these challenges for more complex tasks. Specifically, we introduce a
+hierarchical policy for in-hand object reorientation based on previously
+acquired rotation skills. This hierarchical policy learns to select which
+low-level skill to execute based on feedback from both the environment and the
+low-level skill policies themselves. Compared to learning from scratch, the
+hierarchical policy is more robust to out-of-distribution changes and transfers
+easily from simulation to real-world environments. Additionally, we propose a
+generalizable object pose estimator that uses proprioceptive information,
+low-level skill predictions, and control errors as inputs to estimate the
+object pose over time. We demonstrate that our system can reorient objects,
+including symmetrical and textureless ones, to a desired pose.
+
+摘要：在模擬中學習策略並將其轉移到現實世界已成為靈巧操作中一種有前景的方法。然而，對於每項新任務來說，彌合模擬到現實的差距需要大量的人力，例如仔細的獎勵工程、超參數調整和系統識別。在這項工作中，我們提出了一個利用低層技能來應對更複雜任務的挑戰的系統。具體來說，我們引入了一個基於先前獲得的旋轉技能的手中物體重新定向的分層策略。這種分層策略學習根據環境和低層技能策略本身的回饋選擇執行哪種低層技能。與從頭開始學習相比，分層策略對分佈外變化更強健，並且可以輕鬆地從模擬轉移到現實世界環境。此外，我們提出了一個可泛化的物體姿勢估計器，它使用 proprioceptive 信息、低層技能預測和控制誤差作為輸入來估計物體姿勢。我們證明了我們的系統可以將物體（包括對稱和無紋理的物體）重新定向到所需的姿勢。
+
+##### **A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**
+2501.05409v1 by Maximilian Alber, Stephan Tietz, Jonas Dippel, Timo Milbich, Timothée Lesort, Panos Korfiatis, Moritz Krügener, Beatriz Perez Cancer, Neelay Shah, Alexander Möllers, Philipp Seegerer, Alexandra Carpen-Amarie, Kai Standvoss, Gabriel Dernbach, Edwin de Jong, Simon Schallenberg, Andreas Kunft, Helmut Hoffer von Ankershoffen, Gavin Schaeferle, Patrick Duffy, Matt Redlon, Philipp Jurmeister, David Horst, Lukas Ruff, Klaus-Robert Müller, Frederick Klauschen, Andrew Norgan
+
+Recent advances in digital pathology have demonstrated the effectiveness of
+foundation models across diverse applications. In this report, we present a
+novel vision foundation model based on the RudolfV approach. Our model was
+trained on a dataset comprising 1.2 million histopathology whole slide images,
+collected from two medical institutions: Mayo Clinic and Charit\'e -
+Universt\"atsmedizin Berlin. Comprehensive evaluations show that our model
+achieves state-of-the-art performance across twenty-one public benchmark
+datasets, even though it is neither the largest model by parameter count nor by
+training dataset size.
+
+摘要：最近在數位病理學的進展已展示出基礎模型在各種應用中的有效性。在此報告中，我們提出一個基於 RudolfV 方法的新穎視覺基礎模型。我們的模型是在一個包含 120 萬張組織病理學全切片影像的資料集上訓練，這些影像來自兩個醫療機構：梅約診所和夏里特大學醫學中心。全面的評估顯示，我們的模型在 21 個公開基準資料集上達到了最先進的效能，儘管它既不是參數計數最大的模型，也不是訓練資料集規模最大的模型。
+
+##### **An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**
+2501.05197v1 by Drago Plecko, Paul Secombe, Andrea Clarke, Amelia Fiske, Samarra Toby, Donisha Duff, David Pilcher, Leo Anthony Celi, Rinaldo Bellomo, Elias Bareinboim
+
+The new era of large-scale data collection and analysis presents an
+opportunity for diagnosing and understanding the causes of health inequities.
+In this study, we describe a framework for systematically analyzing health
+disparities using causal inference. The framework is illustrated by
+investigating racial and ethnic disparities in intensive care unit (ICU)
+outcome between majority and minority groups in Australia (Indigenous vs.
+Non-Indigenous) and the United States (African-American vs. White). We
+demonstrate that commonly used statistical measures for quantifying inequity
+are insufficient, and focus on attributing the observed disparity to the causal
+mechanisms that generate it. We find that minority patients are younger at
+admission, have worse chronic health, are more likely to be admitted for urgent
+and non-elective reasons, and have higher illness severity. At the same time,
+however, we find a protective direct effect of belonging to a minority group,
+with minority patients showing improved survival compared to their majority
+counterparts, with all other variables kept equal. We demonstrate that this
+protective effect is related to the increased probability of being admitted to
+ICU, with minority patients having an increased risk of ICU admission. We also
+find that minority patients, while showing improved survival, are more likely
+to be readmitted to ICU. Thus, due to worse access to primary health care,
+minority patients are more likely to end up in ICU for preventable conditions,
+causing a reduction in the mortality rates and creating an effect that appears
+to be protective. Since the baseline risk of ICU admission may serve as proxy
+for lack of access to primary care, we developed the Indigenous Intensive Care
+Equity (IICE) Radar, a monitoring system for tracking the over-utilization of
+ICU resources by the Indigenous population of Australia across geographical
+areas.
+
+摘要：大型資料收集和分析的新時代，提供了診斷和了解健康不平等成因的機會。在這項研究中，我們描述了一個使用因果推論系統分析健康差距的架構。這個架構透過調查澳洲（原住民對非原住民）和美國（非裔美國人對白人）中，重症加護病房（ICU）結果在種族和族群上的差異來加以說明。我們證明了通常用於量化不平等的統計測量是不夠的，並專注於將觀察到的差異歸因於產生它的因果機制。我們發現，少數族裔患者在入院時較年輕，慢性健康狀況較差，更有可能因緊急和非選擇性原因而入院，且疾病嚴重程度較高。然而，同時我們發現屬於少數族裔群體具有保護性的直接影響，與多數族裔的對照組相比，少數族裔患者在其他所有變數保持相同的情況下，存活率有所改善。我們證明這種保護效應與被送進 ICU 的機率增加有關，少數族裔患者的 ICU 入院風險增加。我們也發現，少數族裔患者雖然存活率有所改善，但更有可能再次入院到 ICU。因此，由於較難獲得初級醫療保健，少數族裔患者更有可能因可預防的疾病而進入 ICU，導致死亡率降低並產生看似具有保護作用的效應。由於 ICU 入院的基本風險可能作為缺乏初級照護的指標，因此我們開發了原住民重症監護公平性（IICE）雷達，這是一個監控系統，用於追蹤澳洲原住民人口在不同地理區域過度使用 ICU 資源的情況。
+
+##### **Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**
+2501.04958v1 by Lei Li, Xinglin Zhang, Jun Liang, Tao Chen
+
+Deep learning models in medical imaging face dual challenges: domain shift,
+where models perform poorly when deployed in settings different from their
+training environment, and class imbalance, where certain disease conditions are
+naturally underrepresented. We present Imbalance-Aware Domain Adaptation
+(IADA), a novel framework that simultaneously tackles both challenges through
+three key components: (1) adaptive feature learning with class-specific
+attention mechanisms, (2) balanced domain alignment with dynamic weighting, and
+(3) adaptive threshold optimization. Our theoretical analysis establishes
+convergence guarantees and complexity bounds. Through extensive experiments on
+embryo development assessment across four imaging modalities, IADA demonstrates
+significant improvements over existing methods, achieving up to 25.19\% higher
+accuracy while maintaining balanced performance across classes. In challenging
+scenarios with low-quality imaging systems, IADA shows robust generalization
+with AUC improvements of up to 12.56\%. These results demonstrate IADA's
+potential for developing reliable and equitable medical imaging systems for
+diverse clinical settings. The code is made public available at
+\url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}
+
+摘要：<paragraph>醫療影像中的深度學習模型面臨雙重挑戰：領域轉移，模型在與其訓練環境不同的設定中部署時表現不佳，以及類別不平衡，某些疾病狀況在自然界中代表性不足。我們提出不平衡感知域適應 (IADA)，這是一個新穎的框架，透過三個關鍵組成部分同時應對這兩個挑戰：(1) 具有類別特定注意力機制的自適應特徵學習，(2) 具有動態加權的平衡域對齊，以及 (3) 自適應閾值最佳化。我們的理論分析建立了收斂保證和複雜度界限。透過對四種影像模式的胚胎發育評估進行廣泛的實驗，IADA 證明了對現有方法的顯著改進，在維持類別間平衡性能的同時，準確度提高了 25.19%。在低品質影像系統的挑戰性場景中，IADA 以高達 12.56% 的 AUC 改進顯示出強大的泛化能力。這些結果證明了 IADA 在為不同的臨床設定開發可靠且公平的醫療影像系統方面的潛力。程式碼已公開於 \url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}</paragraph>
+
+##### **Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**
+2501.04896v1 by Michail Ouroutzoglou, Mingmin Zhao, Joshua Hellerstein, Hariharan Rahul, Asima Badic, Brian S. Kim, Dina Katabi
+
+Chronic itch affects 13% of the US population, is highly debilitating, and
+underlies many medical conditions. A major challenge in clinical care and new
+therapeutics development is the lack of an objective measure for quantifying
+itch, leading to reliance on subjective measures like patients' self-assessment
+of itch severity. In this paper, we show that a home radio device paired with
+artificial intelligence (AI) can concurrently capture scratching and evaluate
+its impact on sleep quality by analyzing radio signals bouncing in the
+environment. The device eliminates the need for wearable sensors or skin
+contact, enabling monitoring of chronic itch over extended periods at home
+without burdening patients or interfering with their skin condition. To
+validate the technology, we conducted an observational clinical study of
+chronic pruritus patients, monitored at home for one month using both the radio
+device and an infrared camera. Comparing the output of the device to ground
+truth data from the camera demonstrates its feasibility and accuracy (ROC AUC =
+0.997, sensitivity = 0.825, specificity = 0.997). The results reveal a
+significant correlation between scratching and low sleep quality, manifested as
+a reduction in sleep efficiency (R = 0.6, p < 0.001) and an increase in sleep
+latency (R = 0.68, p < 0.001). Our study underscores the potential of passive,
+long-term, at-home monitoring of chronic scratching and its sleep implications,
+offering a valuable tool for both clinical care of chronic itch patients and
+pharmaceutical clinical trials.
+
+摘要：慢性搔癢影響美國 13% 的人口，會嚴重衰弱，且是許多疾病的根本原因。臨床護理和新療法開發的一大挑戰是缺乏客觀的指標來量化搔癢，導致依賴於患者自我評估搔癢嚴重程度等主觀指標。在本文中，我們展示了一種與人工智慧 (AI) 配對的家用無線電裝置，可透過分析在環境中彈跳的無線電訊號，同時擷取抓撓並評估其對睡眠品質的影響。此裝置消除了對穿戴式感測器或皮膚接觸的需求，讓患者在家中長時間監控慢性搔癢，而不會造成負擔或干擾其皮膚狀況。為了驗證這項技術，我們對慢性搔癢症患者進行了一項觀察性臨床研究，使用無線電裝置和紅外線攝影機在家中監控一個月。將裝置的輸出與攝影機的真實數據進行比較，證明了其可行性和準確性 (ROC AUC = 0.997，靈敏度 = 0.825，特異度 = 0.997)。結果顯示抓撓與睡眠品質低下之間存在顯著相關性，表現為睡眠效率降低 (R = 0.6，p < 0.001) 和睡眠潛伏期增加 (R = 0.68，p < 0.001)。我們的研究強調了被動、長期、在家中監控慢性抓撓及其對睡眠的影響的潛力，為慢性搔癢症患者的臨床護理和藥廠臨床試驗提供了有價值的工具。
+
+##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
+2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
+
+Artificial Intelligence is revolutionizing medical practice, enhancing
+diagnostic accuracy and healthcare delivery. However, its adaptation in medical
+settings still faces significant challenges, related to data availability and
+privacy constraints. Synthetic data has emerged as a promising solution to
+mitigate these issues, addressing data scarcity while preserving privacy.
+Recently, Latent Diffusion Models have emerged as a powerful tool for
+generating high-quality synthetic data. Meanwhile, the integration of different
+modalities has gained interest, emphasizing the need of models capable of
+handle multimodal medical data. Existing approaches struggle to integrate
+complementary information and lack the ability to generate modalities
+simultaneously. To address this challenge, we present MedCoDi-M, a
+6.77-billion-parameter model, designed for multimodal medical data generation,
+that, following Foundation Model paradigm, exploits contrastive learning and
+large quantity of data to build a shared latent space which capture the
+relationships between different data modalities. Further, we introduce the
+Multi-Prompt training technique, which significantly boosts MedCoDi-M's
+generation under different settings. We extensively validate MedCoDi-M: first
+we benchmark it against five competitors on the MIMIC-CXR dataset, a
+state-of-the-art dataset for Chest X-ray and radiological report generation.
+Secondly, we perform a Visual Turing Test with expert radiologists to assess
+the realism and clinical relevance of the generated data, ensuring alignment
+with real-world scenarios. Finally, we assess the utility of MedCoDi-M in
+addressing key challenges in the medical field, such as anonymization, data
+scarcity and imbalance learning. The results are promising, demonstrating the
+applicability of MedCoDi-M in medical contexts. Project page is at
+https://cosbidev.github.io/MedCoDi-M/.
+
+摘要：人工智能正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，它在醫療場景中的應用仍面臨著重大挑戰，這與資料可用性和隱私限制有關。合成資料已成為緩解這些問題的潛在解決方案，它在保護隱私的同時解決了資料短缺的問題。最近，潛在擴散模型已成為產生高品質合成資料的強大工具。同時，整合不同模態已引起興趣，強調了需要能夠處理多模態醫療資料的模型。現有方法難以整合補充資訊，並且缺乏同時產生模態的能力。為了應對這一挑戰，我們提出了 MedCoDi-M，這是一個 67.7 億參數的模型，專為多模態醫療資料產生而設計，它遵循基礎模型範例，利用對比學習和大量的資料來建立一個共享潛在空間，以捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，它顯著提升了 MedCoDi-M 在不同設定下的產生。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上對它與五個競爭者進行了基準測試，這是胸部 X 光和放射報告產生領域的最新資料集。其次，我們與放射科專家進行了視覺圖靈測試，以評估產生資料的真實性和臨床相關性，確保與真實場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料短缺和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療環境中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
+
+##### **A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**
+2501.04577v1 by Zephan M. Enciso, Boyang Cheng, Likai Pei, Jianbo Liu, Steven Davis, Ningyuan Cao, Michael Niemier
+
+Uncertainty estimation is an indispensable capability for AI-enabled,
+safety-critical applications, e.g. autonomous vehicles or medical diagnosis.
+Bayesian neural networks (BNNs) use Bayesian statistics to provide both
+classification predictions and uncertainty estimation, but they suffer from
+high computational overhead associated with random number generation and
+repeated sample iterations. Furthermore, BNNs are not immediately amenable to
+acceleration through compute-in-memory architectures due to the frequent memory
+writes necessary after each RNG operation. To address these challenges, we
+present an ASIC that integrates 360 fJ/Sample Gaussian RNG directly into the
+SRAM memory words. This integration reduces RNG overhead and enables
+fully-parallel compute-in-memory operations for BNNs. The prototype chip
+achieves 5.12 GSa/s RNG throughput and 102 GOp/s neural network throughput
+while occupying 0.45 mm2, bringing AI uncertainty estimation to edge
+computation.
+
+摘要：不確定性估計對於 AI 驅動、安全關鍵的應用程式來說是不可或缺的能力，例如自動駕駛車輛或醫療診斷。貝氏類神經網路 (BNN) 使用貝氏統計來提供分類預測和不確定性估計，但它們會因隨機數生成和重複樣本迭代而產生高運算負擔。此外，由於每次 RNG 操作後都需要頻繁的記憶體寫入，因此 BNN 無法立即適用於透過記憶體運算架構進行加速。為了應對這些挑戰，我們提出了一款 ASIC，將 360 fJ/Sample Gaussian RNG 直接整合到 SRAM 記憶體字元中。此整合可減少 RNG 負擔，並為 BNN 啟用完全並行的記憶體運算操作。原型晶片可達成 5.12 GSa/s RNG 處理量和 102 GOp/s 神經網路處理量，同時佔用 0.45 mm2，將 AI 不確定性估計帶到邊緣運算。
+
+##### **Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**
+2501.04217v1 by Ren Tasai, Guang Li, Ren Togo, Minghui Tang, Takaaki Yoshimura, Hiroyuki Sugimori, Kenji Hirata, Takahiro Ogawa, Kohsuke Kudo, Miki Haseyama
+
+We propose a novel continual self-supervised learning method (CSSL)
+considering medical domain knowledge in chest CT images. Our approach addresses
+the challenge of sequential learning by effectively capturing the relationship
+between previously learned knowledge and new information at different stages.
+By incorporating an enhanced DER into CSSL and maintaining both diversity and
+representativeness within the rehearsal buffer of DER, the risk of data
+interference during pretraining is reduced, enabling the model to learn more
+richer and robust feature representations. In addition, we incorporate a mixup
+strategy and feature distillation to further enhance the model's ability to
+learn meaningful representations. We validate our method using chest CT images
+obtained under two different imaging conditions, demonstrating superior
+performance compared to state-of-the-art methods.
+
+摘要：我們提出了一種新的持續自我監督學習方法 (CSSL)，考量了胸部電腦斷層影像中的醫學領域知識。我們的做法透過有效捕捉先前學習的知識與不同階段的新資訊之間的關係，來解決循序學習的挑戰。透過將增強的 DER 納入 CSSL，並在 DER 的排練緩衝區內維持多樣性和代表性，預訓練期間資料干擾的風險降低，使模型能夠學習更豐富且強健的特徵表徵。此外，我們納入混淆策略和特徵萃取，進一步增強模型學習有意義表徵的能力。我們使用在兩種不同影像條件下取得的胸部電腦斷層影像驗證我們的模型，證明與現有技術相比具有優異的效能。
+
+##### **Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**
+2501.04734v1 by Rancy Chepchirchir, Jill Sunday, Raymond Confidence, Dong Zhang, Talha Chaudhry, Udunna C. Anazodo, Kendi Muchungi, Yujing Zou
+
+In Sub-Saharan Africa (SSA), the utilization of lower-quality Magnetic
+Resonance Imaging (MRI) technology raises questions about the applicability of
+machine learning methods for clinical tasks. This study aims to provide a
+robust deep learning-based brain tumor segmentation (BraTS) method tailored for
+the SSA population using a threefold approach. Firstly, the impact of domain
+shift from the SSA training data on model efficacy was examined, revealing no
+significant effect. Secondly, a comparative analysis of 3D and 2D
+full-resolution models using the nnU-Net framework indicates similar
+performance of both the models trained for 300 epochs achieving a five-fold
+cross-validation score of 0.93. Lastly, addressing the performance gap observed
+in SSA validation as opposed to the relatively larger BraTS glioma (GLI)
+validation set, two strategies are proposed: fine-tuning SSA cases using the
+GLI+SSA best-pretrained 2D fullres model at 300 epochs, and introducing a novel
+neural style transfer-based data augmentation technique for the SSA cases. This
+investigation underscores the potential of enhancing brain tumor prediction
+within SSA's unique healthcare landscape.
+
+摘要：在撒哈拉以南非洲 (SSA)，低质量磁共振成像 (MRI) 技术的使用引发了有关机器学习方法在临床任务中适用性的问题。本研究旨在提供一种针对 SSA 人群量身定制的鲁棒深度学习脑肿瘤分割 (BraTS) 方法，采用三重方法。首先，检查了 SSA 训练数据对模型效能的域偏移影响，结果显示没有显着影响。其次，使用 nnU-Net 框架对 3D 和 2D 全分辨率模型进行比较分析，表明针对 300 个 epoch 训练的两个模型的性能相似，实现了 0.93 的五重交叉验证分数。最后，针对 SSA 验证中观察到的性能差距，而不是相对较大的 BraTS 神经胶质瘤 (GLI) 验证集，提出了两种策略：使用 GLI+SSA 最佳预训练的 2D 全分辨率模型在 300 个 epoch 对 SSA 病例进行微调，并为 SSA 病例引入一种新颖的神经风格迁移数据增强技术。这项调查强调了在 SSA 独特的医疗保健环境中提高脑肿瘤预测潜力的可能性。
+
+##### **Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**
+2501.03904v1 by Ramya Jonnala, Gongbo Liang, Jeong Yang, Izzat Alsmadi
+
+The integration of large language models (LLMs) into public transit systems
+presents a transformative opportunity to enhance urban mobility. This study
+explores the potential of LLMs to revolutionize public transportation
+management within the context of San Antonio's transit system. Leveraging the
+capabilities of LLMs in natural language processing and data analysis, we
+investigate their capabilities to optimize route planning, reduce wait times,
+and provide personalized travel assistance. By utilizing the General Transit
+Feed Specification (GTFS) and other relevant data, this research aims to
+demonstrate how LLMs can potentially improve resource allocation, elevate
+passenger satisfaction, and inform data-driven decision-making in transit
+operations. A comparative analysis of different ChatGPT models was conducted to
+assess their ability to understand transportation information, retrieve
+relevant data, and provide comprehensive responses. Findings from this study
+suggest that while LLMs hold immense promise for public transit, careful
+engineering and fine-tuning are essential to realizing their full potential.
+San Antonio serves as a case study to inform the development of LLM-powered
+transit systems in other urban environments.
+
+摘要：大型語言模型 (LLM) 整合到公共交通系統中，為提升城市流動性帶來轉型契機。本研究探討 LLM 在聖安東尼奧交通系統脈絡下，革新大眾運輸管理的潛力。利用 LLM 在自然語言處理和資料分析方面的能力，我們探討其在優化路線規劃、縮短等候時間，以及提供個人化旅遊協助方面的能力。透過利用通用大眾運輸資料規範 (GTFS) 和其他相關資料，本研究旨在證明 LLM 如何潛在提升資源配置、提升乘客滿意度，以及在交通營運中提供資料驅動的決策。針對不同的 ChatGPT 模型進行比較分析，以評估其理解交通資訊、擷取相關資料，以及提供全面回應的能力。本研究的發現顯示，儘管 LLM 對大眾運輸極具前景，但精密的工程和微調對於實現其全部潛力至關重要。聖安東尼奧作為一個案例研究，為在其他都市環境中開發由 LLM 驅動的交通系統提供參考。
+
+##### **SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**
+2501.03836v1 by Runci Bai
+
+Brain tumors can result in neurological dysfunction, alterations in cognitive
+and psychological states, increased intracranial pressure, and the occurrence
+of seizures, thereby presenting a substantial risk to human life and health.
+The You Only Look Once(YOLO) series models have demonstrated superior accuracy
+in object detection for medical imaging. In this paper, we develop a novel
+SCC-YOLO architecture by integrating the SCConv attention mechanism into
+YOLOv9. The SCConv module reconstructs an efficient convolutional module by
+reducing spatial and channel redundancy among features, thereby enhancing the
+learning of image features. We investigate the impact of intergrating different
+attention mechanisms with the YOLOv9 model on brain tumor image detection using
+both the Br35H dataset and our self-made dataset(Brain_Tumor_Dataset).
+Experimental results show that on the Br35H dataset, SCC-YOLO achieved a 0.3%
+improvement in mAp50 compared to YOLOv9, while on our self-made dataset,
+SCC-YOLO exhibited a 0.5% improvement over YOLOv9. SCC-YOLO has reached
+state-of-the-art performance in brain tumor detection. Source code is available
+at : https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
+
+摘要：腦瘤可能導致神經功能障礙、認知和心理狀態改變、顱內壓升高，以及癲癇發作，因此對人類生命和健康構成重大風險。You Only Look Once (YOLO) 系列模型已證明在醫學影像的物件偵測中具有優異的準確度。在本文中，我們透過將 SCConv 注意力機制整合到 YOLOv9 中，開發出新穎的 SCC-YOLO 架構。SCConv 模組透過減少特徵中的空間和通道冗餘來重建一個高效的卷積模組，從而增強影像特徵的學習。我們使用 Br35H 資料集和我們自製的資料集 (Brain_Tumor_Dataset) 探討了將不同的注意力機制與 YOLOv9 模型整合對腦瘤影像偵測的影響。實驗結果顯示，在 Br35H 資料集上，SCC-YOLO 在 mAp50 方面比 YOLOv9 提升了 0.3%，而在我們自製的資料集上，SCC-YOLO 比 YOLOv9 提升了 0.5%。SCC-YOLO 已在腦瘤偵測方面達到最先進的效能。原始碼可於以下網址取得：https://jihulab.com/healthcare-information-studio/SCC-YOLO/-/tree/master
+
+##### **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment**
+2501.03764v1 by Siyuan Zhao, Chenyu Liu, Yi Ding, Xinliang Zhou
+
+In practical sleep stage classification, a key challenge is the variability
+of EEG data across different subjects and environments. Differences in
+physiology, age, health status, and recording conditions can lead to domain
+shifts between data. These domain shifts often result in decreased model
+accuracy and reliability, particularly when the model is applied to new data
+with characteristics different from those it was originally trained on, which
+is a typical manifestation of negative transfer. To address this, we propose
+SelectiveFinetuning in this paper. Our method utilizes a pretrained Multi
+Resolution Convolutional Neural Network (MRCNN) to extract EEG features,
+capturing the distinctive characteristics of different sleep stages. To
+mitigate the effect of domain shifts, we introduce a domain aligning mechanism
+that employs Earth Mover Distance (EMD) to evaluate and select source domain
+data closely matching the target domain. By finetuning the model with selective
+source data, our SelectiveFinetuning enhances the model's performance on target
+domain that exhibits domain shifts compared to the data used for training.
+Experimental results show that our method outperforms existing baselines,
+offering greater robustness and adaptability in practical scenarios where data
+distributions are often unpredictable.
+
+摘要：在實際的睡眠階段分類中，一個關鍵的挑戰是腦電圖數據在不同受試者和環境中的變異性。生理、年齡、健康狀況和記錄條件的差異可能導致數據之間的領域偏移。這些領域偏移通常會導致模型準確度和可靠性下降，特別是當模型應用於與其最初訓練時不同的特徵的新數據時，這是負遷移的典型表現。為了解決這個問題，我們在本文中提出選擇性微調。我們的模型利用預訓練的多解析度卷積神經網路 (MRCNN) 來提取腦電圖特徵，捕捉不同睡眠階段的獨特特徵。為了減輕領域偏移的影響，我們引入了一個領域對齊機制，它採用地球移動距離 (EMD) 來評估和選擇與目標領域緊密匹配的源領域數據。通過使用選擇性源數據微調模型，我們的選擇性微調增強了模型在與用於訓練的數據相比表現出領域偏移的目標領域上的性能。實驗結果表明，我們的模型優於現有的基準，在數據分佈通常不可預測的實際場景中提供了更大的穩健性和適應性。
+
+##### **Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**
+2501.03722v1 by Xiaotong Guo, Deqian Yang, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Lijun Zhang, Yanda Meng
+
+Accurate segmentation of pulmonary structures iscrucial in clinical
+diagnosis, disease study, and treatment planning. Significant progress has been
+made in deep learning-based segmentation techniques, but most require much
+labeled data for training. Consequently, developing precise segmentation
+methods that demand fewer labeled datasets is paramount in medical image
+analysis. The emergence of pre-trained vision-language foundation models, such
+as CLIP, recently opened the door for universal computer vision tasks.
+Exploiting the generalization ability of these pre-trained foundation models on
+downstream tasks, such as segmentation, leads to unexpected performance with a
+relatively small amount of labeled data. However, exploring these models for
+pulmonary artery-vein segmentation is still limited. This paper proposes a
+novel framework called Language-guided self-adaptive Cross-Attention Fusion
+Framework. Our method adopts pre-trained CLIP as a strong feature extractor for
+generating the segmentation of 3D CT scans, while adaptively aggregating the
+cross-modality of text and image representations. We propose a s pecially
+designed adapter module to fine-tune pre-trained CLIP with a self-adaptive
+learning strategy to effectively fuse the two modalities of embeddings. We
+extensively validate our method on a local dataset, which is the largest
+pulmonary artery-vein CT dataset to date and consists of 718 labeled data in
+total. The experiments show that our method outperformed other state-of-the-art
+methods by a large margin. Our data and code will be made publicly available
+upon acceptance.
+
+摘要：精確分割肺部結構在臨床診斷、疾病研究和治療計畫中至關重要。基於深度學習的分割技術已取得重大進展，但大多數技術在訓練時需要大量的標記資料。因此，開發精確的分割方法，以減少標記資料集的需求，在醫學影像分析中至關重要。預訓練的視覺語言基礎模型（例如 CLIP）的出現，最近為通用電腦視覺任務開啟了大門。利用這些預訓練基礎模型在分割等下游任務中的泛化能力，即使標記資料量相對較少，也能產生意想不到的效能。然而，探索這些模型在肺動脈靜脈分割中的應用仍然有限。本文提出了一個名為語言引導自適應交叉注意力融合框架的新框架。我們的模型採用預訓練的 CLIP 作為強大的特徵萃取器，用於產生 3D 電腦斷層掃描的分割，同時自適應地聚合文本和影像表徵的跨模態。我們提出了一個特別設計的適配器模組，以自適應學習策略微調預訓練的 CLIP，以有效融合兩種嵌入模態。我們在一個本地資料集上廣泛驗證了我們的模型，這是迄今為止最大的肺動脈靜脈電腦斷層掃描資料集，總共包含 718 個標記資料。實驗表明，我們的模型以大幅優於其他最先進模型。我們的資料和程式碼將在獲得接受後公開。
+
+##### **Can Deep Learning Trigger Alerts from Mobile-Captured Images?**
+2501.03499v1 by Pritisha Sarkar, Duranta Durbaar Vishal Saha, Mousumi Saha
+
+Our research presents a comprehensive approach to leveraging mobile camera
+image data for real-time air quality assessment and recommendation. We develop
+a regression-based Convolutional Neural Network model and tailor it explicitly
+for air quality prediction by exploiting the inherent relationship between
+output parameters. As a result, the Mean Squared Error of 0.0077 and 0.0112
+obtained for 2 and 5 pollutants respectively outperforms existing models.
+Furthermore, we aim to verify the common practice of augmenting the original
+dataset with a view to introducing more variation in the training phase. It is
+one of our most significant contributions that our experimental results
+demonstrate minimal accuracy differences between the original and augmented
+datasets. Finally, a real-time, user-friendly dashboard is implemented which
+dynamically displays the Air Quality Index and pollutant values derived from
+captured mobile camera images. Users' health conditions are considered to
+recommend whether a location is suitable based on current air quality metrics.
+Overall, this research contributes to verification of data augmentation
+techniques, CNN-based regression modelling for air quality prediction, and
+user-centric air quality monitoring through mobile technology. The proposed
+system offers practical solutions for individuals to make informed
+environmental health and well-being decisions.
+
+摘要：我們的研究提出了一種利用行動裝置相機影像資料進行即時空氣品質評估和建議的全面性方法。我們開發了一種基於迴歸的卷積神經網路模型，並透過利用輸出參數之間的內在關係，針對空氣品質預測量身打造。因此，分別針對 2 和 5 種污染物取得的平均平方誤差為 0.0077 和 0.0112，優於現有的模型。此外，我們旨在驗證擴充原始資料集的常見做法，以期在訓練階段引入更多變異。我們的實驗結果顯示原始資料集和擴充資料集之間的準確度差異極小，這是我們最重要的貢獻之一。最後，我們實作了一個即時、使用者友善的儀表板，可動態顯示從擷取的行動裝置相機影像中衍生的空氣品質指數和污染物數值。考量使用者的健康狀況，建議是否根據目前的空氣品質指標選擇適合的地點。整體而言，這項研究有助於驗證資料擴充技術、基於 CNN 的迴歸模型（用於空氣品質預測）以及透過行動技術進行以使用者為中心的空氣品質監控。所提出的系統為個人提供實際的解決方案，以便做出明智的環境健康和福祉決策。
+
+##### **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**
+2501.03458v1 by Xiao Wang, Fuling Wang, Haowen Wang, Bo Jiang, Chuanfu Li, Yaowei Wang, Yonghong Tian, Jin Tang
+
+X-ray image based medical report generation achieves significant progress in
+recent years with the help of the large language model, however, these models
+have not fully exploited the effective information in visual image regions,
+resulting in reports that are linguistically sound but insufficient in
+describing key diseases. In this paper, we propose a novel associative
+memory-enhanced X-ray report generation model that effectively mimics the
+process of professional doctors writing medical reports. It considers both the
+mining of global and local visual information and associates historical report
+information to better complete the writing of the current report. Specifically,
+given an X-ray image, we first utilize a classification model along with its
+activation maps to accomplish the mining of visual regions highly associated
+with diseases and the learning of disease query tokens. Then, we employ a
+visual Hopfield network to establish memory associations for disease-related
+tokens, and a report Hopfield network to retrieve report memory information.
+This process facilitates the generation of high-quality reports based on a
+large language model and achieves state-of-the-art performance on multiple
+benchmark datasets, including the IU X-ray, MIMIC-CXR, and Chexpert Plus. The
+source code of this work is released on
+\url{https://github.com/Event-AHU/Medical_Image_Analysis}.
+
+摘要：近年來，在大型語言模型的幫助下，基於 X 光影像的醫療報告生成取得了顯著進展，然而，這些模型並未充分利用視覺影像區域中的有效資訊，導致報告在語言上雖然流暢，但在描述關鍵疾病方面卻不足。在本文中，我們提出了一個新穎的聯想式記憶增強 X 光報告生成模型，有效地模擬專業醫生撰寫醫療報告的過程。它同時考慮了對全局和局部視覺資訊的挖掘，並聯繫歷史報告資訊，以更好地完成當前報告的撰寫。具體來說，給定一張 X 光影像，我們首先利用分類模型及其激活映射來完成與疾病高度相關的視覺區域的挖掘和疾病查詢令牌的學習。然後，我們採用視覺霍普菲爾德網路來建立與疾病相關的令牌的記憶聯繫，並採用報告霍普菲爾德網路來檢索報告記憶資訊。這個過程有助於基於大型語言模型生成高品質的報告，並在包括 IU X 射線、MIMIC-CXR 和 Chexpert Plus 在內的多個基準資料集上實現了最先進的效能。此項工作的原始碼已發佈在\url{https://github.com/Event-AHU/Medical_Image_Analysis}。
+
+##### **Existential Crisis: A Social Robot's Reason for Being**
+2501.03376v1 by Dora Medgyesy, Joella Galas, Julian van Pol, Rustam Eynaliyev, Thijs Vollebregt
+
+As Robots become ever more important in our daily lives there's growing need
+for understanding how they're perceived by people. This study aims to
+investigate how the user perception of robots is influenced by displays of
+personality. Using LLMs and speech to text technology, we designed a
+within-subject study to compare two conditions: a personality-driven robot and
+a purely task-oriented, personality-neutral robot. Twelve participants,
+recruited from Socially Intelligent Robotics course at Vrije Universiteit
+Amsterdam, interacted with a robot Nao tasked with asking them a set of medical
+questions under both conditions. After completing both interactions, the
+participants completed a user experience questionnaire measuring their
+emotional states and robot perception using standardized questionnaires from
+the SRI and Psychology literature.
+
+摘要：隨著機器人在我們日常生活中的重要性日益提升，對於了解人們如何感知機器人的需求也日益增加。本研究旨在探討機器人的使用者感知如何受到人格表現的影響。我們使用大型語言模型 (LLM) 和語音轉文字技術，設計了一項受試者內研究，以比較兩種情況：一種是人格驅動的機器人，另一種是純粹以任務為導向、人格中立的機器人。我們從阿姆斯特丹自由大學的社交智能機器人課程中招募了 12 名參與者，他們與機器人 Nao 互動，在兩種情況下都向他們詢問一系列醫療問題。在完成這兩種互動後，參與者完成了一份使用者體驗問卷，使用來自 SRI 和心理學文獻的標準化問卷測量他們的情緒狀態和機器人感知。
+
+##### **Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**
+2501.02922v1 by Susu Sun, Leslie Tessier, Frédérique Meeuwsen, Clément Grisi, Dominique van Midden, Geert Litjens, Christian F. Baumgartner
+
+Multiple Instance Learning (MIL) methods allow for gigapixel Whole-Slide
+Image (WSI) analysis with only slide-level annotations. Interpretability is
+crucial for safely deploying such algorithms in high-stakes medical domains.
+Traditional MIL methods offer explanations by highlighting salient regions.
+However, such spatial heatmaps provide limited insights for end users. To
+address this, we propose a novel inherently interpretable WSI-classification
+approach that uses human-understandable pathology concepts to generate
+explanations. Our proposed Concept MIL model leverages recent advances in
+vision-language models to directly predict pathology concepts based on image
+features. The model's predictions are obtained through a linear combination of
+the concepts identified on the top-K patches of a WSI, enabling inherent
+explanations by tracing each concept's influence on the prediction. In contrast
+to traditional concept-based interpretable models, our approach eliminates the
+need for costly human annotations by leveraging the vision-language model. We
+validate our method on two widely used pathology datasets: Camelyon16 and
+PANDA. On both datasets, Concept MIL achieves AUC and accuracy scores over 0.9,
+putting it on par with state-of-the-art models. We further find that 87.1\%
+(Camelyon16) and 85.3\% (PANDA) of the top 20 patches fall within the tumor
+region. A user study shows that the concepts identified by our model align with
+the concepts used by pathologists, making it a promising strategy for
+human-interpretable WSI classification.
+
+摘要：多實例學習 (MIL) 方法僅使用玻片層級註解，即可進行吉像素全玻片影像 (WSI) 分析。可解釋性對於在高風險醫療領域安全部署此類演算法至關重要。傳統的 MIL 方法透過強調顯著區域來提供說明。然而，此類空間熱圖為最終使用者提供的見解有限。為了解決此問題，我們提出了一種新穎且本質上可解釋的 WSI 分類方法，該方法使用人類可理解的病理概念來產生說明。我們提出的概念 MIL 模型利用視覺語言模型的最新進展，根據影像特徵直接預測病理概念。該模型的預測是透過線性組合 WSI 頂部 K 個區塊上識別的概念而獲得的，透過追蹤每個概念對預測的影響，可以提供內在說明。與傳統基於概念的可解釋模型相比，我們的做法透過利用視覺語言模型，消除了對昂貴的人工註解的需求。我們在兩個廣泛使用的病理資料集：Camelyon16 和 PANDA 上驗證了我們的模型。在兩個資料集上，概念 MIL 的 AUC 和準確率都超過 0.9，與最先進的模型不相上下。我們進一步發現，前 20 個區塊中有 87.1%（Camelyon16）和 85.3%（PANDA）落在腫瘤區域內。一項使用者研究表明，我們的模型識別的概念與病理學家使用的概念一致，使其成為人類可解釋 WSI 分類的一種有前途的策略。
+
+##### **Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**
+2501.02891v1 by Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
+
+Humour styles can have either a negative or a positive impact on well-being.
+Given the importance of these styles to mental health, significant research has
+been conducted on their automatic identification. However, the automated
+machine learning models used for this purpose are black boxes, making their
+prediction decisions opaque. Clarity and transparency are vital in the field of
+mental health. This paper presents an explainable AI (XAI) framework for
+understanding humour style classification, building upon previous work in
+computational humour analysis. Using the best-performing single model
+(ALI+XGBoost) from prior research, we apply comprehensive XAI techniques to
+analyse how linguistic, emotional, and semantic features contribute to humour
+style classification decisions. Our analysis reveals distinct patterns in how
+different humour styles are characterised and misclassified, with particular
+emphasis on the challenges in distinguishing affiliative humour from other
+styles. Through detailed examination of feature importance, error patterns, and
+misclassification cases, we identify key factors influencing model decisions,
+including emotional ambiguity, context misinterpretation, and target
+identification. The framework demonstrates significant utility in understanding
+model behaviour, achieving interpretable insights into the complex interplay of
+features that define different humour styles. Our findings contribute to both
+the theoretical understanding of computational humour analysis and practical
+applications in mental health, content moderation, and digital humanities
+research.
+
+摘要：幽默風格對幸福感可能產生負面或正面的影響。
+鑑於這些風格對心理健康的重要性，已經對其自動識別進行了大量研究。然而，用於此目的的自動機器學習模型是黑盒子，使得其預測決策不透明。清晰度和透明度在心理健康領域至關重要。本文提出了一個可解釋的 AI (XAI) 框架，用於理解幽默風格分類，建立在計算幽默分析的先前工作之上。使用先前研究中表現最好的單一模型 (ALI+XGBoost)，我們應用全面的 XAI 技術來分析語言、情緒和語義特徵如何影響幽默風格分類決策。我們的分析揭示了不同幽默風格如何被表徵和錯誤分類的不同模式，特別強調了區分聯屬幽默與其他風格的挑戰。通過仔細檢查特徵重要性、錯誤模式和錯誤分類案例，我們確定了影響模型決策的關鍵因素，包括情緒模糊、情境誤解和目標識別。該框架展示了在理解模型行為方面的顯著效用，實現了對定義不同幽默風格的特徵之間複雜相互作用的可解釋見解。我們的發現有助於計算幽默分析的理論理解和心理健康、內容審核和數字人文研究中的實際應用。
+
+##### **IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment**
+2501.02869v1 by Yiming Zhang, Zheng Chang, Wentao Cai, MengXing Ren, Kang Yuan, Yining Sun, Zenghui Ding
+
+Recent researches of large language models(LLM), which is pre-trained on
+massive general-purpose corpora, have achieved breakthroughs in responding
+human queries. However, these methods face challenges including limited data
+insufficiency to support extensive pre-training and can not align responses
+with users' instructions. To address these issues, we introduce a medical
+instruction dataset, CMedINS, containing six medical instructions derived from
+actual medical tasks, which effectively fine-tunes LLM in conjunction with
+other data. Subsequently, We launch our medical model, IIMedGPT, employing an
+efficient preference alignment method, Direct preference Optimization(DPO). The
+results show that our final model outperforms existing medical models in
+medical dialogue.Datsets, Code and model checkpoints will be released upon
+acceptance.
+
+摘要：最近針對大型語言模型 (LLM) 的研究，該模型預先訓練於龐大的通用語料庫中，已在回應人類查詢方面取得突破。然而，這些方法面臨的挑戰包括資料不足以支援廣泛的預訓練，且無法將回應與使用者的指示保持一致。為了解決這些問題，我們引進一個醫療指示資料集 CMedINS，其中包含六項從實際醫療任務中衍生的醫療指示，與其他資料結合後能有效微調 LLM。隨後，我們推出我們的醫療模型 IIMedGPT，採用一種有效率的偏好對齊方法，直接偏好最佳化 (DPO)。結果顯示，我們的最終模型在醫療對話中優於現有的醫療模型。資料集、程式碼和模型檢查點將在通過驗證後釋出。
+
+##### **Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model**
+2501.03292v1 by Naibo Wang, Yuchen Deng, Shichen Fan, Jianwei Yin, See-Kiong Ng
+
+Federated learning (FL) has attracted considerable interest in the medical
+domain due to its capacity to facilitate collaborative model training while
+maintaining data privacy. However, conventional FL methods typically
+necessitate multiple communication rounds, leading to significant communication
+overhead and delays, especially in environments with limited bandwidth.
+One-shot federated learning addresses these issues by conducting model training
+and aggregation in a single communication round, thereby reducing communication
+costs while preserving privacy. Among these, one-shot federated ensemble
+learning combines independently trained client models using ensemble techniques
+such as voting, further boosting performance in non-IID data scenarios. On the
+other hand, existing machine learning methods in healthcare predominantly use
+unimodal data (e.g., medical images or textual reports), which restricts their
+diagnostic accuracy and comprehensiveness. Therefore, the integration of
+multi-modal data is proposed to address these shortcomings. In this paper, we
+introduce FedMME, an innovative one-shot multi-modal federated ensemble
+learning framework that utilizes multi-modal data for medical image analysis.
+Specifically, FedMME capitalizes on vision large language models to produce
+textual reports from medical images, employs a BERT model to extract textual
+features from these reports, and amalgamates these features with visual
+features to improve diagnostic accuracy. Experimental results show that our
+method demonstrated superior performance compared to existing one-shot
+federated learning methods in healthcare scenarios across four datasets with
+various data distributions. For instance, it surpasses existing one-shot
+federated learning approaches by more than 17.5% in accuracy on the RSNA
+dataset when applying a Dirichlet distribution with ($\alpha$ = 0.3).
+
+摘要：联邦学习 (FL) 由于其在维护数据隐私的同时促进协作模型训练的能力，在医学领域引起了极大的兴趣。然而，传统的 FL 方法通常需要多轮通信，这会导致严重的通信开销和延迟，尤其是在带宽受限的环境中。单次联邦学习通过在单次通信轮中进行模型训练和聚合来解决这些问题，从而在保护隐私的同时降低通信成本。其中，单次联邦集成学习使用集成技术（如投票）将独立训练的客户端模型组合起来，进一步提升了在非 IID 数据场景中的性能。另一方面，现有的医疗保健机器学习方法主要使用单模态数据（例如医学图像或文本报告），这限制了它们的诊断准确性和全面性。因此，提出了多模态数据的集成来解决这些缺点。在本文中，我们介绍了 FedMME，一种创新的单次多模态联邦集成学习框架，它利用多模态数据进行医学图像分析。具体来说，FedMME 利用视觉大语言模型从医学图像中生成文本报告，采用 BERT 模型从这些报告中提取文本特征，并将这些特征与视觉特征相结合以提高诊断准确性。实验结果表明，与现有的单次联邦学习方法相比，我们的方法在四个具有不同数据分布的数据集中的医疗保健场景中表现出优越的性能。例如，当应用具有 ($\alpha$ = 0.3) 的 Dirichlet 分布时，它在 RSNA 数据集上的准确率比现有的单次联邦学习方法高出 17.5% 以上。
+
+##### **GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**
+2501.02788v2 by Niloufar Eghbali, Hassan Bagher-Ebadian, Tuka Alhanai, Mohammad M. Ghassemi
+
+Vision Transformers (ViTs) have shown promise in medical image semantic
+segmentation (MISS) by capturing long-range correlations. However, ViTs often
+struggle to model local spatial information effectively, which is essential for
+accurately segmenting fine anatomical details, particularly when applied to
+small datasets without extensive pre-training. We introduce Gabor and Laplacian
+of Gaussian Convolutional Swin Network (GLoG-CSUnet), a novel architecture
+enhancing Transformer-based models by incorporating learnable radiomic
+features. This approach integrates dynamically adaptive Gabor and Laplacian of
+Gaussian (LoG) filters to capture texture, edge, and boundary information,
+enhancing the feature representation processed by the Transformer model. Our
+method uniquely combines the long-range dependency modeling of Transformers
+with the texture analysis capabilities of Gabor and LoG features. Evaluated on
+the Synapse multi-organ and ACDC cardiac segmentation datasets, GLoG-CSUnet
+demonstrates significant improvements over state-of-the-art models, achieving a
+1.14% increase in Dice score for Synapse and 0.99% for ACDC, with minimal
+computational overhead (only 15 and 30 additional parameters, respectively).
+GLoG-CSUnet's flexible design allows integration with various base models,
+offering a promising approach for incorporating radiomics-inspired feature
+extraction in Transformer architectures for medical image analysis. The code
+implementation is available on GitHub at: https://github.com/HAAIL/GLoG-CSUnet.
+
+摘要：<paragraph>視覺轉換器 (ViT) 已在醫療影像語意分割 (MISS) 中展現前景，藉由擷取長程關聯性。然而，ViT 經常難以有效地建模局部空間資訊，這對於精確分割精細解剖細節至關重要，特別是在應用於沒有廣泛預先訓練的小型資料集時。我們引入了高斯卷積 Swin 網路 (GLoG-CSUnet) 的 Gabor 和 Laplacian，這是一種新穎的架構，透過整合可學習的放射特徵來增強基於轉換器的模型。此方法整合了動態自適應 Gabor 和高斯 Laplacian (LoG) 濾波器來擷取紋理、邊緣和邊界資訊，增強轉換器模型處理的特徵表示。我們的模型獨特地結合了轉換器的長程依賴性建模與 Gabor 和 LoG 特徵的紋理分析功能。在 Synapse 多器官和 ACDC 心臟分割資料集上進行評估，GLoG-CSUnet 展示出比最先進的模型有顯著的改進，Synapse 的 Dice 分數增加了 1.14%，ACDC 的 Dice 分數增加了 0.99%，計算負擔極小（分別只有 15 和 30 個額外的參數）。GLoG-CSUnet 的彈性設計允許與各種基礎模型整合，為在轉換器架構中整合放射組學啟發的特徵萃取提供了一個有前景的方法，以進行醫療影像分析。程式碼實作可在 GitHub 上取得：https://github.com/HAAIL/GLoG-CSUnet。</paragraph>
+
+##### **Hybrid deep convolution model for lung cancer detection with transfer learning**
+2501.02785v1 by Sugandha Saxena, S. N. Prasad, Ashwin M Polnaya, Shweta Agarwala
+
+Advances in healthcare research have significantly enhanced our understanding
+of disease mechanisms, diagnostic precision, and therapeutic options. Yet, lung
+cancer remains one of the leading causes of cancer-related mortality worldwide
+due to challenges in early and accurate diagnosis. While current lung cancer
+detection models show promise, there is considerable potential for further
+improving the accuracy for timely intervention. To address this challenge, we
+introduce a hybrid deep convolution model leveraging transfer learning, named
+the Maximum Sensitivity Neural Network (MSNN). MSNN is designed to improve the
+precision of lung cancer detection by refining sensitivity and specificity.
+This model has surpassed existing deep learning approaches through experimental
+validation, achieving an accuracy of 98% and a sensitivity of 97%. By
+overlaying sensitivity maps onto lung Computed Tomography (CT) scans, it
+enables the visualization of regions most indicative of malignant or benign
+classifications. This innovative method demonstrates exceptional performance in
+distinguishing lung cancer with minimal false positives, thereby enhancing the
+accuracy of medical diagnoses.
+
+摘要：醫療保健研究的進步顯著增進了我們對疾病機制、診斷精準度和治療選擇的了解。然而，由於早期和準確診斷的挑戰，肺癌仍然是全球癌症相關死亡的主要原因之一。雖然目前的肺癌檢測模型顯示出前景，但仍有相當大的潛力可以進一步提高準確性，以便及時介入。為了應對這一挑戰，我們引入了利用遷移學習的混合深度卷積模型，名為最大敏感度神經網路 (MSNN)。MSNN 旨在透過調整敏感度和特異性來提高肺癌檢測的準確性。此模型已透過實驗驗證超越現有的深度學習方法，達到 98% 的準確度和 97% 的敏感度。透過將敏感度圖疊加到肺部電腦斷層掃描 (CT) 上，它可以視覺化出最能代表惡性或良性分類的區域。這種創新方法在區分肺癌時表現出極佳的效能，且誤判為陽性的情況最少，從而提高了醫療診斷的準確性。
+
+##### **ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction**
+2501.02778v1 by Binyu Zhang, Zhu Meng, Junhao Dong, Fei Su, Zhicheng Zhao
+
+Survival prediction is a crucial task in the medical field and is essential
+for optimizing treatment options and resource allocation. However, current
+methods often rely on limited data modalities, resulting in suboptimal
+performance. In this paper, we propose an Integrated Cross-modal Fusion Network
+(ICFNet) that integrates histopathology whole slide images, genomic expression
+profiles, patient demographics, and treatment protocols. Specifically, three
+types of encoders, a residual orthogonal decomposition module and a unification
+fusion module are employed to merge multi-modal features to enhance prediction
+accuracy. Additionally, a balanced negative log-likelihood loss function is
+designed to ensure fair training across different patients. Extensive
+experiments demonstrate that our ICFNet outperforms state-of-the-art algorithms
+on five public TCGA datasets, including BLCA, BRCA, GBMLGG, LUAD, and UCEC, and
+shows its potential to support clinical decision-making and advance precision
+medicine. The codes are available at: https://github.com/binging512/ICFNet.
+
+摘要：存活預測是醫學領域的一項關鍵任務，對於優化治療選項和資源分配至關重要。然而，目前的技術通常仰賴有限的數據形式，導致次佳的表現。在本文中，我們提出一個整合式跨形式融合網路 (ICFNet)，它整合了組織病理學全幻燈片影像、基因體表現特徵、病患人口統計資料和治療協定。具體來說，使用三種類型的編碼器、一個殘差正交分解模組和一個統一融合模組，以合併多形式特徵，以增強預測準確度。此外，設計了一個平衡的負對數似然損失函數，以確保不同病患之間的公平訓練。廣泛的實驗證明，我們的 ICFNet 在五個公開的 TCGA 資料集上優於最先進的演算法，包括 BLCA、BRCA、GBMLGG、LUAD 和 UCEC，並展示其支援臨床決策和推動精準醫療的潛力。程式碼可在以下網址取得：https://github.com/binging512/ICFNet。
+
+##### **Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**
+2501.02727v1 by Yahe Yang, Chengyue Huang
+
+We present HiRMed (Hierarchical RAG-enhanced Medical Test Recommendation), a
+novel tree-structured recommendation system that leverages Retrieval-Augmented
+Generation (RAG) for intelligent medical test recommendations. Unlike
+traditional vector similarity-based approaches, our system performs medical
+reasoning at each tree node through a specialized RAG process. Starting from
+the root node with initial symptoms, the system conducts step-wise medical
+analysis to identify potential underlying conditions and their corresponding
+diagnostic requirements. At each level, instead of simple matching, our
+RAG-enhanced nodes analyze retrieved medical knowledge to understand
+symptom-disease relationships and determine the most appropriate diagnostic
+path. The system dynamically adjusts its recommendation strategy based on
+medical reasoning results, considering factors such as urgency levels and
+diagnostic uncertainty. Experimental results demonstrate that our approach
+achieves superior performance in terms of coverage rate, accuracy, and miss
+rate compared to conventional retrieval-based methods. This work represents a
+significant advance in medical test recommendation by introducing medical
+reasoning capabilities into the traditional tree-based retrieval structure.
+
+摘要：我們提出 HiRMed（分層 RAG 增強型醫療檢測建議），一種新穎的樹狀結構建議系統，它利用檢索增強生成 (RAG) 來進行智能醫療檢測建議。與傳統的基於向量相似性的方法不同，我們的系統通過一個專門的 RAG 程序在每個樹節點執行醫療推理。從具有初始症狀的根節點開始，系統執行逐步醫療分析以識別潛在的潛在疾病及其對應的診斷要求。在每個層級，我們的 RAG 增強節點會分析檢索到的醫療知識，以了解症狀與疾病的關係，並確定最合適的診斷路徑，而不是進行簡單的匹配。系統根據醫療推理結果動態調整其建議策略，考慮緊急程度和診斷不確定性等因素。實驗結果表明，與傳統的基於檢索的方法相比，我們的做法在覆蓋率、準確性和遺漏率方面取得了優異的表現。這項工作通過將醫療推理能力引入傳統的基於樹的檢索結構，代表了醫療檢測建議的重大進展。
+
+##### **Representation Learning of Lab Values via Masked AutoEncoder**
+2501.02648v2 by David Restrepo, Chenwei Wu, Yueran Jia, Jaden K. Sun, Jack Gallifant, Catherine G. Bielick, Yugang Jia, Leo A. Celi
+
+Accurate imputation of missing laboratory values in electronic health records
+(EHRs) is critical to enable robust clinical predictions and reduce biases in
+AI systems in healthcare. Existing methods, such as variational autoencoders
+(VAEs) and decision tree-based approaches such as XGBoost, struggle to model
+the complex temporal and contextual dependencies in EHR data, mainly in
+underrepresented groups. In this work, we propose Lab-MAE, a novel
+transformer-based masked autoencoder framework that leverages self-supervised
+learning for the imputation of continuous sequential lab values. Lab-MAE
+introduces a structured encoding scheme that jointly models laboratory test
+values and their corresponding timestamps, enabling explicit capturing temporal
+dependencies. Empirical evaluation on the MIMIC-IV dataset demonstrates that
+Lab-MAE significantly outperforms the state-of-the-art baselines such as
+XGBoost across multiple metrics, including root mean square error (RMSE),
+R-squared (R2), and Wasserstein distance (WD). Notably, Lab-MAE achieves
+equitable performance across demographic groups of patients, advancing fairness
+in clinical predictions. We further investigate the role of follow-up
+laboratory values as potential shortcut features, revealing Lab-MAE's
+robustness in scenarios where such data is unavailable. The findings suggest
+that our transformer-based architecture, adapted to the characteristics of the
+EHR data, offers a foundation model for more accurate and fair clinical
+imputation models. In addition, we measure and compare the carbon footprint of
+Lab-MAE with the baseline XGBoost model, highlighting its environmental
+requirements.
+
+摘要：<paragraph>準確估算電子健康記錄 (EHR) 中遺失的實驗室值對於啟用穩健的臨床預測和減少醫療保健中 AI 系統的偏差至關重要。現有方法（例如變異自動編碼器 (VAE) 和基於決策樹的方法，例如 XGBoost）難以建模 EHR 資料中複雜的時間和上下文依賴性，特別是在代表性不足的群組中。在這項工作中，我們提出 Lab-MAE，一個新穎的基於 Transformer 的遮罩自動編碼器框架，它利用自我監督學習來估算連續順序實驗室值。Lab-MAE 引入了一個結構化編碼方案，它聯合建模實驗室測試值及其對應的時間戳，從而能夠明確捕捉時間依賴性。在 MIMIC-IV 資料集上的經驗評估表明，Lab-MAE 在包括均方根誤差 (RMSE)、R 平方 (R2) 和 Wasserstein 距離 (WD) 在內的多項指標上顯著優於 XGBoost 等最先進的基準。值得注意的是，Lab-MAE 在患者的人口統計群組中取得了公平的表現，從而提升了臨床預測中的公平性。我們進一步研究了後續實驗室值作為潛在捷徑特徵的作用，揭示了 Lab-MAE 在此類資料不可用的情況下的穩健性。研究結果表明，我們基於 Transformer 的架構（調整為 EHR 資料的特徵）為更準確和公平的臨床估算模型提供了一個基礎模型。此外，我們測量並比較了 Lab-MAE 與基準 XGBoost 模型的碳足跡，突出了其環境需求。</paragraph>
+
+##### **Trust and Dependability in Blockchain & AI Based MedIoT Applications: Research Challenges and Future Directions**
+2501.02647v1 by Ellis Solaiman, Christa Awad
+
+This paper critically reviews the integration of Artificial Intelligence (AI)
+and blockchain technologies in the context of Medical Internet of Things
+(MedIoT) applications, where they collectively promise to revolutionize
+healthcare delivery. By examining current research, we underscore AI's
+potential in advancing diagnostics and patient care, alongside blockchain's
+capacity to bolster data security and patient privacy. We focus particularly on
+the imperative to cultivate trust and ensure reliability within these systems.
+Our review highlights innovative solutions for managing healthcare data and
+challenges such as ensuring scalability, maintaining privacy, and promoting
+ethical practices within the MedIoT domain. We present a vision for integrating
+AI-driven insights with blockchain security in healthcare, offering a
+comprehensive review of current research and future directions. We conclude
+with a set of identified research gaps and propose that addressing these is
+crucial for achieving the dependable, secure, and patient -centric MedIoT
+applications of tomorrow.
+
+摘要：本文批判性地回顧了人工智慧 (AI) 和區塊鏈技術在醫療物聯網 (MedIoT) 應用中的整合，這兩者共同承諾將徹底改變醫療保健服務。透過檢視目前的研究所，我們強調 AI 在推進診斷和患者照護方面的潛力，以及區塊鏈強化資料安全和患者隱私的能力。我們特別關注在這些系統內培養信任和確保可靠性的必要性。我們的回顧重點在於管理醫療保健資料的創新解決方案，以及確保可擴充性、維護隱私和在 MedIoT 領域內推廣道德實務等挑戰。我們提出一個將 AI 驅動的見解與區塊鏈安全整合在醫療保健中的願景，提供目前的研究所和未來方向的全面回顧。我們以一組已識別的研究差距作為結論，並提出解決這些差距對於達成未來可信賴、安全且以患者為中心的 MedIoT 應用至關重要。
+
+##### **KM-UNet KAN Mamba UNet for medical image segmentation**
+2501.02559v1 by Yibo Zhang
+
+Medical image segmentation is a critical task in medical imaging analysis.
+Traditional CNN-based methods struggle with modeling long-range dependencies,
+while Transformer-based models, despite their success, suffer from quadratic
+computational complexity. To address these limitations, we propose KM-UNet, a
+novel U-shaped network architecture that combines the strengths of
+Kolmogorov-Arnold Networks (KANs) and state-space models (SSMs). KM-UNet
+leverages the Kolmogorov-Arnold representation theorem for efficient feature
+representation and SSMs for scalable long-range modeling, achieving a balance
+between accuracy and computational efficiency. We evaluate KM-UNet on five
+benchmark datasets: ISIC17, ISIC18, CVC, BUSI, and GLAS. Experimental results
+demonstrate that KM-UNet achieves competitive performance compared to
+state-of-the-art methods in medical image segmentation tasks. To the best of
+our knowledge, KM-UNet is the first medical image segmentation framework
+integrating KANs and SSMs. This work provides a valuable baseline and new
+insights for the development of more efficient and interpretable medical image
+segmentation systems. The code is open source at
+https://github.com/2760613195/KM_UNet
+  Keywords:KAN,Manba, state-space models,UNet, Medical image segmentation, Deep
+learning
+
+摘要：醫學影像分割在醫學影像分析中是一項重要的任務。
+傳統基於 CNN 的方法難以模擬長距離依賴性，
+而基於 Transformer 的模型儘管成功，卻有二次計算複雜度的問題。為了解決這些限制，我們提出了 KM-UNet，這是一種新穎的 U 形網路架構，結合了 Kolmogorov-Arnold 網路 (KANs) 和狀態空間模型 (SSM) 的優點。KM-UNet 利用 Kolmogorov-Arnold 表示定理進行高效特徵表示，利用 SSM 進行可擴充長距離模擬，在準確度和計算效率之間取得平衡。我們在五個基準資料集上評估 KM-UNet：ISIC17、ISIC18、CVC、BUSI 和 GLAS。實驗結果表明，與醫學影像分割任務中的最先進方法相比，KM-UNet 達到了有競爭力的效能。據我們所知，KM-UNet 是第一個整合 KAN 和 SSM 的醫學影像分割框架。這項工作為開發更有效率且可解釋的醫學影像分割系統提供了有價值的基線和新見解。程式碼在 https://github.com/2760613195/KM_UNet 開源
+關鍵字：KAN、Manba、狀態空間模型、UNet、醫學影像分割、深度學習
+
+##### **Hengqin-RA-v1: Advanced Large Language Model for Diagnosis and Treatment of Rheumatoid Arthritis with Dataset based Traditional Chinese Medicine**
+2501.02471v1 by Yishen Liu, Shengda Luo, Zishao Zhong, Tongtong Wu, Jianguo Zhang, Peiyao Ou, Yong Liang, Liang Liu, Hudan Pan
+
+Large language models (LLMs) primarily trained on English texts, often face
+biases and inaccuracies in Chinese contexts. Their limitations are pronounced
+in fields like Traditional Chinese Medicine (TCM), where cultural and clinical
+subtleties are vital, further hindered by a lack of domain-specific data, such
+as rheumatoid arthritis (RA). To address these issues, this paper introduces
+Hengqin-RA-v1, the first large language model specifically tailored for TCM
+with a focus on diagnosing and treating RA. We also present HQ-GCM-RA-C1, a
+comprehensive RA-specific dataset curated from ancient Chinese medical
+literature, classical texts, and modern clinical studies. This dataset empowers
+Hengqin-RA-v1 to deliver accurate and culturally informed responses,
+effectively bridging the gaps left by general-purpose models. Extensive
+experiments demonstrate that Hengqin-RA-v1 outperforms state-of-the-art models,
+even surpassing the diagnostic accuracy of TCM practitioners in certain cases.
+
+摘要：大型語言模型（LLM）主要以英文文本進行訓練，在中文語境中經常面臨偏見和不準確的問題。它們的局限性在中醫等領域尤為明顯，因為中醫涉及文化和臨床上的微妙之處，而且還缺乏特定領域的數據，例如類風濕關節炎（RA）。為了解決這些問題，本文介紹了 Hengqin-RA-v1，這是第一個專門針對中醫的大型語言模型，重點是診斷和治療 RA。我們還提供了 HQ-GCM-RA-C1，這是一個從古代中醫文獻、古典文本和現代臨床研究中整理出來的、全面的 RA 特定數據集。這個數據集讓 Hengqin-RA-v1 能夠提供準確且符合文化背景的回應，有效地彌補了通用模型留下的空白。大量的實驗表明，Hengqin-RA-v1 優於最先進的模型，在某些情況下甚至超過了中醫從業者的診斷準確性。
+
+##### **Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales**
+2501.02451v1 by Zijie Cheng, Boxuan Li, André Altmann, Pearse A Keane, Yukun Zhou
+
+Contrastive learning, a prominent approach within self-supervised learning,
+has demonstrated significant effectiveness in developing generalizable models
+for various applications involving natural images. However, recent research
+indicates that these successes do not necessarily extend to the medical imaging
+domain. In this paper, we investigate the reasons for this suboptimal
+performance and hypothesize that the dense distribution of medical images poses
+challenges to the pretext tasks in contrastive learning, particularly in
+constructing positive and negative pairs. We explore model performance under
+different augmentation strategies and compare the results to those achieved
+with strong augmentations. Our study includes six publicly available datasets
+covering multiple clinically relevant tasks. We further assess the model's
+generalizability through external evaluations. The model pre-trained with weak
+augmentation outperforms those with strong augmentation, improving AUROC from
+0.838 to 0.848 and AUPR from 0.523 to 0.597 on MESSIDOR2, and showing similar
+enhancements across other datasets. Our findings suggest that optimizing the
+scale of augmentation is critical for enhancing the efficacy of contrastive
+learning in medical imaging.
+
+摘要：對比學習是自監督學習中一種重要的方法，在涉及自然影像的各種應用中，已展現出顯著的有效性，可開發出可概化的模型。然而，最近的研究指出，這些成功並未必然延伸至醫學影像領域。在本文中，我們探討造成這種次佳效能的原因，並假設醫學影像的密集分佈對比學習中的藉口任務造成挑戰，特別是在建構正負對時。我們在不同的擴充策略下探討模型效能，並將結果與強擴充所達成的結果進行比較。我們的研究涵蓋六個公開可用的資料集，涵蓋多項臨床相關任務。我們進一步透過外部評估來評估模型的可概化性。使用弱擴充進行預訓練的模型優於使用強擴充的模型，在 MESSIDOR2 上將 AUROC 從 0.838 提升至 0.848，將 AUPR 從 0.523 提升至 0.597，並在其他資料集上展現類似的提升。我們的研究結果顯示，最佳化擴充規模對於提升對比學習在醫學影像中的效能至關重要。
+
+##### **Enhancing Workplace Productivity and Well-being Using AI Agent**
+2501.02368v1 by Ravirajan K, Arvind Sundarajan
+
+This paper discusses the use of Artificial Intelligence (AI) to enhance
+workplace productivity and employee well-being. By integrating machine learning
+(ML) techniques with neurobiological data, the proposed approaches ensure
+alignment with human ethical standards through value alignment models and
+Hierarchical Reinforcement Learning (HRL) for autonomous task management. The
+system utilizes biometric feedback from employees to generate personalized
+health prompts, fostering a supportive work environment that encourages
+physical activity. Additionally, we explore decentralized multi-agent systems
+for improved collaboration and decision-making frameworks that enhance
+transparency. Various approaches using ML techniques in conjunction with AI
+implementations are discussed. Together, these innovations aim to create a more
+productive and health-conscious workplace. These outcomes assist HR management
+and organizations in launching more rational career progression streams for
+employees and facilitating organizational transformation.
+
+摘要：本文探討利用人工智慧（AI）來提升職場生產力和員工福祉。透過將機器學習（ML）技術與神經生物學資料整合，所提出的方法確保透過價值對齊模型和用於自主任務管理的分層強化學習（HRL）與人類倫理標準保持一致。該系統利用員工的生物特徵回饋來產生個人化健康提示，營造支持性的工作環境，鼓勵身體活動。此外，我們探討分散式多智能體系統，以改善協作和決策制定架構，進而提升透明度。本文討論了各種結合 ML 技術與 AI 實作的方法。總而言之，這些創新旨在創造一個更具生產力且注重健康的職場。這些成果有助於人力資源管理和組織機構為員工啟動更合理的職涯發展管道，並促進組織轉型。
+
+##### **Exploring the Capabilities and Limitations of Large Language Models for Radiation Oncology Decision Support**
+2501.02346v1 by Florian Putz, Marlen Haderleina, Sebastian Lettmaier, Sabine Semrau, Rainer Fietkau, Yixing Huang
+
+Thanks to the rapidly evolving integration of LLMs into decision-support
+tools, a significant transformation is happening across large-scale systems.
+Like other medical fields, the use of LLMs such as GPT-4 is gaining increasing
+interest in radiation oncology as well. An attempt to assess GPT-4's
+performance in radiation oncology was made via a dedicated 100-question
+examination on the highly specialized topic of radiation oncology physics,
+revealing GPT-4's superiority over other LLMs. GPT-4's performance on a broader
+field of clinical radiation oncology is further benchmarked by the ACR
+Radiation Oncology In-Training (TXIT) exam where GPT-4 achieved a high accuracy
+of 74.57%. Its performance on re-labelling structure names in accordance with
+the AAPM TG-263 report has also been benchmarked, achieving above 96%
+accuracies. Such studies shed light on the potential of LLMs in radiation
+oncology. As interest in the potential and constraints of LLMs in general
+healthcare applications continues to rise5, the capabilities and limitations of
+LLMs in radiation oncology decision support have not yet been fully explored.
+
+摘要：隨著 LLM 快速演進整合到決策支援工具中，大規模系統正在發生重大轉變。
+與其他醫療領域一樣，LLM（例如 GPT-4）的使用也在放射腫瘤學中獲得越來越多的興趣。透過針對放射腫瘤學物理學這個高度專業的主題進行 100 題專門考試，試圖評估 GPT-4 在放射腫瘤學中的表現，揭示了 GPT-4 優於其他 LLM。GPT-4 在更廣泛的臨床放射腫瘤學領域的表現進一步由 ACR 放射腫瘤學在職訓練 (TXIT) 考試進行評量，GPT-4 在其中取得 74.57% 的高準確度。它根據 AAPM TG-263 報告重新標記結構名稱的表現也已進行評量，準確度達到 96% 以上。這些研究揭示了 LLM 在放射腫瘤學中的潛力。由於人們持續對 LLM 在一般醫療保健應用中的潛力和限制感興趣5，LLM 在放射腫瘤學決策支援中的功能和限制尚未得到充分探索。
+
+##### **Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**
+2501.02287v1 by Ashiqur Rahman, Muhammad E. H. Chowdhury, Md Sharjis Ibne Wadud, Rusab Sarmun, Adam Mushtak, Sohaib Bassam Zoghoul, Israa Al-Hashimi
+
+Ischemic stroke, caused by cerebral vessel occlusion, presents substantial
+challenges in medical imaging due to the variability and subtlety of stroke
+lesions. Magnetic Resonance Imaging (MRI) plays a crucial role in diagnosing
+and managing ischemic stroke, yet existing segmentation techniques often fail
+to accurately delineate lesions. This study introduces a novel deep
+learning-based method for segmenting ischemic stroke lesions using
+multi-channel MRI modalities, including Diffusion Weighted Imaging (DWI),
+Apparent Diffusion Coefficient (ADC), and enhanced Diffusion Weighted Imaging
+(eDWI). The proposed architecture integrates DenseNet121 as the encoder with
+Self-Organized Operational Neural Networks (SelfONN) in the decoder, enhanced
+by Channel and Space Compound Attention (CSCA) and Double
+Squeeze-and-Excitation (DSE) blocks. Additionally, a custom loss function
+combining Dice Loss and Jaccard Loss with weighted averages is introduced to
+improve model performance. Trained and evaluated on the ISLES 2022 dataset, the
+model achieved Dice Similarity Coefficients (DSC) of 83.88% using DWI alone,
+85.86% with DWI and ADC, and 87.49% with the integration of DWI, ADC, and eDWI.
+This approach not only outperforms existing methods but also addresses key
+limitations in current segmentation practices. These advancements significantly
+enhance diagnostic precision and treatment planning for ischemic stroke,
+providing valuable support for clinical decision-making.
+
+摘要：缺血性中風是由腦血管阻塞所引起，由於中風病灶的可變性和隱蔽性，在醫學影像中造成相當大的挑戰。磁振造影 (MRI) 在診斷和治療缺血性中風中扮演至關重要的角色，但現有的分割技術常常無法準確地描繪病灶。本研究提出一個新的深度學習方法，使用多通道 MRI 模式對缺血性中風病灶進行分割，包括擴散加權影像 (DWI)、表觀擴散係數 (ADC) 和增強型擴散加權影像 (eDWI)。所提出的架構將 DenseNet121 整合為編碼器，並在解碼器中使用自組織運算神經網路 (SelfONN)，並由通道和空間複合注意力 (CSCA) 和雙重擠壓激勵 (DSE) 區塊進行加強。此外，還引進了一個自訂的損失函數，結合了 Dice 損失和 Jaccard 損失以及加權平均，以提升模型效能。在 ISLES 2022 資料集上進行訓練和評估，該模型使用 DWI 單獨時達到 83.88% 的 Dice 相似性係數 (DSC)，使用 DWI 和 ADC 時達到 85.86%，使用 DWI、ADC 和 eDWI 整合時達到 87.49%。這種方法不僅優於現有方法，還能解決當前分割實務中的主要限制。這些進展顯著提升了缺血性中風的診斷精準度和治療規劃，為臨床決策提供有價值的支援。
+
+##### **The Integration of Blockchain and Artificial Intelligence for Secure Healthcare Systems**
+2501.02169v1 by Umar Safdar, Simon Gabrael
+
+Verisign reported a 125 percent increase in data breaches within the
+healthcare sector in the United States during 2022, with 18.2 million patient
+records being impacted. Growing healthcare data volumes and diversification
+mean that medical information is becoming more valuable. Many Health Centers
+use various technologies to ease the classification, storage, and exchange of
+big data. This use can also make the health data of the users at risk and
+vulnerable. AI and blockchain are among the leading technologies at hand. With
+AI, data-driven operations and big data efficiency have been improved with
+respect to traditional techniques. Due to its potential to bring about
+improvements in health services and lower medical costs, this AI technology is
+regularly used in healthcare. Blockchain helps protect transactions on sharing
+information and private privacy as long as the exchange of knowledge is that of
+the standard. The objective of this analysis is to investigate the research and
+unique contributions since 2008 regarding blockchain-integrated AI and
+healthcare systems. The work sheds light on applied AI-based healthcare schemes
+with machine, ballistic, and acrylic learning and disparate blockchain
+structures. The use of technology in order to ensure patient data security and
+manage medical information effectively in healthcare settings offers a highly
+successful position for both healthcare providers and patients. From 2018 to
+2021, the best year was 2021 to grow, enhancing everything to examine the
+download of the device and the counting of Google Academies, for which the
+joining perspective was borrowed; local research experts were asked, identified
+articles in recent years, and read reviews of large research grants.
+
+摘要：Verisign 報告 2022 年美國醫療保健部門的資料外洩事件增加了 125%，影響了 1,820 萬筆病歷。醫療保健資料量不斷增加且多元化，這表示醫療資訊變得更有價值。許多醫療中心使用各種技術，以簡化大數據的分類、儲存和交換。這種使用方式也可能使使用者的健康資料面臨風險和脆弱性。人工智慧和區塊鏈是現有的領先技術。透過人工智慧，資料驅動的運作和大數據效率已相較於傳統技術獲得改善。由於人工智慧技術有潛力改善醫療服務並降低醫療成本，因此經常在醫療保健中使用。區塊鏈有助於保護交易，在資訊共享和隱私方面，只要知識的交換是標準的。本分析的目標是調查自 2008 年以來與區塊鏈整合人工智慧和醫療保健系統相關的研究和獨特貢獻。這項工作闡明了應用人工智慧為基礎的醫療保健計畫，包括機器、彈道和丙烯酸學習以及不同的區塊鏈結構。為了確保病患資料安全並在醫療保健環境中有效管理醫療資訊，使用技術為醫療保健提供者和病患提供了極為成功的定位。從 2018 年到 2021 年，最適合成長的是 2021 年，加強所有一切，以檢查裝置的下載和 Google 學術的計數，借用了加入的觀點；詢問了當地研究專家，找出近年來的文章，並閱讀大型研究補助金的評論。
+
+##### **Online Detection of Water Contamination Under Concept Drift**
+2501.02107v1 by Jin Li, Kleanthis Malialis, Stelios G. Vrachimis, Marios M. Polycarpou
+
+Water Distribution Networks (WDNs) are vital infrastructures, and
+contamination poses serious public health risks. Harmful substances can
+interact with disinfectants like chlorine, making chlorine monitoring essential
+for detecting contaminants. However, chlorine sensors often become unreliable
+and require frequent calibration. This study introduces the Dual-Threshold
+Anomaly and Drift Detection (AD&DD) method, an unsupervised approach combining
+a dual-threshold drift detection mechanism with an LSTM-based Variational
+Autoencoder(LSTM-VAE) for real-time contamination detection. Tested on two
+realistic WDNs, AD&DD effectively identifies anomalies with sensor offsets as
+concept drift, and outperforms other methods. A proposed decentralized
+architecture enables accurate contamination detection and localization by
+deploying AD&DD on selected nodes.
+
+摘要：配水網路 (WDN) 是重要的基礎設施，而污染會造成嚴重的公共衛生風險。有害物質可能會與消毒劑（如氯氣）交互作用，因此監測氯氣對於偵測污染物至關重要。然而，氯氣感測器常常變得不可靠，需要頻繁校正。本研究提出雙閾值異常與漂移偵測 (AD&DD) 方法，這是一種非監督式方法，結合雙閾值漂移偵測機制與基於 LSTM 的變異自動編碼器 (LSTM-VAE)，用於即時污染偵測。在兩個實際的 WDN 上進行測試，AD&DD 能有效地將感測器偏移視為概念漂移，並優於其他方法。所提出的分散式架構能透過在選定的節點部署 AD&DD，實現精確的污染偵測與定位。
+
+##### **METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring**
+2501.02045v1 by Ollie Liu, Sami Jaghouar, Johannes Hagemann, Shangshang Wang, Jason Wiemels, Jeff Kaufman, Willie Neiswanger
+
+We pretrain METAGENE-1, a 7-billion-parameter autoregressive transformer
+model, which we refer to as a metagenomic foundation model, on a novel corpus
+of diverse metagenomic DNA and RNA sequences comprising over 1.5 trillion base
+pairs. This dataset is sourced from a large collection of human wastewater
+samples, processed and sequenced using deep metagenomic (next-generation)
+sequencing methods. Unlike genomic models that focus on individual genomes or
+curated sets of specific species, the aim of METAGENE-1 is to capture the full
+distribution of genomic information present within this wastewater, to aid in
+tasks relevant to pandemic monitoring and pathogen detection. We carry out
+byte-pair encoding (BPE) tokenization on our dataset, tailored for metagenomic
+sequences, and then pretrain our model. In this paper, we first detail the
+pretraining dataset, tokenization strategy, and model architecture,
+highlighting the considerations and design choices that enable the effective
+modeling of metagenomic data. We then show results of pretraining this model on
+our metagenomic dataset, providing details about our losses, system metrics,
+and training stability over the course of pretraining. Finally, we demonstrate
+the performance of METAGENE-1, which achieves state-of-the-art results on a set
+of genomic benchmarks and new evaluations focused on human-pathogen detection
+and genomic sequence embedding, showcasing its potential for public health
+applications in pandemic monitoring, biosurveillance, and early detection of
+emerging health threats.
+
+摘要：<paragraph>我們預訓練了一個具有 70 億個參數的自迴歸轉換器模型 METAGENE-1，我們稱之為宏基因組基礎模型，它建立在一個新穎的語料庫上，其中包含超過 1.5 兆個鹼基對的多樣化宏基因組 DNA 和 RNA 序列。此數據集來自大量人類廢水樣本，使用深度宏基因組（下一代）定序方法進行處理和定序。與專注於個別基因組或特定物種策劃集合的基因組模型不同，METAGENE-1 的目標是擷取此廢水中存在的基因組資訊的完整分佈，以協助與大流行監測和病原體檢測相關的任務。我們對數據集執行針對宏基因組序列量身打造的位元組對編碼 (BPE) 標記化，然後預訓練我們的模型。在本文中，我們首先詳細說明預訓練數據集、標記化策略和模型架構，重點說明能有效建模宏基因組數據的考量和設計選擇。然後，我們展示了在我們的宏基因組數據集上預訓練此模型的結果，提供有關我們的損失、系統指標和在預訓練過程中訓練穩定性的詳細資訊。最後，我們展示了 METAGENE-1 的效能，它在針對人類病原體檢測和基因組序列嵌入的一組基因組基準和新評估中達到了最先進的結果，展示了其在公共衛生應用中的潛力，包括大流行監測、生物監控和新興健康威脅的早期檢測。</paragraph>
+
+##### **Advancing Pancreatic Cancer Prediction with a Next Visit Token Prediction Head on top of Med-BERT**
+2501.02044v1 by Jianping He, Laila Rasmy, Degui Zhi, Cui Tao
+
+Background: Recently, numerous foundation models pretrained on extensive data
+have demonstrated efficacy in disease prediction using Electronic Health
+Records (EHRs). However, there remains some unanswered questions on how to best
+utilize such models especially with very small fine-tuning cohorts. Methods: We
+utilized Med-BERT, an EHR-specific foundation model, and reformulated the
+disease binary prediction task into a token prediction task and a next visit
+mask token prediction task to align with Med-BERT's pretraining task format in
+order to improve the accuracy of pancreatic cancer (PaCa) prediction in both
+few-shot and fully supervised settings. Results: The reformulation of the task
+into a token prediction task, referred to as Med-BERT-Sum, demonstrates
+slightly superior performance in both few-shot scenarios and larger data
+samples. Furthermore, reformulating the prediction task as a Next Visit Mask
+Token Prediction task (Med-BERT-Mask) significantly outperforms the
+conventional Binary Classification (BC) prediction task (Med-BERT-BC) by 3% to
+7% in few-shot scenarios with data sizes ranging from 10 to 500 samples. These
+findings highlight that aligning the downstream task with Med-BERT's
+pretraining objectives substantially enhances the model's predictive
+capabilities, thereby improving its effectiveness in predicting both rare and
+common diseases. Conclusion: Reformatting disease prediction tasks to align
+with the pretraining of foundation models enhances prediction accuracy, leading
+to earlier detection and timely intervention. This approach improves treatment
+effectiveness, survival rates, and overall patient outcomes for PaCa and
+potentially other cancers.
+
+摘要：背景：最近，大量基于广泛数据进行预训练的基础模型已证明在使用电子健康记录 (EHR) 预测疾病方面有效。然而，关于如何最好地利用此类模型（尤其是在极小微调队列中）仍有一些未解决的问题。方法：我们利用了 EHR 特定的基础模型 Med-BERT，并将疾病二元预测任务重新表述为标记预测任务和下次访问掩码标记预测任务，以与 Med-BERT 的预训练任务格式保持一致，从而提高胰腺癌 (PaCa) 预测的准确性，无论是在小样本还是完全监督的设置中。结果：将任务重新表述为标记预测任务（称为 Med-BERT-Sum），在小样本场景和较大数据样本中均表现出略微优越的性能。此外，将预测任务重新表述为下一次访问掩码标记预测任务（Med-BERT-Mask）在小样本场景中明显优于传统的二元分类 (BC) 预测任务（Med-BERT-BC），数据大小从 10 到 500 个样本不等，优越幅度为 3% 到 7%。这些发现强调，将下游任务与 Med-BERT 的预训练目标保持一致，可以显着增强模型的预测能力，从而提高其预测罕见疾病和常见疾病的有效性。结论：重新格式化疾病预测任务以与基础模型的预训练保持一致，可提高预测准确性，从而实现早期检测和及时干预。这种方法提高了 PaCa 和其他癌症的治疗效果、存活率和患者总体预后。
+
+##### **Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture**
+2501.01732v1 by Shivom Aggarwal, Shourya Mehra, Safeer Sathar
+
+Customer Identity and Access Management (CIAM) systems play a pivotal role in
+securing enterprise infrastructures. However, the complexity of implementing
+these systems requires careful architectural planning to ensure positive Return
+on Investment (RoI) and avoid costly delays. The proliferation of Active
+Persistent cyber threats, coupled with advancements in AI, cloud computing, and
+geographically distributed customer populations, necessitates a paradigm shift
+towards adaptive and zero-trust security frameworks. This paper introduces the
+Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM
+architecture, designed specifically for large-scale enterprises. The CHEZ PL
+CIAM-PAM framework addresses critical security gaps by integrating federated
+identity management (private and public identities), password-less
+authentication, adaptive multi-factor authentication (MFA), microservice-based
+PEP (Policy Entitlement Point), multi-layer RBAC (Role Based Access Control)
+and multi-level trust systems. This future-proof design also includes
+end-to-end data encryption, and seamless integration with state-of-the-art
+AI-based threat detection systems, while ensuring compliance with stringent
+regulatory standards.
+
+摘要：客戶身分與存取管理 (CIAM) 系統在確保企業基礎設施安全方面扮演著關鍵角色。然而，實作這些系統的複雜性需要仔細的架構規劃，以確保投資報酬率 (RoI) 為正，並避免成本高昂的延誤。主動持續的網路威脅的擴散，加上人工智慧、雲端運算和地理分布的客戶群的進步，需要朝向適應性和零信任安全架構轉變。本文介紹專為大型企業設計的 Combined Hyper-Extensible Extremely-Secured Zero-Trust (CHEZ) CIAM-PAM 架構。CHEZ PL CIAM-PAM 架構透過整合聯合身分管理（私人和公用身分）、無密碼驗證、適應性多重身分驗證 (MFA)、基於微服務的 PEP（政策授權點）、多層 RBAC（基於角色的存取控制）和多層級信任系統來解決關鍵的安全漏洞。這種具備未來性的設計也包含端對端資料加密，並與最先進的基於人工智慧的威脅偵測系統無縫整合，同時確保符合嚴格的法規標準。
+
+##### **EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation**
+2501.01658v1 by Wang Lituan, Zhang Lei, Wang Yan, Wang Zhenbin, Zhang Zhenwei, Zhang Yi
+
+Weakly-supervised medical image segmentation is gaining traction as it
+requires only rough annotations rather than accurate pixel-to-pixel labels,
+thereby reducing the workload for specialists. Although some progress has been
+made, there is still a considerable performance gap between the label-efficient
+methods and fully-supervised one, which can be attributed to the uncertainty
+nature of these weak labels. To address this issue, we propose a novel weak
+annotation method coupled with its learning framework EAUWSeg to eliminate the
+annotation uncertainty. Specifically, we first propose the Bounded Polygon
+Annotation (BPAnno) by simply labeling two polygons for a lesion. Then, the
+tailored learning mechanism that explicitly treat bounded polygons as two
+separated annotations is proposed to learn invariant feature by providing
+adversarial supervision signal for model training. Subsequently, a
+confidence-auxiliary consistency learner incorporates with a
+classification-guided confidence generator is designed to provide reliable
+supervision signal for pixels in uncertain region by leveraging the feature
+presentation consistency across pixels within the same category as well as
+class-specific information encapsulated in bounded polygons annotation.
+Experimental results demonstrate that EAUWSeg outperforms existing
+weakly-supervised segmentation methods. Furthermore, compared to
+fully-supervised counterparts, the proposed method not only delivers superior
+performance but also costs much less annotation workload. This underscores the
+superiority and effectiveness of our approach.
+
+摘要：弱监督医学影像分割正获得关注，因为它只需要粗略的注释，而不是精确的像素到像素标签，从而减少了专家的工作量。尽管取得了一些进展，但在标签高效方法和完全监督方法之间仍然存在相当大的性能差距，这可归因于这些弱标签的不确定性。为了解决这个问题，我们提出了一种新的弱注释方法，并结合其学习框架 EAUWSeg 来消除注释的不确定性。具体来说，我们首先通过简单地为病灶标记两个多边形来提出有界多边形注释 (BPAnno)。然后，提出了将有界多边形明确地视为两个分离注释的定制学习机制，以通过为模型训练提供对抗性监督信号来学习不变特征。随后，置信辅助一致性学习器与分类引导置信度生成器结合设计，以通过利用同一类别内像素的特征表示一致性以及有界多边形注释中封装的特定于类的信息，为不确定区域中的像素提供可靠的监督信号。实验结果表明，EAUWSeg 优于现有的弱监督分割方法。此外，与完全监督的对应方法相比，所提出的方法不仅提供了卓越的性能，而且注释工作量也大大减少。这突出了我们方法的优越性和有效性。
+
+##### **Implications of Artificial Intelligence on Health Data Privacy and Confidentiality**
+2501.01639v2 by Ahmad Momani
+
+The rapid integration of artificial intelligence (AI) in healthcare is
+revolutionizing medical diagnostics, personalized medicine, and operational
+efficiency. However, alongside these advancements, significant challenges arise
+concerning patient data privacy, ethical considerations, and regulatory
+compliance. This paper examines the dual impact of AI on healthcare,
+highlighting its transformative potential and the critical need for
+safeguarding sensitive health information. It explores the role of the Health
+Insurance Portability and Accountability Act (HIPAA) as a regulatory framework
+for ensuring data privacy and security, emphasizing the importance of robust
+safeguards and ethical standards in AI-driven healthcare. Through case studies,
+including AI applications in diabetic retinopathy, oncology, and the
+controversies surrounding data sharing, this study underscores the ethical and
+legal complexities of AI implementation. A balanced approach that fosters
+innovation while maintaining patient trust and privacy is imperative. The
+findings emphasize the importance of continuous education, transparency, and
+adherence to regulatory frameworks to harness AI's full potential responsibly
+and ethically in healthcare.
+
+摘要：人工智慧 (AI) 在醫療保健領域的快速整合，正在徹底變革醫療診斷、個人化醫療和營運效率。然而，隨著這些進步，也出現了關於患者資料隱私、倫理考量和法規遵循的重大挑戰。本文探討了 AI 對醫療保健的雙重影響，強調其轉型潛力以及保護敏感健康資訊的關鍵需求。本文探討了健康保險可攜性和責任法案 (HIPAA) 作為確保資料隱私和安全的法規架構的角色，強調在 AI 驅動的醫療保健中健全保障措施和道德標準的重要性。本研究透過案例研究，包括 AI 在糖尿病視網膜病變、腫瘤學中的應用，以及圍繞資料共享的爭議，強調了 AI 實施的倫理和法律複雜性。一種平衡的方法，在促進創新的同時，維護患者的信任和隱私，至關重要。研究結果強調了持續教育、透明度和遵守法規框架的重要性，以負責任且合乎道德的方式利用 AI 在醫療保健中的全部潛力。
+
+##### **Merging Context Clustering with Visual State Space Models for Medical Image Segmentation**
+2501.01618v1 by Yun Zhu, Dong Zhang, Yi Lin, Yifei Feng, Jinhui Tang
+
+Medical image segmentation demands the aggregation of global and local
+feature representations, posing a challenge for current methodologies in
+handling both long-range and short-range feature interactions. Recently, vision
+mamba (ViM) models have emerged as promising solutions for addressing model
+complexities by excelling in long-range feature iterations with linear
+complexity. However, existing ViM approaches overlook the importance of
+preserving short-range local dependencies by directly flattening spatial tokens
+and are constrained by fixed scanning patterns that limit the capture of
+dynamic spatial context information. To address these challenges, we introduce
+a simple yet effective method named context clustering ViM (CCViM), which
+incorporates a context clustering module within the existing ViM models to
+segment image tokens into distinct windows for adaptable local clustering. Our
+method effectively combines long-range and short-range feature interactions,
+thereby enhancing spatial contextual representations for medical image
+segmentation tasks. Extensive experimental evaluations on diverse public
+datasets, i.e., Kumar, CPM17, ISIC17, ISIC18, and Synapse demonstrate the
+superior performance of our method compared to current state-of-the-art
+methods. Our code can be found at https://github.com/zymissy/CCViM.
+
+摘要：醫療影像分割需要聚合全局和局部特徵表示，對當前方法處理長程和短程特徵交互構成挑戰。最近，視覺曼巴 (ViM) 模型已成為解決模型複雜性的有前途的解決方案，它在線性複雜度下擅長長程特徵迭代。然而，現有的 ViM 方法忽視了透過直接壓平空間標記來保留短程局部依賴性的重要性，並且受到限制的掃描模式的約束，這會限制動態空間背景資訊的擷取。為了解決這些挑戰，我們引入了一種名為背景聚類 ViM (CCViM) 的簡單但有效的方法，它在現有的 ViM 模型中加入了一個背景聚類模組，將影像標記分割成不同的視窗，以進行適應性局部聚類。我們的模型有效地結合了長程和短程特徵交互，從而增強了用於醫療影像分割任務的空間背景表示。在各種公開資料集（即 Kumar、CPM17、ISIC17、ISIC18 和 Synapse）上進行的廣泛實驗評估證明了我們的方法與當前最先進方法相比具有卓越的效能。我們的程式碼可以在 https://github.com/zymissy/CCViM 找到。
+
+##### **PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**
+2501.01594v1 by Jingoo Lee, Kyungho Lim, Young-Chul Jung, Byung-Hoon Kim
+
+Recent advances in large language models (LLMs) have accelerated the
+development of conversational agents capable of generating human-like
+responses. Since psychiatric assessments typically involve complex
+conversational interactions between psychiatrists and patients, there is
+growing interest in developing LLM-based psychiatric assessment conversational
+agents (PACAs) that aim to simulate the role of psychiatrists in clinical
+evaluations. However, standardized methods for benchmarking the clinical
+appropriateness of PACAs' interaction with patients still remain underexplored.
+Here, we propose PSYCHE, a novel framework designed to enable the 1) clinically
+relevant, 2) ethically safe, 3) cost-efficient, and 4) quantitative evaluation
+of PACAs. This is achieved by simulating psychiatric patients based on a
+multi-faceted psychiatric construct that defines the simulated patients'
+profiles, histories, and behaviors, which PACAs are expected to assess. We
+validate the effectiveness of PSYCHE through a study with 10 board-certified
+psychiatrists, supported by an in-depth analysis of the simulated patient
+utterances.
+
+摘要：大型語言模型 (LLM) 的最新進展加速了會話代理的開發，這些代理能夠產生類似人類的回應。由於精神科評估通常涉及精神科醫師和患者之間複雜的會話互動，因此對於開發基於 LLM 的精神科評估會話代理 (PACA) 的興趣與日俱增，這些代理旨在模擬精神科醫師在臨床評估中的角色。然而，用於評量 PACA 與患者互動的臨床適當性的標準化方法仍未被充分探討。在此，我們提出 PSYCHE，一個新穎的框架，旨在實現 1) 臨床相關、2) 道德安全、3) 成本效益，以及 4) PACA 的定量評估。這是透過模擬基於多面向精神科建構的精神科患者來實現的，該建構定義了模擬患者的個人資料、病史和行為，而 PACA 預計會評估這些內容。我們透過一項有 10 位經認證的精神科醫師參與的研究驗證了 PSYCHE 的有效性，並輔以對模擬患者話語的深入分析。
+
+##### **Model Checking in Medical Imaging for Tumor Detection and Segmentation**
+2501.02024v2 by Elhoucine Elfatimi, Lahcen El fatimi
+
+Recent advancements in model checking have demonstrated significant potential
+across diverse applications, particularly in signal and image analysis. Medical
+imaging stands out as a critical domain where model checking can be effectively
+applied to design and evaluate robust frameworks. These frameworks facilitate
+automatic and semi-automatic delineation of regions of interest within images,
+aiding in accurate segmentation. This paper provides a comprehensive analysis
+of recent works leveraging spatial logic to develop operators and tools for
+identifying regions of interest, including tumorous and non-tumorous areas.
+Additionally, we examine the challenges inherent to spatial model-checking
+techniques, such as variability in ground truth data and the need for
+streamlined procedures suitable for routine clinical practice.
+
+摘要：近來模型檢定的進展顯示出在各種應用中具有顯著的潛力，特別是在訊號和影像分析中。醫療成像作為一個關鍵領域，模型檢定可以有效地應用於設計和評估穩健的架構。這些架構有助於自動和半自動地描繪影像中的感興趣區域，有助於準確的分割。本文對近來利用空間邏輯開發運算子和工具以識別感興趣區域（包括腫瘤和非腫瘤區域）的相關研究進行了全面的分析。此外，我們探討了空間模型檢定技術固有的挑戰，例如基本事實資料的可變性以及對適合常規臨床實務的簡化程序的需求。
+
+##### **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**
+2501.01377v1 by Yucheng Zhou, Lingran Song, Jianbing Shen
+
+Existing Medical Large Vision-Language Models (Med-LVLMs), which encapsulate
+extensive medical knowledge, demonstrate excellent capabilities in
+understanding medical images and responding to human queries based on these
+images. However, there remain challenges in visual localization in medical
+images, which is crucial for abnormality detection and interpretation. To
+address these issues, we propose a novel UMed-LVLM designed with Unveiling
+Medical abnormalities. Specifically, we collect a Medical Abnormalities
+Unveiling (MAU) dataset and propose a two-stage training method for UMed-LVLM
+training. To collect MAU dataset, we propose a prompt method utilizing the
+GPT-4V to generate diagnoses based on identified abnormal areas in medical
+images. Moreover, the two-stage training method includes Abnormal-Aware
+Instruction Tuning and Abnormal-Aware Rewarding, comprising Abnormal
+Localization Rewarding and Vision Relevance Rewarding. Experimental results
+demonstrate that our UMed-LVLM surpasses existing Med-LVLMs in identifying and
+understanding medical abnormality. In addition, this work shows that enhancing
+the abnormality detection capabilities of Med-LVLMs significantly improves
+their understanding of medical images and generalization capability.
+
+摘要：現有的醫療大型視覺語言模型 (Med-LVLMs) 封裝了廣泛的醫療知識，在理解醫療影像和根據這些影像回應人類查詢方面表現出色的能力。然而，在醫療影像中進行視覺定位仍存在挑戰，這對於異常偵測和解讀至關重要。為了解決這些問題，我們提出了一種新穎的 UMed-LVLM，其設計用於揭示醫療異常。具體來說，我們收集了一個醫療異常揭示 (MAU) 資料集，並為 UMed-LVLM 訓練提出了一個兩階段訓練方法。為了收集 MAU 資料集，我們提出了一種提示方法，利用 GPT-4V 根據醫療影像中識別出的異常區域生成診斷。此外，兩階段訓練方法包括異常感知指導調整和異常感知獎勵，包括異常定位獎勵和視覺相關性獎勵。實驗結果表明，我們的 UMed-LVLM 在識別和理解醫療異常方面優於現有的 Med-LVLMs。此外，這項工作表明，增強 Med-LVLMs 的異常偵測能力可以顯著提升它們對醫療影像的理解和泛化能力。
+
+##### **ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**
+2501.01372v1 by Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim
+
+Background: Late Gadolinium Enhancement (LGE) imaging is the gold standard
+for assessing myocardial fibrosis and scarring, with left ventricular (LV) LGE
+extent predicting major adverse cardiac events (MACE). Despite its importance,
+routine LGE-based LV scar quantification is hindered by labor-intensive manual
+segmentation and inter-observer variability. Methods: We propose ScarNet, a
+hybrid model combining a transformer-based encoder from the Medical Segment
+Anything Model (MedSAM) with a convolution-based U-Net decoder, enhanced by
+tailored attention blocks. ScarNet was trained on 552 ischemic cardiomyopathy
+patients with expert segmentations of myocardial and scar boundaries and tested
+on 184 separate patients. Results: ScarNet achieved robust scar segmentation in
+184 test patients, yielding a median Dice score of 0.912 (IQR: 0.863--0.944),
+significantly outperforming MedSAM (median Dice = 0.046, IQR: 0.043--0.047) and
+nnU-Net (median Dice = 0.638, IQR: 0.604--0.661). ScarNet demonstrated lower
+bias (-0.63%) and coefficient of variation (4.3%) compared to MedSAM (bias:
+-13.31%, CoV: 130.3%) and nnU-Net (bias: -2.46%, CoV: 20.3%). In Monte Carlo
+simulations with noise perturbations, ScarNet achieved significantly higher
+scar Dice (0.892 \pm 0.053, CoV = 5.9%) than MedSAM (0.048 \pm 0.112, CoV =
+233.3%) and nnU-Net (0.615 \pm 0.537, CoV = 28.7%). Conclusion: ScarNet
+outperformed MedSAM and nnU-Net in accurately segmenting myocardial and scar
+boundaries in LGE images. The model exhibited robust performance across diverse
+image qualities and scar patterns.
+
+摘要：<paragraph>背景：延迟钆增强（LGE）成像用于评估心肌纤维化和瘢痕的黄金标准，左心室 (LV) LGE 范围预测重大的心脏不良事件 (MACE)。尽管其重要性，但基于 LGE 的常规 LV 瘢痕量化受到劳动密集型手动分割和观察者间差异的阻碍。方法：我们提出 ScarNet，一种混合模型，它将来自医学分割任何模型 (MedSAM) 的基于 Transformer 的编码器与基于卷积的 U-Net 解码器相结合，并通过定制的注意力块进行增强。ScarNet 在 552 例缺血性心肌病患者上接受训练，这些患者的心肌和瘢痕边界由专家分割，并在 184 例单独患者上进行测试。结果：ScarNet 在 184 例测试患者中实现了稳健的瘢痕分割，产生 0.912 的中值 Dice 得分（IQR：0.863--0.944），明显优于 MedSAM（中值 Dice = 0.046，IQR：0.043--0.047）和 nnU-Net（中值 Dice = 0.638，IQR：0.604--0.661）。与 MedSAM（偏差：-13.31%，CoV：130.3%）和 nnU-Net（偏差：-2.46%，CoV：20.3%）相比，ScarNet 表现出较低的偏差（-0.63%）和变异系数（4.3%）。在带有噪声扰动的蒙特卡罗模拟中，ScarNet 实现了明显高于 MedSAM（0.048 ± 0.112，CoV = 233.3%）和 nnU-Net（0.615 ± 0.537，CoV = 28.7%）的瘢痕 Dice（0.892 ± 0.053，CoV = 5.9%）。结论：ScarNet 在准确分割 LGE 图像中的心肌和瘢痕边界方面优于 MedSAM 和 nnU-Net。该模型在不同的图像质量和瘢痕模式下表现出稳健的性能。</paragraph>
+
+##### **Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**
+2501.01367v1 by Nathaniel Dennler, Stefanos Nikolaidis, Maja Matarić
+
+People have a variety of preferences for how robots behave. To understand and
+reason about these preferences, robots aim to learn a reward function that
+describes how aligned robot behaviors are with a user's preferences. Good
+representations of a robot's behavior can significantly reduce the time and
+effort required for a user to teach the robot their preferences. Specifying
+these representations -- what "features" of the robot's behavior matter to
+users -- remains a difficult problem; Features learned from raw data lack
+semantic meaning and features learned from user data require users to engage in
+tedious labeling processes. Our key insight is that users tasked with
+customizing a robot are intrinsically motivated to produce labels through
+exploratory search; they explore behaviors that they find interesting and
+ignore behaviors that are irrelevant. To harness this novel data source of
+exploratory actions, we propose contrastive learning from exploratory actions
+(CLEA) to learn trajectory features that are aligned with features that users
+care about. We learned CLEA features from exploratory actions users performed
+in an open-ended signal design activity (N=25) with a Kuri robot, and evaluated
+CLEA features through a second user study with a different set of users (N=42).
+CLEA features outperformed self-supervised features when eliciting user
+preferences over four metrics: completeness, simplicity, minimality, and
+explainability.
+
+摘要：人們對於機器人的行為方式有各種偏好。為了理解和推論這些偏好，機器人旨在學習一個獎勵函數，說明機器人的行為與使用者的偏好有多麼一致。良好的機器人行為表示可以大幅減少使用者教導機器人其偏好所需的時間和精力。說明這些表示——機器人行為的哪些「特徵」對使用者來說很重要——仍然是一個困難的問題；從原始資料學習到的特徵缺乏語意意義，而從使用者資料學習到的特徵需要使用者參與繁瑣的標籤處理程序。我們的關鍵見解是，負責自訂機器人的使用者本質上會透過探索性搜尋產生標籤；他們會探索他們覺得有趣的行為，並忽略不相關的行為。為了利用這個探索性動作的新穎資料來源，我們提出從探索性動作中進行對比學習 (CLEA)，以學習與使用者關心的特徵一致的軌跡特徵。我們從使用者在與 Kuri 機器人的開放式訊號設計活動 (N=25) 中執行的探索性動作中學習了 CLEA 特徵，並透過第二個使用者研究對 CLEA 特徵進行評估，該研究使用了一組不同的使用者 (N=42)。在引出使用者偏好時，CLEA 特徵在四個指標上優於自監督特徵：完整性、簡潔性、最小性、可解釋性。
+
+##### **Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**
+2501.01311v1 by Bohang Sun, Pietro Liò
+
+In this study, we introduce the Multi-Head Explainer (MHEX), a versatile and
+modular framework that enhances both the explainability and accuracy of
+Convolutional Neural Networks (CNNs) and Transformer-based models. MHEX
+consists of three core components: an Attention Gate that dynamically
+highlights task-relevant features, Deep Supervision that guides early layers to
+capture fine-grained details pertinent to the target class, and an Equivalent
+Matrix that unifies refined local and global representations to generate
+comprehensive saliency maps. Our approach demonstrates superior compatibility,
+enabling effortless integration into existing residual networks like ResNet and
+Transformer architectures such as BERT with minimal modifications. Extensive
+experiments on benchmark datasets in medical imaging and text classification
+show that MHEX not only improves classification accuracy but also produces
+highly interpretable and detailed saliency scores.
+
+摘要：在這項研究中，我們引入了多頭解釋器 (MHEX)，一個多功能且模組化的架構，用於增強卷積神經網路 (CNN) 和 Transformer 為基礎的模型的可解釋性和準確性。MHEX 包含三個核心元件：一個動態突顯與任務相關特徵的注意力閘門、引導早期層捕捉與目標類別相關的細緻細節的深度監督，以及一個統一精緻的局部和全局表示以產生全面的顯著性圖的等效矩陣。我們的做法展現出優異的相容性，讓 ResNet 等現有的殘差網路和 BERT 等 Transformer 架構能夠輕鬆整合，而且修改幅度極小。在醫學影像和文字分類的基準資料集上進行的廣泛實驗顯示，MHEX 不僅能提升分類準確性，還能產生高度可解釋且詳細的顯著性分數。
+
+##### **Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**
+2501.02014v1 by Masahiro Matsumoto, Abu Saleh Musa Miah, Nobuyoshi Asai, Jungpil Shin
+
+Parkinson's disease (PD), the second most common neurodegenerative disorder,
+is characterized by dopaminergic neuron loss and the accumulation of abnormal
+synuclein. PD presents both motor and non-motor symptoms that progressively
+impair daily functioning. The severity of these symptoms is typically assessed
+using the MDS-UPDRS rating scale, which is subjective and dependent on the
+physician's experience. Additionally, PD shares symptoms with other
+neurodegenerative diseases, such as progressive supranuclear palsy (PSP) and
+multiple system atrophy (MSA), complicating accurate diagnosis. To address
+these diagnostic challenges, we propose a machine learning-based system for
+differential diagnosis of PD, PSP, MSA, and healthy controls (HC). This system
+utilizes a kinematic feature-based hierarchical feature extraction and
+selection approach. Initially, 18 kinematic features are extracted, including
+two newly proposed features: Thumb-to-index vector velocity and acceleration,
+which provide insights into motor control patterns. In addition, 41 statistical
+features were extracted here from each kinematic feature, including some new
+approaches such as Average Absolute Change, Rhythm, Amplitude, Frequency,
+Standard Deviation of Frequency, and Slope. Feature selection is performed
+using One-way ANOVA to rank features, followed by Sequential Forward Floating
+Selection (SFFS) to identify the most relevant ones, aiming to reduce the
+computational complexity. The final feature set is used for classification,
+achieving a classification accuracy of 66.67% for each dataset and 88.89% for
+each patient, with particularly high performance for the MSA and HC groups
+using the SVM algorithm. This system shows potential as a rapid and accurate
+diagnostic tool in clinical practice, though further data collection and
+refinement are needed to enhance its reliability.
+
+摘要：帕金森氏症（PD）是第二常见的脑神经退化性疾病，
+其特征是多巴胺能神经元丧失和异常α-突触核蛋白的积累。PD 同时出现运动和非运动症状，这些症状会逐渐损害日常功能。这些症状的严重程度通常使用 MDS-UPDRS 评定量表进行评估，该量表是主观的，并且依赖于医生的经验。此外，PD 与其他神经退化性疾病（例如进行性核上性麻痹 (PSP) 和多系统萎缩 (MSA)）有相同的症状，这使得准确诊断变得复杂。为了应对这些诊断挑战，我们提出了一种基于机器学习的系统，用于 PD、PSP、MSA 和健康对照 (HC) 的鉴别诊断。该系统利用基于运动学特征的分层特征提取和选择方法。最初，提取了 18 个运动学特征，包括两个新提出的特征：拇指到食指的矢量速度和加速度，它们提供了对运动控制模式的见解。此外，此处从每个运动学特征中提取了 41 个统计特征，包括一些新方法，例如平均绝对变化、节奏、振幅、频率、频率标准差和斜率。使用单向方差分析对特征进行排名，然后使用顺序前向浮动选择 (SFFS) 识别最相关的特征，以降低计算复杂度。最终特征集用于分类，对于每个数据集，分类准确率达到 66.67%，对于每个患者，准确率达到 88.89%，使用 SVM 算法时，MSA 和 HC 组的性能尤其高。该系统显示出作为临床实践中快速且准确的诊断工具的潜力，尽管需要进一步收集数据和改进以增强其可靠性。
+
+##### **Data Augmentation Techniques for Chinese Disease Name Normalization**
+2501.01195v1 by Wenqian Cui, Xiangling Fu, Shaohui Liu, Mingjun Gu, Xien Liu, Ji Wu, Irwin King
+
+Disease name normalization is an important task in the medical domain. It
+classifies disease names written in various formats into standardized names,
+serving as a fundamental component in smart healthcare systems for various
+disease-related functions. Nevertheless, the most significant obstacle to
+existing disease name normalization systems is the severe shortage of training
+data. Consequently, we present a novel data augmentation approach that includes
+a series of data augmentation techniques and some supporting modules to help
+mitigate the problem. Through extensive experimentation, we illustrate that our
+proposed approach exhibits significant performance improvements across various
+baseline models and training objectives, particularly in scenarios with limited
+training data
+
+摘要：疾病名稱正規化是醫學領域中一項重要的任務。它將以各種格式書寫的疾病名稱分類為標準化名稱，作為智慧醫療系統中各種疾病相關功能的基本組成部分。然而，現有疾病名稱正規化系統最顯著的障礙是訓練資料嚴重短缺。因此，我們提出了一種新穎的資料擴充方法，其中包括一系列資料擴充技術和一些輔助模組，以幫助減輕這個問題。透過廣泛的實驗，我們說明我們提出的方法在各種基線模型和訓練目標中展現出顯著的效能提升，特別是在訓練資料有限的情況下
+
+##### **Reasoning based on symbolic and parametric knowledge bases: a survey**
+2501.01030v1 by Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, Ke Sun, Tieyun Qian
+
+Reasoning is fundamental to human intelligence, and critical for
+problem-solving, decision-making, and critical thinking. Reasoning refers to
+drawing new conclusions based on existing knowledge, which can support various
+applications like clinical diagnosis, basic education, and financial analysis.
+Though a good number of surveys have been proposed for reviewing
+reasoning-related methods, none of them has systematically investigated these
+methods from the viewpoint of their dependent knowledge base. Both the
+scenarios to which the knowledge bases are applied and their storage formats
+are significantly different. Hence, investigating reasoning methods from the
+knowledge base perspective helps us better understand the challenges and future
+directions. To fill this gap, this paper first classifies the knowledge base
+into symbolic and parametric ones. The former explicitly stores information in
+human-readable symbols, and the latter implicitly encodes knowledge within
+parameters. Then, we provide a comprehensive overview of reasoning methods
+using symbolic knowledge bases, parametric knowledge bases, and both of them.
+Finally, we identify the future direction toward enhancing reasoning
+capabilities to bridge the gap between human and machine intelligence.
+
+摘要：推理是人类智能的基础，对于解决问题、决策和批判性思维至关重要。推理是指根据现有知识得出新的结论，这可以支持各种应用程序，如临床诊断、基础教育和财务分析。尽管已经提出了大量调查来审查与推理相关的各种方法，但没有一种方法从其依赖知识库的角度系统地研究这些方法。知识库被应用到的场景及其存储格式都有显着差异。因此，从知识库的角度研究推理方法有助于我们更好地理解挑战和未来的方向。为了填补这一空白，本文首先将知识库分为符号知识库和参数知识库。前者以人类可读的符号明确存储信息，而后者则在参数中隐式编码知识。然后，我们对使用符号知识库、参数知识库以及两者结合的推理方法进行了全面概述。最后，我们确定了增强推理能力以缩小人和机器智能之间差距的未来方向。
+
+##### **Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**
+2501.00982v1 by Federico Ravenda, Seyed Ali Bahrainian, Andrea Raballo, Antonietta Mira, Noriko Kando
+
+In psychological practice, standardized questionnaires serve as essential
+tools for assessing mental constructs (e.g., attitudes, traits, and emotions)
+through structured questions (aka items). With the increasing prevalence of
+social media platforms where users share personal experiences and emotions,
+researchers are exploring computational methods to leverage this data for rapid
+mental health screening. In this study, we propose a novel adaptive
+Retrieval-Augmented Generation (RAG) approach that completes psychological
+questionnaires by analyzing social media posts. Our method retrieves the most
+relevant user posts for each question in a psychological survey and uses Large
+Language Models (LLMs) to predict questionnaire scores in a zero-shot setting.
+Our findings are twofold. First we demonstrate that this approach can
+effectively predict users' responses to psychological questionnaires, such as
+the Beck Depression Inventory II (BDI-II), achieving performance comparable to
+or surpassing state-of-the-art models on Reddit-based benchmark datasets
+without relying on training data. Second, we show how this methodology can be
+generalized as a scalable screening tool, as the final assessment is
+systematically derived by completing standardized questionnaires and tracking
+how individual item responses contribute to the diagnosis, aligning with
+established psychometric practices.
+
+摘要：<paragraph>在心理學實務中，標準化問卷作為評量心理建構（例如態度、特質和情緒）的必要工具，透過結構化問題（又稱項目）來進行評量。隨著社群媒體平台的普及，使用者會在上面分享個人經驗和情緒，研究人員正在探討運算方法，以利用這些資料進行快速的的心理健康篩檢。在這項研究中，我們提出了一種創新的適應性擷取增強生成（RAG）方法，透過分析社群媒體貼文來完成心理問卷。我們的做法是針對心理調查中的每個問題，擷取與之最相關的使用者貼文，並使用大型語言模型（LLM）在零次學習的設定下預測問卷分數。我們的發現有兩方面。首先，我們證明了這種方法可以有效預測使用者對心理問卷的回答，例如貝克憂鬱量表第二版（BDI-II），在基於 Reddit 的基準資料集上達到了與最先進模型相當或超越的表現，而且並未依賴訓練資料。其次，我們展示了這個方法如何能被概括為一種可擴充的篩檢工具，因為最終評量是透過完成標準化問卷並追蹤個別項目回答如何促成診斷而系統性地得出的，這與既定的心理測量實務相符。</paragraph>
+
+##### **Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**
+2501.00954v1 by Sagarnil Das, Pradeep Walia
+
+Diabetic Retinopathy (DR) is a leading cause of preventable blindness. Early
+detection at the DR1 stage is critical but is hindered by a scarcity of
+high-quality fundus images. This study uses StyleGAN3 to generate synthetic DR1
+images characterized by microaneurysms with high fidelity and diversity. The
+aim is to address data scarcity and enhance the performance of supervised
+classifiers. A dataset of 2,602 DR1 images was used to train the model,
+followed by a comprehensive evaluation using quantitative metrics, including
+Frechet Inception Distance (FID), Kernel Inception Distance (KID), and
+Equivariance with respect to translation (EQ-T) and rotation (EQ-R).
+Qualitative assessments included Human Turing tests, where trained
+ophthalmologists evaluated the realism of synthetic images. Spectral analysis
+further validated image quality. The model achieved a final FID score of 17.29,
+outperforming the mean FID of 21.18 (95 percent confidence interval - 20.83 to
+21.56) derived from bootstrap resampling. Human Turing tests demonstrated the
+model's ability to produce highly realistic images, though minor artifacts near
+the borders were noted. These findings suggest that StyleGAN3-generated
+synthetic DR1 images hold significant promise for augmenting training datasets,
+enabling more accurate early detection of Diabetic Retinopathy. This
+methodology highlights the potential of synthetic data in advancing medical
+imaging and AI-driven diagnostics.
+
+摘要：糖尿病視網膜病變 (DR) 是可預防失明的主要原因。在 DR1 階段早期發現至關重要，但由於缺乏高品質眼底圖像而受到阻礙。本研究使用 StyleGAN3 生成合成 DR1 圖像，其特徵是具有高保真度和多樣性的微動脈瘤。目的是解決資料稀少的問題，並提升監督分類器的效能。使用 2,602 張 DR1 圖像的資料集來訓練模型，然後使用量化指標進行全面評估，包括 Fréchet Inception Distance (FID)、Kernel Inception Distance (KID) 以及相對於平移 (EQ-T) 和旋轉 (EQ-R) 的等變異性。定性評估包括人類圖靈測試，其中訓練有素的眼科醫生評估合成圖像的真實性。光譜分析進一步驗證了影像品質。該模型達到了 17.29 的最終 FID 分數，優於從 bootstrap 重抽樣得出的 21.18 的平均 FID（95% 信賴區間 - 20.83 到 21.56）。人類圖靈測試證明了該模型產生高度逼真圖像的能力，儘管注意到邊緣附近有輕微的人工製品。這些發現表明，StyleGAN3 生成的合成 DR1 圖像對於擴充訓練資料集具有顯著的希望，能夠更準確地早期發現糖尿病視網膜病變。這種方法突顯了合成資料在推進醫學影像和 AI 驅動診斷方面的潛力。
+
+##### **Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**
+2501.02000v1 by Yang Qi, Jiaxin Cai, Jing Lu, Runqing Xiong, Rongshang Chen, Liping Zheng, Duo Ma
+
+Prenatal ultrasound evaluates fetal growth and detects congenital
+abnormalities during pregnancy, but the examination of ultrasound images by
+radiologists requires expertise and sophisticated equipment, which would
+otherwise fail to improve the rate of identifying specific types of fetal
+central nervous system (CNS) abnormalities and result in unnecessary patient
+examinations. We construct a deep learning model to improve the overall
+accuracy of the diagnosis of fetal cranial anomalies to aid prenatal diagnosis.
+In our collected multi-center dataset of fetal craniocerebral anomalies
+covering four typical anomalies of the fetal central nervous system (CNS):
+anencephaly, encephalocele (including meningocele), holoprosencephaly, and
+rachischisis, patient-level prediction accuracy reaches 94.5%, with an AUROC
+value of 99.3%. In the subgroup analyzes, our model is applicable to the entire
+gestational period, with good identification of fetal anomaly types for any
+gestational period. Heatmaps superimposed on the ultrasound images not only
+provide a visual interpretation for the algorithm but also provide an intuitive
+visual aid to the physician by highlighting key areas that need to be reviewed,
+helping the physician to quickly identify and validate key areas. Finally, the
+retrospective reader study demonstrates that by combining the automatic
+prediction of the DL system with the professional judgment of the radiologist,
+the diagnostic accuracy and efficiency can be effectively improved and the
+misdiagnosis rate can be reduced, which has an important clinical application
+prospect.
+
+摘要：產前超音波評估胎兒生長並在懷孕期間偵測先天異常，但超音波影像的檢查需要放射科醫師的專業知識和精密儀器，否則無法改善特定類型胎兒中樞神經系統 (CNS) 異常的辨識率，並導致不必要的病人檢查。我們建構一個深度學習模型，以改善胎兒顱骨異常診斷的整體準確度，以協助產前診斷。在我們收集的多中心胎兒顱腦異常資料集中，涵蓋胎兒中樞神經系統 (CNS) 的四種典型異常：無腦症、腦膨出（包括腦膜膨出）、全前腦症和脊裂，病人層級的預測準確度達到 94.5%，AUROC 值為 99.3%。在子群分析中，我們的模型適用於整個妊娠期，且能良好辨識任何妊娠期的胎兒異常類型。疊加在超音波影像上的熱圖不僅提供演算法的視覺詮釋，也透過突顯需要檢視的關鍵區域，提供直覺的視覺輔助工具給醫師，協助醫師快速辨識和驗證關鍵區域。最後，回溯性閱讀研究顯示，結合 DL 系統的自動預測和放射科醫師的專業判斷，可以有效改善診斷準確度和效率，並降低誤診率，這具有重要的臨床應用前景。
+
+##### **Efficient Standardization of Clinical Notes using Large Language Models**
+2501.00644v1 by Daniel B. Hier, Michael D. Carrithers, Thanh Son Do, Tayo Obafemi-Ajayi
+
+Clinician notes are a rich source of patient information but often contain
+inconsistencies due to varied writing styles, colloquialisms, abbreviations,
+medical jargon, grammatical errors, and non-standard formatting. These
+inconsistencies hinder the extraction of meaningful data from electronic health
+records (EHRs), posing challenges for quality improvement, population health,
+precision medicine, decision support, and research.
+  We present a large language model approach to standardizing a corpus of 1,618
+clinical notes. Standardization corrected an average of $4.9 +/- 1.8$
+grammatical errors, $3.3 +/- 5.2$ spelling errors, converted $3.1 +/- 3.0$
+non-standard terms to standard terminology, and expanded $15.8 +/- 9.1$
+abbreviations and acronyms per note. Additionally, notes were re-organized into
+canonical sections with standardized headings. This process prepared notes for
+key concept extraction, mapping to medical ontologies, and conversion to
+interoperable data formats such as FHIR.
+  Expert review of randomly sampled notes found no significant data loss after
+standardization. This proof-of-concept study demonstrates that standardization
+of clinical notes can improve their readability, consistency, and usability,
+while also facilitating their conversion into interoperable data formats.
+
+摘要：臨床醫師的筆記是豐富的病人資訊來源，但常常因為書寫風格不同、慣用語、縮寫、醫學術語、文法錯誤和非標準格式而包含不一致的地方。這些不一致會阻礙從電子健康紀錄 (EHR) 中萃取有意義的資料，對品質改善、人口健康、精準醫療、決策支援和研究構成挑戰。
+我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
+對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
+
+##### **Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**
+2501.01462v1 by Lingrui Zhang, Haonan Wu, Nana Jin, Chenqing Zheng, Jize Xie, Qitai Cai, Jun Wang, Qin Cao, Xubin Zheng, Jiankun Wang, Lixin Cheng
+
+Host-response-based diagnostics can improve the accuracy of diagnosing
+bacterial and viral infections, thereby reducing inappropriate antibiotic
+prescriptions. However, the existing cohorts with limited sample size and
+coarse infections types are unable to support the exploration of an accurate
+and generalizable diagnostic model. Here, we curate the largest infection
+host-response transcriptome data, including 11,247 samples across 89 blood
+transcriptome datasets from 13 countries and 21 platforms. We build a
+diagnostic model for pathogen prediction starting from a pan-infection model as
+foundation (AUC = 0.97) based on the pan-infection dataset. Then, we utilize
+knowledge distillation to efficiently transfer the insights from this "teacher"
+model to four lightweight pathogen "student" models, i.e., staphylococcal
+infection (AUC = 0.99), streptococcal infection (AUC = 0.94), HIV infection
+(AUC = 0.93), and RSV infection (AUC = 0.94), as well as a sepsis "student"
+model (AUC = 0.99). The proposed knowledge distillation framework not only
+facilitates the diagnosis of pathogens using pan-infection data, but also
+enables an across-disease study from pan-infection to sepsis. Moreover, the
+framework enables high-degree lightweight design of diagnostic models, which is
+expected to be adaptively deployed in clinical settings.
+
+摘要：基於宿主反應的診斷可以提高細菌和病毒感染的診斷準確度，從而減少不適當的抗生素處方。然而，現有樣本量有限、感染類型粗糙的群組無法支持準確且可概化的診斷模型的探索。在此，我們整理了最大的感染宿主反應轉錄組數據，包括來自 13 個國家和 21 個平台的 89 個血液轉錄組數據集中的 11,247 個樣本。我們從泛感染模型開始建立一個用於病原體預測的診斷模型，作為基礎 (AUC = 0.97)，該模型基於泛感染數據集。然後，我們利用知識蒸餾有效地將這個「教師」模型中的見解轉移到四個輕量級病原體「學生」模型，即葡萄球菌感染 (AUC = 0.99)、鏈球菌感染 (AUC = 0.94)、HIV 感染 (AUC = 0.93) 和 RSV 感染 (AUC = 0.94)，以及一個敗血症「學生」模型 (AUC = 0.99)。所提出的知識蒸餾框架不僅促進了使用泛感染數據診斷病原體，還實現了從泛感染到敗血症的跨疾病研究。此外，該框架使診斷模型能夠進行高度輕量級設計，預計將適應性地部署在臨床環境中。
+
+##### **A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**
+2501.01991v1 by Lahcen El Fatimi, Elhoucine Elfatimi, Hanifa Bouchaneb
+
+Model checking, a formal verification technique, ensures systems meet
+predefined requirements, playing a crucial role in minimizing errors and
+enhancing quality during development. This paper introduces a novel hybrid
+framework integrating model checking with deep learning for brain tumor
+detection and validation in medical imaging. By combining model-checking
+principles with CNN-based feature extraction and K-FCM clustering for
+segmentation, the proposed approach enhances the reliability of tumor detection
+and segmentation. Experimental results highlight the framework's effectiveness,
+achieving 98\% accuracy, 96.15\% precision, and 100\% recall, demonstrating its
+potential as a robust tool for advanced medical image analysis.
+
+摘要：模型檢查是一種正式驗證技術，用於確保系統符合預先定義的要求，在開發過程中扮演著極其重要的角色，用於最小化錯誤並提升品質。這篇論文介紹了一個整合模型檢查與深度學習的創新混合框架，用於醫學影像中的腦瘤偵測與驗證。透過結合模型檢查原則與基於 CNN 的特徵萃取以及用於分割的 K-FCM 聚類，所提出的方法提升了腫瘤偵測與分割的可靠度。實驗結果突顯了這個框架的有效性，達到了 98% 的準確度、96.15% 的精確度，以及 100% 的召回率，顯示出其作為進階醫學影像分析的強健工具的潛力。
+
+##### **GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**
+2501.01458v1 by George Yuanji Wang, Srisharan Murugesan, Aditya Prince Rohatgi
+
+Identifying druggable genes is essential for developing effective
+pharmaceuticals. With the availability of extensive, high-quality data,
+computational methods have become a significant asset. Protein Interaction
+Network (PIN) is valuable but challenging to implement due to its high
+dimensionality and sparsity. Previous methods relied on indirect integration,
+leading to resolution loss. This study proposes GAN-TAT, a framework utilizing
+an advanced graph embedding technology, ImGAGN, to directly integrate PIN for
+druggable gene inference work. Tested on three Pharos datasets, GAN-TAT
+achieved the highest AUC-ROC score of 0.951 on Tclin. Further evaluation shows
+that GAN-TAT's predictions are supported by clinical evidence, highlighting its
+potential practical applications in pharmacogenomics. This research represents
+a methodological attempt with the direct utilization of PIN, expanding
+potential new solutions for developing drug targets. The source code of GAN-TAT
+is available at (https://github.com/george-yuanji-wang/GAN-TAT).
+
+摘要：識別可藥物化基因對於開發有效的藥物至關重要。隨著大量高品質數據的出現，計算方法已成為一項重要的資產。蛋白質交互網絡 (PIN) 很有價值，但由於其高維度和稀疏性，實作起來具有挑戰性。先前的辦法依賴於間接整合，導致解析度降低。本研究提出 GAN-TAT，一個利用先進圖形嵌入技術 ImGAGN 的架構，直接整合 PIN 以進行可藥物化基因推論工作。在三個 Pharos 資料集上進行測試，GAN-TAT 在 Tclin 上達到了最高的 AUC-ROC 分數 0.951。進一步的評估顯示，GAN-TAT 的預測獲得了臨床證據的支持，突顯了其在藥物基因組學中的潛在實際應用。本研究代表了一種直接利用 PIN 的方法論嘗試，擴展了開發藥物靶標的潛在新解決方案。GAN-TAT 的原始碼可在 (https://github.com/george-yuanji-wang/GAN-TAT) 取得。
+
+##### **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**
+2501.00320v2 by Haibo Tong, Enmeng Lu, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
+
+With the widespread application of Artificial Intelligence (AI) in human
+society, enabling AI to autonomously align with human values has become a
+pressing issue to ensure its sustainable development and benefit to humanity.
+One of the most important aspects of aligning with human values is the
+necessity for agents to autonomously make altruistic, safe, and ethical
+decisions, considering and caring for human well-being. Current AI extremely
+pursues absolute superiority in certain tasks, remaining indifferent to the
+surrounding environment and other agents, which has led to numerous safety
+risks. Altruistic behavior in human society originates from humans' capacity
+for empathizing others, known as Theory of Mind (ToM), combined with predictive
+imaginative interactions before taking action to produce thoughtful and
+altruistic behaviors. Inspired by this, we are committed to endow agents with
+considerate self-imagination and ToM capabilities, driving them through
+implicit intrinsic motivations to autonomously align with human altruistic
+values. By integrating ToM within the imaginative space, agents keep an eye on
+the well-being of other agents in real time, proactively anticipate potential
+risks to themselves and others, and make thoughtful altruistic decisions that
+balance negative effects on the environment. The ancient Chinese story of Sima
+Guang Smashes the Vat illustrates the moral behavior of the young Sima Guang
+smashed a vat to save a child who had accidentally fallen into it, which is an
+excellent reference scenario for this paper. We design an experimental scenario
+similar to Sima Guang Smashes the Vat and its variants with different
+complexities, which reflects the trade-offs and comprehensive considerations
+between self-goals, altruistic rescue, and avoiding negative side effects.
+
+摘要：隨著人工智慧（AI）在人類社會中的廣泛應用，讓 AI 自主與人類價值觀一致已成為確保其永續發展和造福人類的當務之急。與人類價值觀一致最重要的面向之一，在於代理人必須自主做出利他、安全、且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在特定任務中極力追求絕對優越性，對於周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自於人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性的想像互動，以產生周到且利他的行為。受到此啟發，我們致力於賦予代理人體貼的自我想像和 ToM 能力，透過隱含的內在動機驅使他們自主與人類利他價值觀一致。透過將 ToM 整合在想像空間中，代理人能即時關注其他代理人的福祉，主動預測對自身和他人潛在的風險，並做出周到且利他的決策，平衡對環境的負面影響。中國古代故事「司馬光砸缸」說明了年幼的司馬光為了救一個不小心掉進水缸中的孩子而砸破水缸的道德行為，是本文的絕佳參考情境。我們設計了一個與「司馬光砸缸」相似的實驗情境，以及具有不同複雜性的變體，反映了自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
+
+##### **A Fourfold Pathogen Reference Ontology Suite**
+2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
+
+Infectious diseases remain a critical global health challenge, and the
+integration of standardized ontologies plays a vital role in managing related
+data. The Infectious Disease Ontology (IDO) and its extensions, such as the
+Coronavirus Infectious Disease Ontology (CIDO), are essential for organizing
+and disseminating information related to infectious diseases. The COVID-19
+pandemic highlighted the need for updating IDO and its virus-specific
+extensions. There is an additional need to update IDO extensions specific to
+bacteria, fungus, and parasite infectious diseases. We adopt the "hub and
+spoke" methodology to generate pathogen-specific extensions of IDO: Virus
+Infectious Disease Ontology (VIDO), Bacteria Infectious Disease Ontology
+(BIDO), Mycosis Infectious Disease Ontology (MIDO), and Parasite Infectious
+Disease Ontology (PIDO). The creation of pathogen-specific reference ontologies
+advances modularization and reusability of infectious disease data within the
+IDO ecosystem. Future work will focus on further refining these ontologies,
+creating new extensions, and developing application ontologies based on them,
+in line with ongoing efforts to standardize biological and biomedical
+terminologies for improved data sharing and analysis.
+
+摘要：傳染病仍是一項全球性的健康挑戰，而標準化本體的整合在管理相關數據方面扮演著至關重要的角色。傳染病本體 (IDO) 及其擴充，例如冠狀病毒傳染病本體 (CIDO)，對於組織和傳播與傳染病相關的資訊至關重要。COVID-19 大流行凸顯了更新 IDO 及其特定於病毒的擴充的需求。此外，還有更新特定於細菌、真菌和寄生蟲傳染病的 IDO 擴充的需求。我們採用「樞紐輻條」方法來產生 IDO 的特定於病原體的擴充：病毒傳染病本體 (VIDO)、細菌傳染病本體 (BIDO)、真菌病傳染病本體 (MIDO) 和寄生蟲傳染病本體 (PIDO)。特定於病原體的參考本體的建立，促进了 IDO 生態系統內傳染病數據的模組化和可重複使用性。未來的研究工作將重點放在進一步完善這些本體、建立新的擴充，以及根據這些本體開發應用本體，這與標準化生物和生物醫學術語以改善數據共享和分析的持續努力相一致。
+
+##### **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**
+2501.00223v1 by Michael Gubanov, Anna Pyayt, Aleksandra Karolak
+
+Here, we describe one of the first Web-scale hybrid Knowledge Graph
+(KG)-Large Language Model (LLM), populated with the latest peer-reviewed
+medical knowledge on colorectal Cancer. It is currently being evaluated to
+assist with both medical research and clinical information retrieval tasks at
+Moffitt Cancer Center, which is one of the top Cancer centers in the U.S. and
+in the world. Our hybrid is remarkable as it serves the user needs better than
+just an LLM, KG or a search-engine in isolation. LLMs as is are known to
+exhibit hallucinations and catastrophic forgetting as well as are trained on
+outdated corpora. The state of the art KGs, such as PrimeKG, cBioPortal,
+ChEMBL, NCBI, and other require manual curation, hence are quickly getting
+stale. CancerKG is unsupervised and is capable of automatically ingesting and
+organizing the latest medical findings. To alleviate the LLMs shortcomings, the
+verified KG serves as a Retrieval Augmented Generation (RAG) guardrail.
+CancerKG exhibits 5 different advanced user interfaces, each tailored to serve
+different data modalities better and more convenient for the user.
+
+摘要：在此，我们描述了第一个 Web 级混合知识图谱 (KG) - 大型语言模型 (LLM)，其中充斥着有关结直肠癌的最新同行评审医学知识。目前正在评估它以协助 Moffitt 癌症中心进行医学研究和临床信息检索任务，该中心是美国和世界顶级癌症中心之一。我们的混合体非常出色，因为它比孤立的 LLM、KG 或搜索引擎更好地满足用户需求。众所周知，LLM 会出现幻觉和灾难性遗忘，并且是在过时的语料库上进行训练的。最先进的 KG，例如 PrimeKG、cBioPortal、ChEMBL、NCBI 等需要人工整理，因此很快就会过时。CancerKG 无需监督，能够自动摄取和组织最新的医学发现。为了减轻 LLM 的缺点，经过验证的 KG 充当检索增强生成 (RAG) 护栏。CancerKG 展示了 5 种不同的高级用户界面，每种界面都针对服务不同的数据模式，为用户提供更好、更方便的服务。
+
+##### **An Empirical Evaluation of Large Language Models on Consumer Health Questions**
+2501.00208v1 by Moaiz Abrar, Yusuf Sermet, Ibrahim Demir
+
+This study evaluates the performance of several Large Language Models (LLMs)
+on MedRedQA, a dataset of consumer-based medical questions and answers by
+verified experts extracted from the AskDocs subreddit. While LLMs have shown
+proficiency in clinical question answering (QA) benchmarks, their effectiveness
+on real-world, consumer-based, medical questions remains less understood.
+MedRedQA presents unique challenges, such as informal language and the need for
+precise responses suited to non-specialist queries. To assess model
+performance, responses were generated using five LLMs: GPT-4o mini, Llama 3.1:
+70B, Mistral-123B, Mistral-7B, and Gemini-Flash. A cross-evaluation method was
+used, where each model evaluated its responses as well as those of others to
+minimize bias. The results indicated that GPT-4o mini achieved the highest
+alignment with expert responses according to four out of the five models'
+judges, while Mistral-7B scored lowest according to three out of five models'
+judges. This study highlights the potential and limitations of current LLMs for
+consumer health medical question answering, indicating avenues for further
+development.
+
+摘要：本研究評估了大型語言模型 (LLM) 在 MedRedQA 上的效能，MedRedQA 是一組消費者醫療問題與答案的資料集，由 AskDocs 子版塊中經過驗證的專家所提出。儘管 LLM 已在臨床問題解答 (QA) 基準中展現出專業知識，但它們在現實世界、消費者為基礎的醫療問題上的有效性仍較不明確。MedRedQA 提出獨特的挑戰，例如非正式語言和對非專家查詢提供精確回應的需求。為了評估模型效能，使用五個 LLM 生成了回應：GPT-4o mini、Llama 3.1：70B、Mistral-123B、Mistral-7B 和 Gemini-Flash。使用了交叉評估方法，其中每個模型評估自己的回應以及其他模型的回應，以最小化偏差。結果顯示，根據五個模型中的四個模型評審，GPT-4o mini 與專家回應的一致性最高，而根據五個模型中的三個模型評審，Mistral-7B 的分數最低。本研究強調了目前 LLM 在消費者健康醫療問題解答方面的潛力和限制，並指出進一步發展的途徑。
+
+##### **GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**
+2501.00199v1 by Giuliano Lorenzoni, Pedro Elkind Velmovitsky, Paulo Alencar, Donald Cowan
+
+Depression has impacted millions of people worldwide and has become one of
+the most prevalent mental disorders. Early mental disorder detection can lead
+to cost savings for public health agencies and avoid the onset of other major
+comorbidities. Additionally, the shortage of specialized personnel is a
+critical issue because clinical depression diagnosis is highly dependent on
+expert professionals and is time consuming.
+  In this study, we explore the use of GPT-4 for clinical depression assessment
+based on transcript analysis. We examine the model's ability to classify
+patient interviews into binary categories: depressed and not depressed. A
+comparative analysis is conducted considering prompt complexity (e.g., using
+both simple and complex prompts) as well as varied temperature settings to
+assess the impact of prompt complexity and randomness on the model's
+performance.
+  Results indicate that GPT-4 exhibits considerable variability in accuracy and
+F1-Score across configurations, with optimal performance observed at lower
+temperature values (0.0-0.2) for complex prompts. However, beyond a certain
+threshold (temperature >= 0.3), the relationship between randomness and
+performance becomes unpredictable, diminishing the gains from prompt
+complexity.
+  These findings suggest that, while GPT-4 shows promise for clinical
+assessment, the configuration of the prompts and model parameters requires
+careful calibration to ensure consistent results. This preliminary study
+contributes to understanding the dynamics between prompt engineering and large
+language models, offering insights for future development of AI-powered tools
+in clinical settings.
+
+摘要：憂鬱症影響全球數百萬人，已成為最普遍的精神疾病之一。提早偵測精神疾病，能為公共衛生機構節省成本，並避免其他主要共病的發生。此外，專業人員短缺是一個關鍵問題，因為臨床憂鬱症的診斷高度依賴於專業人員，且耗時費力。
+在這個研究中，我們探討使用 GPT-4 進行臨床憂鬱症評估，基礎是謄本分析。我們檢視模型將病人訪談分類為二元類別（憂鬱症和非憂鬱症）的能力。我們進行比較分析，考量提示複雜度（例如，同時使用簡單和複雜的提示），以及各種溫度設定，以評估提示複雜度和隨機性對模型效能的影響。
+結果顯示，GPT-4 在各組態中的準確度和 F1 分數變化很大，在複雜提示的較低溫度值（0.0-0.2）下觀察到最佳效能。然而，超過某個閾值（溫度 >= 0.3）後，隨機性和效能之間的關係變得難以預測，降低了提示複雜度帶來的收益。
+這些發現表明，雖然 GPT-4 在臨床評估方面顯示出前景，但提示和模型參數的組態需要仔細校準，以確保結果的一致性。這項初步研究有助於了解提示工程和大型語言模型之間的動態，為未來在臨床環境中開發 AI 驅動工具提供見解。
+
+##### **SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**
+2501.00190v1 by Changchang Yin, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
+
+Sepsis is an organ dysfunction caused by a deregulated immune response to an
+infection. Early sepsis prediction and identification allow for timely
+intervention, leading to improved clinical outcomes. Clinical calculators
+(e.g., the six-organ dysfunction assessment of SOFA) play a vital role in
+sepsis identification within clinicians' workflow, providing evidence-based
+risk assessments essential for sepsis diagnosis. However, artificial
+intelligence (AI) sepsis prediction models typically generate a single sepsis
+risk score without incorporating clinical calculators for assessing organ
+dysfunctions, making the models less convincing and transparent to clinicians.
+To bridge the gap, we propose to mimic clinicians' workflow with a novel
+framework SepsisCalc to integrate clinical calculators into the predictive
+model, yielding a clinically transparent and precise model for utilization in
+clinical settings. Practically, clinical calculators usually combine
+information from multiple component variables in Electronic Health Records
+(EHR), and might not be applicable when the variables are (partially) missing.
+We mitigate this issue by representing EHRs as temporal graphs and integrating
+a learning module to dynamically add the accurately estimated calculator to the
+graphs. Experimental results on real-world datasets show that the proposed
+model outperforms state-of-the-art methods on sepsis prediction tasks.
+Moreover, we developed a system to identify organ dysfunctions and potential
+sepsis risks, providing a human-AI interaction tool for deployment, which can
+help clinicians understand the prediction outputs and prepare timely
+interventions for the corresponding dysfunctions, paving the way for actionable
+clinical decision-making support for early intervention.
+
+摘要：敗血症是由失調的免疫反應對感染引起的器官功能障礙。敗血症的早期預測和識別允許及時介入，從而改善臨床結果。臨床計算器（例如 SOFA 的六器官功能障礙評估）在臨床醫生工作流程中對敗血症識別發揮著至關重要的作用，提供了敗血症診斷必不可少的基於證據的風險評估。然而，人工智能 (AI) 敗血症預測模型通常會產生單一的敗血症風險評分，而不會納入臨床計算器來評估器官功能障礙，這使得這些模型對臨床醫生來說不太令人信服且不透明。為了彌合這一差距，我們建議模擬臨床醫生的工作流程，使用一個新的框架 SepsisCalc 將臨床計算器整合到預測模型中，從而產生一個在臨床環境中使用的臨床透明且精確的模型。實際上，臨床計算器通常會結合電子健康記錄 (EHR) 中多個組成變量的資訊，並且在變量（部分）缺失時可能不適用。我們通過將 EHR 表示為時間圖並整合一個學習模組來動態地將準確估計的計算器新增到圖形中，從而緩解了這個問題。在真實世界資料集上的實驗結果表明，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供了一個可供部署的人機互動工具，這可以幫助臨床醫生瞭解預測輸出並為相應的功能障礙準備及時的干預措施，為早期干預的行動臨床決策支援鋪平道路。
+
+##### **DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**
+2501.00169v1 by Nick Papoulias
+
+Deep Learning experiments have critical requirements regarding the careful
+handling of their datasets as well as the efficient and correct usage of APIs
+that interact with hardware accelerators. On the one hand, software mistakes
+during data handling can contaminate experiments and lead to incorrect results.
+On the other hand, poorly coded APIs that interact with the hardware can lead
+to sub-optimal usage and untrustworthy conclusions. In this work we investigate
+the use of Linear Logic for the analysis of Deep Learning experiments. We show
+that primitives and operators of Linear Logic can be used to express: (i) an
+abstract representation of the control flow of an experiment, (ii) a set of
+available experimental resources, such as API calls to the underlying
+data-structures and hardware as well as (iii) reasoning rules about the correct
+consumption of resources during experiments. Our proposed model is not only
+lightweight but also easy to comprehend having both a symbolic and a visual
+component. Finally, its artifacts are themselves proofs in Linear Logic that
+can be readily verified by off-the-shelf reasoners.
+
+摘要：深度學習實驗對於資料集的仔細處理以及與硬體加速器互動的 API 的有效且正確使用具有重要的要求。一方面，資料處理過程中的軟體錯誤可能會污染實驗並導致不正確的結果。另一方面，與硬體互動的編碼不良的 API 可能導致次佳使用和不可靠的結論。在這項工作中，我們探討了使用線性邏輯來分析深度學習實驗。我們展示了線性邏輯的基本原理和運算符可用於表達：(i) 實驗控制流程的抽象表示，(ii) 一組可用的實驗資源，例如對底層資料結構和硬體的 API 呼叫以及 (iii) 關於在實驗期間正確消耗資源的推理規則。我們提出的模型不僅輕量級，而且易於理解，既有符號組成，也有視覺組成。最後，其工件本身就是線性邏輯中的證明，可以使用現成的推理器輕鬆驗證。
+
+##### **Temporal reasoning for timeline summarisation in social media**
+2501.00152v1 by Jiayu Song, Mahmud Akhter, Dana Atzil Slonim, Maria Liakata
+
+This paper explores whether enhancing temporal reasoning capabilities in
+Large Language Models (LLMs) can improve the quality of timeline summarization,
+the task of summarising long texts containing sequences of events, particularly
+social media threads . We introduce \textit{NarrativeReason}, a novel dataset
+focused on temporal relationships among sequential events within narratives,
+distinguishing it from existing temporal reasoning datasets that primarily
+address pair-wise event relationships. Our approach then combines temporal
+reasoning with timeline summarization through a knowledge distillation
+framework, where we first fine-tune a teacher model on temporal reasoning tasks
+and then distill this knowledge into a student model while simultaneously
+training it for the task of timeline summarization. Experimental results
+demonstrate that our model achieves superior performance on mental
+health-related timeline summarization tasks, which involve long social media
+threads with repetitions of events and a mix of emotions, highlighting the
+importance of leveraging temporal reasoning to improve timeline summarisation.
+
+摘要：這篇論文探討增強大型語言模型 (LLM) 中的時間推理能力是否能提升時間軸摘要的品質，時間軸摘要是針對包含事件順序的長篇文字進行摘要的任務，尤其是社群媒體串。我們引進了\textit{NarrativeReason}，這個新穎的資料集專注於敘述中順序事件之間的時間關係，並將其與現有的時間推理資料集區分開來，後者主要處理成對的事件關係。我們的做法接著透過知識萃取架構將時間推理與時間軸摘要結合，我們首先針對時間推理任務微調一個教師模型，然後將此知識萃取到一個學生模型中，同時訓練它進行時間軸摘要的任務。實驗結果顯示我們的模型在與心理健康相關的時間軸摘要任務中獲得了卓越的表現，這涉及到包含重複事件和各種情緒的長篇社群媒體串，強調了利用時間推理來提升時間軸摘要的重要性。
+
+##### **A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**
+2501.00129v1 by Julia Ive, Paulina Bondaronek, Vishal Yadav, Daniel Santel, Tracy Glauser, Tina Cheng, Jeffrey R. Strawn, Greeshma Agasthya, Jordan Tschida, Sanghyun Choo, Mayanka Chandrashekar, Anuj J. Kapadia, John Pestian
+
+Introduction: Healthcare AI models often inherit biases from their training
+data. While efforts have primarily targeted bias in structured data, mental
+health heavily depends on unstructured data. This study aims to detect and
+mitigate linguistic differences related to non-biological differences in the
+training data of AI models designed to assist in pediatric mental health
+screening. Our objectives are: (1) to assess the presence of bias by evaluating
+outcome parity across sex subgroups, (2) to identify bias sources through
+textual distribution analysis, and (3) to develop a de-biasing method for
+mental health text data. Methods: We examined classification parity across
+demographic groups and assessed how gendered language influences model
+predictions. A data-centric de-biasing method was applied, focusing on
+neutralizing biased terms while retaining salient clinical information. This
+methodology was tested on a model for automatic anxiety detection in pediatric
+patients. Results: Our findings revealed a systematic under-diagnosis of female
+adolescent patients, with a 4% lower accuracy and a 9% higher False Negative
+Rate (FNR) compared to male patients, likely due to disparities in information
+density and linguistic differences in patient notes. Notes for male patients
+were on average 500 words longer, and linguistic similarity metrics indicated
+distinct word distributions between genders. Implementing our de-biasing
+approach reduced diagnostic bias by up to 27%, demonstrating its effectiveness
+in enhancing equity across demographic groups. Discussion: We developed a
+data-centric de-biasing framework to address gender-based content disparities
+within clinical text. By neutralizing biased language and enhancing focus on
+clinically essential information, our approach demonstrates an effective
+strategy for mitigating bias in AI healthcare models trained on text.
+
+摘要：<paragraph>引言：醫療保健 AI 模型通常會從其訓練資料中繼承偏見。雖然努力主要針對結構化資料中的偏見，但心理健康在很大程度上依賴於非結構化資料。本研究旨在檢測並減輕與設計用於協助兒童心理健康篩檢的 AI 模型訓練資料中的非生物差異相關的語言差異。我們的目標是：(1) 透過評估不同性別子群體的結果平價來評估偏見的存在，(2) 透過文本分佈分析來找出偏見來源，以及 (3) 開發一種心理健康文本資料的去偏見方法。方法：我們檢查了不同人口群體的分類平價，並評估了性別語言如何影響模型預測。應用了一種以資料為中心的去偏見方法，專注於在保留顯著臨床資訊的同時中和有偏見的術語。此方法在一個用於兒童患者自動焦慮檢測的模型上進行了測試。結果：我們的研究結果揭示了對女性青少年患者的系統性診斷不足，與男性患者相比，準確率低了 4%，假陰性率 (FNR) 高了 9%，這可能是由於患者備註中資訊密度和語言差異的差異。男性患者的備註平均長 500 個字，語言相似性指標顯示不同性別之間的字詞分佈截然不同。實施我們的去偏見方法將診斷偏見降低了 27%，證明了其在提升不同人口群體之間公平性的有效性。討論：我們開發了一個以資料為中心的去偏見架構，用於解決臨床文本中的基於性別的內容差異。透過中和有偏見的語言和加強對臨床必要資訊的關注，我們的做法展示了一種有效策略，用於減輕在文本上訓練的 AI 醫療保健模型中的偏見。</paragraph>
+
+##### **Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**
+2501.01984v1 by Atharva Divekar, Atharva Sonawane
+
+The AUTO-PCOS Classification Challenge seeks to advance the diagnostic
+capabilities of artificial intelligence (AI) in identifying Polycystic Ovary
+Syndrome (PCOS) through automated classification of healthy and unhealthy
+ultrasound frames. This report outlines our methodology for building a robust
+AI pipeline utilizing transfer learning with the InceptionV3 architecture to
+achieve high accuracy in binary classification. Preprocessing steps ensured the
+dataset was optimized for training, validation, and testing, while
+interpretability methods like LIME and saliency maps provided valuable insights
+into the model's decision-making. Our approach achieved an accuracy of 90.52%,
+with precision, recall, and F1-score metrics exceeding 90% on validation data,
+demonstrating its efficacy. The project underscores the transformative
+potential of AI in healthcare, particularly in addressing diagnostic challenges
+like PCOS. Key findings, challenges, and recommendations for future
+enhancements are discussed, highlighting the pathway for creating reliable,
+interpretable, and scalable AI-driven medical diagnostic tools.
+
+摘要：AUTO-PCOS 分類挑戰旨在透過自動分類健康和不健康的超音波影像，提升人工智慧 (AI) 在辨識多囊性卵巢症候群 (PCOS) 的診斷能力。這份報告概述了我們建構強健 AI 管線的方法，利用 InceptionV3 架構進行遷移學習，以在二元分類中達成高準確度。預處理步驟確保資料集已針對訓練、驗證和測試進行最佳化，而 LIME 和顯著性圖等可解釋性方法則提供了有價值的見解，說明模型的決策制定。我們的做法在驗證資料上達到了 90.52% 的準確度，精確度、召回率和 F1 分數都超過 90%，證明了它的效力。這個專案強調了 AI 在醫療保健中的轉型潛力，特別是在解決 PCOS 等診斷挑戰方面。討論了關鍵發現、挑戰和未來增強建議，突顯了建立可靠、可解釋且可擴充的 AI 驅動醫療診斷工具的途徑。
+
+##### **Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**
+2412.20744v1 by Abhinav Roy, Bhavesh Gyanchandani, Aditya Oza, Abhishek Sharma
+
+Parkinson's Disease (PD) is a degenerative neurological disorder that impairs
+motor and non-motor functions, significantly reducing quality of life and
+increasing mortality risk. Early and accurate detection of PD progression is
+vital for effective management and improved patient outcomes. Current
+diagnostic methods, however, are often costly, time-consuming, and require
+specialized equipment and expertise. This work proposes an innovative approach
+to predicting PD progression using regression methods, Long Short-Term Memory
+(LSTM) networks, and Kolmogorov Arnold Networks (KAN). KAN, utilizing
+spline-parametrized univariate functions, allows for dynamic learning of
+activation patterns, unlike traditional linear models.
+  The Movement Disorder Society-Sponsored Revision of the Unified Parkinson's
+Disease Rating Scale (MDS-UPDRS) is a comprehensive tool for evaluating PD
+symptoms and is commonly used to measure disease progression. Additionally,
+protein or peptide abnormalities are linked to PD onset and progression.
+Identifying these associations can aid in predicting disease progression and
+understanding molecular changes.
+  Comparing multiple models, including LSTM and KAN, this study aims to
+identify the method that delivers the highest metrics. The analysis reveals
+that KAN, with its dynamic learning capabilities, outperforms other approaches
+in predicting PD progression. This research highlights the potential of AI and
+machine learning in healthcare, paving the way for advanced computational
+models to enhance clinical predictions and improve patient care and treatment
+strategies in PD management.
+
+摘要：帕金森氏症 (PD) 是一種神經退化性疾病，會損害運動和非運動功能，嚴重降低生活品質並增加死亡風險。早期且準確檢測 PD 進程對於有效管理和改善患者預後至關重要。然而，目前的診斷方法通常成本高昂、耗時且需要專業設備和專業知識。這項研究提出了一種創新的方法，使用迴歸方法、長短期記憶 (LSTM) 網路和 Kolmogorov Arnold 網路 (KAN) 來預測 PD 進程。KAN 利用樣條參數化的單變量函數，可以動態學習激活模式，這與傳統線性模型不同。運動障礙協會贊助的統一帕金森氏症評分量表 (MDS-UPDRS) 是評估 PD 症狀的綜合工具，通常用於測量疾病進程。此外，蛋白質或胜肽異常與 PD 發作和進程有關。找出這些關聯可以幫助預測疾病進程並了解分子變化。這項研究比較了包括 LSTM 和 KAN 在內的多種模型，旨在找出提供最高指標的方法。分析顯示，具有動態學習能力的 KAN 在預測 PD 進程方面優於其他方法。這項研究突顯了 AI 和機器學習在醫療保健中的潛力，為先進的計算模型鋪路，以增強臨床預測並改善 PD 管理中的患者照護和治療策略。
+
+##### **Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**
+2412.20651v1 by Yousef Yeganeh, Ioannis Charisiadis, Marta Hasny, Martin Hartenberger, Björn Ommer, Nassir Navab, Azade Farshad, Ehsan Adeli
+
+Scaling by training on large datasets has been shown to enhance the quality
+and fidelity of image generation and manipulation with diffusion models;
+however, such large datasets are not always accessible in medical imaging due
+to cost and privacy issues, which contradicts one of the main applications of
+such models to produce synthetic samples where real data is scarce. Also,
+finetuning on pre-trained general models has been a challenge due to the
+distribution shift between the medical domain and the pre-trained models. Here,
+we propose Latent Drift (LD) for diffusion models that can be adopted for any
+fine-tuning method to mitigate the issues faced by the distribution shift or
+employed in inference time as a condition. Latent Drifting enables diffusion
+models to be conditioned for medical images fitted for the complex task of
+counterfactual image generation, which is crucial to investigate how parameters
+such as gender, age, and adding or removing diseases in a patient would alter
+the medical images. We evaluate our method on three public longitudinal
+benchmark datasets of brain MRI and chest X-rays for counterfactual image
+generation. Our results demonstrate significant performance gains in various
+scenarios when combined with different fine-tuning schemes. The source code of
+this work will be publicly released upon its acceptance.
+
+摘要：<paragraph>透過訓練大型資料集來調整比例，已被證明可以提升擴散模型影像產生與操作的品質和保真度；然而，由於成本和隱私問題，在醫學影像中並不總是能取得這麼大型的資料集，這與這些模型的主要應用之一相矛盾，也就是在真實資料稀少的情況下產生合成樣本。此外，由於醫學領域與預訓練模型之間的分布轉移，對預訓練的通用模型進行微調一直是一項挑戰。在此，我們提出擴散模型的潛在漂移 (LD)，可以採用任何微調方法來減輕分布轉移所面臨的問題，或在推理時間作為條件使用。潛在漂移使擴散模型能夠針對適合於反事實影像產生複雜任務的醫學影像進行調整，這對於探討諸如性別、年齡以及在患者中增加或移除疾病等參數將如何改變醫學影像至關重要。我們在三個大腦 MRI 和胸部 X 光的公開縱向基準資料集上評估了我們的方法，以進行反事實影像產生。我們的結果表明，與不同的微調方案結合使用時，在各種情況下都能顯著提升效能。這項工作的原始碼將在獲得接受後公開發布。</paragraph>
+
+##### **HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**
+2412.20622v1 by Ashish Seth, Dinesh Manocha, Chirag Agarwal
+
+Large Vision-Language Models (LVLMs) have demonstrated remarkable performance
+in performing complex multimodal tasks. However, they are still plagued by
+object hallucination: the misidentification or misclassification of objects
+present in images. To this end, we propose HALLUCINOGEN, a novel visual
+question answering (VQA) object hallucination attack benchmark that utilizes
+diverse contextual reasoning prompts to evaluate object hallucination in
+state-of-the-art LVLMs. We design a series of contextual reasoning
+hallucination prompts to evaluate LVLMs' ability to accurately identify objects
+in a target image while asking them to perform diverse visual-language tasks
+such as identifying, locating or performing visual reasoning around specific
+objects. Further, we extend our benchmark to high-stakes medical applications
+and introduce MED-HALLUCINOGEN, hallucination attacks tailored to the
+biomedical domain, and evaluate the hallucination performance of LVLMs on
+medical images, a critical area where precision is crucial. Finally, we conduct
+extensive evaluations of eight LVLMs and two hallucination mitigation
+strategies across multiple datasets to show that current generic and medical
+LVLMs remain susceptible to hallucination attacks.
+
+摘要：大型視覺語言模型 (LVLMs) 在執行複雜的多模態任務方面表現出色。然而，它們仍然受到物體幻覺的困擾：錯誤識別或錯誤分類圖像中存在的物體。為此，我們提出了 HALLUCINOGEN，這是一個新穎的視覺問答 (VQA) 物體幻覺攻擊基準，它利用多樣化的上下文推理提示來評估最先進的 LVLMs 中的物體幻覺。我們設計了一系列上下文推理幻覺提示，以評估 LVLMs 在要求它們執行多樣化的視覺語言任務（例如識別、定位或對特定物體進行視覺推理）的同時準確識別目標圖像中物體的能力。此外，我們將基準擴展到高風險的醫學應用，並引入了專門針對生物醫學領域的幻覺攻擊 MED-HALLUCINOGEN，並評估了 LVLMs 在醫學圖像（一個精確至關重要的關鍵領域）上的幻覺表現。最後，我們對八個 LVLMs 和兩個幻覺緩解策略進行了廣泛的評估，跨多個數據集，以表明當前的通用和醫學 LVLMs 仍然容易受到幻覺攻擊。
+
+##### **Dive into Time-Series Anomaly Detection: A Decade Review**
+2412.20512v1 by Paul Boniol, Qinghua Liu, Mingyi Huang, Themis Palpanas, John Paparrizos
+
+Recent advances in data collection technology, accompanied by the ever-rising
+volume and velocity of streaming data, underscore the vital need for time
+series analytics. In this regard, time-series anomaly detection has been an
+important activity, entailing various applications in fields such as cyber
+security, financial markets, law enforcement, and health care. While
+traditional literature on anomaly detection is centered on statistical
+measures, the increasing number of machine learning algorithms in recent years
+call for a structured, general characterization of the research methods for
+time-series anomaly detection. This survey groups and summarizes anomaly
+detection existing solutions under a process-centric taxonomy in the time
+series context. In addition to giving an original categorization of anomaly
+detection methods, we also perform a meta-analysis of the literature and
+outline general trends in time-series anomaly detection research.
+
+摘要：隨著資料收集技術的最新進展，以及串流資料的數量和速度持續上升，強調了時間序列分析的迫切需求。在這方面，時間序列異常偵測一直是一項重要的活動，包含網路安全、金融市場、執法和醫療保健等領域中的各種應用。雖然異常偵測的傳統文獻集中於統計測量，但近年來機器學習演算法的數量不斷增加，因此需要對時間序列異常偵測的研究方法進行結構化、通用的描述。這項調查在時間序列脈絡中，依據以流程為中心的分類法，對異常偵測現有解決方案進行分組和摘要。除了對異常偵測方法進行原始分類外，我們也對文獻進行元分析，並概述時間序列異常偵測研究的一般趨勢。
+
+##### **A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
+2412.20373v1 by Seungyeon Lee, Ruoqi Liu, Feixiong Cheng, Ping Zhang
+
+Drug repurposing identifies new therapeutic uses for existing drugs, reducing
+the time and costs compared to traditional de novo drug discovery. Most
+existing drug repurposing studies using real-world patient data often treat the
+entire population as homogeneous, ignoring the heterogeneity of treatment
+responses across patient subgroups. This approach may overlook promising drugs
+that benefit specific subgroups but lack notable treatment effects across the
+entire population, potentially limiting the number of repurposable candidates
+identified. To address this, we introduce STEDR, a novel drug repurposing
+framework that integrates subgroup analysis with treatment effect estimation.
+Our approach first identifies repurposing candidates by emulating multiple
+clinical trials on real-world patient data and then characterizes patient
+subgroups by learning subgroup-specific treatment effects. We deploy \model to
+Alzheimer's Disease (AD), a condition with few approved drugs and known
+heterogeneity in treatment responses. We emulate trials for over one thousand
+medications on a large-scale real-world database covering over 8 million
+patients, identifying 14 drug candidates with beneficial effects to AD in
+characterized subgroups. Experiments demonstrate STEDR's superior capability in
+identifying repurposing candidates compared to existing approaches.
+Additionally, our method can characterize clinically relevant patient subgroups
+associated with important AD-related risk factors, paving the way for precision
+drug repurposing.
+
+摘要：药物再利用为现有药物找出新的治疗用途，与传统的从头药物发现相比，减少了时间和成本。大多数使用真实世界患者数据的现有药物再利用研究通常将整个人群视为同质的，而忽略了不同患者亚组治疗反应的异质性。这种方法可能会忽视对特定亚组有益但整个群体缺乏显着治疗效果的有希望的药物，从而可能限制已识别的可再利用候选药物的数量。为了解决这个问题，我们引入了 STEDR，这是一个新颖的药物再利用框架，它将亚组分析与治疗效果估计相结合。我们的方法首先通过模拟真实世界患者数据的多个临床试验来识别再利用候选药物，然后通过学习亚组特异性治疗效果来表征患者亚组。我们部署\model到阿尔茨海默病 (AD)，这是一种已获批药物较少且治疗反应已知异质性的疾病。我们在一个覆盖超过 800 万患者的大规模真实世界数据库上模拟了超过一千种药物的试验，确定了 14 种在表征的亚组中对 AD 有益的候选药物。实验表明，与现有方法相比，STEDR 在识别再利用候选药物方面具有更强的能力。此外，我们的方法可以表征与重要的 AD 相关危险因素相关的临床相关患者亚组，为精准药物再利用铺平道路。
+
+##### **Transforming CCTV cameras into NO$_2$ sensors at city scale for adaptive policymaking**
+2501.00056v1 by Mohamed R. Ibrahim, Terry Lyons
+
+Air pollution in cities, especially NO\textsubscript{2}, is linked to
+numerous health problems, ranging from mortality to mental health challenges
+and attention deficits in children. While cities globally have initiated
+policies to curtail emissions, real-time monitoring remains challenging due to
+limited environmental sensors and their inconsistent distribution. This gap
+hinders the creation of adaptive urban policies that respond to the sequence of
+events and daily activities affecting pollution in cities. Here, we demonstrate
+how city CCTV cameras can act as a pseudo-NO\textsubscript{2} sensors. Using a
+predictive graph deep model, we utilised traffic flow from London's cameras in
+addition to environmental and spatial factors, generating NO\textsubscript{2}
+predictions from over 133 million frames. Our analysis of London's mobility
+patterns unveiled critical spatiotemporal connections, showing how specific
+traffic patterns affect NO\textsubscript{2} levels, sometimes with temporal
+lags of up to 6 hours. For instance, if trucks only drive at night, their
+effects on NO\textsubscript{2} levels are most likely to be seen in the morning
+when people commute. These findings cast doubt on the efficacy of some of the
+urban policies currently being implemented to reduce pollution. By leveraging
+existing camera infrastructure and our introduced methods, city planners and
+policymakers could cost-effectively monitor and mitigate the impact of
+NO\textsubscript{2} and other pollutants.
+
+摘要：城市中的空氣污染，特別是二氧化氮，與許多健康問題有關，從死亡率到兒童的精神健康挑戰和注意力缺陷。儘管全球城市已啟動政策來減少排放，但由於環境感測器有限且分佈不均，實時監測仍然具有挑戰性。這個差距阻礙了適應性城市政策的制定，這些政策對影響城市污染的事件順序和日常活動做出回應。在此，我們展示了城市閉路電視攝影機如何充當偽二氧化氮感測器。使用預測圖深度模型，我們利用了倫敦攝影機的交通流量以及環境和空間因素，從超過 1.33 億個畫面中生成了二氧化氮預測。我們對倫敦流動模式的分析揭示了關鍵的時空連接，展示了具體的交通模式如何影響二氧化氮水平，有時時間滯後長達 6 小時。例如，如果卡車只在晚上行駛，它們對二氧化氮水平的影響最有可能在人們通勤的早上顯現。這些發現對目前實施的一些旨在減少污染的城市政策的有效性提出了質疑。通過利用現有的攝影機基礎設施和我們引入的方法，城市規劃者和政策制定者可以經濟有效地監控和減輕二氧化氮和其他污染物的影響。
+
+##### **On the Compositional Generalization of Multimodal LLMs for Medical Imaging**
+2412.20070v1 by Zhenyang Cai, Junying Chen, Rongsheng Wang, Weihong Wang, Yonglin Deng, Dingjie Song, Yize Chen, Zixu Zhang, Benyou Wang
+
+Multimodal large language models (MLLMs) hold significant potential in the
+medical field, but their capabilities are often limited by insufficient data in
+certain medical domains, highlighting the need for understanding what kinds of
+images can be used by MLLMs for generalization. Current research suggests that
+multi-task training outperforms single-task as different tasks can benefit each
+other, but they often overlook the internal relationships within these tasks,
+providing limited guidance on selecting datasets to enhance specific tasks. To
+analyze this phenomenon, we attempted to employ compositional generalization
+(CG)-the ability of models to understand novel combinations by recombining
+learned elements-as a guiding framework. Since medical images can be precisely
+defined by Modality, Anatomical area, and Task, naturally providing an
+environment for exploring CG. Therefore, we assembled 106 medical datasets to
+create Med-MAT for comprehensive experiments. The experiments confirmed that
+MLLMs can use CG to understand unseen medical images and identified CG as one
+of the main drivers of the generalization observed in multi-task training.
+Additionally, further studies demonstrated that CG effectively supports
+datasets with limited data and delivers consistent performance across different
+backbones, highlighting its versatility and broad applicability. Med-MAT is
+publicly available at https://github.com/FreedomIntelligence/Med-MAT.
+
+摘要：多模态大型语言模型 (MLLM) 在医疗领域拥有巨大潜力，但其能力往往受到特定医疗领域数据不足的限制，这突出了理解 MLLM 可用于泛化的图像类型的必要性。当前的研究表明，多任务训练优于单任务训练，因为不同的任务可以相互受益，但它们常常忽略这些任务中的内部关系，在选择数据集以增强特定任务方面提供的指导有限。为了分析这种现象，我们尝试采用组合泛化 (CG)——模型通过重新组合学习的元素来理解新组合的能力——作为指导框架。由于医学图像可以通过方式、解剖区域和任务来精确定义，因此自然地为探索 CG 提供了一个环境。因此，我们组装了 106 个医学数据集来创建 Med-MAT 以进行综合实验。实验证实，MLLM 可以使用 CG 来理解看不见的医学图像，并将 CG 确定为多任务训练中观察到的泛化的主要驱动因素之一。此外，进一步的研究表明，CG 有效地支持了数据有限的数据集，并在不同的主干中提供了持续的性能，突出了其多功能性和广泛的适用性。Med-MAT 在 https://github.com/FreedomIntelligence/Med-MAT 公开可用。
+
+##### **The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**
+2412.20068v1 by Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani
+
+The increasing demand for mental health services has highlighted the need for
+innovative solutions, particularly in the realm of psychological conversational
+AI, where the availability of sensitive data is scarce. In this work, we
+explored the development of a system tailored for mental health support with a
+novel approach to psychological assessment based on explainable emotional
+profiles in combination with empathetic conversational models, offering a
+promising tool for augmenting traditional care, particularly where immediate
+expertise is unavailable. Our work can be divided into two main parts,
+intrinsecaly connected to each other. First, we present RACLETTE, a
+conversational system that demonstrates superior emotional accuracy compared to
+state-of-the-art benchmarks in both understanding users' emotional states and
+generating empathetic responses during conversations, while progressively
+building an emotional profile of the user through their interactions. Second,
+we show how the emotional profiles of a user can be used as interpretable
+markers for mental health assessment. These profiles can be compared with
+characteristic emotional patterns associated with different mental disorders,
+providing a novel approach to preliminary screening and support.
+
+摘要：隨著對心理健康服務需求的增加，凸顯了創新解決方案的需求，特別是在心理對話式人工智慧領域，那裡缺乏敏感資料。在這項工作中，我們探索了開發一個針對心理健康支持的系統，採用一種基於可解釋的情緒特徵的新方法進行心理評估，結合同理心對話模式，提供了一個有前途的工具，用於擴充傳統照護，特別是在無法立即獲得專業知識的情況下。我們的工作可以分為兩個主要部分，彼此內在相關。首先，我們展示了 RACLETTE，一個對話系統，與最先進的基準相比，在理解使用者情緒狀態和在對話中產生同理心回應方面表現出優越的情緒準確性，同時透過他們的互動逐漸建立使用者的情緒特徵。其次，我們展示了使用者的情緒特徵如何可用作心理健康評估的可解釋標記。這些特徵可以與與不同心理疾病相關的典型情緒模式進行比較，提供了一種初步篩選和支持的新方法。
+
+##### **MobileNetV2: A lightweight classification model for home-based sleep apnea screening**
+2412.19967v2 by Hui Pan, Yanxuan Yu, Jilun Ye, Xu Zhang
+
+This study proposes a novel lightweight neural network model leveraging
+features extracted from electrocardiogram (ECG) and respiratory signals for
+early OSA screening. ECG signals are used to generate feature spectrograms to
+predict sleep stages, while respiratory signals are employed to detect
+sleep-related breathing abnormalities. By integrating these predictions, the
+method calculates the apnea-hypopnea index (AHI) with enhanced accuracy,
+facilitating precise OSA diagnosis.
+  The method was validated on three publicly available sleep apnea databases:
+the Apnea-ECG database, the UCDDB dataset, and the MIT-BIH Polysomnographic
+database. Results showed an overall OSA detection accuracy of 0.978,
+highlighting the model's robustness. Respiratory event classification achieved
+an accuracy of 0.969 and an area under the receiver operating characteristic
+curve (ROC-AUC) of 0.98. For sleep stage classification, in UCDDB dataset, the
+ROC-AUC exceeded 0.85 across all stages, with recall for Sleep reaching 0.906
+and specificity for REM and Wake states at 0.956 and 0.937, respectively.
+  This study underscores the potential of integrating lightweight neural
+networks with multi-signal analysis for accurate, portable, and cost-effective
+OSA screening, paving the way for broader adoption in home-based and wearable
+health monitoring systems.
+
+摘要：本研究提出一個新穎的輕量級神經網路模型，利用從心電圖 (ECG) 和呼吸信號中提取的特徵，進行早期 OSA 篩檢。ECG 信號用於產生特徵頻譜圖，以預測睡眠階段，而呼吸信號則用於偵測與睡眠相關的呼吸異常。透過整合這些預測，此方法計算出具有更高精確度的呼吸中止低通氣指數 (AHI)，促進精確的 OSA 診斷。
+該方法已在三個公開的睡眠呼吸中止症資料庫中驗證：呼吸中止症-ECG 資料庫、UCDDB 資料集和 MIT-BIH 多重睡眠生理檢查資料庫。結果顯示整體 OSA 檢測準確度為 0.978，突顯了該模型的穩健性。呼吸事件分類的準確度達到 0.969，且在受試者操作特徵曲線 (ROC-AUC) 下方的面積為 0.98。對於睡眠階段分類，在 UCDDB 資料集中，所有階段的 ROC-AUC 均超過 0.85，睡眠的召回率達到 0.906，而 REM 和清醒狀態的特異性分別為 0.956 和 0.937。
+本研究強調了將輕量級神經網路與多信號分析整合的潛力，以進行準確、可攜式且具成本效益的 OSA 篩檢，為在居家和穿戴式健康監測系統中更廣泛採用鋪路。
+
+##### **ErgoChat: a Visual Query System for the Ergonomic Risk Assessment of Construction Workers**
+2412.19954v1 by Chao Fan, Qipei Mei, Xiaonan Wang, Xinming Li
+
+In the construction sector, workers often endure prolonged periods of
+high-intensity physical work and prolonged use of tools, resulting in injuries
+and illnesses primarily linked to postural ergonomic risks, a longstanding
+predominant health concern. To mitigate these risks, researchers have applied
+various technological methods to identify the ergonomic risks that construction
+workers face. However, traditional ergonomic risk assessment (ERA) techniques
+do not offer interactive feedback. The rapidly developing vision-language
+models (VLMs), capable of generating textual descriptions or answering
+questions about ergonomic risks based on image inputs, have not yet received
+widespread attention. This research introduces an interactive visual query
+system tailored to assess the postural ergonomic risks of construction workers.
+The system's capabilities include visual question answering (VQA), which
+responds to visual queries regarding workers' exposure to postural ergonomic
+risks, and image captioning (IC), which generates textual descriptions of these
+risks from images. Additionally, this study proposes a dataset designed for
+training and testing such methodologies. Systematic testing indicates that the
+VQA functionality delivers an accuracy of 96.5%. Moreover, evaluations using
+nine metrics for IC and assessments from human experts indicate that the
+proposed approach surpasses the performance of a method using the same
+architecture trained solely on generic datasets. This study sets a new
+direction for future developments in interactive ERA using generative
+artificial intelligence (AI) technologies.
+
+摘要：在建築業中，工人經常忍受長時間高強度體力勞動和長時間使用工具，導致受傷和疾病，這些問題主要與姿勢人體工學風險有關，這是一個長期的主要健康問題。為了減輕這些風險，研究人員應用各種技術方法來識別建築工人面臨的人體工學風險。然而，傳統的人體工學風險評估 (ERA) 技術並不能提供互動式回饋。快速發展的視覺語言模型 (VLM) 能夠根據影像輸入產生文字描述或回答有關人體工學風險的問題，但尚未受到廣泛關注。本研究介紹了一個互動式視覺查詢系統，專門用於評估建築工人的姿勢人體工學風險。該系統的功能包括視覺問答 (VQA)，它可以回答有關工人接觸姿勢人體工學風險的視覺查詢，以及影像標題 (IC)，它可以根據影像產生這些風險的文字描述。此外，本研究提出了一個專門用於訓練和測試此類方法的資料集。系統性測試表明，VQA 功能的準確度為 96.5%。此外，使用九個 IC 指標進行的評估和來自人類專家的評估表明，所提出的方法超越了使用相同架構僅在通用資料集上訓練的方法的效能。本研究為使用生成式人工智慧 (AI) 技術的互動式 ERA 未來發展設定了一個新方向。
+
+##### **An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**
+2412.19696v1 by Arezoo Borji, Hossam Haick, Birgit Pohn, Antonia Graf, Jana Zakall, S M Ragib Shahriar Islam, Gernot Kronreif, Daniel Kovatchki, Heinz Strohmer, Sepideh Hatamikia
+
+In vitro fertilization (IVF) is a widely utilized assisted reproductive
+technology, yet predicting its success remains challenging due to the
+multifaceted interplay of clinical, demographic, and procedural factors. This
+study develops a robust artificial intelligence (AI) pipeline aimed at
+predicting live birth outcomes in IVF treatments. The pipeline uses anonymized
+data from 2010 to 2018, obtained from the Human Fertilization and Embryology
+Authority (HFEA). We evaluated the prediction performance of live birth success
+as a binary outcome (success/failure) by integrating different feature
+selection methods, such as principal component analysis (PCA) and particle
+swarm optimization (PSO), with different traditional machine learning-based
+classifiers including random forest (RF) and decision tree, as well as deep
+learning-based classifiers including custom transformer-based model and a tab
+transformer model with an attention mechanism. Our research demonstrated that
+the best performance was achieved by combining PSO for feature selection with
+the TabTransformer-based deep learning model, yielding an accuracy of 99.50%
+and an AUC of 99.96%, highlighting its significant performance to predict live
+births. This study establishes a highly accurate AI pipeline for predicting
+live birth outcomes in IVF, demonstrating its potential to enhance personalized
+fertility treatments.
+
+摘要：體外受精 (IVF) 是一種廣泛使用的輔助生殖技術，但由於臨床、人口統計和程序因素的多方面交互作用，預測其成功仍然具有挑戰性。本研究開發了一個強大的人工智慧 (AI) 管線，旨在預測 IVF 治療中的活產結果。該管線使用 2010 年至 2018 年的匿名數據，這些數據來自人類受精和胚胎學管理局 (HFEA)。我們通過整合不同的特徵選擇方法（例如主成分分析 (PCA) 和粒子群優化 (PSO)）以及不同的傳統機器學習分類器（包括隨機森林 (RF) 和決策樹），以及深度學習分類器（包括自定義Transformer模型和具有注意力機制的 Tab Transformer模型），來評估活產成功的預測性能，作為二元結果（成功/失敗）。我們的研究表明，通過將 PSO 用於特徵選擇與基於 TabTransformer 的深度學習模型相結合，可以獲得最佳性能，準確率達到 99.50%，AUC 達到 99.96%，突顯了其預測活產的顯著性能。本研究建立了一個高度準確的 AI 管線，用於預測 IVF 中的活產結果，展示了其增強個性化生育治療的潛力。
+
+##### **A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**
+2412.19688v1 by Jana Zakall, Birgit Pohn, Antonia Graf, Daniel Kovatchki, Arezoo Borji, Ragib Shahriar Islam, Hossam Haick, Heinz Strohmer, Sepideh Hatamikia
+
+Artificial intelligence (AI) has emerged as a powerful tool to enhance
+decision-making and optimize treatment protocols in in vitro fertilization
+(IVF). In particular, AI shows significant promise in supporting
+decision-making during the ovarian stimulation phase of the IVF process. This
+review evaluates studies focused on the applications of AI combined with
+medical imaging in ovarian stimulation, examining methodologies, outcomes, and
+current limitations. Our analysis of 13 studies on this topic reveals that,
+reveal that while AI algorithms demonstrated notable potential in predicting
+optimal hormonal dosages, trigger timing, and oocyte retrieval outcomes, the
+medical imaging data utilized predominantly came from two-dimensional (2D)
+ultrasound which mainly involved basic quantifications, such as follicle size
+and number, with limited use of direct feature extraction or advanced image
+analysis techniques. This points to an underexplored opportunity where advanced
+image analysis approaches, such as deep learning, and more diverse imaging
+modalities, like three-dimensional (3D) ultrasound, could unlock deeper
+insights. Additionally, the lack of explainable AI (XAI) in most studies raises
+concerns about the transparency and traceability of AI-driven decisions - key
+factors for clinical adoption and trust. Furthermore, many studies relied on
+single-center designs and small datasets, which limit the generalizability of
+their findings. This review highlights the need for integrating advanced
+imaging analysis techniques with explainable AI methodologies, as well as the
+importance of leveraging multicenter collaborations and larger datasets.
+Addressing these gaps has the potential to enhance ovarian stimulation
+management, paving the way for efficient, personalized, and data-driven
+treatment pathways that improve IVF outcomes.
+
+摘要：人工智慧（AI）已成為增強體外受精（IVF）決策制定和優化治療方案的強大工具。特別是，AI 在支持 IVF 過程中卵巢刺激階段的決策制定方面顯示出顯著的前景。本綜述評估了專注於 AI 結合卵巢刺激中的醫學影像應用、檢驗方法、結果和當前限制的研究。我們對 13 項關於此主題的研究分析顯示，雖然 AI 演算法在預測最佳荷爾蒙劑量、觸發時機和卵子取出結果方面表現出顯著的潛力，但所利用的醫學影像數據主要來自於二次元（2D）超音波，而二次元超音波主要涉及基本量化，例如濾泡大小和數量，且有限使用直接特徵提取或進階影像分析技術。這指向一個尚未探索的機會，例如深度學習等進階影像分析方法，以及更多元的影像模式，例如三維（3D）超音波，可以解鎖更深入的見解。此外，大多數研究缺乏可解釋 AI（XAI），這引起了人們對 AI 驅動決策的透明度和可追溯性的擔憂，而透明度和可追溯性是臨床採用和信任的關鍵因素。此外，許多研究依賴於單中心設計和小型數據集，這限制了其發現的普遍性。本綜述強調了將進階影像分析技術與可解釋 AI 方法整合起來的必要性，以及利用多中心合作和大型數據集的重要性。解決這些差距有可能增強卵巢刺激管理，為有效、個人化和數據驅動的治療途徑鋪平道路，進而改善 IVF 結果。
+
+##### **Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases**
+2412.19495v1 by Ioannis Bilionis, Ricardo C. Berrios, Luis Fernandez-Luque, Carlos Castillo
+
+Machine Learning (ML) algorithms are vital for supporting clinical
+decision-making in biomedical informatics. However, their predictive
+performance can vary across demographic groups, often due to the
+underrepresentation of historically marginalized populations in training
+datasets. The investigation reveals widespread sex- and age-related inequities
+in chronic disease datasets and their derived ML models. Thus, a novel
+analytical framework is introduced, combining systematic arbitrariness with
+traditional metrics like accuracy and data complexity. The analysis of data
+from over 25,000 individuals with chronic diseases revealed mild sex-related
+disparities, favoring predictive accuracy for males, and significant
+age-related differences, with better accuracy for younger patients. Notably,
+older patients showed inconsistent predictive accuracy across seven datasets,
+linked to higher data complexity and lower model performance. This highlights
+that representativeness in training data alone does not guarantee equitable
+outcomes, and model arbitrariness must be addressed before deploying models in
+clinical settings.
+
+摘要：機器學習 (ML) 演算法對於支援生物醫學資訊學中的臨床決策至關重要。然而，其預測效能可能因人口統計群組而異，通常是因為在訓練資料集中歷史上被邊緣化的族群代表性不足。調查顯示，在慢性疾病資料集及其衍生的 ML 模型中，普遍存在與性別和年齡相關的不平等。因此，引進了一個新穎的分析架構，將系統性的任意性與傳統指標（例如準確度和資料複雜度）結合在一起。對來自 25,000 多名慢性病患者的資料進行分析，發現輕微的性別相關差異，有利於男性預測準確度，以及顯著的年齡相關差異，年輕患者的準確度較高。值得注意的是，老年患者在七個資料集中顯示出不一致的預測準確度，這與較高的資料複雜度和較低的模型效能有關。這突顯出訓練資料中的代表性並不能保證公平的結果，在臨床環境中部署模型之前必須解決模型的任意性。
+
+##### **Semi-Supervised Learning from Small Annotated Data and Large Unlabeled Data for Fine-grained PICO Entity Recognition**
+2412.19346v1 by Fangyi Chen, Gongbo Zhang, Yilu Fang, Yifan Peng, Chunhua Weng
+
+Objective: Extracting PICO elements -- Participants, Intervention,
+Comparison, and Outcomes -- from clinical trial literature is essential for
+clinical evidence retrieval, appraisal, and synthesis. Existing approaches do
+not distinguish the attributes of PICO entities. This study aims to develop a
+named entity recognition (NER) model to extract PICO entities with fine
+granularities.
+  Materials and Methods: Using a corpus of 2,511 abstracts with PICO mentions
+from 4 public datasets, we developed a semi-supervised method to facilitate the
+training of a NER model, FinePICO, by combining limited annotated data of PICO
+entities and abundant unlabeled data. For evaluation, we divided the entire
+dataset into two subsets: a smaller group with annotations and a larger group
+without annotations. We then established the theoretical lower and upper
+performance bounds based on the performance of supervised learning models
+trained solely on the small, annotated subset and on the entire set with
+complete annotations, respectively. Finally, we evaluated FinePICO on both the
+smaller annotated subset and the larger, initially unannotated subset. We
+measured the performance of FinePICO using precision, recall, and F1.
+  Results: Our method achieved precision/recall/F1 of 0.567/0.636/0.60,
+respectively, using a small set of annotated samples, outperforming the
+baseline model (F1: 0.437) by more than 16\%. The model demonstrates
+generalizability to a different PICO framework and to another corpus, which
+consistently outperforms the benchmark in diverse experimental settings
+(p-value \textless0.001).
+  Conclusion: This study contributes a generalizable and effective
+semi-supervised approach to named entity recognition leveraging large unlabeled
+data together with small, annotated data. It also initially supports
+fine-grained PICO extraction.
+
+摘要：<paragraph>目標：從臨床試驗文獻中萃取 PICO 元素（參與者、干預措施、比較和結果），對於臨床證據的檢索、評估和綜合至關重要。現有方法無法區分 PICO 實體的屬性。本研究旨在開發一個命名實體辨識 (NER) 模型，以精細粒度萃取 PICO 實體。
+材料和方法：使用包含來自 4 個公開資料集的 2,511 篇摘要的語料庫，我們開發了一種半監督式方法，透過結合有限的 PICO 實體標註資料和豐富的未標註資料，來促進 NER 模型 FinePICO 的訓練。為了進行評估，我們將整個資料集分為兩個子集：一個較小的有標註群組和一個較大的無標註群組。然後，我們分別根據僅在小標註子集上訓練的監督式學習模型和在具有完整標註的整個集合上訓練的監督式學習模型的效能，建立理論上的下限和上限效能界線。最後，我們在較小的標註子集和較大的最初未標註子集上評估 FinePICO。我們使用準確度、召回率和 F1 來衡量 FinePICO 的效能。
+結果：我們的模型使用一小組標註樣本，分別達到 0.567/0.636/0.60 的準確度/召回率/F1，比基線模型 (F1：0.437) 高出 16% 以上。該模型展示了對不同 PICO 架構和另一個語料庫的泛化性，在不同的實驗設定中始終優於基準 (p 值 \textless0.001)。
+結論：本研究貢獻了一種可泛化且有效的半監督式方法，利用大量未標註資料和少量標註資料來進行命名實體辨識。它最初也支援精細粒度的 PICO 萃取。</paragraph>
+
+##### **xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**
+2412.19311v1 by Risal Shahriar Shefin, Md Asifur Rahman, Thai Le, Sarra Alqahtani
+
+Reinforcement learning (RL) has shown great promise in simulated
+environments, such as games, where failures have minimal consequences. However,
+the deployment of RL agents in real-world systems such as autonomous vehicles,
+robotics, UAVs, and medical devices demands a higher level of safety and
+transparency, particularly when facing adversarial threats. Safe RL algorithms
+have been developed to address these concerns by optimizing both task
+performance and safety constraints. However, errors are inevitable, and when
+they occur, it is essential that the RL agents can also explain their actions
+to human operators. This makes trust in the safety mechanisms of RL systems
+crucial for effective deployment. Explainability plays a key role in building
+this trust by providing clear, actionable insights into the agent's
+decision-making process, ensuring that safety-critical decisions are well
+understood. While machine learning (ML) has seen significant advances in
+interpretability and visualization, explainability methods for RL remain
+limited. Current tools fail to address the dynamic, sequential nature of RL and
+its needs to balance task performance with safety constraints over time. The
+re-purposing of traditional ML methods, such as saliency maps, is inadequate
+for safety-critical RL applications where mistakes can result in severe
+consequences. To bridge this gap, we propose xSRL, a framework that integrates
+both local and global explanations to provide a comprehensive understanding of
+RL agents' behavior. xSRL also enables developers to identify policy
+vulnerabilities through adversarial attacks, offering tools to debug and patch
+agents without retraining. Our experiments and user studies demonstrate xSRL's
+effectiveness in increasing safety in RL systems, making them more reliable and
+trustworthy for real-world deployment. Code is available at
+https://github.com/risal-shefin/xSRL.
+
+摘要：強化學習 (RL) 在模擬環境中展現出極大的潛力，例如遊戲，在這些環境中，失敗的後果很小。然而，在自動駕駛汽車、機器人、無人機和醫療設備等真實世界系統中部署 RL 代理需要更高的安全性與透明度，特別是在面對對抗性威脅時。安全的 RL 演算法已被開發出來，透過最佳化任務效能和安全限制來解決這些問題。然而，錯誤是不可避免的，當錯誤發生時，RL 代理也必須向人類操作員解釋其行為至關重要。這使得對 RL 系統的安全機制的信任對於有效部署至關重要。可解釋性在建立這種信任中扮演關鍵角色，透過提供對代理決策過程清晰且可行的見解，確保對安全至關重要的決策能被充分理解。雖然機器學習 (ML) 在可解釋性和可視化方面已取得顯著進展，但 RL 的可解釋性方法仍然有限。目前的工具無法解決 RL 的動態、順序性質，以及它需要隨著時間推移平衡任務效能與安全限制。重新利用傳統的 ML 方法，例如顯著性圖，對於安全至關重要的 RL 應用程式來說是不夠的，在這些應用程式中，錯誤可能導致嚴重的後果。為了彌補這一差距，我們提出了 xSRL，一個整合了局部和全局解釋的框架，以提供對 RL 代理行為的全面理解。xSRL 還使開發人員能夠透過對抗性攻擊來識別策略漏洞，提供在不重新訓練的情況下除錯和修補代理的工具。我們的實驗和使用者研究證明了 xSRL 在提高 RL 系統安全性的有效性，使其更可靠且更值得信賴，可部署於真實世界。程式碼可在 https://github.com/risal-shefin/xSRL 中取得。
+
+##### **MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**
+2412.19260v2 by Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Meliha Yetisgen, Fei Xia, Thomas Lin
+
+Several studies showed that Large Language Models (LLMs) can answer medical
+questions correctly, even outperforming the average human score in some medical
+exams. However, to our knowledge, no study has been conducted to assess the
+ability of language models to validate existing or generated medical text for
+correctness and consistency. In this paper, we introduce MEDEC
+(https://github.com/abachaa/MEDEC), the first publicly available benchmark for
+medical error detection and correction in clinical notes, covering five types
+of errors (Diagnosis, Management, Treatment, Pharmacotherapy, and Causal
+Organism). MEDEC consists of 3,848 clinical texts, including 488 clinical notes
+from three US hospital systems that were not previously seen by any LLM. The
+dataset has been used for the MEDIQA-CORR shared task to evaluate seventeen
+participating systems [Ben Abacha et al., 2024]. In this paper, we describe the
+data creation methods and we evaluate recent LLMs (e.g., o1-preview, GPT-4,
+Claude 3.5 Sonnet, and Gemini 2.0 Flash) for the tasks of detecting and
+correcting medical errors requiring both medical knowledge and reasoning
+capabilities. We also conducted a comparative study where two medical doctors
+performed the same task on the MEDEC test set. The results showed that MEDEC is
+a sufficiently challenging benchmark to assess the ability of models to
+validate existing or generated notes and to correct medical errors. We also
+found that although recent LLMs have a good performance in error detection and
+correction, they are still outperformed by medical doctors in these tasks. We
+discuss the potential factors behind this gap, the insights from our
+experiments, the limitations of current evaluation metrics, and share potential
+pointers for future research.
+
+摘要：多項研究顯示，大型語言模型 (LLM) 能正確回答醫療問題，甚至在某些醫療考試中表現優於人類平均分數。然而，據我們所知，尚未有研究評估語言模型驗證現有或產生的醫療文本正確性和一致性的能力。在本文中，我們介紹 MEDEC (https://github.com/abachaa/MEDEC)，這是第一個公開的臨床筆記醫療錯誤偵測和修正基準，涵蓋五種類型的錯誤（診斷、管理、治療、藥物治療和致病原）。MEDEC 包含 3,848 個臨床文本，包括來自三個美國醫院系統的 488 個臨床筆記，這些筆記以前未曾被任何 LLM 看到。該資料集已用於 MEDIQA-CORR 共享任務，以評估十七個參與系統 [Ben Abacha 等，2024]。在本文中，我們描述了資料建立方法，並評估了近期 LLM（例如 o1-preview、GPT-4、Claude 3.5 Sonnet 和 Gemini 2.0 Flash）在偵測和修正醫療錯誤的任務上，這些任務需要醫療知識和推理能力。我們還進行了一項比較研究，其中兩位醫生在 MEDEC 測試集中執行相同的任務。結果顯示，MEDEC 是足夠具有挑戰性的基準，可以評估模型驗證現有或產生的筆記和修正醫療錯誤的能力。我們還發現，儘管近期 LLM 在錯誤偵測和修正方面表現良好，但在這些任務中仍不如醫生。我們討論了造成此差距的潛在因素、我們實驗的見解、當前評估指標的限制，並分享了未來研究的潛在指標。
+
+##### **Leveraging Self-Training and Variational Autoencoder for Agitation Detection in People with Dementia Using Wearable Sensors**
+2412.19254v1 by Abeer Badawi, Somayya Elmoghazy, Samira Choudhury, Khalid Elgazzar, Amer Burhan
+
+Dementia is a neurodegenerative disorder that has been growing among elder
+people over the past decades. This growth profoundly impacts the quality of
+life for patients and caregivers due to the symptoms arising from it. Agitation
+and aggression (AA) are some of the symptoms of people with severe dementia
+(PwD) in long-term care or hospitals. AA not only causes discomfort but also
+puts the patients or others at potential risk. Existing monitoring solutions
+utilizing different wearable sensors integrated with Artificial Intelligence
+(AI) offer a way to detect AA early enough for timely and adequate medical
+intervention. However, most studies are limited by the availability of
+accurately labeled datasets, which significantly affects the efficacy of such
+solutions in real-world scenarios. This study presents a novel comprehensive
+approach to detect AA in PwD using physiological data from the Empatica E4
+wristbands. The research creates a diverse dataset, consisting of three
+distinct datasets gathered from 14 participants across multiple hospitals in
+Canada. These datasets have not been extensively explored due to their limited
+labeling. We propose a novel approach employing self-training and a variational
+autoencoder (VAE) to detect AA in PwD effectively. The proposed approach aims
+to learn the representation of the features extracted using the VAE and then
+uses a semi-supervised block to generate labels, classify events, and detect
+AA. We demonstrate that combining Self-Training and Variational Autoencoder
+mechanism significantly improves model performance in classifying AA in PwD.
+Among the tested techniques, the XGBoost classifier achieved the highest
+accuracy of 90.16\%. By effectively addressing the challenge of limited labeled
+data, the proposed system not only learns new labels but also proves its
+superiority in detecting AA.
+
+摘要：失智症是一種神經退化性疾病，在過去的幾十年中在老年人中不斷增加。這種增長會對患者和照顧者的生活品質產生深遠的影響，因為它會產生症狀。躁動和攻擊性 (AA) 是重度失智症患者 (PwD) 在長期照護或醫院中的症狀之一。AA 不僅會造成不適，還會讓患者或他人面臨潛在風險。現有的監控解決方案利用與人工智慧 (AI) 整合的不同穿戴式感測器，提供一種方法來及早偵測 AA，以便及時且充分地進行醫療介入。然而，大多數研究都受到準確標記資料集可用性的限制，這會顯著影響此類解決方案在實際情況中的效能。本研究提出了一種新穎的綜合方法，使用來自 Empatica E4 腕帶的生理數據來偵測 PwD 中的 AA。該研究建立了一個多元的資料集，由來自加拿大多家醫院的 14 位參與者收集的三個不同資料集組成。由於標記有限，尚未廣泛探討這些資料集。我們提出了一種新穎的方法，採用自我訓練和變異自動編碼器 (VAE) 來有效偵測 PwD 中的 AA。所提出的方法旨在學習使用 VAE 萃取特徵的表示，然後使用半監督區塊來產生標籤、分類事件並偵測 AA。我們證明了將自我訓練和變異自動編碼器機制結合起來，可以顯著提升模型在對 PwD 中的 AA 進行分類時的效能。在測試的技術中，XGBoost 分類器達到了 90.16% 的最高準確度。透過有效地解決標記資料有限的挑戰，所提出的系統不僅學習了新的標籤，還證明了其在偵測 AA 方面的優越性。
+
+##### **Evaluating Self-Supervised Learning in Medical Imaging: A Benchmark for Robustness, Generalizability, and Multi-Domain Impact**
+2412.19124v1 by Valay Bundele, Oğuz Ata Çal, Bora Kargi, Karahan Sarıtaş, Kıvanç Tezören, Zohreh Ghaderi, Hendrik Lensch
+
+Self-supervised learning (SSL) has emerged as a promising paradigm in medical
+imaging, addressing the chronic challenge of limited labeled data in healthcare
+settings. While SSL has shown impressive results, existing studies in the
+medical domain are often limited in scope, focusing on specific datasets or
+modalities, or evaluating only isolated aspects of model performance. This
+fragmented evaluation approach poses a significant challenge, as models
+deployed in critical medical settings must not only achieve high accuracy but
+also demonstrate robust performance and generalizability across diverse
+datasets and varying conditions. To address this gap, we present a
+comprehensive evaluation of SSL methods within the medical domain, with a
+particular focus on robustness and generalizability. Using the MedMNIST dataset
+collection as a standardized benchmark, we evaluate 8 major SSL methods across
+11 different medical datasets. Our study provides an in-depth analysis of model
+performance in both in-domain scenarios and the detection of
+out-of-distribution (OOD) samples, while exploring the effect of various
+initialization strategies, model architectures, and multi-domain pre-training.
+We further assess the generalizability of SSL methods through cross-dataset
+evaluations and the in-domain performance with varying label proportions (1%,
+10%, and 100%) to simulate real-world scenarios with limited supervision. We
+hope this comprehensive benchmark helps practitioners and researchers make more
+informed decisions when applying SSL methods to medical applications.
+
+摘要：自我監督學習 (SSL) 已成為醫學影像中一個有前途的範例，用於解決醫療保健環境中標籤資料有限的長期挑戰。雖然 SSL 已展現令人印象深刻的結果，但醫學領域中的現有研究通常範圍有限，專注於特定資料集或方式，或僅評估模型效能的孤立面向。這種片段化的評估方式構成重大挑戰，因為在關鍵醫療環境中部署的模型不僅必須達到高準確度，還必須展現強健的效能和跨不同資料集和不同條件的一般化能力。為了解決這個差距，我們針對醫學領域中的 SSL 方法提出全面的評估，特別著重於強健性和一般化能力。使用 MedMNIST 資料集集合作為標準基準，我們在 11 個不同的醫學資料集上評估 8 種主要的 SSL 方法。我們的研究深入分析了模型在領域內情境和偵測分佈外 (OOD) 樣本中的效能，同時探索各種初始化策略、模型架構和多領域預訓練的影響。我們進一步透過跨資料集評估和在不同標籤比例 (1%、10% 和 100%) 下的領域內效能評估 SSL 方法的一般化能力，以模擬監督有限的真實世界情境。我們希望這個全面的基準能幫助從業人員和研究人員在將 SSL 方法應用於醫療應用時做出更明智的決策。
+
+##### **Modality-Projection Universal Model for Comprehensive Full-Body Medical Imaging Segmentation**
+2412.19026v1 by Yixin Chen, Lin Gao, Yajuan Gao, Rui Wang, Jingge Lian, Xiangxi Meng, Yanhua Duan, Leiying Chai, Hongbin Han, Zhaoping Cheng, Zhaoheng Xie
+
+The integration of deep learning in medical imaging has shown great promise
+for enhancing diagnostic, therapeutic, and research outcomes. However, applying
+universal models across multiple modalities remains challenging due to the
+inherent variability in data characteristics. This study aims to introduce and
+evaluate a Modality Projection Universal Model (MPUM). MPUM employs a novel
+modality-projection strategy, which allows the model to dynamically adjust its
+parameters to optimize performance across different imaging modalities. The
+MPUM demonstrated superior accuracy in identifying anatomical structures,
+enabling precise quantification for improved clinical decision-making. It also
+identifies metabolic associations within the brain-body axis, advancing
+research on brain-body physiological correlations. Furthermore, MPUM's unique
+controller-based convolution layer enables visualization of saliency maps
+across all network layers, significantly enhancing the model's
+interpretability.
+
+摘要：深度學習在醫學影像中的整合已展現出極大的前景，用於增強診斷、治療和研究成果。然而，由於資料特性的內在變異性，在多種方式中應用通用模型仍然具有挑戰性。本研究旨在介紹和評估方式投影通用模型 (MPUM)。MPUM 採用一種新穎的方式投影策略，使模型能夠動態調整其參數，以優化不同影像方式的效能。MPUM 在識別解剖結構方面表現出優異的準確性，能夠進行精確量化，以改善臨床決策制定。它還識別出腦體軸內的代謝關聯，推動了對腦體生理相關性的研究。此外，MPUM 獨特的基於控制器的卷積層能夠視覺化所有網路層的顯著性圖，顯著增強了模型的可解釋性。
+
+##### **MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**
+2412.18947v2 by Kaiwen Zuo, Yirui Jiang
+
+Medical Large Language Models (MLLMs) have demonstrated potential in
+healthcare applications, yet their propensity for hallucinations -- generating
+medically implausible or inaccurate information -- presents substantial risks
+to patient care. This paper introduces MedHallBench, a comprehensive benchmark
+framework for evaluating and mitigating hallucinations in MLLMs. Our
+methodology integrates expert-validated medical case scenarios with established
+medical databases to create a robust evaluation dataset. The framework employs
+a sophisticated measurement system that combines automated ACHMI (Automatic
+Caption Hallucination Measurement in Medical Imaging) scoring with rigorous
+clinical expert evaluations and utilizes reinforcement learning methods to
+achieve automatic annotation. Through an optimized reinforcement learning from
+human feedback (RLHF) training pipeline specifically designed for medical
+applications, MedHallBench enables thorough evaluation of MLLMs across diverse
+clinical contexts while maintaining stringent accuracy standards. We conducted
+comparative experiments involving various models, utilizing the benchmark to
+establish a baseline for widely adopted large language models (LLMs). Our
+findings indicate that ACHMI provides a more nuanced understanding of the
+effects of hallucinations compared to traditional metrics, thereby highlighting
+its advantages in hallucination assessment. This research establishes a
+foundational framework for enhancing MLLMs' reliability in healthcare settings
+and presents actionable strategies for addressing the critical challenge of AI
+hallucinations in medical applications.
+
+摘要：大型醫療語言模型 (MLLM) 已在醫療保健應用中展現潛力，但它們產生醫學上不合理或不準確資訊的幻覺傾向，對病患照護構成重大風險。本文介紹 MedHallBench，一個用於評估和減輕 MLLM 中幻覺的綜合基準架構。我們的做法整合了專家驗證的醫療案例場景與既定的醫療資料庫，以建立一個穩健的評估資料集。該框架採用一個精密的測量系統，結合自動化 ACHMI（醫學影像中自動標題幻覺測量）評分與嚴謹的臨床專家評估，並利用強化學習方法來實現自動註解。透過專為醫療應用設計的最佳化人類回饋強化學習 (RLHF) 訓練管線，MedHallBench 能夠在不同的臨床背景下徹底評估 MLLM，同時維持嚴格的準確性標準。我們進行了涉及各種模型的比較實驗，利用基準來為廣泛採用的大型語言模型 (LLM) 建立基準。我們的研究結果表明，與傳統指標相比，ACHMI 對幻覺的影響提供了更細緻的理解，從而突顯了它在幻覺評估中的優勢。這項研究為提高 MLLM 在醫療保健環境中的可靠性建立了一個基礎框架，並提出了可行的策略來應對醫療應用中 AI 幻覺的關鍵挑戰。
+
+##### **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**
+2412.18925v1 by Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
+
+The breakthrough of OpenAI o1 highlights the potential of enhancing reasoning
+to improve LLM. Yet, most research in reasoning has focused on mathematical
+tasks, leaving domains like medicine underexplored. The medical domain, though
+distinct from mathematics, also demands robust reasoning to provide reliable
+answers, given the high standards of healthcare. However, verifying medical
+reasoning is challenging, unlike those in mathematics. To address this, we
+propose verifiable medical problems with a medical verifier to check the
+correctness of model outputs. This verifiable nature enables advancements in
+medical reasoning through a two-stage approach: (1) using the verifier to guide
+the search for a complex reasoning trajectory for fine-tuning LLMs, (2)
+applying reinforcement learning (RL) with verifier-based rewards to enhance
+complex reasoning further. Finally, we introduce HuatuoGPT-o1, a medical LLM
+capable of complex reasoning, which outperforms general and medical-specific
+baselines using only 40K verifiable problems. Experiments show complex
+reasoning improves medical problem-solving and benefits more from RL. We hope
+our approach inspires advancements in reasoning across medical and other
+specialized domains.
+
+摘要：OpenAI o1 的突破突顯了增強推理以改善 LLM 的潛力。然而，推理的大部分研究都集中在數學任務上，而醫學等領域則尚未充分探討。儘管醫學領域與數學不同，但鑑於醫療保健的高標準，它也需要強大的推理能力才能提供可靠的答案。然而，驗證醫學推理具有挑戰性，這與數學中的推理不同。為了解決這個問題，我們提出了可驗證的醫學問題，並使用醫學驗證器來檢查模型輸出的正確性。這種可驗證的性質通過以下兩個階段的方法實現了醫學推理的進步：(1) 使用驗證器來指導尋找複雜推理軌跡以微調 LLM，(2) 應用強化學習 (RL) 和基於驗證器的獎勵來進一步增強複雜推理。最後，我們介紹了 HuatuoGPT-o1，這是一個具備複雜推理能力的醫學 LLM，它僅使用 40K 個可驗證問題就優於一般和特定於醫學的基準。實驗表明，複雜推理改進了醫學問題解決，並從 RL 中受益更多。我們希望我們的做法能激勵醫學和其他專業領域的推理進步。
+
+##### **Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data**
+2412.18894v1 by Serkan Salturk, Irem Sayin, Ibrahim Cem Balci, Taha Emre Pamukcu, Zafer Soydan, Huseyin Uvet
+
+Lumbar disk segmentation is essential for diagnosing and curing spinal
+disorders by enabling precise detection of disk boundaries in medical imaging.
+The advent of deep learning has resulted in the development of many
+segmentation methods, offering differing levels of accuracy and effectiveness.
+This study assesses the effectiveness of several sophisticated deep learning
+architectures, including ResUnext, Ef3 Net, UNet, and TransUNet, for lumbar
+disk segmentation, highlighting key metrics like as Pixel Accuracy, Mean
+Intersection over Union (Mean IoU), and Dice Coefficient. The findings indicate
+that ResUnext achieved the highest segmentation accuracy, with a Pixel Accuracy
+of 0.9492 and a Dice Coefficient of 0.8425, with TransUNet following closely
+after. Filtering techniques somewhat enhanced the performance of most models,
+particularly Dense UNet, improving stability and segmentation quality. The
+findings underscore the efficacy of these models in lumbar disk segmentation
+and highlight potential areas for improvement.
+
+摘要：腰椎間盤分割對於診斷和治療脊椎疾病至關重要，因為它可以在醫學影像中精確檢測椎間盤的邊界。深度學習的出現導致了許多分割方法的開發，這些方法提供了不同程度的準確性和有效性。本研究評估了幾種複雜的深度學習架構的有效性，包括 ResUnext、Ef3 Net、UNet 和 TransUNet，用於腰椎間盤分割，重點關注關鍵指標，例如像素準確度、平均聯合交集（平均 IoU）和骰子係數。研究結果表明，ResUnext 達到了最高的分割準確度，像素準確度為 0.9492，骰子係數為 0.8425，緊隨其後的是 TransUNet。過濾技術在一定程度上提高了大多數模型的性能，特別是 Dense UNet，提高了穩定性和分割質量。研究結果強調了這些模型在腰椎間盤分割中的功效，並強調了潛在的改進領域。
+
+##### **Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models**
+2412.18863v1 by Meltem Aksoy
+
+Large language models (LLMs) have become integral tools in diverse domains,
+yet their moral reasoning capabilities across cultural and linguistic contexts
+remain underexplored. This study investigates whether multilingual LLMs, such
+as GPT-3.5-Turbo, GPT-4o-mini, Llama 3.1, and MistralNeMo, reflect culturally
+specific moral values or impose dominant moral norms, particularly those rooted
+in English. Using the updated Moral Foundations Questionnaire (MFQ-2) in eight
+languages, Arabic, Farsi, English, Spanish, Japanese, Chinese, French, and
+Russian, the study analyzes the models' adherence to six core moral
+foundations: care, equality, proportionality, loyalty, authority, and purity.
+The results reveal significant cultural and linguistic variability, challenging
+the assumption of universal moral consistency in LLMs. Although some models
+demonstrate adaptability to diverse contexts, others exhibit biases influenced
+by the composition of the training data. These findings underscore the need for
+culturally inclusive model development to improve fairness and trust in
+multilingual AI systems.
+
+摘要：大型語言模型 (LLM) 已成為各個領域不可或缺的工具，
+但它們在不同文化和語言背景下的道德推理能力
+仍未得到充分探討。本研究探討多語言 LLM，例如
+GPT-3.5-Turbo、GPT-4o-mini、Llama 3.1 和 MistralNeMo，是否反映了特定文化的
+道德價值觀或強加了主流道德規範，尤其是植根於英語的規範。使用更新的道德基礎問卷 (MFQ-2) 八種
+語言，阿拉伯語、波斯語、英語、西班牙語、日語、中文、法語和
+俄語，該研究分析了模型對六個核心道德的遵守情況
+基礎：關懷、平等、相稱性、忠誠、權威和純潔。
+結果揭示了顯著的文化和語言變異性，挑戰了 LLM 中普遍道德一致性的假設。儘管一些模型
+證明了對不同背景的適應性，而另一些模型則表現出受訓練數據組成影響的偏見。這些發現強調了
+文化包容模型開發的必要性，以提高公平性和對
+多語言人工智能系統的信任。
+
+##### **Unified Local and Global Attention Interaction Modeling for Vision Transformers**
+2412.18778v1 by Tan Nguyen, Coy D. Heldermon, Corey Toler-Franklin
+
+We present a novel method that extends the self-attention mechanism of a
+vision transformer (ViT) for more accurate object detection across diverse
+datasets. ViTs show strong capability for image understanding tasks such as
+object detection, segmentation, and classification. This is due in part to
+their ability to leverage global information from interactions among visual
+tokens. However, the self-attention mechanism in ViTs are limited because they
+do not allow visual tokens to exchange local or global information with
+neighboring features before computing global attention. This is problematic
+because tokens are treated in isolation when attending (matching) to other
+tokens, and valuable spatial relationships are overlooked. This isolation is
+further compounded by dot-product similarity operations that make tokens from
+different semantic classes appear visually similar. To address these
+limitations, we introduce two modifications to the traditional self-attention
+framework; a novel aggressive convolution pooling strategy for local feature
+mixing, and a new conceptual attention transformation to facilitate interaction
+and feature exchange between semantic concepts. Experimental results
+demonstrate that local and global information exchange among visual features
+before self-attention significantly improves performance on challenging object
+detection tasks and generalizes across multiple benchmark datasets and
+challenging medical datasets. We publish source code and a novel dataset of
+cancerous tumors (chimeric cell clusters).
+
+摘要：<paragraph>我們提出了一種新穎的方法，它擴展了視覺轉換器 (ViT) 的自注意力機制，以在不同的資料集上進行更準確的物件偵測。ViT 顯示出強大的影像理解任務能力，例如物件偵測、分割和分類。這部分歸功於它們能夠利用視覺標記之間互動的全局資訊。然而，ViT 中的自注意力機制受到限制，因為它們不允許視覺標記在計算全局注意力之前與鄰近特徵交換局部或全局資訊。這是個問題，因為在對其他標記進行注意力（比對）時，標記會被孤立處理，而有價值的空間關係則被忽略。這種孤立進一步加劇了點積相似度運算，這使得來自不同語義類別的標記看起來在視覺上相似。為了解決這些限制，我們對傳統的自注意力架構進行了兩項修改；一種新穎的積極卷積池化策略，用於局部特徵混合，以及一種新的概念注意力轉換，以促進語義概念之間的互動和特徵交換。實驗結果表明，在自注意力之前視覺特徵之間的局部和全局資訊交換，顯著改善了具有挑戰性的物件偵測任務的效能，並在多個基準資料集和具有挑戰性的醫療資料集上進行概化。我們發布了癌症腫瘤（嵌合細胞簇）的原始碼和新穎資料集。</paragraph>
+
+##### **Successes and Limitations of Object-centric Models at Compositional Generalisation**
+2412.18743v1 by Milton L. Montero, Jeffrey S. Bowers, Gaurav Malhotra
+
+In recent years, it has been shown empirically that standard disentangled
+latent variable models do not support robust compositional learning in the
+visual domain. Indeed, in spite of being designed with the goal of factorising
+datasets into their constituent factors of variations, disentangled models show
+extremely limited compositional generalisation capabilities. On the other hand,
+object-centric architectures have shown promising compositional skills, albeit
+these have 1) not been extensively tested and 2) experiments have been limited
+to scene composition -- where models must generalise to novel combinations of
+objects in a visual scene instead of novel combinations of object properties.
+In this work, we show that these compositional generalisation skills extend to
+this later setting. Furthermore, we present evidence pointing to the source of
+these skills and how they can be improved through careful training. Finally, we
+point to one important limitation that still exists which suggests new
+directions of research.
+
+摘要：近年来，经实证表明，标准解纠缠潜在变量模型不支持视觉领域的鲁棒组合学习。事实上，尽管解纠缠模型的设计目标是将数据集分解为其组成变化因子，但其组合泛化能力却极其有限。另一方面，以对象为中心的架构显示出有希望的组合技能，尽管这些技能 1) 尚未经过广泛测试，并且 2) 实验仅限于场景组合——其中模型必须泛化到视觉场景中对象的组合，而不是对象的组合属性。在这项工作中，我们表明这些组合泛化技能扩展到后一种设置。此外，我们提供了指向这些技能来源的证据，以及如何通过仔细训练来改进这些技能。最后，我们指出了仍然存在的一个重要限制，这提示了新的研究方向。
+
+##### **SurvAttack: Black-Box Attack On Survival Models through Ontology-Informed EHR Perturbation**
+2412.18706v1 by Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Bin Liu, Mei Liu, Zijun Yao
+
+Survival analysis (SA) models have been widely studied in mining electronic
+health records (EHRs), particularly in forecasting the risk of critical
+conditions for prioritizing high-risk patients. However, their vulnerability to
+adversarial attacks is much less explored in the literature. Developing
+black-box perturbation algorithms and evaluating their impact on
+state-of-the-art survival models brings two benefits to medical applications.
+First, it can effectively evaluate the robustness of models in pre-deployment
+testing. Also, exploring how subtle perturbations would result in significantly
+different outcomes can provide counterfactual insights into the clinical
+interpretation of model prediction. In this work, we introduce SurvAttack, a
+novel black-box adversarial attack framework leveraging subtle clinically
+compatible, and semantically consistent perturbations on longitudinal EHRs to
+degrade survival models' predictive performance. We specifically develop a
+greedy algorithm to manipulate medical codes with various adversarial actions
+throughout a patient's medical history. Then, these adversarial actions are
+prioritized using a composite scoring strategy based on multi-aspect
+perturbation quality, including saliency, perturbation stealthiness, and
+clinical meaningfulness. The proposed adversarial EHR perturbation algorithm is
+then used in an efficient SA-specific strategy to attack a survival model when
+estimating the temporal ranking of survival urgency for patients. To
+demonstrate the significance of our work, we conduct extensive experiments,
+including baseline comparisons, explainability analysis, and case studies. The
+experimental results affirm our research's effectiveness in illustrating the
+vulnerabilities of patient survival models, model interpretation, and
+ultimately contributing to healthcare quality.
+
+摘要：<paragraph>存活分析 (SA) 模型已在電子健康紀錄 (EHR) 的探勘中廣泛研究，特別是在預測危急狀況的風險以優先處理高風險患者。然而，文獻中對於它們對抗攻擊的脆弱性探索較少。開發黑盒擾動演算法並評估它們對最新存活模型的影響，為醫療應用帶來兩項好處。首先，它可以在部署前測試中有效評估模型的穩健性。此外，探索細微的擾動如何導致顯著不同的結果，可以提供反事實的見解，以進行模型預測的臨床解釋。在這項工作中，我們介紹了 SurvAttack，一個新穎的黑盒對抗攻擊架構，利用在縱向 EHR 上細微的臨床相容且語義一致的擾動，來降低存活模型的預測效能。我們特別開發了一個貪婪演算法，以各種對抗動作來操縱病歷中的醫療碼。然後，使用基於多方面擾動品質（包括顯著性、擾動隱蔽性和臨床意義）的複合評分策略，對這些對抗動作進行優先排序。然後將提出的對抗性 EHR 擾動演算法用於特定 SA 的有效策略中，以在估計患者存活緊急性的時間排序時攻擊存活模型。為了證明我們工作的意義，我們進行了廣泛的實驗，包括基線比較、可解釋性分析和案例研究。實驗結果肯定了我們的研究在說明患者存活模型、模型解釋的脆弱性，並最終有助於醫療保健品質方面的有效性。</paragraph>
+
+##### **A Review of Latent Representation Models in Neuroimaging**
+2412.19844v1 by C. Vázquez-García, F. J. Martínez-Murcia, F. Segovia Román, Juan M. Górriz
+
+Neuroimaging data, particularly from techniques like MRI or PET, offer rich
+but complex information about brain structure and activity. To manage this
+complexity, latent representation models - such as Autoencoders, Generative
+Adversarial Networks (GANs), and Latent Diffusion Models (LDMs) - are
+increasingly applied. These models are designed to reduce high-dimensional
+neuroimaging data to lower-dimensional latent spaces, where key patterns and
+variations related to brain function can be identified. By modeling these
+latent spaces, researchers hope to gain insights into the biology and function
+of the brain, including how its structure changes with age or disease, or how
+it encodes sensory information, predicts and adapts to new inputs. This review
+discusses how these models are used for clinical applications, like disease
+diagnosis and progression monitoring, but also for exploring fundamental brain
+mechanisms such as active inference and predictive coding. These approaches
+provide a powerful tool for both understanding and simulating the brain's
+complex computational tasks, potentially advancing our knowledge of cognition,
+perception, and neural disorders.
+
+摘要：神經影像資料，特別是來自於 MRI 或 PET 等技術，提供豐富但複雜的大腦結構與活動資訊。為了處理這種複雜性，潛在表徵模型（例如自動編碼器、生成對抗網路 (GAN) 和潛在擴散模型 (LDM)）的應用日益增加。這些模型旨在將高維度神經影像資料降維至低維度潛在空間，在其中可以識別與大腦功能相關的主要模式和變化。透過對這些潛在空間建模，研究人員希望深入了解大腦的生物學和功能，包括其結構如何隨著年齡或疾病而改變，或如何編碼感官資訊、預測和適應新的輸入。本篇評論探討這些模型如何用於臨床應用，例如疾病診斷和進程監控，以及探索主動推論和預測編碼等基本大腦機制。這些方法提供了一個強大的工具，可以用於理解和模擬大腦複雜的運算任務，並有可能增進我們對認知、知覺和神經疾病的認識。
+
+##### **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**
+2412.18597v1 by Minghong Cai, Xiaodong Cun, Xiaoyu Li, Wenze Liu, Zhaoyang Zhang, Yong Zhang, Ying Shan, Xiangyu Yue
+
+Sora-like video generation models have achieved remarkable progress with a
+Multi-Modal Diffusion Transformer MM-DiT architecture. However, the current
+video generation models predominantly focus on single-prompt, struggling to
+generate coherent scenes with multiple sequential prompts that better reflect
+real-world dynamic scenarios. While some pioneering works have explored
+multi-prompt video generation, they face significant challenges including
+strict training data requirements, weak prompt following, and unnatural
+transitions. To address these problems, we propose DiTCtrl, a training-free
+multi-prompt video generation method under MM-DiT architectures for the first
+time. Our key idea is to take the multi-prompt video generation task as
+temporal video editing with smooth transitions. To achieve this goal, we first
+analyze MM-DiT's attention mechanism, finding that the 3D full attention
+behaves similarly to that of the cross/self-attention blocks in the UNet-like
+diffusion models, enabling mask-guided precise semantic control across
+different prompts with attention sharing for multi-prompt video generation.
+Based on our careful design, the video generated by DiTCtrl achieves smooth
+transitions and consistent object motion given multiple sequential prompts
+without additional training. Besides, we also present MPVBench, a new benchmark
+specially designed for multi-prompt video generation to evaluate the
+performance of multi-prompt generation. Extensive experiments demonstrate that
+our method achieves state-of-the-art performance without additional training.
+
+摘要：類 Sora 的影片生成模型在多模態擴散Transformer MM-DiT 架構中取得顯著進展。然而，目前的影片生成模型主要專注於單一提示，難以生成包含多個循序提示的連貫場景，而這些提示更能反映真實世界的動態場景。儘管一些開創性的作品已探索多提示影片生成，但它們面臨嚴峻的挑戰，包括嚴格的訓練資料需求、提示追蹤能力不佳以及不自然的轉換。為了解決這些問題，我們提出 DiTCtrl，這是一種在 MM-DiT 架構下首次使用的免訓練多提示影片生成方法。我們的關鍵想法是將多提示影片生成任務視為具有平滑轉換的時序影片編輯。為了達成此目標，我們首先分析 MM-DiT 的注意力機制，發現 3D 全注意力與 UNet 類擴散模型中的交叉/自我注意力區塊有類似的行為，這使得我們能夠透過注意力共享進行遮罩導引的精確語意控制，以進行多提示影片生成。根據我們的精細設計，DiTCtrl 生成的影片在給定多個循序提示的情況下，可以實現平滑的轉換和一致的物件動作，而不需要額外的訓練。此外，我們還提出了 MPVBench，這是一個專門設計用於多提示影片生成的新基準，用於評估多提示生成的效果。廣泛的實驗證明，我們的方法在沒有額外訓練的情況下，達到了最先進的效能。
+
+##### **Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**
+2412.18545v1 by Mingyuan Meng, Michael Fulham, Lei Bi, Jinman Kim
+
+Deformable image registration is a fundamental requirement for medical image
+analysis. Recently, transformers have been widely used in deep learning-based
+registration methods for their ability to capture long-range dependency via
+self-attention (SA). However, the high computation and memory loads of SA
+(growing quadratically with the spatial resolution) hinder transformers from
+processing subtle textural information in high-resolution image features, e.g.,
+at the full and half image resolutions. This limits deformable registration as
+the high-resolution textural information is crucial for finding precise
+pixel-wise correspondence between subtle anatomical structures.
+Cross-covariance Attention (XCA), as a "transposed" version of SA that operates
+across feature channels, has complexity growing linearly with the spatial
+resolution, providing the feasibility of capturing long-range dependency among
+high-resolution image features. However, existing XCA-based transformers merely
+capture coarse global long-range dependency, which are unsuitable for
+deformable image registration relying primarily on fine-grained local
+correspondence. In this study, we propose to improve existing deep
+learning-based registration methods by embedding a new XCA mechanism. To this
+end, we design an XCA-based transformer block optimized for deformable medical
+image registration, named Multi-Axis XCA (MAXCA). Our MAXCA serves as a general
+network block that can be embedded into various registration network
+architectures. It can capture both global and local long-range dependency among
+high-resolution image features by applying regional and dilated XCA in parallel
+via a multi-axis design. Extensive experiments on two well-benchmarked
+inter-/intra-patient registration tasks with seven public medical datasets
+demonstrate that our MAXCA block enables state-of-the-art registration
+performance.
+
+摘要：可變形影像配準是醫學影像分析的基本需求。最近，Transformer已廣泛用於基於深度學習的配準方法，因為它們能透過自我注意 (SA) 擷取長程依賴性。然而，SA 的高運算和記憶體負載（隨著空間解析度呈二次成長）會阻礙Transformer處理高解析度影像特徵中的細微紋理資訊，例如在完整和半影像解析度中。這限制了可變形配準，因為高解析度紋理資訊對於在細微解剖結構之間找到精確的像素對應至關重要。跨協方差注意 (XCA) 作為 SA 的「轉置」版本，其運作跨特徵通道，複雜度隨著空間解析度呈線性成長，提供擷取高解析度影像特徵之間長程依賴性的可行性。然而，現有的基於 XCA 的Transformer僅擷取粗略的全局長程依賴性，這不適合主要依賴細粒度局部對應的可變形影像配準。在本研究中，我們提出透過嵌入新的 XCA 機制來改善現有的基於深度學習的配準方法。為此，我們設計了一個針對可變形醫學影像配準最佳化的基於 XCA 的Transformer區塊，稱為多軸 XCA (MAXCA)。我們的 MAXCA 是一個通用網路區塊，可以嵌入到各種配準網路架構中。它可以透過多軸設計並行應用區域和膨脹的 XCA，來擷取高解析度影像特徵之間的全局和局部長程依賴性。在兩個廣泛基準化的患者間/患者內配準任務中，使用七個公共醫學資料集進行的廣泛實驗證明，我們的 MAXCA 區塊能實現最先進的配準效能。
+
+##### **Multi-Agent Norm Perception and Induction in Distributed Healthcare**
+2412.18454v1 by Chao Li, Olga Petruchik, Elizaveta Grishanina, Sergey Kovalchuk
+
+This paper presents a Multi-Agent Norm Perception and Induction Learning
+Model aimed at facilitating the integration of autonomous agent systems into
+distributed healthcare environments through dynamic interaction processes. The
+nature of the medical norm system and its sharing channels necessitates
+distinct approaches for Multi-Agent Systems to learn two types of norms.
+Building on this foundation, the model enables agents to simultaneously learn
+descriptive norms, which capture collective tendencies, and prescriptive norms,
+which dictate ideal behaviors. Through parameterized mixed probability density
+models and practice-enhanced Markov games, the multi-agent system perceives
+descriptive norms in dynamic interactions and captures emergent prescriptive
+norms. We conducted experiments using a dataset from a neurological medical
+center spanning from 2016 to 2020.
+
+摘要：本文提出了一個多主體規範感知與歸納學習模型，旨在透過動態互動程序促進自主主體系統整合到分散式醫療保健環境中。醫療規範系統的本質及其共享管道需要不同的方法，讓多主體系統學習兩種規範。基於此基礎，該模型讓主體能夠同時學習描述性規範（捕捉集體傾向）和規範性規範（規定理想行為）。透過參數化混合機率密度模型和實務增強馬可夫博弈，多主體系統在動態互動中感知描述性規範，並捕捉新興的規範性規範。我們使用 2016 年至 2020 年期間一個神經醫學醫療中心的数据集進行了實驗。
+
+##### **Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**
+2412.18419v1 by Zihan Zhou, Ziyi Zeng, Wenhao Jiang, Yihui Zhu, Jiaxin Mao, Yonggui Yuan, Min Xia, Shubin Zhao, Mengyu Yao, Yunqian Chen
+
+As social changes accelerate, the incidence of psychosomatic disorders has
+significantly increased, becoming a major challenge in global health issues.
+This necessitates an innovative knowledge system and analytical methods to aid
+in diagnosis and treatment. Here, we establish the ontology model and entity
+types, using the BERT model and LoRA-tuned LLM for named entity recognition,
+constructing the knowledge graph with 9668 triples. Next, by analyzing the
+network distances between disease, symptom, and drug modules, it was found that
+closer network distances among diseases can predict greater similarities in
+their clinical manifestations, treatment approaches, and psychological
+mechanisms, and closer distances between symptoms indicate that they are more
+likely to co-occur. Lastly, by comparing the proximity d and proximity z score,
+it was shown that symptom-disease pairs in primary diagnostic relationships
+have a stronger association and are of higher referential value than those in
+diagnostic relationships. The research results revealed the potential
+connections between diseases, co-occurring symptoms, and similarities in
+treatment strategies, providing new perspectives for the diagnosis and
+treatment of psychosomatic disorders and valuable information for future mental
+health research and practice.
+
+摘要：隨著社會變遷加速，心身疾病發生率顯著增加，成為全球衛生議題上的重大挑戰。這需要創新的知識體系與分析方法，以協助診斷與治療。在此，我們建立了本体模型與實體類型，利用 BERT 模型與 LoRA 調校過的 LLM 進行命名實體辨識，建構出 9668 個三元組的知識圖譜。接著，透過分析疾病、症狀、藥物模組間的網路距離，發現疾病間較近的網路距離，可預測其臨床表現、治療方式、心理機轉的相似性較高；而症狀間距離較近，則表示較可能共現。最後，透過比較接近度 d 與接近度 z 分數，發現初次診斷關係中的症狀-疾病對，其關聯性較強、參考價值較高，優於診斷關係中的症狀-疾病對。研究成果揭示了疾病、共現症狀、治療策略間的潛在關聯，為心身疾病的診斷與治療提供了新的觀點，也為未來心理健康研究與實務提供了寶貴的資訊。
+
+##### **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**
+2412.18370v2 by Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
+
+Graph neural networks (GNNs) have emerged as an effective tool for fraud
+detection, identifying fraudulent users, and uncovering malicious behaviors.
+However, attacks against GNN-based fraud detectors and their risks have rarely
+been studied, thereby leaving potential threats unaddressed. Recent findings
+suggest that frauds are increasingly organized as gangs or groups. In this
+work, we design attack scenarios where fraud gangs aim to make their fraud
+nodes misclassified as benign by camouflaging their illicit activities in
+collusion. Based on these scenarios, we study adversarial attacks against
+GNN-based fraud detectors by simulating attacks of fraud gangs in three
+real-world fraud cases: spam reviews, fake news, and medical insurance frauds.
+We define these attacks as multi-target graph injection attacks and propose
+MonTi, a transformer-based Multi-target one-Time graph injection attack model.
+MonTi simultaneously generates attributes and edges of all attack nodes with a
+transformer encoder, capturing interdependencies between attributes and edges
+more effectively than most existing graph injection attack methods that
+generate these elements sequentially. Additionally, MonTi adaptively allocates
+the degree budget for each attack node to explore diverse injection structures
+involving target, candidate, and attack nodes, unlike existing methods that fix
+the degree budget across all attack nodes. Experiments show that MonTi
+outperforms the state-of-the-art graph injection attack methods on five
+real-world graphs.
+
+摘要：圖神經網路 (GNN) 已成為詐欺偵測、識別詐騙使用者和揭露惡意行為的有效工具。
+然而，針對基於 GNN 的詐欺偵測器的攻擊及其風險鮮少被研究，因此潛在威脅仍未獲得解決。最近的研究結果表明，詐欺行為正日益以幫派或團體的形式組織起來。在本文中，我們設計了攻擊情境，其中詐欺幫派旨在通過串通掩護其非法活動，使他們的詐欺節點被錯誤分類為良性。基於這些情境，我們通過模擬三個真實世界的詐欺案例（垃圾評論、假新聞和醫療保險詐欺）中的詐欺幫派攻擊來研究針對基於 GNN 的詐欺偵測器的對抗性攻擊。我們將這些攻擊定義為多目標圖形注入攻擊，並提出 MonTi，一個基於 Transformer 的多目標一次性圖形注入攻擊模型。MonTi 同時使用 Transformer 編碼器生成所有攻擊節點的屬性和邊緣，比大多數現有的圖形注入攻擊方法更有效地捕捉屬性和邊緣之間的相互依賴性，後者按順序生成這些元素。此外，與固定所有攻擊節點的度預算的現有方法不同，MonTi 自適應地分配每個攻擊節點的度預算，以探索涉及目標、候選和攻擊節點的多樣化注入結構。實驗表明，MonTi 在五個真實世界圖形上優於最先進的圖形注入攻擊方法。
+
+##### **Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**
+2412.18096v1 by Yu He Ke, Liyuan Jin, Kabilan Elangovan, Bryan Wen Xi Ong, Chin Yang Oh, Jacqueline Sim, Kenny Wei-Tsen Loh, Chai Rick Soh, Jonathan Ming Hua Cheng, Aaron Kwang Yang Lee, Daniel Shu Wei Ting, Nan Liu, Hairil Rizal Abdullah
+
+Large Language Models (LLMs) are emerging as powerful tools in healthcare,
+particularly for complex, domain-specific tasks. This study describes the
+development and evaluation of the PErioperative AI CHatbot (PEACH), a secure
+LLM-based system integrated with local perioperative guidelines to support
+preoperative clinical decision-making. PEACH was embedded with 35 institutional
+perioperative protocols in the secure Claude 3.5 Sonet LLM framework within
+Pair Chat (developed by Singapore Government) and tested in a silent deployment
+with real-world data. Accuracy, safety, and usability were assessed. Deviations
+and hallucinations were categorized based on potential harm, and user feedback
+was evaluated using the Technology Acceptance Model (TAM). Updates were made
+after the initial silent deployment to amend one protocol.
+  In 240 real-world clinical iterations, PEACH achieved a first-generation
+accuracy of 97.5% (78/80) and an overall accuracy of 96.7% (232/240) across
+three iterations. The updated PEACH demonstrated improved accuracy of 97.9%
+(235/240), with a statistically significant difference from the null hypothesis
+of 95% accuracy (p = 0.018, 95% CI: 0.952-0.991). Minimal hallucinations and
+deviations were observed (both 1/240 and 2/240, respectively). Clinicians
+reported that PEACH expedited decisions in 95% of cases, and inter-rater
+reliability ranged from kappa 0.772-0.893 within PEACH and 0.610-0.784 among
+attendings.
+  PEACH is an accurate, adaptable tool that enhances consistency and efficiency
+in perioperative decision-making. Future research should explore its
+scalability across specialties and its impact on clinical outcomes.
+
+摘要：大型語言模型 (LLM) 正成為醫療保健領域強大的工具，特別適用於複雜的特定領域任務。本研究描述了圍手術期 AI 聊天機器人 (PEACH) 的開發和評估，這是一個安全的 LLM 基礎系統，與本地的圍手術期準則整合，以支援術前臨床決策制定。PEACH 嵌入 35 個機構圍手術期協定，在新加坡政府開發的 Pair Chat 中，採用安全的 Claude 3.5 Sonet LLM 架構，並在靜默部署中使用真實世界資料進行測試。評估了準確性、安全性及可用性。偏差和幻覺依潛在危害進行分類，並使用技術接受模型 (TAM) 評估使用者回饋。在最初的靜默部署後，進行更新以修正一個協定。
+  在 240 個真實世界的臨床迭代中，PEACH 在三個迭代中取得 97.5% (78/80) 的第一代準確性，以及 96.7% (232/240) 的整體準確性。更新後的 PEACH 展示出 97.9% (235/240) 的準確性提升，與 95% 準確性的空假設有統計上的顯著差異 (p = 0.018，95% CI：0.952-0.991)。觀察到最小的幻覺和偏差 (分別為 1/240 和 2/240)。臨床醫生回報 PEACH 在 95% 的案例中加速了決策，而評分者間信度在 PEACH 內介於 kappa 0.772-0.893，在主治醫師之間介於 0.610-0.784。
+  PEACH 是一個準確且適應性強的工具，可增進圍手術期決策制定的一致性和效率。未來的研究應探索其跨專業的可擴展性，以及其對臨床結果的影響。
+
+##### **Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**
+2412.18043v1 by Yidong Gan, Maciej Rybinski, Ben Hachey, Jonathan K. Kummerfeld
+
+Clinical coding is crucial for healthcare billing and data analysis. Manual
+clinical coding is labour-intensive and error-prone, which has motivated
+research towards full automation of the process. However, our analysis, based
+on US English electronic health records and automated coding research using
+these records, shows that widely used evaluation methods are not aligned with
+real clinical contexts. For example, evaluations that focus on the top 50 most
+common codes are an oversimplification, as there are thousands of codes used in
+practice. This position paper aims to align AI coding research more closely
+with practical challenges of clinical coding. Based on our analysis, we offer
+eight specific recommendations, suggesting ways to improve current evaluation
+methods. Additionally, we propose new AI-based methods beyond automated coding,
+suggesting alternative approaches to assist clinical coders in their workflows.
+
+摘要：臨床編碼對於醫療保健計費和數據分析至關重要。手動臨床編碼勞力密集且容易出錯，這促使研究朝向流程的全面自動化。然而，我們的分析基於美國英文電子健康記錄和使用這些記錄的自動編碼研究，顯示廣泛使用的評估方法與實際臨床背景不符。例如，專注於前 50 個最常見代碼的評估過於簡化，因為實務上使用了數千個代碼。本立場文件旨在讓 AI 編碼研究更貼近臨床編碼的實際挑戰。根據我們的分析，我們提出八項具體建議，提出改善目前評估方法的方法。此外，我們提出超越自動編碼的新 AI 方法，提出協助臨床編碼人員進行工作流程的替代方法。
+
+
+### LLM
+|Publish Date|Title|Authors|Homepage|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452v1](http://arxiv.org/abs/2501.05452v1)|null|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453v1](http://arxiv.org/abs/2501.05453v1)|null|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445v1](http://arxiv.org/abs/2501.05445v1)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443v1](http://arxiv.org/abs/2501.05443v1)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442v1](http://arxiv.org/abs/2501.05442v1)|null|
+|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414v1](http://arxiv.org/abs/2501.05414v1)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|null|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408v1](http://arxiv.org/abs/2501.05408v1)|null|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403v1](http://arxiv.org/abs/2501.05403v1)|null|
+|**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401v1](http://arxiv.org/abs/2501.05401v1)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396v1](http://arxiv.org/abs/2501.05396v1)|null|
+|**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382v1](http://arxiv.org/abs/2501.05382v1)|null|
+|**2025-01-09**|**Developing a Foundation of Vector Symbolic Architectures Using Category Theory**|Nolan P Shaw et.al.|[2501.05368v1](http://arxiv.org/abs/2501.05368v1)|null|
+|**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366v1](http://arxiv.org/abs/2501.05366v1)|null|
+|**2025-01-09**|**On Corrigibility and Alignment in Multi Agent Games**|Edmund Dable-Heath et.al.|[2501.05360v1](http://arxiv.org/abs/2501.05360v1)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336v1](http://arxiv.org/abs/2501.05336v1)|null|
+|**2025-01-09**|**The Bakers and Millers Game with Restricted Locations**|Simon Krogmann et.al.|[2501.05334v1](http://arxiv.org/abs/2501.05334v1)|null|
+|**2025-01-09**|**AnCoGen: Analysis, Control and Generation of Speech with a Masked Autoencoder**|Samir Sadok et.al.|[2501.05332v1](http://arxiv.org/abs/2501.05332v1)|null|
+|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260v1](http://arxiv.org/abs/2501.05260v1)|[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)|
+|**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258v1](http://arxiv.org/abs/2501.05258v1)|null|
+|**2025-01-09**|**CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**|Yewei Song et.al.|[2501.05255v1](http://arxiv.org/abs/2501.05255v1)|null|
+|**2025-01-09**|**From Scientific Texts to Verifiable Code: Automating the Process with Transformers**|Changjie Wang et.al.|[2501.05252v1](http://arxiv.org/abs/2501.05252v1)|null|
+|**2025-01-09**|**RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models**|Peizhuo Lv et.al.|[2501.05249v1](http://arxiv.org/abs/2501.05249v1)|null|
+|**2025-01-09**|**Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**|Laura Puccioni et.al.|[2501.05248v1](http://arxiv.org/abs/2501.05248v1)|null|
+|**2025-01-09**|**Online Prompt and Solver Selection for Program Synthesis**|Yixuan Li et.al.|[2501.05247v1](http://arxiv.org/abs/2501.05247v1)|null|
+|**2025-01-09**|**Optimizing Estonian TV Subtitles with Semi-supervised Learning and LLMs**|Artem Fedorchenko et.al.|[2501.05234v1](http://arxiv.org/abs/2501.05234v1)|null|
+|**2025-01-09**|**Leveraging Large Language Models for Zero-shot Lay Summarisation in Biomedicine and Beyond**|Tomas Goldsack et.al.|[2501.05224v1](http://arxiv.org/abs/2501.05224v1)|null|
+|**2025-01-09**|**ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction**|Léane Jourdan et.al.|[2501.05222v1](http://arxiv.org/abs/2501.05222v1)|null|
+|**2025-01-09**|**A Novel Approach to Scalable and Automatic Topic-Controlled Question Generation in Education**|Ziqing Li et.al.|[2501.05220v1](http://arxiv.org/abs/2501.05220v1)|null|
+|**2025-01-09**|**GLaM-Sign: Greek Language Multimodal Lip Reading with Integrated Sign Language Accessibility**|Dimitris Kouremenos et.al.|[2501.05213v1](http://arxiv.org/abs/2501.05213v1)|null|
+|**2025-01-09**|**Discovering Hidden Visual Concepts Beyond Linguistic Input in Infant Learning**|Xueyi Ke et.al.|[2501.05205v1](http://arxiv.org/abs/2501.05205v1)|null|
+|**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165v1](http://arxiv.org/abs/2501.05165v1)|null|
+|**2025-01-09**|**Explainable AI based System for Supply Air Temperature Forecast**|Marika Eik et.al.|[2501.05163v1](http://arxiv.org/abs/2501.05163v1)|null|
+|**2025-01-09**|**Biomedical Relation Extraction via Adaptive Document-Relation Cross-Mapping and Concept Unique Identifier**|Yufei Shang et.al.|[2501.05155v1](http://arxiv.org/abs/2501.05155v1)|null|
+|**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147v1](http://arxiv.org/abs/2501.05147v1)|null|
+|**2025-01-09**|**Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model**|Gregor Geigle et.al.|[2501.05122v1](http://arxiv.org/abs/2501.05122v1)|null|
+|**2025-01-09**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113v1](http://arxiv.org/abs/2501.05113v1)|null|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095v1](http://arxiv.org/abs/2501.05095v1)|null|
+|**2025-01-09**|**Comparison of Feature Learning Methods for Metadata Extraction from PDF Scholarly Documents**|Zeyd Boukhers et.al.|[2501.05082v1](http://arxiv.org/abs/2501.05082v1)|null|
+|**2025-01-09**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079v1](http://arxiv.org/abs/2501.05079v1)|null|
+|**2025-01-09**|**Analyzing Memorization in Large Language Models through the Lens of Model Attribution**|Tarun Ram Menta et.al.|[2501.05078v1](http://arxiv.org/abs/2501.05078v1)|null|
+|**2025-01-09**|**A Text-Based Knowledge-Embedded Soft Sensing Modeling Approach for General Industrial Process Tasks Based on Large Language Model**|Shuo Tong et.al.|[2501.05075v1](http://arxiv.org/abs/2501.05075v1)|null|
+|**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069v1](http://arxiv.org/abs/2501.05069v1)|null|
+|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v1](http://arxiv.org/abs/2501.05068v1)|null|
+|**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067v1](http://arxiv.org/abs/2501.05067v1)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|null|
+|**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058v1](http://arxiv.org/abs/2501.05058v1)|null|
+|**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053v1](http://arxiv.org/abs/2501.05053v1)|null|
+|**2025-01-09**|**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**|Chengxing Xie et.al.|[2501.05040v1](http://arxiv.org/abs/2501.05040v1)|null|
+|**2025-01-09**|**Enhancing Human-Like Responses in Large Language Models**|Ethem Yağız Çalık et.al.|[2501.05032v1](http://arxiv.org/abs/2501.05032v1)|null|
+|**2025-01-09**|**A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications**|Ofir Marom et.al.|[2501.05030v1](http://arxiv.org/abs/2501.05030v1)|null|
+|**2025-01-09**|**Finding Needles in Emb(a)dding Haystacks: Legal Document Retrieval via Bagging and SVR Ensembles**|Kevin Bönisch et.al.|[2501.05018v1](http://arxiv.org/abs/2501.05018v1)|[link](https://github.com/TheItCrOw/LIRAI24)|
+|**2025-01-09**|**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**|Oleg Sautenkov et.al.|[2501.05014v1](http://arxiv.org/abs/2501.05014v1)|null|
+|**2025-01-09**|**Quantum-enhanced causal discovery for a small number of samples**|Yota Maeda et.al.|[2501.05007v1](http://arxiv.org/abs/2501.05007v1)|null|
+|**2025-01-09**|**GiNet: Integrating Sequential and Context-Aware Learning for Battery Capacity Prediction**|Sara Sameer et.al.|[2501.04997v1](http://arxiv.org/abs/2501.04997v1)|null|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995v1](http://arxiv.org/abs/2501.04995v1)|null|
+|**2025-01-09**|**TreeKV: Smooth Key-Value Cache Compression with Tree Structures**|Ziwei He et.al.|[2501.04987v1](http://arxiv.org/abs/2501.04987v1)|null|
+|**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982v1](http://arxiv.org/abs/2501.04982v1)|null|
+|**2025-01-09**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v1](http://arxiv.org/abs/2501.04974v1)|null|
+|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970v1](http://arxiv.org/abs/2501.04970v1)|null|
+|**2025-01-09**|**VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models**|Wenqian Cui et.al.|[2501.04962v1](http://arxiv.org/abs/2501.04962v1)|null|
+|**2025-01-09**|**Demystifying Domain-adaptive Post-training for Financial LLMs**|Zixuan Ke et.al.|[2501.04961v1](http://arxiv.org/abs/2501.04961v1)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**|Qingyu Ren et.al.|[2501.04945v1](http://arxiv.org/abs/2501.04945v1)|null|
+|**2025-01-09**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|
+|**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928v1](http://arxiv.org/abs/2501.04928v1)|null|
+|**2025-01-09**|**Investigating Numerical Translation with Large Language Models**|Wei Tang et.al.|[2501.04927v1](http://arxiv.org/abs/2501.04927v1)|null|
+|**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926v1](http://arxiv.org/abs/2501.04926v1)|null|
+|**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904v1](http://arxiv.org/abs/2501.04904v1)|null|
+|**2025-01-09**|**SUGAR: Leveraging Contextual Confidence for Smarter Retrieval**|Hanna Zubkova et.al.|[2501.04899v1](http://arxiv.org/abs/2501.04899v1)|null|
+|**2025-01-08**|**Reach Measurement, Optimization and Frequency Capping In Targeted Online Advertising Under k-Anonymity**|Yuan Gao et.al.|[2501.04882v1](http://arxiv.org/abs/2501.04882v1)|null|
+|**2025-01-08**|**Leveraging Log Probabilities in Language Models to Forecast Future Events**|Tommaso Soru et.al.|[2501.04880v1](http://arxiv.org/abs/2501.04880v1)|null|
+|**2025-01-08**|**Real-Time Textless Dialogue Generation**|Long Mai et.al.|[2501.04877v1](http://arxiv.org/abs/2501.04877v1)|null|
+|**2025-01-08**|**Back Home: A Machine Learning Approach to Seashell Classification and Ecosystem Restoration**|Alexander Valverde et.al.|[2501.04873v1](http://arxiv.org/abs/2501.04873v1)|null|
+|**2025-01-08**|**Advancing Retrieval-Augmented Generation for Persian: Development of Language Models, Comprehensive Benchmarks, and Best Practices for Optimization**|Sara Bourbour Hosseinbeigi et.al.|[2501.04858v1](http://arxiv.org/abs/2501.04858v1)|null|
+|**2025-01-08**|**Exploring Large Language Models for Semantic Analysis and Categorization of Android Malware**|Brandon J Walton et.al.|[2501.04848v1](http://arxiv.org/abs/2501.04848v1)|null|
+|**2025-01-08**|**Enhancing Listened Speech Decoding from EEG via Parallel Phoneme Sequence Prediction**|Jihwan Lee et.al.|[2501.04844v1](http://arxiv.org/abs/2501.04844v1)|null|
+|**2025-01-08**|**Do Code LLMs Understand Design Patterns?**|Zhenyu Pan et.al.|[2501.04835v1](http://arxiv.org/abs/2501.04835v1)|null|
+|**2025-01-08**|**ActPC-Geom: Towards Scalable Online Neural-Symbolic Learning via Accelerating Active Predictive Coding with Information Geometry & Diverse Cognitive Mechanisms**|Ben Goertzel et.al.|[2501.04832v1](http://arxiv.org/abs/2501.04832v1)|null|
+|**2025-01-08**|**Building Foundations for Natural Language Processing of Historical Turkish: Resources and Models**|Şaziye Betül Özateş et.al.|[2501.04828v1](http://arxiv.org/abs/2501.04828v1)|null|
+|**2025-01-08**|**Intelligent Gradient Boosting Algorithms for Estimating Strength of Modified Subgrade Soil**|Ismail B. Mustapha et.al.|[2501.04826v1](http://arxiv.org/abs/2501.04826v1)|null|
+|**2025-01-08**|**Unifying the Extremes: Developing a Unified Model for Detecting and Predicting Extremist Traits and Radicalization**|Allison Lahnala et.al.|[2501.04820v1](http://arxiv.org/abs/2501.04820v1)|null|
+|**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817v1](http://arxiv.org/abs/2501.04817v1)|null|
+|**2025-01-08**|**Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval**|Yongkang Li et.al.|[2501.04802v1](http://arxiv.org/abs/2501.04802v1)|[link](https://github.com/liyongkang123/hotflip_corpus_poisoning)|
+|**2025-01-08**|**Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**|Sanjana Sankar et.al.|[2501.04799v1](http://arxiv.org/abs/2501.04799v1)|null|
+|**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
+|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697v1](http://arxiv.org/abs/2501.04697v1)|[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)|
+|**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694v1](http://arxiv.org/abs/2501.04694v1)|null|
+|**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693v1](http://arxiv.org/abs/2501.04693v1)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**TREAD: Token Routing for Efficient Architecture-agnostic Diffusion Training**|Felix Krause et.al.|[2501.04765v1](http://arxiv.org/abs/2501.04765v1)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675v1](http://arxiv.org/abs/2501.04675v1)|null|
+|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
+|**2025-01-08**|**On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**|Tarek Naous et.al.|[2501.04662v1](http://arxiv.org/abs/2501.04662v1)|null|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661v1](http://arxiv.org/abs/2501.04661v1)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
+
+#### Abstracts
+##### **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**
+2501.05452v1 by Xingyu Fu, Minqian Liu, Zhengyuan Yang, John Corring, Yijuan Lu, Jianwei Yang, Dan Roth, Dinei Florencio, Cha Zhang
+
+Structured image understanding, such as interpreting tables and charts,
+requires strategically refocusing across various structures and texts within an
+image, forming a reasoning sequence to arrive at the final answer. However,
+current multimodal large language models (LLMs) lack this multihop selective
+attention capability. In this work, we introduce ReFocus, a simple yet
+effective framework that equips multimodal LLMs with the ability to generate
+"visual thoughts" by performing visual editing on the input image through code,
+shifting and refining their visual focuses. Specifically, ReFocus enables
+multimodal LLMs to generate Python codes to call tools and modify the input
+image, sequentially drawing boxes, highlighting sections, and masking out
+areas, thereby enhancing the visual reasoning process. We experiment upon a
+wide range of structured image understanding tasks involving tables and charts.
+ReFocus largely improves performance on all tasks over GPT-4o without visual
+editing, yielding an average gain of 11.0% on table tasks and 6.8% on chart
+tasks. We present an in-depth analysis of the effects of different visual
+edits, and reasons why ReFocus can improve the performance without introducing
+additional information. Further, we collect a 14k training set using ReFocus,
+and prove that such visual chain-of-thought with intermediate information
+offers a better supervision than standard VQA data, reaching a 8.0% average
+gain over the same model trained with QA pairs and 2.6% over CoT.
+
+摘要：結構化影像理解，例如詮釋表格和圖表，需要在影像中的各種結構和文字中策略性地重新聚焦，形成推理序列才能得出最終答案。然而，目前的多模態大型語言模型 (LLM) 缺乏這種多跳選擇性注意力的能力。在這項工作中，我們引入了 ReFocus，一個簡單但有效的框架，它賦予多模態 LLM 透過程式碼對輸入影像進行視覺編輯、轉移和優化其視覺焦點的能力，以產生「視覺思考」。具體來說，ReFocus 能讓多模態 LLM 產生 Python 程式碼來呼叫工具並修改輸入影像，循序漸進地繪製方塊、重點標示區段，以及遮蔽區域，從而增強視覺推理過程。我們在涉及表格和圖表的各種結構化影像理解任務中進行實驗。ReFocus 大幅提升了 GPT-4o 在所有任務上的表現，在沒有視覺編輯的情況下，在表格任務上平均提升了 11.0%，在圖表任務上提升了 6.8%。我們對不同視覺編輯的效果進行了深入分析，並說明了 ReFocus 如何在不引入額外資訊的情況下提升表現的原因。此外，我們使用 ReFocus 收集了一個 14k 訓練集，並證明這種包含中間資訊的視覺思考鏈比標準的 VQA 資料提供了更好的監督，在使用 QA 對訓練的相同模型上平均提升了 8.0%，在 CoT 上提升了 2.6%。
+
+##### **An Empirical Study of Autoregressive Pre-training from Videos**
+2501.05453v1 by Jathushan Rajasegaran, Ilija Radosavovic, Rahul Ravishankar, Yossi Gandelsman, Christoph Feichtenhofer, Jitendra Malik
+
+We empirically study autoregressive pre-training from videos. To perform our
+study, we construct a series of autoregressive video models, called Toto. We
+treat videos as sequences of visual tokens and train transformer models to
+autoregressively predict future tokens. Our models are pre-trained on a diverse
+dataset of videos and images comprising over 1 trillion visual tokens. We
+explore different architectural, training, and inference design choices. We
+evaluate the learned visual representations on a range of downstream tasks
+including image recognition, video classification, object tracking, and
+robotics. Our results demonstrate that, despite minimal inductive biases,
+autoregressive pre-training leads to competitive performance across all
+benchmarks. Finally, we find that scaling our video models results in similar
+scaling curves to those seen in language models, albeit with a different rate.
+More details at https://brjathu.github.io/toto/
+
+摘要：我們實證研究影片的回歸前訓練。為了執行我們的研究，我們建構了一系列回歸影片模型，稱為 Toto。我們將影片視為視覺符號序列，並訓練Transformer模型以回歸預測未來符號。我們的模型在超過 1 兆個視覺符號的多元影片和影像資料集上進行預訓練。我們探索不同的架構、訓練和推論設計選項。我們在各種下游任務上評估學習到的視覺表徵，包括影像辨識、影片分類、物件追蹤和機器人技術。我們的結果證明，儘管歸納偏誤最少，回歸前訓練仍能讓所有基準測試的效能具有競爭力。最後，我們發現擴充我們的影片模型會產生與語言模型中看到的類似擴充曲線，儘管速率不同。更多詳情請參閱 https://brjathu.github.io/toto/
+
+##### **Consistent Flow Distillation for Text-to-3D Generation**
+2501.05445v1 by Runjie Yan, Yinbo Chen, Xiaolong Wang
+
+Score Distillation Sampling (SDS) has made significant strides in distilling
+image-generative models for 3D generation. However, its
+maximum-likelihood-seeking behavior often leads to degraded visual quality and
+diversity, limiting its effectiveness in 3D applications. In this work, we
+propose Consistent Flow Distillation (CFD), which addresses these limitations.
+We begin by leveraging the gradient of the diffusion ODE or SDE sampling
+process to guide the 3D generation. From the gradient-based sampling
+perspective, we find that the consistency of 2D image flows across different
+viewpoints is important for high-quality 3D generation. To achieve this, we
+introduce multi-view consistent Gaussian noise on the 3D object, which can be
+rendered from various viewpoints to compute the flow gradient. Our experiments
+demonstrate that CFD, through consistent flows, significantly outperforms
+previous methods in text-to-3D generation.
+
+摘要：分數蒸餾採樣 (SDS) 在蒸餾用於 3D 生成的影像生成模型方面取得了重大進展。然而，它尋求最大似然的行为通常會導致視覺品質和多樣性降低，限制了它在 3D 應用中的效能。在這項工作中，我們提出了一致流蒸餾 (CFD)，來解決這些限制。我們首先利用擴散 ODE 或 SDE 採樣程序的梯度來引導 3D 生成。從基於梯度的採樣觀點來看，我們發現不同視角的 2D 影像流的一致性對於高品質的 3D 生成非常重要。為了達成此目的，我們在 3D 物件上引入了多視圖一致的高斯雜訊，可以從各種視角渲染它來計算流梯度。我們的實驗證明，CFD 透過一致的流，在文字轉 3D 生成中顯著優於先前的各種方法。
+
+##### **A survey of textual cyber abuse detection using cutting-edge language models and large language models**
+2501.05443v1 by Jose A. Diaz-Garcia, Joao Paulo Carvalho
+
+The success of social media platforms has facilitated the emergence of
+various forms of online abuse within digital communities. This abuse manifests
+in multiple ways, including hate speech, cyberbullying, emotional abuse,
+grooming, and sexting. In this paper, we present a comprehensive analysis of
+the different forms of abuse prevalent in social media, with a particular focus
+on how emerging technologies, such as Language Models (LMs) and Large Language
+Models (LLMs), are reshaping both the detection and generation of abusive
+content within these networks. We delve into the mechanisms through which
+social media abuse is perpetuated, exploring the psychological and social
+impact. Additionally, we examine the dual role of advanced language
+models-highlighting their potential to enhance automated detection systems for
+abusive behavior while also acknowledging their capacity to generate harmful
+content. This paper aims to contribute to the ongoing discourse on online
+safety and ethics, offering insights into the evolving landscape of cyberabuse
+and the technological innovations that both mitigate and exacerbate it.
+
+摘要：社群媒體平台的成功促成了數位社群中各種形式網路霸凌的出現。這種霸凌以多種方式表現，包括仇恨言論、網路霸凌、情緒虐待、誘騙和性簡訊。在本文中，我們對社群媒體中普遍存在的不同形式的霸凌進行了全面的分析，特別關注了新興技術（例如語言模型 (LM) 和大型語言模型 (LLM)）如何重新塑造這些網路中攻擊性內容的偵測和產生。我們深入探討了社群媒體霸凌持續存在的方式，探討了心理和社會影響。此外，我們探討了進階語言模型的雙重角色，強調了它們增強自動偵測系統以偵測攻擊性行為的潛力，同時也承認它們產生有害內容的能力。本文旨在為網路安全和道德的持續討論做出貢獻，提供對網路霸凌演變態勢的見解，以及減輕和加劇網路霸凌的技術創新。
+
+##### **Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**
+2501.05442v1 by Aniruddha Mahapatra, Long Mai, Yitian Zhang, David Bourgin, Feng Liu
+
+Video tokenizers are essential for latent video diffusion models, converting
+raw video data into spatiotemporally compressed latent spaces for efficient
+training. However, extending state-of-the-art video tokenizers to achieve a
+temporal compression ratio beyond 4x without increasing channel capacity poses
+significant challenges. In this work, we propose an alternative approach to
+enhance temporal compression. We find that the reconstruction quality of
+temporally subsampled videos from a low-compression encoder surpasses that of
+high-compression encoders applied to original videos. This indicates that
+high-compression models can leverage representations from lower-compression
+models. Building on this insight, we develop a bootstrapped
+high-temporal-compression model that progressively trains high-compression
+blocks atop well-trained lower-compression models. Our method includes a
+cross-level feature-mixing module to retain information from the pretrained
+low-compression model and guide higher-compression blocks to capture the
+remaining details from the full video sequence. Evaluation of video benchmarks
+shows that our method significantly improves reconstruction quality while
+increasing temporal compression compared to direct extensions of existing video
+tokenizers. Furthermore, the resulting compact latent space effectively trains
+a video diffusion model for high-quality video generation with a reduced token
+budget.
+
+摘要：影片分词器对于潜影片扩散模型至关重要，它将影片原始资料转换为时空压缩潜空间，以利于有效率的训练。然而，将最先进的影片分词器延伸到在不增加通道容量的情况下，实现超过 4 倍的时间压缩比，会带来重大的挑战。在这项研究中，我们提出了一种增强时间压缩的替代方法。我们发现，低压缩编码器中时间子采样的影片的重建质量，胜过应用于原始影片的高压缩编码器。这表示高压缩模型可以利用低压缩模型的表示。基于此见解，我们开发了一个自举高时间压缩模型，它在训练良好的低压缩模型之上，逐步训练高压缩区块。我们的方法包含了一个跨层级特征混合模块，以保留预先训练的低压缩模型中的信息，并引导更高的压缩区块捕捉完整影片序列中剩余的细节。影片基准的评估显示，我们的方法大幅改善了重建质量，同时与现有影片分词器的直接延伸相比，增加了时间压缩。此外，产生的紧凑潜空间有效地训练了一个影片扩散模型，用于高质量影片生成，同时减少了标记预算。
+
+##### **LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**
+2501.05414v1 by Xi Ye, Fangcong Yin, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, Danqi Chen
+
+Existing benchmarks for evaluating long-context language models (LCLMs)
+primarily focus on long-context recall, requiring models to produce short
+responses based on a few critical snippets while processing thousands of
+irrelevant tokens. We introduce LongProc (Long Procedural Generation), a new
+benchmark that requires both the integration of highly dispersed information
+and long-form generation. LongProc consists of six diverse procedural
+generation tasks, such as extracting structured information from HTML pages
+into a TSV format and executing complex search procedures to create travel
+plans. These tasks challenge LCLMs by testing their ability to follow detailed
+procedural instructions, synthesize and reason over dispersed information, and
+generate structured, long-form outputs (up to 8K tokens). Furthermore, as these
+tasks adhere to deterministic procedures and yield structured outputs, they
+enable reliable rule-based evaluation. We evaluate 17 LCLMs on LongProc across
+three difficulty levels, with maximum numbers of output tokens set at 500, 2K,
+and 8K. Notably, while all tested models claim a context window size above 32K
+tokens, open-weight models typically falter on 2K-token tasks, and
+closed-source models like GPT-4o show significant degradation on 8K-token
+tasks. Further analysis reveals that LCLMs struggle to maintain long-range
+coherence in long-form generations. These findings highlight critical
+limitations in current LCLMs and suggest substantial room for improvement. Data
+and code available at: https://princeton-pli.github.io/LongProc
+
+摘要：現有的用於評估長語境語言模型 (LCLM) 的基準主要集中在長語境召回上，要求模型根據幾個關鍵片段產生簡短的回應，同時處理數千個不相關的符號。我們引入了 LongProc（長程序生成），這是一個新的基準，它需要高度分散的資訊整合和長格式生成。LongProc 包含六項不同的程序生成任務，例如將結構化資訊從 HTML 頁面提取到 TSV 格式，以及執行複雜的搜尋程序來建立旅遊計畫。這些任務透過測試 LCLM 遵循詳細程序說明、綜合和推理分散資訊以及生成結構化、長格式輸出（最多 8K 個符號）的能力，對其提出挑戰。此外，由於這些任務遵循確定性的程序並產生結構化的輸出，因此它們能進行可靠的基於規則的評估。我們在三個難度等級上對 17 個 LCLM 進行 LongProc 評估，將輸出符號的最大數量設定為 500、2K 和 8K。值得注意的是，雖然所有測試的模型都宣稱其語境窗口大小超過 32K 個符號，但開放權重模型通常在 2K 符號任務中失敗，而像 GPT-4o 這樣的閉源模型在 8K 符號任務中表現出顯著下降。進一步的分析表明，LCLM 難以在長格式生成中維持長程相干性。這些發現突顯了當前 LCLM 的關鍵限制，並表明有很大的改進空間。資料和程式碼可於以下網址取得：https://princeton-pli.github.io/LongProc
+
+##### **A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**
+2501.05409v1 by Maximilian Alber, Stephan Tietz, Jonas Dippel, Timo Milbich, Timothée Lesort, Panos Korfiatis, Moritz Krügener, Beatriz Perez Cancer, Neelay Shah, Alexander Möllers, Philipp Seegerer, Alexandra Carpen-Amarie, Kai Standvoss, Gabriel Dernbach, Edwin de Jong, Simon Schallenberg, Andreas Kunft, Helmut Hoffer von Ankershoffen, Gavin Schaeferle, Patrick Duffy, Matt Redlon, Philipp Jurmeister, David Horst, Lukas Ruff, Klaus-Robert Müller, Frederick Klauschen, Andrew Norgan
+
+Recent advances in digital pathology have demonstrated the effectiveness of
+foundation models across diverse applications. In this report, we present a
+novel vision foundation model based on the RudolfV approach. Our model was
+trained on a dataset comprising 1.2 million histopathology whole slide images,
+collected from two medical institutions: Mayo Clinic and Charit\'e -
+Universt\"atsmedizin Berlin. Comprehensive evaluations show that our model
+achieves state-of-the-art performance across twenty-one public benchmark
+datasets, even though it is neither the largest model by parameter count nor by
+training dataset size.
+
+摘要：最近在數位病理學的進展已展示出基礎模型在各種應用中的有效性。在此報告中，我們提出一個基於 RudolfV 方法的新穎視覺基礎模型。我們的模型是在一個包含 120 萬張組織病理學全切片影像的資料集上訓練，這些影像來自兩個醫療機構：梅約診所和夏里特大學醫學中心。全面的評估顯示，我們的模型在 21 個公開基準資料集上達到了最先進的效能，儘管它既不是參數計數最大的模型，也不是訓練資料集規模最大的模型。
+
+##### **TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**
+2501.05408v1 by Pedro F. Silvestre, Peter Pietzuch
+
+Modern deep learning (DL) workloads increasingly use complex deep
+reinforcement learning (DRL) algorithms that generate training data within the
+learning loop. This results in programs with several nested loops and dynamic
+data dependencies between tensors. While DL systems with eager execution
+support such dynamism, they lack the optimizations and smart scheduling of
+graph-based execution. Graph-based execution, however, cannot express dynamic
+tensor shapes, instead requiring the use of multiple static subgraphs. Either
+execution model for DRL thus leads to redundant computation, reduced
+parallelism, and less efficient memory management.
+  We describe TimeRL, a system for executing dynamic DRL programs that combines
+the dynamism of eager execution with the whole-program optimizations and
+scheduling of graph-based execution. TimeRL achieves this by introducing the
+declarative programming model of recurrent tensors, which allows users to
+define dynamic dependencies as intuitive recurrence equations. TimeRL
+translates recurrent tensors into a polyhedral dependence graph (PDG) with
+dynamic dependencies as symbolic expressions. Through simple PDG
+transformations, TimeRL applies whole-program optimizations, such as automatic
+vectorization, incrementalization, and operator fusion. The PDG also allows for
+the computation of an efficient program-wide execution schedule, which decides
+on buffer deallocations, buffer donations, and GPU/CPU memory swapping. We show
+that TimeRL executes current DRL algorithms up to 47$\times$ faster than
+existing DRL systems, while using 16$\times$ less GPU peak memory.
+
+摘要：現代深度學習 (DL) 工作負載日益使用複雜的深度強化學習 (DRL) 演算法，在學習迴圈中產生訓練資料。這會產生具有多個巢狀迴圈和張量之間動態資料相依性的程式。雖然具有熱切執行功能的 DL 系統支援這種動態性，但它們缺乏圖形化執行最佳化和智慧化排程。然而，圖形化執行無法表達動態張量形狀，反而需要使用多個靜態子圖形。因此，DRL 的任一執行模型都會導致重複運算、降低並行度和記憶體管理效率不彰。
+我們描述 TimeRL，這是一個用於執行動態 DRL 程式的系統，它結合了熱切執行的動態性與圖形化執行的全程式最佳化和排程。TimeRL 透過引入遞迴張量的宣告式程式設計模型來達成此一目標，使用戶能夠將動態相依性定義為直覺的遞迴方程式。TimeRL 將遞迴張量轉換為具有動態相依性（作為符號表達式）的多面體相依圖形 (PDG)。透過簡單的 PDG 轉換，TimeRL 套用全程式最佳化，例如自動向量化、遞增化和運算子融合。PDG 也允許計算出有效的全程式執行排程，決定緩衝區取消配置、緩衝區捐贈和 GPU/CPU 記憶體交換。我們顯示 TimeRL 執行目前的 DRL 演算法速度比現有的 DRL 系統快達 47 倍，同時使用少 16 倍的 GPU 峰值記憶體。
+
+##### **TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**
+2501.05403v1 by Yu-Hao Huang, Chang Xu, Yueying Wu, Wu-Jun Li, Jiang Bian
+
+Time series generation models are crucial for applications like data
+augmentation and privacy preservation. Most existing time series generation
+models are typically designed to generate data from one specified domain. While
+leveraging data from other domain for better generalization is proved to work
+in other application areas, this approach remains challenging for time series
+modeling due to the large divergence in patterns among different real world
+time series categories. In this paper, we propose a multi-domain time series
+diffusion model with domain prompts, named TimeDP. In TimeDP, we utilize a time
+series semantic prototype module which defines time series prototypes to
+represent time series basis, each prototype vector serving as "word"
+representing some elementary time series feature. A prototype assignment module
+is applied to extract the extract domain specific prototype weights, for
+learning domain prompts as generation condition. During sampling, we extract
+"domain prompt" with few-shot samples from the target domain and use the domain
+prompts as condition to generate time series samples. Experiments demonstrate
+that our method outperforms baselines to provide the state-of-the-art in-domain
+generation quality and strong unseen domain generation capability.
+
+摘要：時間序列生成模型對於資料擴充和隱私保護等應用至關重要。現有的時間序列生成模型通常設計用於從一個指定領域生成資料。雖然利用其他領域的資料以獲得更好的泛化能力被證明在其他應用領域有效，但這種方法對於時間序列建模來說仍然具有挑戰性，因為不同現實世界時間序列類別之間的模式差異很大。在本文中，我們提出了一個帶有領域提示的多領域時間序列擴散模型，名為 TimeDP。在 TimeDP 中，我們利用了一個時間序列語義原型模組，它定義了時間序列原型以表示時間序列基礎，每個原型向量作為「詞彙」表示一些基本的時間序列特徵。應用原型分配模組來提取提取領域特定的原型權重，以學習領域提示作為生成條件。在採樣過程中，我們從目標領域中提取少數樣本的「領域提示」，並使用領域提示作為條件來生成時間序列樣本。實驗表明，我們的方法優於基準，在領域內生成品質和強大的未知領域生成能力方面提供最先進的技術。
+
+##### **BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**
+2501.05401v1 by Armando Collado-Villaverde, Pablo Muñoz, Maria D. R-Moreno
+
+Missing data in time-series analysis poses significant challenges, affecting
+the reliability of downstream applications. Imputation, the process of
+estimating missing values, has emerged as a key solution. This paper introduces
+BRATI, a novel deep-learning model designed to address multivariate time-series
+imputation by combining Bidirectional Recurrent Networks and Attention
+mechanisms. BRATI processes temporal dependencies and feature correlations
+across long and short time horizons, utilizing two imputation blocks that
+operate in opposite temporal directions. Each block integrates recurrent layers
+and attention mechanisms to effectively resolve long-term dependencies.
+  We evaluate BRATI on three real-world datasets under diverse missing-data
+scenarios: randomly missing values, fixed-length missing sequences, and
+variable-length missing sequences. Our findings demonstrate that BRATI
+consistently outperforms state-of-the-art models, delivering superior accuracy
+and robustness in imputing multivariate time-series data.
+
+摘要：時序分析中遺失的資料會造成重大的挑戰，影響下游應用程式的可靠性。估計遺失值這個過程稱為內插，已成為一項關鍵的解決方案。本文介紹 BRATI，這是一種新穎的深度學習模型，旨在透過結合雙向遞迴網路和注意力機制來解決多變量時序內插。BRATI 處理跨長短時間範圍的時間依賴性和特徵相關性，利用兩個以相反時間方向運作的內插區塊。每個區塊整合遞迴層和注意力機制，以有效解決長期依賴性。我們在三組真實世界資料集上評估 BRATI，這些資料集具有多樣化的遺失資料情境：隨機遺失值、固定長度遺失序列和變動長度遺失序列。我們的研究結果顯示，BRATI 在內插多變量時序資料方面始終優於現有技術模型，提供更佳的準確性和穩健性。
+
+##### **Mechanistic understanding and validation of large AI models with SemanticLens**
+2501.05398v1 by Maximilian Dreyer, Jim Berend, Tobias Labarta, Johanna Vielhaben, Thomas Wiegand, Sebastian Lapuschkin, Wojciech Samek
+
+Unlike human-engineered systems such as aeroplanes, where each component's
+role and dependencies are well understood, the inner workings of AI models
+remain largely opaque, hindering verifiability and undermining trust. This
+paper introduces SemanticLens, a universal explanation method for neural
+networks that maps hidden knowledge encoded by components (e.g., individual
+neurons) into the semantically structured, multimodal space of a foundation
+model such as CLIP. In this space, unique operations become possible, including
+(i) textual search to identify neurons encoding specific concepts, (ii)
+systematic analysis and comparison of model representations, (iii) automated
+labelling of neurons and explanation of their functional roles, and (iv) audits
+to validate decision-making against requirements. Fully scalable and operating
+without human input, SemanticLens is shown to be effective for debugging and
+validation, summarizing model knowledge, aligning reasoning with expectations
+(e.g., adherence to the ABCDE-rule in melanoma classification), and detecting
+components tied to spurious correlations and their associated training data. By
+enabling component-level understanding and validation, the proposed approach
+helps bridge the "trust gap" between AI models and traditional engineered
+systems. We provide code for SemanticLens on
+https://github.com/jim-berend/semanticlens and a demo on
+https://semanticlens.hhi-research-insights.eu.
+
+摘要：與飛機等由人類設計的系統不同，飛機每個組件的角色和依賴性都清楚明瞭，而 AI 模型的內部運作在很大程度上仍不透明，這阻礙了可驗證性並破壞了信任。本文介紹了 SemanticLens，這是一種針對神經網路的通用解釋方法，它將組件（例如個別神經元）編碼的隱藏知識映射到基礎模型（例如 CLIP）的語義結構化多模態空間中。在這個空間中，可以進行獨特的操作，包括 (i) 文字搜尋以識別編碼特定概念的神經元，(ii) 系統分析和比較模型表示，(iii) 自動標記神經元並解釋其功能角色，以及 (iv) 稽核以驗證決策制定是否符合要求。SemanticLens 完全可擴展且在沒有人工輸入的情況下運行，已證明其在除錯和驗證、總結模型知識、將推理與期望保持一致（例如，遵守黑色素瘤分類中的 ABCDE 規則）以及檢測與虛假相關性和其關聯訓練資料相關的組件方面是有效的。通過實現組件級別的理解和驗證，所提出的方法有助於彌合 AI 模型與傳統工程系統之間的「信任差距」。我們在 https://github.com/jim-berend/semanticlens 上提供了 SemanticLens 的程式碼，並在 https://semanticlens.hhi-research-insights.eu 上提供了示範。
+
+##### **FairCode: Evaluating Social Bias of LLMs in Code Generation**
+2501.05396v1 by Yongkang Du, Jen-tse Huang, Jieyu Zhao, Lu Lin
+
+Large language models (LLMs) have demonstrated significant capability in code
+generation, drawing increasing attention to the evaluation of the quality and
+safety of their outputs. However, research on bias in code generation remains
+limited. Existing studies typically assess bias by applying malicious prompts
+or reapply tasks and dataset for discriminative models. Given that LLMs are
+often aligned with human values and that prior datasets are not fully optimized
+for code-related tasks, there is a pressing need for benchmarks specifically
+designed for evaluating code models. In this study, we introduce FairCode, a
+novel benchmark for evaluating bias in code generation. FairCode comprises two
+tasks: function implementation and test case generation, each evaluating social
+bias through diverse scenarios. Additionally, we propose a new metric,
+FairScore, to assess model performance on this benchmark. We conduct
+experiments on widely used LLMs and provide a comprehensive analysis of the
+results. The findings reveal that all tested LLMs exhibit bias. The code is
+available at https://github.com/YongkDu/FairCode.
+
+摘要：大型語言模型 (LLM) 已展現出生成程式碼的顯著能力，並越來越關注其輸出的品質和安全性評估。然而，關於程式碼生成偏差的研究仍然有限。現有研究通常透過套用惡意提示或重新套用任務和資料集來評估偏差，以進行區辨模型。鑑於 LLM 通常與人類價值觀一致，且先前的資料集並未針對程式碼相關任務進行完全最佳化，因此迫切需要專門用於評估程式碼模型的基準。在此研究中，我們介紹了 FairCode，這是一個用於評估程式碼生成偏差的新基準。FairCode 包含兩個任務：函式實作和測試案例生成，每個任務都透過不同的場景評估社會偏差。此外，我們提出了一個新的指標 FairScore，用於評估模型在此基準上的效能。我們對廣泛使用的 LLM 進行實驗，並對結果進行全面分析。研究結果顯示，所有受測的 LLM 都表現出偏差。程式碼可在 https://github.com/YongkDu/FairCode 取得。
+
+##### **Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**
+2501.05382v1 by Kristian G. Barman, Sascha Caron, Emily Sullivan, Henk W. de Regt, Roberto Ruiz de Austri, Mieke Boon, Michael Färber, Stefan Fröse, Faegheh Hasibi, Andreas Ipp, Rukshak Kapoor, Gregor Kasieczka, Daniel Kostić, Michael Krämer, Tobias Golling, Luis G. Lopez, Jesus Marco, Sydney Otten, Pawel Pawlowski, Pietro Vischia, Erik Weber, Christoph Weniger
+
+This paper explores ideas and provides a potential roadmap for the
+development and evaluation of physics-specific large-scale AI models, which we
+call Large Physics Models (LPMs). These models, based on foundation models such
+as Large Language Models (LLMs) - trained on broad data - are tailored to
+address the demands of physics research. LPMs can function independently or as
+part of an integrated framework. This framework can incorporate specialized
+tools, including symbolic reasoning modules for mathematical manipulations,
+frameworks to analyse specific experimental and simulated data, and mechanisms
+for synthesizing theories and scientific literature. We begin by examining
+whether the physics community should actively develop and refine dedicated
+models, rather than relying solely on commercial LLMs. We then outline how LPMs
+can be realized through interdisciplinary collaboration among experts in
+physics, computer science, and philosophy of science. To integrate these models
+effectively, we identify three key pillars: Development, Evaluation, and
+Philosophical Reflection. Development focuses on constructing models capable of
+processing physics texts, mathematical formulations, and diverse physical data.
+Evaluation assesses accuracy and reliability by testing and benchmarking.
+Finally, Philosophical Reflection encompasses the analysis of broader
+implications of LLMs in physics, including their potential to generate new
+scientific understanding and what novel collaboration dynamics might arise in
+research. Inspired by the organizational structure of experimental
+collaborations in particle physics, we propose a similarly interdisciplinary
+and collaborative approach to building and refining Large Physics Models. This
+roadmap provides specific objectives, defines pathways to achieve them, and
+identifies challenges that must be addressed to realise physics-specific large
+scale AI models.
+
+摘要：本文探討想法，並為物理特定的大規模 AI 模型（我們稱之為大型物理模型，LPM）的開發和評估提供潛在的路線圖。這些模型基於大型語言模型（LLM）等基礎模型，使用廣泛的數據進行訓練，並專門針對物理研究的需求進行調整。LPM 可以獨立運行，或作為整合架構的一部分。此架構可以整合專用工具，包括用於數學運算的符號推理模組、用於分析特定實驗和模擬數據的架構，以及用於綜合理論和科學文獻的機制。我們首先探討物理界是否應該積極開發和改進專用模型，而不是僅依賴商業 LLM。然後，我們概述如何透過物理學、電腦科學和科學哲學方面的專家之間的跨領域合作來實現 LPM。為了有效整合這些模型，我們找出三個關鍵支柱：開發、評估和哲學反思。開發的重點在於建構能夠處理物理文本、數學公式和各種物理數據的模型。評估透過測試和基準測試來評估準確性和可靠性。最後，哲學反思包含分析 LLM 在物理學中更廣泛的影響，包括它們產生新的科學理解的潛力，以及在研究中可能出現什麼新的合作動態。受到粒子物理學中實驗合作的組織結構啟發，我們提出一個類似跨領域和合作的方法來建構和改進大型物理模型。此路線圖提供了具體目標，定義了達成目標的途徑，並找出實現物理特定的大規模 AI 模型時必須解決的挑戰。
+
+##### **Developing a Foundation of Vector Symbolic Architectures Using Category Theory**
+2501.05368v1 by Nolan P Shaw, P Michael Furlong, Britt Anderson, Jeff Orchard
+
+At the risk of overstating the case, connectionist approaches to machine
+learning, i.e. neural networks, are enjoying a small vogue right now. However,
+these methods require large volumes of data and produce models that are
+uninterpretable to humans. An alternative framework that is compatible with
+neural networks and gradient-based learning, but explicitly models
+compositionality, is Vector Symbolic Architectures (VSAs). VSAs are a family of
+algebras on high-dimensional vector representations. They arose in cognitive
+science from the need to unify neural processing and the kind of symbolic
+reasoning that humans perform. While machine learning methods have benefited
+from category theoretical analyses, VSAs have not yet received similar
+treatment. In this paper, we present a first attempt at applying category
+theory to VSAs. Specifically, we conduct a brief literature survey
+demonstrating the lacking intersection of these two topics, provide a list of
+desiderata for VSAs, and propose that VSAs may be understood as a (division)
+rig in a category enriched over a monoid in Met (the category of Lawvere metric
+spaces). This final contribution suggests that VSAs may be generalised beyond
+current implementations. It is our hope that grounding VSAs in category theory
+will lead to more rigorous connections with other research, both within and
+beyond, learning and cognition.
+
+摘要：<paragraph>即使誇大其詞，聯結主義方法對機器學習來說，也就是神經網路，目前正盛行著。然而，這些方法需要大量的資料，並產生人類無法理解的模型。一種與神經網路和基於梯度的學習相容，但明確建構組合性的替代架構，是向量符號架構 (VSA)。VSA 是一組關於高維度向量表示的代數。它們源於認知科學，目的是統一神經處理和人類執行的符號推理。雖然機器學習方法受益於範疇理論分析，但 VSA 尚未獲得類似的處理。在本文中，我們首次嘗試將範疇理論應用於 VSA。具體來說，我們進行了一項簡短的文獻調查，說明這兩個主題缺乏交集，提供了 VSA 的理想清單，並提出 VSA 可以理解為一個 (除法) 範疇中的 rig，該範疇豐富於 Met 中的單元 (Lawvere 度量空間的範疇)。這個最終貢獻表明 VSA 可以概括到目前的實作之外。我們希望將 VSA 基於範疇理論將有助於與其他研究建立更嚴謹的連結，無論是在學習和認知的範疇內或外。</paragraph>
+
+##### **Search-o1: Agentic Search-Enhanced Large Reasoning Models**
+2501.05366v1 by Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou
+
+Large reasoning models (LRMs) like OpenAI-o1 have demonstrated impressive
+long stepwise reasoning capabilities through large-scale reinforcement
+learning. However, their extended reasoning processes often suffer from
+knowledge insufficiency, leading to frequent uncertainties and potential
+errors. To address this limitation, we introduce \textbf{Search-o1}, a
+framework that enhances LRMs with an agentic retrieval-augmented generation
+(RAG) mechanism and a Reason-in-Documents module for refining retrieved
+documents. Search-o1 integrates an agentic search workflow into the reasoning
+process, enabling dynamic retrieval of external knowledge when LRMs encounter
+uncertain knowledge points. Additionally, due to the verbose nature of
+retrieved documents, we design a separate Reason-in-Documents module to deeply
+analyze the retrieved information before injecting it into the reasoning chain,
+minimizing noise and preserving coherent reasoning flow. Extensive experiments
+on complex reasoning tasks in science, mathematics, and coding, as well as six
+open-domain QA benchmarks, demonstrate the strong performance of Search-o1.
+This approach enhances the trustworthiness and applicability of LRMs in complex
+reasoning tasks, paving the way for more reliable and versatile intelligent
+systems. The code is available at
+\url{https://github.com/sunnynexus/Search-o1}.
+
+摘要：大型推理模型（LRM），例如 OpenAI-o1，已通过大规模强化学习展示了令人印象深刻的长步推理能力。然而，它们扩展的推理过程通常会受到知识不足的影响，从而导致频繁的不确定性和潜在的错误。为了解决这个限制，我们引入了 \textbf{Search-o1}，这是一个框架，它通过代理检索增强生成（RAG）机制和用于精炼检索到的文档的文档中推理模块来增强 LRM。Search-o1 将代理搜索工作流集成到推理过程中，使 LRM 在遇到不确定的知识点时能够动态检索外部知识。此外，由于检索到的文档冗长，我们设计了一个单独的文档中推理模块，以便在将检索到的信息注入推理链之前对其进行深入分析，最大程度地减少噪音并保持连贯的推理流程。在科学、数学和编码中的复杂推理任务以及六个开放域 QA 基准上的大量实验表明了 Search-o1 的强大性能。这种方法增强了 LRM 在复杂推理任务中的可信度和适用性，为更可靠和通用的智能系统铺平了道路。代码可在 \url{https://github.com/sunnynexus/Search-o1} 获得。
+
+##### **On Corrigibility and Alignment in Multi Agent Games**
+2501.05360v1 by Edmund Dable-Heath, Boyko Vodenicharski, James Bishop
+
+Corrigibility of autonomous agents is an under explored part of system
+design, with previous work focusing on single agent systems. It has been
+suggested that uncertainty over the human preferences acts to keep the agents
+corrigible, even in the face of human irrationality. We present a general
+framework for modelling corrigibility in a multi-agent setting as a 2 player
+game in which the agents always have a move in which they can ask the human for
+supervision. This is formulated as a Bayesian game for the purpose of
+introducing uncertainty over the human beliefs. We further analyse two specific
+cases. First, a two player corrigibility game, in which we want corrigibility
+displayed in both agents for both common payoff (monotone) games and harmonic
+games. Then we investigate an adversary setting, in which one agent is
+considered to be a `defending' agent and the other an `adversary'. A general
+result is provided for what belief over the games and human rationality the
+defending agent is required to have to induce corrigibility.
+
+摘要：自主代理的可修正性是系统设计中尚未探索的部分，以前的工作重点放在单代理系统上。有人提出，对人类偏好的不确定性有助于保持代理的可修正性，即使面对人类的不理性。我们提出了一个通用的框架，用于在多代理环境中对可修正性进行建模，作为一种 2 人游戏，其中代理始终可以采取行动，要求人类进行监督。这被表述为贝叶斯博弈，目的是引入对人类信念的不确定性。我们进一步分析了两个具体案例。首先，一个双人可修正性游戏，我们希望在共同收益（单调）游戏和协调游戏中显示两个代理的可修正性。然后，我们调查了一个对抗环境，其中一个代理被认为是“防御”代理，另一个代理被认为是“对抗”代理。提供了一个一般结果，说明防御代理需要对游戏和人类理性的信念是什么，才能诱导可修正性。
+
+##### **Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**
+2501.05336v1 by Hantao Lou, Jiaming Ji, Kaile Wang, Yaodong Yang
+
+The rapid advancement of large language models (LLMs) has led to significant
+improvements in their capabilities, but also to increased concerns about their
+alignment with human values and intentions. Current alignment strategies,
+including adaptive training and inference-time methods, have demonstrated
+potential in this area. However, these approaches still struggle to balance
+deployment complexity and capability across various tasks and difficulties. In
+this work, we introduce the Streaming Distribution Induce Aligner (Stream
+Aligner), a novel alignment paradigm that combines efficiency with enhanced
+performance in various tasks throughout the generation process. Stream Aligner
+achieves dynamic sentence-level correction by using a small model to learn the
+preferences of the suffix sentence, iteratively correcting the suffix sentence
+output by the upstream model, and then using the corrected sentence to replace
+the suffix sentence in subsequent generations. Compared to Aligner, our
+experiments demonstrate that Stream Aligner reduces reliance on the
+capabilities of additional models, enhances the reasoning abilities of LLMs,
+and decreases latency during user interaction. Specifically, Stream Aligner-2B
+model has achieved an improvement of 76.1% in helpfulness, 36.0% in
+harmlessness on the tested Llama2-70B-chat model, and Stream Aligner-8B has
+achieved an improvement of 3.5% on the math ability of the tested
+Llama3-70B-Instruct model.
+
+摘要：大型語言模型 (LLM) 的快速進展已顯著提升其能力，但也引發更多關於其與人類價值觀和意圖一致性的疑慮。目前的對齊策略，包括適應性訓練和推論時間方法，已在此領域展現潛力。然而，這些方法仍難以在各種任務和難度中取得部署複雜度和能力的平衡。在本文中，我們介紹了串流分佈誘導對齊器 (Stream Aligner)，這是一種新穎的對齊範例，結合了效率與在整個生成過程中各種任務中增強的效能。Stream Aligner 透過使用小型模型來學習後綴句子的偏好，反覆修正上游模型輸出的後綴句子，然後使用修正過的句子取代後續生成中的後綴句子，進而達成動態的句子層級修正。與 Aligner 相比，我們的實驗證明 Stream Aligner 減少了對其他模型能力的依賴，增強了 LLM 的推理能力，並降低了使用者互動期間的延遲。具體而言，Stream Aligner-2B 模型在有益性方面提升了 76.1%，在無害性方面提升了 36.0%，在測試的 Llama2-70B-chat 模型上，而 Stream Aligner-8B 則在測試的 Llama3-70B-Instruct 模型的數學能力方面提升了 3.5%。
+
+##### **The Bakers and Millers Game with Restricted Locations**
+2501.05334v1 by Simon Krogmann, Pascal Lenzner, Alexander Skopalik
+
+We study strategic location choice by customers and sellers, termed the
+Bakers and Millers Game in the literature. In our generalized setting, each
+miller can freely choose any location for setting up a mill, while each baker
+is restricted in the choice of location for setting up a bakery. For optimal
+bargaining power, a baker would like to select a location with many millers to
+buy flour from and with little competition from other bakers. Likewise, a
+miller aims for a location with many bakers and few competing millers. Thus,
+both types of agents choose locations to optimize the ratio of agents of
+opposite type divided by agents of the same type at their chosen location.
+Originally raised in the context of Fractional Hedonic Games, the Bakers and
+Millers Game has applications that range from commerce to product design.
+  We study the impact of location restrictions on the properties of the game.
+While pure Nash equilibria trivially exist in the setting without location
+restrictions, we show via a sophisticated, efficient algorithm that even the
+more challenging restricted setting admits equilibria. Moreover, the computed
+equilibrium approximates the optimal social welfare by a factor of at most
+$2\left(\frac{e}{e-1}\right)$. Furthermore, we give tight bounds on the price
+of anarchy/stability.
+  On the conceptual side, the location choice feature adds a new layer to the
+standard setting of Hedonic Games, in the sense that agents that select the
+same location form a coalition. This allows to naturally restrict the possible
+coalitions that can be formed. With this, our model generalizes simple
+symmetric Fractional Hedonic Games on complete bipartite valuation graphs and
+also Hedonic Diversity Games with utilities single-peaked at 0. We believe that
+this generalization is also a very interesting direction for other types of
+Hedonic Games.
+
+摘要：<paragraph>我們研究由客戶和賣方進行的策略性位置選擇，在文獻中稱為麵包師和磨坊主的遊戲。在我們概括的設定中，每個磨坊主可以自由選擇任何位置來設置磨坊，而每個麵包師在選擇設置麵包店的時受到地點限制。為了獲得最佳的議價能力，麵包師希望選擇一個有許多磨坊主可以購買麵粉且與其他麵包師競爭較少的地點。同樣地，磨坊主會選擇一個有許多麵包師且競爭對手較少的磨坊主的地點。因此，這兩種類型的代理人都會選擇地點來優化在他們所選擇的地點，相反類型的代理人與相同類型的代理人的比例。最初在分數享樂遊戲的背景下提出，麵包師和磨坊主的遊戲有從商業到產品設計的廣泛應用。我們研究地點限制對遊戲屬性的影響。雖然在沒有地點限制的設定中，純納許均衡顯然存在，但我們透過一種複雜、有效的演算法證明，即使在更具挑戰性的受限設定中也能承認均衡。此外，計算出的均衡以最多 $2\left(\frac{e}{e-1}\right)$ 的因子近似最佳社會福利。此外，我們對無政府狀態/穩定的價格給予嚴格的限制。在概念方面，地點選擇功能為享樂遊戲的標準設定增加了一層，在於選擇相同地點的代理人會組成一個聯盟。這允許自然地限制可以形成的可能聯盟。有了這個，我們的模型概括了在完整理論二分圖估值圖表上的簡單對稱分數享樂遊戲，以及在 0 處單峰的享樂多樣性遊戲。我們相信這個概括對於其他類型的享樂遊戲來說也是一個非常有趣的發展方向。</paragraph>
+
+##### **AnCoGen: Analysis, Control and Generation of Speech with a Masked Autoencoder**
+2501.05332v1 by Samir Sadok, Simon Leglaive, Laurent Girin, Gaël Richard, Xavier Alameda-Pineda
+
+This article introduces AnCoGen, a novel method that leverages a masked
+autoencoder to unify the analysis, control, and generation of speech signals
+within a single model. AnCoGen can analyze speech by estimating key attributes,
+such as speaker identity, pitch, content, loudness, signal-to-noise ratio, and
+clarity index. In addition, it can generate speech from these attributes and
+allow precise control of the synthesized speech by modifying them. Extensive
+experiments demonstrated the effectiveness of AnCoGen across speech
+analysis-resynthesis, pitch estimation, pitch modification, and speech
+enhancement.
+
+摘要：本文介紹了 AnCoGen，一種新方法，它利用掩蔽式自動編碼器在單一模型中統一語音信號的分析、控制和生成。AnCoGen 可以透過估計關鍵屬性來分析語音，例如說話者身分、音高、內容、響度、信噪比和清晰度指標。此外，它可以從這些屬性生成語音，並透過修改它們來精確控制合成的語音。大量的實驗證明了 AnCoGen 在語音分析再合成、音高估計、音高修改和語音增強方面的有效性。
+
+##### **Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**
+2501.05260v1 by Atharva Mutsaddi, Aditya Choudhary
+
+Plagiarism involves using another person's work or concepts without proper
+attribution, presenting them as original creations. With the growing amount of
+data communicated in regional languages such as Marathi -- one of India's
+regional languages -- it is crucial to design robust plagiarism detection
+systems tailored for low-resource languages. Language models like Bidirectional
+Encoder Representations from Transformers (BERT) have demonstrated exceptional
+capability in text representation and feature extraction, making them essential
+tools for semantic analysis and plagiarism detection. However, the application
+of BERT for low-resource languages remains under-explored, particularly in the
+context of plagiarism detection. This paper presents a method to enhance the
+accuracy of plagiarism detection for Marathi texts using BERT sentence
+embeddings in conjunction with Term Frequency-Inverse Document Frequency
+(TF-IDF) feature representation. This approach effectively captures
+statistical, semantic, and syntactic aspects of text features through a
+weighted voting ensemble of machine learning models.
+
+摘要：剽竊涉及使用他人的作品或概念，卻沒有適當的出處，並將它們呈現為原創作品。隨著以馬拉地語等區域語言（印度的區域語言之一）傳達的資料量不斷增加，設計針對低資源語言的強大剽竊偵測系統至關重要。像 Transformer 的雙向編碼器表徵 (BERT) 等語言模型在文字表徵和特徵萃取方面展現了非凡的能力，使其成為語意分析和剽竊偵測的必要工具。然而，BERT 在低資源語言中的應用仍未被充分探索，特別是在剽竊偵測的背景下。本文提出了一種方法，使用 BERT 句子嵌入與詞頻逆文件頻率 (TF-IDF) 特徵表徵相結合，來增強馬拉地語文本的剽竊偵測準確度。此方法透過機器學習模型的加權投票整合，有效擷取文本特徵的統計、語意和句法面向。
+
+##### **Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**
+2501.05258v1 by Daniele Cipollone, Changjie Wang, Mariano Scazzariello, Simone Ferlin, Maliheh Izadi, Dejan Kostic, Marco Chiesa
+
+In today's digital landscape, the importance of timely and accurate
+vulnerability detection has significantly increased. This paper presents a
+novel approach that leverages transformer-based models and machine learning
+techniques to automate the identification of software vulnerabilities by
+analyzing GitHub issues. We introduce a new dataset specifically designed for
+classifying GitHub issues relevant to vulnerability detection. We then examine
+various classification techniques to determine their effectiveness. The results
+demonstrate the potential of this approach for real-world application in early
+vulnerability detection, which could substantially reduce the window of
+exploitation for software vulnerabilities. This research makes a key
+contribution to the field by providing a scalable and computationally efficient
+framework for automated detection, enabling the prevention of compromised
+software usage before official notifications. This work has the potential to
+enhance the security of open-source software ecosystems.
+
+摘要：在當今的數位環境中，及時且準確的漏洞偵測變得格外重要。本文提出了一種創新的方法，利用基於 Transformer 的模型和機器學習技術，透過分析 GitHub 中的問題，自動化軟體漏洞的辨識。我們引進了一個專門設計的新資料集，用於分類與漏洞偵測相關的 GitHub 問題。接著我們探討各種分類技術，以確定其有效性。結果顯示，這種方法在實際應用於早期漏洞偵測上具有潛力，這可以大幅縮短軟體漏洞的利用時間。本研究透過提供可擴充且計算效率高的自動化偵測架構，對這個領域做出了關鍵貢獻，可在官方通知發布前預防受危害軟體的使用。這項工作有潛力提升開源軟體生態系統的安全性。
+
+##### **CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**
+2501.05255v1 by Yewei Song, Cedric Lothritz, Xunzhu Tang, Saad Ezzini, Jacques Klein, Tegawendé F. Bissyandé, Andrey Boytsov, Ulrick Ble, Anne Goujon
+
+Interacting with a software system via a chatbot can be challenging,
+especially when the chatbot needs to generate API calls, in the right order and
+with the right parameters, to communicate with the system. API calling in
+chatbot systems poses significant challenges, particularly in complex,
+multi-step tasks requiring accurate API selection and execution. We contribute
+to this domain in three ways: first, by introducing a novel dataset designed to
+assess models on API function selection, parameter generation, and nested API
+calls; second, by benchmarking state-of-the-art language models across varying
+levels of complexity to evaluate their performance in API function generation
+and parameter accuracy; and third, by proposing an enhanced API routing method
+that combines general-purpose large language models for API selection with
+fine-tuned models for parameter generation and some prompt engineering
+approach. These approaches lead to substantial improvements in handling complex
+API tasks, offering practical advancements for real-world API-driven chatbot
+systems.
+
+摘要：透過聊天機器人與軟體系統互動可能具有挑戰性，
+特別是當聊天機器人需要產生 API 呼叫，並以正確的順序和
+正確的參數與系統溝通時。聊天機器人系統中的 API 呼叫會造成重大的挑戰，特別是在需要準確的 API 選擇和執行的複雜、多步驟任務中。我們以三種方式對這個領域做出貢獻：首先，透過引入一個新穎的資料集，旨在評估模型的 API 函式選擇、參數產生和巢狀 API 呼叫；其次，透過比較最先進的語言模型在不同複雜程度下的基準，以評估它們在 API 函式產生和參數準確度方面的效能；第三，透過提出一個增強的 API 路由方法，該方法結合了通用大型語言模型，用於 API 選擇，以及微調模型，用於參數產生和一些提示工程方法。這些方法大幅改善了處理複雜 API 任務的方式，為實際世界的 API 驅動聊天機器人系統提供了實用的進展。
+
+##### **From Scientific Texts to Verifiable Code: Automating the Process with Transformers**
+2501.05252v1 by Changjie Wang, Mariano Scazzariello, Marco Chiesa
+
+Despite the vast body of research literature proposing algorithms with formal
+guarantees, the amount of verifiable code in today's systems remains minimal.
+This discrepancy stems from the inherent difficulty of verifying code,
+particularly due to the time-consuming nature and strict formalism of proof
+details that formal verification tools require. However, the emergence of
+transformers in Large Language Models presents a promising solution to this
+challenge. In this position paper, we believe that transformers have the
+potential to read research papers that propose algorithms with formal proofs
+and translate these proofs into verifiable code. We leverage transformers to
+first build a formal structure of the proof using the original text from the
+paper, and then to handle the tedious, low-level aspects of proofs that are
+often omitted by humans. We argue that this approach can significantly reduce
+the barrier to formal verification. The above idea of reading papers to write
+verifiable code opens new avenues for automating the verification of complex
+systems, enabling a future where formally verified algorithms from academic
+research can more seamlessly transition into real-world software systems,
+thereby improving code reliability and security.
+
+摘要：儘管有大量研究文獻提出具有正式保證的演算法，但當今系統中可驗證的程式碼量仍然很少。
+這種差異源於驗證程式碼的固有困難，特別是因為正式驗證工具需要耗時的本質和嚴格的形式化證明細節。
+然而，大型語言模型中的Transformer出現為此挑戰提供了一個有希望的解決方案。
+在本文中，我們相信Transformer有能力閱讀提出具有正式證明演算法的研究論文，並將這些證明轉換為可驗證的程式碼。
+我們利用Transformer首先使用論文中的原始文字建立證明的正式結構，然後處理人類經常遺漏的證明中繁瑣的低階層面。
+我們認為這種方法可以顯著降低正式驗證的障礙。
+透過閱讀論文來撰寫可驗證程式碼上述想法為自動化驗證複雜系統開啟了新途徑，實現了一個未來，其中來自學術研究的正式驗證演算法可以更無縫地轉換為真實世界的軟體系統，從而提高程式碼可靠性和安全性。
+
+##### **RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models**
+2501.05249v1 by Peizhuo Lv, Mengjie Sun, Hao Wang, Xiaofeng Wang, Shengzhi Zhang, Yuxuan Chen, Kai Chen, Limin Sun
+
+In recent years, tremendous success has been witnessed in Retrieval-Augmented
+Generation (RAG), widely used to enhance Large Language Models (LLMs) in
+domain-specific, knowledge-intensive, and privacy-sensitive tasks. However,
+attackers may steal those valuable RAGs and deploy or commercialize them,
+making it essential to detect Intellectual Property (IP) infringement. Most
+existing ownership protection solutions, such as watermarks, are designed for
+relational databases and texts. They cannot be directly applied to RAGs because
+relational database watermarks require white-box access to detect IP
+infringement, which is unrealistic for the knowledge base in RAGs. Meanwhile,
+post-processing by the adversary's deployed LLMs typically destructs text
+watermark information. To address those problems, we propose a novel black-box
+"knowledge watermark" approach, named RAG-WM, to detect IP infringement of
+RAGs. RAG-WM uses a multi-LLM interaction framework, comprising a Watermark
+Generator, Shadow LLM & RAG, and Watermark Discriminator, to create watermark
+texts based on watermark entity-relationship tuples and inject them into the
+target RAG. We evaluate RAG-WM across three domain-specific and two
+privacy-sensitive tasks on four benchmark LLMs. Experimental results show that
+RAG-WM effectively detects the stolen RAGs in various deployed LLMs.
+Furthermore, RAG-WM is robust against paraphrasing, unrelated content removal,
+knowledge insertion, and knowledge expansion attacks. Lastly, RAG-WM can also
+evade watermark detection approaches, highlighting its promising application in
+detecting IP infringement of RAG systems.
+
+摘要：近年來，檢索增強生成（RAG）獲得了巨大的成功，廣泛用於增強特定領域、知識密集型和隱私敏感型任務中的大型語言模型（LLM）。然而，攻擊者可能會竊取這些有價值的 RAG，並部署或商業化它們，因此必須檢測知識產權（IP）侵權行為。現有的所有權保護解決方案（例如浮水印）大多是為關係資料庫和文字而設計的。它們無法直接應用於 RAG，因為關係資料庫浮水印需要白盒存取權才能檢測 IP 侵權行為，這對於 RAG 中的知識庫來說是不切實際的。同時，對手部署的 LLM 後處理通常會破壞文字浮水印資訊。為了解決這些問題，我們提出了一種名為 RAG-WM 的新穎黑盒「知識浮水印」方法，以檢測 RAG 的 IP 侵權行為。RAG-WM 使用多 LLM 交互框架，包括浮水印產生器、影子 LLM 和 RAG，以及浮水印鑑別器，以根據浮水印實體關係元組建立浮水印文字，並將它們注入目標 RAG。我們在四個基準 LLM 上針對三個特定領域和兩個隱私敏感型任務評估 RAG-WM。實驗結果表明，RAG-WM 可以有效地檢測到各種已部署 LLM 中被竊取的 RAG。此外，RAG-WM 對於改寫、不相關內容移除、知識插入和知識擴充攻擊具有魯棒性。最後，RAG-WM 也可以規避浮水印檢測方法，凸顯其在檢測 RAG 系統的 IP 侵權行為中的應用前景。
+
+##### **Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**
+2501.05248v1 by Laura Puccioni, Alireza Farshin, Mariano Scazzariello, Changjie Wang, Marco Chiesa, Dejan Kostic
+
+Large Language Models (LLMs) have demonstrated their exceptional performance
+in various complex code generation tasks. However, their broader adoption is
+limited by significant computational demands and high resource requirements,
+particularly memory and processing power. To mitigate such requirements, model
+pruning techniques are used to create more compact models with significantly
+fewer parameters. However, current approaches do not focus on the efficient
+extraction of programming-language-specific sub-models. In this work, we
+explore the idea of efficiently deriving coding-specific sub-models through
+unstructured pruning (i.e., Wanda). We investigate the impact of different
+domain-specific calibration datasets on pruning outcomes across three distinct
+domains and extend our analysis to extracting four language-specific
+sub-models: Python, Java, C++, and JavaScript. We are the first to efficiently
+extract programming-language-specific sub-models using appropriate calibration
+datasets while maintaining acceptable accuracy w.r.t. full models. We are also
+the first to provide analytical evidence that domain-specific tasks activate
+distinct regions within LLMs, supporting the creation of specialized sub-models
+through unstructured pruning. We believe that this work has significant
+potential to enhance LLM accessibility for coding by reducing computational
+requirements to enable local execution on consumer-grade hardware, and
+supporting faster inference times critical for real-time development feedback.
+
+摘要：大型語言模型 (LLM) 已展現出其在各種複雜程式碼產生任務中的卓越效能。然而，其更廣泛的採用受到顯著的運算需求和高資源需求的限制，特別是記憶體和處理能力。為了減輕此類需求，模型剪枝技術用於建立更精簡的模型，其參數顯著減少。然而，目前的做法並未專注於程式語言特定子模型的有效提取。在這項工作中，我們探討了透過非結構化剪枝（即 Wanda）有效衍生特定於編碼的子模型的想法。我們研究了不同特定於領域的校正資料集對三個不同領域的剪枝結果的影響，並將我們的分析延伸至提取四個特定於語言的子模型：Python、Java、C++ 和 JavaScript。我們是第一個使用適當的校正資料集有效提取特定於程式語言的子模型，同時維持可接受的準確度，相對於完整的模型。我們也是第一個提供分析證據，證明特定於領域的任務會在 LLM 內啟動不同的區域，支援透過非結構化剪枝建立專門的子模型。我們相信，這項工作具有顯著的潛力，可透過降低運算需求以在消費級硬體上進行本地執行，從而增強 LLM 在編碼方面的可及性，並支援對於即時開發回饋至關重要的更快速的推論時間。
+
+##### **Online Prompt and Solver Selection for Program Synthesis**
+2501.05247v1 by Yixuan Li, Lewis Frampton, Federico Mora, Elizabeth Polgreen
+
+Large Language Models (LLMs) demonstrate impressive capabilities in the
+domain of program synthesis. This level of performance is not, however,
+universal across all tasks, all LLMs and all prompting styles. There are many
+areas where one LLM dominates, one prompting style dominates, or where calling
+a symbolic solver is a better choice than an LLM. A key challenge for the user
+then, is to identify not only when an LLM is the right choice of solver, and
+the appropriate LLM to call for a given synthesis task, but also the right way
+to call it. A non-expert user who makes the wrong choice, incurs a cost both in
+terms of results (number of tasks solved, and the time it takes to solve them)
+and financial cost, if using a closed-source language model via a commercial
+API. We frame this choice as an online learning problem. We use a multi-armed
+bandit algorithm to select which symbolic solver, or LLM and prompt combination
+to deploy in order to maximize a given reward function (which may prioritize
+solving time, number of synthesis tasks solved, or financial cost of solving).
+We implement an instance of this approach, called CYANEA, and evaluate it on
+synthesis queries from the literature in ranking function synthesis, from the
+syntax-guided synthesis competition, and fresh, unseen queries generated from
+SMT problems. CYANEA solves 37.2\% more queries than the best single solver and
+achieves results within 4\% of the virtual best solver.
+
+摘要：大型語言模型 (LLM) 在程式合成領域展現令人印象深刻的能力。然而，這種效能並非在所有任務、所有 LLM 和所有提示風格中都是普遍適用的。在許多領域中，一個 LLM 佔主導地位，一種提示風格佔主導地位，或者呼叫符號求解器比 LLM 是一個更好的選擇。因此，使用者的關鍵挑戰在於不僅要識別何時 LLM 是求解器的正確選擇，以及在給定的合成任務中呼叫適當的 LLM，還要識別呼叫它的正確方式。做出錯誤選擇的非專家使用者會在結果（已解決任務的數量和解決任務所需的時間）和財務成本方面承擔成本，如果透過商業 API 使用閉源語言模型的話。我們將此選擇設定為線上學習問題。我們使用多臂老虎機演算法來選擇要部署哪個符號求解器，或 LLM 和提示組合，以最大化給定的回報函數（可能會優先考慮解決時間、已解決的合成任務數量或解決的財務成本）。我們實作了這種方法的一個實例，稱為 CYANEA，並在來自排名函數合成、語法引導合成競賽的文獻中的合成查詢，以及從 SMT 問題中產生的最新、未見過的查詢上對其進行評估。CYANEA 解決的查詢比最佳單一求解器多 37.2%，並且在虛擬最佳求解器的 4% 範圍內取得結果。
+
+##### **Optimizing Estonian TV Subtitles with Semi-supervised Learning and LLMs**
+2501.05234v1 by Artem Fedorchenko, Tanel Alumäe
+
+This paper presents an approach for generating high-quality, same-language
+subtitles for Estonian TV content. We fine-tune the Whisper model on
+human-generated Estonian subtitles and enhance it with iterative
+pseudo-labeling and large language model (LLM) based post-editing. Our
+experiments demonstrate notable subtitle quality improvement through
+pseudo-labeling with an unlabeled dataset. We find that applying LLM-based
+editing at test time enhances subtitle accuracy, while its use during training
+does not yield further gains. This approach holds promise for creating subtitle
+quality close to human standard and could be extended to real-time
+applications.
+
+摘要：本文提出了一種為愛沙尼亞電視內容生成高品質同語言字幕的方法。我們對人類生成的愛沙尼亞語字幕微調 Whisper 模型，並通過反覆偽標籤和基於大語言模型 (LLM) 的後編輯對其進行增強。我們的實驗通過使用未標記數據集進行偽標籤證明了字幕質量的顯著提高。我們發現，在測試時應用基於 LLM 的編輯可以提高字幕準確性，而其在訓練期間的使用並不會帶來進一步的收益。這種方法有望創造接近人類標準的字幕質量，並可以擴展到實時應用中。
+
+##### **Leveraging Large Language Models for Zero-shot Lay Summarisation in Biomedicine and Beyond**
+2501.05224v1 by Tomas Goldsack, Carolina Scarton, Chenghua Lin
+
+In this work, we explore the application of Large Language Models to
+zero-shot Lay Summarisation. We propose a novel two-stage framework for Lay
+Summarisation based on real-life processes, and find that summaries generated
+with this method are increasingly preferred by human judges for larger models.
+To help establish best practices for employing LLMs in zero-shot settings, we
+also assess the ability of LLMs as judges, finding that they are able to
+replicate the preferences of human judges. Finally, we take the initial steps
+towards Lay Summarisation for Natural Language Processing (NLP) articles,
+finding that LLMs are able to generalise to this new domain, and further
+highlighting the greater utility of summaries generated by our proposed
+approach via an in-depth human evaluation.
+
+摘要：在這項工作中，我們探討大型語言模型在零次摘要中的應用。我們提出了一個基於現實流程的新穎兩階段框架，用於非專業摘要，並發現使用此方法產生的摘要越來越受到人類評審員的青睞，適用於較大的模型。為了幫助建立在零次設定中使用 LLM 的最佳實務，我們也評估了 LLM 作為評審員的能力，發現它們能夠複製人類評審員的偏好。最後，我們採取了非專業摘要的最初步驟，用於自然語言處理 (NLP) 文章，發現 LLM 能夠概括到這個新領域，並進一步強調了我們提出的方法產生的摘要的更大效用，透過深入的人類評估。
+
+##### **ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction**
+2501.05222v1 by Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa
+
+Revision is a crucial step in scientific writing, where authors refine their
+work to improve clarity, structure, and academic quality. Existing approaches
+to automated writing assistance often focus on sentence-level revisions, which
+fail to capture the broader context needed for effective modification. In this
+paper, we explore the impact of shifting from sentence-level to paragraph-level
+scope for the task of scientific text revision. The paragraph level definition
+of the task allows for more meaningful changes, and is guided by detailed
+revision instructions rather than general ones. To support this task, we
+introduce ParaRev, the first dataset of revised scientific paragraphs with an
+evaluation subset manually annotated with revision instructions. Our
+experiments demonstrate that using detailed instructions significantly improves
+the quality of automated revisions compared to general approaches, no matter
+the model or the metric considered.
+
+摘要：修改是科学寫作中至關重要的一步，作者在其中完善其作品，以提高清晰度、結構和學術品質。現有的自動寫作輔助方法通常側重於句子層級的修改，這無法掌握有效修改所需的更廣泛脈絡。在本文中，我們探討了從句子層級轉移到段落層級範圍對科學文本修改任務的影響。任務的段落層級定義允許進行更有意義的修改，並以詳細的修改說明為指導，而不是一般的說明。為了支持此任務，我們引入了 ParaRev，這是第一個經過人工標記修改說明的評估子集的已修改科學段落資料集。我們的實驗表明，與一般方法相比，使用詳細說明顯著提高了自動修改的品質，無論考慮哪種模型或指標。
+
+##### **A Novel Approach to Scalable and Automatic Topic-Controlled Question Generation in Education**
+2501.05220v1 by Ziqing Li, Mutlu Cukurova, Sahan Bulathwela
+
+The development of Automatic Question Generation (QG) models has the
+potential to significantly improve educational practices by reducing the
+teacher workload associated with creating educational content. This paper
+introduces a novel approach to educational question generation that controls
+the topical focus of questions. The proposed Topic-Controlled Question
+Generation (T-CQG) method enhances the relevance and effectiveness of the
+generated content for educational purposes. Our approach uses fine-tuning on a
+pre-trained T5-small model, employing specially created datasets tailored to
+educational needs. The research further explores the impacts of pre-training
+strategies, quantisation, and data augmentation on the model's performance. We
+specifically address the challenge of generating semantically aligned questions
+with paragraph-level contexts, thereby improving the topic specificity of the
+generated questions. In addition, we introduce and explore novel evaluation
+methods to assess the topical relatedness of the generated questions. Our
+results, validated through rigorous offline and human-backed evaluations,
+demonstrate that the proposed models effectively generate high-quality,
+topic-focused questions. These models have the potential to reduce teacher
+workload and support personalised tutoring systems by serving as bespoke
+question generators. With its relatively small number of parameters, the
+proposals not only advance the capabilities of question generation models for
+handling specific educational topics but also offer a scalable solution that
+reduces infrastructure costs. This scalability makes them feasible for
+widespread use in education without reliance on proprietary large language
+models like ChatGPT.
+
+摘要：自動問題生成 (QG) 模型的發展具有顯著改善教育實務的潛力，方法是減少教師在建立教育內容時的工作負擔。本文介紹一種創新的教育問題生成方法，用以控制問題的主題焦點。提出的主題控制問題生成 (T-CQG) 方法增強了生成內容在教育目的上的相關性和有效性。我們的方法使用經過微調的預訓練 T5-small 模型，採用專門針對教育需求量身打造的資料集。研究進一步探討了預訓練策略、量子化和資料擴充對模型效能的影響。我們特別解決了生成與段落層級脈絡語意對齊的問題，從而改善生成問題的主題特定性。此外，我們介紹並探討了新的評估方法，以評估生成問題的主題相關性。我們的結果經過嚴格的離線和人工評估驗證，證明提出的模型有效地產生了高品質、主題焦點的問題。這些模型具有減少教師工作負擔和支援個人化教學系統的潛力，方法是作為客製化問題生成器。由於參數數量相對較少，這些提案不僅提升了問題生成模型在處理特定教育主題方面的能力，還提供了一個可擴充的解決方案，以降低基礎設施成本。這種可擴充性使它們在教育中廣泛使用成為可行，而無需依賴像 ChatGPT 這樣的專有大型語言模型。
+
+##### **GLaM-Sign: Greek Language Multimodal Lip Reading with Integrated Sign Language Accessibility**
+2501.05213v1 by Dimitris Kouremenos, Klimis Ntalianis
+
+The Greek Language Multimodal Lip Reading with Integrated Sign Language
+Accessibility (GLaM-Sign) [1] is a groundbreaking resource in accessibility and
+multimodal AI, designed to support Deaf and Hard-of-Hearing (DHH) individuals.
+Developed from the FEELIT project [2], it integrates high-resolution audio,
+video, textual transcriptions, and Greek Sign Language translations for
+applications like real-time sign language translation and enhanced subtitle
+synchronization. While its primary focus is on promoting inclusivity in the
+Greek tourism sector, its adaptability extends to education, healthcare, and
+public services. Future advancements will enhance word-level precision and
+scalability to additional languages, supported by advanced AI methodologies and
+collaborations with diverse stakeholders. This dataset underscores the
+transformative potential of multimodal resources in bridging communication
+gaps, fostering innovation, and setting a benchmark for ethical AI and
+inclusive technologies.
+
+摘要：希臘語多模態唇讀與手語整合無障礙（GLaM-Sign）[1] 是無障礙和多模態人工智慧的突破性資源，旨在支援聾人和聽力障礙（DHH）人士。它由 FEELIT 專案 [2] 開發，整合了高解析度音訊、影片、文字轉錄和希臘手語翻譯，可用於即時手語翻譯和增強字幕同步等應用程式。雖然其主要重點是促進希臘旅遊業的包容性，但它的適用性也延伸到教育、醫療保健和公共服務。未來的進展將透過先進的人工智慧方法和與不同利害關係人的合作，提升字元級精準度和擴充到其他語言。此資料集突顯了多模態資源在彌合溝通鴻溝、促進創新以及為道德人工智慧和包容性技術設定基準方面的變革潛力。
+
+##### **Discovering Hidden Visual Concepts Beyond Linguistic Input in Infant Learning**
+2501.05205v1 by Xueyi Ke, Satoshi Tsutsui, Yayun Zhang, Bihan Wen
+
+Infants develop complex visual understanding rapidly, even preceding of the
+acquisition of linguistic inputs. As computer vision seeks to replicate the
+human vision system, understanding infant visual development may offer valuable
+insights. In this paper, we present an interdisciplinary study exploring this
+question: can a computational model that imitates the infant learning process
+develop broader visual concepts that extend beyond the vocabulary it has heard,
+similar to how infants naturally learn? To investigate this, we analyze a
+recently published model in Science by Vong et al.,which is trained on
+longitudinal, egocentric images of a single child paired with transcribed
+parental speech. We introduce a training-free framework that can discover
+visual concept neurons hidden in the model's internal representations. Our
+findings show that these neurons can classify objects outside its original
+vocabulary. Furthermore, we compare the visual representations in infant-like
+models with those in moder computer vision models, such as CLIP or ImageNet
+pre-trained model, highlighting key similarities and differences. Ultimately,
+our work bridges cognitive science and computer vision by analyzing the
+internal representations of a computational model trained on an infant's visual
+and linguistic inputs.
+
+摘要：嬰兒發展出複雜的視覺理解，甚至早於語言輸入的獲得。由於電腦視覺試圖複製人類視覺系統，了解嬰兒視覺發展可能會提供有價值的見解。在本文中，我們提出了一項探索這個問題的跨學科研究：一個模仿嬰兒學習過程的計算模型是否能發展出超越其聽到的詞彙的更廣泛的視覺概念，類似於嬰兒自然學習的方式？為了調查這一點，我們分析了 Vong 等人在 Science 上最近發表的模型，該模型訓練於一個孩子的縱向自我中心影像，並配有轉錄的父母語言。我們引入了一個無需訓練的框架，它可以在模型的內部表示中發現隱藏的視覺概念神經元。我們的研究結果表明，這些神經元可以對其原始詞彙之外的物體進行分類。此外，我們將類嬰兒模型中的視覺表示與現代電腦視覺模型（例如 CLIP 或 ImageNet 預訓練模型）中的視覺表示進行比較，突出了關鍵的相似性和差異。最終，我們的研究通過分析在嬰兒的視覺和語言輸入上訓練的計算模型的內部表示，架起了認知科學和電腦視覺之間的橋樑。
+
+##### **Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**
+2501.05165v1 by Matteo Esposito
+
+Context. Developing secure and reliable software remains a key challenge in
+software engineering (SE). The ever-evolving technological landscape offers
+both opportunities and threats, creating a dynamic space where chaos and order
+compete. Secure software engineering (SSE) must continuously address
+vulnerabilities that endanger software systems and carry broader socio-economic
+risks, such as compromising critical national infrastructure and causing
+significant financial losses. Researchers and practitioners have explored
+methodologies like Static Application Security Testing Tools (SASTTs) and
+artificial intelligence (AI) approaches, including machine learning (ML) and
+large language models (LLMs), to detect and mitigate these vulnerabilities.
+Each method has unique strengths and limitations.
+  Aim. This thesis seeks to bring order to the chaos in SSE by addressing
+domain-specific differences that impact AI accuracy.
+  Methodology. The research employs a mix of empirical strategies, such as
+evaluating effort-aware metrics, analyzing SASTTs, conducting method-level
+analysis, and leveraging evidence-based techniques like systematic dataset
+reviews. These approaches help characterize vulnerability prediction datasets.
+  Results. Key findings include limitations in static analysis tools for
+identifying vulnerabilities, gaps in SASTT coverage of vulnerability types,
+weak relationships among vulnerability severity scores, improved defect
+prediction accuracy using just-in-time modeling, and threats posed by untouched
+methods.
+  Conclusions. This thesis highlights the complexity of SSE and the importance
+of contextual knowledge in improving AI-driven vulnerability and defect
+prediction. The comprehensive analysis advances effective prediction models,
+benefiting both researchers and practitioners.
+
+摘要：<paragraph>脈絡。開發安全且可靠的軟體仍然是軟體工程 (SE) 中的一項關鍵挑戰。不斷演進的技術領域既帶來機會，也帶來威脅，創造了一個混亂與秩序競爭的動態空間。安全軟體工程 (SSE) 必須持續解決危害軟體系統並帶來更廣泛社會經濟風險的漏洞，例如危害重要的國家基礎設施並造成重大財務損失。研究人員和從業人員已經探索了方法，例如靜態應用程式安全測試工具 (SASTT) 和人工智慧 (AI) 方法，包括機器學習 (ML) 和大型語言模型 (LLM)，以偵測和減輕這些漏洞。每種方法都有獨特的優點和缺點。
+目標。本論文旨在透過解決影響 AI 精確度的特定領域差異，為 SSE 中的混亂帶來秩序。
+方法。本研究採用各種經驗策略，例如評估考量工作量的指標、分析 SASTT、執行方法層級分析，以及利用基於證據的技術，例如系統化資料集回顧。這些方法有助於描述漏洞預測資料集。
+結果。主要發現包括用於識別漏洞的靜態分析工具的限制、SASTT 對漏洞類型的涵蓋範圍有差距、漏洞嚴重性評分之間的關係薄弱、僅在即時建模中改善缺陷預測的準確度，以及未觸及的方法所帶來的威脅。
+結論。本論文強調了 SSE 的複雜性以及背景知識在改善 AI 驅動的漏洞和缺陷預測中的重要性。全面的分析推動了有效的預測模型，使研究人員和從業人員受益。</paragraph>
+
+##### **Explainable AI based System for Supply Air Temperature Forecast**
+2501.05163v1 by Marika Eik, Ahmet Kose, Hossein Nourollahi Hokmabad, Juri Belikov
+
+This paper explores the application of Explainable AI (XAI) techniques to
+improve the transparency and understanding of predictive models in control of
+automated supply air temperature (ASAT) of Air Handling Unit (AHU). The study
+focuses on forecasting of ASAT using a linear regression with Huber loss.
+However, having only a control curve without semantic and/or physical
+explanation is often not enough. The present study employs one of the XAI
+methods: Shapley values, which allows to reveal the reasoning and highlight the
+contribution of each feature to the final ASAT forecast. In comparison to other
+XAI methods, Shapley values have solid mathematical background, resulting in
+interpretation transparency. The study demonstrates the contrastive
+explanations--slices, for each control value of ASAT, which makes it possible
+to give the client objective justifications for curve changes.
+
+摘要：本文探討可解釋 AI (XAI) 技術在提高空氣處理單元 (AHU) 自動供應空氣溫度 (ASAT) 預測模型的透明度和理解度中的應用。本研究的重點在於使用帶有 Huber 損失的線性回歸預測 ASAT。然而，僅有一個沒有語義和/或物理解釋的控制曲線通常是不夠的。本研究採用 XAI 方法之一：Shapley 值，它可以揭示推理並強調每個特徵對最終 ASAT 預測的貢獻。與其他 XAI 方法相比，Shapley 值具有紮實的數學背景，從而實現了解釋透明度。本研究展示了對比解釋——切片，針對 ASAT 的每個控制值，這使得可以為曲線變化提供客戶客觀的理由。
+
+##### **Biomedical Relation Extraction via Adaptive Document-Relation Cross-Mapping and Concept Unique Identifier**
+2501.05155v1 by Yufei Shang, Yanrong Guo, Shijie Hao, Richang Hong
+
+Document-Level Biomedical Relation Extraction (Bio-RE) aims to identify
+relations between biomedical entities within extensive texts, serving as a
+crucial subfield of biomedical text mining. Existing Bio-RE methods struggle
+with cross-sentence inference, which is essential for capturing relations
+spanning multiple sentences. Moreover, previous methods often overlook the
+incompleteness of documents and lack the integration of external knowledge,
+limiting contextual richness. Besides, the scarcity of annotated data further
+hampers model training. Recent advancements in large language models (LLMs)
+have inspired us to explore all the above issues for document-level Bio-RE.
+Specifically, we propose a document-level Bio-RE framework via LLM Adaptive
+Document-Relation Cross-Mapping (ADRCM) Fine-Tuning and Concept Unique
+Identifier (CUI) Retrieval-Augmented Generation (RAG). First, we introduce the
+Iteration-of-REsummary (IoRs) prompt for solving the data scarcity issue. In
+this way, Bio-RE task-specific synthetic data can be generated by guiding
+ChatGPT to focus on entity relations and iteratively refining synthetic data.
+Next, we propose ADRCM fine-tuning, a novel fine-tuning recipe that establishes
+mappings across different documents and relations, enhancing the model's
+contextual understanding and cross-sentence inference capabilities. Finally,
+during the inference, a biomedical-specific RAG approach, named CUI RAG, is
+designed to leverage CUIs as indexes for entities, narrowing the retrieval
+scope and enriching the relevant document contexts. Experiments conducted on
+three Bio-RE datasets (GDA, CDR, and BioRED) demonstrate the state-of-the-art
+performance of our proposed method by comparing it with other related works.
+
+摘要：<paragraph>文件級生物醫學關係萃取 (Bio-RE) 旨在識別廣泛文本中生物醫學實體之間的關係，是生物醫學文本探勘的關鍵子領域。現有的 Bio-RE 方法難以進行跨句推論，這對於捕捉跨越多個句子的關係至關重要。此外，先前的研究方法經常忽略文件的完整性，且缺乏外部知識的整合，限制了脈絡的豐富性。此外，標註資料的稀少性進一步阻礙了模型訓練。大型語言模型 (LLM) 的最新進展激勵我們探索文件級 Bio-RE 的所有上述問題。具體來說，我們透過 LLM 適應性文件關係交叉對應 (ADRCM) 微調和概念唯一識別碼 (CUI) 檢索增強生成 (RAG) 提出一個文件級 Bio-RE 架構。首先，我們介紹 RE 摘要反覆 (IoRs) 提示，以解決資料稀少的問題。透過這種方式，可以透過引導 ChatGPT 專注於實體關係和反覆優化合成資料來產生 Bio-RE 任務特定的合成資料。接下來，我們提出 ADRCM 微調，這是一種新穎的微調配方，可建立不同文件和關係之間的對應，增強模型的脈絡理解和跨句推論能力。最後，在推理過程中，設計了一種名為 CUI RAG 的生物醫學特定 RAG 方法，以利用 CUI 作為實體的索引，縮小檢索範圍並豐富相關文件脈絡。在三個 Bio-RE 資料集 (GDA、CDR 和 BioRED) 上進行的實驗證明了我們提出的方法的最新技術，並將其與其他相關工作進行比較。</paragraph>
+
+##### **A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**
+2501.05147v1 by Ali Rohan, Md Junayed Hasan, Andrei Petrovski
+
+Depth estimation (DE) provides spatial information about a scene and enables
+tasks such as 3D reconstruction, object detection, and scene understanding.
+Recently, there has been an increasing interest in using deep learning
+(DL)-based methods for DE. Traditional techniques rely on handcrafted features
+that often struggle to generalise to diverse scenes and require extensive
+manual tuning. However, DL models for DE can automatically extract relevant
+features from input data, adapt to various scene conditions, and generalise
+well to unseen environments. Numerous DL-based methods have been developed,
+making it necessary to survey and synthesize the state-of-the-art (SOTA).
+Previous reviews on DE have mainly focused on either monocular or stereo-based
+techniques, rather than comprehensively reviewing DE. Furthermore, to the best
+of our knowledge, there is no systematic literature review (SLR) that
+comprehensively focuses on DE. Therefore, this SLR study is being conducted.
+Initially, electronic databases were searched for relevant publications,
+resulting in 1284 publications. Using defined exclusion and quality criteria,
+128 publications were shortlisted and further filtered to select 59
+high-quality primary studies. These studies were analysed to extract data and
+answer defined research questions. Based on the results, DL methods were
+developed for mainly three different types of DE: monocular, stereo, and
+multi-view. 20 publicly available datasets were used to train, test, and
+evaluate DL models for DE, with KITTI, NYU Depth V2, and Make 3D being the most
+used datasets. 29 evaluation metrics were used to assess the performance of DE.
+35 base models were reported in the primary studies, and the top five most-used
+base models were ResNet-50, ResNet-18, ResNet-101, U-Net, and VGG-16. Finally,
+the lack of ground truth data was among the most significant challenges
+reported by primary studies.
+
+摘要：深度估計 (DE) 提供場景的空間資訊，並能執行 3D 重建、物體偵測和場景理解等任務。最近，使用深度學習 (DL) 的方法進行 DE 逐漸受到重視。傳統技術仰賴手工特徵，而這些特徵通常難以推廣到不同的場景，並且需要廣泛的手動調整。然而，DE 的 DL 模型可以自動從輸入資料中萃取相關特徵、適應各種場景條件，並能推廣到未知的環境。已經開發出許多基於 DL 的方法，因此有必要調查和綜合現有技術 (SOTA)。先前關於 DE 的回顧主要專注於單眼或立體技術，而不是全面回顧 DE。此外，據我們所知，沒有系統性的文獻回顧 (SLR) 全面關注 DE。因此，正在進行這項 SLR 研究。最初，在電子資料庫中搜尋相關出版品，共得到 1284 篇出版品。使用定義的排除和品質標準，將 128 篇出版品列入候選名單，並進一步篩選出 59 項高品質的主要研究。分析這些研究以萃取資料並回答定義的研究問題。根據結果，DL 方法主要針對三種類型的 DE 進行開發：單眼、立體和多視圖。20 個公開可用的資料集用於訓練、測試和評估 DE 的 DL 模型，其中 KITTI、NYU Depth V2 和 Make 3D 是最常用的資料集。29 個評估指標用於評估 DE 的效能。35 個基礎模型在主要研究中被報導，前五個最常使用的基礎模型是 ResNet-50、ResNet-18、ResNet-101、U-Net 和 VGG-16。最後，主要研究報告的重大挑戰之一是缺乏真實資料。
+
+##### **Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model**
+2501.05122v1 by Gregor Geigle, Florian Schneider, Carolin Holtermann, Chris Biemann, Radu Timofte, Anne Lauscher, Goran Glavaš
+
+Most Large Vision-Language Models (LVLMs) to date are trained predominantly
+on English data, which makes them struggle to understand non-English input and
+fail to generate output in the desired target language. Existing efforts
+mitigate these issues by adding multilingual training data, but do so in a
+largely ad-hoc manner, lacking insight into how different training mixes tip
+the scale for different groups of languages. In this work, we present a
+comprehensive investigation into the training strategies for massively
+multilingual LVLMs. First, we conduct a series of multi-stage experiments
+spanning 13 downstream vision-language tasks and 43 languages, systematically
+examining: (1) the number of training languages that can be included without
+degrading English performance and (2) optimal language distributions of
+pre-training as well as (3) instruction-tuning data. Further, we (4)
+investigate how to improve multilingual text-in-image understanding, and
+introduce a new benchmark for the task. Surprisingly, our analysis reveals that
+one can (i) include as many as 100 training languages simultaneously (ii) with
+as little as 25-50\% of non-English data, to greatly improve multilingual
+performance while retaining strong English performance. We further find that
+(iii) including non-English OCR data in pre-training and instruction-tuning is
+paramount for improving multilingual text-in-image understanding. Finally, we
+put all our findings together and train Centurio, a 100-language LVLM, offering
+state-of-the-art performance in an evaluation covering 14 tasks and 56
+languages.
+
+摘要：<paragraph>迄今為止，大多數大型視覺語言模型 (LVLMs) 主要都是以英文資料進行訓練，這使得它們難以理解非英文輸入，也無法產生目標語言的輸出。現有的解決方法是透過加入多語言訓練資料來減輕這些問題，但這些方法大多都是臨時應變，缺乏對於不同訓練組合如何影響不同語言群體的見解。在本文中，我們針對大量多語言 LVLMs 的訓練策略進行全面調查。首先，我們進行了一系列多階段實驗，涵蓋 13 個下游視覺語言任務和 43 種語言，系統性地探討：(1) 在不降低英文效能的情況下可以納入的訓練語言數量，以及 (2) 預訓練的最佳語言分佈，以及 (3) 指令調整資料。此外，我們 (4) 探討如何改善多語言文字影像理解，並為此任務引入一個新的基準。令人驚訝的是，我們的分析顯示，人們可以 (i) 同時納入多達 100 種訓練語言，(ii) 只要 25-50% 的非英文資料，就能大幅改善多語言效能，同時維持強勁的英文效能。我們進一步發現，(iii) 在預訓練和指令調整中納入非英文 OCR 資料對於改善多語言文字影像理解至關重要。最後，我們將所有發現彙整起來，訓練出 Centurio，這是一個 100 語言的 LVLM，在涵蓋 14 個任務和 56 種語言的評估中提供最先進的效能。</paragraph>
+
+##### **Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**
+2501.05113v1 by Tobias Kortus, Ralf Keidel, Nicolas R. Gauger, Jan Kieseler
+
+Reinforcement learning demonstrated immense success in modelling complex
+physics-driven systems, providing end-to-end trainable solutions by interacting
+with a simulated or real environment, maximizing a scalar reward signal. In
+this work, we propose, building upon previous work, a multi-agent reinforcement
+learning approach with assignment constraints for reconstructing particle
+tracks in pixelated particle detectors. Our approach optimizes collaboratively
+a parametrized policy, functioning as a heuristic to a multidimensional
+assignment problem, by jointly minimizing the total amount of particle
+scattering over the reconstructed tracks in a readout frame. To satisfy
+constraints, guaranteeing a unique assignment of particle hits, we propose a
+safety layer solving a linear assignment problem for every joint action.
+Further, to enforce cost margins, increasing the distance of the local policies
+predictions to the decision boundaries of the optimizer mappings, we recommend
+the use of an additional component in the blackbox gradient estimation, forcing
+the policy to solutions with lower total assignment costs. We empirically show
+on simulated data, generated for a particle detector developed for proton
+imaging, the effectiveness of our approach, compared to multiple single- and
+multi-agent baselines. We further demonstrate the effectiveness of constraints
+with cost margins for both optimization and generalization, introduced by wider
+regions with high reconstruction performance as well as reduced predictive
+instabilities. Our results form the basis for further developments in RL-based
+tracking, offering both enhanced performance with constrained policies and
+greater flexibility in optimizing tracking algorithms through the option for
+individual and team rewards.
+
+摘要：強化學習在建模複雜的物理驅動系統方面展現出巨大的成功，透過與模擬或真實環境互動，提供端到端的可訓練解決方案，最大化標量獎勵訊號。在這項工作中，我們提出建立在先前工作上的多重代理強化學習方法，使用指派約束來重建像素化粒子探測器中的粒子軌跡。我們的做法透過共同最小化讀取框架中重建軌跡上粒子的總散射量，協調最佳化一個參數化策略，作為多維指派問題的啟發法。為了滿足約束，確保粒子命中事件的唯一指派，我們提出一個安全層，為每個聯合動作解決線性指派問題。此外，為了強制執行成本邊際，增加局部策略預測與最佳化對應的決策邊界的距離，我們建議在黑盒梯度估計中使用額外的組成，迫使策略採取總指派成本較低的解決方案。我們在為質子影像開發的粒子探測器產生的模擬資料上，實證顯示我們的方法有效，並與多個單一和多重代理基準進行比較。我們進一步展示了約束在最佳化和概括中的有效性，這些約束透過具有高重建效能的較寬廣區域以及減少預測不穩定性而引入。我們的結果為基於 RL 的追蹤進一步發展奠定基礎，透過受約束策略提供增強的效能，以及透過個人和團隊獎勵的選項，在最佳化追蹤演算法方面提供更大的彈性。
+
+##### **Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**
+2501.05095v1 by Haoyi Xiu, Xin Liu, Taehoon Kim, Kyoung-Sook Kim
+
+The pre-training and fine-tuning paradigm has revolutionized satellite remote
+sensing applications. However, this approach remains largely underexplored for
+airborne laser scanning (ALS), an important technology for applications such as
+forest management and urban planning. In this study, we address this gap by
+constructing a large-scale ALS point cloud dataset and evaluating its impact on
+downstream applications. Our dataset comprises ALS point clouds collected
+across the contiguous United States, provided by the United States Geological
+Survey's 3D Elevation Program. To ensure efficient data collection while
+capturing diverse land cover and terrain types, we introduce a geospatial
+sampling method that selects point cloud tiles based on land cover maps and
+digital elevation models. As a baseline self-supervised learning model, we
+adopt BEV-MAE, a state-of-the-art masked autoencoder for 3D outdoor point
+clouds, and pre-train it on the constructed dataset. The pre-trained models are
+subsequently fine-tuned for downstream tasks, including tree species
+classification, terrain scene recognition, and point cloud semantic
+segmentation. Our results show that the pre-trained models significantly
+outperform their scratch counterparts across all downstream tasks,
+demonstrating the transferability of the representations learned from the
+proposed dataset. Furthermore, we observe that scaling the dataset using our
+geospatial sampling method consistently enhances performance, whereas
+pre-training on datasets constructed with random sampling fails to achieve
+similar improvements. These findings highlight the utility of the constructed
+dataset and the effectiveness of our sampling strategy in the pre-training and
+fine-tuning paradigm. The source code and pre-trained models will be made
+publicly available at \url{https://github.com/martianxiu/ALS_pretraining}.
+
+摘要：預訓練和微調範例已徹底改變衛星遙測應用。然而，這種方法在機載雷射掃描 (ALS) 上仍未被廣泛探索，而 ALS 是一項應用於森林管理和都市規劃等領域的重要技術。在這項研究中，我們透過建構大規模 ALS 點雲資料集並評估其對下游應用的影響來解決這個問題。我們的資料集包含由美國地質調查局的 3D 高程計畫所提供的，在美國本土收集的 ALS 點雲。為了確保有效率的資料收集，同時擷取多樣的土地覆蓋和地形類型，我們引入一種地理空間取樣方法，根據土地覆蓋地圖和數位高程模型來選擇點雲磚塊。身為基準的自監督式學習模型，我們採用 BEV-MAE，這是一種最先進的 3D 戶外點雲遮罩自動編碼器，並在建構的資料集上對其進行預訓練。預訓練模型隨後針對下游任務進行微調，包括樹種分類、地形場景辨識和點雲語意分割。我們的結果顯示，預訓練模型在所有下游任務中都顯著優於從頭訓練的模型，證明了從建議資料集中學習到的表徵的可轉移性。此外，我們觀察到使用我們的地理空間取樣方法擴充資料集會持續提升效能，而使用隨機取樣建構的資料集進行預訓練則無法獲得類似的進步。這些發現突顯了建構資料集的效用，以及我們的取樣策略在預訓練和微調範例中的有效性。原始碼和預訓練模型將在 \url{https://github.com/martianxiu/ALS_pretraining} 公開。
+
+##### **Comparison of Feature Learning Methods for Metadata Extraction from PDF Scholarly Documents**
+2501.05082v1 by Zeyd Boukhers, Cong Yang
+
+The availability of metadata for scientific documents is pivotal in
+propelling scientific knowledge forward and for adhering to the FAIR principles
+(i.e. Findability, Accessibility, Interoperability, and Reusability) of
+research findings. However, the lack of sufficient metadata in published
+documents, particularly those from smaller and mid-sized publishers, hinders
+their accessibility. This issue is widespread in some disciplines, such as the
+German Social Sciences, where publications often employ diverse templates. To
+address this challenge, our study evaluates various feature learning and
+prediction methods, including natural language processing (NLP), computer
+vision (CV), and multimodal approaches, for extracting metadata from documents
+with high template variance. We aim to improve the accessibility of scientific
+documents and facilitate their wider use. To support our comparison of these
+methods, we provide comprehensive experimental results, analyzing their
+accuracy and efficiency in extracting metadata. Additionally, we provide
+valuable insights into the strengths and weaknesses of various feature learning
+and prediction methods, which can guide future research in this field.
+
+摘要：科學文件中的元資料可用性對於推進科學知識進步以及遵守研究發現的 FAIR 原則（即：可尋找性、可存取性、互操作性及可重複使用性）至關重要。然而，已發布文件中缺乏足夠的元資料，尤其是來自較小規模和中型規模出版商的文件，會阻礙其可存取性。這個問題在某些領域很普遍，例如德國社會科學，那裡的出版物通常採用不同的範本。為了應對這個挑戰，我們的研究評估了各種特徵學習和預測方法，包括自然語言處理 (NLP)、電腦視覺 (CV) 和多模式方法，用於從範本差異性高的文件中萃取元資料。我們的目標是改善科學文件的可存取性，並促進其更廣泛的使用。為了支持我們對這些方法的比較，我們提供了全面的實驗結果，分析了它們在萃取元資料方面的準確性和效率。此外，我們還提供了對各種特徵學習和預測方法的優缺點的寶貴見解，這些見解可以指導此領域的未來研究。
+
+##### **Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**
+2501.05079v1 by Harshith Manjunath, Lucas Heublein, Tobias Feigl, Felix Ott
+
+Large language models (LLMs) are advanced AI systems applied across various
+domains, including NLP, information retrieval, and recommendation systems.
+Despite their adaptability and efficiency, LLMs have not been extensively
+explored for signal processing tasks, particularly in the domain of global
+navigation satellite system (GNSS) interference monitoring. GNSS interference
+monitoring is essential to ensure the reliability of vehicle localization on
+roads, a critical requirement for numerous applications. However, GNSS-based
+positioning is vulnerable to interference from jamming devices, which can
+compromise its accuracy. The primary objective is to identify, classify, and
+mitigate these interferences. Interpreting GNSS snapshots and the associated
+interferences presents significant challenges due to the inherent complexity,
+including multipath effects, diverse interference types, varying sensor
+characteristics, and satellite constellations. In this paper, we extract
+features from a large GNSS dataset and employ LLaVA to retrieve relevant
+information from an extensive knowledge base. We employ prompt engineering to
+interpret the interferences and environmental factors, and utilize t-SNE to
+analyze the feature embeddings. Our findings demonstrate that the proposed
+method is capable of visual and logical reasoning within the GNSS context.
+Furthermore, our pipeline outperforms state-of-the-art machine learning models
+in interference classification tasks.
+
+摘要：大型語言模型 (LLM) 是先進的人工智慧系統，應用於各種領域，包括自然語言處理、資訊檢索和推薦系統。儘管 LLM 具有適應性和效率，但尚未廣泛探索用於訊號處理任務，特別是在全球導航衛星系統 (GNSS) 干擾監控領域。GNSS 干擾監控對於確保道路上車輛定位的可靠性至關重要，這對於許多應用來說是一項關鍵要求。然而，基於 GNSS 的定位容易受到干擾裝置的干擾，這可能會影響其準確性。主要目標是識別、分類和減輕這些干擾。由於固有的複雜性，包括多路徑效應、多樣化的干擾類型、不同的感測器特性和衛星星座，因此解釋 GNSS 快照和相關干擾會帶來重大挑戰。在本文中，我們從大型 GNSS 資料集中提取特徵，並使用 LLaVA 從廣泛的知識庫中檢索相關資訊。我們採用提示工程來解釋干擾和環境因素，並利用 t-SNE 來分析特徵嵌入。我們的研究結果表明，所提出的方法能夠在 GNSS 背景下進行視覺和邏輯推理。此外，我們的管道在干擾分類任務中優於最先進的機器學習模型。
+
+##### **Analyzing Memorization in Large Language Models through the Lens of Model Attribution**
+2501.05078v1 by Tarun Ram Menta, Susmit Agrawal, Chirag Agarwal
+
+Large Language Models (LLMs) are prevalent in modern applications but often
+memorize training data, leading to privacy breaches and copyright issues.
+Existing research has mainly focused on posthoc analyses, such as extracting
+memorized content or developing memorization metrics, without exploring the
+underlying architectural factors that contribute to memorization. In this work,
+we investigate memorization from an architectural lens by analyzing how
+attention modules at different layers impact its memorization and
+generalization performance. Using attribution techniques, we systematically
+intervene in the LLM architecture by bypassing attention modules at specific
+blocks while keeping other components like layer normalization and MLP
+transformations intact. We provide theorems analyzing our intervention
+mechanism from a mathematical view, bounding the difference in layer outputs
+with and without our attributions. Our theoretical and empirical analyses
+reveal that attention modules in deeper transformer blocks are primarily
+responsible for memorization, whereas earlier blocks are crucial for the models
+generalization and reasoning capabilities. We validate our findings through
+comprehensive experiments on different LLM families (Pythia and GPTNeo) and
+five benchmark datasets. Our insights offer a practical approach to mitigate
+memorization in LLMs while preserving their performance, contributing to safer
+and more ethical deployment in real world applications.
+
+摘要：大型語言模型 (LLM) 在現代應用中很普遍，但經常記住訓練資料，導致隱私洩露和版權問題。現有研究主要集中在事後分析，例如提取記憶內容或開發記憶度量標準，而沒有探討導致記憶的底層架構因素。在這項工作中，我們透過分析不同層級的注意力模組如何影響其記憶和泛化效能，從架構角度探討記憶。使用歸因技術，我們系統性地介入 LLM 架構，方法是在特定區塊中繞過注意力模組，同時保持層正規化和 MLP 轉換等其他元件完整。我們提供定理從數學角度分析我們的介入機制，界定有和沒有我們的歸因時層輸出差異。我們的理論和實證分析顯示，較深層Transformer區塊中的注意力模組主要負責記憶，而較早期的區塊對於模型的泛化和推理能力至關重要。我們透過對不同 LLM 家族（Pythia 和 GPTNeo）和五個基準資料集進行全面的實驗驗證我們的發現。我們的見解提供了一種實用的方法來減輕 LLM 中的記憶，同時保留其效能，有助於在實際應用中更安全、更合乎道德地部署。
+
+##### **A Text-Based Knowledge-Embedded Soft Sensing Modeling Approach for General Industrial Process Tasks Based on Large Language Model**
+2501.05075v1 by Shuo Tong, Han Liu, Runyuan Guo, Xueqiong Tian, Wenqing Wang, Ding Liu, Youmin Zhang
+
+Data-driven soft sensors (DDSS) have become mainstream methods for predicting
+key performance indicators in process industries. However, DDSS development
+requires complex and costly customized designs tailored to various tasks during
+the modeling process. Moreover, DDSS are constrained to a single structured
+data modality, limiting their ability to incorporate additional contextual
+knowledge. Furthermore, DDSSs' limited representation learning leads to weak
+predictive performance with scarce data. To address these challenges, we
+propose a general framework named LLM-TKESS (large language model for
+text-based knowledge-embedded soft sensing), harnessing the powerful general
+problem-solving capabilities, cross-modal knowledge transfer abilities, and
+few-shot capabilities of LLM for enhanced soft sensing modeling. Specifically,
+an auxiliary variable series encoder (AVS Encoder) is proposed to unleash LLM's
+potential for capturing temporal relationships within series and spatial
+semantic relationships among auxiliary variables. Then, we propose a two-stage
+fine-tuning alignment strategy: in the first stage, employing
+parameter-efficient fine-tuning through autoregressive training adjusts LLM to
+rapidly accommodate process variable data, resulting in a soft sensing
+foundation model (SSFM). Subsequently, by training adapters, we adapt the SSFM
+to various downstream tasks without modifying its architecture. Then, we
+propose two text-based knowledge-embedded soft sensors, integrating new natural
+language modalities to overcome the limitations of pure structured data models.
+Furthermore, benefiting from LLM's pre-existing world knowledge, our model
+demonstrates outstanding predictive capabilities in small sample conditions.
+Using the thermal deformation of air preheater rotor as a case study, we
+validate through extensive experiments that LLM-TKESS exhibits outstanding
+performance.
+
+摘要：<paragraph>資料驅動軟感測器 (DDSS) 已成為預測製程產業中關鍵績效指標的主流方法。然而，DDSS 的開發需要複雜且昂貴的客製化設計，以適應建模過程中各種任務。此外，DDSS 受到單一結構化資料模式的限制，這限制了其整合額外背景知識的能力。進一步來說，DDSS 有限的表徵學習導致在資料稀少的情況下預測效能不佳。為了應對這些挑戰，我們提出了一個名為 LLM-TKESS（用於基於文字知識嵌入式軟感測的大型語言模型）的通用架構，利用 LLM 強大的通用問題解決能力、跨模態知識傳輸能力和少樣本能力來增強軟感測建模。具體來說，提出了一個輔助變數序列編碼器 (AVS 編碼器) 來釋放 LLM 擷取序列中時間關係和輔助變數之間空間語義關係的潛力。然後，我們提出了一個兩階段微調對齊策略：在第一階段，透過自迴歸訓練採用參數高效的微調，調整 LLM 以快速適應製程變數資料，從而產生軟感測基礎模型 (SSFM)。隨後，透過訓練適配器，我們將 SSFM 適應到各種下游任務，而無需修改其架構。然後，我們提出了兩個基於文字的知識嵌入式軟感測器，整合新的自然語言模式以克服純結構化資料模型的限制。此外，受益於 LLM 已有的世界知識，我們的模型在小樣本條件下展示了出色的預測能力。使用空氣預熱器轉子的熱變形作為案例研究，我們透過廣泛的實驗驗證了 LLM-TKESS 展現出色的效能。</paragraph>
+
+##### **Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**
+2501.05069v1 by Huabin Liu, Filip Ilievski, Cees G. M. Snoek
+
+This paper proposes the first video-grounded entailment tree reasoning method
+for commonsense video question answering (VQA). Despite the remarkable progress
+of large visual-language models (VLMs), there are growing concerns that they
+learn spurious correlations between videos and likely answers, reinforced by
+their black-box nature and remaining benchmarking biases. Our method explicitly
+grounds VQA tasks to video fragments in four steps: entailment tree
+construction, video-language entailment verification, tree reasoning, and
+dynamic tree expansion. A vital benefit of the method is its generalizability
+to current video and image-based VLMs across reasoning types. To support fair
+evaluation, we devise a de-biasing procedure based on large-language models
+that rewrites VQA benchmark answer sets to enforce model reasoning. Systematic
+experiments on existing and de-biased benchmarks highlight the impact of our
+method components across benchmarks, VLMs, and reasoning types.
+
+摘要：本文提出第一個影片接地推論樹推理方法，用於常識影片問答 (VQA)。儘管大型視覺語言模型 (VLM) 有顯著進展，但對於它們學習影片與可能答案之間的虛假關聯性，並因其黑盒性質和現有基準偏差而加強，越來越令人擔憂。我們的模型明確地將 VQA 任務建立在影片片段上，分為四個步驟：推論樹構建、影片語言推論驗證、樹推理和動態樹擴充。此方法的一項重要優點是其對各種推理類型中現有影片和基於影像的 VLM 的通用性。為了支持公平的評估，我們設計了一個基於大型語言模型的去偏程序，用於改寫 VQA 基準答案集以強制執行模型推理。在現有和去偏基準上的系統性實驗突顯了我們的模型組成在基準、VLM 和推理類型上的影響。
+
+##### **D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**
+2501.05068v1 by Hounsu Kim, Taegyun Kwon, Juhan Nam
+
+Diffusion models have been widely used in the generative domain due to their
+convincing performance in modeling complex data distributions. Moreover, they
+have shown competitive results on discriminative tasks, such as image
+segmentation. While diffusion models have also been explored for automatic
+music transcription, their performance has yet to reach a competitive level. In
+this paper, we focus on discrete diffusion model's refinement capabilities and
+present a novel architecture for piano transcription. Our model utilizes
+Neighborhood Attention layers as the denoising module, gradually predicting the
+target high-resolution piano roll, conditioned on the finetuned features of a
+pretrained acoustic model. To further enhance refinement, we devise a novel
+strategy which applies distinct transition states during training and inference
+stage of discrete diffusion models. Experiments on the MAESTRO dataset show
+that our approach outperforms previous diffusion-based piano transcription
+models and the baseline model in terms of F1 score. Our code is available in
+https://github.com/hanshounsu/d3rm.
+
+摘要：擴散模型因其在建模複雜資料分佈上的出色表現，而廣泛用於生成領域。此外，它們在判別任務（例如影像分割）上也展現出競爭力的結果。儘管擴散模型也已用於自動音樂轉錄，但其效能仍未達到競爭水準。在本文中，我們專注於離散擴散模型的精煉能力，並提出鋼琴轉錄的新穎架構。我們的模型利用鄰域注意力層作為去噪模組，逐漸預測目標高解析度鋼琴捲軸，並根據預訓練聲學模型的微調特徵進行條件化。為了進一步增強精煉，我們設計了一種新穎策略，在離散擴散模型的訓練和推論階段應用不同的轉換狀態。在 MAESTRO 資料集上的實驗顯示，我們的做法在 F1 分數方面優於先前的基於擴散的鋼琴轉錄模型和基準模型。我們的程式碼可在 https://github.com/hanshounsu/d3rm 中取得。
+
+##### **LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**
+2501.05067v1 by Jiaxing Zhao, Boyuan Sun, Xiang Chen, Xihan Wei, Qibin Hou
+
+In this paper, we introduce LLaVA-Octopus, a novel video multimodal large
+language model. LLaVA-Octopus adaptively weights features from different visual
+projectors based on user instructions, enabling us to leverage the
+complementary strengths of each projector. We observe that different visual
+projectors exhibit distinct characteristics when handling specific tasks. For
+instance, some projectors excel at capturing static details, while others are
+more effective at processing temporal information, and some are better suited
+for tasks requiring temporal coherence. By dynamically adjusting feature
+weights according to user instructions, LLaVA-Octopus dynamically selects and
+combines the most suitable features, significantly enhancing the model's
+performance in multimodal tasks. Experimental results demonstrate that
+LLaVA-Octopus achieves excellent performance across multiple benchmarks,
+especially in tasks such as multimodal understanding, visual question
+answering, and video understanding, highlighting its broad application
+potential.
+
+摘要：在本文中，我們介紹 LLaVA-Octopus，一種新穎的多模態大型語言影片模型。LLaVA-Octopus 會根據使用者的指示，自適應地調整不同視覺投影器的特徵權重，使我們能夠利用每個投影器的互補優勢。我們觀察到不同的視覺投影器在處理特定任務時，會表現出不同的特徵。例如，有些投影器擅長擷取靜態細節，而有些則更有效地處理時間資訊，有些則更適合需要時間連貫性的任務。透過根據使用者的指示動態調整特徵權重，LLaVA-Octopus 會動態選擇並結合最合適的特徵，大幅提升模型在多模態任務中的表現。實驗結果證明，LLaVA-Octopus 在多個基準測試中都能達到極佳的表現，特別是在多模態理解、視覺問答和影片理解等任務中，突顯其廣泛的應用潛力。
+
+##### **Improving Skeleton-based Action Recognition with Interactive Object Information**
+2501.05066v1 by Hao Wen, Ziqian Lu, Fengli Shen, Zhe-Ming Lu, Jialin Cui
+
+Human skeleton information is important in skeleton-based action recognition,
+which provides a simple and efficient way to describe human pose. However,
+existing skeleton-based methods focus more on the skeleton, ignoring the
+objects interacting with humans, resulting in poor performance in recognizing
+actions that involve object interactions. We propose a new action recognition
+framework introducing object nodes to supplement absent interactive object
+information. We also propose Spatial Temporal Variable Graph Convolutional
+Networks (ST-VGCN) to effectively model the Variable Graph (VG) containing
+object nodes. Specifically, in order to validate the role of interactive object
+information, by leveraging a simple self-training approach, we establish a new
+dataset, JXGC 24, and an extended dataset, NTU RGB+D+Object 60, including more
+than 2 million additional object nodes. At the same time, we designe the
+Variable Graph construction method to accommodate a variable number of nodes
+for graph structure. Additionally, we are the first to explore the overfitting
+issue introduced by incorporating additional object information, and we propose
+a VG-based data augmentation method to address this issue, called Random Node
+Attack. Finally, regarding the network structure, we introduce two fusion
+modules, CAF and WNPool, along with a novel Node Balance Loss, to enhance the
+comprehensive performance by effectively fusing and balancing skeleton and
+object node information. Our method surpasses the previous state-of-the-art on
+multiple skeleton-based action recognition benchmarks. The accuracy of our
+method on NTU RGB+D 60 cross-subject split is 96.7\%, and on cross-view split,
+it is 99.2\%.
+
+摘要：人體骨骼資訊對於基於骨骼的動作辨識非常重要，這提供了描述人體姿勢的簡單且有效率的方法。然而，現有的基於骨骼的方法更專注於骨骼，忽略了與人類互動的物體，導致在辨識涉及物體互動的動作時效能不佳。我們提出一個新的動作辨識架構，引入物體節點來補充缺少的互動物體資訊。我們也提出時空變數圖形卷積網路 (ST-VGCN) 來有效地建模包含物體節點的變數圖形 (VG)。具體來說，為了驗證互動物體資訊的角色，我們透過利用一個簡單的自訓練方法，建立了一個新的資料集 JXGC 24 和一個擴充的資料集 NTU RGB+D+Object 60，包含超過 200 萬個額外的物體節點。同時，我們設計了變數圖形建構方法來容納圖形結構中變數的節點數量。此外，我們率先探討了加入額外物體資訊所造成的過度擬合問題，並提出一個基於 VG 的資料擴充方法來解決這個問題，稱為隨機節點攻擊。最後，關於網路結構，我們引入了兩個融合模組，CAF 和 WNPool，以及一個新穎的節點平衡損失，透過有效地融合和平衡骨骼和物體節點資訊來增強綜合效能。我們的模型超越了多個基於骨骼的動作辨識基準上的先前技術水準。我們的模型在 NTU RGB+D 60 交叉主體分割上的準確度為 96.7%，在交叉視角分割上的準確度為 99.2%。
+
+##### **Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**
+2501.05058v1 by Leonard Lupin-Jimenez, Moein Darman, Subhashis Hazarika, Tianning Wu, Michael Gray, Ruyoing He, Anthony Wong, Ashesh Chattopadhyay
+
+Building on top of the success in AI-based atmospheric emulation, we propose
+an AI-based ocean emulation and downscaling framework focusing on the
+high-resolution regional ocean over Gulf of Mexico. Regional ocean emulation
+presents unique challenges owing to the complex bathymetry and lateral boundary
+conditions as well as from fundamental biases in deep learning-based
+frameworks, such as instability and hallucinations. In this paper, we develop a
+deep learning-based framework to autoregressively integrate ocean-surface
+variables over the Gulf of Mexico at $8$ Km spatial resolution without
+unphysical drifts over decadal time scales and simulataneously downscale and
+bias-correct it to $4$ Km resolution using a physics-constrained generative
+model. The framework shows both short-term skills as well as accurate long-term
+statistics in terms of mean and variability.
+
+摘要：建立在以 AI 為基礎的大氣模擬的成功之上，我們提出一個以 AI 為基礎的海洋模擬和降尺度架構，專注於墨西哥灣的高解析度區域海洋。區域海洋模擬由於複雜的水深測量學和邊界條件，以及基於深度學習的架構（例如不穩定性和幻覺）中的基本偏差，因此呈現出獨特的挑戰。在本文中，我們開發了一個基於深度學習的架構，以自迴歸方式整合墨西哥灣的海面變數，空間解析度為 8 公里，在十年時間尺度上沒有非物理漂移，並且同時使用受物理約束的生成模型將其降尺度並校正偏差至 4 公里解析度。該架構在均值和變異性方面顯示了短期技能和準確的長期統計數據。
+
+##### **TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**
+2501.05053v1 by Runhua Xu, Bo Li, Chao Li, James B. D. Joshi, Shuai Ma, Jianxin Li
+
+Federated learning is a computing paradigm that enhances privacy by enabling
+multiple parties to collaboratively train a machine learning model without
+revealing personal data. However, current research indicates that traditional
+federated learning platforms are unable to ensure privacy due to privacy leaks
+caused by the interchange of gradients. To achieve privacy-preserving federated
+learning, integrating secure aggregation mechanisms is essential.
+Unfortunately, existing solutions are vulnerable to recently demonstrated
+inference attacks such as the disaggregation attack. This paper proposes
+TAPFed, an approach for achieving privacy-preserving federated learning in the
+context of multiple decentralized aggregators with malicious actors. TAPFed
+uses a proposed threshold functional encryption scheme and allows for a certain
+number of malicious aggregators while maintaining security and privacy. We
+provide formal security and privacy analyses of TAPFed and compare it to
+various baselines through experimental evaluation. Our results show that TAPFed
+offers equivalent performance in terms of model quality compared to
+state-of-the-art approaches while reducing transmission overhead by 29%-45%
+across different model training scenarios. Most importantly, TAPFed can defend
+against recently demonstrated inference attacks caused by curious aggregators,
+which the majority of existing approaches are susceptible to.
+
+摘要：聯邦學習是一種運算範例，它透過讓多方合作訓練機器學習模型，而無需揭露個人資料，來增強隱私。然而，目前的研究所顯示，傳統的聯邦學習平台無法確保隱私，這是因為梯度的交換會導致隱私外洩。若要達成保護隱私的聯邦學習，整合安全的聚合機制至關重要。不幸的是，現有的解決方案容易受到最近展示的推論攻擊，例如去聚合攻擊。本文提出 TAPFed，一種在有惡意參與者的多個分散式聚合器環境中，達成保護隱私的聯邦學習的方法。TAPFed 使用一種提出的閾值函數加密方案，並允許一定數量的惡意聚合器，同時維護安全性與隱私。我們提供 TAPFed 的正式安全與隱私分析，並透過實驗評估將其與各種基準進行比較。我們的結果顯示，與最先進的方法相比，TAPFed 在模型品質方面提供同等的效能，同時在不同的模型訓練場景中，將傳輸負擔降低了 29%-45%。最重要的是，TAPFed 可以防禦最近展示的，由好奇的聚合器所造成的推論攻擊，而現有方法的大多數都容易受到這種攻擊。
+
+##### **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**
+2501.05040v1 by Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, Difan Zou, Kai Chen
+
+Large Language Models (LLMs) have demonstrated remarkable proficiency across
+a variety of complex tasks. One significant application of LLMs is in tackling
+software engineering challenges, particularly in resolving real-world tasks on
+GitHub by fixing code based on the issues reported by the users. However, many
+current approaches rely on proprietary LLMs, which limits reproducibility,
+accessibility, and transparency. The critical components of LLMs for addressing
+software engineering issues and how their capabilities can be effectively
+enhanced remain unclear. To address these challenges, we introduce SWE-Fixer, a
+novel open-source LLM designed to effectively and efficiently resolve GitHub
+issues. SWE-Fixer comprises two essential modules: a code file retrieval module
+and a code editing module. The retrieval module employs BM25 along with a
+lightweight LLM model to achieve coarse-to-fine file retrieval. Subsequently,
+the code editing module utilizes the other LLM model to generate patches for
+the identified files. Then, to mitigate the lack of publicly available
+datasets, we compile an extensive dataset that includes 110K GitHub issues
+along with their corresponding patches, and train the two modules of SWE-Fixer
+separately. We assess our approach on the SWE-Bench Lite and Verified
+benchmarks, achieving state-of-the-art performance among open-source models
+with scores of 23.3% and 30.2%, respectively. These outcomes highlight the
+efficacy of our approach. We will make our model, dataset, and code publicly
+available at https://github.com/InternLM/SWE-Fixer.
+
+摘要：大型語言模型 (LLM) 已在各種複雜任務中展現出非凡的能力。LLM 的一項重要應用是解決軟體工程挑戰，特別是透過修復使用者回報問題中的程式碼，來解決 GitHub 上的實際任務。然而，許多現有方法依賴於專有 LLM，這限制了可複製性、可存取性和透明度。LLM 解決軟體工程問題的重要組成部分及其能力如何有效增強仍不清楚。為了應對這些挑戰，我們引入了 SWE-Fixer，這是一個新穎的開源 LLM，旨在有效且高效地解決 GitHub 問題。SWE-Fixer 包含兩個必要的模組：程式碼檔案擷取模組和程式碼編輯模組。擷取模組採用 BM25 以及輕量級 LLM 模型，以實現由粗到細的檔案擷取。隨後，程式碼編輯模組利用另一個 LLM 模型，為識別的檔案產生修補程式。接著，為了減輕公開可用資料集的不足，我們編譯了一個包含 110K 個 GitHub 問題及其對應修補程式的廣泛資料集，並分別訓練 SWE-Fixer 的兩個模組。我們在 SWE-Bench Lite 和 Verified 評量基準上評估了我們的做法，在開源模型中取得了最先進的效能，分別獲得 23.3% 和 30.2% 的分數。這些成果突顯了我們方法的有效性。我們將在 https://github.com/InternLM/SWE-Fixer 公開我們的模型、資料集和程式碼。
+
+##### **Enhancing Human-Like Responses in Large Language Models**
+2501.05032v1 by Ethem Yağız Çalık, Talha Rüzgar Akkuş
+
+This paper explores the advancements in making large language models (LLMs)
+more human-like. We focus on techniques that enhance natural language
+understanding, conversational coherence, and emotional intelligence in AI
+systems. The study evaluates various approaches, including fine-tuning with
+diverse datasets, incorporating psychological principles, and designing models
+that better mimic human reasoning patterns. Our findings demonstrate that these
+enhancements not only improve user interactions but also open new possibilities
+for AI applications across different domains. Future work will address the
+ethical implications and potential biases introduced by these human-like
+attributes.
+
+摘要：本文探討了讓大型語言模型 (LLM) 更接近人類的進展。我們專注於增強人工智慧系統中自然語言理解、對話連貫性和情緒智力的技術。本研究評估了各種方法，包括使用多元資料集進行微調、納入心理原則，以及設計更能模擬人類推理模式的模型。我們的研究結果表明，這些增強不僅改善了使用者互動，也為不同領域的人工智慧應用開啟了新的可能性。後續研究將探討這些類人屬性帶來的倫理意涵和潛在偏見。
+
+##### **A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications**
+2501.05030v1 by Ofir Marom
+
+Case-based reasoning (CBR) is an experience-based approach to problem
+solving, where a repository of solved cases is adapted to solve new cases.
+Recent research shows that Large Language Models (LLMs) with
+Retrieval-Augmented Generation (RAG) can support the Retrieve and Reuse stages
+of the CBR pipeline by retrieving similar cases and using them as additional
+context to an LLM query. Most studies have focused on text-only applications,
+however, in many real-world problems the components of a case are multimodal.
+In this paper we present MCBR-RAG, a general RAG framework for multimodal CBR
+applications. The MCBR-RAG framework converts non-text case components into
+text-based representations, allowing it to: 1) learn application-specific
+latent representations that can be indexed for retrieval, and 2) enrich the
+query provided to the LLM by incorporating all case components for better
+context. We demonstrate MCBR-RAG's effectiveness through experiments conducted
+on a simplified Math-24 application and a more complex Backgammon application.
+Our empirical results show that MCBR-RAG improves generation quality compared
+to a baseline LLM with no contextual information provided.
+
+摘要：基於案例的推理 (CBR) 是一種以經驗為基礎的問題解決方法，其中會調整已解決案例的儲存庫來解決新案例。最近的研究顯示，具備檢索增強生成 (RAG) 的大型語言模型 (LLM) 可以透過檢索類似案例並將其用作 LLM 查詢的附加內容，來支援 CBR 管道的檢索和重複使用階段。大多數研究都專注於純文字應用程式，然而，在許多實際問題中，案例的組成是多模態的。在本文中，我們提出 MCBR-RAG，一個適用於多模態 CBR 應用程式的通用 RAG 框架。MCBR-RAG 框架將非文字案例組成轉換為基於文字的表示，使其能夠：1) 學習可供檢索編製索引的應用程式特定潛在表示，以及 2) 透過納入所有案例組成來豐富提供給 LLM 的查詢，以獲得更好的內容。我們透過在簡化的 Math-24 應用程式和更複雜的西洋雙陸棋應用程式上進行的實驗，證明了 MCBR-RAG 的有效性。我們的實證結果顯示，與沒有提供背景資訊的基本 LLM 相比，MCBR-RAG 改善了生成品質。
+
+##### **Finding Needles in Emb(a)dding Haystacks: Legal Document Retrieval via Bagging and SVR Ensembles**
+2501.05018v1 by Kevin Bönisch, Alexander Mehler
+
+We introduce a retrieval approach leveraging Support Vector Regression (SVR)
+ensembles, bootstrap aggregation (bagging), and embedding spaces on the German
+Dataset for Legal Information Retrieval (GerDaLIR). By conceptualizing the
+retrieval task in terms of multiple binary needle-in-a-haystack subtasks, we
+show improved recall over the baselines (0.849 > 0.803 | 0.829) using our
+voting ensemble, suggesting promising initial results, without training or
+fine-tuning any deep learning models. Our approach holds potential for further
+enhancement, particularly through refining the encoding models and optimizing
+hyperparameters.
+
+摘要：我們引入了一種檢索方法，利用支持向量迴歸 (SVR)
+集成、bootstrap 聚合 (bagging) 和德語法律資訊檢索 (GerDaLIR) 資料集上的嵌入空間。透過將
+檢索任務概念化為多個二元大海撈針子任務，我們
+使用我們的投票集成，顯示出比基線更高的召回率 (0.849 > 0.803 | 0.829)，這表明有希望的初步結果，而無需訓練或
+微調任何深度學習模型。我們的做法有進一步增強的潛力，特別是透過調整編碼模型和最佳化
+超參數。
+
+##### **UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**
+2501.05014v1 by Oleg Sautenkov, Yasheerah Yaqoot, Artem Lykov, Muhammad Ahsan Mustafa, Grik Tadevosyan, Aibek Akhmetkazy, Miguel Altamirano Cabrera, Mikhail Martynov, Sausar Karaf, Dzmitry Tsetserukou
+
+The UAV-VLA (Visual-Language-Action) system is a tool designed to facilitate
+communication with aerial robots. By integrating satellite imagery processing
+with the Visual Language Model (VLM) and the powerful capabilities of GPT,
+UAV-VLA enables users to generate general flight paths-and-action plans through
+simple text requests. This system leverages the rich contextual information
+provided by satellite images, allowing for enhanced decision-making and mission
+planning. The combination of visual analysis by VLM and natural language
+processing by GPT can provide the user with the path-and-action set, making
+aerial operations more efficient and accessible. The newly developed method
+showed the difference in the length of the created trajectory in 22% and the
+mean error in finding the objects of interest on a map in 34.22 m by Euclidean
+distance in the K-Nearest Neighbors (KNN) approach.
+
+摘要：無人機-VLA（視覺語言動作）系統是一個工具，旨在促進與空中機器人的溝通。通過將衛星圖像處理與視覺語言模型 (VLM) 和 GPT 的強大功能整合在一起，無人機-VLA 使用戶能夠通過簡單的文字請求生成通用的飛行路徑和行動計畫。此系統利用衛星圖像提供的豐富背景資訊，從而增強決策制定和任務規劃。VLM 的視覺分析和 GPT 的自然語言處理相結合，可以為使用者提供路徑和動作集，使空中作業更有效率且更容易使用。新開發的方法顯示出在 22% 中建立軌跡的長度差異，以及在 K 最近鄰 (KNN) 方法中，通過歐幾里得距離在 34.22 公尺中找到地圖上感興趣物體的平均誤差。
+
+##### **Quantum-enhanced causal discovery for a small number of samples**
+2501.05007v1 by Yota Maeda, Ken Arai, Yu Tanaka, Yu Terada, Hiroshi Ueno, Hiroyuki Tezuka
+
+The discovery of causal relationships from observed data has attracted
+significant interest from disciplines such as economics, social sciences,
+epidemiology, and biology. In practical applications, considerable knowledge of
+the underlying systems is often unavailable, and real data are often associated
+with nonlinear causal structures, which make the direct use of most
+conventional causality analysis methods difficult. This study proposes a novel
+quantum Peter-Clark (qPC) algorithm for causal discovery that does not assume
+any underlying model structures. Based on the independence conditional tests in
+a class of reproducing kernel Hilbert spaces characterized by quantum circuits,
+the proposed qPC algorithm can explore causal relationships from the observed
+data drawn from arbitrary distributions. We conducted systematic experiments on
+fundamental graph parts of causal structures, demonstrating that the qPC
+algorithm exhibits a significantly better performance, particularly with
+smaller sample sizes compared to its classical counterpart. Furthermore, we
+proposed a novel optimization approach based on Kernel Target Alignment (KTA)
+for determining hyperparameters of quantum kernels. This method effectively
+reduced the risk of false positives in causal discovery, enabling more reliable
+inference. Our theoretical and experimental results demonstrate that the
+proposed quantum algorithm can empower classical algorithms for robust and
+accurate inference in causal discovery, supporting them in regimes where
+classical algorithms typically fail. Additionally, the effectiveness of this
+method was validated using the Boston Housing dataset as a real-world
+application. These findings demonstrate the new potential of quantum
+circuit-based causal discovery methods in addressing practical challenges,
+particularly in small-sample scenarios where traditional approaches have shown
+limitations.
+
+摘要：<paragraph>從觀察到的資料中發現因果關係，已引起經濟學、社會科學、流行病學和生物學等領域的極大興趣。在實際應用中，通常無法獲得對基礎系統的充分了解，而真實資料通常與非線性因果結構相關，這使得直接使用大多數傳統因果關係分析方法變得困難。本研究提出了一種新穎的量子 Peter-Clark (qPC) 演算法，用於因果發現，不假設任何基礎模型結構。基於量子電路表徵的一類再生核希爾伯特空間中的獨立條件測試，提出的 qPC 演算法可以從任意分佈中提取的觀察資料中探索因果關係。我們對因果結構的基本圖形部分進行了系統實驗，證明 qPC 演算法表現出顯著更好的效能，特別是在與其經典對應物相比，樣本量較小的情況下。此外，我們提出了一種基於核目標對齊 (KTA) 的新穎最佳化方法，用於確定量子核的超參數。此方法有效降低了因果發現中假陽性的風險，實現了更可靠的推論。我們的理論和實驗結果表明，所提出的量子演算法可以增強經典演算法在因果發現中穩健且準確的推論，在經典演算法通常會失敗的狀態下為其提供支援。此外，使用波士頓住房資料集作為真實世界的應用，驗證了此方法的有效性。這些發現展示了基於量子電路的因果發現方法在應對實際挑戰方面的新潛力，特別是在傳統方法已顯示出限制的小樣本場景中。</paragraph>
+
+##### **GiNet: Integrating Sequential and Context-Aware Learning for Battery Capacity Prediction**
+2501.04997v1 by Sara Sameer, Wei Zhang, Xin Lou, Qingyu Yan, Terence Goh, Yulin Gao
+
+The surging demand for batteries requires advanced battery management
+systems, where battery capacity modelling is a key functionality. In this
+paper, we aim to achieve accurate battery capacity prediction by learning from
+historical measurements of battery dynamics. We propose GiNet, a gated
+recurrent units enhanced Informer network, for predicting battery's capacity.
+The novelty and competitiveness of GiNet lies in its capability of capturing
+sequential and contextual information from raw battery data and reflecting the
+battery's complex behaviors with both temporal dynamics and long-term
+dependencies. We conducted an experimental study based on a publicly available
+dataset to showcase GiNet's strength of gaining a holistic understanding of
+battery behavior and predicting battery capacity accurately. GiNet achieves
+0.11 mean absolute error for predicting the battery capacity in a sequence of
+future time slots without knowing the historical battery capacity. It also
+outperforms the latest algorithms significantly with 27% error reduction on
+average compared to Informer. The promising results highlight the importance of
+customized and optimized integration of algorithm and battery knowledge and
+shed light on other industry applications as well.
+
+摘要：電池需求激增需要進階電池管理系統，其中電池容量建模是一項關鍵功能。在本文中，我們旨在透過學習電池動態的歷史測量值來實現準確的電池容量預測。我們提出 GiNet，一個閘控遞迴單元增強的 Informer 網路，用於預測電池容量。GiNet 的新穎性和競爭力在於它能夠從原始電池資料中擷取順序和背景資訊，並反映電池的複雜行為，同時具有時間動態和長期依賴性。我們根據公開可用的資料集進行了一項實驗研究，以展示 GiNet 在全面了解電池行為和準確預測電池容量方面的優勢。GiNet 在不知道歷史電池容量的情況下，對於預測未來時段序列中的電池容量，平均絕對誤差為 0.11。與 Informer 相比，它也大幅優於最新的演算法，平均錯誤減少 27%。這些有希望的結果突顯了演算法和電池知識的客製化和最佳化整合的重要性，並也為其他產業應用提供了啟示。
+
+##### **IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**
+2501.04995v1 by Qi Chen, Changli Wu, Jiayi Ji, Yiwei Ma, Danni Yang, Xiaoshuai Sun
+
+3D Referring Expression Segmentation (3D-RES) aims to segment point cloud
+scenes based on a given expression. However, existing 3D-RES approaches face
+two major challenges: feature ambiguity and intent ambiguity. Feature ambiguity
+arises from information loss or distortion during point cloud acquisition due
+to limitations such as lighting and viewpoint. Intent ambiguity refers to the
+model's equal treatment of all queries during the decoding process, lacking
+top-down task-specific guidance. In this paper, we introduce an Image enhanced
+Prompt Decoding Network (IPDN), which leverages multi-view images and
+task-driven information to enhance the model's reasoning capabilities. To
+address feature ambiguity, we propose the Multi-view Semantic Embedding (MSE)
+module, which injects multi-view 2D image information into the 3D scene and
+compensates for potential spatial information loss. To tackle intent ambiguity,
+we designed a Prompt-Aware Decoder (PAD) that guides the decoding process by
+deriving task-driven signals from the interaction between the expression and
+visual features. Comprehensive experiments demonstrate that IPDN outperforms
+the state-ofthe-art by 1.9 and 4.2 points in mIoU metrics on the 3D-RES and
+3D-GRES tasks, respectively.
+
+摘要：3D 參考表達分割 (3D-RES) 旨在根據給定的表達式對點雲場景進行分割。然而，現有的 3D-RES 方法面臨兩大挑戰：特徵模糊和意圖模糊。特徵模糊是由於點雲採集過程中由於照明和視點等限制而導致的信息丟失或失真。意圖模糊是指模型在解碼過程中對所有查詢進行平等處理，缺乏自上而下的任務特定指導。在本文中，我們引入了一個圖像增強提示解碼網絡 (IPDN)，它利用多視圖圖像和任務驅動信息來增強模型的推理能力。為了解決特徵模糊的問題，我們提出了多視圖語義嵌入 (MSE) 模塊，它將多視圖 2D 圖像信息注入到 3D 場景中，並彌補了潛在的空間信息丟失。為了解決意圖模糊的問題，我們設計了一個提示感知解碼器 (PAD)，它通過從表達式和視覺特徵之間的交互中推導出任務驅動信號來指導解碼過程。綜合實驗表明，IPDN 在 3D-RES 和 3D-GRES 任務的 mIoU 指標上分別比最先進的技術高出 1.9 和 4.2 個點。
+
+##### **TreeKV: Smooth Key-Value Cache Compression with Tree Structures**
+2501.04987v1 by Ziwei He, Jian Yuan, Haoli Bai, Jingwen Leng, Bo Jiang
+
+Efficient key-value (KV) cache compression is critical for scaling
+transformer-based Large Language Models (LLMs) in long sequences and
+resource-limited settings. Existing methods evict tokens based on their
+positions or importance scores, but position-based strategies can miss crucial
+information outside predefined regions, while those relying on global
+importance scores resulting in strong regional biases, limiting the KV cache's
+overall context retention and potentially impairing the performance of LLMs on
+complex tasks. Our wavelet analysis reveals that as tokens approach the end of
+sequence, their contributions to generation gradually increase and tends to
+diverge more from neighboring tokens, indicating a smooth transition with
+increasing complexity and variability from distant to nearby context. Motivated
+by this observation, we propose TreeKV, an intuitive, training-free method that
+employs a tree structure for smooth cache compression. TreeKV maintains a fixed
+cache size, allowing LLMs to deliver high-quality output even in long text
+scenarios. Unlike most compression methods, TreeKV is applicable to both the
+generation and prefilling stages. It consistently surpasses all baseline models
+in language modeling tasks on PG19 and OpenWebText2, allowing LLMs trained with
+short context window to generalize to longer window with a 16x cache reduction.
+On the Longbench benchmark, TreeKV achieves the best performance with only 6\%
+of the budget at optimal efficiency.
+
+摘要：高效的鍵值 (KV) 快取壓縮對於縮放大型語言模型 (LLM) 中的Transformer在長序列和資源受限的設定中至關重要。現有方法基於它們的位置或重要性分數驅逐符號，但基於位置的策略可能會錯失預定義區域外的關鍵資訊，而依賴於全球重要性分數的策略則會導致強烈的區域偏誤，限制 KV 快取的整體內容保留，並可能損害 LLM 在複雜任務上的效能。我們的波段分析顯示，當符號接近序列的尾端時，它們對生成的貢獻會逐漸增加，並且傾向於與鄰近符號有更多差異，這表示從遠處到附近的內容具有平穩的轉換，且複雜性和可變性增加。受到此觀察的啟發，我們提出 TreeKV，這是一種直覺且無需訓練的方法，它採用樹狀結構進行平穩的快取壓縮。TreeKV 維護固定的快取大小，讓 LLM 即使在長文字場景中也能提供高品質的輸出。與大多數壓縮方法不同，TreeKV 可應用於生成和預先填入階段。它在 PG19 和 OpenWebText2 上的語言建模任務中持續超越所有基準模型，讓使用短內容視窗訓練的 LLM 能夠概括為較長的視窗，快取減少 16 倍。在 Longbench 基準測試中，TreeKV 以最佳效率僅 6% 的預算達成最佳效能。
+
+##### **CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**
+2501.04982v1 by Bhargava Uppuluri, Anjel Patel, Neil Mehta, Sridhar Kamath, Pratyush Chakraborty
+
+In autonomous driving, traditional Computer Vision (CV) agents often struggle
+in unfamiliar situations due to biases in the training data. Deep Reinforcement
+Learning (DRL) agents address this by learning from experience and maximizing
+rewards, which helps them adapt to dynamic environments. However, ensuring
+their generalization remains challenging, especially with static training
+environments. Additionally, DRL models lack transparency, making it difficult
+to guarantee safety in all scenarios, particularly those not seen during
+training. To tackle these issues, we propose a method that combines DRL with
+Curriculum Learning for autonomous driving. Our approach uses a Proximal Policy
+Optimization (PPO) agent and a Variational Autoencoder (VAE) to learn safe
+driving in the CARLA simulator. The agent is trained using two-fold curriculum
+learning, progressively increasing environment difficulty and incorporating a
+collision penalty in the reward function to promote safety. This method
+improves the agent's adaptability and reliability in complex environments, and
+understand the nuances of balancing multiple reward components from different
+feedback signals in a single scalar reward function. Keywords: Computer Vision,
+Deep Reinforcement Learning, Variational Autoencoder, Proximal Policy
+Optimization, Curriculum Learning, Autonomous Driving.
+
+摘要：在自動駕駛中，傳統的電腦視覺 (CV) 代理在訓練資料的偏差下，經常在不熟悉的環境中掙扎。深度強化學習 (DRL) 代理通過從經驗中學習和最大化獎勵來解決這個問題，這有助於它們適應動態環境。然而，確保它們的泛化仍然具有挑戰性，特別是在靜態訓練環境中。此外，DRL 模型缺乏透明度，這使得難以保證在所有場景中的安全性，特別是在訓練過程中沒有見過的場景。為了解決這些問題，我們提出了一種將 DRL 與課程學習相結合的方法，用於自動駕駛。我們的做法使用近端策略優化 (PPO) 代理和變分自動編碼器 (VAE) 來學習在 CARLA 模擬器中安全駕駛。該代理使用兩倍課程學習進行訓練，逐步增加環境難度，並在獎勵函數中加入碰撞懲罰以促進安全性。這種方法提高了代理在複雜環境中的適應性和可靠性，並且了解了在單個標量獎勵函數中平衡來自不同回饋信號的 multiple reward 組件的細微差別。關鍵字：電腦視覺、深度強化學習、變分自動編碼器、近端策略優化、課程學習、自動駕駛。
+
+##### **SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**
+2501.04974v1 by Benjamin Reichman, Xiaofan Yu, Lanxiang Hu, Jack Truxal, Atishay Jain, Rushil Chandrupatla, Tajana Šimunić Rosing, Larry Heck
+
+With the rapid growth in sensor data, effectively interpreting and
+interfacing with these data in a human-understandable way has become crucial.
+While existing research primarily focuses on learning classification models,
+fewer studies have explored how end users can actively extract useful insights
+from sensor data, often hindered by the lack of a proper dataset. To address
+this gap, we introduce \Dataset, the first human-created question-answering
+(QA) dataset for long-term time-series sensor data for daily life monitoring.
+\Dataset is created by human workers and includes 5.6K diverse and practical
+queries that reflect genuine human interests, paired with accurate answers
+derived from sensor data. We further establish benchmarks for state-of-the-art
+AI models on this dataset and evaluate their performance on typical edge
+devices. Our results reveal a gap between current models and optimal QA
+performance and efficiency, highlighting the need for new contributions. The
+dataset and code are available at:
+\url{https://github.com/benjamin-reichman/SensorQA}.
+
+摘要：隨著感測器資料快速成長，以人類可理解的方式有效解讀和介接這些資料已變得至關重要。雖然現有研究主要專注於學習分類模型，但較少研究探討最終使用者如何能主動從感測器資料中提取有用的見解，這通常受到缺乏適當資料集的阻礙。為了解決這個差距，我們引入了 \Dataset，這是第一個由人類建立的長期時間序列感測器資料問答 (QA) 資料集，用於日常生活監控。\Dataset 是由人類工作者建立的，包含 5.6K 個反映真實人類興趣的多元且實用的查詢，並配對從感測器資料衍生的準確答案。我們進一步為這個資料集建立了最先進 AI 模型的基準，並評估它們在典型邊緣裝置上的效能。我們的結果揭露了當前模型與最佳 QA 效能和效率之間的差距，突顯了對新貢獻的需求。資料集和程式碼可在以下位置取得：\url{https://github.com/benjamin-reichman/SensorQA}。
+
+##### **Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**
+2501.04970v1 by HyunGi Kim, Siwon Kim, Jisoo Mok, Sungroh Yoon
+
+Deep Neural Networks have spearheaded remarkable advancements in time series
+forecasting (TSF), one of the major tasks in time series modeling. Nonetheless,
+the non-stationarity of time series undermines the reliability of pre-trained
+source time series forecasters in mission-critical deployment settings. In this
+study, we introduce a pioneering test-time adaptation framework tailored for
+TSF (TSF-TTA). TAFAS, the proposed approach to TSF-TTA, flexibly adapts source
+forecasters to continuously shifting test distributions while preserving the
+core semantic information learned during pre-training. The novel utilization of
+partially-observed ground truth and gated calibration module enables proactive,
+robust, and model-agnostic adaptation of source forecasters. Experiments on
+diverse benchmark datasets and cutting-edge architectures demonstrate the
+efficacy and generality of TAFAS, especially in long-term forecasting scenarios
+that suffer from significant distribution shifts. The code is available at
+https://github.com/kimanki/TAFAS.
+
+摘要：深度神经网络引领了时间序列预测 (TSF) 的显着进步，时间序列建模中的主要任务之一。尽管如此，时间序列的非平稳性会破坏预训练源时间序列预测器在任务关键部署设置中的可靠性。在这项研究中，我们引入了一个针对 TSF（TSF-TTA）量身定制的开创性测试时间自适应框架。TAFAS 是针对 TSF-TTA 的提议方法，它灵活地调整源预测器以持续转移测试分布，同时保留预训练期间学习的核心语义信息。部分观察到的基本事实和门控校准模块的新颖利用使得源预测器的主动、稳健和与模型无关的自适应成为可能。在各种基准数据集和前沿架构上的实验表明了 TAFAS 的有效性和普遍性，尤其是在遭受显着分布变化的长​​期预测场景中。代码可在 https://github.com/kimanki/TAFAS 获得。
+
+##### **VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models**
+2501.04962v1 by Wenqian Cui, Xiaoqi Jiao, Ziqiao Meng, Irwin King
+
+With the growing demand for developing speech-based interaction models,
+end-to-end Spoken Language Models (SLMs) have emerged as a promising solution.
+When engaging in conversations with humans, it is essential for these models to
+comprehend a wide range of world knowledge. In this paper, we introduce
+VoxEval, a novel speech question-answering benchmark specifically designed to
+assess SLMs' knowledge understanding through purely speech-based interactions.
+Unlike existing AudioQA benchmarks, VoxEval maintains speech format for both
+questions and answers, evaluates model robustness across diverse audio
+conditions (varying timbres, audio qualities, and speaking styles), and
+pioneers the assessment of challenging domains like mathematical
+problem-solving in spoken format. Our comprehensive evaluation of recent SLMs
+using VoxEval reveals significant performance limitations in current models,
+highlighting crucial areas for future improvements.
+
+摘要：隨著對開發基於語音的互動模式需求日益增長，端到端的口語語言模型 (SLM) 已成為一種有前途的解決方案。在與人類對話時，這些模型必須理解廣泛的世界知識。在本文中，我們介紹 VoxEval，這是一個新穎的語音問答基準，專門設計用於透過純粹基於語音的互動來評估 SLM 的知識理解。與現有的 AudioQA 基準不同，VoxEval 維持了問題和答案的語音格式，評估了模型在不同音訊條件（不同的音色、音訊品質和說話風格）下的穩健性，並率先評估了以口語格式進行數學問題解決等具有挑戰性的領域。我們使用 VoxEval 對最近的 SLM 進行綜合評估，揭示了當前模型在效能上的顯著限制，強調了未來改進的重要領域。
+
+##### **Demystifying Domain-adaptive Post-training for Financial LLMs**
+2501.04961v1 by Zixuan Ke, Yifei Ming, Xuan-Phi Nguyen, Caiming Xiong, Shafiq Joty
+
+Domain-adaptive post-training of large language models (LLMs) has emerged as
+a promising approach for specialized domains such as medicine and finance.
+However, significant challenges remain in identifying optimal adaptation
+criteria and training strategies across varying data and model configurations.
+To address these challenges, we introduce FINDAP, a systematic and fine-grained
+investigation into domain-adaptive post-training of LLMs for the finance
+domain. Our approach begins by identifying the core capabilities required for
+the target domain and designing a comprehensive evaluation suite aligned with
+these needs. We then analyze the effectiveness of key post-training stages,
+including continual pretraining, instruction tuning, and preference alignment.
+Building on these insights, we propose an effective training recipe centered on
+a novel preference data distillation method, which leverages process signals
+from a generative reward model. The resulting model, Llama-Fin, achieves
+state-of-the-art performance across a wide range of financial tasks. Our
+analysis also highlights how each post-training stage contributes to distinct
+capabilities, uncovering specific challenges and effective solutions, providing
+valuable insights for domain adaptation of LLMs. Project page:
+https://github.com/SalesforceAIResearch/FinDap
+
+摘要：大型語言模型 (LLM) 的領域適應後訓練已成為醫學和金融等專業領域中一種有前途的方法。
+然而，在確定最佳適應標準和跨不同數據和模型配置的訓練策略方面，仍然存在重大挑戰。
+為了應對這些挑戰，我們引入了 FINDAP，這是一種對 LLM 的金融領域適應後訓練進行系統且細緻的調查。我們的做法首先是確定目標領域所需的核心能力，並設計一個與這些需求相一致的綜合評估套件。然後，我們分析關鍵後訓練階段的有效性，包括持續預訓練、指令微調和偏好對齊。根據這些見解，我們提出了一個以新穎的偏好數據蒸餾方法為中心的有效訓練配方，該方法利用生成獎勵模型中的過程信號。由此產生的模型 Llama-Fin 在廣泛的金融任務中實現了最先進的性能。我們的分析還強調了每個後訓練階段如何促成不同的能力，揭示具體的挑戰和有效的解決方案，為 LLM 的領域適應提供了有價值的見解。專案頁面：
+https://github.com/SalesforceAIResearch/FinDap
+
+##### **Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**
+2501.04958v1 by Lei Li, Xinglin Zhang, Jun Liang, Tao Chen
+
+Deep learning models in medical imaging face dual challenges: domain shift,
+where models perform poorly when deployed in settings different from their
+training environment, and class imbalance, where certain disease conditions are
+naturally underrepresented. We present Imbalance-Aware Domain Adaptation
+(IADA), a novel framework that simultaneously tackles both challenges through
+three key components: (1) adaptive feature learning with class-specific
+attention mechanisms, (2) balanced domain alignment with dynamic weighting, and
+(3) adaptive threshold optimization. Our theoretical analysis establishes
+convergence guarantees and complexity bounds. Through extensive experiments on
+embryo development assessment across four imaging modalities, IADA demonstrates
+significant improvements over existing methods, achieving up to 25.19\% higher
+accuracy while maintaining balanced performance across classes. In challenging
+scenarios with low-quality imaging systems, IADA shows robust generalization
+with AUC improvements of up to 12.56\%. These results demonstrate IADA's
+potential for developing reliable and equitable medical imaging systems for
+diverse clinical settings. The code is made public available at
+\url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}
+
+摘要：<paragraph>醫療影像中的深度學習模型面臨雙重挑戰：領域轉移，模型在與其訓練環境不同的設定中部署時表現不佳，以及類別不平衡，某些疾病狀況在自然界中代表性不足。我們提出不平衡感知域適應 (IADA)，這是一個新穎的框架，透過三個關鍵組成部分同時應對這兩個挑戰：(1) 具有類別特定注意力機制的自適應特徵學習，(2) 具有動態加權的平衡域對齊，以及 (3) 自適應閾值最佳化。我們的理論分析建立了收斂保證和複雜度界限。透過對四種影像模式的胚胎發育評估進行廣泛的實驗，IADA 證明了對現有方法的顯著改進，在維持類別間平衡性能的同時，準確度提高了 25.19%。在低品質影像系統的挑戰性場景中，IADA 以高達 12.56% 的 AUC 改進顯示出強大的泛化能力。這些結果證明了 IADA 在為不同的臨床設定開發可靠且公平的醫療影像系統方面的潛力。程式碼已公開於 \url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}</paragraph>
+
+##### **Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**
+2501.04945v1 by Qingyu Ren, Jie Zeng, Qianyu He, Jiaqing Liang, Yanghua Xiao, Weikang Zhou, Zeye Sun, Fei Yu
+
+It is crucial for large language models (LLMs) to follow instructions that
+involve multiple constraints. However, soft constraints are semantically
+related and difficult to verify through automated methods. These constraints
+remain a significant challenge for LLMs. To enhance the ability of LLMs to
+follow soft constraints, we initially design a pipeline to obtain high-quality
+outputs automatically. Additionally, to fully utilize the acquired data, we
+introduce a training paradigm based on curriculum learning. We experimentally
+evaluate the effectiveness of our methods in improving LLMs' soft constraint
+following ability and analyze the factors driving the improvements. The
+datasets and code are publicly available at
+https://github.com/Rainier-rq/FollowSoftConstraints.
+
+摘要：對於大型語言模型 (LLM) 來說，遵循包含多重約束的指令至關重要。然而，軟約束在語義上相關，且難以透過自動化方法驗證。這些約束對於 LLM 來說仍然是一項重大挑戰。為了增強 LLM 遵循軟約束的能力，我們最初設計了一個管道以自動取得高品質的輸出。此外，為了充分利用所取得的資料，我們引入了基於課程學習的訓練範例。我們透過實驗評估了我們的方法在改善 LLM 軟約束遵循能力方面的有效性，並分析了促成這些改善的因素。資料集和程式碼已公開於 https://github.com/Rainier-rq/FollowSoftConstraints。
+
+##### **Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**
+2501.04931v1 by Shiji Zhao, Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei
+
+Multimodal Large Language Models (MLLMs) have achieved impressive performance
+and have been put into practical use in commercial applications, but they still
+have potential safety mechanism vulnerabilities. Jailbreak attacks are red
+teaming methods that aim to bypass safety mechanisms and discover MLLMs'
+potential risks. Existing MLLMs' jailbreak methods often bypass the model's
+safety mechanism through complex optimization methods or carefully designed
+image and text prompts. Despite achieving some progress, they have a low attack
+success rate on commercial closed-source MLLMs. Unlike previous research, we
+empirically find that there exists a Shuffle Inconsistency between MLLMs'
+comprehension ability and safety ability for the shuffled harmful instruction.
+That is, from the perspective of comprehension ability, MLLMs can understand
+the shuffled harmful text-image instructions well. However, they can be easily
+bypassed by the shuffled harmful instructions from the perspective of safety
+ability, leading to harmful responses. Then we innovatively propose a
+text-image jailbreak attack named SI-Attack. Specifically, to fully utilize the
+Shuffle Inconsistency and overcome the shuffle randomness, we apply a
+query-based black-box optimization method to select the most harmful shuffled
+inputs based on the feedback of the toxic judge model. A series of experiments
+show that SI-Attack can improve the attack's performance on three benchmarks.
+In particular, SI-Attack can obviously improve the attack success rate for
+commercial MLLMs such as GPT-4o or Claude-3.5-Sonnet.
+
+摘要：多模態大型語言模型 (MLLM) 已取得令人印象深刻的表現，並已實際應用於商業應用中，但它們仍具有潛在的安全機制漏洞。越獄攻擊是旨在繞過安全機制並發現 MLLM 潛在風險的紅隊方法。現有的 MLLM 越獄方法通常透過複雜的最佳化方法或精心設計的影像和文字提示，來繞過模型的安全機制。儘管取得了一些進展，但它們對商業閉源 MLLM 的攻擊成功率很低。與先前的研究不同，我們憑經驗發現，對於混洗的惡意指令，MLLM 的理解能力和安全性之間存在混洗不一致性。也就是說，從理解能力的角度來看，MLLM 能夠很好地理解混洗的惡意文字影像指令。然而，從安全性的角度來看，它們很容易被混洗的惡意指令繞過，導致產生惡意的回應。然後，我們創新地提出了一種名為 SI-Attack 的文字影像越獄攻擊。具體來說，為了充分利用混洗不一致性並克服混洗的隨機性，我們應用基於查詢的黑盒最佳化方法，根據有毒判斷模型的回饋來選擇最有害的混洗輸入。一系列的實驗表明，SI-Attack 可以提高三個基準測試的攻擊效能。特別是，SI-Attack 可以顯著提高對商業 MLLM（例如 GPT-4o 或 Claude-3.5-Sonnet）的攻擊成功率。
+
+##### **Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**
+2501.04928v1 by Xingang Li, Zhenghui Sha
+
+Computer-aided design (CAD) tools empower designers to design and modify 3D
+models through a series of CAD operations, commonly referred to as a CAD
+sequence. In scenarios where digital CAD files are not accessible, reverse
+engineering (RE) has been used to reconstruct 3D CAD models. Recent advances
+have seen the rise of data-driven approaches for RE, with a primary focus on
+converting 3D data, such as point clouds, into 3D models in boundary
+representation (B-rep) format. However, obtaining 3D data poses significant
+challenges, and B-rep models do not reveal knowledge about the 3D modeling
+process of designs. To this end, our research introduces a novel data-driven
+approach with an Image2CADSeq neural network model. This model aims to reverse
+engineer CAD models by processing images as input and generating CAD sequences.
+These sequences can then be translated into B-rep models using a solid modeling
+kernel. Unlike B-rep models, CAD sequences offer enhanced flexibility to modify
+individual steps of model creation, providing a deeper understanding of the
+construction process of CAD models. To quantitatively and rigorously evaluate
+the predictive performance of the Image2CADSeq model, we have developed a
+multi-level evaluation framework for model assessment. The model was trained on
+a specially synthesized dataset, and various network architectures were
+explored to optimize the performance. The experimental and validation results
+show great potential for the model in generating CAD sequences from 2D image
+data.
+
+摘要：<paragraph>電腦輔助設計 (CAD) 工具讓設計師能夠透過一系列的 CAD 作業（通常稱為 CAD 順序）來設計和修改 3D 模型。在無法取得數位 CAD 檔案的情況下，逆向工程 (RE) 已被用於重建 3D CAD 模型。最近的進展已看到資料驅動方法在 RE 中的崛起，主要專注於將 3D 資料（例如點雲）轉換成邊界表示 (B-rep) 格式的 3D 模型。然而，取得 3D 資料會造成顯著的挑戰，而且 B-rep 模型並未揭露關於設計的 3D 建模程序的知識。為此，我們的研究引進了一種新穎的資料驅動方法，並採用 Image2CADSeq 神經網路模型。此模型旨在透過處理影像作為輸入和產生 CAD 順序來逆向工程 CAD 模型。這些順序接著可以使用實體建模核心轉換成 B-rep 模型。與 B-rep 模型不同，CAD 順序提供增強的彈性來修改模型建立的個別步驟，提供對 CAD 模型建構程序的更深入理解。為了量化且嚴謹地評估 Image2CADSeq 模型的預測效能，我們已開發一個多層級評估架構用於模型評估。此模型是根據特別合成的資料集進行訓練，並探索了各種網路架構以最佳化效能。實驗和驗證結果顯示此模型在從 2D 影像資料產生 CAD 順序方面具有極大的潛力。</paragraph>
+
+##### **Investigating Numerical Translation with Large Language Models**
+2501.04927v1 by Wei Tang, Jiawei Yu, Yuang Li, Yanqing Zhao, Weidong Zhang, Wei Feng, Min Zhang, Hao Yang
+
+The inaccurate translation of numbers can lead to significant security
+issues, ranging from financial setbacks to medical inaccuracies. While large
+language models (LLMs) have made significant advancements in machine
+translation, their capacity for translating numbers has not been thoroughly
+explored. This study focuses on evaluating the reliability of LLM-based machine
+translation systems when handling numerical data. In order to systematically
+test the numerical translation capabilities of currently open source LLMs, we
+have constructed a numerical translation dataset between Chinese and English
+based on real business data, encompassing ten types of numerical translation.
+Experiments on the dataset indicate that errors in numerical translation are a
+common issue, with most open-source LLMs faltering when faced with our test
+scenarios. Especially when it comes to numerical types involving large units
+like ``million", ``billion", and "yi", even the latest llama3.1 8b model can
+have error rates as high as 20%. Finally, we introduce three potential
+strategies to mitigate the numerical mistranslations for large units.
+
+摘要：數字不準確的翻譯可能導致重大安全問題，從財務挫折到醫療不準確。儘管大型語言模型 (LLM) 在機器翻譯方面取得了重大進展，但它們翻譯數字的能力尚未得到徹底探討。本研究的重點是評估基於 LLM 的機器翻譯系統在處理數字數據時的可靠性。為了系統地測試當前開源 LLM 的數字翻譯能力，我們根據真實業務數據構建了中英之間的數字翻譯數據集，涵蓋十種類型的數字翻譯。數據集上的實驗表明，數字翻譯中的錯誤是一個常見問題，大多數開源 LLM 在面對我們的測試場景時都會出現錯誤。特別是當涉及到涉及「百萬」、「十億」和「億」等大單位的數字類型時，即使是最新款的 llama3.1 8b 模型的錯誤率也可能高達 20%。最後，我們介紹了三種潛在策略來減輕大單位的數字錯誤翻譯。
+
+##### **FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**
+2501.04926v1 by Jun-Hak Yun, Seung-Bin Kim, Seong-Whan Lee
+
+Audio super-resolution is challenging owing to its ill-posed nature.
+Recently, the application of diffusion models in audio super-resolution has
+shown promising results in alleviating this challenge. However, diffusion-based
+models have limitations, primarily the necessity for numerous sampling steps,
+which causes significantly increased latency when synthesizing high-quality
+audio samples. In this paper, we propose FLowHigh, a novel approach that
+integrates flow matching, a highly efficient generative model, into audio
+super-resolution. We also explore probability paths specially tailored for
+audio super-resolution, which effectively capture high-resolution audio
+distributions, thereby enhancing reconstruction quality. The proposed method
+generates high-fidelity, high-resolution audio through a single-step sampling
+process across various input sampling rates. The experimental results on the
+VCTK benchmark dataset demonstrate that FLowHigh achieves state-of-the-art
+performance in audio super-resolution, as evaluated by log-spectral distance
+and ViSQOL while maintaining computational efficiency with only a single-step
+sampling process.
+
+摘要：音频超分辨率因其不良特性而具有挑战性。
+最近，扩散模型在音频超分辨率中的应用在缓解这一挑战方面显示出有希望的结果。然而，基于扩散的模型有其局限性，主要是需要大量的采样步骤，这在合成高质量音频样本时会导致延迟显着增加。在本文中，我们提出了 FLowHigh，这是一种新颖的方法，将流匹配（一种高效的生成模型）集成到音频超分辨率中。我们还探索了专门针对音频超分辨率设计的概率路径，该路径有效地捕获了高分辨率音频分布，从而提高了重建质量。所提出的方法通过跨各种输入采样率的单步采样过程生成高保真、高分辨率音频。VCTK 基准数据集上的实验结果表明，FLowHigh 在音频超分辨率方面实现了最先进的性能，如对数频谱距离和 ViSQOL 所评估的那样，同时仅通过单步采样过程保持计算效率。
+
+##### **JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**
+2501.04904v1 by Jun-Hyeok Cha, Seung-Bin Kim, Hyung-Seok Oh, Seong-Whan Lee
+
+Recently, there has been a growing demand for conversational speech synthesis
+(CSS) that generates more natural speech by considering the conversational
+context. To address this, we introduce JELLY, a novel CSS framework that
+integrates emotion recognition and context reasoning for generating appropriate
+speech in conversation by fine-tuning a large language model (LLM) with
+multiple partial LoRA modules. We propose an Emotion-aware Q-former encoder,
+which enables the LLM to perceive emotions in speech. The encoder is trained to
+align speech emotions with text, utilizing datasets of emotional speech. The
+entire model is then fine-tuned with conversational speech data to infer
+emotional context for generating emotionally appropriate speech in
+conversation. Our experimental results demonstrate that JELLY excels in
+emotional context modeling, synthesizing speech that naturally aligns with
+conversation, while mitigating the scarcity of emotional conversational speech
+datasets.
+
+摘要：最近，人们对会话式语音合成 (CSS) 的需求不断增长，它通过考虑会话语境来生成更自然的语音。为了解决这个问题，我们引入了 JELLY，这是一个新颖的 CSS 框架，它集成了情感识别和语境推理，以便通过使用多个部分 LoRA 模块微调大型语言模型 (LLM) 来生成对话中的适当语音。我们提出了一个情感感知 Q-former 编码器，它使 LLM 能够感知语音中的情感。该编码器经过训练，可以将语音情感与文本对齐，利用情感语音数据集。然后使用会话语音数据对整个模型进行微调，以推断情感语境，以便在对话中生成情感适当的语音。我们的实验结果表明，JELLY 在情感语境建模方面表现出色，合成了与对话自然对齐的语音，同时缓解了情感对话语音数据集的稀缺性。
+
+##### **SUGAR: Leveraging Contextual Confidence for Smarter Retrieval**
+2501.04899v1 by Hanna Zubkova, Ji-Hoon Park, Seong-Whan Lee
+
+Bearing in mind the limited parametric knowledge of Large Language Models
+(LLMs), retrieval-augmented generation (RAG) which supplies them with the
+relevant external knowledge has served as an approach to mitigate the issue of
+hallucinations to a certain extent. However, uniformly retrieving supporting
+context makes response generation source-inefficient, as triggering the
+retriever is not always necessary, or even inaccurate, when a model gets
+distracted by noisy retrieved content and produces an unhelpful answer.
+Motivated by these issues, we introduce Semantic Uncertainty Guided Adaptive
+Retrieval (SUGAR), where we leverage context-based entropy to actively decide
+whether to retrieve and to further determine between single-step and multi-step
+retrieval. Our empirical results show that selective retrieval guided by
+semantic uncertainty estimation improves the performance across diverse
+question answering tasks, as well as achieves a more efficient inference.
+
+摘要：考量到大型語言模型（LLM）有限的參數知識，檢索增強生成（RAG）為其提供相關外部知識，在一定程度上作為減輕幻覺問題的方法。然而，統一檢索支援的內容會讓回應生成來源效率低下，因為當模型被有雜訊的檢索內容分散注意力並產生無益的答案時，觸發檢索器並非總是必要的，甚至是不準確的。在這些問題的激勵下，我們引入了語義不確定性引導的自適應檢索（SUGAR），我們利用基於內容的熵來主動決定是否檢索，並進一步確定單步和多步檢索之間的區別。我們的實證結果表明，由語義不確定性估計引導的有選擇性檢索改善了各種問題回答任務的效能，並實現了更有效率的推理。
+
+##### **Reach Measurement, Optimization and Frequency Capping In Targeted Online Advertising Under k-Anonymity**
+2501.04882v1 by Yuan Gao, Mu Qiao
+
+The growth in the use of online advertising to foster brand awareness over
+recent years is largely attributable to the ubiquity of social media. One
+pivotal technology contributing to the success of online brand advertising is
+frequency capping, a mechanism that enables marketers to control the number of
+times an ad is shown to a specific user. However, the very foundation of this
+technology is being scrutinized as the industry gravitates towards advertising
+solutions that prioritize user privacy. This paper delves into the issue of
+reach measurement and optimization within the context of $k$-anonymity, a
+privacy-preserving model gaining traction across major online advertising
+platforms. We outline how to report reach within this new privacy landscape and
+demonstrate how probabilistic discounting, a probabilistic adaptation of
+traditional frequency capping, can be employed to optimize campaign
+performance. Experiments are performed to assess the trade-off between user
+privacy and the efficacy of online brand advertising. Notably, we discern a
+significant dip in performance as long as privacy is introduced, yet this comes
+with a limited additional cost for advertising platforms to offer their users
+more privacy.
+
+摘要：近年來，線上廣告的使用成長，用於培養品牌意識，這在很大程度上要歸功於社群媒體的普遍性。對線上品牌廣告成功有貢獻的一項關鍵技術是頻率上限，這是一種機制，使行銷人員能夠控制向特定使用者顯示廣告的次數。然而，隨著產業朝向優先考慮使用者隱私的廣告解決方案發展，這項技術的基礎正受到審查。本文深入探討在 $k$-匿名性的脈絡中觸及率測量和最佳化的問題，一種在主要線上廣告平台上獲得關注的隱私保護模型。我們概述如何在這個新的隱私環境中報告觸及率，並展示如何採用傳統頻率上限的機率性調整，機率性折扣，來最佳化廣告活動成效。進行實驗以評估使用者隱私與線上品牌廣告成效之間的取捨。值得注意的是，我們辨識出只要引入隱私，成效就會顯著下降，但對於廣告平台來說，這僅帶來有限的額外成本，讓他們能夠為使用者提供更多隱私。
+
+##### **Leveraging Log Probabilities in Language Models to Forecast Future Events**
+2501.04880v1 by Tommaso Soru, Jim Marshall
+
+In the constantly changing field of data-driven decision making, accurately
+predicting future events is crucial for strategic planning in various sectors.
+The emergence of Large Language Models (LLMs) marks a significant advancement
+in this area, offering advanced tools that utilise extensive text data for
+prediction. In this industry paper, we introduce a novel method for AI-driven
+foresight using LLMs. Building on top of previous research, we employ data on
+current trends and their trajectories for generating forecasts on 15 different
+topics. Subsequently, we estimate their probabilities via a multi-step approach
+based on log probabilities. We show we achieve a Brier score of 0.186, meaning
+a +26% improvement over random chance and a +19% improvement over
+widely-available AI systems.
+
+摘要：在資料驅動決策制定不斷變化的領域中，準確預測未來事件對於各個領域的策略規劃至關重要。大語言模型 (LLM) 的出現標誌著這方面的一個重大進展，它提供了先進的工具，利用廣泛的文字資料進行預測。在這篇產業論文中，我們介紹了一種使用 LLM 進行 AI 驅動預測的新方法。在先前研究的基礎上，我們採用有關當前趨勢及其軌跡的資料，對 15 個不同的主題進行預測。隨後，我們透過基於對數機率的多步驟方法來估計其機率。我們證明我們達到了 0.186 的布里爾分數，這表示比隨機機會提高了 +26%，比廣泛可用的 AI 系統提高了 +19%。
+
+##### **Real-Time Textless Dialogue Generation**
+2501.04877v1 by Long Mai, Julie Carson-Berndsen
+
+Recent advancements in large language models (LLMs) have led to significant
+progress in text-based dialogue systems. These systems can now generate
+high-quality responses that are accurate and coherent across a wide range of
+topics and tasks. However, spoken dialogue systems still lag behind in terms of
+naturalness. They tend to produce robotic interactions, with issues such as
+slow response times, overly generic or cautious replies, and a lack of natural
+rhythm and fluid turn-taking. This shortcoming is largely due to the
+over-reliance on the traditional cascaded design, which involve separate,
+sequential components, as well as the use of text as an intermediate
+representation. This paper propose a real-time, textless spoken dialogue
+generation model (RTTL-DG) that aims to overcome these challenges. Our system
+enables fluid turn-taking and generates responses with minimal delay by
+processing streaming spoken conversation directly. Additionally, our model
+incorporates backchannels, filters, laughter, and other paralinguistic signals,
+which are often absent in cascaded dialogue systems, to create more natural and
+human-like interactions. The implementations and generated samples are
+available in our repository: https://github.com/mailong25/rts2s-dg
+
+摘要：大型語言模型（LLM）的最新進展已大幅提升基於文字的對話系統。這些系統現在可以產生高品質的回應，準確且連貫，涵蓋廣泛的主題和任務。然而，口語對話系統在自然度方面仍落後。它們傾向於產生機器人式的互動，有諸如反應時間慢、回覆過於籠統或謹慎，以及缺乏自然節奏和流暢輪流發言等問題。這種缺點主要是過於依賴傳統的串聯式設計，其中涉及獨立的順序組件，以及使用文字作為中間表示。本文提出了一個即時、無文字的口語對話生成模型（RTTL-DG），旨在克服這些挑戰。我們的系統透過直接處理串流的口語對話來實現流暢的輪流發言，並以最短的延遲產生回應。此外，我們的模型納入了反向頻道、濾波器、笑聲和其他副語言訊號，這些訊號通常在串聯式對話系統中不存在，以創造更自然且更像人類的互動。實作和產生的範例可在我們的儲存庫中取得：https://github.com/mailong25/rts2s-dg
+
+##### **Back Home: A Machine Learning Approach to Seashell Classification and Ecosystem Restoration**
+2501.04873v1 by Alexander Valverde, Luis Solano
+
+In Costa Rica, an average of 5 tons of seashells are extracted from
+ecosystems annually. Confiscated seashells, cannot be returned to their
+ecosystems due to the lack of origin recognition. To address this issue, we
+developed a convolutional neural network (CNN) specifically for seashell
+identification. We built a dataset from scratch, consisting of approximately
+19000 images from the Pacific and Caribbean coasts. Using this dataset, the
+model achieved a classification accuracy exceeding 85%. The model has been
+integrated into a user-friendly application, which has classified over 36,000
+seashells to date, delivering real-time results within 3 seconds per image. To
+further enhance the system's accuracy, an anomaly detection mechanism was
+incorporated to filter out irrelevant or anomalous inputs, ensuring only valid
+seashell images are processed.
+
+摘要：哥斯大黎加每年平均從生態系統中提取 5 噸的貝殼。沒收的貝殼由於缺乏來源識別，無法歸還到其生態系統中。為了解決此問題，我們特別開發了一個用於貝殼識別的卷積神經網路 (CNN)。我們從頭開始建立一個資料集，其中包含來自太平洋和加勒比海沿岸的大約 19000 張圖片。使用此資料集，該模型實現了超過 85% 的分類準確度。該模型已整合到一個使用者友善的應用程式中，迄今已分類超過 36,000 個貝殼，並在每張圖片 3 秒內提供即時結果。為了進一步提高系統的準確度，已整合一個異常偵測機制，以過濾掉不相關或異常的輸入，確保只處理有效的貝殼圖片。
+
+##### **Advancing Retrieval-Augmented Generation for Persian: Development of Language Models, Comprehensive Benchmarks, and Best Practices for Optimization**
+2501.04858v1 by Sara Bourbour Hosseinbeigi, Sina Asghari, Mohammad Ali Seif Kashani, Mohammad Hossein Shalchian, Mohammad Amin Abbasi
+
+This paper examines the specific obstacles of constructing
+Retrieval-Augmented Generation(RAG) systems in low-resource languages, with a
+focus on Persian's complicated morphology and versatile syntax. The research
+aims to improve retrieval and generation accuracy by introducing
+Persian-specific models, namely MatinaRoberta(a masked language model) and
+MatinaSRoberta(a fine-tuned Sentence-BERT), along with a comprehensive
+benchmarking framework. Three datasets-general knowledge(PQuad), scientifically
+specialized texts, and organizational reports, were used to assess these models
+after they were trained on a varied corpus of 73.11 billion Persian tokens. The
+methodology involved extensive pretraining, fine-tuning with tailored loss
+functions, and systematic evaluations using both traditional metrics and the
+Retrieval-Augmented Generation Assessment framework. The results show that
+MatinaSRoberta outperformed previous embeddings, achieving superior contextual
+relevance and retrieval accuracy across datasets. Temperature tweaking, chunk
+size modifications, and document summary indexing were explored to enhance RAG
+setups. Larger models like Llama-3.1 (70B) consistently demonstrated the
+highest generation accuracy, while smaller models faced challenges with
+domain-specific and formal contexts. The findings underscore the potential for
+developing RAG systems in Persian through customized embeddings and
+retrieval-generation settings and highlight the enhancement of NLP applications
+such as search engines and legal document analysis in low-resource languages.
+
+摘要：本論文探討了在低資源語言中建構檢索增強生成 (RAG) 系統的特定障礙，重點在於波斯語複雜的形態和多功能的語法。本研究旨在透過引入波斯語特定模型，即 MatinaRoberta（一個遮罩語言模型）和 MatinaSRoberta（一個微調過的句子 BERT），以及一個全面的基準測試框架，來改善檢索和生成準確度。在對包含 731.1 億個波斯語詞彙的各種語料庫進行訓練後，使用三個資料集（一般知識 (PQuad)、科學專業文本和組織報告）來評估這些模型。該方法涉及廣泛的預訓練、使用客製化損失函數進行微調，以及使用傳統指標和檢索增強生成評估框架進行系統評估。結果顯示，MatinaSRoberta 優於先前的嵌入，在所有資料集上都達到了更高的上下文相關性和檢索準確度。探索了溫度調整、區塊大小修改和文件摘要索引以增強 RAG 設定。像 Llama-3.1 (70B) 這樣較大的模型始終展現出最高的生成準確度，而較小的模型則在特定領域和正式語境中面臨挑戰。研究結果強調了透過自訂嵌入和檢索生成設定來開發波斯語 RAG 系統的潛力，並突顯了在低資源語言中增強自然語言處理應用程式（例如搜尋引擎和法律文件分析）的重要性。
+
+##### **Exploring Large Language Models for Semantic Analysis and Categorization of Android Malware**
+2501.04848v1 by Brandon J Walton, Mst Eshita Khatun, James M Ghawaly, Aisha Ali-Gombe
+
+Malware analysis is a complex process of examining and evaluating malicious
+software's functionality, origin, and potential impact. This arduous process
+typically involves dissecting the software to understand its components,
+infection vector, propagation mechanism, and payload. Over the years, deep
+reverse engineering of malware has become increasingly tedious, mainly due to
+modern malicious codebases' fast evolution and sophistication. Essentially,
+analysts are tasked with identifying the elusive needle in the haystack within
+the complexities of zero-day malware, all while under tight time constraints.
+Thus, in this paper, we explore leveraging Large Language Models (LLMs) for
+semantic malware analysis to expedite the analysis of known and novel samples.
+Built on GPT-4o-mini model, \msp is designed to augment malware analysis for
+Android through a hierarchical-tiered summarization chain and strategic prompt
+engineering. Additionally, \msp performs malware categorization, distinguishing
+potential malware from benign applications, thereby saving time during the
+malware reverse engineering process. Despite not being fine-tuned for Android
+malware analysis, we demonstrate that through optimized and advanced prompt
+engineering \msp can achieve up to 77% classification accuracy while providing
+highly robust summaries at functional, class, and package levels. In addition,
+leveraging the backward tracing of the summaries from package to function
+levels allowed us to pinpoint the precise code snippets responsible for
+malicious behavior.
+
+摘要：惡意軟體分析是檢查和評估惡意軟體功能、來源和潛在影響的複雜過程。這個艱難的過程通常涉及解剖軟體以了解其組成部分、感染媒介、傳播機制和負載。多年來，惡意軟體的深度逆向工程變得越來越繁瑣，主要是因為現代惡意程式碼庫的快速演變和複雜性。基本上，分析師的任務是在零時差惡意軟體的複雜性中找出難以捉摸的針頭，同時還要在嚴格的時間限制下進行。因此，在本文中，我們探討利用大型語言模型 (LLM) 進行語義惡意軟體分析，以加快已知和新樣本的分析。建立在 GPT-4o-mini 模型上，\msp 旨在透過分層摘要鏈和策略提示工程來擴充 Android 的惡意軟體分析。此外，\msp 執行惡意軟體分類，區分潛在惡意軟體與良性應用程式，從而節省惡意軟體逆向工程過程中的時間。儘管沒有針對 Android 惡意軟體分析進行微調，但我們證明透過最佳化和進階提示工程，\msp 可以達到高達 77% 的分類準確度，同時在功能、類別和套件層級提供高度穩健的摘要。此外，利用從套件到功能層級的摘要反向追蹤，讓我們可以精確找出負責惡意行為的程式碼片段。
+
+##### **Enhancing Listened Speech Decoding from EEG via Parallel Phoneme Sequence Prediction**
+2501.04844v1 by Jihwan Lee, Tiantian Feng, Aditya Kommineni, Sudarsana Reddy Kadiri, Shrikanth Narayanan
+
+Brain-computer interfaces (BCI) offer numerous human-centered application
+possibilities, particularly affecting people with neurological disorders. Text
+or speech decoding from brain activities is a relevant domain that could
+augment the quality of life for people with impaired speech perception. We
+propose a novel approach to enhance listened speech decoding from
+electroencephalography (EEG) signals by utilizing an auxiliary phoneme
+predictor that simultaneously decodes textual phoneme sequences. The proposed
+model architecture consists of three main parts: EEG module, speech module, and
+phoneme predictor. The EEG module learns to properly represent EEG signals into
+EEG embeddings. The speech module generates speech waveforms from the EEG
+embeddings. The phoneme predictor outputs the decoded phoneme sequences in text
+modality. Our proposed approach allows users to obtain decoded listened speech
+from EEG signals in both modalities (speech waveforms and textual phoneme
+sequences) simultaneously, eliminating the need for a concatenated sequential
+pipeline for each modality. The proposed approach also outperforms previous
+methods in both modalities. The source code and speech samples are publicly
+available.
+
+摘要：腦機介面 (BCI) 提供許多以人為中心的應用可能性，特別是影響神經疾病患者。從大腦活動中解碼文字或語音是一個相關領域，可以提升言語感知受損者的生活品質。我們提出一個新方法來增強從腦電圖 (EEG) 訊號中解碼聽到的語音，方法是利用一個輔助音素預測器，它同時解碼文字音素序列。所提出的模型架構包含三個主要部分：EEG 模組、語音模組和音素預測器。EEG 模組學習將 EEG 訊號適當地表示成 EEG 嵌入。語音模組從 EEG 嵌入中產生語音波形。音素預測器輸出以文字型態解碼的音素序列。我們提出的方法讓使用者能夠同時從 EEG 訊號中以兩種型態（語音波形和文字音素序列）取得解碼的聽力語音，消除了對每個型態串接順序管線的需求。所提出的方法在兩種型態中也優於先前的做法。原始碼和語音範例公開提供。
+
+##### **Do Code LLMs Understand Design Patterns?**
+2501.04835v1 by Zhenyu Pan, Xuefeng Song, Yunkun Wang, Rongyu Cao, Binhua Li, Yongbin Li, Han Liu
+
+Code Large Language Models (LLMs) demonstrate great versatility in adapting
+to various downstream tasks, including code generation and completion, as well
+as bug detection and fixing. However, Code LLMs often fail to capture existing
+coding standards, leading to the generation of code that conflicts with the
+required design patterns for a given project. As a result, developers must
+post-process to adapt the generated code to the project's design norms. In this
+work, we empirically investigate the biases of Code LLMs in software
+development. Through carefully designed experiments, we assess the models'
+understanding of design patterns across recognition, comprehension, and
+generation. Our findings reveal that biases in Code LLMs significantly affect
+the reliability of downstream tasks.
+
+摘要：大型語言模型 (LLM) 代碼展示出極佳的多功能性，可適應各種下游任務，包括代碼生成和完成，以及錯誤偵測和修正。然而，LLM 代碼經常無法捕捉現有的編碼標準，導致產生的代碼與給定專案所需的設計模式相衝突。因此，開發人員必須進行後處理，以適應產生的代碼至專案的設計規範。在這項工作中，我們從經驗上探討 LLM 代碼在軟體開發中的偏誤。透過精心設計的實驗，我們評估模型對設計模式的理解，涵蓋辨識、理解和生成。我們的發現顯示，LLM 代碼中的偏誤顯著影響了下游任務的可靠性。
+
+##### **ActPC-Geom: Towards Scalable Online Neural-Symbolic Learning via Accelerating Active Predictive Coding with Information Geometry & Diverse Cognitive Mechanisms**
+2501.04832v1 by Ben Goertzel
+
+This paper introduces ActPC-Geom, an approach to accelerate Active Predictive
+Coding (ActPC) in neural networks by integrating information geometry,
+specifically using Wasserstein-metric-based methods for measure-dependent
+gradient flows. We propose replacing KL-divergence in ActPC's predictive error
+assessment with the Wasserstein metric, suggesting this may enhance network
+robustness.
+  To make this computationally feasible, we present strategies including: (1)
+neural approximators for inverse measure-dependent Laplacians, (2) approximate
+kernel PCA embeddings for low-rank approximations feeding into these
+approximators, and (3) compositional hypervector embeddings derived from kPCA
+outputs, with algebra optimized for fuzzy FCA lattices learned through neural
+architectures analyzing network states.
+  This results in an ActPC architecture capable of real-time online learning
+and integrating continuous (e.g., transformer-like or Hopfield-net-like) and
+discrete symbolic ActPC networks, including frameworks like OpenCog Hyperon or
+ActPC-Chem for algorithmic chemistry evolution. Shared probabilistic,
+concept-lattice, and hypervector models enable symbolic-subsymbolic
+integration.
+  Key features include (1) compositional reasoning via hypervector embeddings
+in transformer-like architectures for tasks like commonsense reasoning, and (2)
+Hopfield-net dynamics enabling associative long-term memory and
+attractor-driven cognitive features.
+  We outline how ActPC-Geom combines few-shot learning with online weight
+updates, enabling deliberative thinking and seamless symbolic-subsymbolic
+reasoning. Ideas from Galois connections are explored for efficient hybrid
+ActPC/ActPC-Chem processing. Finally, we propose a specialized HPC design
+optimized for real-time focused attention and deliberative reasoning tailored
+to ActPC-Geom's demands.
+
+摘要：<paragraph>本文介紹了 ActPC-Geom，一種透過整合資訊幾何來加速神經網路中主動預測編碼 (ActPC) 的方法，特別是使用基於 Wasserstein 度量的測度相關梯度流方法。我們建議以 Wasserstein 度量取代 ActPC 預測誤差評估中的 KL 分歧，並提出這可能會增強網路的穩健性。
+為了讓這在運算上可行，我們提出了以下策略：(1) 逆測度相關拉普拉斯算子的神經近似器，(2) 近似核 PCA 嵌入，用於輸入這些近似器的低秩近似，以及 (3) 源自 kPCA 輸出的組合超向量嵌入，其中代數針對通過分析網路狀態的神經架構所學習到的模糊 FCA 格子進行最佳化。
+這產生了一個 ActPC 架構，它能夠進行即時線上學習，並整合連續的 (例如類 Transformer 或類 Hopfield 網路) 和離散符號 ActPC 網路，包括用於演算法化學演化的 OpenCog Hyperon 或 ActPC-Chem 等架構。共用機率、概念格子和超向量模型實現了符號次符號整合。
+主要特點包括 (1) 透過類 Transformer 架構中的超向量嵌入進行組合推理，以執行常識推理等任務，以及 (2) Hopfield 網路動態，實現聯想長期記憶和吸引子驅動的認知特徵。
+我們概述了 ActPC-Geom 如何將少量學習與線上權重更新結合，從而實現審慎思考和無縫的符號次符號推理。探索了來自伽羅瓦連接的想法，以進行有效的混合 ActPC/ActPC-Chem 處理。最後，我們提出了一種針對 ActPC-Geom 需求進行最佳化的特殊 HPC 設計，針對即時焦點注意和審慎推理進行了最佳化。</paragraph>
+
+##### **Building Foundations for Natural Language Processing of Historical Turkish: Resources and Models**
+2501.04828v1 by Şaziye Betül Özateş, Tarık Emre Tıraş, Ece Elif Adak, Berat Doğan, Fatih Burak Karagöz, Efe Eren Genç, Esma F. Bilgin Taşdemir
+
+This paper introduces foundational resources and models for natural language
+processing (NLP) of historical Turkish, a domain that has remained
+underexplored in computational linguistics. We present the first named entity
+recognition (NER) dataset, HisTR and the first Universal Dependencies treebank,
+OTA-BOUN for a historical form of the Turkish language along with
+transformer-based models trained using these datasets for named entity
+recognition, dependency parsing, and part-of-speech tagging tasks.
+Additionally, we introduce Ottoman Text Corpus (OTC), a clean corpus of
+transliterated historical Turkish texts that spans a wide range of historical
+periods. Our experimental results show significant improvements in the
+computational analysis of historical Turkish, achieving promising results in
+tasks that require understanding of historical linguistic structures. They also
+highlight existing challenges, such as domain adaptation and language
+variations across time periods. All of the presented resources and models are
+made available at https://huggingface.co/bucolin to serve as a benchmark for
+future progress in historical Turkish NLP.
+
+摘要：這篇論文介紹了自然語言處理 (NLP) 的基礎資源和模型，用於處理歷史土耳其語，這是一個在計算語言學中仍未被充分探索的領域。我們提出了第一個命名實體識別 (NER) 資料集 HisTR 和第一個通用依存樹庫 OTA-BOUN，用於歷史形式的土耳其語，以及使用這些資料集訓練的變換器模型，用於命名實體識別、依存句法分析和詞性標記任務。此外，我們還介紹了鄂圖曼文本語料庫 (OTC)，這是一個乾淨的轉寫歷史土耳其語文本語料庫，涵蓋了廣泛的歷史時期。我們的實驗結果顯示，歷史土耳其語的計算分析有了顯著的改進，在需要理解歷史語言結構的任務中取得了有希望的結果。它們還突出了現有的挑戰，例如領域適應和跨時代的語言變異。所有提出的資源和模型都可以在 https://huggingface.co/bucolin 上獲得，作為歷史土耳其語 NLP 未來進展的基準。
+
+##### **Intelligent Gradient Boosting Algorithms for Estimating Strength of Modified Subgrade Soil**
+2501.04826v1 by Ismail B. Mustapha, Muyideen Abdulkareem, Shafaatunnur Hasan, Abideen Ganiyu, Hatem Nabus, Jin Chai Lee
+
+The performance of pavement under loading depends on the strength of the
+subgrade. However, experimental estimation of properties of pavement strengths
+such as California bearing ratio (CBR), unconfined compressive strength (UCS)
+and resistance value (R) are often tedious, time-consuming and costly, thereby
+inspiring a growing interest in machine learning based tools which are simple,
+cheap and fast alternatives. Thus, the potential application of two boosting
+techniques; categorical boosting (CatBoost) and extreme gradient boosting
+(XGBoost) and support vector regression (SVR), is similarly explored in this
+study for estimation of properties of subgrade soil modified with hydrated lime
+activated rice husk ash (HARSH). Using 121 experimental data samples of varying
+proportions of HARSH, plastic limit, liquid limit, plasticity index, clay
+activity, optimum moisture content, and maximum dry density as input for CBR,
+UCS and R estimation, four evaluation metrics namely coefficient of
+determination (R2), root mean squared error (RMSE), mean absolute error (MAE)
+and mean absolute percentage error (MAPE) are used to evaluate the models'
+performance. The results indicate that XGBoost outperformed CatBoost and SVR in
+estimating these properties, yielding R2 of 0.9994, 0.9995 and 0.9999 in
+estimating the CBR, UCS and R respectively. Also, SVR outperformed CatBoost in
+estimating the CBR and R with R2 of 0.9997 respectively. On the other hand,
+CatBoost outperformed SVR in estimating the UCS with R2 of 0.9994. Feature
+sensitivity analysis shows that the three machine learning techniques are
+unanimous that increasing HARSH proportion lead to values of the estimated
+properties respectively. A comparison with previous results also shows
+superiority of XGBoost in estimating subgrade properties.
+
+摘要：路面在受載荷作用下的效能取決於路基的強度。然而，路面強度性質的實驗估計，例如加州承載比 (CBR)、無側限抗壓強度 (UCS) 和抗力值 (R) 通常繁瑣、耗時且成本高昂，因此激發了人們對基於機器學習的工具的興趣，這些工具簡單、便宜且快速。因此，本研究同樣探討了兩種提升技術的潛在應用；分類提升 (CatBoost) 和極端梯度提升 (XGBoost) 和支持向量回歸 (SVR)，用於估計經由水合石灰活化稻殼灰 (HARSH) 改良的路基土的性質。使用 121 個不同比例 HARSH 的實驗數據樣本，塑性極限、液性極限、塑性指數、黏土活性、最佳含水量和最大乾密度作為 CBR、UCS 和 R 估計的輸入，四個評估指標，即決定係數 (R2)、均方根誤差 (RMSE)、平均絕對誤差 (MAE) 和平均絕對百分比誤差 (MAPE) 用於評估模型的效能。結果表明，XGBoost 在估計這些性質方面優於 CatBoost 和 SVR，在估計 CBR、UCS 和 R 時分別產生 0.9994、0.9995 和 0.9999 的 R2。此外，SVR 在估計 CBR 和 R 時優於 CatBoost，R2 分別為 0.9997。另一方面，CatBoost 在估計 UCS 時優於 SVR，R2 為 0.9994。特徵敏感性分析表明，三種機器學習技術一致認為，增加 HARSH 比例會導致估計性質的值分別增加。與先前的結果比較也顯示出 XGBoost 在估計路基性質方面的優越性。
+
+##### **Unifying the Extremes: Developing a Unified Model for Detecting and Predicting Extremist Traits and Radicalization**
+2501.04820v1 by Allison Lahnala, Vasudha Varadarajan, Lucie Flek, H. Andrew Schwartz, Ryan L. Boyd
+
+The proliferation of ideological movements into extremist factions via social
+media has become a global concern. While radicalization has been studied
+extensively within the context of specific ideologies, our ability to
+accurately characterize extremism in more generalizable terms remains
+underdeveloped. In this paper, we propose a novel method for extracting and
+analyzing extremist discourse across a range of online community forums. By
+focusing on verbal behavioral signatures of extremist traits, we develop a
+framework for quantifying extremism at both user and community levels. Our
+research identifies 11 distinct factors, which we term ``The Extremist
+Eleven,'' as a generalized psychosocial model of extremism. Applying our method
+to various online communities, we demonstrate an ability to characterize
+ideologically diverse communities across the 11 extremist traits. We
+demonstrate the power of this method by analyzing user histories from members
+of the incel community. We find that our framework accurately predicts which
+users join the incel community up to 10 months before their actual entry with
+an AUC of $>0.6$, steadily increasing to AUC ~0.9 three to four months before
+the event. Further, we find that upon entry into an extremist forum, the users
+tend to maintain their level of extremism within the community, while still
+remaining distinguishable from the general online discourse. Our findings
+contribute to the study of extremism by introducing a more holistic,
+cross-ideological approach that transcends traditional, trait-specific models.
+
+摘要：社群媒體上意識形態運動擴散到極端派系已成為全球關注的議題。雖然激進化已在特定意識形態的脈絡下廣泛研究，我們準確描述更普遍的極端主義的能力仍未發展。在本文中，我們提出了一種新穎的方法，用於擷取和分析各種線上社群論壇中的極端主義論述。透過聚焦於極端主義特質的口語行為特徵，我們開發了一個架構，用於量化使用者和社群層級的極端主義。我們的研究識別出 11 個不同的因素，我們稱之為「極端主義十一特質」，作為極端主義的廣泛心理社會模型。將我們的模型應用於各種線上社群，我們展示了描述 11 個極端主義特質中意識形態多元社群的能力。我們透過分析來自非自願獨身者社群成員的使用者歷史，展示了此方法的力量。我們發現，我們的架構準確預測了哪些使用者在實際加入前 10 個月就會加入非自願獨身者社群，AUC 超過 0.6，在事件發生前三到四個月穩定增加至 AUC ~0.9。此外，我們發現，使用者在進入極端主義論壇後，往往會在社群中維持其極端主義程度，同時仍然與一般的線上論述有所區別。我們的發現透過引入更全面、跨意識形態的方法，超越傳統的、特質特定的模型，對極端主義的研究有所貢獻。
+
+##### **Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**
+2501.04817v1 by Ziyuan Bao, Eiman Kanjo, Soumya Banerjee, Hasib-Al Rashid, Tinoosh Mohsenin
+
+With the growing computational capabilities of microcontroller units (MCUs),
+edge devices can now support machine learning models. However, deploying
+decentralised federated learning (DFL) on such devices presents key challenges,
+including intermittent connectivity, limited communication range, and dynamic
+network topologies. This paper proposes a novel framework, bilayer Gossip
+Decentralised Parallel Stochastic Gradient Descent (GD PSGD), designed to
+address these issues in resource-constrained environments. The framework
+incorporates a hierarchical communication structure using Distributed Kmeans
+(DKmeans) clustering for geographic grouping and a gossip protocol for
+efficient model aggregation across two layers: intra-cluster and inter-cluster.
+We evaluate the framework's performance against the Centralised Federated
+Learning (CFL) baseline using the MCUNet model on the CIFAR-10 dataset under
+IID and Non-IID conditions. Results demonstrate that the proposed method
+achieves comparable accuracy to CFL on IID datasets, requiring only 1.8
+additional rounds for convergence. On Non-IID datasets, the accuracy loss
+remains under 8\% for moderate data imbalance. These findings highlight the
+framework's potential to support scalable and privacy-preserving learning on
+edge devices with minimal performance trade-offs.
+
+摘要：隨著微控制器單元 (MCU) 的計算能力不斷提升，邊緣裝置現在可以支援機器學習模型。然而，在這些裝置上部署去中心化聯邦學習 (DFL) 會帶來一些關鍵挑戰，包括間歇性連線、有限的通訊範圍和動態網路拓撲。本文提出了一個創新的架構，稱為雙層八卦去中心化平行隨機梯度下降 (GD PSGD)，旨在解決資源受限環境中的這些問題。此架構採用層級式通訊結構，使用分散式 Kmeans (DKmeans) 群集進行地理分組，並使用八卦協定在兩個層級（群集內和群集間）進行有效率的模型聚合。我們使用 MCUNet 模型在 CIFAR-10 資料集上，在 IID 和 Non-IID 條件下評估此架構的效能，並將其與集中式聯邦學習 (CFL) 基準進行比較。結果顯示，所提出的方法在 IID 資料集上達到與 CFL 相當的準確度，僅需 1.8 個額外回合即可收斂。在 Non-IID 資料集上，在中等資料不平衡的情況下，準確度損失仍低於 8%。這些發現突顯了此架構在邊緣裝置上支援可擴充且隱私保護的學習的潛力，同時將效能取捨降至最低。
+
+##### **Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval**
+2501.04802v1 by Yongkang Li, Panagiotis Eustratiadis, Evangelos Kanoulas
+
+HotFlip is a topical gradient-based word substitution method for attacking
+language models. Recently, this method has been further applied to attack
+retrieval systems by generating malicious passages that are injected into a
+corpus, i.e., corpus poisoning. However, HotFlip is known to be computationally
+inefficient, with the majority of time being spent on gradient accumulation for
+each query-passage pair during the adversarial token generation phase, making
+it impossible to generate an adequate number of adversarial passages in a
+reasonable amount of time. Moreover, the attack method itself assumes access to
+a set of user queries, a strong assumption that does not correspond to how
+real-world adversarial attacks are usually performed. In this paper, we first
+significantly boost the efficiency of HotFlip, reducing the adversarial
+generation process from 4 hours per document to only 15 minutes, using the same
+hardware. We further contribute experiments and analysis on two additional
+tasks: (1) transfer-based black-box attacks, and (2) query-agnostic attacks.
+Whenever possible, we provide comparisons between the original method and our
+improved version. Our experiments demonstrate that HotFlip can effectively
+attack a variety of dense retrievers, with an observed trend that its attack
+performance diminishes against more advanced and recent methods. Interestingly,
+we observe that while HotFlip performs poorly in a black-box setting,
+indicating limited capacity for generalization, in query-agnostic scenarios its
+performance is correlated to the volume of injected adversarial passages.
+
+摘要：HotFlip 是一種主題梯度式的詞彙替換法，用於攻擊語言模型。最近，此方法已進一步應用於攻擊檢索系統，方法是生成惡意段落並將其注入語料庫，即語料庫中毒。然而，眾所周知，HotFlip 在計算上效率低下，大部分時間都花在對抗性令牌生成階段的每個查詢-段落對的梯度累積上，這使得無法在合理的時間內生成足夠數量的對抗性段落。此外，攻擊方法本身假設可以訪問一組使用者查詢，這是一個強有力的假設，與通常執行實際對抗性攻擊的方式不符。在本文中，我們首先大幅提升 HotFlip 的效率，使用相同的硬體，將對抗性生成過程從每個文件 4 小時縮短到僅 15 分鐘。我們進一步貢獻了對兩個額外任務的實驗和分析：(1) 基於傳輸的黑盒攻擊，以及 (2) 與查詢無關的攻擊。只要有可能，我們都會提供原始方法與我們改進版本之間的比較。我們的實驗表明，HotFlip 可以有效攻擊各種稠密檢索器，觀察到的趨勢是其攻擊性能會隨著更先進和更新的方法而降低。有趣的是，我們觀察到，雖然 HotFlip 在黑盒設置中表現不佳，表明其概化能力有限，但在與查詢無關的場景中，其性能與注入對抗性段落的數量相關。
+
+##### **Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**
+2501.04799v1 by Sanjana Sankar, Martin Lenglet, Gerard Bailly, Denis Beautemps, Thomas Hueber
+
+This paper presents a novel approach for the automatic generation of Cued
+Speech (ACSG), a visual communication system used by people with hearing
+impairment to better elicit the spoken language. We explore transfer learning
+strategies by leveraging a pre-trained audiovisual autoregressive
+text-to-speech model (AVTacotron2). This model is reprogrammed to infer Cued
+Speech (CS) hand and lip movements from text input. Experiments are conducted
+on two publicly available datasets, including one recorded specifically for
+this study. Performance is assessed using an automatic CS recognition system.
+With a decoding accuracy at the phonetic level reaching approximately 77%, the
+results demonstrate the effectiveness of our approach.
+
+摘要：本文提出了一種創新的方法，用於自動產生提示式語言 (ACSG)，這是一種視覺溝通系統，由聽力障礙人士使用，以更好地引出語言。我們透過利用預先訓練的視聽自迴歸文字轉語音模型 (AVTacotron2)，來探索轉移學習策略。此模型被重新編寫，以從文字輸入中推斷提示式語言 (CS) 的手部和唇部動作。實驗是在兩個公開可用的資料集上進行，其中一個是專門為這項研究而錄製。效能是使用自動 CS 辨識系統來評估。在音標層級的解碼準確度達到約 77%，結果證明了我們方法的有效性。
+
+##### **Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**
+2501.04700v1 by Ziyuan Huang, Mark Newman, Maria Vaida, Srikar Bellur, Roozbeh Sadeghian, Andrew Siu, Hui Wang, Kevin Huggins
+
+This study examined the viability of enhancing the prediction accuracy of
+artificial neural networks (ANNs) in image classification tasks by developing
+ANNs with evolution patterns similar to those of biological neural networks.
+ResNet is a widely used family of neural networks with both deep and wide
+variants; therefore, it was selected as the base model for our investigation.
+The aim of this study is to improve the image classification performance of
+ANNs via a novel approach inspired by the biological nervous system
+architecture of planarians, which comprises a brain and two nerve cords. We
+believe that the unique neural architecture of planarians offers valuable
+insights into the performance enhancement of ANNs. The proposed planarian
+neural architecture-based neural network was evaluated on the CIFAR-10 and
+CIFAR-100 datasets. Our results indicate that the proposed method exhibits
+higher prediction accuracy than the baseline neural network models in image
+classification tasks. These findings demonstrate the significant potential of
+biologically inspired neural network architectures in improving the performance
+of ANNs in a wide range of applications.
+
+摘要：本研究探討了透過開發具有與生物神經網路相似的演化模式的人工神經網路 (ANN)，來提升人工神經網路在影像分類任務中預測精確度的可行性。ResNet 是一個廣泛使用的神經網路系列，具有深層和廣泛的變異；因此，它被選為我們研究的基本模型。本研究的目的是透過一種新穎的方法來提升人工神經網路的影像分類效能，此方法的靈感來自於扁蟲的生物神經系統架構，其中包含一個大腦和兩條神經索。我們相信扁蟲獨特的神經架構能為提升人工神經網路的效能提供有價值的見解。所提出的基於扁蟲神經架構的神經網路在 CIFAR-10 和 CIFAR-100 資料集上進行評估。我們的結果顯示，所提出的方法在影像分類任務中展現出比基準神經網路模型更高的預測精確度。這些發現證明了受生物啟發的神經網路架構在提升人工神經網路在廣泛應用中的效能方面具有顯著的潛力。
+
+##### **Grokking at the Edge of Numerical Stability**
+2501.04697v1 by Lucas Prieto, Melih Barsbey, Pedro A. M. Mediano, Tolga Birdal
+
+Grokking, the sudden generalization that occurs after prolonged overfitting,
+is a surprising phenomenon challenging our understanding of deep learning.
+Although significant progress has been made in understanding grokking, the
+reasons behind the delayed generalization and its dependence on regularization
+remain unclear. In this work, we argue that without regularization, grokking
+tasks push models to the edge of numerical stability, introducing floating
+point errors in the Softmax function, which we refer to as Softmax Collapse
+(SC). We demonstrate that SC prevents grokking and that mitigating SC enables
+grokking without regularization. Investigating the root cause of SC, we find
+that beyond the point of overfitting, the gradients strongly align with what we
+call the na\"ive loss minimization (NLM) direction. This component of the
+gradient does not alter the model's predictions but decreases the loss by
+scaling the logits, typically by scaling the weights along their current
+direction. We show that this scaling of the logits explains the delay in
+generalization characteristic of grokking and eventually leads to SC, halting
+further learning. To validate our hypotheses, we introduce two key
+contributions that address the challenges in grokking tasks: StableMax, a new
+activation function that prevents SC and enables grokking without
+regularization, and $\perp$Grad, a training algorithm that promotes quick
+generalization in grokking tasks by preventing NLM altogether. These
+contributions provide new insights into grokking, elucidating its delayed
+generalization, reliance on regularization, and the effectiveness of existing
+grokking-inducing methods. Code for this paper is available at
+https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability.
+
+摘要：<paragraph>過擬合後突然發生的廣泛化，稱為「頓悟」，是一個令人驚訝的現象，挑戰了我們對深度學習的理解。雖然在理解頓悟方面已取得重大進展，但延遲廣泛化背後的原因及其對正則化的依賴性仍不清楚。在這項工作中，我們論證說，在沒有正則化的情況下，頓悟任務會將模型推到數值穩定性的邊緣，在 Softmax 函數中引入浮點誤差，我們稱之為 Softmax 崩潰 (SC)。我們證明 SC 會阻止頓悟，而減輕 SC 可以讓頓悟在沒有正則化的情況下發生。在調查 SC 的根本原因時，我們發現，在過擬合點之外，梯度與我們稱之為「樸素損失最小化」(NLM) 方向強烈對齊。梯度的這個組成部分不會改變模型的預測，但會透過調整 logit 來降低損失，通常是沿著其當前方向調整權重。我們表明，logit 的這種調整解釋了頓悟特有的廣泛化延遲，並最終導致 SC，阻礙進一步學習。為了驗證我們的假設，我們提出了兩個關鍵貢獻，以解決頓悟任務中的挑戰：StableMax，這是一個新的激活函數，可以防止 SC 並在沒有正則化的情況下實現頓悟，以及 $\perp$Grad，這是一種訓練演算法，透過完全防止 NLM，在頓悟任務中促進快速廣泛化。這些貢獻為頓悟提供了新的見解，闡明了其延遲廣泛化、對正則化的依賴性，以及現有頓悟誘導方法的有效性。本文的程式碼可在 https://github.com/LucasPrietoAl/grokking-at-the-edge-of-numerical-stability 取得。</paragraph>
+
+##### **EpiCoder: Encompassing Diversity and Complexity in Code Generation**
+2501.04694v1 by Yaoxiang Wang, Haoling Li, Xin Zhang, Jie Wu, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li
+
+Effective instruction tuning is indispensable for optimizing code LLMs,
+aligning model behavior with user expectations and enhancing model performance
+in real-world applications. However, most existing methods focus on code
+snippets, which are limited to specific functionalities and rigid structures,
+restricting the complexity and diversity of the synthesized data. To address
+these limitations, we introduce a novel feature tree-based synthesis framework
+inspired by Abstract Syntax Trees (AST). Unlike AST, which captures syntactic
+structure of code, our framework models semantic relationships between code
+elements, enabling the generation of more nuanced and diverse data. The feature
+tree is constructed from raw data and refined iteratively to increase the
+quantity and diversity of the extracted features. This process enables the
+identification of more complex patterns and relationships within the code. By
+sampling subtrees with controlled depth and breadth, our framework allows
+precise adjustments to the complexity of the generated code, supporting a wide
+range of tasks from simple function-level operations to intricate multi-file
+scenarios. We fine-tuned widely-used base models to create the EpiCoder series,
+achieving state-of-the-art performance at both the function and file levels
+across multiple benchmarks. Notably, empirical evidence indicates that our
+approach shows significant potential in synthesizing highly complex
+repository-level code data. Further analysis elucidates the merits of this
+approach by rigorously assessing data complexity and diversity through software
+engineering principles and LLM-as-a-judge method.
+
+摘要：有效的指令調整對於最佳化程式碼 LLM 至關重要，可將模型行為與使用者預期保持一致，並提升模型在實際應用中的效能。然而，現有的方法大多著重於程式碼片段，僅限於特定功能和僵化的結構，限制了合成資料的複雜性和多樣性。為了解決這些限制，我們引入一種新穎的基於特徵樹的合成架構，靈感來自抽象語法樹 (AST)。與擷取程式碼語法結構的 AST 不同，我們的架構會對程式碼元素之間的語意關係建模，能夠產生更細緻且多樣化的資料。特徵樹是由原始資料建構而成，並反覆精煉以增加提取特徵的數量和多樣性。此程序能識別程式碼中更複雜的模式和關係。透過以受控深度和廣度取樣子樹，我們的架構允許精確調整產生程式碼的複雜度，支援從簡單函式層級操作到複雜多檔案場景的各種任務。我們微調廣泛使用的基礎模型以建立 EpiCoder 系列，在函式和檔案層級上於多個基準測試中達成最先進的效能。值得注意的是，實證證據顯示，我們的做法在合成高度複雜的儲存庫層級程式碼資料方面具有顯著的潛力。進一步的分析透過軟體工程原則和 LLM 作為評判方法，嚴謹地評估資料的複雜性和多樣性，闡明此方法的優點。
+
+##### **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**
+2501.04693v1 by Joshua Jones, Oier Mees, Carmelo Sferrazza, Kyle Stachowicz, Pieter Abbeel, Sergey Levine
+
+Interacting with the world is a multi-sensory experience: achieving effective
+general-purpose interaction requires making use of all available modalities --
+including vision, touch, and audio -- to fill in gaps from partial observation.
+For example, when vision is occluded reaching into a bag, a robot should rely
+on its senses of touch and sound. However, state-of-the-art generalist robot
+policies are typically trained on large datasets to predict robot actions
+solely from visual and proprioceptive observations. In this work, we propose
+FuSe, a novel approach that enables finetuning visuomotor generalist policies
+on heterogeneous sensor modalities for which large datasets are not readily
+available by leveraging natural language as a common cross-modal grounding. We
+combine a multimodal contrastive loss with a sensory-grounded language
+generation loss to encode high-level semantics. In the context of robot
+manipulation, we show that FuSe enables performing challenging tasks that
+require reasoning jointly over modalities such as vision, touch, and sound in a
+zero-shot setting, such as multimodal prompting, compositional cross-modal
+prompting, and descriptions of objects it interacts with. We show that the same
+recipe is applicable to widely different generalist policies, including both
+diffusion-based generalist policies and large vision-language-action (VLA)
+models. Extensive experiments in the real world show that FuSeis able to
+increase success rates by over 20% compared to all considered baselines.
+
+摘要：與世界互動是一種多感官體驗：要達成有效的通用互動，必須利用所有可用的方式，包括視覺、觸覺和聽覺，以填補部分觀察的空白。例如，當視覺被遮蔽時，機器人應依賴其觸覺和聽覺。然而，最先進的通用機器人策略通常在大型資料集上訓練，以僅從視覺和本體感覺觀察來預測機器人的動作。在這項工作中，我們提出了 FuSe，一種新穎的方法，它能微調視覺運動通用策略，針對大型資料集不易取得的異質感測器模式，利用自然語言作為一種通用的跨模式基礎。我們將多模式對比損失與感官基礎語言生成損失結合，以編碼高層語義。在機器人操作的背景下，我們展示了 FuSe 能夠執行具有挑戰性的任務，這些任務需要在零次學習的設定中，對視覺、觸覺和聲音等模式進行聯合推理，例如多模式提示、組合式跨模式提示，以及與其互動的物體描述。我們展示了相同的配方適用於各種不同的通用策略，包括基於擴散的通用策略和大型視覺語言動作 (VLA) 模型。現實世界中的大量實驗表明，與所有考慮的基準線相比，FuSe 能夠將成功率提高 20% 以上。
+
+##### **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**
+2501.04686v1 by Ruilin Luo, Zhuofan Zheng, Yifan Wang, Yiyao Yu, Xinzhe Ni, Zicheng Lin, Jin Zeng, Yujiu Yang
+
+Chain-of-thought (CoT) reasoning has been widely applied in the mathematical
+reasoning of Large Language Models (LLMs). Recently, the introduction of
+derivative process supervision on CoT trajectories has sparked discussions on
+enhancing scaling capabilities during test time, thereby boosting the potential
+of these models. However, in multimodal mathematical reasoning, the scarcity of
+high-quality CoT training data has hindered existing models from achieving
+high-precision CoT reasoning and has limited the realization of reasoning
+potential during test time. In this work, we propose a three-module synthesis
+strategy that integrates CoT distillation, trajectory-format rewriting, and
+format unification. It results in a high-quality CoT reasoning instruction
+fine-tuning dataset in multimodal mathematics, MMathCoT-1M. We comprehensively
+validate the state-of-the-art (SOTA) performance of the trained URSA-7B model
+on multiple multimodal mathematical benchmarks. For test-time scaling, we
+introduce a data synthesis strategy that automatically generates process
+annotation datasets, known as DualMath-1.1M, focusing on both interpretation
+and logic. By further training URSA-7B on DualMath-1.1M, we transition from CoT
+reasoning capabilities to robust supervision abilities. The trained URSA-RM-7B
+acts as a verifier, effectively enhancing the performance of URSA-7B at test
+time. URSA-RM-7B also demonstrates excellent out-of-distribution (OOD)
+verifying capabilities, showcasing its generalization. Model weights, training
+data and code will be open-sourced.
+
+摘要：<paragraph>鏈條思考（CoT）推理已廣泛應用於大型語言模型（LLM）的數學推理中。最近，在 CoT 軌跡中引入導數過程監督，引發了關於在測試期間增強規模化能力的討論，從而提升了這些模型的潛力。然而，在多模態數學推理中，高品質 CoT 訓練資料的稀缺性阻礙了現有模型實現高精度的 CoT 推理，並限制了在測試期間實現推理潛力的可能性。在這項工作中，我們提出了一種三模組合成策略，它整合了 CoT 蒸餾、軌跡格式重寫和格式統一。它產生了一個高品質的 CoT 推理指令微調資料集，用於多模態數學，MMathCoT-1M。我們全面驗證了訓練後的 URSA-7B 模型在多個多模態數學基準上的最新技術（SOTA）效能。對於測試時間縮放，我們引入了一種資料合成策略，它自動產生過程註解資料集，稱為 DualMath-1.1M，重點關注解釋和邏輯。通過進一步訓練 URSA-7B 在 DualMath-1.1M 上，我們從 CoT 推理能力過渡到強大的監督能力。訓練後的 URSA-RM-7B 作為驗證器，有效地增強了 URSA-7B 在測試時間的效能。URSA-RM-7B 還展示了出色的分布外（OOD）驗證能力，展示了它的泛化性。模型權重、訓練資料和程式碼將會開源。</paragraph>
+
+##### **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**
+2501.04682v1 by Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn
+
+We propose a novel framework, Meta Chain-of-Thought (Meta-CoT), which extends
+traditional Chain-of-Thought (CoT) by explicitly modeling the underlying
+reasoning required to arrive at a particular CoT. We present empirical evidence
+from state-of-the-art models exhibiting behaviors consistent with in-context
+search, and explore methods for producing Meta-CoT via process supervision,
+synthetic data generation, and search algorithms. Finally, we outline a
+concrete pipeline for training a model to produce Meta-CoTs, incorporating
+instruction tuning with linearized search traces and reinforcement learning
+post-training. Finally, we discuss open research questions, including scaling
+laws, verifier roles, and the potential for discovering novel reasoning
+algorithms. This work provides a theoretical and practical roadmap to enable
+Meta-CoT in LLMs, paving the way for more powerful and human-like reasoning in
+artificial intelligence.
+
+摘要：我們提出了一個新穎的框架，元思考鏈 (Meta-CoT)，它通過明確建模得出特定 CoT 所需的基本推理來擴展傳統的思考鏈 (CoT)。我們展示了來自最先進模型的經驗證據，這些模型表現出與情境中搜尋一致的行為，並探索了通過流程監督、合成資料生成和搜尋演算法來產生 Meta-CoT 的方法。最後，我們概述了一個具體的管道，用於訓練模型以產生 Meta-CoT，其中包含線性化搜尋軌跡和強化學習後訓練的指令調整。最後，我們討論了開放的研究問題，包括規模定律、驗證者角色，以及發現新推理演算法的潛力。這項工作提供了一個理論和實務路線圖，以在 LLM 中啟用 Meta-CoT，為人工智慧中更強大且更類似人類的推理鋪平道路。
+
+##### **TREAD: Token Routing for Efficient Architecture-agnostic Diffusion Training**
+2501.04765v1 by Felix Krause, Timy Phan, Vincent Tao Hu, Björn Ommer
+
+Diffusion models have emerged as the mainstream approach for visual
+generation. However, these models usually suffer from sample inefficiency and
+high training costs. This issue is particularly pronounced in the standard
+diffusion transformer architecture due to its quadratic complexity relative to
+input length. Recent works have addressed this by reducing the number of tokens
+processed in the model, often through masking. In contrast, this work aims to
+improve the training efficiency of the diffusion backbone by using predefined
+routes that store this information until it is reintroduced to deeper layers of
+the model, rather than discarding these tokens entirely. Further, we combine
+multiple routes and introduce an adapted auxiliary loss that accounts for all
+applied routes. Our method is not limited to the common transformer-based model
+- it can also be applied to state-space models. Unlike most current approaches,
+TREAD achieves this without architectural modifications. Finally, we show that
+our method reduces the computational cost and simultaneously boosts model
+performance on the standard benchmark ImageNet-1K 256 x 256 in
+class-conditional synthesis. Both of these benefits multiply to a convergence
+speedup of 9.55x at 400K training iterations compared to DiT and 25.39x
+compared to the best benchmark performance of DiT at 7M training iterations.
+
+摘要：擴散模型已成為視覺生成的主流方法。然而，這些模型通常會出現樣本效率低和訓練成本高的問題。這個問題在標準擴散Transformer架構中特別明顯，因為它的二次複雜度與輸入長度有關。最近的研究透過減少模型中處理的符號數量來解決這個問題，通常是透過遮罩。相比之下，這項工作旨在透過使用預定義路徑來改善擴散主幹的訓練效率，這些路徑會儲存這些資訊，直到將其重新引入到模型的更深層，而不是完全捨棄這些符號。此外，我們結合多條路徑並引入一個適應輔助損失，該損失會考量所有已套用的路徑。我們的模型不僅限於常見的基於Transformer的模型，它也可以應用於狀態空間模型。與大多數目前的方法不同，TREAD 在沒有架構修改的情況下實現了這一點。最後，我們證明了我們的模型減少了運算成本，同時在標準基準 ImageNet-1K 256 x 256 中提升了模型在類條件合成上的效能。與 DiT 相比，這兩個優點在 400K 訓練反覆運算中乘以 9.55 倍的收斂速度，與 DiT 在 7M 訓練反覆運算中的最佳基準效能相比，乘以 25.39 倍。
+
+##### **Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**
+2501.04675v1 by Archita Srivastava, Abhas Kumar, Rajesh Kumar, Prabhakar Srinivasan
+
+Chart interpretation is crucial for visual data analysis, but accurately
+extracting information from charts poses significant challenges for automated
+models. This study investigates the fine-tuning of DEPLOT, a modality
+conversion module that translates the image of a plot or chart to a linearized
+table, on a custom dataset of 50,000 bar charts. The dataset comprises simple,
+stacked, and grouped bar charts, targeting the unique structural features of
+these visualizations. The finetuned DEPLOT model is evaluated against its base
+version using a test set of 1,000 images and two metrics: Relative Mapping
+Similarity (RMS), which measures categorical mapping accuracy, and Relative
+Number Set Similarity (RNSS), which evaluates numerical interpretation
+accuracy. To further explore the reasoning capabilities of large language
+models (LLMs), we curate an additional set of 100 bar chart images paired with
+question answer sets. Our findings demonstrate that providing a structured
+intermediate table alongside the image significantly enhances LLM reasoning
+performance compared to direct image queries.
+
+摘要：圖表解讀對於視覺資料分析至關重要，但從圖表中準確擷取資訊對於自動化模型來說是一項重大挑戰。本研究探討了 DEPLOT 的微調，這是一個將繪圖或圖表的影像轉換成線性化表格的模組化轉換模組，針對一個包含 50,000 個長條圖的客製化資料集。該資料集包含簡單、堆疊和群組長條圖，目標為這些視覺化的獨特結構特徵。微調後的 DEPLOT 模型使用一個包含 1,000 個影像和兩個指標的測試集，來評估它與基本版本的差異：相對應對相似度 (RMS)，用於衡量分類對應的準確度，以及相對數字集相似度 (RNSS)，用於評估數值解讀的準確度。為了進一步探索大型語言模型 (LLM) 的推理能力，我們策劃了一個額外的 100 張長條圖影像集，並配對問題解答集。我們的研究結果表明，與直接影像查詢相比，在影像旁邊提供一個結構化的中間表格，可以顯著增強 LLM 的推理效能。
+
+##### **DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**
+2501.04671v1 by Charles Corbière, Simon Roburin, Syrielle Montariol, Antoine Bosselut, Alexandre Alahi
+
+Large vision-language models (LVLMs) augment language models with visual
+understanding, enabling multimodal reasoning. However, due to the modality gap
+between textual and visual data, they often face significant challenges, such
+as over-reliance on text priors, hallucinations, and limited capacity for
+complex visual reasoning. Existing benchmarks to evaluate visual reasoning in
+LVLMs often rely on schematic or synthetic images and on imprecise
+machine-generated explanations. To bridge the modality gap, we present
+DrivingVQA, a new benchmark derived from driving theory tests to evaluate
+visual chain-of-thought reasoning in complex real-world scenarios. It offers
+3,931 expert-crafted multiple-choice problems and interleaved explanations
+grounded with entities relevant to the reasoning process. We leverage this
+dataset to perform an extensive study of LVLMs' ability to reason about complex
+visual scenarios. Our experiments reveal that open-source and proprietary LVLMs
+struggle with visual chain-of-thought reasoning under zero-shot settings. We
+investigate training strategies that leverage relevant entities to improve
+visual reasoning. Notably, we observe a performance boost of up to 7\% when
+reasoning over image tokens of cropped regions tied to these entities.
+
+摘要：大型视觉语言模型 (LVLMs) 使用视觉理解来增强语言模型，实现多模态推理。然而，由于文本和视觉数据之间的模态差异，它们通常面临着重大挑战，例如过度依赖文本先验、幻觉以及复杂视觉推理能力有限。现有的基准用于评估 LVLMs 中的视觉推理，通常依赖于示意图或合成图像以及不精确的机器生成的解释。为了弥合模态差距，我们提出了 DrivingVQA，这是一个新的基准，源自驾驶理论测试，用于评估复杂现实世界场景中的视觉思维链推理。它提供了 3,931 个专家制作的多项选择题和穿插的解释，这些解释以与推理过程相关的实体为基础。我们利用此数据集对 LVLMs 推理复杂视觉场景的能力进行了广泛的研究。我们的实验表明，开源和专有 LVLMs 在零次学习设置下难以进行视觉思维链推理。我们研究了利用相关实体来改善视觉推理的训练策略。值得注意的是，当对与这些实体相关的裁剪区域的图像标记进行推理时，我们观察到性能提升高达 7%。
+
+##### **On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**
+2501.04662v1 by Tarek Naous, Wei Xu
+
+Language Models (LMs) have been shown to exhibit a strong preference towards
+entities associated with Western culture when operating in non-Western
+languages. In this paper, we aim to uncover the origins of entity-related
+cultural biases in LMs by analyzing several contributing factors, including the
+representation of entities in pre-training data and the impact of variations in
+linguistic phenomena across languages. We introduce CAMeL-2, a parallel
+Arabic-English benchmark of 58,086 entities associated with Arab and Western
+cultures and 367 masked natural contexts for entities. Our evaluations using
+CAMeL-2 reveal reduced performance gaps between cultures by LMs when tested in
+English compared to Arabic. We find that LMs struggle in Arabic with entities
+that appear at high frequencies in pre-training, where entities can hold
+multiple word senses. This also extends to entities that exhibit high lexical
+overlap with languages that are not Arabic but use the Arabic script. Further,
+we show how frequency-based tokenization leads to this issue in LMs, which gets
+worse with larger Arabic vocabularies. We will make CAMeL-2 available at:
+https://github.com/tareknaous/camel2
+
+摘要：語言模型 (LM) 在使用非西方語言時，已被證明對與西方文化相關的實體表現出強烈的偏好。在本文中，我們旨在透過分析幾個促成因素來揭露語言模型中與實體相關的文化偏見的根源，包括實體在預訓練資料中的表示，以及語言中語言現象變化的影響。我們引入了 CAMeL-2，一個包含 58,086 個與阿拉伯和西方文化相關的實體，以及 367 個用於實體的遮蔽自然語境的平行阿拉伯語-英語基準。我們使用 CAMeL-2 進行的評估顯示，與在阿拉伯語中測試相比，語言模型在英語中測試時，不同文化之間的效能差距縮小。我們發現語言模型在阿拉伯語中處理在預訓練中出現頻率高的實體時會遇到困難，因為實體可能有多個詞彙意義。這也延伸到與非阿拉伯語但使用阿拉伯文字的語言具有高度詞彙重疊的實體。此外，我們展示了基於頻率的詞彙化如何導致語言模型中出現此問題，而隨著阿拉伯語詞彙量的增加，情況會變得更糟。我們將在以下位置提供 CAMeL-2：https://github.com/tareknaous/camel2
+
+##### **Assessing Language Comprehension in Large Language Models Using Construction Grammar**
+2501.04661v1 by Wesley Scivetti, Melissa Torgbi, Austin Blodgett, Mollie Shichman, Taylor Hudson, Claire Bonial, Harish Tayyar Madabushi
+
+Large Language Models, despite their significant capabilities, are known to
+fail in surprising and unpredictable ways. Evaluating their true
+`understanding' of language is particularly challenging due to the extensive
+web-scale data they are trained on. Therefore, we construct an evaluation to
+systematically assess natural language understanding (NLU) in LLMs by
+leveraging Construction Grammar (CxG), which provides insights into the meaning
+captured by linguistic elements known as constructions (Cxns). CxG is
+well-suited for this purpose because provides a theoretical basis to construct
+targeted evaluation sets. These datasets are carefully constructed to include
+examples which are unlikely to appear in pre-training data, yet intuitive and
+easy for humans to understand, enabling a more targeted and reliable
+assessment. Our experiments focus on downstream natural language inference and
+reasoning tasks by comparing LLMs' understanding of the underlying meanings
+communicated through 8 unique Cxns with that of humans. The results show that
+while LLMs demonstrate some knowledge of constructional information, even the
+latest models including GPT-o1 struggle with abstract meanings conveyed by
+these Cxns, as demonstrated in cases where test sentences are dissimilar to
+their pre-training data. We argue that such cases provide a more accurate test
+of true language understanding, highlighting key limitations in LLMs' semantic
+capabilities. We make our novel dataset and associated experimental data
+including prompts and model responses publicly available.
+
+摘要：儘管大型語言模型具有顯著的能力，但它們以令人驚訝且無法預測的方式失敗而聞名。由於它們訓練於廣泛的網路規模資料，因此評估它們對語言的真正「理解」特別具有挑戰性。因此，我們建構了一個評量，以透過利用建構文法（CxG）系統性地評估大型語言模型中的自然語言理解（NLU），它提供了對建構（Cxns）等語言元素所擷取的意義的見解。CxG 非常適合此目的，因為它提供了建構目標評量集的理論基礎。這些資料集經過仔細建構，包含不太可能出現在預訓練資料中的範例，但對人類來說卻直觀且易於理解，從而能夠進行更有針對性和更可靠的評量。我們的實驗重點在於下游自然語言推論和推理任務，透過將大型語言模型對透過 8 個獨特的 Cxns 傳達的底層意義的理解與人類的理解進行比較。結果顯示，儘管大型語言模型展示出對建構資訊的某些知識，但即使是包括 GPT-o1 在內的最新模型，在這些 Cxns 傳達的抽象意義上仍有困難，這在測試句子與其預訓練資料不同的情況中得到證明。我們認為，此類案例提供了對真實語言理解更準確的測試，突顯了大型語言模型語義能力中的主要限制。我們公開了我們的新穎資料集和相關實驗資料，包括提示和模型回應。
+
+##### **Multi-task retriever fine-tuning for domain-specific and efficient RAG**
+2501.04652v1 by Patrice Béchard, Orlando Marquez Ayala
+
+Retrieval-Augmented Generation (RAG) has become ubiquitous when deploying
+Large Language Models (LLMs), as it can address typical limitations such as
+generating hallucinated or outdated information. However, when building
+real-world RAG applications, practical issues arise. First, the retrieved
+information is generally domain-specific. Since it is computationally expensive
+to fine-tune LLMs, it is more feasible to fine-tune the retriever to improve
+the quality of the data included in the LLM input. Second, as more applications
+are deployed in the same real-world system, one cannot afford to deploy
+separate retrievers. Moreover, these RAG applications normally retrieve
+different kinds of data. Our solution is to instruction fine-tune a small
+retriever encoder on a variety of domain-specific tasks to allow us to deploy
+one encoder that can serve many use cases, thereby achieving low-cost,
+scalability, and speed. We show how this encoder generalizes to out-of-domain
+settings as well as to an unseen retrieval task on real-world enterprise use
+cases.
+
+摘要：檢索增強生成（RAG）在部署大型語言模型（LLM）時已變得無處不在，因為它可以解決典型的限制，例如生成幻覺或過時的資訊。然而，在建構真實世界的 RAG 應用程式時，會出現實際問題。首先，檢索到的資訊通常是特定領域的。由於微調 LLM 在計算上很昂貴，因此微調檢索器以提高 LLM 輸入中資料品質更可行。其次，由於在同一個真實世界系統中部署了更多應用程式，因此無法負擔部署獨立的檢索器。此外，這些 RAG 應用程式通常檢索不同種類的資料。我們的解決方案是在各種特定領域的任務上對小型檢索器編碼器進行指令微調，讓我們能夠部署一個可以服務於許多使用案例的編碼器，從而實現低成本、可擴充性和速度。我們展示了這個編碼器如何推廣到領域外設定，以及在真實世界的企業使用案例中對未見過的檢索任務進行推廣。
+
+##### **FlairGPT: Repurposing LLMs for Interior Designs**
+2501.04648v1 by Gabrielle Littlefair, Niladri Shekhar Dutt, Niloy J. Mitra
+
+Interior design involves the careful selection and arrangement of objects to
+create an aesthetically pleasing, functional, and harmonized space that aligns
+with the client's design brief. This task is particularly challenging, as a
+successful design must not only incorporate all the necessary objects in a
+cohesive style, but also ensure they are arranged in a way that maximizes
+accessibility, while adhering to a variety of affordability and usage
+considerations. Data-driven solutions have been proposed, but these are
+typically room- or domain-specific and lack explainability in their design
+design considerations used in producing the final layout. In this paper, we
+investigate if large language models (LLMs) can be directly utilized for
+interior design. While we find that LLMs are not yet capable of generating
+complete layouts, they can be effectively leveraged in a structured manner,
+inspired by the workflow of interior designers. By systematically probing LLMs,
+we can reliably generate a list of objects along with relevant constraints that
+guide their placement. We translate this information into a design layout
+graph, which is then solved using an off-the-shelf constrained optimization
+setup to generate the final layouts. We benchmark our algorithm in various
+design configurations against existing LLM-based methods and human designs, and
+evaluate the results using a variety of quantitative and qualitative metrics
+along with user studies. In summary, we demonstrate that LLMs, when used in a
+structured manner, can effectively generate diverse high-quality layouts,
+making them a viable solution for creating large-scale virtual scenes. Project
+webpage at https://flairgpt.github.io/
+
+摘要：室內設計涉及仔細挑選和安排物件，以創造一個美觀、實用且和諧的空間，符合客戶的設計簡報。這項任務特別具有挑戰性，因為成功的設計不僅必須以一致的風格納入所有必要的物件，還必須確保它們的排列方式能最大化可及性，同時符合各種負擔能力和使用考量。已經提出了資料驅動的解決方案，但這些解決方案通常是特定於房間或領域，而且缺乏在產生最終佈局時所使用的設計考量的可解釋性。在本文中，我們探討大型語言模型 (LLM) 是否可以直接用於室內設計。雖然我們發現 LLM 尚未能夠產生完整的佈局，但它們可以有效地以結構化的方式利用，靈感來自室內設計師的工作流程。透過系統性地探查 LLM，我們可以可靠地產生一個物件清單，以及指導它們放置位置的相关約束。我們將這些資訊轉換成設計佈局圖，然後使用現成的約束式最佳化設定來解決，以產生最終佈局。我們在各種設計配置中將我們的演算法與現有的基於 LLM 的方法和人類設計進行基準測試，並使用各種量化和質化指標以及使用者研究來評估結果。總之，我們證明了 LLM 在以結構化的方式使用時，可以有效地產生多樣化的高品質佈局，使其成為創造大型虛擬場景的可行解決方案。專案網頁在 https://flairgpt.github.io/
+
+##### **Knowledge Retrieval Based on Generative AI**
+2501.04635v1 by Te-Lun Yang, Jyi-Shane Liu, Yuen-Hsien Tseng, Jyh-Shing Roger Jang
+
+This study develops a question-answering system based on Retrieval-Augmented
+Generation (RAG) using Chinese Wikipedia and Lawbank as retrieval sources.
+Using TTQA and TMMLU+ as evaluation datasets, the system employs BGE-M3 for
+dense vector retrieval to obtain highly relevant search results and
+BGE-reranker to reorder these results based on query relevance. The most
+pertinent retrieval outcomes serve as reference knowledge for a Large Language
+Model (LLM), enhancing its ability to answer questions and establishing a
+knowledge retrieval system grounded in generative AI.
+  The system's effectiveness is assessed through a two-stage evaluation:
+automatic and assisted performance evaluations. The automatic evaluation
+calculates accuracy by comparing the model's auto-generated labels with ground
+truth answers, measuring performance under standardized conditions without
+human intervention. The assisted performance evaluation involves 20
+finance-related multiple-choice questions answered by 20 participants without
+financial backgrounds. Initially, participants answer independently. Later,
+they receive system-generated reference information to assist in answering,
+examining whether the system improves accuracy when assistance is provided.
+  The main contributions of this research are: (1) Enhanced LLM Capability: By
+integrating BGE-M3 and BGE-reranker, the system retrieves and reorders highly
+relevant results, reduces hallucinations, and dynamically accesses authorized
+or public knowledge sources. (2) Improved Data Privacy: A customized RAG
+architecture enables local operation of the LLM, eliminating the need to send
+private data to external servers. This approach enhances data security, reduces
+reliance on commercial services, lowers operational costs, and mitigates
+privacy risks.
+
+摘要：<paragraph>本研究開發了一個問答系統，該系統基於檢索增強生成 (RAG)，使用中文維基百科和 Lawbank 作為檢索來源。系統使用 TTQA 和 TMMLU+ 作為評估資料集，採用 BGE-M3 進行稠密向量檢索，以取得高度相關的搜尋結果，並使用 BGE-reranker 根據查詢相關性對這些結果重新排序。最相關的檢索結果作為大型語言模型 (LLM) 的參考知識，增強其回答問題的能力，並建立一個基於生成式 AI 的知識檢索系統。系統的有效性通過兩階段評估來評估：自動和輔助性能評估。自動評估通過將模型自動生成的標籤與真實答案進行比較來計算準確性，在沒有人工干預的情況下測量標準化條件下的性能。輔助性能評估包括 20 個與金融相關的多選題，由 20 個沒有金融背景的參與者回答。最初，參與者獨立回答。稍後，他們會收到系統生成的參考資訊以協助回答，檢查在提供協助時系統是否能提高準確性。本研究的主要貢獻有：(1) 增強的 LLM 能力：通過整合 BGE-M3 和 BGE-reranker，系統檢索和重新排序高度相關的結果，減少幻覺，並動態訪問授權或公開的知識來源。(2) 改善資料隱私：自訂的 RAG 架構允許 LLM 本地運作，無需將私人資料傳送至外部伺服器。這種方法增強了資料安全性，減少了對商業服務的依賴，降低了運營成本，並減輕了隱私風險。</paragraph>
 

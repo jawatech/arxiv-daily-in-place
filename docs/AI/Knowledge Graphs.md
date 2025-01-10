@@ -95,7 +95,7 @@
 |**2024-12-12**|**MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media**|Muhammad Arslan Manzoor et.al.|[2412.10467v1](http://arxiv.org/abs/2412.10467v1)|[link](https://github.com/marslanm/mgm_code)|
 |**2024-12-12**|**Uncommon Belief in Rationality**|Qi Shi et.al.|[2412.09407v1](http://arxiv.org/abs/2412.09407v1)|null|
 |**2024-12-12**|**Foundation Models and Adaptive Feature Selection: A Synergistic Approach to Video Question Answering**|Sai Bhargav Rongali et.al.|[2412.09230v1](http://arxiv.org/abs/2412.09230v1)|null|
-|**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094v1](http://arxiv.org/abs/2412.09094v1)|[link](https://github.com/lb0828/ftg)|
+|**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094v2](http://arxiv.org/abs/2412.09094v2)|[link](https://github.com/lb0828/ftg)|
 |**2024-12-12**|**Neural Interactive Proofs**|Lewis Hammond et.al.|[2412.08897v1](http://arxiv.org/abs/2412.08897v1)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864v1](http://arxiv.org/abs/2412.08864v1)|null|
 |**2024-12-11**|**In-Context Learning with Topological Information for Knowledge Graph Completion**|Udari Madhushani Sehwag et.al.|[2412.08742v1](http://arxiv.org/abs/2412.08742v1)|null|
@@ -2386,7 +2386,7 @@ and open-ended answers.
 摘要：本文探討了影片問答 (VideoQA) 的複雜挑戰。儘管取得顯著進展，但目前的技術仍無法有效結合問題、影片畫面和語義物件層級抽象，以建立問題感知的影片表徵。我們引進了局部-全域問題感知影片嵌入 (LGQAVE)，它包含三項重大創新，以更好地整合多模式知識，並強調與特定問題相關的語義視覺概念。LGQAVE 超越了傳統的臨時畫面取樣，利用跨注意力機制精確找出與問題最相關的畫面。它使用不同的圖形捕捉這些畫面中物件的動態，並透過 miniGPT 模型將它們奠基於問題語義中。這些圖形由問題感知動態圖形轉換器 (Q-DGT) 處理，它會改善輸出，以開發細緻的全局和局部影片表徵。額外的跨注意力模組整合這些局部和全局嵌入，以產生最終的影片嵌入，語言模型使用這些嵌入來產生答案。跨多個基準的廣泛評估證明，LGQAVE 在提供準確的多選和開放式答案方面，明顯優於現有模型。
 
 ##### **Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**
-2412.09094v1 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng
+2412.09094v2 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng
 
 Large Language Models (LLMs) present massive inherent knowledge and superior
 semantic comprehension capability, which have revolutionized various tasks in
@@ -2408,8 +2408,7 @@ substantial performance gain compared to existing state-of-the-art methods. The
 instruction dataset and code are available at
 \url{https://github.com/LB0828/FtG}.
 
-摘要：大型語言模型 (LLM) 具有龐大的內部知識和卓越的語義理解能力，這徹底改變了自然語言處理中的各種任務。儘管它們成功，但在使 LLM 能執行知識圖譜完成 (KGC) 方面仍存在一個關鍵差距。經驗證據表明，即使透過精密的提示設計或量身打造的指令調整，LLM 的表現也始終不如傳統的 KGC 方法。從根本上來說，在 KGC 上應用 LLM 會帶來幾個關鍵挑戰，包括大量的實體候選、LLM 的幻覺問題以及圖形結構的利用不足。為了應對這些挑戰，我們提出了一種新的基於指令調整的方法，即 FtG。具體來說，我們提出了「先過濾再生成」的範例，並將 KGC 任務制定為多選題格式。這樣，我們就能利用 LLM 的能力，同時減輕幻覺所造成的問題。此外，我們設計了一個靈活的自圖序列化提示，並採用結構文本適配器，以情境化的方式結合結構和文本資訊。實驗結果表明，與現有的最先進方法相比，FtG 獲得了顯著的效能提升。指令資料集和程式碼可在
-\url{https://github.com/LB0828/FtG} 取得。
+摘要：大型語言模型 (LLMs) 具有巨大的固有知識和卓越的語義理解能力，這徹底改變了自然語言處理中的各種任務。儘管它們取得了成功，但在使 LLM 能執行知識圖譜完成 (KGC) 方面仍存在一個關鍵差距。經驗證據表明，即使透過複雜的提示設計或量身定制的指令微調，LLM 的表現也始終不如傳統的 KGC 方法。從根本上來說，在 KGC 上應用 LLM 會帶來幾個關鍵挑戰，包括大量的實體候選者、LLM 的幻覺問題以及對圖形結構的利用不足。為了應對這些挑戰，我們提出了一種新的基於指令微調的方法，即 FtG。具體來說，我們提出了一個「先過濾再生成」的範例，並將 KGC 任務制定成多選題格式。這樣，我們可以利用 LLM 的能力，同時減輕幻覺所造成的問題。此外，我們設計了一個靈活的自圖序列化提示，並採用結構文本適配器以情境化的方式將結構和文本資訊結合起來。實驗結果表明，與現有的最先進方法相比，FtG 獲得了顯著的性能提升。指令資料集和程式碼可在以下網址取得：\url{https://github.com/LB0828/FtG}。
 
 ##### **Neural Interactive Proofs**
 2412.08897v1 by Lewis Hammond, Sam Adam-Day

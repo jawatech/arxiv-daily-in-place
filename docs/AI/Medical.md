@@ -2,7 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
 |**2025-01-08**|**Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images**|Ren Tasai et.al.|[2501.04217v1](http://arxiv.org/abs/2501.04217v1)|null|
 |**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|null|
@@ -105,7 +105,7 @@
 
 #### Abstracts
 ##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
-2501.04614v1 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
+2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
 
 Artificial Intelligence is revolutionizing medical practice, enhancing
 diagnostic accuracy and healthcare delivery. However, its adaptation in medical
@@ -115,7 +115,7 @@ mitigate these issues, addressing data scarcity while preserving privacy.
 Recently, Latent Diffusion Models have emerged as a powerful tool for
 generating high-quality synthetic data. Meanwhile, the integration of different
 modalities has gained interest, emphasizing the need of models capable of
-handle multimodal medical data.Existing approaches struggle to integrate
+handle multimodal medical data. Existing approaches struggle to integrate
 complementary information and lack the ability to generate modalities
 simultaneously. To address this challenge, we present MedCoDi-M, a
 6.77-billion-parameter model, designed for multimodal medical data generation,
@@ -134,7 +134,7 @@ scarcity and imbalance learning. The results are promising, demonstrating the
 applicability of MedCoDi-M in medical contexts. Project page is at
 https://cosbidev.github.io/MedCoDi-M/.
 
-摘要：人工智慧正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，其在醫療環境中的應用仍面臨重大挑戰，與資料可用性和隱私限制有關。合成資料已成為解決這些問題的潛在解決方案，在保護隱私的同時解決資料稀少問題。最近，潛在擴散模型已成為生成高品質合成資料的強大工具。同時，不同模態的整合引起了興趣，強調了能夠處理多模態醫療資料的模型的必要性。現有方法難以整合補充資訊，且缺乏同時生成模態的能力。為了應對這項挑戰，我們提出了 MedCoDi-M，一個 67.7 億參數的模型，專門用於多模態醫療資料生成，遵循基礎模型範例，利用對比學習和大量資料來建立一個共享的潛在空間，捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，這顯著提升了 MedCoDi-M 在不同設定下的生成。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上針對五個競爭對手進行基準測試，這是一個胸部 X 光和放射報告生成的最新資料集。其次，我們與放射科專家進行視覺圖靈測試，以評估生成資料的真實性和臨床相關性，確保與實際場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料稀少和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療背景中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
+摘要：人工智能正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，它在醫療場景中的應用仍面臨著重大挑戰，這與資料可用性和隱私限制有關。合成資料已成為緩解這些問題的潛在解決方案，它在保護隱私的同時解決了資料短缺的問題。最近，潛在擴散模型已成為產生高品質合成資料的強大工具。同時，整合不同模態已引起興趣，強調了需要能夠處理多模態醫療資料的模型。現有方法難以整合補充資訊，並且缺乏同時產生模態的能力。為了應對這一挑戰，我們提出了 MedCoDi-M，這是一個 67.7 億參數的模型，專為多模態醫療資料產生而設計，它遵循基礎模型範例，利用對比學習和大量的資料來建立一個共享潛在空間，以捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，它顯著提升了 MedCoDi-M 在不同設定下的產生。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上對它與五個競爭者進行了基準測試，這是胸部 X 光和放射報告產生領域的最新資料集。其次，我們與放射科專家進行了視覺圖靈測試，以評估產生資料的真實性和臨床相關性，確保與真實場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料短缺和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療環境中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
 
 ##### **A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**
 2501.04577v1 by Zephan M. Enciso, Boyang Cheng, Likai Pei, Jianbo Liu, Steven Davis, Ningyuan Cao, Michael Niemier

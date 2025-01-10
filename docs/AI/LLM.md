@@ -7,7 +7,7 @@
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694v1](http://arxiv.org/abs/2501.04694v1)|null|
 |**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693v1](http://arxiv.org/abs/2501.04693v1)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675v1](http://arxiv.org/abs/2501.04675v1)|null|
 |**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
 |**2025-01-08**|**On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**|Tarek Naous et.al.|[2501.04662v1](http://arxiv.org/abs/2501.04662v1)|null|
@@ -15,7 +15,7 @@
 |**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
 |**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
 |**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591v1](http://arxiv.org/abs/2501.04591v1)|null|
 |**2025-01-08**|**Federated-Continual Dynamic Segmentation of Histopathology guided by Barlow Continuity**|Niklas Babendererde et.al.|[2501.04588v1](http://arxiv.org/abs/2501.04588v1)|null|
 |**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575v1](http://arxiv.org/abs/2501.04575v1)|[link](https://github.com/reallm-labs/infiguiagent)|
@@ -84,8 +84,8 @@
 |**2025-01-07**|**Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**|Xaver Maria Krückl et.al.|[2501.03863v1](http://arxiv.org/abs/2501.03863v1)|[link](https://github.com/mainlp/auxtasks-bavarian-sid)|
 |**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857v1](http://arxiv.org/abs/2501.03857v1)|null|
 |**2025-01-07**|**BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context**|Alexis Matzopoulos et.al.|[2501.03855v1](http://arxiv.org/abs/2501.03855v1)|null|
-|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v1](http://arxiv.org/abs/2501.03847v1)|[link](https://github.com/igl-hkust/diffusionasshader)|
-|**2025-01-07**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070v1](http://arxiv.org/abs/2501.04070v1)|null|
+|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v2](http://arxiv.org/abs/2501.03847v2)|[link](https://github.com/igl-hkust/diffusionasshader)|
+|**2025-01-07**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070v2](http://arxiv.org/abs/2501.04070v2)|[link](https://github.com/xiaoqzhwhu/dr-icl)|
 |**2025-01-07**|**BERTopic for Topic Modeling of Hindi Short Texts: A Comparative Study**|Atharva Mutsaddi et.al.|[2501.03843v1](http://arxiv.org/abs/2501.03843v1)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
 |**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832v1](http://arxiv.org/abs/2501.03832v1)|null|
@@ -237,7 +237,7 @@ data and code will be open-sourced.
 
 摘要：<paragraph>鏈條思考（CoT）推理已廣泛應用於大型語言模型（LLM）的數學推理中。最近，在 CoT 軌跡中引入導數過程監督，引發了關於在測試期間增強規模化能力的討論，從而提升了這些模型的潛力。然而，在多模態數學推理中，高品質 CoT 訓練資料的稀缺性阻礙了現有模型實現高精度的 CoT 推理，並限制了在測試期間實現推理潛力的可能性。在這項工作中，我們提出了一種三模組合成策略，它整合了 CoT 蒸餾、軌跡格式重寫和格式統一。它產生了一個高品質的 CoT 推理指令微調資料集，用於多模態數學，MMathCoT-1M。我們全面驗證了訓練後的 URSA-7B 模型在多個多模態數學基準上的最新技術（SOTA）效能。對於測試時間縮放，我們引入了一種資料合成策略，它自動產生過程註解資料集，稱為 DualMath-1.1M，重點關注解釋和邏輯。通過進一步訓練 URSA-7B 在 DualMath-1.1M 上，我們從 CoT 推理能力過渡到強大的監督能力。訓練後的 URSA-RM-7B 作為驗證器，有效地增強了 URSA-7B 在測試時間的效能。URSA-RM-7B 還展示了出色的分布外（OOD）驗證能力，展示了它的泛化性。模型權重、訓練資料和程式碼將會開源。</paragraph>
 
-##### **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**
+##### **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**
 2501.04682v1 by Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn
 
 We propose a novel framework, Meta Chain-of-Thought (Meta-CoT), which extends
@@ -431,7 +431,7 @@ privacy risks.
 摘要：<paragraph>本研究開發了一個問答系統，該系統基於檢索增強生成 (RAG)，使用中文維基百科和 Lawbank 作為檢索來源。系統使用 TTQA 和 TMMLU+ 作為評估資料集，採用 BGE-M3 進行稠密向量檢索，以取得高度相關的搜尋結果，並使用 BGE-reranker 根據查詢相關性對這些結果重新排序。最相關的檢索結果作為大型語言模型 (LLM) 的參考知識，增強其回答問題的能力，並建立一個基於生成式 AI 的知識檢索系統。系統的有效性通過兩階段評估來評估：自動和輔助性能評估。自動評估通過將模型自動生成的標籤與真實答案進行比較來計算準確性，在沒有人工干預的情況下測量標準化條件下的性能。輔助性能評估包括 20 個與金融相關的多選題，由 20 個沒有金融背景的參與者回答。最初，參與者獨立回答。稍後，他們會收到系統生成的參考資訊以協助回答，檢查在提供協助時系統是否能提高準確性。本研究的主要貢獻有：(1) 增強的 LLM 能力：通過整合 BGE-M3 和 BGE-reranker，系統檢索和重新排序高度相關的結果，減少幻覺，並動態訪問授權或公開的知識來源。(2) 改善資料隱私：自訂的 RAG 架構允許 LLM 本地運作，無需將私人資料傳送至外部伺服器。這種方法增強了資料安全性，減少了對商業服務的依賴，降低了運營成本，並減輕了隱私風險。</paragraph>
 
 ##### **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**
-2501.04614v1 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
+2501.04614v2 by Daniele Molino, Francesco Di Feola, Eliodoro Faiella, Deborah Fazzini, Domiziana Santucci, Linlin Shen, Valerio Guarrasi, Paolo Soda
 
 Artificial Intelligence is revolutionizing medical practice, enhancing
 diagnostic accuracy and healthcare delivery. However, its adaptation in medical
@@ -441,7 +441,7 @@ mitigate these issues, addressing data scarcity while preserving privacy.
 Recently, Latent Diffusion Models have emerged as a powerful tool for
 generating high-quality synthetic data. Meanwhile, the integration of different
 modalities has gained interest, emphasizing the need of models capable of
-handle multimodal medical data.Existing approaches struggle to integrate
+handle multimodal medical data. Existing approaches struggle to integrate
 complementary information and lack the ability to generate modalities
 simultaneously. To address this challenge, we present MedCoDi-M, a
 6.77-billion-parameter model, designed for multimodal medical data generation,
@@ -460,7 +460,7 @@ scarcity and imbalance learning. The results are promising, demonstrating the
 applicability of MedCoDi-M in medical contexts. Project page is at
 https://cosbidev.github.io/MedCoDi-M/.
 
-摘要：人工智慧正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，其在醫療環境中的應用仍面臨重大挑戰，與資料可用性和隱私限制有關。合成資料已成為解決這些問題的潛在解決方案，在保護隱私的同時解決資料稀少問題。最近，潛在擴散模型已成為生成高品質合成資料的強大工具。同時，不同模態的整合引起了興趣，強調了能夠處理多模態醫療資料的模型的必要性。現有方法難以整合補充資訊，且缺乏同時生成模態的能力。為了應對這項挑戰，我們提出了 MedCoDi-M，一個 67.7 億參數的模型，專門用於多模態醫療資料生成，遵循基礎模型範例，利用對比學習和大量資料來建立一個共享的潛在空間，捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，這顯著提升了 MedCoDi-M 在不同設定下的生成。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上針對五個競爭對手進行基準測試，這是一個胸部 X 光和放射報告生成的最新資料集。其次，我們與放射科專家進行視覺圖靈測試，以評估生成資料的真實性和臨床相關性，確保與實際場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料稀少和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療背景中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
+摘要：人工智能正在革新醫療實務，提升診斷準確度和醫療保健服務。然而，它在醫療場景中的應用仍面臨著重大挑戰，這與資料可用性和隱私限制有關。合成資料已成為緩解這些問題的潛在解決方案，它在保護隱私的同時解決了資料短缺的問題。最近，潛在擴散模型已成為產生高品質合成資料的強大工具。同時，整合不同模態已引起興趣，強調了需要能夠處理多模態醫療資料的模型。現有方法難以整合補充資訊，並且缺乏同時產生模態的能力。為了應對這一挑戰，我們提出了 MedCoDi-M，這是一個 67.7 億參數的模型，專為多模態醫療資料產生而設計，它遵循基礎模型範例，利用對比學習和大量的資料來建立一個共享潛在空間，以捕捉不同資料模態之間的關係。此外，我們引入了多提示訓練技術，它顯著提升了 MedCoDi-M 在不同設定下的產生。我們廣泛驗證了 MedCoDi-M：首先，我們在 MIMIC-CXR 資料集上對它與五個競爭者進行了基準測試，這是胸部 X 光和放射報告產生領域的最新資料集。其次，我們與放射科專家進行了視覺圖靈測試，以評估產生資料的真實性和臨床相關性，確保與真實場景保持一致。最後，我們評估了 MedCoDi-M 在解決醫療領域關鍵挑戰中的效用，例如匿名化、資料短缺和不平衡學習。結果令人滿意，證明了 MedCoDi-M 在醫療環境中的適用性。專案頁面位於 https://cosbidev.github.io/MedCoDi-M/。
 
 ##### **Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**
 2501.04591v1 by Ivan Kankeu, Stefan Gerd Fritsch, Gunnar Schönhoff, Elie Mounzer, Paul Lukowicz, Maximilian Kiefer-Emmanouilidis
@@ -2095,7 +2095,7 @@ data. Finally, we visually analyse how BabyLM architectures encode isiXhosa.
 摘要：BabyLM 挑戰要求參與者開發出樣本效率語言模型。提交的模型在固定的英語語料庫上進行預訓練，並限制在兒童在發展過程中接觸到的詞彙量（<100m）。該挑戰產生了用於資料效率語言建模的新架構，其效能優於在數兆個詞彙上訓練的模型。這對於低資源語言來說很有希望，因為可用的語料庫限制在遠少於 100m 個詞彙。在本文中，我們探討了 BabyLM 在低資源語言中的潛力，並以 isiXhosa 語言作為案例研究。我們在 isiXhosa 語料庫上預訓練了兩個 BabyLM 架構，ELC-BERT 和 MLSM。它們在詞性標記和 NER 上的表現優於香草預訓練模型，後者獲得了顯著的增益（+3.2 F1）。在某些情況下，BabyLM 甚至優於 XLM-R。我們的研究結果表明，資料效率模型對於低資源語言是可行的，但強調了高品質預訓練資料的持續重要性和缺乏。最後，我們視覺化分析了 BabyLM 架構如何編碼 isiXhosa。
 
 ##### **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**
-2501.03847v1 by Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu
+2501.03847v2 by Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu
 
 Diffusion models have demonstrated impressive performance in generating
 high-quality videos from text prompts or images. However, precise control over
@@ -2117,19 +2117,19 @@ GPUs using less than 10k videos, DaS demonstrates strong control capabilities
 across diverse tasks, including mesh-to-video generation, camera control,
 motion transfer, and object manipulation.
 
-摘要：擴散模型已展現出令人印象深刻的效能，能從文字提示或影像產生高品質的影片。然而，對於影片產生流程的精準控制，例如相機操作或內容編輯，仍然是一項重大的挑戰。現有的受控影片產生方法通常僅限於單一控制類型，缺乏處理多樣控制需求的彈性。在本文中，我們介紹了擴散作為著色器 (DaS)，這是一種新穎的方法，可在統一的架構中支援多項影片控制任務。我們的關鍵見解是，要實現多功能影片控制，必須利用 3D 控制訊號，因為影片基本上是動態 3D 內容的 2D 渲染。與僅限於 2D 控制訊號的先前方法不同，DaS 利用 3D 追蹤影片作為控制輸入，使影片擴散過程本質上具備 3D 感知能力。此創新讓 DaS 能透過簡單地操作 3D 追蹤影片來達成廣泛的影片控制。使用 3D 追蹤影片的另一個優點是它們能有效地連結影格，大幅提升產生影片的時間一致性。DaS 僅在 8 個 H800 GPU 上進行 3 天的微調，使用不到 10k 個影片，便展現出在各種任務中的強大控制能力，包括網格轉影片產生、相機控制、動作轉移和物件操作。
+摘要：擴散模型已證明在根據文字提示或圖像產生高品質影片方面具有令人印象深刻的效能。然而，對影片產生過程的精確控制，例如相機操作或內容編輯，仍然是一項重大的挑戰。現有的受控影片產生方法通常僅限於單一控制類型，缺乏處理不同控制需求的靈活性。在本文中，我們介紹了擴散為著色器 (DaS)，這是一種新穎的方法，可在統一架構中支援多項影片控制任務。我們的關鍵見解是，要實現多功能影片控制，必須利用 3D 控制訊號，因為影片基本上是動態 3D 內容的 2D 渲染。與僅限於 2D 控制訊號的先前方法不同，DaS 利用 3D 追蹤影片作為控制輸入，使影片擴散過程本質上具備 3D 感知能力。此創新讓 DaS 能夠透過簡單地操作 3D 追蹤影片來實現廣泛的影片控制。使用 3D 追蹤影片的另一個優點是它們有效連結畫面的能力，大幅提升產生影片的時間一致性。DaS 只使用不到 10k 個影片，在 8 個 H800 GPU 上進行 3 天微調，就能在各種任務中展現強大的控制能力，包括網格到影片產生、相機控制、動作轉移和物件操作。
 
 ##### **More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**
-2501.04070v1 by Xiaoqing Zhang, Ang Lv, Yuhan Liu, Flood Sung, Wei Liu, Shuo Shang, Xiuying Chen, Rui Yan
+2501.04070v2 by Xiaoqing Zhang, Ang Lv, Yuhan Liu, Flood Sung, Wei Liu, Shuo Shang, Xiuying Chen, Rui Yan
 
 Large language models (LLMs) excel at few-shot in-context learning (ICL)
 without requiring parameter updates. However, as the number of ICL
 demonstrations increases from a few to many, performance tends to plateau and
 eventually decline. We identify two primary causes for this trend: the
 suboptimal negative log-likelihood (NLL) optimization objective and the
-incremental data noise. To address these issues, we introduce DR-ICL, a novel
+incremental data noise. To address these issues, we introduce DrICL, a novel
 optimization method that enhances model performance through Differentiated
-Learning and advantage-based Reweighting objectives. Globally, DR-ICL utilizes
+Learning and advantage-based Reweighting objectives. Globally, DrICL utilizes
 differentiated learning to optimize the NLL objective, ensuring that many-shot
 performance surpasses zero-shot levels. Locally, it dynamically adjusts the
 weighting of many-shot demonstrations by leveraging cumulative advantages
@@ -2137,16 +2137,16 @@ inspired by reinforcement learning, thereby improving generalization. This
 approach allows the model to handle varying numbers of shots effectively,
 mitigating the impact of noisy data. Recognizing the lack of multi-task
 datasets with diverse many-shot distributions, we develop the Many-Shot ICL
-Benchmark (MICLB)-a large-scale benchmark covering shot numbers from 1 to 350
-within sequences of up to 8,000 tokens-for fine-tuning purposes. MICLB
-facilitates the evaluation of many-shot ICL strategies across seven prominent
-NLP tasks and 50 distinct datasets. Experimental results demonstrate that LLMs
-enhanced with DR-ICL achieve significant improvements in many-shot setups
-across various tasks, including both in-domain and out-of-domain scenarios. We
-release the code and benchmark dataset hoping to facilitate further research in
-many-shot ICL.
+Benchmark (ICL-50)-a large-scale benchmark of 50 tasks that cover shot numbers
+from 1 to 350 within sequences of up to 8,000 tokens-for fine-tuning purposes.
+ICL-50 facilitates the evaluation of many-shot ICL strategies across seven
+prominent NLP tasks and 50 distinct datasets. Experimental results demonstrate
+that LLMs enhanced with DrICL achieve significant improvements in many-shot
+setups across various tasks, including both in-domain and out-of-domain
+scenarios. We release the code and benchmark dataset hoping to facilitate
+further research in many-shot ICL.
 
-摘要：大型語言模型 (LLM) 在不需要參數更新的情況下，擅長於少次數的脈絡學習 (ICL)。然而，隨著 ICL 示範的數量從少數增加到多數，效能往往會達到停滯狀態，甚至最終下降。我們找出此趨勢的兩個主要原因：次佳負對數似然 (NLL) 最佳化目標以及漸增資料雜訊。為了解決這些問題，我們引入了 DR-ICL，這是一種創新的最佳化方法，可透過差異化學習和基於優勢的重新加權目標來增強模型效能。在整體上，DR-ICL 利用差異化學習來最佳化 NLL 目標，確保多樣本效能超越零樣本層級。在局部上，它透過運用強化學習所啟發的累積優勢，動態調整多樣本示範的加權，進而改善概化能力。此方法讓模型能夠有效處理不同數量的樣本，並減輕雜訊資料的影響。鑑於缺乏具有多樣化多樣本分佈的多任務資料集，我們開發了多樣本 ICL 基準 (MICLB)，這是一個大規模基準，涵蓋 1 到 350 個樣本的數目，序列長度達 8,000 個符號，用於微調目的。MICLB 便於評估七項重要的 NLP 任務和 50 個不同資料集的多樣本 ICL 策略。實驗結果顯示，透過 DR-ICL 增強的 LLM 在多樣本設定中獲得顯著的改善，涵蓋各種任務，包括域內和域外場景。我們釋出程式碼和基準資料集，希望能促進多樣本 ICL 的進一步研究。
+摘要：大型語言模型 (LLM) 在僅需少量範例的脈絡學習 (ICL) 中表現出色，而無需更新參數。然而，隨著 ICL 示範的數量從少數增加到多數，效能往往會達到平穩期，並最終下降。我們找出此趨勢的兩個主要原因：次佳負對數似然 (NLL) 最佳化目標和遞增資料雜訊。為了解決這些問題，我們引入了 DrICL，一種透過差異化學習和基於優勢的重新加權目標來增強模型效能的新型最佳化方法。在全球層面上，DrICL 利用差異化學習來最佳化 NLL 目標，確保多範例效能超越零範例等級。在局部層面上，它透過利用受強化學習啟發的累積優勢，動態調整多範例示範的加權，從而改善泛化能力。這種方法讓模型能夠有效處理不同數量的範例，減輕雜訊資料的影響。由於缺乏具有多樣化多範例分佈的多任務資料集，我們開發了多範例 ICL 基準 (ICL-50) - 一個包含 50 項任務的大規模基準，涵蓋從 1 到 350 的範例數量，序列長度最長為 8,000 個符號，用於微調目的。ICL-50 促進了跨越七項顯著的 NLP 任務和 50 個不同資料集的多範例 ICL 策略的評估。實驗結果表明，透過 DrICL 增強的 LLM 在各種任務的多範例設定中獲得顯著改善，包括領域內和領域外場景。我們釋出程式碼和基準資料集，希望能促進多範例 ICL 的進一步研究。
 
 ##### **BERTopic for Topic Modeling of Hindi Short Texts: A Comparative Study**
 2501.03843v1 by Atharva Mutsaddi, Anvi Jamkhande, Aryan Thakre, Yashodhara Haribhakta

@@ -51,7 +51,7 @@
 |**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|null|
 |**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058v1](http://arxiv.org/abs/2501.05058v1)|null|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053v1](http://arxiv.org/abs/2501.05053v1)|null|
-|**2025-01-09**|**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**|Chengxing Xie et.al.|[2501.05040v1](http://arxiv.org/abs/2501.05040v1)|null|
+|**2025-01-09**|**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**|Chengxing Xie et.al.|[2501.05040v1](http://arxiv.org/abs/2501.05040v1)|[link](https://github.com/internlm/swe-fixer)|
 |**2025-01-09**|**Enhancing Human-Like Responses in Large Language Models**|Ethem Yağız Çalık et.al.|[2501.05032v1](http://arxiv.org/abs/2501.05032v1)|null|
 |**2025-01-09**|**A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications**|Ofir Marom et.al.|[2501.05030v1](http://arxiv.org/abs/2501.05030v1)|null|
 |**2025-01-09**|**Finding Needles in Emb(a)dding Haystacks: Legal Document Retrieval via Bagging and SVR Ensembles**|Kevin Bönisch et.al.|[2501.05018v1](http://arxiv.org/abs/2501.05018v1)|[link](https://github.com/TheItCrOw/LIRAI24)|

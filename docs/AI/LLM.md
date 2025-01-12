@@ -50,6 +50,7 @@
 |**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067v1](http://arxiv.org/abs/2501.05067v1)|null|
 |**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|null|
 |**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058v1](http://arxiv.org/abs/2501.05058v1)|null|
+|**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057v1](http://arxiv.org/abs/2501.05057v1)|null|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053v1](http://arxiv.org/abs/2501.05053v1)|null|
 |**2025-01-09**|**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**|Chengxing Xie et.al.|[2501.05040v1](http://arxiv.org/abs/2501.05040v1)|[link](https://github.com/internlm/swe-fixer)|
 |**2025-01-09**|**Enhancing Human-Like Responses in Large Language Models**|Ethem Yağız Çalık et.al.|[2501.05032v1](http://arxiv.org/abs/2501.05032v1)|null|
@@ -66,6 +67,7 @@
 |**2025-01-09**|**VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models**|Wenqian Cui et.al.|[2501.04962v1](http://arxiv.org/abs/2501.04962v1)|null|
 |**2025-01-09**|**Demystifying Domain-adaptive Post-training for Financial LLMs**|Zixuan Ke et.al.|[2501.04961v1](http://arxiv.org/abs/2501.04961v1)|null|
 |**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Open Problems in Machine Unlearning for AI Safety**|Fazl Barez et.al.|[2501.04952v1](http://arxiv.org/abs/2501.04952v1)|null|
 |**2025-01-09**|**Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**|Qingyu Ren et.al.|[2501.04945v1](http://arxiv.org/abs/2501.04945v1)|null|
 |**2025-01-09**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|
 |**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928v1](http://arxiv.org/abs/2501.04928v1)|null|
@@ -100,8 +102,6 @@
 |**2025-01-08**|**On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena**|Tarek Naous et.al.|[2501.04662v1](http://arxiv.org/abs/2501.04662v1)|null|
 |**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661v1](http://arxiv.org/abs/2501.04661v1)|null|
 |**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652v1](http://arxiv.org/abs/2501.04652v1)|null|
-|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
-|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
 
 #### Abstracts
 ##### **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**
@@ -1267,6 +1267,34 @@ statistics in terms of mean and variability.
 
 摘要：建立在以 AI 為基礎的大氣模擬的成功之上，我們提出一個以 AI 為基礎的海洋模擬和降尺度架構，專注於墨西哥灣的高解析度區域海洋。區域海洋模擬由於複雜的水深測量學和邊界條件，以及基於深度學習的架構（例如不穩定性和幻覺）中的基本偏差，因此呈現出獨特的挑戰。在本文中，我們開發了一個基於深度學習的架構，以自迴歸方式整合墨西哥灣的海面變數，空間解析度為 8 公里，在十年時間尺度上沒有非物理漂移，並且同時使用受物理約束的生成模型將其降尺度並校正偏差至 4 公里解析度。該架構在均值和變異性方面顯示了短期技能和準確的長期統計數據。
 
+##### **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**
+2501.05057v1 by Zengqi Peng, Yubin Wang, Xu Han, Lei Zheng, Jun Ma
+
+Recent advancements in reinforcement learning (RL) demonstrate the
+significant potential in autonomous driving. Despite this promise, challenges
+such as the manual design of reward functions and low sample efficiency in
+complex environments continue to impede the development of safe and effective
+driving policies. To tackle these issues, we introduce LearningFlow, an
+innovative automated policy learning workflow tailored to urban driving. This
+framework leverages the collaboration of multiple large language model (LLM)
+agents throughout the RL training process. LearningFlow includes a curriculum
+sequence generation process and a reward generation process, which work in
+tandem to guide the RL policy by generating tailored training curricula and
+reward functions. Particularly, each process is supported by an analysis agent
+that evaluates training progress and provides critical insights to the
+generation agent. Through the collaborative efforts of these LLM agents,
+LearningFlow automates policy learning across a series of complex driving
+tasks, and it significantly reduces the reliance on manual reward function
+design while enhancing sample efficiency. Comprehensive experiments are
+conducted in the high-fidelity CARLA simulator, along with comparisons with
+other existing methods, to demonstrate the efficacy of our proposed approach.
+The results demonstrate that LearningFlow excels in generating rewards and
+curricula. It also achieves superior performance and robust generalization
+across various driving tasks, as well as commendable adaptation to different RL
+algorithms.
+
+摘要：近期在強化學習 (RL) 的進展顯示出自動駕駛的巨大潛力。儘管有此前景，諸如人工設計獎勵函數和在複雜環境中低樣本效率等挑戰，仍持續阻礙安全且有效的駕駛策略的發展。為了應對這些問題，我們引入了 LearningFlow，這是一種創新的自動化策略學習工作流程，專為城市駕駛量身打造。此框架利用多個大型語言模型 (LLM) 代理在整個 RL 訓練過程中進行協作。LearningFlow 包含課程順序產生過程和獎勵產生過程，它們協同工作，透過產生客製化訓練課程和獎勵函數來引導 RL 策略。特別是，每個過程都由一個分析代理支援，該代理會評估訓練進度並向產生代理提供關鍵見解。透過這些 LLM 代理的協作，LearningFlow 自動化了一系列複雜駕駛任務的策略學習，並顯著降低了對人工獎勵函數設計的依賴，同時提高了樣本效率。在高保真 CARLA 模擬器中進行了全面的實驗，並與其他現有方法進行比較，以證明我們提出的方法的有效性。結果表明，LearningFlow 在產生獎勵和課程方面表現出色。它還實現了卓越的效能和在各種駕駛任務中的強大泛化能力，以及對不同 RL 演算法的出色適應性。
+
 ##### **TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**
 2501.05053v1 by Runhua Xu, Bo Li, Chao Li, James B. D. Joshi, Shuai Ma, Jianxin Li
 
@@ -1632,6 +1660,34 @@ diverse clinical settings. The code is made public available at
 \url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}
 
 摘要：<paragraph>醫療影像中的深度學習模型面臨雙重挑戰：領域轉移，模型在與其訓練環境不同的設定中部署時表現不佳，以及類別不平衡，某些疾病狀況在自然界中代表性不足。我們提出不平衡感知域適應 (IADA)，這是一個新穎的框架，透過三個關鍵組成部分同時應對這兩個挑戰：(1) 具有類別特定注意力機制的自適應特徵學習，(2) 具有動態加權的平衡域對齊，以及 (3) 自適應閾值最佳化。我們的理論分析建立了收斂保證和複雜度界限。透過對四種影像模式的胚胎發育評估進行廣泛的實驗，IADA 證明了對現有方法的顯著改進，在維持類別間平衡性能的同時，準確度提高了 25.19%。在低品質影像系統的挑戰性場景中，IADA 以高達 12.56% 的 AUC 改進顯示出強大的泛化能力。這些結果證明了 IADA 在為不同的臨床設定開發可靠且公平的醫療影像系統方面的潛力。程式碼已公開於 \url{https://github.com/yinghemedical/imbalance-aware_domain_adaptation}</paragraph>
+
+##### **Open Problems in Machine Unlearning for AI Safety**
+2501.04952v1 by Fazl Barez, Tingchen Fu, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal
+
+As AI systems become more capable, widely deployed, and increasingly
+autonomous in critical areas such as cybersecurity, biological research, and
+healthcare, ensuring their safety and alignment with human values is paramount.
+Machine unlearning -- the ability to selectively forget or suppress specific
+types of knowledge -- has shown promise for privacy and data removal tasks,
+which has been the primary focus of existing research. More recently, its
+potential application to AI safety has gained attention. In this paper, we
+identify key limitations that prevent unlearning from serving as a
+comprehensive solution for AI safety, particularly in managing dual-use
+knowledge in sensitive domains like cybersecurity and chemical, biological,
+radiological, and nuclear (CBRN) safety. In these contexts, information can be
+both beneficial and harmful, and models may combine seemingly harmless
+information for harmful purposes -- unlearning this information could strongly
+affect beneficial uses. We provide an overview of inherent constraints and open
+problems, including the broader side effects of unlearning dangerous knowledge,
+as well as previously unexplored tensions between unlearning and existing
+safety mechanisms. Finally, we investigate challenges related to evaluation,
+robustness, and the preservation of safety features during unlearning. By
+mapping these limitations and open challenges, we aim to guide future research
+toward realistic applications of unlearning within a broader AI safety
+framework, acknowledging its limitations and highlighting areas where
+alternative approaches may be required.
+
+摘要：隨著人工智慧系統變得更強大、廣泛部署，並在網路安全、生物研究和醫療保健等關鍵領域變得越來越自主，確保其安全性和與人類價值觀的一致性至關重要。機器遺忘——有選擇地遺忘或壓制特定類型知識的能力——已顯示出在隱私和資料移除任務中的前景，這是現有研究的主要焦點。最近，其在人工智慧安全方面的潛在應用受到關注。在本文中，我們找出阻止遺忘作為人工智慧安全綜合解決方案的關鍵限制，特別是在管理網路安全和化學、生物、放射和核（CBRN）安全等敏感領域中的雙重用途知識。在這些情況下，資訊既有益又有害，模型可能會將看似無害的資訊與有害目的結合在一起——遺忘這些資訊可能會嚴重影響有益的用途。我們概述了固有的限制和未解決的問題，包括遺忘危險知識的廣泛副作用，以及遺忘與現有安全機制之間以前未探討的緊張關係。最後，我們探討了與評估、穩健性和在遺忘過程中保留安全功能相關的挑戰。透過繪製這些限制和未解決的挑戰，我們旨在引導未來的研究朝著在更廣泛的人工智慧安全架構內遺忘的實際應用邁進，承認其限制並強調可能需要替代方法的領域。
 
 ##### **Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**
 2501.04945v1 by Qingyu Ren, Jie Zeng, Qianyu He, Jiaqing Liang, Yanghua Xiao, Weikang Zhou, Zeye Sun, Fei Yu
@@ -2435,64 +2491,4 @@ settings as well as to an unseen retrieval task on real-world enterprise use
 cases.
 
 摘要：檢索增強生成（RAG）在部署大型語言模型（LLM）時已變得無處不在，因為它可以解決典型的限制，例如生成幻覺或過時的資訊。然而，在建構真實世界的 RAG 應用程式時，會出現實際問題。首先，檢索到的資訊通常是特定領域的。由於微調 LLM 在計算上很昂貴，因此微調檢索器以提高 LLM 輸入中資料品質更可行。其次，由於在同一個真實世界系統中部署了更多應用程式，因此無法負擔部署獨立的檢索器。此外，這些 RAG 應用程式通常檢索不同種類的資料。我們的解決方案是在各種特定領域的任務上對小型檢索器編碼器進行指令微調，讓我們能夠部署一個可以服務於許多使用案例的編碼器，從而實現低成本、可擴充性和速度。我們展示了這個編碼器如何推廣到領域外設定，以及在真實世界的企業使用案例中對未見過的檢索任務進行推廣。
-
-##### **FlairGPT: Repurposing LLMs for Interior Designs**
-2501.04648v1 by Gabrielle Littlefair, Niladri Shekhar Dutt, Niloy J. Mitra
-
-Interior design involves the careful selection and arrangement of objects to
-create an aesthetically pleasing, functional, and harmonized space that aligns
-with the client's design brief. This task is particularly challenging, as a
-successful design must not only incorporate all the necessary objects in a
-cohesive style, but also ensure they are arranged in a way that maximizes
-accessibility, while adhering to a variety of affordability and usage
-considerations. Data-driven solutions have been proposed, but these are
-typically room- or domain-specific and lack explainability in their design
-design considerations used in producing the final layout. In this paper, we
-investigate if large language models (LLMs) can be directly utilized for
-interior design. While we find that LLMs are not yet capable of generating
-complete layouts, they can be effectively leveraged in a structured manner,
-inspired by the workflow of interior designers. By systematically probing LLMs,
-we can reliably generate a list of objects along with relevant constraints that
-guide their placement. We translate this information into a design layout
-graph, which is then solved using an off-the-shelf constrained optimization
-setup to generate the final layouts. We benchmark our algorithm in various
-design configurations against existing LLM-based methods and human designs, and
-evaluate the results using a variety of quantitative and qualitative metrics
-along with user studies. In summary, we demonstrate that LLMs, when used in a
-structured manner, can effectively generate diverse high-quality layouts,
-making them a viable solution for creating large-scale virtual scenes. Project
-webpage at https://flairgpt.github.io/
-
-摘要：室內設計涉及仔細挑選和安排物件，以創造一個美觀、實用且和諧的空間，符合客戶的設計簡報。這項任務特別具有挑戰性，因為成功的設計不僅必須以一致的風格納入所有必要的物件，還必須確保它們的排列方式能最大化可及性，同時符合各種負擔能力和使用考量。已經提出了資料驅動的解決方案，但這些解決方案通常是特定於房間或領域，而且缺乏在產生最終佈局時所使用的設計考量的可解釋性。在本文中，我們探討大型語言模型 (LLM) 是否可以直接用於室內設計。雖然我們發現 LLM 尚未能夠產生完整的佈局，但它們可以有效地以結構化的方式利用，靈感來自室內設計師的工作流程。透過系統性地探查 LLM，我們可以可靠地產生一個物件清單，以及指導它們放置位置的相关約束。我們將這些資訊轉換成設計佈局圖，然後使用現成的約束式最佳化設定來解決，以產生最終佈局。我們在各種設計配置中將我們的演算法與現有的基於 LLM 的方法和人類設計進行基準測試，並使用各種量化和質化指標以及使用者研究來評估結果。總之，我們證明了 LLM 在以結構化的方式使用時，可以有效地產生多樣化的高品質佈局，使其成為創造大型虛擬場景的可行解決方案。專案網頁在 https://flairgpt.github.io/
-
-##### **Knowledge Retrieval Based on Generative AI**
-2501.04635v1 by Te-Lun Yang, Jyi-Shane Liu, Yuen-Hsien Tseng, Jyh-Shing Roger Jang
-
-This study develops a question-answering system based on Retrieval-Augmented
-Generation (RAG) using Chinese Wikipedia and Lawbank as retrieval sources.
-Using TTQA and TMMLU+ as evaluation datasets, the system employs BGE-M3 for
-dense vector retrieval to obtain highly relevant search results and
-BGE-reranker to reorder these results based on query relevance. The most
-pertinent retrieval outcomes serve as reference knowledge for a Large Language
-Model (LLM), enhancing its ability to answer questions and establishing a
-knowledge retrieval system grounded in generative AI.
-  The system's effectiveness is assessed through a two-stage evaluation:
-automatic and assisted performance evaluations. The automatic evaluation
-calculates accuracy by comparing the model's auto-generated labels with ground
-truth answers, measuring performance under standardized conditions without
-human intervention. The assisted performance evaluation involves 20
-finance-related multiple-choice questions answered by 20 participants without
-financial backgrounds. Initially, participants answer independently. Later,
-they receive system-generated reference information to assist in answering,
-examining whether the system improves accuracy when assistance is provided.
-  The main contributions of this research are: (1) Enhanced LLM Capability: By
-integrating BGE-M3 and BGE-reranker, the system retrieves and reorders highly
-relevant results, reduces hallucinations, and dynamically accesses authorized
-or public knowledge sources. (2) Improved Data Privacy: A customized RAG
-architecture enables local operation of the LLM, eliminating the need to send
-private data to external servers. This approach enhances data security, reduces
-reliance on commercial services, lowers operational costs, and mitigates
-privacy risks.
-
-摘要：<paragraph>本研究開發了一個問答系統，該系統基於檢索增強生成 (RAG)，使用中文維基百科和 Lawbank 作為檢索來源。系統使用 TTQA 和 TMMLU+ 作為評估資料集，採用 BGE-M3 進行稠密向量檢索，以取得高度相關的搜尋結果，並使用 BGE-reranker 根據查詢相關性對這些結果重新排序。最相關的檢索結果作為大型語言模型 (LLM) 的參考知識，增強其回答問題的能力，並建立一個基於生成式 AI 的知識檢索系統。系統的有效性通過兩階段評估來評估：自動和輔助性能評估。自動評估通過將模型自動生成的標籤與真實答案進行比較來計算準確性，在沒有人工干預的情況下測量標準化條件下的性能。輔助性能評估包括 20 個與金融相關的多選題，由 20 個沒有金融背景的參與者回答。最初，參與者獨立回答。稍後，他們會收到系統生成的參考資訊以協助回答，檢查在提供協助時系統是否能提高準確性。本研究的主要貢獻有：(1) 增強的 LLM 能力：通過整合 BGE-M3 和 BGE-reranker，系統檢索和重新排序高度相關的結果，減少幻覺，並動態訪問授權或公開的知識來源。(2) 改善資料隱私：自訂的 RAG 架構允許 LLM 本地運作，無需將私人資料傳送至外部伺服器。這種方法增強了資料安全性，減少了對商業服務的依賴，降低了運營成本，並減輕了隱私風險。</paragraph>
 

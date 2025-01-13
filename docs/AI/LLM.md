@@ -13,12 +13,12 @@
 |**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403v1](http://arxiv.org/abs/2501.05403v1)|null|
 |**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401v1](http://arxiv.org/abs/2501.05401v1)|null|
 |**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
-|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396v1](http://arxiv.org/abs/2501.05396v1)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396v1](http://arxiv.org/abs/2501.05396v1)|[link](https://github.com/yongkdu/faircode)|
 |**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382v1](http://arxiv.org/abs/2501.05382v1)|null|
 |**2025-01-09**|**Developing a Foundation of Vector Symbolic Architectures Using Category Theory**|Nolan P Shaw et.al.|[2501.05368v1](http://arxiv.org/abs/2501.05368v1)|null|
 |**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366v1](http://arxiv.org/abs/2501.05366v1)|[link](https://github.com/sunnynexus/search-o1)|
 |**2025-01-09**|**On Corrigibility and Alignment in Multi Agent Games**|Edmund Dable-Heath et.al.|[2501.05360v1](http://arxiv.org/abs/2501.05360v1)|null|
-|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336v1](http://arxiv.org/abs/2501.05336v1)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336v1](http://arxiv.org/abs/2501.05336v1)|[link](https://github.com/htlou/stream-aligner)|
 |**2025-01-09**|**The Bakers and Millers Game with Restricted Locations**|Simon Krogmann et.al.|[2501.05334v1](http://arxiv.org/abs/2501.05334v1)|null|
 |**2025-01-09**|**AnCoGen: Analysis, Control and Generation of Speech with a Masked Autoencoder**|Samir Sadok et.al.|[2501.05332v1](http://arxiv.org/abs/2501.05332v1)|null|
 |**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260v1](http://arxiv.org/abs/2501.05260v1)|[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)|
@@ -46,9 +46,9 @@
 |**2025-01-09**|**Analyzing Memorization in Large Language Models through the Lens of Model Attribution**|Tarun Ram Menta et.al.|[2501.05078v1](http://arxiv.org/abs/2501.05078v1)|null|
 |**2025-01-09**|**A Text-Based Knowledge-Embedded Soft Sensing Modeling Approach for General Industrial Process Tasks Based on Large Language Model**|Shuo Tong et.al.|[2501.05075v1](http://arxiv.org/abs/2501.05075v1)|null|
 |**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069v1](http://arxiv.org/abs/2501.05069v1)|null|
-|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v1](http://arxiv.org/abs/2501.05068v1)|null|
+|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v1](http://arxiv.org/abs/2501.05068v1)|[link](https://github.com/hanshounsu/d3rm)|
 |**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067v1](http://arxiv.org/abs/2501.05067v1)|null|
-|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|[link](https://github.com/moonlight52137/st-vgcn)|
 |**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058v1](http://arxiv.org/abs/2501.05058v1)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057v1](http://arxiv.org/abs/2501.05057v1)|null|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053v1](http://arxiv.org/abs/2501.05053v1)|null|
@@ -59,16 +59,16 @@
 |**2025-01-09**|**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**|Oleg Sautenkov et.al.|[2501.05014v1](http://arxiv.org/abs/2501.05014v1)|null|
 |**2025-01-09**|**Quantum-enhanced causal discovery for a small number of samples**|Yota Maeda et.al.|[2501.05007v1](http://arxiv.org/abs/2501.05007v1)|null|
 |**2025-01-09**|**GiNet: Integrating Sequential and Context-Aware Learning for Battery Capacity Prediction**|Sara Sameer et.al.|[2501.04997v1](http://arxiv.org/abs/2501.04997v1)|null|
-|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995v1](http://arxiv.org/abs/2501.04995v1)|null|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995v1](http://arxiv.org/abs/2501.04995v1)|[link](https://github.com/80chen86/ipdn)|
 |**2025-01-09**|**TreeKV: Smooth Key-Value Cache Compression with Tree Structures**|Ziwei He et.al.|[2501.04987v1](http://arxiv.org/abs/2501.04987v1)|null|
 |**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982v1](http://arxiv.org/abs/2501.04982v1)|null|
-|**2025-01-09**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v1](http://arxiv.org/abs/2501.04974v1)|null|
-|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970v1](http://arxiv.org/abs/2501.04970v1)|null|
+|**2025-01-09**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974v1](http://arxiv.org/abs/2501.04974v1)|[link](https://github.com/benjamin-reichman/sensorqa)|
+|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970v1](http://arxiv.org/abs/2501.04970v1)|[link](https://github.com/kimanki/tafas)|
 |**2025-01-09**|**VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models**|Wenqian Cui et.al.|[2501.04962v1](http://arxiv.org/abs/2501.04962v1)|null|
 |**2025-01-09**|**Demystifying Domain-adaptive Post-training for Financial LLMs**|Zixuan Ke et.al.|[2501.04961v1](http://arxiv.org/abs/2501.04961v1)|null|
-|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)|
 |**2025-01-09**|**Open Problems in Machine Unlearning for AI Safety**|Fazl Barez et.al.|[2501.04952v1](http://arxiv.org/abs/2501.04952v1)|null|
-|**2025-01-09**|**Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**|Qingyu Ren et.al.|[2501.04945v1](http://arxiv.org/abs/2501.04945v1)|null|
+|**2025-01-09**|**Step-by-Step Mastery: Enhancing Soft Constraint Following Ability of Large Language Models**|Qingyu Ren et.al.|[2501.04945v1](http://arxiv.org/abs/2501.04945v1)|[link](https://github.com/rainier-rq/followsoftconstraints)|
 |**2025-01-09**|**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**|Shiji Zhao et.al.|[2501.04931v1](http://arxiv.org/abs/2501.04931v1)|null|
 |**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928v1](http://arxiv.org/abs/2501.04928v1)|null|
 |**2025-01-09**|**Investigating Numerical Translation with Large Language Models**|Wei Tang et.al.|[2501.04927v1](http://arxiv.org/abs/2501.04927v1)|null|
@@ -77,11 +77,11 @@
 |**2025-01-09**|**SUGAR: Leveraging Contextual Confidence for Smarter Retrieval**|Hanna Zubkova et.al.|[2501.04899v1](http://arxiv.org/abs/2501.04899v1)|null|
 |**2025-01-08**|**Reach Measurement, Optimization and Frequency Capping In Targeted Online Advertising Under k-Anonymity**|Yuan Gao et.al.|[2501.04882v1](http://arxiv.org/abs/2501.04882v1)|null|
 |**2025-01-08**|**Leveraging Log Probabilities in Language Models to Forecast Future Events**|Tommaso Soru et.al.|[2501.04880v1](http://arxiv.org/abs/2501.04880v1)|null|
-|**2025-01-08**|**Real-Time Textless Dialogue Generation**|Long Mai et.al.|[2501.04877v1](http://arxiv.org/abs/2501.04877v1)|null|
+|**2025-01-08**|**Real-Time Textless Dialogue Generation**|Long Mai et.al.|[2501.04877v1](http://arxiv.org/abs/2501.04877v1)|[link](https://github.com/mailong25/rts2s-dg)|
 |**2025-01-08**|**Back Home: A Machine Learning Approach to Seashell Classification and Ecosystem Restoration**|Alexander Valverde et.al.|[2501.04873v1](http://arxiv.org/abs/2501.04873v1)|null|
 |**2025-01-08**|**Advancing Retrieval-Augmented Generation for Persian: Development of Language Models, Comprehensive Benchmarks, and Best Practices for Optimization**|Sara Bourbour Hosseinbeigi et.al.|[2501.04858v1](http://arxiv.org/abs/2501.04858v1)|null|
 |**2025-01-08**|**Exploring Large Language Models for Semantic Analysis and Categorization of Android Malware**|Brandon J Walton et.al.|[2501.04848v1](http://arxiv.org/abs/2501.04848v1)|null|
-|**2025-01-08**|**Enhancing Listened Speech Decoding from EEG via Parallel Phoneme Sequence Prediction**|Jihwan Lee et.al.|[2501.04844v1](http://arxiv.org/abs/2501.04844v1)|null|
+|**2025-01-08**|**Enhancing Listened Speech Decoding from EEG via Parallel Phoneme Sequence Prediction**|Jihwan Lee et.al.|[2501.04844v1](http://arxiv.org/abs/2501.04844v1)|[link](https://github.com/lee-jhwn/icassp25-fesde-phoneme)|
 |**2025-01-08**|**Do Code LLMs Understand Design Patterns?**|Zhenyu Pan et.al.|[2501.04835v1](http://arxiv.org/abs/2501.04835v1)|null|
 |**2025-01-08**|**ActPC-Geom: Towards Scalable Online Neural-Symbolic Learning via Accelerating Active Predictive Coding with Information Geometry & Diverse Cognitive Mechanisms**|Ben Goertzel et.al.|[2501.04832v1](http://arxiv.org/abs/2501.04832v1)|null|
 |**2025-01-08**|**Building Foundations for Natural Language Processing of Historical Turkish: Resources and Models**|Şaziye Betül Özateş et.al.|[2501.04828v1](http://arxiv.org/abs/2501.04828v1)|null|

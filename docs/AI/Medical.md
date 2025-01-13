@@ -5,7 +5,7 @@
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
 |**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|null|
 |**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
-|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)|
 |**2025-01-09**|**Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**|Michail Ouroutzoglou et.al.|[2501.04896v1](http://arxiv.org/abs/2501.04896v1)|null|
 |**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
@@ -63,7 +63,7 @@
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v1](http://arxiv.org/abs/2501.00190v1)|[link](https://github.com/yinchangchang/sepsislab)|
+|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v2](http://arxiv.org/abs/2501.00190v2)|[link](https://github.com/yinchangchang/sepsislab)|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
 |**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
 |**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
@@ -1567,7 +1567,7 @@ in clinical settings.
 這些發現表明，雖然 GPT-4 在臨床評估方面顯示出前景，但提示和模型參數的組態需要仔細校準，以確保結果的一致性。這項初步研究有助於了解提示工程和大型語言模型之間的動態，為未來在臨床環境中開發 AI 驅動工具提供見解。
 
 ##### **SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**
-2501.00190v1 by Changchang Yin, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
+2501.00190v2 by Changchang Yin, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
 
 Sepsis is an organ dysfunction caused by a deregulated immune response to an
 infection. Early sepsis prediction and identification allow for timely
@@ -1594,7 +1594,7 @@ help clinicians understand the prediction outputs and prepare timely
 interventions for the corresponding dysfunctions, paving the way for actionable
 clinical decision-making support for early intervention.
 
-摘要：敗血症是由失調的免疫反應對感染引起的器官功能障礙。敗血症的早期預測和識別允許及時介入，從而改善臨床結果。臨床計算器（例如 SOFA 的六器官功能障礙評估）在臨床醫生工作流程中對敗血症識別發揮著至關重要的作用，提供了敗血症診斷必不可少的基於證據的風險評估。然而，人工智能 (AI) 敗血症預測模型通常會產生單一的敗血症風險評分，而不會納入臨床計算器來評估器官功能障礙，這使得這些模型對臨床醫生來說不太令人信服且不透明。為了彌合這一差距，我們建議模擬臨床醫生的工作流程，使用一個新的框架 SepsisCalc 將臨床計算器整合到預測模型中，從而產生一個在臨床環境中使用的臨床透明且精確的模型。實際上，臨床計算器通常會結合電子健康記錄 (EHR) 中多個組成變量的資訊，並且在變量（部分）缺失時可能不適用。我們通過將 EHR 表示為時間圖並整合一個學習模組來動態地將準確估計的計算器新增到圖形中，從而緩解了這個問題。在真實世界資料集上的實驗結果表明，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供了一個可供部署的人機互動工具，這可以幫助臨床醫生瞭解預測輸出並為相應的功能障礙準備及時的干預措施，為早期干預的行動臨床決策支援鋪平道路。
+摘要：敗血症是由對感染的失調免疫反應所造成的器官功能障礙。早期敗血症預測和識別有助於及時介入，進而改善臨床結果。臨床計算器（例如，SOFA 的六器官功能障礙評估）在臨床醫師的工作流程中扮演著敗血症識別的重要角色，提供敗血症診斷必要的證據為基礎的風險評估。然而，人工智慧（AI）敗血症預測模型通常會產生單一的敗血症風險評分，而未納入用於評估器官功能障礙的臨床計算器，使得模型對臨床醫師來說顯得較不具說服力且透明。為了彌合差距，我們提出模擬臨床醫師的工作流程，使用創新的 SepsisCalc 架構將臨床計算器整合到預測模型中，產生一個在臨床環境中使用時具有臨床透明度且精確的模型。實際上，臨床計算器通常會結合電子健康紀錄（EHR）中多個組成變數的資訊，且當變數（部分）遺失時可能不適用。我們透過將 EHR 表示為時間圖形並整合一個學習模組，動態將準確估計的計算器新增到圖形中，來減輕這個問題。在真實世界資料集上的實驗結果顯示，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供一個可用於部署的人工智慧互動工具，這有助於臨床醫師了解預測輸出，並針對相應的功能障礙準備及時的介入措施，為早期介入的行動臨床決策支援鋪路。
 
 ##### **DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**
 2501.00169v1 by Nick Papoulias

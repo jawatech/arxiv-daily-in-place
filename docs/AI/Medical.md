@@ -2,8 +2,13 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080v1](http://arxiv.org/abs/2501.06080v1)|null|
+|**2025-01-10**|**AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery**|Johann Wenckstern et.al.|[2501.06039v1](http://arxiv.org/abs/2501.06039v1)|null|
+|**2025-01-10**|**DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information**|Yongfan Lai et.al.|[2501.05932v1](http://arxiv.org/abs/2501.05932v1)|null|
+|**2025-01-10**|**AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**|Amit Kr Dey et.al.|[2501.05826v1](http://arxiv.org/abs/2501.05826v1)|null|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
-|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|null|
+|**2025-01-09**|**Strategy Masking: A Method for Guardrails in Value-based Reinforcement Learning Agents**|Jonathan Keane et.al.|[2501.05501v1](http://arxiv.org/abs/2501.05501v1)|null|
+|**2025-01-09**|**Atlas: A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v2](http://arxiv.org/abs/2501.05409v2)|null|
 |**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
 |**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958v1](http://arxiv.org/abs/2501.04958v1)|[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)|
 |**2025-01-09**|**Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**|Michail Ouroutzoglou et.al.|[2501.04896v1](http://arxiv.org/abs/2501.04896v1)|null|
@@ -55,6 +60,7 @@
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
 |**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|null|
 |**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
+|**2024-12-31**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464v1](http://arxiv.org/abs/2501.05464v1)|null|
 |**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
 |**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
 |**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|[link](https://github.com/george-yuanji-wang/gan-tat)|
@@ -63,7 +69,7 @@
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v2](http://arxiv.org/abs/2501.00190v2)|[link](https://github.com/yinchangchang/sepsislab)|
+|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v2](http://arxiv.org/abs/2501.00190v2)|[link](https://github.com/yinchangchang/sepsiscalc)|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
 |**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
 |**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
@@ -96,14 +102,123 @@
 |**2024-12-24**|**SurvAttack: Black-Box Attack On Survival Models through Ontology-Informed EHR Perturbation**|Mohsen Nayebi Kerdabadi et.al.|[2412.18706v1](http://arxiv.org/abs/2412.18706v1)|null|
 |**2024-12-24**|**A Review of Latent Representation Models in Neuroimaging**|C. Vázquez-García et.al.|[2412.19844v1](http://arxiv.org/abs/2412.19844v1)|null|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[link](https://github.com/tencentarc/ditctrl)|
-|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545v1](http://arxiv.org/abs/2412.18545v1)|null|
-|**2024-12-24**|**Multi-Agent Norm Perception and Induction in Distributed Healthcare**|Chao Li et.al.|[2412.18454v1](http://arxiv.org/abs/2412.18454v1)|null|
-|**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419v1](http://arxiv.org/abs/2412.18419v1)|null|
-|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v2](http://arxiv.org/abs/2412.18370v2)|[link](https://github.com/bdi-lab/monti)|
-|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096v1](http://arxiv.org/abs/2412.18096v1)|null|
-|**2024-12-23**|**Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**|Yidong Gan et.al.|[2412.18043v1](http://arxiv.org/abs/2412.18043v1)|null|
 
 #### Abstracts
+##### **Scale-up Unlearnable Examples Learning with High-Performance Computing**
+2501.06080v1 by Yanfan Zhu, Issac Lyngaas, Murali Gopalakrishnan Meena, Mary Ellen I. Koran, Bradley Malin, Daniel Moyer, Shunxing Bao, Anuj Kapadia, Xiao Wang, Bennett Landman, Yuankai Huo
+
+Recent advancements in AI models are structured to retain user interactions,
+which could inadvertently include sensitive healthcare data. In the healthcare
+field, particularly when radiologists use AI-driven diagnostic tools hosted on
+online platforms, there is a risk that medical imaging data may be repurposed
+for future AI training without explicit consent, spotlighting critical privacy
+and intellectual property concerns around healthcare data usage. Addressing
+these privacy challenges, a novel approach known as Unlearnable Examples (UEs)
+has been introduced, aiming to make data unlearnable to deep learning models. A
+prominent method within this area, called Unlearnable Clustering (UC), has
+shown improved UE performance with larger batch sizes but was previously
+limited by computational resources. To push the boundaries of UE performance
+with theoretically unlimited resources, we scaled up UC learning across various
+datasets using Distributed Data Parallel (DDP) training on the Summit
+supercomputer. Our goal was to examine UE efficacy at high-performance
+computing (HPC) levels to prevent unauthorized learning and enhance data
+security, particularly exploring the impact of batch size on UE's
+unlearnability. Utilizing the robust computational capabilities of the Summit,
+extensive experiments were conducted on diverse datasets such as Pets,
+MedMNist, Flowers, and Flowers102. Our findings reveal that both overly large
+and overly small batch sizes can lead to performance instability and affect
+accuracy. However, the relationship between batch size and unlearnability
+varied across datasets, highlighting the necessity for tailored batch size
+strategies to achieve optimal data protection. Our results underscore the
+critical role of selecting appropriate batch sizes based on the specific
+characteristics of each dataset to prevent learning and ensure data security in
+deep learning applications.
+
+摘要：<paragraph>最近在 AI 模型中的進展被建構為保留使用者互動，
+這可能無意間包含敏感的醫療保健資料。在醫療保健
+領域，特別是當放射科醫師使用線上平台上提供的 AI 驅動診斷工具時，有風險是醫療影像資料可能會被重新用於未來的 AI 訓練，而未經明確同意，這突顯了與醫療保健資料使用相關的隱私和智慧財產權問題。為了應對
+這些隱私挑戰，已導入一種稱為不可學習範例 (UE) 的新方法，旨在讓資料對深度學習模型不可學習。這個領域內一種著名的稱為不可學習聚類 (UC) 的方法，已顯示出在較大的批次大小下有改善的 UE 效能，但先前受到運算資源的限制。為了在理論上無限制資源的情況下推動 UE 效能的界線，我們在 Summit 超級電腦上使用分散式資料平行 (DDP) 訓練，擴大了各種資料集的 UC 學習。我們的目標是檢查 UE 在高效能運算 (HPC) 層級的效能，以防止未經授權的學習，並增強資料安全性，特別是探討批次大小對 UE 不可學習性的影響。利用 Summit 強大的運算能力，在各種資料集上進行了廣泛的實驗，例如 Pets、MedMNist、Flowers 和 Flowers102。我們的研究結果顯示，過大或過小的批次大小都可能導致效能不穩定，並影響準確度。然而，批次大小與不可學習性之間的關係在各個資料集之間有所不同，這突顯了根據特定資料集的特徵量身打造批次大小策略以達成最佳資料保護的必要性。我們的結果強調了根據每個資料集的特定特徵選擇適當批次大小以防止學習，並確保深度學習應用程式中資料安全性的關鍵作用。</paragraph>
+
+##### **AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery**
+2501.06039v1 by Johann Wenckstern, Eeshaan Jain, Kiril Vasilev, Matteo Pariset, Andreas Wicki, Gabriele Gut, Charlotte Bunne
+
+Spatial proteomics technologies have transformed our understanding of complex
+tissue architectures by enabling simultaneous analysis of multiple molecular
+markers and their spatial organization. The high dimensionality of these data,
+varying marker combinations across experiments and heterogeneous study designs
+pose unique challenges for computational analysis. Here, we present Virtual
+Tissues (VirTues), a foundation model framework for biological tissues that
+operates across the molecular, cellular and tissue scale. VirTues introduces
+innovations in transformer architecture design, including a novel tokenization
+scheme that captures both spatial and marker dimensions, and attention
+mechanisms that scale to high-dimensional multiplex data while maintaining
+interpretability. Trained on diverse cancer and non-cancer tissue datasets,
+VirTues demonstrates strong generalization capabilities without task-specific
+fine-tuning, enabling cross-study analysis and novel marker integration. As a
+generalist model, VirTues outperforms existing approaches across clinical
+diagnostics, biological discovery and patient case retrieval tasks, while
+providing insights into tissue function and disease mechanisms.
+
+摘要：空間蛋白質組學技術透過同時分析多個分子標記及其空間組織，轉變了我們對複雜組織結構的理解。這些數據的高維度、實驗中不同的標記組合和異質的研究設計，對計算分析構成了獨特的挑戰。在此，我們提出虛擬組織 (VirTues)，一個適用於分子、細胞和組織層級的生物組織基礎模型架構。VirTues 在Transformer架構設計中引進創新，包括一種新的標記化架構，它捕捉空間和標記維度，以及在維持可解釋性的同時擴展到高維度多重數據的注意力機制。VirTues 在多樣化的癌症和非癌症組織數據集上訓練，展示了強大的泛化能力，無需特定任務微調，從而實現跨研究分析和新的標記整合。作為一個通才模型，VirTues 在臨床診斷、生物發現和患者病例檢索任務中優於現有方法，同時提供了組織功能和疾病機制的見解。
+
+##### **DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information**
+2501.05932v1 by Yongfan Lai, Jiabo Chen, Deyun Zhang, Yue Wang, Shijia Geng, Hongyan Li, Shenda Hong
+
+Heart disease remains a significant threat to human health. As a non-invasive
+diagnostic tool, the electrocardiogram (ECG) is one of the most widely used
+methods for cardiac screening. However, the scarcity of high-quality ECG data,
+driven by privacy concerns and limited medical resources, creates a pressing
+need for effective ECG signal generation. Existing approaches for generating
+ECG signals typically rely on small training datasets, lack comprehensive
+evaluation frameworks, and overlook potential applications beyond data
+augmentation. To address these challenges, we propose DiffuSETS, a novel
+framework capable of generating ECG signals with high semantic alignment and
+fidelity. DiffuSETS accepts various modalities of clinical text reports and
+patient-specific information as inputs, enabling the creation of clinically
+meaningful ECG signals. Additionally, to address the lack of standardized
+evaluation in ECG generation, we introduce a comprehensive benchmarking
+methodology to assess the effectiveness of generative models in this domain.
+Our model achieve excellent results in tests, proving its superiority in the
+task of ECG generation. Furthermore, we showcase its potential to mitigate data
+scarcity while exploring novel applications in cardiology education and medical
+knowledge discovery, highlighting the broader impact of our work.
+
+摘要：心脏病仍然是人类健康的一大威胁。作为一种非侵入性诊断工具，心电图 (ECG) 是心脏筛查最广泛使用的方法之一。然而，由于隐私问题和医疗资源有限，高质量 ECG 数据的稀缺对有效的 ECG 信号生成提出了迫切需求。现有用于生成 ECG 信号的方法通常依赖于小型训练数据集，缺乏全面的评估框架，并且忽视了数据增强之外的潜在应用。为了应对这些挑战，我们提出了 DiffuSETS，这是一个能够生成具有高度语义对齐和保真度的 ECG 信号的新框架。DiffuSETS 接受各种形式的临床文本报告和患者特定信息作为输入，从而能够创建具有临床意义的 ECG 信号。此外，为了解决 ECG 生成中缺乏标准化评估的问题，我们引入了一种全面的基准测试方法来评估生成模型在此领域的有效性。我们的模型在测试中取得了优异的成果，证明了其在 ECG 生成任务中的优越性。此外，我们展示了其在缓解数据稀缺的同时在心脏病学教育和医学知识发现中探索新应用的潜力，突出了我们工作的更广泛影响。
+
+##### **AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**
+2501.05826v1 by Amit Kr Dey, Pradeep Walia, Girish Somvanshi, Abrar Ali, Sagarnil Das, Pallabi Paul, Minakhi Ghosh
+
+Purpose: Diabetic retinopathy (DR) is a major cause of vision loss,
+particularly in India, where access to retina specialists is limited in rural
+areas. This study aims to evaluate the Artificial Intelligence-based Diabetic
+Retinopathy Screening System (AIDRSS) for DR detection and prevalence
+assessment, addressing the growing need for scalable, automated screening
+solutions in resource-limited settings.
+  Approach: A multicentric, cross-sectional study was conducted in Kolkata,
+India, involving 5,029 participants and 10,058 macula-centric retinal fundus
+images. The AIDRSS employed a deep learning algorithm with 50 million trainable
+parameters, integrated with Contrast Limited Adaptive Histogram Equalization
+(CLAHE) preprocessing for enhanced image quality. DR was graded using the
+International Clinical Diabetic Retinopathy (ICDR) Scale, categorizing disease
+into five stages (DR0 to DR4). Statistical metrics including sensitivity,
+specificity, and prevalence rates were evaluated against expert retina
+specialist assessments.
+  Results: The prevalence of DR in the general population was 13.7%, rising to
+38.2% among individuals with elevated random blood glucose levels. The AIDRSS
+achieved an overall sensitivity of 92%, specificity of 88%, and 100%
+sensitivity for detecting referable DR (DR3 and DR4). These results demonstrate
+the system's robust performance in accurately identifying and grading DR in a
+diverse population.
+  Conclusions: AIDRSS provides a reliable, scalable solution for early DR
+detection in resource-constrained environments. Its integration of advanced AI
+techniques ensures high diagnostic accuracy, with potential to significantly
+reduce the burden of diabetes-related vision loss in underserved regions.
+
+摘要：<paragraph>目的：糖尿病視網膜病變 (DR) 是造成視力喪失的主要原因，特別是在印度，農村地區眼科專家的取得不易。本研究旨在評估人工智慧糖尿病視網膜病變篩檢系統 (AIDRSS) 的 DR 偵測與盛行率評估，以滿足資源有限地區對可擴充自動化篩檢解決方案日益增長的需求。
+方法：在印度加爾各答進行一項多中心橫斷面研究，納入 5,029 名參與者和 10,058 張黃斑中心視網膜眼底影像。AIDRSS 採用具有 5,000 萬個可訓練參數的深度學習演算法，並整合對比限制自適應直方圖等化 (CLAHE) 預處理，以增強影像品質。使用國際臨床糖尿病視網膜病變 (ICDR) 量表對 DR 進行分級，將疾病分為五個階段 (DR0 至 DR4)。針對專家視網膜專科醫師評估，評估包括敏感度、特異度和盛行率在內的統計量度。
+結果：一般人群中 DR 的盛行率為 13.7%，在隨機血糖值升高的個體中升至 38.2%。AIDRSS 達到 92% 的整體敏感度、88% 的特異度，以及 100% 偵測可轉診 DR (DR3 和 DR4) 的敏感度。這些結果證明了該系統在準確辨識和分級不同族群中 DR 的強大效能。
+結論：AIDRSS 為資源受限環境中的早期 DR 偵測提供了可靠且可擴充的解決方案。其整合先進的 AI 技術，確保了高診斷準確度，並有潛力顯著降低服務不足地區糖尿病相關視力喪失的負擔。</paragraph>
+
 ##### **From Simple to Complex Skills: The Case of In-Hand Object Reorientation**
 2501.05439v1 by Haozhi Qi, Brent Yi, Mike Lambeta, Yi Ma, Roberto Calandra, Jitendra Malik
 
@@ -126,20 +241,39 @@ including symmetrical and textureless ones, to a desired pose.
 
 摘要：在模擬中學習策略並將其轉移到現實世界已成為靈巧操作中一種有前景的方法。然而，對於每項新任務來說，彌合模擬到現實的差距需要大量的人力，例如仔細的獎勵工程、超參數調整和系統識別。在這項工作中，我們提出了一個利用低層技能來應對更複雜任務的挑戰的系統。具體來說，我們引入了一個基於先前獲得的旋轉技能的手中物體重新定向的分層策略。這種分層策略學習根據環境和低層技能策略本身的回饋選擇執行哪種低層技能。與從頭開始學習相比，分層策略對分佈外變化更強健，並且可以輕鬆地從模擬轉移到現實世界環境。此外，我們提出了一個可泛化的物體姿勢估計器，它使用 proprioceptive 信息、低層技能預測和控制誤差作為輸入來估計物體姿勢。我們證明了我們的系統可以將物體（包括對稱和無紋理的物體）重新定向到所需的姿勢。
 
-##### **A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**
-2501.05409v1 by Maximilian Alber, Stephan Tietz, Jonas Dippel, Timo Milbich, Timothée Lesort, Panos Korfiatis, Moritz Krügener, Beatriz Perez Cancer, Neelay Shah, Alexander Möllers, Philipp Seegerer, Alexandra Carpen-Amarie, Kai Standvoss, Gabriel Dernbach, Edwin de Jong, Simon Schallenberg, Andreas Kunft, Helmut Hoffer von Ankershoffen, Gavin Schaeferle, Patrick Duffy, Matt Redlon, Philipp Jurmeister, David Horst, Lukas Ruff, Klaus-Robert Müller, Frederick Klauschen, Andrew Norgan
+##### **Strategy Masking: A Method for Guardrails in Value-based Reinforcement Learning Agents**
+2501.05501v1 by Jonathan Keane, Sam Keyser, Jeremy Kedziora
+
+The use of reward functions to structure AI learning and decision making is
+core to the current reinforcement learning paradigm; however, without careful
+design of reward functions, agents can learn to solve problems in ways that may
+be considered ``undesirable" or ``unethical. Without thorough understanding of
+the incentives a reward function creates, it can be difficult to impose
+principled yet general control mechanisms over its behavior. In this paper, we
+study methods for constructing guardrails for AI agents that use reward
+functions to learn decision making. We introduce a novel approach, which we
+call strategy masking, to explicitly learn and then suppress undesirable AI
+agent behavior. We apply our method to study lying in AI agents and show that
+strategy masking can effectively modify agent behavior by suppressing, or
+actively penalizing, the reward dimension for lying such that agents act more
+honestly while not compromising their ability to perform effectively.
+
+摘要：使用獎勵函數來建構 AI 學習和決策制定是當前強化學習範例的核心；然而，若獎勵函數設計不周，代理程式可能會學會以「不可取」或「不道德」的方式解決問題。若不徹底了解獎勵函數所創造的誘因，就難以對其行為施加有原則且通用的控制機制。在本文中，我們研究了建構防護措施的方法，以供使用獎勵函數學習決策制定的 AI 代理程式使用。我們提出了一種新方法，稱為策略遮罩，用於明確學習並抑制不良的 AI 代理程式行為。我們將方法應用於研究 AI 代理程式中的說謊行為，並證明策略遮罩可以有效修改代理程式行為，方法是抑制或主動懲罰說謊的獎勵維度，讓代理程式更誠實，同時不損害其有效執行任務的能力。
+
+##### **Atlas: A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**
+2501.05409v2 by Maximilian Alber, Stephan Tietz, Jonas Dippel, Timo Milbich, Timothée Lesort, Panos Korfiatis, Moritz Krügener, Beatriz Perez Cancer, Neelay Shah, Alexander Möllers, Philipp Seegerer, Alexandra Carpen-Amarie, Kai Standvoss, Gabriel Dernbach, Edwin de Jong, Simon Schallenberg, Andreas Kunft, Helmut Hoffer von Ankershoffen, Gavin Schaeferle, Patrick Duffy, Matt Redlon, Philipp Jurmeister, David Horst, Lukas Ruff, Klaus-Robert Müller, Frederick Klauschen, Andrew Norgan
 
 Recent advances in digital pathology have demonstrated the effectiveness of
-foundation models across diverse applications. In this report, we present a
-novel vision foundation model based on the RudolfV approach. Our model was
-trained on a dataset comprising 1.2 million histopathology whole slide images,
-collected from two medical institutions: Mayo Clinic and Charit\'e -
-Universt\"atsmedizin Berlin. Comprehensive evaluations show that our model
-achieves state-of-the-art performance across twenty-one public benchmark
-datasets, even though it is neither the largest model by parameter count nor by
-training dataset size.
+foundation models across diverse applications. In this report, we present
+Atlas, a novel vision foundation model based on the RudolfV approach. Our model
+was trained on a dataset comprising 1.2 million histopathology whole slide
+images, collected from two medical institutions: Mayo Clinic and Charit\'e -
+Universt\"atsmedizin Berlin. Comprehensive evaluations show that Atlas achieves
+state-of-the-art performance across twenty-one public benchmark datasets, even
+though it is neither the largest model by parameter count nor by training
+dataset size.
 
-摘要：最近在數位病理學的進展已展示出基礎模型在各種應用中的有效性。在此報告中，我們提出一個基於 RudolfV 方法的新穎視覺基礎模型。我們的模型是在一個包含 120 萬張組織病理學全切片影像的資料集上訓練，這些影像來自兩個醫療機構：梅約診所和夏里特大學醫學中心。全面的評估顯示，我們的模型在 21 個公開基準資料集上達到了最先進的效能，儘管它既不是參數計數最大的模型，也不是訓練資料集規模最大的模型。
+摘要：最近在數位病理學的進展已展現基礎模型在各種應用上的有效性。在此報告中，我們提出 Atlas，一種基於 RudolfV 方法的新穎視覺基礎模型。我們的模型訓練於一個包含 120 萬張組織病理全玻片影像的資料集，這些影像收集自兩個醫療機構：梅約診所和柏林夏里特大學醫學中心。全面的評估顯示，Atlas 在 21 個公開基準資料集上達到了最先進的效能，即使它既不是參數數量最大的模型，也不是訓練資料集規模最大的模型。
 
 ##### **An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**
 2501.05197v1 by Drago Plecko, Paul Secombe, Andrea Clarke, Amelia Fiske, Samarra Toby, Donisha Duff, David Pilcher, Leo Anthony Celi, Rinaldo Bellomo, Elias Bareinboim
@@ -1376,6 +1510,31 @@ while also facilitating their conversion into interoperable data formats.
 我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
 對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
 
+##### **LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**
+2501.05464v1 by Hang Yang, Hao Chen, Hui Guo, Yineng Chen, Ching-Sheng Lin, Shu Hu, Jinrong Hu, Xi Wu, Xin Wang
+
+Accurate and efficient question-answering systems are essential for
+delivering high-quality patient care in the medical field. While Large Language
+Models (LLMs) have made remarkable strides across various domains, they
+continue to face significant challenges in medical question answering,
+particularly in understanding domain-specific terminologies and performing
+complex reasoning. These limitations undermine their effectiveness in critical
+medical applications. To address these issues, we propose a novel approach
+incorporating similar case generation within a multi-agent medical
+question-answering (MedQA) system. Specifically, we leverage the Llama3.1:70B
+model, a state-of-the-art LLM, in a multi-agent architecture to enhance
+performance on the MedQA dataset using zero-shot learning. Our method
+capitalizes on the model's inherent medical knowledge and reasoning
+capabilities, eliminating the need for additional training data. Experimental
+results show substantial performance gains over existing benchmark models, with
+improvements of 7% in both accuracy and F1-score across various medical QA
+tasks. Furthermore, we examine the model's interpretability and reliability in
+addressing complex medical queries. This research not only offers a robust
+solution for medical question answering but also establishes a foundation for
+broader applications of LLMs in the medical domain.
+
+摘要：精準高效的問題解答系統對於提供醫療領域的高品質病人照護至關重要。雖然大型語言模型 (LLM) 在各個領域都有顯著進展，但它們在醫療問題解答中仍面臨重大挑戰，特別是在理解特定領域的術語和執行複雜推理方面。這些限制影響了它們在關鍵醫療應用中的效能。為了解決這些問題，我們提出了一種新方法，將類似案例生成整合到多主體醫療問題解答 (MedQA) 系統中。具體來說，我們在多主體架構中利用最先進的 LLM Llama3.1:70B 模型，以使用零次學習來增強 MedQA 資料集的效能。我們的做法利用了該模型內建的醫療知識和推理能力，消除了對額外訓練資料的需求。實驗結果顯示，與現有的基準模型相比，效能有顯著提升，在各種醫療問答任務中，準確度和 F1 分數都提升了 7%。此外，我們探討了該模型在回答複雜醫療問題時的詮釋性和可靠性。這項研究不僅為醫療問題解答提供了強健的解決方案，也為 LLM 在醫療領域的更廣泛應用奠定了基礎。
+
 ##### **Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**
 2501.01462v1 by Lingrui Zhang, Haonan Wu, Nana Jin, Chenqing Zheng, Jize Xie, Qitai Cai, Jun Wang, Qin Cao, Xubin Zheng, Jiankun Wang, Lixin Cheng
 
@@ -2424,155 +2583,4 @@ performance of multi-prompt generation. Extensive experiments demonstrate that
 our method achieves state-of-the-art performance without additional training.
 
 摘要：類 Sora 的影片生成模型在多模態擴散Transformer MM-DiT 架構中取得顯著進展。然而，目前的影片生成模型主要專注於單一提示，難以生成包含多個循序提示的連貫場景，而這些提示更能反映真實世界的動態場景。儘管一些開創性的作品已探索多提示影片生成，但它們面臨嚴峻的挑戰，包括嚴格的訓練資料需求、提示追蹤能力不佳以及不自然的轉換。為了解決這些問題，我們提出 DiTCtrl，這是一種在 MM-DiT 架構下首次使用的免訓練多提示影片生成方法。我們的關鍵想法是將多提示影片生成任務視為具有平滑轉換的時序影片編輯。為了達成此目標，我們首先分析 MM-DiT 的注意力機制，發現 3D 全注意力與 UNet 類擴散模型中的交叉/自我注意力區塊有類似的行為，這使得我們能夠透過注意力共享進行遮罩導引的精確語意控制，以進行多提示影片生成。根據我們的精細設計，DiTCtrl 生成的影片在給定多個循序提示的情況下，可以實現平滑的轉換和一致的物件動作，而不需要額外的訓練。此外，我們還提出了 MPVBench，這是一個專門設計用於多提示影片生成的新基準，用於評估多提示生成的效果。廣泛的實驗證明，我們的方法在沒有額外訓練的情況下，達到了最先進的效能。
-
-##### **Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**
-2412.18545v1 by Mingyuan Meng, Michael Fulham, Lei Bi, Jinman Kim
-
-Deformable image registration is a fundamental requirement for medical image
-analysis. Recently, transformers have been widely used in deep learning-based
-registration methods for their ability to capture long-range dependency via
-self-attention (SA). However, the high computation and memory loads of SA
-(growing quadratically with the spatial resolution) hinder transformers from
-processing subtle textural information in high-resolution image features, e.g.,
-at the full and half image resolutions. This limits deformable registration as
-the high-resolution textural information is crucial for finding precise
-pixel-wise correspondence between subtle anatomical structures.
-Cross-covariance Attention (XCA), as a "transposed" version of SA that operates
-across feature channels, has complexity growing linearly with the spatial
-resolution, providing the feasibility of capturing long-range dependency among
-high-resolution image features. However, existing XCA-based transformers merely
-capture coarse global long-range dependency, which are unsuitable for
-deformable image registration relying primarily on fine-grained local
-correspondence. In this study, we propose to improve existing deep
-learning-based registration methods by embedding a new XCA mechanism. To this
-end, we design an XCA-based transformer block optimized for deformable medical
-image registration, named Multi-Axis XCA (MAXCA). Our MAXCA serves as a general
-network block that can be embedded into various registration network
-architectures. It can capture both global and local long-range dependency among
-high-resolution image features by applying regional and dilated XCA in parallel
-via a multi-axis design. Extensive experiments on two well-benchmarked
-inter-/intra-patient registration tasks with seven public medical datasets
-demonstrate that our MAXCA block enables state-of-the-art registration
-performance.
-
-摘要：可變形影像配準是醫學影像分析的基本需求。最近，Transformer已廣泛用於基於深度學習的配準方法，因為它們能透過自我注意 (SA) 擷取長程依賴性。然而，SA 的高運算和記憶體負載（隨著空間解析度呈二次成長）會阻礙Transformer處理高解析度影像特徵中的細微紋理資訊，例如在完整和半影像解析度中。這限制了可變形配準，因為高解析度紋理資訊對於在細微解剖結構之間找到精確的像素對應至關重要。跨協方差注意 (XCA) 作為 SA 的「轉置」版本，其運作跨特徵通道，複雜度隨著空間解析度呈線性成長，提供擷取高解析度影像特徵之間長程依賴性的可行性。然而，現有的基於 XCA 的Transformer僅擷取粗略的全局長程依賴性，這不適合主要依賴細粒度局部對應的可變形影像配準。在本研究中，我們提出透過嵌入新的 XCA 機制來改善現有的基於深度學習的配準方法。為此，我們設計了一個針對可變形醫學影像配準最佳化的基於 XCA 的Transformer區塊，稱為多軸 XCA (MAXCA)。我們的 MAXCA 是一個通用網路區塊，可以嵌入到各種配準網路架構中。它可以透過多軸設計並行應用區域和膨脹的 XCA，來擷取高解析度影像特徵之間的全局和局部長程依賴性。在兩個廣泛基準化的患者間/患者內配準任務中，使用七個公共醫學資料集進行的廣泛實驗證明，我們的 MAXCA 區塊能實現最先進的配準效能。
-
-##### **Multi-Agent Norm Perception and Induction in Distributed Healthcare**
-2412.18454v1 by Chao Li, Olga Petruchik, Elizaveta Grishanina, Sergey Kovalchuk
-
-This paper presents a Multi-Agent Norm Perception and Induction Learning
-Model aimed at facilitating the integration of autonomous agent systems into
-distributed healthcare environments through dynamic interaction processes. The
-nature of the medical norm system and its sharing channels necessitates
-distinct approaches for Multi-Agent Systems to learn two types of norms.
-Building on this foundation, the model enables agents to simultaneously learn
-descriptive norms, which capture collective tendencies, and prescriptive norms,
-which dictate ideal behaviors. Through parameterized mixed probability density
-models and practice-enhanced Markov games, the multi-agent system perceives
-descriptive norms in dynamic interactions and captures emergent prescriptive
-norms. We conducted experiments using a dataset from a neurological medical
-center spanning from 2016 to 2020.
-
-摘要：本文提出了一個多主體規範感知與歸納學習模型，旨在透過動態互動程序促進自主主體系統整合到分散式醫療保健環境中。醫療規範系統的本質及其共享管道需要不同的方法，讓多主體系統學習兩種規範。基於此基礎，該模型讓主體能夠同時學習描述性規範（捕捉集體傾向）和規範性規範（規定理想行為）。透過參數化混合機率密度模型和實務增強馬可夫博弈，多主體系統在動態互動中感知描述性規範，並捕捉新興的規範性規範。我們使用 2016 年至 2020 年期間一個神經醫學醫療中心的数据集進行了實驗。
-
-##### **Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**
-2412.18419v1 by Zihan Zhou, Ziyi Zeng, Wenhao Jiang, Yihui Zhu, Jiaxin Mao, Yonggui Yuan, Min Xia, Shubin Zhao, Mengyu Yao, Yunqian Chen
-
-As social changes accelerate, the incidence of psychosomatic disorders has
-significantly increased, becoming a major challenge in global health issues.
-This necessitates an innovative knowledge system and analytical methods to aid
-in diagnosis and treatment. Here, we establish the ontology model and entity
-types, using the BERT model and LoRA-tuned LLM for named entity recognition,
-constructing the knowledge graph with 9668 triples. Next, by analyzing the
-network distances between disease, symptom, and drug modules, it was found that
-closer network distances among diseases can predict greater similarities in
-their clinical manifestations, treatment approaches, and psychological
-mechanisms, and closer distances between symptoms indicate that they are more
-likely to co-occur. Lastly, by comparing the proximity d and proximity z score,
-it was shown that symptom-disease pairs in primary diagnostic relationships
-have a stronger association and are of higher referential value than those in
-diagnostic relationships. The research results revealed the potential
-connections between diseases, co-occurring symptoms, and similarities in
-treatment strategies, providing new perspectives for the diagnosis and
-treatment of psychosomatic disorders and valuable information for future mental
-health research and practice.
-
-摘要：隨著社會變遷加速，心身疾病發生率顯著增加，成為全球衛生議題上的重大挑戰。這需要創新的知識體系與分析方法，以協助診斷與治療。在此，我們建立了本体模型與實體類型，利用 BERT 模型與 LoRA 調校過的 LLM 進行命名實體辨識，建構出 9668 個三元組的知識圖譜。接著，透過分析疾病、症狀、藥物模組間的網路距離，發現疾病間較近的網路距離，可預測其臨床表現、治療方式、心理機轉的相似性較高；而症狀間距離較近，則表示較可能共現。最後，透過比較接近度 d 與接近度 z 分數，發現初次診斷關係中的症狀-疾病對，其關聯性較強、參考價值較高，優於診斷關係中的症狀-疾病對。研究成果揭示了疾病、共現症狀、治療策略間的潛在關聯，為心身疾病的診斷與治療提供了新的觀點，也為未來心理健康研究與實務提供了寶貴的資訊。
-
-##### **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**
-2412.18370v2 by Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
-
-Graph neural networks (GNNs) have emerged as an effective tool for fraud
-detection, identifying fraudulent users, and uncovering malicious behaviors.
-However, attacks against GNN-based fraud detectors and their risks have rarely
-been studied, thereby leaving potential threats unaddressed. Recent findings
-suggest that frauds are increasingly organized as gangs or groups. In this
-work, we design attack scenarios where fraud gangs aim to make their fraud
-nodes misclassified as benign by camouflaging their illicit activities in
-collusion. Based on these scenarios, we study adversarial attacks against
-GNN-based fraud detectors by simulating attacks of fraud gangs in three
-real-world fraud cases: spam reviews, fake news, and medical insurance frauds.
-We define these attacks as multi-target graph injection attacks and propose
-MonTi, a transformer-based Multi-target one-Time graph injection attack model.
-MonTi simultaneously generates attributes and edges of all attack nodes with a
-transformer encoder, capturing interdependencies between attributes and edges
-more effectively than most existing graph injection attack methods that
-generate these elements sequentially. Additionally, MonTi adaptively allocates
-the degree budget for each attack node to explore diverse injection structures
-involving target, candidate, and attack nodes, unlike existing methods that fix
-the degree budget across all attack nodes. Experiments show that MonTi
-outperforms the state-of-the-art graph injection attack methods on five
-real-world graphs.
-
-摘要：圖神經網路 (GNN) 已成為詐欺偵測、識別詐騙使用者和揭露惡意行為的有效工具。
-然而，針對基於 GNN 的詐欺偵測器的攻擊及其風險鮮少被研究，因此潛在威脅仍未獲得解決。最近的研究結果表明，詐欺行為正日益以幫派或團體的形式組織起來。在本文中，我們設計了攻擊情境，其中詐欺幫派旨在通過串通掩護其非法活動，使他們的詐欺節點被錯誤分類為良性。基於這些情境，我們通過模擬三個真實世界的詐欺案例（垃圾評論、假新聞和醫療保險詐欺）中的詐欺幫派攻擊來研究針對基於 GNN 的詐欺偵測器的對抗性攻擊。我們將這些攻擊定義為多目標圖形注入攻擊，並提出 MonTi，一個基於 Transformer 的多目標一次性圖形注入攻擊模型。MonTi 同時使用 Transformer 編碼器生成所有攻擊節點的屬性和邊緣，比大多數現有的圖形注入攻擊方法更有效地捕捉屬性和邊緣之間的相互依賴性，後者按順序生成這些元素。此外，與固定所有攻擊節點的度預算的現有方法不同，MonTi 自適應地分配每個攻擊節點的度預算，以探索涉及目標、候選和攻擊節點的多樣化注入結構。實驗表明，MonTi 在五個真實世界圖形上優於最先進的圖形注入攻擊方法。
-
-##### **Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**
-2412.18096v1 by Yu He Ke, Liyuan Jin, Kabilan Elangovan, Bryan Wen Xi Ong, Chin Yang Oh, Jacqueline Sim, Kenny Wei-Tsen Loh, Chai Rick Soh, Jonathan Ming Hua Cheng, Aaron Kwang Yang Lee, Daniel Shu Wei Ting, Nan Liu, Hairil Rizal Abdullah
-
-Large Language Models (LLMs) are emerging as powerful tools in healthcare,
-particularly for complex, domain-specific tasks. This study describes the
-development and evaluation of the PErioperative AI CHatbot (PEACH), a secure
-LLM-based system integrated with local perioperative guidelines to support
-preoperative clinical decision-making. PEACH was embedded with 35 institutional
-perioperative protocols in the secure Claude 3.5 Sonet LLM framework within
-Pair Chat (developed by Singapore Government) and tested in a silent deployment
-with real-world data. Accuracy, safety, and usability were assessed. Deviations
-and hallucinations were categorized based on potential harm, and user feedback
-was evaluated using the Technology Acceptance Model (TAM). Updates were made
-after the initial silent deployment to amend one protocol.
-  In 240 real-world clinical iterations, PEACH achieved a first-generation
-accuracy of 97.5% (78/80) and an overall accuracy of 96.7% (232/240) across
-three iterations. The updated PEACH demonstrated improved accuracy of 97.9%
-(235/240), with a statistically significant difference from the null hypothesis
-of 95% accuracy (p = 0.018, 95% CI: 0.952-0.991). Minimal hallucinations and
-deviations were observed (both 1/240 and 2/240, respectively). Clinicians
-reported that PEACH expedited decisions in 95% of cases, and inter-rater
-reliability ranged from kappa 0.772-0.893 within PEACH and 0.610-0.784 among
-attendings.
-  PEACH is an accurate, adaptable tool that enhances consistency and efficiency
-in perioperative decision-making. Future research should explore its
-scalability across specialties and its impact on clinical outcomes.
-
-摘要：大型語言模型 (LLM) 正成為醫療保健領域強大的工具，特別適用於複雜的特定領域任務。本研究描述了圍手術期 AI 聊天機器人 (PEACH) 的開發和評估，這是一個安全的 LLM 基礎系統，與本地的圍手術期準則整合，以支援術前臨床決策制定。PEACH 嵌入 35 個機構圍手術期協定，在新加坡政府開發的 Pair Chat 中，採用安全的 Claude 3.5 Sonet LLM 架構，並在靜默部署中使用真實世界資料進行測試。評估了準確性、安全性及可用性。偏差和幻覺依潛在危害進行分類，並使用技術接受模型 (TAM) 評估使用者回饋。在最初的靜默部署後，進行更新以修正一個協定。
-  在 240 個真實世界的臨床迭代中，PEACH 在三個迭代中取得 97.5% (78/80) 的第一代準確性，以及 96.7% (232/240) 的整體準確性。更新後的 PEACH 展示出 97.9% (235/240) 的準確性提升，與 95% 準確性的空假設有統計上的顯著差異 (p = 0.018，95% CI：0.952-0.991)。觀察到最小的幻覺和偏差 (分別為 1/240 和 2/240)。臨床醫生回報 PEACH 在 95% 的案例中加速了決策，而評分者間信度在 PEACH 內介於 kappa 0.772-0.893，在主治醫師之間介於 0.610-0.784。
-  PEACH 是一個準確且適應性強的工具，可增進圍手術期決策制定的一致性和效率。未來的研究應探索其跨專業的可擴展性，以及其對臨床結果的影響。
-
-##### **Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**
-2412.18043v1 by Yidong Gan, Maciej Rybinski, Ben Hachey, Jonathan K. Kummerfeld
-
-Clinical coding is crucial for healthcare billing and data analysis. Manual
-clinical coding is labour-intensive and error-prone, which has motivated
-research towards full automation of the process. However, our analysis, based
-on US English electronic health records and automated coding research using
-these records, shows that widely used evaluation methods are not aligned with
-real clinical contexts. For example, evaluations that focus on the top 50 most
-common codes are an oversimplification, as there are thousands of codes used in
-practice. This position paper aims to align AI coding research more closely
-with practical challenges of clinical coding. Based on our analysis, we offer
-eight specific recommendations, suggesting ways to improve current evaluation
-methods. Additionally, we propose new AI-based methods beyond automated coding,
-suggesting alternative approaches to assist clinical coders in their workflows.
-
-摘要：臨床編碼對於醫療保健計費和數據分析至關重要。手動臨床編碼勞力密集且容易出錯，這促使研究朝向流程的全面自動化。然而，我們的分析基於美國英文電子健康記錄和使用這些記錄的自動編碼研究，顯示廣泛使用的評估方法與實際臨床背景不符。例如，專注於前 50 個最常見代碼的評估過於簡化，因為實務上使用了數千個代碼。本立場文件旨在讓 AI 編碼研究更貼近臨床編碼的實際挑戰。根據我們的分析，我們提出八項具體建議，提出改善目前評估方法的方法。此外，我們提出超越自動編碼的新 AI 方法，提出協助臨床編碼人員進行工作流程的替代方法。
 

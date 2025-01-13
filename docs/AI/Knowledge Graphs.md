@@ -2,8 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-10**|**Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration**|Zuyuan Zhang et.al.|[2501.05673v1](http://arxiv.org/abs/2501.05673v1)|null|
 |**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
 |**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
+|**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|null|
 |**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
 |**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
@@ -100,10 +102,38 @@
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864v1](http://arxiv.org/abs/2412.08864v1)|null|
 |**2024-12-11**|**In-Context Learning with Topological Information for Knowledge Graph Completion**|Udari Madhushani Sehwag et.al.|[2412.08742v1](http://arxiv.org/abs/2412.08742v1)|null|
 |**2024-12-11**|**VEL: A Formally Verified Reasoner for OWL2 EL Profile**|Atalay Mert Ileri et.al.|[2412.08739v1](http://arxiv.org/abs/2412.08739v1)|null|
-|**2024-12-11**|**From communities to interpretable network and word embedding: an unified approach**|Thibault Prouteau et.al.|[2412.08187v1](http://arxiv.org/abs/2412.08187v1)|null|
-|**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v2](http://arxiv.org/abs/2412.08174v2)|null|
 
 #### Abstracts
+##### **Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration**
+2501.05673v1 by Zuyuan Zhang, Vaneet Aggarwal, Tian Lan
+
+Network services are increasingly managed by considering chained-up virtual
+network functions and relevant traffic flows, known as the Service Function
+Chains (SFCs). To deal with sequential arrivals of SFCs in an online fashion,
+we must consider two closely-coupled problems - an SFC placement problem that
+maps SFCs to servers/links in the network and an SFC scheduling problem that
+determines when each SFC is executed. Solving the whole SFC problem targeting
+these two optimizations jointly is extremely challenging. In this paper, we
+propose a novel network diffuser using conditional generative modeling for this
+SFC placing-scheduling optimization. Recent advances in generative AI and
+diffusion models have made it possible to generate high-quality images/videos
+and decision trajectories from language description. We formulate the SFC
+optimization as a problem of generating a state sequence for planning and
+perform graph diffusion on the state trajectories to enable extraction of SFC
+decisions, with SFC optimization constraints and objectives as conditions. To
+address the lack of demonstration data due to NP-hardness and exponential
+problem space of the SFC optimization, we also propose a novel and somewhat
+maverick approach -- Rather than solving instances of this difficult
+optimization, we start with randomly-generated solutions as input, and then
+determine appropriate SFC optimization problems that render these solutions
+feasible. This inverse demonstration enables us to obtain sufficient expert
+demonstrations, i.e., problem-solution pairs, through further optimization. In
+our numerical evaluations, the proposed network diffuser outperforms learning
+and heuristic baselines, by $\sim$20\% improvement in SFC reward and $\sim$50\%
+reduction in SFC waiting time and blocking rate.
+
+摘要：網路服務越來越透過考慮串連的虛擬網路功能和相關流量進行管理，稱為服務功能鏈 (SFC)。為了以線上方式處理 SFC 的順序到達，我們必須考慮兩個緊密結合的問題：將 SFC 對應到網路中的伺服器/連結的 SFC 配置問題，以及決定每個 SFC 何時執行的 SFC 排程問題。同時針對這兩個最佳化來解決整個 SFC 問題極具挑戰性。在本文中，我們提出一個使用條件生成模型的創新網路擴散器，用於此 SFC 配置排程最佳化。生成式 AI 和擴散模型的最新進展使得從語言描述中產生高品質的影像/影片和決策軌跡成為可能。我們將 SFC 最佳化制定為產生一個狀態序列的問題，用於規劃，並對狀態軌跡執行圖形擴散，以提取 SFC 決策，並以 SFC 最佳化約束和目標作為條件。為了解決由於 NP 難度和 SFC 最佳化的指數問題空間而導致的示範資料不足，我們也提出一個創新且有點特立獨行的做法：不是解決這個困難最佳化的實例，而是從隨機產生的解作為輸入開始，然後決定適當的 SFC 最佳化問題，讓這些解可行。這個逆向示範讓我們能夠透過進一步最佳化，獲得足夠的專家示範，也就是問題解決配對。在我們的數值評估中，所提出的網路擴散器優於學習和啟發式基準，SFC 獎勵提升了約 20%，SFC 等待時間和封鎖率降低了約 50%。
+
 ##### **FlairGPT: Repurposing LLMs for Interior Designs**
 2501.04648v1 by Gabrielle Littlefair, Niladri Shekhar Dutt, Niloy J. Mitra
 
@@ -164,6 +194,26 @@ capabilities for long source code.
 摘要：大型語言模型 (LLM) 已被提出用於偵測軟體漏洞的強大工具，其中任務特定微調通常用於提供漏洞特定知識給 LLM 以達到此目的。然而，傳統的完整參數微調對於包含數十億個參數的現代複雜 LLM 來說效率低下。
 軟提示微調已被建議作為一般情況下微調 LLM 的更有效替代方案。然而，純軟提示微調將原始碼視為純文字，失去了原始碼中固有的結構資訊。同時，旨在解決此問題的圖形增強軟提示微調方法無法保留程式碼圖形中的豐富語義資訊，因為它們主要設計用於一般的圖形相關任務，且更專注於鄰接資訊。它們也無法在考量圖形文字互動的同時確保運算效率。
 因此，本文介紹了一種新的程式碼圖形增強、結構感知軟提示微調方法來偵測漏洞，稱為 CGP-Tuning。它採用創新的類型感知嵌入來擷取程式碼圖形中的豐富語義資訊，以及一個新穎且有效的跨模態對齊模組，該模組在納入圖形文字互動的同時實現線性運算成本。提議的 CGP-Tuning 在最新的 DiverseVul 資料集和最新的開源程式碼 LLM（CodeLlama 和 CodeGemma）上進行評估。實驗結果證明，CGP-Tuning 在準確度方面平均比最佳的現有技術高出 3.5 個百分點，同時不損害其對長原始碼的漏洞偵測能力。
+
+##### **S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**
+2501.05485v1 by Prashant Verma
+
+Document chunking is a critical task in natural language processing (NLP)
+that involves dividing a document into meaningful segments. Traditional methods
+often rely solely on semantic analysis, ignoring the spatial layout of
+elements, which is crucial for understanding relationships in complex
+documents. This paper introduces a novel hybrid approach that combines layout
+structure, semantic analysis, and spatial relationships to enhance the cohesion
+and accuracy of document chunks. By leveraging bounding box information (bbox)
+and text embeddings, our method constructs a weighted graph representation of
+document elements, which is then clustered using spectral clustering.
+Experimental results demonstrate that this approach outperforms traditional
+methods, particularly in documents with diverse layouts such as reports,
+articles, and multi-column designs. The proposed method also ensures that no
+chunk exceeds a specified token length, making it suitable for use cases where
+token limits are critical (e.g., language models with input size limitations)
+
+摘要：文件分塊是自然語言處理 (NLP) 中的一項關鍵任務，涉及將文件分割成有意義的區塊。傳統方法通常僅依賴語義分析，忽略元素的空間佈局，而這對於理解複雜文件中的關係至關重要。本文介紹一種新穎的混合方法，結合佈局結構、語義分析和空間關係，以增強文件區塊的內聚性和準確性。透過利用邊界框資訊 (bbox) 和文字嵌入，我們的模型建構文件元素的加權圖表表示，然後使用譜聚類進行聚類。實驗結果表明，此方法優於傳統方法，特別是在具有不同佈局的文件中，例如報告、文章和多欄設計。所提出的方法還確保沒有任何區塊超過指定的令牌長度，使其適用於令牌限制至關重要的使用案例（例如，具有輸入大小限制的語言模型）
 
 ##### **Multimodal Graph Constrastive Learning and Prompt for ChartQA**
 2501.04303v1 by Yue Dai, Soyeon Caren Han, Wei Liu
@@ -2502,62 +2552,4 @@ algorithms to ensure their correctness at theoretical and implementation
 levels.
 
 摘要：在過去二十年，Web Ontology Language (OWL) 已在推動本体和知識圖譜的發展中發揮關鍵作用，提供一個增強資料語意整合的結構化架構。然而，這些系統中演繹推理的可靠性仍然具有挑戰性，正如最近比賽中流行的推理機之間的不一致性所證明的那樣。這個證據突顯了當前基於測試的方法的局限性，特別是在醫療保健等高風險領域。為了減輕這些問題，我們在本文中開發了 VEL，一個正式驗證的 EL++ 推理機，配備了機器可檢查的正確性證明，以確保在所有可能的輸入中輸出的有效性。這個形式化，基於 Baader 等人的演算法，已使用 Coq 證明助手的提取功能轉換為可執行的 OCaml 程式碼。我們的形式化揭示了原始完整性證明中的幾個錯誤，這導致了演算法的改變以確保其完整性。我們的作品證明了推理演算法機械化的必要性，以確保它們在理論和實作層面的正確性。
-
-##### **From communities to interpretable network and word embedding: an unified approach**
-2412.08187v1 by Thibault Prouteau, Nicolas Dugué, Simon Guillot
-
-Modelling information from complex systems such as humans social interaction
-or words co-occurrences in our languages can help to understand how these
-systems are organized and function. Such systems can be modelled by networks,
-and network theory provides a useful set of methods to analyze them. Among
-these methods, graph embedding is a powerful tool to summarize the interactions
-and topology of a network in a vectorized feature space. When used in input of
-machine learning algorithms, embedding vectors help with common graph problems
-such as link prediction, graph matching, etc. Word embedding has the goal of
-representing the sense of words, extracting it from large text corpora. Despite
-differences in the structure of information in input of embedding algorithms,
-many graph embedding approaches are adapted and inspired from methods in NLP.
-Limits of these methods are observed in both domains. Most of these methods
-require long and resource greedy training. Another downside to most methods is
-that they are black-box, from which understanding how the information is
-structured is rather complex. Interpretability of a model allows understanding
-how the vector space is structured without the need for external information,
-and thus can be audited more easily. With both these limitations in mind, we
-propose a novel framework to efficiently embed network vertices in an
-interpretable vector space. Our Lower Dimension Bipartite Framework (LDBGF)
-leverages the bipartite projection of a network using cliques to reduce
-dimensionality. Along with LDBGF, we introduce two implementations of this
-framework that rely on communities instead of cliques: SINr-NR and SINr-MF. We
-show that SINr-MF can perform well on classical graphs and SINr-NR can produce
-high-quality graph and word embeddings that are interpretable and stable across
-runs.
-
-摘要：<paragraph>透過模擬人類社交互動或語言中詞彙共現等複雜系統中的資訊，有助於了解這些系統的組織和運作方式。這些系統可以用網路來建模，而網路理論提供了有用的方法集來分析它們。在這些方法中，圖形嵌入是一種強大的工具，可用於在向量化特徵空間中總結網路的交互和拓撲。當用於機器學習演算法的輸入時，嵌入向量有助於常見的圖形問題，例如連結預測、圖形配對等。詞嵌入的目標是表示詞彙的意義，從大型文字語料庫中萃取它。儘管嵌入演算法輸入資訊的結構不同，但許多圖形嵌入方法都是根據自然語言處理中的方法改編和啟發的。在兩個領域中都觀察到這些方法的限制。大多數這些方法需要漫長且耗費資源的訓練。大多數方法的另一個缺點是它們是黑盒子，從中理解資訊如何被結構化相當複雜。模型的可解釋性允許在不需要外部資訊的情況下了解向量空間是如何被結構化的，因此可以更容易地進行稽核。牢記這兩個限制，我們提出了一個新穎的框架，以有效的方式將網路頂點嵌入可解釋的向量空間中。我們的低維二部圖框架 (LDBGF) 利用網路的二部圖投影使用派系來降低維度。除了 LDBGF 之外，我們還介紹了兩個依賴社群而非派系的此框架實作：SINr-NR 和 SINr-MF。我們展示了 SINr-MF 在經典圖形上可以執行良好，而 SINr-NR 可以產生高品質的圖形和詞嵌入，這些嵌入在各次執行中都是可解釋且穩定的。</paragraph>
-
-##### **Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**
-2412.08174v2 by Zihao Li, Lecheng Zheng, Bowen Jin, Dongqi Fu, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han
-
-While great success has been achieved in building vision models with
-Contrastive Language-Image Pre-training (CLIP) over Internet-scale image-text
-pairs, building transferable Graph Neural Networks (GNNs) with CLIP pipeline is
-challenging because of three fundamental issues: the scarcity of labeled data
-and text supervision, different levels of downstream tasks, and the conceptual
-gaps between domains. In this work, to address these issues, we leverage
-multi-modal prompt learning to effectively adapt pre-trained GNN to downstream
-tasks and data, given only a few semantically labeled samples, each with
-extremely weak text supervision. Our new paradigm embeds the graphs directly in
-the same space as the Large Language Models (LLMs) by learning both graph
-prompts and text prompts simultaneously. To accomplish this, we improve
-state-of-the-art graph prompt method, and then propose the first graph-language
-multi-modal prompt learning approach for exploiting the knowledge in
-pre-trained models. Notably, due to the insufficient supervision for
-fine-tuning, in our paradigm, the pre-trained GNN and the LLM are kept frozen,
-so the learnable parameters are much fewer than fine-tuning any pre-trained
-model. Through extensive experiments on real-world datasets, we demonstrate the
-superior performance of our paradigm in few-shot, multi-task-level, and
-cross-domain settings. Moreover, we build the first CLIP-style zero-shot
-classification prototype that can generalize GNNs to unseen classes with
-extremely weak text supervision.
-
-摘要：<paragraph>儘管在使用網際網路規模的影像文字配對進行對比語言影像預訓練 (CLIP) 來建立視覺模型方面取得了巨大的成功，但使用 CLIP 管線建立可轉移圖形神經網路 (GNN) 卻很具挑戰性，原因在於三個根本問題：標記資料和文字監督的稀少性、不同層級的下游任務，以及不同領域之間的概念差距。在這項工作中，為了解決這些問題，我們利用多模態提示學習，在僅有少數語義標記範例的情況下，有效地調整預訓練的 GNN 以適用於下游任務和資料，每個範例都具有極其薄弱的文字監督。我們的新範例將圖形直接嵌入與大型語言模型 (LLM) 相同的空間中，方法是同時學習圖形提示和文字提示。為了達成這個目標，我們改進了最先進的圖形提示方法，然後提出第一個圖形語言多模態提示學習方法，以利用預訓練模型中的知識。值得注意的是，由於微調的監督不足，在我們的範例中，預訓練的 GNN 和 LLM 保持凍結狀態，因此可學習參數遠少於微調任何預訓練模型。透過對真實世界資料集進行廣泛的實驗，我們證明了我們的範例在少樣本、多任務層級和跨領域設定中的卓越效能。此外，我們建立了第一個 CLIP 風格的零樣本分類原型，它可以將 GNN 推廣到具有極其薄弱文字監督的未見類別。</paragraph>
 

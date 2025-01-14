@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
 |**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
 |**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
@@ -11,7 +12,7 @@
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009v1](http://arxiv.org/abs/2412.14009v1)|null|
 |**2024-11-30**|**2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**|Jim Solomon et.al.|[2412.00372v1](http://arxiv.org/abs/2412.00372v1)|null|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
-|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|null|
+|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v2](http://arxiv.org/abs/2411.17645v2)|null|
 |**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
 |**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255v1](http://arxiv.org/abs/2411.10255v1)|null|
 |**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
@@ -101,9 +102,33 @@
 |**2023-12-18**|**Robust Stochastic Graph Generator for Counterfactual Explanations**|Mario Alfonso Prado-Romero et.al.|[2312.11747v2](http://arxiv.org/abs/2312.11747v2)|null|
 |**2023-12-10**|**Evaluating the Utility of Model Explanations for Model Development**|Shawn Im et.al.|[2312.06032v1](http://arxiv.org/abs/2312.06032v1)|null|
 |**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798v1](http://arxiv.org/abs/2312.06798v1)|null|
-|**2023-12-04**|**Class-Discriminative Attention Maps for Vision Transformers**|Lennart Brocki et.al.|[2312.02364v3](http://arxiv.org/abs/2312.02364v3)|null|
 
 #### Abstracts
+##### **MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**
+2501.06887v1 by Sadia Kamal, Tim Oates
+
+As deep learning models gain attraction in medical data, ensuring transparent
+and trustworthy decision-making is essential. In skin cancer diagnosis, while
+advancements in lesion detection and classification have improved accuracy, the
+black-box nature of these methods poses challenges in understanding their
+decision processes, leading to trust issues among physicians. This study
+leverages the CLIP (Contrastive Language-Image Pretraining) model, trained on
+different skin lesion datasets, to capture meaningful relationships between
+visual features and diagnostic criteria terms. To further enhance transparency,
+we propose a method called MedGrad E-CLIP, which builds on gradient-based
+E-CLIP by incorporating a weighted entropy mechanism designed for complex
+medical imaging like skin lesions. This approach highlights critical image
+regions linked to specific diagnostic descriptions. The developed integrated
+pipeline not only classifies skin lesions by matching corresponding
+descriptions but also adds an essential layer of explainability developed
+especially for medical data. By visually explaining how different features in
+an image relates to diagnostic criteria, this approach demonstrates the
+potential of advanced vision-language models in medical image analysis,
+ultimately improving transparency, robustness, and trust in AI-driven
+diagnostic systems.
+
+摘要：随着深度学习模型在医学数据中获得关注，确保透明且值得信赖的决策至关重要。在皮肤癌诊断中，虽然病灶检测和分类的进步提高了准确性，但这些方法的黑盒性质对理解其决策过程构成了挑战，导致医生之间的信任问题。本研究利用在不同皮肤病变数据集上训练的 CLIP（对比语言图像预训练）模型，以捕捉视觉特征和诊断标准术语之间的有意义关系。为了进一步提高透明度，我们提出了一种名为 MedGrad E-CLIP 的方法，该方法通过结合专为皮肤病变等复杂医学影像设计的加权熵机制，建立在基于梯度的 E-CLIP 之上。此方法突出了与特定诊断描述相关联的关键图像区域。开发的集成管道不仅通过匹配相应的描述对皮肤病变进行分类，还添加了一层专门为医学数据开发的基本可解释性。通过直观地解释图像中不同特征与诊断标准的关系，这种方法展示了高级视觉语言模型在医学图像分析中的潜力，最终提高了透明度、稳健性和对人工智能驱动的诊断系统的信任。
+
 ##### **Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**
 2501.02891v1 by Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
 
@@ -350,31 +375,29 @@ essential to align AI development with individual values.
 摘要：<paragraph>了解公眾對人工智慧 (AI) 的認知以及潛在風險與好處之間的權衡至關重要，因為這些認知可能會影響政策決策、影響成功市場策略的創新軌跡，並決定個人和社會對 AI 技術的接受度。本研究使用來自德國的 1100 名參與者的代表性樣本，探討了 AI 的心智模型。參與者對 71 項關於 AI 未來能力的陳述（例如，自動駕駛、醫療保健、藝術、政治、戰爭和社會分歧）進行了定量評估，評估預期的發生可能性、感知風險、好處和整體價值。我們展示了這些預測的排名，並附上視覺化映射，說明了公眾的風險收益權衡。儘管許多場景被認為是可能的，但參與者通常將它們與高風險、有限的好處和低整體價值聯繫起來。在所有場景中，96.4% ($r^2=96.4\%$) 的價值評估差異可以用感知風險 ($\beta=-.504$) 和感知好處 ($\beta=+.710$) 來解釋，與預期的可能性沒有顯著關係。人口統計和人格特質影響了對風險、好處和整體評估的看法，這凸顯了提高 AI 素養和根據不同的使用者需求調整公共資訊的重要性。這些發現通過強調關鍵的公共關注和與個人價值觀一致的 AI 開發必不可少的個人因素，為研究人員、開發人員和政策制定者提供了可行的見解。</paragraph>
 
 ##### **Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**
-2411.17645v1 by Yujie Dai, Brian Sullivan, Axel Montout, Amy Dillon, Chris Waller, Peter Acs, Rachel Denholm, Philip Williams, Alastair D Hay, Raul Santos-Rodriguez, Andrew Dowsey
+2411.17645v2 by Yujie Dai, Brian Sullivan, Axel Montout, Amy Dillon, Chris Waller, Peter Acs, Rachel Denholm, Philip Williams, Alastair D Hay, Raul Santos-Rodriguez, Andrew Dowsey
 
 The use of machine learning and AI on electronic health records (EHRs) holds
 substantial potential for clinical insight. However, this approach faces
-significant challenges due to data heterogeneity, sparsity, temporal
-misalignment, and limited labeled outcomes. In this context, we leverage a
-linked EHR dataset of approximately one million de-identified individuals from
-Bristol, North Somerset, and South Gloucestershire, UK, to characterize urinary
-tract infections (UTIs) and develop predictive models focused on data quality,
-fairness and transparency. A comprehensive data pre-processing and curation
-pipeline transforms the raw EHR data into a structured format suitable for AI
-modeling. Given the limited availability and biases of ground truth UTI
+challenges due to data heterogeneity, sparsity, temporal misalignment, and
+limited labeled outcomes. In this context, we leverage a linked EHR dataset of
+approximately one million de-identified individuals from Bristol, North
+Somerset, and South Gloucestershire, UK, to characterize urinary tract
+infections (UTIs). We implemented a data pre-processing and curation pipeline
+that transforms the raw EHR data into a structured format suitable for
+developing predictive models focused on data fairness, accountability and
+transparency. Given the limited availability and biases of ground truth UTI
 outcomes, we introduce a UTI risk estimation framework informed by clinical
-expertise to estimate UTI risk across individual patient timelines. Using this
-framework, we built pairwise XGBoost models to differentiate UTI risk
-categories with explainable AI techniques to identify key predictors while
-ensuring interpretability. Our findings reveal differences in clinical and
-demographic factors across risk groups, offering insights into UTI risk
-stratification and progression. This study demonstrates the added value of
-AI-driven insights into UTI clinical decision-making while prioritizing
-interpretability, transparency, and fairness, underscoring the importance of
-sound data practices in advancing health outcomes.
+expertise to estimate UTI risk across individual patient timelines. Pairwise
+XGBoost models are trained using this framework to differentiate UTI risk
+categories with explainable AI techniques applied to identify key predictors
+and support interpretability. Our findings reveal differences in clinical and
+demographic predictors across risk groups. While this study highlights the
+potential of AI-driven insights to support UTI clinical decision-making,
+further investigation of patient sub-strata and extensive validation are needed
+to ensure robustness and applicability in clinical practice.
 
-摘要：機器學習和人工智慧在電子健康紀錄 (EHR) 上的應用具有
-臨床見解的巨大潛力。然而，這種方法由於資料異質性、稀疏性、時間錯位和標記結果有限，因此面臨重大挑戰。在此背景下，我們利用來自英國布里斯托、北薩默塞特郡和南格洛斯特郡的大約一百萬名去識別化個人的連結式 EHR 資料集，以描述泌尿道感染 (UTI) 並開發專注於資料品質、公平性和透明度的預測模型。全面的資料前處理和整理管道將原始 EHR 資料轉換為適合 AI 建模的結構化格式。鑑於實際 UTI 結果的可用性有限和偏見，我們引入了一個由臨床專業知識提供資訊的 UTI 風險評估架構，以估計個人患者時間線上的 UTI 風險。使用此架構，我們建立了成對的 XGBoost 模型，以區分 UTI 風險類別，並使用可解釋的 AI 技術來識別關鍵預測因子，同時確保可解釋性。我們的研究結果揭示了不同風險群組的臨床和人口統計因素的差異，提供了對 UTI 風險分層和進展的見解。本研究展示了 AI 驅動的見解在 UTI 臨床決策中的附加價值，同時優先考慮可解釋性、透明度和公平性，強調了健全資料實務在促進健康結果中的重要性。
+摘要：電子健康紀錄 (EHR) 中機器學習和 AI 的使用對於臨床見解具有相當大的潛力。然而，由於資料異質性、稀疏性、時間錯位和標籤結果有限，此方法面臨挑戰。在此背景下，我們利用來自英國布里斯托、北薩默塞特和南格洛斯特郡約一百萬名去識別個人連結的 EHR 資料集，來描述尿路感染 (UTI)。我們實施了將原始 EHR 資料轉換為結構化格式的資料前處理和整理管線，適合開發專注於資料公平性、問責制和透明度的預測模型。鑑於 UTI 真實結果的可用性有限和偏差，我們引入了由臨床專業知識告知的 UTI 風險評估架構，以估計個別患者時間軸上的 UTI 風險。成對的 XGBoost 模型使用此架構進行訓練，以區分 UTI 風險類別，並應用可解釋的 AI 技術來識別關鍵預測因子並支持可解釋性。我們的研究結果揭示了不同風險群組在臨床和人口統計預測因子上的差異。雖然這項研究強調了 AI 驅動見解在支援 UTI 臨床決策制定方面的潛力，但仍需要進一步調查患者子群體和廣泛驗證，以確保在臨床實務中的穩健性和適用性。
 
 ##### **Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**
 2411.11774v1 by Jeffrey N. Clark, Matthew Wragg, Emily Nielsen, Miquel Perello-Nieto, Nawid Keshtmand, Michael Ambler, Shiv Sharma, Christopher P. Bourdeaux, Amberly Brigden, Raul Santos-Rodriguez
@@ -2699,32 +2722,4 @@ knowledge within a NeuroSymbolic framework to shed light on the challenges
 associated with LLMs.
 
 摘要：可解釋性和安全性建立信任。這些需要一個模型來展示一致性和可靠性。為了實現這些，有必要使用和分析數據和知識，並使用與 AI 應用相關的統計和符號 AI 方法 - 單獨使用任何一種方法都不會奏效。因此，我們主張並試圖證明 NeuroSymbolic AI 方法更適合於使 AI 成為受信任的 AI 系統。我們提出了 CREST 框架，展示了一致性、可靠性、使用者層級的可解釋性和安全性是如何建立在 NeuroSymbolic 方法上的，該方法使用數據和知識來支持關鍵應用（例如健康和福祉）的要求。本文重點關注大型語言模型 (LLM)，因為它是 CREST 框架中選擇的 AI 系統。LLM 因其在處理廣泛的自然語言處理 (NLP) 場景方面的多功能性而備受研究人員的關注。例如，ChatGPT 和 Google 的 MedPaLM 已成為提供一般和健康相關查詢信息的極有希望的平台。儘管如此，這些模型仍然是黑盒子，儘管納入了人類反饋和指令引導的調整。例如，儘管制定了安全防護措施，ChatGPT 仍可能產生不安全的回應。CREST 提出了一種合理的方法，在 NeuroSymbolic 框架中利用程序和基於圖表的知識，以闡明與 LLM 相關的挑戰。
-
-##### **Class-Discriminative Attention Maps for Vision Transformers**
-2312.02364v3 by Lennart Brocki, Jakub Binda, Neo Christopher Chung
-
-Importance estimators are explainability methods that quantify feature
-importance for deep neural networks (DNN). In vision transformers (ViT), the
-self-attention mechanism naturally leads to attention maps, which are sometimes
-interpreted as importance scores that indicate which input features ViT models
-are focusing on. However, attention maps do not account for signals from
-downstream tasks. To generate explanations that are sensitive to downstream
-tasks, we have developed class-discriminative attention maps (CDAM), a
-gradient-based extension that estimates feature importance with respect to a
-known class or a latent concept. CDAM scales attention scores by how relevant
-the corresponding tokens are for the predictions of a classifier head. In
-addition to targeting the supervised classifier, CDAM can explain an arbitrary
-concept shared by selected samples by measuring similarity in the latent space
-of ViT. Additionally, we introduce Smooth CDAM and Integrated CDAM, which
-average a series of CDAMs with slightly altered tokens. Our quantitative
-benchmarks include correctness, compactness, and class sensitivity, in
-comparison to 7 other importance estimators. Vanilla, Smooth, and Integrated
-CDAM excel across all three benchmarks. In particular, our results suggest that
-existing importance estimators may not provide sufficient class-sensitivity. We
-demonstrate the utility of CDAM in medical images by training and explaining
-malignancy and biomarker prediction models based on lung Computed Tomography
-(CT) scans. Overall, CDAM is shown to be highly class-discriminative and
-semantically relevant, while providing compact explanations.
-
-摘要：<paragraph>重要性估計器是一種可解釋性方法，用於量化深度神經網路 (DNN) 的特徵重要性。在視覺Transformer (ViT) 中，自我注意機制自然會導致注意力圖，有時會將其解釋為重要性分數，表示 ViT 模型關注哪些輸入特徵。然而，注意力圖並未考慮來自下游任務的信號。為了產生對下游任務敏感的解釋，我們開發了類別區分注意力圖 (CDAM)，這是一種基於梯度的擴充，用於估計相對於已知類別或潛在概念的特徵重要性。CDAM 根據對應的符號與分類器頭的預測相關程度，調整注意力分數。除了針對監督分類器外，CDAM 還可以通過測量 ViT 的潛在空間中的相似性來解釋選定樣本共有的任意概念。此外，我們引入了平滑 CDAM 和積分 CDAM，它們對一系列具有略微改變的符號的 CDAM 進行平均。我們的量化基準包括正確性、緊湊性和類別敏感性，與其他 7 個重要性估計器相比。香草、平滑和積分 CDAM 在所有三個基準中表現出色。特別是，我們的結果表明現有的重要性估計器可能無法提供足夠的類別敏感性。我們通過基於肺部電腦斷層掃描 (CT) 掃描訓練和解釋惡性腫瘤和生物標記預測模型，證明了 CDAM 在醫學影像中的效用。總的來說，CDAM 被證明具有高度類別區分性和語義相關性，同時提供簡潔的解釋。</paragraph>
 

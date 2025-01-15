@@ -2,9 +2,14 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120v1](http://arxiv.org/abs/2501.08120v1)|null|
+|**2025-01-14**|**Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**|Haoyu Han et.al.|[2501.07845v1](http://arxiv.org/abs/2501.07845v1)|null|
+|**2025-01-14**|**Flow: A Modular Approach to Automated Agentic Workflow Generation**|Boye Niu et.al.|[2501.07834v1](http://arxiv.org/abs/2501.07834v1)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766v1](http://arxiv.org/abs/2501.07766v1)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639v1](http://arxiv.org/abs/2501.07639v1)|null|
 |**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078v1](http://arxiv.org/abs/2501.07078v1)|[link](https://github.com/csjywu1/adkgd)|
 |**2025-01-12**|**Causal Claims in Economics**|Prashant Garg et.al.|[2501.06873v1](http://arxiv.org/abs/2501.06873v1)|null|
-|**2025-01-12**|**MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**|Tianyu Fan et.al.|[2501.06713v1](http://arxiv.org/abs/2501.06713v1)|[link](https://github.com/hkuds/minirag)|
+|**2025-01-12**|**MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**|Tianyu Fan et.al.|[2501.06713v2](http://arxiv.org/abs/2501.06713v2)|[link](https://github.com/hkuds/minirag)|
 |**2025-01-12**|**Large Language Models, Knowledge Graphs and Search Engines: A Crossroads for Answering Users' Questions**|Aidan Hogan et.al.|[2501.06699v1](http://arxiv.org/abs/2501.06699v1)|null|
 |**2025-01-11**|**Quantifying Relational Exploration in Cultural Heritage Knowledge Graphs with LLMs: A Neuro-Symbolic Approach**|Mohammed Maree et.al.|[2501.06628v1](http://arxiv.org/abs/2501.06628v1)|null|
 |**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465v1](http://arxiv.org/abs/2501.06465v1)|null|
@@ -97,13 +102,128 @@
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026v1](http://arxiv.org/abs/2412.11026v1)|null|
 |**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982v2](http://arxiv.org/abs/2412.10982v2)|null|
 |**2024-12-14**|**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**|Xue Wu et.al.|[2412.10654v1](http://arxiv.org/abs/2412.10654v1)|null|
-|**2024-12-13**|**WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models**|Runsheng "Anson" Huang et.al.|[2412.10582v2](http://arxiv.org/abs/2412.10582v2)|null|
-|**2024-12-13**|**A Decade of Deep Learning: A Survey on The Magnificent Seven**|Dilshod Azizov et.al.|[2412.16188v1](http://arxiv.org/abs/2412.16188v1)|null|
-|**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136v1](http://arxiv.org/abs/2412.10136v1)|[link](https://github.com/zehong-wang/tans)|
-|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079v1](http://arxiv.org/abs/2412.10079v1)|[link](https://github.com/spongeorge/long-context-multihop)|
-|**2024-12-13**|**Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**|Yanxu Mao et.al.|[2412.09922v1](http://arxiv.org/abs/2412.09922v1)|null|
 
 #### Abstracts
+##### **In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**
+2501.08120v1 by Markus J. Buehler
+
+The pursuit of automated scientific discovery has fueled progress from
+symbolic logic to modern AI, forging new frontiers in reasoning and pattern
+recognition. Transformers function as potential systems, where every possible
+relationship remains latent potentiality until tasks impose constraints, akin
+to measurement. Yet, refining their sampling requires more than probabilistic
+selection: solutions must conform to specific structures or rules, ensuring
+consistency and the invocation of general principles. We present
+Graph-PReFLexOR (Graph-based Preference-based Recursive Language Modeling for
+Exploratory Optimization of Reasoning), a framework that combines graph
+reasoning with symbolic abstraction to dynamically expand domain knowledge.
+Inspired by reinforcement learning, Graph-PReFLexOR defines reasoning as a
+structured mapping, where tasks yield knowledge graphs, abstract patterns, and
+ultimately, final answers. Inspired by category theory, it encodes concepts as
+nodes and their relationships as edges, supporting hierarchical inference and
+adaptive learning through isomorphic representations. Demonstrations include
+hypothesis generation, materials design, and creative reasoning, such as
+discovering relationships between mythological concepts like 'thin places' with
+materials science. We propose a 'knowledge garden growth' strategy that
+integrates insights across domains, promoting interdisciplinary connections.
+Results with a 3-billion-parameter Graph-PReFLexOR model show superior
+reasoning depth and adaptability, underscoring the potential for transparent,
+multidisciplinary AI-driven discovery. It lays the groundwork for general
+autonomous reasoning solutions.
+
+摘要：<paragraph>追求自動化科學發現已經推動了從符號邏輯到現代 AI 的進展，在推理和模式識別中開闢了新的領域。Transformer 作為潛在系統運作，其中每種可能的關係都保持潛在潛力，直到任務施加約束，類似於測量。然而，優化其採樣需要的不只是機率選擇：解決方案必須符合特定結構或規則，以確保一致性並呼應一般原則。我們提出了 Graph-PReFLexOR（基於圖形的基於偏好的遞迴語言建模，用於推理的探索性優化），一個將圖形推理與符號抽象相結合以動態擴展領域知識的框架。受強化學習的啟發，Graph-PReFLexOR 將推理定義為結構化對應，任務產生知識圖形、抽象模式以及最終答案。受範疇論的啟發，它將概念編碼為節點，將它們的關係編碼為邊緣，通過同構表示支持階層式推論和自適應學習。示範包括假設生成、材料設計和創造性推理，例如發現神話概念（如「薄弱點」）與材料科學之間的關係。我們提出了一種「知識花園成長」策略，它整合了跨領域的見解，促進了跨學科的聯繫。使用 30 億參數 Graph-PReFLexOR 模型的結果顯示出優異的推理深度和適應性，強調了透明、多學科 AI 驅動發現的潛力。它為通用的自主推理解決方案奠定了基礎。</paragraph>
+
+##### **Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**
+2501.07845v1 by Haoyu Han, Yaochen Xie, Hui Liu, Xianfeng Tang, Sreyashi Nag, William Headden, Hui Liu, Yang Li, Chen Luo, Shuiwang Ji, Qi He, Jiliang Tang
+
+Large language models (LLMs) have demonstrated remarkable success across a
+wide range of tasks; however, they still encounter challenges in reasoning
+tasks that require understanding and inferring relationships between distinct
+pieces of information within text sequences. This challenge is particularly
+pronounced in tasks involving multi-step processes, such as logical reasoning
+and multi-hop question answering, where understanding implicit relationships
+between entities and leveraging multi-hop connections in the given context are
+crucial. Graphs, as fundamental data structures, explicitly represent pairwise
+relationships between entities, thereby offering the potential to enhance LLMs'
+reasoning capabilities. External graphs have proven effective in supporting
+LLMs across multiple tasks. However, in many reasoning tasks, no pre-existing
+graph structure is provided. Can we structure implicit knowledge derived from
+context into graphs to assist LLMs in reasoning? In this paper, we propose
+Reasoning with Graphs (RwG) by first constructing explicit graphs from the
+context and then leveraging these graphs to enhance LLM reasoning performance
+on reasoning tasks. Extensive experiments demonstrate the effectiveness of the
+proposed method in improving both logical reasoning and multi-hop question
+answering tasks.
+
+摘要：大型語言模型 (LLM) 已在各種任務中展現出顯著的成功；然而，它們在推理任務中仍會遇到挑戰，這些任務需要理解和推論文字序列中不同資訊片段之間的關係。這個挑戰在涉及多步驟程序的任務中特別明顯，例如邏輯推理和多跳問題解答，其中理解實體之間的隱含關係並利用給定脈絡中的多跳連接至關重要。圖形作為基本的資料結構，明確表示實體之間成對的關係，從而提供增強 LLM 推理能力的潛力。外部圖形已被證明可以有效支援 LLM 執行多項任務。然而，在許多推理任務中，並沒有提供預先存在的圖形結構。我們能將從脈絡中衍生的隱含知識結構成圖形，以協助 LLM 進行推理嗎？在本文中，我們提出使用圖形進行推理 (RwG)，方法是首先從脈絡中建構明確的圖形，然後利用這些圖形來增強 LLM 在推理任務中的推理效能。廣泛的實驗證明了所提出的方法在改進邏輯推理和多跳問題解答任務方面的有效性。
+
+##### **Flow: A Modular Approach to Automated Agentic Workflow Generation**
+2501.07834v1 by Boye Niu, Yiliao Song, Kai Lian, Yifan Shen, Yu Yao, Kun Zhang, Tongliang Liu
+
+Multi-agent frameworks powered by large language models (LLMs) have
+demonstrated great success in automated planning and task execution. However,
+the effective adjustment of Agentic workflows during execution has not been
+well-studied. A effective workflow adjustment is crucial, as in many real-world
+scenarios, the initial plan must adjust to unforeseen challenges and changing
+conditions in real-time to ensure the efficient execution of complex tasks. In
+this paper, we define workflows as an activity-on-vertex (AOV) graphs. We
+continuously refine the workflow by dynamically adjusting task allocations
+based on historical performance and previous AOV with LLM agents. To further
+enhance system performance, we emphasize modularity in workflow design based on
+measuring parallelism and dependence complexity. Our proposed multi-agent
+framework achieved efficient sub-task concurrent execution, goal achievement,
+and error tolerance. Empirical results across different practical tasks
+demonstrate dramatic improvements in the efficiency of multi-agent frameworks
+through dynamic workflow updating and modularization.
+
+摘要：大型語言模型（LLM）驅動的多代理架構已在自動化規劃和任務執行中展現出巨大的成功。然而，在執行期間有效調整代理工作流程尚未得到充分研究。有效的工作流程調整至關重要，因為在許多實際場景中，初始計畫必須即時調整以應對無法預見的挑戰和不斷變化的條件，以確保複雜任務的有效執行。在本文中，我們將工作流程定義為頂點上的活動（AOV）圖形。我們根據歷史績效和先前的 AOV 與 LLM 代理，透過動態調整任務分配，持續優化工作流程。為了進一步提升系統效能，我們強調基於測量並行性和依賴複雜性的工作流程設計中的模組化。我們提出的多代理架構達到了有效子任務並行執行、目標達成和容錯。跨不同實際任務的實證結果證明，透過動態工作流程更新和模組化，多代理架構的效率有了顯著的提升。
+
+##### **Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**
+2501.07766v1 by Bingchen Liu, Xin Li
+
+Large Language Models (LLMs) have attracted a lot of attention in various
+fields due to their superior performance, aiming to train hundreds of millions
+or more parameters on large amounts of text data to understand and generate
+natural language. As the superior performance of LLMs becomes apparent, they
+are increasingly being applied to knowledge graph embedding (KGE) related tasks
+to improve the processing results. As a deep learning model in the field of
+Natural Language Processing (NLP), it learns a large amount of textual data to
+predict the next word or generate content related to a given text. However,
+LLMs have recently been invoked to varying degrees in different types of KGE
+related scenarios such as multi-modal KGE and open KGE according to their task
+characteristics. In this paper, we investigate a wide range of approaches for
+performing LLMs-related tasks in different types of KGE scenarios. To better
+compare the various approaches, we summarize each KGE scenario in a
+classification. In addition to the categorization methods, we provide a tabular
+overview of the methods and their source code links for a more direct
+comparison. In the article we also discuss the applications in which the
+methods are mainly used and suggest several forward-looking directions for the
+development of this new research area.
+
+摘要：大型語言模型 (LLM) 由於其優異的性能，在各個領域中引起了許多關注，目標是訓練數億或更多參數，以理解和產生大量文本資料中的自然語言。隨著 LLM 優異性能的顯現，它們正越來越廣泛地應用於知識圖譜嵌入 (KGE) 相關任務，以改善處理結果。作為自然語言處理 (NLP) 領域中的深度學習模型，它學習大量的文本資料，以預測下一個單字或產生與給定文本相關的內容。然而，根據任務特性，LLM 最近已在不同類型的 KGE 相關場景（例如多模態 KGE 和開放式 KGE）中以不同程度被採用。在本文中，我們探討了在不同類型的 KGE 場景中執行與 LLM 相關任務的各種方法。為了更好地比較各種方法，我們在分類中總結了每個 KGE 場景。除了分類方法之外，我們還提供了方法及其原始碼連結的表格概觀，以便進行更直接的比較。在本文中，我們還討論了這些方法主要用於哪些應用，並建議了幾個這個新研究領域發展的前瞻性方向。
+
+##### **SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**
+2501.07639v1 by Fabien Bernier, Jun Cao, Maxime Cordy, Salah Ghamizi
+
+Efficiently solving Optimal Power Flow (OPF) problems in power systems is
+crucial for operational planning and grid management. There is a growing need
+for scalable algorithms capable of handling the increasing variability,
+constraints, and uncertainties in modern power networks while providing
+accurate and fast solutions. To address this, machine learning techniques,
+particularly Graph Neural Networks (GNNs) have emerged as promising approaches.
+This letter introduces SafePowerGraph-LLM, the first framework explicitly
+designed for solving OPF problems using Large Language Models (LLM)s. The
+proposed approach combines graph and tabular representations of power grids to
+effectively query LLMs, capturing the complex relationships and constraints in
+power systems. A new implementation of in-context learning and fine-tuning
+protocols for LLMs is introduced, tailored specifically for the OPF problem.
+SafePowerGraph-LLM demonstrates reliable performances using off-the-shelf LLM.
+Our study reveals the impact of LLM architecture, size, and fine-tuning and
+demonstrates our framework's ability to handle realistic grid components and
+constraints.
+
+摘要：在電力系統中有效解決最佳電力流 (OPF) 問題對於運營規劃和電網管理至關重要。對於能夠處理現代電力網路中日益增加的可變性、約束和不確定性的可擴充演算法，同時提供準確且快速的解決方案，需求與日俱增。為了解決此問題，機器學習技術，特別是圖神經網路 (GNN) 已成為有前景的方法。本信介紹了 SafePowerGraph-LLM，這是第一個明確設計用於使用大型語言模型 (LLM) 解決 OPF 問題的框架。所提出的方法結合了電力網路的圖形和表格表示，以有效查詢 LLM，捕捉電力系統中的複雜關係和約束。引入了針對 LLM 的情境學習和微調協定的新實作，專門針對 OPF 問題量身打造。SafePowerGraph-LLM 使用現成的 LLM 展示了可靠的效能。我們的研究揭示了 LLM 架構、大小和微調的影響，並展示了我們的框架處理現實電網組成和約束的能力。
+
 ##### **ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**
 2501.07078v1 by Jiayang Wu, Wensheng Gan, Jiahao Zhang, Philip S. Yu
 
@@ -162,7 +282,7 @@ into established economic discourse.
 摘要：<paragraph>我們使用自訂語言模型分析了 1980 年至 2023 年超過 44,000 份 NBER 和 CEPR 工作論文，以建構知識圖譜，對經濟概念及其關係進行對應。我們區分一般性論述和透過因果推論方法（例如 DiD、IV、RDD、RCT）記錄的論述。我們記錄到因果論述的份額大幅上升，從 1990 年的約 4% 上升到 2020 年的近 28%，反映了「可信度革命」的影響力日益增強。我們發現因果敘述的複雜性（例如因果鏈的深度）強烈預測了在頂尖 5 大期刊的發表和較高的引用次數，而非因果複雜性則往往與這些結果無關或呈負相關。新穎性對於頂尖 5 大期刊的發表也至關重要，但前提是建立在可信的因果方法的基礎上：引入真正新的因果邊緣或路徑顯著增加了在頂尖媒體上被接受的可能性和長期引用，而非因果新穎性則表現出微弱甚至負面的影響。探討中心、廣泛認可的概念的論文往往會吸引更多引用，突顯出推動發表成功和長期學術影響的因素之間的差異。最後，填補探索不足的概念對時，主要是建立在因果方法的基礎上，但這種差距填補並未表現出與未來引用的一致關聯。總的來說，我們的研究結果表明，方法論嚴謹性和因果創新是學術認可的主要驅動力，但持續的影響可能需要平衡新穎貢獻與融入既定的經濟論述中的概念整合。</paragraph>
 
 ##### **MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**
-2501.06713v1 by Tianyu Fan, Jingyuan Wang, Xubin Ren, Chao Huang
+2501.06713v2 by Tianyu Fan, Jingyuan Wang, Xubin Ren, Chao Huang
 
 The growing demand for efficient and lightweight Retrieval-Augmented
 Generation (RAG) systems has highlighted significant challenges when deploying
@@ -184,7 +304,7 @@ lightweight RAG systems under realistic on-device scenarios with complex
 queries. We fully open-source our implementation and datasets at:
 https://github.com/HKUDS/MiniRAG.
 
-摘要：對於高效且輕量的檢索增強生成 (RAG) 系統日益增長的需求，在現有 RAG 架構中部署小型語言模型 (SLM) 時突顯了重大的挑戰。由於 SLM 受限的語義理解和文本處理能力，當前方法面臨嚴重的效能下降，這為在資源受限的場景中廣泛採用造成了障礙。為了解決這些根本限制，我們提出了 MiniRAG，這是一個專為極致簡潔與效率而設計的新穎 RAG 系統。MiniRAG 引入了兩項關鍵技術創新：(1) 結合文本塊和命名實體於統一結構中的語義感知異質圖形索引機制，減少對複雜語義理解的依賴，以及 (2) 輕量級拓撲增強檢索方法，它利用圖形結構進行有效率的知識發現，而不需要進階的語言能力。我們廣泛的實驗證明，即使在使用 SLM 時，MiniRAG 也能達到與基於 LLM 的方法相當的效能，同時僅需要 25% 的儲存空間。此外，我們貢獻了一個全面的基準資料集，用於在具有複雜查詢的實際裝置場景下評估輕量級 RAG 系統。我們在以下位置完全開放原始碼實作和資料集：https://github.com/HKUDS/MiniRAG。
+摘要：隨著對高效且輕量化的檢索增強生成 (RAG) 系統需求的增長，在現有 RAG 架構中部署小型語言模型 (SLM) 時突顯了重大挑戰。由於 SLM 的語義理解和文字處理能力有限，目前的做法面臨嚴重的效能下降，為在資源受限的情況下廣泛採用製造了障礙。為了解決這些根本性的限制，我們提出了 MiniRAG，這是一個專為極致簡潔和效率而設計的新型 RAG 系統。MiniRAG 導入了兩項關鍵技術創新：(1) 一種語義感知異質圖形索引機制，它將文字區塊和命名實體結合在一個統一的結構中，減少了對複雜語義理解的依賴，以及 (2) 一種輕量級拓撲增強檢索方法，它利用圖形結構進行有效率的知識發現，而不需要進階的語言能力。我們廣泛的實驗證明，即使在使用 SLM 時，MiniRAG 也能達到與基於 LLM 的方法相當的效能，同時只需要 25% 的儲存空間。此外，我們提供了一個全面的基準資料集，用於在具有複雜查詢的實際裝置情況下評估輕量級 RAG 系統。我們在 https://github.com/HKUDS/MiniRAG 上完全開源我們的實作和資料集。
 
 ##### **Large Language Models, Knowledge Graphs and Search Engines: A Crossroads for Answering Users' Questions**
 2501.06699v1 by Aidan Hogan, Xin Luna Dong, Denny Vrandečić, Gerhard Weikum
@@ -2457,126 +2577,4 @@ accurate and interpretable reasoning processes, paving the way for more
 advanced reasoning capabilities of LLMs.
 
 摘要：大型語言模型 (LLM) 在自然語言理解和生成方面展現了非凡的能力。然而，它們經常在複雜的推理任務中掙扎，並且容易出現幻覺。最近的研究顯示出利用知識圖譜 (KG) 來增強 LLM 效能的良好結果。KG 提供實體及其關係的結構化表示，提供了豐富的資訊來源，可以增強 LLM 的推理能力。對於這項工作，我們開發了不同的技術，將 KG 結構和語義緊密整合到 LLM 表示中。我們的結果表明，我們能夠顯著提升 LLM 在複雜推理場景中的效能，並以 KG 為基礎進行推理過程。我們是第一個使用程式語言表示 KG，並使用 KG 微調預訓練 LLM 的人。這種整合有助於更準確且可解釋的推理過程，為 LLM 更先進的推理能力鋪路。
-
-##### **WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models**
-2412.10582v2 by Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch
-
-WHAT-IF -- Writing a Hero's Alternate Timeline through Interactive Fiction --
-is a system that uses zero-shot meta-prompting to create branching narratives
-from a prewritten story. Played as an interactive fiction (IF) game, WHAT-IF
-lets the player choose between decisions that the large language model (LLM)
-GPT-4 generates as possible branches in the story. Starting with an existing
-linear plot as input, a branch is created at each key decision taken by the
-main character. By meta-prompting the LLM to consider the major plot points
-from the story, the system produces coherent and well-structured alternate
-storylines. WHAT-IF stores the branching plot tree in a graph which helps it to
-both keep track of the story for prompting and maintain the structure for the
-final IF system. A video demo of our system can be found here:
-https://youtu.be/8vBqjqtupcc.
-
-摘要：WHAT-IF——透過互動小說撰寫英雄的另類時間線——
-是一個使用零次提示來建立從預先撰寫的故事分歧敘事的系統。以互動小說 (IF) 遊戲的方式遊玩，WHAT-IF
-讓玩家在大型語言模型 (LLM)
-GPT-4 產生的故事中可能的支線中選擇決定。從現有的線性情節作為輸入開始，在主要角色做出的每個關鍵決定中產生一個支線。透過元提示 LLM 考量故事中的主要情節，系統產生連貫且結構良好的另類故事線。WHAT-IF 將分歧情節樹儲存在圖形中，這有助於它同時追蹤故事以提示和維護最終 IF 系統的結構。我們系統的影片示範可以在這裡找到：
-https://youtu.be/8vBqjqtupcc。
-
-##### **A Decade of Deep Learning: A Survey on The Magnificent Seven**
-2412.16188v1 by Dilshod Azizov, Muhammad Arslan Manzoor, Velibor Bojkovic, Yingxu Wang, Zixiao Wang, Zangir Iklassov, Kailong Zhao, Liang Li, Siwei Liu, Yu Zhong, Wei Liu, Shangsong Liang
-
-Deep learning has fundamentally reshaped the landscape of artificial
-intelligence over the past decade, enabling remarkable achievements across
-diverse domains. At the heart of these developments lie multi-layered neural
-network architectures that excel at automatic feature extraction, leading to
-significant improvements in machine learning tasks. To demystify these advances
-and offer accessible guidance, we present a comprehensive overview of the most
-influential deep learning algorithms selected through a broad-based survey of
-the field. Our discussion centers on pivotal architectures, including Residual
-Networks, Transformers, Generative Adversarial Networks, Variational
-Autoencoders, Graph Neural Networks, Contrastive Language-Image Pre-training,
-and Diffusion models. We detail their historical context, highlight their
-mathematical foundations and algorithmic principles, and examine subsequent
-variants, extensions, and practical considerations such as training
-methodologies, normalization techniques, and learning rate schedules. Beyond
-historical and technical insights, we also address their applications,
-challenges, and potential research directions. This survey aims to serve as a
-practical manual for both newcomers seeking an entry point into cutting-edge
-deep learning methods and experienced researchers transitioning into this
-rapidly evolving domain.
-
-摘要：深度學習在過去十年中從根本上重塑了人工智慧的格局，在各個領域取得了顯著的成就。這些發展的核心是多層神經網路架構，它擅長自動特徵提取，從而顯著改進機器學習任務。為了揭開這些進步的神秘面紗並提供易於理解的指導，我們對通過廣泛的領域調查所選出的最有影響力的深度學習演算法進行了全面的概述。我們的討論集中在關鍵架構上，包括殘差網路、Transformer、生成對抗網路、變異自動編碼器、圖神經網路、對比語言影像預訓練和擴散模型。我們詳細說明了它們的歷史背景，重點介紹了它們的數學基礎和演算法原理，並探討了後續的變體、擴充和實務考量，例如訓練方法、正規化技術和學習率規劃。除了歷史和技術見解之外，我們還探討了它們的應用、挑戰和潛在的研究方向。本調查旨在作為一本實務手冊，既適合尋求進入尖端深度學習方法的新手，也適合轉型到這個快速發展領域的經驗豐富的研究人員。
-
-##### **Can LLMs Convert Graphs to Text-Attributed Graphs?**
-2412.10136v1 by Zehong Wang, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye
-
-Graphs are ubiquitous data structures found in numerous real-world
-applications, such as drug discovery, recommender systems, and social network
-analysis. Graph neural networks (GNNs) have become a popular tool to learn node
-embeddings through message passing on these structures. However, a significant
-challenge arises when applying GNNs to multiple graphs with different feature
-spaces, as existing GNN architectures are not designed for cross-graph feature
-alignment. To address this, recent approaches introduce text-attributed graphs,
-where each node is associated with a textual description, enabling the use of a
-shared textual encoder to project nodes from different graphs into a unified
-feature space. While promising, this method relies heavily on the availability
-of text-attributed data, which can be difficult to obtain in practice. To
-bridge this gap, we propose a novel method named Topology-Aware Node
-description Synthesis (TANS), which leverages large language models (LLMs) to
-automatically convert existing graphs into text-attributed graphs. The key idea
-is to integrate topological information with each node's properties, enhancing
-the LLMs' ability to explain how graph topology influences node semantics. We
-evaluate our TANS on text-rich, text-limited, and text-free graphs,
-demonstrating that it enables a single GNN to operate across diverse graphs.
-Notably, on text-free graphs, our method significantly outperforms existing
-approaches that manually design node features, showcasing the potential of LLMs
-for preprocessing graph-structured data, even in the absence of textual
-information. The code and data are available at
-https://github.com/Zehong-Wang/TANS.
-
-摘要：圖形是普遍存在於許多真實世界應用中的資料結構，例如藥物發現、推薦系統和社交網路分析。圖形神經網路 (GNN) 已成為一種流行的工具，可透過在這些結構上傳遞訊息來學習節點嵌入。然而，當將 GNN 應用於具有不同特徵空間的多個圖形時，會出現一個重大的挑戰，因為現有的 GNN 架構並非設計用於跨圖形特徵對齊。為了解決這個問題，最近的方法引入了文字屬性圖形，其中每個節點都與文字描述相關聯，從而可以使用共用文字編碼器將來自不同圖形的節點投影到統一的特徵空間中。儘管有希望，但此方法在很大程度上依賴於文字屬性資料的可用性，這在實務上可能難以取得。為了彌補這個差距，我們提出了一種名為拓撲感知節點描述合成 (TANS) 的新方法，該方法利用大型語言模型 (LLM) 將現有圖形自動轉換為文字屬性圖形。其關鍵思想是將拓撲資訊與每個節點的屬性整合在一起，增強 LLM 解釋圖形拓撲如何影響節點語義的能力。我們在文字豐富、文字受限和無文字圖形上評估我們的 TANS，證明它能讓單一 GNN 在不同的圖形中運作。值得注意的是，在無文字圖形上，我們的模型顯著優於手動設計節點特徵的現有方法，展示了 LLM 在預處理圖形結構資料方面的潛力，即使在沒有文字資訊的情況下也是如此。程式碼和資料可在 https://github.com/Zehong-Wang/TANS 取得。
-
-##### **Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**
-2412.10079v1 by George Arthur Baker, Ankush Raut, Sagi Shaier, Lawrence E Hunter, Katharina von der Wense
-
-Previous work finds that recent long-context language models fail to make
-equal use of information in the middle of their inputs, preferring pieces of
-information located at the tail ends which creates an undue bias in situations
-where we would like models to be equally capable of using different parts of
-the input. Thus far, the problem has mainly only been considered in settings
-with single pieces of critical information, leading us to question what happens
-when multiple necessary pieces of information are spread out over the inputs.
-Here, we demonstrate the effects of the "lost in the middle" problem in the
-multi-hop question answering setting -- in which multiple reasoning "hops" over
-disconnected documents are required -- and show that performance degrades not
-only with respect to the distance of information from the edges of the context,
-but also between pieces of information. Additionally, we experiment with means
-of alleviating the problem by reducing superfluous document contents through
-knowledge graph triple extraction and summarization, and prompting models to
-reason more thoroughly using chain-of-thought prompting.
-
-摘要：先前的研究發現，最近的長語境語言模型無法平均利用其輸入中段的資訊，偏好位於尾端的資訊片段，這會造成不當的偏差，在我們希望模型能平均使用輸入不同部分的情況下。到目前為止，這個問題主要只在具有單一關鍵資訊片段的設定中被考慮，導致我們質疑當多個必要的資訊片段散佈在輸入中時會發生什麼情況。在此，我們示範了「遺失在中間」問題在多跳問答設定中的影響，其中需要跨越未連接文件的多次推理「跳躍」，並顯示效能不僅會隨著資訊與語境邊緣的距離而下降，也會隨著資訊片段之間的距離而下降。此外，我們實驗了透過知識圖譜三元組萃取和摘要來減少多餘文件內容，並提示模型使用思考鏈提示來更徹底地推理，以減輕問題的方法。
-
-##### **Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation**
-2412.09922v1 by Yanxu Mao, Peipei Liu, Tiehan Cui, Congying Liu, Datao You
-
-In recent years, text classification methods based on neural networks and
-pre-trained models have gained increasing attention and demonstrated excellent
-performance. However, these methods still have some limitations in practical
-applications: (1) They typically focus only on the matching similarity between
-sentences. However, there exists implicit high-value information both within
-sentences of the same class and across different classes, which is very crucial
-for classification tasks. (2) Existing methods such as pre-trained language
-models and graph-based approaches often consume substantial memory for training
-and text-graph construction. (3) Although some low-resource methods can achieve
-good performance, they often suffer from excessively long processing times. To
-address these challenges, we propose a low-resource and fast text
-classification model called LFTC. Our approach begins by constructing a
-compressor list for each class to fully mine the regularity information within
-intra-class data. We then remove redundant information irrelevant to the target
-classification to reduce processing time. Finally, we compute the similarity
-distance between text pairs for classification. We evaluate LFTC on 9 publicly
-available benchmark datasets, and the results demonstrate significant
-improvements in performance and processing time, especially under limited
-computational and data resources, highlighting its superior advantages.
-
-摘要：近年来，基于神经网络和预训练模型的文本分类方法越来越受到关注，并表现出优异的性能。然而，这些方法在实际应用中仍然存在一些局限性：(1) 它们通常只关注句子之间的匹配相似性。然而，同类句子内部和不同类句子之间都存在隐含的高价值信息，这对分类任务至关重要。(2) 预训练语言模型和基于图的方法等现有方法通常需要大量的内存用于训练和文本图构建。(3) 虽然一些低资源方法可以达到良好的性能，但它们通常处理时间过长。为了应对这些挑战，我们提出了一种低资源且快速的文本分类模型，称为 LFTC。我们的方法首先为每个类别构建一个压缩器列表，以充分挖掘类内数据中的规律性信息。然后，我们删除与目标分类无关的冗余信息，以减少处理时间。最后，我们计算文本对之间的相似性距离进行分类。我们在 9 个公开的基准数据集上评估了 LFTC，结果表明在有限的计算和数据资源下，其性能和处理时间都有显著提升，突出了其优越的优势。
 

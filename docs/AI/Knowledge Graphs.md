@@ -2,6 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|null|
+|**2025-01-15**|**Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**|Chuangtao Ma et.al.|[2501.08686v1](http://arxiv.org/abs/2501.08686v1)|null|
+|**2025-01-15**|**Assessing the Alignment of FOL Closeness Metrics with Human Judgement**|Ramya Keerthy Thatikonda et.al.|[2501.08613v1](http://arxiv.org/abs/2501.08613v1)|[link](https://github.com/ramyakeerthy/alignmentfol)|
+|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600v1](http://arxiv.org/abs/2501.08600v1)|null|
+|**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582v1](http://arxiv.org/abs/2501.08582v1)|null|
+|**2025-01-14**|**Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**|Mihai Masala et.al.|[2501.08460v1](http://arxiv.org/abs/2501.08460v1)|null|
 |**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120v1](http://arxiv.org/abs/2501.08120v1)|null|
 |**2025-01-14**|**Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**|Haoyu Han et.al.|[2501.07845v1](http://arxiv.org/abs/2501.07845v1)|null|
 |**2025-01-14**|**Flow: A Modular Approach to Automated Agentic Workflow Generation**|Boye Niu et.al.|[2501.07834v1](http://arxiv.org/abs/2501.07834v1)|null|
@@ -74,7 +80,7 @@
 |**2024-12-20**|**NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning**|Zheyuan Zhang et.al.|[2412.15547v1](http://arxiv.org/abs/2412.15547v1)|null|
 |**2024-12-19**|**SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval**|Aakash Mahalingam et.al.|[2412.15443v1](http://arxiv.org/abs/2412.15443v1)|null|
 |**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867v1](http://arxiv.org/abs/2412.14867v1)|null|
-|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|[link](https://github.com/ml-research/answersetnetworks)|
 |**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|[link](https://github.com/mminici/socgfm)|
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480v1](http://arxiv.org/abs/2412.14480v1)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019v1](http://arxiv.org/abs/2412.14019v1)|null|
@@ -96,14 +102,149 @@
 |**2024-12-16**|**SE-GCL: An Event-Based Simple and Effective Graph Contrastive Learning for Text Representation**|Tao Meng et.al.|[2412.11652v1](http://arxiv.org/abs/2412.11652v1)|null|
 |**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618v1](http://arxiv.org/abs/2412.11618v1)|null|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499v1](http://arxiv.org/abs/2412.11499v1)|null|
-|**2024-12-16**|**Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search**|Edward Kim et.al.|[2412.15256v1](http://arxiv.org/abs/2412.15256v1)|null|
-|**2024-12-16**|**How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**|Abdulrahman Althobaiti et.al.|[2412.11387v1](http://arxiv.org/abs/2412.11387v1)|null|
-|**2024-12-15**|**Embracing Large Language Models in Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2412.12201v1](http://arxiv.org/abs/2412.12201v1)|null|
-|**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026v1](http://arxiv.org/abs/2412.11026v1)|null|
-|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982v2](http://arxiv.org/abs/2412.10982v2)|null|
-|**2024-12-14**|**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**|Xue Wu et.al.|[2412.10654v1](http://arxiv.org/abs/2412.10654v1)|null|
 
 #### Abstracts
+##### **Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**
+2501.08897v1 by Qinyu Ma, Yuhao Zhou, Jianfeng Li
+
+Identifying reliable synthesis pathways in materials chemistry is a complex
+task, particularly in polymer science, due to the intricate and often
+non-unique nomenclature of macromolecules. To address this challenge, we
+propose an agent system that integrates large language models (LLMs) and
+knowledge graphs (KGs). By leveraging LLMs' powerful capabilities for
+extracting and recognizing chemical substance names, and storing the extracted
+data in a structured knowledge graph, our system fully automates the retrieval
+of relevant literatures, extraction of reaction data, database querying,
+construction of retrosynthetic pathway trees, further expansion through the
+retrieval of additional literature and recommendation of optimal reaction
+pathways. A novel Multi-branched Reaction Pathway Search (MBRPS) algorithm
+enables the exploration of all pathways, with a particular focus on
+multi-branched ones, helping LLMs overcome weak reasoning in multi-branched
+paths. This work represents the first attempt to develop a fully automated
+retrosynthesis planning agent tailored specially for macromolecules powered by
+LLMs. Applied to polyimide synthesis, our new approach constructs a
+retrosynthetic pathway tree with hundreds of pathways and recommends optimized
+routes, including both known and novel pathways, demonstrating its
+effectiveness and potential for broader applications.
+
+摘要：辨識材料化學中可靠的合成路徑是一項複雜的任務，特別是在聚合物科學中，因為巨分子的命名法錯綜複雜且經常不唯一。為了應對這個挑戰，我們提出一個整合大型語言模型 (LLM) 與知識圖譜 (KG) 的代理系統。透過利用 LLM 強大的化學物質名稱萃取和辨識能力，並將萃取的資料儲存在結構化的知識圖譜中，我們的系統可完全自動化相關文獻的檢索、反應資料的萃取、資料庫查詢、逆合成路徑樹的建構、透過檢索額外文獻進一步擴充，以及最佳反應路徑的建議。一種新穎的多分支反應路徑搜尋 (MBRPS) 演算法能探索所有路徑，特別專注於多分支路徑，協助 LLM 克服多分支路徑中的弱推理。這項工作代表首次嘗試開發一種完全自動化的逆合成規劃代理，專門針對由 LLM 驅動的巨分子量身打造。應用於聚醯亞胺合成，我們的新方法建構了一個包含數百條路徑的逆合成路徑樹，並建議最佳化路徑，包括已知和新穎的路徑，證明其在更廣泛應用中的效能和潛力。
+
+##### **Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**
+2501.08686v1 by Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, Bálint Molnár
+
+Traditional similarity-based schema matching methods are incapable of
+resolving semantic ambiguities and conflicts in domain-specific complex mapping
+scenarios due to missing commonsense and domain-specific knowledge. The
+hallucination problem of large language models (LLMs) also makes it challenging
+for LLM-based schema matching to address the above issues. Therefore, we
+propose a Knowledge Graph-based Retrieval-Augmented Generation model for Schema
+Matching, referred to as the KG-RAG4SM. In particular, KG-RAG4SM introduces
+novel vector-based, graph traversal-based, and query-based graph retrievals, as
+well as a hybrid approach and ranking schemes that identify the most relevant
+subgraphs from external large knowledge graphs (KGs). We showcase that KG-based
+retrieval-augmented LLMs are capable of generating more accurate results for
+complex matching cases without any re-training. Our experimental results show
+that KG-RAG4SM outperforms the LLM-based state-of-the-art (SOTA) methods (e.g.,
+Jellyfish-8B) by 35.89% and 30.50% in terms of precision and F1 score on the
+MIMIC dataset, respectively; KG-RAG4SM with GPT-4o-mini outperforms the
+pre-trained language model (PLM)-based SOTA methods (e.g., SMAT) by 69.20% and
+21.97% in terms of precision and F1 score on the Synthea dataset, respectively.
+The results also demonstrate that our approach is more efficient in end-to-end
+schema matching, and scales to retrieve from large KGs. Our case studies on the
+dataset from the real-world schema matching scenario exhibit that the
+hallucination problem of LLMs for schema matching is well mitigated by our
+solution.
+
+摘要：傳統基於相似度的模式比對方法無法解決特定領域複雜比對場景中的語意模糊性和衝突，這是因為缺乏常識和特定領域知識。大型語言模型 (LLM) 的幻覺問題也使得基於 LLM 的模式比對難以解決上述問題。因此，我們提出一個基於知識圖譜的檢索增強生成模型，用於模式比對，稱為 KG-RAG4SM。具體而言，KG-RAG4SM 引入了基於向量的、基於圖形遍歷的和基於查詢的圖形檢索，以及一種混合方法和排名方案，這些方案從外部大型知識圖譜 (KG) 中識別最相關的子圖。我們展示了基於 KG 的檢索增強 LLM 能夠在不進行任何重新訓練的情況下為複雜的比對案例生成更準確的結果。我們的實驗結果表明，在 MIMIC 資料集上，KG-RAG4SM 在準確度和 F1 分數方面分別比基於 LLM 的最新 (SOTA) 方法 (例如 Jellyfish-8B) 高出 35.89% 和 30.50%；具有 GPT-4o-mini 的 KG-RAG4SM 在準確度和 F1 分數方面分別比基於預先訓練語言模型 (PLM) 的 SOTA 方法 (例如 SMAT) 高出 69.20% 和 21.97% 在 Synthea 資料集上。結果還表明，我們的做法在端到端模式比對中更有效率，並且可以擴展到從大型 KG 中檢索。我們對來自現實世界模式比對場景的資料集進行的案例研究表明，我們的解決方案很好地緩解了 LLM 在模式比對中的幻覺問題。
+
+##### **Assessing the Alignment of FOL Closeness Metrics with Human Judgement**
+2501.08613v1 by Ramya Keerthy Thatikonda, Wray Buntine, Ehsan Shareghi
+
+The recent successful paradigm of solving logical reasoning problems with
+tool-augmented large language models (LLMs) leverages translation of natural
+language statements into First-Order Logic~(FOL) and external theorem provers.
+However, the correctness of FOL statements, comprising operators and text
+predicates, often goes unverified due to the lack of a reliable evaluation
+metric for comparing generated and ground-truth FOLs. In this paper, we present
+a comprehensive study of sensitivity of existing metrics and their alignment
+with human judgement on FOL evaluation. Using ground-truth FOLs, we carefully
+designed various perturbations on the ground-truth to assess metric
+sensitivity. We sample FOL translation candidates for natural language
+statements and measure the ranking alignment between automatic metrics and
+human annotators. Our empirical findings highlight oversensitivity in the
+n-gram metric BLEU for text perturbations, the semantic graph metric Smatch++
+for structural perturbations, and FOL metric for operator perturbation. We also
+observe a closer alignment between BertScore and human judgement. Additionally,
+we show that combining metrics enhances both alignment and sensitivity compared
+to using individual metrics.
+
+摘要：最近以工具增强型大型语言模型 (LLM) 解决逻辑推理问题的新兴范例利用了自然语言陈述到一阶逻辑 (FOL) 和外部定理证明器的转化。然而，FOL 陈述的正确性（包括算子和文本谓词）通常因缺乏用于比较生成的 FOL 和真实 FOL 的可靠评估指标而无法得到验证。在本文中，我们对现有指标的敏感性及其与人类对 FOL 评估判断的一致性进行了全面研究。使用真实 FOL，我们精心设计了对真实 FOL 的各种扰动来评估指标敏感性。我们对自然语言陈述抽样 FOL 翻译候选，并测量自动指标和人类注释者之间的排名一致性。我们的经验结果突出了 n-gram 指标 BLEU 对文本扰动的过度敏感性、语义图指标 Smatch++ 对结构扰动的过度敏感性以及 FOL 指标对算子扰动的过度敏感性。我们还观察到 BertScore 与人类判断之间更紧密的一致性。此外，我们表明，与使用单个指标相比，组合指标可以提高一致性和敏感性。
+
+##### **AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**
+2501.08600v1 by Tyler Stennett, Myeongsoo Kim, Saurabh Sinha, Alessandro Orso
+
+As REST APIs have become widespread in modern web services, comprehensive
+testing of these APIs has become increasingly crucial. Due to the vast search
+space consisting of operations, parameters, and parameter values along with
+their complex dependencies and constraints, current testing tools suffer from
+low code coverage, leading to suboptimal fault detection. To address this
+limitation, we present a novel tool, AutoRestTest, which integrates the
+Semantic Operation Dependency Graph (SODG) with Multi-Agent Reinforcement
+Learning (MARL) and large language models (LLMs) for effective REST API
+testing. AutoRestTest determines operation-dependent parameters using the SODG
+and employs five specialized agents (operation, parameter, value, dependency,
+and header) to identify dependencies of operations and generate operation
+sequences, parameter combinations, and values. AutoRestTest provides a
+command-line interface and continuous telemetry on successful operation count,
+unique server errors detected, and time elapsed. Upon completion, AutoRestTest
+generates a detailed report highlighting errors detected and operations
+exercised. In this paper, we introduce our tool and present preliminary
+results.
+
+摘要：隨著 REST API 在現代網路服務中廣泛使用，對這些 API 進行全面的測試變得越來越重要。由於廣大的搜尋空間包含操作、參數和參數值以及它們複雜的依賴關係和約束，目前的測試工具存在程式碼覆蓋率低的問題，導致故障偵測不佳。為了解決這個限制，我們提出一個新工具 AutoRestTest，它整合了語義操作依賴圖 (SODG) 與多智能體強化學習 (MARL) 和大型語言模型 (LLM)，以進行有效的 REST API 測試。AutoRestTest 使用 SODG 確定依賴於操作的參數，並使用五個專門的代理 (操作、參數、值、依賴關係和標頭) 來識別操作的依賴關係並產生操作序列、參數組合和值。AutoRestTest 提供命令列介面和持續遙測，包括成功操作次數、偵測到的唯一伺服器錯誤和經過時間。完成後，AutoRestTest 會產生一份詳細報告，重點說明偵測到的錯誤和執行的操作。在本文中，我們介紹我們的工具並提出初步結果。
+
+##### **LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**
+2501.08582v1 by Yuxuan Hu, Jing Zhang, Xiaodong Chen, Zhe Zhao, Cuiping Li, Hong Chen
+
+Existing low-rank adaptation (LoRA) methods face challenges on sparse large
+language models (LLMs) due to the inability to maintain sparsity. Recent works
+introduced methods that maintain sparsity by augmenting LoRA techniques with
+additional masking mechanisms. Despite these successes, such approaches suffer
+from an increased memory and computation overhead, which affects efficiency of
+LoRA methods. In response to this limitation, we introduce LoRS, an innovative
+method designed to achieve both memory and computation efficiency when
+fine-tuning sparse LLMs. To mitigate the substantial memory and computation
+demands associated with preserving sparsity, our approach incorporates
+strategies of weight recompute and computational graph rearrangement. In
+addition, we also improve the effectiveness of LoRS through better adapter
+initialization. These innovations lead to a notable reduction in memory and
+computation consumption during the fine-tuning phase, all while achieving
+performance levels that outperform existing LoRA approaches.
+
+摘要：現有的低秩適應 (LoRA) 方法由於無法維持稀疏性，在稀疏大型語言模型 (LLM) 上面臨挑戰。最近的作品引入了透過使用額外的遮罩機制來擴充 LoRA 技術的方法來維持稀疏性。儘管有這些成功，但這些方法會增加記憶體和運算的開銷，這會影響 LoRA 方法的效率。為了回應這個限制，我們引入了 LoRS，這是一種創新的方法，旨在在微調稀疏 LLM 時同時實現記憶體和運算效率。為了減輕與維持稀疏性相關的龐大記憶體和運算需求，我們的做法結合了權重重新計算和計算圖形重新排列的策略。此外，我們還透過更好的適配器初始化來提高 LoRS 的有效性。這些創新在微調階段顯著減少了記憶體和運算消耗，同時實現了優於現有 LoRA 方法的效能等級。
+
+##### **Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**
+2501.08460v1 by Mihai Masala, Marius Leordeanu
+
+In the current era of Machine Learning, Transformers have become the de facto
+approach across a variety of domains, such as computer vision and natural
+language processing. Transformer-based solutions are the backbone of current
+state-of-the-art methods for language generation, image and video
+classification, segmentation, action and object recognition, among many others.
+Interestingly enough, while these state-of-the-art methods produce impressive
+results in their respective domains, the problem of understanding the
+relationship between vision and language is still beyond our reach. In this
+work, we propose a common ground between vision and language based on events in
+space and time in an explainable and programmatic way, to connect
+learning-based vision and language state of the art models and provide a
+solution to the long standing problem of describing videos in natural language.
+We validate that our algorithmic approach is able to generate coherent, rich
+and relevant textual descriptions on videos collected from a variety of
+datasets, using both standard metrics (e.g. Bleu, ROUGE) and the modern
+LLM-as-a-Jury approach.
+
+摘要：在機器學習的當代，Transformer 已成為各種領域的事實標準方法，例如電腦視覺和自然語言處理。基於 Transformer 的解決方案是當前語言生成、影像和影片分類、分割、動作和物件辨識等最新方法的骨幹。有趣的是，雖然這些最新方法在其各自的領域中產生令人印象深刻的結果，但理解視覺和語言之間關係的問題仍然超出了我們的理解範圍。在這項工作中，我們以可解釋且以程式為基礎的方式，在時空中的事件之間提出了視覺和語言的共同基礎，以連接基於學習的視覺和語言最新模型，並提供描述影片的自然語言長期問題的解決方案。我們驗證了我們的演算法方法能夠在從各種資料集收集的影片中產生連貫、豐富且相關的文字描述，同時使用標準指標（例如 Bleu、ROUGE）和現代 LLM 作為評審方法。
+
 ##### **In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**
 2501.08120v1 by Markus J. Buehler
 
@@ -2435,146 +2576,4 @@ language planning and distillation approaches, indicating the applicability and
 efficiency of sLM-based embodied policies derived through DeDer.
 
 摘要：我們解決了在決策系統於容量有限的現成設備上即時運作的環境中，利用大型語言模型 (LLM) 執行複雜具身任務的挑戰。我們提出 DeDer，一個用於將具身推理能力從 LLM 分解並萃取出高效能、小型語言模型 (sLM) 為基礎的政策的框架。在 DeDer 中，基於 LLM 的策略的決策流程被重新結構為一個具有推理政策和規劃政策的階層。推理政策從透過 LLM 的具身情境學習和自我驗證所產生的資料中萃取出，因此它可以產生有效的依據。規劃政策在依據的引導下，可以有效率地呈現最佳化的計畫。反過來，DeDer 允許採用 sLM 來執行這兩個政策，並部署在現成設備上。此外，為了提升中間依據的品質，特別是針對具身任務，我們設計了具身知識圖譜，並透過單一推論即時產生多個依據，我們也使用了對比提示注意力模型。我們使用 ALFRED 基準進行的實驗證明，DeDer 超越了領先的語言規劃和萃取方法，這表示透過 DeDer 衍生的基於 sLM 的具身政策具有適用性和效率。
-
-##### **Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search**
-2412.15256v1 by Edward Kim, Manil Shrestha, Richard Foty, Tom DeLay, Vicki Seyfert-Margolis
-
-Creation and curation of knowledge graphs can accelerate disease discovery
-and analysis in real-world data. While disease ontologies aid in biological
-data annotation, codified categories (SNOMED-CT, ICD10, CPT) may not capture
-patient condition nuances or rare diseases. Multiple disease definitions across
-data sources complicate ontology mapping and disease clustering. We propose
-creating patient knowledge graphs using large language model extraction
-techniques, allowing data extraction via natural language rather than rigid
-ontological hierarchies. Our method maps to existing ontologies (MeSH,
-SNOMED-CT, RxNORM, HPO) to ground extracted entities.
-  Using a large ambulatory care EHR database with 33.6M patients, we
-demonstrate our method through the patient search for Dravet syndrome, which
-received ICD10 recognition in October 2020. We describe our construction of
-patient-specific knowledge graphs and symptom-based patient searches. Using
-confirmed Dravet syndrome ICD10 codes as ground truth, we employ LLM-based
-entity extraction to characterize patients in grounded ontologies. We then
-apply this method to identify Beta-propeller protein-associated
-neurodegeneration (BPAN) patients, demonstrating real-world discovery where no
-ground truth exists.
-
-摘要：知識圖譜的建立和策展可以加速疾病發現和分析真實世界中的資料。雖然疾病本體論有助於生物資料註釋，但編碼類別（SNOMED-CT、ICD10、CPT）可能無法捕捉患者狀況的細微差別或罕見疾病。跨資料來源的多重疾病定義使本體論對應和疾病群集複雜化。我們建議使用大型語言模型萃取技術建立患者知識圖譜，允許透過自然語言而不是僵化的本體論階層萃取資料。我們的模型對應到現有本體論（MeSH、SNOMED-CT、RxNORM、HPO）以建立萃取實體的基礎。使用一個擁有 3360 萬名患者的大型門診電子病歷資料庫，我們透過患者搜尋 Dravet 症候群來展示我們的模型，該症候群於 2020 年 10 月獲得 ICD10 認可。我們描述我們如何建構患者特定的知識圖譜和基於症狀的患者搜尋。使用已確認的 Dravet 症候群 ICD10 代碼作為基準，我們使用基於 LLM 的實體萃取來描述紮根於本體論中的患者。然後我們應用此模型來識別貝塔螺旋槳蛋白相關的神經退化（BPAN）患者，展示了在不存在基準的情況下進行真實世界發現。
-
-##### **How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach**
-2412.11387v1 by Abdulrahman Althobaiti, Angel Ayala, JingYing Gao, Ali Almutairi, Mohammad Deghat, Imran Razzak, Francisco Cruz
-
-Large Language Models (LLMs) are transforming the robotics domain by enabling
-robots to comprehend and execute natural language instructions. The cornerstone
-benefits of LLM include processing textual data from technical manuals,
-instructions, academic papers, and user queries based on the knowledge
-provided. However, deploying LLM-generated code in robotic systems without
-safety verification poses significant risks. This paper outlines a safety layer
-that verifies the code generated by ChatGPT before executing it to control a
-drone in a simulated environment. The safety layer consists of a fine-tuned
-GPT-4o model using Few-Shot learning, supported by knowledge graph prompting
-(KGP). Our approach improves the safety and compliance of robotic actions,
-ensuring that they adhere to the regulations of drone operations.
-
-摘要：大型語言模型 (LLM) 透過讓機器人理解並執行自然語言指令，轉變了機器人領域。LLM 的基石優點包括處理基於所提供知識的技術手冊、說明、學術論文和使用者查詢中的文字資料。然而，在沒有安全驗證的情況下，在機器人系統中部署 LLM 生成的程式碼會帶來顯著的風險。本文概述了一個安全層，在執行它以控制模擬環境中的無人機之前，驗證 ChatGPT 生成的程式碼。安全層由一個使用少次學習進行微調的 GPT-4o 模型組成，並由知識圖表提示 (KGP) 支援。我們的做法改善了機器人動作的安全性與合規性，確保它們符合無人機操作法規。
-
-##### **Embracing Large Language Models in Traffic Flow Forecasting**
-2412.12201v1 by Yusheng Zhao, Xiao Luo, Haomin Wen, Zhiping Xiao, Wei Ju, Ming Zhang
-
-Traffic flow forecasting aims to predict future traffic flows based on the
-historical traffic conditions and the road network. It is an important problem
-in intelligent transportation systems, with a plethora of methods been
-proposed. Existing efforts mainly focus on capturing and utilizing
-spatio-temporal dependencies to predict future traffic flows. Though promising,
-they fall short in adapting to test-time environmental changes of traffic
-conditions. To tackle this challenge, we propose to introduce large language
-models (LLMs) to help traffic flow forecasting and design a novel method named
-Large Language Model Enhanced Traffic Flow Predictor (LEAF). LEAF adopts two
-branches, capturing different spatio-temporal relations using graph and
-hypergraph structures respectively. The two branches are first pre-trained
-individually, and during test-time, they yield different predictions. Based on
-these predictions, a large language model is used to select the most likely
-result. Then, a ranking loss is applied as the learning objective to enhance
-the prediction ability of the two branches. Extensive experiments on several
-datasets demonstrate the effectiveness of the proposed LEAF.
-
-摘要：交通流量預測旨在根據歷史交通狀況和道路網路預測未來的交通流量。這是智慧運輸系統中一個重要的問題，已經提出了許多方法。現有努力主要集中在擷取和利用時空依賴性來預測未來的交通流量。儘管有前景，但它們在適應交通狀況的測試時間環境變化方面仍有不足。為了應對這一挑戰，我們建議引入大型語言模型 (LLM) 來幫助交通流量預測，並設計一種名為大型語言模型增強交通流量預測器 (LEAF) 的新方法。LEAF 採用兩個分支，分別使用圖形和超圖形結構擷取不同的時空關係。這兩個分支首先分別進行預訓練，在測試時，它們產生不同的預測。基於這些預測，使用大型語言模型選擇最有可能的結果。然後，將排名損失應用為學習目標，以增強兩個分支的預測能力。在幾個數據集上進行的廣泛實驗證明了所提出的 LEAF 的有效性。
-
-##### **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**
-2412.11026v1 by Hang Zhang, Zhuoling Li, Jun Liu
-
-Dynamic scenes contain intricate spatio-temporal information, crucial for
-mobile robots, UAVs, and autonomous driving systems to make informed decisions.
-Parsing these scenes into semantic triplets <Subject-Predicate-Object> for
-accurate Scene Graph Generation (SGG) is highly challenging due to the
-fluctuating spatio-temporal complexity. Inspired by the reasoning capabilities
-of Large Language Models (LLMs), we propose SceneLLM, a novel framework that
-leverages LLMs as powerful scene analyzers for dynamic SGG. Our framework
-introduces a Video-to-Language (V2L) mapping module that transforms video
-frames into linguistic signals (scene tokens), making the input more
-comprehensible for LLMs. To better encode spatial information, we devise a
-Spatial Information Aggregation (SIA) scheme, inspired by the structure of
-Chinese characters, which encodes spatial data into tokens. Using Optimal
-Transport (OT), we generate an implicit language signal from the frame-level
-token sequence that captures the video's spatio-temporal information. To
-further improve the LLM's ability to process this implicit linguistic input, we
-apply Low-Rank Adaptation (LoRA) to fine-tune the model. Finally, we use a
-transformer-based SGG predictor to decode the LLM's reasoning and predict
-semantic triplets. Our method achieves state-of-the-art results on the Action
-Genome (AG) benchmark, and extensive experiments show the effectiveness of
-SceneLLM in understanding and generating accurate dynamic scene graphs.
-
-摘要：動態場景包含複雜的時空資訊，對於行動機器人、無人機和自動駕駛系統做出明智的決策至關重要。
-由於時空複雜性波動，將這些場景解析成語義三元組 <主詞-謂詞-受詞> 以進行準確的場景圖生成 (SGG) 是一項極具挑戰性的任務。
-受到大型語言模型 (LLM) 的推理能力啟發，我們提出了 SceneLLM，這是一個新穎的框架，利用 LLM 作為強大的場景分析器，用於動態 SGG。
-我們的框架引入了一個影片轉語言 (V2L) 映射模組，將影片格轉換成語言訊號 (場景代幣)，讓 LLM 更容易理解輸入。
-為了更好地編碼空間資訊，我們設計了一個空間資訊聚合 (SIA) 架構，其靈感來自漢字的結構，將空間資料編碼成代幣。
-使用最佳傳輸 (OT)，我們從幀級代幣序列產生一個隱含的語言訊號，捕捉影片的時空資訊。
-為了進一步提高 LLM 處理此隱含語言輸入的能力，我們應用低秩適應 (LoRA) 來微調模型。
-最後，我們使用一個基於轉換器的 SGG 預測器來解碼 LLM 的推理並預測語義三元組。
-我們的模型在動作基因組 (AG) 基準上取得了最先進的結果，廣泛的實驗顯示了 SceneLLM 在理解和生成準確的動態場景圖方面的有效性。
-
-##### **MedG-KRP: Medical Graph Knowledge Representation Probing**
-2412.10982v2 by Gabriel R. Rosenbaum, Lavender Yao Jiang, Ivaxi Sheth, Jaden Stryker, Anton Alyakin, Daniel Alexander Alber, Nicolas K. Goff, Young Joon Fred Kwon, John Markert, Mustafa Nasir-Moin, Jan Moritz Niehues, Karl L. Sangwon, Eunice Yang, Eric Karl Oermann
-
-Large language models (LLMs) have recently emerged as powerful tools, finding
-many medical applications. LLMs' ability to coalesce vast amounts of
-information from many sources to generate a response-a process similar to that
-of a human expert-has led many to see potential in deploying LLMs for clinical
-use. However, medicine is a setting where accurate reasoning is paramount. Many
-researchers are questioning the effectiveness of multiple choice question
-answering (MCQA) benchmarks, frequently used to test LLMs. Researchers and
-clinicians alike must have complete confidence in LLMs' abilities for them to
-be deployed in a medical setting. To address this need for understanding, we
-introduce a knowledge graph (KG)-based method to evaluate the biomedical
-reasoning abilities of LLMs. Essentially, we map how LLMs link medical concepts
-in order to better understand how they reason. We test GPT-4, Llama3-70b, and
-PalmyraMed-70b, a specialized medical model. We enlist a panel of medical
-students to review a total of 60 LLM-generated graphs and compare these graphs
-to BIOS, a large biomedical KG. We observe GPT-4 to perform best in our human
-review but worst in our ground truth comparison; vice-versa with PalmyraMed,
-the medical model. Our work provides a means of visualizing the medical
-reasoning pathways of LLMs so they can be implemented in clinical settings
-safely and effectively.
-
-摘要：大型語言模型 (LLM) 近期已成為強大的工具，在醫療領域中發現許多應用。LLM 從許多來源匯集大量資訊以產生回應的能力（此過程類似於人類專家的過程），已讓許多人看到將 LLM 部署於臨床用途的潛力。然而，醫學是一個準確推理至關重要的領域。許多研究人員質疑多選題回答 (MCQA) 基準的有效性，而這經常被用於測試 LLM。研究人員和臨床醫生都必須對 LLM 的能力有完全的信心，才能將其部署於醫療環境中。為了滿足這種理解需求，我們引入一個基於知識圖譜 (KG) 的方法來評估 LLM 的生物醫學推理能力。基本上，我們繪製 LLM 如何連結醫療概念，以更好地理解它們的推理方式。我們測試了 GPT-4、Llama3-70b 和 PalmyraMed-70b，這是一個專門的醫療模型。我們徵集了一組醫學生來檢閱總共 60 個 LLM 生成的圖表，並將這些圖表與 BIOS（一個大型生物醫學 KG）進行比較。我們觀察到 GPT-4 在我們的人工審查中表現最佳，但在我們的基本事實比較中表現最差；而專門的醫療模型 PalmyraMed 則相反。我們的研究提供了一種可視化 LLM 醫療推理路徑的方法，以便它們能夠安全有效地實作於臨床環境中。
-
-##### **Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**
-2412.10654v1 by Xue Wu, Kostas Tsioutsiouliklis
-
-Large Language Models (LLMs) have demonstrated remarkable capabilities in
-natural language understanding and generation. However, they often struggle
-with complex reasoning tasks and are prone to hallucination. Recent research
-has shown promising results in leveraging knowledge graphs (KGs) to enhance LLM
-performance. KGs provide a structured representation of entities and their
-relationships, offering a rich source of information that can enhance the
-reasoning capabilities of LLMs. For this work, we have developed different
-techniques that tightly integrate KG structures and semantics into LLM
-representations. Our results show that we are able to significantly improve the
-performance of LLMs in complex reasoning scenarios, and ground the reasoning
-process with KGs. We are the first to represent KGs with programming language
-and fine-tune pretrained LLMs with KGs. This integration facilitates more
-accurate and interpretable reasoning processes, paving the way for more
-advanced reasoning capabilities of LLMs.
-
-摘要：大型語言模型 (LLM) 在自然語言理解和生成方面展現了非凡的能力。然而，它們經常在複雜的推理任務中掙扎，並且容易出現幻覺。最近的研究顯示出利用知識圖譜 (KG) 來增強 LLM 效能的良好結果。KG 提供實體及其關係的結構化表示，提供了豐富的資訊來源，可以增強 LLM 的推理能力。對於這項工作，我們開發了不同的技術，將 KG 結構和語義緊密整合到 LLM 表示中。我們的結果表明，我們能夠顯著提升 LLM 在複雜推理場景中的效能，並以 KG 為基礎進行推理過程。我們是第一個使用程式語言表示 KG，並使用 KG 微調預訓練 LLM 的人。這種整合有助於更準確且可解釋的推理過程，為 LLM 更先進的推理能力鋪路。
 

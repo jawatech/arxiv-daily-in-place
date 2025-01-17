@@ -2,6 +2,9 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977v1](http://arxiv.org/abs/2501.08977v1)|null|
+|**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962v1](http://arxiv.org/abs/2501.08962v1)|null|
+|**2025-01-15**|**Digital Phenotyping for Adolescent Mental Health: A Feasibility Study Employing Machine Learning to Predict Mental Health Risk From Active and Passive Smartphone Data**|Balasundaram Kadirvelu et.al.|[2501.08851v1](http://arxiv.org/abs/2501.08851v1)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324v1](http://arxiv.org/abs/2501.08324v1)|null|
 |**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241v1](http://arxiv.org/abs/2501.08241v1)|null|
 |**2025-01-14**|**ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems**|Mohita Chowdhury et.al.|[2501.08208v1](http://arxiv.org/abs/2501.08208v1)|null|
@@ -29,9 +32,9 @@
 |**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465v1](http://arxiv.org/abs/2501.06465v1)|null|
 |**2025-01-11**|**Deep Learning on Hester Davis Scores for Inpatient Fall Prediction**|Hojjat Salehinejad et.al.|[2501.06432v1](http://arxiv.org/abs/2501.06432v1)|null|
 |**2025-01-10**|**Gender-Neutral Large Language Models for Medical Applications: Reducing Bias in PubMed Abstracts**|Elizabeth Schaefer et.al.|[2501.06365v1](http://arxiv.org/abs/2501.06365v1)|null|
-|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080v1](http://arxiv.org/abs/2501.06080v1)|null|
-|**2025-01-10**|**AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery**|Johann Wenckstern et.al.|[2501.06039v1](http://arxiv.org/abs/2501.06039v1)|null|
-|**2025-01-10**|**DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information**|Yongfan Lai et.al.|[2501.05932v1](http://arxiv.org/abs/2501.05932v1)|null|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080v1](http://arxiv.org/abs/2501.06080v1)|[link](https://github.com/hrlblab/ue_hpc)|
+|**2025-01-10**|**AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery**|Johann Wenckstern et.al.|[2501.06039v1](http://arxiv.org/abs/2501.06039v1)|[link](https://github.com/bunnelab/virtues)|
+|**2025-01-10**|**DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information**|Yongfan Lai et.al.|[2501.05932v1](http://arxiv.org/abs/2501.05932v1)|[link](https://github.com/raiiyf/diffusets_exp)|
 |**2025-01-10**|**AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**|Amit Kr Dey et.al.|[2501.05826v2](http://arxiv.org/abs/2501.05826v2)|null|
 |**2025-01-10**|**Large Language Models for Bioinformatics**|Wei Ruan et.al.|[2501.06271v1](http://arxiv.org/abs/2501.06271v1)|null|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
@@ -86,24 +89,110 @@
 |**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030v1](http://arxiv.org/abs/2501.01030v1)|null|
 |**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
-|**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|null|
+|**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|[link](https://github.com/xiaqi7/fetal-ultrasound)|
 |**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
 |**2024-12-31**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464v1](http://arxiv.org/abs/2501.05464v1)|null|
 |**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
 |**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
 |**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|[link](https://github.com/george-yuanji-wang/gan-tat)|
 |**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v2](http://arxiv.org/abs/2501.00320v2)|[link](https://github.com/braincog-x/brain-cog)|
+|**2024-12-31**|**A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application**|Siqi Zhao et.al.|[2501.08585v1](http://arxiv.org/abs/2501.08585v1)|null|
 |**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
 |**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
 |**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
 |**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
 |**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v2](http://arxiv.org/abs/2501.00190v2)|[link](https://github.com/yinchangchang/sepsiscalc)|
-|**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169v1](http://arxiv.org/abs/2501.00169v1)|null|
-|**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152v1](http://arxiv.org/abs/2501.00152v1)|null|
-|**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129v1](http://arxiv.org/abs/2501.00129v1)|null|
-|**2024-12-30**|**Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**|Atharva Divekar et.al.|[2501.01984v1](http://arxiv.org/abs/2501.01984v1)|[link](https://github.com/ATHdevs/Auto-PCOS)|
 
 #### Abstracts
+##### **Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**
+2501.08977v1 by Emma Croxford, Yanjun Gao, Nicholas Pellegrino, Karen K. Wong, Graham Wills, Elliot First, Miranda Schnier, Kyle Burton, Cris G. Ebby, Jillian Gorskic, Matthew Kalscheur, Samy Khalil, Marie Pisani, Tyler Rubeor, Peter Stetson, Frank Liao, Cherodeep Goswami, Brian Patterson, Majid Afshar
+
+As Large Language Models (LLMs) are integrated into electronic health record
+(EHR) workflows, validated instruments are essential to evaluate their
+performance before implementation. Existing instruments for provider
+documentation quality are often unsuitable for the complexities of
+LLM-generated text and lack validation on real-world data. The Provider
+Documentation Summarization Quality Instrument (PDSQI-9) was developed to
+evaluate LLM-generated clinical summaries. Multi-document summaries were
+generated from real-world EHR data across multiple specialties using several
+LLMs (GPT-4o, Mixtral 8x7b, and Llama 3-8b). Validation included Pearson
+correlation for substantive validity, factor analysis and Cronbach's alpha for
+structural validity, inter-rater reliability (ICC and Krippendorff's alpha) for
+generalizability, a semi-Delphi process for content validity, and comparisons
+of high- versus low-quality summaries for discriminant validity. Seven
+physician raters evaluated 779 summaries and answered 8,329 questions,
+achieving over 80% power for inter-rater reliability. The PDSQI-9 demonstrated
+strong internal consistency (Cronbach's alpha = 0.879; 95% CI: 0.867-0.891) and
+high inter-rater reliability (ICC = 0.867; 95% CI: 0.867-0.868), supporting
+structural validity and generalizability. Factor analysis identified a 4-factor
+model explaining 58% of the variance, representing organization, clarity,
+accuracy, and utility. Substantive validity was supported by correlations
+between note length and scores for Succinct (rho = -0.200, p = 0.029) and
+Organized (rho = -0.190, p = 0.037). Discriminant validity distinguished high-
+from low-quality summaries (p < 0.001). The PDSQI-9 demonstrates robust
+construct validity, supporting its use in clinical practice to evaluate
+LLM-generated summaries and facilitate safer integration of LLMs into
+healthcare workflows.
+
+摘要：隨著大型語言模型 (LLM) 整合到電子健康紀錄 (EHR) 工作流程中，驗證工具對於在實施前評估其效能至關重要。現有的提供者文件品質工具通常不適合 LLM 生成的文字複雜性，且缺乏對真實世界資料的驗證。提供者文件摘要品質工具 (PDSQI-9) 的開發目的是評估 LLM 生成的臨床摘要。使用多個 LLM（GPT-4o、Mixtral 8x7b 和 Llama 3-8b）從跨多個專科的真實世界 EHR 資料中產生多文件摘要。驗證包括實質效度的皮爾森相關係數、結構效度的因子分析和克朗巴赫 α 係數、概括性的評分者間信度（ICC 和克里彭多夫 α 係數）、內容效度的半德爾菲程序，以及用於判別效度的優質與劣質摘要比較。七位醫師評分者評估了 779 份摘要並回答了 8,329 個問題，評分者間信度達到 80% 以上。PDSQI-9 表現出強大的內部一致性（克朗巴赫 α 係數 = 0.879；95% CI：0.867-0.891）和高評分者間信度（ICC = 0.867；95% CI：0.867-0.868），支持結構效度和概括性。因子分析辨識出一個 4 因子模型，解釋了 58% 的變異，代表組織、清晰度、準確性和實用性。實質效度受到摘要長度與簡潔（rho = -0.200，p = 0.029）和組織（rho = -0.190，p = 0.037）分數之間相關性的支持。判別效度區分了優質和劣質摘要（p < 0.001）。PDSQI-9 表現出穩健的建構效度，支持在臨床實務中使用它來評估 LLM 生成的摘要，並促進 LLM 更安全的整合到醫療保健工作流程中。
+
+##### **An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**
+2501.08962v1 by Francisco Mauro, Emanoel Thyago, Othon Vinicius, Rodrigo Abreu, Kelvin Cunha, José Gabriel, Rafael Barros, Thales Bezerra, Manoel Henriques, Natalia Lopes, Érico Moutinho, Jéssica Guido, Tsang Ing Ren, Paulo Borba
+
+AI algorithms have become valuable in aiding professionals in healthcare. The
+increasing confidence obtained by these models is helpful in critical decision
+demands. In clinical dermatology, classification models can detect malignant
+lesions on patients' skin using only RGB images as input. However, most
+learning-based methods employ data acquired from dermoscopic datasets on
+training, which are large and validated by a gold standard. Clinical models aim
+to deal with classification on users' smartphone cameras that do not contain
+the corresponding resolution provided by dermoscopy. Also, clinical
+applications bring new challenges. It can contain captures from uncontrolled
+environments, skin tone variations, viewpoint changes, noises in data and
+labels, and unbalanced classes. A possible alternative would be to use transfer
+learning to deal with the clinical images. However, as the number of samples is
+low, it can cause degradations on the model's performance; the source
+distribution used in training differs from the test set. This work aims to
+evaluate the gap between dermoscopic and clinical samples and understand how
+the dataset variations impact training. It assesses the main differences
+between distributions that disturb the model's prediction. Finally, from
+experiments on different architectures, we argue how to combine the data from
+divergent distributions, decreasing the impact on the model's final accuracy.
+
+摘要：AI 演算法已成為協助醫療保健專業人員的寶貴工具。這些模型獲得的信心日益提升，有助於關鍵決策需求。在臨床皮膚科，分類模型僅使用 RGB 影像作為輸入，即可偵測患者皮膚上的惡性病灶。然而，大多數基於學習的方法採用從皮膚鏡資料集取得的資料進行訓練，這些資料集龐大且已通過金標準驗證。臨床模型旨在處理使用者智慧型手機相機上的分類，這些相機不包含皮膚鏡提供的對應解析度。此外，臨床應用程式帶來新的挑戰。它可能包含來自不受控環境的擷取、膚色變化、視點變更、資料和標籤中的雜訊，以及不平衡的類別。一種可能的替代方案是使用遷移學習來處理臨床影像。然而，由於樣本數量少，可能會導致模型效能下降；訓練中使用的來源分佈與測試集不同。這項工作旨在評估皮膚鏡和臨床樣本之間的差距，並了解資料集變化如何影響訓練。它評估會干擾模型預測的主要分佈差異。最後，從不同架構的實驗中，我們論證如何結合來自不同分佈的資料，降低對模型最終準確度的影響。
+
+##### **Digital Phenotyping for Adolescent Mental Health: A Feasibility Study Employing Machine Learning to Predict Mental Health Risk From Active and Passive Smartphone Data**
+2501.08851v1 by Balasundaram Kadirvelu, Teresa Bellido Bel, Aglaia Freccero, Martina Di Simplicio, Dasha Nicholls, A Aldo Faisal
+
+Background: Adolescents are particularly vulnerable to mental disorders, with
+over 75% of cases manifesting before the age of 25. Research indicates that
+only 18 to 34% of young people experiencing high levels of depression or
+anxiety symptoms seek support. Digital tools leveraging smartphones offer
+scalable and early intervention opportunities. Objective: Using a novel machine
+learning framework, this study evaluated the feasibility of integrating active
+and passive smartphone data to predict mental disorders in non-clinical
+adolescents. Specifically, we investigated the utility of the Mindcraft app in
+predicting risks for internalising and externalising disorders, eating
+disorders, insomnia and suicidal ideation. Methods: Participants (N=103; mean
+age 16.1 years) were recruited from three London schools. Participants
+completed the Strengths and Difficulties Questionnaire, the Eating Disorders-15
+Questionnaire, Sleep Condition Indicator Questionnaire and indicated the
+presence/absence of suicidal ideation. They used the Mindcraft app for 14 days,
+contributing active data via self-reports and passive data from smartphone
+sensors. A contrastive pretraining phase was applied to enhance user-specific
+feature stability, followed by supervised fine-tuning. The model evaluation
+employed leave-one-subject-out cross-validation using balanced accuracy as the
+primary metric. Results: The integration of active and passive data achieved
+superior performance compared to individual data sources, with mean balanced
+accuracies of 0.71 for SDQ-High risk, 0.67 for insomnia, 0.77 for suicidal
+ideation and 0.70 for eating disorders. The contrastive learning framework
+stabilised daily behavioural representations, enhancing predictive robustness.
+This study demonstrates the potential of integrating active and passive
+smartphone data with advanced machine-learning techniques for predicting mental
+health risks.
+
+摘要：<paragraph>背景：青少年特别容易罹患精神疾病，75% 以上的病例在 25 岁之前显现。研究表明，只有 18% 到 34% 经历高度抑郁或焦虑症状的年轻人寻求支持。利用智能手机的数位工具提供可扩展的早期介入机会。目标：本研究使用新颖的机器学习框架，评估将主动和被动智能手机数据整合来预测非临床青少年精神疾病的可行性。具体来说，我们调查了 Mindcraft 应用程序在预测内化和外化障碍、饮食失调、失眠和自杀意念方面的效用。方法：参与者（N=103；平均年龄 16.1 岁）来自伦敦的三所学校。参与者完成了优势和困难问卷、进食障碍-15 问卷、睡眠状况指标问卷，并指出了是否存在自杀意念。他们使用 Mindcraft 应用程序 14 天，通过自我报告提供主动数据，并从智能手机传感器提供被动数据。应用对比预训练阶段来增强特定用户的特征稳定性，然后进行监督微调。模型评估采用留一法交叉验证，使用平衡准确度作为主要指标。结果：与个别数据源相比，主动和被动数据的整合实现了更好的性能，SDQ 高风险的平均平衡准确度为 0.71，失眠为 0.67，自杀意念为 0.77，饮食失调为 0.70。对比学习框架稳定了每日行为表征，增强了预测鲁棒性。本研究展示了将主动和被动智能手机数据与先进机器学习技术相结合以预测心理健康风险的潜力。</paragraph>
+
 ##### **ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**
 2501.08324v1 by Ziyuan Huang, Vishaldeep Kaur Sekhon, Ouyang Guo, Mark Newman, Roozbeh Sadeghian, Maria L. Vaida, Cynthia Jo, Doyle Ward, Vanni Bucci, John P. Haran
 
@@ -2340,6 +2429,30 @@ between self-goals, altruistic rescue, and avoiding negative side effects.
 
 摘要：隨著人工智慧（AI）在人類社會中的廣泛應用，讓 AI 自主與人類價值觀一致已成為確保其永續發展和造福人類的當務之急。與人類價值觀一致最重要的面向之一，在於代理人必須自主做出利他、安全、且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在特定任務中極力追求絕對優越性，對於周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自於人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性的想像互動，以產生周到且利他的行為。受到此啟發，我們致力於賦予代理人體貼的自我想像和 ToM 能力，透過隱含的內在動機驅使他們自主與人類利他價值觀一致。透過將 ToM 整合在想像空間中，代理人能即時關注其他代理人的福祉，主動預測對自身和他人潛在的風險，並做出周到且利他的決策，平衡對環境的負面影響。中國古代故事「司馬光砸缸」說明了年幼的司馬光為了救一個不小心掉進水缸中的孩子而砸破水缸的道德行為，是本文的絕佳參考情境。我們設計了一個與「司馬光砸缸」相似的實驗情境，以及具有不同複雜性的變體，反映了自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
 
+##### **A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application**
+2501.08585v1 by Siqi Zhao, Wangyang Li, Xiru Wang, Stevie Foglia, Hongzhao Tan, Bohan Zhang, Ameer Hamoodi, Aimee Nelson, Zhen Gao
+
+Machine learning (ML) and deep learning (DL) techniques have been widely
+applied to analyze electroencephalography (EEG) signals for disease diagnosis
+and brain-computer interfaces (BCI). The integration of multimodal data has
+been shown to enhance the accuracy of ML and DL models. Combining EEG with
+other modalities can improve clinical decision-making by addressing complex
+tasks in clinical populations. This systematic literature review explores the
+use of multimodal EEG data in ML and DL models for clinical applications. A
+comprehensive search was conducted across PubMed, Web of Science, and Google
+Scholar, yielding 16 relevant studies after three rounds of filtering. These
+studies demonstrate the application of multimodal EEG data in addressing
+clinical challenges, including neuropsychiatric disorders, neurological
+conditions (e.g., seizure detection), neurodevelopmental disorders (e.g.,
+autism spectrum disorder), and sleep stage classification. Data fusion occurred
+at three levels: signal, feature, and decision levels. The most commonly used
+ML models were support vector machines (SVM) and decision trees. Notably, 11
+out of the 16 studies reported improvements in model accuracy with multimodal
+EEG data. This review highlights the potential of multimodal EEG-based ML
+models in enhancing clinical diagnostics and problem-solving.
+
+摘要：機器學習 (ML) 和深度學習 (DL) 技術已廣泛應用於分析腦電圖 (EEG) 訊號，以進行疾病診斷和腦機介面 (BCI)。多模態資料的整合已被證明可以提升 ML 和 DL 模型的準確性。將 EEG 與其他模態結合，可以透過處理臨床族群中的複雜任務，來改善臨床決策。這份系統性文獻回顧探討了在臨床應用中，將多模態 EEG 資料用於 ML 和 DL 模型。在 PubMed、Web of Science 和 Google Scholar 中進行了全面的搜尋，在經過三輪篩選後，共產生了 16 項相關研究。這些研究展示了多模態 EEG 資料在解決臨床挑戰中的應用，包括神經精神疾病、神經疾病（例如癲癇偵測）、神經發展障礙（例如自閉症譜系障礙）和睡眠分期分類。資料融合發生在三個層面：訊號、特徵和決策層面。最常用的 ML 模型是支援向量機 (SVM) 和決策樹。值得注意的是，在 16 項研究中，有 11 項報告了使用多模態 EEG 資料後，模型準確度有所提升。這篇回顧強調了基於多模態 EEG 的 ML 模型在增強臨床診斷和問題解決方面的潛力。
+
 ##### **A Fourfold Pathogen Reference Ontology Suite**
 2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
 
@@ -2469,98 +2582,4 @@ interventions for the corresponding dysfunctions, paving the way for actionable
 clinical decision-making support for early intervention.
 
 摘要：敗血症是由對感染的失調免疫反應所造成的器官功能障礙。早期敗血症預測和識別有助於及時介入，進而改善臨床結果。臨床計算器（例如，SOFA 的六器官功能障礙評估）在臨床醫師的工作流程中扮演著敗血症識別的重要角色，提供敗血症診斷必要的證據為基礎的風險評估。然而，人工智慧（AI）敗血症預測模型通常會產生單一的敗血症風險評分，而未納入用於評估器官功能障礙的臨床計算器，使得模型對臨床醫師來說顯得較不具說服力且透明。為了彌合差距，我們提出模擬臨床醫師的工作流程，使用創新的 SepsisCalc 架構將臨床計算器整合到預測模型中，產生一個在臨床環境中使用時具有臨床透明度且精確的模型。實際上，臨床計算器通常會結合電子健康紀錄（EHR）中多個組成變數的資訊，且當變數（部分）遺失時可能不適用。我們透過將 EHR 表示為時間圖形並整合一個學習模組，動態將準確估計的計算器新增到圖形中，來減輕這個問題。在真實世界資料集上的實驗結果顯示，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供一個可用於部署的人工智慧互動工具，這有助於臨床醫師了解預測輸出，並針對相應的功能障礙準備及時的介入措施，為早期介入的行動臨床決策支援鋪路。
-
-##### **DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**
-2501.00169v1 by Nick Papoulias
-
-Deep Learning experiments have critical requirements regarding the careful
-handling of their datasets as well as the efficient and correct usage of APIs
-that interact with hardware accelerators. On the one hand, software mistakes
-during data handling can contaminate experiments and lead to incorrect results.
-On the other hand, poorly coded APIs that interact with the hardware can lead
-to sub-optimal usage and untrustworthy conclusions. In this work we investigate
-the use of Linear Logic for the analysis of Deep Learning experiments. We show
-that primitives and operators of Linear Logic can be used to express: (i) an
-abstract representation of the control flow of an experiment, (ii) a set of
-available experimental resources, such as API calls to the underlying
-data-structures and hardware as well as (iii) reasoning rules about the correct
-consumption of resources during experiments. Our proposed model is not only
-lightweight but also easy to comprehend having both a symbolic and a visual
-component. Finally, its artifacts are themselves proofs in Linear Logic that
-can be readily verified by off-the-shelf reasoners.
-
-摘要：深度學習實驗對於資料集的仔細處理以及與硬體加速器互動的 API 的有效且正確使用具有重要的要求。一方面，資料處理過程中的軟體錯誤可能會污染實驗並導致不正確的結果。另一方面，與硬體互動的編碼不良的 API 可能導致次佳使用和不可靠的結論。在這項工作中，我們探討了使用線性邏輯來分析深度學習實驗。我們展示了線性邏輯的基本原理和運算符可用於表達：(i) 實驗控制流程的抽象表示，(ii) 一組可用的實驗資源，例如對底層資料結構和硬體的 API 呼叫以及 (iii) 關於在實驗期間正確消耗資源的推理規則。我們提出的模型不僅輕量級，而且易於理解，既有符號組成，也有視覺組成。最後，其工件本身就是線性邏輯中的證明，可以使用現成的推理器輕鬆驗證。
-
-##### **Temporal reasoning for timeline summarisation in social media**
-2501.00152v1 by Jiayu Song, Mahmud Akhter, Dana Atzil Slonim, Maria Liakata
-
-This paper explores whether enhancing temporal reasoning capabilities in
-Large Language Models (LLMs) can improve the quality of timeline summarization,
-the task of summarising long texts containing sequences of events, particularly
-social media threads . We introduce \textit{NarrativeReason}, a novel dataset
-focused on temporal relationships among sequential events within narratives,
-distinguishing it from existing temporal reasoning datasets that primarily
-address pair-wise event relationships. Our approach then combines temporal
-reasoning with timeline summarization through a knowledge distillation
-framework, where we first fine-tune a teacher model on temporal reasoning tasks
-and then distill this knowledge into a student model while simultaneously
-training it for the task of timeline summarization. Experimental results
-demonstrate that our model achieves superior performance on mental
-health-related timeline summarization tasks, which involve long social media
-threads with repetitions of events and a mix of emotions, highlighting the
-importance of leveraging temporal reasoning to improve timeline summarisation.
-
-摘要：這篇論文探討增強大型語言模型 (LLM) 中的時間推理能力是否能提升時間軸摘要的品質，時間軸摘要是針對包含事件順序的長篇文字進行摘要的任務，尤其是社群媒體串。我們引進了\textit{NarrativeReason}，這個新穎的資料集專注於敘述中順序事件之間的時間關係，並將其與現有的時間推理資料集區分開來，後者主要處理成對的事件關係。我們的做法接著透過知識萃取架構將時間推理與時間軸摘要結合，我們首先針對時間推理任務微調一個教師模型，然後將此知識萃取到一個學生模型中，同時訓練它進行時間軸摘要的任務。實驗結果顯示我們的模型在與心理健康相關的時間軸摘要任務中獲得了卓越的表現，這涉及到包含重複事件和各種情緒的長篇社群媒體串，強調了利用時間推理來提升時間軸摘要的重要性。
-
-##### **A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**
-2501.00129v1 by Julia Ive, Paulina Bondaronek, Vishal Yadav, Daniel Santel, Tracy Glauser, Tina Cheng, Jeffrey R. Strawn, Greeshma Agasthya, Jordan Tschida, Sanghyun Choo, Mayanka Chandrashekar, Anuj J. Kapadia, John Pestian
-
-Introduction: Healthcare AI models often inherit biases from their training
-data. While efforts have primarily targeted bias in structured data, mental
-health heavily depends on unstructured data. This study aims to detect and
-mitigate linguistic differences related to non-biological differences in the
-training data of AI models designed to assist in pediatric mental health
-screening. Our objectives are: (1) to assess the presence of bias by evaluating
-outcome parity across sex subgroups, (2) to identify bias sources through
-textual distribution analysis, and (3) to develop a de-biasing method for
-mental health text data. Methods: We examined classification parity across
-demographic groups and assessed how gendered language influences model
-predictions. A data-centric de-biasing method was applied, focusing on
-neutralizing biased terms while retaining salient clinical information. This
-methodology was tested on a model for automatic anxiety detection in pediatric
-patients. Results: Our findings revealed a systematic under-diagnosis of female
-adolescent patients, with a 4% lower accuracy and a 9% higher False Negative
-Rate (FNR) compared to male patients, likely due to disparities in information
-density and linguistic differences in patient notes. Notes for male patients
-were on average 500 words longer, and linguistic similarity metrics indicated
-distinct word distributions between genders. Implementing our de-biasing
-approach reduced diagnostic bias by up to 27%, demonstrating its effectiveness
-in enhancing equity across demographic groups. Discussion: We developed a
-data-centric de-biasing framework to address gender-based content disparities
-within clinical text. By neutralizing biased language and enhancing focus on
-clinically essential information, our approach demonstrates an effective
-strategy for mitigating bias in AI healthcare models trained on text.
-
-摘要：<paragraph>引言：醫療保健 AI 模型通常會從其訓練資料中繼承偏見。雖然努力主要針對結構化資料中的偏見，但心理健康在很大程度上依賴於非結構化資料。本研究旨在檢測並減輕與設計用於協助兒童心理健康篩檢的 AI 模型訓練資料中的非生物差異相關的語言差異。我們的目標是：(1) 透過評估不同性別子群體的結果平價來評估偏見的存在，(2) 透過文本分佈分析來找出偏見來源，以及 (3) 開發一種心理健康文本資料的去偏見方法。方法：我們檢查了不同人口群體的分類平價，並評估了性別語言如何影響模型預測。應用了一種以資料為中心的去偏見方法，專注於在保留顯著臨床資訊的同時中和有偏見的術語。此方法在一個用於兒童患者自動焦慮檢測的模型上進行了測試。結果：我們的研究結果揭示了對女性青少年患者的系統性診斷不足，與男性患者相比，準確率低了 4%，假陰性率 (FNR) 高了 9%，這可能是由於患者備註中資訊密度和語言差異的差異。男性患者的備註平均長 500 個字，語言相似性指標顯示不同性別之間的字詞分佈截然不同。實施我們的去偏見方法將診斷偏見降低了 27%，證明了其在提升不同人口群體之間公平性的有效性。討論：我們開發了一個以資料為中心的去偏見架構，用於解決臨床文本中的基於性別的內容差異。透過中和有偏見的語言和加強對臨床必要資訊的關注，我們的做法展示了一種有效策略，用於減輕在文本上訓練的 AI 醫療保健模型中的偏見。</paragraph>
-
-##### **Leveraging AI for Automatic Classification of PCOS Using Ultrasound Imaging**
-2501.01984v1 by Atharva Divekar, Atharva Sonawane
-
-The AUTO-PCOS Classification Challenge seeks to advance the diagnostic
-capabilities of artificial intelligence (AI) in identifying Polycystic Ovary
-Syndrome (PCOS) through automated classification of healthy and unhealthy
-ultrasound frames. This report outlines our methodology for building a robust
-AI pipeline utilizing transfer learning with the InceptionV3 architecture to
-achieve high accuracy in binary classification. Preprocessing steps ensured the
-dataset was optimized for training, validation, and testing, while
-interpretability methods like LIME and saliency maps provided valuable insights
-into the model's decision-making. Our approach achieved an accuracy of 90.52%,
-with precision, recall, and F1-score metrics exceeding 90% on validation data,
-demonstrating its efficacy. The project underscores the transformative
-potential of AI in healthcare, particularly in addressing diagnostic challenges
-like PCOS. Key findings, challenges, and recommendations for future
-enhancements are discussed, highlighting the pathway for creating reliable,
-interpretable, and scalable AI-driven medical diagnostic tools.
-
-摘要：AUTO-PCOS 分類挑戰旨在透過自動分類健康和不健康的超音波影像，提升人工智慧 (AI) 在辨識多囊性卵巢症候群 (PCOS) 的診斷能力。這份報告概述了我們建構強健 AI 管線的方法，利用 InceptionV3 架構進行遷移學習，以在二元分類中達成高準確度。預處理步驟確保資料集已針對訓練、驗證和測試進行最佳化，而 LIME 和顯著性圖等可解釋性方法則提供了有價值的見解，說明模型的決策制定。我們的做法在驗證資料上達到了 90.52% 的準確度，精確度、召回率和 F1 分數都超過 90%，證明了它的效力。這個專案強調了 AI 在醫療保健中的轉型潛力，特別是在解決 PCOS 等診斷挑戰方面。討論了關鍵發現、挑戰和未來增強建議，突顯了建立可靠、可解釋且可擴充的 AI 驅動醫療診斷工具的途徑。
 

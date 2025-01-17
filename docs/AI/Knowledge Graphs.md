@@ -2,6 +2,10 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**|Anbang Ye et.al.|[2501.09316v1](http://arxiv.org/abs/2501.09316v1)|null|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279v1](http://arxiv.org/abs/2501.09279v1)|null|
+|**2025-01-16**|**A Simple Graph Contrastive Learning Framework for Short Text Classification**|Yonghao Liu et.al.|[2501.09219v1](http://arxiv.org/abs/2501.09219v1)|[link](https://github.com/keaml-jlu/simstc)|
+|**2025-01-16**|**Boosting Short Text Classification with Multi-Source Information Exploration and Dual-Level Contrastive Learning**|Yonghao Liu et.al.|[2501.09214v1](http://arxiv.org/abs/2501.09214v1)|[link](https://github.com/keaml-jlu/mi-delight)|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|null|
 |**2025-01-15**|**Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**|Chuangtao Ma et.al.|[2501.08686v1](http://arxiv.org/abs/2501.08686v1)|null|
 |**2025-01-15**|**Assessing the Alignment of FOL Closeness Metrics with Human Judgement**|Ramya Keerthy Thatikonda et.al.|[2501.08613v1](http://arxiv.org/abs/2501.08613v1)|[link](https://github.com/ramyakeerthy/alignmentfol)|
@@ -23,7 +27,7 @@
 |**2025-01-10**|**Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration**|Zuyuan Zhang et.al.|[2501.05673v1](http://arxiv.org/abs/2501.05673v1)|null|
 |**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648v1](http://arxiv.org/abs/2501.04648v1)|null|
 |**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
-|**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|null|
+|**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|[link](https://github.com/Vprashant/s2-chunking-lib)|
 |**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
 |**2025-01-07**|**Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**|Wen-Dong Jiang et.al.|[2501.06224v1](http://arxiv.org/abs/2501.06224v1)|null|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
@@ -98,12 +102,103 @@
 |**2024-12-17**|**Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**|Yibo Zhao et.al.|[2412.15268v2](http://arxiv.org/abs/2412.15268v2)|null|
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456v1](http://arxiv.org/abs/2412.12456v1)|null|
 |**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v1](http://arxiv.org/abs/2412.12318v1)|null|
-|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
-|**2024-12-16**|**SE-GCL: An Event-Based Simple and Effective Graph Contrastive Learning for Text Representation**|Tao Meng et.al.|[2412.11652v1](http://arxiv.org/abs/2412.11652v1)|null|
-|**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618v1](http://arxiv.org/abs/2412.11618v1)|null|
-|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499v1](http://arxiv.org/abs/2412.11499v1)|null|
 
 #### Abstracts
+##### **SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**
+2501.09316v1 by Anbang Ye, Qianran Ma, Jia Chen, Muqi Li, Tong Li, Fujiao Liu, Siqi Mai, Meichen Lu, Haitao Bao, Yang You
+
+Despite significant advancements in general-purpose AI agents, several
+challenges still hinder their practical application in real-world scenarios.
+First, the limited planning capabilities of Large Language Models (LLM)
+restrict AI agents from effectively solving complex tasks that require
+long-horizon planning. Second, general-purpose AI agents struggle to
+efficiently utilize domain-specific knowledge and human expertise. In this
+paper, we introduce the Standard Operational Procedure-guided Agent
+(SOP-agent), a novel framework for constructing domain-specific agents through
+pseudocode-style Standard Operational Procedures (SOPs) written in natural
+language. Formally, we represent a SOP as a decision graph, which is traversed
+to guide the agent in completing tasks specified by the SOP. We conduct
+extensive experiments across tasks in multiple domains, including
+decision-making, search and reasoning, code generation, data cleaning, and
+grounded customer service. The SOP-agent demonstrates excellent versatility,
+achieving performance superior to general-purpose agent frameworks and
+comparable to domain-specific agent systems. Additionally, we introduce the
+Grounded Customer Service Benchmark, the first benchmark designed to evaluate
+the grounded decision-making capabilities of AI agents in customer service
+scenarios based on SOPs.
+
+摘要：儘管通用 AI 代理在一般用途上取得顯著進展，但仍有數項挑戰阻礙其在實際場景中的實用應用。
+首先，大型語言模型 (LLM) 有限的規劃能力限制了 AI 代理有效解決需要長期規劃的複雜任務。其次，通用 AI 代理難以有效利用特定領域的知識和人類專業知識。在本文中，我們介紹了標準操作程序引導代理 (SOP-agent)，這是一個透過以自然語言撰寫的偽代碼風格標準操作程序 (SOP) 來建構特定領域代理的新穎架構。正式來說，我們將 SOP 表示為決策圖，並在其中穿梭以引導代理完成 SOP 指定的任務。我們在多個領域中的任務中進行廣泛的實驗，包括決策制定、搜尋和推理、程式碼生成、資料清理和基礎客戶服務。SOP-agent 展示出卓越的多功能性，其效能優於通用代理架構，且與特定領域代理系統相當。此外，我們介紹了基礎客戶服務基準，這是第一個基準，旨在評估 AI 代理在基於 SOP 的客戶服務場景中基礎決策制定能力。
+
+##### **Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**
+2501.09279v1 by Zijin Qiu, Jiepeng Liu, Yi Xia, Hongtuo Qi, Pengkun Liu
+
+Flexibility in the AI-based residential layout design remains a significant
+challenge, as traditional methods like rule-based heuristics and graph-based
+generation often lack flexibility and require substantial design knowledge from
+users. To address these limitations, we propose a cross-modal design approach
+based on the Stable Diffusion model for generating flexible residential
+layouts. The method offers multiple input types for learning objectives,
+allowing users to specify both boundaries and layouts. It incorporates natural
+language as design constraints and introduces ControlNet to enable stable
+layout generation through two distinct pathways. We also present a scheme that
+encapsulates design expertise within a knowledge graph and translates it into
+natural language, providing an interpretable representation of design
+knowledge. This comprehensibility and diversity of input options enable
+professionals and non-professionals to directly express design requirements,
+enhancing flexibility and controllability. Finally, experiments verify the
+flexibility of the proposed methods under multimodal constraints better than
+state-of-the-art models, even when specific semantic information about room
+areas or connections is incomplete.
+
+摘要：在基於 AI 的住宅佈局設計中，靈活性仍是一項重大挑戰，因為基於規則的啟發法和基於圖形的產生等傳統方法通常缺乏靈活性，且需要使用者具備大量的設計知識。為了解決這些限制，我們提出一個跨模態設計方法，該方法基於 Stable Diffusion 模型，用於產生靈活的住宅佈局。此方法提供多種輸入類型以進行學習目標，使用戶能夠同時指定邊界和佈局。它將自然語言作為設計約束，並引入 ControlNet，以透過兩個不同的路徑實現穩定的佈局產生。我們還提出了一個將設計專業知識封裝在知識圖形中的方案，並將其轉換為自然語言，提供設計知識的可詮釋表示。這種可理解性和輸入選項的多樣性使專業人士和非專業人士能夠直接表達設計需求，從而增強靈活性與可控性。最後，實驗驗證了所提出的方法在多模態約束下的靈活性優於最先進的模型，即使關於房間區域或連接的特定語義資訊不完整時也是如此。
+
+##### **A Simple Graph Contrastive Learning Framework for Short Text Classification**
+2501.09219v1 by Yonghao Liu, Fausto Giunchiglia, Lan Huang, Ximing Li, Xiaoyue Feng, Renchu Guan
+
+Short text classification has gained significant attention in the information
+age due to its prevalence and real-world applications. Recent advancements in
+graph learning combined with contrastive learning have shown promising results
+in addressing the challenges of semantic sparsity and limited labeled data in
+short text classification. However, existing models have certain limitations.
+They rely on explicit data augmentation techniques to generate contrastive
+views, resulting in semantic corruption and noise. Additionally, these models
+only focus on learning the intrinsic consistency between the generated views,
+neglecting valuable discriminative information from other potential views. To
+address these issues, we propose a Simple graph contrastive learning framework
+for Short Text Classification (SimSTC). Our approach involves performing graph
+learning on multiple text-related component graphs to obtain multi-view text
+embeddings. Subsequently, we directly apply contrastive learning on these
+embeddings. Notably, our method eliminates the need for data augmentation
+operations to generate contrastive views while still leveraging the benefits of
+multi-view contrastive learning. Despite its simplicity, our model achieves
+outstanding performance, surpassing large language models on various datasets.
+
+摘要：短文本分类在信息时代得到了广泛关注，因为它具有普遍性和现实世界的应用。最近，图学习与对比学习相结合的进步在解决短文本分类中语义稀疏性和标记数据有限的挑战方面显示出有希望的结果。然而，现有的模型具有一定的局限性。它们依赖于显式的数据增强技术来生成对比视图，从而导致语义损坏和噪声。此外，这些模型只关注学习生成视图之间的内在一致性，而忽略了其他潜在视图中有价值的判别信息。为了解决这些问题，我们提出了一个用于短文本分类的简单图对比学习框架 (SimSTC)。我们的方法涉及对多个文本相关组件图执行图学习以获得多视图文本嵌入。随后，我们直接对这些嵌入应用对比学习。值得注意的是，我们的方法消除了生成对比视图时对数据增强操作的需求，同时仍然利用了多视图对比学习的优势。尽管很简单，但我们的模型获得了出色的性能，在各种数据集上超越了大型语言模型。
+
+##### **Boosting Short Text Classification with Multi-Source Information Exploration and Dual-Level Contrastive Learning**
+2501.09214v1 by Yonghao Liu, Mengyu Li, Wei Pang, Fausto Giunchiglia, Lan Huang, Xiaoyue Feng, Renchu Guan
+
+Short text classification, as a research subtopic in natural language
+processing, is more challenging due to its semantic sparsity and insufficient
+labeled samples in practical scenarios. We propose a novel model named
+MI-DELIGHT for short text classification in this work. Specifically, it first
+performs multi-source information (i.e., statistical information, linguistic
+information, and factual information) exploration to alleviate the sparsity
+issues. Then, the graph learning approach is adopted to learn the
+representation of short texts, which are presented in graph forms. Moreover, we
+introduce a dual-level (i.e., instance-level and cluster-level) contrastive
+learning auxiliary task to effectively capture different-grained contrastive
+information within massive unlabeled data. Meanwhile, previous models merely
+perform the main task and auxiliary tasks in parallel, without considering the
+relationship among tasks. Therefore, we introduce a hierarchical architecture
+to explicitly model the correlations between tasks. We conduct extensive
+experiments across various benchmark datasets, demonstrating that MI-DELIGHT
+significantly surpasses previous competitive models. It even outperforms
+popular large language models on several datasets.
+
+摘要：短文本分類作為自然語言處理的研究子主題，由於其語義稀疏性和實際場景中標記樣本不足，因此更具挑戰性。在這項工作中，我們提出了一個名為 MI-DELIGHT 的新模型，用於短文本分類。具體來說，它首先執行多源信息（即統計信息、語言信息和事實信息）探索，以緩解稀疏性問題。然後，採用圖學習方法來學習以圖表形式呈現的短文本的表示。此外，我們引入了一個雙層級（即實例層級和群集層級）對比學習輔助任務，以有效捕獲大量未標記數據中的不同粒度對比信息。同時，以前的模型僅並行執行主任務和輔助任務，而沒有考慮任務之間的關係。因此，我們引入了一個分層架構來明確建模任務之間的相關性。我們在各種基準數據集上進行了廣泛的實驗，證明 MI-DELIGHT 明顯優於以前的競爭模型。它甚至在幾個數據集上優於流行的大語言模型。
+
 ##### **Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**
 2501.08897v1 by Qinyu Ma, Yuhao Zhou, Jianfeng Li
 
@@ -2463,117 +2558,4 @@ stepping stone for addressing additional criteria for NLE and generated text
 overall.
 
 摘要：自然語言解釋 (NLE) 常用於提供模型對其預測的合理解釋。然而，最近的研究質疑 NLE 的忠實度，因為它們可能無法準確反映模型在其預測答案上的內部推理過程。相反，重點解釋——被識別為對模型預測至關重要的輸入片段——表現出可衡量的忠實度，這已通過現有研究逐步得到改進。在此基礎上，我們提出了 G-Tex，一個圖形引導文本解釋生成框架，旨在通過利用重點解釋來增強 NLE 的忠實度。具體來說，重點解釋被提取為代表模型推理的高度忠實線索，然後通過圖神經網路層進行編碼，這明確指導了 NLE 生成過程。這種對齊確保生成的解釋緊密反映模型的底層推理。使用三個推理數據集對 T5 和 BART 進行的實驗表明，與基線方法相比，G-Tex 將 NLE 的忠實度提高了 17.59%。此外，G-Tex 生成的 NLE 與人類編寫的 NLE 在語義和詞彙上具有更高的相似性。人類評估表明，G-Tex 可以減少冗餘內容並提高 NLE 的整體品質。由於我們的研究引入了一種明確指導 NLE 生成的創新方法來提高忠實度，我們希望它將作為解決 NLE 和整體生成文本的附加標準的墊腳石。
-
-##### **Cost-Effective Label-free Node Classification with LLMs**
-2412.11983v1 by Taiyan Zhang, Renchi Yang, Mingyu Yan, Xiaochun Ye, Dongrui Fan, Yurui Lai
-
-Graph neural networks (GNNs) have emerged as go-to models for node
-classification in graph data due to their powerful abilities in fusing graph
-structures and attributes. However, such models strongly rely on adequate
-high-quality labeled data for training, which are expensive to acquire in
-practice. With the advent of large language models (LLMs), a promising way is
-to leverage their superb zero-shot capabilities and massive knowledge for node
-labeling. Despite promising results reported, this methodology either demands
-considerable queries to LLMs, or suffers from compromised performance caused by
-noisy labels produced by LLMs.
-  To remedy these issues, this work presents Cella, an active self-training
-framework that integrates LLMs into GNNs in a cost-effective manner. The design
-recipe of Cella is to iteratively identify small sets of "critical" samples
-using GNNs and extract informative pseudo-labels for them with both LLMs and
-GNNs as additional supervision signals to enhance model training. Particularly,
-Cella includes three major components: (i) an effective active node selection
-strategy for initial annotations; (ii) a judicious sample selection scheme to
-sift out the "critical" nodes based on label disharmonicity and entropy; and
-(iii) a label refinement module combining LLMs and GNNs with rewired topology.
-Our extensive experiments over five benchmark text-attributed graph datasets
-demonstrate that Cella significantly outperforms the state of the arts under
-the same query budget to LLMs in terms of label-free node classification. In
-particular, on the DBLP dataset with 14.3k nodes, Cella is able to achieve an
-8.08% conspicuous improvement in accuracy over the state-of-the-art at a cost
-of less than one cent.
-
-摘要：圖形神經網路 (GNN) 已成為圖形資料中節點分類的熱門模型，因為它們在融合圖形結構和屬性方面具有強大的能力。然而，此類模型在訓練時高度依賴足夠的高品質標籤資料，而這些資料在實務上取得的成本很高。隨著大型語言模型 (LLM) 的出現，一個有前途的方法是利用其卓越的零次學習能力和海量知識進行節點標籤。儘管報告了有希望的結果，但此方法不是需要大量查詢 LLM，就是會因為 LLM 產生的標籤有雜訊而導致效能受損。
-為了解決這些問題，本研究提出 Cella，一個主動自訓練架構，以具有成本效益的方式將 LLM 整合到 GNN 中。Cella 的設計秘訣是使用 GNN 迭代識別小組「關鍵」樣本，並使用 LLM 和 GNN 作為額外的監督訊號，為這些樣本萃取有意義的偽標籤，以增強模型訓練。特別是，Cella 包含三個主要組成部分：(i) 一個有效的節點主動選擇策略，用於初始註解；(ii) 一個明智的樣本選擇方案，根據標籤不協調性和熵篩選出「關鍵」節點；以及 (iii) 一個結合 LLM 和 GNN 以及重新連線拓撲的標籤精緻模組。我們在五個基準文字屬性圖形資料集上進行的廣泛實驗表明，在相同的 LLM 查詢預算下，Cella 在無標籤節點分類方面顯著優於現有技術。特別是在具有 14.3k 個節點的 DBLP 資料集上，Cella 能夠以低於一美分的成本，在準確度上比現有技術顯著提升 8.08%。
-
-##### **SE-GCL: An Event-Based Simple and Effective Graph Contrastive Learning for Text Representation**
-2412.11652v1 by Tao Meng, Wei Ai, Jianbin Li, Ze Wang, Yuntao Shou, Keqin Li
-
-Text representation learning is significant as the cornerstone of natural
-language processing. In recent years, graph contrastive learning (GCL) has been
-widely used in text representation learning due to its ability to represent and
-capture complex text information in a self-supervised setting. However, current
-mainstream graph contrastive learning methods often require the incorporation
-of domain knowledge or cumbersome computations to guide the data augmentation
-process, which significantly limits the application efficiency and scope of
-GCL. Additionally, many methods learn text representations only by constructing
-word-document relationships, which overlooks the rich contextual semantic
-information in the text. To address these issues and exploit representative
-textual semantics, we present an event-based, simple, and effective graph
-contrastive learning (SE-GCL) for text representation. Precisely, we extract
-event blocks from text and construct internal relation graphs to represent
-inter-semantic interconnections, which can ensure that the most critical
-semantic information is preserved. Then, we devise a streamlined, unsupervised
-graph contrastive learning framework to leverage the complementary nature of
-the event semantic and structural information for intricate feature data
-capture. In particular, we introduce the concept of an event skeleton for core
-representation semantics and simplify the typically complex data augmentation
-techniques found in existing graph contrastive learning to boost algorithmic
-efficiency. We employ multiple loss functions to prompt diverse embeddings to
-converge or diverge within a confined distance in the vector space, ultimately
-achieving a harmonious equilibrium. We conducted experiments on the proposed
-SE-GCL on four standard data sets (AG News, 20NG, SougouNews, and THUCNews) to
-verify its effectiveness in text representation learning.
-
-摘要：文本表徵學習作為自然語言處理的基石，具有重要的意義。近年來，圖形對比學習 (GCL) 因其在自我監督設定中表徵和擷取複雜文本資訊的能力，而被廣泛用於文本表徵學習。然而，當前的主流圖形對比學習方法通常需要加入領域知識或繁瑣的運算來引導資料擴充程序，這顯著地限制了 GCL 的應用效率和範圍。此外，許多方法僅透過建構字詞文件關係來學習文本表徵，這忽略了文本中豐富的脈絡語義資訊。為了解決這些問題並運用具代表性的文本語義，我們提出了一種基於事件、簡單且有效的圖形對比學習 (SE-GCL) 來進行文本表徵。具體來說，我們從文本中萃取事件區塊並建構內部關係圖形來表徵語義間的相互連結，這能確保保留最關鍵的語義資訊。接著，我們設計了一個簡化的無監督圖形對比學習架構，以利用事件語義和結構資訊的互補特性來擷取複雜的特徵資料。特別地，我們引入了事件骨架的概念，用於核心表徵語義，並簡化現有圖形對比學習中通常複雜的資料擴充技術，以提升演算法效率。我們採用多重損失函數來促使不同的嵌入在向量空間中受限距離內收斂或發散，最終達成和諧的平衡。我們在四個標準資料集 (AG News、20NG、SougouNews 和 THUCNews) 上對所提出的 SE-GCL 進行了實驗，以驗證其在文本表徵學習中的有效性。
-
-##### **EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**
-2412.11618v1 by Nuowei Liu, Changzhi Sun, Tao Ji, Junfeng Tian, Jianxin Tang, Yuanbin Wu, Man Lan
-
-Current Large Language Models (LLMs) for understanding proteins primarily
-treats amino acid sequences as a text modality. Meanwhile, Protein Language
-Models (PLMs), such as ESM-2, have learned massive sequential evolutionary
-knowledge from the universe of natural protein sequences. Furthermore,
-structure-based encoders like ProteinMPNN learn the structural information of
-proteins through Graph Neural Networks. However, whether the incorporation of
-protein encoders can enhance the protein understanding of LLMs has not been
-explored. To bridge this gap, we propose EvoLlama, a multimodal framework that
-connects a structure-based encoder, a sequence-based protein encoder and an LLM
-for protein understanding. EvoLlama consists of a ProteinMPNN structure
-encoder, an ESM-2 protein sequence encoder, a multimodal projector to align
-protein and text representations and a Llama-3 text decoder. To train EvoLlama,
-we fine-tune it on protein-oriented instructions and protein property
-prediction datasets verbalized via natural language instruction templates. Our
-experiments show that EvoLlama's protein understanding capabilities have been
-significantly enhanced, outperforming other fine-tuned protein-oriented LLMs in
-zero-shot settings by an average of 1%-8% and surpassing the state-of-the-art
-baseline with supervised fine-tuning by an average of 6%. On protein property
-prediction datasets, our approach achieves promising results that are
-competitive with state-of-the-art task-specific baselines. We will release our
-code in a future version.
-
-摘要：目前用於理解蛋白質的大型語言模型 (LLM) 主要將胺基酸序列視為文字形式。同時，蛋白質語言模型 (PLM)，例如 ESM-2，已從自然蛋白質序列的宇宙中學習到大量的順序進化知識。此外，像 ProteinMPNN 等基於結構的編碼器透過圖形神經網路學習蛋白質的結構資訊。然而，尚未探討結合蛋白質編碼器是否能增強 LLM 對蛋白質的理解。為了彌合這個差距，我們提出 EvoLlama，一個多模態架構，它結合一個基於結構的編碼器、一個基於序列的蛋白質編碼器和一個用於理解蛋白質的 LLM。EvoLlama 包含一個 ProteinMPNN 結構編碼器、一個 ESM-2 蛋白質序列編碼器、一個多模態投影器，用於對齊蛋白質和文字表徵，以及一個 Llama-3 文字解碼器。為了訓練 EvoLlama，我們針對蛋白質導向的指令和透過自然語言指令範本表達的蛋白質屬性預測資料集微調它。我們的實驗顯示，EvoLlama 的蛋白質理解能力已獲得顯著提升，在零次學習設定中，平均優於其他微調的蛋白質導向 LLM 1%-8%，並在有監督的微調中平均優於最先進的基準 6%。在蛋白質屬性預測資料集上，我們的做法達到了有希望的結果，與最先進的特定任務基準相當。我們將在未來版本中釋出我們的程式碼。
-
-##### **Embodied CoT Distillation From LLM To Off-the-shelf Agents**
-2412.11499v1 by Wonje Choi, Woo Kyung Kim, Minjong Yoo, Honguk Woo
-
-We address the challenge of utilizing large language models (LLMs) for
-complex embodied tasks, in the environment where decision-making systems
-operate timely on capacity-limited, off-the-shelf devices. We present DeDer, a
-framework for decomposing and distilling the embodied reasoning capabilities
-from LLMs to efficient, small language model (sLM)-based policies. In DeDer,
-the decision-making process of LLM-based strategies is restructured into a
-hierarchy with a reasoning-policy and planning-policy. The reasoning-policy is
-distilled from the data that is generated through the embodied in-context
-learning and self-verification of an LLM, so it can produce effective
-rationales. The planning-policy, guided by the rationales, can render optimized
-plans efficiently. In turn, DeDer allows for adopting sLMs for both policies,
-deployed on off-the-shelf devices. Furthermore, to enhance the quality of
-intermediate rationales, specific to embodied tasks, we devise the embodied
-knowledge graph, and to generate multiple rationales timely through a single
-inference, we also use the contrastively prompted attention model. Our
-experiments with the ALFRED benchmark demonstrate that DeDer surpasses leading
-language planning and distillation approaches, indicating the applicability and
-efficiency of sLM-based embodied policies derived through DeDer.
-
-摘要：我們解決了在決策系統於容量有限的現成設備上即時運作的環境中，利用大型語言模型 (LLM) 執行複雜具身任務的挑戰。我們提出 DeDer，一個用於將具身推理能力從 LLM 分解並萃取出高效能、小型語言模型 (sLM) 為基礎的政策的框架。在 DeDer 中，基於 LLM 的策略的決策流程被重新結構為一個具有推理政策和規劃政策的階層。推理政策從透過 LLM 的具身情境學習和自我驗證所產生的資料中萃取出，因此它可以產生有效的依據。規劃政策在依據的引導下，可以有效率地呈現最佳化的計畫。反過來，DeDer 允許採用 sLM 來執行這兩個政策，並部署在現成設備上。此外，為了提升中間依據的品質，特別是針對具身任務，我們設計了具身知識圖譜，並透過單一推論即時產生多個依據，我們也使用了對比提示注意力模型。我們使用 ALFRED 基準進行的實驗證明，DeDer 超越了領先的語言規劃和萃取方法，這表示透過 DeDer 衍生的基於 sLM 的具身政策具有適用性和效率。
 

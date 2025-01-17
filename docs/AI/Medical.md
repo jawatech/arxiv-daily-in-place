@@ -2,9 +2,19 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744v1](http://arxiv.org/abs/2501.09744v1)|null|
+|**2025-01-16**|**Electronic Health Records: Towards Digital Twins in Healthcare**|Muhammet Alkan et.al.|[2501.09640v1](http://arxiv.org/abs/2501.09640v1)|null|
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
+|**2025-01-16**|**IFRA: a machine learning-based Instrumented Fall Risk Assessment Scale derived from Instrumented Timed Up and Go test in stroke patients**|Simone Macciò et.al.|[2501.09595v1](http://arxiv.org/abs/2501.09595v1)|null|
+|**2025-01-16**|**Understanding Mental Health Content on Social Media and Its Effect Towards Suicidal Ideation**|Mohaiminul Islam Bhuiyan et.al.|[2501.09309v1](http://arxiv.org/abs/2501.09309v1)|null|
+|**2025-01-16**|**Interpretable Droplet Digital PCR Assay for Trustworthy Molecular Diagnostics**|Yuanyuan Wei et.al.|[2501.09218v1](http://arxiv.org/abs/2501.09218v1)|null|
+|**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
+|**2025-01-15**|**Benchmarking Robustness of Contrastive Learning Models for Medical Image-Report Retrieval**|Demetrio Deanda et.al.|[2501.09134v1](http://arxiv.org/abs/2501.09134v1)|null|
+|**2025-01-15**|**Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**|Huiyu Li et.al.|[2501.09114v1](http://arxiv.org/abs/2501.09114v1)|[link](https://github.com/huiyu-li/gmia)|
 |**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977v1](http://arxiv.org/abs/2501.08977v1)|null|
 |**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962v1](http://arxiv.org/abs/2501.08962v1)|null|
 |**2025-01-15**|**Digital Phenotyping for Adolescent Mental Health: A Feasibility Study Employing Machine Learning to Predict Mental Health Risk From Active and Passive Smartphone Data**|Balasundaram Kadirvelu et.al.|[2501.08851v1](http://arxiv.org/abs/2501.08851v1)|null|
+|**2025-01-15**|**Spatio-Temporal Foundation Models: Vision, Challenges, and Opportunities**|Adam Goodge et.al.|[2501.09045v1](http://arxiv.org/abs/2501.09045v1)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324v1](http://arxiv.org/abs/2501.08324v1)|null|
 |**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241v1](http://arxiv.org/abs/2501.08241v1)|null|
 |**2025-01-14**|**ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems**|Mohita Chowdhury et.al.|[2501.08208v1](http://arxiv.org/abs/2501.08208v1)|null|
@@ -18,6 +28,7 @@
 |**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525v1](http://arxiv.org/abs/2501.07525v1)|[link](https://github.com/difeigu/radalign)|
 |**2025-01-13**|**A Survey of Embodied AI in Healthcare: Techniques, Applications, and Opportunities**|Yihao Liu et.al.|[2501.07468v1](http://arxiv.org/abs/2501.07468v1)|null|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-01-13**|**Synthetic Data and Health Privacy**|Gwénolé Abgrall et.al.|[2501.09031v1](http://arxiv.org/abs/2501.09031v1)|null|
 |**2025-01-13**|**Natural Language-Assisted Multi-modal Medication Recommendation**|Jie Tan et.al.|[2501.07166v1](http://arxiv.org/abs/2501.07166v1)|[link](https://github.com/jtan1102/nla-mmr_cikm_2024)|
 |**2025-01-13**|**CureGraph: Contrastive Multi-Modal Graph Representation Learning for Urban Living Circle Health Profiling and Prediction**|Jinlin Li et.al.|[2501.07157v1](http://arxiv.org/abs/2501.07157v1)|[link](https://github.com/jinlin2021/curegraph)|
 |**2025-01-13**|**UNetVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM**|Xuhui Guo et.al.|[2501.07017v1](http://arxiv.org/abs/2501.07017v1)|null|
@@ -91,19 +102,243 @@
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
 |**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|[link](https://github.com/xiaqi7/fetal-ultrasound)|
 |**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
-|**2024-12-31**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464v1](http://arxiv.org/abs/2501.05464v1)|null|
-|**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462v1](http://arxiv.org/abs/2501.01462v1)|null|
-|**2024-12-31**|**A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**|Lahcen El Fatimi et.al.|[2501.01991v1](http://arxiv.org/abs/2501.01991v1)|null|
-|**2024-12-31**|**GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**|George Yuanji Wang et.al.|[2501.01458v1](http://arxiv.org/abs/2501.01458v1)|[link](https://github.com/george-yuanji-wang/gan-tat)|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320v2](http://arxiv.org/abs/2501.00320v2)|[link](https://github.com/braincog-x/brain-cog)|
-|**2024-12-31**|**A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application**|Siqi Zhao et.al.|[2501.08585v1](http://arxiv.org/abs/2501.08585v1)|null|
-|**2024-12-31**|**A Fourfold Pathogen Reference Ontology Suite**|Shane Babcock et.al.|[2501.01454v1](http://arxiv.org/abs/2501.01454v1)|null|
-|**2024-12-31**|**CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**|Michael Gubanov et.al.|[2501.00223v1](http://arxiv.org/abs/2501.00223v1)|null|
-|**2024-12-31**|**An Empirical Evaluation of Large Language Models on Consumer Health Questions**|Moaiz Abrar et.al.|[2501.00208v1](http://arxiv.org/abs/2501.00208v1)|null|
-|**2024-12-31**|**GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**|Giuliano Lorenzoni et.al.|[2501.00199v1](http://arxiv.org/abs/2501.00199v1)|null|
-|**2024-12-31**|**SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**|Changchang Yin et.al.|[2501.00190v2](http://arxiv.org/abs/2501.00190v2)|[link](https://github.com/yinchangchang/sepsiscalc)|
 
 #### Abstracts
+##### **KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**
+2501.09744v1 by Hajung Kim, Chanhwi Kim, Jiwoong Sohn, Tim Beck, Marek Rei, Sunkyu Kim, T Ian Simpson, Joram M Posma, Antoine Lain, Mujeen Sung, Jaewoo Kang
+
+The objective of BioCreative8 Track 3 is to extract phenotypic key medical
+findings embedded within EHR texts and subsequently normalize these findings to
+their Human Phenotype Ontology (HPO) terms. However, the presence of diverse
+surface forms in phenotypic findings makes it challenging to accurately
+normalize them to the correct HPO terms. To address this challenge, we explored
+various models for named entity recognition and implemented data augmentation
+techniques such as synonym marginalization to enhance the normalization step.
+Our pipeline resulted in an exact extraction and normalization F1 score 2.6\%
+higher than the mean score of all submissions received in response to the
+challenge. Furthermore, in terms of the normalization F1 score, our approach
+surpassed the average performance by 1.9\%. These findings contribute to the
+advancement of automated medical data extraction and normalization techniques,
+showcasing potential pathways for future research and application in the
+biomedical domain.
+
+摘要：BioCreative8 軌道 3 的目標是從電子病歷文本中萃取表型關鍵醫療發現，並將這些發現標準化為人類表型本体 (HPO) 條款。然而，表型發現中存在多樣化的表面形式，這使得將其準確標準化為正確的 HPO 條款具有挑戰性。為了應對這一挑戰，我們探討了命名實體識別的各種模型，並實作了資料擴充技術，例如同義詞邊緣化，以增強標準化步驟。我們的管道產生了精確的萃取和標準化 F1 分數，比回應挑戰所收到的所有提交的平均分數高 2.6%。此外，在標準化 F1 分數方面，我們的做法比平均表現高出 1.9%。這些發現有助於自動化醫療資料萃取和標準化技術的進展，展示了生物醫學領域未來研究和應用的潛在途徑。
+
+##### **Electronic Health Records: Towards Digital Twins in Healthcare**
+2501.09640v1 by Muhammet Alkan, Hester Huijsdens, Yola Jones, Fani Deligianni
+
+The pivotal shift from traditional paper-based records to sophisticated
+Electronic Health Records (EHR), enabled systematic collection and analysis of
+patient data through descriptive statistics, providing insight into patterns
+and trends across patient populations. This evolution continued toward
+predictive analytics, allowing healthcare providers to anticipate patient
+outcomes and potential complications before they occur. This progression from
+basic digital record-keeping to sophisticated predictive modelling and digital
+twins reflects healthcare's broader evolution toward more integrated,
+patient-centred approaches that combine data-driven insights with personalized
+care delivery. This chapter explores the evolution and significance of
+healthcare information systems, beginning with an examination of the
+implementation of EHR in the UK and the USA. It provides a comprehensive
+overview of the International Classification of Diseases (ICD) system, tracing
+its development from ICD-9 to ICD-10. Central to this discussion is the
+MIMIC-III database, a landmark achievement in healthcare data sharing and
+arguably the most comprehensive critical care database freely available to
+researchers worldwide. MIMIC-III has democratized access to high-quality
+healthcare data, enabling unprecedented opportunities for research and
+analysis. The chapter examines its structure, clinical outcome analysis
+capabilities, and practical applications through case studies, with a
+particular focus on mortality and length of stay metrics, vital signs
+extraction, and ICD coding. Through detailed entity-relationship diagrams and
+practical examples, the text illustrates MIMIC's complex data structure and
+demonstrates how different querying approaches can lead to subtly different
+results, emphasizing the critical importance of understanding the database's
+architecture for accurate data extraction.
+
+摘要：從傳統紙本記錄轉變為先進的電子健康記錄（EHR），促使透過描述性統計系統性地收集和分析病患資料，進而深入了解病患族群的模式和趨勢。這項演進持續朝向預測分析發展，讓醫療保健提供者能夠在病患出現結果和潛在併發症之前預測這些狀況。從基本的數位記錄保存進展到先進的預測模型和數位雙胞胎，反映了醫療保健朝向更整合、以病患為中心的做法所做的更廣泛演進，這些做法結合了資料驅動的見解與個人化照護服務。本章探討醫療保健資訊系統的演進和重要性，從審查英國和美國實施 EHR 開始。它提供了疾病國際分類（ICD）系統的全面概述，追溯其從 ICD-9 發展到 ICD-10 的過程。此討論的核心是 MIMIC-III 資料庫，這是醫療保健資料共享的一項里程碑式成就，可以說是全球研究人員可以免費取得的最全面的重症照護資料庫。MIMIC-III 民主化了對高品質醫療保健資料的存取，為研究和分析創造了前所未有的機會。本章透過案例研究探討其結構、臨床結果分析能力和實際應用，特別關注死亡率和住院時間指標、生命徵象萃取和 ICD 編碼。透過詳細的實體關係圖和實務範例，本文說明了 MIMIC 複雜的資料結構，並展示了不同的查詢方法如何導致細微不同的結果，強調了了解資料庫架構對於準確萃取資料至關重要的重要性。
+
+##### **Artificial Intelligence-Driven Clinical Decision Support Systems**
+2501.09628v1 by Muhammet Alkan, Idris Zakariyya, Samuel Leighton, Kaushik Bhargav Sivangi, Christos Anagnostopoulos, Fani Deligianni
+
+As artificial intelligence (AI) becomes increasingly embedded in healthcare
+delivery, this chapter explores the critical aspects of developing reliable and
+ethical Clinical Decision Support Systems (CDSS). Beginning with the
+fundamental transition from traditional statistical models to sophisticated
+machine learning approaches, this work examines rigorous validation strategies
+and performance assessment methods, including the crucial role of model
+calibration and decision curve analysis. The chapter emphasizes that creating
+trustworthy AI systems in healthcare requires more than just technical
+accuracy; it demands careful consideration of fairness, explainability, and
+privacy. The challenge of ensuring equitable healthcare delivery through AI is
+stressed, discussing methods to identify and mitigate bias in clinical
+predictive models. The chapter then delves into explainability as a cornerstone
+of human-centered CDSS. This focus reflects the understanding that healthcare
+professionals must not only trust AI recommendations but also comprehend their
+underlying reasoning. The discussion advances in an analysis of privacy
+vulnerabilities in medical AI systems, from data leakage in deep learning
+models to sophisticated attacks against model explanations. The text explores
+privacy-preservation strategies such as differential privacy and federated
+learning, while acknowledging the inherent trade-offs between privacy
+protection and model performance. This progression, from technical validation
+to ethical considerations, reflects the multifaceted challenges of developing
+AI systems that can be seamlessly and reliably integrated into daily clinical
+practice while maintaining the highest standards of patient care and data
+protection.
+
+摘要：隨著人工智慧 (AI) 在醫療保健中的應用日益普及，本章探討了開發可靠且符合道德標準的臨床決策支援系統 (CDSS) 的關鍵面向。從傳統統計模型到複雜機器學習方法的基本轉變開始，這項工作審查了嚴謹的驗證策略和效能評估方法，包括模型校準和決策曲線分析的關鍵角色。本章強調，在醫療保健中建立值得信賴的 AI 系統不只是技術上的準確性；它需要仔細考量公平性、可解釋性和隱私權。本章強調了透過 AI 確保公平的醫療保健服務的挑戰，並討論了識別和減輕臨床預測模型中偏差的方法。接著，本章深入探討可解釋性，作為以人為中心的 CDSS 的基石。這種關注反映了醫療保健專業人員不僅必須信任 AI 建議，還必須理解其背後的推理。討論進一步分析了醫療 AI 系統中的隱私漏洞，從深度學習模型中的資料外洩到針對模型解釋的複雜攻擊。本文探討了隱私保護策略，例如差分隱私和聯合學習，同時承認隱私保護和模型效能之間的固有取捨。這種從技術驗證到道德考量的進展，反映了開發 AI 系統的多面向挑戰，這些系統可以無縫且可靠地整合到日常臨床實務中，同時維持最高的病患照護和資料保護標準。
+
+##### **IFRA: a machine learning-based Instrumented Fall Risk Assessment Scale derived from Instrumented Timed Up and Go test in stroke patients**
+2501.09595v1 by Simone Macciò, Alessandro Carfì, Alessio Capitanelli, Peppino Tropea, Massimo Corbo, Fulvio Mastrogiovanni, Michela Picardi
+
+Effective fall risk assessment is critical for post-stroke patients. The
+present study proposes a novel, data-informed fall risk assessment method based
+on the instrumented Timed Up and Go (ITUG) test data, bringing in many mobility
+measures that traditional clinical scales fail to capture. IFRA, which stands
+for Instrumented Fall Risk Assessment, has been developed using a two-step
+process: first, features with the highest predictive power among those
+collected in a ITUG test have been identified using machine learning
+techniques; then, a strategy is proposed to stratify patients into low, medium,
+or high-risk strata. The dataset used in our analysis consists of 142
+participants, out of which 93 were used for training (15 synthetically
+generated), 17 for validation and 32 to test the resulting IFRA scale (22
+non-fallers and 10 fallers). Features considered in the IFRA scale include gait
+speed, vertical acceleration during sit-to-walk transition, and turning angular
+velocity, which align well with established literature on the risk of fall in
+neurological patients. In a comparison with traditional clinical scales such as
+the traditional Timed Up & Go and the Mini-BESTest, IFRA demonstrates
+competitive performance, being the only scale to correctly assign more than
+half of the fallers to the high-risk stratum (Fischer's Exact test p = 0.004).
+Despite the dataset's limited size, this is the first proof-of-concept study to
+pave the way for future evidence regarding the use of IFRA tool for continuous
+patient monitoring and fall prevention both in clinical stroke rehabilitation
+and at home post-discharge.
+
+摘要：<paragraph>對中風後患者而言，有效的跌倒風險評估至關重要。本研究提出一個創新的、基於資料的跌倒風險評估方法，該方法基於儀器化的計時起身及行走 (ITUG) 測試資料，納入了許多傳統臨床量表未能捕捉到的活動能力測量指標。IFRA，代表儀器化跌倒風險評估，已使用兩步驟流程開發：首先，已使用機器學習技術識別出在 ITUG 測試中收集的那些具有最高預測能力的特徵；然後，提出了一項策略將患者分層為低風險、中風險或高風險等級。我們的分析中使用的資料集包含 142 名參與者，其中 93 名用於訓練（15 名合成產生），17 名用於驗證，32 名用於測試產生的 IFRA 量表（22 名非跌倒者和 10 名跌倒者）。IFRA 量表中考慮的特徵包括步態速度、坐到走過渡期間的垂直加速度和轉彎角速度，這些特徵與已建立的神經病患跌倒風險文獻非常吻合。與傳統臨床量表（例如傳統的計時起身及行走和迷你 BESTest）相比，IFRA 表現出競爭優勢，是唯一將超過一半的跌倒者正確分配到高風險階層的量表（Fisher 精確檢定 p = 0.004）。儘管資料集規模有限，但這是第一個概念驗證研究，為未來關於在臨床中風康復和出院後居家跌倒預防中使用 IFRA 工具的證據鋪路。</paragraph>
+
+##### **Understanding Mental Health Content on Social Media and Its Effect Towards Suicidal Ideation**
+2501.09309v1 by Mohaiminul Islam Bhuiyan, Nur Shazwani Kamarudin, Nur Hafieza Ismail
+
+This review underscores the critical need for effective strategies to
+identify and support individuals with suicidal ideation, exploiting
+technological innovations in ML and DL to further suicide prevention efforts.
+The study details the application of these technologies in analyzing vast
+amounts of unstructured social media data to detect linguistic patterns,
+keywords, phrases, tones, and contextual cues associated with suicidal
+thoughts. It explores various ML and DL models like SVMs, CNNs, LSTM, neural
+networks, and their effectiveness in interpreting complex data patterns and
+emotional nuances within text data. The review discusses the potential of these
+technologies to serve as a life-saving tool by identifying at-risk individuals
+through their digital traces. Furthermore, it evaluates the real-world
+effectiveness, limitations, and ethical considerations of employing these
+technologies for suicide prevention, stressing the importance of responsible
+development and usage. The study aims to fill critical knowledge gaps by
+analyzing recent studies, methodologies, tools, and techniques in this field.
+It highlights the importance of synthesizing current literature to inform
+practical tools and suicide prevention efforts, guiding innovation in reliable,
+ethical systems for early intervention. This research synthesis evaluates the
+intersection of technology and mental health, advocating for the ethical and
+responsible application of ML, DL, and NLP to offer life-saving potential
+worldwide while addressing challenges like generalizability, biases, privacy,
+and the need for further research to ensure these technologies do not
+exacerbate existing inequities and harms.
+
+摘要：這篇評論強調了有效策略的重要需求，以透過利用機器學習和深度學習的技術創新來識別和支持有自殺意念的人，進一步促進自殺防治工作。這項研究詳細說明了這些技術在分析大量非結構化社群媒體資料中的應用，以偵測與自殺念頭相關的語言模式、關鍵字、詞組、語氣和脈絡線索。它探討了各種機器學習和深度學習模型，例如支援向量機、卷積神經網路、長短期記憶網路、神經網路，以及它們在解讀文字資料中的複雜資料模式和情緒細微差別方面的效能。這篇評論討論了這些技術作為救命工具的潛力，透過數位足跡來識別有風險的個人。此外，它評估了採用這些技術進行自殺防治的實際效能、限制和道德考量，強調負責任的開發和使用的重要性。這項研究旨在透過分析這個領域的近期研究、方法、工具和技術，填補重要的知識差距。它強調了綜合現有文獻對於提供實用工具和自殺防治工作的重要性，引導在早期介入中建立可靠的、符合道德的系統的創新。這項研究綜合評估了技術和心理健康之間的交集，倡導道德且負責任地應用機器學習、深度學習和自然語言處理，以提供全球性的救命潛力，同時解決概括性、偏誤、隱私等挑戰，並需要進一步研究以確保這些技術不會加劇現有的不平等和傷害。
+
+##### **Interpretable Droplet Digital PCR Assay for Trustworthy Molecular Diagnostics**
+2501.09218v1 by Yuanyuan Wei, Yucheng Wu, Fuyang Qu, Yao Mu, Yi-Ping Ho, Ho-Pui Ho, Wu Yuan, Mingkun Xu
+
+Accurate molecular quantification is essential for advancing research and
+diagnostics in fields such as infectious diseases, cancer biology, and genetic
+disorders. Droplet digital PCR (ddPCR) has emerged as a gold standard for
+achieving absolute quantification. While computational ddPCR technologies have
+advanced significantly, achieving automatic interpretation and consistent
+adaptability across diverse operational environments remains a challenge. To
+address these limitations, we introduce the intelligent interpretable droplet
+digital PCR (I2ddPCR) assay, a comprehensive framework integrating front-end
+predictive models (for droplet segmentation and classification) with GPT-4o
+multimodal large language model (MLLM, for context-aware explanations and
+recommendations) to automate and enhance ddPCR image analysis. This approach
+surpasses the state-of-the-art models, affording 99.05% accuracy in processing
+complex ddPCR images containing over 300 droplets per image with varying
+signal-to-noise ratios (SNRs). By combining specialized neural networks and
+large language models, the I2ddPCR assay offers a robust and adaptable solution
+for absolute molecular quantification, achieving a sensitivity capable of
+detecting low-abundance targets as low as 90.32 copies/{\mu}L. Furthermore, it
+improves model's transparency through detailed explanation and troubleshooting
+guidance, empowering users to make informed decisions. This innovative
+framework has the potential to benefit molecular diagnostics, disease research,
+and clinical applications, especially in resource-constrained settings.
+
+摘要：準確的分子量化對於推進傳染病、癌症生物學和遺傳疾病等領域的研究和診斷至關重要。飛沫數位 PCR (ddPCR) 已成為實現絕對量化的黃金標準。儘管運算式 ddPCR 技術已大幅進步，但在不同操作環境中實現自動化解讀和一致的適應性仍然是一項挑戰。為了解決這些限制，我們引入了智慧可解讀飛沫數位 PCR (I2ddPCR) 分析，一個整合前瞻性預測模型（用於飛沫分割和分類）與 GPT-4o 多模態大型語言模型（MLLM，用於情境感知解釋和建議）的綜合架構，以自動化並增強 ddPCR 影像分析。此方法超越了最先進的模型，在處理每張影像含有超過 300 個飛沫且信噪比 (SNR) 不同的複雜 ddPCR 影像時，準確度高達 99.05%。透過結合專門的神經網路和大型語言模型，I2ddPCR 分析提供了一個強健且適應性高的絕對分子量化解決方案，靈敏度高，能偵測低至 90.32 個拷貝數/{\mu}L 的低豐度目標。此外，它透過詳細的說明和故障排除指南來提升模型的透明度，使用戶能夠做出明智的決策。這個創新的架構有潛力造福分子診斷、疾病研究和臨床應用，特別是在資源受限的環境中。
+
+##### **AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**
+2501.09160v1 by Assaf Lahiany, Oren Gal
+
+Current visual SLAM systems face significant challenges in balancing
+computational efficiency with robust loop closure handling. Traditional
+approaches require careful manual tuning and incur substantial computational
+overhead, while learning-based methods either lack explicit loop closure
+capabilities or implement them through computationally expensive methods. We
+present AutoLoop, a novel approach that combines automated curriculum learning
+with efficient fine-tuning for visual SLAM systems. Our method employs a DDPG
+(Deep Deterministic Policy Gradient) agent to dynamically adjust loop closure
+weights during training, eliminating the need for manual hyperparameter search
+while significantly reducing the required training steps. The approach
+pre-computes potential loop closure pairs offline and leverages them through an
+agent-guided curriculum, allowing the model to adapt efficiently to new
+scenarios. Experiments conducted on TartanAir for training and validated across
+multiple benchmarks including KITTI, EuRoC, ICL-NUIM and TUM RGB-D demonstrate
+that AutoLoop achieves comparable or superior performance while reducing
+training time by an order of magnitude compared to traditional approaches.
+AutoLoop provides a practical solution for rapid adaptation of visual SLAM
+systems, automating the weight tuning process that traditionally requires
+multiple manual iterations. Our results show that this automated curriculum
+strategy not only accelerates training but also maintains or improves the
+model's performance across diverse environmental conditions.
+
+摘要：當前的視覺 SLAM 系統在平衡運算效率與穩健的迴路閉合處理上，面臨重大挑戰。傳統方法需要仔細的手動調整，並會產生大量的運算負擔，而基於學習的方法則缺乏明確的迴路閉合功能，或透過運算成本高昂的方法來實作。我們提出 AutoLoop，這是一種新穎的方法，它結合了自動化的課程學習與視覺 SLAM 系統的有效微調。我們的方法採用 DDPG（深度確定性策略梯度）代理，在訓練過程中動態調整迴路閉合權重，消除了人工超參數搜尋的需要，同時大幅減少了所需的訓練步驟。此方法會離線預先計算潛在的迴路閉合對，並透過代理導向的課程來利用它們，讓模型能夠有效地適應新的場景。在 TartanAir 上進行的實驗，用於訓練並驗證跨多個基準，包括 KITTI、EuRoC、ICL-NUIM 和 TUM RGB-D，證明 AutoLoop 達到相當或更佳的效能，同時將訓練時間減少了一個數量級，與傳統方法相比。AutoLoop 提供了一個實用的解決方案，用於快速適應視覺 SLAM 系統，自動化傳統上需要多次人工反覆運算的權重調整過程。我們的結果表明，這種自動化的課程策略不僅加速了訓練，還維持或改善了模型在各種環境條件下的效能。
+
+##### **Benchmarking Robustness of Contrastive Learning Models for Medical Image-Report Retrieval**
+2501.09134v1 by Demetrio Deanda, Yuktha Priya Masupalli, Jeong Yang, Young Lee, Zechun Cao, Gongbo Liang
+
+Medical images and reports offer invaluable insights into patient health. The
+heterogeneity and complexity of these data hinder effective analysis. To bridge
+this gap, we investigate contrastive learning models for cross-domain
+retrieval, which associates medical images with their corresponding clinical
+reports. This study benchmarks the robustness of four state-of-the-art
+contrastive learning models: CLIP, CXR-RePaiR, MedCLIP, and CXR-CLIP. We
+introduce an occlusion retrieval task to evaluate model performance under
+varying levels of image corruption. Our findings reveal that all evaluated
+models are highly sensitive to out-of-distribution data, as evidenced by the
+proportional decrease in performance with increasing occlusion levels. While
+MedCLIP exhibits slightly more robustness, its overall performance remains
+significantly behind CXR-CLIP and CXR-RePaiR. CLIP, trained on a
+general-purpose dataset, struggles with medical image-report retrieval,
+highlighting the importance of domain-specific training data. The evaluation of
+this work suggests that more effort needs to be spent on improving the
+robustness of these models. By addressing these limitations, we can develop
+more reliable cross-domain retrieval models for medical applications.
+
+摘要：醫療影像和報告提供寶貴的見解，深入了解患者健康。這些數據的異質性和複雜性阻礙了有效的分析。為了彌補這個差距，我們研究對比學習模型進行跨領域檢索，將醫學影像與其對應的臨床報告聯繫起來。本研究對四種最先進的對比學習模型的健壯性進行了基準測試：CLIP、CXR-RePaiR、MedCLIP 和 CXR-CLIP。我們引入遮擋檢索任務，以評估模型在不同程度的影像損壞下的性能。我們的研究結果表明，所有評估的模型對分佈外數據都高度敏感，這從隨著遮擋程度的增加而導致的性能成比例下降就可以證明。雖然 MedCLIP 表現出稍高的健壯性，但其整體性能仍遠遠落後於 CXR-CLIP 和 CXR-RePaiR。CLIP 在通用數據集上進行訓練，在醫學影像報告檢索中遇到困難，突顯了特定領域訓練數據的重要性。這項工作的評估表明，需要花費更多精力來提高這些模型的健壯性。通過解決這些限制，我們可以為醫療應用開發更可靠的跨領域檢索模型。
+
+##### **Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**
+2501.09114v1 by Huiyu Li, Nicholas Ayache, Hervé Delingette
+
+Medical image anonymization aims to protect patient privacy by removing
+identifying information, while preserving the data utility to solve downstream
+tasks. In this paper, we address the medical image anonymization problem with a
+two-stage solution: latent code projection and optimization. In the projection
+stage, we design a streamlined encoder to project input images into a latent
+space and propose a co-training scheme to enhance the projection process. In
+the optimization stage, we refine the latent code using two deep loss functions
+designed to address the trade-off between identity protection and data utility
+dedicated to medical images. Through a comprehensive set of qualitative and
+quantitative experiments, we showcase the effectiveness of our approach on the
+MIMIC-CXR chest X-ray dataset by generating anonymized synthetic images that
+can serve as training set for detecting lung pathologies. Source codes are
+available at https://github.com/Huiyu-Li/GMIA.
+
+摘要：醫學影像匿名化旨在透過移除識別資訊來保護病患隱私，同時保留資料效用以解決下游任務。在本文中，我們透過兩階段解決方案來解決醫學影像匿名化問題：潛在碼投影和最佳化。在投影階段，我們設計一個簡化的編碼器，將輸入影像投影到潛在空間，並提出一個共同訓練架構來提升投影程序。在最佳化階段，我們使用兩個深度損失函數來調整潛在碼，這些函數旨在解決身分保護與專門用於醫學影像的資料效用之間的權衡。透過一組全面的定性和定量實驗，我們展示了我們方法在 MIMIC-CXR 胸部 X 光影像資料集上的有效性，方法是產生可作為訓練集來偵測肺部病理的匿名合成影像。原始碼可於 https://github.com/Huiyu-Li/GMIA 取得。
+
 ##### **Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**
 2501.08977v1 by Emma Croxford, Yanjun Gao, Nicholas Pellegrino, Karen K. Wong, Graham Wills, Elliot First, Miranda Schnier, Kyle Burton, Cris G. Ebby, Jillian Gorskic, Matthew Kalscheur, Samy Khalil, Marie Pisani, Tyler Rubeor, Peter Stetson, Frank Liao, Cherodeep Goswami, Brian Patterson, Majid Afshar
 
@@ -192,6 +427,24 @@ smartphone data with advanced machine-learning techniques for predicting mental
 health risks.
 
 摘要：<paragraph>背景：青少年特别容易罹患精神疾病，75% 以上的病例在 25 岁之前显现。研究表明，只有 18% 到 34% 经历高度抑郁或焦虑症状的年轻人寻求支持。利用智能手机的数位工具提供可扩展的早期介入机会。目标：本研究使用新颖的机器学习框架，评估将主动和被动智能手机数据整合来预测非临床青少年精神疾病的可行性。具体来说，我们调查了 Mindcraft 应用程序在预测内化和外化障碍、饮食失调、失眠和自杀意念方面的效用。方法：参与者（N=103；平均年龄 16.1 岁）来自伦敦的三所学校。参与者完成了优势和困难问卷、进食障碍-15 问卷、睡眠状况指标问卷，并指出了是否存在自杀意念。他们使用 Mindcraft 应用程序 14 天，通过自我报告提供主动数据，并从智能手机传感器提供被动数据。应用对比预训练阶段来增强特定用户的特征稳定性，然后进行监督微调。模型评估采用留一法交叉验证，使用平衡准确度作为主要指标。结果：与个别数据源相比，主动和被动数据的整合实现了更好的性能，SDQ 高风险的平均平衡准确度为 0.71，失眠为 0.67，自杀意念为 0.77，饮食失调为 0.70。对比学习框架稳定了每日行为表征，增强了预测鲁棒性。本研究展示了将主动和被动智能手机数据与先进机器学习技术相结合以预测心理健康风险的潜力。</paragraph>
+
+##### **Spatio-Temporal Foundation Models: Vision, Challenges, and Opportunities**
+2501.09045v1 by Adam Goodge, Wee Siong Ng, Bryan Hooi, See Kiong Ng
+
+Foundation models have revolutionized artificial intelligence, setting new
+benchmarks in performance and enabling transformative capabilities across a
+wide range of vision and language tasks. However, despite the prevalence of
+spatio-temporal data in critical domains such as transportation, public health,
+and environmental monitoring, spatio-temporal foundation models (STFMs) have
+not yet achieved comparable success. In this paper, we articulate a vision for
+the future of STFMs, outlining their essential characteristics and the
+generalization capabilities necessary for broad applicability. We critically
+assess the current state of research, identifying gaps relative to these ideal
+traits, and highlight key challenges that impede their progress. Finally, we
+explore potential opportunities and directions to advance research towards the
+aim of effective and broadly applicable STFMs.
+
+摘要：基礎模型徹底改變了人工智慧，在效能上樹立新的基準，並在廣泛的視覺和語言任務中實現轉型能力。然而，儘管時空資料普遍存在於運輸、公共衛生和環境監控等關鍵領域，但時空基礎模型 (STFM) 尚未取得同等成就。在本文中，我們闡述了對 STFM 未來的願景，概述了其基本特徵和廣泛適用的必要概括能力。我們批判性地評估了當前研究的狀態，找出相對於這些理想特質的差距，並強調阻礙其進展的關鍵挑戰。最後，我們探討了推進研究的潛在機會和方向，以實現有效且廣泛適用的 STFM。
 
 ##### **ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**
 2501.08324v1 by Ziyuan Huang, Vishaldeep Kaur Sekhon, Ouyang Guo, Mark Newman, Roozbeh Sadeghian, Maria L. Vaida, Cynthia Jo, Doyle Ward, Vanni Bucci, John P. Haran
@@ -523,6 +776,14 @@ translation. We further demonstrate the strength of our model's volumetric
 realism using tumor segmentation as a downstream task.
 
 摘要：儘管在醫學影像中體積到體積的翻譯取得成功，但現有的模型大多難以有效地使用 3D 呈現來擷取固有的體積分佈。目前最先進的方法是透過加權平均來結合多個基於 2D 的網路，因此忽略了 3D 空間結構。在醫學影像中直接訓練 3D 模型會產生顯著的挑戰，原因在於高運算需求和大規模資料集的需求。為了應對這些挑戰，我們引入了 Diff-Ensembler，這是一個新穎的混合 2D-3D 模型，可透過在每個擴散步驟中將垂直訓練的 2D 擴散模型與 3D 網路結合，來有效率且有效地進行體積轉換。此外，我們的模型可以自然地用於結合基於不同形式的擴散模型，從而靈活且準確地融合輸入條件。廣泛的實驗證明，Diff-Ensembler 在 3D 醫學影像超解析度和形式轉換中達到了更高的準確度和體積真實感。我們進一步使用腫瘤分割作為下游任務，來證明我們模型的體積真實感。
+
+##### **Synthetic Data and Health Privacy**
+2501.09031v1 by Gwénolé Abgrall, Xavier Monnet, Anmol Arora
+
+This Viewpoint discusses generative artificial intelligence and safeguarding
+privacy by using synthetic data as a substitute for private health data.
+
+摘要：此觀點探討生成式人工智慧以及使用合成資料取代私人健康資料以保護隱私。
 
 ##### **Natural Language-Assisted Multi-modal Medication Recommendation**
 2501.07166v1 by Jie Tan, Yu Rong, Kangfei Zhao, Tian Bian, Tingyang Xu, Junzhou Huang, Hong Cheng, Helen Meng
@@ -2313,273 +2574,4 @@ while also facilitating their conversion into interoperable data formats.
 摘要：臨床醫師的筆記是豐富的病人資訊來源，但常常因為書寫風格不同、慣用語、縮寫、醫學術語、文法錯誤和非標準格式而包含不一致的地方。這些不一致會阻礙從電子健康紀錄 (EHR) 中萃取有意義的資料，對品質改善、人口健康、精準醫療、決策支援和研究構成挑戰。
 我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
 對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
-
-##### **LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**
-2501.05464v1 by Hang Yang, Hao Chen, Hui Guo, Yineng Chen, Ching-Sheng Lin, Shu Hu, Jinrong Hu, Xi Wu, Xin Wang
-
-Accurate and efficient question-answering systems are essential for
-delivering high-quality patient care in the medical field. While Large Language
-Models (LLMs) have made remarkable strides across various domains, they
-continue to face significant challenges in medical question answering,
-particularly in understanding domain-specific terminologies and performing
-complex reasoning. These limitations undermine their effectiveness in critical
-medical applications. To address these issues, we propose a novel approach
-incorporating similar case generation within a multi-agent medical
-question-answering (MedQA) system. Specifically, we leverage the Llama3.1:70B
-model, a state-of-the-art LLM, in a multi-agent architecture to enhance
-performance on the MedQA dataset using zero-shot learning. Our method
-capitalizes on the model's inherent medical knowledge and reasoning
-capabilities, eliminating the need for additional training data. Experimental
-results show substantial performance gains over existing benchmark models, with
-improvements of 7% in both accuracy and F1-score across various medical QA
-tasks. Furthermore, we examine the model's interpretability and reliability in
-addressing complex medical queries. This research not only offers a robust
-solution for medical question answering but also establishes a foundation for
-broader applications of LLMs in the medical domain.
-
-摘要：精準高效的問題解答系統對於提供醫療領域的高品質病人照護至關重要。雖然大型語言模型 (LLM) 在各個領域都有顯著進展，但它們在醫療問題解答中仍面臨重大挑戰，特別是在理解特定領域的術語和執行複雜推理方面。這些限制影響了它們在關鍵醫療應用中的效能。為了解決這些問題，我們提出了一種新方法，將類似案例生成整合到多主體醫療問題解答 (MedQA) 系統中。具體來說，我們在多主體架構中利用最先進的 LLM Llama3.1:70B 模型，以使用零次學習來增強 MedQA 資料集的效能。我們的做法利用了該模型內建的醫療知識和推理能力，消除了對額外訓練資料的需求。實驗結果顯示，與現有的基準模型相比，效能有顯著提升，在各種醫療問答任務中，準確度和 F1 分數都提升了 7%。此外，我們探討了該模型在回答複雜醫療問題時的詮釋性和可靠性。這項研究不僅為醫療問題解答提供了強健的解決方案，也為 LLM 在醫療領域的更廣泛應用奠定了基礎。
-
-##### **Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**
-2501.01462v1 by Lingrui Zhang, Haonan Wu, Nana Jin, Chenqing Zheng, Jize Xie, Qitai Cai, Jun Wang, Qin Cao, Xubin Zheng, Jiankun Wang, Lixin Cheng
-
-Host-response-based diagnostics can improve the accuracy of diagnosing
-bacterial and viral infections, thereby reducing inappropriate antibiotic
-prescriptions. However, the existing cohorts with limited sample size and
-coarse infections types are unable to support the exploration of an accurate
-and generalizable diagnostic model. Here, we curate the largest infection
-host-response transcriptome data, including 11,247 samples across 89 blood
-transcriptome datasets from 13 countries and 21 platforms. We build a
-diagnostic model for pathogen prediction starting from a pan-infection model as
-foundation (AUC = 0.97) based on the pan-infection dataset. Then, we utilize
-knowledge distillation to efficiently transfer the insights from this "teacher"
-model to four lightweight pathogen "student" models, i.e., staphylococcal
-infection (AUC = 0.99), streptococcal infection (AUC = 0.94), HIV infection
-(AUC = 0.93), and RSV infection (AUC = 0.94), as well as a sepsis "student"
-model (AUC = 0.99). The proposed knowledge distillation framework not only
-facilitates the diagnosis of pathogens using pan-infection data, but also
-enables an across-disease study from pan-infection to sepsis. Moreover, the
-framework enables high-degree lightweight design of diagnostic models, which is
-expected to be adaptively deployed in clinical settings.
-
-摘要：基於宿主反應的診斷可以提高細菌和病毒感染的診斷準確度，從而減少不適當的抗生素處方。然而，現有樣本量有限、感染類型粗糙的群組無法支持準確且可概化的診斷模型的探索。在此，我們整理了最大的感染宿主反應轉錄組數據，包括來自 13 個國家和 21 個平台的 89 個血液轉錄組數據集中的 11,247 個樣本。我們從泛感染模型開始建立一個用於病原體預測的診斷模型，作為基礎 (AUC = 0.97)，該模型基於泛感染數據集。然後，我們利用知識蒸餾有效地將這個「教師」模型中的見解轉移到四個輕量級病原體「學生」模型，即葡萄球菌感染 (AUC = 0.99)、鏈球菌感染 (AUC = 0.94)、HIV 感染 (AUC = 0.93) 和 RSV 感染 (AUC = 0.94)，以及一個敗血症「學生」模型 (AUC = 0.99)。所提出的知識蒸餾框架不僅促進了使用泛感染數據診斷病原體，還實現了從泛感染到敗血症的跨疾病研究。此外，該框架使診斷模型能夠進行高度輕量級設計，預計將適應性地部署在臨床環境中。
-
-##### **A Hybrid Deep Learning and Model-Checking Framework for Accurate Brain Tumor Detection and Validation**
-2501.01991v1 by Lahcen El Fatimi, Elhoucine Elfatimi, Hanifa Bouchaneb
-
-Model checking, a formal verification technique, ensures systems meet
-predefined requirements, playing a crucial role in minimizing errors and
-enhancing quality during development. This paper introduces a novel hybrid
-framework integrating model checking with deep learning for brain tumor
-detection and validation in medical imaging. By combining model-checking
-principles with CNN-based feature extraction and K-FCM clustering for
-segmentation, the proposed approach enhances the reliability of tumor detection
-and segmentation. Experimental results highlight the framework's effectiveness,
-achieving 98\% accuracy, 96.15\% precision, and 100\% recall, demonstrating its
-potential as a robust tool for advanced medical image analysis.
-
-摘要：模型檢查是一種正式驗證技術，用於確保系統符合預先定義的要求，在開發過程中扮演著極其重要的角色，用於最小化錯誤並提升品質。這篇論文介紹了一個整合模型檢查與深度學習的創新混合框架，用於醫學影像中的腦瘤偵測與驗證。透過結合模型檢查原則與基於 CNN 的特徵萃取以及用於分割的 K-FCM 聚類，所提出的方法提升了腫瘤偵測與分割的可靠度。實驗結果突顯了這個框架的有效性，達到了 98% 的準確度、96.15% 的精確度，以及 100% 的召回率，顯示出其作為進階醫學影像分析的強健工具的潛力。
-
-##### **GAN-TAT: A Novel Framework Using Protein Interaction Networks in Druggable Gene Identification**
-2501.01458v1 by George Yuanji Wang, Srisharan Murugesan, Aditya Prince Rohatgi
-
-Identifying druggable genes is essential for developing effective
-pharmaceuticals. With the availability of extensive, high-quality data,
-computational methods have become a significant asset. Protein Interaction
-Network (PIN) is valuable but challenging to implement due to its high
-dimensionality and sparsity. Previous methods relied on indirect integration,
-leading to resolution loss. This study proposes GAN-TAT, a framework utilizing
-an advanced graph embedding technology, ImGAGN, to directly integrate PIN for
-druggable gene inference work. Tested on three Pharos datasets, GAN-TAT
-achieved the highest AUC-ROC score of 0.951 on Tclin. Further evaluation shows
-that GAN-TAT's predictions are supported by clinical evidence, highlighting its
-potential practical applications in pharmacogenomics. This research represents
-a methodological attempt with the direct utilization of PIN, expanding
-potential new solutions for developing drug targets. The source code of GAN-TAT
-is available at (https://github.com/george-yuanji-wang/GAN-TAT).
-
-摘要：識別可藥物化基因對於開發有效的藥物至關重要。隨著大量高品質數據的出現，計算方法已成為一項重要的資產。蛋白質交互網絡 (PIN) 很有價值，但由於其高維度和稀疏性，實作起來具有挑戰性。先前的辦法依賴於間接整合，導致解析度降低。本研究提出 GAN-TAT，一個利用先進圖形嵌入技術 ImGAGN 的架構，直接整合 PIN 以進行可藥物化基因推論工作。在三個 Pharos 資料集上進行測試，GAN-TAT 在 Tclin 上達到了最高的 AUC-ROC 分數 0.951。進一步的評估顯示，GAN-TAT 的預測獲得了臨床證據的支持，突顯了其在藥物基因組學中的潛在實際應用。本研究代表了一種直接利用 PIN 的方法論嘗試，擴展了開發藥物靶標的潛在新解決方案。GAN-TAT 的原始碼可在 (https://github.com/george-yuanji-wang/GAN-TAT) 取得。
-
-##### **Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**
-2501.00320v2 by Haibo Tong, Enmeng Lu, Yinqian Sun, Zhengqiang Han, Chao Liu, Feifei Zhao, Yi Zeng
-
-With the widespread application of Artificial Intelligence (AI) in human
-society, enabling AI to autonomously align with human values has become a
-pressing issue to ensure its sustainable development and benefit to humanity.
-One of the most important aspects of aligning with human values is the
-necessity for agents to autonomously make altruistic, safe, and ethical
-decisions, considering and caring for human well-being. Current AI extremely
-pursues absolute superiority in certain tasks, remaining indifferent to the
-surrounding environment and other agents, which has led to numerous safety
-risks. Altruistic behavior in human society originates from humans' capacity
-for empathizing others, known as Theory of Mind (ToM), combined with predictive
-imaginative interactions before taking action to produce thoughtful and
-altruistic behaviors. Inspired by this, we are committed to endow agents with
-considerate self-imagination and ToM capabilities, driving them through
-implicit intrinsic motivations to autonomously align with human altruistic
-values. By integrating ToM within the imaginative space, agents keep an eye on
-the well-being of other agents in real time, proactively anticipate potential
-risks to themselves and others, and make thoughtful altruistic decisions that
-balance negative effects on the environment. The ancient Chinese story of Sima
-Guang Smashes the Vat illustrates the moral behavior of the young Sima Guang
-smashed a vat to save a child who had accidentally fallen into it, which is an
-excellent reference scenario for this paper. We design an experimental scenario
-similar to Sima Guang Smashes the Vat and its variants with different
-complexities, which reflects the trade-offs and comprehensive considerations
-between self-goals, altruistic rescue, and avoiding negative side effects.
-
-摘要：隨著人工智慧（AI）在人類社會中的廣泛應用，讓 AI 自主與人類價值觀一致已成為確保其永續發展和造福人類的當務之急。與人類價值觀一致最重要的面向之一，在於代理人必須自主做出利他、安全、且合乎道德的決策，考量並關懷人類福祉。目前的 AI 在特定任務中極力追求絕對優越性，對於周遭環境和其它代理人漠不關心，這已導致許多安全風險。人類社會中的利他行為源自於人類同理他人的能力，稱為心智理論（ToM），結合在採取行動前進行預測性的想像互動，以產生周到且利他的行為。受到此啟發，我們致力於賦予代理人體貼的自我想像和 ToM 能力，透過隱含的內在動機驅使他們自主與人類利他價值觀一致。透過將 ToM 整合在想像空間中，代理人能即時關注其他代理人的福祉，主動預測對自身和他人潛在的風險，並做出周到且利他的決策，平衡對環境的負面影響。中國古代故事「司馬光砸缸」說明了年幼的司馬光為了救一個不小心掉進水缸中的孩子而砸破水缸的道德行為，是本文的絕佳參考情境。我們設計了一個與「司馬光砸缸」相似的實驗情境，以及具有不同複雜性的變體，反映了自我目標、利他救援和避免負面副作用之間的權衡和綜合考量。
-
-##### **A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application**
-2501.08585v1 by Siqi Zhao, Wangyang Li, Xiru Wang, Stevie Foglia, Hongzhao Tan, Bohan Zhang, Ameer Hamoodi, Aimee Nelson, Zhen Gao
-
-Machine learning (ML) and deep learning (DL) techniques have been widely
-applied to analyze electroencephalography (EEG) signals for disease diagnosis
-and brain-computer interfaces (BCI). The integration of multimodal data has
-been shown to enhance the accuracy of ML and DL models. Combining EEG with
-other modalities can improve clinical decision-making by addressing complex
-tasks in clinical populations. This systematic literature review explores the
-use of multimodal EEG data in ML and DL models for clinical applications. A
-comprehensive search was conducted across PubMed, Web of Science, and Google
-Scholar, yielding 16 relevant studies after three rounds of filtering. These
-studies demonstrate the application of multimodal EEG data in addressing
-clinical challenges, including neuropsychiatric disorders, neurological
-conditions (e.g., seizure detection), neurodevelopmental disorders (e.g.,
-autism spectrum disorder), and sleep stage classification. Data fusion occurred
-at three levels: signal, feature, and decision levels. The most commonly used
-ML models were support vector machines (SVM) and decision trees. Notably, 11
-out of the 16 studies reported improvements in model accuracy with multimodal
-EEG data. This review highlights the potential of multimodal EEG-based ML
-models in enhancing clinical diagnostics and problem-solving.
-
-摘要：機器學習 (ML) 和深度學習 (DL) 技術已廣泛應用於分析腦電圖 (EEG) 訊號，以進行疾病診斷和腦機介面 (BCI)。多模態資料的整合已被證明可以提升 ML 和 DL 模型的準確性。將 EEG 與其他模態結合，可以透過處理臨床族群中的複雜任務，來改善臨床決策。這份系統性文獻回顧探討了在臨床應用中，將多模態 EEG 資料用於 ML 和 DL 模型。在 PubMed、Web of Science 和 Google Scholar 中進行了全面的搜尋，在經過三輪篩選後，共產生了 16 項相關研究。這些研究展示了多模態 EEG 資料在解決臨床挑戰中的應用，包括神經精神疾病、神經疾病（例如癲癇偵測）、神經發展障礙（例如自閉症譜系障礙）和睡眠分期分類。資料融合發生在三個層面：訊號、特徵和決策層面。最常用的 ML 模型是支援向量機 (SVM) 和決策樹。值得注意的是，在 16 項研究中，有 11 項報告了使用多模態 EEG 資料後，模型準確度有所提升。這篇回顧強調了基於多模態 EEG 的 ML 模型在增強臨床診斷和問題解決方面的潛力。
-
-##### **A Fourfold Pathogen Reference Ontology Suite**
-2501.01454v1 by Shane Babcock, Carter Benson, Giacomo De Colle, Sydney Cohen, Alexander D. Diehl, Ram A. N. R. Challa, Anthony Huffman, Yongqun He, John Beverley
-
-Infectious diseases remain a critical global health challenge, and the
-integration of standardized ontologies plays a vital role in managing related
-data. The Infectious Disease Ontology (IDO) and its extensions, such as the
-Coronavirus Infectious Disease Ontology (CIDO), are essential for organizing
-and disseminating information related to infectious diseases. The COVID-19
-pandemic highlighted the need for updating IDO and its virus-specific
-extensions. There is an additional need to update IDO extensions specific to
-bacteria, fungus, and parasite infectious diseases. We adopt the "hub and
-spoke" methodology to generate pathogen-specific extensions of IDO: Virus
-Infectious Disease Ontology (VIDO), Bacteria Infectious Disease Ontology
-(BIDO), Mycosis Infectious Disease Ontology (MIDO), and Parasite Infectious
-Disease Ontology (PIDO). The creation of pathogen-specific reference ontologies
-advances modularization and reusability of infectious disease data within the
-IDO ecosystem. Future work will focus on further refining these ontologies,
-creating new extensions, and developing application ontologies based on them,
-in line with ongoing efforts to standardize biological and biomedical
-terminologies for improved data sharing and analysis.
-
-摘要：傳染病仍是一項全球性的健康挑戰，而標準化本體的整合在管理相關數據方面扮演著至關重要的角色。傳染病本體 (IDO) 及其擴充，例如冠狀病毒傳染病本體 (CIDO)，對於組織和傳播與傳染病相關的資訊至關重要。COVID-19 大流行凸顯了更新 IDO 及其特定於病毒的擴充的需求。此外，還有更新特定於細菌、真菌和寄生蟲傳染病的 IDO 擴充的需求。我們採用「樞紐輻條」方法來產生 IDO 的特定於病原體的擴充：病毒傳染病本體 (VIDO)、細菌傳染病本體 (BIDO)、真菌病傳染病本體 (MIDO) 和寄生蟲傳染病本體 (PIDO)。特定於病原體的參考本體的建立，促进了 IDO 生態系統內傳染病數據的模組化和可重複使用性。未來的研究工作將重點放在進一步完善這些本體、建立新的擴充，以及根據這些本體開發應用本體，這與標準化生物和生物醫學術語以改善數據共享和分析的持續努力相一致。
-
-##### **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care**
-2501.00223v1 by Michael Gubanov, Anna Pyayt, Aleksandra Karolak
-
-Here, we describe one of the first Web-scale hybrid Knowledge Graph
-(KG)-Large Language Model (LLM), populated with the latest peer-reviewed
-medical knowledge on colorectal Cancer. It is currently being evaluated to
-assist with both medical research and clinical information retrieval tasks at
-Moffitt Cancer Center, which is one of the top Cancer centers in the U.S. and
-in the world. Our hybrid is remarkable as it serves the user needs better than
-just an LLM, KG or a search-engine in isolation. LLMs as is are known to
-exhibit hallucinations and catastrophic forgetting as well as are trained on
-outdated corpora. The state of the art KGs, such as PrimeKG, cBioPortal,
-ChEMBL, NCBI, and other require manual curation, hence are quickly getting
-stale. CancerKG is unsupervised and is capable of automatically ingesting and
-organizing the latest medical findings. To alleviate the LLMs shortcomings, the
-verified KG serves as a Retrieval Augmented Generation (RAG) guardrail.
-CancerKG exhibits 5 different advanced user interfaces, each tailored to serve
-different data modalities better and more convenient for the user.
-
-摘要：在此，我们描述了第一个 Web 级混合知识图谱 (KG) - 大型语言模型 (LLM)，其中充斥着有关结直肠癌的最新同行评审医学知识。目前正在评估它以协助 Moffitt 癌症中心进行医学研究和临床信息检索任务，该中心是美国和世界顶级癌症中心之一。我们的混合体非常出色，因为它比孤立的 LLM、KG 或搜索引擎更好地满足用户需求。众所周知，LLM 会出现幻觉和灾难性遗忘，并且是在过时的语料库上进行训练的。最先进的 KG，例如 PrimeKG、cBioPortal、ChEMBL、NCBI 等需要人工整理，因此很快就会过时。CancerKG 无需监督，能够自动摄取和组织最新的医学发现。为了减轻 LLM 的缺点，经过验证的 KG 充当检索增强生成 (RAG) 护栏。CancerKG 展示了 5 种不同的高级用户界面，每种界面都针对服务不同的数据模式，为用户提供更好、更方便的服务。
-
-##### **An Empirical Evaluation of Large Language Models on Consumer Health Questions**
-2501.00208v1 by Moaiz Abrar, Yusuf Sermet, Ibrahim Demir
-
-This study evaluates the performance of several Large Language Models (LLMs)
-on MedRedQA, a dataset of consumer-based medical questions and answers by
-verified experts extracted from the AskDocs subreddit. While LLMs have shown
-proficiency in clinical question answering (QA) benchmarks, their effectiveness
-on real-world, consumer-based, medical questions remains less understood.
-MedRedQA presents unique challenges, such as informal language and the need for
-precise responses suited to non-specialist queries. To assess model
-performance, responses were generated using five LLMs: GPT-4o mini, Llama 3.1:
-70B, Mistral-123B, Mistral-7B, and Gemini-Flash. A cross-evaluation method was
-used, where each model evaluated its responses as well as those of others to
-minimize bias. The results indicated that GPT-4o mini achieved the highest
-alignment with expert responses according to four out of the five models'
-judges, while Mistral-7B scored lowest according to three out of five models'
-judges. This study highlights the potential and limitations of current LLMs for
-consumer health medical question answering, indicating avenues for further
-development.
-
-摘要：本研究評估了大型語言模型 (LLM) 在 MedRedQA 上的效能，MedRedQA 是一組消費者醫療問題與答案的資料集，由 AskDocs 子版塊中經過驗證的專家所提出。儘管 LLM 已在臨床問題解答 (QA) 基準中展現出專業知識，但它們在現實世界、消費者為基礎的醫療問題上的有效性仍較不明確。MedRedQA 提出獨特的挑戰，例如非正式語言和對非專家查詢提供精確回應的需求。為了評估模型效能，使用五個 LLM 生成了回應：GPT-4o mini、Llama 3.1：70B、Mistral-123B、Mistral-7B 和 Gemini-Flash。使用了交叉評估方法，其中每個模型評估自己的回應以及其他模型的回應，以最小化偏差。結果顯示，根據五個模型中的四個模型評審，GPT-4o mini 與專家回應的一致性最高，而根據五個模型中的三個模型評審，Mistral-7B 的分數最低。本研究強調了目前 LLM 在消費者健康醫療問題解答方面的潛力和限制，並指出進一步發展的途徑。
-
-##### **GPT-4 on Clinic Depression Assessment: An LLM-Based Pilot Study**
-2501.00199v1 by Giuliano Lorenzoni, Pedro Elkind Velmovitsky, Paulo Alencar, Donald Cowan
-
-Depression has impacted millions of people worldwide and has become one of
-the most prevalent mental disorders. Early mental disorder detection can lead
-to cost savings for public health agencies and avoid the onset of other major
-comorbidities. Additionally, the shortage of specialized personnel is a
-critical issue because clinical depression diagnosis is highly dependent on
-expert professionals and is time consuming.
-  In this study, we explore the use of GPT-4 for clinical depression assessment
-based on transcript analysis. We examine the model's ability to classify
-patient interviews into binary categories: depressed and not depressed. A
-comparative analysis is conducted considering prompt complexity (e.g., using
-both simple and complex prompts) as well as varied temperature settings to
-assess the impact of prompt complexity and randomness on the model's
-performance.
-  Results indicate that GPT-4 exhibits considerable variability in accuracy and
-F1-Score across configurations, with optimal performance observed at lower
-temperature values (0.0-0.2) for complex prompts. However, beyond a certain
-threshold (temperature >= 0.3), the relationship between randomness and
-performance becomes unpredictable, diminishing the gains from prompt
-complexity.
-  These findings suggest that, while GPT-4 shows promise for clinical
-assessment, the configuration of the prompts and model parameters requires
-careful calibration to ensure consistent results. This preliminary study
-contributes to understanding the dynamics between prompt engineering and large
-language models, offering insights for future development of AI-powered tools
-in clinical settings.
-
-摘要：憂鬱症影響全球數百萬人，已成為最普遍的精神疾病之一。提早偵測精神疾病，能為公共衛生機構節省成本，並避免其他主要共病的發生。此外，專業人員短缺是一個關鍵問題，因為臨床憂鬱症的診斷高度依賴於專業人員，且耗時費力。
-在這個研究中，我們探討使用 GPT-4 進行臨床憂鬱症評估，基礎是謄本分析。我們檢視模型將病人訪談分類為二元類別（憂鬱症和非憂鬱症）的能力。我們進行比較分析，考量提示複雜度（例如，同時使用簡單和複雜的提示），以及各種溫度設定，以評估提示複雜度和隨機性對模型效能的影響。
-結果顯示，GPT-4 在各組態中的準確度和 F1 分數變化很大，在複雜提示的較低溫度值（0.0-0.2）下觀察到最佳效能。然而，超過某個閾值（溫度 >= 0.3）後，隨機性和效能之間的關係變得難以預測，降低了提示複雜度帶來的收益。
-這些發現表明，雖然 GPT-4 在臨床評估方面顯示出前景，但提示和模型參數的組態需要仔細校準，以確保結果的一致性。這項初步研究有助於了解提示工程和大型語言模型之間的動態，為未來在臨床環境中開發 AI 驅動工具提供見解。
-
-##### **SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**
-2501.00190v2 by Changchang Yin, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
-
-Sepsis is an organ dysfunction caused by a deregulated immune response to an
-infection. Early sepsis prediction and identification allow for timely
-intervention, leading to improved clinical outcomes. Clinical calculators
-(e.g., the six-organ dysfunction assessment of SOFA) play a vital role in
-sepsis identification within clinicians' workflow, providing evidence-based
-risk assessments essential for sepsis diagnosis. However, artificial
-intelligence (AI) sepsis prediction models typically generate a single sepsis
-risk score without incorporating clinical calculators for assessing organ
-dysfunctions, making the models less convincing and transparent to clinicians.
-To bridge the gap, we propose to mimic clinicians' workflow with a novel
-framework SepsisCalc to integrate clinical calculators into the predictive
-model, yielding a clinically transparent and precise model for utilization in
-clinical settings. Practically, clinical calculators usually combine
-information from multiple component variables in Electronic Health Records
-(EHR), and might not be applicable when the variables are (partially) missing.
-We mitigate this issue by representing EHRs as temporal graphs and integrating
-a learning module to dynamically add the accurately estimated calculator to the
-graphs. Experimental results on real-world datasets show that the proposed
-model outperforms state-of-the-art methods on sepsis prediction tasks.
-Moreover, we developed a system to identify organ dysfunctions and potential
-sepsis risks, providing a human-AI interaction tool for deployment, which can
-help clinicians understand the prediction outputs and prepare timely
-interventions for the corresponding dysfunctions, paving the way for actionable
-clinical decision-making support for early intervention.
-
-摘要：敗血症是由對感染的失調免疫反應所造成的器官功能障礙。早期敗血症預測和識別有助於及時介入，進而改善臨床結果。臨床計算器（例如，SOFA 的六器官功能障礙評估）在臨床醫師的工作流程中扮演著敗血症識別的重要角色，提供敗血症診斷必要的證據為基礎的風險評估。然而，人工智慧（AI）敗血症預測模型通常會產生單一的敗血症風險評分，而未納入用於評估器官功能障礙的臨床計算器，使得模型對臨床醫師來說顯得較不具說服力且透明。為了彌合差距，我們提出模擬臨床醫師的工作流程，使用創新的 SepsisCalc 架構將臨床計算器整合到預測模型中，產生一個在臨床環境中使用時具有臨床透明度且精確的模型。實際上，臨床計算器通常會結合電子健康紀錄（EHR）中多個組成變數的資訊，且當變數（部分）遺失時可能不適用。我們透過將 EHR 表示為時間圖形並整合一個學習模組，動態將準確估計的計算器新增到圖形中，來減輕這個問題。在真實世界資料集上的實驗結果顯示，所提出的模型在敗血症預測任務上優於最先進的方法。此外，我們開發了一個系統來識別器官功能障礙和潛在的敗血症風險，提供一個可用於部署的人工智慧互動工具，這有助於臨床醫師了解預測輸出，並針對相應的功能障礙準備及時的介入措施，為早期介入的行動臨床決策支援鋪路。
 

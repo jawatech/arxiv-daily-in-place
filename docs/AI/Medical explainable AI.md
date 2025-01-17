@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
 |**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
 |**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
@@ -31,6 +32,7 @@
 |**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
 |**2024-09-19**|**Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**|Daniel Flores-Araiza et.al.|[2409.12883v1](http://arxiv.org/abs/2409.12883v1)|null|
 |**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v3](http://arxiv.org/abs/2409.12087v3)|null|
+|**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201v3](http://arxiv.org/abs/2409.09201v3)|null|
 |**2024-09-09**|**Explainable AI: Definition and attributes of a good explanation for health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
 |**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133v1](http://arxiv.org/abs/2409.00133v1)|null|
@@ -100,10 +102,38 @@
 |**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|[link](https://github.com/lixingqiao/xai-icu)|
 |**2023-12-22**|**Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**|Norman Zerbe et.al.|[2401.09450v2](http://arxiv.org/abs/2401.09450v2)|null|
 |**2023-12-18**|**Robust Stochastic Graph Generator for Counterfactual Explanations**|Mario Alfonso Prado-Romero et.al.|[2312.11747v2](http://arxiv.org/abs/2312.11747v2)|null|
-|**2023-12-10**|**Evaluating the Utility of Model Explanations for Model Development**|Shawn Im et.al.|[2312.06032v1](http://arxiv.org/abs/2312.06032v1)|null|
-|**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798v1](http://arxiv.org/abs/2312.06798v1)|null|
 
 #### Abstracts
+##### **Artificial Intelligence-Driven Clinical Decision Support Systems**
+2501.09628v1 by Muhammet Alkan, Idris Zakariyya, Samuel Leighton, Kaushik Bhargav Sivangi, Christos Anagnostopoulos, Fani Deligianni
+
+As artificial intelligence (AI) becomes increasingly embedded in healthcare
+delivery, this chapter explores the critical aspects of developing reliable and
+ethical Clinical Decision Support Systems (CDSS). Beginning with the
+fundamental transition from traditional statistical models to sophisticated
+machine learning approaches, this work examines rigorous validation strategies
+and performance assessment methods, including the crucial role of model
+calibration and decision curve analysis. The chapter emphasizes that creating
+trustworthy AI systems in healthcare requires more than just technical
+accuracy; it demands careful consideration of fairness, explainability, and
+privacy. The challenge of ensuring equitable healthcare delivery through AI is
+stressed, discussing methods to identify and mitigate bias in clinical
+predictive models. The chapter then delves into explainability as a cornerstone
+of human-centered CDSS. This focus reflects the understanding that healthcare
+professionals must not only trust AI recommendations but also comprehend their
+underlying reasoning. The discussion advances in an analysis of privacy
+vulnerabilities in medical AI systems, from data leakage in deep learning
+models to sophisticated attacks against model explanations. The text explores
+privacy-preservation strategies such as differential privacy and federated
+learning, while acknowledging the inherent trade-offs between privacy
+protection and model performance. This progression, from technical validation
+to ethical considerations, reflects the multifaceted challenges of developing
+AI systems that can be seamlessly and reliably integrated into daily clinical
+practice while maintaining the highest standards of patient care and data
+protection.
+
+摘要：隨著人工智慧 (AI) 在醫療保健中的應用日益普及，本章探討了開發可靠且符合道德標準的臨床決策支援系統 (CDSS) 的關鍵面向。從傳統統計模型到複雜機器學習方法的基本轉變開始，這項工作審查了嚴謹的驗證策略和效能評估方法，包括模型校準和決策曲線分析的關鍵角色。本章強調，在醫療保健中建立值得信賴的 AI 系統不只是技術上的準確性；它需要仔細考量公平性、可解釋性和隱私權。本章強調了透過 AI 確保公平的醫療保健服務的挑戰，並討論了識別和減輕臨床預測模型中偏差的方法。接著，本章深入探討可解釋性，作為以人為中心的 CDSS 的基石。這種關注反映了醫療保健專業人員不僅必須信任 AI 建議，還必須理解其背後的推理。討論進一步分析了醫療 AI 系統中的隱私漏洞，從深度學習模型中的資料外洩到針對模型解釋的複雜攻擊。本文探討了隱私保護策略，例如差分隱私和聯合學習，同時承認隱私保護和模型效能之間的固有取捨。這種從技術驗證到道德考量的進展，反映了開發 AI 系統的多面向挑戰，這些系統可以無縫且可靠地整合到日常臨床實務中，同時維持最高的病患照護和資料保護標準。
+
 ##### **MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**
 2501.06887v1 by Sadia Kamal, Tim Oates
 
@@ -860,6 +890,23 @@ the value of leveraging administrative claims data for CKD management and
 predicting ESRD progression.
 
 摘要：本研究探討利用行政申報資料，結合先進機器學習與深度學習技術，預測慢性腎臟病 (CKD) 進展至末期腎臟疾病 (ESRD) 的可能性。我們分析一家大型健康保險組織提供的 10 年綜合資料集，使用傳統機器學習方法（例如隨機森林和 XGBoost）以及深度學習方法（例如長期短期記憶 (LSTM) 網路）開發多個觀察視窗的預測模型。我們的研究結果顯示，LSTM 模型（尤其是 24 個月觀察視窗）在預測 ESRD 進展方面表現優異，優於文獻中的現有模型。我們進一步應用 SHapley 可加性解釋 (SHAP) 分析以增強可解釋性，深入了解個別特徵對個別患者層級預測的影響。本研究強調了利用行政申報資料進行 CKD 管理和預測 ESRD 進展的價值。
+
+##### **Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**
+2409.09201v3 by Mercy Asiedu, Nenad Tomasev, Chintan Ghate, Tiya Tiyasirichokchai, Awa Dieng, Oluwatosin Akande, Geoffrey Siwo, Steve Adudans, Sylvanus Aitkins, Odianosen Ehiakhamen, Eric Ndombi, Katherine Heller
+
+While large language models (LLMs) have shown promise for medical question
+answering, there is limited work focused on tropical and infectious
+disease-specific exploration. We build on an opensource tropical and infectious
+diseases (TRINDs) dataset, expanding it to include demographic and semantic
+clinical and consumer augmentations yielding 11000+ prompts. We evaluate LLM
+performance on these, comparing generalist and medical LLMs, as well as LLM
+outcomes to human experts. We demonstrate through systematic experimentation,
+the benefit of contextual information such as demographics, location, gender,
+risk factors for optimal LLM response. Finally we develop a prototype of
+TRINDs-LM, a research tool that provides a playground to navigate how context
+impacts LLM outputs for health.
+
+摘要：儘管大型語言模型 (LLM) 在醫療問題解答方面展現出前景，但專注於熱帶和傳染病特定探索的研究有限。我們建立在一個開放原始碼熱帶和傳染病 (TRINDs) 資料集上，並將其擴展為納入人口統計和語義臨床和消費者擴充，產生超過 11000 個提示。我們評估了 LLM 在這些方面的效能，比較了通才和醫療 LLM，以及 LLM 結果與人類專家的比較。我們透過系統性實驗證明了背景資訊（例如人口統計、位置、性別、最佳 LLM 回應的風險因素）的好處。最後，我們開發了 TRINDs-LM 的原型，這是一個研究工具，提供一個探索背景如何影響 LLM 健康輸出的平台。
 
 ##### **Explainable AI: Definition and attributes of a good explanation for health AI**
 2409.15338v1 by Evangelia Kyrimi, Scott McLachlan, Jared M Wohlgemut, Zane B Perkins, David A. Lagnado, William Marsh, the ExAIDSS Expert Group
@@ -2672,54 +2719,4 @@ performance against SoA generative explainers, highlighting its increased
 ability to engendering plausible counterfactual candidates.
 
 摘要：反事實解釋 (CE) 技術已引起關注，作為一種為與 AI 系統互動的使用者提供見解的方法。雖然在醫學影像和自動駕駛汽車等領域廣泛研究，圖形反事實解釋 (GCE) 方法相對較少被探索。GCE 會產生一個類似於原始圖形的新圖形，並根據基礎預測模型產生不同的結果。在這些 GCE 技術中，儘管在其他領域（例如藝術風格和自然語言建模）中展現出令人印象深刻的成就，但植基於生成機制的技術獲得的關注相對有限。對生成式解釋器的偏好源於它們在推理期間產生反事實實例的能力，利用輸入圖形的自主獲取擾動。基於上述理由，我們的研究引入了 RSGG-CE，一種用於反事實解釋的新型穩健隨機圖形生成器，能夠從學習到的潛在空間中產生反事實範例，考慮部分有序的生成序列。此外，我們進行定量和定性分析，以比較 RSGG-CE 的效能與 SoA 生成式解釋器，強調其增強了產生合理解釋候選的能力。
-
-##### **Evaluating the Utility of Model Explanations for Model Development**
-2312.06032v1 by Shawn Im, Jacob Andreas, Yilun Zhou
-
-One of the motivations for explainable AI is to allow humans to make better
-and more informed decisions regarding the use and deployment of AI models. But
-careful evaluations are needed to assess whether this expectation has been
-fulfilled. Current evaluations mainly focus on algorithmic properties of
-explanations, and those that involve human subjects often employ subjective
-questions to test human's perception of explanation usefulness, without being
-grounded in objective metrics and measurements. In this work, we evaluate
-whether explanations can improve human decision-making in practical scenarios
-of machine learning model development. We conduct a mixed-methods user study
-involving image data to evaluate saliency maps generated by SmoothGrad,
-GradCAM, and an oracle explanation on two tasks: model selection and
-counterfactual simulation. To our surprise, we did not find evidence of
-significant improvement on these tasks when users were provided with any of the
-saliency maps, even the synthetic oracle explanation designed to be simple to
-understand and highly indicative of the answer. Nonetheless, explanations did
-help users more accurately describe the models. These findings suggest caution
-regarding the usefulness and potential for misunderstanding in saliency-based
-explanations.
-
-摘要：可解釋 AI 的動機之一是讓人們在使用和部署 AI 模型時做出更好、更明智的決策。但需要仔細評估以評估是否已達到此預期。目前的評估主要集中在解釋的演算法特性，而涉及人類受試者的評估通常採用主觀問題來測試人類對解釋有用性的看法，而沒有基於客觀指標和測量。在這項工作中，我們評估解釋是否可以在機器學習模型開發的實際場景中改善人類決策制定。我們進行了一項涉及影像資料的混合方法使用者研究，以評估 SmoothGrad、GradCAM 和預言解釋在兩個任務中產生的顯著性圖：模型選擇和反事實模擬。令人驚訝的是，我們沒有發現任何顯著性圖（即使是設計為易於理解且高度指示答案的合成預言解釋）能讓使用者在這些任務上顯著改善的證據。儘管如此，解釋確實有助於使用者更準確地描述模型。這些發現提示我們要對基於顯著性的解釋中可能存在誤解的有用性保持謹慎。
-
-##### **Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**
-2312.06798v1 by Manas Gaur, Amit Sheth
-
-Explainability and Safety engender Trust. These require a model to exhibit
-consistency and reliability. To achieve these, it is necessary to use and
-analyze data and knowledge with statistical and symbolic AI methods relevant to
-the AI application - neither alone will do. Consequently, we argue and seek to
-demonstrate that the NeuroSymbolic AI approach is better suited for making AI a
-trusted AI system. We present the CREST framework that shows how Consistency,
-Reliability, user-level Explainability, and Safety are built on NeuroSymbolic
-methods that use data and knowledge to support requirements for critical
-applications such as health and well-being. This article focuses on Large
-Language Models (LLMs) as the chosen AI system within the CREST framework. LLMs
-have garnered substantial attention from researchers due to their versatility
-in handling a broad array of natural language processing (NLP) scenarios. For
-example, ChatGPT and Google's MedPaLM have emerged as highly promising
-platforms for providing information in general and health-related queries,
-respectively. Nevertheless, these models remain black boxes despite
-incorporating human feedback and instruction-guided tuning. For instance,
-ChatGPT can generate unsafe responses despite instituting safety guardrails.
-CREST presents a plausible approach harnessing procedural and graph-based
-knowledge within a NeuroSymbolic framework to shed light on the challenges
-associated with LLMs.
-
-摘要：可解釋性和安全性建立信任。這些需要一個模型來展示一致性和可靠性。為了實現這些，有必要使用和分析數據和知識，並使用與 AI 應用相關的統計和符號 AI 方法 - 單獨使用任何一種方法都不會奏效。因此，我們主張並試圖證明 NeuroSymbolic AI 方法更適合於使 AI 成為受信任的 AI 系統。我們提出了 CREST 框架，展示了一致性、可靠性、使用者層級的可解釋性和安全性是如何建立在 NeuroSymbolic 方法上的，該方法使用數據和知識來支持關鍵應用（例如健康和福祉）的要求。本文重點關注大型語言模型 (LLM)，因為它是 CREST 框架中選擇的 AI 系統。LLM 因其在處理廣泛的自然語言處理 (NLP) 場景方面的多功能性而備受研究人員的關注。例如，ChatGPT 和 Google 的 MedPaLM 已成為提供一般和健康相關查詢信息的極有希望的平台。儘管如此，這些模型仍然是黑盒子，儘管納入了人類反饋和指令引導的調整。例如，儘管制定了安全防護措施，ChatGPT 仍可能產生不安全的回應。CREST 提出了一種合理的方法，在 NeuroSymbolic 框架中利用程序和基於圖表的知識，以闡明與 LLM 相關的挑戰。
 

@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993v1](http://arxiv.org/abs/2501.09993v1)|null|
+|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957v1](http://arxiv.org/abs/2501.09957v1)|null|
 |**2025-01-16**|**SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**|Anbang Ye et.al.|[2501.09316v1](http://arxiv.org/abs/2501.09316v1)|null|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279v1](http://arxiv.org/abs/2501.09279v1)|null|
 |**2025-01-16**|**A Simple Graph Contrastive Learning Framework for Short Text Classification**|Yonghao Liu et.al.|[2501.09219v1](http://arxiv.org/abs/2501.09219v1)|[link](https://github.com/keaml-jlu/simstc)|
@@ -100,10 +102,58 @@
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643v1](http://arxiv.org/abs/2412.12643v1)|null|
 |**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612v1](http://arxiv.org/abs/2412.12612v1)|null|
 |**2024-12-17**|**Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**|Yibo Zhao et.al.|[2412.15268v2](http://arxiv.org/abs/2412.15268v2)|null|
-|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456v1](http://arxiv.org/abs/2412.12456v1)|null|
-|**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v1](http://arxiv.org/abs/2412.12318v1)|null|
 
 #### Abstracts
+##### **Agent-as-Judge for Factual Summarization of Long Narratives**
+2501.09993v1 by Yeonseok Jeong, Minsoo Kim, Seung-won Hwang, Byung-Hak Kim
+
+Large Language Models (LLMs) have demonstrated near-human performance in
+summarization tasks based on traditional metrics such as ROUGE and BERTScore.
+However, these metrics do not adequately capture critical aspects of
+summarization quality, such as factual accuracy, particularly for long
+narratives (>100K tokens). Recent advances, such as LLM-as-a-Judge, address the
+limitations of metrics based on lexical similarity but still exhibit factual
+inconsistencies, especially in understanding character relationships and
+states. In this work, we introduce NarrativeFactScore, a novel
+"Agent-as-a-Judge" framework for evaluating and refining summaries. By
+leveraging a Character Knowledge Graph (CKG) extracted from input and generated
+summaries, NarrativeFactScore assesses the factual consistency and provides
+actionable guidance for refinement, such as identifying missing or erroneous
+facts. We demonstrate the effectiveness of NarrativeFactScore through a
+detailed workflow illustration and extensive validation on widely adopted
+benchmarks, achieving superior performance compared to competitive methods. Our
+results highlight the potential of agent-driven evaluation systems to improve
+the factual reliability of LLM-generated summaries.
+
+摘要：大型語言模型 (LLM) 在摘要任務中展現出接近人類的表現，根據傳統指標，例如 ROUGE 和 BERTScore。然而，這些指標並未充分掌握摘要品質的關鍵面向，例如事實準確性，特別是針對長篇敘事 (>100K 個符號)。最近的進展，例如 LLM-as-a-Judge，解決了基於詞彙相似性的指標限制，但仍然表現出事實上的不一致性，特別是在理解角色關係和狀態方面。在這項工作中，我們引入了 NarrativeFactScore，一種新穎的「代理人作為評審」架構，用於評估和精煉摘要。透過利用從輸入和產生的摘要中萃取的角色知識圖譜 (CKG)，NarrativeFactScore 評估事實一致性，並提供可行的精煉指南，例如識別遺漏或錯誤的事實。我們透過詳細的工作流程說明和廣泛驗證在廣泛採用的基準上，證明了 NarrativeFactScore 的有效性，與競爭方法相比，達到了卓越的表現。我們的結果突顯了代理人驅動評估系統的潛力，以改善 LLM 生成的摘要的事實可靠性。
+
+##### **FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**
+2501.09957v1 by Zengyi Gao, Yukun Cao, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou
+
+To mitigate the hallucination and knowledge deficiency in large language
+models (LLMs), Knowledge Graph (KG)-based Retrieval-Augmented Generation (RAG)
+has shown promising potential by utilizing KGs as external resource to enhance
+LLMs reasoning.However, existing KG-RAG approaches struggle with a trade-off
+between flexibility and retrieval quality.Modular methods prioritize
+flexibility by avoiding the use of KG-fine-tuned models during retrieval,
+leading to fixed retrieval strategies and suboptimal retrieval
+quality.Conversely, coupled methods embed KG information within models to
+improve retrieval quality, but at the expense of flexibility.In this paper, we
+propose a novel flexible modular KG-RAG framework, termed FRAG, which
+synergizes the advantages of both approaches.FRAG estimates the hop range of
+reasoning paths based solely on the query and classify it as either simple or
+complex.To match the complexity of the query, tailored pipelines are applied to
+ensure efficient and accurate reasoning path retrieval, thus fostering the
+final reasoning process.By using the query text instead of the KG to infer the
+structural information of reasoning paths and employing adaptable retrieval
+strategies, FRAG improves retrieval quality while maintaining
+flexibility.Moreover, FRAG does not require extra LLMs fine-tuning or calls,
+significantly boosting efficiency and conserving resources.Extensive
+experiments show that FRAG achieves state-of-the-art performance with high
+efficiency and low resource consumption.
+
+摘要：為了減輕大型語言模型 (LLM) 中的幻覺和知識不足，基於知識圖譜 (KG) 的檢索增強生成 (RAG) 已透過利用 KG 作為外部資源來增強 LLM 推理，展現出潛在的可能性。然而，現有的 KG-RAG 方法在靈活性與檢索品質之間掙扎著取得平衡。模組化方法透過避免在檢索期間使用針對 KG 微調的模型，優先考量靈活性，導致固定的檢索策略和次佳的檢索品質。相反地，耦合方法將 KG 資訊嵌入模型中以改善檢索品質，但犧牲了靈活性。在本文中，我們提出了一個新穎的靈活模組化 KG-RAG 架構，稱為 FRAG，它協同利用了這兩種方法的優點。FRAG 僅根據查詢估計推理路徑的跳躍範圍，並將其分類為簡單或複雜。為了符合查詢的複雜性，應用客製化管線以確保有效且準確的推理路徑檢索，從而促進最終的推理過程。透過使用查詢文字而非 KG 來推斷推理路徑的結構資訊，並採用可適應的檢索策略，FRAG 在維持靈活性的同時改善了檢索品質。此外，FRAG 不需要額外的 LLM 微調或呼叫，大幅提升效率並節省資源。廣泛的實驗顯示，FRAG 以高效率和低資源消耗實現了最先進的效能。
+
 ##### **SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**
 2501.09316v1 by Anbang Ye, Qianran Ma, Jia Chen, Muqi Li, Tong Li, Fujiao Liu, Siqi Mai, Meichen Lu, Haitao Bao, Yang You
 
@@ -2501,61 +2551,4 @@ the false positive rate while boosting overall toxicity detection performance.
 Our code will be available soon.
 
 摘要：社群媒體平台快速成長，對於線上內容毒性引發高度關注。當大型語言模型 (LLM) 用於毒性偵測時，會出現兩個主要挑戰：1) 缺乏特定領域的毒性知識，導致假陰性；2) LLM 對毒性言論過度敏感，導致假陽性，限制言論自由。為了解決這些問題，我們提出了一種名為 MetaTox 的新方法，利用圖形搜尋在元毒性知識圖譜上，以增強仇恨和毒性偵測。首先，我們透過 LLM 利用三步驟管線萃取毒性資訊，建構全面的元毒性知識圖譜，並以毒性基準資料集作為語料庫。其次，我們透過檢索和排名程序查詢圖形，以補充準確且相關的毒性知識。跨多個資料集的廣泛實驗和深入案例研究顯示，我們的 MetaTox 大幅降低假陽性率，同時提升整體毒性偵測效能。我們的程式碼將很快提供。
-
-##### **Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**
-2412.12456v1 by Xunkai Li, Zhengyu Wu, Jiayi Wu, Hanwen Cui, Jishuo Jia, Rong-Hua Li, Guoren Wang
-
-With the increasing prevalence of cross-domain Text-Attributed Graph (TAG)
-Data (e.g., citation networks, recommendation systems, social networks, and
-ai4science), the integration of Graph Neural Networks (GNNs) and Large Language
-Models (LLMs) into a unified Model architecture (e.g., LLM as enhancer, LLM as
-collaborators, LLM as predictor) has emerged as a promising technological
-paradigm. The core of this new graph learning paradigm lies in the synergistic
-combination of GNNs' ability to capture complex structural relationships and
-LLMs' proficiency in understanding informative contexts from the rich textual
-descriptions of graphs. Therefore, we can leverage graph description texts with
-rich semantic context to fundamentally enhance Data quality, thereby improving
-the representational capacity of model-centric approaches in line with
-data-centric machine learning principles. By leveraging the strengths of these
-distinct neural network architectures, this integrated approach addresses a
-wide range of TAG-based Task (e.g., graph learning, graph reasoning, and graph
-question answering), particularly in complex industrial scenarios (e.g.,
-supervised, few-shot, and zero-shot settings). In other words, we can treat
-text as a medium to enable cross-domain generalization of graph learning Model,
-allowing a single graph model to effectively handle the diversity of downstream
-graph-based Task across different data domains. This work serves as a
-foundational reference for researchers and practitioners looking to advance
-graph learning methodologies in the rapidly evolving landscape of LLM. We
-consistently maintain the related open-source materials at
-\url{https://github.com/xkLi-Allen/Awesome-GNN-in-LLMs-Papers}.
-
-摘要：<paragraph>隨著跨領域文本屬性圖 (TAG) 資料（例如引文網路、推薦系統、社交網路和 ai4science）的日益普及，將圖神經網路 (GNN) 和大型語言模型 (LLM) 整合到統一的模型架構（例如，LLM 作為增強器、LLM 作為協作者、LLM 作為預測器）中已成為一種有前途的技術典範。這種新的圖形學習典範的核心在於 GNN 捕捉複雜結構關係的能力與 LLM 從圖形的豐富文字描述中理解資訊豐富背景的熟練度的協同組合。因此，我們可以利用具有豐富語義背景的圖形描述文字，從根本上提升資料品質，從而改善以模型為中心的途徑的表示能力，並符合以資料為中心的機器學習原則。透過利用這些不同的神經網路架構的優點，這種整合方法解決了廣泛的基於 TAG 的任務（例如，圖形學習、圖形推理和圖形問答），特別是在複雜的產業場景（例如，監督式、少樣本和零樣本設定）中。換句話說，我們可以將文字視為一種媒介，以實現圖形學習模型的跨領域泛化，讓單一圖形模型能夠有效地處理不同資料領域中下游基於圖形的任務的多樣性。這項工作作為研究人員和實務工作者的基礎參考，他們希望在 LLM 快速演變的環境中推進圖形學習方法。我們持續在 \url{https://github.com/xkLi-Allen/Awesome-GNN-in-LLMs-Papers} 維護相關的開放原始碼資料。</paragraph>
-
-##### **Graph-Guided Textual Explanation Generation Framework**
-2412.12318v1 by Shuzhou Yuan, Jingyi Sun, Ran Zhang, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein
-
-Natural language explanations (NLEs) are commonly used to provide plausible
-free-text explanations of a model's reasoning about its predictions. However,
-recent work has questioned the faithfulness of NLEs, as they may not accurately
-reflect the model's internal reasoning process regarding its predicted answer.
-In contrast, highlight explanations -- input fragments identified as critical
-for the model's predictions -- exhibit measurable faithfulness, which has been
-incrementally improved through existing research. Building on this foundation,
-we propose G-Tex, a Graph-Guided Textual Explanation Generation framework
-designed to enhance the faithfulness of NLEs by leveraging highlight
-explanations. Specifically, highlight explanations are extracted as highly
-faithful cues representing the model's reasoning and are subsequently encoded
-through a graph neural network layer, which explicitly guides the NLE
-generation process. This alignment ensures that the generated explanations
-closely reflect the model's underlying reasoning. Experiments on T5 and BART
-using three reasoning datasets show that G-Tex improves NLE faithfulness by up
-to 17.59% compared to baseline methods. Additionally, G-Tex generates NLEs with
-greater semantic and lexical similarity to human-written ones. Human
-evaluations show that G-Tex can decrease redundant content and enhance the
-overall quality of NLEs. As our work introduces a novel method for explicitly
-guiding NLE generation to improve faithfulness, we hope it will serve as a
-stepping stone for addressing additional criteria for NLE and generated text
-overall.
-
-摘要：自然語言解釋 (NLE) 常用於提供模型對其預測的合理解釋。然而，最近的研究質疑 NLE 的忠實度，因為它們可能無法準確反映模型在其預測答案上的內部推理過程。相反，重點解釋——被識別為對模型預測至關重要的輸入片段——表現出可衡量的忠實度，這已通過現有研究逐步得到改進。在此基礎上，我們提出了 G-Tex，一個圖形引導文本解釋生成框架，旨在通過利用重點解釋來增強 NLE 的忠實度。具體來說，重點解釋被提取為代表模型推理的高度忠實線索，然後通過圖神經網路層進行編碼，這明確指導了 NLE 生成過程。這種對齊確保生成的解釋緊密反映模型的底層推理。使用三個推理數據集對 T5 和 BART 進行的實驗表明，與基線方法相比，G-Tex 將 NLE 的忠實度提高了 17.59%。此外，G-Tex 生成的 NLE 與人類編寫的 NLE 在語義和詞彙上具有更高的相似性。人類評估表明，G-Tex 可以減少冗餘內容並提高 NLE 的整體品質。由於我們的研究引入了一種明確指導 NLE 生成的創新方法來提高忠實度，我們希望它將作為解決 NLE 和整體生成文本的附加標準的墊腳石。
 

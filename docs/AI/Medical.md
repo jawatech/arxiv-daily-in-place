@@ -2,6 +2,15 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17**|**An Ontology for Social Determinants of Education (SDoEd) based on Human-AI Collaborative Approach**|Navya Martin Kollapally et.al.|[2501.10300v1](http://arxiv.org/abs/2501.10300v1)|null|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
+|**2025-01-17**|**Challenges and recommendations for Electronic Health Records data extraction and preparation for dynamic prediction modelling in hospitalized patients -- a practical guide**|Elena Albu et.al.|[2501.10240v1](http://arxiv.org/abs/2501.10240v1)|null|
+|**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186v1](http://arxiv.org/abs/2501.10186v1)|null|
+|**2025-01-17**|**CSSDM Ontology to Enable Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2501.10160v1](http://arxiv.org/abs/2501.10160v1)|null|
+|**2025-01-17**|**landmarker: a Toolkit for Anatomical Landmark Localization in 2D/3D Images**|Jef Jonkers et.al.|[2501.10098v1](http://arxiv.org/abs/2501.10098v1)|[link](https://github.com/predict-idlab/landmarker)|
+|**2025-01-17**|**Deep Learning for Early Alzheimer Disease Detection with MRI Scans**|Mohammad Rafsan et.al.|[2501.09999v1](http://arxiv.org/abs/2501.09999v1)|[link](https://github.com/rafusan/dl-alzheimer)|
+|**2025-01-17**|**Aneumo: A Large-Scale Comprehensive Synthetic Dataset of Aneurysm Hemodynamics**|Xigui Li et.al.|[2501.09980v1](http://arxiv.org/abs/2501.09980v1)|[link](https://github.com/xigui-li/aneumo)|
+|**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825v1](http://arxiv.org/abs/2501.09825v1)|null|
 |**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744v1](http://arxiv.org/abs/2501.09744v1)|null|
 |**2025-01-16**|**Electronic Health Records: Towards Digital Twins in Healthcare**|Muhammet Alkan et.al.|[2501.09640v1](http://arxiv.org/abs/2501.09640v1)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
@@ -19,7 +28,7 @@
 |**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241v1](http://arxiv.org/abs/2501.08241v1)|null|
 |**2025-01-14**|**ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems**|Mohita Chowdhury et.al.|[2501.08208v1](http://arxiv.org/abs/2501.08208v1)|null|
 |**2025-01-14**|**Potential and Perils of Large Language Models as Judges of Unstructured Textual Data**|Rewina Bedemariam et.al.|[2501.08167v1](http://arxiv.org/abs/2501.08167v1)|null|
-|**2025-01-14**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|null|
+|**2025-01-14**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware Classification**|Nurit Cohen-Inger et.al.|[2501.08155v1](http://arxiv.org/abs/2501.08155v1)|[link](https://github.com/nuritci/fairttts)|
 |**2025-01-14**|**Guiding the classification of hepatocellular carcinoma on 3D CT-scans using deep and handcrafted radiological features**|E. Sarfati et.al.|[2501.08097v1](http://arxiv.org/abs/2501.08097v1)|null|
 |**2025-01-14**|**Exploring visual language models as a powerful tool in the diagnosis of Ewing Sarcoma**|Alvaro Pastor-Naranjo et.al.|[2501.08042v1](http://arxiv.org/abs/2501.08042v1)|null|
 |**2025-01-14**|**Comprehensive Metapath-based Heterogeneous Graph Transformer for Gene-Disease Association Prediction**|Wentao Cui et.al.|[2501.07970v1](http://arxiv.org/abs/2501.07970v1)|null|
@@ -93,17 +102,201 @@
 |**2025-01-02**|**Model Checking in Medical Imaging for Tumor Detection and Segmentation**|Elhoucine Elfatimi et.al.|[2501.02024v2](http://arxiv.org/abs/2501.02024v2)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[link](https://github.com/nedatavakoli/scarnet)|
-|**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
-|**2025-01-02**|**Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**|Bohang Sun et.al.|[2501.01311v2](http://arxiv.org/abs/2501.01311v2)|null|
-|**2025-01-02**|**Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**|Masahiro Matsumoto et.al.|[2501.02014v1](http://arxiv.org/abs/2501.02014v1)|null|
-|**2025-01-02**|**Data Augmentation Techniques for Chinese Disease Name Normalization**|Wenqian Cui et.al.|[2501.01195v1](http://arxiv.org/abs/2501.01195v1)|[link](https://github.com/dreamtheater123/disease_name_dataset)|
-|**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030v1](http://arxiv.org/abs/2501.01030v1)|null|
-|**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|[link](https://github.com/fede-stack/adaptive-rag-for-psychological-assessment)|
-|**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
-|**2025-01-01**|**Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**|Yang Qi et.al.|[2501.02000v1](http://arxiv.org/abs/2501.02000v1)|[link](https://github.com/xiaqi7/fetal-ultrasound)|
-|**2024-12-31**|**Efficient Standardization of Clinical Notes using Large Language Models**|Daniel B. Hier et.al.|[2501.00644v1](http://arxiv.org/abs/2501.00644v1)|null|
 
 #### Abstracts
+##### **An Ontology for Social Determinants of Education (SDoEd) based on Human-AI Collaborative Approach**
+2501.10300v1 by Navya Martin Kollapally, James Geller, Patricia Morreale, Daehan Kwak
+
+The use of computational ontologies is well-established in the field of
+Medical Informatics. The topic of Social Determinants of Health (SDoH) has also
+received extensive attention. Work at the intersection of ontologies and SDoH
+has been published. However, a standardized framework for Social Determinants
+of Education (SDoEd) is lacking. In this paper, we are closing the gap by
+introducing an SDoEd ontology for creating a precise conceptualization of the
+interplay between life circumstances of students and their possible educational
+achievements. The ontology was developed utilizing suggestions from
+ChatGPT-3.5-010422 and validated using peer-reviewed research articles. The
+first version of developed ontology was evaluated by human experts in the field
+of education and validated using standard ontology evaluation software. This
+version of the SDoEd ontology contains 231 domain concepts, 10 object
+properties, and 24 data properties
+
+摘要：在醫學資訊學領域中，計算本體的使用已經相當普遍。社會健康決定因素（SDoH）的主題也受到廣泛的關注。本體與 SDoH 交集處的工作已經發表。然而，社會教育決定因素（SDoEd）的標準化架構卻付之闕如。在本文中，我們透過引入 SDoEd 本體來填補這個缺口，以建立學生生活環境與其可能教育成就之間相互作用的精確概念化。本體是利用 ChatGPT-3.5-010422 的建議開發的，並使用同行評審的研究文章進行驗證。開發本體的第一個版本由教育領域的人類專家評估，並使用標準本體評估軟體進行驗證。此版本的 SDoEd 本體包含 231 個網域概念、10 個物件屬性和 24 個資料屬性
+
+##### **SEANN: A Domain-Informed Neural Network for Epidemiological Insights**
+2501.10273v1 by Jean-Baptiste Guimbaud, Marc Plantevit, Léa Maître, Rémy Cazabet
+
+In epidemiology, traditional statistical methods such as logistic regression,
+linear regression, and other parametric models are commonly employed to
+investigate associations between predictors and health outcomes. However,
+non-parametric machine learning techniques, such as deep neural networks
+(DNNs), coupled with explainable AI (XAI) tools, offer new opportunities for
+this task. Despite their potential, these methods face challenges due to the
+limited availability of high-quality, high-quantity data in this field. To
+address these challenges, we introduce SEANN, a novel approach for informed
+DNNs that leverages a prevalent form of domain-specific knowledge: Pooled
+Effect Sizes (PES). PESs are commonly found in published Meta-Analysis studies,
+in different forms, and represent a quantitative form of a scientific
+consensus. By direct integration within the learning procedure using a custom
+loss, we experimentally demonstrate significant improvements in the
+generalizability of predictive performances and the scientific plausibility of
+extracted relationships compared to a domain-knowledge agnostic neural network
+in a scarce and noisy data setting.
+
+摘要：在流行病學中，傳統的統計方法，例如邏輯迴歸、線性迴歸和其他參數模型通常用於調查預測因子與健康結果之間的關聯。然而，非參數機器學習技術，例如深度神經網路 (DNN)，結合可解釋的 AI (XAI) 工具，為這項任務提供了新的機會。儘管這些方法具有潛力，但由於該領域缺乏高品質、高數量資料，因此這些方法面臨挑戰。為了應對這些挑戰，我們引入了 SEANN，這是一種新穎的方法，用於獲取知識的 DNN，它利用了一種流行的領域特定知識形式：彙總效應量 (PES)。PES 通常以不同的形式出現在已發表的 Meta 分析研究中，並代表科學共識的量化形式。通過使用自訂損失函數直接整合在學習程序中，我們以實驗方式證明了預測效能的概括性以及與從缺乏領域知識的神經網路中提取的關係相比，科學合理性的顯著提升，且是在稀少且有雜訊的資料設定中。
+
+##### **Challenges and recommendations for Electronic Health Records data extraction and preparation for dynamic prediction modelling in hospitalized patients -- a practical guide**
+2501.10240v1 by Elena Albu, Shan Gao, Pieter Stijnen, Frank E. Rademakers, Bas C T van Bussel, Taya Collyer, Tina Hernandez-Boussard, Laure Wynants, Ben Van Calster
+
+Dynamic predictive modeling using electronic health record (EHR) data has
+gained significant attention in recent years. The reliability and
+trustworthiness of such models depend heavily on the quality of the underlying
+data, which is largely determined by the stages preceding the model
+development: data extraction from EHR systems and data preparation. We list
+over forty challenges encountered during these stages and provide actionable
+recommendations for addressing them. These challenges are organized into four
+categories: cohort definition, outcome definition, feature engineering, and
+data cleaning. This list is designed to serve as a practical guide for data
+extraction engineers and researchers, supporting better practices and improving
+the quality and real-world applicability of dynamic prediction models in
+clinical settings.
+
+摘要：近年來，使用電子健康記錄 (EHR) 資料的動態預測模型獲得了極大的關注。此類模型的可靠性和可信度在很大程度上取決於基礎資料的品質，而這在很大程度上取決於模型開發之前的階段：從 EHR 系統中提取資料和資料準備。我們列出了這些階段中遇到的四十多項挑戰，並提供了具體可行的建議來解決這些挑戰。這些挑戰分為四類：群組定義、結果定義、特徵工程和資料清理。此清單旨在作為資料提取工程師和研究人員的實用指南，支援更好的實務，並改善動態預測模型在臨床環境中的品質和實際應用性。
+
+##### **Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**
+2501.10186v1 by William Hersh
+
+Generative AI has had a profound impact on biomedicine and health, both in
+professional work and in education. Based on large language models (LLMs),
+generative AI has been found to perform as well as humans in simulated
+situations taking medical board exams, answering clinical questions, solving
+clinical cases, applying clinical reasoning, and summarizing information.
+Generative AI is also being used widely in education, performing well in
+academic courses and their assessments. This review summarizes the successes of
+LLMs and highlights some of their challenges in the context of education, most
+notably aspects that may undermines the acquisition of knowledge and skills for
+professional work. It then provides recommendations for best practices
+overcoming shortcomings for LLM use in education. Although there are challenges
+for use of generative AI in education, all students and faculty, in biomedicine
+and health and beyond, must have understanding and be competent in its use.
+
+摘要：生成式 AI 對生物醫學和健康領域產生了深遠的影響，無論是在專業工作還是教育方面。基於大型語言模型 (LLM)，發現生成式 AI 在模擬醫療委員會考試、回答臨床問題、解決臨床案例、應用臨床推理和總結資訊等情況下，表現得與人類一樣好。生成式 AI 也廣泛應用於教育中，在學術課程及其評估中表現良好。本篇評論總結了 LLM 的成功，並強調了它們在教育背景下的一些挑戰，最值得注意的是可能損害專業工作知識和技能習得的方面。然後，它針對克服 LLM 在教育中使用的缺點提供了最佳實務建議。儘管生成式 AI 在教育中使用存在挑戰，但生物醫學和健康領域以及其他領域的所有學生和教職員工都必須了解並熟練使用它。
+
+##### **CSSDM Ontology to Enable Continuity of Care Data Interoperability**
+2501.10160v1 by Subhashis Das, Debashis Naskar, Sara Rodriguez Gonzalez, Pamela Hussey
+
+The rapid advancement of digital technologies and recent global pandemic
+scenarios have led to a growing focus on how these technologies can enhance
+healthcare service delivery and workflow to address crises. Action plans that
+consolidate existing digital transformation programs are being reviewed to
+establish core infrastructure and foundations for sustainable healthcare
+solutions. Reforming health and social care to personalize home care, for
+example, can help avoid treatment in overcrowded acute hospital settings and
+improve the experiences and outcomes for both healthcare professionals and
+service users. In this information-intensive domain, addressing the
+interoperability challenge through standards-based roadmaps is crucial for
+enabling effective connections between health and social care services. This
+approach facilitates safe and trustworthy data workflows between different
+healthcare system providers. In this paper, we present a methodology for
+extracting, transforming, and loading data through a semi-automated process
+using a Common Semantic Standardized Data Model (CSSDM) to create personalized
+healthcare knowledge graph (KG). The CSSDM is grounded in the formal ontology
+of ISO 13940 ContSys and incorporates FHIR-based specifications to support
+structural attributes for generating KGs. We propose that the CSSDM facilitates
+data harmonization and linking, offering an alternative approach to
+interoperability. This approach promotes a novel form of collaboration between
+companies developing health information systems and cloud-enabled health
+services. Consequently, it provides multiple stakeholders with access to
+high-quality data and information sharing.
+
+摘要：數位科技快速進步和最近的全球大流行病情境已導致越來越多人專注於這些科技如何增強醫療保健服務提供和工作流程以應對危機。整合現有數位轉型計畫的行動計畫正被檢視，以建立永續醫療保健解決方案的核心基礎架構和基礎。例如，改革醫療和社會照護以個人化居家照護，有助於避免在人滿為患的急性醫院環境中接受治療，並改善醫療保健專業人員和服務使用者的經驗和結果。在這個資訊密集的領域，透過基於標準的路徑圖來解決互通性挑戰，對於促成醫療保健服務和社會照護服務之間的有效連結至關重要。此方法促成不同醫療保健系統供應商之間安全且值得信賴的資料工作流程。在本文中，我們提出一個方法，透過半自動化流程使用通用語意標準化資料模型 (CSSDM) 來萃取、轉換和載入資料，以建立個人化的醫療保健知識圖譜 (KG)。CSSDM 以 ISO 13940 ContSys 的正式本体論為基礎，並結合基於 FHIR 的規格來支援用於產生 KG 的結構屬性。我們提出 CSSDM 促進資料調和和連結，提供一種互通性的替代方法。此方法促成開發醫療資訊系統和雲端醫療服務的公司之間的一種新型合作形式。因此，它提供多個利害關係人存取高品質資料和資訊共享。
+
+##### **landmarker: a Toolkit for Anatomical Landmark Localization in 2D/3D Images**
+2501.10098v1 by Jef Jonkers, Luc Duchateau, Glenn Van Wallendael, Sofie Van Hoecke
+
+Anatomical landmark localization in 2D/3D images is a critical task in
+medical imaging. Although many general-purpose tools exist for landmark
+localization in classical computer vision tasks, such as pose estimation, they
+lack the specialized features and modularity necessary for anatomical landmark
+localization applications in the medical domain. Therefore, we introduce
+landmarker, a Python package built on PyTorch. The package provides a
+comprehensive, flexible toolkit for developing and evaluating landmark
+localization algorithms, supporting a range of methodologies, including static
+and adaptive heatmap regression. landmarker enhances the accuracy of landmark
+identification, streamlines research and development processes, and supports
+various image formats and preprocessing pipelines. Its modular design allows
+users to customize and extend the toolkit for specific datasets and
+applications, accelerating innovation in medical imaging. landmarker addresses
+a critical need for precision and customization in landmark localization tasks
+not adequately met by existing general-purpose pose estimation tools.
+
+摘要：在 2D/3D 影像中進行解剖標誌定位是醫學影像中的一項關鍵任務。儘管有許多通用工具可用於經典電腦視覺任務中的標誌定位，例如姿勢估計，但它們缺乏解剖標誌定位應用在醫學領域中所需的專業功能和模組化。因此，我們引入了 landmarker，一個建立在 PyTorch 上的 Python 套件。該套件提供了一個全面且靈活的工具包，用於開發和評估標誌定位演算法，支援各種方法，包括靜態和自適應熱圖回歸。landmarker 提升了標誌識別的準確性，簡化了研究和開發流程，並支援各種影像格式和前處理管道。其模組化設計使用戶能夠自訂和延伸工具包，以適用於特定資料集和應用，加速醫學影像的創新。landmarker 滿足了現有通用姿勢估計工具無法充分滿足的標誌定位任務中對於精確度和自訂化的關鍵需求。
+
+##### **Deep Learning for Early Alzheimer Disease Detection with MRI Scans**
+2501.09999v1 by Mohammad Rafsan, Tamer Oraby, Upal Roy, Sanjeev Kumar, Hansapani Rodrigo
+
+Alzheimer's Disease is a neurodegenerative condition characterized by
+dementia and impairment in neurological function. The study primarily focuses
+on the individuals above age 40, affecting their memory, behavior, and
+cognitive processes of the brain. Alzheimer's disease requires diagnosis by a
+detailed assessment of MRI scans and neuropsychological tests of the patients.
+This project compares existing deep learning models in the pursuit of enhancing
+the accuracy and efficiency of AD diagnosis, specifically focusing on the
+Convolutional Neural Network, Bayesian Convolutional Neural Network, and the
+U-net model with the Open Access Series of Imaging Studies brain MRI dataset.
+Besides, to ensure robustness and reliability in the model evaluations, we
+address the challenge of imbalance in data. We then perform rigorous evaluation
+to determine strengths and weaknesses for each model by considering
+sensitivity, specificity, and computational efficiency. This comparative
+analysis would shed light on the future role of AI in revolutionizing AD
+diagnostics but also paved ways for future innovation in medical imaging and
+the management of neurodegenerative diseases.
+
+摘要：阿茲海默症是一種神經退化性疾病，特徵為失智和神經功能受損。本研究主要針對 40 歲以上的個人，影響他們的記憶力、行為和認知過程。阿茲海默症需要透過詳細評估病患的 MRI 掃描和神經心理測試來診斷。本專案比較現有的深度學習模型，以尋求提升 AD 診斷的準確性和效率，特別著重於卷積神經網路、貝氏卷積神經網路和 U-net 模型，以及開放取用影像研究系列的腦部 MRI 資料集。此外，為了確保模型評估的穩健性和可靠性，我們解決了資料不平衡的挑戰。接著我們執行嚴謹的評估，透過考量敏感度、特異度和計算效率來確定每個模型的優缺點。此比較分析將闡明 AI 在革新 AD 診斷方面的未來角色，也為醫學影像和神經退化性疾病管理的未來創新鋪路。
+
+##### **Aneumo: A Large-Scale Comprehensive Synthetic Dataset of Aneurysm Hemodynamics**
+2501.09980v1 by Xigui Li, Yuanye Zhou, Feiyang Xiao, Xin Guo, Yichi Zhang, Chen Jiang, Jianchao Ge, Xiansheng Wang, Qimeng Wang, Taiwei Zhang, Chensen Lin, Yuan Cheng, Yuan Qi
+
+Intracranial aneurysm (IA) is a common cerebrovascular disease that is
+usually asymptomatic but may cause severe subarachnoid hemorrhage (SAH) if
+ruptured. Although clinical practice is usually based on individual factors and
+morphological features of the aneurysm, its pathophysiology and hemodynamic
+mechanisms remain controversial. To address the limitations of current
+research, this study constructed a comprehensive hemodynamic dataset of
+intracranial aneurysms. The dataset is based on 466 real aneurysm models, and
+10,000 synthetic models were generated by resection and deformation operations,
+including 466 aneurysm-free models and 9,534 deformed aneurysm models. The
+dataset also provides medical image-like segmentation mask files to support
+insightful analysis. In addition, the dataset contains hemodynamic data
+measured at eight steady-state flow rates (0.001 to 0.004 kg/s), including
+critical parameters such as flow velocity, pressure, and wall shear stress,
+providing a valuable resource for investigating aneurysm pathogenesis and
+clinical prediction. This dataset will help advance the understanding of the
+pathologic features and hemodynamic mechanisms of intracranial aneurysms and
+support in-depth research in related fields. Dataset hosted at
+https://github.com/Xigui-Li/Aneumo.
+
+摘要：顱內動脈瘤（IA）是一種常見的腦血管疾病，通常無症狀，但如果破裂可能會導致嚴重的蛛網膜下腔出血（SAH）。儘管臨床實務通常基於個體因素和動脈瘤的形態特徵，但其病理生理學和血流動力學機制仍存在爭議。為了解決當前研究的限制，本研究構建了一個顱內動脈瘤的全面血流動力學數據集。該數據集基於 466 個真實動脈瘤模型，並通過切除和變形操作生成了 10,000 個合成模型，包括 466 個無動脈瘤模型和 9,534 個變形動脈瘤模型。該數據集還提供了類醫學影像的分割遮罩檔案，以支持深入分析。此外，該數據集包含在八個穩態流速（0.001 至 0.004 kg/s）下測量的血流動力學數據，包括流速、壓力和壁面剪應力等關鍵參數，為研究動脈瘤發病機制和臨床預測提供了寶貴的資源。此數據集將有助於增進對顱內動脈瘤病理特徵和血流動力學機制的了解，並支持相關領域的深入研究。數據集託管於 https://github.com/Xigui-Li/Aneumo。
+
+##### **Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**
+2501.09825v1 by Nada Saadi, Tathagata Raha, Clément Christophe, Marco AF Pimentel, Ronnie Rajan, Praveen K Kanithi
+
+This paper investigates the challenges of developing large language models
+(LLMs) proficient in both multilingual understanding and medical knowledge. We
+demonstrate that simply translating medical data does not guarantee strong
+performance on clinical tasks in the target language. Our experiments reveal
+that the optimal language mix in training data varies significantly across
+different medical tasks. We find that larger models with carefully calibrated
+language ratios achieve superior performance on native-language clinical tasks.
+Furthermore, our results suggest that relying solely on fine-tuning may not be
+the most effective approach for incorporating new language knowledge into LLMs.
+Instead, data and computationally intensive pretraining methods may still be
+necessary to achieve optimal performance in multilingual medical settings.
+These findings provide valuable guidance for building effective and inclusive
+medical AI systems for diverse linguistic communities.
+
+摘要：本文探討了開發既精通多語言理解又精通醫療知識的大型語言模型 (LLM) 的挑戰。我們證明，僅翻譯醫療資料並不能保證在目標語言的臨床任務中表現出色。我們的實驗揭示，訓練資料中的最佳語言組合因不同的醫療任務而異。我們發現，具有仔細校準語言比例的較大模型在母語臨床任務中表現更佳。此外，我們的結果表明，僅依賴微調可能不是將新的語言知識納入 LLM 的最有效方法。相反，資料和計算密集型預訓練方法對於在多語言醫療環境中實現最佳效能可能仍然必要。這些發現為建立有效且包容性的醫療 AI 系統，以服務於不同的語言社群，提供了有價值的指導方針。
+
 ##### **KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**
 2501.09744v1 by Hajung Kim, Chanhwi Kim, Jiwoong Sohn, Tim Beck, Marek Rei, Sunkyu Kim, T Ian Simpson, Joram M Posma, Antoine Lain, Mujeen Sung, Jaewoo Kang
 
@@ -2352,226 +2545,4 @@ boundaries in LGE images. The model exhibited robust performance across diverse
 image qualities and scar patterns.
 
 摘要：<paragraph>背景：延迟钆增强（LGE）成像用于评估心肌纤维化和瘢痕的黄金标准，左心室 (LV) LGE 范围预测重大的心脏不良事件 (MACE)。尽管其重要性，但基于 LGE 的常规 LV 瘢痕量化受到劳动密集型手动分割和观察者间差异的阻碍。方法：我们提出 ScarNet，一种混合模型，它将来自医学分割任何模型 (MedSAM) 的基于 Transformer 的编码器与基于卷积的 U-Net 解码器相结合，并通过定制的注意力块进行增强。ScarNet 在 552 例缺血性心肌病患者上接受训练，这些患者的心肌和瘢痕边界由专家分割，并在 184 例单独患者上进行测试。结果：ScarNet 在 184 例测试患者中实现了稳健的瘢痕分割，产生 0.912 的中值 Dice 得分（IQR：0.863--0.944），明显优于 MedSAM（中值 Dice = 0.046，IQR：0.043--0.047）和 nnU-Net（中值 Dice = 0.638，IQR：0.604--0.661）。与 MedSAM（偏差：-13.31%，CoV：130.3%）和 nnU-Net（偏差：-2.46%，CoV：20.3%）相比，ScarNet 表现出较低的偏差（-0.63%）和变异系数（4.3%）。在带有噪声扰动的蒙特卡罗模拟中，ScarNet 实现了明显高于 MedSAM（0.048 ± 0.112，CoV = 233.3%）和 nnU-Net（0.615 ± 0.537，CoV = 28.7%）的瘢痕 Dice（0.892 ± 0.053，CoV = 5.9%）。结论：ScarNet 在准确分割 LGE 图像中的心肌和瘢痕边界方面优于 MedSAM 和 nnU-Net。该模型在不同的图像质量和瘢痕模式下表现出稳健的性能。</paragraph>
-
-##### **Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**
-2501.01367v1 by Nathaniel Dennler, Stefanos Nikolaidis, Maja Matarić
-
-People have a variety of preferences for how robots behave. To understand and
-reason about these preferences, robots aim to learn a reward function that
-describes how aligned robot behaviors are with a user's preferences. Good
-representations of a robot's behavior can significantly reduce the time and
-effort required for a user to teach the robot their preferences. Specifying
-these representations -- what "features" of the robot's behavior matter to
-users -- remains a difficult problem; Features learned from raw data lack
-semantic meaning and features learned from user data require users to engage in
-tedious labeling processes. Our key insight is that users tasked with
-customizing a robot are intrinsically motivated to produce labels through
-exploratory search; they explore behaviors that they find interesting and
-ignore behaviors that are irrelevant. To harness this novel data source of
-exploratory actions, we propose contrastive learning from exploratory actions
-(CLEA) to learn trajectory features that are aligned with features that users
-care about. We learned CLEA features from exploratory actions users performed
-in an open-ended signal design activity (N=25) with a Kuri robot, and evaluated
-CLEA features through a second user study with a different set of users (N=42).
-CLEA features outperformed self-supervised features when eliciting user
-preferences over four metrics: completeness, simplicity, minimality, and
-explainability.
-
-摘要：人們對於機器人的行為方式有各種偏好。為了理解和推論這些偏好，機器人旨在學習一個獎勵函數，說明機器人的行為與使用者的偏好有多麼一致。良好的機器人行為表示可以大幅減少使用者教導機器人其偏好所需的時間和精力。說明這些表示——機器人行為的哪些「特徵」對使用者來說很重要——仍然是一個困難的問題；從原始資料學習到的特徵缺乏語意意義，而從使用者資料學習到的特徵需要使用者參與繁瑣的標籤處理程序。我們的關鍵見解是，負責自訂機器人的使用者本質上會透過探索性搜尋產生標籤；他們會探索他們覺得有趣的行為，並忽略不相關的行為。為了利用這個探索性動作的新穎資料來源，我們提出從探索性動作中進行對比學習 (CLEA)，以學習與使用者關心的特徵一致的軌跡特徵。我們從使用者在與 Kuri 機器人的開放式訊號設計活動 (N=25) 中執行的探索性動作中學習了 CLEA 特徵，並透過第二個使用者研究對 CLEA 特徵進行評估，該研究使用了一組不同的使用者 (N=42)。在引出使用者偏好時，CLEA 特徵在四個指標上優於自監督特徵：完整性、簡潔性、最小性、可解釋性。
-
-##### **Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers**
-2501.01311v2 by Bohang Sun, Pietro Liò
-
-In this study, we introduce the Multi-Head Explainer (MHEX), a versatile and
-modular framework that enhances both the explainability and accuracy of
-Convolutional Neural Networks (CNNs) and Transformer-based models. MHEX
-consists of three core components: an Attention Gate that dynamically
-highlights task-relevant features, Deep Supervision that guides early layers to
-capture fine-grained details pertinent to the target class, and an Equivalent
-Matrix that unifies refined local and global representations to generate
-comprehensive saliency maps. Our approach demonstrates superior compatibility,
-enabling effortless integration into existing residual networks like ResNet and
-Transformer architectures such as BERT with minimal modifications. Extensive
-experiments on benchmark datasets in medical imaging and text classification
-show that MHEX not only improves classification accuracy but also produces
-highly interpretable and detailed saliency scores.
-
-摘要：在本次研究中，我們介紹了多頭解釋器 (MHEX)，這是一個多功能且模組化的架構，可增強卷積神經網路 (CNN) 和 Transformer 模型的可解釋性和準確性。MHEX 包含三個核心組成部分：動態突顯與任務相關特徵的注意力閘門、引導早期層捕捉與目標類別相關的細微細節的深度監督，以及統一精緻局部和全局表示以產生全面顯著性圖的等效矩陣。我們的做法展現出優異的相容性，能輕鬆整合到現有的殘差網路（如 ResNet）和 Transformer 架構（如 BERT），且只需進行最小的修改。在醫學影像和文字分類基準資料集上的廣泛實驗顯示，MHEX 不僅能提升分類準確性，還能產生高度可解釋且詳細的顯著性分數。
-
-##### **Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**
-2501.02014v1 by Masahiro Matsumoto, Abu Saleh Musa Miah, Nobuyoshi Asai, Jungpil Shin
-
-Parkinson's disease (PD), the second most common neurodegenerative disorder,
-is characterized by dopaminergic neuron loss and the accumulation of abnormal
-synuclein. PD presents both motor and non-motor symptoms that progressively
-impair daily functioning. The severity of these symptoms is typically assessed
-using the MDS-UPDRS rating scale, which is subjective and dependent on the
-physician's experience. Additionally, PD shares symptoms with other
-neurodegenerative diseases, such as progressive supranuclear palsy (PSP) and
-multiple system atrophy (MSA), complicating accurate diagnosis. To address
-these diagnostic challenges, we propose a machine learning-based system for
-differential diagnosis of PD, PSP, MSA, and healthy controls (HC). This system
-utilizes a kinematic feature-based hierarchical feature extraction and
-selection approach. Initially, 18 kinematic features are extracted, including
-two newly proposed features: Thumb-to-index vector velocity and acceleration,
-which provide insights into motor control patterns. In addition, 41 statistical
-features were extracted here from each kinematic feature, including some new
-approaches such as Average Absolute Change, Rhythm, Amplitude, Frequency,
-Standard Deviation of Frequency, and Slope. Feature selection is performed
-using One-way ANOVA to rank features, followed by Sequential Forward Floating
-Selection (SFFS) to identify the most relevant ones, aiming to reduce the
-computational complexity. The final feature set is used for classification,
-achieving a classification accuracy of 66.67% for each dataset and 88.89% for
-each patient, with particularly high performance for the MSA and HC groups
-using the SVM algorithm. This system shows potential as a rapid and accurate
-diagnostic tool in clinical practice, though further data collection and
-refinement are needed to enhance its reliability.
-
-摘要：帕金森氏症（PD）是第二常见的脑神经退化性疾病，
-其特征是多巴胺能神经元丧失和异常α-突触核蛋白的积累。PD 同时出现运动和非运动症状，这些症状会逐渐损害日常功能。这些症状的严重程度通常使用 MDS-UPDRS 评定量表进行评估，该量表是主观的，并且依赖于医生的经验。此外，PD 与其他神经退化性疾病（例如进行性核上性麻痹 (PSP) 和多系统萎缩 (MSA)）有相同的症状，这使得准确诊断变得复杂。为了应对这些诊断挑战，我们提出了一种基于机器学习的系统，用于 PD、PSP、MSA 和健康对照 (HC) 的鉴别诊断。该系统利用基于运动学特征的分层特征提取和选择方法。最初，提取了 18 个运动学特征，包括两个新提出的特征：拇指到食指的矢量速度和加速度，它们提供了对运动控制模式的见解。此外，此处从每个运动学特征中提取了 41 个统计特征，包括一些新方法，例如平均绝对变化、节奏、振幅、频率、频率标准差和斜率。使用单向方差分析对特征进行排名，然后使用顺序前向浮动选择 (SFFS) 识别最相关的特征，以降低计算复杂度。最终特征集用于分类，对于每个数据集，分类准确率达到 66.67%，对于每个患者，准确率达到 88.89%，使用 SVM 算法时，MSA 和 HC 组的性能尤其高。该系统显示出作为临床实践中快速且准确的诊断工具的潜力，尽管需要进一步收集数据和改进以增强其可靠性。
-
-##### **Data Augmentation Techniques for Chinese Disease Name Normalization**
-2501.01195v1 by Wenqian Cui, Xiangling Fu, Shaohui Liu, Mingjun Gu, Xien Liu, Ji Wu, Irwin King
-
-Disease name normalization is an important task in the medical domain. It
-classifies disease names written in various formats into standardized names,
-serving as a fundamental component in smart healthcare systems for various
-disease-related functions. Nevertheless, the most significant obstacle to
-existing disease name normalization systems is the severe shortage of training
-data. Consequently, we present a novel data augmentation approach that includes
-a series of data augmentation techniques and some supporting modules to help
-mitigate the problem. Through extensive experimentation, we illustrate that our
-proposed approach exhibits significant performance improvements across various
-baseline models and training objectives, particularly in scenarios with limited
-training data
-
-摘要：疾病名稱正規化是醫學領域中一項重要的任務。它將以各種格式書寫的疾病名稱分類為標準化名稱，作為智慧醫療系統中各種疾病相關功能的基本組成部分。然而，現有疾病名稱正規化系統最顯著的障礙是訓練資料嚴重短缺。因此，我們提出了一種新穎的資料擴充方法，其中包括一系列資料擴充技術和一些輔助模組，以幫助減輕這個問題。透過廣泛的實驗，我們說明我們提出的方法在各種基線模型和訓練目標中展現出顯著的效能提升，特別是在訓練資料有限的情況下
-
-##### **Reasoning based on symbolic and parametric knowledge bases: a survey**
-2501.01030v1 by Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, Ke Sun, Tieyun Qian
-
-Reasoning is fundamental to human intelligence, and critical for
-problem-solving, decision-making, and critical thinking. Reasoning refers to
-drawing new conclusions based on existing knowledge, which can support various
-applications like clinical diagnosis, basic education, and financial analysis.
-Though a good number of surveys have been proposed for reviewing
-reasoning-related methods, none of them has systematically investigated these
-methods from the viewpoint of their dependent knowledge base. Both the
-scenarios to which the knowledge bases are applied and their storage formats
-are significantly different. Hence, investigating reasoning methods from the
-knowledge base perspective helps us better understand the challenges and future
-directions. To fill this gap, this paper first classifies the knowledge base
-into symbolic and parametric ones. The former explicitly stores information in
-human-readable symbols, and the latter implicitly encodes knowledge within
-parameters. Then, we provide a comprehensive overview of reasoning methods
-using symbolic knowledge bases, parametric knowledge bases, and both of them.
-Finally, we identify the future direction toward enhancing reasoning
-capabilities to bridge the gap between human and machine intelligence.
-
-摘要：推理是人类智能的基础，对于解决问题、决策和批判性思维至关重要。推理是指根据现有知识得出新的结论，这可以支持各种应用程序，如临床诊断、基础教育和财务分析。尽管已经提出了大量调查来审查与推理相关的各种方法，但没有一种方法从其依赖知识库的角度系统地研究这些方法。知识库被应用到的场景及其存储格式都有显着差异。因此，从知识库的角度研究推理方法有助于我们更好地理解挑战和未来的方向。为了填补这一空白，本文首先将知识库分为符号知识库和参数知识库。前者以人类可读的符号明确存储信息，而后者则在参数中隐式编码知识。然后，我们对使用符号知识库、参数知识库以及两者结合的推理方法进行了全面概述。最后，我们确定了增强推理能力以缩小人和机器智能之间差距的未来方向。
-
-##### **Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**
-2501.00982v1 by Federico Ravenda, Seyed Ali Bahrainian, Andrea Raballo, Antonietta Mira, Noriko Kando
-
-In psychological practice, standardized questionnaires serve as essential
-tools for assessing mental constructs (e.g., attitudes, traits, and emotions)
-through structured questions (aka items). With the increasing prevalence of
-social media platforms where users share personal experiences and emotions,
-researchers are exploring computational methods to leverage this data for rapid
-mental health screening. In this study, we propose a novel adaptive
-Retrieval-Augmented Generation (RAG) approach that completes psychological
-questionnaires by analyzing social media posts. Our method retrieves the most
-relevant user posts for each question in a psychological survey and uses Large
-Language Models (LLMs) to predict questionnaire scores in a zero-shot setting.
-Our findings are twofold. First we demonstrate that this approach can
-effectively predict users' responses to psychological questionnaires, such as
-the Beck Depression Inventory II (BDI-II), achieving performance comparable to
-or surpassing state-of-the-art models on Reddit-based benchmark datasets
-without relying on training data. Second, we show how this methodology can be
-generalized as a scalable screening tool, as the final assessment is
-systematically derived by completing standardized questionnaires and tracking
-how individual item responses contribute to the diagnosis, aligning with
-established psychometric practices.
-
-摘要：<paragraph>在心理學實務中，標準化問卷作為評量心理建構（例如態度、特質和情緒）的必要工具，透過結構化問題（又稱項目）來進行評量。隨著社群媒體平台的普及，使用者會在上面分享個人經驗和情緒，研究人員正在探討運算方法，以利用這些資料進行快速的的心理健康篩檢。在這項研究中，我們提出了一種創新的適應性擷取增強生成（RAG）方法，透過分析社群媒體貼文來完成心理問卷。我們的做法是針對心理調查中的每個問題，擷取與之最相關的使用者貼文，並使用大型語言模型（LLM）在零次學習的設定下預測問卷分數。我們的發現有兩方面。首先，我們證明了這種方法可以有效預測使用者對心理問卷的回答，例如貝克憂鬱量表第二版（BDI-II），在基於 Reddit 的基準資料集上達到了與最先進模型相當或超越的表現，而且並未依賴訓練資料。其次，我們展示了這個方法如何能被概括為一種可擴充的篩檢工具，因為最終評量是透過完成標準化問卷並追蹤個別項目回答如何促成診斷而系統性地得出的，這與既定的心理測量實務相符。</paragraph>
-
-##### **Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**
-2501.00954v1 by Sagarnil Das, Pradeep Walia
-
-Diabetic Retinopathy (DR) is a leading cause of preventable blindness. Early
-detection at the DR1 stage is critical but is hindered by a scarcity of
-high-quality fundus images. This study uses StyleGAN3 to generate synthetic DR1
-images characterized by microaneurysms with high fidelity and diversity. The
-aim is to address data scarcity and enhance the performance of supervised
-classifiers. A dataset of 2,602 DR1 images was used to train the model,
-followed by a comprehensive evaluation using quantitative metrics, including
-Frechet Inception Distance (FID), Kernel Inception Distance (KID), and
-Equivariance with respect to translation (EQ-T) and rotation (EQ-R).
-Qualitative assessments included Human Turing tests, where trained
-ophthalmologists evaluated the realism of synthetic images. Spectral analysis
-further validated image quality. The model achieved a final FID score of 17.29,
-outperforming the mean FID of 21.18 (95 percent confidence interval - 20.83 to
-21.56) derived from bootstrap resampling. Human Turing tests demonstrated the
-model's ability to produce highly realistic images, though minor artifacts near
-the borders were noted. These findings suggest that StyleGAN3-generated
-synthetic DR1 images hold significant promise for augmenting training datasets,
-enabling more accurate early detection of Diabetic Retinopathy. This
-methodology highlights the potential of synthetic data in advancing medical
-imaging and AI-driven diagnostics.
-
-摘要：糖尿病視網膜病變 (DR) 是可預防失明的主要原因。在 DR1 階段早期發現至關重要，但由於缺乏高品質眼底圖像而受到阻礙。本研究使用 StyleGAN3 生成合成 DR1 圖像，其特徵是具有高保真度和多樣性的微動脈瘤。目的是解決資料稀少的問題，並提升監督分類器的效能。使用 2,602 張 DR1 圖像的資料集來訓練模型，然後使用量化指標進行全面評估，包括 Fréchet Inception Distance (FID)、Kernel Inception Distance (KID) 以及相對於平移 (EQ-T) 和旋轉 (EQ-R) 的等變異性。定性評估包括人類圖靈測試，其中訓練有素的眼科醫生評估合成圖像的真實性。光譜分析進一步驗證了影像品質。該模型達到了 17.29 的最終 FID 分數，優於從 bootstrap 重抽樣得出的 21.18 的平均 FID（95% 信賴區間 - 20.83 到 21.56）。人類圖靈測試證明了該模型產生高度逼真圖像的能力，儘管注意到邊緣附近有輕微的人工製品。這些發現表明，StyleGAN3 生成的合成 DR1 圖像對於擴充訓練資料集具有顯著的希望，能夠更準確地早期發現糖尿病視網膜病變。這種方法突顯了合成資料在推進醫學影像和 AI 驅動診斷方面的潛力。
-
-##### **Multi-Center Study on Deep Learning-Assisted Detection and Classification of Fetal Central Nervous System Anomalies Using Ultrasound Imaging**
-2501.02000v1 by Yang Qi, Jiaxin Cai, Jing Lu, Runqing Xiong, Rongshang Chen, Liping Zheng, Duo Ma
-
-Prenatal ultrasound evaluates fetal growth and detects congenital
-abnormalities during pregnancy, but the examination of ultrasound images by
-radiologists requires expertise and sophisticated equipment, which would
-otherwise fail to improve the rate of identifying specific types of fetal
-central nervous system (CNS) abnormalities and result in unnecessary patient
-examinations. We construct a deep learning model to improve the overall
-accuracy of the diagnosis of fetal cranial anomalies to aid prenatal diagnosis.
-In our collected multi-center dataset of fetal craniocerebral anomalies
-covering four typical anomalies of the fetal central nervous system (CNS):
-anencephaly, encephalocele (including meningocele), holoprosencephaly, and
-rachischisis, patient-level prediction accuracy reaches 94.5%, with an AUROC
-value of 99.3%. In the subgroup analyzes, our model is applicable to the entire
-gestational period, with good identification of fetal anomaly types for any
-gestational period. Heatmaps superimposed on the ultrasound images not only
-provide a visual interpretation for the algorithm but also provide an intuitive
-visual aid to the physician by highlighting key areas that need to be reviewed,
-helping the physician to quickly identify and validate key areas. Finally, the
-retrospective reader study demonstrates that by combining the automatic
-prediction of the DL system with the professional judgment of the radiologist,
-the diagnostic accuracy and efficiency can be effectively improved and the
-misdiagnosis rate can be reduced, which has an important clinical application
-prospect.
-
-摘要：產前超音波評估胎兒生長並在懷孕期間偵測先天異常，但超音波影像的檢查需要放射科醫師的專業知識和精密儀器，否則無法改善特定類型胎兒中樞神經系統 (CNS) 異常的辨識率，並導致不必要的病人檢查。我們建構一個深度學習模型，以改善胎兒顱骨異常診斷的整體準確度，以協助產前診斷。在我們收集的多中心胎兒顱腦異常資料集中，涵蓋胎兒中樞神經系統 (CNS) 的四種典型異常：無腦症、腦膨出（包括腦膜膨出）、全前腦症和脊裂，病人層級的預測準確度達到 94.5%，AUROC 值為 99.3%。在子群分析中，我們的模型適用於整個妊娠期，且能良好辨識任何妊娠期的胎兒異常類型。疊加在超音波影像上的熱圖不僅提供演算法的視覺詮釋，也透過突顯需要檢視的關鍵區域，提供直覺的視覺輔助工具給醫師，協助醫師快速辨識和驗證關鍵區域。最後，回溯性閱讀研究顯示，結合 DL 系統的自動預測和放射科醫師的專業判斷，可以有效改善診斷準確度和效率，並降低誤診率，這具有重要的臨床應用前景。
-
-##### **Efficient Standardization of Clinical Notes using Large Language Models**
-2501.00644v1 by Daniel B. Hier, Michael D. Carrithers, Thanh Son Do, Tayo Obafemi-Ajayi
-
-Clinician notes are a rich source of patient information but often contain
-inconsistencies due to varied writing styles, colloquialisms, abbreviations,
-medical jargon, grammatical errors, and non-standard formatting. These
-inconsistencies hinder the extraction of meaningful data from electronic health
-records (EHRs), posing challenges for quality improvement, population health,
-precision medicine, decision support, and research.
-  We present a large language model approach to standardizing a corpus of 1,618
-clinical notes. Standardization corrected an average of $4.9 +/- 1.8$
-grammatical errors, $3.3 +/- 5.2$ spelling errors, converted $3.1 +/- 3.0$
-non-standard terms to standard terminology, and expanded $15.8 +/- 9.1$
-abbreviations and acronyms per note. Additionally, notes were re-organized into
-canonical sections with standardized headings. This process prepared notes for
-key concept extraction, mapping to medical ontologies, and conversion to
-interoperable data formats such as FHIR.
-  Expert review of randomly sampled notes found no significant data loss after
-standardization. This proof-of-concept study demonstrates that standardization
-of clinical notes can improve their readability, consistency, and usability,
-while also facilitating their conversion into interoperable data formats.
-
-摘要：臨床醫師的筆記是豐富的病人資訊來源，但常常因為書寫風格不同、慣用語、縮寫、醫學術語、文法錯誤和非標準格式而包含不一致的地方。這些不一致會阻礙從電子健康紀錄 (EHR) 中萃取有意義的資料，對品質改善、人口健康、精準醫療、決策支援和研究構成挑戰。
-我們提出了一個大型語言模型方法來標準化 1,618 份臨床筆記的語料庫。標準化平均更正了 $4.9 +/- 1.8$ 個文法錯誤、$3.3 +/- 5.2$ 個拼字錯誤，將 $3.1 +/- 3.0$ 個非標準術語轉換為標準術語，並擴充了每份筆記中 $15.8 +/- 9.1$ 個縮寫和首字母縮略字。此外，筆記被重新組織成具有標準標題的正規章節。這個過程準備了筆記，用於關鍵概念萃取、對應到醫學本体，以及轉換為可互操作的資料格式，例如 FHIR。
-對隨機抽樣的筆記進行專家審查後發現，在標準化後沒有顯著的資料遺失。這個概念驗證研究證明了臨床筆記的標準化可以改善其可讀性、一致性和可用性，同時也促進其轉換為可互操作的資料格式。
 

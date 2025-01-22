@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
 |**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
@@ -101,9 +102,33 @@
 |**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v6](http://arxiv.org/abs/2401.13324v6)|null|
 |**2024-01-02**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari et.al.|[2401.02985v1](http://arxiv.org/abs/2401.02985v1)|null|
 |**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|[link](https://github.com/lixingqiao/xai-icu)|
-|**2023-12-22**|**Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**|Norman Zerbe et.al.|[2401.09450v2](http://arxiv.org/abs/2401.09450v2)|null|
 
 #### Abstracts
+##### **Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**
+2501.11094v1 by Mohaiminul Islam Bhuiyan, Nur Shazwani Kamarudin, Nur Hafieza Ismail
+
+Suicidal ideation detection is crucial for preventing suicides, a leading
+cause of death worldwide. Many individuals express suicidal thoughts on social
+media, offering a vital opportunity for early detection through advanced
+machine learning techniques. The identification of suicidal ideation in social
+media text is improved by utilising a hybrid framework that integrates
+Convolutional Neural Networks (CNN) and Bidirectional Long Short-Term Memory
+(BiLSTM), enhanced with an attention mechanism. To enhance the interpretability
+of the model's predictions, Explainable AI (XAI) methods are applied, with a
+particular focus on SHapley Additive exPlanations (SHAP), are incorporated. At
+first, the model managed to reach an accuracy of 92.81%. By applying
+fine-tuning and early stopping techniques, the accuracy improved to 94.29%. The
+SHAP analysis revealed key features influencing the model's predictions, such
+as terms related to mental health struggles. This level of transparency boosts
+the model's credibility while helping mental health professionals understand
+and trust the predictions. This work highlights the potential for improving the
+accuracy and interpretability of detecting suicidal tendencies, making a
+valuable contribution to the progress of mental health monitoring systems. It
+emphasizes the significance of blending powerful machine learning methods with
+explainability to develop reliable and impactful mental health solutions.
+
+摘要：自殺意念偵測對於預防自殺至關重要，而自殺是全球主要的死亡原因。許多人在社群媒體上表達自殺念頭，這提供了透過進階機器學習技術進行早期偵測的重要機會。透過整合卷積神經網路 (CNN) 和雙向長短期記憶 (BiLSTM) 的混合架構，並加入注意力機制，可以提升在社群媒體文字中辨識自殺意念的能力。為了加強模型預測的可解釋性，我們採用可解釋人工智慧 (XAI) 方法，特別著重於 SHapley 加法解釋 (SHAP)。一開始，模型成功達到 92.81% 的準確度。透過套用微調和早期停止技術，準確度提升至 94.29%。SHAP 分析揭露了影響模型預測的關鍵特徵，例如與心理健康困境相關的詞彙。這種透明度提升了模型的可信度，同時協助心理健康專業人員理解和信賴預測結果。這項工作突顯了提升偵測自殺傾向的準確度和可解釋性的潛力，為心理健康監控系統的進展做出寶貴的貢獻。它強調了將強大的機器學習方法與可解釋性相結合以開發可靠且有影響力的心理健康解決方案的重要性。
+
 ##### **SEANN: A Domain-Informed Neural Network for Epidemiological Insights**
 2501.10273v1 by Jean-Baptiste Guimbaud, Marc Plantevit, Léa Maître, Rémy Cazabet
 
@@ -2687,34 +2712,4 @@ our framework can be easily transferred to other clinical tasks, which
 facilitates the discovery of crucial factors in healthcare research.
 
 摘要：預測加護病房 (ICU) 病患的院內死亡率是最終臨床結果的關鍵。AI 已展現出優異的準確度，但卻缺乏可解釋性。為了解決這個問題，本文提出了一個可解釋的多模式死亡率預測器 (X-MMP)，採用有效且可解釋的 AI 方式，藉由多模式 ICU 資料來預測院內死亡率。我們在架構中採用多模式學習，可以接收來自臨床資料的異質輸入並做出決策。此外，我們引入了一個可解釋的方法，也就是分層傳播至 Transformer，作為 LRP 方法適當地延伸至 Transformer，對多模式輸入產生解釋，並揭露歸因於預測的顯著特徵。此外，每個模式對臨床結果的貢獻可以視覺化，協助臨床醫師了解決策背後的理由。我們根據 MIMIC-III 和 MIMIC-III 波形資料庫比對子集建構了一個多模式資料集。在基準資料集上的全面實驗證明，我們提出的架構可以達成合理的詮釋，並具備競爭力的預測準確度。特別是，我們的架構可以輕鬆地轉移到其他臨床任務，這有助於在醫療保健研究中發現關鍵因素。
-
-##### **Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative**
-2401.09450v2 by Norman Zerbe, Lars Ole Schwen, Christian Geißler, Katja Wiesemann, Tom Bisson, Peter Boor, Rita Carvalho, Michael Franz, Christoph Jansen, Tim-Rasmus Kiehl, Björn Lindequist, Nora Charlotte Pohlan, Sarah Schmell, Klaus Strohmenger, Falk Zakrzewski, Markus Plass, Michael Takla, Tobias Küster, André Homeyer, Peter Hufnagl
-
-Over the past decade, artificial intelligence (AI) methods in pathology have
-advanced substantially. However, integration into routine clinical practice has
-been slow due to numerous challenges, including technical and regulatory
-hurdles in translating research results into clinical diagnostic products and
-the lack of standardized interfaces. The open and vendor-neutral EMPAIA
-initiative addresses these challenges. Here, we provide an overview of EMPAIA's
-achievements and lessons learned. EMPAIA integrates various stakeholders of the
-pathology AI ecosystem, i.e., pathologists, computer scientists, and industry.
-In close collaboration, we developed technical interoperability standards,
-recommendations for AI testing and product development, and explainability
-methods. We implemented the modular and open-source EMPAIA platform and
-successfully integrated 14 AI-based image analysis apps from 8 different
-vendors, demonstrating how different apps can use a single standardized
-interface. We prioritized requirements and evaluated the use of AI in real
-clinical settings with 14 different pathology laboratories in Europe and Asia.
-In addition to technical developments, we created a forum for all stakeholders
-to share information and experiences on digital pathology and AI. Commercial,
-clinical, and academic stakeholders can now adopt EMPAIA's common open-source
-interfaces, providing a unique opportunity for large-scale standardization and
-streamlining of processes. Further efforts are needed to effectively and
-broadly establish AI assistance in routine laboratory use. To this end, a
-sustainable infrastructure, the non-profit association EMPAIA International,
-has been established to continue standardization and support broad
-implementation and advocacy for an AI-assisted digital pathology future.
-
-摘要：在過去的十年中，病理學中的人工智慧 (AI) 方法已大幅進步。然而，由於許多挑戰，包括將研究結果轉化為臨床診斷產品在技術和法規方面的障礙，以及缺乏標準化介面，導致整合到常規臨床實務中進展緩慢。開放且與供應商無關的 EMPAIA 計畫應對了這些挑戰。在此，我們提供 EMPAIA 的成就和經驗教訓的概述。EMPAIA 整合了病理學 AI 生態系統的各個利害關係人，即病理學家、電腦科學家和產業。在密切合作下，我們制定了技術互通性標準、AI 測試和產品開發建議，以及可解釋性方法。我們實作了模組化且開放原始碼的 EMPAIA 平臺，並成功整合了來自 8 個不同供應商的 14 個基於 AI 的影像分析應用程式，展示了不同的應用程式如何使用單一的標準化介面。我們優先考慮需求，並評估了 AI 在歐洲和亞洲的 14 個不同病理實驗室中的實際臨床應用。除了技術開發外，我們還為所有利害關係人建立了一個論壇，以分享數位病理學和 AI 的資訊和經驗。商業、臨床和學術利害關係人現在可以採用 EMPAIA 的常見開放原始碼介面，這為大規模標準化和簡化流程提供了獨特的機會。需要進一步的努力才能有效且廣泛地建立例行實驗室使用中的 AI 輔助。為此，已成立非營利協會 EMPAIA International，以作為永續基礎架構，繼續進行標準化，並支援廣泛實作和倡導 AI 輔助數位病理學的未來。
 

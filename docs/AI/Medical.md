@@ -20,7 +20,7 @@
 |**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
 |**2025-01-15**|**Benchmarking Robustness of Contrastive Learning Models for Medical Image-Report Retrieval**|Demetrio Deanda et.al.|[2501.09134v1](http://arxiv.org/abs/2501.09134v1)|null|
 |**2025-01-15**|**Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**|Huiyu Li et.al.|[2501.09114v1](http://arxiv.org/abs/2501.09114v1)|[link](https://github.com/huiyu-li/gmia)|
-|**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977v1](http://arxiv.org/abs/2501.08977v1)|null|
+|**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977v2](http://arxiv.org/abs/2501.08977v2)|null|
 |**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962v1](http://arxiv.org/abs/2501.08962v1)|null|
 |**2025-01-15**|**Digital Phenotyping for Adolescent Mental Health: A Feasibility Study Employing Machine Learning to Predict Mental Health Risk From Active and Passive Smartphone Data**|Balasundaram Kadirvelu et.al.|[2501.08851v1](http://arxiv.org/abs/2501.08851v1)|null|
 |**2025-01-15**|**Spatio-Temporal Foundation Models: Vision, Challenges, and Opportunities**|Adam Goodge et.al.|[2501.09045v1](http://arxiv.org/abs/2501.09045v1)|null|
@@ -533,7 +533,7 @@ available at https://github.com/Huiyu-Li/GMIA.
 摘要：醫學影像匿名化旨在透過移除識別資訊來保護病患隱私，同時保留資料效用以解決下游任務。在本文中，我們透過兩階段解決方案來解決醫學影像匿名化問題：潛在碼投影和最佳化。在投影階段，我們設計一個簡化的編碼器，將輸入影像投影到潛在空間，並提出一個共同訓練架構來提升投影程序。在最佳化階段，我們使用兩個深度損失函數來調整潛在碼，這些函數旨在解決身分保護與專門用於醫學影像的資料效用之間的權衡。透過一組全面的定性和定量實驗，我們展示了我們方法在 MIMIC-CXR 胸部 X 光影像資料集上的有效性，方法是產生可作為訓練集來偵測肺部病理的匿名合成影像。原始碼可於 https://github.com/Huiyu-Li/GMIA 取得。
 
 ##### **Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**
-2501.08977v1 by Emma Croxford, Yanjun Gao, Nicholas Pellegrino, Karen K. Wong, Graham Wills, Elliot First, Miranda Schnier, Kyle Burton, Cris G. Ebby, Jillian Gorskic, Matthew Kalscheur, Samy Khalil, Marie Pisani, Tyler Rubeor, Peter Stetson, Frank Liao, Cherodeep Goswami, Brian Patterson, Majid Afshar
+2501.08977v2 by Emma Croxford, Yanjun Gao, Nicholas Pellegrino, Karen K. Wong, Graham Wills, Elliot First, Miranda Schnier, Kyle Burton, Cris G. Ebby, Jillian Gorskic, Matthew Kalscheur, Samy Khalil, Marie Pisani, Tyler Rubeor, Peter Stetson, Frank Liao, Cherodeep Goswami, Brian Patterson, Majid Afshar
 
 As Large Language Models (LLMs) are integrated into electronic health record
 (EHR) workflows, validated instruments are essential to evaluate their
@@ -547,22 +547,41 @@ LLMs (GPT-4o, Mixtral 8x7b, and Llama 3-8b). Validation included Pearson
 correlation for substantive validity, factor analysis and Cronbach's alpha for
 structural validity, inter-rater reliability (ICC and Krippendorff's alpha) for
 generalizability, a semi-Delphi process for content validity, and comparisons
-of high- versus low-quality summaries for discriminant validity. Seven
-physician raters evaluated 779 summaries and answered 8,329 questions,
-achieving over 80% power for inter-rater reliability. The PDSQI-9 demonstrated
-strong internal consistency (Cronbach's alpha = 0.879; 95% CI: 0.867-0.891) and
-high inter-rater reliability (ICC = 0.867; 95% CI: 0.867-0.868), supporting
+of high-versus low-quality summaries for discriminant validity. Seven physician
+raters evaluated 779 summaries and answered 8,329 questions, achieving over 80%
+power for inter-rater reliability. The PDSQI-9 demonstrated strong internal
+consistency (Cronbach's alpha = 0.879; 95% CI: 0.867-0.891) and high
+inter-rater reliability (ICC = 0.867; 95% CI: 0.867-0.868), supporting
 structural validity and generalizability. Factor analysis identified a 4-factor
 model explaining 58% of the variance, representing organization, clarity,
 accuracy, and utility. Substantive validity was supported by correlations
 between note length and scores for Succinct (rho = -0.200, p = 0.029) and
-Organized (rho = -0.190, p = 0.037). Discriminant validity distinguished high-
-from low-quality summaries (p < 0.001). The PDSQI-9 demonstrates robust
+Organized ($\rho = -0.190$, $p = 0.037$). Discriminant validity distinguished
+high- from low-quality summaries ($p < 0.001$). The PDSQI-9 demonstrates robust
 construct validity, supporting its use in clinical practice to evaluate
 LLM-generated summaries and facilitate safer integration of LLMs into
 healthcare workflows.
 
-摘要：隨著大型語言模型 (LLM) 整合到電子健康紀錄 (EHR) 工作流程中，驗證工具對於在實施前評估其效能至關重要。現有的提供者文件品質工具通常不適合 LLM 生成的文字複雜性，且缺乏對真實世界資料的驗證。提供者文件摘要品質工具 (PDSQI-9) 的開發目的是評估 LLM 生成的臨床摘要。使用多個 LLM（GPT-4o、Mixtral 8x7b 和 Llama 3-8b）從跨多個專科的真實世界 EHR 資料中產生多文件摘要。驗證包括實質效度的皮爾森相關係數、結構效度的因子分析和克朗巴赫 α 係數、概括性的評分者間信度（ICC 和克里彭多夫 α 係數）、內容效度的半德爾菲程序，以及用於判別效度的優質與劣質摘要比較。七位醫師評分者評估了 779 份摘要並回答了 8,329 個問題，評分者間信度達到 80% 以上。PDSQI-9 表現出強大的內部一致性（克朗巴赫 α 係數 = 0.879；95% CI：0.867-0.891）和高評分者間信度（ICC = 0.867；95% CI：0.867-0.868），支持結構效度和概括性。因子分析辨識出一個 4 因子模型，解釋了 58% 的變異，代表組織、清晰度、準確性和實用性。實質效度受到摘要長度與簡潔（rho = -0.200，p = 0.029）和組織（rho = -0.190，p = 0.037）分數之間相關性的支持。判別效度區分了優質和劣質摘要（p < 0.001）。PDSQI-9 表現出穩健的建構效度，支持在臨床實務中使用它來評估 LLM 生成的摘要，並促進 LLM 更安全的整合到醫療保健工作流程中。
+摘要：<paragraph>隨著大型語言模型 (LLM) 整合到電子病歷
+(EHR) 工作流程中，在實施之前，經過驗證的儀器對於評估其
+效能至關重要。現有的提供者文件品質儀器通常不適合
+LLM 生成的文字的複雜性，且缺乏對真實世界資料的驗證。提供者
+文件摘要品質儀器 (PDSQI-9) 是為了評估 LLM 生成的臨床摘要而
+開發的。使用多個 LLM（GPT-4o、Mixtral 8x7b 和 Llama 3-8b），
+從跨多個專科的真實世界 EHR 資料中產生了多文件摘要。驗證包括
+皮爾森相關性（實質效度）、因子分析和克朗巴赫 α（結構效度）、
+評分者間信度（ICC 和 Krippendorff α）（概化性）、內容效度的半德爾
+菲程序，以及比較高品質和低品質摘要（判別效度）。七位醫師
+評分者評估了 779 份摘要並回答了 8,329 個問題，評分者間信度達
+到了 80% 以上。PDSQI-9 表現出強大的內部一致性（克朗巴赫 α =
+0.879；95% CI：0.867-0.891）和高評分者間信度（ICC = 0.867；95%
+CI：0.867-0.868），支持結構效度和概化性。因子分析識別出一個
+4 因子模型，解釋了 58% 的變異，代表組織、清晰度、準確性和實用
+性。實質效度受到備忘錄長度與簡潔（rho = -0.200，p = 0.029）和
+條理（$\rho = -0.190$，$p = 0.037$）的分數之間相關性的支持。判別
+效度區分了高品質和低品質摘要（$p < 0.001$）。PDSQI-9 展示了強健
+的建構效度，支持在臨床實務中使用它來評估 LLM 生成的摘要，並
+促進 LLM 更安全的整合到醫療保健工作流程中。</paragraph>
 
 ##### **An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**
 2501.08962v1 by Francisco Mauro, Emanoel Thyago, Othon Vinicius, Rodrigo Abreu, Kelvin Cunha, José Gabriel, Rafael Barros, Thales Bezerra, Manoel Henriques, Natalia Lopes, Érico Moutinho, Jéssica Guido, Tsang Ing Ren, Paulo Borba

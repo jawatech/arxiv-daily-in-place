@@ -3,6 +3,7 @@
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300v1](http://arxiv.org/abs/2501.12300v1)|null|
+|**2025-01-21**|**Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**|Dongsheng Zhu et.al.|[2501.12432v1](http://arxiv.org/abs/2501.12432v1)|null|
 |**2025-01-21**|**InsTALL: Context-aware Instructional Task Assistance with Multi-modal Large Language Models**|Pha Nguyen et.al.|[2501.12231v1](http://arxiv.org/abs/2501.12231v1)|null|
 |**2025-01-21**|**Leveraging Graph Structures and Large Language Models for End-to-End Synthetic Task-Oriented Dialogues**|Maya Medjad et.al.|[2501.11977v1](http://arxiv.org/abs/2501.11977v1)|null|
 |**2025-01-21**|**Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization**|Jie Zhao et.al.|[2501.11968v1](http://arxiv.org/abs/2501.11968v1)|null|
@@ -10,10 +11,10 @@
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
 |**2025-01-20**|**Graph-defined Language Learning with LLMs**|Huachi Zhou et.al.|[2501.11478v1](http://arxiv.org/abs/2501.11478v1)|null|
 |**2025-01-20**|**Few-shot Policy (de)composition in Conversational Question Answering**|Kyle Erwin et.al.|[2501.11335v1](http://arxiv.org/abs/2501.11335v1)|null|
-|**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223v1](http://arxiv.org/abs/2501.11223v1)|[link](https://github.com/spcl/x1)|
+|**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223v2](http://arxiv.org/abs/2501.11223v2)|[link](https://github.com/spcl/x1)|
 |**2025-01-19**|**IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems**|Elad Levi et.al.|[2501.11067v1](http://arxiv.org/abs/2501.11067v1)|[link](https://github.com/plurai-ai/intellagent)|
 |**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993v1](http://arxiv.org/abs/2501.09993v1)|null|
-|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957v1](http://arxiv.org/abs/2501.09957v1)|null|
+|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957v2](http://arxiv.org/abs/2501.09957v2)|null|
 |**2025-01-16**|**SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**|Anbang Ye et.al.|[2501.09316v1](http://arxiv.org/abs/2501.09316v1)|null|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279v1](http://arxiv.org/abs/2501.09279v1)|null|
 |**2025-01-16**|**A Simple Graph Contrastive Learning Framework for Short Text Classification**|Yonghao Liu et.al.|[2501.09219v1](http://arxiv.org/abs/2501.09219v1)|[link](https://github.com/keaml-jlu/simstc)|
@@ -101,7 +102,6 @@
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480v1](http://arxiv.org/abs/2412.14480v1)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019v1](http://arxiv.org/abs/2412.14019v1)|null|
 |**2024-12-18**|**DODGE: Ontology-Aware Risk Assessment via Object-Oriented Disruption Graphs**|Stefano M. Nicoletti et.al.|[2412.13964v1](http://arxiv.org/abs/2412.13964v1)|null|
-|**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-Hop Question Answering**|Yifan Lu et.al.|[2412.13782v2](http://arxiv.org/abs/2412.13782v2)|null|
 
 #### Abstracts
 ##### **LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**
@@ -132,6 +132,32 @@ acceptance of the proposed collaborative approach for concept extraction and
 classification.
 
 摘要：<paragraph>在學習個人化提供學習者巨大潛力的同時，高等教育中的現代實務需要更深入地考慮領域模型和學習情境，以開發有效的個人化演算法。本文介紹了一種創新的高等教育課程建模方法，該方法利用大型語言模型 (LLM) 來完成知識圖譜 (KG)，目的是建立個人化的學習路徑建議。我們的研究重點在於建模大學科目，並將它們的主題連結到對應的領域模型，從而能夠將來自不同院系和機構的學習模組整合到學生的學習路徑中。我們的做法核心是一個協作流程，其中 LLM 協助人類專家從講義材料中萃取高品質、細緻的主題。我們為大學模組和利害關係人開發了領域、課程和使用者模型。我們實作這個模型，從兩個研究模組建立 KG：嵌入式系統和使用 FPGA 的嵌入式系統開發。產生的 KG 建構了課程並將其連結到領域模型。我們透過定性專家回饋和定量圖形品質指標來評估我們的做法。領域專家驗證了模型的相關性和準確性，而圖形品質指標則測量了我們 KG 的結構特性。我們的結果顯示，LLM 輔助的圖形完成方法增強了跨學科連結相關課程的能力，以個人化學習體驗。專家回饋也顯示高度接受所提出的協作方法，用於概念萃取和分類。</paragraph>
+
+##### **Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**
+2501.12432v1 by Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, Lingyong Yan, Dawei Yin
+
+Although current Large Language Models (LLMs) exhibit impressive
+capabilities, performing complex real-world tasks still requires tool learning.
+Mainstream methods, such as CoT/ReAct, rely on step-by-step tool invocation to
+interact with external environments, but they are limited in perceptual scope
+and lack adequate task-planning capability. To address these limitations, other
+studies introduce the first Search-based Decision Tree (DFSDT), which still
+suffers from the high computational cost. In this paper, we introduce a novel
+parallel tool invocation paradigm, DTA-Llama (Divide-Then-Aggregate Llama).
+First, we transform traditional tree-based tool search paths into Directed
+Acyclic Graph (DAG) structure, generating a high-quality parallel tool
+invocation dataset. The DTA-Llama is then trained on the dataset to learn to
+iteratively divide the current task into several parallel tool invocation
+sub-tasks and aggregate the invocation results to decide the next actions.
+Furthermore, we introduce an efficient inference framework inspired by the
+Process/Threads mechanism when applying the DTA-Llama to practical tasks.
+Experimental results show that our approach substantially enhances task
+performance while reducing token consumption and inference time. Llama2-7B,
+using our method, is comparable to the official parallel function calling
+method of GPT-3.5. The relevant code, dataset, and model weights are available
+at https://corn0205.github.io/
+
+摘要：儘管目前的大型語言模型 (LLM) 展現出令人印象深刻的能力，但執行複雜的真實世界任務仍需要工具學習。主流方法（例如 CoT/ReAct）依賴逐步工具呼叫與外部環境互動，但它們的感知範圍有限，且缺乏足夠的任務規劃能力。為了解決這些限制，其他研究引入了第一個基於搜尋的決策樹 (DFSDT)，但仍有很高的運算成本。在本文中，我們介紹了一種新穎的平行工具呼叫範例，DTA-Llama（分而合之 Llama）。首先，我們將傳統的基於樹的工具搜尋路徑轉換為有向無環圖 (DAG) 結構，產生高品質的平行工具呼叫資料集。然後在資料集上訓練 DTA-Llama，學習反覆將當前任務分成幾個平行工具呼叫子任務，並彙總呼叫結果以決定後續動作。此外，我們在將 DTA-Llama 應用於實際任務時，引入了一個受 Process/Threads 機制啟發的高效推論框架。實驗結果表明，我們的做法大幅提升了任務效能，同時減少了符號消耗和推論時間。使用我們方法的 Llama2-7B，可與 GPT-3.5 的官方平行函式呼叫方法相媲美。相關程式碼、資料集和模型權重可在 https://corn0205.github.io/ 取得
 
 ##### **InsTALL: Context-aware Instructional Task Assistance with Multi-modal Large Language Models**
 2501.12231v1 by Pha Nguyen, Sailik Sengupta, Girik Malik, Arshit Gupta, Bonan Min
@@ -319,35 +345,36 @@ the challenges involved with reasoning for conversational question answering.
 摘要：策略合規偵測 (PCD) 的任務是確定場景是否符合一組書面策略。在對話設定中，PCD 的結果可以指出是否必須提出澄清問題以確定合規狀態。現有的方法通常聲稱具有潛在的推理能力，或需要大量的註釋資料。在這項工作中，我們提出策略合規的邏輯分解 (LDPC)：一種使用大型語言模型 (LLM) 在少次嘗試中偵測策略合規的神經符號框架。透過僅選擇少數範例以及最近開發的提示技術，我們證明我們的做法透過提取要回答的子問題、從脈絡資訊指派真值，以及從給定的策略明確產生一組邏輯陳述，對策略合規對話進行合理的推理。明確邏輯圖表的制定反過來可以幫助回答 PCD 相關問題，並提高透明度和可解釋性。我們將此方法應用於熱門的 PCD 和對話式機器閱讀基準 ShARC，並在沒有特定任務微調的情況下展現出競爭力。我們也利用 LDPC 固有的可解釋架構來了解錯誤發生在哪裡，揭露 ShARC 資料集中的歧義，並強調對話式問題解答推理的挑戰。
 
 ##### **Reasoning Language Models: A Blueprint**
-2501.11223v1 by Maciej Besta, Julia Barth, Eric Schreiber, Ales Kubicek, Afonso Catarino, Robert Gerstenberger, Piotr Nyczyk, Patrick Iff, Yueling Li, Sam Houliston, Tomasz Sternal, Marcin Copik, Grzegorz Kwaśniewski, Jürgen Müller, Łukasz Flis, Hannes Eberhard, Hubert Niewiadomski, Torsten Hoefler
+2501.11223v2 by Maciej Besta, Julia Barth, Eric Schreiber, Ales Kubicek, Afonso Catarino, Robert Gerstenberger, Piotr Nyczyk, Patrick Iff, Yueling Li, Sam Houliston, Tomasz Sternal, Marcin Copik, Grzegorz Kwaśniewski, Jürgen Müller, Łukasz Flis, Hannes Eberhard, Hubert Niewiadomski, Torsten Hoefler
 
 Reasoning language models (RLMs), also known as Large Reasoning Models
 (LRMs), such as OpenAI's o1 and o3, DeepSeek-V3, and Alibaba's QwQ, have
-redefined AI's problem-solving capabilities by extending large language models
-(LLMs) with advanced reasoning mechanisms. Yet, their high costs, proprietary
-nature, and complex architectures - uniquely combining Reinforcement Learning
-(RL), search heuristics, and LLMs - present accessibility and scalability
-challenges. To address these, we propose a comprehensive blueprint that
-organizes RLM components into a modular framework, based on a survey and
-analysis of all RLM works. This blueprint incorporates diverse reasoning
-structures (chains, trees, graphs, and nested forms), reasoning strategies
-(e.g., Monte Carlo Tree Search, Beam Search), RL concepts (policy, value models
-and others), and supervision schemes (Output-Based and Process-Based
-Supervision). We also provide detailed mathematical formulations and
-algorithmic specifications to simplify RLM implementation. By showing how
-schemes like LLaMA-Berry, QwQ, Journey Learning, and Graph of Thoughts fit as
-special cases, we demonstrate the blueprint's versatility and unifying
-potential. To illustrate its utility, we introduce x1, a modular implementation
-for rapid RLM prototyping and experimentation. Using x1 and a literature
-review, we provide key insights, such as multi-phase training for policy and
-value models, and the importance of familiar training distributions. Finally,
-we outline how RLMs can integrate with a broader LLM ecosystem, including tools
-and databases. Our work demystifies RLM construction, democratizes advanced
+redefined AI's problem-solving capabilities by extending LLMs with advanced
+reasoning mechanisms. Yet, their high costs, proprietary nature, and complex
+architectures - uniquely combining Reinforcement Learning (RL), search
+heuristics, and LLMs - present accessibility and scalability challenges. To
+address these, we propose a comprehensive blueprint that organizes RLM
+components into a modular framework, based on a survey and analysis of all RLM
+works. This blueprint incorporates diverse reasoning structures (chains, trees,
+graphs, and nested forms), reasoning strategies (e.g., Monte Carlo Tree Search,
+Beam Search), RL concepts (policy, value models and others), supervision
+schemes (Outcome-Based and Process-Based Supervision), and other related
+concepts (e.g., Test-Time Compute, Retrieval-Augmented Generation, agent
+tools). We provide detailed mathematical formulations and algorithmic
+specifications to simplify RLM implementation. By showing how schemes like
+LLaMA-Berry, QwQ, Journey Learning, and Graph of Thoughts fit as special cases,
+we demonstrate the blueprint's versatility and unifying potential. To
+illustrate its utility, we introduce x1, a modular implementation for rapid RLM
+prototyping and experimentation. Using x1 and a literature review, we provide
+key insights, such as multi-phase training for policy and value models, and the
+importance of familiar training distributions. Finally, we discuss scalable RLM
+cloud deployments and we outline how RLMs can integrate with a broader LLM
+ecosystem. Our work demystifies RLM construction, democratizes advanced
 reasoning capabilities, and fosters innovation, aiming to mitigate the gap
 between "rich AI" and "poor AI" by lowering barriers to RLM development and
 experimentation.
 
-摘要：推理語言模型 (RLM)，也稱為大型推理模型 (LRM)，例如 OpenAI 的 o1 和 o3、DeepSeek-V3 和阿里巴巴的 QwQ，透過將大型語言模型 (LLM) 與先進的推理機制相結合，重新定義了 AI 的問題解決能力。然而，其高昂的成本、專有性質和複雜的架構（獨特地結合了強化學習 (RL)、搜尋啟發法和 LLM）提出了可及性和可擴充性挑戰。為了解決這些問題，我們提出了一個全面的藍圖，根據對所有 RLM 作品的調查和分析，將 RLM 組件組織成一個模組化框架。此藍圖包含多樣化的推理結構（鏈、樹、圖和巢狀形式）、推理策略（例如蒙地卡羅樹搜尋、波束搜尋）、RL 概念（策略、價值模型等）和監督方案（基於輸出的監督和基於流程的監督）。我們還提供了詳細的數學公式和演算法規範，以簡化 RLM 實作。透過展示 LLaMA-Berry、QwQ、Journey Learning 和 Graph of Thoughts 等方案如何作為特殊情況，我們展示了藍圖的多功能性和統一的潛力。為了說明其效用，我們引入了 x1，一個用於快速 RLM 原型製作和實驗的模組化實作。使用 x1 和文獻回顧，我們提供了關鍵見解，例如政策和價值模型的多階段訓練，以及熟悉訓練分佈的重要性。最後，我們概述了 RLM 如何與更廣泛的 LLM 生態系統整合，包括工具和資料庫。我們的研究揭開了 RLM 建構的神秘面紗，民主化了先進的推理能力，並促進了創新，旨在透過降低 RLM 開發和實驗的障礙，來縮小「富裕 AI」和「貧窮 AI」之間的差距。
+摘要：推理語言模型 (RLM)，又稱大型推理模型 (LRM)，例如 OpenAI 的 o1 和 o3、DeepSeek-V3 和阿里巴巴的 QwQ，透過先進的推理機制擴充 LLM，重新定義了 AI 的問題解決能力。然而，它們的高成本、專有性質和複雜的架構（獨特地結合了強化學習 (RL)、搜尋啟發法和 LLM）帶來了可及性和可擴充性的挑戰。為了解決這些問題，我們提出了一個全面的藍圖，根據對所有 RLM 作品的調查和分析，將 RLM 組件組織成一個模組化架構。此藍圖包含了多樣的推理結構（鏈、樹、圖和巢狀形式）、推理策略（例如蒙地卡羅樹搜尋、波束搜尋）、RL 概念（策略、價值模型等）、監督方案（基於結果的監督和基於流程的監督）和其他相關概念（例如測試時間計算、檢索增強生成、代理工具）。我們提供了詳細的數學公式和演算法規範，以簡化 RLM 的實作。透過展示 LLaMA-Berry、QwQ、旅程學習和思想圖如何作為特例，我們證明了藍圖的多功能性和統一的潛力。為了說明其效用，我們引入了 x1，一個用於快速 RLM 原型製作和實驗的模組化實作。使用 x1 和文獻回顧，我們提供了關鍵見解，例如策略和價值模型的多階段訓練，以及熟悉訓練分佈的重要性。最後，我們討論了可擴充的 RLM 雲端部署，並概述了 RLM 如何與更廣泛的 LLM 生態系統整合。我們的研究揭開了 RLM 結構的神秘面紗，讓先進的推理能力民主化，並促進創新，旨在透過降低 RLM 開發和實驗的障礙，縮小「富裕 AI」和「貧窮 AI」之間的差距。
 
 ##### **IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems**
 2501.11067v1 by Elad Levi, Ilan Kadar
@@ -405,31 +432,31 @@ the factual reliability of LLM-generated summaries.
 摘要：大型語言模型 (LLM) 在摘要任務中展現出接近人類的表現，根據傳統指標，例如 ROUGE 和 BERTScore。然而，這些指標並未充分掌握摘要品質的關鍵面向，例如事實準確性，特別是針對長篇敘事 (>100K 個符號)。最近的進展，例如 LLM-as-a-Judge，解決了基於詞彙相似性的指標限制，但仍然表現出事實上的不一致性，特別是在理解角色關係和狀態方面。在這項工作中，我們引入了 NarrativeFactScore，一種新穎的「代理人作為評審」架構，用於評估和精煉摘要。透過利用從輸入和產生的摘要中萃取的角色知識圖譜 (CKG)，NarrativeFactScore 評估事實一致性，並提供可行的精煉指南，例如識別遺漏或錯誤的事實。我們透過詳細的工作流程說明和廣泛驗證在廣泛採用的基準上，證明了 NarrativeFactScore 的有效性，與競爭方法相比，達到了卓越的表現。我們的結果突顯了代理人驅動評估系統的潛力，以改善 LLM 生成的摘要的事實可靠性。
 
 ##### **FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**
-2501.09957v1 by Zengyi Gao, Yukun Cao, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou
+2501.09957v2 by Zengyi Gao, Yukun Cao, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou
 
 To mitigate the hallucination and knowledge deficiency in large language
 models (LLMs), Knowledge Graph (KG)-based Retrieval-Augmented Generation (RAG)
 has shown promising potential by utilizing KGs as external resource to enhance
-LLMs reasoning.However, existing KG-RAG approaches struggle with a trade-off
-between flexibility and retrieval quality.Modular methods prioritize
+LLMs reasoning. However, existing KG-RAG approaches struggle with a trade-off
+between flexibility and retrieval quality. Modular methods prioritize
 flexibility by avoiding the use of KG-fine-tuned models during retrieval,
-leading to fixed retrieval strategies and suboptimal retrieval
-quality.Conversely, coupled methods embed KG information within models to
-improve retrieval quality, but at the expense of flexibility.In this paper, we
-propose a novel flexible modular KG-RAG framework, termed FRAG, which
-synergizes the advantages of both approaches.FRAG estimates the hop range of
-reasoning paths based solely on the query and classify it as either simple or
-complex.To match the complexity of the query, tailored pipelines are applied to
-ensure efficient and accurate reasoning path retrieval, thus fostering the
-final reasoning process.By using the query text instead of the KG to infer the
-structural information of reasoning paths and employing adaptable retrieval
-strategies, FRAG improves retrieval quality while maintaining
-flexibility.Moreover, FRAG does not require extra LLMs fine-tuning or calls,
-significantly boosting efficiency and conserving resources.Extensive
-experiments show that FRAG achieves state-of-the-art performance with high
-efficiency and low resource consumption.
+leading to fixed retrieval strategies and suboptimal retrieval quality.
+Conversely, coupled methods embed KG information within models to improve
+retrieval quality, but at the expense of flexibility. In this paper, we propose
+a novel flexible modular KG-RAG framework, termed FRAG, which synergizes the
+advantages of both approaches. FRAG estimates the hop range of reasoning paths
+based solely on the query and classify it as either simple or complex. To match
+the complexity of the query, tailored pipelines are applied to ensure efficient
+and accurate reasoning path retrieval, thus fostering the final reasoning
+process. By using the query text instead of the KG to infer the structural
+information of reasoning paths and employing adaptable retrieval strategies,
+FRAG improves retrieval quality while maintaining flexibility. Moreover, FRAG
+does not require extra LLMs fine-tuning or calls, significantly boosting
+efficiency and conserving resources. Extensive experiments show that FRAG
+achieves state-of-the-art performance with high efficiency and low resource
+consumption.
 
-摘要：為了減輕大型語言模型 (LLM) 中的幻覺和知識不足，基於知識圖譜 (KG) 的檢索增強生成 (RAG) 已透過利用 KG 作為外部資源來增強 LLM 推理，展現出潛在的可能性。然而，現有的 KG-RAG 方法在靈活性與檢索品質之間掙扎著取得平衡。模組化方法透過避免在檢索期間使用針對 KG 微調的模型，優先考量靈活性，導致固定的檢索策略和次佳的檢索品質。相反地，耦合方法將 KG 資訊嵌入模型中以改善檢索品質，但犧牲了靈活性。在本文中，我們提出了一個新穎的靈活模組化 KG-RAG 架構，稱為 FRAG，它協同利用了這兩種方法的優點。FRAG 僅根據查詢估計推理路徑的跳躍範圍，並將其分類為簡單或複雜。為了符合查詢的複雜性，應用客製化管線以確保有效且準確的推理路徑檢索，從而促進最終的推理過程。透過使用查詢文字而非 KG 來推斷推理路徑的結構資訊，並採用可適應的檢索策略，FRAG 在維持靈活性的同時改善了檢索品質。此外，FRAG 不需要額外的 LLM 微調或呼叫，大幅提升效率並節省資源。廣泛的實驗顯示，FRAG 以高效率和低資源消耗實現了最先進的效能。
+摘要：<paragraph>為了減輕大型語言模型 (LLM) 中的幻覺和知識不足，基於知識圖譜 (KG) 的檢索增強生成 (RAG) 已展現出利用 KG 作為外部資源來增強 LLM 推理的潛力。然而，現有的 KG-RAG 方法在靈活性與檢索品質之間面臨取捨。模組化方法透過避免在檢索期間使用 KG 微調模型來優先考慮靈活性，導致固定的檢索策略和次佳的檢索品質。相反地，耦合方法將 KG 資訊嵌入模型中以改善檢索品質，但犧牲了靈活性。在本文中，我們提出了一個新穎的靈活模組化 KG-RAG 框架，稱為 FRAG，它協同了兩種方法的優點。FRAG 僅根據查詢估計推理路徑的跳躍範圍，並將其分類為簡單或複雜。為了匹配查詢的複雜性，應用客製化管道以確保有效且準確的推理路徑檢索，從而促進最終的推理過程。FRAG 使用查詢文字而非 KG 來推斷推理路徑的結構化資訊，並採用可適應的檢索策略，從而改善檢索品質，同時保持靈活性。此外，FRAG 不需要額外的 LLM 微調或呼叫，顯著提升效率並節省資源。大量的實驗表明，FRAG 以高效率和低資源消耗實現了最先進的效能。</paragraph>
 
 ##### **SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**
 2501.09316v1 by Anbang Ye, Qianran Ma, Jia Chen, Muqi Li, Tong Li, Fujiao Liu, Siqi Mai, Meichen Lu, Haitao Bao, Yang You
@@ -2559,29 +2586,4 @@ to pose questions about disruption propagation, disruption likelihood and risk
 levels, keeping the fundamental role of objects at risk always in sight.
 
 摘要：在考量高風險事件或行動時，我們不能低估所涉物件的角色：手機中的充電電池可避免在爆胎後受困沙漠的風險，而功能正常的防火牆則可降低駭客入侵網路的風險。價值與風險的共用本体論 (COVER) 強調物件及其關係的角色，對於執行透明、完整且負責任的風險評估仍然至關重要。在本文中，我們將 COVER 所提出的部分概念（例如物件之間的組成部分關係，以及物件參與事件/行動）具體化，藉由提出一個新的風險評估架構：DODGE。DODGE 透過將本体論與形式化方法橋接至一個本体論感知形式化架構中，豐富了風險驗證形式化模型（例如故障樹和攻擊樹）的表達力，該架構由更具表達力的建模形式主義、物件導向中斷圖 (ODG)、邏輯 (ODGLog) 和一個中間查詢語言 (ODGLang) 組成。透過這些，DODGE 讓風險評估者能夠提出有關中斷傳播、中斷可能性和風險層級的問題，同時始終保持對風險物件的基本角色的關注。
-
-##### **Knowledge Editing with Dynamic Knowledge Graphs for Multi-Hop Question Answering**
-2412.13782v2 by Yifan Lu, Yigeng Zhou, Jing Li, Yequan Wang, Xuebo Liu, Daojing He, Fangming Liu, Min Zhang
-
-Multi-hop question answering (MHQA) poses a significant challenge for large
-language models (LLMs) due to the extensive knowledge demands involved.
-Knowledge editing, which aims to precisely modify the LLMs to incorporate
-specific knowledge without negatively impacting other unrelated knowledge,
-offers a potential solution for addressing MHQA challenges with LLMs. However,
-current solutions struggle to effectively resolve issues of knowledge
-conflicts. Most parameter-preserving editing methods are hindered by inaccurate
-retrieval and overlook secondary editing issues, which can introduce noise into
-the reasoning process of LLMs. In this paper, we introduce KEDKG, a novel
-knowledge editing method that leverages a dynamic knowledge graph for MHQA,
-designed to ensure the reliability of answers. KEDKG involves two primary
-steps: dynamic knowledge graph construction and knowledge graph augmented
-generation. Initially, KEDKG autonomously constructs a dynamic knowledge graph
-to store revised information while resolving potential knowledge conflicts.
-Subsequently, it employs a fine-grained retrieval strategy coupled with an
-entity and relation detector to enhance the accuracy of graph retrieval for LLM
-generation. Experimental results on benchmarks show that KEDKG surpasses
-previous state-of-the-art models, delivering more accurate and reliable answers
-in environments with dynamic information.
-
-摘要：多跳問答 (MHQA) 由於涉及廣泛的知識需求，因此對大型語言模型 (LLM) 構成重大挑戰。知識編輯旨在精確修改 LLM 以納入特定知識，同時不對其他無關知識產生負面影響，為了解決 LLM 中的 MHQA 挑戰提供了潛在解決方案。然而，當前的解決方案難以有效解決知識衝突問題。大多數保留參數的編輯方法受到不準確檢索的阻礙，並且忽視了次要編輯問題，這可能會在 LLM 的推理過程中引入雜訊。在本文中，我們介紹了 KEDKG，這是一種新穎的知識編輯方法，它利用動態知識圖譜進行 MHQA，旨在確保答案的可靠性。KEDKG 涉及兩個主要步驟：動態知識圖譜構建和知識圖譜增強生成。最初，KEDKG 自主構建一個動態知識圖譜來儲存修改後的資訊，同時解決潛在的知識衝突。隨後，它採用細粒度的檢索策略，結合實體和關係檢測器，以提高 LLM 生成的圖譜檢索準確度。基準上的實驗結果表明，KEDKG 超越了先前的最先進模型，在具有動態資訊的環境中提供了更準確和可靠的答案。
 

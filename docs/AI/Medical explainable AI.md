@@ -10,7 +10,7 @@
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
 |**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
-|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v2](http://arxiv.org/abs/2412.16086v2)|[link](https://github.com/tifat58/irr-with-cbm-rag)|
 |**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748v1](http://arxiv.org/abs/2412.15748v1)|null|
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009v1](http://arxiv.org/abs/2412.14009v1)|null|
 |**2024-11-30**|**2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**|Jim Solomon et.al.|[2412.00372v1](http://arxiv.org/abs/2412.00372v1)|null|
@@ -314,7 +314,7 @@ millions of lives worldwide.
 摘要：本研究提出了一個創新的癌症診斷和預測方法，使用可解釋的人工智慧 (XAI) 和深度學習技術。由於癌症在 2020 年造成全球近 1,000 萬人死亡，因此早期準確的診斷至關重要。傳統方法通常面臨成本、準確性和效率方面的挑戰。我們的研究開發了一個 AI 模型，它提供精確的結果並清楚地了解其決策過程，解決了深度學習模型的「黑箱」問題。通過採用 XAI 技術，我們增強了解釋性和透明度，在醫療專業人員和患者之間建立信任。我們的做法利用神經網路分析廣泛的數據集，識別癌症檢測模式。這個模型有可能通過提高醫療決策的準確性、可及性和清晰度來革新診斷，可能導致更早的檢測和更個性化的治療策略。此外，它可以使更多人獲得高品質的診斷，特別是在資源有限的環境中，有助於全球健康公平。該模型的應用範圍不僅限於癌症診斷，還可能轉變醫療決策的各個方面，並拯救全球數百萬人的生命。
 
 ##### **Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**
-2412.16086v1 by Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, Daniel Sonntag
+2412.16086v2 by Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, Daniel Sonntag
 
 Deep learning has advanced medical image classification, but interpretability
 challenges hinder its clinical adoption. This study enhances interpretability
@@ -329,9 +329,10 @@ model's outputs. On the COVID-QU dataset, our model achieved 81% classification
 accuracy and demonstrated robust report generation performance, with five key
 metrics ranging between 84% and 90%. This interpretable multi-agent framework
 bridges the gap between high-performance AI and the explainability required for
-reliable AI-driven CXR analysis in clinical settings.
+reliable AI-driven CXR analysis in clinical settings. Our code is available at
+https://github.com/tifat58/IRR-with-CBM-RAG.git.
 
-摘要：深度學習已進步了醫學影像分類，但可解釋性挑戰阻礙了其臨床採用。本研究透過使用概念瓶頸模型 (CBM) 和多重代理檢索增強生成 (RAG) 系統進行報告生成，增強了胸部 X 光 (CXR) 分類的可解釋性。透過對視覺特徵和臨床概念之間的關係進行建模，我們建立了可解釋的概念向量，用來引導多重代理 RAG 系統生成放射科報告，以增強臨床相關性、可解釋性和透明性。使用 LLM 作為判斷者對生成的報告進行評估，確認了我們模型輸出的可解釋性和臨床實用性。在 COVID-QU 資料集上，我們的模型達到了 81% 的分類準確度，並展示了強健的報告生成效能，五項關鍵指標介於 84% 到 90% 之間。這個可解釋的多重代理架構彌合了高性能 AI 與在臨床環境中進行可靠 AI 驅動 CXR 分析所需的可解釋性之間的差距。
+摘要：深度學習已提升醫學影像分類，但可解釋性挑戰阻礙其臨床應用。本研究透過使用概念瓶頸模型 (CBM) 和多代理檢索增強生成 (RAG) 系統進行報告生成，來增強胸部 X 光 (CXR) 分類的可解釋性。透過建模視覺特徵與臨床概念之間的關係，我們建立可解釋的概念向量，引導多代理 RAG 系統生成放射報告，增強臨床相關性、可解釋性和透明度。使用 LLM 作為評審員對生成報告進行評估，確認了我們模型輸出的可解釋性和臨床效用。在 COVID-QU 資料集上，我們的模型達到了 81% 的分類準確率，並展示了穩健的報告生成效能，五項關鍵指標介於 84% 至 90% 之間。這個可解釋的多代理架構彌合了高性能 AI 與臨床環境中可靠的 AI 驅動 CXR 分析所需的解釋性之間的差距。我們的程式碼可於 https://github.com/tifat58/IRR-with-CBM-RAG.git 取得。
 
 ##### **Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**
 2412.15748v1 by Shamus Sim, Tyrone Chen

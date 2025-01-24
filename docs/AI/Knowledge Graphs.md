@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746v1](http://arxiv.org/abs/2501.13746v1)|null|
+|**2025-01-23**|**Pseudocode-Injection Magic: Enabling LLMs to Tackle Graph Computational Tasks**|Chang Gong et.al.|[2501.13731v1](http://arxiv.org/abs/2501.13731v1)|null|
 |**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300v1](http://arxiv.org/abs/2501.12300v1)|null|
 |**2025-01-21**|**Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**|Dongsheng Zhu et.al.|[2501.12432v1](http://arxiv.org/abs/2501.12432v1)|null|
 |**2025-01-21**|**InsTALL: Context-aware Instructional Task Assistance with Multi-modal Large Language Models**|Pha Nguyen et.al.|[2501.12231v1](http://arxiv.org/abs/2501.12231v1)|null|
@@ -9,9 +11,9 @@
 |**2025-01-21**|**Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization**|Jie Zhao et.al.|[2501.11968v1](http://arxiv.org/abs/2501.11968v1)|null|
 |**2025-01-21**|**Network-informed Prompt Engineering against Organized Astroturf Campaigns under Extreme Class Imbalance**|Nikos Kanakaris et.al.|[2501.11849v1](http://arxiv.org/abs/2501.11849v1)|[link](https://github.com/nkanak/brag-fake-news-campaigns)|
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
-|**2025-01-20**|**Graph-defined Language Learning with LLMs**|Huachi Zhou et.al.|[2501.11478v1](http://arxiv.org/abs/2501.11478v1)|null|
+|**2025-01-20**|**Each Graph is a New Language: Graph Learning with LLMs**|Huachi Zhou et.al.|[2501.11478v2](http://arxiv.org/abs/2501.11478v2)|null|
 |**2025-01-20**|**Few-shot Policy (de)composition in Conversational Question Answering**|Kyle Erwin et.al.|[2501.11335v1](http://arxiv.org/abs/2501.11335v1)|null|
-|**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223v2](http://arxiv.org/abs/2501.11223v2)|[link](https://github.com/spcl/x1)|
+|**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223v3](http://arxiv.org/abs/2501.11223v3)|[link](https://github.com/spcl/x1)|
 |**2025-01-19**|**IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems**|Elad Levi et.al.|[2501.11067v1](http://arxiv.org/abs/2501.11067v1)|[link](https://github.com/plurai-ai/intellagent)|
 |**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993v1](http://arxiv.org/abs/2501.09993v1)|null|
 |**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957v2](http://arxiv.org/abs/2501.09957v2)|null|
@@ -100,10 +102,63 @@
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|[link](https://github.com/ml-research/answersetnetworks)|
 |**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|[link](https://github.com/mminici/socgfm)|
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480v1](http://arxiv.org/abs/2412.14480v1)|null|
-|**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019v1](http://arxiv.org/abs/2412.14019v1)|null|
-|**2024-12-18**|**DODGE: Ontology-Aware Risk Assessment via Object-Oriented Disruption Graphs**|Stefano M. Nicoletti et.al.|[2412.13964v1](http://arxiv.org/abs/2412.13964v1)|null|
 
 #### Abstracts
+##### **EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**
+2501.13746v1 by Yuhui Yun, Huilong Ye, Xinru Li, Ruojia Li, Jingfeng Deng, Li Li, Haoyi Xiong
+
+The paper introduces EICopilot, an novel agent-based solution enhancing
+search and exploration of enterprise registration data within extensive online
+knowledge graphs like those detailing legal entities, registered capital, and
+major shareholders. Traditional methods necessitate text-based queries and
+manual subgraph explorations, often resulting in time-consuming processes.
+EICopilot, deployed as a chatbot via Baidu Enterprise Search, improves this
+landscape by utilizing Large Language Models (LLMs) to interpret natural
+language queries. This solution automatically generates and executes Gremlin
+scripts, providing efficient summaries of complex enterprise relationships.
+Distinct feature a data pre-processing pipeline that compiles and annotates
+representative queries into a vector database of examples for In-context
+learning (ICL), a comprehensive reasoning pipeline combining Chain-of-Thought
+with ICL to enhance Gremlin script generation for knowledge graph search and
+exploration, and a novel query masking strategy that improves intent
+recognition for heightened script accuracy. Empirical evaluations demonstrate
+the superior performance of EICopilot, including speed and accuracy, over
+baseline methods, with the \emph{Full Mask} variant achieving a syntax error
+rate reduction to as low as 10.00% and an execution correctness of up to
+82.14%. These components collectively contribute to superior querying
+capabilities and summarization of intricate datasets, positioning EICopilot as
+a groundbreaking tool in the exploration and exploitation of large-scale
+knowledge graphs for enterprise information search.
+
+摘要：本文介紹了 EICopilot，這是一種基於代理的新型解決方案，可增強在廣泛的線上知識圖譜中搜尋和探索企業註冊資料，例如詳細說明法律實體、註冊資本和主要股東的資料。傳統方法需要基於文字的查詢和手動子圖探索，通常會導致耗時的流程。EICopilot 部署為百度企業搜尋的聊天機器人，透過利用大型語言模型 (LLM) 來詮釋自然語言查詢，進而改善這項技術。此解決方案會自動產生並執行 Gremlin 腳本，提供複雜企業關係的有效摘要。其獨特功能為資料前處理管線，可將具代表性的查詢編譯並註解到範例的向量資料庫中，以進行脈絡中學習 (ICL)，這是一個結合了思考鏈與 ICL 的綜合推理管線，用於增強 Gremlin 腳本產生，以進行知識圖譜搜尋和探索，以及一種新穎的查詢遮罩策略，可改善意圖辨識，進而提高腳本準確度。實證評估顯示，EICopilot 的效能優於基線方法，包括速度和準確度，其中「完整遮罩」變體將語法錯誤率降低至低於 10.00%，執行正確率高達 82.14%。這些元件共同促成了優異的查詢功能和複雜資料集的摘要，將 EICopilot 定位為探索和利用大規模知識圖譜進行企業資訊搜尋的創新工具。
+
+##### **Pseudocode-Injection Magic: Enabling LLMs to Tackle Graph Computational Tasks**
+2501.13731v1 by Chang Gong, Wanrui Bian, Zhijie Zhang, Weiguo Zheng
+
+Graph computational tasks are inherently challenging and often demand the
+development of advanced algorithms for effective solutions. With the emergence
+of large language models (LLMs), researchers have begun investigating their
+potential to address these tasks. However, existing approaches are constrained
+by LLMs' limited capability to comprehend complex graph structures and their
+high inference costs, rendering them impractical for handling large-scale
+graphs. Inspired by human approaches to graph problems, we introduce a novel
+framework, PIE (Pseudocode-Injection-Enhanced LLM Reasoning for Graph
+Computational Tasks), which consists of three key steps: problem understanding,
+prompt design, and code generation. In this framework, LLMs are tasked with
+understanding the problem and extracting relevant information to generate
+correct code. The responsibility for analyzing the graph structure and
+executing the code is delegated to the interpreter. We inject task-related
+pseudocodes into the prompts to further assist the LLMs in generating efficient
+code. We also employ cost-effective trial-and-error techniques to ensure that
+the LLM-generated code executes correctly. Unlike other methods that require
+invoking LLMs for each individual test case, PIE only calls the LLM during the
+code generation phase, allowing the generated code to be reused and
+significantly reducing inference costs. Extensive experiments demonstrate that
+PIE outperforms existing baselines in terms of both accuracy and computational
+efficiency.
+
+摘要：圖表計算任務本質上具有挑戰性，而且通常需要開發先進的演算法才能有效解決。隨著大型語言模型 (LLM) 的出現，研究人員已開始探討其解決這些任務的可能性。然而，現有方法受到 LLM 理解複雜圖形結構的能力有限以及其高推理成本的限制，這使得它們不切實際地處理大規模圖形。受到人類解決圖形問題的方法啟發，我們引入了 PIE（偽代碼注入增強 LLM 圖形計算任務推理）這個新框架，它包含三個關鍵步驟：問題理解、提示設計和代碼生成。在此框架中，LLM 的任務是理解問題並擷取相關資訊以產生正確的代碼。分析圖形結構和執行代碼的責任委派給解釋器。我們將與任務相關的偽代碼注入提示中，以進一步協助 LLM 產生有效的代碼。我們還採用具有成本效益的試錯技術，以確保 LLM 生成的代碼正確執行。與需要為每個個別測試案例呼叫 LLM 的其他方法不同，PIE 僅在代碼產生階段呼叫 LLM，允許重複使用產生的代碼並大幅降低推理成本。大量的實驗證明，PIE 在準確性和計算效率方面都優於現有的基準。
+
 ##### **LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**
 2501.12300v1 by Hasan Abu-Rasheed, Constance Jumbo, Rashed Al Amin, Christian Weber, Veit Wiese, Roman Obermaisser, Madjid Fathi
 
@@ -287,8 +342,8 @@ clear and natural language explanations for the given prediction.
 
 摘要：換車道動作，尤其是突然或在風險情況下執行的動作，是道路交通事故的重要原因。然而，目前的研究所主要集中在預測安全的換車道。此外，現有的事故資料集通常僅基於影像，且缺乏全面的感測資料。在這項工作中，我們專注於使用 CRASH 資料集（我們自己收集的專門針對風險換車道資料集）來預測風險換車道，以及安全換車道（使用 HighD 資料集）。然後，我們利用 KG 和貝氏推理來使用語言背景資訊預測這些動作，增強模型的可解釋性和透明度。該模型在風險換車道的預測時間延長至四秒時，達到了 91.5% 的 f1 分數，在預測安全換車道時，在相同的預測時間內達到了 90.0% 的 f1 分數。我們透過將模型整合到 CARLA 模擬器中的車輛中，在涉及風險換車道的場景中驗證我們的模型。該模型設法預測突然的換車道，從而為自動駕駛車輛提供了更多時間來規劃和執行適當的安全反應。最後，為了增強我們模型的可解釋性，我們利用 RAG 為給定的預測提供清晰且自然的語言解釋。
 
-##### **Graph-defined Language Learning with LLMs**
-2501.11478v1 by Huachi Zhou, Jiahe Du, Chuang Zhou, Chang Yang, Yilin Xiao, Yuxuan Xie, Xiao Huang
+##### **Each Graph is a New Language: Graph Learning with LLMs**
+2501.11478v2 by Huachi Zhou, Jiahe Du, Chuang Zhou, Chang Yang, Yilin Xiao, Yuxuan Xie, Xiao Huang
 
 Recent efforts leverage Large Language Models (LLMs) for modeling
 text-attributed graph structures in node classification tasks. These approaches
@@ -316,8 +371,8 @@ experiments on three real-world datasets demonstrate that GDL4LLM outperforms
 description-based and textual attribute embeddings-based baselines by
 efficiently modeling different orders of graph structure with LLMs.
 
-摘要：<paragraph>最近的研究利用大型語言模型 (LLM) 在節點分類任務中對文本屬性圖結構進行建模。這些方法描述圖結構，讓 LLM 了解或彙總通過圖結構生成的 LLM 文本屬性嵌入。然而，這些方法在使用 LLM 對圖結構進行建模時面臨兩個主要限制。(i) 圖描述在描述高階圖結構時變得冗長。(ii) 僅文本屬性不包含足夠的圖結構資訊。使用 LLM 對圖結構進行簡潔且充分的建模具有挑戰性。LLM 缺乏內建機制來直接對圖結構進行建模。它們還難以處理高階節點和目標節點之間複雜的長程依賴關係。
-受 LLM 在一種語言上進行預訓練後，利用最少的額外訓練就能在另一種語言上取得非凡表現的觀察啟發，我們提出了大型語言模型的圖定義語言 (GDL4LLM)。這個新穎的框架使 LLM 能將其強大的語言理解能力轉移到圖結構資料。GDL4LLM 將圖形轉換成圖形語言語料庫，而不是圖形描述，並在這個語料庫上對 LLM 進行預訓練，以充分理解圖形結構。在微調過程中，這個語料庫僅使用少數幾個標記，就能簡潔地描述目標節點的結構資訊。透過將圖形視為一種新的語言，GDL4LLM 使 LLM 能夠充分且簡潔地為節點分類任務對圖形結構進行建模。在三個真實世界資料集上進行的廣泛實驗證明，GDL4LLM 能有效地使用 LLM 對不同順序的圖形結構進行建模，從而優於基於描述和基於文本屬性嵌入的基準。</paragraph>
+摘要：<paragraph>最近的研究利用大型语言模型 (LLM) 对节点分类任务中的文本属性图结构进行建模。这些方法描述图结构，以便 LLM 理解或通过图结构聚合 LLM 生成的文本属性嵌入。然而，这些方法在使用 LLM 对图结构进行建模时面临两个主要限制。(i) 图描述在描述高阶图结构时变得冗长。(ii) 仅文本属性不包含足够的图结构信息。使用 LLM 对图结构进行简洁且充分的建模具有挑战性。LLM 缺乏直接对图结构进行建模的内置机制。它们还难以处理高阶节点和目标节点之间复杂的远程依赖关系。
+受 LLM 在一种语言上进行预训练后，只需进行最少的额外训练即可在另一种语言上实现卓越性能的观察结果的启发，我们提出了**G**raph-**D**efined **L**anguage for **L**arge **L**anguage **M**odel (GDL4LLM)。此新框架使 LLM 能够将其强大的语言理解能力转移到结构化数据图。GDL4LLM 将图翻译成图语言语料库，而不是图描述，并在该语料库上对 LLM 进行预训练，以充分理解图结构。在微调期间，此语料库仅使用几个标记简洁地描述目标节点的结构信息。通过将图视为一种新语言，GDL4LLM 使 LLM 能够充分且简洁地对图结构进行建模，以用于节点分类任务。在三个真实世界数据集上进行的广泛实验表明，GDL4LLM 通过使用 LLM 有效地对不同阶的图结构进行建模，优于基于描述和基于文本属性嵌入的基线。</paragraph>
 
 ##### **Few-shot Policy (de)composition in Conversational Question Answering**
 2501.11335v1 by Kyle Erwin, Guy Axelrod, Maria Chang, Achille Fokoue, Maxwell Crouse, Soham Dan, Tian Gao, Rosario Uceda-Sosa, Ndivhuwo Makondo, Naweed Khan, Alexander Gray
@@ -345,7 +400,7 @@ the challenges involved with reasoning for conversational question answering.
 摘要：策略合規偵測 (PCD) 的任務是確定場景是否符合一組書面策略。在對話設定中，PCD 的結果可以指出是否必須提出澄清問題以確定合規狀態。現有的方法通常聲稱具有潛在的推理能力，或需要大量的註釋資料。在這項工作中，我們提出策略合規的邏輯分解 (LDPC)：一種使用大型語言模型 (LLM) 在少次嘗試中偵測策略合規的神經符號框架。透過僅選擇少數範例以及最近開發的提示技術，我們證明我們的做法透過提取要回答的子問題、從脈絡資訊指派真值，以及從給定的策略明確產生一組邏輯陳述，對策略合規對話進行合理的推理。明確邏輯圖表的制定反過來可以幫助回答 PCD 相關問題，並提高透明度和可解釋性。我們將此方法應用於熱門的 PCD 和對話式機器閱讀基準 ShARC，並在沒有特定任務微調的情況下展現出競爭力。我們也利用 LDPC 固有的可解釋架構來了解錯誤發生在哪裡，揭露 ShARC 資料集中的歧義，並強調對話式問題解答推理的挑戰。
 
 ##### **Reasoning Language Models: A Blueprint**
-2501.11223v2 by Maciej Besta, Julia Barth, Eric Schreiber, Ales Kubicek, Afonso Catarino, Robert Gerstenberger, Piotr Nyczyk, Patrick Iff, Yueling Li, Sam Houliston, Tomasz Sternal, Marcin Copik, Grzegorz Kwaśniewski, Jürgen Müller, Łukasz Flis, Hannes Eberhard, Hubert Niewiadomski, Torsten Hoefler
+2501.11223v3 by Maciej Besta, Julia Barth, Eric Schreiber, Ales Kubicek, Afonso Catarino, Robert Gerstenberger, Piotr Nyczyk, Patrick Iff, Yueling Li, Sam Houliston, Tomasz Sternal, Marcin Copik, Grzegorz Kwaśniewski, Jürgen Müller, Łukasz Flis, Hannes Eberhard, Hubert Niewiadomski, Torsten Hoefler
 
 Reasoning language models (RLMs), also known as Large Reasoning Models
 (LRMs), such as OpenAI's o1 and o3, DeepSeek-V3, and Alibaba's QwQ, have
@@ -360,7 +415,7 @@ graphs, and nested forms), reasoning strategies (e.g., Monte Carlo Tree Search,
 Beam Search), RL concepts (policy, value models and others), supervision
 schemes (Outcome-Based and Process-Based Supervision), and other related
 concepts (e.g., Test-Time Compute, Retrieval-Augmented Generation, agent
-tools). We provide detailed mathematical formulations and algorithmic
+tools). We also provide detailed mathematical formulations and algorithmic
 specifications to simplify RLM implementation. By showing how schemes like
 LLaMA-Berry, QwQ, Journey Learning, and Graph of Thoughts fit as special cases,
 we demonstrate the blueprint's versatility and unifying potential. To
@@ -371,10 +426,10 @@ importance of familiar training distributions. Finally, we discuss scalable RLM
 cloud deployments and we outline how RLMs can integrate with a broader LLM
 ecosystem. Our work demystifies RLM construction, democratizes advanced
 reasoning capabilities, and fosters innovation, aiming to mitigate the gap
-between "rich AI" and "poor AI" by lowering barriers to RLM development and
+between "rich AI" and "poor AI" by lowering barriers to RLM design and
 experimentation.
 
-摘要：推理語言模型 (RLM)，又稱大型推理模型 (LRM)，例如 OpenAI 的 o1 和 o3、DeepSeek-V3 和阿里巴巴的 QwQ，透過先進的推理機制擴充 LLM，重新定義了 AI 的問題解決能力。然而，它們的高成本、專有性質和複雜的架構（獨特地結合了強化學習 (RL)、搜尋啟發法和 LLM）帶來了可及性和可擴充性的挑戰。為了解決這些問題，我們提出了一個全面的藍圖，根據對所有 RLM 作品的調查和分析，將 RLM 組件組織成一個模組化架構。此藍圖包含了多樣的推理結構（鏈、樹、圖和巢狀形式）、推理策略（例如蒙地卡羅樹搜尋、波束搜尋）、RL 概念（策略、價值模型等）、監督方案（基於結果的監督和基於流程的監督）和其他相關概念（例如測試時間計算、檢索增強生成、代理工具）。我們提供了詳細的數學公式和演算法規範，以簡化 RLM 的實作。透過展示 LLaMA-Berry、QwQ、旅程學習和思想圖如何作為特例，我們證明了藍圖的多功能性和統一的潛力。為了說明其效用，我們引入了 x1，一個用於快速 RLM 原型製作和實驗的模組化實作。使用 x1 和文獻回顧，我們提供了關鍵見解，例如策略和價值模型的多階段訓練，以及熟悉訓練分佈的重要性。最後，我們討論了可擴充的 RLM 雲端部署，並概述了 RLM 如何與更廣泛的 LLM 生態系統整合。我們的研究揭開了 RLM 結構的神秘面紗，讓先進的推理能力民主化，並促進創新，旨在透過降低 RLM 開發和實驗的障礙，縮小「富裕 AI」和「貧窮 AI」之間的差距。
+摘要：推理語言模型 (RLM)，又稱為大型推理模型 (LRM)，例如 OpenAI 的 o1 和 o3、DeepSeek-V3 以及阿里巴巴的 QwQ，透過擴充 LLM 的先進推理機制，重新定義了 AI 的問題解決能力。然而，它們的高成本、專有性質和複雜架構（獨特地結合了強化學習 (RL)、搜尋啟發法和 LLM）提出了可及性和可擴充性的挑戰。為了解決這些問題，我們提出了一個全面的藍圖，將 RLM 組件組織成一個模組化架構，這是基於對所有 RLM 作品的調查和分析。此藍圖包含多樣化的推理結構（鏈、樹、圖和巢狀形式）、推理策略（例如蒙地卡羅樹搜尋、波束搜尋）、RL 概念（策略、價值模型等）、監督方案（基於結果和基於流程的監督）和其他相關概念（例如測試時間運算、檢索增強生成、代理工具）。我們還提供了詳細的數學公式和演算法規範，以簡化 RLM 的實作。透過展示 LLaMA-Berry、QwQ、Journey Learning 和 Graph of Thoughts 等方案如何作為特殊情況，我們展示了藍圖的多功能性和統一潛力。為了說明其效用，我們介紹了 x1，這是一個模組化實作，用於快速 RLM 原型製作和實驗。使用 x1 和文獻回顧，我們提供了關鍵見解，例如策略和價值模型的多階段訓練，以及熟悉訓練分佈的重要性。最後，我們討論了可擴充的 RLM 雲端部署，並概述了 RLM 如何與更廣泛的 LLM 生態系統整合。我們的研究揭開了 RLM 建構的神秘面紗，使先進的推理能力民主化，並促進創新，旨在透過降低 RLM 設計和實驗的障礙，來縮小「富裕 AI」和「貧窮 AI」之間的差距。
 
 ##### **IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems**
 2501.11067v1 by Elad Levi, Ilan Kadar
@@ -2537,53 +2592,4 @@ outperforms key baselines by completing EQA tasks with higher success rates and
 fewer planning steps.
 
 摘要：在具身問答 (EQA) 中，代理必須探索並發展對未見過環境的語義理解，才能有信心地回答情境問題。由於難以取得有用的語義表示、線上更新這些表示，以及利用先前的世界知識進行有效率的探索和規劃，這在機器人學中仍然是一個具有挑戰性的問題。為了解決這些限制，我們提出 GraphEQA，一種利用即時 3D 度量語義場景圖 (3DSG) 和與任務相關的影像作為多模式記憶體的新穎方法，以接地視覺語言模型 (VLM) 來執行未見過環境中的 EQA 任務。我們採用分層規劃方法，利用 3DSG 的分層性質進行結構化規劃和語義引導探索。透過在 HM-EQA 資料集上的模擬實驗，以及在家庭和辦公室環境中的真實世界中，我們證明我們的模型透過以較高的成功率和較少的規劃步驟完成 EQA 任務，優於主要的基線。
-
-##### **Discovering maximally consistent distribution of causal tournaments with Large Language Models**
-2412.14019v1 by Federico Baldo, Simon Ferreira, Charles K. Assaad
-
-Causal discovery is essential for understanding complex systems, yet
-traditional methods often depend on strong, untestable assumptions, making the
-process challenging. Large Language Models (LLMs) present a promising
-alternative for extracting causal insights from text-based metadata, which
-consolidates domain expertise. However, LLMs are prone to unreliability and
-hallucinations, necessitating strategies that account for their limitations.
-One such strategy involves leveraging a consistency measure to evaluate
-reliability. Additionally, most text metadata does not clearly distinguish
-direct causal relationships from indirect ones, further complicating the
-inference of causal graphs. As a result, focusing on causal orderings, rather
-than causal graphs, emerges as a more practical and robust approach. We propose
-a novel method to derive a distribution of acyclic tournaments (representing
-plausible causal orders) that maximizes a consistency score. Our approach
-begins by computing pairwise consistency scores between variables, yielding a
-cyclic tournament that aggregates these scores. From this structure, we
-identify optimal acyclic tournaments compatible with the original tournament,
-prioritizing those that maximize consistency across all configurations. We
-tested our method on both classical and well-established bechmarks, as well as
-real-world datasets from epidemiology and public health. Our results
-demonstrate the effectiveness of our approach in recovering distributions
-causal orders with minimal error.
-
-摘要：因果發現對於理解複雜系統至關重要，但傳統方法通常依賴於強而不可測試的假設，這使得這個過程充滿挑戰。大型語言模型 (LLM) 提供了一個從基於文本的元數據中提取因果見解的有希望的替代方案，它整合了領域專業知識。然而，LLM 容易出現不可靠性和幻覺，這需要考慮其限制的策略。一種這樣的策略涉及利用一致性度量來評估可靠性。此外，大多數文本元數據並未清楚地區分直接因果關係和間接因果關係，這進一步複雜化了因果圖的推論。因此，專注於因果順序，而不是因果圖，成為一種更實用、更穩健的方法。我們提出了一種新方法來推導無環錦標賽的分布（表示合理的因果順序），這最大化了一致性分數。我們的做法首先計算變量之間成對的一致性分數，產生一個彙總這些分數的循環錦標賽。從這個結構中，我們識別出與原始錦標賽相容的最佳無環錦標賽，優先考慮那些在所有配置中最大化一致性的錦標賽。我們在經典且完善的基準以及來自流行病學和公共衛生的真實世界數據集上測試了我們的模型。我們的結果證明了我們的方法在以最小誤差恢復因果順序分布方面的有效性。
-
-##### **DODGE: Ontology-Aware Risk Assessment via Object-Oriented Disruption Graphs**
-2412.13964v1 by Stefano M. Nicoletti, E. Moritz Hahn, Mattia Fumagalli, Giancarlo Guizzardi, Mariëlle Stoelinga
-
-When considering risky events or actions, we must not downplay the role of
-involved objects: a charged battery in our phone averts the risk of being
-stranded in the desert after a flat tyre, and a functional firewall mitigates
-the risk of a hacker intruding the network. The Common Ontology of Value and
-Risk (COVER) highlights how the role of objects and their relationships remains
-pivotal to performing transparent, complete and accountable risk assessment. In
-this paper, we operationalize some of the notions proposed by COVER -- such as
-parthood between objects and participation of objects in events/actions -- by
-presenting a new framework for risk assessment: DODGE. DODGE enriches the
-expressivity of vetted formal models for risk -- i.e., fault trees and attack
-trees -- by bridging the disciplines of ontology and formal methods into an
-ontology-aware formal framework composed by a more expressive modelling
-formalism, Object-Oriented Disruption Graphs (ODGs), logic (ODGLog) and an
-intermediate query language (ODGLang). With these, DODGE allows risk assessors
-to pose questions about disruption propagation, disruption likelihood and risk
-levels, keeping the fundamental role of objects at risk always in sight.
-
-摘要：在考量高風險事件或行動時，我們不能低估所涉物件的角色：手機中的充電電池可避免在爆胎後受困沙漠的風險，而功能正常的防火牆則可降低駭客入侵網路的風險。價值與風險的共用本体論 (COVER) 強調物件及其關係的角色，對於執行透明、完整且負責任的風險評估仍然至關重要。在本文中，我們將 COVER 所提出的部分概念（例如物件之間的組成部分關係，以及物件參與事件/行動）具體化，藉由提出一個新的風險評估架構：DODGE。DODGE 透過將本体論與形式化方法橋接至一個本体論感知形式化架構中，豐富了風險驗證形式化模型（例如故障樹和攻擊樹）的表達力，該架構由更具表達力的建模形式主義、物件導向中斷圖 (ODG)、邏輯 (ODGLog) 和一個中間查詢語言 (ODGLang) 組成。透過這些，DODGE 讓風險評估者能夠提出有關中斷傳播、中斷可能性和風險層級的問題，同時始終保持對風險物件的基本角色的關注。
 

@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
@@ -61,7 +62,7 @@
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
 |**2024-06-17**|**Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**|Vincent Olesen et.al.|[2406.12142v2](http://arxiv.org/abs/2406.12142v2)|[link](https://github.com/volesen/slicing-through-bias)|
 |**2024-06-11**|**Unlocking the Potential of Metaverse in Innovative and Immersive Digital Health**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v2](http://arxiv.org/abs/2406.07114v2)|null|
-|**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v1](http://arxiv.org/abs/2406.06728v1)|null|
+|**2024-06-10**|**AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**|K M Tawsik Jawad et.al.|[2406.06728v2](http://arxiv.org/abs/2406.06728v2)|null|
 |**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984v1](http://arxiv.org/abs/2406.05984v1)|null|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746v1](http://arxiv.org/abs/2406.05746v1)|null|
 |**2024-06-07**|**Advancing Histopathology-Based Breast Cancer Diagnosis: Insights into Multi-Modality and Explainability**|Faseela Abdullakutty et.al.|[2406.12897v1](http://arxiv.org/abs/2406.12897v1)|null|
@@ -101,9 +102,31 @@
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127v1](http://arxiv.org/abs/2402.05127v1)|null|
 |**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v6](http://arxiv.org/abs/2401.13324v6)|null|
-|**2024-01-02**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari et.al.|[2401.02985v1](http://arxiv.org/abs/2401.02985v1)|null|
 
 #### Abstracts
+##### **An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**
+2501.15969v1 by Shaheer Ahmad Khan, Muhammad Usamah Shahid, Ahmad Abdullah, Ibrahim Hashmat, Muddassar Farooq
+
+This study addresses a critical gap in the healthcare system by developing a
+clinically meaningful, practical, and explainable disease surveillance system
+for multiple chronic diseases, utilizing routine EHR data from multiple U.S.
+practices integrated with CureMD's EMR/EHR system. Unlike traditional
+systems--using AI models that rely on features from patients' labs--our
+approach focuses on routinely available data, such as medical history, vitals,
+diagnoses, and medications, to preemptively assess the risks of chronic
+diseases in the next year. We trained three distinct models for each chronic
+disease: prediction models that forecast the risk of a disease 3, 6, and 12
+months before a potential diagnosis. We developed Random Forest models, which
+were internally validated using F1 scores and AUROC as performance metrics and
+further evaluated by a panel of expert physicians for clinical relevance based
+on inferences grounded in medical knowledge. Additionally, we discuss our
+implementation of integrating these models into a practical EMR system. Beyond
+using Shapley attributes and surrogate models for explainability, we also
+introduce a new rule-engineering framework to enhance the intrinsic
+explainability of Random Forests.
+
+摘要：本研究透過開發一個臨床有意義、實用且可解釋的多重慢性疾病疾病監測系統，來解決醫療保健系統中的重大缺口，利用整合 CureMD 的 EMR/EHR 系統，來自多個美國實務的例行 EHR 資料。與傳統系統不同的是，我們的做法著重在例行可得的資料，例如病歷、生命徵象、診斷和藥物，以預先評估未來一年慢性疾病的風險，而非仰賴病患實驗室特徵的 AI 模型。我們針對每種慢性疾病訓練了三個不同的模型：預測模型，用以預測在潛在診斷前 3、6 和 12 個月的疾病風險。我們開發了隨機森林模型，並使用 F1 分數和 AUROC 作為效能指標，進行內部驗證，並進一步由專家醫師小組根據植基於醫學知識的推論，評估其臨床相關性。此外，我們討論了將這些模型整合到實用 EMR 系統中的實作方式。除了使用 Shapley 屬性和代理模型來解釋外，我們還引進了一個新的規則工程架構，以增強隨機森林的內在可解釋性。
+
 ##### **Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**
 2501.13818v1 by Frederik Pahde, Thomas Wiegand, Sebastian Lapuschkin, Wojciech Samek
 
@@ -1677,7 +1700,7 @@ to revolutionize the delivery of medical services.
 摘要：元宇宙的概念在各個領域都備受關注，其重要應用之一便是醫療保健。元宇宙有巨大的潛力透過改變病患照護、醫學教育，以及教學/學習和研究的方式來轉型醫療保健。本研究的目的是提供元宇宙基本概念和基礎技術的介紹。本文探討了元宇宙在醫療保健背景下的優缺點，並從技術和 AI 的角度分析其潛力。特別是，討論了機器學習方法的角色；我們將說明如何將機器學習演算法應用於元宇宙產生的資料，以獲得醫療保健應用方面的更佳見解。此外，我們透過探討區塊鏈等新興技術，並解決隱私問題，來探討元宇宙在醫療保健方面的未來願景。本研究的發現有助於更深入地了解元宇宙在醫療保健中的應用，以及其在醫療服務提供方面發揮革命性變革的潛力。
 
 ##### **AI-Driven Predictive Analytics Approach for Early Prognosis of Chronic Kidney Disease Using Ensemble Learning and Explainable AI**
-2406.06728v1 by K M Tawsik Jawad, Anusha Verma, Fathi Amsaad
+2406.06728v2 by K M Tawsik Jawad, Anusha Verma, Fathi Amsaad, Lamia Ashraf
 
 Chronic Kidney Disease (CKD) is one of the widespread Chronic diseases with
 no known ultimo cure and high morbidity. Research demonstrates that progressive
@@ -1704,7 +1727,7 @@ important to masked features, indicates that our XgBoost model achieved a
 higher score, specifically a Fidelity of 98\%, in this metric and naturally in
 the FII index compared to competing models.
 
-摘要：慢性腎臟病（CKD）是一種廣泛的慢性疾病，沒有已知的最終療法且發病率很高。研究表明，進行性慢性腎臟病（CKD）是一種異質性疾病，會顯著影響腎臟結構和功能，最終導致腎衰竭。隨著時間的推移，慢性腎臟病已從影響少數人的致命疾病轉變為一種嚴重程度不同的常見疾病。本研究的目標是使用集成學習和可解釋的 AI 進行早期預後和 CKD 檢測，並視覺化主導特徵、特徵分數和表現出的值。為此，提出了一種 AI 驅動的預測分析方法，以幫助臨床醫生為個別患者開具生活方式修改建議，以降低這種疾病的進展速度。我們的數據集是從 CKD 患者和健康受試者的身體生命體徵中收集的，以準確開發我們提出的 AI 驅動的解決方案。在這方面，提供了血液和尿液檢測結果，並應用基於集成樹的機器學習模型來預測未發現的 CKD 病例。我們的研究結果經過與腎臟科醫生的長期諮詢後得到驗證。我們的實驗和解釋結果與各種醫療保健領域中現有的可解釋 AI 應用進行了比較，包括 CKD。比較表明，我們開發的 AI 模型，特別是隨機森林模型，已經確定了比 XgBoost 更多作為重要貢獻者的特徵。可解釋性 (I) 衡量重要特徵與掩蓋特徵的比率，表明我們的 XgBoost 模型在這個指標中獲得了更高的分數，特別是 98% 的保真度，並且在 FII 指數中自然高於競爭模型。
+摘要：慢性腎臟病 (CKD) 是一種廣泛的慢性疾病，目前尚未找到最終的治療方法，且發病率很高。研究表明，進行性慢性腎臟病 (CKD) 是一種異質性疾病，會顯著影響腎臟結構和功能，最終導致腎衰竭。隨著時間的推移，慢性腎臟病已從影響少數人的致命疾病演變成一種嚴重程度不一的常見疾病。本研究的目標是使用整體學習和可解釋的 AI 來視覺化支配性特徵、特徵分數和值，以進行 CKD 的早期預後和檢測。為此，提出了一種 AI 驅動的預測分析方法，以幫助臨床醫生為個別患者開具生活方式的修改建議，以降低此疾病的進展速度。我們的數據集是從 CKD 患者和健康受試者的身體生命徵象中收集的，以準確開發我們提出的 AI 驅動的解決方案。在這方面，提供了血液和尿液檢測結果，並應用基於集成樹的機器學習模型來預測未見的 CKD 病例。我們的研究結果在與腎臟科醫師進行長時間諮詢後得到驗證。我們的實驗和解釋結果與各種醫療保健領域中現有的可解釋 AI 應用進行了比較，包括 CKD。比較表明，我們開發的 AI 模型，特別是隨機森林模型，已經確定了比 XgBoost 更多的特徵作為顯著的貢獻者。可解釋性 (I) 衡量重要特徵與被遮蔽特徵的比率，表明我們的 XgBoost 模型在此指標中取得了更高的分數，特別是 98% 的保真度，並且在 FII 指數中自然高於競爭模型。
 
 ##### **Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**
 2406.05984v1 by Yusif Ibrahimov, Tarique Anwar, Tommy Yuan
@@ -2683,34 +2706,4 @@ the design of future explanations for lay stakeholder audiences.
 理解。此外，參與者對系統風險和好處的先前回饋影響了他們的資訊需求。認為風險高的參與者尋求解釋系統部署背後的意圖，而認為風險低的人則詢問系統的
 操作。我們的研究旨在透過強調 AI 新手的資訊需求、目標和
 挑戰，來支持將 AI 新手納入可解釋性工作中。我們將我們的研究結果總結為五個關鍵啟示，這些啟示可以為未來針對非專業利害關係人受眾的解釋設計提供參考。</paragraph>
-
-##### **Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**
-2401.02985v1 by Vahid Ashrafimoghari, Necdet Gürkan, Jordan W. Suchow
-
-The rapid evolution of artificial intelligence (AI), especially in the domain
-of Large Language Models (LLMs) and generative AI, has opened new avenues for
-application across various fields, yet its role in business education remains
-underexplored. This study introduces the first benchmark to assess the
-performance of seven major LLMs, OpenAI's models (GPT-3.5 Turbo, GPT-4, and
-GPT-4 Turbo), Google's models (PaLM 2, Gemini 1.0 Pro), and Anthropic's models
-(Claude 2 and Claude 2.1), on the GMAT, which is a key exam in the admission
-process for graduate business programs. Our analysis shows that most LLMs
-outperform human candidates, with GPT-4 Turbo not only outperforming the other
-models but also surpassing the average scores of graduate students at top
-business schools. Through a case study, this research examines GPT-4 Turbo's
-ability to explain answers, evaluate responses, identify errors, tailor
-instructions, and generate alternative scenarios. The latest LLM versions,
-GPT-4 Turbo, Claude 2.1, and Gemini 1.0 Pro, show marked improvements in
-reasoning tasks compared to their predecessors, underscoring their potential
-for complex problem-solving. While AI's promise in education, assessment, and
-tutoring is clear, challenges remain. Our study not only sheds light on LLMs'
-academic potential but also emphasizes the need for careful development and
-application of AI in education. As AI technology advances, it is imperative to
-establish frameworks and protocols for AI interaction, verify the accuracy of
-AI-generated content, ensure worldwide access for diverse learners, and create
-an educational environment where AI supports human expertise. This research
-sets the stage for further exploration into the responsible use of AI to enrich
-educational experiences and improve exam preparation and assessment methods.
-
-摘要：人工智慧 (AI) 的快速演進，尤其是在大型語言模型 (LLM) 和生成式 AI 的領域，為各個領域的應用開啟了新途徑，但其在商業教育中的角色仍未被充分探討。本研究首次引入了基準，用以評估七個主要 LLM 的效能，包括 OpenAI 的模型 (GPT-3.5 Turbo、GPT-4 和 GPT-4 Turbo)、Google 的模型 (PaLM 2、Gemini 1.0 Pro) 和 Anthropic 的模型 (Claude 2 和 Claude 2.1)，這些模型將用於研究生商業課程入學程序中的關鍵考試 GMAT。我們的分析顯示，大多數 LLM 的表現都優於人類考生，其中 GPT-4 Turbo 不僅優於其他模型，更超越了頂尖商學院的研究生平均分數。透過案例研究，本研究探討了 GPT-4 Turbo 在解釋答案、評估回應、辨識錯誤、調整說明和產生替代情境方面的能力。與前一代版本相比，最新的 LLM 版本 GPT-4 Turbo、Claude 2.1 和 Gemini 1.0 Pro 在推理任務方面有顯著的進步，凸顯了其在解決複雜問題方面的潛力。儘管 AI 在教育、評量和輔導方面的承諾很明確，但仍有挑戰存在。我們的研究不僅闡明了 LLM 的學術潛力，也強調了在教育中審慎開發和應用 AI 的必要性。隨著 AI 技術的進步，建立 AI 互動的架構和協定、驗證 AI 生成的內容的準確性、確保全球各地多元學習者的存取權，以及創造一個 AI 支持人類專業知識的教育環境至關重要。本研究為進一步探索負責任地使用 AI 來豐富教育體驗並改善考試準備和評量方法奠定了基礎。
 

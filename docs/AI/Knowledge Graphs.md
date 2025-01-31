@@ -2,12 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542v1](http://arxiv.org/abs/2501.18542v1)|null|
+|**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|[link](https://github.com/advantages/MAG-RAG-for-SASP)|
+|**2025-01-30**|**Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**|Wanlong Liu et.al.|[2501.18154v1](http://arxiv.org/abs/2501.18154v1)|null|
+|**2025-01-30**|**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**|Qika Lin et.al.|[2501.18119v1](http://arxiv.org/abs/2501.18119v1)|null|
 |**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767v1](http://arxiv.org/abs/2501.17767v1)|null|
 |**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
 |**2025-01-29**|**General Scene Adaptation for Vision-and-Language Navigation**|Haodong Hong et.al.|[2501.17403v1](http://arxiv.org/abs/2501.17403v1)|[link](https://github.com/honghd16/gsa-vln)|
 |**2025-01-28**|**Comprehensive Evaluation for a Large Scale Knowledge Graph Question Answering Service**|Saloni Potdar et.al.|[2501.17270v1](http://arxiv.org/abs/2501.17270v1)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
-|**2025-01-28**|**Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting**|Li Yin et.al.|[2501.16673v1](http://arxiv.org/abs/2501.16673v1)|[link](https://github.com/sylphai-inc/adalflow)|
+|**2025-01-28**|**LLM-AutoDiff: Auto-Differentiate Any LLM Workflow**|Li Yin et.al.|[2501.16673v2](http://arxiv.org/abs/2501.16673v2)|[link](https://github.com/sylphai-inc/adalflow)|
 |**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v1](http://arxiv.org/abs/2501.16450v1)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191v1](http://arxiv.org/abs/2501.16191v1)|null|
 |**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791v1](http://arxiv.org/abs/2501.15791v1)|[link](https://github.com/kse-eleven/makged)|
@@ -98,12 +102,97 @@
 |**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994v1](http://arxiv.org/abs/2412.19994v1)|[link](https://github.com/opendfm/llm4chemistry)|
 |**2024-12-27**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707v1](http://arxiv.org/abs/2412.19707v1)|[link](https://github.com/iQua/llmpebase)|
 |**2024-12-26**|**Dynamic Skill Adaptation for Large Language Models**|Jiaao Chen et.al.|[2412.19361v1](http://arxiv.org/abs/2412.19361v1)|null|
-|**2024-12-26**|**Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**|Tao Liu et.al.|[2412.19021v1](http://arxiv.org/abs/2412.19021v1)|null|
-|**2024-12-25**|**PhyloGen: Language Model-Enhanced Phylogenetic Inference via Graph Structure Generation**|ChenRui Duan et.al.|[2412.18827v1](http://arxiv.org/abs/2412.18827v1)|null|
-|**2024-12-24**|**CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era**|Yanlin Feng et.al.|[2412.18702v1](http://arxiv.org/abs/2412.18702v1)|[link](https://github.com/megagonlabs/cypherbench)|
-|**2024-12-24**|**From Hallucinations to Facts: Enhancing Language Models with Curated Knowledge Graphs**|Ratnesh Kumar Joshi et.al.|[2412.18672v1](http://arxiv.org/abs/2412.18672v1)|null|
 
 #### Abstracts
+##### **Semantic Web and Creative AI -- A Technical Report from ISWS 2023**
+2501.18542v1 by Raia Abu Ahmad, Reham Alharbi, Roberto Barile, Martin Böckling, Francisco Bolanos, Sara Bonfitto, Oleksandra Bruns, Irene Celino, Yashrajsinh Chudasama, Martin Critelli, Claudia d'Amato, Giada D'Ippolito, Ioannis Dasoulas, Stefano De Giorgis, Vincenzo De Leo, Chiara Di Bonaventura, Marco Di Panfilo, Daniil Dobriy, John Domingue, Xuemin Duan, Michel Dumontier, Sefika Efeoglu, Ruben Eschauzier, Fakih Ginwa, Nicolas Ferranti, Arianna Graciotti, Philipp Hanisch, George Hannah, Golsa Heidari, Aidan Hogan, Hassan Hussein, Alexane Jouglar, Jan-Christoph Kalo, Manoé Kieffer, Antonis Klironomos, Inês Koch, Weronika Lajewska, Nicolas Lazzari, Mikael Lindekrans, Anna Sofia Lippolis, Majlinda Llugiqi, Eleonora Mancini, Eleonora Marzi, Laura Menotti, Daniela Milon Flores, Soulakshmee Nagowah, Kerstin Neubert, Emetis Niazmand, Ebrahim Norouzi, Beatriz Olarte Martinez, Anouk Michelle Oudshoorn, Andrea Poltronieri, Valentina Presutti, Disha Purohit, Ensiyeh Raoufi, Celian Ringwald, Johanna Rockstroh, Sebastian Rudolph, Harald Sack, Zafar Saeed, Mohammad Javad Saeedizade, Aya Sahbi, Cristian Santini, Aleksandra Simic, Dennis Sommer, Rita Sousa, Mary Ann Tan, Vidyashree Tarikere, Tabea Tietz, Liam Tirpitz, Arnaldo Tomasino, Frank van Harmelen, Joao Vissoci, Caitlin Woods, Bohui Zhang, Xinyue Zhang, Heng Zheng
+
+The International Semantic Web Research School (ISWS) is a week-long
+intensive program designed to immerse participants in the field. This document
+reports a collaborative effort performed by ten teams of students, each guided
+by a senior researcher as their mentor, attending ISWS 2023. Each team provided
+a different perspective to the topic of creative AI, substantiated by a set of
+research questions as the main subject of their investigation. The 2023 edition
+of ISWS focuses on the intersection of Semantic Web technologies and Creative
+AI. ISWS 2023 explored various intersections between Semantic Web technologies
+and creative AI. A key area of focus was the potential of LLMs as support tools
+for knowledge engineering. Participants also delved into the multifaceted
+applications of LLMs, including legal aspects of creative content production,
+humans in the loop, decentralised approaches to multimodal generative AI
+models, nanopublications and AI for personal scientific knowledge graphs,
+commonsense knowledge in automatic story and narrative completion, generative
+AI for art critique, prompt engineering, automatic music composition,
+commonsense prototyping and conceptual blending, and elicitation of tacit
+knowledge. As Large Language Models and semantic technologies continue to
+evolve, new exciting prospects are emerging: a future where the boundaries
+between creative expression and factual knowledge become increasingly permeable
+and porous, leading to a world of knowledge that is both informative and
+inspiring.
+
+摘要：國際語意網路研究學校 (ISWS) 是一個為期一週的密集課程，旨在讓參與者沉浸在該領域中。本文件報告了由十個學生團隊進行的合作成果，每個團隊都由一位資深研究員作為導師，參加了 2023 年 ISWS。每個團隊都從不同的角度探討了創意 AI 主題，並以一系列研究問題作為調查的主要主題。2023 年版的 ISWS 關注於語意網路技術和創意 AI 的交集。ISWS 2023 探索了語意網路技術和創意 AI 之間的各種交集。一個重點關注領域是 LLM 作為知識工程的支援工具的潛力。參與者還深入探討了 LLM 的多方面應用，包括創意內容製作的法律方面、循環中的人類、多模態生成式 AI 模型的分散式方法、納米出版物和用於個人科學知識圖譜的 AI、自動故事和敘述完成中的常識知識、生成式 AI 用於藝術評論、提示工程、自動音樂創作、常識原型和概念混合，以及對默會知識的引導。隨著大型語言模型和語意技術的持續發展，新的令人興奮的前景正在出現：一個創意表達和事實知識之間的界限變得越來越可滲透和多孔的未來，從而導致一個既有資訊性又有啟發性的知識世界。
+
+##### **Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**
+2501.18320v1 by Tianpeng Pan, Wenqiang Pu, Licheng Zhao, Rui Zhou
+
+Automated optimization modeling (AOM) has evoked considerable interest with
+the rapid evolution of large language models (LLMs). Existing approaches
+predominantly rely on prompt engineering, utilizing meticulously designed
+expert response chains or structured guidance. However, prompt-based techniques
+have failed to perform well in the sensor array signal processing (SASP) area
+due the lack of specific domain knowledge. To address this issue, we propose an
+automated modeling approach based on retrieval-augmented generation (RAG)
+technique, which consists of two principal components: a multi-agent (MA)
+structure and a graph-based RAG (Graph-RAG) process. The MA structure is
+tailored for the architectural AOM process, with each agent being designed
+based on principles of human modeling procedure. The Graph-RAG process serves
+to match user query with specific SASP modeling knowledge, thereby enhancing
+the modeling result. Results on ten classical signal processing problems
+demonstrate that the proposed approach (termed as MAG-RAG) outperforms several
+AOM benchmarks.
+
+摘要：自動化最佳化建模 (AOM) 隨著大型語言模型 (LLM) 的快速演進而引起相當大的興趣。現有方法主要依賴提示工程，利用精心設計的專家回應鏈或結構化指導。然而，基於提示的技術由於缺乏特定領域知識，無法在感測器陣列訊號處理 (SASP) 領域中表現良好。為了解決這個問題，我們提出一個基於檢索增強生成 (RAG) 技術的自動化建模方法，它包含兩個主要組成部分：多代理 (MA) 結構和基於圖形的 RAG (Graph-RAG) 程序。MA 結構是針對架構 AOM 程序量身打造，每個代理都是根據人類建模程序的原理設計的。Graph-RAG 程序用於將使用者查詢與特定的 SASP 建模知識相匹配，從而增強建模結果。在十個經典訊號處理問題上的結果表明，所提出的方法（稱為 MAG-RAG）優於多個 AOM 基準。
+
+##### **Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**
+2501.18154v1 by Wanlong Liu, Yichen Xiao, Dingyi Zeng, Hongyang Zhao, Wenyu Chen, Malu Zhang
+
+Post-Training Quantization (PTQ) is pivotal for deploying large language
+models (LLMs) within resource-limited settings by significantly reducing
+resource demands. However, existing PTQ strategies underperform at low bit
+levels < 3 bits due to the significant difference between the quantized and
+original weights. To enhance the quantization performance at low bit widths, we
+introduce a Mixed-precision Graph Neural PTQ (MG-PTQ) approach, employing a
+graph neural network (GNN) module to capture dependencies among weights and
+adaptively assign quantization bit-widths. Through the information propagation
+of the GNN module, our method more effectively captures dependencies among
+target weights, leading to a more accurate assessment of weight importance and
+optimized allocation of quantization strategies. Extensive experiments on the
+WikiText2 and C4 datasets demonstrate that our MG-PTQ method outperforms
+previous state-of-the-art PTQ method GPTQ, setting new benchmarks for
+quantization performance under low-bit conditions.
+
+摘要：訓練後量化 (PTQ) 對於在資源受限的設定中部署大型語言模型 (LLM) 至關重要，因為它能顯著降低資源需求。然而，現有的 PTQ 策略在低位元層級 < 3 位元時表現不佳，因為量化後的權重與原始權重之間有顯著的差異。為了提升低位元寬度的量化效能，我們提出混合精度圖神經網路 PTQ (MG-PTQ) 方法，採用圖神經網路 (GNN) 模組來擷取權重之間的依存關係，並動態分配量化位元寬度。透過 GNN 模組的資訊傳播，我們的方法能更有效地擷取目標權重之間的依存關係，進而更準確地評估權重重要性，並最佳化量化策略的配置。在 WikiText2 和 C4 資料集上的廣泛實驗證明，我們的 MG-PTQ 方法優於先前的最先進 PTQ 方法 GPTQ，在低位元條件下設定了量化效能的新基準。
+
+##### **Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**
+2501.18119v1 by Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng
+
+Due to the presence of the natural gap between Knowledge Graph (KG)
+structures and the natural language, the effective integration of holistic
+structural information of KGs with Large Language Models (LLMs) has emerged as
+a significant question. To this end, we propose a two-stage framework to learn
+and apply quantized codes for each entity, aiming for the seamless integration
+of KGs with LLMs. Firstly, a self-supervised quantized representation (SSQR)
+method is proposed to compress both KG structural and semantic knowledge into
+discrete codes (\ie, tokens) that align the format of language sentences. We
+further design KG instruction-following data by viewing these learned codes as
+features to directly input to LLMs, thereby achieving seamless integration. The
+experiment results demonstrate that SSQR outperforms existing unsupervised
+quantized methods, producing more distinguishable codes. Further, the
+fine-tuned LLaMA2 and LLaMA3.1 also have superior performance on KG link
+prediction and triple classification tasks, utilizing only 16 tokens per entity
+instead of thousands in conventional prompting methods.
+
+摘要：由於知識圖譜 (KG) 結構與自然語言之間存在自然差距，將 KG 的整體結構資訊與大型語言模型 (LLM) 有效整合已成為一個重要的問題。為此，我們提出了一個兩階段架構來學習和應用每個實體的量化碼，旨在將 KG 與 LLM 無縫整合。首先，提出了一個自監督量化表示 (SSQR) 方法，將 KG 結構和語義知識壓縮成離散碼（即，符號），以對齊語言句子的格式。我們進一步設計 KG 指令遵循資料，將這些學習到的碼視為直接輸入 LLM 的特徵，從而實現無縫整合。實驗結果表明，SSQR 優於現有的無監督量化方法，產生更具區別性的碼。此外，微調後的 LLaMA2 和 LLaMA3.1 在 KG 連結預測和三元分類任務上也具有優異的性能，每個實體僅使用 16 個符號，而不是傳統提示方法中的數千個。
+
 ##### **Hybrid Graphs for Table-and-Text based Question Answering using LLMs**
 2501.17767v1 by Ankush Agarwal, Ganesh S, Chaitanya Devaguptapu
 
@@ -220,8 +309,8 @@ with much smaller model size.
 
 摘要：先前的研究訓練了基於事實的分類模型，以偵測大型語言模型 (LLM) 中的幻覺，依賴於公開的自然語言推論 (NLI) 資料和合成資料。然而，傳統的 NLI 資料集並不適合文件層級的推理，這對於偵測 LLM 的幻覺至關重要。最近的文件層級合成資料生成方法涉及從文件中反覆移除句子，並使用基於 LLM 的提示註解事實。雖然有效，但此方法對於長文件來說在運算上很昂貴，且受限於 LLM 的能力。在這項工作中，我們分析了現有合成訓練資料與最先進模型中使用的真實 LLM 輸出宣告之間的差異。根據我們的研究結果，我們提出了一個用於合成資料生成的創新方法 CG2C，它利用從文件中提取的內容圖表進行多跳推理。我們的查核模型 FactCG 使用相同的骨幹模型，展示了在更多連結的推理下改進的效能。實驗表明，它甚至在 LLM-Aggrefact 基準上優於 GPT-4-o，且模型大小小得多。
 
-##### **Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting**
-2501.16673v1 by Li Yin, Zhangyang Wang
+##### **LLM-AutoDiff: Auto-Differentiate Any LLM Workflow**
+2501.16673v2 by Li Yin, Zhangyang Wang
 
 Large Language Models (LLMs) have reshaped natural language processing,
 powering applications from multi-hop retrieval and question answering to
@@ -248,7 +337,27 @@ lens, LLM-AutoDiff offers a powerful new paradigm for scaling and automating
 LLM workflows - mirroring the transformative role that automatic
 differentiation libraries have long played in neural network research.
 
-摘要：大型語言模型 (LLM) 已經重塑自然語言處理，為從多跳檢索和問答到自主代理工作流程的應用提供動力。然而，提示工程（製作文本輸入以有效引導 LLM 的任務）仍然困難且勞動密集，尤其是對於將多個 LLM 呼叫與函數操作（如檢索和數據格式化）結合的複雜管道。我們介紹 LLM-AutoDiff：一個用於自動提示工程 (APE) 的新框架，它將基於文本梯度的的方法（例如 Text-Grad）擴展到多組成部分、潛在循環的 LLM 架構。在 AdalFlow 庫中實施，LLM-AutoDiff 將每個文本輸入視為可訓練參數，並使用凍結的後向引擎 LLM 來生成反饋，類似於文本梯度，以指導反覆提示更新。與先前的單節點方法不同，LLM-AutoDiff 本質上適應功能節點，在重複呼叫中保留時間順序行為（例如，多跳循環），並通過隔離不同的子提示（指令、格式或少數鏡頭示例）來解決「迷失在中間」的問題。它進一步通過選擇性梯度計算專注於容易出錯的樣本來提高訓練效率。在包括單步分類、基於多跳檢索的問答和代理驅動管道在內的各種任務中，LLM-AutoDiff 在準確性和訓練成本方面始終優於現有的文本梯度基準。通過以圖形為中心的視角統一提示優化，LLM-AutoDiff 為擴展和自動化 LLM 工作流程提供了一個強大的新範例，反映了自動微分庫長期在神經網路研究中發揮的變革性作用。
+摘要：大型語言模型 (LLM) 已重塑自然語言處理，
+為從多跳檢索和問答到
+自主代理工作流程的應用提供動力。然而，提示工程 -- 編寫
+文本輸入以有效指導 LLM 的任務 -- 仍然困難且
+勞動密集，特別是對於將多個 LLM
+呼叫與檢索和數據格式化等功能操作相結合的複雜管道。我們
+介紹 LLM-AutoDiff：一個用於自動提示工程 (APE) 的新框架，它將基於文本梯度的
+方法（例如 Text-Grad）擴展到多組件、潛在循環 LLM 架構中。在
+AdalFlow 庫中實施，LLM-AutoDiff 將每個文本輸入視為一個可訓練
+參數，並使用凍結的後向引擎 LLM 生成反饋——類似於
+文本梯度——指導迭代提示更新。與先前的
+單節點方法不同，LLM-AutoDiff 本質上適應功能節點，
+在重複呼叫（例如，多跳循環）中保留時間順序行為，
+並通過隔離不同的子提示（說明、格式或少數鏡頭示例）來解決“迷失在中間”問題。它進一步提高訓練
+效率，通過選擇性梯度
+計算專注於容易出錯的樣本。在包括單步分類、
+多跳基於檢索的問答和代理驅動管道在內的各種任務中，LLM-AutoDiff
+在準確性和訓練成本方面始終優於現有的文本梯度基準。通過圖形中心化
+視角統一提示優化，LLM-AutoDiff 為擴展和自動化
+LLM 工作流程提供了一個強大的新範例——反映了自動
+微分庫在神經網絡研究中長期扮演的變革性角色。
 
 ##### **360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**
 2501.16450v1 by Hamed Firooz, Maziar Sanjabi, Adrian Englhardt, Aman Gupta, Ben Levine, Dre Olgiati, Gungor Polatkan, Iuliia Melnychuk, Karthik Ramgopal, Kirill Talanine, Kutta Srinivasan, Luke Simon, Natesh Sivasubramoniapillai, Necip Fazil Ayan, Qingquan Song, Samira Sriram, Souvik Ghosh, Tao Song, Vignesh Kothapalli, Xiaoling Zhai, Ya Xu, Yu Wang, Yun Dai
@@ -2533,101 +2642,4 @@ LLAMA and Mistral demonstrate the effectiveness of our proposed methods in
 adapting math reasoning skills and social study skills.
 
 摘要：我們提出動態技能適應 (DSA)，一種適應性和動態框架，用於將新穎且複雜的技能適應到大型語言模型 (LLM)。與先前從人類策劃和靜態資料中以隨機順序學習的工作相比，我們建議首先透過模擬人類的學習路徑自動產生和組織訓練資料，然後根據訓練動態動態調整訓練資料。具體來說，受到人類教育系統中的學習結構和教學策略的啟發，我們首先透過將複雜技能分解成子技能並根據它們在人類音節中的依賴性來排列它們來構建技能圖。對於每項技能，我們利用 LLM 產生類似教科書的資料，其中包含技能的詳細描述，用於預訓練和練習類型的資料，其目標是明確利用技能解決問題，以進行指令調整。此外，在指令調整期間，我們會動態更新訓練資料，其中會降低易於學習範例的權重、產生更複雜的範例，並過濾掉有錯誤的資料。在 LLAMA 和 Mistral 等大型語言模型上進行的實驗證明了我們提出的方法在適應數學推理技能和社會研究技能方面的有效性。
-
-##### **Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**
-2412.19021v1 by Tao Liu, Rongjie Li, Chongyu Wang, Xuming He
-
-Open-vocabulary Scene Graph Generation (OV-SGG) overcomes the limitations of
-the closed-set assumption by aligning visual relationship representations with
-open-vocabulary textual representations. This enables the identification of
-novel visual relationships, making it applicable to real-world scenarios with
-diverse relationships. However, existing OV-SGG methods are constrained by
-fixed text representations, limiting diversity and accuracy in image-text
-alignment. To address these challenges, we propose the Relation-Aware
-Hierarchical Prompting (RAHP) framework, which enhances text representation by
-integrating subject-object and region-specific relation information. Our
-approach utilizes entity clustering to address the complexity of relation
-triplet categories, enabling the effective integration of subject-object
-information. Additionally, we utilize a large language model (LLM) to generate
-detailed region-aware prompts, capturing fine-grained visual interactions and
-improving alignment between visual and textual modalities. RAHP also introduces
-a dynamic selection mechanism within Vision-Language Models (VLMs), which
-adaptively selects relevant text prompts based on the visual content, reducing
-noise from irrelevant prompts. Extensive experiments on the Visual Genome and
-Open Images v6 datasets demonstrate that our framework consistently achieves
-state-of-the-art performance, demonstrating its effectiveness in addressing the
-challenges of open-vocabulary scene graph generation.
-
-摘要：開放詞彙場景圖生成 (OV-SGG) 克服了封閉式假設的限制，透過將視覺關係表徵與開放詞彙文本表徵對齊。這使得能夠識別新的視覺關係，使其適用於具有多樣化關係的真實世界場景。然而，現有的 OV-SGG 方法受到固定文本表徵的限制，限制了圖像文本對齊的多樣性和準確性。為了應對這些挑戰，我們提出了關係感知階層式提示 (RAHP) 架構，透過整合主體客體和特定區域的關係資訊來增強文本表徵。我們的做法利用實體聚類來解決關係三元組類別的複雜性，使主體客體資訊能夠有效整合。此外，我們利用大型語言模型 (LLM) 來產生詳細的區域感知提示，捕捉細微的視覺互動並改善視覺和文本模式之間的對齊。RAHP 也在視覺語言模型 (VLM) 中引入了動態選擇機制，根據視覺內容自適應地選擇相關文本提示，減少不相關提示的雜訊。在 Visual Genome 和 Open Images v6 資料集上的大量實驗證明，我們的架構持續達成最先進的效能，證明其在解決開放詞彙場景圖生成的挑戰上具有效能。
-
-##### **PhyloGen: Language Model-Enhanced Phylogenetic Inference via Graph Structure Generation**
-2412.18827v1 by ChenRui Duan, Zelin Zang, Siyuan Li, Yongjie Xu, Stan Z. Li
-
-Phylogenetic trees elucidate evolutionary relationships among species, but
-phylogenetic inference remains challenging due to the complexity of combining
-continuous (branch lengths) and discrete parameters (tree topology).
-Traditional Markov Chain Monte Carlo methods face slow convergence and
-computational burdens. Existing Variational Inference methods, which require
-pre-generated topologies and typically treat tree structures and branch lengths
-independently, may overlook critical sequence features, limiting their accuracy
-and flexibility. We propose PhyloGen, a novel method leveraging a pre-trained
-genomic language model to generate and optimize phylogenetic trees without
-dependence on evolutionary models or aligned sequence constraints. PhyloGen
-views phylogenetic inference as a conditionally constrained tree structure
-generation problem, jointly optimizing tree topology and branch lengths through
-three core modules: (i) Feature Extraction, (ii) PhyloTree Construction, and
-(iii) PhyloTree Structure Modeling. Meanwhile, we introduce a Scoring Function
-to guide the model towards a more stable gradient descent. We demonstrate the
-effectiveness and robustness of PhyloGen on eight real-world benchmark
-datasets. Visualization results confirm PhyloGen provides deeper insights into
-phylogenetic relationships.
-
-摘要：系統發生樹闡明了物種之間的演化關係，但由於連續參數（分支長度）和離散參數（樹形結構）結合的複雜性，系統發生推論仍然具有挑戰性。傳統的馬可夫鏈蒙特卡羅方法面臨收斂速度慢和計算負擔重。現有的變分推論方法需要預先產生的拓撲結構，並且通常獨立處理樹形結構和分支長度，可能會忽略關鍵的序列特徵，從而限制其準確性和靈活性。我們提出了 PhyloGen，這是一種新穎的方法，利用預訓練的基因組語言模型來生成和優化系統發生樹，而不需要依賴演化模型或比對序列約束。PhyloGen 將系統發生推論視為一個條件約束的樹形結構生成問題，通過三個核心模組共同優化樹形結構和分支長度：(i) 特徵提取、(ii) PhyloTree 構建，以及 (iii) PhyloTree 結構建模。同時，我們引入了評分函數來引導模型朝著更穩定的梯度下降方向發展。我們在八個真實世界的基準數據集上展示了 PhyloGen 的有效性和魯棒性。可視化結果證實，PhyloGen 能夠更深入地了解系統發生關係。
-
-##### **CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era**
-2412.18702v1 by Yanlin Feng, Simone Papicchio, Sajjadur Rahman
-
-Retrieval from graph data is crucial for augmenting large language models
-(LLM) with both open-domain knowledge and private enterprise data, and it is
-also a key component in the recent GraphRAG system (edge et al., 2024). Despite
-decades of research on knowledge graphs and knowledge base question answering,
-leading LLM frameworks (e.g. Langchain and LlamaIndex) have only minimal
-support for retrieval from modern encyclopedic knowledge graphs like Wikidata.
-In this paper, we analyze the root cause and suggest that modern RDF knowledge
-graphs (e.g. Wikidata, Freebase) are less efficient for LLMs due to overly
-large schemas that far exceed the typical LLM context window, use of resource
-identifiers, overlapping relation types and lack of normalization. As a
-solution, we propose property graph views on top of the underlying RDF graph
-that can be efficiently queried by LLMs using Cypher. We instantiated this idea
-on Wikidata and introduced CypherBench, the first benchmark with 11
-large-scale, multi-domain property graphs with 7.8 million entities and over
-10,000 questions. To achieve this, we tackled several key challenges, including
-developing an RDF-to-property graph conversion engine, creating a systematic
-pipeline for text-to-Cypher task generation, and designing new evaluation
-metrics.
-
-摘要：從圖形資料中擷取對於擴增大型語言模型 (LLM) 非常重要，它結合了開放領域知識和私人企業資料，同時也是近期 GraphRAG 系統 (edge et al., 2024) 的關鍵組成部分。儘管經過數十年的知識圖譜和知識庫問題解答研究，但領先的 LLM 框架（例如 Langchain 和 LlamaIndex）僅能最低限度支援從現代百科知識圖譜（例如 Wikidata）擷取。在本文中，我們分析了根本原因，並提出現代 RDF 知識圖譜（例如 Wikidata、Freebase）對於 LLM 來說效率較低，這是因為過於龐大的架構遠遠超過典型的 LLM 背景視窗、使用資源識別碼、重疊的關係類型和缺乏標準化。作為解決方案，我們提出在底層 RDF 圖形上建立屬性圖形檢視，LLM 可以使用 Cypher 有效地查詢這些檢視。我們在 Wikidata 上實例化了這個想法，並引入了 CypherBench，這是第一個基準，包含 11 個大型、多領域的屬性圖形，擁有 780 萬個實體和超過 10,000 個問題。為了達成此目標，我們應對了幾個關鍵挑戰，包括開發 RDF 到屬性圖形轉換引擎、建立文字到 Cypher 任務產生系統化流程，以及設計新的評估指標。
-
-##### **From Hallucinations to Facts: Enhancing Language Models with Curated Knowledge Graphs**
-2412.18672v1 by Ratnesh Kumar Joshi, Sagnik Sengupta, Asif Ekbal
-
-Hallucination, a persistent challenge plaguing language models, undermines
-their efficacy and trustworthiness in various natural language processing
-endeavors by generating responses that deviate from factual accuracy or
-coherence. This paper addresses language model hallucination by integrating
-curated knowledge graph (KG) triples to anchor responses in empirical data. We
-meticulously select and integrate relevant KG triples tailored to specific
-contexts, enhancing factual grounding and alignment with input. Our
-contribution involves constructing a comprehensive KG repository from Wikipedia
-and refining data to spotlight essential information for model training. By
-imbuing language models with access to this curated knowledge, we aim to
-generate both linguistically fluent responses and deeply rooted in factual
-accuracy and context relevance. This integration mitigates hallucinations by
-providing a robust foundation of information, enabling models to draw upon a
-rich reservoir of factual data during response generation. Experimental
-evaluations demonstrate the effectiveness of multiple approaches in reducing
-hallucinatory responses, underscoring the role of curated knowledge graphs in
-improving the reliability and trustworthiness of language model outputs.
-
-摘要：幻覺，一種持續困擾語言模型的挑戰，破壞了它們在各種自然語言處理工作中的效率和可信度，因為它們產生的反應偏離了事實的準確性或連貫性。本文透過整合經過整理的知識圖譜 (KG) 三元組來錨定經驗數據中的回應，來解決語言模型的幻覺。我們仔細地選擇並整合與特定脈絡相符的相關 KG 三元組，增強事實依據並與輸入保持一致。我們的貢獻包括從維基百科構建一個全面的 KG 儲存庫，並精煉數據，以突顯模型訓練的重要資訊。透過讓語言模型存取這個經過整理的知識，我們旨在產生既語言流暢，又深植於事實準確性和脈絡相關性的回應。這種整合透過提供穩健的資訊基礎來減輕幻覺，讓模型在回應產生期間能夠利用豐富的事實數據儲備。實驗評估證明了多種方法在減少幻覺反應方面的有效性，強調了經過整理的知識圖譜在改善語言模型輸出的可靠性和可信度方面所扮演的角色。
 

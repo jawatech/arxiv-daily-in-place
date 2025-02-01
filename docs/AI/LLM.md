@@ -2173,7 +2173,7 @@ insight-learning capabilities of LLMs.
 摘要：大型語言模型 (LLM) 已在各種任務中展現出非凡的表現，但它們從特定領域的資料集中萃取和內化更深入見解的能力仍未被充分探討。在本研究中，我們探討持續預訓練如何增強 LLM 在三種不同形式的見解學習能力：宣告式、統計式和機率式見解。我們專注於兩個重要的領域：醫學和金融，並使用 LoRA 在兩個現有資料集上訓練 LLM。為了評估每種類型的見解，我們建立基準來衡量持續預訓練如何幫助模型超越表面層面的知識。我們也評估文件修改對擷取見解的影響。結果顯示，雖然在原始文件上進行持續預訓練的效果有限，但修改文件以僅保留必要資訊，可以顯著增強 LLM 的見解學習能力。
 
 ##### **A Comprehensive Survey on Legal Summarization: Challenges and Future Directions**
-2501.17830v1 by Mousumi Akter, Erion Cano, Erik Weber, Dennis Dobler, Ivan Habernal
+2501.17830v1 by Mousumi Akter, Erion Çano, Erik Weber, Dennis Dobler, Ivan Habernal
 
 This article provides a systematic up-to-date survey of automatic
 summarization techniques, datasets, models, and evaluation methods in the legal

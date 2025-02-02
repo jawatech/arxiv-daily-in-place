@@ -48,7 +48,7 @@
 |**2025-01-30**|**Pre-Trained Vision-Language Model Selection and Reuse for Downstream Tasks**|Hao-Zhe Tan et.al.|[2501.18271v1](http://arxiv.org/abs/2501.18271v1)|null|
 |**2025-01-30**|**MAMS: Model-Agnostic Module Selection Framework for Video Captioning**|Sangho Lee et.al.|[2501.18269v1](http://arxiv.org/abs/2501.18269v1)|null|
 |**2025-01-30**|**Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence**|Kevin Roitero et.al.|[2501.18265v1](http://arxiv.org/abs/2501.18265v1)|null|
-|**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251v1](http://arxiv.org/abs/2501.18251v1)|null|
+|**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251v1](http://arxiv.org/abs/2501.18251v1)|[link](https://github.com/zouharvi/subset2evaluate)|
 |**2025-01-30**|**Statistical multi-metric evaluation and visualization of LLM system predictive performance**|Samuel Ackerman et.al.|[2501.18243v1](http://arxiv.org/abs/2501.18243v1)|null|
 |**2025-01-30**|**Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**|Malte Tölle et.al.|[2501.18237v1](http://arxiv.org/abs/2501.18237v1)|null|
 |**2025-01-30**|**Exploring Large Protein Language Models in Constrained Evaluation Scenarios within the FLIP Benchmark**|Manuel F. Mollon et.al.|[2501.18223v1](http://arxiv.org/abs/2501.18223v1)|null|

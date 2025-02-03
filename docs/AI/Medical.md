@@ -2,6 +2,12 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
+|**2025-01-31**|**Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks**|Halil Ibrahim Aysel et.al.|[2501.19271v1](http://arxiv.org/abs/2501.19271v1)|null|
+|**2025-01-31**|**Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence**|Aurora Rofena et.al.|[2501.19176v1](http://arxiv.org/abs/2501.19176v1)|null|
+|**2025-01-31**|**Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**|Xiangyu Sun et.al.|[2501.19086v1](http://arxiv.org/abs/2501.19086v1)|null|
+|**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794v1](http://arxiv.org/abs/2501.18794v1)|null|
+|**2025-01-30**|**Synthetic Data Generation for Augmenting Small Samples**|Dan Liu et.al.|[2501.18741v1](http://arxiv.org/abs/2501.18741v1)|null|
 |**2025-01-30**|**A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series**|Yifan Wang et.al.|[2501.18367v1](http://arxiv.org/abs/2501.18367v1)|null|
 |**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362v1](http://arxiv.org/abs/2501.18362v1)|null|
 |**2025-01-30**|**CodeBrain: Impute Any Brain MRI via Instance-specific Scalar-quantized Codes**|Yicheng Wu et.al.|[2501.18328v1](http://arxiv.org/abs/2501.18328v1)|null|
@@ -15,6 +21,7 @@
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
 |**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|null|
 |**2025-01-29**|**Tonguescape: Exploring Language Models Understanding of Vowel Articulation**|Haruki Sakajo et.al.|[2501.17643v1](http://arxiv.org/abs/2501.17643v1)|[link](https://github.com/sj-h4/tonguescape-builder)|
+|**2025-01-29**|**Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**|Manish Sanwal et.al.|[2501.18645v1](http://arxiv.org/abs/2501.18645v1)|null|
 |**2025-01-29**|**An Exceptional Dataset For Rare Pancreatic Tumor Segmentation**|Wenqi Li et.al.|[2501.17555v1](http://arxiv.org/abs/2501.17555v1)|null|
 |**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510v1](http://arxiv.org/abs/2501.17510v1)|null|
 |**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343v1](http://arxiv.org/abs/2501.17343v1)|null|
@@ -51,6 +58,7 @@
 |**2025-01-24**|**Approach to Designing CV Systems for Medical Applications: Data, Architecture and AI**|Dmitry Ryabtsev et.al.|[2501.14689v1](http://arxiv.org/abs/2501.14689v1)|null|
 |**2025-01-24**|**Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**|Fuping Wu et.al.|[2501.14685v1](http://arxiv.org/abs/2501.14685v1)|null|
 |**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654v1](http://arxiv.org/abs/2501.14654v1)|[link](https://github.com/stanfordmlgroup/medagentbench)|
+|**2025-01-24**|**Review and Recommendations for using Artificial Intelligence in Intracoronary Optical Coherence Tomography Analysis**|Xu Chen et.al.|[2501.18614v1](http://arxiv.org/abs/2501.18614v1)|null|
 |**2025-01-24**|**Registration of Longitudinal Liver Examinations for Tumor Progress Assessment**|Walid Yassine et.al.|[2501.14483v1](http://arxiv.org/abs/2501.14483v1)|null|
 |**2025-01-24**|**Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware Pesticide Design**|Taehan Kim et.al.|[2501.14469v1](http://arxiv.org/abs/2501.14469v1)|null|
 |**2025-01-24**|**ECTIL: Label-efficient Computational Tumour Infiltrating Lymphocyte (TIL) assessment in breast cancer: Multicentre validation in 2,340 patients with breast cancer**|Yoni Schirris et.al.|[2501.14379v1](http://arxiv.org/abs/2501.14379v1)|[link](https://github.com/nki-ai/ectil)|
@@ -94,16 +102,164 @@
 |**2025-01-20**|**Evaluating Binary Decision Biases in Large Language Models: Implications for Fair Agent-Based Financial Simulations**|Alicia Vidler et.al.|[2501.16356v1](http://arxiv.org/abs/2501.16356v1)|null|
 |**2025-01-20**|**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**|Haotian Xu et.al.|[2501.11284v1](http://arxiv.org/abs/2501.11284v1)|null|
 |**2025-01-20**|**Spatiotemporal Air Quality Mapping in Urban Areas Using Sparse Sensor Data, Satellite Imagery, Meteorological Factors, and Spatial Features**|Osama Ahmad et.al.|[2501.11270v1](http://arxiv.org/abs/2501.11270v1)|null|
-|**2025-01-20**|**A Layered Multi-Expert Framework for Long-Context Mental Health Assessments**|Jinwen Tang et.al.|[2501.13951v1](http://arxiv.org/abs/2501.13951v1)|null|
-|**2025-01-19**|**Clinical trial cohort selection using Large Language Models on n2c2 Challenges**|Chi-en Amy Tai et.al.|[2501.11114v1](http://arxiv.org/abs/2501.11114v1)|null|
-|**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
-|**2025-01-18**|**No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-k Patch Sampling**|Young Seok Jeon et.al.|[2501.10814v1](http://arxiv.org/abs/2501.10814v1)|null|
-|**2025-01-18**|**Efficient Auto-Labeling of Large-Scale Poultry Datasets (ALPD) Using Semi-Supervised Models, Active Learning, and Prompt-then-Detect Approach**|Ramesh Bahadur Bist et.al.|[2501.10809v1](http://arxiv.org/abs/2501.10809v1)|null|
-|**2025-01-18**|**An Integrated Approach to AI-Generated Content in e-health**|Tasnim Ahmed et.al.|[2501.16348v1](http://arxiv.org/abs/2501.16348v1)|null|
-|**2025-01-18**|**MedFILIP: Medical Fine-grained Language-Image Pre-training**|Xinjie Liang et.al.|[2501.10775v1](http://arxiv.org/abs/2501.10775v1)|[link](https://github.com/perceptioncomputinglab/medfilip)|
-|**2025-01-18**|**Enhancing Diagnostic in 3D COVID-19 Pneumonia CT-scans through Explainable Uncertainty Bayesian Quantification**|Juan Manuel Liscano Fierro et.al.|[2501.10770v1](http://arxiv.org/abs/2501.10770v1)|null|
 
 #### Abstracts
+##### **Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**
+2501.19338v1 by Misha P. T Kaandorp, Damola Agbelese, Hosna Asma-ull, Hyun-Gi Kim, Kelly Payette, Patrice Grehten, Gennari Antonio Giulio, Levente István Lánczi, Andras Jakab
+
+Developing new methods for the automated analysis of clinical fetal and
+neonatal MRI data is limited by the scarcity of annotated pathological datasets
+and privacy concerns that often restrict data sharing, hindering the
+effectiveness of deep learning models. We address this in two ways. First, we
+introduce Fetal&Neonatal-DDPM, a novel diffusion model framework designed to
+generate high-quality synthetic pathological fetal and neonatal MRIs from
+semantic label images. Second, we enhance training data by modifying healthy
+label images through morphological alterations to simulate conditions such as
+ventriculomegaly, cerebellar and pontocerebellar hypoplasia, and microcephaly.
+By leveraging Fetal&Neonatal-DDPM, we synthesize realistic pathological MRIs
+from these modified pathological label images. Radiologists rated the synthetic
+MRIs as significantly (p < 0.05) superior in quality and diagnostic value
+compared to real MRIs, demonstrating features such as blood vessels and choroid
+plexus, and improved alignment with label annotations. Synthetic pathological
+data enhanced state-of-the-art nnUNet segmentation performance, particularly
+for severe ventriculomegaly cases, with the greatest improvements achieved in
+ventricle segmentation (Dice scores: 0.9253 vs. 0.7317). This study underscores
+the potential of generative AI as transformative tool for data augmentation,
+offering improved segmentation performance in pathological cases. This
+development represents a significant step towards improving analysis and
+segmentation accuracy in prenatal imaging, and also offers new ways for data
+anonymization through the generation of pathologic image data.
+
+摘要：<paragraph>開發用於自動分析臨床胎兒和新生兒 MRI 資料的新方法受到標註病理資料集稀少和隱私問題的限制，這些問題通常會限制資料共享，從而阻礙深度學習模型的有效性。我們以兩種方式解決這個問題。首先，我們引入了 Fetal&Neonatal-DDPM，這是一個新穎的擴散模型架構，旨在從語義標籤影像生成高品質的合成病理胎兒和新生兒 MRI。其次，我們透過形態改變來修改健康的標籤影像，以模擬腦室擴大、小腦和橋腦小腦發育不全以及小頭畸形等情況，從而增強訓練資料。透過利用 Fetal&Neonatal-DDPM，我們從這些修改後的病理標籤影像中合成了逼真的病理 MRI。放射科醫師評估合成 MRI 的品質和診斷價值顯著優於真實 MRI（p < 0.05），展示了血管和脈絡叢等特徵，並改善了與標籤註解的一致性。合成病理資料增強了最先進的 nnUNet 分割效能，特別是對於嚴重的腦室擴大病例，其中腦室分割（Dice 分數：0.9253 對 0.7317）的改善最大。這項研究強調了生成式 AI 作為資料擴充轉型工具的潛力，在病理病例中提供了改善的分割效能。這項發展代表了改善產前影像分析和分割準確性的重要一步，也為透過生成病理影像資料來進行資料匿名化提供了新方法。</paragraph>
+
+##### **Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks**
+2501.19271v1 by Halil Ibrahim Aysel, Xiaohao Cai, Adam Prugel-Bennett
+
+Concept-based explanation methods, such as concept bottleneck models (CBMs),
+aim to improve the interpretability of machine learning models by linking their
+decisions to human-understandable concepts, under the critical assumption that
+such concepts can be accurately attributed to the network's feature space.
+However, this foundational assumption has not been rigorously validated, mainly
+because the field lacks standardised metrics and benchmarks to assess the
+existence and spatial alignment of such concepts. To address this, we propose
+three metrics: the concept global importance metric, the concept existence
+metric, and the concept location metric, including a technique for visualising
+concept activations, i.e., concept activation mapping. We benchmark post-hoc
+CBMs to illustrate their capabilities and challenges. Through qualitative and
+quantitative experiments, we demonstrate that, in many cases, even the most
+important concepts determined by post-hoc CBMs are not present in input images;
+moreover, when they are present, their saliency maps fail to align with the
+expected regions by either activating across an entire object or misidentifying
+relevant concept-specific regions. We analyse the root causes of these
+limitations, such as the natural correlation of concepts. Our findings
+underscore the need for more careful application of concept-based explanation
+techniques especially in settings where spatial interpretability is critical.
+
+摘要：基於概念的解釋方法，例如概念瓶頸模型 (CBM)，旨在透過將機器學習模型的決策與人類可理解的概念連結，來提升機器學習模型的可解釋性，其關鍵假設為此類概念可以準確地歸因於網路的特徵空間。然而，此項基礎假設尚未經過嚴格驗證，主要是因為該領域缺乏標準化指標和基準來評估此類概念的存在和空間對齊。為了解決這個問題，我們提出三項指標：概念整體重要性指標、概念存在指標和概念位置指標，包括一種用於視覺化概念活化，即概念活化對應的技術。我們對事後 CBM 進行基準測試，以說明它們的能力和挑戰。透過定性和定量實驗，我們證明，在許多情況下，即使是由事後 CBM 確定的最重要概念也不存在於輸入影像中；此外，當它們存在時，它們的顯著性圖無法與預期的區域對齊，原因可能是它們在整個物件中活化，或錯誤辨識出相關的概念特定區域。我們分析了這些限制的根本原因，例如概念的自然相關性。我們的研究結果強調需要更小心地應用基於概念的解釋技術，特別是在空間可解釋性至關重要的設定中。
+
+##### **Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence**
+2501.19176v1 by Aurora Rofena, Claudia Lucia Piccolo, Bruno Beomonte Zobel, Paolo Soda, Valerio Guarrasi
+
+Full-Field Digital Mammography (FFDM) is the primary imaging modality for
+routine breast cancer screening; however, its effectiveness is limited in
+patients with dense breast tissue or fibrocystic conditions. Contrast-Enhanced
+Spectral Mammography (CESM), a second-level imaging technique, offers enhanced
+accuracy in tumor detection. Nonetheless, its application is restricted due to
+higher radiation exposure, the use of contrast agents, and limited
+accessibility. As a result, CESM is typically reserved for select cases,
+leaving many patients to rely solely on FFDM despite the superior diagnostic
+performance of CESM. While biopsy remains the gold standard for definitive
+diagnosis, it is an invasive procedure that can cause discomfort for patients.
+We introduce a multimodal, multi-view deep learning approach for virtual
+biopsy, integrating FFDM and CESM modalities in craniocaudal and mediolateral
+oblique views to classify lesions as malignant or benign. To address the
+challenge of missing CESM data, we leverage generative artificial intelligence
+to impute CESM images from FFDM scans. Experimental results demonstrate that
+incorporating the CESM modality is crucial to enhance the performance of
+virtual biopsy. When real CESM data is missing, synthetic CESM images proved
+effective, outperforming the use of FFDM alone, particularly in multimodal
+configurations that combine FFDM and CESM modalities. The proposed approach has
+the potential to improve diagnostic workflows, providing clinicians with
+augmented intelligence tools to improve diagnostic accuracy and patient care.
+Additionally, as a contribution to the research community, we publicly release
+the dataset used in our experiments, facilitating further advancements in this
+field.
+
+摘要：全視野數位乳房攝影 (FFDM) 是常規乳癌篩檢的主要影像模式；然而，對於乳房組織緻密或纖維囊腫病變的患者，其有效性受到限制。對比增強光譜乳房攝影 (CESM) 是一種二級影像技術，可提升腫瘤偵測的準確度。儘管如此，由於較高的輻射曝露、對比劑的使用和有限的可及性，限制了其應用。因此，CESM 通常僅保留在特定情況下使用，儘管 CESM 的診斷效能較佳，但許多患者仍只能依賴 FFDM。雖然切片檢查仍然是明確診斷的黃金標準，但這是一種侵入性程序，可能會讓患者感到不適。我們引入一種多模式、多視圖的深度學習方法進行虛擬切片檢查，將 FFDM 和 CESM 模式整合在頭尾向和內外側斜視圖中，以將病灶分類為惡性或良性。為了解決 CESM 資料缺失的挑戰，我們利用生成式人工智慧從 FFDM 掃描中推算 CESM 影像。實驗結果證明，整合 CESM 模式對於提升虛擬切片檢查的效能至關重要。當真實 CESM 資料缺失時，合成 CESM 影像被證明是有效的，其效能優於單獨使用 FFDM，特別是在結合 FFDM 和 CESM 模式的多模式配置中。所提出的方法有潛力改善診斷工作流程，為臨床醫師提供增強的智慧工具，以提高診斷準確度和患者照護。此外，作為對研究社群的貢獻，我們公開發布在實驗中使用的資料集，以促進此領域的進一步進展。
+
+##### **Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**
+2501.19086v1 by Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang
+
+X-ray imaging is pivotal in medical diagnostics, offering non-invasive
+insights into a range of health conditions. Recently, vision-language models,
+such as the Contrastive Language-Image Pretraining (CLIP) model, have
+demonstrated potential in improving diagnostic accuracy by leveraging
+large-scale image-text datasets. However, since CLIP was not initially designed
+for medical images, several CLIP-like models trained specifically on medical
+images have been developed. Despite their enhanced performance, issues of
+fairness - particularly regarding demographic attributes - remain largely
+unaddressed. In this study, we perform a comprehensive fairness analysis of
+CLIP-like models applied to X-ray image classification. We assess their
+performance and fairness across diverse patient demographics and disease
+categories using zero-shot inference and various fine-tuning techniques,
+including Linear Probing, Multilayer Perceptron (MLP), Low-Rank Adaptation
+(LoRA), and full fine-tuning. Our results indicate that while fine-tuning
+improves model accuracy, fairness concerns persist, highlighting the need for
+further fairness interventions in these foundational models.
+
+摘要：X 光影像在醫療診斷中至關重要，能提供各種健康狀況的非侵入性見解。最近，視覺語言模型（例如對比語言影像預訓練 (CLIP) 模型）已證明有潛力透過利用大規模影像文字資料集來改善診斷準確性。然而，由於 CLIP 最初並非設計用於醫療影像，因此已經開發了數個特別針對醫療影像訓練的類似 CLIP 模型。儘管它們的效能有所提升，但公平性的問題（特別是關於人口統計屬性）仍大多未獲解決。在本研究中，我們對應用於 X 光影像分類的類似 CLIP 模型執行全面的公平性分析。我們使用零次學習推論和各種微調技術（包括線性探查、多層感知器 (MLP)、低秩適應 (LoRA) 和完整微調）來評估它們在不同患者人口統計和疾病類別中的效能和公平性。我們的結果表明，雖然微調會改善模型準確性，但公平性問題仍然存在，強調需要在這些基礎模型中進一步採取公平性干預措施。
+
+##### **Survey and Improvement Strategies for Gene Prioritization with Large Language Models**
+2501.18794v1 by Matthew Neeley, Guantong Qi, Guanchu Wang, Ruixiang Tang, Dongxue Mao, Chaozhong Liu, Sasidhar Pasupuleti, Bo Yuan, Fan Xia, Pengfei Liu, Zhandong Liu, Xia Hu
+
+Rare diseases are challenging to diagnose due to limited patient data and
+genetic diversity. Despite advances in variant prioritization, many cases
+remain undiagnosed. While large language models (LLMs) have performed well in
+medical exams, their effectiveness in diagnosing rare genetic diseases has not
+been assessed. To identify causal genes, we benchmarked various LLMs for gene
+prioritization. Using multi-agent and Human Phenotype Ontology (HPO)
+classification, we categorized patients based on phenotypes and solvability
+levels. As gene set size increased, LLM performance deteriorated, so we used a
+divide-and-conquer strategy to break the task into smaller subsets. At
+baseline, GPT-4 outperformed other LLMs, achieving near 30% accuracy in ranking
+causal genes correctly. The multi-agent and HPO approaches helped distinguish
+confidently solved cases from challenging ones, highlighting the importance of
+known gene-phenotype associations and phenotype specificity. We found that
+cases with specific phenotypes or clear associations were more accurately
+solved. However, we observed biases toward well-studied genes and input order
+sensitivity, which hindered gene prioritization. Our divide-and-conquer
+strategy improved accuracy by overcoming these biases. By utilizing HPO
+classification, novel multi-agent techniques, and our LLM strategy, we improved
+causal gene identification accuracy compared to our baseline evaluation. This
+approach streamlines rare disease diagnosis, facilitates reanalysis of unsolved
+cases, and accelerates gene discovery, supporting the development of targeted
+diagnostics and therapies.
+
+摘要：罕見疾病由於患者數據有限和遺傳多樣性，診斷起來具有挑戰性。儘管變異優先級排序技術進步，但許多病例仍未得到診斷。儘管大型語言模型 (LLM) 在醫學考試中表現良好，但它們在診斷罕見遺傳疾病方面的有效性尚未得到評估。為了識別致病基因，我們對各種 LLM 進行了基因優先級排序基準測試。使用多智能體和人類表型本体 (HPO) 分類，我們根據表型和可解決性對患者進行了分類。隨著基因組大小的增加，LLM 性能下降，因此我們使用分而治之策略將任務分解為更小的子集。在基線中，GPT-4 優於其他 LLM，在正確排序致病基因方面達到近 30% 的準確度。多智能體和 HPO 方法有助於區分解決有信心的病例和具有挑戰性的病例，強調已知基因-表型關聯和表型特異性的重要性。我們發現具有特定表型或明確關聯的病例得到更準確的解決。然而，我們觀察到對研究充分的基因和輸入順序敏感性的偏差，這阻礙了基因優先級排序。我們的分而治之策略通過克服這些偏差來提高準確性。通過利用 HPO 分類、新穎的多智能體技術和我們的 LLM 策略，我們與我們的基線評估相比提高了致病基因識別準確性。這種方法簡化了罕見疾病的診斷，促進了對未解決病例的重新分析，並加速了基因發現，支持了靶向診斷和治療的開發。
+
+##### **Synthetic Data Generation for Augmenting Small Samples**
+2501.18741v1 by Dan Liu, Samer El Kababji, Nicholas Mitsakakis, Lisa Pilgram, Thomas Walters, Mark Clemons, Greg Pond, Alaa El-Hussuna, Khaled El Emam
+
+Small datasets are common in health research. However, the generalization
+performance of machine learning models is suboptimal when the training datasets
+are small. To address this, data augmentation is one solution. Augmentation
+increases sample size and is seen as a form of regularization that increases
+the diversity of small datasets, leading them to perform better on unseen data.
+We found that augmentation improves prognostic performance for datasets that:
+have fewer observations, with smaller baseline AUC, have higher cardinality
+categorical variables, and have more balanced outcome variables. No specific
+generative model consistently outperformed the others. We developed a decision
+support model that can be used to inform analysts if augmentation would be
+useful. For seven small application datasets, augmenting the existing data
+results in an increase in AUC between 4.31% (AUC from 0.71 to 0.75) and 43.23%
+(AUC from 0.51 to 0.73), with an average 15.55% relative improvement,
+demonstrating the nontrivial impact of augmentation on small datasets
+(p=0.0078). Augmentation AUC was higher than resampling only AUC (p=0.016). The
+diversity of augmented datasets was higher than the diversity of resampled
+datasets (p=0.046).
+
+摘要：在健康研究中，小型数据集很常见。然而，当训练数据集较小时，机器学习模型的泛化性能并不理想。为了解决这个问题，数据增强是一种解决方案。增强增加了样本量，并被视为一种正则化形式，它增加了小型数据集的多样性，从而使其在未见数据上表现得更好。我们发现，增强提高了以下数据集的预测性能：具有较少的观测值、较小的基线 AUC、较高的基数分类变量以及更平衡的结果变量。没有特定的生成模型始终优于其他模型。我们开发了一个决策支持模型，可用于告知分析师增强是否有用。对于七个小型应用程序数据集，增强现有数据导致 AUC 增加 4.31%（AUC 从 0.71 增加到 0.75）和 43.23%（AUC 从 0.51 增加到 0.73），平均相对改进 15.55%，这表明了增强对小型数据集的非平凡影响（p=0.0078）。增强 AUC 高于仅重新采样的 AUC（p=0.016）。增强数据集的多样性高于重新采样数据集的多样性（p=0.046）。
+
 ##### **A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series**
 2501.18367v1 by Yifan Wang, Hongfeng Ai, Ruiqi Li, Maowei Jiang, Cheng Jiang, Chenzhong Li
 
@@ -411,6 +567,25 @@ are provided while they have difficulties without them. Our code for dataset
 building is available on GitHub.
 
 摘要：元音主要由舌頭位置決定。人類透過自己的經驗和明確的客觀觀察（例如使用 MRI）發現了元音發音的這些特徵。有了這些知識和經驗，我們可以解釋和理解舌頭位置和元音之間的關係，而這些知識對語言學習者學習發音很有幫助。由於語言模型 (LM) 是在包含語言學和醫學領域的大量資料上訓練的，我們的初步研究表明，LM 能夠解釋元音的發音機制。然而，尚不清楚多模態 LM（例如視覺 LM）是否將文字資訊與視覺資訊對齊。一個問題產生了：LM 是否將真實的舌頭位置與元音發音聯繫起來？在這項研究中，我們從現有的即時 MRI 資料集中建立了影片和影像資料集，並探討 LM 是否能根據舌頭位置使用基於視覺的資訊來理解元音發音。我們的研究結果表明，當提供參考範例時，LM 具有理解元音和舌頭位置的潛力，而沒有參考範例時則有困難。我們用於建立資料集的程式碼可在 GitHub 上取得。
+
+##### **Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**
+2501.18645v1 by Manish Sanwal
+
+Large Language Models (LLMs) leverage chain-of-thought (CoT) prompting to
+provide step-by-step rationales, improving performance on complex tasks.
+Despite its benefits, vanilla CoT often fails to fully verify intermediate
+inferences and can produce misleading explanations. In this work, we propose
+Layered Chain-of-Thought (Layered-CoT) Prompting, a novel framework that
+systematically segments the reasoning process into multiple layers, each
+subjected to external checks and optional user feedback. We expand on the key
+concepts, present three scenarios -- medical triage, financial risk assessment,
+and agile engineering -- and demonstrate how Layered-CoT surpasses vanilla CoT
+in terms of transparency, correctness, and user engagement. By integrating
+references from recent arXiv papers on interactive explainability, multi-agent
+frameworks, and agent-based collaboration, we illustrate how Layered-CoT paves
+the way for more reliable and grounded explanations in high-stakes domains.
+
+摘要：大型語言模型 (LLM) 利用思想鏈 (CoT) 提示提供逐步的理由，從而提高複雜任務的執行效能。儘管有其好處，但香草 CoT 經常無法完全驗證中間推論，並且可能產生誤導性的解釋。在這項工作中，我們提出分層思想鏈 (Layered-CoT) 提示，這是一個新穎的框架，它系統性地將推理過程分段成多個層次，每個層次都經過外部檢查和可選的使用者回饋。我們擴展了關鍵概念，提出了三種場景——醫療分流、財務風險評估和敏捷工程——並展示了分層 CoT 在透明度、正確性和使用者參與度方面如何超越香草 CoT。透過整合來自近期 arXiv 論文關於互動可解釋性、多主體框架和基於主體的協作的參考，我們說明了分層 CoT 如何為高風險領域提供更可靠且有根據的解釋鋪路。
 
 ##### **An Exceptional Dataset For Rare Pancreatic Tumor Segmentation**
 2501.17555v1 by Wenqi Li, Yingli Chen, Keyang Zhou, Xiaoxiao Hu, Zilu Zheng, Yue Yan, Xinpeng Zhang, Wei Tang, Zhenxing Qian
@@ -1318,6 +1493,26 @@ improvements in the agent capabilities of large language models within the
 medical domain.
 
 摘要：<paragraph>最近的大型语言模型 (LLM) 已展示出显著的进步，特别是在其作为代理的能力方面，从而超越了其作为聊天机器人的传统角色。这些代理可以利用其规划和工具利用能力来解决在高层指定的任务。然而，目前缺乏用于对医疗应用中 LLM 的代理能力进行基准测试的标准化数据集，这使得在交互式医疗保健环境中对 LLM 在复杂任务上的评估具有挑战性。为了解决这一差距，我们引入了 MedAgentBench，这是一个广泛的评估套件，旨在评估大型语言模型在医疗记录背景下的代理能力。MedAgentBench 包含 100 个由人类医生编写的来自 10 个类别的特定于患者的临床任务、100 个患者的真实个人资料（包含超过 700,000 个数据元素）、一个符合 FHIR 的交互式环境以及一个配套的代码库。该环境使用现代 EMR 系统中使用的标准 API 和通信基础设施，因此可以轻松地迁移到实时 EMR 系统中。MedAgentBench 呈现了一个未饱和的以代理为导向的基准，当前最先进的 LLM 表现出一定程度的成功能力。最好的模型 (GPT-4o) 的成功率达到 72%。然而，仍然有很大的改进空间，可以为社区提供优化方向。此外，不同任务类别之间的性能差异很大。MedAgentBench 建立了这一点，并在 https://github.com/stanfordmlgroup/MedAgentBench 公开提供，为模型开发者提供了一个有价值的框架，用于跟踪进度并推动大型语言模型在医疗领域的代理能力的持续改进。</paragraph>
+
+##### **Review and Recommendations for using Artificial Intelligence in Intracoronary Optical Coherence Tomography Analysis**
+2501.18614v1 by Xu Chen, Yuan Huang, Benn Jessney, Jason Sangha, Sophie Gu, Carola-Bibiane Schönlieb, Martin Bennett, Michael Roberts
+
+Artificial intelligence (AI) methodologies hold great promise for the rapid
+and accurate diagnosis of coronary artery disease (CAD) from intravascular
+optical coherent tomography (IVOCT) images. Numerous papers have been published
+describing AI-based models for different diagnostic tasks, yet it remains
+unclear which models have potential clinical utility and have been properly
+validated. This systematic review considered published literature between
+January 2015 and February 2023 describing AI-based diagnosis of CAD using
+IVOCT. Our search identified 5,576 studies, with 513 included after initial
+screening and 35 studies included in the final systematic review after quality
+screening. Our findings indicate that most of the identified models are not
+currently suitable for clinical use, primarily due to methodological flaws and
+underlying biases. To address these issues, we provide recommendations to
+improve model quality and research practices to enhance the development of
+clinically useful AI products.
+
+摘要：人工智慧 (AI) 方法論對於從血管內光學相干斷層掃描 (IVOCT) 影像快速且準確診斷冠狀動脈疾病 (CAD) 而言，具有很大的前景。許多論文已發表，說明了用於不同診斷任務的 AI 基礎模型，但仍不清楚哪些模型具有潛在的臨床用途，且已獲得適當驗證。這項系統性回顧考量了 2015 年 1 月至 2023 年 2 月間發表的文獻，說明了使用 IVOCT 的 CAD AI 基礎診斷。我們的搜尋辨識出 5,576 項研究，在初步篩選後納入 513 項，在品質篩選後納入 35 項研究進行最終的系統性回顧。我們的發現顯示，大多數已辨識出的模型目前不適合用於臨床，主要是因為方法論上的缺陷和潛在偏差。為了解決這些問題，我們提供建議來改善模型品質和研究實務，以增強臨床有用 AI 產品的開發。
 
 ##### **Registration of Longitudinal Liver Examinations for Tumor Progress Assessment**
 2501.14483v1 by Walid Yassine, Martin Charachon, Céline Hudelot, Roberto Ardon
@@ -2440,217 +2635,4 @@ approach through a case study in Lahore, Pakistan, where multi-resolution data
 is used to generate the air quality index map at a fine spatiotemporal scale.
 
 摘要：監控空氣污染對於保護人類健康免於接觸有害物質至關重要。傳統的空氣品質監測方法，例如地面感測器和衛星遙測，由於部署成本高、感測器覆蓋範圍稀疏以及環境干擾而面臨限制。為了應對這些挑戰，本文提出了一個使用稀疏感測器資料、衛星影像和各種時空因子來繪製高解析度時空空氣品質指數 (AQI) 的架構。透過利用圖形神經網路 (GNN)，我們根據空間和時間依賴性來估計未監控地點的 AQI 值。該架構結合了廣泛的環境特徵，包括氣象資料、道路網路、興趣點 (PoI)、人口密度和城市綠地，這些特徵增強了預測準確度。我們透過巴基斯坦拉合爾的一個案例研究來說明我們方法的使用，其中使用多解析度資料來生成精細時空尺度的空氣品質指數地圖。
-
-##### **A Layered Multi-Expert Framework for Long-Context Mental Health Assessments**
-2501.13951v1 by Jinwen Tang, Qiming Guo, Wenbo Sun, Yi Shang
-
-Long-form mental health assessments pose unique challenges for large language
-models (LLMs), which often exhibit hallucinations or inconsistent reasoning
-when handling extended, domain-specific contexts. We introduce Stacked
-Multi-Model Reasoning (SMMR), a layered framework that leverages multiple LLMs
-and specialized smaller models as coequal 'experts'. Early layers isolate
-short, discrete subtasks, while later layers integrate and refine these partial
-outputs through more advanced long-context models. We evaluate SMMR on the
-DAIC-WOZ depression-screening dataset and 48 curated case studies with
-psychiatric diagnoses, demonstrating consistent improvements over single-model
-baselines in terms of accuracy, F1-score, and PHQ-8 error reduction. By
-harnessing diverse 'second opinions', SMMR mitigates hallucinations, captures
-subtle clinical nuances, and enhances reliability in high-stakes mental health
-assessments. Our findings underscore the value of multi-expert frameworks for
-more trustworthy AI-driven screening.
-
-摘要：長篇心理健康評估對大型語言模型 (LLM) 構成獨特挑戰，在處理延伸的特定領域脈絡時，LLM 經常出現幻覺或不一致的推理。我們引入了堆疊多模型推理 (SMMR)，這是一個分層架構，利用多個 LLM 和專業的小型模型作為對等的「專家」。早期層隔離短小、離散的子任務，而後續層則透過更先進的長脈絡模型整合並精煉這些部分輸出。我們在 DAIC-WOZ 憂鬱症篩選資料集和 48 個經過整理的案例研究中評估 SMMR，其中包含精神疾病診斷，證明其在準確性、F1 分數和 PHQ-8 錯誤減少方面持續優於單一模型基準。透過利用不同的「第二意見」，SMMR 減輕了幻覺，捕捉到細微的臨床差異，並提高了高風險心理健康評估的可靠性。我們的發現強調了多專家架構在更值得信賴的 AI 驅動篩選中的價值。
-
-##### **Clinical trial cohort selection using Large Language Models on n2c2 Challenges**
-2501.11114v1 by Chi-en Amy Tai, Xavier Tannier
-
-Clinical trials are a critical process in the medical field for introducing
-new treatments and innovations. However, cohort selection for clinical trials
-is a time-consuming process that often requires manual review of patient text
-records for specific keywords. Though there have been studies on standardizing
-the information across the various platforms, Natural Language Processing (NLP)
-tools remain crucial for spotting eligibility criteria in textual reports.
-Recently, pre-trained large language models (LLMs) have gained popularity for
-various NLP tasks due to their ability to acquire a nuanced understanding of
-text. In this paper, we study the performance of large language models on
-clinical trial cohort selection and leverage the n2c2 challenges to benchmark
-their performance. Our results are promising with regard to the incorporation
-of LLMs for simple cohort selection tasks, but also highlight the difficulties
-encountered by these models as soon as fine-grained knowledge and reasoning are
-required.
-
-摘要：臨床試驗是醫學領域中引入新療法和創新的關鍵過程。然而，臨床試驗的患者群體選擇是一個耗時的過程，通常需要人工審查病患的文字記錄，以尋找特定的關鍵字。儘管有研究針對不同平台上的資訊進行標準化，自然語言處理 (NLP) 工具對於在文字報告中找出符合資格的標準仍然至關重要。最近，預先訓練的大型語言模型 (LLM) 因其獲取細緻文本理解的能力而廣受各種 NLP 任務歡迎。在本文中，我們研究大型語言模型在臨床試驗患者群體選擇上的表現，並利用 n2c2 挑戰來評量其表現。我們的結果對於將 LLM 納入簡單的患者群體選擇任務而言是很有希望的，但也強調了這些模型在需要具備細緻知識和推理能力時所遇到的困難。
-
-##### **Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**
-2501.11094v1 by Mohaiminul Islam Bhuiyan, Nur Shazwani Kamarudin, Nur Hafieza Ismail
-
-Suicidal ideation detection is crucial for preventing suicides, a leading
-cause of death worldwide. Many individuals express suicidal thoughts on social
-media, offering a vital opportunity for early detection through advanced
-machine learning techniques. The identification of suicidal ideation in social
-media text is improved by utilising a hybrid framework that integrates
-Convolutional Neural Networks (CNN) and Bidirectional Long Short-Term Memory
-(BiLSTM), enhanced with an attention mechanism. To enhance the interpretability
-of the model's predictions, Explainable AI (XAI) methods are applied, with a
-particular focus on SHapley Additive exPlanations (SHAP), are incorporated. At
-first, the model managed to reach an accuracy of 92.81%. By applying
-fine-tuning and early stopping techniques, the accuracy improved to 94.29%. The
-SHAP analysis revealed key features influencing the model's predictions, such
-as terms related to mental health struggles. This level of transparency boosts
-the model's credibility while helping mental health professionals understand
-and trust the predictions. This work highlights the potential for improving the
-accuracy and interpretability of detecting suicidal tendencies, making a
-valuable contribution to the progress of mental health monitoring systems. It
-emphasizes the significance of blending powerful machine learning methods with
-explainability to develop reliable and impactful mental health solutions.
-
-摘要：自殺意念偵測對於預防自殺至關重要，而自殺是全球主要的死亡原因。許多人在社群媒體上表達自殺念頭，這提供了透過進階機器學習技術進行早期偵測的重要機會。透過整合卷積神經網路 (CNN) 和雙向長短期記憶 (BiLSTM) 的混合架構，並加入注意力機制，可以提升在社群媒體文字中辨識自殺意念的能力。為了加強模型預測的可解釋性，我們採用可解釋人工智慧 (XAI) 方法，特別著重於 SHapley 加法解釋 (SHAP)。一開始，模型成功達到 92.81% 的準確度。透過套用微調和早期停止技術，準確度提升至 94.29%。SHAP 分析揭露了影響模型預測的關鍵特徵，例如與心理健康困境相關的詞彙。這種透明度提升了模型的可信度，同時協助心理健康專業人員理解和信賴預測結果。這項工作突顯了提升偵測自殺傾向的準確度和可解釋性的潛力，為心理健康監控系統的進展做出寶貴的貢獻。它強調了將強大的機器學習方法與可解釋性相結合以開發可靠且有影響力的心理健康解決方案的重要性。
-
-##### **No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-k Patch Sampling**
-2501.10814v1 by Young Seok Jeon, Hongfei Yang, Huazhu Fu, Mengling Feng
-
-3D models are favored over 2D for 3D medical image segmentation tasks due to
-their ability to leverage inter-slice relationship, yielding higher
-segmentation accuracy. However, 3D models demand significantly more GPU memory
-with increased model size and intermediate tensors. A common solution is to use
-patch-based training and make whole-volume predictions with sliding window (SW)
-inference. SW inference reduces memory usage but is slower due to equal
-resource allocation across patches and less accurate as it overlooks global
-features beyond patches.
-  We propose NMSW-Net (No-More-Sliding-Window-Net), a novel framework that
-enhances efficiency and accuracy of any given 3D segmentation model by
-eliminating SW inference and incorporating global predictions when necessary.
-NMSW-Net incorporates a differentiable Top-k module to sample only the relevant
-patches that enhance segmentation accuracy, thereby minimizing redundant
-computations. Additionally, it learns to leverage coarse global predictions
-when patch prediction alone is insufficient. NMSW-Net is model-agnostic, making
-it compatible with any 3D segmentation model that previously relied on SW
-inference.
-  Evaluated across 3 tasks with 3 segmentation backbones, NMSW-Net achieves
-competitive or sometimes superior accuracy compared to SW, while reducing
-computational complexity by 90% (87.5 to 7.95 TFLOPS), delivering 4x faster
-inference on the H100 GPU (19.0 to 4.3 sec), and 7x faster inference on the
-Intel Xeon Gold CPU (1710 to 230 seconds).
-
-摘要：<paragraph>3D 模型在 3D 医学影像分割任务中优于 2D，因为
-它们能够利用切片间关系，从而产生更高的
-分割精度。然而，3D 模型需要大量 GPU 内存
-随着模型大小和中间张量的增加。一种常见的解决方案是使用
-基于 patch 的训练并使用滑动窗口 (SW)
-推理进行全卷预测。SW 推理减少了内存使用量，但由于
-在 patch 之间平均分配资源并且由于忽略了 patch 之外的全局
-特征而导致速度较慢且准确度较低。
-我们提出了 NMSW-Net（无滑动窗口网络），这是一种新颖的框架，它
-通过消除 SW 推理并在必要时合并全局预测来提高任何给定 3D 分割模型的效率和准确性。
-NMSW-Net 结合了一个可微分的 Top-k 模块来仅采样相关
-patch，以提高分割精度，从而最大限度地减少冗余
-计算。此外，它学会了在仅 patch 预测不足时利用粗略的全局预测。NMSW-Net 与模型无关，使其
-与以前依赖 SW 的任何 3D 分割模型兼容
-推理。
-在 3 个带有 3 个分割主干的任务中进行评估，NMSW-Net 实现了
-与 SW 相比具有竞争力或有时更高的准确性，同时减少
-计算复杂度降低了 90%（87.5 到 7.95 TFLOPS），在 H100 GPU 上提供 4 倍更快的
-推理（19.0 到 4.3 秒），以及在
-英特尔至强金 CPU 上推理速度提高 7 倍（1710 到 230 秒）。</paragraph>
-
-##### **Efficient Auto-Labeling of Large-Scale Poultry Datasets (ALPD) Using Semi-Supervised Models, Active Learning, and Prompt-then-Detect Approach**
-2501.10809v1 by Ramesh Bahadur Bist, Lilong Chai, Shawna Weimer, Hannah Atungulua, Chantel Pennicott, Xiao Yang, Sachin Subedi, Chaitanya Pallerla, Yang Tian, Dongyi Wang
-
-The rapid growth of AI in poultry farming has highlighted the challenge of
-efficiently labeling large, diverse datasets. Manual annotation is
-time-consuming, making it impractical for modern systems that continuously
-generate data. This study explores semi-supervised auto-labeling methods,
-integrating active learning, and prompt-then-detect paradigm to develop an
-efficient framework for auto-labeling of large poultry datasets aimed at
-advancing AI-driven behavior and health monitoring. Viideo data were collected
-from broilers and laying hens housed at the University of Arkansas and the
-University of Georgia. The collected videos were converted into images,
-pre-processed, augmented, and labeled. Various machine learning models,
-including zero-shot models like Grounding DINO, YOLO-World, and CLIP, and
-supervised models like YOLO and Faster-RCNN, were utilized for broilers, hens,
-and behavior detection. The results showed that YOLOv8s-World and YOLOv9s
-performed better when compared performance metrics for broiler and hen
-detection under supervised learning, while among the semi-supervised model,
-YOLOv8s-ALPD achieved the highest precision (96.1%) and recall (99.0%) with an
-RMSE of 1.9. The hybrid YOLO-World model, incorporating the optimal YOLOv8s
-backbone, demonstrated the highest overall performance. It achieved a precision
-of 99.2%, recall of 99.4%, and an F1 score of 98.7% for breed detection,
-alongside a precision of 88.4%, recall of 83.1%, and an F1 score of 84.5% for
-individual behavior detection. Additionally, semi-supervised models showed
-significant improvements in behavior detection, achieving up to 31% improvement
-in precision and 16% in F1-score. The semi-supervised models with minimal
-active learning reduced annotation time by over 80% compared to full manual
-labeling. Moreover, integrating zero-shot models enhanced detection and
-behavior identification.
-
-摘要：<paragraph>家禽养殖中人工智能的快速增长凸显了高效标注大型、多样化数据集的挑战。手动标注非常耗时，对于持续生成数据的现代系统而言不切实际。本研究探索了半监督自动标注方法，集成了主动学习和提示再检测范式，以开发一个高效的框架，用于自动标注大型家禽数据集，旨在推进人工智能驱动的行为和健康监测。视频数据是从阿肯色大学和佐治亚大学饲养的肉鸡和蛋鸡中收集的。收集的视频被转换成图像，经过预处理、增强和标注。各种机器学习模型，包括 Grounding DINO、YOLO-World 和 CLIP 等零样本学习模型，以及 YOLO 和 Faster-RCNN 等监督模型，被用于肉鸡、母鸡和行为检测。结果表明，在监督学习下，YOLOv8s-World 和 YOLOv9s 在肉鸡和母鸡检测的性能指标比较中表现得更好，而在半监督模型中，YOLOv8s-ALPD 以 1.9 的 RMSE 实现了最高的精度 (96.1%) 和召回率 (99.0%)。结合了最佳 YOLOv8s 主干网络的混合 YOLO-World 模型展示了最高的整体性能。它在品种检测中实现了 99.2% 的精度、99.4% 的召回率和 98.7% 的 F1 分数，在个体行为检测中实现了 88.4% 的精度、83.1% 的召回率和 84.5% 的 F1 分数。此外，半监督模型在行为检测中显示出显著的改进，在精度上提高了 31%，在 F1 分数上提高了 16%。与完全手动标注相比，具有最少主动学习的半监督模型将标注时间减少了 80% 以上。此外，集成零样本学习模型增强了检测和行为识别。</paragraph>
-
-##### **An Integrated Approach to AI-Generated Content in e-health**
-2501.16348v1 by Tasnim Ahmed, Salimur Choudhury
-
-Artificial Intelligence-Generated Content, a subset of Generative Artificial
-Intelligence, holds significant potential for advancing the e-health sector by
-generating diverse forms of data. In this paper, we propose an end-to-end
-class-conditioned framework that addresses the challenge of data scarcity in
-health applications by generating synthetic medical images and text data,
-evaluating on practical applications such as retinopathy detection, skin
-infections and mental health assessments. Our framework integrates Diffusion
-and Large Language Models (LLMs) to generate data that closely match real-world
-patterns, which is essential for improving downstream task performance and
-model robustness in e-health applications. Experimental results demonstrate
-that the synthetic images produced by the proposed diffusion model outperform
-traditional GAN architectures. Similarly, in the text modality, data generated
-by uncensored LLM achieves significantly better alignment with real-world data
-than censored models in replicating the authentic tone.
-
-摘要：人工智能生成內容，是生成式人工智能的子集，它透過產生各種形式的資料，為電子健康領域的進步帶來顯著的潛力。在本文中，我們提出一個端對端的類條件架構，透過產生合成醫學影像和文字資料，來解決健康應用中資料稀缺的挑戰，並評估在實際應用中的表現，例如視網膜病變偵測、皮膚感染和心理健康評估。我們的架構整合了擴散和大型語言模型 (LLM)，以產生與真實世界模式密切匹配的資料，這對於改善電子健康應用中的下游任務效能和模型穩健性至關重要。實驗結果證明，所提出的擴散模型產生的合成影像優於傳統的 GAN 架構。同樣地，在文字模式中，未經審查的 LLM 所產生的資料在複製真實語氣方面，比經過審查的模型獲得顯著更好的對齊。
-
-##### **MedFILIP: Medical Fine-grained Language-Image Pre-training**
-2501.10775v1 by Xinjie Liang, Xiangyu Li, Fanding Li, Jie Jiang, Qing Dong, Wei Wang, Kuanquan Wang, Suyu Dong, Gongning Luo, Shuo Li
-
-Medical vision-language pretraining (VLP) that leverages naturally-paired
-medical image-report data is crucial for medical image analysis. However,
-existing methods struggle to accurately characterize associations between
-images and diseases, leading to inaccurate or incomplete diagnostic results. In
-this work, we propose MedFILIP, a fine-grained VLP model, introduces medical
-image-specific knowledge through contrastive learning, specifically: 1) An
-information extractor based on a large language model is proposed to decouple
-comprehensive disease details from reports, which excels in extracting disease
-deals through flexible prompt engineering, thereby effectively reducing text
-complexity while retaining rich information at a tiny cost. 2) A knowledge
-injector is proposed to construct relationships between categories and visual
-attributes, which help the model to make judgments based on image features, and
-fosters knowledge extrapolation to unfamiliar disease categories. 3) A semantic
-similarity matrix based on fine-grained annotations is proposed, providing
-smoother, information-richer labels, thus allowing fine-grained image-text
-alignment. 4) We validate MedFILIP on numerous datasets, e.g., RSNA-Pneumonia,
-NIH ChestX-ray14, VinBigData, and COVID-19. For single-label, multi-label, and
-fine-grained classification, our model achieves state-of-the-art performance,
-the classification accuracy has increased by a maximum of 6.69\%. The code is
-available in https://github.com/PerceptionComputingLab/MedFILIP.
-
-摘要：醫學影像語言預訓練（VLP）利用自然配對的醫學影像報告數據，對於醫學影像分析至關重要。然而，現有方法難以準確描述影像與疾病之間的關聯性，導致診斷結果不準確或不完整。在這項工作中，我們提出 MedFILIP，一個細粒度的 VLP 模型，透過對比學習引入醫學影像特定知識，具體來說：1) 提出一個基於大型語言模型的資訊萃取器，從報告中解耦全面的疾病細節，透過靈活的提示工程，在提取疾病交易方面表現出色，從而有效降低文字複雜性，同時以極小的代價保留豐富的資訊。2) 提出一個知識注入器，用於建構類別與視覺屬性之間的關係，這有助於模型根據影像特徵進行判斷，並促進知識外推到不熟悉的疾病類別。3) 提出一個基於細粒度註解的語義相似矩陣，提供更平滑、資訊更豐富的標籤，從而允許進行細粒度的影像文字對齊。4) 我們在許多資料集上驗證 MedFILIP，例如 RSNA-Pneumonia、NIH ChestX-ray14、VinBigData 和 COVID-19。對於單標籤、多標籤和細粒度分類，我們的模型達到了最先進的效能，分類準確率最高提高了 6.69%。程式碼可在 https://github.com/PerceptionComputingLab/MedFILIP 中取得。
-
-##### **Enhancing Diagnostic in 3D COVID-19 Pneumonia CT-scans through Explainable Uncertainty Bayesian Quantification**
-2501.10770v1 by Juan Manuel Liscano Fierro, Hector J. Hortua
-
-Accurately classifying COVID-19 pneumonia in 3D CT scans remains a
-significant challenge in the field of medical image analysis. Although
-deterministic neural networks have shown promising results in this area, they
-provide only point estimates outputs yielding poor diagnostic in clinical
-decision-making. In this paper, we explore the use of Bayesian neural networks
-for classifying COVID-19 pneumonia in 3D CT scans providing uncertainties in
-their predictions. We compare deterministic networks and their Bayesian
-counterpart, enhancing the decision-making accuracy under uncertainty
-information. Remarkably, our findings reveal that lightweight architectures
-achieve the highest accuracy of 96\% after developing extensive hyperparameter
-tuning. Furthermore, the Bayesian counterpart of these architectures via
-Multiplied Normalizing Flow technique kept a similar performance along with
-calibrated uncertainty estimates. Finally, we have developed a 3D-visualization
-approach to explain the neural network outcomes based on SHAP values. We
-conclude that explainability along with uncertainty quantification will offer
-better clinical decisions in medical image analysis, contributing to ongoing
-efforts for improving the diagnosis and treatment of COVID-19 pneumonia.
-
-摘要：準確分類 3D 電腦斷層掃描中的 COVID-19 肺炎在醫學影像分析領域中仍是一項重大挑戰。儘管確定性神經網路已在此領域中展現出令人滿意的結果，但它們僅提供點估計輸出，在臨床決策中產生不良的診斷。在本文中，我們探討使用貝氏神經網路來分類 3D 電腦斷層掃描中的 COVID-19 肺炎，並在預測中提供不確定性。我們比較確定性網路及其貝氏對應網路，在不確定性資訊下提升決策的準確性。值得注意的是，我們的發現顯示，在經過廣泛的超參數調整後，輕量級架構可達到 96% 的最高準確度。此外，這些架構的貝氏對應網路透過乘法正規化流技術，在校準不確定性估計的同時，維持類似的效能。最後，我們已開發出 3D 視覺化方法，以根據 SHAP 值來解釋神經網路的結果。我們得出結論，可解釋性與不確定性量化將在醫學影像分析中提供更好的臨床決策，有助於持續改善 COVID-19 肺炎的診斷和治療。
 

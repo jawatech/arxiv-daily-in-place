@@ -5,18 +5,18 @@
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403v1](http://arxiv.org/abs/2501.19403v1)|null|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400v1](http://arxiv.org/abs/2501.19400v1)|[link](https://github.com/dunnolab/vintix)|
 |**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399v1](http://arxiv.org/abs/2501.19399v1)|null|
-|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398v1](http://arxiv.org/abs/2501.19398v1)|null|
-|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393v1](http://arxiv.org/abs/2501.19393v1)|[link](https://github.com/simplescaling/s1)|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398v1](http://arxiv.org/abs/2501.19398v1)|[link](https://github.com/mustafakarabag/llmchameleon)|
+|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393v2](http://arxiv.org/abs/2501.19393v2)|[link](https://github.com/simplescaling/s1)|
 |**2025-01-31**|**Decoding-based Regression**|Xingyou Song et.al.|[2501.19383v1](http://arxiv.org/abs/2501.19383v1)|[link](https://github.com/google-research/optformer)|
 |**2025-01-31**|**TableMaster: A Recipe to Advance Table Understanding with Language Models**|Lang Cao et.al.|[2501.19378v1](http://arxiv.org/abs/2501.19378v1)|null|
-|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377v1](http://arxiv.org/abs/2501.19377v1)|null|
+|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377v2](http://arxiv.org/abs/2501.19377v2)|null|
 |**2025-01-31**|**CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**|Javier Solís-García et.al.|[2501.19364v1](http://arxiv.org/abs/2501.19364v1)|[link](https://github.com/javiersgjavi/costi)|
 |**2025-01-31**|**We're Different, We're the Same: Creative Homogeneity Across LLMs**|Emily Wenger et.al.|[2501.19361v1](http://arxiv.org/abs/2501.19361v1)|null|
 |**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353v1](http://arxiv.org/abs/2501.19353v1)|null|
 |**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339v1](http://arxiv.org/abs/2501.19339v1)|null|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
 |**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337v1](http://arxiv.org/abs/2501.19337v1)|null|
-|**2025-01-31**|**What is causal about causal models and representations?**|Frederik Hytting Jørgensen et.al.|[2501.19335v1](http://arxiv.org/abs/2501.19335v1)|null|
+|**2025-01-31**|**What is causal about causal models and representations?**|Frederik Hytting Jørgensen et.al.|[2501.19335v2](http://arxiv.org/abs/2501.19335v2)|null|
 |**2025-01-31**|**Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation**|Jan Pauls et.al.|[2501.19328v1](http://arxiv.org/abs/2501.19328v1)|null|
 |**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324v1](http://arxiv.org/abs/2501.19324v1)|null|
 |**2025-01-31**|**Language Bias in Self-Supervised Learning For Automatic Speech Recognition**|Edward Storey et.al.|[2501.19321v1](http://arxiv.org/abs/2501.19321v1)|null|
@@ -25,19 +25,19 @@
 |**2025-01-31**|**Reverse Probing: Evaluating Knowledge Transfer via Finetuned Task Embeddings for Coreference Resolution**|Tatiana Anikina et.al.|[2501.19316v1](http://arxiv.org/abs/2501.19316v1)|null|
 |**2025-01-31**|**An Efficient Approach for Machine Translation on Low-resource Languages: A Case Study in Vietnamese-Chinese**|Tran Ngoc Son et.al.|[2501.19314v1](http://arxiv.org/abs/2501.19314v1)|null|
 |**2025-01-31**|**Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**|Gregor Bachmann et.al.|[2501.19309v1](http://arxiv.org/abs/2501.19309v1)|null|
-|**2025-01-31**|**SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling**|Jiefeng Chen et.al.|[2501.19306v1](http://arxiv.org/abs/2501.19306v1)|null|
+|**2025-01-31**|**SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling**|Jiefeng Chen et.al.|[2501.19306v2](http://arxiv.org/abs/2501.19306v2)|null|
 |**2025-01-31**|**Beyond checkmate: exploring the creative chokepoints in AI text**|Nafis Irtiza Tripto et.al.|[2501.19301v1](http://arxiv.org/abs/2501.19301v1)|[link](https://github.com/tripto03/chess_inspired_human_ai_text_distinction)|
 |**2025-01-31**|**Synthetic User Behavior Sequence Generation with Large Language Models for Smart Homes**|Zhiyao Xu et.al.|[2501.19298v1](http://arxiv.org/abs/2501.19298v1)|null|
 |**2025-01-31**|**Analysis of LLMs vs Human Experts in Requirements Engineering**|Cory Hymel et.al.|[2501.19297v1](http://arxiv.org/abs/2501.19297v1)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278v1](http://arxiv.org/abs/2501.19278v1)|null|
 |**2025-01-31**|**Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks**|Halil Ibrahim Aysel et.al.|[2501.19271v1](http://arxiv.org/abs/2501.19271v1)|null|
 |**2025-01-31**|**Jackpot! Alignment as a Maximal Lottery**|Roberto-Rafael Maura-Rivero et.al.|[2501.19266v1](http://arxiv.org/abs/2501.19266v1)|null|
-|**2025-01-31**|**mFollowIR: a Multilingual Benchmark for Instruction Following in Retrieval**|Orion Weller et.al.|[2501.19264v1](http://arxiv.org/abs/2501.19264v1)|null|
+|**2025-01-31**|**mFollowIR: a Multilingual Benchmark for Instruction Following in Retrieval**|Orion Weller et.al.|[2501.19264v1](http://arxiv.org/abs/2501.19264v1)|[link](https://github.com/orionw/followir)|
 |**2025-01-31**|**VisualSpeech: Enhance Prosody with Visual Context in TTS**|Shumin Que et.al.|[2501.19258v1](http://arxiv.org/abs/2501.19258v1)|null|
-|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245v1](http://arxiv.org/abs/2501.19245v1)|null|
+|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245v2](http://arxiv.org/abs/2501.19245v2)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232v1](http://arxiv.org/abs/2501.19232v1)|null|
 |**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227v1](http://arxiv.org/abs/2501.19227v1)|null|
-|**2025-01-31**|**Improving the Robustness of Representation Misdirection for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2501.19202v1](http://arxiv.org/abs/2501.19202v1)|null|
+|**2025-01-31**|**Improving the Robustness of Representation Misdirection for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2501.19202v2](http://arxiv.org/abs/2501.19202v2)|[link](https://github.com/rebelsnlu-jaist/llmu-robustness)|
 |**2025-01-31**|**Efficient Reasoning with Hidden Thinking**|Xuan Shen et.al.|[2501.19201v1](http://arxiv.org/abs/2501.19201v1)|[link](https://github.com/shawnricecake/heima)|
 |**2025-01-31**|**Secured Communication Schemes for UAVs in 5G: CRYSTALS-Kyber and IDS**|Taneya Sharma et.al.|[2501.19191v1](http://arxiv.org/abs/2501.19191v1)|[link](https://github.com/taneya1987/crystals-kyber-and-ids)|
 |**2025-01-31**|**Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning**|Xianglin Yang et.al.|[2501.19180v1](http://arxiv.org/abs/2501.19180v1)|null|
@@ -54,13 +54,13 @@
 |**2025-01-31**|**BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting**|Zhixuan Li et.al.|[2501.19065v1](http://arxiv.org/abs/2501.19065v1)|null|
 |**2025-01-31**|**Enabling Autonomic Microservice Management through Self-Learning Agents**|Fenglin Yu et.al.|[2501.19056v1](http://arxiv.org/abs/2501.19056v1)|null|
 |**2025-01-31**|**Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer**|Lingwei Zhu et.al.|[2501.19055v1](http://arxiv.org/abs/2501.19055v1)|null|
-|**2025-01-31**|**Understanding Model Calibration -- A gentle introduction and visual exploration of calibration and the expected calibration error (ECE)**|Maja Pavlovic et.al.|[2501.19047v1](http://arxiv.org/abs/2501.19047v1)|null|
+|**2025-01-31**|**Understanding Model Calibration -- A gentle introduction and visual exploration of calibration and the expected calibration error (ECE)**|Maja Pavlovic et.al.|[2501.19047v2](http://arxiv.org/abs/2501.19047v2)|null|
 |**2025-01-31**|**Swarm-Gen: Fast Generation of Diverse Feasible Swarm Behaviors**|Simon Idoko et.al.|[2501.19042v1](http://arxiv.org/abs/2501.19042v1)|[link](https://github.com/cisimon7/swarmgen)|
 |**2025-01-31**|**On the Impact of Noise in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2501.19022v1](http://arxiv.org/abs/2501.19022v1)|[link](https://github.com/sjmeis/privfill)|
-|**2025-01-31**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v1](http://arxiv.org/abs/2501.19018v1)|null|
+|**2025-01-31**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v2](http://arxiv.org/abs/2501.19018v2)|null|
 |**2025-01-31**|**Calling a Spade a Heart: Gaslighting Multimodal Large Language Models via Negation**|Bin Zhu et.al.|[2501.19017v1](http://arxiv.org/abs/2501.19017v1)|null|
 |**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012v1](http://arxiv.org/abs/2501.19012v1)|null|
-|**2025-01-31**|**DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**|Wonjun Lee et.al.|[2501.19010v1](http://arxiv.org/abs/2501.19010v1)|null|
+|**2025-01-31**|**DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**|Wonjun Lee et.al.|[2501.19010v2](http://arxiv.org/abs/2501.19010v2)|null|
 |**2025-01-31**|**Virtual airways heatmaps to optimize point of entry location in lung biopsy planning systems**|Debora Gil et.al.|[2501.19003v1](http://arxiv.org/abs/2501.19003v1)|null|
 |**2025-01-31**|**Adversarial Attacks on AI-Generated Text Detection Models: A Token Probability-Based Approach Using Embeddings**|Ahmed K. Kadhim et.al.|[2501.18998v1](http://arxiv.org/abs/2501.18998v1)|null|
 |**2025-01-31**|**VKFPos: A Learning-Based Monocular Positioning with Variational Bayesian Extended Kalman Filter Integration**|Jian-Yu Chen et.al.|[2501.18994v1](http://arxiv.org/abs/2501.18994v1)|[link](https://github.com/ipclab/vkfpos)|
@@ -75,11 +75,11 @@
 |**2025-01-31**|**Lightspeed Geometric Dataset Distance via Sliced Optimal Transport**|Khai Nguyen et.al.|[2501.18901v1](http://arxiv.org/abs/2501.18901v1)|null|
 |**2025-01-31**|**Efficient Supernet Training with Orthogonal Softmax for Scalable ASR Model Compression**|Jingjing Xu et.al.|[2501.18895v1](http://arxiv.org/abs/2501.18895v1)|null|
 |**2025-01-31**|**Building Bridges, Not Walls -- Advancing Interpretability by Unifying Feature, Data, and Model Component Attribution**|Shichang Zhang et.al.|[2501.18887v1](http://arxiv.org/abs/2501.18887v1)|null|
-|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867v1](http://arxiv.org/abs/2501.18867v1)|null|
+|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867v2](http://arxiv.org/abs/2501.18867v2)|null|
 |**2025-01-31**|**REG: Rectified Gradient Guidance for Conditional Diffusion Models**|Zhengqi Gao et.al.|[2501.18865v1](http://arxiv.org/abs/2501.18865v1)|null|
 |**2025-01-31**|**BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning**|Han Zhong et.al.|[2501.18858v1](http://arxiv.org/abs/2501.18858v1)|null|
 |**2025-01-31**|**Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities**|Yaping Chai et.al.|[2501.18845v1](http://arxiv.org/abs/2501.18845v1)|null|
-|**2025-01-31**|**Partially Rewriting a Transformer in Natural Language**|Gonçalo Paulo et.al.|[2501.18838v1](http://arxiv.org/abs/2501.18838v1)|null|
+|**2025-01-31**|**Partially Rewriting a Transformer in Natural Language**|Gonçalo Paulo et.al.|[2501.18838v1](http://arxiv.org/abs/2501.18838v1)|[link](https://github.com/eleutherai/sae-auto-interp)|
 |**2025-01-31**|**Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming**|Mrinank Sharma et.al.|[2501.18837v1](http://arxiv.org/abs/2501.18837v1)|null|
 |**2025-01-31**|**Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential**|Chenyu Gao et.al.|[2501.18834v1](http://arxiv.org/abs/2501.18834v1)|null|
 |**2025-01-31**|**Structural Embedding Projection for Contextual Large Language Model Inference**|Vincent Enoasmo et.al.|[2501.18826v1](http://arxiv.org/abs/2501.18826v1)|null|
@@ -87,7 +87,7 @@
 |**2025-01-31**|**An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus**|Mohammad Fatahi et.al.|[2501.18821v1](http://arxiv.org/abs/2501.18821v1)|null|
 |**2025-01-31**|**Bridging the Reasoning Gap: Small LLMs Can Plan with Generalised Strategies**|Andrey Borro et.al.|[2501.18817v1](http://arxiv.org/abs/2501.18817v1)|[link](https://github.com/andrey-borro/reasoning-gap)|
 |**2025-01-31**|**Large Language Models as Common-Sense Heuristics**|Andrey Borro et.al.|[2501.18816v1](http://arxiv.org/abs/2501.18816v1)|null|
-|**2025-01-31**|**An Adversarial Approach to Register Extreme Resolution Tissue Cleared 3D Brain Images**|Abdullah Naziba et.al.|[2501.18815v1](http://arxiv.org/abs/2501.18815v1)|null|
+|**2025-01-31**|**An Adversarial Approach to Register Extreme Resolution Tissue Cleared 3D Brain Images**|Abdullah Naziba et.al.|[2501.18815v1](http://arxiv.org/abs/2501.18815v1)|[link](https://github.com/BioMedIA/IRTK)|
 |**2025-01-30**|**Every Image Listens, Every Image Dances: Music-Driven Image Animation**|Zhikang Dong et.al.|[2501.18801v1](http://arxiv.org/abs/2501.18801v1)|null|
 |**2025-01-30**|**Compositional Generalization Requires More Than Disentangled Representations**|Qiyao Liang et.al.|[2501.18797v1](http://arxiv.org/abs/2501.18797v1)|null|
 |**2025-01-30**|**Rope to Nope and Back Again: A New Hybrid Attention Strategy**|Bowen Yang et.al.|[2501.18795v1](http://arxiv.org/abs/2501.18795v1)|null|
@@ -198,7 +198,7 @@ interactions.
 摘要：<paragraph>基於大型語言模型 (LLM) 的代理已在包含非合作方的設定中變得常見。在這種設定中，代理的決策制定需要對其對手隱藏資訊、向其合作夥伴揭露資訊，並推論資訊以識別其他代理的特徵。為了調查 LLM 是否具備這些資訊控制和決策制定能力，我們讓 LLM 代理玩基於語言的隱藏身分遊戲，變色龍。在遊戲中，一群互不認識的非變色龍代理旨在識別變色龍代理，同時不透露秘密。該遊戲需要上述資訊控制能力，無論是作為變色龍還是非變色龍。實證結果表明，雖然非變色龍 LLM 代理識別出變色龍，但他們未能對變色龍隱藏秘密，而且他們的獲勝機率遠低於甚至微不足道的策略。為了正式解釋這種行為，我們對一系列策略進行了理論分析，從隱藏到揭露，並對非變色龍的獲勝機率提供了界限。根據不同策略的實證結果和理論分析，我們推論出基於 LLM 的非變色龍代理會向身分不明的代理透露過多資訊。我們的結果指出，當代 LLM 的一個弱點，包括 GPT-4、GPT-4o、Gemini 1.5 和 Claude 3.5 Sonnet，在策略互動中。</paragraph>
 
 ##### **s1: Simple test-time scaling**
-2501.19393v1 by Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
+2501.19393v2 by Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
 
 Test-time scaling is a promising new approach to language modeling that uses
 extra test-time compute to improve performance. Recently, OpenAI's o1 model
@@ -212,13 +212,13 @@ the model's thinking process or lengthening it by appending "Wait" multiple
 times to the model's generation when it tries to end. This can lead the model
 to double-check its answer, often fixing incorrect reasoning steps. After
 supervised finetuning the Qwen2.5-32B-Instruct language model on s1K and
-equipping it with budget forcing, our model s1 exceeds o1-preview on
-competition math questions by up to 27% (MATH and AIME24). Further, scaling s1
-with budget forcing allows extrapolating beyond its performance without
+equipping it with budget forcing, our model s1-32B exceeds o1-preview on
+competition math questions by up to 27% (MATH and AIME24). Further, scaling
+s1-32B with budget forcing allows extrapolating beyond its performance without
 test-time intervention: from 50% to 57% on AIME24. Our model, data, and code
-are open-source at https://github.com/simplescaling/s1.
+are open-source at https://github.com/simplescaling/s1
 
-摘要：測試時間擴展是一種語言建模的有前景新方法，它使用額外的測試時間運算來提升效能。最近，OpenAI 的 o1 模型展現了此功能，但沒有公開分享其方法，導致許多複製的努力。我們尋求最簡單的方法來達成測試時間擴展和強大的推理效能。首先，我們策劃一個小型資料集 s1K，其中包含 1,000 個問題，並配對推理軌跡，依據我們透過消融驗證的三個準則：難度、多樣性和品質。其次，我們開發預算強制來控制測試時間運算，透過強制終止模型的思考過程，或在模型嘗試結束時多次附加「等待」來延長思考過程。這可能會導致模型對其答案進行雙重檢查，通常可以修正不正確的推理步驟。在對 Qwen2.5-32B-Instruct 語言模型進行監督微調，並配備預算強制後，我們的模型 s1 在競賽數學問題上超越 o1-preview，最多達 27%（MATH 和 AIME24）。此外，使用預算強制擴展 s1 可推論超出其效能，而不需要測試時間介入：從 AIME24 的 50% 到 57%。我們的模型、資料和程式碼在 https://github.com/simplescaling/s1 開源。
+摘要：測試時間縮放是語言建模的一種有前途的新方法，它使用額外的測試時間計算來提升效能。最近，OpenAI 的 o1 模型展示了這種能力，但沒有公開分享其方法，導致許多複製工作。我們尋求最簡單的方法來實現測試時間縮放和強大的推理效能。首先，我們整理一個包含 1,000 個問題的小型資料集 s1K，並根據我們透過消融驗證的三個準則配對推理追蹤：難度、多樣性和品質。其次，我們開發預算強制來控制測試時間計算，方法是強制終止模型的思考過程，或在模型嘗試結束時多次附加「等待」來延長思考過程。這可能會導致模型仔細檢查其答案，通常會修正不正確的推理步驟。在對 Qwen2.5-32B-Instruct 語言模型進行監督微調並配備預算強制後，我們的模型 s1-32B 在競賽數學問題上超過 o1-preview，最多達 27%（MATH 和 AIME24）。此外，使用預算強制縮放 s1-32B 可以推演出超越其效能的表現，而無需測試時間介入：在 AIME24 上從 50% 提升到 57%。我們的模型、資料和程式碼在 https://github.com/simplescaling/s1 以開放原始碼形式提供
 
 ##### **Decoding-based Regression**
 2501.19383v1 by Xingyou Song, Dara Bahri
@@ -258,7 +258,7 @@ accuracy of 78.13% using GPT-4o-mini, surpassing existing baselines.
 摘要：表格作為表示結構化關係數據的基本格式。雖然目前的語言模型 (LM) 在許多基於文字的任務中表現出色，但由於表格數據的複雜特性（例如其結構化性質），它們在表格理解方面仍然面臨挑戰。在本文中，我們旨在增強 LM 以改善表格理解。我們確定了四個關鍵挑戰：1) 難以找到目標數據，2) 表格語義的不足，3) 文本推理中的數值不準確，以及 4) 符號推理中的語義不靈活性。為了解決這些問題，我們提出了 TableMaster，這是一個食譜和綜合框架，它整合了多種解決方案來克服這些障礙。TableMaster 首先提取相關的表格內容，並用豐富的語義上下文對其進行口頭化。此外，我們引入了自適應推理，這是一種靈活的方法，可在文本推理和符號推理之間動態調整，根據每個查詢定制推理過程。廣泛的分析和實驗證明了我們的發現和 TableMaster 的有效性。在 WikiTQ 數據集上，TableMaster 使用 GPT-4o-mini 達到了 78.13% 的準確度，超過了現有的基準。
 
 ##### **SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**
-2501.19377v1 by Dominik Wagner, Alexander Churchill, Siddarth Sigtia, Erik Marchi
+2501.19377v2 by Dominik Wagner, Alexander Churchill, Siddharth Sigtia, Erik Marchi
 
 In this work, we present and evaluate SELMA, a Speech-Enabled Language Model
 for virtual Assistant interactions that integrates audio and text as inputs to
@@ -276,7 +276,7 @@ performance compared to dedicated models for each individual task. SELMA yields
 relative Equal-Error Rate improvements of 64% on the VT detection task, and 22%
 on DDSD, while also achieving word error rates close to the baseline.
 
-摘要：在這項工作中，我們展示並評估 SELMA，一種語音啟用語言模型，用於虛擬助理互動，它將音訊和文字整合為輸入，以輸入大型語言模型 (LLM)。SELMA 被設計為同時處理與虛擬助理互動相關的三個主要任務和兩個輔助任務，並在單一的端對端模型中執行。我們使用低秩適應模組，以參數有效的方式訓練音訊編碼器和 LLM。此外，我們實作了一種特徵池化策略，讓系統能夠辨識全域模式，並提升在較不依賴個別序列元素的任務上的準確度。在語音觸發 (VT) 偵測、裝置導向語音偵測 (DDSD) 和自動語音辨識 (ASR) 的實驗結果中，證明了我們的方法大幅簡化了虛擬助理的典型輸入處理管線，並且與針對個別任務的專用模型相比，也提升了效能。SELMA 在 VT 偵測任務上獲得了 64% 的相對等錯誤率提升，在 DDSD 上獲得了 22% 的相對等錯誤率提升，同時在字元錯誤率上也接近基準。
+摘要：在這項工作中，我們提出並評估了 SELMA，一個語音啟用語言模型，用於虛擬助理互動，它將音訊和文字整合為大型語言模型 (LLM) 的輸入。SELMA 被設計為同時處理與虛擬助理互動相關的三個主要任務和兩個輔助任務，所有任務都在單一端到端模型中進行。我們採用低秩適應模組，用於音訊編碼器和 LLM 的參數有效率訓練。此外，我們實作了一個特徵池化策略，讓系統能辨識全域模式，並提升對不太依賴個別序列元素的任務的準確度。語音觸發 (VT) 偵測、裝置導向語音偵測 (DDSD) 和自動語音辨識 (ASR) 的實驗結果顯示，我們的做法大幅簡化了虛擬助理的典型輸入處理管線，而且也提升了效能，優於針對每個個別任務的專用模型。SELMA 在 VT 偵測任務上產生了 64% 的相對等錯誤率改進，在 DDSD 上產生了 22% 的改進，同時也在字元錯誤率上達到接近基線的表現。
 
 ##### **CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**
 2501.19364v1 by Javier Solís-García, Belén Vega-Márquez, Juan A. Nepomuceno, Isabel A. Nepomuceno-Chamorro
@@ -416,7 +416,7 @@ suggesting multiple mechanisms may contribute to homogeneity bias in AI.
 摘要：先前的研究表明，大型語言模型 (LLM) 和視覺語言模型 (VLM) 以比主流群體更同質的方式呈現邊緣群體。然而，這種同質性偏誤的底層機制仍然相對未被探討。我們提出這種偏誤源於在推論時間對令牌進行抽樣的機率分佈中的系統性差異。分析令牌抽樣分佈中的三個不確定性測量值——熵、困惑度和差異機率——我們發現，在某些模型中，特別是 GPT-4 Turbo 和 Llama-3.2，與其主流群體對應者（即白人美國人和男性）相比，在生成有關邊緣群體（即黑人美國人和女性）的文本時，令牌的抽樣更具確定性。雖然這些發現可能有助於解釋某些模型中的同質性偏誤，但這些模式並未在所有測試的 VLM 中複製，這表明多種機制可能導致 AI 中的同質性偏誤。
 
 ##### **What is causal about causal models and representations?**
-2501.19335v1 by Frederik Hytting Jørgensen, Luigi Gresele, Sebastian Weichwald
+2501.19335v2 by Frederik Hytting Jørgensen, Luigi Gresele, Sebastian Weichwald
 
 Causal Bayesian networks are 'causal' models since they make predictions
 about interventional distributions. To connect such causal model predictions to
@@ -442,7 +442,7 @@ conceptual foundations of causal representation learning, causal discovery, and
 causal abstraction, while also highlighting some limitations of existing
 approaches.
 
-摘要：因果贝叶斯网络是「因果」模型，因为它们对干预分布进行预测。为了将此类因果模型预测与真实世界结果联系起来，我们必须确定世界中的哪些动作对应于模型中的哪些干预。例如，要将动作解释为对治疗变量的干预，则该动作可能必须 a) 以对应于干预的方式改变治疗分布，并且 b) 不改变其他方面，例如结果如何取决于治疗；而一些变量的边际分布可能会因效果而改变。我们引入一个正式框架，以使对动作的不同解释作为干预措施的要求变得精确。我们证明了看似自然的动作解释为干预是循环的：根据这种解释，正确建模观测分布的每个因果贝叶斯网络在干预上也是微不足道的，并且没有任何动作产生可以证伪此类模型的经验数据。我们证明了一个不可能的结果：不存在非循环且同时满足一组自然条件的解释。相反，我们检查可能违反某些条件的非循环解释，并展示这如何反过来实现因果模型的证伪。通过严格检查因果贝叶斯网络如何成为世界的「因果」模型，而不是仅仅是一个数学对象，我们的正式框架有助于因果表示学习、因果发现和因果抽象的概念基础，同时还强调了现有方法的一些局限性。
+摘要：因果貝氏網路是「因果」模型，因為它們會對介入分佈做出預測。為了將此類因果模型預測與真實世界的結果連結，我們必須確定世界中的哪些動作對應於模型中的哪些介入。例如，要將動作解讀為對治療變數的介入，則該動作可能必須 a) 以對應於介入的方式來改變治療分佈，以及 b) 不改變其他面向，例如結果如何取決於治療；而某些變數的邊際分佈可能會因為效應而改變。我們引入一個正式架構來對動作作為介入的不同解讀做出此類要求。我們證明，將動作解讀為介入的看似自然解讀是循環的：在此解讀下，正確建模觀察分佈的每個因果貝氏網路在介入上也微不足道地有效，而且沒有動作會產生經驗資料，可能證偽此類模型。我們證明了一個不可能的結果：沒有解讀是非循環的，同時滿足一組自然的理想。相反地，我們檢視可能違反某些理想的非循環解讀，並展示這反過來如何能夠證偽因果模型。透過嚴謹地檢視因果貝氏網路如何成為世界的「因果」模型，而不是僅僅是一個數學物件，我們的正式架構有助於因果表徵學習、因果發現和因果抽象的概念基礎，同時也突顯了現有方法的一些限制。
 
 ##### **Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation**
 2501.19328v1 by Jan Pauls, Max Zimmer, Berkant Turan, Sassan Saatchi, Philippe Ciais, Sebastian Pokutta, Fabian Gieseke
@@ -633,7 +633,7 @@ on 2 and 8 H100s respectively.
 因此，我們提出以下問題：我們能調整驗證以識別正確但未對齊的回覆嗎？為此，我們從 LLM 作為評判者框架中汲取靈感，該框架證明 LLM 能夠以多樣化的方式評分答案。我們仔細設計了一個數據集，以在目標模型中引發相同的性能，方法是在嵌入之上訓練一個精簡模組，以對當前延續產生「判斷」。我們在 Llama-3.1 系列中展示了我們的策略，其中我們的 8b/405B-Judge 在 Llama-405B 上實現了 9 倍的加速，同時在大量的基準測試中保持其品質。這些優點即使在最佳化的推理框架中仍然存在，其中我們的方法分別在 2 個和 8 個 H100 上，針對 8B/70B-Judge 達到了每秒 141 個詞元，針對 8B/405B 達到了每秒 129 個詞元。
 
 ##### **SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling**
-2501.19306v1 by Jiefeng Chen, Jie Ren, Xinyun Chen, Chengrun Yang, Ruoxi Sun, Sercan Ö Arık
+2501.19306v2 by Jiefeng Chen, Jie Ren, Xinyun Chen, Chengrun Yang, Ruoxi Sun, Sercan Ö Arık
 
 Recent advancements in Large Language Models (LLMs) have created new
 opportunities to enhance performance on complex reasoning tasks by leveraging
@@ -650,7 +650,7 @@ challenging planning and reasoning benchmarks, compared to the alternatives, we
 demonstrate that SETS achieves significant performance improvements and more
 favorable test-time scaling laws.
 
-摘要：大型語言模型 (LLM) 的最新進展為透過利用測試時間計算來提升複雜推理任務的效能創造了新的機會。然而，傳統的方法（例如帶有大多數投票或獎勵模型評分的重複採樣）常常會面臨報酬遞減的問題，因為測試時間計算規模會增加，而且需要代價高昂的特定任務獎勵模型訓練。在本文中，我們提出自我增強測試時間擴充 (SETS)，這是一種新穎的方法，利用最近進階 LLM 的自我驗證和自我修正功能來克服這些限制。SETS 將採樣、自我驗證和自我修正整合到統一的架構中，實現有效且可擴充的測試時間計算，以提升複雜任務的能力。透過在具有挑戰性的規劃和推理基準上進行廣泛的實驗，與其他方法相比，我們證明 SETS 達到了顯著的效能提升，以及更理想的測試時間擴充定律。
+摘要：大型語言模型 (LLM) 的近期進展創造了新的機會，可透過利用測試時間運算來增強複雜推理任務的效能。然而，傳統方法（例如重複抽樣搭配多數決或獎勵模型評分）通常會面臨報酬遞減，因為測試時間運算會擴展，而且需要代價高昂的特定任務獎勵模型訓練。在本文中，我們提出自我增強測試時間擴展 (SETS)，這是一種新方法，可利用近期進階 LLM 的自我驗證和自我修正功能來克服這些限制。SETS 將抽樣、自我驗證和自我修正整合到統一架構中，讓複雜任務的測試時間運算得以有效率且具擴充性，進而提升功能。透過在具挑戰性的規劃和推理基準上進行廣泛實驗，與其他方法相比，我們證明 SETS 可達成顯著的效能提升，並有更理想的測試時間擴展定律。
 
 ##### **Beyond checkmate: exploring the creative chokepoints in AI text**
 2501.19301v1 by Nafis Irtiza Tripto, Saranya Venkatraman, Mahjabin Nahar, Dongwon Lee
@@ -843,7 +843,7 @@ are available at https://ariameetgit.github.io/VISUALSPEECH-SAMPLES/.
 摘要：文字轉語音（TTS）合成面臨著一個固有挑戰，即從單一文字輸入產生具有不同語調的多個語音輸出。雖然先前的研究已透過從文字和語音預測語調資訊來解決這個問題，但額外的脈絡資訊（例如視覺特徵）仍未得到充分利用。本文探討了整合視覺脈絡以增強語調預測的潛力。我們提出了一個創新的模型 VisualSpeech，它結合了視覺和文字資訊，以改善語調產生。實證結果表明，視覺特徵提供了超越文字輸入的寶貴語調線索，顯著提高了合成語音的自然性和準確性。音訊範例可在 https://ariameetgit.github.io/VISUALSPEECH-SAMPLES/ 取得。
 
 ##### **SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**
-2501.19245v1 by Hüseyin Aydın, Kevin Dubois-Godin, Libio Goncalvez Braz, Floris den Hengst, Kim Baraka, Mustafa Mert Çelikok, Andreas Sauter, Shihan Wang, Frans A. Oliehoek
+2501.19245v2 by Hüseyin Aydın, Kevin Godin-Dubois, Libio Goncalvez Braz, Floris den Hengst, Kim Baraka, Mustafa Mert Çelikok, Andreas Sauter, Shihan Wang, Frans A. Oliehoek
 
 Reinforcement learning (RL) offers a general approach for modeling and
 training AI agents, including human-AI interaction scenarios. In this paper, we
@@ -860,7 +860,7 @@ elicitation, user-modeling, and human-AI teaming. The platform is based on a
 generic interface for human-RL interactions that aims to standardize the field
 of study on RL in human contexts.
 
-摘要：強化學習 (RL) 提供了一種通用的方法來建模和訓練 AI 代理，包括人機互動場景。在本文中，我們提出 SHARPIE（用於互動式實驗的共享人機強化學習平台）來滿足對通用框架的需求，以支援使用 RL 代理和人類進行的實驗。其模組化設計包含一個多功能包裝器，用於 RL 環境和演算法函式庫、一個面向參與者的網路介面、記錄公用程式、部署在熱門雲端和參與者招募平台上。它讓研究人員能夠研究與人類和 RL 代理互動相關的各種研究問題，包括與互動式獎勵規格和學習、從人類回饋中學習、動作委派、偏好引導、使用者建模和人機團隊合作相關的問題。該平台基於人機 RL 互動的通用介面，旨在標準化人類環境中 RL 的研究領域。
+摘要：強化學習 (RL) 提供一種通用方法，用於建模和訓練 AI 代理，包括人機互動場景。在本文中，我們提出 SHARPIE（共享人機強化學習平台，用於互動式實驗），以滿足支援 RL 代理和人類實驗的通用框架需求。其模組化設計包含一個通用包裝器，用於 RL 環境和演算法函式庫、一個與參與者互動的網路介面、記錄公用程式、部署在熱門雲端和參與者招募平台上。它讓研究人員能夠研究各種與人類和 RL 代理互動相關的研究問題，包括與互動式獎勵規格和學習、從人類回饋中學習、動作委派、偏好引導、使用者建模和人機團隊合作相關的問題。該平台基於人機 RL 互動的通用介面，旨在標準化人類環境中 RL 的研究領域。
 
 ##### **A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**
 2501.19232v1 by Yunzhe Li, Junting Wang, Hari Sundaram, Zhining Liu
@@ -921,7 +921,7 @@ state-of-the-art methods in the semantic segmentation task.
 摘要：在本文中，我们提出了一种新穎主動學習方法，並與一個改良的半監督學習框架整合，以降低人工標註的成本並提升模型效能。我們提出的方法有效地利用了主動學習中選取的標籤資料，以及從選擇過程中排除的未標籤資料。所提出的主動學習方法精確指出偽標籤可能不準確的地方。然後，提出一個自動且有效率的偽標籤自動精煉 (PLAR) 模組，透過將其特徵表示與標籤區域的特徵表示進行比較來修正具有潛在錯誤偽標籤的像素。此方法在不增加標籤預算的情況下運作，並基於叢集假設，該假設指出屬於同一類別的像素應在特徵空間中呈現類似的表示。此外，人工標籤僅用於未標籤資料中最困難且最不確定的區域，在這些區域中，資訊不足以讓 PLAR 模組做出決定。我們在兩個基準資料集上評估了所提出的混合半監督主動學習框架，一個來自自然，另一個來自遙感影像領域。在兩種情況下，它在語意分割任務中都優於最先進的方法。
 
 ##### **Improving the Robustness of Representation Misdirection for Large Language Model Unlearning**
-2501.19202v1 by Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
+2501.19202v2 by Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue
 
 Representation Misdirection (RM) and variants are established large language
 model (LLM) unlearning methods with state-of-the-art performance. In this
@@ -936,7 +936,7 @@ agnostic approach with theoretical guarantees for improving the robustness of
 RM methods. Extensive experiments demonstrate that RNA significantly improves
 the robustness of RM models while enhancing the unlearning performances.
 
-摘要：表示失導（RM）及其變體是已建立的大語言模型（LLM）取消學習方法，具有最先進的效能。在本文中，我們展示 RM 方法本質上會降低模型的穩健性，導致它們即使在保留查詢中只有一個非對抗遺忘令牌時也會表現不佳。為了了解根本原因，我們將取消學習過程重新定義為後門攻擊和防禦：遺忘令牌充當後門觸發器，當在保留查詢中啟用時，會導致 RM 模型行為中斷，類似於成功的後門攻擊。為了減輕這種漏洞，我們提出了隨機雜訊擴充——一種模型和方法不可知的方法，具有提高 RM 方法穩健性的理論保證。大量的實驗表明，RNA 在增強取消學習效能的同時，顯著提高了 RM 模型的穩健性。
+摘要：表徵誤導 (RM) 及其變體是已建立的大型語言模型 (LLM) 忘記方法，具有最先進的效能。在本文中，我們展示 RM 方法本質上會降低模型的穩健性，導致它們在保留查詢中即使只有一個非對抗性的遺忘代碼也會出現異常行為。為了理解背後的原因，我們將忘記過程重新定義為後門攻擊和防禦：遺忘代碼充當後門觸發器，當在保留查詢中被啟動時，會造成 RM 模型行為的中斷，類似於成功的後門攻擊。為了減輕此漏洞，我們提出隨機雜訊擴充——一種模型和方法不可知的方法，具有提高 RM 方法穩健性的理論保證。廣泛的實驗表明，RNA 在增強忘記效能的同時，顯著提高了 RM 模型的穩健性。
 
 ##### **Efficient Reasoning with Hidden Thinking**
 2501.19201v1 by Xuan Shen, Yizhou Wang, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
@@ -1293,7 +1293,7 @@ physiologically impossible predictions.
 摘要：這篇論文透過提出一個新的範例，為醫療保健的強化學習 (RL) 不斷增加的文獻增添內容：用基於規則的 RL 層 (RRLL) 來擴充任何預測器，以修正模型在生理上不可能的預測。具體來說，RRLL 以預測標籤作為輸入狀態，並輸出修正標籤作為動作。狀態動作對的獎勵是由一組一般規則所評估。RRLL 既有效率、一般性又輕量級：它不需要像先前的研究那樣具備大量的專家知識，而只需要一組不可能的轉換。這組轉換比所有可能的轉換小得多；但它可以有效減少最先進的預測器模型所產生的生理上不可能的錯誤。我們驗證了 RRLL 在各種重要的醫療保健分類問題上的效用，並觀察到在使用相同設定的情況下，只有特定領域的不可能性集有所改變，便有顯著的改善。深入分析顯示，RRLL 確實透過有效減少生理上不可能的預測，來提升準確度。
 
 ##### **Understanding Model Calibration -- A gentle introduction and visual exploration of calibration and the expected calibration error (ECE)**
-2501.19047v1 by Maja Pavlovic
+2501.19047v2 by Maja Pavlovic
 
 To be considered reliable, a model must be calibrated so that its confidence
 in each decision closely reflects its true outcome. In this blogpost we'll take
@@ -1307,7 +1307,7 @@ meant to provide a gentle introduction to the different notions and their
 evaluation measures as well as to re-highlight some issues with a measure that
 is still widely used to evaluate calibration.
 
-摘要：要被視為可靠，模型必須經過校準，以便其在每個決策中的信心能準確反映其真實結果。在此部落格文章中，我們將探討校準最常用的定義，然後深入探討模型校準中經常使用的評估指標。接著，我們將探討此指標的一些缺點，以及這些缺點如何突顯出對校準的額外概念的需求，而這些概念需要有自己的新評估指標。這篇文章並非旨在深入探討所有關於校準的研究，也不會專注於如何校準模型。相反地，它的目的是溫和地介紹不同的概念及其評估指標，並重新強調一個仍然廣泛用於評估校準的指標所存在的一些問題。
+摘要：要被認為是可靠的，模型必須經過校準，以便它在每個決策中的信心準確反映其真實結果。在這個部落格文章中，我們將探討校準最常用的定義，然後深入探討模型校準常用的評估指標。然後，我們將涵蓋此指標的一些缺點，以及這些缺點如何浮現出對校準的其他概念的需求，這些概念需要自己的新評估指標。這篇文章並非旨在深入探討所有關於校準的作品，也不著重於如何校準模型。相反，它的目的是溫和地介紹不同的概念及其評估指標，並重新強調一個仍然廣泛用於評估校準的指標的一些問題。
 
 ##### **Swarm-Gen: Fast Generation of Diverse Feasible Swarm Behaviors**
 2501.19042v1 by Simon Idoko, B. Bhanu Teja, K. Madhava Krishna, Arun Kumar Singh
@@ -1359,7 +1359,7 @@ present.
 $\textit{差分隐私}$ (DP) 的概念在敏感文本数据的重写或混淆中提供正式保证。一种常见且几乎无处不在的 DP 应用形式需要在文本的向量表示中添加校准噪声，无论是在数据级还是模型级，这由隐私参数 $\varepsilon$ 控制。然而，添加噪声几乎毫无疑问地会导致相当大的效用损失，从而突出了 DP 在 NLP 中的一个主要缺点。在这项工作中，我们引入了一种新的句子填充私有化技术，并使用这种方法来探索噪声在 DP 文本重写中的影响。我们凭经验证明，非 DP 私有化技术在效用保留方面表现出色，并且可以找到可接受的经验隐私效用权衡，但无法在经验隐私保护中优于 DP 方法。我们的结果突出了噪声在当前 DP 重写机制中的重大影响，从而引发了对 DP 在 NLP 中的优点和挑战的讨论，以及非 DP 方法带来的机会。
 
 ##### **Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**
-2501.19018v1 by Ahmed K. Kadhim, Lei Jiao, Rishad Shafik, Ole-Christoffer Granmo, Bimal Bhattarai
+2501.19018v2 by Ahmed K. Kadhim, Lei Jiao, Rishad Shafik, Ole-Christoffer Granmo, Bimal Bhattarai
 
 The Tsetlin Machine (TM) architecture has recently demonstrated effectiveness
 in Machine Learning (ML), particularly within Natural Language Processing
@@ -1382,7 +1382,7 @@ sentiment analysis on the IMDB dataset, where the TM embedding and the TM
 classifier, along with other interpretable classifiers, offered a transparent
 end-to-end solution with competitive performance.
 
-摘要：Tsetlin 機器 (TM) 架構最近在機器學習 (ML) 中展現其效能，特別是在自然語言處理 (NLP) 方面。它已被用於建構詞嵌入，使用連接命題子句，從而顯著增進我們對機器衍生決策的理解和詮釋。先前的做法對輸入詞序列執行詞嵌入，以將資訊整合成一個有凝聚力和統一的表示。然而，隨著輸入大小的增加，這種做法會遭遇可擴充性的挑戰。在本研究中，我們介紹了一種新穎的做法，結合兩階段訓練來發現輸入序列的脈絡嵌入。具體來說，這種方法將資料集詞彙中每個輸入詞的知識封裝起來，隨後利用提取的知識為輸入詞序列建構嵌入。這種技術不僅有助於設計可擴充性的模型，而且還保留了可解釋性。我們的實驗結果顯示，與先前的做法相比，所提出的方法表現出競爭力，與人為基準相比，展示出有希望的結果。此外，我們將所提出的做法應用於 IMDB 資料集上的情緒分析，其中 TM 嵌入和 TM 分類器，以及其他可解釋的分類器，提供了一個透明的端到端解決方案，且具有競爭力的表現。
+摘要：Tsetlin 機器 (TM) 架構最近在機器學習 (ML) 中展現了其效能，特別是在自然語言處理 (NLP) 領域。它已被用於建構詞嵌入，使用連接命題子句，從而顯著增強我們對機器衍生決策的理解和詮釋。先前的做法對輸入字詞的序列執行詞嵌入，將資訊整合到一個有凝聚力和統一性的表徵中。然而，隨著輸入大小的增加，該做法會遇到可擴充性的挑戰。在本研究中，我們介紹一種新穎的做法，結合兩階段訓練來發現輸入序列的脈絡嵌入。具體來說，此方法將資料集詞彙中每個輸入字詞的知識封裝起來，然後利用提取的知識為輸入字詞的序列建構嵌入。此技術不僅有助於設計可擴充性的模型，還能保留可解釋性。我們的實驗結果顯示，與先前的做法相比，所提出的方法產出了有競爭力的效能，與人為產生的基準相比，展現了有希望的結果。此外，我們將所提出的做法應用於 IMDB 資料集的情緒分析，其中 TM 嵌入和 TM 分類器，以及其他可解釋的分類器，提供了一個透明的端到端解決方案，具有競爭力的效能。
 
 ##### **Calling a Spade a Heart: Gaslighting Multimodal Large Language Models via Negation**
 2501.19017v1 by Bin Zhu, Hui yan Qi, Yinxuan Gui, Jingjing Chen, Chong-Wah Ngo, Ee Peng Lim
@@ -1429,7 +1429,7 @@ development workflows against package supply chain attacks.
 摘要：大型語言模型 (LLM) 已成為程式設計師工具箱中不可或缺的工具，但惡意行為者可能會利用其產生代碼的傾向，在軟體供應鏈的廣泛範圍內引入漏洞。在本文中，我們分析了 LLM 中的套件產生行為，探討了現有套件參考和虛構依賴關係，並涵蓋了多種流行的程式語言。透過分析這個套件產生行為，我們發現潛在的攻擊，並提出防禦策略來抵禦這些攻擊。我們發現，套件產生率不僅取決於模型選擇，還取決於程式語言、模型大小和編碼任務請求的具體性。代碼產生效能和套件產生之間的帕累托最優邊界人口稀少，這表示編碼模型並未針對安全代碼進行最佳化。此外，我們發現套件產生率與 HumanEval 編碼基準之間存在反比關係，這提供了一個評估模型產生套件傾向的啟發式方法。我們的指標、發現和分析為未來的模型提供了基礎，確保了 AI 協助的軟體開發工作流程免於套件供應鏈攻擊。
 
 ##### **DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**
-2501.19010v1 by Wonjun Lee, Solee Im, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
+2501.19010v2 by Wonjun Lee, Solee Im, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
 
 Dysarthric speech recognition often suffers from performance degradation due
 to the intrinsic diversity of dysarthric severity and extrinsic disparity from
@@ -1448,7 +1448,7 @@ the UASpeech dataset, DyPCL outperforms baseline models, achieving an average
 22.10\% relative reduction in word error rate (WER) across the overall
 dysarthria group.
 
-摘要：言语失调语音识别通常会因言语失调严重程度的内在多样性和与正常语音的外在差异而导致性能下降。为了弥合这些差距，我们提出了一种动态音位级对比学习 (DyPCL) 方法，该方法可以获得跨不同说话者的不变表示。我们将语音话语分解为音位片段进行音位级对比学习，利用动态连接主义时间分类对齐。与专注于话语级嵌入的先前研究不同，我们的粒度学习允许区分语音的细微部分。此外，我们引入了动态课程学习，该学习根据音位的语音相似性，逐步从简单的否定样本过渡到难以区分的否定样本。我们通过难度级别进行训练的方法减轻了说话者的固有变异性，更好地识别具有挑战性的语音。在 UASpeech 数据集上进行评估，DyPCL 优于基线模型，在整个言语失调组中将词错误率 (WER) 平均降低了 22.10%。
+摘要：構音障礙的語音辨識常常會因為構音障礙嚴重程度的內在差異和與正常語音的外在差異而導致效能下降。為了彌補這些差距，我們提出了一個動態音素層對比學習 (DyPCL) 方法，這會導致獲得不同說話者之間的不變表示。我們將語音話語分解成音素片段，以進行音素層對比學習，利用動態連接主義時序分類對齊。與專注於話語層級嵌入的先前研究不同，我們的細粒度學習允許區分語音的細微部分。此外，我們引入了動態課程學習，它會根據音素的語音相似性，從容易的負面樣本逐漸過渡到難以區分的負面樣本。我們透過難度等級進行訓練的方法減輕了說話者的內在變異性，能更好地識別有挑戰性的語音。在 UASpeech 資料集上進行評估，DyPCL 優於基線模型，在整體構音障礙組中，字元錯誤率 (WER) 平均降低了 22.10%。
 
 ##### **Virtual airways heatmaps to optimize point of entry location in lung biopsy planning systems**
 2501.19003v1 by Debora Gil, Pere Lloret, Marta Diez-Ferrer, Carles Sanchez
@@ -1771,7 +1771,7 @@ regulation.
 摘要：隨著人工智慧系統日益複雜，理解其行為已成為一項關鍵挑戰。許多方法已被開發出來，用於將模型行為歸因於三個關鍵面向：輸入特徵、訓練資料和內部模型組件。然而，這些歸因方法的研究和應用相當獨立，導致方法和術語的應用環境支離破碎。本文認為特徵、資料和組件歸因方法有根本上的相似性，而將它們連結起來有助於可解釋性研究。我們對三個領域的成功方法進行詳細分析，並提出一個統一的觀點，以證明這些看似不同的方法採用了類似的途徑，例如擾動、梯度和線性近似，其差異主要在於觀點，而非核心技術。我們統一的觀點增強了對現有歸因方法的理解，找出共同的概念和挑戰，讓這個領域更容易讓新手理解，並不僅標示出歸因和可解釋性的新方向，也標示出更廣泛的人工智慧研究的新方向，包括模型編輯、引導和法規。
 
 ##### **UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**
-2501.18867v1 by Jianke Zhang, Yanjiang Guo, Yucheng Hu, Xiaoyu Chen, Xiang Zhu, Jianyu Chen
+2501.18867v2 by Jianke Zhang, Yanjiang Guo, Yucheng Hu, Xiaoyu Chen, Xiang Zhu, Jianyu Chen
 
 Recent advancements in Vision-Language-Action (VLA) models have leveraged
 pre-trained Vision-Language Models (VLMs) to improve the generalization
@@ -1790,7 +1790,7 @@ on the Calvin ABC-D benchmark compared to the previous state-of-the-art method.
 Additionally, UP-VLA demonstrates improved success rates in real-world
 manipulation tasks, particularly those requiring precise spatial information.
 
-摘要：近期在視覺-語言-動作 (VLA) 模型的進展已利用預先訓練的視覺-語言模型 (VLM) 來提升概化能力。VLM 通常預先訓練於視覺-語言理解任務，提供豐富的語義知識和推理能力。然而，先前的研究顯示 VLM 通常專注於高階語義內容，並忽略低階特徵，限制了其擷取詳細空間資訊和理解物理動態的能力。這些面向對於具體控制任務至關重要，但在現有的預先訓練範例中仍未充分探討。在本文中，我們探討 VLA 的訓練範例，並提出結合多模態理解和未來預測目標的統一 VLA 模型訓練 **UP-VLA**，同時提升高階語義理解和低階空間理解。實驗結果顯示，與先前的最先進方法相比，UP-VLA 在 Calvin ABC-D 基準上獲得了 33% 的進步。此外，UP-VLA 在真實世界操作任務中展現出更高的成功率，特別是那些需要精確空間資訊的任務。
+摘要：近期在視覺語言動作 (VLA) 模型的進展中，利用預先訓練好的視覺語言模型 (VLM) 來提升概化能力。VLM 通常預先訓練於視覺語言理解任務，提供豐富的語義知識和推理能力。然而，先前的研究顯示，VLM 通常專注於高層級的語義內容，而忽略低層級特徵，限制了其擷取詳細空間資訊和理解物理動態的能力。這些面向對於具體控制任務至關重要，但在現有的預先訓練範例中仍未獲得充分探討。在本文中，我們探討 VLA 的訓練範例，並介紹 UP-VLA，一個統一的 VLA 模型訓練，同時具備多模態理解和未來預測目標，提升高層級語義理解和低層級空間理解。實驗結果顯示，與先前的最先進方法相比，UP-VLA 在 Calvin ABC-D 基準上獲得了 33% 的提升。此外，UP-VLA 在真實世界操作任務中展現出更高的成功率，特別是那些需要精確空間資訊的任務。
 
 ##### **REG: Rectified Gradient Guidance for Conditional Diffusion Models**
 2501.18865v1 by Zhengqi Gao, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S. Boning

@@ -13,7 +13,7 @@
 |**2025-01-28**|**Comprehensive Evaluation for a Large Scale Knowledge Graph Question Answering Service**|Saloni Potdar et.al.|[2501.17270v1](http://arxiv.org/abs/2501.17270v1)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
 |**2025-01-28**|**LLM-AutoDiff: Auto-Differentiate Any LLM Workflow**|Li Yin et.al.|[2501.16673v2](http://arxiv.org/abs/2501.16673v2)|[link](https://github.com/sylphai-inc/adalflow)|
-|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v1](http://arxiv.org/abs/2501.16450v1)|null|
+|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v2](http://arxiv.org/abs/2501.16450v2)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191v1](http://arxiv.org/abs/2501.16191v1)|null|
 |**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791v1](http://arxiv.org/abs/2501.15791v1)|[link](https://github.com/kse-eleven/makged)|
 |**2025-01-27**|**Automatic Feedback Generation for Short Answer Questions using Answer Diagnostic Graphs**|Momoka Furuhashi et.al.|[2501.15777v1](http://arxiv.org/abs/2501.15777v1)|null|
@@ -37,9 +37,9 @@
 |**2025-01-21**|**Leveraging Graph Structures and Large Language Models for End-to-End Synthetic Task-Oriented Dialogues**|Maya Medjad et.al.|[2501.11977v1](http://arxiv.org/abs/2501.11977v1)|[link](https://github.com/reecall/graphtod)|
 |**2025-01-21**|**Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization**|Jie Zhao et.al.|[2501.11968v1](http://arxiv.org/abs/2501.11968v1)|null|
 |**2025-01-21**|**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**|Qinggang Zhang et.al.|[2501.13958v1](http://arxiv.org/abs/2501.13958v1)|[link](https://github.com/deep-polyu/awesome-graphrag)|
-|**2025-01-21**|**Network-informed Prompt Engineering against Organized Astroturf Campaigns under Extreme Class Imbalance**|Nikos Kanakaris et.al.|[2501.11849v1](http://arxiv.org/abs/2501.11849v1)|[link](https://github.com/nkanak/brag-fake-news-campaigns)|
+|**2025-01-21**|**Network-informed Prompt Engineering against Organized Astroturf Campaigns under Extreme Class Imbalance**|Nikos Kanakaris et.al.|[2501.11849v2](http://arxiv.org/abs/2501.11849v2)|[link](https://github.com/nkanak/brag-fake-news-campaigns)|
 |**2025-01-21**|**Large Language Models Meet Graph Neural Networks for Text-Numeric Graph Reasoning**|Haoran Song et.al.|[2501.16361v1](http://arxiv.org/abs/2501.16361v1)|null|
-|**2025-01-20**|**Zep: A Temporal Knowledge Graph Architecture for Agent Memory**|Preston Rasmussen et.al.|[2501.13956v1](http://arxiv.org/abs/2501.13956v1)|null|
+|**2025-01-20**|**Zep: A Temporal Knowledge Graph Architecture for Agent Memory**|Preston Rasmussen et.al.|[2501.13956v1](http://arxiv.org/abs/2501.13956v1)|[link](https://github.com/getzep/graphiti)|
 |**2025-01-20**|**Explainable Lane Change Prediction for Near-Crash Scenarios Using Knowledge Graph Embeddings and Retrieval Augmented Generation**|M. Manzour et.al.|[2501.11560v1](http://arxiv.org/abs/2501.11560v1)|null|
 |**2025-01-20**|**Each Graph is a New Language: Graph Learning with LLMs**|Huachi Zhou et.al.|[2501.11478v2](http://arxiv.org/abs/2501.11478v2)|null|
 |**2025-01-20**|**Few-shot Policy (de)composition in Conversational Question Answering**|Kyle Erwin et.al.|[2501.11335v1](http://arxiv.org/abs/2501.11335v1)|null|
@@ -75,7 +75,7 @@
 |**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
 |**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|[link](https://github.com/Vprashant/s2-chunking-lib)|
 |**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
-|**2025-01-07**|**Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**|Wen-Dong Jiang et.al.|[2501.06224v1](http://arxiv.org/abs/2501.06224v1)|null|
+|**2025-01-07**|**Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**|Wen-Dong Jiang et.al.|[2501.06224v2](http://arxiv.org/abs/2501.06224v2)|null|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
 |**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166v1](http://arxiv.org/abs/2501.03166v1)|[link](https://github.com/aliwister/ast-icl)|
@@ -389,7 +389,7 @@ LLM 工作流程提供了一個強大的新範例——反映了自動
 微分庫在神經網絡研究中長期扮演的變革性角色。
 
 ##### **360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**
-2501.16450v1 by Hamed Firooz, Maziar Sanjabi, Adrian Englhardt, Aman Gupta, Ben Levine, Dre Olgiati, Gungor Polatkan, Iuliia Melnychuk, Karthik Ramgopal, Kirill Talanine, Kutta Srinivasan, Luke Simon, Natesh Sivasubramoniapillai, Necip Fazil Ayan, Qingquan Song, Samira Sriram, Souvik Ghosh, Tao Song, Vignesh Kothapalli, Xiaoling Zhai, Ya Xu, Yu Wang, Yun Dai
+2501.16450v2 by Hamed Firooz, Maziar Sanjabi, Adrian Englhardt, Aman Gupta, Ben Levine, Dre Olgiati, Gungor Polatkan, Iuliia Melnychuk, Karthik Ramgopal, Kirill Talanine, Kutta Srinivasan, Luke Simon, Natesh Sivasubramoniapillai, Necip Fazil Ayan, Qingquan Song, Samira Sriram, Souvik Ghosh, Tao Song, Vignesh Kothapalli, Xiaoling Zhai, Ya Xu, Yu Wang, Yun Dai
 
 Ranking and recommendation systems are the foundation for numerous online
 experiences, ranging from search results to personalized content delivery.
@@ -418,7 +418,7 @@ tasks is conventionally addressed by dedicated models that have been developed
 and maintained over multiple years by teams of a similar or larger size than
 our own.
 
-摘要：排名和推薦系統是許多線上體驗的基礎，從搜尋結果到個人化內容傳遞。這些系統已演變成複雜的多層架構，利用龐大的資料集，並經常整合數千個預測模型。維護和增強這些模型是一個勞力密集的過程，需要廣泛的特徵工程。這種方法不僅加劇了技術債務，也阻礙了將這些系統擴展到新興問題領域的創新。在此報告中，我們提出我們的研究，以利用具有文字介面的大型基礎模型來解決這些挑戰，以進行排名和推薦任務。我們說明了我們方法的幾個主要優點：(1) 單一模型可以管理排名和推薦中涉及的多個預測任務，(2) 由於文字介面的解碼器模型具有推理能力，因此可以概括到新的推薦表面和領域外問題，以及 (3) 透過採用自然語言介面進行任務定義和表達成員行為及其社交連結，我們消除了對特徵工程和維護模型依賴關係的複雜有向無環圖的需求。我們介紹了我們的研究前製程模型 360Brew V1.0，一個 150B 參數、僅解碼器模型，它已針對 LinkedIn 的資料和任務進行訓練和微調。此模型能夠解決 LinkedIn 平台各個區塊中超過 30 個預測任務，達到與基於離線指標的現行生產系統相當或超越的效能水準，而無需進行特定任務的微調。值得注意的是，這些任務中的每一個傳統上都是由專門的模型來處理，這些模型是由規模與我們相當或更大的團隊在多年來開發和維護的。
+摘要：排名和推薦系統是許多線上體驗的基礎，從搜尋結果到個人化內容傳遞。這些系統已演變成複雜的多層架構，利用大量的資料集，並經常整合數千個預測模型。這些模型的維護和增強是一個勞力密集的過程，需要廣泛的特徵工程。這種方法不僅會加劇技術債務，還會阻礙將這些系統擴展到新興問題領域的創新。在本文中，我們介紹我們的研究，以利用具有文本介面的大型基礎模型來解決這些挑戰，以進行排名和推薦任務。我們說明了我們方法的幾個主要優點：(1) 單一模型可以管理排名和推薦中涉及的多個預測任務，(2) 由於其對推理能力的理解，具有文本介面的解碼器模型可以概括到新的推薦表面和領域外問題，以及 (3) 通過採用自然語言介面進行任務定義和表達成員行為及其社交連結，我們消除了對特徵工程和維護複雜的模型相依關係的有向無環圖的需求。我們介紹了我們的研究前置生產模型 360Brew V1.0，一個經過在 LinkedIn 的資料和任務上訓練和微調的 150B 參數、僅解碼器模型。此模型能夠解決 LinkedIn 平台各個區塊中超過 30 個預測任務，在不進行特定任務微調的情況下，達到與基於離線指標的現行生產系統相當或超越的效能等級。值得注意的是，這些任務中的每一個通常都由專用模型處理，這些模型是由與我們規模相當或更大的團隊在多年間開發和維護的。
 
 ##### **Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**
 2501.16191v1 by Antony Bartlett, Cynthia Liem, Annibale Panichella
@@ -1024,7 +1024,7 @@ open-source data, and projects, are collected for the community in
 摘要：大型語言模型 (LLM) 已在各種任務中展現出非凡的能力，但由於需要深入的專業知識，因此將其應用於專業領域仍具有挑戰性。檢索增強生成 (RAG) 已成為一種有前途的解決方案，可通過無縫整合外部知識庫來客製化 LLM 以適用於專業領域，從而在推理過程中即時存取特定領域的專業知識。儘管有其潛力，但基於平面文字檢索的傳統 RAG 系統面臨三項關鍵挑戰：(i) 在專業情境中進行複雜的查詢理解，(ii) 難以整合分散來源的知識，以及 (iii) 系統效率瓶頸會隨著規模擴大而產生。本調查系統性地分析了圖形化檢索增強生成 (GraphRAG) 的技術基礎，GraphRAG 是一個新的典範，它徹底改變了特定領域的 LLM 應用。GraphRAG 透過三項關鍵創新來解決傳統 RAG 的限制：(i) 圖形結構化的知識表述，明確擷取實體關係和領域階層，(ii) 有效的圖形化檢索技術，可進行保留脈絡的知識檢索，並具備多跳推理能力，以及 (iii) 結構感知知識整合演算法，可利用檢索到的知識來進行 LLM 的準確且邏輯一致的生成。在本調查中，我們系統性地分析了 GraphRAG 的技術基礎，並檢視了在各種專業領域中的現有實作，找出關鍵技術挑戰和有前景的研究方向。所有 GraphRAG 的相關資源，包括研究論文、開放原始碼資料和專案，都已在 \textcolor{blue}{\url{https://github.com/DEEP-PolyU/Awesome-GraphRAG}} 中為社群收集。
 
 ##### **Network-informed Prompt Engineering against Organized Astroturf Campaigns under Extreme Class Imbalance**
-2501.11849v1 by Nikos Kanakaris, Heng Ping, Xiongye Xiao, Nesreen K. Ahmed, Luca Luceri, Emilio Ferrara, Paul Bogdan
+2501.11849v2 by Nikos Kanakaris, Heng Ping, Xiongye Xiao, Nesreen K. Ahmed, Luca Luceri, Emilio Ferrara, Paul Bogdan
 
 Detecting organized political campaigns is of paramount importance in
 fighting against disinformation on social media. Existing approaches for the
@@ -1052,7 +1052,7 @@ that by incorporating the proposed prompt engineering and Balanced RAG methods,
 our framework outperforms the traditional graph-based baselines, achieving
 2x-3x improvements in terms of precision, recall and F1 scores.
 
-摘要：<paragraph>在社交媒體上打擊錯誤資訊，偵測有組織的政治宣傳至關重要。現有的此類有組織行動識別方法，主要採用網路科學、圖形機器學習和自然語言處理的技術。其最終目標是分析使用者之間的關係和互動（例如轉發），以及其貼文的文字相似度。儘管這些方法在辨識假草根運動宣傳上很有效，但仍面臨重大挑戰，特別是可用訓練資料集中的類別不平衡。為了減輕這個問題，最近的方法通常訴諸於資料擴充或增加正向樣本數量，但在現實世界中，這並不總是可行或足夠的。本文採行不同的途徑，我們提出一個基於大型語言模型 (LLM) 的新型框架，用於識別假草根運動宣傳，並引入平衡檢索擴充生成 (Balanced RAG) 元件。我們的做法首先將有關貼文（在本例中為推文）的文字資訊和社交網路的使用者互動作為輸入，提供給語言模型。然後，透過提示工程和提出的平衡檢索擴充生成方法，它有效地偵測 X (Twitter) 上協調的錯誤資訊宣傳。提出的框架不需要任何語言模型的訓練或微調。相反地，透過策略性地利用提示工程和平衡檢索擴充生成的優勢，它能讓大型語言模型克服類別不平衡的影響，並有效識別協調的政治宣傳。實驗結果證明，透過整合提出的提示工程和平衡檢索擴充生成方法，我們的框架優於傳統的基於圖形的基準，在精準度、召回率和 F1 分數方面獲得 2x-3x 的提升。</paragraph>
+摘要：<paragraph>在社交媒體上對抗錯誤資訊，偵測有組織的政治宣傳活動至關重要。現有的此類有組織行動識別方法，大多採用網路科學、圖形機器學習和自然語言處理的技術。它們的最終目標是分析使用者之間的關係和互動（例如轉發），以及他們貼文的文字相似性。儘管這些方法在辨識草根運動宣傳活動方面很有效，但它們面臨嚴峻的挑戰，特別是可用訓練資料集中的類別不平衡。為了減輕這個問題，最近的方法通常訴諸於資料擴充或增加正向樣本數量，但在現實世界中可能並非總是可行或足夠。本文採取不同的途徑，我們提出了一個基於大型語言模型 (LLM) 的辨識草根運動宣傳活動的新架構，並引入了平衡檢索擴充產生 (Balanced RAG) 組件。我們的做法首先將有關貼文（在我們的案例中是推文）的文字資訊和社交網路的使用者互動作為輸入，輸入到語言模型中。然後，透過提示工程和提出的平衡檢索擴充產生方法，它有效地偵測 X（Twitter）上協調的不實資訊宣傳活動。提出的架構不需要任何語言模型的訓練或微調。相反地，透過策略性地利用提示工程和平衡檢索擴充產生方法的優勢，它使大型語言模型能夠克服類別不平衡的影響，並有效地識別協調的政治宣傳活動。實驗結果證明，透過整合提出的提示工程和平衡檢索擴充產生方法，我們的架構優於傳統的基於圖形的基準，在精確度、召回率和 F1 分數方面獲得 2x-3x 的改進。</paragraph>
 
 ##### **Large Language Models Meet Graph Neural Networks for Text-Numeric Graph Reasoning**
 2501.16361v1 by Haoran Song, Jiarui Feng, Guangfu Li, Michael Province, Philip Payne, Yixin Chen, Fuhai Li
@@ -2006,7 +2006,7 @@ validating the effectiveness of our proposed methods.
 我們在公眾基準上測試了這兩種方法，例如 ChartQA、OpenCQA 和 ChartX，證明了效能的提升，並驗證了我們提出的方法的有效性。
 
 ##### **Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**
-2501.06224v1 by Wen-Dong Jiang, Chih-Yung Chang, Diptendu Sinha Roy
+2501.06224v2 by Wen-Dong Jiang, Chih-Yung Chang, Diptendu Sinha Roy
 
 Recently, violence detection systems developed using unified multimodal
 models have achieved significant success and attracted widespread attention.
@@ -2031,7 +2031,7 @@ proposed system. A case study further reveals an intriguing phenomenon: as the
 number of bystanders increases, the occurrence of violent behavior tends to
 decrease.
 
-摘要：<paragraph>最近，使用統一多模態模型開發的暴力偵測系統取得顯著成功，並引起廣泛關注。然而，這些系統大多面臨兩項嚴峻挑戰：缺乏黑箱模型的可解釋性，以及功能受限，僅提供分類或檢索能力。為了解決這些挑戰，本文提出了一個新穎的可解釋暴力偵測系統，稱為三合一 (TIO) 系統。TIO 系統整合知識圖譜 (KG) 和圖形注意力網路 (GAT)，以提供三項核心功能：偵測、檢索和解釋。具體來說，該系統處理每個影片幀，以及大型語言模型 (LLM) 為包含潛在暴力行為的影片產生的文字描述。它採用 ImageBind 產生高維嵌入，用於建構知識圖譜，使用 GAT 進行推理，並應用輕量級時間序列模組來提取影片嵌入特徵。最後一步連接分類器和檢索器，以產生多功能輸出。KG 的可解釋性讓系統能夠驗證每個輸出背後的推理過程。此外，本文介紹了幾種輕量級方法，以減少 TIO 系統的資源消耗，並提升其效率。在 XD-Violence 和 UCF-Crime 資料集上進行的廣泛實驗驗證了所提出系統的有效性。案例研究進一步揭示了一個有趣的現象：隨著旁觀者人數增加，暴力行為發生的機率會下降。</paragraph>
+摘要：<paragraph>最近，使用統一多模態模型開發的暴力偵測系統取得顯著成功，並引起廣泛關注。然而，大多數這些系統面臨兩個關鍵挑戰：作為黑盒模型缺乏可解釋性，以及功能有限，僅提供分類或檢索功能。為了應對這些挑戰，本文提出了一種新穎的可解釋暴力檢測系統，稱為三合一 (TIO) 系統。TIO 系統整合了知識圖 (KG) 和圖注意力網路 (GAT)，以提供三項核心功能：偵測、檢索和解釋。具體來說，系統處理每個影片幀以及由大型語言模型 (LLM) 為包含潛在暴力行為的影片產生的文字描述。它採用 ImageBind 為構建知識圖產生高維度嵌入，使用 GAT 進行推理，並應用輕量級時間序列模組來提取影片嵌入特徵。最後一步連接分類器和檢索器以取得多功能輸出。KG 的可解釋性使系統能夠驗證每個輸出背後的推理過程。此外，本文介紹了幾種輕量級方法，以減少 TIO 系統的資源消耗並提高其效率。在 XD-Violence 和 UCF-Crime 資料集上進行的廣泛實驗驗證了所提出系統的有效性。案例研究進一步揭示了一個有趣的現象：隨著旁觀者人數的增加，暴力行為的發生趨勢下降。</paragraph>
 
 ##### **Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**
 2501.03566v1 by Benedikt Reitemeyer, Hans-Georg Fill

@@ -17,7 +17,7 @@
 |**2025-01-30**|**Investigating an Intelligent System to Monitor \& Explain Abnormal Activity Patterns of Older Adults**|Min Hun Lee et.al.|[2501.18108v1](http://arxiv.org/abs/2501.18108v1)|null|
 |**2025-01-30**|**Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**|Pratik S. Sachdeva et.al.|[2501.18081v1](http://arxiv.org/abs/2501.18081v1)|null|
 |**2025-01-30**|**Towards Transparent and Accurate Diabetes Prediction Using Machine Learning and Explainable Artificial Intelligence**|Pir Bakhsh Khokhar et.al.|[2501.18071v1](http://arxiv.org/abs/2501.18071v1)|null|
-|**2025-01-29**|**Current Pathology Foundation Models are unrobust to Medical Center Differences**|Edwin D. de Jong et.al.|[2501.18055v1](http://arxiv.org/abs/2501.18055v1)|null|
+|**2025-01-29**|**Current Pathology Foundation Models are unrobust to Medical Center Differences**|Edwin D. de Jong et.al.|[2501.18055v2](http://arxiv.org/abs/2501.18055v2)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
 |**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|null|
 |**2025-01-29**|**Tonguescape: Exploring Language Models Understanding of Vowel Articulation**|Haruki Sakajo et.al.|[2501.17643v1](http://arxiv.org/abs/2501.17643v1)|[link](https://github.com/sj-h4/tonguescape-builder)|
@@ -64,7 +64,7 @@
 |**2025-01-24**|**ECTIL: Label-efficient Computational Tumour Infiltrating Lymphocyte (TIL) assessment in breast cancer: Multicentre validation in 2,340 patients with breast cancer**|Yoni Schirris et.al.|[2501.14379v1](http://arxiv.org/abs/2501.14379v1)|[link](https://github.com/nki-ai/ectil)|
 |**2025-01-24**|**Optimal Signal Decomposition-based Multi-Stage Learning for Battery Health Estimation**|Vijay Babu Pamshetti et.al.|[2501.16377v1](http://arxiv.org/abs/2501.16377v1)|null|
 |**2025-01-24**|**Enhancing Multimodal Entity Linking with Jaccard Distance-based Conditional Contrastive Learning and Contextual Visual Augmentation**|Cong-Duy Nguyen et.al.|[2501.14166v1](http://arxiv.org/abs/2501.14166v1)|null|
-|**2025-01-24**|**Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**|Mojtaba Safari et.al.|[2501.14158v1](http://arxiv.org/abs/2501.14158v1)|[link](https://github.com/mosaf/awesome-dl-based-cs-mri)|
+|**2025-01-24**|**Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**|Mojtaba Safari et.al.|[2501.14158v2](http://arxiv.org/abs/2501.14158v2)|[link](https://github.com/mosaf/awesome-dl-based-cs-mri)|
 |**2025-01-23**|**MedSlice: Fine-Tuned Large Language Models for Secure Clinical Note Sectioning**|Joshua Davis et.al.|[2501.14105v1](http://arxiv.org/abs/2501.14105v1)|[link](https://github.com/lindvalllab/medslice)|
 |**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051v1](http://arxiv.org/abs/2501.14051v1)|[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)|
 |**2025-01-23**|**Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation**|Xinya Wang et.al.|[2501.14013v1](http://arxiv.org/abs/2501.14013v1)|null|
@@ -474,7 +474,7 @@ computationally transparent tools for use in healthcare systems.
 摘要：糖尿病 (DM) 是一項重要的全球健康議題，必須盡早診斷並妥善管理。本研究提出一個糖尿病預測架構，使用機器學習 (ML) 模型，並搭配可解釋人工智慧 (XAI) 工具，來探討 ML 模型預測的準確度和可解釋性。資料前處理基於合成少數過採樣技術 (SMOTE) 和特徵縮放，用於糖尿病二元健康指標資料集，以處理類別不平衡和臨床特徵的可變性。整合模型提供了高準確度，測試準確度為 92.50%，ROC-AUC 為 0.975。根據模型解釋，BMI、年齡、一般健康狀況、收入和身體活動是最具影響力的預測因子。本研究結果表明，ML 結合 XAI 是一種有前途的方式，可以開發出準確且在運算上透明的工具，用於醫療保健系統。
 
 ##### **Current Pathology Foundation Models are unrobust to Medical Center Differences**
-2501.18055v1 by Edwin D. de Jong, Eric Marcus, Jonas Teuwen
+2501.18055v2 by Edwin D. de Jong, Eric Marcus, Jonas Teuwen
 
 Pathology Foundation Models (FMs) hold great promise for healthcare. Before
 they can be used in clinical practice, it is essential to ensure they are
@@ -500,7 +500,7 @@ and cancer type. The robustness index introduced here is provided with the aim
 of advancing progress towards clinical adoption of robust and reliable
 pathology FMs.
 
-摘要：病理基礎模型 (FM) 對醫療保健而言極具前景。在臨床實務中使用之前，必須確保它們能適應醫療中心之間的差異。我們衡量病理 FM 是否著重於組織和癌症類型等生物特徵，或著重於染色程序和其他差異所造成的眾所周知的混淆醫療中心特徵。我們引入了穩健性指數。這個新穎的穩健性指標反映了生物特徵在多大程度上主導混淆特徵。我們評估了十個當前公開可用的病理 FM。我們發現，所有當前評估的病理基礎模型都強烈地代表了醫療中心。觀察到穩健性指數有顯著差異。到目前為止，只有一個模型的穩健性指數大於 1，表示生物特徵主導混淆特徵，但僅略微主導。描述了衡量醫療中心差異對基於 FM 的預測效能影響的量化方法。我們分析了不穩健性對下游模型分類效能的影響，發現癌症類型分類錯誤並非隨機，而是特別歸因於同中心混淆因子：來自同一醫療中心的其他類別的影像。我們將 FM 嵌入空間視覺化，發現這些空間比生物因素更強烈地由醫療中心組織起來。因此，比組織來源和癌症類型更準確地預測了醫療中心的來源。這裡介紹的穩健性指數旨在推動進展，朝著臨床採用穩健且可靠的病理 FM 邁進。
+摘要：病理基礎模型 (FM) 對醫療保健而言極具潛力。在臨床實務中使用之前，必須確保它們能應對醫療中心之間的差異。我們衡量病理 FM 是否著重於組織和癌症類型等生物特徵，或著重於染色程序和其他差異所導致的眾所周知混淆醫療中心特徵。我們引進了穩健性指標。這項新穎的穩健性指標反映了生物特徵主導混淆特徵的程度。評估了十項目前公開提供的病理 FM。我們發現，所有目前評估的病理基礎模型在很大程度上代表了醫療中心。觀察到穩健性指標有顯著差異。到目前為止，只有一項模型的穩健性指標大於一，表示生物特徵主導混淆特徵，但僅略微主導。描述了衡量醫療中心差異對基於 FM 的預測效能影響的量化方法。我們分析了不穩健性對下游模型分類效能的影響，發現癌症類型分類錯誤並非隨機，而是特別歸因於同中心混淆因子：來自同一醫療中心的其他類別影像。我們視覺化 FM 嵌入空間，發現這些空間是由醫療中心而非生物因素更強有力地組織。因此，比組織來源和癌症類型更準確地預測了醫療中心的來源。在此引入穩健性指標，目的是推進朝著臨床採用穩健且可靠的病理 FM 的進展。
 
 ##### **Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**
 2501.17860v1 by Zijie Liu, Xinyu Zhao, Jie Peng, Zhuangdi Zhu, Qingyu Chen, Xia Hu, Tianlong Chen
@@ -1644,7 +1644,7 @@ on benchmark MEL datasets demonstrate the strong effectiveness of our approach.
 摘要：先前針對多模態實體連結 (MEL) 的研究主要採用對比學習作為主要目標。然而，這些研究在未經仔細考量的情況下將批次其餘部分用作負樣本，因此有風險會利用容易辨識的特徵，並可能忽略使實體獨一無二的重要細節。在本文中，我們提出 JD-CCL（Jaccard 距離基礎條件對比學習），這是一種新穎的方法，旨在增強多模態實體連結模型的匹配能力。JD-CCL 利用元資訊來選擇具有類似屬性的負樣本，使連結任務更具挑戰性和穩健性。此外，為了解決在提及和實體之間的視覺模式中變異所造成的限制，我們引入了一種新方法，稱為 CVaCPT（脈絡視覺輔助可控區塊轉換）。它透過結合多視角合成影像和脈絡文字表徵來增強視覺表徵，以縮放和轉移區塊表徵。在基準 MEL 資料集上的實驗結果證明了我們方法的強大效能。
 
 ##### **Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**
-2501.14158v1 by Mojtaba Safari, Zach Eidex, Chih-Wei Chang, Richard L. J. Qiu, Xiaofeng Yang
+2501.14158v2 by Mojtaba Safari, Zach Eidex, Chih-Wei Chang, Richard L. J. Qiu, Xiaofeng Yang
 
 Magnetic resonance imaging (MRI) is a non-invasive imaging modality and
 provides comprehensive anatomical and functional insights into the human body.
@@ -1671,7 +1671,7 @@ in this area, we provide a GitHub repository that includes up-to-date DL-based
 MRI reconstruction publications and public
 datasets-https://github.com/mosaf/Awesome-DL-based-CS-MRI.
 
-摘要：磁共振成像 (MRI) 是一種非侵入性的影像模式，可提供人體全面的解剖和功能見解。然而，其漫長的擷取時間可能會導致患者不適、動作偽影，並限制實時應用。為了應對這些挑戰，已應用平行影像等策略，利用多個接收器線圈來加速資料擷取過程。此外，壓縮感測 (CS) 是一種促進從稀疏資料中重建影像的方法，透過將所需的資料收集量減至最少，大幅縮短影像擷取時間。最近，深度學習 (DL) 已成為改進 MRI 重建的強大工具。它已與平行影像和 CS 原理整合，以實現更快、更準確的 MRI 重建。本篇評論全面探討了基於 DL 的 MRI 重建技術。我們對各種基於 DL 的方法進行分類和討論，包括端到端方法、展開最佳化和聯合學習，並強調其潛在優點。我們的系統性評論突出了重要的貢獻，並強調了 DL 在 MRI 重建中的潛力。此外，我們總結了基於 DL 的 MRI 重建中的關鍵結果和趨勢，包括量化指標、資料集、加速因子，以及 DL 技術隨時間的進展和研究興趣。最後，我們討論了潛在的未來方向，以及基於 DL 的 MRI 重建在推進醫學影像中的重要性。為了促進這方面的進一步研究，我們提供了一個 GitHub 儲存庫，其中包括最新的基於 DL 的 MRI 重建出版物和公開資料集 - https://github.com/mosaf/Awesome-DL-based-CS-MRI。
+摘要：磁振造影 (MRI) 是一種非侵入式影像模式，能提供人體的全面解剖與功能見解。然而，其漫長的擷取時間可能會導致患者不適、動作偽影，並限制即時應用。為了應對這些挑戰，已應用平行影像等策略，利用多個接收器線圈來加速資料擷取過程。此外，壓縮感測 (CS) 是一種促進從稀疏資料重建影像的方法，透過將所需的資料收集量減至最少，大幅減少影像擷取時間。最近，深度學習 (DL) 已成為改善 MRI 重建的強大工具。它已與平行影像和 CS 原則整合，以實現更快、更準確的 MRI 重建。本篇評論全面探討了基於 DL 的 MRI 重建技術。我們分類並討論了各種基於 DL 的方法，包括端對端方法、展開式最佳化和聯盟式學習，並強調了它們的潛在優點。我們的系統性評論突出了重要的貢獻，並強調了 DL 在 MRI 重建中的潛力。此外，我們總結了基於 DL 的 MRI 重建的主要結果和趨勢，包括量化指標、資料集、加速因子，以及隨著時間推移對 DL 技術的進展和研究興趣。最後，我們討論了潛在的未來方向，以及基於 DL 的 MRI 重建在推進醫學影像中的重要性。為了促進這方面的進一步研究，我們提供了一個 GitHub 儲存庫，其中包括最新的基於 DL 的 MRI 重建出版品和公開資料集-https://github.com/mosaf/Awesome-DL-based-CS-MRI。
 
 ##### **MedSlice: Fine-Tuned Large Language Models for Secure Clinical Note Sectioning**
 2501.14105v1 by Joshua Davis, Thomas Sounack, Kate Sciacca, Jessie M Brain, Brigitte N Durieux, Nicole D Agaronnik, Charlotta Lindvall

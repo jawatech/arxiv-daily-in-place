@@ -21,7 +21,7 @@
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
 |**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|null|
 |**2025-01-29**|**Tonguescape: Exploring Language Models Understanding of Vowel Articulation**|Haruki Sakajo et.al.|[2501.17643v1](http://arxiv.org/abs/2501.17643v1)|[link](https://github.com/sj-h4/tonguescape-builder)|
-|**2025-01-29**|**Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**|Manish Sanwal et.al.|[2501.18645v1](http://arxiv.org/abs/2501.18645v1)|null|
+|**2025-01-29**|**Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**|Manish Sanwal et.al.|[2501.18645v2](http://arxiv.org/abs/2501.18645v2)|null|
 |**2025-01-29**|**An Exceptional Dataset For Rare Pancreatic Tumor Segmentation**|Wenqi Li et.al.|[2501.17555v1](http://arxiv.org/abs/2501.17555v1)|null|
 |**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510v1](http://arxiv.org/abs/2501.17510v1)|null|
 |**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343v1](http://arxiv.org/abs/2501.17343v1)|null|
@@ -569,7 +569,7 @@ building is available on GitHub.
 摘要：元音主要由舌頭位置決定。人類透過自己的經驗和明確的客觀觀察（例如使用 MRI）發現了元音發音的這些特徵。有了這些知識和經驗，我們可以解釋和理解舌頭位置和元音之間的關係，而這些知識對語言學習者學習發音很有幫助。由於語言模型 (LM) 是在包含語言學和醫學領域的大量資料上訓練的，我們的初步研究表明，LM 能夠解釋元音的發音機制。然而，尚不清楚多模態 LM（例如視覺 LM）是否將文字資訊與視覺資訊對齊。一個問題產生了：LM 是否將真實的舌頭位置與元音發音聯繫起來？在這項研究中，我們從現有的即時 MRI 資料集中建立了影片和影像資料集，並探討 LM 是否能根據舌頭位置使用基於視覺的資訊來理解元音發音。我們的研究結果表明，當提供參考範例時，LM 具有理解元音和舌頭位置的潛力，而沒有參考範例時則有困難。我們用於建立資料集的程式碼可在 GitHub 上取得。
 
 ##### **Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**
-2501.18645v1 by Manish Sanwal
+2501.18645v2 by Manish Sanwal
 
 Large Language Models (LLMs) leverage chain-of-thought (CoT) prompting to
 provide step-by-step rationales, improving performance on complex tasks.
@@ -585,7 +585,7 @@ references from recent arXiv papers on interactive explainability, multi-agent
 frameworks, and agent-based collaboration, we illustrate how Layered-CoT paves
 the way for more reliable and grounded explanations in high-stakes domains.
 
-摘要：大型語言模型 (LLM) 利用思想鏈 (CoT) 提示提供逐步的理由，從而提高複雜任務的執行效能。儘管有其好處，但香草 CoT 經常無法完全驗證中間推論，並且可能產生誤導性的解釋。在這項工作中，我們提出分層思想鏈 (Layered-CoT) 提示，這是一個新穎的框架，它系統性地將推理過程分段成多個層次，每個層次都經過外部檢查和可選的使用者回饋。我們擴展了關鍵概念，提出了三種場景——醫療分流、財務風險評估和敏捷工程——並展示了分層 CoT 在透明度、正確性和使用者參與度方面如何超越香草 CoT。透過整合來自近期 arXiv 論文關於互動可解釋性、多主體框架和基於主體的協作的參考，我們說明了分層 CoT 如何為高風險領域提供更可靠且有根據的解釋鋪路。
+摘要：大型語言模型（LLM）利用思考鏈（CoT）提示提供逐步的理由，提升複雜任務的表現。儘管有其好處，但香草 CoT 常常無法完全驗證中間推論，且可能會產生誤導性的解釋。在這項研究中，我們提出分層思考鏈（分層 CoT）提示，一個新穎的架構，它有系統地將推理過程區隔成多個層級，每個層級都經過外部檢查和可選擇的使用者回饋。我們擴展關鍵概念，提出三個場景——醫療分流、財務風險評估和敏捷工程——並展示分層 CoT 在透明度、正確性和使用者參與度方面如何超越香草 CoT。透過整合來自近期 arXiv 論文中關於互動可解釋性、多重代理架構和基於代理的協作的參考文獻，我們說明分層 CoT 如何為高風險領域中更可靠且有根據的解釋鋪路。
 
 ##### **An Exceptional Dataset For Rare Pancreatic Tumor Segmentation**
 2501.17555v1 by Wenqi Li, Yingli Chen, Keyang Zhou, Xiaoxiao Hu, Zilu Zheng, Yue Yan, Xinpeng Zhang, Wei Tang, Zhenxing Qian

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-05 20:39:19 Asia/Taipei
+ Automated deployment @ 2025-02-06 09:05:29 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -2722,7 +2722,7 @@ the design of future explanations for lay stakeholder audiences.
 |**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067v1](http://arxiv.org/abs/2502.02067v1)|[link](https://github.com/sssshivvvv/adaptbot)|
 |**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772v1](http://arxiv.org/abs/2502.01772v1)|null|
 |**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549v1](http://arxiv.org/abs/2502.01549v1)|null|
-|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533v1](http://arxiv.org/abs/2502.01533v1)|null|
+|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533v1](http://arxiv.org/abs/2502.01533v1)|[link](https://github.com/Ellmen/attending-to-distance)|
 |**2025-02-03**|**Common Foundations for SHACL, ShEx, and PG-Schema**|S. Ahmetaj et.al.|[2502.01295v1](http://arxiv.org/abs/2502.01295v1)|null|
 |**2025-02-03**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113v1](http://arxiv.org/abs/2502.01113v1)|null|
 |**2025-02-03**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language Model**|Seungri Yoon et.al.|[2502.01059v1](http://arxiv.org/abs/2502.01059v1)|null|
@@ -5422,7 +5422,7 @@ https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation.
 |**2025-01-31**|**EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics**|Omar H. Khater et.al.|[2502.00205v1](http://arxiv.org/abs/2502.00205v1)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196v1](http://arxiv.org/abs/2502.00196v1)|null|
 |**2025-01-31**|**Multimodal MRI-Ultrasound AI for Prostate Cancer Detection Outperforms Radiologist MRI Interpretation: A Multi-Center Study**|Hassan Jahanandish et.al.|[2502.00146v1](http://arxiv.org/abs/2502.00146v1)|null|
-|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094v1](http://arxiv.org/abs/2502.00094v1)|null|
+|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094v2](http://arxiv.org/abs/2502.00094v2)|null|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
 |**2025-01-31**|**Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks**|Halil Ibrahim Aysel et.al.|[2501.19271v1](http://arxiv.org/abs/2501.19271v1)|null|
 |**2025-01-31**|**Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence**|Aurora Rofena et.al.|[2501.19176v1](http://arxiv.org/abs/2501.19176v1)|null|
@@ -6109,7 +6109,7 @@ radiologists; ultimately improving outcomes for prostate cancer patients.
 摘要：<paragraph>在活檢前，磁振造影（MRI）正越來越常被用於鎖定可疑的攝護腺病灶。這導致人工智慧（AI）應用程式改善了以 MRI 為基礎的臨床顯著攝護腺癌（CsPCa）檢測。然而，在活檢期間，由 MRI 偵測到的病灶仍必須對應到經直腸超音波（TRUS）影像，這導致錯失 CsPCa。本研究系統性地評估了一個多模態 AI 架構，整合 MRI 和 TRUS 影像序列，以增強 CsPCa 識別。這項研究納入了來自兩家機構的三個群組中的 3110 名患者，他們接受了攝護腺活檢。所提出的架構基於 3D UNet 架構，在 1700 個測試案例中進行評估，並將其效能與僅使用 MRI 或 TRUS 的單模態 AI 模型進行比較。此外，所提出的模型與一個由 110 名患者組成的群組中的放射科醫師進行比較。與單模態 MRI（73%、30%）和 TRUS 模型（49%、27%）相比，多模態 AI 方法達到了更高的敏感度（80%）和病灶 Dice（42%）。與放射科醫師相比，多模態模型顯示出更高的特異性（88% 對 78%）和病灶 Dice（38% 對 33%），且敏感度相當（79%）。我們的研究結果證明了多模態 AI 在活檢和治療計畫期間改善 CsPCa 病灶鎖定的潛力，超越了目前的單模態模型和放射科醫師；最終改善了攝護腺癌患者的治療成果。</paragraph>
 
 ##### **AIN: The Arabic INclusive Large Multimodal Model**
-2502.00094v1 by Ahmed Heakl, Sara Ghaboura, Omkar Thawkar, Fahad Shahbaz Khan, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan
+2502.00094v2 by Ahmed Heakl, Sara Ghaboura, Omkar Thawkar, Fahad Shahbaz Khan, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan
 
 Amid the swift progress of large language models (LLMs) and their evolution
 into large multimodal models (LMMs), significant strides have been made in
@@ -6131,7 +6131,7 @@ and 38 sub-domains. AIN's superior capabilities position it as a significant
 step toward empowering Arabic speakers with advanced multimodal generative AI
 tools across diverse applications.
 
-摘要：在大型語言模型 (LLM) 快速進展及其演變成大型多模態模型 (LMM) 的過程中，英語和中文等高資源語言取得了顯著進展。儘管阿拉伯語 LLM 已取得顯著進展，但阿拉伯語 LMM 仍未得到充分探索，通常僅狹隘地關注語言和視覺理解的幾個特定方面。為了彌合這一差距，我們引入了 AIN（阿拉伯語包容性多模態模型），旨在在不同的領域中表現出色。AIN 是一種英語-阿拉伯語雙語 LMM，旨在在英語和阿拉伯語中表現出色，利用精心構建的 360 萬個高品質阿拉伯語-英語多模態數據樣本。AIN 展示了最先進的阿拉伯語性能，同時還具備強大的英語視覺能力。在最近的 CAMEL-Bench 基準測試中，包括 38 個子領域，包括多圖像理解、複雜視覺感知、手寫文件理解、視頻理解、醫學成像、植物病害和基於遙感的土地利用理解，我們的 AIN 表現出色，其中 7B 模型比 GPT-4o 高出 3.4%，平均優於八個領域和 38 個子領域。AIN 的卓越能力使其成為賦予阿拉伯語使用者跨不同應用程式先進多模態生成式 AI 工具的重要一步。
+摘要：在大型語言模型 (LLM) 快速發展，並演變成大型多模態模型 (LMM) 的過程中，英語和中文等高資源語言已取得重大進展。雖然阿拉伯語 LLM 已取得顯著進展，但阿拉伯語 LMM 仍未被廣泛探索，通常只狹隘地關注語言和視覺理解的幾個特定方面。為了彌合這項差距，我們推出了 AIN，即阿拉伯語包容性多模態模型，旨在在不同領域中表現出色。AIN 是一個英語-阿拉伯語雙語 LMM，旨在精通英語和阿拉伯語，利用精心建構的 360 萬個高品質阿拉伯語-英語多模態數據樣本。AIN 展示了最先進的阿拉伯語效能，同時也具備強大的英語視覺能力。在最近的 CAMEL-Bench 基準測試中，包含 38 個子領域，包括多影像理解、複雜視覺感知、手寫文件理解、影片理解、醫學影像、植物疾病和基於遙測的土地使用理解，我們的 AIN 表現出色，其中 7B 模型在八個領域和 38 個子領域的平均絕對增益為 3.4%，優於 GPT-4o。AIN 的卓越能力使其成為朝著賦予阿拉伯語使用者進階多模態生成式 AI 工具邁出的重要一步，可用於各種應用。
 
 ##### **Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**
 2501.19338v1 by Misha P. T Kaandorp, Damola Agbelese, Hosna Asma-ull, Hyun-Gi Kim, Kelly Payette, Patrice Grehten, Gennari Antonio Giulio, Levente István Lánczi, Andras Jakab
@@ -7987,7 +7987,7 @@ larger centers.
 |**2025-02-04**|**LLMER: Crafting Interactive Extended Reality Worlds with JSON Data Generated by Large Language Models**|Jiangong Chen et.al.|[2502.02441v1](http://arxiv.org/abs/2502.02441v1)|null|
 |**2025-02-04**|**Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment**|Yaling Shen et.al.|[2502.02438v1](http://arxiv.org/abs/2502.02438v1)|null|
 |**2025-02-04**|**Connections between Schedule-Free Optimizers, AdEMAMix, and Accelerated SGD Variants**|Depen Morwani et.al.|[2502.02431v1](http://arxiv.org/abs/2502.02431v1)|null|
-|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421v1](http://arxiv.org/abs/2502.02421v1)|null|
+|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421v1](http://arxiv.org/abs/2502.02421v1)|[link](https://github.com/ahnobari/ActivationInformedMerging)|
 |**2025-02-04**|**Avoiding spurious sharpness minimization broadens applicability of SAM**|Sidak Pal Singh et.al.|[2502.02407v1](http://arxiv.org/abs/2502.02407v1)|null|
 |**2025-02-04**|**LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models**|Tzu-Tao Chang et.al.|[2502.02406v1](http://arxiv.org/abs/2502.02406v1)|null|
 |**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391v1](http://arxiv.org/abs/2502.02391v1)|null|

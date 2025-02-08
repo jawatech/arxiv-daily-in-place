@@ -2,14 +2,16 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06**|**Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**|Longquan Jiang et.al.|[2502.03992v1](http://arxiv.org/abs/2502.03992v1)|null|
+|**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715v1](http://arxiv.org/abs/2502.03715v1)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450v1](http://arxiv.org/abs/2502.03450v1)|null|
 |**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283v1](http://arxiv.org/abs/2502.03283v1)|null|
-|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v1](http://arxiv.org/abs/2502.03032v1)|null|
+|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v2](http://arxiv.org/abs/2502.03032v2)|null|
 |**2025-02-05**|**A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs**|Bradley P. Allen et.al.|[2502.02896v1](http://arxiv.org/abs/2502.02896v1)|null|
 |**2025-02-05**|**Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization**|Chanhui Lee et.al.|[2502.02810v1](http://arxiv.org/abs/2502.02810v1)|null|
 |**2025-02-05**|**Leveraging the true depth of LLMs**|Ramón Calvo González et.al.|[2502.02790v1](http://arxiv.org/abs/2502.02790v1)|null|
 |**2025-02-04**|**Modular Training of Neural Networks aids Interpretability**|Satvik Golechha et.al.|[2502.02470v1](http://arxiv.org/abs/2502.02470v1)|null|
-|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362v1](http://arxiv.org/abs/2502.02362v1)|null|
+|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362v2](http://arxiv.org/abs/2502.02362v2)|null|
 |**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067v1](http://arxiv.org/abs/2502.02067v1)|[link](https://github.com/sssshivvvv/adaptbot)|
 |**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772v1](http://arxiv.org/abs/2502.01772v1)|null|
 |**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549v1](http://arxiv.org/abs/2502.01549v1)|null|
@@ -97,13 +99,61 @@
 |**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510v1](http://arxiv.org/abs/2501.04510v1)|null|
 |**2025-01-08**|**S2 Chunking: A Hybrid Framework for Document Segmentation Through Integrated Spatial and Semantic Analysis**|Prashant Verma et.al.|[2501.05485v1](http://arxiv.org/abs/2501.05485v1)|[link](https://github.com/Vprashant/s2-chunking-lib)|
 |**2025-01-08**|**Multimodal Graph Constrastive Learning and Prompt for ChartQA**|Yue Dai et.al.|[2501.04303v1](http://arxiv.org/abs/2501.04303v1)|null|
-|**2025-01-07**|**Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**|Wen-Dong Jiang et.al.|[2501.06224v2](http://arxiv.org/abs/2501.06224v2)|null|
+|**2025-01-07**|**Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**|Wen-Dong Jiang et.al.|[2501.06224v3](http://arxiv.org/abs/2501.06224v3)|null|
 |**2025-01-07**|**Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**|Benedikt Reitemeyer et.al.|[2501.03566v1](http://arxiv.org/abs/2501.03566v1)|null|
 |**2025-01-07**|**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**|Zelin Zhou et.al.|[2501.03560v1](http://arxiv.org/abs/2501.03560v1)|null|
-|**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166v1](http://arxiv.org/abs/2501.03166v1)|[link](https://github.com/aliwister/ast-icl)|
-|**2025-01-06**|**Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment**|Chongxian Chen et.al.|[2501.03085v1](http://arxiv.org/abs/2501.03085v1)|null|
 
 #### Abstracts
+##### **Ontology-Guided, Hybrid Prompt Learning for Generalization in Knowledge Graph Question Answering**
+2502.03992v1 by Longquan Jiang, Junbo Huang, Cedric Möller, Ricardo Usbeck
+
+Most existing Knowledge Graph Question Answering (KGQA) approaches are
+designed for a specific KG, such as Wikidata, DBpedia or Freebase. Due to the
+heterogeneity of the underlying graph schema, topology and assertions, most
+KGQA systems cannot be transferred to unseen Knowledge Graphs (KGs) without
+resource-intensive training data. We present OntoSCPrompt, a novel Large
+Language Model (LLM)-based KGQA approach with a two-stage architecture that
+separates semantic parsing from KG-dependent interactions. OntoSCPrompt first
+generates a SPARQL query structure (including SPARQL keywords such as SELECT,
+ASK, WHERE and placeholders for missing tokens) and then fills them with
+KG-specific information. To enhance the understanding of the underlying KG, we
+present an ontology-guided, hybrid prompt learning strategy that integrates KG
+ontology into the learning process of hybrid prompts (e.g., discrete and
+continuous vectors). We also present several task-specific decoding strategies
+to ensure the correctness and executability of generated SPARQL queries in both
+stages. Experimental results demonstrate that OntoSCPrompt performs as well as
+SOTA approaches without retraining on a number of KGQA datasets such as CWQ,
+WebQSP and LC-QuAD 1.0 in a resource-efficient manner and can generalize well
+to unseen domain-specific KGs like DBLP-QuAD and CoyPu KG Code:
+\href{https://github.com/LongquanJiang/OntoSCPrompt}{https://github.com/LongquanJiang/OntoSCPrompt}
+
+摘要：現有的知識圖譜問答（KGQA）方法大多是為特定 KG 而設計的，例如 Wikidata、DBpedia 或 Freebase。由於底層圖形模式、拓撲和斷言的異質性，大多數 KGQA 系統無法在沒有資源密集型訓練資料的情況下轉移到未見過的知識圖譜（KG）。我們提出 OntoSCPrompt，這是一種基於大型語言模型（LLM）的新型 KGQA 方法，採用兩階段架構，將語義解析與依賴 KG 的互動分開。OntoSCPrompt 首先生成 SPARQL 查詢結構（包括 SPARQL 關鍵字，例如 SELECT、ASK、WHERE 和缺失令牌的佔位符），然後用 KG 特定的資訊填寫它們。為了增強對底層 KG 的理解，我們提出了一種由本体指導的混合提示學習策略，將 KG 本体整合到混合提示（例如，離散和連續向量）的學習過程中。我們還提出了多種特定任務的解碼策略，以確保在兩個階段中生成的 SPARQL 查詢的正確性和可執行性。實驗結果表明，OntoSCPrompt 在 CWQ、WebQSP 和 LC-QuAD 1.0 等多個 KGQA 資料集上執行時，效能與 SOTA 方法一樣好，且資源使用效率高，並且可以很好地概括到未見過的特定領域 KG，例如 DBLP-QuAD 和 CoyPu KG Code：
+\href{https://github.com/LongquanJiang/OntoSCPrompt}{https://github.com/LongquanJiang/OntoSCPrompt}
+
+##### **Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**
+2502.03715v1 by Rui Cai, Chao Wang, Qianyi Cai, Dazhong Shen, Hui Xiong
+
+Knowledge Graph-based recommendations have gained significant attention due
+to their ability to leverage rich semantic relationships. However, constructing
+and maintaining Knowledge Graphs (KGs) is resource-intensive, and the accuracy
+of KGs can suffer from noisy, outdated, or irrelevant triplets. Recent
+advancements in Large Language Models (LLMs) offer a promising way to improve
+the quality and relevance of KGs for recommendation tasks. Despite this,
+integrating LLMs into KG-based systems presents challenges, such as efficiently
+augmenting KGs, addressing hallucinations, and developing effective joint
+learning methods. In this paper, we propose the Confidence-aware KG-based
+Recommendation Framework with LLM Augmentation (CKG-LLMA), a novel framework
+that combines KGs and LLMs for recommendation task. The framework includes: (1)
+an LLM-based subgraph augmenter for enriching KGs with high-quality
+information, (2) a confidence-aware message propagation mechanism to filter
+noisy triplets, and (3) a dual-view contrastive learning method to integrate
+user-item interactions and KG data. Additionally, we employ a confidence-aware
+explanation generation process to guide LLMs in producing realistic
+explanations for recommendations. Finally, extensive experiments demonstrate
+the effectiveness of CKG-LLMA across multiple public datasets.
+
+摘要：基於知識圖譜的推薦因其利用豐富語義關係的能力而備受關注。然而，構建和維護知識圖譜 (KG) 是一項資源密集型任務，而 KG 的準確性可能會受到雜訊、過時或無關的三元組的影響。大型語言模型 (LLM) 的最新進展為提高 KG 在推薦任務中的品質和相關性提供了一種有前途的方法。儘管如此，將 LLM 整合到基於 KG 的系統中會帶來挑戰，例如有效擴充 KG、處理幻覺，以及開發有效的聯合學習方法。在本文中，我們提出具有 LLM 擴充的信心感知型基於 KG 的推薦框架 (CKG-LLMA)，這是一個結合 KG 和 LLM 進行推薦任務的新穎框架。該框架包括：(1) 一個基於 LLM 的子圖擴充器，用於使用高品質資訊豐富 KG，(2) 一個信心感知型訊息傳播機制，用於過濾雜訊三元組，以及 (3) 一個雙視圖對比學習方法，用於整合使用者-項目互動和 KG 資料。此外，我們採用一個信心感知型解釋產生程序，以引導 LLM 為推薦產生逼真的解釋。最後，大量的實驗證明了 CKG-LLMA 在多個公開資料集中的有效性。
+
 ##### **A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**
 2502.03450v1 by Yiye Chen, Harpreet Sawhney, Nicholas Gydé, Yanan Jian, Jack Saunders, Patricio Vela, Ben Lundell
 
@@ -159,7 +209,7 @@ automatic KG updates.
 摘要：<paragraph>最近的研究表明，大型语言模型 (LLM) 在解决复杂的推理问题时容易出现幻觉，从而导致错误的结果。为了解决这个问题，研究人员结合了知识图谱 (KG) 来提高 LLM 的推理能力。然而，现有方法面临两个局限性：1) 它们通常假设问题的答案都包含在 KG 中，忽略了 KG 不完整的问题，2) 它们将 KG 视为一个静态存储库，而忽略了 KG 中固有的隐式逻辑推理结构。在本文中，我们介绍了 SymAgent，这是一个创新的神经符号代理框架，可以在 KG 和 LLM 之间实现协作增强。我们将 KG 概念化为动态环境，并将复杂的推理任务转化为一个多步骤的交互过程，使 KG 能够深入参与推理过程。SymAgent 由两个模块组成：Agent-Planner 和 Agent-Executor。Agent-Planner 利用 LLM 的归纳推理能力从 KG 中提取符号规则，指导高效的问题分解。Agent-Executor 自主调用预定义的动作工具来整合来自 KG 和外部文档的信息，解决 KG 不完整的问题。此外，我们设计了一个自学习框架，包括在线探索和离线迭代策略更新阶段，使代理能够自动合成推理轨迹并提高性能。实验结果表明，具有弱 LLM 主干的 SymAgent（即 7B 系列）与各种强大的基线相比，产生了更好或相当的性能。进一步的分析表明，我们的代理可以识别缺失的三元组，促进自动 KG 更新。</paragraph>
 
 ##### **Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**
-2502.03032v1 by Daniil Laptev, Nikita Balagansky, Yaroslav Aksenov, Daniil Gavrilov
+2502.03032v2 by Daniil Laptev, Nikita Balagansky, Yaroslav Aksenov, Daniil Gavrilov
 
 We introduce a new approach to systematically map features discovered by
 sparse autoencoder across consecutive layers of large language models,
@@ -175,7 +225,7 @@ cross-layer interpretability framework that not only clarifies how features
 develop through forward passes but also provides new means for transparent
 manipulation of large language models.
 
-摘要：我們提出了一種新的方法，可以系統性地對大型語言模型中連續層中稀疏自動編碼器發現的功能進行對應，擴展了先前檢視層間功能連結的研究。透過使用無資料的餘弦相似性技術，我們追蹤特定功能如何持續、轉換或首次出現在每個階段。此方法產生了功能演化的細粒度流程圖，能精細地解釋模型運算並提供機制見解。至關重要的是，我們展示了這些跨層功能對應如何透過放大或抑制所選功能來促進直接引導模型行為，在文字生成中實現目標主題控制。我們的研究結果共同突出了因果、跨層可解釋性架構的效用，它不僅闡明了功能如何透過前向傳遞而發展，還提供了透明操作大型語言模型的新方法。
+摘要：我們提出了一種新方法，用於系統性地繪製大型語言模型連續層中稀疏自動編碼器發現的功能，擴展了先前研究層間特徵連結的工作。透過使用無資料餘弦相似性技術，我們追蹤特定特徵在每個階段如何持續、轉換或首次出現。此方法產生了特徵演化的細粒度流程圖，實現了細粒度的可解釋性和對模型運算的機制見解。至關重要的是，我們展示了這些跨層特徵圖如何透過放大或抑制所選特徵來促進模型行為的直接引導，在文字生成中實現目標主題控制。我們的研究結果共同突出了因果、跨層可解釋性框架的效用，不僅闡明了特徵如何透過前向傳遞發展，還提供了新的方法來透明地操作大型語言模型。
 
 ##### **A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs**
 2502.02896v1 by Bradley P. Allen, Paul T. Groth
@@ -263,7 +313,7 @@ easier to interpret.
 也就是將模型分割成可獨立研究的不相交群集。我們定義群集能力的衡量標準，並顯示預訓練模型透過光譜圖群集形成高度糾結的群集。因此，我們使用「群集能力損失」函數訓練模型，以使其更具模組化，該函數鼓勵形成非交互群集。使用自動化可解釋性技術，我們顯示我們的模型可以幫助訓練更具模組化、學習不同、不相交且較小的電路的模型。我們研究訓練於 MNIST 和 CIFAR 的 CNN、訓練於模組化加法的微型Transformer，以及語言模型。我們的做法為訓練學習較簡單函數且較易於解釋的神經網路提供一個有希望的方向。
 
 ##### **Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**
-2502.02362v1 by Sagnik Mukherjee, Abhinav Chinta, Takyoung Kim, Tarun Anoop Sharma, Dilek Hakkani Tur
+2502.02362v2 by Sagnik Mukherjee, Abhinav Chinta, Takyoung Kim, Tarun Anoop Sharma, Dilek Hakkani Tur
 
 Chain-of-Thought (CoT) prompting enhances mathematical reasoning in large
 language models (LLMs) by enabling detailed step-by-step solutions. However,
@@ -288,7 +338,7 @@ premise-centric representations in addressing complex problem-solving tasks and
 open new avenues for improving the reliability of LLM-based reasoning
 evaluations.
 
-摘要：鏈式思考 (CoT) 提示透過啟用詳細的逐步解答來增強大型語言模型 (LLM) 中的數學推理。然而，由於 LLM 的冗長性，產生的推理鏈條可能會很長，這使得驗證推理步驟和追蹤步驟之間的相依性所產生的問題變得更加困難，而這些相依性可能出現在步驟順序中較遠的地方。重要的是，數學推理允許每一步都從一組小的前提推導出來，這些前提是推理鏈中前一步的子集。在本文中，我們提出一個框架來識別每一步的前提，以改善推理評估。我們透過引入前提連結將傳統的線性推理鏈條重新結構為前提增強推理鏈條 (PARC)，形成一個有向無環圖，其中節點是步驟，邊緣是前提連結。透過我們建立的基於 PARC 的資料集（即 LLM 中的前提和錯誤識別 (PERL)）進行的實驗，我們證明 LLM 能夠在複雜的推理鏈條中可靠地識別前提。特別是，即使是開源 LLM 在前提識別中也能達到 90% 的召回率。我們還表明，PARC 有助於更可靠地識別推理鏈條中的錯誤。在前提下於 PARC 中進行逐步驗證時，錯誤識別的準確度提高了 6% 至 16%。我們的發現突顯了以前提為中心的表示在解決複雜問題解決任務中的效用，並為改善基於 LLM 的推理評估的可靠性開闢了新途徑。
+摘要：<paragraph>鏈式思考 (CoT) 提示透過提供詳細的逐步解法，增強大型語言模型 (LLM) 的數學推理能力。然而，由於 LLM 的冗長性，產生的推理鏈條可能會很長，這使得驗證推理步驟和追蹤步驟之間相依性所導致的問題變得更加困難，而這些步驟可能出現在步驟順序中較遠的地方。重要的是，數學推理允許每一步都從一組小的前提推導出來，而這些前提是推理鏈條中前一步的子集。在本文中，我們提出一個框架來識別每個步驟的前提，以改進推理評估。我們透過引入前提連結，將傳統的線性推理鏈條重新建構為前提擴充推理鏈條 (PARC)，形成一個有向無環圖，其中節點為步驟，而邊緣為前提連結。透過我們建立的基於 PARC 的資料集 (PERL，即 LLM 中的前提和錯誤識別) 進行的實驗，我們證明 LLM 能夠在複雜的推理鏈條中可靠地識別前提。特別是，即使是開放原始碼的 LLM 也能在前提識別中達到 90% 的召回率。我們還表明，PARC 有助於更可靠地識別推理鏈條中的錯誤。在前提下於 PARC 中執行逐步驗證時，錯誤識別的準確度提高了 6% 至 16% 的絕對值。我們的研究結果突顯了以前提為中心的表示在解決複雜問題解決任務中的效用，並為改進基於 LLM 的推理評估的可靠性開闢了新的途徑。</paragraph>
 
 ##### **AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**
 2502.02067v1 by Shivam Singh, Karthik Swaminathan, Nabanita Dash, Ramandeep Singh, Snehasis Banerjee, Mohan Sridharan, Madhava Krishna
@@ -2539,7 +2589,7 @@ validating the effectiveness of our proposed methods.
 我們在公眾基準上測試了這兩種方法，例如 ChartQA、OpenCQA 和 ChartX，證明了效能的提升，並驗證了我們提出的方法的有效性。
 
 ##### **Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT**
-2501.06224v2 by Wen-Dong Jiang, Chih-Yung Chang, Diptendu Sinha Roy
+2501.06224v3 by Wen-Dong Jiang, Chih-Yung Chang, Diptendu Sinha Roy
 
 Recently, violence detection systems developed using unified multimodal
 models have achieved significant success and attracted widespread attention.
@@ -2564,7 +2614,7 @@ proposed system. A case study further reveals an intriguing phenomenon: as the
 number of bystanders increases, the occurrence of violent behavior tends to
 decrease.
 
-摘要：<paragraph>最近，使用統一多模態模型開發的暴力偵測系統取得顯著成功，並引起廣泛關注。然而，大多數這些系統面臨兩個關鍵挑戰：作為黑盒模型缺乏可解釋性，以及功能有限，僅提供分類或檢索功能。為了應對這些挑戰，本文提出了一種新穎的可解釋暴力檢測系統，稱為三合一 (TIO) 系統。TIO 系統整合了知識圖 (KG) 和圖注意力網路 (GAT)，以提供三項核心功能：偵測、檢索和解釋。具體來說，系統處理每個影片幀以及由大型語言模型 (LLM) 為包含潛在暴力行為的影片產生的文字描述。它採用 ImageBind 為構建知識圖產生高維度嵌入，使用 GAT 進行推理，並應用輕量級時間序列模組來提取影片嵌入特徵。最後一步連接分類器和檢索器以取得多功能輸出。KG 的可解釋性使系統能夠驗證每個輸出背後的推理過程。此外，本文介紹了幾種輕量級方法，以減少 TIO 系統的資源消耗並提高其效率。在 XD-Violence 和 UCF-Crime 資料集上進行的廣泛實驗驗證了所提出系統的有效性。案例研究進一步揭示了一個有趣的現象：隨著旁觀者人數的增加，暴力行為的發生趨勢下降。</paragraph>
+摘要：<paragraph>最近，使用统一多模态模型开发的暴力检测系统取得了显著成功并引起了广泛关注。然而，大多数这些系统面临两项关键挑战：缺乏作为黑盒模型的可解释性以及功能有限，只提供分类或检索功能。为了应对这些挑战，本文提出了一种新颖的可解释暴力检测系统，称为三合一 (TIO) 系统。TIO 系统集成了知识图谱 (KG) 和图注意力网络 (GAT)，以提供三个核心功能：检测、检索和解释。具体来说，该系统处理每个视频帧以及由大型语言模型 (LLM) 为包含潜在暴力行为的视频生成的文本描述。它使用 ImageBind 为构建知识图谱生成高维嵌入，使用 GAT 进行推理，并应用轻量级时间序列模块来提取视频嵌入特征。最后一步连接一个分类器和一个检索器，以实现多功能输出。KG 的可解释性使系统能够验证每个输出背后的推理过程。此外，本文介绍了几种轻量级方法来减少 TIO 系统的资源消耗并提高其效率。在 XD-Violence 和 UCF-Crime 数据集上进行的广泛实验验证了所提出系统的有效性。案例研究进一步揭示了一个有趣的现象：随着旁观者人数的增加，暴力行为的发生往往会减少。</paragraph>
 
 ##### **Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities**
 2501.03566v1 by Benedikt Reitemeyer, Hans-Georg Fill
@@ -2605,50 +2655,4 @@ textual information completion of KGs, which features over 25,000 entities
 across 10 diverse languages.
 
 摘要：多語言知識圖譜 (KG) 為各種 NLP 應用程式提供高品質的關係和文字資訊，但它們通常是不完整的，特別是非英語語言。先前的研究顯示，結合不同語言中 KG 的資訊有助於知識圖譜完成功能 (KGC)，即預測實體之間遺失的關係，或知識圖譜增強 (KGE)，即預測實體遺失的文字資訊。儘管先前的努力將 KGC 和 KGE 視為獨立的任務，我們假設它們是相互依賴且互利的。為此，我們引入了 KG-TRICK，一個新穎的序列到序列架構，它統一了多語言 KG 的文字和關係資訊完成任務。KG-TRICK 證明：i) 可以將 KGC 和 KGE 的任務統一到單一架構中，以及 ii) 結合多種語言的文字資訊有助於提高 KG 的完整性。作為我們貢獻的一部分，我們還引入了 WikiKGE10++，這是 KG 文字資訊完成最大的手動整理基準，其特點是超過 10 種不同語言中的 25,000 個實體。
-
-##### **Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**
-2501.03166v1 by Ali Al-Lawati, Jason Lucas, Prasenjit Mitra
-
-Large Language Models (LLMs) have demonstrated remarkable performance in
-various NLP tasks, including semantic parsing, which trans lates natural
-language into formal code representations. However, the reverse process,
-translating code into natural language, termed semantic captioning, has
-received less attention. This task is becoming increasingly important as LLMs
-are integrated into platforms for code generation, security analysis, and
-educational purposes. In this paper, we focus on the captioning of SQL query
-(SQL2Text) to address the critical need for understanding and explaining SQL
-queries in an era where LLM-generated code poses potential security risks. We
-repurpose Text2SQL datasets for SQL2Text by introducing an iterative ICL prompt
-using GPT-4o to generate multiple additional utterances, which enhances the
-robustness of the datasets for the reverse task. We conduct our experiments
-using in-context learning (ICL) based on different sample selection methods,
-emphasizing smaller, more computationally efficient LLMs. Our findings
-demonstrate that leveraging the inherent graph properties of SQL for ICL sample
-selection significantly outperforms random selection by up to 39% on BLEU score
-and provides better results than alternative methods. Dataset and codes are
-published: \url{https://github.com/aliwister/ast-icl}.
-
-摘要：大型語言模型 (LLM) 已在各種 NLP 任務中展現出驚人的效能，包括語意分析，它將自然語言轉換為正式的程式碼表示。然而，反向過程，將程式碼轉換為自然語言，稱為語意標題，則較少受到關注。隨著 LLM 整合到程式碼產生、安全性分析和教育目的的平台中，這項任務正變得越來越重要。在本文中，我們專注於 SQL 查詢的標題 (SQL2Text)，以滿足在 LLM 產生的程式碼構成潛在安全風險的時代中，理解和解釋 SQL 查詢的關鍵需求。我們透過使用 GPT-4o 導入反覆的 ICL 提示來產生多個額外的語句，重新調整 Text2SQL 資料集以用於 SQL2Text，這增強了資料集對反向任務的穩健性。我們使用基於不同範例選取方法的情境學習 (ICL) 進行實驗，強調較小、計算效率較高的 LLM。我們的研究結果證明，利用 SQL 的內在圖形屬性進行 ICL 範例選取，在 BLEU 分數上顯著優於隨機選取，最多可達 39%，並提供比其他方法更好的結果。資料集和程式碼已發布：\url{https://github.com/aliwister/ast-icl}。
-
-##### **Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment**
-2501.03085v1 by Chongxian Chen, Fan Mo, Xin Fan, Hayato Yamana
-
-Personalized fashion recommendation is a difficult task because 1) the
-decisions are highly correlated with users' aesthetic appetite, which previous
-work frequently overlooks, and 2) many new items are constantly rolling out
-that cause strict cold-start problems in the popular identity (ID)-based
-recommendation methods. These new items are critical to recommend because of
-trend-driven consumerism. In this work, we aim to provide more accurate
-personalized fashion recommendations and solve the cold-start problem by
-converting available information, especially images, into two attribute graphs
-focusing on optimized image utilization and noise-reducing user modeling.
-Compared with previous methods that separate image and text as two components,
-the proposed method combines image and text information to create a richer
-attributes graph. Capitalizing on the advancement of large language and vision
-models, we experiment with extracting fine-grained attributes efficiently and
-as desired using two different prompts. Preliminary experiments on the IQON3000
-dataset have shown that the proposed method achieves competitive accuracy
-compared with baselines.
-
-摘要：客製化時尚推薦是一項困難的任務，因為 1) 決策與使用者的美學喜好高度相關，而先前的研究經常忽略這一點，以及 2) 許多新商品不斷推出，這會在流行的身分 (ID) 為基礎的推薦方法中造成嚴重的冷啟動問題。這些新商品對於推薦至關重要，因為它們會引領消費趨勢。在這項研究中，我們旨在提供更準確的客製化時尚推薦，並透過將可用資訊（尤其是圖片）轉換成兩個屬性圖表來解決冷啟動問題，重點在於最佳化圖片使用和降低雜訊的使用者建模。與將圖片和文字分開為兩個組成的先前方法相比，所提出的方法結合圖片和文字資訊，以建立更豐富的屬性圖表。利用大型語言和視覺模型的進步，我們嘗試使用兩種不同的提示有效率且如預期般地萃取細緻的屬性。在 IQON3000 資料集上的初步實驗顯示，與基準相比，所提出的方法達到了競爭力的準確度。
 

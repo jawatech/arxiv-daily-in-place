@@ -2,6 +2,11 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06**|**Automatic quantification of breast cancer biomarkers from multiple 18F-FDG PET image segmentation**|Tewele W. Tareke et.al.|[2502.04083v1](http://arxiv.org/abs/2502.04083v1)|null|
+|**2025-02-06**|**Generalize Drug Response Prediction by Latent Independent Projection for Asymmetric Constrained Domain Generalization**|Ran Song et.al.|[2502.04034v1](http://arxiv.org/abs/2502.04034v1)|null|
+|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772v1](http://arxiv.org/abs/2502.03772v1)|[link](https://github.com/Asunatan/HSQformer)|
+|**2025-02-05**|**Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**|Mehrdad Asadi et.al.|[2502.03591v1](http://arxiv.org/abs/2502.03591v1)|[link](https://github.com/the-mercury/CIHMLC)|
+|**2025-02-05**|**Code Simulation as a Proxy for High-order Tasks in Large Language Models**|Emanuele La Malfa et.al.|[2502.03568v1](http://arxiv.org/abs/2502.03568v1)|null|
 |**2025-02-05**|**Accurate AI-Driven Emergency Vehicle Location Tracking in Healthcare ITS Digital Twin**|Sarah Al-Shareeda et.al.|[2502.03396v1](http://arxiv.org/abs/2502.03396v1)|null|
 |**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333v1](http://arxiv.org/abs/2502.03333v1)|null|
 |**2025-02-05**|**MeDiSumQA: Patient-Oriented Question-Answer Generation from Discharge Letters**|Amin Dada et.al.|[2502.03298v1](http://arxiv.org/abs/2502.03298v1)|null|
@@ -19,6 +24,7 @@
 |**2025-02-04**|**Deep Learning-Based Facial Expression Recognition for the Elderly: A Systematic Review**|F. Xavier Gaya-Morey et.al.|[2502.02618v1](http://arxiv.org/abs/2502.02618v1)|null|
 |**2025-02-04**|**Causally-informed Deep Learning towards Explainable and Generalizable Outcomes Prediction in Critical Care**|Yuxiao Cheng et.al.|[2502.02109v1](http://arxiv.org/abs/2502.02109v1)|null|
 |**2025-02-03**|**An Agentic AI Workflow for Detecting Cognitive Concerns in Real-world Data**|Jiazi Tian et.al.|[2502.01789v1](http://arxiv.org/abs/2502.01789v1)|null|
+|**2025-02-03**|**Can Domain Experts Rely on AI Appropriately? A Case Study on AI-Assisted Prostate Cancer MRI Diagnosis**|Chacha Chen et.al.|[2502.03482v1](http://arxiv.org/abs/2502.03482v1)|null|
 |**2025-02-03**|**Improving Transformer World Models for Data-Efficient RL**|Antoine Dedieu et.al.|[2502.01591v1](http://arxiv.org/abs/2502.01591v1)|null|
 |**2025-02-03**|**Data-Efficient Model for Psychological Resilience Prediction based on Neurological Data**|Zhi Zhang et.al.|[2502.01377v1](http://arxiv.org/abs/2502.01377v1)|null|
 |**2025-02-03**|**OphthBench: A Comprehensive Benchmark for Evaluating Large Language Models in Chinese Ophthalmology**|Chengfeng Zhou et.al.|[2502.01243v1](http://arxiv.org/abs/2502.01243v1)|null|
@@ -96,14 +102,135 @@
 |**2025-01-24**|**GraPPI: A Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein Interaction Exploration**|Ziwen Li et.al.|[2501.16382v1](http://arxiv.org/abs/2501.16382v1)|[link](https://github.com/aaronli43/grappi)|
 |**2025-01-24**|**Rethinking Table Instruction Tuning**|Naihao Deng et.al.|[2501.14693v1](http://arxiv.org/abs/2501.14693v1)|null|
 |**2025-01-24**|**Approach to Designing CV Systems for Medical Applications: Data, Architecture and AI**|Dmitry Ryabtsev et.al.|[2501.14689v1](http://arxiv.org/abs/2501.14689v1)|null|
-|**2025-01-24**|**Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**|Fuping Wu et.al.|[2501.14685v1](http://arxiv.org/abs/2501.14685v1)|null|
-|**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654v1](http://arxiv.org/abs/2501.14654v1)|[link](https://github.com/stanfordmlgroup/medagentbench)|
-|**2025-01-24**|**Review and Recommendations for using Artificial Intelligence in Intracoronary Optical Coherence Tomography Analysis**|Xu Chen et.al.|[2501.18614v1](http://arxiv.org/abs/2501.18614v1)|null|
-|**2025-01-24**|**Registration of Longitudinal Liver Examinations for Tumor Progress Assessment**|Walid Yassine et.al.|[2501.14483v1](http://arxiv.org/abs/2501.14483v1)|null|
-|**2025-01-24**|**Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware Pesticide Design**|Taehan Kim et.al.|[2501.14469v1](http://arxiv.org/abs/2501.14469v1)|null|
-|**2025-01-24**|**ECTIL: Label-efficient Computational Tumour Infiltrating Lymphocyte (TIL) assessment in breast cancer: Multicentre validation in 2,340 patients with breast cancer**|Yoni Schirris et.al.|[2501.14379v1](http://arxiv.org/abs/2501.14379v1)|[link](https://github.com/nki-ai/ectil)|
 
 #### Abstracts
+##### **Automatic quantification of breast cancer biomarkers from multiple 18F-FDG PET image segmentation**
+2502.04083v1 by Tewele W. Tareke, Neree Payan, Alexandre Cochet, Laurent Arnould, Benoit Presles, Jean-Marc Vrigneaud, Fabrice Meriaudeau, Alain Lalande
+
+Neoadjuvant chemotherapy (NAC) has become a standard clinical practice for
+tumor downsizing in breast cancer with 18F-FDG Positron Emission Tomography
+(PET). Our work aims to leverage PET imaging for the segmentation of breast
+lesions. The focus is on developing an automated system that accurately
+segments primary tumor regions and extracts key biomarkers from these areas to
+provide insights into the evolution of breast cancer following the first course
+of NAC. 243 baseline 18F-FDG PET scans (PET_Bl) and 180 follow-up 18F-FDG PET
+scans (PET_Fu) were acquired before and after the first course of NAC,
+respectively. Firstly, a deep learning-based breast tumor segmentation method
+was developed. The optimal baseline model (model trained on baseline exams) was
+fine-tuned on 15 follow-up exams and adapted using active learning to segment
+tumor areas in PET_Fu. The pipeline computes biomarkers such as maximum
+standardized uptake value (SUVmax), metabolic tumor volume (MTV), and total
+lesion glycolysis (TLG) to evaluate tumor evolution between PET_Fu and PET_Bl.
+Quality control measures were employed to exclude aberrant outliers. The nnUNet
+deep learning model outperformed in tumor segmentation on PET_Bl, achieved a
+Dice similarity coefficient (DSC) of 0.89 and a Hausdorff distance (HD) of 3.52
+mm. After fine-tuning, the model demonstrated a DSC of 0.78 and a HD of 4.95 mm
+on PET_Fu exams. Biomarkers analysis revealed very strong correlations whatever
+the biomarker between manually segmented and automatically predicted regions.
+The significant average decrease of SUVmax, MTV and TLG were 5.22, 11.79 cm3
+and 19.23 cm3, respectively. The presented approach demonstrates an automated
+system for breast tumor segmentation from 18F-FDG PET. Thanks to the extracted
+biomarkers, our method enables the automatic assessment of cancer progression.
+
+摘要：新辅助化疗 (NAC) 已成为乳腺癌中采用 18F-FDG 正电子发射断层扫描 (PET) 进行肿瘤缩小的标准临床实践。我们的工作旨在利用 PET 影像分割乳腺病变。重点在于开发一个自动系统，该系统可以准确分割原发性肿瘤区域并从这些区域提取关键生物标记，以深入了解乳腺癌在第一疗程 NAC 后的演变。分别在第一疗程 NAC 之前和之后采集了 243 例基线 18F-FDG PET 扫描 (PET_Bl) 和 180 例随访 18F-FDG PET 扫描 (PET_Fu)。首先，开发了一种基于深度学习的乳腺肿瘤分割方法。对 15 例随访检查对最优基线模型（在基线检查中训练的模型）进行了微调，并使用主动学习对 PET_Fu 中的肿瘤区域进行了分割。该管道计算诸如最大标准摄取值 (SUVmax)、代谢肿瘤体积 (MTV) 和总病灶糖酵解 (TLG) 等生物标记，以评估 PET_Fu 和 PET_Bl 之间的肿瘤演变。采用质量控制措施来排除异常值。nnUNet 深度学习模型在 PET_Bl 上的肿瘤分割方面表现出色，达到 0.89 的 Dice 相似性系数 (DSC) 和 3.52 毫米的 Hausdorff 距离 (HD)。微调后，该模型在 PET_Fu 检查中显示出 0.78 的 DSC 和 4.95 毫米的 HD。无论手动分割区域和自动预测区域之间的生物标记如何，生物标记分析都显示出非常强的相关性。SUVmax、MTV 和 TLG 的平均显着下降分别为 5.22、11.79 cm3 和 19.23 cm3。所提出的方法展示了一个用于从 18F-FDG PET 分割乳腺肿瘤的自动化系统。由于提取了生物标记，我们的方法能够自动评估癌症进展。
+
+##### **Generalize Drug Response Prediction by Latent Independent Projection for Asymmetric Constrained Domain Generalization**
+2502.04034v1 by Ran Song, Yinpu Bai, Hui Liu
+
+The accurate prediction of drug responses remains a formidable challenge,
+particularly at the single-cell level and in clinical treatment contexts. Some
+studies employ transfer learning techniques to predict drug responses in
+individual cells and patients, but they require access to target-domain data
+during training, which is often unavailable or only obtainable in future. In
+this study, we propose a novel domain generalization framework, termed
+panCancerDR, to address this challenge. We conceptualize each cancer type as a
+distinct source domain, with its cell lines serving as domain-specific samples.
+Our primary objective is to extract domain-invariant features from the
+expression profiles of cell lines across diverse cancer types, thereby
+generalize the predictive capacity to out-of-distribution samples. To enhance
+robustness, we introduce a latent independence projection (LIP) module that
+encourages the encoder to extract informative yet non-redundant features. Also,
+we propose an asymmetric adaptive clustering constraint, which clusters
+drug-sensitive samples into a compact group while drives resistant samples
+dispersed across separate clusters in the latent space. Our empirical
+experiments demonstrate that panCancerDR effectively learns task-relevant
+features from diverse source domains, and achieves accurate predictions of drug
+response for unseen cancer type during training. Furthermore, when evaluated on
+single-cell and patient-level prediction tasks, our model-trained solely on in
+vitro cell line data without access to target-domain information-consistently
+outperforms and matched current state-of-the-art methods. These findings
+highlights the potential of our method for real-world clinical applications.
+
+摘要：<paragraph>準確預測藥物反應仍然是一項艱鉅的挑戰，特別是在單細胞層級和臨床治療背景中。一些研究採用遷移學習技術來預測個別細胞和患者的藥物反應，但它們需要在訓練期間存取目標網域資料，而這些資料通常無法取得，或只能在未來取得。在這項研究中，我們提出一個新穎的網域概化架構，稱為 panCancerDR，以應對這項挑戰。我們將每種類型的癌症概念化為一個不同的來源網域，其細胞株作為特定網域的樣本。我們的首要目標是從不同癌症類型的細胞株表現特徵中萃取網域不變特徵，從而將預測能力概化到分布外的樣本。為了增強穩健性，我們引入一個潛在獨立投影 (LIP) 模組，鼓勵編碼器萃取有資訊但非冗餘的特徵。此外，我們提出一個非對稱自適應聚類約束，將對藥物敏感的樣本聚類到一個緊湊的群組中，同時驅動抗藥性樣本分散在潛在空間中的不同群組中。我們的實證實驗證明，panCancerDR 有效地從不同的來源網域學習與任務相關的特徵，並在訓練期間對未見的癌症類型實現準確的藥物反應預測。此外，當在單細胞和患者層級預測任務中進行評估時，我們的模型僅在體外細胞株資料上訓練，而沒有存取目標網域資訊，始終優於並符合當前的最新方法。這些發現突顯了我們的方法在實際臨床應用中的潛力。</paragraph>
+
+##### **A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**
+2502.03772v1 by Chaoyin She, Ruifang Lu, Danni He, Jiayi Lv, Yadan Lin, Meiqing Cheng, Hui Huang, Lida Chen, Wei Wang, Qinghua Huang
+
+Hepatocellular carcinoma (HCC) ranks as the third leading cause of
+cancer-related mortality worldwide, with early detection being crucial for
+improving patient survival rates. However, early screening for HCC using
+ultrasound suffers from insufficient sensitivity and is highly dependent on the
+expertise of radiologists for interpretation. Leveraging the latest
+advancements in artificial intelligence (AI) in medical imaging, this study
+proposes an innovative Hierarchical Sparse Query Transformer (HSQformer) model
+that combines the strengths of Convolutional Neural Networks (CNNs) and Vision
+Transformers (ViTs) to enhance the accuracy of HCC diagnosis in ultrasound
+screening. The HSQformer leverages sparse latent space representations to
+capture hierarchical details at various granularities without the need for
+complex adjustments, and adopts a modular, plug-and-play design philosophy,
+ensuring the model's versatility and ease of use. The HSQformer's performance
+was rigorously tested across three distinct clinical scenarios: single-center,
+multi-center, and high-risk patient testing. In each of these settings, it
+consistently outperformed existing state-of-the-art models, such as ConvNext
+and SwinTransformer. Notably, the HSQformer even matched the diagnostic
+capabilities of senior radiologists and comprehensively surpassed those of
+junior radiologists. The experimental results from this study strongly
+demonstrate the effectiveness and clinical potential of AI-assisted tools in
+HCC screening. The full code is available at
+https://github.com/Asunatan/HSQformer.
+
+摘要：肝細胞癌（HCC）是全球第三大癌症相關死亡原因，早期檢測對於提高患者存活率至關重要。然而，使用超音波進行 HCC 早期篩檢的靈敏度不足，且高度依賴放射科醫師的專業知識進行判讀。本研究利用醫學影像中人工智慧（AI）的最新進展，提出了一種創新的分層稀疏查詢Transformer（HSQformer）模型，結合了卷積神經網路（CNN）和視覺Transformer（ViT）的優點，以提高超音波篩檢中 HCC 診斷的準確性。HSQformer 利用稀疏潛在空間表示，在不需要複雜調整的情況下擷取各種粒度層級的細節，並採用模組化、即插即用的設計理念，確保模型的多功能性和易用性。HSQformer 的效能經過三個不同的臨床場景的嚴格測試：單中心、多中心和高風險患者測試。在這些設定中，它始終優於現有的最先進模型，例如 ConvNext 和 SwinTransformer。值得注意的是，HSQformer 甚至匹配了資深放射科醫師的診斷能力，並全面超越了初級放射科醫師的診斷能力。本研究的實驗結果有力地證明了 AI 輔助工具在 HCC 篩檢中的有效性和臨床潛力。完整程式碼可在 https://github.com/Asunatan/HSQformer 取得。
+
+##### **Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**
+2502.03591v1 by Mehrdad Asadi, Komi Sodoké, Ian J. Gerard, Marta Kersten-Oertel
+
+In this work, we present a novel approach to multi-label chest X-ray (CXR)
+image classification that enhances clinical interpretability while maintaining
+a streamlined, single-model, single-run training pipeline. Leveraging the
+CheXpert dataset and VisualCheXbert-derived labels, we incorporate hierarchical
+label groupings to capture clinically meaningful relationships between
+diagnoses. To achieve this, we designed a custom hierarchical binary
+cross-entropy (HBCE) loss function that enforces label dependencies using
+either fixed or data-driven penalty types. Our model achieved a mean area under
+the receiver operating characteristic curve (AUROC) of 0.903 on the test set.
+Additionally, we provide visual explanations and uncertainty estimations to
+further enhance model interpretability. All code, model configurations, and
+experiment details are made available.
+
+摘要：在本文中，我們提出胸部 X 光（CXR）影像多標籤分類的新方法，在維持簡化的單一模型、單次執行訓練管線的同時，提升臨床可解釋性。利用 CheXpert 資料集和 VisualCheXbert 衍生的標籤，我們納入階層標籤群組，以擷取診斷之間具有臨床意義的關聯性。為此，我們設計了自訂的階層二元交叉熵 (HBCE) 損失函數，使用固定或資料驅動的懲罰類型來強制執行標籤依賴性。我們的模型在測試集上達到受試者工作特性曲線 (AUROC) 下的平均面積為 0.903。此外，我們提供視覺化說明和不確定性估計，以進一步提升模型可解釋性。所有程式碼、模型組態和實驗詳細資料皆已公開。
+
+##### **Code Simulation as a Proxy for High-order Tasks in Large Language Models**
+2502.03568v1 by Emanuele La Malfa, Christoph Weinhuber, Orazio Torre, Fangru Lin, X. Angelo Huang, Samuele Marro, Anthony Cohn, Nigel Shadbolt, Michael Wooldridge
+
+Many reasoning, planning, and problem-solving tasks share an intrinsic
+algorithmic nature: correctly simulating each step is a sufficient condition to
+solve them correctly. We collect pairs of naturalistic and synthetic reasoning
+tasks to assess the capabilities of Large Language Models (LLM). While
+naturalistic tasks often require careful human handcrafting, we show that
+synthetic data is, in many cases, a good proxy that is much easier to collect
+at scale. We leverage common constructs in programming as the counterpart of
+the building blocks of naturalistic reasoning tasks, such as straight-line
+programs, code that contains critical paths, and approximate and redundant
+instructions. We further assess the capabilities of LLMs on sorting problems
+and repeated operations via sorting algorithms and nested loops. Our synthetic
+datasets further reveal that while the most powerful LLMs exhibit relatively
+strong execution capabilities, the process is fragile: it is negatively
+affected by memorisation and seems to rely heavily on pattern recognition. Our
+contribution builds upon synthetically testing the reasoning capabilities of
+LLMs as a scalable complement to handcrafted human-annotated problems.
+
+摘要：許多推理、規劃和問題解決任務共享一個內在的演算法性質：正確模擬每一步就足以正確解決它們。我們收集自然主義和合成推理任務對，以評估大型語言模型 (LLM) 的功能。雖然自然主義任務通常需要仔細的人工製作，但我們表明在許多情況下，合成資料是一個很好的代理，而且更容易大規模收集。我們利用程式設計中的常見建構，作為自然主義推理任務構建區塊的對應物，例如直線程式、包含關鍵路徑的程式碼，以及近似和冗餘指令。我們進一步評估 LLM 在排序問題和重複運算上的功能，透過排序演算法和巢狀迴圈。我們的合成資料集進一步揭示，雖然最強大的 LLM 表現出相對強大的執行能力，但這個過程很脆弱：它受到記憶的負面影響，而且似乎嚴重依賴模式辨識。我們的貢獻建立在以合成方式測試 LLM 的推理能力之上，作為手工編寫人類標註問題的可擴充補充。
+
 ##### **Accurate AI-Driven Emergency Vehicle Location Tracking in Healthcare ITS Digital Twin**
 2502.03396v1 by Sarah Al-Shareeda, Yasar Celik, Bilge Bilgili, Ahmed Al-Dubai, Berk Canberk
 
@@ -548,6 +675,36 @@ efficiency, offering a scalable and cost-effective solution for detecting
 cognitive concerns in clinical settings.
 
 摘要：及早辨識認知問題至關重要，但常常受到症狀呈現過於細微的阻礙。本研究開發並驗證了一個全自動化、多重代理的 AI 工作流程，使用 LLaMA 3 8B 來辨識來自麻省總醫院布萊根分院的 3,338 則臨床筆記中的認知問題。這個代理工作流程利用了特定任務的代理，這些代理會動態合作從臨床筆記中萃取出有意義的見解，並與專家驅動的基準進行比較。這兩個工作流程都達到了很高的分類效能，F1 分數分別為 0.90 和 0.91。代理工作流程展現出更好的特異性（1.00），並且在更少的反覆運算中達到了提示精煉。儘管這兩個工作流程在驗證資料上的效能都降低了，但代理工作流程維持了完美的特異性。這些發現突顯了全自動化多重代理 AI 工作流程的潛力，它們能以更高的效率達到專家級的準確度，為在臨床環境中偵測認知問題提供了一個可擴充且具成本效益的解決方案。
+
+##### **Can Domain Experts Rely on AI Appropriately? A Case Study on AI-Assisted Prostate Cancer MRI Diagnosis**
+2502.03482v1 by Chacha Chen, Han Liu, Jiamin Yang, Benjamin M. Mervak, Bora Kalaycioglu, Grace Lee, Emre Cakmakli, Matteo Bonatti, Sridhar Pudu, Osman Kahraman, Gul Gizem Pamuk, Aytekin Oto, Aritrick Chatterjee, Chenhao Tan
+
+Despite the growing interest in human-AI decision making, experimental
+studies with domain experts remain rare, largely due to the complexity of
+working with domain experts and the challenges in setting up realistic
+experiments. In this work, we conduct an in-depth collaboration with
+radiologists in prostate cancer diagnosis based on MRI images. Building on
+existing tools for teaching prostate cancer diagnosis, we develop an interface
+and conduct two experiments to study how AI assistance and performance feedback
+shape the decision making of domain experts. In Study 1, clinicians were asked
+to provide an initial diagnosis (human), then view the AI's prediction, and
+subsequently finalize their decision (human-AI team). In Study 2 (after a
+memory wash-out period), the same participants first received aggregated
+performance statistics from Study 1, specifically their own performance, the
+AI's performance, and their human-AI team performance, and then directly viewed
+the AI's prediction before making their diagnosis (i.e., no independent initial
+diagnosis). These two workflows represent realistic ways that clinical AI tools
+might be used in practice, where the second study simulates a scenario where
+doctors can adjust their reliance and trust on AI based on prior performance
+feedback. Our findings show that, while human-AI teams consistently outperform
+humans alone, they still underperform the AI due to under-reliance, similar to
+prior studies with crowdworkers. Providing clinicians with performance feedback
+did not significantly improve the performance of human-AI teams, although
+showing AI decisions in advance nudges people to follow AI more. Meanwhile, we
+observe that the ensemble of human-AI teams can outperform AI alone, suggesting
+promising directions for human-AI collaboration.
+
+摘要：儘管人們對人類與 AI 決策制定越來越感興趣，但與領域專家合作的實驗研究仍然很少見，這在很大程度上是因為與領域專家合作的複雜性，以及在設定實際實驗時面臨的挑戰。在這項工作中，我們與放射科醫師進行深入合作，基於 MRI 影像診斷前列腺癌。建立在用於教授前列腺癌診斷的現有工具上，我們開發了一個介面並進行了兩項實驗，以研究 AI 協助和效能回饋如何塑造領域專家的決策制定。在研究 1 中，要求臨床醫師提供初步診斷（人類），然後檢視 AI 的預測，並隨後確定他們的決策（人類-AI 團隊）。在研究 2（經過一段記憶清除期）中，同一位參與者首先收到研究 1 的彙總效能統計資料，特別是他們自己的效能、AI 的效能，以及他們的人類-AI 團隊效能，然後在做出診斷前直接檢視 AI 的預測（即，沒有獨立的初步診斷）。這兩個工作流程代表了臨床 AI 工具在實務中可能被使用的方式，其中第二個研究模擬了醫生可以根據先前的效能回饋調整他們對 AI 的依賴和信任的情況。我們的研究結果顯示，儘管人類-AI 團隊始終優於單獨的人類，但由於依賴不足，他們仍然表現不如 AI，這與之前針對群眾工作者的研究類似。儘管事先顯示 AI 決策會促使人們更多地遵循 AI，但向臨床醫師提供效能回饋並未顯著改善人類-AI 團隊的效能。同時，我們觀察到人類-AI 團隊的集合可以優於單獨的 AI，這表明了人類-AI 合作的前景。
 
 ##### **Improving Transformer World Models for Data-Efficient RL**
 2502.01591v1 by Antoine Dedieu, Joseph Ortiz, Xinghua Lou, Carter Wendelken, Wolfgang Lehrach, J Swaroop Guntupalli, Miguel Lazaro-Gredilla, Kevin Patrick Murphy
@@ -2439,161 +2596,4 @@ revolutionizing fundus image analysis, with potential applications across
 various medical domains.
 
 摘要：本論文介紹了一種創新的軟體系統，用於眼底影像分析，它刻意偏離傳統的篩檢方法，選擇不預測具體的診斷。相反地，我們的分析方法模擬診斷過程，徹底分析眼底結構的正常和病理特徵，將最終的決策權交到醫療保健專業人員手中。我們的計畫旨在滿足客觀臨床分析的需求，並尋求自動化和強化眼底影像檢查的臨床工作流程。該系統從其整體架構到由人工智慧 (AI) 模型驅動的模組化分析設計，都與眼科實務無縫對齊。我們獨特的方法結合了最先進的深度學習方法和傳統的電腦視覺演算法，提供眼底結構的全面且細緻的分析。我們提出了一種獨特的設計醫療應用方法，並以我們的系統作為說明範例。全面的驗證和驗證結果證明了我們的方法在革新眼底影像分析方面的效力，並具有在各種醫療領域的潛在應用。
-
-##### **Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**
-2501.14685v1 by Fuping Wu, Bartlomiej W. Papiez
-
-Foundation models are widely employed in medical image analysis, due to their
-high adaptability and generalizability for downstream tasks. With the
-increasing number of foundation models being released, model selection has
-become an important issue. In this work, we study the capabilities of
-foundation models in medical image classification tasks by conducting a
-benchmark study on the MedMNIST dataset. Specifically, we adopt various
-foundation models ranging from convolutional to Transformer-based models and
-implement both end-to-end training and linear probing for all classification
-tasks. The results demonstrate the significant potential of these pre-trained
-models when transferred for medical image classification. We further conduct
-experiments with different image sizes and various sizes of training data. By
-analyzing all the results, we provide preliminary, yet useful insights and
-conclusions on this topic.
-
-摘要：基礎模型廣泛用於醫學影像分析，因為它們對下游任務具有高度的適應性和概括性。隨著發布的基礎模型數量越來越多，模型選擇已成為一個重要問題。在這項工作中，我們通過對 MedMNIST 資料集進行基準研究來研究基礎模型在醫學影像分類任務中的能力。具體來說，我們採用了從卷積到基於 Transformer 的模型等各種基礎模型，並對所有分類任務實施端到端訓練和線性探測。結果證明了這些預訓練模型在轉移到醫學影像分類時具有顯著的潛力。我們進一步進行了不同影像大小和各種訓練資料大小的實驗。通過分析所有結果，我們對此主題提供了初步但有用的見解和結論。
-
-##### **MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**
-2501.14654v1 by Yixing Jiang, Kameron C. Black, Gloria Geng, Danny Park, Andrew Y. Ng, Jonathan H. Chen
-
-Recent large language models (LLMs) have demonstrated significant
-advancements, particularly in their ability to serve as agents thereby
-surpassing their traditional role as chatbots. These agents can leverage their
-planning and tool utilization capabilities to address tasks specified at a high
-level. However, a standardized dataset to benchmark the agent capabilities of
-LLMs in medical applications is currently lacking, making the evaluation of
-LLMs on complex tasks in interactive healthcare environments challenging. To
-address this gap, we introduce MedAgentBench, a broad evaluation suite designed
-to assess the agent capabilities of large language models within medical
-records contexts. MedAgentBench encompasses 100 patient-specific
-clinically-derived tasks from 10 categories written by human physicians,
-realistic profiles of 100 patients with over 700,000 data elements, a
-FHIR-compliant interactive environment, and an accompanying codebase. The
-environment uses the standard APIs and communication infrastructure used in
-modern EMR systems, so it can be easily migrated into live EMR systems.
-MedAgentBench presents an unsaturated agent-oriented benchmark that current
-state-of-the-art LLMs exhibit some ability to succeed at. The best model
-(GPT-4o) achieves a success rate of 72%. However, there is still substantial
-space for improvement to give the community a next direction to optimize.
-Furthermore, there is significant variation in performance across task
-categories. MedAgentBench establishes this and is publicly available at
-https://github.com/stanfordmlgroup/MedAgentBench , offering a valuable
-framework for model developers to track progress and drive continuous
-improvements in the agent capabilities of large language models within the
-medical domain.
-
-摘要：<paragraph>最近的大型语言模型 (LLM) 已展示出显著的进步，特别是在其作为代理的能力方面，从而超越了其作为聊天机器人的传统角色。这些代理可以利用其规划和工具利用能力来解决在高层指定的任务。然而，目前缺乏用于对医疗应用中 LLM 的代理能力进行基准测试的标准化数据集，这使得在交互式医疗保健环境中对 LLM 在复杂任务上的评估具有挑战性。为了解决这一差距，我们引入了 MedAgentBench，这是一个广泛的评估套件，旨在评估大型语言模型在医疗记录背景下的代理能力。MedAgentBench 包含 100 个由人类医生编写的来自 10 个类别的特定于患者的临床任务、100 个患者的真实个人资料（包含超过 700,000 个数据元素）、一个符合 FHIR 的交互式环境以及一个配套的代码库。该环境使用现代 EMR 系统中使用的标准 API 和通信基础设施，因此可以轻松地迁移到实时 EMR 系统中。MedAgentBench 呈现了一个未饱和的以代理为导向的基准，当前最先进的 LLM 表现出一定程度的成功能力。最好的模型 (GPT-4o) 的成功率达到 72%。然而，仍然有很大的改进空间，可以为社区提供优化方向。此外，不同任务类别之间的性能差异很大。MedAgentBench 建立了这一点，并在 https://github.com/stanfordmlgroup/MedAgentBench 公开提供，为模型开发者提供了一个有价值的框架，用于跟踪进度并推动大型语言模型在医疗领域的代理能力的持续改进。</paragraph>
-
-##### **Review and Recommendations for using Artificial Intelligence in Intracoronary Optical Coherence Tomography Analysis**
-2501.18614v1 by Xu Chen, Yuan Huang, Benn Jessney, Jason Sangha, Sophie Gu, Carola-Bibiane Schönlieb, Martin Bennett, Michael Roberts
-
-Artificial intelligence (AI) methodologies hold great promise for the rapid
-and accurate diagnosis of coronary artery disease (CAD) from intravascular
-optical coherent tomography (IVOCT) images. Numerous papers have been published
-describing AI-based models for different diagnostic tasks, yet it remains
-unclear which models have potential clinical utility and have been properly
-validated. This systematic review considered published literature between
-January 2015 and February 2023 describing AI-based diagnosis of CAD using
-IVOCT. Our search identified 5,576 studies, with 513 included after initial
-screening and 35 studies included in the final systematic review after quality
-screening. Our findings indicate that most of the identified models are not
-currently suitable for clinical use, primarily due to methodological flaws and
-underlying biases. To address these issues, we provide recommendations to
-improve model quality and research practices to enhance the development of
-clinically useful AI products.
-
-摘要：人工智慧 (AI) 方法論對於從血管內光學相干斷層掃描 (IVOCT) 影像快速且準確診斷冠狀動脈疾病 (CAD) 而言，具有很大的前景。許多論文已發表，說明了用於不同診斷任務的 AI 基礎模型，但仍不清楚哪些模型具有潛在的臨床用途，且已獲得適當驗證。這項系統性回顧考量了 2015 年 1 月至 2023 年 2 月間發表的文獻，說明了使用 IVOCT 的 CAD AI 基礎診斷。我們的搜尋辨識出 5,576 項研究，在初步篩選後納入 513 項，在品質篩選後納入 35 項研究進行最終的系統性回顧。我們的發現顯示，大多數已辨識出的模型目前不適合用於臨床，主要是因為方法論上的缺陷和潛在偏差。為了解決這些問題，我們提供建議來改善模型品質和研究實務，以增強臨床有用 AI 產品的開發。
-
-##### **Registration of Longitudinal Liver Examinations for Tumor Progress Assessment**
-2501.14483v1 by Walid Yassine, Martin Charachon, Céline Hudelot, Roberto Ardon
-
-Assessing cancer progression in liver CT scans is a clinical challenge,
-requiring a comparison of scans at different times for the same patient.
-Practitioners must identify existing tumors, compare them with prior exams,
-identify new tumors, and evaluate overall disease evolution. This process is
-particularly complex in liver examinations due to misalignment between exams
-caused by several factors. Indeed, longitudinal liver examinations can undergo
-different non-pathological and pathological changes due to non-rigid
-deformations, the appearance or disappearance of pathologies, and other
-variations. In such cases, existing registration approaches, mainly based on
-intrinsic features may distort tumor regions, biasing the tumor progress
-evaluation step and the corresponding diagnosis. This work proposes a
-registration method based only on geometrical and anatomical information from
-liver segmentation, aimed at aligning longitudinal liver images for aided
-diagnosis. The proposed method is trained and tested on longitudinal liver CT
-scans, with 317 patients for training and 53 for testing. Our experimental
-results support our claims by showing that our method is better than other
-registration techniques by providing a smoother deformation while preserving
-the tumor burden (total volume of tissues considered as tumor) within the
-volume. Qualitative results emphasize the importance of smooth deformations in
-preserving tumor appearance.
-
-摘要：評估肝臟電腦斷層掃描中的癌症進程是一項臨床上的挑戰，
-需要比較同一病患在不同時間點的掃描結果。
-從業人員必須辨識現有的腫瘤，將其與先前的檢查結果進行比較，
-辨識新的腫瘤，並評估整體疾病的演變。由於種種因素造成檢查結果之間的錯位，這個過程在肝臟檢查中特別複雜。事實上，縱向的肝臟檢查可能會因為非剛性變形、病理的出現或消失，以及其他變化而產生不同的非病理性和病理性的變化。在這種情況下，現有的配準方法（主要基於內在特徵）可能會扭曲腫瘤區域，造成腫瘤進程評估步驟和相應診斷的偏差。本研究提出了一種僅基於肝臟分割的幾何和解剖資訊的配準方法，旨在對縱向肝臟影像進行配準，以協助診斷。所提出的方法在縱向肝臟電腦斷層掃描上進行訓練和測試，訓練資料有 317 位病患，測試資料有 53 位。我們的實驗結果支持我們的說法，證明我們的配準方法比其他配準技術更好，因為它在保留腫瘤負擔（被視為腫瘤的組織總體積）的同時，提供了更平滑的變形。定性結果強調了平滑變形在保留腫瘤外觀方面的重要性。
-
-##### **Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware Pesticide Design**
-2501.14469v1 by Taehan Kim, Wonduk Seo
-
-Global climate change has reduced crop resilience and pesticide efficacy,
-making reliance on synthetic pesticides inevitable, even though their
-widespread use poses significant health and environmental risks. While these
-pesticides remain a key tool in pest management, previous machine-learning
-applications in pesticide and agriculture have focused on classification or
-regression, leaving the fundamental challenge of generating new molecular
-structures or designing novel candidates unaddressed. In this paper, we propose
-Pesti-Gen, a novel generative model based on variational auto-encoders,
-designed to create pesticide candidates with optimized properties for the first
-time. Specifically, Pesti-Gen leverages a two-stage learning process: an
-initial pre-training phase that captures a generalized chemical structure
-representation, followed by a fine-tuning stage that incorporates
-toxicity-specific information. The model simultaneously optimizes over multiple
-toxicity metrics, such as (1) livestock toxicity and (2) aqua toxicity to
-generate environmentally friendly pesticide candidates. Notably, Pesti-Gen
-achieves approximately 68\% structural validity in generating new molecular
-structures, demonstrating the model's effectiveness in producing optimized and
-feasible pesticide candidates, thereby providing a new way for safer and more
-sustainable pest management solutions.
-
-摘要：全球氣候變遷降低了作物的復原力與殺蟲劑的效力，
-使得仰賴合成殺蟲劑成為無可避免的趨勢，儘管它們的廣泛使用會帶來重大的健康和環境風險。儘管這些殺蟲劑仍然是蟲害管理中的關鍵工具，過去在殺蟲劑和農業方面的機器學習應用都著重於分類或迴歸，而未解決產生新的分子結構或設計新候選藥劑的基本挑戰。在本文中，我們提出 Pesti-Gen，一種基於變異自動編碼器的創新生成模型，旨在首次建立具有最佳化特性的殺蟲劑候選藥劑。具體來說，Pesti-Gen 採用兩階段學習流程：一個擷取廣義化學結構表示的初始預訓練階段，接著是一個納入毒性特定資訊的微調階段。此模型同時針對多種毒性指標進行最佳化，例如 (1) 牲畜毒性和 (2) 水生毒性，以產生對環境友善的殺蟲劑候選藥劑。值得注意的是，Pesti-Gen 在產生新的分子結構方面達到了約 68% 的結構效度，證明了此模型在產生最佳化且可行的殺蟲劑候選藥劑方面的效能，進而為更安全且更永續的蟲害管理解決方案提供了一種新方法。
-
-##### **ECTIL: Label-efficient Computational Tumour Infiltrating Lymphocyte (TIL) assessment in breast cancer: Multicentre validation in 2,340 patients with breast cancer**
-2501.14379v1 by Yoni Schirris, Rosie Voorthuis, Mark Opdam, Marte Liefaard, Gabe S Sonke, Gwen Dackus, Vincent de Jong, Yuwei Wang, Annelot Van Rossum, Tessa G Steenbruggen, Lars C Steggink, Liesbeth G. E. de Vries, Marc van de Vijver, Roberto Salgado, Efstratios Gavves, Paul J van Diest, Sabine C Linn, Jonas Teuwen, Renee Menezes, Marleen Kok, Hugo Horlings
-
-The level of tumour-infiltrating lymphocytes (TILs) is a prognostic factor
-for patients with (triple-negative) breast cancer (BC). Computational TIL
-assessment (CTA) has the potential to assist pathologists in this
-labour-intensive task, but current CTA models rely heavily on many detailed
-annotations. We propose and validate a fundamentally simpler deep learning
-based CTA that can be trained in only ten minutes on hundredfold fewer
-pathologist annotations. We collected whole slide images (WSIs) with TILs
-scores and clinical data of 2,340 patients with BC from six cohorts including
-three randomised clinical trials. Morphological features were extracted from
-whole slide images (WSIs) using a pathology foundation model. Our
-label-efficient Computational stromal TIL assessment model (ECTIL) directly
-regresses the TILs score from these features. ECTIL trained on only a few
-hundred samples (ECTIL-TCGA) showed concordance with the pathologist over five
-heterogeneous external cohorts (r=0.54-0.74, AUROC=0.80-0.94). Training on all
-slides of five cohorts (ECTIL-combined) improved results on a held-out test set
-(r=0.69, AUROC=0.85). Multivariable Cox regression analyses indicated that
-every 10% increase of ECTIL scores was associated with improved overall
-survival independent of clinicopathological variables (HR 0.86, p<0.01),
-similar to the pathologist score (HR 0.87, p<0.001). We demonstrate that ECTIL
-is highly concordant with an expert pathologist and obtains a similar hazard
-ratio. ECTIL has a fundamentally simpler design than existing methods and can
-be trained on orders of magnitude fewer annotations. Such a CTA may be used to
-pre-screen patients for, e.g., immunotherapy clinical trial inclusion, or as a
-tool to assist clinicians in the diagnostic work-up of patients with BC. Our
-model is available under an open source licence
-(https://github.com/nki-ai/ectil).
-
-摘要：肿瘤浸润淋巴细胞 (TIL) 的水平是 (三阴性) 乳腺癌 (BC) 患者的预后因素。计算 TIL 评估 (CTA) 有可能协助病理学家完成这项劳动密集型任务，但目前的 CTA 模型严重依赖于许多详细的注释。我们提出并验证了一个基于深度学习的 CTA，它可以在几百倍更少的病理学家注释上仅在十分钟内进行训练。我们从六个队列中收集了 2,340 名 BC 患者的 TILs 评分和临床数据的全玻片图像 (WSI)，其中包括三项随机临床试验。使用病理基础模型从全玻片图像 (WSI) 中提取形态学特征。我们的标签高效计算基质 TIL 评估模型 (ECTIL) 直接从这些特征中回归 TILs 评分。仅在几百个样本上进行训练的 ECTIL（ECTIL-TCGA）显示出与病理学家在五个异质外部队列中的一致性（r=0.54-0.74，AUROC=0.80-0.94）。在五个队列的所有玻片上进行训练（ECTIL-combined）改善了保留测试集上的结果（r=0.69，AUROC=0.85）。多变量 Cox 回归分析表明，ECTIL 评分每增加 10%，与临床病理学变量无关的总体生存率就会提高（HR 0.86，p<0.01），类似于病理学家评分（HR 0.87，p<0.001）。我们证明 ECTIL 与专家病理学家高度一致，并获得了类似的风险比。ECTIL 的设计比现有方法从根本上更简单，并且可以在数量级更少的注释上进行训练。这种 CTA 可用于对患者进行预筛选，例如免疫治疗临床试验纳入，或作为一种工具来帮助临床医生对 BC 患者进行诊断检查。我们的模型可在开放源代码许可下获得 (https://github.com/nki-ai/ectil)。
 

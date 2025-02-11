@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v1](http://arxiv.org/abs/2502.06124v1)|null|
 |**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
@@ -101,9 +102,39 @@
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127v1](http://arxiv.org/abs/2402.05127v1)|null|
-|**2024-01-24**|**Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**|Timothée Schmude et.al.|[2401.13324v6](http://arxiv.org/abs/2401.13324v6)|null|
 
 #### Abstracts
+##### **Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**
+2502.06124v1 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
+
+We developed the Enhanced Transformer for Health Outcome Simulation (ETHOS),
+an AI model that tokenizes patient health timelines (PHTs) from EHRs. ETHOS
+predicts future PHTs using transformer-based architectures. The Adaptive Risk
+Estimation System (ARES) employs ETHOS to compute dynamic and personalized risk
+probabilities for clinician-defined critical events. ARES incorporates a
+personalized explainability module that identifies key clinical factors
+influencing risk estimates for individual patients. ARES was evaluated on the
+MIMIC-IV v2.2 dataset in emergency department (ED) settings, benchmarking its
+performance against traditional early warning systems and machine learning
+models. We processed 299,721 unique patients from MIMIC-IV into 285,622 PHTs,
+with 60% including hospital admissions. The dataset contained over 357 million
+tokens. ETHOS outperformed benchmark models in predicting hospital admissions,
+ICU admissions, and prolonged hospital stays, achieving superior AUC scores.
+ETHOS-based risk estimates demonstrated robustness across demographic subgroups
+with strong model reliability, confirmed via calibration curves. The
+personalized explainability module provides insights into patient-specific
+factors contributing to risk. ARES, powered by ETHOS, advances predictive
+healthcare AI by providing dynamic, real-time, and personalized risk estimation
+with patient-specific explainability to enhance clinician trust. Its
+adaptability and superior accuracy position it as a transformative tool for
+clinical decision-making, potentially improving patient outcomes and resource
+allocation in emergency and inpatient settings. We release the full code at
+github.com/ipolharvard/ethos-ares to facilitate future research.
+
+摘要：我們開發了增強型健康結果模擬轉換器 (ETHOS)，
+一種從電子健康紀錄 (EHR) 中將患者健康時間軸 (PHT) 標記化的 AI 模型。ETHOS
+使用基於轉換器的架構預測未來的 PHT。自適應風險評估系統 (ARES) 使用 ETHOS 計算由臨床醫生定義的危急事件的動態且個人化的風險機率。ARES 結合了個人化的可解釋性模組，可找出影響個別患者風險評估的主要臨床因素。ARES 在急診部門 (ED) 設定中針對 MIMIC-IV v2.2 資料集進行評估，並將其效能與傳統的預警系統和機器學習模型進行基準測試。我們將 299,721 位 MIMIC-IV 的獨特患者處理成 285,622 個 PHT，其中 60% 包含住院記錄。該資料集包含超過 3.57 億個標記。ETHOS 在預測住院、加護病房 (ICU) 住院和延長住院時間方面表現優於基準模型，並獲得了較高的 AUC 分數。基於 ETHOS 的風險評估顯示出跨人口統計子群的穩健性，並通過校準曲線確認了強大的模型可靠性。個人化的可解釋性模組提供了對導致風險的患者特定因素的見解。由 ETHOS 驅動的 ARES 透過提供動態、即時且個人化的風險評估，以及患者特定的可解釋性來增強臨床醫生的信任，從而推動了預測性醫療保健 AI 的發展。其適應性和卓越的準確性使其成為臨床決策制定的一種變革性工具，有可能改善緊急和住院環境中的患者結果和資源分配。我們在 github.com/ipolharvard/ethos-ares 上釋出完整程式碼，以利未來的研究。
+
 ##### **An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**
 2501.15969v1 by Shaheer Ahmad Khan, Muhammad Usamah Shahid, Ahmad Abdullah, Ibrahim Hashmat, Muddassar Farooq
 
@@ -2665,45 +2696,4 @@ care and showcasing the potential of LLMs in revolutionizing depression
 diagnosis and treatment strategies.
 
 摘要：本文介紹了一種使用先進大型語言模型 (LLM) 進行憂鬱症偵測和治療的新模式：生成式預訓練Transformer 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，具備專業提示，可診斷、解釋並建議憂鬱症的治療介入方法。一種獨特的少次提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型會參與同理心對話管理，從 PsychDB 和認知行為療法 (CBT) 指南等資源中汲取，促進與經歷重度憂鬱症的人們的支持性互動。此外，這項研究還介紹了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個性化治療建議。這項研究使用 F1 分數、準確率、召回率、餘弦相似度和面向召回率的 Gisting 評估替身 (ROUGE) 等指標，在不同的測試集中評估 LLM 的表現，證明了它們的有效性。這種綜合方法結合了尖端的 AI 與既定的心理方法，為心理保健提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
-
-##### **Information That Matters: Exploring Information Needs of People Affected by Algorithmic Decisions**
-2401.13324v6 by Timothée Schmude, Laura Koesten, Torsten Möller, Sebastian Tschiatschek
-
-Every AI system that makes decisions about people has a group of stakeholders
-that are personally affected by these decisions. However, explanations of AI
-systems rarely address the information needs of this stakeholder group, who
-often are AI novices. This creates a gap between conveyed information and
-information that matters to those who are impacted by the system's decisions,
-such as domain experts and decision subjects. To address this, we present the
-"XAI Novice Question Bank," an extension of the XAI Question Bank containing a
-catalog of information needs from AI novices in two use cases: employment
-prediction and health monitoring. The catalog covers the categories of data,
-system context, system usage, and system specifications. We gathered
-information needs through task-based interviews where participants asked
-questions about two AI systems to decide on their adoption and received verbal
-explanations in response. Our analysis showed that participants' confidence
-increased after receiving explanations but that their understanding faced
-challenges. These included difficulties in locating information and in
-assessing their own understanding, as well as attempts to outsource
-understanding. Additionally, participants' prior perceptions of the systems'
-risks and benefits influenced their information needs. Participants who
-perceived high risks sought explanations about the intentions behind a system's
-deployment, while those who perceived low risks rather asked about the system's
-operation. Our work aims to support the inclusion of AI novices in
-explainability efforts by highlighting their information needs, aims, and
-challenges. We summarize our findings as five key implications that can inform
-the design of future explanations for lay stakeholder audiences.
-
-摘要：<paragraph>每個對人做出決定的 AI 系統都有一群利害關係人
-受到這些決定的親身影響。然而，AI
-系統的解釋很少能滿足這群利害關係人的資訊需求，而他們
-通常都是 AI 新手。這造成了傳達資訊與
-受到系統決策影響的人士（例如領域專家和決策主體）重視的資訊之間的落差。為了解決這個問題，我們提出了
-「XAI 新手問題庫」，它是 XAI 問題庫的延伸，包含來自 AI 新手在兩個使用案例中的資訊需求目錄：就業
-預測和健康監測。目錄涵蓋了資料、
-系統背景、系統使用和系統規格等類別。我們透過任務型訪談收集資訊需求，參與者在訪談中詢問了兩個 AI 系統的問題，以決定是否採用它們，並收到口頭
-解釋作為回應。我們的分析顯示，參與者在收到解釋後信心有所提升，但他們的理解卻面臨挑戰。這些挑戰包括難以找到資訊和評估自己的理解，以及試圖外包
-理解。此外，參與者對系統風險和好處的先前回饋影響了他們的資訊需求。認為風險高的參與者尋求解釋系統部署背後的意圖，而認為風險低的人則詢問系統的
-操作。我們的研究旨在透過強調 AI 新手的資訊需求、目標和
-挑戰，來支持將 AI 新手納入可解釋性工作中。我們將我們的研究結果總結為五個關鍵啟示，這些啟示可以為未來針對非專業利害關係人受眾的解釋設計提供參考。</paragraph>
 

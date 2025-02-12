@@ -13,7 +13,7 @@
 |**2025-02-08**|**Graph-based Molecular In-context Learning Grounded on Morgan Fingerprints**|Ali Al-Lawati et.al.|[2502.05414v1](http://arxiv.org/abs/2502.05414v1)|null|
 |**2025-02-07**|**GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?**|Yang Zhou et.al.|[2502.05252v1](http://arxiv.org/abs/2502.05252v1)|null|
 |**2025-02-07**|**Causality can systematically address the monsters under the bench(marks)**|Felix Leeb et.al.|[2502.05085v1](http://arxiv.org/abs/2502.05085v1)|null|
-|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078v1](http://arxiv.org/abs/2502.05078v1)|null|
+|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078v1](http://arxiv.org/abs/2502.05078v1)|[link](https://github.com/AgnostiqHQ/multi-agent-llm)|
 |**2025-02-07**|**Enhancing Knowledge Graph Construction: Evaluating with Emphasis on Hallucination, Omission, and Graph Similarity Metrics**|Hussam Ghanem et.al.|[2502.05239v1](http://arxiv.org/abs/2502.05239v1)|null|
 |**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644v1](http://arxiv.org/abs/2502.04644v1)|null|
 |**2025-02-07**|**Position-aware Automatic Circuit Discovery**|Tal Haklay et.al.|[2502.04577v1](http://arxiv.org/abs/2502.04577v1)|null|
@@ -44,7 +44,7 @@
 |**2025-02-02**|**A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models**|Qika Lin et.al.|[2502.00681v1](http://arxiv.org/abs/2502.00681v1)|null|
 |**2025-02-01**|**Challenges and Innovations in LLM-Powered Fake News Detection: A Synthesis of Approaches and Future Directions**|Jingyuan Yi et.al.|[2502.00339v1](http://arxiv.org/abs/2502.00339v1)|null|
 |**2025-02-01**|**DEUCE: Dual-diversity Enhancement and Uncertainty-awareness for Cold-start Active Learning**|Jiaxin Guo et.al.|[2502.00305v1](http://arxiv.org/abs/2502.00305v1)|null|
-|**2025-01-31**|**Longer Attention Span: Increasing Transformer Context Length with Sparse Graph Processing Techniques**|Nathaniel Tomczak et.al.|[2502.01659v2](http://arxiv.org/abs/2502.01659v2)|null|
+|**2025-01-31**|**Longer Attention Span: Increasing Transformer Context Length with Sparse Graph Processing Techniques**|Nathaniel Tomczak et.al.|[2502.01659v2](http://arxiv.org/abs/2502.01659v2)|[link](https://github.com/KLab-AI3/Graph-Processing-Attention-IPDPS-2025)|
 |**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069v1](http://arxiv.org/abs/2501.19069v1)|null|
 |**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542v1](http://arxiv.org/abs/2501.18542v1)|null|
 |**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320v1](http://arxiv.org/abs/2501.18320v1)|null|

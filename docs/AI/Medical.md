@@ -80,7 +80,7 @@
 |**2025-01-31**|**EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics**|Omar H. Khater et.al.|[2502.00205v1](http://arxiv.org/abs/2502.00205v1)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196v1](http://arxiv.org/abs/2502.00196v1)|null|
 |**2025-01-31**|**Multimodal MRI-Ultrasound AI for Prostate Cancer Detection Outperforms Radiologist MRI Interpretation: A Multi-Center Study**|Hassan Jahanandish et.al.|[2502.00146v1](http://arxiv.org/abs/2502.00146v1)|null|
-|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094v2](http://arxiv.org/abs/2502.00094v2)|null|
+|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094v2](http://arxiv.org/abs/2502.00094v2)|[link](https://github.com/mbzuai-oryx/AIN)|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
 |**2025-01-31**|**Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks**|Halil Ibrahim Aysel et.al.|[2501.19271v1](http://arxiv.org/abs/2501.19271v1)|null|
 |**2025-01-31**|**Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence**|Aurora Rofena et.al.|[2501.19176v1](http://arxiv.org/abs/2501.19176v1)|null|

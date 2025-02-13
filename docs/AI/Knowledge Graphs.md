@@ -2,6 +2,8 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-10**|**Cardiverse: Harnessing LLMs for Novel Card Game Prototyping**|Danrui Li et.al.|[2502.07128v1](http://arxiv.org/abs/2502.07128v1)|null|
+|**2025-02-10**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921v1](http://arxiv.org/abs/2502.06921v1)|null|
 |**2025-02-10**|**Automatic Annotation Augmentation Boosts Translation between Molecules and Natural Language**|Zhiqiang Zhong et.al.|[2502.06634v1](http://arxiv.org/abs/2502.06634v1)|null|
 |**2025-02-10**|**KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**|Yuxing Lu et.al.|[2502.06472v1](http://arxiv.org/abs/2502.06472v1)|null|
 |**2025-02-10**|**K-ON: Stacking Knowledge On the Head Layer of Large Language Model**|Lingbing Guo et.al.|[2502.06257v1](http://arxiv.org/abs/2502.06257v1)|null|
@@ -11,6 +13,8 @@
 |**2025-02-08**|**LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning**|Hanqing Yang et.al.|[2502.05453v1](http://arxiv.org/abs/2502.05453v1)|null|
 |**2025-02-08**|**SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**|Xingtong Yu et.al.|[2502.05424v1](http://arxiv.org/abs/2502.05424v1)|null|
 |**2025-02-08**|**Graph-based Molecular In-context Learning Grounded on Morgan Fingerprints**|Ali Al-Lawati et.al.|[2502.05414v1](http://arxiv.org/abs/2502.05414v1)|null|
+|**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864v1](http://arxiv.org/abs/2502.06864v1)|null|
+|**2025-02-07**|**Can Large Language Models Understand Intermediate Representations?**|Hailong Jiang et.al.|[2502.06854v1](http://arxiv.org/abs/2502.06854v1)|null|
 |**2025-02-07**|**GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?**|Yang Zhou et.al.|[2502.05252v1](http://arxiv.org/abs/2502.05252v1)|null|
 |**2025-02-07**|**Causality can systematically address the monsters under the bench(marks)**|Felix Leeb et.al.|[2502.05085v1](http://arxiv.org/abs/2502.05085v1)|null|
 |**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078v1](http://arxiv.org/abs/2502.05078v1)|[link](https://github.com/AgnostiqHQ/multi-agent-llm)|
@@ -98,12 +102,57 @@
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|[link](https://github.com/qinyuma316/retrosynthesisagent)|
 |**2025-01-15**|**Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**|Chuangtao Ma et.al.|[2501.08686v1](http://arxiv.org/abs/2501.08686v1)|[link](https://github.com/machuangtao/kg-rag4sm)|
 |**2025-01-15**|**Assessing the Alignment of FOL Closeness Metrics with Human Judgement**|Ramya Keerthy Thatikonda et.al.|[2501.08613v2](http://arxiv.org/abs/2501.08613v2)|[link](https://github.com/ramyakeerthy/alignmentfol)|
-|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600v1](http://arxiv.org/abs/2501.08600v1)|null|
-|**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582v1](http://arxiv.org/abs/2501.08582v1)|null|
-|**2025-01-14**|**Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**|Mihai Masala et.al.|[2501.08460v1](http://arxiv.org/abs/2501.08460v1)|null|
-|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120v1](http://arxiv.org/abs/2501.08120v1)|[link](https://github.com/lamm-mit/PRefLexOR)|
 
 #### Abstracts
+##### **Cardiverse: Harnessing LLMs for Novel Card Game Prototyping**
+2502.07128v1 by Danrui Li, Sen Zhang, Sam S. Sohn, Kaidong Hu, Muhammad Usman, Mubbasir Kapadia
+
+The prototyping of computer games, particularly card games, requires
+extensive human effort in creative ideation and gameplay evaluation. Recent
+advances in Large Language Models (LLMs) offer opportunities to automate and
+streamline these processes. However, it remains challenging for LLMs to design
+novel game mechanics beyond existing databases, generate consistent gameplay
+environments, and develop scalable gameplay AI for large-scale evaluations.
+This paper addresses these challenges by introducing a comprehensive automated
+card game prototyping framework. The approach highlights a graph-based indexing
+method for generating novel game designs, an LLM-driven system for consistent
+game code generation validated by gameplay records, and a gameplay AI
+constructing method that uses an ensemble of LLM-generated action-value
+functions optimized through self-play. These contributions aim to accelerate
+card game prototyping, reduce human labor, and lower barriers to entry for game
+developers.
+
+摘要：電腦遊戲，尤其是卡牌遊戲的原型製作，需要大量的人力在創意構思和遊戲玩法評估上。大型語言模型 (LLM) 的最新進展提供了自動化和簡化這些流程的機會。然而，LLM 在設計超越現有資料庫的新穎遊戲機制、生成一致的遊戲環境，以及開發用於大規模評估的可擴充遊戲 AI 方面仍然面臨挑戰。本文通過引入一個全面的自動化卡牌遊戲原型製作框架來應對這些挑戰。該方法強調了一種基於圖表的索引方法，用於生成新穎的遊戲設計，一個由 LLM 驅動的系統，用於一致的遊戲程式碼生成，並由遊戲記錄驗證，以及一個遊戲 AI 構建方法，該方法使用由 LLM 生成的動作值函數的集合，通過自我對弈進行最佳化。這些貢獻旨在加速卡牌遊戲原型製作，減少人力，並降低遊戲開發人員的進入門檻。
+
+##### **GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**
+2502.06921v1 by Arghadip Das, Shamik Kundu, Arnab Raha, Soumendu Ghosh, Deepak Mathaikutty, Vijay Raghunathan
+
+Graph Neural Networks (GNNs) are vital for learning from graph-structured
+data, enabling applications in network analysis, recommendation systems, and
+speech analytics. Deploying them on edge devices like client PCs and laptops
+enhances real-time processing, privacy, and cloud independence. GNNs aid
+Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs) and
+enable event-based vision tasks. However, irregular memory access, sparsity,
+and dynamic structures cause high latency and energy overhead on
+resource-constrained devices. While modern edge processors integrate CPUs,
+GPUs, and NPUs, NPUs designed for data-parallel tasks struggle with irregular
+GNN computations. We introduce GraNNite, the first hardware-aware framework
+optimizing GNN execution on commercial-off-the-shelf (COTS) SOTA DNN
+accelerators via a structured three-step methodology: (1) enabling NPU
+execution, (2) optimizing performance, and (3) trading accuracy for efficiency
+gains. Step 1 employs GraphSplit for workload distribution and StaGr for static
+aggregation, while GrAd and NodePad handle dynamic graphs. Step 2 boosts
+performance using EffOp for control-heavy tasks and GraSp for sparsity
+exploitation. Graph Convolution optimizations PreG, SymG, and CacheG reduce
+redundancy and memory transfers. Step 3 balances quality versus efficiency,
+where QuantGr applies INT8 quantization, and GrAx1, GrAx2, and GrAx3 accelerate
+attention, broadcast-add, and SAGE-max aggregation. On Intel Core Ultra AI PCs,
+GraNNite achieves 2.6X to 7.6X speedups over default NPU mappings and up to
+8.6X energy gains over CPUs and GPUs, delivering 10.8X and 6.7X higher
+performance than CPUs and GPUs, respectively, across GNN models.
+
+摘要：圖形神經網路 (GNN) 對於從圖形結構化資料中學習至關重要，能應用於網路分析、推薦系統和語音分析。將其部署在邊緣裝置（如個人電腦和筆記型電腦）上，可增強即時處理、隱私和雲端獨立性。GNN 協助大型語言模型 (LLM) 的檢索增強生成 (RAG)，並支援基於事件的視覺任務。然而，不規則的記憶體存取、稀疏性和動態結構會造成高延遲和能源負擔，在資源受限的裝置上。雖然現代邊緣處理器整合了 CPU、GPU 和 NPU，但為資料平行任務而設計的 NPU 難以應付不規則的 GNN 計算。我們推出 GraNNite，這是一個首創的硬體感知架構，透過結構化的三步驟方法，在商用現成 (COTS) SOTA DNN 加速器上最佳化 GNN 執行：(1) 啟用 NPU 執行，(2) 最佳化效能，以及 (3) 以效率換取準確性。步驟 1 使用 GraphSplit 進行工作負載分配，並使用 StaGr 進行靜態聚合，而 GrAd 和 NodePad 處理動態圖形。步驟 2 使用 EffOp 提升控制密集型任務的效能，並使用 GraSp 來利用稀疏性。圖形卷積最佳化 PreG、SymG 和 CacheG 可減少冗餘和記憶體傳輸。步驟 3 平衡品質與效率，其中 QuantGr 應用 INT8 量化，而 GrAx1、GrAx2 和 GrAx3 加速注意力、廣播加法和 SAGE 最大聚合。在 Intel Core Ultra AI PC 上，GraNNite 在預設 NPU 映射上達到 2.6 倍到 7.6 倍的加速，在 CPU 和 GPU 上獲得高達 8.6 倍的能源收益，在 GNN 模型中分別提供比 CPU 和 GPU 高出 10.8 倍和 6.7 倍的效能。
+
 ##### **Automatic Annotation Augmentation Boosts Translation between Molecules and Natural Language**
 2502.06634v1 by Zhiqiang Zhong, Simon Sataa-Yu Larsen, Haoyu Guo, Tao Tang, Kuangyu Zhou, Davide Mottin
 
@@ -314,6 +363,48 @@ diverse benchmark datasets show GAMIC outperforms simple Morgan-based ICL
 retrieval methods across all tasks by up to 45%.
 
 摘要：<paragraph>情境學習 (ICL) 有效地調整大型語言模型 (LLM)，以執行分子任務，例如屬性預測和分子標題，方法是將仔細挑選的示範範例嵌入輸入提示中。這種方法避免了廣泛相關和微調的計算開銷。然而，目前針對分子任務的提示檢索方法依賴於分子特徵相似性，例如 Morgan 指紋，而無法充分捕捉全局分子和原子鍵結關係。因此，這些方法無法在推理過程中表示分子結構的完整複雜性。此外，在專業系統中提供更簡單部署需求的小到中型的 LLM，在分子 ICL 文獻中仍未得到充分探索。為了解決這些差距，我們提出了一種自我監督學習技術，GAMIC（圖形對齊分子情境學習），它將由圖形神經網路 (GNN) 表示的全局分子結構與文字標題（描述）對齊，同時透過 Morgan 指紋利用局部特徵相似性。此外，我們在檢索過程中引入了一個基於最大邊際相關性 (MMR) 的多樣性啟發法，以最佳化輸入提示示範樣本。我們使用不同的基準資料集進行的實驗結果顯示，GAMIC 在所有任務中都優於基於 Morgan 的簡單 ICL 檢索方法，最多可達 45%。</paragraph>
+
+##### **Knowledge Graph-Guided Retrieval Augmented Generation**
+2502.06864v1 by Xiangrong Zhu, Yuexiang Xie, Yi Liu, Yaliang Li, Wei Hu
+
+Retrieval-augmented generation (RAG) has emerged as a promising technology
+for addressing hallucination issues in the responses generated by large
+language models (LLMs). Existing studies on RAG primarily focus on applying
+semantic-based approaches to retrieve isolated relevant chunks, which ignore
+their intrinsic relationships. In this paper, we propose a novel Knowledge
+Graph-Guided Retrieval Augmented Generation (KG$^2$RAG) framework that utilizes
+knowledge graphs (KGs) to provide fact-level relationships between chunks,
+improving the diversity and coherence of the retrieved results. Specifically,
+after performing a semantic-based retrieval to provide seed chunks, KG$^2$RAG
+employs a KG-guided chunk expansion process and a KG-based chunk organization
+process to deliver relevant and important knowledge in well-organized
+paragraphs. Extensive experiments conducted on the HotpotQA dataset and its
+variants demonstrate the advantages of KG$^2$RAG compared to existing RAG-based
+approaches, in terms of both response quality and retrieval quality.
+
+摘要：檢索增強生成 (RAG) 已成為一項有前途的技術，用於解決大型語言模型 (LLM) 所產生回應中的幻覺問題。現有關於 RAG 的研究主要專注於應用基於語義的方法來檢索孤立相關的區塊，而忽略它們的內在關係。在本文中，我們提出了一個新穎的知識圖表引導檢索增強生成 (KG$^2$RAG) 框架，它利用知識圖表 (KG) 來提供區塊之間的事實層級關係，從而提高檢索結果的多樣性和一致性。具體來說，在執行基於語義的檢索以提供種子區塊後，KG$^2$RAG 採用 KG 引導的區塊擴充程序和基於 KG 的區塊組織程序，以在組織良好的段落中傳達相關且重要的知識。在 HotpotQA 資料集及其變體上進行的大量實驗證明了 KG$^2$RAG 在回應品質和檢索品質方面優於現有的基於 RAG 的方法。
+
+##### **Can Large Language Models Understand Intermediate Representations?**
+2502.06854v1 by Hailong Jiang, Jianfeng Zhu, Yao Wan, Bo Fang, Hongyu Zhang, Ruoming Jin, Qiang Guan
+
+Intermediate Representations (IRs) are essential in compiler design and
+program analysis, yet their comprehension by Large Language Models (LLMs)
+remains underexplored. This paper presents a pioneering empirical study to
+investigate the capabilities of LLMs, including GPT-4, GPT-3, Gemma 2, LLaMA
+3.1, and Code Llama, in understanding IRs. We analyze their performance across
+four tasks: Control Flow Graph (CFG) reconstruction, decompilation, code
+summarization, and execution reasoning. Our results indicate that while LLMs
+demonstrate competence in parsing IR syntax and recognizing high-level
+structures, they struggle with control flow reasoning, execution semantics, and
+loop handling. Specifically, they often misinterpret branching instructions,
+omit critical IR operations, and rely on heuristic-based reasoning, leading to
+errors in CFG reconstruction, IR decompilation, and execution reasoning. The
+study underscores the necessity for IR-specific enhancements in LLMs,
+recommending fine-tuning on structured IR datasets and integration of explicit
+control flow models to augment their comprehension and handling of IR-related
+tasks.
+
+摘要：中間表徵 (IR) 在編譯器設計和程式分析中至關重要，但大型語言模型 (LLM) 對其理解仍未得到充分探討。本文提出了一項開創性的實證研究，以探討 LLM（包括 GPT-4、GPT-3、Gemma 2、LLaMA 3.1 和 Code Llama）理解 IR 的能力。我們分析了它們在四項任務中的表現：控制流程圖 (CFG) 重建、反編譯、程式碼摘要和執行推理。我們的結果表明，儘管 LLM 在解析 IR 語法和識別高階結構方面表現出能力，但它們在控制流程推理、執行語義和迴圈處理方面存在困難。具體而言，它們經常誤解分支指令、省略關鍵 IR 操作，並依賴於基於啟發式的推理，導致 CFG 重建、IR 反編譯和執行推理出現錯誤。這項研究強調了 LLM 中對 IR 特定的增強的必要性，建議對結構化的 IR 資料集進行微調，並整合明確的控制流程模型，以增強其對 IR 相關任務的理解和處理。
 
 ##### **GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?**
 2502.05252v1 by Yang Zhou, Hongyi Liu, Zhuoming Chen, Yuandong Tian, Beidi Chen
@@ -2556,98 +2647,4 @@ to using individual metrics.
 
 摘要：近期成功解決邏輯推理問題的範例，利用了工具增強式大型語言模型 (LLM)，將自然語言陳述翻譯成一階邏輯 (FOL) 和外部定理證明器。
 然而，FOL 陳述的正確性包含運算子與文字謂詞，由於缺乏用於比較已產生與真實 FOL 的可靠評估指標，因此經常無法驗證。在本文中，我們提出對現有指標敏感度和其與人類對 FOL 評估判斷一致性的全面研究。使用真實 FOL，我們仔細設計了真實 FOL 的各種擾動，以評估指標敏感度。我們對自然語言陳述取樣 FOL 翻譯候選項，並衡量自動指標與人類註解者之間的排名一致性。我們的經驗發現強調 n-gram 指標 BLEU 對文字擾動的過度敏感性，語義圖形指標 Smatch++ 對結構擾動的過度敏感性，以及 FOL 指標對運算子擾動的過度敏感性。我們還觀察到 BertScore 與人類判斷之間更緊密的對齊。此外，我們表明，與使用個別指標相比，組合指標可增強對齊和敏感度。
-
-##### **AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**
-2501.08600v1 by Tyler Stennett, Myeongsoo Kim, Saurabh Sinha, Alessandro Orso
-
-As REST APIs have become widespread in modern web services, comprehensive
-testing of these APIs has become increasingly crucial. Due to the vast search
-space consisting of operations, parameters, and parameter values along with
-their complex dependencies and constraints, current testing tools suffer from
-low code coverage, leading to suboptimal fault detection. To address this
-limitation, we present a novel tool, AutoRestTest, which integrates the
-Semantic Operation Dependency Graph (SODG) with Multi-Agent Reinforcement
-Learning (MARL) and large language models (LLMs) for effective REST API
-testing. AutoRestTest determines operation-dependent parameters using the SODG
-and employs five specialized agents (operation, parameter, value, dependency,
-and header) to identify dependencies of operations and generate operation
-sequences, parameter combinations, and values. AutoRestTest provides a
-command-line interface and continuous telemetry on successful operation count,
-unique server errors detected, and time elapsed. Upon completion, AutoRestTest
-generates a detailed report highlighting errors detected and operations
-exercised. In this paper, we introduce our tool and present preliminary
-results.
-
-摘要：隨著 REST API 在現代網路服務中廣泛使用，對這些 API 進行全面的測試變得越來越重要。由於廣大的搜尋空間包含操作、參數和參數值以及它們複雜的依賴關係和約束，目前的測試工具存在程式碼覆蓋率低的問題，導致故障偵測不佳。為了解決這個限制，我們提出一個新工具 AutoRestTest，它整合了語義操作依賴圖 (SODG) 與多智能體強化學習 (MARL) 和大型語言模型 (LLM)，以進行有效的 REST API 測試。AutoRestTest 使用 SODG 確定依賴於操作的參數，並使用五個專門的代理 (操作、參數、值、依賴關係和標頭) 來識別操作的依賴關係並產生操作序列、參數組合和值。AutoRestTest 提供命令列介面和持續遙測，包括成功操作次數、偵測到的唯一伺服器錯誤和經過時間。完成後，AutoRestTest 會產生一份詳細報告，重點說明偵測到的錯誤和執行的操作。在本文中，我們介紹我們的工具並提出初步結果。
-
-##### **LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**
-2501.08582v1 by Yuxuan Hu, Jing Zhang, Xiaodong Chen, Zhe Zhao, Cuiping Li, Hong Chen
-
-Existing low-rank adaptation (LoRA) methods face challenges on sparse large
-language models (LLMs) due to the inability to maintain sparsity. Recent works
-introduced methods that maintain sparsity by augmenting LoRA techniques with
-additional masking mechanisms. Despite these successes, such approaches suffer
-from an increased memory and computation overhead, which affects efficiency of
-LoRA methods. In response to this limitation, we introduce LoRS, an innovative
-method designed to achieve both memory and computation efficiency when
-fine-tuning sparse LLMs. To mitigate the substantial memory and computation
-demands associated with preserving sparsity, our approach incorporates
-strategies of weight recompute and computational graph rearrangement. In
-addition, we also improve the effectiveness of LoRS through better adapter
-initialization. These innovations lead to a notable reduction in memory and
-computation consumption during the fine-tuning phase, all while achieving
-performance levels that outperform existing LoRA approaches.
-
-摘要：現有的低秩適應 (LoRA) 方法由於無法維持稀疏性，在稀疏大型語言模型 (LLM) 上面臨挑戰。最近的作品引入了透過使用額外的遮罩機制來擴充 LoRA 技術的方法來維持稀疏性。儘管有這些成功，但這些方法會增加記憶體和運算的開銷，這會影響 LoRA 方法的效率。為了回應這個限制，我們引入了 LoRS，這是一種創新的方法，旨在在微調稀疏 LLM 時同時實現記憶體和運算效率。為了減輕與維持稀疏性相關的龐大記憶體和運算需求，我們的做法結合了權重重新計算和計算圖形重新排列的策略。此外，我們還透過更好的適配器初始化來提高 LoRS 的有效性。這些創新在微調階段顯著減少了記憶體和運算消耗，同時實現了優於現有 LoRA 方法的效能等級。
-
-##### **Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**
-2501.08460v1 by Mihai Masala, Marius Leordeanu
-
-In the current era of Machine Learning, Transformers have become the de facto
-approach across a variety of domains, such as computer vision and natural
-language processing. Transformer-based solutions are the backbone of current
-state-of-the-art methods for language generation, image and video
-classification, segmentation, action and object recognition, among many others.
-Interestingly enough, while these state-of-the-art methods produce impressive
-results in their respective domains, the problem of understanding the
-relationship between vision and language is still beyond our reach. In this
-work, we propose a common ground between vision and language based on events in
-space and time in an explainable and programmatic way, to connect
-learning-based vision and language state of the art models and provide a
-solution to the long standing problem of describing videos in natural language.
-We validate that our algorithmic approach is able to generate coherent, rich
-and relevant textual descriptions on videos collected from a variety of
-datasets, using both standard metrics (e.g. Bleu, ROUGE) and the modern
-LLM-as-a-Jury approach.
-
-摘要：在機器學習的當代，Transformer 已成為各種領域的事實標準方法，例如電腦視覺和自然語言處理。基於 Transformer 的解決方案是當前語言生成、影像和影片分類、分割、動作和物件辨識等最新方法的骨幹。有趣的是，雖然這些最新方法在其各自的領域中產生令人印象深刻的結果，但理解視覺和語言之間關係的問題仍然超出了我們的理解範圍。在這項工作中，我們以可解釋且以程式為基礎的方式，在時空中的事件之間提出了視覺和語言的共同基礎，以連接基於學習的視覺和語言最新模型，並提供描述影片的自然語言長期問題的解決方案。我們驗證了我們的演算法方法能夠在從各種資料集收集的影片中產生連貫、豐富且相關的文字描述，同時使用標準指標（例如 Bleu、ROUGE）和現代 LLM 作為評審方法。
-
-##### **In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**
-2501.08120v1 by Markus J. Buehler
-
-The pursuit of automated scientific discovery has fueled progress from
-symbolic logic to modern AI, forging new frontiers in reasoning and pattern
-recognition. Transformers function as potential systems, where every possible
-relationship remains latent potentiality until tasks impose constraints, akin
-to measurement. Yet, refining their sampling requires more than probabilistic
-selection: solutions must conform to specific structures or rules, ensuring
-consistency and the invocation of general principles. We present
-Graph-PReFLexOR (Graph-based Preference-based Recursive Language Modeling for
-Exploratory Optimization of Reasoning), a framework that combines graph
-reasoning with symbolic abstraction to dynamically expand domain knowledge.
-Inspired by reinforcement learning, Graph-PReFLexOR defines reasoning as a
-structured mapping, where tasks yield knowledge graphs, abstract patterns, and
-ultimately, final answers. Inspired by category theory, it encodes concepts as
-nodes and their relationships as edges, supporting hierarchical inference and
-adaptive learning through isomorphic representations. Demonstrations include
-hypothesis generation, materials design, and creative reasoning, such as
-discovering relationships between mythological concepts like 'thin places' with
-materials science. We propose a 'knowledge garden growth' strategy that
-integrates insights across domains, promoting interdisciplinary connections.
-Results with a 3-billion-parameter Graph-PReFLexOR model show superior
-reasoning depth and adaptability, underscoring the potential for transparent,
-multidisciplinary AI-driven discovery. It lays the groundwork for general
-autonomous reasoning solutions.
-
-摘要：<paragraph>追求自動化科學發現已經推動了從符號邏輯到現代 AI 的進展，在推理和模式識別中開闢了新的領域。Transformer 作為潛在系統運作，其中每種可能的關係都保持潛在潛力，直到任務施加約束，類似於測量。然而，優化其採樣需要的不只是機率選擇：解決方案必須符合特定結構或規則，以確保一致性並呼應一般原則。我們提出了 Graph-PReFLexOR（基於圖形的基於偏好的遞迴語言建模，用於推理的探索性優化），一個將圖形推理與符號抽象相結合以動態擴展領域知識的框架。受強化學習的啟發，Graph-PReFLexOR 將推理定義為結構化對應，任務產生知識圖形、抽象模式以及最終答案。受範疇論的啟發，它將概念編碼為節點，將它們的關係編碼為邊緣，通過同構表示支持階層式推論和自適應學習。示範包括假設生成、材料設計和創造性推理，例如發現神話概念（如「薄弱點」）與材料科學之間的關係。我們提出了一種「知識花園成長」策略，它整合了跨領域的見解，促進了跨學科的聯繫。使用 30 億參數 Graph-PReFLexOR 模型的結果顯示出優異的推理深度和適應性，強調了透明、多學科 AI 驅動發現的潛力。它為通用的自主推理解決方案奠定了基礎。</paragraph>
 

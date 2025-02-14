@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
 |**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v1](http://arxiv.org/abs/2502.06124v1)|null|
 |**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
@@ -101,9 +102,39 @@
 |**2024-02-28**|**Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**|Yasin Sadeghi Bazargani et.al.|[2402.18600v1](http://arxiv.org/abs/2402.18600v1)|null|
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
 |**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
-|**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127v1](http://arxiv.org/abs/2402.05127v1)|null|
 
 #### Abstracts
+##### **Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**
+2502.09218v1 by Flavio Bertini, Alessandro Dal Palù, Federica Zaglio, Francesco Fabiano, Andrea Formisano
+
+This paper presents a complete explainable system that interprets a set of
+data, abstracts the underlying features and describes them in a natural
+language of choice. The system relies on two crucial stages: (i) identifying
+emerging properties from data and transforming them into abstract concepts, and
+(ii) converting these concepts into natural language. Despite the impressive
+natural language generation capabilities demonstrated by Large Language Models,
+their statistical nature and the intricacy of their internal mechanism still
+force us to employ these techniques as black boxes, forgoing trustworthiness.
+Developing an explainable pipeline for data interpretation would allow
+facilitating its use in safety-critical environments like processing medical
+information and allowing non-experts and visually impaired people to access
+narrated information. To this end, we believe that the fields of knowledge
+representation and automated reasoning research could present a valid
+alternative. Expanding on prior research that tackled the first stage (i), we
+focus on the second stage, named Concept2Text. Being explainable, data
+translation is easily modeled through logic-based rules, once again emphasizing
+the role of declarative programming in achieving AI explainability. This paper
+explores a Prolog/CLP-based rewriting system to interpret concepts-articulated
+in terms of classes and relations, plus common knowledge-derived from a generic
+ontology, generating natural language text. Its main features include
+hierarchical tree rewritings, modular multilingual generation, support for
+equivalent variants across semantic, grammar, and lexical levels, and a
+transparent rule-based system. We outline the architecture and demonstrate its
+flexibility through some examples capable of generating numerous diverse and
+equivalent rewritings based on the input concept.
+
+摘要：<paragraph>這篇論文提出了一個完整的可解釋系統，它可以解釋一組資料，抽象出基礎特徵，並以選擇的自然語言描述它們。系統依賴兩個關鍵階段：(i) 從資料中識別新興屬性，並將它們轉換為抽象概念，以及 (ii) 將這些概念轉換為自然語言。儘管大型語言模型展示了令人印象深刻的自然語言生成能力，但它們的統計性質和內部機制的複雜性仍然迫使我們將這些技術用作黑盒子，放棄可信度。開發一個可解釋的資料解釋管道將有助於促進在安全關鍵環境中使用它，例如處理醫療資訊，並允許非專家和視障人士存取敘述資訊。為此，我們相信知識表示和自動推理研究領域可以提出一個有效的替代方案。在擴展解決第一階段 (i) 的先前研究的基礎上，我們專注於第二階段，稱為 Concept2Text。由於具有可解釋性，資料翻譯很容易透過基於邏輯的規則建模，再次強調宣告式程式設計在實現 AI 可解釋性中的作用。本文探討了一個基於 Prolog/CLP 的重寫系統，以解釋概念，這些概念以類別和關係的形式表達，再加上從通用本体衍生的常識，產生自然語言文字。它的主要特點包括階層樹重寫、模組化多語言生成、支援語義、語法和詞彙層面的等效變體，以及一個透明的基於規則的系統。我們概述了架構，並透過一些範例展示了它的靈活性，這些範例能夠根據輸入概念生成許多不同的等效重寫。</paragraph>
+
 ##### **Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**
 2502.06124v1 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
 
@@ -2672,28 +2703,4 @@ amplitude, in distinguishing normal sinus rhythm from atrial fibrillation and
 sinus bradycardia.
 
 摘要：<paragraph>基於可穿戴式單導程心電圖 (ECG) 裝置的遠端病患監測在早期偵測心臟疾病方面具有顯著的潛力，特別是與用於自動化心臟疾病偵測的人工智慧 (AI) 方法結合使用時。先前已有研究應用基於深度學習的 AI 方法進行心臟疾病偵測。然而，這些模型尚未被廣泛接受為臨床診斷的可靠輔助工具，部分原因在於圍繞許多 AI 演算法的當前黑箱感知。特別是，有必要找出有助於做出準確診斷的 ECG 訊號關鍵特徵，從而增強模型的可解釋性。在本研究中，我們開發了一種視覺轉換器方法，以根據單導程 ECG 資料找出心房顫動。殘差網路 (ResNet) 方法也已開發出來，以便與視覺轉換器方法進行比較。這些模型應用於 Chapman-Shaoxing 資料集，以分類心房顫動，以及另一種常見的心律不整，竇性心動過緩，和正常竇性心律的心跳。這些模型能夠找出決定最終分類的心跳關鍵區域，並強調 P 波和 T 波，以及心跳持續時間和訊號振幅在區分正常竇性心律與心房顫動和竇性心動過緩方面的重要性。</paragraph>
-
-##### **Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**
-2402.05127v1 by Aryan Agrawal
-
-This paper introduces a novel paradigm for depression detection and treatment
-using advanced Large Language Models (LLMs): Generative Pre-trained Transformer
-4 (GPT-4), Llama 2 chat, and Gemini. These LLMs are fine-tuned with specialized
-prompts to diagnose, explain, and suggest therapeutic interventions for
-depression. A unique few-shot prompting method enhances the models' ability to
-analyze and explain depressive symptoms based on the DSM-5 criteria. In the
-interaction phase, the models engage in empathetic dialogue management, drawing
-from resources like PsychDB and a Cognitive Behavioral Therapy (CBT) Guide,
-fostering supportive interactions with individuals experiencing major
-depressive disorders. Additionally, the research introduces the Illuminate
-Database, enriched with various CBT modules, aiding in personalized therapy
-recommendations. The study evaluates LLM performance using metrics such as F1
-scores, Precision, Recall, Cosine similarity, and Recall-Oriented Understudy
-for Gisting Evaluation (ROUGE) across different test sets, demonstrating their
-effectiveness. This comprehensive approach blends cutting-edge AI with
-established psychological methods, offering new possibilities in mental health
-care and showcasing the potential of LLMs in revolutionizing depression
-diagnosis and treatment strategies.
-
-摘要：本文介紹了一種使用先進大型語言模型 (LLM) 進行憂鬱症偵測和治療的新模式：生成式預訓練Transformer 4 (GPT-4)、Llama 2 聊天機器人和 Gemini。這些 LLM 經過微調，具備專業提示，可診斷、解釋並建議憂鬱症的治療介入方法。一種獨特的少次提示方法增強了模型根據 DSM-5 標準分析和解釋憂鬱症狀的能力。在互動階段，這些模型會參與同理心對話管理，從 PsychDB 和認知行為療法 (CBT) 指南等資源中汲取，促進與經歷重度憂鬱症的人們的支持性互動。此外，這項研究還介紹了 Illuminate 資料庫，其中包含各種 CBT 模組，有助於個性化治療建議。這項研究使用 F1 分數、準確率、召回率、餘弦相似度和面向召回率的 Gisting 評估替身 (ROUGE) 等指標，在不同的測試集中評估 LLM 的表現，證明了它們的有效性。這種綜合方法結合了尖端的 AI 與既定的心理方法，為心理保健提供了新的可能性，並展示了 LLM 在革新憂鬱症診斷和治療策略方面的潛力。
 

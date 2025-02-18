@@ -8,7 +8,7 @@
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
-|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v2](http://arxiv.org/abs/2501.09628v2)|null|
 |**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
 |**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
@@ -40,7 +40,7 @@
 |**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v3](http://arxiv.org/abs/2409.12087v3)|null|
 |**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201v3](http://arxiv.org/abs/2409.09201v3)|null|
 |**2024-09-09**|**Explainable AI: Definition and attributes of a good explanation for health AI**|Evangelia Kyrimi et.al.|[2409.15338v1](http://arxiv.org/abs/2409.15338v1)|null|
-|**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|null|
+|**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust in Healthcare**|Antonio Rago et.al.|[2408.17401v2](http://arxiv.org/abs/2408.17401v2)|null|
 |**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133v1](http://arxiv.org/abs/2409.00133v1)|null|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121v1](http://arxiv.org/abs/2408.15121v1)|null|
 |**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626v1](http://arxiv.org/abs/2408.13626v1)|null|
@@ -261,7 +261,7 @@ in a scarce and noisy data setting.
 摘要：在流行病學中，傳統的統計方法，例如邏輯迴歸、線性迴歸和其他參數模型通常用於調查預測因子與健康結果之間的關聯。然而，非參數機器學習技術，例如深度神經網路 (DNN)，結合可解釋的 AI (XAI) 工具，為這項任務提供了新的機會。儘管這些方法具有潛力，但由於該領域缺乏高品質、高數量資料，因此這些方法面臨挑戰。為了應對這些挑戰，我們引入了 SEANN，這是一種新穎的方法，用於獲取知識的 DNN，它利用了一種流行的領域特定知識形式：彙總效應量 (PES)。PES 通常以不同的形式出現在已發表的 Meta 分析研究中，並代表科學共識的量化形式。通過使用自訂損失函數直接整合在學習程序中，我們以實驗方式證明了預測效能的概括性以及與從缺乏領域知識的神經網路中提取的關係相比，科學合理性的顯著提升，且是在稀少且有雜訊的資料設定中。
 
 ##### **Artificial Intelligence-Driven Clinical Decision Support Systems**
-2501.09628v1 by Muhammet Alkan, Idris Zakariyya, Samuel Leighton, Kaushik Bhargav Sivangi, Christos Anagnostopoulos, Fani Deligianni
+2501.09628v2 by Muhammet Alkan, Idris Zakariyya, Samuel Leighton, Kaushik Bhargav Sivangi, Christos Anagnostopoulos, Fani Deligianni
 
 As artificial intelligence (AI) becomes increasingly embedded in healthcare
 delivery, this chapter explores the critical aspects of developing reliable and
@@ -288,7 +288,7 @@ AI systems that can be seamlessly and reliably integrated into daily clinical
 practice while maintaining the highest standards of patient care and data
 protection.
 
-摘要：隨著人工智慧 (AI) 在醫療保健中的應用日益普及，本章探討了開發可靠且符合道德標準的臨床決策支援系統 (CDSS) 的關鍵面向。從傳統統計模型到複雜機器學習方法的基本轉變開始，這項工作審查了嚴謹的驗證策略和效能評估方法，包括模型校準和決策曲線分析的關鍵角色。本章強調，在醫療保健中建立值得信賴的 AI 系統不只是技術上的準確性；它需要仔細考量公平性、可解釋性和隱私權。本章強調了透過 AI 確保公平的醫療保健服務的挑戰，並討論了識別和減輕臨床預測模型中偏差的方法。接著，本章深入探討可解釋性，作為以人為中心的 CDSS 的基石。這種關注反映了醫療保健專業人員不僅必須信任 AI 建議，還必須理解其背後的推理。討論進一步分析了醫療 AI 系統中的隱私漏洞，從深度學習模型中的資料外洩到針對模型解釋的複雜攻擊。本文探討了隱私保護策略，例如差分隱私和聯合學習，同時承認隱私保護和模型效能之間的固有取捨。這種從技術驗證到道德考量的進展，反映了開發 AI 系統的多面向挑戰，這些系統可以無縫且可靠地整合到日常臨床實務中，同時維持最高的病患照護和資料保護標準。
+摘要：隨著人工智慧（AI）在醫療保健服務中日益普及，本章探討了開發可靠且符合道德的臨床決策支援系統 (CDSS) 的關鍵面向。從傳統統計模型轉變到複雜機器學習方法的基本原理開始，這項工作探討了嚴謹的驗證策略和效能評估方法，包括模型校準和決策曲線分析的關鍵角色。本章強調，在醫療保健中建立值得信賴的 AI 系統不僅需要技術準確性；它需要仔細考量公平性、可解釋性和隱私。本章強調了透過 AI 確保公平醫療保健服務的挑戰，並討論了識別和減輕臨床預測模型中偏差的方法。接著，本章深入探討可解釋性作為以人為中心的 CDSS 的基石。這種關注反映了對醫療保健專業人員不僅必須信任 AI 建議，還必須理解其背後推理的理解。討論進展到對醫療 AI 系統中隱私漏洞的分析，從深度學習模型中的資料外洩到針對模型解釋的複雜攻擊。本文探討了隱私保護策略，例如差分隱私和聯合學習，同時承認隱私保護和模型效能之間的固有權衡。從技術驗證到道德考量，這種進展反映了開發 AI 系統的多方面挑戰，這些系統可以無縫且可靠地整合到日常臨床實務中，同時維持最高標準的患者照護和資料保護。
 
 ##### **MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**
 2501.06887v1 by Sadia Kamal, Tim Oates
@@ -1090,36 +1090,27 @@ attributes that characterize a good explanation in health-AI.
 
 摘要：隨著越來越複雜且準確的預測模型，基於人工智慧 (AI) 解決方案的提案在許多領域中變得無處不在。隨著這些模型複雜性的增加，透明度和使用者的理解力往往會降低。這表示僅有準確的預測並不足以讓 AI 解決方案真正有用。在醫療保健系統的開發中，這引入了與問責制和安全性相關的新問題。瞭解 AI 系統如何以及為何提出建議可能需要對其內部運作和推理過程進行複雜的說明。儘管近年來對可解釋 AI (XAI) 的研究已大幅增加，且醫學領域對 XAI 有很高的需求，但定義什麼構成一個好的解釋仍是臨時性的，而提供適當的解釋仍然具有挑戰性。為了充分發揮 AI 的潛力，對於安全關鍵型 AI 應用（例如健康 AI）的解釋，探討兩個基本問題至關重要：(1) 什麼是健康 AI 中的解釋？以及 (2) 健康 AI 中一個好的解釋有哪些屬性？在本研究中，我們檢視了已發表的文獻，並透過兩輪德爾菲研究收集了專家意見。研究成果包括：(1) 健康 AI 中什麼構成解釋的定義，以及 (2) 健康 AI 中一個好解釋的屬性清單。
 
-##### **Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**
-2408.17401v1 by Antonio Rago, Bence Palfi, Purin Sukpanichnant, Hannibal Nabli, Kavyesh Vivek, Olga Kostopoulou, James Kinross, Francesca Toni
+##### **Exploring the Effect of Explanation Content and Format on User Comprehension and Trust in Healthcare**
+2408.17401v2 by Antonio Rago, Bence Palfi, Purin Sukpanichnant, Hannibal Nabli, Kavyesh Vivek, Olga Kostopoulou, James Kinross, Francesca Toni
 
-In recent years, various methods have been introduced for explaining the
-outputs of "black-box" AI models. However, it is not well understood whether
-users actually comprehend and trust these explanations. In this paper, we focus
-on explanations for a regression tool for assessing cancer risk and examine the
-effect of the explanations' content and format on the user-centric metrics of
-comprehension and trust. Regarding content, we experiment with two explanation
-methods: the popular SHAP, based on game-theoretic notions and thus potentially
-complex for everyday users to comprehend, and occlusion-1, based on feature
-occlusion which may be more comprehensible. Regarding format, we present SHAP
-explanations as charts (SC), as is conventional, and occlusion-1 explanations
-as charts (OC) as well as text (OT), to which their simpler nature also lends
-itself. The experiments amount to user studies questioning participants, with
-two different levels of expertise (the general population and those with some
-medical training), on their subjective and objective comprehension of and trust
-in explanations for the outputs of the regression tool. In both studies we
-found a clear preference in terms of subjective comprehension and trust for
-occlusion-1 over SHAP explanations in general, when comparing based on content.
-However, direct comparisons of explanations when controlling for format only
-revealed evidence for OT over SC explanations in most cases, suggesting that
-the dominance of occlusion-1 over SHAP explanations may be driven by a
-preference for text over charts as explanations. Finally, we found no evidence
-of a difference between the explanation types in terms of objective
-comprehension. Thus overall, the choice of the content and format of
-explanations needs careful attention, since in some contexts format, rather
-than content, may play the critical role in improving user experience.
+AI-driven tools for healthcare are widely acknowledged as potentially
+beneficial to health practitioners and patients, e.g. the QCancer regression
+tool for cancer risk prediction. However, for these tools to be trusted, they
+need to be supplemented with explanations. We examine how explanations' content
+and format affect user comprehension and trust when explaining QCancer's
+predictions. Regarding content, we deploy SHAP and Occlusion-1. Regarding
+format, we present SHAP explanations, conventionally, as charts (SC) and
+Occlusion-1 explanations as charts (OC) as well as text (OT), to which their
+simpler nature lends itself. We conduct experiments with two sets of
+stakeholders: the general public (representing patients) and medical students
+(representing healthcare practitioners). Our experiments showed higher
+subjective comprehension and trust for Occlusion-1 over SHAP explanations based
+on content. However, when controlling for format, only OT outperformed SC,
+suggesting this trend is driven by preferences for text. Other findings
+corroborated that explanation format, rather than content, is often the
+critical factor.
 
-摘要：<paragraph>近年來，已經引進各種方法來解釋「黑箱」AI 模型的輸出。然而，目前並不清楚使用者是否實際理解和信任這些解釋。在本文中，我們專注於評估癌症風險的回歸工具的解釋，並探討解釋的內容和格式對以使用者為中心的理解和信任指標的影響。關於內容，我們實驗了兩種解釋方法：流行的 SHAP，基於博弈論概念，因此對於日常使用者來說可能很複雜，以及基於特徵遮蔽的 occlusion-1，可能更易於理解。關於格式，我們將 SHAP 解釋呈現為圖表 (SC)，這是慣例，而將 occlusion-1 解釋呈現為圖表 (OC) 以及文字 (OT)，其較為簡單的性質也適用於此。這些實驗等同於使用者研究，詢問參與者，具有兩種不同程度的專業知識（一般民眾和具備一些醫學訓練的人），他們對回歸工具輸出解釋的主觀和客觀理解和信任。在兩項研究中，我們發現，在基於內容進行比較時，一般來說，occlusion-1 優於 SHAP 解釋，在主觀理解和信任方面有明顯的偏好。然而，在僅控制格式的情況下直接比較解釋，在大多數情況下只顯示 OT 優於 SC 解釋的證據，這表明 occlusion-1 優於 SHAP 解釋的主導地位可能是由偏好文字而非圖表作為解釋所驅動的。最後，我們沒有發現解釋類型在客觀理解方面的差異證據。因此，總體而言，對解釋的內容和格式的選擇需要仔細注意，因為在某些情況下，格式而非內容，可能在改善使用者體驗方面發揮關鍵作用。</paragraph>
+摘要：由 AI 驅動的醫療保健工具被廣泛認為對醫療從業者和患者有潛在好處，例如用於癌症風險預測的 QCancer 回歸工具。然而，對於這些工具，如果要讓人們信賴，就需要補充說明。我們研究了說明的內容和格式如何影響使用者在解釋 QCancer 預測時的理解和信任。關於內容，我們部署了 SHAP 和 Occlusion-1。關於格式，我們以圖表 (SC) 的形式呈現 SHAP 說明，以圖表 (OC) 和文字 (OT) 的形式呈現 Occlusion-1 說明，因為它們的性質較為簡單。我們對兩組利害關係人進行了實驗：一般民眾（代表患者）和醫學生（代表醫療從業者）。我們的實驗結果顯示，基於內容，Occlusion-1 比 SHAP 說明具有更高的主觀理解和信任。然而，在控制格式時，只有 OT 優於 SC，這表明這種趨勢是由對文字的偏好所驅動的。其他發現證實了說明格式，而不是內容，通常是關鍵因素。
 
 ##### **A Survey for Large Language Models in Biomedicine**
 2409.00133v1 by Chong Wang, Mengyao Li, Junjun He, Zhongruo Wang, Erfan Darzi, Zan Chen, Jin Ye, Tianbin Li, Yanzhou Su, Jing Ke, Kaili Qu, Shuxin Li, Yi Yu, Pietro Liò, Tianyun Wang, Yu Guang Wang, Yiqing Shen

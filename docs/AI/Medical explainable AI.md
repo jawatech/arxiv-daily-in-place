@@ -2,6 +2,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-14**|**3D ReX: Causal Explanations in 3D Neuroimaging Classification**|Melane Navaratnarajah et.al.|[2502.12181v1](http://arxiv.org/abs/2502.12181v1)|null|
 |**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
 |**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v1](http://arxiv.org/abs/2502.06124v1)|null|
 |**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
@@ -101,9 +102,22 @@
 |**2024-02-28**|**Cause and Effect: Can Large Language Models Truly Understand Causality?**|Swagata Ashwani et.al.|[2402.18139v3](http://arxiv.org/abs/2402.18139v3)|null|
 |**2024-02-28**|**Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**|Yasin Sadeghi Bazargani et.al.|[2402.18600v1](http://arxiv.org/abs/2402.18600v1)|null|
 |**2024-02-22**|**Multi-stakeholder Perspective on Responsible Artificial Intelligence and Acceptability in Education**|A. J. Karran et.al.|[2402.15027v2](http://arxiv.org/abs/2402.15027v2)|null|
-|**2024-02-12**|**Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**|Aruna Mohan et.al.|[2402.09474v2](http://arxiv.org/abs/2402.09474v2)|null|
 
 #### Abstracts
+##### **3D ReX: Causal Explanations in 3D Neuroimaging Classification**
+2502.12181v1 by Melane Navaratnarajah, Sophie A. Martin, David A. Kelly, Nathan Blake, Hana Chocker
+
+Explainability remains a significant problem for AI models in medical
+imaging, making it challenging for clinicians to trust AI-driven predictions.
+We introduce 3D ReX, the first causality-based post-hoc explainability tool for
+3D models. 3D ReX uses the theory of actual causality to generate
+responsibility maps which highlight the regions most crucial to the model's
+decision. We test 3D ReX on a stroke detection model, providing insight into
+the spatial distribution of features relevant to stroke.
+
+摘要：解釋性仍然是醫療影像中 AI 模型的一大問題，這使得臨床醫生難以信任 AI 驅動的預測。
+我們引入了 3D ReX，這是第一個用於 3D 模型的基於因果關係的事後解釋性工具。3D ReX 使用實際因果關係理論來生成責任圖，該圖突出了對模型決策至關重要的區域。我們在中風檢測模型上測試了 3D ReX，提供了與中風相關特徵的空間分佈的見解。
+
 ##### **Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**
 2502.09218v1 by Flavio Bertini, Alessandro Dal Palù, Federica Zaglio, Francesco Fabiano, Andrea Formisano
 
@@ -2668,30 +2682,4 @@ issue that requires careful consideration of specific AI applications and their
 characteristics, in addition to the diverse stakeholders' perceptions.
 
 摘要：這項研究從多個利害關係人的角度探討不同的人工智慧 (AI) 應用在教育上的可接受性，包括學生、老師和家長。承認 AI 在教育上的轉型潛力，它解決了與資料隱私、AI 代理、透明度、可解釋性和 AI 的道德部署相關的疑慮。透過小插曲方法，參與者被呈現了四種情境，其中 AI 的代理、透明度、可解釋性和隱私受到操縱。在每個情境後，參與者完成了一項調查，該調查捕捉了他們對 AI 的整體效用、個人效用、正義、信心、風險和如果可用，使用每個情境的 AI 的意圖的看法。資料蒐集包含來自合作機構和社群媒體活動的 1198 位多利害關係人參與者的最終樣本，並專注於對四個 AI 使用案例的個別回應。對資料的調解分析表明，對 AI 的接受度和信任在利害關係人團體之間有顯著差異。我們發現，AI 的代理、透明度和可解釋性高低程度之間的關鍵調解者，以及使用不同教育 AI 的意圖，包括感知到的整體效用、正義和信心。這項研究強調，接受 AI 在教育上的應用是一個微妙且多面向的問題，除了不同的利害關係人的看法外，還需要仔細考慮具體的 AI 應用及其特徵。
-
-##### **Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals**
-2402.09474v2 by Aruna Mohan, Danne Elbers, Or Zilbershot, Fatemeh Afghah, David Vorchheimer
-
-Remote patient monitoring based on wearable single-lead electrocardiogram
-(ECG) devices has significant potential for enabling the early detection of
-heart disease, especially in combination with artificial intelligence (AI)
-approaches for automated heart disease detection. There have been prior studies
-applying AI approaches based on deep learning for heart disease detection.
-However, these models are yet to be widely accepted as a reliable aid for
-clinical diagnostics, in part due to the current black-box perception
-surrounding many AI algorithms. In particular, there is a need to identify the
-key features of the ECG signal that contribute toward making an accurate
-diagnosis, thereby enhancing the interpretability of the model. In the present
-study, we develop a vision transformer approach to identify atrial fibrillation
-based on single-lead ECG data. A residual network (ResNet) approach is also
-developed for comparison with the vision transformer approach. These models are
-applied to the Chapman-Shaoxing dataset to classify atrial fibrillation, as
-well as another common arrhythmia, sinus bradycardia, and normal sinus rhythm
-heartbeats. The models enable the identification of the key regions of the
-heartbeat that determine the resulting classification, and highlight the
-importance of P-waves and T-waves, as well as heartbeat duration and signal
-amplitude, in distinguishing normal sinus rhythm from atrial fibrillation and
-sinus bradycardia.
-
-摘要：<paragraph>基於可穿戴式單導程心電圖 (ECG) 裝置的遠端病患監測在早期偵測心臟疾病方面具有顯著的潛力，特別是與用於自動化心臟疾病偵測的人工智慧 (AI) 方法結合使用時。先前已有研究應用基於深度學習的 AI 方法進行心臟疾病偵測。然而，這些模型尚未被廣泛接受為臨床診斷的可靠輔助工具，部分原因在於圍繞許多 AI 演算法的當前黑箱感知。特別是，有必要找出有助於做出準確診斷的 ECG 訊號關鍵特徵，從而增強模型的可解釋性。在本研究中，我們開發了一種視覺轉換器方法，以根據單導程 ECG 資料找出心房顫動。殘差網路 (ResNet) 方法也已開發出來，以便與視覺轉換器方法進行比較。這些模型應用於 Chapman-Shaoxing 資料集，以分類心房顫動，以及另一種常見的心律不整，竇性心動過緩，和正常竇性心律的心跳。這些模型能夠找出決定最終分類的心跳關鍵區域，並強調 P 波和 T 波，以及心跳持續時間和訊號振幅在區分正常竇性心律與心房顫動和竇性心動過緩方面的重要性。</paragraph>
 

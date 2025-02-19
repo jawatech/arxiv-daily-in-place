@@ -2,6 +2,12 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|null|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025v1](http://arxiv.org/abs/2502.13025v1)|null|
+|**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010v1](http://arxiv.org/abs/2502.13010v1)|null|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767v1](http://arxiv.org/abs/2502.12767v1)|null|
+|**2025-02-18**|**Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**|Xiang Liu et.al.|[2502.12669v1](http://arxiv.org/abs/2502.12669v1)|null|
+|**2025-02-18**|**G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation**|Yuhan Li et.al.|[2502.12586v1](http://arxiv.org/abs/2502.12586v1)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110v1](http://arxiv.org/abs/2502.12110v1)|null|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029v1](http://arxiv.org/abs/2502.12029v1)|null|
 |**2025-02-17**|**Atom of Thoughts for Markov LLM Test-Time Scaling**|Fengwei Teng et.al.|[2502.12018v1](http://arxiv.org/abs/2502.12018v1)|null|
@@ -66,7 +72,7 @@
 |**2025-02-06**|**Division-of-Thoughts: Harnessing Hybrid Language Model Synergy for Efficient On-Device Agents**|Chenyang Shao et.al.|[2502.04392v1](http://arxiv.org/abs/2502.04392v1)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715v1](http://arxiv.org/abs/2502.03715v1)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450v1](http://arxiv.org/abs/2502.03450v1)|null|
-|**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283v1](http://arxiv.org/abs/2502.03283v1)|null|
+|**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283v2](http://arxiv.org/abs/2502.03283v2)|null|
 |**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v2](http://arxiv.org/abs/2502.03032v2)|null|
 |**2025-02-05**|**A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs**|Bradley P. Allen et.al.|[2502.02896v1](http://arxiv.org/abs/2502.02896v1)|null|
 |**2025-02-05**|**Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization**|Chanhui Lee et.al.|[2502.02810v1](http://arxiv.org/abs/2502.02810v1)|null|
@@ -96,14 +102,163 @@
 |**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
 |**2025-01-29**|**General Scene Adaptation for Vision-and-Language Navigation**|Haodong Hong et.al.|[2501.17403v1](http://arxiv.org/abs/2501.17403v1)|[link](https://github.com/honghd16/gsa-vln)|
 |**2025-01-28**|**Comprehensive Evaluation for a Large Scale Knowledge Graph Question Answering Service**|Saloni Potdar et.al.|[2501.17270v1](http://arxiv.org/abs/2501.17270v1)|null|
-|**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
-|**2025-01-28**|**LLM-AutoDiff: Auto-Differentiate Any LLM Workflow**|Li Yin et.al.|[2501.16673v2](http://arxiv.org/abs/2501.16673v2)|[link](https://github.com/sylphai-inc/adalflow)|
-|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v3](http://arxiv.org/abs/2501.16450v3)|null|
-|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191v1](http://arxiv.org/abs/2501.16191v1)|null|
-|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791v1](http://arxiv.org/abs/2501.15791v1)|[link](https://github.com/kse-eleven/makged)|
-|**2025-01-27**|**Automatic Feedback Generation for Short Answer Questions using Answer Diagnostic Graphs**|Momoka Furuhashi et.al.|[2501.15777v1](http://arxiv.org/abs/2501.15777v1)|null|
 
 #### Abstracts
+##### **Learning to Defer for Causal Discovery with Imperfect Experts**
+2502.13132v1 by Oscar Clivio, Divyat Mahajan, Perouz Taslakian, Sara Magliacane, Ioannis Mitliagkas, Valentina Zantedeschi, Alexandre Drouin
+
+Integrating expert knowledge, e.g. from large language models, into causal
+discovery algorithms can be challenging when the knowledge is not guaranteed to
+be correct. Expert recommendations may contradict data-driven results, and
+their reliability can vary significantly depending on the domain or specific
+query. Existing methods based on soft constraints or inconsistencies in
+predicted causal relationships fail to account for these variations in
+expertise. To remedy this, we propose L2D-CD, a method for gauging the
+correctness of expert recommendations and optimally combining them with
+data-driven causal discovery results. By adapting learning-to-defer (L2D)
+algorithms for pairwise causal discovery (CD), we learn a deferral function
+that selects whether to rely on classical causal discovery methods using
+numerical data or expert recommendations based on textual meta-data. We
+evaluate L2D-CD on the canonical T\"ubingen pairs dataset and demonstrate its
+superior performance compared to both the causal discovery method and the
+expert used in isolation. Moreover, our approach identifies domains where the
+expert's performance is strong or weak. Finally, we outline a strategy for
+generalizing this approach to causal discovery on graphs with more than two
+variables, paving the way for further research in this area.
+
+摘要：整合专家知識，例如從大型語言模型中整合到因果發現演算法中，當知識無法保證正確時會很有挑戰性。專家建議可能會與資料驅動的結果相矛盾，而且他們的可靠性可能會根據領域或特定查詢而有顯著差異。現有的基於軟約束或預測因果關係中不一致的方法無法說明專業知識中的這些變化。為了補救這一點，我們提出了 L2D-CD，一種用於評估專家建議的正確性並將其與資料驅動的因果發現結果最佳結合的方法。透過調整學習延遲 (L2D) 演算法以進行成對因果發現 (CD)，我們學習了一個延遲函數，用於選擇依賴使用數值資料的傳統因果發現方法或基於文字元資料的專家建議。我們在經典的 T\"ubingen 對資料集上評估 L2D-CD，並證明其與單獨使用的因果發現方法和專家相比具有優越的效能。此外，我們的做法識別出專家表現強或弱的領域。最後，我們概述了一種將此方法推廣到具有兩個以上變數的圖表上進行因果發現的策略，為此領域的進一步研究鋪平了道路。
+
+##### **Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**
+2502.13025v1 by Markus J. Buehler
+
+We present an agentic, autonomous graph expansion framework that iteratively
+structures and refines knowledge in situ. Unlike conventional knowledge graph
+construction methods relying on static extraction or single-pass learning, our
+approach couples a reasoning-native large language model with a continually
+updated graph representation. At each step, the system actively generates new
+concepts and relationships, merges them into a global graph, and formulates
+subsequent prompts based on its evolving structure. Through this
+feedback-driven loop, the model organizes information into a scale-free network
+characterized by hub formation, stable modularity, and bridging nodes that link
+disparate knowledge clusters. Over hundreds of iterations, new nodes and edges
+continue to appear without saturating, while centrality measures and shortest
+path distributions evolve to yield increasingly distributed connectivity. Our
+analysis reveals emergent patterns, such as the rise of highly connected 'hub'
+concepts and the shifting influence of 'bridge' nodes, indicating that agentic,
+self-reinforcing graph construction can yield open-ended, coherent knowledge
+structures. Applied to materials design problems, we present compositional
+reasoning experiments by extracting node-specific and synergy-level principles
+to foster genuinely novel knowledge synthesis, yielding cross-domain ideas that
+transcend rote summarization and strengthen the framework's potential for
+open-ended scientific discovery. We discuss other applications in scientific
+discovery and outline future directions for enhancing scalability and
+interpretability.
+
+摘要：<paragraph>我們提出一個能動的、自主的圖形擴展框架，它反覆地建構和精煉原位知識。與依賴靜態提取或單次學習的傳統知識圖形建構方法不同，我們的做法將一個推理原生的大語言模型與一個持續更新的圖形表示結合起來。在每一步中，系統主動產生新的概念和關係，將它們合併到一個全域圖形中，並根據其不斷演化的結構制定後續提示。透過這個回饋驅動的迴圈，模型將資訊組織成一個無標度網路，其特徵是樞紐形成、穩定的模組化以及連結不同知識群集的橋接節點。在數百次反覆運算中，新的節點和邊緣會持續出現，而不會飽和，同時中心性測量和最短路徑分佈會演化為產生越來越分散的連通性。我們的分析揭示了新興模式，例如高度連接的「樞紐」概念的興起和「橋樑」節點影響力的轉移，這表明能動的、自我強化的圖形建構可以產生開放式、連貫的知識結構。應用於材料設計問題，我們提出組合推理實驗，透過提取特定於節點的原則和協同效應層級原則，以促進真正新穎的知識綜合，產生超越死背式摘要並強化框架在開放式科學發現中潛力的跨領域想法。我們討論了在科學發現中的其他應用，並概述了增強可擴充性和可解釋性的未來方向。</paragraph>
+
+##### **Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**
+2502.13010v1 by Mohammad Reza Rezaei, Reza Saadati Fard, Jayson Parker, Rahul G. Krishnan, Milad Lankarany
+
+Large Language Models (LLMs) have significantly advanced medical
+question-answering by leveraging extensive clinical data and medical
+literature. However, the rapid evolution of medical knowledge and the
+labor-intensive process of manually updating domain-specific resources pose
+challenges to the reliability of these systems. To address this, we introduce
+Adaptive Medical Graph-RAG (AMG-RAG), a comprehensive framework that automates
+the construction and continuous updating of medical knowledge graphs,
+integrates reasoning, and retrieves current external evidence, such as PubMed
+and WikiSearch. By dynamically linking new findings and complex medical
+concepts, AMG-RAG not only improves accuracy but also enhances interpretability
+in medical queries.
+  Evaluations on the MEDQA and MEDMCQA benchmarks demonstrate the effectiveness
+of AMG-RAG, achieving an F1 score of 74.1 percent on MEDQA and an accuracy of
+66.34 percent on MEDMCQA, outperforming both comparable models and those 10 to
+100 times larger. Notably, these improvements are achieved without increasing
+computational overhead, highlighting the critical role of automated knowledge
+graph generation and external evidence retrieval in delivering up-to-date,
+trustworthy medical insights.
+
+摘要：大型語言模型 (LLM) 透過利用廣泛的臨床資料和醫學文獻，大幅提升了醫療問題解答的進步。然而，醫療知識的快速演進和手動更新特定領域資源的繁複程序，對這些系統的可靠性構成挑戰。為了解決這個問題，我們引入了適應性醫療圖表 RAG (AMG-RAG)，這是一個自動化建構和持續更新醫療知識圖表的綜合架構，整合推理並擷取 PubMed 和 WikiSearch 等最新的外部證據。透過動態連結新的發現和複雜的醫療概念，AMG-RAG 不僅提升了準確性，也增強了醫療查詢的可解釋性。在 MEDQA 和 MEDMCQA 基準上的評量證明了 AMG-RAG 的有效性，在 MEDQA 上達到了 74.1% 的 F1 分數，在 MEDMCQA 上達到了 66.34% 的準確度，優於其他同類模型以及那些大 10 到 100 倍的模型。值得注意的是，這些改進是在不增加運算負擔的情況下實現的，突顯了自動化知識圖表生成和外部證據擷取在提供最新、可信賴的醫療見解中扮演的重要角色。
+
+##### **R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**
+2502.12767v1 by Sumin Jo, Junseong Choi, Jiho Kim, Edward Choi
+
+Recent studies have combined Large Language Models (LLMs) with Knowledge
+Graphs (KGs) to enhance reasoning, improving inference accuracy without
+additional training while mitigating hallucination. However, existing
+frameworks are often rigid, struggling to adapt to KG or task changes. They
+also rely heavily on powerful LLMs for reliable (i.e., trustworthy) reasoning.
+To address this, We introduce R2-KG, a plug-and-play, dual-agent framework that
+separates reasoning into two roles: an Operator (a low-capacity LLM) that
+gathers evidence and a Supervisor (a high-capacity LLM) that makes final
+judgments. This design is cost-efficient for LLM inference while still
+maintaining strong reasoning accuracy. Additionally, R2-KG employs an
+Abstention mechanism, generating answers only when sufficient evidence is
+collected from KG, which significantly enhances reliability. Experiments across
+multiple KG-based reasoning tasks show that R2-KG consistently outperforms
+baselines in both accuracy and reliability, regardless of the inherent
+capability of LLMs used as the Operator. Further experiments reveal that the
+single-agent version of R2-KG, equipped with a strict self-consistency
+strategy, achieves significantly higher-than-baseline reliability while
+reducing inference cost. However, it also leads to a higher abstention rate in
+complex KGs. Our findings establish R2-KG as a flexible and cost-effective
+solution for KG-based reasoning. It reduces reliance on high-capacity LLMs
+while ensuring trustworthy inference.
+
+摘要：<paragraph>最近的研究结合了大型语言模型 (LLM) 与知识图谱 (KG) 以增强推理，在不额外训练的情况下提高推理准确性，同时减轻幻觉。然而，现有的框架通常很僵化，难以适应知识图谱或任务的变化。它们还严重依赖强大的 LLM 来进行可靠（即值得信赖）的推理。为了解决这个问题，我们引入了 R2-KG，这是一个即插即用、双代理框架，它将推理分为两个角色：一个收集证据的操作员（低容量 LLM）和一个做出最终判断的监督员（高容量 LLM）。这种设计在 LLM 推理方面具有成本效益，同时仍保持强大的推理准确性。此外，R2-KG 采用弃权机制，仅在从知识图谱收集到足够证据时才生成答案，这显著提高了可靠性。跨多个基于知识图谱的推理任务的实验表明，R2-KG 在准确性和可靠性方面始终优于基线，而与用作操作员的 LLM 的固有能力无关。进一步的实验表明，R2-KG 的单代理版本配备了严格的自一致性策略，实现了明显高于基线的可靠性，同时降低了推理成本。然而，它也导致了复杂知识图谱中更高的弃权率。我们的发现将 R2-KG 确立为一种灵活且经济高效的基于知识图谱的推理解决方案。它减少了对高容量 LLM 的依赖，同时确保了可信的推理。</paragraph>
+
+##### **Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**
+2502.12669v1 by Xiang Liu, Penglei Sun, Shuyan Chen, Longhan Zhang, Peijie Dong, Huajie You, Yongqi Zhang, Chang Yan, Xiaowen Chu, Tong-yi Zhang
+
+The rapid advancement of perovskite solar cells (PSCs) has led to an
+exponential growth in research publications, creating an urgent need for
+efficient knowledge management and reasoning systems in this domain. We present
+a comprehensive knowledge-enhanced system for PSCs that integrates three key
+components. First, we develop Perovskite-KG, a domain-specific knowledge graph
+constructed from 1,517 research papers, containing 23,789 entities and 22,272
+relationships. Second, we create two complementary datasets: Perovskite-Chat,
+comprising 55,101 high-quality question-answer pairs generated through a novel
+multi-agent framework, and Perovskite-Reasoning, containing 2,217 carefully
+curated materials science problems. Third, we introduce two specialized large
+language models: Perovskite-Chat-LLM for domain-specific knowledge assistance
+and Perovskite-Reasoning-LLM for scientific reasoning tasks. Experimental
+results demonstrate that our system significantly outperforms existing models
+in both domain-specific knowledge retrieval and scientific reasoning tasks,
+providing researchers with effective tools for literature review, experimental
+design, and complex problem-solving in PSC research.
+
+摘要：由於 perovskite 太陽能電池 (PSC) 快速進展，導致研究出版物呈指數成長，迫切需要在這領域建立有效的知識管理和推理系統。我們提出一個結合三項關鍵元件的 PSC 全面知識增強系統。首先，我們開發出 Perovskite-KG，一個由 1,517 篇研究論文建構而成、包含 23,789 個實體和 22,272 個關係的領域特定知識圖譜。其次，我們建立兩個互補的資料集：Perovskite-Chat，包含透過一個新穎的多代理架構產生 55,101 個高品質問答配對；以及 Perovskite-Reasoning，包含 2,217 個仔細策展的材料科學問題。第三，我們推出兩個專門化大型語言模型：針對領域特定知識協助的 Perovskite-Chat-LLM，以及針對科學推理任務的 Perovskite-Reasoning-LLM。實驗結果顯示，我們的系統在領域特定知識擷取和科學推理任務上都明顯優於現有模型，為研究人員提供有效的工具，用於 PSC 研究中的文獻回顧、實驗設計和複雜問題解決。
+
+##### **G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation**
+2502.12586v1 by Yuhan Li, Xinni Zhang, Linhao Luo, Heng Chang, Yuxiang Ren, Irwin King, Jia Li
+
+Explainable recommendation has demonstrated significant advantages in
+informing users about the logic behind recommendations, thereby increasing
+system transparency, effectiveness, and trustworthiness. To provide
+personalized and interpretable explanations, existing works often combine the
+generation capabilities of large language models (LLMs) with collaborative
+filtering (CF) information. CF information extracted from the user-item
+interaction graph captures the user behaviors and preferences, which is crucial
+for providing informative explanations. However, due to the complexity of graph
+structure, effectively extracting the CF information from graphs still remains
+a challenge. Moreover, existing methods often struggle with the integration of
+extracted CF information with LLMs due to its implicit representation and the
+modality gap between graph structures and natural language explanations. To
+address these challenges, we propose G-Refer, a framework using graph
+retrieval-augmented large language models (LLMs) for explainable
+recommendation. Specifically, we first employ a hybrid graph retrieval
+mechanism to retrieve explicit CF signals from both structural and semantic
+perspectives. The retrieved CF information is explicitly formulated as
+human-understandable text by the proposed graph translation and accounts for
+the explanations generated by LLMs. To bridge the modality gap, we introduce
+knowledge pruning and retrieval-augmented fine-tuning to enhance the ability of
+LLMs to process and utilize the retrieved CF information to generate
+explanations. Extensive experiments show that G-Refer achieves superior
+performance compared with existing methods in both explainability and
+stability. Codes and data are available at https://github.com/Yuhan1i/G-Refer.
+
+摘要：可解釋建議已證明在告知使用者建議背後的邏輯方面具有顯著優點，從而提高系統透明度、有效性和可信度。為了提供個人化且可解釋的說明，現有作品通常結合大型語言模型 (LLM) 的生成能力與協同過濾 (CF) 資訊。從使用者項目互動圖形中提取的 CF 資訊會擷取使用者行為和偏好，這對於提供資訊性說明至關重要。然而，由於圖形結構的複雜性，從圖形中有效提取 CF 資訊仍然是一個挑戰。此外，現有方法通常難以將提取的 CF 資訊與 LLM 整合，因為其隱含表示和圖形結構與自然語言說明之間的模式差距。為了應對這些挑戰，我們提出 G-Refer，一個使用圖形檢索增強型大型語言模型 (LLM) 的可解釋建議架構。具體來說，我們首先採用混合圖形檢索機制，從結構和語義角度檢索明確的 CF 訊號。檢索到的 CF 資訊由建議的圖形翻譯明確表述為人類可以理解的文字，並說明 LLM 生成的解釋。為了彌合模式差距，我們引入了知識修剪和檢索增強微調，以增強 LLM 處理和利用檢索到的 CF 資訊以產生解釋的能力。廣泛的實驗表明，與現有方法相比，G-Refer 在可解釋性和穩定性方面都取得了卓越的效能。程式碼和資料可在 https://github.com/Yuhan1i/G-Refer 取得。
+
 ##### **A-MEM: Agentic Memory for LLM Agents**
 2502.12110v1 by Wujiang Xu, Zujie Liang, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
 
@@ -1624,7 +1779,7 @@ absence of agent-level demonstrations. Project code will be released.
 摘要：場景圖表已成為大型語言模型 (LLM) 以基礎空間推理為基礎的結構化且可序列化的環境表徵。在這項工作中，我們提出 SG-RwR，一個以綱要為導向的檢索與推理框架，用於場景圖表的推理和規劃。我們的做法採用了兩個協作的、編寫程式碼的 LLM 代理：一個 (1) 推論器，用於任務規劃和資訊查詢產生，以及一個 (2) 檢索器，用於根據查詢提取對應的圖形資訊。兩個代理反覆合作，實現對圖形資訊的順序推理和適應性關注。與先前的作品不同，兩個代理僅提示場景圖表綱要，而不是完整的圖形資料，這透過限制輸入代碼減少了幻覺，並驅使推論器抽象地產生推理軌跡。根據軌跡，檢索器根據綱要理解以程式化方式查詢場景圖形資料，允許對圖形進行動態和整體關注，增強推理和檢索之間的一致性。透過在多個模擬環境中的實驗，我們表明我們的框架在數值問答和規劃任務中超越了現有的基於 LLM 的方法，並且可以受益於任務級別的少次範例，即使在沒有代理級別示範的情況下也是如此。專案程式碼將會釋出。
 
 ##### **SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**
-2502.03283v1 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng, Wotao Yin
+2502.03283v2 by Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng, Wotao Yin
 
 Recent advancements have highlighted that Large Language Models (LLMs) are
 prone to hallucinations when solving complex reasoning problems, leading to
@@ -1651,7 +1806,7 @@ better or comparable performance compared to various strong baselines. Further
 analysis reveals that our agent can identify missing triples, facilitating
 automatic KG updates.
 
-摘要：<paragraph>最近的研究表明，大型语言模型 (LLM) 在解决复杂的推理问题时容易出现幻觉，从而导致错误的结果。为了解决这个问题，研究人员结合了知识图谱 (KG) 来提高 LLM 的推理能力。然而，现有方法面临两个局限性：1) 它们通常假设问题的答案都包含在 KG 中，忽略了 KG 不完整的问题，2) 它们将 KG 视为一个静态存储库，而忽略了 KG 中固有的隐式逻辑推理结构。在本文中，我们介绍了 SymAgent，这是一个创新的神经符号代理框架，可以在 KG 和 LLM 之间实现协作增强。我们将 KG 概念化为动态环境，并将复杂的推理任务转化为一个多步骤的交互过程，使 KG 能够深入参与推理过程。SymAgent 由两个模块组成：Agent-Planner 和 Agent-Executor。Agent-Planner 利用 LLM 的归纳推理能力从 KG 中提取符号规则，指导高效的问题分解。Agent-Executor 自主调用预定义的动作工具来整合来自 KG 和外部文档的信息，解决 KG 不完整的问题。此外，我们设计了一个自学习框架，包括在线探索和离线迭代策略更新阶段，使代理能够自动合成推理轨迹并提高性能。实验结果表明，具有弱 LLM 主干的 SymAgent（即 7B 系列）与各种强大的基线相比，产生了更好或相当的性能。进一步的分析表明，我们的代理可以识别缺失的三元组，促进自动 KG 更新。</paragraph>
+摘要：<paragraph>最近的進展強調出，大型語言模型 (LLM) 在解決複雜推理問題時容易出現幻覺，導致錯誤的結果。為了解決這個問題，研究人員結合知識圖譜 (KG) 來改善 LLM 的推理能力。然而，現有方法面臨兩個限制：1) 它們通常假設問題的所有答案都包含在 KG 中，忽略了 KG 的不完整性問題，以及 2) 它們將 KG 視為一個靜態儲存庫，而忽略了 KG 中固有的隱式邏輯推理結構。在本文中，我們介紹了 SymAgent，一個創新的神經符號代理架構，它在 KG 和 LLM 之間實現了協作擴充。我們將 KG 概念化為動態環境，並將複雜的推理任務轉化為一個多步驟的互動過程，使 KG 能夠深入參與推理過程。SymAgent 包含兩個模組：代理規劃器和代理執行器。代理規劃器利用 LLM 的歸納推理能力從 KG 中提取符號規則，指導有效的問題分解。代理執行器自主地調用預定義的動作工具來整合來自 KG 和外部文件的資訊，解決 KG 不完整性的問題。此外，我們設計了一個自學習框架，包括線上探索和離線反覆的政策更新階段，使代理能夠自動合成推理軌跡並改善效能。實驗結果表明，具有弱 LLM 主幹的 SymAgent（例如，7B 系列）與各種強大的基線相比，產生了更好或相當的效能。進一步的分析表明，我們的代理可以識別遺失的三元組，促進自動 KG 更新。</paragraph>
 
 ##### **Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**
 2502.03032v2 by Daniil Laptev, Nikita Balagansky, Yaroslav Aksenov, Daniil Gavrilov
@@ -2346,210 +2501,4 @@ for data-driven decisions and discuss the challenges of using it to measure and
 improve a real-world KGQA system.
 
 摘要：知識圖譜問答系統 (KGQA) 根據知識圖譜中的資料回答事實問題。KGQA 系統很複雜，因為系統必須理解知識尋求自然語言查詢中的關係和實體，並將它們對映到針對知識圖譜的結構化查詢，才能回答這些查詢。在本文中，我們介紹了 Chronos，這是一個用於產業規模 KGQA 的全面評估框架。它旨在全面評估這種多組件系統，重點關注：(1) 端對端和組件層級指標，(2) 可擴充至各種資料集，以及 (3) 可擴充的方法，用於在釋出前衡量系統的效能。在本文中，我們討論了與產業規模 KGQA 系統評估相關的獨特挑戰，檢視 Chronos 的設計，以及它如何應對這些挑戰。我們將展示它如何提供資料驅動決策的基礎，並討論使用它來衡量和改善真實世界 KGQA 系統的挑戰。
-
-##### **FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**
-2501.17144v1 by Deren Lei, Yaxi Li, Siyao Li, Mengya Hu, Rui Xu, Ken Archer, Mingyu Wang, Emily Ching, Alex Deng
-
-Prior research on training grounded factuality classification models to
-detect hallucinations in large language models (LLMs) has relied on public
-natural language inference (NLI) data and synthetic data. However, conventional
-NLI datasets are not well-suited for document-level reasoning, which is
-critical for detecting LLM hallucinations. Recent approaches to document-level
-synthetic data generation involve iteratively removing sentences from documents
-and annotating factuality using LLM-based prompts. While effective, this method
-is computationally expensive for long documents and limited by the LLM's
-capabilities. In this work, we analyze the differences between existing
-synthetic training data used in state-of-the-art models and real LLM output
-claims. Based on our findings, we propose a novel approach for synthetic data
-generation, CG2C, that leverages multi-hop reasoning on context graphs
-extracted from documents. Our fact checker model, FactCG, demonstrates improved
-performance with more connected reasoning, using the same backbone models.
-Experiments show it even outperforms GPT-4-o on the LLM-Aggrefact benchmark
-with much smaller model size.
-
-摘要：先前的研究訓練了基於事實的分類模型，以偵測大型語言模型 (LLM) 中的幻覺，依賴於公開的自然語言推論 (NLI) 資料和合成資料。然而，傳統的 NLI 資料集並不適合文件層級的推理，這對於偵測 LLM 的幻覺至關重要。最近的文件層級合成資料生成方法涉及從文件中反覆移除句子，並使用基於 LLM 的提示註解事實。雖然有效，但此方法對於長文件來說在運算上很昂貴，且受限於 LLM 的能力。在這項工作中，我們分析了現有合成訓練資料與最先進模型中使用的真實 LLM 輸出宣告之間的差異。根據我們的研究結果，我們提出了一個用於合成資料生成的創新方法 CG2C，它利用從文件中提取的內容圖表進行多跳推理。我們的查核模型 FactCG 使用相同的骨幹模型，展示了在更多連結的推理下改進的效能。實驗表明，它甚至在 LLM-Aggrefact 基準上優於 GPT-4-o，且模型大小小得多。
-
-##### **LLM-AutoDiff: Auto-Differentiate Any LLM Workflow**
-2501.16673v2 by Li Yin, Zhangyang Wang
-
-Large Language Models (LLMs) have reshaped natural language processing,
-powering applications from multi-hop retrieval and question answering to
-autonomous agent workflows. Yet, prompt engineering -- the task of crafting
-textual inputs to effectively direct LLMs -- remains difficult and
-labor-intensive, particularly for complex pipelines that combine multiple LLM
-calls with functional operations like retrieval and data formatting. We
-introduce LLM-AutoDiff: a novel framework for Automatic Prompt Engineering
-(APE) that extends textual gradient-based methods (such as Text-Grad) to
-multi-component, potentially cyclic LLM architectures. Implemented within the
-AdalFlow library, LLM-AutoDiff treats each textual input as a trainable
-parameter and uses a frozen backward engine LLM to generate feedback-akin to
-textual gradients -- that guide iterative prompt updates. Unlike prior
-single-node approaches, LLM-AutoDiff inherently accommodates functional nodes,
-preserves time-sequential behavior in repeated calls (e.g., multi-hop loops),
-and combats the "lost-in-the-middle" problem by isolating distinct sub-prompts
-(instructions, formats, or few-shot examples). It further boosts training
-efficiency by focusing on error-prone samples through selective gradient
-computation. Across diverse tasks, including single-step classification,
-multi-hop retrieval-based QA, and agent-driven pipelines, LLM-AutoDiff
-consistently outperforms existing textual gradient baselines in both accuracy
-and training cost. By unifying prompt optimization through a graph-centric
-lens, LLM-AutoDiff offers a powerful new paradigm for scaling and automating
-LLM workflows - mirroring the transformative role that automatic
-differentiation libraries have long played in neural network research.
-
-摘要：大型語言模型 (LLM) 已重塑自然語言處理，
-為從多跳檢索和問答到
-自主代理工作流程的應用提供動力。然而，提示工程 -- 編寫
-文本輸入以有效指導 LLM 的任務 -- 仍然困難且
-勞動密集，特別是對於將多個 LLM
-呼叫與檢索和數據格式化等功能操作相結合的複雜管道。我們
-介紹 LLM-AutoDiff：一個用於自動提示工程 (APE) 的新框架，它將基於文本梯度的
-方法（例如 Text-Grad）擴展到多組件、潛在循環 LLM 架構中。在
-AdalFlow 庫中實施，LLM-AutoDiff 將每個文本輸入視為一個可訓練
-參數，並使用凍結的後向引擎 LLM 生成反饋——類似於
-文本梯度——指導迭代提示更新。與先前的
-單節點方法不同，LLM-AutoDiff 本質上適應功能節點，
-在重複呼叫（例如，多跳循環）中保留時間順序行為，
-並通過隔離不同的子提示（說明、格式或少數鏡頭示例）來解決“迷失在中間”問題。它進一步提高訓練
-效率，通過選擇性梯度
-計算專注於容易出錯的樣本。在包括單步分類、
-多跳基於檢索的問答和代理驅動管道在內的各種任務中，LLM-AutoDiff
-在準確性和訓練成本方面始終優於現有的文本梯度基準。通過圖形中心化
-視角統一提示優化，LLM-AutoDiff 為擴展和自動化
-LLM 工作流程提供了一個強大的新範例——反映了自動
-微分庫在神經網絡研究中長期扮演的變革性角色。
-
-##### **360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**
-2501.16450v3 by Hamed Firooz, Maziar Sanjabi, Adrian Englhardt, Aman Gupta, Ben Levine, Dre Olgiati, Gungor Polatkan, Iuliia Melnychuk, Karthik Ramgopal, Kirill Talanine, Kutta Srinivasan, Luke Simon, Natesh Sivasubramoniapillai, Necip Fazil Ayan, Qingquan Song, Samira Sriram, Souvik Ghosh, Tao Song, Tejas Dharamsi, Vignesh Kothapalli, Xiaoling Zhai, Ya Xu, Yu Wang, Yun Dai
-
-Ranking and recommendation systems are the foundation for numerous online
-experiences, ranging from search results to personalized content delivery.
-These systems have evolved into complex, multilayered architectures that
-leverage vast datasets and often incorporate thousands of predictive models.
-The maintenance and enhancement of these models is a labor intensive process
-that requires extensive feature engineering. This approach not only exacerbates
-technical debt but also hampers innovation in extending these systems to
-emerging problem domains. In this report, we present our research to address
-these challenges by utilizing a large foundation model with a textual interface
-for ranking and recommendation tasks. We illustrate several key advantages of
-our approach: (1) a single model can manage multiple predictive tasks involved
-in ranking and recommendation, (2) decoder models with textual interface due to
-their comprehension of reasoning capabilities, can generalize to new
-recommendation surfaces and out-of-domain problems, and (3) by employing
-natural language interfaces for task definitions and verbalizing member
-behaviors and their social connections, we eliminate the need for feature
-engineering and the maintenance of complex directed acyclic graphs of model
-dependencies. We introduce our research pre-production model, 360Brew V1.0, a
-150B parameter, decoder-only model that has been trained and fine-tuned on
-LinkedIn's data and tasks. This model is capable of solving over 30 predictive
-tasks across various segments of the LinkedIn platform, achieving performance
-levels comparable to or exceeding those of current production systems based on
-offline metrics, without task-specific fine-tuning. Notably, each of these
-tasks is conventionally addressed by dedicated models that have been developed
-and maintained over multiple years by teams of a similar or larger size than
-our own.
-
-摘要：排名和推薦系統是許多線上體驗的基礎，從搜尋結果到個人化內容傳遞。
-這些系統已演變成複雜的多層架構，利用龐大的資料集，並經常納入數千個預測模型。
-這些模型的維護和增強是一個勞力密集的過程，需要廣泛的特徵工程。
-這種方法不僅加劇了技術債務，也阻礙了將這些系統擴展到新興問題領域的創新。
-在此報告中，我們提出了我們的研究，以利用具有文字介面的大型基礎模型來解決這些挑戰，以進行排名和推薦任務。
-我們說明了我們方法的幾個主要優點：(1) 單一模型可以管理排名和推薦中涉及的多個預測任務，(2) 由於解碼器模型具有文字介面，因此它們對推理能力的理解，可以推廣到新的推薦表面和領域外問題，以及 (3) 通過採用自然語言介面進行任務定義和表達成員行為及其社交連接，我們消除了對特徵工程和維護複雜的模型相依性有向無環圖的需求。
-我們介紹了我們的研究前製作業模型 360Brew V1.0，這是一個 150B 參數，僅解碼器模型，已在 LinkedIn 的資料和任務上進行訓練和微調。
-此模型能夠解決 LinkedIn 平臺各個區塊中超過 30 個預測任務，在不針對任務進行微調的情況下，達到與基於離線指標的現行製作系統相當或超越的效能水準。
-值得注意的是，這些任務中的每個任務通常由專用模型處理，這些模型是由與我們規模相當或更大的團隊在多年間開發和維護的。
-
-##### **Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**
-2501.16191v1 by Antony Bartlett, Cynthia Liem, Annibale Panichella
-
-Fixing Python dependency issues is a tedious and error-prone task for
-developers, who must manually identify and resolve environment dependencies and
-version constraints of third-party modules and Python interpreters. Researchers
-have attempted to automate this process by relying on large knowledge graphs
-and database lookup tables. However, these traditional approaches face
-limitations due to the variety of dependency error types, large sets of
-possible module versions, and conflicts among transitive dependencies. This
-study explores the potential of using large language models (LLMs) to
-automatically fix dependency issues in Python programs. We introduce PLLM
-(pronounced "plum"), a novel technique that employs retrieval-augmented
-generation (RAG) to help an LLM infer Python versions and required modules for
-a given Python file. PLLM builds a testing environment that iteratively (1)
-prompts the LLM for module combinations, (2) tests the suggested changes, and
-(3) provides feedback (error messages) to the LLM to refine the fix. This
-feedback cycle leverages natural language processing (NLP) to intelligently
-parse and interpret build error messages. We benchmark PLLM on the Gistable
-HG2.9K dataset, a collection of challenging single-file Python gists. We
-compare PLLM against two state-of-the-art automatic dependency inference
-approaches, namely PyEGo and ReadPyE, w.r.t. the ability to resolve dependency
-issues. Our results indicate that PLLM can fix more dependency issues than the
-two baselines, with +218 (+15.97%) more fixes over ReadPyE and +281 (+21.58%)
-over PyEGo. Our deeper analyses suggest that PLLM is particularly beneficial
-for projects with many dependencies and for specific third-party numerical and
-machine-learning modules. Our findings demonstrate the potential of LLM-based
-approaches to iteratively resolve Python dependency issues.
-
-摘要：<paragraph>修復 Python 依賴項問題對開發人員來說是一項繁瑣且容易出錯的任務，他們必須手動識別和解決第三方模組和 Python 解譯器的環境依賴項和版本限制。研究人員已嘗試透過依賴大型知識圖譜和資料庫查詢表來自動化此程序。然而，這些傳統方法由於依賴項錯誤類型多樣、可能的模組版本數量龐大，以及傳遞依賴項之間的衝突，而面臨限制。本研究探討使用大型語言模型 (LLM) 自動修復 Python 程式中的依賴項問題的可能性。我們介紹 PLLM（發音為「plum」），這是一種新穎的技術，採用檢索增強生成 (RAG) 來協助 LLM 推論 Python 版本和給定 Python 檔案所需的模組。PLLM 建立一個測試環境，反覆 (1) 提示 LLM 模組組合，(2) 測試建議的變更，以及 (3) 提供回饋（錯誤訊息）給 LLM 以改善修正。此回饋循環利用自然語言處理 (NLP) 來智慧解析和詮釋建置錯誤訊息。我們在 Gistable HG2.9K 資料集上對 PLLM 進行基準測試，該資料集是一個具有挑戰性的單一檔案 Python gist 集合。我們將 PLLM 與兩種最先進的自動依賴項推論方法進行比較，即 PyEGo 和 ReadPyE，以比較解決依賴項問題的能力。我們的結果顯示，PLLM 可以修復比這兩個基準更多的依賴項問題，比 ReadPyE 多修復了 +218 (+15.97%) 個，比 PyEGo 多修復了 +281 (+21.58%) 個。我們更深入的分析表明，PLLM 對具有許多依賴項的專案以及特定第三方數值和機器學習模組特別有益。我們的研究結果證明了基於 LLM 的方法反覆解決 Python 依賴項問題的可能性。</paragraph>
-
-##### **Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**
-2501.15791v1 by Yu Li, Yi Huang, Guilin Qi, Junlan Feng, Nan Hu, Songlin Zhai, Haohan Xue, Yongrui Chen, Ruoyan Shen, Tongtong Wu
-
-Knowledge graphs are widely used in industrial applications, making error
-detection crucial for ensuring the reliability of downstream applications.
-Existing error detection methods often fail to effectively leverage
-fine-grained subgraph information and rely solely on fixed graph structures,
-while also lacking transparency in their decision-making processes, which
-results in suboptimal detection performance. In this paper, we propose a novel
-Multi-Agent framework for Knowledge Graph Error Detection (MAKGED) that
-utilizes multiple large language models (LLMs) in a collaborative setting. By
-concatenating fine-grained, bidirectional subgraph embeddings with LLM-based
-query embeddings during training, our framework integrates these
-representations to produce four specialized agents. These agents utilize
-subgraph information from different dimensions to engage in multi-round
-discussions, thereby improving error detection accuracy and ensuring a
-transparent decision-making process. Extensive experiments on FB15K and WN18RR
-demonstrate that MAKGED outperforms state-of-the-art methods, enhancing the
-accuracy and robustness of KG evaluation. For specific industrial scenarios,
-our framework can facilitate the training of specialized agents using
-domain-specific knowledge graphs for error detection, which highlights the
-potential industrial application value of our framework. Our code and datasets
-are available at https://github.com/kse-ElEvEn/MAKGED.
-
-摘要：知識圖譜廣泛應用於工業應用中，使得錯誤偵測對於確保下游應用的可靠性至關重要。現有的錯誤偵測方法通常無法有效利用細粒度的子圖資訊，並且僅依賴於固定的圖形結構，同時在它們的決策過程中也缺乏透明度，這導致次佳的偵測效能。在本文中，我們提出了一個用於知識圖譜錯誤偵測 (MAKGED) 的新多代理架構，它在協作設定中利用了多個大型語言模型 (LLM)。透過在訓練期間將細粒度、雙向子圖嵌入與基於 LLM 的查詢嵌入串接，我們的架構整合了這些表示以產生四個專門代理。這些代理利用不同維度的子圖資訊參與多輪討論，從而提高錯誤偵測準確度並確保透明的決策過程。在 FB15K 和 WN18RR 上的廣泛實驗表明，MAKGED 優於最先進的方法，增強了 KG 評估的準確性和穩健性。對於特定產業情境，我們的架構可以利用特定領域的知識圖譜來促進專門代理的訓練以進行錯誤偵測，這突顯了我們架構的潛在產業應用價值。我們的程式碼和資料集可在 https://github.com/kse-ElEvEn/MAKGED 取得。
-
-##### **Automatic Feedback Generation for Short Answer Questions using Answer Diagnostic Graphs**
-2501.15777v1 by Momoka Furuhashi, Hiroaki Funayama, Yuya Iwase, Yuichiroh Matsubayashi, Yoriko Isobe, Toru Nagahama, Saku Sugawara, Kentaro Inui
-
-Short-reading comprehension questions help students understand text structure
-but lack effective feedback. Students struggle to identify and correct errors,
-while manual feedback creation is labor-intensive. This highlights the need for
-automated feedback linking responses to a scoring rubric for deeper
-comprehension.
-  Despite advances in Natural Language Processing (NLP), research has focused
-on automatic grading, with limited work on feedback generation. To address
-this, we propose a system that generates feedback for student responses.
-  Our contributions are twofold. First, we introduce the first system for
-feedback on short-answer reading comprehension. These answers are derived from
-the text, requiring structural understanding. We propose an "answer diagnosis
-graph," integrating the text's logical structure with feedback templates. Using
-this graph and NLP techniques, we estimate students' comprehension and generate
-targeted feedback.
-  Second, we evaluate our feedback through an experiment with Japanese high
-school students (n=39). They answered two 70-80 word questions and were divided
-into two groups with minimal academic differences. One received a model answer,
-the other system-generated feedback. Both re-answered the questions, and we
-compared score changes. A questionnaire assessed perceptions and motivation.
-  Results showed no significant score improvement between groups, but
-system-generated feedback helped students identify errors and key points in the
-text. It also significantly increased motivation. However, further refinement
-is needed to enhance text structure understanding.
-
-摘要：短篇閱讀理解題目有助學生理解文章結構，但缺乏有效的回饋。學生難以找出並更正錯誤，而手動建立回饋又很費力。這突顯了自動化回饋的必要性，將回應連結到評分標準，以獲得更深入的理解。
-
-儘管自然語言處理 (NLP) 有所進展，但研究一直集中在自動評分上，而回饋生成的工作有限。為了解決這個問題，我們提出了一個系統，用於為學生的回答產生回饋。
-
-我們的貢獻有兩個方面。首先，我們引入了第一個針對簡答閱讀理解提供回饋的系統。這些答案來自於文本，需要結構化的理解。我們提出了一個「答案診斷圖」，將文本的邏輯結構與回饋範本整合在一起。使用這個圖表和 NLP 技術，我們估計學生的理解力並產生有針對性的回饋。
-
-其次，我們透過一項針對日本高中生的實驗（n=39）來評估我們的回饋。他們回答了兩個 70-80 字的問題，並被分成兩組，學術差異最小。一組收到範本答案，另一組收到系統產生的回饋。兩組都重新回答了問題，我們比較了分數的變化。一份問卷評估了認知和動機。
-
-結果顯示兩組之間沒有顯著的分數進步，但系統產生的回饋有助於學生找出文本中的錯誤和重點。它也顯著地提高了動機。然而，需要進一步的改進來增強對文本結構的理解。
 

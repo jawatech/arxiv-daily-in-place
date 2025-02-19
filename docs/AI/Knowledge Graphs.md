@@ -352,7 +352,7 @@ hallucinations, enhances factual precision, and improves the clarity of
 generated responses, providing a robust solution for advanced biomedical
 chatbot applications.
 
-摘要：大型語言模型 (LLM) 已顯著提升自然語言生成領域。然而，它們經常產生未經驗證的輸出，這會影響它們在關鍵應用中的可靠性。在本研究中，我們提出一個創新的架構，透過檢索增強生成技術，將結構化的生物醫學知識與 LLM 結合。我們的系統透過識別和精煉與年齡相關性黃斑部病變 (AMD) 相關的醫學摘要中的因果關係和命名實體，來開發一個徹底的知識圖譜。我們的架構使用基於向量的檢索程序和局部部署的語言模型，產生與脈絡相關且可驗證的回應，並直接參考臨床證據。實驗結果顯示，這種方法顯著減少了幻覺、增強了事實準確性，並提高了生成回應的清晰度，為先進的生物醫學聊天機器人應用提供了一個強大的解決方案。
+摘要：大型語言模型 (LLM) 已大幅推動自然語言生成的領域。然而，它們經常產生未經驗證的輸出，這會損害它們在關鍵應用中的可靠性。在本研究中，我們提出了一個創新的框架，透過檢索增強生成技術，將結構化的生物醫學知識與 LLM 結合。我們的系統透過識別和精煉與年齡相關性黃斑部病變 (AMD) 相關的醫學摘要中的因果關係和命名實體，開發一個徹底的知識圖譜。我們的框架使用基於向量的檢索流程和本地部署的語言模型，產生在脈絡上相關且可驗證的回應，並直接參考臨床證據。實驗結果顯示，此方法顯著減少了幻覺、增強了事實準確性，並改善了生成回應的清晰度，為先進的生物醫學聊天機器人應用程式提供了穩健的解決方案。
 
 ##### **Beyond Similarity: A Gradient-based Graph Method for Instruction Tuning Data Selection**
 2502.11062v1 by Yang Zhao, Li Du, Xiao Ding, Yangou Ouyang, Hepeng Wang, Kai Xiong, Jinglong Gao, Zhouhao Sun, Dongliang Xu, Yang Qing, Dongchen Li, Bing Qin, Ting Liu

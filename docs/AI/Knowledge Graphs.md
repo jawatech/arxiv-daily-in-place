@@ -697,25 +697,24 @@ serving as a valuable resource for training LLM.
 The application of large language models (LLMs) to graph data has attracted a
 lot of attention recently. LLMs allow us to use deep contextual embeddings from
 pretrained models in text-attributed graphs, where shallow embeddings are often
-used for the text at- tributes of nodes. However, it is still challenging to
-efficiently en- code the graph structure and features into a sequential form
-for use by LLMs. In addition, the performance of an LLM alone, is highly
-dependent on the structure of the input prompt, which limits their
-effectiveness as a reliable approach and often requires iterative man- ual
-adjustments that could be slow, tedious and difficult to replicate
-programmatically. In this paper, we propose GraphiT (Graphs in Text), a
-framework for encoding graphs into a textual format and optimizing LLM prompts
-for graph prediction tasks. Here we focus on node classification for
-text-attributed graphs. We encode the graph data for every node and its
-neighborhood into a concise text to enable LLMs to better utilize the
-information in the graph. We then further programmatically optimize the LLM
-prompts us- ing the DSPy framework to automate this step and make it more
-efficient and reproducible. GraphiT outperforms our LLM-based baselines on
-three datasets and we show how the optimization step in GraphiT leads to
-measurably better results without manual prompt tweaking. We also demonstrated
-that our graph encoding approach is competitive to other graph encoding methods
-while being less expensive because it uses significantly less tokens for the
-same task.
+used for the text attributes of nodes. However, it is still challenging to
+efficiently encode the graph structure and features into a sequential form for
+use by LLMs. In addition, the performance of an LLM alone, is highly dependent
+on the structure of the input prompt, which limits their effectiveness as a
+reliable approach and often requires iterative manual adjustments that could be
+slow, tedious and difficult to replicate programmatically. In this paper, we
+propose GraphiT (Graphs in Text), a framework for encoding graphs into a
+textual format and optimizing LLM prompts for graph prediction tasks. Here we
+focus on node classification for text-attributed graphs. We encode the graph
+data for every node and its neighborhood into a concise text to enable LLMs to
+better utilize the information in the graph. We then further programmatically
+optimize the LLM prompts using the DSPy framework to automate this step and
+make it more efficient and reproducible. GraphiT outperforms our LLM-based
+baselines on three datasets and we show how the optimization step in GraphiT
+leads to measurably better results without manual prompt tweaking. We also
+demonstrated that our graph encoding approach is competitive to other graph
+encoding methods while being less expensive because it uses significantly less
+tokens for the same task.
 
 摘要：<paragraph>大型語言模型 (LLM) 在圖表資料的應用最近備受關注。LLM 讓我們能夠在文字標記圖表中使用預訓練模型的深度脈絡嵌入，其中淺層嵌入通常用於節點的文字屬性。然而，要有效率地將圖表結構和特徵編碼成序列形式供 LLM 使用，仍然是一項挑戰。此外，單獨 LLM 的效能高度依賴輸入提示的結構，這限制了它們作為可靠方法的有效性，而且通常需要反覆的人工調整，這可能會緩慢、繁瑣且難以透過程式複製。在本文中，我們提出 GraphiT（文字中的圖表），一個用於將圖表編碼成文字格式並最佳化 LLM 提示以進行圖表預測任務的架構。在這裡，我們專注於文字標記圖表的節點分類。我們將每個節點及其鄰域的圖表資料編碼成簡潔的文字，讓 LLM 能夠更好地利用圖表中的資訊。然後，我們進一步透過程式最佳化 LLM 提示，使用 DSPy 架構自動化這個步驟，並使其更有效率且可複製。Graphite 在三個資料集上優於我們的基於 LLM 的基準，我們展示了 GraphiT 中的最佳化步驟如何導致顯著更好的結果，而無需手動調整提示。我們還證明了我們的圖表編碼方法與其他圖表編碼方法具有競爭力，同時成本更低，因為它在相同的任務中使用了顯著更少的標記。</paragraph>
 

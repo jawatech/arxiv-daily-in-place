@@ -2,6 +2,9 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959v1](http://arxiv.org/abs/2502.15959v1)|null|
+|**2025-02-21**|**ML-Driven Approaches to Combat Medicare Fraud: Advances in Class Imbalance Solutions, Feature Engineering, Adaptive Learning, and Business Impact**|Dorsa Farahmandazad et.al.|[2502.15898v1](http://arxiv.org/abs/2502.15898v1)|null|
+|**2025-02-20**|**Utilizing AI and Machine Learning for Predictive Analysis of Post-Treatment Cancer Recurrence**|Muhammad Umer Qayyum et.al.|[2502.15825v1](http://arxiv.org/abs/2502.15825v1)|null|
 |**2025-02-19**|**Towards a perturbation-based explanation for medical AI as differentiable programs**|Takeshi Abe et.al.|[2502.14001v1](http://arxiv.org/abs/2502.14001v1)|null|
 |**2025-02-14**|**3D ReX: Causal Explanations in 3D Neuroimaging Classification**|Melane Navaratnarajah et.al.|[2502.12181v1](http://arxiv.org/abs/2502.12181v1)|null|
 |**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
@@ -99,11 +102,78 @@
 |**2024-03-30**|**Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**|Xingrui Gu et.al.|[2404.00320v2](http://arxiv.org/abs/2404.00320v2)|null|
 |**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873v1](http://arxiv.org/abs/2403.17873v1)|null|
 |**2024-03-26**|**Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**|Han Yuan et.al.|[2403.18871v1](http://arxiv.org/abs/2403.18871v1)|[link](https://github.com/han-yuan-med/template-explanation)|
-|**2024-03-03**|**Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**|Séamus Lankford et.al.|[2403.01580v1](http://arxiv.org/abs/2403.01580v1)|null|
-|**2024-02-28**|**Cause and Effect: Can Large Language Models Truly Understand Causality?**|Swagata Ashwani et.al.|[2402.18139v3](http://arxiv.org/abs/2402.18139v3)|null|
-|**2024-02-28**|**Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**|Yasin Sadeghi Bazargani et.al.|[2402.18600v1](http://arxiv.org/abs/2402.18600v1)|null|
 
 #### Abstracts
+##### **A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**
+2502.15959v1 by Yuchen Jiang, Xinyuan Zhao, Yihang Wu, Ahmad Chaddad
+
+With the rapid development of artificial intelligence (AI), especially in the
+medical field, the need for its explainability has grown. In medical image
+analysis, a high degree of transparency and model interpretability can help
+clinicians better understand and trust the decision-making process of AI
+models. In this study, we propose a Knowledge Distillation (KD)-based approach
+that aims to enhance the transparency of the AI model in medical image
+analysis. The initial step is to use traditional CNN to obtain a teacher model
+and then use KD to simplify the CNN architecture, retain most of the features
+of the data set, and reduce the number of network layers. It also uses the
+feature map of the student model to perform hierarchical analysis to identify
+key features and decision-making processes. This leads to intuitive visual
+explanations. We selected three public medical data sets (brain tumor, eye
+disease, and Alzheimer's disease) to test our method. It shows that even when
+the number of layers is reduced, our model provides a remarkable result in the
+test set and reduces the time required for the interpretability analysis.
+
+摘要：隨著人工智慧 (AI) 的快速發展，特別是在醫療領域中，對於其可解釋性的需求也日益增長。在醫學影像分析中，高度的透明度和模型可解釋性可以幫助臨床醫生更了解並信賴 AI 模型的決策過程。在本研究中，我們提出了一個基於知識蒸餾 (KD) 的方法，旨在增強 AI 模型在醫學影像分析中的透明度。第一步是使用傳統的 CNN 來獲得一個教師模型，然後使用 KD 來簡化 CNN 架構，保留資料集的大部分特徵，並減少網路層數。它還使用學生模型的特徵圖來執行階層分析，以識別關鍵特徵和決策過程。這會產生直觀的視覺解釋。我們選擇了三個公開的醫學資料集（腦瘤、眼疾和阿茲海默症）來測試我們的模型。結果顯示，即使在減少層數的情況下，我們的模型在測試集中也提供了顯著的結果，並減少了可解釋性分析所需的時間。
+
+##### **ML-Driven Approaches to Combat Medicare Fraud: Advances in Class Imbalance Solutions, Feature Engineering, Adaptive Learning, and Business Impact**
+2502.15898v1 by Dorsa Farahmandazad, Kasra Danesh
+
+Medicare fraud poses a substantial challenge to healthcare systems, resulting
+in significant financial losses and undermining the quality of care provided to
+legitimate beneficiaries. This study investigates the use of machine learning
+(ML) to enhance Medicare fraud detection, addressing key challenges such as
+class imbalance, high-dimensional data, and evolving fraud patterns. A dataset
+comprising inpatient claims, outpatient claims, and beneficiary details was
+used to train and evaluate five ML models: Random Forest, KNN, LDA, Decision
+Tree, and AdaBoost. Data preprocessing techniques included resampling SMOTE
+method to address the class imbalance, feature selection for dimensionality
+reduction, and aggregation of diagnostic and procedural codes. Random Forest
+emerged as the best-performing model, achieving a training accuracy of 99.2%
+and validation accuracy of 98.8%, and F1-score (98.4%). The Decision Tree also
+performed well, achieving a validation accuracy of 96.3%. KNN and AdaBoost
+demonstrated moderate performance, with validation accuracies of 79.2% and
+81.1%, respectively, while LDA struggled with a validation accuracy of 63.3%
+and a low recall of 16.6%. The results highlight the importance of advanced
+resampling techniques, feature engineering, and adaptive learning in detecting
+Medicare fraud effectively. This study underscores the potential of machine
+learning in addressing the complexities of fraud detection. Future work should
+explore explainable AI and hybrid models to improve interpretability and
+performance, ensuring scalable and reliable fraud detection systems that
+protect healthcare resources and beneficiaries.
+
+摘要：<paragraph>Medicare 詐欺對醫療保健系統構成重大挑戰，造成重大財務損失，並損害提供給合法受益人的照護品質。本研究探討使用機器學習 (ML) 來加強 Medicare 詐欺偵測，解決類別不平衡、高維度資料和不斷演變的詐欺模式等關鍵挑戰。一個包含住院申報、門診申報和受益人詳細資料的資料集被用於訓練和評估五個 ML 模型：隨機森林、KNN、LDA、決策樹和 AdaBoost。資料前處理技術包括重新採樣 SMOTE 方法來解決類別不平衡、特徵選擇用於降維，以及診斷和程序碼的匯總。隨機森林成為表現最佳的模型，達到 99.2% 的訓練準確度和 98.8% 的驗證準確度，以及 F1 分數 (98.4%)。決策樹的表現也很好，達到 96.3% 的驗證準確度。KNN 和 AdaBoost 表現中等，驗證準確度分別為 79.2% 和 81.1%，而 LDA 則表現不佳，驗證準確度僅為 63.3%，且召回率低至 16.6%。結果突顯了進階重新採樣技術、特徵工程和自適應學習在有效偵測 Medicare 詐欺中的重要性。本研究強調了機器學習在解決詐欺偵測複雜性方面的潛力。未來的研究應探討可解釋的 AI 和混合模型，以提高可解釋性和效能，確保可擴充且可靠的詐欺偵測系統，以保護醫療保健資源和受益人。</paragraph>
+
+##### **Utilizing AI and Machine Learning for Predictive Analysis of Post-Treatment Cancer Recurrence**
+2502.15825v1 by Muhammad Umer Qayyum, Muhammad Fahad, Nasrullah Abbasi
+
+In oncology, recurrence after treatment is one of the major challenges,
+related to patients' survival and quality of life. Conventionally, prediction
+of cancer relapse has always relied on clinical observation with statistical
+model support, which almost fails to explain the complex, multifactorial nature
+of tumor recurrence. This research explores how AI and ML models may increase
+the accuracy and reliability of recurrence prediction in cancer. Therefore, AI
+and ML create new opportunities not only for personalized medicine but also for
+proactive management of patients through analyzing large volumes of data on
+genetics, clinical manifestations, and treatment. The paper describes the
+various AI and ML techniques for pattern identification and outcome prediction
+in cancer patients using supervised and unsupervised learning. Clinical
+implications provide an opportunity to review how early interventions could
+happen and the design of treatment planning.
+
+摘要：在腫瘤學中，治療後的復發是主要的挑戰之一，
+與患者的存活率和生活品質相關。傳統上，
+癌症復發的預測一直依賴於統計模型支持的臨床觀察，這幾乎無法解釋腫瘤復發的複雜多因素性質。本研究探討了 AI 和 ML 模型如何提高癌症復發預測的準確性和可靠性。因此，AI 和 ML 不僅為個人化醫療創造了新的機會，還通過分析大量遺傳學、臨床表現和治療數據來創造了對患者的積極管理。本文描述了各種 AI 和 ML 技術，用於癌症患者的模式識別和結果預測，使用監督式和非監督式學習。臨床意義提供了回顧早期干預如何發生和治療計劃設計的機會。
+
 ##### **Towards a perturbation-based explanation for medical AI as differentiable programs**
 2502.14001v1 by Takeshi Abe, Yoshiyuki Asai
 
@@ -2595,91 +2665,4 @@ explanations. We anticipate that our template guidance will forge a fresh
 approach to elucidating AI models by integrating clinical domain expertise.
 
 摘要：<paragraph>背景：氣胸是一種因肺部與胸壁之間異常集氣所引起的急性胸腔疾病。為了解決深度學習（DL）模型經常伴隨的不透明性，可解釋人工智慧（XAI）方法已被引入，用於概述與 DL 模型做出的氣胸診斷相關的區域。然而，這些解釋有時會與實際病灶區域有所出入，突顯出進一步改進的必要性。方法：我們提出了一種模板引導式方法，將氣胸的臨床知識納入 XAI 方法產生的模型解釋中，從而提升這些解釋的品質。利用放射科醫師建立的病灶描繪，我們的做法首先產生一個模板，用於表示氣胸可能發生的區域。然後將此模板疊加在模型解釋上，以篩選出超出模板邊界的無關解釋。為了驗證其效力，我們對三種 XAI 方法進行了比較分析，在兩個真實世界資料集中解釋兩個 DL 模型時，分別採用和不採用我們的模板引導。結果：所提出的方法在建立於三種 XAI 方法、兩個 DL 模型和兩個資料集的十二種基準情境中，始終改善了基準 XAI 方法。在比較模型解釋和真實病灶區域時，透過基準效能的效能改進計算出的平均增量百分比為交集比（IoU）的 97.8% 和骰子相似性係數（DSC）的 94.1%。結論：在氣胸診斷的背景下，我們提出了一種模板引導式方法，用於改善 AI 解釋。我們預期我們的模板引導將透過整合臨床領域專業知識，為闡明 AI 模型建立一種新方法。</paragraph>
-
-##### **Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**
-2403.01580v1 by Séamus Lankford
-
-In the current machine translation (MT) landscape, the Transformer
-architecture stands out as the gold standard, especially for high-resource
-language pairs. This research delves into its efficacy for low-resource
-language pairs including both the English$\leftrightarrow$Irish and
-English$\leftrightarrow$Marathi language pairs. Notably, the study identifies
-the optimal hyperparameters and subword model type to significantly improve the
-translation quality of Transformer models for low-resource language pairs.
-  The scarcity of parallel datasets for low-resource languages can hinder MT
-development. To address this, gaHealth was developed, the first bilingual
-corpus of health data for the Irish language. Focusing on the health domain,
-models developed using this in-domain dataset exhibited very significant
-improvements in BLEU score when compared with models from the LoResMT2021
-Shared Task. A subsequent human evaluation using the multidimensional quality
-metrics error taxonomy showcased the superior performance of the Transformer
-system in reducing both accuracy and fluency errors compared to an RNN-based
-counterpart.
-  Furthermore, this thesis introduces adaptNMT and adaptMLLM, two open-source
-applications streamlined for the development, fine-tuning, and deployment of
-neural machine translation models. These tools considerably simplify the setup
-and evaluation process, making MT more accessible to both developers and
-translators. Notably, adaptNMT, grounded in the OpenNMT ecosystem, promotes
-eco-friendly natural language processing research by highlighting the
-environmental footprint of model development. Fine-tuning of MLLMs by adaptMLLM
-demonstrated advancements in translation performance for two low-resource
-language pairs: English$\leftrightarrow$Irish and
-English$\leftrightarrow$Marathi, compared to baselines from the LoResMT2021
-Shared Task.
-
-摘要：<paragraph>在當前機器翻譯 (MT) 領域中，Transformer 架構脫穎而出，成為黃金標準，特別是對於高資源語言對。本研究探討其對低資源語言對的效能，包括英語↔愛爾蘭語和英語↔馬拉地語語言對。值得注意的是，本研究識別出最佳超參數和子詞模型類型，以顯著提高 Transformer 模型對低資源語言對的翻譯品質。
-低資源語言的平行資料集的稀缺會阻礙 MT 的發展。為了解決這個問題，開發了 gaHealth，這是愛爾蘭語的第一個雙語健康資料語料庫。專注於健康領域，使用此域內資料集開發的模型在 BLEU 得分方面表現出非常顯著的進步，與 LoResMT2021 共享任務中的模型相比。隨後使用多維品質指標錯誤分類法進行的人工評估顯示，與基於 RNN 的對應模型相比，Transformer 系統在減少準確性和流暢性錯誤方面表現出優異的性能。
-此外，本論文介紹了 adaptNMT 和 adaptMLLM，這兩個開源應用程式簡化了神經機器翻譯模型的開發、微調和部署。這些工具大幅簡化了設定和評估流程，讓 MT 更容易讓開發人員和翻譯人員使用。值得注意的是，adaptNMT 以 OpenNMT 生態系統為基礎，通過強調模型開發的環境足跡來促進生態友好的自然語言處理研究。與 LoResMT2021 共享任務中的基準相比，adaptMLLM 對 MLLM 的微調證明了英語↔愛爾蘭語和英語↔馬拉地語這兩個低資源語言對的翻譯性能進步。</paragraph>
-
-##### **Cause and Effect: Can Large Language Models Truly Understand Causality?**
-2402.18139v3 by Swagata Ashwani, Kshiteesh Hegde, Nishith Reddy Mannuru, Mayank Jindal, Dushyant Singh Sengar, Krishna Chaitanya Rao Kathala, Dishant Banga, Vinija Jain, Aman Chadha
-
-With the rise of Large Language Models(LLMs), it has become crucial to
-understand their capabilities and limitations in deciphering and explaining the
-complex web of causal relationships that language entails. Current methods use
-either explicit or implicit causal reasoning, yet there is a strong need for a
-unified approach combining both to tackle a wide array of causal relationships
-more effectively. This research proposes a novel architecture called Context
-Aware Reasoning Enhancement with Counterfactual Analysis(CARE CA) framework to
-enhance causal reasoning and explainability. The proposed framework
-incorporates an explicit causal detection module with ConceptNet and
-counterfactual statements, as well as implicit causal detection through LLMs.
-Our framework goes one step further with a layer of counterfactual explanations
-to accentuate LLMs understanding of causality. The knowledge from ConceptNet
-enhances the performance of multiple causal reasoning tasks such as causal
-discovery, causal identification and counterfactual reasoning. The
-counterfactual sentences add explicit knowledge of the not caused by scenarios.
-By combining these powerful modules, our model aims to provide a deeper
-understanding of causal relationships, enabling enhanced interpretability.
-Evaluation of benchmark datasets shows improved performance across all metrics,
-such as accuracy, precision, recall, and F1 scores. We also introduce
-CausalNet, a new dataset accompanied by our code, to facilitate further
-research in this domain.
-
-摘要：隨著大型語言模型 (LLM) 的興起，了解它們在解碼和解釋語言所蘊含的複雜因果關係網路中的能力和限制變得至關重要。目前的技術使用明確或隱含的因果推理，但強烈需要一種統一的方法，結合兩者以更有效地處理廣泛的因果關係。本研究提出了一種稱為情境感知推理增強與反事實分析 (CARE CA) 框架的新架構，以增強因果推理和可解釋性。提出的框架結合了使用 ConceptNet 和反事實陳述的明確因果檢測模組，以及透過 LLM 進行的隱含因果檢測。我們的框架更進一步，加入一層反事實解釋，以強調 LLM 對因果關係的理解。來自 ConceptNet 的知識增強了多項因果推理任務的執行，例如因果發現、因果識別和反事實推理。反事實句加入了未由情境造成的明確知識。透過結合這些強大的模組，我們的模型旨在提供對因果關係更深入的理解，實現增強的可解釋性。基準資料集的評估顯示在所有指標（例如準確度、精確度、召回率和 F1 分數）上都有所提升。我們還引入了 CausalNet，一個新的資料集，並附上了我們的程式碼，以促進在這個領域的進一步研究。
-
-##### **Artificial Intelligence and Diabetes Mellitus: An Inside Look Through the Retina**
-2402.18600v1 by Yasin Sadeghi Bazargani, Majid Mirzaei, Navid Sobhi, Mirsaeed Abdollahi, Ali Jafarizadeh, Siamak Pedrammehr, Roohallah Alizadehsani, Ru San Tan, Sheikh Mohammed Shariful Islam, U. Rajendra Acharya
-
-Diabetes mellitus (DM) predisposes patients to vascular complications.
-Retinal images and vasculature reflect the body's micro- and macrovascular
-health. They can be used to diagnose DM complications, including diabetic
-retinopathy (DR), neuropathy, nephropathy, and atherosclerotic cardiovascular
-disease, as well as forecast the risk of cardiovascular events. Artificial
-intelligence (AI)-enabled systems developed for high-throughput detection of DR
-using digitized retinal images have become clinically adopted. Beyond DR
-screening, AI integration also holds immense potential to address challenges
-associated with the holistic care of the patient with DM. In this work, we aim
-to comprehensively review the literature for studies on AI applications based
-on retinal images related to DM diagnosis, prognostication, and management. We
-will describe the findings of holistic AI-assisted diabetes care, including but
-not limited to DR screening, and discuss barriers to implementing such systems,
-including issues concerning ethics, data privacy, equitable access, and
-explainability. With the ability to evaluate the patient's health status vis a
-vis DM complication as well as risk prognostication of future cardiovascular
-complications, AI-assisted retinal image analysis has the potential to become a
-central tool for modern personalized medicine in patients with DM.
-
-摘要：糖尿病（DM）使患者容易出現血管併發症。
-視網膜影像和血管反映身體的微血管和巨血管健康狀況。它們可用於診斷糖尿病併發症，包括糖尿病視網膜病變（DR）、神經病變、腎病和動脈粥樣硬化性心血管疾病，以及預測心血管事件的風險。為使用數位化視網膜影像進行高通量 DR 檢測而開發的人工智慧（AI）啟用系統已在臨床採用。除了 DR 篩檢外，AI 整合也具有巨大的潛力來應對與糖尿病患者整體照護相關的挑戰。在這項工作中，我們旨在全面回顧基於視網膜影像的 AI 應用相關研究的文獻，這些研究與糖尿病的診斷、預後和管理有關。我們將描述整體 AI 輔助糖尿病照護的發現，包括但不限於 DR 篩檢，並討論實施此類系統的障礙，包括與倫理、資料隱私、公平存取和可解釋性有關的問題。透過評估患者的健康狀況，同時考量糖尿病併發症以及未來心血管併發症的風險預後，AI 輔助視網膜影像分析有潛力成為糖尿病患者現代化個人化醫療的中心工具。
 

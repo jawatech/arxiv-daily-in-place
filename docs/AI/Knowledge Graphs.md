@@ -2,10 +2,14 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**|Tingting Chen et.al.|[2502.15224v1](http://arxiv.org/abs/2502.15224v1)|null|
+|**2025-02-21**|**Scale-Free Graph-Language Models**|Jianglin Lu et.al.|[2502.15189v1](http://arxiv.org/abs/2502.15189v1)|null|
+|**2025-02-20**|**A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems**|Lew Lefton et.al.|[2502.15005v1](http://arxiv.org/abs/2502.15005v1)|null|
 |**2025-02-20**|**GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks**|Jianwen Luo et.al.|[2502.14848v1](http://arxiv.org/abs/2502.14848v1)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802v1](http://arxiv.org/abs/2502.14802v1)|[link](https://github.com/osu-nlp-group/hipporag)|
-|**2025-02-20**|**Plan-over-Graph: Towards Parallelable LLM Agent Schedule**|Shiqi Zhang et.al.|[2502.14563v1](http://arxiv.org/abs/2502.14563v1)|null|
-|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456v1](http://arxiv.org/abs/2502.14456v1)|null|
+|**2025-02-20**|**Plan-over-Graph: Towards Parallelable LLM Agent Schedule**|Shiqi Zhang et.al.|[2502.14563v1](http://arxiv.org/abs/2502.14563v1)|[link](https://github.com/zsq259/plan-over-graph)|
+|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456v1](http://arxiv.org/abs/2502.14456v1)|[link](https://github.com/evan01225/narrative-driven-travel-planning)|
+|**2025-02-20**|**Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection**|Han Zhang et.al.|[2502.14932v1](http://arxiv.org/abs/2502.14932v1)|null|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275v1](http://arxiv.org/abs/2502.14275v1)|null|
 |**2025-02-20**|**Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering**|Rongzhi Zhu et.al.|[2502.14245v1](http://arxiv.org/abs/2502.14245v1)|null|
 |**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192v1](http://arxiv.org/abs/2502.14192v1)|null|
@@ -25,9 +29,10 @@
 |**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025v1](http://arxiv.org/abs/2502.13025v1)|null|
 |**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010v1](http://arxiv.org/abs/2502.13010v1)|null|
 |**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767v1](http://arxiv.org/abs/2502.12767v1)|null|
+|**2025-02-18**|**PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths**|Boyu Chen et.al.|[2502.14902v1](http://arxiv.org/abs/2502.14902v1)|null|
 |**2025-02-18**|**Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**|Xiang Liu et.al.|[2502.12669v1](http://arxiv.org/abs/2502.12669v1)|null|
 |**2025-02-18**|**G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation**|Yuhan Li et.al.|[2502.12586v1](http://arxiv.org/abs/2502.12586v1)|[link](https://github.com/yuhan1i/g-refer)|
-|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110v1](http://arxiv.org/abs/2502.12110v1)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110v1](http://arxiv.org/abs/2502.12110v1)|[link](https://github.com/wujiangxu/agenticmemory)|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029v1](http://arxiv.org/abs/2502.12029v1)|null|
 |**2025-02-17**|**Atom of Thoughts for Markov LLM Test-Time Scaling**|Fengwei Teng et.al.|[2502.12018v1](http://arxiv.org/abs/2502.12018v1)|null|
 |**2025-02-17**|**Generating Text from Uniform Meaning Representation**|Emma Markle et.al.|[2502.11973v1](http://arxiv.org/abs/2502.11973v1)|[link](https://github.com/acnlplab/umr-text-gen)|
@@ -97,13 +102,76 @@
 |**2025-02-05**|**Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization**|Chanhui Lee et.al.|[2502.02810v1](http://arxiv.org/abs/2502.02810v1)|null|
 |**2025-02-05**|**Leveraging the true depth of LLMs**|Ramón Calvo González et.al.|[2502.02790v1](http://arxiv.org/abs/2502.02790v1)|null|
 |**2025-02-04**|**Modular Training of Neural Networks aids Interpretability**|Satvik Golechha et.al.|[2502.02470v2](http://arxiv.org/abs/2502.02470v2)|null|
-|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362v3](http://arxiv.org/abs/2502.02362v3)|null|
-|**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067v1](http://arxiv.org/abs/2502.02067v1)|[link](https://github.com/sssshivvvv/adaptbot)|
-|**2025-02-03**|**On Bob Dylan: A Computational Perspective**|Prashant Garg et.al.|[2502.01772v1](http://arxiv.org/abs/2502.01772v1)|null|
-|**2025-02-03**|**VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**|Xubin Ren et.al.|[2502.01549v1](http://arxiv.org/abs/2502.01549v1)|null|
-|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533v1](http://arxiv.org/abs/2502.01533v1)|[link](https://github.com/Ellmen/attending-to-distance)|
 
 #### Abstracts
+##### **Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**
+2502.15224v1 by Tingting Chen, Srinivas Anumasa, Beibei Lin, Vedant Shah, Anirudh Goyal, Dianbo Liu
+
+Given the remarkable performance of Large Language Models (LLMs), an
+important question arises: Can LLMs conduct human-like scientific research and
+discover new knowledge, and act as an AI scientist? Scientific discovery is an
+iterative process that demands efficient knowledge updating and encoding. It
+involves understanding the environment, identifying new hypotheses, and
+reasoning about actions; however, no standardized benchmark specifically
+designed for scientific discovery exists for LLM agents. In response to these
+limitations, we introduce a novel benchmark, \textit{Auto-Bench}, that
+encompasses necessary aspects to evaluate LLMs for scientific discovery in both
+natural and social sciences. Our benchmark is based on the principles of causal
+graph discovery. It challenges models to uncover hidden structures and make
+optimal decisions, which includes generating valid justifications. By engaging
+interactively with an oracle, the models iteratively refine their understanding
+of underlying interactions, the chemistry and social interactions, through
+strategic interventions. We evaluate state-of-the-art LLMs, including GPT-4,
+Gemini, Qwen, Claude, and Llama, and observe a significant performance drop as
+the problem complexity increases, which suggests an important gap between
+machine and human intelligence that future development of LLMs need to take
+into consideration.
+
+摘要：鉴于大型语言模型 (LLM) 的卓越性能，一个重要的问题出现了：LLM 能否进行类人科学研究并发现新知识，并充当人工智能科学家？科学发现是一个迭代过程，需要高效的知识更新和编码。它涉及理解环境、识别新假设和推理行为；然而，目前不存在专门为科学发现设计的标准基准，适用于 LLM 代理。为了应对这些限制，我们引入了一个新的基准，\textit{Auto-Bench}，它包含了评估 LLM 在自然科学和社会科学中进行科学发现所需的方面。我们的基准基于因果图发现的原理。它挑战模型去发现隐藏的结构并做出最佳决策，其中包括生成有效的证明。通过与神谕交互，这些模型通过战略干预迭代地完善了它们对底层交互、化学和社会交互的理解。我们评估了最先进的 LLM，包括 GPT-4、Gemini、Qwen、Claude 和 Llama，并观察到随着问题复杂性的增加，性能大幅下降，这表明机器智能和人类智能之间存在一个重要的差距，未来 LLM 的发展需要考虑这一点。
+
+##### **Scale-Free Graph-Language Models**
+2502.15189v1 by Jianglin Lu, Yixuan Liu, Yitian Zhang, Yun Fu
+
+Graph-language models (GLMs) have demonstrated great potential in graph-based
+semi-supervised learning. A typical GLM consists of two key stages: graph
+generation and text embedding, which are usually implemented by inferring a
+latent graph and finetuning a language model (LM), respectively. However, the
+former often relies on artificial assumptions about the underlying edge
+distribution, while the latter requires extensive data annotations. To tackle
+these challenges, this paper introduces a novel GLM that integrates graph
+generation and text embedding within a unified framework. Specifically, for
+graph generation, we leverage an inherent characteristic of real edge
+distribution--the scale-free property--as a structural prior. We unexpectedly
+find that this natural property can be effectively approximated by a simple
+k-nearest neighbor (KNN) graph. For text embedding, we develop a graph-based
+pseudo-labeler that utilizes scale-free graphs to provide complementary
+supervision for improved LM finetuning. Extensive experiments on representative
+datasets validate our findings on the scale-free structural approximation of
+KNN graphs and demonstrate the effectiveness of integrating graph generation
+and text embedding with a real structural prior. Our code is available at
+https://github.com/Jianglin954/SFGL.
+
+摘要：圖語言模型 (GLM) 已在基於圖形的半監督學習中展現出極大的潛力。典型的 GLM 包含兩個關鍵階段：圖形生成和文字嵌入，它們通常分別透過推斷潛在圖形和微調語言模型 (LM) 來實作。然而，前者通常依賴於對底層邊緣分佈的人工假設，而後者需要大量的資料標註。為了應對這些挑戰，本文介紹了一種新的 GLM，它將圖形生成和文字嵌入整合在一個統一的架構中。具體來說，對於圖形生成，我們利用真實邊緣分佈的內在特性——無尺度屬性——作為結構先驗。我們意外地發現，這個自然屬性可以用一個簡單的 k-最近鄰 (KNN) 圖形來有效近似。對於文字嵌入，我們開發了一個基於圖形的偽標籤器，它利用無尺度圖形來提供互補監督，以改善 LM 微調。在代表性資料集上進行的大量實驗驗證了我們對 KNN 圖形的無尺度結構近似的發現，並證明了將圖形生成和文字嵌入與真實結構先驗整合的有效性。我們的程式碼可在 https://github.com/Jianglin954/SFGL 獲得。
+
+##### **A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems**
+2502.15005v1 by Lew Lefton, Kexin Rong, Chinar Dankhara, Lila Ghemri, Firdous Kausar, A. Hannibal Hamdallahi
+
+In this paper, we propose a Retrieval Augmented Generation (RAG) agent that
+maps natural language queries about research topics to precise,
+machine-interpretable semantic entities. Our approach combines RAG with
+Socratic dialogue to align a user's intuitive understanding of research topics
+with established Knowledge Organization Systems (KOSs). The proposed approach
+will effectively bridge "little semantics" (domain-specific KOS structures)
+with "big semantics" (broad bibliometric repositories), making complex academic
+taxonomies more accessible. Such agents have the potential for broad use. We
+illustrate with a sample application called CollabNext, which is a
+person-centric knowledge graph connecting people, organizations, and research
+topics. We further describe how the application design has an intentional focus
+on HBCUs and emerging researchers to raise visibility of people historically
+rendered invisible in the current science system.
+
+摘要：在本文中，我們提出了一種檢索增強生成 (RAG) 代理，它將關於研究主題的自然語言查詢對應到精確的、機器可解譯的語義實體。我們的做法結合了 RAG 與蘇格拉底式對話，以將使用者對研究主題的直覺理解與已建立的知識組織系統 (KOS) 對齊。所提出的方法將有效地將「小語義」（特定領域的 KOS 結構）與「大語義」（廣泛的書目資料庫）聯繫起來，使複雜的學術分類法更容易理解。此類代理有廣泛應用的潛力。我們以一個名為 CollabNext 的範例應用程式來說明，它是一個以人為中心的知識圖譜，連接人、組織和研究主題。我們進一步描述應用程式的設計如何有意地關注 HBCU 和新興研究人員，以提高在當前科學體系中歷來被視為隱形的人們的能見度。
+
 ##### **GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks**
 2502.14848v1 by Jianwen Luo, Yiming Huang, Jinxiang Meng, Fangyu Lei, Shizhu He, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu
 
@@ -196,6 +264,29 @@ travel planning.Our codes are available at
 https://github.com/Evan01225/Narrative-Driven-Travel-Planning.
 
 摘要：為了增強遊客的體驗和沉浸感，本文提出了一個名為 NarrativeGuide 的敘事驅動旅遊規劃框架，它會為旅客產生一個以地理文化為基礎的敘事腳本，為他們的旅程提供一個新穎的角色扮演體驗。在初始階段，NarrativeGuide 會為城市內的景點建立一個知識圖譜，然後根據知識圖譜配置世界觀、角色設定和說明。利用這個基礎，知識圖譜會與每個景點結合，為其產生一個獨立的場景單元。在行程規劃階段，NarrativeGuide 將敘事驅動的旅遊規劃建模為一個最佳化問題，利用遺傳演算法 (GA) 來優化行程。在評估候選行程之前，會為每對相鄰景點產生過場腳本，這些腳本會與場景單元一起形成一個完整的腳本。接著，將腳本連貫性、旅遊時間和景點分數的加權和用作適應值，以更新候選解集。在四個城市（即中國的南京和揚州、法國的巴黎和德國的柏林）進行的實驗結果顯示，敘事連貫性和文化契合度都有顯著的提升，同時旅遊時間大幅減少，且所參觀景點的品質也提升了。我們的研究強調，納入外部演化最佳化能有效解決大型語言模型在旅遊規劃中的限制。我們的程式碼可在 https://github.com/Evan01225/Narrative-Driven-Travel-Planning 取得。
+
+##### **Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection**
+2502.14932v1 by Han Zhang, Langshi Zhou, Hanfang Yang
+
+Extensive research has investigated the integration of large language models
+(LLMs) with knowledge graphs to enhance the reasoning process. However,
+understanding how models perform reasoning utilizing structured graph knowledge
+remains underexplored. Most existing approaches rely on LLMs or retrievers to
+make binary judgments regarding the utilization of knowledge, which is too
+coarse. Meanwhile, there is still a lack of feedback mechanisms for reflection
+and correction throughout the entire reasoning path. This paper proposes an
+Active self-Reflection framework for knowledge Graph reasoning ARG, introducing
+for the first time an end-to-end training approach to achieve iterative
+reasoning grounded on structured graphs. Within the framework, the model
+leverages special tokens to \textit{actively} determine whether knowledge
+retrieval is necessary, performs \textit{reflective} critique based on the
+retrieved knowledge, and iteratively reasons over the knowledge graph. The
+reasoning paths generated by the model exhibit high interpretability, enabling
+deeper exploration of the model's understanding of structured knowledge.
+Ultimately, the proposed model achieves outstanding results compared to
+existing baselines in knowledge graph reasoning tasks.
+
+摘要：大量研究調查了大語言模型 (LLM) 與知識圖譜的整合，以增強推理過程。然而，瞭解模型如何利用結構化圖譜知識進行推理仍未得到充分探討。現有的方法大多依賴於 LLM 或檢索器來對知識的利用做出二元判斷，這太過粗略。同時，整個推理路徑中仍缺乏用於反思和修正的回饋機制。本文提出了一個主動自省知識圖推理框架 ARG，首次引入端到端訓練方法，以實現基於結構化圖譜的迭代推理。在這個框架中，模型利用特殊標記來主動確定是否需要知識檢索，根據檢索到的知識進行反思性批判，並對知識圖譜進行迭代推理。模型生成的推理路徑具有很高的可解釋性，可以更深入地探索模型對結構化知識的理解。最終，與知識圖推理任務中現有的基準相比，所提出的模型取得了傑出的成果。
 
 ##### **Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**
 2502.14275v1 by Jiaxi Li, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
@@ -677,6 +768,30 @@ solution for KG-based reasoning. It reduces reliance on high-capacity LLMs
 while ensuring trustworthy inference.
 
 摘要：<paragraph>最近的研究结合了大型语言模型 (LLM) 与知识图谱 (KG) 以增强推理，在不额外训练的情况下提高推理准确性，同时减轻幻觉。然而，现有的框架通常很僵化，难以适应知识图谱或任务的变化。它们还严重依赖强大的 LLM 来进行可靠（即值得信赖）的推理。为了解决这个问题，我们引入了 R2-KG，这是一个即插即用、双代理框架，它将推理分为两个角色：一个收集证据的操作员（低容量 LLM）和一个做出最终判断的监督员（高容量 LLM）。这种设计在 LLM 推理方面具有成本效益，同时仍保持强大的推理准确性。此外，R2-KG 采用弃权机制，仅在从知识图谱收集到足够证据时才生成答案，这显著提高了可靠性。跨多个基于知识图谱的推理任务的实验表明，R2-KG 在准确性和可靠性方面始终优于基线，而与用作操作员的 LLM 的固有能力无关。进一步的实验表明，R2-KG 的单代理版本配备了严格的自一致性策略，实现了明显高于基线的可靠性，同时降低了推理成本。然而，它也导致了复杂知识图谱中更高的弃权率。我们的发现将 R2-KG 确立为一种灵活且经济高效的基于知识图谱的推理解决方案。它减少了对高容量 LLM 的依赖，同时确保了可信的推理。</paragraph>
+
+##### **PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths**
+2502.14902v1 by Boyu Chen, Zirui Guo, Zidan Yang, Yuluo Chen, Junze Chen, Zhenghao Liu, Chuan Shi, Cheng Yang
+
+Retrieval-augmented generation (RAG) improves the response quality of large
+language models (LLMs) by retrieving knowledge from external databases. Typical
+RAG approaches split the text database into chunks, organizing them in a flat
+structure for efficient searches. To better capture the inherent dependencies
+and structured relationships across the text database, researchers propose to
+organize textual information into an indexing graph, known asgraph-based RAG.
+However, we argue that the limitation of current graph-based RAG methods lies
+in the redundancy of the retrieved information, rather than its insufficiency.
+Moreover, previous methods use a flat structure to organize retrieved
+information within the prompts, leading to suboptimal performance. To overcome
+these limitations, we propose PathRAG, which retrieves key relational paths
+from the indexing graph, and converts these paths into textual form for
+prompting LLMs. Specifically, PathRAG effectively reduces redundant information
+with flow-based pruning, while guiding LLMs to generate more logical and
+coherent responses with path-based prompting. Experimental results show that
+PathRAG consistently outperforms state-of-the-art baselines across six datasets
+and five evaluation dimensions. The code is available at the following link:
+https://github.com/BUPT-GAMMA/PathRAG
+
+摘要：檢索增強生成（RAG）透過從外部資料庫中檢索知識來提升大型語言模型（LLM）的回應品質。典型的 RAG 方法會將文字資料庫分割成塊，並以扁平結構組織起來以利於有效率的搜尋。為了更有效地擷取文字資料庫中的內在相依關係和結構化關係，研究人員建議將文字資訊組織成索引圖，稱為基於圖形的 RAG。然而，我們認為目前基於圖形的 RAG 方法的限制在於檢索資訊的冗餘性，而非其不足。而且，先前的這些方法使用扁平結構來組織提示中的檢索資訊，導致次佳的效能。為了克服這些限制，我們提出 PathRAG，它會從索引圖中檢索關鍵的關係路徑，並將這些路徑轉換成文字形式以提示 LLM。具體來說，PathRAG 有效地減少了基於流的修剪中的冗餘資訊，同時引導 LLM 使用基於路徑的提示產生更具邏輯性和條理性的回應。實驗結果顯示，PathRAG 在六個資料集和五個評量面向中始終優於現有的基準。程式碼可在以下連結取得：https://github.com/BUPT-GAMMA/PathRAG
 
 ##### **Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**
 2502.12669v1 by Xiang Liu, Penglei Sun, Shuyan Chen, Longhan Zhang, Peijie Dong, Huajie You, Yongqi Zhang, Chang Yan, Xiaowen Chu, Tong-yi Zhang
@@ -2384,126 +2499,4 @@ easier to interpret.
 模型透過光譜圖形群集形成高度糾纏的群集。因此，我們使用「群集性損失」函數訓練模型，使其更具模組化，
 這鼓勵形成非交互群集。使用自動化可解釋性技術，我們顯示我們的模型可以幫助訓練更具模組化的模型，並學習不同、不相交且較小的電路。我們
 研究了在 MNIST 和 CIFAR 上訓練的 CNN，在模組化加法上訓練的小型Transformer，以及語言模型。我們的做法為訓練學習更簡單函數且更容易解釋的神經網路提供了有希望的方向。
-
-##### **Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**
-2502.02362v3 by Sagnik Mukherjee, Abhinav Chinta, Takyoung Kim, Tarun Anoop Sharma, Dilek Hakkani-Tür
-
-Chain-of-Thought (CoT) prompting enhances mathematical reasoning in large
-language models (LLMs) by enabling detailed step-by-step solutions. However,
-due to the verbosity of LLMs, the resulting reasoning chains can be long,
-making it harder to verify the reasoning steps and trace issues resulting from
-dependencies between the steps that may be farther away in the sequence of
-steps. Importantly, mathematical reasoning allows each step to be derived from
-a small set of premises, which are a subset of the preceding steps in the
-reasoning chain. In this paper, we present a framework that identifies the
-premises for each step, to improve the evaluation of reasoning. We restructure
-conventional linear reasoning chains into Premise Augmented Reasoning Chains
-(PARC) by introducing premise links, resulting in a directed acyclic graph
-where the nodes are the steps and the edges are the premise links. Through
-experiments with a PARC-based dataset that we built, namely PERL (Premises and
-ERrors identification in LLMs), we demonstrate that LLMs can reliably identify
-premises within complex reasoning chains. In particular, even open-source LLMs
-achieve 90% recall in premise identification. We also show that PARC helps to
-identify errors in reasoning chains more reliably. The accuracy of error
-identification improves by 6% to 16% absolute when step-by-step verification is
-carried out in PARC under the premises. Our findings highlight the utility of
-premise-centric representations in addressing complex problem-solving tasks and
-open new avenues for improving the reliability of LLM-based reasoning
-evaluations.
-
-摘要：<paragraph>思考鏈（CoT）提示透過提供詳細的逐步解法，增強大型語言模型（LLM）的數學推理能力。然而，由於 LLM 的冗長，產生的推理鏈可能很長，這使得驗證推理步驟和追蹤由步驟之間相依關係所產生的問題變得更加困難，而這些步驟可能在步驟順序中相距較遠。重要的是，數學推理允許每個步驟從一組小的前提中推導出來，這些前提是推理鏈中前一個步驟的子集。在本文中，我們提出了一個框架，用於識別每個步驟的前提，以改進推理評估。我們透過引入前提連結，將傳統的線性推理鏈重組為前提擴充推理鏈（PARC），產生一個有向無環圖，其中節點是步驟，而邊緣是前提連結。透過我們建立的基於 PARC 的資料集（即 PERL（LLM 中的前提和錯誤識別））進行的實驗，我們證明 LLM 能夠在複雜的推理鏈中可靠地識別前提。特別是，即使是開源 LLM 在前提識別中也能達到 90% 的召回率。我們還表明，PARC 有助於更可靠地識別推理鏈中的錯誤。在前提下於 PARC 中執行逐步驗證時，錯誤識別的準確度提高了 6% 到 16%。我們的研究結果突顯了以前提為中心的表示在解決複雜問題解決任務中的效用，並為改進基於 LLM 的推理評估的可靠性開闢了新途徑。</paragraph>
-
-##### **AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**
-2502.02067v1 by Shivam Singh, Karthik Swaminathan, Nabanita Dash, Ramandeep Singh, Snehasis Banerjee, Mohan Sridharan, Madhava Krishna
-
-Embodied agents assisting humans are often asked to complete a new task in a
-new scenario. An agent preparing a particular dish in the kitchen based on a
-known recipe may be asked to prepare a new dish or to perform cleaning tasks in
-the storeroom. There may not be sufficient resources, e.g., time or labeled
-examples, to train the agent for these new situations. Large Language Models
-(LLMs) trained on considerable knowledge across many domains are able to
-predict a sequence of abstract actions for such new tasks and scenarios,
-although it may not be possible for the agent to execute this action sequence
-due to task-, agent-, or domain-specific constraints. Our framework addresses
-these challenges by leveraging the generic predictions provided by LLM and the
-prior domain-specific knowledge encoded in a Knowledge Graph (KG), enabling an
-agent to quickly adapt to new tasks and scenarios. The robot also solicits and
-uses human input as needed to refine its existing knowledge. Based on
-experimental evaluation over cooking and cleaning tasks in simulation domains,
-we demonstrate that the interplay between LLM, KG, and human input leads to
-substantial performance gains compared with just using the LLM output.
-
-摘要：具身代理协助人类时，通常需要在新的情境中完成新的任务。基于已知食谱在厨房准备特定菜肴的代理可能会被要求准备新菜肴或在储藏室执行清洁任务。可能没有足够资源（例如时间或标记的示例）来训练代理以应对这些新情况。在许多领域接受大量知识训练的大型语言模型 (LLM) 能够预测此类新任务和情境的抽象动作序列，尽管代理可能无法执行此动作序列，因为任务、代理或特定于域的约束。我们的框架通过利用 LLM 提供的通用预测和知识图 (KG) 中编码的先前特定于域的知识来应对这些挑战，使代理能够快速适应新任务和情境。该机器人还会根据需要征求并使用人类输入来完善其现有知识。基于在模拟域中对烹饪和清洁任务的实验评估，我们证明了 LLM、KG 和人类输入之间的相互作用与仅使用 LLM 输出相比带来了巨大的性能提升。
-
-##### **On Bob Dylan: A Computational Perspective**
-2502.01772v1 by Prashant Garg
-
-Cass Sunstein's essay 'On Bob Dylan' describes Dylan's 'dishabituating' style
--- a constant refusal to conform to expectation and a penchant for reinventing
-his musical and lyrical identity. In this paper, I extend Sunstein's
-observations through a large-scale computational analysis of Dylan's lyrics
-from 1962 to 2012. Using o3-mini-high (a large language model), I extract
-concept-to-concept relationships from the lyrics and construct directed
-knowledge graphs that capture Dylan's thematic structure. I then quantify
-shifts in sentiment, metaphorical expression, thematic diversity, and network
-complexity over time. The results indicate that Dylan's lyrics increasingly
-rely on metaphor, display an evolving sentiment profile, and exhibit heightened
-dishabituation -- measured here as a growing variance in the network centrality
-of key concepts. I also find that references to movement, protest, and mythic
-imagery fluctuate in ways that align with well-known phases of Dylan's career,
-reflecting the dynamic and unpredictable quality of his art. These findings not
-only deepen our empirical understanding of Sunstein's thesis but also introduce
-a novel computational method for analyzing an artist's evolution-offering
-broader applicability to the study of cultural and creative change.
-
-摘要：卡斯·桑斯坦的論文「論鮑伯·迪倫」描述了迪倫「去習慣化」的風格
--- 這種風格不斷拒絕符合預期，並熱衷於重新塑造他的音樂和歌詞認同。在本文中，我透過對迪倫 1962 年至 2012 年歌詞進行大規模的運算分析，來延伸桑斯坦的觀察。使用 o3-mini-high（一個大型語言模型），我從歌詞中提取概念對概念的關係，並建構有向知識圖，以捕捉迪倫的主題結構。然後，我量化情緒、隱喻表達、主題多樣性和網路複雜性隨時間的變化。結果顯示，迪倫的歌詞越來越依賴隱喻，展現出不斷演化的情緒輪廓，並表現出高度的去習慣化 -- 在這裡測量為關鍵概念的網路中心性的變異增加。我也發現，對運動、抗議和神話意象的引用，會以與迪倫職業生涯中眾所周知階段一致的方式波動，反映了他藝術的動態和不可預測的品質。這些發現不僅加深了我們對桑斯坦論文的經驗理解，也引入了分析藝術家演變的新穎運算方法，為文化和創造性變化的研究提供了更廣泛的適用性。
-
-##### **VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**
-2502.01549v1 by Xubin Ren, Lingrui Xu, Long Xia, Shuaiqiang Wang, Dawei Yin, Chao Huang
-
-Retrieval-Augmented Generation (RAG) has demonstrated remarkable success in
-enhancing Large Language Models (LLMs) through external knowledge integration,
-yet its application has primarily focused on textual content, leaving the rich
-domain of multi-modal video knowledge predominantly unexplored. This paper
-introduces VideoRAG, the first retrieval-augmented generation framework
-specifically designed for processing and understanding extremely long-context
-videos. Our core innovation lies in its dual-channel architecture that
-seamlessly integrates (i) graph-based textual knowledge grounding for capturing
-cross-video semantic relationships, and (ii) multi-modal context encoding for
-efficiently preserving visual features. This novel design empowers VideoRAG to
-process unlimited-length videos by constructing precise knowledge graphs that
-span multiple videos while maintaining semantic dependencies through
-specialized multi-modal retrieval paradigms. Through comprehensive empirical
-evaluation on our proposed LongerVideos benchmark-comprising over 160 videos
-totaling 134+ hours across lecture, documentary, and entertainment
-categories-VideoRAG demonstrates substantial performance compared to existing
-RAG alternatives and long video understanding methods. The source code of
-VideoRAG implementation and the benchmark dataset are openly available at:
-https://github.com/HKUDS/VideoRAG.
-
-摘要：檢索增強生成 (RAG) 已證明在透過外部知識整合增強大型語言模型 (LLM) 方面取得顯著成功，但其應用主要集中在文字內容上，而豐富的多模態影片知識領域則鮮少被探索。本文介紹 VideoRAG，這是第一個檢索增強生成架構，專門設計用於處理和理解極長語境的影片。我們的核心創新在於其雙通道架構，它無縫整合 (i) 基於圖形文字知識基礎，用於擷取跨影片語義關係，以及 (ii) 多模態語境編碼，用於有效保留視覺特徵。這個新穎的設計讓 VideoRAG 能夠透過建構跨越多個影片的精確知識圖譜來處理長度不限的影片，同時透過專門的多模態檢索範例來維持語義依賴性。透過我們提出的 LongerVideos 基準的全面經驗評估，該基準包含超過 160 部影片，總時數超過 134 小時，涵蓋演講、紀錄片和娛樂類別，VideoRAG 與現有的 RAG 替代方案和長影片理解方法相比，展現出顯著的效能。VideoRAG 實作的原始碼和基準資料集已公開於：https://github.com/HKUDS/VideoRAG。
-
-##### **Transformers trained on proteins can learn to attend to Euclidean distance**
-2502.01533v1 by Isaac Ellmen, Constantin Schneider, Matthew I. J. Raybould, Charlotte M. Deane
-
-While conventional Transformers generally operate on sequence data, they can
-be used in conjunction with structure models, typically SE(3)-invariant or
-equivariant graph neural networks (GNNs), for 3D applications such as protein
-structure modelling. These hybrids typically involve either (1)
-preprocessing/tokenizing structural features as input for Transformers or (2)
-taking Transformer embeddings and processing them within a structural
-representation. However, there is evidence that Transformers can learn to
-process structural information on their own, such as the AlphaFold3 structural
-diffusion model. In this work we show that Transformers can function
-independently as structure models when passed linear embeddings of coordinates.
-We first provide a theoretical explanation for how Transformers can learn to
-filter attention as a 3D Gaussian with learned variance. We then validate this
-theory using both simulated 3D points and in the context of masked token
-prediction for proteins. Finally, we show that pre-training protein Transformer
-encoders with structure improves performance on a downstream task, yielding
-better performance than custom structural models. Together, this work provides
-a basis for using standard Transformers as hybrid structure-language models.
-
-摘要：雖然傳統的 Transformer 通常處理序列資料，但它們可用於結構模型，通常是 SE(3) 不變式或等變式圖神經網路 (GNN)，用於蛋白質結構建模等 3D 應用。這些混合模型通常包含 (1) 將結構特徵預處理/標記化為 Transformer 的輸入或 (2) 取用 Transformer 嵌入並在結構表示中處理它們。然而，有證據表明 Transformer 可以自行學習處理結構資訊，例如 AlphaFold3 結構擴散模型。在這項工作中，我們展示了 Transformer 在傳遞座標的線性嵌入時，可以獨立作為結構模型運作。我們首先提供了 Transformer 如何學習將注意力濾波為具有學習變異的 3D 高斯的理論解釋。然後我們使用模擬 3D 點和在蛋白質遮罩標記預測的背景下驗證此理論。最後，我們展示了使用結構預訓練蛋白質 Transformer 編碼器會改善下游任務的效能，產生比自訂結構模型更好的效能。綜合來說，這項工作提供了使用標準 Transformer 作為混合結構語言模型的基礎。
 

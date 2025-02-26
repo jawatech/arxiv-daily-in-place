@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-25 20:33:23 Asia/Taipei
+ Automated deployment @ 2025-02-26 09:07:20 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959v1](http://arxiv.org/abs/2502.15959v1)|null|
+|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959v1](http://arxiv.org/abs/2502.15959v1)|[link](https://github.com/aipmlab/kd-fmv)|
 |**2025-02-21**|**ML-Driven Approaches to Combat Medicare Fraud: Advances in Class Imbalance Solutions, Feature Engineering, Adaptive Learning, and Business Impact**|Dorsa Farahmandazad et.al.|[2502.15898v1](http://arxiv.org/abs/2502.15898v1)|null|
 |**2025-02-20**|**Utilizing AI and Machine Learning for Predictive Analysis of Post-Treatment Cancer Recurrence**|Muhammad Umer Qayyum et.al.|[2502.15825v1](http://arxiv.org/abs/2502.15825v1)|null|
 |**2025-02-19**|**Towards a perturbation-based explanation for medical AI as differentiable programs**|Takeshi Abe et.al.|[2502.14001v1](http://arxiv.org/abs/2502.14001v1)|null|

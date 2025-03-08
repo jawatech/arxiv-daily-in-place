@@ -75,7 +75,7 @@ def get_gemini_translation(text_list, source_lang, target_lang):
             temperature=0.4,
         ),
     )
-
+    time.sleep(random.random() + 1)
     # Get the translated text from the response
     return "".join(response.text.split("<lb/>"))
     

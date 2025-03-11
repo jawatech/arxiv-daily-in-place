@@ -2,20 +2,22 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-26**|**Towards an AI co-scientist**|Juraj Gottweis et.al.|[2502.18864v1](http://arxiv.org/abs/2502.18864v1)|null|
+|**2025-02-26**|**Cross-Modality Investigation on WESAD Stress Classification**|Eric Oliver et.al.|[2502.18733v1](http://arxiv.org/abs/2502.18733v1)|null|
 |**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959v1](http://arxiv.org/abs/2502.15959v1)|[link](https://github.com/aipmlab/kd-fmv)|
 |**2025-02-21**|**ML-Driven Approaches to Combat Medicare Fraud: Advances in Class Imbalance Solutions, Feature Engineering, Adaptive Learning, and Business Impact**|Dorsa Farahmandazad et.al.|[2502.15898v1](http://arxiv.org/abs/2502.15898v1)|null|
 |**2025-02-20**|**Utilizing AI and Machine Learning for Predictive Analysis of Post-Treatment Cancer Recurrence**|Muhammad Umer Qayyum et.al.|[2502.15825v1](http://arxiv.org/abs/2502.15825v1)|null|
 |**2025-02-19**|**Towards a perturbation-based explanation for medical AI as differentiable programs**|Takeshi Abe et.al.|[2502.14001v1](http://arxiv.org/abs/2502.14001v1)|null|
-|**2025-02-14**|**3D ReX: Causal Explanations in 3D Neuroimaging Classification**|Melane Navaratnarajah et.al.|[2502.12181v1](http://arxiv.org/abs/2502.12181v1)|null|
+|**2025-02-14**|**3D ReX: Causal Explanations in 3D Neuroimaging Classification**|Melane Navaratnarajah et.al.|[2502.12181v2](http://arxiv.org/abs/2502.12181v2)|null|
 |**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
-|**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v1](http://arxiv.org/abs/2502.06124v1)|null|
+|**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v2](http://arxiv.org/abs/2502.06124v2)|[link](https://github.com/ipolharvard/ethos-ares)|
 |**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v2](http://arxiv.org/abs/2501.09628v2)|null|
 |**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
-|**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v1](http://arxiv.org/abs/2501.02891v1)|null|
+|**2025-01-06**|**Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**|Mary Ogbuka Kenneth et.al.|[2501.02891v2](http://arxiv.org/abs/2501.02891v2)|null|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068v1](http://arxiv.org/abs/2412.20068v1)|null|
 |**2024-12-27**|**A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation**|Jana Zakall et.al.|[2412.19688v1](http://arxiv.org/abs/2412.19688v1)|null|
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527v1](http://arxiv.org/abs/2412.17527v1)|null|
@@ -24,7 +26,7 @@
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009v1](http://arxiv.org/abs/2412.14009v1)|null|
 |**2024-11-30**|**2-Factor Retrieval for Improved Human-AI Decision Making in Radiology**|Jim Solomon et.al.|[2412.00372v1](http://arxiv.org/abs/2412.00372v1)|null|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356v1](http://arxiv.org/abs/2411.19356v1)|null|
-|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v2](http://arxiv.org/abs/2411.17645v2)|null|
+|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v3](http://arxiv.org/abs/2411.17645v3)|null|
 |**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|null|
 |**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255v1](http://arxiv.org/abs/2411.10255v1)|null|
 |**2024-11-01**|**Enhancing Osteoporosis Detection: An Explainable Multi-Modal Learning Framework with Feature Fusion and Variable Clustering**|Mehdi Hosseini Chagahi et.al.|[2411.00916v2](http://arxiv.org/abs/2411.00916v2)|null|
@@ -32,6 +34,7 @@
 |**2024-10-23**|**An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems**|Shruthi Chari et.al.|[2410.17504v1](http://arxiv.org/abs/2410.17504v1)|[link](https://github.com/tetherless-world/metaexplainer)|
 |**2024-10-22**|**Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study**|Lukas Hughes-Noehrer et.al.|[2410.16879v1](http://arxiv.org/abs/2410.16879v1)|null|
 |**2024-10-19**|**Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**|Gesa Mittmann et.al.|[2410.15012v1](http://arxiv.org/abs/2410.15012v1)|null|
+|**2024-10-18**|**Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-In-The-Loop LLM Agents**|Jiachen Li et.al.|[2410.14879v2](http://arxiv.org/abs/2410.14879v2)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910v1](http://arxiv.org/abs/2410.11910v1)|null|
 |**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[2410.11896v1](http://arxiv.org/abs/2410.11896v1)|[link](https://github.com/tlabarta/helpfulnessofxai)|
 |**2024-10-12**|**Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health**|Abdullah Mamun et.al.|[2410.09635v1](http://arxiv.org/abs/2410.09635v1)|[link](https://github.com/ab9mamun/aimen)|
@@ -40,7 +43,7 @@
 |**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855v2](http://arxiv.org/abs/2410.01855v2)|null|
 |**2024-10-01**|**Easydiagnos: a framework for accurate feature selection for automatic diagnosis in smart healthcare**|Prasenjit Maji et.al.|[2410.00366v1](http://arxiv.org/abs/2410.00366v1)|null|
 |**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476v1](http://arxiv.org/abs/2409.13476v1)|null|
-|**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v1](http://arxiv.org/abs/2409.15374v1)|null|
+|**2024-09-19**|**Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**|Suryansh Vidya et.al.|[2409.15374v2](http://arxiv.org/abs/2409.15374v2)|null|
 |**2024-09-19**|**Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**|Daniel Flores-Araiza et.al.|[2409.12883v1](http://arxiv.org/abs/2409.12883v1)|null|
 |**2024-09-18**|**Towards Interpretable End-Stage Renal Disease (ESRD) Prediction: Utilizing Administrative Claims Data with Explainable AI Techniques**|Yubo Li et.al.|[2409.12087v3](http://arxiv.org/abs/2409.12087v3)|null|
 |**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201v3](http://arxiv.org/abs/2409.09201v3)|null|
@@ -76,7 +79,7 @@
 |**2024-06-04**|**Using Explainable AI for EEG-based Reduced Montage Neonatal Seizure Detection**|Dinuka Sandun Udayantha et.al.|[2406.16908v3](http://arxiv.org/abs/2406.16908v3)|[link](https://github.com/dinuka-1999/braineocare)|
 |**2024-06-01**|**Breast Cancer Diagnosis: A Comprehensive Exploration of Explainable Artificial Intelligence (XAI) Techniques**|Samita Bai et.al.|[2406.00532v1](http://arxiv.org/abs/2406.00532v1)|null|
 |**2024-06-01**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624v2](http://arxiv.org/abs/2406.01624v2)|[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)|
-|**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v1](http://arxiv.org/abs/2406.00216v1)|null|
+|**2024-05-31**|**The Explanation Necessity for Healthcare AI**|Michail Mamalakis et.al.|[2406.00216v2](http://arxiv.org/abs/2406.00216v2)|null|
 |**2024-05-29**|**Interdisciplinary Expertise to Advance Equitable Explainable AI**|Chloe R. Bennett et.al.|[2406.18563v1](http://arxiv.org/abs/2406.18563v1)|null|
 |**2024-05-27**|**"It depends": Configuring AI to Improve Clinical Usefulness Across Contexts**|Hubert D. Zając et.al.|[2407.11978v1](http://arxiv.org/abs/2407.11978v1)|null|
 |**2024-05-26**|**Improving Health Professionals' Onboarding with AI and XAI for Trustworthy Human-AI Collaborative Decision Making**|Min Hun Lee et.al.|[2405.16424v1](http://arxiv.org/abs/2405.16424v1)|null|
@@ -99,11 +102,68 @@
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
 |**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v3](http://arxiv.org/abs/2404.03892v3)|null|
-|**2024-03-30**|**Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**|Xingrui Gu et.al.|[2404.00320v2](http://arxiv.org/abs/2404.00320v2)|null|
-|**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873v1](http://arxiv.org/abs/2403.17873v1)|null|
-|**2024-03-26**|**Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**|Han Yuan et.al.|[2403.18871v1](http://arxiv.org/abs/2403.18871v1)|[link](https://github.com/han-yuan-med/template-explanation)|
 
 #### Abstracts
+##### **Towards an AI co-scientist**
+2502.18864v1 by Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic, Artiom Myaskovsky, Felix Weissenberger, Keran Rong, Ryutaro Tanno, Khaled Saab, Dan Popovici, Jacob Blum, Fan Zhang, Katherine Chou, Avinatan Hassidim, Burak Gokturk, Amin Vahdat, Pushmeet Kohli, Yossi Matias, Andrew Carroll, Kavita Kulkarni, Nenad Tomasev, Yuan Guan, Vikram Dhillon, Eeshit Dhaval Vaishnav, Byron Lee, Tiago R D Costa, José R Penadés, Gary Peltz, Yunhan Xu, Annalisa Pawlosky, Alan Karthikesalingam, Vivek Natarajan
+
+Scientific discovery relies on scientists generating novel hypotheses that
+undergo rigorous experimental validation. To augment this process, we introduce
+an AI co-scientist, a multi-agent system built on Gemini 2.0. The AI
+co-scientist is intended to help uncover new, original knowledge and to
+formulate demonstrably novel research hypotheses and proposals, building upon
+prior evidence and aligned to scientist-provided research objectives and
+guidance. The system's design incorporates a generate, debate, and evolve
+approach to hypothesis generation, inspired by the scientific method and
+accelerated by scaling test-time compute. Key contributions include: (1) a
+multi-agent architecture with an asynchronous task execution framework for
+flexible compute scaling; (2) a tournament evolution process for self-improving
+hypotheses generation. Automated evaluations show continued benefits of
+test-time compute, improving hypothesis quality. While general purpose, we
+focus development and validation in three biomedical areas: drug repurposing,
+novel target discovery, and explaining mechanisms of bacterial evolution and
+anti-microbial resistance. For drug repurposing, the system proposes candidates
+with promising validation findings, including candidates for acute myeloid
+leukemia that show tumor inhibition in vitro at clinically applicable
+concentrations. For novel target discovery, the AI co-scientist proposed new
+epigenetic targets for liver fibrosis, validated by anti-fibrotic activity and
+liver cell regeneration in human hepatic organoids. Finally, the AI
+co-scientist recapitulated unpublished experimental results via a parallel in
+silico discovery of a novel gene transfer mechanism in bacterial evolution.
+These results, detailed in separate, co-timed reports, demonstrate the
+potential to augment biomedical and scientific discovery and usher an era of AI
+empowered scientists.
+
+摘要：<paragraph>科學發現依賴於科學家們提出新穎的假說，並經過嚴格的實驗驗證。為了增強這一過程，我們引入了一位 AI 科學家，這是一個基於 Gemini 2.0 構建的多代理系統。AI 科學家的目的是幫助發現新的、原創的知識，並根據先前的證據，並與科學家提供的研究目標和指導方針相一致，制定可證明的、新穎的研究假說和提案。該系統的設計採用了「生成、辯論和進化」的方法來生成假說，其靈感來自科學方法，並通過擴展測試時間計算來加速。主要貢獻包括：(1) 具有異步任務執行框架的多代理架構，以實現靈活的計算擴展；(2) 用於自我改進假說生成的錦標賽進化過程。自動評估顯示了測試時間計算的持續優勢，提高了假說的質量。雖然用途廣泛，但我們將開發和驗證的重點放在三個生物醫學領域：藥物再利用、新靶點發現以及解釋細菌進化和抗藥性的機制。對於藥物再利用，該系統提出了具有良好驗證結果的候選藥物，包括用於急性骨髓性白血病的候選藥物，這些藥物在臨床適用濃度下在體外顯示出腫瘤抑制作用。對於新靶點發現，AI 科學家提出了新的肝纖維化表觀遺傳靶點，並通過抗纖維化活性和人類肝臟類器官中的肝細胞再生進行了驗證。最後，AI 科學家通過在計算機模擬中平行發現細菌進化中的一種新的基因轉移機制，重現了未發表的實驗結果。這些結果在單獨的、同時發布的報告中有詳細說明，證明了增強生物醫學和科學發現的潛力，並開啟了 AI 賦能科學家的時代。</paragraph>
+
+
+##### **Cross-Modality Investigation on WESAD Stress Classification**
+2502.18733v1 by Eric Oliver, Sagnik Dakshit
+
+Deep learning's growing prevalence has driven its widespread use in
+healthcare, where AI and sensor advancements enhance diagnosis, treatment, and
+monitoring. In mobile health, AI-powered tools enable early diagnosis and
+continuous monitoring of conditions like stress. Wearable technologies and
+multimodal physiological data have made stress detection increasingly viable,
+but model efficacy depends on data quality, quantity, and modality. This study
+develops transformer models for stress detection using the WESAD dataset,
+training on electrocardiograms (ECG), electrodermal activity (EDA),
+electromyography (EMG), respiration rate (RESP), temperature (TEMP), and 3-axis
+accelerometer (ACC) signals. The results demonstrate the effectiveness of
+single-modality transformers in analyzing physiological signals, achieving
+state-of-the-art performance with accuracy, precision and recall values in the
+range of $99.73\%$ to $99.95\%$ for stress detection. Furthermore, this study
+explores cross-modal performance and also explains the same using 2D
+visualization of the learned embedding space and quantitative analysis based on
+data variance. Despite the large body of work on stress detection and
+monitoring, the robustness and generalization of these models across different
+modalities has not been explored. This research represents one of the initial
+efforts to interpret embedding spaces for stress detection, providing valuable
+information on cross-modal performance.
+
+摘要：<paragraph>深度學習的日益普及推動了其在醫療保健領域的廣泛應用，人工智慧和傳感器的進步增強了診斷、治療和監測的能力。在行動醫療領域，人工智慧驅動的工具可以對壓力等狀況進行早期診斷和持續監測。穿戴式技術和多模態生理數據使壓力檢測越來越可行，但模型的有效性取決於數據的質量、數量和模態。本研究使用 WESAD 數據集開發了用於壓力檢測的 Transformer 模型，並使用心電圖 (ECG)、皮電活動 (EDA)、肌電圖 (EMG)、呼吸頻率 (RESP)、體溫 (TEMP) 和三軸加速度計 (ACC) 信號進行訓練。結果表明，單模態 Transformer 在分析生理信號方面非常有效，在壓力檢測方面達到了最先進的性能，準確度、精確度和召回率都在 99.73% 到 99.95% 之間。此外，本研究還探討了跨模態性能，並使用學習到的嵌入空間的二維可視化和基於數據變異的定量分析來解釋這一點。儘管在壓力檢測和監測方面已有大量研究，但這些模型在不同模態下的穩健性和泛化性尚未得到探討。這項研究是解釋壓力檢測嵌入空間的初步嘗試之一，提供了有關跨模態性能的寶貴資訊。</paragraph>
+
+
 ##### **A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**
 2502.15959v1 by Yuchen Jiang, Xinyuan Zhao, Yihang Wu, Ahmad Chaddad
 
@@ -202,7 +262,7 @@ the AI model in its clinical application.
 摘要：機器學習演算法的最新進展已達到一個階段，醫療裝置可以配備人工智慧 (AI) 模型，以在臨床環境中提供診斷支援和例行自動化。在醫學和保健領域，對於 AI 模型產生的結果有足夠且客觀的可解釋性有特別的需求。然而，由於 AI 模型的複雜性，它們通常被視為黑盒子，而導致其反應的運算過程通常是不透明的。儘管已經提出多種方法來解釋模型的行為，方法是評估每個特徵在判別和預測中的重要性，但它們可能會受到訓練或測試所用資料集的規模和抽樣協定的偏差和不透明性的影響。為了克服現有方法的缺點，我們探索一種替代方法，以提供 AI 模型的客觀解釋，這種方法可以獨立於學習過程定義，而且不需要額外的資料。作為這個研究方向的初步研究，這項工作探討了深度學習模型的雅可比矩陣的數值可用性，它衡量了模型對輸入中新增的小擾動的穩定反應程度。如果可用，指標會從訓練好的 AI 模型計算得出，以取得給定的目標輸入。這是基於擾動的解釋的第一步，它將協助醫療從業人員了解和詮釋 AI 模型在其臨床應用中的反應。
 
 ##### **3D ReX: Causal Explanations in 3D Neuroimaging Classification**
-2502.12181v1 by Melane Navaratnarajah, Sophie A. Martin, David A. Kelly, Nathan Blake, Hana Chocker
+2502.12181v2 by Melane Navaratnarajah, Sophie A. Martin, David A. Kelly, Nathan Blake, Hana Chockler
 
 Explainability remains a significant problem for AI models in medical
 imaging, making it challenging for clinicians to trust AI-driven predictions.
@@ -212,8 +272,8 @@ responsibility maps which highlight the regions most crucial to the model's
 decision. We test 3D ReX on a stroke detection model, providing insight into
 the spatial distribution of features relevant to stroke.
 
-摘要：解釋性仍然是醫療影像中 AI 模型的一大問題，這使得臨床醫生難以信任 AI 驅動的預測。
-我們引入了 3D ReX，這是第一個用於 3D 模型的基於因果關係的事後解釋性工具。3D ReX 使用實際因果關係理論來生成責任圖，該圖突出了對模型決策至關重要的區域。我們在中風檢測模型上測試了 3D ReX，提供了與中風相關特徵的空間分佈的見解。
+摘要：<paragraph>可解釋性仍然是醫學影像中 AI 模型的一個重大問題，這使得臨床醫生難以信任 AI 驅動的預測。我們介紹 3D ReX，這是第一個基於因果關係的 3D 模型事後可解釋性工具。3D ReX 使用實際因果關係理論來生成責任圖，突出顯示對模型決策最重要的區域。我們在中風檢測模型上測試了 3D ReX，提供了與中風相關的特徵空間分佈的洞察。</paragraph>
+
 
 ##### **Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**
 2502.09218v1 by Flavio Bertini, Alessandro Dal Palù, Federica Zaglio, Francesco Fabiano, Andrea Formisano
@@ -247,35 +307,37 @@ equivalent rewritings based on the input concept.
 摘要：<paragraph>這篇論文提出了一個完整的可解釋系統，它可以解釋一組資料，抽象出基礎特徵，並以選擇的自然語言描述它們。系統依賴兩個關鍵階段：(i) 從資料中識別新興屬性，並將它們轉換為抽象概念，以及 (ii) 將這些概念轉換為自然語言。儘管大型語言模型展示了令人印象深刻的自然語言生成能力，但它們的統計性質和內部機制的複雜性仍然迫使我們將這些技術用作黑盒子，放棄可信度。開發一個可解釋的資料解釋管道將有助於促進在安全關鍵環境中使用它，例如處理醫療資訊，並允許非專家和視障人士存取敘述資訊。為此，我們相信知識表示和自動推理研究領域可以提出一個有效的替代方案。在擴展解決第一階段 (i) 的先前研究的基礎上，我們專注於第二階段，稱為 Concept2Text。由於具有可解釋性，資料翻譯很容易透過基於邏輯的規則建模，再次強調宣告式程式設計在實現 AI 可解釋性中的作用。本文探討了一個基於 Prolog/CLP 的重寫系統，以解釋概念，這些概念以類別和關係的形式表達，再加上從通用本体衍生的常識，產生自然語言文字。它的主要特點包括階層樹重寫、模組化多語言生成、支援語義、語法和詞彙層面的等效變體，以及一個透明的基於規則的系統。我們概述了架構，並透過一些範例展示了它的靈活性，這些範例能夠根據輸入概念生成許多不同的等效重寫。</paragraph>
 
 ##### **Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**
-2502.06124v1 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
+2502.06124v2 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
 
-We developed the Enhanced Transformer for Health Outcome Simulation (ETHOS),
-an AI model that tokenizes patient health timelines (PHTs) from EHRs. ETHOS
-predicts future PHTs using transformer-based architectures. The Adaptive Risk
-Estimation System (ARES) employs ETHOS to compute dynamic and personalized risk
-probabilities for clinician-defined critical events. ARES incorporates a
-personalized explainability module that identifies key clinical factors
-influencing risk estimates for individual patients. ARES was evaluated on the
-MIMIC-IV v2.2 dataset in emergency department (ED) settings, benchmarking its
-performance against traditional early warning systems and machine learning
-models. We processed 299,721 unique patients from MIMIC-IV into 285,622 PHTs,
-with 60% including hospital admissions. The dataset contained over 357 million
-tokens. ETHOS outperformed benchmark models in predicting hospital admissions,
-ICU admissions, and prolonged hospital stays, achieving superior AUC scores.
-ETHOS-based risk estimates demonstrated robustness across demographic subgroups
-with strong model reliability, confirmed via calibration curves. The
-personalized explainability module provides insights into patient-specific
-factors contributing to risk. ARES, powered by ETHOS, advances predictive
-healthcare AI by providing dynamic, real-time, and personalized risk estimation
-with patient-specific explainability to enhance clinician trust. Its
-adaptability and superior accuracy position it as a transformative tool for
-clinical decision-making, potentially improving patient outcomes and resource
-allocation in emergency and inpatient settings. We release the full code at
-github.com/ipolharvard/ethos-ares to facilitate future research.
+The U.S. allocates nearly 18\% of its GDP to healthcare but experiences lower
+life expectancy and higher preventable death rates compared to other
+high-income nations. Hospitals struggle to predict critical outcomes such as
+mortality, ICU admission, and prolonged hospital stays. Traditional early
+warning systems, like NEWS and MEWS, rely on static variables and fixed
+thresholds, limiting their adaptability, accuracy, and personalization. We
+developed the Enhanced Transformer for Health Outcome Simulation (ETHOS), an AI
+model that tokenizes patient health timelines (PHTs) from EHRs and uses
+transformer-based architectures to predict future PHTs. The Adaptive Risk
+Estimation System (ARES) leverages ETHOS to compute dynamic, personalized risk
+probabilities for clinician-defined critical events. ARES also features a
+personalized explainability module that highlights key clinical factors
+influencing risk estimates. We evaluated ARES on the MIMIC-IV v2.2 dataset in
+emergency department settings, benchmarking its performance against traditional
+early warning systems and machine learning models. From 299,721 unique
+patients, 285,622 PHTs (60\% with hospital admissions) were processed,
+comprising over 357 million tokens. ETHOS outperformed benchmark models in
+predicting hospital admissions, ICU admissions, and prolonged stays, achieving
+superior AUC scores. Its risk estimates were robust across demographic
+subgroups, with calibration curves confirming model reliability. The
+explainability module provided valuable insights into patient-specific risk
+factors. ARES, powered by ETHOS, advances predictive healthcare AI by
+delivering dynamic, real-time, personalized risk estimation with
+patient-specific explainability. Its adaptability and accuracy offer a
+transformative tool for clinical decision-making, potentially improving patient
+outcomes and resource allocation.
 
-摘要：我們開發了增強型健康結果模擬轉換器 (ETHOS)，
-一種從電子健康紀錄 (EHR) 中將患者健康時間軸 (PHT) 標記化的 AI 模型。ETHOS
-使用基於轉換器的架構預測未來的 PHT。自適應風險評估系統 (ARES) 使用 ETHOS 計算由臨床醫生定義的危急事件的動態且個人化的風險機率。ARES 結合了個人化的可解釋性模組，可找出影響個別患者風險評估的主要臨床因素。ARES 在急診部門 (ED) 設定中針對 MIMIC-IV v2.2 資料集進行評估，並將其效能與傳統的預警系統和機器學習模型進行基準測試。我們將 299,721 位 MIMIC-IV 的獨特患者處理成 285,622 個 PHT，其中 60% 包含住院記錄。該資料集包含超過 3.57 億個標記。ETHOS 在預測住院、加護病房 (ICU) 住院和延長住院時間方面表現優於基準模型，並獲得了較高的 AUC 分數。基於 ETHOS 的風險評估顯示出跨人口統計子群的穩健性，並通過校準曲線確認了強大的模型可靠性。個人化的可解釋性模組提供了對導致風險的患者特定因素的見解。由 ETHOS 驅動的 ARES 透過提供動態、即時且個人化的風險評估，以及患者特定的可解釋性來增強臨床醫生的信任，從而推動了預測性醫療保健 AI 的發展。其適應性和卓越的準確性使其成為臨床決策制定的一種變革性工具，有可能改善緊急和住院環境中的患者結果和資源分配。我們在 github.com/ipolharvard/ethos-ares 上釋出完整程式碼，以利未來的研究。
+摘要：<paragraph>美國將其 GDP 的近 18% 分配給醫療保健，但與其他高收入國家相比，其預期壽命較低，可預防的死亡率較高。醫院難以預測關鍵結果，例如死亡率、加護病房入院率和住院時間延長。像 NEWS 和 MEWS 這樣的傳統早期預警系統依賴於靜態變量和固定閾值，限制了它們的適應性、準確性和個性化。我們開發了增強型健康結果模擬轉換器 (ETHOS)，這是一種 AI 模型，它可以將來自 EHR 的患者健康時間線 (PHT) 標記化，並使用基於轉換器的架構來預測未來的 PHT。自適應風險評估系統 (ARES) 利用 ETHOS 計算臨床醫生定義的關鍵事件的動態、個性化風險概率。ARES 還具備個性化可解釋性模塊，可突出顯示影響風險評估的關鍵臨床因素。我們在急診科環境中使用 MIMIC-IV v2.2 數據集評估了 ARES，並將其性能與傳統的早期預警系統和機器學習模型進行了基準測試。從 299,721 名獨特患者中，處理了 285,622 個 PHT（60% 為住院），包含超過 3.57 億個標記。ETHOS 在預測住院、加護病房入院和住院時間延長方面優於基準模型，實現了卓越的 AUC 分數。其風險評估在不同人口統計亞組中表現穩健，校準曲線證實了模型的可靠性。可解釋性模塊提供了對患者特定風險因素的寶貴見解。ARES 由 ETHOS 提供支持，通過提供具有患者特定可解釋性的動態、實時、個性化風險評估，推進了預測性醫療保健 AI。它的適應性和準確性為臨床決策提供了一種變革性工具，有可能改善患者的治療結果和資源分配。</paragraph>
+
 
 ##### **An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**
 2501.15969v1 by Shaheer Ahmad Khan, Muhammad Usamah Shahid, Ahmad Abdullah, Ibrahim Hashmat, Muddassar Farooq
@@ -427,7 +489,7 @@ diagnostic systems.
 摘要：随着深度学习模型在医学数据中获得关注，确保透明且值得信赖的决策至关重要。在皮肤癌诊断中，虽然病灶检测和分类的进步提高了准确性，但这些方法的黑盒性质对理解其决策过程构成了挑战，导致医生之间的信任问题。本研究利用在不同皮肤病变数据集上训练的 CLIP（对比语言图像预训练）模型，以捕捉视觉特征和诊断标准术语之间的有意义关系。为了进一步提高透明度，我们提出了一种名为 MedGrad E-CLIP 的方法，该方法通过结合专为皮肤病变等复杂医学影像设计的加权熵机制，建立在基于梯度的 E-CLIP 之上。此方法突出了与特定诊断描述相关联的关键图像区域。开发的集成管道不仅通过匹配相应的描述对皮肤病变进行分类，还添加了一层专门为医学数据开发的基本可解释性。通过直观地解释图像中不同特征与诊断标准的关系，这种方法展示了高级视觉语言模型在医学图像分析中的潜力，最终提高了透明度、稳健性和对人工智能驱动的诊断系统的信任。
 
 ##### **Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis**
-2501.02891v1 by Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
+2501.02891v2 by Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
 
 Humour styles can have either a negative or a positive impact on well-being.
 Given the importance of these styles to mental health, significant research has
@@ -452,8 +514,8 @@ the theoretical understanding of computational humour analysis and practical
 applications in mental health, content moderation, and digital humanities
 research.
 
-摘要：幽默風格對幸福感可能產生負面或正面的影響。
-鑑於這些風格對心理健康的重要性，已經對其自動識別進行了大量研究。然而，用於此目的的自動機器學習模型是黑盒子，使得其預測決策不透明。清晰度和透明度在心理健康領域至關重要。本文提出了一個可解釋的 AI (XAI) 框架，用於理解幽默風格分類，建立在計算幽默分析的先前工作之上。使用先前研究中表現最好的單一模型 (ALI+XGBoost)，我們應用全面的 XAI 技術來分析語言、情緒和語義特徵如何影響幽默風格分類決策。我們的分析揭示了不同幽默風格如何被表徵和錯誤分類的不同模式，特別強調了區分聯屬幽默與其他風格的挑戰。通過仔細檢查特徵重要性、錯誤模式和錯誤分類案例，我們確定了影響模型決策的關鍵因素，包括情緒模糊、情境誤解和目標識別。該框架展示了在理解模型行為方面的顯著效用，實現了對定義不同幽默風格的特徵之間複雜相互作用的可解釋見解。我們的發現有助於計算幽默分析的理論理解和心理健康、內容審核和數字人文研究中的實際應用。
+摘要：<paragraph>幽默風格對幸福感有著正面或負面的影響。鑑於這些風格對心理健康的重要性，人們對其自動識別進行了大量研究。然而，用於此目的的自動化機器學習模型是黑盒子，使其預測決策不透明。在心理健康領域，清晰度和透明度至關重要。本文基於先前在計算幽默分析方面的工作，提出了一個可解釋的人工智慧 (XAI) 架構，用於理解幽默風格分類。我們使用先前研究中表現最佳的單一模型 (ALI+XGBoost)，應用全面的 XAI 技術來分析語言、情感和語義特徵如何影響幽默風格分類決策。我們的分析揭示了不同幽默風格在如何被表徵和錯誤分類方面的獨特模式，尤其強調了區分親和幽默與其他風格的挑戰。透過詳細檢查特徵重要性、錯誤模式和錯誤分類案例，我們確定了影響模型決策的關鍵因素，包括情感模糊性、上下文誤解和目標識別。該架構在理解模型行為方面展現出顯著的效用，實現了對定義不同幽默風格的特徵之間複雜相互作用的可解釋洞察。我們的研究結果有助於對計算幽默分析的理論理解，以及在心理健康、內容審核和數位人文研究中的實際應用。</paragraph>
+
 
 ##### **The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**
 2412.20068v1 by Alessandro De Grandi, Federico Ravenda, Andrea Raballo, Fabio Crestani
@@ -673,7 +735,7 @@ essential to align AI development with individual values.
 摘要：<paragraph>了解公眾對人工智慧 (AI) 的認知以及潛在風險與好處之間的權衡至關重要，因為這些認知可能會影響政策決策、影響成功市場策略的創新軌跡，並決定個人和社會對 AI 技術的接受度。本研究使用來自德國的 1100 名參與者的代表性樣本，探討了 AI 的心智模型。參與者對 71 項關於 AI 未來能力的陳述（例如，自動駕駛、醫療保健、藝術、政治、戰爭和社會分歧）進行了定量評估，評估預期的發生可能性、感知風險、好處和整體價值。我們展示了這些預測的排名，並附上視覺化映射，說明了公眾的風險收益權衡。儘管許多場景被認為是可能的，但參與者通常將它們與高風險、有限的好處和低整體價值聯繫起來。在所有場景中，96.4% ($r^2=96.4\%$) 的價值評估差異可以用感知風險 ($\beta=-.504$) 和感知好處 ($\beta=+.710$) 來解釋，與預期的可能性沒有顯著關係。人口統計和人格特質影響了對風險、好處和整體評估的看法，這凸顯了提高 AI 素養和根據不同的使用者需求調整公共資訊的重要性。這些發現通過強調關鍵的公共關注和與個人價值觀一致的 AI 開發必不可少的個人因素，為研究人員、開發人員和政策制定者提供了可行的見解。</paragraph>
 
 ##### **Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**
-2411.17645v2 by Yujie Dai, Brian Sullivan, Axel Montout, Amy Dillon, Chris Waller, Peter Acs, Rachel Denholm, Philip Williams, Alastair D Hay, Raul Santos-Rodriguez, Andrew Dowsey
+2411.17645v3 by Yujie Dai, Brian Sullivan, Axel Montout, Amy Dillon, Chris Waller, Peter Acs, Rachel Denholm, Philip Williams, Alastair D Hay, Raul Santos-Rodriguez, Andrew Dowsey
 
 The use of machine learning and AI on electronic health records (EHRs) holds
 substantial potential for clinical insight. However, this approach faces
@@ -695,7 +757,8 @@ potential of AI-driven insights to support UTI clinical decision-making,
 further investigation of patient sub-strata and extensive validation are needed
 to ensure robustness and applicability in clinical practice.
 
-摘要：電子健康紀錄 (EHR) 中機器學習和 AI 的使用對於臨床見解具有相當大的潛力。然而，由於資料異質性、稀疏性、時間錯位和標籤結果有限，此方法面臨挑戰。在此背景下，我們利用來自英國布里斯托、北薩默塞特和南格洛斯特郡約一百萬名去識別個人連結的 EHR 資料集，來描述尿路感染 (UTI)。我們實施了將原始 EHR 資料轉換為結構化格式的資料前處理和整理管線，適合開發專注於資料公平性、問責制和透明度的預測模型。鑑於 UTI 真實結果的可用性有限和偏差，我們引入了由臨床專業知識告知的 UTI 風險評估架構，以估計個別患者時間軸上的 UTI 風險。成對的 XGBoost 模型使用此架構進行訓練，以區分 UTI 風險類別，並應用可解釋的 AI 技術來識別關鍵預測因子並支持可解釋性。我們的研究結果揭示了不同風險群組在臨床和人口統計預測因子上的差異。雖然這項研究強調了 AI 驅動見解在支援 UTI 臨床決策制定方面的潛力，但仍需要進一步調查患者子群體和廣泛驗證，以確保在臨床實務中的穩健性和適用性。
+摘要：在電子健康記錄 (EHR) 中使用機器學習和人工智慧具有發掘臨床洞見的巨大潛力。然而，由於資料異質性、稀疏性、時間錯位以及標記結果有限等挑戰，這種方法面臨著一些困難。在這種情況下，我們利用來自英國布里斯托、北薩默塞特和南格洛斯特郡約一百萬名去識別化個人的關聯 EHR 資料集來描述尿路感染 (UTI)。我們實施了一個資料預處理和管理流程，將原始 EHR 資料轉換為適合開發注重資料公平性、責任制和透明度的預測模型的結構化格式。鑑於 UTI 真實結果的可用性和偏差有限，我們引入了一個由臨床專業知識指導的 UTI 風險評估框架，以評估個體患者時間軸上的 UTI 風險。使用此框架訓練成對 XGBoost 模型，以區分 UTI 風險類別，並應用可解釋的人工智慧技術來識別關鍵預測因子並支援可解釋性。我們的研究結果揭示了不同風險組之間臨床和人口統計學預測因子的差異。雖然這項研究強調了人工智慧驅動的洞見在支援 UTI 臨床決策方面的潛力，但仍需要進一步研究患者亞群並進行廣泛驗證，以確保其在臨床實務中的穩健性和適用性。
+
 
 ##### **Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**
 2411.11774v1 by Jeffrey N. Clark, Matthew Wragg, Emily Nielsen, Miquel Perello-Nieto, Nawid Keshtmand, Michael Ambler, Shiv Sharma, Christopher P. Bourdeaux, Amberly Brigden, Raul Santos-Rodriguez
@@ -878,6 +941,37 @@ in medical tasks with high levels of subjectivity and to advance the
 understanding of pathologists' reasoning processes.
 
 摘要：前列腺癌是全球男性最常見的癌症，其惡性程度主要根據 Gleason 評分系統使用組織病理學數據進行評估。雖然人工智慧 (AI) 在準確預測 Gleason 評分方面已展現潛力，但這些預測通常缺乏內在的可解釋性，可能會導致對人機互動的不信任。為了解決這個問題，我們引進了一個由 54 位病理學家組成的國際團隊註解的 1,015 個組織微陣列核心影像的新穎資料集。這些註解提供了詳細的局部模式描述，用於符合國際準則的 Gleason 分級。利用這個資料集，我們開發了一個基於 U-Net 架構的內在可解釋 AI 系統，該系統提供了利用病理學家術語進行預測。這種方法規避了事後可解釋性方法，同時維持或超越了直接訓練用於 Gleason 模式分割的方法的效能（Dice 分數：0.713 ± 0.003，訓練於解釋，相對於 0.691 ± 0.010，訓練於 Gleason 模式）。透過在訓練期間採用軟標籤，我們捕捉了資料中的內在不確定性，即使在觀察者間變異性高的情況下，也能在 Gleason 模式分割中產生強大的結果。透過釋出這個資料集，我們旨在鼓勵進一步研究主觀性高的醫療任務中的分割，並增進對病理學家推理過程的理解。
+
+##### **Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-In-The-Loop LLM Agents**
+2410.14879v2 by Jiachen Li, Xiwen Li, Justin Steinberg, Akshat Choube, Bingsheng Yao, Xuhai Xu, Dakuo Wang, Elizabeth Mynatt, Varun Mishra
+
+Passive tracking methods, such as phone and wearable sensing, have become
+dominant in monitoring human behaviors in modern ubiquitous computing studies.
+While there have been significant advances in machine-learning approaches to
+translate periods of raw sensor data to model momentary behaviors, (e.g.,
+physical activity recognition), there still remains a significant gap in the
+translation of these sensing streams into meaningful, high-level, context-aware
+insights that are required for various applications (e.g., summarizing an
+individual's daily routine). To bridge this gap, experts often need to employ a
+context-driven sensemaking process in real-world studies to derive insights.
+This process often requires manual effort and can be challenging even for
+experienced researchers due to the complexity of human behaviors.
+  We conducted three rounds of user studies with 21 experts to explore
+solutions to address challenges with sensemaking. We follow a human-centered
+design process to identify needs and design, iterate, build, and evaluate Vital
+Insight (VI), a novel, LLM-assisted, prototype system to enable
+human-in-the-loop inference (sensemaking) and visualizations of multi-modal
+passive sensing data from smartphones and wearables. Using the prototype as a
+technology probe, we observe experts' interactions with it and develop an
+expert sensemaking model that explains how experts move between direct data
+representations and AI-supported inferences to explore, question, and validate
+insights. Through this iterative process, we also synthesize and discuss a list
+of design implications for the design of future AI-augmented visualization
+systems to better assist experts' sensemaking processes in multi-modal health
+sensing data.
+
+摘要：<paragraph>被動追蹤方法，例如手機和穿戴式感測，已成為現代普適計算研究中監測人類行為的主要方法。雖然機器學習方法在將原始感測器數據轉換為瞬間行為模型（例如，身體活動識別）方面取得了重大進展，但在將這些感測串流轉換為各種應用程式所需的 meaningful、高階、上下文感知的洞察（例如，總結個人的日常生活）方面仍然存在顯著差距。為了彌合這一差距，專家們通常需要在現實世界的研究中採用上下文驅動的意義建構過程來獲得洞察。這個過程通常需要人工操作，而且由於人類行為的複雜性，即使對於經驗豐富的研究人員來說也可能具有挑戰性。我們與 21 位專家進行了三輪用戶研究，以探索解決意義建構挑戰的方案。我們遵循以人為本的設計流程來識別需求，並設計、迭代、構建和評估 Vital Insight (VI)，這是一個新穎的、LLM 輔助的原型系統，用於實現人機迴圈推理（意義建構）以及智慧型手機和穿戴式裝置的多模式被動感測數據的可視化。使用該原型作為技術探針，我們觀察專家與其的互動，並開發了一個專家意義建構模型，該模型解釋了專家如何在直接數據表示和 AI 支援的推論之間移動，以探索、質疑和驗證洞察。透過這個迭代過程，我們還綜合並討論了一系列設計意涵，以用於設計未來的 AI 增強型可視化系統，從而更好地協助專家在多模式健康感測數據中的意義建構過程。</paragraph>
+
 
 ##### **Explainable AI Methods for Multi-Omics Analysis: A Survey**
 2410.11910v1 by Ahmad Hussein, Mukesh Prasad, Ali Braytee
@@ -1080,7 +1174,7 @@ development of XAI in medical diagnostics.
 摘要：人工智慧 (AI) 系統已大幅改善皮膚科醫師對黑色素瘤的診斷準確度，而可解釋 AI (XAI) 系統進一步提升臨床醫師對 AI 驅動決策的信心與信賴。儘管有這些進展，對於皮膚科醫師如何使用 AI 和 XAI 工具，仍有客觀評估的迫切需求。在這項研究中，76 位皮膚科醫師參與了一項讀者研究，使用 XAI 系統診斷 16 張黑色素瘤和痣的皮膚鏡影像，該系統提供詳細的領域特定說明。採用眼球追蹤技術來評估他們的互動。將診斷表現與缺乏說明功能的標準 AI 系統進行比較。我們的研究結果顯示，XAI 系統相較於標準 AI，將平衡診斷準確度提升了 2.8 個百分點。此外，與 AI/XAI 系統的診斷分歧和複雜的病灶與認知負擔升高有關，這由增加的眼睛注視次數所證實。這些見解對臨床實務、視覺任務 AI 工具的設計和醫學診斷中 XAI 的廣泛發展具有重大意義。
 
 ##### **Explainable AI for Autism Diagnosis: Identifying Critical Brain Regions Using fMRI Data**
-2409.15374v1 by Suryansh Vidya, Kush Gupta, Amir Aly, Andy Wills, Emmanuel Ifeachor, Rohit Shankar
+2409.15374v2 by Suryansh Vidya, Kush Gupta, Amir Aly, Andy Wills, Emmanuel Ifeachor, Rohit Shankar
 
 Early diagnosis and intervention for Autism Spectrum Disorder (ASD) has been
 shown to significantly improve the quality of life of autistic individuals.
@@ -1105,7 +1199,8 @@ the dataset. This study advances the field of explainable AI in medical imaging
 by providing a robust and interpretable model, thereby contributing to a future
 with objective and reliable ASD diagnostics.
 
-摘要：自閉症譜系障礙 (ASD) 的早期診斷和介入已被證實能顯著改善自閉症患者的生活品質。然而，ASD 的診斷方法依賴於基於臨床表現的評估，容易產生偏見，且可能難以做出早期診斷。有必要找出 ASD 的客觀生物標記，以幫助提高診斷準確性。深度學習 (DL) 在從醫學影像資料診斷疾病和病症方面取得傑出的表現。已經針對建立使用靜態功能性磁振造影 (fMRI) 資料對 ASD 進行分類的模型進行廣泛的研究。然而，現有的模型缺乏可解釋性。本研究旨在透過建立一個不僅能準確分類 ASD，還能提供可解釋見解說明其運作原理的 DL 模型，來改善 ASD 診斷的準確性和可解釋性。所使用的資料集是自閉症大腦影像資料交換 (ABIDE) 的預處理版本，包含 884 個樣本。我們的研究結果顯示，該模型能準確分類 ASD，並強調 ASD 與典型對照組之間存在差異的關鍵腦區，對於 ASD 的早期診斷和神經基礎的理解具有潛在的意義。這些研究結果已由使用不同資料集和方式的文獻研究驗證，證實該模型實際上學習了 ASD 的特徵，而不僅僅是資料集。本研究透過提供一個強健且可解釋的模型，推動了醫學影像中可解釋 AI 的領域，從而為未來提供客觀且可靠的 ASD 診斷做出貢獻。
+摘要：<paragraph>自閉症譜系障礙 (ASD) 的早期診斷和干預已被證明可以顯著提高自閉症患者的生活品質。然而，ASD 的診斷方法依賴於基於臨床表現的評估，這些評估容易產生偏差，並且難以早期診斷。因此，需要客觀的 ASD 生物標記物來幫助提高診斷準確性。深度學習 (DL) 在根據醫學影像數據診斷疾病和病症方面取得了傑出的成就。人們對使用靜息態功能性磁共振成像 (fMRI) 數據創建分類 ASD 模型進行了廣泛的研究。然而，現有模型缺乏可解釋性。本研究旨在通過創建一個 DL 模型來提高 ASD 診斷的準確性和可解釋性，該模型不僅可以準確地對 ASD 進行分類，還可以提供對其工作原理的可解釋見解。所使用的數據集是自閉症腦成像數據交換 (ABIDE) 的預處理版本，包含 884 個樣本。我們的研究結果顯示了一個可以準確分類 ASD 的模型，並突出了 ASD 與典型對照組之間存在差異的關鍵大腦區域，這對早期診斷和理解 ASD 的神經基礎具有潛在意義。這些發現得到了文獻中使用不同數據集和模式的研究的驗證，證實了該模型實際上學習的是 ASD 的特徵，而不僅僅是數據集的特徵。這項研究通過提供一個強大且可解釋的模型，推動了醫學影像領域可解釋 AI 的發展，從而為客觀可靠的 ASD 診斷的未來做出貢獻。</paragraph>
+
 
 ##### **Improving Prototypical Parts Abstraction for Case-Based Reasoning Explanations Designed for the Kidney Stone Type Recognition**
 2409.12883v1 by Daniel Flores-Araiza, Francisco Lopez-Tiro, Clément Larose, Salvador Hinojosa, Andres Mendez-Vazquez, Miguel Gonzalez-Mendoza, Gilberto Ochoa-Ruiz, Christian Daul
@@ -2048,27 +2143,26 @@ https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Featur
 摘要：語音情緒辨識 (SER) 由於其在心理健康、教育和人機互動等多個應用領域而備受關注。然而，SER 系統的準確性受到高維特徵集的阻礙，這些特徵集可能包含不相關和冗餘的資訊。為了克服這個挑戰，本研究提出了一種用於 SER 的迭代特徵提升方法，該方法強調特徵相關性和可解釋性，以增強機器學習模型的效能。我們的做法涉及仔細的特徵選擇和分析，以建立高效的 SER 系統。為了透過模型可解釋性解決我們的核心問題，我們採用了具有 Shapley 值的特徵評估迴圈，以反覆改善特徵集。這個過程在模型效能和透明度之間取得平衡，這使得我們能夠全面了解模型的預測。所提出的方法提供了多項優點，包括識別和移除不相關和冗餘的特徵，從而建立更有效的模型。此外，它促進了可解釋性，有助於理解模型的預測以及識別情緒決定的關鍵特徵。所提出的方法的有效性已在多倫多情緒語音集 (TESS)、柏林情緒語音資料庫 (EMO-DB)、賴爾森音訊視覺情緒語音和歌曲資料庫 (RAVDESS) 和薩里音訊視覺表達情緒 (SAVEE) 資料集的 SER 基準上得到驗證，其效能優於現有方法。據我們所知，這是第一個將模型可解釋性納入 SER 架構的研究。本文的原始碼可透過此連結公開取得：https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition。
 
 ##### **The Explanation Necessity for Healthcare AI**
-2406.00216v1 by Michail Mamalakis, Héloïse de Vareilles, Graham Murray, Pietro Lio, John Suckling
+2406.00216v2 by Michail Mamalakis, Héloïse de Vareilles, Graham Murray, Pietro Lio, John Suckling
 
-Explainability is often critical to the acceptable implementation of
-artificial intelligence (AI). Nowhere is this more important than healthcare
-where decision-making directly impacts patients and trust in AI systems is
-essential. This trust is often built on the explanations and interpretations
-the AI provides. Despite significant advancements in AI interpretability, there
-remains the need for clear guidelines on when and to what extent explanations
-are necessary in the medical context. We propose a novel categorization system
-with four distinct classes of explanation necessity, guiding the level of
-explanation required: patient or sample (local) level, cohort or dataset
-(global) level, or both levels. We introduce a mathematical formulation that
-distinguishes these categories and offers a practical framework for researchers
-to determine the necessity and depth of explanations required in medical AI
-applications. Three key factors are considered: the robustness of the
-evaluation protocol, the variability of expert observations, and the
-representation dimensionality of the application. In this perspective, we
-address the question: When does an AI medical application need to be explained,
-and at what level of detail?
+Explainability is a critical factor in enhancing the trustworthiness and
+acceptance of artificial intelligence (AI) in healthcare, where decisions
+directly impact patient outcomes. Despite advancements in AI interpretability,
+clear guidelines on when and to what extent explanations are required in
+medical applications remain lacking. We propose a novel categorization system
+comprising four classes of explanation necessity (self-explainable,
+semi-explainable, non-explainable, and new-patterns discovery), guiding the
+required level of explanation; whether local (patient or sample level), global
+(cohort or dataset level), or both. To support this system, we introduce a
+mathematical formulation that incorporates three key factors: (i) robustness of
+the evaluation protocol, (ii) variability of expert observations, and (iii)
+representation dimensionality of the application. This framework provides a
+practical tool for researchers to determine the appropriate depth of
+explainability needed, addressing the critical question: When does an AI
+medical application need to be explained, and at what level of detail?
 
-摘要：可解释性通常对于人工智能 (AI) 的可接受实施至关重要。在医疗保健领域，这一点尤为重要，因为决策直接影响患者，并且对 AI 系统的信任至关重要。这种信任通常建立在 AI 提供的解释和诠释之上。尽管 AI 可解释性取得了重大进展，但仍然需要明确的指导方针，说明在医疗环境中何时以及在多大程度上需要解释。我们提出了一种新颖的分类系统，该系统具有四种不同的解释必要性类别，指导所需的解释级别：患者或样本（局部）级别、队列或数据集（全局）级别，或两个级别。我们引入了一个数学公式，该公式区分了这些类别，并为研究人员提供了一个实用框架，以确定医疗 AI 应用中所需的解释的必要性和深度。考虑了三个关键因素：评估协议的稳健性、专家观察的可变性以及应用程序的表示维数。从这个角度来看，我们解决了这个问题：AI 医疗应用何时需要解释，以及需要解释到何种程度？
+摘要：<paragraph>可解釋性是增強醫療保健領域中人工智慧 (AI) 信任度和接受度的關鍵因素，因為在醫療保健中，決策會直接影響病人的結果。儘管 AI 可解釋性有所進展，但在醫療應用中何時以及在何種程度上需要解釋的明確指南仍然缺乏。我們提出了一個新的分類系統，包含四類解釋必要性（自解釋、半解釋、不可解釋和新模式發現），指導所需的解釋級別；無論是局部（患者或樣本級別）、全局（隊列或數據集級別）還是兩者兼而有之。為了支持該系統，我們引入了一個數學公式，其中包含三個關鍵因素：(i) 評估方案的穩健性，(ii) 專家觀察的變異性，以及 (iii) 應用程序的表示維度。此框架為研究人員提供了一個實用的工具，用於確定所需的合適的可解釋性深度，解決了這個關鍵問題：AI 醫療應用何時需要解釋，以及需要何種詳細程度？</paragraph>
+
 
 ##### **Interdisciplinary Expertise to Advance Equitable Explainable AI**
 2406.18563v1 by Chloe R. Bennett, Heather Cole-Lewis, Stephanie Farquhar, Naama Haamel, Boris Babenko, Oran Lang, Mat Fleck, Ilana Traynis, Charles Lau, Ivor Horn, Courtney Lyles
@@ -2590,79 +2684,4 @@ to combine multimodal data and improve AI explanations to meet the needs of
 clinical practice.
 
 摘要：深度學習 (DL) 用於從乳房攝影術影像診斷乳癌的模型通常以「黑盒子」方式運作，這使得醫療保健專業人員難以信任和理解其決策過程。本研究提出一個整合架構，結合卷積神經網路 (CNN) 和可解釋人工智慧 (XAI)，以使用 CBIS-DDSM 資料集增強乳癌的診斷。方法包含一個精細的資料前處理管線和進階資料擴充技術，以對抗資料集限制，並採用預先訓練的網路（例如 VGG-16、Inception-V3 和 ResNet）進行遷移學習。我們研究的重點是評估 XAI 在解釋模型預測中的有效性，重點利用豪斯多夫測度量化評估 AI 生成的解釋和專家註解之間的一致性。這種方法對於 XAI 在促進 AI 輔助診斷中的可信度和倫理公平性至關重要。我們研究的發現說明了 CNN 和 XAI 在推進乳癌診斷方法中的有效協作，從而促進了先進 AI 技術在臨床環境中的更順暢整合。透過增強 AI 驅動決策的可解釋性，這項工作為 AI 系統和醫療從業人員之間的改善協作奠定了基礎，最終豐富了患者照護。此外，我們研究的影響遠遠超出了目前的技術。它鼓勵進一步研究如何結合多模式資料並改善 AI 解釋，以滿足臨床實務的需求。
-
-##### **Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**
-2404.00320v2 by Xingrui Gu, Zhixuan Wang, Irisa Jin, Zekun Wu
-
-This research presents a novel multimodal data fusion methodology for pain
-behavior recognition, integrating statistical correlation analysis with
-human-centered insights. Our approach introduces two key innovations: 1)
-integrating data-driven statistical relevance weights into the fusion strategy
-to effectively utilize complementary information from heterogeneous modalities,
-and 2) incorporating human-centric movement characteristics into multimodal
-representation learning for detailed modeling of pain behaviors. Validated
-across various deep learning architectures, our method demonstrates superior
-performance and broad applicability. We propose a customizable framework that
-aligns each modality with a suitable classifier based on statistical
-significance, advancing personalized and effective multimodal fusion.
-Furthermore, our methodology provides explainable analysis of multimodal data,
-contributing to interpretable and explainable AI in healthcare. By highlighting
-the importance of data diversity and modality-specific representations, we
-enhance traditional fusion techniques and set new standards for recognizing
-complex pain behaviors. Our findings have significant implications for
-promoting patient-centered healthcare interventions and supporting explainable
-clinical decision-making.
-
-摘要：本研究提出了一種創新的多模態數據融合方法，用於疼痛行為識別，將統計相關分析與以人為中心的見解相結合。我們的做法引入了兩項關鍵創新：1) 將數據驅動的統計相關權重整合到融合策略中，以有效利用來自異質模態的補充信息，以及 2) 將以人為中心的運動特徵納入多模態表示學習中，以詳細建模疼痛行為。我們的模型在各種深度學習架構中得到驗證，展示了卓越的性能和廣泛的適用性。我們提出了一個可自定義的框架，根據統計顯著性將每個模態與合適的分類器對齊，推進個性化和有效的多模態融合。此外，我們的模型提供對多模態數據的可解釋分析，有助於醫療保健中的可解釋和可解釋 AI。通過強調數據多樣性和模態特定表示的重要性，我們增強了傳統的融合技術，並為識別複雜的疼痛行為設定了新的標準。我們的發現對促進以患者為中心的醫療保健干預和支持可解釋的臨床決策制定具有重要意義。
-
-##### **Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**
-2403.17873v1 by Andrea Ferrario, Alberto Termine, Alessandro Facchini
-
-Human-centered explainable AI (HCXAI) advocates for the integration of social
-aspects into AI explanations. Central to the HCXAI discourse is the Social
-Transparency (ST) framework, which aims to make the socio-organizational
-context of AI systems accessible to their users. In this work, we suggest
-extending the ST framework to address the risks of social misattributions in
-Large Language Models (LLMs), particularly in sensitive areas like mental
-health. In fact LLMs, which are remarkably capable of simulating roles and
-personas, may lead to mismatches between designers' intentions and users'
-perceptions of social attributes, risking to promote emotional manipulation and
-dangerous behaviors, cases of epistemic injustice, and unwarranted trust. To
-address these issues, we propose enhancing the ST framework with a fifth
-'W-question' to clarify the specific social attributions assigned to LLMs by
-its designers and users. This addition aims to bridge the gap between LLM
-capabilities and user perceptions, promoting the ethically responsible
-development and use of LLM-based technology.
-
-摘要：以人为本的可解释 AI (HCXAI) 倡导将社会层面整合到 AI 解释中。HCXAI 话语的核心是社会透明度 (ST) 框架，其目标是让 AI 系统的社会组织背景对用户来说是可理解的。在这项工作中，我们建议扩展 ST 框架以解决大型语言模型 (LLM) 中社会错误归因的风险，尤其是在心理健康等敏感领域。事实上，LLM 能够出色地模拟角色和人格，这可能导致设计者的意图和用户对社会属性的认知之间出现错配，从而有风险促进情绪操纵和危险行为、认知不公正和不合理的信任。为了解决这些问题，我们建议用第五个“W 问题”来增强 ST 框架，以明确设计者和用户赋予 LLM 的具体社会属性。此补充旨在弥合 LLM 能力和用户认知之间的差距，促进基于 LLM 的技术在道德上负责任地开发和使用。
-
-##### **Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**
-2403.18871v1 by Han Yuan, Chuan Hong, Pengtao Jiang, Gangming Zhao, Nguyen Tuan Anh Tran, Xinxing Xu, Yet Yen Yan, Nan Liu
-
-Background: Pneumothorax is an acute thoracic disease caused by abnormal air
-collection between the lungs and chest wall. To address the opaqueness often
-associated with deep learning (DL) models, explainable artificial intelligence
-(XAI) methods have been introduced to outline regions related to pneumothorax
-diagnoses made by DL models. However, these explanations sometimes diverge from
-actual lesion areas, highlighting the need for further improvement. Method: We
-propose a template-guided approach to incorporate the clinical knowledge of
-pneumothorax into model explanations generated by XAI methods, thereby
-enhancing the quality of these explanations. Utilizing one lesion delineation
-created by radiologists, our approach first generates a template that
-represents potential areas of pneumothorax occurrence. This template is then
-superimposed on model explanations to filter out extraneous explanations that
-fall outside the template's boundaries. To validate its efficacy, we carried
-out a comparative analysis of three XAI methods with and without our template
-guidance when explaining two DL models in two real-world datasets. Results: The
-proposed approach consistently improved baseline XAI methods across twelve
-benchmark scenarios built on three XAI methods, two DL models, and two
-datasets. The average incremental percentages, calculated by the performance
-improvements over the baseline performance, were 97.8% in Intersection over
-Union (IoU) and 94.1% in Dice Similarity Coefficient (DSC) when comparing model
-explanations and ground-truth lesion areas. Conclusions: In the context of
-pneumothorax diagnoses, we proposed a template-guided approach for improving AI
-explanations. We anticipate that our template guidance will forge a fresh
-approach to elucidating AI models by integrating clinical domain expertise.
-
-摘要：<paragraph>背景：氣胸是一種因肺部與胸壁之間異常集氣所引起的急性胸腔疾病。為了解決深度學習（DL）模型經常伴隨的不透明性，可解釋人工智慧（XAI）方法已被引入，用於概述與 DL 模型做出的氣胸診斷相關的區域。然而，這些解釋有時會與實際病灶區域有所出入，突顯出進一步改進的必要性。方法：我們提出了一種模板引導式方法，將氣胸的臨床知識納入 XAI 方法產生的模型解釋中，從而提升這些解釋的品質。利用放射科醫師建立的病灶描繪，我們的做法首先產生一個模板，用於表示氣胸可能發生的區域。然後將此模板疊加在模型解釋上，以篩選出超出模板邊界的無關解釋。為了驗證其效力，我們對三種 XAI 方法進行了比較分析，在兩個真實世界資料集中解釋兩個 DL 模型時，分別採用和不採用我們的模板引導。結果：所提出的方法在建立於三種 XAI 方法、兩個 DL 模型和兩個資料集的十二種基準情境中，始終改善了基準 XAI 方法。在比較模型解釋和真實病灶區域時，透過基準效能的效能改進計算出的平均增量百分比為交集比（IoU）的 97.8% 和骰子相似性係數（DSC）的 94.1%。結論：在氣胸診斷的背景下，我們提出了一種模板引導式方法，用於改善 AI 解釋。我們預期我們的模板引導將透過整合臨床領域專業知識，為闡明 AI 模型建立一種新方法。</paragraph>
 

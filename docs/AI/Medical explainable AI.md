@@ -10,7 +10,7 @@
 |**2025-02-19**|**Towards a perturbation-based explanation for medical AI as differentiable programs**|Takeshi Abe et.al.|[2502.14001v1](http://arxiv.org/abs/2502.14001v1)|null|
 |**2025-02-14**|**3D ReX: Causal Explanations in 3D Neuroimaging Classification**|Melane Navaratnarajah et.al.|[2502.12181v2](http://arxiv.org/abs/2502.12181v2)|null|
 |**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
-|**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v2](http://arxiv.org/abs/2502.06124v2)|[link](https://github.com/ipolharvard/ethos-ares)|
+|**2025-02-10**|**Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**|Pawel Renc et.al.|[2502.06124v3](http://arxiv.org/abs/2502.06124v3)|[link](https://github.com/ipolharvard/ethos-ares)|
 |**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|[link](https://github.com/frederikpahde/medical-ai-safety)|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094v1](http://arxiv.org/abs/2501.11094v1)|null|
@@ -307,9 +307,9 @@ equivalent rewritings based on the input concept.
 摘要：<paragraph>這篇論文提出了一個完整的可解釋系統，它可以解釋一組資料，抽象出基礎特徵，並以選擇的自然語言描述它們。系統依賴兩個關鍵階段：(i) 從資料中識別新興屬性，並將它們轉換為抽象概念，以及 (ii) 將這些概念轉換為自然語言。儘管大型語言模型展示了令人印象深刻的自然語言生成能力，但它們的統計性質和內部機制的複雜性仍然迫使我們將這些技術用作黑盒子，放棄可信度。開發一個可解釋的資料解釋管道將有助於促進在安全關鍵環境中使用它，例如處理醫療資訊，並允許非專家和視障人士存取敘述資訊。為此，我們相信知識表示和自動推理研究領域可以提出一個有效的替代方案。在擴展解決第一階段 (i) 的先前研究的基礎上，我們專注於第二階段，稱為 Concept2Text。由於具有可解釋性，資料翻譯很容易透過基於邏輯的規則建模，再次強調宣告式程式設計在實現 AI 可解釋性中的作用。本文探討了一個基於 Prolog/CLP 的重寫系統，以解釋概念，這些概念以類別和關係的形式表達，再加上從通用本体衍生的常識，產生自然語言文字。它的主要特點包括階層樹重寫、模組化多語言生成、支援語義、語法和詞彙層面的等效變體，以及一個透明的基於規則的系統。我們概述了架構，並透過一些範例展示了它的靈活性，這些範例能夠根據輸入概念生成許多不同的等效重寫。</paragraph>
 
 ##### **Foundation Model of Electronic Medical Records for Adaptive Risk Estimation**
-2502.06124v2 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
+2502.06124v3 by Pawel Renc, Michal K. Grzeszczyk, Nassim Oufattole, Deirdre Goode, Yugang Jia, Szymon Bieganski, Matthew B. A. McDermott, Jaroslaw Was, Anthony E. Samir, Jonathan W. Cunningham, David W. Bates, Arkadiusz Sitek
 
-The U.S. allocates nearly 18\% of its GDP to healthcare but experiences lower
+The U.S. allocates nearly 18% of its GDP to healthcare but experiences lower
 life expectancy and higher preventable death rates compared to other
 high-income nations. Hospitals struggle to predict critical outcomes such as
 mortality, ICU admission, and prolonged hospital stays. Traditional early
@@ -320,11 +320,11 @@ model that tokenizes patient health timelines (PHTs) from EHRs and uses
 transformer-based architectures to predict future PHTs. The Adaptive Risk
 Estimation System (ARES) leverages ETHOS to compute dynamic, personalized risk
 probabilities for clinician-defined critical events. ARES also features a
-personalized explainability module that highlights key clinical factors
+personalized explainability module highlighting key clinical factors
 influencing risk estimates. We evaluated ARES on the MIMIC-IV v2.2 dataset in
 emergency department settings, benchmarking its performance against traditional
 early warning systems and machine learning models. From 299,721 unique
-patients, 285,622 PHTs (60\% with hospital admissions) were processed,
+patients, 285,622 PHTs (60% with hospital admissions) were processed,
 comprising over 357 million tokens. ETHOS outperformed benchmark models in
 predicting hospital admissions, ICU admissions, and prolonged stays, achieving
 superior AUC scores. Its risk estimates were robust across demographic
@@ -336,7 +336,7 @@ patient-specific explainability. Its adaptability and accuracy offer a
 transformative tool for clinical decision-making, potentially improving patient
 outcomes and resource allocation.
 
-摘要：<paragraph>美國將其 GDP 的近 18% 分配給醫療保健，但與其他高收入國家相比，其預期壽命較低，可預防的死亡率較高。醫院難以預測關鍵結果，例如死亡率、加護病房入院率和住院時間延長。像 NEWS 和 MEWS 這樣的傳統早期預警系統依賴於靜態變量和固定閾值，限制了它們的適應性、準確性和個性化。我們開發了增強型健康結果模擬轉換器 (ETHOS)，這是一種 AI 模型，它可以將來自 EHR 的患者健康時間線 (PHT) 標記化，並使用基於轉換器的架構來預測未來的 PHT。自適應風險評估系統 (ARES) 利用 ETHOS 計算臨床醫生定義的關鍵事件的動態、個性化風險概率。ARES 還具備個性化可解釋性模塊，可突出顯示影響風險評估的關鍵臨床因素。我們在急診科環境中使用 MIMIC-IV v2.2 數據集評估了 ARES，並將其性能與傳統的早期預警系統和機器學習模型進行了基準測試。從 299,721 名獨特患者中，處理了 285,622 個 PHT（60% 為住院），包含超過 3.57 億個標記。ETHOS 在預測住院、加護病房入院和住院時間延長方面優於基準模型，實現了卓越的 AUC 分數。其風險評估在不同人口統計亞組中表現穩健，校準曲線證實了模型的可靠性。可解釋性模塊提供了對患者特定風險因素的寶貴見解。ARES 由 ETHOS 提供支持，通過提供具有患者特定可解釋性的動態、實時、個性化風險評估，推進了預測性醫療保健 AI。它的適應性和準確性為臨床決策提供了一種變革性工具，有可能改善患者的治療結果和資源分配。</paragraph>
+摘要：美國將其 GDP 的近 18% 分配給醫療保健，但與其他高收入國家相比，其預期壽命較低，可預防的死亡率較高。醫院難以預測關鍵結果，例如死亡率、加護病房入院率和住院時間延長。像 NEWS 和 MEWS 這樣的傳統早期預警系統依賴於靜態變量和固定閾值，限制了它們的適應性、準確性和個性化。我們開發了用於健康結果模擬的增強型 Transformer (ETHOS)，這是一種 AI 模型，它可以將來自 EHR 的患者健康時間線 (PHT) 標記化，並使用基於 Transformer 的架構來預測未來的 PHT。自適應風險評估系統 (ARES) 利用 ETHOS 計算臨床醫生定義的關鍵事件的動態、個性化風險概率。ARES 還具備個性化可解釋性模塊，突出顯示影響風險評估的關鍵臨床因素。我們在急診科環境中使用 MIMIC-IV v2.2 數據集評估了 ARES，並將其性能與傳統的早期預警系統和機器學習模型進行了比較。從 299,721 名獨特患者中，處理了 285,622 個 PHT（60% 為住院患者），包含超過 3.57 億個標記。ETHOS 在預測住院、加護病房入院和住院時間延長方面優於基準模型，實現了卓越的 AUC 分數。其風險評估在不同人口統計亞組中表現穩健，校準曲線證實了模型的可靠性。可解釋性模塊提供了對患者特定風險因素的寶貴見解。ARES 由 ETHOS 提供支持，通過提供具有患者特定可解釋性的動態、實時、個性化風險評估，推進了預測性醫療保健 AI 的發展。其適應性和準確性為臨床決策提供了一種變革性工具，有可能改善患者的治療結果和資源分配。
 
 
 ##### **An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**

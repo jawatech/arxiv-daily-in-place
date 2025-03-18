@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-18 09:09:44 Asia/Taipei
+ Automated deployment @ 2025-03-18 20:30:22 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-16**|**A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study**|Shishir Rao et.al.|[2503.12317v1](http://arxiv.org/abs/2503.12317v1)|null|
 |**2025-02-26**|**Towards an AI co-scientist**|Juraj Gottweis et.al.|[2502.18864v1](http://arxiv.org/abs/2502.18864v1)|null|
 |**2025-02-26**|**Cross-Modality Investigation on WESAD Stress Classification**|Eric Oliver et.al.|[2502.18733v1](http://arxiv.org/abs/2502.18733v1)|null|
 |**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959v1](http://arxiv.org/abs/2502.15959v1)|[link](https://github.com/aipmlab/kd-fmv)|
@@ -107,9 +108,34 @@
 |**2024-04-14**|**Ethical Framework for Responsible Foundational Models in Medical Imaging**|Abhijit Das et.al.|[2406.11868v1](http://arxiv.org/abs/2406.11868v1)|null|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
-|**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892v3](http://arxiv.org/abs/2404.03892v3)|null|
 
 #### Abstracts
+##### **A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study**
+2503.12317v1 by Shishir Rao, Nouman Ahmed, Gholamreza Salimi-Khorshidi, Christopher Yau, Huimin Su, Nathalie Conrad, Folkert W Asselbergs, Mark Woodward, Rod Jackson, John GF Cleland, Kazem Rahimi
+
+We developed and validated TRisk, a Transformer-based AI model predicting
+36-month mortality in heart failure patients by analysing temporal patient
+journeys from UK electronic health records (EHR). Our study included 403,534
+heart failure patients (ages 40-90) from 1,418 English general practices, with
+1,063 practices for model derivation and 355 for external validation. TRisk was
+compared against the MAGGIC-EHR model across various patient subgroups. With
+median follow-up of 9 months, TRisk achieved a concordance index of 0.845 (95%
+confidence interval: [0.841, 0.849]), significantly outperforming MAGGIC-EHR's
+0.728 (0.723, 0.733) for predicting 36-month all-cause mortality. TRisk showed
+more consistent performance across sex, age, and baseline characteristics,
+suggesting less bias. We successfully adapted TRisk to US hospital data through
+transfer learning, achieving a C-index of 0.802 (0.789, 0.816) with 21,767
+patients. Explainability analyses revealed TRisk captured established risk
+factors while identifying underappreciated predictors like cancers and hepatic
+failure that were important across both cohorts. Notably, cancers maintained
+strong prognostic value even a decade after diagnosis. TRisk demonstrated
+well-calibrated mortality prediction across both healthcare systems. Our
+findings highlight the value of tracking longitudinal health profiles and
+revealed risk factors not included in previous expert-driven models.
+
+摘要：<paragraph>我們開發並驗證了 TRisk，這是一個基於 Transformer 的 AI 模型，可以透過分析英國電子健康記錄 (EHR) 中患者的時序就醫歷程，來預測心臟衰竭患者 36 個月的死亡率。我們的研究納入了來自 1,418 家英國全科診所的 403,534 名心臟衰竭患者（年齡介於 40 至 90 歲），其中 1,063 家診所用於模型推導，355 家用於外部驗證。我們將 TRisk 與 MAGGIC-EHR 模型在不同的患者亞組中進行了比較。在中位數為 9 個月的追蹤期後，TRisk 的一致性指數達到 0.845（95% 信賴區間：[0.841, 0.849]），顯著優於 MAGGIC-EHR 在預測 36 個月全因死亡率的 0.728（0.723, 0.733）。TRisk 在性別、年齡和基線特徵方面表現更為一致，表明偏差更小。我們透過遷移學習成功地將 TRisk 應用於美國的醫院數據，在 21,767 名患者中達到 0.802（0.789, 0.816）的一致性指數。可解釋性分析顯示，TRisk 不僅涵蓋了已知的風險因素，還識別出了一些未被充分重視的預測指標，例如癌症和肝衰竭，這些指標在兩個群組中都很重要。值得注意的是，即使在確診十年後，癌症仍然具有很強的預後價值。TRisk 在兩個醫療保健系統中都展現了良好的校準死亡率預測。我們的研究結果凸顯了追蹤縱向健康狀況的價值，並揭示了先前專家驅動模型中未包含的風險因素。</paragraph>
+
+
 ##### **Towards an AI co-scientist**
 2502.18864v1 by Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic, Artiom Myaskovsky, Felix Weissenberger, Keran Rong, Ryutaro Tanno, Khaled Saab, Dan Popovici, Jacob Blum, Fan Zhang, Katherine Chou, Avinatan Hassidim, Burak Gokturk, Amin Vahdat, Pushmeet Kohli, Yossi Matias, Andrew Carroll, Kavita Kulkarni, Nenad Tomasev, Yuan Guan, Vikram Dhillon, Eeshit Dhaval Vaishnav, Byron Lee, Tiago R D Costa, José R Penadés, Gary Peltz, Yunhan Xu, Annalisa Pawlosky, Alan Karthikesalingam, Vivek Natarajan
 
@@ -2661,33 +2687,4 @@ After final evaluation, this study found that XGBoost achieved the best model
 accuracy, which is 97%.
 
 摘要：<paragraph>近年來，乳癌的盛行率迅速增加，使其成為全球主要的死亡原因之一。在所有癌症中，乳癌迄今為止是最常見的。手動診斷此疾病需要大量的時間和專業知識。由於乳癌的檢測過程耗時，因此透過建立機器學習模型來預測，有助於防止其進一步擴散。機器學習和可解釋 AI 在分類中至關重要，因為它們不僅可以提供準確的預測，還可以深入了解模型如何做出決策，有助於理解和信賴分類結果。在此研究中，我們評估並比較了五種不同的機器學習方法的分類準確度、精確度、召回率和 F1 分數，使用了一個主要的資料集（達卡醫學院醫院的 500 名患者）。五種不同的監督式機器學習技術，包括決策樹、隨機森林、邏輯迴歸、朴素貝氏和 XGBoost，已用於在我們的資料集上取得最佳結果。此外，本研究將 SHAP 分析應用於 XGBoost 模型，以解釋模型的預測並了解每個特徵對模型輸出的影響。我們比較了幾種演算法對資料進行分類的準確度，並與該領域的其他文獻進行對比。在最後評估後，本研究發現 XGBoost 達到了最佳的模型準確度，為 97%。</paragraph>
-
-##### **Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**
-2404.03892v3 by Maryam Ahmed, Tooba Bibi, Rizwan Ahmed Khan, Sidra Nasir
-
-The Deep learning (DL) models for diagnosing breast cancer from mammographic
-images often operate as "black boxes", making it difficult for healthcare
-professionals to trust and understand their decision-making processes. The
-study presents an integrated framework combining Convolutional Neural Networks
-(CNNs) and Explainable Artificial Intelligence (XAI) for the enhanced diagnosis
-of breast cancer using the CBIS-DDSM dataset. The methodology encompasses an
-elaborate data preprocessing pipeline and advanced data augmentation techniques
-to counteract dataset limitations and transfer learning using pre-trained
-networks such as VGG-16, Inception-V3 and ResNet was employed. A focal point of
-our study is the evaluation of XAI's effectiveness in interpreting model
-predictions, highlighted by utilizing the Hausdorff measure to assess the
-alignment between AI-generated explanations and expert annotations
-quantitatively. This approach is critical for XAI in promoting trustworthiness
-and ethical fairness in AI-assisted diagnostics. The findings from our research
-illustrate the effective collaboration between CNNs and XAI in advancing
-diagnostic methods for breast cancer, thereby facilitating a more seamless
-integration of advanced AI technologies within clinical settings. By enhancing
-the interpretability of AI driven decisions, this work lays the groundwork for
-improved collaboration between AI systems and medical practitioners, ultimately
-enriching patient care. Furthermore, the implications of our research extended
-well beyond the current methodologies. It encourages further research into how
-to combine multimodal data and improve AI explanations to meet the needs of
-clinical practice.
-
-摘要：深度學習 (DL) 用於從乳房攝影術影像診斷乳癌的模型通常以「黑盒子」方式運作，這使得醫療保健專業人員難以信任和理解其決策過程。本研究提出一個整合架構，結合卷積神經網路 (CNN) 和可解釋人工智慧 (XAI)，以使用 CBIS-DDSM 資料集增強乳癌的診斷。方法包含一個精細的資料前處理管線和進階資料擴充技術，以對抗資料集限制，並採用預先訓練的網路（例如 VGG-16、Inception-V3 和 ResNet）進行遷移學習。我們研究的重點是評估 XAI 在解釋模型預測中的有效性，重點利用豪斯多夫測度量化評估 AI 生成的解釋和專家註解之間的一致性。這種方法對於 XAI 在促進 AI 輔助診斷中的可信度和倫理公平性至關重要。我們研究的發現說明了 CNN 和 XAI 在推進乳癌診斷方法中的有效協作，從而促進了先進 AI 技術在臨床環境中的更順暢整合。透過增強 AI 驅動決策的可解釋性，這項工作為 AI 系統和醫療從業人員之間的改善協作奠定了基礎，最終豐富了患者照護。此外，我們研究的影響遠遠超出了目前的技術。它鼓勵進一步研究如何結合多模式資料並改善 AI 解釋，以滿足臨床實務的需求。
 

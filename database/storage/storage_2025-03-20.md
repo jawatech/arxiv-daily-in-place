@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-20 09:09:37 Asia/Taipei
+ Automated deployment @ 2025-03-20 20:29:27 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**SpecReX: Explainable AI for Raman Spectroscopy**|Nathan Blake et.al.|[2503.14567v1](http://arxiv.org/abs/2503.14567v1)|null|
 |**2025-03-16**|**A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study**|Shishir Rao et.al.|[2503.12317v1](http://arxiv.org/abs/2503.12317v1)|null|
 |**2025-02-26**|**Towards an AI co-scientist**|Juraj Gottweis et.al.|[2502.18864v1](http://arxiv.org/abs/2502.18864v1)|null|
 |**2025-02-26**|**Cross-Modality Investigation on WESAD Stress Classification**|Eric Oliver et.al.|[2502.18733v1](http://arxiv.org/abs/2502.18733v1)|null|
@@ -107,9 +108,33 @@
 |**2024-04-15**|**Hybrid Intelligence for Digital Humanities**|Victor de Boer et.al.|[2406.15374v1](http://arxiv.org/abs/2406.15374v1)|null|
 |**2024-04-14**|**Ethical Framework for Responsible Foundational Models in Medical Imaging**|Abhijit Das et.al.|[2406.11868v1](http://arxiv.org/abs/2406.11868v1)|null|
 |**2024-04-09**|**Advancements in Radiomics and Artificial Intelligence for Thyroid Cancer Diagnosis**|Milad Yousefi et.al.|[2404.07239v1](http://arxiv.org/abs/2404.07239v1)|null|
-|**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686v1](http://arxiv.org/abs/2404.04686v1)|null|
 
 #### Abstracts
+##### **SpecReX: Explainable AI for Raman Spectroscopy**
+2503.14567v1 by Nathan Blake, David A. Kelly, Akchunya Chanchal, Sarah Kapllani-Mucaj, Geraint Thomas, Hana Chockler
+
+Raman spectroscopy is becoming more common for medical diagnostics with deep
+learning models being increasingly used to leverage its full potential.
+However, the opaque nature of such models and the sensitivity of medical
+diagnosis together with regulatory requirements necessitate the need for
+explainable AI tools. We introduce SpecReX, specifically adapted to explaining
+Raman spectra. SpecReX uses the theory of actual causality to rank causal
+responsibility in a spectrum, quantified by iteratively refining mutated
+versions of the spectrum and testing if it retains the original classification.
+The explanations provided by SpecReX take the form of a responsibility map,
+highlighting spectral regions most responsible for the model to make a correct
+classification. To assess the validity of SpecReX, we create increasingly
+complex simulated spectra, in which a "ground truth" signal is seeded, to train
+a classifier. We then obtain SpecReX explanations and compare the results with
+another explainability tool. By using simulated spectra we establish that
+SpecReX localizes to the known differences between classes, under a number of
+conditions. This provides a foundation on which we can find the spectral
+features which differentiate disease classes. This is an important first step
+in proving the validity of SpecReX.
+
+摘要：<paragraph>拉曼光譜學在醫療診斷中越來越普遍，深度學習模型也越來越多地被用於發揮其全部潛力。然而，由於此類模型的不透明性以及醫療診斷的敏感性，加上法規要求，因此需要可解釋的人工智慧工具。我們推出了專門用於解釋拉曼光譜的 SpecReX。SpecReX 使用實際因果關係理論對光譜中的因果責任進行排序，透過迭代優化光譜的突變版本並測試其是否保留原始分類來量化。SpecReX 提供的解釋採用責任圖的形式，突顯出光譜中對模型做出正確分類最為重要的區域。為了評估 SpecReX 的有效性，我們創建了越來越複雜的模擬光譜，其中植入了一個「真實」信號，用於訓練分類器。然後，我們獲得 SpecReX 解釋，並將結果與其他可解釋性工具進行比較。透過使用模擬光譜，我們確定 SpecReX 在許多條件下都能定位到已知的類別差異。這為我們找到區分疾病類別的光譜特徵奠定了基礎。這是證明 SpecReX 有效性的重要第一步。</paragraph>
+
+
 ##### **A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study**
 2503.12317v1 by Shishir Rao, Nouman Ahmed, Gholamreza Salimi-Khorshidi, Christopher Yau, Huimin Su, Nathalie Conrad, Folkert W Asselbergs, Mark Woodward, Rod Jackson, John GF Cleland, Kazem Rahimi
 
@@ -2661,30 +2686,4 @@ and algorithm improvement holds the potential to improve patient outcomes and
 diagnostic precision in the treatment of thyroid cancer.
 
 摘要：甲狀腺癌是一種日益嚴重的全球健康問題，需要先進的診斷方法。本篇評論探討了人工智能與放射特徵分析在甲狀腺癌診斷中的應用。在符合 PRISMA 指南的情況下，對多個資料庫進行了回顧，直到 2023 年 10 月。通過結合關鍵字，發現了一篇關於甲狀腺癌和相關主題的英文學術出版物。在移除 109 篇重複文獻後，原始搜尋共回傳 267 篇論文。在根據預先確定的標準，淘汰了 124 篇文章的摘要和標題後，選出了相關研究。在進行全面分析後，額外排除了六項研究。在納入的 28 項研究中，結合超音波 (US) 影像的放射特徵分析，證明了其在診斷甲狀腺癌方面的有效性。研究結果不一，有些研究提出了優於現狀的新策略。文獻強調了人工智能模型面臨的各種挑戰，包括可解釋性問題、資料集限制和操作員依賴性。28 項納入研究的綜合發現提到，需要標準化工作和前瞻性多中心研究來解決這些問題。此外，還確定了克服這些障礙的方法，例如可解釋人工智能技術和個人化醫療技術的進步。本篇評論重點探討了人工智能和放射特徵分析如何轉變甲狀腺癌的診斷和治療。儘管存在挑戰，但未來對多學科合作、臨床適用性驗證和演算法改進的研究，仍有潛力改善甲狀腺癌治療中的患者預後和診斷精準度。
-
-##### **Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**
-2404.04686v1 by Taminul Islam, Md. Alif Sheakh, Mst. Sazia Tahosin, Most. Hasna Hena, Shopnil Akash, Yousef A. Bin Jardan, Gezahign Fentahun Wondmie, Hiba-Allah Nafidi, Mohammed Bourhia
-
-Breast cancer has rapidly increased in prevalence in recent years, making it
-one of the leading causes of mortality worldwide. Among all cancers, it is by
-far the most common. Diagnosing this illness manually requires significant time
-and expertise. Since detecting breast cancer is a time-consuming process,
-preventing its further spread can be aided by creating machine-based forecasts.
-Machine learning and Explainable AI are crucial in classification as they not
-only provide accurate predictions but also offer insights into how the model
-arrives at its decisions, aiding in the understanding and trustworthiness of
-the classification results. In this study, we evaluate and compare the
-classification accuracy, precision, recall, and F-1 scores of five different
-machine learning methods using a primary dataset (500 patients from Dhaka
-Medical College Hospital). Five different supervised machine learning
-techniques, including decision tree, random forest, logistic regression, naive
-bayes, and XGBoost, have been used to achieve optimal results on our dataset.
-Additionally, this study applied SHAP analysis to the XGBoost model to
-interpret the model's predictions and understand the impact of each feature on
-the model's output. We compared the accuracy with which several algorithms
-classified the data, as well as contrasted with other literature in this field.
-After final evaluation, this study found that XGBoost achieved the best model
-accuracy, which is 97%.
-
-摘要：<paragraph>近年來，乳癌的盛行率迅速增加，使其成為全球主要的死亡原因之一。在所有癌症中，乳癌迄今為止是最常見的。手動診斷此疾病需要大量的時間和專業知識。由於乳癌的檢測過程耗時，因此透過建立機器學習模型來預測，有助於防止其進一步擴散。機器學習和可解釋 AI 在分類中至關重要，因為它們不僅可以提供準確的預測，還可以深入了解模型如何做出決策，有助於理解和信賴分類結果。在此研究中，我們評估並比較了五種不同的機器學習方法的分類準確度、精確度、召回率和 F1 分數，使用了一個主要的資料集（達卡醫學院醫院的 500 名患者）。五種不同的監督式機器學習技術，包括決策樹、隨機森林、邏輯迴歸、朴素貝氏和 XGBoost，已用於在我們的資料集上取得最佳結果。此外，本研究將 SHAP 分析應用於 XGBoost 模型，以解釋模型的預測並了解每個特徵對模型輸出的影響。我們比較了幾種演算法對資料進行分類的準確度，並與該領域的其他文獻進行對比。在最後評估後，本研究發現 XGBoost 達到了最佳的模型準確度，為 97%。</paragraph>
 

@@ -1,4 +1,4 @@
 # arxiv-daily
- Automated deployment @ 2025-05-31 20:29:14 Asia/Taipei
+ Automated deployment @ 2025-06-01 09:29:28 Asia/Taipei
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/jawatech/arxiv-daily-in-place/blob/main/database/storage).

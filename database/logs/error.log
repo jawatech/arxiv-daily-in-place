@@ -612,3 +612,7 @@ Traceback (most recent call last):
     f"\n{paper['paper_summary']}\n\n摘要：{paper['paper_summary_zh']}\n\n"
 
 KeyError: 'paper_summary_zh'
+2025-07-25 09:22:21.636 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.807 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.915 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.917 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)

@@ -21477,3 +21477,7 @@ KeyError: 'paper_summary_zh'
 2025-03-23 09:14:50.961 | SUCCESS  | __main__:parse:267 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
 2025-03-23 20:27:01.515 | SUCCESS  | __main__:parse:267 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
 2025-03-24 09:12:51.276 | SUCCESS  | __main__:parse:267 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
+2025-07-25 09:22:21.636 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.807 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.915 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)
+2025-07-25 09:22:21.917 | ERROR    | __main__:handle_html:116 - Expecting value: line 3 column 1 (char 2)

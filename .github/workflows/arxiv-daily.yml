@@ -19,12 +19,12 @@ jobs:
       # TODO [√] 检查工作分支及 Workflows 运行环境
       # ============================================
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       # ============================================
       # TODO [√] 创建 Python3.10+ 编译环境
       # ============================================
       - name: Set up Python 3.10
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       # ============================================
@@ -46,7 +46,7 @@ jobs:
       # TODO [√] 更新仓库数据
       # ============================================
       - name: Setup GIT user
-        uses: fregante/setup-git-user@v1
+        uses: fregante/setup-git-user@v2
 
       - name: Push done work
         run: |

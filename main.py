@@ -96,7 +96,7 @@ class ToolBox:
     @staticmethod
     def get_yaml_data() -> dict:
         with open(SERVER_PATH_TOPIC, "r", encoding="utf8") as f:
-            data = yaml.load(f, Loader=yaml.SafeLoader)
+            data = yaml.safe_load(f)
         print(data)
         return data
 
@@ -108,12 +108,13 @@ class ToolBox:
         }
         proxies = {"http": None, "https": None}
         session = requests.session()
-        response = session.get(url, headers=headers, proxies=proxies)
+        response = session.get(url, headers=headers, proxies=proxies, timeout=10)
         try:
             data_ = response.json()
             return data_
         except json.decoder.JSONDecodeError as e:
             logger.error(e)
+            return {}
 
     @staticmethod
     def translate(abstract):

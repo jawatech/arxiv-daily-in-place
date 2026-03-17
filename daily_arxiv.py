@@ -45,8 +45,8 @@ def sort_papers(papers):
 
 
 def get_yaml_data(yaml_file: str):
-    fs = open(yaml_file)
-    data = yaml.load(fs, Loader=Loader)
+    fs = open(yaml_file, encoding='utf8')
+    data = yaml.safe_load(fs)
     # print(data)
     return data
 

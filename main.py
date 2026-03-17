@@ -74,7 +74,11 @@ def checkAndCreateFolder(dirpath: str,
         print(inst)          # __str__ allows args to be printed directly,
         print('!!!failed getting '+paper_key)
 
-  payload[paper_key]["paper_summary_zh"]=translate(payload[paper_key]["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
+  try:
+    payload[paper_key]["paper_summary_zh"]=translate(payload[paper_key]["paper_summary"]).replace('法學碩士','LLM').replace('變壓器','Transformer')
+  except Exception as e:
+    logger.error(f"Translation failed for {paper_key}: {e}")
+    payload[paper_key]["paper_summary_zh"]=""
   with open(file_path, 'w') as f:
     json.dump(payload, f)                                
 
@@ -127,6 +131,7 @@ class CoroutineSpeedup:
             self,
             work_q: Queue = None,
             task_docker=None,
+            max_results: int = 20,
     ):
         # 任务容器：queue
         self.worker = work_q if work_q else Queue()
@@ -140,7 +145,7 @@ class CoroutineSpeedup:
 
         self.cache_space = []
 
-        self.max_results = 100 #30
+        self.max_results = max_results
 
     def _adaptor(self):
         while not self.worker.empty():
@@ -428,15 +433,17 @@ class Scaffold:
 
     @staticmethod
     @logger.catch()
-    def run(env: str = "development", power: int = 16):
+    def run(env: str = "development", power: int = 16, max_results: int = 20, timeout: int = 600):
         """
         Start the test sample.
 
         Usage: python daily_arxiv.py run
         or: python daily_arxiv.py run --env=production  生产环境下运行
 
-        @param power:  synergy power. The recommended value interval is [2,16].The default value is 37.
-        @param env: Optional with [development production]
+        @param power:       synergy power. The recommended value interval is [2,16].
+        @param env:         Optional with [development production]
+        @param max_results: max papers fetched per topic query (default 20)
+        @param timeout:     max total runtime in seconds (default 600 = 10 min)
         @return:
         """
         # Get tasks
@@ -447,8 +454,12 @@ class Scaffold:
                           for topic, subtopics in context.items() for subtopic, keyword in subtopics.items()]
 
         # Offload tasks
-        booster = CoroutineSpeedup(task_docker=pending_atomic)
-        booster.go(power=power)
+        booster = CoroutineSpeedup(task_docker=pending_atomic, max_results=max_results)
+        try:
+            with gevent.Timeout(timeout):
+                booster.go(power=power)
+        except gevent.Timeout:
+            logger.warning(f"Timeout of {timeout}s reached — processing collected results so far.")
 
         # Overload tasks
         template_ = booster.overload_tasks()

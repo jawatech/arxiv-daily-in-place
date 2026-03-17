@@ -14,6 +14,8 @@ jobs:
       TZ: "Asia/Taipei"
       RUN_ENV: "production" # within ['production', 'development']
       POWER: 16
+      MAX_RESULTS: 20
+      TIMEOUT: 600
     steps:
       # ============================================
       # TODO [√] 检查工作分支及 Workflows 运行环境
@@ -41,7 +43,7 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
-          python main.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }}
+          python main.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} --max_results=${{ env.MAX_RESULTS }} --timeout=${{ env.TIMEOUT }}
       # ============================================
       # TODO [√] 更新仓库数据
       # ============================================

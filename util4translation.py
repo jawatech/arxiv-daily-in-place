@@ -53,6 +53,15 @@ def get_gemini_translation(text_list, source_lang, target_lang):
         ),
     )
     time.sleep(random.random() + 1)
+
+    # Check if response has valid candidates before accessing .text
+    if not response.candidates:
+        print(f"[translate] No candidates returned. prompt_feedback: {response.prompt_feedback}")
+        return ""
+    if response.candidates[0].finish_reason.name != "STOP":
+        print(f"[translate] Unexpected finish_reason: {response.candidates[0].finish_reason}")
+        return ""
+
     # Get the translated text from the response
     return "".join(response.text.split("<lb/>"))
     

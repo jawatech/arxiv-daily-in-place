@@ -6,11 +6,11 @@ import time
 from collections import defaultdict
 from datetime import datetime
 from urllib import parse
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 import requests
-genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
-model = genai.GenerativeModel("gemini-1.5-flash")
+client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
 
 def translate(text, to_language="zh_TW", text_language="en"):
     # Get the input parameters from the post request
@@ -45,10 +45,10 @@ def get_gemini_translation(text_list, source_lang, target_lang):
   # Your translation:"""
 
     # Generate the text response using the model
-    response = model.generate_content(
-        prompt,
-        generation_config=genai.types.GenerationConfig(
-            candidate_count=1,
+    response = client.models.generate_content(
+        model="gemini-2.0-flash",
+        contents=prompt,
+        config=types.GenerateContentConfig(
             temperature=0.4,
         ),
     )

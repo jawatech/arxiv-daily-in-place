@@ -44,7 +44,7 @@ def get_gemini_translation(text_list, source_lang, target_lang):
 
   # Your translation:"""
 
-    # Generate the text response using the model, with retry on 429
+    # Generate the text response using the model, with retry on per-minute 429
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -57,7 +57,9 @@ def get_gemini_translation(text_list, source_lang, target_lang):
             )
             break
         except Exception as e:
-            if "429" in str(e) and attempt < max_retries - 1:
+            err = str(e)
+            is_daily_exhausted = "PerDay" in err or "PerModelPerDay" in err
+            if "429" in err and not is_daily_exhausted and attempt < max_retries - 1:
                 wait = 60 * (attempt + 1)
                 print(f"[translate] Rate limited (429), waiting {wait}s before retry {attempt + 1}/{max_retries - 1}...")
                 time.sleep(wait)

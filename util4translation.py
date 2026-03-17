@@ -44,15 +44,27 @@ def get_gemini_translation(text_list, source_lang, target_lang):
 
   # Your translation:"""
 
-    # Generate the text response using the model
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.4,
-        ),
-    )
-    time.sleep(random.random() + 1)
+    # Generate the text response using the model, with retry on 429
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.0-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.4,
+                ),
+            )
+            break
+        except Exception as e:
+            if "429" in str(e) and attempt < max_retries - 1:
+                wait = 60 * (attempt + 1)
+                print(f"[translate] Rate limited (429), waiting {wait}s before retry {attempt + 1}/{max_retries - 1}...")
+                time.sleep(wait)
+            else:
+                raise
+
+    time.sleep(random.random() + 2)
 
     # Check if response has valid candidates before accessing .text
     if not response.candidates:

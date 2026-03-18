@@ -14,7 +14,7 @@ jobs:
       TZ: "Asia/Taipei"
       RUN_ENV: "production" # within ['production', 'development']
       POWER: 16
-      MAX_RESULTS: 5
+      MAX_RESULTS: 100
       TIMEOUT: 600
     steps:
       # ============================================

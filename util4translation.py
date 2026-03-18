@@ -12,11 +12,6 @@ from google.genai import types
 import requests
 client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'), http_options={"api_version": "v1"})
 
-# Debug: list available models
-print("[debug] Available Gemini models:")
-for m in client.models.list():
-    print(f"  {m.name}")
-
 def translate(text, to_language="zh_TW", text_language="en"):
     # Get the input parameters from the post request
     text_list = [text]
@@ -54,7 +49,7 @@ def get_gemini_translation(text_list, source_lang, target_lang):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-1.5-flash-latest",
+                model="gemini-2.0-flash-lite",
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0.4,

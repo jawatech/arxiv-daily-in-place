@@ -49,7 +49,7 @@ def get_gemini_translation(text_list, source_lang, target_lang):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-1.5-flash",
+                model="gemini-1.5-flash-latest",
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0.4,

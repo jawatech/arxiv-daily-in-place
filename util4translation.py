@@ -12,6 +12,11 @@ from google.genai import types
 import requests
 client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'), http_options={"api_version": "v1"})
 
+# Debug: list available models
+print("[debug] Available Gemini models:")
+for m in client.models.list():
+    print(f"  {m.name}")
+
 def translate(text, to_language="zh_TW", text_language="en"):
     # Get the input parameters from the post request
     text_list = [text]

@@ -41,7 +41,7 @@ jobs:
       # ============================================
       - name: Run daily arxiv
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python main.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} --max_results=${{ env.MAX_RESULTS }} --timeout=${{ env.TIMEOUT }}
       # ============================================

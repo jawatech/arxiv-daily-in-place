@@ -6,24 +6,20 @@ import time
 from collections import defaultdict
 from datetime import datetime
 from urllib import parse
-from google import genai
-from google.genai import types
+from openai import OpenAI
 
 import requests
-client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'), http_options={"api_version": "v1"})
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def translate(text, to_language="zh_TW", text_language="en"):
-    # Get the input parameters from the post request
     text_list = [text]
     source_lang = text_language
     target_lang = to_language
+    return get_openai_translation(text_list, source_lang, target_lang)
 
-    return get_gemini_translation(text_list, source_lang, target_lang)
-
-def get_gemini_translation(text_list, source_lang, target_lang):
-    # Check the validity of the input parameters
+def get_openai_translation(text_list, source_lang, target_lang):
     if not text_list or not source_lang or not target_lang:
-        return "code: 400, Missing or invalid parameters"
+        return ""
 
     # Sanitize input to prevent prompt injection via XML tag injection
     sanitized_text_list = [t.replace("<", "&lt;").replace(">", "&gt;") for t in text_list]
@@ -44,40 +40,27 @@ def get_gemini_translation(text_list, source_lang, target_lang):
 
   # Your translation:"""
 
-    # Generate the text response using the model, with retry on per-minute 429
+    # Call OpenAI API with retry on 429
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            response = client.models.generate_content(
-                model="gemini-2.0-flash-lite",
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.4,
-                ),
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.4,
             )
             break
         except Exception as e:
             err = str(e)
-            is_daily_exhausted = "PerDay" in err or "PerModelPerDay" in err
-            if "429" in err and not is_daily_exhausted and attempt < max_retries - 1:
+            if "429" in err and attempt < max_retries - 1:
                 wait = 60 * (attempt + 1)
                 print(f"[translate] Rate limited (429), waiting {wait}s before retry {attempt + 1}/{max_retries - 1}...")
                 time.sleep(wait)
             else:
                 raise
 
-    time.sleep(random.random() + 2)
-
-    # Check if response has valid candidates before accessing .text
-    if not response.candidates:
-        print(f"[translate] No candidates returned. prompt_feedback: {response.prompt_feedback}")
-        return ""
-    if response.candidates[0].finish_reason.name != "STOP":
-        print(f"[translate] Unexpected finish_reason: {response.candidates[0].finish_reason}")
-        return ""
-
-    # Get the translated text from the response
-    return "".join(response.text.split("<lb/>"))
+    time.sleep(random.random() + 1)
+    return response.choices[0].message.content.strip()
     
 GOOGLE_TRANSLATE_URL = 'https://translate.google.com/m?q=%s&tl=%s&sl=%s'
 HEADERS = {

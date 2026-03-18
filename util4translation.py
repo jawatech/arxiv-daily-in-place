@@ -10,7 +10,7 @@ from google import genai
 from google.genai import types
 
 import requests
-client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
+client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'), http_options={"api_version": "v1"})
 
 def translate(text, to_language="zh_TW", text_language="en"):
     # Get the input parameters from the post request

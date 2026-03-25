@@ -22198,3 +22198,6 @@ KeyError: 'paper_summary_zh'
 2026-03-24 09:53:06.317 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`Knowledge Graphs`
 2026-03-24 09:58:06.619 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.
 2026-03-24 21:07:34.246 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical`
+2026-03-25 09:57:18.947 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical`
+2026-03-25 09:57:45.870 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-03-25 10:04:00.750 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.

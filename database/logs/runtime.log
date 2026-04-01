@@ -22232,3 +22232,4 @@ KeyError: 'paper_summary_zh'
 2026-03-31 21:11:31.544 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2603.28336: Error code: 400 - {'error': {'message': "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please contact us through our help center at help.openai.com.)", 'type': 'invalid_request_error', 'param': None, 'code': None}}
 2026-03-31 21:14:45.664 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical`
 2026-03-31 21:18:56.340 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.
+2026-04-01 10:20:14.039 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.

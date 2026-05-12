@@ -22493,3 +22493,4 @@ KeyError: 'paper_summary_zh'
 2026-05-11 22:41:00.573 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
 2026-05-11 22:41:00.796 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`LLM`
 2026-05-11 22:41:00.829 | SUCCESS  | __main__:parse:273 - handle [4/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-05-12 10:48:33.137 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.

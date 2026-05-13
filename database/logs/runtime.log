@@ -22497,3 +22497,8 @@ KeyError: 'paper_summary_zh'
 2026-05-12 22:13:58.734 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
 2026-05-12 22:14:49.467 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
 2026-05-12 22:22:12.225 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.
+2026-05-13 22:24:27.064 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2605.12361: Error code: 403
+2026-05-13 22:27:27.070 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-05-13 22:27:59.010 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
+2026-05-13 22:33:30.209 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`Knowledge Graphs`
+2026-05-13 22:34:02.146 | WARNING  | __main__:run:462 - Timeout of 600s reached — processing collected results so far.

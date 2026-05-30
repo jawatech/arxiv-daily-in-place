@@ -387,9 +387,9 @@ A central puzzle for the behavioural sciences and for human-facing artificial in
   We define a state as the time-indexed weighting vector over the dimensions that govern how an individual's biology, physiology, and neuropsychology process the next event into a decision and an outcome. The relationship between state, decision, and outcome is causal rather than correlational. The weighting vector is dynamic at sub-daily timescales. The conscious channel through which outcomes are reportable is a narrow attentional bottleneck whose contents are themselves state-dependent. Taken together, these claims imply that the outcome of a given event is controllable, conditionally, on the state-trajectory at the time of intervention.
   We motivate the framework with six strands of established evidence (causal inference, predictive processing, allostasis, attentional bottleneck, chronobiology, computational psychiatry) and a 24-month observational base from a deployed behavioural platform spanning more than 200,000 consented users across four occupational personas (research period 2023 to 2026). We derive seven testable predictions, list six operational requirements for state-aware systems, and discuss implications for digital health, education, AI personalisation, and personal agency.
 
-摘要：一個行為科學和面向人類的人工智慧的核心難題是個體內變異性的持續存在。相同的個體在面對相同的可觀察輸入時，卻在不同的時機產生不同的結果，而不同的個體則產生無法被任何可觀察的共變量完全預測的不同結果。我們認為這種變異性屬於個體的動態潛在狀態，並且人類的結果可以通過針對狀態及其在決策形成時的權重的介入，以精確和操作性的方式進行控制。<lb/>
-我們將狀態定義為一個時間索引的權重向量，該向量涵蓋了支配個體的生物學、生理學和神經心理學如何將下一事件處理為決策和結果的維度。狀態、決策和結果之間的關係是因果的，而非相關的。權重向量在日常時間尺度下是動態的。報告結果的意識通道是一個狹窄的注意瓶頸，其內容本身是依賴於狀態的。綜合來看，這些主張意味著給定事件的結果是可控的，條件是介入時的狀態軌跡。<lb/>
-我們用六個已建立的證據（因果推斷、預測處理、全ostasis、注意瓶頸、時間生物學、計算精神病學）和一個為期24個月的觀察基礎來激勵這一框架，該基礎來自一個部署的行為平台，涵蓋了超過200,000名同意用戶，跨越四種職業角色（研究期間為2023年至2026年）。我們推導出七個可檢驗的預測，列出六個對狀態感知系統的操作要求，並討論對數位健康、教育、人工智慧個性化和個人主體性的影響。
+摘要：一個行為科學和面向人類的人工智慧的核心難題是個體內變異性的持續存在。相同的個體在面對相同的可觀察輸入時，會在不同的場合產生不同的結果，而不同的個體則會產生不同的結果，這些結果並沒有任何可觀察的協變量能夠完全預測。我們主張這種變異性屬於個體的動態潛在狀態，並且人類的結果可以通過針對決策形成時的狀態及其權重的干預，在精確和操作的意義上進行控制。<lb/>
+我們將狀態定義為一個時間索引的權重向量，這個向量控制著個體的生物學、生理學和神經心理學如何將下一個事件處理成決策和結果。狀態、決策和結果之間的關係是因果的，而非相關的。權重向量在次日內的時間尺度上是動態的。可報告結果的意識通道是一個狹窄的注意瓶頸，其內容本身是依賴於狀態的。綜合來看，這些主張意味著給定事件的結果是可控的，條件是干預時的狀態軌跡。<lb/>
+我們通過六個已建立的證據（因果推斷、預測處理、全ostasis、注意瓶頸、時間生物學、計算精神病學）和一個為期24個月的觀察基礎來激勵這一框架，該基礎來自一個部署的行為平台，涵蓋了超過200,000名同意的用戶，跨越四種職業角色（研究期間為2023年至2026年）。我們推導出七個可測試的預測，列出六個針對狀態感知系統的操作要求，並討論對數位健康、教育、人工智慧個性化和個人主義的影響。
 
 ##### **RULER: Representation-Level Verification of Machine Unlearning**
 2605.27569v1 by Georgina Cosma, Axel Finke

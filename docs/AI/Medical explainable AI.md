@@ -353,11 +353,11 @@ Introduction. Early detection of malignant skin lesions is critical for prognosi
   Results. On 176 patients: agreement with expert assessment 88.6%; no false negatives among 5 malignant lesions (95% CI: 47.8-100.0%); specificity 88.3%. Three melanomas and two basal cell carcinomas were histologically confirmed; six dysplastic naevi placed under follow-up. Mean IoU (n=180): ViT - 0.69; Swin - 0.64; ConvNeXt - 0.53; EfficientNetV2 - 0.51. Routing thresholds: P<0.15 / 0.15-0.50 / >=0.50.
   Conclusion. No false negatives were observed; specificity was 88.3%, supporting screening use. The integrated cascade classification, attention map visualisation with IoU assessment, and three-zone routing provide reproducible, interpretable clinical decision support adaptable to varying resource levels.
 
-摘要：引言。早期檢測惡性皮膚病變對預後至關重要，但俄羅斯地區皮膚科醫生短缺限制了篩查覆蓋率。移動皮膚鏡臨床決策支持系統（CDSS）提供了一種有前景的方法，但模型可解釋性和標準化病人路由仍然是採用的主要障礙。<lb/>  
-目的。開發一種針對級聯深度學習模型的定量可解釋性評估方法和三區病人路由算法，並在俄羅斯門診實踐中對Melanoscope AI CDSS進行初步的單中心前瞻性臨床驗證。<lb/>  
-材料與方法。對皮膚鏡圖像進行兩階段級聯分類；注意力圖可視化（ViT和Swin的注意力展開；ConvNeXt和EfficientNetV2的Grad-CAM）；基於IoU的激活圖與專家標註之間的定量一致性評估；在四個“黑色素瘤日”會議中進行前瞻性單中心驗證（俄羅斯奧雷爾，2025年6月 - 2026年4月）。<lb/>  
-結果。在176名患者中：與專家評估的一致性為88.6%；在5例惡性病變中未發現假陰性（95% CI：47.8-100.0%）；特異性為88.3%。三例黑色素瘤和兩例基底細胞癌經組織學確認；六例異型痣進行了隨訪。平均IoU（n=180）：ViT - 0.69；Swin - 0.64；ConvNeXt - 0.53；EfficientNetV2 - 0.51。路由閾值：P&lt;0.15 / 0.15-0.50 / &gt;=0.50。<lb/>  
-結論。未觀察到假陰性；特異性為88.3%，支持篩查使用。集成的級聯分類、帶有IoU評估的注意力圖可視化和三區路由提供了可重複、可解釋的臨床決策支持，適應不同資源水平。
+摘要：引言。早期檢測惡性皮膚病變對預後至關重要，但俄羅斯地區皮膚科醫生短缺限制了篩檢覆蓋率。移動皮膚鏡臨床決策支持系統（CDSS）提供了一種有前景的方法，但模型可解釋性和標準化病人路由仍然是採用的主要障礙。<lb/>  
+目標。開發一種級聯深度學習模型的定量可解釋性評估方法和一種三區病人路由算法，並對Melanoscope AI CDSS在俄羅斯門診實踐中進行初步的單中心前瞻性臨床驗證。<lb/>  
+材料與方法。對皮膚鏡圖像進行兩階段級聯分類；注意力圖可視化（ViT和Swin的注意力展開；ConvNeXt和EfficientNetV2的Grad-CAM）；基於IoU的激活圖與專家標註之間的定量一致性評估；在四次“黑色素瘤日”會議中進行前瞻性單中心驗證（俄羅斯奧雷爾，2025年6月 - 2026年4月）。<lb/>  
+結果。在176名患者中：與專家評估的一致性為88.6%；在5例惡性病變中未發現假陰性（95% CI：47.8-100.0%）；特異性為88.3%。三例黑色素瘤和兩例基底細胞癌經組織學確認；六例異常痣進行了跟蹤。平均IoU（n=180）：ViT - 0.69；Swin - 0.64；ConvNeXt - 0.53；EfficientNetV2 - 0.51。路由閾值：P&lt;0.15 / 0.15-0.50 / &gt;=0.50。<lb/>  
+結論。未觀察到假陰性；特異性為88.3%，支持篩檢使用。集成的級聯分類、結合IoU評估的注意力圖可視化和三區路由提供了可重複的、可解釋的臨床決策支持，適應於不同的資源水平。
 
 ##### **When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection**
 2605.27348v2 by Jihyeon Kim, Sohee Kim, Soosan Lee, Souhwan Jung, James Matthew Rehg, Hyesong Choi

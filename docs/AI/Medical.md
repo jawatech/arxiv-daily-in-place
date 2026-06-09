@@ -2,6 +2,9 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-06-08**|**An Agency-Transferring Model-Free Policy Enhancement Technique**|Anton Bolychev et.al.|[2606.09825v1](http://arxiv.org/abs/2606.09825v1)|null|
+|**2026-06-08**|**Collaborative Human-Agent Protocol (CHAP)**|Arsalan Shahid et.al.|[2606.09751v1](http://arxiv.org/abs/2606.09751v1)|null|
+|**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746v1](http://arxiv.org/abs/2606.09746v1)|null|
 |**2026-06-08**|**Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data**|Yinyu Huang et.al.|[2606.09671v1](http://arxiv.org/abs/2606.09671v1)|null|
 |**2026-06-08**|**Next-Token Prediction Learns Generalisable Representations of Sleep Physiology**|Jonathan F. Carter et.al.|[2606.09605v1](http://arxiv.org/abs/2606.09605v1)|null|
 |**2026-06-08**|**Deterministic Integrity Gates for LLM-Assisted Clinical Manuscript Preparation: An Auditable Biomedical Informatics Architecture**|Yoojin Nam et.al.|[2606.09500v1](http://arxiv.org/abs/2606.09500v1)|null|
@@ -99,11 +102,59 @@
 |**2026-06-01**|**No Free Lunch for Synthetic Images under Data Scarcity Conditions**|Borja Arroyo Galende et.al.|[2606.07640v1](http://arxiv.org/abs/2606.07640v1)|null|
 |**2026-06-01**|**Predicting the risk of colorectal anastomotic leak based on preoperative mapping of the blood supply of the bowel**|Zahra Tabatabaei et.al.|[2606.02156v1](http://arxiv.org/abs/2606.02156v1)|null|
 |**2026-06-01**|**RL-ACRGNet: Reinforcement Learning-Based Chest Radiology Report Generation Network**|Yogesh Kumar Meena et.al.|[2606.02035v1](http://arxiv.org/abs/2606.02035v1)|null|
-|**2026-06-01**|**AutoMedBench: Towards Medical AutoResearch with Agentic AI Models**|Junqi Liu et.al.|[2606.01961v2](http://arxiv.org/abs/2606.01961v2)|null|
-|**2026-06-01**|**Bayesian Spectral Emotion Transition Discovery from Multi-Annotator Disagreement**|Keito Inoshita et.al.|[2606.01906v1](http://arxiv.org/abs/2606.01906v1)|null|
-|**2026-06-01**|**KliniskVestBERT: BERT Model Specialised to Norwegian Clinical Texts**|Christian Autenried et.al.|[2606.01904v2](http://arxiv.org/abs/2606.01904v2)|null|
 
 #### Abstracts
+##### **An Agency-Transferring Model-Free Policy Enhancement Technique**
+2606.09825v1 by Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel Osinenko
+
+Training reinforcement learning (RL) policies from scratch is
+  costly: it requires careful reward and environment design,
+  extensive tuning, and substantial computation.
+  Yet many control problems already have a functional but
+  suboptimal policy available as a baseline.
+  This paper proposes a method for embedding such a baseline into
+  the RL training process, simultaneously improving training
+  efficiency relative to from-scratch methods and producing a
+  learning policy that outperforms the baseline.
+  At each step, the method arbitrates between the baseline policy
+  and a trainable learning policy, initially relying strongly on
+  the baseline policy and then progressively transferring agency to
+  the learning policy.
+  By the end of training, the learning policy is a standalone
+  neural network that operates without baseline policy support.
+  The paper formalizes what it means for the baseline policy to be
+  functional: under this policy, the agent reaches a goal set and
+  remains there with high probability.
+  The proposed arbitration mechanism is designed to exploit this
+  property during training, yielding high goal-reaching rates right
+  from the beginning of training.
+  A theoretical analysis provides a formal interpretation of this
+  behavior under stated assumptions and extends it to the final
+  baseline-free regime, where explicit lower bounds are derived for
+  the goal-reaching probability of the standalone learning policy.
+  Empirical results on continuous-control benchmarks show that the
+  proposed method achieves returns that match or exceed those of
+  competitive approaches, while maintaining the highest
+  goal-reaching rates throughout training among the compared
+  methods -- including in the final stage, where the learning policy
+  operates without any baseline support.
+
+摘要：訓練增強學習 (RL) 策略從零開始是昂貴的：這需要仔細的獎勵和環境設計、廣泛的調整以及大量的計算。<lb/>然而，許多控制問題已經有一個功能性但次優的策略可作為基準。<lb/>本文提出了一種將這樣的基準嵌入到 RL 訓練過程中的方法，同時提高相對於從零開始方法的訓練效率，並產生一個超越基準的學習策略。<lb/>在每一步中，該方法在基準策略和可訓練的學習策略之間進行仲裁，最初強烈依賴基準策略，然後逐漸將主導權轉移給學習策略。<lb/>到訓練結束時，學習策略是一個獨立的神經網絡，能在沒有基準策略支持的情況下運作。<lb/>本文形式化了基準策略功能性的含義：在這一策略下，代理達到設定的目標並以高概率保持在那裡。<lb/>所提出的仲裁機制旨在利用這一特性，在訓練過程中產生高的達標率，從訓練開始時就能達到。<lb/>理論分析提供了在所述假設下對這一行為的正式解釋，並將其擴展到最終的無基準狀態，在該狀態下，為獨立學習策略的達標概率推導出明確的下界。<lb/>在連續控制基準上的實證結果顯示，所提出的方法實現的回報與競爭性方法相匹配或超過，同時在比較的方法中保持了整個訓練過程中最高的達標率——包括在最終階段，學習策略在沒有任何基準支持的情況下運作。
+
+##### **Collaborative Human-Agent Protocol (CHAP)**
+2606.09751v1 by Arsalan Shahid, Gordon Suttie, Philip Black
+
+Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibility for work that affects customers, claims, code, contracts, and clinical decisions. Production deployments are no longer one human supervising one model. They are multi-human, multi-agent collaborations that cross teams, time zones, and trust boundaries. The technical surface for this collaboration remains weakly specified. When an agent drafts a response and a human edits it before it ships, the moment of human judgement is the most valuable signal in the system. In current practice it is recorded, if at all, in application code, chat threads, ticket comments, and tribal memory. Two protocol standards address adjacent concerns: MCP standardises agent access to tools and data, and A2A standardises agent-to-agent interoperability. Neither defines the shared workspace in which humans and agents perform accountable work together. This paper presents CHAP, the Collaborative Human-Agent Protocol. Under CHAP, the override that used to vanish into a chat thread becomes a structured event carrying a diff, a rationale, and a content hash. The handoff between shifts becomes a portable envelope rather than a pinned message. The human approval of an agent's draft becomes a non-repudiable signed decision that can be replayed years later. The protocol achieves this through a small Core (workspaces, participants, tasks, artefacts, and an append-only evidence log) together with composable profiles that add review, modes, routing, deliberation, handoff, identity, signatures, and transparency-backed audit as deployments require them. Specification, reference implementation, conformance suite, and worked examples are available at: https://github.com/BrightbeamAI/chap
+
+摘要：基礎模型正從回應生成轉向操作角色。<lb/>它們在各個步驟中進行計畫，調用工具，請求人類輸入，與其他代理協調，並日益承擔影響客戶、索賠、代碼、合同和臨床決策的工作責任。<lb/>生產部署不再是由一位人類監督一個模型。<lb/>它們是跨越團隊、時區和信任邊界的多位人類、多代理的合作。<lb/>這種合作的技術表面仍然規範不明。<lb/>當一個代理草擬回應而一個人類在發送之前進行編輯時，人類判斷的時刻是系統中最有價值的信號。<lb/>在當前的實踐中，這一點如果有記錄，通常是在應用代碼、聊天線程、票證評論和部落記憶中。<lb/>兩個協議標準解決了相鄰的問題：MCP 標準化代理對工具和數據的訪問，而 A2A 標準化代理之間的互操作性。<lb/>然而，這兩者都沒有定義人類和代理共同執行負責任工作的共享工作空間。<lb/>本文介紹了 CHAP，即協作人類-代理協議。<lb/>在 CHAP 下，以前消失在聊天線程中的覆蓋變成了一個結構化事件，攜帶著差異、一個理由和內容哈希。<lb/>班次之間的交接變成了一個可攜帶的信封，而不是一條固定的消息。<lb/>人類對代理草案的批准變成了一個不可否認的簽署決策，可以在多年後重播。<lb/>該協議通過一個小型核心（工作空間、參與者、任務、工件和僅附加的證據日誌）以及可組合的配置文件來實現，這些配置文件根據部署需要添加審查、模式、路由、深思、交接、身份、簽名和透明度支持的審計。<lb/>規範、參考實現、符合性套件和實例可在以下網址獲得：https://github.com/BrightbeamAI/chap
+
+##### **Hybrid Robustness Verification for Spatio-Temporal Neural Networks**
+2606.09746v1 by Sherwin Varghese, Matthew Wicker, Alessio Lomuscio
+
+With AI increasingly deployed in safety-critical systems, providing formal robustness guarantees for the underlying models is essential. Existing verification methods either rely on overly conservative approximations or incur prohibitive computational costs. For example, the use of lp-norm perturbations in video settings encodes the belief that the adversary can inject noise in every video frame. In practice, adversarial perturbations exhibit structured spatial and temporal correlations, constrained to lower-dimensional, semantically meaningful subspaces. In this work, we study robustness verification of 3D CNNs processing video and volumetric inputs, targeting applications in action recognition (UCF-101), autonomous driving (Udacity), and medical imaging (MedMNIST) exploiting realistic assumptions on adversarial strength by modelling them as spatio-temporal constraints - where the attacker can modify either a subset of frames or patches within a set of consecutive frames. We demonstrate that modelling realistic constraints enables tighter approximations. We introduce Spatio-Temporal Bound Propagation (STBP), a verification framework that computes an exact closed-form characterization of the first convolutional layer and propagates certified bounds through subsequent layers using scalable approximations. Computing the exact closed form provides the tightest bounds for the first convolutional layer. Thus, we utilise approximation methods in the remainder of the network. To spur further progress in this field, we propose ST-Bench, a verification benchmark for autonomous driving and activity recognition, to systematically evaluate verifiable robustness. Compared to existing verification-based approaches, STBP provides stronger robustness guarantees with significantly improved scalability, achieving 1.7x higher certified robust accuracy under identical perturbation budgets.
+
+摘要：隨著人工智慧越來越多地應用於安全關鍵系統，為底層模型提供正式的穩健性保證變得至關重要。現有的驗證方法要麼依賴過於保守的近似，要麼產生高昂的計算成本。例如，在視頻設置中使用 lp-norm 擾動編碼了這樣的信念：對手可以在每個視頻幀中注入噪聲。實際上，對抗性擾動顯示出結構化的空間和時間相關性，受限於較低維度的、語義上有意義的子空間。在這項工作中，我們研究了處理視頻和體積輸入的 3D CNN 的穩健性驗證，目標應用於動作識別（UCF-101）、自動駕駛（Udacity）和醫學影像（MedMNIST），通過將對抗性強度建模為時空約束來利用現實假設——攻擊者可以修改一組幀或一組連續幀中的補丁。我們證明了建模現實約束能夠實現更緊的近似。我們引入了時空邊界傳播（STBP），這是一個驗證框架，計算第一個卷積層的精確閉式形式特徵，並使用可擴展的近似方法將經過認證的邊界傳播到後續層。計算精確的閉式形式為第一個卷積層提供了最緊的邊界。因此，我們在網絡的其餘部分使用近似方法。為了促進該領域的進一步發展，我們提出了 ST-Bench，一個自動駕駛和活動識別的驗證基準，旨在系統地評估可驗證的穩健性。與現有的基於驗證的方法相比，STBP 提供了更強的穩健性保證，並顯著提高了可擴展性，在相同的擾動預算下實現了 1.7 倍更高的認證穩健準確率。
+
 ##### **Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data**
 2606.09671v1 by Yinyu Huang, Yilin Zhang, Sofia Michopoulou, Christopher Kipps, Rahman Attar
 
@@ -804,25 +855,4 @@ Anastomotic leak remains one of the most serious complications following colorec
 Medical imaging interpretation is a foundational pillar of modern clinical diagnostics, yet the manual generation of radiology reports remains a time-consuming process prone to interpretation inconsistencies. Within the field of medical AI, automating these descriptions through deep learning promises to streamline clinical workflows and standardise diagnostic output. However, accurate disease detection and precise report generation remain significant challenges due to limitations in capturing fine-grained visual features and ensuring clinical coherence. To address these issues, we propose RL-ACRGNet, an improved encoder-decoder model that integrates a pre-trained DenseNet encoder with a multilevel LSTM decoder within an off-policy reinforcement learning framework. Using a dual-network approach to refine visual-semantic embeddings through a metric-based reward mechanism, we demonstrate that RL-ACRGNet consistently outperforms state-of-the-art baselines on the IU-Xray dataset, achieving quantitative improvements in BLEU-4 (0.47%), METEOR (0.17%) and ROUGE-L (0.518). Furthermore, comprehensive evaluations on the large-scale MIMIC-CXR data set confirm the robust generalisation of the model and its ability to generate high-quality, clinically relevant reports
 
 摘要：醫學影像解讀是現代臨床診斷的基礎支柱，但手動生成放射科報告仍然是一個耗時的過程，容易出現解讀不一致的情況。在醫學人工智慧領域，通過深度學習自動化這些描述有望簡化臨床工作流程並標準化診斷結果。然而，由於捕捉細緻的視覺特徵和確保臨床一致性的限制，準確的疾病檢測和精確的報告生成仍然是重大挑戰。為了解決這些問題，我們提出了RL-ACRGNet，一種改進的編碼器-解碼器模型，該模型在一個非政策強化學習框架內整合了預訓練的DenseNet編碼器和多層LSTM解碼器。通過使用雙網絡方法，通過基於度量的獎勵機制來細化視覺-語義嵌入，我們證明RL-ACRGNet在IU-Xray數據集上持續超越最先進的基準，實現了BLEU-4（0.47%）、METEOR（0.17%）和ROUGE-L（0.518）的定量改進。此外，對大規模MIMIC-CXR數據集的全面評估確認了該模型的強健泛化能力及其生成高質量、臨床相關報告的能力。
-
-##### **AutoMedBench: Towards Medical AutoResearch with Agentic AI Models**
-2606.01961v2 by Junqi Liu, Selena Song, Yuhan Wang, Jiawei Mao, Hardy Chen, Xiaoke Huang, Tianhao Qi, Pengfei Guo, Yucheng Tang, Yufan He, Can Zhao, Andriy Myronenko, Dong Yang, Daguang Xu, Yuyin Zhou
-
-Autonomous agents are increasingly expected to support end-to-end medical-AI research workflows, moving beyond isolated prediction tasks or short-form clinical question answering. However, existing medical agent benchmarks primarily evaluate final outputs, providing limited visibility into agent behavior within the research process. To address this gap, we present AutoMedBench, a workflow-aware benchmark for autonomous medical-AI research across diverse medical imaging and multimodal inference tasks, organizing agent execution into a unified five-stage workflow (S1-S5): Plan, Setup, Validate, Inference, and Submit. It comprises long-horizon tasks with each run averaging 33 agent turns, spanning five research tracks: segmentation, image enhancement, visual question answering (VQA), report generation, and lesion detection. Each task is evaluated under two difficulty tiers, Lite and Standard, which use the same data and metrics but differ in the amount of task-brief scaffolding, and each run is scored using both final task performance and S1-S5 stage scores, enabling stage-level analysis from the initial task brief to the final submitted artifact. Across thousands of recorded runs, stage-level scoring reveals that Validate is the weakest workflow stage on average, whereas Setup is the strongest, suggesting that current agents are better at making pipelines executable than at verifying their reliability. Post-run error analysis further shows that verification and submission failures dominate tagged errors, accounting for 37.7% and 38.1% of fired codes respectively, whereas task-understanding errors are rare at 0.9%, and runs with one fired error code have a 48% lower overall score than runs with no error code on average.
-
-摘要：自主代理人越來越被期望能支持端到端的醫療人工智慧研究工作流程，超越孤立的預測任務或短期的臨床問題回答。然而，現有的醫療代理基準主要評估最終輸出，對代理人在研究過程中的行為提供了有限的可見性。為了解決這一差距，我們提出了 AutoMedBench，這是一個針對自主醫療人工智慧研究的工作流程感知基準，涵蓋多樣的醫療影像和多模態推理任務，將代理執行組織成一個統一的五階段工作流程（S1-S5）：計劃、設置、驗證、推理和提交。它包含長期任務，每次運行平均有 33 次代理回合，涵蓋五個研究領域：分割、影像增強、視覺問題回答（VQA）、報告生成和病變檢測。每個任務在兩個難度層級下進行評估，分別為 Lite 和 Standard，這兩者使用相同的數據和指標，但在任務簡報的支撐量上有所不同，每次運行的得分基於最終任務表現和 S1-S5 階段得分，使得從初始任務簡報到最終提交文檔的階段級分析成為可能。在數千次記錄的運行中，階段級得分顯示，驗證階段平均是最弱的工作流程階段，而設置階段是最強的，這表明當前的代理在使管道可執行方面表現較好，而在驗證其可靠性方面則較差。運行後的錯誤分析進一步顯示，驗證和提交失敗主導了標記錯誤，分別佔發生代碼的 37.7% 和 38.1%，而任務理解錯誤則很少，僅佔 0.9%，並且每次發生一個錯誤代碼的運行，其整體得分比沒有錯誤代碼的運行平均低 48%。
-
-##### **Bayesian Spectral Emotion Transition Discovery from Multi-Annotator Disagreement**
-2606.01906v1 by Keito Inoshita, Takato Ueno
-
-Emotions evolve through the dynamics of conversation, and understanding their transition structure is foundational to applications ranging from mental-health screening to dialogue systems. However, existing studies typically compress multi-rater judgments into a single hard label by majority voting, discarding the uncertainty signal needed to understand turn-to-turn transitions. In this article, we propose Bayesian Spectral Emotion Transition Discovery (BSETD), a two-stage framework that discovers emotion-transition structure from multi-rater soft labels. In the first stage, a hierarchical Dirichlet-Multinomial posterior is constructed through the outer product of soft labels, equipping each cell of the K x K transition matrix with a credible interval and Benjamini-Hochberg (BH) false discovery rate (FDR)-controlled significance. In the second stage, the symmetrized graph Laplacian is spectrally decomposed to separate a low-frequency (inertia) component from a high-frequency (contagion) component. On EmotionLines, BSETD simultaneously recovers the signatures of two distinct affective spaces: the Plutchik-adjacent transitions disgust to anger (log2 lift +0.94) and anger to disgust (+0.86) are over-represented, while the Russell-valence-reversed transitions joy to anger (-0.90) and anger to joy (-0.89) are under-represented. A five-source cross-corpus validation yields pairwise Pearson correlations in 0.91-0.98 within English, 0.79-0.85 against Chinese M3ED, and 0.979 between the human hard labels and the LLM virtual soft labels on the same utterance set, demonstrating that a pipeline preserving annotator uncertainty bridges the computational study of emotion dynamics with established psychological theory.
-
-摘要：情感透過對話的動態演變，而理解其轉換結構對於從心理健康篩檢到對話系統的應用都是基礎。然而，現有研究通常將多評估者的判斷壓縮成單一的硬標籤，通過多數投票來實現，這樣就丟棄了理解逐輪轉換所需的不確定性信號。在本文中，我們提出了貝葉斯光譜情感轉換發現（BSETD），這是一個兩階段的框架，從多評估者的軟標籤中發現情感轉換結構。在第一階段，通過軟標籤的外積構建層次狄利克雷-多項式後驗，為 K x K 轉換矩陣的每個單元配備可信區間和 Benjamini-Hochberg (BH) 假陽性率 (FDR) 控制的顯著性。在第二階段，對稱圖拉普拉斯被光譜分解，以將低頻（慣性）成分與高頻（傳染）成分分離。在 EmotionLines 上，BSETD 同時恢復了兩個不同情感空間的特徵：Plutchik 相鄰的轉換從厭惡到憤怒（log2 提升 +0.94）和憤怒到厭惡 (+0.86) 被過度代表，而拉塞爾-價值反轉的轉換從喜悅到憤怒 (-0.90) 和憤怒到喜悅 (-0.89) 則被低估。五來源的跨語料庫驗證在英語中產生了 0.91-0.98 的成對皮爾森相關性，對於中文 M3ED 則為 0.79-0.85，而在人類硬標籤與同一發話集上的 LLM 虛擬軟標籤之間則為 0.979，這表明一個保留標註者不確定性的流程將情感動態的計算研究與既有心理學理論聯繫起來。
-
-##### **KliniskVestBERT: BERT Model Specialised to Norwegian Clinical Texts**
-2606.01904v2 by Christian Autenried, Cosimo Persia
-
-The increasing application of Natural Language Processing (NLP) in healthcare demands language models specifically attuned to the complexities of clinical language. This work introduces KliniskVestBERT, a suite of three BERT-based encoder models pre-trained on a substantial corpus of real-world, de-identified Norwegian clinical texts from Helse Vest. We continue pretraining existing language models Nb-BERT-large, NorBERT3-large, and ModernBERT on our specialized clinical dataset. This dataset is based on a representative population of Helse Vest patients. The included document types are carefully curated to encompass a broad clinical spectrum in bokmål and nynorsk including discharge summaries, surgical reports, nursing notes etc. ensuring comprehensive representation of the linguistic landscape within Norwegian healthcare settings. Evaluation on three synthtetic Norwegian clinical benchmark datasets and two real-world problems demonstrates that each of our clinically specialized models consistently outperforms their baseline counterparts, highlighting the significant benefit of domain-specific pre-training for NLP tasks within the clinical domain. The project was a joint effort by all Helse Vest entities (Helse Bergen, Helse Fonna, Helse Førde and Helse Stavanger) with DIPS under the project lead of Helse Vest ICT.
-
-摘要：隨著自然語言處理（NLP）在醫療保健中的應用日益增加，對於專門針對臨床語言複雜性的語言模型的需求也在上升。這項工作介紹了KliniskVestBERT，一套基於BERT的編碼器模型，這些模型在大量來自Helse Vest的真實世界去識別挪威臨床文本的語料庫上進行了預訓練。我們在我們專門的臨床數據集上繼續對現有的語言模型Nb-BERT-large、NorBERT3-large和ModernBERT進行預訓練。這個數據集基於Helse Vest患者的代表性人群。所包含的文檔類型經過精心策劃，以涵蓋bokmål和nynorsk中的廣泛臨床範疇，包括出院摘要、手術報告、護理筆記等，確保了挪威醫療保健環境中語言景觀的全面代表性。在三個合成的挪威臨床基準數據集和兩個真實世界問題上的評估顯示，我們的每個臨床專用模型都穩定地超越了其基準對應模型，突顯了在臨床領域內進行領域特定預訓練對NLP任務的顯著好處。該項目是所有Helse Vest實體（Helse Bergen、Helse Fonna、Helse Førde和Helse Stavanger）與DIPS共同努力的結果，由Helse Vest ICT主導項目。
 

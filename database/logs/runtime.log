@@ -23174,3 +23174,7 @@ KeyError: 'paper_summary_zh'
 2026-10-07 01:55:05.297 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
 2026-10-07 01:58:20.428 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`LLM`
 2026-10-07 01:59:26.333 | SUCCESS  | __main__:parse:273 - handle [4/4] | topic=`AI` subtopic=`Knowledge Graphs`
+2026-10-08 02:24:30.302 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-10-08 02:24:31.962 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
+2026-10-08 02:28:34.208 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`Knowledge Graphs`
+2026-10-08 02:29:04.652 | SUCCESS  | __main__:parse:273 - handle [4/4] | topic=`AI` subtopic=`LLM`

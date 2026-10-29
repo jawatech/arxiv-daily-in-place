@@ -89,7 +89,7 @@
 |**2026-10-27**|**Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding**|Ruilin Yao et.al.|[2610.37093v1](http://arxiv.org/abs/2610.37093v1)|null|
 |**2026-10-27**|**OpenGray: a benchmark for evaluating the decisions of radiotherapy planning agents**|Humza Nusrat et.al.|[2610.37081v1](http://arxiv.org/abs/2610.37081v1)|null|
 |**2026-10-27**|**Correctness Conditioning as Selection in Chain-of-Thought Faithfulness Evaluation**|Yueer Pan et.al.|[2610.37070v1](http://arxiv.org/abs/2610.37070v1)|null|
-|**2026-10-27**|**Hierarchical Low-Rank Reparameterization for Parameter-Efficient**|Rong Huang et.al.|[2610.37068v1](http://arxiv.org/abs/2610.37068v1)|null|
+|**2026-10-27**|**Hierarchical Low-Rank Reparameterization for Parameter-Efficient Fine-Tuning**|Rong Huang et.al.|[2610.37068v1](http://arxiv.org/abs/2610.37068v1)|null|
 |**2026-10-27**|**EnergyCal: Taming Loss Spikes in Muon-Family Optimizers for Sparse MoE Training**|Masato Fujitake et.al.|[2610.37062v1](http://arxiv.org/abs/2610.37062v1)|null|
 |**2026-10-27**|**Exploring the Limits of the Delta Learning Hypothesis: Single-Pair Generator Biases in Direct Preference Optimization**|Giuseppe Curci et.al.|[2610.37058v1](http://arxiv.org/abs/2610.37058v1)|null|
 |**2026-10-27**|**Blindfold: Keeping the Audit Coin Secret from LLM Agents**|Wei Zhu et.al.|[2610.37055v1](http://arxiv.org/abs/2610.37055v1)|null|
@@ -719,7 +719,7 @@ Restricting chain-of-thought (CoT) faithfulness evaluation to correctly answered
 
 摘要：
 
-##### **Hierarchical Low-Rank Reparameterization for Parameter-Efficient**
+##### **Hierarchical Low-Rank Reparameterization for Parameter-Efficient Fine-Tuning**
 2610.37068v1 by Rong Huang, Yi Xiong, Yuan-Yuan Cheng, Xiao-Ming Fu
 
 Parameter-efficient fine-tuning (PEFT) methods adapt large models by introducing a small number of trainable parameters. However, we find that these parameters still contain redundancy and can be further compressed while maintaining strong task performance. To this end, we propose a novel hierarchical low-rank reparameterization method. Its core idea is to reorganize the trainable parameters of PEFT methods into an approximately square matrix and then express it via a low-rank decomposition, which can be applied recursively. This forms a multi-level structure with factors compressed level by level, drastically reducing the number of trainable parameters. In our experiments, we combine this reparameterization with LoRA, DoRA, MoSA, and RaSA. We evaluate commonsense reasoning on LLaMA-3.1-8B and Qwen2.5-7B, with additional GSM8K math reasoning experiments on LLaMA-3.1-8B. Under comparable trainable-parameter budgets, our method combined with LoRA or DoRA achieves better performance. Furthermore,when the parameter count of the original methods is compressed by approximately an order of magnitude, our method can still maintain competitive task performance and even surpass the corresponding baselines in average accuracy across the eight commonsense reasoning benchmarks.

@@ -2,6 +2,13 @@
 ### Knowledge Graphs
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-16**|**TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings**|Sydney Johns et.al.|[2611.21548v1](http://arxiv.org/abs/2611.21548v1)|null|
+|**2026-11-16**|**SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents**|Brian T. Weston et.al.|[2611.21541v1](http://arxiv.org/abs/2611.21541v1)|null|
+|**2026-11-16**|**Jetriever: Shifting Agent Memory Retrieval from Similarity to Utility**|Ruizhe Li et.al.|[2611.21478v1](http://arxiv.org/abs/2611.21478v1)|null|
+|**2026-11-16**|**Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework**|Zijian Zhao et.al.|[2611.21473v1](http://arxiv.org/abs/2611.21473v1)|null|
+|**2026-11-16**|**Expertise capture in workplace AI**|Andreas Ekelhart et.al.|[2611.21456v1](http://arxiv.org/abs/2611.21456v1)|null|
+|**2026-11-16**|**Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models**|Yili Shen et.al.|[2611.21423v1](http://arxiv.org/abs/2611.21423v1)|null|
+|**2026-11-16**|**What You Post Is What You Symptom: Estimating Psychometric Networks from Social Media Discourse**|Ştefana-Arina Tăbuşcă et.al.|[2611.21362v1](http://arxiv.org/abs/2611.21362v1)|null|
 |**2026-11-16**|**TRIAGE-CPG: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models**|Paul-Andrei Sava et.al.|[2611.21331v1](http://arxiv.org/abs/2611.21331v1)|null|
 |**2026-11-16**|**Syllable- and Word-Level Evaluation of Tibetan OCR**|Jacob Moore et.al.|[2611.21303v1](http://arxiv.org/abs/2611.21303v1)|null|
 |**2026-11-16**|**Latent Bridge: Asking for Help Without Words**|Qichao Wang et.al.|[2611.21301v1](http://arxiv.org/abs/2611.21301v1)|null|
@@ -95,15 +102,57 @@
 |**2026-11-12**|**Tracing Knowledge and Reasoning in LLM**|Yang Wang et.al.|[2611.17461v1](http://arxiv.org/abs/2611.17461v1)|null|
 |**2026-11-12**|**Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline**|Geoffrey Challen et.al.|[2611.17220v1](http://arxiv.org/abs/2611.17220v1)|null|
 |**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115v1](http://arxiv.org/abs/2611.17115v1)|null|
-|**2026-11-12**|**Evaluating Pretrained Language Semantics for Structured EHR Prediction Tasks**|Ashvin Gupta et.al.|[2611.17053v2](http://arxiv.org/abs/2611.17053v2)|null|
-|**2026-11-12**|**AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems**|Tian Cai et.al.|[2611.17015v1](http://arxiv.org/abs/2611.17015v1)|null|
-|**2026-11-12**|**AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**| NovaSilicon Team et.al.|[2611.16991v1](http://arxiv.org/abs/2611.16991v1)|null|
-|**2026-11-12**|**Primer: An AI Framework for Instructor-Centered Educational Simulation Creation**|Ethan Mollick et.al.|[2611.16986v1](http://arxiv.org/abs/2611.16986v1)|null|
-|**2026-11-12**|**Universal Infectious Disease Forecasting with Mantis 2**|Carson Dudley et.al.|[2611.16935v1](http://arxiv.org/abs/2611.16935v1)|null|
-|**2026-11-12**|**LLM-Assisted Verification in Dafny**|Wieger Wesselink et.al.|[2611.16886v1](http://arxiv.org/abs/2611.16886v1)|null|
-|**2026-11-12**|**Context Graph: Explainable Multi-Agent Decision Chains in AI-RAN**|Xijun Wang et.al.|[2611.16879v1](http://arxiv.org/abs/2611.16879v1)|null|
 
 #### Abstracts
+##### **TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings**
+2611.21548v1 by Sydney Johns
+
+Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework for label-efficient intrusion detection. TRACE learns from benign system-activity graphs by combining message-passing and topological representations, then assigns anomaly scores in the same projected embedding space optimized by the contrastive objective. This design captures both local interactions and graph-scale structural deviations without using attack labels during representation learning. A labeled validation set containing benign and malicious graphs is used only to calibrate the anomaly threshold. We evaluate TRACE on StreamSpot, GraSec-IoT, and Unicorn Wget against a supervised graph neural network and the benign-only GraphCL baseline. TRACE obtains F1 scores of 0.923, 0.790, and 0.583, respectively. Compared with GraphCL, this is higher on StreamSpot (0.450) and Unicorn Wget (0.203), but lower on GraSec-IoT (0.975). The supervised model leads on StreamSpot and GraSec-IoT, whereas TRACE has the highest F1 on Unicorn Wget. The mixed results show that topology-aware benign-only learning can improve detection in some graph settings but does not provide a uniform advantage.
+
+摘要：
+
+##### **SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents**
+2611.21541v1 by Brian T. Weston, Alondra Torres Contreras, Aldair E. Gongora
+
+We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper scoring of calibrated intervals against exact ground truth. On a held-out split (93 tasks, 9 models, 2,511 episodes), models handle procedural traps. When the simulator is missing physics, most report wrong values while stating they are 95% sure: their ranges contain the truth in 20-62% of cases, against 94% for GPT-6 Astra and 99% for Claude Fable 5.2. At default effort the failing Claude 5.5 models rarely diagnose the missing physics (Opus in 35% of episodes, against 66% for Astra), and even when they do, their ranges often miss; Astra and Fable design experiments in which the flawed simulator is accurate, such as gentle heating, which keeps Astra calibrated even when it does not name the cause. Asking for wider intervals does not help; stating the strategy improves interval scores 1.6-2.5-fold, replicated on a pre-registered fresh split, but coverage barely moves. A pre-registered effort ablation shows that the correction is latent in the Claude 5.5 models: at maximum effort Opus improves more than tenfold and is no longer detectably behind Astra at default, but only with 13-31 times more reasoning; older and open-weight models gain nothing. Fable 5.2 is the most accurate model at default effort (interval score 1.9 times better than Astra's) but writes 6 times as many tokens, and at Astra's token count it falls short. We release the environment, graders and harness.
+
+摘要：
+
+##### **Jetriever: Shifting Agent Memory Retrieval from Similarity to Utility**
+2611.21478v1 by Ruizhe Li, Licheng Zhang, Mingxuan Du, Zhendong Mao
+
+A useful memory need not resemble the question it helps answer. Jetriever ranks each stored memory by Jev's decision score for its usefulness to the current question, replacing similarity search with full-pool utility scoring. On InMind's 125 indirect-query tasks, it places the gold exchange first in 84.8% of cases; matched BM25 and MiniLM controls reach 1.6% and 0.0% when indexing user turns. A 20-question comparison separates finding evidence from ranking it: Jev and Qwen3.5 9B each find 90% of gold exchanges by rank 50, while Laya finds 30%; at rank one, Jev reaches 85% and Qwen3.5 9B 40%. On a dimension-proportional random sample of 60 MemoryAgentBench questions, Jetriever's four-dimension score is 55.4%, against 44.3% for ReFind on the same questions. Jev retrieval costs USD 0.00834 per InMind question and USD 0.03103 per MAB question on average. These results show the value of world knowledge, scores that rank decisive memories first, and affordable full-pool scoring.
+
+摘要：
+
+##### **Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework**
+2611.21473v1 by Zijian Zhao, Davide Di Monda, Domenico Ciuonzo, Yipeng Wang, Antonio Pescapè
+
+Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incremental Learning (FSCIL)-based NIDSs have gained growing attention. However, existing FSCIL-based NIDSs are highly vulnerable to label noise in newly-observed attack classes. To address this limitation, we propose NAFN, a noise-aware FSCIL-based NIDS framework that reduces the impact of mislabeled data during incremental adaptation. NAFN consists of two components: (i) Noise Detection, which identifies and removes mislabeled biflows using noise-detection algorithms, and (ii) Feature Sampling, which estimates class-conditional embeddings from clean biflows, calibrates them with base-class statistics, and resamples synthetic features to recover the original biflow count. The framework follows the Rethink Few-Shot (RFS) teacher-student paradigm with lightweight nearest-neighbor or logistic regression classifiers, and various pretraining & memory selection strategies. Experiments on CSE-CIC-IDS2018, Edge-IIoT, and IoT-NID datasets show that NAFN effectively preserves prior knowledge and maintains strong incremental performance even under 50% label noise, consistently improving new-class F1-scores over non-denoised baselines, up to +52%, while being time-efficient and robust in cross-network and high-noise incremental settings. The implementation is publicly available to foster reproducibility.
+
+摘要：
+
+##### **Expertise capture in workplace AI**
+2611.21456v1 by Andreas Ekelhart, Ahmad Mohsin, Iqbal H. Sarker, Helge Janicke
+
+AI assistants are becoming part of how knowledge workers think and perform, accumulating the prompts, exemplars, memory and interaction histories that encode a worker's professional judgment. This infrastructure typically runs under employer or platform control. We name the resulting process expertise capture, the absorption of worker-applied knowledge and judgment into AI resources under organizational control. We develop a framework of contribution forms, technical residences and transformation families, and show that how far a contribution can be attributed, separated and revoked depends on where it resides and how it has been transformed, properties fixed by system design long before any dispute arises. When a worker departs, the organization retains a capability shaped by their judgment while the worker loses access to it, and the asymmetry compounds as contributions move from inspectable artifacts into derivatives, learned components and successor systems. We outline three measures, write-time provenance, extraction of separable contributions and an executable exit procedure, that make an agreed allocation technically performable, and make explicit what cannot be separated at all.
+
+摘要：
+
+##### **Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models**
+2611.21423v1 by Yili Shen, Kehan Guo, Haomin Zhuang, Xiangliang Zhang
+
+Machine learning models for chemical reaction prediction are usually evaluated by endpoint accuracy, but endpoint correctness alone does not reveal how a model represents chemical transformation or why it fails. We introduce UniRxnAxis, a unified forward-retrosynthesis framework that models both tasks as direction-conditioned endpoint redistribution in a shared latent space. By aligning source states, transformed states, and encoded target endpoints, UniRxnAxis enables directional auditing of learned latent updates. This shared latent geometry allows the learned displacement (from the encoder source state $S_0$ to the decoder-facing transformed state $S_1$) to be decomposed into an endpoint-parallel component and an endpoint-orthogonal residual, which we call emergent steering. Our evaluation shows that emergent steering is functionally important: in retrosynthesis, it recovers most of the model's utility, remains effective under random, shuffled, and prototype controls, and directly affects which bond edits are promoted or suppressed. The residual-over-parallel ordering persists across alignment strengths, after decoder-interface calibration, against angle-matched random axes, and in a second graph-edit architecture, although its magnitude depends on the reference axis and optimization. The decomposition also supports a proxy taxonomy of model-side failures, showing how reaction models can be audited beyond endpoint accuracy.
+
+摘要：
+
+##### **What You Post Is What You Symptom: Estimating Psychometric Networks from Social Media Discourse**
+2611.21362v1 by Ştefana-Arina Tăbuşcă, Ana Sabina Uban, Liviu P. Dinu
+
+Symptom networks in psychopathology are estimated almost exclusively from self-report questionnaires, restricting inference to whatever symptom set a given instrument covers. We introduce a framework for symptom-resolved network estimation directly from social media discourse and apply the framework to depression and eating disorders, with a third anorexia corpus as cross-dataset validation. To our knowledge, we are the first to estimate symptom-resolved psychometric networks from social media text, compare them to clinical co-endorsement networks, and replicate transdiagnostic linguistic markers across 3 independently recruited corpora spanning 2 disorders simultaneously. For depression, expression scores correlate with BDI-II totals at $ρ{=}0.434$, 20 of 21 items reach FDR significance, and split-half reliability is 0.935. The Network Comparison Test detects few edge differences between modalities (3-5\% of edges), while bridge symptoms diverge. For eating disorders, the item-level results are exploratory. Identified linguistic features replicate the same direction across all 3 corpora, and they cluster in three construct families.
+
+摘要：
+
 ##### **TRIAGE-CPG: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models**
 2611.21331v1 by Paul-Andrei Sava, Alexander Küchler, Daniel Kowatsch, Bernhard Grill, Jennifer Pullman, Yanick Fratantonio, Luca Invernizzi
 
@@ -761,57 +810,6 @@ Oral exams are compelling because (1) students can be asked to provide their rea
 2611.17115v1 by Zimo Xu, Wenzhuo Liu, Hideki Nakayama
 
 Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attacks on 14 (Progent), 13 (IPIGuard) and 11 (DRIFT) of the models, and CaMeL's programs fail to run in up to 68% of episodes. We present CapLite, which derives its policy from the tool schemas, commits the write calls before any tool result is read, and admits a write only if every argument that decides whom or what it affects is stated in the user's request. This guarantees write integrity: injected text cannot add a write, and no write reaches a recipient, amount, object or destination that the user did not state. No attack succeeds in 13,935 attacked AgentDojo episodes. CapLite reaches utility under attack comparable to CaMeL's (29.0% vs. 27.2%) with fewer tokens than every other enforcement defense and than the undefended agent: 17.1k per episode, 18% of CaMeL's, and the highest utility per token of all enforcement defenses.
-
-摘要：
-
-##### **Evaluating Pretrained Language Semantics for Structured EHR Prediction Tasks**
-2611.17053v2 by Ashvin Gupta, Brendan Delaney, Alessandra Russo
-
-Structured Electronic Health Record (EHR) models typically represent clinical concepts as dataset-specific tokens, discarding their associated natural-language semantics. Consequently, relationships between concepts must largely be learned from EHR co-occurrence without directly exploiting pretrained linguistic knowledge. We investigate the contribution of pretrained language semantics to longitudinal EHR prediction through tEHR, a framework that converts clinical events into natural-language descriptions and adapts pretrained autoregressive language models through EHR-specific continued pretraining and task-specific discriminative fine-tuning. We evaluate tEHR across four MIMIC-IV prediction tasks, where Mistral-7B achieves the strongest overall performance against structured-data, code-based, and LLM-based baselines. Controlled ablations demonstrate the importance of lexical grounding, numerical values, and both adaptation stages. A capacity-controlled experiment further shows that replacing clinical descriptions with atomic code tokens substantially reduces performance despite retaining the same LLM backbone. Alternative approaches incorporating pretrained semantic embeddings offer lower computational costs but do not match full textualisation. These results highlight the importance of both semantic representation and downstream adaptation when applying pretrained language models to structured EHR prediction.
-
-摘要：
-
-##### **AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems**
-2611.17015v1 by Tian Cai, Andrew Kleist, Jaimin Patel, Duccio Malinverni, Alexander K. Taylor, Malvika Sharan, Renato Umeton, M. Madan Babu
-
-Artificial intelligence (AI) is changing how biological research is done. Biological foundation models trained on millions of nucleotides, protein, and single-cell measurements predict protein structures, mutation effects, and cellular responses to genetic perturbations. Agentic systems, AI assistants built on large language models, can run multistep analyses from plain-language requests and increasingly call foundation models as tools. Yet it is often unclear when these models' outputs can be trusted. We frame this as a model's knowledge boundary: the range of inputs, tasks, and conditions over which its outputs are reliable. This review explains how foundation models are built and proposes that five design elements (data, architecture, training scheme, evaluation scheme, and post-analysis) define this boundary. We examine evidence on where current models succeed or fail and present standardized descriptions of model limits so that researchers, and the agents acting for them, can use these tools reliably.
-
-摘要：
-
-##### **AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**
-2611.16991v1 by  NovaSilicon Team
-
-Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verification tools. We introduce \textbf{AnalogLayoutWorld}, an open-source agent benchmark with 40 expert-reviewed tasks for end-to-end layout generation from fixed transistor-level netlists. It combines an integrated design environment with independent physical and post-layout electrical verification, as well as objective layout quality metrics co-designed with analog layout experts. Across 13 model--harness configurations, 91.1\% of attempts produce GDS layouts, but only 23.0\% satisfy the benchmark's acceptance criteria. We also evaluate Novara, an internally developed agent system, which achieves the highest reported aggregate score. Our analysis links performance differences to test-time scaling under fixed budgets, suggesting that reasoning efficiency and effective use of verification feedback help sustain design quality as task complexity grows.
-
-摘要：
-
-##### **Primer: An AI Framework for Instructor-Centered Educational Simulation Creation**
-2611.16986v1 by Ethan Mollick, Lilach Mollick, Ben Przystanski, LJ Ciccarelli, Natalie Bach, Laura Zarrow
-
-Educational simulations are a well-established pedagogical technique that gives learners opportunities to apply knowledge, respond to challenges, and reflect on their performance. High-quality simulations, however, are difficult to build, requiring instructor input, scenario design, character development, scaffolding, technical implementation, and repeated revision. This paper presents Primer, an open-source, LLM-agnostic AI-supported system that helps educators create adaptive educational simulations. Educators contribute their knowledge of the subject, lesson, and students, while generative AI produces responsive variations of practice for students. Primer uses a multi-agent system centered around executing educator's instructional intent through the entire learning experience. We hope that by releasing Primer as an open-source system, including its prompts and GitHub repository, we provide a foundation for development and research on educator-in-the-loop AI authoring, multi-agent educational workflows, and simulation-based pedagogy. Further, by allowing the use of various AI models, including local and open source models, we provide the opportunity for implementation under varied governance regimes. Primer points toward a model of educational AI in which instructors can create locally grounded practice opportunities based on their own materials, goals, examples, and knowledge of students.
-
-摘要：
-
-##### **Universal Infectious Disease Forecasting with Mantis 2**
-2611.16935v1 by Carson Dudley, Reiden Magdaleno, Yutong Bi, Anthony Valencia, Xiaofeng Liu, Marisa Eisenberg
-
-Public health agencies need to anticipate how outbreaks will unfold, when they will peak, and how long demand on health services will remain elevated. We previously developed a foundation model, Mantis, which was trained entirely on simulated outbreaks---enabling us to generate the diversity and scale of training data needed to support forecasting across diseases. However, our previous work left unresolved when simulation improves predictions and how it should complement observational data.
-  Here, we varied the balance of simulated and observed training data while holding forecasting tasks fixed and varying the available surveillance history. We found that simulation-rich training was particularly valuable with limited local history, and its relative advantage diminished as more observations became available. We also found that simulation-based training reduced exceptionally large forecast errors, suggesting that mechanistic knowledge can help compensate for limited local evidence.
-  Building on these findings, we developed Mantis 2, which combines simulated and observational training to jointly forecast up to six variables sixteen weeks ahead. Across 30 forecasting tasks, Mantis 2 achieved the best aggregate probabilistic accuracy over short, medium, and long horizons among the machine learning, statistical, and baseline models evaluated. It missed roughly 30\% fewer outbreak peaks than the strongest comparison model, with successfully anticipated peaks identified more than six weeks in advance on average. We publicly release Mantis 2, enabling public health agencies and researchers to forecast disease outcomes without developing a separate model for each disease or location.
-
-摘要：
-
-##### **LLM-Assisted Verification in Dafny**
-2611.16886v1 by Wieger Wesselink, Kees Huizing, Huub van de Wetering
-
-Formal verification of complex algorithms requires expertise in program specification, invariant construction, mathematical proof, and the management of automated theorem provers. Although large language models (LLMs) can generate program code and proof fragments, reliably developing complete machine-checked verifications remains challenging: it requires an iterative process of constructing and validating specifications and invariants, building proofs, diagnosing solver failures, and optimizing verification performance. This paper presents a systematic ten-step workflow for LLM-assisted verification of scientific algorithms using the Dafny verification system. The workflow integrates algorithm formalization, contract development, empirical invariant validation, proof construction, bottleneck profiling, and resource-driven proof optimization. We applied the workflow using Antrhopic's Claude Opus 5 and Opus 5.5 models, combining LLM-driven development with automated testing and verification feedback, while retaining human oversight for correctness-critical decisions and strategic interventions. We evaluate the approach on 37 complex algorithms from graph theory and labelled transition systems. Notably, we verified the Hopfcroft-Tarjan triconnectivity test, demonstrating that even highly challenging algorithmic verification tasks can be carried out through a structured LLM-assisted workflow. Many of our machine-checked verifications were obtained within hours to a few days of interactive development. Our results suggest that LLM-assisted workflows can shift the role of the human verifier from detailed proof construction toward supervision, specification review, and strategic guidance.
-
-摘要：
-
-##### **Context Graph: Explainable Multi-Agent Decision Chains in AI-RAN**
-2611.16879v1 by Xijun Wang, Zhaoyang Liu, Xiang Chen, Howard H. Yang, Chenyuan Feng
-
-AI-RAN distributes network control across multiple autonomous agents, namely xApps and rApps operating over shared radio resources. When an alert or degradation appears, operators currently lack a structured way to trace which decision caused it, what context triggered that decision, and how other agents interacted. Existing explainability tools focus on single-model feature attribution or linear event logging, neither of which captures cross-agent decision chains. We propose the Context Graph, a heterogeneous directed graph that organizes policies, measurements, decisions, and alerts into a queryable explanation layer. Its foundational primitive is the Decision-Event node acting as a causal junction, where incoming edges capture triggering context and outgoing edges track downstream consequences that are progressively upgraded through counterfactual verification. Instantiated over existing E2, A1, and O1 data flows, our proof-of-concept demonstrates that compliance and diagnosis queries are resolved at sub-millisecond latency over graphs of tens of thousands of nodes, while reliably distinguishing true causal impacts from spurious correlations.
 
 摘要：
 

@@ -2,6 +2,7 @@
 ### Medical
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-16**|**What You Post Is What You Symptom: Estimating Psychometric Networks from Social Media Discourse**|Ştefana-Arina Tăbuşcă et.al.|[2611.21362v1](http://arxiv.org/abs/2611.21362v1)|null|
 |**2026-11-16**|**FM-Recon: Exploring Foundation Model Features for Accelerated Cardiac Cine MRI Reconstruction**|Donghang Lyu et.al.|[2611.21290v1](http://arxiv.org/abs/2611.21290v1)|null|
 |**2026-11-16**|**A Generative AI-Driven Architecture for Whole-Home Intelligent Services: Edge Models, Memory Management, and Household Applications**|Mo Zhou et.al.|[2611.21232v1](http://arxiv.org/abs/2611.21232v1)|null|
 |**2026-11-16**|**InclusionMed: Benchmarking AI for Inclusive Healthcare**| The InclusionMed Collaboration et.al.|[2611.21218v1](http://arxiv.org/abs/2611.21218v1)|null|
@@ -36,7 +37,7 @@
 |**2026-11-13**|**Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities**|Jawaher Al-Tuweity et.al.|[2611.18793v1](http://arxiv.org/abs/2611.18793v1)|null|
 |**2026-11-13**|**LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters**|Himanshu Kulkarni et.al.|[2611.17616v1](http://arxiv.org/abs/2611.17616v1)|null|
 |**2026-11-12**|**Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation**|Kate M. O'Neill et.al.|[2611.17532v1](http://arxiv.org/abs/2611.17532v1)|null|
-|**2026-11-12**|**Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living**|Daniele Spoladore et.al.|[2611.17466v1](http://arxiv.org/abs/2611.17466v1)|null|
+|**2026-11-12**|**Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living**|Daniele Spoladore et.al.|[2611.17466v2](http://arxiv.org/abs/2611.17466v2)|null|
 |**2026-11-12**|**Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models**|Tanzeel Abbas et.al.|[2611.17128v1](http://arxiv.org/abs/2611.17128v1)|null|
 |**2026-11-12**|**Your Vision Foundation Model Is Secretly an EEG Foundation Model**|Guoan Wang et.al.|[2611.17031v1](http://arxiv.org/abs/2611.17031v1)|null|
 |**2026-11-12**|**Universal Infectious Disease Forecasting with Mantis 2**|Carson Dudley et.al.|[2611.16935v1](http://arxiv.org/abs/2611.16935v1)|null|
@@ -76,7 +77,7 @@
 |**2026-11-09**|**Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards**|Brendan P. Murphy et.al.|[2611.12728v1](http://arxiv.org/abs/2611.12728v1)|null|
 |**2026-11-09**|**TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge**|Yihan Hank Tang et.al.|[2611.12640v1](http://arxiv.org/abs/2611.12640v1)|null|
 |**2026-11-09**|**Clinical predictions using artificial intelligence in neurosurgery and its subspecialties: a systematic review and meta-analysis**|Prajwal Ghimire et.al.|[2611.12385v1](http://arxiv.org/abs/2611.12385v1)|null|
-|**2026-11-09**|**PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations**|Riccardo Cavarra et.al.|[2611.12307v1](http://arxiv.org/abs/2611.12307v1)|null|
+|**2026-11-09**|**PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations**|Riccardo Cavarra et.al.|[2611.12307v2](http://arxiv.org/abs/2611.12307v2)|null|
 |**2026-11-09**|**RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies**|Meraj Mammadov et.al.|[2611.12251v1](http://arxiv.org/abs/2611.12251v1)|null|
 |**2026-11-09**|**TrajLift: Lifting Memory Recall Trajectories with Latency-Modulated Heat Diffusion**|Jiawen Kang et.al.|[2611.12197v1](http://arxiv.org/abs/2611.12197v1)|null|
 |**2026-11-09**|**CARE-PO: Controllable Tool-Call Efficiency for LLM Agents**|Xiaoyang Ye et.al.|[2611.12125v2](http://arxiv.org/abs/2611.12125v2)|null|
@@ -101,9 +102,15 @@
 |**2026-11-07**|**EndoSCOP-V: A Multi-Turn Video Understanding Evaluation Framework for Multimodal Models in Endoscopy Reporting and Clinical Reasoning**|Abhishek Tyagi et.al.|[2611.10626v1](http://arxiv.org/abs/2611.10626v1)|null|
 |**2026-11-07**|**An LLM-Orchestrated Multi-Modal Chatbot for Tomato Disease Consultant**|Ngoc-Son Le et.al.|[2611.10608v1](http://arxiv.org/abs/2611.10608v1)|null|
 |**2026-11-07**|**AI in the Clinical Documentation Loop: Effects of LLM-Induced Note Bloat and Diagnostic Overcall on Downstream LLMs**|Jinghui Liu et.al.|[2611.10601v1](http://arxiv.org/abs/2611.10601v1)|null|
-|**2026-11-07**|**Safer for Whom? A Systematic Exploration of AI Safety in Eating Disorder Interactions**|Jinyuan Wang et.al.|[2611.10488v1](http://arxiv.org/abs/2611.10488v1)|null|
 
 #### Abstracts
+##### **What You Post Is What You Symptom: Estimating Psychometric Networks from Social Media Discourse**
+2611.21362v1 by Ştefana-Arina Tăbuşcă, Ana Sabina Uban, Liviu P. Dinu
+
+Symptom networks in psychopathology are estimated almost exclusively from self-report questionnaires, restricting inference to whatever symptom set a given instrument covers. We introduce a framework for symptom-resolved network estimation directly from social media discourse and apply the framework to depression and eating disorders, with a third anorexia corpus as cross-dataset validation. To our knowledge, we are the first to estimate symptom-resolved psychometric networks from social media text, compare them to clinical co-endorsement networks, and replicate transdiagnostic linguistic markers across 3 independently recruited corpora spanning 2 disorders simultaneously. For depression, expression scores correlate with BDI-II totals at $ρ{=}0.434$, 20 of 21 items reach FDR significance, and split-half reliability is 0.935. The Network Comparison Test detects few edge differences between modalities (3-5\% of edges), while bridge symptoms diverge. For eating disorders, the item-level results are exploratory. Identified linguistic features replicate the same direction across all 3 corpora, and they cluster in three construct families.
+
+摘要：
+
 ##### **FM-Recon: Exploring Foundation Model Features for Accelerated Cardiac Cine MRI Reconstruction**
 2611.21290v1 by Donghang Lyu, Marius Staring, Ruochen Gao, Jochen Keupp, Hildo J. Lamb, Mariya Doneva
 
@@ -347,7 +354,7 @@ Conductors are critical for the performance of an orchestra even though they do 
 摘要：
 
 ##### **Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living**
-2611.17466v1 by Daniele Spoladore, Marco Sacco, Alberto Trombetta, Edoardo Battisti
+2611.17466v2 by Daniele Spoladore, Marco Sacco, Alberto Trombetta, Edoardo Battisti Sironi
 
 Research on smart homes and ambient assisted living (AAL) has grown steadily over the last decade, driven largely by the ageing of the population. A smart home has to coordinate heterogeneous smart objects in order to offer services tailored to its dwellers, and this requires a shared formal description of both the dwellers and the devices. We present the ontology developed as the semantic data layer of the Virtual Home Framework in the Italian Design For All project. Its requirements are derived from two use cases: a frail elderly woman who exercises at home on a cycle-ergometer, and a designer who configures a kitchen for users with different impairments. The requirements are collected in an Ontology Requirements Specification Document and the ontology is built with the NeOn methodology, reusing and reengineering existing ontologies where possible. The resulting modular ontology describes users through the International Classification of Functioning, Disability and Health (ICF) and through their cardiorespiratory fitness; it also describes smart objects, their programs, the measurements they produce, and the comfort dimensions of the home. SWRL rules classify fitness levels, suggest exercise loads, assess indoor comfort, and identify the smart objects suited to a given impairment.
 
@@ -634,7 +641,7 @@ Artificial intelligence models for clinical prediction are proliferating across 
 摘要：
 
 ##### **PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations**
-2611.12307v1 by Riccardo Cavarra, Lupo Lovatelli, Shaheim Ogbomo-Harmitt, Jakub Grzelak, Adelaide De Vecchi, Andrew King, Oleg Aslanidi
+2611.12307v2 by Riccardo Cavarra, Lupo Lovatelli, Shaheim Ogbomo-Harmitt, Jakub Grzelak, Adelaide De Vecchi, Andrew King, Oleg Aslanidi
 
 Foundation models for physiological signals are commonly evaluated on in-domain interpretation tasks, but their ability to transfer to longitudinal clinical prognosis across healthcare systems remains uncertain. We developed PACE-ECG, an ECG pretraining framework that combines contrastive learning across temporally neighbouring recordings from the same patient with clinically guided multitask supervision. We evaluated frozen ECG representations for post-myocardial-infarction all-cause mortality and incident heart failure prediction across MIMIC-IV and two external HEEDB cohorts, comparing the proposed representation with DeepECG-SSL, a state-of-the-art model, and two control baselines. Across both downstream tasks, the proposed model outperformed DeepECG-SSL in-domain (AUROC +1.9% for mortality and +4.0% for heart failure) and on external populations in HEEDB-Boston (+5.6% for mortality +10.3% for heart failure) and HEEDB-Atlanta (+6.9% for mortality +11.0% for heart failure) while using an encoder 41 times smaller and a fraction of the pretraining data. A matched ablation showed that patient-temporal pairing improved external mortality and heart failure AUROC over generic self-supervision by 7.0% and 9.4% on HEEDB-Boston and 8.9% and 9.3% on HEEDB-Atlanta. These findings indicate that pretraining-objective design greatly influences downstream transfer alongside model and data scale, and that in-domain performance alone is insufficient to establish the clinical generalisability of ECG foundation representations.
 
@@ -809,13 +816,6 @@ This paper introduces a chatbot developed to assist in diagnosing common disease
 2611.10601v1 by Jinghui Liu, Anthony Nguyen, Taylan Gurgenci
 
 Large language models (LLMs) are increasingly used to process medical records for healthcare tasks such as clinical documentation. Because these tools also generate documentation, the relationship is now bidirectional: models both read from and write to the record. Understanding how LLMs behave when reading records that already contain LLM-authored content is therefore critical for their safe deployment. In this study, we examine how LLM-authored content in the medical record affects downstream LLMs that read the same record. We consider two types of LLM-induced artifacts: bloat, in which LLM-generated summaries accumulate in the record and change the length and provenance of its content over time; and distortion, in which LLMs subtly alter clinical findings rather than fabricating facts outright. As a case of distortion, we study diagnostic overcall (documenting an unconfirmed differential diagnosis in the record) and test whether it propagates to the reader LLM's output. Across seven reader models from four families, we find evidence of both effects. First, LLM-generated summary notes modestly but consistently degraded downstream hospital-course generation compared with copy-forward and templated text of matched length. Second, injected overcalls reappeared in downstream outputs at rates that varied by reader model, without detectable changes in standard quality metrics. These findings show the need to monitor AI-generated content in medical records and to account for it when those records are later processed by AI.
-
-摘要：
-
-##### **Safer for Whom? A Systematic Exploration of AI Safety in Eating Disorder Interactions**
-2611.10488v1 by Jinyuan Wang, Minh Duc Chu, Frances Ross, Ellen Fitzsimmons-Craft, Kristina Lerman
-
-AI assistants advise users about diet, exercise, and weight loss---areas in which unsafe guidance can worsen body dissatisfaction, dietary restriction, compulsive exercise, and other behaviors associated with eating disorders (EDs). Existing evaluations emphasize diagnostic accuracy, overtly harmful prompts, or synthetic scenarios, providing limited insight into whether models recognize implicit vulnerability in natural interactions or protect users consistently. We evaluate responses from three open-weight large language models to 100 questions sourced from an online pro-anorexia community. We grade responses using clinically informed criteria that extend a seven-dimensional taxonomy of ED-related harms. We also construct matched conditions in which questions are accompanied by information about the user varying race, gender, body mass index (BMI), and explicit ED vulnerability. Safety varies substantially across models and harm dimensions. High-risk responses are approximately twice as frequent without bios, suggesting that models do not consistently recognize vulnerability from language alone. Explicit signals of ED vulnerability improve safety by 10--14 points across models. Responses also differ significantly by race, gender, and BMI, with body size producing the largest disparities. These patterns are consistent with reliance on the stereotype that EDs primarily affect thin, White women, potentially leaving users outside this profile with less protective responses.
 
 摘要：
 

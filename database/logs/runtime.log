@@ -45829,3 +45829,807 @@ KeyError: 'paper_summary_zh'
 2026-11-23 02:59:24.494 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
 2026-11-23 02:59:24.508 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.13779: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
 2026-11-23 02:59:24.510 +08:00 | SUCCESS  | __main__:parse:273 - handle [4/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-11-24 07:18:35.526 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.551 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.569 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27895: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.575 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27973: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.650 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.654 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.668 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27963: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.673 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27876: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.745 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.750 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.763 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27810: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.768 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27962: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.852 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.862 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.868 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27783: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.888 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27924: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.924 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.943 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.950 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27915: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.953 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.961 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:35.971 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27919: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.976 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27427: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:35.991 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27915: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.037 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.054 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27910: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.060 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.075 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27425: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.078 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.083 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.099 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27911: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.104 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27835: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.166 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.187 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27799: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.204 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.209 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.223 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27910: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.225 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.232 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27826: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.250 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27390: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.272 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.286 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27401: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.315 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.320 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.334 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27899: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.339 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27799: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.341 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.365 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27302: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.378 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.392 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27390: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.428 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.432 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.442 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.449 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27891: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.454 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27780: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.473 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27283: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.480 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.493 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27368: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.534 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.552 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27778: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.555 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.562 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.576 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27876: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.581 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27206: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.587 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.607 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27260: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.654 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.672 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27734: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.675 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.679 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.693 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27183: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.696 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.703 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27870: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.721 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27142: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.775 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.780 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.800 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27868: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.803 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.810 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27698: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.817 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.831 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27142: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.842 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27125: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.893 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.897 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.911 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27689: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.920 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27860: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.922 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.936 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:36.943 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27057: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:36.958 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27100: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.001 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.015 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27686: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.021 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.038 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27839: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.044 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.061 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27007: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.063 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.080 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27032: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.117 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.125 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.138 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27652: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.143 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.151 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27835: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.163 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.173 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26936: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.188 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27007: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.226 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.234 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.247 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27831: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.255 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27556: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.258 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.277 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26900: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.280 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.297 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26920: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.339 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.343 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.357 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27529: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.359 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.365 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27826: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.388 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26806: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.390 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.404 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26897: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.446 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.453 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.461 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27491: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.480 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27811: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.486 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.494 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.501 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26794: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.520 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26343: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.562 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.576 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27467: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.582 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.586 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.600 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.607 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26598: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.612 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27810: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.627 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25898: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.663 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.681 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27434: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.700 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.705 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.718 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27808: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.723 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26564: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.726 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.742 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25896: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.776 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.791 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27427: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.822 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.826 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.840 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27807: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.843 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.850 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26562: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.861 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25894: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.893 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.906 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27410: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.933 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.948 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27799: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.950 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.954 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:37.970 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26343: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:37.976 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25879: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.017 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.035 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27398: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.037 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.052 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.059 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27784: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.074 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.081 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25898: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.093 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25818: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.115 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.132 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27365: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.144 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.162 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27783: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.179 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.192 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.199 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25734: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.211 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25840: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.214 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.234 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27352: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.255 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.269 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27780: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.307 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.315 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.322 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25734: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.324 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.337 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25584: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.343 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27350: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.366 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.380 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27778: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.422 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.428 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.436 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.442 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25640: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.448 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27301: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.467 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25492: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.473 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.489 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27764: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.530 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.534 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.549 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27283: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.554 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25584: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.556 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.573 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25071: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.599 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.613 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27762: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.645 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.651 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.659 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25418: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.661 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.671 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27208: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.676 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24877: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.703 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.717 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27750: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.753 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.760 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.767 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25236: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.770 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.786 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27196: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.791 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24231: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.807 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.824 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27741: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.863 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.867 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.880 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27180: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.883 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.893 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25194: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.910 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24005: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.913 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.926 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27738: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.969 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.973 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:38.986 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27100: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:38.991 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24877: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.015 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.029 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23708: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.031 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.048 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27734: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.081 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.089 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.102 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26999: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.108 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24699: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.110 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.126 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24980: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.145 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.158 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27722: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.195 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.208 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26912: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.211 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.214 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.230 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22991: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.239 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24650: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.255 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.267 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27721: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.299 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.312 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26910: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.318 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.334 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24994: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.340 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.353 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22973: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.359 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.371 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27715: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.408 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.425 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26863: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.445 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.458 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24321: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.461 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.464 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.480 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27713: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.485 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22901: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.521 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.533 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26809: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.547 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.564 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24002: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.567 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.570 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.587 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22697: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.592 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27710: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.633 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.647 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.653 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26776: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.669 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.676 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23910: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.678 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.690 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27698: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.699 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22612: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.731 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.748 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26775: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.768 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.781 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23832: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.785 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.789 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.805 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22539: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.811 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27696: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.835 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.851 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26734: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.865 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.878 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23708: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.901 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.905 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.914 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27689: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.923 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22515: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.934 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.955 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26717: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:39.967 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:39.985 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23700: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.001 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.016 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.023 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27686: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.037 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.043 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23341: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.055 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26588: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.080 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.094 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23651: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.096 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.116 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27673: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.133 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.147 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22268: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.150 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.166 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26545: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.182 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.200 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23454: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.203 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.218 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27652: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.243 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.256 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22169: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.262 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.279 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26525: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.281 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.298 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23189: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.315 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.328 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27622: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.340 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.358 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22148: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.373 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.388 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.394 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26437: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.408 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.415 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23012: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.430 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27618: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.451 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.468 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22010: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.481 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.499 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.506 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26414: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.519 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.525 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22975: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.544 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27607: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.558 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.575 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21808: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.588 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.609 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26398: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.622 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.626 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.641 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27601: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.646 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22973: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.670 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.688 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21781: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.700 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.718 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26343: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.734 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.749 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27559: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.754 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.774 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22826: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.780 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.797 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21562: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.799 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.816 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26316: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.841 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.858 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27556: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.869 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.887 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22697: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.889 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.911 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21538: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.916 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.937 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26261: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.954 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.967 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27554: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:40.970 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:40.986 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23348: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.007 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.022 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21529: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.025 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.041 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26255: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.054 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.072 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27550: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.088 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.106 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22612: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.108 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.123 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.131 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21307: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.150 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26062: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.163 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.179 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27544: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.197 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.218 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22482: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.223 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.231 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.249 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26018: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.254 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21306: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.267 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.285 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27543: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.311 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.328 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22380: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.331 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.348 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21235: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.351 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.368 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.26003: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.385 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.398 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27536: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.426 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.440 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22362: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.446 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.464 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21232: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.466 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.487 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25989: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.501 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.518 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27529: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.534 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.552 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.23341: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.555 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.573 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21218: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.575 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.592 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25903: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.608 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.623 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27521: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.653 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.667 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22268: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.670 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.674 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.687 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24972: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.693 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25898: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.720 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.735 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27516: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.779 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.785 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.797 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25880: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.803 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21129: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.805 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.820 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.831 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22252: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.843 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27506: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.897 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.902 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.919 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21053: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.922 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.929 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25861: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.935 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:41.949 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22248: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:41.964 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27504: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.004 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.012 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.025 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25717: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.034 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20996: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.037 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.054 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22219: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.060 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.078 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27500: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.132 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.137 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.154 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20811: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.159 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25705: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.172 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.177 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.194 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22169: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.201 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27495: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.258 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.268 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.277 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25703: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.283 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20445: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.300 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.308 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.322 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22069: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.327 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27494: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.376 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.381 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.390 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20398: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.399 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25680: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.414 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.428 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.22009: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.443 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.457 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27491: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.491 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.495 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.509 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25672: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.512 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.519 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20268: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.538 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21975: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.567 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.582 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27489: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.608 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.623 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25661: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.626 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.630 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.647 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20094: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.652 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21808: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.687 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.701 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27483: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.734 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.738 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.742 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.755 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25654: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.761 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20019: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.766 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21362: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.805 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.819 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27467: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.853 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.858 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.872 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21290: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.875 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.882 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19698: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.897 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25651: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.918 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.933 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27465: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.974 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.982 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:42.995 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21232: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:42.998 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.005 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19550: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.021 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25644: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.042 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.056 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27462: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.084 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.103 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19525: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.121 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.125 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.138 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21218: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.147 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25635: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.163 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.177 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27447: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.205 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.220 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19166: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.222 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.243 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24972: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.260 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.274 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25586: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.276 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.293 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27445: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.315 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.328 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19165: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.331 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.352 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21053: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.367 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.384 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25534: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.397 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.414 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27444: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.418 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.431 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19082: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.459 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.476 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21040: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.489 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.506 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.514 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25476: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.520 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.528 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19013: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.546 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27443: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.579 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.600 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.21001: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.603 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.624 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25433: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.627 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.641 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18949: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.644 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.661 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27436: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.696 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.715 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20643: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.731 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.746 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25429: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.748 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.770 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18856: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.776 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.797 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27434: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.800 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.817 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20261: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.859 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.872 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25412: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.882 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.896 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.904 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18514: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.906 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.924 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20129: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.929 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27427: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:43.964 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:43.978 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25408: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.012 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.017 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.021 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.034 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18484: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.040 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.20000: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.045 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27426: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.081 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.097 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25335: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.134 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.139 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.143 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.156 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18434: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.161 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19636: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.167 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27425: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.191 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.205 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25328: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.242 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.264 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27424: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.270 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.275 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.288 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18375: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.291 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.298 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19546: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.314 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25235: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.357 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.375 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27423: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.381 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.402 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18321: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.405 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.421 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19525: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.424 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.441 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25228: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.472 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.487 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27421: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.489 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.510 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18297: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.523 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.541 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19343: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.554 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.575 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25215: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.578 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.592 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27410: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.595 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.620 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18248: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.632 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.646 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19275: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.685 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.689 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.703 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25191: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.708 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27401: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.712 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.728 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17953: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.750 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.764 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19166: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.793 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.807 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25128: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.810 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.817 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.824 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27398: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.847 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17858: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.860 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.874 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19165: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.914 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.921 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.928 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25111: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.932 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:44.948 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18793: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.954 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27390: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:44.983 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.000 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19116: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.017 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.035 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25087: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.038 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.042 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.059 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27383: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.064 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17644: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.091 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.106 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19082: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.137 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.151 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.25070: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.153 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.157 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.174 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17015: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.179 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27377: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.213 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.227 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.19013: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.251 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.258 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.265 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24932: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.268 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.285 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16929: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.290 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27376: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.333 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.347 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18994: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.352 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.371 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24887: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.385 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.389 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.407 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16879: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.412 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27372: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.425 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.443 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18484: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.464 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.481 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24877: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.488 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.505 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16767: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.508 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.529 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27369: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.551 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.565 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18458: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.567 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.589 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24869: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.596 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.617 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16726: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.622 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.637 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27365: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.650 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.668 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18816: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.680 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.697 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24721: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.714 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.729 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.736 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16393: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.749 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27353: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.752 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.776 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18434: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.790 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.804 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24654: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.833 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.839 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.855 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27352: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.861 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16315: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.877 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.895 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18375: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.897 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.914 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24576: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.945 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.960 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.16182: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.963 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.971 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:45.978 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27350: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:45.994 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18811: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.023 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.037 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24552: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.070 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.074 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.088 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27349: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.091 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.098 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15843: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.109 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18809: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.145 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.159 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24522: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.186 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.204 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27348: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.207 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.227 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15769: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.231 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.245 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.252 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18297: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.271 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24453: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.285 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.299 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27344: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.312 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.329 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15720: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.346 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.364 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17899: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.366 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.380 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24377: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.382 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.403 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27339: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.427 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.440 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15716: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.462 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.476 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17819: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.482 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.489 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.503 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27326: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.512 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24353: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.528 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.541 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15644: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.568 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.585 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.18793: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.588 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.603 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.614 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27319: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.630 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24321: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.633 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.647 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17381: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.672 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.686 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17616: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.689 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.710 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.27317: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.711 +08:00 | SUCCESS  | __main__:parse:273 - handle [1/4] | topic=`AI` subtopic=`LLM`
+2026-11-24 07:18:46.724 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.738 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24302: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.741 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.758 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15241: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.782 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.796 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17532: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.845 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.849 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.867 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24294: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.872 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15094: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.877 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.898 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.17466: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.899 +08:00 | SUCCESS  | __main__:parse:273 - handle [2/4] | topic=`AI` subtopic=`Medical`
+2026-11-24 07:18:46.950 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.955 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:46.964 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.15049: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:46.969 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24254: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:47.040 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:47.055 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.14942: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:47.058 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:47.075 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24221: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:47.151 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:47.158 +08:00 | ERROR    | __main__:handle_html:120 - Expecting value: line 1 column 1 (char 0)
+2026-11-24 07:18:47.166 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.14935: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:47.167 +08:00 | SUCCESS  | __main__:parse:273 - handle [3/4] | topic=`AI` subtopic=`Medical explainable AI`
+2026-11-24 07:18:47.178 +08:00 | ERROR    | __main__:checkAndCreateFolder:80 - Translation failed for 2611.24115: SSLSocket.do_handshake() takes 1 positional argument but 2 were given
+2026-11-24 07:18:47.180 +08:00 | SUCCESS  | __main__:parse:273 - handle [4/4] | topic=`AI` subtopic=`Knowledge Graphs`

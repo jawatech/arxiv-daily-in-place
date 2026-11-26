@@ -2,6 +2,12 @@
 ### Medical explainable AI
 |Publish Date|Title|Authors|Homepage|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-25**|**On Utilization of Edge-AI for condition monitoring towards predictive maintenance: A use case in dairy processing using explainable AI**|Rahul Umesh Mhapsekar et.al.|[2611.34563v1](http://arxiv.org/abs/2611.34563v1)|null|
+|**2026-11-25**|**When Skills Fail to Compose: Compatibility and Retention in Language Models**|Yan Lin et.al.|[2611.34398v1](http://arxiv.org/abs/2611.34398v1)|null|
+|**2026-11-25**|**EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning**|Kiana Farhadyar et.al.|[2611.34248v1](http://arxiv.org/abs/2611.34248v1)|null|
+|**2026-11-25**|**Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle**|Pui Chung Siu et.al.|[2611.34247v1](http://arxiv.org/abs/2611.34247v1)|null|
+|**2026-11-25**|**FORK: Co-Evolving Safe Disclosure and Decision Skills Against Attackers Who Read Every Refusal**|Hieu Man et.al.|[2611.33879v1](http://arxiv.org/abs/2611.33879v1)|null|
+|**2026-11-25**|**RadOncGym: An Agent-Based Framework for Radiotherapy Dose-Mimicking Optimization**|Tong Miao et.al.|[2611.33821v1](http://arxiv.org/abs/2611.33821v1)|null|
 |**2026-11-24**|**Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study**|Neda Ghafouri et.al.|[2611.33012v1](http://arxiv.org/abs/2611.33012v1)|null|
 |**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Xuanchen Liu et.al.|[2611.33010v1](http://arxiv.org/abs/2611.33010v1)|null|
 |**2026-11-24**|**On Potentiality and Actuality Of Foundation Models**|Fabian Gröger et.al.|[2611.32991v1](http://arxiv.org/abs/2611.32991v1)|null|
@@ -12,7 +18,7 @@
 |**2026-11-24**|**Refining and Aligning Clinical Reasoning with Health Guidelines via Formal Constraints**|Xiaoyang Fan et.al.|[2611.32247v1](http://arxiv.org/abs/2611.32247v1)|null|
 |**2026-11-24**|**Blaming the Machine, Billing the Victim? How Mock Jurors Reassign Fault from Generative AI Systems and Respond to Liability Cliffs in Tort**|Tin Trung Nguyen et.al.|[2611.32188v1](http://arxiv.org/abs/2611.32188v1)|null|
 |**2026-11-24**|**Benchmarking Protein Structure Tokenizers as Generation Targets for Language Models**|Yong Liu et.al.|[2611.32168v1](http://arxiv.org/abs/2611.32168v1)|null|
-|**2026-11-24**|**The algorithmic behavioral sink: Modeling the transition to irreversible demographic collapse**|Feng Yu et.al.|[2611.32084v1](http://arxiv.org/abs/2611.32084v1)|null|
+|**2026-11-24**|**The algorithmic behavioral sink: Modeling the transition to irreversible demographic collapse**|Feng Yu et.al.|[2611.32084v2](http://arxiv.org/abs/2611.32084v2)|null|
 |**2026-11-24**|**Explainable Deep Learning for Malaria Parasite Detection and Species Differentiation in Thick Blood Smear Images: A Pilot Feasibility Study**|Haimanot Bitew et.al.|[2611.31855v1](http://arxiv.org/abs/2611.31855v1)|null|
 |**2026-11-24**|**DELTA: Diagnosing Exploration Lineages via Twin-path Alignment - What Can Contrasting Design Paths Reveal About Microarchitectural Behavior?**|Kaushal Mhapsekar et.al.|[2611.31767v1](http://arxiv.org/abs/2611.31767v1)|null|
 |**2026-11-23**|**Rapid Exploratory Maps and their potential role in supporting evidence-to-policy dialogues and processes**|Gareth J. Hollands et.al.|[2611.31693v1](http://arxiv.org/abs/2611.31693v1)|null|
@@ -96,14 +102,50 @@
 |**2026-11-16**|**Share your Screen and Talk to Gemini: How Young Learners Interact with Multimodal GenAI While Solving Scratch Tasks**|Sven Jacobs et.al.|[2611.21306v1](http://arxiv.org/abs/2611.21306v1)|null|
 |**2026-11-16**|**Language-model agents' beliefs can be manipulated via truthful evidence in open channel**|Jinwei Hu et.al.|[2611.21235v1](http://arxiv.org/abs/2611.21235v1)|null|
 |**2026-11-16**|**A Generative AI-Driven Architecture for Whole-Home Intelligent Services: Edge Models, Memory Management, and Household Applications**|Mo Zhou et.al.|[2611.21232v1](http://arxiv.org/abs/2611.21232v1)|null|
-|**2026-11-16**|**InclusionMed: Benchmarking AI for Inclusive Healthcare**| The InclusionMed Collaboration et.al.|[2611.21218v1](http://arxiv.org/abs/2611.21218v1)|null|
-|**2026-11-16**|**No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses**|Antonio Puertas Gallardo et.al.|[2611.24972v1](http://arxiv.org/abs/2611.24972v1)|null|
-|**2026-11-16**|**Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution**|Hua Zhang et.al.|[2611.21129v1](http://arxiv.org/abs/2611.21129v1)|null|
-|**2026-11-16**|**System 1 agents: a method for local, reliable and fast agentic AI**|Eleftherios Tzanis et.al.|[2611.21053v1](http://arxiv.org/abs/2611.21053v1)|null|
-|**2026-11-16**|**Explaining Cross-Label Decision Structure in Multi-Output Tree Ensembles**|Sylvio Barbon Junior et.al.|[2611.20996v1](http://arxiv.org/abs/2611.20996v1)|null|
-|**2026-11-16**|**Auditing World-Model Explanations in Retail Forecasting: Faithfulness, Accuracy and Price Response**|Karthik Iyer et.al.|[2611.20811v3](http://arxiv.org/abs/2611.20811v3)|null|
 
 #### Abstracts
+##### **On Utilization of Edge-AI for condition monitoring towards predictive maintenance: A use case in dairy processing using explainable AI**
+2611.34563v1 by Rahul Umesh Mhapsekar, Norah O'Shea, Omer Ali, Steven Davy, Lizy Abraham
+
+The Industrial Internet of Things (IIoT) and Artificial Intelligence (AI) are driving Industry 4.0, enhancing productivity, automation, and efficiency in manufacturing systems. This study develops an Edge-AI-based condition monitoring framework, as a step towards predictive maintenance, for a rotary valve in a dairy processing pilot plant, using vibration data collected via a low-power IIoT sensor node and processed on an edge device.
+
+摘要：
+
+##### **When Skills Fail to Compose: Compatibility and Retention in Language Models**
+2611.34398v1 by Yan Lin, Zhongliang Guo, Jingyu Sun, Qiyan Zhao, Ruihong Zeng, Ying Chen, Zhengtao Yao, Yan Wen, Kunyu Peng, Yuxia Wang
+
+Skill acquisition alone does not establish a reusable skill library: task proficiency does not specify a compositional interface. Motivated by agents that acquire and refine skills, we study independently learned soft-prompt skills on frozen language models, with skill identities and execution order supplied. Across four digit-task bases and three record-editing models, mean composition accuracy in one call is at most 7.6%, compared with 88.2% to 100% over two calls that add computation and an explicit intermediate output. Neutral-insertion training improves robustness but leaves substantial interference, which block length and per-token norm alone cannot explain on two of four digit bases. Blocks of the same operation need not be interchangeable: after training next to frozen learned partners, a post hoc test on two Qwen bases shows that replacing those partners with independently learned blocks of the same operations lowers median composition accuracy from 98.0% and 95.3% to 12.7% and 0.5%, although every replacement scores at least 90% alone. Repair can improve a composition while impairing the original skill, and rehearsal improves retention while transfer remains limited on Qwen2.5-0.5B. Internal interventions constrain explanations without identifying a shared failure mechanism. These findings motivate evaluating compatibility, retention and transfer alongside acquisition when building skill libraries for self-evolving agents. Code is available at https://github.com/YanLin-Quinne/SkillCompatibility.
+
+摘要：
+
+##### **EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning**
+2611.34248v1 by Kiana Farhadyar, Yannick Vogt, Philipp Laur, Ayça Çelik, Iman Nematollahi, Gabriel Kalweit, Maria Kalweit
+
+Shapley values in reinforcement learning are used to explain which observation features drive an agent's behavior and expected return, but not its certainty. Explaining certainty requires understanding how observation features influence different sources of return uncertainty, and Shapley values need the agent's prediction for every subset of visible features. We propose EXPOSURE, which uses one mask-aware belief network for both action selection and Shapley explanations. It explains the variance of the return, split into an observational part due to missing features and an inherent part due to the environment's own randomness, and the entropy of its belief over the masked features. In tic-tac-toe and Minesweeper, where exact Shapley values are computable, EXPOSURE gives more accurate explanations of expected return and its uncertainty, while uniquely explaining belief uncertainty.
+
+摘要：
+
+##### **Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle**
+2611.34247v1 by Pui Chung Siu, Yuan Liang, Claudia Cabrera, Mani Mudaliar, Arkaitz Zubiaga
+
+AI systems increasingly help decide which drug targets enter costly clinical trials. We recast each target-disease hypothesis as a dated event, the pair's first clinical trial. This lets us test whether a language model can forecast such events after its training cutoff, rather than recall events before it. We rebuild a dated biomedical knowledge graph as it stood at the end of each year from 2020 up to its newest version. We then ask six open language models, with and without this graph, which targets will enter a first trial for a disease the next year. Without retrieval, the models rank about as well as trial history, a count of each target's past trials in the same therapeutic area, also after their training cutoffs. Evidence dated before the decision adds at most a small gain, before or after the models' training cutoffs. The newest graph raises five of six models clearly above that baseline, but its paths usually include the answer: the pair's own trial, dated after the decision. Evaluations of target prioritisation should date both features and labels, with evidence from before the decision and outcomes after it.
+
+摘要：
+
+##### **FORK: Co-Evolving Safe Disclosure and Decision Skills Against Attackers Who Read Every Refusal**
+2611.33879v1 by Hieu Man, Chao Shang, Rui Dong, Devang Kulshreshtha, Yanjun Qi, Sandesh Swamy
+
+When a guardrail rejects an LLM agent's action, its message reaches any attacker observing the trajectory: a fixed refusal leaves benign users unable to recover, whereas an explanation can tell the attacker what to try next. We study this as safe disclosure: explaining rejections so that authorized tasks recover without increasing adaptive attack success. Safe disclosure depends on both the decision and the message: what the guardrail blocks and what it reveals to the agent and the attacker. Because hand-written rules alone cannot anticipate how adaptive attackers probe decisions or use messages, we introduce FORK, which co-evolves a guardrail's natural-language decision and disclosure skills with an attacker that reads every public message. Each exploited message and permissive decision gives FORK evidence for a gradient-free revision of its natural-language skill library. We evaluate FORK on four benchmarks. Averaged over three agents on FORK-World, FORK cuts attack success rate (ASR) under adaptive attack from 78.4% to 14.1% and keeps utility above 85%, outperforming baselines on both ASR and utility. Notably, on MT-AgentRisk, whose environments and tasks are unseen in training, FORK lowers ASR from 70.6% to 9.1% with 93.1% benign utility.
+
+摘要：
+
+##### **RadOncGym: An Agent-Based Framework for Radiotherapy Dose-Mimicking Optimization**
+2611.33821v1 by Tong Miao, Shupeng Cheng, Xiwen Chen, Ruishan Liu
+
+AI dose-prediction models generate patient-specific 3D dose distributions from patient anatomy, providing an important intermediate representation for automated radiotherapy planning. However, an AI-predicted dose must undergo downstream optimization to produce a physically constrained treatment plan, a process that requires balancing competing planning objectives. We present RadOncGym, an agent-based framework that enables an LLM agent to iteratively tune 12 planning-objective weights for dose-mimicking optimization. To reduce iterative evaluation cost, RadOncGym incorporates a surrogate verifier that provides rapid feedback while allowing the agent to decide when to request a full planning solve within a fixed solve budget. We evaluate RadOncGym on 60 OpenKBP head-and-neck patients, each paired with 10 predictions from OpenKBP-Opt dose-prediction sets, yielding 600 patient-prediction contexts per experimental configuration. Under RadOncGym's 16-turn setting with a three-solve budget, a GPT-5.6 Sol agent reduces mean clinical-criterion violation by 0.6131 Gy and improves DVH and dose scores by 0.5986 and 0.2204 Gy relative to leaving all 12 weights fixed at 1, outperforming all evaluated non-agent weight-tuning methods under the same solve budget. It remains competitive with the 16-solve variants of these methods while requiring 75.0-77.6% less normalized runtime. RadOncGym demonstrates the potential of LLM agents as optimization planners in downstream radiotherapy plan optimization and provides a public testbed for their systematic evaluation. Code and configurations are available at https://github.com/miaot-usc/RadOncGym.
+
+摘要：
+
 ##### **Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study**
 2611.33012v1 by Neda Ghafouri
 
@@ -176,7 +218,7 @@ Discrete structure tokenizers are the standard way to give a language model acce
 摘要：
 
 ##### **The algorithmic behavioral sink: Modeling the transition to irreversible demographic collapse**
-2611.32084v1 by Feng Yu
+2611.32084v2 by Feng Yu
 
 In 2025, the vast majority of major global economies reported a Total Fertility Rate below the replacement level of 2.1. This synchronized collapse has persisted despite extensive pro-natalist financial interventions, revealing a structural limitation in conventional linear demographic models. This paper proposes that the ubiquity of mobile internet and Artificial Intelligence acts as a synthetic mating disruptor, precipitating a non-linear phase transition in human pair-bonding dynamics. Treating the marriage market as a complex system governed by thermodynamic constraints, we present a Fermi-Dirac selection model, using national income distributions as the input spectrum and fitted with Japanese longitudinal data to illustrate how digital hyper-reality generates an increasingly prohibitive Marriage Energy Barrier. Our model quantifies a Tech Factor that decouples female mating expectations from local economic realities during initial courtship, a distortion we predict will be severely exacerbated as AI evolves into an emotional substitute. Projections indicate that this substitution effect is accelerating; without intervention, the world post 2040 risks entering an irreversible demographic contraction, as the sudden surge in TFR required for recovery is biologically impossible. Ultimately, this framework explains why traditional financial subsidies fail to reverse falling birth rates and suggests that digital convenience may represent a behavioral Great Filter that erodes the imperative for species persistence.
 
@@ -782,48 +824,6 @@ Language-model agents' beliefs can be manipulated through open channels such as 
 2611.21232v1 by Mo Zhou
 
 Generative artificial intelligence is entering the home. Cloud-based assistants face governance limitations in data transmission, continuous availability, and the reliability of physical actions, which are especially salient in households where devices remain online, data accumulate over time, and commands trigger real-world actions. Using the home local server as a unifying organizing axis, this article develops a design-oriented review framework. Sources from arXiv, CNKI, ACL Anthology, and official documentation were searched through November 2026 and coded into five evidence categories: reviews, system prototypes, benchmarks, HCI and eldercare studies, and official documentation. System designs were mapped onto shared architectural modules, identifying nine recurrent responsibilities of the home local server. Generative models support perceptual interpretation, intent understanding, and candidate planning, while deterministic validation, knowledge-graph constraints, and authorization leases confine candidate actions to an inspectable space. Home control, emotional companionship, and intelligent guarding can be compared within a common framework: they share state and memory but differ in latency, false positive and negative rates, proactivity, and permissions. Existing benchmarks rely on virtual environments and cannot substitute for real-deployment evaluation. Local deployment is not inherently safer, and technical continuity alone does not establish the social or medical effects of companionship and guarding. The article proposes a five-dimensional evaluation framework covering architectural capability, system resources, privacy, safety and reliability, and human experience, together with six design principles and a future research agenda for local-first intelligent home systems.
-
-摘要：
-
-##### **InclusionMed: Benchmarking AI for Inclusive Healthcare**
-2611.21218v1 by  The InclusionMed Collaboration
-
-Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks covering three of its nine role--capability cells. We evaluated frontier large language models on the Atlas and aggregated their results into the InclusionMed Index, with overall scores ranging from 17.5 to 49.1 out of 100. The Index also reports scores by healthcare role and AI capability, showing that a model's rank varied with the role or capability considered. A within-benchmark analysis using task-level tags showed that the ten highest-ranked models in the Index all scored higher on patient communication than on clinical decision-making. Models with similar Index scores also differed substantially in estimated inference cost. These findings highlight the need for evaluation covering more diverse healthcare needs and for context-specific model selection. Through open collaboration and community contributions, InclusionMed seeks to ensure that diverse healthcare needs worldwide shape how medical AI progress is defined and measured.
-
-摘要：
-
-##### **No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses**
-2611.24972v1 by Antonio Puertas Gallardo, Mario Ceresa
-
-We present No-Harm-Jury, a jury-based automated evaluation framework that scores AI-generated medical responses across seven conceptually distinct harm dimensions using a panel of five diverse language models as independent jurors. Responses generated by Ministral-14B on 3,000 questions drawn from PubMedQA, MedQA, and MedMCQA are scored by five jurors across dimensions of informational, social, psychological, autonomy, economic, privacy, and epistemic harm; the 151 empty responses (98 MedQA, 53 MedM- CQA) are excluded, leaving 2,849 valid samples. The median aggregation robustly suppresses individual juror biases while maintaining coverage through complementary specialisation. No existing system combines all five prop- erties of No-Harm-Jury: automated scalable evaluation, five diverse LLM jurors, robust me- dian aggregation (with a reliability-weighted extension), seven conceptually distinct harm dimensions, and application to medical QA benchmarks.
-
-摘要：
-
-##### **Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution**
-2611.21129v1 by Hua Zhang, Min Jiang
-
-LLM agents can use remote tools and cloud sandboxes, but integrating reasoning, session state, and heterogeneous execution sites remains a runtime design problem. We present Linglong Agent Service (agentsvc), a self-hosted HTTP service and embeddable Python runtime that treats execution site as a configurable dimension alongside model, tools, and context. A parent service retains inference orchestration, tool descriptions, and conversation history; each inference request selects one child environment for file, shell, terminal, and MCP operations. Direct HTTP and child-initiated WebSocket tunnels carry the same application interfaces, including portable request context and centrally managed updates. The normal core path requires no third-party Python packages, with an optional Windows pseudo-terminal dependency. We further present online_debugger as the process-scale special case of execution-site separation: an instrumented program submits exception evidence, executes session-scoped inspection tools inside the incident process, and resumes the same diagnostic session. Its default prompt requires failing-then-passing reproduction evidence for source changes, while runtime patch activation and failed-call recovery remain unimplemented. We explain the design through constrained expected-utility reasoning, compare concrete mechanisms with Hermes Agent, Pi, Codex, and Claude Code, and report implementation and regression-test evidence. The current evidence establishes executable contracts, not performance advantages, repair accuracy, or production recovery. The source code is open source under the MIT license at https://github.com/mz24cn/agents.
-
-摘要：
-
-##### **System 1 agents: a method for local, reliable and fast agentic AI**
-2611.21053v1 by Eleftherios Tzanis, Michail E. Klontzas
-
-Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to build System 1 agents: local agents that call tools without generating text. A deterministic compiler turns each tool's schema and the request into multiple-choice questions whose options come from the request and the schema, then a one-pass decision model answers them. On 1,952 requests to 157 biomedical tools, the best System 1 agent chose the right tool, or correctly declined, for 97.0% of requests, significantly ahead of all 18 local LLM-agent settings (best 95.2%). The System 1 agent filled 97.0% of 6,056 stated argument values. No System 1 call contained invented content, against 5.5-19.7% of LLM calls. The System 1 Agents framework is freely available as open-source software at https://github.com/eltzanis/SystemOneAgents.
-
-摘要：
-
-##### **Explaining Cross-Label Decision Structure in Multi-Output Tree Ensembles**
-2611.20996v1 by Sylvio Barbon Junior, Hiago F. F. Oliveira, Rafael Figueira Gonçalves, Jessica Fernandes Lopes, Ricardo Cerri
-
-A multi-output tree ensemble predicts several binary labels through decision paths that it largely shares across those labels, yet the attribution methods commonly used to explain such models treat each output in isolation. We propose multi-sink Decision Predicate Graphs (ms-DPGs), which extend decision predicate graphs with one sink per label: each leaf contributes to the sink of every label its in-bag positive count for that label. On this representation we define Shared Predicate Flow (SPF), the share of a label's decision mass that passes through conditions active for both labels of a pair, and a contracted view of the graph in which label-specific lifts indicate whether a shared condition raises the probability of both labels or of one at the expense of the other. Controlled experiments show that SPF captures shared decision conditions rather than mere feature overlap. On nine multi-label benchmarks, native multi-output forests share substantially more decision structure than Binary Relevance on eight, including five of the six on which the two are at predictive parity, even at equal hyperparameters, whereas per-label TreeSHAP rankings register the change of architecture without showing whether more is shared. Because a native forest routes every label through the same splits, SPF describes the fitted model rather than the data, and on eight of the nine benchmarks it rises when the feature-label signal is removed; a high SPF is therefore not evidence of shared predictive information. ms-DPG offers a global, predicate-level account of how a multi-output ensemble reuses decision conditions across its labels.
-
-摘要：
-
-##### **Auditing World-Model Explanations in Retail Forecasting: Faithfulness, Accuracy and Price Response**
-2611.20811v3 by Karthik Iyer
-
-Forecasting models that read the price and promotion plan explain each forecast as a baseline, what would sell with nothing planned, plus the lift the plan adds, and merchants order stock and plan promotions on that lift. We show that an explanation can pass the checks used to trust it and still be wrong enough to cost money. We define eight checks for any forecaster that states a plan lift, six with a pass rule fixed before any result, and run them on a world model and on LightGBM. In generated store data with known effects, the world model passes the checks of construction, stability, price direction and agreement with sales and with LightGBM, yet when merchants plan into high-demand weeks it states 1.33 to 1.40 times the true lift, and 1.23 to 1.42 times in eight variants of that world; LightGBM overstates it too (1.26, and 1.16 to 1.35). Both still pick the right weeks to promote, but stock ordered to the world model's lift is off by 0.44 to 0.48 of the true lift. The world model's stated response to a lasting regular-price change is 4.7 to 6.5 times the true -0.5, an error in kind that only a measured cause finds. Sanity checks for explanations test whether an explanation depends on the model; a decision needs to know whether it is right about the world, and these results show the first does not give the second. For the final tuned world models of our companion paper on nine data sets, baseline and lift add up under each model's own plan on every window, but a deeper price cut lowers the forecast in 29% to 83% of item-week steps on Dominick's. Across 703 configurations from the settings searches, checks passed were not related to accuracy (Spearman 0.02, 95% interval -0.02 to 0.05). A noisy benchmark of price episodes in Dominick's data is reported as a check of direction only.
 
 摘要：
 
